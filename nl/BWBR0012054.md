@@ -4,7 +4,7 @@ identifier: "BWBR0012054"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2023-01-01"
+last_updated: "2023-09-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012054"
 soort: "ministeriele-regeling"
@@ -59,19 +59,23 @@ Als energie-investeringen als bedoeld in [artikel 3.42, tweede lid, van de wet](
 
 - c. voor zover sprake is van een investering in een of meerdere voorzieningen als bedoeld in artikel 1, onderdeel D, onder 1.1.F., van die bijlage, voor zover aan de belastingplichtige voor deze investering ten tijde van de aanmelding, bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42), subsidie op grond van het [Besluit stimulering duurzame energieproductie en klimaattransitie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735) is verleend op een aanvraag die tussen 1 januari 2016 en 31 december 2020 is ingediend;
 
-- d. voor zover sprake is van een investering in een of meerdere voorzieningen als bedoeld in artikel 1 van die bijlage, voor zover voor deze investering ten tijde van de aanmelding, bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42), geen subsidie op grond van [titel 2.3 van de Regeling nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.3) is verleend;
-
-- e. voor zover sprake is van een investering in een of meerdere voorzieningen als bedoeld in artikel 1 van die bijlage, voor zover voor deze investering ten tijde van de aanmelding, bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42), geen subsidie op grond van [titel 4.5 van de Regeling nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=4.5) is verleend.
+- d. voor zover sprake is van een investering in een of meerdere voorzieningen als bedoeld in artikel 1 van die bijlage, voor zover voor deze investering ten tijde van de aanmelding, bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42), geen subsidie op grond van [titel 4.5 van de Regeling nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=4.5) is verleend.
 
 ##### Artikel 3
 
-1. De aanmelding bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) van de aangegane verplichtingen of de gemaakte voortbrengingskosten ter zake van een investering als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2023-01-01&g=2023-01-01) moet binnen een termijn van drie maanden plaats vinden. Deze termijn vangt aan:
+1. De aanmelding bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) van de aangegane verplichtingen of de gemaakte voortbrengingskosten ter zake van een investering als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2023-09-05&g=2023-09-05) moet binnen een termijn van drie maanden plaats vinden. Deze termijn vangt aan:
 
 - a. met betrekking tot verplichtingen: bij het aangaan van de verplichtingen;
 
 - b. met betrekking tot voortbrengingskosten: bij de aanvang van het kalenderkwartaal volgend op dat waarin de kosten zijn gemaakt of, indien het bedrijfsmiddel of onderdeel ter zake waarvan de kosten zijn gemaakt in het kalenderkwartaal in gebruik is genomen, bij de ingebruikneming van het bedrijfsmiddel respectievelijk het onderdeel.
 
-2. Indien [artikel 3.52, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.52) van toepassing vindt, vangt met betrekking tot voortbrengingskosten de termijn aan bij de inwerkingtreding van de ministeriële regeling indien dat leidt tot een aanmelding op een eerder tijdstip dan op grond van het eerste lid.
+2. Indien [artikel 3.52, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.52) van toepassing is, vangt met betrekking tot voortbrengingskosten de termijn aan bij de inwerkingtreding van de ministeriële regeling indien dat leidt tot een aanmelding op een eerder tijdstip dan op grond van het eerste lid.
+
+3. In afwijking van het eerste lid geldt een termijn van drie maanden na inwerkingtreding van dit artikellid voor de aanmelding van de in de periode van 1 januari 2023 tot de inwerkingtreding van dit artikellid aangegane verplichtingen of de gemaakte voortbrengingskosten ter zake van:
+
+- a. een investering in een of meer voorzieningen als bedoeld in artikel 1 van de bijlage bij deze regeling, waarvoor ook subsidie is verleend op grond van [titel 2.3 van de Regeling nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.3); of
+
+- b. een investering als bedoeld in artikel 1, onderdeel F, onder 2.1.B., 2.1.G. of 3.1.A., van de bijlage bij deze regeling.
 
 ##### Artikel 4
 
@@ -83,15 +87,15 @@ Als energie-investeringen als bedoeld in [artikel 3.42, tweede lid, van de wet](
 
 1. De verklaring van de minister, bedoeld in [artikel 3.42, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) vermeldt in welke aangewezen bedrijfsmiddelen of onderdelen is geïnvesteerd alsmede het bedrag van de uitgaven ter zake.
 
-2. Het verzoek om een verklaring als bedoeld in het eerste lid wordt gedaan bij de aanmelding bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=3&z=2023-01-01&g=2023-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=4&z=2023-01-01&g=2023-01-01).
+2. Het verzoek om een verklaring als bedoeld in het eerste lid wordt gedaan bij de aanmelding bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=3&z=2023-09-05&g=2023-09-05) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=4&z=2023-09-05&g=2023-09-05).
 
 3. De belastingplichtige legt ten behoeve van het verstrekken van een verklaring als bedoeld in het eerste lid, indien de minister daarom verzoekt, een berekening van de energiebesparing over.
 
-4. De belastingplichtige legt ten behoeve van het in behandeling nemen van een verzoek om een verklaring als bedoeld in het eerste lid, indien de minister daarom verzoekt, een kopie van de afgegeven omgevingsvergunning over indien [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2023-01-01&g=2023-01-01), van toepassing is.
+4. De belastingplichtige legt ten behoeve van het in behandeling nemen van een verzoek om een verklaring als bedoeld in het eerste lid, indien de minister daarom verzoekt, een kopie van de afgegeven omgevingsvergunning over indien [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2023-09-05&g=2023-09-05), van toepassing is.
 
 ##### Artikel 6
 
-1. De minister kan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=5&z=2023-01-01&g=2023-01-01) bedoelde verklaring intrekken op verzoek van de belastingplichtige, dan wel wijzigen of intrekken indien de te harer verkrijging verstrekte gegevens of bescheiden zodanig onjuist of onvolledig zijn geweest dat op het verzoek een andere beslissing zou zijn genomen indien bij de beoordeling daarvan de juiste of volledige gegevens bekend zouden zijn geweest. Onjuistheid of onvolledigheid van gegevens of bescheiden die de minister bekend was of redelijkerwijs bekend had kunnen zijn, kan geen grond opleveren voor wijziging of intrekking van een verklaring.
+1. De minister kan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=5&z=2023-09-05&g=2023-09-05) bedoelde verklaring intrekken op verzoek van de belastingplichtige, dan wel wijzigen of intrekken indien de te harer verkrijging verstrekte gegevens of bescheiden zodanig onjuist of onvolledig zijn geweest dat op het verzoek een andere beslissing zou zijn genomen indien bij de beoordeling daarvan de juiste of volledige gegevens bekend zouden zijn geweest. Onjuistheid of onvolledigheid van gegevens of bescheiden die de minister bekend was of redelijkerwijs bekend had kunnen zijn, kan geen grond opleveren voor wijziging of intrekking van een verklaring.
 
 2. De bevoegdheid tot het intrekken of wijzigen van een verklaring ingevolge het eerste lid vervalt door verloop van vijf jaren na de dagtekening van de verklaring.
 
@@ -107,7 +111,7 @@ Deze regeling treedt in werking met ingang van 1 januari 2001.
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling energie-investeringsaftrek 2001.
 
-## Bijlage. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2023-01-01&g=2023-01-01) van de Uitvoeringsregeling energie-investeringsaftrek 2001
+## Bijlage. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2023-09-05&g=2023-09-05) van de Uitvoeringsregeling energie-investeringsaftrek 2001
 
 ### Artikel 1
 
