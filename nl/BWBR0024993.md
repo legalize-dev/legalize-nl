@@ -4,7 +4,7 @@ identifier: "BWBR0024993"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-01"
-last_updated: "2023-06-01"
+last_updated: "2023-09-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024993"
 soort: "ministeriele-regeling"
@@ -106,7 +106,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 5a
 
-1. Aan het bestuur van de raad voor rechtsbijstand wordt onverminderd de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024993&paragraaf=3&artikel=3&z=2023-09-05&g=2023-06-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0024993&paragraaf=3&artikel=4&z=2023-09-05&g=2023-06-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0024993&paragraaf=3&artikel=5&z=2023-09-05&g=2023-06-01) mandaat, volmacht en machtiging verleend ten aanzien van het nemen van besluiten op verzoeken tot compensatie, indien:
+1. Aan het bestuur van de raad voor rechtsbijstand wordt onverminderd de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024993&paragraaf=3&artikel=3&z=2023-09-05&g=2023-09-05), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0024993&paragraaf=3&artikel=4&z=2023-09-05&g=2023-09-05) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0024993&paragraaf=3&artikel=5&z=2023-09-05&g=2023-09-05) mandaat, volmacht en machtiging verleend ten aanzien van het nemen van besluiten op verzoeken tot compensatie, indien:
 
 - a. De verzoeker op enig moment in de periode van 1 september 2021 tot en met 30 september 2022 kosten heeft gemaakt met als doel als tolk te worden ingeschreven in het register als bedoeld in [artikel 2 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=2) en dat bij die inschrijving de specialisatie ‘interceptietolk’ in de zin van [bijlage 3 bij het Besluit aanwijzen specialisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0045982&bijlage=3) (Stc. 2021, 47967) zou worden vermeld, ongeacht of deze vermelding uiteindelijk in het register is opgenomen;
 
