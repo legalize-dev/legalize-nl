@@ -4,7 +4,7 @@ identifier: "BWBR0041990"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-09-08"
-last_updated: "2020-04-17"
+last_updated: "2023-09-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041990"
 soort: "ministeriele-regeling"
@@ -54,11 +54,15 @@ Er is een Muntadviescommissie, die tot taak heeft de Staatssecretaris van Financ
 
 4. De secretaris kan zich laten vervangen door een medewerker van De Nederlandsche Bank, werkzaam bij de afdeling Chartaal Beleid en Strategie.
 
-5. Tot leden van de commissie worden naast de secretaris maximaal vier personen benoemd, waaronder in ieder geval:
+5. Tot leden van de commissie worden maximaal vier personen benoemd, waaronder in ieder geval:
 
 - a. een numismaat;
 
 - b. een beeldend kunstenaar.
+
+6. De leden worden benoemd voor ten hoogste vier jaar. Herbenoeming kan eenmaal voor ten hoogste vier jaar plaatsvinden.
+
+7. Een lid wordt op eigen verzoek ontslagen. Op advies van de voorzitter kan een lid voorts worden geschorst of ontslagen wegens ongeschiktheid, onbekwaamheid of op andere zwaarwegende gronden.
 
 ##### Artikel 3. Werkwijze
 
@@ -70,11 +74,11 @@ Er is een Muntadviescommissie, die tot taak heeft de Staatssecretaris van Financ
 
 1. De voorzitter en vertegenwoordigers van DNB ontvangen geen vergoeding.
 
-2. Aan de overige leden van de Muntadviescommissie wordt per bijeenkomst een vergoeding toegekend van 3% van het maximum van salarisschaal 18 van [Bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
+2. Aan de overige leden van de Muntadviescommissie wordt per bijeenkomst een vergoeding toegekend van 3% van het maximum van salarisschaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
 
 ##### Artikel 5. Benoeming eerste leden
 
-Tot leden van de Muntadviescommissie als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041990&artikel=2&z=2020-04-17&g=2020-04-17), worden voor de periode van 1 maart 2019 tot en met 31 december 2021 benoemd:
+Tot leden van de Muntadviescommissie als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041990&artikel=2&z=2023-09-08&g=2023-09-08), worden voor de periode van 1 maart 2019 tot en met 31 december 2021 benoemd:
 
 - a. de heer mr. M. Bloemendal (numismaat);
 
