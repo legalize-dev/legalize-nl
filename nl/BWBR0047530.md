@@ -4,7 +4,7 @@ identifier: "BWBR0047530"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-12"
-last_updated: "2022-12-01"
+last_updated: "2023-09-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047530"
 soort: "ministeriele-regeling"
@@ -56,7 +56,9 @@ Als organisaties die objectief kenbaar tot taak hebben om andere organisaties of
 
 - f. de Stichting Connect2Trust;
 
-- g. de Stichting FERM.
+- g. de Stichting FERM;
+
+- h. de Stichting NL CISO Circle of Trust.
 
 ##### Artikel 2
 
