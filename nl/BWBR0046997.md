@@ -4,7 +4,7 @@ identifier: "BWBR0046997"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-02-15"
-last_updated: "2023-08-01"
+last_updated: "2023-09-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046997"
 soort: "zbo"
@@ -44,19 +44,19 @@ Besluit:
 
 ##### Artikel 1. Tijdvakken en examenrooster centrale examens 2024
 
-1. Het eerste tijdvak voor de schriftelijke centrale examens begint op dinsdag 14 mei en eindigt op woensdag 29 mei. De dagen en uren waarop de toetsen van worden afgenomen, zijn vastgesteld zoals vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046997&bijlage=1&z=2023-08-01&g=2023-08-01).
+1. Het eerste tijdvak voor de schriftelijke centrale examens begint op dinsdag 14 mei en eindigt op woensdag 29 mei. De dagen en uren waarop de toetsen van worden afgenomen, zijn vastgesteld zoals vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046997&bijlage=1&z=2023-09-09&g=2023-09-09).
 
-2. Het tweede tijdvak voor de schriftelijke centrale examens begint op maandag 17 juni en eindigt op donderdag 20 juni. De dagen waarop de toetsen worden afgenomen, zijn vastgesteld zoals vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046997&bijlage=2&z=2023-08-01&g=2023-08-01). In maart wordt een nadere indeling van de vakken bekendgemaakt.
+2. Het tweede tijdvak voor de schriftelijke centrale examens begint op dinsdag 18 juni en eindigt op dinsdag 25 juni. De dagen waarop de toetsen worden afgenomen, zijn vastgesteld zoals vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046997&bijlage=2&z=2023-09-09&g=2023-09-09). In maart wordt een nadere indeling van de vakken bekendgemaakt.
 
-3. De afnameperiode voor de centraal schriftelijke en praktische examens in de beroepsgerichte profielvakken begint op maandag 1 april en eindigt op vrijdag 5 juli.
+3. De afnameperiode voor de centraal schriftelijke en praktische examens in de beroepsgerichte profielvakken begint op maandag 1 april en eindigt op vrijdag 19 juli.
 
-4. De afnameperiode voor de flexibele digitale centrale examens in de algemene vakken van de basisberoepsgerichte leerweg en de kaderberoepsgerichte leerweg begint op maandag 1 april en eindigt op vrijdag 5 juli.
+4. De afnameperiode voor de flexibele digitale centrale examens in de algemene vakken van de basisberoepsgerichte leerweg en de kaderberoepsgerichte leerweg begint op maandag 1 april en eindigt op vrijdag 19 juli.
 
 5. Het derde tijdvak vindt plaats in augustus. De dagen en uren waarop de toetsen van het centraal examen in het derde tijdvak worden afgenomen, worden na aanmelding aan de kandidaat door het College voor toetsen en examens meegedeeld.
 
 ##### Artikel 2. Onderdelen met een vroege start
 
-In afwijking van [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046997&artikel=1&z=2023-08-01&g=2023-08-01), valt van de volgende toetsen het begin van de periode waarbinnen de afname dient plaats te vinden voor aanvang van het eerste tijdvak:
+In afwijking van [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046997&artikel=1&z=2023-09-09&g=2023-09-09), valt van de volgende toetsen het begin van de periode waarbinnen de afname dient plaats te vinden voor aanvang van het eerste tijdvak:
 
 - a. in het vmbo: in de gemengde en theoretische leerweg het centraal praktisch examen van de beeldende vakken.
 
@@ -70,19 +70,19 @@ Dit besluit treedt in werking met ingang van 1 augustus 2023.
 
 Dit besluit wordt aangehaald als: Rooster voor de centrale examens van de eindexamens en de staatsexamens voortgezet onderwijs in 2024.
 
-## Bijlage 1. Het rooster voor de centrale examens, eerste tijdvak 2024 als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046997&artikel=1&z=2023-08-01&g=2023-08-01)
+## Bijlage 1. Het rooster voor de centrale examens, eerste tijdvak 2024 als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046997&artikel=1&z=2023-09-09&g=2023-09-09)
 
-|   | bb | kb | gl/tl | havo | vwo |
+|   | **bb** | **kb** | **gl/tl** | **havo** | **vwo** |
 | --- | --- | --- | --- | --- | --- |
 | 1 januari – 21 mei |   |   |   |   | cpe beeldend |
 |   |   |   |   |   |   |
 | 11 maart – 17 mei |   |   | cpe beeldend |   |   |
 |   |   |   |   |   |   |
-| 1 april – 5 juli | cspe beroepsgericht | cspe beroepsgericht | cspe beroepsgericht |   |   |
+| 1 april - 19 juli | cspe beroepsgericht | cspe beroepsgericht | cspe beroepsgericht |   |   |
 |   |   |   |   |   |   |
-| 1 april – 5 juli | flexibele digitale ce’s algemene vakken | flexibele digitale ce’s algemene vakken |   |   |   |
+| 1 april - 19 juli | flexibele digitale ce’s algemene vakken | flexibele digitale ce’s algemene vakken |   |   |   |
 
-| Week 20 | **bb1** | **kb1** | **gl/tl** | **havo** | **vwo** |
+| Week 20 | **bb** 1 | **kb** 1 | **gl/tl** | **havo** | **vwo** |
 | --- | --- | --- | --- | --- | --- |
 | di 14 mei |   |   | 9:00-11:00 | 9:00-11:30 | 9:00-12:00 |
 |   |   |   | geschiedenis | muziek | Grieks |
@@ -91,8 +91,8 @@ Dit besluit wordt aangehaald als: Rooster voor de centrale examens van de eindex
 |   |   |   |   |   |   |
 | wo 15 mei | 9:00-10:30 |   | 9:00-11:00 | 9:00-11:30 | 9:00-12:00 |
 |   | maatschappijkunde2 |   | Duits | Duits | kunst algemeen |
-|   | 13:30-15:00 | 13:30-15:30 | 13:30-15:30 | 13:30-16:30 | 13:30-16:00 |
-|   | nask12 | Nederlands2 | biologie | economie | Engels |
+|   | 13:30-15:00 | 13:30-15:30 | 13:30-15:30 | 13:30-16:30 | 13:30-16:30 |
+|   | nask12 | Nederlands2 | biologie | economie | Nederlands |
 |   |   |   |   |   |   |
 | do 16 mei |   | 9:00-11:00 | 9:00-11:00 | 9:00-12:00 | 9:00-12:00 |
 |   |   | Duits2 | dans / drama | geschiedenis | maatschappij-wetenschappen |
@@ -128,8 +128,8 @@ Dit besluit wordt aangehaald als: Rooster voor de centrale examens van de eindex
 | Week 22 | **bb1** | **kb1** | **gl/tl** | **havo** | **vwo** |
 | ma 27 mei |   |   | 9:00-11:00 |   | 9:00-11:30 |
 |   |   |   | Fries |   | muziek |
-|   |   |   | 13:30-15:30 | 13:30-16:30 | 13:30-16:30 |
-|   |   |   | nask2 | bedrijfseconomie | Nederlands |
+|   |   |   | 13:30-15:30 | 13:30-16:30 | 13:30-16:00 |
+|   |   |   | nask2 | bedrijfseconomie | Engels |
 |   |   |   |   |   |   |
 | di 28 mei |   |   |   |   |   |
 |   |   |   |   |   |   |
@@ -147,23 +147,21 @@ Dit besluit wordt aangehaald als: Rooster voor de centrale examens van de eindex
 
 2 Indien de flexibele digitale centrale examens bb en kb vanaf 2024 regulier zijn, komen deze papieren centrale examens op een vast moment te vervallen.
 
-3 **Continuïteitsplan centrale examens**
+3 **Continuïteitsplan centrale examens:**Voor eventualiteiten waarbij de geheimhouding van de examens geschonden is of afname niet mogelijk is, treedt het Continuïteitsplan in werking. In het meest ingrijpende noodscenario kunnen één of meer centrale examens worden uitgesteld en kunnen het eerste en tweede tijdvak zich uitstrekken tot het moment van de aanvang van de vroegste zomervakantie (aanvangsdatum 6 juli 2024, volgens het overzicht schoolvakanties schooljaar 2023-2024 van het Ministerie van OCW).
 
-Voor eventualiteiten waarbij de geheimhouding van de examens geschonden is of afname niet mogelijk is, treedt het Continuïteitsplan in werking. In het meest ingrijpende noodscenario kunnen één of meer centrale examens worden uitgesteld en kunnen het eerste en tweede tijdvak zich uitstrekken tot het moment van de aanvang van de vroegste zomervakantie (aanvangsdatum 6 juli 2024, volgens het overzicht schoolvakanties schooljaar 2023-2024 van het Ministerie van OCW).
-
-## Bijlage 2. Het rooster voor de centrale examens, het tweede tijdvak 2024 als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046997&artikel=1&z=2023-08-01&g=2023-08-01)
+## Bijlage 2. Het rooster voor de centrale examens, het tweede tijdvak 2024 als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046997&artikel=1&z=2023-09-09&g=2023-09-09)
 
 ### Schriftelijke examens
 
-Het tweede tijdvak begint voor de schriftelijke examens op maandag 17 juni. In maart 2024 wordt bekendgemaakt op welke dagen en tijdstippen de centrale examens in het tweede tijdvak worden afgenomen.
+Het tweede tijdvak begint voor de schriftelijke examens op dinsdag 18 juni. In maart 2024 wordt bekendgemaakt op welke dagen en tijdstippen de centrale examens in het tweede tijdvak worden afgenomen.
 
 ### Flexibele digitale centrale examens bb en kb
 
-Voor de flexibele digitale centrale examens in algemene vakken in de basisberoepsgerichte leerweg en kaderberoepsgerichte leerweg begint de afnameperiode op maandag 1 april 2024 en eindigt op vrijdag 5 juli 2024. In deze periode vindt zowel de eerste afname als de herkansing plaats.
+Voor de flexibele digitale centrale examens in algemene vakken in de basisberoepsgerichte leerweg en kaderberoepsgerichte leerweg begint de afnameperiode op maandag 1 april 2024 en eindigt op vrijdag 19 juli 2024. In deze periode vindt zowel de eerste afname als de herkansing plaats.
 
 ### Centraal schriftelijke en praktische examens
 
-Voor de centraal schriftelijke en praktische examens in de beroepsgerichte profielvakken begint de afnameperiode op maandag 1 april 2024 en eindigt op vrijdag 5 juli 2024. In deze periode vinden zowel de eerste afname als de herkansing plaats. Herkansing van de centraal schriftelijke en praktische examens in de beroepsgerichte vakken in de gemengde leerweg kan pas vanaf woensdag 12 juni 2024 (bekendmaking normering algemene vakken) plaatsvinden, en alleen voor kandidaten uit het vierde leerjaar.
+Voor de centraal schriftelijke en praktische examens in de beroepsgerichte profielvakken begint de afnameperiode op maandag 1 april 2024 en eindigt op vrijdag 19 juli 2024. In deze periode vinden zowel de eerste afname als de herkansing plaats. Herkansing van de centraal schriftelijke en praktische examens in de beroepsgerichte vakken in de gemengde leerweg kan pas vanaf woensdag 12 juni 2024 (bekendmaking normering algemene vakken) plaatsvinden, en alleen voor kandidaten uit het vierde leerjaar.
 
 ### Aangewezen vakken
 
