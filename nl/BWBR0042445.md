@@ -4,7 +4,7 @@ identifier: "BWBR0042445"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-09-14"
-last_updated: "2023-09-01"
+last_updated: "2023-09-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042445"
 soort: "ministeriele-regeling"
@@ -126,7 +126,7 @@ Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afw
 
 ##### Artikel 7
 
-Aan de hoofden van de afdelingen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042445&paragraaf=2&artikel=2&z=2020-01-01&g=2023-09-01), wordt mandaat, volmacht en machtiging verleend met betrekking tot:
+Aan de hoofden van de afdelingen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042445&paragraaf=2&artikel=2&z=2023-09-14&g=2023-09-14), wordt mandaat, volmacht en machtiging verleend met betrekking tot:
 
 - a. het nemen van besluiten over, het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op de personeelsaangelegenheden ten behoeve van de eigen organisatie-eenheid, voor zover het betreft:
 
@@ -144,11 +144,13 @@ Aan de hoofden van de afdelingen, genoemd in [artikel 2](https://wetten.overheid
 
 ##### Artikel 8
 
-Bij financiële uitgaven krijgen afdelingshoofden de bevoegdheid om tot een bedrag van € 15.000,– te tekenen. Dit geldt voor:
+Bij financiële uitgaven krijgen afdelingshoofden de bevoegdheid om tot een bedrag van € 75.000,– inclusief BTW te tekenen. Dit geldt voor:
 
 - a. het organiseren en accorderen van activiteiten binnen hun eigen afdeling/taakveld. Voorafgaand zijn deze activiteiten door de directeur geaccordeerd;
 
-- b. het accorderen van door de eigen afdeling ingediende voorstellen/uitgaven zoals opgenomen in het vastgestelde Bestedingsplan van de directie.
+- b. het accorderen van door de eigen afdeling ingediende voorstellen/uitgaven zoals opgenomen in het vastgestelde Bestedingsplan van de directie;
+
+- c. personele ontwikkeling van medewerkers zoals opleidingen en begeleiding.
 
 ##### Artikel 9
 
