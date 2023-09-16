@@ -4,7 +4,7 @@ identifier: "BWBR0002059"
 country: "nl"
 rank: "kb"
 publication_date: "2023-09-16"
-last_updated: "1996-04-01"
+last_updated: "2023-09-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002059"
 soort: "KB"
@@ -40,7 +40,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-Het aantal leden van de Sociaal-Economische Raad bedraagt drie en dertig.
+Het aantal leden van de Sociaal-Economische Raad bedraagt zesendertig.
 
 ##### Artikel 2
 
