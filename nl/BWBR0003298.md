@@ -4,7 +4,7 @@ identifier: "BWBR0003298"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-09-16"
-last_updated: "2020-04-01"
+last_updated: "2023-09-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003298"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ De volgende organisaties worden aangewezen tot het benoemen van het achter hun n
 
 - a. organisaties van ondernemers:
 
-| Vereniging VNO-NCW: | 7 leden |
+| Vereniging VNO-NCW: | 8 leden |
 | --- | --- |
 | Koninklijke Vereniging MKB-Nederland: | 3 leden |
 | Land- en Tuinbouworganisatie Nederland: | 1 lid |
@@ -58,7 +58,7 @@ De volgende organisaties worden aangewezen tot het benoemen van het achter hun n
 | Federatie Nederlandse Vakbeweging: | 8 leden |
 | --- | --- |
 | Christelijk Nationaal Vakverbond: | 2 leden |
-| Vakcentrale voor Professionals: | 1 lid |
+| Vakcentrale voor Professionals: | 2 leden |
 
 ##### Artikel 2
 
