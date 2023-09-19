@@ -4,7 +4,7 @@ identifier: "BWBR0042440"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-09-19"
-last_updated: "2023-09-01"
+last_updated: "2023-09-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042440"
 soort: "ministeriele-regeling"
@@ -48,25 +48,29 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. **directie:** de directie Kinderopvang van het ministerie van Sociale Zaken en Werkgelegenheid;
 
-- b. **directeur:** de directeur Kinderopvang.
+- b. **directeur:** de directeur Kinderopvang;
+
+- c. **plaatsvervangend directeur:** het afdelingshoofd Stelsel, Toegankelijkheid & Kennis.
 
 #### § 2. Organisatie en taken
 
 ##### Artikel 2
 
-1. De directie bestaat uit de volgende teams:
+1. De directie bestaat uit de volgende afdelingen:
 
-- a. Team directeur;
+- a. Afdeling Kwaliteit, Toezicht & Veiligheid;
 
-- b. Team plaatsvervangend directeur.
+- b. Afdeling Stelsel, Toegankelijkheid & Kennis
 
-2. De directeur en de plaatsvervangend directeur vormen tezamen het Managementteam van de directie.
+- c. MT-lid herziening financieringsstelsel kinderopvang.
 
-3. De directie werkt met een flexibele structuur. Afhankelijk van de beleidsopgaven waarmee de directie zich geconfronteerd ziet, kunnen de directeur en de plaatsvervangend directeur een directiestructuur hanteren die past bij deze opgaven. Hierbij kan bijvoorbeeld gewerkt worden met clusters, projecten, programma’s en/of teams.
+2. De directeur, de afdelingshoofden en het MT-lid herziening financieringsstelsel kinderopvang vormen tezamen het Managementteam (MT) van de directie.
+
+3. De directie werkt met een flexibele structuur. Afhankelijk van de beleidsopgaven waarmee de directie zich geconfronteerd ziet, kan het MT een directiestructuur hanteren die past bij deze opgaven. Hierbij kan bijvoorbeeld gewerkt worden met clusters, projecten, programma’s en/of teams.
 
 ##### Artikel 3
 
-De directeur en de plaatsvervangend directeur zijn verantwoordelijk voor:
+De directeur, de afdelingshoofden en het MT-lid herziening financieringsstelsel kinderopvang zijn verantwoordelijk voor:
 
 - a. het uitvoeren van programma’s en projecten zoals toegewezen door de directeur of vermeld in het jaarplan van de directie;
 
@@ -108,17 +112,13 @@ De directeur en de plaatsvervangend directeur zijn verantwoordelijk voor:
 
 ##### Artikel 5
 
-Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door de plaatsvervangend directeur.
+De plaatsvervangend directeur kan aan rechtstreeks onder haar ressorterende functionarissen bevoegdheden doorverlenen, met uitzondering van bevoegdheden met betrekking tot personeelsaangelegenheden. Doorverlening van bevoegdheden is slechts toegestaan na voorafgaande schriftelijke toestemming van de directeur.
 
 #### § 3. Slotbepalingen
 
 ##### Artikel 6
 
-1. Het [Organisatie-, mandaat- en volmachtbesluit directie Kinderopvang 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0035041) wordt ingetrokken.
-
-2. Deze regeling treedt in werking met ingang van de dag na de datum van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2019.
-
-3. Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit KO 2019.
+Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door de plaatsvervangend directeur.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -129,3 +129,11 @@ De plaatsvervangend directeur kan aan rechtstreeks onder haar ressorterende func
 #### § 3. Slotbepalingen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 7
+
+1. Het [Organisatie-, mandaat- en volmachtbesluit directie Kinderopvang 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0035041) wordt ingetrokken.
+
+2. Deze regeling treedt in werking met ingang van de dag na de datum van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2019.
+
+3. Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit KO 2019.
