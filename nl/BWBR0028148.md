@@ -4,7 +4,7 @@ identifier: "BWBR0028148"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-20"
-last_updated: "2023-05-11"
+last_updated: "2023-09-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028148"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
-- a. Verwantschappen: bacheloropleidingen als bedoeld in [artikel 7.12, eerste lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.12), op grond waarvan onderwijs verzorgd kan worden in daarbij aangewezen vakken;
+- a. Verwantschappen: getuigschriften van bacheloropleidingen als bedoeld in [artikel 7.12, eerste lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.12), certificaten en verklaringen als bedoeld in artikel 7.12, tweede lid, van de Wet voortgezet onderwijs 2020, op grond waarvan onderwijs verzorgd kan worden in daarbij aangewezen vakken;
 
 - b. Verwantschapstabel: tabel waarin verwantschappen zijn opgenomen.
 
@@ -54,7 +54,7 @@ Besluit:
 
 ##### Artikel 3. Rechtsgrondslag
 
-Deze regeling berust op [artikel 7.12, tweede lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.12).
+Deze regeling berust op [artikel 7.12, derde lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.12).
 
 ##### Artikel 4. Inwerkingtreding
 
@@ -62,7 +62,7 @@ Deze regeling treedt in werking met ingang van de dag na de dagtekening van de S
 
 ##### Artikel 5. Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling verwantschapstabel educatieve minor.
+Deze regeling wordt aangehaald als: Regeling verwantschapstabel educatieve minor en educatieve module.
 
 ## Bijlage
 
@@ -282,238 +282,242 @@ Vervallen
 
 ## Bijlage
 
-| **wo bachelor1 in combinatie met educatieve minor** | **CROHO** **code** | **Universiteit indien beperkt tot daarbij genoemde universiteit(en)** | **Bevoegdheid** |
+| wo bachelor in combinatie met educatieve minor of de wo bachelor verbonden aan de educatieve module | CROHO code | Universiteit indien beperkt tot daarbij genoemde universiteit(en) | Bevoegdheid |
 | --- | --- | --- | --- |
 | Aarde en economie | 50668 | Vrije Universiteit Amsterdam | Leraar Aardrijkskunde |
-| Aardwetenschappen | 56986 | Universiteit Utrecht en Vrije Universiteit Amsterdam | **''** |
-| Bèta-gamma (Afstudeerrichting Aardwetenschappen) | 50250 | Universiteit van Amsterdam | Aardrijkskunde |
-| Bèta-gamma (Afstudeerrichting Planologie) | 50250 | Universiteit van Amsterdam | Aardrijkskunde |
-| Bèta-gamma (Afstudeerrichting Sociale Geografie) | 50250 | Universiteit van Amsterdam | Aardrijkskunde |
-| Geografie, Planologie en Milieu | 56947 | Radboud Universiteit Nijmegen | **''** |
-| Future Planet Studies | 50425 | Universiteit van Amsterdam | **''** |
-| International Land and Water Management2 | 50100 | Wageningen University | **''** |
-| Landschapsarchitectuur en ruimtelijke planning3 | 56848 | Wageningen University | **''** |
-| Sociale Geografie en Planologie | 56838 | Rijksuniversiteit Groningen, Universiteit Utrecht en Universiteit van Amsterdam | **''** |
-| Soil, Water, Athmosphere4 | 56968 | Wageningen University | **''** |
-| Technische Planologie | 56194 | Rijksuniversiteit Groningen | **''** |
-| Global Sustainability Science | 56987 | Universiteit Utrecht | **''** |
-| Arabische Taal en Cultuur | 56040 | Universiteit van Amsterdam | Leraar Arabisch |
-| Midden-Oostenstudies: Arabisch | 56098 | Universiteit Leiden | **''** |
-| Fiscale Economie | 56402 | Universiteit Maastricht | Leraar Bedrijfseconomie |
-| Animal Sciences (leertraject onderwijsbevoegdheid Biologie)5 | 56849 | Wageningen University | Leraar Biologie |
-| Liberal Arts and Sciences (Specialisatie ‘Science Program’) | 50393 | Universiteit Maastricht | **''** |
-| Biologie | 56860 | Universiteit Leiden, Rijksuniversiteit Groningen, Universiteit Utrecht, Wageningen University, Universiteit van Amsterdam en Vrije Universiteit Amsterdam | **''** |
-| Biology | 59325 | Radboud Universiteit Nijmegen | **''** |
-| Psychobiologie | 50014 | Universiteit van Amsterdam | **''** |
-| Biomedische Wetenschappen | 56990 | Universiteit Leiden, Universiteit Utrecht, Universiteit Maastricht en Universiteit van Amsterdam | **''** |
-| Biomedische Wetenschappen | 56990 | Radboud Universiteit Nijmegen | Biologie |
-| Bèta-Gamma (Afstudeerrichting Biologie) | 50250 | Universiteit van Amsterdam | **''** |
-| Bèta-gamma (Afstudeerrichting Biomedische Wetenschapen) | 50250 | Universiteit van Amsterdam | Biologie |
-| Bèta-gamma (Afstudeerrichting Neurobiologie) | 50250 | Universiteit van Amsterdam | Biologie |
-| Gezondheidswetenschappen | 56553 | Universiteit Maastricht | **''** |
-| Biomedical Sciences | 59324 | Vrije Universiteit Amsterdam | **''** |
-| Plantenwetenschappen (leertraject onderwijs | 56835 | Wageningen University | **''** |
-| bevoegdheid Biologie)6 | 56835 | Wageningen University | **''** |
-| Gezondheid en Leven7 | 50509 | Vrije Universiteit Amsterdam | ‘ |
-| Duitse Taal en Cultuur (afstudeerrichting Duits) | 56805 | Universiteit Leiden, Universiteit Utrecht, Universiteit van Amsterdam en Radboud Universiteit Nijmegen | Leraar Duits |
-| Europese Talen en Culturen (afstudeerrichting Duits) | 56124 | Rijksuniversiteit Groningen | **''** |
-| Taal- en Cultuurstudies (afstudeerrichting Duits) | 56801 | Universiteit Utrecht | **''** |
-| Liberal Arts and Sciences (afstudeerrichting Duits) | 50393 | Universiteit Utrecht | **''** |
-| Liberal Arts and Sciences (Specialisatie ‘Science Program’) | 50393 | Universiteit Maastricht | **''** |
-| Chinastudies | 56818 | Universiteit Leiden | Leraar Chinees |
-| Bedrijfseconomie | 50750 | Tilburg University | Leraar Economie |
-| Bedrijfskunde | 50645 | Rijksuniversiteit Groningen, Erasmus Universiteit Rotterdam, Vrije Universiteit Amsterdam, Radboud Universiteit Nijmegen en Open Universiteit | **''** |
-| Business Administration | 50897 | Universiteit van Amsterdam | **''** |
-| Economics and Business Economics | 59318 | Universiteit van Amsterdam | **''** |
-| Economie | 56401 | Tilburg University | **''** |
-| Economie en Bedrijfseconomie | 50950 | Rijksuniversiteit Groningen, Erasmus Universiteit Rotterdam, Vrije Universiteit Amsterdam, Radboud Universiteit Nijmegen, Tilburg University, Universiteit Utrecht | **''** |
-| Economie en Bedrijfskunde | 50905 | Universiteit van Amsterdam | **''** |
-| Economie en Beleid | 50101 | Wageningen University | **''** |
-| Fiscale Economie | 56402 | Universiteit van Amsterdam | **''** |
-| International Business Administration | 50952 | Universiteit Twente, Vrije Universiteit Amsterdam | **''** |
-| Technische Bedrijfskunde | 56994 | Universiteit Twente | **''** |
-| Management & Consumer Studies | 56836 | Wageningen University | **''** |
-| Communicatie- en Informatiewetenschappen | 56826 | Vrije Universiteit Amsterdam | Leraar Engels |
-| Engelse Taal en Cultuur | 56806 | Universiteit Leiden, Universiteit Utrecht, Universiteit van Amsterdam en Radboud Universiteit Nijmegen | **''** |
-| English Language and Culture | 50290 | Rijksuniversiteit Groningen, Radboud Universiteit Nijmegen, Universiteit Utrecht | **''** |
-| Europese Talen en Culturen (afstudeerrichting Engels) | 56124 | Rijksuniversiteit Groningen | **''** |
-| Liberal Arts and Sciences (afstudeerrichting Engels) | 50393 | Universiteit Utrecht | **''** |
-| Literatuur en Samenleving | 55823 | Vrije Universiteit Amsterdam | **''** |
-| Taal- en Cultuurstudies (afstudeerrichting Engels) | 56801 | Universiteit Utrecht | **''** |
-| Filosofie | 56081 | Universiteit Leiden, Rijksuniversiteit Groningen, Universiteit Utrecht, Erasmus Universiteit Rotterdam, Universiteit van Amsterdam, Vrije Universiteit Amsterdam, Radboud Universiteit Nijmegen en Tilburg University | Leraar Filosofie |
-| Europese Talen en Culturen (afstudeerrichting Frans) | 56124 | Rijksuniversiteit Groningen | Leraar Frans |
-| Franse Taal en Cultuur | 56808 | Universiteit Leiden, Universiteit Utrecht en Universiteit van Amsterdam | **''** |
-| Liberal Arts and Sciences (afstudeerrichting Frans) | 50393 | Universiteit Utrecht | **''** |
-| Romaanse Talen en Culturen (afstudeerrichting Frans) | 56074 | Radboud Universiteit Nijmegen | **''** |
-| Taal- en Cultuurstudies (afstudeerrichting Frans) | 56801 | Universiteit Utrecht | **''** |
-| Minorities & Multilingualism | 56012 | Rijksuniversiteit Groningen | Leraar Fries |
+| Aardwetenschappen | 56986 | Universiteit Utrecht en Vrije Universiteit Amsterdam | Leraar Aardrijkskunde |
+| Actuariële Wetenschappen | 56411 | Universiteit van Amsterdam | Leraar Wiskunde |
+| Advanced Technology | 50002 | Universiteit Twente | Leraar Natuurkunde |
+| Advanced Technology | 50002 | Universiteit Twente | Leraar Scheikunde |
+| Advanced Technology | 50002 | Universiteit Twente | Leraar Techniek |
+| Agrotechnologie | 56831 | Wageningen University | Leraar Natuurkunde |
 | Algemene Cultuurwetenschappen | 56823 | Erasmus Universiteit Rotterdam, Tilburg University | Leraar Geschiedenis en Staatsinrichting |
-| Geschiedenis | 56034 | Universiteit Leiden, Rijksuniversiteit Groningen, Universiteit Utrecht, Erasmus Universiteit Rotterdam, Universiteit van Amsterdam, Vrije Universiteit Amsterdam en Radboud Universiteit Nijmegen | **''** |
-| Religiewetenschappen | 50902 | Universiteit Leiden, Rijksuniversiteit Groningen, Universiteit Utrecht, Universiteit van Amsterdam, Vrije Universiteit Amsterdam en Radboud Universiteit Nijmegen | Leraar Godsdienst en Levensbeschouwing |
-| Theologie | 56109 | Rijksuniversiteit Groningen, Radboud Universiteit Nijmegen en Tilburg University, Theologische Universiteit Kampen, Theologische Universiteit Apeldoorn | **''** |
-| Theologie (joint degree) | 55004 | Vrije Universiteit Amsterdam | **''** |
-| Theology and Religious Studies | 50910 | Vrije Universiteit Amsterdam | **''** |
+| Algemene Cultuurwetenschappen | 56823 | Tilburg University, Open Universiteit | Leraar Nederlands |
+| Algemene Sociale Wetenschappen | 56631 | Universiteit Utrecht en Universiteit van Amsterdam | Leraar Maatschappijleer |
+| Animal Sciences (leertraject onderwijsbevoegdheid Biologie)1 | 56849 | Wageningen University | Leraar Biologie |
+| Applied Mathematics | 59336 | Universiteit Twente | Leraar Wiskunde |
+| Arabische Taal en Cultuur | 56040 | Universiteit van Amsterdam | Leraar Arabisch |
+| Artificial Intelligence | 56945 | Vrije Universiteit Amsterdam | Leraar Informatica |
+| Artificial Intelligence | 56981 | Rijksuniversiteit Groningen | Leraar Informatica |
+| Artificial Intelligence | 56945 | Radboud Universiteit Nijmegen | Leraar Informatica |
+| Bedrijfseconomie | 50750 | Tilburg University | Leraar Economie |
+| Bedrijfseconomie | 50750 | Tilburg University | Leraar Management en Organisatie |
+| Bedrijfskunde | 50645 | Rijksuniversiteit Groningen, Erasmus Universiteit Rotterdam, Vrije Universiteit Amsterdam, Radboud Universiteit Nijmegen en Open Universiteit | Leraar Economie |
+| Bedrijfskunde | 50645 | Rijksuniversiteit Groningen, Erasmus Universiteit Rotterdam, Vrije Universiteit Amsterdam, Radboud Universiteit Nijmegen en Open Universiteit | Leraar Management en Organisatie |
+| Bestuurs- en Organisatiewetenschap | 50007 | Universiteit Utrecht en Vrije Universiteit Amsterdam | Leraar Maatschappijleer |
+| Bestuurskunde | 56627 | Universiteit Leiden, Erasmus Universiteit Rotterdam, Radboud Universiteit Nijmegen en Tilburg University | Leraar Maatschappijleer |
+| Bèta-gamma | 50250 | Universiteit van Amsterdam | Leraar Natuurkunde |
+| Bèta-gamma | 50250 | Universiteit van Amsterdam | Leraar Scheikunde |
+| Bèta-gamma | 50250 | Universiteit van Amsterdam | Leraar Wiskunde |
+| Bèta-gamma (Afstudeerrichting Aardwetenschappen) | 50250 | Universiteit van Amsterdam | Leraar Aardrijkskunde |
+| Bèta-Gamma (Afstudeerrichting Biologie) | 50250 | Universiteit van Amsterdam | Leraar Biologie |
+| Bèta-gamma (Afstudeerrichting Biomedische Wetenschapen) | 50250 | Universiteit van Amsterdam | Leraar Biologie |
+| Bèta-gamma (Afstudeerrichting Culturele Antropologie) | 50250 | Universiteit van Amsterdam | Leraar Maatschappijleer |
+| Bèta-gamma (Afstudeerrichting Kunstmatige Intelligentie) | 50250 | Universiteit van Amsterdam | Leraar Informatica |
+| Bèta-gamma (Afstudeerrichting Neurobiologie) | 50250 | Universiteit van Amsterdam | Leraar Biologie |
+| Bèta-gamma (Afstudeerrichting Planologie) | 50250 | Universiteit van Amsterdam | Leraar Aardrijkskunde |
+| Bèta-gamma (Afstudeerrichting Politicologie) | 50250 | Universiteit van Amsterdam | Leraar Maatschappijleer |
+| Bèta-gamma (Afstudeerrichting Sociale Geografie) | 50250 | Universiteit van Amsterdam | Leraar Aardrijkskunde |
+| Bèta-gamma (Afstudeerrichting Sociologie) | 50250 | Universiteit van Amsterdam | Leraar Maatschappijleer |
+| BioFarmaceutische Wetenschappen | 50207 | Universiteit Leiden | Leraar Scheikunde |
+| Biologie | 56860 | Universiteit Leiden, Rijksuniversiteit Groningen, Universiteit Utrecht, Wageningen University, Universiteit van Amsterdam en Vrije Universiteit Amsterdam | Leraar Biologie |
+| Biology | 59325 | Radboud Universiteit Nijmegen | Leraar Biologie |
+| Biomedical Sciences | 59324 | Vrije Universiteit Amsterdam | Leraar Biologie |
+| Biomedische Technologie | 56226 | Rijksuniversiteit Groningen, Technische Universiteit Eindhoven en Universiteit Twente | Leraar Natuurkunde |
+| Biomedische Technologie | 56226 | Rijksuniversiteit Groningen, Technische Universiteit Eindhoven en Universiteit Twente | Leraar Scheikunde |
+| Biomedische Technologie | 56226 | Technische Universiteit Eindhoven en Universiteit Twente | Leraar Wiskunde |
+| Biomedische Wetenschappen | 56990 | Universiteit Leiden, Universiteit Utrecht, Universiteit Maastricht en Universiteit van Amsterdam | Leraar Biologie |
+| Biomedische Wetenschappen | 56990 | Radboud Universiteit Nijmegen | Leraar Biologie |
+| Biotechnologie | 56841 | Wageningen University | Leraar Natuurkunde |
+| Biotechnologie | 56841 | Wageningen University | Leraar Scheikunde |
+| Bouwkunde | 56951 | Technische Universiteit Eindhoven | Leraar Natuurkunde |
+| Bouwkunde | 56951 | Technische Universiteit Delft en Technische Universiteit Eindhoven | Leraar Techniek |
+| Business Administration | 50897 | Universiteit van Amsterdam | Leraar Economie |
+| Business Analytics | 56856 | Vrije Universiteit Amsterdam | Leraar Wiskunde |
+| Business Information Technology | 56066 | Universiteit Twente | Leraar Informatica |
+| Chemistry | 56943 | Radboud Universiteit Nijmegen | Leraar Scheikunde |
+| Chinastudies | 56818 | Universiteit Leiden | Leraar Chinees |
+| Civiele Techniek | 56952 | Technische Universiteit Delft en Universiteit Twente | Leraar Natuurkunde |
+| Civiele Techniek | 56952 | Technische Universiteit Delft en Universiteit Twente | Leraar Techniek |
+| Civiele Techniek | 56952 | Technische Universiteit Delft en Universiteit Twente | Leraar Wiskunde |
+| Cognitive Science and Artificial Intelligence | 59338 | Tilburg University | Leraar Informatica |
+| Communicatie- en Informatiewetenschappen | 56826 | Vrije Universiteit Amsterdam | Leraar Engels |
+| Communicatie- en Informatiewetenschappen | 56826 | Tilburg University | Leraar Nederlands |
+| Communicatiewetenschap | 56615 | Universiteit Twente, Universiteit van Amsterdam, Vrije Universiteit Amsterdam en Radboud Universiteit Nijmegen | Leraar Maatschappijleer |
+| Computer Science | 50426 | Vrije Universiteit Amsterdam | Leraar Informatica |
+| Computing Science | 59326 | Radboud Universiteit Nijmegen | Leraar Informatica |
+| Creative Technology | 50447 | Universiteit Twente | Leraar Informatica |
+| Culturele Antropologie en Ontwikkelingssociologie | 50035 | Universiteit Leiden, Universiteit Utrecht, Universiteit van Amsterdam, Vrije Universiteit Amsterdam en Radboud Universiteit Nijmegen | Leraar Maatschappijleer |
+| Data Science & Artificial Intelligence | 50300 | Universiteit Maastricht | Leraar Informatica |
+| Data Science (joint degree) | 55018 | Tilburg University en Technische Universiteit Eindhoven | Leraar Wiskunde |
+| Data Science (joint degree)2 | 55018 | Tilburg University en Technische Universiteit Eindhoven | Leraar Informatica |
+| Data Science and Knowledge Engineering | 50300 | Universiteit Maastricht | Leraar Informatica |
+| Data Science and Knowledge Engineering | 50300 | Universiteit Maastricht | Leraar Wiskunde |
+| Duitse Taal en Cultuur (afstudeerrichting Duits) | 56805 | Universiteit Leiden, Universiteit Utrecht, Universiteit van Amsterdam en Radboud Universiteit Nijmegen | Leraar Duits |
+| Econometrics & Operations Research | 56833 | Universiteit Maastricht | Leraar Wiskunde |
+| Econometrie | 59332 | Universiteit van Amsterdam | Leraar Wiskunde |
+| Econometrie en Operationele Research | 56833 | Rijksuniversiteit Groningen, Erasmus Universiteit Rotterdam, Universiteit Maastricht, Vrije Universiteit Amsterdam en Tilburg University | Leraar Wiskunde |
+| Economics and Business Economics | 59318 | Universiteit van Amsterdam | Leraar Economie |
+| Economie | 56401 | Tilburg University | Leraar Economie |
+| Economie en Bedrijfseconomie | 50950 | Rijksuniversiteit Groningen, Erasmus Universiteit Rotterdam, Vrije Universiteit Amsterdam, Radboud Universiteit Nijmegen, Tilburg University, Universiteit Utrecht | Leraar Economie |
+| Economie en Bedrijfseconomie | 50950 | Rijksuniversiteit Groningen; Universiteit Utrecht; Erasmus Universiteit Rotterdam; Vrije Universiteit Amsterdam; Radboud Universiteit Nijmegen; Tilburg University | Leraar Management en Organisatie |
+| Economie en Bedrijfskunde | 50905 | Universiteit van Amsterdam | Leraar Economie |
+| Economie en Beleid | 50101 | Wageningen University | Leraar Economie |
+| Electrical Engineering | 56953 | Technische Universiteit Delft, Technische Universiteit Eindhoven, Universiteit Twente | Leraar Informatica |
+| Electrical Engineering | 56953 | Technische Universiteit Delft en Technische Universiteit Eindhoven en Universiteit Twente | Leraar Natuurkunde |
+| Electrical Engineering | 56953 | Technische Universiteit Delft, Technische Universiteit Eindhoven en Universiteit Twente | Leraar Techniek |
+| Electrical Engineering | 56953 | Technische Universiteit Delft, Technische Universiteit Eindhoven en Universiteit Twente | Leraar Wiskunde |
+| Engelse Taal en Cultuur | 56806 | Universiteit Leiden, Universiteit Utrecht, Universiteit van Amsterdam en Radboud Universiteit Nijmegen | Leraar Engels |
+| English Language and Culture | 50290 | Rijksuniversiteit Groningen, Radboud Universiteit Nijmegen, Universiteit Utrecht | Leraar Engels |
+| Environmental Sciences | 56283 | Wageningen University | Leraar Natuurkunde |
+| Environmental Sciences | 56283 | Wageningen University | Leraar Scheikunde |
+| Europese Talen en Culturen (afstudeerrichting Duits) | 56124 | Rijksuniversiteit Groningen | Leraar Duits |
+| Europese Talen en Culturen (afstudeerrichting Engels) | 56124 | Rijksuniversiteit Groningen | Leraar Engels |
+| Europese Talen en Culturen (afstudeerrichting Frans) | 56124 | Rijksuniversiteit Groningen | Leraar Frans |
+| Europese Talen en Culturen (afstudeerrichting Spaans) | 56124 | Rijksuniversiteit Groningen | Leraar Spaans |
+| Farmaceutische Wetenschappen | 56989 | Vrije Universiteit Amsterdam | Leraar Scheikunde |
+| Farmacie | 56157 | Rijksuniversiteit Groningen en Universiteit Utrecht | Leraar Scheikunde |
+| Filosofie | 56081 | Universiteit Leiden, Rijksuniversiteit Groningen, Universiteit Utrecht, Erasmus Universiteit Rotterdam, Universiteit van Amsterdam, Vrije Universiteit Amsterdam, Radboud Universiteit Nijmegen en Tilburg University | Leraar Filosofie |
+| Fiscale Economie | 56402 | Universiteit Maastricht | Leraar Bedrijfseconomie |
+| Fiscale Economie | 56402 | Universiteit van Amsterdam | Leraar Economie |
+| Food Technology | 56973 | Wageningen University | Leraar Scheikunde |
+| Franse Taal en Cultuur | 56808 | Universiteit Leiden, Universiteit Utrecht en Universiteit van Amsterdam | Leraar Frans |
+| Future Planet Studies | 50425 | Universiteit van Amsterdam | Leraar Aardrijkskunde |
+| Geografie, Planologie en Milieu | 56947 | Radboud Universiteit Nijmegen | Leraar Aardrijkskunde |
+| Geschiedenis | 56034 | Universiteit Leiden, Rijksuniversiteit Groningen, Universiteit Utrecht, Erasmus Universiteit Rotterdam, Universiteit van Amsterdam, Vrije Universiteit Amsterdam en Radboud Universiteit Nijmegen | Leraar Geschiedenis en Staatsinrichting |
+| Gezondheid en Leven3 | 50509 | Vrije Universiteit Amsterdam | Leraar Biologie |
+| Gezondheidswetenschappen | 56553 | Universiteit Maastricht | Leraar Biologie |
+| Global Sustainability Science | 56987 | Universiteit Utrecht | Leraar Aardrijkskunde |
 | Griekse en Latijnse Taal en Cultuur | 56003 | Universiteit Leiden, Rijksuniversiteit Groningen, Universiteit van Amsterdam, Vrije Universiteit Amsterdam en Radboud Universiteit Nijmegen | Leraar Grieks, Latijn en KCV |
 | Hebreeuwse Taal en Cultuur | 50901 | Universiteit van Amsterdam | Leraar Hebreeuws |
-| Artificial Intelligence | 56945 | Vrije Universiteit Amsterdam | Leraar Informatica |
-| Artificial Intelligence | 56981 | Rijksuniversiteit Groningen | **''** |
-| Bèta-gamma (Afstudeerrichting Kunstmatige Intelligentie) | 50250 | Universiteit van Amsterdam | Informatica |
-| Business Information Technology | 56066 | Universiteit Twente | **''** |
-| Computer Science | 50426 | Vrije Universiteit Amsterdam | **''** |
-| Computing Science | 59326 | Radboud Universiteit Nijmegen | **''** |
-| Creative Technology | 50447 | Universiteit Twente | **''** |
-| Technische Wiskunde | 56965 | Technische Universiteit Delft | **''** |
-| Data Science and Knowledge Engineering | 50300 | Universiteit Maastricht | **''** |
-| Electrical Engineering | 56953 | Technische Universiteit Delft, Technische Universiteit Eindhoven, Universiteit Twente | **''** |
-| Informatica | 56978 | Universiteit Leiden, Rijksuniversiteit Groningen, Universiteit Utrecht en Universiteit van Amsterdam | **''** |
-| Information Sciences | 56869 | Vrije Universiteit Amsterdam | **''** |
-| Informatiekunde | 56842 | Universiteit van Amsterdam | **''** |
-| Informatiekunde | 56842 | Universiteit Utrecht | **''** |
-| Kunstmatige Intelligentie | 56981 | Universiteit van Amsterdam | **''** |
-| Technische Informatica | 56964 | Technische Universiteit Delft en Technische Universiteit Eindhoven | **''** |
-| Informatiekunde | 56842 | Rijksuniversiteit Groningen | **''** |
-| Artificial Intelligence | 56945 | Radboud Universiteit Nijmegen | **''** |
-| Data Science (joint degree)8 | 55018 | Tilburg University en Technische Universiteit Eindhoven | **''** |
-| Cognitive Science and Artificial Intelligence | 59338 | Tilburg University | **''** |
+| Human Geography and Planning | 50974 | Rijksuniversiteit Groningen | Aardrijkskunde |
+| Industrial Design | 50441 | Technische Universiteit Eindhoven | Leraar Natuurkunde |
+| Industrial Design | 50441 | Technische Universiteit Eindhoven | Leraar Techniek |
+| Industrial Design Engineering | 50975 | Universiteit Twente | Leraar Natuurkunde |
+| Industrial Design Engineering | 50975 | Universiteit Twente | Leraar Techniek |
+| Industrieel Ontwerpen | 56955 | Technische Universiteit Delft en Universiteit Twente | Leraar Natuurkunde |
+| Industrieel Ontwerpen | 56955 | Technische Universiteit Delft en Universiteit Twente | Leraar Techniek |
+| Informatica | 56978 | Universiteit Leiden, Rijksuniversiteit Groningen, Universiteit Utrecht en Universiteit van Amsterdam | Leraar Informatica |
+| Informatiekunde | 56842 | Universiteit van Amsterdam en Universiteit Utrecht | Leraar Informatica |
+| Information Sciences | 56869 | Vrije Universiteit Amsterdam | Leraar Informatica |
+| International Business | 50019 | Rijksuniversiteit Groningen en Universiteit Maastricht | Leraar Management en Organisatie |
+| International Business Administration | 50952 | Universiteit Twente, Vrije Universiteit Amsterdam | Leraar Economie |
+| International Business Administration | 50952 | Universiteit Twente | Leraar Management en Organisatie |
+| International Land and Water Management4 | 50100 | Wageningen University | Leraar Aardrijkskunde |
 | Italiaanse Taal en Cultuur | 56809 | Universiteit Leiden, Universiteit Utrecht en Universiteit van Amsterdam | Leraar Italiaans |
+| Klinische Technologie (joint degree) | 55007 | Technische Universiteit Delft, Erasmus Universiteit Rotterdam en Universiteit Leiden | Leraar Wiskunde |
 | Kunstgeschiedenis | 56824 | Universiteit Leiden, Rijksuniversiteit Groningen, Universiteit Utrecht, Universiteit van Amsterdam en Radboud Universiteit Nijmegen | Leraar Kunstvakken-I en Kunstvakken-II |
-| Kunstgeschiedenis | 56824 | Universiteit Leiden, Rijksuniversiteit Groningen, Universiteit Utrecht, Universiteit van Amsterdam en Radboud Universiteit Nijmegen |   |
+| Kunstmatige Intelligentie | 56981 | Universiteit van Amsterdam en Universiteit Utrecht | Leraar Informatica |
+| Kunstmatige Intelligentie | 56981 | Universiteit van Amsterdam | Leraar Wiskunde |
+| Kunstmatige Intelligentie | 56943 | Universiteit van Amsterdam | Leraar Wiskunde |
+| Landschapsarchitectuur en ruimtelijke planning5 | 56848 | Wageningen University | Leraar Aardrijkskunde |
+| Latijns-Amerikastudies | 56052 | Universiteit Leiden | Leraar Spaans |
 | Latijnse Taal en Cultuur | 56816 | Universiteit van Amsterdam | Leraar Latijn en KCV |
-| Oudheidwetenschappen | 56704 | Vrije Universiteit Amsterdam | **''** |
-| Algemene Sociale Wetenschappen | 56631 | Universiteit Utrecht en Universiteit van Amsterdam | Leraar Maatschappijleer |
-| Bèta-gamma (Afstudeerrichting Culturele Antropologie) | 50250 | Universiteit van Amsterdam | Maatschappijleer |
-| Bèta-gamma (Afstudeerrichting Politicologie) | 50250 | Universiteit van Amsterdam | Maatschappijleer |
-| Bèta-gamma (Afstudeerrichting Sociologie) | 50250 | Universiteit van Amsterdam | Maatschappijleer |
-| Bestuurskunde | 56627 | Universiteit Leiden, Erasmus Universiteit Rotterdam, Radboud Universiteit Nijmegen en Tilburg University | **''** |
-| Bestuurs- en Organisatiewetenschap | 50007 | Universiteit Utrecht en Vrije Universiteit Amsterdam | **''** |
-| Communicatiewetenschap | 56615 | Universiteit Twente, Universiteit van Amsterdam, Vrije Universiteit Amsterdam en Radboud Universiteit Nijmegen | **''** |
-| Culturele Antropologie en Ontwikkelingssociologie | 50035 | Universiteit Leiden, Universiteit Utrecht, Universiteit van Amsterdam, Vrije Universiteit Amsterdam en Radboud Universiteit Nijmegen | **''** |
-| Management, Society and Technology | 56654 | Universiteit Twente | **''** |
-| Politicologie | 56606 | Universiteit Leiden, Universiteit van Amsterdam, Vrije Universiteit Amsterdam en Radboud Universiteit Nijmegen | **''** |
-| Sociologie | 56601 | Rijksuniversiteit Groningen, Universiteit Utrecht, Erasmus Universiteit Rotterdam, Universiteit van Amsterdam, Vrije Universiteit Amsterdam, Radboud Universiteit Nijmegen en Tilburg University | **''** |
-| Bedrijfseconomie | 50750 | Tilburg University | Leraar Management en Organisatie |
-| Bedrijfskunde | 50645 | Rijksuniversiteit Groningen, Erasmus Universiteit Rotterdam, Vrije Universiteit Amsterdam, Radboud Universiteit Nijmegen en Open Universiteit | **''** |
-| Economie en Bedrijfseconomie | 50950 | Rijksuniversiteit Groningen; Universiteit Utrecht; Erasmus Universiteit Rotterdam; Vrije Universiteit Amsterdam; Radboud Universiteit Nijmegen; Tilburg University | **''** |
-| Economie en Bedrijfseconomie | 50950 | Rijksuniversiteit Groningen; Universiteit Utrecht; Erasmus Universiteit Rotterdam; Vrije Universiteit Amsterdam; Radboud Universiteit Nijmegen; Tilburg University |   |
-| International Business | 50019 | Rijksuniversiteit Groningen en Universiteit Maastricht | **''** |
-| International Business Administration | 50952 | Universiteit Twente | **''** |
-| Technische Bedrijfskunde | 56994 | Universiteit Twente | **''** |
-| Advanced Technology | 50002 | Universiteit Twente | Leraar Natuurkunde |
-| Agrotechnologie | 56831 | Wageningen University | **''** |
-| Liberal Arts & Sciences (afstudeerrichting Natuurkunde) | 50393 | Universiteit Maastricht | **''** |
-| Bèta-gamma | 50250 | Universiteit van Amsterdam | **''** |
-| Biomedische Technologie | 56226 | Rijksuniversiteit Groningen, Technische Universiteit Eindhoven en Universiteit Twente | **''** |
-| Biotechnologie | 56841 | Wageningen University | **''** |
-| Bouwkunde | 56951 | Technische Universiteit Eindhoven | **''** |
-| Civiele Techniek | 56952 | Technische Universiteit Delft en Universiteit Twente | **''** |
-| Electrical Engineering | 56953 | Technische Universiteit Delft en Technische Universiteit Eindhoven en Universiteit Twente | **''** |
-| Environmental Sciences | 56283 | Wageningen University | **''** |
-| Industrial Design | 50441 | Technische Universiteit Eindhoven | **''** |
-| Industrieel Ontwerpen | 56955 | Technische Universiteit Delft en Universiteit Twente | **''** |
-| Luchtvaart- en Ruimtevaarttechniek | 56956 | Technische Universiteit Delft | **''** |
-| Maritieme Techniek | 56957 | Technische Universiteit Delft | **''** |
-| Medische Natuurwetenschappen | 50800 | Vrije Universiteit Amsterdam | **''** |
-| Moleculaire Levenswetenschappen | 59304 | Wageningen University | **''** |
-| Molecular Life Sciences | 56944 | Radboud Universiteit Nijmegen | **''** |
-| Nanobiologie (joint degree) | 55003 | Erasmus Universiteit Rotterdam en Technische Universiteit Delft | **''** |
-| Natuur- en Sterrenkunde | 56984 | Universiteit Utrecht en Radboud Universiteit Nijmegen | **''** |
-| Natuur- en Sterrenkunde (joint degree) | 55013 | Universiteit van Amsterdam en Vrije Universiteit Amsterdam | **''** |
-| Natuurkunde | 50206 | Universiteit Leiden en Rijksuniversiteit Groningen | **''** |
-| Science | 56948 | Radboud Universiteit Nijmegen | **''** |
-| Science, Business & Innovation | 50670 | Vrije Universiteit Amsterdam | **''** |
-| Soil, Water, Athmosphere | 56968 | Wageningen University | **''** |
-| Sterrenkunde | 50205 | Universiteit Leiden en Rijksuniversiteit Groningen | **''** |
-| Technical Computer Science | 59335 | Universiteit Twente | **''** |
-| Technische Aardwetenschappen | 56959 | Technische Universiteit Delft | **''** |
-| Technische Informatica | 56964 | Technische Universiteit Delft en Technische Universiteit Eindhoven | **''** |
-| Technische Natuurkunde | 56962 | Rijksuniversiteit Groningen Technische Universiteit Delft, Technische Universiteit Eindhoven, Universiteit Twente | **''** |
-| Werktuigbouwkunde | 56966 | Technische Universiteit Delft, Technische Universiteit Eindhoven en Universiteit Twente | **''** |
+| Liberal Arts and Sciences (Specialisatie ‘Science Program’) | 50393 | Universiteit Maastricht | Leraar Natuurkunde |
+| Liberal Arts and Sciences (afstudeerrichting Duits) | 50393 | Universiteit Utrecht | Leraar Duits |
+| Liberal Arts and Sciences (afstudeerrichting Engels) | 50393 | Universiteit Utrecht | Leraar Engels |
+| Liberal Arts and Sciences (afstudeerrichting Frans) | 50393 | Universiteit Utrecht | Leraar Frans |
+| Liberal Arts and Sciences (Specialisatie ‘Science Program’) | 50393 | Universiteit Maastricht | Leraar Biologie |
+| Liberal Arts and Sciences (Specialisatie ‘Science Program’) | 50393 | Universiteit Maastricht | Leraar Scheikunde |
+| Life Science and Technology | 56286 | Universiteit Leiden, Rijksuniversiteit Groningen en Technische Universiteit Delft | Leraar Scheikunde |
+| Life Science and Technology (joint degree) | 55010 | Universiteit Leiden en Technische Universiteit Delft | Leraar Scheikunde |
+| Literatuur en Samenleving | 55823 | Vrije Universiteit Amsterdam | Leraar Engels |
+| Luchtvaart- en Ruimtevaarttechniek | 56956 | Technische Universiteit Delft | Leraar Natuurkunde |
+| Luchtvaart- en Ruimtevaarttechniek | 56956 | Technische Universiteit Delft | Leraar Techniek |
+| Luchtvaart- en Ruimtevaarttechniek | 56956 | Technische Universiteit Delft | Leraar Wiskunde |
+| Management & Consumer Studies | 56836 | Wageningen University | Leraar Economie |
+| Management, Society and Technology | 56654 | Universiteit Twente | Leraar Maatschappijleer |
+| Maritieme Techniek | 56957 | Technische Universiteit Delft | Leraar Natuurkunde |
+| Maritieme Techniek | 56957 | Technische Universiteit Delft | Leraar Techniek |
+| Maritieme Techniek | 56957 | Technische Universiteit Delft | Leraar Wiskunde |
+| Mathematics | 59322 | Vrije Universiteit Amsterdam | Leraar Wiskunde |
+| Mechanical Engineering | 50439 | Universiteit Twente | Leraar Natuurkunde |
+| Mechanical Engineering | 50439 | Universiteit Twente | Leraar Techniek |
+| Mechanical Engineering | 50439 | Universiteit Twente | Leraar Wiskunde |
+| Medische Natuurwetenschappen | 50800 | Vrije Universiteit Amsterdam | Leraar Natuurkunde |
+| Medische Natuurwetenschappen | 50800 | Vrije Universiteit Amsterdam | Leraar Scheikunde |
+| Midden-Oostenstudies: Arabisch | 56098 | Universiteit Leiden | Leraar Arabisch |
+| Minorities & Multilingualism | 56012 | Rijksuniversiteit Groningen | Leraar Fries |
+| Moleculaire Levenswetenschappen | 59304 | Wageningen University | Leraar Natuurkunde |
+| Moleculaire Levenswetenschappen | 59304 | Wageningen University | Leraar Scheikunde |
+| Molecular Life Sciences | 56944 | Radboud Universiteit Nijmegen | Leraar Natuurkunde |
+| Molecular Life Sciences | 56944 | Radboud Universiteit Nijmegen | Leraar Scheikunde |
+| Molecular Science and Technology (joint degree) | 55009 | Universiteit Leiden en Technische Universiteit Delft | Leraar Scheikunde |
+| Nanobiologie (joint degree) | 55003 | Erasmus Universiteit Rotterdam en Technische Universiteit Delft | Leraar Natuurkunde |
+| Nanobiologie (joint degree) | 55003 | Erasmus Universiteit Rotterdam en Technische Universiteit Delft | Leraar Wiskunde |
+| Natuur- en Sterrenkunde | 56984 | Universiteit Utrecht en Radboud Universiteit Nijmegen | Leraar Natuurkunde |
+| Natuur- en Sterrenkunde (joint degree) | 55013 | Universiteit van Amsterdam en Vrije Universiteit Amsterdam | Leraar Natuurkunde |
+| Natuur- en Sterrenkunde (joint degree) | 55013 | Universiteit van Amsterdam en Vrije Universiteit Amsterdam | Leraar Wiskunde |
+| Natuurkunde | 50206 | Universiteit Leiden en Rijksuniversiteit Groningen | Leraar Natuurkunde |
+| Natuurkunde | 50206 | Universiteit Leiden en Rijksuniversiteit Groningen | Leraar Wiskunde |
 | Nederlandse Taal en Cultuur | 56804 | Universiteit Leiden, Rijksuniversiteit Groningen, Universiteit Utrecht, Universiteit van Amsterdam en Radboud Universiteit Nijmegen | Leraar Nederlands |
-| Algemene Cultuurwetenschappen | 56823 | Tilburg University, Open Universiteit | **''** |
-| Communicatie- en Informatiewetenschappen | 56826 | Tilburg University | **''** |
+| Oudheidwetenschappen | 56704 | Vrije Universiteit Amsterdam | Leraar Latijn en KCV |
+| Plantenwetenschappen (leertraject onderwijs bevoegdheid Biologie)6 | 56835 | Wageningen University | Leraar Biologie |
+| Politicologie | 56606 | Universiteit Leiden, Universiteit van Amsterdam, Vrije Universiteit Amsterdam en Radboud Universiteit Nijmegen | Leraar Maatschappijleer |
+| Psychobiologie | 50014 | Universiteit van Amsterdam | Leraar Biologie |
+| Religiewetenschappen | 50902 | Universiteit Leiden, Rijksuniversiteit Groningen, Universiteit Utrecht, Universiteit van Amsterdam, Vrije Universiteit Amsterdam en Radboud Universiteit Nijmegen | Leraar Godsdienst en Levensbeschouwing |
+| Romaanse Talen en Culturen (afstudeerrichting Frans) | 56074 | Radboud Universiteit Nijmegen | Leraar Frans |
+| Romaanse Talen en Culturen (afstudeerrichting Spaans) | 56074 | Radboud Universiteit Nijmegen | Leraar Spaans |
+| Russische Studies | 50855 | Universiteit Leiden | Leraar Russisch |
+| Scheikunde | 56857 | Rijksuniversiteit Groningen en Universiteit Utrecht | Leraar Scheikunde |
+| Scheikunde (joint degree) | 55012 | Universiteit van Amsterdam en Vrije Universiteit Amsterdam | Leraar Scheikunde |
+| Scheikundige Technologie | 56960 | Rijksuniversiteit Groningen, Technische Universiteit Eindhoven en Universiteit Twente | Leraar Scheikunde |
+| Science | 56948 | Radboud Universiteit Nijmegen | Leraar Natuurkunde |
+| Science | 56948 | Radboud Universiteit Nijmegen | Leraar Scheikunde |
+| Science, Business & Innovation | 50670 | Vrije Universiteit Amsterdam | Leraar Natuurkunde |
+| Science, Business & Innovation | 50670 | Vrije Universiteit Amsterdam | Leraar Scheikunde |
+| Slavische Talen en Culturen (afstudeerrichting Russisch) | 56813 | Universiteit Leiden | Leraar Russisch |
 | Slavische Talen en Culturen (afstudeerrichting Russisch) | 56813 | Universiteit van Amsterdam | Leraar Russisch |
-| Bèta-gamma | 50250 | Universiteit van Amsterdam | Leraar Scheikunde |
-| BioFarmaceutische Wetenschappen | 50207 | Universiteit Leiden | **''** |
-| Biomedische Technologie | 56226 | Rijksuniversiteit Groningen, Technische Universiteit Eindhoven en Universiteit Twente |   |
-| Biotechnologie | 56841 | Wageningen University | **''** |
-| Environmental Sciences | 56283 | Wageningen University | **''** |
-| Farmaceutische Wetenschappen | 56989 | Vrije Universiteit Amsterdam | **''** |
-| Farmacie | 56157 | Rijksuniversiteit Groningen en Universiteit Utrecht | **''** |
-| Food Technology | 56973 | Wageningen University | **''** |
-| Liberal Arts and Sciences (Specialisatie ‘Science Program’) | 50393 | Universiteit Maastricht | **''** |
-| Life Science and Technology | 56286 | Universiteit Leiden, Rijksuniversiteit Groningen en Technische Universiteit Delft | **''** |
-| Life Science and Technology (joint degree) | 55010 | Universiteit Leiden en Technische Universiteit Delft | **''** |
-| Medische Natuurwetenschappen | 50800 | Vrije Universiteit Amsterdam | **''** |
-| Moleculaire Levenswetenschappen | 59304 | Wageningen University | **''** |
-| Molecular Life Sciences | 56944 | Radboud Universiteit Nijmegen | **''** |
-| Molecular Science and Technology (joint degree) | 55009 | Universiteit Leiden en Technische Universiteit Delft | **''** |
-| Scheikunde | 56857 | Rijksuniversiteit Groningen en Universiteit Utrecht | **''** |
-| Scheikunde (joint degree) | 55012 | Universiteit van Amsterdam en Vrije Universiteit Amsterdam | **''** |
-| Scheikundige Technologie | 56960 | Rijksuniversiteit Groningen, Technische Universiteit Eindhoven en Universiteit Twente | **''** |
-| Science | 56948 | Radboud Universiteit Nijmegen | **''** |
-| Science, Business & Innovation | 50670 | Vrije Universiteit Amsterdam | **''** |
-| Advanced Technology | 50002 | Universiteit Twente | ‘ |
-| Chemistry | 56943 | Radboud Universiteit Nijmegen | ‘ |
-| Europese Talen en Culturen (afstudeerrichting Spaans) | 56124 | Rijksuniversiteit Groningen | Leraar Spaans |
-| Latijns-Amerikastudies | 56052 | Universiteit Leiden | **''** |
-| Romaanse Talen en Culturen (afstudeerrichting Spaans) | 56074 | Radboud Universiteit Nijmegen | **''** |
-| Spaanse Taal en Cultuur | 56810 | Universiteit Utrecht, Universiteit van Amsterdam | **''** |
-| Advanced Technology | 50002 | Universiteit Twente | Leraar Techniek |
-| Bouwkunde | 56951 | Technische Universiteit Delft en Technische Universiteit Eindhoven | **''** |
-| Civiele Techniek | 56952 | Technische Universiteit Delft en Universiteit Twente | **''** |
-| Electrical Engineering | 56953 | Technische Universiteit Delft, Technische Universiteit Eindhoven en Universiteit Twente | **''** |
-| Industrieel Ontwerpen | 56955 | Technische Universiteit Delft en Universiteit Twente | **''** |
-| Industrial Design | 50441 | Technische Universiteit Eindhoven | **''** |
-| Luchtvaart- en Ruimtevaarttechniek | 56956 | Technische Universiteit Delft | **''** |
-| Maritieme Techniek | 56957 | Technische Universiteit Delft | **''** |
-| Technische Natuurkunde | 56962 | Technische Universiteit Delft, Technische Universiteit Eindhoven, Universiteit Twente | **''** |
-| Werktuigbouwkunde | 56966 | Technische Universiteit Delft, Technische Universiteit Eindhoven en Universiteit Twente | **''** |
-| Actuariële Wetenschappen | 56411 | Universiteit van Amsterdam | Leraar Wiskunde |
-| Applied Mathematics | 59336 | Universiteit Twente | **''** |
-| Bèta-gamma | 50250 | Universiteit van Amsterdam | **''** |
-| Technische Aardwetenschappen | 56959 | Technische Universiteit Delft | **''** |
-| Biomedische Technologie | 56226 | Technische Universitit Eindhoven | **''** |
-| Business Analytics | 56856 | Vrije Universiteit Amsterdam | **''** |
-| Civiele Techniek | 56952 | Technische Universiteit Delft en Universiteit Twente | **''** |
-| Econometrie en Operationele Research | 56833 | Rijksuniversiteit Groningen, Erasmus Universiteit Rotterdam, Universiteit Maastricht, Vrije Universiteit Amsterdam en Tilburg University | **''** |
-| Electrical Engineering | 56953 | Technische Universiteit Delft, Technische Universiteit Eindhoven en Universiteit Twente | **''** |
-| Klinische Technologie (joint degree) | 55007 | Technische Universiteit Delft, Erasmus Universiteit Rotterdam en Universiteit Leiden | **''** |
-| Technische Bestuurskunde | 56995 | Technische Universiteit Delft | **''** |
-| Luchtvaart- en Ruimtevaarttechniek | 56956 | Technische Universiteit Delft | **''** |
-| Natuur- en Sterrenkunde (joint degree) | 55013 | Universiteit van Amsterdam en Vrije Universiteit Amsterdam | **''** |
-| Maritieme Techniek | 56957 | Technische Universiteit Delft | **''** |
-| Mathematics | 59322 | Vrije Universiteit Amsterdam | **''** |
-| Natuurkunde | 50206 | Universiteit Leiden en Rijksuniversiteit Groningen | **''** |
-| Sterrenkunde | 50205 | Universiteit Leiden en Rijksuniversiteit Groningen | **''** |
-| Technical Computer Science | 59335 | Universiteit Twente | **''** |
-| Technische Bedrijfskunde | 56994 | Rijksuniversiteit Groningen, Technische Universiteit Eindhoven en Universiteit Twente | **''** |
-| Nanobiologie (joint degree) | 55003 | Erasmus Universiteit Rotterdam en Technische Universiteit Delft | **''** |
-| Technische Informatica | 56964 | Technische Universiteit Delft en Technische Universiteit Eindhoven | **''** |
-| Technische Natuurkunde | 56962 | Rijksuniversiteit Groningen, Technische Universiteit Delft, Technische Universiteit Eindhoven en Universiteit Twente | **''** |
-| Technische Wiskunde | 56965 | Rijksuniversiteit Groningen, Technische Universiteit Delft en Technische Universiteit Eindhoven | **''** |
-| Data Science and Knowledge Engineering | 50300 | Universiteit Maastricht | **''** |
-| Werktuigbouwkunde | 56966 | Technische Universiteit Delft, Technische Universiteit Eindhoven en Universiteit Twente | **''** |
-| Wiskunde | 56980 | Universiteit Leiden, Rijksuniversiteit Groningen, Universiteit Utrecht, Universiteit van Amsterdam en Radboud Universiteit Nijmegen | **''** |
-| Econometrics & Operations Research | 56833 | Universiteit Maastricht | **''** |
-| Biomedische Technologie | 56226 | Universiteit Twente | **''** |
-| Data Science (joint degree) | 55018 | Tilburg University en Technische Universiteit Eindhoven | **''** |
-| Kunstmatige Intelligentie | 56943 | Universiteit van Amsterdam | **''** |
-| Econometrie | 59332 | Universiteit van Amsterdam | **''** |
+| Sociale Geografie en Planologie | 56838 | Rijksuniversiteit Groningen, Universiteit Utrecht en Universiteit van Amsterdam | Leraar Aardrijkskunde |
+| Sociologie | 56601 | Rijksuniversiteit Groningen, Universiteit Utrecht, Erasmus Universiteit Rotterdam, Universiteit van Amsterdam, Vrije Universiteit Amsterdam, Radboud Universiteit Nijmegen en Tilburg University | Leraar Maatschappijleer |
+| Soil, Water, Athmosphere | 56968 | Wageningen University | Leraar Natuurkunde |
+| Soil, Water, Athmosphere7 | 56968 | Wageningen University | Leraar Aardrijkskunde |
+| Spaanse Taal en Cultuur | 56810 | Universiteit Utrecht, Universiteit van Amsterdam | Leraar Spaans |
+| Sterrenkunde | 50205 | Universiteit Leiden en Rijksuniversiteit Groningen | Leraar Natuurkunde |
+| Sterrenkunde | 50205 | Universiteit Leiden en Rijksuniversiteit Groningen | Leraar Wiskunde |
+| Taal- en Cultuurstudies (afstudeerrichting Spaans) | 56801 | Universiteit Utrecht | Leraar Spaans |
+| Taal- en Cultuurstudies (afstudeerrichting Duits) | 56801 | Universiteit Utrecht | Leraar Duits |
+| Taal- en Cultuurstudies (afstudeerrichting Engels) | 56801 | Universiteit Utrecht | Leraar Engels |
+| Taal- en Cultuurstudies (afstudeerrichting Frans) | 56801 | Universiteit Utrecht | Leraar Frans |
+| Technical Computer Science | 59335 | Universiteit Twente | Leraar Natuurkunde |
+| Technical Computer Science | 59335 | Universiteit Twente | Leraar Wiskunde |
+| Technical Computer Science | 59335 | Universiteit Twente | Informatica |
+| Technische Aardwetenschappen | 56959 | Technische Universiteit Delft | Leraar Natuurkunde |
+| Technische Aardwetenschappen | 56959 | Technische Universiteit Delft | Leraar Wiskunde |
+| Technische Bedrijfskunde | 56994 | Universiteit Twente | Leraar Economie |
+| Technische Bedrijfskunde | 56994 | Universiteit Twente | Leraar Management en Organisatie |
+| Technische Bedrijfskunde | 56994 | Rijksuniversiteit Groningen, Technische Universiteit Eindhoven en Universiteit Twente | Leraar Wiskunde |
+| Technische Bestuurskunde | 56995 | Technische Universiteit Delft | Leraar Wiskunde |
+| Technische Informatica | 56964 | Universiteit Twente | Informatica |
+| Technische Informatica | 56964 | Universiteit Twente | Leraar Natuurkunde |
+| Technische Informatica | 56964 | Technische Universiteit Delft en Technische Universiteit Eindhoven | Leraar Natuurkunde |
+| Technische Informatica | 56964 | Technische Universiteit Delft, Technische Universiteit Eindhoven, Universiteit Twente | Leraar Wiskunde |
+| Technische Natuurkunde | 56962 | Rijksuniversiteit Groningen Technische Universiteit Delft, Technische Universiteit Eindhoven, Universiteit Twente | Leraar Natuurkunde |
+| Technische Natuurkunde | 56962 | Technische Universiteit Delft, Technische Universiteit Eindhoven, Universiteit Twente | Leraar Techniek |
+| Technische Natuurkunde | 56962 | Rijksuniversiteit Groningen, Technische Universiteit Delft, Technische Universiteit Eindhoven en Universiteit Twente | Leraar Wiskunde |
+| Technische Planologie | 56194 | Rijksuniversiteit Groningen | Leraar Aardrijkskunde |
+| Technische Wiskunde | 56965 | Technische Universiteit Delft | Leraar Informatica |
+| Technische Wiskunde | 56965 | Rijksuniversiteit Groningen, Technische Universiteit Delft en Technische Universiteit Eindhoven | Leraar Wiskunde |
+| Theologie | 56109 | Rijksuniversiteit Groningen, Radboud Universiteit Nijmegen en Tilburg University, Theologische Universiteit Kampen, Theologische Universiteit Apeldoorn | Leraar Godsdienst en Levensbeschouwing |
+| Theologie (joint degree) | 55004 | Vrije Universiteit Amsterdam | Leraar Godsdienst en Levensbeschouwing |
+| Theology and Religious Studies | 50910 | Vrije Universiteit Amsterdam | Leraar Godsdienst en Levensbeschouwing |
+| Werktuigbouwkunde | 56966 | Technische Universiteit Delft, Technische Universiteit Eindhoven en Universiteit Twente | Leraar Natuurkunde |
+| Werktuigbouwkunde | 56966 | Technische Universiteit Delft, Technische Universiteit Eindhoven en Universiteit Twente | Leraar Techniek |
+| Werktuigbouwkunde | 56966 | Technische Universiteit Delft, Technische Universiteit Eindhoven en Universiteit Twente | Leraar Wiskunde |
+| Wiskunde | 56980 | Universiteit Leiden, Rijksuniversiteit Groningen, Universiteit Utrecht, Universiteit van Amsterdam en Radboud Universiteit Nijmegen | Leraar Wiskunde |
 
-1 Onder de werking van het Experiment educatieve module zijn onder deze wo-bachelors tevens begrepen doctoraalopleidingen waarvan de examencommissie in voorkomende gevallen heeft geoordeeld dat deze gelijkwaardig zijn aan een in deze tabel vermelde wo-bachelor.
+1 Dit leertraject is een specifiek samengesteld programma binnen de Bsc-opleiding Animal Sciences, voorgelegd aan en goedgekeurd door de examencommissie Levenwetenschappen van Wageningen University en gericht op het voorbereiden van de student op een baan als leerkracht in de Biologie.
 
-2 Het onderdeel Human Geography (6EC) dient onderdeel te zijn van de bacheloropleiding.
+2 De vakken Computer Systems, Computer Networks en Security en Data management for data analytics dienen onderdeel te zijn van de bacheloropleiding.
 
-3 Het onderdeel Human Geography (6EC) dient onderdeel te zijn van de bacheloropleiding.
+3 Met specialisatie Biomedische wetenschappen (BMW) en keuzevak Humane evolutie.
 
 4 Het onderdeel Human Geography (6EC) dient onderdeel te zijn van de bacheloropleiding.
 
-5 Dit leertraject is een specifiek samengesteld programma binnen de Bsc-opleiding Animal Sciences, voorgelegd aan en goedgekeurd door de examencommissie Levenwetenschappen van Wageningen University en gericht op het voorbereiden van de student op een baan als leerkracht in de Biologie.
+5 Het onderdeel Human Geography (6EC) dient onderdeel te zijn van de bacheloropleiding.
 
 6 Dit leertraject is een specifiek samengesteld programma binnen de Bsc-opleiding Plantenwetenschappen, voorgelegd aan en goedgekeurd door de examencommissie Levenwetenschappen van Wageningen University en gericht op het voorbereiden van de student op een baan als leerkracht in de Biologie.
 
-7 Met specialisatie Biomedische wetenschappen (BMW) en keuzevak Humane evolutie.
-
-8 De vakken Computer Systems, Computer Networks en Security en Data management for data analytics dienen onderdeel te zijn van de bacheloropleiding.
+7 Het onderdeel Human Geography (6EC) dient onderdeel te zijn van de bacheloropleiding.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
