@@ -4,7 +4,7 @@ identifier: "BWBR0048628"
 country: "nl"
 rank: "zbo"
 publication_date: "2023-09-20"
-last_updated: "2023-07-01"
+last_updated: "2023-09-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048628"
 soort: "zbo"
@@ -48,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 - 1. **Medewerker:** degene die werkzaam is bij het Centraal Bureau voor de Statistiek;
 
-- 2. **Personeelsraadgever CBS1Daar waar personeelsraadgever staat kan ook raadsman of raadsvrouw worden gelezen.:** de persoon bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048628&artikel=2&z=2023-09-20&g=2023-07-01).
+- 2. **Personeelsraadgever CBS1Daar waar personeelsraadgever staat kan ook raadsman of raadsvrouw worden gelezen.:** de persoon bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048628&artikel=2&z=2023-09-20&g=2023-09-20).
 
 ##### Artikel 2
 
