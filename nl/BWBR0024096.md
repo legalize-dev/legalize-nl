@@ -4,7 +4,7 @@ identifier: "BWBR0024096"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2026-01-01"
-last_updated: "2023-07-01"
+last_updated: "2023-09-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024096"
 soort: "beleidsregel"
@@ -1136,11 +1136,11 @@ Onderhoudskosten worden in het geval van lijfsdwang de belastingschuldige niet i
 
 ### 20.4. Lijfsdwang met vonnis ex [artikel 585, Rv](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=585)
 
-Al hetgeen is vermeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=20&z=2023-07-01&g=2023-07-01) van deze leidraad is zoveel mogelijk hierop van overeenkomstige toepassing.
+Al hetgeen is vermeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=20&z=2023-09-21&g=2023-09-21) van deze leidraad is zoveel mogelijk hierop van overeenkomstige toepassing.
 
 ### 20.5. Lijfsdwang in geval van civiele vordering
 
-De ontvanger heeft de bevoegdheid om een dwangbevel ten uitvoer te leggen door middel van lijfsdwang. Naast deze bevoegdheid kan de ontvanger op grond van [artikel 20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=20) ook lijfsdwang toepassen met betrekking tot civiele vorderingen die strekken tot betaling van schadevergoeding aan de ontvanger in verband met een belastingschuld die niet is voldaan. Al hetgeen is vermeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=20&z=2023-07-01&g=2023-07-01) van deze leidraad is zoveel mogelijk hierop van overeenkomstige toepassing.
+De ontvanger heeft de bevoegdheid om een dwangbevel ten uitvoer te leggen door middel van lijfsdwang. Naast deze bevoegdheid kan de ontvanger op grond van [artikel 20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=20) ook lijfsdwang toepassen met betrekking tot civiele vorderingen die strekken tot betaling van schadevergoeding aan de ontvanger in verband met een belastingschuld die niet is voldaan. Al hetgeen is vermeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=20&z=2023-09-21&g=2023-09-21) van deze leidraad is zoveel mogelijk hierop van overeenkomstige toepassing.
 
 De ontvanger heeft de bevoegdheid om een dwangbevel ten uitvoer te leggen door middel van lijfsdwang. Naast deze bevoegdheid kan de ontvanger op grond van [artikel 20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=20) ook lijfsdwang toepassen met betrekking tot civiele vorderingen die strekken tot betaling van schadevergoeding aan de ontvanger in verband met een belastingschuld die niet is voldaan. Al hetgeen is vermeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=20&z=2023-01-01&g=2023-01-01) van deze leidraad is zoveel mogelijk hierop van overeenkomstige toepassing.
 
@@ -1384,11 +1384,11 @@ Het bijzonder verhaalsrecht kan slechts worden ingeroepen in situaties waarin sp
 
 ### 23a.2. Volgorde van uitwinning van daarvoor in aanmerking komende goederen.
 
-[Artikel 23a](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=23a&z=2023-07-01&g=2023-07-01) bepaalt dat in gevallen waarin de belastingschuldige in gebreke is met het voldoen van belastingaanslagen die aan hem zijn opgelegd als gevolg van een toerekening van een afgezonderd particulier vermogen als bedoeld in [artikel 2.14a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.14a), die belastingaanslagen door de ontvanger kunnen worden ingevorderd met gebruikmaking van het in artikel 23a beschreven bijzonder verhaalsrecht. Dit houdt in dat door de ontvanger niet alleen invorderingsmaatregelen kunnen worden getroffen ten laste belastingschuldige maar ook – met gebruikmaking van het bijzonder verhaalsrecht – door het nemen van verhaal op de goederen van
+[Artikel 23a](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=23a&z=2023-09-21&g=2023-09-21) bepaalt dat in gevallen waarin de belastingschuldige in gebreke is met het voldoen van belastingaanslagen die aan hem zijn opgelegd als gevolg van een toerekening van een afgezonderd particulier vermogen als bedoeld in [artikel 2.14a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.14a), die belastingaanslagen door de ontvanger kunnen worden ingevorderd met gebruikmaking van het in artikel 23a beschreven bijzonder verhaalsrecht. Dit houdt in dat door de ontvanger niet alleen invorderingsmaatregelen kunnen worden getroffen ten laste belastingschuldige maar ook – met gebruikmaking van het bijzonder verhaalsrecht – door het nemen van verhaal op de goederen van
 
 ### 24.1.1. Verrekening voorlopige teruggaaf inkomstenbelasting en beslagvrije voet
 
-Pas daarna beproeft de ontvanger invordering met toepassing van het bijzonder verhaalsrecht zoals beschreven in [artikel 23a, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=23a), op goederen van het afgezonderd particulier vermogen. Pas nadat gebleken is dat invordering op goederen van het afgezonderd particulier vermogen faalt dan wel niet toereikend is om de volledige fiscale verplichtingen aan te zuiveren kan de ontvanger overgaan tot aanwending van het bijzonder verhaalsrecht zoals beschreven in [artikel 23a, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=23a). Verhaal op goederen van de derde als bedoeld in [artikel 23a, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=23a&z=2023-07-01&g=2023-07-01), kan slechts worden uitgeoefend ten belope van het belang dat het afgezonderd particulier vermogen heeft in die derde.
+Pas daarna beproeft de ontvanger invordering met toepassing van het bijzonder verhaalsrecht zoals beschreven in [artikel 23a, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=23a), op goederen van het afgezonderd particulier vermogen. Pas nadat gebleken is dat invordering op goederen van het afgezonderd particulier vermogen faalt dan wel niet toereikend is om de volledige fiscale verplichtingen aan te zuiveren kan de ontvanger overgaan tot aanwending van het bijzonder verhaalsrecht zoals beschreven in [artikel 23a, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=23a). Verhaal op goederen van de derde als bedoeld in [artikel 23a, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=23a&z=2023-09-21&g=2023-09-21), kan slechts worden uitgeoefend ten belope van het belang dat het afgezonderd particulier vermogen heeft in die derde.
 
 Pas daarna beproeft de ontvanger invordering met toepassing van het bijzonder verhaalsrecht zoals beschreven in [artikel 23a, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=23a), op goederen van het afgezonderd particulier vermogen. Pas nadat gebleken is dat invordering op goederen van het afgezonderd particulier vermogen faalt dan wel niet toereikend is om de volledige fiscale verplichtingen aan te zuiveren kan de ontvanger overgaan tot aanwending van het bijzonder verhaalsrecht zoals beschreven in [artikel 23a, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=23a). Verhaal op goederen van de derde als bedoeld in [artikel 23a, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=23a&z=2023-01-01&g=2023-01-01), kan slechts worden uitgeoefend ten belope van het belang dat het afgezonderd particulier vermogen heeft in die derde.
 
@@ -2124,15 +2124,15 @@ Voor de berekening van het dubbele percentage dat aan de fiscus moet worden uitg
 
 ### 26.3.7. Rente en kosten en saneringsakkoord
 
-Om de totstandkoming van minnelijke saneringsakkoorden van ondernemers te bevorderen, neemt de ontvanger van 1 augustus 2022 tot 1 oktober 2023 genoegen met ten minste hetzelfde uitkeringspercentage als aan concurrente crediteuren wordt aangeboden. Voor de toepassing van dit artikel moet daarom voor verzoeken om sanering die in de periode van 1 augustus 2022 tot 1 oktober 2023 zijn ontvangen, in plaats van het dubbele uitkeringspercentage, hetzelfde uitkeringspercentage dat aan concurrente crediteuren op hun vordering zal worden uitgekeerd, worden beoordeeld.
+Om de totstandkoming van minnelijke saneringsakkoorden van ondernemers te bevorderen, neemt de ontvanger van 1 augustus 2022 tot 1 april 2024 genoegen met ten minste hetzelfde uitkeringspercentage als aan concurrente crediteuren wordt aangeboden. Voor de toepassing van dit artikel moet daarom voor verzoeken om sanering die in de periode van 1 augustus 2022 tot 1 april 2024 zijn ontvangen, in plaats van het dubbele uitkeringspercentage, hetzelfde uitkeringspercentage dat aan concurrente crediteuren op hun vordering zal worden uitgekeerd, worden beoordeeld.
 
 ### 26.3.5a. Tijdelijk uitkeringspercentage bij saneringsakkoorden
 
-Om de totstandkoming van minnelijke saneringsakkoorden van ondernemers te bevorderen, neemt de ontvanger van 1 augustus 2022 tot 1 oktober 2023 genoegen met ten minste hetzelfde uitkeringspercentage als aan concurrente crediteuren op hun vorderingen wordt aangeboden.
+Om de totstandkoming van minnelijke saneringsakkoorden van ondernemers te bevorderen, neemt de ontvanger van 1 augustus 2022 tot 1 april 2024 genoegen met ten minste hetzelfde uitkeringspercentage als aan concurrente crediteuren op hun vorderingen wordt aangeboden.
 
 ### 26.3.9. Betaling bedrag saneringsakkoord
 
-Deze tijdelijke maatregel is van toepassing op verzoeken om sanering als bedoeld in [artikel 21 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=21) (zie ook artikel 26.3.1) die in de periode van 1 augustus 2022 tot 1 oktober 2023 zijn ontvangen, voor zover het verzoeken betreft van ondernemers die hun onderneming voortzetten.
+Deze tijdelijke maatregel is van toepassing op verzoeken om sanering als bedoeld in [artikel 21 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=21) (zie ook artikel 26.3.1) die in de periode van 1 augustus 2022 tot 1 april 2024 zijn ontvangen, voor zover het verzoeken betreft van ondernemers die hun onderneming voortzetten.
 
 Deze tijdelijke maatregel is van toepassing op verzoeken om sanering als bedoeld in [artikel 21 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=21) (zie ook artikel 26.3.1) die in de periode van 1 augustus 2022 tot 1 oktober 2023 zijn ontvangen, voor zover het verzoeken betreft van ondernemers die hun onderneming voortzetten.
 
@@ -2328,9 +2328,9 @@ Een verzoek van de belastingschuldige tot vermindering van in rekening gebrachte
 
 Als de belastingschuldige in beroep gaat tegen de uitspraak op het bezwaar, handelt de ontvanger overeenkomstig de voorschriften van het [Besluit beroep in belastingzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0045025), met dien verstande dat de ontvanger in een procedure niet dezelfde stukken hoeft over te leggen als de inspecteur. De ontvanger kan zich beperken tot de stukken die in de procedure over de toepassing van de regeling betalingskorting dan wel invorderingsrente relevant zijn.
 
-Als om uitstel van betaling wordt verzocht voor een teruggenomen betalingskorting is het beleid van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=25&z=2023-07-01&g=2023-07-01) van deze leidraad van overeenkomstige toepassing. Hiervan kan sprake zijn als de ontvanger de teruggenomen betalingskorting bij vergissing niet heeft verrekend met het uit te betalen bedrag van de vermindering.
+Als om uitstel van betaling wordt verzocht voor een teruggenomen betalingskorting is het beleid van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=25&z=2023-09-21&g=2023-09-21) van deze leidraad van overeenkomstige toepassing. Hiervan kan sprake zijn als de ontvanger de teruggenomen betalingskorting bij vergissing niet heeft verrekend met het uit te betalen bedrag van de vermindering.
 
-Indiening van een bezwaar- of beroepschrift (in hoger beroep) schort de verplichting om de invorderingsrente te betalen niet op. Als om uitstel van betaling wordt verzocht is het beleid van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=25&z=2023-07-01&g=2023-07-01) van deze leidraad en [artikel 34 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=34) van overeenkomstige toepassing.
+Indiening van een bezwaar- of beroepschrift (in hoger beroep) schort de verplichting om de invorderingsrente te betalen niet op. Als om uitstel van betaling wordt verzocht is het beleid van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=25&z=2023-09-21&g=2023-09-21) van deze leidraad en [artikel 34 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=34) van overeenkomstige toepassing.
 
 ### 30.5. Geen bezwaar mogelijk tegen de niet verleende betalingskorting
 
@@ -3568,11 +3568,11 @@ Het beleid in deze leidraad en in de regeling dat ziet op kwijtschelding van bel
 
 ### 73.3a.2a. Tijdelijk uitkeringspercentage WHOA
 
-Om de totstandkoming van minnelijke saneringsakkoorden te bevorderen, neemt de ontvanger van 1 augustus 2022 tot 1 oktober 2023 genoegen met ten minste hetzelfde uitkeringspercentage als aan concurrente schuldeisers op hun vorderingen wordt aangeboden.
+Om de totstandkoming van minnelijke saneringsakkoorden te bevorderen, neemt de ontvanger van 1 augustus 2022 tot 1 april 2024 genoegen met ten minste hetzelfde uitkeringspercentage als aan concurrente schuldeisers op hun vorderingen wordt aangeboden.
 
 ### 73.3a.3. Gevolgen homologatie WHOA-akkoord bij instemming
 
-Deze tijdelijke maatregel is van toepassing op verzoeken om instemming met een akkoord als bedoeld in [artikel 370, eerste lid, FW](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=370) die in de periode van 1 augustus 2022 tot 1 oktober 2023 zijn ontvangen, voor zover het akkoord is gericht op het voortzetten van de onderneming. Deze maatregel kan bovendien van toepassing worden geacht als de rechtbank wordt verzocht om het akkoord te homologeren (zie [artikel 383, eerste lid, FW](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=383)), indien en voor zover de ontvanger reeds had ingestemd met het akkoord dat aan de rechtbank ter homologatie wordt voorgelegd.
+Deze tijdelijke maatregel is van toepassing op verzoeken om instemming met een akkoord als bedoeld in [artikel 370, eerste lid, FW](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=370) die in de periode van 1 augustus 2022 tot 1 april 2024 zijn ontvangen, voor zover het akkoord is gericht op het voortzetten van de onderneming. Deze maatregel kan bovendien van toepassing worden geacht als de rechtbank wordt verzocht om het akkoord te homologeren (zie [artikel 383, eerste lid, FW](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=383)), indien en voor zover de ontvanger reeds had ingestemd met het akkoord dat aan de rechtbank ter homologatie wordt voorgelegd.
 
 ### 73.3a.3. Gevolgen homologatie WHOA-akkoord bij instemming
 
@@ -3706,7 +3706,7 @@ Aanslagen waarvoor de Sociale Verzekeringsbank een onherroepelijk vaststaande be
 
 ### 73.5.1a. Tijdelijk uitkeringspercentage MSNP voor ondernemers
 
-Om de totstandkoming van minnelijke saneringsakkoorden van ondernemers te bevorderen, neemt de ontvanger in de periode van 1 augustus 2022 tot 1 oktober 2023 genoegen met ten minste hetzelfde uitkeringspercentage als aan concurrente crediteuren op hun vorderingen wordt aangeboden.
+Om de totstandkoming van minnelijke saneringsakkoorden van ondernemers te bevorderen, neemt de ontvanger in de periode van 1 augustus 2022 tot 1 april 2024 genoegen met ten minste hetzelfde uitkeringspercentage als aan concurrente crediteuren op hun vorderingen wordt aangeboden.
 
 Voor schuldregelingen als bedoeld in artikel 73.5.1, die ten behoeve van een natuurlijk persoon, zijnde ondernemer, tot stand komen, betekent dit dat de ontvanger daarmee in kan stemmen, als het door hem te ontvangen deel van de belastingschuld ten minste hetzelfde percentage bedraagt als hetgeen aan concurrente crediteuren die in het akkoord zijn betrokken, op hun vorderingen wordt aangeboden.
 
@@ -3794,7 +3794,7 @@ De ontvanger stemt alleen in met een akkoord als het bodemvoorrecht of de waarde
 
 Voor een akkoord als bedoeld in [artikel 22a van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=22a), betekent dit dat de ontvanger daarmee in kan stemmen, als het door hem te ontvangen deel van de belastingschuld, ten minste hetzelfde percentage bedraagt als hetgeen aan concurrente crediteuren op hun vorderingen wordt aangeboden die in het akkoord zijn betrokken.
 
-Deze tijdelijke maatregel is van toepassing op akkoorden als bedoeld in [artikel 22a van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=22a) voor zover deze zijn gericht op het voortzetten van een onderneming en in de periode van 1 augustus 2022 tot 1 oktober 2023 zijn ontvangen. Deze maatregel kan bovendien van toepassing worden geacht als de belastingschuldige de rechtbank verzoekt om een akkoord aan de gezamenlijke schuldeisers op te leggen (zie [artikel 287a, eerste lid, FW](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=287a)) en de ontvanger reeds had ingestemd met het akkoord dat aan de rechter wordt voorgelegd.
+Deze tijdelijke maatregel is van toepassing op akkoorden als bedoeld in [artikel 22a van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=22a) voor zover deze zijn gericht op het voortzetten van een onderneming en in de periode van 1 augustus 2022 tot 1 april 2024 zijn ontvangen. Deze maatregel kan bovendien van toepassing worden geacht als de belastingschuldige de rechtbank verzoekt om een akkoord aan de gezamenlijke schuldeisers op te leggen (zie [artikel 287a, eerste lid, FW](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=287a)) en de ontvanger reeds had ingestemd met het akkoord dat aan de rechter wordt voorgelegd.
 
 ### 73.6.5. Gevolgen toetreden tot gerechtelijk akkoord
 
@@ -4280,7 +4280,7 @@ Als de belastingschuldige er uitdrukkelijk om verzoekt of als de ontvanger dit w
 
 ### 14.2.18. Afboeking executieopbrengst verkoop roerende zaken
 
-De ontvanger verhaalt de openstaande schuld waarvoor het beslag roerende zaken is gelegd op de executieopbrengst, inclusief de daarin begrepen omzetbelasting. Voordat de opbrengst op de openstaande schuld wordt afgeboekt, worden eerst de kosten van executie verrekend. De ontvanger boekt de opbrengst vervolgens af met inachtneming van het bepaalde bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=7&z=2023-07-01&g=2023-07-01) van deze leidraad.
+De ontvanger verhaalt de openstaande schuld waarvoor het beslag roerende zaken is gelegd op de executieopbrengst, inclusief de daarin begrepen omzetbelasting. Voordat de opbrengst op de openstaande schuld wordt afgeboekt, worden eerst de kosten van executie verrekend. De ontvanger boekt de opbrengst vervolgens af met inachtneming van het bepaalde bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=7&z=2023-09-21&g=2023-09-21) van deze leidraad.
 
 ### 14.2.19. Proces-verbaal van verkoop roerende zaken
 
@@ -4388,7 +4388,7 @@ De belastingdeurwaarder kan een bewaarder aanstellen en de nodige maatregelen ne
 
 ### 14.5.5. Opheffing van het beslag op schepen
 
-In ieder geval zal een minnelijke afdoening moeten passen in het bij [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=25&z=2023-07-01&g=2023-07-01) van deze leidraad geformuleerde uitstelbeleid.
+In ieder geval zal een minnelijke afdoening moeten passen in het bij [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=25&z=2023-09-21&g=2023-09-21) van deze leidraad geformuleerde uitstelbeleid.
 
 ### 14.5.2. De executie van schepen
 
@@ -5032,7 +5032,7 @@ Als de ontvanger besluit dat kwijtschelding zal worden verleend nadat aan één 
 
 ### 26.1.8. Mondeling meedelen afwijzen kwijtschelding
 
-Als tot de voorwaarden de voldoening van een deel van de schuld behoort, dan moet de ontvanger de belastingschuldige uitnodigen om binnen een termijn van veertien dagen een voorstel te doen met betrekking tot de betaling van dat deel. Hierbij is het uitstelbeleid (zie [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=25&z=2023-07-01&g=2023-07-01) van deze leidraad) van toepassing. Als tot de voorwaarden naast de voldoening van een deel van de schuld ook de verrekening van teruggaven behoort, wordt het te betalen bedrag niet beïnvloed door de hoogte van de verrekende teruggaven.
+Als tot de voorwaarden de voldoening van een deel van de schuld behoort, dan moet de ontvanger de belastingschuldige uitnodigen om binnen een termijn van veertien dagen een voorstel te doen met betrekking tot de betaling van dat deel. Hierbij is het uitstelbeleid (zie [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=25&z=2023-09-21&g=2023-09-21) van deze leidraad) van toepassing. Als tot de voorwaarden naast de voldoening van een deel van de schuld ook de verrekening van teruggaven behoort, wordt het te betalen bedrag niet beïnvloed door de hoogte van de verrekende teruggaven.
 
 ### 26.1.6. Motivering afwijzing van het verzoek om kwijtschelding
 
@@ -5284,7 +5284,7 @@ De ontvanger vermindert in rekening gebrachte invorderingsrente tot nihil, voor 
 
 ### 28.4. Verzuim van de Belastingdienst en invorderingsrente
 
-Kwijtschelding van uitsluitend invorderingsrente is niet mogelijk. De ontvanger doet ook geen toezegging dat de rente niet zal worden ingevorderd. Dit laat onverlet dat de ontvanger kwijtschelding verleent of rente buiten invordering laat, als hij de hoofdsom kwijtscheldt of buiten invordering laat op grond van het bepaalde in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=26&z=2023-07-01&g=2023-07-01) van deze leidraad.
+Kwijtschelding van uitsluitend invorderingsrente is niet mogelijk. De ontvanger doet ook geen toezegging dat de rente niet zal worden ingevorderd. Dit laat onverlet dat de ontvanger kwijtschelding verleent of rente buiten invordering laat, als hij de hoofdsom kwijtscheldt of buiten invordering laat op grond van het bepaalde in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=26&z=2023-09-21&g=2023-09-21) van deze leidraad.
 
 ### 28.7. Verminderingen en toepassing [artikel 28, zesde lid, van de wet](onbekend)
 
@@ -5488,7 +5488,7 @@ Woningcorporaties en andere op grond van [artikel 70, eerste lid, van de Woningw
 
 ### 35.3.6. Gemeentelijke grondbedrijven en eigenbouwerschap
 
-Als het winkelbedrijf in de hoedanigheid van opdrachtgever aansprakelijk kan worden gesteld, (zie [artikel 35a, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=35a&z=2023-07-01&g=2023-07-01), van deze leidraad) blijft een aansprakelijkstelling op grond van het zogenoemde eigenbouwerschap ex [artikel 35, derde lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35) achterwege.
+Als het winkelbedrijf in de hoedanigheid van opdrachtgever aansprakelijk kan worden gesteld, (zie [artikel 35a, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=35a&z=2023-09-21&g=2023-09-21), van deze leidraad) blijft een aansprakelijkstelling op grond van het zogenoemde eigenbouwerschap ex [artikel 35, derde lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35) achterwege.
 
 ### 35.4. Extraterritoriale werking van de ketenaansprakelijkheid
 
@@ -6236,7 +6236,7 @@ Aanslagen waarvoor de Sociale Verzekeringsbank een onherroepelijk vaststaande be
 
 ### 73.5.1a. Tijdelijk uitkeringspercentage MSNP voor ondernemers
 
-Deze tijdelijke maatregel is van toepassing op minnelijke schuldregelingen waarbij de onderneming wordt voortgezet en waarvan een afschrift van de stabilisatieovereenkomst, een schriftelijke mededeling dat een schuldregelingsovereenkomst tot stand is gekomen of een schriftelijk aanbod van het akkoordbedrag in de periode van 1 augustus 2022 tot 1 oktober 2023 is ontvangen. Deze maatregel kan bovendien van toepassing worden geacht als de belastingschuldige de rechtbank verzoekt om een akkoord aan de gezamenlijke schuldeisers op te leggen (zie [artikel 287a, eerste lid, FW](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=287a)) en de ontvanger reeds had ingestemd met het door hem te ontvangen bedrag in het akkoord dat aan de rechter wordt voorgelegd.
+Deze tijdelijke maatregel is van toepassing op minnelijke schuldregelingen waarbij de onderneming wordt voortgezet en waarvan een afschrift van de stabilisatieovereenkomst, een schriftelijke mededeling dat een schuldregelingsovereenkomst tot stand is gekomen of een schriftelijk aanbod van het akkoordbedrag in de periode van 1 augustus 2022 tot 1 april 2024 is ontvangen. Deze maatregel kan bovendien van toepassing worden geacht als de belastingschuldige de rechtbank verzoekt om een akkoord aan de gezamenlijke schuldeisers op te leggen (zie [artikel 287a, eerste lid, FW](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=287a)) en de ontvanger reeds had ingestemd met het door hem te ontvangen bedrag in het akkoord dat aan de rechter wordt voorgelegd.
 
 ### 73.5.2. Opschorten invorderingsmaatregelen na verzoek MSNP
 
@@ -6284,7 +6284,7 @@ Als in het akkoord belastingschulden zijn begrepen waarvoor derden aansprakelijk
 
 ### 73.6.5. Gevolgen toetreden tot gerechtelijk akkoord
 
-Om de totstandkoming van minnelijke saneringsakkoorden van ondernemers te bevorderen, neemt de ontvanger in de periode van 1 augustus 2022 tot 1 oktober 2023 genoegen met ten minste hetzelfde uitkeringspercentage als aan concurrente schuldeisers wordt aangeboden.
+Om de totstandkoming van minnelijke saneringsakkoorden van ondernemers te bevorderen, neemt de ontvanger in de periode van 1 augustus 2022 tot 1 april 2024 genoegen met ten minste hetzelfde uitkeringspercentage als aan concurrente schuldeisers wordt aangeboden.
 
 ### 73.6.7. Schuldig nalatig en (buiten)gerechtelijk akkoord
 
@@ -7762,7 +7762,7 @@ Voor de door aansprakelijkgestelden verschuldigde kosten die het gevolg zijn van
 
 ### 75.10. Geen kwijtschelding van vervolgingskosten
 
-Het voorgaande laat onverlet dat kwijtschelding wordt verleend dan wel kosten buiten invordering worden gelaten, wanneer de hoofdsom wordt kwijtgescholden dan wel buiten invordering gelaten. Hiervoor wordt verwezen naar hetgeen is vermeld bij [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=26&z=2023-07-01&g=2023-07-01) van deze leidraad.
+Het voorgaande laat onverlet dat kwijtschelding wordt verleend dan wel kosten buiten invordering worden gelaten, wanneer de hoofdsom wordt kwijtgescholden dan wel buiten invordering gelaten. Hiervoor wordt verwezen naar hetgeen is vermeld bij [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=26&z=2023-09-21&g=2023-09-21) van deze leidraad.
 
 ### 75.11. Limitering betekeningskosten dwangbevel
 
@@ -7844,7 +7844,7 @@ Als invorderingsmaatregelen worden getroffen met inachtneming van de [artikelen 
 
 ### 75.9. Aansprakelijkgestelden en vervolgingskosten
 
-Voor de door aansprakelijkgestelden verschuldigde kosten die het gevolg zijn van invorderingsmaatregelen die tegen de aansprakelijkgestelde zijn genomen, is [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=75&z=2023-07-01&g=2023-07-01) van overeenkomstige toepassing.
+Voor de door aansprakelijkgestelden verschuldigde kosten die het gevolg zijn van invorderingsmaatregelen die tegen de aansprakelijkgestelde zijn genomen, is [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=75&z=2023-09-21&g=2023-09-21) van overeenkomstige toepassing.
 
 Kwijtschelding van vervolgingskosten is niet mogelijk wegens vermeende betalingsonmacht. De ontvanger doet in dat geval ook geen toezegging dat deze kosten niet zullen worden ingevorderd.
 
@@ -7982,7 +7982,7 @@ In die brief deelt de ontvanger mee dat de belastingschuldige signalering kan vo
 
 ##### Artikel 22bis.2. Onverkorte mededelingsverplichting
 
-In afwijking van [artikel 22bis.1., eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=22bis&artikel=22bis.1&z=2023-07-01&g=2023-07-01), geldt de mededelingsplicht voor de onder onderdeel B genoemde gevallen onverkort indien:
+In afwijking van [artikel 22bis.1., eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=22bis&artikel=22bis.1&z=2023-09-21&g=2023-09-21), geldt de mededelingsplicht voor de onder onderdeel B genoemde gevallen onverkort indien:
 
 - a. ter zake van de financiering enige betalingsachterstand is ontstaan die ten tijde van het in [artikel 22bis, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=22bis) bedoelde handelen meer dan vier maanden heeft voortgeduurd;
 
@@ -8004,7 +8004,7 @@ Ten aanzien van de behandelingstermijn van de mededeling houdt de ontvanger zove
 
 ##### Artikel 22bis.5. Overleg n.a.v. mededeling ex [artikel 22bis, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=22bis)
 
-De derde of de belastingschuldige die voornemens is zijn rechten uit te oefenen, dan wel een andere handeling te verrichten of te laten verrichten in de zin van [artikel 22bis, tweede of derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=22bis), kan in overleg treden met de ontvanger teneinde overeenstemming te bereiken over de afhandeling van de mededeling. Hierbij zijn de uitgangspunten als beschreven in de [artikelen 22bis.5.1. tot en met 22bis.5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=22bis&artikel=22bis.5.1&z=2023-07-01&g=2023-07-01). van deze leidraad van toepassing.
+De derde of de belastingschuldige die voornemens is zijn rechten uit te oefenen, dan wel een andere handeling te verrichten of te laten verrichten in de zin van [artikel 22bis, tweede of derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=22bis), kan in overleg treden met de ontvanger teneinde overeenstemming te bereiken over de afhandeling van de mededeling. Hierbij zijn de uitgangspunten als beschreven in de [artikelen 22bis.5.1. tot en met 22bis.5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=22bis&artikel=22bis.5.1&z=2023-09-21&g=2023-09-21). van deze leidraad van toepassing.
 
 ##### Artikel 22bis.5.1. Afkoop voorrecht of verhaalsrecht
 
@@ -8222,7 +8222,7 @@ Dit betekent voor de uitvoering het volgende. Als het ingevorderde bedrag gelijk
 
 ##### Artikel 22bis.6. Overgangsrecht
 
-Met betrekking tot de financieringsovereenkomsten die zijn gesloten voor 1 juli 2014 is [artikel 22bis.2, onderdeel b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=22bis&artikel=22bis.2&z=2023-07-01&g=2023-07-01), van deze leidraad niet van toepassing als de derde schriftelijk afstand heeft gedaan van zijn eigendoms- of zekerheidsrechten vóór het in het in [artikel 22bis, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=22bis) bedoelde mededelingsplichtige voornemen.
+Met betrekking tot de financieringsovereenkomsten die zijn gesloten voor 1 juli 2014 is [artikel 22bis.2, onderdeel b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=22bis&artikel=22bis.2&z=2023-09-21&g=2023-09-21), van deze leidraad niet van toepassing als de derde schriftelijk afstand heeft gedaan van zijn eigendoms- of zekerheidsrechten vóór het in het in [artikel 22bis, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=22bis) bedoelde mededelingsplichtige voornemen.
 
 ### 76.2. Aanspreken borg
 
