@@ -4,7 +4,7 @@ identifier: "BWBR0029225"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-09-28"
-last_updated: "2022-04-01"
+last_updated: "2023-09-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029225"
 soort: "ministeriele-regeling"
@@ -64,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 2. Het onderdeel dat de kennis van de staatsinrichting en maatschappij toetst, wordt afgenomen en beantwoord in de Papiamentse taal.
 
-3. Het onderdeel dat de kennis van de staatsinrichting en maatschappij toetst, bevat vragen met betrekking tot de in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029225&bijlage=1&z=2022-04-01&g=2022-04-01) bij deze regeling genoemde thema’s van bevraging. De vragen richten zich naar de gestelde eindtermen.
+3. Het onderdeel dat de kennis van de staatsinrichting en maatschappij toetst, bevat vragen met betrekking tot de in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029225&bijlage=1&z=2023-09-28&g=2023-09-28) bij deze regeling genoemde thema’s van bevraging. De vragen richten zich naar de gestelde eindtermen.
 
 4. Om te slagen voor de naturalisatietoets dient het niveau van taalbeheersing bij alle onderdelen aantoonbaar op ten minste niveau A2 van het Europees Raamwerk voor moderne vreemde talen te zijn afgelegd.
 
@@ -82,7 +82,7 @@ Behoudens in het voorkomende geval van computergestuurde beoordeling worden de r
 
 1. De directeur van de Directie Onderwijs in Aruba geeft aan de verzoeker die de naturalisatietoets met succes heeft afgelegd het Certificaat naturalisatietoets.
 
-2. Het modelcertificaat, bedoeld in [artikel 5, eerste lid, van het Besluit naturalisatietoets](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=5), is het model als opgenomen in de [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029225&bijlage=2&z=2022-04-01&g=2022-04-01) bij deze regeling.
+2. Het modelcertificaat, bedoeld in [artikel 5, eerste lid, van het Besluit naturalisatietoets](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=5), is het model als opgenomen in de [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029225&bijlage=2&z=2023-09-28&g=2023-09-28) bij deze regeling.
 
 #### Paragraaf 4. Gedeeltelijke vrijstellingen
 
@@ -90,17 +90,17 @@ Behoudens in het voorkomende geval van computergestuurde beoordeling worden de r
 
 Van het afleggen van het onderdeel dat de mate van kennis van de Nederlandse taal toetst, is vrijgesteld de verzoeker die beschikt over één van de volgende Certificaten van het Certificaat Nederlands als Vreemde Taal:
 
-- a. Certificaat Profiel Toeristische en Informele Taalvaardigheid (niveau A2);
+- a. Certificaat Maatschappelijk Informeel (niveau A2);
 
 - b. Certificaat Profiel Taalvaardigheid Praktische Beroepen (niveau A2);
 
-- c. Certificaat Profiel Maatschappelijke Taalvaardigheid (niveau B1);
+- c. Certificaat Maatschappelijk Formeel (niveau B1);
 
-- d. Certificaat Profiel Professionele Taalvaardigheid (niveau B2);
+- d. Certificaat Zakelijk Professioneel (niveau B2);
 
-- e. Certificaat Profiel Taalvaardigheid Hoger Onderwijs (niveau B2);
+- e. Certificaat Educatief Startbekwaam (niveau B2);
 
-- f. Certificaat Profiel Academische Taalvaardigheid (niveau C1).
+- f. Certificaat Educatief Professioneel (niveau C1).
 
 ##### Artikel 7
 
@@ -176,7 +176,7 @@ Deze regeling treedt in werking met ingang van 1 januari 2011.
 
 Deze regeling wordt aangehaald als: Regeling naturalisatietoets Aruba 2011.
 
-## Bijlage 1. behorend bij [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029225&paragraaf=2&artikel=2&z=2022-04-01&g=2022-04-01), van de Regeling naturalisatietoets Aruba 2011
+## Bijlage 1. behorend bij [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029225&paragraaf=2&artikel=2&z=2023-09-28&g=2023-09-28), van de Regeling naturalisatietoets Aruba 2011
 
 ### Thema’s van bevraging
 
@@ -186,6 +186,6 @@ Vragen van het examen ‘Kennis van de staatsinrichting en samenleving’ worden
 
 De volgende eindtermen gelden:
 
-## Bijlage 2. behorend bij [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029225&paragraaf=3&artikel=5&z=2022-04-01&g=2022-04-01), van de Regeling naturalisatietoets Aruba 2011
+## Bijlage 2. behorend bij [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029225&paragraaf=3&artikel=5&z=2023-09-28&g=2023-09-28), van de Regeling naturalisatietoets Aruba 2011
 
 Deze regeling wordt met de toelichting in de Staatscourant en het Afkondigingsblad van Aruba geplaatst.
