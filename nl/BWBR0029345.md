@@ -4,7 +4,7 @@ identifier: "BWBR0029345"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2023-09-28"
-last_updated: "2022-04-01"
+last_updated: "2023-09-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029345"
 soort: "ministeriele-regeling-BES"
@@ -80,7 +80,7 @@ Behoudens in het voorkomende geval van computergestuurde beoordeling worden de r
 
 1. Het Certificaat naturalisatietoets wordt aan de rechthebbende verstrekt door de instantie of de onderwijsinstelling, waar het examen is afgelegd, de beoordeling heeft plaatsgevonden en het examenresultaat is vastgesteld.
 
-2. Het modelcertificaat, bedoeld in [artikel 5, eerste lid, van het Besluit naturalisatietoets](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=5), is het model als opgenomen in de [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029345&bijlage=2&z=2022-04-01&g=2022-04-01) bij deze regeling.
+2. Het modelcertificaat, bedoeld in [artikel 5, eerste lid, van het Besluit naturalisatietoets](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=5), is het model als opgenomen in de [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029345&bijlage=2&z=2023-09-28&g=2023-09-28) bij deze regeling.
 
 #### Paragraaf 4. Gedeeltelijke vrijstellingen
 
@@ -88,17 +88,17 @@ Behoudens in het voorkomende geval van computergestuurde beoordeling worden de r
 
 Van het afleggen van het onderdeel dat de mate van kennis van de Nederlandse taal toetst, is vrijgesteld de verzoeker die beschikt over één van de volgende Certificaten van het Certificaat Nederlands als Vreemde Taal:
 
-- a. Certificaat Profiel Toeristische en Informele Taalvaardigheid (niveau A2);
+- a. Certificaat Maatschappelijk Informeel (niveau A2);
 
 - b. Certificaat Profiel Taalvaardigheid Praktische Beroepen (niveau A2);
 
-- c. Certificaat Profiel Maatschappelijke Taalvaardigheid (niveau B1);
+- c. Certificaat Maatschappelijk Formeel (niveau B1);
 
-- d. Certificaat Profiel Professionele Taalvaardigheid (niveau B2);
+- d. Certificaat Zakelijk Professioneel (niveau B2);
 
-- e. Certificaat Profiel Taalvaardigheid Hoger Onderwijs (niveau B2);
+- e. Certificaat Educatief Startbekwaam (niveau B2);
 
-- f. Certificaat Profiel Academische Taalvaardigheid (niveau C1).
+- f. Certificaat Educatief Professioneel (niveau C1).
 
 ##### Artikel 7
 
@@ -185,7 +185,7 @@ Deze regeling treedt in werking met ingang van 1 januari 2011.
 
 Deze regeling wordt aangehaald als: Regeling naturalisatietoets openbare lichamen Bonaire, Sint Eustatius en Saba 2011.
 
-## Bijlage 1. behorend bij [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029345&paragraaf=2&artikel=2&z=2022-04-01&g=2022-04-01), van de Regeling naturalisatietoets openbare lichamen Bonaire, Sint Eustatius en Saba 2011
+## Bijlage 1. behorend bij [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029345&paragraaf=2&artikel=2&z=2023-09-28&g=2023-09-28), van de Regeling naturalisatietoets openbare lichamen Bonaire, Sint Eustatius en Saba 2011
 
 ### Thema’s van bevraging
 
@@ -195,6 +195,6 @@ Vragen van het examen ‘Kennis van de staatsinrichting en samenleving’ worden
 
 De volgende eindtermen gelden:
 
-## Bijlage 2. behorend bij [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029345&paragraaf=3&artikel=5&z=2022-04-01&g=2022-04-01), van de Regeling naturalisatietoets openbare lichamen Bonaire, Sint Eustatius en Saba 2011
+## Bijlage 2. behorend bij [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029345&paragraaf=3&artikel=5&z=2023-09-28&g=2023-09-28), van de Regeling naturalisatietoets openbare lichamen Bonaire, Sint Eustatius en Saba 2011
 
 Deze regeling wordt met de toelichting in de Staatscourant geplaatst.
