@@ -4,7 +4,7 @@ identifier: "BWBR0048652"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-09-29"
-last_updated: "2023-06-01"
+last_updated: "2023-09-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048652"
 soort: "ministeriele-regeling"
@@ -68,7 +68,7 @@ De staatssecretaris kan in 2023 op aanvraag van een of meer gemeenten eenmalig e
 
 ##### Artikel 4. Hoogte specifieke uitkering en wijze van verstrekking
 
-1. Voor het verlenen van uitkeringen op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048652&artikel=2&z=2023-09-29&g=2023-06-01) is ten hoogste € 2.000.000 beschikbaar. [Artikel 4:25, tweede en derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:25) zijn van overeenkomstige toepassing.
+1. Voor het verlenen van uitkeringen op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048652&artikel=2&z=2023-09-29&g=2023-09-29) is ten hoogste € 2.000.000 beschikbaar. [Artikel 4:25, tweede en derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:25) zijn van overeenkomstige toepassing.
 
 2. Elke gemeente met minimaal 1.500 opvangplekken volgens de Bestuursovereenkomt met het COA kan maximaal € 200.000 inclusief BTW aan specifieke uitkering ontvangen.
 
@@ -78,11 +78,11 @@ De staatssecretaris kan in 2023 op aanvraag van een of meer gemeenten eenmalig e
 
 5. Indien meerdere gemeenten gezamenlijk een aanvraag indienen, wordt het van toepassing zijnde maximale bedrag aan specifieke uitkering als bedoeld in het tweede of derde lid bij elkaar opgeteld.
 
-6. De aanvragen die voldoen aan de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048652&artikel=3&z=2023-09-29&g=2023-06-01) genoemde vereisten worden behandeld op volgorde van binnenkomst, waarbij alleen volledige aanvragen in behandeling worden genomen.
+6. De aanvragen die voldoen aan de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048652&artikel=3&z=2023-09-29&g=2023-09-29) genoemde vereisten worden behandeld op volgorde van binnenkomst, waarbij alleen volledige aanvragen in behandeling worden genomen.
 
 ##### Artikel 5. Meldingsplicht
 
-De gemeente die een specifieke uitkering heeft ontvangen is verplicht om onverwijld een schriftelijke melding te doen zodra aannemelijk is dat de activiteiten waarvoor de specifieke uitkering is verleend niet, niet tijdig of niet geheel zullen worden verricht of dat niet, niet tijdig of niet geheel aan de aan de specifieke voorwaarden verbonden verplichtingen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048652&artikel=2&z=2023-09-29&g=2023-06-01) zal worden voldaan.
+De gemeente die een specifieke uitkering heeft ontvangen is verplicht om onverwijld een schriftelijke melding te doen zodra aannemelijk is dat de activiteiten waarvoor de specifieke uitkering is verleend niet, niet tijdig of niet geheel zullen worden verricht of dat niet, niet tijdig of niet geheel aan de aan de specifieke voorwaarden verbonden verplichtingen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048652&artikel=2&z=2023-09-29&g=2023-09-29) zal worden voldaan.
 
 ##### Artikel 6. Vaststelling en verantwoording
 
@@ -102,7 +102,7 @@ De gemeente die een specifieke uitkering heeft ontvangen is verplicht om onverwi
 
 ##### Artikel 7. Terugvordering
 
-De staatssecretaris kan onverschuldigd uitgekeerde bedragen als bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048652&artikel=6&z=2023-09-29&g=2023-06-01), terugvorderen.
+De staatssecretaris kan onverschuldigd uitgekeerde bedragen als bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048652&artikel=6&z=2023-09-29&g=2023-09-29), terugvorderen.
 
 ##### Artikel 8. Inwerkingtreding
 
