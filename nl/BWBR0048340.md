@@ -4,7 +4,7 @@ identifier: "BWBR0048340"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-01"
-last_updated: "2023-07-01"
+last_updated: "2023-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048340"
 soort: "ministeriele-regeling"
@@ -52,19 +52,19 @@ In deze regeling wordt verstaan onder:
 
 - **gemeente:** een gemeente waarin een stedelijk focusgebied ligt;
 
-- **hoofdthema:** beleidsthema als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=2&z=2023-07-01&g=2023-07-01);
+- **hoofdthema:** beleidsthema als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=2&z=2023-10-01&g=2023-10-01);
 
 - **lokale coalitie:** groep van lokale partijen die gezamenlijk betrokken zijn bij de ontwikkeling en uitvoering van een lokaal programma met activiteiten buiten de reguliere onderwijstijd van een school, aangeboden ten behoeve van leerlingen op scholen met relatief veel leerlingen met een risico op een onderwijsachterstand. Tot deze groep behoren tenminste de ontvangende gemeente, een school binnen die ontvangende gemeente en een lokale organisatie;
 
 - **Minister:** Minister voor Volkshuisvesting en Ruimtelijke Ordening;
 
-- **ontvangende gemeente:** gemeente die de uitkering, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=2&z=2023-07-01&g=2023-07-01), ontvangt;
+- **ontvangende gemeente:** gemeente die de uitkering, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=2&z=2023-10-01&g=2023-10-01), ontvangt;
 
 - **programmaorganisatie:** een organisatie, opgericht door een gemeente, belast met het inrichten en in stand houden van het alliantieoverleg en het uitwerken van het uitvoeringsprogramma, die ten opzichte van het alliantieoverleg een onafhankelijke rol heeft;
 
 - **stedelijk focusgebied:** de gebieden Zuidoost in Amsterdam, Nieuw-West in Amsterdam, Oost in Arnhem, Noord in Breda, West in Delft, West in Dordrecht, Zuidwest in Den Haag, Woensel-Zuid in Eindhoven, Noord in Groningen, Noord in Heerlen, Oost in Leeuwarden, Oost in Lelystad, Centrale‑As in Nieuwegein, Roosendaal-stad in Roosendaal, Zuid in Rotterdam, Nieuwland-Oost in Schiedam, Noordwest in Tilburg, Overvecht in Utrecht, Westwijk in Vlaardingen en Zaandam-Oost in Zaanstad;
 
-- **uitkering:** de specifieke uitkering, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=2&z=2023-07-01&g=2023-07-01);
+- **uitkering:** de specifieke uitkering, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=2&z=2023-10-01&g=2023-10-01);
 
 - **uitvoeringsprogramma:** een integraal programma gericht op de bevordering van de leefbaarheid en veiligheid in een stedelijk focusgebied.
 
@@ -74,7 +74,7 @@ In deze regeling wordt verstaan onder:
 
 - a. de organisatie van een uitvoeringsprogramma in het stedelijk focusgebied of de stedelijke focusgebieden;
 
-- b. de bekostiging van integrale activiteiten als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=4&z=2023-07-01&g=2023-07-01);
+- b. de bekostiging van integrale activiteiten als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=4&z=2023-10-01&g=2023-10-01);
 
 - c. de bekostiging van activiteiten die bijdragen aan de doelstellingen van het onderdeel ‘meedoen in de samenleving’ van het Nationaal Programma Leefbaarheid en Veiligheid.
 
@@ -86,7 +86,7 @@ In deze regeling wordt verstaan onder:
 
 - c. uitwerken van een uitvoeringsprogramma en het bewaken van de voortgang van de uitvoering daarvan.
 
-3. De activiteiten, bedoeld in het eerste lid, onder c, vallen onder de volgende vijf hoofdthema’s:
+3. De activiteiten, bedoeld in het eerste lid, onder c, vallen onder de volgende zes hoofdthema’s:
 
 - a. preventie van armoede en schulden;
 
@@ -96,25 +96,27 @@ In deze regeling wordt verstaan onder:
 
 - d. school en omgeving;
 
-- e. ontwikkeling van het jonge kind.
+- e. ontwikkeling van het jonge kind;
+
+- f. gezonde leefomgeving.
 
 4. Er wordt geen uitkering verstrekt aan een ontvangende gemeente voor activiteiten waarvoor zij reeds een vergoeding van overheidswege ontvangt.
 
 5. De specifieke uitkering wordt niet verstrekt voor BTW die is verschuldigd over kosten voor zover het bedrag van de BTW in aanmerking komt voor compensatie op grond van de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817).
 
-6. Onverminderd het vierde en vijfde lid, worden aan de bekostiging van de activiteiten binnen de hoofdthema’s, bedoeld in het derde lid, de in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=5&z=2023-07-01&g=2023-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=6&z=2023-07-01&g=2023-07-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=7&z=2023-07-01&g=2023-07-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=8&z=2023-07-01&g=2023-07-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=9&z=2023-07-01&g=2023-07-01) genoemde voorwaarden gesteld.
+6. Onverminderd het vierde en vijfde lid, worden aan de bekostiging van de activiteiten binnen de hoofdthema’s, bedoeld in het derde lid, de in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=5&z=2023-10-01&g=2023-10-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=6&z=2023-10-01&g=2023-10-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=7&z=2023-10-01&g=2023-10-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=8&z=2023-10-01&g=2023-10-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=9&z=2023-10-01&g=2023-10-01) en [9a](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=9a&z=2023-10-01&g=2023-10-01) genoemde voorwaarden gesteld.
 
 ##### Artikel 3. Bestedingsvoorwaarden organisatie van een uitvoeringsprogramma
 
-1. Voor de organisatie van een uitvoeringsprogramma worden de uitgekeerde middelen besteed aan de activiteiten, bedoeld, in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=2&z=2023-07-01&g=2023-07-01), binnen het stedelijk focusgebied.
+1. Voor de organisatie van een uitvoeringsprogramma worden de uitgekeerde middelen besteed aan de activiteiten, bedoeld, in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=2&z=2023-10-01&g=2023-10-01), binnen het stedelijk focusgebied.
 
 2. De maximale hoogte van de uitkering inclusief btw per ontvangende gemeente is in de bij deze regeling behorende bijlage opgenomen en is gebaseerd op het aantal focusgebieden binnen een ontvangende gemeente.
 
 ##### Artikel 4. Integraliteit hoofdthema’s
 
-1. Voor de bekostiging van integrale activiteiten worden de uitgekeerde middelen besteed aan de uitvoering van activiteiten binnen het stedelijk focusgebied, die bijdragen aan een of meerdere doelstellingen als bedoeld in de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=5&z=2023-07-01&g=2023-07-01), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=6&z=2023-07-01&g=2023-07-01), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=7&z=2023-07-01&g=2023-07-01), [8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=8&z=2023-07-01&g=2023-07-01), en [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=9&z=2023-07-01&g=2023-07-01).
+1. Voor de bekostiging van integrale activiteiten worden de uitgekeerde middelen besteed aan de uitvoering van activiteiten binnen het stedelijk focusgebied, die bijdragen aan een of meerdere doelstellingen als bedoeld in de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=5&z=2023-10-01&g=2023-10-01), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=6&z=2023-10-01&g=2023-10-01), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=7&z=2023-10-01&g=2023-10-01), [8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=8&z=2023-10-01&g=2023-10-01), en [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=9&z=2023-10-01&g=2023-10-01).
 
-2. De minister verstrekt uitsluitend ten behoeve van de volgende gemeenten een uitkering voor de bekostiging van integrale activiteiten die voldoen aan de doelstelling, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=8&z=2023-07-01&g=2023-07-01):
+2. De minister verstrekt uitsluitend ten behoeve van de volgende gemeenten een uitkering voor de bekostiging van integrale activiteiten die voldoen aan de doelstelling, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=8&z=2023-10-01&g=2023-10-01):
 
 - a. Leeuwarden;
 
@@ -180,7 +182,7 @@ In deze regeling wordt verstaan onder:
 
 - f. activiteiten die worden uitgevoerd op scholen die niet vallen binnen de lokale coalitie ten behoeve waarvan de uitkering wordt aangevraagd.
 
-3. De minister kent uitsluitend ten behoeve van de gemeenten, genoemd in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=4&z=2023-07-01&g=2023-07-01), een uitkering toe.
+3. De minister kent uitsluitend ten behoeve van de gemeenten, genoemd in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=4&z=2023-10-01&g=2023-10-01), een uitkering toe.
 
 4. De maximale hoogte van de uitkering inclusief btw per ontvangende gemeente is in de bij deze regeling behorende bijlage opgenomen.
 
@@ -206,17 +208,21 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 10. Aanvraag
 
-1. Een aanvraag voor een uitkering als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=2&z=2023-07-01&g=2023-07-01) kan worden ingediend in de periode van 1 augustus tot en met 30 september 2023.
+1. Een aanvraag voor een uitkering als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=2&z=2023-10-01&g=2023-10-01) kan worden ingediend in de periode van 1 augustus tot en met 30 september 2023.
 
 2. De uitkering wordt aangevraagd met gebruikmaking van het door de minister ter beschikking gestelde formulier.
 
-3. Een wijziging van de uitkering, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=13&z=2023-07-01&g=2023-07-01), kan worden aangevraagd van 1 maart tot en met 30 april 2024, van 1 september tot en met 31 oktober 2024 en van 1 maart tot en met 30 april 2025. De aanvraag tot wijziging wordt ingediend door middel van het in het tweede lid bedoelde formulier.
+3. Een wijziging van de uitkering, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=13&z=2023-10-01&g=2023-10-01), kan worden aangevraagd van 1 maart tot en met 30 april 2024, van 1 september tot en met 31 oktober 2024 en van 1 maart tot en met 30 april 2025. De aanvraag tot wijziging wordt ingediend door middel van het in het tweede lid bedoelde formulier.
 
 4. Een aanvraag tot wijziging van de uitkering, bedoeld in het derde lid, die ziet op aanpassing van de activiteiten in het stedelijk focusgebied en het daarvoor benodigde budget, wordt uitsluitend ingediend indien:
 
-- a. ten minste 25 procent van het budget voor een hoofdthema of voor de integrale activiteiten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=4&z=2023-07-01&g=2023-07-01), gewijzigd wordt; of
+- a. ten minste 25 procent van het budget voor een hoofdthema of voor de integrale activiteiten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=4&z=2023-10-01&g=2023-10-01), gewijzigd wordt; of
 
 - b. de wijzing ziet op een nieuwe activiteit die niet in de aanvraag, bedoeld in het eerste lid, is omschreven.
+
+5. In afwijking van het eerste lid wordt voor een uitkering voor de activiteiten, bedoeld in [artikel 2, derde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=2&z=2023-10-01&g=2023-10-01), geen aanvraag ingediend.
+
+6. Indien de minister de aanvraag, bedoeld in het eerste lid, geheel of gedeeltelijk heeft afgewezen, kan het college een nieuwe aanvraag doen voor een uitkering voor de jaren 2024 en 2025 die betrekking heeft op de afgewezen onderdelen. Deze aanvraag kan worden ingediend van 1 januari tot en met 29 februari 2024.
 
 ##### Artikel 11. Reserveringsregeling en bestedingstermijn
 
@@ -226,15 +232,17 @@ In deze regeling wordt verstaan onder:
 
 3. Het college kan bij de minister een gemotiveerd verzoek indienen tot uitstel van de bestedingstermijn tussen 1 augustus en 1 oktober 2025. Uitstel kan ten hoogste worden verleend tot en met 31 december 2026.
 
+4. Het derde lid is niet van toepassing op de uitgekeerde middelen, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=3&z=2023-10-01&g=2023-10-01) en [9a](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=9a&z=2023-10-01&g=2023-10-01).
+
 ##### Artikel 12. Afwijzingsgronden
 
-1. Een uitkering wordt niet verstrekt voor activiteiten waarvan de minister niet verwacht dat zij zullen bijdragen aan de doelen, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=2&z=2023-07-01&g=2023-07-01).
+1. Een uitkering wordt niet verstrekt voor activiteiten waarvan de minister niet verwacht dat zij zullen bijdragen aan de doelen, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=2&z=2023-10-01&g=2023-10-01).
 
 2. Een uitkering wordt niet verstrekt indien gegronde redenen bestaan om aan te nemen dat de activiteiten waarvoor de uitkering wordt verstrekt niet of niet in zijn geheel zullen worden uitgevoerd, of de gemeente niet zal voldoen aan de in deze regeling opgenomen voorwaarden.
 
 ##### Artikel 13. Verstrekking en voorschot
 
-1. De minister neemt binnen twaalf weken na het einde van de aanvraagtermijn, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=10&z=2023-07-01&g=2023-07-01), een besluit over de verlening van de uitkering.
+1. De minister neemt binnen twaalf weken na het einde van de aanvraagtermijn, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=10&z=2023-10-01&g=2023-10-01) een besluit over de verlening van de uitkering.
 
 2. Voor zover de uitkering wordt verstrekt, bevat de verleningsbeschikking in ieder geval:
 
@@ -264,7 +272,7 @@ Het college legt verantwoording af over de besteding van de uitkering op de wijz
 
 1. De minister stelt binnen dertien weken na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), over het laatste kalenderjaar van de uitkering de uitkering vast.
 
-2. Indien de activiteiten waarvoor de uitkering is verleend zijn verricht en daarnaast volledig is voldaan aan de verplichtingen die verbonden zijn aan de uitkering, wordt de uitkering vastgesteld tot ten hoogste het bedrag dat is bepaald in de verleningsbeschikking, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=13&z=2023-07-01&g=2023-07-01).
+2. Indien de activiteiten waarvoor de uitkering is verleend zijn verricht en daarnaast volledig is voldaan aan de verplichtingen die verbonden zijn aan de uitkering, wordt de uitkering vastgesteld tot ten hoogste het bedrag dat is bepaald in de verleningsbeschikking, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=13&z=2023-10-01&g=2023-10-01).
 
 3. Indien de verantwoordingsinformatie, bedoeld in het eerste lid, niet binnen achttien maanden na het kalenderjaar waarop het betrekking heeft is ontvangen door de minister wordt de hoogte van de uitkering ambtshalve door de minister vastgesteld.
 
@@ -272,7 +280,7 @@ Het college legt verantwoording af over de besteding van de uitkering op de wijz
 
 ##### Artikel 16. Hardheidsclausule
 
-De minister kan een bepaling van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang van het verstrekken van een uitkering voor de activiteiten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=2&z=2023-07-01&g=2023-07-01), zal leiden tot een onbillijkheid van overwegende aard.
+De minister kan een bepaling van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang van het verstrekken van een uitkering voor de activiteiten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=2&z=2023-10-01&g=2023-10-01), zal leiden tot een onbillijkheid van overwegende aard.
 
 ##### Artikel 17. Informatie en evaluatie
 
@@ -296,35 +304,35 @@ Deze regeling wordt aangehaald als: Regeling kansrijke wijk.
 
 De gemeenten waaraan een uitkering wordt verstrekt, de maximale hoogte van de uitkering inclusief btw en de jaren waarin de betaalmomenten plaatsvinden, als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=3&z=2023-07-01&g=2023-07-01), zijn als volgt:
 
-### Specifieke uitkering per gemeente als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=4&z=2023-07-01&g=2023-07-01) (integraliteit hoofdthema’s)
+### Specifieke uitkering per gemeente als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=3&z=2023-10-01&g=2023-10-01) (organisatie van een uitvoeringsprogramma)
 
-De gemeenten waaraan een uitkering wordt verstrekt, de maximale hoogte van de uitkering inclusief btw en de jaren waarin de betaalmomenten plaatsvinden, als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=4&z=2023-07-01&g=2023-07-01), zijn als volgt:
+De gemeenten waaraan een uitkering wordt verstrekt, de maximale hoogte van de uitkering inclusief btw en de jaren waarin de betaalmomenten plaatsvinden, als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=3&z=2023-10-01&g=2023-10-01), zijn als volgt:
 
-### Specifieke uitkering per gemeente als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=5&z=2023-07-01&g=2023-07-01) (armoede en schulden)
+### Specifieke uitkering per gemeente als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=4&z=2023-10-01&g=2023-10-01) (integraliteit hoofdthema’s)
 
-De gemeenten waaraan een uitkering wordt verstrekt, de maximale hoogte van de uitkering inclusief btw en de jaren waarin de betaalmomenten plaatsvinden, als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=5&z=2023-07-01&g=2023-07-01), zijn als volgt:
+De gemeenten waaraan een uitkering wordt verstrekt, de maximale hoogte van de uitkering inclusief btw en de jaren waarin de betaalmomenten plaatsvinden, als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=4&z=2023-10-01&g=2023-10-01), zijn als volgt:
 
-### Specifieke uitkering per gemeente als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=6&z=2023-07-01&g=2023-07-01) (veerkracht en weerbaarheid)
+### Specifieke uitkering per gemeente als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=5&z=2023-10-01&g=2023-10-01) (armoede en schulden)
 
-De gemeenten waaraan een uitkering wordt verstrekt, de maximale hoogte van de uitkering inclusief btw en de jaren waarin de betaalmomenten plaatsvinden, als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=6&z=2023-07-01&g=2023-07-01), zijn als volgt:
+De gemeenten waaraan een uitkering wordt verstrekt, de maximale hoogte van de uitkering inclusief btw en de jaren waarin de betaalmomenten plaatsvinden, als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=5&z=2023-10-01&g=2023-10-01), zijn als volgt:
 
-### Specifieke uitkering per gemeente als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=7&z=2023-07-01&g=2023-07-01) (re-integratie)
+### Specifieke uitkering per gemeente als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=6&z=2023-10-01&g=2023-10-01) (veerkracht en weerbaarheid)
 
-De gemeenten waaraan een uitkering wordt verstrekt, de maximale hoogte van de uitkering inclusief btw en de jaren waarin de betaalmomenten plaatsvinden, als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=7&z=2023-07-01&g=2023-07-01), zijn als volgt:
+De gemeenten waaraan een uitkering wordt verstrekt, de maximale hoogte van de uitkering inclusief btw en de jaren waarin de betaalmomenten plaatsvinden, als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=6&z=2023-10-01&g=2023-10-01), zijn als volgt:
 
-### Specifieke uitkering per gemeente als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=8&z=2023-07-01&g=2023-07-01) (school en omgeving)
+### Specifieke uitkering per gemeente als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=7&z=2023-10-01&g=2023-10-01) (re-integratie)
 
-De gemeenten waaraan een uitkering wordt verstrekt, de maximale hoogte van de uitkering inclusief btw en de jaren waarin de betaalmomenten plaatsvinden, als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=8&z=2023-07-01&g=2023-07-01), zijn als volgt:
+De gemeenten waaraan een uitkering wordt verstrekt, de maximale hoogte van de uitkering inclusief btw en de jaren waarin de betaalmomenten plaatsvinden, als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=7&z=2023-10-01&g=2023-10-01), zijn als volgt:
 
-### Specifieke uitkering per gemeente als bedoeld in[artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=9&z=2023-07-01&g=2023-07-01) (jonge kind)
+### Specifieke uitkering per gemeente als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=8&z=2023-10-01&g=2023-10-01) (school en omgeving)
 
-De gemeenten waaraan een uitkering wordt verstrekt, de maximale hoogte van de uitkering inclusief btw en de jaren waarin de betaalmomenten plaatsvinden, als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=9&z=2023-07-01&g=2023-07-01), zijn als volgt:
+De gemeenten waaraan een uitkering wordt verstrekt, de maximale hoogte van de uitkering inclusief btw en de jaren waarin de betaalmomenten plaatsvinden, als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=8&z=2023-10-01&g=2023-10-01), zijn als volgt:
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 9b. Inzet uitkeerde middelen buiten het stedelijk focusgebied
 
-In afwijking van de [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=4&z=2023-10-01&g=2023-07-01), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=5&z=2023-10-01&g=2023-07-01), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=6&z=2023-10-01&g=2023-07-01) en [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=9&z=2023-10-01&g=2023-07-01), kunnen de uitgekeerde middelen tevens worden besteed aan in die artikelen beschreven activiteiten die buiten het stedelijk focusgebied worden uitgevoerd indien deze activiteiten hoofdzakelijk ten goede komen aan de inwoners van het stedelijk focusgebied.
+In afwijking van de [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=4&z=2023-10-01&g=2023-10-01), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=5&z=2023-10-01&g=2023-10-01), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=6&z=2023-10-01&g=2023-10-01) en [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=9&z=2023-10-01&g=2023-10-01), kunnen de uitgekeerde middelen tevens worden besteed aan in die artikelen beschreven activiteiten die buiten het stedelijk focusgebied worden uitgevoerd indien deze activiteiten hoofdzakelijk ten goede komen aan de inwoners van het stedelijk focusgebied.
 
 ## Bijlage. bij de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=3&z=2023-10-01&g=2023-07-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=4&z=2023-10-01&g=2023-07-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=5&z=2023-10-01&g=2023-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=6&z=2023-10-01&g=2023-07-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=7&z=2023-10-01&g=2023-07-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=8&z=2023-10-01&g=2023-07-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=9&z=2023-10-01&g=2023-07-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=13&z=2023-10-01&g=2023-07-01).
 
@@ -355,5 +363,37 @@ De gemeenten waaraan een uitkering wordt verstrekt, de maximale hoogte van de ui
 ### Specifieke uitkering per gemeente als bedoeld in[artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=9&z=2023-10-01&g=2023-07-01) (jonge kind)
 
 De gemeenten waaraan een uitkering wordt verstrekt, de maximale hoogte van de uitkering inclusief btw en de jaren waarin de betaalmomenten plaatsvinden, als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=9&z=2023-10-01&g=2023-07-01), zijn als volgt:
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 9a. Bestedingsvoorwaarden gezonde leefomgeving
+
+1. Voor het hoofdthema gezonde leefomgeving worden de uitgekeerde middelen besteed aan activiteiten gericht op de voorbereiding van interventies om de leefomgeving voor de inwoners van het stedelijk focusgebied gezonder te maken.
+
+2. Onder de activiteiten, bedoeld in het eerste lid, worden in ieder geval verstaan:
+
+- a. het inwinnen van advies over effectieve interventies in het betreffende stedelijke focusgebied;
+
+- b. planvorming, waaronder het ontwerpen van de interventies en afstemming met betrokken partijen;
+
+- c. het inwinnen van juridisch of financieel advies om de interventies te kunnen implementeren;
+
+- d. het voorbereiden van besluiten ter uitvoering van de adviezen, bedoeld onder c;
+
+- e. het inrichten en in stand houden van monitoring om de interventies in de toekomst te kunnen evalueren;
+
+- f. het inrichten en in stand houden van een projectorganisatie om de continuïteit van de interventies te borgen.
+
+3. De maximale hoogte van de uitkering exclusief btw per ontvangende gemeente is in de bij deze regeling behorende bijlage opgenomen.
+
+## Bijlage. bij de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=3&z=2023-10-01&g=2023-10-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=4&z=2023-10-01&g=2023-10-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=5&z=2023-10-01&g=2023-10-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=6&z=2023-10-01&g=2023-10-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=7&z=2023-10-01&g=2023-10-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=8&z=2023-10-01&g=2023-10-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=9&z=2023-10-01&g=2023-10-01) en [9a](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=9a&z=2023-10-01&g=2023-10-01).
+
+### Specifieke uitkering per gemeente als bedoeld in[artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=9&z=2023-10-01&g=2023-10-01) (jonge kind)
+
+De gemeenten waaraan een uitkering wordt verstrekt, de maximale hoogte van de uitkering inclusief btw en de jaren waarin de betaalmomenten plaatsvinden, als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=9&z=2023-10-01&g=2023-10-01), zijn als volgt:
+
+### Specifieke uitkering per gemeente als bedoeld in [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=9a&z=2023-10-01&g=2023-10-01) (gezonde leefomgeving)
+
+De gemeenten waaraan een uitkering wordt verstrekt, de maximale hoogte van de uitkering exclusief btw en de jaren waarin de betaalmomenten plaatsvinden, als bedoeld in [artikel 9a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=9a&z=2023-10-01&g=2023-10-01), zijn als volgt:
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
