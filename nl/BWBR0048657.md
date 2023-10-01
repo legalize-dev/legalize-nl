@@ -189,21 +189,3 @@ De minister wijst een aanvraag om een specifieke uitkering af indien:
 Deze regeling treedt in werking met ingang van 1 oktober 2023.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 12
-
-Deze regeling wordt aangehaald als: Meerjarige stimuleringsregeling flex- en transformatiewoningen 2023.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 8a
-
-De minister kan een besluit over de verlening van de specifieke uitkering intrekken of wijzigen indien:
-
-- a. de verstrekte gegevens zodanig onjuist of onvolledig zijn dat op de aanvraag een andere beslissing zou zijn genomen, indien bij de beoordeling daarvan de juiste gegevens bekend waren geweest;
-
-- b. het college niet voldoet aan de verplichtingen, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048657&artikel=7&z=2025-01-31&g=2025-01-31); of
-
-- c. het college minder woonruimten kan realiseren dan vermeld in de verleningsbeschikking, bedoeld in [artikel 8, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048657&artikel=8&z=2025-01-31&g=2025-01-31).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
