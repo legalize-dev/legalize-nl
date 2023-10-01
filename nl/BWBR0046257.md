@@ -4,7 +4,7 @@ identifier: "BWBR0046257"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-12"
-last_updated: "2022-02-01"
+last_updated: "2023-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046257"
 soort: "ministeriele-regeling"
@@ -66,7 +66,7 @@ In deze regeling wort verstaan onder:
 
 ##### Artikel 2. (toestemmingsaanvraag)
 
-Bij de aanvraag om toestemming als bedoeld in [artikel 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=4) wordt ten behoeve van het verstrekken van gegevens en daarbij over te leggen bescheiden gebruik gemaakt van het model-formulier zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046257&bijlage=1&z=2022-02-01&g=2022-02-01).
+Bij de aanvraag om toestemming als bedoeld in [artikel 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=4) wordt ten behoeve van het verstrekken van gegevens en daarbij over te leggen bescheiden gebruik gemaakt van het model-formulier zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046257&bijlage=1&z=2023-10-12&g=2023-10-01).
 
 ##### Artikel 3. (beschermingsmaatregelen)
 
@@ -106,7 +106,7 @@ Bij de aanvraag om toestemming als bedoeld in [artikel 4 van de wet](https://wet
 
 - c. het beschikbaar hebben van schijnwerpers voor onmiddellijk gebruik.
 
-4. Indien het wegens bijzondere omstandigheden niet mogelijk is om één of meer van de maatregelen als bedoeld in lid 1 tot en met 3 te treffen, doet de scheepsbeheerder daarvan met redenen omkleed melding op het formulier als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046257&hoofdstuk=2&artikel=2&z=2022-02-01&g=2022-02-01), zo mogelijk met vermelding van alternatieve maatregelen die worden getroffen.
+4. Indien het wegens bijzondere omstandigheden niet mogelijk is om één of meer van de maatregelen als bedoeld in lid 1 tot en met 3 te treffen, doet de scheepsbeheerder daarvan met redenen omkleed melding op het formulier als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046257&hoofdstuk=2&artikel=2&z=2023-10-12&g=2023-10-01), zo mogelijk met vermelding van alternatieve maatregelen die worden getroffen.
 
 ### Hoofdstuk 3. De inzet van particulier maritiem beveiligingspersoneel
 
@@ -156,11 +156,11 @@ Bij de aanvraag om toestemming als bedoeld in [artikel 4 van de wet](https://wet
 
 1. De scheepsbeheerder verstrekt de kapitein de informatie, bedoeld in [artikel 2.4, eerste en tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&artikel=2.4), ten minste vier uren voor embarkatie van het beveiligingsteam, de geweldsmiddelen en de apparatuur.
 
-2. Bij de uitvoering van de vergewisplicht, bedoeld in [artikel 6, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=6) en [artikel 2.4, eerste en tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&artikel=2.4), wordt door de kapitein en de teamleider gebruik gemaakt van de model-formulieren, zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046257&bijlage=2&z=2022-02-01&g=2022-02-01), respectievelijk [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046257&bijlage=3&z=2022-02-01&g=2022-02-01). De kapitein zendt de door de kapitein en de teamleider ingevulde formulieren terstond na embarkatie ter informatie toe aan de Kustwacht en de Inspectie.
+2. Bij de uitvoering van de vergewisplicht, bedoeld in [artikel 6, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=6) en [artikel 2.4, eerste en tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&artikel=2.4), wordt door de kapitein en de teamleider gebruik gemaakt van de model-formulieren, zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046257&bijlage=2&z=2023-10-12&g=2023-10-01), respectievelijk [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046257&bijlage=3&z=2023-10-12&g=2023-10-01). De kapitein zendt de door de kapitein en de teamleider ingevulde formulieren terstond na embarkatie ter informatie toe aan de Kustwacht en de Inspectie.
 
-3. Bij de rapportages, bedoeld in [artikel 12, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=12), wordt door de kapitein en door de teamleider van het particulier maritiem beveiligingspersoneel gebruik gemaakt van het model-formulier zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046257&bijlage=4&z=2022-02-01&g=2022-02-01), respectievelijk [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046257&bijlage=5&z=2022-02-01&g=2022-02-01). De formulieren, bedoeld in het eerste lid, maken deel uit van deze rapportages. De kapitein en de teamleider zenden de rapportages, bedoeld in artikel 12, eerste lid, van de wet uiterlijk 48 uur na afloop van de debarkatie van het beveiligingsteam aan de Inspectie.
+3. Bij de rapportages, bedoeld in [artikel 12, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=12), wordt door de kapitein en door de teamleider van het particulier maritiem beveiligingspersoneel gebruik gemaakt van het model-formulier zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046257&bijlage=4&z=2023-10-12&g=2023-10-01), respectievelijk [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046257&bijlage=5&z=2023-10-12&g=2023-10-01). De formulieren, bedoeld in het eerste lid, maken deel uit van deze rapportages. De kapitein en de teamleider zenden de rapportages, bedoeld in artikel 12, eerste lid, van de wet uiterlijk 48 uur na afloop van de debarkatie van het beveiligingsteam aan de Inspectie.
 
-4. Bij de melding aan het openbaar ministerie, bedoeld in [artikel 12, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=12), wordt door de kapitein gebruik gemaakt van de meldingsformulieren, zoals opgenomen in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0046257&bijlage=6&z=2022-02-01&g=2022-02-01).
+4. Bij de melding aan het openbaar ministerie, bedoeld in [artikel 12, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=12), wordt door de kapitein gebruik gemaakt van de meldingsformulieren, zoals opgenomen in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0046257&bijlage=6&z=2023-10-12&g=2023-10-01).
 
 ### Hoofdstuk 4. De vergunning
 
@@ -168,7 +168,7 @@ Bij de aanvraag om toestemming als bedoeld in [artikel 4 van de wet](https://wet
 
 1. De Inspectie hanteert een model-formulier ten behoeve van het verstrekken van gegevens ten behoeve van het aanvragen van een vergunning. De aanvrager voegt de op het aanvraagformulier vermelde bescheiden en bewijsstukken toe als bijlagen bij de aanvraag.
 
-2. Na ontvangst van de aanvraag wordt de aanwezigheid van bescheiden en bewijsstukken getoetst aan de eisen opgenomen in de [artikelen 9 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0046257&hoofdstuk=5&paragraaf=5.1&artikel=9&z=2022-02-01&g=2022-02-01).
+2. Na ontvangst van de aanvraag wordt de aanwezigheid van bescheiden en bewijsstukken getoetst aan de eisen opgenomen in de [artikelen 9 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0046257&hoofdstuk=5&paragraaf=5.1&artikel=9&z=2023-10-12&g=2023-10-01).
 
 3. Na ontvangst aanvraag bescheiden en bewijsstukken kan de Inspectie, alvorens een besluit te nemen naar aanleiding van de vergunningaanvraag, een audit verrichten op de vestigingslocatie van de aanvrager.
 
