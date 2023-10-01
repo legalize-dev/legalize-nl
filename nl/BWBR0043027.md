@@ -4,7 +4,7 @@ identifier: "BWBR0043027"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-03"
-last_updated: "2023-07-12"
+last_updated: "2023-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043027"
 soort: "ministeriele-regeling"
@@ -82,9 +82,9 @@ De algemene leiding hanteert de basiswaarden van het ministerie en draagt zorg v
 
 2. De SG is verantwoordelijk voor de beleidsterreinen van de direct onder hem ressorterende directies en diensten, behorende tot het SG-cluster, voor de samenhang tussen die beleidsterreinen en voor de bijbehorende bedrijfsvoering. De SG geeft leiding aan de onder hem ressorterende directeuren.
 
-3. De SG treft een vervangingsregeling inzake vervanging bij zijn afwezigheid, met inachtneming van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2023-07-12&g=2023-07-12).
+3. De SG treft een vervangingsregeling inzake vervanging bij zijn afwezigheid, met inachtneming van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2023-07-12&g=2023-10-01).
 
-4. De directeur-generaal Fiscale Zaken vervangt de secretaris-generaal tijdens diens afwezigheid, met inachtneming van de bevoegdheden van de pSG op grond van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2023-07-12&g=2023-07-12).
+4. De directeur-generaal Fiscale Zaken vervangt de secretaris-generaal tijdens diens afwezigheid, met inachtneming van de bevoegdheden van de pSG op grond van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2023-07-12&g=2023-10-01).
 
 ##### Artikel 4. De bestuursraad
 
@@ -264,9 +264,9 @@ Het ministerie heeft een hoofdstructuur, bestaande uit de volgende dienstonderde
 
 ##### Artikel 11. Tijdelijke organisatieonderdelen
 
-1. Buiten de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2023-07-12&g=2023-07-12) kan de SG een tijdelijk directoraat-generaal voor grote projecten instellen.
+1. Buiten de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2023-07-12&g=2023-10-01) kan de SG een tijdelijk directoraat-generaal voor grote projecten instellen.
 
-2. Passend binnen de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2023-07-12&g=2023-07-12) kan de SG of de pSG tijdelijke organisatieonderdelen instellen.
+2. Passend binnen de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2023-07-12&g=2023-10-01) kan de SG of de pSG tijdelijke organisatieonderdelen instellen.
 
 3. De SG kan de directeuren-generaal Belastingdienst, Toeslagen en Douane ieder afzonderlijk toestemming verlenen om, met inachtneming van de structuur van respectievelijk het DGBD, het DGTSL en het DGD, en de taken genoemd in het [Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045076), tijdelijke organisatieonderdelen in te stellen.
 
@@ -420,7 +420,7 @@ De directie AFEP heeft de volgende hoofdtaken:
 
 - d. het bijdragen aan de rijksbrede strategische opdracht vanuit de categorieën waarvan het eigenaarschap is toebedeeld aan het Ministerie van Financiën.
 
-8. De directeur Bedrijfsvoering is tevens Coördinerend Directeur Inkoop (CDI) als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=7&z=2023-07-12&g=2023-07-12). Het afdelingshoofd CDI Office en Categoriemanagement is tevens plaatsvervangend CDI.
+8. De directeur Bedrijfsvoering is tevens Coördinerend Directeur Inkoop (CDI) als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=7&z=2023-07-12&g=2023-10-01). Het afdelingshoofd CDI Office en Categoriemanagement is tevens plaatsvervangend CDI.
 
 ##### Artikel 15. Het Beveiligingsambtenaar-Office (BVA-Office)
 
@@ -642,7 +642,7 @@ De directie Communicatie heeft de volgende taken:
 
 Vervallen
 
-### Hoofdstuk 5A. Directoraat-generaal toeslagen
+### Hoofdstuk 5. Directoraat-generaal belastingdienst
 
 ##### Artikel 24. Directeur-generaal Fiscale Zaken
 
@@ -900,7 +900,7 @@ Het directoraat-generaal voor Fiscale Zaken:
 
 - ii. het opdrachtgeverschap ten aanzien van de [Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472) voor het directoraat-generaal Toeslagen.
 
-### Hoofdstuk 7. Directoraat-generaal rijksbegroting
+### Hoofdstuk 6. Directoraat-generaal Fiscale Zaken
 
 ##### Artikel 30. Directeur-generaal Rijksbegroting
 
@@ -1340,7 +1340,7 @@ De Generale Thesaurie:
 
 - e. Adviseren over strategische en bedrijfseconomische vraagstukken rondom staatsdeelnemingen.
 
-### Hoofdstuk 9. Verantwoording
+### Hoofdstuk 8. Generale thesaurie
 
 ##### Artikel 42. Planning en control
 
@@ -1392,9 +1392,9 @@ De SG, de DG’s en de IG leggen, aan het eind van het verslagjaar en tussentijd
 
 ##### Artikel 48. Organisatie- en formatierapport
 
-1. Elk onderdeel dat ressorteert onder de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2023-07-12&g=2023-07-12) genoemde dienstonderdelen ontwerpt en onderhoudt een organisatierapport en een formatierapport.
+1. Elk onderdeel dat ressorteert onder de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2023-07-12&g=2023-10-01) genoemde dienstonderdelen ontwerpt en onderhoudt een organisatierapport en een formatierapport.
 
-2. Voor zover een document als bedoeld in het eerste lid betrekking heeft op een dienstonderdeel, genoemd in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2023-07-12&g=2023-07-12), is de plaatsvervangend secretaris-generaal bevoegd het document namens de bewindspersoon vast te stellen.
+2. Voor zover een document als bedoeld in het eerste lid betrekking heeft op een dienstonderdeel, genoemd in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2023-07-12&g=2023-10-01), is de plaatsvervangend secretaris-generaal bevoegd het document namens de bewindspersoon vast te stellen.
 
 3. Voor zover een document als bedoeld in het eerste lid betrekking heeft op de IBTD is de IG bevoegd het document vast te stellen.
 
@@ -1402,7 +1402,7 @@ De SG, de DG’s en de IG leggen, aan het eind van het verslagjaar en tussentijd
 
 5. Het vierde lid is niet van toepassing indien er sprake is van een uitbreiding van de personele formatie van de IBTD, voor zover die uitbreiding past binnen het budget van de IBTD.
 
-### Hoofdstuk 9. Verantwoording
+### Hoofdstuk 8A. Inspectie belastingen, toeslagen en douane
 
 ##### Artikel 49. Vaste verandermomenten
 
@@ -1446,7 +1446,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 9. Verantwoording
 
-### Hoofdstuk 11. Slotbepalingen
+### Hoofdstuk 9. Verantwoording
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -1478,9 +1478,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 5A. Directoraat-generaal toeslagen
 
-### Hoofdstuk 5B. Directoraat-generaal douane
+### Hoofdstuk 5A. Directoraat-generaal toeslagen
 
-### Hoofdstuk 6. Directoraat-generaal Fiscale Zaken
+### Hoofdstuk 5B. Directoraat-generaal douane
 
 ### Hoofdstuk 7. Directoraat-generaal rijksbegroting
 
@@ -1542,7 +1542,7 @@ De programmadirectie Herstel- en Veerkrachtplan heeft de volgende taken:
 
 ### Hoofdstuk 10. Overige bepalingen
 
-### Hoofdstuk 11. Slotbepalingen
+### Hoofdstuk 10. Overige bepalingen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -1572,7 +1572,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. De directie Digitalisering en Informatisering heeft de volgende taken:
 
-- a. het uitvoeren van de taken van de dCIO conform [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=6&z=2023-07-12&g=2023-07-12) van dit besluit;
+- a. het uitvoeren van de taken van de dCIO conform [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=6&z=2023-07-12&g=2023-10-01) van dit besluit;
 
 - b. invulling geven aan de rol van de CIO van het kernministerie en [artikel 5, derde lid, van de Regeling Informatiehuishouding Financiën 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046157&artikel=5);
 
@@ -1601,6 +1601,48 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 ### Hoofdstuk 8A. Inspectie belastingen, toeslagen en douane
 
 ### Hoofdstuk 9. Verantwoording
+
+### Hoofdstuk 11. Slotbepalingen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 19c. Concerndirectie Mens en Organisatie (CDMO)
+
+1. De concerndirectie Mens en Organisatie heeft de volgende taken:
+
+- a. het vervullen van een kaderstellende en controlerende rol binnen de M&O-lijn van het Ministerie van Financiën, gericht op het continu verbeteren van de dienstverlening binnen de rijksbrede kaders op het terrein van personeel en organisatie en het verbeteren van de concernbrede samenwerking;
+
+- b. interne advisering van de leiding en het management van het Ministerie van Financiën over de uitvoering van het personeelsmanagement, het personeelsbeleid en de ontwikkeling van de organisatie;
+
+- c. het coördineren en verbinden op DG- en departementoverstijgende onderwerpen op het gebied van personeel en organisatie;
+
+- d. het inspelen op interne en externe ontwikkelingen en bijdragen aan het waarborgen van de personeelscontinuïteit van het Ministerie van Financiën;
+
+- e. het zorgdragen voor een samenhangend, integraal beleid sociale veiligheid en integriteit en het initiëren, regisseren en het toezien op een adequate uitvoering van dit beleid binnen het Ministerie van Financiën;
+
+- f. het beheersen van doelstellingen en administratieve processen op het terrein van organisatie en personeel ten behoeve van de SG en pSG als eigenaar;
+
+- g. regie voeren op taken en opdrachten op het gebied van organisatie en personeel die zijn belegd bij SSC’s, en in voorkomende gevallen externe partijen;
+
+- h. het voeren of begeleiden van bestuursrechtelijke en civielrechtelijke procedures op het gebied van het (collectieve) arbeidsrecht en medezeggenschapsrecht voor alle organisatieonderdelen binnen het Ministerie van Financiën;
+
+- i. het vertegenwoordigen van het Ministerie van Financiën in interdepartementale gremia en fora op het gebied van personeel en organisatie;
+
+- j. uitvoeren van het personeelsbeheer.
+
+2. De concerndirectie Mens en Organisatie bestaat uit een staf en de volgende afdelingen:
+
+- a. Afdeling Strategie en Realisatie (S&R), verantwoordelijk voor het stimuleren van een inclusieve, diverse, gelijkwaardige, vitale en ontwikkelgerichte organisatie;
+
+- b. Afdeling Werkgeverszaken en Integriteit (W&I), verantwoordelijk voor het invullen van het goed, modern werkgeverschap binnen het Ministerie van Financiën en het stimuleren van een integere organisatie met een positieve en veilige werkomgeving;
+
+- c. Afdeling Analyse en Beheersing (A&B), verantwoordelijk voor de analyse en beheersing van departementale doelstellingen en strategische kaders op het terrein van personeel en organisatie;
+
+- d. Afdeling M&O Advies en Ondersteuning (A&O), verantwoordelijk voor de advisering en ondersteuning van het kernministerie bij de uitvoering van beleid, processen en instrumenten op het terrein van personeel en organisatie.
+
+#### Paragraaf 4.3. Rijksbrede organisatieonderdelen SG-cluster
+
+### Hoofdstuk 7. Directoraat-generaal rijksbegroting
 
 ### Hoofdstuk 11. Slotbepalingen
 
