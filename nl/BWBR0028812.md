@@ -4,7 +4,7 @@ identifier: "BWBR0028812"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2023-10-01"
-last_updated: "2019-10-04"
+last_updated: "2023-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028812"
 soort: "ministeriele-regeling-BES"
@@ -71,11 +71,11 @@ De opneming van gedetineerden in een gesticht kan te allen tijde geschieden met 
 
 1. Van de bij opneming of op een later tijdstip aangetroffen en in bewaring genomen gelden, waardepapieren en andere goederen, die de gedetineerde niet onder zijn berusting mag houden, wordt aantekening gemaakt in het bewaarnemingsregister. De gedetineerde dient, zo mogelijk, voor akkoord te tekenen.
 
-2. In bewaring genomen geld wordt geboekt op de post ‘Eigen geld’ van de rekening bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=5&artikel=9&z=2019-10-04&g=2019-10-04).
+2. In bewaring genomen geld wordt geboekt op de post ‘Eigen geld’ van de rekening bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=5&artikel=9&z=2023-10-01&g=2023-10-01).
 
 3. Waardepapieren en andere goederen doet de directeur verzegeld opbergen in de door hem aangewezen ruimte in het gesticht, tenzij dezen met schriftelijke toestemming van de gedetineerde en voor zijn rekening aan een door hem opgegeven derde worden afgestaan.
 
-4. In bewaring genomen waardepapieren en andere goederen worden de gedetineerde, onverminderd [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=7&artikel=20&z=2019-10-04&g=2019-10-04), bij zijn invrijheidstelling teruggegeven tegen getekend bewijs van ontvangst.
+4. In bewaring genomen waardepapieren en andere goederen worden de gedetineerde, onverminderd [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=7&artikel=20&z=2023-10-01&g=2023-10-01), bij zijn invrijheidstelling teruggegeven tegen getekend bewijs van ontvangst.
 
 ##### Artikel 5
 
@@ -117,7 +117,7 @@ De gedetineerde is verplicht de hem toegewezen woon- en slaapruimte, met de zich
 
 ##### Artikel 10
 
-Het door de gedetineerde in een kalendermaand met arbeid verdiende bedrag bedoeld in [artikel 21, tweede lid, van de Gevangenismaatregel 1999 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028513&artikel=21), wordt uiterlijk op de zevende dag van de volgende kalendermaand geboekt op de rekening bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=5&artikel=9&z=2019-10-04&g=2019-10-04), met inachtneming van artikel 21, tweede lid, van de Gevangenismaatregel 1999 BES.
+Het door de gedetineerde in een kalendermaand met arbeid verdiende bedrag bedoeld in [artikel 21, tweede lid, van de Gevangenismaatregel 1999 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028513&artikel=21), wordt uiterlijk op de zevende dag van de volgende kalendermaand geboekt op de rekening bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=5&artikel=9&z=2023-10-01&g=2023-10-01), met inachtneming van artikel 21, tweede lid, van de Gevangenismaatregel 1999 BES.
 
 ##### Artikel 11
 
@@ -125,21 +125,21 @@ Het door de gedetineerde in een kalendermaand met arbeid verdiende bedrag bedoel
 
 ##### Artikel 12
 
-1. De gelden geboekt als ‘Eigen geld’ op de rekening bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=5&artikel=9&z=2019-10-04&g=2019-10-04), staan niet ter beschikking van de gedetineerde, tenzij bij of krachtens de [Wet beginselen gevangeniswezen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028596) anders is bepaald.
+1. De gelden geboekt als ‘Eigen geld’ op de rekening bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=5&artikel=9&z=2023-10-01&g=2023-10-01), staan niet ter beschikking van de gedetineerde, tenzij bij of krachtens de [Wet beginselen gevangeniswezen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028596) anders is bepaald.
 
-2. De door de gedetineerde in een kalendermaand van derden ontvangen gelden bedoeld in [artikel 23, tweede lid, van de Gevangenismaatregel 1999 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028513&artikel=23), doet de directeur uiterlijk de zevende dag van de volgende kalendermaand overboeken van de post ‘Eigen geld’ naar de post ‘Zakgeld’ van de rekening bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=5&artikel=9&z=2019-10-04&g=2019-10-04). Bij zijn invrijheidstelling worden de resterende gelden hem meegegeven tegen ondertekend bewijs van ontvangst.
+2. De door de gedetineerde in een kalendermaand van derden ontvangen gelden bedoeld in [artikel 23, tweede lid, van de Gevangenismaatregel 1999 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028513&artikel=23), doet de directeur uiterlijk de zevende dag van de volgende kalendermaand overboeken van de post ‘Eigen geld’ naar de post ‘Zakgeld’ van de rekening bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=5&artikel=9&z=2023-10-01&g=2023-10-01). Bij zijn invrijheidstelling worden de resterende gelden hem meegegeven tegen ondertekend bewijs van ontvangst.
 
 3. Indien de gedetineerde in een kalendermaand meer geld van derden ontvangt dan het maximaal toegestane bedrag bedoeld in [artikel 23 van de Gevangenismaatregel 1999 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028513&artikel=23), wordt het meerdere aan de afzender geretourneerd. Is zulks niet mogelijk, dan wordt het meerdere apart bewaard op een door de directeur aangewezen plaats om de daarop volgende maand of maanden met in achtneming van evengenoemd artikel 23 te worden geboekt als ‘Eigen geld’.
 
 ##### Artikel 13
 
-1. De gelden geboekt als ‘Zakgeld’ op de rekening bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=5&artikel=9&z=2019-10-04&g=2019-10-04), staan ter beschikking van de gedetineerde voor de aankoop van kantine-artikelen alsmede voor andere doeleinden. Bij zijn invrijheidstelling worden de resterende gelden hem meegegeven tegen getekend bewijs van ontvangst.
+1. De gelden geboekt als ‘Zakgeld’ op de rekening bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=5&artikel=9&z=2023-10-01&g=2023-10-01), staan ter beschikking van de gedetineerde voor de aankoop van kantine-artikelen alsmede voor andere doeleinden. Bij zijn invrijheidstelling worden de resterende gelden hem meegegeven tegen getekend bewijs van ontvangst.
 
 2. Door de directeur kan het worden verboden om de gelden geboekt als ‘Zakgeld’ te gebruiken voor een bepaald doel indien dat naar zijn oordeel is vereist in het belang van de veiligheid, orde of goede gang van zaken in het gesticht, de voorkoming of opsporing van strafbare feiten, dan wel het tegengaan van vluchtgevaar.
 
 ##### Artikel 14
 
-1. De gelden geboekt als ‘Uitgaanskas’ op de rekening bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=5&artikel=9&z=2019-10-04&g=2019-10-04), staan niet ter beschikking van de gedetineerde, tenzij bij of krachtens de [Wet beginselen gevangeniswezen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028596) anders is bepaald.
+1. De gelden geboekt als ‘Uitgaanskas’ op de rekening bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=5&artikel=9&z=2023-10-01&g=2023-10-01), staan niet ter beschikking van de gedetineerde, tenzij bij of krachtens de [Wet beginselen gevangeniswezen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028596) anders is bepaald.
 
 2. De gelden bedoeld in het eerste lid, doet de directeur bij de invrijheidstelling van de gedetineerde:
 
@@ -149,7 +149,7 @@ Het door de gedetineerde in een kalendermaand met arbeid verdiende bedrag bedoel
 
 ##### Artikel 15
 
-Op verzoek van de gedetineerde besteed of verzonden geld doet de directeur afboeken van de post ‘Zakgeld’ van de rekening bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=5&artikel=9&z=2019-10-04&g=2019-10-04). Kosten in verband met medisch onderzoek of medische behandeling kunnen voor zover nodig ook worden afgeboekt van de post ‘Eigen geld’. De gedetineerde dient, zo mogelijk, voor akkoord te tekenen.
+Op verzoek van de gedetineerde besteed of verzonden geld doet de directeur afboeken van de post ‘Zakgeld’ van de rekening bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=5&artikel=9&z=2023-10-01&g=2023-10-01). Kosten in verband met medisch onderzoek of medische behandeling kunnen voor zover nodig ook worden afgeboekt van de post ‘Eigen geld’. De gedetineerde dient, zo mogelijk, voor akkoord te tekenen.
 
 #### § 6. Werktijden, arbeidsduur en arbeidsloon
 
@@ -183,15 +183,15 @@ Op verzoek van de gedetineerde besteed of verzonden geld doet de directeur afboe
 
 1. Van het aantal volle uren dat de gedetineerde op die dag arbeid heeft verricht, doet de directeur aantekening houden in het arbeidsregister van het gesticht.
 
-2. Tevens wordt in het arbeidsregister aantekening gemaakt van het voor de gedetineerde toepasselijke netto uur bedrag bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=6&artikel=18&z=2019-10-04&g=2019-10-04).
+2. Tevens wordt in het arbeidsregister aantekening gemaakt van het voor de gedetineerde toepasselijke netto uur bedrag bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=6&artikel=18&z=2023-10-01&g=2023-10-01).
 
 #### § 7. Ontvangst, bezit en verzenden van goederen, anders dan gelden, tijdens het verblijf in het gesticht.
 
 ##### Artikel 20
 
-1. Van het op verzoek van de gedetineerde verzenden van goederen doet de directeur aantekening maken in het bewaarnemingsregister bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=2&artikel=4&z=2019-10-04&g=2019-10-04). De gedetineerde dient, zo mogelijk voor akkoord te tekenen.
+1. Van het op verzoek van de gedetineerde verzenden van goederen doet de directeur aantekening maken in het bewaarnemingsregister bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=2&artikel=4&z=2023-10-01&g=2023-10-01). De gedetineerde dient, zo mogelijk voor akkoord te tekenen.
 
-2. Op de inbewaarneming van ten behoeve van de gedetineerde ontvangen goederen die hij niet onder zijn berusting mag houden, en de teruggave daarvan bij zijn invrijheidstelling is [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=2&artikel=4&z=2019-10-04&g=2019-10-04) van overeenkomstige toepassing.
+2. Op de inbewaarneming van ten behoeve van de gedetineerde ontvangen goederen die hij niet onder zijn berusting mag houden, en de teruggave daarvan bij zijn invrijheidstelling is [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=2&artikel=4&z=2023-10-01&g=2023-10-01) van overeenkomstige toepassing.
 
 ##### Artikel 21
 
@@ -227,15 +227,15 @@ Buiten de bij zijn opneming aanwezige of op een later tijdstip van derden ontvan
 
 2. Gewezen gedetineerden dienen schriftelijk, uiterlijk vier dagen voor het bezoek, een verzoek om toelating bij de directeur in.
 
-3. Vrije toegang met inachtneming van het bij of krachtens [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=8&artikel=23&z=2019-10-04&g=2019-10-04) bepaalde hebben:
+3. Vrije toegang met inachtneming van het bij of krachtens [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=8&artikel=23&z=2023-10-01&g=2023-10-01) bepaalde hebben:
 
-- a. advocaten, geestelijke raadslieden bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=2&artikel=3&z=2019-10-04&g=2019-10-04), en reclasseringsmedewerkers die hun cliënten wensen te bezoeken;
+- a. advocaten, geestelijke raadslieden bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=2&artikel=3&z=2023-10-01&g=2023-10-01), en reclasseringsmedewerkers die hun cliënten wensen te bezoeken;
 
 - b. ouders of voogden van strafrechtelijk minderjarige onveroordeelde gedetineerden.
 
-4. Bezoek vindt, tenzij de directeur anders beslist, plaats in het door hem aangewezen lokaal van het gesticht en in aanwezigheid van een of meer door hem aangewezen gestichtsmedewerkers, met dien verstande dat de ambten en personen bedoeld in [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=8&artikel=23&z=2019-10-04&g=2019-10-04), alsmede advocaten, geestelijke raadslieden en reclasseringsmedewerkers bedoeld in het derde lid, de gedetineerde altijd alleen kunnen spreken.
+4. Bezoek vindt, tenzij de directeur anders beslist, plaats in het door hem aangewezen lokaal van het gesticht en in aanwezigheid van een of meer door hem aangewezen gestichtsmedewerkers, met dien verstande dat de ambten en personen bedoeld in [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=8&artikel=23&z=2023-10-01&g=2023-10-01), alsmede advocaten, geestelijke raadslieden en reclasseringsmedewerkers bedoeld in het derde lid, de gedetineerde altijd alleen kunnen spreken.
 
-5. De directeur kan nadere regels vaststellen omtrent het aantal tegelijkertijd bij een gedetineerde toe te laten personen, dat tenminste twee bedraagt, tenzij door de directeur in een bepaald geval, op gronden ontleend aan de veiligheid, orde of goede gang van zaken in het gesticht, wordt besloten om slechts een persoon, anders dan bedoeld in [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=8&artikel=23&z=2019-10-04&g=2019-10-04), toe te laten.
+5. De directeur kan nadere regels vaststellen omtrent het aantal tegelijkertijd bij een gedetineerde toe te laten personen, dat tenminste twee bedraagt, tenzij door de directeur in een bepaald geval, op gronden ontleend aan de veiligheid, orde of goede gang van zaken in het gesticht, wordt besloten om slechts een persoon, anders dan bedoeld in [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=8&artikel=23&z=2023-10-01&g=2023-10-01), toe te laten.
 
 6. De regels en een eventueel afwijkend besluit bedoeld in het vijfde lid, doet de directeur tijdig kenbaar maken aan de gedetineerde.
 
@@ -277,7 +277,7 @@ Gedetineerden van wie aannemelijk is dat hun gezinsbetrekkingen verblijven buite
 
 1. Indien een gedetineerde ernstig ziek is of in levensgevaar verkeert, doet de directeur onverwijld waarschuwen de levenspartner of een andere naaste verwant van de gedetineerde, dan wel enig ander persoon ten aanzien van wie de gedetineerde zulks te kennen heeft gegeven.
 
-2. Tevens doet de directeur zo spoedig mogelijk mededeling aan de eventuele geestelijke raadsman bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=2&artikel=3&z=2019-10-04&g=2019-10-04).
+2. Tevens doet de directeur zo spoedig mogelijk mededeling aan de eventuele geestelijke raadsman bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=2&artikel=3&z=2023-10-01&g=2023-10-01).
 
 ##### Artikel 30
 
@@ -309,11 +309,13 @@ De gedetineerde heeft het recht om, wanneer het weer zulks toelaat, gedurende te
 
 5. De duur van de hechtenis of gevangenisstraf loopt door tijdens het verblijf buiten het gesticht bedoeld in dit artikel.
 
+6. Bij de in het eerste lid vast te stellen periode buiten het gesticht wordt, indien de bestemming Sint Eustatius of Saba betreft, de reistijd niet meegerekend.
+
 ##### Artikel 32
 
-1. Het verzoek bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=9&artikel=31&z=2019-10-04&g=2019-10-04), moet worden ingediend door tussenkomst van de directeur, die zijn advies ter zake bijvoegt.
+1. Het verzoek bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=9&artikel=31&z=2023-10-01&g=2023-10-01), moet worden ingediend door tussenkomst van de directeur, die zijn advies ter zake bijvoegt.
 
-2. Alvorens Onze Minister beslist op het verzoek bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=9&artikel=31&z=2019-10-04&g=2019-10-04), stelt hij de procureur-generaal in de gelegenheid om ter zake advies uit te brengen.
+2. Alvorens Onze Minister beslist op het verzoek bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=9&artikel=31&z=2023-10-01&g=2023-10-01), stelt hij de procureur-generaal in de gelegenheid om ter zake advies uit te brengen.
 
 3. Aan de toestemming kunnen door Onze Minister met het oog op het vertrek uit, de terugkeer naar en het ordelijk verloop tijdens het verblijf buiten het gesticht voorwaarden worden verbonden, zoals de begeleiding door gestichtsmedewerkers of andere door de directeur aan te wijzen personen, een meldingsplicht en het bij zich hebben van een door de directeur verstrekt identiteitsbewijs.
 
@@ -343,7 +345,7 @@ De gedetineerde heeft het recht om, wanneer het weer zulks toelaat, gedurende te
 
 ##### Artikel 34
 
-In buitengewone gevallen kan Onze Minister een gedetineerde vergunnen om maximaal twee maal per kalenderjaar voor maximaal vijf dagen, onder door hem te stellen voorwaarden, het gesticht te verlaten. De [artikelen 31, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=9&artikel=31&z=2019-10-04&g=2019-10-04), en [32, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=9&artikel=32&z=2019-10-04&g=2019-10-04), zijn van overeenkomstige toepassing.
+In buitengewone gevallen kan Onze Minister een gedetineerde vergunnen om maximaal twee maal per kalenderjaar voor maximaal vijf dagen, onder door hem te stellen voorwaarden, het gesticht te verlaten. De [artikelen 31, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=9&artikel=31&z=2023-10-01&g=2023-10-01), en [32, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028812&paragraaf=9&artikel=32&z=2023-10-01&g=2023-10-01), zijn van overeenkomstige toepassing.
 
 #### § 11. Slot- en overgangsbepalingen
 
