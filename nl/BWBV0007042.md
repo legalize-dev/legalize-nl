@@ -4,7 +4,7 @@ identifier: "BWBV0007042"
 country: "nl"
 rank: "verdrag"
 publication_date: "2023-10-01"
-last_updated: "2023-09-28"
+last_updated: "2023-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0007042"
 soort: "verdrag"
@@ -94,15 +94,15 @@ Voor de toepassing van deze Uitvoeringsovereenkomst wordt verstaan onder:
 
 3. Bij de in het tweede lid bedoelde kennisgeving, geven de Verdragsluitende Partijen aan welke van de aangewezen bevoegde diensten instaan voor:
 
-- a. de begeleiding zoals bedoeld in [artikel 2, onder f)](https://wetten.overheid.nl/jci1.3:c:BWBV0007042&artikel=2&z=2023-09-28&g=2023-09-28), van deze Uitvoeringsovereenkomst;
+- a. de begeleiding zoals bedoeld in [artikel 2, onder f)](https://wetten.overheid.nl/jci1.3:c:BWBV0007042&artikel=2&z=2023-10-01&g=2023-10-01), van deze Uitvoeringsovereenkomst;
 
-- b. de ondersteuning zoals bedoeld in [artikel 2, onder g)](https://wetten.overheid.nl/jci1.3:c:BWBV0007042&artikel=2&z=2023-09-28&g=2023-09-28), van deze Uitvoeringsovereenkomst.
+- b. de ondersteuning zoals bedoeld in [artikel 2, onder g)](https://wetten.overheid.nl/jci1.3:c:BWBV0007042&artikel=2&z=2023-10-01&g=2023-10-01), van deze Uitvoeringsovereenkomst.
 
 ##### Artikel 4. Procedure voor onderdanen van derde landen
 
-1. In geval van vervoer en begeleiding zoals bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0007042&artikel=2&z=2023-09-28&g=2023-09-28), vraagt de bevoegde autoriteit van de staat van oorsprong door middel van het formulier in bijlage A het voorgenomen vervoer en begeleiding bij de staat van bestemming aan. Deze aanvraag geschiedt in beginsel uiterlijk 48 uur voor het voorgenomen vervoer en de bevoegde autoriteit van de staat van bestemming geeft onverwijld en in ieder geval binnen 24 uur hierop haar toestemming. Indien de bevoegde autoriteit van de staat van bestemming de toestemming niet verleent, voert de bevoegde dienst van de staat van bestemming het vervoer en de begeleiding zelf uit vanaf de staat van oorsprong, tenzij zij gegronde redenen heeft om anders te besluiten.
+1. In geval van vervoer en begeleiding zoals bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0007042&artikel=2&z=2023-10-01&g=2023-10-01), vraagt de bevoegde autoriteit van de staat van oorsprong door middel van het formulier in bijlage A het voorgenomen vervoer en begeleiding bij de staat van bestemming aan. Deze aanvraag geschiedt in beginsel uiterlijk 48 uur voor het voorgenomen vervoer en de bevoegde autoriteit van de staat van bestemming geeft onverwijld en in ieder geval binnen 24 uur hierop haar toestemming. Indien de bevoegde autoriteit van de staat van bestemming de toestemming niet verleent, voert de bevoegde dienst van de staat van bestemming het vervoer en de begeleiding zelf uit vanaf de staat van oorsprong, tenzij zij gegronde redenen heeft om anders te besluiten.
 
-2. De bevoegde dienst van de zendstaat, verantwoordelijk voor de begeleiding, brengt onverwijld en in beginsel uiterlijk 24 uur voor het voorgenomen vervoer de bevoegde dienst van de gaststaat, verantwoordelijk voor de ondersteuning, op de hoogte van bovengenoemde toestemming. Zij gebruikt daarvoor het formulier in bijlage B. In dit formulier vermeldt de bevoegde dienst van de zendstaat, verantwoordelijk voor de begeleiding, de modaliteiten van het gewenste vervoer, inclusief het voorgenomen tijdstip van de overdracht en met inbegrip van de eventuele aanwezigheid van een verhoogd risico zoals bepaald in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0007042&artikel=6&z=2023-09-28&g=2023-09-28). De bevoegde dienst van de gaststaat, verantwoordelijk voor de ondersteuning, zendt onverwijld haar antwoord, met inbegrip van de voorgenomen plaats van overdracht.
+2. De bevoegde dienst van de zendstaat, verantwoordelijk voor de begeleiding, brengt onverwijld en in beginsel uiterlijk 24 uur voor het voorgenomen vervoer de bevoegde dienst van de gaststaat, verantwoordelijk voor de ondersteuning, op de hoogte van bovengenoemde toestemming. Zij gebruikt daarvoor het formulier in bijlage B. In dit formulier vermeldt de bevoegde dienst van de zendstaat, verantwoordelijk voor de begeleiding, de modaliteiten van het gewenste vervoer, inclusief het voorgenomen tijdstip van de overdracht en met inbegrip van de eventuele aanwezigheid van een verhoogd risico zoals bepaald in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0007042&artikel=6&z=2023-10-01&g=2023-10-01). De bevoegde dienst van de gaststaat, verantwoordelijk voor de ondersteuning, zendt onverwijld haar antwoord, met inbegrip van de voorgenomen plaats van overdracht.
 
 3. In beginsel voeren de bevoegde diensten van de staat van oorsprong het vervoer uit. Wensen de bevoegde diensten van de staat van bestemming echter zelf het vervoer uit te voeren, dan nemen zij daartoe contact op met de bevoegde diensten van de staat van oorsprong. Desgevallend wordt de procedure bedoeld in het tweede lid opnieuw gevolgd.
 
@@ -116,7 +116,7 @@ Voor de toepassing van deze Uitvoeringsovereenkomst wordt verstaan onder:
 
 1. Overeenkomstig de op hun van toepassing zijnde bepalingen, worden onderdanen van een Benelux-land enkel teruggebracht naar het land waarvan zij de nationaliteit bezitten indien een krachtens die bepalingen toegelaten reden een dergelijke verwijdering verantwoordt en er een overeenkomstig die bepalingen uitvoerbare terugkeerbeslissing ten aanzien van deze onderdanen bestaat.
 
-2. De staat van bestemming wordt door de daartoe bevoegde dienst van de staat van oorsprong op de hoogte gesteld van de persoonsgegevens van de betrokken onderdaan van een Benelux-land en van de datum en de plaats van de voorgenomen verwijdering. Deze mededeling geschiedt in beginsel uiterlijk 48 uur voor de voorgenomen verwijdering en de staat van oorsprong gebruikt daarvoor het formulier in bijlage B. In dit formulier vermeldt de bevoegde dienst van de staat van oorsprong, verantwoordelijk voor de begeleiding, de modaliteiten van het gewenste vervoer, inclusief het voorgenomen tijdstip van de verwijdering en de eventuele mogelijkheid van een verhoogd risico zoals voorgeschreven in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0007042&artikel=6&z=2023-09-28&g=2023-09-28).
+2. De staat van bestemming wordt door de daartoe bevoegde dienst van de staat van oorsprong op de hoogte gesteld van de persoonsgegevens van de betrokken onderdaan van een Benelux-land en van de datum en de plaats van de voorgenomen verwijdering. Deze mededeling geschiedt in beginsel uiterlijk 48 uur voor de voorgenomen verwijdering en de staat van oorsprong gebruikt daarvoor het formulier in bijlage B. In dit formulier vermeldt de bevoegde dienst van de staat van oorsprong, verantwoordelijk voor de begeleiding, de modaliteiten van het gewenste vervoer, inclusief het voorgenomen tijdstip van de verwijdering en de eventuele mogelijkheid van een verhoogd risico zoals voorgeschreven in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0007042&artikel=6&z=2023-10-01&g=2023-10-01).
 
 3. De bevoegde dienst van de staat van bestemming kan aan de bevoegde dienst van de staat van oorsprong laten weten dat zij een gecontroleerde overdracht van de te verwijderen persoon wenst, via het formulier in bijlage B. Indien de bevoegde dienst van de staat van bestemming dit niet aangeeft, mag de staat van oorsprong er voor de uitvoering van deze verwijdering van uitgaan dat deze persoon zich vrij op het grondgebied van de staat van bestemming mag bewegen.
 
