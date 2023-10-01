@@ -4,7 +4,7 @@ identifier: "BWBR0041520"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2023-03-31"
+last_updated: "2023-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041520"
 soort: "AMvB"
@@ -101,10 +101,12 @@ Als andere vitale aanbieders of categorieën van zodanige aanbieders als bedoeld
 | **Digitale overheid** | De Kamer van Koophandel, bedoeld in [artikel 2 van de Wet op de Kamer van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&artikel=2) | Het handelsregister, bedoeld in [artikel 2 van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=2) |
 | **Digitale overheid** | Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties | • De centrale voorzieningen, bedoeld in [artikel 1.9, derde lid, van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.9) • De voorziening voor uitgifte of activatie van elektronische authenticatiemiddelen en voor elektronische authenticatie die bereikbaar is via het webadres www.digid.nl |
 | **Digitale overheid** | De aanbieder van een digitale overheidsvoorziening als bedoeld in de derde kolom | Een digitale overheidsvoorziening, aangewezen bij besluit van Onze Minister die het aangaat |
+| **Energie: elektriciteit** | De exploitant van oplaadpunten als bedoeld in artikel 2, derde lid, van [Richtlijn 2014/94](32014L0094)/EU, met een totaal opgesteld laadvermogen van minimaal 300 megawatt (300.000 kilowatt) | Het beheer of de exploitatie van oplaadpunten die een laaddienst leveren aan particuliere of zakelijke eindgebruikers, onder meer namens en voor rekening van een aanbieder van mobiliteitsdiensten |
+| **Digitale infrastructuur** | Een aanbieder van multi-tenant datacenterdiensten waarvan de datacenters een gezamenlijke stroomcapaciteit hebben van meer dan 50 megawatt | Het verlenen van datacenterdiensten |
 
 ##### Artikel 4. (uitzondering beveiligingseisen financiële instellingen)
 
-De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=9), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=26) en [27 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=27), [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0041520&artikel=3a&z=2023-03-31&g=2023-03-31) van dit besluit en de bijlage bij dit besluit zijn niet van toepassing op de bij besluit van De Nederlandsche Bank N.V. krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041520&artikel=2&z=2023-03-31&g=2023-03-31) aangewezen kredietinstellingen, centrale tegenpartijen en exploitanten van handelsplatformen.
+De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=9), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=26) en [27 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=27), [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0041520&artikel=3a&z=2023-10-01&g=2023-10-01) van dit besluit en de bijlage bij dit besluit zijn niet van toepassing op de bij besluit van De Nederlandsche Bank N.V. krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041520&artikel=2&z=2023-10-01&g=2023-10-01) aangewezen kredietinstellingen, centrale tegenpartijen en exploitanten van handelsplatformen.
 
 ##### Artikel 5. (beveiliging en meldplicht digitaledienstverlener)
 
@@ -138,7 +140,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 2. Bij regeling van Onze Minister die het aangaat, na overleg met Onze Minister, kunnen nadere regels worden gesteld over de te nemen maatregelen.
 
-## Bijlage. bij [artikel 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041520&artikel=3a&z=2023-03-31&g=2023-03-31), van het Besluit beveiliging netwerk- en informatiesystemen
+## Bijlage. bij [artikel 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041520&artikel=3a&z=2023-10-01&g=2023-10-01), van het Besluit beveiliging netwerk- en informatiesystemen
 
 ### Beveiliging aanbieders van een essentiële dienst
 
