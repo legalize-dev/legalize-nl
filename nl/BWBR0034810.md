@@ -4,7 +4,7 @@ identifier: "BWBR0034810"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2023-10-01"
-last_updated: "2018-10-01"
+last_updated: "2023-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034810"
 soort: "ministeriele-regeling-BES"
@@ -46,9 +46,9 @@ Besluit:
 
 2. Om aanspraak te kunnen maken op deze vergoeding, ondertekenen de leden van de commissie een presentielijst en dienen zij een gespecificeerde declaratie in bij de Minister.
 
-3. De vergoeding voor de voorzitter bedraagt USD 306 per vergadering. Voor de overige leden van de commissie bedraagt de vergoeding USD 272 per vergadering.
+3. De vergoeding voor de voorzitter bedraagt USD 321 per vergadering. Voor de overige leden van de commissie bedraagt de vergoeding USD 286 per vergadering.
 
-4. De leden van de commissie ontvangen een vergoeding van reis- en verblijfkosten overeenkomstig de [Reisregeling Rijksambtenaren BES](onbekend) ambtenaren BES.
+4. De leden van de commissie ontvangen een vergoeding van reis- en verblijfkosten overeenkomstig de [Reisregeling Rijksambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0041296) ambtenaren BES.
 
 ##### Artikel 2
 
