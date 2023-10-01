@@ -4,7 +4,7 @@ identifier: "BWBR0032139"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-01"
-last_updated: "2018-10-01"
+last_updated: "2023-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032139"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-1. Een bod als bedoeld in [artikel 9.3, vijfde lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=9.3) wordt uitgebracht door het opgeven van één bedrag per minuut dat via de bemiddelingsdienst een gesprek als bedoeld in [artikel 1.1, onderdeel k, van het Besluit universele dienstverlening en eindgebruikersbelangen](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&artikel=1.1) wordt gevoerd.
+1. Een bod als bedoeld in [artikel 9.3, vijfde lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=9.3) wordt inclusief onderbouwing uitgebracht door het opgeven van één bedrag per minuut dat via de bemiddelingsdienst een gesprek als bedoeld in [artikel 1.1, onderdeel k, van het Besluit universele dienstverlening en eindgebruikersbelangen](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&artikel=1.1) wordt gevoerd.
 
 2. Het in het bod opgegeven bedrag per minuut geldt voor de eerste 10.000.000 minuten dat via de bemiddelingsdienst een gesprek als bedoeld in [artikel 1.1, onderdeel k, van het Besluit universele dienstverlening en eindgebruikersbelangen](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&artikel=1.1) wordt gevoerd. Voor de minuten boven dit aantal wordt het bod geacht te bestaan uit 90% van het opgegeven bedrag per minuut.
 
@@ -58,6 +58,6 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1a
 
-Aanvullend op de vergoeding per minuut dat via de bemiddelingsdienst een gesprek als bedoeld in [artikel 1.1, onderdeel k, van het Besluit universele dienstverlening en eindgebruikersbelangen](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&artikel=1.1) wordt gevoerd, wordt aan de aanbieder die is aangewezen als verzorger van de bemiddelingsdienst na afloop van ieder kalenderjaar waarin de bemiddelingsdienst wordt verzorgd een van het gebruik onafhankelijk bedrag van € 725.000 per jaar vergoed.
+Aanvullend op de vergoeding per minuut dat via de bemiddelingsdienst een gesprek als bedoeld in [artikel 1.1, onderdeel k, van het Besluit universele dienstverlening en eindgebruikersbelangen](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&artikel=1.1) wordt gevoerd, wordt aan de aanbieder die is aangewezen als verzorger van de bemiddelingsdienst na afloop van ieder kalenderjaar waarin de bemiddelingsdienst wordt verzorgd een van het gebruik onafhankelijk bedrag van € 1.025.000 per jaar vergoed.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
