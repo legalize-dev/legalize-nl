@@ -4,7 +4,7 @@ identifier: "BWBR0046232"
 country: "nl"
 rank: "wet"
 publication_date: "2023-10-01"
-last_updated: "2022-01-26"
+last_updated: "2023-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046232"
 soort: "wet"
@@ -64,15 +64,13 @@ Wijzigt het Wetboek van Strafrecht.
 
 Wijzigt het Wetboek van Strafvordering.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel 5. (evaluatie)
 
 Onze Minister van Justitie en Veiligheid zendt, in overeenstemming met Onze Minister van Defensie, binnen drie jaar na de inwerkingtreding van het op 23 juli 2018 te Brussel tot stand gekomen Verdrag tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden inzake politiesamenwerking, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet en het Verdrag, met inbegrip van de tot dan toe in werking getreden uitvoeringsovereenkomsten als bedoeld in artikel 62, tweede lid, van het Verdrag, en ministeriële beschikkingen als bedoeld in het vierde lid van genoemd artikel, in de praktijk.
 
 ##### Artikel 6. (inwerkingtreding)
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, met uitzondering van de [artikelen 3, onderdelen A, C en L](https://wetten.overheid.nl/jci1.3:c:BWBR0046232&artikel=3&z=2022-01-26&g=2022-01-26), en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0046232&artikel=4&z=2022-01-26&g=2022-01-26), die op een bij koninklijk besluit te bepalen tijdstip in werking zullen treden.
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, met uitzondering van de [artikelen 3, onderdelen A, C en L](https://wetten.overheid.nl/jci1.3:c:BWBR0046232&artikel=3&z=2023-10-01&g=2023-10-01), en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0046232&artikel=4&z=2023-10-01&g=2023-10-01), die op een bij koninklijk besluit te bepalen tijdstip in werking zullen treden.
 
 ##### Artikel 7. (citeertitel)
 
