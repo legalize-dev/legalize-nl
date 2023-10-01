@@ -4,7 +4,7 @@ identifier: "BWBR0046225"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-02-06"
-last_updated: "2023-08-01"
+last_updated: "2023-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046225"
 soort: "ministeriele-regeling"
@@ -234,10 +234,22 @@ Het [Besluit ondermandaat, volmacht en machtiging van de inspecteur-generaal van
 
 ##### Artikel 10
 
-Dit besluit treedt in werking met ingang van de dag na de datum van publicatie in de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 juli 2020, en werkt ten aanzien van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046225&paragraaf=2&artikel=3&z=2023-08-01&g=2023-08-01) terug tot 1 januari 2019.
+Dit besluit treedt in werking met ingang van de dag na de datum van publicatie in de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 juli 2020, en werkt ten aanzien van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046225&paragraaf=2&artikel=3&z=2023-08-01&g=2023-10-01) terug tot 1 januari 2019.
 
 ##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit ondermandaat, volmacht en machtiging van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2022.
+
+Dit besluit zal in de Staatscourant worden geplaatst.
+
+##### Artikel 6a
+
+1. Aan de algemeen directeur van het CJIB wordt ondermandaat en machtiging verleend voor het opmaken en uitvaardigen van dwangbevelen en de daaruit voortvloeiende uitvoering van executiegeschillen tegen dwangbevelen en het treffen van betalingsregelingen.
+
+2. De algemeen directeur van het CJIB kan met betrekking tot zijn bevoegdheden, bedoeld in het eerste lid, ondermandaat en machtiging verlenen aan één of meer onder hem ressorterende functionarissen.
+
+#### § 3. Vervanging
+
+#### § 4. Slotbepalingen
 
 Dit besluit zal in de Staatscourant worden geplaatst.
