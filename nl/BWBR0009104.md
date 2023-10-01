@@ -4,7 +4,7 @@ identifier: "BWBR0009104"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-01"
-last_updated: "2017-07-01"
+last_updated: "2023-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009104"
 soort: "ministeriele-regeling"
@@ -55,7 +55,7 @@ de volgende voorschriften vast te stellen ten aanzien van de toepassing, de plaa
 
 ##### Paragraaf 3. Tijdelijke toepassing van verkeerstekens
 
-5. Bij tijdelijke toepassing van verkeerstekens en onderborden, overeenkomstig het bepaalde in paragraaf 8 van het BABW, mag in spoedeisende gevallen van de voorschriften in de [hoofdstukken II](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=II&z=2017-07-01&g=2017-07-01) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=III&z=2017-07-01&g=2017-07-01) worden afgeweken. Dergelijke afwijkingen worden zo spoedig mogelijk gecorrigeerd.
+5. Bij tijdelijke toepassing van verkeerstekens en onderborden, overeenkomstig het bepaalde in paragraaf 8 van het BABW, mag in spoedeisende gevallen van de voorschriften in de [hoofdstukken II](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=II&z=2023-10-01&g=2023-10-01) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=III&z=2023-10-01&g=2023-10-01) worden afgeweken. Dergelijke afwijkingen worden zo spoedig mogelijk gecorrigeerd.
 
 ### Hoofdstuk II. Verkeersborden
 
@@ -161,7 +161,7 @@ Niet retroreflecterend behoeven te zijn:
 
 - –. elektronische signaleringsborden.
 
-18. Bewegwijzering ten behoeve van voetgangers mag in afwijking van het bepaalde in het [derde lid, eerste volzin, van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=II&paragraaf=4&z=2017-07-01&g=2017-07-01) van het BABW bestaan uit een rechthoekig bord, waarop de letters, cijfers of symbolen in een veld zijn geplaatst van andere kleur dan blauw.
+18. Bewegwijzering ten behoeve van voetgangers mag in afwijking van het bepaalde in het [derde lid, eerste volzin, van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=II&paragraaf=4&z=2023-10-01&g=2023-10-01) van het BABW bestaan uit een rechthoekig bord, waarop de letters, cijfers of symbolen in een veld zijn geplaatst van andere kleur dan blauw.
 
 ##### Paragraaf 4. Voorschriften voor de afzonderlijke borden
 
@@ -195,17 +195,19 @@ Niet retroreflecterend behoeven te zijn:
 
 - bij gevarenpunten: 60, 50 km/h.
 
-3. Binnen de bebouwde kom mag bord A1 worden geplaatst in afwijking van het bepaalde in [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=II&z=2017-07-01&g=2017-07-01), Paragraaf 1 onder punt 2, om zonodig te herinneren aan de algemene snelheidslimiet van 50 km/h.
+3. Binnen de bebouwde kom mag bord A1 worden geplaatst in afwijking van het bepaalde in [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=II&z=2023-10-01&g=2023-10-01), Paragraaf 1 onder punt 2, om zonodig te herinneren aan de algemene snelheidslimiet van 50 km/h.
 
 4. 15 km/h en 15 km/h zone, 30 km/h en 30 km/h zone, 60 km/h en 60 km/h zone
 
 Bord A1 (15 km/h en 15 km/h zone) mag op woonerven worden geplaatst om expliciet aan te geven dat op woonerven slechts stapvoets, 15 km/h, mag worden gereden, zoals bepaald in [artikel 45 van het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=45).
 
-Bord A1 (30 km/h binnen en buiten de bebouwde kom en 60 km/h buiten de bebouwde kom) mag op wegvakken slechts worden toegepast indien wordt voldaan aan de volgende eisen:
+Bord A1 (30 km/h buiten de bebouwde kom en 60 km/h buiten de bebouwde kom) mag op wegvakken slechts worden toegepast indien wordt voldaan aan de volgende eisen:
 
 - iedere weg in het betrokken gebied heeft voornamelijk een verblijfsfunctie;
 
 - om te voorkomen dat de verblijfsfunctie wordt aangetast door een relatief hoge intensiteit van het gemotoriseerde verkeer, is de weg met zijn omgeving waar nodig aangepast;
+
+Voor bord A1 (30 km/h binnen en buiten de bebouwde kom en 60 km/h buiten de bebouwde kom) gelden de volgende aanvullende eisen:
 
 - met het oog op snelheidsbeperking en attentieverhoging is extra aandacht besteed aan potentieel gevaarlijke punten, zoals:
 
@@ -269,9 +271,9 @@ Geen andere dan de volgende maximumsnelheden worden vastgesteld op wegvakken op 
 
 1. Het bord wordt niet toegepast binnen erven.
 
-30 km/h- en 30 km/h-zones
+30 km/h- en 30 km/h-zones buiten de bebouwde kom
 
-2. Het bord wordt binnen 30 km/h- en 30 km/h-zones slechts toegepast bij rotondes en bij kruispunten met:
+2. Het bord wordt binnen 30 km/h- en 30 km/h-zones buiten de bebouwde kom slechts toegepast bij rotondes en bij kruispunten met:
 
 - een vrijliggende busbaan;
 
@@ -629,7 +631,7 @@ Bij afstanden van meer dan 1000 m wordt de afstand in kilometers aangegeven, zon
 
 1. Tekens op het wegdek zijn wit tenzij voor een afzonderlijk teken anders is bepaald. Bij tijdelijke toepassing is de kleur in ieder geval een andere kleur dan wit.
 
-2. De minimale breedte van strepen is 0,10 m. De minimale breedte van de stopstreep, bedoeld in [art. 78 van het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=78), is 0,20 m.
+2. De minimale breedte van strepen is 0,10 m. De minimale breedte van de stopstreep, bedoeld in [artikel 79 van het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=79), is 0,20 m.
 
 3. In afwijking van het tweede onderdeel, eerste volzin, is de minimale breedte van de kantstreep 0,05 m indien:
 
