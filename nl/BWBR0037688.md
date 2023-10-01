@@ -4,7 +4,7 @@ identifier: "BWBR0037688"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2016-03-15"
+last_updated: "2023-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037688"
 soort: "ministeriele-regeling"
@@ -48,6 +48,12 @@ Treedt in werking op het tijdstip waarop de Wet tijdelijke tolheffing Blankenbur
 
 Voor de toepassing van deze regeling wordt verstaan onder:
 
+- **hoofdweg:** auto- of autosnelweg in beheer bij het Rijk;
+
+- **Minister:** Minister van Infrastructuur en Waterstaat;
+
+- **wegvak waar tol wordt geheven:** een wegvak als bedoeld in [artikel 2, tweede lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&artikel=2);
+
 - **wet:** [Wet tijdelijke tolheffing Blankenburgverbinding en ViA15](https://wetten.overheid.nl/jci1.3:c:BWBR0037517).
 
 ### Hoofdstuk 2. Tol
@@ -68,7 +74,7 @@ Voor de toepassing van deze regeling wordt verstaan onder:
 
 3. Het toltarief wordt jaarlijks geïndexeerd met de door het CBP geraamde Index Bruto Overheidsinvesteringen.
 
-4. Onze Minister maakt voorafgaand aan de openstelling van de Blankenburgverbinding respectievelijk de ViA15 en vervolgens jaarlijks het geïndexeerde toltarief, bedoeld in het derde lid, bekend in de Staatscourant.
+4. De Minister maakt voorafgaand aan de openstelling van de Blankenburgverbinding respectievelijk de ViA15 en vervolgens jaarlijks het geïndexeerde toltarief, bedoeld in het derde lid, bekend in de Staatscourant.
 
 5. Het toltarief wordt geheven met ingang van de dag van openstelling van de Blankenburgverbinding respectievelijk de ViA15.
 
@@ -81,5 +87,35 @@ Deze regeling treedt in werking op het tijdstip waarop de [wet](https://wetten.o
 ##### Artikel 4. (citeertitel)
 
 Deze regeling wordt aangehaald als: Regeling tijdelijke tolheffing Blankenburgverbinding en ViA15.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 2a. (vrijstelling motorrijtuigen bij calamiteiten)
+
+1. Een vrijstelling als bedoeld in [artikel 6, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&artikel=6), geldt voor alle motorrijtuigen die zich bevinden in een rijrichting van een wegvak waar tol wordt geheven waarop een calamiteit heeft plaatsgevonden op het moment dat alle rijstroken in een rijrichting van het betreffende wegvak als gevolg van die calamiteit zijn afgesloten.
+
+2. Een vrijstelling als bedoeld in [artikel 6, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&artikel=6), geldt voor alle motorrijtuigen die zich bevinden in een rijrichting van een wegvak waar tol wordt geheven op het moment dat alle rijstroken in een rijrichting van een hoofdweg, niet zijnde een wegvak waar tol wordt geheven, zijn afgesloten als gevolg van een calamiteit en het verkeer wordt omgeleid over een wegvak waar tol wordt geheven.
+
+3. De vrijstelling, bedoeld in het eerste lid, geldt alleen voor motorrijtuigen die de calamiteit nog niet waren gepasseerd voordat de betreffende rijstroken werden afgesloten.
+
+##### Artikel 2b. (kenbaar maken tolheffing)
+
+1. Met informatieborden worden bestuurders van motorrijtuigen geïnformeerd over:
+
+- a. de wegvakken waarop de verplichting tot het betalen van tol geldt;
+
+- b. de wijze waarop de betaling van tol kan plaatsvinden.
+
+2. Het informatiebord, bedoeld in het eerste lid, onder a, wordt in ieder geval geplaatst op voldoende afstand van de laatste afslag voorafgaand aan een wegvak waarop de verplichting tot het betalen van tol geldt.
+
+##### Artikel 2c. (betalingstermijn toltarief zonder dienstverleningsovereenkomst)
+
+Het verschuldigde toltarief, bedoeld in [artikel 7b, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&artikel=7b), wordt binnen 72 uur betaald.
+
+##### Artikel 2d. (betalingstermijn toltarief dienstaanbieder aan de Minister)
+
+Het verschuldigde toltarief, bedoeld in [artikel 8e, derde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&artikel=8e), wordt binnen vier weken betaald.
+
+### Hoofdstuk 3. Overige en slotbepalingen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
