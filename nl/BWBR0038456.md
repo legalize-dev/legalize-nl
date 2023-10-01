@@ -4,7 +4,7 @@ identifier: "BWBR0038456"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2023-07-01"
+last_updated: "2023-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038456"
 soort: "AMvB"
@@ -50,63 +50,101 @@ Treedt in werking op het tijdstip waarop de Wijzigingswet Burgerlijk Wetboek Boe
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder:
+- **duurzame elektriciteit:** duurzame elektriciteit als bedoeld in [artikel 1, eerste lid, onderdeel u, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=1);
 
-- a. **duurzame energie:** energie uit hernieuwbare energiebronnen als bedoeld in artikel 2 van de [richtlijn 2009/28/EG](32009L0028) van het Europees Parlement en de Raad van 23 april 2009 ter bevordering van het gebruik van energie uit hernieuwbare bronnen en houdende wijziging en intrekking van [Richtlijn 2001/77/EG](32001L0077) en [Richtlijn 2003/30/EG](32003L0030) (Pb EU 2009, L 140);
+- **energieprestatie:** combinatie van de warmtebehoefte van de woonruimte, de op de woning opgewekte duurzame elektriciteit en het elektriciteitsverbruik van de gebouwgebonden installaties;
 
-- b. **energieprestatie:** de combinatie van de warmtevraag van de woonruimte en de op de woning duurzaam opgewekte energie;
+- **gebouwgebonden installaties:** installaties die worden gebruikt voor ruimteverwarming, koelen, ventileren, bevochtigen, ontvochtigen, verlichten, bereiden van warm-tapwater en regeling en aansturing;
 
-- c. **op de woning:** in, aan of op de woonruimte of het woongebouw waarvan de woonruimte onderdeel uitmaakt, en de onroerende aanhorigheden daarvan;
+- **op de woning:** in, aan of op de woonruimte of het woongebouw waarvan de woonruimte onderdeel uitmaakt, en de onroerende aanhorigheden daarvan;
 
-- d. **wet:** Uitvoeringswet huurprijzen woonruimte;
+- **warmte:** warmte als bedoeld in [artikel 1 van de Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=1);
 
-- e. **warmte:** warmte, bedoeld in [artikel 1, onder d, van de Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=1);
-
-- f. **warmtenet:** warmtenet, bedoeld in [artikel 1, onder c, van de Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=1);
-
-- g. **warmtevraag:** de warmtebehoefte van de woning, inhoudende de jaarlijkse hoeveelheid warmte die nodig is om de woonruimte bij gemiddelde klimaatomstandigheden en een gemiddeld gebruik te voorzien van ruimteverwarming.
+- **warmtebehoefte:** warmtebehoefte van de woning, inhoudende de jaarlijkse hoeveelheid warmte die nodig is om de woonruimte bij gemiddelde klimaatomstandigheden en een gemiddeld gebruik te voorzien van ruimteverwarming.
 
 ##### Artikel 2
 
-1. Een energieprestatievergoeding kan worden overeengekomen met inachtneming van de in [bijlage I, tabellen 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&bijlage=I&z=2023-07-01&g=2023-07-01), vervatte systematiek en de daarbij gegeven toelichting.
+1. Een energieprestatievergoeding bedraagt ten hoogste het bedrag dat volgt uit de onderstaande tabel:
 
-2. De energieprestatievergoeding bedraagt ten hoogste het in [tabel 1 in bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&bijlage=I&z=2023-07-01&g=2023-07-01) bij de netto warmtevraag van de woning genoemde bedrag. In de gevallen waarin de woonruimte aangesloten is op een warmtenet bedraagt de energieprestatievergoeding ten hoogste het in tabel 2 in bijlage I bij de netto warmtevraag van de woning genoemde bedrag.
+| **I** | **II** | **III** | **IV** | **V** | **VI** | **VI** |
+| --- | --- | --- | --- | --- | --- | --- |
+| **EPV klasse** | **Compactheid (Als** **/Ag)** | **Warmtebehoefte ruimteverwarming (EH;nd**) in kWh/m2/jr**** | **Ontwerpeis: Primair energiegebruik (EWEPtot**) in kWh/m2****/jr**** | **Opgewekte duurzame elektriciteit voor huishoudelijk gebruik kWh/jr** | **Maximale EPV in €/m2** **/maand** | **Maximale EPV in €/m2** **/maand** |
+| **EPV Basis** |   |   |   |   | Woningen vóór 2019 | Woningen vanaf 2019 |
+| Eengezinswoningen | < 1 | ≤ 43 | ≤ 0 | > 0 | **€ 1,25** | n.v.t. |
+| Eengezinswoningen | ≥ 1 | ≤ 43 + 40 x (Als/Ag – 1) | ≤ 0 | > 0 | **€ 1,25** | n.v.t. |
+| Meergezinswoningen | < 1 | ≤ 45 | ≤ 0 | > 0 | **€ 1,25** | n.v.t. |
+| Meergezinswoningen | ≥ 1 | ≤ 45 + 45 x (Als/Ag – 1) | ≤ 0 | > 0 | **€ 1,25** | n.v.t. |
+| **EPV Hoogwaardig** |   |   |   |   | Woningen vóór 2019 | Woningen vanaf 2019 |
+| Eengezinswoningen | < 1 | ≤ 30 | ≤ -30 | ≥ 2100 | **€ 1,65** | **€ 1,15** |
+| Eengezinswoningen | ≥ 1 | ≤ 30 + 20 x (Als/Ag – 1) | ≤ -30 | ≥ 2100 | **€ 1,65** | **€ 1,15** |
+| Meergezinswoningen | < 1 | ≤ 30 | ≤ -10 | ≥ 530 | **€ 1,40** | **€ 0,90** |
+| Meergezinswoningen | ≥ 1 | ≤ 30 + 20 x (Als/Ag – 1) | ≤ -10 | ≥ 530 | **€ 1,40** | **€ 0,90** |
 
-3. Bij ministeriële regeling worden regels gesteld met betrekking tot het bepalen van de warmtevraag van de woonruimte.
+2. De warmtebehoefte en primair energiegebruik worden bepaald door een bedrijf met een geldig procescertificaat, volgens de voorschriften omtrent de opneming en registratie van de energieprestatie van gebouwen, bedoeld in [artikel 3.1 van het Besluit energieprestatie gebouwen](https://wetten.overheid.nl/jci1.3:c:BWBR0023734&artikel=3.1).
 
-4. De bedragen, genoemd in [tabel 1 en tabel 2 van bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&bijlage=I&z=2023-07-01&g=2023-07-01), worden per 1 juli van elk jaar bij ministeriële regeling gewijzigd aan de hand van de consumentenprijsindex geldend voor het voorafgaande kalenderjaar.
+3. Met een procescertificaat of voorschrift als bedoeld in het derde lid wordt gelijkgesteld een voor het bepalen van de warmtebehoefte voorgeschreven certificaat, beoordelingsrichtlijn of andere norm, afgegeven, uitgevoerd of goedgekeurd door een daartoe bevoegde onafhankelijke instelling in een andere lidstaat van de Europese Unie of in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, met een kwaliteitsniveau dat ten minste gelijkwaardig is aan het niveau dat met de in het derde lid bedoelde eisen wordt nagestreefd.
+
+4. De bedragen, genoemd in de in het eerste lid opgenomen tabel, worden per 1 juli van elk jaar bij ministeriële regeling gewijzigd aan de hand van de consumentenprijsindex geldend voor het voorafgaande kalenderjaar.
 
 ##### Artikel 3
 
-Bij ministeriële regeling kunnen met inachtneming van de daarin te stellen voorwaarden gevallen worden aangewezen waarin van onderdelen van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&artikel=2&z=2023-07-01&g=2023-07-01), bedoelde systematiek kan worden afgeweken, met dien verstande dat in die gevallen:
+1. De verhuurder informeert de huurder bij het overeenkomen van de energieprestatievergoeding op welke wijze is voldaan aan de in de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&artikel=2&z=2023-10-01&g=2023-10-01), opgenomen tabel bedoelde eisen, en in ieder geval over:
 
-- a. de energieprestatievergoeding niet hoger is dan het bedrag, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&artikel=2&z=2023-07-01&g=2023-07-01); en
+- a. de overeenkomstig de voorschriften, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&artikel=2&z=2023-10-01&g=2023-10-01), berekende warmtebehoefte, bedoeld in kolom III van de in artikel 2, eerste lid, opgenomen tabel;
 
-- b. de hoeveelheid duurzaam op de woning opgewekte energie die beschikbaar is voor gebruik door de huurder, ten minste voldoende is voor het gebruik door de huurder bij gemiddelde klimaatsomstandigheden en een gemiddeld gebruik van de energie.
+- b. de door de verhuurder gegarandeerde totale jaarlijkse op de woning op te wekken hoeveelheid duurzame elektriciteit waarmee wordt voldaan aan de ontwerpeis primair energiegebruik, bedoeld in kolom IV van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&artikel=2&z=2023-10-01&g=2023-10-01) opgenomen tabel;
+
+- c. de door de verhuurder gegarandeerde totale jaarlijkse op de woning op te wekken duurzame elektriciteit beschikbaar voor huishoudelijk gebruik, bedoeld in kolom V van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&artikel=2&z=2023-10-01&g=2023-10-01), opgenomen tabel;
+
+- d. het gemiddelde gebruikersgedrag dat als uitgangspunt is gehanteerd in de voorschriften, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&artikel=2&z=2023-10-01&g=2023-10-01), en daarbij de gevolgen voor het elektriciteitsgebruik bij afwijking van het gemiddelde gebruikersgedrag, in ieder geval voor het gebruik van warm tapwater, ruimteverwarming en huishoudelijk gebruik.
 
 ##### Artikel 4
 
-1. In de gevallen waarin een energieprestatievergoeding is overeengekomen, bevat het overzicht dat de verhuurder krachtens [artikel 261a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=261a), in samenhang met [artikel 259, tweede lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=259) jaarlijks aan de huurder verstrekt, in ieder geval gegevens over de opgewekte hoeveelheid duurzame energie voor warmte en de opgewekte hoeveelheid duurzame energie die beschikbaar is voor gebruik door de huurder.
+1. In de gevallen waarin een energieprestatievergoeding is overeengekomen, bevat het overzicht dat de verhuurder krachtens [artikel 261a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=261a), in samenhang met [artikel 259, tweede lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=259) jaarlijks aan de huurder verstrekt, gegevens over het gemeten elektriciteitsgebruik van de maatregelen waarmee is voldaan aan de in de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&artikel=2&z=2023-10-01&g=2023-10-01), opgenomen tabel bedoelde eisen, en in ieder geval gegevens over:
 
-2. Ten behoeve van het overzicht, bedoeld in het eerste lid, dient de verhuurder de woonruimte te voorzien van individuele meters die de opgewekte hoeveelheid duurzame energie voor warmte en het gebruik door de huurder kunnen weergeven.
+- a. de totale jaarlijkse op de woning opgewekte hoeveelheid duurzame elektriciteit;
+
+- b. het totale jaarlijkse verbruik van elektriciteit voor ruimteverwarming, comfortkoeling en het bereiden van warm-tapwater;
+
+- c. het totale elektriciteitsgebruik voor ventileren, monitoring en eventueel aanwezige elektrische of infraroodverwarming in een badkamer;
+
+- d. In afwijking van het eerste lid, onderdeel c, kan in plaats van het gemeten elektriciteitsgebruik worden uitgegaan van een in de overeenkomst vastgelegde forfaitaire hoeveelheid elektriciteit van 700 kWh/jaar;
+
+- e. de gerealiseerde hoeveelheid duurzame elektriciteit beschikbaar voor huishoudelijk gebruik.
+
+2. De hoeveelheid duurzame elektriciteit beschikbaar voor huishoudelijk gebruik wordt vastgesteld op basis van de gemeten waarden, bedoeld in het eerste lid, onderdelen a tot en met d, en is de uitkomst van: H = O – W – G, waarbij:
+
+H = de hoeveelheid duurzame elektriciteit beschikbaar voor huishoudelijk gebruik;
+
+O = de totale jaarlijkse op de woning opgewekte hoeveelheid duurzame elektriciteit, bedoeld in het eerste lid, onderdeel a;
+
+W = het totale jaarlijkse verbruik van elektriciteit voor ruimteverwarming, comfortkoeling en het bereiden van warm-tapwater, bedoeld in het eerste lid, onderdeel b, en
+
+G = de gemeten dan wel forfaitair op 700 kWh/jaar vastgestelde hoeveelheid elektriciteit gebruikt voor ventileren, monitoring en eventueel aanwezige elektrische of infraroodverwarming in een badkamer, bedoeld in het eerste lid, onderdelen c of d.
+
+2. Ten behoeve van het overzicht, bedoeld in het eerste lid, voorziet de verhuurder de woonruimte van ten minste twee individuele meters voor het vaststellen van:
+
+- a. de totale jaarlijkse op de woning opgewekte hoeveelheid duurzame elektriciteit;
+
+- b. het totale jaarlijkse gebruik van elektriciteit voor ruimteverwarming, comfortkoeling en het bereiden van warm-tapwater.
 
 3. Het overzicht, bedoeld in het eerste lid, kan elektronisch worden verstrekt, indien de huurder daarmee instemt.
 
 ##### Artikel 5
 
-1. Onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&artikel=4&z=2023-07-01&g=2023-07-01), informeert de verhuurder de huurder bij het overeenkomen van de energieprestatievergoeding in ieder geval over de door de verhuurder gegarandeerde:
+1. De verhuurder verbindt zich tot het geven aan de huurder van een korting op de overeengekomen energieprestatievergoeding indien in het voorafgaande kalenderjaar niet op de woning de bij het overeenkomen van de energieprestatievergoeding gegarandeerde hoeveelheid duurzame elektriciteit voor gebruik door de huurder is opgewekt.
 
-- a. warmtevraag van de woonruimte;
+2. De verplichting, bedoeld in het eerste lid, geldt voor het eerst nadat na de ingangsdatum van de overeenkomst een volledig kalenderjaar is verstreken.
 
-- b. op de woning op te wekken hoeveelheid duurzame energie voor warmte;
-
-- c. op de woning op te wekken hoeveelheid duurzame energie voor het gebruik door de huurder;
-
-2. De verhuurder informeert de huurder tevens over de gemiddelde klimaatsomstandigheden en het gemiddelde energiegebruik waarop de energieprestatievergoeding is gebaseerd, en de gevolgen voor het energiegebruik, indien hiervan wordt afgeweken.
+3. De korting bedraagt het verschil tussen de gegarandeerde elektriciteitslevering voor huishoudelijk gebruik en de gerealiseerde elektriciteitslevering voor huishoudelijk gebruik vermenigvuldigd met de over het betreffende kalenderjaar door het Centraal Bureau voor de Statistiek bekendgemaakte transactieprijs «Elektriciteitsprijs verbruiksklassen huishoudens 2,5 tot 5 MWh».
 
 ##### Artikel 6
 
-Wijzigt het Besluit huurprijzen woonruimte.
+1. Op energieprestatievergoedingen, overeengekomen voor 1 oktober 2023, zijn de tabellen 1 en 2 van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&bijlage=I&z=2023-10-01&g=2023-10-01) van toepassing.
+
+2. De bedragen, genoemd in de tabellen 1 en 2 van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&bijlage=I&z=2023-10-01&g=2023-10-01), worden per 1 juli van elk jaar bij ministeriële regeling gewijzigd aan de hand van de consumentenprijsindex geldend voor het voorafgaande kalenderjaar.
+
+3. De verhuurder die de warmtebehoefte van de woning heeft bepaald voor 1 januari 2024 kan tabel 1 van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&bijlage=I&z=2023-10-01&g=2023-10-01) toepassen bij het bepalen van de maximale energieprestatievergoeding.
 
 ##### Artikel 7
 
@@ -135,9 +173,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 2a
 
-1. In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&artikel=2&z=2023-07-01&g=2023-07-01) wordt een energieprestatievergoeding overeengekomen met inachtneming van [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&bijlage=II&z=2023-07-01&g=2023-07-01), indien de warmtevraag van de woning reeds voor 1 januari 2021 was vastgesteld ten behoeve van een energieprestatievergoeding voor die woning.
-
-2. De bedragen, genoemd in tabel 1 en tabel 2 van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0038456&bijlage=I&z=2023-07-01&g=2023-07-01), worden per 1 juli van elk jaar bij ministeriële regeling gewijzigd aan de hand van de consumentenprijsindex geldend voor het voorafgaande kalenderjaar.
+Vervallen
 
 ## Bijlage I. bij het Besluit energieprestatievergoeding huur
 
@@ -147,48 +183,8 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 | 30 < Netto warmtevraag ≤ 40 | Netto warmtevraag + 15 | Ehulp + 26 | 1,44 |
 | 40 < Netto warmtevraag ≤ 50 | Netto warmtevraag + 15 | Ehulp + 26 | 1,22**** |
 
-| **Netto warmtevraag voor ruimteverwarming [kWh/m2** **] per jaar** | Minimale productie, duurzaam opgewekte energie voor gebruik huurder [kWh/m2] per jaar, mits per woonruimte ≥ (Ehulp + 1.800) doch hoeft niet > (Ehulp + 2.600) ** | Maximale vergoeding [€/m2/maand]*** |
-| --- | --- | --- |
-| 0 < Netto warmtevraag ≤ 15 | Ehulp + 26 | 0,85 |
-| 15 < Netto warmtevraag ≤ 30 | Ehulp + 26 | 0,74 |
-| 30 < Netto warmtevraag ≤ 40 | Ehulp + 26 | 0,36 |
-| 40 < Netto warmtevraag ≤ 50 | Ehulp + 26 | 0,06**** |
-
 ## Bijlage II. bij het Besluit energieprestatievergoeding huur
 
-| Netto warmtevraag voor ruimteverwarming [kWh_th/m2] per jaar | Minimale duurzaam opgewekte warmte voor ruimteverwarming en warm tapwater [kWh_th/m2] per jaar1 | Minimale productie duurzaam opgewekte energie voor gebruik huurder [kWh/m2] per jaar, mits per woonruimte ≥ (Ehulp +1.800) doch hoeft niet > (Ehulp + 2.600)2 | Maximale vergoeding [€/m2/maand]3 |
-| --- | --- | --- | --- |
-| 0 < Netto warmtevraag ≤ 30 | Netto warmtevraag + 15 | Ehulp + 26 | 1,51 |
-| 30 < Netto warmtevraag ≤ 40 | Netto warmtevraag + 15 | Ehulp + 26 | 1,28 |
-| 40 < Netto warmtevraag ≤ 50 | Netto warmtevraag + 15 | Ehulp + 26 | 1,084 |
-
-1Het betreft hier de netto opgewekte hoeveelheid warmte (thermische energie) voor ruimteverwarming en warm tapwater, dus de output van een installatie die warmte opwekt, over een jaar bezien en bij gemiddelde klimaatomstandigheden. De opwek hoeft niet per se gelijkmatig over een jaar hetzelfde te zijn.
-
-2Het betreft hier de opgewekte hoeveelheid energie voor een gemiddeld elektriciteitgebruik van de bewoners over een jaar bezien. De opwek hoeft niet per se gelijkmatig over een jaar hetzelfde te zijn.
-
-Ehulp betreft hier de gebouwgebonden (elektrische) energie die nodig is voor het laten werken van installaties, zoals ventilatiesystemen, (comfort)koelingsystemen en systemen voor meting en monitoring. Elektriciteit benodigd voor een installatie die warmte en/of warm tapwater uit omgevingsbronnen (zoals lucht, water, bodem) opwekt, valt onder de Ehulp en dient ook duurzaam te worden opgewekt. Energie voor verlichting valt niet onder de Ehulp. Energie voor verlichting valt onder de energie die ter beschikking staat van de huurder (minimaal 26 kWh per vierkante meter per jaar).
-
-De minimale productie van energie hoeft niet groter te zijn dan Ehulp + 2.600 kWh per woning en mag niet kleiner zijn dan Ehulp + 1.800 kWh per woning. De hier bedoelde productie van duurzaam opgewekte energie is additioneel aan de warmte opwek uit de vorige kolom.
-
-3De energieprestatievergoeding wordt uitgedrukt in een bedrag per vierkante meter gebruikersoppervlak van de woonruimte per maand, waarbij de warmtevraag en de hoeveelheid op de woning opgewekte duurzame energie in kilowattuur per vierkante meter per jaar worden uitgedrukt. Daarbij zijn de uitgangspunten gehanteerd dat de warmtevraag niet hoger is dan 50 kilowattuur per vierkante meter per jaar, de hoeveelheid duurzame energie voor warm tapwater minimaal 15 kilowattuur per vierkante meter per jaar is, en de duurzame energie die ter beschikking staat voor gebruik door de huurder ten minste 26 kilowattuur per vierkante meter per jaar is. Voor de oppervlakte die volgens deze tabellen moet worden bepaald wordt uitgegaan van de gebruikersoppervlakte van de woning die wordt bepaald bij de verstrekking van een EPC of energie-index met toepassing van NEN 2580:2007 (inclusief correctieblad NEN 2580:2007/C1:2008). Deze is in de regel al beschikbaar.
-
-4 Indien de warmtevraag hoger is dan 50 kilowattuur per vierkante meter per jaar en/of de hoeveelheid duurzame geproduceerde warmte minder dan de netto warmtevraag plus 15 kilowattuur per vierkante meter per jaar is en/of de duurzame energie die ter beschikking staat voor gebruik door de huurder lager is dan 26 kilowattuur per vierkante meter per jaar, kan geen energieprestatievergoeding worden overeengekomen en dient de in rekening te brengen energielevering te worden beoordeeld aan de hand van de thans vigerende regeling voor servicekosten en nutsvoorziening overeenkomstig de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=18) en [19 van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=19).
-
-| Netto warmtevraag voor ruimteverwarming [kWh/m2] per jaar | Minimale productie, duurzaam opgewekte energie voor gebruik huurder [kWh/m2] per jaar, mits per woonruimte ≥ (Ehulp + 1.800) doch hoeft niet > (Ehulp + 2.600) 1 | Maximale vergoeding [€/m2/maand] 2 |
-| --- | --- | --- |
-| 0 < Netto warmtevraag ≤ 15 | Ehulp + 26 | 0,75 |
-| 15 < Netto warmtevraag ≤ 30 | Ehulp + 26 | 0,65 |
-| 30 < Netto warmtevraag ≤ 40 | Ehulp + 26 | 0,32 |
-| 40 < Netto warmtevraag ≤ 50 | Ehulp + 26 | 0,053 |
-
-1Het betreft hier de opgewekte hoeveelheid energie voor een gemiddeld elektriciteitgebruik van de bewoners over een jaar bezien. De opwek hoeft niet per se gelijkmatig over een jaar hetzelfde te zijn.
-
-Ehulp betreft hier de gebouwgebonden (elektrische) energie die nodig is voor het laten werken van installaties, zoals ventilatiesystemen, (comfort)koelingsystemen en systemen voor meting en monitoring. Elektriciteit benodigd voor een installatie die warmte en/of warm tapwater uit omgevingsbronnen (zoals lucht, water, bodem) opwekt, valt onder de Ehulp en dient ook duurzaam te worden opgewekt. Energie voor verlichting valt niet onder de Ehulp. Energie voor verlichting valt onder de energie die ter beschikking staat van de huurder (minimaal 26 kWh per vierkante meter per jaar).
-
-De minimale productie van energie hoeft niet groter te zijn dan Ehulp + 2.600 kWh per woning en mag niet kleiner zijn dan Ehulp + 1.800 kWh per woning. De hier bedoelde productie van duurzaam opgewekte energie is additioneel aan de warmte opwek uit de vorige kolom.
-
-2De energieprestatievergoeding wordt uitgedrukt in een bedrag per vierkante meter gebruikersoppervlak van de woonruimte per maand, waarbij de warmtevraag en de hoeveelheid op de woning opgewekte duurzame energie in kilowattuur per vierkante meter per jaar worden uitgedrukt. Daarbij zijn de uitgangspunten gehanteerd dat de warmtevraag niet hoger is dan 50 kilowattuur per vierkante meter per jaar, de hoeveelheid duurzame energie voor warm tapwater minimaal 15 kilowattuur per vierkante meter per jaar is, en de duurzame energie die ter beschikking staat voor gebruik door de huurder ten minste 26 kilowattuur per vierkante meter per jaar is. Voor de oppervlakte die volgens deze tabellen moet worden bepaald wordt uitgegaan van de gebruikersoppervlakte van de woning die wordt bepaald bij de verstrekking van een EPC of energie-index met toepassing van NEN 2580:2007 (inclusief correctieblad NEN 2580:2007/C1:2008). Deze is in de regel al beschikbaar.
-
-3 Indien de warmtevraag hoger is dan 50 kilowattuur per vierkante meter per jaar en/of de hoeveelheid duurzame geproduceerde warmte minder dan de netto warmtevraag plus 15 kilowattuur per vierkante meter per jaar is en/of de duurzame energie die ter beschikking staat voor gebruik door de huurder lager is dan 26 kilowattuur per vierkante meter per jaar, kan geen energieprestatievergoeding worden overeengekomen en dient de in rekening te brengen energielevering te worden beoordeeld aan de hand van de thans vigerende regeling voor servicekosten en nutsvoorziening overeenkomstig de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=18) en [19 van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=19).
+Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
