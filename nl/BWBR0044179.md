@@ -4,7 +4,7 @@ identifier: "BWBR0044179"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-03"
-last_updated: "2022-07-01"
+last_updated: "2023-10-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044179"
 soort: "ministeriele-regeling"
@@ -68,6 +68,8 @@ Op deze regeling zijn de [artikelen 6, eerste lid](https://wetten.overheid.nl/jc
 
 3. De Minister verdeelt het beschikbare bedrag op volgorde van binnenkomst van de aanvragen.
 
+4. Het bedrag, bedoeld in het eerste lid, wordt met ingang van 2024 jaarlijks geïndexeerd conform de Index Bruto Overheidsinvesteringen.
+
 ##### Artikel 4. Verlening specifieke uitkering
 
 1. De Minister verleent op aanvraag een specifieke uitkering aan de ontvangers ten behoeve van de implementatie van ERTMS.
@@ -76,6 +78,8 @@ Op deze regeling zijn de [artikelen 6, eerste lid](https://wetten.overheid.nl/jc
 
 3. Het implementatieplan, de daarbij behorende kostenraming en het advies worden bij de aanvraag gevoegd.
 
+4. Het deel van de uitkering, bedoeld in het eerste lid, dat nog niet is overgemaakt naar de ontvangers wordt met ingang van 2024 jaarlijks geïndexeerd conform de Index Bruto Overheidsinvesteringen.
+
 ##### Artikel 5. Voorwaarden
 
 1. De ontvangers zijn verplicht om als voorwaarde in de respectieve concessies voor regionaal personenvervoer per trein op te nemen dat ERTMS wordt geïmplementeerd in het materieel dat ter uitvoering van de concessies wordt ingezet.
@@ -83,6 +87,8 @@ Op deze regeling zijn de [artikelen 6, eerste lid](https://wetten.overheid.nl/jc
 2. Voor deze implementatie gelden de vigerende ERTMS-programmakaders, waaronder de zes criteria voor materieelbekostiging, en de PSO-Verordening.
 
 3. De ontvangers zijn verplicht de specifieke uitkering uitsluitend te besteden aan de uitvoering van het implementatieplan, overeenkomstig het advies.
+
+4. De ontvangers is het toegestaan deze uitkering te besteden aan de maatregelen die de concessiehouder neemt, die aan het implementatieplan ondersteunend zijn en die de programmadirectie ERTMS, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044179&artikel=4&z=2023-10-03&g=2023-10-03) van deze regeling, de concessiehouder adviseert te nemen.
 
 ##### Artikel 6. Voorschotverlening
 
