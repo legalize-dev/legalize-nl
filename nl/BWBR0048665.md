@@ -4,7 +4,7 @@ identifier: "BWBR0048665"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-07"
-last_updated: "2022-07-01"
+last_updated: "2023-10-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048665"
 soort: "ministeriele-regeling"
@@ -51,13 +51,13 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Thuiswerkvergoeding
 
-1. Indien werkzaamheden op basis van het voor de defensieambtenaar geldende persoonlijk werkrooster vanuit de woning worden verricht, heeft de defensieambtenaar aanspraak op een thuiswerkvergoeding ter hoogte van de in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048665&bijlage=1&z=2023-10-03&g=2022-07-01) opgenomen bedragen.
+1. Indien werkzaamheden op basis van het voor de defensieambtenaar geldende persoonlijk werkrooster vanuit de woning worden verricht, heeft de defensieambtenaar aanspraak op een thuiswerkvergoeding ter hoogte van de in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048665&bijlage=1&z=2023-10-03&g=2023-10-03) opgenomen bedragen.
 
 2. De defensieambtenaar waarvoor geen persoonlijk werkrooster is vastgesteld in een geautomatiseerd personeelssysteem van defensie en die vanuit de woning werkzaamheden verricht, heeft op aanvraag aanspraak op een thuiswerkvergoeding van € 2,– per thuiswerkdag.
 
 ##### Artikel 3. Internetvergoeding
 
-Dit onderdeel is nog niet inwerking getreden
+De defensieambtenaar die aanspraak heeft op een thuiswerkvergoeding, heeft tevens aanspraak op een internetvergoeding van € 4,30 per maand.
 
 ##### Artikel 4. Wijziging persoonlijk werkrooster
 
@@ -75,7 +75,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 6. Aanvang en beëindiging thuiswerkvergoeding
 
-1. Indien de aanspraak op een thuiswerkvergoeding aanvangt of eindigt anders dan op de respectievelijk eerste of laatste werkdag van een kalendermaand, dan wordt het bedrag opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048665&bijlage=1&z=2023-10-03&g=2022-07-01), voor die maand berekend naar rato van het aantal werkdagen die vanuit de woning worden verricht.
+1. Indien de aanspraak op een thuiswerkvergoeding aanvangt of eindigt anders dan op de respectievelijk eerste of laatste werkdag van een kalendermaand, dan wordt het bedrag opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048665&bijlage=1&z=2023-10-03&g=2023-10-03), voor die maand berekend naar rato van het aantal werkdagen die vanuit de woning worden verricht.
 
 2. De aanspraak op een thuiswerkvergoeding wordt opgeschort, nadat de defensieambtenaar langer dan zes aaneengesloten weken afwezig is en geen werkzaamheden verricht vanuit de woning. De thuiswerkvergoeding vangt wederom aan op de eerste dag van de maand volgend op de datum van terugkeer op basis van het dan geldende persoonlijk werkrooster.
 
