@@ -4,7 +4,7 @@ identifier: "BWBR0048683"
 country: "nl"
 rank: "wet"
 publication_date: "2024-07-10"
-last_updated: "2023-06-23"
+last_updated: "2023-10-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048683"
 soort: "wet"
@@ -56,11 +56,13 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+
+2. In afwijking van het vorige lid treedt het in [artikel I, onderdeel O](https://wetten.overheid.nl/jci1.3:c:BWBR0048683&artikel=I&z=2023-10-03&g=2023-10-03), opgenomen [artikel 26d van de Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=26d) in werking met ingang van 23 juni 2023. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 22 juni 2023, treedt het in artikel I, onderdeel O, opgenomen artikel 26d van de Wet aansprakelijkheidsverzekering motorrijtuigen in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst, en werkt dit artikel terug tot en met 23 juni 2023.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Implementatiewet zesde richtlijn motorrijtuigenverzekering.
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
