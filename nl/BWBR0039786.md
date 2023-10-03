@@ -4,7 +4,7 @@ identifier: "BWBR0039786"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-07"
-last_updated: "2023-08-16"
+last_updated: "2023-10-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039786"
 soort: "ministeriele-regeling"
@@ -63,6 +63,8 @@ In deze regeling wordt verstaan onder:
 
 - **netto bezoldiging:** het voor de defensieambtenaar vastgestelde standaard netto Nederland, met dien verstande dat geen rekening wordt gehouden met de factor 1,1 respectievelijk 1,075.
 
+- **persoonlijk werkrooster:** een voor een periode vastgesteld schema van werk- en rusttijden en werklocaties van de defensieambtenaar, welke is opgenomen in een geautomatiseerd personeelssysteem.
+
 - **routeplanner:**
 
 - 1°. voor het bepalen van de afstand gemeten langs de gebruikelijke openbare weg als bedoeld in [artikel 1 van het Verplaatsingskostenbesluit defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=1), hanteert het Ministerie van Defensie de routeplanner Andes Nav Teq.
@@ -72,6 +74,8 @@ In deze regeling wordt verstaan onder:
 - 3°. de routeplanner is gekoppeld aan Defensie Intranettoepassing Dienstreis Opdrachten.
 
 - **standaard netto Nederland:** het bedrag, vastgesteld volgens [artikel 1, eerste lid, onderdeel h van het Voorzieningenstelsel buitenland defensiepersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&artikel=1)(VBD).
+
+- **werklocatie:** de tussen de commandant en de medewerker overeengekomen plaats waar de defensieambtenaar de werkzaamheden verricht.
 
 ##### Artikel 2. Tegemoetkoming verhuiskosten
 
@@ -165,7 +169,7 @@ De tijdelijke onderbrenging bedoeld in [artikel 18 van het besluit](https://wett
 
 1. Betaling van de kosten van de tijdelijke onderbrenging bedoeld in [artikel 18 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=18) vindt plaats door de zorg van het Rijk mits de hoogte daarvan vooraf is goedgekeurd door het bevoegd gezag. Eventuele bijkomende kosten voor schoonmaken, gas, water, elektriciteit verwarming, televisie, telefoon en toeristenbelasting, komen voor rekening van de defensieambtenaar en worden door de defensieambtenaar rechtstreeks met de verhuurder verrekend.
 
-2. In het geval van tijdelijke onderbrenging bedoeld in [artikel 9, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=9&z=2023-08-16&g=2023-08-16), worden de kosten tot een maximum bedrag van € 787,15 per maand vergoed. Dit maximum bedrag zal jaarlijks worden aangepast op basis van de gemiddelde landelijke huurverhoging.
+2. In het geval van tijdelijke onderbrenging bedoeld in [artikel 9, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=9&z=2023-10-03&g=2023-10-03), worden de kosten tot een maximum bedrag van € 787,15 per maand vergoed. Dit maximum bedrag zal jaarlijks worden aangepast op basis van de gemiddelde landelijke huurverhoging.
 
 3. Indien de defensieambtenaar twee of meer gezinsleden heeft, wordt het in het tweede lid genoemde maximum bedrag verhoogd met:
 
@@ -183,11 +187,11 @@ De tijdelijke onderbrenging bedoeld in [artikel 18 van het besluit](https://wett
 
 ##### Artikel 12. Eigen bijdrage bij tijdelijke onderbrenging
 
-1. De defensieambtenaar is voor de tijdelijke onderbrenging een eigen bijdrage verschuldigd tot maximaal de door het Rijk verschuldigde kosten van onderbrenging als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=10&z=2023-08-16&g=2023-08-16).
+1. De defensieambtenaar is voor de tijdelijke onderbrenging een eigen bijdrage verschuldigd tot maximaal de door het Rijk verschuldigde kosten van onderbrenging als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=10&z=2023-10-03&g=2023-10-03).
 
-2. In geval van onderbrenging in gemeubileerde of gestoffeerde woonruimte als bedoeld in [artikel 8, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=8&z=2023-08-16&g=2023-08-16), bedraagt de eigen bijdrage 15% van de voor de defensieambtenaar geldende salaris, in voorkomend geval vermeerderd met de toelage buitenland indien de tijdelijke onderbrenging plaats vindt in een gebied buiten Nederland.
+2. In geval van onderbrenging in gemeubileerde of gestoffeerde woonruimte als bedoeld in [artikel 8, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=8&z=2023-10-03&g=2023-10-03), bedraagt de eigen bijdrage 15% van de voor de defensieambtenaar geldende salaris, in voorkomend geval vermeerderd met de toelage buitenland indien de tijdelijke onderbrenging plaats vindt in een gebied buiten Nederland.
 
-3. In geval van onderbrenging in een pension als bedoeld in [artikel 9 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=9&z=2023-08-16&g=2023-08-16), bedraagt de eigen bijdrage 50% van de voor de defensieambtenaar geldende netto bezoldiging onderscheidenlijk het voor de defensieambtenaar geldende standaard netto Nederland vermeerderd met de toelage buitenland indien de tijdelijke onderbrenging plaats vindt in een gebied buiten Nederland.
+3. In geval van onderbrenging in een pension als bedoeld in [artikel 9 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=9&z=2023-10-03&g=2023-10-03), bedraagt de eigen bijdrage 50% van de voor de defensieambtenaar geldende netto bezoldiging onderscheidenlijk het voor de defensieambtenaar geldende standaard netto Nederland vermeerderd met de toelage buitenland indien de tijdelijke onderbrenging plaats vindt in een gebied buiten Nederland.
 
 4. Indien tot het gezin van de defensieambtenaar kinderen behoren waarvoor aanspraak bestaat op kinderbijslag en die eveneens verblijf houden in het pension, wordt de netto bezoldiging onderscheidenlijk het standaard netto Nederland, vermeerderd met het bedrag van deze kinderbijslag.
 
@@ -199,71 +203,61 @@ De tijdelijke onderbrenging bedoeld in [artikel 18 van het besluit](https://wett
 
 ##### Artikel 13. Tegemoetkoming in de kosten van het dagelijks reizen
 
-1. Voor de defensieambtenaar die overwegend gebruik maakt van openbaar vervoer is de tegemoetkoming in de kosten van het dagelijks reizen tussen de woning of de plaats van legering en de plaats van tewerkstelling – afhankelijk van de afstand – per kalendermaand gelijk aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=1&z=2023-08-16&g=2023-08-16), Tabel A, B, C of D, genoemde bedragen.
+1. 1 Voor de defensieambtenaar die in afwachting is van een door defensie verstrekt openbaar vervoerbewijs, is de tegemoetkoming in de kosten van het dagelijks reizen tussen de woning of de plaats van legering en de plaats van tewerkstelling – afhankelijk van de afstand – per kalendermaand gelijk aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=1&z=2023-10-03&g=2023-10-03), tabel A, B, C of D genoemde bedragen.
 
 2. De tabellen B en D zijn van toepassing indien het een militair betreft met een hogere rang dan die van adjudant-onderofficier/vaandrig die doorgaans in uniform reist per trein in de eerste klasse.
 
-3. Voor de defensieambtenaar die overwegend gebruik maakt van eigen vervoer is de tegemoetkoming in de kosten van het dagelijks reizen tussen de woning of de plaats van legering en de plaats van tewerkstelling – afhankelijk van de afstand – per kalendermaand gelijk aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=1&z=2023-08-16&g=2023-08-16), Tabel E, genoemde bedragen.
+3. Voor de defensieambtenaar die overwegend gebruik maakt van eigen vervoer, is de tegemoetkoming in de kosten van het dagelijks reizen tussen de woning of de plaats van legering en de plaats van tewerkstelling – afhankelijk van de afstand en het persoonlijk werkrooster – per kalendermaand gelijk aan de in [bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=1a&z=2023-10-03&g=2023-10-03), tabel E genoemde bedragen.
 
-4. De defensieambtenaar die met openbaar vervoer reist en in aanmerking komt voor een door Defensie verstrekt NS-abonnement, dient hiervan gebruik te maken en komt niet in aanmerking voor de in het eerste en tweede lid bedoelde tabeltegemoetkoming. Voor het aansluitend reizen met stad-/streekvervoer maakt de defensieambtenaar aanspraak op een tegemoetkoming in de kosten van een stad/streekvervoerabonnement voor de resterende afstand.
+4. Voor de ambtenaar op wie de verruiming van de tegemoetkoming in de kosten voor dagelijks woon-werkverkeer bij een opgelegde verplaatsing als bedoeld in hoofdstuk 9 van het Sociaal Beleidskader Defensie 2012–-2016 van toepassing is, de tegemoetkoming in de kosten van het dagelijks reizen tussen de woning en de plaats van tewerkstelling – afhankelijk van de afstand en het persoonlijk werkrooster – gelijk aan de in [bijlage 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=1b&z=2023-10-03&g=2023-10-03), tabel P opgenomen bedragen.
 
-5. Voor de ambtenaar, op wie de verruiming van de tegemoetkoming in de kosten voor dagelijks woon-werkverkeer bij opgelegde verplaatsing bedoeld hoofdstuk 9 van het Sociaal Beleidskader Defensie 2012 – 2016, van toepassing is, is de tegemoetkoming in de kosten van het dagelijks reizen tussen de woning en de plaats van tewerkstelling gelijk aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=1&z=2023-08-16&g=2023-08-16), Tabel P opgenomen bedragen.
-
-6. De tegemoetkoming in de kosten van het dagelijks reizen tussen de woning en de plaats van tewerkstelling voor de defensieambtenaar, bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=2&z=2023-08-16&g=2023-08-16), is gelijk aan het bedrag per kalendermaand van de in de tabellen van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=1&z=2023-08-16&g=2023-08-16) genoemde bedragen over de afstand binnen Nederland.
+5. De tegemoetkoming in de kosten van het dagelijks reizen tussen de woning en de plaats van tewerkstelling voor de defensieambtenaar, bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=2&z=2023-10-03&g=2023-10-03), is gelijk aan het bedrag per kalendermaand van de in [bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=1a&z=2023-10-03&g=2023-10-03), tabel E genoemde bedragen over de afstand binnen Nederland.
 
 ##### Artikel 14. Tegemoetkoming in de kosten van het dagelijks reizen naar niet per openbaar vervoer bereikbare plaatsen
 
-1. Voor de defensieambtenaar, wiens plaats van tewerkstelling door de Minister is aangewezen als een plaats van tewerkstelling die niet per openbaar vervoer is te bereiken, is, in afwijking van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=13&z=2023-08-16&g=2023-08-16) de tegemoetkoming in de kosten van het dagelijks reizen tussen de woning en de plaats van tewerkstelling gelijk aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=1&z=2023-08-16&g=2023-08-16), Tabel N opgenomen bedragen.
+1. Voor de defensieambtenaar, wiens plaats van tewerkstelling door de Minister is aangewezen als een plaats van tewerkstelling die niet per openbaar vervoer is te bereiken, is in afwijking van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=13&z=2023-10-03&g=2023-10-03) de tegemoetkoming in de kosten van het dagelijks reizen tussen de woning en de plaats van tewerkstelling – afhankelijk van de afstand en het persoonlijk werkrooster – gelijk aan de in bijlage 1a, tabel N, opgenomen bedragen.
 
-2. De tegemoetkoming bedoeld in het eerste lid, is van overeenkomstige toepassing op de defensieambtenaar die behoort tot de door de commandant aangewezen groep voor wie de plaats van tewerkstelling niet per openbaar vervoer te bereiken is vanwege het regelmatig op ongebruikelijke uren verrichten van werkzaamheden.
+2. De tegemoetkoming, bedoeld in het eerste lid, is van overeenkomstige toepassing op de defensieambtenaar die behoort tot de door de commandant aangewezen groep voor wie de plaats van tewerkstelling niet per openbaar vervoer te bereiken is vanwege het regelmatig op ongebruikelijke uren verrichten van werkzaamheden.
 
-3. De tegemoetkoming bedoeld in het eerste lid, is van overeenkomstige toepassing op de ambtenaar die in verband met een medische indicatie noodzakelijk van een eigen auto gebruik moet maken en daardoor de plaats van tewerkstelling niet per openbaar vervoer kan bereiken.
+3. De tegemoetkoming, bedoeld in het eerste lid, is van overeenkomstige toepassing op de ambtenaar die in verband met een medische indicatie noodzakelijk van een eigen auto gebruik moet maken en daardoor de plaats van tewerkstelling niet per openbaar vervoer kan bereiken.
 
-4. Voor de ambtenaar, op wie de verruiming van de tegemoetkoming in de kosten voor dagelijks woon-werkverkeer bij opgelegde verplaatsing, bedoeld in hoofdstuk 9 van het Sociaal Beleidskader Defensie 2012 – 2016, van toepassing is en wiens plaats van tewerkstelling door de Minister is aangewezen als een plaats van tewerkstelling die niet per openbaar vervoer te bereiken is, is de tegemoetkoming in de kosten van het dagelijks reizen tussen de woning en de plaats van tewerkstelling gelijk aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=1&z=2023-08-16&g=2023-08-16), Tabel Q opgenomen bedragen.
+4. Voor de ambtenaar op wie de verruiming van de tegemoetkoming in de kosten voor dagelijks woon-werkverkeer bij een opgelegde verplaatsing als bedoeld in hoofdstuk 9 van het Sociaal Beleidskader Defensie 2012–2016 van toepassing is en wiens plaats van tewerkstelling door de Minister is aangewezen als een plaats van tewerkstelling die niet per openbaar vervoer te bereiken is, is de tegemoetkoming in de kosten van het dagelijks reizen tussen de woning en de plaats van tewerkstelling – afhankelijk van de afstand en het persoonlijk werkrooster – gelijk aan de in bijlage 1b, tabel Q opgenomen bedragen.
 
-5. De tegemoetkoming in de kosten van het dagelijks reizen tussen de woning en de plaats van tewerkstelling voor de defensieambtenaar, bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=2&z=2023-08-16&g=2023-08-16), is gelijk aan het bedrag per kalendermaand van het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=1&z=2023-08-16&g=2023-08-16), Tabel N, genoemde bedrag over de afstand binnen Nederland.
+5. De tegemoetkoming in de kosten van het dagelijks reizen tussen de woning en de plaats van tewerkstelling voor de defensieambtenaar, bedoeld in [artikel 2, vijfde lid van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=2&z=2023-10-03&g=2023-10-03), is gelijk aan het bedrag per kalendermaand van het in bijlage 1a, tabel N genoemde bedrag over de afstand binnen Nederland.
 
 ##### Artikel 15. Eigen bijdrage bij dagelijks reizen
 
-1. De defensieambtenaar die aanspraak heeft op een tegemoetkoming in de kosten van het dagelijks reizen, is hiervoor een eigen bijdrage verschuldigd.
+De defensieambtenaar die kiest voor de aanspraak op privégebruik van een door Defensie verstrekt openbaar vervoersbewijs, betaalt hiervoor een eigen bijdrage. Deze eigen bijdrage bedraagt per maand:
 
-2. De eigen bijdrage bedraagt per maand:
+- a. € 48,29 indientrein, bus, tram en metro is inbegrepen dan wel
 
-- •. € 48,29 bij aanspraak op een tegemoetkoming uit tabel A, B, N, P en Q;
-
-- •. € 59,95 bij aanspraak op een tegemoetkoming uit tabel C en D en
-
-- •. € 58,29 bij aanspraak op een tegemoetkoming uit tabel E.
-
-Deze eigen bijdrage is verwerkt in de betreffende tabeltegemoetkomingen.
-
-3. Bij aanspraak op een door Defensie verstrekt openbaar vervoer abonnement bedraagt de eigen bijdrage per maand:
-
-- •. € 48,29 indien stad-/streekvervoer is inbegrepen en
-
-- •. € 21,08 indien stad-/streekabonnement niet is inbegrepen.
+- b. € 21,08 indien uitsluitend trein is inbegrepen.
 
 ##### Artikel 16. Tegemoetkoming bij dagelijks reizen tussen plaats van legering en plaats van tewerkstelling in het buitenland
 
-In afwijking van het gestelde in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=13&z=2023-08-16&g=2023-08-16) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=15&z=2023-08-16&g=2023-08-16), is de tegemoetkoming in de kosten van het dagelijks reizen tussen de woning of de plaats van legering en de plaats van tewerkstelling die beide zijn gelegen buiten Nederland, afhankelijk van het land van plaatsing, per kalendermaand gelijk aan: het product van de afstand en het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=2&z=2023-08-16&g=2023-08-16), Tabel F, opgenomen kilometerbedrag, verminderd met de in bijlage 2, Tabel G, voor dat land vastgestelde eigen bijdrage.
+In afwijking van het gestelde in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=13&z=2023-10-03&g=2023-10-03) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=15&z=2023-10-03&g=2023-10-03), is de tegemoetkoming in de kosten van het dagelijks reizen tussen de woning of de plaats van legering en de plaats van tewerkstelling die beide zijn gelegen buiten Nederland, afhankelijk van het land van plaatsing, per kalendermaand gelijk aan: het product van de afstand en het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=2&z=2023-10-03&g=2023-10-03), Tabel F, opgenomen kilometerbedrag, verminderd met de in bijlage 2, Tabel G, voor dat land vastgestelde eigen bijdrage.
 
-##### Artikel 17. Tegemoetkoming bij reizen anders dan dagelijks reizen algemeen
+##### Artikel 17. Tegemoetkoming in de kosten bij niet-dagelijks reizen algemeen
 
-1. De tegemoetkoming per kalendermaand in de kosten van het reizen anders dan dagelijks reizen tussen de woning en de plaats van tewerkstelling is -afhankelijk van de afstand- voor de defensieambtenaar, bedoeld in:
+1. De defensieambtenaar die niet dagelijks rijdt tussen de woning en de plaats van tewerkstelling, heeft aanspraak op een tegemoetkoming in de reiskosten van achtmaal per periode van vier weken. Indien de plaats van tewerkstelling in Nederland, België of Duitsland en de woning in Nederland, België of Duitsland is gelegen waarbij de tegemoetkoming per kalendermaand afhankelijk is van de afstand en het persoonlijk werkrooster is de tegemoetkoming gelijk aan de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=3&z=2023-10-03&g=2023-10-03), tabel O opgenomen bedragen.
 
-- a. [artikel 20, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=20); gelijk aan de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=3&z=2023-08-16&g=2023-08-16), Tabel H of I, opgenomen bedragen voor zover de enkele reisafstand groter is dan 25 kilometer;
+2. De defensieambtenaar die niet dagelijks reist tussen de woning en de plaats van tewerkstelling, heeft aanspraak op een tegemoetkoming in de reiskosten van achtmaal per periode van vier weken. Indien de plaats van tewerkstelling en de woning beide in Nederland zijn gelegen en hij verplicht huisvesting van rijkswege ontvangt waarbij de tegemoetkoming per kalendermaand afhankelijk is van de afstand en het persoonlijk werkrooster is de tegemoetkoming gelijk aan de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=3&z=2023-10-03&g=2023-10-03), tabel O opgenomen bedragen.
 
-- b. [artikel 20, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=20) gelijk aan de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=3&z=2023-08-16&g=2023-08-16), Tabel H of I, opgenomen bedragen;
+3. De tegemoetkoming per kalendermaand in de kosten bij niet-dagelijks reizen tussen de woning en de plaats van tewerkstelling is – afhankelijk van de afstand en het persoonlijk werkrooster – voor de defensieambtenaar, bedoeld in:
 
-- c. [artikel 20, onderdeel c van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=20), voor zover de enkele reisafstand groter is dan 25 kilometer indien de plaats van tewerkstelling in Nederland, België of Duitsland is gelegen; gelijk aan de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=3&z=2023-08-16&g=2023-08-16), Tabel J en K, opgenomen bedragen.
+- a. [artikel 20, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=20&z=2023-10-03&g=2023-10-03) gelijk aan de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=3&z=2023-10-03&g=2023-10-03), tabel H of I opgenomen bedragen voor zover de enkele reisafstand groter is dan 25 kilometer;
 
-2. Tabel I, K en M zijn van toepassing indien het betreft een militair met een hogere rang dan die van adjudant-onderofficier die reist per trein in de eerste klasse.
+- b. [artikel 20, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=20&z=2023-10-03&g=2023-10-03) gelijk aan de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=3&z=2023-10-03&g=2023-10-03), tabel H of I opgenomen bedragen;
 
-##### Artikel 18. Tegemoetkoming bij reizen anders dan dagelijks reizen bijzonder
+- c. [artikel 20, onderdeel c van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=20&z=2023-10-03&g=2023-10-03), voor zover de enkele reisafstand groter is dan 25 kilometer indien de plaats van tewerkstelling in Nederland, België of Duitsland is gelegen, gelijk aan de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=3&z=2023-10-03&g=2023-10-03), tabel J en K opgenomen bedragen.
 
-1. De tegemoetkoming in de kosten van het niet dagelijks reizen als bedoeld in [artikel 20, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=20&z=2023-08-16&g=2023-08-16), tussen de woning en de plaats van tewerkstelling, waarbij de woning en de plaats van tewerkstelling beide zijn gelegen buiten Nederland, België of Duitsland, is, bij het reizen per openbaar vervoer, gelijk aan de kosten daarvan. Bij het reizen met eigen vervoer is de tegemoetkoming gelijk aan het in de [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=3&z=2023-08-16&g=2023-08-16), respectievelijk de in Tabel J en K of in Tabel L en M opgenomen bedragen.
+4. [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=3&z=2023-10-03&g=2023-10-03), tabel I, K en M zijn van toepassing indien het betreft een militair met een hogere rang dan die van adjudant-onderofficier die reist per trein in de eerste klasse.
 
-2. De tegemoetkoming in de kosten van het niet dagelijks reizen als bedoeld in [artikel 20, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=20&z=2023-08-16&g=2023-08-16), tussen de woning en de plaats van tewerkstelling, waarbij de woning in Nederland, België of Duitsland is gelegen en de plaats van tewerkstelling in Europa buiten Nederland, België of Duitsland, is bij het reizen per openbaar vervoer, gelijk aan de kosten daarvan. Bij het reizen met eigen vervoer is de tegemoetkoming gelijk aan het in de [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=3&z=2023-08-16&g=2023-08-16), respectievelijk de in Tabel J en K of in L en M opgenomen bedragen.
+##### Artikel 18. Tegemoetkoming in de kosten van het niet dagelijks reizen bijzonder
+
+1. De tegemoetkoming in de kosten van het niet dagelijks reizen als bedoeld in [artikel 20, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=20&z=2023-10-03&g=2023-10-03), tussen de woning en de plaats van tewerkstelling, waarbij de woning en de plaats van tewerkstelling beide zijn gelegen buiten Nederland, België of Duitsland, is, bij het reizen per openbaar vervoer, gelijk aan de kosten daarvan. Bij het reizen met eigen vervoer is de tegemoetkoming gelijk aan het in de [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=3&z=2023-10-03&g=2023-10-03), respectievelijk de in Tabel J en K of in Tabel L en M opgenomen bedragen.
+
+2. De tegemoetkoming in de kosten van het niet dagelijks reizen als bedoeld in [artikel 20, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=20&z=2023-10-03&g=2023-10-03), tussen de woning en de plaats van tewerkstelling, waarbij de woning in Nederland, België of Duitsland is gelegen en de plaats van tewerkstelling in Europa buiten Nederland, België of Duitsland, is bij het reizen per openbaar vervoer, gelijk aan de kosten daarvan. Bij het reizen met eigen vervoer is de tegemoetkoming gelijk aan het in de [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=3&z=2023-10-03&g=2023-10-03), respectievelijk de in Tabel J en K of in L en M opgenomen bedragen.
 
 3. Indien gereisd wordt met het openbaar vervoer wordt de tegemoetkoming bepaald naar de klasse waarin de defensieambtenaar is gerechtigd te reizen overeenkomstig de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&artikel=4) en [5 van de Regeling dienstreizen defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&artikel=5).
 
@@ -277,15 +271,17 @@ Het bedrag bedoeld in [artikel 25, tweede lid van het besluit](https://wetten.ov
 
 ##### Artikel 21. Tegemoetkoming algemeen
 
-1. Indien de aanspraak op een tegemoetkoming in de kosten van het reizen tussen de woning of de plaats van legering en de plaats van tewerkstelling aanvangt of eindigt anders dan op de respectievelijk eerste of laatste werkdag van een kalendermaand wordt de tabeltegemoetkoming opgenomen in [bijlage 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=1&z=2023-08-16&g=2023-08-16), voor die maand berekend naar rato van het aantal werkdagen; een kalendermaand wordt daarbij gesteld op 22 werkdagen.
+1. Indien de aanspraak op een tegemoetkoming in de kosten van het reizen tussen de woning of de plaats van legering en de plaats van tewerkstelling aanvangt of eindigt anders dan op de respectievelijk eerste of laatste werkdag van een kalendermaand wordt de tabeltegemoetkoming opgenomen in [bijlage 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=1&z=2023-10-03&g=2023-10-03), voor die maand berekend naar rato van het aantal werkdagen.
 
-2. De aanspraak op een tabeltegemoetkoming als opgenomen in [bijlage 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=1&z=2023-08-16&g=2023-08-16), wordt gestaakt, nadat de defensieambtenaar langer dan zes aaneengesloten weken niet naar de plaats van tewerkstelling is gereisd en indien de defensieambtenaar direct aansluitend op een periode waarin hij aanspraak had op een tegemoetkoming van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=1&z=2023-08-16&g=2023-08-16) opgenomen tabellen C en D, niet naar de plaats van tewerkstelling reist. De tegemoetkoming in de reiskosten vangt wederom aan op de eerste dag van de maand volgend op de datum van terugkeer. Voor de defensieambtenaar die aanspraak heeft op een tegemoetkoming op grond van de in bijlage 1 opgenomen tabellen A en B en voor de militair die aanspraak heeft op de hoogste tegemoetkoming op grond van de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=3&z=2023-08-16&g=2023-08-16) opgenomen tabellen H en I, kan de termijn van zes weken worden verlengd, mits wordt aangetoond dat er sprake is van onvermijdbaar doorlopende kosten.
+2. De aanspraak op een tegemoetkoming woon-werkverkeer wordt opgeschort, nadat de defensieambtenaar langer dan zes aaneengesloten weken afwezig is op de werklocatie. De tegemoetkoming vangt wederom aan op de eerste dag van de maand volgend op de datum van terugkeer op basis van het dan geldende persoonlijk werkrooster.
 
-3. Indien de defensieambtenaar, die aanspraak had op een tegemoetkoming uit de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=1&z=2023-08-16&g=2023-08-16) opgenomen tabellen A en B, ten gevolge van een verplaatsing of tijdelijke tewerkstelling aanspraak verkregen heeft op een andere tegemoetkoming in de kosten van het reizen tussen de woning of de plaats van legering en de plaats van tewerkstelling komt hij tevens in aanmerking voor vergoeding van door hem noodzakelijk gemaakte onvermijdbaar doorlopende kosten van een ten behoeve van de voorafgaande periode aangeschafte openbaar vervoervoorziening op jaarbasis, voor zover hij deze voorziening anders dan in verband met vakantieverlof korter dan drie maanden heeft kunnen gebruiken.
+3. De aanspraak op een tegemoetkoming woon-werkverkeer wordt opgeschort vanaf de eerste dag dat de defensieambtenaar op een uitzending gaat als bedoeld in de [Regeling Voorzieningen bij Vredes- en Humanitaire Operaties](https://wetten.overheid.nl/jci1.3:c:BWBR0039789). De tegemoetkoming vangt wederom aan op de eerste dag van terugkeer op basis van het dan geldende persoonlijk werkrooster.
 
-4. De defensieambtenaar die voor een kortere periode dan drie maanden in aanmerking komt voor een tegemoetkoming van de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=3&z=2023-08-16&g=2023-08-16) opgenomen tabellen H of I, waarvoor hij voorafgaand aan voornoemde periode in aanmerking kwam, behoudt deze tegemoetkoming indien er als gevolg van een aangeschaft abonnement voor openbaar vervoer sprake is van onvermijdbaar doorlopende kosten.
+4. De aanspraak op een tegemoetkoming woon-werkverkeer wordt opgeschort vanaf de 31ste dag dat de defensieambtenaar op een meerdaagse activiteit gaat als bedoeld in de [Regeling Vergoeding voor Overwerk, Onregelmatigheid, Beschikbaarheid en Bereikbaarheid](https://wetten.overheid.nl/jci1.3:c:BWBR0039900). De tegemoetkoming vangt wederom aan op de eerste dag van terugkeer op basis van het dan geldende persoonlijk werkrooster.
 
-5. De defensieambtenaar die voor een kortere periode dan drie maanden in aanmerking komt voor de hogere tegemoetkoming van de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=3&z=2023-08-16&g=2023-08-16) opgenomen tabellen H of I, dan waarvoor hij voorafgaand aan deze periode in aanmerking kwam, komt voor vorenbedoelde periode in aanmerking voor die hogere tegemoetkoming als voornoemd alsmede voor de door de defensieambtenaar noodzakelijk te maken kosten bij gebruik van openbaar vervoer.
+5. Indien het persoonlijk werkrooster is gebaseerd op twee weken die anders zijn voor wat betreft de locaties waar de defensieambtenaar werkzaamheden verricht, wordt de tegemoetkoming op grond van de in bijlage 1a en 1b tabellen berekend op basis van de gemiddelde afstand.
+
+6. Met inachtneming van het derde en het vierde lid heeft de defensieambtenaar waarvoor geen persoonlijk werkrooster is vastgesteld in een geautomatiseerd personeelssysteem op aanvraag aanspraak op een tabeltegemoetkoming opgenomen in [bijlage 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=1&z=2023-10-03&g=2023-10-03).
 
 ##### Artikel 22. Tegemoetkoming in de pensionkosten
 
@@ -575,265 +571,101 @@ Tabel Q: van toepassing indien aanspraak bestaat op een tegemoetkoming in de rei
 
 ## Bijlage 1. bij de Verplaatsingskostenregeling defensie
 
-Tabel A: van toepassing indien overwegend gebruik wordt gemaakt van openbaar vervoer.
+Tabel A: van toepassing indien de defensieambtenaar in afwachting is van een door defensie verstrekt openbaar vervoerbewijs
 
-Tabel B: van toepassing indien overwegend gebruik wordt gemaakt van openbaar vervoer en er aanspraak bestaat op een tegemoetkoming ter zake van het reizen per trein in de eerste klasse.
+Tabel B: van toepassing indien de defensieambtenaar in afwachting is van een door defensie verstrekt openbaar vervoerbewijs en er aanspraak bestaat op een tegemoetkoming ter zake van het reizen per trein in de eerste klasse.
 
-Tabel C: van toepassing indien overwegend gebruik wordt gemaakt van openbaar vervoer bij een detachering voor een kortere periode dan drie maanden en in geval het vaststaat dat van een voor de eerste of volgende maal aan te schaffen vervoervoorziening op jaarbasis korter dan drie maanden gebruik kan worden gemaakt anders dan in verband met vakantieverlof.
+Tabel C: van toepassing de defensieambtenaar in afwachting is van een door defensie verstrekt openbaar vervoerbewijs bij een detachering voor een kortere periode dan drie maanden en in geval het vaststaat dat van een voor de eerste of volgende maal aan te schaffen vervoervoorziening op jaarbasis korter dan drie maanden gebruik kan worden gemaakt anders dan in verband met vakantieverlof.
 
-Tabel D: van toepassing indien overwegend gebruik wordt gemaakt van openbaar vervoer bij een detachering voor een kortere periode dan drie maanden en in geval het vaststaat dat van een voor de eerste of volgende maal aan te schaffen vervoervoorziening op jaarbasis korter dan drie maanden gebruik kan worden gemaakt anders dan in verband met vakantieverlof en er aanspraak bestaat op een tegemoetkoming ter zake van het reizen per trein in de eerste klasse.
+Tabel D: van toepassing de defensieambtenaar in afwachting is van een door defensie verstrekt openbaar vervoerbewijs bij een detachering voor een kortere periode dan drie maanden en in geval het vaststaat dat van een voor de eerste of volgende maal aan te schaffen vervoervoorziening op jaarbasis korter dan drie maanden gebruik kan worden gemaakt anders dan in verband met vakantieverlof en er aanspraak bestaat op een tegemoetkoming ter zake van het reizen per trein in de eerste klasse.
 
-Tabel E: van toepassing indien overwegend gebruik wordt gemaakt van eigen vervoer.
-
-Tabel N: van toepassing indien aanspraak bestaat op een tegemoetkoming in de reiskosten naar niet per openbaar vervoer bereikbare plaatsen.
-
-Tabel P: van toepassing indien overwegend gebruik wordt gemaakt van eigen vervoer en aanspraak bestaat op artikel 9, Sociaal Beleidskader 2012.
-
-Tabel Q: van toepassing indien aanspraak bestaat op een tegemoetkoming in de reiskosten naar niet per openbaar vervoer bereikbare plaatsen, en aanspraak bestaat op artikel 9, Sociaal Beleidskader 2012.
-
-| enkele reisafstand in kilometers | Tabellen | Tabellen | Tabellen | Tabellen | Tabellen | Tabellen | Tabellen | Tabellen |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| enkele reisafstand in kilometers | A | B | C | D | E | N | P | Q |
-| 11 | 62,28 | 104,58 | 60,65 | 102,95 | 50,46 | 50,46 | 50,46 | 50,46 |
-| 12 | 62,28 | 104,58 | 60,65 | 102,95 | 50,46 | 50,46 | 50,46 | 50,46 |
-| 13 | 68,48 | 115,08 | 66,85 | 113,45 | 56,78 | 56,78 | 56,78 | 56,78 |
-| 14 | 72,58 | 122,08 | 70,95 | 120,45 | 60,92 | 60,92 | 60,92 | 60,92 |
-| 15 | 77,68 | 130,78 | 76,05 | 129,15 | 66,26 | 66,26 | 66,26 | 66,26 |
-| 16 | 80,78 | 135,98 | 79,15 | 134,35 | 69,31 | 69,31 | 69,31 | 69,31 |
-| 17 | 84,88 | 142,98 | 83,25 | 141,35 | 73,56 | 73,56 | 73,56 | 73,56 |
-| 18 | 90,98 | 153,38 | 89,35 | 151,75 | 79,89 | 79,89 | 79,89 | 79,89 |
-| 19 | 96,08 | 161,98 | 94,45 | 160,35 | 85,01 | 85,01 | 85,01 | 85,01 |
-| 20 | 101,28 | 170,88 | 99,65 | 169,25 | 90,35 | 90,35 | 90,35 | 90,35 |
-| 21 | 105,38 | 177,88 | 103,75 | 176,25 | 94,49 | 94,49 | 94,49 | 94,49 |
-| 22 | 111,48 | 188,18 | 109,85 | 186,55 | 100,81 | 100,81 | 100,81 | 100,81 |
-| 23 | 116,58 | 196,88 | 114,95 | 195,25 | 106,05 | 106,05 | 106,05 | 106,05 |
-| 24 | 123,78 | 209,08 | 122,15 | 207,45 | 113,46 | 113,46 | 113,46 | 113,46 |
-| 25 | 128,88 | 217,78 | 127,25 | 216,15 | 118,69 | 118,69 | 118,69 | 118,69 |
-| 26 | 133,98 | 226,48 | 132,35 | 224,85 | 123,81 | 123,81 | 123,81 | 123,81 |
-| 27 | 137,08 | 231,68 | 135,45 | 230,05 | 127,08 | 127,08 | 127,08 | 127,08 |
-| 28 | 141,08 | 238,48 | 139,45 | 236,85 | 131,12 | 131,12 | 131,12 | 131,12 |
-| 29 | 146,28 | 247,38 | 144,65 | 245,75 | 136,46 | 136,46 | 136,46 | 136,46 |
-| 30 | 153,38 | 259,48 | 151,75 | 257,85 | 143,76 | 143,76 | 143,76 | 143,76 |
-| 31 | 157,58 | 266,58 | 155,95 | 264,95 | 148,01 | 148,01 | 148,01 | 148,01 |
-| 32 | 162,68 | 275,28 | 161,05 | 273,65 | 153,24 | 153,24 | 153,24 | 153,24 |
-| 33 | 167,78 | 283,88 | 166,15 | 282,25 | 158,47 | 158,47 | 158,47 | 158,47 |
-| 34 | 171,98 | 291,08 | 170,35 | 289,45 | 162,73 | 162,73 | 162,73 | 162,73 |
-| 35 | 178,08 | 301,38 | 176,45 | 299,75 | 169,05 | 169,05 | 169,05 | 169,05 |
-| 36 | 182,08 | 308,18 | 180,45 | 306,55 | 173,19 | 173,19 | 173,19 | 173,19 |
-| 37 | 185,18 | 313,48 | 183,55 | 311,85 | 176,35 | 176,35 | 176,35 | 176,35 |
-| 38 | 190,38 | 322,38 | 188,75 | 320,75 | 181,69 | 181,69 | 181,69 | 181,69 |
-| 39 | 194,38 | 329,18 | 192,75 | 327,55 | 185,72 | 185,72 | 185,72 | 185,72 |
-| 40 | 199,58 | 337,98 | 197,95 | 336,35 | 191,07 | 191,07 | 191,07 | 191,07 |
-| 41 | 204,78 | 346,78 | 203,15 | 345,15 | 196,30 | 196,30 | 196,30 | 196,30 |
-| 42 | 209,78 | 355,28 | 208,15 | 353,65 | 201,53 | 201,53 | 201,53 | 201,53 |
-| 43 | 215,88 | 365,68 | 214,25 | 364,05 | 207,74 | 207,74 | 207,74 | 207,74 |
-| 44 | 220,08 | 372,78 | 218,45 | 371,15 | 211,99 | 211,99 | 211,99 | 211,99 |
-| 45 | 223,08 | 377,88 | 221,45 | 376,25 | 215,15 | 215,15 | 215,15 | 215,15 |
-| 46 | 229,28 | 388,48 | 227,65 | 386,85 | 221,48 | 221,48 | 221,48 | 221,48 |
-| 47 | 233,38 | 395,48 | 231,75 | 393,85 | 225,62 | 225,62 | 225,62 | 225,62 |
-| 48 | 236,38 | 400,58 | 234,75 | 398,95 | 228,78 | 228,78 | 228,78 | 228,78 |
-| 49 | 241,48 | 409,18 | 239,85 | 407,55 | 233,90 | 233,90 | 233,90 | 233,90 |
-| 50 | 245,68 | 416,38 | 244,05 | 414,75 | 238,26 | 238,26 | 238,26 | 238,26 |
-| 51 | 248,68 | 421,48 | 247,05 | 419,85 | 241,31 | 241,31 | 241,31 | 241,31 |
-| 52 | 253,88 | 430,28 | 252,25 | 428,65 | 246,66 | 246,66 | 246,66 | 246,66 |
-| 53 | 258,98 | 438,98 | 257,35 | 437,35 | 252,00 | 252,00 | 252,00 | 252,00 |
-| 54 | 262,08 | 444,18 | 260,45 | 442,55 | 255,05 | 255,05 | 255,05 | 255,05 |
-| 55 | 267,08 | 452,68 | 265,45 | 451,05 | 260,28 | 260,28 | 260,28 | 260,28 |
-| 56 | 272,28 | 461,58 | 270,65 | 459,95 | 265,51 | 265,51 | 265,51 | 265,51 |
-| 57 | 276,38 | 468,58 | 274,75 | 466,95 | 269,76 | 269,76 | 269,76 | 269,76 |
-| 58 | 280,38 | 475,38 | 278,75 | 473,75 | 273,80 | 273,80 | 273,80 | 273,80 |
-| 59 | 285,58 | 484,18 | 283,95 | 482,55 | 279,14 | 279,14 | 279,14 | 279,14 |
-| 60 | 288,68 | 489,48 | 287,05 | 487,85 | 282,30 | 282,30 | 282,30 | 282,30 |
-| 61 | 293,78 | 498,08 | 292,15 | 496,45 | 287,53 | 287,53 | 287,53 | 287,53 |
-| 62 | 296,78 | 503,18 | 295,15 | 501,55 | 290,69 | 291,53 | 290,69 | 291,53 |
-| 63 | 301,98 | 512,08 | 300,35 | 510,45 | 295,92 | 297,01 | 295,92 | 297,01 |
-| 64 | 306,08 | 518,98 | 304,45 | 517,35 | 300,17 | 302,49 | 300,17 | 302,49 |
-| 65 | 309,18 | 524,28 | 307,55 | 522,65 | 303,34 | 307,98 | 303,34 | 307,98 |
-| 66 | 314,28 | 532,98 | 312,65 | 531,35 | 308,57 | 313,46 | 308,57 | 313,46 |
-| 67 | 318,28 | 539,78 | 316,65 | 538,15 | 312,60 | 318,94 | 312,60 | 318,94 |
-| 68 | 321,48 | 545,18 | 319,85 | 543,55 | 315,98 | 324,42 | 315,98 | 324,42 |
-| 69 | 326,58 | 553,88 | 324,95 | 552,25 | 321,10 | 329,90 | 321,10 | 329,90 |
-| 70 | 332,58 | 564,08 | 330,95 | 562,45 | 327,32 | 335,38 | 327,32 | 335,38 |
-| 71 | 332,58 | 564,08 | 330,95 | 562,45 | 327,32 | 340,86 | 327,32 | 340,86 |
-| 72 | 337,78 | 572,88 | 336,15 | 571,25 | 332,66 | 346,34 | 332,66 | 346,34 |
-| 73 | 342,98 | 581,78 | 341,35 | 580,15 | 338,00 | 351,82 | 338,00 | 351,82 |
-| 74 | 345,88 | 586,68 | 344,25 | 585,05 | 340,94 | 357,30 | 340,94 | 357,30 |
-| 75 | 351,08 | 595,48 | 349,45 | 593,85 | 346,28 | 362,79 | 346,28 | 362,79 |
-| 76 | 351,08 | 595,48 | 349,45 | 593,85 | 346,28 | 368,27 | 346,28 | 368,27 |
-| 77 | 351,08 | 595,48 | 349,45 | 593,85 | 346,28 | 373,75 | 346,28 | 373,75 |
-| 78 | 353,08 | 598,88 | 351,45 | 597,25 | 348,35 | 379,23 | 348,35 | 379,23 |
-| 79 | 355,28 | 602,68 | 353,65 | 601,05 | 350,53 | 384,71 | 350,53 | 384,71 |
-| 80 | 355,28 | 602,68 | 353,65 | 601,05 | 350,53 | 390,19 | 350,53 | 390,19 |
-| 81 | 355,28 | 602,68 | 353,65 | 601,05 | 350,53 | 390,19 | 350,53 | 390,19 |
-| 82 | 355,68 | 603,38 | 354,05 | 601,75 | 350,97 | 390,19 | 350,97 | 390,19 |
-| 83 | 355,68 | 603,38 | 354,05 | 601,75 | 350,97 | 390,19 | 350,97 | 390,19 |
-| 84 | 355,68 | 603,38 | 354,05 | 601,75 | 350,97 | 390,19 | 350,97 | 390,19 |
-| 85 | 355,68 | 603,38 | 354,05 | 601,75 | 350,97 | 390,19 | 350,97 | 390,19 |
-| 86 | 355,68 | 603,38 | 354,05 | 601,75 | 350,97 | 390,19 | 350,97 | 390,19 |
-| 87 | 355,68 | 603,38 | 354,05 | 601,75 | 350,97 | 390,19 | 350,97 | 390,19 |
-| 88 | 355,68 | 603,38 | 354,05 | 601,75 | 350,97 | 390,19 | 350,97 | 390,19 |
-| 89 | 355,68 | 603,38 | 354,05 | 601,75 | 350,97 | 390,19 | 350,97 | 390,19 |
-| 90 | 355,68 | 603,38 | 354,05 | 601,75 | 350,97 | 390,19 | 350,97 | 390,19 |
-| 91 | 355,68 | 603,38 | 354,05 | 601,75 | 350,97 | 390,19 | 350,97 | 390,19 |
-| 92 | 355,68 | 603,38 | 354,05 | 601,75 | 350,97 | 390,19 | 350,97 | 390,19 |
-| 93 | 355,68 | 603,38 | 354,05 | 601,75 | 350,97 | 390,19 | 350,97 | 390,19 |
-| 94 | 355,68 | 603,38 | 354,05 | 601,75 | 350,97 | 390,19 | 350,97 | 390,19 |
-| 95 |   |   |   |   |   |   | 351,69 | 391,74 |
-| 96 |   |   |   |   |   |   | 352,41 | 393,29 |
-| 97 |   |   |   |   |   |   | 353,13 | 394,84 |
-| 98 |   |   |   |   |   |   | 353,85 | 396,39 |
-| 99 |   |   |   |   |   |   | 354,57 | 397,94 |
-| 100 |   |   |   |   |   |   | 355,29 | 399,49 |
-| 101 |   |   |   |   |   |   | 356,01 | 401,04 |
-| 102 |   |   |   |   |   |   | 356,73 | 402,59 |
-| 103 |   |   |   |   |   |   | 357,45 | 404,14 |
-| 104 |   |   |   |   |   |   | 358,17 | 405,69 |
-| 105 |   |   |   |   |   |   | 358,89 | 407,24 |
-| 106 |   |   |   |   |   |   | 359,61 | 408,79 |
-| 107 |   |   |   |   |   |   | 360,33 | 410,34 |
-| 108 |   |   |   |   |   |   | 361,05 | 411,89 |
-| 109 |   |   |   |   |   |   | 361,77 | 413,44 |
-| 110 |   |   |   |   |   |   | 362,49 | 414,99 |
-| 111 |   |   |   |   |   |   | 363,21 | 416,54 |
-| 112 |   |   |   |   |   |   | 363,93 | 418,09 |
-| 113 |   |   |   |   |   |   | 364,65 | 419,64 |
-| 114 |   |   |   |   |   |   | 365,37 | 421,19 |
-| 115 |   |   |   |   |   |   | 366,09 | 422,74 |
-| 116 |   |   |   |   |   |   | 366,81 | 424,29 |
-| 117 |   |   |   |   |   |   | 367,53 | 425,84 |
-| 118 |   |   |   |   |   |   | 368,25 | 427,39 |
-| 119 |   |   |   |   |   |   | 368,97 | 428,94 |
-| 120 |   |   |   |   |   |   | 369,69 | 430,49 |
-| 121 |   |   |   |   |   |   | 370,41 | 432,04 |
-| 122 |   |   |   |   |   |   | 371,13 | 433,59 |
-| 123 |   |   |   |   |   |   | 371,85 | 435,14 |
-| 124 |   |   |   |   |   |   | 372,57 | 436,69 |
-| 125 |   |   |   |   |   |   | 373,29 | 438,24 |
-| 126 |   |   |   |   |   |   | 374,01 | 439,79 |
-| 127 |   |   |   |   |   |   | 374,73 | 441,34 |
-| 128 |   |   |   |   |   |   | 375,45 | 442,89 |
-| 129 |   |   |   |   |   |   | 376,17 | 444,44 |
-| 130 |   |   |   |   |   |   | 376,89 | 445,99 |
-| 131 |   |   |   |   |   |   | 377,61 | 447,54 |
-| 132 |   |   |   |   |   |   | 378,33 | 449,09 |
-| 133 |   |   |   |   |   |   | 379,05 | 450,64 |
-| 134 |   |   |   |   |   |   | 379,77 | 452,19 |
-| 135 |   |   |   |   |   |   | 380,49 | 453,74 |
-| 136 |   |   |   |   |   |   | 381,21 | 455,29 |
-| 137 |   |   |   |   |   |   | 381,93 | 456,84 |
-| 138 |   |   |   |   |   |   | 382,65 | 458,39 |
-| 139 |   |   |   |   |   |   | 383,37 | 459,94 |
-| 140 |   |   |   |   |   |   | 384,09 | 461,49 |
-| 141 |   |   |   |   |   |   | 384,81 | 463,04 |
-| 142 |   |   |   |   |   |   | 385,53 | 464,59 |
-| 143 |   |   |   |   |   |   | 386,25 | 466,14 |
-| 144 |   |   |   |   |   |   | 386,97 | 467,69 |
-| 145 |   |   |   |   |   |   | 387,69 | 469,24 |
-| 146 |   |   |   |   |   |   | 388,41 | 470,79 |
-| 147 |   |   |   |   |   |   | 389,13 | 472,34 |
-| 148 |   |   |   |   |   |   | 389,85 | 473,89 |
-| 149 |   |   |   |   |   |   | 390,57 | 475,44 |
-| 150 |   |   |   |   |   |   | 391,29 | 476,99 |
-| 151 |   |   |   |   |   |   | 392,01 | 478,54 |
-| 152 |   |   |   |   |   |   | 392,73 | 480,09 |
-| 153 |   |   |   |   |   |   | 393,45 | 481,64 |
-| 154 |   |   |   |   |   |   | 394,17 | 483,19 |
-| 155 |   |   |   |   |   |   | 394,89 | 484,74 |
-| 156 |   |   |   |   |   |   | 395,61 | 486,29 |
-| 157 |   |   |   |   |   |   | 396,33 | 487,84 |
-| 158 |   |   |   |   |   |   | 397,05 | 489,39 |
-| 159 |   |   |   |   |   |   | 397,77 | 490,94 |
-| 160 |   |   |   |   |   |   | 398,49 | 492,49 |
-| 161 |   |   |   |   |   |   | 399,21 | 494,04 |
-| 162 |   |   |   |   |   |   | 399,93 | 495,59 |
-| 163 |   |   |   |   |   |   | 400,65 | 497,14 |
-| 164 |   |   |   |   |   |   | 401,37 | 498,69 |
-| 165 |   |   |   |   |   |   | 402,09 | 500,24 |
-| 166 |   |   |   |   |   |   | 402,81 | 501,79 |
-| 167 |   |   |   |   |   |   | 403,53 | 503,34 |
-| 168 |   |   |   |   |   |   | 404,25 | 504,89 |
-| 169 |   |   |   |   |   |   | 404,97 | 506,44 |
-| 170 |   |   |   |   |   |   | 405,69 | 507,99 |
-| 171 |   |   |   |   |   |   | 406,41 | 509,54 |
-| 172 |   |   |   |   |   |   | 407,13 | 511,09 |
-| 173 |   |   |   |   |   |   | 407,85 | 512,64 |
-| 174 |   |   |   |   |   |   | 408,57 | 514,19 |
-| 175 |   |   |   |   |   |   | 409,29 | 515,74 |
-| 176 |   |   |   |   |   |   | 410,01 | 517,29 |
-| 177 |   |   |   |   |   |   | 410,73 | 518,84 |
-| 178 |   |   |   |   |   |   | 411,45 | 520,39 |
-| 179 |   |   |   |   |   |   | 412,17 | 521,94 |
-| 180 |   |   |   |   |   |   | 412,89 | 523,49 |
-| 181 |   |   |   |   |   |   | 413,61 | 525,04 |
-| 182 |   |   |   |   |   |   | 414,33 | 526,59 |
-| 183 |   |   |   |   |   |   | 415,05 | 528,14 |
-| 184 |   |   |   |   |   |   | 415,77 | 529,69 |
-| 185 |   |   |   |   |   |   | 416,49 | 531,24 |
-| 186 |   |   |   |   |   |   | 417,21 | 532,79 |
-| 187 |   |   |   |   |   |   | 417,93 | 534,34 |
-| 188 |   |   |   |   |   |   | 418,65 | 535,89 |
-| 189 |   |   |   |   |   |   | 419,37 | 537,44 |
-| 190 |   |   |   |   |   |   | 420,09 | 538,99 |
-| 191 |   |   |   |   |   |   | 420,81 | 540,54 |
-| 192 |   |   |   |   |   |   | 421,53 | 542,09 |
-| 193 |   |   |   |   |   |   | 422,25 | 543,64 |
-| 194 |   |   |   |   |   |   | 422,97 | 545,19 |
-| 195 |   |   |   |   |   |   | 423,69 | 546,74 |
-| 196 |   |   |   |   |   |   | 424,41 | 548,29 |
-| 197 |   |   |   |   |   |   | 425,13 | 549,84 |
-| 198 |   |   |   |   |   |   | 425,85 | 551,39 |
-| 199 |   |   |   |   |   |   | 426,57 | 552,94 |
-| 200 |   |   |   |   |   |   | 427,29 | 554,49 |
-| 201 |   |   |   |   |   |   | 428,01 | 556,04 |
-| 202 |   |   |   |   |   |   | 428,73 | 557,59 |
-| 203 |   |   |   |   |   |   | 429,45 | 559,14 |
-| 204 |   |   |   |   |   |   | 430,17 | 560,69 |
-| 205 |   |   |   |   |   |   | 430,89 | 562,24 |
-| 206 |   |   |   |   |   |   | 431,61 | 563,79 |
-| 207 |   |   |   |   |   |   | 432,33 | 565,34 |
-| 208 |   |   |   |   |   |   | 433,05 | 566,89 |
-| 209 |   |   |   |   |   |   | 433,77 | 568,44 |
-| 210 |   |   |   |   |   |   | 434,49 | 569,99 |
-| 211 |   |   |   |   |   |   | 435,21 | 571,54 |
-| 212 |   |   |   |   |   |   | 435,93 | 573,09 |
-| 213 |   |   |   |   |   |   | 436,65 | 574,64 |
-| 214 |   |   |   |   |   |   | 437,37 | 576,19 |
-| 215 |   |   |   |   |   |   | 438,09 | 577,74 |
-| 216 |   |   |   |   |   |   | 438,81 | 579,29 |
-| 217 |   |   |   |   |   |   | 439,53 | 580,84 |
-| 218 |   |   |   |   |   |   | 440,25 | 582,39 |
-| 219 |   |   |   |   |   |   | 440,97 | 583,94 |
-| 220 |   |   |   |   |   |   | 441,69 | 585,49 |
-| 221 |   |   |   |   |   |   | 442,41 | 587,04 |
-| 222 |   |   |   |   |   |   | 443,13 | 588,59 |
-| 223 |   |   |   |   |   |   | 443,85 | 590,14 |
-| 224 |   |   |   |   |   |   | 444,57 | 591,69 |
-| 225 |   |   |   |   |   |   | 445,29 | 593,24 |
-| 226 |   |   |   |   |   |   | 446,01 | 594,79 |
-| 227 |   |   |   |   |   |   | 446,73 | 596,34 |
-| 228 |   |   |   |   |   |   | 447,45 | 597,89 |
-| 229 |   |   |   |   |   |   | 448,17 | 599,44 |
-| 230 |   |   |   |   |   |   | 448,89 | 600,99 |
-| 231 |   |   |   |   |   |   | 449,61 | 602,54 |
-| 232 |   |   |   |   |   |   | 450,33 | 604,09 |
-| 233 |   |   |   |   |   |   | 451,05 | 605,64 |
-| 234 |   |   |   |   |   |   | 451,77 | 607,19 |
-| 235 |   |   |   |   |   |   | 452,49 | 608,74 |
-| 236 |   |   |   |   |   |   | 453,21 | 610,29 |
-| 237 |   |   |   |   |   |   | 453,93 | 611,84 |
-| 238 |   |   |   |   |   |   | 454,65 | 613,39 |
-| 239 |   |   |   |   |   |   | 455,37 | 614,94 |
-| 240 |   |   |   |   |   |   | 456,09 | 616,49 |
-| 241 |   |   |   |   |   |   | 456,81 | 618,04 |
-| 242 |   |   |   |   |   |   | 457,53 | 619,59 |
-| 243 |   |   |   |   |   |   | 458,25 | 621,14 |
-| 244 |   |   |   |   |   |   | 458,97 | 622,69 |
-| 245 |   |   |   |   |   |   | 459,69 | 624,24 |
-| 246 |   |   |   |   |   |   | 460,41 | 625,79 |
-| 247 |   |   |   |   |   |   | 461,13 | 627,34 |
-| 248 |   |   |   |   |   |   | 461,85 | 628,89 |
-| 249 |   |   |   |   |   |   | 462,57 | 630,44 |
-| 250 |   |   |   |   |   |   | 463,29 | 631,99 |
+| Enkele reisafstand | Enkele reisafstand | Enkele reisafstand | Enkele reisafstand | Enkele reisafstand |
+| --- | --- | --- | --- | --- |
+| in kilometers | A | B | C | D |
+| 11 | 57,58 | 98,86 | 55,10 | 96,38 |
+| 12 | 57,58 | 98,86 | 55,10 | 96,38 |
+| 13 | 62,03 | 107,87 | 59,35 | 105,39 |
+| 14 | 65,30 | 115,92 | 62,62 | 113,45 |
+| 15 | 70,75 | 124,51 | 68,07 | 122,03 |
+| 16 | 74,02 | 129,81 | 71,34 | 127,33 |
+| 17 | 77,29 | 136,49 | 74,61 | 134,01 |
+| 18 | 83,83 | 146,87 | 81,15 | 144,40 |
+| 19 | 88,19 | 155,46 | 85,51 | 152,98 |
+| 20 | 93,64 | 164,15 | 90,96 | 161,68 |
+| 21 | 98,00 | 170,83 | 95,32 | 168,35 |
+| 22 | 103,45 | 181,11 | 100,77 | 178,64 |
+| 23 | 108,90 | 189,80 | 106,22 | 187,33 |
+| 24 | 115,44 | 200,51 | 112,76 | 198,03 |
+| 25 | 120,89 | 209,10 | 118,21 | 206,62 |
+| 26 | 125,25 | 217,58 | 122,57 | 215,10 |
+| 27 | 128,52 | 222,77 | 125,84 | 220,29 |
+| 28 | 132,88 | 230,83 | 130,20 | 228,35 |
+| 29 | 137,24 | 239,41 | 134,56 | 236,94 |
+| 30 | 144,87 | 248,42 | 142,19 | 245,95 |
+| 31 | 148,14 | 256,80 | 145,46 | 254,32 |
+| 32 | 153,59 | 263,79 | 150,91 | 261,32 |
+| 33 | 159,04 | 275,45 | 156,36 | 272,98 |
+| 34 | 162,31 | 282,45 | 159,63 | 279,97 |
+| 35 | 168,85 | 290,93 | 166,17 | 288,45 |
+| 36 | 172,12 | 299,41 | 169,44 | 296,93 |
+| 37 | 175,39 | 304,71 | 172,71 | 302,23 |
+| 38 | 180,84 | 313,29 | 178,16 | 310,82 |
+| 39 | 184,11 | 320,08 | 181,43 | 317,60 |
+| 40 | 189,56 | 328,77 | 186,88 | 326,29 |
+| 41 | 195,01 | 337,36 | 192,33 | 334,88 |
+| 42 | 199,37 | 345,73 | 196,69 | 343,25 |
+| 43 | 205,91 | 356,01 | 203,23 | 353,54 |
+| 44 | 209,18 | 363,01 | 206,50 | 360,53 |
+| 45 | 212,45 | 367,99 | 209,77 | 365,51 |
+| 46 | 218,99 | 378,38 | 216,31 | 375,90 |
+| 47 | 222,26 | 385,38 | 219,58 | 382,90 |
+| 48 | 225,53 | 390,46 | 222,85 | 387,99 |
+| 49 | 230,98 | 399,05 | 228,30 | 396,57 |
+| 50 | 234,25 | 405,94 | 231,57 | 403,46 |
+| 51 | 237,52 | 411,03 | 234,84 | 408,55 |
+| 52 | 242,97 | 419,61 | 240,29 | 417,14 |
+| 53 | 247,33 | 428,20 | 244,65 | 425,72 |
+| 54 | 250,60 | 433,29 | 247,92 | 430,81 |
+| 55 | 256,05 | 441,98 | 253,37 | 439,50 |
+| 56 | 260,41 | 450,56 | 257,73 | 448,09 |
+| 57 | 269,58 | 457,35 | 267,11 | 454,87 |
+| 58 | 273,72 | 464,24 | 271,25 | 461,76 |
+| 59 | 278,85 | 472,82 | 276,37 | 470,35 |
+| 60 | 281,79 | 477,91 | 279,31 | 475,44 |
+| 61 | 286,91 | 486,50 | 284,44 | 484,02 |
+| 62 | 289,96 | 491,59 | 287,49 | 489,11 |
+| 63 | 294,98 | 500,28 | 292,50 | 497,80 |
+| 64 | 299,12 | 507,17 | 296,64 | 504,69 |
+| 65 | 302,17 | 512,26 | 299,70 | 509,78 |
+| 66 | 307,19 | 520,84 | 304,71 | 518,37 |
+| 67 | 311,22 | 527,63 | 308,74 | 525,15 |
+| 68 | 314,38 | 532,82 | 311,90 | 530,34 |
+| 69 | 319,39 | 541,41 | 316,92 | 538,93 |
+| 70 | 325,39 | 551,58 | 322,91 | 549,11 |
+| 71 | 325,39 | 551,58 | 322,91 | 549,11 |
+| 72 | 330,51 | 560,27 | 328,04 | 557,80 |
+| 73 | 335,64 | 568,86 | 333,16 | 566,38 |
+| 74 | 338,58 | 573,95 | 336,10 | 571,47 |
+| 75 | 343,70 | 582,53 | 341,23 | 580,06 |
+| 76 | 343,70 | 582,53 | 341,23 | 580,06 |
+| 77 | 343,70 | 582,53 | 341,23 | 580,06 |
+| 78 | 345,77 | 585,93 | 343,30 | 583,45 |
+| 79 | 347,84 | 589,42 | 345,37 | 586,95 |
+| 80 | 347,84 | 589,42 | 345,37 | 586,95 |
+| 81 | 347,84 | 589,42 | 345,37 | 586,95 |
+| 82 | 347,84 | 589,64 | 345,37 | 587,16 |
+| 83 | 347,84 | 589,64 | 345,37 | 587,16 |
+| 84 | 347,84 | 589,64 | 345,37 | 587,16 |
+| 85 | 347,84 | 589,64 | 345,37 | 587,16 |
+| 86 | 347,84 | 589,64 | 345,37 | 587,16 |
+| 87 | 347,84 | 589,64 | 345,37 | 587,16 |
+| 88 | 347,84 | 589,64 | 345,37 | 587,16 |
+| 89 | 347,84 | 589,64 | 345,37 | 587,16 |
+| 90 | 347,84 | 589,64 | 345,37 | 587,16 |
+| 91 | 347,84 | 589,64 | 345,37 | 587,16 |
+| 92 | 347,84 | 589,64 | 345,37 | 587,16 |
+| 93 | 347,84 | 589,64 | 345,37 | 587,16 |
+| 94 | 347,84 | 589,64 | 345,37 | 587,16 |
 
 ## Bijlage 1a. bij de Verplaatsingskostenregeling defensie
 
@@ -841,7 +673,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 1a. Wijziging persoonlijk werkrooster
 
-Dit onderdeel is nog niet inwerking getreden
+1. Op verzoek van de defensieambtenaar kan het persoonlijk werkrooster eenmaal per vier weken worden gewijzigd.
+
+2. Bij wijziging van het persoonlijk werkrooster gaat de aanspraak op de tegemoetkoming op grond van de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=13&z=2023-10-03&g=2023-10-03), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=14&z=2023-10-03&g=2023-10-03) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=17&z=2023-10-03&g=2023-10-03) in op de door de defensieambtenaar aangegeven datum van ingang roosterwijziging.
 
 ## Bijlage 1b. bij de Verplaatsingskostenregeling defensie
 
@@ -892,273 +726,262 @@ Dit onderdeel is nog niet inwerking getreden
 
 ## Bijlage 3. bij de Verplaatsingskostenregeling defensie
 
-Tabel H: van toepassing indien viermaal per vier weken aanspraak bestaat op een tegemoetkoming in de reiskosten.
+Tabel O: van toepassing indien achtmaal per vier weken aanspraak bestaat op een tegemoetkoming in de reiskosten.
 
-Tabel I: van toepassing indien viermaal per vier weken aanspraak bestaat op een tegemoetkoming in de reiskosten per trein in de eerste klasse.
+| Enkele reisafstand in kilometers | O |
+| --- | --- |
+| 1 | € 2,71 |
+| 2 | € 5,42 |
+| 3 | € 8,13 |
+| 4 | € 10,84 |
+| 5 | € 13,55 |
+| 6 | € 16,26 |
+| 7 | € 18,97 |
+| 8 | € 21,69 |
+| 9 | € 24,40 |
+| 10 | € 27,11 |
+| 11 | € 29,82 |
+| 12 | € 32,53 |
+| 13 | € 35,24 |
+| 14 | € 37,95 |
+| 15 | € 40,66 |
+| 16 | € 43,37 |
+| 17 | € 46,08 |
+| 18 | € 48,79 |
+| 19 | € 51,50 |
+| 20 | € 54,21 |
+| 21 | € 56,92 |
+| 22 | € 59,63 |
+| 23 | € 62,35 |
+| 24 | € 65,06 |
+| 25 | € 67,77 |
+| 26 | € 70,48 |
+| 27 | € 73,19 |
+| 28 | € 75,90 |
+| 29 | € 78,61 |
+| 30 | € 81,32 |
+| 31 | € 84,03 |
+| 32 | € 86,74 |
+| 33 | € 89,45 |
+| 34 | € 92,16 |
+| 35 | € 94,87 |
+| 36 | € 97,58 |
+| 37 | € 100,29 |
+| 38 | € 103,01 |
+| 39 | € 105,72 |
+| 40 | € 108,43 |
+| 41 | € 111,14 |
+| 42 | € 113,85 |
+| 43 | € 116,56 |
+| 44 | € 119,27 |
+| 45 | € 121,98 |
+| 46 | € 124,69 |
+| 47 | € 127,40 |
+| 48 | € 130,11 |
+| 49 | € 132,82 |
+| 50 | € 135,53 |
+| 51 | € 138,24 |
+| 52 | € 140,95 |
+| 53 | € 143,67 |
+| 54 | € 146,38 |
+| 55 | € 149,09 |
+| 56 | € 151,80 |
+| 57 | € 154,51 |
+| 58 | € 157,22 |
+| 59 | € 159,93 |
+| 60 | € 162,64 |
+| 61 | € 165,35 |
+| 62 | € 168,06 |
+| 63 | € 170,77 |
+| 64 | € 173,48 |
+| 65 | € 176,19 |
+| 66 | € 178,90 |
+| 67 | € 181,61 |
+| 68 | € 184,33 |
+| 69 | € 187,04 |
+| 70 | € 189,75 |
+| 71 | € 192,46 |
+| 72 | € 195,17 |
+| 73 | € 197,88 |
+| 74 | € 200,59 |
+| 75 | € 203,30 |
+| 76 | € 206,01 |
+| 77 | € 208,72 |
+| 78 | € 211,43 |
+| 79 | € 214,14 |
+| 80 | € 216,85 |
+| 81 | € 219,56 |
+| 82 | € 222,27 |
+| 83 | € 224,99 |
+| 84 | € 227,70 |
+| 85 | € 230,41 |
+| 86 | € 233,12 |
+| 87 | € 235,83 |
+| 88 | € 238,54 |
+| 89 | € 241,25 |
+| 90 | € 243,96 |
+| 91 | € 246,67 |
+| 92 | € 249,38 |
+| 93 | € 252,09 |
+| 94 | € 254,80 |
+| 95 | € 257,51 |
+| 96 | € 260,22 |
+| 97 | € 262,93 |
+| 98 | € 265,65 |
+| 99 | € 268,36 |
+| 100 | € 271,07 |
+| 101 | € 273,78 |
+| 102 | € 276,49 |
+| 103 | € 279,20 |
+| 104 | € 281,91 |
+| 105 | € 284,62 |
+| 106 | € 287,33 |
+| 107 | € 290,04 |
+| 108 | € 292,75 |
+| 109 | € 295,46 |
+| 110 | € 298,17 |
+| 111 | € 300,88 |
+| 112 | € 303,59 |
+| 113 | € 306,31 |
+| 114 | € 309,02 |
+| 115 | € 311,73 |
+| 116 | € 314,44 |
+| 117 | € 317,15 |
+| 118 | € 319,86 |
+| 119 | € 322,57 |
+| 120 | € 325,28 |
+| 121 | € 327,99 |
+| 122 | € 330,70 |
+| 123 | € 333,41 |
+| 124 | € 336,12 |
+| 125 | € 338,83 |
+| 126 | € 341,54 |
+| 127 | € 344,25 |
+| 128 | € 346,97 |
+| 129 | € 349,68 |
+| 130 | € 352,39 |
+| 131 | € 355,10 |
+| 132 | € 357,81 |
+| 133 | € 360,52 |
+| 134 | € 363,23 |
+| 135 | € 365,94 |
+| 136 | € 368,65 |
+| 137 | € 371,36 |
+| 138 | € 374,07 |
+| 139 | € 376,78 |
+| 140 | € 379,49 |
+| 141 | € 382,20 |
+| 142 | € 384,91 |
+| 143 | € 387,63 |
+| 144 | € 390,34 |
+| 145 | € 393,05 |
+| 146 | € 395,76 |
+| 147 | € 398,47 |
+| 148 | € 401,18 |
+| 149 | € 403,89 |
+| 150 | € 406,60 |
+| 151 | € 409,31 |
+| 152 | € 412,02 |
+| 153 | € 414,73 |
+| 154 | € 417,44 |
+| 155 | € 420,15 |
+| 156 | € 422,86 |
+| 157 | € 425,57 |
+| 158 | € 428,29 |
+| 159 | € 431,00 |
+| 160 | € 433,71 |
+| 161 | € 436,42 |
+| 162 | € 439,13 |
+| 163 | € 441,84 |
+| 164 | € 444,55 |
+| 165 | € 447,26 |
+| 166 | € 449,97 |
+| 167 | € 452,68 |
+| 168 | € 455,39 |
+| 169 | € 458,10 |
+| 170 | € 460,81 |
+| 171 | € 463,52 |
+| 172 | € 466,23 |
+| 173 | € 468,95 |
+| 174 | € 471,66 |
+| 175 | € 474,37 |
+| 176 | € 477,08 |
+| 177 | € 479,79 |
+| 178 | € 482,50 |
+| 179 | € 485,21 |
+| 180 | € 487,92 |
+| 181 | € 490,63 |
+| 182 | € 493,34 |
+| 183 | € 496,05 |
+| 184 | € 498,76 |
+| 185 | € 501,47 |
+| 186 | € 504,18 |
+| 187 | € 506,89 |
+| 189 | € 512,32 |
+| 190 | € 515,03 |
+| 191 | € 517,74 |
+| 192 | € 520,45 |
+| 193 | € 523,16 |
+| 194 | € 525,87 |
+| 195 | € 528,58 |
+| 196 | € 531,29 |
+| 197 | € 534,00 |
+| 198 | € 536,71 |
+| 199 | € 539,42 |
+| 200 | € 542,13 |
+| 201 | € 544,84 |
+| 202 | € 547,55 |
+| 203 | € 550,27 |
+| 204 | € 552,98 |
+| 205 | € 555,69 |
+| 206 | € 558,40 |
+| 207 | € 561,11 |
+| 208 | € 563,82 |
+| 209 | € 566,53 |
+| 210 | € 569,24 |
+| 211 | € 571,95 |
+| 212 | € 574,66 |
+| 213 | € 577,37 |
+| 214 | € 580,08 |
+| 215 | € 582,79 |
+| 216 | € 585,50 |
+| 217 | € 588,21 |
+| 218 | € 590,93 |
+| 219 | € 593,64 |
+| 220 | € 596,35 |
+| 221 | € 599,06 |
+| 222 | € 601,77 |
+| 223 | € 604,48 |
+| 224 | € 607,19 |
+| 225 | € 609,90 |
+| 226 | € 612,61 |
+| 227 | € 615,32 |
+| 228 | € 618,03 |
+| 229 | € 620,74 |
+| 230 | € 623,45 |
+| 231 | € 626,16 |
+| 232 | € 628,87 |
+| 233 | € 631,59 |
+| 234 | € 634,30 |
+| 235 | € 637,01 |
+| 236 | € 639,72 |
+| 237 | € 642,43 |
+| 238 | € 645,14 |
+| 239 | € 647,85 |
+| 240 | € 650,56 |
+| 241 | € 653,27 |
+| 242 | € 655,98 |
+| 243 | € 658,69 |
+| 244 | € 661,40 |
+| 245 | € 664,11 |
+| 246 | € 666,82 |
+| 247 | € 669,53 |
+| 248 | € 672,25 |
+| 249 | € 674,96 |
+| 250 | € 677,67 |
+| 251 | € 680,38 |
 
-Tabel J: van toepassing indien eenmaal per twee weken aanspraak bestaat op een tegemoetkoming in de reiskosten.
-
-Tabel K: van toepassing indien eenmaal per twee weken aanspraak bestaat op een tegemoetkoming in de reiskosten per trein in de eerste klasse.
-
-Tabel L: van toepassing indien eenmaal per vier weken aanspraak bestaat op een tegemoetkoming in de reiskosten.
-
-Tabel M: van toepassing indien eenmaal per vier weken aanspraak bestaat op een tegemoetkoming in de reiskosten per trein in de eerste klasse.
-
-| enkele reisafstand in kilometers | H | I | J | K | L | M |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1 | 54,53 | 69,09 | 27,26 | 34,54 | 13,63 | 17,27 |
-| 2 | 54,53 | 69,09 | 27,26 | 34,54 | 13,63 | 17,27 |
-| 3 | 54,53 | 69,09 | 27,26 | 34,54 | 13,63 | 17,27 |
-| 4 | 54,53 | 69,09 | 27,26 | 34,54 | 13,63 | 17,27 |
-| 5 | 54,53 | 69,09 | 27,26 | 34,54 | 13,63 | 17,27 |
-| 6 | 54,53 | 69,09 | 27,26 | 34,54 | 13,63 | 17,27 |
-| 7 | 54,53 | 69,09 | 27,26 | 34,54 | 13,63 | 17,27 |
-| 8 | 54,53 | 69,09 | 27,26 | 34,54 | 13,63 | 17,27 |
-| 9 | 54,53 | 69,09 | 27,26 | 34,54 | 13,63 | 17,27 |
-| 10 | 54,53 | 69,09 | 27,26 | 34,54 | 13,63 | 17,27 |
-| 11 | 54,53 | 69,09 | 27,26 | 34,54 | 13,63 | 17,27 |
-| 12 | 56,93 | 73,17 | 28,46 | 36,58 | 14,23 | 18,29 |
-| 13 | 58,53 | 75,89 | 29,26 | 37,94 | 14,63 | 18,97 |
-| 14 | 60,13 | 78,61 | 30,06 | 39,30 | 15,03 | 19,65 |
-| 15 | 61,73 | 81,33 | 30,86 | 40,66 | 15,43 | 20,33 |
-| 16 | 63,33 | 84,05 | 31,66 | 42,02 | 15,83 | 21,01 |
-| 17 | 64,93 | 86,77 | 32,46 | 43,38 | 16,23 | 21,69 |
-| 18 | 66,53 | 89,49 | 33,26 | 44,74 | 16,63 | 22,37 |
-| 19 | 68,13 | 92,21 | 34,06 | 46,10 | 17,03 | 23,05 |
-| 20 | 69,73 | 94,93 | 34,86 | 47,46 | 17,43 | 23,73 |
-| 21 | 71,33 | 97,65 | 35,66 | 48,82 | 17,83 | 24,41 |
-| 22 | 72,93 | 100,37 | 36,46 | 50,18 | 18,23 | 25,09 |
-| 23 | 74,53 | 103,09 | 37,26 | 51,54 | 18,63 | 25,77 |
-| 24 | 76,13 | 105,81 | 38,06 | 52,90 | 19,03 | 26,45 |
-| 25 | 77,73 | 108,53 | 38,86 | 54,26 | 19,43 | 27,13 |
-| 26 | 79,33 | 111,25 | 39,66 | 55,62 | 19,83 | 27,81 |
-| 27 | 80,93 | 113,97 | 40,46 | 56,98 | 20,23 | 28,49 |
-| 28 | 82,53 | 116,69 | 41,26 | 58,34 | 20,63 | 29,17 |
-| 29 | 84,13 | 119,41 | 42,06 | 59,70 | 21,03 | 29,85 |
-| 30 | 85,73 | 122,13 | 42,86 | 61,06 | 21,43 | 30,53 |
-| 31 | 87,33 | 124,85 | 43,66 | 62,42 | 21,83 | 31,21 |
-| 32 | 88,93 | 127,57 | 44,46 | 63,78 | 22,23 | 31,89 |
-| 33 | 90,53 | 130,29 | 45,26 | 65,14 | 22,63 | 32,57 |
-| 34 | 92,13 | 133,01 | 46,06 | 66,50 | 23,03 | 33,25 |
-| 35 | 93,73 | 135,73 | 46,86 | 67,86 | 23,43 | 33,93 |
-| 36 | 95,33 | 138,45 | 47,66 | 69,22 | 23,83 | 34,61 |
-| 37 | 96,93 | 141,17 | 48,46 | 70,58 | 24,23 | 35,29 |
-| 38 | 98,53 | 143,89 | 49,26 | 71,94 | 24,63 | 35,97 |
-| 39 | 100,13 | 146,61 | 50,06 | 73,30 | 25,03 | 36,65 |
-| 40 | 101,73 | 149,33 | 50,86 | 74,66 | 25,43 | 37,33 |
-| 41 | 103,33 | 152,05 | 51,66 | 76,02 | 25,83 | 38,01 |
-| 42 | 104,13 | 153,41 | 52,06 | 76,70 | 26,03 | 38,35 |
-| 43 | 105,73 | 156,13 | 52,86 | 78,06 | 26,43 | 39,03 |
-| 44 | 107,33 | 158,85 | 53,66 | 79,42 | 26,83 | 39,71 |
-| 45 | 108,93 | 161,57 | 54,46 | 80,78 | 27,23 | 40,39 |
-| 46 | 110,53 | 164,29 | 55,26 | 82,14 | 27,63 | 41,07 |
-| 47 | 112,13 | 167,01 | 56,06 | 83,50 | 28,03 | 41,75 |
-| 48 | 113,73 | 169,73 | 56,86 | 84,86 | 28,43 | 42,43 |
-| 49 | 115,33 | 172,45 | 57,66 | 86,22 | 28,83 | 43,11 |
-| 50 | 116,93 | 175,17 | 58,46 | 87,58 | 29,23 | 43,79 |
-| 51 | 118,53 | 177,89 | 59,26 | 88,94 | 29,63 | 44,47 |
-| 52 | 120,13 | 180,61 | 60,06 | 90,30 | 30,03 | 45,15 |
-| 53 | 121,73 | 183,33 | 60,86 | 91,66 | 30,43 | 45,83 |
-| 54 | 123,33 | 186,05 | 61,66 | 93,02 | 30,83 | 46,51 |
-| 55 | 124,93 | 188,77 | 62,46 | 94,38 | 31,23 | 47,19 |
-| 56 | 126,53 | 191,49 | 63,26 | 95,74 | 31,63 | 47,87 |
-| 57 | 128,13 | 194,21 | 64,06 | 97,10 | 32,03 | 48,55 |
-| 58 | 129,73 | 196,93 | 64,86 | 98,46 | 32,43 | 49,23 |
-| 59 | 131,33 | 199,65 | 65,66 | 99,82 | 32,83 | 49,91 |
-| 60 | 132,93 | 202,37 | 66,46 | 101,18 | 33,23 | 50,59 |
-| 61 | 134,53 | 205,09 | 67,26 | 102,54 | 33,63 | 51,27 |
-| 62 | 136,13 | 207,81 | 68,06 | 103,90 | 34,03 | 51,95 |
-| 63 | 137,73 | 210,53 | 68,86 | 105,26 | 34,43 | 52,63 |
-| 64 | 139,33 | 213,25 | 69,66 | 106,62 | 34,83 | 53,31 |
-| 65 | 140,93 | 215,97 | 70,46 | 107,98 | 35,23 | 53,99 |
-| 66 | 142,53 | 218,69 | 71,26 | 109,34 | 35,63 | 54,67 |
-| 67 | 144,13 | 221,41 | 72,06 | 110,70 | 36,03 | 55,35 |
-| 68 | 145,73 | 224,13 | 72,86 | 112,06 | 36,43 | 56,03 |
-| 69 | 148,13 | 228,21 | 74,06 | 114,10 | 37,03 | 57,05 |
-| 70 | 149,73 | 230,93 | 74,86 | 115,46 | 37,43 | 57,73 |
-| 71 | 151,33 | 233,65 | 75,66 | 116,82 | 37,83 | 58,41 |
-| 72 | 152,13 | 235,01 | 76,06 | 117,50 | 38,03 | 58,75 |
-| 73 | 152,93 | 236,37 | 76,46 | 118,18 | 38,23 | 59,09 |
-| 74 | 154,53 | 239,09 | 77,26 | 119,54 | 38,63 | 59,77 |
-| 75 | 156,13 | 241,81 | 78,06 | 120,90 | 39,03 | 60,45 |
-| 76 | 157,73 | 244,53 | 78,86 | 122,26 | 39,43 | 61,13 |
-| 77 | 159,33 | 247,25 | 79,66 | 123,62 | 39,83 | 61,81 |
-| 78 | 160,93 | 249,97 | 80,46 | 124,98 | 40,23 | 62,49 |
-| 79 | 162,53 | 252,69 | 81,26 | 126,34 | 40,63 | 63,17 |
-| 80 | 164,13 | 255,41 | 82,06 | 127,70 | 41,03 | 63,85 |
-| 81 | 165,73 | 258,13 | 82,86 | 129,06 | 41,43 | 64,53 |
-| 82 | 167,33 | 260,85 | 83,66 | 130,42 | 41,83 | 65,21 |
-| 83 | 168,93 | 263,57 | 84,46 | 131,78 | 42,23 | 65,89 |
-| 84 | 169,73 | 264,93 | 84,86 | 132,46 | 42,43 | 66,23 |
-| 85 | 171,33 | 267,65 | 85,66 | 133,82 | 42,83 | 66,91 |
-| 86 | 172,93 | 270,37 | 86,46 | 135,18 | 43,23 | 67,59 |
-| 87 | 173,73 | 271,73 | 86,86 | 135,86 | 43,43 | 67,93 |
-| 88 | 175,33 | 274,45 | 87,66 | 137,22 | 43,83 | 68,61 |
-| 89 | 176,93 | 277,17 | 88,46 | 138,58 | 44,23 | 69,29 |
-| 90 | 177,73 | 278,53 | 88,86 | 139,26 | 44,43 | 69,63 |
-| 91 | 179,33 | 281,25 | 89,66 | 140,62 | 44,83 | 70,31 |
-| 92 | 180,93 | 283,97 | 90,46 | 141,98 | 45,23 | 70,99 |
-| 93 | 181,73 | 285,33 | 90,86 | 142,66 | 45,43 | 71,33 |
-| 94 | 183,33 | 288,05 | 91,66 | 144,02 | 45,83 | 72,01 |
-| 95 | 184,13 | 289,41 | 92,06 | 144,70 | 46,03 | 72,35 |
-| 96 | 185,73 | 292,13 | 92,86 | 146,06 | 46,43 | 73,03 |
-| 97 | 186,53 | 293,49 | 93,26 | 146,74 | 46,63 | 73,37 |
-| 98 | 188,13 | 296,21 | 94,06 | 148,10 | 47,03 | 74,05 |
-| 99 | 188,93 | 297,57 | 94,46 | 148,78 | 47,23 | 74,39 |
-| 100 | 190,53 | 300,29 | 95,26 | 150,14 | 47,63 | 75,07 |
-| 101 | 191,33 | 301,65 | 95,66 | 150,82 | 47,83 | 75,41 |
-| 102 | 192,93 | 304,37 | 96,46 | 152,18 | 48,23 | 76,09 |
-| 103 | 193,73 | 305,73 | 96,86 | 152,86 | 48,43 | 76,43 |
-| 104 | 195,33 | 308,45 | 97,66 | 154,22 | 48,83 | 77,11 |
-| 105 | 196,13 | 309,81 | 98,06 | 154,90 | 49,03 | 77,45 |
-| 106 | 196,93 | 311,17 | 98,46 | 155,58 | 49,23 | 77,79 |
-| 107 | 198,53 | 313,89 | 99,26 | 156,94 | 49,63 | 78,47 |
-| 108 | 199,33 | 315,25 | 99,66 | 157,62 | 49,83 | 78,81 |
-| 109 | 200,93 | 317,97 | 100,46 | 158,98 | 50,23 | 79,49 |
-| 110 | 201,73 | 319,33 | 100,86 | 159,66 | 50,43 | 79,83 |
-| 111 | 202,53 | 320,69 | 101,26 | 160,34 | 50,63 | 80,17 |
-| 112 | 204,13 | 323,41 | 102,06 | 161,70 | 51,03 | 80,85 |
-| 113 | 204,93 | 324,77 | 102,46 | 162,38 | 51,23 | 81,19 |
-| 114 | 206,53 | 327,49 | 103,26 | 163,74 | 51,63 | 81,87 |
-| 115 | 207,33 | 328,85 | 103,66 | 164,42 | 51,83 | 82,21 |
-| 116 | 208,13 | 330,21 | 104,06 | 165,10 | 52,03 | 82,55 |
-| 117 | 209,73 | 332,93 | 104,86 | 166,46 | 52,43 | 83,23 |
-| 118 | 210,53 | 334,29 | 105,26 | 167,14 | 52,63 | 83,57 |
-| 119 | 211,33 | 335,65 | 105,66 | 167,82 | 52,83 | 83,91 |
-| 120 | 212,93 | 338,37 | 106,46 | 169,18 | 53,23 | 84,59 |
-| 121 | 213,73 | 339,73 | 106,86 | 169,86 | 53,43 | 84,93 |
-| 122 | 215,33 | 342,45 | 107,66 | 171,22 | 53,83 | 85,61 |
-| 123 | 216,13 | 343,81 | 108,06 | 171,90 | 54,03 | 85,95 |
-| 124 | 216,93 | 345,17 | 108,46 | 172,58 | 54,23 | 86,29 |
-| 125 | 217,73 | 346,53 | 108,86 | 173,26 | 54,43 | 86,63 |
-| 126 | 218,53 | 347,89 | 109,26 | 173,94 | 54,63 | 86,97 |
-| 127 | 219,33 | 349,25 | 109,66 | 174,62 | 54,83 | 87,31 |
-| 128 | 219,33 | 349,25 | 109,66 | 174,62 | 54,83 | 87,31 |
-| 129 | 220,13 | 350,61 | 110,06 | 175,30 | 55,03 | 87,65 |
-| 130 | 220,93 | 351,97 | 110,46 | 175,98 | 55,23 | 87,99 |
-| 131 | 221,73 | 353,33 | 110,86 | 176,66 | 55,43 | 88,33 |
-| 132 | 222,53 | 354,69 | 111,26 | 177,34 | 55,63 | 88,67 |
-| 133 | 223,33 | 356,05 | 111,66 | 178,02 | 55,83 | 89,01 |
-| 134 | 224,13 | 357,41 | 112,06 | 178,70 | 56,03 | 89,35 |
-| 135 | 224,93 | 358,77 | 112,46 | 179,38 | 56,23 | 89,69 |
-| 136 | 225,73 | 360,13 | 112,86 | 180,06 | 56,43 | 90,03 |
-| 137 | 225,73 | 360,13 | 112,86 | 180,06 | 56,43 | 90,03 |
-| 138 | 226,53 | 361,49 | 113,26 | 180,74 | 56,63 | 90,37 |
-| 139 | 227,33 | 362,85 | 113,66 | 181,42 | 56,83 | 90,71 |
-| 140 | 228,13 | 364,21 | 114,06 | 182,10 | 57,03 | 91,05 |
-| 141 | 228,93 | 365,57 | 114,46 | 182,78 | 57,23 | 91,39 |
-| 142 | 229,73 | 366,93 | 114,86 | 183,46 | 57,43 | 91,73 |
-| 143 | 230,53 | 368,29 | 115,26 | 184,14 | 57,63 | 92,07 |
-| 144 | 231,33 | 369,65 | 115,66 | 184,82 | 57,83 | 92,41 |
-| 145 | 232,13 | 371,01 | 116,06 | 185,50 | 58,03 | 92,75 |
-| 146 | 232,13 | 371,01 | 116,06 | 185,50 | 58,03 | 92,75 |
-| 147 | 232,93 | 372,37 | 116,46 | 186,18 | 58,23 | 93,09 |
-| 148 | 233,73 | 373,73 | 116,86 | 186,86 | 58,43 | 93,43 |
-| 149 | 234,53 | 375,09 | 117,26 | 187,54 | 58,63 | 93,77 |
-| 150 | 235,33 | 376,45 | 117,66 | 188,22 | 58,83 | 94,11 |
-| 151 | 236,13 | 377,81 | 118,06 | 188,90 | 59,03 | 94,45 |
-| 152 | 236,93 | 379,17 | 118,46 | 189,58 | 59,23 | 94,79 |
-| 153 | 237,73 | 380,53 | 118,86 | 190,26 | 59,43 | 95,13 |
-| 154 | 238,53 | 381,89 | 119,26 | 190,94 | 59,63 | 95,47 |
-| 155 | 238,53 | 381,89 | 119,26 | 190,94 | 59,63 | 95,47 |
-| 156 | 239,33 | 383,25 | 119,66 | 191,62 | 59,83 | 95,81 |
-| 157 | 240,13 | 384,61 | 120,06 | 192,30 | 60,03 | 96,15 |
-| 158 | 240,93 | 385,97 | 120,46 | 192,98 | 60,23 | 96,49 |
-| 159 | 240,93 | 385,97 | 120,46 | 192,98 | 60,23 | 96,49 |
-| 160 | 241,73 | 387,33 | 120,86 | 193,66 | 60,43 | 96,83 |
-| 161 | 242,53 | 388,69 | 121,26 | 194,34 | 60,63 | 97,17 |
-| 162 | 243,33 | 390,05 | 121,66 | 195,02 | 60,83 | 97,51 |
-| 163 | 244,13 | 391,41 | 122,06 | 195,70 | 61,03 | 97,85 |
-| 164 | 244,13 | 391,41 | 122,06 | 195,70 | 61,03 | 97,85 |
-| 165 | 244,93 | 392,77 | 122,46 | 196,38 | 61,23 | 98,19 |
-| 166 | 245,73 | 394,13 | 122,86 | 197,06 | 61,43 | 98,53 |
-| 167 | 246,53 | 395,49 | 123,26 | 197,74 | 61,63 | 98,87 |
-| 168 | 247,33 | 396,85 | 123,66 | 198,42 | 61,83 | 99,21 |
-| 169 | 247,33 | 396,85 | 123,66 | 198,42 | 61,83 | 99,21 |
-| 170 | 248,13 | 398,21 | 124,06 | 199,10 | 62,03 | 99,55 |
-| 171 | 248,93 | 399,57 | 124,46 | 199,78 | 62,23 | 99,89 |
-| 172 | 249,73 | 400,93 | 124,86 | 200,46 | 62,43 | 100,23 |
-| 173 | 250,53 | 402,29 | 125,26 | 201,14 | 62,63 | 100,57 |
-| 174 | 250,53 | 402,29 | 125,26 | 201,14 | 62,63 | 100,57 |
-| 175 | 251,33 | 403,65 | 125,66 | 201,82 | 62,83 | 100,91 |
-| 176 | 252,13 | 405,01 | 126,06 | 202,50 | 63,03 | 101,25 |
-| 177 | 252,93 | 406,37 | 126,46 | 203,18 | 63,23 | 101,59 |
-| 178 | 253,73 | 407,73 | 126,86 | 203,86 | 63,43 | 101,93 |
-| 179 | 253,73 | 407,73 | 126,86 | 203,86 | 63,43 | 101,93 |
-| 180 | 254,53 | 409,09 | 127,26 | 204,54 | 63,63 | 102,27 |
-| 181 | 255,33 | 410,45 | 127,66 | 205,22 | 63,83 | 102,61 |
-| 182 | 256,13 | 411,81 | 128,06 | 205,90 | 64,03 | 102,95 |
-| 183 | 256,13 | 411,81 | 128,06 | 205,90 | 64,03 | 102,95 |
-| 184 | 256,93 | 413,17 | 128,46 | 206,58 | 64,23 | 103,29 |
-| 185 | 257,73 | 414,53 | 128,86 | 207,26 | 64,43 | 103,63 |
-| 186 | 258,53 | 415,89 | 129,26 | 207,94 | 64,63 | 103,97 |
-| 187 | 259,33 | 417,25 | 129,66 | 208,62 | 64,83 | 104,31 |
-| 188 | 259,33 | 417,25 | 129,66 | 208,62 | 64,83 | 104,31 |
-| 189 | 260,13 | 418,61 | 130,06 | 209,30 | 65,03 | 104,65 |
-| 190 | 260,93 | 419,97 | 130,46 | 209,98 | 65,23 | 104,99 |
-| 191 | 261,73 | 421,33 | 130,86 | 210,66 | 65,43 | 105,33 |
-| 192 | 262,53 | 422,69 | 131,26 | 211,34 | 65,63 | 105,67 |
-| 193 | 262,53 | 422,69 | 131,26 | 211,34 | 65,63 | 105,67 |
-| 194 | 263,33 | 424,05 | 131,66 | 212,02 | 65,83 | 106,01 |
-| 195 | 264,13 | 425,41 | 132,06 | 212,70 | 66,03 | 106,35 |
-| 196 | 264,93 | 426,77 | 132,46 | 213,38 | 66,23 | 106,69 |
-| 197 | 265,73 | 428,13 | 132,86 | 214,06 | 66,43 | 107,03 |
-| 198 | 265,73 | 428,13 | 132,86 | 214,06 | 66,43 | 107,03 |
-| 199 | 266,53 | 429,49 | 133,26 | 214,74 | 66,63 | 107,37 |
-| 200 | 267,33 | 430,85 | 133,66 | 215,42 | 66,83 | 107,71 |
-| 201 | 268,13 | 432,21 | 134,06 | 216,10 | 67,03 | 108,05 |
-| 202 | 268,93 | 433,57 | 134,46 | 216,78 | 67,23 | 108,39 |
-| 203 | 268,93 | 433,57 | 134,46 | 216,78 | 67,23 | 108,39 |
-| 204 | 268,93 | 433,57 | 134,46 | 216,78 | 67,23 | 108,39 |
-| 205 | 268,93 | 433,57 | 134,46 | 216,78 | 67,23 | 108,39 |
-| 206 | 268,93 | 433,57 | 134,46 | 216,78 | 67,23 | 108,39 |
-| 207 | 268,93 | 433,57 | 134,46 | 216,78 | 67,23 | 108,39 |
-| 208 | 268,93 | 433,57 | 134,46 | 216,78 | 67,23 | 108,39 |
-| 209 | 268,93 | 433,57 | 134,46 | 216,78 | 67,23 | 108,39 |
-| 210 | 268,93 | 433,57 | 134,46 | 216,78 | 67,23 | 108,39 |
-| 211 | 268,93 | 433,57 | 134,46 | 216,78 | 67,23 | 108,39 |
-| 212 | 268,93 | 433,57 | 134,46 | 216,78 | 67,23 | 108,39 |
-| 213 | 268,93 | 433,57 | 134,46 | 216,78 | 67,23 | 108,39 |
-| 214 | 268,93 | 433,57 | 134,46 | 216,78 | 67,23 | 108,39 |
-| 215 | 268,93 | 433,57 | 134,46 | 216,78 | 67,23 | 108,39 |
-| 216 | 268,93 | 433,57 | 134,46 | 216,78 | 67,23 | 108,39 |
-| 217 | 268,93 | 433,57 | 134,46 | 216,78 | 67,23 | 108,39 |
-| 218 | 268,93 | 433,57 | 134,46 | 216,78 | 67,23 | 108,39 |
-| 219 | 268,93 | 433,57 | 134,46 | 216,78 | 67,23 | 108,39 |
-| 220 | 268,93 | 433,57 | 134,46 | 216,78 | 67,23 | 108,39 |
-| 221 | 268,93 | 433,57 | 134,46 | 216,78 | 67,23 | 108,39 |
-| 222 | 268,93 | 433,57 | 134,46 | 216,78 | 67,23 | 108,39 |
-| 223 | 268,93 | 433,57 | 134,46 | 216,78 | 67,23 | 108,39 |
-| 224 | 268,93 | 433,57 | 134,46 | 216,78 | 67,23 | 108,39 |
-| 225 | 268,93 | 433,57 | 134,46 | 216,78 | 67,23 | 108,39 |
-| 226 | 268,93 | 433,57 | 134,46 | 216,78 | 67,23 | 108,39 |
-| 227 | 268,93 | 433,57 | 134,46 | 216,78 | 67,23 | 108,39 |
-| 228 | 268,93 | 433,57 | 134,46 | 216,78 | 67,23 | 108,39 |
-| 229 | 268,93 | 433,57 | 134,46 | 216,78 | 67,23 | 108,39 |
-| 230 | 268,93 | 433,57 | 134,46 | 216,78 | 67,23 | 108,39 |
-| 231 | 268,93 | 433,57 | 134,46 | 216,78 | 67,23 | 108,39 |
-| 232 | 268,93 | 433,57 | 134,46 | 216,78 | 67,23 | 108,39 |
-| 233 | 268,93 | 433,57 | 134,46 | 216,78 | 67,23 | 108,39 |
-| 234 | 268,93 | 433,57 | 134,46 | 216,78 | 67,23 | 108,39 |
-| 235 | 268,93 | 433,57 | 134,46 | 216,78 | 67,23 | 108,39 |
-| 236 | 268,93 | 433,57 | 134,46 | 216,78 | 67,23 | 108,39 |
-| 237 | 268,93 | 433,57 | 134,46 | 216,78 | 67,23 | 108,39 |
-| 238 | 268,93 | 433,57 | 134,46 | 216,78 | 67,23 | 108,39 |
-| 239 | 268,93 | 433,57 | 134,46 | 216,78 | 67,23 | 108,39 |
-| 240 | 268,93 | 433,57 | 134,46 | 216,78 | 67,23 | 108,39 |
-| 241 | 268,93 | 433,57 | 134,46 | 216,78 | 67,23 | 108,39 |
-| 242 | 268,93 | 433,57 | 134,46 | 216,78 | 67,23 | 108,39 |
-| 243 | 268,93 | 433,57 | 134,46 | 216,78 | 67,23 | 108,39 |
-| 244 | 268,93 | 433,57 | 134,46 | 216,78 | 67,23 | 108,39 |
-| 245 | 268,93 | 433,57 | 134,46 | 216,78 | 67,23 | 108,39 |
-| 246 | 268,93 | 433,57 | 134,46 | 216,78 | 67,23 | 108,39 |
-| 247 | 268,93 | 433,57 | 134,46 | 216,78 | 67,23 | 108,39 |
-| 248 | 268,93 | 433,57 | 134,46 | 216,78 | 67,23 | 108,39 |
-| 249 | 268,93 | 433,57 | 134,46 | 216,78 | 67,23 | 108,39 |
-| 250 | 268,93 | 433,57 | 134,46 | 216,78 | 67,23 | 108,39 |
-| 251 | 268,93 | 433,57 | 134,46 | 216,78 | 67,23 | 108,39 |
-
-Voor afstanden boven de 251 km worden de bedragen volgens de volgende formule berekend: maximum tabelbedrag + ((maximum tabelbedrag / maximum tabelafstand) * (enkele reisafstand – maximum tabelafstand)).
+**Voor de afstanden boven de 250 km worden de bedragen volgens de formule berekend: maximum tabelbedrag + ((maximum tabelbedrag / maximum tabelafstand * (enkele reisafstand – maximum tabelafstand)).**
 
 ## Bijlage 4. bij de Verplaatsingskostenregeling defensie
 
