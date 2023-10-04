@@ -4,7 +4,7 @@ identifier: "BWBR0017707"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2023-09-01"
+last_updated: "2023-10-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017707"
 soort: "ministeriele-regeling"
@@ -48,23 +48,11 @@ Treedt in werking op het tijdstip waarop het Besluit spoorverkeer in werking tre
 
 In deze regeling wordt verstaan onder:
 
-- ADOB: automatische dubbele overwegbomen;
-
-- AHOB: automatische halve overwegbomen;
-
-- AKI: automatische knipperlichtinstallatie;
-
-- AOB: automatische overpadbomen;
-
 - besluit: [Besluit spoorverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0017624);
 
 - ETCS: European Train Control System;
 
-- ETCS-cabinesein: sein, getoond op de ETCS-bestuurdersinterface, bedoeld in paragraaf 4.3 van de bijlage behorende bij beschikking nr. 2006/679/EG van de Commissie van de Europese Gemeenschappen van 28 maart 2006 betreffende de technische specificaties inzake interoperabiliteit van het subsysteem ‘Besturing en Seingeving’ van het conventionele trans-Europese spoorwegsysteem (PbEU L 284) dan wel op de bestuurdersinterface, bedoeld in paragraaf 4.3 van de bijlage behorende bij beschikking nr. 2006/860/EG van de Commissie van de Europese Gemeenschappen van 7 november 2006 betreffende de technische specificaties inzake interoperabiliteit van het subsysteem ‘Besturing en Seingeving’ van het trans-Europees hogesnelheidsspoorwegsysteem en tot wijziging van bijlage A bij Beschikking 2006/679/EG betreffende de technische specificaties inzake interoperabiliteit van het subsysteem ‘Besturing en Seingeving’ van het conventionele trans-Europese spoorwegsysteem (PbEU L 342);
-
 - hoofdsein: lichtsein dat rood licht kan uitstralen;
-
-- krachtvoertuig: spoorvoertuig met eigen voortbewegingsinrichting;
 
 - lichtsein: vast sein dat groen, geel, rood of wit licht kan uitstralen;
 
@@ -74,13 +62,9 @@ In deze regeling wordt verstaan onder:
 
 - perronfase: opdeling van een spoor langs een perron door middel van letters;
 
-- rijtuig: spoorvoertuig hoofdzakelijk bestemd voor het vervoer van personen, zonder eigen voortbewegingsinrichting;
-
 - vast sein: niet verplaatsbaar sein;
 
-- voorsein: lichtsein dat aan een hoofdsein of bord met betekenis *stop* voorafgaat en geen rood licht kan uitstralen;
-
-- wagen: spoorvoertuig zonder eigen voortbewegingsinrichting, bestemd voor het vervoer van goederen.
+- voorsein: lichtsein dat aan een hoofdsein of bord met betekenis *stop* voorafgaat en geen rood licht kan uitstralen.
 
 ### Hoofdstuk 2. Remvoorschriften
 
@@ -198,9 +182,7 @@ Vervallen
 
 ##### Artikel 24
 
-1. De aard, uitvoering en betekenis van de seinen anders dan ETCS-cabineseinen zijn opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=4&z=2023-09-01&g=2023-09-01).
-
-2. In aanvulling op aanhangsel A van de TSI Exploitatie en verkeersleiding is het in de punten 5.1.6 en 5.31.2 van het document, genoemd in dat aanhangsel, met betrekking tot het ETCS niveau 1 met seinen bepaalde van overeenkomstige toepassing op het ETCS niveau 2 met seinen.
+De aard, uitvoering en betekenis van de seinen anders dan ETCS-cabineseinen zijn opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=4&z=2023-10-04&g=2023-10-04).
 
 #### § 2. Plaatsing van seinen
 
@@ -238,9 +220,9 @@ Vervallen
 
 ##### Artikel 28
 
-1. Tussen een wissel en een daarvoor ingevolge [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=3&paragraaf=2&artikel=25&z=2023-09-01&g=2023-09-01), eerste lid, geplaatst sein bestaat een zodanig verband dat als dit sein voorbijrijden toestaat, het wissel niet kan worden omgelegd en de juiste stand van de tongen verzekerd is.
+1. Tussen een wissel en een daarvoor ingevolge [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=3&paragraaf=2&artikel=25&z=2023-10-04&g=2023-10-04), eerste lid, geplaatst sein bestaat een zodanig verband dat als dit sein voorbijrijden toestaat, het wissel niet kan worden omgelegd en de juiste stand van de tongen verzekerd is.
 
-2. Tussen een beweegbare brug en een daarvoor ingevolge [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=3&paragraaf=2&artikel=25&z=2023-09-01&g=2023-09-01), eerste lid, geplaatst sein bestaat een zodanig verband dat als dit sein voorbijrijden toestaat, de brug in de juiste stand is vastgelegd.
+2. Tussen een beweegbare brug en een daarvoor ingevolge [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=3&paragraaf=2&artikel=25&z=2023-10-04&g=2023-10-04), eerste lid, geplaatst sein bestaat een zodanig verband dat als dit sein voorbijrijden toestaat, de brug in de juiste stand is vastgelegd.
 
 3. De Minister kan ontheffing verlenen van het bepaalde in het eerste lid.
 
@@ -260,9 +242,9 @@ Vervallen
 
 ##### Artikel 31
 
-1. Een door een lichtsein of een ETCS-cabinesein gegeven gebod of toestemming geldt vanaf dit sein totdat de trein het volgende sein heeft bereikt of tot een ander ETCS-cabinesein wordt getoond. Daarbij worden geboden of toestemmingen van de specifieke snelheidsborden, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=4&z=2023-09-01&g=2023-09-01), in acht genomen.
+1. Een door een lichtsein of een ETCS-cabinesein gegeven gebod of toestemming geldt vanaf dit sein totdat de trein het volgende sein heeft bereikt of tot een ander ETCS-cabinesein wordt getoond. Daarbij worden geboden of toestemmingen van de specifieke snelheidsborden, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=4&z=2023-10-04&g=2023-10-04), in acht genomen.
 
-2. Een door lichtsein nummer 214 a/b of bord nummer 317, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=4&z=2023-09-01&g=2023-09-01), gegeven toestemming geldt tot aan het eerstvolgende hoofdsein.
+2. Een door lichtsein nummer 214 a/b of bord nummer 317, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=4&z=2023-10-04&g=2023-10-04), gegeven toestemming geldt tot aan het eerstvolgende hoofdsein.
 
 3. Bij gebruik van een hoofdspoorweg geldt in afwijking van het tweede lid, een in dat lid bedoelde toestemming tot het tijdstip waarop een ETCS-cabinesein wordt getoond indien dat tijdstip voor het tijdstip van het passeren van het eerstvolgende hoofdsein is gelegen.
 
@@ -278,9 +260,9 @@ Vervallen
 
 5. Onverminderd het tweede lid mag de snelheid worden verhoogd naar een door een specifiek snelheidsbord aangegeven snelheid hoger dan 40 kilometer per uur, indien het voorafgaande lichtsein groen licht uitstraalde.
 
-6. De door een ETCS-cabinesein aangegeven toegestane snelheid treedt, bij gebruik van een hoofdspoorweg met een spoorvoertuig als bedoeld in het derde lid, indien in de ETCS FS-modus wordt gereden, in de plaats van de aangegeven toegestane snelheden door de in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=4&z=2023-09-01&g=2023-09-01) opgenomen seinen nummers 201 tot en met 212 a/b, nummers 217 tot en met 219 en nummers 313 tot en met 316.
+6. De door een ETCS-cabinesein aangegeven toegestane snelheid treedt, bij gebruik van een hoofdspoorweg met een spoorvoertuig als bedoeld in het derde lid, indien in de ETCS FS-modus wordt gereden, in de plaats van de aangegeven toegestane snelheden door de in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=4&z=2023-10-04&g=2023-10-04) opgenomen seinen nummers 201 tot en met 212 a/b, nummers 217 tot en met 219 en nummers 313 tot en met 316.
 
-7. De op basis van het zesde lid geldende toegestane snelheid, geldt tot het tijdstip waarop het in punt 6.10 van het document, genoemd in aanhangsel A van de TSI Exploitatie en verkeersleiding bedoelde signaal is getoond of een daarmee overkomend bericht is ontvangen en één of meer van de in het zesde lid genoemde seinen wordt gepasseerd.
+7. De op basis van het zesde lid geldende toegestane snelheid, geldt tot het tijdstip waarop het in punt 6.11.2 van het document, genoemd in aanhangsel A van de TSI Exploitatie en verkeersleiding bedoelde signaal is getoond of een daarmee overkomend bericht is ontvangen en één of meer van de in het zesde lid genoemde seinen wordt gepasseerd.
 
 #### § 6. Het passeren van rode seinen
 
@@ -288,29 +270,29 @@ Vervallen
 
 1. De trein stopt zodra in een hoofdsein, met uitzondering van een P-sein, gedoofd of onjuist licht wordt waargenomen en:
 
-- a. sprake is van een aanwijzing stoptonend sein als bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=4&artikel=36&z=2023-09-01&g=2023-09-01);
+- a. er geen toestemming is om een stoptonend sein te passeren;
 
-- b. het voorafgaande sein lichtsein nummer 212 a/b, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=4&z=2023-09-01&g=2023-09-01), dat geel licht uitstraalde, was;
+- b. het voorafgaande sein lichtsein nummer 212 a/b, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=4&z=2023-10-04&g=2023-10-04), dat geel licht uitstraalde, was;
 
 - c. het voorafgaande lichtsein een gedoofd sein was;
 
-- d. het voorafgaande sein baken nummer 249a, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=4&z=2023-09-01&g=2023-09-01), was; of
+- d. het voorafgaande sein baken nummer 249a, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=4&z=2023-10-04&g=2023-10-04), was; of
 
-- e. het voorafgaande sein lichtsein nummer 214, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=4&z=2023-09-01&g=2023-09-01), dat geel licht uitstraalde, of bord nummer 317, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=4&z=2023-09-01&g=2023-09-01), was.
+- e. het voorafgaande sein lichtsein nummer 214, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=4&z=2023-10-04&g=2023-10-04), dat geel licht uitstraalde, of bord nummer 317, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=4&z=2023-10-04&g=2023-10-04), was.
 
 In andere dan de onder a tot en met e genoemde gevallen wordt de snelheid begrensd tot 40 kilometer per uur, of de ter plaatse geldende lagere snelheid, om op elke plaats achter dit sein waar een belemmering voor het verder rijden aanwezig is te kunnen stoppen.
 
 2. Zodra in een P-sein gedoofd of onjuist licht wordt waargenomen, wordt de snelheid begrensd tot 40 kilometer per uur om op elke plaats achter dit sein waar een belemmering voor het verder rijden aanwezig is te kunnen stoppen.
 
-3. Indien in een voorsein gedoofd of onjuist licht wordt waargenomen, wordt gehandeld alsof dit sein overeenkomstig voorsein nummer 219 a/b, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=4&z=2023-09-01&g=2023-09-01), geel licht uitstraalt.
+3. Indien in een voorsein gedoofd of onjuist licht wordt waargenomen, wordt gehandeld alsof dit sein overeenkomstig voorsein nummer 219 a/b, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=4&z=2023-10-04&g=2023-10-04), geel licht uitstraalt.
 
 #### § 7. Overige bepalingen
 
 ##### Artikel 33
 
-1. Lichtseinen die rood licht uitstralen mogen alleen voorbijgereden worden, indien de treindienstleider een aanwijzing stoptonend sein als bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=4&artikel=36&z=2023-09-01&g=2023-09-01), heeft gegeven.
+1. Lichtseinen die rood licht uitstralen mogen voorbijgereden worden indien de treindienstleider toestemming heeft gegeven voor het passeren van een stoptonend sein.
 
-2. In afwijking van het eerste lid mag een P-sein dat rood licht uitstraalt worden voorbijgereden, indien de treindienstleider dit heeft toegestaan. Indien geen spreekverbinding met de treindienstleider tot stand kan worden gebracht, dan mag dit P-sein voorbij worden gereden.
+2. Een P-sein dat rood licht uitstraalt mag ook voorbijgereden worden indien geen spreekverbinding met de treindienstleider tot stand kan worden gebracht.
 
 3. Indien het P-sein, bedoeld in het tweede lid, voorbijgereden mag worden, mag ook daaropvolgende P-seinen die rood licht uitstralen voorbijgereden worden.
 
@@ -318,7 +300,7 @@ In andere dan de onder a tot en met e genoemde gevallen wordt de snelheid begren
 
 - a. met een zodanige snelheid gereden dat de trein in staat is om te kunnen stoppen binnen de afstand waarover de spoorweg is te overzien en deze vrij is; en
 
-- b. rekening gehouden met het niet goed functioneren van een AKI, AHOB, ADOB of AOB.
+- b. rekening gehouden met het niet goed functioneren van een overweg.
 
 5. De treindienstleider geeft geen toestemming tot het voorbijrijden van het P-sein dat rood licht uitstraalt, bedoeld in het tweede lid, indien hij op de hoogte is van gevaar achter dit sein.
 
@@ -338,7 +320,7 @@ Vervallen
 
 ##### Artikel 36
 
-De TSI Exploitatie en verkeersleiding, aanhangsel C2, zoals gewijzigd in 2023, is vanaf 1 september 2023 van toepassing op de communicatie tussen de treindienstleider en de bestuurder.
+De TSI Exploitatie en verkeersleiding, aanhangsel C, zoals gewijzigd in 2023, is vanaf 1 september 2023 van toepassing op de communicatie tussen de treindienstleider en de bestuurder.
 
 ##### Artikel 37
 
@@ -348,7 +330,7 @@ Vervallen
 
 ##### Artikel 38
 
-Als spoorwegemplacementen, als bedoeld in [artikel 30 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=30), zijn aangewezen de spoorwegemplacementen, opgenomen in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=6&z=2023-09-01&g=2023-09-01).
+Als spoorwegemplacementen, als bedoeld in [artikel 30 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=30), zijn aangewezen de spoorwegemplacementen, opgenomen in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=6&z=2023-10-04&g=2023-10-04).
 
 ##### Artikel 39
 
@@ -362,7 +344,7 @@ Tot een spoorwegemplacement behoren:
 
 ##### Artikel 40
 
-Indien het veilige gebruik van de spoorweg dit vereist geeft de infrastructuurbeheerder met het bord nummer 302, genoemd in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=4&z=2023-09-01&g=2023-09-01), op het spoorwegemplacement aan dat op dit spoor niet gerangeerd kan worden of dat beperkingen gelden ten aanzien van het rangeren.
+Indien het veilige gebruik van de spoorweg dit vereist geeft de infrastructuurbeheerder met het bord nummer 302, genoemd in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=4&z=2023-10-04&g=2023-10-04), op het spoorwegemplacement aan dat op dit spoor niet gerangeerd kan worden of dat beperkingen gelden ten aanzien van het rangeren.
 
 ### Hoofdstuk 7. Slotbepalingen
 
@@ -378,15 +360,15 @@ Deze regeling wordt aangehaald als: Regeling spoorverkeer.
 
 Vervallen
 
-## Bijlage 2. behorende bij [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=2&paragraaf=2&artikel=8&z=2023-09-01&g=2023-09-01), van de Regeling spoorverkeer
+## Bijlage 2. behorende bij [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=2&paragraaf=2&artikel=8&z=2023-10-04&g=2023-10-04), van de Regeling spoorverkeer
 
 Vervallen
 
-## Bijlage 3. behorende bij [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=2&paragraaf=6&artikel=20&z=2023-09-01&g=2023-09-01), van de Regeling spoorverkeer
+## Bijlage 3. behorende bij [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=2&paragraaf=6&artikel=20&z=2023-10-04&g=2023-10-04), van de Regeling spoorverkeer
 
 Vervallen
 
-## Bijlage 4. behorende bij [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=3&paragraaf=1&artikel=24&z=2023-09-01&g=2023-09-01) van de Regeling Spoorverkeer
+## Bijlage 4. behorende bij [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=3&paragraaf=1&artikel=24&z=2023-10-04&g=2023-10-04) van de Regeling Spoorverkeer
 
 ## Bijlage 3. behorende bij [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=3&paragraaf=5&artikel=20&z=2012-12-01&g=2012-12-01), van de Regeling spoorverkeer
 
@@ -752,7 +734,7 @@ Opdrachten om de snelheid te begrenzen worden op een zodanige afstand gegeven, d
 
 ### 19.7. Amersfoort
 
-## Bijlage 8. behorende bij [artikel 40a](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=6&artikel=40a&z=2023-09-01&g=2023-09-01) van de Regeling spoorverkeer
+## Bijlage 8. behorende bij [artikel 40a](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=6&artikel=40a&z=2023-10-04&g=2023-10-04) van de Regeling spoorverkeer
 
 Vervallen
 
@@ -1045,7 +1027,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 ### Leeswijzer
 
-Bijlage 4, behorende bij [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=3&paragraaf=1&artikel=24&z=2023-09-01&g=2023-09-01) van de Regeling Spoorverkeer.
+Bijlage 4, behorende bij [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=3&paragraaf=1&artikel=24&z=2023-10-04&g=2023-10-04) van de Regeling Spoorverkeer.
 
 ### Noten
 
@@ -1113,7 +1095,7 @@ Vervallen
 
 Vervallen
 
-## Bijlage 6. behorende bij [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=5&artikel=38&z=2023-09-01&g=2023-09-01) van de Regeling spoorverkeer
+## Bijlage 6. behorende bij [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&hoofdstuk=5&artikel=38&z=2023-10-04&g=2023-10-04) van de Regeling spoorverkeer
 
 | **A** |   |
 | --- | --- |
