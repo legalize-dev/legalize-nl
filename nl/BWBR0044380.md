@@ -4,7 +4,7 @@ identifier: "BWBR0044380"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-17"
-last_updated: "2022-11-18"
+last_updated: "2023-10-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044380"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **minister:** de Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. **commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044380&artikel=2&z=2022-11-18&g=2022-11-18).
+- b. **commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044380&artikel=2&z=2023-10-04&g=2023-10-04).
 
 ##### Artikel 2. Instelling en taak
 
@@ -60,7 +60,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3. Samenstelling, benoeming, ontslag
 
-1. De commissie bestaat uit een voorzitter en ten hoogste 10 andere leden, waarvan 1 studentlid.
+1. De commissie bestaat uit een voorzitter en ten hoogste 11 andere leden, waarvan 2 studentleden.
 
 2. De voorzitter en de andere leden hebben zitting op persoonlijke titel en oefenen hun functie uit zonder last en ruggespraak.
 
@@ -109,6 +109,28 @@ In dit besluit wordt verstaan onder:
 - b. Eline Pollaert MA te Voorschoten
 
 - c. dr. Claartje Vinkenburg te Amsterdam
+
+7. Te rekenen vanaf 1 oktober 2023 worden voor een periode van 3 jaar tot lid van de commissie herbenoemd:
+
+- a. prof. dr. Vinod Subramaniam te Amsterdam, tevens voorzitter;
+
+- b. prof. dr. Judi Mesman te Oegstgeest;
+
+- c. dr. Susanne Täuber te Aduard.
+
+8. Te rekenen vanaf 1 oktober 2023 wordt prof. dr. Marieke van den Brink te Nijmegen voor een periode van 1 jaar tot lid van de commissie herbenoemd.
+
+9. Te rekenen vanaf 1 oktober 2023 worden voor een periode van 3 jaar tot lid van de commissie benoemd:
+
+- a. Ercan Büyükçifçi MSc te Rotterdam;
+
+- b. Isis Freitas Vale Germano MA te Bilthoven.
+
+10. Te rekenen vanaf 1 oktober 2023 worden voor een periode van 1 jaar tot studentlid van de commissie benoemd:
+
+- a. Naznin Musa te Rotterdam;
+
+- b. Assamaual Saidi Rabah te Amstelveen.
 
 ##### Artikel 5. Instellingsduur
 
