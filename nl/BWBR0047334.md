@@ -4,7 +4,7 @@ identifier: "BWBR0047334"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-06-27"
-last_updated: "2023-01-01"
+last_updated: "2023-10-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047334"
 soort: "ministeriele-regeling"
@@ -131,7 +131,7 @@ Het bedrag, bedoeld in [artikel 26, eerste lid, van het Besluit bekostiging WPO]
 
 ##### Artikel 7. Vaststelling bedragen programma's van eisen voor basisscholen
 
-De bedragen van de programma's van eisen voor de basisscholen, bedoeld in [artikel 113, vierde lid, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=113), zoals die luidde op 31 maart 2022, worden vastgesteld overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047334&bijlage=1&z=2022-11-30&g=2023-01-01).
+De bedragen van de programma's van eisen voor de basisscholen, bedoeld in [artikel 113, vierde lid, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=113), zoals die luidde op 31 maart 2022, worden vastgesteld overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047334&bijlage=1&z=2023-10-04&g=2023-10-04).
 
 #### Paragraaf 2. Speciale scholen voor basisonderwijs
 
@@ -193,7 +193,7 @@ B = het aantal leerlingen met een niet-Nederlandse culturele achtergrond, vermen
 
 ##### Artikel 13. Vaststelling bedragen programma's van eisen voor speciale scholen voor basisonderwijs
 
-De bedragen van de programma's van eisen voor de speciale scholen voor basisonderwijs, bedoeld in [artikel 113, vierde lid, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=113) zoals die luidde op 31 maart 2022, worden vastgesteld overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047334&bijlage=1&z=2022-11-30&g=2023-01-01).
+De bedragen van de programma's van eisen voor de speciale scholen voor basisonderwijs, bedoeld in [artikel 113, vierde lid, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=113) zoals die luidde op 31 maart 2022, worden vastgesteld overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047334&bijlage=1&z=2023-10-04&g=2023-10-04).
 
 #### Paragraaf 3. Scholen voor (voortgezet) speciaal onderwijs in cluster 3 en 4
 
@@ -263,7 +263,7 @@ B = het aantal leerlingen met een niet-Nederlandse culturele achtergrond, vermen
 
 ##### Artikel 19. Vaststelling bedragen van de materiele instandhouding voor het (voortgezet) speciaal onderwijs
 
-De bedragen van de materiële instandhouding voor het (voortgezet) speciaal onderwijs, bedoeld in de [artikelen 111, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=111), [114](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=114) en [128, zesde lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=128) zoals die luidden op 31 maart 2022, worden vastgesteld overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047334&bijlage=2&z=2022-11-30&g=2023-01-01).
+De bedragen van de materiële instandhouding voor het (voortgezet) speciaal onderwijs, bedoeld in de [artikelen 111, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=111), [114](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=114) en [128, zesde lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=128) zoals die luidden op 31 maart 2022, worden vastgesteld overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047334&bijlage=2&z=2023-10-04&g=2023-10-04).
 
 ### Hoofdstuk 3. Vaststelling bedragen voor de bepaling van de bekostiging, bedoeld in [artikel 214, tweede lid, onderdeel e, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=214) en voor de bepaling van de bekostiging, bedoeld in [artikel 188, tweede lid, onderdeel e, WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=188)
 
@@ -379,14 +379,14 @@ Het bedrag per brancardlift, bedoeld in [artikel 16, vierde lid, van het Besluit
 
 ##### Artikel 33. Bedrag per school en bedrag per leerling
 
-1. Het bedrag per leerling, bedoeld in [artikel 116, tweede lid, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=116), bedraagt € 5.801,77.
+1. Het bedrag per leerling, bedoeld in [artikel 116, tweede lid, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=116), bedraagt € 6.093,05 voor kalenderjaar 2023.
 
 2. Het bedrag per school, bedoeld in [artikel 13, vierde lid, van het Besluit bekostiging WPO 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=13), bedraagt voor:
 
 |   | Bedrag per school |
 | --- | --- |
-| a. een basisschool met minder dan 100 leerlingen | € 85.496,32 |
-| b. een basisschool met 100 leerlingen of meer | € 104.095,10 |
+| a. een basisschool met minder dan 100 leerlingen | € 89.806,35 voor kalenderjaar 2023 |
+| b. een basisschool met 100 leerlingen of meer | € 109.339,43 voor kalenderjaar 2023 |
 
 ##### Artikel 34. Extra bekostiging (zeer) kleine basisscholen
 
@@ -394,46 +394,46 @@ Het startbedrag, het verminderingsbedrag en het basisbedrag, bedoeld in [artikel
 
 | Artikel | Bedrag |
 | --- | --- |
-| [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=14), **(kleine scholen startbedrag)** | € 235.248,04 |
-| [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=14), **(kleine scholen verminderingsbedrag)** | € 1.568,32 |
-| [14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=14), **(zeer kleine scholen basisbedrag)** | € 415.927,98 |
+| [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=14), **(kleine scholen startbedrag)** | € 247.065,55 voor kalenderjaar 2023 |
+| [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=14), **(kleine scholen verminderingsbedrag)** | € 1.647,10 voor kalenderjaar 2023 |
+| [14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=14), **(zeer kleine scholen basisbedrag)** | € 436.821,82 voor kalenderjaar 2023 |
 
 ##### Artikel 35. Extra bekostiging een of meer nevenvestigingen
 
-Het bedrag per nevenvestiging, bedoeld in [artikel 17, eerste lid, onderdeel a, van het Besluit bekostiging WPO 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=17), bedraagt € 18.398,49.
+Het bedrag per nevenvestiging, bedoeld in [artikel 17, eerste lid, onderdeel a, van het Besluit bekostiging WPO 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=17), bedraagt € 19.322,73 voor kalenderjaar 2023.
 
 ##### Artikel 36. Extra bekostiging onderwijsachterstandenbestrijding en Nederlands onderwijs anderstaligen
 
-1. Het bedrag per eenheid achterstandsscore, bedoeld in [artikel 18, eerste lid, van het Besluit bekostiging WPO 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=18), bedraagt € 711,63.
+1. Het bedrag per eenheid achterstandsscore, bedoeld in [artikel 18, eerste lid, van het Besluit bekostiging WPO 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=18), bedraagt € 747,86 voor kalenderjaar 2023.
 
-2. Het bedrag per school, bedoeld in [artikel 19, tweede lid, van het Besluit bekostiging WPO 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=19), bedraagt € 123,36.
+2. Het bedrag per school, bedoeld in [artikel 19, tweede lid, van het Besluit bekostiging WPO 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=19), bedraagt € 129,55 voor kalenderjaar 2023.
 
-3. Het bedrag per leerling, bedoeld in [artikel 19, tweede lid, van het Besluit bekostiging WPO 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=19), bedraagt € 21,57.
+3. Het bedrag per leerling, bedoeld in [artikel 19, tweede lid, van het Besluit bekostiging WPO 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=19), bedraagt € 22,65 voor kalenderjaar 2023.
 
 #### Paragraaf 2. Speciale scholen voor basisonderwijs
 
 ##### Artikel 37. Bedrag per school en bedrag per leerling
 
-1. Het bedrag per leerling, bedoeld in [artikel 116, tweede lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=116), bedraagt: € 6.685,01.
+1. Het bedrag per leerling, bedoeld in [artikel 116, tweede lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=116), bedraagt: € 7.020,57 voor kalenderjaar 2023.
 
 2. Het bedrag per school, bedoeld in [artikel 13, vijfde lid, van het Besluit bekostiging WPO 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=13) bedraagt voor:
 
 |   | Bedrag per school |
 | --- | --- |
-| a. een speciale school voor basisonderwijs met minder dan 100 leerlingen | € 80.633,58 |
-| b. een speciale school voor basisonderwijs met 100 leerlingen of meer | € 100.345,66 |
+| a. een speciale school voor basisonderwijs met minder dan 100 leerlingen | € 84.738,12 voor kalenderjaar 2023 |
+| b. een speciale school voor basisonderwijs met 100 leerlingen of meer | € 105.440,42 voor kalenderjaar 2023 |
 
 ##### Artikel 38. Ondersteuningsbekostiging
 
-Het bedrag per leerling, bedoeld in [artikel 121, eerste lid, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=121), bedraagt € 6.318,14.
+Het bedrag per leerling, bedoeld in [artikel 121, eerste lid, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=121), bedraagt € 6.635,53 voor kalenderjaar 2023.
 
 ##### Artikel 39. Extra bekostiging nevenvestigingen
 
-Het bedrag per nevenvestiging, bedoeld in [artikel 17, tweede lid, van het Besluit bekostiging WPO 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=17), bedraagt € 20.625,33.
+Het bedrag per nevenvestiging, bedoeld in [artikel 17, tweede lid, van het Besluit bekostiging WPO 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=17), bedraagt € 21.661,42 voor kalenderjaar 2023.
 
 ##### Artikel 40. Extra bekostiging onderwijsachterstandenbestrijding
 
-Het bedrag per leerling, bedoeld in [artikel 18, tiende lid, van het Besluit bekostiging WPO 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=18), bedraagt € 3.334,85.
+Het bedrag per leerling, bedoeld in [artikel 18, tiende lid, van het Besluit bekostiging WPO 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=18), bedraagt € 3.502,37 voor kalenderjaar 2023.
 
 #### Paragraaf 3. Scholen voor (voortgezet) speciaal onderwijs in cluster 3 en 4
 
@@ -441,18 +441,18 @@ Het bedrag per leerling, bedoeld in [artikel 18, tiende lid, van het Besluit bek
 
 1. Het bedrag per leerling van een school, bedoeld in [artikel 114, tweede lid, WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=114), bedraagt:
 
-- a. Voor een leerling in het speciaal onderwijs: € 6.791,31.
+- a. Voor een leerling in het speciaal onderwijs: € 7.132,13 voor kalenderjaar 2023.
 
-- b. Voor een leerling in het voortgezet speciaal onderwijs: € 10.291,53.
+- b. Voor een leerling in het voortgezet speciaal onderwijs: € 10.808,18 voor kalenderjaar 2023.
 
 2. Het bedrag per school, bedoeld in [artikel 13, derde en vierde lid, van het Besluit bekostiging WEC 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&artikel=13) bedraagt voor:
 
 |   | Bedrag per school |
 | --- | --- |
-| a. een school voor speciaal onderwijs met minder dan 50 leerlingen | € 126.340,85 |
-| b. een school voor speciaal onderwijs met 50 leerlingen of meer | € 146.081,88 |
-| c. een school voor voortgezet speciaal onderwijs met minder dan 50 leerlingen | € 129.859,71 |
-| d. een school voor voortgezet speciaal onderwijs met 50 leerlingen of meer | € 149.600,74 |
+| a. een school voor speciaal onderwijs met minder dan 50 leerlingen | € 132.783,66 voor kalenderjaar 2023 |
+| b. een school voor speciaal onderwijs met 50 leerlingen of meer | € 153.516,37 voor kalenderjaar 2023 |
+| c. een school voor voortgezet speciaal onderwijs met minder dan 50 leerlingen | € 136.479,29 voor kalenderjaar 2023 |
+| d. een school voor voortgezet speciaal onderwijs met 50 leerlingen of meer | € 157.212,00 voor kalenderjaar 2023 |
 
 ##### Artikel 42. Ondersteuningsbekostiging
 
@@ -460,26 +460,26 @@ Het bedrag per leerling, bedoeld in [artikel 119, eerste lid, WEC](https://wette
 
 |   | categorie 1/l | categorie 2/m | categorie 3/h |
 | --- | --- | --- | --- |
-| per leerling SO | € 12.321,36 | € 20.049,26 | € 29.921,24 |
-| per leerling VSO | € 13.131,51 | € 22.919,65 | € 28.314,32 |
+| per leerling SO | € 12.940,31 voor kalenderjaar 2023 | € 21.056,43 voor kalenderjaar 2023 | € 31.424,31 voor kalenderjaar 2023 |
+| per leerling VSO | € 13.791,17 voor kalenderjaar 2023 | € 24.071,00 voor kalenderjaar 2023 | € 29.736,67 voor kalenderjaar 2023 |
 
 ##### Artikel 43. Extra bekostiging onderwijsachterstanden
 
-Het bedrag per leerling, bedoeld in [artikel 14, eerste lid, van het Besluit bekostiging WEC 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&artikel=14), bedraagt € 3.334,85.
+Het bedrag per leerling, bedoeld in [artikel 14, eerste lid, van het Besluit bekostiging WEC 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&artikel=14), bedraagt € 3.502,37 voor kalenderjaar 2023.
 
 ##### Artikel 44. Extra bekostiging schoolbad
 
-1. Het bedrag per bad, bedoeld in [artikel 15, vijfde lid, van het Besluit bekostiging WEC 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&artikel=15), bedraagt voor een hydrotherapiebad € 10.873,27 en voor een watergewenningsbad € 23.510,10.
+1. Het bedrag per bad, bedoeld in [artikel 15, vijfde lid, van het Besluit bekostiging WEC 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&artikel=15), bedraagt voor een hydrotherapiebad € 11.419,48 voor kalenderjaar 2023 en voor een watergewenningsbad € 24.691,11 voor kalenderjaar 2023.
 
-2. Het bedrag per m3 waterinhoud, bedoeld in [artikel 15, vijfde lid, van het Besluit bekostiging WEC 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&artikel=15), bedraagt voor een hydrotherapiebad € 316,55 en voor een watergewenningsbad € 183,99.
+2. Het bedrag per m3 waterinhoud, bedoeld in [artikel 15, vijfde lid, van het Besluit bekostiging WEC 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&artikel=15), bedraagt voor een hydrotherapiebad € 332,45 voor kalenderjaar 2023 en voor een watergewenningsbad € 193,23 voor kalenderjaar 2023.
 
-3. Het bedrag voor de beweegbare bodem, bedoeld in [artikel 15, vijfde lid, van het Besluit bekostiging WEC 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&artikel=15), bedraagt € 1.140,27.
+3. Het bedrag voor de beweegbare bodem, bedoeld in [artikel 15, vijfde lid, van het Besluit bekostiging WEC 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&artikel=15), bedraagt € 1.197,56 voor kalenderjaar 2023.
 
-4. Het bedrag per m3 waterinhoud bij een beweegbare bodem, bedoeld in [artikel 15, vijfde lid, van het Besluit bekostiging WEC 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&artikel=15), bedraagt € 86,22.
+4. Het bedrag per m3 waterinhoud bij een beweegbare bodem, bedoeld in [artikel 15, vijfde lid, van het Besluit bekostiging WEC 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&artikel=15), bedraagt € 90,55 voor kalenderjaar 2023.
 
 ##### Artikel 45. Extra bekostiging brancardlift
 
-Het bedrag per brancardlift, bedoeld in [artikel 16, vierde lid, van het Besluit bekostiging WEC 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&artikel=16), bedraagt € 7.001,11.
+Het bedrag per brancardlift, bedoeld in [artikel 16, vierde lid, van het Besluit bekostiging WEC 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&artikel=16), bedraagt € 7.352,81 voor kalenderjaar 2023.
 
 ### Hoofdstuk 5. Slotbepalingen
 
@@ -493,7 +493,7 @@ Het bedrag per brancardlift, bedoeld in [artikel 16, vierde lid, van het Besluit
 
 Deze regeling wordt aangehaald als: Regeling overgangsbekostiging vereenvoudiging bekostiging WPO en WEC.
 
-## Bijlage 1. behorende bij de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0047334&hoofdstuk=2&paragraaf=1&artikel=7&z=2022-11-30&g=2023-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0047334&hoofdstuk=2&paragraaf=2&artikel=13&z=2022-11-30&g=2023-01-01) van de Regeling overgangsbekostiging vereenvoudiging bekostiging WPO en WEC
+## Bijlage 1. behorende bij de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0047334&hoofdstuk=2&paragraaf=1&artikel=7&z=2023-10-04&g=2023-10-04) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0047334&hoofdstuk=2&paragraaf=2&artikel=13&z=2023-10-04&g=2023-10-04) van de Regeling overgangsbekostiging vereenvoudiging bekostiging WPO en WEC
 
 ### Bedragen programma's van eisen voor basisscholen en speciale scholen voor basisonderwijs voor het jaar 2022
 
@@ -585,7 +585,7 @@ Yd = bedrag per leerling in het speciaal basisonderwijs
 
 Bedrag per leerling = € 246,38
 
-## Bijlage 2. behorende bij [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0047334&hoofdstuk=2&paragraaf=3&artikel=19&z=2022-11-30&g=2023-01-01) van de Regeling overgangsbekostiging vereenvoudiging bekostiging WPO en WEC
+## Bijlage 2. behorende bij [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0047334&hoofdstuk=2&paragraaf=3&artikel=19&z=2023-10-04&g=2023-10-04) van de Regeling overgangsbekostiging vereenvoudiging bekostiging WPO en WEC
 
 ### Bedragen materiële instandhouding voor scholen voor (voortgezet) speciaal onderwijs
 
