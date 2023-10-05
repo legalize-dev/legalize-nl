@@ -4,7 +4,7 @@ identifier: "BWBR0044962"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2021-07-01"
+last_updated: "2023-10-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044962"
 soort: "wet"
@@ -443,8 +443,6 @@ Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 20
 
 Wijzigt de Tijdelijke wet ambulancezorg.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel 4.91
 
 Wijzigt de Warenwet.
@@ -519,8 +517,6 @@ Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 20
 
 Wijzigt de Wet toetreding zorgaanbieders.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel 4.109
 
 Wijzigt de Wet veiligheid en kwaliteit lichaamsmateriaal.
@@ -549,9 +545,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 5.2
 
-1. Een voor de datum van de inwerkingtreding van [artikel 1, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0044962&hoofdstuk=1&artikel=1&z=2021-07-01&g=2021-07-01) wegens overtreding van [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) oplegde last onder bestuursdwang berust met ingang van de datum van inwerkingtreding van artikel 1, onderdeel C, mede op artikel 5:20, derde lid, van de Algemene wet bestuursrecht.
+1. Een voor de datum van de inwerkingtreding van [artikel 1, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0044962&hoofdstuk=1&artikel=1&z=2023-10-05&g=2023-10-05) wegens overtreding van [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) oplegde last onder bestuursdwang berust met ingang van de datum van inwerkingtreding van artikel 1, onderdeel C, mede op artikel 5:20, derde lid, van de Algemene wet bestuursrecht.
 
-2. Een voor de datum van de inwerkingtreding van [artikel 1, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0044962&hoofdstuk=1&artikel=1&z=2021-07-01&g=2021-07-01) wegens overtreding van [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) oplegde last onder dwangsom berust met ingang van de datum van inwerkingtreding van artikel 1, onderdeel C, mede op artikel 5:20, derde lid, gelezen in samenhang met [artikel 5:32, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:32).
+2. Een voor de datum van de inwerkingtreding van [artikel 1, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0044962&hoofdstuk=1&artikel=1&z=2023-10-05&g=2023-10-05) wegens overtreding van [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) oplegde last onder dwangsom berust met ingang van de datum van inwerkingtreding van artikel 1, onderdeel C, mede op artikel 5:20, derde lid, gelezen in samenhang met [artikel 5:32, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:32).
 
 ##### Artikel 5.3
 
