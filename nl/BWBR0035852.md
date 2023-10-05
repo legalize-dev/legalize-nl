@@ -4,7 +4,7 @@ identifier: "BWBR0035852"
 country: "nl"
 rank: "wet"
 publication_date: "2023-10-05"
-last_updated: "2015-01-01"
+last_updated: "2023-10-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035852"
 soort: "wet"
@@ -47,7 +47,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 1. Er is een Raad voor volksgezondheid en samenleving.
 
-2. De Raad bestaat uit een voorzitter en ten hoogste acht andere leden.
+2. De Raad bestaat uit een voorzitter en ten hoogste negen andere leden.
 
 ##### Artikel 2
 
