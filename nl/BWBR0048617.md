@@ -4,7 +4,7 @@ identifier: "BWBR0048617"
 country: "nl"
 rank: "wet"
 publication_date: "2024-07-01"
-last_updated: "2021-01-01"
+last_updated: "2023-10-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048617"
 soort: "wet"
@@ -47,8 +47,6 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Alcoholwet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IIa
 
 Wijzigt het Burgerlijk Wetboek BES Boek 8.
@@ -65,8 +63,6 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Gezondheidswet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IIIb
 
 Wijzigt de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba.
@@ -82,8 +78,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel IVa
 
 Wijzigt de Tabaks- en rookwarenwet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IVb
 
@@ -105,19 +99,13 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Wet experiment gesloten coffeeshopketen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VII
 
 Wijzigt de Wet inzake bloedvoorziening.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VIII
 
 Wijzigt de Wet kwaliteit, klachten en geschillen zorg.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IX
 
@@ -129,13 +117,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Wet medezeggenschap cliënten zorginstellingen 2018.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XI
 
 Wijzigt de Wet medische hulpmiddelen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIa
 
@@ -164,8 +148,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XV
 
 Wijzigt de Wet op de Raad voor volksgezondheid en samenleving.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVI
 
@@ -205,13 +187,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Zorgverzekeringswet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XX
 
 Wijzigt de Wijzigingswet Algemene wet bestuursrecht en enkele andere wetten (nieuwe omgevingsrecht en nadeelcompensatierecht).
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXI
 
@@ -241,16 +219,24 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Wet elektronische gegevensuitwisseling in de zorg.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXV
 
 Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXVI
 
-Dit onderdeel is nog niet inwerking getreden
+1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+
+2. De [artikelen V, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0048617&artikel=V&z=2023-10-05&g=2023-10-05), en [XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0048617&artikel=XVI&z=2023-10-05&g=2023-10-05) werken terug tot en met 1 januari 2021.
 
 ##### Artikel XXVII
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Verzamelwet VWS 2022.
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het wenselijk is om in een aantal wetten op het terrein van het Ministerie van Volksgezondheid, Welzijn en Sport wijzigingen, bijstellingen en technische verbeteringen aan te brengen;
+
+Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
