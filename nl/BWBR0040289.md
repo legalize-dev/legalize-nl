@@ -4,7 +4,7 @@ identifier: "BWBR0040289"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-05"
-last_updated: "2022-01-01"
+last_updated: "2023-10-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040289"
 soort: "ministeriele-regeling"
@@ -46,17 +46,15 @@ Besluit:
 
 1. In deze regeling wordt verstaan onder:
 
-- **actuele marktwaarde:** de waarde die wordt berekend op basis van de actuele marktrente behorend bij de resterende looptijden van toekomstige rente- en aflossingsbedragen van een deposito of lening;
+- **actuele marktwaarde:** de waarde die wordt berekend op basis van de actuele rente behorend bij de resterende looptijden van toekomstige kasstromen (rente en aflossing) van een deposito of lening;
 
 - **betaalrekening:** een rekening die de rechtspersoon bij een bank aanhoudt;
-
-- **borgtocht:** een overeenkomst als bedoeld in [artikel 850 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=850) op basis waarvan een derde kan beschikken over een overeengekomen maximaal bedrag van de liquide middelen die de rechtspersoon aanhoudt in de schatkist van het Rijk;
 
 - **daggeldrente:** de dagelijkse vaststelling door de Europese Centrale Bank van de Euro Short Term Rate (€STR), zijnde de rente waartegen gemiddeld genomen overnight en zonder onderpand liquiditeiten zijn geleend in de eurogeldmarkt (afgerond op 2 decimalen);
 
 - **deposito:** het creditbedrag op een aan een rekening-courant gekoppelde depositorekening van de schatkist van het Rijk, waarover een vooraf vastgestelde rente wordt vergoed en waarover de rechtspersoon gedurende een vooraf vastgestelde periode niet vrij kan beschikken;
 
-- **inleenrente:** de rente waartegen de Staat zichzelf financiert op de internationale geld- en kapitaalmarkt via de uitgifte van Dutch Treasury Certificates en Dutch State Loans;
+- **inleenrente:** de rente waartegen de Staat zichzelf financiert op de (inter)nationale geld- en kapitaalmarkt via de uitgifte van Dutch Treasury Certificates en Dutch State Loans;
 
 - **lening:** de lening, bedoeld in de [artikelen 5.5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=5.5), en [artikel 5.6, eerste lid, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=5.6);
 
@@ -76,7 +74,7 @@ Besluit:
 
 2. De Minister van Financiën koppelt de betaalrekening aan de rekening-courant. Aan de rekening-courant kan een depositorekening worden gekoppeld.
 
-3. Een deposito kan iedere gewenste looptijd hebben tot een maximum van 30 jaar. De omvang van een deposito bedraagt minimaal € 10.000.
+3. Een deposito kan iedere gewenste looptijd hebben tot een maximum van 30 jaar.
 
 4. Het vervroegd laten vrijvallen van een deposito geschiedt tegen de actuele marktwaarde en is uitsluitend mogelijk voor zover dit noodzakelijk is voor de uitoefening van de wettelijke of publieke taak van de rechtspersoon.
 
@@ -90,25 +88,21 @@ Besluit:
 
 4. De Minister van Financiën kan in overeenstemming met de rechtspersoon en de betrokken Minister een rentevastperiode overeenkomen die korter is dan de looptijd van een lening.
 
-5. Een lening kan in termijnen worden opgenomen en kan geheel of in gedeelten vervroegd worden afgelost.
-
-6. Een vervroegde gehele of gedeeltelijke aflossing van een lening geschiedt in overeenstemming met de betrokken Minister en tegen de actuele marktwaarde.
+5. Een lening kan in termijnen worden opgenomen en kan geheel of in gedeelten vervroegd worden afgelost tegen de actuele marktwaarde.
 
 ##### Artikel 4. Rente
 
-1. De Minister van Financiën vergoedt aan de rechtspersoon rente over de liquide middelen die hij op de rekening-courant aanhoudt. De rente is gelijk aan de daggeldrente.
+1. De Minister van Financiën vergoedt aan de rechtspersoon rente over de liquide middelen die hij op de rekening-courant aanhoudt. De rente is gebaseerd op de daggeldrente.
 
-2. De Minister van Financiën vergoedt aan de rechtspersoon rente over een deposito. De rente is gelijk aan de inleenrente die behoort bij de looptijd van het betreffende deposito.
+2. De Minister van Financiën vergoedt aan de rechtspersoon rente over een deposito. De rente is gebaseerd op de inleenrente die behoort bij de looptijd van het betreffende deposito.
 
-3. De Minister van Financiën brengt over een lening rente in rekening bij de rechtspersoon. De hoogte van de rente is gelijk aan de inleenrente die behoort bij de looptijd van de lening waarbij rekening wordt gehouden met de reguliere aflossingen die gedurende de looptijd plaatsvinden. De rente wordt vastgesteld op de ingangsdatum van de lening, tenzij de rechtspersoon ervoor kiest de rente al voor de ingangsdatum van de lening vast te stellen.
+3. De Minister van Financiën brengt over een lening rente in rekening bij de rechtspersoon. De hoogte van de rente is gelijk aan de inleenrente die behoort bij de looptijd van de lening waarbij rekening wordt gehouden met de reguliere aflossingen die gedurende de looptijd plaatsvinden. De rente wordt door de Minister van Financiën vastgesteld uiterlijk op de ingangsdatum van de lening, tenzij de rechtspersoon ervoor kiest. Bij een verlenging van een rentevastperiode wordt de rente al voor de ingangsdatum nieuwe rentevastperiode vastgesteld uiterlijk op de eerste dag van de lening vast te stellen nieuwe rentevastperiode.
 
-4. In afwijking van het derde lid is voor een lening die een rentevastperiode heeft die korter is dan de looptijd de rente gelijk aan de bij die rentevastperiode behorende inleenrente plus een opslag.
+4. De Minister van Financiën brengt over een rekening-courantkrediet rente in rekening. De hoogte van de rente is gelijk aan de daggeldrente.
 
-5. De Minister van Financiën brengt over een rekening-courantkrediet rente in rekening. De hoogte van de rente is gelijk aan de daggeldrente.
+5. Wanneer de rente, bedoeld in het eerste tot en met het vijfde lid, negatief is, wordt deze rente in afwijking van dit artikel gelijk gesteld aan nul.
 
-6. Wanneer de rente, bedoeld in het eerste tot en met het vijfde lid, negatief is, wordt deze rente in afwijking van dit artikel gelijk gesteld aan nul.
-
-#### § 3. Rekening-courantkrediet en borgtocht
+#### § 3. Rekening-courantkrediet en garantie
 
 ##### Artikel 5. Rekening-courantkrediet
 
@@ -132,11 +126,11 @@ Besluit:
 
 5. De Minister van Financiën is bevoegd om het bedrag waarmee het rekening-courantkrediet is overschreden te verrekenen met de door de betrokken Minister aan de rechtspersoon te verstrekken middelen.
 
-6. De Minister van Financiën is bevoegd hetgeen hij verder van de rechtspersoon te vorderen heeft uit welken hoofde dan ook te verrekenen met hetgeen hij aan de rechtspersoon verschuldigd is.
+6. Niet tegenstaande een wettelijke mogelijkheid tot verrekening, mag het Ministerie van Financiën altijd hetgeen zij al dan niet opeisbaar of onder voorwaarde van de rechtspersoon te vorderen heeft, verrekenen met al dan niet opeisbare tegenvorderingen van de rechtspersoon op het Ministerie van Financiën uit hoofde van deze regeling, waaronder doch niet uitsluitend vorderingen uit hoofde van rekening-courant, leningen en deposito’s, ongeacht de valuta waarin de vorderingen en tegenvorderingen luiden. Vorderingen in vreemde valuta worden verrekend tegen de koers van de dag van verrekening. Verrekening kan (onder andere) geschieden door middel van incasso ten laste van de rekening-courant.
 
-##### Artikel 7. Borgtocht
+##### Artikel 7. Garantie
 
-De Minister van Financiën kan voor de rechtspersoon, bedoeld in de [artikelen 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=5.2) en [5.4 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=5.4), een borgtocht toestaan ten aanzien van de liquide middelen die de rechtspersoon in de schatkist van het Rijk aanhoudt, indien die rechtspersoon daartoe een verzoek bij de Minister van Financiën heeft ingediend en de liquide middelen die de rechtspersoon in de schatkist van het Rijk aanhoudt toereikend zijn.
+De Minister van Financiën kan voor de rechtspersoon, bedoeld in de [artikelen 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=5.2) en [5.4 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=5.4), een garantie toestaan ten aanzien van de liquide middelen die de rechtspersoon in de schatkist van het Rijk aanhoudt, indien die rechtspersoon daartoe een verzoek bij de Minister van Financiën heeft ingediend en de liquide middelen die de rechtspersoon in de schatkist van het Rijk aanhoudt toereikend zijn.
 
 #### § 4. Uitvoeringstechnische bepalingen
 
@@ -148,7 +142,7 @@ De Minister van Financiën kan voor de rechtspersoon, bedoeld in de [artikelen 5
 
 ##### Artikel 9. Nadere voorwaarden
 
-De Minister van Financiën kan in overeenstemming met de betrokken Minister in een overeenkomst met een rechtspersoon die deelneemt aan schatkistbankieren nadere voorwaarden verbinden aan de deelname van de rechtspersoon.
+De Minister van Financiën kan in overeenstemming met de betrokken Minister in een overeenkomst met een rechtspersoon die deelneemt aan schatkistbankieren nadere voorwaarden verbinden aan de deelname van die rechtspersoon.
 
 #### § 5. Het beheer van liquide middelen
 
@@ -172,7 +166,7 @@ Deze regeling treedt in werking per 1 januari 2018.
 
 Deze regeling wordt aangehaald als: Regeling schatkistbankieren RWT’s en andere rechtspersonen.
 
-## Bijlage. behorend bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040289&paragraaf=4&artikel=8&z=2022-01-01&g=2022-01-01) van de Regeling schatkistbankieren RWT’s en andere rechtspersonen
+## Bijlage. behorend bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040289&paragraaf=4&artikel=8&z=2023-10-05&g=2023-10-05) van de Regeling schatkistbankieren RWT’s en andere rechtspersonen
 
 ### Bepaling 1. Begrippen
 
