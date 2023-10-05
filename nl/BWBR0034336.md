@@ -4,7 +4,7 @@ identifier: "BWBR0034336"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-05"
-last_updated: "2022-01-01"
+last_updated: "2023-10-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034336"
 soort: "ministeriele-regeling"
@@ -47,25 +47,19 @@ Treedt in werking op het tijdstip waarop de Wijzigingswet Wet financiering decen
 
 In deze regeling wordt verstaan onder:
 
-- **actuele marktwaarde:** de waarde die kan worden berekend aan de hand van de actuele marktrente van de resterende looptijden van de toekomstige kasstromen (rente en aflossing) van een deposito;
+- **actuele marktwaarde:** de waarde die wordt berekend op basis van de actuele rente behorende bij de resterende looptijden van de toekomstige kasstromen (rente en aflossing) van een deposito;
 
 - **Agentschap:** het Agentschap van de Generale Thesaurie van het ministerie van Financiën;
 
 - **basispunt:** een honderdste van een procent (0,01%);
 
-- **borgstelling:** het recht van een derde partij om op eerste afroep te kunnen beschikken over een maximaal overeengekomen bedrag van een openbaar lichaam die middelen in rekening-courant bij ’s Rijks schatkist aanhoudt;
-
-- **deposito:** het creditbedrag op een aan de rekening-courant gekoppelde rekening, waarover een vooraf vastgestelde rente wordt vergoed en waarover gedurende een vooraf vastgestelde periode door het openbaar lichaam niet vrij beschikt kan worden;
+- **deposito:** het creditbedrag op een aan de rekening-courant gekoppelde depositorekening van de schatkist van het Rijk, waarover een vooraf vastgestelde rente wordt vergoed en waarover gedurende een vooraf vastgestelde periode door het openbaar lichaam niet vrij beschikt kan worden;
 
 - **daggeldrente:** de dagelijkse vaststelling door de Europese Centrale Bank van de Euro Short Term Rate (€STR), zijnde de rente waartegen gemiddeld genomen overnight en zonder onderpand liquiditeiten zijn geleend in de eurogeldmarkt (afgerond op 2 decimalen);
 
-- **DSL-rente:** de dagelijks door een door de minister van Financiën aangewezen elektronisch handelsplatform vastgestelde rentes voor Nederlandse staatsleningen (Dutch State Loans) van verschillende looptijden;
-
-- **DTC-rente:** de dagelijks door een door de minister van Financiën aangewezen elektronisch handelsplatform vastgestelde rentes voor Nederlands schatkistpapier (Dutch Treasury Certificates) van verschillende looptijden;
-
 - **intradaglimiet:** het maximum bedrag dat gedurende de dag rood mag worden gestaan op de tussenrekening;
 
-- **rekening-courant:** de rekening-courant bij het ministerie van Financiën;
+- **rekening courant:** de rekening die een openbaar lichaam bij de schatkist van het Rijk aanhoudt;
 
 - **tussenrekening:** de rekening die het openbaar lichaam aanhoudt bij een bank via welke de zero-balancing plaatsvindt;
 
@@ -95,13 +89,15 @@ In deze regeling wordt verstaan onder:
 
 3. Een debetstand in rekening-courant is niet toegestaan.
 
+4. Het Ministerie van Financiën mag een debetstand op de rekeningcourant van een openbaar lichaam, nadat een rappel aan het openbaar lichaam is gestuurd om de debetstand op te heffen, verrekenen met een positief saldo op een depositorekening van datzelfde openbaar lichaam als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034336&artikel=4&z=2023-10-05&g=2023-10-05) van deze regeling.
+
 ##### Artikel 4. Deposito
 
 1. Een openbaar lichaam kan aan de rekening-courant een depositorekening koppelen.
 
 2. De looptijd van een deposito is minimaal gelijk aan 2 dagen en maximaal gelijk aan 30 jaar.
 
-3. Het vervroegd laten vrijvallen van een deposito is uitsluitend mogelijk indien de middelen, of een deel daarvan, benodigd zijn voor het uitoefenen van de publieke taak bedoeld in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011987&artikel=2). Het vervroegd laten vrijvallen gebeurt tegen de actuele marktwaarde, die wordt berekend overeenkomstig de berekening die is opgenomen in [bijlage 1 bij de Regeling rekening-courant- en leningenbeheer derden](https://wetten.overheid.nl/jci1.3:c:BWBR0021734&bijlage=1).
+3. Het vervroegd laten vrijvallen van een deposito is uitsluitend mogelijk indien de middelen, of een deel daarvan, benodigd zijn voor het uitoefenen van de publieke taak bedoeld in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011987&artikel=2). Het vervroegd laten vrijvallen gebeurt tegen de actuele marktwaarde.
 
 ##### Artikel 5. De modelovereenkomst
 
@@ -113,7 +109,7 @@ In deze regeling wordt verstaan onder:
 
 1. Over de in rekening-courant aangehouden middelen wordt de daggeldrente vergoed.
 
-2. Over een deposito wordt een rente vergoed waarvan de hoogte afhankelijk is van de looptijd van het deposito, waarbij geldt dat voor een deposito met een looptijd van maximaal 12 maanden een rente wordt vergoed die gelijk is aan de bij die looptijd horende DTC-rente, en voor een deposito met een looptijd van meer dan 12 maanden een rente wordt vergoed die gelijk is aan de bij die looptijd horende DSL-rente.
+2. Over een deposito wordt rente vergoed afhankelijk van de looptijd van het deposito. De rente is gebaseerd op de rente waartegen de Staat zichzelf financiert op de (inter)nationale geld- en kapitaalmarkt via de uitgifte van Dutch Treasury Certificates en Dutch State Loans.
 
 3. Indien de rente, bedoeld in het eerste en tweede lid, negatief is, wordt de betreffende rente gelijk gesteld aan nul.
 
@@ -125,7 +121,7 @@ Indien de overeengekomen rentevastperiode minimaal gelijk is aan een jaar en een
 
 ##### Artikel 7. Uitgezonderde middelen
 
-1. Uitgezonderd van de verplichting om in ’s Rijks schatkist te worden aangehouden, zijn:
+1. Uitgezonderd van de verplichting om in de schatkist van het Rijk te worden aangehouden, zijn:
 
 - a. middelen voor zover deze, gerekend over een kwartaal gemiddeld het drempelbedrag, bedoeld in het tweede lid, niet te boven gaan;
 
@@ -135,27 +131,23 @@ Indien de overeengekomen rentevastperiode minimaal gelijk is aan een jaar en een
 
 2. Het drempelbedrag, genoemd in het eerste lid, onder a, wordt bepaald op basis van het begrotingstotaal van het openbaar lichaam. Voor openbare lichamen met een begrotingstotaal kleiner dan of gelijk aan € 500 miljoen is het drempelbedrag gelijk aan 2,0% van het begrotingstotaal, waarbij het drempelbedrag minimaal € 1 miljoen bedraagt. Voor openbare lichamen met een begrotingstotaal groter dan € 500 miljoen is het drempelbedrag gelijk aan € 10 miljoen, vermeerderd met 0,2% van het deel van het begrotingstotaal dat de € 500 miljoen te boven gaat.
 
-##### Artikel 8. Borgstelling
+##### Artikel 8. Garantie
 
-De minister van Financiën kan een borgstelling voor derden toestaan op middelen die een openbaar lichaam in ’s Rijks schatkist aanhoudt, mits het openbaar lichaam daartoe een verzoek heeft ingediend en de middelen, die het in ’s Rijks schatkist aanhoudt, toereikend zijn.
+De Minister van Financiën kan een garantie toestaan ten aanzien van de liquide middelen die een openbaar lichaam in de schatkist van het Rijk aanhoudt, indien het openbaar lichaam daartoe een verzoek bij de Minister van Financiën heeft ingediend en de liquide middelen, die het in de schatkist van het Rijk aanhoudt, toereikend zijn.
 
 ##### Artikel 9. Uitzonderingen
 
-1. De minister van Financiën kan een openbaar lichaam op diens verzoek uitzonderen van de verplichting, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034336&artikel=2&z=2022-01-01&g=2022-01-01), indien sprake is van een van de volgende omstandigheden:
+1. De minister van Financiën kan een openbaar lichaam op diens verzoek uitzonderen van de verplichting, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034336&artikel=2&z=2023-10-05&g=2023-10-05), indien sprake is van een van de volgende omstandigheden:
 
 - a). Het openbaar lichaam beschikt niet over een eigen bankrekening;
 
-- b). Het openbaar lichaam houdt de krachtens [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011987&artikel=2) bedoelde middelen op de rekening-courant van een ander openbaar lichaam in ’s Rijks schatkist aan.
+- b). Het openbaar lichaam houdt de krachtens [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011987&artikel=2) bedoelde middelen op de rekening-courant van een ander openbaar lichaam in de schatkist van het Rijk aan.
 
 2. Een lijst van de openbare lichamen die zijn uitgezonderd op grond van het eerste lid wordt gepubliceerd op de website van het Agentschap. Een openbaar lichaam dat is uitgezonderd op grond van het eerste lid stelt het Agentschap zo spoedig mogelijk op de hoogte van wijzigingen in de omstandigheden op grond waarvan de uitzondering is verleend.
 
 ##### Artikel 10. Overgangsbepalingen
 
-1. Voor het kwartaal waarin deze regeling in werking treedt, geldt dat het bedrag aan middelen dat openbare lichamen op grond van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011987&artikel=7), buiten ’s Rijks schatkist mogen aanhouden niet wordt berekend over het hele kwartaal, maar over 31 dagen.
-
-2. Middelen op een direct opvraagbare spaarrekening waarvoor is bepaald dat over een minimum saldo gedurende een bepaalde periode de financiële instelling waarbij de spaarrekening wordt aangehouden een bonusrente vergoedt (bonusspaarrekeningen) zijn uitgezonderd van de verplichting om deze in ’s Rijks schatkist aan te houden tot 31 december 2013.
-
-3. De minister van Financiën kan een openbaar lichaam dat naar verwachting kort na de inwerkingtreding van deze regeling ophoudt te bestaan een uitzondering verlenen als bedoeld in [artikel 9, eerst lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034336&artikel=9&z=2022-01-01&g=2022-01-01). Daarnaast kan de minister van Financiën de middelen van dit openbaar lichaam voor een bepaalde periode uitzonderen van de verplichting om deze in ’s Rijks schatkist aan te houden.
+Vervallen
 
 ##### Artikel 11. Inwerkingtreding
 
@@ -165,7 +157,7 @@ Deze regeling treedt in werking op het tijdstip dat de wet tot wijziging van de 
 
 Deze regeling wordt aangehaald als: Regeling schatkistbankieren decentrale overheden.
 
-## Bijlage. behorend bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034336&artikel=5&z=2022-01-01&g=2022-01-01) van de Regeling schatkistbankieren decentrale overheden
+## Bijlage. behorend bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034336&artikel=5&z=2023-10-05&g=2023-10-05) van de Regeling schatkistbankieren decentrale overheden
 
 ### De modelovereenkomst
 
@@ -191,7 +183,7 @@ In deze overeenkomst wordt verstaan onder:
 
 ### Artikel 2. Zero-balancing
 
-### Artikel 3. Kredietlimiet
+### Artikel 3. Rekening-courantkredietlimiet
 
 ### Artikel 4. Rente rekening-courant
 
@@ -225,12 +217,12 @@ De agent
 | Renteconventie: | Dagtelling op basis van actual/360 Betaalbaarstelling respectievelijk inning van rente op de eerste kalenderdag van het kwartaal volgend op het kwartaal waarop de rente betrekking heeft |
 | Kosten: | Geen |
 
-| Voorwaarde: | Voor het plaatsen van een deposito moet er voldoende saldo staan op de rekening-courant. Het minimum bedrag voor het plaatsen van een deposito is EUR 10.000,–. |
+| Voorwaarde: | Voor het plaatsen van een deposito moet er voldoende saldo staan op de rekening-courant. |
 | --- | --- |
 | Looptijden: | 2 dagen t/m 30 jaar |
 | Renteniveaus: | Zoals bepaald in de regeling |
 | Renteconventie: | <= 1 jaar: dagtelling op basis van actual/360 > 1 jaar: dagtelling op basis van actual/actual |
-| Vervroegde opname: | Tegen marktwaarde, zoals bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034336&artikel=4&z=2022-01-01&g=2022-01-01), van de regeling. |
+| Vervroegde opname: | Tegen marktwaarde, zoals bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034336&artikel=4&z=2023-10-05&g=2023-10-05), van de regeling. |
 | Kosten: | Geen |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
