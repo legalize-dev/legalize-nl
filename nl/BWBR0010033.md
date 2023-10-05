@@ -4,7 +4,7 @@ identifier: "BWBR0010033"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-05-08"
-last_updated: "2023-01-01"
+last_updated: "2023-10-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010033"
 soort: "ministeriele-regeling"
@@ -53,6 +53,8 @@ In dit besluit wordt verstaan onder:
 - a. de dienst Infrastructuur van de Landelijke eenheid, en
 
 - b. de dienst Zeehavenpolitie van de regionale eenheid Rotterdam.
+
+4. In afwijking van het eerste lid, zijn met het toezicht op de naleving van de bepalingen over de bescherming van het publiek belang bij infrastructuur en diensten als geregeld in [hoofdstuk 14a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14a) belast het hoofd van en de ambtenaren werkzaam bij het Bureau Toetsing Investeringen van het Ministerie van Economische Zaken en Klimaat.
 
 ##### Artikel 3
 
