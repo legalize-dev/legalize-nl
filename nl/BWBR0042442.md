@@ -4,7 +4,7 @@ identifier: "BWBR0042442"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-06"
-last_updated: "2020-01-01"
+last_updated: "2023-10-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042442"
 soort: "ministeriele-regeling"
@@ -142,11 +142,13 @@ Aan de hoofden van de afdelingen en het hoofd van het directiesecretariaat wordt
 
 ##### Artikel 8
 
-Bij financiële uitgaven krijgen afdelingshoofden de bevoegdheid om tot een bedrag van € 15.000,– te tekenen. Dit geldt voor:
+Bij financiële uitgaven krijgen afdelingshoofden de bevoegdheid om tot een bedrag van € 75.000,– inclusief BTW te tekenen. Dit geldt voor:
 
 - a. het organiseren en accorderen van activiteiten binnen hun eigen afdeling/taakveld. Voorafgaand zijn deze activiteiten door de directeur geaccordeerd;
 
-- b. het accorderen van door de eigen afdeling ingediende voorstellen/uitgaven zoals opgenomen in het vastgestelde Bestedingsplan van de betreffende directie.
+- b. het accorderen van door de eigen afdeling ingediende voorstellen/uitgaven zoals opgenomen in het vastgestelde Bestedingsplan van de betreffende directie;
+
+- c. personele ontwikkeling van medewerkers zoals opleidingen en begeleiding.
 
 ##### Artikel 9
 
