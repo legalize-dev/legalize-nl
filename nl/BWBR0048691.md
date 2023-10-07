@@ -4,7 +4,7 @@ identifier: "BWBR0048691"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-07"
-last_updated: "2023-07-01"
+last_updated: "2023-10-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048691"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-1. Van het ingevolge [artikel 1, onder e, van het Mandaatbesluit plv directeur-generaal DJI](https://wetten.overheid.nl/jci1.3:c:BWBR0047762&artikel=1) aan de directeur Divisie Individuele Zaken verleende ondermandaat wordt ten aanzien van de aangelegenheden bedoeld in het tweede lid, met uitzondering van hetgeen in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048691&artikel=2&z=2023-10-07&g=2023-07-01) is bepaald, ondermandaat verleend aan:
+1. Van het ingevolge [artikel 1, onder e, van het Mandaatbesluit plv directeur-generaal DJI](https://wetten.overheid.nl/jci1.3:c:BWBR0047762&artikel=1) aan de directeur Divisie Individuele Zaken verleende ondermandaat wordt ten aanzien van de aangelegenheden bedoeld in het tweede lid, met uitzondering van hetgeen in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048691&artikel=2&z=2023-10-07&g=2023-10-07) is bepaald, ondermandaat verleend aan:
 
 - a. het hoofd Afdeling Individuele Zaken Forensische Zorg;
 
@@ -74,7 +74,7 @@ Aan de directeur Divisie Individuele Zaken is voorbehouden het nemen van ministe
 
 ##### Artikel 3
 
-1. Het aan de hoofden bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048691&artikel=1&z=2023-10-07&g=2023-07-01) verleende ondermandaat kan niet worden doorgegeven, met uitzondering van hetgeen in de eerste volzin van het tweede, derde en vierde lid van dit artikel is bepaald. Voor de toepassing van dit besluit wordt met het verlenen van ondermandaat gelijkgesteld het doorgeven van volmacht en machtiging met uitzondering van hetgeen in de tweede volzin van het tweede, derde en vierde lid van dit artikel is bepaald.
+1. Het aan de hoofden bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048691&artikel=1&z=2023-10-07&g=2023-10-07) verleende ondermandaat kan niet worden doorgegeven, met uitzondering van hetgeen in de eerste volzin van het tweede, derde en vierde lid van dit artikel is bepaald. Voor de toepassing van dit besluit wordt met het verlenen van ondermandaat gelijkgesteld het doorgeven van volmacht en machtiging met uitzondering van hetgeen in de tweede volzin van het tweede, derde en vierde lid van dit artikel is bepaald.
 
 2. Van het aan het hoofd van de Afdeling Individuele Zaken Forensische Zorg verleende ondermandaat kan ondermandaat worden verleend aan de onder hem ressorterende functionarissen voor het nemen van ministeriële beslissingen op grond van de [Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634), de [Wet verplichte geestelijke gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040635), de [Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten](https://wetten.overheid.nl/jci1.3:c:BWBR0040632) en de [Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765). Het hoofd van deze afdeling kan geen volmacht en machtiging doorgeven inzake het sluiten van convenanten en overeenkomsten, het aanbieden van vergoedingen aan en het dienaangaande sluiten van vaststellingsovereenkomsten met ter beschikking gestelde passanten en het voeren van verweer in beroepszaken terbeschikkingstelling bij de Raad voor Strafrechtstoepassing en Jeugdbescherming.
 
