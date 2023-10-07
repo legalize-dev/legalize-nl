@@ -4,7 +4,7 @@ identifier: "BWBR0032334"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-10-07"
-last_updated: "2022-03-11"
+last_updated: "2023-10-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032334"
 soort: "AMvB"
@@ -94,17 +94,17 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 Indien de risico’s of de gevolgen van een overtreding voor de volksgezondheid, diergezondheid, dierenwelzijn of milieu:
 
-- a. gering zijn of ontbreken, wordt het bedrag, bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.2&z=2022-03-11&g=2022-03-11), gehalveerd;
+- a. gering zijn of ontbreken, wordt het bedrag, bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.2&z=2023-10-07&g=2023-10-07), gehalveerd;
 
-- b. ernstig zijn, wordt het bedrag, bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.2&z=2022-03-11&g=2022-03-11), verdubbeld.
+- b. ernstig zijn, wordt het bedrag, bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.2&z=2023-10-07&g=2023-10-07), verdubbeld.
 
 ##### Artikel 2.4. Overtreding door particulier
 
-Indien een overtreding is begaan anders dan in de uitoefening van een beroep of bedrijf, wordt het voor die overtreding op grond van de [artikelen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.2&z=2022-03-11&g=2022-03-11) en [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.3&z=2022-03-11&g=2022-03-11) op te leggen boetebedrag gehalveerd.
+Indien een overtreding is begaan anders dan in de uitoefening van een beroep of bedrijf, wordt het voor die overtreding op grond van de [artikelen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.2&z=2023-10-07&g=2023-10-07) en [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.3&z=2023-10-07&g=2023-10-07) op te leggen boetebedrag gehalveerd.
 
 ##### Artikel 2.5. Recidive
 
-1. Indien ten tijde van het begaan van een overtreding nog geen vijf jaren zijn verstreken sinds een eerder aan de overtreder opgelegde bestuurlijke boete voor eenzelfde overtreding onherroepelijk is geworden, is de bestuurlijke boete gelijk aan de som van de op grond van de [artikelen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.2&z=2022-03-11&g=2022-03-11), [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.3&z=2022-03-11&g=2022-03-11) en [2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.4&z=2022-03-11&g=2022-03-11) voor de overtreding op te leggen bestuurlijke boete en de voor die eerdere overtreding opgelegde bestuurlijke boete.
+1. Indien ten tijde van het begaan van een overtreding nog geen vijf jaren zijn verstreken sinds een eerder aan de overtreder opgelegde bestuurlijke boete voor eenzelfde overtreding onherroepelijk is geworden, is de bestuurlijke boete gelijk aan de som van de op grond van de [artikelen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.2&z=2023-10-07&g=2023-10-07), [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.3&z=2023-10-07&g=2023-10-07) en [2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.4&z=2023-10-07&g=2023-10-07) voor de overtreding op te leggen bestuurlijke boete en de voor die eerdere overtreding opgelegde bestuurlijke boete.
 
 2. Bij ministeriële regeling kunnen overtredingen worden aangewezen die soortgelijk zijn aan daarbij aangewezen andere overtredingen.
 
@@ -174,7 +174,7 @@ De Raad doet jaarlijks voor 1 april schriftelijk verslag van zijn werkzaamheden 
 
 ##### Artikel 4.1. Evaluatie bestuurlijke boete
 
-Onze Minister zendt binnen drie jaar na de inwerkingtreding van dit besluit een verslag aan de Staten-Generaal over de doeltreffendheid en de effecten van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&z=2022-03-11&g=2022-03-11) in de praktijk.
+Onze Minister zendt binnen drie jaar na de inwerkingtreding van dit besluit een verslag aan de Staten-Generaal over de doeltreffendheid en de effecten van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&z=2023-10-07&g=2023-10-07) in de praktijk.
 
 ##### Artikel 4.2. Evaluatie Raad voor dierenaangelegenheden
 
@@ -274,7 +274,7 @@ Bij ministeriële regeling kunnen regels worden gesteld voor de uitvoering van n
 
 5. Bij ministeriële regeling worden regels gesteld over de gevallen waarin een erkenning wordt geschorst of ingetrokken.
 
-##### Artikel 4.11*. Besluiten ter uitvoering van verordening (EU) nr. 2019/4 en verordening (EU) nr. 2019/6
+##### Artikel 4.11. Besluiten ter uitvoering van verordening (EU) nr. 2019/4 en verordening (EU) nr. 2019/6
 
 Onze Minister is bevoegd besluiten te nemen ter uitvoering van aan een lidstaat gerichte bindende onderdelen van verordening (EU) nr. 2019/4 of verordening (EU) nr. 2019/6 of een op die verordeningen gebaseerde gedelegeerde handeling of uitvoeringshandeling, voor zover die bindende onderdelen onderwerpen betreffen, bedoeld in de [artikelen 2.2, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2), [2.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.20), [7.2, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.2), [7.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.3), [7.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.4), [7.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.6), [7.8](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.8), of [10.2 van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=10.2).
 
@@ -293,3 +293,7 @@ Indien bij ministeriële regeling onder toepassing van [artikel 7.1 van de wet](
 ### Hoofdstuk 6. Slotbepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 4.12. Schorsing en intrekking besluiten
+
+Indien bij ministeriële regeling onder toepassing van [artikel 7.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.1) is bepaald dat een besluit tot verlening van een vergunning, erkenning, toestemming, toelating, registratie, bewijs van vakbekwaamheid, goedkeuring, vrijstelling, ontheffing, algemeen verbindend verklaring of certificering is vereist, kunnen bij die ministeriële regeling regels worden gesteld over de gevallen waarin een besluit als bedoeld in die regeling wordt geschorst of ingetrokken.
