@@ -4,7 +4,7 @@ identifier: "BWBR0048695"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-07"
-last_updated: "2023-07-01"
+last_updated: "2023-10-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048695"
 soort: "ministeriele-regeling"
@@ -72,7 +72,7 @@ Van het ingevolge [artikel 1, eerste lid, van het Mandaatbesluit directeur Divis
 
 ##### Artikel 3
 
-Het in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048695&artikel=1&z=2023-10-07&g=2023-07-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0048695&artikel=2&z=2023-10-07&g=2023-07-01) verleende ondermandaat kan niet worden doorgegeven. Voor de toepassing van dit besluit wordt met het verlenen van ondermandaat gelijkgesteld het doorgeven van:
+Het in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048695&artikel=1&z=2023-10-07&g=2023-10-07) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0048695&artikel=2&z=2023-10-07&g=2023-10-07) verleende ondermandaat kan niet worden doorgegeven. Voor de toepassing van dit besluit wordt met het verlenen van ondermandaat gelijkgesteld het doorgeven van:
 
 - a. machtiging, met dien verstande dat machtiging ook toekomt aan overige medewerkers ten aanzien van aangelegenheden die hun team respectievelijk afdeling betreffen;
 
