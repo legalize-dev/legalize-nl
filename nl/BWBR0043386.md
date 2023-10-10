@@ -4,7 +4,7 @@ identifier: "BWBR0043386"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-23"
-last_updated: "2022-04-01"
+last_updated: "2023-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043386"
 soort: "ministeriele-regeling"
@@ -100,7 +100,7 @@ De minister kan subsidie verstrekken voor activiteiten ter voorbereiding van nie
 
 ##### Artikel 2.2. Hoogte van de subsidie
 
-De subsidie voor activiteiten als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=2&artikel=2.1&z=2022-04-01&g=2022-04-01) bedraagt € 750.000 per beoogde zorglocatie.
+De subsidie voor activiteiten als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=2&artikel=2.1&z=2025-10-18&g=2023-10-10) bedraagt € 750.000 per beoogde zorglocatie.
 
 ##### Artikel 2.3. Voorwaarden voor subsidie
 
@@ -140,7 +140,7 @@ De minister kan subsidie verstrekken aan instellingen voor het afstoten van best
 
 1. De hoogte van de subsidie voor het afstoten van bestaande panden bestaat uit de waarde van de betreffende locatie, minus de rest1waarde van de locatie welke door een taxateur wordt vastgesteld, met peildatum 31 december 2018.
 
-2. De waarde van de locaties is reeds vastgesteld door onafhankelijke taxateurs en bijgevoegd in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&bijlage=I&z=2022-04-01&g=2022-04-01) bij de onderhavige regeling.
+2. De waarde van de locaties is reeds vastgesteld door onafhankelijke taxateurs en bijgevoegd in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&bijlage=I&z=2025-10-18&g=2023-10-10) bij de onderhavige regeling.
 
 ##### Artikel 3.4. Voorwaarden voor subsidie
 
@@ -166,11 +166,11 @@ Subsidie wordt zonder voorafgaande verlening direct vastgesteld.
 
 1. Voor de aanvraag tot vaststelling van de subsidie wordt een door de minister vastgesteld modelformulier gebruikt.
 
-2. De aanvraag tot vaststelling van de subsidie gaat vergezeld van het officiële taxatierapport van de af te stoten locatie die mede is ondertekend door het Rijksvastgoedbedrijf, een berekening als bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=3&artikel=3.3&z=2022-04-01&g=2022-04-01) en een positief advies van de toetsgroep over het Definitief ontwerp van de te realiseren nieuwbouw.
+2. De aanvraag tot vaststelling van de subsidie gaat vergezeld van het officiële taxatierapport van de af te stoten locatie die mede is ondertekend door het Rijksvastgoedbedrijf, een berekening als bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=3&artikel=3.3&z=2025-10-18&g=2023-10-10) en een positief advies van de toetsgroep over het Definitief ontwerp van de te realiseren nieuwbouw.
 
 3. In afwijking van het tweede lid, kan de aanvraag tot vaststelling vergezeld gaan van een positief advies van de Nationaal Coördinator Groningen in plaats van een positief advies van de toetsgroep over het Definitief ontwerp van de te realiseren nieuwbouw.
 
-4. Indien er sprake is van een situatie als bedoeld in [artikel 3.4, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=3&artikel=3.4&z=2022-04-01&g=2022-04-01), gaat de aanvraag tot vaststelling vergezeld van een ondertekende verklaring door de betreffende derde inhoudende dat er geen oogmerk is om zorg in de betreffende locatie te verlenen.
+4. Indien er sprake is van een situatie als bedoeld in [artikel 3.4, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=3&artikel=3.4&z=2025-10-18&g=2023-10-10), gaat de aanvraag tot vaststelling vergezeld van een ondertekende verklaring door de betreffende derde inhoudende dat er geen oogmerk is om zorg in de betreffende locatie te verlenen.
 
 5. De minister besluit binnen 22 weken op een aanvraag tot vaststelling.
 
@@ -197,7 +197,7 @@ Op dit hoofdstuk van de regeling zijn [artikelen 4.3](https://wetten.overheid.nl
 | **A2:** | het aantal te realiseren plaatsen in de dagbesteding; |
 | **A3:** | het aantal te realiseren plaatsen in de kinderdagcentra; |
 | **B:** | het normbedrag dat is gekoppeld aan de realisatie van de betreffende plaatsen |
-| **C:** | de reeds aan de instelling verleende subsidie op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=2&z=2022-04-01&g=2022-04-01) van deze regeling |
+| **C:** | de reeds aan de instelling verleende subsidie op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=2&z=2025-10-18&g=2023-10-10) van deze regeling |
 | **D:** | het bedrag van de subsidie voor het realiseren van nieuwbouw door de aanvrager. |
 
 2. Subsidie wordt verstrekt voor ten hoogste het aantal te realiseren plaatsen dat door de minister in de verleningsbeschikking wordt bepaald.
@@ -265,6 +265,74 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 6.2. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling subsidies aardbevingsbestendige zorg
+
+## Bijlage I. Waarde zorglocaties
+
+De waarde van de af te stoten zorglocaties is vastgesteld op de volgende bedragen.
+
+Deze waarde is door onafhankelijke taxateurs vastgesteld waarbij is uitgegaan van een systematiek gebaseerd op de zogenoemde Discounted Cash Flow methode. Bij woningcorporaties is uitgegaan van de meest recente versie van het Handboek modelmatig waarderen marktwaarde.
+
+Niet alle af te stoten locaties hebben een naam. Als er geen complexnaam is wordt dit met een streepje weergegeven.
+
+| Complexnaam | Adres | Plaats | Waarde |
+| --- | --- | --- | --- |
+| Hogewerf | Hogewerflaan 6 | Appingedam | € 2.017.000 |
+| Woonvorm De Zijlen | Solwerderweg 3 + 5 | Appingedam | € 7.825.000 |
+| Berjarijke | Georg Van Saksenlaan 2A | Appingedam | € 2.204.000 |
+| – | Pieter Bieremastraat nr. 35-97 | Appingedam | € 2.783.511 |
+| – | Pieter Bieremastraat 5 | Appingedam | € 495.000 |
+| Damsterheerd | Heerdlaan 2 : deel Wlz | Appingedam | € 4.409.761 |
+| Damsterheerd | Heerdlaan 4: Onderdeel inleunwoningen | Appingedam | € 4.312.958 |
+| BetingeStaete/Ede Staal Staete | Ede Staalstraat 1-175, 5, 7 en 177-229 | Delfzijl | € 12.996.950 |
+| Vliethoven | Zwet 9 | Delfzijl | € 14.990.000 |
+| De Brug Wonen | Zwet 11 | Delfzijl | € 2.977.000 |
+| Volwassenenpsychiatrie | Jachtlaan 52 | Delfzijl | € 2.174.000 |
+| Wiemersheerd | De Schepperij 2 c.a. | Loppersum | € 4.891.227 |
+| Wiemersheerd | Hoge Heem, 1-39, 2-32 | Loppersum | € 1.975.300 |
+| Wiemersheerd | Leeuwenhof 1-32 | Loppersum | € 1.941.500 |
+| Fraamborg (2) | Esdoornlaan 2-8 | Middelstum | € 495.000 |
+| Industrieweg | Industrieweg 18 | Uithuizen | € 1.086.000 |
+| De Tille | Oude Tilsterweg 23 | Uithuizen | € 3.166.000 |
+| Engersma | Engersmastraat 2 | Uithuizen | € 863.000 |
+| Molenerf | Molenerf 15-51 | Uithuizen | € 1.161.148 |
+
+Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 4.3a. Subsidie voor verhoogde bouwkosten
+
+1. De minister kan besluiten het subsidiebedrag, bedoeld in [artikel 4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=4&artikel=4.3&z=2025-10-18&g=2023-10-10), te verhogen in het geval in verband met gestegen bouwkosten.
+
+2. De verhoging, bedoeld in het eerste lid, bedraagt ten hoogste het op basis van het in het derde lid berekende percentage van het op basis van het vierde lid berekende bedrag van de totale bouwkosten.
+
+3. Het percentage wordt berekend aan de hand van de volgende formule:
+
+(H – J) * 100/106,5
+
+waarbij wordt verstaan onder:
+
+H: de inputprijsindex bouwkosten uit de CBS tabel bouwkosten nieuwbouwwoningen die werd gehanteerd in de maand van de prijsvorming;
+
+J: 106,5 * 1,025a
+
+waarbij wordt verstaan onder:
+
+a het aantal jaren van indexatie, vanaf het jaar 2018 tot aan het moment van de prijsvorming.
+
+4. Het bedrag van de totale bouwkosten wordt berekend aan de hand van de volgende formule:
+
+D x 2,83 x 0,9
+
+waarbij wordt verstaan onder:
+
+D: het bedrag van de subsidie voor het realiseren van nieuwbouw door de aanvrager, bedoeld in [artikel 4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=4&artikel=4.3&z=2025-10-18&g=2023-10-10).
+
+5. Het subsidieplafond voor de verhoging, bedoeld in het eerste lid, bedraagt € 25.000.000 voor de looptijd van deze regeling.
+
+6. De minister verdeelt het ingevolge het subsidieplafond beschikbare bedrag op volgorde van binnenkomst van de aanvragen.
+
+### Hoodstuk 5. Subsidie voor het inrichten van de projectorganisatie
+
+### Hoofdstuk 6. Slotbepalingen
 
 ## Bijlage I. Waarde zorglocaties
 
