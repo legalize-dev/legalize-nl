@@ -4,7 +4,7 @@ identifier: "BWBR0040766"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2023-10-10"
-last_updated: "2018-03-29"
+last_updated: "2023-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040766"
 soort: "beleidsregel"
@@ -37,7 +37,7 @@ entry_into_force: "2023-09-18"
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**
 
-**In dit besluit zijn de regelingen inzake de vermindering, (gedeeltelijke) vrijstelling en teruggaaf van dividendbelasting gewijzigd. Aanleiding is de digitalisering van procedures voor het verkrijgen van een teruggaaf van dividendbelasting**.
+**Dit besluit bevat de regelingen inzake de vermindering, (gedeeltelijke) vrijstelling en teruggaaf van dividendbelasting. Dit besluit werd gewijzigd bij besluit van 18 september 2023, nr. 2023-20339. De wijziging betrof de actualisering van de bijzondere regeling waarbij gemachtigden een gebundelde indiening kunnen doen van meerdere verzoeken om teruggaaf van dividendbelasting.**
 
 ### 1. Inleiding
 
@@ -47,7 +47,9 @@ Dit besluit actualiseert het [besluit van 23 juni 2014, nr. DGB 2014/1008M](http
 
 ### 1.1. Gebruikte begrippen en afkortingen
 
-### 2. Praktische regelingen voor de (gedeeltelijke) vrijstelling of teruggaaf van Nederlandse dividendbelasting op portfoliodividenden
+### 1.1. Gebruikte begrippen en afkortingen
+
+Voor het maken van aanspraak op vermindering van Nederlandse dividendbelasting op grond van door Nederland gesloten belastingverdragen dient in bepaalde gevallen gebruik te worden gemaakt van formulieren IB 92 Universeel, IB 95 USA of IB 96 USA. Deze formulieren dienen te worden ondertekend door de aandeelhouder of de houder van de hybride lening zelf of door zijn gemachtigde. Op de desbetreffende formulieren is de eis gesteld dat, indien een gemachtigde tekent, elk formulier moet zijn vergezeld van een schriftelijke machtiging.
 
 Voor het maken van aanspraak op vermindering van Nederlandse dividendbelasting op grond van door Nederland gesloten belastingverdragen dient in bepaalde gevallen gebruik te worden gemaakt van formulieren IB 92 Universeel, IB 95 USA of IB 96 USA. Deze formulieren dienen te worden ondertekend door de aandeelhouder of de houder van de hybride lening zelf of door zijn gemachtigde. Op de desbetreffende formulieren is de eis gesteld dat, indien een gemachtigde tekent, elk formulier moet zijn vergezeld van een schriftelijke machtiging.
 
@@ -59,11 +61,9 @@ Bij de toepassing van deze regeling dient de (intermediair van de) gemachtigde o
 
 ‘Gemachtigde.
 
-Vergunning van de Belastingdienst/kantoor Buitenland d.d. ..., nr. ...’.
-
 ### 3. Gebundelde indiening van meerdere verzoeken om teruggaaf van dividendbelasting door gemachtigden namens de gerechtigden
 
-### 3.1. Gebundelde indiening van meerdere verzoeken om teruggaaf van dividendbelasting door gemachtigden namens de gerechtigden op basis van de [universele uitvoeringsvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0037270) en de [uitvoeringsvoorschriften VS](https://wetten.overheid.nl/jci1.3:c:BWBR0036213)
+### 3. Gebundelde indiening van meerdere verzoeken om teruggaaf van dividendbelasting door gemachtigden namens de gerechtigden
 
 Hierbij machtig ik overeenkomstig [artikel 12 (delegatiebepaling) van de universele uitvoeringsvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0037270&artikel=12) en [artikel 12 van de uitvoeringsvoorschriften VS](https://wetten.overheid.nl/jci1.3:c:BWBR0036213&artikel=12), de directeur van de Belastingdienst/kantoor Buitenland binnen de hieronder aangegeven kaders een bijzondere regeling te treffen inzake de teruggaaf van Nederlandse dividendbelasting met betrekking tot portfoliodividenden.
 
@@ -71,13 +71,13 @@ Hierbij machtig ik overeenkomstig [artikel 12 (delegatiebepaling) van de univers
 
 Gemachtigden die jaarlijks aanzienlijke hoeveelheden verzoeken doen om teruggaaf van dividendbelasting op basis van de [universele uitvoeringsvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0037270) namens gerechtigden kunnen deze verzoeken gebundeld indienen. Op een gebundelde indiening van meerdere verzoeken om teruggaaf beslist de inspecteur bij voor bezwaar vatbare beschikking.
 
-Aan deze bijzondere regeling zijn de volgende voorwaarden verbonden:
+Gemachtigden die namens gerechtigden jaarlijks aanzienlijke hoeveelheden verzoeken doen om teruggaaf van dividendbelasting op basis van de universele uitvoeringsvoorschriften of uitvoeringsvoorschriften VS kunnen deze verzoeken onder de volgende voorwaarden gebundeld indienen. Een van de voorwaarden is dat de Belastingdienst en de gemachtigde een overeenkomst sluiten. [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040766&bijlage=1&z=2023-10-10&g=2023-10-10) bevat deze overeenkomst. [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040766&bijlage=2&z=2023-10-10&g=2023-10-10) bevat vragen en antwoorden ter verduidelijking van de overeenkomst en de voorwaarden.
 
 ### 3.3. Gebundelde indiening van meerdere verzoeken om teruggaaf van dividendbelasting door gemachtigden namens de gerechtigden op basis van [artikel 10 van de Wet DB](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=10)
 
 Ik keur goed dat de directeur van de Belastingdienst/kantoor Buitenland de onder paragraaf 3.2 geschetste bijzondere regeling van overeenkomstige toepassing doet zijn op de verzoeken om teruggaaf van dividendbelasting door gemachtigden namens de gerechtigden op basis van [artikel 10 van de Wet DB](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=10).
 
-De bijzondere regeling zal nader worden uitgewerkt in een overeenkomst conform [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040766&bijlage=1&z=2018-03-29&g=2018-03-29) tussen de Belastingdienst en de gemachtigde.
+Ik keur goed dat de Belastingdienst/Kennis- en Expertisecentrum Buitenland de onder paragraaf 3.2 geschetste bijzondere regeling van overeenkomstige toepassing doet zijn op de verzoeken om teruggaaf van dividendbelasting door gemachtigden namens de gerechtigden op basis van [artikel 10 van de Wet DB](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=10).
 
 ### 4. Achterwege laten van aanlevering van formulieren IB 92 Universeel en IB 96 USA bij (gedeeltelijke) vrijstelling van Nederlandse dividendbelasting met betrekking tot portfoliodividenden
 
@@ -151,26 +151,102 @@ Het volgende besluit wordt ingetrokken met ingang van de inwerkingtreding van di
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-## Bijlage 1. Regeling inzake gebundelde indiening van meerdere verzoeken om teruggaaf van dividendbelasting door gemachtigden
+## Bijlage 1. Overeenkomst als bedoeld in paragraaf 3.2 van het besluit van 22 februari 2018, nr. 2018-20130, zoals laatstelijk gewijzigd bij besluit van 18 september 2023, nr. 2023-20339
 
 Tussen de Belastingdienst/Kantoor Buitenland en **[naam gemachtigde]** hierna te noemen ‘de gemachtigde’, is de volgende regeling overeengekomen met betrekking tot gebundelde indiening van meerdere verzoeken om teruggaaf van dividendbelasting.
 
 ### Definities
 
-### Algemeen
+### 1. Definities
 
-### Voorwaarden aan de regeling
+### 2. Algemeen en geldigheidsduur
 
-### Controle gebundelde indiening
+### 3. Controle vooraf
 
-### Controle achteraf
+### 4. Beslissing en betaling
 
-### Beslissing en betaling
+### 5. Controle achteraf
 
-### Ingangsdatum
+### 6. Weigering, uitsluiting en naheffing
 
 De ingangsdatum van deze regeling is **[dag] [maand] [jaar].**
 
 **Ondertekening**
+
+Dit besluit wordt in de Staatscourant gepubliceerd.
+
+Dit besluit werd gewijzigd bij besluit van 18 september 2023, nr. 2023-20339, Stcrt. 2023, 26401. De wijziging betrof de actualisering van onderdelen 3.2 en 3.3 en [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040766&bijlage=1&z=2023-10-10&g=2023-10-10) en opname van een nieuwe [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040766&bijlage=2&z=2023-10-10&g=2023-10-10). Deze onderdelen bevatten de bijzondere regeling waarbij gemachtigden een gebundelde indiening kunnen doen van meerdere verzoeken om teruggaaf van dividendbelasting.
+
+### 2. Praktische regelingen voor de (gedeeltelijke) vrijstelling of teruggaaf van Nederlandse dividendbelasting op portfoliodividenden
+
+Vergunning van de Belastingdienst/kantoor Buitenland d.d. ..., nr. ...’.
+
+### 3.1. Gebundelde indiening van meerdere verzoeken om teruggaaf van dividendbelasting door gemachtigden namens de gerechtigden op basis van de [universele uitvoeringsvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0037270) en de [uitvoeringsvoorschriften VS](https://wetten.overheid.nl/jci1.3:c:BWBR0036213)
+
+Hierbij machtig ik overeenkomstig [artikel 12 (delegatiebepaling) van de universele uitvoeringsvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0037270&artikel=12) en [artikel 12 van de uitvoeringsvoorschriften VS](https://wetten.overheid.nl/jci1.3:c:BWBR0036213&artikel=12), de directeur van de Belastingdienst/kantoor Buitenland binnen de hieronder aangegeven kaders een bijzondere regeling te treffen inzake de teruggaaf van Nederlandse dividendbelasting met betrekking tot portfoliodividenden.
+
+### 3.2. Bijzondere regeling
+
+Voor deze regeling gelden de volgende voorwaarden:
+
+### 3.3. Gebundelde indiening van meerdere verzoeken om teruggaaf van dividendbelasting door gemachtigden namens de gerechtigden op basis van [artikel 10 van de Wet DB](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=10)
+
+### Overeenkomst voor gebundelde indiening van meerdere verzoeken om teruggaaf van dividendbelasting door gemachtigden
+
+De Belastingdienst/Kennis- en Expertisecentrum Buitenland hierbij vertegenwoordigd door **[naam behandelaar]**, hierna te noemen “de Belastingdienst” en **[naam gemachtigde]** hierna te noemen “de gemachtigde”, komen het volgende overeen.
+
+### 7. OIN register en overige Informatie
+
+**Bijlage 1. van overeenkomst voor gebundelde indiening van meerdere verzoeken om teruggaaf van dividendbelasting door gemachtigden**
+
+Voor de regeling als bedoeld in paragraaf 3.2 van het besluit van 22 februari 2018, nr. 2018-20130, zoals laatstelijk gewijzigd bij besluit van 18 september 2023, nr. 2023-20339, gelden de volgende voorwaarden:
+
+## Bijlage 2. Vragen en antwoorden als bedoeld in paragraaf 3.2 van het besluit van 22 februari 2018, nr. 2018-20130, zoals laatstelijk gewijzigd bij besluit van 18 september 2023, nr. 2023-20339
+
+### Vragen en antwoorden over de voorwaarden, waaronder de overeenkomst, voor de bijzondere regeling van paragraaf 3.2 van het besluit van 22 februari 2018, nr. 2018-20130, zoals laatstelijk gewijzigd bij besluit van 18 september 2023, nr. 2023-20339
+
+Kan de gemachtigde de documenten die zij gebruikt voor de uitvoering van de voorwaarden g en j vooraf ter goedkeuring voorleggen aan de Belastingdienst?
+
+Gemachtigde kan de documenten die zij gebruikt voor de uitvoering van de voorwaarden g en j vooraf ter goedkeuring voorleggen aan de Belastingdienst. Dit is verplicht als niet aan alle elementen van de voorwaarden wordt voldaan.
+
+Volgt uit voorwaarde m dat de bewaartermijn zeven jaar is? En zo ja, gaat de zevenjaarstermijn dan lopen vanaf het moment van betaling van de dividendbelasting?
+
+Uit voorwaarde m volgt dat de bewaartermijn zeven jaar is. Voorwaarde m verwijst naar [artikel 52 AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=52). In het vierde lid van dit artikel is een bewaartermijn van zeven jaar opgenomen.
+
+De zevenjaarstermijn voor het bewaren van gegevens gaat voor de gemachtigde lopen vanaf het moment dat gegevens hun belang voor de bedrijfsvoering van de gemachtigde hebben verloren. Voor bewijsstukken die ten grondslag liggen aan een teruggaafverzoek gaat de zevenjaarstermijn daarom op zijn vroegst in vanaf het moment van verkrijgen van de teruggaaf.
+
+Wordt met een ‘indirect belang’ genoemd in voorwaarde n ook het geval bedoeld waarbij girale effecten worden gehouden via een keten van bewaarinstellingen en de effectenrekening op niveau van een tussenliggende bewaarinstelling op naam staat van de volgende bewaarinstelling in de keten?
+
+Nee. Of er een indirect belang is in de zin van voorwaarde n dient voor girale effecten te worden beoordeeld op het laagste niveau van de keten van bewaarinstellingen. Als op het laagste niveau van de keten van bewaarinstellingen de betreffende effectenrekening niet op naam staat van degene voor wie het teruggaafverzoek wordt ingediend kan het betreffende teruggaafverzoek niet worden ingediend via de bijzondere regeling.
+
+Is het juist dat de overeenkomst iedere 5 jaar moet worden vernieuwd, en zo ja, vanaf welk moment gaat de vijfjaarstermijn in?
+
+Het is juist dat de overeenkomst iedere vijf jaar dient te worden vernieuwd. De termijn gaat in vanaf het moment dat beide partijen de overeenkomst hebben getekend.
+
+Op welke wijze wordt de gemachtigde geïnformeerd indien naar aanleiding van de controle vooraf één of meer onderliggende verzoeken zijn afgewezen of gecorrigeerd?
+
+De gemachtigde krijgt bij iedere uitgevoerde correctie direct informatie over de door de Belastingdienst uitgevoerde correctie via een zogenaamd XBRL bestand. In het XBRL bestand staat welke afwijzingen en correcties hebben plaatsgevonden. Naast het XBRL bericht dat de gemachtigde direct digitaal ontvangt wordt aan de gemachtigde ook per brief een voor bezwaar vatbare beschikking gestuurd.
+
+Het beschikkingsnummer en de dagtekening van de beschikking staan ook al vermeld in het XBRL bestand dat de gemachtigde direct ontvangt als er een wijziging of correctie door de Belastingdienst is uitgevoerd. Indien de gemachtigde het niet eens is met de in het XBRL opgenomen afwijzing(en) of correctie(s) kan door of namens de betreffende gerechtigde binnen 6 weken ná dagtekening van de beschikking bezwaar worden ingesteld tegen de betreffende afwijzing of correctie. Dit bezwaar kan worden gericht aan Kennis- en Expertisecentrum Buitenland, Team Buitenlandse Investeerders 2 – Dividend.
+
+Kan de gemachtigde bezwaar instellen (namens de gerechtigde) als op basis van het XBRL bestand niet duidelijk is op welke grond er 1 of meer onderliggende verzoeken zijn afgewezen of gecorrigeerd?
+
+Ook in geval uit het XBRL bestand niet duidelijk valt op te maken op welke grond er 1 of meer onderliggende verzoeken zijn afgewezen of gecorrigeerd kan door of namens de betreffende gerechtigde, zo nodig ter behoud van rechten, bezwaar worden ingesteld tegen de afwijzing of correctie. Dit bezwaar kan worden gericht aan Kennis- en Expertisecentrum Buitenland, Team Buitenlandse Investeerders 2 – Dividend.
+
+Ziet de mogelijkheid van het instellen van controles achteraf door de Belastingdienst alleen op steekproefsgewijze (jaarlijkse) controle van de in een bepaald jaar ingediende verzoeken, of kan de controle ook zien op vragen van de Belastingdienst naar aanleiding van specifieke onderliggende verzoeken?
+
+De in onderdeel 5 bedoelde controle achteraf ziet niet op de eventuele vragen die door de Belastingdienst kunnen worden gesteld in het kader van een controle **vooraf** bedoeld in onderdeel 3. De in onderdeel 3 bedoelde controle vindt plaats voorafgaande aan de voor bezwaar vatbare beslissing op de teruggaafverzoeken. De in onderdeel 5 bedoelde controle achteraf ziet alleen op de teruggaafverzoeken waarop al bij voor bezwaar vatbare beschikking is beslist. De controle achteraf kan een steekproefsgewijze controle van alle in een jaar ingediende verzoeken betreffen, maar kan ook een controle van één of meer verzoeken betreffen over meerdere jaren. In de in onderdeel 5 bedoelde aankondiging voorafgaand aan een controle wordt door de Belastingdienst gespecificeerd waarop de controle ziet en op welke elementen wordt gecontroleerd. Voor het instellen van de controle gelden de reguliere naheffingstermijnen.
+
+In onderdeel 6 van de overeenkomst staat:
+
+Wat wordt hier bedoeld met het ‘weigeren’ (eerste gedachtestreepje) en ‘uitsluiten’ (tweede gedachtestreepje) van deelname aan de regeling en wat is het verschil?
+
+Met weigeren van deelname als bedoeld in het eerste gedachtestreepje wordt het volgende bedoeld: Als een gerechtigde volgens de Belastingdienst (mogelijk) geen aanspraak kan maken op teruggaaf van Nederlandse dividendbelasting mag gemachtigde niet langer verzoeken namens die specifieke gerechtigde via de bijzondere regeling indienen. De gemachtigde kan nog wel verzoeken indienen voor andere gerechtigden via de regeling. Het weigeren van deelname van een specifieke gerechtigde aan de regeling beperkt de gemachtigde niet om namens deze gerechtigde (reguliere) teruggaafverzoeken buiten de regeling om in te dienen.
+
+Bij een uitsluiting van deelname aan de regeling als bedoeld in het tweede gedachtestreepje wordt de gemachtigde zelf uitgesloten van de regeling en kan dan voor geen enkele gerechtigde een verzoek indienen via de bijzondere regeling. Voor de volledigheid wordt opgemerkt dat de gemachtigde dan nog wel (reguliere) teruggaafverzoeken buiten de regeling om kan indienen.
+
+Hoe wordt de beslissing tot weigeren aan de regeling in onderdeel 6 eerste gedachtestreepje dan wel uitsluiten van deelname aan de regeling in onderdeel 6 tweede gedachtestreepje genomen en bekend gemaakt?
+
+Voor beide situaties geldt: De beslissing wordt schriftelijk bekend gemaakt in de vorm van een niet voor bezwaar vatbare beschikking. Op het nemen van deze beslissing zijn de wettelijke voorschriften voor het voorbereiden en nemen van een besluit ([hoofdstuk 3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=3): zorgvuldige voorbereiding, detournement de pouvoir en evenredigheidsbeginsel) alsmede de algemene beginselen van behoorlijk bestuur van toepassing. Voor de uitsluiting van deelname aan de regeling in onderdeel 6 tweede gedachtestreepje geldt aanvullend dat de overeenkomst wordt opgezegd.
 
 Dit besluit wordt in de Staatscourant gepubliceerd.
