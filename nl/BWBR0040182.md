@@ -4,7 +4,7 @@ identifier: "BWBR0040182"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-16"
-last_updated: "2023-09-01"
+last_updated: "2023-10-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040182"
 soort: "ministeriele-regeling"
@@ -60,7 +60,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - g. **SSC-ICT:** Shared Service Centrum-ICT;
 
-- h. **HIS:** Haagse Inkoop Samenwerking;
+- h. **RIS:** Rijksinkoop Samenwerking;
 
 - i. **CDI:** Coördinerend directeur inkoop;
 
@@ -150,7 +150,7 @@ Het hoofd Fysieke en Digitale Werkomgeving is verantwoordelijk voor:
 
 - o. het houden van toezicht op de naleving van de geldende wetgeving en rijksbrede en departementale kaders en regelingen op de aandachtsgebieden van de afdeling.
 
-2. Het hoofd van de afdeling HRM wordt bijgestaan door onder hem ressorterende teamleiders.
+2. Het hoofd van de afdeling HRM wordt bijgestaan door onder hem ressorterende teamleiders en de rijkstraineecoördinator SZW.
 
 ##### Artikel 6
 
@@ -246,7 +246,7 @@ Het hoofd van de afdeling Strategieontwikkeling, Control en Informatie is verant
 
 1. Aan de hoofden van de afdelingen wordt volmacht en machtiging tot het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op personeelsaangelegenheden ten behoeve van medewerkers van de eigen organisatorische eenheid, met uitzondering van het vaststellen van beoordelingen en bijzondere beloningen van rechtstreeks onder hen ressorterende medewerkers.
 
-2. Aan de teamleiders, bedoeld in de [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040182&paragraaf=3&artikel=5&z=2023-10-11&g=2023-09-01), en [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040182&paragraaf=3&artikel=6&z=2023-10-11&g=2023-09-01) wordt volmacht en machtiging verleend ten behoeve van medewerkers van het eigen team met betrekking tot:
+2. Aan de teamleiders en rijkstraineecoördinator SZW, bedoeld in de [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040182&paragraaf=3&artikel=5&z=2023-10-11&g=2023-10-11), en [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040182&paragraaf=3&artikel=6&z=2023-10-11&g=2023-10-11) wordt volmacht en machtiging verleend ten behoeve van medewerkers van het eigen team met betrekking tot:
 
 - a. het opmaken, niet zijnde vaststellen, van een beoordeling van medewerkers;
 
@@ -264,13 +264,13 @@ Aan de hoofden van de afdelingen wordt mandaat en machtiging verleend met betrek
 
 ##### Artikel 10
 
-Aan de hoofden van de afdelingen wordt volmacht verleend tot het aangaan van overeenkomsten met een waarde van ten hoogste € 5.000,– per overeenkomst, voor zover deze betrekking hebben op activiteiten die vallen onder hun verantwoordelijkheid.
+Aan de hoofden van de afdelingen wordt volmacht verleend tot het aangaan van overeenkomsten met een waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst, voor zover deze betrekking hebben op activiteiten die vallen onder hun verantwoordelijkheid.
 
 ##### Artikel 11
 
 1. Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door de daartoe aan te wijzen plaatsvervangend directeur.
 
-2. Bij afwezigheid van een afdelingshoofd is de door hem aangewezen plaatsvervanger bevoegd zijn mandaten en volmachten als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0040182&paragraaf=4&artikel=9&z=2023-10-11&g=2023-09-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0040182&paragraaf=4&artikel=10&z=2023-10-11&g=2023-09-01) uit te oefenen.
+2. Bij afwezigheid van een afdelingshoofd is de door hem aangewezen plaatsvervanger bevoegd zijn mandaten en volmachten als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0040182&paragraaf=4&artikel=9&z=2023-10-11&g=2023-10-11) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0040182&paragraaf=4&artikel=10&z=2023-10-11&g=2023-10-11) uit te oefenen.
 
 3. Overige doorverlening van bevoegdheden door afdelingshoofden is slechts toegestaan na voorafgaande schriftelijk toestemming van de directeur.
 
