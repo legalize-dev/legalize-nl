@@ -4,7 +4,7 @@ identifier: "BWBR0046350"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-10-11"
-last_updated: "2022-08-01"
+last_updated: "2023-10-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046350"
 soort: "AMvB"
@@ -215,17 +215,109 @@ De deskundigen, bedoeld in [artikel 18a, elfde lid, van de wet](https://wetten.o
 
 Het percentage, bedoeld in [artikel 9, lid 13a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9), waarin een deel van het onderwijs kan worden gegeven in de Engelse, Duitse of Franse taal, is ten hoogste 15% per schooljaar.
 
-### Hoofdstuk 5. Slotbepalingen
+### Hoofdstuk 5. Tijdelijke nieuwkomersvoorzieningen
 
-##### Artikel 5.1. Dubbelwijziging [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0046350&hoofdstuk=2&artikel=2.4&z=2022-08-01&g=2022-08-01).
+##### Artikel 5.1. Begripsbepalingen
+
+In dit hoofdstuk wordt verstaan onder:
+
+- **inrichtingsplan:** inrichtingsplan, bedoeld in [artikel 193h, derde lid, van de wet](onbekend);
+
+- **instellingscode:** code bestaande uit twee cijfers en twee hoofdletters waarmee de school uniek is te identificeren in de Registratie Instellingen en Opleidingen;
+
+- **vestigingscode:** nummer dat bestaat uit de instellingscode, aangevuld met de twee cijfers die de vestiging aanduiden.
+
+##### Artikel 5.2. De melding en het inrichtingsplan van een tijdelijke nieuwkomersvoorziening
+
+1. De melding van het bevoegd gezag over de inrichting van een tijdelijke nieuwkomersvoorziening, bedoeld in [artikel 193h, eerste lid, van de wet](onbekend), gaat vergezeld van de volgende gegevens:
+
+- a. de naam van de contactpersoon;
+
+- b. het correspondentieadres van de contactpersoon;
+
+- c. het telefoonnummer van de contactpersoon;
+
+- d. het e-mailadres van de contactpersoon;
+
+- e. de naam en het bestuursnummer van het bevoegd gezag;
+
+- f. de naam en de instellingscode van de school en de vestigingscode waarvan de tijdelijke nieuwkomersvoorziening een uitbreiding is;
+
+- g. het vestigingsadres;
+
+- h. de startdatum;
+
+- i. het aantal leerlingen in de tijdelijke nieuwkomersvoorziening of het aantal leerlingen dat naar verwachting de tijdelijke nieuwkomersvoorziening zal bezoeken en het aantal groepen of klassen;
+
+- j. indien van toepassing de specifieke opvanglocatie waaraan de tijdelijke nieuwkomersvoorziening is verbonden; en
+
+- k. de contactgegevens van de betrokken samenwerkingsverbanden.
+
+2. Het inrichtingsplan bevat de gegevens, bedoeld in het eerste lid, en een beschrijving van de wijze waarop voldoende expertise over het aanbieden van onderwijs aan nieuwkomers wordt geborgd.
+
+3. Het bevoegd gezag stelt het inrichtingsplan beschikbaar aan de ouders van de leerlingen van een tijdelijke nieuwkomersvoorziening.
+
+##### Artikel 5.3. Doorstroomperspectief
+
+1. Het bevoegd gezag stelt voor elke leerling in een tijdelijke nieuwkomersvoorziening binnen zes weken na de inschrijving van de leerling een doorstroomperspectief vast.
+
+2. Het doorstroomperspectief bevat in elk geval een plan over de wijze waarop een leerling zo snel mogelijk en in ieder geval binnen twee jaren na inschrijving in een tijdelijke nieuwkomersvoorziening zal doorstromen naar een school voor basisonderwijs, speciale school voor basisonderwijs, school voor speciaal onderwijs, school voor voortgezet speciaal onderwijs, school voor speciaal en voortgezet speciaal onderwijs of een school voor voortgezet onderwijs, niet zijnde een tijdelijke nieuwkomersvoorziening.
+
+3. Het bevoegd gezag evalueert ten minste een keer per jaar het doorstroomperspectief in overleg met de ouders en stelt dit indien nodig bij.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 5.4. Onderwijsprogramma en de inrichting van onderwijstijd
+
+Indien een vacature voor het geven van onderwijs in een tijdelijke nieuwkomersvoorziening niet kan worden vervuld door een bevoegde leraar of door onderwijspersoneel als bedoeld in [artikel 193j van de wet](onbekend), dan kan het bevoegd gezag in afwijking van de [artikelen 8, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=8), en [9, eerste, tweede en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9) het aantal uren onderwijs in de tijdelijke nieuwkomersvoorziening tijdelijk beperken, met dien verstande dat:
+
+- a. de onderwijstijd niet meer en langer dan strikt noodzakelijk wordt beperkt;
+
+- b. leerlingen ten minste 12,5 uren per week onderwijs ontvangen verspreid over ten minste 3 dagen per week; en
+
+- c. leerlingen ten minste 10 uren per week onderwijs ontvangen in de Nederlandse taal.
+
+##### Artikel 5.5. Schoolplan en schoolgids
+
+Bij vaststelling van het schoolplan en de schoolgids, bedoeld in de [artikelen 12 tot en met 13a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=12), wordt de tijdelijke nieuwkomersvoorziening niet betrokken.
+
+##### Artikel 5.6. Opheffing tijdelijke nieuwkomersvoorziening door het bevoegd gezag
+
+1. Het bevoegd gezag meldt het voornemen tot opheffing van een tijdelijke nieuwkomersvoorziening aan Onze Minister.
+
+2. Na de melding plaatst het bevoegd gezag geen nieuwe leerlingen in de tijdelijke nieuwkomersvoorziening.
+
+3. De melding gaat vergezeld van:
+
+- a. de gegevens, bedoeld in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046350&hoofdstuk=5&artikel=5.2&z=2023-10-11&g=2023-10-11); en
+
+- b. een uitfaseringsplan.
+
+4. Bij ministeriële regeling kunnen nadere regels worden gesteld over het uitfaseringsplan.
+
+##### Artikel 5.7. Opheffing tijdelijke nieuwkomersvoorziening na verstrijken van de wettelijke termijn
+
+1. Een tijdelijke nieuwkomersvoorziening moet zijn opgeheven indien de termijn bedoeld in [artikel 193d, vierde lid, van de wet](onbekend) is verstreken.
+
+2. Onze Minister verbindt aan het besluit, bedoeld in [193d, vierde lid, van de wet](onbekend), een uiterlijke termijn voor het plaatsen van nieuwe leerlingen.
+
+3. Het bevoegd gezag zendt twee maanden voor het verstrijken van de termijn de gegevens bedoeld in [artikel 5.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046350&hoofdstuk=5&artikel=5.2&z=2023-10-11&g=2023-10-11), en het uitfaseringsplan, bedoeld in [artikel 5.6, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046350&hoofdstuk=5&artikel=5.6&z=2023-10-11&g=2023-10-11), aan Onze Minister.
+
+##### Artikel 5.8. Horizonbepaling
+
+Hoofdstuk 5 vervalt op het tijdstip waarop [hoofdstuk 2, afdeling 2 van de wet](onbekend) vervalt.
+
+### Hoofdstuk 6. Slotbepalingen
+
+##### Artikel 6.1. Dubbelwijziging [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0046350&hoofdstuk=2&artikel=2.4&z=2023-10-11&g=2023-10-11).
 
 Wijzigt dit Besluit.
 
-##### Artikel 5.2. Citeertitel
+##### Artikel 6.2. Citeertitel
 
 Dit besluit wordt aangehaald als: Inrichtingsbesluit WPO.
 
-##### Artikel 5.3. Inwerkingtreding
+##### Artikel 6.3. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 april 2022.
 
