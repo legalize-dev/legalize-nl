@@ -4,7 +4,7 @@ identifier: "BWBR0048319"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-12-05"
-last_updated: "2023-06-28"
+last_updated: "2023-10-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048319"
 soort: "ministeriele-regeling"
@@ -52,9 +52,19 @@ In deze regeling wordt verstaan onder:
 
 - **minister:** Minister voor Volkshuisvesting en Ruimtelijke Ordening;
 
-- **project:** project als bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=3&z=2023-06-28&g=2023-06-28);
+- **project:** project als bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=3&z=2023-10-12&g=2023-10-12);
 
 - **toegelaten instelling:** toegelaten instelling als bedoeld in [artikel 19 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=19).
+
+- **vereniging:** vereniging van eigenaars, woonvereniging of wooncoöperatie;
+
+- **vereniging van eigenaars:** vereniging van de eigenaars als bedoeld in [artikel 112, eerste lid, onderdeel e, van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=12);
+
+- **wijkontwikkelingsmaatschappij:** een wijkontwikkelingsmaatschappij als bedoeld in [artikel 1, tweede lid, onderdeel c, van de Regeling vrijstelling overdrachtsbelasting stedelijke herstructurering](https://wetten.overheid.nl/jci1.3:c:BWBR0016402&artikel=1);
+
+- **wooncoöperatie:** wooncoöperatie als bedoeld in [artikel 18a van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=18a);
+
+- **woonvereniging:** vereniging die eigenaar is van één of meer gebouwen en waarvan de leden het recht hebben om in een bepaalde woning die onderdeel uitmaakt van dat gebouw of die gebouwen te wonen.
 
 ##### Artikel 2. Doelstelling
 
@@ -88,7 +98,7 @@ Deze regeling heeft tot doel om, als onderdeel van een integrale aanpak, de leef
 
 - c. de voor de uitvoering van het project door de gemeente te maken noodzakelijke projectkosten.
 
-3. De gevraagde rijksbijdrage voor secundaire activiteiten als bedoeld onder [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=3&z=2023-06-28&g=2023-06-28), mag niet meer dan 30 procent van het totaal van de gevraagde rijksbijdrage bedragen.
+3. De gevraagde rijksbijdrage voor secundaire activiteiten als bedoeld onder [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=3&z=2023-10-12&g=2023-10-12), mag niet meer dan 30 procent van het totaal van de gevraagde rijksbijdrage bedragen.
 
 ##### Artikel 4. Toelatingscriteria
 
@@ -96,9 +106,9 @@ Deze regeling heeft tot doel om, als onderdeel van een integrale aanpak, de leef
 
 2. Een aanvraag wordt alleen in behandeling genomen als uit de bij de aanvraag ingediende gegevens en bescheiden blijkt dat voor het project:
 
-- a. het geheel van de aanvragen van een gemeente maximaal 10% bedraagt van het uitkeringsplafond per tranche als bepaald in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&bijlage=1&z=2023-06-28&g=2023-06-28);
+- a. het geheel van de door een gemeente ingediende aanvragen binnen een tranche maximaal € 28 miljoen bedraagt;
 
-- b. de uitkering enkel wordt aangevraagd voor de financiering van herstructureringsactiviteiten als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=3&z=2023-06-28&g=2023-06-28);
+- b. de uitkering enkel wordt aangevraagd voor de financiering van herstructureringsactiviteiten als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=3&z=2023-10-12&g=2023-10-12);
 
 - c. er sprake is van een financieel tekort;
 
@@ -106,21 +116,21 @@ Deze regeling heeft tot doel om, als onderdeel van een integrale aanpak, de leef
 
 - e. door de gemeente alleen of tezamen met andere gemeenten, provincies, waterschappen en toegelaten instellingen een financiële bijdrage wordt geleverd van ten minste 30 procent van het totale financiële tekort van de aanvraag.
 
-- f. de gemeente ten minste 100 woningen herstructureert in het geval de aanvraag of het totaal van de aanvragen ziet op herstructurering van woningen in de Stedelijk Focusgebieden, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&bijlage=2&z=2023-06-28&g=2023-06-28), of ten minste 50 woningen in het geval de aanvraag of het totaal van de aanvragen ziet op herstructurering van woningen in de grensregio’s, genoemd in bijlage 2, en de overige gebieden in Nederland.
+- f. de gemeente ten minste 100 woningen herstructureert in het geval de aanvraag of het totaal van de aanvragen ziet op herstructurering van woningen in de Stedelijk Focusgebieden, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&bijlage=2&z=2023-10-12&g=2023-10-12), of ten minste 50 woningen in het geval de aanvraag of het totaal van de aanvragen ziet op herstructurering van woningen in de grensregio’s, genoemd in bijlage 2, en de overige gebieden in Nederland.
 
 ##### Artikel 5. Verplichtingen
 
 1. De gemeente rondt de herstructureringsactiviteiten af binnen tien jaar na toekenning van de specifieke uitkering.
 
-2. In het geval dat de gemeente middelen vanuit de specifieke uitkering verstrekt aan toegelaten instellingen, is dit enkel ten behoeve van de aankoop en verwerving van woningen die door de betreffende toegelaten instelling worden ingepond als bedoeld in [artikel 3, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=3&z=2023-06-28&g=2023-06-28).
+2. In het geval dat de gemeente middelen vanuit de specifieke uitkering verstrekt aan toegelaten instellingen, is dit enkel ten behoeve van de aankoop en verwerving van woningen die door de betreffende toegelaten instelling worden ingepond als bedoeld in [artikel 3, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=3&z=2023-10-12&g=2023-10-12). In het geval dat de gemeente middelen vanuit de specifieke uitkering verstrekt aan een vereniging of wijkontwikkelingsmaatschappij waar toegelaten instellingen op enigerlei wijze deel vanuit maken, dient geborgd te zijn dat deze middelen enkel ten goede komen aan de herstructurering van de particuliere woningen.
 
 3. De minister kan op verzoek van het college de in het eerste lid genoemde termijn telkens met ten hoogste één jaar verlengen, indien sprake is van onvoorziene omstandigheden op grond waarvan het aannemelijk is dat het project niet binnen die termijn kan worden afgerond.
 
 ##### Artikel 6. Uitkeringsplafond
 
-1. Het plafond voor het totaal van de specifieke uitkeringen bedraagt het bedrag, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&bijlage=1&z=2023-06-28&g=2023-06-28).
+1. Het plafond voor het totaal van de specifieke uitkeringen bedraagt het bedrag, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&bijlage=1&z=2023-10-12&g=2023-10-12).
 
-2. Een specifieke uitkering kan worden aangevraagd binnen het aanvraagtijdvak, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&bijlage=1&z=2023-06-28&g=2023-06-28).
+2. Een specifieke uitkering kan worden aangevraagd binnen het aanvraagtijdvak, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&bijlage=1&z=2023-10-12&g=2023-10-12).
 
 3. Specifieke uitkeringen worden niet verstrekt voor belasting toegevoegde waarde verschuldigd over kosten voor de uitvoering van projecten, voor zover het bedrag van de btw in aanmerking komt voor compensatie op grond van de [Wet op het Btw-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817) of voor zover de kosten in aanmerking komen voor aftrek op grond van de [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629).
 
@@ -128,9 +138,9 @@ Deze regeling heeft tot doel om, als onderdeel van een integrale aanpak, de leef
 
 1. Een aanvraag bevat ten minste:
 
-- a. een omschrijving van het project, het projectgebied en de herstructureringsactiviteiten waarin wordt ingegaan op de wijze waarop deze voldoen aan de toelatingscriteria als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=4&z=2023-06-28&g=2023-06-28) en de verplichtingen uit [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=5&z=2023-06-28&g=2023-06-28);
+- a. een omschrijving van het project, het projectgebied en de herstructureringsactiviteiten waarin wordt ingegaan op de wijze waarop deze voldoen aan de toelatingscriteria als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=4&z=2023-10-12&g=2023-10-12) en de verplichtingen uit [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=5&z=2023-10-12&g=2023-10-12);
 
-- b. een omschrijving van de mate waarin de herstructureringsactiviteiten voldoen aan het doel van deze regeling zoals beschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=2&z=2023-06-28&g=2023-06-28);
+- b. een omschrijving van de mate waarin de herstructureringsactiviteiten voldoen aan het doel van deze regeling zoals beschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=2&z=2023-10-12&g=2023-10-12);
 
 - c. de kosten en baten van het project;
 
@@ -140,7 +150,7 @@ Deze regeling heeft tot doel om, als onderdeel van een integrale aanpak, de leef
 
 - f. de verwachte begin- en einddatum van het project.
 
-2. De minister beslist binnen 13 weken na het sluiten van het aanvraagtijdvak, als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&bijlage=1&z=2023-06-28&g=2023-06-28), over de toekenning van een specifieke uitkering. De minister beslist niet eerder op een aanvraag, dan nadat advies is ingewonnen van de commissie, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=11&z=2023-06-28&g=2023-06-28).
+2. De minister beslist binnen 13 weken na het sluiten van het aanvraagtijdvak, als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&bijlage=1&z=2023-10-12&g=2023-10-12), over de toekenning van een specifieke uitkering. De minister beslist niet eerder op een aanvraag, dan nadat advies is ingewonnen van de commissie, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=11&z=2023-10-12&g=2023-10-12).
 
 3. Een aanvraag wordt ingediend via een formulier dat beschikbaar is gesteld op de website van de Rijksdienst voor Ondernemend Nederland.
 
@@ -164,7 +174,7 @@ Deze regeling heeft tot doel om, als onderdeel van een integrale aanpak, de leef
 
 ##### Artikel 9. De beoordeling van de aanvragen
 
-1. De minister stelt een rangschikking op van de aanvragen op basis van een beoordeling van de mate waarin de projecten voldoen aan het doel zoals beschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=2&z=2023-06-28&g=2023-06-28). De rangschikking wordt bepaald op grond van de behaalde eindscores van de aanvragen bij een gezamenlijke weging van de volgende criteria:
+1. De minister stelt een rangschikking op van de aanvragen op basis van een beoordeling van de mate waarin de projecten voldoen aan het doel zoals beschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=2&z=2023-10-12&g=2023-10-12). De rangschikking wordt bepaald op grond van de behaalde eindscores van de aanvragen bij een gezamenlijke weging van de volgende criteria:
 
 - a. doeltreffendheid;
 
@@ -174,25 +184,25 @@ Deze regeling heeft tot doel om, als onderdeel van een integrale aanpak, de leef
 
 - d. prioriteit.
 
-2. De scores, bedoeld in het eerste lid, worden bepaald in overeenstemming met de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&bijlage=2&z=2023-06-28&g=2023-06-28) vastgestelde beoordelingscriteria en wegingsfactor.
+2. De scores, bedoeld in het eerste lid, worden bepaald in overeenstemming met de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&bijlage=2&z=2023-10-12&g=2023-10-12) vastgestelde beoordelingscriteria en wegingsfactor.
 
-3. Als meerdere aanvragen gelijk scoren bij de weging en de toekenning van uitkeringen zou leiden tot overschrijding van het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&bijlage=1&z=2023-06-28&g=2023-06-28) vastgestelde tranchebedrag, worden de aanvragen onderling gerangschikt op grond van de behaalde score bedoeld in het eerste lid van dit artikel onder a. Indien daarna nog steeds meerdere aanvragen gelijk scoren worden de aanvragen onderling gerangschikt op grond van de behaalde score bedoeld in het eerste lid van dit artikel het onder b en vervolgens onder c en ten slotte onder d.
+3. Als meerdere aanvragen gelijk scoren bij de weging en de toekenning van uitkeringen zou leiden tot overschrijding van het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&bijlage=1&z=2023-10-12&g=2023-10-12) vastgestelde tranchebedrag, worden de aanvragen onderling gerangschikt op grond van de behaalde score bedoeld in het eerste lid van dit artikel onder a. Indien daarna nog steeds meerdere aanvragen gelijk scoren worden de aanvragen onderling gerangschikt op grond van de behaalde score bedoeld in het eerste lid van dit artikel het onder b en vervolgens onder c en ten slotte onder d.
 
-4. De minister kan een rangschikking opstellen die afwijkt van de rangschikking, bedoeld in het eerste en derde lid, als dat in het belang is van het bereiken van het doel van deze regeling zoals beschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=2&z=2023-06-28&g=2023-06-28).
+4. De minister kan een rangschikking opstellen die afwijkt van de rangschikking, bedoeld in het eerste en derde lid, als dat in het belang is van het bereiken van het doel van deze regeling zoals beschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=2&z=2023-10-12&g=2023-10-12).
 
 ##### Artikel 10. Afwijzingsgronden
 
-1. De minister wijst een aanvraag af indien de aanvraag een onvoldoende score behaalt bij weging als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=9&z=2023-06-28&g=2023-06-28).
+1. De minister wijst een aanvraag af indien de aanvraag een onvoldoende score behaalt bij weging als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=9&z=2023-10-12&g=2023-10-12).
 
-2. De minister wijst een aanvraag geheel of gedeeltelijk af, voor zover het bedrag van de aangevraagde uitkering bij de toekenning ervan bij de rangschikking, als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=9&z=2023-06-28&g=2023-06-28), of, indien de minister gebruik maakt van de in artikel 9, vierde lid, geregelde mogelijkheid, de rangschikking bedoeld in dat lid, leidt tot een overschrijding van het uitkeringsplafond, als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=6&z=2023-06-28&g=2023-06-28).
+2. De minister wijst een aanvraag geheel of gedeeltelijk af, voor zover het bedrag van de aangevraagde uitkering bij de toekenning ervan bij de rangschikking, als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=9&z=2023-10-12&g=2023-10-12), of, indien de minister gebruik maakt van de in artikel 9, vierde lid, geregelde mogelijkheid, de rangschikking bedoeld in dat lid, leidt tot een overschrijding van het uitkeringsplafond, als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=6&z=2023-10-12&g=2023-10-12).
 
 ##### Artikel 11. Instelling en taak commissie
 
 1. Er is een onafhankelijke Toetsingscommissie herstructurering volkshuisvesting.
 
-2. De commissie adviseert de minister over de toepassing van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=9&z=2023-06-28&g=2023-06-28).
+2. De commissie adviseert de minister over de toepassing van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=9&z=2023-10-12&g=2023-10-12).
 
-3. De commissie brengt advies uit binnen 8 weken na het sluiten van het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&bijlage=1&z=2023-06-28&g=2023-06-28) bedoelde aanvraagtijdvak.
+3. De commissie brengt advies uit binnen 8 weken na het sluiten van het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&bijlage=1&z=2023-10-12&g=2023-10-12) bedoelde aanvraagtijdvak.
 
 4. De commissie verstrekt desgevraagd aan de minister de voor de uitoefening van zijn taak benodigde inlichtingen. De minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
 
@@ -200,9 +210,9 @@ Deze regeling heeft tot doel om, als onderdeel van een integrale aanpak, de leef
 
 ##### Artikel 12. Leden van de commissie
 
-1. De commissie, genoemd in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=11&z=2023-06-28&g=2023-06-28), bestaat uit een voorzitter en ten minste twee en ten hoogste vier andere leden.
+1. De commissie, genoemd in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=11&z=2023-10-12&g=2023-10-12), bestaat uit een voorzitter en ten minste twee en ten hoogste vier andere leden.
 
-2. De minister benoemt de leden voor de duur van vier jaar of tot uiterlijk zoveel eerder dat het uitkeringsplafond, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&bijlage=1&z=2023-06-28&g=2023-06-28), is uitgeput en bepaalt de vergoeding van de leden.
+2. De minister benoemt de leden voor de duur van vier jaar of tot uiterlijk zoveel eerder dat het uitkeringsplafond, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&bijlage=1&z=2023-10-12&g=2023-10-12), is uitgeput en bepaalt de vergoeding van de leden.
 
 3. De voorzitter en de andere leden hebben zitting op persoonlijke titel en oefenen hun functie uit zonder last of ruggespraak.
 
@@ -210,7 +220,7 @@ Deze regeling heeft tot doel om, als onderdeel van een integrale aanpak, de leef
 
 ##### Artikel 13. Ondersteuning van de commissie
 
-1. De commissie, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=11&z=2023-06-28&g=2023-06-28), wordt ondersteund door een secretariaat.
+1. De commissie, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=11&z=2023-10-12&g=2023-10-12), wordt ondersteund door een secretariaat.
 
 2. In het secretariaat wordt voorzien door de minister.
 
@@ -218,9 +228,9 @@ Deze regeling heeft tot doel om, als onderdeel van een integrale aanpak, de leef
 
 ##### Artikel 14. Toetsing door de commissie
 
-1. De commissie, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=11&z=2023-06-28&g=2023-06-28), stelt haar eigen werkwijze vast. Dit omvat in ieder geval een protocol omtrent de wijze waarop de commissie voorgelegde aanvragen toetst en weegt. Het protocol wordt opgesteld in overleg met de minister.
+1. De commissie, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=11&z=2023-10-12&g=2023-10-12), stelt haar eigen werkwijze vast. Dit omvat in ieder geval een protocol omtrent de wijze waarop de commissie voorgelegde aanvragen toetst en weegt. Het protocol wordt opgesteld in overleg met de minister.
 
-2. De commissie kan de indiener van de aanvraag om toelichting verzoeken omtrent de in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=7&z=2023-06-28&g=2023-06-28), bedoelde gegevens.
+2. De commissie kan de indiener van de aanvraag om toelichting verzoeken omtrent de in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=7&z=2023-10-12&g=2023-10-12), bedoelde gegevens.
 
 ##### Artikel 15. Informatievoorziening na uitkering
 
@@ -248,7 +258,7 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Deze regeling wordt aangehaald als: Meerjarige regeling specifieke uitkering herstructurering volkshuisvesting.
 
-## Bijlage 1. behorende bij [artikel 6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=6&z=2023-06-28&g=2023-06-28) van de Meerjarige regeling specifieke uitkering herstructurering volkshuisvesting (uitkeringsplafond en aanvraagtijdvak)
+## Bijlage 1. behorende bij [artikel 6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=6&z=2023-10-12&g=2023-10-12) van de Meerjarige regeling specifieke uitkering herstructurering volkshuisvesting (uitkeringsplafond en aanvraagtijdvak)
 
 ### Tranchebedragen en tijdvak loket
 
@@ -256,15 +266,15 @@ Het volgende bedrag is vanuit het Volkshuisvestingsfonds beschikbaar in 2023: �
 
 De aanvragen voor 2023 kunnen worden ingediend met ingang van 01 juli 2023. Het loket voor indiening sluit op 16 oktober 2023 om 12.00 uur.
 
-## Bijlage 2. behorende bij [artikel 4, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=4&z=2023-06-28&g=2023-06-28) en [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=9&z=2023-06-28&g=2023-06-28), van de Meerjarige regeling specifieke uitkering herstructurering volkshuisvesting (beoordelingscriteria en weging)
+## Bijlage 2. behorende bij [artikel 4, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=4&z=2023-10-12&g=2023-10-12) en [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=9&z=2023-10-12&g=2023-10-12), van de Meerjarige regeling specifieke uitkering herstructurering volkshuisvesting (beoordelingscriteria en weging)
 
 ### Beoordelingscriteria en weging
 
 De rangschikking wordt bepaald aan de hand van de eindscore van 1 tot 10,375 die wordt toebedeeld aan het project/de projecten die in de aanvraag worden beschreven. Alleen aanvragen die een eindscore behalen van 5,5 of hoger komen in aanmerking voor een uitkering.
 
-De eindscore wordt bepaald aan de hand van vier deelscores op grond van het gewogen gemiddelde van de criteria in [artikel 9, eerste lid, onderdelen a, b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=9&z=2023-06-28&g=2023-06-28):
+De eindscore wordt bepaald aan de hand van vier deelscores op grond van het gewogen gemiddelde van de criteria in [artikel 9, eerste lid, onderdelen a, b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=9&z=2023-10-12&g=2023-10-12):
 
-Het advies van de toetsingscommissie op grond van [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=11&z=2023-06-28&g=2023-06-28), ziet toe op de tussenscores a, b, en c. De tussenscore d wordt bepaald op grond van de op voorhand door de minister vastgestelde bonuspunten voor prioritaire gebieden. De eindscore wordt bepaald op grond van het gewogen gemiddelde van de scores op alle criteria uit [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=9&z=2023-06-28&g=2023-06-28).
+Het advies van de toetsingscommissie op grond van [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=11&z=2023-10-12&g=2023-10-12), ziet toe op de tussenscores a, b, en c. De tussenscore d wordt bepaald op grond van de op voorhand door de minister vastgestelde bonuspunten voor prioritaire gebieden. De eindscore wordt bepaald op grond van het gewogen gemiddelde van de scores op alle criteria uit [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=9&z=2023-10-12&g=2023-10-12).
 
 ### A. Doeltreffendheid
 
