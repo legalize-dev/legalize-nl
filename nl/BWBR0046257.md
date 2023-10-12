@@ -4,7 +4,7 @@ identifier: "BWBR0046257"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-12"
-last_updated: "2023-10-01"
+last_updated: "2023-10-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046257"
 soort: "ministeriele-regeling"
@@ -66,7 +66,7 @@ In deze regeling wort verstaan onder:
 
 ##### Artikel 2. (toestemmingsaanvraag)
 
-Bij de aanvraag om toestemming als bedoeld in [artikel 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=4) wordt ten behoeve van het verstrekken van gegevens en daarbij over te leggen bescheiden gebruik gemaakt van het model-formulier zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046257&bijlage=1&z=2023-10-12&g=2023-10-01).
+Bij de aanvraag om toestemming als bedoeld in [artikel 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=4) wordt ten behoeve van het verstrekken van gegevens en daarbij over te leggen bescheiden gebruik gemaakt van het model-formulier zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046257&bijlage=1&z=2023-10-12&g=2023-10-12).
 
 ##### Artikel 3. (beschermingsmaatregelen)
 
@@ -106,7 +106,7 @@ Bij de aanvraag om toestemming als bedoeld in [artikel 4 van de wet](https://wet
 
 - c. het beschikbaar hebben van schijnwerpers voor onmiddellijk gebruik.
 
-4. Indien het wegens bijzondere omstandigheden niet mogelijk is om één of meer van de maatregelen als bedoeld in lid 1 tot en met 3 te treffen, doet de scheepsbeheerder daarvan met redenen omkleed melding op het formulier als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046257&hoofdstuk=2&artikel=2&z=2023-10-12&g=2023-10-01), zo mogelijk met vermelding van alternatieve maatregelen die worden getroffen.
+4. Indien het wegens bijzondere omstandigheden niet mogelijk is om één of meer van de maatregelen als bedoeld in lid 1 tot en met 3 te treffen, doet de scheepsbeheerder daarvan met redenen omkleed melding op het formulier als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046257&hoofdstuk=2&artikel=2&z=2023-10-12&g=2023-10-12), zo mogelijk met vermelding van alternatieve maatregelen die worden getroffen.
 
 ### Hoofdstuk 3. De inzet van particulier maritiem beveiligingspersoneel
 
@@ -156,11 +156,11 @@ Bij de aanvraag om toestemming als bedoeld in [artikel 4 van de wet](https://wet
 
 1. De scheepsbeheerder verstrekt de kapitein de informatie, bedoeld in [artikel 2.4, eerste en tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&artikel=2.4), ten minste vier uren voor embarkatie van het beveiligingsteam, de geweldsmiddelen en de apparatuur.
 
-2. Bij de uitvoering van de vergewisplicht, bedoeld in [artikel 6, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=6) en [artikel 2.4, eerste en tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&artikel=2.4), wordt door de kapitein en de teamleider gebruik gemaakt van de model-formulieren, zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046257&bijlage=2&z=2023-10-12&g=2023-10-01), respectievelijk [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046257&bijlage=3&z=2023-10-12&g=2023-10-01). De kapitein zendt de door de kapitein en de teamleider ingevulde formulieren terstond na embarkatie ter informatie toe aan de Kustwacht en de Inspectie.
+2. Bij de uitvoering van de vergewisplicht, bedoeld in [artikel 6, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=6) en [artikel 2.4, eerste en tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&artikel=2.4), wordt door de kapitein en de teamleider gebruik gemaakt van de model-formulieren, zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046257&bijlage=2&z=2023-10-12&g=2023-10-12), respectievelijk [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046257&bijlage=3&z=2023-10-12&g=2023-10-12). De kapitein zendt de door de kapitein en de teamleider ingevulde formulieren terstond na embarkatie ter informatie toe aan de Kustwacht en de Inspectie.
 
-3. Bij de rapportages, bedoeld in [artikel 12, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=12), wordt door de kapitein en door de teamleider van het particulier maritiem beveiligingspersoneel gebruik gemaakt van het model-formulier zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046257&bijlage=4&z=2023-10-12&g=2023-10-01), respectievelijk [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046257&bijlage=5&z=2023-10-12&g=2023-10-01). De formulieren, bedoeld in het eerste lid, maken deel uit van deze rapportages. De kapitein en de teamleider zenden de rapportages, bedoeld in artikel 12, eerste lid, van de wet uiterlijk 48 uur na afloop van de debarkatie van het beveiligingsteam aan de Inspectie.
+3. Bij de rapportages, bedoeld in [artikel 12, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=12), wordt door de kapitein en door de teamleider van het particulier maritiem beveiligingspersoneel gebruik gemaakt van het model-formulier zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046257&bijlage=4&z=2023-10-12&g=2023-10-12), respectievelijk [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046257&bijlage=5&z=2023-10-12&g=2023-10-12). De formulieren, bedoeld in het eerste lid, maken deel uit van deze rapportages. De kapitein en de teamleider zenden de rapportages, bedoeld in artikel 12, eerste lid, van de wet uiterlijk 48 uur na afloop van de debarkatie van het beveiligingsteam aan de Inspectie.
 
-4. Bij de melding aan het openbaar ministerie, bedoeld in [artikel 12, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=12), wordt door de kapitein gebruik gemaakt van de meldingsformulieren, zoals opgenomen in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0046257&bijlage=6&z=2023-10-12&g=2023-10-01).
+4. Bij de melding aan het openbaar ministerie, bedoeld in [artikel 12, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=12), wordt door de kapitein gebruik gemaakt van de meldingsformulieren, zoals opgenomen in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0046257&bijlage=6&z=2023-10-12&g=2023-10-12).
 
 ### Hoofdstuk 4. De vergunning
 
@@ -168,7 +168,7 @@ Bij de aanvraag om toestemming als bedoeld in [artikel 4 van de wet](https://wet
 
 1. De Inspectie hanteert een model-formulier ten behoeve van het verstrekken van gegevens ten behoeve van het aanvragen van een vergunning. De aanvrager voegt de op het aanvraagformulier vermelde bescheiden en bewijsstukken toe als bijlagen bij de aanvraag.
 
-2. Na ontvangst van de aanvraag wordt de aanwezigheid van bescheiden en bewijsstukken getoetst aan de eisen opgenomen in de [artikelen 9 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0046257&hoofdstuk=5&paragraaf=5.1&artikel=9&z=2023-10-12&g=2023-10-01).
+2. Na ontvangst van de aanvraag wordt de aanwezigheid van bescheiden en bewijsstukken getoetst aan de eisen opgenomen in de [artikelen 9 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0046257&hoofdstuk=5&paragraaf=5.1&artikel=9&z=2023-10-12&g=2023-10-12).
 
 3. Na ontvangst aanvraag bescheiden en bewijsstukken kan de Inspectie, alvorens een besluit te nemen naar aanleiding van de vergunningaanvraag, een audit verrichten op de vestigingslocatie van de aanvrager.
 
@@ -456,137 +456,129 @@ Deze regeling treedt in werking met ingang van de datum waarop de [Wet ter Besch
 
 Deze regeling wordt aangehaald als: Regeling bescherming koopvaardij.
 
-## Annex 1. Permission application form
+## Annex 1. Permission Application Form
 
-| To be completed by the shipping company for Dutch flagged vessels with registration in the Netherlands only. For VPD-protection of vessels with registration in Curaçao please contact Maritime Authority Curaçao. This application must be submitted to the Coast Guard Centre (ccc@kustwacht.nl). The statutory timeframe in which the Coast Guard must make its decision on an application for armed private security will start once it receives parts 1 to 4 of this form, fully completed. |
-| --- |
-
-| **For Coast Guard use only:** | **For Coast Guard use only:** | **For Coast Guard use only:** | **For Coast Guard use only:** |
+| To be completed by the shipping company; for Dutch flagged vessels with registration in the Netherlands only. For VPD-protection of vessels with registration in Curaçao please contact Maritime Authority Curaçao. This application must be submitted to the following email address: **bbk@kustwacht.nl** The statutory timeframe [48 hours, weekends excluded] in which the Coastguard must make its decision on an application for armed private security will start once it receives this form, fully completed; attachments included. | To be completed by the shipping company; for Dutch flagged vessels with registration in the Netherlands only. For VPD-protection of vessels with registration in Curaçao please contact Maritime Authority Curaçao. This application must be submitted to the following email address: **bbk@kustwacht.nl** The statutory timeframe [48 hours, weekends excluded] in which the Coastguard must make its decision on an application for armed private security will start once it receives this form, fully completed; attachments included. | To be completed by the shipping company; for Dutch flagged vessels with registration in the Netherlands only. For VPD-protection of vessels with registration in Curaçao please contact Maritime Authority Curaçao. This application must be submitted to the following email address: **bbk@kustwacht.nl** The statutory timeframe [48 hours, weekends excluded] in which the Coastguard must make its decision on an application for armed private security will start once it receives this form, fully completed; attachments included. | To be completed by the shipping company; for Dutch flagged vessels with registration in the Netherlands only. For VPD-protection of vessels with registration in Curaçao please contact Maritime Authority Curaçao. This application must be submitted to the following email address: **bbk@kustwacht.nl** The statutory timeframe [48 hours, weekends excluded] in which the Coastguard must make its decision on an application for armed private security will start once it receives this form, fully completed; attachments included. |
 | --- | --- | --- | --- |
-| Contact: KWC/ Coast Guard Centre: | MIK-NL Maritime Intelligence Centre | MIK-NL Maritime Intelligence Centre | MIK-NL Maritime Intelligence Centre |
-| Tel./fax/email: | 0223 542 300 / 0223 658 358 / ccc@kustwacht.nl/MIK-NL@kustwacht.nl | 0223 542 300 / 0223 658 358 / ccc@kustwacht.nl/MIK-NL@kustwacht.nl | 0223 542 300 / 0223 658 358 / ccc@kustwacht.nl/MIK-NL@kustwacht.nl |
-| Date: |   | Kwc dossierno.: |   |
 
-| **Urgency:** **Immediate response by Coast Guard within 24 hours preferred?** |   |
+| For Coastguard use only: | For Coastguard use only: | For Coastguard use only: | For Coastguard use only: |
+| --- | --- | --- | --- |
+| Contact: | Nautisch Beheer/ WtBK | Nautisch Beheer/ WtBK | Nautisch Beheer/ WtBK |
+| e-mail: | bbk@kustwacht.nl | bbk@kustwacht.nl | bbk@kustwacht.nl |
+| Date: Time: |   | KW dossiernr: |   |
+
+| **Urgency:** □ Immediate response by Coastguard within 24 hours preferred? | **Reason:** |
 | --- | --- |
 
-|   | **PART 1 – GENERAL INFORMATION** | **PART 1 – GENERAL INFORMATION** | **PART 1 – GENERAL INFORMATION** |
+|   | PART 1 – GENERAL INFORMATION | PART 1 – GENERAL INFORMATION | PART 1 – GENERAL INFORMATION |
 | --- | --- | --- | --- |
-|   |   | Details | Notes |
-| 1 | Company name |   |   |
-| 2 | Adress |   |   |
-| 3 | Areal code / city |   |   |
-| 4 | Name of contact person(s) |   |   |
-| 5 | Email |   |   |
-| 6 | Telephone |   |   |
-| 7 | Name of ship |   |   |
-| 8 | Registration Dutch flag: | Yes / No | If ‘No’ please cancel this request. This procedure is only applicable in case of Dutch flagged vessels. |
+|   |   | Details | Remarks |
+| 0 | Registration Dutch flag | Yes □ No □ | If ‘No’ Cancel request. This procedure is only applicable in case of Dutch flagged vessels. |
+| 1 | Company name |   | Applicant must qualify as a ship manager under the Merchant Shipping (Protection) Act |
+| 2 | Address |   |   |
+| 3 | Areal code |   |   |
+| 4 | City |   |   |
+| 5 | Name of contact person(s) |   |   |
+| 6 | E-mail |   |   |
+| 7 | Telephone |   |   |
+| 8 | Name of ship |   |   |
 | 9 | Call sign |   |   |
 | 10 | IMO number |   |   |
-| 11 | Type of ship |   | E.g. tanker, dry cargo, passenger ship, RoRo, other |
-| 12 | Photo of a side view of the ship |   | Please attach photo |
+| 11 | Type of ship |   | E.g. tanker, dry cargo, passenger ship, RoRo |
+| 12 | Photo of a side view of the ship | □ | **Photo attached** |
 | 13 | Number of crew members |   |   |
-| 14 | Attach copy of ship’s general plan |   |   |
-| 15 | Attach an accommodation plan |   |   |
-| 16 | Cargo specifications |   |   |
-| 17 | Dates of transport |   |   |
-| 18 | Last port of departure before HRA |   |   |
-| 19 | First port of arrival after HRA |   |   |
-| 20 | Intended route |   |   |
+| 14 | Attach copy of ship’s general plan (including accommodation plan) | □ | **Copy of plan attached** |
+|   | **Voyage Details** | **Voyage Details** | **Voyage Details** |
+|   |   | Details | Remarks |
+| 15 | Dates of transport: 1: Start [ETD] 2: End [ETA] | 1: 2: |   |
+| 16 | Last port of departure before the Risk Area |   |   |
+| 17 | First port of arrival after the Risk Area |   |   |
+| 18 | Intended route: Attach waypoint list. **[RTZ, CSV, or Excel]** | □ | Lat/Long WGS84 [ex. 29° 40 100N / 32° 33 200 E] |
 
-|   | **PART 2 – INITIAL RISK ANALYSIS OF THE TRANSPORT to be completed by the company security officer** | **PART 2 – INITIAL RISK ANALYSIS OF THE TRANSPORT to be completed by the company security officer** | **PART 2 – INITIAL RISK ANALYSIS OF THE TRANSPORT to be completed by the company security officer** |
+|   | PART 2 – INITIAL RISK ANALYSIS OF THE TRANSPORT to be completed by the Company Security Officer | PART 2 – INITIAL RISK ANALYSIS OF THE TRANSPORT to be completed by the Company Security Officer | PART 2 – INITIAL RISK ANALYSIS OF THE TRANSPORT to be completed by the Company Security Officer |
 | --- | --- | --- | --- |
-|   |   | Details | Notes |
-| 21 | Tonnage (DWT) |   |   |
-| 22 | Free board on high risk area passage (metres/decimetres) |   |   |
-| 23 | Maximum speed |   |   |
-| 24 | Cruising speed during transport |   |   |
-| 25 | Estimated total time expected to be in the High Risk Area |   |   |
-| 26 | Manoeuvrability of the ship | **Good / average / fairly poor / poor** | **Strike out what does not apply** |
-| 27 | Weather sensitivity of the ship | Very sensitive / sensitive / less sensitive / not sensitive | Strike out what does not apply |
-| 28 | Insured value cargo |   |   |
-| 29 | Insured value ship |   |   |
+|   |   | Details | Remarks |
+| 19 | Tonnage (Deadweight or Gross Tonnage) | □ DWT: □ GT: |   |
+| 20 | Free board on the Risk Area passage **(metres/decimetres)** |   |   |
+| 21 | Maximum speed |   |   |
+| 22 | Cruising speed during transport |   |   |
+| 23 | Time expected to be in the Risk Area: 1: ETA RA 2: ETD RA 3: Total time in (H)RA | 1: 2: 3: |   |
+| 24 | Manoeuvrability of the ship | Good / average / fairly poor / poor | Strike out what does not apply |
+| 25 | Weather sensitivity of the ship | Very sensitive / sensitive / less sensitive / not sensitive | Strike out what does not apply |
+| 26 | Cargo Specifications |   |   |
+| 27 | Information insurance cargo **(like: type of insurance, name insurance company)** |   |   |
+| 28 | Information insurance ship **(like: type of insurance, name P&I or insurance company)** |   |   |
 
-| **Initial risk analysis prior to application of own protection measures** | **Initial risk analysis prior to application of own protection measures** |
+| Initial risk analysis prior to application of own protection measures | Initial risk analysis prior to application of own protection measures |
 | --- | --- |
-| **Impact level:** **1. Marine crime (ship stores)** **2. Marine crime including exposure for crew** **3. Piracy exposure** **4. Severe injury / kidnap incident** **5. Fatalities / Multiple severe injuries / Hijack of vessel** | **Frequency:** **Criteria1** **○ Exposure time in high-risk area > 48 hours** **○ Increase of attacks in the last quarter according to IMB reports** **○ Attacks reported last year according to IMB** **○ Vessel speed alignment** **○ Client / cargo resulting in extra exposure** |
-| **Risk: High / Medium / Low.** **Drag the black dot to the appropriate field in the matrix** | **Risk: High / Medium / Low.** **Drag the black dot to the appropriate field in the matrix** |
+| Impact level: 1. Marine crime (ship stores) 2. Marine crime including exposure for crew 3. Piracy exposure 4. Severe injury / kidnap incident 5. Fatalities / Multiple severe injuries / Hijack of vessel | Frequency: Criteria1 o Exposure time in (High) Risk Area more than 48 hours o Increase of attacks in the last quarter according to IMB reports o Attacks reported last year according to IMB o Vessel speed alignment o Client / cargo resulting in extra exposure |
+| Risk: High / Medium / Low. Drag the black dot to the appropriate field in the matrix | Risk: High / Medium / Low. Drag the black dot to the appropriate field in the matrix |
 |   |   |
 
 1 Mark if applicable: the sum of the markings is the frequency.
 
-|   | **PART 3 – SECURITY MEASURES / BMP5 IMPLEMENTATION** **to be completed by the Company Security Officer** | **PART 3 – SECURITY MEASURES / BMP5 IMPLEMENTATION** **to be completed by the Company Security Officer** | **PART 3 – SECURITY MEASURES / BMP5 IMPLEMENTATION** **to be completed by the Company Security Officer** |
+|   | PART 3 – SECURITY MEASURES to be completed by the Company Security Officer | PART 3 – SECURITY MEASURES to be completed by the Company Security Officer | PART 3 – SECURITY MEASURES to be completed by the Company Security Officer |
 | --- | --- | --- | --- |
-|   | **Mandatory BMP5 measures according to Article 3 of the Merchant Shipping Protection Regulation:** | **Confirmation** | **Notes** |
-| 30 | Binoculars for the team on the bridge |   |   |
-| 31 | Search lights to check the surroundings of the ship |   |   |
-| 32 | Razor wire |   |   |
-| 33 | Locking access to the bridge, the crew and passenger quarters and the engine rooms |   |   |
-| 34 | Reinforcing large windows and portholes with bars or cover plates |   |   |
-| 35 | Designating crew muster point or safe room with means of communication with the outside world, such as VHF and/or INMARSAT |   |   |
-| 36 | Mounting water or foam sprayers |   |   |
-| 37 | Preparing the crew through anti-piracy exercises |   |   |
-| 38 | Protecting the ship’s equipment and machinery from third-party use |   |   |
-| 39 | Deploying fully trained crew members to one or more lookout posts, including the use of the bridge |   |   |
+|   | Mandatory measures according to Article 3 of the Merchant Shipping Protection Regulation: | Confirmation | Remarks **Specify reason in case a box is not ticked** |
+| 29 | Binoculars for the team on the bridge | □ |   |
+| 30 | Search lights to check the surroundings of the ship | □ |   |
+| 31 | Razor wire | □ |   |
+| 32 | Locking access to the bridge, the crew and passenger quarters and the engine rooms | □ |   |
+| 33 | Reinforcing large windows and portholes with bars or cover plates | □ |   |
+| 34 | Designating crew muster point or safe room with means of communication with the outside world, such as VHF and/or INMARSAT | □ |   |
+| 35 | Mounting water or foam sprayers | □ |   |
+| 36 | Preparing the crew through anti-piracy exercises | □ |   |
+| 37 | Protecting the ship’s equipment and machinery from third-party use | □ |   |
+| 38 | Deploying fully trained crew members to one or more lookout posts, including the use of the bridge | □ |   |
 |   |   |   |   |
 |   | **Other:** |   |   |
-| 40 | CCTV enabled? |   |   |
-| 41 | Lifts taken out of service? |   |   |
-| 42 | Other protective measures |   |   |
+| 39 | CCTV enabled? | □ |   |
+| 40 | Lifts taken out of service? | □ |   |
+| 41 | Other protective measures? Specify. | □... |   |
 |   | **OTHER CONSIDERATIONS** | **OTHER CONSIDERATIONS** | **OTHER CONSIDERATIONS** |
-|   | Have the following been considered: | Yes/No | Notes |
-| 43 | Taking a different route? |   |   |
-| 44 | Sailing in convoy? |   |   |
-| 45 | Hiring unarmed security personnel? |   |   |
-
-| **Private armed maritime security preferred above VPD security?** →**Go to Part 4 (and skip Part 5)** **VPD security preferred above private armed maritime security?** →**Go to Part 5 (and skip Part 4)** **If in doubt about whether to seek permission for armed private maritime security, complete 4 and 5.** |
-| --- |
-
-|   | **PART 4 – Armed private security** **PMSC QUOTES AND DISTANCE OF DETOUR FOR VPD EMBARKATION** | **PART 4 – Armed private security** **PMSC QUOTES AND DISTANCE OF DETOUR FOR VPD EMBARKATION** | **PART 4 – Armed private security** **PMSC QUOTES AND DISTANCE OF DETOUR FOR VPD EMBARKATION** |
-| --- | --- | --- | --- |
-|   |   |   | Notes |
 |   |   |   |   |
-| 46 | Quoted price PMSC 1 (total price) |   |   |
-| 47 | Quoted price PMSC 2 (total price) |   |   |
-| 48 | Quoted price PMSC 3 (total price) |   |   |
-|   |   |   |   |
-|   | **DETAILS OF PROPOSED PMSC** | **DETAILS OF PROPOSED PMSC** | **DETAILS OF PROPOSED PMSC** |
-|   |   | Details | Notes |
-| 49 | Name of proposed PMSC / permit holder |   |   |
-| 50 | ILT permit number of PMSC |   |   |
-| 51 | Address / contact details of PMSC/permit holder |   |   |
-| 52 | Size of envisaged security team |   |   |
-| 53 | Email address of PMSC |   |   |
-| 54 | Proposed embarkation point of PMSC |   |   |
-| 55 | Proposed disembarkation point of PMSC |   |   |
-| 56 | Detour distance for VPD embarkation if known |   | Total distance for embarkation and disembarkation |
-| 57 | Further details of detours |   | Additional port calls? Time lost? Additional costs? |
-| 58 | Storage of arms and ammunition on board if the ship sails outside of the high-risk area |   |   |
-| 59 | PMSC included in SSP? |   | Yes /No |
-| 60 | Email address / telephone number of ship master |   |   |
+|   | **Have the following been considered:** | **Confirmation** | **Remarks** **Specify reason why it is not an option** |
+| 42 | Taking a different route? | □ |   |
+| 43 | Sailing in convoy? | □ |   |
+| 44 | Hiring unarmed security personnel? | □ |   |
 
-| **PART 5 – Request for Vessel Protection Detachment from Ministry of Defence** | **PART 5 – Request for Vessel Protection Detachment from Ministry of Defence** |
+| Residual risk assessment after application of own protection measures | Residual risk assessment after application of own protection measures |
 | --- | --- |
-| **Residual risk assessment after application of own protection measures** | **Residual risk assessment after application of own protection measures** |
-| **Impact level:** **1. Marine crime (ship stores)** **2. Marine crime including exposure for crew** **3. Piracy exposure** **4. Serious injury / abduction** **5. Fatalities / Multiple serious injuries / Hijacking of ship** | Frequency: **Criteria1** **○ Exposure time in high-risk area > 48 hours** **○ Increase of attacks in the last quarter in the risk area according to IMB reports** **○ Attacks reported last year according to IMB** **○ Vessel speed alignment** **○ Client / cargo resulting in extra exposure** |
-| **Risk: High / Medium / Low.** **Drag the black dot to the appropriate field in the matrix** | **Risk: High / Medium / Low.** **Drag the black dot to the appropriate field in the matrix** |
+| Impact level: 1. Marine crime (ship stores) 2. Marine crime including exposure for crew 3. Piracy exposure 4. Serious injury / abduction 5. Fatalities / Multiple serious injuries / Hijacking of ship | Frequency: Criteria1 o Exposure time in high-risk area > 48 hours o Increase of attacks in the last quarter in the risk area according to IMB reports o Attacks reported last year according to IMB o Vessel speed alignment o Client / cargo resulting in extra exposure |
+| Risk: High / Medium / Low. Drag the black dot to the appropriate field in the matrix | Risk: High / Medium / Low. Drag the black dot to the appropriate field in the matrix |
 |   |   |
 
 1 Mark if applicable: the sum of the marks is the frequency.
 
-|   | **REGARDING THE VPD EMBARKATION** | **REGARDING THE VPD EMBARKATION** | **REGARDING THE VPD EMBARKATION** |
+|   | PART 4 – Armed Private Security PMSC QUOTES AND DISTANCE OF DETOUR FOR VPD EMBARKATION | PART 4 – Armed Private Security PMSC QUOTES AND DISTANCE OF DETOUR FOR VPD EMBARKATION | PART 4 – Armed Private Security PMSC QUOTES AND DISTANCE OF DETOUR FOR VPD EMBARKATION |
 | --- | --- | --- | --- |
-|   | Question |   | Notes |
-| 61 | Name and function of contact person for the Ministry of Defence on this voyage |   |   |
-| 62 | What is the ‘minimum safe manning’ number on board? |   | According to the ship’s certificate |
-| 63 | Maximum crew according to certificates? |   | According to the ship’s certificate |
-| 64 | Extra accommodation available? |   |   |
-| 65 | How many additional berths are available? |   |   |
-| 66 | Description of medical facilities on board |   |   |
-| 67 | Description of the ship’s antenna plan (for possible helicopter operations) |   |   |
-| 68 | Contact details of your shipping agents in embarkation and disembarkation ports |   |   |
+|   |   | Details | Remarks |
+| 45 | Quoted price PMSC (total price) | €/$ |   |
+|   |   | □ | **Price offer PMSC attached** |
+|   |   |   |   |
+|   | **DETAILS OF PROPOSED PMSC** | **DETAILS OF PROPOSED PMSC** | **DETAILS OF PROPOSED PMSC** |
+|   |   | Details | Remarks |
+| 46 | Name of proposed PMSC / permit holder |   |   |
+| 47 | ILT permit number of PMSC |   |   |
+| 48 | Address / contact details of PMSC/permit holder |   |   |
+| 49 | Size of envisaged security team |   |   |
+| 50 | E-mail address of PMSC |   |   |
+| 51 | Proposed embarkation point of PMSC |   |   |
+| 52 | Proposed disembarkation point of PMSC |   |   |
+| 53 | Specify location & describe weapons storage of arms and ammunition on board when the ship sails outside of the (High) Risk Area |   |   |
+| 54 | Does the ship have a valid (interim-) International Ship Security Certificate (ISSC)? | N/A □ [< 500 GT] Yes □ No □ | **If No, does it have an approved Ship Security Plan? Yes** □ **\| No** □ |
+| 55 | E-mail address / telephone number of ship master |   |   |
 
-| I have completed this form correctly to the best of my knowledge. | I have completed this form correctly to the best of my knowledge. | I have completed this form correctly to the best of my knowledge. |
+|   | Part 5 – Vessel Protection Detachment from Ministry of Defence REGARDING THE VPD/ PCASP EMBARKATION | Part 5 – Vessel Protection Detachment from Ministry of Defence REGARDING THE VPD/ PCASP EMBARKATION | Part 5 – Vessel Protection Detachment from Ministry of Defence REGARDING THE VPD/ PCASP EMBARKATION |
+| --- | --- | --- | --- |
+|   |   | Details | Remarks |
+| 56 | What is the total number of persons for which Life-Saving Appliances are provided mentioned on the ships’ Safety Certificate? |   | In case the actual total numbers of persons exceeds, contact the RO in order to obtain a temporary exemption. |
+| 57 | What is the ‘minimum safe manning’ number on board? |   | According to the Minimum Safe Manning Certificate |
+| 58 | Extra accommodation (cabins) available? |   |   |
+| 59 | How many additional beds are available? |   |   |
+| 60 | Description of medical facilities on board |   |   |
+
+| □ I have completed this form correctly to the best of my knowledge. | □ I have completed this form correctly to the best of my knowledge. | □ I have completed this form correctly to the best of my knowledge. |
 | --- | --- | --- |
 | Name and position | Date | Signature |
 
