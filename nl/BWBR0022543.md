@@ -4,7 +4,7 @@ identifier: "BWBR0022543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-14"
-last_updated: "2023-07-01"
+last_updated: "2023-10-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022543"
 soort: "ministeriele-regeling"
@@ -48,17 +48,25 @@ Treedt in werking op het tijdstip waarop het Landbouwkwaliteitsbesluit 2007 in w
 
 In deze regeling wordt verstaan onder:
 
+- **exploitant:** de persoon als bedoeld in artikel 3, onderdeel 13, van [verordening (EU) 2018/848](32748R2018);
+
 - **minister:** Minister van Landbouw, Natuur en Voedselkwaliteit;
 
 - **verordening (EG) 1580/2007:** Verordening (EG) nr. 1580/2007 van de Commissie van 21 december 2007 tot vaststelling van bepalingen voor de uitvoering van de Verordeningen (EG) nr. 2200/96, (EG) nr. 2201/96 en (EG) nr. 1182/2007 van de Raad in de sector groenten en fruit (PbEU 2007, L 350);
 
-- **verordening (EG) 889/2008:** verordening (EG) nr. 889/2008 van de Commissie van 5 september 2008 tot vaststelling van bepalingen ter uitvoering van Verordening (EG) 834/2007 van de Raad inzake de biologische productie en de etikettering van biologische producten, wat de biologische productie, de etikettering en de controle betreft (PbEU L 250);
+- **verordening (EU) 2020/464:** [Uitvoeringsverordening 2020/464](32364R2020) van de Commissie van 26 maart 2020 tot vaststelling van een aantal uitvoeringsbepalingen voor [Verordening (EU) 2018/848](32748R2018) van het Europees Parlement en de Raad wat betreft de documenten die nodig zijn voor de erkenning met terugwerkende kracht van perioden in het kader van de omschakeling, de productie van biologische producten en de door de lidstaten te verstrekken informatie (PbEU 2020, L 98);
 
-- **verordening (EG) 1235/2008:** verordening (EG) 1235/2008 van de Commissie van 8 december 2008 houdende bepalingen ter uitvoering van Verordening (EG) nr. 834/2007 van de Raad wat de regeling voor de invoer van biologische producten uit derde landen betreft (PbEU L 334).
+- **verordening (EU) 2021/279:** [Uitvoeringsverordening (EU) 2021/279](32179R2021) van de Commissie van 22 februari 2021 tot vaststelling van bepalingen ter uitvoering van [Verordening (EU) 2018/848](32748R2018) van het Europees Parlement en de Raad wat betreft controles en andere maatregelen ter waarborging van de traceerbaarheid en naleving in de biologische productie en de etikettering van biologische producten (PbEU 2021, L 62);
+
+- **verordening (EU) 2021/2305:** Gedelegeerde [Verordening (EU) 2021/2305](32305R2021) van de Commissie van 21 oktober 2021 tot aanvulling van [Verordening (EU) 2017/625](32525R2017) van het Europees Parlement en de Raad met regels inzake de gevallen waarin en de voorwaarden waaronder biologische producten en omschakelingsproducten zijn vrijgesteld van officiële controles aan grenscontroleposten en inzake de plaats van officiële controles voor dergelijke producten, en tot wijziging van de Gedelegeerde [Verordeningen (EU) 2019/2123](32123R2019) en [(EU) 2019/2124](32124R2019) van de Commissie (PbEU 2021, L 461);
+
+- **verordening (EU) 2021/2306:** Gedelegeerde [Verordening (EU) 2021/2306](32306R2021) van de Commissie van 21 oktober 2021 tot aanvulling van [Verordening (EU) 2018/848](32748R2018) van het Europees Parlement en de Raad met regels betreffende de officiële controles van zendingen biologische producten en omschakelingsproducten die bestemd zijn voor invoer in de Unie en betreffende het inspectiecertificaat (PbEU 2021, L 461);
+
+- **verordening (EU) 2021/2307:** [Uitvoeringsverordening (EU) 2021/2307](32307R2021) van de Commissie van 21 oktober 2021 tot vaststelling van regels betreffende documenten en kennisgevingen die vereist zijn voor biologische en omschakelingsproducten die bestemd zijn voor invoer in de Unie (PbEU 2021, L 461).
 
 ##### Artikel 2
 
-1. Exploitanten als bedoeld in artikel 3, onder 13, van [verordening (EU) 2018/848](32748R2018) en groepen exploitanten, als bedoeld in artikel 36 van [verordening (EU) 2018/848](32748R2018), melden zich overeenkomstig artikel 15, aanhef en onderdeel b, van het Landbouwkwaliteitsbesluit 2007 bij de Stichting Skal overeenkomstig artikel 34, eerste lid, van [verordening (EU) 2018/848](32748R2018).
+1. Exploitanten en groepen exploitanten, als bedoeld in artikel 36 van [verordening (EU) 2018/848](32748R2018), melden zich overeenkomstig artikel 15, aanhef en onderdeel b, van het Landbouwkwaliteitsbesluit 2007 bij de Stichting Skal overeenkomstig artikel 34, eerste lid, van [verordening (EU) 2018/848](32748R2018).
 
 2. Exploitanten die onverpakte biologische producten, met uitzondering van diervoeders, direct aan de eindconsument of eindgebruiker verkopen zijn vrijgesteld van de toepassing van artikel 34, eerste lid, van [verordening (EU) 2018/848](32748R2018), mits ze voldoen aan artikel 35, achtste lid, van [verordening (EU) 2018/848](32748R2018).
 
@@ -68,7 +76,13 @@ Indien de Stichting Skal constateert dat de bij of krachtens [verordening (EU) 2
 
 ##### Artikel 4
 
-Vervallen
+De Stichting Skal wordt aangewezen als bevoegde autoriteit met betrekking tot biologische productie en etikettering van biologische producten, bedoeld in artikel 1, tweede lid, aanhef en onderdeel i, van [verordening (EU) 2017/625](32525R2017), voor zover het betreft:
+
+- a. het beoordelen van een verzoek tot erkenning met terugwerkende kracht van perioden in het kader van de omschakeling als bedoeld artikel 1, eerste en tweede lid van [verordening 2020/464](32364R2020);
+
+- b. het verlengen van de omschakelingsperiode als bedoeld in bijlage II, deel I, punt 1.7.2 van [verordening (EU) 2018/848](32748R2018);
+
+- c. het opleggen van een nieuwe omschakelingsperiode als bedoeld in bijlage II, deel I, punt 1.7.3.
 
 ##### Artikel 5
 
@@ -76,11 +90,11 @@ Vervallen
 
 ##### Artikel 6
 
-1. De Minister kan op aanvraag een toelating verlenen als bedoeld in artikel 25, eerste lid, van [verordening (EU) 2018/848](32748R2018).
+1. De Stichting Skal kan op aanvraag een vrijstelling verlenen voor het gebruik in Nederland van niet volgens de biologische productiemethode verkregen ingrediënten van agrarische oorsprong, als bedoeld in artikel 25, eerste en derde lid, van [verordening (EU) 2018/848](32748R2018).
 
 2. Overeenkomstig [artikel 16, eerste lid, van het Landbouwkwaliteitsbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=16) kan de minister een gebeurtenis formeel als rampzalige gebeurtenis overeenkomstig artikel 22 van [verordening (EU) 2018/848](32748R2018) jo. artikel 1 van [verordening (EU) 2020/2146](32146R2020) erkennen en dan door middel van een vrijstelling of ontheffing toestemming verlenen om gedurende een beperkte periode, tot de biologische productie kan worden hervat, af te wijken van de biologische productievoorschriften onder de bij of krachtens artikel 22 [verordening (EU) 2018/848](32748R2018) gestelde voorwaarden.
 
-3. De Stichting Skal kan op aanvraag ontheffing verlenen voor het gebruik van plantaardig omschakelingsteeltmateriaal en plantaardig niet overeenkomstig de biologische productiemethode verkregen teeltmateriaal overeenkomstig bijlage II, deel I, punten 1.8.5.1 en 1.8.6, van [verordening (EU) 2018/848](32748R2018).
+3. De Stichting Skal kan op aanvraag ontheffing verlenen voor het gebruik van plantaardig niet overeenkomstig de biologische productiemethode verkregen teeltmateriaal overeenkomstig bijlage II, deel I, punten 1.8.5.1 en 1.8.6, van [verordening (EU) 2018/848](32748R2018).
 
 ##### Artikel 7
 
@@ -190,7 +204,7 @@ Vervallen
 
 ##### Artikel 23
 
-Onder bloembollen wordt verstaan: bollen, knollen, wortelstokken en andere voor vermeerdering of bloemproductie bestemde plantendelen van de in de [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=II&z=2023-07-01&g=2023-07-01) bij deze regeling onder I genoemde gewassen, voor zover zij behoren tot de daarachter onder II vermelde botanische families, geslachten of soorten.
+Onder bloembollen wordt verstaan: bollen, knollen, wortelstokken en andere voor vermeerdering of bloemproductie bestemde plantendelen van de in de [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=II&z=2023-10-14&g=2023-10-14) bij deze regeling onder I genoemde gewassen, voor zover zij behoren tot de daarachter onder II vermelde botanische families, geslachten of soorten.
 
 ##### Artikel 24
 
@@ -222,7 +236,7 @@ Als personen belast met het toezicht op de naleving als bedoeld in [artikel 15, 
 
 ##### Artikel 27
 
-De op het tijdstip van inwerkingtreding van dit artikel bij het Hoofdproductschap Akkerbouw aanhangige aanvragen en verzoeken, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=4&artikel=17&z=2023-07-01&g=2023-07-01), worden met ingang van 1 januari 2014 overeenkomstig deze regeling behandeld door de daartoe bevoegde autoriteit met inachtneming van de termijn die op dat tijdstip is verstreken sinds het tijdstip van indiening van de aanvraag of het verzoek.
+De op het tijdstip van inwerkingtreding van dit artikel bij het Hoofdproductschap Akkerbouw aanhangige aanvragen en verzoeken, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=4&artikel=17&z=2023-10-14&g=2023-10-14), worden met ingang van 1 januari 2014 overeenkomstig deze regeling behandeld door de daartoe bevoegde autoriteit met inachtneming van de termijn die op dat tijdstip is verstreken sinds het tijdstip van indiening van de aanvraag of het verzoek.
 
 ##### Artikel 28
 
@@ -932,13 +946,13 @@ De periode waarin uitlopen leeg moeten blijven als bedoeld in bijlage I, onderde
 
 ### Hoofdstuk 3. Het in de handel brengen van vlees van pluimvee
 
-### Hoofdstuk 4. Het in de handel brengen van landbouwproducten en levensmiddelen met een beschermde geografische aanduiding, oorsprongsbenaming en een bescherming als een gegarandeerde traditionele specialiteit
+### Hoofdstuk 3. Het in de handel brengen van vlees van pluimvee
 
 ### Hoofdstuk 5. Zuigelingenvoeding bestemd voor derde landen
 
 ### Hoofdstuk 5. Zuigelingenvoeding bestemd voor derde landen
 
-### Hoofdstuk 7. Toezichthouders
+### Hoofdstuk 6. Het in de handel brengen van teeltmateriaal van bloembollen
 
 ### Hoofdstuk 7. Toezichthouders
 
@@ -1029,7 +1043,7 @@ Vervallen
 
 ##### Artikel 8a
 
-1. Voor het reinigen en ontsmetten van gebouwen en installaties voor de plantaardige productie, inclusief opslag in een landbouwbedrijf, en van verwerkings- en opslagfaciliteiten mag overeenkomstig artikel 5, vierde lid, van [verordening (EU) 2021/1165](33065R2021), slechts gebruik worden gemaakt van de in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=III&z=2023-07-01&g=2023-07-01) genoemde producten onder de daarbij genoemde beperkingen.
+1. Voor het reinigen en ontsmetten van gebouwen en installaties voor de plantaardige productie, inclusief opslag in een landbouwbedrijf, en van verwerkings- en opslagfaciliteiten mag overeenkomstig artikel 5, vierde lid, van [verordening (EU) 2021/1165](33065R2021), slechts gebruik worden gemaakt van de in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=III&z=2023-10-14&g=2023-10-14) genoemde producten onder de daarbij genoemde beperkingen.
 
 2. Om gebouwen en andere installaties voor de plantaardige productie te ontdoen van insecten en andere parasieten, mag gebruik worden gemaakt van rodenticiden en de in bijlage I van [verordening (EU) 2021/1165](33065R2021) opgenomen producten. Rodenticiden worden uitsluitend gebruikt in vallen.
 
@@ -1043,9 +1057,9 @@ Vervallen
 
 ### Hoofdstuk 4. Het in de handel brengen van landbouwproducten en levensmiddelen met een beschermde geografische aanduiding, oorsprongsbenaming en een bescherming als een gegarandeerde traditionele specialiteit
 
-### Hoofdstuk 6. Het in de handel brengen van teeltmateriaal van bloembollen
+### Hoofdstuk 5. Zuigelingenvoeding bestemd voor derde landen
 
-### Hoofdstuk 8. Overige bepalingen
+### Hoofdstuk 7. Toezichthouders
 
 ## Bijlage II. als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=6&artikel=23&z=2011-01-01&g=2011-01-01) van de Landbouwkwaliteitsregeling 2007
 
@@ -1494,7 +1508,17 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage II. als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=6&artikel=23&z=2023-07-01&g=2023-07-01) van de Landbouwkwaliteitsregeling 2007
+## Bijlage I. als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=4&z=2023-10-14&g=2023-10-14) van de Landbouwkwaliteitsregeling 2007
+
+Vervallen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 26c
+
+Een controle-instelling maakt de tarieven, bedoeld in [artikel 11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=11), bekend op haar website.
+
+## Bijlage II. als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=6&artikel=23&z=2023-10-14&g=2023-10-14) van de Landbouwkwaliteitsregeling 2007
 
 | I | II |
 | --- | --- |
@@ -1893,11 +1917,31 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 26c
+##### Artikel 8b
 
-Een controle-instelling maakt de tarieven, bedoeld in [artikel 11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=11), bekend op haar website.
+1. De Stichting Skal informeert de Commissie over:
 
-## Bijlage III. als bedoeld in [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=8a&z=2023-07-01&g=2023-07-01) van de Landbouwkwaliteitsregeling 2007
+- a. vrijstellingen verleend op grond van artikel 6, eerste lid, overeenkomstig artikel 25, tweede lid, van [verordening (EU) 2018/848](32748R2018);
+
+- b. gevallen van verontreiniging met niet-toegelaten producten of stoffen als bedoeld in artikel 29, negende lid, van [verordening (EU) 2018/848](32748R2018);
+
+- c. waar officiële controles worden uitgevoerd op grond van artikel 4, eerste lid, van [verordening (EU) 2021/2305](32305R2021).
+
+2. Stichting Skal informeert de Commissie en andere lidstaten middels het systeem, bedoeld in artikel 9, eerste lid, van [verordening (EU) 2021/279](32179R2021), over:
+
+- a. een vermoeden van niet-naleving als bedoeld in artikel 43, eerste lid, van [verordening (EU) 2018/848](32748R2018);
+
+- b. een vermoede of vastgestelde niet-naleving als bedoeld in artikel 7 van [verordening (EU) 2021/2307](32307R2021).
+
+3. Stichting Skal informeert de Commissie en andere lidstaten over de afwijkingen, bedoeld in artikel 4, eerste lid, van [verordening (EU) 2020/2146](32146R2020).
+
+### Hoofdstuk 2. Het in de handel brengen van groenten en fruit
+
+### Hoofdstuk 4. Het in de handel brengen van landbouwproducten en levensmiddelen met een beschermde geografische aanduiding, oorsprongsbenaming en een bescherming als een gegarandeerde traditionele specialiteit
+
+### Hoofdstuk 8. Overige bepalingen
+
+## Bijlage III. als bedoeld in [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=8a&z=2023-10-14&g=2023-10-14) van de Landbouwkwaliteitsregeling 2007
 
 Producten voor de reiniging en de ontsmetting van gebouwen en installaties voor de plantaardige productie:
 
