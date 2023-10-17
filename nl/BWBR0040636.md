@@ -4,7 +4,7 @@ identifier: "BWBR0040636"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-17"
-last_updated: "2021-07-08"
+last_updated: "2023-10-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040636"
 soort: "ministeriele-regeling"
@@ -82,7 +82,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Subsidie voor sloop met asbestverwijdering
 
-De bedragen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040636&hoofdstuk=2&artikel=2&z=2021-07-08&g=2021-07-08), worden verhoogd met:
+De bedragen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040636&hoofdstuk=2&artikel=2&z=2023-10-17&g=2023-10-17), worden verhoogd met:
 
 - a. € 10,40 voor de sloop van asbesthoudende daken, dakgoten of gevelplaten van een gebouw of bouwwerk;
 
@@ -146,7 +146,7 @@ Bij de aanvraag wordt ten minste de volgende informatie verstrekt:
 
 ##### Artikel 9. Aanvraag door een grote onderneming
 
-Onverminderd [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040636&hoofdstuk=4&artikel=8&z=2021-07-08&g=2021-07-08) wordt bij de aanvraag door een grote onderneming de volgende informatie verstrekt:
+Onverminderd [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040636&hoofdstuk=4&artikel=8&z=2023-10-17&g=2023-10-17) wordt bij de aanvraag door een grote onderneming de volgende informatie verstrekt:
 
 - a. een door bewijsstukken ondersteunde beschrijving van de situatie waarin geen steun zou worden verleend;
 
@@ -184,7 +184,7 @@ Bij een aanvraag van subsidie als bedoeld in [artikel 2 van het besluit](https:/
 
 ### Hoofdstuk 3. Ombouw
 
-### Hoofdstuk 4. Bepalingen die van toepassing zijn op de subsidieverstrekking krachtens [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040636&hoofdstuk=2&z=2021-07-08&g=2021-07-08) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0040636&hoofdstuk=3&z=2021-07-08&g=2021-07-08)
+### Hoofdstuk 4. Bepalingen die van toepassing zijn op de subsidieverstrekking krachtens [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040636&hoofdstuk=2&z=2023-10-17&g=2023-10-17) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0040636&hoofdstuk=3&z=2023-10-17&g=2023-10-17)
 
 ##### Artikel 8a. Uiterste aanvraagdatum
 
@@ -196,7 +196,7 @@ De datum, bedoeld in [artikel 12, onderdeel a, van het besluit](https://wetten.o
 
 ##### Artikel 8b. Uitvoeringstermijn subsidiabele activiteiten
 
-De termijn, bedoeld in [artikel 14, tweede lid , van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040594&artikel=14), is drie jaar.
+De termijn, bedoeld in [artikel 14, tweede lid , van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040594&artikel=14), is de periode tussen de datum van de verleningsbeschikking en 31 december 2029.
 
 ### Hoofdstuk 4a. Overgangsrecht
 
@@ -210,7 +210,7 @@ Op aanvragen om subsidie die zijn ingediend vóór het tijdstip van inwerkingtre
 
 Onverminderd [artikel 50, tweede lid, van het Kaderbesluit nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=50), gaat een aanvraag om subsidievaststelling vergezeld van een afschrift van de voor de sloop of ombouw verleende vergunningen.
 
-## Bijlage. als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040636&hoofdstuk=2&artikel=2&z=2021-07-08&g=2021-07-08), [artikel 4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040636&hoofdstuk=3&artikel=4&z=2021-07-08&g=2021-07-08), en [artikel 7, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040636&hoofdstuk=4&artikel=7&z=2021-07-08&g=2021-07-08)
+## Bijlage. als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040636&hoofdstuk=2&artikel=2&z=2023-10-17&g=2023-10-17), [artikel 4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040636&hoofdstuk=3&artikel=4&z=2023-10-17&g=2023-10-17), en [artikel 7, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040636&hoofdstuk=4&artikel=7&z=2023-10-17&g=2023-10-17)
 
 ### Berekening maximale subsidie per plaats voor sloop, ombouw en sloop en ombouw
 
@@ -218,19 +218,19 @@ Het bedrag dat ten hoogste als subsidie per plaats wordt verstrekt, wordt bereke
 
 Formule: subsidiebedrag per plaats = bedrag 1 + bedrag 2 – bedrag 3.
 
-### 1. Bedrag aan de hand van het aantal fokteven ([artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040636&hoofdstuk=2&artikel=2&z=2021-07-08&g=2021-07-08), [artikel 4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040636&hoofdstuk=3&artikel=4&z=2021-07-08&g=2021-07-08), en [artikel 7, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040636&hoofdstuk=4&artikel=7&z=2021-07-08&g=2021-07-08))
+### 1. Bedrag aan de hand van het aantal fokteven ([artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040636&hoofdstuk=2&artikel=2&z=2023-10-17&g=2023-10-17), [artikel 4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040636&hoofdstuk=3&artikel=4&z=2023-10-17&g=2023-10-17), en [artikel 7, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040636&hoofdstuk=4&artikel=7&z=2023-10-17&g=2023-10-17))
 
 Bedrag 1 is de optelsom van de uitkomsten van de berekeningen, bedoeld in de rijen A tot en met F, van onderstaande tabel:
 
 Formule: bedrag 1 = (aantal in rij A x € 38) + (aantal in rij B x € 35) + (aantal in rij C x € 32) + (aantal in rij D x € 29) + (aantal in rij E x € 26) + (aantal in rij F x € 23).
 
-### 2. Bedrag aan de hand van de kosten voor asbestverwijdering ([artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040636&hoofdstuk=2&artikel=2&z=2021-07-08&g=2021-07-08), [artikel 4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040636&hoofdstuk=3&artikel=4&z=2021-07-08&g=2021-07-08), en [artikel 7, onderdeel b)](https://wetten.overheid.nl/jci1.3:c:BWBR0040636&hoofdstuk=4&artikel=7&z=2021-07-08&g=2021-07-08)
+### 2. Bedrag aan de hand van de kosten voor asbestverwijdering ([artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040636&hoofdstuk=2&artikel=2&z=2023-10-17&g=2023-10-17), [artikel 4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040636&hoofdstuk=3&artikel=4&z=2023-10-17&g=2023-10-17), en [artikel 7, onderdeel b)](https://wetten.overheid.nl/jci1.3:c:BWBR0040636&hoofdstuk=4&artikel=7&z=2023-10-17&g=2023-10-17)
 
-Bedrag 2 is het aantal vierkante meter asbesthoudende daken, dakgoten of gevelplaten van een gebouw of bouwwerk die de aanvrager op de betreffende plaats sloopt, vermenigvuldigd met het bedrag, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040636&hoofdstuk=2&artikel=3&z=2021-07-08&g=2021-07-08), vermeerderd met het aantal vierkante meter andere asbesthoudende delen van een gebouw of bouwwerk die de aanvrager op de desbetreffende plaats sloopt, vermenigvuldigd met het bedrag, bedoeld in artikel 3, eerste lid, onderdeel b, vermeerderd met het aantal strekkende meter asbesthoudende omheining van de plaats die de aanvrager op de desbetreffende plaats sloopt, vermenigvuldigd met het bedrag, bedoeld in artikel 3, eerste lid, onderdeel c.
+Bedrag 2 is het aantal vierkante meter asbesthoudende daken, dakgoten of gevelplaten van een gebouw of bouwwerk die de aanvrager op de betreffende plaats sloopt, vermenigvuldigd met het bedrag, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040636&hoofdstuk=2&artikel=3&z=2023-10-17&g=2023-10-17), vermeerderd met het aantal vierkante meter andere asbesthoudende delen van een gebouw of bouwwerk die de aanvrager op de desbetreffende plaats sloopt, vermenigvuldigd met het bedrag, bedoeld in artikel 3, eerste lid, onderdeel b, vermeerderd met het aantal strekkende meter asbesthoudende omheining van de plaats die de aanvrager op de desbetreffende plaats sloopt, vermenigvuldigd met het bedrag, bedoeld in artikel 3, eerste lid, onderdeel c.
 
 Formule: bedrag 2 = (aantal vierkante meter te slopen asbesthoudende daken, dakgoten of gevelplaten x € 10,40) + (aantal vierkante meter te slopen andere asbesthoudende delen x € 18,40) + (aantal strekkende meter te slopen asbesthoudende omheining van de plaats x € 11,20).
 
-### 3. Bedrag ter correctie van het maximumbedrag aan de hand van de sloop of ombouw van gebouwen of bouwwerken met een staalconstructie ([artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040636&hoofdstuk=2&artikel=2&z=2021-07-08&g=2021-07-08), [artikel 4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040636&hoofdstuk=3&artikel=4&z=2021-07-08&g=2021-07-08), en [artikel 7, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040636&hoofdstuk=4&artikel=7&z=2021-07-08&g=2021-07-08))
+### 3. Bedrag ter correctie van het maximumbedrag aan de hand van de sloop of ombouw van gebouwen of bouwwerken met een staalconstructie ([artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040636&hoofdstuk=2&artikel=2&z=2023-10-17&g=2023-10-17), [artikel 4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040636&hoofdstuk=3&artikel=4&z=2023-10-17&g=2023-10-17), en [artikel 7, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040636&hoofdstuk=4&artikel=7&z=2023-10-17&g=2023-10-17))
 
 Bedrag 3 is het aantal vierkante meter van een gebouw of bouwwerk met een staalconstructie dat de aanvrager op de desbetreffende plaats sloopt, vermenigvuldigd met € 2,60.
 
