@@ -4,7 +4,7 @@ identifier: "BWBR0032516"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-18"
-last_updated: "2022-03-10"
+last_updated: "2023-10-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032516"
 soort: "ministeriele-regeling"
@@ -76,7 +76,7 @@ Met het toezicht op de naleving, bedoeld in [artikel 8.1, eerste lid, van de wet
 
 - 2°. de [artikelen 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=6.2), [6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=6.3), [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=6.4), [7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.2) en [7.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.5) in samenhang met de onderwerpen waarop de artikelen, genoemd in onderdeel 1°, betrekking hebben;
 
-- g. de inspecteurs van de stichting Landelijke Inspectiedienst Dierenbescherming, voor zover het betreft het toezicht op de naleving van:
+- g. de inspecteurs van de stichting Landelijke Inspectiedienst Dierenwelzijn, voor zover het betreft het toezicht op de naleving van:
 
 - 1.°. [Artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.1) en [2.2, achtste lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2) en [artikel 1.3 van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.3);
 
@@ -134,8 +134,8 @@ Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2a
 
-1. Als ambtenaren als bedoeld in [artikel 5.9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.9), worden aangewezen de in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032516&artikel=2&z=2022-03-10&g=2022-03-10), bedoelde ambtenaren.
+1. Als ambtenaren als bedoeld in [artikel 5.9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.9), worden aangewezen de in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032516&artikel=2&z=2023-10-18&g=2023-10-18), bedoelde ambtenaren.
 
-2. Als personen als bedoeld in [artikel 5.9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.9), worden aangewezen de in [artikel 2, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0032516&artikel=2&z=2022-03-10&g=2022-03-10), bedoelde personen.
+2. Als personen als bedoeld in [artikel 5.9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.9), worden aangewezen de in [artikel 2, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0032516&artikel=2&z=2023-10-18&g=2023-10-18), bedoelde personen.
 
 Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
