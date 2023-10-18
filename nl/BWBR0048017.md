@@ -4,7 +4,7 @@ identifier: "BWBR0048017"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-18"
-last_updated: "2023-04-01"
+last_updated: "2023-10-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048017"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-De stichting Landelijke Inspectiedienst Dierenbescherming is aangewezen als gemachtigde instantie als bedoeld in artikel 29 van [verordening (EU) nr. 2017/625](32525R2017) voor het verrichten van officiële controles op de naleving van de artikelen 84, 94, 96, 97 en 102 van [verordening (EU) nr. 2016/429](32329R2016), voor zover het gezelschapsdieren betreft en met uitzondering van officiële controles op de naleving van voorschriften over de identificatie en registratie van dieren.
+De stichting Landelijke Inspectiedienst Dierenwelzijn is aangewezen als gemachtigde instantie als bedoeld in artikel 29 van [verordening (EU) nr. 2017/625](32525R2017) voor het verrichten van officiële controles op de naleving van de artikelen 84, 94, 96, 97 en 102 van [verordening (EU) nr. 2016/429](32329R2016), voor zover het gezelschapsdieren betreft en met uitzondering van officiële controles op de naleving van voorschriften over de identificatie en registratie van dieren.
 
 ##### Artikel 3
 
