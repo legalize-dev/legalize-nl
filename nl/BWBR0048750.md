@@ -4,7 +4,7 @@ identifier: "BWBR0048750"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-19"
-last_updated: "2023-01-01"
+last_updated: "2023-10-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048750"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Voor het jaar 2023 is voor de beheerskosten [Wlz](https://wetten.overheid.nl/jci
 
 ##### Artikel 2
 
-Van het bedrag in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048750&artikel=1&z=2023-10-19&g=2023-01-01) genoemd van € 2,731 miljoen is € 2,506 miljoen bestemd voor de taken, bedoeld in [artikel 4.2.4, tweede lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4), en € 0,225 miljoen voor de overige bij of krachtens die wet geregelde taken van Wlz-uitvoerders.
+Van het bedrag in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048750&artikel=1&z=2023-10-19&g=2023-10-19) genoemd van € 2,731 miljoen is € 2,506 miljoen bestemd voor de taken, bedoeld in [artikel 4.2.4, tweede lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4), en € 0,225 miljoen voor de overige bij of krachtens die wet geregelde taken van Wlz-uitvoerders.
 
 ##### Artikel 3
 
