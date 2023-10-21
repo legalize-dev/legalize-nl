@@ -4,7 +4,7 @@ identifier: "BWBR0048761"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-10-23"
-last_updated: "2023-10-01"
+last_updated: "2023-10-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048761"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- **commissie:** beoordelingscommissie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048761&artikel=2&z=2023-10-21&g=2023-10-01);
+- **commissie:** beoordelingscommissie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048761&artikel=2&z=2023-10-21&g=2023-10-21);
 
 - **DUS-I:** Dienst Uitvoering Subsidies aan Instellingen;
 
