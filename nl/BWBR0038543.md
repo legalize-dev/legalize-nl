@@ -4,7 +4,7 @@ identifier: "BWBR0038543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-23"
-last_updated: "2023-08-01"
+last_updated: "2023-10-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038543"
 soort: "ministeriele-regeling"
@@ -44,11 +44,11 @@ Besluit:
 
 ##### Artikel 1. Certificaten keuzedelen
 
-Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2023-08-01&g=2023-08-01) bij deze regeling.
+Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2023-10-25&g=2023-10-25) bij deze regeling.
 
 ##### Artikel 2. Certificaat voor beroepsgerichte onderdelen
 
-Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2023-08-01&g=2023-08-01).
+Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2023-10-25&g=2023-10-25).
 
 ##### Artikel 3. Inwerkingtreding
 
@@ -126,7 +126,7 @@ Er is een certificaat verbonden aan de volgende keuzedelen:
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=1&z=2023-08-01&g=2023-08-01)
+## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=1&z=2023-10-25&g=2023-10-25)
 
 | k-code | naam keuzedeel |
 | --- | --- |
@@ -424,10 +424,20 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 | **Certificaten voor keuzedelen vanaf augustus 2023** | **Certificaten voor keuzedelen vanaf augustus 2023** |
 | K0919 | Lastechnieken gevorderd |
 | K0636 | Pneumatiek en hydrauliek geschikt voor niveau 2 en 3 |
+|   |   |
+| **Certificaten voor keuzedelen vanaf oktober 2023** | **Certificaten voor keuzedelen vanaf oktober 2023** |
+| K1401 | Functional food |
+| K1207 | Interactief ontwerpen met BIM |
+| K1312 | Onderhoud aan windturbines |
+| K0065 | Medisch secretaresse |
+| K0820 | Meet- en regeltechniek |
+| K0923 | Methodische storingsaanpak |
+| K1087 | Technieken voor carrosserieconstructie |
+| K1398 | Weerbaarheid |
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=2&z=2023-08-01&g=2023-08-01)
+## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=2&z=2023-10-25&g=2023-10-25)
 
 | c-code | Naam certificaat | crebocode | naam kwalificatie |
 | --- | --- | --- | --- |
@@ -564,6 +574,19 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 | C0131 | Meewerken in de procesindustrie | 25761 | Procesoperator A |
 | C0132 | Onderhoud van fietsen | 25231 | Fietstechnicus |
 | C0133 | Skin & care (Versie 2) | 25906 | Schoonheidsspecialist |
+|   |   |   |   |
+| **Certificaten voor beroepsgerichte onderdelen vanaf oktober 2023** | **Certificaten voor beroepsgerichte onderdelen vanaf oktober 2023** | **Certificaten voor beroepsgerichte onderdelen vanaf oktober 2023** | **Certificaten voor beroepsgerichte onderdelen vanaf oktober 2023** |
+| C0134 | Adviseren over energiebesparende maatregelen | 25920 | Commercieel technicus engineering |
+| C0135 | Afterpress productie en technische probleemoplossing | 25209 | Nabewerker |
+| C0136 | Meewerken in de printmediaproductie | 25207 | Basismedewerker printmedia |
+| C0137 | Realiseren van aansluitingen op drinkwaterdistributienetten | 25768 | Monteur gas-, water- of warmtedistributie |
+| C0138 | Press productie en technische probleemoplossing | 25208 | Drukker |
+| C0139 | Realiseren van aansluitingen op laagspanningsdistributienetten | 25769 | Monteur laagspanningsdistributie |
+| C0140 | Technisch adviseren vastgoedonderhoud | 25772 | Vastgoedadviseur |
+| C0141 | Triage | 25695 | Doktersassistent |
+| C0142 | Verzwaren meterkast laagspanning | 25769 | Monteur laagspanningsdistributie |
+| C0143 | Werken in de ambachtelijke bakkerij | 25721 | Uitvoerend bakker |
+| C0144 | Werken aan warmtedistributienetten | 25764 | Eerste monteur gas-, water- of warmtedistributie |
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
