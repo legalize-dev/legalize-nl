@@ -4,7 +4,7 @@ identifier: "BWBR0046881"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2022-07-12"
+last_updated: "2023-10-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046881"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 - **omgevingsdienst:** omgevingsdienst die is ingesteld als een openbaar lichaam als bedoeld in [artikel 8, eerste lid, van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8);
 
-- **toezichts- en handhavingsactiviteiten:** activiteiten in het kader van het toezicht op en de handhaving van de energiebesparingsplicht en informatieplicht als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&bijlage=2&z=2022-07-12&g=2022-07-12) bij deze regeling;
+- **toezichts- en handhavingsactiviteiten:** activiteiten in het kader van het toezicht op en de handhaving van de energiebesparingsplicht en informatieplicht als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&bijlage=2&z=2023-10-26&g=2023-10-26) bij deze regeling;
 
 - **VUE:** Versterkte uitvoering energiebesparings- en informatieplicht.
 
@@ -72,19 +72,19 @@ Deze regeling heeft tot doel om meerjarig additionele capaciteit voor toezicht e
 
 ##### Artikel 3. Activiteiten
 
-De minister kan op aanvraag aan een omgevingsdienst een specifieke uitkering verstrekken voor de uitvoering van activiteiten in de periode 2022 tot en met 2026 die bijdragen aan het doel zoals genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&artikel=2&z=2022-07-12&g=2022-07-12) en zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&bijlage=1&z=2022-07-12&g=2022-07-12).
+De minister kan op aanvraag aan een omgevingsdienst een specifieke uitkering verstrekken voor de uitvoering van activiteiten in de periode 2022 tot en met 2026 die bijdragen aan het doel zoals genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&artikel=2&z=2023-10-26&g=2023-10-26) en zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&bijlage=1&z=2023-10-26&g=2023-10-26).
 
 ##### Artikel 4. Hoogte, plafond en verdeling
 
 1. Het bedrag dat voor de jaren 2022 tot en met 2026 voor de specifieke uitkeringen beschikbaar is gesteld is € 56 miljoen.
 
-2. De minister verstrekt ten hoogste één specifieke uitkering per omgevingsdienst en de specifieke uitkering bedraagt ten hoogste het bedrag opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&bijlage=2&z=2022-07-12&g=2022-07-12) bij deze regeling.
+2. De minister verstrekt ten hoogste één specifieke uitkering per omgevingsdienst en de specifieke uitkering bedraagt ten hoogste het bedrag opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&bijlage=2&z=2023-10-26&g=2023-10-26) bij deze regeling.
 
 3. De minister kan aan een omgevingsdienst voorschotten op het toegekende bedrag van een specifieke uitkering verlenen.
 
-4. De bevoorschotting en uitbetaling van de specifieke uitkering aan een omgevingsdienst geschiedt in de jaren 2022 tot en met 2026 jaarlijks en bedraagt voor het desbetreffende jaar ten hoogste het bedrag opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&bijlage=2&z=2022-07-12&g=2022-07-12) bij deze regeling.
+4. De bevoorschotting en uitbetaling van de specifieke uitkering aan een omgevingsdienst geschiedt in de jaren 2022 tot en met 2026 jaarlijks en bedraagt voor het desbetreffende jaar ten hoogste het bedrag opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&bijlage=2&z=2023-10-26&g=2023-10-26) bij deze regeling.
 
-5. De bevoorschotting en uitbetaling voor het jaar 2022 geschiedt enkel indien een omgevingsdienst een aanvraag als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&artikel=5&z=2022-07-12&g=2022-07-12) heeft ingediend vóór 11 november 2022.
+5. De bevoorschotting en uitbetaling voor het jaar 2022 geschiedt enkel indien een omgevingsdienst een aanvraag als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&artikel=5&z=2023-10-26&g=2023-10-26) heeft ingediend vóór 11 november 2022.
 
 6. De kosten worden in aanmerking genomen met inbegrip van omzetbelasting, indien de omgevingsdienst die de kosten heeft gemaakt, omzetbelasting niet in aftrek kan brengen.
 
@@ -104,7 +104,7 @@ De minister kan op aanvraag aan een omgevingsdienst een specifieke uitkering ver
 
 - c. de datum van de aanvraag;
 
-- d. de hoogte van de aangevraagde specifieke uitkering, die ten hoogste het bedrag opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&bijlage=2&z=2022-07-12&g=2022-07-12) bij deze regeling bedraagt; en
+- d. de hoogte van de aangevraagde specifieke uitkering, die ten hoogste het bedrag opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&bijlage=2&z=2023-10-26&g=2023-10-26) bij deze regeling bedraagt; en
 
 - e. een projectplan.
 
@@ -114,9 +114,9 @@ De minister kan op aanvraag aan een omgevingsdienst een specifieke uitkering ver
 
 - b. een beschrijving van de doelgroep bestaande uit geïdentificeerde bedrijven en naar verwachting nog te identificeren bedrijven opgedeeld in informatieplichtig, onderzoeksplichtig (niet EU ETS) en EU ETS-deelnemers;
 
-- c. een beschrijving van de wijze waarop de activiteiten, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&bijlage=1&z=2022-07-12&g=2022-07-12), worden ingericht, uitgevoerd en gemonitord voor de jaren 2022 en 2023, onderverdeeld naar het beoogde aantal bedrijven per jaar;
+- c. een beschrijving van de wijze waarop de activiteiten, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&bijlage=1&z=2023-10-26&g=2023-10-26), worden ingericht, uitgevoerd en gemonitord voor de jaren 2022 en 2023, onderverdeeld naar het beoogde aantal bedrijven per jaar;
 
-- d. een beschrijving op hoofdlijnen van de wijze waarop en de keuze voor de activiteiten, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&bijlage=1&z=2022-07-12&g=2022-07-12), wordt ingericht, uitgevoerd en gemonitord voor de jaren 2024 tot en met 2026;
+- d. een beschrijving op hoofdlijnen van de wijze waarop en de keuze voor de activiteiten, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&bijlage=1&z=2023-10-26&g=2023-10-26), wordt ingericht, uitgevoerd en gemonitord voor de jaren 2024 tot en met 2026;
 
 - e. een gespecificeerde begroting, die inzicht geeft in de uitgaven van de omgevingsdienst, voor zover deze betrekking hebben op de activiteiten en de periode waarvoor de specifieke uitkering wordt aangevraagd; en
 
@@ -128,23 +128,23 @@ De minister kan op aanvraag aan een omgevingsdienst een specifieke uitkering ver
 
 1. De omgevingsdienst draagt er zorg voor dat de specifieke uitkering uitsluitend aan de in het projectplan opgenomen activiteiten en in de jaren 2022 tot en met 2026 wordt besteed.
 
-2. De omgevingsdienst besteedt minimaal 70% van de verstrekte specifieke uitkering aan de activiteiten zoals opgenomen in [bijlage 1, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&bijlage=1&z=2022-07-12&g=2022-07-12).
+2. De omgevingsdienst besteedt minimaal 70% van de verstrekte specifieke uitkering aan de activiteiten zoals opgenomen in [bijlage 1, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&bijlage=1&z=2023-10-26&g=2023-10-26).
 
 3. In aanvulling op het tweede lid draagt de omgevingsdienst er zorg voor dat er door besteding van de specifieke uitkering in de periode waarvoor de specifieke uitkering is verstrekt:
 
 - a. één extra fte voor toezicht en handhaving energiebesparingsplicht en informatieplicht wordt aangetrokken; en
 
-- b. de werkzaamheden van deze extra fte voor tenminste 90% worden besteed aan de in [bijlage 1, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&bijlage=1&z=2022-07-12&g=2022-07-12), genoemde activiteiten.
+- b. de werkzaamheden van deze extra fte voor tenminste 90% worden besteed aan de in [bijlage 1, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&bijlage=1&z=2023-10-26&g=2023-10-26), genoemde activiteiten.
 
-4. Indien het jaarlijkse bedrag zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&bijlage=2&z=2022-07-12&g=2022-07-12), voor de omgevingsdienst minder bedraagt dan € 140.000,–, kan de omgevingsdienst in afwijking van het derde lid, onder a, volstaan met het aantrekken van 0,5 fte voor toezicht en handhaving energiebesparingsplicht en informatieplicht.
+4. Indien het jaarlijkse bedrag zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&bijlage=2&z=2023-10-26&g=2023-10-26), voor de omgevingsdienst minder bedraagt dan € 140.000,–, kan de omgevingsdienst in afwijking van het derde lid, onder a, volstaan met het aantrekken van 0,5 fte voor toezicht en handhaving energiebesparingsplicht en informatieplicht.
 
 5. De omgevingsdienst draagt er zorg voor dat in de jaren 2023 tot en met 2026 jaarlijks minimaal 40% van de uitgekeerde middelen worden besteed.
 
-6. De omgevingsdienst draagt er zorg voor dat de werkzaamheden van de extra fte, bedoeld in het derde lid, of van de 0,5 extra fte, bedoeld in het vierde lid, en de in het projectplan opgenomen activiteiten, bedoeld in [bijlage 1, onderdeel A en B1](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&bijlage=1&z=2022-07-12&g=2022-07-12) niet door derden worden uitgevoerd of ingevuld.
+6. De omgevingsdienst draagt er zorg voor dat de werkzaamheden van de extra fte, bedoeld in het derde lid, of van de 0,5 extra fte, bedoeld in het vierde lid, en de in het projectplan opgenomen activiteiten, bedoeld in [bijlage 1, onderdeel A en B1](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&bijlage=1&z=2023-10-26&g=2023-10-26) niet door derden worden uitgevoerd of ingevuld.
 
 7. De omgevingsdienst draagt er zorg voor dat de in het projectplan opgenomen activiteiten uiterlijk op 31 december 2026 zijn afgerond.
 
-8. De omgevingsdienst werkt gedurende de looptijd van de specifieke uitkering jaarlijks, met startdatum 1 oktober 2023, de onderdelen van het projectplan, bedoeld in [artikel 5, vijfde lid, onder b, c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&artikel=5&z=2022-07-12&g=2022-07-12) bij.
+8. De omgevingsdienst werkt gedurende de looptijd van de specifieke uitkering jaarlijks, met startdatum 1 oktober 2023, de onderdelen van het projectplan, bedoeld in [artikel 5, vijfde lid, onder b, c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&artikel=5&z=2023-10-26&g=2023-10-26) bij.
 
 ##### Artikel 7. Monitoring
 
@@ -188,7 +188,7 @@ De minister kan op aanvraag aan een omgevingsdienst een specifieke uitkering ver
 
 De minister wijst een aanvraag af indien:
 
-- a. de geraamde uitgaven voor de activiteiten zoals opgenomen in de begroting, bedoeld in [artikel 5, vijfde lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&artikel=5&z=2022-07-12&g=2022-07-12), onvoldoende bijdragen aan het doel, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&artikel=2&z=2022-07-12&g=2022-07-12); of
+- a. de geraamde uitgaven voor de activiteiten zoals opgenomen in de begroting, bedoeld in [artikel 5, vijfde lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&artikel=5&z=2023-10-26&g=2023-10-26), onvoldoende bijdragen aan het doel, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&artikel=2&z=2023-10-26&g=2023-10-26); of
 
 - b. er gegronde redenen bestaan om aan te nemen dat de activiteiten waarvoor de specifieke uitkering wordt aangevraagd niet of niet geheel zullen worden uitgevoerd of de omgevingsdienst niet zal voldoen aan de in deze regeling opgenomen verplichtingen.
 
@@ -196,7 +196,7 @@ De minister wijst een aanvraag af indien:
 
 De omgevingsdienst doet onverwijld schriftelijk mededeling aan de minister zodra aannemelijk is dat:
 
-- a. de in het projectplan, bedoeld in [artikel 5, vierde lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&artikel=5&z=2022-07-12&g=2022-07-12), opgenomen activiteiten niet, niet tijdig, of niet geheel zullen worden verricht; of
+- a. de in het projectplan, bedoeld in [artikel 5, vierde lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&artikel=5&z=2023-10-26&g=2023-10-26), opgenomen activiteiten niet, niet tijdig, of niet geheel zullen worden verricht; of
 
 - b. niet, niet tijdig of niet geheel aan de aan de specifieke uitkering verbonden verplichtingen zal worden voldaan.
 
@@ -212,27 +212,29 @@ De minister stelt de specifieke uitkering overeenkomstig de verlening vast, tenz
 
 - a. de activiteiten waarvoor de specifieke uitkering is verleend, niet of niet volledig hebben plaatsgevonden, of
 
-- b. niet is voldaan aan de verplichtingen en monitoringseisen, bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&artikel=6&z=2022-07-12&g=2022-07-12) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&artikel=7&z=2022-07-12&g=2022-07-12).
+- b. niet is voldaan aan de verplichtingen en monitoringseisen, bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&artikel=6&z=2023-10-26&g=2023-10-26) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&artikel=7&z=2023-10-26&g=2023-10-26).
 
 ##### Artikel 12. Wijziging van de Regeling specifieke uitkering additionele capaciteit voor toezicht en handhaving energiebesparing
 
 Wijzigt deze regeling.
 
+Dit onderdeel is nog niet inwerking getreden
+
 ##### Artikel 13. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met uitzondering van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&artikel=12&z=2022-07-12&g=2022-07-12), dat in werking treedt per 1 december 2023.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met uitzondering van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&artikel=12&z=2023-10-26&g=2023-10-26), dat in werking treedt per 1 januari 2024.
 
 ##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering additionele capaciteit voor toezicht en handhaving energiebesparing.
 
-## Bijlage 1. Activiteiten als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&artikel=3&z=2022-07-12&g=2022-07-12)
+## Bijlage 1. Activiteiten als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&artikel=3&z=2023-10-26&g=2023-10-26)
 
 ### A. Activiteiten die zien op toezicht en handhaving op de energiebesparings- en informatieplicht
 
 ### B. Overige activiteiten, waaronder:
 
-## Bijlage 2. Bedragen per omgevingsdienst als bedoeld in [artikel 4, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&artikel=4&z=2022-07-12&g=2022-07-12)
+## Bijlage 2. Bedragen per omgevingsdienst als bedoeld in [artikel 4, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&artikel=4&z=2023-10-26&g=2023-10-26)
 
 |   | 2022 | 2023 | 2024 | 2025 | 2026 | Totaal |
 | --- | --- | --- | --- | --- | --- | --- |
