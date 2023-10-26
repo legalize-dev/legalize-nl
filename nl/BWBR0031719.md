@@ -4,7 +4,7 @@ identifier: "BWBR0031719"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-26"
-last_updated: "2020-11-27"
+last_updated: "2023-10-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031719"
 soort: "ministeriele-regeling"
@@ -64,15 +64,23 @@ De Stichting Normering Arbeid wordt aangewezen als bewerker in de zin van [artik
 
 - d. de wettelijke bepaling of bepalingen waar het onderzoek betrekking op heeft;
 
-- e. de aanleiding van het onderzoek; en
+- e. de aanleiding van het onderzoek;
 
-- f. de bevindingen van het onderzoek.
+- f. de onderzoekshandelingen;
 
-2. Indien niet-naleving is geconstateerd bevat het verslag ook de reactie van de onderzochte onderneming op de bevindingen van het onderzoek, mits deze reactie door Onze Minister is ontvangen binnen vier weken nadat aan de onderneming een afschrift van de bevindingen is verstrekt.
+- g. de bevindingen van het onderzoek;
 
-3. Het afschrift wordt gelijktijdig ter informatie verstrekt aan de betrokken arbeidskracht of werkzoekende, aan de ondernemingsraad of personeelsvertegenwoordiging of aan de daarvoor in aanmerking komende organisatie van werknemers, indien deze partij de melding van de niet-naleving heeft gedaan die de aanleiding was voor het onderzoek.
+- h. de conclusie;
 
-4. Verstrekkingen gebeuren schriftelijk of elektronisch.
+- i. de bijlagen.
+
+2. Indien niet-naleving is geconstateerd zendt de Minister van Sociale Zaken en Werkgelegenheid het conceptverslag naar de onderzochte onderneming en stelt de onderzochte onderneming in de gelegenheid om binnen vier weken te reageren op eventuele kennelijke feitelijke onjuistheden in het conceptverslag.
+
+3. Het conceptverslag wordt gelijktijdig ter informatie verstrekt aan de betrokken arbeidskracht of werkzoekende, aan de ondernemingsraad of personeelsvertegenwoordiging of aan de daarvoor in aanmerking komende organisatie van werknemers, indien deze partij de melding van de niet-naleving heeft gedaan die de aanleiding was voor het onderzoek.
+
+4. Bij de vaststelling van het verslag betrekt de Minister van Sociale Zaken en Werkgelegenheid de reactie van de onderzochte onderneming als bedoeld in het tweede lid. Deze reactie wordt in het verslag verkort weergegeven, waarbij met redenen omkleed wordt aangegeven op welke punten al dan niet tot aanpassing van de bevindingen van de Minister van Sociale Zaken en Werkgelegenheid wordt overgegaan.
+
+5. Verstrekkingen gebeuren schriftelijk of elektronisch.
 
 ##### Artikel 4
 
