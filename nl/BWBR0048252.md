@@ -301,11 +301,3 @@ Dit onderdeel is nog niet inwerking getreden
 Dit onderdeel is nog niet inwerking getreden
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel XXXA
-
-Wijzigt de Wet inkomstenbelasting 2001.
-
-Dit onderdeel is nog niet inwerking getreden
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
