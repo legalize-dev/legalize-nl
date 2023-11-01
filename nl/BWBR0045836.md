@@ -4,7 +4,7 @@ identifier: "BWBR0045836"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-11-01"
-last_updated: "2021-11-01"
+last_updated: "2023-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045836"
 soort: "ministeriele-regeling"
@@ -72,9 +72,9 @@ De voorzitter en de leden hebben recht op een vergoeding voor reis- en verblijfk
 
 ##### Artikel 7. Inwerkingtreding
 
-1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, werkt terug tot en met 1 november 2021 en vervalt met ingang van 1 november 2023.
+1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, werkt terug tot en met 1 november 2021.
 
-2. Tegelijk met inwerkingtreding van dit besluit, vervalt het besluit Regeling vergoeding bestuur Bureau Financieel Toezicht van 2 juni 2014 met nummer 522625.
+2. Tegelijk met inwerkingtreding van dit besluit, vervalt het besluit [Regeling vergoeding bestuur Bureau Financieel Toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0035189) van 2 juni 2014 met nummer 522625.
 
 ##### Artikel 8. Citeertitel
 
