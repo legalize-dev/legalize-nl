@@ -4,7 +4,7 @@ identifier: "BWBR0041533"
 country: "nl"
 rank: "wet"
 publication_date: "2023-11-01"
-last_updated: "2019-01-01"
+last_updated: "2023-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041533"
 soort: "wet"
@@ -54,8 +54,6 @@ Wijzigt de Wet justitiële en strafvorderlijke gegevens.
 ##### Artikel IIa
 
 Wijzigt de Aanpassingswet Algemene verordening gegevensbescherming.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III
 
