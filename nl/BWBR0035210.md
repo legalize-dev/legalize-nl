@@ -4,7 +4,7 @@ identifier: "BWBR0035210"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-08-03"
-last_updated: "2023-05-10"
+last_updated: "2023-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035210"
 soort: "ministeriele-regeling"
@@ -52,9 +52,11 @@ Voor subsidieverlening in het kader van onderdeel 1 van het Dutch Good Growth Fu
 
 - a. € 230 miljoen voor onderdeel 1a;
 
-- b. € 50 miljoen voor onderdeel 1b.
+- b. € 50 miljoen voor onderdeel 1b, voor de periode vanaf 10 mei 2023 tot en met 31 december 2023.
 
-2. Bij de berekening van de voor subsidieverstrekking ten laste van de in het eerste lid, onder a en b, genoemde subsidieplafonds beschikbare bedragen worden verstrekte middelen die op grond van de aan de subsidie verbonden verplichtingen door de subsidieontvangers aan de minister zijn terugbetaald toegerekend aan deze plafonds.
+2. Indien na toepassing van het eerste lid, onder b, een deel van het subsidieplafond resteert, wordt dit toegevoegd aan het subsidieplafond, genoemd in het eerste lid, onder a.
+
+3. Bij de berekening van de bedragen die beschikbaar zijn voor subsidieverstrekking ten laste van de in het eerste lid, onder a en b, genoemde subsidieplafonds, worden verstrekte middelen die op grond van de aan de subsidie verbonden verplichtingen door de subsidieontvangers aan de Minister zijn terugbetaald, toegerekend aan het plafond genoemd in het eerste lid, onder a.
 
 ##### Artikel 3
 
