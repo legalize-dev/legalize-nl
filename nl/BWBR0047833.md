@@ -4,7 +4,7 @@ identifier: "BWBR0047833"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-10-02"
-last_updated: "2023-01-31"
+last_updated: "2023-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047833"
 soort: "ministeriele-regeling"
@@ -80,6 +80,8 @@ De minimumleeftijd voor aanstelling bedraagt 18 jaar.
 
 3. Het bevoegd gezag draagt ervoor zorg dat de eis van het rijbewijs B, bedoeld in het tweede lid, voor kandidaten met dezelfde functie of met dezelfde inzet uniform wordt toegepast.
 
+4. In afwijking van het eerste lid geldt voor kandidaat aspiranten die tussen 1 november 2023 en 31 december 2023 instromen in de politieopleiding en voor kandidaat aspiranten die in aanmerking komen voor een tegemoetkoming in de kosten van het rijbewijs op grond van de [Regeling tegemoetkoming rijbewijs aspiranten](onbekend), dat het rijbewijs B moet zijn behaald binnen negen maanden na het moment van aanstelling.
+
 ##### Artikel 4. Opleidingsniveau
 
 1. De kandidaat aspirant of de kandidaat vrijwilliger-aspirant die een politieopleiding op een vergelijkbaar mbo-niveau gaat volgen voldoet ten minste aan de vooropleidingseisen, bedoeld in de [artikelen 7.4.7.](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.7) en [8.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8.2.1) en [8.2.2 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8.2.2).
@@ -110,7 +112,7 @@ De kandidaat ambtenaar in opleiding of de kandidaat vrijwillige ambtenaar in opl
 
 5. De kosten van het geschiktheidsonderzoek komen ten laste van het bevoegd gezag.
 
-6. De kosten van een herbeoordeling als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0047833&hoofdstuk=5&artikel=14&z=2023-01-31&g=2023-01-31), een herkansing als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0047833&hoofdstuk=5&artikel=15&z=2023-01-31&g=2023-01-31) of een herkeuring als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0047833&hoofdstuk=5&artikel=16&z=2023-01-31&g=2023-01-31) komen ten laste van het bevoegd gezag, met uitzondering van de reiskosten.
+6. De kosten van een herbeoordeling als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0047833&hoofdstuk=5&artikel=14&z=2023-11-01&g=2023-11-01), een herkansing als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0047833&hoofdstuk=5&artikel=15&z=2023-11-01&g=2023-11-01) of een herkeuring als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0047833&hoofdstuk=5&artikel=16&z=2023-11-01&g=2023-11-01) komen ten laste van het bevoegd gezag, met uitzondering van de reiskosten.
 
 ### Hoofdstuk 2. Mentale geschiktheid
 
@@ -122,7 +124,7 @@ De kandidaat ambtenaar in opleiding of de kandidaat vrijwillige ambtenaar in opl
 
 3. Indien de kandidaat aspirant en de kandidaat vrijwilliger-aspirant tenminste een diploma heeft dat toegang geeft tot een politieopleiding op het kwalificatieniveau NLQF 5, NLQF 6 of NLQF 7 wordt de taalvaardigheid zonder meer als voldoende beoordeeld, tenzij het een buitenlands diploma betreft.
 
-4. Indien de kandidaat ambtenaar in opleiding of de kandidaat vrijwillige ambtenaar in opleiding na het voltooien van de politieopleiding wordt geplaatst in een functie waarvoor een hbo of wo werk- en denkniveau geldt wordt de taalvaardigheid zonder meer als voldoende beoordeeld, tenzij het werk- en denkniveau van de kandidaat, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047833&hoofdstuk=1&artikel=5&z=2023-01-31&g=2023-01-31), enkel berust op een buitenlands diploma.
+4. Indien de kandidaat ambtenaar in opleiding of de kandidaat vrijwillige ambtenaar in opleiding na het voltooien van de politieopleiding wordt geplaatst in een functie waarvoor een hbo of wo werk- en denkniveau geldt wordt de taalvaardigheid zonder meer als voldoende beoordeeld, tenzij het werk- en denkniveau van de kandidaat, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047833&hoofdstuk=1&artikel=5&z=2023-11-01&g=2023-11-01), enkel berust op een buitenlands diploma.
 
 5. In andere gevallen wordt de taalvaardigheid beoordeeld aan de hand van een Nederlandse taaltoets, waarbij de kandidaat aan taalvaardigheidsniveau B1 dient te voldoen.
 
@@ -158,7 +160,7 @@ De kandidaat ambtenaar in opleiding of de kandidaat vrijwillige ambtenaar in opl
 
 - c. een praktijksimulatie.
 
-4. De psycholoog maakt een afweging van de scores op de drie genoemde onderdelen en vormt zich een eindoordeel over de kandidaat, uitgedrukt in scores op de voor de functie en opleidingsniveau relevante competenties, opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047833&bijlage=1&z=2023-01-31&g=2023-01-31).
+4. De psycholoog maakt een afweging van de scores op de drie genoemde onderdelen en vormt zich een eindoordeel over de kandidaat, uitgedrukt in scores op de voor de functie en opleidingsniveau relevante competenties, opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047833&bijlage=1&z=2023-11-01&g=2023-11-01).
 
 5. De competenties worden beoordeeld op een 5-puntsschaal.
 
@@ -174,7 +176,7 @@ De kandidaat ambtenaar in opleiding of de kandidaat vrijwillige ambtenaar in opl
 
 - a. de vereiste minimale somscores, genoemd in het zesde lid, niet worden behaald;
 
-- b. de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047833&bijlage=1&z=2023-01-31&g=2023-01-31) genoemde minimale score per competentie niet wordt behaald.
+- b. de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047833&bijlage=1&z=2023-11-01&g=2023-11-01) genoemde minimale score per competentie niet wordt behaald.
 
 8. De kandidaat ambtenaar in opleiding en de kandidaat vrijwillige ambtenaar wordt enkel op de competentie stressbestendigheid getoetst.
 
@@ -194,13 +196,13 @@ De kandidaat ambtenaar in opleiding of de kandidaat vrijwillige ambtenaar in opl
 
 2. De fysiek motorische capaciteiten van een kandidaat worden beoordeeld aan de hand van een fysiek motorisch onderzoek.
 
-3. In het fysiek motorisch onderzoek moet de kandidaat een circuit met hindernissen afleggen binnen de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047833&bijlage=2&z=2023-01-31&g=2023-01-31) genoemde minimale normtijd, gerelateerd aan de leeftijd en het geslacht van de kandidaat. Het circuit bestaat uit drie onderdelen die zijn uitgezet in een binnenruimte en zijn gebaseerd op de achtervolging te voet, het onder controle brengen van een verdachte en het handmatig verplaatsen van zware objecten.
+3. In het fysiek motorisch onderzoek moet de kandidaat een circuit met hindernissen afleggen binnen de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047833&bijlage=2&z=2023-11-01&g=2023-11-01) genoemde minimale normtijd, gerelateerd aan de leeftijd en het geslacht van de kandidaat. Het circuit bestaat uit onderdelen die zijn uitgezet in een binnenruimte en zijn gebaseerd op de achtervolging te voet, het onder controle brengen van een verdachte en het handmatig verplaatsen van zware objecten.
 
 ### Hoofdstuk 4. Medische geschiktheid
 
 ##### Artikel 11. Medisch onderzoek
 
-1. Nadat alle overige beoordelingen van de geschiktheid van de kandidaat hebben plaatsgevonden en het bevoegd gezag op grond daarvan voornemens is de kandidaat aan te stellen, worden de kandidaat aspirant of de kandidaat vrijwilliger-aspirant door het bevoegd gezag onderworpen aan een medisch onderzoek met inachtneming van de eisen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047833&bijlage=3&z=2023-01-31&g=2023-01-31) bij deze regeling.
+1. Nadat alle overige beoordelingen van de geschiktheid van de kandidaat hebben plaatsgevonden en het bevoegd gezag op grond daarvan voornemens is de kandidaat aan te stellen, worden de kandidaat aspirant of de kandidaat vrijwilliger-aspirant door het bevoegd gezag onderworpen aan een medisch onderzoek met inachtneming van de eisen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047833&bijlage=3&z=2023-11-01&g=2023-11-01) bij deze regeling.
 
 2. De inhoud van het medisch onderzoek wordt afgestemd op de overige onderdelen van het reeds doorlopen geschiktheidsonderzoek.
 
@@ -222,7 +224,7 @@ De kandidaat ambtenaar in opleiding of de kandidaat vrijwillige ambtenaar in opl
 
 ##### Artikel 13. Herbeoordeling psychologisch onderzoek
 
-1. De kandidaat waarvan de uitslag van het psychologisch onderzoek, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047833&hoofdstuk=2&artikel=9&z=2023-01-31&g=2023-01-31), onvoldoende is, kan verzoeken om een toelichtend gesprek met de psycholoog onder wiens verantwoordelijkheid het desbetreffende onderzoek heeft plaatsgevonden. Binnen twee weken na dit verzoek vindt dit gesprek plaats.
+1. De kandidaat waarvan de uitslag van het psychologisch onderzoek, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047833&hoofdstuk=2&artikel=9&z=2023-11-01&g=2023-11-01), onvoldoende is, kan verzoeken om een toelichtend gesprek met de psycholoog onder wiens verantwoordelijkheid het desbetreffende onderzoek heeft plaatsgevonden. Binnen twee weken na dit verzoek vindt dit gesprek plaats.
 
 2. Indien de kandidaat van mening is dat er bij het onderzoek fouten zijn gemaakt in de procedure of dat er sprake is van feitelijke onjuistheden, kan de kandidaat een met redenen omkleed verzoek doen om de resultaten van het psychologisch onderzoek en het verloop van de procedure opnieuw te laten beoordelen.
 
@@ -234,7 +236,7 @@ De kandidaat ambtenaar in opleiding of de kandidaat vrijwillige ambtenaar in opl
 
 ##### Artikel 14. Herkansing fysiek motorisch onderzoek
 
-1. Indien de uitslag van het fysiek motorisch onderzoek onvoldoende is, kan binnen twee weken na de mededeling, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047833&hoofdstuk=5&artikel=12&z=2023-01-31&g=2023-01-31), op uitnodiging van het bevoegd gezag, opnieuw een fysiek motorisch onderzoek bij de kandidaat worden afgenomen.
+1. Indien de uitslag van het fysiek motorisch onderzoek onvoldoende is, kan het bevoegd gezag de kandidaat binnen twee weken na de mededeling, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047833&hoofdstuk=5&artikel=12&z=2023-11-01&g=2023-11-01), uitnodigen opnieuw een fysiek motorisch onderzoek te ondergaan.
 
 2. Dit tweede fysiek motorisch onderzoek vindt binnen drie maanden na de mededeling plaats.
 
@@ -244,7 +246,7 @@ De kandidaat ambtenaar in opleiding of de kandidaat vrijwillige ambtenaar in opl
 
 1. Als aan de uitslag van het medisch onderzoek een negatieve gevolgtrekking dan wel een positieve gevolgtrekking onder bepaalde bedenkingen wordt verbonden, heeft de kandidaat recht op een herkeuring.
 
-2. De kandidaat maakt de wens tot een herkeuring binnen twee weken na de mededeling in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047833&hoofdstuk=5&artikel=12&z=2023-01-31&g=2023-01-31), met redenen omkleed aan het bevoegd gezag kenbaar.
+2. De kandidaat maakt de wens tot een herkeuring binnen twee weken na de mededeling in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047833&hoofdstuk=5&artikel=12&z=2023-11-01&g=2023-11-01), met redenen omkleed aan het bevoegd gezag kenbaar.
 
 3. Ingeval van herkeuring wordt de door het bevoegd gezag te nemen beslissing ten aanzien van de aanstelling uitgesteld totdat de uitslag van de herkeuring aan het bevoegd gezag is meegedeeld.
 
@@ -290,7 +292,7 @@ Deze regeling wordt aangehaald als: Regeling aanstellingseisen politie 2023.
 | --- | --- | --- |
 | Stressbestendigheid | Blijft effectief presteren onder hoge werk- en tijdsdruk, bij tegenspel en druk door anderen en in onzekere omstandigheden. Relativeert en herstelt zijn/haar motivatie na teleurstelling of tegenslag, toont zich evenwichtig | Minimaal 3 |
 | Oordeelsvorming | Weegt (nieuwe) gegevens en mogelijke handelwijzen tegen elkaar af in het licht van relevante criteria en komt tot een realistische, verantwoorde en onderbouwde beoordeling. | Minimaal 3 |
-| Leervermogen | Is alert op nieuwe informatie. Maakt zich actief meester van nieuwe kennis en past deze effectief toe voor de eigen functie. Kan op zichzelf en eigen handelen reflecteren | Minimaal 2 |
+| Leervermogen | Is alert op nieuwe informatie. Maakt zich actief meester van nieuwe kennis en past deze effectief toe voor de eigen functie. Kan op zichzelf en eigen handelen reflecteren | Minimaal 3 |
 | Netwerkvaardigheid | Ontwikkelt en onderhoudt relaties, allianties en coalities zowel binnen als buiten de eigen organisatie en benut deze voor het verkrijgen van informatie, steun en medewerking. | Minimaal 2 |
 | Coachen | Verkent de ontwikkelbehoeften van anderen en stimuleert, motiveert en coacht hen om hun vakbekwaamheid op een hoger niveau te brengen en de ander zo verder te ontwikkelen. | Minimaal 3 |
 | Initiatief | Signaleert kansen. Handelt ernaar en durft daarbij risico’s te nemen om uiteindelijk een bepaald herkenbaar voordeel voor de organisatie te behalen. Begint liever uit zichzelf dan passief af te wachten. | Minimaal 2 |
@@ -306,16 +308,26 @@ Deze regeling wordt aangehaald als: Regeling aanstellingseisen politie 2023.
 | Netwerkvaardigheid | Ontwikkelt en onderhoudt relaties, allianties en coalities zowel binnen als buiten de eigen organisatie en benut deze voor het verkrijgen van informatie, steun en medewerking | Minimaal 3 |
 | Overtuigingskracht | Toont gedrag dat er op is gericht om anderen te overtuigen van een bepaald standpunt en instemming te krijgen met bepaalde plannen of ideeën. | Minimaal 2 |
 
+| Competentie | Definitie | Normering (1-5 punten) |
+| --- | --- | --- |
+| Stressbestendigheid | Blijft effectief presteren onder hoge werk- en tijdsdruk, bij tegenspel en druk door anderen en in onzekere omstandigheden. Relativeert en herstelt zijn/haar motivatie na teleurstelling of tegenslag, toont zich evenwichtig. | Minimaal 3 |
+| Oordeelsvorming | Weegt (nieuwe) gegevens en mogelijke handelwijzen tegen elkaar af in het licht van relevante criteria en komt tot een realistische, verantwoorde en onderbouwde beoordeling. | Minimaal 3 |
+| Zelfreflectie | Laat blijken eigen gedrag en standpunten kritisch te evalueren en open te staan voor evaluatie door anderen. Toont te leren van deze evaluaties door wijziging van eigen gedrag of de standpunten. | Minimaal 3 |
+| Mensgericht leidinggeven | Geeft richting en sturing aan de taakvervulling van individuele medewerkers en groepen vanuit een mensgerichte en betrokken houding. Stelt doelen en verbindt mensen met oog voor ieders kwaliteiten om zo doeltreffende samenwerkings- verbanden tot stand te brengen en een basis te leggen voor een inclusieve en veilige werksfeer. | Minimaal 3 |
+| Sociale vaardigheid | Beweegt zich tactvol en gemakkelijk in contacten met anderen. Is in staat met zijn optreden emoties en de sociale interactie te beïnvloeden. | Minimaal 2 |
+| Verandergerichtheid | Gaat effectief om met onzekerheid en veranderingen in de organisatie, de omgeving en zichzelf. Beschouwt verandering als vanzelfsprekend en noodzakelijk. Zet veranderingen in vanuit een duidelijke visie en persoonlijke overtuiging. | Minimaal 2 |
+| Overtuigingskracht | Toont gedrag dat erop is gericht om anderen te overtuigen van een bepaald standpunt en instemming te krijgen met bepaalde plannen of ideeën. | Minimaal 2 |
+
 ## Bijlage 2
 
 Voor het fysiek motorisch onderzoek moet de kandidaat een circuit met hindernissen afleggen waarbij de volgende minimale normtijden gelden:
 
 | **Vrouwen** |   |   |   |   |   |   |   |   |   |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Leeftijd** | **18–24** | **25–29** | **30–34** | **35–39** | **40–44** | **45–49** | **50–54** | **55–59** | **60 en ouder** |
+| **Leeftijd** | **17–24** | **25–29** | **30–34** | **35–39** | **40–44** | **45–49** | **50–54** | **55–59** | **60 en ouder** |
 |   | 3:45 | 3:46 | 3:52 | 4:00 | 4:07 | 4:13 | 4:25 | 4:40 | 4:50 |
 | **Mannen** |   |   |   |   |   |   |   |   |   |
-| **Leeftijd** | **18–24** | **25–29** | **30–34** | **35–39** | **40–44** | **45–49** | **50–54** | **55–59** | **60 en ouder** |
+| **Leeftijd** | **17–24** | **25–29** | **30–34** | **35–39** | **40–44** | **45–49** | **50–54** | **55–59** | **60 en ouder** |
 |   | 3:08 | 3:10 | 3:13 | 3:19 | 3:24 | 3:30 | 3:38 | 3:53 | 4:00 |
 
 Het circuit bevat de volgende onderdelen:
@@ -328,7 +340,7 @@ Het circuit bevat de volgende onderdelen:
 
 - −. **Het verplaatsen van medicine ballen**
 
-Het circuit wordt uitgezet in een binnenruimte met een minimale afmeting van 9 x 18 meter waarbij aan alle kanten een vrije ruimte aanwezig is van minimaal 1 meter.
+Het circuit wordt uitgezet in een binnenruimte met een minimale afmeting van 9 x 18 meter waarbij aan alle kanten een vrije ruimte aanwezig is van minimaal 0,5 meter.
 
 Gesommeerd over het gehele circuit rent en sprint de kandidaat 226,5 meter, duwt deze een kar van 200 kilogram over 18 meter (verdeeld over 3 rondes) en trekt hij/zij deze kar 12 meter (verdeeld over 2 rondes). Verder wordt tillend een gewicht van 5 kilogram over een afstand van ± 3 meter per keer verplaatst (verdeeld over 3 rondes met een frequentie van 6 maal per ronde).
 
