@@ -4,7 +4,7 @@ identifier: "BWBR0034180"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-16"
-last_updated: "2023-10-01"
+last_updated: "2023-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034180"
 soort: "ministeriele-regeling"
@@ -196,7 +196,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2a
 
-De programmatuur, bedoeld in [artikel P 1, eerste lid, van het Kiesbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&artikel=P_1), ten behoeve van de berekening van de uitslag van de verkiezingen of de berekening van de zetelverdeling, voldoet aan de in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&bijlage=2&z=2023-10-01&g=2023-10-01) bij artikel 2a van deze regeling opgenomen eisen.
+De programmatuur, bedoeld in [artikel P 1, eerste lid, van het Kiesbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&artikel=P_1), ten behoeve van de berekening van de uitslag van de verkiezingen of de berekening van de zetelverdeling, voldoet aan de in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&bijlage=2&z=2023-11-01&g=2023-11-01) bij artikel 2a van deze regeling opgenomen eisen.
 
 ## Bijlage
 
@@ -242,7 +242,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Vervallen
 
-## Bijlage 1. bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=1&z=2023-10-01&g=2023-10-01) van de Kiesregeling
+## Bijlage 1. bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=1&z=2023-11-01&g=2023-11-01) van de Kiesregeling
 
 8. Het model voor de stempas voor de verkiezing van de leden van de eilandsraad luidt als volgt:
 
@@ -402,7 +402,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 4. Het model voor het schriftelijk volmachtbewijs voor de verkiezing van de leden van het Europees Parlement luidt als volgt:
 
-## Bijlage 2. bij [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2a&z=2023-10-01&g=2023-10-01) van de Kiesregeling
+## Bijlage 2. bij [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2a&z=2023-11-01&g=2023-11-01) van de Kiesregeling
 
 ### Eisen aan de programmatuur die door de centrale stembureaus wordt gebruikt ten behoeve van de vaststelling van de uitslag van verkiezingen of de berekening van de zetelverdeling
 
@@ -486,7 +486,7 @@ Alle stembureauleden zijn verantwoordelijk voor het correct en volledig invullen
 
 ### Model W 1-2
 
-## Bijlage 3. bij [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2b&z=2023-10-01&g=2023-10-01) van de Kies- en referendumregeling
+## Bijlage 3. bij [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2b&z=2023-11-01&g=2023-11-01) van de Kies- en referendumregeling
 
 Vervallen
 
