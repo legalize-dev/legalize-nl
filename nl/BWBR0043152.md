@@ -4,7 +4,7 @@ identifier: "BWBR0043152"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-13"
-last_updated: "2023-09-01"
+last_updated: "2023-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043152"
 soort: "ministeriele-regeling"
@@ -210,7 +210,7 @@ Het hoofd LO-Plein is verantwoordelijk voor:
 
 1. De afdelingshoofden zijn bevoegd om namens een bewindspersoon besluiten te nemen, overeenkomsten aan te gaan en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met de taken en verantwoordelijkheden van de afdelingen, tenzij deze zijn voorbehouden aan een bewindspersoon, de secretaris-generaal, de plaatsvervangend secretaris-generaal of de directeur.
 
-2. De in het eerste lid genoemde bevoegdheid om overeenkomsten aan te gaan is beperkt tot overeenkomsten met een waarde van € 5.000,- per overeenkomst voor:
+2. De in het eerste lid genoemde bevoegdheid om overeenkomsten aan te gaan is beperkt tot overeenkomsten met een waarde van € 75.000,– inclusief BTW per overeenkomst voor:
 
 - a. overeenkomsten die gebaseerd zijn op een raamovereenkomst;
 
@@ -224,7 +224,7 @@ Het hoofd LO-Plein is verantwoordelijk voor:
 
 ##### Artikel 11
 
-Aan de hoofden van de afdelingen, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043152&paragraaf=2&artikel=2&z=2023-11-01&g=2023-09-01) wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten over, het verrichten van privaatrechtelijke rechtshandelingen en het ondertekenen van stukken die betrekking hebben op:
+Aan de hoofden van de afdelingen, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043152&paragraaf=2&artikel=2&z=2023-11-01&g=2023-11-01) wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten over, het verrichten van privaatrechtelijke rechtshandelingen en het ondertekenen van stukken die betrekking hebben op:
 
 - a. de taken van de eigen afdeling;
 
@@ -262,13 +262,21 @@ Aan de clustermanagers wordt mandaat en machtiging verleend met betrekking tot:
 
 ##### Artikel 16
 
-Aan de clustermanagers en teamleiders wordt volmacht en machtiging verleend tot het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op personeelsaangelegenheden ten behoeve van medewerkers van de eigen organisatorische eenheid voor zover het betreft:
+1. Aan de clustermanagers en teamleiders wordt volmacht en machtiging verleend tot het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op personeelsaangelegenheden ten behoeve van medewerkers van de eigen organisatorische eenheid voor zover het betreft:
 
 - a. het opmaken, niet zijnde vaststellen, van een beoordeling van medewerkers;
 
 - b. het houden van personeelsgesprekken;
 
 - c. verlof van medewerkers.
+
+2. Aan de clustermanagers en teamleiders wordt volmacht verleend tot het aangaan van de volgende overeenkomsten tot een waarde van € 5.000,– inclusief BTW per overeenkomst:
+
+- a. overeenkomsten met betrekking tot het organiseren en accorderen van activiteiten binnen de eigen organisatorische eenheid;
+
+- b. overeenkomsten met betrekking tot het accorderen van door de eigen organisatorische eenheid ingediende voorstellen/uitgaven zoals opgenomen in het vastgestelde bestedingsplan van de directie;
+
+- c. overeenkomsten met betrekking tot de personele ontwikkeling van medewerkers zoals opleidingen en begeleiding.
 
 #### § 5. Slotbepalingen
 
