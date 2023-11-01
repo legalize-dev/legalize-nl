@@ -4,7 +4,7 @@ identifier: "BWBR0043597"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-27"
-last_updated: "2020-06-05"
+last_updated: "2023-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043597"
 soort: "ministeriele-regeling"
@@ -138,7 +138,7 @@ Aan de beveiligingsambtenaar van het team Veiligheid en Privacy wordt mandaat, v
 
 ##### Artikel 6
 
-Het hoofd van het team Veiligheid en Privacy is gevolmachtigd tot het aangaan van overeenkomsten met betrekking tot de taken, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043597&paragraaf=3&artikel=4&z=2020-06-05&g=2020-06-05), tot een bedrag van € 5.000,– per overeenkomst.
+Het hoofd van het team Veiligheid en Privacy is gevolmachtigd tot het aangaan van overeenkomsten met betrekking tot de taken, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043597&paragraaf=3&artikel=4&z=2025-11-27&g=2023-11-01), tot een bedrag van € 5.000,– per overeenkomst.
 
 ##### Artikel 7
 
@@ -159,5 +159,43 @@ Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afw
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 1 mei 2020.
 
 2. Deze regeling wordt aangehaald als: Organisatie-, Mandaat- en Volmachtbesluit directie CIV SZW 2020.
+
+Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 3a
+
+Het afdelingshoofd CIO-office is verantwoordelijk voor de ondersteuning van de directeur bij de uitoefening van haar taken.
+
+##### Artikel 3b
+
+De CISO is belast met de ontwikkeling en coördinatie van het informatiebeveiligingsbeleid als bedoeld in [artikel 3 van het Besluit Voorschrift Informatiebeveiliging Rijksdienst 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022141&artikel=3) en [artikel 3 van het Besluit Voorschrift Informatiebeveiliging Rijksdienst – Bijzondere Informatie 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0033507&artikel=3) en het ondersteunen van het verantwoordelijke lijnmanagement bij de implementatie en naleving hiervan. Voorts is de CISO verantwoordelijk voor de taken als bedoeld in [artikel 7 van het Besluit CIO-stelsel](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&artikel=7).
+
+##### Artikel 3c
+
+Het afdelingshoofd Informatie voor Beleid en Bedrijfsvoering is verantwoordelijk voor de volgende taken:
+
+- a. het vroegtijdig aandacht geven aan de kansen en risico’s van informatie en ICT bij het vormgeven van beleid en uitvoering;
+
+- b. het zijn van de verbindende factor tussen beleidsdirecties, de afdeling CIO-office en uitvoerende partijen, zoals de Dienst Uitvoering Onderwijs, de Sociale Verzekeringsbank en het Uitvoeringsinstituut Werknemersverzekeringen, een en ander in nauwe samenwerking met onder anderen de afdeling CIO-office, de bestuursraad van het ministerie, de directeur-generaal Sociale Zekerheid en Integratie en directie Stelsel en Volksverzekeringen;
+
+- c. het zijn van een belangrijke sparringpartner voor de directies van het ministerie op het gebied van ICT, informatiebeveiliging en privacy;
+
+- d. het met advies ondersteunen van de (beleids)werkvelden met de toepassing van (IV)beleid en -kaders bij de ontwikkeling van beleid;
+
+- e. het versterken van IV in de werkprocessen van planning en control bij de werkvelden;
+
+- f. het borgen van informatiebeveiliging- en privacyaspecten in de beleidsontwikkeling en bedrijfsvoering bij het ministerie;
+
+- g. het hebben en houden van een overzicht over de beleidsinitiatieven en projecten met een IV-component, de specifieke applicaties die draaien en de inrichting van functioneel beheer;
+
+- h. het signaleren waar het ministerie-brede informatiebeleid versterkt moet worden;
+
+- i. het houden en maken van veilige en toegankelijke digitale informatie voor iedereen;
+
+- j. het onderhouden van verbinding met de onderdelen van het ministerie die zelf invulling geven aan het adviseren met de toepassing van IV beleid en -kaders op het gebied van informatiemanagement, informatiebeveiliging en privacybescherming, zoals de Nederlandse Arbeidsinspectie, Dienstverlening, Samenwerkingsverbanden en Uitvoering en de Rijksschoonmaakorganisatie.
+
+#### § 4. Bevoegdheden
+
+#### § 5. Slotbepaling
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
