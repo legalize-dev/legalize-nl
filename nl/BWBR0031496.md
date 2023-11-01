@@ -4,7 +4,7 @@ identifier: "BWBR0031496"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-06"
-last_updated: "2023-08-11"
+last_updated: "2023-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031496"
 soort: "ministeriele-regeling"
@@ -74,7 +74,7 @@ Besluit:
 
 5. De bevoegde autoriteit, bedoeld in artikel 37, derde lid, van Verordening (EU) nr. 267/2012, is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking of de inspecteur, bedoeld in [artikel 1:3, eerste lid, onder c, van de Algemene Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3), elk voor het gebied waartoe hun competenties zich uitstrekken.
 
-6. De bevoegde autoriteit, bedoeld in artikel 40, eerste lid, van [Verordening (EU) nr. 267/2012](32012R0267), is, afhankelijk van de aard van de informatie, de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, de Minister van Financiën dan wel de inspecteur, bedoeld in [artikel 1:3, eerste lid, onder c, van de Algemene Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3), met dien verstande dat instellingen als bedoeld in [artikel 10, tweede lid, onder a, c, e tot en met j, l en m, van de Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10) de informatie, bedoeld in artikel 40, eerste lid, van [Verordening (EU) nr. 267/2012](32012R0267) verstrekken aan De Nederlandsche Bank en instellingen als bedoeld in artikel 10, tweede lid, onder b, d en k, van de Sanctiewet 1977 de informatie, bedoeld in artikel 40, eerste lid, van [Verordening (EU) nr. 267/2012](32012R0267) verstrekken aan de Autoriteit Financiële Markten. De Nederlandsche Bank en de Autoriteit Financiële Markten zijn ten behoeve van de uitvoering van voornoemd artikel 40 bevoegd de ontvangen informatie aan de Minister van Financiën te verstrekken.
+6. De bevoegde autoriteit, bedoeld in artikel 40, eerste lid, van [Verordening (EU) nr. 267/2012](32012R0267), is, afhankelijk van de aard van de informatie, de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, de inspecteur, bedoeld in [artikel 1:3, eerste lid, onder c, van de Algemene Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3), de Minister van Onderwijs, Cultuur en Wetenschap, dan wel de Minister van Financiën, met dien verstande dat instellingen als bedoeld in [artikel 10, tweede lid, onder a, c, e tot en met j, l en m, van de Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10) de informatie, bedoeld in artikel 40, eerste lid, van [Verordening (EU) nr. 267/2012](32012R0267) verstrekken aan De Nederlandsche Bank en instellingen als bedoeld in artikel 10, tweede lid, onder b, d en k, van de Sanctiewet 1977 de informatie, bedoeld in artikel 40, eerste lid, van [Verordening (EU) nr. 267/2012](32012R0267) verstrekken aan de Autoriteit Financiële Markten. De Nederlandsche Bank en de Autoriteit Financiële Markten zijn ten behoeve van de uitvoering van voornoemd artikel 40 bevoegd de ontvangen informatie aan de Minister van Financiën te verstrekken.
 
 7. De bevoegde autoriteit, bedoeld in artikel 1 bis, tweede lid, en artikel 1 ter, tweede lid, van Verordening (EU) nr. 359/2011, is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, en de bevoegde autoriteit, bedoeld in artikel 1 quater, eerste lid, van Verordening (EU) nr. 359/2011, is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking of de inspecteur, bedoeld in [artikel 1:3, eerste lid, onder c, van de Algemene Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3), elk voor het gebied waartoe hun competenties zich uitstrekken.
 
@@ -100,7 +100,11 @@ Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen
 
 ##### Artikel 5
 
-Vervallen
+1. De Minister van Onderwijs, Cultuur en Wetenschap adviseert in overeenstemming met de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking kennisinstellingen gevraagd of ongevraagd over een risico op overtreding van de verboden, bedoeld in artikel 4bis en artikel 4ter van [Verordening (EU) nr. 267/2012](32012R0267).
+
+2. De Minister van Onderwijs, Cultuur en Wetenschap is de verwerkingsverantwoordelijke in de zin van de Algemene verordening gegevensbescherming ter uitvoering van de taken bedoeld in het eerste lid.
+
+3. Voor zover deze noodzakelijk zijn voor een doelmatige en doeltreffende uitvoering van de taak bedoeld in het eerste lid, kunnen bijzondere persoonsgegevens worden verwerkt.
 
 ##### Artikel 6
 
@@ -137,3 +141,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 ## Bijlage. bij Sanctieregeling Iran 2012
 
 Vervallen
+
+##### Artikel 6a
+
+Deze regeling wordt aangehaald als: Sanctieregeling Iran 2012.
+
+## Bijlage. bij Sanctieregeling Iran 2012
+
+Vervallen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
