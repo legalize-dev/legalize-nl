@@ -4,7 +4,7 @@ identifier: "BWBR0044511"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-11-01"
-last_updated: "2021-05-01"
+last_updated: "2023-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044511"
 soort: "ministeriele-regeling"
@@ -164,7 +164,7 @@ Handelen krachtens bij deze regeling verleend mandaat, volmacht of machtiging is
 
 ##### Artikel 7. Specifieke volmacht directeur Financieel-Economische Zaken
 
-De krachtens [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044511&paragraaf=2&artikel=4&z=2021-05-01&g=2021-05-01), aan de directeur Financieel-Economische Zaken verleende volmacht omvat tevens:
+De krachtens [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044511&paragraaf=2&artikel=4&z=2023-11-01&g=2023-11-01), aan de directeur Financieel-Economische Zaken verleende volmacht omvat tevens:
 
 - a. het bepalen van de muntsoort voor uitbetaling van schadeloosstelling, vergoedingen en tegemoetkomingen bij plaatsing buiten Nederland;
 
@@ -174,7 +174,7 @@ De krachtens [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR004
 
 ##### Artikel 8. Uitzonderingen mandaat en volmacht directeuren-generaal
 
-Het krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044511&paragraaf=2&artikel=3&z=2021-05-01&g=2021-05-01), aan de directeuren-generaal en de plaatsvervangend directeuren-generaal verleende mandaat en het krachtens [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044511&paragraaf=2&artikel=4&z=2021-05-01&g=2021-05-01), aan de directeuren-generaal verleende volmacht hebben geen betrekking op:
+Het krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044511&paragraaf=2&artikel=3&z=2023-11-01&g=2023-11-01), aan de directeuren-generaal en de plaatsvervangend directeuren-generaal verleende mandaat en het krachtens [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044511&paragraaf=2&artikel=4&z=2023-11-01&g=2023-11-01), aan de directeuren-generaal verleende volmacht hebben geen betrekking op:
 
 - a. het aanwijzen van vertrouwensfuncties als bedoeld in [artikel 3, eerste lid, van de Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=3);
 
@@ -208,9 +208,9 @@ Het krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 - 7°. het beslissen over een verschil van mening dat een functionaris of voormalig functionaris van het ministerie van Buitenlandse Zaken op grond van de CAO Rijk, de Aanvullende CAO Rijk Uitzendingen of de [Rechtspositieregeling lokale werknemers 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0042874) heeft voorgelegd aan de in die regelingen genoemde geschillencommissies.
 
-##### Artikel 9. Specifieke bevoegdheden directeur Directie Consulaire Zaken en Visumbeleid, directeur Financieel-Economische Zaken, directeur 3W, hoofddirecteur Personeel en Organisatie en hoofddirecteur Postennet
+##### Artikel 9. Specifieke bevoegdheden hoofddirecteur Consulaire en Visumzaken, directeur Financieel-Economische Zaken, directeur 3W, hoofddirecteur Personeel en Organisatie en hoofddirecteur Postennet
 
-1. Aan de directeur Directie Consulaire Zaken en Visumbeleid wordt volmacht verleend tot het verrichten van alle rechtshandelingen ten aanzien van de consulaire functies en ten aanzien van functionarissen met een consulaire functie. Aan de directeur Financieel-Economische Zaken wordt volmacht verleend tot het verrichten van alle rechtshandelingen ten aanzien van de financiële functies en ten aanzien van functionarissen met een financiële functie. Aan de hoofddirecteur Postennet wordt volmacht verleend tot het verrichten van alle rechtshandelingen ten aanzien van de functies op de vertegenwoordigingen van het Koninkrijk in het buitenland en ten aanzien van functionarissen werkzaam op die vertegenwoordigingen met uitzondering van de in de vorige twee volzinnen bedoelde functies en functionarissen.
+1. Aan de hoofddirecteur Consulaire en Visumzaken wordt volmacht verleend tot het verrichten van alle rechtshandelingen ten aanzien van de consulaire functies en ten aanzien van functionarissen met een consulaire functie. Aan de directeur Financieel-Economische Zaken wordt volmacht verleend tot het verrichten van alle rechtshandelingen ten aanzien van de financiële functies en ten aanzien van functionarissen met een financiële functie. Aan de hoofddirecteur Postennet wordt volmacht verleend tot het verrichten van alle rechtshandelingen ten aanzien van de functies op de vertegenwoordigingen van het Koninkrijk in het buitenland en ten aanzien van functionarissen werkzaam op die vertegenwoordigingen met uitzondering van de in de vorige twee volzinnen bedoelde functies en functionarissen.
 
 2. Van de volmachten, bedoeld in het eerste lid, is uitgezonderd de bevoegdheid rechtshandelingen te verrichten die in dit kader toekomen aan de secretaris-generaal, de directeur 3W en aan de hoofddirecteur Personeel en Organisatie.
 
@@ -226,7 +226,7 @@ Het krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 2. De ondertekening van krachtens mandaat, volmacht of machtiging genomen besluiten, privaatrechtelijke rechtshandelingen, respectievelijk andere handelingen, geschiedt op grond van de [artikelen 10:10](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:10) en [10:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:12) als volgt:
 
-De Minister van Buitenlandse Zaken/in voorkomend geval een van de overige bewindspersonen van het ministerie van Buitenlandse Zaken,
+De Minister van Buitenlandse Zaken/in voorkomend geval een van de overige bewindspersonen van het Ministerie van Buitenlandse Zaken, namens deze,
 
 (functie)
 
@@ -236,7 +236,7 @@ De Minister van Buitenlandse Zaken/in voorkomend geval een van de overige bewind
 
 en, op grond van [artikel 3:60 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=60) als volgt:
 
-De Staat der Nederlanden, namens deze, de Minister van Buitenlandse Zaken/in voorkomend geval een van de overige bewindspersonen van het ministerie van Buitenlandse Zaken,
+De Staat der Nederlanden, namens deze, de Minister van Buitenlandse Zaken/in voorkomend geval een van de overige bewindspersonen van het Ministerie van Buitenlandse Zaken, namens deze,
 
 vertegenwoordigd door (naam functionaris), (functie)
 
@@ -254,7 +254,7 @@ Ondermandaatbesluiten, volmachten en competentietabellen die zijn vastgesteld op
 
 ##### Artikel 13. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2020 met uitzondering van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044511&paragraaf=3&artikel=9&z=2021-05-01&g=2021-05-01), derde volzin, dat in werking treedt met ingang van 1 januari 2021.
+Deze regeling treedt in werking met ingang van de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2020 met uitzondering van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044511&paragraaf=3&artikel=9&z=2023-11-01&g=2023-11-01), derde volzin, dat in werking treedt met ingang van 1 januari 2021.
 
 ##### Artikel 14. Citeertitel
 
