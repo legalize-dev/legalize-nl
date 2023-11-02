@@ -4,7 +4,7 @@ identifier: "BWBR0042950"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-11-02"
-last_updated: "2022-02-23"
+last_updated: "2023-11-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042950"
 soort: "ministeriele-regeling"
@@ -54,11 +54,11 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-Aan de algemeen directeur van het CBR wordt mandaat verleend ten aanzien van:
+Aan de directeur bedrijfsvoering van het CBR wordt mandaat verleend ten aanzien van:
 
-- a. De afgifte van het beperkt groot vaarbewijs, het groot vaarbewijs, het kwalificatiecertificaat schipper, bedoeld in [artikel 7.18 van de Binnenvaarregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&artikel=7.18), het kwalificatiecertificaat voor deskundigen op het gebied van vloeibaar aardgas, bedoeld in [artikel 7.19b van de Binnenvaartregeling](onbekend) en de specifieke vergunningen, bedoeld in [artikel 7.19a van de Binnenvaartregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&artikel=7.19a), het zeilbewijs en het vrijstellingsbewijs schipper rondvaartboot van het Amsterdamse grachtentype;
+- a. De afgifte van het beperkt groot vaarbewijs, het groot vaarbewijs, het kwalificatiecertificaat schipper, bedoeld in [artikel 7.18 van de Binnenvaarregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&artikel=7.18), het kwalificatiecertificaat deskundige op het gebied van de passagiersvaart, het kwalificatiecertificaat deskundige op het gebied van vloeibaar aardgas, bedoeld in [artikel 7.19b van de Binnenvaartregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&artikel=7.19b) en de specifieke vergunningen, bedoeld in [artikel 7.19a van de Binnenvaartregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&artikel=7.19a), het zeilbewijs en het vrijstellingsbewijs schipper rondvaartboot van het Amsterdamse grachtentype;
 
-- b. de bevoegdheden bedoeld in de [artikelen 7.08, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=7.08), [7.09, eerste en tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=7.09), [7.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=7.11), [7.14, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=7.14), [7.15](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=7.15), [7.17 tot en met 7.19,](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=7.17)[7.20](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=7.20), [7.22, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=7.22), [8.02, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=8.02), [8.03, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=8.03), [8.04](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=8.04), [8.05, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=8.05), en [8.06 van het Reglement betreffende het scheepvaartpersoneel op de Rijn](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=8.06);
+- b. de bevoegdheden bedoeld in de [artikelen 1.05, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=1.05), [1.06, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=1.06), [4.01, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=4.01), [4.02, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=4.02), [6.01, eerste, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=6.01), [7.03, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=7.03), [8.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=8.01), [8.02](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=8.02), [8.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=8.03), [12.01, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=12.01), [12.02, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=12.02), [12.03, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=12.03), [12.04, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=12.04), [12.06](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=12.06), [12.07](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=12.07), [12.08](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=12.08), [13.02, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=13.02), [13.03, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=13.03), [13.04, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=13.04), [13.06, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=13.06), [15.04](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=15.04), [15.05, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=15.05), [15.06, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=15.06), [16.02](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=16.02), [16.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=16.03), [16.04](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=16.04), [16.05](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=16.05), [16.06, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=16.06), [16.10](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=16.10) en [20.03, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=20.03), [20.10, tweede lid van het Reglement betreffende het scheepvaartpersoneel op de Rijn](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=20.10);
 
 - c. de in [artikel 7.18, vierde lid, van de Binnenvaartregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&artikel=7.18) bedoelde beoordeling van de vaartijd;
 
@@ -70,11 +70,11 @@ Aan de algemeen directeur van het CBR wordt mandaat verleend ten aanzien van:
 
 ##### Artikel 3
 
-Aan de gemandateerde wordt machtiging verleend om handelingen te verrichten die verband houden met de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042950&artikel=2&z=2022-02-23&g=2022-02-23) genoemde bevoegdheden.
+Aan de gemandateerde wordt machtiging verleend om handelingen te verrichten die verband houden met de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042950&artikel=2&z=2023-11-02&g=2023-11-02) genoemde bevoegdheden.
 
 ##### Artikel 4
 
-De directeur Maritieme Zaken van het Directoraat-Generaal Luchtvaart en Maritieme Zaken kan de gemandateerde ten aanzien van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042950&artikel=2&z=2022-02-23&g=2022-02-23) genoemde bevoegdheden per geval of in het algemeen instructies geven ter zake van de uitoefening van de gemandateerde bevoegdheid. De gemandateerde oefent zijn bevoegdheden uit met inachtneming van deze instructies.
+De directeur Maritieme Zaken van het Directoraat-Generaal Luchtvaart en Maritieme Zaken kan de gemandateerde ten aanzien van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042950&artikel=2&z=2023-11-02&g=2023-11-02) genoemde bevoegdheden per geval of in het algemeen instructies geven ter zake van de uitoefening van de gemandateerde bevoegdheid. De gemandateerde oefent zijn bevoegdheden uit met inachtneming van deze instructies.
 
 ##### Artikel 5
 
