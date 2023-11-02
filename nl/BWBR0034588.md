@@ -4,7 +4,7 @@ identifier: "BWBR0034588"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-11-02"
-last_updated: "2023-09-01"
+last_updated: "2023-11-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034588"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. **de directeur:** de directeur Bestuursondersteuning;
 
-- c. **het afdelingshoofd:** het hoofd van de afdeling Kabinetszaken, Managementondersteuning en Stukkenverkeer;
+- c. **de afdelingshoofden:** het hoofd van de afdeling Kabinetszaken, Managementondersteuning en Stukkenverkeer (KMS), het hoofd van de afdeling Supportteam Innovatie (SI) en het hoofd van de afdeling Bestuursadvies (BA);
 
 - d. **de teamleider:** de teamleider die ressorteert onder het Hoofd Kabinetszaken, Managementondersteuning en Stukkenverkeer.
 
@@ -60,7 +60,7 @@ De directie BO bestaat uit de volgende onderdelen:
 
 - b. de afdeling Kabinetszaken, Managementondersteuning en Stukkenverkeer;
 
-- c. vervallen;
+- c. de afdeling Supportteam Innovatie;
 
 - d. Programmateams.
 
@@ -68,7 +68,7 @@ De directie BO bestaat uit de volgende onderdelen:
 
 ##### Artikel 3
 
-De directeur BO (tevens hoofd van de afdeling Bestuursadvies) is verantwoordelijk voor de volgende algemene taken:
+Het hoofd van de afdeling Bestuursadvies is verantwoordelijk voor de volgende algemene taken:
 
 - a. het waarborgen van de kwaliteit, de samenhang en de tijdigheid van de ambtelijke advisering en het bevorderen van integrale besluitvorming;
 
@@ -92,15 +92,11 @@ De directeur BO (tevens hoofd van de afdeling Bestuursadvies) is verantwoordelij
 
 - k. het deelnemen aan gesprekken van de bewindspersonen met derden;
 
-- l. het ondersteunen van de secretaris-generaal en de plaatsvervangend secretaris-generaal op het gebied van planning en control bij de aansturing van directies die rechtstreeks onder hen ressorteren;
+- l. het adviseren van de plaatsvervangend Secretaris-Generaal en de Secretaris-Generaal in hun verschillende rollen;
 
-- m. het geven van advies en ondersteuning van de de Secretaris-Generaal en de plaatsvervangend Secretaris-Generaal op het vlak van planning en control;
+- m. de coördinatie van de crisisbeheersing binnen SZW en de daarmee verband houdende secretariële ondersteuning;
 
-- n. het adviseren van de plaatsvervangend Secretaris-Generaal in de rol van eigenaar van samenwerkingsverbanden binnen het ministerie;
-
-- o. de coördinatie van de crisisbeheersing binnen SZW en de daarmee verband houdende secretariële ondersteuning;
-
-- p. de advisering van de voorzitter van het Calamiteitenteam De Resident.
+- n. het adviseren van de voorzitter van het Departementaal Crisiscentrum (DCC).
 
 ##### Artikel 4
 
@@ -118,25 +114,29 @@ Het hoofd van de afdeling Kabinetszaken, Managementondersteuning en Stukkenverke
 
 - f. de interne postvoorziening en overige administratieve werkzaamheden binnen de directie BO;
 
-- g. het inhoudelijk zorgdragen voor de standaarden voor SZW-stukken door middel van de SZW Wordsjablonen;
+- g. het inhoudelijk zorgdragen voor de standaarden voor SZW-stukken door middel van de SZW sjablonen;
 
-- h. de managementondersteuning van bewindspersonen en de leden van de Bestuursraad SZW;
+- h. de managementondersteuning van bewindspersonen, de leden van de Bestuursraad SZW en de directie BO;
 
-- i. het bijstaan, in adviserende en uitvoerende zin, van bewindspersonen, de secretaris-generaal en de plaatsvervangend secretaris-generaal in protocollaire en representatieve aangelegenheden;
+- i. het bijstaan, in adviserende en uitvoerende zin, van bewindspersonen, de secretaris-generaal en de plaatsvervangend secretaris-generaal en de directeuren-generaal in protocollaire en representatieve aangelegenheden;
 
-- j. het adviseren over en het afhandelen van aangelegenheden betreffende Koninklijke onderscheidingen;
+- j. het bijstaan, in adviserende en uitvoerende zin van de secretaris-generaal, de plaatsvervangend secretaris-generaal en de directeuren-generaal bij werkbezoeken;
 
-- k. het verzorgen van adviezen betreffende toekenning van predicaten aan bedrijven en instellingen;
+- k. het adviseren over en het afhandelen van aangelegenheden betreffende Koninklijke onderscheidingen;
 
-- l. het adviseren over en zorgdragen voor relatiegeschenken voor de ambtelijke en politieke leiding;
+- l. het verzorgen van adviezen en opstellen concept-besluiten betreffende toekenning van predicaten aan bedrijven en instellingen;
 
-- m. de ondersteuning van bewindspersonen, de secretaris-generaal en de plaatsvervangend secretaris-generaal door kamerbewaarders;
+- m. het adviseren over en zorgdragen voor relatiegeschenken voor de ambtelijke en politieke leiding;
 
-- n. het optreden als contactpersoon op alle facetten van de bedrijfsvoering van de directie BO en de bewindspersonen voor de andere onderdelen van het ministerie;
+- n. de ondersteuning van ambtelijke en politieke leiding door kamerbewaarders;
 
-- o. de coördinatie op het gebied van informatiebeveiliging van de directie BO;
+- o. het optreden als contactpersoon op alle facetten van de bedrijfsvoering van de directie BO en de bewindspersonen voor de andere onderdelen van het ministerie;
 
-- p. het voeren van beheer, de redactie en coördinatie van uitingen van de directie BO op intranet en Rijksportaal.
+- p. de coördinatie op het gebied van informatiebeveiliging van de directie BO;
+
+- q. het voeren van beheer, de redactie en coördinatie van uitingen van de directie BO op intranet en Rijksportaal;
+
+- r. het uitvoeren van het rouwprotocol van SZW.
 
 ##### Artikel 5
 
@@ -150,7 +150,7 @@ Programmamanagers ressorterend onder de directeur BO zijn verantwoordelijk voor 
 
 ##### Artikel 7
 
-Aan het afdelingshoofd, alsmede aan de programmamanagers ressorterend onder de directie BO wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten over, het verrichten van privaatrechtelijke rechtshandelingen en het ondertekenen van stukken die betrekking hebben op:
+Aan de afdelingshoofden, alsmede aan de programmamanagers ressorterend onder de directie BO wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten over, het verrichten van privaatrechtelijke rechtshandelingen en het ondertekenen van stukken die betrekking hebben op:
 
 - a. de taken van de eigen afdeling of het eigen programmateam,
 
@@ -162,11 +162,13 @@ Aan het afdelingshoofd, alsmede aan de programmamanagers ressorterend onder de d
 
 - 3. Verlof van medewerkers;
 
-- 4. Kleine beloningen, niet zijnde gratificaties, onder gelijktijdige mededeling daarvan aan de directeur (maximaal € 150).
+- 4. Kleine beloningen, niet zijnde gratificaties, onder gelijktijdige mededeling daarvan aan de directeur (maximaal € 150);
+
+- c. de door de eigen afdeling ingediende voorstellen/uitgaven zoals opgenomen in het vastgestelde bestedingsplan van de directie.
 
 ##### Artikel 8
 
-Het hoofd van de afdeling Kabinetszaken, Managementondersteuning en Stukkenverkeer is gevolmachtigd tot het aangaan van overeenkomsten met betrekking tot de taken, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034588&paragraaf=3&artikel=4&z=2020-01-01&g=2023-09-01), tot een bedrag van € 5.000,– per overeenkomst.
+De afdelingshoofden zijn gevolmachtigd tot het aangaan van overeenkomsten met betrekking tot de taken genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034588&paragraaf=3&artikel=3&z=2023-11-02&g=2023-11-02), [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034588&paragraaf=3&artikel=4&z=2023-11-02&g=2023-11-02) en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034588&paragraaf=3&artikel=5&z=2023-11-02&g=2023-11-02), tot een bedrag van € 75.000,– inclusief BTW per overeenkomst.
 
 ##### Artikel 9
 
@@ -174,7 +176,7 @@ Vervallen
 
 ##### Artikel 10
 
-Programmamanagers ressorterend onder de directeur Bestuursondersteuning zijn gevolmachtigd tot het aangaan van overeenkomsten met betrekking tot de taken, genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034588&paragraaf=3&artikel=6&z=2020-01-01&g=2023-09-01), tot een bedrag van € 5.000,– per overeenkomst.
+Programmamanagers ressorterend onder de directeur Bestuursondersteuning zijn gevolmachtigd tot het aangaan van overeenkomsten met betrekking tot de taken, genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034588&paragraaf=3&artikel=6&z=2023-11-02&g=2023-11-02), tot een bedrag van € 5.000,– per overeenkomst.
 
 ##### Artikel 11
 
@@ -202,7 +204,7 @@ Besluit:
 
 1. Het [Organisatie-, mandaat- en volmachtbesluit directie BO SZW 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0030337) wordt ingetrokken.
 
-2. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met dien verstande dat de [artikelen 1 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034588&paragraaf=1&artikel=1&z=2020-01-01&g=2023-09-01) terugwerken tot en met 1 oktober 2012
+2. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met dien verstande dat de [artikelen 1 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034588&paragraaf=1&artikel=1&z=2023-11-02&g=2023-11-02) terugwerken tot en met 1 oktober 2012
 
 3. Deze regeling wordt aangehaald als: Organisatie-, Mandaat- en Volmachtbesluit directie BO SZW 2013.
 
