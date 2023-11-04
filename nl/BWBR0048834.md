@@ -4,7 +4,7 @@ identifier: "BWBR0048834"
 country: "nl"
 rank: "zbo"
 publication_date: "2023-11-04"
-last_updated: "2023-04-07"
+last_updated: "2023-11-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048834"
 soort: "zbo"
@@ -222,7 +222,7 @@ In dit besluit wordt verstaan onder:
 
 - iii). waarbij een lid van de Raad van Bestuur een bestuurs- of toezichthoudende functie vervult.
 
-6. Bij besluiten over aangelegenheden waarbij een of meer leden van de Raad van Bestuur een tegenstrijdig belang hebben, is [artikel 6 lid 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048834&artikel=6&z=2023-11-04&g=2023-04-07) van dit bestuursreglement van overeenkomstige toepassing.
+6. Bij besluiten over aangelegenheden waarbij een of meer leden van de Raad van Bestuur een tegenstrijdig belang hebben, is [artikel 6 lid 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048834&artikel=6&z=2023-11-04&g=2023-11-04) van dit bestuursreglement van overeenkomstige toepassing.
 
 7. Het is de leden van de Raad van Bestuur niet toegestaan gedurende het eerste jaar na afloop van hun benoemingstermijn tegen beloning werkzaamheden te verrichten voor de KvK, tenzij de minister hiermee schriftelijk akkoord gaat.
 
@@ -240,7 +240,7 @@ In dit besluit wordt verstaan onder:
 
 2. De bestuurssecretaris woont in beginsel de vergaderingen van de Raad van Bestuur bij en bereidt deze voor.
 
-3. De bestuurssecretaris of zijn plaatsvervanger of een door de Raad van Bestuur aan te wijzen functionaris draagt zorg voor de ambtelijke ondersteuning van de raden als genoemd in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0048834&artikel=14&z=2023-11-04&g=2023-04-07), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0048834&artikel=15&z=2023-11-04&g=2023-04-07) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0048834&artikel=16&z=2023-11-04&g=2023-04-07)
+3. De bestuurssecretaris of zijn plaatsvervanger of een door de Raad van Bestuur aan te wijzen functionaris draagt zorg voor de ambtelijke ondersteuning van de raden als genoemd in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0048834&artikel=14&z=2023-11-04&g=2023-11-04), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0048834&artikel=15&z=2023-11-04&g=2023-11-04) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0048834&artikel=16&z=2023-11-04&g=2023-11-04)
 
 ##### Artikel 14. Centrale Raad
 
@@ -262,7 +262,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 17. Wijziging/intrekking
 
-1. Een wijziging van dit besluit geschiedt in overeenstemming met de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048834&artikel=6&z=2023-11-04&g=2023-04-07) van dit bestuursreglement beschreven besluitvormingsprocedure.
+1. Een wijziging van dit besluit geschiedt in overeenstemming met de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048834&artikel=6&z=2023-11-04&g=2023-11-04) van dit bestuursreglement beschreven besluitvormingsprocedure.
 
 2. Een wijziging als bedoeld in lid 1 van dit artikel behoeft goedkeuring van de minister.
 
@@ -360,7 +360,7 @@ In deze gedragscode wordt verstaan onder:
 
 ##### Artikel 10. Wijziging/intrekking
 
-- 1. Een wijziging van deze gedragscode geschiedt in overeenstemming met de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048834&artikel=6&z=2023-11-04&g=2023-04-07) van het Bestuursreglement Kamer van Koophandel beschreven besluitvormingsprocedure.
+- 1. Een wijziging van deze gedragscode geschiedt in overeenstemming met de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048834&artikel=6&z=2023-11-04&g=2023-11-04) van het Bestuursreglement Kamer van Koophandel beschreven besluitvormingsprocedure.
 
 - 2. Een wijziging als bedoeld in lid 1 van dit artikel behoeft goedkeuring van de minister.
 
