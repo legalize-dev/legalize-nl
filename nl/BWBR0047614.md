@@ -4,7 +4,7 @@ identifier: "BWBR0047614"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-01-06"
-last_updated: "2023-01-01"
+last_updated: "2023-11-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047614"
 soort: "zbo"
@@ -46,11 +46,11 @@ Treedt in werking op het tijdstip waarop artikel VIII, onderdeel B, van de Wet v
 
 ##### Artikel 1. Beoordelingskader
 
-Het beoordelingskader voor de doorstroomtoets als bedoeld in [artikel 3a, eerste lid, onderdeel g van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=3a) wordt vastgesteld als opgenomen in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0047614&bijlage=1&z=2023-01-01&g=2023-01-01) van deze regeling.
+Het beoordelingskader voor de doorstroomtoets als bedoeld in [artikel 3a, eerste lid, onderdeel g van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=3a) wordt vastgesteld als opgenomen in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0047614&bijlage=1&z=2023-11-08&g=2023-11-08) van deze regeling.
 
 ##### Artikel 2. Technische specificaties levering van gegevens voor de beoordeling van de doorstroomtoets
 
-De technische specificaties voor de levering van de gegevens voor de beoordeling van de doorstroomtoetsen, als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047614&artikel=1&z=2023-01-01&g=2023-01-01), worden beschreven in het handboek doorstroomtoets en het handboek normering of aanvullingen daarop zoals gepubliceerd op de website van het College voor toetsen en examens (cvte.nl/onderwerpen/toetsen-primair-onderwijs).
+De technische specificaties voor de levering van de gegevens voor de beoordeling van de doorstroomtoetsen, als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047614&artikel=1&z=2023-11-08&g=2023-11-08), worden beschreven in het handboek doorstroomtoets en het handboek normering of aanvullingen daarop zoals gepubliceerd op de website van het College voor toetsen en examens (cvte.nl/onderwerpen/toetsen-primair-onderwijs).
 
 ##### Artikel 3. Inwerkingtreding
 
@@ -62,7 +62,7 @@ Deze regeling wordt aangehaald als: Regeling beoordelingskader doorstroomtoets P
 
 ## Bijlage 1. Beoordelingskader voor de doorstroomtoets
 
-Bijlage behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047614&artikel=1&z=2023-01-01&g=2023-01-01) van de Regeling beoordelingskader doorstroomtoets PO
+Bijlage behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047614&artikel=1&z=2023-11-08&g=2023-11-08) van de Regeling beoordelingskader doorstroomtoets PO
 
 ### 1. Inleiding
 
@@ -70,7 +70,7 @@ Bijlage behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR004761
 
 ### 1.2. Reikwijdte
 
-Sinds het schooljaar 2014–2015 zijn scholen in het primair onderwijs verplicht in groep 8 een eindtoets Nederlandse taal en rekenen af te nemen. Per 1 januari 2023 wordt de eindtoets vervangen door de doorstroomtoets. De Wet doorstroomtoets po schrijft voor dat het College voor Toetsen en Examens (CvTE) als wettelijke taak krijgt om doorstroomtoetsen te erkennen. Doorstroomtoetsen die het CvTE erkent, worden voor een periode van vier jaar toegelaten tot het primair onderwijs.
+Sinds het schooljaar 2014–2015 zijn scholen in het primair onderwijs verplicht in groep 8 een eindtoets Nederlandse taal en rekenen af te nemen. Per 1 januari 2023 wordt de eindtoets vervangen door de doorstroomtoets. De Wet doorstroomtoets po schrijft voor dat het College voor Toetsen en Examens (CvTE) als wettelijke taak krijgt om doorstroomtoetsen te erkennen. Doorstroomtoetsen die het CvTE erkent, worden voor een periode van vier jaar toegelaten tot het primair onderwijs. Ook heeft het CvTE de wettelijke taak om de door de overheid aangeboden calamiteitentoets te erkennen. Vanwege de bijzondere aard van de calamiteitentoets, bestaat de jaarlijkse vaststelling slechts uit een inhoudelijke check op actualiteiten en uit kalibratie. Indien de calamiteitentoets in enig jaar moet worden ingezet, wordt een nieuwe toets voor het daarop volgende jaar ontwikkeld. Deze wordt alsdan volledig beoordeeld door het CvTE.
 
 Het CvTE maakt voor het erkennen van een Doorstroomtoets gebruik van een adviseur. De adviseur gebruikt voor zijn advies de Regeling beoordelingskader doorstroomtoetsen po.
 
@@ -406,13 +406,17 @@ Beslisregel: Om deze categorie van kwaliteitseisen met een voldoende te kunnen a
 
 **Toelichting A2.1 t/m A2.5:**
 
+**Toelichting A2.1 t/m A2.5:**
+
 In de verantwoordingsdocumenten voor de afnemer is de volgende informatie gegeven:
 
 Bij het evalueren van deze vragen kijkt de adviseur niet alleen of deze informatie er is, maar ook of deze duidelijk is en geen tegenstrijdigheden bevat. Mocht achteraf blijken dat in de praktijk de gegeven informatie dusdanig verwarrend zijn dat dit een negatieve impact heeft op de afname, dan zal dit in de jaarlijkse evaluatie van de toets een negatief oordeel opleveren.
 
-Beslisregel: Om deze categorie van kwaliteitseisen met een voldoende te kunnen afsluiten, dienen alle vragen met JA te worden beantwoord.
-
 ### 4.4. Beveiligingsaspecten
+
+Afwijkende beoordeling calamiteitentoets: A1 geldt niet voor de calamiteitentoets.
+
+Indien de toetsaanbieder ISO 27001 is gecertificeerd, volstaat het om naar dit certificaat en het achterliggende Information Security Management System (ISMS) inclusief een verklaring van toepasbaarheid (c.q. de scope van het certificaat) te verwijzen.
 
 **Toelichting RB1 t/m RB4.2:**
 
@@ -422,15 +426,11 @@ In alle andere situaties moet de aanbieder overzichtelijk per kwaliteitseis aang
 
 De verantwoordelijkheid voor het goed gebruik van de toets en de daarmee verzamelde informatie in de dagelijkse praktijk ligt bij de school / de eindgebruiker zelf.
 
-**Toelichting RB5**: De toetsaanbieder is zelf verantwoordelijk om te voorzien in een terugvaloptie in geval van een beperkte calamiteit met alleen de eigen doorstroomtoets. De wijze waarop hierin wordt voorzien kan verschillen per aanbieder en per toetsvorm. De procedure is beschreven in een calamiteitenplan. In geval van een (grootschalige) calamiteit met één of meerdere doorstroomtoetsen, kunnen de getroffen scholen gebruik maken van de door de overheid beschikbaar te stellen calamiteitentoets, zodat de deelnemende scholen ten allen tijde aan hun wettelijke taak voor het afnemen van een doorstroomtoets kunnen blijven voldoen.
-
-Beslisregel: Om deze categorie van kwaliteitseisen met een voldoende te kunnen afsluiten, dienen alle vragen met JA te worden beantwoord.
-
 ### 5. Psychometrische aspecten
 
 ### 5.1. Inleiding
 
-De toetsaanbieder dient nieuw geconstrueerde items te pretesten. Dit om de psychometrische kwaliteit van de items te schatten, om van daaruit te kunnen bepalen welke items mogen worden gebruikt bij de definitieve toetssamenstelling.
+Afwijkende beoordeling calamiteitentoets: RB5 geldt niet voor de calamiteitentoets.
 
 De psychometrische kwaliteitsbeoordeling van de doorstroomtoets door een adviseur in opdracht van het CvTE bestaat uit de volgende stappen:
 
@@ -438,11 +438,19 @@ In het geval van een MST, geldt dat voor wat betreft de psychometrische kwalitei
 
 ### 5.2. Pretestprocedure
 
+De psychometrische kwaliteitsbeoordeling van de doorstroomtoets door een adviseur in opdracht van het CvTE bestaat uit de volgende stappen:
+
+In het geval van een MST, geldt dat voor wat betreft de psychometrische kwaliteitseisen uit hoofdstuk 5 het CvTE per kwaliteitseis mag beoordelen of en welke van de eisen voor een lineaire doorstroomtoets en/of en welke van de eisen voor een computergestuurde adaptieve doorstroomtoets op itemniveau (CAT) van toepassing zijn.
+
+### 5.2.1. Steekproefkader en samenstelling steekproef
+
+De onderwijskundig positief beoordeelde nieuw geconstrueerde items worden gepretest volgens de kwaliteitseisen voor het steekproefkader en de samenstelling van de steekproef.
+
 De pretestprocedure heeft tot doel om de bruikbaarheid van items te bepalen om vervolgens vast te kunnen stellen welke items in aanmerking komen voor opname in de definitief samen te stellen varianten van de doorstroomtoets. Bruikbaarheid betekent dat de items voldoende onderscheidend zijn (d.w.z. een voldoende positieve a-parameter hebben en niet te moeilijk en niet te makkelijk zijn (d.w.z. een representatieve b-parameter hebben). Daarnaast mag de doorstroomtoets ook makkelijke en moeilijke opgaven bevatten om zo goed onderscheid te kunnen maken aan de buitenranden van de vaardigheidsverdeling en rekening houdend met dat de te onderscheiden doorstroomniveaus liggen enkele standaarddeviaties uit elkaar, en is dus ook een goede spreiding in moeilijkheid nodig.
 
 De pretest kan op twee manieren worden uitgevoerd:
 
-### 5.2.1. Steekproefkader en samenstelling steekproef
+**Toelichting N1.1a:**
 
 De onderwijskundig positief beoordeelde nieuw geconstrueerde items worden gepretest volgens de kwaliteitseisen voor het steekproefkader en de samenstelling van de steekproef.
 
@@ -468,6 +476,8 @@ Wanneer de gekloonde opgave in termen van relevantie en/of objectiviteit verande
 
 Wanneer eerder al data verzameld zijn bij het item in een andere vorm dient ook bij kleine wijzigingen het gekloonde item een nieuw label te krijgen.
 
+Afwijkende beoordeling calamiteitentoets: De eis dat rekening gehouden moet worden met de ICC geldt niet voor de calamiteitentoets.
+
 **Toelichting N1.1b:**
 
 De steekproef dient relevant te zijn voor de toepassing. Dit betekent dat de steekproef van de pretest overeenkomstig dient te zijn met de populatie die de toets van de aanbieder regulier afneemt.
@@ -482,13 +492,15 @@ Als bij drie (3) deze omstandigheden afwijken van de werkelijke afname wordt aan
 
 Onder **scenario 2** wordt een positief antwoord wordt op deze vraag gegeven wanneer aan de volgende twee voorwaarden is voldaan:
 
+Afwijkende beoordeling calamiteitentoets: De eis dat de steekproef van de pretest overeen dient te komen met de populatie die de toets van de aanbieder regulier afneemt, geldt niet voor de calamiteitentoets. Voor de calamiteitentoets is ‘leerlingen uit groep 8’ de best passende operationalisering van de beoogde doelgroep.
+
 **Toelichting N1.2:**
 
 In Scenario 1 doel A, wanneer de prestest alleen een rol speelt in het al dan niet selecteren van de opgaven, en de bij de normering (definitieve) gebruikte parameters bepaald worden op basis van de operationele afname, is deze eis niet van toepassing. De kwaliteit van de pretest wordt dan alleen bepaald op basis van N1.1.
 
 Wanneer er sprake is van **Scenario 2 of van Scenario 1, doel B**is het van belang dat de parameters per vaardigheid op dezelfde schaal liggen. Dat geldt dus ook voor de zaai-items. In het geval van een CAT dienen de parameters van de opgaven die de itembank vormen op dezelfde schaal te liggen. Om dat voor elkaar te krijgen is het van belang dat er sprake is van een afnamedesign waarbij dit mogelijk is. Wanneer de prestest gedaan wordt door middel van ‘zaai-opgaven’ in de afname dan wordt aangeven hoe dat ‘zaai-design’ er uitziet. Dit design is meegegeven in de technische verantwoording van de pretest en bevat ieder geval informatie over:
 
-Met behulp van deze informatie kan worden bepaald of de boekjes aantoonbaar voldoende ‘gelinked’ zijn. Dat betekent dat er voldoende overlap in observaties tussen de verschillende items en boekjes moet zijn. Daarvan is sprake wanneer de aanbieder laat zien dat het plaatsen van de itemparameters van alle opgaven op dezelfde schaal als waar de meting over gaat mogelijk is, meestal door middel van een verbonden design.
+### 5.2.2. Kalibratie en kwaliteit van items
 
 Wanneer de pretestdata zijn verzameld met een CAT is het niet zinvol om het hele onvolledige design weer te geven, omdat iedere leerling dan in principe een unieke verzameling items maakt. Het dient wel duidelijk te zijn op welke gegevens de linking en normering gebaseerd zijn. Bij een MST of een lineaire afname is het meeleveren van het design wel zinvol.
 
@@ -500,7 +512,7 @@ Ook moet duidelijk zijn op welke posities de verschillende opgaven ingezet zijn,
 
 Beslisregel: Om voor deze categorie van kwaliteitseisen een voldoende te kunnen krijgen, dienen alle vragen met JA te worden beantwoord.
 
-### 5.2.2. Kalibratie en kwaliteit van items
+In het geval van scenario 1, doel A dient de aanbieder te verantwoorden op basis van welke criteria opgaven toegelaten worden voor de operationele afname.
 
 Na het verzamelen van de observaties voert de toetsaanbieder een kalibratie uit met de verzamelde testdata. In het geval van eerder afgenomen opgaven (bij een itembank of bij pretestgegevens) kan er een schaal gekalibreerd worden die op basis van de afnamegegevens bestendigd moet worden. Op basis van de afnamegegevens kunnen de (goed functionerende) zaai-items op de schaal geplaatst worden. Bij de beoordeling wordt gekeken naar wat er in het verleden (vorige afname) gedaan is en wordt geëvalueerd wat de plannen zijn voor bij de afname. Wanneer een aanbieder voor het eerst een afname heeft, is de toelating voorlopig en kan deze na de eerste afname bevestigd worden op basis van de resultaten bij deze afname, vergelijkbaar met hoe aanbieders met eerdere afnames vooraf beoordeeld worden. In de kalibratie schat de toetsaanbieder de itemparameters, zodat de kwaliteit van de met behulp van scenario1 of scenario2 gepreteste items kan worden vastgesteld.
 
@@ -536,7 +548,7 @@ De meting van de vaardigheid van een leerling moet voldoende betrouwbaar worden 
 
 De eis van de minimale betrouwbaarheid (de manier om de schattingsfout van de persoonsparameters in te schatten) wordt op drie manieren beoordeeld:
 
-**Toelichting KA6:**
+### 5.2.3. Toetssamenstelling
 
 Alle gebruikte modellen werken met aannames en voorwaarden waaraan voldaan moet worden, wil het model bruikbaar zijn. In de landelijke normering zal het 2PL gebruikt worden zodat voldoende moet worden aangetoond dat de verkregen data voldoende past bij de voorwaarden die bruikbaarheid van het model vereist. Dit betreft de veronderstelling van (1) unidimensionaliteit, (2) lokaal stochastische onafhankelijkheid, en (3) de passing van de data bij de gebruikte parameterschattingen. Onder unidimensionaliteit wordt een eigenschap van een schaal verstaan wanneer de items in een toets dezelfde vaardigheid meten. Met elke willekeurige subset van items uit de gekalibreerde itembank kan dezelfde onderliggende vaardigheid worden vastgesteld. Ook onderzoek naar DIF wordt hierbij als onderbouwing gezien. Hier zijn diverse maten en onderzoeken mogelijk, waarbij de toetsaanbieder hier met de juiste motivering aangeeft hoe aan de voorwaarden voldaan is. Naast statistische passingsmaten is het ook mogelijk gebruik te maken van bij de data en het psychometrisch model passende robuustheidsmaten.
 
@@ -548,7 +560,7 @@ Om een positief oordeel op deze vraag te krijgen wordt aangetoond dat alle opgav
 
 Beslisregel: Om voor deze categorie van kwaliteitseisen een voldoende te kunnen krijgen, dienen alle vragen met JA te worden beantwoord.
 
-### 5.2.3. Toetssamenstelling
+**Toelichting T2b**: De items van de verplicht op te nemen subsets van het gezamenlijk anker moeten op een zodanige wijze over de toets worden verspreid, dat de positie in de toets zo min mogelijk invloed op de prestatie van de leerling heeft en de ankeritems qua lay-out en tekstuele vormgeving niet als opvallend afwijkend in de toets herkenbaar zijn, een en ander zoals gespecificeerd in de [Regeling Beoordelingsnormen Doorstroomtoetsen po](https://wetten.overheid.nl/jci1.3:c:BWBR0047606).
 
 Na afronding van de kalibratie van de nieuwe items, stelt de toetsaanbieder de definitieve doorstroomtoets samen.
 
@@ -564,13 +576,81 @@ toetslengte per te toetsen domein.
 
 **Toelichting T3:**Een papieren toets of een lineaire digitale toets bestaat jaarlijks vrijwel uit nieuwe gekalibreerde items voor de wettelijk verplichte domeinen Nederlandse taal en rekenen, met uitzondering van de items van het gezamenlijk anker.
 
-**Toelichting T4 / T4.1:**
+### 5.3. Rapportage achteraf van de kwaliteit en het functioneren van de doorstroomtoets
 
 In het geval van een MST op basis van een itembank die bestaat uit meerdere lagen van modules (c.q. routes) of in het geval van een CAT, moet er sprake zijn van een adequate verversingsstrategie, en de verversing moet op itemniveau gedocumenteerd zijn Daarbij geldt:
 
 De punten b en c kunnen onderzocht worden met een statistische toets voor DIF en/of met een statistische toets voor Item Parameter Drift (IPD).
 
 De aanbieder verantwoordt op gedegen en complete wijze hoe de aantallen in de kolom ‘Aantal gevonden’ zijn bepaald. Van de gevonden afwijkingen dient in hetzelfde jaar minimaal 90% aantoonbaar te zijn verwijderd uit de itembank.
+
+### 6. Vierjaarlijkse erkenning en jaarlijkse vaststelling door het CvTE
+
+### 6.1. De vierjaarlijkse erkenning
+
+Afwijkende beoordeling calamiteitentoets: T2, T3 en T4 gelden niet voor de calamiteitentoets.
+
+Na de eerste toelating van vier jaar, dienen de toetsaanbieders opnieuw een toelatingsaanvraag in bij het CvTE. Voor deze nieuwe toelatingsaanvraag vindt een herbeoordeling plaats. Voor deze herbeoordeling van de onderwijskundige inhoud, organisatorische aspecten en psychometrische aspecten doet het CvTE eveneens een beroep op onafhankelijke onderwijskundige en vakinhoudelijke experts van een adviseur.
+
+### 6.2. De jaarlijkse vaststelling
+
+De jaarlijkse verantwoording van de kwaliteit en het functioneren van de doorstroomtoets dient uiterlijk op 31 mei beschikbaar te zijn gesteld aan het CvTE en bestaat uit de volgende informatie:
+
+### Checklist 1 Toetsopgaven Nederlandse taal per domein en per onderdeel: formulier voor toetsontwikkelaar en expert
+
+### A. Subdomein Zakelijke Teksten
+
+1Globaal oordeel gebaseerd op het totale aantal teksten in de toets. Deze criteria zijn bedoeld als hulpmiddel om tot een eindoordeel van de tekstkenmerken van alle in de toets opgenomen teksten te komen.
+
+### 6.1. De vierjaarlijkse erkenning
+
+Een adviseur beoordeelt vierjaarlijks in opdracht van het CvTE de onderwijskundige, organisatorische en psychometrische aspecten van de doorstroomtoets. Na de beoordeling stelt een adviseur een advies op. Dit advies gaat naar het CvTE dat, op basis van het ontvangen advies, een definitieve beslissing neemt over het al dan niet erkennen van de betreffende doorstroomtoets. Wanneer de toets is erkend kan deze toets vier achtereenvolgende jaren worden ingezet. Onderdeel van deze uitgebreide beoordeling is een psychometrische controle van de pretestprocedure én van de operationele testprocedure en -resultaten die jaarlijks worden verzameld in de afnameperiode.
+
+### B. Domein Taalverzorging
+
+**Kenmerken van de taakuitvoering:**
+
+Een adviseur beoordeelt jaarlijks aan de hand van ditzelfde beoordelingskader de kwaliteit van de doorstroomtoets. De aanbieder levert hiervoor bij het CvTE alle gevraagde documenten aan die eveneens voor de vierjaarlijkse erkenning ingediend dienen te worden. De aanbieder verstrekt hierbij een leeswijzer. Hierin staat per document aangegeven op welke punten deze afwijkend is van de eerder verstuurde versie ten tijde van de vierjaarlijkse check of jaarlijkse vaststelling. Vervolgens stelt het CvTE jaarlijks vast of de erkende doorstroomtoets nog voldoet aan de criteria van het beoordelingskader. Dit doet het CvTE met de resultaten van de door een adviseur uitgevoerde jaarlijkse vaststelling. Onderdeel van de jaarlijkse vaststelling is de controle achteraf of de toetssamenstellingsprocedure door alle toetsaanbieders correct en consistent was uitgevoerd. Voor de jaarlijkse vaststelling van de calamiteitentoets wordt op een aantal punten van het beoordelingskader afgeweken.
+
+### Checklist 1 Toetsopgaven Nederlandse taal per domein en per onderdeel: formulier voor toetsontwikkelaar en expert
+
+### A. Subdomein Zakelijke Teksten
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+Afwijkende beoordeling calamiteitentoets: Van de calamiteitentoets moet een versie beschikbaar zijn in braille, in zwart-wit en voorzien zijn van een vorm van audio-ondersteuning om te voldoen aan LL1.a. LL1.e geldt niet.
+
+### 4.3. Afname doorstroomtoets
+
+Beslisregel: Om deze categorie van kwaliteitseisen met een voldoende te kunnen afsluiten, dienen alle vragen met JA te worden beantwoord.
+
+### 4.4. Beveiligingsaspecten
+
+**Toelichting RB5**: De toetsaanbieder is zelf verantwoordelijk om te voorzien in een terugvaloptie in geval van een beperkte calamiteit met alleen de eigen doorstroomtoets. De wijze waarop hierin wordt voorzien kan verschillen per aanbieder en per toetsvorm. De procedure is beschreven in een calamiteitenplan. In geval van een (grootschalige) calamiteit met één of meerdere doorstroomtoetsen, kunnen de getroffen scholen gebruik maken van de door de overheid beschikbaar te stellen calamiteitentoets, zodat de deelnemende scholen ten allen tijde aan hun wettelijke taak voor het afnemen van een doorstroomtoets kunnen blijven voldoen.
+
+Beslisregel: Om deze categorie van kwaliteitseisen met een voldoende te kunnen afsluiten, dienen alle vragen met JA te worden beantwoord.
+
+### 5. Psychometrische aspecten
+
+### 5.1. Inleiding
+
+De toetsaanbieder dient nieuw geconstrueerde items te pretesten. Dit om de psychometrische kwaliteit van de items te schatten, om van daaruit te kunnen bepalen welke items mogen worden gebruikt bij de definitieve toetssamenstelling.
+
+De psychometrische kwaliteitsbeoordeling van de calamiteitentoets wijkt af van bovengenoemd kader. De calamiteitentoets bevat geen items uit het gezamenlijk anker. Ook de normering van de calamiteitentoets wijkt af van de reguliere normering. Dit wordt nader uitgewerkt in het Handboek Normering.
+
+### 5.2. Pretestprocedure
+
+### 5.2.1. Steekproefkader en samenstelling steekproef
+
+Met behulp van deze informatie kan worden bepaald of de boekjes aantoonbaar voldoende ‘gelinked’ zijn. Dat betekent dat er voldoende overlap in observaties tussen de verschillende items en boekjes moet zijn. Daarvan is sprake wanneer de aanbieder laat zien dat het plaatsen van de itemparameters van alle opgaven op dezelfde schaal als waar de meting over gaat mogelijk is, meestal door middel van een verbonden design.
+
+### 5.2.2. Kalibratie en kwaliteit van items
+
+**Toelichting KA6:**
+
+### 5.2.3. Toetssamenstelling
+
+**Toelichting T4 / T4.1:**
 
 Om het gebruik van een adaptieve doorstroomtoets aantrekkelijk te houden, dient kwaliteitseis T4.1 te worden gelezen in termen van: ‘het onderbouwen en motiveren van de gemaakte keuzes’.
 
@@ -580,25 +660,15 @@ Beslisregel: Om voor deze categorie van kwaliteitseisen een voldoende te kunnen 
 
 De toetsaanbieder verantwoordt jaarlijks na de toetsafname-periode de kwaliteit en het functioneren van de afgenomen doorstroomtoets. De aanbieder stelt daartoe minimaal de volgende zes tabellen samen, conform de inhoud en indeling zoals voorgeschreven door het CvTE. Aansluitend controleert een adviseur in opdracht van het CvTE of de inhoud van de rapportage voldoet aan de vooraf gestelde eisen. De resultaten en de kwaliteit van dit rapport van het voorafgaande jaar worden gebruikt bij de evaluatie in dit kader, dan wel de jaarlijkse her-evaluatie. Als er een nieuwe aanbieder is die dit nog niet op kan leveren naar aanleiding van een vorige afname, speelt dit bij de eerste evaluatie geen rol, maar heeft het wel een groter gewicht bij de jaarlijkse her-evaluatie die volgt na de eerste afname.
 
-De jaarlijkse verantwoording van de kwaliteit en het functioneren van de doorstroomtoets dient uiterlijk op 31 mei beschikbaar te zijn gesteld aan het CvTE en bestaat uit de volgende informatie:
+Een overzicht (tabel) van de overeenkomsten tussen de toetsadviezen en de eerder gegeven (voorlopige) schooladviezen, bestaande uit een overzicht van het percentage consistente en niet consistente classificaties, inclusief de globale classificatiefout (c.q. het percentage misclassificaties als functie van de mate van overeenstemming tussen het voorlopig schooladvies en het toetsadvies7Zie Tabel 14 in: Glas, C.A.W., & Emons, W.H.M. (2017). Blueprint voor psychometrische verantwoording normering toetsadviezen en ijking op de referentieniveaus. EPO: Utrecht).
 
-Een overzicht (tabel) van de overeenkomsten tussen de toetsadviezen en de eerder gegeven (voorlopige) schooladviezen, bestaande uit een overzicht van het percentage consistente en niet consistente classificaties, inclusief de globale classificatiefout (c.q. het percentage misclassificaties als functie van de mate van overeenstemming tussen het voorlopig schooladvies en het toetsadvies7Zie Tabel 14 in: Glas, C.A.W., & Emons, W.H.M. (2017). Blueprint voor psychometrische verantwoording normering toetsadviezen en ijking op de referentieniveaus. EPO: Utrecht)
+De rapportage achteraf van de kwaliteit en het functioneren van de calamiteitentoets vindt alleen plaats nadat de toets daadwerkelijk is ingezet. Het CvTE beslist of de calamiteitentoets meedoet aan het Toelatings- en doorstroomonderzoek.
 
 ### 6. Vierjaarlijkse erkenning en jaarlijkse vaststelling door het CvTE
-
-### 6.1. De vierjaarlijkse erkenning
-
-Een adviseur beoordeelt vierjaarlijks in opdracht van het CvTE de onderwijskundige, organisatorische en psychometrische aspecten van de doorstroomtoets. Na de beoordeling stelt een adviseur een advies op. Dit advies gaat naar het CvTE dat, op basis van het ontvangen advies, een definitieve beslissing neemt over het al dan niet erkennen van de betreffende doorstroomtoets. Wanneer de toets is erkend kan deze toets vier achtereenvolgende jaren worden ingezet. Onderdeel van deze uitgebreide beoordeling is een psychometrische controle van de pretestprocedure én van de operationele testprocedure en -resultaten die jaarlijks worden verzameld in de afnameperiode.
 
 Na de eerste toelating van vier jaar, dienen de toetsaanbieders opnieuw een toelatingsaanvraag in bij het CvTE. Voor deze nieuwe toelatingsaanvraag vindt een herbeoordeling plaats. Voor deze herbeoordeling van de onderwijskundige inhoud, organisatorische aspecten en psychometrische aspecten doet het CvTE eveneens een beroep op onafhankelijke onderwijskundige en vakinhoudelijke experts van een adviseur.
 
 ### 6.2. De jaarlijkse vaststelling
-
-Een adviseur beoordeelt jaarlijks aan de hand van ditzelfde beoordelingskader de kwaliteit van de doorstroomtoets. De aanbieder levert hiervoor bij het CvTE alle gevraagde documenten aan die eveneens voor de vierjaarlijkse erkenning ingediend dienen te worden. De aanbieder verstrekt hierbij een leeswijzer. Hierin staat per document aangegeven op welke punten deze afwijkend is van de eerder verstuurde versie ten tijde van de vierjaarlijkse check of jaarlijkse vaststelling. Vervolgens stelt het CvTE jaarlijks vast of de erkende doorstroomtoets nog voldoet aan de criteria van het beoordelingskader. Dit doet het CvTE met de resultaten van de door een adviseur uitgevoerde jaarlijkse vaststelling. Onderdeel van de jaarlijkse vaststelling is de controle achteraf of de toetssamenstellingsprocedure door alle toetsaanbieders correct en consistent was uitgevoerd.
-
-### Checklist 1 Toetsopgaven Nederlandse taal per domein en per onderdeel: formulier voor toetsontwikkelaar en expert
-
-### A. Subdomein Zakelijke Teksten
 
 1Globaal oordeel gebaseerd op het totale aantal teksten in de toets. Deze criteria zijn bedoeld als hulpmiddel om tot een eindoordeel van de tekstkenmerken van alle in de toets opgenomen teksten te komen.
 
