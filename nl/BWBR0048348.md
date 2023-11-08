@@ -4,7 +4,7 @@ identifier: "BWBR0048348"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-07-01"
-last_updated: "2023-07-01"
+last_updated: "2023-11-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048348"
 soort: "zbo"
@@ -76,7 +76,7 @@ Een fonds meldt het voornemen tot waardeoverdracht bij DNB door middel van het f
 
 ##### Artikel 4. Aan te leveren gegevens
 
-1. Bij de melding als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048348&artikel=3&z=2023-07-01&g=2023-07-01) dienen in ieder geval de volgende gegevens te worden overgelegd:
+1. Bij de melding als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048348&artikel=3&z=2023-11-08&g=2023-11-08) dienen in ieder geval de volgende gegevens te worden overgelegd:
 
 - a. het implementatieplan als bedoeld in [artikel 150i Pw](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=150i) of [artikel 145h Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=145h);
 
@@ -102,27 +102,29 @@ Een fonds meldt het voornemen tot waardeoverdracht bij DNB door middel van het f
 
 - l. een toelichting op de wijze waarop het fonds tot de in onderdeel k bedoelde indeling in deelnemersgroepen is gekomen en over is gegaan tot toedeling van deelnemers, gewezen deelnemers, andere aanspraakgerechtigden en pensioengerechtigden aan de relevante deelnemersgroepen;
 
-- m. een overzicht van de vastgestelde transitie-effecten;
+- m. de uitkomsten van het risicopreferentie-onderzoek;
 
-- n. een toelichting op de wijze waarop het fonds de in onderdeel m bedoelde transitie-effecten heeft vastgesteld;
+- n. een overzicht van de vastgestelde transitie-effecten;
 
-- o. de informatie en een toelichting daarop als bedoeld in [artikel 46, eerste lid, onderdeel c, Besluit uitvoering Pw en Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&artikel=46);
+- o. een toelichting op de wijze waarop het fonds de in onderdeel m bedoelde transitie-effecten heeft vastgesteld;
 
-- p. een toelichting op de wijze waarop wordt voldaan aan de eis van gelijke behandeling van mannen en vrouwen en aan de eis van collectieve actuariële gelijkwaardigheid, als bedoeld in [artikel 150m, achtste lid, Pw](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=150m) en [artikel 145l, zevende lid, Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=145l);
+- p. de informatie en een toelichting daarop als bedoeld in [artikel 46, eerste lid, onderdeel c, Besluit uitvoering Pw en Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&artikel=46);
 
-- q. een onderbouwing waarom het bestuur van oordeel is dat bij het besluit en de transitie als geheel de bij het fonds betrokken deelnemers, gewezen deelnemers, andere aanspraakgerechtigden, de pensioengerechtigden en de werkgever zich op evenwichtige wijze vertegenwoordigd kunnen voelen, waarbij het fonds nadrukkelijk ook de vastgestelde transitie-effecten betrekt; en
+- q. een toelichting op de wijze waarop wordt voldaan aan de eis van gelijke behandeling van mannen en vrouwen en aan de eis van collectieve actuariële gelijkwaardigheid, als bedoeld in [artikel 150m, achtste lid, Pw](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=150m) en [artikel 145l, zevende lid, Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=145l);
 
-- r. indien van toepassing, opinies of adviezen van de risicobeheerfunctie, interne auditfunctie en actuariële functie als bedoeld in [artikel 143a Pw](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=143a) en [artikel 138a Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=138a) ter zake van de transitiebesluitvorming.
+- r. een onderbouwing waarom het bestuur van oordeel is dat bij het besluit en de transitie als geheel de bij het fonds betrokken deelnemers, gewezen deelnemers, andere aanspraakgerechtigden, de pensioengerechtigden en de werkgever zich op evenwichtige wijze vertegenwoordigd kunnen voelen, waarbij het fonds nadrukkelijk ook de vastgestelde transitie-effecten betrekt; en
 
-2. De melding wordt pas geacht te zijn ingediend nadat minimaal de gegevens als bedoeld in het eerste lid zijn verstrekt aan DNB op de wijze als voorgeschreven in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048348&artikel=6&z=2023-07-01&g=2023-07-01).
+- s. indien van toepassing, opinies of adviezen van de risicobeheerfunctie, interne auditfunctie en actuariële functie als bedoeld in [artikel 143a Pw](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=143a) en [artikel 138a Wvb](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=138a) ter zake van de transitiebesluitvorming.
+
+2. De melding wordt pas geacht te zijn ingediend nadat minimaal de gegevens als bedoeld in het eerste lid zijn verstrekt aan DNB op de wijze als voorgeschreven in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048348&artikel=5&z=2023-11-08&g=2023-11-08) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0048348&artikel=6&z=2023-11-08&g=2023-11-08).
 
 ##### Artikel 5. Model voor de gegevensverstrekking
 
-PM
+Bij de melding als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048348&artikel=3&z=2023-11-08&g=2023-11-08) dient het ingevulde invaarsjabloon als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048348&bijlage=1&z=2023-11-08&g=2023-11-08) bij deze Regeling te worden overgelegd.
 
 ##### Artikel 6. Eisen aan de gegevensverstrekking
 
-Documenten die worden ingediend bij de melding worden aangeleverd in de vorm van een tekst-gebaseerd .pdf-bestand of een .xls(x)-bestand.
+Gegevens die niet via [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048348&bijlage=1&z=2023-11-08&g=2023-11-08) kunnen worden overgelegd dienen te worden overgelegd in de vorm van een tekst-gebaseerd pdf-bestand of een xls(x)-bestand.
 
 ##### Artikel 7. Indieningstermijn
 
@@ -135,5 +137,11 @@ Deze regeling treedt in werking op het tijdstip waarop de [Wet toekomst pensioen
 ##### Artikel 9. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling melden interne collectieve waardeoverdracht pensioenfondsen bij transitie.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van bijlage 1, die wordt gepubliceerd op de website [www.dnb.nl](onbekend)
+
+## Bijlage 1
+
+Gepubliceerd op de website van DNB.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van bijlage 1, die wordt gepubliceerd op de website [www.dnb.nl](onbekend)
