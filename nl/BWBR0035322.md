@@ -4,7 +4,7 @@ identifier: "BWBR0035322"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2023-11-09"
-last_updated: "2016-07-01"
+last_updated: "2023-11-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035322"
 soort: "beleidsregel"
@@ -112,7 +112,7 @@ De ACM stelt een basisboete vast tussen 0 tot 50% van de betrokken omzet van de 
 
 ##### Artikel 2.5
 
-1. Indien [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035322&hoofdstuk=2&paragraaf=2.2&artikel=2.3&z=2016-07-01&g=2016-07-01), niet van toepassing is, stelt de ACM de basisboete, in het geval dat aan een overtreder blijkens een wettelijke bepaling een maximale boete van € 900.000 dan wel, indien dat meer is, een promillage van de totale jaaromzet kan worden opgelegd, vast binnen de bandbreedtes van de volgende boete categorieën:
+1. Indien [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035322&hoofdstuk=2&paragraaf=2.2&artikel=2.3&z=2023-11-09&g=2023-11-09), niet van toepassing is, stelt de ACM de basisboete, in het geval dat aan een overtreder blijkens een wettelijke bepaling een maximale boete van € 900.000 dan wel, indien dat meer is, een promillage van de totale jaaromzet kan worden opgelegd, vast binnen de bandbreedtes van de volgende boete categorieën:
 
 |   | Onderkant van de bandbreedte | Onderkant van de bandbreedte | Bovenkant van de bandbreedte | Bovenkant van de bandbreedte |
 | --- | --- | --- | --- | --- |
@@ -138,7 +138,7 @@ De ACM stelt een basisboete vast tussen 0 tot 50% van de betrokken omzet van de 
 
 ##### Artikel 2.6
 
-1. Bij de toepassing van [artikel 2.5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035322&hoofdstuk=2&paragraaf=2.3&artikel=2.5&z=2016-07-01&g=2016-07-01), gaat de ACM uit van de in Nederland behaalde omzet.
+1. Bij de toepassing van [artikel 2.5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035322&hoofdstuk=2&paragraaf=2.3&artikel=2.5&z=2023-11-09&g=2023-11-09), gaat de ACM uit van de in Nederland behaalde omzet.
 
 2. In afwijking van het eerste lid gaat de ACM uit van de wereldwijde omzet indien het uitgaan van de in Nederland behaalde omzet naar het oordeel van de ACM geen passende beboeting toelaat.
 
@@ -156,7 +156,7 @@ De ACM stelt een basisboete vast tussen 0 tot 50% van de betrokken omzet van de 
 
 ##### Artikel 2.7
 
-1. Indien de ACM een bestuurlijke boete oplegt aan een natuurlijke persoon vanwege het geven van opdracht tot een overtreding of het feitelijk leiding geven aan een overtreding, kan de ACM bij de vaststelling van boeteverhogende en boeteverlagende omstandigheden als bedoeld in de [artikelen 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0035322&hoofdstuk=2&paragraaf=2.5&artikel=2.9&z=2016-07-01&g=2016-07-01) en [2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035322&hoofdstuk=2&paragraaf=2.5&artikel=2.10&z=2016-07-01&g=2016-07-01), rekening houden met de mate van betrokkenheid van de natuurlijke persoon bij het plegen van de overtreding en de positie van de natuurlijke persoon binnen de marktorganisatie waarvoor hij of zij werkzaam is, dan wel werkzaam was, en stelt de ACM een boetegrondslag vast die ten minste gerelateerd is aan de ernst van de overtreding en het inkomen en vermogen van de overtreder, teneinde tot een bestuurlijke boete te komen die uit het oogpunt van zowel algemene als specifieke preventie voldoende afschrikwekkend is.
+1. Indien de ACM een bestuurlijke boete oplegt aan een natuurlijke persoon vanwege het geven van opdracht tot een overtreding of het feitelijk leiding geven aan een overtreding, kan de ACM bij de vaststelling van boeteverhogende en boeteverlagende omstandigheden als bedoeld in de [artikelen 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0035322&hoofdstuk=2&paragraaf=2.5&artikel=2.9&z=2023-11-09&g=2023-11-09) en [2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035322&hoofdstuk=2&paragraaf=2.5&artikel=2.10&z=2023-11-09&g=2023-11-09), rekening houden met de mate van betrokkenheid van de natuurlijke persoon bij het plegen van de overtreding en de positie van de natuurlijke persoon binnen de marktorganisatie waarvoor hij of zij werkzaam is, dan wel werkzaam was, en stelt de ACM een boetegrondslag vast die ten minste gerelateerd is aan de ernst van de overtreding en het inkomen en vermogen van de overtreder, teneinde tot een bestuurlijke boete te komen die uit het oogpunt van zowel algemene als specifieke preventie voldoende afschrikwekkend is.
 
 2. De ACM stelt de basisboete voor natuurlijke personen vast, ingeval van de hieronder opgesomde overtredingen, binnen de volgende bandbreedtes:
 
@@ -200,7 +200,7 @@ De ACM stelt een basisboete vast tussen 0 tot 50% van de betrokken omzet van de 
 
 - 2.°. overtredingen die zijn ingedeeld in de bandbreedte bedoeld in dit lid, onder c, en waarbij in een concreet geval, gelet op de bijzondere omstandigheden van dat geval, beboeting in de bandbreedte, bedoeld in dit lid, onder c, in het kader van specifieke preventie geen passende beboeting oplevert.
 
-3. Indien de in het tweede en derde lid bedoelde indeling in een boetecategorie in het concrete geval naar het oordeel van de ACM geen passende beboeting toelaat, kan de naast hogere of de naaste lagere categorie worden toegepast.
+3. Indien de in het tweede lid bedoelde indeling in een boetecategorie in het concrete geval naar het oordeel van de ACM geen passende beboeting toelaat, kan de naast hogere of de naaste lagere categorie worden toegepast.
 
 #### § 2.5. Boeteverhogende en boeteverlagende omstandigheden
 
@@ -234,7 +234,7 @@ Boeteverlagende omstandigheden zijn in ieder geval:
 
 ##### Artikel 2.11
 
-Indien de ACM een bestuurlijke boete oplegt aan een natuurlijke persoon vanwege het geven van opdracht tot een overtreding of het feitelijk leiding geven aan een overtreding, kan de ACM bij de vaststelling van boeteverhogende en boeteverlagende omstandigheden als bedoeld in de [artikelen 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0035322&hoofdstuk=2&paragraaf=2.5&artikel=2.9&z=2016-07-01&g=2016-07-01) en [2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035322&hoofdstuk=2&paragraaf=2.5&artikel=2.10&z=2016-07-01&g=2016-07-01), rekening houden met de mate van betrokkenheid van de natuurlijke persoon bij het plegen van de overtreding en de positie van de natuurlijke persoon binnen de marktorganisatie waarvoor hij of zij werkzaam is, dan wel werkzaam was.
+Indien de ACM een bestuurlijke boete oplegt aan een natuurlijke persoon vanwege het geven van opdracht tot een overtreding of het feitelijk leiding geven aan een overtreding, kan de ACM bij de vaststelling van boeteverhogende en boeteverlagende omstandigheden als bedoeld in de [artikelen 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0035322&hoofdstuk=2&paragraaf=2.5&artikel=2.9&z=2023-11-09&g=2023-11-09) en [2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035322&hoofdstuk=2&paragraaf=2.5&artikel=2.10&z=2023-11-09&g=2023-11-09), rekening houden met de mate van betrokkenheid van de natuurlijke persoon bij het plegen van de overtreding en de positie van de natuurlijke persoon binnen de marktorganisatie waarvoor hij of zij werkzaam is, dan wel werkzaam was.
 
 #### § 2.6. De vaststelling van de bestuurlijke boete in uitzonderlijke omstandigheden
 
@@ -248,7 +248,7 @@ In afwijking van de voorgaande artikelen kan de ACM, indien de uitzonderlijke om
 
 1. Dit hoofdstuk is van toepassing op overtredingen waarvoor de ACM op grond van [artikel 4.21, eerste lid, van de Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=4.21) of [artikel 3.8, eerste lid, van de Aanbestedingswet op defensie- en veiligheidsgebied](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&artikel=3.8) een bestuurlijke boete kan opleggen.
 
-2. [Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035322&hoofdstuk=2&z=2016-07-01&g=2016-07-01) is niet van toepassing op de in het eerste lid bedoelde overtredingen.
+2. [Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035322&hoofdstuk=2&z=2023-11-09&g=2023-11-09) is niet van toepassing op de in het eerste lid bedoelde overtredingen.
 
 ##### Artikel 3.2
 
@@ -326,7 +326,7 @@ Deze beleidsregel treedt in werking met ingang van 1 augustus 2014.
 
 Deze beleidsregel wordt aangehaald als: Boetebeleidsregel ACM 2014.
 
-## Bijlage. behorende bij [artikel 2.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035322&hoofdstuk=2&paragraaf=2.3&artikel=2.5&z=2016-07-01&g=2016-07-01), en [artikel 2.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035322&hoofdstuk=2&paragraaf=2.4&artikel=2.7&z=2016-07-01&g=2016-07-01), van de Boetebeleidsregels ACM 2014
+## Bijlage. behorende bij [artikel 2.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035322&hoofdstuk=2&paragraaf=2.3&artikel=2.5&z=2023-11-09&g=2023-11-09), van de Boetebeleidsregel ACM 2014
 
 | Wetsartikel | Categorie |
 | --- | --- |
@@ -594,35 +594,72 @@ Deze beleidsregel wordt aangehaald als: Boetebeleidsregel ACM 2014.
 | artikel 137 | III |
 | artikel 138 | II |
 | artikel 139 | II |
-| artikel 501, eerste lid | III: bij niet vermelden van reissom, I, II of III bij niet vermelden van de andere bij AMvB bepaalde gegevens, zie artikelen 1 t/m 4 Gegevensbesluit georganiseerde reizen, hierna |
-| [artikel 1, aanhef en sub a Gegevensbesluit georganiseerde reizen](https://wetten.overheid.nl/jci1.3:c:BWBR0005850&artikel=1) | III |
-| artikel 1, aanhef en sub b Gegevensbesluit georganiseerde reizen | I |
-| artikel 1, aanhef en sub c Gegevensbesluit georganiseerde reizen | I |
-| artikel 1, aanhef en sub d Gegevensbesluit georganiseerde reizen | I |
-| artikel 1, aanhef en sub e Gegevensbesluit georganiseerde reizen | I |
-| artikel 2, aanhef en sub a Gegevensbesluit georganiseerde reizen | II |
-| artikel 2, aanhef en sub b Gegevensbesluit georganiseerde reizen | II |
-| artikel 2, aanhef en sub c Gegevensbesluit georganiseerde reizen | II |
-| artikel 2, aanhef en sub d Gegevensbesluit georganiseerde reizen | I |
-| artikel 3, aanhef en sub a Gegevensbesluit georganiseerde reizen | I |
-| artikel 3, aanhef en sub b Gegevensbesluit georganiseerde reizen | I |
-| artikel 4, aanhef en sub a Gegevensbesluit georganiseerde reizen | I |
-| artikel 4, aanhef en sub b Gegevensbesluit georganiseerde reizen | I |
-| artikel 4, aanhef en sub c Gegevensbesluit georganiseerde reizen | I |
-| artikel 4, aanhef en sub d Gegevensbesluit georganiseerde reizen | I |
-| artikel 501, tweede lid | III: bij niet vermelden van reissom, I, II of II bij niet vermelden van de andere bij AMvB bepaalde gegevens: zie artikelen 1-4 Gegevensbesluit georganiseerde reizen, hiervoor |
-| artikel 502, eerste lid | III |
-| artikel 502, derde lid | III |
-| artikel 503 | III |
-| artikel 504 | III |
-| artikel 505 | III |
-| artikel 506, eerste lid | II |
-| artikel 507 | III |
+| artikel 502, eerste lid, aanhef, voor zover betrekking hebbend op standaardinformatie | II |
+| artikel 502, eerste lid, sub a | III |
+| artikel 502, eerste lid, sub b | III |
+| artikel 502, eerste lid, sub c | III |
+| artikel 502, eerste lid, sub d | III |
+| artikel 502, eerste lid, sub e | I |
+| artikel 502, eerste lid, sub f | I |
+| artikel 502, eerste lid, sub g | II |
+| artikel 502, eerste lid, sub h | I |
+| artikel 502, tweede lid, voor zover betrekking hebbend op standaardinformatie | II |
+| artikel 502, tweede lid, juncto artikel 502, eerste lid, onderdelen a tot en met h | gelijk aan de boetecategorieën, genoemd bij artikel 502, eerste lid sub a tot en met h |
+| artikel 502, derde lid, eerste volzin, juncto artikel 502, eerste lid | gelijk aan de boetecategorieën, genoemd bij artikel 502, eerste lid, sub a tot en met h |
+| artikel 502, derde lid, tweede volzin | II |
+| artikel 502, vierde lid | II |
+| artikel 503, eerste lid | II |
+| artikel 504, eerste lid, eerste volzin | III |
+| artikel 504, eerste lid, tweede volzin | III |
+| artikel 504, eerste lid, derde volzin | II |
+| artikel 504, tweede lid | II |
+| artikel 504, derde lid, juncto artikel 502, eerste lid, sub a tot en met h | gelijk aan de boetecategorieën, genoemd bij artikel 502, eerste lid, sub a tot en met h |
+| artikel 504, vierde lid, eerste volzin | III |
+| artikel 504, vierde lid, tweede volzin juncto artikel 504, derde lid | III |
+| artikel 504, vijfde lid | II |
+| artikel 506, tweede lid, eerste en tweede volzin | II |
+| artikel 506, tweede lid, derde volzin | II |
+| artikel 506, derde lid | II |
+| artikel 507, eerste lid | III |
+| artikel 507, tweede lid | III |
+| artikel 507, vierde lid | II |
+| artikel 507, vijfde lid | III |
+| artikel 507, zesde lid | II |
 | artikel 508, eerste lid | III |
-| artikel 509 | III |
-| artikel 510 | III |
-| artikel 512, eerste lid | III |
-| artikel 512, tweede lid | II |
+| artikel 508, tweede lid | III |
+| artikel 508, derde lid | II |
+| artikel 508, vierde lid | III |
+| artikel 508, vijfde lid | III |
+| artikel 509, eerste lid, eerste volzin | III |
+| artikel 509, eerste lid, tweede volzin | III |
+| artikel 509, tweede lid | III |
+| artikel 509, derde lid | III |
+| artikel 509, vierde lid | III |
+| artikel 509, vijfde lid | III |
+| artikel 509, zesde lid | III |
+| artikel 509, zevende lid | II |
+| artikel 510, eerste lid | III |
+| artikel 510, derde lid | III |
+| artikel 510, vierde lid, juncto artikel 511 | gelijk aan de boetecategorieën, genoemd bij artikel 511, eerste tot en met derde en vijfde en zesde lid |
+| artikel 510, zesde lid | III |
+| artikel 510, achtste lid | III |
+| artikel 510, negende lid | III |
+| artikel 510, elfde lid | III |
+| artikel 511, eerste lid | III |
+| artikel 511, tweede lid | III |
+| artikel 511, derde lid | II |
+| artikel 511, vijfde lid | III |
+| artikel 511, zesde lid | III |
+| artikel 513, eerste lid | III |
+| artikel 513, tweede lid | III |
+| artikel 513a, eerste lid, juncto artikel 513a, tweede, vierde en zesde lid | III |
+| artikel 513a, derde lid, juncto artikel 513a, zesde lid | III |
+| artikel 513a, vierde lid | III |
+| artikel 513a, vijfde lid, juncto artikel 513a, zesde lid | II |
+| artikel 513b, eerste lid | III |
+| artikel 513b, tweede lid | III |
+| artikel 513b, derde lid | III |
+| artikel 513c | III |
 | [Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755) | [Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755) |
 | artikel 4a, derde lid | II |
 | artikel 9h | III |
@@ -863,12 +900,11 @@ Deze beleidsregel wordt aangehaald als: Boetebeleidsregel ACM 2014.
 | artikel 12l, tweede lid | III |
 | artikel 12m, eerste lid, onderdeel a | III |
 | artikel 12m, eerste lid, onderdeel b | V |
-| artikel 12m, eerste lid, onderdeel c (artikel 5:20 jo 5:15 Awb) | V |
-| artikel 12m, eerste lid, onderdeel c (artikel 5:20 jo 5:16 Awb) | VI |
-| artikel 12m, eerste lid, onderdeel c (artikel 5:20 jo 5:17 Awb) | V |
-| artikel 12m, eerste lid, onderdeel c (artikel 5:20 jo 5:18 Awb) | IV |
-| artikel 12m, eerste lid, onderdeel c (artikel 5:20 jo 5:19 Awb) | IV |
-| artikel 12m, eerste lid, onderdeel c (artikel 5:20 jo 5:15 en 5:17 Awb) | IV |
+| artikel 12m, eerste lid, onderdeel c (artikel 5:20 jo 5:15 Awb) | III |
+| artikel 12m, eerste lid, onderdeel c (artikel 5:20 jo 5:16 Awb) | III |
+| artikel 12m, eerste lid, onderdeel c (artikel 5:20 jo 5:17 Awb) | III |
+| artikel 12m, eerste lid, onderdeel c (artikel 5:20 jo 5:18 Awb) | III |
+| artikel 12m, eerste lid, onderdeel c (artikel 5:20 jo 5:19 Awb) | III |
 | artikel 12m, eerste lid, onderdeel d | IV |
 | [Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691) | [Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691) |
 | artikel 25b, eerste lid | II |
@@ -935,10 +971,6 @@ Deze beleidsregel wordt aangehaald als: Boetebeleidsregel ACM 2014.
 | artikel 2.1, eerste lid | II |
 | artikel 2.1, vijfde lid | IV |
 | artikel 2.3, vijfde lid | I |
-| artikel 3.24, eerste lid | III |
-| artikel 3.24, tweede lid | III |
-| artikel 3.24, derde lid | III |
-| artikel 3.24, vierde lid | III |
 | artikel 4.1, vierde lid | III |
 | artikel 4.2, elfde lid | III |
 | artikel 4.2a, tweede lid | I |
@@ -956,11 +988,13 @@ Deze beleidsregel wordt aangehaald als: Boetebeleidsregel ACM 2014.
 | artikel 5.2, tweede lid | II |
 | artikel 5.2, derde lid | II |
 | artikel 5.2, vierde lid | II |
-| artikel 5.2, vijfde lid | III |
-| artikel 5.2, zesde lid | III |
+| artikel 5.2, vijfde lid | II |
+| artikel 5.2, zesde lid | II |
 | artikel 5.2, zevende lid | II |
-| artikel 5.2, achtste lid | III |
-| artikel 5.2, negende lid | III |
+| artikel 5.2, achtste lid | I |
+| artikel 5.2, negende lid | II |
+| artikel 5.2, tiende lid | II |
+| artikel 5.2, elfde lid | II |
 | artikel 5.3, eerste lid | III |
 | artikel 5.3, tweede lid | III |
 | artikel 5.3, vijfde lid | III |
@@ -973,13 +1007,13 @@ Deze beleidsregel wordt aangehaald als: Boetebeleidsregel ACM 2014.
 | artikel 5.8, vijfde lid | II |
 | artikel 5.8, zesde lid | III |
 | artikel 5.10 | III |
-| artikel 5.11, eerste lid | III |
-| artikel 5.11, tweede lid | III |
-| artikel 5.11, derde lid | III |
-| artikel 5.12, eerste lid | III |
-| artikel 5.12, tweede lid | III |
-| artikel 5.12, derde lid | III |
-| artikel 5.12, vierde lid | III |
+| artikel 5.11, eerste lid | II |
+| artikel 5.11, tweede lid | II |
+| artikel 5.11, derde lid | II |
+| artikel 5a.3, eerste lid | III |
+| artikel 5a.3, tweede lid | III |
+| artikel 5a.3, derde lid | III |
+| artikel 5a.3, vierde lid | III |
 | artikel 6.1, eerste lid | III |
 | artikel 6.1, tweede lid | III |
 | artikel 6.1, derde lid | II |
@@ -1053,12 +1087,9 @@ Deze beleidsregel wordt aangehaald als: Boetebeleidsregel ACM 2014.
 | artikel 11.6, derde lid | II |
 | artikel 11.6, vierde lid | II |
 | artikel 11.7, eerste lid | II |
-| artikel 11.7, derde lid | II |
-| artikel 11.7, vierde lid | II |
-| artikel 11.7, vijfde lid | III |
-| artikel 11.7, negende lid | III |
-| artikel 11.7, tiende lid | III |
-| artikel 11.7, twaalfde lid | III |
+| artikel 11.7, tweede lid | II |
+| artikel 11.7, vierde lid | III |
+| artikel 11.7, zesde lid | II |
 | artikel 11.7a, eerste lid | III |
 | artikel 11.9, eerste lid | II |
 | artikel 11.9, tweede lid | II |
@@ -1095,6 +1126,23 @@ Deze beleidsregel wordt aangehaald als: Boetebeleidsregel ACM 2014.
 | **Verordening 1008/2008 inzake gemeenschappelijke regels voor de exploitatie van luchtdiensten in de Gemeenschap (PbEU L 293)** | **Verordening 1008/2008 inzake gemeenschappelijke regels voor de exploitatie van luchtdiensten in de Gemeenschap (PbEU L 293)** |
 | Artikel 23, eerste lid | III |
 | Artikel 23, tweede lid | III |
+| [Verordening 1227/2011](32011R1227) betreffende de integriteit en transparantie van de groothandelsmarkt voor energie (PbEU 2011, L 326) | [Verordening 1227/2011](32011R1227) betreffende de integriteit en transparantie van de groothandelsmarkt voor energie (PbEU 2011, L 326) |
+| artikel 3 | VI |
+| artikel 4 | V |
+| artikel 5 | VI |
+| artikel 8 | II |
+| artikel 9 | III |
+| artikel 15 | II |
+| [Verordening 2017/1128](33028R2017) betreffende grensoverschrijdende portabiliteit van online-inhoudsdiensten in de interne markt (PbEU 2017, L 168) | [Verordening 2017/1128](33028R2017) betreffende grensoverschrijdende portabiliteit van online-inhoudsdiensten in de interne markt (PbEU 2017, L 168) |
+| artikel 3 | III |
+| artikel 4 | III |
+| artikel 5 | III |
+| artikel 6 | III |
+| artikel 8 | III |
+| [Verordening 2018/302](32202R2018) inzake de aanpak van ongerechtvaardigde geoblocking en andere vormen van discriminatie van klanten op grond van nationaliteit, verblijfplaats, of plaats van vestiging in de interne markt (PbEU 2018, L 60) | [Verordening 2018/302](32202R2018) inzake de aanpak van ongerechtvaardigde geoblocking en andere vormen van discriminatie van klanten op grond van nationaliteit, verblijfplaats, of plaats van vestiging in de interne markt (PbEU 2018, L 60) |
+| artikel 3 | III |
+| artikel 4 | III |
+| artikel 5 | III |
 | [Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729) |   |
 | artikel 2 | V |
 | artikel 5, eerste lid | VI |
