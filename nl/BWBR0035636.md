@@ -4,7 +4,7 @@ identifier: "BWBR0035636"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-10"
-last_updated: "2022-07-27"
+last_updated: "2023-11-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035636"
 soort: "ministeriele-regeling"
@@ -70,7 +70,7 @@ In deze regeling wordt verstaan onder:
 
 2. De subsidie wordt per kalenderjaar verstrekt.
 
-3. De subsidie bedraagt per gerealiseerde opleidingsplaats in fte het bedrag dat in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035636&bijlage=1&z=2022-07-27&g=2022-07-27) bij deze regeling vermeld is bij de desbetreffende zorgopleiding. Een opleidingsplaats in fte bedraagt ten hoogste het aantal uren van het dienstverband overeenkomstig de van toepassing zijnde collectieve arbeidsovereenkomst of sectorale rechtspositieregeling.
+3. De subsidie bedraagt per gerealiseerde opleidingsplaats in fte het bedrag dat in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035636&bijlage=1&z=2023-11-09&g=2023-11-09) bij deze regeling vermeld is bij de desbetreffende zorgopleiding. Een opleidingsplaats in fte bedraagt ten hoogste het aantal uren van het dienstverband overeenkomstig de van toepassing zijnde collectieve arbeidsovereenkomst of sectorale rechtspositieregeling.
 
 4. De subsidie wordt uitsluitend verstrekt aan een opleidingsinrichting die voor het verzorgen van (een deel van) de opleiding tot psychiater is erkend door de RGS of aan een praktijkopleidinginstelling die voor de desbetreffende zorgopleiding is erkend door de CRT of de RSV.
 
@@ -202,13 +202,13 @@ Besluit:
 
 | nr. | zorgopleiding | Subsidiebedrag per opleidingsplaats per jaar |
 | --- | --- | --- |
-| 1. | Gezondheidszorgpsycholoog in ggz | € 48.100,– |
-| 2. | Klinisch psycholoog in ggz | € 90.400,– |
-| 3. | Psychiater in ggz | € 91.300,– |
-| 4. | Psychotherapeut in ggz | € 61.200,– |
-| 5. | Klinisch Neuropsycholoog in ggz | € 94.900,– |
-| 6. | Verpleegkundig specialist ggz | € 89.300,– |
-|   | Prijspeil 2022 |   |
+| 1. | Gezondheidszorgpsycholoog in ggz | € 51.400,– |
+| 2. | Klinisch psycholoog in ggz | € 96.600,– |
+| 3. | Psychiater in ggz | € 97.600,– |
+| 4. | Psychotherapeut in ggz | € 65.400,– |
+| 5. | Klinisch Neuropsycholoog in ggz | € 101.400,– |
+| 6. | Verpleegkundig specialist ggz | € 95.400,– |
+|   | Prijspeil 2023 |   |
 
 **Ministerie van Volksgezondheid, Welzijn en Sport**
 
