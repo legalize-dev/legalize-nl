@@ -4,7 +4,7 @@ identifier: "BWBR0039284"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-11-09"
-last_updated: "2017-03-10"
+last_updated: "2023-11-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039284"
 soort: "AMvB"
@@ -144,7 +144,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. zij hanteert een toetsingskader dat waarborgt dat de beoordeelde gekwalificeerde middelen voor het aanmaken van elektronische handtekeningen of elektronische zegels voldoen aan de daaraan in of op grond van de eidas-verordening gestelde eisen;
 
-- b. zij is op basis van de norm ISO/IEC 17065:2012 geaccrediteerd, welke accreditatie het vakgebied gekwalificeerde middelen voor het aanmaken van elektronische handtekeningen of elektronische zegels omvat, door de Raad voor Accreditatie of een andere accreditatie-instantie in de zin van artikel 4 van verordening (EG) nr. 765/2008;
+- b. zij is op basis van de norm ISO/IEC 17065:2012 geaccrediteerd, welke accreditatie het vakgebied gekwalificeerde middelen voor het aanmaken van elektronische handtekeningen of elektronische zegels als bedoeld in de eidas-verordening omvat, door de Raad voor Accreditatie of een andere accreditatie-instantie in de zin van artikel 4 van verordening (EG) nr. 765/2008;
 
 - c. zij maakt gebruik van testlaboratoria, die geaccrediteerd zijn volgens de norm NEN-EN-ISO 17025, voor het testen van gekwalificeerde middelen voor het aanmaken van elektronische handtekeningen of elektronische zegels volgens de norm ISO/IEC 15408, bestaande uit ISO/IEC 15408-1:2009, ISO/IEC 15408-2:2008 en ISO/IEC 15408-3:2008, en volgens de norm ISO/IEC 18045:2008.
 
@@ -200,12 +200,22 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 1. Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. Het besluit kan of de verschillende artikelen of onderdelen daarvan kunnen terugwerken tot en met een in dat koninklijk besluit te bepalen tijdstip.
 
-2. Indien de Europese Commissie uitvoeringshandelingen inzake het definiëren van de formaten en procedures, met inbegrip van termijnen, vaststelt op grond van artikel 19, vierde lid, aanhef en onder b, van de eidas-verordening, vervalt [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039284&hoofdstuk=2&artikel=2&z=2017-03-10&g=2017-03-10), of onderdelen daarvan, op een bij koninklijk besluit te bepalen tijdstip.
+2. Indien de Europese Commissie uitvoeringshandelingen inzake het definiëren van de formaten en procedures, met inbegrip van termijnen, vaststelt op grond van artikel 19, vierde lid, aanhef en onder b, van de eidas-verordening, vervalt [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039284&hoofdstuk=2&artikel=2&z=2023-11-09&g=2023-11-09), of onderdelen daarvan, op een bij koninklijk besluit te bepalen tijdstip.
 
-3. Indien de Europese Commissie uitvoeringshandelingen inzake de criteria waaraan de certificeringsinstellingen voor gekwalificeerde middelen voor het aanmaken van elektronische handtekeningen moeten voldoen, vaststelt op grond van artikel 30, vierde lid, van de eidas-verordening, vervalt [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039284&hoofdstuk=2&artikel=3&z=2017-03-10&g=2017-03-10), of vervallen onderdelen daarvan, op een bij koninklijk besluit te bepalen tijdstip.
+3. Indien de Europese Commissie uitvoeringshandelingen inzake de criteria waaraan de certificeringsinstellingen voor gekwalificeerde middelen voor het aanmaken van elektronische handtekeningen moeten voldoen, vaststelt op grond van artikel 30, vierde lid, van de eidas-verordening, vervalt [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039284&hoofdstuk=2&artikel=3&z=2023-11-09&g=2023-11-09), of vervallen onderdelen daarvan, op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel 14. Citeertitel
 
 Dit Besluit wordt aangehaald als: Besluit vertrouwensdiensten.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 3a. Nadere regeling elektronische handtekening of zegel
+
+Onder het in [artikel 18.18, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=18.18) opgenomen verbod wordt mede verstaan de situatie waarin een elektronische handtekening of zegel wordt aangeboden als geavanceerde elektronische handtekening of geavanceerd elektronisch zegel, terwijl niet wordt voldaan aan de voor die handtekening onderscheidenlijk dat zegel in de eidas-verordening opgenomen eisen.
+
+### Hoofdstuk 3. Intrekking en wijziging andere besluiten
+
+### Hoofdstuk 4. Slotbepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
