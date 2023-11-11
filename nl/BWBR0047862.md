@@ -4,7 +4,7 @@ identifier: "BWBR0047862"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-29"
-last_updated: "2023-02-09"
+last_updated: "2023-11-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047862"
 soort: "ministeriele-regeling"
@@ -2858,7 +2858,7 @@ In deze regeling wordt verstaan onder:
 
 - **gezondheidsbevordering:** proces dat zich richt op het veranderen van gedrag van mensen en hun omstandigheden met als doel gezondheid te bevorderen of ziekte te voorkomen;
 
-- **GALA:** Gezond en Actief Leven Akkoord, akkoord waarin afspraken zijn vastgelegd tussen het Ministerie van Volksgezondheid, Sport en Welzijn, gemeenten, GGD’s en zorgverzekeraars over landelijke doelen op het gebied van gezondheid, [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&bijlage=I&z=2023-02-09&g=2023-02-09);
+- **GALA:** Gezond en Actief Leven Akkoord, akkoord waarin afspraken zijn vastgelegd tussen het Ministerie van Volksgezondheid, Sport en Welzijn, gemeenten, GGD’s en zorgverzekeraars over landelijke doelen op het gebied van gezondheid, [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&bijlage=I&z=2023-11-11&g=2023-11-11);
 
 - **GGD:** gemeentelijke gezondheidsdienst als bedoeld in [artikel 14 van de Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=14);
 
@@ -2866,7 +2866,7 @@ In deze regeling wordt verstaan onder:
 
 - **GHOR:** de geneeskundige hulpverleningsorganisatie in de regio als bedoeld in [artikel 1 van de Wet veiligheidsregio's](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=1);
 
-- **Hoofdlijnen Sportakkoord II:** akkoord waarin afspraken zijn vastgelegd tussen de minister, VSG, VNG, het Platform Ondernemende Sportaanbieders en NOC*NSF over sport en bewegen, met addendum, [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&bijlage=II&z=2023-02-09&g=2023-02-09);
+- **Hoofdlijnen Sportakkoord II:** akkoord waarin afspraken zijn vastgelegd tussen de minister, VSG, VNG, het Platform Ondernemende Sportaanbieders en NOC*NSF over sport en bewegen, met addendum, [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&bijlage=II&z=2023-11-11&g=2023-11-11);
 
 - **integrale aanpak:** domeinoverstijgende werkwijze waarbij organisaties die werkzaam zijn op de beleidsterreinen van de in deze regeling genoemde onderdelen, samenwerken;
 
@@ -2918,7 +2918,7 @@ In deze regeling wordt verstaan onder:
 
 - c. Ondersteunende onderdelen.
 
-3. Aan de hoofdthema’s als bedoeld in het tweede lid, onder a tot en met c, zijn de in de [artikel 2.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=2&artikel=2.2&z=2023-02-09&g=2023-02-09), [artikel 3.2, onder a tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-02-09&g=2023-02-09), en [artikel 4.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=4&artikel=4.2&z=2023-02-09&g=2023-02-09) genoemde onderdelen gekoppeld.
+3. Aan de hoofdthema’s als bedoeld in het tweede lid, onder a tot en met c, zijn de in de [artikel 2.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=2&artikel=2.2&z=2023-11-11&g=2023-11-11), [artikel 3.2, onder a tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-11-11&g=2023-11-11), en [artikel 4.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=4&artikel=4.2&z=2023-11-11&g=2023-11-11) genoemde onderdelen gekoppeld.
 
 ##### Artikel 2.1. Nadere begripsbepalingen
 
@@ -2928,7 +2928,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 ##### Artikel 2.2. Onderdelen Sport, bewegen en cultuur
 
-Tot de in het kader van hoofdthema Sport, bewegen en cultuur als bedoeld in [artikel 1.3, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=1&artikel=1.3&z=2023-02-09&g=2023-02-09), uit te voeren onderdelen behoren:
+Tot de in het kader van hoofdthema Sport, bewegen en cultuur als bedoeld in [artikel 1.3, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=1&artikel=1.3&z=2023-11-11&g=2023-11-11), uit te voeren onderdelen behoren:
 
 - a. Onderdeel Lokaal Sportakkoord;
 
@@ -2936,9 +2936,9 @@ Tot de in het kader van hoofdthema Sport, bewegen en cultuur als bedoeld in [art
 
 ##### Artikel 2.3. Specifieke verplichtingen voor het verstrekken van een uitkering Sport, bewegen en Cultuur
 
-1. De ontvanger van een uitkering voor het onderdeel Lokaal Sportakkoord, bedoeld in [artikel 2.2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=2&artikel=2.2&z=2023-02-09&g=2023-02-09), voert ten minste een lokaal sportakkoord uit.
+1. De ontvanger van een uitkering voor het onderdeel Lokaal Sportakkoord, bedoeld in [artikel 2.2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=2&artikel=2.2&z=2023-11-11&g=2023-11-11), voert ten minste een lokaal sportakkoord uit.
 
-2. De ontvanger van een uitkering voor het onderdeel Brede Regeling Combinatiefuncties, bedoeld in [artikel 2.2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=2&artikel=2.2&z=2023-02-09&g=2023-02-09), coördineert dat natuurlijke personen worden aangesteld die zich beroepsmatig bezighouden met sport, bewegen en cultuurparticipatie, zoals bedoeld in het addendum Bestuurlijke afspraken Brede Regeling Combinatiefuncties 2023–2026, behorende bij het Hoofdlijnen Sportakkoord II.
+2. De ontvanger van een uitkering voor het onderdeel Brede Regeling Combinatiefuncties, bedoeld in [artikel 2.2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=2&artikel=2.2&z=2023-11-11&g=2023-11-11), coördineert dat natuurlijke personen worden aangesteld die zich beroepsmatig bezighouden met sport, bewegen en cultuurparticipatie, zoals bedoeld in het addendum Bestuurlijke afspraken Brede Regeling Combinatiefuncties 2023–2026, behorende bij het Hoofdlijnen Sportakkoord II.
 
 ##### Artikel 3.1. Nadere begripsbepalingen
 
@@ -2986,7 +2986,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 ##### Artikel 3.2. Onderdelen Gezondheid & Sociale Basis
 
-Tot de in het kader van hoofdthema Gezondheid & Sociale Basis als bedoeld in [artikel 1.3, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=1&artikel=1.3&z=2023-02-09&g=2023-02-09), uit te voeren onderdelen behoren:
+Tot de in het kader van hoofdthema Gezondheid & Sociale Basis als bedoeld in [artikel 1.3, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=1&artikel=1.3&z=2023-11-11&g=2023-11-11), uit te voeren onderdelen behoren:
 
 - a. Onderdeel Terugdringen Gezondheidsachterstanden;
 
@@ -3012,25 +3012,25 @@ Tot de in het kader van hoofdthema Gezondheid & Sociale Basis als bedoeld in [ar
 
 ##### Artikel 3.3. Specifieke verplichtingen voor het verstrekken van een uitkering Gezondheid & Sociale Basis
 
-1. De ontvanger van een uitkering voor het onderdeel Terugdringen Gezondheidsachterstanden, bedoeld in [artikel 3.2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-02-09&g=2023-02-09), richt zich bij de activiteiten in het kader van de ontvangen uitkering ten minste op wijken en dorpen, gelegen binnen de gemeentegrenzen, waar bovengemiddeld veel personen met een gezondheidsachterstand woonachtig zijn.
+1. De ontvanger van een uitkering voor het onderdeel Terugdringen Gezondheidsachterstanden, bedoeld in [artikel 3.2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-11-11&g=2023-11-11), richt zich bij de activiteiten in het kader van de ontvangen uitkering ten minste op wijken en dorpen, gelegen binnen de gemeentegrenzen, waar bovengemiddeld veel personen met een gezondheidsachterstand woonachtig zijn.
 
-2. De ontvanger van een uitkering voor het onderdeel Kansrijke Start, bedoeld in [artikel 3.2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-02-09&g=2023-02-09), zet ten minste lokale coalities kansrijke start voort, of richt deze op, maakt regionale samenwerkingsafspraken als bedoeld in het GALA en zet bij de implementatie en uitvoering van de activiteiten in het kader van de ontvangen uitkering, de interventies Kansrijke Start in, die zijn opgenomen in de databank interventies op [www.loketgezondleven.nl](onbekend) van het RIVM.
+2. De ontvanger van een uitkering voor het onderdeel Kansrijke Start, bedoeld in [artikel 3.2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-11-11&g=2023-11-11), zet ten minste lokale coalities kansrijke start voort, of richt deze op, maakt regionale samenwerkingsafspraken als bedoeld in het GALA en zet bij de implementatie en uitvoering van de activiteiten in het kader van de ontvangen uitkering, de interventies Kansrijke Start in, die zijn opgenomen in de databank interventies op [www.loketgezondleven.nl](onbekend) van het RIVM.
 
-3. De ontvanger van een uitkering voor het onderdeel Mentale Gezondheid, bedoeld in [artikel 3.2, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-02-09&g=2023-02-09), maakt het onderwerp mentale gezondheid onderdeel van het lokale gezondheidsbeleid of geeft verdere uitvoering aan dit onderwerp.
+3. De ontvanger van een uitkering voor het onderdeel Mentale Gezondheid, bedoeld in [artikel 3.2, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-11-11&g=2023-11-11), maakt het onderwerp mentale gezondheid onderdeel van het lokale gezondheidsbeleid of geeft verdere uitvoering aan dit onderwerp.
 
-4. De ontvanger van een uitkering voor het onderdeel Aanpak overgewicht en obesitas, bedoeld in [artikel 3.2, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-02-09&g=2023-02-09), voert het landelijk model ketenaanpak voor kinderen met overgewicht en obesitas uit, of draagt zorg voor de samenwerking rondom de uitvoering en implementatie van GLI-programma’s voor volwassenen als bedoeld in het GALA.
+4. De ontvanger van een uitkering voor het onderdeel Aanpak overgewicht en obesitas, bedoeld in [artikel 3.2, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-11-11&g=2023-11-11), voert het landelijk model ketenaanpak voor kinderen met overgewicht en obesitas uit, of draagt zorg voor de samenwerking rondom de uitvoering en implementatie van GLI-programma’s voor volwassenen als bedoeld in het GALA.
 
-5. De ontvanger van een uitkering voor het onderdeel Valpreventie, bedoeld in [artikel 3.2, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-02-09&g=2023-02-09), geeft uitvoering aan de ketenaanpak valpreventie.
+5. De ontvanger van een uitkering voor het onderdeel Valpreventie, bedoeld in [artikel 3.2, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-11-11&g=2023-11-11), geeft uitvoering aan de ketenaanpak valpreventie.
 
-6. De ontvanger van een uitkering voor het onderdeel Leefomgeving, bedoeld in [artikel 3.2, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-02-09&g=2023-02-09), weegt bij de inrichting van het fysieke domein in ieder geval het aspect gezondheid mee.
+6. De ontvanger van een uitkering voor het onderdeel Leefomgeving, bedoeld in [artikel 3.2, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-11-11&g=2023-11-11), weegt bij de inrichting van het fysieke domein in ieder geval het aspect gezondheid mee.
 
-7. De ontvanger van een uitkering voor het onderdeel OKO & Vroegsignalering alcoholproblematiek, bedoeld in [artikel 3.2, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-02-09&g=2023-02-09), geeft uitvoering aan OKO of Vroegsignalering alcoholproblematiek.
+7. De ontvanger van een uitkering voor het onderdeel OKO & Vroegsignalering alcoholproblematiek, bedoeld in [artikel 3.2, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-11-11&g=2023-11-11), geeft uitvoering aan OKO of Vroegsignalering alcoholproblematiek.
 
-8. De ontvanger van een uitkering voor het onderdeel Versterken sociale basis, bedoeld in [artikel 3.2 onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-02-09&g=2023-02-09), stelt een wijk- of dorpsaanpak op, verbetert of bestendigt deze en voert deze uit.
+8. De ontvanger van een uitkering voor het onderdeel Versterken sociale basis, bedoeld in [artikel 3.2 onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-11-11&g=2023-11-11), stelt een wijk- of dorpsaanpak op, verbetert of bestendigt deze en voert deze uit.
 
-9. De ontvanger van een uitkering voor het onderdeel Mantelzorg, bedoeld in [artikel 3.2, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-02-09&g=2023-02-09), bevordert de ondersteuning van mantelzorgers door het opstellen, verbeteren of bestendigen van een wijk- of dorpsaanpak, gericht op mantelzorg en respijtzorg en de uitvoering hiervan.
+9. De ontvanger van een uitkering voor het onderdeel Mantelzorg, bedoeld in [artikel 3.2, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-11-11&g=2023-11-11), bevordert de ondersteuning van mantelzorgers door het opstellen, verbeteren of bestendigen van een wijk- of dorpsaanpak, gericht op mantelzorg en respijtzorg en de uitvoering hiervan.
 
-10. De ontvanger van een uitkering voor het onderdeel Eén tegen Eenzaamheid, bedoeld in [artikel 3.2, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-02-09&g=2023-02-09), werkt samen met of neemt deel aan lokale coalities tegen eenzaamheid en streeft de doelen na die zijn verwoord in het actieprogramma Eén tegen eenzaamheid.
+10. De ontvanger van een uitkering voor het onderdeel Eén tegen Eenzaamheid, bedoeld in [artikel 3.2, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-11-11&g=2023-11-11), werkt samen met of neemt deel aan lokale coalities tegen eenzaamheid en streeft de doelen na die zijn verwoord in het actieprogramma Eén tegen eenzaamheid.
 
 ### Hoofdstuk 4. Hoofdthema ondersteunende onderdelen
 
@@ -3042,7 +3042,7 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 4.2. Ondersteunende onderdelen
 
-Tot de in het kader van hoofdthema Ondersteunende onderdelen als bedoeld in [artikel 1.3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=1&artikel=1.3&z=2023-02-09&g=2023-02-09), uit te voeren onderdelen behoren:
+Tot de in het kader van hoofdthema Ondersteunende onderdelen als bedoeld in [artikel 1.3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=1&artikel=1.3&z=2023-11-11&g=2023-11-11), uit te voeren onderdelen behoren:
 
 - a. Onderdeel Versterking kennis- en adviesfunctie GGD;
 
@@ -3050,39 +3050,39 @@ Tot de in het kader van hoofdthema Ondersteunende onderdelen als bedoeld in [art
 
 ##### Artikel 4.3. Specifieke verplichtingen voor het verstrekken van een uitkering Ondersteunende onderdelen
 
-1. De ontvanger van een uitkering voor het onderdeel Versterking kennis- en adviesfunctie GGD, bedoeld in [artikel 4.2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=4&artikel=4.2&z=2023-02-09&g=2023-02-09), investeert in de GGD voor het opbouwen en uitbreiden van de voor deze uitkering relevante kennis ten behoeve van advisering aan ten minste het college van burgemeester en wethouders.
+1. De ontvanger van een uitkering voor het onderdeel Versterking kennis- en adviesfunctie GGD, bedoeld in [artikel 4.2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=4&artikel=4.2&z=2023-11-11&g=2023-11-11), investeert in de GGD voor het opbouwen en uitbreiden van de voor deze uitkering relevante kennis ten behoeve van advisering aan ten minste het college van burgemeester en wethouders.
 
-2. De ontvanger van een uitkering voor het onderdeel Coördinatiekosten regionale aanpak preventie, bedoeld in [artikel 4.2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=4&artikel=4.2&z=2023-02-09&g=2023-02-09), maakt bovengemeentelijke afspraken met in elk geval de GGD en zorgverzekeraars over voor welke onderdelen die behoren tot het hoofdthema Gezondheid & sociale basis, bedoeld in [artikel 3.2, onder a tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-02-09&g=2023-02-09), een uitkering wordt aangevraagd.
+2. De ontvanger van een uitkering voor het onderdeel Coördinatiekosten regionale aanpak preventie, bedoeld in [artikel 4.2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=4&artikel=4.2&z=2023-11-11&g=2023-11-11), maakt bovengemeentelijke afspraken met in elk geval de GGD en zorgverzekeraars over voor welke onderdelen die behoren tot het hoofdthema Gezondheid & sociale basis, bedoeld in [artikel 3.2, onder a tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-11-11&g=2023-11-11), een uitkering wordt aangevraagd.
 
 ### Hoofdstuk 5. Uitkeringsplafond, hoogte van de uitkering en wijze van verdeling
 
 ##### Artikel 5.1. Uitkeringsplafonds onderdelen
 
-Voor de onderdelen bedoeld in [artikel 2.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=2&artikel=2.2&z=2023-02-09&g=2023-02-09), [artikel 3.2, onder a tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-02-09&g=2023-02-09), en [artikel 4.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=4&artikel=4.2&z=2023-02-09&g=2023-02-09), gelden jaarlijks de in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&bijlage=III&z=2023-02-09&g=2023-02-09) vermelde, cumulatieve uitkeringsplafonds.
+Voor de onderdelen bedoeld in [artikel 2.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=2&artikel=2.2&z=2023-11-11&g=2023-11-11), [artikel 3.2, onder a tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-11-11&g=2023-11-11), en [artikel 4.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=4&artikel=4.2&z=2023-11-11&g=2023-11-11), gelden jaarlijks de in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&bijlage=III&z=2023-11-11&g=2023-11-11) vermelde, cumulatieve uitkeringsplafonds.
 
 ##### Artikel 5.2. Hoogte van de uitkering
 
-De minister kan jaarlijks een uitkering per onderdeel als bedoeld in [artikel 2.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=2&artikel=2.2&z=2023-02-09&g=2023-02-09), [artikel 3.2, onder a tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-02-09&g=2023-02-09), en [artikel 4.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=4&artikel=4.2&z=2023-02-09&g=2023-02-09), aan een gemeente toekennen ter hoogte van de bedragen zoals vermeld in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&bijlage=IV&z=2023-02-09&g=2023-02-09).
+De minister kan jaarlijks een uitkering per onderdeel als bedoeld in [artikel 2.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=2&artikel=2.2&z=2023-11-11&g=2023-11-11), [artikel 3.2, onder a tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-11-11&g=2023-11-11), en [artikel 4.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=4&artikel=4.2&z=2023-11-11&g=2023-11-11), aan een gemeente toekennen ter hoogte van de bedragen zoals vermeld in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&bijlage=IV&z=2023-11-11&g=2023-11-11).
 
 ##### Artikel 5.3. Wijze van verdeling
 
-1. Indien een uitkeringsplafond als bedoeld in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=5&artikel=5.1&z=2023-02-09&g=2023-02-09) niet volledig wordt benut, kan de minister in overleg met de Minister van Financiën bepalen dat het resterende bedrag voor het betreffende onderdeel geheel of ten dele evenredig worden uitgekeerd aan de aanvragers waaraan een uitkering voor het betreffende onderdeel is verleend.
+1. Indien een uitkeringsplafond als bedoeld in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=5&artikel=5.1&z=2023-11-11&g=2023-11-11) niet volledig wordt benut, kan de minister in overleg met de Minister van Financiën bepalen dat het resterende bedrag voor het betreffende onderdeel geheel of ten dele evenredig worden uitgekeerd aan de aanvragers waaraan een uitkering voor het betreffende onderdeel is verleend.
 
-2. Een uitkering die is toegekend voor een onderdeel als bedoeld in [artikel 2.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=2&artikel=2.2&z=2023-02-09&g=2023-02-09), [artikel 3.2, onder a tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-02-09&g=2023-02-09), en [artikel 4.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=4&artikel=4.2&z=2023-02-09&g=2023-02-09), mag jaarlijks tot een maximum van 15% worden aangewend voor een ander onderdeel dat behoort tot hetzelfde hoofdthema als bedoeld in [artikel 1.3, tweede lid, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=1&artikel=1.3&z=2023-02-09&g=2023-02-09).
+2. Een uitkering die is toegekend voor een onderdeel als bedoeld in [artikel 2.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=2&artikel=2.2&z=2023-11-11&g=2023-11-11), [artikel 3.2, onder a tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-11-11&g=2023-11-11), en [artikel 4.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=4&artikel=4.2&z=2023-11-11&g=2023-11-11), mag jaarlijks tot een maximum van 15% worden aangewend voor een ander onderdeel dat behoort tot hetzelfde hoofdthema als bedoeld in [artikel 1.3, tweede lid, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=1&artikel=1.3&z=2023-11-11&g=2023-11-11).
 
-3. Indien een voor een onderdeel als bedoeld in [artikel 2.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=2&artikel=2.2&z=2023-02-09&g=2023-02-09), [artikel 3.2, onder a tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-02-09&g=2023-02-09), en [artikel 4.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=4&artikel=4.2&z=2023-02-09&g=2023-02-09), voor het jaar 2023 verleende uitkering niet of niet geheel in het jaar 2023 is besteed, kan het overschot tot een maximum van 20% in het jaar 2024 worden besteed aan het betreffende onderdeel.
+3. Indien een voor een onderdeel als bedoeld in [artikel 2.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=2&artikel=2.2&z=2023-11-11&g=2023-11-11), [artikel 3.2, onder a tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-11-11&g=2023-11-11), en [artikel 4.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=4&artikel=4.2&z=2023-11-11&g=2023-11-11), voor het jaar 2023 verleende uitkering niet of niet geheel in het jaar 2023 is besteed, kan het overschot tot een maximum van 20% in het jaar 2024 worden besteed aan het betreffende onderdeel.
 
 ### Hoofdstuk 6. Aanvraag tot verlening van een uitkering
 
 ##### Artikel 6.1. Aanvraagtermijn
 
-1. Een aanvraag tot een uitkering per onderdeel als bedoeld in [artikel 2.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=2&artikel=2.2&z=2023-02-09&g=2023-02-09), [artikel 3.2, onder a tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-02-09&g=2023-02-09), en [artikel 4.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=4&artikel=4.2&z=2023-02-09&g=2023-02-09), kan worden ingediend in de periode van:
+1. Een aanvraag tot een uitkering per onderdeel als bedoeld in [artikel 2.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=2&artikel=2.2&z=2023-11-11&g=2023-11-11), [artikel 3.2, onder a tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-11-11&g=2023-11-11), en [artikel 4.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=4&artikel=4.2&z=2023-11-11&g=2023-11-11), kan worden ingediend in de periode van:
 
 - a. 6 februari 2023 tot en met 31 maart 2023 en
 
 - b. 1 september 2023 tot en met 31 oktober 2023.
 
-2. Een aanvraag ingediend tijdens de in het eerste lid, onder b, bedoelde termijn heeft betrekking op alle resterende jaren waarin voor het desbetreffende onderdeel middelen ter beschikking zijn gesteld, zoals vermeld in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&bijlage=IV&z=2023-02-09&g=2023-02-09).
+2. Een aanvraag ingediend tijdens de in het eerste lid, onder b, bedoelde termijn heeft betrekking op alle resterende jaren waarin voor het desbetreffende onderdeel middelen ter beschikking zijn gesteld, zoals vermeld in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&bijlage=IV&z=2023-11-11&g=2023-11-11).
 
 ##### Artikel 6.2. De aanvraag
 
@@ -3142,17 +3142,17 @@ De aanvrager aan wie een uitkering is toegekend draagt er zorg voor dat:
 
 1. De minister neemt een besluit over de verlening van de uitkering:
 
-- a. binnen 8 weken na afloop van de aanvraagtermijn, bedoeld in [artikel 6.1, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=6&artikel=6.1&z=2023-02-09&g=2023-02-09);
+- a. binnen 8 weken na afloop van de aanvraagtermijn, bedoeld in [artikel 6.1, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=6&artikel=6.1&z=2023-11-11&g=2023-11-11);
 
-- b. binnen 13 weken na afloop van de aanvraagtermijn, bedoeld in [artikel 6.1, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=6&artikel=6.1&z=2023-02-09&g=2023-02-09).
+- b. binnen 13 weken na afloop van de aanvraagtermijn, bedoeld in [artikel 6.1, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=6&artikel=6.1&z=2023-11-11&g=2023-11-11).
 
-2. Het besluit tot verlening vermeldt in elk geval voor welke onderdelen als bedoeld in [artikel 2.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=2&artikel=2.2&z=2023-02-09&g=2023-02-09), [artikel 3.2, onder a tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-02-09&g=2023-02-09), en [artikel 4.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=4&artikel=4.2&z=2023-02-09&g=2023-02-09), de uitkering wordt verleend, het bedrag van de uitkering, de wijze van verantwoording, de periode waarvoor de uitkering wordt verleend en de wijze waarop het verrichten van de activiteiten kan worden aangetoond.
+2. Het besluit tot verlening vermeldt in elk geval voor welke onderdelen als bedoeld in [artikel 2.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=2&artikel=2.2&z=2023-11-11&g=2023-11-11), [artikel 3.2, onder a tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2023-11-11&g=2023-11-11), en [artikel 4.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=4&artikel=4.2&z=2023-11-11&g=2023-11-11), de uitkering wordt verleend, het bedrag van de uitkering, de wijze van verantwoording, de periode waarvoor de uitkering wordt verleend en de wijze waarop het verrichten van de activiteiten kan worden aangetoond.
 
 ##### Artikel 8.2. Bevoorschotting
 
 1. De minister verleent ambtshalve voorschotten voor 100% van het aangevraagde bedrag.
 
-2. Het voorschot voor 2024 en volgende jaren wordt verleend na indiening van het plan van aanpak, bedoeld in [artikel 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=6&artikel=6.3&z=2023-02-09&g=2023-02-09).
+2. Het voorschot voor 2024 en volgende jaren wordt verleend na indiening van het plan van aanpak, bedoeld in [artikel 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=6&artikel=6.3&z=2023-11-11&g=2023-11-11).
 
 ### Hoofdstuk 9. Verantwoording en vaststelling
 
@@ -3184,7 +3184,7 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering sport en bewegen, gezondheidsbevordering, cultuurparticipatie en de sociale basis 2023–2026.
 
-## Bijlage I. behorend bij [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=1&artikel=1.1&z=2023-02-09&g=2023-02-09)
+## Bijlage I. behorend bij [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=1&artikel=1.1&z=2023-11-11&g=2023-11-11)
 
 **GALA**
 
@@ -3634,7 +3634,7 @@ Daarnaast voeren VNG en ZN jaarlijks het ‘Venster op de regionale samenwerking
 
 ### Overzicht van voor gemeenten relevante afspraken in het IZA
 
-## Bijlage II. behorend bij [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=1&artikel=1.1&z=2023-02-09&g=2023-02-09)
+## Bijlage II. behorend bij [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=1&artikel=1.1&z=2023-11-11&g=2023-11-11)
 
 **Hoofdlijnen Sportakkoord II**
 
@@ -3792,7 +3792,7 @@ De uitvoeringskracht van lokale Sportakkoorden is in grote mate afhankelijk van 
 
 De partners hebben geconstateerd dat het ondersteuningsaanbod voor sportaanbieders de afgelopen jaren te versnipperd werd aangeboden. Lokale clubondersteuning werkt beter als aanbieders bij één loket terechtkunnen met al hun vragen. Ze krijgen toegang tot een breed ondersteuningsaanbod dat aangeboden wordt door NOC*NSF, bonden, sportserviceorganisaties, POS en andere maatschappelijke partijen. De ondersteuning bestaat onder andere uit:
 
-We stellen kaders aan de invulling van lokale Sportakkoorden door concreet te maken waartoe we lokale partijen met dit Sportakkoord uitnodigen (zie [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&z=2023-02-09&g=2023-02-09)). Gemeenten, in samenwerking met de lokale kernteams, herijken hun lokale beleidsambities in een lokaal Sportakkoord. Het raamwerk voor herijking staat in bijlage 2. Deze ambities worden vormgegeven aan de hand van het richtinggevend kader in dit Sportakkoord: hoe bereiken we meer sportaanbieders en potentiële sporters? Hoe versterken we het sportaanbod en benutten we de waarde van sport nog beter? En hoe wordt het aanbod veiliger en toegankelijker? Als randvoorwaarde wordt gesteld dat gemeenten de herijking vormgeven met een kernteam van betrokken sport- en maatschappelijke partijen.
+We stellen kaders aan de invulling van lokale Sportakkoorden door concreet te maken waartoe we lokale partijen met dit Sportakkoord uitnodigen (zie [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&z=2023-11-11&g=2023-11-11)). Gemeenten, in samenwerking met de lokale kernteams, herijken hun lokale beleidsambities in een lokaal Sportakkoord. Het raamwerk voor herijking staat in bijlage 2. Deze ambities worden vormgegeven aan de hand van het richtinggevend kader in dit Sportakkoord: hoe bereiken we meer sportaanbieders en potentiële sporters? Hoe versterken we het sportaanbod en benutten we de waarde van sport nog beter? En hoe wordt het aanbod veiliger en toegankelijker? Als randvoorwaarde wordt gesteld dat gemeenten de herijking vormgeven met een kernteam van betrokken sport- en maatschappelijke partijen.
 
 Er zijn in Nederland nu al tientallen gemeenten en honderden sportplekken waar ingesleten patronen zijn doorbroken en succesvolle resultaten worden geboekt. Daar worden de ambities van het Sportakkoord voor een belangrijk deel gerealiseerd. Op die plekken bestaan bijvoorbeeld lokale sportnetwerken die gezamenlijk de sportaanbieders ondersteunen, sportparken waar voor alle leeftijden passend aanbod is en locaties waar niet of nauwelijks tieners uitstromen. En daar krijgen sporters begeleiding van trainers en coaches met de juiste kwaliteiten. Voorbeelden hiervan (maar niet limitatief) zijn: hockeyclub Feyenoord, Triple Threat Haarlem, voetbalclub Kampong, Fletiomare, sportvereniging Helios, maar ook de regionale aanpakken in de Achterhoek en in Zeeuws Vlaanderen (Terneuzen).
 
@@ -3970,27 +3970,27 @@ De verantwoordelijkheid van de landelijke coördinatie van deze ondersteuning li
 
 De voortgang van de Brede Regeling Combinatiefuncties wordt gemonitord en de impact en resultaten geëvalueerd. Gemeenten dragen bij aan kennisdeling en de daarmee gepaard gaande monitoring zoals ook vastgesteld in de brede Specifieke uitkering ten behoeve van het bevorderen van de gezondheid, sport- en beweegstimulering, cultuurparticipatie en het versterken van de sociale basis.
 
-## Bijlage III. behorend bij [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=5&artikel=5.1&z=2023-02-09&g=2023-02-09)
+## Bijlage III. behorend bij [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=5&artikel=5.1&z=2023-11-11&g=2023-11-11)
 
 | Naam onderdeel | 2023 | 2024 | 2025 | 2026 |
 | --- | --- | --- | --- | --- |
-| Lokaal Sportakkoord | € 12.978.290, | € 12.978.063 | € 12.978.063 | € 9.978.723 |
-| Brede Regeling Combinatiefuncties | € 89.350.534 | € 89.348.971 | € 89.348.971 | € 86.315.957 |
-| Terugdringen Gezondheidsachterstanden | € 19.966.600 | € 19.966.250 | € 19.966.250 | € 19.957.447 |
-| Kansrijke Start | € 14.974.950 | € 15.973.000 | € 15.973.000 | € 19.957.447 |
-| Mentale Gezondheid | € 6.988.310 | € 4.991.563 | € 4.991.563 | € 0 |
-| Aanpak overgewicht en obesitas | € 17.470.775 | € 17.470.469 | € 17.470.469 | € 0 |
-| Valpreventie | € 51.413.995 | € 47.419.845 | € 47.419.845 | € 48.895.745 |
-| Leefomgeving | € 9.983.300 | € 9.983.125 | € 9.983.125 | € 0 |
-| OKO & Vroegsignalering alcoholproblematiek | € 2.495.825 | € 2.495.781 | € 2.495.781 | € 0 |
-| Versterken sociale basis | € 36.439.045 | € 35.939.251 | € 35.939.251 | € 26.942.553 |
-| Mantelzorg | € 9.983.300 | € 9.983.125 | € 9.983.125 | € 8.980.851 |
-| Eén tegen eenzaamheid | € 9.983.300 | € 9.983.125 | € 7.986.500 | € 0 |
-| Welzijn op recept | € 5.490.815 | € 9.483.969 | € 11.480.594 | € 13.471.277 |
-| Versterking kennis- en adviesfunctie GGD | € 2.495.825 | € 2.495.781 | € 2.495.781 | € 0 |
-| Coördinatiekosten regionale aanpak en preventie | € 8.885.137 | € 7.287.681 | € 7.287.681 | € 0 |
+| Lokaal Sportakkoord | € 12.978.290 | € 12.997.276 | € 12.997.276 | € 9.995.528 |
+| Brede Regeling Combinatiefuncties | € 89.350.534 | € 89.396.017 | € 89.396.017 | € 86.365.632 |
+| Terugdringen Gezondheidsachterstanden | € 19.966.600 | € 19.982.696 | € 19.982.696 | € 19.981.855 |
+| Kansrijke Start | € 14.974.950 | € 16.001.429 | € 16.001.429 | € 19.980.801 |
+| Mentale Gezondheid | € 6.988.310 | € 4.995.672 | € 4.995.672 | € 0 |
+| Aanpak overgewicht en obesitas | € 17.470.775 | € 17.484.860 | € 17.484.860 | € 0 |
+| Valpreventie | € 51.413.995 | € 47.458.907 | € 47.458.909 | € 48.955.542 |
+| Leefomgeving | € 9.983.300 | € 9.991.352 | € 9.991.352 | € 0 |
+| OKO & Vroegsignalering alcoholproblematiek | € 2.495.825 | € 2.497.836 | € 2.497.836 | € 0 |
+| Versterken sociale basis | € 36.439.045 | € 35.968.854 | € 35.968.855 | € 26.975.508 |
+| Mantelzorg | € 9.983.300 | € 9.991.352 | € 9.991.352 | € 8.991.839 |
+| Eén tegen eenzaamheid | € 9.983.300 | € 9.991.352 | € 7.993.079 | € 0 |
+| Welzijn op recept | € 5.490.815 | € 9.491.781 | € 11.490.050 | € 13.487.748 |
+| Versterking kennis- en adviesfunctie GGD | € 2.495.825 | € 2.497.836 | € 2.497.836 | € 0 |
+| Coördinatiekosten regionale aanpak en preventie | € 8.885.137 | € 7.293.683 | € 7.293.683 | € 0 |
 
-## Bijlage IV. behorend bij [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=5&artikel=5.2&z=2023-02-09&g=2023-02-09)
+## Bijlage IV. behorend bij [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=5&artikel=5.2&z=2023-11-11&g=2023-11-11)
 
 | 2023 | Lokaal Sportakkoord | Brede Regeling Combinatiefuncties | Terugdringen Gezondheidsachterstanden | Kansrijke Start | Mentale Gezondheid | Aanpak overgewicht en obesitas | Valpreventie |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -4006,7 +4006,7 @@ De voortgang van de Brede Regeling Combinatiefuncties wordt gemonitord en de imp
 | Alphen aan den Rijn | € 78.524 | € 540.608 | € 120.806 | € 90.605 | € 42.282 | € 105.705 | € 311.076 |
 | Alphen-Chaam | € 6.933 | € 47.733 | € 10.667 | € 8.000 | € 3.733 | € 9.333 | € 27.466 |
 | Altena | € 46.494 | € 320.092 | € 71.529 | € 53.647 | € 25.035 | € 62.588 | € 184.187 |
-| Ameland | € 2.431 | € 16.740 | € 3.741 | € 2.806 | € 1.309 | € 3.273 | € 9.632 |
+| Ameland | € 6.000 | € 20.000 | € 5.819 | € 8.580 | € 2.036 | € 5.091 | € 14.982 |
 | Amersfoort | € 96.949 | € 667.454 | € 149.152 | € 111.864 | € 52.203 | € 130.508 | € 384.066 |
 | Amstelveen | € 54.376 | € 374.357 | € 83.655 | € 62.741 | € 29.279 | € 73.198 | € 215.412 |
 | Amsterdam | € 631.952 | € 4.350.745 | € 972.233 | € 729.175 | € 340.282 | € 850.704 | € 2.503.501 |
@@ -4236,12 +4236,12 @@ De voortgang van de Brede Regeling Combinatiefuncties wordt gemonitord en de imp
 | Roermond | € 51.608 | € 355.303 | € 79.397 | € 59.548 | € 27.789 | € 69.473 | € 204.448 |
 | Roosendaal | € 63.087 | € 434.327 | € 97.056 | € 72.792 | € 33.970 | € 84.924 | € 249.920 |
 | Rotterdam | € 558.131 | € 3.842.517 | € 858.663 | € 643.997 | € 300.532 | € 751.330 | € 2.211.057 |
-| Rozendaal | € 713 | € 4.910 | € 1.097 | € 823 | € 384 | € 960 | € 2.825 |
+| Rozendaal | € 3.039 | € 20.925 | € 4.675 | € 3.507 | € 1.637 | € 4.091 | € 12.040 |
 | Rucphen | € 22.601 | € 155.597 | € 34.770 | € 26.078 | € 12.170 | € 30.424 | € 89.533 |
 | Schagen | € 32.568 | € 224.215 | € 50.104 | € 37.578 | € 17.536 | € 43.841 | € 129.018 |
 | Scherpenzeel | € 7.373 | € 50.757 | € 11.342 | € 8.507 | € 3.970 | € 9.925 | € 29.207 |
 | Schiedam | € 69.356 | € 477.489 | € 106.702 | € 80.026 | € 37.346 | € 93.364 | € 274.757 |
-| Schiermonnikoog | € 609 | € 4.194 | € 937 | € 703 | € 328 | € 820 | € 2.413 |
+| Schiermonnikoog | € 6.000 | € 20.000 | € 5.817 | € 8.580 | € 2.036 | € 5.091 | € 14.981 |
 | Schouwen-Duiveland | € 26.131 | € 179.899 | € 40.201 | € 30.151 | € 14.070 | € 35.176 | € 103.517 |
 | 's-Gravenhage | € 418.004 | € 2.877.797 | € 643.083 | € 482.312 | € 225.079 | € 562.698 | € 1.655.939 |
 | 's-Hertogenbosch | € 113.023 | € 778.117 | € 173.881 | € 130.411 | € 60.858 | € 152.146 | € 447.743 |
@@ -4263,7 +4263,7 @@ De voortgang van de Brede Regeling Combinatiefuncties wordt gemonitord en de imp
 | Stichtse Vecht | € 42.315 | € 291.324 | € 65.100 | € 48.825 | € 22.785 | € 56.963 | € 167.633 |
 | Súdwest-Fryslân | € 68.998 | € 475.026 | € 106.151 | € 79.613 | € 37.153 | € 92.882 | € 273.339 |
 | Terneuzen | € 47.552 | € 327.376 | € 73.157 | € 54.867 | € 25.605 | € 64.012 | € 188.378 |
-| Terschelling | € 3.241 | € 22.312 | € 4.986 | € 3.739 | € 1.745 | € 4.363 | € 12.839 |
+| Terschelling | € 6.000 | € 20.000 | € 5.819 | € 8.580 | € 2.036 | € 5.092 | € 14.983 |
 | Texel | € 10.205 | € 70.260 | € 15.700 | € 11.775 | € 5.495 | € 13.738 | € 40.429 |
 | Teylingen | € 21.813 | € 150.172 | € 33.558 | € 25.169 | € 11.745 | € 29.363 | € 86.412 |
 | Tholen | € 21.647 | € 149.034 | € 33.304 | € 24.978 | € 11.656 | € 29.141 | € 85.757 |
@@ -4290,7 +4290,7 @@ De voortgang van de Brede Regeling Combinatiefuncties wordt gemonitord en de imp
 | Venray | € 35.468 | € 244.184 | € 54.566 | € 40.925 | € 19.098 | € 47.745 | € 140.508 |
 | Vijfheerenlanden | € 45.304 | € 311.897 | € 69.698 | € 52.273 | € 24.394 | € 60.986 | € 179.472 |
 | Vlaardingen | € 66.005 | € 454.417 | € 101.546 | € 76.159 | € 35.541 | € 88.852 | € 261.480 |
-| Vlieland | € 863 | € 5.942 | € 1.328 | € 996 | € 465 | € 1.162 | € 3.419 |
+| Vlieland | € 6.000 | € 20.000 | € 5.819 | € 8.580 | € 2.038 | € 5.092 | € 14.982 |
 | Vlissingen | € 36.231 | € 249.434 | € 55.740 | € 41.805 | € 19.509 | € 48.772 | € 143.529 |
 | Voerendaal | € 9.164 | € 63.089 | € 14.098 | € 10.574 | € 4.934 | € 12.336 | € 36.303 |
 | Voorne aan Zee | € 52.460 | € 361.167 | € 80.708 | € 60.531 | € 28.248 | € 70.619 | € 207.822 |
@@ -4351,7 +4351,7 @@ De voortgang van de Brede Regeling Combinatiefuncties wordt gemonitord en de imp
 | Alphen aan den Rijn | € 60.403 | € 15.101 | € 220.471 | € 60.403 | € 60.403 | € 33.222 | € 15.101 | € 53.759 |
 | Alphen-Chaam | € 5.333 | € 1.333 | € 19.466 | € 5.333 | € 5.333 | € 2.933 | € 1.333 | € 4.747 |
 | Altena | € 35.765 | € 8.941 | € 130.540 | € 35.765 | € 35.765 | € 19.670 | € 8.941 | € 31.830 |
-| Ameland | € 1.870 | € 468 | € 6.827 | € 1.870 | € 1.870 | € 1.029 | € 468 | € 1.665 |
+| Ameland | € 2.909 | € 728 | € 10.619 | € 2.909 | € 2.909 | € 1.601 | € 728 | € 2.590 |
 | Amersfoort | € 74.576 | € 18.644 | € 272.202 | € 74.576 | € 74.576 | € 41.017 | € 18.644 | € 66.373 |
 | Amstelveen | € 41.828 | € 10.457 | € 152.671 | € 41.828 | € 41.828 | € 23.005 | € 10.457 | € 37.227 |
 | Amsterdam | € 486.117 | € 121.529 | € 1.774.326 | € 486.117 | € 486.117 | € 267.364 | € 121.529 | € 432.644 |
@@ -4581,12 +4581,12 @@ De voortgang van de Brede Regeling Combinatiefuncties wordt gemonitord en de imp
 | Roermond | € 39.699 | € 9.925 | € 144.900 | € 39.699 | € 39.699 | € 21.834 | € 9.925 | € 35.332 |
 | Roosendaal | € 48.528 | € 12.132 | € 177.128 | € 48.528 | € 48.528 | € 26.691 | € 12.132 | € 43.190 |
 | Rotterdam | € 429.332 | € 107.333 | € 1.567.060 | € 429.332 | € 429.332 | € 236.132 | € 107.333 | € 382.105 |
-| Rozendaal | € 549 | € 137 | € 2.002 | € 549 | € 549 | € 302 | € 137 | € 488 |
+| Rozendaal | € 2.340 | € 584 | € 8.532 | € 2.340 | € 2.340 | € 1.287 | € 584 | € 2.080 |
 | Rucphen | € 17.385 | € 4.346 | € 63.456 | € 17.385 | € 17.385 | € 9.562 | € 4.346 | € 15.473 |
 | Schagen | € 25.052 | € 6.263 | € 91.440 | € 25.052 | € 25.052 | € 13.779 | € 6.263 | € 22.296 |
 | Scherpenzeel | € 5.671 | € 1.418 | € 20.700 | € 5.671 | € 5.671 | € 3.119 | € 1.418 | € 5.047 |
 | Schiedam | € 53.351 | € 13.338 | € 194.730 | € 53.351 | € 53.351 | € 29.343 | € 13.338 | € 47.482 |
-| Schiermonnikoog | € 469 | € 117 | € 1.710 | € 469 | € 469 | € 258 | € 117 | € 417 |
+| Schiermonnikoog | € 2.912 | € 726 | € 10.616 | € 2.912 | € 2.912 | € 1.602 | € 726 | € 2.589 |
 | Schouwen-Duiveland | € 20.100 | € 5.025 | € 73.366 | € 20.100 | € 20.100 | € 11.055 | € 5.025 | € 17.889 |
 | 's-Gravenhage | € 321.542 | € 80.385 | € 1.173.627 | € 321.542 | € 321.542 | € 176.848 | € 80.385 | € 286.172 |
 | 's-Hertogenbosch | € 86.940 | € 21.735 | € 317.332 | € 86.940 | € 86.940 | € 47.817 | € 21.735 | € 77.377 |
@@ -4608,7 +4608,7 @@ De voortgang van de Brede Regeling Combinatiefuncties wordt gemonitord en de imp
 | Stichtse Vecht | € 32.550 | € 8.138 | € 118.808 | € 32.550 | € 32.550 | € 17.903 | € 8.138 | € 28.970 |
 | Súdwest-Fryslân | € 53.075 | € 13.269 | € 193.726 | € 53.075 | € 53.075 | € 29.192 | € 13.269 | € 47.237 |
 | Terneuzen | € 36.578 | € 9.145 | € 133.511 | € 36.578 | € 36.578 | € 20.118 | € 9.145 | € 32.555 |
-| Terschelling | € 2.493 | € 623 | € 9.099 | € 2.493 | € 2.493 | € 1.371 | € 623 | € 2.219 |
+| Terschelling | € 2.909 | € 727 | € 10.619 | € 2.909 | € 2.909 | € 1.600 | € 727 | € 2.590 |
 | Texel | € 7.850 | € 1.963 | € 28.653 | € 7.850 | € 7.850 | € 4.318 | € 1.963 | € 6.987 |
 | Teylingen | € 16.779 | € 4.195 | € 61.244 | € 16.779 | € 16.779 | € 9.228 | € 4.195 | € 14.933 |
 | Tholen | € 16.652 | € 4.163 | € 60.779 | € 16.652 | € 16.652 | € 9.159 | € 4.163 | € 14.820 |
@@ -4635,7 +4635,7 @@ De voortgang van de Brede Regeling Combinatiefuncties wordt gemonitord en de imp
 | Venray | € 27.283 | € 6.821 | € 99.583 | € 27.283 | € 27.283 | € 15.006 | € 6.821 | € 24.282 |
 | Vijfheerenlanden | € 34.849 | € 8.712 | € 127.198 | € 34.849 | € 34.849 | € 19.167 | € 8.712 | € 31.016 |
 | Vlaardingen | € 50.773 | € 12.693 | € 185.321 | € 50.773 | € 50.773 | € 27.925 | € 12.693 | € 45.188 |
-| Vlieland | € 664 | € 166 | € 2.423 | € 664 | € 664 | € 365 | € 166 | € 591 |
+| Vlieland | € 2.910 | € 727 | € 10.617 | € 2.910 | € 2.910 | € 1.599 | € 727 | € 2.590 |
 | Vlissingen | € 27.870 | € 6.967 | € 101.725 | € 27.870 | € 27.870 | € 15.328 | € 6.967 | € 24.804 |
 | Voerendaal | € 7.049 | € 1.762 | € 25.729 | € 7.049 | € 7.049 | € 3.877 | € 1.762 | € 6.274 |
 | Voorne aan Zee | € 40.354 | € 10.088 | € 147.291 | 40.354 | 40.354 | 22.195 | 10.088 | 35.915 |
@@ -4696,7 +4696,7 @@ De voortgang van de Brede Regeling Combinatiefuncties wordt gemonitord en de imp
 | Alphen aan den Rijn | € 78.523 | € 540.598 | € 120.804 | € 96.643 | € 30.201 | € 105.704 | € 286.910 |
 | Alphen-Chaam | € 6.933 | € 47.732 | € 10.666 | € 8.533 | € 2.667 | € 9.333 | € 25.333 |
 | Altena | € 46.493 | € 320.087 | € 71.528 | € 57.222 | € 17.882 | € 62.587 | € 169.878 |
-| Ameland | € 2.431 | € 16.740 | € 3.741 | € 2.993 | € 935 | € 3.273 | € 8.884 |
+| Ameland | € 6.000 | € 20.000 | € 5.953 | € 8.580 | € 1.488 | € 5.209 | € 14.138 |
 | Amersfoort | € 96.947 | € 667.443 | € 149.149 | € 119.319 | € 37.287 | € 130.506 | € 354.229 |
 | Amstelveen | € 54.375 | € 374.351 | € 83.654 | € 66.923 | € 20.913 | € 73.197 | € 198.678 |
 | Amsterdam | € 631.941 | € 4.350.669 | € 972.216 | € 777.773 | € 243.054 | € 850.689 | € 2.309.014 |
@@ -4926,12 +4926,12 @@ De voortgang van de Brede Regeling Combinatiefuncties wordt gemonitord en de imp
 | Roermond | € 51.607 | € 355.296 | € 79.396 | € 63.517 | € 19.849 | € 69.471 | € 188.565 |
 | Roosendaal | € 63.086 | € 434.320 | € 97.055 | € 77.644 | € 24.264 | € 84.923 | € 230.505 |
 | Rotterdam | € 558.121 | € 3.842.450 | € 858.648 | € 686.918 | € 214.662 | € 751.317 | € 2.039.289 |
-| Rozendaal | € 713 | € 4.910 | € 1.097 | € 878 | € 274 | € 960 | € 2.606 |
+| Rozendaal | € 3.070 | € 21.144 | € 4.724 | € 3.781 | € 1.180 | € 4.134 | € 11.222 |
 | Rucphen | € 22.600 | € 155.594 | € 34.770 | € 27.816 | € 8.692 | € 30.423 | € 82.578 |
 | Schagen | € 32.567 | € 224.211 | € 50.103 | € 40.082 | € 12.526 | € 43.840 | € 118.995 |
 | Scherpenzeel | € 7.372 | € 50.756 | € 11.342 | € 9.074 | € 2.836 | € 9.924 | € 26.938 |
 | Schiedam | € 69.355 | € 477.481 | € 106.700 | € 85.360 | € 26.675 | € 93.362 | € 253.412 |
-| Schiermonnikoog | € 609 | € 4.194 | € 937 | € 750 | € 234 | € 820 | € 2.226 |
+| Schiermonnikoog | € 6.000 | € 20.000 | € 5.951 | € 8.580 | € 1.486 | € 5.208 | € 14.138 |
 | Schouwen-Duiveland | € 26.130 | € 179.895 | € 40.200 | € 32.160 | € 10.050 | € 35.175 | € 95.475 |
 | 's-Gravenhage | € 417.997 | € 2.877.747 | € 643.072 | € 514.458 | € 160.768 | € 562.688 | € 1.527.296 |
 | 's-Hertogenbosch | € 113.021 | € 778.103 | € 173.878 | € 139.102 | € 43.469 | € 152.143 | € 412.960 |
@@ -4953,7 +4953,7 @@ De voortgang van de Brede Regeling Combinatiefuncties wordt gemonitord en de imp
 | Stichtse Vecht | € 42.314 | € 291.319 | € 65.099 | € 52.079 | € 16.275 | € 56.962 | € 154.611 |
 | Súdwest-Fryslân | € 68.997 | € 475.017 | € 106.149 | € 84.919 | € 26.537 | € 92.880 | € 252.104 |
 | Terneuzen | € 47.551 | € 327.370 | € 73.155 | € 58.524 | € 18.289 | € 64.011 | € 173.744 |
-| Terschelling | € 3.241 | € 22.312 | € 4.986 | € 3.989 | € 1.246 | € 4.363 | € 11.841 |
+| Terschelling | € 6.000 | € 20.000 | € 5.953 | € 8.580 | € 1.488 | € 5.209 | € 14.137 |
 | Texel | € 10.205 | € 70.258 | € 15.700 | € 12.560 | € 3.925 | € 13.738 | € 37.288 |
 | Teylingen | € 21.812 | € 150.170 | € 33.558 | € 26.846 | € 8.389 | € 29.363 | € 79.699 |
 | Tholen | € 21.647 | € 149.032 | € 33.303 | € 26.643 | € 8.326 | € 29.140 | € 79.095 |
@@ -4980,7 +4980,7 @@ De voortgang van de Brede Regeling Combinatiefuncties wordt gemonitord en de imp
 | Venray | € 35.467 | € 244.180 | € 54.565 | € 43.652 | € 13.641 | € 47.745 | € 129.593 |
 | Vijfheerenlanden | € 45.303 | € 311.892 | € 69.697 | € 55.757 | € 17.424 | € 60.984 | € 165.529 |
 | Vlaardingen | € 66.004 | € 454.409 | € 101.544 | € 81.235 | € 25.386 | € 88.851 | € 241.167 |
-| Vlieland | € 863 | € 5.942 | € 1.328 | € 1.062 | € 332 | € 1.162 | € 3.154 |
+| Vlieland | € 6.000 | € 20.000 | € 5.953 | € 8.580 | € 1.488 | € 5.209 | € 14.138 |
 | Vlissingen | € 36.230 | € 249.430 | € 55.739 | € 44.591 | € 13.935 | € 48.771 | € 132.379 |
 | Voerendaal | € 9.164 | € 63.088 | € 14.098 | € 11.278 | € 3.524 | € 12.336 | € 33.482 |
 | Voorne aan Zee | € 52.459 | € 361.160 | € 80.706 | € 64.565 | € 20.177 | € 70.618 | € 191.677 |
@@ -5041,7 +5041,7 @@ De voortgang van de Brede Regeling Combinatiefuncties wordt gemonitord en de imp
 | Alphen aan den Rijn | € 60.402 | € 15.101 | € 217.447 | € 60.402 | € 60.402 | € 57.382 | € 15.101 | € 44.094 |
 | Alphen-Chaam | € 5.333 | € 1.333 | € 19.199 | € 5.333 | € 5.333 | € 5.067 | € 1.333 | € 3.893 |
 | Altena | € 35.764 | € 8.941 | € 128.750 | € 35.764 | € 35.764 | € 33.976 | € 8.941 | € 26.108 |
-| Ameland | € 1.870 | € 468 | € 6.733 | € 1.870 | € 1.870 | € 1.777 | € 468 | € 1.365 |
+| Ameland | € 2.976 | € 745 | € 10.715 | € 2.976 | € 2.976 | € 2.828 | € 745 | € 2.172 |
 | Amersfoort | € 74.575 | € 18.644 | € 268.469 | € 74.575 | € 74.575 | € 70.846 | € 18.644 | € 54.439 |
 | Amstelveen | € 41.827 | € 10.457 | € 150.577 | € 41.827 | € 41.827 | € 39.736 | € 10.457 | € 30.534 |
 | Amsterdam | € 486.108 | € 121.527 | € 1.749.990 | € 486.108 | € 486.108 | € 461.803 | € 121.527 | € 354.859 |
@@ -5271,12 +5271,12 @@ De voortgang van de Brede Regeling Combinatiefuncties wordt gemonitord en de imp
 | Roermond | € 39.698 | € 9.924 | € 142.912 | € 39.698 | € 39.698 | € 37.713 | € 9.924 | € 28.979 |
 | Roosendaal | € 48.527 | € 12.132 | € 174.698 | € 48.527 | € 48.527 | € 46.101 | € 12.132 | € 35.425 |
 | Rotterdam | € 429.324 | € 107.331 | € 1.545.566 | € 429.324 | € 429.324 | € 407.858 | € 107.331 | € 313.407 |
-| Rozendaal | € 549 | € 137 | € 1.975 | € 549 | € 549 | € 521 | € 137 | € 400 |
+| Rozendaal | € 2.364 | € 590 | € 8.505 | € 2.364 | € 2.364 | € 2.244 | € 590 | € 1.723 |
 | Rucphen | € 17.385 | € 4.346 | € 62.585 | € 17.385 | € 17.385 | € 16.516 | € 4.346 | € 12.691 |
 | Schagen | € 25.052 | € 6.263 | € 90.186 | € 25.052 | € 25.052 | € 23.799 | € 6.263 | € 18.288 |
 | Scherpenzeel | € 5.671 | € 1.418 | € 20.416 | € 5.671 | € 5.671 | € 5.388 | € 1.418 | € 4.140 |
 | Schiedam | € 53.350 | € 13.337 | € 192.059 | € 53.350 | € 53.350 | € 50.682 | € 13.337 | € 38.945 |
-| Schiermonnikoog | € 469 | € 117 | € 1.687 | € 469 | € 469 | € 445 | € 117 | € 342 |
+| Schiermonnikoog | € 2.979 | € 743 | € 10.715 | € 2.979 | € 2.979 | € 2.826 | € 743 | € 2.172 |
 | Schouwen-Duiveland | € 20.100 | € 5.025 | € 72.360 | € 20.100 | € 20.100 | € 19.095 | € 5.025 | € 14.673 |
 | 's-Gravenhage | € 321.536 | € 80.384 | € 1.157.529 | € 321.536 | € 321.536 | € 305.459 | € 80.384 | € 234.721 |
 | 's-Hertogenbosch | € 86.939 | € 21.735 | € 312.980 | € 86.939 | € 86.939 | € 82.592 | € 21.735 | € 63.465 |
@@ -5298,7 +5298,7 @@ De voortgang van de Brede Regeling Combinatiefuncties wordt gemonitord en de imp
 | Stichtse Vecht | € 32.550 | € 8.137 | € 117.179 | € 32.550 | € 32.550 | € 30.922 | € 8.137 | € 23.761 |
 | Súdwest-Fryslân | € 53.075 | € 13.269 | € 191.068 | € 53.075 | € 53.075 | € 50.421 | € 13.269 | € 38.744 |
 | Terneuzen | € 36.578 | € 9.144 | € 131.680 | € 36.578 | € 36.578 | € 34.749 | € 9.144 | € 26.702 |
-| Terschelling | € 2.493 | € 623 | € 8.975 | € 2.493 | € 2.493 | € 2.368 | € 623 | € 1.820 |
+| Terschelling | € 2.976 | € 744 | € 10.716 | € 2.976 | € 2.976 | € 2.827 | € 744 | € 2.173 |
 | Texel | € 7.850 | € 1.963 | € 28.260 | € 7.850 | € 7.850 | € 7.458 | € 1.963 | € 5.731 |
 | Teylingen | € 16.779 | € 4.195 | € 60.404 | € 16.779 | € 16.779 | € 15.940 | € 4.195 | € 12.248 |
 | Tholen | € 16.652 | € 4.163 | € 59.946 | € 16.652 | € 16.652 | € 15.819 | € 4.163 | € 12.156 |
@@ -5325,7 +5325,7 @@ De voortgang van de Brede Regeling Combinatiefuncties wordt gemonitord en de imp
 | Venray | € 27.283 | € 6.821 | € 98.218 | € 27.283 | € 27.283 | € 25.919 | € 6.821 | € 19.916 |
 | Vijfheerenlanden | € 34.848 | € 8.712 | € 125.454 | € 34.848 | € 34.848 | € 33.106 | € 8.712 | € 25.439 |
 | Vlaardingen | € 50.772 | € 12.693 | € 182.779 | € 50.772 | € 50.772 | € 48.233 | € 12.693 | € 37.064 |
-| Vlieland | € 664 | € 166 | € 2.390 | € 664 | € 664 | € 631 | € 166 | € 485 |
+| Vlieland | € 2.976 | € 744 | € 10.713 | € 2.976 | € 2.976 | € 2.828 | € 744 | € 2.174 |
 | Vlissingen | € 27.869 | € 6.967 | € 100.329 | € 27.869 | € 27.869 | € 26.476 | € 6.967 | € 20.345 |
 | Voerendaal | € 7.049 | € 1.762 | € 25.376 | € 7.049 | € 7.049 | € 6.696 | € 1.762 | € 5.146 |
 | Voorne aan Zee | € 40.353 | € 10.088 | € 145.271 | € 40.353 | € 40.353 | € 38.335 | € 10.088 | € 29.458 |
@@ -5386,7 +5386,7 @@ De voortgang van de Brede Regeling Combinatiefuncties wordt gemonitord en de imp
 | Alphen aan den Rijn | € 78.523 | € 540.598 | € 120.804 | € 96.643 | € 30.201 | € 105.704 | € 286.910 |
 | Alphen-Chaam | € 6.933 | € 47.732 | € 10.666 | € 8.533 | € 2.667 | € 9.333 | € 25.333 |
 | Altena | € 46.493 | € 320.087 | € 71.528 | € 57.222 | € 17.882 | € 62.587 | € 169.878 |
-| Ameland | € 2.431 | € 16.740 | € 3.741 | € 2.993 | € 935 | € 3.273 | € 8.884 |
+| Ameland | € 6.000 | € 20.000 | € 5.953 | € 8.580 | € 1.488 | € 5.209 | € 14.138 |
 | Amersfoort | € 96.947 | € 667.443 | € 149.149 | € 119.319 | € 37.287 | € 130.506 | € 354.229 |
 | Amstelveen | € 54.375 | € 374.351 | € 83.654 | € 66.923 | € 20.913 | € 73.197 | € 198.678 |
 | Amsterdam | € 631.941 | € 4.350.669 | € 972.216 | € 777.773 | € 243.054 | € 850.689 | € 2.309.014 |
@@ -5616,12 +5616,12 @@ De voortgang van de Brede Regeling Combinatiefuncties wordt gemonitord en de imp
 | Roermond | € 51.607 | € 355.296 | € 79.396 | € 63.517 | € 19.849 | € 69.471 | € 188.565 |
 | Roosendaal | € 63.086 | € 434.320 | € 97.055 | € 77.644 | € 24.264 | € 84.923 | € 230.505 |
 | Rotterdam | € 558.121 | € 3.842.450 | € 858.648 | € 686.918 | € 214.662 | € 751.317 | € 2.039.289 |
-| Rozendaal | € 713 | € 4.910 | € 1.097 | € 878 | € 274 | € 960 | € 2.606 |
+| Rozendaal | € 3.070 | € 21.144 | € 4.724 | € 3.781 | € 1.180 | € 4.134 | € 11.222 |
 | Rucphen | € 22.600 | € 155.594 | € 34.770 | € 27.816 | € 8.692 | € 30.423 | € 82.578 |
 | Schagen | € 32.567 | € 224.211 | € 50.103 | € 40.082 | € 12.526 | € 43.840 | € 118.995 |
 | Scherpenzeel | € 7.372 | € 50.756 | € 11.342 | € 9.074 | € 2.836 | € 9.924 | € 26.938 |
 | Schiedam | € 69.355 | € 477.481 | € 106.700 | € 85.360 | € 26.675 | € 93.362 | € 253.412 |
-| Schiermonnikoog | € 609 | € 4.194 | € 937 | € 750 | € 234 | € 820 | € 2.226 |
+| Schiermonnikoog | € 6.000 | € 20.000 | € 5.951 | € 8.580 | € 1.486 | € 5.208 | € 14.138 |
 | Schouwen-Duiveland | € 26.130 | € 179.895 | € 40.200 | € 32.160 | € 10.050 | € 35.175 | € 95.475 |
 | 's-Gravenhage | € 417.997 | € 2.877.747 | € 643.072 | € 514.458 | € 160.768 | € 562.688 | € 1.527.296 |
 | 's-Hertogenbosch | € 113.021 | € 778.103 | € 173.878 | € 139.102 | € 43.469 | € 152.143 | € 412.960 |
@@ -5643,7 +5643,7 @@ De voortgang van de Brede Regeling Combinatiefuncties wordt gemonitord en de imp
 | Stichtse Vecht | € 42.314 | € 291.319 | € 65.099 | € 52.079 | € 16.275 | € 56.962 | € 154.611 |
 | Súdwest-Fryslân | € 68.997 | € 475.017 | € 106.149 | € 84.919 | € 26.537 | € 92.880 | € 252.104 |
 | Terneuzen | € 47.551 | € 327.370 | € 73.155 | € 58.524 | € 18.289 | € 64.011 | € 173.744 |
-| Terschelling | € 3.241 | € 22.312 | € 4.986 | € 3.989 | € 1.246 | € 4.363 | € 11.841 |
+| Terschelling | € 6.000 | € 20.000 | € 5.953 | € 8.580 | € 1.488 | € 5.209 | € 14.137 |
 | Texel | € 10.205 | € 70.258 | € 15.700 | € 12.560 | € 3.925 | € 13.738 | € 37.288 |
 | Teylingen | € 21.812 | € 150.170 | € 33.558 | € 26.846 | € 8.389 | € 29.363 | € 79.699 |
 | Tholen | € 21.647 | € 149.032 | € 33.303 | € 26.643 | € 8.326 | € 29.140 | € 79.095 |
@@ -5670,7 +5670,7 @@ De voortgang van de Brede Regeling Combinatiefuncties wordt gemonitord en de imp
 | Venray | € 35.467 | € 244.180 | € 54.565 | € 43.652 | € 13.641 | € 47.745 | € 129.593 |
 | Vijfheerenlanden | € 45.303 | € 311.892 | € 69.697 | € 55.757 | € 17.424 | € 60.984 | € 165.529 |
 | Vlaardingen | € 66.004 | € 454.409 | € 101.544 | € 81.235 | € 25.386 | € 88.851 | € 241.167 |
-| Vlieland | € 863 | € 5.942 | € 1.328 | € 1.062 | € 332 | € 1.162 | € 3.154 |
+| Vlieland | € 6.000 | € 20.000 | € 5.953 | € 8.580 | € 1.488 | € 5.209 | € 14.139 |
 | Vlissingen | € 36.230 | € 249.430 | € 55.739 | € 44.591 | € 13.935 | € 48.771 | € 132.379 |
 | Voerendaal | € 9.164 | € 63.088 | € 14.098 | € 11.278 | € 3.524 | € 12.336 | € 33.482 |
 | Voorne aan Zee | € 52.459 | € 361.160 | € 80.706 | € 64.565 | € 20.177 | € 70.618 | € 191.677 |
@@ -5731,7 +5731,7 @@ De voortgang van de Brede Regeling Combinatiefuncties wordt gemonitord en de imp
 | Alphen aan den Rijn | € 60.402 | € 15.101 | € 217.447 | € 60.402 | € 48.322 | € 69.462 | € 15.101 | € 44.094 |
 | Alphen-Chaam | € 5.333 | € 1.333 | € 19.199 | € 5.333 | € 4.267 | € 6.133 | € 1.333 | € 3.893 |
 | Altena | € 35.764 | € 8.941 | € 128.750 | € 35.764 | € 28.611 | € 41.128 | € 8.941 | € 26.108 |
-| Ameland | € 1.870 | € 468 | € 6.733 | € 1.870 | € 1.496 | € 2.151 | € 468 | € 1.365 |
+| Ameland | € 745 | € 10.715 | € 2.976 | € 2.381 | € 3.423 | € 745 | € 2.172 | € 745 |
 | Amersfoort | € 74.575 | € 18.644 | € 268.469 | € 74.575 | € 59.660 | € 85.761 | € 18.644 | € 54.439 |
 | Amstelveen | € 41.827 | € 10.457 | € 150.577 | € 41.827 | € 33.462 | € 48.101 | € 10.457 | € 30.534 |
 | Amsterdam | € 486.108 | € 121.527 | € 1.749.990 | € 486.108 | € 388.887 | € 559.024 | € 121.527 | € 354.859 |
@@ -5961,12 +5961,12 @@ De voortgang van de Brede Regeling Combinatiefuncties wordt gemonitord en de imp
 | Roermond | € 39.698 | € 9.924 | € 142.912 | € 39.698 | € 31.758 | € 45.653 | € 9.924 | € 28.979 |
 | Roosendaal | € 48.527 | € 12.132 | € 174.698 | € 48.527 | € 38.822 | € 55.806 | € 12.132 | € 35.425 |
 | Rotterdam | € 429.324 | € 107.331 | € 1.545.566 | € 429.324 | € 343.459 | € 493.723 | € 107.331 | € 313.407 |
-| Rozendaal | € 549 | € 137 | € 1.975 | € 549 | € 439 | € 631 | € 137 | € 400 |
+| Rozendaal | € 590 | € 8.505 | € 2.364 | € 1.890 | € 2.717 | € 590 | € 1.723 | € 590 |
 | Rucphen | € 17.385 | € 4.346 | € 62.585 | € 17.385 | € 13.908 | € 19.993 | € 4.346 | € 12.691 |
 | Schagen | € 25.052 | € 6.263 | € 90.186 | € 25.052 | € 20.041 | € 28.809 | € 6.263 | € 18.288 |
 | Scherpenzeel | € 5.671 | € 1.418 | € 20.416 | € 5.671 | € 4.537 | € 6.522 | € 1.418 | € 4.140 |
 | Schiedam | € 53.350 | € 13.337 | € 192.059 | € 53.350 | € 42.680 | € 61.352 | € 13.337 | € 38.945 |
-| Schiermonnikoog | € 469 | € 117 | € 1.687 | € 469 | € 375 | € 539 | € 117 | € 342 |
+| Schiermonnikoog | € 743 | € 10.715 | € 2.979 | € 2.382 | € 3.423 | € 743 | € 2.172 | € 743 |
 | Schouwen-Duiveland | € 20.100 | € 5.025 | € 72.360 | € 20.100 | € 16.080 | € 23.115 | € 5.025 | € 14.673 |
 | 's-Gravenhage | € 321.536 | € 80.384 | € 1.157.529 | € 321.536 | € 257.229 | € 369.766 | € 80.384 | € 234.721 |
 | 's-Hertogenbosch | € 86.939 | € 21.735 | € 312.980 | € 86.939 | € 69.551 | € 99.980 | € 21.735 | € 63.465 |
@@ -5988,7 +5988,7 @@ De voortgang van de Brede Regeling Combinatiefuncties wordt gemonitord en de imp
 | Stichtse Vecht | € 32.550 | € 8.137 | € 117.179 | € 32.550 | € 26.040 | € 37.432 | € 8.137 | € 23.761 |
 | Súdwest-Fryslân | € 53.075 | € 13.269 | € 191.068 | € 53.075 | € 42.460 | € 61.036 | € 13.269 | € 38.744 |
 | Terneuzen | € 36.578 | € 9.144 | € 131.680 | € 36.578 | € 29.262 | € 42.064 | € 9.144 | € 26.702 |
-| Terschelling | € 2.493 | € 623 | € 8.975 | € 2.493 | € 1.994 | € 2.867 | € 623 | € 1.820 |
+| Terschelling | € 744 | € 10.716 | € 2.976 | € 2.381 | € 3.423 | € 744 | € 2.173 | € 744 |
 | Texel | € 7.850 | € 1.963 | € 28.260 | € 7.850 | € 6.280 | € 9.028 | € 1.963 | € 5.731 |
 | Teylingen | € 16.779 | € 4.195 | € 60.404 | € 16.779 | € 13.423 | € 19.296 | € 4.195 | € 12.248 |
 | Tholen | € 16.652 | € 4.163 | € 59.946 | € 16.652 | € 13.321 | € 19.149 | € 4.163 | € 12.156 |
@@ -6015,7 +6015,7 @@ De voortgang van de Brede Regeling Combinatiefuncties wordt gemonitord en de imp
 | Venray | € 27.283 | € 6.821 | € 98.218 | € 27.283 | € 21.826 | € 31.375 | € 6.821 | € 19.916 |
 | Vijfheerenlanden | € 34.848 | € 8.712 | € 125.454 | € 34.848 | € 27.879 | € 40.076 | € 8.712 | € 25.439 |
 | Vlaardingen | € 50.772 | € 12.693 | € 182.779 | € 50.772 | € 40.618 | € 58.388 | € 12.693 | € 37.064 |
-| Vlieland | € 664 | € 166 | € 2.390 | € 664 | € 531 | € 763 | € 166 | € 485 |
+| Vlieland | € 744 | € 10.714 | € 2.977 | € 2.380 | € 3.420 | € 744 | € 2.174 | € 744 |
 | Vlissingen | € 27.869 | € 6.967 | € 100.329 | € 27.869 | € 22.295 | € 32.050 | € 6.967 | € 20.345 |
 | Voerendaal | € 7.049 | € 1.762 | € 25.376 | € 7.049 | € 5.639 | € 8.106 | € 1.762 | € 5.146 |
 | Voorne aan Zee | € 40.353 | € 10.088 | € 145.271 | € 40.353 | € 32.282 | € 46.406 | € 10.088 | € 29.458 |
@@ -6076,7 +6076,7 @@ De voortgang van de Brede Regeling Combinatiefuncties wordt gemonitord en de imp
 | Alphen aan den Rijn | € 60.375 | € 522.247 | € 120.751 | € 120.751 | € 0 | € 0 | € 295.840 |
 | Alphen-Chaam | € 5.331 | € 46.112 | € 10.662 | € 10.662 | € 0 | € 0 | € 26.121 |
 | Altena | € 35.748 | € 309.221 | € 71.496 | € 71.496 | € 0 | € 0 | € 175.166 |
-| Ameland | € 1.870 | € 16.171 | € 3.739 | € 3.739 | € 0 | € 0 | € 9.161 |
+| Ameland | € 6.000 | € 20.000 | € 8.931 | € 8.580 | € 0 | € 0 | € 21.882 |
 | Amersfoort | € 74.542 | € 644.786 | € 149.083 | € 149.083 | € 0 | € 0 | € 365.254 |
 | Amstelveen | € 41.808 | € 361.643 | € 83.617 | € 83.617 | € 0 | € 0 | € 204.862 |
 | Amsterdam | € 485.894 | € 4.202.982 | € 971.788 | € 971.788 | € 0 | € 0 | € 2.380.880 |
@@ -6306,12 +6306,12 @@ De voortgang van de Brede Regeling Combinatiefuncties wordt gemonitord en de imp
 | Roermond | € 39.680 | € 343.236 | € 79.361 | € 79.361 | € 0 | € 0 | € 194.434 |
 | Roosendaal | € 48.506 | € 419.577 | € 97.012 | € 97.012 | € 0 | € 0 | € 237.679 |
 | Rotterdam | € 429.135 | € 3.712.015 | € 858.269 | € 858.269 | € 0 | € 0 | € 2.102.760 |
-| Rozendaal | € 548 | € 4.743 | € 1.097 | € 1.097 | € 0 | € 0 | € 2.687 |
+| Rozendaal | € 2.977 | € 25.763 | € 5.959 | € 5.959 | € 0 | € 0 | € 14.595 |
 | Rucphen | € 17.377 | € 150.312 | € 34.754 | € 34.754 | € 0 | € 0 | € 85.148 |
 | Schagen | € 25.041 | € 216.600 | € 50.081 | € 50.081 | € 0 | € 0 | € 122.699 |
 | Scherpenzeel | € 5.669 | € 49.033 | € 11.337 | € 11.337 | € 0 | € 0 | € 27.776 |
 | Schiedam | € 53.326 | € 461.273 | € 106.653 | € 106.653 | € 0 | € 0 | € 261.299 |
-| Schiermonnikoog | € 468 | € 4.051 | € 937 | € 937 | € 0 | € 0 | € 2.295 |
+| Schiermonnikoog | € 6.000 | € 20.000 | € 8.933 | € 8.580 | € 0 | € 0 | € 21.879 |
 | Schouwen-Duiveland | € 20.091 | € 173.789 | € 40.182 | € 40.182 | € 0 | € 0 | € 98.447 |
 | 's-Gravenhage | € 321.394 | € 2.780.060 | € 642.788 | € 642.788 | € 0 | € 0 | € 1.574.831 |
 | 's-Hertogenbosch | € 86.901 | € 751.690 | € 173.801 | € 173.801 | € 0 | € 0 | € 425.813 |
@@ -6333,7 +6333,7 @@ De voortgang van de Brede Regeling Combinatiefuncties wordt gemonitord en de imp
 | Stichtse Vecht | € 32.535 | € 281.430 | € 65.071 | € 65.071 | € 0 | € 0 | € 159.423 |
 | Súdwest-Fryslân | € 53.051 | € 458.893 | € 106.102 | € 106.102 | € 0 | € 0 | € 259.951 |
 | Terneuzen | € 36.562 | € 316.257 | € 73.123 | € 73.123 | € 0 | € 0 | € 179.152 |
-| Terschelling | € 2.492 | € 21.554 | € 4.984 | € 4.984 | € 0 | € 0 | € 12.210 |
+| Terschelling | € 6.000 | € 20.000 | € 8.933 | € 8.580 | € 0 | € 0 | € 21.879 |
 | Texel | € 7.847 | € 67.873 | € 15.693 | € 15.693 | € 0 | € 0 | € 38.449 |
 | Teylingen | € 16.771 | € 145.072 | € 33.543 | € 33.543 | € 0 | € 0 | € 82.180 |
 | Tholen | € 16.644 | € 143.973 | € 33.289 | € 33.289 | € 0 | € 0 | € 81.557 |
@@ -6360,7 +6360,7 @@ De voortgang van de Brede Regeling Combinatiefuncties wordt gemonitord en de imp
 | Venray | € 27.271 | € 235.891 | € 54.541 | € 54.541 | € 0 | € 0 | € 133.626 |
 | Vijfheerenlanden | € 34.833 | € 301.305 | € 69.666 | € 69.666 | € 0 | € 0 | € 170.681 |
 | Vlaardingen | € 50.750 | € 438.984 | € 101.499 | € 101.499 | € 0 | € 0 | € 248.673 |
-| Vlieland | € 664 | € 5.740 | € 1.327 | € 1.327 | € 0 | € 0 | € 3.252 |
+| Vlieland | € 6.000 | € 20.000 | € 8.932 | € 8.580 | € 0 | € 0 | € 21.882 |
 | Vlissingen | € 27.857 | € 240.963 | € 55.714 | € 55.714 | € 0 | € 0 | € 136.499 |
 | Voerendaal | € 7.046 | € 60.946 | € 14.092 | € 14.092 | € 0 | € 0 | € 34.524 |
 | Voorne aan Zee | € 40.335 | € 348.900 | € 80.671 | € 80.671 | € 0 | € 0 | € 197.643 |
@@ -6421,7 +6421,7 @@ De voortgang van de Brede Regeling Combinatiefuncties wordt gemonitord en de imp
 | Alphen aan den Rijn | € 0 | € 0 | € 163.014 | € 54.338 | € 0 | € 81.507 | € 0 | € 0 |
 | Alphen-Chaam | € 0 | € 0 | € 14.393 | € 4.798 | € 0 | € 7.197 | € 0 | € 0 |
 | Altena | € 0 | € 0 | € 96.520 | € 32.173 | € 0 | € 48.260 | € 0 | € 0 |
-| Ameland | € 0 | € 0 | € 5.048 | € 1.683 | € 0 | € 2.524 | € 0 | € 0 |
+| Ameland | € 0 | € 0 | € 12.058 | € 4.020 | € 0 | € 6.029 | € 0 | € 0 |
 | Amersfoort | € 0 | € 0 | € 201.263 | € 67.088 | € 0 | € 100.631 | € 0 | € 0 |
 | Amstelveen | € 0 | € 0 | € 112.883 | € 37.628 | € 0 | € 56.441 | € 0 | € 0 |
 | Amsterdam | € 0 | € 0 | € 1.311.913 | € 437.304 | € 0 | € 655.957 | € 0 | € 0 |
@@ -6651,12 +6651,12 @@ De voortgang van de Brede Regeling Combinatiefuncties wordt gemonitord en de imp
 | Roermond | € 0 | € 0 | € 107.137 | € 35.712 | € 0 | € 53.569 | € 0 | € 0 |
 | Roosendaal | € 0 | € 0 | € 130.966 | € 43.655 | € 0 | € 65.483 | € 0 | € 0 |
 | Rotterdam | € 0 | € 0 | € 1.158.664 | € 386.221 | € 0 | € 579.332 | € 0 | € 0 |
-| Rozendaal | € 0 | € 0 | € 1.481 | € 494 | € 0 | € 740 | € 0 | € 0 |
+| Rozendaal | € 0 | € 0 | € 8.045 | € 2.683 | € 0 | € 4.021 | € 0 | € 0 |
 | Rucphen | € 0 | € 0 | € 46.918 | € 15.639 | € 0 | € 23.459 | € 0 | € 0 |
 | Schagen | € 0 | € 0 | € 67.609 | € 22.536 | € 0 | € 33.805 | € 0 | € 0 |
 | Scherpenzeel | € 0 | € 0 | € 15.305 | € 5.102 | € 0 | € 7.653 | € 0 | € 0 |
 | Schiedam | € 0 | € 0 | € 143.981 | € 47.994 | € 0 | € 71.991 | € 0 | € 0 |
-| Schiermonnikoog | € 0 | € 0 | € 1.265 | € 422 | € 0 | € 632 | € 0 | € 0 |
+| Schiermonnikoog | € 0 | € 0 | € 12.060 | € 4.023 | € 0 | € 6.025 | € 0 | € 0 |
 | Schouwen-Duiveland | € 0 | € 0 | € 54.246 | € 18.082 | € 0 | € 27.123 | € 0 | € 0 |
 | 's-Gravenhage | € 0 | € 0 | € 867.764 | € 289.255 | € 0 | € 433.882 | € 0 | € 0 |
 | 's-Hertogenbosch | € 0 | € 0 | € 234.631 | € 78.210 | € 0 | € 117.316 | € 0 | € 0 |
@@ -6678,7 +6678,7 @@ De voortgang van de Brede Regeling Combinatiefuncties wordt gemonitord en de imp
 | Stichtse Vecht | € 0 | € 0 | € 87.845 | € 29.282 | € 0 | € 43.923 | € 0 | € 0 |
 | Súdwest-Fryslân | € 0 | € 0 | € 143.238 | € 47.746 | € 0 | € 71.619 | € 0 | € 0 |
 | Terneuzen | € 0 | € 0 | € 98.716 | € 32.905 | € 0 | € 49.358 | € 0 | € 0 |
-| Terschelling | € 0 | € 0 | € 6.728 | € 2.243 | € 0 | € 3.364 | € 0 | € 0 |
+| Terschelling | € 0 | € 0 | € 12.057 | € 4.020 | € 0 | € 6.025 | € 0 | € 0 |
 | Texel | € 0 | € 0 | € 21.186 | € 7.062 | € 0 | € 10.593 | € 0 | € 0 |
 | Teylingen | € 0 | € 0 | € 45.283 | € 15.094 | € 0 | € 22.641 | € 0 | € 0 |
 | Tholen | € 0 | € 0 | € 44.940 | € 14.980 | € 0 | € 22.470 | € 0 | € 0 |
@@ -6705,7 +6705,7 @@ De voortgang van de Brede Regeling Combinatiefuncties wordt gemonitord en de imp
 | Venray | € 0 | € 0 | € 73.631 | € 24.544 | € 0 | € 36.815 | € 0 | € 0 |
 | Vijfheerenlanden | € 0 | € 0 | € 94.049 | € 31.350 | € 0 | € 47.024 | € 0 | € 0 |
 | Vlaardingen | € 0 | € 0 | € 137.024 | € 45.675 | € 0 | € 68.512 | € 0 | € 0 |
-| Vlieland | € 0 | € 0 | € 1.792 | € 597 | € 0 | € 896 | € 0 | € 0 |
+| Vlieland | € 0 | € 0 | € 12.059 | € 4.017 | € 0 | € 6.029 | € 0 | € 0 |
 | Vlissingen | € 0 | € 0 | € 75.214 | € 25.071 | € 0 | € 37.607 | € 0 | € 0 |
 | Voerendaal | € 0 | € 0 | € 19.024 | € 6.341 | € 0 | € 9.512 | € 0 | € 0 |
 | Voorne aan Zee | € 0 | € 0 | € 108.905 | € 36.302 | € 0 | € 54.453 | € 0 | € 0 |
