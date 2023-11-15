@@ -4,7 +4,7 @@ identifier: "BWBR0036465"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2026-01-01"
-last_updated: "2023-02-10"
+last_updated: "2023-11-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036465"
 soort: "ministeriele-regeling-BES"
@@ -38,7 +38,7 @@ entry_into_force: "2016-12-20"
 
 ##### Artikel 1. Bezoldigingschalen
 
-De bezoldigingschalen voor de ambtenaren in dienst van de staat zijn per 1 januari 2023 zoals in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=1&z=2023-02-10&g=2023-02-10) bij deze regeling is vermeld.
+De bezoldigingschalen voor de ambtenaren in dienst van de staat zijn per 1 januari 2023 zoals in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=1&z=2023-11-15&g=2023-11-15) bij deze regeling is vermeld.
 
 ##### Artikel 2. Garantietreden
 
@@ -60,7 +60,7 @@ Vervallen
 
 ##### Artikel 5. Bezoldiging geestelijke
 
-In afwijking van [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2023-02-10&g=2023-02-10), bedraagt de bezoldiging voor de ambtenaren in dienst van de staat en werkzaam als geestelijke per 1 januari 2.023 USD 1.914.
+In afwijking van [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2023-11-15&g=2023-11-15), bedraagt de bezoldiging voor de ambtenaren in dienst van de staat en werkzaam als geestelijke per 1 januari 2.023 USD 1.914.
 
 ##### Artikel 6. Extra toelage IBTers etc
 
@@ -98,11 +98,11 @@ De vergoeding, bedoeld in [artikel 23b van het Besluit rechtspositie korps polit
 
 1. Deze regeling treedt in werking met ingang van 1 april 2015.
 
-2. De [artikelen 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2023-02-10&g=2023-02-10), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=2&z=2023-02-10&g=2023-02-10), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=3&z=2023-02-10&g=2023-02-10), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=4&z=2023-02-10&g=2023-02-10), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=5&z=2023-02-10&g=2023-02-10), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=10&z=2023-02-10&g=2023-02-10) werken terug tot en met 1 juli 2013.
+2. De [artikelen 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2023-11-15&g=2023-11-15), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=2&z=2023-11-15&g=2023-11-15), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=3&z=2023-11-15&g=2023-11-15), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=4&z=2023-11-15&g=2023-11-15), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=5&z=2023-11-15&g=2023-11-15), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=10&z=2023-11-15&g=2023-11-15) werken terug tot en met 1 juli 2013.
 
-3. De [artikelen 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2023-02-10&g=2023-02-10), en [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=5&z=2023-02-10&g=2023-02-10), werken terug tot en met 1 januari 2014.
+3. De [artikelen 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2023-11-15&g=2023-11-15), en [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=5&z=2023-11-15&g=2023-11-15), werken terug tot en met 1 januari 2014.
 
-4. [Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=6&z=2023-02-10&g=2023-02-10) werkt terug tot en met 1 januari 2015.
+4. [Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=6&z=2023-11-15&g=2023-11-15) werkt terug tot en met 1 januari 2015.
 
 ##### Artikel 13
 
@@ -114,35 +114,35 @@ Deze regeling wordt aangehaald als: Regeling bezoldiging Rijksambtenaren BES.
 
 * de garantietreden GRT16, GRT17 en GRT 18 zijn alleen van toepassing voor ambtenaren van wie de bezoldiging tot 1 juli 2013 was vastgesteld op een bezoldigingstrede, als bedoeld in [artikel 1, onder f, van het Bezoldigingsbesluit 1998 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028491&artikel=1), zoals dat tot die datum luidde, die voorzien was van de aanduiding ‘G.T.’, en voor de ambtenaren die tot 1 juli 2013 uitzicht hadden op een dergelijke bezoldigingstrede.
 
-## Bijlage 3. , behorend bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=3&z=2023-02-10&g=2023-02-10), van de Regeling bezoldiging Rijksambtenaren BES
+## Bijlage 3. , behorend bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=3&z=2023-11-15&g=2023-11-15), van de Regeling bezoldiging Rijksambtenaren BES
 
 Vervallen
 
-## Bijlage 4. , behorend bij [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=3&z=2023-02-10&g=2023-02-10), van de Regeling bezoldiging Rijksambtenaren BES
+## Bijlage 4. , behorend bij [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=3&z=2023-11-15&g=2023-11-15), van de Regeling bezoldiging Rijksambtenaren BES
 
 Vervallen
 
 ### Bezoldigingschalen Rijksambtenaren BES per 1 januari 2014
 
-## Bijlage 6. , behorend bij [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=3&z=2023-02-10&g=2023-02-10), van de Regeling bezoldiging Rijksambtenaren BES
+## Bijlage 6. , behorend bij [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=3&z=2023-11-15&g=2023-11-15), van de Regeling bezoldiging Rijksambtenaren BES
 
 Vervallen
 
 ### Inpastabel Rijksambtenaren BES met goede beoordeling 2013
 
-## Bijlage 8. , behorend bij [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=4&z=2023-02-10&g=2023-02-10), van de Regeling bezoldiging Rijksambtenaren BES
+## Bijlage 8. , behorend bij [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=4&z=2023-11-15&g=2023-11-15), van de Regeling bezoldiging Rijksambtenaren BES
 
 Vervallen
 
 ### Inpastabel Rijksambtenaren Dienst Justitiële Inrichtingen BES met goede beoordeling 2013
 
-## Bijlage 10. , behorend bij [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=4&z=2023-02-10&g=2023-02-10), van de Regeling bezoldiging Rijksambtenaren BES
+## Bijlage 10. , behorend bij [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=4&z=2023-11-15&g=2023-11-15), van de Regeling bezoldiging Rijksambtenaren BES
 
 Vervallen
 
 ### Inpastabel Rijksambtenaren Douane BES met goede beoordeling 2013
 
-## Bijlage 12. , behorend bij [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=5&z=2023-02-10&g=2023-02-10), van de Regeling bezoldiging Rijksambtenaren BES
+## Bijlage 12. , behorend bij [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=5&z=2023-11-15&g=2023-11-15), van de Regeling bezoldiging Rijksambtenaren BES
 
 Vervallen
 
@@ -298,7 +298,7 @@ Gelet op de [artikelen 1, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR00284
 
 Besluit:
 
-## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2023-02-10&g=2023-02-10) van de Regeling bezoldiging Rijksambtenaren BES
+## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2023-11-15&g=2023-11-15) van de Regeling bezoldiging Rijksambtenaren BES
 
 | **Schalen** |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -313,12 +313,12 @@ Besluit:
 | **7** | 1.163 | 1.286 | 1.465 | 1.664 | 1.885 | 2.136 | 2.420 | 2.748 | 3.118 | 3.538 | 4.056 | 4.641 | 5.307 | 6.071 | 6.937 | 7.706 | 8.437 |
 | **8** | 1.181 | 1.307 | 1.495 | 1.703 | 1.930 | 2.188 | 2.481 | 2.814 | 3.187 | 3.610 | 4.132 | 4.724 | 5.394 | 6.162 | 7.039 | 7.814 | 8.554 |
 | **9** | 1.198 | 1.329 | 1.526 | 1.742 | 1.975 | 2.243 | 2.541 | 2.880 | 3.256 | 3.682 | 4.209 | 4.805 | 5.481 | 6.255 | 7.135 | 7.922 | 8.674 |
-| **10** | 1.217 | 1.351 | 1.558 | 1.780 | 2.022 | 2.243 | 2.604 | 2.946 | 3.327 | 3.755 | 4.287 | 4.886 | 5.568 | 6.346 | 7.237 | 8.030 | 8.793 |
-| **11** | 1.235 | 1.373 | 1.587 | 1.820 | 2.067 | 2.298 | 2.663 | 3.010 | 3.394 | 3.827 | 4.363 | 4.969 | 5.654 | 6.439 | 7.335 | 8.136 | 8.912 |
-| **12** | 1.253 | 1.396 | 1.619 | 1.857 | 2.114 | 2.354 | 2.724 | 3.077 | 3.464 | 3.899 | 4.442 | 5.050 | 5.741 | 6.533 | 7.435 | 8.246 | 9.031 |
-| **13** | 1.269 | 1.417 | 1.649 | 1.896 | 2.160 | 2.410 | 2.786 | 3.142 | 3.535 | 3.969 | 4.518 | 5.133 | 5.829 | 6.642 | 7.536 | 8.354 | 9.150 |
-| **14** | 1.289 | 1.440 | 1.680 | 1.935 | 2.208 | 2.465 | 2.847 | 3.210 | 3.604 | 4.041 | 4.594 | 5.214 | 5.915 | 6.716 | 7.633 | 8.463 | 9.269 |
-| **15** | 1.306 | 1.460 | 1.714 | 1.973 | 2.255 | 2.520 | 2.906 | 3.275 | 3.673 | 4.114 | 4.672 | 5.297 | 6.001 | 6.810 | 7.734 | 8.571 | 9.388 |
+| **10** | 1.217 | 1.351 | 1.558 | 1.780 | 2.022 | 2.298 | 2.604 | 2.946 | 3.327 | 3.755 | 4.287 | 4.886 | 5.568 | 6.346 | 7.237 | 8.030 | 8.793 |
+| **11** | 1.235 | 1.373 | 1.587 | 1.820 | 2.067 | 2.354 | 2.663 | 3.010 | 3.394 | 3.827 | 4.363 | 4.969 | 5.654 | 6.439 | 7.335 | 8.136 | 8.912 |
+| **12** | 1.253 | 1.396 | 1.619 | 1.857 | 2.114 | 2.410 | 2.724 | 3.077 | 3.464 | 3.899 | 4.442 | 5.050 | 5.741 | 6.533 | 7.435 | 8.246 | 9.031 |
+| **13** | 1.269 | 1.417 | 1.649 | 1.896 | 2.160 | 2.465 | 2.786 | 3.142 | 3.535 | 3.969 | 4.518 | 5.133 | 5.829 | 6.642 | 7.536 | 8.354 | 9.150 |
+| **14** | 1.289 | 1.440 | 1.680 | 1.935 | 2.208 | 2.520 | 2.847 | 3.210 | 3.604 | 4.041 | 4.594 | 5.214 | 5.915 | 6.716 | 7.633 | 8.463 | 9.269 |
+| **15** | 1.306 | 1.460 | 1.714 | 1.973 | 2.255 | 2.576 | 2.906 | 3.275 | 3.673 | 4.114 | 4.672 | 5.297 | 6.001 | 6.810 | 7.734 | 8.571 | 9.388 |
 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | **Garantie Politie Treden** | **Garantie Politie Treden** | **Garantie Politie Treden** | **Garantie Politie Treden** | **Garantie Politie Treden** | **Garantie Politie Treden** | **Garantie Politie Treden** | **Garantie Politie Treden** | **Garantie Politie Treden** | **Garantie Politie Treden** | **Garantie Politie Treden** | **Garantie Politie Treden** | **Garantie Politie Treden** | **Garantie Politie Treden** | **Garantie Politie Treden** | **Garantie Politie Treden** | **Garantie Politie Treden** | **Garantie Politie Treden** |
 | **Schalen** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** | **13** | **14** | **15** | **16** | **17** |
@@ -365,25 +365,25 @@ Besluit:
 
 * de garantietreden GRT16, GRT17 en GRT 18 zijn alleen van toepassing voor ambtenaren van wie de bezoldiging tot 1 juli 2013 was vastgesteld op een bezoldigingstrede, als bedoeld in [artikel 1, onder f, van het Bezoldigingsbesluit 1998 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028491&artikel=1), zoals dat tot die datum luidde, die voorzien was van de aanduiding ‘G.T.’, en voor de ambtenaren die tot 1 juli 2013 uitzicht hadden op een dergelijke bezoldigingstrede.
 
-## Bijlage 7. , behorend bij [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=4&z=2023-02-10&g=2023-02-10), van de Regeling bezoldiging Rijksambtenaren BES
+## Bijlage 7. , behorend bij [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=4&z=2023-11-15&g=2023-11-15), van de Regeling bezoldiging Rijksambtenaren BES
 
 Vervallen
 
 ### Inpastabel Rijksambtenaren BES met goede beoordeling 2013
 
-## Bijlage 9. , behorend bij [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=4&z=2023-02-10&g=2023-02-10), van de Regeling bezoldiging Rijksambtenaren BES
+## Bijlage 9. , behorend bij [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=4&z=2023-11-15&g=2023-11-15), van de Regeling bezoldiging Rijksambtenaren BES
 
 Vervallen
 
 ### Inpastabel Rijksambtenaren Dienst Justitiële Inrichtingen BES met goede beoordeling 2013
 
-## Bijlage 11. , behorend bij [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=5&z=2023-02-10&g=2023-02-10), van de Regeling bezoldiging Rijksambtenaren BES
+## Bijlage 11. , behorend bij [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=5&z=2023-11-15&g=2023-11-15), van de Regeling bezoldiging Rijksambtenaren BES
 
 Vervallen
 
 ### Bezoldiging Geestelijken BES per 1 januari 2013
 
-## Bijlage 13. , behorend bij [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2023-02-10&g=2023-02-10), van de Regeling bezoldiging Rijksambtenaren BES
+## Bijlage 13. , behorend bij [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2023-11-15&g=2023-11-15), van de Regeling bezoldiging Rijksambtenaren BES
 
 Vervallen
 
@@ -479,11 +479,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 2. behorend bij [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2023-02-10&g=2023-02-10), van de Regeling bezoldiging Rijksambtenaren BES
+## Bijlage 2. behorend bij [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2023-11-15&g=2023-11-15), van de Regeling bezoldiging Rijksambtenaren BES
 
 Vervallen
 
-## Bijlage 5. , behorend bij [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=3&z=2023-02-10&g=2023-02-10), van de Regeling bezoldiging Rijksambtenaren BES
+## Bijlage 5. , behorend bij [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=3&z=2023-11-15&g=2023-11-15), van de Regeling bezoldiging Rijksambtenaren BES
 
 Vervallen
 
