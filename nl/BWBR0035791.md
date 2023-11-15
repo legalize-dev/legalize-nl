@@ -4,7 +4,7 @@ identifier: "BWBR0035791"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-24"
-last_updated: "2023-03-01"
+last_updated: "2023-11-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035791"
 soort: "ministeriele-regeling"
@@ -1196,19 +1196,17 @@ Aangewezen voor Defensie ten behoeve van militaire omroep voor in Nederland gele
 
 Vanaf 1 juni 2022 tot 1 september 2025 is 1/12e deel van de capaciteit van de frequentieruimte van een frequentieblok als bedoeld in de rechterkolom van de tabellen in de nationale voetnoten HOL004 en HOL005, gekoppeld met de frequentieruimte behorend bij de analoge commerciële vergunningen, bedoeld in de bij die rechterkolom behorende linkerkolom van de tabellen in de nationale voetnoten HOL004 en HOL005, ten behoeve van in elk geval het ongewijzigd en gelijktijdig digitaal uitzenden van de radioprogramma’s die op grond van de analoge commerciële vergunningen worden uitgezonden. Daarbij is de in de vorige volzin bedoelde frequentieruimte in de allotments HOL2401, HOL2402, HOL2403, HOL2404, HOL2405, HOL2406, HOL2407 bestemd voor een commerciële middengolfomroep of niet-landelijke commerciële radio-omroepen die voor elke vergunning voor 1/12e deel van de capaciteit van een frequentieblok als bedoeld in de rechterkolom van de tabellen in de nationale voetnoten HOL004 en HOL005, tevens een vergunning voor commerciële middengolfomroep onderscheidenlijk niet-landelijke commerciële radio-omroep houden of gaan houden.
 
-Het deel van de frequentieruimte, bedoeld in de rechterkolom van de tabellen in nationale voetnoten HOL004 en HOL005, dat gekoppeld is aan vergunningen voor commerciële middengolfomroep onderscheidenlijk commerciële niet-landelijke FM-omroep, wordt in afwijking van de kolom Verdeelmechanisme van de in hoofdstuk 10 opgenomen Frequentietabel op volgorde van binnenkomst verleend.
+Voor het deel van de frequentieruimte, bedoeld in de rechterkolom van de tabellen in nationale voetnoten HOL004 en HOL005, dat gekoppeld is aan vergunningen voor commerciële middengolfomroep onderscheidenlijk commerciële niet-landelijke FM-omroep, geldt tot en met 31 augustus 2025, in afwijking van de kolom Verdeelmechanisme van de in hoofdstuk 10 opgenomen Frequentietabel, vergunningverlening op volgorde van binnenkomst van de aanvraag.
 
-Bestemming landelijke commerciële omroep voor de periode vanaf 1 september 2022 tot 1 september 2023
+Vervallen.
 
-Vanaf 1 september 2022 tot 1 september 2023 is 1/9e deel van de capaciteit van de frequentieruimte van het frequentieblok 11C, bedoeld in nationale voetnoot HOL007A, gekoppeld met de frequentieruimte behorend bij één FM-vergunning voor landelijke commerciële radio-omroep ten behoeve van in elk geval het ongewijzigd en gelijktijdig digitaal uitzenden van de radioprogramma’s die op grond van de landelijke commerciële FM-vergunningen worden uitgezonden.
-
-Voor de volgende frequentieband geldt tot en met 31 augustus 2023 vergunningverlening aan landelijke commerciële omroep op volgorde van binnenkomst van de aanvraag:
+Vervallen.
 
 Tot en met 31 augustus 2024 zijn de frequentieblokken in de onderstaande tabel en afbeelding bestemd voor digitale radio-omroep.
 
-### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
+1 De frequentieblokken 6B en 8A zijn vanaf 1 september 2022 beschikbaar voor digitale radio in laag 6.
 
-2 De frequentieblokken 6C en 8D zijn van 1 juni 2022 tot 1 september 2022 tijdelijk bestemd voor digitale radio in laag 6.
+### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
 
 Naar aanleiding van de internationale coördinatie is het mogelijk dat voor een aantal ingekleurde geografische gebieden in de bovenstaande tabel de kanaalnummers van het frequentieblok gewijzigd worden.
 
@@ -1228,7 +1226,7 @@ tot bedrijven die GNSS toepassingen ontwerpen, testen, inbouwen of onderhouden.
 
 CGC’s dienen integraal onderdeel uit te maken van een satellietsysteem en dienen onder controle te staan van het satellietcapaciteits- en netwerkbeheersmechanisme.
 
-Verklaring van in de Nationale Frequentietabel gebruikte afkortingen en begrippen, anders dan ITU diensten25Uitleg over de begrippen kan ook worden gevonden op www.telecomabc.nl en tevens in het Nationaal Frequentieregister (NFR), zie http://www.agentschaptelecom.nl/onderwerpen/frequentiemanagement/nationaal-frequentieregister. / **Explanation of abbreviations and notions as used in the frequency table, other than ITU radio services.**
+CGC’s dienen integraal onderdeel uit te maken van een satellietsysteem en dienen onder controle te staan van het satellietcapaciteits- en netwerkbeheersmechanisme.
 
 Verklaring van in de Nationale Frequentietabel gebruikte afkortingen en begrippen, anders dan ITU diensten25Uitleg over de begrippen kan ook worden gevonden op www.telecomabc.nl en tevens in het Nationaal Frequentieregister (NFR), zie http://www.agentschaptelecom.nl/onderwerpen/frequentiemanagement/nationaal-frequentieregister. / **Explanation of abbreviations and notions as used in the frequency table, other than ITU radio services.**
 
@@ -1372,9 +1370,9 @@ Kerktelefonie – Systeem bestemd voor het integraal lokaal audio uitzenden van 
 
 **NFR** – Nationaal Frequentie Register, zie http://www.agentschaptelecom.nl/algemeen/frequentiemanagement/nationaal-frequentieregister
 
-### Annex 5, Summary of this Dutch Frequency Plan
+**NIB** Non Interferentie Basis / Non Interferentie Base / Radiodienst die op basis van het NIB-principe gebruik mag maken van een frequentieband betekent dat deze dienst geen storing mag veroorzaken aan de radiodiensten met een primaire of secundaire status en bovendien storing moet accepteren.
 
-**Niet-gecoördineerde satellietgrondstations**
+### Annex 5, Summary of this Dutch Frequency Plan
 
 Voor niet-gecoördineerde satellietgrondstations geldt dat het gebruik van frequentieruimte niet internationaal is afgestemd door toepassing van de coördinatie procedure van artikel 9 van de Radio Regulations. De gebruiker kan om die reden geen ongestoord frequentiegebruik claimen. Ook geldt voor deze grondstations dat zij geen verstoring mogen veroorzaken aan andere primaire gebruikers in de band of aan satellietgrondstations waarvoor wèl de internationale coördinatieprocedure (art. 9 RR) is doorlopen. Niet-gecoördineerde grondstations staan onder controle van een satellietnetwerk. Voorbeelden van niet-gecoördineerde satellietgrondstations zijn VSAT terminals, Low en High e.i.r.p. Satellite terminals (LEST & HEST) en satellietgrondstations op mobiele platforms (bijvoorbeeld aan boord van schepen en vliegtuigen, ESOMPs)
 
@@ -1432,7 +1430,7 @@ Vaste verbindingen worden ook wel straalverbindingen genoemd. Hierbij wordt gebr
 
 **WRC –** **World Radio Conference**
 
-The main part of this decree is the frequency table (chapter 10). It contains an overview of present allocations, assignments and designations in the Netherlands. The chapters preceding the table provide an introduction, an explanation and background.
+**WRC –** **World Radio Conference**
 
 This Dutch frequency plan, edition 2014 (NFP2014) is a fully revised decree document of the last National Frequency Plan, edition 2005 (NFP2005). More limited changes of the frequency table have been published, on an average half-yearly basis, as interim changes since the NFP2005.
 
@@ -1440,15 +1438,11 @@ The main part of this decree is the frequency table (chapter 10). It contains an
 
 The Dutch Frequency Plan is special in an international sense in that it also indicates the assignment rules per band. Most countries publish these assignment rules in separate documents.
 
-Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
-
-**NIB** Non Interferentie Basis / Non Interferentie Base / Radiodienst die op basis van het NIB-principe gebruik mag maken van een frequentieband betekent dat deze dienst geen storing mag veroorzaken aan de radiodiensten met een primaire of secundaire status en bovendien storing moet accepteren.
-
-### Annex 5, Summary of this Dutch Frequency Plan
-
 This frequency decree 2014 implements several parts of the Dutch frequency policy as published in the radio spectrum policy memorandum 2005.
 
 Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
+
+**Niet-gecoördineerde satellietgrondstations**
 
 ### Annex 5, Summary of this Dutch Frequency Plan
 
@@ -1456,23 +1450,27 @@ This frequency plan mentions, where possible, the English terms and abbreviation
 
 Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
 
-1 De frequentieblokken 6B en 8A zijn vanaf 1 september 2022 beschikbaar voor digitale radio in laag 6.
+### Annex 5, Summary of this Dutch Frequency Plan
+
+An important new feature of this frequency plan is that frequency use for vital government tasks is assigned on the condition that its use has been justified. This concerns tasks like policing, public order and state security, rescue services, air traffic management, vessel traffic control, defence, public service broadcasting, and scientific use. In the table this is indicated by: ‘Aangewezen voor het ministerie van ...’ The ministries concerned have each produced a spectrum need justification plan (BehoefteOnderbouwingsPlan/BOP).
+
+Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
+
+2 De frequentieblokken 6C en 8D zijn van 1 juni 2022 tot 1 september 2022 tijdelijk bestemd voor digitale radio in laag 6.
 
 ### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
 
 ### Annex 5, Summary of this Dutch Frequency Plan
 
-An important new feature of this frequency plan is that frequency use for vital government tasks is assigned on the condition that its use has been justified. This concerns tasks like policing, public order and state security, rescue services, air traffic management, vessel traffic control, defence, public service broadcasting, and scientific use. In the table this is indicated by: ‘Aangewezen voor het ministerie van ...’ The ministries concerned have each produced a spectrum need justification plan (BehoefteOnderbouwingsPlan/BOP).
-
 In case of a licence-free spectrum (‘zonder vergunning’), the Dutch usage restrictions are published in the [Regeling gebruik van frequentieruimte zonder vergunning 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023553). This decree mirrors, among other parts, ERC Recommendation 70-03, relating to the Use of Short Range Devices (SRD).
+
+In Annex 4, indicated by HOL[...], a list is provided of the Dutch national footnotes, with extra information on bands e.g. use conditions, on regionally admitted and restricted use, on coupling with particular other bands, etc.
 
 Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
 
 ### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
 
 ### Annex 5, Summary of this Dutch Frequency Plan
-
-In Annex 4, indicated by HOL[...], a list is provided of the Dutch national footnotes, with extra information on bands e.g. use conditions, on regionally admitted and restricted use, on coupling with particular other bands, etc.
 
 In addition to this Frequency plan, a Frequency Register is also available and largely accessible in English. In this database the entire Dutch national allocation table can be consulted on assignments, usage conditions and radio interfaces. See https://loket.at-ez.nl/fpat/content/select_language.do?lang=en
 
@@ -1480,11 +1478,13 @@ The procedure for changing this decree has a duration of approximately five mont
 
 For more information please consult the names and addresses in the colophon.
 
+**Lijst met belangrijke links:**
+
 Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
 
 ### Annex 5, Summary of this Dutch Frequency Plan
 
-**Lijst met belangrijke links:**
+**Colofon**
 
 Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
 
@@ -1604,8 +1604,6 @@ The downlinks for a passive radiocommunication service in which space crafts or 
 
 ### Annex 5, Summary of this Dutch Frequency Plan
 
-**Colofon**
-
 Dit is een uitgave van Ministerie van Economische Zaken
 
 Redactie
@@ -1625,6 +1623,8 @@ Postbus 450
 9700 AL Groningen
 
 Telefoon (050) 587 74 44
+
+Internet: www.agentschaptelecom.nl
 
 Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
 
@@ -1650,8 +1650,6 @@ Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrok
 
 ### Annex 5, Summary of this Dutch Frequency Plan
 
-Internet: www.agentschaptelecom.nl
-
 Email:info@agentschaptelecom.nl
 
 Directoraat-Generaal Energie, Telecom en Mededinging
@@ -1670,6 +1668,8 @@ Internet http://www.rijksoverheid.nl/frequentiebeleid
 
 Email: frequenties@minez.nl
 
+Email: frequenties@minez.nl
+
 Telefoon (070) 379 89 11
 
 Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
@@ -1711,6 +1711,10 @@ Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrok
 Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
 
 ### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
+
+### Annex 5, Summary of this Dutch Frequency Plan
+
+Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
 
 ### Annex 5, Summary of this Dutch Frequency Plan
 
