@@ -4,7 +4,7 @@ identifier: "BWBR0041860"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2023-05-01"
+last_updated: "2023-11-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041860"
 soort: "ministeriele-regeling"
@@ -46,45 +46,57 @@ In dit besluit wordt verstaan onder:
 
 - **Minister:** Minister van Onderwijs, Cultuur en Wetenschap;
 
-- **commissie:** Tijdelijke adviescommissie regionaal investeringsfonds mbo, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041860&artikel=2&z=2023-05-01&g=2023-05-01);
-
-- **regeling:** [Regeling regionaal investeringsfonds mbo 2019–2022](https://wetten.overheid.nl/jci1.3:c:BWBR0041553).
+- **commissie:** Tijdelijke adviescommissie regionaal investeringsfonds mbo, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041860&artikel=2&z=2023-11-15&g=2023-11-15).
 
 ##### Artikel 2. Instelling commissie
 
 1. Er is een Tijdelijke adviescommissie regionaal investeringsfonds mbo.
 
-2. De commissie wordt ingesteld met ingang van 1 januari 2019 en wordt opgeheven met ingang van 1 januari 2026.
+2. De commissie wordt ingesteld met ingang van 1 januari 2019 en wordt opgeheven met ingang van 1 januari 2028.
 
-3. Leden van de commissie zijn ook na 1 januari 2026 te consulteren door de Minister in verband met de rechten en plichten die voortvloeien uit de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041860&artikel=3&z=2023-05-01&g=2023-05-01) genoemde taken van de commissie.
+3. Leden van de commissie zijn ook na 1 januari 2028 te consulteren door de Minister in verband met de rechten en plichten die voortvloeien uit de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041860&artikel=3&z=2023-11-15&g=2023-11-15) genoemde taken van de commissie.
 
-##### Artikel 3. Taken
+##### Artikel 3. Taken commissie Regeling regionaal investeringsfonds mbo 2019–2022
 
-1. De commissie is belast met het beoordelen van de subsidieaanvragen, bedoeld in [artikel 21 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&artikel=21), en de voortgangsrapportages, bedoeld in [artikel 22 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&artikel=22), alsmede de overige taken die haar zijn opgedragen op grond van de [paragrafen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&paragraaf=3) en [4 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&paragraaf=4).
+1. De commissie is belast met:
 
-2. De commissie brengt per aanvraagperiode, als bedoeld in [artikel 19 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&artikel=19), een advies uit aan de Minister over de subsidieaanvragen, bedoeld in [artikel 20, tweede lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&artikel=20). Dit advies bevat:
+- a. het beoordelen van de subsidieaanvragen, bedoeld in [artikel 21 van de Regeling regionaal investeringsfonds mbo 2019–2022](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&artikel=21), en het adviseren van de Minister hierover;
 
-- a. voor iedere aanvraag een beschrijving per criterium dat als voldoende of als onvoldoende is beoordeeld;
+- b. het beoordelen van de voortgangsrapportages, bedoeld in [artikel 22 van de Regeling regionaal investeringsfonds mbo 2019–2022](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&artikel=22), en het adviseren van de Minister hierover; en
 
-- b. een rangschikking van de voldoende beoordeelde aanvragen, bedoeld in [artikel 23 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&artikel=23); en
+- c. de overige taken die haar zijn opgedragen op grond van de [paragrafen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&paragraaf=3) en [4 van de Regeling regionaal investeringsfonds mbo 2019–2022](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&paragraaf=4).
+
+2. De commissie brengt het advies, bedoeld in het eerste lid, onder a, uit binnen dertien weken na afloop van elke aanvraagperiode als bedoeld in [artikel 19, eerste lid, van Regeling regionaal investeringsfonds mbo 2019–2022](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&artikel=19). Dit advies bevat:
+
+- a. voor iedere aanvraag een beoordeling per criterium, bedoeld in [artikel 21, derde of vierde lid, van de Regeling regionaal investeringsfonds mbo 2019–2022](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&artikel=21), als voldoende of als onvoldoende;
+
+- b. een rangschikking van de als voldoende beoordeelde aanvragen, bedoeld in [artikel 23 van de Regeling regionaal investeringsfonds mbo 2019–2022](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&artikel=23); en
 
 - c. een draagkrachtige motivering per beoordeling.
 
-3. De commissie brengt per voortgangsrapportage een verslag uit aan de Minister. Dit verslag bevat:
+3. De commissie brengt het advies, bedoeld in het eerste lid, onder b, uit binnen de termijn, genoemd in [artikel 28, tweede lid, van de Regeling regionaal investeringsfonds mbo 2019–2022](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&artikel=28). Dit advies bevat:
 
-- a. een beoordeling als bedoeld in [artikel 22, derde en vierde lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&artikel=22);
+- a. voor iedere voortgangsrapportage een beoordeling als bedoeld in [artikel 22, derde en vierde lid, van de Regeling regionaal investeringsfonds mbo 2019–2022](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&artikel=22);
 
-- b. een advies als bedoeld in [artikel 22, vijfde lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&artikel=22); en
+- b. voor iedere voortgangsrapportage de onderwerpen, genoemd in [artikel 22, vijfde lid, van de Regeling regionaal investeringsfonds mbo 2019–2022](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&artikel=22); en
 
-- c. indien toepassing wordt gegeven aan [artikel 22, vijfde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&artikel=22), een draagkrachtige motivering bij het advies, als bedoeld in het vorige onderdeel.
+- c. indien toepassing wordt gegeven aan [artikel 22, vijfde lid, onderdeel c, van de Regeling regionaal investeringsfonds mbo 2019–2022](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&artikel=22), een draagkrachtige motivering bij het advies.
 
-4. De commissie brengt per kalenderjaar een verslag uit over de wijze waarop de beoordelingen, bedoeld in [artikel 20 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&artikel=20), hebben plaatsgevonden.
+4. De commissie brengt per kalenderjaar een verslag uit over de wijze waarop de beoordelingen van de subsidieaanvragen en voortgangsrapportages hebben plaatsgevonden.
 
-##### Artikel 4. Termijnen
+##### Artikel 4. Taken commissie Regeling regionaal investeringsfonds mbo 2024–2027
 
-1. De commissie voert de taken met betrekking tot de subsidieaanvragen, bedoeld in [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&artikel=20), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&artikel=21) en [23 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&artikel=23), telkens na afloop van een aanvraagperiode, als bedoeld in [artikel 19 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&artikel=19), binnen dertien weken uit. Indien toepassing wordt gegeven aan artikel 21, zesde lid, van de regeling hanteert de commissie een termijn van tien werkdagen.
+1. De commissie is belast met het beoordelen van de subsidieaanvragen, bedoeld in [artikel 19 van de Regeling regionaal investeringsfonds mbo 2024–2027](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&artikel=19), en het adviseren van de Minister hierover.
 
-2. De commissie hanteert voor de taken, bedoeld in [artikel 22 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&artikel=22), de termijnen, bedoeld in [artikel 28, tweede lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&artikel=28).
+2. De commissie brengt het advies, bedoeld in het eerste lid, uit binnen dertien weken na afloop van elke aanvraagperiode als bedoeld in [artikel 17, eerste lid, van de Regeling regionaal investeringsfonds mbo 2024–2027](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&artikel=17). Dit advies bevat:
+
+- a. voor iedere aanvraag een beoordeling per criterium, bedoeld in [artikel 19, derde of vierde lid, van de Regeling regionaal investeringsfonds mbo 2024–2027](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&artikel=19), als voldoende of als onvoldoende;
+
+- b. een rangschikking van de voldoende beoordeelde aanvragen, bedoeld in [artikel 20 van de Regeling regionaal investeringsfonds mbo 2024–2027](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&artikel=20); en
+
+- c. een draagkrachtige motivering per beoordeling.
+
+3. De commissie brengt per kalenderjaar een verslag uit over de wijze waarop de beoordelingen van de subsidieaanvragen hebben plaatsgevonden.
 
 ##### Artikel 5. Samenstelling, benoeming en ontslag
 
@@ -156,13 +168,19 @@ De commissie verstrekt aan de Minister desgevraagd de door hem gewenste inlichti
 
 3. Een commissielid ontvangt de volgende vergoeding:
 
-- a. voor het beoordelen van een subsidieaanvraag als bedoeld in [artikel 21 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&artikel=21), respectievelijk het beoordelen van een voortgangsrapportage als bedoeld in [artikel 22 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&artikel=22): blijkend uit de taakverdeling tussen de commissieleden;
+- a. voor het beoordelen van een subsidieaanvraag als bedoeld in [artikel 21 van de Regeling regionaal investeringsfonds mbo 2019–2022](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&artikel=21) of [artikel 19 van de Regeling regionaal investeringsfonds mbo 2024–2027](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&artikel=19):
 
-- 1°. één dagdeel voor het bestuderen van de stukken; en
+- 1°. twee dagdelen voor het bestuderen van de stukken; en
 
-- 2°. één dagdeel voor het bijwonen van de presentatie, bedoeld in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&artikel=21), respectievelijk [artikel 22, tweede lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&artikel=22),
+- 2°. één dagdeel voor het bijwonen van de mondelinge toelichting, bedoeld in [artikel 21, tweede lid, van de Regeling regionaal investeringsfonds mbo 2019–2022](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&artikel=21) of [artikel 19, tweede lid, van de Regeling regionaal investeringsfonds mbo 2024–2027](https://wetten.overheid.nl/jci1.3:c:BWBR0048883&artikel=19), blijkend uit de taakverdeling tussen de commissieleden;
 
-- b. per aanvraagperiode één dagdeel voor het uitbrengen van advies aan de Minister.
+- b. voor het beoordelen van een voortgangsrapportage als bedoeld in [artikel 22 van de Regeling regionaal investeringsfonds mbo 2019–2022](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&artikel=22):
+
+- 1°. twee dagdelen voor het bestuderen van de stukken; en
+
+- 2°. één dagdeel voor het bijwonen van het gesprek of het bezoek aan het project, bedoeld in [artikel 22, tweede lid, van de Regeling regionaal investeringsfonds mbo 2019–2022](https://wetten.overheid.nl/jci1.3:c:BWBR0041553&artikel=22), blijkend uit de taakverdeling tussen de commissieleden;
+
+- c. per aanvraagperiode één dagdeel voor het uitbrengen van advies aan de Minister.
 
 4. Naast de vergoeding in het derde lid, kan de voorzitter in overleg met het ministerie ten hoogste twee dagdelen per commissielid reserveren voor werkzaamheden van de commissie betreffende voorbereiding en evaluatie.
 
@@ -182,10 +200,10 @@ De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden d
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 1 januari 2019.
 
-2. Dit besluit vervalt met ingang van 1 januari 2026.
+2. Dit besluit vervalt met ingang van 1 januari 2028.
 
 ##### Artikel 15. Citeertitel
 
-Dit besluit wordt aangehaald als: Instellingsbesluit Tijdelijke adviescommissie regionaal investeringsfonds mbo 2019–2022.
+Dit besluit wordt aangehaald als: Instellingsbesluit Tijdelijke adviescommissie regionaal investeringsfonds mbo.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.
