@@ -4,7 +4,7 @@ identifier: "BWBR0002170"
 country: "nl"
 rank: "wet"
 publication_date: "2023-11-16"
-last_updated: "2023-07-01"
+last_updated: "2023-11-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002170"
 soort: "wet"
@@ -68,7 +68,7 @@ Er is een Centrale Raad van Beroep, gevestigd te Utrecht.
 
 Het bepaalde bij en krachtens de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&afdeling=1), [1A](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&afdeling=1a), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&afdeling=2) en [6 van hoofdstuk 2 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&afdeling=6) is, met uitzondering van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=3), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=9), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=11), [20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=20), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=21), [21b](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=21b), [21c](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=21c) en [23a](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=23a), van overeenkomstige toepassing op de Centrale Raad van Beroep, met dien verstande dat:
 
-- a. het bestuur bestaat uit drie leden, waaronder de voorzitter, waarbij geldt dat twee leden, waaronder de voorzitter, leden met rechtspraak belast van de Centrale Raad van Beroep als bedoeld in [artikel 2, tweede lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0002170&titeldeel=I&artikel=2&z=2023-07-01&g=2023-07-01), zijn;
+- a. het bestuur bestaat uit drie leden, waaronder de voorzitter, waarbij geldt dat twee leden, waaronder de voorzitter, leden met rechtspraak belast van de Centrale Raad van Beroep als bedoeld in [artikel 2, tweede lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0002170&titeldeel=I&artikel=2&z=2023-11-16&g=2023-11-16), zijn;
 
 - b. de voorzitter onderscheidenlijk het andere rechterlijk lid gedurende zijn benoemingsduur als voorzitter onderscheidenlijk ander rechterlijk lid, in plaats van zijn salaris overeenkomstig het bepaalde bij en krachtens de [artikelen 1ab](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=1ab) en [7 van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=7), een bij algemene maatregel van bestuur vast te stellen salaris behorende bij de vervulling van de functie van voorzitter onderscheidenlijk ander rechterlijk lid ontvangt;
 
@@ -235,6 +235,18 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 ##### Artikel 3a
 
 De Centrale Raad van Beroep vormt en bezet op voorstel van de president grote kamers. Deze bestaan uit vijf leden, van wie een als voorzitter optreedt.
+
+## Titel II. Slotbepalingen
+
+## Bijlage. bij de Beroepswet
+
+Vervallen
+
+Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 4a
+
+De leden met rechtspraak belast worden voor de overeenkomstige toepassing van [artikel 54a van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=54a) gelijkgesteld met een rechterlijk ambtenaar als bedoeld in [artikel 1, onderdeel b, onder 2° en 3°, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=1).
 
 ## Titel II. Slotbepalingen
 
