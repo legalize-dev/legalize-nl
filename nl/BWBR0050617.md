@@ -4,7 +4,7 @@ identifier: "BWBR0050617"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2023-07-01"
+last_updated: "2023-11-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050617"
 soort: "wet"
@@ -110,13 +110,9 @@ Wijzigt de Invorderingswet 1990.
 
 Wijzigt de Pensioenwet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XIV
 
 Wijzigt de Wet verplichte beroepspensioenregeling.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XV
 
