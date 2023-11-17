@@ -4,7 +4,7 @@ identifier: "BWBR0041941"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-07"
-last_updated: "2023-06-01"
+last_updated: "2023-11-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041941"
 soort: "ministeriele-regeling"
@@ -64,49 +64,25 @@ In dit besluit wordt verstaan onder:
 
 2. De Commissie sectorplan Bèta en Techniek bestaat uit een Kamer Bèta en een Kamer Techniek.
 
-3. De Commissie sectorplan Bèta en Techniek heeft tot taak:
-
-- a. het beoordelen van de concept-sectorbeelden bèta en techniek op basis van randvoorwaarden zoals genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&artikel=5&z=2022-11-18&g=2023-06-01), nader omschreven in de toelichting. De Kamer Bèta beoordeelt het concept-sectorbeeld bèta en de Kamer Techniek beoordeelt het concept-sectorbeeld techniek. De commissie brengt hierover voor 28 januari 2019 advies uit aan de minister;
-
-- b. na de vaststelling van de concept-sectorbeelden bèta en techniek door de minister, de minister adviseren op basis van plannen van faculteiten over de verdeling van middelen vanuit de eerste geldstroom zoals genoemd in de tabel van de toelichting over de in de sectorbeelden genoemde deelnemende faculteiten;
-
-- c. bij beide adviezen te betrekken de mate van aansluiting van de tweede geldstroom competitie op de met de eerste geldstroom gefinancierde activiteiten.
+3. De Commissie sectorplan Bèta en Techniek heeft taken voor het sectorplan 2018–2024 en voor het sectorplan 2022–2028, zoals omschreven in respectievelijk [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&hoofdstuk=2&z=2023-11-17&g=2023-11-17) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&hoofdstuk=3&z=2023-11-17&g=2023-11-17).
 
 ##### Artikel 3. Commissie sectorplan SSH
 
 1. Er is een Commissie sectorplan Social Sciences and Humanities, aangeduid als Commissie sectorplan SSH.
 
-2. De Commissie sectorplan SSH heeft tot taak:
+2. De Commissie sectorplan SSH heeft taken voor het sectorplan 2018–2024 en voor het sectorplan 2022–2028, zoals omschreven in respectievelijk [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&hoofdstuk=2&z=2023-11-17&g=2023-11-17) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&hoofdstuk=3&z=2023-11-17&g=2023-11-17).
 
-- a. het beoordelen van het concept-sectorbeeld SSH op basis van randvoorwaarden zoals genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&artikel=5&z=2022-11-18&g=2023-06-01), nader omschreven in de toelichting. De commissie brengt hierover voor 28 januari 2019 advies uit aan de minister;
+##### Artikel 4. Commissie sectorplan MGW
 
-- b. na de vaststelling van het concept-sectorbeeld SSH door de minister, de minister adviseren op basis van de plannen van faculteiten over de verdeling van middelen vanuit de eerste geldstroom zoals genoemd in de tabel van de toelichting over de in de sectorbeelden genoemde deelnemende faculteiten;
+1. Er is een Commissie sectorplan Medische en Gezondheidswetenschappen, aangeduid als de Commissie sectorplan MGW.
 
-- c. bij beide adviezen te betrekken de mate van aansluiting van de tweede geldstroom competitie op de met de eerste geldstroom gefinancierde activiteiten.
-
-##### Artikel 4. Nadere uitwerking van taken
-
-De commissies hebben voorts tot taak:
-
-- a. bij de advisering zoals bedoeld in [artikel 2, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&artikel=2&z=2022-11-18&g=2023-06-01), en [artikel 3, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&artikel=3&z=2022-11-18&g=2023-06-01), de plannen van de in de sectorbeelden genoemde faculteiten te toetsen op kwaliteit. De commissies kunnen gebruik maken van een verdeelsleutel uitgaande van een basisfinanciering per deelnemende faculteit met een bandbreedte afhankelijk van de kwaliteit van de plannen. Hierbij wordt uitgegaan van het budget zoals bedoeld in de tabel in de toelichting. De plannen van faculteiten worden getoetst aan de doelstellingen zoals geformuleerd in de sectorbeelden. Aangezien de sectorbeelden opgesteld zijn aan de hand randvoorwaarden zoals genoemd in de toelichting, zullen een aantal van deze randvoorwaarden ook terugkomen in de plannen van faculteiten.
-
-- b. Gedurende de looptijd van het sectorplan te bevorderen dat de doelen die de faculteiten zich hebben gesteld tijdig en volledig behaald worden, waarbij de commissies zelf vaststellen hoe zij dit willen bevorderen. Deze doelen zijn beschreven in de sectorbeelden en de faculteitsplannen en omvatten onder meer het bevorderen van samenwerking en profilering, (gender)diversiteit en het aantrekken en behoud van (nieuw) wetenschappelijk talent middels vaste contracten. Hierbij de observaties mee te nemen in de adviezen van de commissies aan de minister ten tijde van de tussentijdse evaluatie en de eindevaluatie, zoals genoemd in artikel 4 resp. lid c en d.
-
-- c. na drie jaar, vóór 1 april 2022, een tussentijdse evaluatie uit te voeren van de door de minister gefinancierde activiteiten vanuit de sectorbeelden en de minister hierover te adviseren vóór 1 juni 2022. De commissie adviseert de minister daarbij ook over de mate van aansluiting van de tweede geldstroom competitie op de met de eerste geldstroom gefinancierde activiteiten. De minister besluit of de middelen ongewijzigd aan de faculteiten worden toegekend voor de tweede periode van drie jaar (vierde tot en met zesde jaar) of dat inhoudelijk accenten worden verlegd waarbij de middelen mogelijk anders worden verdeeld over de betrokken faculteiten.
-
-- d. vóór 1 april 2025 een eindevaluatie uit te voeren en hierover vóór 1 juni 2025 een advies aan de minister uit te brengen. Bij de evaluatie te betrekken:
-
-- (i). of het structureel indalen van de middelen – zie tabel in de toelichting – in de rijksbijdrage gerechtvaardigd is. Hiervoor zullen de commissies eerst bepalen welke investeringen van faculteiten gezien worden als vaste aanstellingen en/of structurele investeringen en welke niet.
-
-- (ii). in hoeverre de calls die met tweede geldstroom middelen – zie tabel in toelichting – zijn uitgezet aansluiten op de zwaartepunten waar via de rijksbijdrage in geïnvesteerd wordt.
-
-- (iii). in het advies te betrekken op welke wijze de eerste geldstroom middelen worden ingezet voor de betreffende sectoren.
+2. De Commissie sectorplan MGW heeft taken voor het sectorplan 2022–2028, zoals omschreven in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&hoofdstuk=3&z=2023-11-17&g=2023-11-17).
 
 ##### Artikel 5. Hoofdlijnen taken Commissie sectorplan Bèta en Techniek 2018–2024
 
 De Commissie sectorplan Bèta en Techniek heeft voor de periode van 2018–2024 op hoofdlijnen tot taak:
 
-- a. het beoordelen van de concept-sectorbeelden bèta en techniek 2018–2024 op basis van randvoorwaarden zoals bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&hoofdstuk=2&artikel=8&z=2023-11-17&g=2023-06-01 jci1.3:c:BWBR0041941&artikel=8&z=2023-11-17&g=2023-06-01), nader omschreven in de toelichting. De Kamer Bèta beoordeelt het concept-sectorbeeld bèta en de Kamer Techniek beoordeelt het concept-sectorbeeld techniek. De commissie brengt hierover voor 28 januari 2019 advies uit aan de minister;
+- a. het beoordelen van de concept-sectorbeelden bèta en techniek 2018–2024 op basis van randvoorwaarden zoals bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&hoofdstuk=2&artikel=8&z=2023-11-17&g=2023-11-17), nader omschreven in de toelichting. De Kamer Bèta beoordeelt het concept-sectorbeeld bèta en de Kamer Techniek beoordeelt het concept-sectorbeeld techniek. De commissie brengt hierover voor 28 januari 2019 advies uit aan de minister;
 
 - b. na de vaststelling van de concept-sectorbeelden bèta en techniek door de minister, de minister adviseren op basis van plannen van faculteiten over de verdeling van middelen vanuit de eerste geldstroom zoals bedoeld in de tabel van de toelichting over de in de sectorbeelden genoemde deelnemende faculteiten;
 
@@ -116,7 +92,7 @@ De Commissie sectorplan Bèta en Techniek heeft voor de periode van 2018–2024 
 
 De Commissie sectorplan SSH heeft voor de periode van 2018–2024 op hoofdlijnen tot taak:
 
-- a. het beoordelen van het concept-sectorbeeld SSH 2018–2024 op basis van randvoorwaarden zoals bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&hoofdstuk=2&artikel=8&z=2023-11-17&g=2023-06-01 jci1.3:c:BWBR0041941&artikel=8&z=2023-11-17&g=2023-06-01), nader omschreven in de toelichting. De commissie brengt hierover voor 28 januari 2019 advies uit aan de minister;
+- a. het beoordelen van het concept-sectorbeeld SSH 2018–2024 op basis van randvoorwaarden zoals bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&hoofdstuk=2&artikel=8&z=2023-11-17&g=2023-11-17), nader omschreven in de toelichting. De commissie brengt hierover voor 28 januari 2019 advies uit aan de minister;
 
 - b. na de vaststelling van het concept-sectorbeeld SSH door de minister, de minister adviseren op basis van de plannen van faculteiten over de verdeling van middelen vanuit de eerste geldstroom zoals bedoeld in de tabel van de toelichting over de in de sectorbeelden genoemde deelnemende faculteiten;
 
@@ -126,9 +102,9 @@ De Commissie sectorplan SSH heeft voor de periode van 2018–2024 op hoofdlijnen
 
 De Commissie sectorplan Bèta en Techniek en Commissie sectorplan SSH hebben voor de periode van 2018–2024 voorts tot taak:
 
-- a. bij de advisering zoals bedoeld in [artikel 5, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&hoofdstuk=2&artikel=5&z=2023-11-17&g=2023-06-01 jci1.3:c:BWBR0041941&artikel=5&z=2023-11-17&g=2023-06-01), en [artikel 6, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&hoofdstuk=2&artikel=6&z=2023-11-17&g=2023-06-01 jci1.3:c:BWBR0041941&artikel=6&z=2023-11-17&g=2023-06-01), de plannen van de in de sectorbeelden genoemde faculteiten te toetsen op kwaliteit. De Commissie sectorplan Bèta en Techniek en Commissie sectorplan SSH kunnen gebruik maken van een verdeelsleutel uitgaande van een basisfinanciering per deelnemende faculteit met een bandbreedte afhankelijk van de kwaliteit van de plannen. Hierbij wordt uitgegaan van het budget zoals bedoeld in de tabel in de toelichting. De plannen van faculteiten worden getoetst aan de doelstellingen zoals geformuleerd in de sectorbeelden. Aangezien de sectorbeelden opgesteld zijn aan de hand randvoorwaarden zoals bedoeld in de toelichting, zullen een aantal van deze randvoorwaarden ook terugkomen in de plannen van faculteiten.
+- a. bij de advisering zoals bedoeld in [artikel 5, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&hoofdstuk=2&artikel=5&z=2023-11-17&g=2023-11-17), en [artikel 6, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&hoofdstuk=2&artikel=6&z=2023-11-17&g=2023-11-17), de plannen van de in de sectorbeelden genoemde faculteiten te toetsen op kwaliteit. De Commissie sectorplan Bèta en Techniek en Commissie sectorplan SSH kunnen gebruik maken van een verdeelsleutel uitgaande van een basisfinanciering per deelnemende faculteit met een bandbreedte afhankelijk van de kwaliteit van de plannen. Hierbij wordt uitgegaan van het budget zoals bedoeld in de tabel in de toelichting. De plannen van faculteiten worden getoetst aan de doelstellingen zoals geformuleerd in de sectorbeelden. Aangezien de sectorbeelden opgesteld zijn aan de hand randvoorwaarden zoals bedoeld in de toelichting, zullen een aantal van deze randvoorwaarden ook terugkomen in de plannen van faculteiten.
 
-- b. Gedurende de looptijd van het sectorplan te bevorderen dat de doelen die de faculteiten zich hebben gesteld tijdig en volledig behaald worden, waarbij de Commissie sectorplan Bèta en Techniek en Commissie sectorplan SSH zelf vaststellen hoe zij dit willen bevorderen. Deze doelen zijn beschreven in de sectorbeelden en de faculteitsplannen en omvatten onder meer het bevorderen van samenwerking en profilering, (gender)diversiteit en het aantrekken en behoud van (nieuw) wetenschappelijk talent middels vaste contracten. Hierbij de observaties mee te nemen in de adviezen van de Commissie sectorplan Bèta en Techniek en Commissie sectorplan SSH aan de minister ten tijde van de tussentijdse evaluatie en de eindevaluatie, zoals bedoeld in [artikel 7 resp. lid c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&hoofdstuk=2&artikel=7&z=2023-11-17&g=2023-06-01 jci1.3:c:BWBR0041941&artikel=7&z=2023-11-17&g=2023-06-01).
+- b. Gedurende de looptijd van het sectorplan te bevorderen dat de doelen die de faculteiten zich hebben gesteld tijdig en volledig behaald worden, waarbij de Commissie sectorplan Bèta en Techniek en Commissie sectorplan SSH zelf vaststellen hoe zij dit willen bevorderen. Deze doelen zijn beschreven in de sectorbeelden en de faculteitsplannen en omvatten onder meer het bevorderen van samenwerking en profilering, (gender)diversiteit en het aantrekken en behoud van (nieuw) wetenschappelijk talent middels vaste contracten. Hierbij de observaties mee te nemen in de adviezen van de Commissie sectorplan Bèta en Techniek en Commissie sectorplan SSH aan de minister ten tijde van de tussentijdse evaluatie en de eindevaluatie, zoals bedoeld in [artikel 7 resp. lid c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&hoofdstuk=2&artikel=7&z=2023-11-17&g=2023-11-17).
 
 - c. na drie jaar, vóór 1 april 2022, een tussentijdse evaluatie uit te voeren van de door de minister gefinancierde activiteiten vanuit de sectorbeelden en de minister hierover te adviseren vóór 1 juni 2022. De commissie adviseert de minister daarbij ook over de mate van aansluiting van de tweede geldstroom competitie op de met de eerste geldstroom gefinancierde activiteiten. De minister besluit of de middelen ongewijzigd aan de faculteiten worden toegekend voor de tweede periode van drie jaar (vierde tot en met zesde jaar) of dat inhoudelijk accenten worden verlegd waarbij de middelen mogelijk anders worden verdeeld over de betrokken faculteiten.
 
@@ -150,7 +126,7 @@ De Commissie sectorplan Bèta en Techniek en de Commissie sectorplan SSH brengen
 
 ##### Artikel 10. Nadere uitwerking van taken sectorplannen 2022–2028
 
-De commissies, zoals benoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&hoofdstuk=1&artikel=2&z=2023-11-17&g=2023-06-01 jci1.3:c:BWBR0041941&artikel=2&z=2023-11-17&g=2023-06-01), [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&hoofdstuk=1&artikel=3&z=2023-11-17&g=2023-06-01 jci1.3:c:BWBR0041941&artikel=3&z=2023-11-17&g=2023-06-01) en [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&hoofdstuk=1&artikel=4&z=2023-11-17&g=2023-06-01 jci1.3:c:BWBR0041941&artikel=4&z=2023-11-17&g=2023-06-01) hebben voor de periode van 2022–2028 tot taak:
+De commissies, zoals benoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&hoofdstuk=1&artikel=2&z=2023-11-17&g=2023-11-17), [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&hoofdstuk=1&artikel=3&z=2023-11-17&g=2023-11-17) en [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&hoofdstuk=1&artikel=4&z=2023-11-17&g=2023-11-17) hebben voor de periode van 2022–2028 tot taak:
 
 - a. Gedurende de looptijd van het sectorplan te bevorderen dat de doelen die de faculteiten zich hebben gesteld in de sectorplannen 2022–2028 tijdig en volledig behaald worden, waarbij de commissies zelf vaststellen hoe zij dit willen bevorderen.
 
@@ -306,15 +282,15 @@ De commissies verstrekken aan de minister desgevraagd de door de minister gewens
 
 De kosten van de commissies komen, voor zover goedgekeurd, voor rekening van de minister. Onder kosten worden in ieder geval verstaan:
 
-- a. vergoedingen aan de leden van de commissies als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&hoofdstuk=4&artikel=13&z=2023-11-17&g=2023-06-01 jci1.3:c:BWBR0041941&artikel=13&z=2023-11-17&g=2023-06-01), [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&hoofdstuk=4&artikel=14&z=2023-11-17&g=2023-06-01 jci1.3:c:BWBR0041941&artikel=14&z=2023-11-17&g=2023-06-01) en [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&hoofdstuk=4&artikel=15&z=2023-11-17&g=2023-06-01 jci1.3:c:BWBR0041941&artikel=15&z=2023-11-17&g=2023-06-01);
+- a. vergoedingen aan de leden van de commissies als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&hoofdstuk=4&artikel=13&z=2023-11-17&g=2023-11-17), [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&hoofdstuk=4&artikel=14&z=2023-11-17&g=2023-11-17) en [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&hoofdstuk=4&artikel=15&z=2023-11-17&g=2023-11-17);
 
-- b. de kosten voor de faciliteiten van vergaderingen en voor secretariële ondersteuning, en externe personen zoals bedoeld in [artikel 18, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&hoofdstuk=4&artikel=18&z=2023-11-17&g=2023-06-01); en,
+- b. de kosten voor de faciliteiten van vergaderingen en voor secretariële ondersteuning, en externe personen zoals bedoeld in [artikel 18, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&hoofdstuk=4&artikel=18&z=2023-11-17&g=2023-11-17); en,
 
 - c. de kosten voor publicatie van rapportages.
 
 ##### Artikel 21. Vergoeding van de commissies
 
-1. De voorzitters en de andere leden ontvangen een vaste vergoeding per kwartaal conform [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&bijlage=1&z=2023-11-17&g=2023-06-01). De toepasselijke salarisschaal voor de voorzitters en de andere leden is schaal 18 conform de vigerende CAO Rijk.
+1. De voorzitters en de andere leden ontvangen een vaste vergoeding per kwartaal conform [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&bijlage=1&z=2023-11-17&g=2023-11-17). De toepasselijke salarisschaal voor de voorzitters en de andere leden is schaal 18 conform de vigerende CAO Rijk.
 
 2. De commissies bieden zo spoedig mogelijk na hun instelling een begroting en een planning aan de minister aan.
 
@@ -322,7 +298,7 @@ De kosten van de commissies komen, voor zover goedgekeurd, voor rekening van de 
 
 1. Notities, verslagen en andere producten die door of namens de commissies worden vervaardigd of vergaard, worden niet door de commissies openbaar gemaakt, maar uitsluitend aan de minister uitgebracht of overgedragen.
 
-2. Het vorige lid is niet van toepassing op de adviezen aan de minister, zoals bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&hoofdstuk=2&artikel=9&z=2023-11-17&g=2023-06-01 jci1.3:c:BWBR0041941&artikel=9&z=2023-11-17&g=2023-06-01) en [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&hoofdstuk=3&artikel=11&z=2023-11-17&g=2023-06-01 jci1.3:c:BWBR0041941&artikel=11&z=2023-11-17&g=2023-06-01). Deze adviezen worden door de commissies openbaar gemaakt.
+2. Het vorige lid is niet van toepassing op de adviezen aan de minister, zoals bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&hoofdstuk=2&artikel=9&z=2023-11-17&g=2023-11-17) en [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0041941&hoofdstuk=3&artikel=11&z=2023-11-17&g=2023-11-17). Deze adviezen worden door de commissies openbaar gemaakt.
 
 3. Na toekenning van middelen als bedoeld in de tabel van de toelichting hebben de commissies toestemming om met de betrokken kennisinstellingen te communiceren ten behoeve van de uitvoering, monitoring en auditing van de sectorplannen.
 
@@ -539,6 +515,27 @@ De commissies dragen zo spoedig mogelijk na beëindiging van hun werkzaamheden o
 ##### Artikel 17. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie sectorplan Bèta en Techniek en de Commissie sectorplan Social Sciences and Humanities.
+
+## Bijlage 1. Vergoeding van de commissies
+
+De tabel geeft het aantal uren per week weer, verdeeld naar jaartal, commissie en functie.
+
+|   | Commissie sectorplan SSH | Commissie sectorplan SSH | Commissie sectorplan SSH | Commissie sectorplan Bèta en Techniek | Commissie sectorplan Bèta en Techniek | Commissie sectorplan Bèta en Techniek | Commissie sectorplan MGW | Commissie sectorplan MGW | Commissie sectorplan MGW |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   | Voorzitter | Vicevoorzitter | Lid | Voorzitter | Vicevoorzitter | Lid | Voorzitter | Vicevoorzitter | Lid |
+| 2019 | 1,33 | – | 1 | 1,33 | – | 1,75 | – | – | – |
+| 2020 | 2,6 | 2,5 | 1,2 | 4 | 3,8 | 2 | – | – | – |
+| 2021 | 2,6 | 2,5 | 1,2 | 4 | 3,8 | 2 | – | – | – |
+| 2022 | 3,4 | 3,1 | 2,2 | 4,8 | 4,6 | 2,8 | – | – | – |
+| 2023 | 4,1 | 3,9 | 2,7 | 5,6 | 5,3 | 2,6 | 2,2 | 1,5 | 1,4 |
+| 2024 | 5,5 | 5,3 | 2,9 | 7,2 | 6,9 | 3,2 | 2,9 | 2,2 | 2,0 |
+| 2025 | 6,3 | 5,9 | 3,9 | 8,0 | 7,7 | 4,0 | 4,2 | 2,9 | 2,8 |
+| 2026 | 3,5 | 3,4 | 1,5 | 4,8 | 4,3 | 1,8 | 2,9 | 2,2 | 2,0 |
+| 2027 | 3,5 | 3,4 | 1,5 | 4,8 | 4,3 | 1,8 | 2,9 | 2,2 | 2,0 |
+| 2028 | 3,8 | 3,7 | 2,3 | 4,8 | 4,3 | 1,8 | 4,2 | 2,9 | 2,8 |
+| 2029 | 2,0 | 1,8 | 2,0 | 2,3 | 2,2 | 1,2 | 2,2 | 1,5 | 1,4 |
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.
 
 ## Bijlage 1. Vergoeding van de commissies
 
