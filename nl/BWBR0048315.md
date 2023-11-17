@@ -4,7 +4,7 @@ identifier: "BWBR0048315"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-03-13"
-last_updated: "2023-08-31"
+last_updated: "2023-11-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048315"
 soort: "ministeriele-regeling"
@@ -48,7 +48,9 @@ entry_into_force: "2024-02-12"
 
 - d. de directeur Huisvesting en Facilities;
 
-- e. het hoofd van het Project-, Programma- en Adviescentrum.
+- e. het hoofd van het Project-, Programma- en Adviescentrum;
+
+- f. de directeur van de directie Openbaarmaking.
 
 2. Van het ingevolge [artikel 1 van het Mandaatbesluit hoofden clusters Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041688&artikel=1) aan de hoofddirecteur bedrijfsvoering verleende ondermandaat wordt ten aanzien van de aangelegenheden bedoeld in [artikel 5, tweede lid, onderdeel a, van het Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=5), ondermandaat verleend aan de directeur Wetgeving en Juridische Zaken.
 
@@ -56,11 +58,11 @@ entry_into_force: "2024-02-12"
 
 ##### Artikel 2
 
-Tot het verlenen van volmacht om op te treden als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk ten aanzien van de onder hen ressorterende functionarissen, worden aangewezen de functionarissen, genoemd in kolom 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048315&bijlage=1&z=2023-11-17&g=2023-08-31) bij dit besluit, voor zover het betreft de uitoefening van de bevoegdheden, vermeld in kolom 2 van die bijlage.
+Tot het verlenen van volmacht om op te treden als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk ten aanzien van de onder hen ressorterende functionarissen, worden aangewezen de functionarissen, genoemd in kolom 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048315&bijlage=1&z=2023-11-17&g=2023-11-17) bij dit besluit, voor zover het betreft de uitoefening van de bevoegdheden, vermeld in kolom 2 van die bijlage.
 
 ##### Artikel 3
 
-Als bevoegd om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven, worden aangewezen de functionarissen, genoemd in kolom 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048315&bijlage=2&z=2023-11-17&g=2023-08-31) bij deze regeling voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage.
+Als bevoegd om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven, worden aangewezen de functionarissen, genoemd in kolom 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048315&bijlage=2&z=2023-11-17&g=2023-11-17) bij deze regeling voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage.
 
 ##### Artikel 4
 
@@ -106,11 +108,11 @@ De functionarissen bij wie in **kolom 2 de letter B** is geplaatst, zijn, onverm
 | **1.5** | **hoofd Project-, programma- en adviescentrum** | **A** |
 | 1.5.1 | plv. hoofd Project-, programma- en adviescentrum | A |
 
-## Bijlage 1. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048315&artikel=2&z=2023-11-17&g=2023-08-31) van het Mandaatbesluit HDBV Ministerie van Justitie en Veiligheid 2022
+## Bijlage 1. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048315&artikel=2&z=2023-11-17&g=2023-11-17) van het Mandaatbesluit HDBV Ministerie van Justitie en Veiligheid 2022
 
-De functionarissen bij wie in **kolom 2 de letter A** is geplaatst, zijn, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048315&artikel=4&z=2023-11-17&g=2023-08-31) van dit besluit bevoegd tot uitoefening van alle bevoegdheden die in of krachtens paragraaf 1.3 van de CAO Rijk aan leidinggevenden zijn toegekend.
+De functionarissen bij wie in **kolom 2 de letter A** is geplaatst, zijn, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048315&artikel=4&z=2023-11-17&g=2023-11-17) van dit besluit bevoegd tot uitoefening van alle bevoegdheden die in of krachtens paragraaf 1.3 van de CAO Rijk aan leidinggevenden zijn toegekend.
 
-De functionarissen bij wie in **kolom 2 de letter B** is geplaatst, zijn, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048315&artikel=4&z=2023-11-17&g=2023-08-31) van dit besluit bevoegd tot uitoefening van alle bevoegdheden die in of krachtens paragraaf 1.3 van de CAO Rijk aan leidinggevenden zijn toegekend., met uitzondering van de bevoegdheden tot het aangaan van arbeidsovereenkomsten, het bevorderen naar een hogere salarisschaal, het opleggen van disciplinaire straffen en ordemaatregelen en het beëindigen van arbeidsovereenkomsten alsmede het nemen van besluiten over de toekenning van een persoonsgebonden dienstauto.
+De functionarissen bij wie in **kolom 2 de letter B** is geplaatst, zijn, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048315&artikel=4&z=2023-11-17&g=2023-11-17) van dit besluit bevoegd tot uitoefening van alle bevoegdheden die in of krachtens paragraaf 1.3 van de CAO Rijk aan leidinggevenden zijn toegekend., met uitzondering van de bevoegdheden tot het aangaan van arbeidsovereenkomsten, het bevorderen naar een hogere salarisschaal, het opleggen van disciplinaire straffen en ordemaatregelen en het beëindigen van arbeidsovereenkomsten alsmede het nemen van besluiten over de toekenning van een persoonsgebonden dienstauto.
 
 |   | Kolom 1 | Kolom 2 |
 | --- | --- | --- |
@@ -137,12 +139,14 @@ De functionarissen bij wie in **kolom 2 de letter B** is geplaatst, zijn, onverm
 | 1.4.1 | plv. directeur Huisvesting en facilities | A |
 | **1.5** | **hoofd Project-, programma- en adviescentrum** | **A** |
 | 1.5.1 | plv. hoofd Project-, programma- en adviescentrum | A |
+| **1.6** | **directeur Openbaarmaking** | A |
+| 1.6.1 | hoofd afdeling Passieve openbaarmaking | B |
 
 gelet op [artikel 3 van het Mandaatbesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041519&artikel=3), [artikel 1 van het Mandaatbesluit hoofden clusters Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041688&artikel=1), paragraaf 1.3 van de CAO Rijk en [artikel 3.3 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=3.3);
 
 Besluit:
 
-## Bijlage 2. behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048315&artikel=3&z=2023-11-17&g=2023-08-31) van het Mandaatbesluit HDBV Ministerie van Justitie en Veiligheid 2022
+## Bijlage 2. behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048315&artikel=3&z=2023-11-17&g=2023-11-17) van het Mandaatbesluit HDBV Ministerie van Justitie en Veiligheid 2022
 
 De functionarissen genoemd in kolom 1 zijn bevoegd in overeenstemming met [artikel 3.3 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=3.3), tot het aangaan van verplichtingen en het doen van uitgaven.
 
@@ -175,5 +179,7 @@ Indien in kolom 2 geen bedrag is opgenomen, geldt geen maximumbedrag.
 | 1.4.1 | plv. directeur Huisvesting en facilities |   |
 | **1.5** | **hoofd Project-, programma- en adviescentrum** |   |
 | 1.5.1 | plv. hoofd Project-, programma- en adviescentrum |   |
+| **1.6** | **directeur Openbaarmaking** |   |
+| 1.6.1 | hoofd afdeling Passieve openbaarmaking |   |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
