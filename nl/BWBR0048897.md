@@ -263,31 +263,3 @@ Deze regeling wordt aangehaald als: Tijdelijke regeling specifieke uitkering geb
 ### Bijlage bij de Tijdelijke regeling specifieke uitkering gebiedsbudget
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-1 Het woningaantal staat op nul omdat het afgesproken woningaantal voor deze gemeente in dit woningbouwgebied is gebaseerd op de Tijdelijke regeling specifieke uitkering gebiedsbudget, zoals deze luidde op het tijdstip onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van deze regeling. Zie ook artikel II van de regeling.
-
-2 Idem.
-
-3 Idem.
-
-4 Idem.
-
-5 Dit woningbouwaantal maakt onderdeel uit van de MIRT-afspraken uit 2022; het is niet gebaseerd op de Tijdelijke regeling specifieke uitkering gebiedsbudget, zoals deze luidde op het tijdstip onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van deze regeling.
-
-6 Zie vorige voetnoot.
-
-7 Zie vorige voetnoot.
-
-8 Het woningaantal staat op nul omdat het afgesproken woningaantal voor deze gemeente in dit woningbouwgebied is gebaseerd op de Tijdelijke regeling specifieke uitkering gebiedsbudget, zoals deze luidde op het tijdstip onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van deze regeling. Zie ook artikel II van de regeling.
-
-9 Idem
-
-10 Door de te verwachten bijdrage op grond van de Tijdelijke regeling realisatiestimulans komt de aanvullende bijdrage vanuit het gebiedsbudget uit op € 0.
-
-11 Het woningaantal staat op nul omdat het afgesproken woningaantal voor deze gemeente in dit woningbouwgebied is gebaseerd op de Tijdelijke regeling specifieke uitkering gebiedsbudget, zoals deze luidde op het tijdstip onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van deze regeling. Zie ook artikel II van de regeling.
-
-12 Idem.
-
-13 Dit woningbouwaantal maakt onderdeel uit van de MIRT-afspraken uit 2022; het is niet gebaseerd op de Tijdelijke regeling specifieke uitkering gebiedsbudget, zoals deze luidde op het tijdstip onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van deze regeling.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
