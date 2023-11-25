@@ -4,7 +4,7 @@ identifier: "BWBR0048636"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-11-27"
-last_updated: "2023-09-26"
+last_updated: "2023-11-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048636"
 soort: "ministeriele-regeling"
@@ -50,9 +50,9 @@ Voor subsidieverlening op grond van [artikel 5.1](https://wetten.overheid.nl/jci
 
 1. Aanvragen voor subsidie in het kader van het Subsidieprogramma Orange Corners Innovation Fund 2024–2030 worden ingediend in meerdere openstellingen.
 
-2. Aanvragen voor subsidie in de eerste openstelling van het Subsidieprogramma Orange Corners Innovation Fund 2024–2030 zijn gericht op de doellocaties Marokko, Ivoorkust, Nigeria, Mozambique, Angola, Democratische Republiek Congo en Palestijnse gebieden en worden ingediend van 2 oktober 2023 tot en met 20 november 2023, 12:00 uur ’s middags Nederlandse tijd.
+2. Aanvragen voor subsidie in de eerste openstelling van het Subsidieprogramma Orange Corners Innovation Fund 2024–2030 zijn gericht op de doellocaties Marokko, Ivoorkust, Nigeria, Mozambique, Angola en Democratische Republiek Congo en worden ingediend van 2 oktober 2023 tot en met 20 november 2023, 12:00 uur ’s middags Nederlandse tijd.
 
-3. Aanvragen voor subsidie in de tweede openstelling van het Subsidieprogramma Orange Corners Innovation Fund 2024–2030 zijn gericht op de doellocaties Senegal, Jordanië, Zuid-Afrika, Ghana, Egypte en Algerije en worden ingediend van 12 februari 2024 tot en met 1 april 2024, 12:00 uur ’s middags Nederlandse tijd.
+3. Aanvragen voor subsidie in de tweede openstelling van het Subsidieprogramma Orange Corners Innovation Fund 2024–2030 zijn gericht op de doellocaties Senegal, Jordanië, Zuid-Afrika, Ghana, Egypte, Algerije en Palestijnse gebieden en worden ingediend van 12 februari 2024 tot en met 1 april 2024, 12:00 uur ’s middags Nederlandse tijd.
 
 4. Aanvragen voor subsidie in de derde openstelling van het Subsidieprogramma Orange Corners Innovation Fund 2024–2030 zijn gericht op de doellocaties Bangladesh, Centraal Irak, de Koerdische Regio in Irak, Mali, Burundi, Zuid-Soedan, Soedan en Tunesië en worden ingediend van 6 mei 2024 tot en met 17 juni 2024, 12:00 uur ’s middags Nederlandse tijd.
 
@@ -66,7 +66,7 @@ Voor subsidieverlening op grond van [artikel 5.1](https://wetten.overheid.nl/jci
 
 ##### Artikel 4
 
-De verdeling van de subsidieplafonds bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048636&artikel=3&z=2023-09-26&g=2023-09-26), vindt plaats op grond van een beoordeling overeenkomstig de maatstaven die in de bijlage bij dit besluit zijn neergelegd, met dien verstande dat uit alle aanvragen die voldoen aan de maatstaven, de aanvragen die het beste voldoen aan die maatstaven het eerst voor subsidieverlening in aanmerking komen.
+De verdeling van de subsidieplafonds bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048636&artikel=3&z=2023-11-25&g=2023-11-25), vindt plaats op grond van een beoordeling overeenkomstig de maatstaven die in de bijlage bij dit besluit zijn neergelegd, met dien verstande dat uit alle aanvragen die voldoen aan de maatstaven, de aanvragen die het beste voldoen aan die maatstaven het eerst voor subsidieverlening in aanmerking komen.
 
 ##### Artikel 5
 
