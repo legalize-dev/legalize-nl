@@ -4,7 +4,7 @@ identifier: "BWBR0048941"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-10-12"
-last_updated: "2019-12-15"
+last_updated: "2023-11-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048941"
 soort: "ministeriele-regeling"
@@ -38,7 +38,27 @@ entry_into_force: "2023-11-25"
 
 ##### Artikel 1
 
-Dit onderdeel is nog niet inwerking getreden
+In dit besluit wordt verstaan onder:
+
+- a. **de afdelingshoofden van de Divisie Inspectie:** de afdelingshoofden van de afdelingen van de Divisie Inspectie, directie Handhaven, van de Nederlandse Voedsel- en Warenautoriteit;
+
+- b. **de Chief Food Safety Officer:** de Chief Food Safety Officer van de Nederlandse Voedsel- en Warenautoriteit;
+
+- c. **de Chief Product Safety Officer:** de Chief Product Safety Officer van de Nederlandse Voedsel- en Warenautoriteit;
+
+- d. **de Chief Veterinary Inspector:** de Chief Veterinary Inspector van de Nederlandse Voedsel- en Warenautoriteit;
+
+- e. **de teamleiders van de Divisie Juridische Zaken:** de teamleiders van de teams van de Divisie Juridische Zaken, directie Strategie, van de Nederlandse Voedsel-en Warenautoriteit;
+
+- f. **de inspecteurs van de afdeling Importkeuring:** de assistent- inspecteurs, de inspecteurs, de senior inspecteurs, bij de afdeling Importkeuring bij de Divisie Veterinair en Import, directie Keuren, van de Nederlandse Voedsel- en Warenautoriteit;
+
+- g. **het COKZ:** de stichting Controle Orgaan Kwaliteits Zaken;
+
+- h. **verordening (EG) 853/2004:** [Verordening (EG) nr. 853/2004](32004R0853) van het Europees parlement en de Raad van 29 april 2004 houdende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (PbEU 2004, L 139);
+
+- i. **de inspecteurs van de afdeling Consument:** de inspecteurs en senior inspecteurs van de afdeling Consument van de Divisie Inspectie, directie Handhaven, van de Nederlandse Voedsel- en Warenautoriteit;
+
+- j. **de Minister:** de Minister van Volksgezondheid, Welzijn en Sport of de Minister voor Langdurige Zorg en Sport.
 
 ##### Artikel 2
 
@@ -56,23 +76,31 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 3
 
-Dit onderdeel is nog niet inwerking getreden
+Aan de directeur van het COKZ wordt ondermandaat en machtiging verleend voor het verlenen van erkenningen, als bedoeld in artikel 4 van [verordening (EG) 853/2004](32004R0853), wat betreft inrichtingen waar handelingen worden verricht waarvoor bijlage III, sectie IX of X, van [verordening (EG) 853/2004](32004R0853) voorschriften bevat.
 
 ##### Artikel 4
 
-Dit onderdeel is nog niet inwerking getreden
+Aan de inspecteurs van de afdeling Consument, wordt, ieder voor zich, ondermandaat verleend voor het nemen van besluiten, als bedoeld in de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=27) en [30, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=30).
 
 ##### Artikel 5
 
-Dit onderdeel is nog niet inwerking getreden
+De volgende besluiten worden ingetrokken:
+
+- a. [Besluit van de directeur Handhaven van de Nederlandse Voedsel en Warenautoriteit van 09 oktober 2020, NVWA/2020/5266 houdende het verlenen van ondermandaat en ondermachtiging aan functionarissen van de Divisie Inspectie van de Nederlandse Voedsel- en Warenautoriteit](https://wetten.overheid.nl/jci1.3:c:BWBR0044311);
+
+- b. [Besluit van de directeur Strategie van de Nederlandse Voedsel en Warenautoriteit van 10 januari 2020, kenmerk TRCNVWA/2020/266 houdende het verlenen van ondermandaat en ondermachtiging aan functionarissen van de divisie Juridische Zaken van de Nederlandse Voedsel- en Warenautoriteit](https://wetten.overheid.nl/jci1.3:c:BWBR0043351);
+
+- c. [Besluit ondermandaat en machtiging functionarissen NVWA betreffende de Wet experiment gesloten coffeeshopketen](https://wetten.overheid.nl/jci1.3:c:BWBR0045082); en
+
+- d. [Besluit ondermandaat directeur COKZ](https://wetten.overheid.nl/jci1.3:c:BWBR0044963).
 
 ##### Artikel 6
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt ten aanzien van [artikel 2, aanhef en onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0048941&artikel=2&z=2023-11-25&g=2023-11-25), terug tot 14 december 2019.
 
 ##### Artikel 7
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit wordt aangehaald als: Besluit ondermandaat en machtiging aan functionarissen van de NVWA voor het werkterrein van VWS 2023.
 
 Gelet op de [artikelen 10, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&artikel=10), juncto artikel 10, eerste lid, onder j, van de Mandaatregeling VWS, [artikel 16, tweede en derde lid, van de Mandaatregeling VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&artikel=16), [artikel 8, tweede lid, van het Besluit van de Minister voor Medische Zorg en de Minister van Justitie en Veiligheid van 14 mei 2020, 1654245-202486-VGP, houdende aanwijzing van toezichthouders op de naleving van de Wet experiment gesloten coffeeshopketen en het verlenen van mandaat en machtiging voor de uitvoering en handhaving van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043743&artikel=8), [artikel 5a van de Warenwetregeling aanwijzing en werkwijze toezichthouders COKZ](https://wetten.overheid.nl/jci1.3:c:BWBR0019227&artikel=5a) en [artikel 3, eerste lid, van het Warenwetbesluit uitvoering verordening officiële controles en andere officiële activiteiten](https://wetten.overheid.nl/jci1.3:c:BWBR0042548&artikel=3);
 
