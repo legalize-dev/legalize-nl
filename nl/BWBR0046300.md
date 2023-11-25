@@ -4,7 +4,7 @@ identifier: "BWBR0046300"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-01-10"
-last_updated: "2022-02-05"
+last_updated: "2023-11-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046300"
 soort: "zbo"
@@ -81,7 +81,7 @@ Deze nadere regel schrijft voor welke gegevens en inlichtingen zorgaanbieders ja
 
 ##### Artikel 5. Wanneer worden gegevens en inlichtingen verstrekt
 
-Zorgaanbieders die op grond van en overeenkomstig het bepaalde bij of krachtens [artikel 40b van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40b), gehouden zijn gegevens en inlichtingen te verstrekken, verstrekken deze voor 1 juni van het kalenderjaar waarin de verplichting van toepassing is.
+Zorgaanbieders verstrekken gegevens en inlichtingen voor het bij of krachtens [artikel 40b van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40b) gestelde tijdstip voor het openbaar maken van een jaarverantwoording.
 
 ##### Artikel 6. Wijze waarop gegevens en inlichtingen worden verstrekt
 
