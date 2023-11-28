@@ -4,7 +4,7 @@ identifier: "BWBR0008023"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2023-10-01"
+last_updated: "2023-11-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008023"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ Deze regeling treedt in werking met ingang van 1 juni 1996.
 
 Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 
-## Bijlage. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008023&artikel=1&z=2023-10-01&g=2023-10-01) van de Regeling maximumprijzen geneesmiddelen
+## Bijlage. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008023&artikel=1&z=2023-11-28&g=2023-11-28) van de Regeling maximumprijzen geneesmiddelen
 
 | **Registratienummer** | **Artikelnaam** | **Productgroep** | **Maximumprijs** | **Eenheid** |
 | --- | --- | --- | --- | --- |
@@ -4976,6 +4976,8 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | 14239//4294 | CISORDINOL TABLET 2MG | ZUCLOPENTHIXOL-2-MG-TABLET | 0,037782 | STUK |
 | 4294 | CISORDINOL TABLET 2MG | ZUCLOPENTHIXOL-2-MG-TABLET | 0,041980 | STUK |
 | 14175 | CISORDINOL ACUTARD INJVLST 50MG/ML AMPUL 1ML | ZUCLOPENTHIXOL-50-MG/ML-INJ.VLOEISTOF AMPUL | 9,475390 | ML |
+| EU/1/13/837/002 | TECFIDERA CAPSULE MSR 240MG | FUMARIC ACID-240-MG-CAPSULE, MAAGSAPRESISTENT | 19,498203 | STUK |
+| EU/1/22/1637/004 | DIMETHYLFUMARAAT NEURAXPHARM CAPSULE MSR 240MG | FUMARIC ACID-240-MG-CAPSULE, MAAGSAPRESISTENT | 14,645094 | STUK |
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
