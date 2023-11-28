@@ -4,7 +4,7 @@ identifier: "BWBR0041794"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-05"
-last_updated: "2023-10-01"
+last_updated: "2023-11-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041794"
 soort: "ministeriele-regeling"
@@ -94,7 +94,7 @@ De organisatie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit wordt
 
 - a. beslissingen omtrent politieke beleidswijzigingen en omtrent de uitbreiding of beperking van de bemoeienissen van de minister;
 
-- b. het vaststellen van ministeriële regelingen en beleidsregels, met uitzondering van ministeriële regelingen als bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=4&z=2023-05-20&g=2023-10-01), [artikel 6, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=6&z=2023-05-20&g=2023-10-01) en beleidsregels als bedoeld in artikel 6, zevende lid;
+- b. het vaststellen van ministeriële regelingen en beleidsregels, met uitzondering van ministeriële regelingen als bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=4&z=2023-11-28&g=2023-11-28), [artikel 6, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=6&z=2023-11-28&g=2023-11-28) en beleidsregels als bedoeld in artikel 6, zevende lid;
 
 - c. delegatie van bevoegdheden;
 
@@ -348,7 +348,7 @@ Dit bericht is automatisch gegenereerd en bevat daarom geen handtekening.
 
 ##### Artikel 10
 
-1. De hoofden van dienst kunnen, ieder voor zich, voor hun werkterrein, voor aangelegenheden als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=6&z=2023-05-20&g=2023-10-01), ondermandaat, volmacht en machtiging verlenen aan hun plaatsvervangers, en wat het werkterrein van ondergeschikte organisatieonderdelen of functionarissen betreft, aan de hoofden van die onderdelen en aan die functionarissen en aan hun plaatsvervangers.
+1. De hoofden van dienst kunnen, ieder voor zich, voor hun werkterrein, voor aangelegenheden als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=6&z=2023-11-28&g=2023-11-28), ondermandaat, volmacht en machtiging verlenen aan hun plaatsvervangers, en wat het werkterrein van ondergeschikte organisatieonderdelen of functionarissen betreft, aan de hoofden van die onderdelen en aan die functionarissen en aan hun plaatsvervangers.
 
 2. Voor P&O-aangelegenheden geldt, in afwijking van het eerste lid, dat geen ondermandaat, volmacht en machtiging mag worden verleend voor de volgende aangelegenheden:
 
@@ -374,11 +374,17 @@ Dit bericht is automatisch gegenereerd en bevat daarom geen handtekening.
 
 3. De secretaris-generaal kan aan de hoofden van dienst schriftelijk toestemming geven voor het, in afwijking van het tweede lid, verlenen van ondermandaat, volmacht en machtiging. Een afschrift hiervan wordt aan de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat toegezonden.
 
+4. De inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit kan voor door hem in mandaat genomen besluiten inzake maatregelen naar aanleiding van importinspecties een ondertekeningsmandaat verlenen aan functionarissen van de plantaardige keuringsdiensten.
+
+5. De inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit kan aan de algemeen directeur van het Centraal Justitieel Incassobureau ondermandaat, volmacht en machtiging verlenen voor het uitvaardigen van dwangbevelen en de daaruit voortvloeiende uitvoering van executiegeschillen, en voor het treffen van betalingsregelingen. De inspecteur-generaal kan de algemeen directeur toestaan ondermandaat, volmacht en machtiging te verlenen aan één of meer onder hem ressorterende functionarissen.
+
+6. Aan de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit wordt mandaat verleend om per geval of in het algemeen instructies te geven ter zake van de uitoefening van de krachtens het vijfde lid aan de algemeen directeur van het Centraal Justitieel Incassobureau toekomende bevoegdheden.
+
 ##### Artikel 11
 
 1. Het verlenen van ondermandaat, volmacht en machtiging alsmede wijziging daarvan, geschiedt schriftelijk en wat de formulering betreft in overeenstemming met de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat.
 
-2. Een afschrift van besluiten inzake ondermandaat, volmacht en machtiging als bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=4&artikel=9&z=2023-05-20&g=2023-10-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=4&artikel=10&z=2023-05-20&g=2023-10-01) wordt gezonden aan de secretaris-generaal, de directeur Financieel-Economische Zaken, de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat, de directeur Informatievoorziening en de directeur Mens en Organisatie van het Ministerie van Economische Zaken en Klimaat en de Auditdienst Rijk.
+2. Een afschrift van besluiten inzake ondermandaat, volmacht en machtiging als bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=4&artikel=9&z=2023-11-28&g=2023-11-28) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=4&artikel=10&z=2023-11-28&g=2023-11-28) wordt gezonden aan de secretaris-generaal, de directeur Financieel-Economische Zaken, de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat, de directeur Informatievoorziening en de directeur Mens en Organisatie van het Ministerie van Economische Zaken en Klimaat en de Auditdienst Rijk.
 
 #### § 5. Vervanging
 
