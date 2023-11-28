@@ -4,7 +4,7 @@ identifier: "BWBR0048950"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-11-28"
-last_updated: "2023-01-01"
+last_updated: "2023-11-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048950"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ De staatssecretaris verstrekt een eenmalige specifieke uitkering aan een gemeent
 
 ##### Artikel 3. Hoogte van de uitkering
 
-De hoogte van de specifieke uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048950&artikel=2&z=2023-11-28&g=2023-01-01), is als volgt:
+De hoogte van de specifieke uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048950&artikel=2&z=2023-11-28&g=2023-11-28), is als volgt:
 
 - a. Amsterdam: € 5.404.444;
 
