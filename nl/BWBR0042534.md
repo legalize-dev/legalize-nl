@@ -4,7 +4,7 @@ identifier: "BWBR0042534"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-28"
-last_updated: "2023-08-01"
+last_updated: "2023-11-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042534"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **minister:** Minister voor Langdurige Zorg en Sport;
 
-- b. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042534&artikel=2&z=2022-12-01&g=2023-08-01).
+- b. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042534&artikel=2&z=2023-11-28&g=2023-11-28).
 
 ##### Artikel 2. Instelling en taak
 
@@ -98,15 +98,17 @@ De commissie wordt ingesteld met ingang van 1 oktober 2019 en wordt opgeheven me
 
 ##### Artikel 5. Leden
 
-Met ingang van 15 oktober 2022 worden voor de periode van 15 oktober 2022 tot 1 januari 2025 tot lid van de commissie benoemd:
+1. Met ingang van 1 augustus 2023 wordt voor de periode van 1 augustus 2023 tot 1 januari 2025 mevrouw M.H.A. Braks, te Nijmegen, tot lid en tevens voorzitter van de commissie benoemd.
 
-- a. Mevrouw M.H.A. Braks, te Nijmegen, tevens ad interim voorzitter;
+2. Met ingang van 15 oktober 2022 worden voor de periode van 15 oktober 2022 tot 1 januari 2025 tot lid van de commissie benoemd:
 
-- b. Mevrouw D.A.M. Maes-Festen, te Rotterdam;
+- a. Mevrouw D.A.M. Maes-Festen, te Rotterdam;
 
-- c. De heer R.T.C.M. Koopmans, te Malden;
+- b. De heer R.T.C.M. Koopmans, te Malden;
 
-- d. De heer M.B.V. Rouppe van der Voort, te Houten.
+- c. De heer M.B.V. Rouppe van der Voort, te Houten.
+
+3. Met ingang van 1 augustus 2023 wordt voor de periode van 1 augustus 2023 tot 1 januari 2025 de heer R.J.W. de Bruijn, te Zoetermeer, tot lid van de commissie benoemd.
 
 ##### Artikel 6. Secretariaat
 
@@ -130,11 +132,9 @@ Met ingang van 15 oktober 2022 worden voor de periode van 15 oktober 2022 tot 1 
 
 ##### Artikel 9. Vergoeding
 
-1. De voorzitter en de andere leden (alsmede personen als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042534&artikel=7&z=2022-12-01&g=2023-08-01), die de commissie bijstaan) ontvangen per vergadering een vergoeding, voor zover zij niet vallen onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2) en hiermee niet het in [artikel 6, eerste lid, van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=6) bedoelde maximumbedrag overschrijden.
+1. Aan de voorzitter wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18 van CAO Rijk en de arbeidsduurfactor op 9/36.
 
-2. De vergoeding per vergadering van de leden (alsmede personen als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042534&artikel=7&z=2022-12-01&g=2023-08-01), die de commissie bijstaan) bedraagt 3% van het maximum van salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
-
-3. De vergoeding per vergadering van de voorzitter van de commissie bedraagt 130% van de hoogte van de vergoeding die aan de andere leden van de commissie is toegekend.
+2. Aan de andere leden wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18 van CAO Rijk en de arbeidsduurfactor op 3/36.
 
 ##### Artikel 10. Kosten van de commissie
 
