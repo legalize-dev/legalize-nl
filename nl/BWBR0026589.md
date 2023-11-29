@@ -4,7 +4,7 @@ identifier: "BWBR0026589"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-09-19"
-last_updated: "2023-11-01"
+last_updated: "2023-11-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026589"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **directie:** een van de organisatieonderdelen genoemd in [artikel 2, onderdelen a, b, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=2&artikel=2&z=2024-09-19&g=2023-11-01);
+- a. **directie:** een van de organisatieonderdelen genoemd in [artikel 2, onderdelen a, b, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=2&artikel=2&z=2023-11-29&g=2023-11-29);
 
 - b. **directeur:** een functionaris die leiding geeft aan een directie;
 
@@ -56,7 +56,9 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - e. **CIO:** Chief Information Officer;
 
-- f. **CDI:** Coördinerend Directeur Inkoop.
+- f. **CDI:** Coördinerend Directeur Inkoop;
+
+- g. **hoofd van de afdeling Bedrijfsvoering, Financiën en Control:** een functionaris die leiding geeft aan de afdeling Bedrijfsvoering, Financiën en Control.
 
 #### § 2. Organisatie
 
@@ -70,15 +72,11 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - e. de Rijksschoonmaakorganisatie;
 
-- f. de directie Dienstverlening, Samenwerkingsverbanden en Uitvoering, waaronder ressorteren:
+- f. de directie Dienstverlening, Samenwerkingsverbanden en Uitvoering met aan het hoofd een directeur;
 
-- i. de Uitvoering van Beleid bestaande uit drie afdelingen met ieder aan het hoofd een afdelingshoofd, met aan het hoofd een directeur;
+- g. de directie CIO-office en Integrale Veiligheid;
 
-- ii. het samenwerkingsverband Financieel Dienstencentrum, met aan het hoofd een afdelingshoofd;
-
-- iii. het samenwerkingsverband Leer- en Ontwikkelplein met aan het hoofd een afdelingshoofd;
-
-- g. de directie CIO-office en Integrale Veiligheid.
+- h. de afdeling Bedrijfsvoering, Financiën en Control.
 
 2. Vervallen.
 
@@ -86,7 +84,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3
 
-Elk van de directeuren is verantwoordelijk voor:
+1. Elk van de directeuren is verantwoordelijk voor:
 
 - a. het leiding geven aan de eigen directie;
 
@@ -115,6 +113,8 @@ Elk van de directeuren is verantwoordelijk voor:
 - m. het dynamisch archiefbeheer van de directie, te weten postbehandeling, registratie, voortgang- en afdoeningsbewaking, dossierbeheer, informatievoorziening, selectie en, vernietiging alsmede het opstellen, vaststellen en onderhouden van het ordeningsplan van de directie;
 
 - n. het materieel beheer overeenkomstig de [Regeling materieelbeheer rijksoverheid 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019767) en de [Regeling materieelbeheer museale voorwerpen](https://wetten.overheid.nl/jci1.3:c:BWBR0020583).
+
+2. Het eerste lid is van overeenkomstige toepassing op het hoofd van de afdeling Bedrijfsvoering, Financiën en Control.
 
 ##### Artikel 4
 
@@ -168,7 +168,9 @@ De directie Bestuursondersteuning is verantwoordelijk voor:
 
 - b. inhoudelijke, logistieke, secretariële protocollaire ondersteuning van de secretaris-generaal en de politieke leiding van het departement;
 
-- c. de coördinatie van de crisisbeheersing binnen het ministerie en de daarmee verband houdende secretariële ondersteuning.
+- c. de coördinatie van de crisisbeheersing binnen het ministerie en de daarmee verband houdende secretariële ondersteuning;
+
+- d. het bieden van ondersteuning aan de verschillende directies van SZW om innovatie toe te passen, zodat de inhoudelijke doelstellingen van het ministerie beter bereikt kunnen worden, alsmede het bieden van ondersteuning op het gebied van praktijkgericht werken.
 
 #### § 4. Bevoegdheden directeuren
 
@@ -178,7 +180,7 @@ De directie Bestuursondersteuning is verantwoordelijk voor:
 
 2. Aan elke directeur wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten over, het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op:
 
-- a. de in [artikel 3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=3&z=2024-09-19&g=2023-11-01), genoemde personeelsaangelegenheden;
+- a. de in [artikel 3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=3&z=2023-11-29&g=2023-11-29), genoemde personeelsaangelegenheden;
 
 - b. de behandeling van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:1), voor zover deze klachten betrekking hebben op gedragingen van de onder hem ressorterende functionarissen.
 
@@ -186,7 +188,7 @@ De directie Bestuursondersteuning is verantwoordelijk voor:
 
 4. De in het eerste lid genoemde bevoegdheid omvat voorts de bevoegdheid tot het nemen van dwangsombesluiten die verband houden met het niet tijdig afdoen van een besluit, voor zover dit betrekking heeft op hun eigen verantwoordelijkheden.
 
-5. De in het eerste lid genoemde bevoegdheid om overeenkomsten aan te gaan is beperkt tot overeenkomsten met een waarde per overeenkomst onder de laagste drempel voor aanbesteding conform de Europese aanbestedingsrichtlijnen, met dien verstande dat de volgende overeenkomsten mogen worden aangegaan tot een waarde van € 500.000,– per overeenkomst:
+5. De in het eerste lid genoemde bevoegdheid om overeenkomsten aan te gaan is beperkt tot overeenkomsten met een waarde per overeenkomst onder de laagste drempel voor aanbesteding conform de Europese aanbestedingsrichtlijnen, met dien verstande dat de volgende overeenkomsten mogen worden aangegaan tot een waarde van € 500.000,– per overeenkomst inclusief BTW:
 
 - a. overeenkomsten welke gebaseerd zijn op een raamovereenkomst;
 
@@ -200,13 +202,13 @@ De directie Bestuursondersteuning is verantwoordelijk voor:
 
 - f. overeenkomsten met betrekking tot onderzoek.
 
-6. In aanvulling op het vijfde lid geldt voor de directeur Organisatie, Bedrijfsvoering en Personeel dat deze bevoegd is om de volgende overeenkomsten aan te gaan tot een waarde van € 500.000,- per overeenkomst:
+6. In aanvulling op het vijfde lid geldt voor de directeur Organisatie, Bedrijfsvoering en Personeel dat deze bevoegd is om de volgende overeenkomsten aan te gaan tot een waarde van € 500.000,- per overeenkomst inclusief BTW:
 
 - a. overeenkomsten met betrekking tot voorzieningen op het gebied van telefonie en het technisch beheer daarvan;
 
 - b. overeenkomsten met betrekking tot multi-copiers;
 
-- c. overeenkomsten met betrekking tot personeelsbeheerssystemen, salarissystemen en systemen voor documentregistratie en -verwerking, voor zover deze noodzakelijk zijn voor een goede uitvoering van de taken en werkzaamheden, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=4&z=2024-09-19&g=2023-11-01);
+- c. overeenkomsten met betrekking tot personeelsbeheerssystemen, salarissystemen en systemen voor documentregistratie en -verwerking, voor zover deze noodzakelijk zijn voor een goede uitvoering van de taken en werkzaamheden, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=4&z=2023-11-29&g=2023-11-29);
 
 - d. overeenkomsten met betrekking tot de gerechtelijke en buitengerechtelijke invordering van geldvorderingen van de Staat;
 
@@ -218,13 +220,13 @@ De directie Bestuursondersteuning is verantwoordelijk voor:
 
 - h. overeenkomsten met bestrekking tot de arbodienst en het centraal flankerend beleid ten behoeve van herplaatsers.
 
-7. In aanvulling op het vierde lid geldt voor de directeur Bestuursondersteuning dat deze bevoegd is om overeenkomsten met betrekking tot incidentele beleidsinformatie, met uitzondering van overeenkomsten met het Centraal bureau voor de statistiek, aan te gaan tot een waarde van € 500.000,– per overeenkomst.
+7. In aanvulling op het vierde lid geldt voor de directeur Bestuursondersteuning dat deze bevoegd is om overeenkomsten met betrekking tot incidentele beleidsinformatie, met uitzondering van overeenkomsten met het Centraal bureau voor de statistiek, aan te gaan tot een waarde van € 500.000,– per overeenkomst inclusief BTW.
 
 8. In aanvulling op het tweede lid, onderdeel a, geldt dat aan de directeur van de Rijksschoonmaakorganisatie volmacht en machtiging wordt verleend ten aanzien van het aangaan en beëindigen van arbeidsovereenkomsten met onder hem ressorterende functionarissen die vallen onder de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
 9. In aanvulling op het tweede lid, onderdeel a, geldt dat aan de directeur van de Rijksschoonmaakorganisatie volmacht en machtiging wordt verleend ten aanzien van beslissingen in gerechtelijke procedures voor zover die betrekking hebben op de dienstbetrekking van de onder hem ressorterende functionarissen.
 
-10. In aanvulling op het vijfde lid geldt voor de directeur van de Rijksschoonmaakorganisatie dat deze bevoegd is om overeenkomsten met betrekking tot de schoonmaakdienstverlening aan te gaan tot een waarde van € 500.000,– per overeenkomst.
+10. In aanvulling op het vijfde lid geldt voor de directeur van de Rijksschoonmaakorganisatie dat deze bevoegd is om overeenkomsten met betrekking tot de schoonmaakdienstverlening aan te gaan tot een waarde van € 500.000,– per overeenkomst inclusief BTW.
 
 #### § 4. Bevoegdheden directeuren
 
@@ -242,7 +244,7 @@ De directie Bestuursondersteuning is verantwoordelijk voor:
 
 2. In afwijking van het eerste lid kunnen de directeuren bevoegdheden met betrekking tot personeelsaangelegenheden, genoemd in het eerste lid, onderdelen a tot en met d, doorverlenen aan functionarissen die rechtstreeks ressorteren onder rechtstreeks onder hen ressorterende functionarissen, voor zover dit noodzakelijk is vanwege de organisatiestructuur van de directie en voor zover de plaatsvervangend secretaris-generaal daar schriftelijk mee instemt.
 
-3. In afwijking van het eerste lid kan de directeur van de Rijksschoonmaakorganisatie volmacht en machtiging doorverlenen aan onder hem ressorterende functionarissen en functionarissen die rechtstreeks ressorteren onder hem ressorterende functionarissen, tot het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op de in [artikel 3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=3&z=2024-09-19&g=2023-11-01), genoemde personeelsaangelegenheden, voor zover dit noodzakelijk is vanwege de organisatiestructuur van de directie en voor zover de plaatsvervangend secretaris-generaal daar schriftelijk mee instemt.
+3. In afwijking van het eerste lid kan de directeur van de Rijksschoonmaakorganisatie volmacht en machtiging doorverlenen aan onder hem ressorterende functionarissen en functionarissen die rechtstreeks ressorteren onder hem ressorterende functionarissen, tot het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op de in [artikel 3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=3&z=2023-11-29&g=2023-11-29), genoemde personeelsaangelegenheden, voor zover dit noodzakelijk is vanwege de organisatiestructuur van de directie en voor zover de plaatsvervangend secretaris-generaal daar schriftelijk mee instemt.
 
 4. In afwijking van het eerste lid kan de directeur van de Rijksschoonmaakorganisatie volmacht en machtiging doorverlenen aan functionarissen die rechtstreeks onder hem ressorteren, ten aanzien van het aangaan en beëindigen van arbeidsovereenkomsten met onder hem ressorterende functionarissen die vallen onder de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren, voor zover dit noodzakelijk is vanwege de organisatiestructuur van de directie en voor zover de plaatsvervangend secretaris-generaal daar schriftelijk mee instemt.
 
@@ -256,7 +258,7 @@ Het [Organisatie-, mandaat- en volmachtbesluit plaatsvervangend secretaris-gener
 
 ##### Artikel 10
 
-Na de inwerkingtreding van deze regeling berust het [Organisatie-, mandaat- en volmachtbesluit directie BO SZW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025904) dat genomen is krachtens de [artikelen 3, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&artikel=3), en [11 van het Organisatie-, mandaat- en volmachtbesluit secretaris-generaal SZW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&artikel=11) op de [artikelen 3, eerste lid, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=3&z=2024-09-19&g=2023-11-01), en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=5&artikel=9&z=2024-09-19&g=2023-11-01) van deze regeling.
+Na de inwerkingtreding van deze regeling berust het [Organisatie-, mandaat- en volmachtbesluit directie BO SZW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025904) dat genomen is krachtens de [artikelen 3, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&artikel=3), en [11 van het Organisatie-, mandaat- en volmachtbesluit secretaris-generaal SZW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&artikel=11) op de [artikelen 3, eerste lid, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=3&z=2023-11-29&g=2023-11-29), en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=5&artikel=9&z=2023-11-29&g=2023-11-29) van deze regeling.
 
 ##### Artikel 11
 
@@ -290,15 +292,15 @@ Door vernummering vervallen.
 
 - f. vaststellingsovereenkomsten naar aanleiding van verzoeken tot vergoeding van schade geleden als gevolg van de implementatie van artikel 7 van Richtlijn 2003/88/EG.
 
-3. In afwijking van [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=4&artikel=7&z=2024-09-19&g=2023-11-01), geldt voor de directeur van de Directie Dienstverlening, Samenwerkingsverbanden en Uitvoering dat deze bevoegd is om overeenkomsten aan te gaan tot een waarde van ten hoogste € 500.000,– per overeenkomst.
+3. In afwijking van [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=4&artikel=7&z=2023-11-29&g=2023-11-29), geldt voor de directeur van de Directie Dienstverlening, Samenwerkingsverbanden en Uitvoering dat deze bevoegd is om overeenkomsten aan te gaan tot een waarde van ten hoogste € 500.000,– per overeenkomst inclusief BTW.
 
-4. De directeur van de Directie Dienstverlening, Samenwerkingsverbanden en Uitvoering is bevoegd om beslissingen op bezwaarschriften te nemen die verband houden met de verantwoordelijkheden, genoemd in [artikel 6A, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=6a&z=2024-09-19&g=2023-11-01).
+4. De directeur van de Directie Dienstverlening, Samenwerkingsverbanden en Uitvoering is bevoegd om beslissingen op bezwaarschriften te nemen die verband houden met de verantwoordelijkheden, genoemd in [artikel 6A, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=6a&z=2023-11-29&g=2023-11-29).
 
 #### § 5. Slotbepalingen
 
 ##### Artikel 10a
 
-Met ingang van 1 april 2011 berust het [Organisatie-, mandaat- en volmachtbesluit Agentschap SZW 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0028311) dat genomen is krachtens de [artikelen 3, eerste lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0027955&artikel=3), en [18 van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal SZW 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0027955&artikel=18) op de [artikelen 3, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=3&z=2024-09-19&g=2023-11-01), en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=5&artikel=8&z=2024-09-19&g=2023-11-01) van deze regeling.
+Met ingang van 1 april 2011 berust het [Organisatie-, mandaat- en volmachtbesluit Agentschap SZW 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0028311) dat genomen is krachtens de [artikelen 3, eerste lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0027955&artikel=3), en [18 van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal SZW 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0027955&artikel=18) op de [artikelen 3, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=3&artikel=3&z=2023-11-29&g=2023-11-29), en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=5&artikel=8&z=2023-11-29&g=2023-11-29) van deze regeling.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
@@ -428,7 +430,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 6i
 
-1. De afdeling Bedrijfsvoering, Financiën en Control is ten behoeve van de secretaris-generaal en de plaatsvervangend secretaris-generaal en de onder de plaatsvervangend secretaris-generaal ressorterende organisatieonderdelen, als genoemd in [artikel 2, onderdelen a tot en met b en onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=2&artikel=2&z=2024-09-19&g=2023-11-01) en de onder de secretaris-generaal ressorterende organisatieonderdelen, als genoemd in [artikel 2 van het Organisatie-, mandaat- en volmachtbesluit secretaris-generaal SZW 2009, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&artikel=2), verantwoordelijk voor:
+1. De afdeling Bedrijfsvoering, Financiën en Control is ten behoeve van de secretaris-generaal en de plaatsvervangend secretaris-generaal en de onder de plaatsvervangend secretaris-generaal ressorterende organisatieonderdelen, als genoemd in [artikel 2, onderdelen a tot en met b en onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&paragraaf=2&artikel=2&z=2023-11-29&g=2023-11-29) en de onder de secretaris-generaal ressorterende organisatieonderdelen, als genoemd in [artikel 2 van het Organisatie-, mandaat- en volmachtbesluit secretaris-generaal SZW 2009, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&artikel=2), verantwoordelijk voor:
 
 - a. alle interne bedrijfsvoeringprocessen, waaronder administratieve-, personele- en financiële ondersteuning, automatisering en huisvesting;
 
