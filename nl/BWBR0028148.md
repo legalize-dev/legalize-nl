@@ -4,7 +4,7 @@ identifier: "BWBR0028148"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-20"
-last_updated: "2023-09-19"
+last_updated: "2023-11-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028148"
 soort: "ministeriele-regeling"
@@ -390,7 +390,7 @@ Vervallen
 | Global Sustainability Science | 56987 | Universiteit Utrecht | Leraar Aardrijkskunde |
 | Griekse en Latijnse Taal en Cultuur | 56003 | Universiteit Leiden, Rijksuniversiteit Groningen, Universiteit van Amsterdam, Vrije Universiteit Amsterdam en Radboud Universiteit Nijmegen | Leraar Grieks, Latijn en KCV |
 | Hebreeuwse Taal en Cultuur | 50901 | Universiteit van Amsterdam | Leraar Hebreeuws |
-| Human Geography and Planning | 50974 | Rijksuniversiteit Groningen | Aardrijkskunde |
+| Human Geography and Planning | 50974 | Rijksuniversiteit Groningen | Leraar Aardrijkskunde |
 | Industrial Design | 50441 | Technische Universiteit Eindhoven | Leraar Natuurkunde |
 | Industrial Design | 50441 | Technische Universiteit Eindhoven | Leraar Techniek |
 | Industrial Design Engineering | 50975 | Universiteit Twente | Leraar Natuurkunde |
@@ -398,7 +398,7 @@ Vervallen
 | Industrieel Ontwerpen | 56955 | Technische Universiteit Delft en Universiteit Twente | Leraar Natuurkunde |
 | Industrieel Ontwerpen | 56955 | Technische Universiteit Delft en Universiteit Twente | Leraar Techniek |
 | Informatica | 56978 | Universiteit Leiden, Rijksuniversiteit Groningen, Universiteit Utrecht en Universiteit van Amsterdam | Leraar Informatica |
-| Informatiekunde | 56842 | Universiteit van Amsterdam en Universiteit Utrecht | Leraar Informatica |
+| Informatiekunde | 56842 | Rijksuniversiteit Groningen, Universiteit van Amsterdam en Universiteit Utrecht | Leraar Informatica |
 | Information Sciences | 56869 | Vrije Universiteit Amsterdam | Leraar Informatica |
 | International Business | 50019 | Rijksuniversiteit Groningen en Universiteit Maastricht | Leraar Management en Organisatie |
 | International Business Administration | 50952 | Universiteit Twente, Vrije Universiteit Amsterdam | Leraar Economie |
@@ -409,7 +409,6 @@ Vervallen
 | Kunstgeschiedenis | 56824 | Universiteit Leiden, Rijksuniversiteit Groningen, Universiteit Utrecht, Universiteit van Amsterdam en Radboud Universiteit Nijmegen | Leraar Kunstvakken-I en Kunstvakken-II |
 | Kunstmatige Intelligentie | 56981 | Universiteit van Amsterdam en Universiteit Utrecht | Leraar Informatica |
 | Kunstmatige Intelligentie | 56981 | Universiteit van Amsterdam | Leraar Wiskunde |
-| Kunstmatige Intelligentie | 56943 | Universiteit van Amsterdam | Leraar Wiskunde |
 | Landschapsarchitectuur en ruimtelijke planning5 | 56848 | Wageningen University | Leraar Aardrijkskunde |
 | Latijns-Amerikastudies | 56052 | Universiteit Leiden | Leraar Spaans |
 | Latijnse Taal en Cultuur | 56816 | Universiteit van Amsterdam | Leraar Latijn en KCV |
@@ -481,14 +480,14 @@ Vervallen
 | Taal- en Cultuurstudies (afstudeerrichting Frans) | 56801 | Universiteit Utrecht | Leraar Frans |
 | Technical Computer Science | 59335 | Universiteit Twente | Leraar Natuurkunde |
 | Technical Computer Science | 59335 | Universiteit Twente | Leraar Wiskunde |
-| Technical Computer Science | 59335 | Universiteit Twente | Informatica |
+| Technical Computer Science | 59335 | Universiteit Twente | Leraar Informatica |
 | Technische Aardwetenschappen | 56959 | Technische Universiteit Delft | Leraar Natuurkunde |
 | Technische Aardwetenschappen | 56959 | Technische Universiteit Delft | Leraar Wiskunde |
 | Technische Bedrijfskunde | 56994 | Universiteit Twente | Leraar Economie |
 | Technische Bedrijfskunde | 56994 | Universiteit Twente | Leraar Management en Organisatie |
 | Technische Bedrijfskunde | 56994 | Rijksuniversiteit Groningen, Technische Universiteit Eindhoven en Universiteit Twente | Leraar Wiskunde |
 | Technische Bestuurskunde | 56995 | Technische Universiteit Delft | Leraar Wiskunde |
-| Technische Informatica | 56964 | Universiteit Twente | Informatica |
+| Technische Informatica | 56964 | Technische Universiteit Delft, Technische Universiteit Eindhoven en Universiteit Twente | Leraar Informatica |
 | Technische Informatica | 56964 | Universiteit Twente | Leraar Natuurkunde |
 | Technische Informatica | 56964 | Technische Universiteit Delft en Technische Universiteit Eindhoven | Leraar Natuurkunde |
 | Technische Informatica | 56964 | Technische Universiteit Delft, Technische Universiteit Eindhoven, Universiteit Twente | Leraar Wiskunde |
