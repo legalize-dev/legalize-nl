@@ -4,7 +4,7 @@ identifier: "BWBR0045917"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-03-12"
-last_updated: "2023-07-15"
+last_updated: "2023-11-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045917"
 soort: "ministeriele-regeling"
@@ -42,6 +42,8 @@ In deze regeling wordt verstaan onder:
 
 - **college:** college van burgemeester en wethouders;
 
+- **ex-partner:** persoon, bedoeld in [artikel 3.1, eerste lid, onderdeel d, van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=3.1);
+
 - **gedupeerde:** persoon, bedoeld in [artikel 3.1, eerste lid, onderdeel a, van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=3.1);
 
 - **gemeentelijke belastingen:** gemeentelijke belastingen als bedoeld in [hoofdstuk XV, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&paragraaf=2) en [3, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&paragraaf=3) alsmede belastingen waarvan de heffing krachtens andere wetten door de gemeente geschiedt;
@@ -54,23 +56,23 @@ In deze regeling wordt verstaan onder:
 
 De Minister verstrekt aan gemeenten een specifieke uitkering ter bekostiging van:
 
-- a. de kwijtgescholden verschuldigde gemeentelijke belastingen van gedupeerden en toeslagpartners; en
+- a. de kwijtgescholden verschuldigde gemeentelijke belastingen van gedupeerden, toeslagpartners en ex-partners; en
 
 - b. de kosten die samenhangen met de uitvoering van deze kwijtschelding.
 
 ##### Artikel 3. Hoogte van de specifieke uitkering
 
-1. De hoogte van de uitkeringscomponent, bedoeld in [artikel 2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045917&artikel=2&z=2022-11-05&g=2023-07-15), bedraagt per gemeente honderd procent van de gederfde belastinginkomsten in een begrotingsjaar die het rechtstreekse gevolg zijn van het kwijtschelden van de op 31 december 2020 verschuldigde gemeentelijke belastingen van gedupeerden en toeslagpartners.
+1. De hoogte van de uitkeringscomponent, bedoeld in [artikel 2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045917&artikel=2&z=2023-11-30&g=2023-11-30), bedraagt per gemeente honderd procent van de gederfde belastinginkomsten in een begrotingsjaar die het rechtstreekse gevolg zijn van het kwijtschelden van de op 31 december 2020 verschuldigde gemeentelijke belastingen van gedupeerden, toeslagpartners en ex-partners.
 
-2. De hoogte van de uitkeringscomponent, bedoeld in [artikel 2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0045917&artikel=2&z=2022-11-05&g=2023-07-15), bedraagt € 150,– per gedupeerde.
+2. De hoogte van de uitkeringscomponent, bedoeld in [artikel 2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0045917&artikel=2&z=2023-11-30&g=2023-11-30), bedraagt € 150,– per gedupeerde of ex-partner die woonachtig is in de gemeente.
 
 ##### Artikel 4. Procedure tot vaststelling van de uitkering
 
-1. Het college zendt in het jaar volgend op het begrotingsjaar aan de Minister informatie over de hoogte van de gederfde belastinginkomsten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045917&artikel=3&z=2022-11-05&g=2023-07-15). Deze informatieverstrekking vindt plaats op de wijze, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
+1. Het college zendt in het jaar volgend op het begrotingsjaar aan de Minister informatie over de hoogte van de gederfde belastinginkomsten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045917&artikel=3&z=2023-11-30&g=2023-11-30). Deze informatieverstrekking vindt plaats op de wijze, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
-2. Op basis van de informatie, bedoeld in het eerste lid, stelt de Minister de hoogte van de uitkeringscomponent, bedoeld in [artikel 2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045917&artikel=2&z=2022-11-05&g=2023-07-15), vast.
+2. Op basis van de informatie, bedoeld in het eerste lid, stelt de Minister de hoogte van de uitkeringscomponent, bedoeld in [artikel 2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045917&artikel=2&z=2023-11-30&g=2023-11-30), vast.
 
-3. De Minister stelt de hoogte van de specifieke uitkering per gemeente vast door de uitkeringscomponenten, bedoeld in [artikel 2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045917&artikel=2&z=2022-11-05&g=2023-07-15), bij elkaar op te tellen.
+3. De Minister stelt de hoogte van de specifieke uitkering per gemeente vast door de uitkeringscomponenten, bedoeld in [artikel 2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045917&artikel=2&z=2023-11-30&g=2023-11-30), bij elkaar op te tellen.
 
 4. De Minister stelt de specifieke uitkering vast binnen een jaar na de ontvangst van de informatie, bedoeld in het eerste lid.
 
