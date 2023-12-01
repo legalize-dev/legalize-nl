@@ -4,7 +4,7 @@ identifier: "BWBR0048571"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-05-28"
-last_updated: "2023-09-01"
+last_updated: "2023-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048571"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Toepasselijkheid [Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381)
 
-De [artikelen 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=6), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=11), [14, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=14), [17, eerste lid, aanhef en onderdelen a, b, c, e en f, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=18), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=21), [23, eerste, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=23), en [24, eerste lid, van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=24) zijn van overeenkomstige toepassing op een specifieke uitkering die op grond van deze regeling wordt verstrekt.
+De [artikelen 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=6), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=11), [14, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=14), [17, eerste lid, aanhef en onderdelen a, b, c, e en f, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=18), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=21), [23, eerste, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=23), en [24, eerste lid, van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=24) zijn van overeenkomstige toepassing op een specifieke uitkering die op grond van deze regeling wordt verstrekt.
 
 ##### Artikel 3. Doel
 
@@ -74,9 +74,9 @@ Deze regeling heeft tot doel om de ontvangers en de deelnemers aan de betreffend
 
 - a. voor het jaar 2023: € 9.254.404;
 
-- b. voor het jaar 2024: € 17.968.400;
+- b. voor het jaar 2024: € 19.555.987;
 
-- c. voor het jaar 2025: € 12.480.000.
+- c. voor het jaar 2025: € 10.892.413.
 
 Deze beschikbare bedragen zijn inclusief omzetbelasting.
 
@@ -112,7 +112,13 @@ Deze beschikbare bedragen zijn inclusief omzetbelasting.
 
 1. Gelijktijdig met de beschikking tot verlening van de specifieke uitkering verleent de minister een voorschot van 100%.
 
-2. Dit voorschot wordt betaald binnen zes weken na de bekendmaking van de beschikking tot verlening.
+2. Dit voorschot wordt betaald in drie termijnen:
+
+- a. het voorschot voor het jaar 2023 wordt binnen zes weken na de beschikking tot verlening betaald;
+
+- b. het voorschot voor het jaar 2024 wordt voor 1 juli 2024 betaald;
+
+- c. het voorschot voor het jaar 2025 wordt voor 1 juli 2025 betaald.
 
 ##### Artikel 7. Verantwoording
 
@@ -120,7 +126,7 @@ De ontvangers en de andere decentrale overheden van een samenwerkingsregio legge
 
 ##### Artikel 8. Vaststelling
 
-De minister stelt de specifieke uitkering vast uiterlijk op 31 december van het jaar waarin de laatste verantwoording, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048571&artikel=7&z=2023-09-01&g=2023-09-01), heeft plaatsgevonden.
+De minister stelt de specifieke uitkering vast uiterlijk op 31 december van het jaar waarin de laatste verantwoording, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048571&artikel=7&z=2023-12-01&g=2023-12-01), heeft plaatsgevonden.
 
 ##### Artikel 9. Evaluatieverslag
 
@@ -147,6 +153,39 @@ Maximale bedragen per ontvanger, inclusief omzetbelasting, als bedoeld in [artik
 | Provincie Zeeland | € 1.841.312 | € 3.332.300 | € 2.080.000 |
 | Provincie Gelderland | € 2.063.873 | € 3.562.200 | € 2.080.000 |
 | Provincie Noord-Brabant | € 1.076.425 | € 2.509.600 | € 2.080.000 |
+| Gemeente Utrecht | € 790.595 | € 2.350.000 | € 2.080.000 |
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 3a. Aanvraag
+
+1. De minister kan op aanvraag een specifieke uitkering verlenen aan een ontvanger.
+
+2. Bij de aanvraag worden de volgende gegevens aangeleverd:
+
+- a. een aanduiding waarvoor een specifieke uitkering wordt aangevraagd;
+
+- b. het bedrag dat wordt aangevraagd;
+
+- c. de jaren waarvoor de specifieke uitkering aangevraagd wordt;
+
+- d. het bedrag aan omzetbelasting dat recht geeft op een bijdrage op grond van de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817);
+
+- e. de NAW-gegevens van de aanvrager;
+
+- f. het bankrekeningnummer waarop de specifieke uitkering dient te worden gestort.
+
+## Bijlage, behorend bij [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048571&artikel=4&z=2023-12-01&g=2023-12-01)
+
+Maximale bedragen per ontvanger, inclusief omzetbelasting, als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048571&artikel=4&z=2023-12-01&g=2023-12-01)
+
+| Ontvanger | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- |
+| Provincie Noord-Holland | € 1.656.266 | € 2.861.100 | € 2.080.000 |
+| Provincie Fryslân | € 1.825.933 | € 3.353.200 | € 2.080.000 |
+| Provincie Zeeland | € 1.841.312 | € 3.332.300 | € 492.413 |
+| Provincie Gelderland | € 2.063.873 | € 3.109.739 | € 2.080.000 |
+| Provincie Noord-Brabant | € 1.076.425 | € 4.549.648 | € 2.080.000 |
 | Gemeente Utrecht | € 790.595 | € 2.350.000 | € 2.080.000 |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
