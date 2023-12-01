@@ -4,7 +4,7 @@ identifier: "BWBR0048113"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-08"
-last_updated: "2023-11-30"
+last_updated: "2023-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048113"
 soort: "ministeriele-regeling"
@@ -130,7 +130,7 @@ Het doel van de regeling is het beschikbaar stellen van middelen ten behoeve van
 
 3. De penvoerder realiseert minimaal 25% cofinanciering van de totale kosten van het desbetreffende MDT-project waarbij de cofinanciering in geld is, of wordt gewaardeerd in geld.
 
-4. Het aangevraagde subsidiebedrag per MDT-traject, zoals bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&artikel=4&z=2023-11-30&g=2023-11-30), kan niet hoger zijn dan:
+4. Het aangevraagde subsidiebedrag per MDT-traject, zoals bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&artikel=4&z=2023-11-30&g=2023-12-01), kan niet hoger zijn dan:
 
 - a. maximaal € 1.312 per MDT-basis-traject;
 
@@ -162,7 +162,7 @@ Het doel van de regeling is het beschikbaar stellen van middelen ten behoeve van
 
 - c. een cofinancieringsverklaring die is ondertekend door een tekenbevoegde van een organisatie, die een bijdrage levert aan het faciliteren van een MDT-project.
 
-5. Aanvragen dienen te voldoen aan de beoordelingscriteria die zijn uitgewerkt in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&bijlage=1&z=2023-11-30&g=2023-11-30) behorende bij deze subsidieregeling.
+5. Aanvragen dienen te voldoen aan de beoordelingscriteria die zijn uitgewerkt in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&bijlage=1&z=2023-11-30&g=2023-12-01) behorende bij deze subsidieregeling.
 
 6. Penvoerder gebruikt in de benaming van het project de afkorting ‘MDT’.
 
@@ -180,9 +180,9 @@ Het doel van de regeling is het beschikbaar stellen van middelen ten behoeve van
 
 - a. heeft de verplichting om uiterlijk binnen 6 maanden na verlening van de subsidie te starten met de projectactiviteiten;
 
-- b. heeft binnen drie maanden na startdatum van het project de intentieverklaring, bedoeld in [artikel 8, vierde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&artikel=8&z=2023-11-30&g=2023-11-30), omgezet in een samenwerkingsovereenkomst met de partnerorganisaties uit het partnerschap;
+- b. heeft binnen drie maanden na startdatum van het project de intentieverklaring, bedoeld in [artikel 8, vierde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&artikel=8&z=2023-11-30&g=2023-12-01), omgezet in een samenwerkingsovereenkomst met de partnerorganisaties uit het partnerschap;
 
-- c. realiseert cofinanciering zoals bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&artikel=6&z=2023-11-30&g=2023-11-30), van ten minste 25% van de totale kosten;
+- c. realiseert cofinanciering zoals bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&artikel=6&z=2023-11-30&g=2023-12-01), van ten minste 25% van de totale kosten;
 
 - d. levert eenmaal per 12 maanden na start van het MDT-project een tussentijdse rapportage over de algemene voortgang van het project en de realisatie van de MDT-trajecten, inclusief verwerving cofinanciering, conform het door de minister vastgestelde modelformulier;
 
@@ -220,7 +220,7 @@ Het doel van de regeling is het beschikbaar stellen van middelen ten behoeve van
 
 ##### Artikel 11. Beslistermijn
 
-De minister besluit op volledige aanvragen binnen 22 weken na afloop van de periode, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&artikel=8&z=2023-11-30&g=2023-11-30), op de aanvragen tot verlening.
+De minister besluit op volledige aanvragen binnen 22 weken na afloop van de periode, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&artikel=8&z=2023-11-30&g=2023-12-01), op de aanvragen tot verlening.
 
 ##### Artikel 12. Bevoorschotting en betaling
 
@@ -230,7 +230,7 @@ De minister besluit op volledige aanvragen binnen 22 weken na afloop van de peri
 
 - a. 60% bij het besluit tot subsidieverlening en;
 
-- b. 30% na de goedkeuring van de eerste tussentijdse rapportage, bedoeld in [artikel 9, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&artikel=9&z=2023-11-30&g=2023-11-30).
+- b. 30% na de goedkeuring van de eerste tussentijdse rapportage, bedoeld in [artikel 9, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&artikel=9&z=2023-11-30&g=2023-12-01).
 
 3. Met het besluit tot vaststelling van de subsidie wordt eventueel de resterende 10% van de verleende subsidie uitgekeerd.
 
@@ -290,9 +290,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 15a. Overgangsbepaling subsidieverstrekking 2023
 
-Dit onderdeel is nog niet inwerking getreden
+Ten aanzien van de subsidies die in 2023 op grond van deze regeling zijn verstrekt, blijft de regeling van toepassing zoals zij luidde op 2 mei 2023.
 
-## Bijlage 1. , behorende bij [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&artikel=10&z=2023-11-30&g=2023-11-30)
+## Bijlage 1. , behorende bij [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&artikel=10&z=2023-11-30&g=2023-12-01)
 
 ### Beoordelingskader subsidieregeling MDT 2023
 
