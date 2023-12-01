@@ -4,7 +4,7 @@ identifier: "BWBR0035791"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-24"
-last_updated: "2023-11-25"
+last_updated: "2023-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035791"
 soort: "ministeriele-regeling"
@@ -2562,6 +2562,8 @@ Naar aanleiding van de internationale coördinatie is het mogelijk dat voor een 
 
 In afwijking van hetgeen voor commerciële omroep in de kolom ‘Verdeelmechanisme’ van de in hoofdstuk 10 opgenomen Frequentietabel wordt bepaald, worden de in de ingekleurde geografische gebieden genoemde frequentieblokken ten behoeve van de tijdelijke verdeling op volgorde van binnenkomst verleend.
 
+Vervallen.
+
 In het banddeel 3550 – 3680 MHz wordt ten hoogste 50 MHz in gebruik genomen voor ‘mobiele communicatie’.
 
 De bestemming vaste satellietdienst – ruimte naar aarde (FSS_SE) is ingeperkt tot het passief gebruik van frequentieruimte ten behoeve van de vaste satellietdienst dat al plaatsvond voor 1 december 2023.
@@ -2578,9 +2580,9 @@ tot bedrijven die GNSS toepassingen ontwerpen, testen, inbouwen of onderhouden.
 
 CGC’s dienen integraal onderdeel uit te maken van een satellietsysteem en dienen onder controle te staan van het satellietcapaciteits- en netwerkbeheersmechanisme.
 
-De band van 24,25 GHz tot 26,65 GHz is op NIB-basis mede bestemd voor kortbereikradarapparatuur in motorvoertuigen voor zover typegoedkeuring van het voertuig voor 1 januari 2018 is verleend. Zie verder [Regeling gebruik van frequentieruimte zonder vergunning en zonder meldingsplicht 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036378).
-
 ### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
+
+Verklaring van in de Nationale Frequentietabel gebruikte afkortingen en begrippen, anders dan ITU diensten25Uitleg over de begrippen kan ook worden gevonden op www.telecomabc.nl en tevens in het Nationaal Frequentieregister (NFR), zie http://www.agentschaptelecom.nl/onderwerpen/frequentiemanagement/nationaal-frequentieregister. / **Explanation of abbreviations and notions as used in the frequency table, other than ITU radio services.**
 
 Verklaring van in de Nationale Frequentietabel gebruikte afkortingen en begrippen, anders dan ITU diensten25Uitleg over de begrippen kan ook worden gevonden op www.telecomabc.nl en tevens in het Nationaal Frequentieregister (NFR), zie http://www.agentschaptelecom.nl/onderwerpen/frequentiemanagement/nationaal-frequentieregister. / **Explanation of abbreviations and notions as used in the frequency table, other than ITU radio services.**
 
@@ -2786,9 +2788,9 @@ Vaste verbindingen worden ook wel straalverbindingen genoemd. Hierbij wordt gebr
 
 **Very small aperture terminal.**Een klein satellietgrondstation, vaak draagbaar, op een vaste plaats of verplaatsbaar, dat draadloos in verbinding staat met een communicatiesatelliet.
 
-**WRC –** **World Radio Conference**
-
 ### Annex 5, Summary of this Dutch Frequency Plan
+
+This Dutch frequency plan, edition 2014 (NFP2014) is a fully revised decree document of the last National Frequency Plan, edition 2005 (NFP2005). More limited changes of the frequency table have been published, on an average half-yearly basis, as interim changes since the NFP2005.
 
 This Dutch frequency plan, edition 2014 (NFP2014) is a fully revised decree document of the last National Frequency Plan, edition 2005 (NFP2005). More limited changes of the frequency table have been published, on an average half-yearly basis, as interim changes since the NFP2005.
 
@@ -2853,6 +2855,16 @@ Postbus 20401
 Telefoon (070) 379 89 11
 
 Internet http://www.rijksoverheid.nl/frequentiebeleid
+
+Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
+
+De band van 24,25 GHz tot 26,65 GHz is op NIB-basis mede bestemd voor kortbereikradarapparatuur in motorvoertuigen voor zover typegoedkeuring van het voertuig voor 1 januari 2018 is verleend. Zie verder [Regeling gebruik van frequentieruimte zonder vergunning en zonder meldingsplicht 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036378).
+
+### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
+
+**WRC –** **World Radio Conference**
+
+### Annex 5, Summary of this Dutch Frequency Plan
 
 Email: frequenties@minez.nl
 
