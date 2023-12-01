@@ -4,7 +4,7 @@ identifier: "BWBR0047938"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-12-01"
-last_updated: "2023-03-01"
+last_updated: "2023-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047938"
 soort: "ministeriele-regeling"
@@ -66,8 +66,8 @@ Het besluit van de Staatssecretaris van Economische Zaken en Klimaat van 26 apri
 
 ##### Artikel IV
 
-1. Dit besluit treedt, met uitzondering van [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0047938&artikel=I&z=2023-03-01&g=2023-03-01), in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
+1. Dit besluit treedt, met uitzondering van [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0047938&artikel=I&z=2023-12-01&g=2023-12-01), in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-2. [Artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0047938&artikel=I&z=2023-03-01&g=2023-03-01), treedt in werking met ingang van 1 december 2023.
+2. [Artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0047938&artikel=I&z=2023-12-01&g=2023-12-01), treedt in werking met ingang van 1 december 2023.
 
 Dit besluit wordt met de toelichting in de Staatscourant geplaatst.
