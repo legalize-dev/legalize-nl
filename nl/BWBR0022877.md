@@ -4,7 +4,7 @@ identifier: "BWBR0022877"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-12-02"
-last_updated: "2016-10-01"
+last_updated: "2023-12-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022877"
 soort: "ministeriele-regeling"
@@ -43,7 +43,7 @@ In deze regeling wordt verstaan onder:
 
 - a. beheerder: de Minister van Defensie;
 
-- b. commissie: de commissie van toezicht, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022877&artikel=2&z=2016-10-01&g=2016-10-01);
+- b. commissie: de commissie van toezicht, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022877&artikel=2&z=2023-12-02&g=2023-12-02);
 
 - c. ingeslotene: de persoon die rechtens van zijn vrijheid is beroofd, alsmede de persoon die ten behoeve van de hulpverlening aan hem op een brigade van de Koninklijke Marechaussee is ondergebracht;
 
@@ -56,6 +56,8 @@ In deze regeling wordt verstaan onder:
 2. De commissie bestaat uit tenminste drie en ten hoogste vijf leden, die door de beheerder op basis van een open sollicitatieprocedure voor een periode van drie jaar worden benoemd. Zij kunnen tweemaal worden herbenoemd. Uit de leden wijst de beheerder een voorzitter aan.
 
 3. Bij de samenstelling van de commissie wordt rekening gehouden met diversiteit in maatschappelijke achtergrond, kennis, deskundigheid en ervaring van de leden.
+
+4. De commissieleden ontvangen per vergadering een vergoeding overeenkomstig [artikel 2 van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=2).
 
 ##### Artikel 3
 
