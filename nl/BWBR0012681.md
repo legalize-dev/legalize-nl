@@ -4,7 +4,7 @@ identifier: "BWBR0012681"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-08"
-last_updated: "2023-06-22"
+last_updated: "2023-12-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012681"
 soort: "ministeriele-regeling"
@@ -262,19 +262,29 @@ Als gespen behorende bij de Herinneringsmedaille Internationale Missies worden i
 
 - 2°. SSR LAF, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven Libanon vanaf januari 2008: NL SSR OPERATIES;
 
-- ii. voor deelname aan Vessel Protection Detachments, vanaf 22 maart 2011, waarbij wordt afgeweken van de eis dat de inzet een aaneengesloten periode betreft: VPD;
+- ii. voor deelname aan Vessel Protection Detachments vanaf 22 maart 2011: VPD;
 
-- jj. voor deelname aan Speciale Operaties, vanaf 1 januari 2001 waarbij ten aanzien van de eerste inzet wordt afgeweken van de eis dat de inzet een aaneengesloten periode van ten minste dertig dagen betreft: SPECIALE OPERATIES;
+- jj. voor deelname aan Speciale Operaties, vanaf 1 januari 2001: SPECIALE OPERATIES;
 
 - kk. voor deelname aan Air Task Force Middle-East, voor zover deelname heeft plaatsgevonden in Jordanië, Koeweit en Qatar, vanaf 24 september 2014: ATFME;
 
-- ll. voor deelname aan Forward Presence Baltics:
+- ll. voor deelname aan Forward Presence:
 
 - 1°. Baltic Air Policing ‘BAP’, voor zover deze deelname heeft plaatsgehad vanaf de luchthaven Siauliai in Litouwen boven de Baltische staten, vanaf 4 januari 2017;
 
-- 2°. Enhanced Forward Presence Baltics ‘EFP’, voor zover deze deelname heeft plaatsgehad in en boven de Oostzee, Polen, Estland, Letland en Litouwen vanaf 1 maart 2017: FORWARD PRESENCE BALTICS;
+- 2°. Enhanced Forward Presence Baltics ‘EFP’, voor zover deze deelname heeft plaatsgehad in en boven de Oostzee, Polen, Estland, Letland en Litouwen vanaf 1 maart 2017;
 
-- mm. voor deelname aan Non-Combattant Evacuation Operation Kabul ‘NEO KABUL’, voor zover deze deelname heeft plaatsgevonden op het grondgebied in Kabul, Islamabad en Tblisi, alsmede in het luchtruim boven Afghanistan, vanaf 16 augustus, waarbij wordt afgeweken van de eis dat de inzet een aaneengesloten periode van ten minste dertig dagen betreft: NEO KABUL 2021;
+- 3°. Enhanced Forward Presence Litouwen ‘EFP Litouwen’, voor zover deze deelname heeft plaatsgehad in en boven Litouwen vanaf 24 februari 2022;
+
+- 4°. Enhanced Air Policing Bulgarije ‘EAP Bulgarije’, voor zover deze deelname heeft plaatsgehad in en boven Bulgarije vanaf 1 maart 2022;
+
+- 5°. Air Missile Defense Task Force Slowakije ‘AMDTF Slowakije’, voor zover deze deelname heeft plaatsgehad in en boven Slowakije vanaf 20 maart 2022;
+
+- 6°. Enhanced Forward Presence Roemenië ‘EFP Roemenië’, voor zover deze deelname heeft plaatsgehad in en boven Roemenië vanaf 2 augustus 2022;
+
+- 7°. Enhanced Air Policing Polen ‘EAP Polen’, voor zover deze deelname heeft plaatsgehad in en boven Polen vanaf 2 januari 2023: FORWARD PRESENCE;
+
+- mm. voor deelname aan Non-Combattant Evacuation Operation Kabul ‘NEO KABUL’, voor zover deze deelname heeft plaatsgevonden op het grondgebied in Kabul, Islamabad en Tblisi, alsmede in het luchtruim boven Afghanistan vanaf 16 augustus: NEO KABUL 2021;
 
 - nn. voor deelname aan de operatie ‘FORENSISCHE OPSPORING ICC’, voor zover deze deelname heeft plaatsgevonden op het grondgebied van Oekraïne, alsmede in Rzeszow, Polen, vanaf 14 mei 2022: FORENSISCHE OPSPORING.
 
