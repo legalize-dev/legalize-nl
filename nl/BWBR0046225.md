@@ -4,7 +4,7 @@ identifier: "BWBR0046225"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-02-06"
-last_updated: "2023-10-01"
+last_updated: "2023-12-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046225"
 soort: "ministeriele-regeling"
@@ -208,7 +208,9 @@ In dit besluit wordt verstaan onder:
 
 - o. **de senior inspecteurs bij de divisie Veterinair en Import en de afdeling Certificeren op afstand:** senior inspecteurs bij de divisie Veterinair en Import en de afdeling Certificeren op afstand die toezichthoudend dierenarts, dan wel senior toezichthoudend dierenarts zijn;
 
-- p. **de liaison agressie en geweld:** de liaison agressie en geweld van de Nederlandse Voedsel- en Warenautoriteit.
+- p. **de liaison agressie en geweld:** de liaison agressie en geweld van de Nederlandse Voedsel- en Warenautoriteit;
+
+- q. **CJIB:** Centraal Justitieel Incassobureau als bedoeld in [artikel 2, derde lid, onderdeel b, onder 1° van het Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=2).
 
 #### § 2. Taakverdeling
 
@@ -234,7 +236,7 @@ Het [Besluit ondermandaat, volmacht en machtiging van de inspecteur-generaal van
 
 ##### Artikel 10
 
-Dit besluit treedt in werking met ingang van de dag na de datum van publicatie in de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 juli 2020, en werkt ten aanzien van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046225&paragraaf=2&artikel=3&z=2023-08-01&g=2023-10-01) terug tot 1 januari 2019.
+Dit besluit treedt in werking met ingang van de dag na de datum van publicatie in de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 juli 2020, en werkt ten aanzien van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046225&paragraaf=2&artikel=3&z=2023-12-05&g=2023-12-05) terug tot 1 januari 2019.
 
 ##### Artikel 11
 
