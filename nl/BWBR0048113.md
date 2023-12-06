@@ -4,7 +4,7 @@ identifier: "BWBR0048113"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-08"
-last_updated: "2023-12-01"
+last_updated: "2023-12-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048113"
 soort: "ministeriele-regeling"
@@ -58,6 +58,8 @@ In deze regeling wordt verstaan onder:
 
 - **MDT-extra-traject:** MDT-traject van ten minste 80 uur gedurende een periode van ten hoogste 6 maanden, waarbij het MDT-traject de intensieve begeleiding van een jongere vergt;
 
+- **MDT-intensief-traject:** MDT-traject van ten minste 320 uur gedurende een periode van ten hoogste zes maanden;
+
 - **MDT-plus-traject:** MDT-traject van ten minste 200 uur gedurende een periode van ten minste 3 en ten hoogste 6 maanden;
 
 - **MDT-netwerk:** landelijk netwerk van organisaties betrokken bij de uitvoering van de MDT-projecten;
@@ -72,11 +74,13 @@ In deze regeling wordt verstaan onder:
 
 - **onderwijsinstelling:** onderwijsinstelling zoals bedoeld in [artikel 1, onderdeel a, van de Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=1), met uitzondering van bekostigde scholen zoals bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1).
 
-- **partnerschap:** penvoerder en één of meer organisaties, die samenwerken bij het uitvoeren van een MDT-project;
+- **partnerschap:** partnerschap dat is gevormd ten behoeve van de uitvoering van een MDT-project en dat bestaat uit ten minste een penvoerder en één of meer andere partijen;
 
 - **penvoerder:** instelling zoals bedoeld in de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603), die optreedt als aanvrager en na verlening als ontvanger van de subsidie;
 
 - **prestatiebewijs:** bewijs waaruit blijkt dat een jongere een MDT-traject wel of niet heeft afgerond;
+
+- **regionaal samenwerkingsverband MDT:** samenwerkingsverband van penvoerders in een regio.
 
 ##### Artikel 2. Toepasselijkheid [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
@@ -104,7 +108,7 @@ Het doel van de regeling is het beschikbaar stellen van middelen ten behoeve van
 
 - e. coördinerende, uitvoerende en ondersteunende werkzaamheden, waaronder activiteiten in het kader van onderzoeksdeelname en de kosten ten behoeve van de verantwoording;
 
-- f. activiteiten ten behoeve van samenwerking, verduurzaming en kennisdeling binnen het MDT-netwerk en in de regio.
+- f. activiteiten ten behoeve van samenwerking in de regio, deelname aan regionale samenwerkingsverbanden MDT, en verduurzaming en kennisdeling binnen het MDT-netwerk.
 
 2. Een MDT-traject voor een jongere die reeds twee keer eerder een MDT-traject heeft afgerond, is niet subsidiabel.
 
@@ -130,19 +134,21 @@ Het doel van de regeling is het beschikbaar stellen van middelen ten behoeve van
 
 3. De penvoerder realiseert minimaal 25% cofinanciering van de totale kosten van het desbetreffende MDT-project waarbij de cofinanciering in geld is, of wordt gewaardeerd in geld.
 
-4. Het aangevraagde subsidiebedrag per MDT-traject, zoals bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&artikel=4&z=2023-11-30&g=2023-12-01), kan niet hoger zijn dan:
+4. Het aangevraagde subsidiebedrag per MDT-traject, zoals bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&artikel=4&z=2023-12-06&g=2023-12-06), kan niet hoger zijn dan:
 
-- a. maximaal € 1.312 per MDT-basis-traject;
+- a. maximaal € 1.385 per MDT-basis-traject;
 
-- b. maximaal € 1.875 per MDT-extra-traject;
+- b. maximaal € 1.980 per MDT-extra-traject;
 
-- c. maximaal € 2.100 per MDT-plus-traject.
+- c. maximaal € 2.217 per MDT-plus-traject;
+
+- d. maximaal € 3.722 per MDT-intensief-traject.
 
 5. De penvoerder kan bij de aanvraag tot verlening van subsidie voor maximaal 5% van de totale kosten van het desbetreffende MDT-project, garant staan voor de cofinanciering, bedoeld in het derde lid.
 
 ##### Artikel 7. Subsidieplafond en wijze van verdeling
 
-1. Het subsidieplafond bedraagt € 185.000.000.
+1. Het subsidieplafond bedraagt € 150.000.000.
 
 2. Indien het subsidieplafond bij subsidieverstrekking aan alle daarvoor in aanmerking komende aanvragen zou worden overschreden, verdeelt de minister het beschikbare bedrag middels een evenredige korting over de daarvoor in aanmerking komende aanvragen.
 
@@ -150,7 +156,7 @@ Het doel van de regeling is het beschikbaar stellen van middelen ten behoeve van
 
 1. Een penvoerder kan éénmaal op grond van deze regeling subsidie aanvragen.
 
-2. De aanvraag tot verlening kan worden ingediend van 2 mei 2023, 10:00 uur tot 30 juni 2023, tot 12.00 uur.
+2. De subsidieaanvraag kan worden ingediend van 1 februari 2024 10.00 uur tot en met 1 mei 2024, 15.00 uur.
 
 3. Aanvragen die niet zijn ingediend binnen de periode, bedoeld in het tweede lid, worden afgewezen.
 
@@ -158,21 +164,19 @@ Het doel van de regeling is het beschikbaar stellen van middelen ten behoeve van
 
 - a. het aanvraagformulier, waaronder begroting en activiteitenplan;
 
-- b. een intentieverklaring van samenwerking die door alle partners die onderdeel zijn van het partnerschap is ondertekend; en
+- b. een samenwerkingsovereenkomst die door alle partners die onderdeel zijn van het partnerschap is ondertekend; en
 
 - c. een cofinancieringsverklaring die is ondertekend door een tekenbevoegde van een organisatie, die een bijdrage levert aan het faciliteren van een MDT-project.
 
-5. Aanvragen dienen te voldoen aan de beoordelingscriteria die zijn uitgewerkt in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&bijlage=1&z=2023-11-30&g=2023-12-01) behorende bij deze subsidieregeling.
+5. Aanvragen dienen te voldoen aan de beoordelingscriteria die zijn uitgewerkt in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&bijlage=1&z=2023-12-06&g=2023-12-06) behorende bij deze subsidieregeling.
 
-6. Penvoerder gebruikt in de benaming van het project de afkorting ‘MDT’.
+6. De subsidie wordt voor een periode van twee of drie jaar verstrekt. De penvoerder geeft in de aanvraag tot verlening de gewenste periode aan.
 
-7. De subsidie wordt voor een periode van twee of drie jaar verstrekt. De penvoerder geeft in de aanvraag tot verlening de gewenste periode aan.
+7. Een penvoerder draagt er zorg voor dat een MDT-traject niet leidt tot stage- of werkverdringing.
 
-8. Een penvoerder draagt er zorg voor dat een MDT-traject niet leidt tot stage- of werkverdringing.
+8. De penvoerder draagt er zorg voor dat deelname aan MDT-trajecten vrijwillig is. Een meer verplichtend karakter is toegestaan wanneer MDT wordt ingezet om vanuit [Leerplichtwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002628) en kwalificatieplicht toeleiding naar school te bevorderen of vanuit de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) verlangd wordt dat er tegenprestatie geleverd wordt.
 
-9. De penvoerder draagt er zorg voor dat deelname aan MDT-trajecten vrijwillig is. Een meer verplichtend karakter is toegestaan wanneer MDT wordt ingezet om vanuit [Leerplichtwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002628) en kwalificatieplicht toeleiding naar school te bevorderen of vanuit de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) verlangd wordt dat er tegenprestatie geleverd wordt.
-
-10. Deze subsidieregeling is niet van toepassing op het Caribisch deel van het Koninkrijk.
+9. Deze subsidieregeling is niet van toepassing op het Caribisch deel van het Koninkrijk.
 
 ##### Artikel 9. Verplichtingen
 
@@ -180,27 +184,25 @@ Het doel van de regeling is het beschikbaar stellen van middelen ten behoeve van
 
 - a. heeft de verplichting om uiterlijk binnen 6 maanden na verlening van de subsidie te starten met de projectactiviteiten;
 
-- b. heeft binnen drie maanden na startdatum van het project de intentieverklaring, bedoeld in [artikel 8, vierde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&artikel=8&z=2023-11-30&g=2023-12-01), omgezet in een samenwerkingsovereenkomst met de partnerorganisaties uit het partnerschap;
+- b. realiseert cofinanciering zoals bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&artikel=6&z=2023-12-06&g=2023-12-06), van ten minste 25% van de totale kosten;
 
-- c. realiseert cofinanciering zoals bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&artikel=6&z=2023-11-30&g=2023-12-01), van ten minste 25% van de totale kosten;
+- c. levert eenmaal per 12 maanden na start van het MDT-project een tussentijdse rapportage over de algemene voortgang van het project en de realisatie van de MDT-trajecten, inclusief verwerving cofinanciering, conform het door de minister vastgestelde modelformulier;
 
-- d. levert eenmaal per 12 maanden na start van het MDT-project een tussentijdse rapportage over de algemene voortgang van het project en de realisatie van de MDT-trajecten, inclusief verwerving cofinanciering, conform het door de minister vastgestelde modelformulier;
+- d. voert per variant tenminste 85% van het aantal bij de aanvraag voorgenomen MDT-trajecten volledig uit;
 
-- e. voert per variant tenminste 85% van het aantal bij de aanvraag voorgenomen MDT-trajecten volledig uit;
+- e. gebruikt in de benaming van het project de afkorting ‘MDT’, en heeft een inspanningsverplichting om bij te dragen aan de naamsbekendheid van MDT en om het MDT logo te gebruiken in alle communicatieactiviteiten en uitingen van het partnerschap;
 
-- f. heeft een inspanningsverplichting om bij te dragen aan de naamsbekendheid van MDT door minimaal het MDT logo te gebruiken in alle communicatie activiteiten en -uitingen van het partnerschap;
+- f. heeft de verplichting om het MDT-proof label aan te vragen binnen 12 maanden na startdatum van het project;
 
-- g. heeft de verplichting om het MDT-proof label aan te vragen binnen 12 maanden na startdatum van het project;
+- g. accepteert alleen aanmeldingen van deelnemers, bij aanvang van het MDT-traject in de leeftijd van 12 tot 30 jaar oud, die op basis van de Basisregistratie Personen (BRP) als ingezetene kunnen worden aangemerkt;
 
-- h. accepteert alleen aanmeldingen van deelnemers, bij aanvang van het MDT-traject in de leeftijd van 12 tot 30 jaar oud, die op basis van de Basisregistratie Personen (BRP) als ingezetene kunnen worden aangemerkt;
+- h. verstrekt alle deelnemende jongeren het MDT-certificaat na afronding van het MDT-traject;
 
-- i. verstrekt alle deelnemende jongeren het MDT-certificaat na afronding van het MDT-traject;
+- i. dient met elke samenwerkingspartner een data sharing agreement (DSA) af te sluiten om gegevensuitwisseling met de penvoerder mogelijk te maken, en overlegt deze bij de tussentijdse rapportage van het project aan de minister;
 
-- j. dient met elke samenwerkingspartner een data sharing agreement (DSA) af te sluiten om gegevensuitwisseling met de penvoerder mogelijk te maken, en overlegt deze uiterlijk binnen drie maanden na startdatum van het project aan de minister;
+- j. houdt een deelnemersregistratie bij ten behoeve van de verantwoording;
 
-- k. houdt een deelnemersregistratie bij ten behoeve van de verantwoording;
-
-- l. is verplicht deel te nemen aan meerdere onderdelen van onderzoek ten behoeve van de doorontwikkeling van het MDT-programma, te weten:
+- k. is verplicht deel te nemen aan meerdere onderdelen van onderzoek ten behoeve van de doorontwikkeling van het MDT-programma, te weten:
 
 - i. een gegevensuitvraag: penvoerder overlegt per kwartaal een overzicht aan het onafhankelijke onderzoeksbureau, met daarin kenmerken van jongeren en hun MDT-traject;
 
@@ -210,17 +212,19 @@ Het doel van de regeling is het beschikbaar stellen van middelen ten behoeve van
 
 - iv. impactonderzoek: deelname aan het centrale onderzoek naar de maatschappelijke impact van MDT;
 
-- v. beleidsevaluaties: deelname aan door de minister nader te bepalen overige beleidsevaluaties.
+- v. beleidsevaluaties: deelname aan door de minister nader te bepalen overige beleidsevaluaties;
+
+- vi. een vragenlijst na verlening: de penvoerder overlegt binnen twee maanden na verlening een ingevulde vragenlijst ten behoeve van de registratie van het MDT-project en startmeting van onderzoek.
 
 ##### Artikel 10. Beoordelingscommissie
 
-1. Een door de minister ingestelde beoordelingscommissie adviseert de minister over de subsidieaanvragen op basis van de beoordelingscriteria, bedoeld in bijlage 1.
+1. Een door de minister ingestelde beoordelingscommissie adviseert de minister op basis van de beoordelingscriteria, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&bijlage=1&z=2023-12-06&g=2023-12-06), over de volledige subsidieaanvragen, met uitzondering van subsidieaanvragen die worden geweigerd op grond van [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) of omdat de penvoerder niet voldoet aan de eisen, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&artikel=5&z=2023-12-06&g=2023-12-06).
 
 2. De beoordelingscommissie kan waar nodig externe deskundigen vragen haar te ondersteunen.
 
 ##### Artikel 11. Beslistermijn
 
-De minister besluit op volledige aanvragen binnen 22 weken na afloop van de periode, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&artikel=8&z=2023-11-30&g=2023-12-01), op de aanvragen tot verlening.
+De minister besluit op volledige aanvragen binnen 22 weken na afloop van de periode, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&artikel=8&z=2023-12-06&g=2023-12-06), op de aanvragen tot verlening.
 
 ##### Artikel 12. Bevoorschotting en betaling
 
@@ -230,7 +234,7 @@ De minister besluit op volledige aanvragen binnen 22 weken na afloop van de peri
 
 - a. 60% bij het besluit tot subsidieverlening en;
 
-- b. 30% na de goedkeuring van de eerste tussentijdse rapportage, bedoeld in [artikel 9, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&artikel=9&z=2023-11-30&g=2023-12-01).
+- b. 30% na de goedkeuring van de eerste tussentijdse rapportage, bedoeld in [artikel 9, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&artikel=9&z=2023-12-06&g=2023-12-06).
 
 3. Met het besluit tot vaststelling van de subsidie wordt eventueel de resterende 10% van de verleende subsidie uitgekeerd.
 
@@ -268,7 +272,7 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 ##### Artikel 16. Citeertitel
 
-Deze regeling wordt aangehaald als: Subsidieregeling MDT 2023.
+Deze regeling wordt aangehaald als: Subsidieregeling Maatschappelijke Diensttijd (MDT).
 
 ## Bijlage 1. , behorende bij [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&artikel=10&z=2025-05-07&g=2023-05-01)
 
@@ -292,10 +296,41 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Ten aanzien van de subsidies die in 2023 op grond van deze regeling zijn verstrekt, blijft de regeling van toepassing zoals zij luidde op 2 mei 2023.
 
-## Bijlage 1. , behorende bij [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&artikel=10&z=2023-11-30&g=2023-12-01)
+## Bijlage 1. behorende bij [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&artikel=10&z=2023-12-06&g=2023-12-06), van de Subsidieregeling Maatschappelijke Diensttijd (MDT)
+
+De criteria aan de hand waarvan een subsidieaanvraag beoordeeld wordt, zijn:
+
+| Criterium | Onderdeel | Toelichting |
+| --- | --- | --- |
+| **1. Reflectie (bestaande penvoerder)** **De penvoerder reflecteert op de realisatie van de voorgaande en/of nog lopende MDT-projecten uit subsidierondes 4a, 4b, 4c van ZonMw en 5a van DUS-I.1 Daarbij wordt toegelicht welke lessen men heeft geleerd en wat men daarvan gaat meenemen naar het nieuwe MDT-project.** | A. Realisatie | De penvoerder beschrijft en reflecteert op de realisatie van het aantal uitgevoerde (afgeronde en niet-afgeronde) MDT-trajecten, ten opzichte van het beoogde aantal volgens planning. |
+| **1. Reflectie (bestaande penvoerder)** **De penvoerder reflecteert op de realisatie van de voorgaande en/of nog lopende MDT-projecten uit subsidierondes 4a, 4b, 4c van ZonMw en 5a van DUS-I.1 Daarbij wordt toegelicht welke lessen men heeft geleerd en wat men daarvan gaat meenemen naar het nieuwe MDT-project.** | B. Verbeteringen | De penvoeder licht toe wat de succesfactoren en verbeteringen zijn (geweest), waar ruimte (geweest) is voor verbetering en tot welke verbeteringen dat concreet heeft geleid in de huidige subsidieaanvraag. |
+| **2. Visie op MDT, beoogde realisatie en impact** **De penvoerder beschrijft de visie op MDT, de doelgroep, de beoogde realisatie en met welke activiteiten impact wordt nagestreeft** | A. Visie op MDT | De penvoerder licht toe hoe het partnerschap tot stand is gekomen en waarom het partnerschap (opnieuw) MDT-trajecten wil gaan aanbieden, welke visie het partnerschap heeft op MDT, op de drie pijlers van MDT (iets doen voor een ander, talentontwikkeling en ontmoeting), en wat dat betekent voor de opzet en de uitvoering van het MDT-project. |
+| **2. Visie op MDT, beoogde realisatie en impact** **De penvoerder beschrijft de visie op MDT, de doelgroep, de beoogde realisatie en met welke activiteiten impact wordt nagestreeft** | B. Doelgroep | De penvoerder licht toe op welke doelgroep of doelgroepen jongeren het project zich gaat richten en geeft een doelgroepomschrijving per trajectvariant. |
+| **2. Visie op MDT, beoogde realisatie en impact** **De penvoerder beschrijft de visie op MDT, de doelgroep, de beoogde realisatie en met welke activiteiten impact wordt nagestreeft** | C. Beoogde realisatie | De penvoerder levert een planning van de te realiseren trajecten per trajectvariant aan en geeft per fase (werving, intake, uitvoering, afgerond) een toelichting waarbij rekening wordt gehouden met eventuele uitval. |
+| **2. Visie op MDT, beoogde realisatie en impact** **De penvoerder beschrijft de visie op MDT, de doelgroep, de beoogde realisatie en met welke activiteiten impact wordt nagestreeft** | D. Impact | De penvoerder licht per trajectvariant toe met welke activiteiten impact op jongeren en de samenleving wordt nagestreefd, aan de hand van de drie pijlers van MDT en hoe hiervan wordt geleerd en naar aanleiding hiervan wordt bijgestuurd. |
+| **3. Activiteiten** **De penvoerder beschrijft hoe het partnerschap de MDT-trajecten per variant gaat uitvoeren.** | A. Werving van jongeren voor een MDT-traject | De penvoerder geeft een toelichting op de wervingsstrategie en beschijft daarbij de werkwijze, waarom deze werkwijze passend is en welke partij(en) in welke rol dit uitvoeren. |
+| **3. Activiteiten** **De penvoerder beschrijft hoe het partnerschap de MDT-trajecten per variant gaat uitvoeren.** | B. Intake en matching van jongeren aan een MDT-traject | De penvoerder licht toe hoe de intake plaatsvindt (bijvoorbeeld gesprek, training, kennismakingsactiviteit) en hoe jongeren worden gekoppeld aan een voor hen passend MDT-traject. |
+| **3. Activiteiten** **De penvoerder beschrijft hoe het partnerschap de MDT-trajecten per variant gaat uitvoeren.** | C. Begeleiding van jongeren | De penvoerder beschrijft: – De begeleiding (o.a. individuele begeleiding, groepsbegeleiding, begeleiding op de activiteiten bij partnerorganisaties). – De gemiddelde totale inzet in uren aan begeleiding voor een volledig MDT-traject (waarbij o.a. de verhouding tussen individuele- en groepsbegeleiding en de verhouding tussen begeleiding en activiteiten in uren inzichtelijk wordt gemaakt). – De verdeling van de inzet voor begeleiding tussen de penvoerder en de overige partners. |
+| **3. Activiteiten** **De penvoerder beschrijft hoe het partnerschap de MDT-trajecten per variant gaat uitvoeren.** | D. Uitvoering activiteiten van het MDT-traject | De penvoerder licht toe hoe de MDT-trajecten worden uitgevoerd en beschrijft daarbij in ieder geval welke activiteiten in het MDT-traject plaatsvinden (incl. trainingen, groepsgrootte). |
+| **3. Activiteiten** **De penvoerder beschrijft hoe het partnerschap de MDT-trajecten per variant gaat uitvoeren.** | E. Coördinatie en ondersteuning van het MDT-project | De penvoerder licht toe welke coördinerende en ondersteunende activiteiten er uitgevoerd gaan worden en hoe deze zijn belegd binnen het partnerschap. Hierbij worden aspecten toegelicht zoals projectleiding, monitoring en tussentijdse (proces)evaluatie, projectadministratie, overleg met de partners (overlegstructuur), deelname aan centraal onderzoek, communicatie, verduurzaming, (door)ontwikkeling van MDT-trajecten en producten. |
+| **4. Jongerenparticipatie en jongerenreis** **De penvoerder licht toe hoe de jongerenparticipatie en inspraak georganiseerd gaat worden op project- en traectniveau, en wat daarin de belangrijkste accenten zullen zijn. Daarnaast beschrijft de penvoerder per MDT-variant de jongerenreis.** | A. Jongerenparticipatie op projectniveau | De penvoerder licht toe in welke mate en vorm jongeren betrokken zijn en inspraak hebben op: – de activiteiten (3.A t/m E) – de invulling van jongerenparticipatie Daarbij geeft de penvoerder een toelichting op de gekozen vorm van participatie, denk aan: meedenken, meepraten, (mee-) beslissen of jongeren in de lead. |
+| **4. Jongerenparticipatie en jongerenreis** **De penvoerder licht toe hoe de jongerenparticipatie en inspraak georganiseerd gaat worden op project- en traectniveau, en wat daarin de belangrijkste accenten zullen zijn. Daarnaast beschrijft de penvoerder per MDT-variant de jongerenreis.** | B. Jongerenparticipatie op trajectniveau | De penvoerder licht toe in welke mate en vorm de jongere betrokken is en inspraak heeft bij het opstellen van eigen leerdoelen en het eigen traject, inclusief de activiteiten en de begeleiding. Daarbij geeft de penvoerder een toelichting op de gekozen vorm van participatie, denk aan: meedenken, meepraten, (mee-)beslissen of jongeren in de lead. |
+| **4. Jongerenparticipatie en jongerenreis** **De penvoerder licht toe hoe de jongerenparticipatie en inspraak georganiseerd gaat worden op project- en traectniveau, en wat daarin de belangrijkste accenten zullen zijn. Daarnaast beschrijft de penvoerder per MDT-variant de jongerenreis.** | C. Jongerenreis | De penvoerder beschrijft per MDT-variant, vanuit het perspectief van de jongere, de reis die de jongere aflegt. Vanaf het moment dat de jongere wordt geënthousiasmeerd voor MDT tot en met de afronding van het MDT-traject. Hierbij worden aspecten toegelicht zoals de werving, intake, begeleiding, activiteiten en de waardering. |
+| **5. Partnerschap en samenwerking** **De penvoerder beschrijft hoe het partnerschap is samengesteld en georganiseerd, waarom de organisatie geschikt is om te fungeren als penvoerder, hoe de samenwerking georganiseerd gaat worden en hoe het partnerschap duurzaam wordt ingericht.** | A. Samenstelling en organisatie partnerschap | De penvoerder licht toe hoe het partnerschap is samengesteld, welke bijdragen de partners gaan leveren (m.n. rolverdeling) en op welke wijze dit bijdraagt aan het gezamenlijke doel van het partnerschap. De penvoerder licht toe waarom dit adequaat is voor het bereiken van de kwalitatieve- en kwantitatieve projectdoelstellingen. Daarnaast licht de penvoerder toe hoe het partnerschap is georganiseerd. Hierbij wordt ingegaan op aspecten zoals organisatiestructuur, taakverdeling tussen de partners, kennisdeling en professionalisering. |
+| **5. Partnerschap en samenwerking** **De penvoerder beschrijft hoe het partnerschap is samengesteld en georganiseerd, waarom de organisatie geschikt is om te fungeren als penvoerder, hoe de samenwerking georganiseerd gaat worden en hoe het partnerschap duurzaam wordt ingericht.** | B. Aanwezige kennis en expertise bij penvoerder en/of partnerschap | De penvoerder licht toe in welke mate de projectleider(s), medewerkers en begeleiders bij zowel de penvoerder als bij de partners beschikken over passende kennis en ervaring om een MDT-project en in het bijzonder MDT-trajecten voor jongeren te gaan uitvoeren. Daarnaast licht de penvoerder toe in welke mate de eigen organisatie toegerust is om een (groot) gesubsidieerd project te initiëren, aansturen, te begeleiden en te verantwoorden. |
+| **5. Partnerschap en samenwerking** **De penvoerder beschrijft hoe het partnerschap is samengesteld en georganiseerd, waarom de organisatie geschikt is om te fungeren als penvoerder, hoe de samenwerking georganiseerd gaat worden en hoe het partnerschap duurzaam wordt ingericht.** | C. Risico’s en beheersmaatregelen | De penvoerder licht toe welke risico’s het partnerschap voorziet voor het MDT-project en voor de uitvoering van de MDT-trajecten. Daarbij beschrijft de penvoerder welke maatregelen het partnerschap zal nemen als deze risico’s zich verwezenlijken gedurende de subsidieduur. |
+| **5. Partnerschap en samenwerking** **De penvoerder beschrijft hoe het partnerschap is samengesteld en georganiseerd, waarom de organisatie geschikt is om te fungeren als penvoerder, hoe de samenwerking georganiseerd gaat worden en hoe het partnerschap duurzaam wordt ingericht.** | D. Samenwerking en kennisdeling binnen het MDT-netwerk en in de regio | De penvoerder licht toe hoe hij gaat samenwerken met andere MDT-projecten, landelijk of met regionale samenwerkingsverbanden van MDT. Hierbij wordt toegelicht wat men wil bereiken in de samenwerking met andere MDT-projecten of organisaties. |
+| **5. Partnerschap en samenwerking** **De penvoerder beschrijft hoe het partnerschap is samengesteld en georganiseerd, waarom de organisatie geschikt is om te fungeren als penvoerder, hoe de samenwerking georganiseerd gaat worden en hoe het partnerschap duurzaam wordt ingericht.** | E. Verduurzaming | De penvoerder licht toe aan de hand van concrete activiteiten hoe MDT duurzaam wordt ingebed en geborgd bij partners in het partnerschap. Denk aan hoe deze activiteiten aansluiten op bestaande initiatieven en infrastructuur van organisaties (bijv. zorg, welzijn, onderwijs, sociaal domein, maatschappelijke organisaties, bedrijfsleven), en aan financiele betrokkenheid van (nieuwe) partners t.b.v. de financiële duurzaamheid van het initiatief. |
+| **6. Begroting** **De penvoerder verstrekt een begroting.** | Begroting | De penvoerder verstrekt een begroting voor de activiteiten, zoals genoemd in artikel 8, vierde lid, van de subsidieregeling. Deze begroting is een samenvatting van de volledige begroting van de aanvrager. De begroting zal worden beoordeeld op proportionaliteit, waaronder de verdeling van de kosten per activiteit. |
+
+1 Voor meer informatie over MDT subsidierondes van ZonMw, zie [https://www.zonmw.nl/nl/subsidies?f%5B0%5D=subsidy_programs%3A17696&f%5B1%5D=subsidy_programs%3A17696](onbekend). Voor meer informatie over subsidieronde 5a, zie https://wetten.overheid.nl/BWBR0046343/2022-06-10.
+
+De beoordelingscommissie beoordeelt de kwaliteit van de aanvragen voor nieuwe penvoerders aan de hand van de criteria 2 tot en met 6 en voor bestaande penvoerders aan de hand van de criteria 1 tot en met 6. Een penvoerder moet op al deze criteria voldoende scoren om in aanmerking te komen voor subsidie.
 
 ### Beoordelingskader subsidieregeling MDT 2023
 
 De beoordelingscommissie beoordeelt de kwaliteit van de aanvragen voor nieuwe penvoerders aan de hand van de criteria 1 en 3 tot en met 6 en voor bestaande penvoerders aan de hand van de criteria 2 tot en met 6. Een penvoerder moet op al deze criteria voldoende scoren om in aanmerking te komen voor subsidie.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
