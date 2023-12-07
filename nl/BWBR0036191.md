@@ -4,7 +4,7 @@ identifier: "BWBR0036191"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-24"
-last_updated: "2021-09-11"
+last_updated: "2023-12-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036191"
 soort: "ministeriele-regeling"
@@ -44,9 +44,9 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- –. **allotment:** geografisch afgebakend deel van een frequentieband, zijnde een van de allotments die worden genoemd en omschreven in nationale voetnoot HOL006 of HOL007B van het [Nationaal Frequentieplan 2014](onbekend);
+- –. **allotment:** geografisch afgebakend deel van de frequentieband 174 – 230 MHz;
 
-- –. **DVB-T-vergunning:** vergunning voor het gebruik van frequentieruimte met een bandbreedte van 8 MHz in de band 470–790 MHz voor in het bijzonder het digitaal uitzenden van drie algemene televisieprogrammakanalen als bedoeld in [artikel 2.50, eerste lid, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.50);
+- –. **DVB-T-vergunning:** vergunning voor het gebruik van frequentieruimte met een bandbreedte van 8 MHz in de frequentieband 470–790 MHz voor in het bijzonder het digitaal uitzenden van drie algemene televisieprogrammakanalen;
 
 - –. **lokale publieke media-instelling:** lokale publieke media-instelling als bedoeld in [artikel 1.1, eerste lid, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=1.1);
 
@@ -90,12 +90,22 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 3a
 
-1. Voor de verlening van een vergunning als bedoeld in [artikel 3.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.8) aan een lokale publieke media-instelling is voor het gelijktijdig digitaal uitzenden van de radioprogramma’s die met gebruikmaking van de vergunningen, bedoeld in [artikel 3.7, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.7), analoog worden uitgezonden, voor zover dat technisch mogelijk is en doelmatig frequentiegebruik zich daartegen niet verzet, capaciteit beschikbaar voor het gebruik van frequentieruimte als bedoeld in nationale voetnoot HOL007B van het Nationaal Frequentieplan 2014 in een allotment waarvan het dekkingsgebied geheel of gedeeltelijk overlapt met de gemeente waar de instelling media-aanbod verzorgt.
+1. Voor de verlening van een vergunning als bedoeld in [artikel 3.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.8) aan een lokale publieke media-instelling is, voor zover dat technisch mogelijk is en doelmatig frequentiegebruik zich daartegen niet verzet, capaciteit beschikbaar in een allotment waarvan het dekkingsgebied geheel of gedeeltelijk overlapt met de gemeente of gemeenten waar de instelling media-aanbod verzorgt.
 
-2. Per lokale publieke media-instelling wordt ten hoogste één vergunning verleend voor het gebruik van één twaalfde deel van de capaciteit in een allotment.
+2. De in het eerste lid bedoelde capaciteit vormt een achttiende deel van de capaciteit van het desbetreffende allotment en is bestemd voor het in elk geval gelijktijdig digitaal uitzenden van de radioprogramma’s die worden uitgezonden in de FM-band met gebruikmaking van de vergunning, bedoeld in [3.7, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.7).
 
-3. Indien in een allotment onvoldoende capaciteit beschikbaar is om voor alle aanvragen van lokale publieke media-instellingen een vergunning te verlenen, worden zij aan hen verleend op volgorde van binnenkomst van de aanvragen.
+3. Voor de verlening van een vergunning als bedoeld in [artikel 3.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.8) aan een lokale publieke media-instelling, die niet beschikt over een vergunning als bedoeld in [artikel 3.7, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.7), is voor zover dat technisch mogelijk is en doelmatig frequentiegebruik zich daartegen niet verzet, capaciteit beschikbaar in een allotment waarvan het dekkingsgebied geheel of gedeeltelijk overlapt met de gemeente of gemeenten waar de instelling media-aanbod wil verzorgen.
 
-4. Tot en met een door de minister te bepalen tijdstip vormt de capaciteit, bedoeld in het eerste lid, zes twaalfde deel van de capaciteit in een allotment.
+4. Per lokale publieke media-instelling wordt ten hoogste één vergunning verleend voor het gebruik van één achttiende deel van de capaciteit in een allotment.
+
+5. Aanvragen kunnen worden ingediend vanaf een door de Minister te bepalen tijdstip en gedurende een door de Minister vast te stellen termijn.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 4a
+
+1. Voor de verlening van een vergunning als bedoeld in [artikel 3.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.8) aan elk van de lokale publieke media-instellingen van de gemeenten Amsterdam, Den Haag, Rotterdam en Utrecht is, voor zover dat technisch mogelijk is en doelmatig frequentiegebruik zich daartegen niet verzet, capaciteit beschikbaar voor één programmakanaal voor de lokale verspreiding van multiculturele radioprogramma’s die overwegend zijn bestemd voor jongeren en jong volwassenen, in een allotment waarvan het dekkingsgebied geheel of gedeeltelijk overlapt met de gemeenten Amsterdam, Den Haag, Rotterdam of Utrecht.
+
+2. De in het eerste lid bedoelde capaciteit vormt één achttiende deel van de capaciteit van het desbetreffende allotment en is bestemd voor het in elk geval gelijktijdig digitaal uitzenden van de radioprogramma’s die worden uitgezonden in de FM-band met gebruikmaking van de vergunning, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036191&artikel=4&z=2023-12-07&g=2023-12-07).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
