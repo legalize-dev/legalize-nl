@@ -4,7 +4,7 @@ identifier: "BWBR0048996"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-12-07"
-last_updated: "2023-06-02"
+last_updated: "2023-12-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048996"
 soort: "ministeriele-regeling"
@@ -44,13 +44,13 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- **commissie:** beoordelingscommissie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048996&artikel=2&z=2023-12-07&g=2023-06-02);
+- **commissie:** beoordelingscommissie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048996&artikel=2&z=2023-12-07&g=2023-12-07);
 
 - **minister:** Minister voor Primair en Voortgezet Onderwijs;
 
 - **regeling:** [Subsidieregeling Maatschappelijke Diensttijd](https://wetten.overheid.nl/jci1.3:c:BWBR0048113) (MDT);
 
-- **subcommissie:** onderdeel van de commissie dat met een aantal leden over subsidieaanvragen adviseert als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048996&artikel=2&z=2023-12-07&g=2023-06-02);
+- **subcommissie:** onderdeel van de commissie dat met een aantal leden over subsidieaanvragen adviseert als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048996&artikel=2&z=2023-12-07&g=2023-12-07);
 
 - **vaste voorzitter:** lid van de commissie die door de Minister als voorzitter is benoemd.
 
