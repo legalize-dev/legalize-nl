@@ -4,7 +4,7 @@ identifier: "BWBR0047245"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-04-01"
-last_updated: "2023-01-01"
+last_updated: "2023-12-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047245"
 soort: "zbo"
@@ -44,7 +44,7 @@ Treedt in werking op het tijdstip waarop artikel VIII, onderdeel B, van de Wijzi
 
 ##### Artikel 1. Toetswijzer
 
-De toetswijzer, bedoeld in [artikel 3a, eerste lid, onderdeel e, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=3a) wordt vastgesteld als [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0047245&bijlage=1&z=2023-01-01&g=2023-01-01) bij deze regeling.
+De toetswijzer, bedoeld in [artikel 3a, eerste lid, onderdeel e, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=3a) wordt vastgesteld als [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0047245&bijlage=1&z=2023-12-07&g=2023-12-07) bij deze regeling.
 
 ##### Artikel 2. Intrekking
 
@@ -60,7 +60,7 @@ Deze regeling wordt aangehaald als: Regeling toetswijzer doorstroomtoets PO.
 
 ## Bijlage 1. Toetswijzer doorstroomtoetsen PO
 
-Bijlage behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047245&artikel=1&z=2023-01-01&g=2023-01-01) van de Regeling toetswijzer doorstroomtoets PO.
+Bijlage behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047245&artikel=1&z=2023-12-07&g=2023-12-07) van de Regeling toetswijzer doorstroomtoets PO.
 
 ### Toetswijzer doorstroomtoets PO
 
