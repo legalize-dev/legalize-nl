@@ -4,7 +4,7 @@ identifier: "BWBR0048586"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-23"
-last_updated: "2023-08-29"
+last_updated: "2023-12-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048586"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 - **financiële competenties:** competenties op het gebied van financiële kennis, vaardigheden en houding;
 
-- **het expertisepunt financiële educatie:** het expertisepunt van Wijzer in geldzaken dat onder andere het scholingsaanbod toetst aan de voorwaarden die zijn opgenomen in de bijlage;
+- **het expertisepunt financiële educatie:** het expertisepunt van Wijzer in geldzaken;
 
 - **Kaderregeling:** [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603);
 
@@ -76,11 +76,11 @@ Het doel van deze regeling is het creëren, ontwikkelen en bevorderen van struct
 
 ##### Artikel 4. Subsidieplafond en het subsidiebedrag per aanvraag
 
-1. Het subsidieplafond bedraagt € 8.000.000,–.
+1. Het subsidieplafond bedraagt € 8.620.000,–.
 
 2. De subsidie bedraagt minimaal € 25.000,– en maximaal € 400.000,– per aanvraag.
 
-3. De subsidie bedraagt 100% van de subsidiabele kosten, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048586&artikel=8&z=2023-08-29&g=2023-08-29).
+3. De subsidie bedraagt 100% van de subsidiabele kosten, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048586&artikel=8&z=2023-12-08&g=2023-12-08).
 
 ##### Artikel 5. Aanvraagtijdvak
 
@@ -96,31 +96,59 @@ Een subsidieaanvraag wordt ingediend van 18 september 2023, 09.00 uur, tot en me
 
 1. Voor subsidie komen uitsluitend de volgende activiteiten in aanmerking:
 
-- a. het volgen van een opleiding door docenten van mbo-instellingen die tot doel heeft het integreren van financiële educatie in bestaande vakken en het onderwijzen van studenten in financiële competenties;
+- a. het volgen van een door de Minister goedgekeurde opleiding door docenten van mbo-instellingen die tot doel heeft het integreren van financiële educatie in bestaande vakken en het onderwijzen van studenten in financiële competenties;
 
 - b. het aannemen of vrijstellen van medewerkers binnen mbo- instellingen, die zorg dragen voor structurele inbedding van financiële educatie in het onderwijs op de desbetreffende mbo-instelling;
 
 - c. het aanbieden van persoonlijke financiële begeleiding op de mbo-instellingen aan studenten met geldzorgen.
 
-2. Opleidingen, als bedoeld in het eerste lid, onderdeel a, worden na goedkeuring van het expertisepunt financiële educatie aangeboden op [www.geldlessen.nl](onbekend).
+2. Het expertisepunt financiële educatie adviseert de Minister over opleidingen als bedoeld in het eerste lid, onderdeel a, en toetst daarbij of het scholingsaanbod:
+
+- a. gericht is op zittende of aankomende leerkrachten in het primair onderwijs, docenten op het voortgezet onderwijs en mbo of het hele onderwijsteam;
+
+- b. specifiek gericht is op structureel inbedden van effectieve financiële educatie in het schoolcurriculum en de bestaande vakken;
+
+- c. gericht is op duurzame impact;
+
+- d. plaatsvindt onder begeleiding van een trainer of docent; en
+
+- e. niet uitsluitend door middel van e-learning wordt aangeboden.
+
+3. Van effectieve financiële educatie als bedoeld in het tweede lid, onderdeel c, is sprake, indien:
+
+- a. sprake is van een structurele aanpak;
+
+- b. het aanbod aansluit op de belevingswereld van jongeren en situaties waar zij mee te maken kunnen krijgen;
+
+- c. het aanbod aansluit bij de cognitieve, sociale en psychologische ontwikkeling van de jongeren en een doorlopende leerlijn betreft;
+
+- d. onderwijsprofessionals bij het proces worden betrokken;
+
+- e. financiële vaardigheden worden geïntegreerd in andere thema’s;
+
+- f. de docenten worden getraind en indien nodig ouders worden betrokken bij het proces; en
+
+- g. rekening wordt gehouden met culturele factoren.
+
+4. Door de Minister goedgekeurde opleidingen worden opgenomen op [www.geldlessen.nl](onbekend).
 
 ##### Artikel 8. Subsidiabele kosten
 
 1. Voor subsidie komen uitsluitend de volgende kosten in aanmerking:
 
-- a. externe kosten voor een opleiding, als bedoeld in [artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048586&artikel=7&z=2023-08-29&g=2023-08-29);
+- a. externe kosten voor een opleiding, als bedoeld in [artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048586&artikel=7&z=2023-12-08&g=2023-12-08);
 
-- b. verletkosten van de docenten, bedoeld in [artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048586&artikel=7&z=2023-08-29&g=2023-08-29), tegen een vast tarief van € 75,– per uur;
+- b. verletkosten van de docenten, bedoeld in [artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048586&artikel=7&z=2023-12-08&g=2023-12-08), tegen een vast tarief van € 75,– per uur;
 
-- c. kosten voor de activiteit, bedoeld in [artikel 7, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0048586&artikel=7&z=2023-08-29&g=2023-08-29), indien dit wordt uitgevoerd door een medewerker in dienst bij een mbo-instelling, tegen een vast tarief van € 75,– per uur;
+- c. kosten voor de activiteit, bedoeld in [artikel 7, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0048586&artikel=7&z=2023-12-08&g=2023-12-08), indien dit wordt uitgevoerd door een medewerker in dienst bij een mbo-instelling, tegen een vast tarief van € 75,– per uur;
 
-- d. kosten voor de activiteit bedoeld in [artikel 7, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0048586&artikel=7&z=2023-08-29&g=2023-08-29), indien dit wordt uitgevoerd door een ingehuurde externe medewerker, tegen een maximaal tarief van € 110,– exclusief btw per uur;
+- d. kosten voor de activiteit bedoeld in [artikel 7, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0048586&artikel=7&z=2023-12-08&g=2023-12-08), indien dit wordt uitgevoerd door een ingehuurde externe medewerker, tegen een maximaal tarief van € 110,– exclusief btw per uur;
 
 - e. niet verrekenbare btw;
 
-- f. kosten voor een controleverklaring ter hoogte van € 3.000,– inclusief btw indien deze verplicht is op grond van [artikel 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048586&artikel=14&z=2023-08-29&g=2023-08-29).
+- f. kosten voor een controleverklaring ter hoogte van € 3.000,– inclusief btw indien deze verplicht is op grond van [artikel 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048586&artikel=14&z=2023-12-08&g=2023-12-08).
 
-2. De subsidiabele kosten voor de activiteit, bedoeld in [artikel 7, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0048586&artikel=7&z=2023-08-29&g=2023-08-29), bedragen maximaal 25% van de subsidiabele kosten, bedoeld in het eerste lid, onderdeel a tot en met e.
+2. De subsidiabele kosten voor de activiteit, bedoeld in [artikel 7, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0048586&artikel=7&z=2023-12-08&g=2023-12-08), bedragen maximaal 25% van de subsidiabele kosten, bedoeld in het eerste lid, onderdeel a tot en met e.
 
 ##### Artikel 9. Niet subsidiabele kosten;
 
@@ -128,7 +156,7 @@ Niet voor subsidie komen in aanmerking:
 
 - a. kosten voor de inkoop van gastlessen;
 
-- b. kosten die gemaakt zijn buiten de projectperiode, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048586&artikel=6&z=2023-08-29&g=2023-08-29);
+- b. kosten die gemaakt zijn buiten de projectperiode, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048586&artikel=6&z=2023-12-08&g=2023-12-08);
 
 - c. naar oordeel van de minister onredelijke en niet noodzakelijk gemaakte kosten ter uitvoering van het project of een onderdeel daarvan; en,
 
@@ -140,7 +168,7 @@ De minister verstrekt bij de beschikking van de subsidieverlening een voorschot 
 
 ##### Artikel 11. Subsidieaanvraag
 
-1. De subsidieaanvraag heeft in ieder geval betrekking op de activiteiten, bedoeld in [artikel 7, eerste lid, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0048586&artikel=7&z=2023-08-29&g=2023-08-29).
+1. De subsidieaanvraag heeft in ieder geval betrekking op de activiteiten, bedoeld in [artikel 7, eerste lid, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0048586&artikel=7&z=2023-12-08&g=2023-12-08).
 
 2. Een subsidieaanvrager dient één aanvraag in voor één of meerdere onderwijslocaties die horen bij dezelfde mbo-instelling.
 
@@ -184,7 +212,7 @@ Onverminderd de [artikelen 4:25, tweede lid](https://wetten.overheid.nl/jci1.3:c
 
 - b. indien de activiteiten reeds geheel of gedeeltelijk uit andere middelen worden gefinancierd;
 
-- c. indien de subsidieaanvraag tot gevolg heeft dat het van toepassing zijnde maximaal beschikbare bedrag, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048586&artikel=4&z=2023-08-29&g=2023-08-29), wordt overschreden.
+- c. indien de subsidieaanvraag tot gevolg heeft dat het van toepassing zijnde maximaal beschikbare bedrag, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048586&artikel=4&z=2023-12-08&g=2023-12-08), wordt overschreden.
 
 ##### Artikel 14. Rapportageverplichting
 
@@ -192,9 +220,9 @@ Onverminderd de [artikelen 4:25, tweede lid](https://wetten.overheid.nl/jci1.3:c
 
 2. Een verzoek tot vaststelling van subsidie wordt ingediend onder gebruikmaking van een daartoe door de minister elektronisch beschikbaar gesteld formulier.
 
-3. Het verzoek, als bedoeld in tweede lid, omvat middels een voorgeschreven format, als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048586&artikel=2&z=2023-08-29&g=2023-08-29), een verslag van de uitgevoerde activiteiten met een overzicht van de kosten per activiteit.
+3. Het verzoek, als bedoeld in tweede lid, omvat middels een voorgeschreven format, als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048586&artikel=2&z=2023-12-08&g=2023-12-08), een verslag van de uitgevoerde activiteiten met een overzicht van de kosten per activiteit.
 
-4. Indien de verleende subsidie, exclusief de accountantskosten bedoeld in [artikel 8, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0048586&artikel=8&z=2023-08-29&g=2023-08-29), € 125.000,– of meer bedraagt, bevat het verzoek tot vaststelling, in aanvulling op het tweede lid, tevens een controleverklaring omtrent de naleving van de aan de verleende subsidie verbonden verplichtingen door het bevoegd gezag, opgesteld door een accountant overeenkomstig een door de minister beschikbaar gesteld model met inachtneming van een door de minister beschikbaar gesteld accountantsprotocol.
+4. Indien de verleende subsidie, exclusief de accountantskosten bedoeld in [artikel 8, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0048586&artikel=8&z=2023-12-08&g=2023-12-08), € 125.000,– of meer bedraagt, bevat het verzoek tot vaststelling, in aanvulling op het tweede lid, tevens een controleverklaring omtrent de naleving van de aan de verleende subsidie verbonden verplichtingen door het bevoegd gezag, opgesteld door een accountant overeenkomstig een door de minister beschikbaar gesteld model met inachtneming van een door de minister beschikbaar gesteld accountantsprotocol.
 
 ##### Artikel 15. Inwerkingtreding en vervallen van de regeling
 
