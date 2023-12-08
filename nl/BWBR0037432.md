@@ -4,7 +4,7 @@ identifier: "BWBR0037432"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-11"
-last_updated: "2023-09-01"
+last_updated: "2023-12-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037432"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. **directeur-generaal:** de directeur-generaal Sociale Zekerheid en Integratie;
 
-- b. **directie:** een van de organisatieonderdelen, genoemd in [artikel 2, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=2&artikel=2&z=2023-12-08&g=2023-09-01);
+- b. **directie:** een van de organisatieonderdelen, genoemd in [artikel 2, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=2&artikel=2&z=2023-12-08&g=2023-12-08);
 
 - c. **directeur:** een functionaris die leiding geeft aan een directie;
 
@@ -88,7 +88,7 @@ Onder de directeur-generaal ressorteren:
 
 - e. de personeelsaangelegenheden van de onder elk van hen ressorterende functionarissen, met inbegrip van de uitvoering van het arbeidsomstandigheden- en ziekteverzuimbeleid, voor zover dit niet is voorbehouden aan de secretaris-generaal dan wel de directeur-generaal;
 
-- f. het zorgdragen voor de administratieve en financiële afhandeling van de uitvoering van de eigen personeelsaangelegenheden, voor zover deze niet is opgedragen aan anderen zoals de directie Bedrijfsvoering en de Stichting Pensioenfonds Algemeen Burgerlijk Pensioenfonds;
+- f. het zorgdragen voor de administratieve en financiële afhandeling van de uitvoering van de eigen personeelsaangelegenheden, voor zover deze niet is opgedragen aan anderen zoals de directie Organisatie, Bedrijfsvoering en Personeel en de Stichting Pensioenfonds Algemeen Burgerlijk Pensioenfonds;
 
 - g. het op orde hebben van de administratieve organisatie en informatiebeveiliging;
 
@@ -102,7 +102,7 @@ Onder de directeur-generaal ressorteren:
 
 - l. de behandeling van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:1) voor zover deze betrekking hebben op gedragingen van de onder hen ressorterende functionarissen;
 
-- m. het dynamisch archiefbeheer van zijn directie, te weten postbehandeling, registratie, voortgang- en afdoeningsbewaking, dossierbeheer, informatievoorziening, selectie, vernietiging en overdracht aan de directie Bedrijfsvoering, alsmede het opstellen, vaststellen en onderhouden van het ordeningsplan van de directie;
+- m. het dynamisch archiefbeheer van zijn directie, te weten postbehandeling, registratie, voortgang- en afdoeningsbewaking, dossierbeheer, informatievoorziening, selectie, vernietiging en overdracht aan de directie Organisatie, Bedrijfsvoering en Personeel, alsmede het opstellen, vaststellen en onderhouden van het ordeningsplan van de directie;
 
 - n. het materieel beheer overeenkomstig de [Regeling materieelbeheer rijksoverheid 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019767) en de [Regeling materieelbeheer museale voorwerpen](https://wetten.overheid.nl/jci1.3:c:BWBR0032429).
 
@@ -192,7 +192,7 @@ Vervallen
 
 ##### Artikel 9
 
-1. De afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI is ten behoeve van de directeur-generaal en de onder de directeur-generaal ressorterende organisatieonderdelen, genoemd in [artikel 2, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=2&artikel=2&z=2023-12-08&g=2023-09-01), verantwoordelijk voor:
+1. De afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI is ten behoeve van de directeur-generaal en de onder de directeur-generaal ressorterende organisatieonderdelen, genoemd in [artikel 2, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=2&artikel=2&z=2023-12-08&g=2023-12-08), verantwoordelijk voor:
 
 - a. alle interne bedrijfsvoeringsprocessen, waaronder de management-, administratieve-, personele- en financiële ondersteuning, automatisering en huisvesting;
 
@@ -220,47 +220,29 @@ Vervallen
 
 2. Aan elke directeur wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten over, het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op:
 
-- a. de in [artikel 3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=3&artikel=3&z=2023-12-08&g=2023-09-01), genoemde personeelsaangelegenheden;
+- a. de in [artikel 3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=3&artikel=3&z=2023-12-08&g=2023-12-08), genoemde personeelsaangelegenheden;
 
 - b. de behandeling van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:1), voor zover deze klachten betrekking hebben op gedragingen van de onder elk van hen ressorterende functionarissen.
 
-3. De in het eerste lid genoemde bevoegdheid omvat de bevoegdheid tot het verlenen en vaststellen van subsidies en rijksvergoedingen, het aangaan van verbetertrajecten en het korten op bevoorschotting, voor zover het de uitvoering betreft van regelingen op zijn werkterrein.
+3. De in het eerste lid genoemde bevoegdheid omvat de bevoegdheid tot het verlenen en vaststellen van subsidies, rijksbijdragen en rijksvergoedingen, het aangaan van verbetertrajecten en het korten op bevoorschotting, voor zover het de uitvoering betreft van regelingen op zijn werkterrein.
 
 4. De in het eerste lid genoemde bevoegdheid omvat voorts de bevoegdheid tot het nemen van dwangsombesluiten die verband houden met het niet tijdig afdoen van een besluit, voor zover dit betrekking heeft op hun eigen verantwoordelijkheden.
 
-5. De in het eerste lid genoemde bevoegdheid om overeenkomsten aan te gaan is beperkt tot overeenkomsten met een waarde per overeenkomst onder de laagste drempel voor aanbesteding conform de Europese aanbestedingsrichtlijnen, met dien verstande dat de volgende overeenkomsten mogen worden aangegaan tot een waarde van € 500.000,– per overeenkomst:
-
-- a. overeenkomsten welke gebaseerd zijn op een mantelovereenkomst;
-
-- b. vervallen;
-
-- c. overeenkomsten voor het inhuren van personeel voor de uitvoering van werkzaamheden die onder de directe verantwoordelijkheid van het departementale management worden verricht;
-
-- d. arbeidsovereenkomsten naar burgerlijk recht;
-
-- e. overeenkomsten met betrekking tot raden en commissies;
-
-- f. overeenkomsten met betrekking tot onderzoek;
-
-- g. overeenkomsten met betrekking tot incidentele beleidsinformatie, met uitzondering van overeenkomsten met het Centraal bureau voor de statistiek.
+5. De in het eerste lid genoemde bevoegdheid om overeenkomsten aan te gaan is beperkt tot overeenkomsten met een waarde van ten hoogste € 500.000,- per overeenkomst inclusief btw.
 
 ##### Artikel 11
 
-1. [Artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=4&artikel=10&z=2023-12-08&g=2023-09-01) is van overeenkomstige toepassing op de bevoegdheden van het hoofd van de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI, voor zover zij verband houden met de verantwoordelijkheden ten behoeve van de eigen afdeling.
+1. [Artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=4&artikel=10&z=2023-12-08&g=2023-12-08) is van overeenkomstige toepassing op de bevoegdheden van het hoofd van de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI, voor zover zij verband houden met de verantwoordelijkheden ten behoeve van de eigen afdeling.
 
 2. In afwijking van het eerste lid wordt aan het hoofd van de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI mandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken voor zover zij verband houden met de verantwoordelijkheden ten behoeve van de directeur-generaal en de directeuren.
 
-3. In afwijking van het eerste lid wordt aan het hoofd van de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI volmacht verleend met betrekking tot het verrichten van de volgende privaatrechtelijke rechtshandelingen, voor zover zij verband houden met de verantwoordelijkheden ten behoeve van de directeur-generaal en de directeuren:
-
-- a. het aangaan van overeenkomsten met betrekking tot de levering van goederen en diensten die voortvloeien uit een door de directie Bedrijfsvoering afgesloten raamovereenkomst;
-
-- b. het afsluiten van koop-, huur- en leaseovereenkomsten met een waarde van ten hoogste € 15.000,– per overeenkomst.
+3. In afwijking van het eerste lid wordt aan het hoofd van de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI volmacht verleend met betrekking tot het aangaan van overeenkomsten met een waarde van ten hoogste € 75.000,- per overeenkomst inclusief btw, voor zover zij verband houden met de verantwoordelijkheden ten behoeve van de directeur-generaal en de directeuren.
 
 4. De directeuren blijven te allen tijde bevoegd de bevoegdheden, genoemd in het tweede en derde lid, voor zover zij verband houden met de eigen directie dan wel bureau, zelf uit te oefenen.
 
 ##### Artikel 12
 
-In aanvulling op [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=4&artikel=10&z=2023-12-08&g=2023-09-01), wordt aan de directeur van de directie Stelsel en Volksverzekeringen mandaat verleend tot het verlenen van subsidies en rijksvergoedingen ter zake van wetten en regelingen waarvan de uitvoering is opgedragen aan de Sociale verzekeringsbank, voor zover het wetten en regelingen betreft op het werkterrein van de directie Samenleving en Integratie, de directie Werknemersregelingen en de directie Participatie en Decentrale Voorzieningen.
+In aanvulling op [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=4&artikel=10&z=2023-12-08&g=2023-12-08), wordt aan de directeur van de directie Stelsel en Volksverzekeringen mandaat verleend tot het verlenen van subsidies en rijksvergoedingen ter zake van wetten en regelingen waarvan de uitvoering is opgedragen aan de Sociale verzekeringsbank, voor zover het wetten en regelingen betreft op het werkterrein van de directie Samenleving en Integratie, de directie Werknemersregelingen en de directie Participatie en Decentrale Voorzieningen.
 
 #### § 5. Slotbepalingen
 
@@ -280,17 +262,13 @@ In aanvulling op [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 3. De (door)verlening van (onder-)mandaat, volmacht en machtiging kan uitsluitend bij een schriftelijk besluit geschieden.
 
-4. Het eerste lid is van overeenkomstige toepassing op de bevoegdheden van het hoofd van de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI, voor zover zij verband houden met de verantwoordelijkheden ten behoeve van de eigen afdeling. In afwijking hiervan kan het hoofd van de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI de volgende bevoegdheden, voor zover zij verband houden met de verantwoordelijkheden ten behoeve van de directeur-generaal en de directeuren, doorverlenen aan onder hem ressorterende functionarissen:
-
-- a. het aangaan van overeenkomsten met betrekking tot de levering van goederen en diensten die voortvloeien uit een door de directie Bedrijfsvoering afgesloten raamovereenkomst;
-
-- b. het afsluiten van koop-, huur- en leaseovereenkomsten met een waarde van ten hoogste € 15.000,– per overeenkomst.
+4. Het eerste lid is van overeenkomstige toepassing op de bevoegdheden van het hoofd van de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI, voor zover zij verband houden met de verantwoordelijkheden ten behoeve van de eigen afdeling. In afwijking hiervan kan het hoofd van de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI de bevoegdheid tot het aangaan van overeenkomsten met een waarde van ten hoogste € 75.000,- per overeenkomst inclusief btw, voor zover zij verband houden met de verantwoordelijkheden ten behoeve van de directeur-generaal en de directeuren, doorverlenen aan onder hen ressorterende functionarissen.
 
 ##### Artikel 14
 
 1. Het [Organisatie-, mandaat- en volmachtbesluit directeur-generaal Participatie en Inkomenswaarborg 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024972) wordt ingetrokken.
 
-2. Na de inwerkingtreding van deze regeling berusten de volgende regelingen die genomen zijn krachtens de [artikelen 3, eerste lid, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0024972&artikel=3), en [10, van het Organisatie-, mandaat- en volmachtbesluit directeur-generaal Participatie en Inkomenswaarborg 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024972&artikel=10) op de [artikelen 3, eerste lid, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=3&artikel=3&z=2023-12-08&g=2023-09-01), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=4&artikel=10&z=2023-12-08&g=2023-09-01) van deze regeling:
+2. Na de inwerkingtreding van deze regeling berusten de volgende regelingen die genomen zijn krachtens de [artikelen 3, eerste lid, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0024972&artikel=3), en [10, van het Organisatie-, mandaat- en volmachtbesluit directeur-generaal Participatie en Inkomenswaarborg 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024972&artikel=10) op de [artikelen 3, eerste lid, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=3&artikel=3&z=2023-12-08&g=2023-12-08), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=4&artikel=10&z=2023-12-08&g=2023-12-08) van deze regeling:
 
 - a. het [Organisatie-, mandaat- en volmachtbesluit Re-integratie en Participatie 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024987);
 
@@ -300,7 +278,7 @@ In aanvulling op [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 - d. het [Organisatie-, mandaat- en volmachtbesluit I&S 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034841).
 
-3. Na de inwerkingtreding van deze regeling berust het [Organisatie-, mandaat- en volmachtbesluit afdeling BSB-P&I 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034688) dat genomen is krachtens de [artikelen 3, eerste lid, aanhef en onderdeel k, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024972&artikel=3), en [10, van het Organisatie-, mandaat- en volmachtbesluit directeur-generaal Participatie en Inkomenswaarborg 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024972&artikel=10) op de [artikelen 3, eerste lid, aanhef en onderdeel k, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=3&artikel=3&z=2023-12-08&g=2023-09-01), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=4&artikel=10&z=2023-12-08&g=2023-09-01) van deze regeling.
+3. Na de inwerkingtreding van deze regeling berust het [Organisatie-, mandaat- en volmachtbesluit afdeling BSB-P&I 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034688) dat genomen is krachtens de [artikelen 3, eerste lid, aanhef en onderdeel k, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024972&artikel=3), en [10, van het Organisatie-, mandaat- en volmachtbesluit directeur-generaal Participatie en Inkomenswaarborg 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024972&artikel=10) op de [artikelen 3, eerste lid, aanhef en onderdeel k, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=3&artikel=3&z=2023-12-08&g=2023-12-08), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=4&artikel=10&z=2023-12-08&g=2023-12-08) van deze regeling.
 
 4. Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 mei 2015.
 
