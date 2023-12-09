@@ -4,7 +4,7 @@ identifier: "BWBR0046054"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-05-15"
-last_updated: "2023-10-05"
+last_updated: "2023-12-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046054"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ Besluit:
 
 ##### Artikel 2. In acht te nemen regels
 
-Bij de uitoefening van de bevoegdheden, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&artikel=1&z=2023-10-05&g=2023-10-05), neemt het Uitvoeringsinstituut werknemersverzekeringen, naast de in de [Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149), het [Besluit uitvoering Wet arbeid vreemdelingen 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046078) en de in deze regeling gestelde regels, de nadere regels in acht inzake de wijze van toepassing van de Wet arbeid vreemdelingen, als omschreven in de bij deze regeling behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&bijlage=I&z=2023-10-05&g=2023-10-05), uitvoeringsregels.
+Bij de uitoefening van de bevoegdheden, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&artikel=1&z=2023-12-09&g=2023-12-09), neemt het Uitvoeringsinstituut werknemersverzekeringen, naast de in de [Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149), het [Besluit uitvoering Wet arbeid vreemdelingen 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046078) en de in deze regeling gestelde regels, de nadere regels in acht inzake de wijze van toepassing van de Wet arbeid vreemdelingen, als omschreven in de bij deze regeling behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&bijlage=I&z=2023-12-09&g=2023-12-09), uitvoeringsregels.
 
 ##### Artikel 3. Diploma’s en getuigschriften
 
@@ -64,15 +64,15 @@ Afwijking van [artikel 8, eerste lid, onderdeel b, van de Wet arbeid vreemdeling
 
 ##### Artikel 6. Afwijking weigeringsgrond bij internationale handelscontacten
 
-Afwijking van [artikel 8, eerste lid, onderdelen a en b, van de Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8) vindt slechts plaats ten behoeve van de bevordering van internationale handelscontacten als omschreven in de bij deze regeling behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&bijlage=I&z=2023-10-05&g=2023-10-05), uitvoeringsregels.
+Afwijking van [artikel 8, eerste lid, onderdelen a en b, van de Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8) vindt slechts plaats ten behoeve van de bevordering van internationale handelscontacten als omschreven in de bij deze regeling behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&bijlage=I&z=2023-12-09&g=2023-12-09), uitvoeringsregels.
 
 ##### Artikel 7. Afwijking van de weigeringsgrond bij geestelijke, godsdienstige of levensbeschouwelijke functie
 
-Afwijking van [artikel 8, eerste lid, onderdelen a, b of e, van de Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8) vindt slechts plaats in het kader van de uitoefening van de geestelijke, godsdienstige of levensbeschouwelijke functie als omschreven in de bij deze regeling behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&bijlage=I&z=2023-10-05&g=2023-10-05), uitvoeringsregels.
+Afwijking van [artikel 8, eerste lid, onderdelen a, b of e, van de Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8) vindt slechts plaats in het kader van de uitoefening van de geestelijke, godsdienstige of levensbeschouwelijke functie als omschreven in de bij deze regeling behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&bijlage=I&z=2023-12-09&g=2023-12-09), uitvoeringsregels.
 
 ##### Artikel 8. Afwijking weigeringsgrond bij scholing
 
-Afwijking van [artikel 8, eerste lid, onderdelen a, b, c of e, van de Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8) vindt slechts plaats in het kader van scholing, opleiding, vrijwilligerswerk, internationale uitwisseling en andere internationale culturele contacten alsmede ten behoeve van vreemdelingen die beschikken over een voor het verrichten van arbeid geldige vergunning tot verblijf, voor zover dit is omschreven in de bij deze regeling behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&bijlage=I&z=2023-10-05&g=2023-10-05), uitvoeringsregels.
+Afwijking van [artikel 8, eerste lid, onderdelen a, b, c of e, van de Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8) vindt slechts plaats in het kader van scholing, opleiding, vrijwilligerswerk, internationale uitwisseling en andere internationale culturele contacten alsmede ten behoeve van vreemdelingen die beschikken over een voor het verrichten van arbeid geldige vergunning tot verblijf, voor zover dit is omschreven in de bij deze regeling behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&bijlage=I&z=2023-12-09&g=2023-12-09), uitvoeringsregels.
 
 ##### Artikel 9. Mogelijke weigering bij de leeftijd beneden 18 jaar
 
@@ -118,7 +118,7 @@ Daarnaast is van belang dat de werkgever relevante wijzigingen van de gegevens, 
 
 De gecombineerde vergunning voor verblijf en arbeid dient te worden aangevraagd door (de werkgever van) de vreemdeling die langer dan drie maanden in Nederland in loondienst wil werken. Indien een werkgever een vreemdeling drie maanden of korter in Nederland in dienst wil nemen is een tewerkstellingsvergunning vereist, tenzij de werkgever op grond van het [BuWav 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046078) hiervan is vrijgesteld. Er is voor gekozen om de grens tussen een tewerkstellingsvergunning en een gecombineerde vergunning bij drie maanden te leggen omdat in het vreemdelingenrecht is geregeld dat bij een verblijf van langer dan drie maanden de vreemdeling in het bezit moet zijn van een verblijfsvergunning.
 
-De gecombineerde vergunning moet worden aangevraagd bij de IND. In [artikel 14a van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14a) (Vw) is bepaald dat de Minister van Justitie en Veiligheid niet besluit over verlening, verlenging of intrekking van een gecombineerde vergunning dan nadat advies is gevraagd aan UWV. De IND vraagt het UWV om die reden vervolgens om een arbeidsmarktadvies. De paragrafen 5.1 tot en met 5.5 van deze uitvoeringsregels beschrijven de procedure en de voorwaarden die het UWV daarbij toepast, met inachtneming van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&artikel=2&z=2023-10-05&g=2023-10-05) van deze Regeling.
+De gecombineerde vergunning moet worden aangevraagd bij de IND. In [artikel 14a van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14a) (Vw) is bepaald dat de Minister van Justitie en Veiligheid niet besluit over verlening, verlenging of intrekking van een gecombineerde vergunning dan nadat advies is gevraagd aan UWV. De IND vraagt het UWV om die reden vervolgens om een arbeidsmarktadvies. De paragrafen 5.1 tot en met 5.5 van deze uitvoeringsregels beschrijven de procedure en de voorwaarden die het UWV daarbij toepast, met inachtneming van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&artikel=2&z=2023-12-09&g=2023-12-09) van deze Regeling.
 
 Niet voor alle vreemdelingen die langer dan drie maanden in Nederland komen werken, geldt de procedure van de gecombineerde aanvraag. Zo moeten werkgevers voor de volgende categorieën werknemers, gelet op het feit dat zij reeds in het bezit zijn van een verblijfsvergunning, een tewerkstellingsvergunning aanvragen, ongeacht de duur van de tewerkstelling. Het gaat hierbij om studenten, asielzoekers, ter beschikking gestelde werknemers (tenzij de artikelen 56 en 57 van het Verdrag betreffende de werking van de Europese Unie (VwEU) op hen van toepassing zijn), zeevarenden, grensarbeiders en vreemdelingen die in een andere lidstaat al beschikken over een verblijfsvergunning als langdurige ingezetene.
 
@@ -150,7 +150,7 @@ Toetsing of voldaan is aan een marktconforme beloning ([artikel 8, eerste lid, o
 
 ### 3.1. Overeenkomsten met andere mogendheden
 
-Als op grond van een internationaal verdrag of een bilaterale overeenkomst met een andere staat, bij de tewerkstelling van een vreemdeling geen tewerkstellingsvergunning of een gecombineerde vergunning mag worden verlangd, zal de desbetreffende vreemdeling steeds beschikken over een door de Minister van Justitie en Veiligheid of de Minister van Buitenlandse Zaken afgegeven legitimatiebewijs, waarop dit is aangetekend. Van de in dit verband relevante internationale verdragen is ter voldoening aan [artikel 3, tweede lid, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=3) in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&bijlage=II&z=2023-10-05&g=2023-10-05) een lijst opgenomen.
+Als op grond van een internationaal verdrag of een bilaterale overeenkomst met een andere staat, bij de tewerkstelling van een vreemdeling geen tewerkstellingsvergunning of een gecombineerde vergunning mag worden verlangd, zal de desbetreffende vreemdeling steeds beschikken over een door de Minister van Justitie en Veiligheid of de Minister van Buitenlandse Zaken afgegeven legitimatiebewijs, waarop dit is aangetekend. Van de in dit verband relevante internationale verdragen is ter voldoening aan [artikel 3, tweede lid, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=3) in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&bijlage=II&z=2023-12-09&g=2023-12-09) een lijst opgenomen.
 
 ### 3.2. Terbeschikkingstelling van gemeenschapsonderdanen voor wie de arbeidsmarkt tijdelijk nog niet vrij is
 
@@ -314,7 +314,7 @@ Ook kan het UWV in individuele gevallen afwijken van de termijn zoals genoemd in
 
 ### 8.3.b. Afwijkingen ten behoeve van internationale handelscontacten of in het kader van de uitoefening van een geestelijke, godsdienstige of levensbeschouwelijke functie.
 
-[Artikel 8, derde lid, onderdeel b, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8) geeft de mogelijkheid om af te wijken van weigeringsgronden ten behoeve van internationale handelscontacten of in het kader van de uitoefening van een geestelijke, godsdienstige of levensbeschouwelijke functie. De paragrafen 8.3.b.1. tot en met 8.3.b.16. vermelden de groepen waarom het gaat bij deze afwijkingsgrond.
+[Artikel 8, derde lid, onderdeel b, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8) geeft de mogelijkheid om af te wijken van weigeringsgronden ten behoeve van internationale handelscontacten of in het kader van de uitoefening van een geestelijke, godsdienstige of levensbeschouwelijke functie. De paragrafen 8.3.b.1. tot en met 8.3.b.17. vermelden de groepen waarom het gaat bij deze afwijkingsgrond.
 
 Indien een gecombineerde vergunning wordt aangevraagd ten behoeve van de tewerkstelling van de vreemdeling die als voorganger van de eredienst arbeid verricht bij een kerkgenootschap of een ander genootschap op geestelijke of levensbeschouwelijke grondslag (hierna te noemen: een religieuze of levensbeschouwelijke organisatie), geeft het UWV een advies aan de IND over het verlenen of verlengen van de gecombineerde vergunning. De gecombineerde vergunning wordt verleend of verlengd zonder toets aan [artikel 8, eerste lid, onderdelen a, b en c, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8), indien voor het verrichten van die arbeid een specifieke opleiding, kennis of ervaring is vereist en die arbeid van wezenlijk belang is voor de eredienst of het functioneren van de religieuze of levensbeschouwelijke organisatie. De duur van de gecombineerde vergunning voor deze groep is maximaal drie jaar.
 
@@ -382,7 +382,7 @@ De paragrafen 8.3.b.11. en 8.3.b.12. gelden voor alle landen die lid zijn van de
 
 ### 8.3.b.11. Dienstverleners op contractbasis
 
-In [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&bijlage=III&z=2023-10-05&g=2023-10-05) is de lijst van landen opgenomen waarmee een vrijhandelsakkoord van kracht is en wordt verwezen naar de website van de WTO om na te gaan welke landen op dit moment lid zijn van de WTO.
+In [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&bijlage=III&z=2023-12-09&g=2023-12-09) is de lijst van landen opgenomen waarmee een vrijhandelsakkoord van kracht is en wordt verwezen naar de website van de WTO om na te gaan welke landen op dit moment lid zijn van de WTO.
 
 ### 8.3.b.11. Dienstverleners op contractbasis
 
@@ -432,9 +432,9 @@ De specialiteiten kok, souschef dan wel chef-kok moet traditionele gerechten uit
 
 Paragraaf 8.3.b.16 van bijlage I van de RuWav 2022 zoals die luidt op de dag voor de vervaldatum, blijft van toepassing blijft op:
 
-### 8.3.c. Afwijkingen in het kader van scholing, opleiding, vrijwilligerswerk, internationale uitwisseling en andere internationale culturele contacten alsmede ten behoeve van vreemdelingen die beschikken over een voor het verrichten van arbeid geldige vergunning.
+### 8.3.b.17. Langdurig ingezetene, voormalig houder van een Europese blauwe kaart
 
-Op grond van [artikel 8, derde lid, onderdeel c, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8) kan worden afgeweken van het eerste lid, onderdeel a, b, c, d en f. Het gaat daarbij om afwijking in het kader van scholing, opleiding, vrijwilligerswerk, internationale uitwisseling en andere internationale culturele contacten alsmede ten behoeve van vreemdelingen die beschikken over een voor het verrichten van arbeid geldige verblijfsvergunning. De paragrafen 8.3.c.1 tot en met 8.3.c.11. vermelden de groepen waarom het gaat bij deze afwijkingsgrond.
+Gelet op [artikel 8, derde lid, onderdeel b, van de Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8), wordt een tewerkstellingsvergunning die wordt aangevraagd ten behoeve van een vreemdeling als bedoeld in artikel 2, onderdeel b, van [Richtlijn (EG) 2003/109](32003L0109) (PB L 16 van 23.1.2004), betreffende de status van langdurig ingezeten onderdanen van derde landen, voor zover die houder is van een door een andere lidstaat afgegeven verblijfsvergunning met de aantekening ‘voormalig houder van een Europese blauwe kaart’, bedoeld in artikel 19, tweede lid, van [Richtlijn (EU) 2021/1883](32021L1883) van het Europees Parlement en de Raad van 20 oktober 2021 betreffende de voorwaarden voor toegang en verblijf van onderdanen van derde landen met het oog op een hooggekwalificeerde baan, en tot intrekking van [Richtlijn 2009/50/EG](32009L0050) van de Raad en gebruik maakt van mobiliteit naar Nederland zoals bepaald in artikel 14 van [Richtlijn (EG) 2003/109](32003L0109) (PB L 16 van 23.1.2004), niet geweigerd op grond van artikel 8, eerste lid, onderdelen a, b en c, van de Wet arbeid vreemdelingen.
 
 Voor docenten in het internationaal primair en voortgezet onderwijs, waaronder zgn. zaterdagscholen, kan een tewerkstellingsvergunning worden verleend zonder toets aan [artikel 8, eerste lid, onderdelen a, b, en c, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8) met een maximale duur van drie jaar. Bij een verblijf van langer dan drie maanden geldt hetzelfde voor het advies over het verlenen of verlengen van de gecombineerde vergunning.
 
@@ -442,57 +442,61 @@ Voor docenten in het internationaal primair en voortgezet onderwijs, waaronder z
 
 Bij buitenlandse scholen gaat het om docenten die benodigd zijn om specifiek volgens het schoolsysteem van een buitenlands onderwijssysteem onderwijs te geven en in het buitenlandse onderwijssysteem zijn opgeleid. Bij afdelingen voor internationaal georiënteerd onderwijs, Europese scholen en niet-bekostigde internationale scholen gaat het om docenten die ervaring hebben met het doceren van het door de desbetreffende school aangeboden internationale of Europese curriculum. Deze docenten moeten over de vereiste kwalificaties beschikken om onderwijs aan de desbetreffende school te mogen geven. Daarnaast moeten deze docenten de competenties hebben om onderwijs te geven in het Engels of een andere voor de desbetreffende school relevante vreemde taal.
 
-Voor vreemdelingen die korter dan drie maanden arbeid verrichten als stagiair kan een tewerkstellingsvergunning worden verleend zonder toepassing van [artikel 8, eerste lid, onderdelen a, b, c, d en f, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8). Hetzelfde geldt voor vreemdelingen bij een verblijf van langer dan drie maanden, maar korter dan één jaar, voor het advies over het verlenen of verlengen van een gecombineerde vergunning. Deze toets is eveneens van toepassing op een aanvraag voor een tewerkstellingsvergunning voor gemeenschapsonderdanen op wie het vrij verkeer tijdelijk niet van toepassing is.
+Voor docenten in het internationaal primair en voortgezet onderwijs, waaronder zgn. zaterdagscholen, kan een tewerkstellingsvergunning worden verleend zonder toets aan [artikel 8, eerste lid, onderdelen a, b, en c, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8) met een maximale duur van drie jaar. Bij een verblijf van langer dan drie maanden geldt hetzelfde voor het advies over het verlenen of verlengen van de gecombineerde vergunning.
 
-Voor vreemdelingen die korter dan drie maanden arbeid verrichten als stagiair kan een tewerkstellingsvergunning worden verleend zonder toepassing van [artikel 8, eerste lid, onderdelen a, b, c, d en f, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8). Hetzelfde geldt voor vreemdelingen bij een verblijf van langer dan drie maanden, maar korter dan één jaar, voor het advies over het verlenen of verlengen van een gecombineerde vergunning. Deze toets is eveneens van toepassing op een aanvraag voor een tewerkstellingsvergunning voor gemeenschapsonderdanen op wie het vrij verkeer tijdelijk niet van toepassing is.
+Bij buitenlandse scholen gaat het om docenten die benodigd zijn om specifiek volgens het schoolsysteem van een buitenlands onderwijssysteem onderwijs te geven en in het buitenlandse onderwijssysteem zijn opgeleid. Bij afdelingen voor internationaal georiënteerd onderwijs, Europese scholen en niet-bekostigde internationale scholen gaat het om docenten die ervaring hebben met het doceren van het door de desbetreffende school aangeboden internationale of Europese curriculum. Deze docenten moeten over de vereiste kwalificaties beschikken om onderwijs aan de desbetreffende school te mogen geven. Daarnaast moeten deze docenten de competenties hebben om onderwijs te geven in het Engels of een andere voor de desbetreffende school relevante vreemde taal.
 
 Voorwaarde voor toepassing van deze uitzonderingsmogelijkheid is dat de stagiair een opleiding volgt aan een instelling voor hoger onderwijs in het buitenland of op het moment van aanvraag ten hoogste twee jaar beschikt over een diploma, afgegeven door een instelling voor hoger onderwijs. Bij de aanvraag wordt een diploma of bewijs van inschrijving bijgevoegd.
 
 ### 8.3.c.3. Stagiairs MBO
 
+Voorwaarde voor toepassing van deze uitzonderingsmogelijkheid is dat de stagiair een opleiding volgt aan een instelling voor hoger onderwijs in het buitenland of op het moment van aanvraag ten hoogste twee jaar beschikt over een diploma, afgegeven door een instelling voor hoger onderwijs. Bij de aanvraag wordt een diploma of bewijs van inschrijving bijgevoegd.
+
+De stage mag niet in de plaats komen van een reguliere baan. In verband met dit vereiste dient in de stageovereenkomst een beschrijving van het stageprogramma te worden opgenomen, waarin de educatieve doelstellingen en leercomponenten van de stage zijn opgenomen.
+
 De stagiair beschikt, met inbegrip van de stagevergoeding, over een inkomen dat niet lager mag zijn dan 50% van het minimumloon, bedoeld in [artikel 8, eerste lid, onderdeel a, van de WML](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8). Hierbij wordt rekening gehouden met eigen middelen, zoals beurzen. In verband met een toets op de stagevergoeding dient door de werkgever in de stageovereenkomst de te verstrekken stagevergoeding aan de stagiair te worden opgenomen.
-
-Het gaat hier om mensen die in buitenland studeren/hebben gestudeerd en in Nederland stage lopen. Voor vreemdelingen die voor korter dan drie maanden arbeid verrichten die noodzakelijk is ter voltooiing van hun opleiding op MBO-niveau in het buitenland (in de regel in het laatste jaar van hun studie) kan een tewerkstellingsvergunning worden verleend zonder toepassing van [artikel 8, eerste lid, onderdelen a, b, c, d en f, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8). Hetzelfde geldt voor vreemdelingen bij een verblijf van langer dan drie maanden, maar korter dan één jaar, voor het advies over het verlenen of verlengen van een gecombineerde vergunning. Deze toets is eveneens van toepassing op een aanvraag voor een tewerkstellingsvergunning voor gemeenschapsonderdanen op wie het vrij verkeer tijdelijk niet van toepassing is.
-
-Het gaat hier om mensen die in buitenland studeren/hebben gestudeerd en in Nederland stage lopen. Voor vreemdelingen die voor korter dan drie maanden arbeid verrichten die noodzakelijk is ter voltooiing van hun opleiding op MBO-niveau in het buitenland (in de regel in het laatste jaar van hun studie) kan een tewerkstellingsvergunning worden verleend zonder toepassing van [artikel 8, eerste lid, onderdelen a, b, c, d en f, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8). Hetzelfde geldt voor vreemdelingen bij een verblijf van langer dan drie maanden, maar korter dan één jaar, voor het advies over het verlenen of verlengen van een gecombineerde vergunning. Deze toets is eveneens van toepassing op een aanvraag voor een tewerkstellingsvergunning voor gemeenschapsonderdanen op wie het vrij verkeer tijdelijk niet van toepassing is.
 
 Voorwaarde voor toepassing van deze uitzonderingsmogelijkheid is dat de stagiair reeds een voldoende vakgerichte basisopleiding heeft gevolgd in het land waar hij zijn hoofdverblijf heeft. Voor deze stages blijkt uit een door de desbetreffende onderwijsinstelling afgegeven verklaring dat de stage een noodzakelijk onderdeel uitmaakt van het onderwijsprogramma.
 
 ### 8.3.c.4. Stagiairs in het kader van het Young Workers Exchange Program
 
+Voorwaarde voor toepassing van deze uitzonderingsmogelijkheid is dat de stagiair reeds een voldoende vakgerichte basisopleiding heeft gevolgd in het land waar hij zijn hoofdverblijf heeft. Voor deze stages blijkt uit een door de desbetreffende onderwijsinstelling afgegeven verklaring dat de stage een noodzakelijk onderdeel uitmaakt van het onderwijsprogramma.
+
+Tevens wordt een gefaseerd stageprogramma overgelegd, afgegeven door de onderwijsinstelling, waaruit blijkt wat de inhoud van de stage is. Het aantal stagiairs per werkgever mag niet meer zijn dan 10% van het vaste personeelsbestand, met een toegestaan minimum van 2 stagiairs. Deze beperking is niet van toepassing op vreemdelingen die beschikken over een W-document dan wel aan wie een verblijfsvergunning voor bepaalde tijd is verleend onder de beperking verband houdende met het volgen van studie.
+
 De stagiair beschikt, met inbegrip van de stagevergoeding, over een inkomen dat niet lager mag zijn dan 50% van het minimumloon, bedoeld in [artikel 8, eerste lid, onderdeel a, van de WML](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8). Hierbij wordt rekening gehouden met eigen middelen, zoals beurzen. In verband met een toets op de stagevergoeding dient door de werkgever een afschrift van de stageovereenkomst te worden overlegd, met daarin opgenomen de te verstrekken stagevergoeding aan de stagiair.
 
-Voor vreemdelingen die voor korter dan drie maanden arbeid verrichten in het kader van het Young Workers Exchange Program kan een tewerkstellingsvergunning worden verleend zonder toepassing van [artikel 8, eerste lid, onderdelen a, b, c, d en f van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8). Bij een verblijf van langer dan drie maanden, maar korter dan één jaar, geldt hetzelfde voor het advies over het verlenen van de gecombineerde vergunning. De voorwaarden voor deze uitzonderingsmogelijkheid zijn:
+### 8.3.c.4. Stagiairs in het kader van het Young Workers Exchange Program
 
 Voor vreemdelingen die voor korter dan drie maanden arbeid verrichten in het kader van het Young Workers Exchange Program kan een tewerkstellingsvergunning worden verleend zonder toepassing van [artikel 8, eerste lid, onderdelen a, b, c, d en f van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8). Bij een verblijf van langer dan drie maanden, maar korter dan één jaar, geldt hetzelfde voor het advies over het verlenen van de gecombineerde vergunning. De voorwaarden voor deze uitzonderingsmogelijkheid zijn:
 
-### 8.3.c.5. Stagiairs in het kader van internationale uitwisselingsprogramma’s tussen MBO-instellingen
+Voor deze stages geldt dat uit de verklaring van de beoogd werkgever blijkt dat de stagiair werk zal gaan verrichten dat gerelateerd is aan de studie. Tevens wordt een gefaseerd stageprogramma overgelegd waaruit blijkt wat de inhoud van de stage is.
 
 De stagiair beschikt, met inbegrip van de stagevergoeding, over een inkomen dat niet lager mag zijn dan 50% van het minimum(jeugd)loon, bedoeld in [artikel 8, eerste lid, onderdeel a, van de WML](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8). Hierbij wordt rekening gehouden met eigen middelen, zoals beurzen. In verband met een toets op de stagevergoeding dient door de werkgever een afschrift van de stageovereenkomst te worden overlegd, met daarin opgenomen de te verstrekken stagevergoeding aan de stagiair.
-
-Voor vreemdelingen die arbeid verrichten in het kader van internationale uitwisselingsprogramma’s tussen MBO-instellingen en hiervoor kortdurende stages volgen bij werkgevers in Nederland, kan voor maximaal drie maanden een tewerkstellingsvergunning worden verleend zonder toepassing van [artikel 8, eerste lid, onderdelen a, b, c, d en f van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8).
-
-Voor vreemdelingen die arbeid verrichten in het kader van internationale uitwisselingsprogramma’s tussen MBO-instellingen en hiervoor kortdurende stages volgen bij werkgevers in Nederland, kan voor maximaal drie maanden een tewerkstellingsvergunning worden verleend zonder toepassing van [artikel 8, eerste lid, onderdelen a, b, c, d en f van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8).
 
 Voorwaarde voor toepassing van deze uitzonderingsmogelijkheid is dat deze stagiairs een opleiding volgen aan een MBO-instelling in hun herkomstland en in het kader van een MBO-uitwisselings/-mobiliteitsproject stages lopen bij bedrijven in Nederland. Voor deze stages blijkt uit een door de onderwijsinstelling in het land van herkomst afgegeven verklaring dat de stage een onderdeel uitmaakt van de studie. Tevens wordt een uitgewerkt stageprogramma overgelegd, goedgekeurd door de onderwijsinstelling in het land van herkomst, waaruit blijkt wat de inhoud van de stage is en bij welke bedrijven stage wordt gelopen. Bij de stage(s) staat het werkend leren voorop en niet het verrichten van productieve arbeid.
 
 ### 8.3.c.6. Praktikanten
 
-De tewerkstellingsvergunning zal worden verleend aan de Nederlandse MBO-instelling. De MBO-instelling draagt er zorg voor dat een kopie van de tewerkstellingsvergunning wordt verstrekt aan de werkgever(s) waar de stage wordt gelopen.
+Voorwaarde voor toepassing van deze uitzonderingsmogelijkheid is dat deze stagiairs een opleiding volgen aan een MBO-instelling in hun herkomstland en in het kader van een MBO-uitwisselings/-mobiliteitsproject stages lopen bij bedrijven in Nederland. Voor deze stages blijkt uit een door de onderwijsinstelling in het land van herkomst afgegeven verklaring dat de stage een onderdeel uitmaakt van de studie. Tevens wordt een uitgewerkt stageprogramma overgelegd, goedgekeurd door de onderwijsinstelling in het land van herkomst, waaruit blijkt wat de inhoud van de stage is en bij welke bedrijven stage wordt gelopen. Bij de stage(s) staat het werkend leren voorop en niet het verrichten van productieve arbeid.
 
-Voor vreemdelingen die voor een verblijf korter dan drie maanden naar Nederland komen om werkervaring op te doen, die zij vervolgens direct in de praktijk gaan brengen bij hun werkgever in hun herkomstland en deze ervaring van belang is voor de ontwikkeling van de bedrijfsvoering van die werkgever, kan een tewerkstellingsvergunning worden verleend zonder toepassing van [artikel 8, eerste lid, onderdelen a en b, en c, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8). Bij een verblijf van drie maanden of meer geldt hetzelfde voor het advies over het verlenen en verlengen van de gecombineerde vergunning voor in de regel maximaal 24 weken.
+De ontvangende MBO-instelling is verantwoordelijk voor de huisvesting, de begeleiding tijdens de stage en het verblijf van de deelnemers aan het uitwisselingsprogramma. Ook is de ontvangende MBO-instelling ervoor verantwoordelijk dat de vreemdeling een inkomen zal ontvangen dat niet lager mag zijn dan 50% van het voor hem geldende wettelijk minimumjeugdloon, bedoeld in [artikel 8, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8).
 
 ### 8.3.c.7. Arbeid van bijkomende aard door studenten
 
 Voorwaarde voor toepassing van deze uitzonderingsmogelijkheid is dat deze praktikanten reeds een voldoende vakgerichte basisopleiding hebben gevolgd en op basis van een samenwerkingsovereenkomst tussen de in het buitenland gevestigde onderneming en de in Nederland gevestigde onderneming in de laatstgenoemde bij wijze van onderricht bedrijfservaring kunnen opdoen. Bij de aanvraag wordt een gefaseerd leerplan bijgevoegd, alsmede een verklaring van de Nederlandse werkgever inhoudende dat de praktikant geen reguliere arbeidsplaats inneemt. Het leerplan bestaat uit een omschrijving van de werkzaamheden, van de leerdoelen en van de toegevoegde waarde van de werkervaring van de praktikant voor de onderneming in het herkomstland. De praktikant wordt tijdelijk uitgezonden naar de in Nederland gevestigde onderneming. De buitenlandse werkgever verklaart dat hij de praktikant na ommekomst van de praktijkperiode weer direct te werk zal stellen. Het aantal praktikanten staat in een redelijke verhouding tot het aantal werknemers dat bij een werkgever werkzaam is.
 
-Toetsing aan de voorwaarden vervat in [artikel 8, eerste lid, onderdelen a, b, c en f, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8) behoeft niet plaats te vinden voor buitenlandse studenten in het bezit van een verblijfsvergunning voor bepaalde tijd die is verleend onder de beperking verband houdende met het volgen van studie. Hetzelfde geldt voor buitenlandse studenten die op grond van [artikel 3.3, vijfde lid, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.3) rechtmatig in Nederland verblijven en beschikken over een verblijfssticker in hun paspoort waaruit dat blijkt, of, in het geval van een gemeenschapsonderdaan op wie het vrij verkeer van werknemers tijdelijk nog niet van toepassing is, wanneer bij de aanvraag wordt aangetoond dat de desbetreffende persoon als student bij de desbetreffende onderwijsinstelling staat ingeschreven. De vergunning zal worden verleend als uit de aanvraag is gebleken dat de arbeid onder marktconforme voorwaarden plaatsvindt, en de arbeid:
+Voor vreemdelingen die voor een verblijf korter dan drie maanden naar Nederland komen om werkervaring op te doen, die zij vervolgens direct in de praktijk gaan brengen bij hun werkgever in hun herkomstland en deze ervaring van belang is voor de ontwikkeling van de bedrijfsvoering van die werkgever, kan een tewerkstellingsvergunning worden verleend zonder toepassing van [artikel 8, eerste lid, onderdelen a en b, en c, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8). Bij een verblijf van drie maanden of meer geldt hetzelfde voor het advies over het verlenen en verlengen van de gecombineerde vergunning voor in de regel maximaal 24 weken.
 
 ### 8.3.c.8. Werknemers in de sportsector
 
 De duur van deze tewerkstellingsvergunning is maximaal een jaar. Voor alle andere arbeid wordt de tewerkstelling getoetst aan de voorwaarden van de Wav en gelden deze uitzonderingen niet.
 
-Ook ten aanzien van werknemers in de sportsector geldt een restrictief toelatingsbeleid. Alleen voor het incidenteel in Nederland deelnemen aan een wedstrijd door personen die hun hoofdverblijf buiten Nederland hebben, is in [artikel 4.3., eerste lid, onderdeel c, van het BuWav 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&artikel=4.3) een uitzondering gemaakt, evenals voor het incidenteel onbeloond deelnemen aan proeftrainingen voetbal in het kader van een sollicitatieprocedure.
+Toetsing aan de voorwaarden vervat in [artikel 8, eerste lid, onderdelen a, b, c en f, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8) behoeft niet plaats te vinden voor buitenlandse studenten in het bezit van een verblijfsvergunning voor bepaalde tijd die is verleend onder de beperking verband houdende met het volgen van studie. Hetzelfde geldt voor buitenlandse studenten die op grond van [artikel 3.3, vijfde lid, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.3) rechtmatig in Nederland verblijven en beschikken over een verblijfssticker in hun paspoort waaruit dat blijkt, of, in het geval van een gemeenschapsonderdaan op wie het vrij verkeer van werknemers tijdelijk nog niet van toepassing is, wanneer bij de aanvraag wordt aangetoond dat de desbetreffende persoon als student bij de desbetreffende onderwijsinstelling staat ingeschreven. De vergunning zal worden verleend als uit de aanvraag is gebleken dat de arbeid onder marktconforme voorwaarden plaatsvindt, en de arbeid:
+
+De duur van deze tewerkstellingsvergunning is maximaal een jaar. Voor alle andere arbeid wordt de tewerkstelling getoetst aan de voorwaarden van de Wav en gelden deze uitzonderingen niet.
+
+Vacaturevervulling door het prioriteitgenietend aanbod uit Nederland en bij de EER-landen of Zwitserland is alleen in uitzonderlijke gevallen niet mogelijk. Een dergelijk uitzonderlijk geval doet zich normaliter uitsluitend voor in de hoogste competitieafdeling van de betreffende tak van sport en gelet hierop wordt in deze gevallen een uitzondering gemaakt op de verplichting uit [artikel 8, eerste lid onderdelen a, b en c, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8).
 
 Ook ten aanzien van werknemers in de sportsector geldt een restrictief toelatingsbeleid. Alleen voor het incidenteel in Nederland deelnemen aan een wedstrijd door personen die hun hoofdverblijf buiten Nederland hebben, is in [artikel 4.3., eerste lid, onderdeel c, van het BuWav 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&artikel=4.3) een uitzondering gemaakt, evenals voor het incidenteel onbeloond deelnemen aan proeftrainingen voetbal in het kader van een sollicitatieprocedure.
 
@@ -500,27 +504,27 @@ Vacaturevervulling door het prioriteitgenietend aanbod uit Nederland en bij de E
 
 In lagere klassen zal vergunningverlening aan spelers van buiten Nederland en buiten de EER-landen of Zwitserland aangesloten landen slechts bij hoge uitzondering mogelijk zijn, omdat in de regel vervulling binnen het prioriteitgenietend aanbod mogelijk is, hetzij via doorstroming uit de amateursport en jeugdopleidingen, hetzij door aanwerving van spelers uit de hoogste competitieklasse in Nederland of uit andere landen binnen de EER en Zwitserland.
 
-De geboden beloning zal steeds in overeenstemming zijn met wat (top)sporters in de desbetreffende sport verdienen.
+### 8.3.c.9. Beroepsvoetballers
 
 Een tewerkstellingsvergunning voor beroepssporters zal daarom in de regel worden geweigerd:
 
-### 8.3.c.9. Beroepsvoetballers
+Als het een verblijf van langer dan drie maanden betreft gelden deze voorwaarden ook voor het advies over het verlenen of verlengen van de gecombineerde vergunning.
 
 De duur van de tewerkstellingsvergunning of een gecombineerde vergunning voor deze groep is maximaal drie jaar.
-
-Hetgeen in de vorige paragraaf 8.3.c.8. is opgenomen geldt eveneens voor beroepsvoetballers. Daarnaast wordt bij het betaalde voetbal ook de eerste divisie gerekend tot de hoogste competitieafdeling.
-
-Hetgeen in de vorige paragraaf 8.3.c.8. is opgenomen geldt eveneens voor beroepsvoetballers. Daarnaast wordt bij het betaalde voetbal ook de eerste divisie gerekend tot de hoogste competitieafdeling.
 
 Bij een verblijf van korter dan drie maanden wordt een tewerkstellingsvergunning verleend zonder arbeidsmarkttoets als aan de volgende voorwaarden is voldaan:
 
 ### 8.3.c.10. Musici en artiesten
 
+Bij een verblijf van korter dan drie maanden wordt een tewerkstellingsvergunning verleend zonder arbeidsmarkttoets als aan de volgende voorwaarden is voldaan:
+
+Wanneer het een verblijf van langer dan drie maanden betreft gelden deze voorwaarden ook voor het advies over het verlenen of verlengen van de gecombineerde vergunning.
+
 De duur van de tewerkstellingsvergunning of een gecombineerde vergunning voor deze groep is maximaal drie jaar.
 
-Voor musici en artiesten die behoren tot bepaalde artistieke functiegroepen in een beperkt aantal branches, te weten dans, klassieke muziek, opera, musical, theater, toneel en cultuurwerkplaatsen gelden afwijkende regelingen. Deze functiegroepen zijn in onderstaande lijst opgenomen.
+Bij verblijf voor langer dan drie maanden moeten musici en artiesten in het bezit zijn van een gecombineerde vergunning. Het UWV toetst bij het opstellen van het advies bij musici en artiesten uit de functiegroepen in genoemde branches niet aan [artikel 8, eerste lid, onderdeel a (aanwezigheid prioriteitgenietend aanbod), onderdeel b (verplichte vacaturemelding bij het UWV) en onderdeel c (eigen wervingsinspanningen van de werkgever) van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8). Voor musici en artiesten met een verblijf korter dan drie maanden geldt een tewerkstellingsvergunningplicht. Hierbij wordt op gelijke wijze getoetst als in het kader van de advisering over de gecombineerde vergunning. De vrijstelling op grond van artikel 8, derde lid onderdeel c, van de Wav, betreft uitsluitend arbeidsplaatsen boven de zogenoemde ‘zaaglijn’ die het geheel aan arbeidsplaatsen in de cultuursector in twee segmenten verdeelt. Boven de ‘zaaglijn’ bevindt zich het topsegment gedefinieerd met het van het bruto jaarinkomen afgeleide maandinkomen.
 
-Voor musici en artiesten die behoren tot bepaalde artistieke functiegroepen in een beperkt aantal branches, te weten dans, klassieke muziek, opera, musical, theater, toneel en cultuurwerkplaatsen gelden afwijkende regelingen. Deze functiegroepen zijn in onderstaande lijst opgenomen.
+### 8.3.c.11. Conservatoren en restauratoren in dienst van werkgevers, lid van de Museumvereniging
 
 Bij verblijf voor langer dan drie maanden moeten musici en artiesten in het bezit zijn van een gecombineerde vergunning. Het UWV toetst bij het opstellen van het advies bij musici en artiesten uit de functiegroepen in genoemde branches niet aan [artikel 8, eerste lid, onderdeel a (aanwezigheid prioriteitgenietend aanbod), onderdeel b (verplichte vacaturemelding bij het UWV) en onderdeel c (eigen wervingsinspanningen van de werkgever) van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8). Voor musici en artiesten met een verblijf korter dan drie maanden geldt een tewerkstellingsvergunningplicht. Hierbij wordt op gelijke wijze getoetst als in het kader van de advisering over de gecombineerde vergunning. De vrijstelling op grond van artikel 8, derde lid onderdeel c, van de Wav, betreft uitsluitend arbeidsplaatsen boven de zogenoemde ‘zaaglijn’ die het geheel aan arbeidsplaatsen in de cultuursector in twee segmenten verdeelt. Boven de ‘zaaglijn’ bevindt zich het topsegment gedefinieerd met het van het bruto jaarinkomen afgeleide maandinkomen.
 
@@ -548,11 +552,11 @@ Wanneer voorzienbaar is dat voor een aangevraagde tewerkstellingsvergunning binn
 
 Op grond van [artikel 9, eerste lid, onderdeel c, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=9) kan een tewerkstellingsvergunning of een gecombineerde vergunning worden geweigerd als de aanvraag een werkgever betreft aan wie in de voorafgaande vijf jaar een tewerkstellingsvergunning of een gecombineerde vergunning is afgegeven, waaraan een voorschrift als bedoeld in [artikel 10 van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=10) is verbonden. In dat geval zal steeds worden nagegaan of de in die eerdere vergunning gestelde voorschriften geheel zijn nagekomen. Als de voorschriften in betekenende mate niet zijn nagevolgd, wordt een vergunning in de regel geweigerd. Als de voorschriften wel in aanzienlijke mate maar niet geheel zijn nagevolgd, zal in de regel geen vergunning op grond van [artikel 11, eerste lid, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=11) worden afgegeven.
 
-### 9.1.d. Huisvesting
-
-Op grond van [artikel 9, eerste lid, onderdeel d, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=9) kan een tewerkstellingsvergunning of een gecombineerde vergunning worden geweigerd, als er geen passende huisvesting voor de vreemdeling beschikbaar is. De beoordeling vindt in eerste instantie plaats op grond van de bij de aanvraag verstrekte informatie. Zo nodig zal de aanvrager de gemeente om een oordeel over de huisvesting dienen te verzoeken. Deze beoordeling behelst zowel de beschikbaarheid van de huisvesting, inclusief de rechtmatigheid van het betrekken van de huisvesting, alsook een kwalificatie van de geschiktheid van de huisvesting, zoals veiligheid en hygiëne, gedurende de periode van tewerkstelling. Ook het UWV kan de gemeente om dit oordeel verzoeken.
-
 Het UWV kan een tewerkstellingsvergunning weigeren of adviseren een gecombineerde vergunning niet te verlenen als niet is voldaan aan bepalingen die zijn opgenomen in een sectoraal convenant als bedoeld in [artikel 9, eerste lid, onderdeel e, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=9).
+
+### 9.1.f. Belemmeringen voor vacaturevervulling
+
+Als sectoraal convenant in de zin van [artikel 9, eerste lid, onderdeel e, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=9) wordt slechts in aanmerking genomen een convenant dat voldoet aan de volgende vereisten:
 
 ### 9.1.f. Belemmeringen voor vacaturevervulling
 
@@ -562,11 +566,11 @@ Als sectoraal convenant in de zin van [artikel 9, eerste lid, onderdeel e, van d
 
 Op grond van [artikel 9, eerste lid, onderdeel f, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=9) kan een tewerkstellingsvergunning of een gecombineerde vergunning worden geweigerd als de werkgever belemmeringen opwerpt waardoor de arbeidsplaats niet met prioriteitgenietend aanbod kan worden vervuld. Gedacht kan worden aan irreële functie- of taaleisen. Het beheersen van een andere taal dan het Nederlands als voorwaarde voor vacaturevervulling kan beschouwd worden als een beletsel in de zin van artikel 9, eerste lid, onderdeel f, van de Wav.
 
-### 9.1.g. Weigering van een tewerkstellingsvergunning of een gecombineerde vergunning vanwege het niet over een periode van ten hoogste een maand betalen van de vreemdeling
+Op grond van [artikel 9, eerste lid, onderdeel h, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=9) kan een tewerkstellingsvergunning of een gecombineerde vergunning worden geweigerd wanneer er bij de werkgever geen sprake is van economische activiteiten. Hiermee kan worden voorkomen dat een werkgever een tewerkstellingsvergunning of een gecombineerde vergunning krijgt terwijl onvoldoende vaststaat dat de vreemdeling daadwerkelijk zal worden tewerkgesteld of dat de werkgever in staat is het loon te betalen vanwege het ontbreken van economische activiteiten. Voorkomen dient te worden dat door middel van het verkrijgen van een tewerkstellingsvergunning of een gecombineerde vergunning binnenkomst van de vreemdeling tot Nederland wordt verkregen als de arbeid niet zal kunnen worden verricht. Bij de aanvraag kan de werkgever gevraagd worden te bevestigen dat hij in staat is om het overeengekomen loon van de desbetreffende vreemdeling te kunnen betalen. Als er desondanks sprake is van signalen dat er geen economische activiteiten zijn geeft UWV de werkgever de gelegenheid om zijn verklaring te onderbouwen.
 
 Een aanvraag tot het verlenen van een tewerkstellingsvergunning of een gecombineerde vergunning kan op grond van [artikel 9, eerste lid onderdeel g, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=9) worden geweigerd indien is gebleken dat de werkgever eerder het loon zoals aangegeven in [artikel 7 van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=7), niet over een periode van ten hoogste een maand heeft betaald aan de vreemdeling. Immers, het is van belang dat de vreemdeling kan rekenen op consistente uitbetaling van het overeengekomen loon. UWV zal derhalve in de regel de aanvraag weigeren als bij een verlenging in de controle in de systemen blijkt dat er geen sprake is geweest van consistente uitbetaling van het loon tenzij, gelet op de individuele omstandigheden van het geval, de tegenwerping hiervan onevenredig zou zijn.
 
-Op grond van [artikel 9, eerste lid, onderdeel h, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=9) kan een tewerkstellingsvergunning of een gecombineerde vergunning worden geweigerd wanneer er bij de werkgever geen sprake is van economische activiteiten. Hiermee kan worden voorkomen dat een werkgever een tewerkstellingsvergunning of een gecombineerde vergunning krijgt terwijl onvoldoende vaststaat dat de vreemdeling daadwerkelijk zal worden tewerkgesteld of dat de werkgever in staat is het loon te betalen vanwege het ontbreken van economische activiteiten. Voorkomen dient te worden dat door middel van het verkrijgen van een tewerkstellingsvergunning of een gecombineerde vergunning binnenkomst van de vreemdeling tot Nederland wordt verkregen als de arbeid niet zal kunnen worden verricht. Bij de aanvraag kan de werkgever gevraagd worden te bevestigen dat hij in staat is om het overeengekomen loon van de desbetreffende vreemdeling te kunnen betalen. Als er desondanks sprake is van signalen dat er geen economische activiteiten zijn geeft UWV de werkgever de gelegenheid om zijn verklaring te onderbouwen.
+### 9.1.h. Weigering van een tewerkstellingsvergunning of een gecombineerde vergunning vanwege het ontbreken van economische activiteiten
 
 Op grond van [artikel 9, eerste lid, onderdeel h, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=9) kan een tewerkstellingsvergunning of een gecombineerde vergunning worden geweigerd wanneer er bij de werkgever geen sprake is van economische activiteiten. Hiermee kan worden voorkomen dat een werkgever een tewerkstellingsvergunning of een gecombineerde vergunning krijgt terwijl onvoldoende vaststaat dat de vreemdeling daadwerkelijk zal worden tewerkgesteld of dat de werkgever in staat is het loon te betalen vanwege het ontbreken van economische activiteiten. Voorkomen dient te worden dat door middel van het verkrijgen van een tewerkstellingsvergunning of een gecombineerde vergunning binnenkomst van de vreemdeling tot Nederland wordt verkregen als de arbeid niet zal kunnen worden verricht. Bij de aanvraag kan de werkgever gevraagd worden te bevestigen dat hij in staat is om het overeengekomen loon van de desbetreffende vreemdeling te kunnen betalen. Als er desondanks sprake is van signalen dat er geen economische activiteiten zijn geeft UWV de werkgever de gelegenheid om zijn verklaring te onderbouwen.
 
@@ -574,25 +578,25 @@ Op grond van [artikel 9, eerste lid, onderdeel h, van de Wav](https://wetten.ove
 
 Daarnaast kan bij een startende onderneming waarbij aannemelijk wordt gemaakt dat in de toekomst economische activiteiten zullen plaatsvinden door UWV een voorschrift worden opgenomen. Zie hiervoor paragraaf 10.
 
-### 9.1.i
+Indien een werkgever bij de IND een aanvraag heeft ingediend om aangemerkt te worden als erkende referent en deze erkenning is afgewezen, geschorst of ingetrokken kan een tewerkstellingsvergunning of een gecombineerde vergunning op grond van [artikel 9, eerste lid, onderdeel j, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=9) worden geweigerd.
 
 (Wordt nader ingevuld)
 
-Indien een werkgever bij de IND een aanvraag heeft ingediend om aangemerkt te worden als erkende referent en deze erkenning is afgewezen, geschorst of ingetrokken kan een tewerkstellingsvergunning of een gecombineerde vergunning op grond van [artikel 9, eerste lid, onderdeel j, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=9) worden geweigerd.
+Op grond van [artikel 2e Vw 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=2e) kan een aanvraag tot erkenning als referent worden afgewezen indien:
 
 Indien een werkgever bij de IND een aanvraag heeft ingediend om aangemerkt te worden als erkende referent en deze erkenning is afgewezen, geschorst of ingetrokken kan een tewerkstellingsvergunning of een gecombineerde vergunning op grond van [artikel 9, eerste lid, onderdeel j, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=9) worden geweigerd.
 
 Op grond van [artikel 2e Vw 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=2e) kan een aanvraag tot erkenning als referent worden afgewezen indien:
 
-De erkenning als referent kan op grond van [artikel 2f Vw 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=2f) worden geschorst op grond van ernstige vermoedens dat er grond bestaat om de erkenning als referent in te trekken op grond van [artikel 2g Vw 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=2g).
+### 9.1.k. Weigering van de tewerkstellingsvergunning of een gecombineerde vergunning vanwege oplegging van een bestuurlijke boete aan de werkgever met erkenning als referent
 
 [Artikel 2g Vw 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=2g) bepaalt dat de erkenning als referent kan worden ingetrokken, indien:
 
-### 9.1.k. Weigering van de tewerkstellingsvergunning of een gecombineerde vergunning vanwege oplegging van een bestuurlijke boete aan de werkgever met erkenning als referent
+Referenten worden na inwilliging van hun aanvraag om erkenning als referent opgenomen in het openbare register van de IND. Bij schorsing of intrekking van de erkenning worden zij uit het openbare register verwijderd. Indien de IND op basis van [artikel 2e, onderdeel c, van de Vw 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=2e) de erkenning als referent afwijst, zal het UWV in de regel de aangevraagde tewerkstellingsvergunning weigeren dan wel bij een gecombineerde vergunning adviseren deze te weigeren. Het gaat er hier namelijk om dat de IND in dat geval heeft geoordeeld dat de betrouwbaarheid van de aanvrager onvoldoende vaststaat. Bij die beoordeling kunnen strafrechtelijke antecedenten een rol spelen, die relevant worden geacht in het kader van de erkenning. Ook zal het UWV de vergunning in de regel weigeren als de IND op basis van [artikel 2g van de Vw 2000, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=2g), de erkenning van de referent heeft ingetrokken.
 
 Het UWV zal de tewerkstellingsvergunning in ieder geval nog niet kunnen weigeren, noch negatief adviseren bij een gecombineerde vergunning op grond van [artikel 9, eerste lid, onderdeel j, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=9) zolang de beslissing tot afwijzing, schorsing of intrekking van de erkenning als referent niet onherroepelijk is.
 
-Op grond van [artikel 9, eerste lid, onderdeel k, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=9) kan een tewerkstellingsvergunning of een gecombineerde vergunning worden geweigerd indien een werkgever binnen een periode van vijf jaar voor de dag dat de tewerkstellingsvergunning of gecombineerde vergunning wordt aangevraagd een bestuurlijke boete opgelegd heeft gekregen op grond van [artikel 55a van de Vw2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=55a) of is gestraft op grond van [artikel 108 Vw 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=108).
+[Artikel 55a van de Vw 2000, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=55a), bepaalt dat bij een overtreding van de verplichtingen bij of krachtens a[rtikel 2a, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=2a) (de zorgplicht jegens de vreemdeling), [2t, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=2t) (eigen verklaringen worden volledig en naar waarheid opgesteld en alle relevante gegevens en bescheiden worden verstrekt), [24a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=24a) (eigen verklaringen worden volledig en naar waarheid opgesteld en alle relevante gegevens en bescheiden worden verstrekt), [54, eerste lid, onderdelen a tot en met e en g, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=54) (verschillende toezichtmaatregelen) een bestuurlijke boete kan worden opgelegd. Deze boete is maximaal € 3.000 voor ondernemingen, rechtspersonen en andere organisaties en € 1.500 voor natuurlijke personen.
 
 Op grond van [artikel 9, eerste lid, onderdeel k, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=9) kan een tewerkstellingsvergunning of een gecombineerde vergunning worden geweigerd indien een werkgever binnen een periode van vijf jaar voor de dag dat de tewerkstellingsvergunning of gecombineerde vergunning wordt aangevraagd een bestuurlijke boete opgelegd heeft gekregen op grond van [artikel 55a van de Vw2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=55a) of is gestraft op grond van [artikel 108 Vw 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=108).
 
@@ -602,57 +606,53 @@ In [artikel 108 van de Vw 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&
 
 De overtredingen die genoemd zijn in [artikel 55a van de Vw2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=55a) zijn over het algemeen door de IND eenvoudig vast te stellen en hebben een geringe normatieve lading.
 
-Bij een volgende overtreding, binnen 24 maanden, van de verplichtingen genoemd in [artikel 55a van de Vw 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=55a), is er sprake van recidive en kan de IND een verhoogde boete opleggen. Dat geldt overigens alleen als er sprake is van herhaalde overtreding van dezelfde verplichting. Geconstateerde overtredingen kunnen ook leiden tot verscherpt toezicht op de naleving van de wettelijke voorschriften door de desbetreffende referent.
+### 9.1.l. Weigering tewerkstellingsvergunning of een gecombineerde vergunning na opleggen bestuurlijke boete
 
 Het UWV zal de tewerkstellingsvergunning dan ook in de regel weigeren, dan wel bij een gecombineerde vergunning adviseren deze vergunning niet te verlenen als er sprake is van een herhaalde overtreding van de verplichtingen genoemd in [artikel 55a van de van de Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=55a) 2000.
 
-### 9.1.l. Weigering tewerkstellingsvergunning of een gecombineerde vergunning na opleggen bestuurlijke boete
+Daarnaast wordt de tewerkstellingsvergunning of een gecombineerde vergunning in de regel geweigerd indien de referent is gestraft op grond van [artikel 108 van de Vw 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=108).
 
 Het UWV zal een tewerkstellingsvergunning ieder geval nog niet kunnen weigeren, dan wel bij een gecombineerde vergunning niet adviseren deze vergunning niet te verlenen op grond van [artikel 9, eerste lid, onderdeel k, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=9) indien de beslissing tot oplegging van de bestuurlijke boete of oplegging van een straf op grond van [artikel 108 van de Vw 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=108) niet onherroepelijk is.
 
-Op grond van [artikel 9, eerste lid, onderdeel l, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=9), kan de tewerkstellingsvergunning of een gecombineerde vergunning worden geweigerd als de werkgever binnen een periode van vijf jaar direct voorafgaand aan de aanvraag voor een tewerkstellingsvergunning een bestuurlijke boete is opgelegd wegens de overtreding van artikelen die in een van de volgende artikelen zijn genoemd:
+### 9.1.l. Weigering tewerkstellingsvergunning of een gecombineerde vergunning na opleggen bestuurlijke boete
 
 Op grond van [artikel 9, eerste lid, onderdeel l, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=9), kan de tewerkstellingsvergunning of een gecombineerde vergunning worden geweigerd als de werkgever binnen een periode van vijf jaar direct voorafgaand aan de aanvraag voor een tewerkstellingsvergunning een bestuurlijke boete is opgelegd wegens de overtreding van artikelen die in een van de volgende artikelen zijn genoemd:
 
-### 9.1.m. Weigering tewerkstellingsvergunning of een gecombineerde vergunning na strafrechtelijke veroordeling naar aanleiding van overtreding arbeidswetten
+Bij de beoordeling of een tewerkstellingsvergunning of gecombineerde vergunning wordt geweigerd, zal meewegen of sprake is van recidive of ernstige overtredingen, als bedoeld in [artikel 10.1, derde lid van het BuWav 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&artikel=10.1). Van recidive is sprake als binnen een tijdvak van vijf jaar voorafgaande aan de aanvraag meer dan een keer een bestuurlijke boete is opgelegd op grond van een van bovengenoemde artikelen en deze boetes onherroepelijk zijn geworden.
 
 Voor ernstige overtredingen wordt verwezen naar wat daarover in de desbetreffende besluiten staat:
 
-Op grond van [artikel 9, eerste lid, onderdeel m, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=9), kan de tewerkstellingsvergunning of een gecombineerde vergunning worden geweigerd als de werkgever binnen een periode van vijf jaar direct voorafgaand aan de aanvraag voor een tewerkstellingsvergunning of een gecombineerde vergunning strafrechtelijk is veroordeeld op grond van:
+### 9.1.m. Weigering tewerkstellingsvergunning of een gecombineerde vergunning na strafrechtelijke veroordeling naar aanleiding van overtreding arbeidswetten
 
 Op grond van [artikel 9, eerste lid, onderdeel m, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=9), kan de tewerkstellingsvergunning of een gecombineerde vergunning worden geweigerd als de werkgever binnen een periode van vijf jaar direct voorafgaand aan de aanvraag voor een tewerkstellingsvergunning of een gecombineerde vergunning strafrechtelijk is veroordeeld op grond van:
+
+Als een werkgever is veroordeeld op grond van een van deze artikelen, kan zijn aanvraag om een tewerkstellingsvergunning of een gecombineerde vergunning worden afgewezen. Daarbij wordt meegewogen of sprake is van recidive. Deze weigeringsgronden kunnen ook toegepast worden als de aanvraag om een tewerkstellingsvergunning of een gecombineerde vergunning wordt ingediend door een bedrijf waarvan (een van) de bestuurder(s) eerder een bestuurlijke boete in het kader van deze wetten is opgelegd of hiervoor strafrechtelijk is veroordeeld.
+
+### Artikel 10. [Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=10): Voorschriften
 
 ### 9.2. Convenant
 
-Een aanvraag om een tewerkstellingsvergunning of een gecombineerde vergunning kan niet worden afgewezen als de beslissing tot oplegging van de bestuurlijke boete of de strafrechtelijke veroordeling nog niet onherroepelijk is.
-
 Het UWV kan een tewerkstellingsvergunning weigeren of adviseren een gecombineerde vergunning niet te verlenen als niet is voldaan aan bepalingen die zijn opgenomen in een sectoraal convenant als bedoeld in [artikel 9, eerste lid, onderdeel e, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=9).
 
-### Artikel 10. [Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=10): Voorschriften
-
-### Artikel 10. [Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=10): Voorschriften
+Als sectoraal convenant in de zin van [artikel 9, eerste lid, onderdeel e, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=9) wordt slechts in aanmerking genomen een convenant dat voldoet aan de volgende vereisten:
 
 Op grond van [artikel 10 van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=10) kunnen aan de tewerkstellingsvergunning en de gecombineerde vergunning voorschriften worden verbonden, die de werkgever verplichten inspanningen te verrichten gericht op het vervullen van de arbeidsplaatsen met prioriteitgenietend aanbod of het wegnemen van gebreken.
 
-Op grond van [artikel 10 van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=10) kunnen aan de tewerkstellingsvergunning en de gecombineerde vergunning voorschriften worden verbonden, die de werkgever verplichten inspanningen te verrichten gericht op het vervullen van de arbeidsplaatsen met prioriteitgenietend aanbod of het wegnemen van gebreken.
-
-Op grond van [artikel 10 van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=10) kunnen aan de tewerkstellingsvergunning en de gecombineerde vergunning voorschriften worden verbonden, die de werkgever verplichten inspanningen te verrichten gericht op het vervullen van de arbeidsplaatsen met prioriteitgenietend aanbod of het wegnemen van gebreken.
+### 10. Voorschriften aan tewerkstellingsvergunning en gecombineerde vergunning
 
 ### Artikel 11. [Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149): Duur van de tewerkstellingsvergunning of gecombineerde vergunning
 
+De mogelijkheid om op grond van [artikel 10, aanhef en onderdelen a, b, d en e, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=10), voorschriften aan de tewerkstellingsvergunning te verbinden wordt uitsluitend toegepast, als de werkgever desgevraagd bereid is gevraagde inspanningen te verrichten en als de werkgever reeds enige inspanningen heeft verricht om prioriteitgenietend aanbod te mobiliseren of de gesignaleerde beletselen te verhelpen. In het kader van de gecombineerde vergunning zal het UWV aan de werkgever vragen of hij bereid is de gevraagde inspanningen te verrichten en als de werkgever reeds enige inspanningen heeft verricht om prioriteitgenietend aanbod te mobiliseren of de gesignaleerde beletselen te verhelpen. In alle andere gevallen wordt de tewerkstellingsvergunning geweigerd op grond van [artikel 8, eerste lid, aanhef en onderdelen a, b, c of d, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8) en wordt bij de gecombineerde vergunning op dezelfde gronden geadviseerd deze niet in te willigen.
+
+Daarnaast kan op grond van [artikel 10, aanhef en onderdeel e van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=10) aan een tewerkstellingsvergunning en een gecombineerde vergunning een voorschrift worden verbonden, dat de werkgever verplicht om aan te tonen dat de werkgever economische activiteiten gaat verrichten in de toekomst, zoals het overleggen van een huurcontract voor een bedrijfsruimte, een afschrift van een horeca- of exploitatievergunning van de gemeente en/of informatie dat de opening/start van de onderneming daadwerkelijk heeft plaatsgevonden zodat de vreemdeling de arbeid kan verrichten waarvoor de vergunning is verleend. Hiermee wordt de mogelijkheid gecreëerd voor (startende) ondernemingen dat, ondanks het voldoende kunnen aantonen van economische activiteiten op een moment na de startfase, de tewerkstellingsvergunning of gecombineerde vergunning wordt verleend onder voorschrift. Van deze mogelijkheid wordt alleen gebruik gemaakt als aannemelijk is gemaakt dat de werkgever in de toekomst economische activiteiten zal gaan verrichten en de werkgever heeft verklaard bereid te zijn de benodigde inspanningen te verrichten. De werkgever is dan gehouden om binnen, een in het individuele geval vast te stellen, redelijke termijn stukken te overleggen die de start van de economische activiteiten onderbouwen.
+
 ### Artikel 11. [Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149): Duur van de tewerkstellingsvergunning of gecombineerde vergunning
-
-Anders dan op grond van [artikel 11, eerste lid, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=11), dat aangeeft dat een tewerkstellingsvergunning voor ten hoogste drie jaar wordt verleend, geldt op grond van het tweede lid dat tewerkstellingsvergunningen en gecombineerde vergunningen voor tijdelijk werk worden verleend voor ten hoogste 24 weken. Zo worden op grond van artikel 11, tweede lid, tewerkstellingsvergunningen verleend ten behoeve van werkzaamheden die binnen een periode van 24 weken worden afgerond. Ook seizoenswerk valt onder deze paragraaf. Seizoenswerkers zijn werknemers die arbeid verrichten die naar zijn aard tijdelijke werkzaamheden omvat, vanwege het seizoensgebonden karakter, maar naar zijn aard niet valt onder het begrip incidentele arbeid als bedoeld in [artikelen 4.1. tot en met 4.3. van het BuWav 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&artikel=4.1). In de vreemdelingenregelgeving ([artikel 3.58, eerste lid, onderdeel f, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.58)) is in verband hiermee bepaald dat de verblijfsvergunning ten hoogste 24 weken duurt.
-
-Anders dan op grond van [artikel 11, eerste lid, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=11), dat aangeeft dat een tewerkstellingsvergunning voor ten hoogste drie jaar wordt verleend, geldt op grond van het tweede lid dat tewerkstellingsvergunningen en gecombineerde vergunningen voor tijdelijk werk worden verleend voor ten hoogste 24 weken. Zo worden op grond van artikel 11, tweede lid, tewerkstellingsvergunningen verleend ten behoeve van werkzaamheden die binnen een periode van 24 weken worden afgerond. Ook seizoenswerk valt onder deze paragraaf. Seizoenswerkers zijn werknemers die arbeid verrichten die naar zijn aard tijdelijke werkzaamheden omvat, vanwege het seizoensgebonden karakter, maar naar zijn aard niet valt onder het begrip incidentele arbeid als bedoeld in [artikelen 4.1. tot en met 4.3. van het BuWav 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&artikel=4.1). In de vreemdelingenregelgeving ([artikel 3.58, eerste lid, onderdeel f, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.58)) is in verband hiermee bepaald dat de verblijfsvergunning ten hoogste 24 weken duurt.
-
-### 11.2. Seizoensarbeid
 
 Ten aanzien van personen voor wie een tewerkstellingsvergunning of gecombineerde vergunning wordt aangevraagd, wordt steeds nagegaan of zij in een periode van 14 weken voorafgaand aan de vergunningverlening niet over een voor het verrichten van arbeid geldige vergunning tot verblijf hebben beschikt, dan wel ten behoeve van hen een tewerkstellingsvergunning of gecombineerde vergunning van kracht is geweest, onder gebruikmaking van de uitzonderingsmogelijkheden als hiervoor onder paragraaf 8.1.e beschreven ten aanzien van [artikel 8, eerste lid, onderdeel e, onder 1°, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8). Ook in die gevallen zal een tewerkstellingsvergunning of gecombineerde vergunning worden geweigerd.
 
-Voor vreemdelingen die als seizoensarbeider in de zin van artikel 3, onderdeel b, [Richtlijn 2014/36](32014L0036)/EU van het Europees Parlement en de Raad van 26 februari 2014 betreffende de voorwaarden voor toegang en verblijf van onderdanen van derde landen met het oog op tewerkstelling als seizoensarbeid een tewerkstellingsvergunning of gecombineerde vergunning onder de beperking ‘seizoensarbeid’ aanvragen, gelden, naast de weigeringsgronden uit [artikel 8 van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8), op grond van deze richtlijn een aantal afwijkende toelatingsvoorwaarden en weigeringsgronden.
+Anders dan op grond van [artikel 11, eerste lid, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=11), dat aangeeft dat een tewerkstellingsvergunning voor ten hoogste drie jaar wordt verleend, geldt op grond van het tweede lid dat tewerkstellingsvergunningen en gecombineerde vergunningen voor tijdelijk werk worden verleend voor ten hoogste 24 weken. Zo worden op grond van artikel 11, tweede lid, tewerkstellingsvergunningen verleend ten behoeve van werkzaamheden die binnen een periode van 24 weken worden afgerond. Ook seizoenswerk valt onder deze paragraaf. Seizoenswerkers zijn werknemers die arbeid verrichten die naar zijn aard tijdelijke werkzaamheden omvat, vanwege het seizoensgebonden karakter, maar naar zijn aard niet valt onder het begrip incidentele arbeid als bedoeld in [artikelen 4.1. tot en met 4.3. van het BuWav 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&artikel=4.1). In de vreemdelingenregelgeving ([artikel 3.58, eerste lid, onderdeel f, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.58)) is in verband hiermee bepaald dat de verblijfsvergunning ten hoogste 24 weken duurt.
 
-Voor vreemdelingen die als seizoensarbeider in de zin van artikel 3, onderdeel b, [Richtlijn 2014/36](32014L0036)/EU van het Europees Parlement en de Raad van 26 februari 2014 betreffende de voorwaarden voor toegang en verblijf van onderdanen van derde landen met het oog op tewerkstelling als seizoensarbeid een tewerkstellingsvergunning of gecombineerde vergunning onder de beperking ‘seizoensarbeid’ aanvragen, gelden, naast de weigeringsgronden uit [artikel 8 van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8), op grond van deze richtlijn een aantal afwijkende toelatingsvoorwaarden en weigeringsgronden.
+Ten aanzien van personen voor wie een tewerkstellingsvergunning of gecombineerde vergunning wordt aangevraagd, wordt steeds nagegaan of zij in een periode van 14 weken voorafgaand aan de vergunningverlening niet over een voor het verrichten van arbeid geldige vergunning tot verblijf hebben beschikt, dan wel ten behoeve van hen een tewerkstellingsvergunning of gecombineerde vergunning van kracht is geweest, onder gebruikmaking van de uitzonderingsmogelijkheden als hiervoor onder paragraaf 8.1.e beschreven ten aanzien van [artikel 8, eerste lid, onderdeel e, onder 1°, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8). Ook in die gevallen zal een tewerkstellingsvergunning of gecombineerde vergunning worden geweigerd.
 
 UWV verleent een tewerkstellingsvergunning voor seizoensarbeid, dan wel een gecombineerde vergunning onder de beperking ‘seizoensarbeid’ voor arbeid in de land- en tuinbouwsector.
 
@@ -660,45 +660,45 @@ UWV verleent een tewerkstellingsvergunning voor seizoensarbeid, dan wel een geco
 
 ### Artikel 11a. [Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149): Periodieke girale betaling
 
-Bij een verlenging van een gecombineerde vergunning of een hernieuwde aanvraag tewerkstellingsvergunning zal UWV beoordelen of de werkgever het juiste loon tijdig en op de juiste wijze heeft uitbetaald.
+Bij de aanvraag wordt door de werkgever een geldige arbeidsovereenkomst overgelegd, waarin in ieder geval de volgende gegevens zijn opgenomen:
 
 ### 11.a. Periodieke, girale betaling
 
+### Artikel 11a. [Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149): Periodieke girale betaling
+
+In [artikel 12, eerste lid, onderdeel a, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=12) is bepaald dat de tewerkstellingsvergunning of gecombineerde vergunning kan worden ingetrokken indien de voor verkrijging verstrekte gegevens zodanig onjuist of onvolledig blijken te zijn geweest, dat op de aanvraag een andere beslissing zou zijn genomen als bij de beoordeling daarvan de juiste omstandigheden volledig bekend waren geweest.
+
+Bij een verlenging van een gecombineerde vergunning of een hernieuwde aanvraag tewerkstellingsvergunning zal UWV beoordelen of de werkgever het juiste loon tijdig en op de juiste wijze heeft uitbetaald.
+
 ### Artikel 12. [Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149): Facultatieve intrekkingsgronden: onjuiste gegevens of wegens geen gebruik
-
-In [artikel 12, eerste lid, onderdeel a, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=12) is bepaald dat de tewerkstellingsvergunning of gecombineerde vergunning kan worden ingetrokken indien de voor verkrijging verstrekte gegevens zodanig onjuist of onvolledig blijken te zijn geweest, dat op de aanvraag een andere beslissing zou zijn genomen als bij de beoordeling daarvan de juiste omstandigheden volledig bekend waren geweest.
-
-In [artikel 12, eerste lid, onderdeel a, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=12) is bepaald dat de tewerkstellingsvergunning of gecombineerde vergunning kan worden ingetrokken indien de voor verkrijging verstrekte gegevens zodanig onjuist of onvolledig blijken te zijn geweest, dat op de aanvraag een andere beslissing zou zijn genomen als bij de beoordeling daarvan de juiste omstandigheden volledig bekend waren geweest.
-
-### 12.2. Intrekking tewerkstellingsvergunning of gecombineerde vergunning omdat er geen gebruik van wordt gemaakt
 
 UWV zal in de regel de tewerkstellingsvergunning intrekken indien uit eigen onderzoek van de bij UWV beschikbare gegevens dan wel uit bevindingen van ketenpartners zoals de Nederlandse arbeidsinspectie, de IND of de Belastingdienst informatie wordt verkregen waaruit blijkt dat de vergunning kan worden ingetrokken op grond van dit wetsartikel. De vergunning zal met terugwerkende kracht worden ingetrokken vanaf de datum waarop niet (meer) wordt voldaan aan de voorwaarden. Indien het UWV beschikt over de informatie zoals eerder in deze alinea vermeld en de vreemdeling heeft een gecombineerde vergunning zal het UWV de IND adviseren om de gecombineerde vergunning in te trekken.
 
-In [artikel 12, eerste lid, onderdeel c, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=12) is bepaald dat de tewerkstellingsvergunning of gecombineerde vergunning kan worden ingetrokken als er geen gebruik van wordt gemaakt. Teneinde dit te kunnen effectueren zal bij de vergunningverlening de werkgever die de tewerkstellingsvergunning heeft aangevraagd of de houder van de gecombineerde vergunning er steeds op worden gewezen dat hij op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&artikel=4&z=2023-03-22&g=2022-09-26) van deze regeling verplicht is onverwijld ervan mededeling te doen als van de tewerkstellingsvergunning of gecombineerde vergunning langer dan 4 weken geen gebruik wordt gemaakt. Op grond van artikel 4 van deze regeling is de houder van de tewerkstellingsvergunning verplicht onverwijld schriftelijk mededeling te doen als van de tewerkstellingsvergunning langer dan 4 weken geen gebruik wordt gemaakt. Deze verplichting is opgenomen om te zorgen dat tijdig wordt gemeld als er geen gebruik meer wordt gemaakt van de tewerkstellingsvergunning omdat het dienstverband is geëindigd of het werk is beëindigd. Gelet hierop is de werkgever gehouden om, voor zover hij daarvan kennis heeft of kan hebben, te melden als de vreemdeling niet meer bij de werkgever werkzaam is. Zie ook paragraaf 1.3.
+In [artikel 12, eerste lid, onderdeel a, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=12) is bepaald dat de tewerkstellingsvergunning of gecombineerde vergunning kan worden ingetrokken indien de voor verkrijging verstrekte gegevens zodanig onjuist of onvolledig blijken te zijn geweest, dat op de aanvraag een andere beslissing zou zijn genomen als bij de beoordeling daarvan de juiste omstandigheden volledig bekend waren geweest.
 
-In [artikel 12, eerste lid, onderdeel c, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=12) is bepaald dat de tewerkstellingsvergunning of gecombineerde vergunning kan worden ingetrokken als er geen gebruik van wordt gemaakt. Teneinde dit te kunnen effectueren zal bij de vergunningverlening de werkgever die de tewerkstellingsvergunning heeft aangevraagd of de houder van de gecombineerde vergunning er steeds op worden gewezen dat hij op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&artikel=4&z=2023-10-05&g=2023-10-05) van deze regeling verplicht is onverwijld ervan mededeling te doen als van de tewerkstellingsvergunning of gecombineerde vergunning langer dan 4 weken geen gebruik wordt gemaakt. Op grond van artikel 4 van deze regeling is de houder van de tewerkstellingsvergunning verplicht onverwijld schriftelijk mededeling te doen als van de tewerkstellingsvergunning langer dan 4 weken geen gebruik wordt gemaakt. Deze verplichting is opgenomen om te zorgen dat tijdig wordt gemeld als er geen gebruik meer wordt gemaakt van de tewerkstellingsvergunning omdat het dienstverband is geëindigd of het werk is beëindigd. Gelet hierop is de werkgever gehouden om, voor zover hij daarvan kennis heeft of kan hebben, te melden als de vreemdeling niet meer bij de werkgever werkzaam is. Zie ook paragraaf 1.3.
+UWV zal in de regel de tewerkstellingsvergunning intrekken indien uit eigen onderzoek van de bij UWV beschikbare gegevens dan wel uit bevindingen van ketenpartners zoals de Nederlandse arbeidsinspectie, de IND of de Belastingdienst informatie wordt verkregen waaruit blijkt dat de vergunning kan worden ingetrokken op grond van dit wetsartikel. De vergunning zal met terugwerkende kracht worden ingetrokken vanaf de datum waarop niet (meer) wordt voldaan aan de voorwaarden. Indien het UWV beschikt over de informatie zoals eerder in deze alinea vermeld en de vreemdeling heeft een gecombineerde vergunning zal het UWV de IND adviseren om de gecombineerde vergunning in te trekken.
+
+### 12.2. Intrekking tewerkstellingsvergunning of gecombineerde vergunning omdat er geen gebruik van wordt gemaakt
 
 ### Artikel 12a. [Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149): Facultatieve intrekkingsgronden: bij ontbreken erkende referentstatus
 
-### Artikel 12a. [Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149): Facultatieve intrekkingsgronden: bij ontbreken erkende referentstatus
+Van de werkgever wordt verwacht dat hij de vreemdeling en, indien sprake is van een situatie als bedoeld in [artikel 2, tweede lid van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=2), ook de andere werkgever informeert over zijn besluit niet langer van de tewerkstellingsvergunning of gecombineerde vergunning gebruik te maken.
 
-Op grond van [artikel 12a, onderdeel a, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=12a) kan een tewerkstellingsvergunning of gecombineerde vergunning worden ingetrokken indien de erkenning als referent van een werkgever is afgewezen, ingetrokken of geschorst.
-
-Op grond van [artikel 12a, onderdeel a, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=12a) kan een tewerkstellingsvergunning of gecombineerde vergunning worden ingetrokken indien de erkenning als referent van een werkgever is afgewezen, ingetrokken of geschorst.
+De tewerkstellingsvergunning of gecombineerde vergunning wordt vervolgens ingetrokken, tenzij de vreemdeling een aaneengesloten verlofperiode van niet langer dan drie maanden geniet, dan wel ziekteverlof, zwangerschapsverlof, bevallingsverlof of ouderschapsverlof heeft en de arbeidsrelatie blijft voortbestaan.
 
 Op grond van [artikel 12a, onderdeel a, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=12a) kan een tewerkstellingsvergunning of gecombineerde vergunning worden ingetrokken indien de erkenning als referent van een werkgever is afgewezen, ingetrokken of geschorst.
 
 Op grond van [artikel 2e van de Vw 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=2e) kan een aanvraag tot erkenning als referent worden afgewezen indien:
 
-De erkenning als referent kan op grond van [artikel 2f van de Vw 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=2f) worden geschorst op grond van ernstige vermoedens dat er grond bestaat om de erkenning als referent in te trekken op grond van [artikel 2g van de Vw 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=2g).
+Op grond van [artikel 12a, onderdeel a, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=12a) kan een tewerkstellingsvergunning of gecombineerde vergunning worden ingetrokken indien de erkenning als referent van een werkgever is afgewezen, ingetrokken of geschorst.
 
 ### 12a.2. Intrekking tewerkstellingsvergunning of gecombineerde vergunning indien aan (erkende) referent een bestuurlijke boete is opgelegd
 
+De erkenning als referent kan op grond van [artikel 2f van de Vw 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=2f) worden geschorst op grond van ernstige vermoedens dat er grond bestaat om de erkenning als referent in te trekken op grond van [artikel 2g van de Vw 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=2g).
+
+[Artikel 2g van de Vw 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=2g) bepaalt dat de erkenning als referent kan worden ingetrokken, indien:
+
 Het UWV zal de tewerkstellingsvergunning in ieder geval niet intrekken, noch bij een gecombineerde vergunning niet negatief adviseren op grond van [artikel 12a van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=12a) zolang de beslissing tot afwijzing, schorsing of intrekking van de erkenning als referent niet onherroepelijk is.
-
-Op grond van [artikel 12a, onderdeel b, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=12a) kan een tewerkstellingsvergunning of gecombineerde vergunning worden ingetrokken indien een werkgever die (erkende) referent is binnen een periode van vijf jaar voorafgaande aan de aanvraag van een tewerkstellingsvergunning of gecombineerde vergunning een bestuurlijke boete opgelegd heeft gekregen op grond van [artikel 55a van de Vw 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=55a) of is gestraft op grond van [artikel 108 van de Vw 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=108).
-
-Op grond van [artikel 12a, onderdeel b, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=12a) kan een tewerkstellingsvergunning of gecombineerde vergunning worden ingetrokken indien een werkgever die (erkende) referent is binnen een periode van vijf jaar voorafgaande aan de aanvraag van een tewerkstellingsvergunning of gecombineerde vergunning een bestuurlijke boete opgelegd heeft gekregen op grond van [artikel 55a van de Vw 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=55a) of is gestraft op grond van [artikel 108 van de Vw 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=108).
 
 [Artikel 55a van de Vw 2000, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=55a), bepaalt dat bij een overtreding van de verplichtingen bij of krachtens [artikel 2a, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=2a) (de zorgplicht jegens de vreemdeling), [2t, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=2t) (eigen verklaringen worden volledig en naar waarheid opgesteld en alle relevante gegevens en bescheiden worden verstrekt), [24a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=24a) (eigen verklaringen worden volledig en naar waarheid opgesteld en alle relevante gegevens en bescheiden worden verstrekt), [54, eerste lid, onderdelen a tot en met e en g, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=54) (verschillende toezichtmaatregelen) een bestuurlijke boete kan worden opgelegd. Deze boete is maximaal € 3.000 voor ondernemingen, rechtspersonen en andere organisaties en € 1.500 voor natuurlijke personen.
 
@@ -706,27 +706,27 @@ Op grond van [artikel 12a, onderdeel b, van de Wav](https://wetten.overheid.nl/j
 
 ### Artikel 12b. [Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149): Facultatieve intrekkingsgronden bij overtreding arbeidswetten
 
-Op grond van [artikel 12b van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=12) kan de tewerkstellingsvergunning of gecombineerde vergunning worden ingetrokken als de werkgever binnen een periode van vijf jaar voorafgaand aan de intrekking voor een tewerkstellingsvergunning of gecombineerde vergunning een bestuurlijke boete is opgelegd wegens de overtreding van artikelen die in een van de volgende artikelen zijn genoemd:
+In [artikel 108 van de Vw 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=108) worden verschillende strafbepalingen genoemd. De opgelegde straf kan een geldboete zijn of een periode van hechtenis.
 
-Op grond van [artikel 12b van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=12) kan de tewerkstellingsvergunning of gecombineerde vergunning worden ingetrokken als de werkgever binnen een periode van vijf jaar voorafgaand aan de intrekking voor een tewerkstellingsvergunning of gecombineerde vergunning een bestuurlijke boete is opgelegd wegens de overtreding van artikelen die in een van de volgende artikelen zijn genoemd:
+Het UWV zal de tewerkstellingsvergunning in ieder geval niet intrekken, dan wel bij een gecombineerde vergunning niet negatief adviseren, op grond van [artikel 12a, onderdeel b, Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=12a) indien de beslissing tot oplegging van de bestuurlijke boete of oplegging van een straf op grond van [artikel 108 van de Vw 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=108) niet onherroepelijk is.
 
 Op grond van [artikel 12b van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=12) kan de tewerkstellingsvergunning of gecombineerde vergunning worden ingetrokken als de werkgever binnen een periode van vijf jaar voorafgaand aan de intrekking voor een tewerkstellingsvergunning of gecombineerde vergunning een bestuurlijke boete is opgelegd wegens de overtreding van artikelen die in een van de volgende artikelen zijn genoemd:
 
 Deze gronden zijn gelijk aan de gronden waarop een vergunning kan worden geweigerd (zie daarvoor paragraaf 9.1.l.). Bij de beoordeling of een tewerkstellingsvergunning of gecombineerde vergunning ingetrokken wordt, zal meewegen of sprake is van recidive of ernstige overtredingen. Van recidive is sprake als binnen een tijdvak van vijf jaar voorafgaande aan de intrekking meer dan een keer een bestuurlijke boete is opgelegd op grond van een van bovengenoemde artikelen en deze boetes onherroepelijk zijn geworden.
 
-Voor ernstige overtredingen wordt verwezen naar wat daarover in de betreffende besluiten staat:
+Op grond van [artikel 12b van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=12) kan de tewerkstellingsvergunning of gecombineerde vergunning worden ingetrokken als de werkgever binnen een periode van vijf jaar voorafgaand aan de intrekking voor een tewerkstellingsvergunning of gecombineerde vergunning een bestuurlijke boete is opgelegd wegens de overtreding van artikelen die in een van de volgende artikelen zijn genoemd:
 
-Indien de bevoegde instantie heeft geconstateerd dat zich een ernstige overtreding heeft voorgedaan zoals bedoeld in een van deze wetten en de beslissing daarover onherroepelijk is geworden, kan de tewerkstellingsvergunning worden ingetrokken, dan wel wordt geadviseerd de gecombineerde vergunning in te trekken.
-
-### Artikel 13. [Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149): Overige intrekkingsgronden
+Deze gronden zijn gelijk aan de gronden waarop een vergunning kan worden geweigerd (zie daarvoor paragraaf 9.1.l.). Bij de beoordeling of een tewerkstellingsvergunning of gecombineerde vergunning ingetrokken wordt, zal meewegen of sprake is van recidive of ernstige overtredingen. Van recidive is sprake als binnen een tijdvak van vijf jaar voorafgaande aan de intrekking meer dan een keer een bestuurlijke boete is opgelegd op grond van een van bovengenoemde artikelen en deze boetes onherroepelijk zijn geworden.
 
 ### Artikel 13. [Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149): Overige intrekkingsgronden
 
-Op grond van [artikel 13, aanhef, en onderdeel a, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=13) kan een tewerkstellingsvergunning of gecombineerde vergunning worden ingetrokken wanneer de beperking waaronder de vergunning is verleend, niet in acht wordt genomen.
+### Artikel 13. [Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149): Overige intrekkingsgronden
 
-Op grond van [artikel 13, aanhef, en onderdeel a, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=13) kan een tewerkstellingsvergunning of gecombineerde vergunning worden ingetrokken wanneer de beperking waaronder de vergunning is verleend, niet in acht wordt genomen.
+Eveneens kan op grond van [artikel 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=12b) de tewerkstellingsvergunning of gecombineerde vergunning worden ingetrokken als de werkgever binnen een periode van vijf jaar voorafgaand aan de intrekking voor een tewerkstellingsvergunning of gecombineerde vergunning strafrechtelijk is veroordeeld op grond van:
 
-### Artikel 24. [Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149): Standstill-bepaling
+Als een werkgever is veroordeeld op grond van een van deze artikelen, kan zijn aanvraag om een tewerkstellingsvergunning of gecombineerde vergunning worden afgewezen. Daarbij wordt afgewogen of sprake is van recidive. Deze intrekkingsgronden kunnen ook toegepast worden als de tewerkstellingsvergunning of gecombineerde vergunning is verleend aan een bedrijf waarvan (een van) de bestuurder(s) eerder een bestuurlijke boete in het kader van deze wetten is opgelegd of hiervoor strafrechtelijk is veroordeeld. Een tewerkstellingsvergunning of gecombineerde vergunning kan niet worden ingetrokken als de beslissing tot oplegging van de bestuurlijke boete of de strafrechtelijke veroordeling nog niet onherroepelijk is.
+
+### Artikel 13. [Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149): Overige intrekkingsgronden
 
 Zo trekt UWV, wanneer de houder van een tewerkstellingsvergunning of gecombineerde vergunning voor seizoensarbeid andere arbeid verricht dan als seizoensarbeider (zonder dat hier een tewerkstellingsvergunning voor is afgegeven), de tewerkstellingsvergunning in, of adviseert UWV de gecombineerde vergunning in te trekken.
 
@@ -946,7 +946,7 @@ Zo trekt UWV, wanneer de houder van een tewerkstellingsvergunning of gecombineer
 
 - 39. Gezinsleden die deel uitmaken van het huishouden van functionarissen van het Internationaal Restmechanisme voor straftribunalen (Trb. 2015, 59).
 
-### Mededeling als bedoeld in [paragraaf 8.3.b.10](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&bijlage=I&z=2022-01-01&g=2022-03-04).
+### Artikel 24. [Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149): Standstill-bepaling
 
 ### Mededeling als bedoeld in [paragraaf 8.3.b.10](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&bijlage=I&z=2023-03-22&g=2022-09-26).
 
@@ -958,15 +958,15 @@ Voor de landen die lid zijn van de WTO gelden de regelingen zoals beschreven in 
 
 Met de volgende landen zijn vrijhandelsakkoorden van kracht of voorlopig toegepast waarin de tijdelijke mobiliteit van personen is vastgelegd.
 
-Met de volgende landen zijn vrijhandelsakkoorden van kracht of voorlopig toegepast waarin de tijdelijke mobiliteit van personen is vastgelegd.
+Voor de landen die lid zijn van de WTO gelden de regelingen zoals beschreven in de [paragrafen 8.3.b.11. en 8.3.b.12](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&bijlage=I&z=2023-12-09&g=2023-12-09). Zie [www.wto.org](onbekend) voor welke landen zijn aangesloten bij de WTO.
 
 Op de onderdanen van deze landen zijn de [paragrafen 8.3.b.11., 8.3.b.12. en 8.3.b.13](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&bijlage=I&z=2023-10-05&g=2023-10-05) van toepassing.
 
+Met de volgende landen zijn vrijhandelsakkoorden van kracht of voorlopig toegepast waarin de tijdelijke mobiliteit van personen is vastgelegd.
+
+Op de onderdanen van deze landen zijn de [paragrafen 8.3.b.11., 8.3.b.12. en 8.3.b.13](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&bijlage=I&z=2023-12-09&g=2023-12-09) van toepassing.
+
 Op de onderdanen van deze landen zijn de paragrafen 8.3.b.11. en 8.3.b.12. van toepassing.
-
-Op de onderdanen van deze landen zijn de paragrafen 8.3.b.12. en 8.3.b.13. van toepassing.
-
-Op de onderdanen van deze landen is alleen de paragraaf 8.3.b.12. van toepassing.
 
 Deze regeling zal met de toelichting en de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&bijlage=I&z=2022-01-01&g=2022-03-04) in de Staatscourant worden geplaatst.
 
@@ -1072,23 +1072,23 @@ Een manager is iemand die deel uitmaakt van het hogere kader van een rechtsperso
 
 ### 8.3.b.14. Zeevisserij
 
-De tewerkstellingsvergunning wordt, in afwijking van paragraaf 12.2 van deze bijlage, niet ingetrokken indien er langer dan vier weken geen gebruik van wordt gemaakt. In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&artikel=4&z=2023-10-05&g=2023-10-05) van deze regeling hoeft er in deze situatie geen mededeling gedaan te worden.
+De tewerkstellingsvergunning wordt, in afwijking van paragraaf 12.2 van deze bijlage, niet ingetrokken indien er langer dan vier weken geen gebruik van wordt gemaakt. In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&artikel=4&z=2023-12-09&g=2023-12-09) van deze regeling hoeft er in deze situatie geen mededeling gedaan te worden.
 
 ### 8.3.b.16. Wervingsinspanningen bij aanvraag tewerkstellingsvergunning of gecombineerde vergunning voor koks ten behoeve van de Aziatische horeca
 
 [Paragraaf 19a van bijlage I van de Regeling uitvoering Wet arbeid vreemdelingen 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034945&bijlage=I) (RuWav 2014) zoals die luidde voor 1 januari 2022, blijft van toepassing op:
 
-### 8.3.c.1. Docenten in het internationaal onderwijs
+### 8.3.c. Afwijkingen in het kader van scholing, opleiding, vrijwilligerswerk, internationale uitwisseling en andere internationale culturele contacten alsmede ten behoeve van vreemdelingen die beschikken over een voor het verrichten van arbeid geldige vergunning.
 
-Voor docenten in het internationaal primair en voortgezet onderwijs, waaronder zgn. zaterdagscholen, kan een tewerkstellingsvergunning worden verleend zonder toets aan [artikel 8, eerste lid, onderdelen a, b, en c, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8) met een maximale duur van drie jaar. Bij een verblijf van langer dan drie maanden geldt hetzelfde voor het advies over het verlenen of verlengen van de gecombineerde vergunning.
+Op grond van [artikel 8, derde lid, onderdeel c, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8) kan worden afgeweken van het eerste lid, onderdeel a, b, c, d en f. Het gaat daarbij om afwijking in het kader van scholing, opleiding, vrijwilligerswerk, internationale uitwisseling en andere internationale culturele contacten alsmede ten behoeve van vreemdelingen die beschikken over een voor het verrichten van arbeid geldige verblijfsvergunning. De paragrafen 8.3.c.1 tot en met 8.3.c.11. vermelden de groepen waarom het gaat bij deze afwijkingsgrond.
 
 ### 8.3.c.2. Stagiairs HBO en universitair
 
-De stage mag niet in de plaats komen van een reguliere baan. In verband met dit vereiste dient in de stageovereenkomst een beschrijving van het stageprogramma te worden opgenomen, waarin de educatieve doelstellingen en leercomponenten van de stage zijn opgenomen.
+Voor vreemdelingen die korter dan drie maanden arbeid verrichten als stagiair kan een tewerkstellingsvergunning worden verleend zonder toepassing van [artikel 8, eerste lid, onderdelen a, b, c, d en f, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8). Hetzelfde geldt voor vreemdelingen bij een verblijf van langer dan drie maanden, maar korter dan één jaar, voor het advies over het verlenen of verlengen van een gecombineerde vergunning. Deze toets is eveneens van toepassing op een aanvraag voor een tewerkstellingsvergunning voor gemeenschapsonderdanen op wie het vrij verkeer tijdelijk niet van toepassing is.
 
 ### 8.3.c.3. Stagiairs MBO
 
-Tevens wordt een gefaseerd stageprogramma overgelegd, afgegeven door de onderwijsinstelling, waaruit blijkt wat de inhoud van de stage is. Het aantal stagiairs per werkgever mag niet meer zijn dan 10% van het vaste personeelsbestand, met een toegestaan minimum van 2 stagiairs. Deze beperking is niet van toepassing op vreemdelingen die beschikken over een W-document dan wel aan wie een verblijfsvergunning voor bepaalde tijd is verleend onder de beperking verband houdende met het volgen van studie.
+Het gaat hier om mensen die in buitenland studeren/hebben gestudeerd en in Nederland stage lopen. Voor vreemdelingen die voor korter dan drie maanden arbeid verrichten die noodzakelijk is ter voltooiing van hun opleiding op MBO-niveau in het buitenland (in de regel in het laatste jaar van hun studie) kan een tewerkstellingsvergunning worden verleend zonder toepassing van [artikel 8, eerste lid, onderdelen a, b, c, d en f, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8). Hetzelfde geldt voor vreemdelingen bij een verblijf van langer dan drie maanden, maar korter dan één jaar, voor het advies over het verlenen of verlengen van een gecombineerde vergunning. Deze toets is eveneens van toepassing op een aanvraag voor een tewerkstellingsvergunning voor gemeenschapsonderdanen op wie het vrij verkeer tijdelijk niet van toepassing is.
 
 ### 8.3.c.4. Stagiairs in het kader van het Young Workers Exchange Program
 
@@ -1096,43 +1096,43 @@ Voor deze stages geldt dat uit de verklaring van de beoogd werkgever blijkt dat 
 
 ### 8.3.c.5. Stagiairs in het kader van internationale uitwisselingsprogramma’s tussen MBO-instellingen
 
-De ontvangende MBO-instelling is verantwoordelijk voor de huisvesting, de begeleiding tijdens de stage en het verblijf van de deelnemers aan het uitwisselingsprogramma. Ook is de ontvangende MBO-instelling ervoor verantwoordelijk dat de vreemdeling een inkomen zal ontvangen dat niet lager mag zijn dan 50% van het voor hem geldende wettelijk minimumjeugdloon, bedoeld in [artikel 8, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8).
+Voor vreemdelingen die arbeid verrichten in het kader van internationale uitwisselingsprogramma’s tussen MBO-instellingen en hiervoor kortdurende stages volgen bij werkgevers in Nederland, kan voor maximaal drie maanden een tewerkstellingsvergunning worden verleend zonder toepassing van [artikel 8, eerste lid, onderdelen a, b, c, d en f van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8).
 
 ### 8.3.c.6. Praktikanten
 
-Voor vreemdelingen die voor een verblijf korter dan drie maanden naar Nederland komen om werkervaring op te doen, die zij vervolgens direct in de praktijk gaan brengen bij hun werkgever in hun herkomstland en deze ervaring van belang is voor de ontwikkeling van de bedrijfsvoering van die werkgever, kan een tewerkstellingsvergunning worden verleend zonder toepassing van [artikel 8, eerste lid, onderdelen a en b, en c, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8). Bij een verblijf van drie maanden of meer geldt hetzelfde voor het advies over het verlenen en verlengen van de gecombineerde vergunning voor in de regel maximaal 24 weken.
+De tewerkstellingsvergunning zal worden verleend aan de Nederlandse MBO-instelling. De MBO-instelling draagt er zorg voor dat een kopie van de tewerkstellingsvergunning wordt verstrekt aan de werkgever(s) waar de stage wordt gelopen.
 
 ### 8.3.c.7. Arbeid van bijkomende aard door studenten
 
-Toetsing aan de voorwaarden vervat in [artikel 8, eerste lid, onderdelen a, b, c en f, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8) behoeft niet plaats te vinden voor buitenlandse studenten in het bezit van een verblijfsvergunning voor bepaalde tijd die is verleend onder de beperking verband houdende met het volgen van studie. Hetzelfde geldt voor buitenlandse studenten die op grond van [artikel 3.3, vijfde lid, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.3) rechtmatig in Nederland verblijven en beschikken over een verblijfssticker in hun paspoort waaruit dat blijkt, of, in het geval van een gemeenschapsonderdaan op wie het vrij verkeer van werknemers tijdelijk nog niet van toepassing is, wanneer bij de aanvraag wordt aangetoond dat de desbetreffende persoon als student bij de desbetreffende onderwijsinstelling staat ingeschreven. De vergunning zal worden verleend als uit de aanvraag is gebleken dat de arbeid onder marktconforme voorwaarden plaatsvindt, en de arbeid:
+Voorwaarde voor toepassing van deze uitzonderingsmogelijkheid is dat deze praktikanten reeds een voldoende vakgerichte basisopleiding hebben gevolgd en op basis van een samenwerkingsovereenkomst tussen de in het buitenland gevestigde onderneming en de in Nederland gevestigde onderneming in de laatstgenoemde bij wijze van onderricht bedrijfservaring kunnen opdoen. Bij de aanvraag wordt een gefaseerd leerplan bijgevoegd, alsmede een verklaring van de Nederlandse werkgever inhoudende dat de praktikant geen reguliere arbeidsplaats inneemt. Het leerplan bestaat uit een omschrijving van de werkzaamheden, van de leerdoelen en van de toegevoegde waarde van de werkervaring van de praktikant voor de onderneming in het herkomstland. De praktikant wordt tijdelijk uitgezonden naar de in Nederland gevestigde onderneming. De buitenlandse werkgever verklaart dat hij de praktikant na ommekomst van de praktijkperiode weer direct te werk zal stellen. Het aantal praktikanten staat in een redelijke verhouding tot het aantal werknemers dat bij een werkgever werkzaam is.
 
 ### 8.3.c.8. Werknemers in de sportsector
 
-Als het een verblijf van langer dan drie maanden betreft gelden deze voorwaarden ook voor het advies over het verlenen of verlengen van de gecombineerde vergunning.
+De geboden beloning zal steeds in overeenstemming zijn met wat (top)sporters in de desbetreffende sport verdienen.
 
 ### 8.3.c.9. Beroepsvoetballers
 
-Wanneer het een verblijf van langer dan drie maanden betreft gelden deze voorwaarden ook voor het advies over het verlenen of verlengen van de gecombineerde vergunning.
+Hetgeen in de vorige paragraaf 8.3.c.8. is opgenomen geldt eveneens voor beroepsvoetballers. Daarnaast wordt bij het betaalde voetbal ook de eerste divisie gerekend tot de hoogste competitieafdeling.
 
 ### 8.3.c.10. Musici en artiesten
 
-De in deze tabel vermelde salarissen zijn gebaseerd op de CAO Nederlandse orkesten, de CAO Theater en dans en ontleend aan de arbeidsvoorwaardenregeling analoog aan de sector Rijk en sector Onderwijs.
+Voor musici en artiesten die behoren tot bepaalde artistieke functiegroepen in een beperkt aantal branches, te weten dans, klassieke muziek, opera, musical, theater, toneel en cultuurwerkplaatsen gelden afwijkende regelingen. Deze functiegroepen zijn in onderstaande lijst opgenomen.
 
-### 9.1.e. Sectorale convenanten
+### 9.1.d. Huisvesting
 
-Het UWV kan een tewerkstellingsvergunning weigeren of adviseren een gecombineerde vergunning niet te verlenen als niet is voldaan aan bepalingen die zijn opgenomen in een sectoraal convenant als bedoeld in [artikel 9, eerste lid, onderdeel e, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=9).
+Op grond van [artikel 9, eerste lid, onderdeel d, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=9) kan een tewerkstellingsvergunning of een gecombineerde vergunning worden geweigerd, als er geen passende huisvesting voor de vreemdeling beschikbaar is. De beoordeling vindt in eerste instantie plaats op grond van de bij de aanvraag verstrekte informatie. Zo nodig zal de aanvrager de gemeente om een oordeel over de huisvesting dienen te verzoeken. Deze beoordeling behelst zowel de beschikbaarheid van de huisvesting, inclusief de rechtmatigheid van het betrekken van de huisvesting, alsook een kwalificatie van de geschiktheid van de huisvesting, zoals veiligheid en hygiëne, gedurende de periode van tewerkstelling. Ook het UWV kan de gemeente om dit oordeel verzoeken.
 
-### 9.1.h. Weigering van een tewerkstellingsvergunning of een gecombineerde vergunning vanwege het ontbreken van economische activiteiten
+### 9.1.g. Weigering van een tewerkstellingsvergunning of een gecombineerde vergunning vanwege het niet over een periode van ten hoogste een maand betalen van de vreemdeling
 
 Wanneer het gaat om werkzaamheden of een werkgever die vanwege de aard van de werkzaamheden (bijvoorbeeld onbezoldigd) of de aard van de werkgever (bijvoorbeeld non profit) niet gericht zijn op economische activiteiten zal deze weigeringsgrond niet worden toegepast.
 
-### 9.1.j. Weigering van de tewerkstellingsvergunning of een gecombineerde vergunning vanwege afwijzing, schorsing of intrekking van de erkenning als referent van de werkgever
+### 9.1.i
 
-Referenten worden na inwilliging van hun aanvraag om erkenning als referent opgenomen in het openbare register van de IND. Bij schorsing of intrekking van de erkenning worden zij uit het openbare register verwijderd. Indien de IND op basis van [artikel 2e, onderdeel c, van de Vw 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=2e) de erkenning als referent afwijst, zal het UWV in de regel de aangevraagde tewerkstellingsvergunning weigeren dan wel bij een gecombineerde vergunning adviseren deze te weigeren. Het gaat er hier namelijk om dat de IND in dat geval heeft geoordeeld dat de betrouwbaarheid van de aanvrager onvoldoende vaststaat. Bij die beoordeling kunnen strafrechtelijke antecedenten een rol spelen, die relevant worden geacht in het kader van de erkenning. Ook zal het UWV de vergunning in de regel weigeren als de IND op basis van [artikel 2g van de Vw 2000, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=2g), de erkenning van de referent heeft ingetrokken.
+De erkenning als referent kan op grond van [artikel 2f Vw 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=2f) worden geschorst op grond van ernstige vermoedens dat er grond bestaat om de erkenning als referent in te trekken op grond van [artikel 2g Vw 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=2g).
 
 ### 9.1.k. Weigering van de tewerkstellingsvergunning of een gecombineerde vergunning vanwege oplegging van een bestuurlijke boete aan de werkgever met erkenning als referent
 
-Daarnaast wordt de tewerkstellingsvergunning of een gecombineerde vergunning in de regel geweigerd indien de referent is gestraft op grond van [artikel 108 van de Vw 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=108).
+Bij een volgende overtreding, binnen 24 maanden, van de verplichtingen genoemd in [artikel 55a van de Vw 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=55a), is er sprake van recidive en kan de IND een verhoogde boete opleggen. Dat geldt overigens alleen als er sprake is van herhaalde overtreding van dezelfde verplichting. Geconstateerde overtredingen kunnen ook leiden tot verscherpt toezicht op de naleving van de wettelijke voorschriften door de desbetreffende referent.
 
 ### 9.1.l. Weigering tewerkstellingsvergunning of een gecombineerde vergunning na opleggen bestuurlijke boete
 
@@ -1144,7 +1144,7 @@ Als een werkgever is veroordeeld op grond van een van deze artikelen, kan zijn a
 
 ### 9.2. Convenant
 
-Het UWV kan een tewerkstellingsvergunning weigeren of adviseren een gecombineerde vergunning niet te verlenen als niet is voldaan aan bepalingen die zijn opgenomen in een sectoraal convenant als bedoeld in [artikel 9, eerste lid, onderdeel e, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=9).
+Een aanvraag om een tewerkstellingsvergunning of een gecombineerde vergunning kan niet worden afgewezen als de beslissing tot oplegging van de bestuurlijke boete of de strafrechtelijke veroordeling nog niet onherroepelijk is.
 
 Als sectoraal convenant in de zin van [artikel 9, eerste lid, onderdeel e, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=9) wordt slechts in aanmerking genomen een convenant dat voldoet aan de volgende vereisten:
 
@@ -1154,7 +1154,7 @@ Als sectoraal convenant in de zin van [artikel 9, eerste lid, onderdeel e, van d
 
 De mogelijkheid om op grond van [artikel 10, aanhef en onderdelen a, b, d en e, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=10), voorschriften aan de tewerkstellingsvergunning te verbinden wordt uitsluitend toegepast, als de werkgever desgevraagd bereid is gevraagde inspanningen te verrichten en als de werkgever reeds enige inspanningen heeft verricht om prioriteitgenietend aanbod te mobiliseren of de gesignaleerde beletselen te verhelpen. In het kader van de gecombineerde vergunning zal het UWV aan de werkgever vragen of hij bereid is de gevraagde inspanningen te verrichten en als de werkgever reeds enige inspanningen heeft verricht om prioriteitgenietend aanbod te mobiliseren of de gesignaleerde beletselen te verhelpen. In alle andere gevallen wordt de tewerkstellingsvergunning geweigerd op grond van [artikel 8, eerste lid, aanhef en onderdelen a, b, c of d, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8) en wordt bij de gecombineerde vergunning op dezelfde gronden geadviseerd deze niet in te willigen.
 
-Daarnaast kan op grond van [artikel 10, aanhef en onderdeel e van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=10) aan een tewerkstellingsvergunning en een gecombineerde vergunning een voorschrift worden verbonden, dat de werkgever verplicht om aan te tonen dat de werkgever economische activiteiten gaat verrichten in de toekomst, zoals het overleggen van een huurcontract voor een bedrijfsruimte, een afschrift van een horeca- of exploitatievergunning van de gemeente en/of informatie dat de opening/start van de onderneming daadwerkelijk heeft plaatsgevonden zodat de vreemdeling de arbeid kan verrichten waarvoor de vergunning is verleend. Hiermee wordt de mogelijkheid gecreëerd voor (startende) ondernemingen dat, ondanks het voldoende kunnen aantonen van economische activiteiten op een moment na de startfase, de tewerkstellingsvergunning of gecombineerde vergunning wordt verleend onder voorschrift. Van deze mogelijkheid wordt alleen gebruik gemaakt als aannemelijk is gemaakt dat de werkgever in de toekomst economische activiteiten zal gaan verrichten en de werkgever heeft verklaard bereid te zijn de benodigde inspanningen te verrichten. De werkgever is dan gehouden om binnen, een in het individuele geval vast te stellen, redelijke termijn stukken te overleggen die de start van de economische activiteiten onderbouwen.
+Op grond van [artikel 10 van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=10) kunnen aan de tewerkstellingsvergunning en de gecombineerde vergunning voorschriften worden verbonden, die de werkgever verplichten inspanningen te verrichten gericht op het vervullen van de arbeidsplaatsen met prioriteitgenietend aanbod of het wegnemen van gebreken.
 
 ### Artikel 11. [Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149): Duur van de tewerkstellingsvergunning of gecombineerde vergunning
 
@@ -1164,15 +1164,15 @@ Anders dan op grond van [artikel 11, eerste lid, van de Wav](https://wetten.over
 
 ### 11.2. Seizoensarbeid
 
-Bij de aanvraag wordt door de werkgever een geldige arbeidsovereenkomst overgelegd, waarin in ieder geval de volgende gegevens zijn opgenomen:
+Voor vreemdelingen die als seizoensarbeider in de zin van artikel 3, onderdeel b, [Richtlijn 2014/36](32014L0036)/EU van het Europees Parlement en de Raad van 26 februari 2014 betreffende de voorwaarden voor toegang en verblijf van onderdanen van derde landen met het oog op tewerkstelling als seizoensarbeid een tewerkstellingsvergunning of gecombineerde vergunning onder de beperking ‘seizoensarbeid’ aanvragen, gelden, naast de weigeringsgronden uit [artikel 8 van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8), op grond van deze richtlijn een aantal afwijkende toelatingsvoorwaarden en weigeringsgronden.
 
-Bij de aanvraag toont de werkgever ook aan dat er passende huisvesting als bedoeld in paragraaf 9.1.d. voor de vreemdeling beschikbaar is. Wanneer er geen passende huisvesting beschikbaar is voor de vreemdeling, kan de tewerkstellingsvergunning of gecombineerde vergunning op grond van [artikel 9, eerste lid, onderdeel d, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=9) worden geweigerd.
+UWV verleent een tewerkstellingsvergunning voor seizoensarbeid, dan wel een gecombineerde vergunning onder de beperking ‘seizoensarbeid’ voor arbeid in de land- en tuinbouwsector.
 
 ### Artikel 11a. [Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149): Periodieke girale betaling
 
 Bij een verlenging van een gecombineerde vergunning of een hernieuwde aanvraag tewerkstellingsvergunning zal UWV beoordelen of de werkgever het juiste loon tijdig en op de juiste wijze heeft uitbetaald.
 
-### Artikel 12. [Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149): Facultatieve intrekkingsgronden: onjuiste gegevens of wegens geen gebruik
+### 11.a. Periodieke, girale betaling
 
 ### 12.1. Intrekking tewerkstellingsvergunning of gecombineerde vergunning wegens onjuiste gegevens
 
@@ -1182,27 +1182,27 @@ In [artikel 12, eerste lid, onderdeel a, van de Wav](https://wetten.overheid.nl/
 
 Van de werkgever wordt verwacht dat hij de vreemdeling en, indien sprake is van een situatie als bedoeld in [artikel 2, tweede lid van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=2), ook de andere werkgever informeert over zijn besluit niet langer van de tewerkstellingsvergunning of gecombineerde vergunning gebruik te maken.
 
-De tewerkstellingsvergunning of gecombineerde vergunning wordt vervolgens ingetrokken, tenzij de vreemdeling een aaneengesloten verlofperiode van niet langer dan drie maanden geniet, dan wel ziekteverlof, zwangerschapsverlof, bevallingsverlof of ouderschapsverlof heeft en de arbeidsrelatie blijft voortbestaan.
+In [artikel 12, eerste lid, onderdeel c, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=12) is bepaald dat de tewerkstellingsvergunning of gecombineerde vergunning kan worden ingetrokken als er geen gebruik van wordt gemaakt. Teneinde dit te kunnen effectueren zal bij de vergunningverlening de werkgever die de tewerkstellingsvergunning heeft aangevraagd of de houder van de gecombineerde vergunning er steeds op worden gewezen dat hij op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&artikel=4&z=2023-12-09&g=2023-12-09) van deze regeling verplicht is onverwijld ervan mededeling te doen als van de tewerkstellingsvergunning of gecombineerde vergunning langer dan 4 weken geen gebruik wordt gemaakt. Op grond van artikel 4 van deze regeling is de houder van de tewerkstellingsvergunning verplicht onverwijld schriftelijk mededeling te doen als van de tewerkstellingsvergunning langer dan 4 weken geen gebruik wordt gemaakt. Deze verplichting is opgenomen om te zorgen dat tijdig wordt gemeld als er geen gebruik meer wordt gemaakt van de tewerkstellingsvergunning omdat het dienstverband is geëindigd of het werk is beëindigd. Gelet hierop is de werkgever gehouden om, voor zover hij daarvan kennis heeft of kan hebben, te melden als de vreemdeling niet meer bij de werkgever werkzaam is. Zie ook paragraaf 1.3.
 
 ### Artikel 12a. [Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149): Facultatieve intrekkingsgronden: bij ontbreken erkende referentstatus
 
 ### 12a.1. Intrekking tewerkstellingsvergunning of gecombineerde vergunning indien erkenning als referent is afgewezen, geschorst of ingetrokken
 
-[Artikel 2g van de Vw 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=2g) bepaalt dat de erkenning als referent kan worden ingetrokken, indien:
+Op grond van [artikel 2e van de Vw 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=2e) kan een aanvraag tot erkenning als referent worden afgewezen indien:
 
 ### 12a.2. Intrekking tewerkstellingsvergunning of gecombineerde vergunning indien aan (erkende) referent een bestuurlijke boete is opgelegd
 
-In [artikel 108 van de Vw 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=108) worden verschillende strafbepalingen genoemd. De opgelegde straf kan een geldboete zijn of een periode van hechtenis.
+Op grond van [artikel 12a, onderdeel b, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=12a) kan een tewerkstellingsvergunning of gecombineerde vergunning worden ingetrokken indien een werkgever die (erkende) referent is binnen een periode van vijf jaar voorafgaande aan de aanvraag van een tewerkstellingsvergunning of gecombineerde vergunning een bestuurlijke boete opgelegd heeft gekregen op grond van [artikel 55a van de Vw 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=55a) of is gestraft op grond van [artikel 108 van de Vw 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=108).
 
-Het UWV zal de tewerkstellingsvergunning in ieder geval niet intrekken, dan wel bij een gecombineerde vergunning niet negatief adviseren, op grond van [artikel 12a, onderdeel b, Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=12a) indien de beslissing tot oplegging van de bestuurlijke boete of oplegging van een straf op grond van [artikel 108 van de Vw 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=108) niet onherroepelijk is.
+[Artikel 55a van de Vw 2000, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=55a), bepaalt dat bij een overtreding van de verplichtingen bij of krachtens [artikel 2a, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=2a) (de zorgplicht jegens de vreemdeling), [2t, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=2t) (eigen verklaringen worden volledig en naar waarheid opgesteld en alle relevante gegevens en bescheiden worden verstrekt), [24a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=24a) (eigen verklaringen worden volledig en naar waarheid opgesteld en alle relevante gegevens en bescheiden worden verstrekt), [54, eerste lid, onderdelen a tot en met e en g, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=54) (verschillende toezichtmaatregelen) een bestuurlijke boete kan worden opgelegd. Deze boete is maximaal € 3.000 voor ondernemingen, rechtspersonen en andere organisaties en € 1.500 voor natuurlijke personen.
 
 ### Artikel 12b. [Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149): Facultatieve intrekkingsgronden bij overtreding arbeidswetten
 
 ### 12b. Intrekking tewerkstellingsvergunning of gecombineerde vergunning na opleggen bestuurlijke boete of strafrechtelijke veroordeling naar aanleiding van overtreding arbeidswetten
 
-Eveneens kan op grond van [artikel 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=12b) de tewerkstellingsvergunning of gecombineerde vergunning worden ingetrokken als de werkgever binnen een periode van vijf jaar voorafgaand aan de intrekking voor een tewerkstellingsvergunning of gecombineerde vergunning strafrechtelijk is veroordeeld op grond van:
+Voor ernstige overtredingen wordt verwezen naar wat daarover in de betreffende besluiten staat:
 
-Als een werkgever is veroordeeld op grond van een van deze artikelen, kan zijn aanvraag om een tewerkstellingsvergunning of gecombineerde vergunning worden afgewezen. Daarbij wordt afgewogen of sprake is van recidive. Deze intrekkingsgronden kunnen ook toegepast worden als de tewerkstellingsvergunning of gecombineerde vergunning is verleend aan een bedrijf waarvan (een van) de bestuurder(s) eerder een bestuurlijke boete in het kader van deze wetten is opgelegd of hiervoor strafrechtelijk is veroordeeld. Een tewerkstellingsvergunning of gecombineerde vergunning kan niet worden ingetrokken als de beslissing tot oplegging van de bestuurlijke boete of de strafrechtelijke veroordeling nog niet onherroepelijk is.
+Indien de bevoegde instantie heeft geconstateerd dat zich een ernstige overtreding heeft voorgedaan zoals bedoeld in een van deze wetten en de beslissing daarover onherroepelijk is geworden, kan de tewerkstellingsvergunning worden ingetrokken, dan wel wordt geadviseerd de gecombineerde vergunning in te trekken.
 
 ### Artikel 13. [Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149): Overige intrekkingsgronden
 
@@ -1212,7 +1212,7 @@ Op grond van [artikel 13, aanhef, en onderdeel a, van de Wav](https://wetten.ove
 
 ### Artikel 24. [Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149): Standstill-bepaling
 
-De [Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149) kende tot 2014 bijvoorbeeld in [artikel 4, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=4), een bepaling die aangaf dat de vreemdeling die gedurende een ononderbroken tijdvak van drie jaar heeft beschikt over een voor het verrichten van arbeid geldige verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 14 van de Wv en die nadien zijn hoofdverblijf niet buiten Nederland heeft gevestigd vrij is op de arbeidsmarkt. De verlenging van deze periode in 2014 naar vijf jaar, is in strijd met de standstill-bepaling als genoemd in artikel 13 van het besluit. Ook het vereiste dat een tewerkstellingsvergunning is vereist ten aanzien van Turkse zelfstandigen in de vrije termijn is in strijd met de standstill-bepaling in artikel 41 van het protocol.
+Zo trekt UWV, wanneer de houder van een tewerkstellingsvergunning of gecombineerde vergunning voor seizoensarbeid andere arbeid verricht dan als seizoensarbeider (zonder dat hier een tewerkstellingsvergunning voor is afgegeven), de tewerkstellingsvergunning in, of adviseert UWV de gecombineerde vergunning in te trekken.
 
 ## Bijlage II. Overzicht van overeenkomsten met andere mogendheden dan wel bij een voor Nederland verbindend besluiten van een volkenrechtelijke organisatie waarin is vastgelegd dat er geen tewerkstellingsvergunning of een gecombineerde vergunning van een vreemdeling mag worden verlangd
 
@@ -1328,11 +1328,11 @@ De [Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149) kende tot 2014 bijvoor
 
 ### Mededeling als bedoeld in [paragraaf 8.3.b.10](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&bijlage=I&z=2023-10-05&g=2023-10-05).
 
-### Vrijhandelsakkoorden
+### World Trade Organization (WTO)
 
-Verdragen die voorlopig inwerking zijn getreden en waarin afspraken over toegang tot de arbeidsmarkt zijn gemaakt:
+Op de onderdanen van deze landen zijn de paragrafen 8.3.b.12. en 8.3.b.13. van toepassing.
 
-Op de onderdanen van deze landen zijn de [paragrafen 8.3.b.11., 8.3.b.12. en 8.3.b.13](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&bijlage=I&z=2023-10-05&g=2023-10-05) van toepassing.
+Op de onderdanen van deze landen is alleen de paragraaf 8.3.b.12. van toepassing.
 
 Deze regeling zal met de toelichting en de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&bijlage=I&z=2023-10-05&g=2023-10-05) in de Staatscourant worden geplaatst.
 
@@ -1436,7 +1436,7 @@ Op grond van [artikel 8, derde lid, onderdeel c, van de Wav](https://wetten.over
 
 ### 8.3.c.1. Docenten in het internationaal onderwijs
 
-### 8.3.c.2. Stagiairs HBO en universitair
+### 8.3.c.1. Docenten in het internationaal onderwijs
 
 ### 8.3.c.3. Stagiairs MBO
 
@@ -1446,9 +1446,9 @@ Op grond van [artikel 8, derde lid, onderdeel c, van de Wav](https://wetten.over
 
 ### 8.3.c.6. Praktikanten
 
-### 8.3.c.7. Arbeid van bijkomende aard door studenten
+### 8.3.c.6. Praktikanten
 
-### 8.3.c.8. Werknemers in de sportsector
+### 8.3.c.7. Arbeid van bijkomende aard door studenten
 
 ### 8.3.c.9. Beroepsvoetballers
 
@@ -1456,7 +1456,7 @@ Op grond van [artikel 8, derde lid, onderdeel c, van de Wav](https://wetten.over
 
 ### 8.3.c.11. Conservatoren en restauratoren in dienst van werkgevers, lid van de Museumvereniging
 
-Bij verblijf voor langer dan drie maanden moeten conservatoren en restauratoren in het bezit zijn van een gecombineerde vergunning. De leden van de Museumvereniging hebben met regelmaat internationale expertise op het terrein van conservatoren en restauratoren nodig. Bij het vaststellen van zijn advies aan de IND met betrekking tot aanvragen voor een gecombineerde vergunning voor conservatoren en restauratoren van werkgevers die lid zijn van de Museumvereniging, toetst UWV, in afwijking van [artikel 8, eerste lid, onderdelen a, b, en c, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8), niet op de aanwezigheid van prioriteitgenietend aanbod en de verplichte vacaturemelding bij UWV. Conservatoren en restauratoren die werkzaamheden komen verrichten bij musea die aangesloten zijn bij de Museumvereniging voor korter dan zes aaneengesloten weken in een periode van 13 weken, kunnen ook gebruik maken van de vrijstelling zoals beschreven in [artikel 4.3., eerste lid, onderdeel b, van het BuWav 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&artikel=4.3), omdat dan ook sprake is van incidentele arbeid.
+De in deze tabel vermelde salarissen zijn gebaseerd op de CAO Nederlandse orkesten, de CAO Theater en dans en ontleend aan de arbeidsvoorwaardenregeling analoog aan de sector Rijk en sector Onderwijs.
 
 ### Artikel 9. [Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149): facultatieve weigeringsgronden
 
@@ -1480,9 +1480,9 @@ Op grond van [artikel 9, eerste lid, onderdeel d, van de Wav](https://wetten.ove
 
 ### 9.1.e. Sectorale convenanten
 
-### 9.1.f. Belemmeringen voor vacaturevervulling
+### 9.1.e. Sectorale convenanten
 
-Op grond van [artikel 9, eerste lid, onderdeel f, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=9) kan een tewerkstellingsvergunning of een gecombineerde vergunning worden geweigerd als de werkgever belemmeringen opwerpt waardoor de arbeidsplaats niet met prioriteitgenietend aanbod kan worden vervuld. Gedacht kan worden aan irreële functie- of taaleisen. Het beheersen van een andere taal dan het Nederlands als voorwaarde voor vacaturevervulling kan beschouwd worden als een beletsel in de zin van artikel 9, eerste lid, onderdeel f, van de Wav.
+Het UWV kan een tewerkstellingsvergunning weigeren of adviseren een gecombineerde vergunning niet te verlenen als niet is voldaan aan bepalingen die zijn opgenomen in een sectoraal convenant als bedoeld in [artikel 9, eerste lid, onderdeel e, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=9).
 
 ### 9.1.g. Weigering van een tewerkstellingsvergunning of een gecombineerde vergunning vanwege het niet over een periode van ten hoogste een maand betalen van de vreemdeling
 
@@ -1492,7 +1492,7 @@ Een aanvraag tot het verlenen van een tewerkstellingsvergunning of een gecombine
 
 ### 9.1.i
 
-(Wordt nader ingevuld)
+Wanneer het gaat om werkzaamheden of een werkgever die vanwege de aard van de werkzaamheden (bijvoorbeeld onbezoldigd) of de aard van de werkgever (bijvoorbeeld non profit) niet gericht zijn op economische activiteiten zal deze weigeringsgrond niet worden toegepast.
 
 ### 9.1.j. Weigering van de tewerkstellingsvergunning of een gecombineerde vergunning vanwege afwijzing, schorsing of intrekking van de erkenning als referent van de werkgever
 
@@ -1504,20 +1504,172 @@ Een aanvraag tot het verlenen van een tewerkstellingsvergunning of een gecombine
 
 ### 9.2. Convenant
 
-### 11.2. Seizoensarbeid
+### 11.1. Tijdelijk werk
 
-Bij een verlenging van een gecombineerde vergunning of een hernieuwde aanvraag tewerkstellingsvergunning zal UWV beoordelen of de werkgever het juiste loon tijdig en op de juiste wijze heeft uitbetaald.
+Bij de aanvraag toont de werkgever ook aan dat er passende huisvesting als bedoeld in paragraaf 9.1.d. voor de vreemdeling beschikbaar is. Wanneer er geen passende huisvesting beschikbaar is voor de vreemdeling, kan de tewerkstellingsvergunning of gecombineerde vergunning op grond van [artikel 9, eerste lid, onderdeel d, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=9) worden geweigerd.
 
-### 12.2. Intrekking tewerkstellingsvergunning of gecombineerde vergunning omdat er geen gebruik van wordt gemaakt
+### 12.1. Intrekking tewerkstellingsvergunning of gecombineerde vergunning wegens onjuiste gegevens
 
 ### 12a.2. Intrekking tewerkstellingsvergunning of gecombineerde vergunning indien aan (erkende) referent een bestuurlijke boete is opgelegd
 
-### Artikel 24. [Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149): Standstill-bepaling
+### 13. Intrekking van de tewerkstellingsvergunning of gecombineerde vergunning voor seizoensarbeid
 
-De [Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149) kende tot 2014 bijvoorbeeld in [artikel 4, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=4), een bepaling die aangaf dat de vreemdeling die gedurende een ononderbroken tijdvak van drie jaar heeft beschikt over een voor het verrichten van arbeid geldige verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 14 van de Wv en die nadien zijn hoofdverblijf niet buiten Nederland heeft gevestigd vrij is op de arbeidsmarkt. De verlenging van deze periode in 2014 naar vijf jaar, is in strijd met de standstill-bepaling als genoemd in artikel 13 van het besluit. Ook het vereiste dat een tewerkstellingsvergunning is vereist ten aanzien van Turkse zelfstandigen in de vrije termijn is in strijd met de standstill-bepaling in artikel 41 van het protocol.
+Op grond van [artikel 13, aanhef, en onderdeel a, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=13) kan een tewerkstellingsvergunning of gecombineerde vergunning worden ingetrokken wanneer de beperking waaronder de vergunning is verleend, niet in acht wordt genomen.
 
 Voor de landen die lid zijn van de WTO gelden de regelingen zoals beschreven in de [paragrafen 8.3.b.11. en 8.3.b.12](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&bijlage=I&z=2023-03-22&g=2022-09-26). Zie [www.wto.org](onbekend) voor welke landen zijn aangesloten bij de WTO.
 
-### Vrijhandelsakkoorden
+### Mededeling als bedoeld in [paragraaf 8.3.b.10](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&bijlage=I&z=2023-12-09&g=2023-12-09).
 
 Deze regeling zal met de toelichting en de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&bijlage=I&z=2023-03-22&g=2022-09-26) in de Staatscourant worden geplaatst.
+
+### 8.3.c.2. Stagiairs HBO en universitair
+
+### 8.3.c.3. Stagiairs MBO
+
+### 8.3.c.5. Stagiairs in het kader van internationale uitwisselingsprogramma’s tussen MBO-instellingen
+
+### 8.3.c.8. Werknemers in de sportsector
+
+### 8.3.c.9. Beroepsvoetballers
+
+### 8.3.c.10. Musici en artiesten
+
+### 9.1.j. Weigering van de tewerkstellingsvergunning of een gecombineerde vergunning vanwege afwijzing, schorsing of intrekking van de erkenning als referent van de werkgever
+
+### 9.1.k. Weigering van de tewerkstellingsvergunning of een gecombineerde vergunning vanwege oplegging van een bestuurlijke boete aan de werkgever met erkenning als referent
+
+### Artikel 10. [Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=10): Voorschriften
+
+### 11.2. Seizoensarbeid
+
+### Artikel 12a. [Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149): Facultatieve intrekkingsgronden: bij ontbreken erkende referentstatus
+
+### 12a.1. Intrekking tewerkstellingsvergunning of gecombineerde vergunning indien erkenning als referent is afgewezen, geschorst of ingetrokken
+
+### 12a.2. Intrekking tewerkstellingsvergunning of gecombineerde vergunning indien aan (erkende) referent een bestuurlijke boete is opgelegd
+
+### Artikel 12b. [Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149): Facultatieve intrekkingsgronden bij overtreding arbeidswetten
+
+### 12b. Intrekking tewerkstellingsvergunning of gecombineerde vergunning na opleggen bestuurlijke boete of strafrechtelijke veroordeling naar aanleiding van overtreding arbeidswetten
+
+De [Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149) kende tot 2014 bijvoorbeeld in [artikel 4, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=4), een bepaling die aangaf dat de vreemdeling die gedurende een ononderbroken tijdvak van drie jaar heeft beschikt over een voor het verrichten van arbeid geldige verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 14 van de Wv en die nadien zijn hoofdverblijf niet buiten Nederland heeft gevestigd vrij is op de arbeidsmarkt. De verlenging van deze periode in 2014 naar vijf jaar, is in strijd met de standstill-bepaling als genoemd in artikel 13 van het besluit. Ook het vereiste dat een tewerkstellingsvergunning is vereist ten aanzien van Turkse zelfstandigen in de vrije termijn is in strijd met de standstill-bepaling in artikel 41 van het protocol.
+
+## Bijlage II. Overzicht van overeenkomsten met andere mogendheden dan wel bij een voor Nederland verbindend besluiten van een volkenrechtelijke organisatie waarin is vastgelegd dat er geen tewerkstellingsvergunning of een gecombineerde vergunning van een vreemdeling mag worden verlangd
+
+- 1. Onderdanen van een lidstaat van de Europese Economische Gemeenschap dan wel gezinsleden van dergelijke onderdanen waarop artikel 23 van [Richtlijn 2004/38/EG](32004L0038) van het Europees Parlement en de Raad van 29 april 2004 betreffende het recht van vrij verkeer en verblijf op het grondgebied van de lidstaten voor de burgers van de Unie en hun familieleden, tot wijziging van Verordening (EEG) nr. 1612/68 en tot intrekking van de [Richtlijnen 64/221/EEG](31964L0221), [68/360/EEG](31968L0360), [72/194/EEG](31972L0194), [73/148](31973L0148) EEG, [75/34](31975L0034) EEG, [75/35](31975L0035) EEG, [90/364](31990L0364) EEG, [90/365/EEG](31990L0365) en [93/96](31993L0096) EEG (PB 2004 L158) van toepassing is;
+
+- 2. Onderdanen van een Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte (Trb. 1992, 132 en Trb. 1993, 69 en 156) waarop artikel 7 dan wel gezinsleden van dergelijke onderdanen waarop artikel 23 van [Richtlijn 2004/38/EG](32004L0038) van het Europees Parlement en de Raad van 29 april 2004 betreffende het recht van vrij verkeer en verblijf op het grondgebied van de lidstaten voor de burgers van de Unie en hun familieleden, tot wijziging van Verordening (EEG) nr. 1612/68 en tot intrekking van de [Richtlijnen 64/221/EEG](31964L0221), [68/360/EEG](31968L0360), [72/194/EEG](31972L0194), [73/148](31973L0148) EEG, [75/34](31975L0034) EEG, [75/35](31975L0035) EEG, [90/364](31990L0364) EEG, [90/365/EEG](31990L0365) en [93/96](31993L0096) EEG (PB 2004 L158) van toepassing is;
+
+- 3. Burgers van het Verenigd Koninkrijk en hun familieleden op wie deel twee van het Akkoord inzake de terugtrekking van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland uit de Europese Unie en de Europese Gemeenschap voor Atoomenergie (2019/C 66 I/01) van toepassing is;
+
+- 4. Personeelsleden van het Europees Ruimte-Agentschap voor de werkzaamheden in dienst van ESTEC; artikel XV, tweede lid, van het Verdrag tot oprichting van een Europees Ruimte-Agentschap (Trb. 1975, 123);
+
+- 5. Personeelsleden van het Europees Octrooibureau; artikel 7 van de Overeenkomst tussen het Koninkrijk der Nederlanden en de Europese Octrooi-organisatie betreffende het onderdeel van het Europees Octrooibureau in ’s-Gravenhage (Trb. 1978,16);
+
+- 6. Stafleden van het Technisch Centrum voor landbouwsamenwerking en plattelandsontwikkeling CTA; artikel 13 van de Overeenkomst tussen het Koninkrijk der Nederlanden en het Technisch Centrum voor landbouwsamenwerking en plattelandsontwikkeling (Trb. 1984, 99);
+
+- 7. Personeelsleden van het UNU Maastricht Economic and Social Research Institute on Innovation and Technology (UNU-MERIT); artikel XV van de Overeenkomst tussen het Koninkrijk der Nederlanden en de Universiteit van de Verenigde Naties inzake het Instituut voor nieuwe technologieën van de Universiteit van de Verenigde Naties (Trb. 1989, 74); alsmede de gezinsleden die deel uitmaken van het huishouden van functionarissen van het Instituut; artikel X.1 van de Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en de Universiteit van de Verenigde Naties inzake de toevoeging van een artikel aan de Overeenkomst tussen het Koninkrijk der Nederlanden en de Universiteit van de Verenigde Naties inzake het Instituut voor nieuwe technologieën van de Universiteit van de Verenigde Naties, met betrekking tot de mogelijkheid voor gezinsleden van functionarissen van het Instituut voor nieuwe technologieën van de Universiteit van de Verenigde Naties om in Nederland betaald werk te verrichten (Trb. 2002, 46);
+
+- 8. Een vreemdeling, zoals bedoeld in artikel 2, onderdeel b, van de [Richtlijn (EG) 2003/109](32003L0109)(PB L 16 van 23.1.2004), betreffende de status van langdurig ingezeten onderdanen van derde landen, die gedurende ten minste één jaar legaal in Nederland verblijf heeft gehad;
+
+- 9. Stafleden van de African Management Services Company (AMSCO); artikel 11 van het Verdrag tussen het Koninkrijk der Nederlanden en de Internationale Financieringsmaatschappij (IFC) inzake het ‘African Training and Management Services (ATMS) Project’ van het Ontwikkelingsprogramma van de Verenigde Naties (Trb. 1989, 61), alsmede de gezinsleden die deel uitmaken van het huishouden (Trb. 2007, 214);
+
+- 10. Personeelsleden van de Benelux-Organisatie voor de Intellectuele Eigendom (merken en tekeningen of modellen) (BOIE) alsmede de inwonende gezinsleden; artikel 8 en artikel 9 van de Zetelovereenkomst voor de Benelux-Organisatie voor de Intellectuele Eigendom (merken en tekeningen of modellen) (Trb. 2007, 202);
+
+- 11. Stafleden van het Gemeenschappelijk Fonds voor Grondstoffen; artikel 17 van de Zetelovereenkomst tussen het Koninkrijk der Nederlanden en het Gemeenschappelijk Fonds voor Grondstoffen (Trb. 1992, 8) (CFC), alsmede de inwonende gezinsleden; artikel 19A van de Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en het Gemeenschappelijk Fonds voor Grondstoffen inzake de invoeging van artikel 19 A in de Zetelovereenkomst tussen het Koninkrijk der Nederlanden en het Gemeenschappelijk Fonds voor Grondstoffen, met betrekking tot de mogelijkheid voor gezinsleden van functionarissen van het Fonds om in Nederland betaald werk te verrichten (Trb. 2002, 35);
+
+- 12. Stafleden van het Technisch Centrum voor landbouwsamenwerking en plattelandsontwikkeling (CTA); artikel 13 van de Overeenkomst tussen het Koninkrijk der Nederlanden en het Technisch Centrum voor landbouwsamenwerking en plattelandsontwikkeling (Trb. 1984, 99), alsmede de inwonende gezinsleden; Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en het Technisch Centrum voor Landbouwsamenwerking en Plattelandsontwikkeling inzake de tewerkstelling van gezinsleden die deel uitmaken van het huishouden van de functionarissen van het Technisch Centrum voor Landbouwsamenwerking en Plattelandsontwikkeling (Trb. 2007, 132);
+
+- 13. Personeelsleden van het Europees Octrooi Bureau (EOB) alsmede de inwonende gezinsleden; artikel 7 van de Overeenkomst tussen het Koninkrijk der Nederlanden en de Europese Octrooiorganisatie betreffende het onderdeel van het Europees Octrooibureau in ’s-Gravenhage (Trb. 2006, 155);
+
+- 14. Gezinsleden van stafleden van Europees Ruimte Agentschap (ESA-ESTEC), bepaald in artikel 18 van het Verdrag tussen het Koninkrijk der Nederlanden en het Europees Ruimte Agentschap inzake het Europees Centrum voor onderzoek en technologie-ontwikkeling op ruimtevaartgebied (Trb. 1999, 41);
+
+- 15. Gezinsleden die deel uitmaken van het huishouden van de functionarissen van EUROCONTROL; Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en de Europese Organisatie voor de veiligheid van de luchtvaart inzake de toevoeging van een artikel aan de Overeenkomst tussen het Koninkrijk der Nederlanden en de Europese Organisatie voor de veiligheid van de luchtvaart ‘EUROCONTROL’ inzake de vestiging van ‘EUROCONTROL’ te Beek (Limburg) van 10/31 oktober 1975, met betrekking tot de mogelijkheid van gezinsleden van functionarissen van de Europese Organisatie voor de veiligheid van de luchtvaart om in Nederland betaald werk te verrichten (Trb. 2002, 144);
+
+- 16. Gezinsleden die deel uitmaken van het huishouden van bepaalde functionarissen van EUROJUST; artikel 17 van het Verdrag tussen het Koninkrijk der Nederlanden en Eurojust (Trb. 2006, 68);
+
+- 17. Gezinsleden die deel uitmaken van het huishouden van de EuropOL-functionarissen genoemd in artikel XVII van het Verdrag tussen het Koninkrijk der Nederlanden en de Europese Politiedienst (Europol) betreffende de zetel van Europol (Trb. 1998, 241) art. XII, alsmede gezinsleden die deel uitmaken van het huishouden van EuropOL-verbindingsofficieren die niet de nationaliteit van een EU-zendstaat hebben. Het betreft de gezinsleden van de officieren uit de volgende landen: België (Trb. 1999,49); Bulgarije (Trb. 2004, 199); Cyprus (Trb. 2004, 136); Denemarken (Trb. 1999, 25); Duitsland (Trb. 1999, 57); Estland (Trb. 2002, 212); (Trb. 1999, 26); Frankrijk (Trb. 1999, 63); Griekenland (Trb. 1999, 64); Hongarije (Trb. 2002, 77); Ierland (Trb. 1999, 42); Italië (Trb. 1999, 67); Letland (Trb. 2004, 301); Litouwen (Trb. 2004, 165); Luxemburg (Trb. 1999, 82); Malta (Trb. 2004, 312); Noorwegen (Trb. 2002, 40); Oekraïne (Trb. 2021, 121), Oostenrijk (Trb. 1999, 73); Polen (Trb. 2004, 311); Portugal (Trb. 1999, 96); Roemenië (Trb. 2006, 63); Slovenië (Trb. 2004, 53); Spanje (Trb. 1999, 32); Tsjechië (Trb. 2004, 45); Verenigd Koninkrijk (Trb. 1999, 65); Zweden (Trb. 1999, 40) en Zwitserland (Trb. 2006, 115);
+
+- 18. Gezinsleden die deel uitmaken van het huishouden van functionarissen van de Hoge Commissaris inzake Nationale Minderheden (HCNM); artikel 13 van het Besluit van 18 november 2002, houdende vaststelling van het tijdstip van inwerkingtreding van de Wet HCNM (Stb 2002, 581);
+
+- 19. Gezinsleden die deel uitmaken van het huishouden van functionarissen van het Internationaal Joegoslavië Tribunaal (ICTY); Notawisseling tussen de regering van het Koninkrijk der Nederlanden en het Internationaal Joegoslavië Tribunaal (ICTY) houdende een verdrag inzake de toevoeging van artikel XV bis aan het verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Naties betreffende de zetel van het ICTY, met betrekking tot de mogelijkheid voor gezinsleden van functionarissen van het Tribunaal om in Nederland betaald werk te verrichten; ’s-Gravenhage, 20 juli 2001 (Trb. 2001, 148);
+
+- 20. Gezinsleden die deel uitmaken van het huishouden van functionarissen van het Internationale Gerechtshof (IGH); Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en het Internationale Gerechtshof inzake de aanvulling van de notawisseling nopens de voorrechten en immuniteiten van het Internationale Gerechtshof, met betrekking tot de mogelijkheid voor gezinsleden van functionarissen van het Internationale Gerechtshof om in Nederland betaald werk te verrichten (Trb. 2002, 51);
+
+- 21. Gezinsleden van de Internationale Organisatie voor Migratie (IOM); artikel 14 van de Overeenkomst tussen het Koninkrijk der Nederlanden en de Internationale Organisatie voor Migratie betreffende de juridische status, de voorrechten en immuniteiten van de Organisatie in Nederland (Trb. 2012, 73);
+
+- 22. Gezinsleden van functionarissen van het Iran-United States Claim Tribunal; Briefwisseling tussen de regering van het Koninkrijk der Nederlanden en de President van het ‘Iran-United States Claims Tribunal’ inzake het toekennen van voorrechten en immuniteiten aan het Tribunaal (Trb. 2004, 158);
+
+- 23. Burgerpersoneel van het Regionale Hoofdkwartier Allied Forces North (JFC HQ) zoals bedoeld in artikel 3 van het Protocol bij het op 19 juni 1951 te Londen gesloten Verdrag tussen de Staten die partij zijn bij het Noord-Atlantisch Verdrag – nopens de rechtspositie van internationale militaire hoofdkwartieren, ingesteld uit hoofde van het Noord – Atlantisch Verdrag (Trb. 1953, 111); artikel 9 van de Overeenkomst tussen het Koninkrijk der Nederlanden en het Algemeen Hoofdkwartier van de Geallieerde Mogendheden in Europa inzake de bijzondere voorwaarden die toepasselijk zijn op de vestiging en het functioneren van internationale militaire hoofdkwartieren binnen het Europese grondgebied van het Koninkrijk der Nederlanden (Trb. 1969, 165);
+
+- 24. Gezinsleden van personeelsleden van de NATO Consultation, Command and Control Agency (NC3A); artikel 9 van de Briefwisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en de Noord-Atlantische Verdragsorganisatie betreffende de voorrechten en immuniteiten van de NATO Communications & Information Agency (NCIA) (Trb. 2004, 5);
+
+- 25. Gezinsleden die deel uitmaken van het huishouden van functionarissen van het NATO Airborne Early Warning and Control Programme Management Agency (NAPMA); artikel 1 van de Briefwisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en de Noord Atlantische Verdragsorganisatie inzake de mogelijkheid voor gezinsleden van functionarissen van het NATO Airborne Early Warning and Control Programme Management Agency (NAPMA) om in Nederland betaald werk te verrichten (Trb. 2007, 124);
+
+- 26. Gezinsleden die deel uitmaken van het huishouden van functionarissen van het Headquarters Allied Joint Force Command Brunssum (JFC HQ Brunssum) en Headquarters Joint Logistics Support Group Brunssum (JLSGBS HQ); artikel 1 van de Briefwisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en het Supreme Headquarters Allied Powers Europe (SHAPE) inzake de mogelijkheid voor gezinsleden van functionarissen van het Headquarters Allied Joint Force Command Brunssum (JFC HQ Brunssum) om in Nederland betaald werk te verrichten (Trb. 2023, 6);
+
+- 27. Echtgenoten en ten laste komende leden van de huishoudens van functionarissen van de Organisatie voor het Verbod van Chemische Wapens (OVCW); artikel 23 van het Verdrag tussen het Koninkrijk der Nederlanden en de Organisatie voor het Verbod van Chemische Wapens (OVCW) (Trb. 1997, 114);
+
+- 28. Gezinsleden van functionarissen van het Permanente Hof van Arbitrage (PHA) opgenoemd in artikel 13 van het Verdrag inzake de zetel van het Permanente Hof van Arbitrage (Trb. 1999, 68);
+
+- 29. Gezinsleden die deel uitmaken van het huishouden van functionarissen van de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur; artikel 11 van het Verdrag tussen het Koninkrijk der Nederlanden en de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur inzake de zetel van het UNESCO-IHE instituut voor wateropleiding (Trb. 2003, 49);
+
+- 30. Afhankelijke gezinsleden van diplomaten, consulaire ambtenaren en van het administratieve, technische en dienstverlenende personeel dat werkzaam is bij diplomatieke, consulaire en permanente vertegenwoordigingen van de volgende staten:
+
+- –. Argentinië (Trb. 1996, 250)
+
+- –. Australië (Trb. 1997, 309)
+
+- –. Brazilië (Trb. 1996, 236
+
+- –. Canada (Trb. 1991, 86)
+
+- –. Chili (Trb. 1995, 297)
+
+- –. El Salvador (Trb. 2016, 157)
+
+- –. Hongarije (Trb. 1995, 131)
+
+- –. Kroatië (Trb. 2005, 246)
+
+- –. Peru (Trb. 2005, 283)
+
+- –. Tsjechië (Trb. 1996, 232)
+
+- –. Venezuela (Trb. 1995, 95)
+
+- –. Verenigde Staten (Trb. 1986, 145, gewijzigd Trb. 2013, 116)
+
+- –. Vietnam (Trb. 2019, 119)
+
+- –. Zwitserland (Trb. 1958, 110)
+
+- 31. Stafleden van de diplomatieke vertegenwoordiging als bepaald in artikel 7 van het Verdrag van Wenen inzake het diplomatiek verkeer (Trb. 1962, 101);
+
+- 32. Consulaire stafleden als bepaald in artikel 19 van het Verdrag inzake consulaire betrekkingen (Trb. 1965, 40);
+
+- 33. Zwitserse onderdanen en hun gezinsleden. Artikel 4 en artikel 7 aanhef en onderdeel e van de Overeenkomst tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Zwitserse bondstaat anderzijds, over het vrije verkeer van personen (Pb. 2002, L 114);
+
+- 34. Vertegenwoordigers van organisaties van raadslieden van juridische verenigingen, media en vertegenwoordigers van non-gouvernementele organisaties die voor werkzaamheden verbonden aan het Internationaal Strafhof in Nederland verblijven (Trb. 2007, 125);
+
+- 35. Gezinsleden die deel uitmaken van het huishouden van functionarissen van het Internationaal Strafhof Zetelverdrag tussen het Internationaal Strafhof en het Gastland, ’s-Gravenhage (Trb. 2007, 125), 07-06-2007;
+
+- 36. Gezinsleden die deel uitmaken van het huishouden van een rechter, (adjunct) openbaar aanklager, griffier, hoofd van het kantoor van de verdediging of stafpersoneel van het Speciaal Tribunaal voor Libanon tussen het Koninkrijk der Nederlanden en de Verenigde Naties betreffende de Zetel van het Speciaal Tribunaal voor Libanon, New York (Trb. 2007, 228).Afhankelijke gezinsleden van diplomaten, consulaire ambtenaren en van het administratieve, technische en dienstverlenende personeel dat werkzaam is bij diplomatieke, consulaire en permanente vertegenwoordigingen van de volgende staten;
+
+- 37. Gezinsleden die deel uitmaken van het huishouden van ‘an official of the Office’ van het United Nations Office for the Coordination of Humanitarian Affairs in Den Haag (Trb. 2020, 19);
+
+- 38. Gezinsleden die deel uitmaken van het huishouden van staff members (functionarissen) het Europees Geneesmiddelenbureau (Trb. 2019, 106);
+
+- 39. Gezinsleden die deel uitmaken van het huishouden van ‘an official’ van het Centre for Artificial Intelligence and Robotics in ’s-Gravenhage van het United Nations Interregional Crime and Justice Research Institute (Trb. 2017,17);
+
+- 40. Gezinsleden die deel uitmaken van het huishouden van functionarissen van het Internationaal Restmechanisme voor straftribunalen (Trb. 2015, 59).
+
+## Bijlage III. Lijst van landen waarmee een vrijhandelsakkoord is afgesloten
+
+### Vrijhandelsakkoorden
+
+Verdragen die voorlopig inwerking zijn getreden en waarin afspraken over toegang tot de arbeidsmarkt zijn gemaakt:
+
+Op de onderdanen van deze landen zijn de [paragrafen 8.3.b.11., 8.3.b.12. en 8.3.b.13](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&bijlage=I&z=2023-12-09&g=2023-12-09) van toepassing.
+
+Deze regeling zal met de toelichting en de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&bijlage=I&z=2023-12-09&g=2023-12-09) in de Staatscourant worden geplaatst.
