@@ -4,7 +4,7 @@ identifier: "BWBR0045758"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-02-28"
-last_updated: "2022-09-09"
+last_updated: "2023-12-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045758"
 soort: "ministeriele-regeling"
@@ -126,7 +126,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 9. Vaststelling van de uitkering
 
-1. De minister besluit binnen 37 weken na ontvangst van de laatste verantwoordingsinformatie, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045758&artikel=8&z=2022-09-09&g=2022-09-09), over de vaststelling van de uitkering op grond van werkelijk gemaakte kosten.
+1. De minister besluit binnen 37 weken na ontvangst van de laatste verantwoordingsinformatie, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045758&artikel=8&z=2023-12-09&g=2023-12-09), over de vaststelling van de uitkering op grond van werkelijk gemaakte kosten.
 
 2. Indien de activiteiten waarvoor de uitkering is verleend zijn verricht en daarnaast volledig is voldaan aan de voorwaarden en verplichtingen die verbonden zijn aan de uitkering, wordt de uitkering vastgesteld tot ten hoogste het in de verleningsbeschikking genoemde bedrag.
 
@@ -136,7 +136,7 @@ De minister kan één of meer bepalingen van deze regeling buiten toepassing lat
 
 ##### Artikel 11. Inwerkingtreding en vervaldatum
 
-Deze regeling treedt in werking op een door de minister te bepalen tijdstip en vervalt met ingang van 31 december 2023, met dien verstande dat deze regeling van toepassing blijft op uitkeringen die voor die datum zijn verstrekt.
+Deze regeling treedt in werking op een door de minister te bepalen tijdstip en vervalt met ingang van 1 december 2026, met dien verstande dat deze regeling van toepassing blijft op uitkeringen die voor die datum zijn verstrekt.
 
 ##### Artikel 12. Citeertitel
 
