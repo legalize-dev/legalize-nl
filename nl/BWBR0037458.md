@@ -4,7 +4,7 @@ identifier: "BWBR0037458"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-12-09"
-last_updated: "2020-01-01"
+last_updated: "2023-12-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037458"
 soort: "ministeriele-regeling"
@@ -72,15 +72,15 @@ Aan de teamleider van het team secretariaat-SZI wordt mandaat en machtiging verl
 
 - a. het afdoen van informatieve brieven, die betrekking hebben op de taken van BSB-SZI;
 
-- b. het paraferen van stukken waar BSB-SZI geen voortouw in heeft, met uitzondering van stukken waarvan gelet op het belang daarvan redelijkerwijs vermoed kan worden dat deze door het hoofd van BSB-SZI afgedaan moeten worden.
+- b. het paraferen van stukken waar BSB-SZI geen voortouw in heeft, met uitzondering van stukken waarvan gelet op het belang daarvan redelijkerwijs vermoed kan worden dat deze door het hoofd van BSB-SZI afgedaan moeten worden;
+
+- c. het aangaan van overeenkomsten ten behoeve van het eigen team ter hoogte van maximaal € 5.000,– per overeenkomst inclusief btw.
 
 ##### Artikel 5
 
-1. De door het hoofd van BSB-SZI en de directeur Werknemersregelingen schriftelijk aangewezen beleidsmedewerker van de afdeling Werkgevers en Sociale Zekerheid buiten Europees Nederland van de directie Werknemersregelingen is gevolmachtigd om reisbescheiden te bestellen met een waarde van ten hoogste € 5.000,– per bestelling. Bij afwezigheid of verhindering van de aangewezen beleidsmedewerker wordt, voor de duur van de afwezigheid of verhindering, deze bevoegdheid waargenomen door de aangewezen medewerker van BSB SZI.
+1. De door het hoofd van BSB-SZI schriftelijk aangewezen medewerkers van BSB-SZI zijn gevolmachtigd bestellingen te doen met een waarde van ten hoogste € 2.000,– per bestelling inclusief btw.
 
-2. De door het hoofd van BSB SZI schriftelijk aangewezen medewerkers van BSB SZI zijn gevolmachtigd om voor de bestelcategorieën bloemen, kantoorartikelen, VVV-bonnen, en boeken/tijdschriften/abonnementen bestellingen te doen met een waarde van ten hoogste € 1.500,– per bestelling.
-
-3. De door het hoofd van BSB SZI schriftelijk aangewezen medewerkers van het team secretariaat-SZI zijn gevolmachtigd om ten aanzien van de niet in het tweede lid genoemde bestelcategorieën bestellingen te doen met een waarde van ten hoogste € 200,– per bestelling.
+2. De door het hoofd van BSB-SZI schriftelijk aangewezen medewerkers van het team secretariaat-SZI zijn gevolmachtigd bestellingen te doen met een waarde van ten hoogste € 200,– per bestelling inclusief btw.
 
 ##### Artikel 6
 
