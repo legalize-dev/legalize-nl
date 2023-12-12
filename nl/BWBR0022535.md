@@ -4,7 +4,7 @@ identifier: "BWBR0022535"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-12-29"
-last_updated: "2022-05-05"
+last_updated: "2023-12-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022535"
 soort: "AMvB"
@@ -134,7 +134,7 @@ Teeltmateriaal van bloembollen wordt slechts in de handel gebracht indien voldaa
 
 ##### Artikel 10
 
-1. Onze Minister kan nadere regels stellen voor zover dat voor een goede uitvoering van de onderwerpen van de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=2&z=2022-05-05&g=2022-05-05), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=4&z=2022-05-05&g=2022-05-05) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=6&z=2022-05-05&g=2022-05-05) genoemde EU-verordeningen en voor de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=9&z=2022-05-05&g=2022-05-05) genoemde EU-richtlijn noodzakelijk is.
+1. Onze Minister kan nadere regels stellen voor zover dat voor een goede uitvoering van de onderwerpen van de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=2&z=2023-12-12&g=2023-12-12), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=4&z=2023-12-12&g=2023-12-12) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=6&z=2023-12-12&g=2023-12-12) genoemde EU-verordeningen en voor de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=9&z=2023-12-12&g=2023-12-12) genoemde EU-richtlijn noodzakelijk is.
 
 2. De regels bedoeld in het eerste lid kunnen betrekking hebben op:
 
@@ -204,7 +204,7 @@ en belast met deze taken.
 
 ##### Artikel 16
 
-1. Onze Minister is de bevoegde autoriteit, bedoeld in [artikel 4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=4), voor het gebied, genoemd in artikel 1, tweede lid, onderdeel i van verordening (EU) 2017/625 en belast met de taken die aan de bevoegde autoriteit of een lidstaat kunnen worden opgedragen en die niet op grond van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=15&z=2022-05-05&g=2022-05-05) of het tweede lid aan de Stichting Skal zijn opgedragen.
+1. Onze Minister is de bevoegde autoriteit, bedoeld in [artikel 4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=4), voor het gebied, genoemd in artikel 1, tweede lid, onderdeel i van verordening (EU) 2017/625 en belast met de taken die aan de bevoegde autoriteit of een lidstaat kunnen worden opgedragen en die niet op grond van de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=15&z=2023-12-12&g=2023-12-12) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=18&z=2023-12-12&g=2023-12-12), of het tweede lid aan de Stichting Skal zijn opgedragen.
 
 2. De Stichting Skal is de controleautoriteit, bedoeld in [artikel 4, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=4) en is:
 
@@ -216,7 +216,7 @@ en belast met deze taken.
 
 Onze Minister is de bevoegde autoriteit, voor:
 
-- a. de officiële controles als bedoeld in artikel 36, derde lid, verordening (EU) 1151/2012 ten aanzien van producten die niet onder de in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=14&z=2022-05-05&g=2022-05-05), bedoelde bevoegdheid van de Stichting KCB vallen;
+- a. de officiële controles als bedoeld in artikel 36, derde lid, verordening (EU) 1151/2012 ten aanzien van producten die niet onder de in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=14&z=2023-12-12&g=2023-12-12), bedoelde bevoegdheid van de Stichting KCB vallen;
 
 - b. artikel 34 van verordening (EU) 1151/2012;
 
@@ -224,7 +224,7 @@ Onze Minister is de bevoegde autoriteit, voor:
 
 ##### Artikel 18
 
-Indien het in het belang van een goede uitvoering van de bij of krachtens [verordening (EU) 2018/848](32748R2018) gestelde voorschriften aangewezen is dat in die voorschriften genoemde taken en bevoegdheden aan de Stichting Skal worden opgedragen, kunnen deze, onverminderd het bepaalde in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=15&z=2022-05-05&g=2022-05-05) en [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=16&z=2022-05-05&g=2022-05-05), worden opgedragen bij ministeriële regeling.
+Indien het in het belang van een goede uitvoering van de bij of krachtens [verordening (EU) 2018/848](32748R2018) gestelde voorschriften aangewezen is dat in die voorschriften genoemde taken en bevoegdheden aan de Stichting Skal worden opgedragen, kunnen deze, onverminderd het bepaalde in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=15&z=2023-12-12&g=2023-12-12) en [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=16&z=2023-12-12&g=2023-12-12), worden opgedragen bij ministeriële regeling.
 
 ##### Artikel 19
 
