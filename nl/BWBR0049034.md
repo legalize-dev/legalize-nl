@@ -4,7 +4,7 @@ identifier: "BWBR0049034"
 country: "nl"
 rank: "zbo"
 publication_date: "2023-12-12"
-last_updated: "2023-05-24"
+last_updated: "2023-12-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049034"
 soort: "zbo"
@@ -48,7 +48,7 @@ In deze beleidsregels wordt verstaan onder:
 
 - a. **Autoriteit Persoonsgegevens:** de Autoriteit persoonsgegevens, bedoeld in [artikel 6, eerste lid, van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=6);
 
-- b. **basisboete:** het bedrag dat de basis vormt voor het bepalen van de hoogte van een op te leggen bestuurlijke boete, vastgesteld binnen de bandbreedte van de aan een overtreding gekoppelde boetecategorie, voordat toepassing is gegeven aan [paragraaf 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0049034&hoofdstuk=2&paragraaf=2.6&z=2023-12-12&g=2023-05-24);
+- b. **basisboete:** het bedrag dat de basis vormt voor het bepalen van de hoogte van een op te leggen bestuurlijke boete, vastgesteld binnen de bandbreedte van de aan een overtreding gekoppelde boetecategorie, voordat toepassing is gegeven aan [paragraaf 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0049034&hoofdstuk=2&paragraaf=2.6&z=2023-12-12&g=2023-12-12);
 
 - c. **betrokkene:** degene op wie een persoonsgegeven betrekking heeft als bedoeld in artikel 4, onder 1, van de Algemene verordening gegevensbescherming;
 
@@ -64,9 +64,9 @@ Deze beleidsregels zijn niet van toepassing op de vaststelling van bestuurlijke 
 
 ##### Artikel 3. Categorie-indeling en boetebandbreedtes
 
-- 3.1. De bepalingen ter zake van overtreding waarvan de Autoriteit Persoonsgegevens een bestuurlijke boete kan opleggen van ten hoogste het bedrag van € 10.000.000 of, voor een onderneming, tot 2% van de totale wereldwijde jaaromzet in het voorgaande boekjaar, indien dit cijfer hoger is, zijn in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049034&bijlage=1&z=2023-12-12&g=2023-05-24) ingedeeld in categorie I, categorie II of categorie III.
+- 3.1. De bepalingen ter zake van overtreding waarvan de Autoriteit Persoonsgegevens een bestuurlijke boete kan opleggen van ten hoogste het bedrag van € 10.000.000 of, voor een onderneming, tot 2% van de totale wereldwijde jaaromzet in het voorgaande boekjaar, indien dit cijfer hoger is, zijn in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049034&bijlage=1&z=2023-12-12&g=2023-12-12) ingedeeld in categorie I, categorie II of categorie III.
 
-- 3.2. De bepalingen ter zake van overtreding waarvan de Autoriteit Persoonsgegevens een bestuurlijke boete kan opleggen van ten hoogste het bedrag van € 20.000.000 of, voor een onderneming, tot 4% van de totale wereldwijde jaaromzet in het voorgaande boekjaar, indien dit cijfer hoger is, zijn in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049034&bijlage=2&z=2023-12-12&g=2023-05-24) ingedeeld in categorie I, categorie II, categorie III of categorie IV.
+- 3.2. De bepalingen ter zake van overtreding waarvan de Autoriteit Persoonsgegevens een bestuurlijke boete kan opleggen van ten hoogste het bedrag van € 20.000.000 of, voor een onderneming, tot 4% van de totale wereldwijde jaaromzet in het voorgaande boekjaar, indien dit cijfer hoger is, zijn in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049034&bijlage=2&z=2023-12-12&g=2023-12-12) ingedeeld in categorie I, categorie II, categorie III of categorie IV.
 
 - 3.3. De Autoriteit Persoonsgegevens stelt de basisboete voor overtredingen waarvoor een wettelijk boetemaximum geldt van € 10.000.000 of, voor een onderneming, tot 2% van de totale wereldwijde jaaromzet in het voorgaande boekjaar, indien dit cijfer hoger is, dan wel € 20.000.000 of, voor een onderneming, tot 4% van de totale wereldwijde jaaromzet in het voorgaande boekjaar, indien dit cijfer hoger is, vast binnen de volgende boetebandbreedtes:
 
@@ -82,7 +82,7 @@ Deze beleidsregels zijn niet van toepassing op de vaststelling van bestuurlijke 
 
 ##### Artikel 4. Categorie-indeling en boetebandbreedtes
 
-- 4.1. De bepalingen ter zake van overtreding waarvan de Autoriteit Persoonsgegevens een bestuurlijke boete van ten hoogste het bedrag van € 900.000 kan opleggen, zijn in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049034&bijlage=3&z=2023-12-12&g=2023-05-24) ingedeeld in categorie I, categorie II of categorie III.
+- 4.1. De bepalingen ter zake van overtreding waarvan de Autoriteit Persoonsgegevens een bestuurlijke boete van ten hoogste het bedrag van € 900.000 kan opleggen, zijn in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049034&bijlage=3&z=2023-12-12&g=2023-12-12) ingedeeld in categorie I, categorie II of categorie III.
 
 - 4.2. De Autoriteit Persoonsgegevens stelt de basisboete voor overtredingen waarvoor een wettelijk boetemaximum geldt van € 900.000 vast binnen de volgende boetebandbreedtes:
 
@@ -97,7 +97,7 @@ Deze beleidsregels zijn niet van toepassing op de vaststelling van bestuurlijke 
 
 ##### Artikel 5. Categorie-indeling en boetebandbreedtes
 
-- 5.1. De bepalingen ter zake van overtreding waarvan de Autoriteit Persoonsgegevens een bestuurlijke boete van ten hoogste het bedrag van de geldboete van de zesde categorie van [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23) kan opleggen, zijn in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049034&bijlage=4&z=2023-12-12&g=2023-05-24) ingedeeld in categorie I, categorie II of categorie III.
+- 5.1. De bepalingen ter zake van overtreding waarvan de Autoriteit Persoonsgegevens een bestuurlijke boete van ten hoogste het bedrag van de geldboete van de zesde categorie van [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23) kan opleggen, zijn in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049034&bijlage=4&z=2023-12-12&g=2023-12-12) ingedeeld in categorie I, categorie II of categorie III.
 
 - 5.2. De Autoriteit Persoonsgegevens stelt de basisboete voor overtredingen waarvoor een wettelijk boetemaximum geldt van de zesde categorie van [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23) vast binnen de volgende boetebandbreedtes:
 
@@ -112,7 +112,7 @@ Deze beleidsregels zijn niet van toepassing op de vaststelling van bestuurlijke 
 
 ##### Artikel 6. Categorie-indeling en boetebandbreedtes
 
-- 6.1. De bepalingen ter zake van overtreding waarvan de Autoriteit Persoonsgegevens een bestuurlijke boete van ten hoogste het bedrag van de geldboete van de vijfde categorie van [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23) kan opleggen, zijn in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049034&bijlage=5&z=2023-12-12&g=2023-05-24) ingedeeld in categorie I, categorie II of categorie III.
+- 6.1. De bepalingen ter zake van overtreding waarvan de Autoriteit Persoonsgegevens een bestuurlijke boete van ten hoogste het bedrag van de geldboete van de vijfde categorie van [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23) kan opleggen, zijn in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049034&bijlage=5&z=2023-12-12&g=2023-12-12) ingedeeld in categorie I, categorie II of categorie III.
 
 - 6.2. De Autoriteit Persoonsgegevens stelt de basisboete voor overtredingen waarvoor een wettelijk boetemaximum geldt van de vijfde categorie van [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23) vast binnen de volgende boetebandbreedtes:
 
@@ -127,7 +127,7 @@ Deze beleidsregels zijn niet van toepassing op de vaststelling van bestuurlijke 
 
 ##### Artikel 7. De basisboete en mogelijke verhoging of verlaging
 
-De Autoriteit Persoonsgegevens bepaalt de hoogte van de boete door het bedrag van de basisboete naar boven (tot ten hoogste het maximum van de bandbreedte van de aan een overtreding gekoppelde boetecategorie) of naar beneden (tot ten laagste het minimum van die bandbreedte) bij te stellen. De basisboete wordt verhoogd of verlaagd afhankelijk van de mate waarin de factoren die zijn genoemd in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0049034&hoofdstuk=2&paragraaf=2.5&artikel=8&z=2023-12-12&g=2023-05-24) daartoe aanleiding geven.
+De Autoriteit Persoonsgegevens bepaalt de hoogte van de boete door het bedrag van de basisboete naar boven (tot ten hoogste het maximum van de bandbreedte van de aan een overtreding gekoppelde boetecategorie) of naar beneden (tot ten laagste het minimum van die bandbreedte) bij te stellen. De basisboete wordt verhoogd of verlaagd afhankelijk van de mate waarin de factoren die zijn genoemd in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0049034&hoofdstuk=2&paragraaf=2.5&artikel=8&z=2023-12-12&g=2023-12-12) daartoe aanleiding geven.
 
 ##### Artikel 8. Relevante factoren
 
@@ -159,7 +159,7 @@ Onverminderd de [artikelen 3:4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&
 
 - 9.1. Indien de voor de overtreding bepaalde boetecategorie in het concrete geval geen passende bestraffing toelaat, kan de Autoriteit Persoonsgegevens bij het bepalen van de hoogte van de boete de boetebandbreedte van de naast hogere categorie respectievelijk de boetebandbreedte van de naast lagere categorie toepassen.
 
-- 9.2. In aanvulling op [artikel 8, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0049034&hoofdstuk=2&paragraaf=2.5&artikel=8&z=2023-12-12&g=2023-05-24), van deze beleidsregels en behoudens het bepaalde in [artikel 15.4, vijfde lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=15.4) hanteert de Autoriteit Persoonsgegevens het uitgangspunt om in geval van recidive de boete met 50% te verhogen, tenzij dit gezien de omstandigheden van het concrete geval onredelijk zou zijn. De Autoriteit Persoonsgegevens kan daarbij buiten de grenzen van de toegepaste boetebandbreedte treden, met inachtneming van het wettelijk boetemaximum.
+- 9.2. In aanvulling op [artikel 8, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0049034&hoofdstuk=2&paragraaf=2.5&artikel=8&z=2023-12-12&g=2023-12-12), van deze beleidsregels en behoudens het bepaalde in [artikel 15.4, vijfde lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=15.4) hanteert de Autoriteit Persoonsgegevens het uitgangspunt om in geval van recidive de boete met 50% te verhogen, tenzij dit gezien de omstandigheden van het concrete geval onredelijk zou zijn. De Autoriteit Persoonsgegevens kan daarbij buiten de grenzen van de toegepaste boetebandbreedte treden, met inachtneming van het wettelijk boetemaximum.
 
 #### Paragraaf 2.6. Draagkracht
 
@@ -169,7 +169,7 @@ Bij het vaststellen van de boete houdt de Autoriteit Persoonsgegevens zo nodig r
 
 In geval van verminderde of onvoldoende draagkracht van de overtreder kan de Autoriteit
 
-Persoonsgegevens de op te leggen boete verdergaand matigen, indien, na toepassing van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0049034&hoofdstuk=2&paragraaf=2.5&artikel=7&z=2023-12-12&g=2023-05-24) en [9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049034&hoofdstuk=2&paragraaf=2.5&artikel=9&z=2023-12-12&g=2023-05-24) van de beleidsregels, vaststelling van een boete binnen de boetebandbreedte van de naast lagere categorie naar haar oordeel desalniettemin zou leiden tot een onevenredig hoge boete.
+Persoonsgegevens de op te leggen boete verdergaand matigen, indien, na toepassing van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0049034&hoofdstuk=2&paragraaf=2.5&artikel=7&z=2023-12-12&g=2023-12-12) en [9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049034&hoofdstuk=2&paragraaf=2.5&artikel=9&z=2023-12-12&g=2023-12-12) van de beleidsregels, vaststelling van een boete binnen de boetebandbreedte van de naast lagere categorie naar haar oordeel desalniettemin zou leiden tot een onevenredig hoge boete.
 
 #### Paragraaf 2.7. Meerdere overtredingen
 
@@ -181,7 +181,7 @@ Ingeval van meerdere overtredingen met betrekking tot dezelfde of daarmee verban
 
 ##### Artikel 12. Overgangsbepaling
 
-Op overtredingen ten aanzien waarvan de Autoriteit Persoonsgegevens vaststelt dat ze zijn begaan voorafgaand aan het van toepassing worden van de Algemene verordening gegevensbescherming en de inwerkingtreding van de [Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940) op 25 mei 2018, wordt ten aanzien van de periode vóór dat tijdstip rekening gehouden met de [Boetebeleidsregels Autoriteit Persoonsgegevens 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037543), zoals deze golden voorafgaand aan dat tijdstip. Het voorgaande laat onverlet de toepasselijkheid van de richtsnoeren van het Europees Comité voor gegevensbescherming 04/2022 in de gevallen waarop die richtsnoeren betrekking hebben (vergelijk [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049034&hoofdstuk=1&artikel=2&z=2023-12-12&g=2023-05-24) van deze beleidsregels).
+Op overtredingen ten aanzien waarvan de Autoriteit Persoonsgegevens vaststelt dat ze zijn begaan voorafgaand aan het van toepassing worden van de Algemene verordening gegevensbescherming en de inwerkingtreding van de [Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940) op 25 mei 2018, wordt ten aanzien van de periode vóór dat tijdstip rekening gehouden met de [Boetebeleidsregels Autoriteit Persoonsgegevens 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037543), zoals deze golden voorafgaand aan dat tijdstip. Het voorgaande laat onverlet de toepasselijkheid van de richtsnoeren van het Europees Comité voor gegevensbescherming 04/2022 in de gevallen waarop die richtsnoeren betrekking hebben (vergelijk [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049034&hoofdstuk=1&artikel=2&z=2023-12-12&g=2023-12-12) van deze beleidsregels).
 
 ##### Artikel 13. Intrekking [Boetebeleidsregels Autoriteit Persoonsgegevens 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041994)
 
@@ -199,7 +199,7 @@ Deze beleidsregels worden aangehaald als: Boetebeleidsregels Autoriteit Persoons
 
 Deze beleidsregels zullen met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 1. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049034&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2023-12-12&g=2023-05-24) van de Boetebeleidsregels Autoriteit Persoonsgegevens 2023
+## Bijlage 1. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049034&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2023-12-12&g=2023-12-12) van de Boetebeleidsregels Autoriteit Persoonsgegevens 2023
 
 | Wetsartikel | Omschrijving | Categorie |
 | --- | --- | --- |
@@ -241,7 +241,7 @@ Deze beleidsregels zullen met de toelichting in de Staatscourant worden geplaats
 | **Kieswet** | bestuurlijke boete op grond van Kieswet | I, II, of III, afhankelijk van de indeling van de onderliggende bepaling |
 | **Wet basisregistratie personen** | bestuurlijke boete op grond van de Wet basisregistratie personen | I, II, of III, afhankelijk van de indeling van de onderliggende bepaling |
 
-## Bijlage 2. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049034&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2023-12-12&g=2023-05-24) van de Boetebeleidsregels Autoriteit Persoonsgegevens 2023
+## Bijlage 2. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049034&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2023-12-12&g=2023-12-12) van de Boetebeleidsregels Autoriteit Persoonsgegevens 2023
 
 Overtredingen met een wettelijk boetemaximum van € 20.000.000 of, voor een onderneming, tot 4% van de totale wereldwijde jaaromzet in het voorgaande boekjaar, indien dit cijfer hoger is
 
@@ -289,7 +289,7 @@ Overtredingen met een wettelijk boetemaximum van € 20.000.000 of, voor een ond
 | **Kieswet** | bestuurlijke boete op grond van Kieswet | II, III of IV, afhankelijk van de indeling van de onderliggende bepaling |
 | **Wet basisregistratie personen** | bestuurlijke boete op grond van Wet basisregistratie personen | II, III of IV, afhankelijk van de indeling van de onderliggende bepaling |
 
-## Bijlage 3. behorende bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049034&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2023-12-12&g=2023-05-24) van de Boetebeleidsregels Autoriteit Persoonsgegevens 2023
+## Bijlage 3. behorende bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049034&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2023-12-12&g=2023-12-12) van de Boetebeleidsregels Autoriteit Persoonsgegevens 2023
 
 Overtredingen met een wettelijk boetemaximum van € 900.000
 
@@ -305,7 +305,7 @@ Overtredingen met een wettelijk boetemaximum van € 900.000
 | **Algemene wet bestuursrecht** |   |   |
 | [artikel 5:20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) | medewerkingsplicht (nalevingstoezicht [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950)) | III |
 
-## Bijlage 4. behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049034&hoofdstuk=2&paragraaf=2.3&artikel=5&z=2023-12-12&g=2023-05-24) van de Boetebeleidsregels Autoriteit Persoonsgegevens 2023
+## Bijlage 4. behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049034&hoofdstuk=2&paragraaf=2.3&artikel=5&z=2023-12-12&g=2023-12-12) van de Boetebeleidsregels Autoriteit Persoonsgegevens 2023
 
 Overtredingen met een wettelijk boetemaximum van de zesde categorie van [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23)
 
@@ -361,7 +361,7 @@ Overtredingen met een wettelijk boetemaximum van de zesde categorie van [artikel
 | [artikel 51f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=51f), jo. [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=24) | kennisgevingsplicht inzake rectificatie, vernietiging of afscherming van gegevens | I |
 | [Artikel 51f, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=51f) | recht op inzage | II |
 
-## Bijlage 5. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049034&hoofdstuk=2&paragraaf=2.4&artikel=6&z=2023-12-12&g=2023-05-24) van de Boetebeleidsregels Autoriteit Persoonsgegevens 2023
+## Bijlage 5. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049034&hoofdstuk=2&paragraaf=2.4&artikel=6&z=2023-12-12&g=2023-12-12) van de Boetebeleidsregels Autoriteit Persoonsgegevens 2023
 
 Overtredingen met een wettelijk boetemaximum van de vijfde categorie van [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23)
 
