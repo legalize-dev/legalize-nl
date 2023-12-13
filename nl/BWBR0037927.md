@@ -4,7 +4,7 @@ identifier: "BWBR0037927"
 country: "nl"
 rank: "zbo"
 publication_date: "2023-12-13"
-last_updated: "2021-09-03"
+last_updated: "2023-12-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037927"
 soort: "zbo"
@@ -37584,9 +37584,9 @@ Uiterlijk op 1 juli van elk oneven jaar dienen de gezamenlijke netbeheerders, ui
 
 - e. de Gelderse gemeente Lochem, uitsluitend in het gebied Larense broek.
 
-2. Enduris B.V. beheert het regionale gastransportnet in de provincie Zeeland.
+2. Vervallen.
 
-3. Enexis B.V. beheert het regionale gastransportnet in:
+3. Enexis Netbeheer B.V. beheert het regionale gastransportnet in:
 
 - a. de provincies Groningen, Noord-Brabant en Limburg;
 
@@ -37598,6 +37598,8 @@ Uiterlijk op 1 juli van elk oneven jaar dienen de gezamenlijke netbeheerders, ui
 
 - e. de Gelderse gemeente Oldebroek, uitsluitend in de kernen Oosterwolde (gedeeltelijk) en Noordeinde (gedeeltelijk);
 
+- f. de Gelderse gemeente Voorst, uitsluitend in het buurtschap Steenenkamer.
+
 4. Liander N.V. beheert het regionale gastransportnet in:
 
 - a. de provincie Fryslân, met uitzondering van de gebieden genoemd in het zesde lid, onderdeel a;
@@ -37608,7 +37610,7 @@ Uiterlijk op 1 juli van elk oneven jaar dienen de gezamenlijke netbeheerders, ui
 
 - d. de Overijsselse gemeente Olst-Wijhe, uitsluitend de buurtgemeenschap Marle;
 
-- e. de provincie Gelderland, met uitzondering van de gebieden genoemd in het eerste lid, onderdeel d, het derde lid, onderdelen d en e, en het zesde lid, onderdeel b;
+- e. de provincie Gelderland, met uitzondering van de gebieden genoemd in het eerste lid, onderdeel d, het derde lid, onderdelen d tot en met f, en het zesde lid, onderdeel b;
 
 - f. de Utrechtse gemeente Amersfoort, uitsluitend in de wijken Vinkenhoef en Palestina;
 
@@ -37638,15 +37640,17 @@ Uiterlijk op 1 juli van elk oneven jaar dienen de gezamenlijke netbeheerders, ui
 
 6. Stedin Netbeheer B.V. beheert het regionale gastransportnet in:
 
-- a. de Friese gemeenten Achtkarspelen, Ameland, Dantumadeel, Noardeast-Fryslân, Schiermonnikoog en Tietjerksteradeel;
+- a. de Friese gemeenten Achtkarspelen, Ameland, Dantumadeel, Noardeast-Fryslân, Schiermonnikoog en Tytsjerksteradiel;
 
-- b. de Gelderse gemeente West Betuwe, uitsluitend in de kernen Heukelum, Spijk en Asperen;
+- b. de Gelderse gemeente West Betuwe, uitsluitend in de kernen Heukelum, Spijk en Asperen en de Gelderse gemeente Scherpenzeel;
 
 - c. de provincie Utrecht, met uitzondering van de gebieden genoemd in het vierde lid, onderdelen e en f;
 
 - d. de Noord-Hollandse gemeenten Aalsmeer, Amstelveen, Beverwijk, Bloemendaal, Castricum, Heemskerk, Heemstede, Ouder-Amstel, Uitgeest, Uithoorn en Zandvoort en de voormalige Noord-Hollandse gemeente Haarlemmerliede en Spaarnwoude;
 
-- e. de provincie Zuid-Holland, met uitzondering van de gebieden genoemd in het vierde lid, onderdeel h en het zevende lid onderdelen a tot en met f.
+- e. de provincie Zuid-Holland, met uitzondering van de gebieden genoemd in het vierde lid, onderdeel i en het zevende lid onderdelen a tot en met f;
+
+- f. de provincie Zeeland.
 
 7. Westland Infra Netbeheer B.V. beheert het regionale gastransportnet in:
 
@@ -37664,7 +37668,7 @@ Uiterlijk op 1 juli van elk oneven jaar dienen de gezamenlijke netbeheerders, ui
 
 ##### Artikel 5. Het recht op aansluiting op een regionaal gastransportnet
 
-1. Binnen de gebieden genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037927&artikel=4&z=2021-09-03&g=2021-09-03) heeft een potentiële aangeslotene recht op een aansluiting, als bedoeld in [artikel 10, zesde lid van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=10), op het regionale gastransportnet.
+1. Binnen de gebieden genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037927&artikel=4&z=2023-12-13&g=2023-12-13) heeft een potentiële aangeslotene recht op een aansluiting, als bedoeld in [artikel 10, zesde lid van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=10), op het regionale gastransportnet.
 
 2. In afwijking van het eerste lid heeft een kleinverbruiker geen recht op een aansluiting indien de aan te sluiten gasinstallatie zich bevindt in een gebied buiten de bebouwde kom, indien de equivalente netlengte van het nieuw aan te leggen gastransportnet groter is dan de acceptabele netlengte daarvan, waarbij onder ‘bebouwde kom' wordt verstaan de door de gemeenteraad vastgestelde bebouwde kom op basis van de Wegenverkeerswet.
 
