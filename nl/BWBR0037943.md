@@ -4,7 +4,7 @@ identifier: "BWBR0037943"
 country: "nl"
 rank: "zbo"
 publication_date: "2023-12-13"
-last_updated: "2019-09-18"
+last_updated: "2023-12-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037943"
 soort: "zbo"
@@ -195,7 +195,7 @@ Uiterlijk op 1 juli van elk oneven jaar dienen de gezamenlijke netbeheerders, ui
 
 ##### Artikel 4. Het regionaal hoogspanningsnet
 
-1. Enduris B.V. beheert het regionaal hoogspanningsnet in de provincie Zeeland.
+1. Vervallen.
 
 2. Enexis Netbeheer B.V. beheert het regionaal hoogspanningsnet in de provincies Noord-Brabant en Limburg.
 
@@ -207,7 +207,7 @@ Uiterlijk op 1 juli van elk oneven jaar dienen de gezamenlijke netbeheerders, ui
 
 - c. de voormalige Zuid-Hollandse gemeente Zevenhuizen-Moerkapelle zoals gedemarqueerd op 31 december 2009.
 
-4. Stedin Netbeheer B.V. beheert het regionaal hoogspanningsnet in de provincies Utrecht en Zuid-Holland met uitzondering van de Zuid-Hollandse gemeenten genoemd in het derde lid, onderdelen b en c.
+4. Stedin Netbeheer B.V. beheert het regionaal hoogspanningsnet in de provincies Utrecht, Zeeland en Zuid-Holland met uitzondering van de Zuid-Hollandse gemeenten genoemd in het derde lid, onderdelen b en c.
 
 ##### Artikel 5. Het midden- en laagspanningsnet
 
@@ -219,7 +219,7 @@ Uiterlijk op 1 juli van elk oneven jaar dienen de gezamenlijke netbeheerders, ui
 
 - c. de voormalige Overijsselse gemeente Goor, als gedemarqueerd op 31 december 2000.
 
-2. Enduris B.V. beheert het midden- en laagspanningsnet in de provincie Zeeland.
+2. Vervallen.
 
 3. Enexis Netbeheer B.V. beheert het midden- en laagspanningsnet in de provincies Groningen, Drenthe, Noord-Brabant, Limburg en Overijssel met uitzondering van het midden- en laagspanningsnet in de gebieden genoemd in het eerste lid, het vierde lid, onderdelen b en c en het vijfde lid.
 
@@ -253,7 +253,9 @@ Uiterlijk op 1 juli van elk oneven jaar dienen de gezamenlijke netbeheerders, ui
 
 - c. de provincie Zuid-Holland, met uitzondering van de gebieden genoemd in het vierde lid, onderdeel g en het zevende lid, onderdelen a tot en met f;
 
-- d. in de provincie Gelderland in de gemeente West Betuwe de kernen Heukelum, Spijk en Asperen.
+- d. in de provincie Gelderland in de gemeente West Betuwe de kernen Heukelum, Spijk en Asperen;
+
+- e. de provincie Zeeland.
 
 7. Westland Infra Netbeheer B.V. beheert het midden- en laagspanningsnet in de provincie Zuid-Holland uitsluitend in:
 
