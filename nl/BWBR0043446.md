@@ -4,7 +4,7 @@ identifier: "BWBR0043446"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-12-16"
-last_updated: "2023-11-01"
+last_updated: "2023-12-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043446"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 - **kabinetsreactie:** brief van de Minister van Financiën van 20 maart 2020 aan beide Kamers der Staten-Generaal houdende de reactie van het kabinet op het eindrapport van de Commissie toekomst accountancysector (Kamerstukken II 2019/20, 33 977, nr. 29);
 
-- **kwartiermakers:** kwartiermakers, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043446&artikel=2&z=2020-05-01&g=2023-11-01).
+- **kwartiermakers:** kwartiermakers, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043446&artikel=2&z=2023-12-16&g=2023-12-16).
 
 ##### Artikel 2. Instelling en taak
 
@@ -94,7 +94,7 @@ Voor de duur van de instelling worden tot kwartiermakers benoemd:
 
 ##### Artikel 5. Instellingsduur
 
-De kwartiermakers worden ingesteld met ingang van 1 mei 2020 voor de duur van drie jaar en zes maanden.
+De kwartiermakers worden ingesteld met ingang van 1 mei 2020 voor de duur van drie jaar en zeven maanden.
 
 ##### Artikel 6. Secretariaat
 
@@ -132,7 +132,7 @@ Aan iedere kwartiermaker wordt een vaste vergoeding per maand toegekend, waarbij
 
 - a. een oordeel over de mate waarin de in de kabinetsreactie aangekondigde maatregelen zijn geïmplementeerd;
 
-- b. een oordeel over de invoering van het **audit only**-model, met inbegrip van het afschermen van de verdiensten van de **audit**-tak (**ring fencing**) van de accountantsorganisatie, het **joint audit**-model en het intermediairmodel, in het licht van de inventarisatie, bedoel in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043446&artikel=2&z=2020-05-01&g=2023-11-01), voor zover dat oordeel nog niet is opgenomen in één van de rapportages, bedoeld in het eerste lid.
+- b. een oordeel over de invoering van het **audit only**-model, met inbegrip van het afschermen van de verdiensten van de **audit**-tak (**ring fencing**) van de accountantsorganisatie, het **joint audit**-model en het intermediairmodel, in het licht van de inventarisatie, bedoel in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043446&artikel=2&z=2023-12-16&g=2023-12-16), voor zover dat oordeel nog niet is opgenomen in één van de rapportages, bedoeld in het eerste lid.
 
 ##### Artikel 11. Openbaarmaking
 
