@@ -4,7 +4,7 @@ identifier: "BWBR0005758"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2023-01-01"
+last_updated: "2023-12-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005758"
 soort: "AMvB"
@@ -112,9 +112,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **verordening (EG) 1333/2008:** [Verordening (EG) nr. 1333/2008](32008R1333) van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 inzake levensmiddelenadditieven (PbEU 2008, L 354);
 
-- –. **verordening (EG) 1881/2006:** [Verordening (EG) nr. 1881/2006](32006R1881) van de Commissie van de Europese Gemeenschappen van 19 december 2006 tot vaststelling van de maximumgehalten aan bepaalde verontreinigingen in levensmiddelen (PbEU 2006, L 364);
-
 - –. **verordening (EU) 1169/2011:** [Verordening (EU) nr. 1169/2011](32011R1169) van het Europees Parlement en de Raad van 25 oktober 2011 betreffende de verstrekking van voedselinformatie aan consumenten, tot wijziging van [Verordeningen (EG) nr. 1924/2006](32006R1924) en [(EG) nr. 1925/2006](32006R1925) van het Europees Parlement en de Raad en tot intrekking van [Richtlijn 87/250/EEG](31987L0250) van de Commissie, [Richtlijn 90/496/EEG](31990L0496) van de Raad, [Richtlijn 1999/10/EG](31999L0010) van de Commissie, [Richtlijn 2000/13/EG](32000L0013) van het Europees Parlement en de Raad, [Richtlijnen 2002/67/EG](32002L0067) en [2008/5/EG](32008L0005) van de Commissie, en [Verordening (EG) nr. 608/2004](32004R0608) van de Commissie (PbEU 2011, L 304);
+
+- –. **verordening (EU) 2023/915:** [Verordening (EU) 2023/915](32023R0915) van de Commissie van 25 april 2023 betreffende maximumgehalten aan bepaalde verontreinigingen in levensmiddelen en tot intrekking van [Verordening (EG) nr. 1881/2006](32006R1881) (PbEU 2023, L 119);
 
 - –. **voor menselijke consumptie bestemd water:** al het water, niet zijnde natuurlijk mineraalwater, bronwater of een geneesmiddel, dat in enig levensmiddelenbedrijf wordt gebruikt voor de vervaardiging, de behandeling, de conservering of het in de handel brengen van voor menselijke consumptie bestemde waren of stoffen.
 
@@ -126,7 +126,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Het is verboden te handelen in strijd met de voorschriften gesteld bij of krachtens artikel 23 van [verordening (EG) 470/2009](32009R0470).
 
-4. Het is verboden te handelen in strijd met de artikelen 1, eerste lid, 3, en 5, van [verordening (EG) 1881/2006](32006R1881).
+4. Het is verboden te handelen in strijd met de voorschriften gesteld bij of krachtens artikel 2 van [verordening (EEG) 315/93](31993R0315).
 
 5. Het is verboden te handelen in strijd met de bij artikel 14, eerste lid, artikel 18, eerste tot en met vierde lid, artikel 19, en de krachtens artikel 18, vijfde lid, van [verordening (EG) 178/2002](32002R0178) vastgestelde bepalingen.
 
@@ -135,10 +135,6 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 7. Het is verboden te handelen in strijd met artikel 2 van [verordening (EG) 37/2005](32005R0037).
 
 8. Het is verboden ten aanzien van eet- en drinkwaren te handelen in strijd met de artikelen 18, eerste lid, 19 en 20, eerste lid, van [verordening (EG) 396/2005](32005R0396).
-
-9. Het is verboden te handelen in strijd met artikel 1, eerste lid, eerste en derde alinea, van [verordening (EG) 124/2009](32009R0124).
-
-10. Het is verboden te handelen in strijd met artikel 2, eerste en tweede lid, van [verordening (EEG) 315/93](31993R0315).
 
 #### § 2. Hygiëne bij de bereiding en behandeling
 
@@ -274,7 +270,7 @@ Vervallen
 
 ##### Artikel 13
 
-In eet- en drinkwaren mogen door Onze Minister aangewezen verontreinigingen, andere dan bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=4&artikel=12&z=2023-01-01&g=2023-01-01), die uit oogpunt van gezondheid schadelijk kunnen zijn, niet in een grotere hoeveelheid aanwezig zijn dan door Onze Minister voor de betrokken stof is vastgesteld. De hoeveelheid kan voor de onderscheiden eet- en drinkwaren verschillend worden bepaald.
+In eet- en drinkwaren mogen door Onze Minister aangewezen verontreinigingen, andere dan bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=4&artikel=12&z=2023-12-16&g=2023-12-16), die uit oogpunt van gezondheid schadelijk kunnen zijn, niet in een grotere hoeveelheid aanwezig zijn dan door Onze Minister voor de betrokken stof is vastgesteld. De hoeveelheid kan voor de onderscheiden eet- en drinkwaren verschillend worden bepaald.
 
 #### § 4. Verontreinigingen en residuen van bestrijdingsmiddelen
 
@@ -336,11 +332,11 @@ Vervallen
 
 1. Als methoden van onderzoek welke bij uitsluiting beslissend zijn voor de vaststelling of al dan niet is voldaan aan de bij of krachtens dit besluit gestelde regels, worden aangewezen microbiologische onderzoekingsmethoden, chromatografische en andere scheidingsmethoden, organoleptische bepalingsmethoden en detectiemethoden, alsmede de daartoe door een andere Lid-Staat van de Europese Economische Gemeenschap aangewezen methoden.
 
-2. Onverminderd het eerste lid worden bij de controle of al dan niet is voldaan aan [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=3&artikel=5&z=2023-01-01&g=2023-01-01) de in bijlage II en III bij richtlijn 2013/51/Euratom vastgestelde controlestrategieën en controlefrequenties in acht genomen.
+2. Onverminderd het eerste lid worden bij de controle of al dan niet is voldaan aan [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=3&artikel=5&z=2023-12-16&g=2023-12-16) de in bijlage II en III bij richtlijn 2013/51/Euratom vastgestelde controlestrategieën en controlefrequenties in acht genomen.
 
 3. Onze Minister kan omtrent de in het eerste lid bedoelde methoden nadere regels stellen.
 
-4. Onverminderd het eerste lid wordt de in artikel 1 en de bijlage bij [verordening (EU) 333/2007](32007R0333) beschreven methode, aangewezen als methode van onderzoek die bij uitsluiting beslissend is voor de vaststelling of met betrekking tot de maximumgehalten aan lood, cadmium, kwik, anorganisch tin, 3-MCPD en benzo(a)pyreen in eet- en drinkwaren al dan niet is voldaan aan de afdelingen 3, 4 en 6 van de bijlage bij [verordening (EG) 1881/2006](32006R1881).
+4. Onverminderd het eerste lid wordt de in artikel 1 en de bijlage bij [verordening (EU) 333/2007](32007R0333) beschreven methode, aangewezen als methode van onderzoek die bij uitsluiting beslissend is voor de vaststelling of met betrekking tot de maximumgehalten aan lood, cadmium, kwik, anorganisch tin, 3-MCPD en benzo(a)pyreen in eet- en drinkwaren al dan niet is voldaan aan de onderdelen 3, 5.1, 5.2 en 5.3 van bijlage I bij [verordening (EU) 2023/915](32023R0915).
 
 ##### Artikel 19
 
@@ -464,8 +460,8 @@ Het tappen onder overdruk van bier als bedoeld in [artikel 7b van het Warenwetbe
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
-## Bijlage. als bedoeld in [artikel 4a, tweede lid, van het Warenwetbesluit Bereiding en behandeling van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=3&artikel=4a&z=2023-01-01&g=2023-01-01)
+## Bijlage. als bedoeld in [artikel 4a, tweede lid, van het Warenwetbesluit Bereiding en behandeling van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=3&artikel=4a&z=2023-12-16&g=2023-12-16)
 
-De afbeelding, bedoeld in [artikel 4a, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=3&artikel=4a&z=2023-01-01&g=2023-01-01), ziet er als volgt uit:
+De afbeelding, bedoeld in [artikel 4a, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=3&artikel=4a&z=2023-12-16&g=2023-12-16), ziet er als volgt uit:
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
