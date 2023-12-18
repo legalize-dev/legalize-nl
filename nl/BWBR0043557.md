@@ -4,7 +4,7 @@ identifier: "BWBR0043557"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2022-07-09"
+last_updated: "2023-12-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043557"
 soort: "ministeriele-regeling"
@@ -54,9 +54,11 @@ In deze regeling wordt verstaan onder:
 
 - d. **functioneel woningmarktgebied:** een gebied dat zich van andere functionele woningmarktgebieden onderscheid in de mate waarin sprake is van een daadwerkelijk regionaal woningtekort, gelet op feitelijke verhuisstromen, zoals ingedeeld door ABF Research in haar Inventarisatie Plancapaciteit van november 2020;
 
-- e. **uitkering:** specifieke uitkering als bedoeld in [artikel 2, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=2);
+- e. **minister:** de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- f. **uitkeringsbeschikking:** beschikking als bedoeld in [artikel 4, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=4).
+- f. **uitkering:** specifieke uitkering als bedoeld in [artikel 2, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=2);
+
+- g. **uitkeringsbeschikking:** beschikking als bedoeld in [artikel 4, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=4).
 
 ##### Artikel 2. Nadere regels inzake de activiteiten waarvoor een uitkering kan worden verstrekt
 
@@ -66,11 +68,7 @@ In deze regeling wordt verstaan onder:
 
 3. Het aandeel betaalbare woningen, bedoeld in [artikel 2, tweede lid, onder a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=2), is substantieel als het ten minste 50% van de door het project toegevoegde woningen betreft.
 
-4. Het aantal woningen, bedoeld in [artikel 2, tweede lid, onder a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=2), is substantieel als dit:
-
-- a. ten minste 500 woningen betreft, indien de aanvragende gemeente uit meer dan 50.000 inwoners bestaat op grond van de laatstelijk door het CBS vastgestelde definitieve cijfers bevolkingsaantallen per gemeente op het moment dat een aanvraagtijdvak wordt bekendgemaakt op grond van [artikel 4, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=4); of
-
-- b. ten minste 200 woningen betreft, indien de aanvragende gemeente uit ten hoogste 50.000 inwoners bestaat op grond van de laatstelijk door het CBS vastgestelde definitieve cijfers bevolkingsaantallen per gemeente op het moment dat een aanvraagtijdvak wordt bekendgemaakt op grond van [artikel 4, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=4).
+4. Het aantal woningen, bedoeld in [artikel 2, tweede lid, onder a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=2), is substantieel als dit ten minste 200 woningen betreft.
 
 ##### Artikel 3. Uitkeringsplafond
 
@@ -78,7 +76,9 @@ In totaal is ten hoogste € 2.250.000.000 beschikbaar voor specifieke uitkering
 
 ##### Artikel 4. De aanvraag
 
-1. Een omschrijving van een project als bedoeld in [artikel 4, derde lid, onder a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=4), bestaat in ieder geval uit:
+1. De minister kan besluiten een aanvraagtijdvak te openen waarin uitsluitend colleges van burgemeester en wethouders die in een voorafgaand aanvraagtijdvak een aanvraag hebben ingediend die is afgewezen een aanvraag kunnen doen voor hetzelfde project als waarop de afgewezen aanvraag zag. Het aanvraagtijdvak vangt aan binnen 17 weken na het sluiten van het voorafgaande aanvraagtijdvak.
+
+2. Een omschrijving van een project als bedoeld in [artikel 4, derde lid, onder a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=4), bestaat in ieder geval uit:
 
 - a. een toelichting op de geografische afbakening van het project;
 
@@ -88,7 +88,7 @@ In totaal is ten hoogste € 2.250.000.000 beschikbaar voor specifieke uitkering
 
 - d. een toelichting op de kwaliteit van de te bouwen woningen en van de leefomgeving.
 
-2. Een haalbaarheidsstudie als bedoeld in [artikel 4, derde lid, onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=4), bevat:
+3. Een haalbaarheidsstudie als bedoeld in [artikel 4, derde lid, onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=4), bevat:
 
 - a. een begroting en prognose van publieke kosten en opbrengsten, waarmee het aantoonbare financiële tekort wordt onderbouwd;
 
@@ -98,11 +98,11 @@ In totaal is ten hoogste € 2.250.000.000 beschikbaar voor specifieke uitkering
 
 - d. een toelichting op de noodzaak van een bijdrage en het regionaal belang van het project.
 
-3. Een aanvraag wordt ingediend via een formulier dat beschikbaar wordt gesteld op de website van de Rijksdienst voor Ondernemend Nederland.
+4. Een aanvraag wordt ingediend via een formulier dat beschikbaar wordt gesteld op de website van de Rijksdienst voor Ondernemend Nederland.
 
-4. In een aanvraagtijdvak kan een gemeente ten hoogste drie aanvragen indienen.
+5. In een aanvraagtijdvak kan een gemeente ten hoogste drie aanvragen indienen.
 
-5. De uitkeringsbeschikking vermeldt in elk geval:
+6. De uitkeringsbeschikking vermeldt in elk geval:
 
 - a. aan welke activiteiten voor het versnellen of realiseren van de bouw van woningen met de uitkering wordt bijgedragen;
 
@@ -114,13 +114,13 @@ In totaal is ten hoogste € 2.250.000.000 beschikbaar voor specifieke uitkering
 
 - e. de wijze waarop kan worden aangetoond dat de activiteiten binnen het project zijn verricht.
 
-6. De Minister betaalt in het geval van een toekennende uitkeringsbeschikking, de uitkering in één keer uit. De Minister verleent daarbij een voorschot van 100%.
+7. De minister betaalt in het geval van een toekennende uitkeringsbeschikking, de uitkering in één keer uit. De minister verleent daarbij een voorschot van 100%.
 
-7. Aan een uitkering kunnen in de uitkeringsbeschikking nadere verplichtingen worden verbonden.
+8. Aan een uitkering kunnen in de uitkeringsbeschikking nadere verplichtingen worden verbonden.
 
 ##### Artikel 5. Scoring van aanvragen
 
-De scores en de weging van de criteria, bedoeld in [artikel 5, tweede lid, onder 1° tot en met 4°, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=5), worden bepaald conform [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0043557&bijlage=1&z=2022-07-09&g=2022-07-09). De totaalscore van een aanvraag is het gewogen gemiddelde van de scores op die criteria.
+De scores en de weging van de criteria, bedoeld in [artikel 5, tweede lid, onder 1° tot en met 4°, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=5), worden bepaald conform [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0043557&bijlage=1&z=2023-12-18&g=2023-12-18). De totaalscore van een aanvraag is het gewogen gemiddelde van de scores op die criteria.
 
 ##### Artikel 6. Rangschikking van aanvragen
 
@@ -128,7 +128,7 @@ De scores en de weging van de criteria, bedoeld in [artikel 5, tweede lid, onder
 
 2. Indien na toepassing van het eerste lid nog steeds meerdere aanvragen gelijk scoren worden die aanvragen onderling gerangschikt op grond van de hoogte van de gevraagde bijdrage per woning, waarbij de aanvraag met de laagste bijdrage per woning het hoogst eindigt.
 
-3. Indien een aanvraag niet volledig kan worden toegekend in verband met de overschrijding van het krachtens [artikel 3, tweede of derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=3), vastgestelde bedrag, kan de minister besluiten om de aanvraag toch toe te wijzen en het restant van de uitkering ten laste te brengen van het uitkeringsplafond van het eerstvolgende aanvraagtijdvak. De minister kan, in afwijking van [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043557&artikel=4&z=2022-07-09&g=2022-07-09), voor een geval als bedoeld in de eerste volzin besluiten om de uitkering in twee keer uit te betalen.
+3. Indien een aanvraag niet volledig kan worden toegekend in verband met de overschrijding van het krachtens [artikel 3, tweede of derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=3), vastgestelde bedrag, kan de minister besluiten om de aanvraag toch toe te wijzen en het restant van de uitkering ten laste te brengen van het uitkeringsplafond van het eerstvolgende aanvraagtijdvak. De minister kan, in afwijking van [artikel 4, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043557&artikel=4&z=2023-12-18&g=2023-12-18), voor een geval als bedoeld in de eerste volzin besluiten om de uitkering in twee keer uit te betalen.
 
 ##### Artikel 7. Weigeringsgronden
 
@@ -150,13 +150,13 @@ De scores en de weging van de criteria, bedoeld in [artikel 5, tweede lid, onder
 
 - e. Zuid: de provincies Noord-Brabant en Limburg.
 
-3. Op grond van de woningbouwopgave van de regio’s, genoemd in het tweede lid, wordt beoordeeld of sprake is van een onevenwichtige spreiding van de beschikbare middelen over die regio’s. De woningbouwopgave wordt bepaald op basis van de door de Minister in het kader van de in de meest actuele staat van de woningmarkt gepubliceerde cijfers over het tekort aan woningen.
+3. Op grond van de woningbouwopgave van de regio’s, genoemd in het tweede lid, wordt beoordeeld of sprake is van een onevenwichtige spreiding van de beschikbare middelen over die regio’s. De woningbouwopgave wordt bepaald op basis van de door de minister in het kader van de in de meest actuele staat van de woningmarkt gepubliceerde cijfers over het tekort aan woningen.
 
 ##### Artikel 8. Leden van de commissie
 
 1. De commissie bestaat uit een voorzitter en ten minste drie en ten hoogste vier leden.
 
-2. De leden worden door de minister benoemd voor de duur van vier jaar of tot uiterlijk zoveel eerder dat het uitkeringsplafond, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043557&artikel=3&z=2022-07-09&g=2022-07-09), is uitgeput.
+2. De leden worden door de minister benoemd voor de duur van vier jaar of tot uiterlijk zoveel eerder dat het uitkeringsplafond, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043557&artikel=3&z=2023-12-18&g=2023-12-18), is uitgeput.
 
 3. De voorzitter en de andere leden hebben zitting op persoonlijke titel en oefenen hun functie uit zonder last of ruggespraak.
 
@@ -178,7 +178,7 @@ Deze regeling treedt in werking op het tijdstip waarop het [Besluit woningbouwim
 
 Deze regeling wordt aangehaald als: Regeling Woningbouwimpuls 2020.
 
-## Bijlage 1. behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043557&artikel=5&z=2022-07-09&g=2022-07-09) van de Regeling Woningbouwimpuls 2020
+## Bijlage 1. behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043557&artikel=5&z=2023-12-18&g=2023-12-18) van de Regeling Woningbouwimpuls 2020
 
 ### Beoordelingscriteria en weging
 
