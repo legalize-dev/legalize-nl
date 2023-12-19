@@ -4,7 +4,7 @@ identifier: "BWBR0043265"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-12-19"
-last_updated: "2023-05-01"
+last_updated: "2023-12-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043265"
 soort: "ministeriele-regeling"
@@ -53,7 +53,7 @@ Besluit vast te stellen het navolgende Mandaatbesluit Rijksvastgoedbedrijf 2020:
 
 - a. **functionaris:** een ambtenaar werkzaam bij het Rijksvastgoedbedrijf;
 
-- b. **directeur:** rechtstreeks onder de directeur-generaal ressorterende leidinggevende van de directies Portefeuillestrategie & Portefeuillemanagement, Transacties & Projecten, Vastgoedbeheer en Financiën & Bestuursadvisering;
+- b. **directeur:** rechtstreeks onder de directeur-generaal ressorterende leidinggevende van de directies Portefeuillestrategie & Portefeuillemanagement, Transacties & Projecten Gebieds- en Vastgoedontwikkeling, Vastgoedbeheer en Financiën & Bestuursadvisering;
 
 - c. **afdelingshoofd:** rechtstreeks onder een directeur ressorterende leidinggevende en de rechtstreeks onder de directeur-generaal ressorterende leidinggevende van het bureau directeur-generaal en van het Atelier Rijksbouwmeester;
 
@@ -79,7 +79,7 @@ Besluit vast te stellen het navolgende Mandaatbesluit Rijksvastgoedbedrijf 2020:
 
 ##### Artikel 2. Ondermandaat leidinggevenden
 
-1. Aan de directeuren, afdelingshoofden, sectiehoofden en clusterhoofden wordt ondermandaat verleend ten aanzien van aangelegenheden die behoren tot hun werkterrein en met inachtneming van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043265&artikel=7&z=2023-12-19&g=2023-05-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0043265&artikel=8&z=2023-12-19&g=2023-05-01).
+1. Aan de directeuren, afdelingshoofden, sectiehoofden en clusterhoofden wordt ondermandaat verleend ten aanzien van aangelegenheden die behoren tot hun werkterrein en met inachtneming van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043265&artikel=7&z=2023-12-19&g=2023-12-19) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0043265&artikel=8&z=2023-12-19&g=2023-12-19).
 
 2. Afdelingshoofden, sectiehoofden en clusterhoofden zijn niet bevoegd tot het verlenen van ondermandaat.
 
@@ -99,7 +99,7 @@ Besluit vast te stellen het navolgende Mandaatbesluit Rijksvastgoedbedrijf 2020:
 
 ##### Artikel 4. Ondermandaat projectleiders
 
-1. Aan projectleiders wordt ondermandaat verleend ten aanzien van aangelegenheden die behoren tot het werkterrein van deze functionarissen en met inachtneming van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043265&artikel=7&z=2023-12-19&g=2023-05-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0043265&artikel=8&z=2023-12-19&g=2023-05-01).
+1. Aan projectleiders wordt ondermandaat verleend ten aanzien van aangelegenheden die behoren tot het werkterrein van deze functionarissen en met inachtneming van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043265&artikel=7&z=2023-12-19&g=2023-12-19) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0043265&artikel=8&z=2023-12-19&g=2023-12-19).
 
 2. Projectleiders zijn niet bevoegd tot het verlenen van ondermandaat.
 
