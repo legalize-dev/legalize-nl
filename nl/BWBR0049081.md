@@ -4,7 +4,7 @@ identifier: "BWBR0049081"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-12-20"
-last_updated: "2022-01-01"
+last_updated: "2023-12-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049081"
 soort: "ministeriele-regeling"
@@ -64,7 +64,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 ##### Artikel 4. Ondermandaat
 
-De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049081&artikel=3&z=2023-12-20&g=2022-01-01) bedoelde functionarissen zijn niet bevoegd ondermandaat te verlenen van de aan hen in dat artikel toegekende bevoegdheden.
+De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049081&artikel=3&z=2023-12-20&g=2023-12-20) bedoelde functionarissen zijn niet bevoegd ondermandaat te verlenen van de aan hen in dat artikel toegekende bevoegdheden.
 
 ##### Artikel 5. Ondertekening
 
