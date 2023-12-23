@@ -4,7 +4,7 @@ identifier: "BWBR0002463"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-12-23"
-last_updated: "2017-01-01"
+last_updated: "2023-12-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002463"
 soort: "AMvB"
@@ -56,9 +56,9 @@ Voor de toepassing van dit besluit wordt verstaan onder:
 
 1. De som waarvoor de verzekering van aansprakelijkheid, bedoeld in [artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=3), voor een motorrijtuig ten minste moet zijn gesloten, bedraagt:
 
-- a. voor schade aan personen € 6.070.000 per gebeurtenis;
+- a. voor schade aan personen € 6.450.000 per gebeurtenis;
 
-- b. voor schade aan zaken € 1.220.000 per gebeurtenis.
+- b. voor schade aan zaken € 1.300.000 per gebeurtenis.
 
 2. In afwijking van het eerste lid, aanhef en onder a, bedraagt voor een motorrijtuig dat is ingericht tot het vervoer van meer dan acht personen, de bestuurder daaronder niet begrepen, de verzekerde som ten minste € 10.836.000 per gebeurtenis.
 
