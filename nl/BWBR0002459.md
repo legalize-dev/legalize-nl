@@ -4,7 +4,7 @@ identifier: "BWBR0002459"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-12-23"
-last_updated: "1998-01-01"
+last_updated: "2023-12-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002459"
 soort: "AMvB"
@@ -60,9 +60,9 @@ De verzekeraar verstrekt aan het orgaan de gegevens, bedoeld in artikel 13 dan w
 
 ##### Artikel 3
 
-1. De kennisgeving, bedoeld in artikel 13, eerste lid, onderdeel **a**, van de wet, inzake het sluiten van een verzekering moet ten minste bevatten het kenteken en de laatste vier cijfers van het chassisnummer van het motorrijtuig, de naam van de verzekeraar, het polisnummer en de dagtekening en het jaar van ingang van de dekking, dan wel zodanige aanduidingen, dat de voormelde gegevens hieruit kunnen worden afgeleid.
+1. De kennisgeving, bedoeld in artikel 13, eerste lid, onderdeel **a**, van de wet, inzake het sluiten van een verzekering moet ten minste bevatten het kenteken en de laatste vier cijfers van het chassisnummer van het motorrijtuig, de naam en het adres van de verzekeraar, het polisnummer en de dagtekening en het jaar van ingang van de dekking, dan wel zodanige aanduidingen, dat de voormelde gegevens hieruit kunnen worden afgeleid.
 
-– 2. De kennisgeving, bedoeld in artikel 13**a**, tweede lid, van de wet, moet ten minste bevatten de naam van de verzekeraar, het polisnummer en de dagtekening en het jaar van ingang van de dekking, het nummer waaronder het erkende bedrijf is geregistreerd bij het orgaan en het nummer waaronder het erkende bedrijf is ingeschreven in het handelsregister, dan wel zodanige aanduidingen, dat de voormelde gegevens hieruit kunnen worden afgeleid.
+– 2. De kennisgeving, bedoeld in artikel 13**a**, tweede lid, van de wet, moet ten minste bevatten de naam en het adres van de verzekeraar, het polisnummer en de dagtekening en het jaar van ingang van de dekking, het nummer waaronder het erkende bedrijf is geregistreerd bij het orgaan en het nummer waaronder het erkende bedrijf is ingeschreven in het handelsregister, dan wel zodanige aanduidingen, dat de voormelde gegevens hieruit kunnen worden afgeleid.
 
 – 3. De kennisgeving, bedoeld in het eerste lid en die, bedoeld in het tweede lid, moeten binnen vier weken na de datum van ingang van de dekking zijn ingediend.
 
@@ -70,7 +70,7 @@ De verzekeraar verstrekt aan het orgaan de gegevens, bedoeld in artikel 13 dan w
 
 ##### Artikel 4
 
-1. De kennisgeving, bedoeld in artikel 13, eerste lid, onderdelen **b** en **c** en **d**, van de wet, inzake de beëindiging, de vernietiging en de ontbinding van een verzekering, alsmede inzake de schorsing van een verzekering of van de dekking moet ten minste bevatten het kenteken van het motorrijtuig, de naam van de verzekeraar, het polisnummer, alsmede de dagtekening en het jaar van de beëindiging, vernietiging of ontbinding van de verzekering, dan wel de dagtekening en het jaar van de schorsing van de verzekering of van de dekking, met dien verstande, dat kan worden volstaan met zodanige aanduidingen, dat de voormelde gegevens hieruit kunnen worden afgeleid.
+1. De kennisgeving, bedoeld in artikel 13, eerste lid, onderdelen **b** en **c** en **d**, van de wet, inzake de beëindiging, de vernietiging en de ontbinding van een verzekering, alsmede inzake de schorsing van een verzekering of van de dekking moet ten minste bevatten het kenteken van het motorrijtuig, de naam en het adres van de verzekeraar, het polisnummer, alsmede de dagtekening en het jaar van de beëindiging, vernietiging of ontbinding van de verzekering, dan wel de dagtekening en het jaar van de schorsing van de verzekering of van de dekking, met dien verstande, dat kan worden volstaan met zodanige aanduidingen, dat de voormelde gegevens hieruit kunnen worden afgeleid.
 
 2. Het orgaan legt de datum vast, waarop de kennisgeving door hem is ontvangen.
 
@@ -78,17 +78,17 @@ De verzekeraar verstrekt aan het orgaan de gegevens, bedoeld in artikel 13 dan w
 
 Indien het motorrijtuig aan een ander wordt overgedragen in eigendom of houderschap, geldt de aanvraag overeenkomstig de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=26) en [27 van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=27) tot wijziging van de tenaamstelling van het motorrijtuig als de opgave van de bestemming van het motorrijtuig nadat het de bedrijfsvoorraad verlaat. Daarnaast kan de opgave van de bestemming van het motorrijtuig worden gedaan door mede te delen hetzij dat het motorrijtuig voorgoed buiten Nederland wordt gebracht, hetzij dat het motorrijtuig voorgoed buiten gebruik wordt gesteld. In alle gevallen geldt dat bij het doen van de mededeling kan worden volstaan met zodanige aanduidingen, dat de voormelde gegevens hieruit kunnen worden afgeleid.
 
-– 4. De kennisgeving, bedoeld in artikel 13**a**, zesde lid, van de wet, inzake de beëindiging, de vernietiging, de ontbinding en de schorsing van de verzekering, moet ten minste bevatten de naam van de verzekeraar, het polisnummer en de dagtekening en het jaar van de beëindiging, vernietiging, ontbinding of schorsing van de verzekering, het nummer waaronder het erkende bedrijf is geregistreerd bij het orgaan en het nummer waaronder het erkende bedrijf is ingeschreven in het handelsregister, met dien verstande, dat kan worden volstaan met zodanige aanduidingen, dat de voormelde gegevens hieruit kunnen worden afgeleid.
+– 4. De kennisgeving, bedoeld in artikel 13**a**, zesde lid, van de wet, inzake de beëindiging, de vernietiging, de ontbinding en de schorsing van de verzekering, moet ten minste bevatten de naam en het adres van de verzekeraar, het polisnummer en de dagtekening en het jaar van de beëindiging, vernietiging, ontbinding of schorsing van de verzekering, het nummer waaronder het erkende bedrijf is geregistreerd bij het orgaan en het nummer waaronder het erkende bedrijf is ingeschreven in het handelsregister, met dien verstande, dat kan worden volstaan met zodanige aanduidingen, dat de voormelde gegevens hieruit kunnen worden afgeleid.
 
 ##### Artikel 5
 
-1. Is ten aanzien van een verzekeraar artikel 13, vierde lid, der wet van toepassing, zoals dit luidde voor het tijdstip van inwerkingtreding van de Wet van 30 november 1983, **Stb.** 613, dan vangt de daarbedoelde termijn van 16 dagen aan op de datum van ontvangst, welke door het orgaan is aangetekend op de kennisgeving, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002459&artikel=4&z=1998-01-01&g=1998-01-01), van dit besluit.
+1. Is ten aanzien van een verzekeraar artikel 13, vierde lid, der wet van toepassing, zoals dit luidde voor het tijdstip van inwerkingtreding van de Wet van 30 november 1983, **Stb.** 613, dan vangt de daarbedoelde termijn van 16 dagen aan op de datum van ontvangst, welke door het orgaan is aangetekend op de kennisgeving, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002459&artikel=4&z=2023-12-23&g=2023-12-23), van dit besluit.
 
 2. Indien deze datum ligt vóór de dag, volgende op die waarop de verzekering of de dekking eindigt of geschorst wordt, vangt de termijn eerst aan op de dag, volgende op die waarop de verzekering of de dekking eindigt of geschorst wordt.
 
 ##### Artikel 6
 
-1. De kennisgeving inzake het einde der schorsing van de verzekering of van de dekking moet ten minste bevatten het kenteken van het motorrijtuig, de naam van de verzekeraar, het polisnummer, de dagtekening en het jaar van het wederom ingaan van de dekking, dan wel zodanige aanduidingen, dat de voormelde gegevens hieruit kunnen worden afgeleid.
+1. De kennisgeving inzake het einde der schorsing van de verzekering of van de dekking moet ten minste bevatten het kenteken van het motorrijtuig, de naam en het adres van de verzekeraar, het polisnummer, de dagtekening en het jaar van het wederom ingaan van de dekking, dan wel zodanige aanduidingen, dat de voormelde gegevens hieruit kunnen worden afgeleid.
 
 2. De kennisgeving, bedoeld in het eerste lid, moet binnen vier weken na de datum van ingang van de dekking zijn ingediend.
 
@@ -110,11 +110,11 @@ Indien het motorrijtuig aan een ander wordt overgedragen in eigendom of houdersc
 
 ##### Artikel 8
 
-1. Met betrekking tot een verzekeringsovereenkomst, als bedoeld in artikel 13 der wet, welke van kracht is op de dag van de inwerkingtreding van genoemd artikel, is de verzekeraar verplicht een kennisgeving, als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002459&artikel=3&z=1998-01-01&g=1998-01-01), van dit besluit aan het orgaan in te zenden, met dien verstande, dat op deze kennisgeving in plaats van de dagtekening en het jaar van ingang van de dekking moet worden vermeld een door het orgaan voorgeschreven aanduiding.
+1. Met betrekking tot een verzekeringsovereenkomst, als bedoeld in artikel 13 der wet, welke van kracht is op de dag van de inwerkingtreding van genoemd artikel, is de verzekeraar verplicht een kennisgeving, als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002459&artikel=3&z=2023-12-23&g=2023-12-23), van dit besluit aan het orgaan in te zenden, met dien verstande, dat op deze kennisgeving in plaats van de dagtekening en het jaar van ingang van de dekking moet worden vermeld een door het orgaan voorgeschreven aanduiding.
 
-– 2. Met betrekking tot een verzekeringsovereenkomst als bedoeld in artikel 13**a** van de wet, welke van kracht is op de dag van de inwerkingtreding van genoemd artikel, is de verzekeraar verplicht een kennisgeving als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002459&artikel=3&z=1998-01-01&g=1998-01-01) van dit besluit, aan het orgaan te doen, met dien verstande, dat op deze kennisgeving in plaats van de dagtekening en het jaar van ingang van de dekking moet worden vermeld een door het orgaan voorgeschreven aanduiding.
+– 2. Met betrekking tot een verzekeringsovereenkomst als bedoeld in artikel 13**a** van de wet, welke van kracht is op de dag van de inwerkingtreding van genoemd artikel, is de verzekeraar verplicht een kennisgeving als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002459&artikel=3&z=2023-12-23&g=2023-12-23) van dit besluit, aan het orgaan te doen, met dien verstande, dat op deze kennisgeving in plaats van de dagtekening en het jaar van ingang van de dekking moet worden vermeld een door het orgaan voorgeschreven aanduiding.
 
-– 3. Met betrekking tot een motorrijtuig dat op de dag van inwerkingtreding van artikel 13**a** van de wet reeds is opgenomen in een bedrijfsvoorraad, wordt de kennisgeving, bedoeld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002459&artikel=2&z=1998-01-01&g=1998-01-01), van dit besluit, geacht te zijn gedaan op de dag van inwerkingtreding van artikel 13**a** van de wet, zodra de verzekeraar een kennisgeving als bedoeld in het tweede lid van dit artikel heeft gedaan.
+– 3. Met betrekking tot een motorrijtuig dat op de dag van inwerkingtreding van artikel 13**a** van de wet reeds is opgenomen in een bedrijfsvoorraad, wordt de kennisgeving, bedoeld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002459&artikel=2&z=2023-12-23&g=2023-12-23), van dit besluit, geacht te zijn gedaan op de dag van inwerkingtreding van artikel 13**a** van de wet, zodra de verzekeraar een kennisgeving als bedoeld in het tweede lid van dit artikel heeft gedaan.
 
 – 4. Een kennisgeving als bedoeld in het eerste lid, moet binnen vier weken na de inwerkingtreding van dit besluit zijn ingediend.
 
