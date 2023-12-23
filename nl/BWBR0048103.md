@@ -4,7 +4,7 @@ identifier: "BWBR0048103"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-12-23"
-last_updated: "2023-04-27"
+last_updated: "2023-12-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048103"
 soort: "ministeriele-regeling"
@@ -61,39 +61,39 @@ Voor een categorie productie-installaties als bedoeld in de eerste en tweede kol
 | 1 | 2 | 3 |
 | --- | --- | --- |
 | Artikel [openstellingsbesluit 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044883) | Omschrijving categorie | Definitief correctiebedrag 2022 in euro/kWh |
-| [Artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044883&artikel=3) | Zonne-energie, kleinverbruikers-aansluiting | 0,207 |
-| [Artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044883&artikel=3) | Zonne-energie, grootverbruikers-aansluiting | Netlevering: 0,207 |
-| [Artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044883&artikel=3) | Zonne-energie, grootverbruikers-aansluiting | Niet-netlevering: 0,247 |
-| [Artikel 3, onderdeel c, subonderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0044883&artikel=3) | Windenergie, grootverbruikers-aansluiting, ≥ 8,5 m/s | 0,185 |
-| [Artikel 3, onderdeel c, subonderdeel ii](https://wetten.overheid.nl/jci1.3:c:BWBR0044883&artikel=3) | Windenergie, grootverbruikers-aansluiting, ≥ 8,0 en < 8,5 m/s | 0,185 |
-| [Artikel 3, onderdeel c, subonderdeel iii](https://wetten.overheid.nl/jci1.3:c:BWBR0044883&artikel=3) | Windenergie, grootverbruikers-aansluiting, ≥ 7,5 en < 8,0 m/s | 0,185 |
-| [Artikel 3, onderdeel c, subonderdeel iv](https://wetten.overheid.nl/jci1.3:c:BWBR0044883&artikel=3) | Windenergie, grootverbruikers-aansluiting, ≥ 7,0 en < 7,5 m/s | 0,185 |
-| [Artikel 3, onderdeel c, subonderdeel v](https://wetten.overheid.nl/jci1.3:c:BWBR0044883&artikel=3) | Windenergie, grootverbruikers-aansluiting, ≥ 6,75 en < 7,0 m/s | 0,185 |
-| [Artikel 3, onderdeel c, subonderdeel vi](https://wetten.overheid.nl/jci1.3:c:BWBR0044883&artikel=3) | Windenergie, grootverbruikers-aansluiting, < 6,75 m/s | 0,185 |
-| [Artikel 3, onderdeel d, subonderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0044883&artikel=3) | Windenergie, grootverbruikers-aansluiting, ≥ 8,5 m/s | 0,185 |
-| [Artikel 3, onderdeel d, subonderdeel ii](https://wetten.overheid.nl/jci1.3:c:BWBR0044883&artikel=3) | Windenergie, grootverbruikers-aansluiting, ≥ 8,0 en < 8,5 m/s | 0,185 |
-| [Artikel 3, onderdeel d, subonderdeel iii](https://wetten.overheid.nl/jci1.3:c:BWBR0044883&artikel=3) | Windenergie, grootverbruikers-aansluiting, ≥ 7,5 en < 8,0 m/s | 0,185 |
-| [Artikel 3, onderdeel d, subonderdeel iv](https://wetten.overheid.nl/jci1.3:c:BWBR0044883&artikel=3) | Windenergie, grootverbruikers-aansluiting, ≥ 7,0 en < 7,5 m/s | 0,185 |
-| [Artikel 3, onderdeel d, subonderdeel v](https://wetten.overheid.nl/jci1.3:c:BWBR0044883&artikel=3) | Windenergie, grootverbruikers-aansluiting, ≥ 6,75 en < 7,0 m/s | 0,185 |
-| [Artikel 3, onderdeel d, subonderdeel vi](https://wetten.overheid.nl/jci1.3:c:BWBR0044883&artikel=3) | Windenergie, grootverbruikers-aansluiting, < 6,75 m/s | 0,185 |
-| [Artikel 3, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0044883&artikel=3) | Waterkracht kleinverbruikersaansluiting ≥ 15 kW en ≤ 100 kW | 0,243 |
-| [Artikel 3, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0044883&artikel=3) | Waterkracht grootverbruikersaansluiting ≥ 15 kW en ≤ 150 kW | 0,243 |
+| [Artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044883&artikel=3) | Zonne-energie, kleinverbruikers-aansluiting | 0,202 |
+| [Artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044883&artikel=3) | Zonne-energie, grootverbruikers-aansluiting | Netlevering: 0,202 |
+| [Artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044883&artikel=3) | Zonne-energie, grootverbruikers-aansluiting | Niet-netlevering:0,243 |
+| [Artikel 3, onderdeel c, subonderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0044883&artikel=3) | Windenergie, grootverbruikers-aansluiting, ≥ 8,5 m/s | 0,183 |
+| [Artikel 3, onderdeel c, subonderdeel ii](https://wetten.overheid.nl/jci1.3:c:BWBR0044883&artikel=3) | Windenergie, grootverbruikers-aansluiting, ≥ 8,0 en < 8,5 m/s | 0,183 |
+| [Artikel 3, onderdeel c, subonderdeel iii](https://wetten.overheid.nl/jci1.3:c:BWBR0044883&artikel=3) | Windenergie, grootverbruikers-aansluiting, ≥ 7,5 en < 8,0 m/s | 0,183 |
+| [Artikel 3, onderdeel c, subonderdeel iv](https://wetten.overheid.nl/jci1.3:c:BWBR0044883&artikel=3) | Windenergie, grootverbruikers-aansluiting, ≥ 7,0 en < 7,5 m/s | 0,183 |
+| [Artikel 3, onderdeel c, subonderdeel v](https://wetten.overheid.nl/jci1.3:c:BWBR0044883&artikel=3) | Windenergie, grootverbruikers-aansluiting, ≥ 6,75 en < 7,0 m/s | 0,183 |
+| [Artikel 3, onderdeel c, subonderdeel vi](https://wetten.overheid.nl/jci1.3:c:BWBR0044883&artikel=3) | Windenergie, grootverbruikers-aansluiting, < 6,75 m/s | 0,183 |
+| [Artikel 3, onderdeel d, subonderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0044883&artikel=3) | Windenergie, grootverbruikers-aansluiting, ≥ 8,5 m/s | 0,183 |
+| [Artikel 3, onderdeel d, subonderdeel ii](https://wetten.overheid.nl/jci1.3:c:BWBR0044883&artikel=3) | Windenergie, grootverbruikers-aansluiting, ≥ 8,0 en < 8,5 m/s | 0,183 |
+| [Artikel 3, onderdeel d, subonderdeel iii](https://wetten.overheid.nl/jci1.3:c:BWBR0044883&artikel=3) | Windenergie, grootverbruikers-aansluiting, ≥ 7,5 en < 8,0 m/s | 0,183 |
+| [Artikel 3, onderdeel d, subonderdeel iv](https://wetten.overheid.nl/jci1.3:c:BWBR0044883&artikel=3) | Windenergie, grootverbruikers-aansluiting, ≥ 7,0 en < 7,5 m/s | 0,183 |
+| [Artikel 3, onderdeel d, subonderdeel v](https://wetten.overheid.nl/jci1.3:c:BWBR0044883&artikel=3) | Windenergie, grootverbruikers-aansluiting, ≥ 6,75 en < 7,0 m/s | 0,183 |
+| [Artikel 3, onderdeel d, subonderdeel vi](https://wetten.overheid.nl/jci1.3:c:BWBR0044883&artikel=3) | Windenergie, grootverbruikers-aansluiting, < 6,75 m/s | 0,183 |
+| [Artikel 3, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0044883&artikel=3) | Waterkracht kleinverbruikersaansluiting ≥ 15 kW en ≤ 100 kW | 0,242 |
+| [Artikel 3, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0044883&artikel=3) | Waterkracht grootverbruikersaansluiting ≥ 15 kW en ≤ 150 kW | 0,242 |
 
 | 1 | 2 | 3 |
 | --- | --- | --- |
 | [Artikel openstellingsbesluit 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046275) | Omschrijving categorie | Definitief correctiebedrag 2022 in euro/kWh |
-| [Artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3) | Zonne-energie, kleinverbruikers-aansluiting | 0,207 |
-| [Artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3) | Zonne-energie, grootverbruikers-aansluiting | Netlevering: 0,207 |
-| [Artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3) | Zonne-energie, grootverbruikers-aansluiting | Niet-netlevering: 0,247 |
-| [Artikel 3, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3) | Windenergie, kleinverbruikers-aansluiting | 0,185 |
-| [Artikel 3, onderdeel d, subonderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3) | Windenergie, grootverbruikers-aansluiting, ≥ 8,5 m/s | 0,185 |
-| [Artikel 3, onderdeel d, subonderdeel ii](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3) | Windenergie, grootverbruikers-aansluiting, ≥ 8,0 en < 8,5 m/s | 0,185 |
-| [Artikel 3, onderdeel d, subonderdeel iii](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3) | Windenergie, grootverbruikers-aansluiting, ≥ 7,5 en < 8,0 m/s | 0,185 |
-| [Artikel 3, onderdeel d, subonderdeel iv](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3) | Windenergie, grootverbruikers-aansluiting, ≥ 7,0 en < 7,5 m/s | 0,185 |
-| [Artikel 3, onderdeel d, subonderdeel v](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3) | Windenergie, grootverbruikers-aansluiting, ≥ 6,75 en < 7,0 m/s | 0,185 |
-| [Artikel 3, onderdeel d, subonderdeel vi](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3) | Windenergie, grootverbruikers-aansluiting, < 6,75 m/s | 0,185 |
-| [Artikel 3, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3) | Waterkracht kleinverbruikersaansluiting ≥ 15 kW en ≤ 100 kW | 0,243 |
-| [Artikel 3, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3) | Waterkracht grootverbruikersaansluiting ≥ 15 kW en ≤ 150 kW | 0,243 |
+| [Artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3) | Zonne-energie, kleinverbruikers-aansluiting | 0,202 |
+| [Artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3) | Zonne-energie, grootverbruikers-aansluiting | Netlevering: 0,202 |
+| [Artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3) | Zonne-energie, grootverbruikers-aansluiting | Niet-netlevering: 0,243 |
+| [Artikel 3, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3) | Windenergie, kleinverbruikers-aansluiting | 0,183 |
+| [Artikel 3, onderdeel d, subonderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3) | Windenergie, grootverbruikers-aansluiting, ≥ 8,5 m/s | 0,183 |
+| [Artikel 3, onderdeel d, subonderdeel ii](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3) | Windenergie, grootverbruikers-aansluiting, ≥ 8,0 en < 8,5 m/s | 0,183 |
+| [Artikel 3, onderdeel d, subonderdeel iii](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3) | Windenergie, grootverbruikers-aansluiting, ≥ 7,5 en < 8,0 m/s | 0,183 |
+| [Artikel 3, onderdeel d, subonderdeel iv](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3) | Windenergie, grootverbruikers-aansluiting, ≥ 7,0 en < 7,5 m/s | 0,183 |
+| [Artikel 3, onderdeel d, subonderdeel v](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3) | Windenergie, grootverbruikers-aansluiting, ≥ 6,75 en < 7,0 m/s | 0,183 |
+| [Artikel 3, onderdeel d, subonderdeel vi](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3) | Windenergie, grootverbruikers-aansluiting, < 6,75 m/s | 0,183 |
+| [Artikel 3, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3) | Waterkracht kleinverbruikersaansluiting ≥ 15 kW en ≤ 100 kW | 0,242 |
+| [Artikel 3, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3) | Waterkracht grootverbruikersaansluiting ≥ 15 kW en ≤ 150 kW | 0,242 |
 
 ##### Artikel 4. (inwerkingtreding)
 
