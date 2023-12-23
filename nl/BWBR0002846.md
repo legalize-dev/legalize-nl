@@ -4,7 +4,7 @@ identifier: "BWBR0002846"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-12-23"
-last_updated: "2022-06-30"
+last_updated: "2023-12-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002846"
 soort: "AMvB"
@@ -48,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 - a. wet: de [Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415);
 
-- b. richtlijn: de Richtlijn van de Raad van de Europese Gemeenschappen van 24 april 1972 inzake de onderlinge aanpassing van de wetgevingen der Lid-Staten betreffende de verzekering tegen de wettelijke aansprakelijkheid waartoe deelneming aan het verkeer aanleiding kan geven en de controle op de verzekering tegen deze aansprakelijkheid (**Pb. E.G.** 2 mei 1972, L 103), gewijzigd bij Richtlijn van de Raad van 19 december 1972 (**Pb. E.G.** L 291 van 28 december 1972, rectificatie in **Pb E.G.** L 75 van 23 maart 1973).
+- b. richtlijn: [Richtlijn 2009/103/EG](32009L0103) van het Europees Parlement en de Raad van 16 september 2009 betreffende de verzekering tegen de wettelijke aansprakelijkheid waartoe de deelneming aan het verkeer van motorrijtuigen aanleiding kan geven en de controle op de verzekering tegen deze aansprakelijkheid (PbEU 2009, L 263), zoals gewijzigd.
 
 ##### Artikel 2
 
@@ -124,9 +124,11 @@ hh. Zwitserland en Liechtenstein.
 
 ##### Artikel 3
 
-1. Van de toepassing van artikel 2, achtste lid, der wet zijn uitgezonderd de motorrijtuigen die gewoonlijk zijn gestald in een der bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002846&artikel=2&z=2022-06-30&g=2022-06-30) aangewezen landen en ten aanzien waarvan in dat land overeenkomstig artikel 4 van de richtlijn van de bepalingen van artikel 3 van die richtlijn is afgeweken, voor zover ten aanzien van de in artikel 4, onder **a,** van die richtlijn bedoelde motorrijtuigen niet het Bureau, als bedoeld in artikel 2, zesde lid der wet is aangewezen als de met de schadeloosstelling van benadeelden belaste instantie.
+1. Van de toepassing van [artikel 2, achtste lid, der wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=2) zijn uitgezonderd de motorrijtuigen die gewoonlijk zijn gestald in een der bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002846&artikel=2&z=2023-12-23&g=2023-12-23) aangewezen landen en ten aanzien waarvan in dat land overeenkomstig artikel 5 van de richtlijn van de bepalingen van artikel 3 van die richtlijn is afgeweken, voor zover ten aanzien van de in artikel 5, eerste lid, van die richtlijn bedoelde motorrijtuigen niet het Bureau, als bedoeld in artikel 2, zesde lid der wet is aangewezen als de met de schadeloosstelling van benadeelden belaste instantie.
 
-2. Van de toepassing van artikel 2, achtste lid, der wet zijn eveneens uitgezonderd de motorrijtuigen die gewoonlijk zijn gestald in een der bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002846&artikel=2&z=2022-06-30&g=2022-06-30) aangewezen landen en ten aanzien waarvan niet voldaan is aan de voorwaarde genoemd in artikel 7, tweede lid, van de richtlijn.
+2. Van de toepassing van [artikel 2, achtste lid, der wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=2) zijn eveneens uitgezonderd de motorrijtuigen die gewoonlijk zijn gestald in een der bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002846&artikel=2&z=2023-12-23&g=2023-12-23) aangewezen landen en ten aanzien waarvan niet voldaan is aan de voorwaarde genoemd in artikel 8, eerste lid, tweede alinea, van de richtlijn.
+
+3. Van de toepassing van [artikel 2, achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=2) zijn eveneens uitgezonderd de motorrijtuigen die gewoonlijk zijn gestald in een van de bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002846&artikel=2&z=2023-12-23&g=2023-12-23) aangewezen landen en die niet hebben te gelden als voertuig in de zin van artikel 1, onderdeel 1, van de richtlijn. Dit geldt niet voor motorrijtuigen die gewoonlijk in België of Luxemburg zijn gestald, voor zover de wetgeving in die landen die dient ter uitvoering van de op 24 mei 1966 te Luxemburg tot stand gekomen Benelux-overeenkomst betreffende de verplichte aansprakelijkheidsverzekering inzake motorrijtuigen (Trb. 1966, 178) op die motorrijtuigen van toepassing is.
 
 ##### Artikel 4
 
@@ -134,6 +136,6 @@ Ons besluit van 17 januari 1967 (**Stb.** 18) wordt ingetrokken.
 
 ##### Artikel 5
 
-De onderscheidene bepalingen van dit besluit treden in werking met ingang van door Ons te bepalen tijdstippen, welke ook voor wat de aanwijzing van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002846&artikel=1&z=2022-06-30&g=2022-06-30) genoemde landen verschillend kunnen zijn.
+De onderscheidene bepalingen van dit besluit treden in werking met ingang van door Ons te bepalen tijdstippen, welke ook voor wat de aanwijzing van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002846&artikel=1&z=2023-12-23&g=2023-12-23) genoemde landen verschillend kunnen zijn.
 
 Onze Minister van Justitie is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
