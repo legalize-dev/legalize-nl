@@ -4,7 +4,7 @@ identifier: "BWBR0022535"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-12-29"
-last_updated: "2023-12-12"
+last_updated: "2023-12-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022535"
 soort: "AMvB"
@@ -66,6 +66,8 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. verordening (EU) 2018/848: [verordening (EU) 2018/848](32748R2018) van het Europees Parlement en de Raad van 30 mei 2018 inzake de biologische productie en de etikettering van biologische producten en tot intrekking van Verordening (EG) nr. 834/2007 van de Raad (PbEU 2018, L 150);
 
+- –. verordening (EU) 2023/2419: [Verordening 2023/2419](32419R2023) van het Europees Parlement en de Raad van 18 oktober 2023 betreffende de etikettering van biologisch voeder voor gezelschapsdieren (PbEU 2023, L 2419);
+
 - –. richtlijn 98/56/EG: richtlijn nr. 1998/56/EG van de Raad van de Europese Unie van 20 juli 1998 betreffende het in de handel brengen van teeltmateriaal van siergewassen (PbEG L 226);
 
 - –. richtlijn 2007/45/EG: richtlijn 2007/45/EG van het Europees Parlement en de Raad van 5 september 2007 tot vaststelling van regels betreffende nominale hoeveelheden voor voorverpakte producten, tot intrekking van de Richtlijnen 75/106/EEG en 80/232/EEG van de Raad en tot wijziging van Richtlijn 76/211/EEG van de Raad (PbEU 2007, L 247);
@@ -94,7 +96,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2
 
-Bij het in de handel brengen of etiketteren van of reclame maken voor producten wordt slechts verwezen naar de biologische productiemethode en wordt het logo, bedoeld in artikel 33 van [verordening (EU) 2018/848](32748R2018), slechts gebruikt indien is voldaan aan het bepaalde bij of krachtens [verordening (EU) 2018/848](32748R2018) en bij of krachtens dit besluit gestelde regels.
+Bij het in de handel brengen of etiketteren van of reclame maken voor producten wordt slechts verwezen naar de biologische productiemethode en wordt het logo, bedoeld in artikel 33 van [verordening (EU) 2018/848](32748R2018), slechts gebruikt indien is voldaan aan het bepaalde bij of krachtens [verordening (EU) 2018/848](32748R2018), bij [verordening (EU) 2023/2419](32023R2419), bij ministeriële regeling aangewezen andere krachtens artikel 43, tweede lid, van het Verdrag betreffende de werking van de Europese Unie vastgestelde bindende EU-rechtshandelingen voor het in de handel brengen, etiketteren van, of reclame maken voor biologische producten, en bij of krachtens dit besluit gestelde regels.
 
 ##### Artikel 3
 
@@ -130,11 +132,11 @@ Vervallen
 
 ##### Artikel 9
 
-Teeltmateriaal van bloembollen wordt slechts in de handel gebracht indien voldaan is aan de artikelen 3 tot en met 9 van richtlijn 98/56/EG en bij of krachtens dit besluit gestelde regels.
+Teeltmateriaal van bloembollen wordt slechts in de handel gebracht indien het teeltmateriaal, de leverancier, de wijze van in de handel brengen en de etiketten of andere documenten die door de leverancier zijn opgemaakt voldoen aan het bepaalde bij of krachtens [richtlijn 98/56/EG](31998L0056) en de bij of krachtens dit besluit gestelde regels.
 
 ##### Artikel 10
 
-1. Onze Minister kan nadere regels stellen voor zover dat voor een goede uitvoering van de onderwerpen van de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=2&z=2023-12-12&g=2023-12-12), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=4&z=2023-12-12&g=2023-12-12) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=6&z=2023-12-12&g=2023-12-12) genoemde EU-verordeningen en voor de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=9&z=2023-12-12&g=2023-12-12) genoemde EU-richtlijn noodzakelijk is.
+1. Onze Minister kan nadere regels stellen voor zover dat voor een goede uitvoering van de onderwerpen van de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=2&z=2023-12-29&g=2023-12-29), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=4&z=2023-12-29&g=2023-12-29) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=6&z=2023-12-29&g=2023-12-29) genoemde verordeningen of krachtens die artikelen aangewezen EU-rechtshandelingen en voor de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=9&z=2023-12-29&g=2023-12-29) genoemde EU-richtlijn noodzakelijk is.
 
 2. De regels bedoeld in het eerste lid kunnen betrekking hebben op:
 
@@ -176,7 +178,7 @@ Vervallen
 
 1. De Stichting KCB is de controle-instantie, bedoeld in artikel 9, eerste lid, onderdeel b, van verordening (EU) 543/2011, en belast met:
 
-- a. het toezicht op de naleving van bij of krachtens dit besluit gestelde regels ten aanzien van groenten en fruit, aardappelen, bananen en krenten en rozijnen;
+- a. het toezicht op de naleving van bij of krachtens dit besluit gestelde regels ten aanzien van groente en fruit, aardappelen en bananen;
 
 - b. het uitreiken van bewijsstukken, bedoeld in artikel 14, eerste lid, van verordening (EU) 543/2011, indien is voldaan aan artikel 76, eerste en derde lid, en de handelsnormen, gesteld krachtens artikel 75, tweede en zesde lid, van verordening (EU) 1308/2013;
 
@@ -204,7 +206,7 @@ en belast met deze taken.
 
 ##### Artikel 16
 
-1. Onze Minister is de bevoegde autoriteit, bedoeld in [artikel 4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=4), voor het gebied, genoemd in artikel 1, tweede lid, onderdeel i van verordening (EU) 2017/625 en belast met de taken die aan de bevoegde autoriteit of een lidstaat kunnen worden opgedragen en die niet op grond van de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=15&z=2023-12-12&g=2023-12-12) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=18&z=2023-12-12&g=2023-12-12), of het tweede lid aan de Stichting Skal zijn opgedragen.
+1. Onze Minister is de bevoegde autoriteit, bedoeld in [artikel 4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=4), voor het gebied, genoemd in artikel 1, tweede lid, onderdeel i van verordening (EU) 2017/625 en belast met de taken die aan de bevoegde autoriteit of een lidstaat kunnen worden opgedragen en die niet op grond van de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=15&z=2023-12-29&g=2023-12-29) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=18&z=2023-12-29&g=2023-12-29), of het tweede lid aan de Stichting Skal zijn opgedragen.
 
 2. De Stichting Skal is de controleautoriteit, bedoeld in [artikel 4, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=4) en is:
 
@@ -216,7 +218,7 @@ en belast met deze taken.
 
 Onze Minister is de bevoegde autoriteit, voor:
 
-- a. de officiële controles als bedoeld in artikel 36, derde lid, verordening (EU) 1151/2012 ten aanzien van producten die niet onder de in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=14&z=2023-12-12&g=2023-12-12), bedoelde bevoegdheid van de Stichting KCB vallen;
+- a. de officiële controles als bedoeld in artikel 36, derde lid, verordening (EU) 1151/2012 ten aanzien van producten die niet onder de in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=14&z=2023-12-29&g=2023-12-29), bedoelde bevoegdheid van de Stichting KCB vallen;
 
 - b. artikel 34 van verordening (EU) 1151/2012;
 
@@ -224,7 +226,7 @@ Onze Minister is de bevoegde autoriteit, voor:
 
 ##### Artikel 18
 
-Indien het in het belang van een goede uitvoering van de bij of krachtens [verordening (EU) 2018/848](32748R2018) gestelde voorschriften aangewezen is dat in die voorschriften genoemde taken en bevoegdheden aan de Stichting Skal worden opgedragen, kunnen deze, onverminderd het bepaalde in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=15&z=2023-12-12&g=2023-12-12) en [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=16&z=2023-12-12&g=2023-12-12), worden opgedragen bij ministeriële regeling.
+Indien het in het belang van een goede uitvoering van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=2&z=2023-12-29&g=2023-12-29) genoemde verordeningen of krachtens dat artikel aangewezen EU-rechtshandelingen aangewezen is dat in die voorschriften genoemde taken en bevoegdheden aan de Stichting Skal worden opgedragen, kunnen deze, onverminderd het bepaalde in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=15&z=2023-12-29&g=2023-12-29) en [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=16&z=2023-12-29&g=2023-12-29), worden opgedragen bij ministeriële regeling.
 
 ##### Artikel 19
 
