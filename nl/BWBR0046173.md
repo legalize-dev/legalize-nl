@@ -4,7 +4,7 @@ identifier: "BWBR0046173"
 country: "nl"
 rank: "zbo"
 publication_date: "2023-12-29"
-last_updated: "2023-01-01"
+last_updated: "2023-12-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046173"
 soort: "zbo"
@@ -55,7 +55,7 @@ In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
 - **Digitale patiëntendossier:** Het digitale patiëntendossier is een softwaretoepassing waarin medische en farmaceutische patiëntengegevens en medicatiegegevens in digitale vorm bewaard en beschikbaar gemaakt worden.
 
-- **Farmaceutische zorg:** Zorg zoals omschreven in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=3&z=2023-01-01&g=2023-01-01) (reikwijdte) van deze beleidsregel.
+- **Farmaceutische zorg:** Zorg zoals omschreven in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=3&z=2023-12-29&g=2023-12-29) (reikwijdte) van deze beleidsregel.
 
 - **Geïndividualiseerde distributievorm (GDV):** Een GDV is een specifieke distributie- en verpakkingsvorm (zakjes, containers of een doos met vakjes), waarmee de apotheker overzicht en ordening voor de patiënt aanbrengt in diens geneesmiddelen. In de GDV zijn bij het op naam van de patiënt stellen van de geneesmiddelen, deze geneesmiddelen per dag en in de regel per tijdstip van inname geordend en gereed gemaakt in afzonderlijke compartimenteenheden. Terhandstelling door middel van een GDV (verpakking per innamemoment) is bedoeld voor patiënten die niet in staat zijn zonder de GDV de terhandgestelde geneesmiddelen verantwoord bij zichzelf toe te dienen, dan wel te laten toedienen.
 
@@ -97,45 +97,45 @@ Deze beleidsregel is van toepassing op farmaceutische zorg die omvat advies of b
 
 In het kader van deze beleidsregel worden de volgende prestaties onderscheiden:
 
-- –. Terhandstelling van een geneesmiddel ([art. 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=5&z=2023-01-01&g=2023-01-01))
+- –. Terhandstelling van een geneesmiddel ([art. 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=5&z=2023-12-29&g=2023-12-29))
 
-- –. Terhandstelling door middel van een GDV (verpakking per innamemoment) ([art 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=5&z=2023-01-01&g=2023-01-01))
+- –. Terhandstelling door middel van een GDV (verpakking per innamemoment) ([art 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=5&z=2023-12-29&g=2023-12-29))
 
-- –. Terhandstelling van een nieuw geneesmiddel met begeleidingsgesprek ([art. 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=5&z=2023-01-01&g=2023-01-01))
+- –. Terhandstelling van een nieuw geneesmiddel met begeleidingsgesprek ([art. 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=5&z=2023-12-29&g=2023-12-29))
 
-- –. Instructie geneesmiddel-gerelateerd hulpmiddel ([art. 6](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=6&z=2023-01-01&g=2023-01-01))
+- –. Instructie geneesmiddel-gerelateerd hulpmiddel ([art. 6](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=6&z=2023-12-29&g=2023-12-29))
 
-- –. Medicatiebeoordeling bij chronisch geneesmiddelengebruik ([art. 7](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=7&z=2023-01-01&g=2023-01-01))
+- –. Medicatiebeoordeling bij chronisch geneesmiddelengebruik ([art. 7](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=7&z=2023-12-29&g=2023-12-29))
 
-- –. Farmaceutische begeleiding bij dagbehandeling/polikliniekbezoek ([art. 8](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=8&z=2023-01-01&g=2023-01-01))
+- –. Farmaceutische begeleiding bij dagbehandeling/polikliniekbezoek ([art. 8](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=8&z=2023-12-29&g=2023-12-29))
 
-- –. Farmaceutische begeleiding bij ziekenhuisopname ([art. 9](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=9&z=2023-01-01&g=2023-01-01))
+- –. Farmaceutische begeleiding bij ziekenhuisopname ([art. 9](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=9&z=2023-12-29&g=2023-12-29))
 
-- –. Farmaceutische begeleiding in verband met ontslag uit het ziekenhuis ([art. 10](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=10&z=2023-01-01&g=2023-01-01))
+- –. Farmaceutische begeleiding in verband met ontslag uit het ziekenhuis ([art. 10](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=10&z=2023-12-29&g=2023-12-29))
 
-- –. Voorlichting farmaceutisch zelfmanagement voor patiëntengroep ([art. 11](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=11&z=2023-01-01&g=2023-01-01))
+- –. Voorlichting farmaceutisch zelfmanagement voor patiëntengroep ([art. 11](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=11&z=2023-12-29&g=2023-12-29))
 
-- –. Advies farmaceutische zelfzorg ([art. 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=12&z=2023-01-01&g=2023-01-01))
+- –. Advies farmaceutische zelfzorg ([art. 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=12&z=2023-12-29&g=2023-12-29))
 
-- –. Advies gebruik geneesmiddelen tijdens reis ([art. 13](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=13&z=2023-01-01&g=2023-01-01))
+- –. Advies gebruik geneesmiddelen tijdens reis ([art. 13](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=13&z=2023-12-29&g=2023-12-29))
 
-- –. Advies ziekterisico bij reizen ([art. 14](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=14&z=2023-01-01&g=2023-01-01))
+- –. Advies ziekterisico bij reizen ([art. 14](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=14&z=2023-12-29&g=2023-12-29))
 
-- –. Onderlinge dienstverlening ([art. 15](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=15&z=2023-01-01&g=2023-01-01))
+- –. Onderlinge dienstverlening ([art. 15](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=15&z=2023-12-29&g=2023-12-29))
 
-- –. Facultatieve prestatie ([art. 16](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=16&z=2023-01-01&g=2023-01-01))
+- –. Facultatieve prestatie ([art. 16](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=16&z=2023-12-29&g=2023-12-29))
 
 In het kader van deze beleidsregel worden de volgende deelprestaties onderscheiden:
 
-- –. Dienstverlening in de avond, nacht of op zon- of feestdagen ([art. 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=5&z=2023-01-01&g=2023-01-01), [9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=9&z=2023-01-01&g=2023-01-01) en [10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=10&z=2023-01-01&g=2023-01-01)) Deze deelprestatie kan enkel gezamenlijk in rekening worden gebracht met de prestaties genoemd in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=5&z=2023-01-01&g=2023-01-01), 5.2, 5.3, [9](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=9&z=2023-01-01&g=2023-01-01) of [10](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=10&z=2023-01-01&g=2023-01-01).
+- –. Dienstverlening in de avond, nacht of op zon- of feestdagen ([art. 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=5&z=2023-12-29&g=2023-12-29), [9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=9&z=2023-12-29&g=2023-12-29) en [10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=10&z=2023-12-29&g=2023-12-29)) Deze deelprestatie kan enkel gezamenlijk in rekening worden gebracht met de prestaties genoemd in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=5&z=2023-12-29&g=2023-12-29), 5.2, 5.3, [9](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=9&z=2023-12-29&g=2023-12-29) of [10](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=10&z=2023-12-29&g=2023-12-29).
 
-- –. Apotheekbereiding ([art. 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=5&z=2023-01-01&g=2023-01-01)) Deze deelprestatie kan enkel gezamenlijk in rekening worden gebracht met de prestaties genoemd in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=5&z=2023-01-01&g=2023-01-01), 5.2 of 5.3.
+- –. Apotheekbereiding ([art. 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=5&z=2023-12-29&g=2023-12-29)) Deze deelprestatie kan enkel gezamenlijk in rekening worden gebracht met de prestaties genoemd in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=5&z=2023-12-29&g=2023-12-29), 5.2 of 5.3.
 
-- –. Bijzondere apotheekbereiding ([art. 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=5&z=2023-01-01&g=2023-01-01)) Deze deelprestatie kan enkel gezamenlijk in rekening worden gebracht met de prestaties genoemd in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=5&z=2023-01-01&g=2023-01-01), 5.2 of 5.3.
+- –. Bijzondere apotheekbereiding ([art. 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=5&z=2023-12-29&g=2023-12-29)) Deze deelprestatie kan enkel gezamenlijk in rekening worden gebracht met de prestaties genoemd in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=5&z=2023-12-29&g=2023-12-29), 5.2 of 5.3.
 
-- –. Dienstverlening thuis ([art. 5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=5&z=2023-01-01&g=2023-01-01), [7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=7&z=2023-01-01&g=2023-01-01) en [10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=10&z=2023-01-01&g=2023-01-01)) Deze deelprestatie kan enkel gezamenlijk in rekening worden gebracht met de prestaties genoemd in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=5&z=2023-01-01&g=2023-01-01), 5.2, 5.3, [7](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=7&z=2023-01-01&g=2023-01-01) of [10](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=10&z=2023-01-01&g=2023-01-01).
+- –. Dienstverlening thuis ([art. 5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=5&z=2023-12-29&g=2023-12-29), [7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=7&z=2023-12-29&g=2023-12-29) en [10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=10&z=2023-12-29&g=2023-12-29)) Deze deelprestatie kan enkel gezamenlijk in rekening worden gebracht met de prestaties genoemd in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=5&z=2023-12-29&g=2023-12-29), 5.2, 5.3, [7](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=7&z=2023-12-29&g=2023-12-29) of [10](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=10&z=2023-12-29&g=2023-12-29).
 
-Hierna worden onder [artikelen 5 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=5&z=2023-01-01&g=2023-01-01) de prestaties nader beschreven en onder [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=17&z=2023-01-01&g=2023-01-01) wordt naast de tariefsoort aangegeven op welke wijze elke prestatie kan worden gedeclareerd.
+Hierna worden onder [artikelen 5 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=5&z=2023-12-29&g=2023-12-29) de prestaties nader beschreven en onder [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=17&z=2023-12-29&g=2023-12-29) wordt naast de tariefsoort aangegeven op welke wijze elke prestatie kan worden gedeclareerd.
 
 ##### Artikel 5. Terhandstelling van een geneesmiddel
 
@@ -179,23 +179,21 @@ De voorschriften op het recept zijn bepalend voor de declaratie van de zorgaanbi
 
 2. Terhandstelling door middel van een GDV (verpakking per innamemoment)
 
-Een ‘Terhandstelling door middel van een GDV (verpakking per innamemoment)’ kan in rekening gebracht worden wanneer geneesmiddelen in gezamenlijke besluitvorming met voorschrijver en patiënt (en/of diens verzorger) worden ter hand gesteld voor in beginsel een periode van een week of voor meerdere weken tegelijk voor een individuele patiënt door middel van een GDV. In uitzonderlijke situaties kan het noodzakelijk zijn om de GDV ter hand te stellen voor een periode korter dan een week.
+Een 'Terhandstelling door middel van een GDV (verpakking per innamemoment)' kan in rekening worden gebracht wanneer geneesmiddelen in gezamenlijke besluitvorming met voorschrijver en patiënt (en/of diens verzorger) worden ter hand gesteld voor in beginsel een periode van een week of voor meerdere weken tegelijk voor een individuele patiënt door middel van een GDV. In uitzonderlijke situaties kan het noodzakelijk zijn om de GDV ter hand te stellen voor een periode korter dan een week.
 
-De prestatie wordt in rekening gebracht per terhandstelling door middel van een GDV en wel voor het geheel aan geneesmiddelen in de GDV.
-
-Om deze prestatie te kunnen declareren, dienen de activiteiten uit [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=5&z=2023-01-01&g=2023-01-01) ‘Terhandstelling van een geneesmiddel’ te zijn uitgevoerd, aangevuld met onderstaande activiteiten:
+Om deze prestatie te kunnen declareren, dienen de activiteiten uit artikel 5.1 'Terhandstelling van een geneesmiddel' te zijn uitgevoerd, aangevuld met onderstaande activiteiten:
 
 - 1. De vaststelling dat de patiënt niet in staat is zonder een GDV de terhandgestelde geneesmiddelen verantwoord bij zichzelf toe te dienen, dan wel te laten toedienen.
 
 - 2. Een intakegesprek met patiënt en/of diens verzorger bij de start met een GDV. Dit gesprek bestaat ten minste uit de volgende onderdelen:
 
-- –. het bespreken van de redenen voor het starten van een GDV;
+- o. het bespreken van de redenen voor het starten van een GDV;
 
-- –. het geven van instructie over het gebruik van de GDV;
+- o. het geven van instructie over het gebruik van de GDV;
 
-- –. het inventariseren welke andere (zelfzorg)middelen de patiënt gebruikt;
+- o. het inventariseren welke andere (zelfzorg)middelen de patiënt gebruikt;
 
-- –. het bespreken van de dosering(sfrequentie) en innametijden.
+- o. het bespreken van de dosering(sfrequentie) en innametijden.
 
 - 3. Een periodieke evaluatie van het gebruik en de medische noodzakelijkheid van een GDV.
 
@@ -205,11 +203,11 @@ De prestatie kan niet in rekening worden gebracht voor verzekerden die aanspraak
 
 3. Terhandstelling van een nieuw geneesmiddel met begeleidingsgesprek
 
-Er is sprake van ‘Terhandstelling van een nieuw geneesmiddel met begeleidingsgesprek’ indien alle activiteiten zoals genoemd in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=5&z=2023-01-01&g=2023-01-01) ‘Terhandstelling van een geneesmiddel’ of artikel 5.2 ‘Terhandstelling door middel van een GDV (verpakking per innamemoment)’ zijn uitgevoerd en het begeleidingsgesprek bij een nieuw UR-geneesmiddel (zie begripsomschrijving) is gevoerd.
+Er is sprake van ‘Terhandstelling van een nieuw geneesmiddel met begeleidingsgesprek’ indien alle activiteiten zoals genoemd in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=5&z=2023-12-29&g=2023-12-29) ‘Terhandstelling van een geneesmiddel’ of artikel 5.2 ‘Terhandstelling door middel van een GDV (verpakking per innamemoment)’ zijn uitgevoerd en het begeleidingsgesprek bij een nieuw UR-geneesmiddel (zie begripsomschrijving) is gevoerd.
 
 Deze prestatie mag alleen per voorschrift in rekening worden gebracht, met uitzondering van geneesmiddelen als bedoeld in [artikel 6.8 van de Regeling Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0022160&artikel=6.8) (orale anticonceptiva, niet-orale anticonceptiva die UR-geneesmiddelen zijn, en insuline).
 
-En de prestatie ‘Terhandstelling van een nieuw geneesmiddel met begeleidingsgesprek’ kan enkel worden gedeclareerd indien de activiteiten genoemd in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=5&z=2023-01-01&g=2023-01-01) ‘Terhandstelling van een geneesmiddel’ of artikel 5.2 ‘Terhandstelling door middel van een GDV (verpakking per innamemoment)’ en het begeleidingsgesprek bij een nieuw UR-geneesmiddel zijn uitgevoerd, en:
+En de prestatie ‘Terhandstelling van een nieuw geneesmiddel met begeleidingsgesprek’ kan enkel worden gedeclareerd indien de activiteiten genoemd in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=5&z=2023-12-29&g=2023-12-29) ‘Terhandstelling van een geneesmiddel’ of artikel 5.2 ‘Terhandstelling door middel van een GDV (verpakking per innamemoment)’ en het begeleidingsgesprek bij een nieuw UR-geneesmiddel zijn uitgevoerd, en:
 
 - (i). een UR-geneesmiddel met dezelfde werkzame stof en toedieningsvorm niet eerder aan de patiënt ter hand is gesteld, of
 
@@ -219,7 +217,7 @@ En de prestatie ‘Terhandstelling van een nieuw geneesmiddel met begeleidingsge
 
 4. Deelprestatie Dienstverlening in de avond, nacht of op zon- of feestdagen
 
-De deelprestatie Dienstverlening in de avond, nacht of op zon- of feestdagen kan in rekening worden gebracht tezamen met de prestatie onder [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=5&z=2023-01-01&g=2023-01-01), 5.2 of 5.3 indien voldaan wordt aan de begripsbepaling van de ANZ-dienstverlening.
+De deelprestatie Dienstverlening in de avond, nacht of op zon- of feestdagen kan in rekening worden gebracht tezamen met de prestatie onder [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=5&z=2023-12-29&g=2023-12-29), 5.2 of 5.3 indien voldaan wordt aan de begripsbepaling van de ANZ-dienstverlening.
 
 5. Deelprestatie Apotheekbereiding
 
@@ -227,7 +225,7 @@ Voor de dienstverlening die direct samenhangt met het ter hand stellen van een U
 
 De deelprestatie Apotheekbereiding kan in rekening worden gebracht, indien:
 
-- –. er geen sprake is van een bijzondere magistrale bereiding, zoals bedoeld in [artikel 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=5&z=2023-01-01&g=2023-01-01), en
+- –. er geen sprake is van een bijzondere magistrale bereiding, zoals bedoeld in [artikel 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=5&z=2023-12-29&g=2023-12-29), en
 
 - –. het de bereiding van een voorgeschreven UR-geneesmiddel betreft, en
 
@@ -247,7 +245,7 @@ De deelprestatie Bijzondere apotheekbereiding kan in rekening worden gebracht, i
 
 7. Deelprestatie Dienstverlening thuis
 
-De deelprestatie dienstverlening thuis kan in rekening worden gebracht tezamen met de prestatie onder [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=5&z=2023-01-01&g=2023-01-01), 5.2 of 5.3 indien voldaan wordt aan de begripsbepaling van dienstverlening thuis.
+De deelprestatie dienstverlening thuis kan in rekening worden gebracht tezamen met de prestatie onder [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=5&z=2023-12-29&g=2023-12-29), 5.2 of 5.3 indien voldaan wordt aan de begripsbepaling van dienstverlening thuis.
 
 ##### Artikel 6. Instructie geneesmiddel-gerelateerd hulpmiddel
 
@@ -271,7 +269,7 @@ Om deze prestatie te kunnen declareren dienen alle onderstaande activiteiten ten
 
 - 6. de verslaglegging van de medicatiebeoordeling, het vastgestelde farmacotherapeutisch behandelplan en de evaluatie van de afgesproken acties hierin, vindt plaats in het digitale patiëntendossier.
 
-- 1. Deelprestatie Dienstverlening thuis De deelprestatie Dienstverlening thuis kan in rekening worden gebracht tezamen met de prestatie in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=7&z=2023-01-01&g=2023-01-01) indien voldaan wordt aan de begripsbepaling van dienstverlening thuis.
+- 1. Deelprestatie Dienstverlening thuis De deelprestatie Dienstverlening thuis kan in rekening worden gebracht tezamen met de prestatie in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=7&z=2023-12-29&g=2023-12-29) indien voldaan wordt aan de begripsbepaling van dienstverlening thuis.
 
 ##### Artikel 8. Farmaceutische begeleiding bij dagbehandeling/polikliniekbezoek
 
@@ -351,7 +349,7 @@ De uitvoerende zorgaanbieder brengt de prestatie ‘onderlinge dienstverlening�
 
 ##### Artikel 16. Facultatieve prestatie
 
-De NZa kan een prestatiebeschrijving vaststellen voor de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=3&z=2023-01-01&g=2023-01-01) aangeduide zorg die afwijkt van de hiervoor vermelde prestatiebeschrijvingen, indien ten minste één zorgaanbieder en ten minste één ziektekostenverzekeraar gezamenlijk daarom verzoeken. Andere verzoeken dan gezamenlijke worden zonder inhoudelijke beoordeling afgewezen.
+De NZa kan een prestatiebeschrijving vaststellen voor de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=3&z=2023-12-29&g=2023-12-29) aangeduide zorg die afwijkt van de hiervoor vermelde prestatiebeschrijvingen, indien ten minste één zorgaanbieder en ten minste één ziektekostenverzekeraar gezamenlijk daarom verzoeken. Andere verzoeken dan gezamenlijke worden zonder inhoudelijke beoordeling afgewezen.
 
 De door de NZa vastgestelde prestatie kan in rekening worden gebracht door een zorgaanbieder indien hier een schriftelijke overeenkomst met een ziektekostenverzekeraar aan ten grondslag ligt.
 
@@ -381,11 +379,11 @@ Indien de aanvraag niet voldoet aan de gestelde voorwaarden zal de NZa de beoord
 
 Voor de prestaties zoals vastgelegd in deze beleidsregel gelden vrije tarieven.
 
-Voor de prestaties zoals bedoeld in [artikelen 5 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=5&z=2023-01-01&g=2023-01-01) en [12 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=12&z=2023-01-01&g=2023-01-01) geldt een tarief per keer.
+Voor de prestaties zoals bedoeld in [artikelen 5 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=5&z=2023-12-29&g=2023-12-29) en [12 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=12&z=2023-12-29&g=2023-12-29) geldt een tarief per keer.
 
-Voor de prestatie zoals bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=11&z=2023-01-01&g=2023-01-01) geldt een tarief per patiënt per bijeenkomst.
+Voor de prestatie zoals bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=11&z=2023-12-29&g=2023-12-29) geldt een tarief per patiënt per bijeenkomst.
 
-Voor de prestatie als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=16&z=2023-01-01&g=2023-01-01) geldt een tarief dat afhankelijk is van de inhoud van de prestatie.
+Voor de prestatie als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=16&z=2023-12-29&g=2023-12-29) geldt een tarief dat afhankelijk is van de inhoud van de prestatie.
 
 ##### Artikel 18. Intrekken oude beleidsregel
 
