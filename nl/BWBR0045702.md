@@ -4,7 +4,7 @@ identifier: "BWBR0045702"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-11-15"
-last_updated: "2021-10-16"
+last_updated: "2023-12-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045702"
 soort: "ministeriele-regeling"
@@ -70,13 +70,13 @@ Aan het bestuur van de NEa wordt mandaat verleend voor het verlenen van instemmi
 
 ##### Artikel 4
 
-1. In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045702&paragraaf=2&artikel=3&z=2021-10-16&g=2021-10-16) geldt voor de volgende P&O-aangelegenheden dat deze slechts in overeenstemming met de directeur Bedrijfsvoering van het Ministerie van Economische Zaken en Klimaat kunnen plaatsvinden:
+1. In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045702&paragraaf=2&artikel=3&z=2023-12-29&g=2023-12-29) geldt voor de volgende P&O-aangelegenheden dat deze slechts in overeenstemming met de directeur Bedrijfsvoering van het Ministerie van Economische Zaken en Klimaat kunnen plaatsvinden:
 
 - a. het opleggen van straffen als bedoeld in hoofdstuk 15 van de CAO Rijk;
 
 - b. het toekennen van financiële tegemoetkomingen op grond van sociaal flankerend beleid.
 
-2. In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045702&paragraaf=2&artikel=3&z=2021-10-16&g=2021-10-16) geldt de volmacht en de machtiging niet voor de volgende P&O-aangelegenheden:
+2. In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045702&paragraaf=2&artikel=3&z=2023-12-29&g=2023-12-29) geldt de volmacht en de machtiging niet voor de volgende P&O-aangelegenheden:
 
 - a. de mogelijkheid van hoofdstuk 2 van de CAO Rijk om tijdelijke arbeidsovereenkomsten in zeer bijzondere situaties te sluiten, waarbij wordt afgeweken van hetgeen is geregeld in de CAO Rijk;
 
@@ -139,5 +139,21 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging Nederlandse Emissieautoriteit 2021.
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 2a
+
+Aan het bestuur van de NEa wordt mandaat en machtiging verleend voor het opvragen en verwerken van alle nodige gegevens voor de toepassing, waaronder de voorbereiding van de toepassing, van artikel 6 van [Verordening (EU) 2022/1854](32022R1854) van de Raad van 6 oktober 2022, betreffende een noodinterventie in verband met de hoge energieprijzen, Pb. EU L 261 I/1, overeenkomstig artikel 7, zesde lid, van deze verordening.
+
+#### § 3. Ondermandaat
+
+#### § 4. Instructies
+
+#### § 5. Overgangs- en slotbepalingen
+
+##### Artikel 8*
+
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
