@@ -4,7 +4,7 @@ identifier: "BWBR0041852"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-02-15"
-last_updated: "2022-10-08"
+last_updated: "2023-12-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041852"
 soort: "ministeriele-regeling"
@@ -186,17 +186,17 @@ Aan de regioambassadeurs wordt, ieder voor zich, ondermandaat, volmacht en macht
 
 Aan de Commissaris Militaire Productie wordt ondermandaat, volmacht en machtiging verleend op zijn werkterrein, met uitzondering van:
 
-- a. door de Tweede Kamer der Staten-Generaal goedgekeurde defensieprojecten die een bedrag van € 50.000.000 te boven gaan;
+- a. door de Tweede Kamer der Staten-Generaal goedgekeurde defensieprojecten die een compensatiewaarde of industriële-participatiewaarde van een bedrag van € 100.000.000 te boven gaan;
 
 - b. niet vooraf door de Tweede Kamer der Staten-Generaal goedgekeurde defensieprojecten.
 
 ##### Artikel 11
 
-Aan de Compensatieadviseurs Militaire Productie word, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden met betrekking tot een in het kader van een compensatieovereenkomst ingediende claim die een bedrag van € 2.500.000 niet te boven gaan.
+Aan de industriële-participatieadviseurs Militaire Productie wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden met betrekking tot een in het kader van een compensatieovereenkomst of industriële-participatieovereenkomst ingediende claim die een bedrag van € 2.500.000 niet te boven gaan.
 
 ##### Artikel 12
 
-Aan de Compensatieadministrateurs Militaire Productie wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden met betrekking tot een in het kader van een compensatieovereenkomst ingediende claim die een bedrag van € 250.000 niet te boven gaan.
+Aan de industriële-participatieadministrateurs Militaire Productie wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden met betrekking tot een in het kader van een compensatieovereenkomst of industriële-participatieovereenkomst ingediende claim die een bedrag van €250.000 niet te boven gaan.
 
 #### § 3. Vervanging
 
