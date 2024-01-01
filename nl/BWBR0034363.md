@@ -4,7 +4,7 @@ identifier: "BWBR0034363"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2021-07-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034363"
 soort: "wet"
@@ -50,7 +50,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- **beheerder:** beheerder van de lokale spoorweginfrastructuur die als zodanig is aangewezen op grond van [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=3&artikel=18&z=2021-07-01&g=2021-07-01);
+- **beheerder:** beheerder van de lokale spoorweginfrastructuur die als zodanig is aangewezen op grond van [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=3&artikel=18&z=2024-01-01&g=2024-01-01);
 
 - **dagelijks bestuur:** dagelijks bestuur van een openbaar lichaam als bedoeld in [artikel 20, derde lid, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=20);
 
@@ -58,11 +58,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **Locaalspoor- en Tramwegwet:** [Wet van 9 juli 1900, houdende nadere regeling van den dienst en het gebruik van spoorwegen, waarop uitsluitend met beperkte snelheid wordt vervoerd](https://wetten.overheid.nl/jci1.3:c:BWBR0001866) (Stb. 1900, 118);
 
-- **lokaal spoorwegverkeerssysteem:** verkeerssysteem van de krachtens [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=1&artikel=2&z=2021-07-01&g=2021-07-01), als zodanig aangewezen lokale spoorweg;
+- **lokaal spoorwegverkeerssysteem:** verkeerssysteem van de krachtens [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=1&artikel=2&z=2024-01-01&g=2024-01-01), als zodanig aangewezen lokale spoorweg;
 
-- **lokale spoorweg:** spoorweg die krachtens [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=1&artikel=2&z=2021-07-01&g=2021-07-01), als zodanig is aangewezen;
+- **lokale spoorweg:** spoorweg die krachtens [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=1&artikel=2&z=2024-01-01&g=2024-01-01), als zodanig is aangewezen;
 
-- **lokale spoorweginfrastructuur:** de elementen, bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=1&artikel=2&z=2021-07-01&g=2021-07-01);
+- **lokale spoorweginfrastructuur:** de elementen, bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=1&artikel=2&z=2024-01-01&g=2024-01-01);
 
 - **Metroreglement:** [Besluit van 30 oktober 1981, houdende vaststelling van een Algemeen reglement voor de stadsspoorwegen](https://wetten.overheid.nl/jci1.3:c:BWBR0003454) (Stb. 1981, 700);
 
@@ -80,7 +80,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **spoorwegveiligheidsrichtlijn:** richtlijn (EU) 2016/798 van het Europees Parlement en de Raad inzake veiligheid op het spoor (PbEU L 2016, 138);
 
-- **toezichthouder:** de bij besluit van Onze Minister aangewezen personen, bedoeld in [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=7&artikel=42&z=2021-07-01&g=2021-07-01);
+- **toezichthouder:** de bij besluit van Onze Minister aangewezen personen, bedoeld in [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=7&artikel=42&z=2024-01-01&g=2024-01-01);
 
 - **vervoerder:** onderneming die met een spoorvoertuig vervoer verricht over een lokale spoorweg;
 
@@ -150,7 +150,9 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 2. Het dagelijks bestuur draagt zorg voor de aanleg en het beheer van de lokale spoorweginfrastructuur, voor zover die gelegen is in het krachtens [artikel 20, derde lid, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=20) aangewezen gebied.
 
-3. Gedeputeerde staten onderscheidenlijk het dagelijks bestuur kunnen hun bevoegdheden, bedoeld in de [artikelen 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=9&z=2021-07-01&g=2021-07-01), [10 derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=10&z=2021-07-01&g=2021-07-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=11&z=2021-07-01&g=2021-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=12&z=2021-07-01&g=2021-07-01), [17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=3&artikel=17&z=2021-07-01&g=2021-07-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=3&artikel=18&z=2021-07-01&g=2021-07-01), [20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=3&artikel=20&z=2021-07-01&g=2021-07-01), [21, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=3&artikel=21&z=2021-07-01&g=2021-07-01), [22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=3&artikel=22&z=2021-07-01&g=2021-07-01), [24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=4&artikel=24&z=2021-07-01&g=2021-07-01), [32, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=32&z=2021-07-01&g=2021-07-01), [33, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=33&z=2021-07-01&g=2021-07-01), [34, eerste en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=34&z=2021-07-01&g=2021-07-01), en [35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=35&z=2021-07-01&g=2021-07-01), overdragen aan het college van burgemeester en wethouders van een van de in het gebied van die provincie of in het krachtens [artikel 20, derde lid, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=20) aangewezen gebied liggende gemeenten.
+3. Gedeputeerde staten onderscheidenlijk het dagelijks bestuur kunnen hun bevoegdheden, bedoeld in de [artikelen 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=9&z=2024-01-01&g=2024-01-01), [10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=10&z=2024-01-01&g=2024-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=11&z=2024-01-01&g=2024-01-01), [17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=3&artikel=17&z=2024-01-01&g=2024-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=3&artikel=18&z=2024-01-01&g=2024-01-01), [20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=3&artikel=20&z=2024-01-01&g=2024-01-01), [21, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=3&artikel=21&z=2024-01-01&g=2024-01-01), [22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=3&artikel=22&z=2024-01-01&g=2024-01-01), [24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=4&artikel=24&z=2024-01-01&g=2024-01-01), [32, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=32&z=2024-01-01&g=2024-01-01), [33, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=33&z=2024-01-01&g=2024-01-01), [34, eerste en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=34&z=2024-01-01&g=2024-01-01), en [35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=35&z=2024-01-01&g=2024-01-01), overdragen aan het college van burgemeester en wethouders van een van de in het gebied van die provincie of in het krachtens [artikel 20, derde lid, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=20) aangewezen gebied liggende gemeenten.
+
+4. Het dagelijks bestuur kan zijn bevoegdheid, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=12&z=2024-01-01&g=2024-01-01), overdragen aan het college van burgemeester en wethouders van een van de in het krachtens [artikel 20, derde lid, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=20) aangewezen gebied liggende gemeenten.
 
 ##### Artikel 5
 
@@ -168,7 +170,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 6
 
-1. Onverminderd [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=5&z=2021-07-01&g=2021-07-01), wordt nieuwe ondergrondse lokale spoorweginfrastructuur zodanig aangelegd dat:
+1. Onverminderd [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=5&z=2024-01-01&g=2024-01-01), wordt nieuwe ondergrondse lokale spoorweginfrastructuur zodanig aangelegd dat:
 
 - a. reizigers te allen tijde een spoorvoertuig kunnen verlaten en het dichtstbijzijnde station, een nooduitgang of een plaats die bereikbaar is vanaf de voor het openbaar verkeer openstaande weg, kunnen bereiken; en
 
@@ -184,41 +186,23 @@ werkzaamheden naar behoren uit te voeren.
 
 ##### Artikel 7
 
-1. Lokale spoorweginfrastructuur wordt voor de toepassing van de [Belemmeringenwet Privaatrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001936) aangemerkt als openbaar werk van algemeen nut.
-
-2. Indien voor de aanleg van lokale spoorweginfrastructuur toepassing van de [Belemmeringenwet Privaatrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001936) noodzakelijk is:
-
-- a. kan Onze Minister in afwijking van [artikel 2, vierde lid, van de Belemmeringenwet Privaatrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001936&artikel=2):
-
-- 1°. een andere plaats of gemeente aanwijzen waar de zitting plaatsvindt;
-
-- 2°. bepalen dat de zitting wordt geleid door een door Onze Minister aan te wijzen persoon;
-
-- b. worden in afwijking van de [artikelen 2, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001936&artikel=2), en [3, derde lid, van de Belemmeringenwet Privaatrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001936&artikel=3) gedeputeerde staten niet gehoord;
-
-- c. geldt in plaats van [artikel 4 van de Belemmeringenwet Privaatrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001936&artikel=4) dat:
-
-- 1°. tegen een besluit als bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001936&artikel=2), of [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001936&artikel=3), van die wet een belanghebbende beroep kan instellen bij de Afdeling bestuursrechtspraak van de Raad van State;
-
-- 2°. [artikel 7:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1) niet van toepassing is;
-
-- 3°. de werking van een besluit als bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001936&artikel=2), of [artikel 3, tweede lid, van de Belemmeringenwet Privaatrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001936&artikel=3) opgeschort wordt totdat de termijn voor het indienen van een beroepschrift is verstreken.
+Vervallen
 
 ##### Artikel 8
 
-Onverminderd het recht op schadevergoeding, is een ieder verplicht het beheer van de lokale spoorweginfrastructuur te gedogen voor zover dit voor de goede uitvoering van het beheer noodzakelijk is.
+Vervallen
 
 ##### Artikel 9
 
 1. Het is verboden om lokale spoorweginfrastructuur in dienst te stellen zonder dat daarvoor een vergunning voor indienststelling is verleend door gedeputeerde staten onderscheidenlijk het dagelijks bestuur.
 
-2. Gedeputeerde staten onderscheidenlijk het dagelijks bestuur verlenen de vergunning, bedoeld in het eerste lid, indien de lokale spoorweginfrastructuur voldoet aan de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=5&z=2021-07-01&g=2021-07-01) en [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=6&z=2021-07-01&g=2021-07-01).
+2. Gedeputeerde staten onderscheidenlijk het dagelijks bestuur verlenen de vergunning, bedoeld in het eerste lid, indien de lokale spoorweginfrastructuur voldoet aan de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=5&z=2024-01-01&g=2024-01-01) en [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=6&z=2024-01-01&g=2024-01-01).
 
-3. Bij de aanvraag van een vergunning als bedoeld in het eerste lid wordt een schriftelijke verklaring van de toezichthouder overlegd waarin is beschreven in hoeverre de lokale spoorweginfrastructuur voldoet aan de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=5&z=2021-07-01&g=2021-07-01) en [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=6&z=2021-07-01&g=2021-07-01).
+3. Bij de aanvraag van een vergunning als bedoeld in het eerste lid wordt een schriftelijke verklaring van de toezichthouder overlegd waarin is beschreven in hoeverre de lokale spoorweginfrastructuur voldoet aan de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=5&z=2024-01-01&g=2024-01-01) en [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=6&z=2024-01-01&g=2024-01-01).
 
 4. Een vergunning als bedoeld in het eerste lid kan onder beperkingen worden verleend. Aan een vergunning kunnen voorschriften worden verbonden in het belang van de veiligheid op en in de directe nabijheid van de lokale spoorweg.
 
-5. De beheerder levert ten behoeve van de verklaring, bedoeld in het derde lid, aan gedeputeerde staten onderscheidenlijk het dagelijks bestuur en aan de toezichthouder een informatiedossier aan waarin de technische specificaties van de lokale spoorweginfrastructuur worden beschreven en gedocumenteerd en waaruit blijkt dat de lokale spoorweginfrastructuur voldoet aan de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=5&z=2021-07-01&g=2021-07-01) en [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=6&z=2021-07-01&g=2021-07-01).
+5. De beheerder levert ten behoeve van de verklaring, bedoeld in het derde lid, aan gedeputeerde staten onderscheidenlijk het dagelijks bestuur en aan de toezichthouder een informatiedossier aan waarin de technische specificaties van de lokale spoorweginfrastructuur worden beschreven en gedocumenteerd en waaruit blijkt dat de lokale spoorweginfrastructuur voldoet aan de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=5&z=2024-01-01&g=2024-01-01) en [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=6&z=2024-01-01&g=2024-01-01).
 
 6. Bij ministeriële regeling kunnen nadere regels worden gesteld over de schriftelijke verklaring, bedoeld in het derde lid en het informatiedossier, bedoeld in het vijfde lid.
 
@@ -230,7 +214,7 @@ Onverminderd het recht op schadevergoeding, is een ieder verplicht het beheer va
 
 - a. voordat de beheerder een informatiedossier aan gedeputeerde staten onderscheidenlijk het dagelijks bestuur, aan de toezichthouder en aan de betrokken vervoerder of vervoerders heeft overlegd, waarin de verbetering, vernieuwing of wijziging is beschreven en gedocumenteerd; en
 
-- b. zonder een voor die verbetering, vernieuwing of wijziging verleende vergunning voor indienststelling als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=9&z=2021-07-01&g=2021-07-01), indien gedeputeerde staten onderscheidenlijk het dagelijks bestuur die krachtens het derde lid eisen.
+- b. zonder een voor die verbetering, vernieuwing of wijziging verleende vergunning voor indienststelling als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=9&z=2024-01-01&g=2024-01-01), indien gedeputeerde staten onderscheidenlijk het dagelijks bestuur die krachtens het derde lid eisen.
 
 2. Van een aanmerkelijke verbetering, vernieuwing of wijziging als bedoeld in het eerste lid is sprake indien de gebruiksmogelijkheden van de lokale spoorweginfrastructuur aanmerkelijk veranderen door wijziging van de technische of functionele eigenschappen.
 
@@ -240,33 +224,15 @@ Onverminderd het recht op schadevergoeding, is een ieder verplicht het beheer va
 
 ##### Artikel 11
 
-Gedeputeerde staten onderscheidenlijk het dagelijks bestuur kunnen een vergunning als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=9&z=2021-07-01&g=2021-07-01) schorsen of intrekken indien:
+Gedeputeerde staten onderscheidenlijk het dagelijks bestuur kunnen een vergunning als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=9&z=2024-01-01&g=2024-01-01) schorsen of intrekken indien:
 
 - a. dat naar het oordeel van gedeputeerde staten onderscheidenlijk het dagelijks bestuur noodzakelijk is in verband met de veiligheid op en in de directe nabijheid van de lokale spoorweg;
 
-- b. de lokale spoorweginfrastructuur niet meer voldoet aan de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=5&z=2021-07-01&g=2021-07-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=6&z=2021-07-01&g=2021-07-01).
+- b. de lokale spoorweginfrastructuur niet meer voldoet aan de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=5&z=2024-01-01&g=2024-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=6&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 12
 
-1. Het is verboden op, in, boven, naast of onder de lokale spoorweg werkzaamheden uit te voeren of te doen uitvoeren of zaken te plaatsen zonder daartoe verleende vergunning van gedeputeerde staten onderscheidenlijk het dagelijks bestuur.
-
-2. De vergunning als bedoeld in het eerste lid wordt geweigerd, indien de veiligheid op en in de directe nabijheid van de lokale spoorweginfrastructuur in gevaar wordt gebracht door de werkzaamheden of zaken, bedoeld in het eerste lid.
-
-3. De vergunning als bedoeld in het eerste lid kan tevens worden geweigerd ter verzekering van het doelmatig gebruik van de lokale spoorweginfrastructuur.
-
-4. Een vergunning als bedoeld in het eerste lid is niet vereist indien de werkzaamheden worden verricht door of namens:
-
-- a. de beheerder in verband met het beheer van de lokale spoorweginfrastructuur of de aanleg van nieuwe lokale spoorweginfrastructuur;
-
-- b. de beheerder van een hoofdspoorweg of bijzondere spoorweg als bedoeld in [artikel 2, tweede of derde lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=2), in verband met het door hem uit te voeren beheer van aan de lokale spoorweg aangrenzende spoorweginfrastructuur, mits de werkzaamheden de veiligheid op en in de directe nabijheid van de lokale spoorweginfrastructuur niet in gevaar brengen of de mogelijkheden voor doelmatig gebruik van de lokale spoorweginfrastructuur niet in het geding komen.
-
-5. De vergunning kan onder beperkingen worden verleend. Aan de vergunning kunnen voorschriften worden verbonden in het belang van een veilig gebruik van de lokale spoorweg.
-
-6. Gedeputeerde staten onderscheidenlijk het dagelijks bestuur stellen het ruimtelijk profiel vast waarbinnen het vergunningsvereiste, bedoeld in het eerste lid, geldt.
-
-7. Gedeputeerde staten onderscheidenlijk het dagelijks bestuur kunnen nadere regels stellen ter uitvoering van het eerste lid.
-
-8. In afwijking van het eerste lid is in de door gedeputeerde staten onderscheidenlijk het dagelijks bestuur aangewezen gevallen geen vergunning vereist.
+Het dagelijks bestuur wijst het beperkingengebied aan waarbinnen het vergunningsvereiste, bedoeld in [artikel 5.1, tweede lid, aanhef en onder f, onder 4°, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1) geldt, voor zover dat beperkingengebied gelegen is in het krachtens [artikel 20, derde lid, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=20) aangewezen gebied.
 
 ##### Artikel 13
 
@@ -324,9 +290,9 @@ De rechthebbende wiens onroerende zaak door de lokale spoorweg wordt afgesneden 
 
 1. Gedeputeerde staten onderscheidenlijk het dagelijks bestuur wijzen ten behoeve van het beheer van de lokale spoorweginfrastructuur voor een door hen te bepalen termijn een of meerdere beheerders aan.
 
-2. Een aanwijzing kan uitsluitend plaatsvinden indien de beheerder beschikt over een veiligheidsbeheersysteem als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=3&artikel=19&z=2021-07-01&g=2021-07-01).
+2. Een aanwijzing kan uitsluitend plaatsvinden indien de beheerder beschikt over een veiligheidsbeheersysteem als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=3&artikel=19&z=2024-01-01&g=2024-01-01).
 
-3. De op grond van het eerste lid aan te wijzen beheerder overlegt ten behoeve van de aanwijzing een schriftelijke verklaring van de toezichthouder waaruit blijkt in hoeverre hij in staat is om bij de start van zijn werkzaamheden te beschikken over een veiligheidsbeheersysteem dat voldoet aan [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=3&artikel=19&z=2021-07-01&g=2021-07-01).
+3. De op grond van het eerste lid aan te wijzen beheerder overlegt ten behoeve van de aanwijzing een schriftelijke verklaring van de toezichthouder waaruit blijkt in hoeverre hij in staat is om bij de start van zijn werkzaamheden te beschikken over een veiligheidsbeheersysteem dat voldoet aan [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=3&artikel=19&z=2024-01-01&g=2024-01-01).
 
 4. Gedeputeerde staten onderscheidenlijk het dagelijks bestuur houden bij de aanwijzing van een beheerder rekening met gerechtvaardigde belangen van de rechthebbende op de lokale spoorweginfrastructuur.
 
@@ -342,9 +308,9 @@ De rechthebbende wiens onroerende zaak door de lokale spoorweg wordt afgesneden 
 
 - a. niet adequaat door de beheerder wordt toegepast; of
 
-- b. niet meer voldoet aan de in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=3&artikel=19&z=2021-07-01&g=2021-07-01) bedoelde eisen.
+- b. niet meer voldoet aan de in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=3&artikel=19&z=2024-01-01&g=2024-01-01) bedoelde eisen.
 
-10. Een intrekking op de gronden, genoemd in het negende lid, vindt niet plaats dan nadat gedeputeerde staten onderscheidenlijk het dagelijks bestuur de beheerder in de gelegenheid hebben gesteld om binnen een door hen te bepalen termijn het veiligheidsbeheersysteem adequaat toe te passen respectievelijk alsnog te voldoen aan [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=3&artikel=19&z=2021-07-01&g=2021-07-01).
+10. Een intrekking op de gronden, genoemd in het negende lid, vindt niet plaats dan nadat gedeputeerde staten onderscheidenlijk het dagelijks bestuur de beheerder in de gelegenheid hebben gesteld om binnen een door hen te bepalen termijn het veiligheidsbeheersysteem adequaat toe te passen respectievelijk alsnog te voldoen aan [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=3&artikel=19&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 19
 
@@ -354,11 +320,11 @@ De rechthebbende wiens onroerende zaak door de lokale spoorweg wordt afgesneden 
 
 - b. bevat procedures om te voldoen aan het bepaalde in het tweede lid en het krachtens het derde lid bepaalde;
 
-- c. bevat, voor zover op grond van [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=9&z=2021-07-01&g=2021-07-01), beperkingen of voorschriften zijn verbonden aan een vergunning voor indienststelling, procedures om te voldoen aan die beperkingen of voorschriften;
+- c. bevat, voor zover op grond van [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=9&z=2024-01-01&g=2024-01-01), beperkingen of voorschriften zijn verbonden aan een vergunning voor indienststelling, procedures om te voldoen aan die beperkingen of voorschriften;
 
-- d. bevat, voor zover op grond van [artikel 18, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=3&artikel=18&z=2021-07-01&g=2021-07-01), voorschriften zijn verbonden aan de aanwijzing van de beheerder, procedures om te voldoen aan die voorschriften; en
+- d. bevat, voor zover op grond van [artikel 18, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=3&artikel=18&z=2024-01-01&g=2024-01-01), voorschriften zijn verbonden aan de aanwijzing van de beheerder, procedures om te voldoen aan die voorschriften; en
 
-- e. bevat procedures om te voldoen aan [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=3&artikel=20&z=2021-07-01&g=2021-07-01).
+- e. bevat procedures om te voldoen aan [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=3&artikel=20&z=2024-01-01&g=2024-01-01).
 
 2. Het veiligheidsbeheersysteem is op zodanige wijze geoperationaliseerd en wordt op zodanige wijze toegepast dat de beheerder:
 
@@ -380,7 +346,7 @@ De rechthebbende wiens onroerende zaak door de lokale spoorweg wordt afgesneden 
 
 ##### Artikel 20
 
-1. De lokale spoorweginfrastructuur waarover vervoer wordt verricht wordt door de beheerder zodanig beheerd dat de lokale spoorweginfrastructuur blijft voldoen aan de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=8&z=2021-07-01&g=2021-07-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=6&z=2021-07-01&g=2021-07-01).
+1. De lokale spoorweginfrastructuur waarover vervoer wordt verricht wordt door de beheerder zodanig beheerd dat de lokale spoorweginfrastructuur blijft voldoen aan de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=8&z=2024-01-01&g=2024-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=6&z=2024-01-01&g=2024-01-01).
 
 2. Van ernstige incidenten doet de beheerder onmiddellijk melding aan de toezichthouder.
 
@@ -396,13 +362,13 @@ De rechthebbende wiens onroerende zaak door de lokale spoorweg wordt afgesneden 
 
 ##### Artikel 21
 
-1. De beheerder stelt, na overleg met de vervoerder en andere rechthebbenden op de lokale spoorweginfrastructuur jaarlijks ter uitvoering van de visie, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=3&artikel=17&z=2021-07-01&g=2021-07-01), een beheerplan op.
+1. De beheerder stelt, na overleg met de vervoerder en andere rechthebbenden op de lokale spoorweginfrastructuur jaarlijks ter uitvoering van de visie, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=3&artikel=17&z=2024-01-01&g=2024-01-01), een beheerplan op.
 
 2. Het beheerplan behoeft de instemming van gedeputeerde staten onderscheidenlijk het dagelijks bestuur.
 
 3. De beheerder legt jaarlijks voor 1 april aan gedeputeerde staten onderscheidenlijk het dagelijks bestuur in een jaarverslag verantwoording af over de uitoefening van zijn taken in het afgelopen kalenderjaar.
 
-4. Gedeputeerde staten onderscheidenlijk het dagelijks bestuur kunnen in de voorschriften, bedoeld in [artikel 18, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=3&artikel=18&z=2021-07-01&g=2021-07-01), eisen stellen aan de inhoud en de procedure van totstandkoming van het beheerplan alsmede aan het jaarverslag.
+4. Gedeputeerde staten onderscheidenlijk het dagelijks bestuur kunnen in de voorschriften, bedoeld in [artikel 18, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=3&artikel=18&z=2024-01-01&g=2024-01-01), eisen stellen aan de inhoud en de procedure van totstandkoming van het beheerplan alsmede aan het jaarverslag.
 
 ##### Artikel 22
 
@@ -486,9 +452,9 @@ De rechthebbende wiens onroerende zaak door de lokale spoorweg wordt afgesneden 
 
 1. Het is verboden met een spoorvoertuig over een lokale spoorweg te rijden zonder:
 
-- a. een geldig veiligheidscertificaat als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=27&z=2021-07-01&g=2021-07-01);
+- a. een geldig veiligheidscertificaat als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=27&z=2024-01-01&g=2024-01-01);
 
-- b. een met de beheerder gesloten toegangsovereenkomst als bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=30&z=2021-07-01&g=2021-07-01); en
+- b. een met de beheerder gesloten toegangsovereenkomst als bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=30&z=2024-01-01&g=2024-01-01); en
 
 - c. voldoende verzekerd te zijn tegen de financiële risico’s die voortvloeien uit de wettelijke aansprakelijkheid als vervoerder. [Artikel 6 van de Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=6) is van overeenkomstige toepassing.
 
@@ -496,7 +462,7 @@ De rechthebbende wiens onroerende zaak door de lokale spoorweg wordt afgesneden 
 
 - a. het verrichten van proefritten met het oog op het opdoen van ervaring met spoorvoertuigen of het testen van procedures in het kader van het veiligheidsbeheersysteem; of
 
-- b. het verkeer dat wordt verricht in het kader van de uitvoering van de beheertaken, bedoeld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=3&z=2021-07-01&g=2021-07-01).
+- b. het verkeer dat wordt verricht in het kader van de uitvoering van de beheertaken, bedoeld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=3&z=2024-01-01&g=2024-01-01).
 
 3. Het is verboden om tijdens het verkeer, bedoeld in het tweede lid, reizigers te vervoeren.
 
@@ -504,9 +470,9 @@ De rechthebbende wiens onroerende zaak door de lokale spoorweg wordt afgesneden 
 
 1. De vervoerder beschikt over een door gedeputeerde staten onderscheidenlijk het dagelijks bestuur verleend veiligheidscertificaat.
 
-2. Gedeputeerde staten onderscheidenlijk het dagelijks bestuur verlenen het veiligheidscertificaat indien de vervoerder beschikt over een veiligheidsbeheersysteem dat voldoet aan [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=28&z=2021-07-01&g=2021-07-01).
+2. Gedeputeerde staten onderscheidenlijk het dagelijks bestuur verlenen het veiligheidscertificaat indien de vervoerder beschikt over een veiligheidsbeheersysteem dat voldoet aan [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=28&z=2024-01-01&g=2024-01-01).
 
-3. Bij de aanvraag van een veiligheidscertificaat als bedoeld in het eerste lid wordt een schriftelijke verklaring van de toezichthouder overgelegd waarin is beschreven in hoeverre de vervoerder in staat is om bij het voorgenomen gebruik van de lokale spoorweg te beschikken over een veiligheidsbeheersysteem dat voldoet aan [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=28&z=2021-07-01&g=2021-07-01).
+3. Bij de aanvraag van een veiligheidscertificaat als bedoeld in het eerste lid wordt een schriftelijke verklaring van de toezichthouder overgelegd waarin is beschreven in hoeverre de vervoerder in staat is om bij het voorgenomen gebruik van de lokale spoorweg te beschikken over een veiligheidsbeheersysteem dat voldoet aan [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=28&z=2024-01-01&g=2024-01-01).
 
 4. Een veiligheidscertificaat kan onder beperkingen worden verleend. Aan een veiligheidscertificaat kunnen voorschriften worden verbonden in het belang van de veiligheid op en in de directe nabijheid van de lokale spoorweg.
 
@@ -524,9 +490,9 @@ De rechthebbende wiens onroerende zaak door de lokale spoorweg wordt afgesneden 
 
 - b. bevat procedures om te voldoen aan het bepaalde in het tweede lid en aan de ministeriële regeling, bedoeld in het derde lid;
 
-- c. bevat, voor zover op grond van [artikel 32, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=32&z=2021-07-01&g=2021-07-01), beperkingen of voorschriften zijn verbonden aan een vergunning voor indienststelling, procedures om te voldoen aan die beperkingen of voorschriften;
+- c. bevat, voor zover op grond van [artikel 32, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=32&z=2024-01-01&g=2024-01-01), beperkingen of voorschriften zijn verbonden aan een vergunning voor indienststelling, procedures om te voldoen aan die beperkingen of voorschriften;
 
-- d. bevat procedures om te voldoen aan [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=35&z=2021-07-01&g=2021-07-01).
+- d. bevat procedures om te voldoen aan [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=35&z=2024-01-01&g=2024-01-01).
 
 2. Het veiligheidsbeheersysteem is op zodanige wijze geoperationaliseerd en wordt op zodanige wijze toegepast dat de vervoerder:
 
@@ -554,9 +520,9 @@ De rechthebbende wiens onroerende zaak door de lokale spoorweg wordt afgesneden 
 
 - a. niet adequaat door de vervoerder wordt toegepast; of
 
-- b. niet meer voldoet aan [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=28&z=2021-07-01&g=2021-07-01).
+- b. niet meer voldoet aan [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=28&z=2024-01-01&g=2024-01-01).
 
-3. Een intrekking als bedoeld in het tweede lid vindt niet plaats dan nadat gedeputeerde staten onderscheidenlijk het dagelijks bestuur de vervoerder in de gelegenheid hebben gesteld om binnen een door hen te bepalen termijn het veiligheidsbeheersysteem adequaat toe te passen respectievelijk alsnog te voldoen aan [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=28&z=2021-07-01&g=2021-07-01).
+3. Een intrekking als bedoeld in het tweede lid vindt niet plaats dan nadat gedeputeerde staten onderscheidenlijk het dagelijks bestuur de vervoerder in de gelegenheid hebben gesteld om binnen een door hen te bepalen termijn het veiligheidsbeheersysteem adequaat toe te passen respectievelijk alsnog te voldoen aan [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=28&z=2024-01-01&g=2024-01-01).
 
 4. Gedeputeerde staten onderscheidenlijk het dagelijks bestuur kunnen nadere regels stellen over de uitvoering van het tweede en derde lid.
 
@@ -598,7 +564,7 @@ spoorvoertuigen of trajecten worden doorgevoerd en de hoeveelheid aangepaste spo
 
 - c. zo gebouwd is dat het gebruik geen schade of gevaar oplevert voor personen of zaken; en
 
-- d. voldoet aan de bij of krachtens [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=31&z=2021-07-01&g=2021-07-01) gestelde eisen met betrekking tot de toegankelijkheid van spoorvoertuigen voor mensen met een functiebeperking.
+- d. voldoet aan de bij of krachtens [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=31&z=2024-01-01&g=2024-01-01) gestelde eisen met betrekking tot de toegankelijkheid van spoorvoertuigen voor mensen met een functiebeperking.
 
 3. Bij de aanvraag van een vergunning als bedoeld in het eerste lid wordt een schriftelijke verklaring van de toezichthouder overgelegd waarin is beschreven in hoeverre het spoorvoertuig voldoet aan het bepaalde in het tweede lid.
 
@@ -620,7 +586,7 @@ spoorvoertuigen of trajecten worden doorgevoerd en de hoeveelheid aangepaste spo
 
 - a. een informatiedossier aan gedeputeerde staten onderscheidenlijk het dagelijks bestuur te overleggen waarin de wijziging is beschreven en gedocumenteerd; en
 
-- b. een voor de wijziging of voor het gewijzigde spoorvoertuig verleende vergunning voor indienststelling als bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=32&z=2021-07-01&g=2021-07-01), indien gedeputeerde staten onderscheidenlijk het dagelijks bestuur die krachtens het derde lid eist.
+- b. een voor de wijziging of voor het gewijzigde spoorvoertuig verleende vergunning voor indienststelling als bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=32&z=2024-01-01&g=2024-01-01), indien gedeputeerde staten onderscheidenlijk het dagelijks bestuur die krachtens het derde lid eist.
 
 2. Van een aanmerkelijke wijziging als bedoeld in het eerste lid is sprake indien de gebruiksmogelijkheden van het spoorvoertuig aanmerkelijk veranderen door wijziging van de technische of functionele eigenschappen.
 
@@ -628,17 +594,17 @@ spoorvoertuigen of trajecten worden doorgevoerd en de hoeveelheid aangepaste spo
 
 4. Bij ministeriële regeling kunnen nadere regels worden gesteld over het eerste lid.
 
-5. Het eerste lid is niet van toepassing op spoorvoertuigen waarvoor ingevolge [artikel 32, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=32&z=2021-07-01&g=2021-07-01), geen vergunning voor indienststelling verplicht is.
+5. Het eerste lid is niet van toepassing op spoorvoertuigen waarvoor ingevolge [artikel 32, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=32&z=2024-01-01&g=2024-01-01), geen vergunning voor indienststelling verplicht is.
 
 ##### Artikel 34
 
 1. Gedeputeerde staten onderscheidenlijk het dagelijks bestuur verlenen op aanvraag een vergunning voor indienststelling voor een type spoorvoertuig.
 
-2. De vergunning, bedoeld in het eerste lid, wordt, de beheerder gehoord, uitsluitend verleend indien het type spoorvoertuig voldoet aan de voorschriften, bedoeld in [artikel 32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=32&z=2021-07-01&g=2021-07-01).
+2. De vergunning, bedoeld in het eerste lid, wordt, de beheerder gehoord, uitsluitend verleend indien het type spoorvoertuig voldoet aan de voorschriften, bedoeld in [artikel 32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=32&z=2024-01-01&g=2024-01-01).
 
-3. Bij de aanvraag van een vergunning als bedoeld in het eerste lid wordt een schriftelijke verklaring van de toezichthouder overgelegd waarin is beschreven in hoeverre het type spoorvoertuig voldoet aan het bepaalde in [artikel 32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=32&z=2021-07-01&g=2021-07-01).
+3. Bij de aanvraag van een vergunning als bedoeld in het eerste lid wordt een schriftelijke verklaring van de toezichthouder overgelegd waarin is beschreven in hoeverre het type spoorvoertuig voldoet aan het bepaalde in [artikel 32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=32&z=2024-01-01&g=2024-01-01).
 
-4. In afwijking van [artikel 32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=32&z=2021-07-01&g=2021-07-01), wordt een vergunning voor indienststelling verleend, indien het spoorvoertuig overeenstemt met een type dat is voorzien van een vergunning als bedoeld in het eerste lid.
+4. In afwijking van [artikel 32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=32&z=2024-01-01&g=2024-01-01), wordt een vergunning voor indienststelling verleend, indien het spoorvoertuig overeenstemt met een type dat is voorzien van een vergunning als bedoeld in het eerste lid.
 
 5. De overeenstemming met een type blijkt uit een verklaring van overeenstemming die bij de aanvraag voor een vergunning voor indienststelling wordt overgelegd.
 
@@ -646,7 +612,7 @@ spoorvoertuigen of trajecten worden doorgevoerd en de hoeveelheid aangepaste spo
 
 ##### Artikel 35
 
-1. De vervoerder verricht uitsluitend vervoer met een spoorvoertuig dat zich in een veilige staat bevindt en dat zodanig is onderhouden dat het blijft voldoen aan [artikel 32, tweede lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=32&z=2021-07-01&g=2021-07-01).
+1. De vervoerder verricht uitsluitend vervoer met een spoorvoertuig dat zich in een veilige staat bevindt en dat zodanig is onderhouden dat het blijft voldoen aan [artikel 32, tweede lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=32&z=2024-01-01&g=2024-01-01).
 
 2. Gedeputeerde staten onderscheidenlijk het dagelijks bestuur kunnen het gebruik van een spoorvoertuig verbieden, indien niet is voldaan aan het eerste lid.
 
@@ -682,7 +648,7 @@ spoorvoertuigen of trajecten worden doorgevoerd en de hoeveelheid aangepaste spo
 
 1. Degene die bij of krachtens het bepaalde in deze wet gerechtigd is om een veiligheidsfunctie uit te oefenen, ontvangt van degene onder wiens gezag hij die functie uitoefent, een bedrijfspas.
 
-2. De houder van de bedrijfspas is verplicht de bedrijfspas op eerste vordering te tonen aan de in de [artikelen 42](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=7&artikel=42&z=2021-07-01&g=2021-07-01) en [45](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=7&artikel=45&z=2021-07-01&g=2021-07-01) bedoelde personen.
+2. De houder van de bedrijfspas is verplicht de bedrijfspas op eerste vordering te tonen aan de in de [artikelen 42](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=7&artikel=42&z=2024-01-01&g=2024-01-01) en [45](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=7&artikel=45&z=2024-01-01&g=2024-01-01) bedoelde personen.
 
 3. Bij ministeriële regeling kunnen nadere regels worden gegeven omtrent de in het eerste lid bedoelde bedrijfspas.
 
@@ -694,7 +660,7 @@ Het is degene onder wiens gezag een veiligheidsfunctie wordt uitgeoefend verbode
 
 1. Degene onder wiens gezag een persoon binnen het lokale spoorwegverkeerssysteem een functie uitoefent die van invloed kan zijn op de veiligheid van het verkeer over de lokale spoorweg, draagt er zorg voor dat die persoon daartoe geschikt is en de nodige kennis en bekwaamheid bezit.
 
-2. Het eerste lid is in ieder geval van toepassing op een veiligheidsfunctie als bedoeld in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=6&artikel=36&z=2021-07-01&g=2021-07-01).
+2. Het eerste lid is in ieder geval van toepassing op een veiligheidsfunctie als bedoeld in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=6&artikel=36&z=2024-01-01&g=2024-01-01).
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de vakbekwaamheidseisen van een veiligheidsfunctie.
 
@@ -720,7 +686,7 @@ Het is degene onder wiens gezag een veiligheidsfunctie wordt uitgeoefend verbode
 
 1. Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de bij besluit van Onze Minister aangewezen personen.
 
-2. De toezichthouder heeft tevens tot taak het afgeven van een schriftelijke verklaring, als bedoeld in de [artikelen 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=9&z=2021-07-01&g=2021-07-01), [18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=3&artikel=18&z=2021-07-01&g=2021-07-01), [27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=27&z=2021-07-01&g=2021-07-01), [32, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=32&z=2021-07-01&g=2021-07-01), en [34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=34&z=2021-07-01&g=2021-07-01).
+2. De toezichthouder heeft tevens tot taak het afgeven van een schriftelijke verklaring, als bedoeld in de [artikelen 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=9&z=2024-01-01&g=2024-01-01), [18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=3&artikel=18&z=2024-01-01&g=2024-01-01), [27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=27&z=2024-01-01&g=2024-01-01), [32, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=32&z=2024-01-01&g=2024-01-01), en [34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=34&z=2024-01-01&g=2024-01-01).
 
 3. De [artikelen 5:12 tot en met 5:20, eerste en tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12) zijn van overeenkomstige toepassing ten aanzien van de toezichthouder bij de uitoefening van de in het tweede lid genoemde taken.
 
@@ -730,7 +696,7 @@ Het is degene onder wiens gezag een veiligheidsfunctie wordt uitgeoefend verbode
 
 6. Indien de toezichthouder de in het eerste lid genoemde taak op verzoek van gedeputeerde staten onderscheidenlijk het dagelijks bestuur verricht, neemt hij de instructies van gedeputeerde staten onderscheidenlijk het dagelijks bestuur in acht.
 
-7. Onze Minister kan de kosten van de werkzaamheden die worden verricht in verband met de uitvoering van de in het eerste lid bedoelde taak in rekening brengen bij gedeputeerde staten onderscheidenlijk het dagelijks bestuur op wie ingevolge [artikel 4, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=4&z=2021-07-01&g=2021-07-01), de zorgplicht voor de aanleg en het beheer van de lokale spoorweginfrastructuur rust.
+7. Onze Minister kan de kosten van de werkzaamheden die worden verricht in verband met de uitvoering van de in het eerste lid bedoelde taak in rekening brengen bij gedeputeerde staten onderscheidenlijk het dagelijks bestuur op wie ingevolge [artikel 4, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=4&z=2024-01-01&g=2024-01-01), de zorgplicht voor de aanleg en het beheer van de lokale spoorweginfrastructuur rust.
 
 8. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot het zevende lid. Daarbij kan onderscheid worden gemaakt tussen incidenteel en jaarlijks in rekening te brengen kosten.
 
@@ -744,7 +710,7 @@ Het dagelijks bestuur is bevoegd tot oplegging van een last onder bestuursdwang 
 
 ##### Artikel 44
 
-1. Gedeputeerde staten onderscheidenlijk het dagelijks bestuur kunnen een bestuurlijke boete opleggen ter zake van overtreding van de bij of krachtens de [artikelen 9, eerste en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=9&z=2021-07-01&g=2021-07-01), [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=10&z=2021-07-01&g=2021-07-01), [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=12&z=2021-07-01&g=2021-07-01), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=14&z=2021-07-01&g=2021-07-01), [22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=3&artikel=22&z=2021-07-01&g=2021-07-01), [23, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=3&artikel=23&z=2021-07-01&g=2021-07-01), [24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=4&artikel=24&z=2021-07-01&g=2021-07-01), [25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=4&artikel=25&z=2021-07-01&g=2021-07-01), [26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=26&z=2021-07-01&g=2021-07-01), [27, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=27&z=2021-07-01&g=2021-07-01), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=28&z=2021-07-01&g=2021-07-01), [31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=31&z=2021-07-01&g=2021-07-01), [32, eerste en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=32&z=2021-07-01&g=2021-07-01), [33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=33&z=2021-07-01&g=2021-07-01), [35, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=35&z=2021-07-01&g=2021-07-01), [37, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=6&artikel=37&z=2021-07-01&g=2021-07-01), [38 tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=6&artikel=38&z=2021-07-01&g=2021-07-01), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=6&artikel=39&z=2021-07-01&g=2021-07-01),[40, eerste lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=6&artikel=40&z=2021-07-01&g=2021-07-01), en[49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=8&artikel=49&z=2021-07-01&g=2021-07-01), gestelde voorschriften.
+1. Gedeputeerde staten onderscheidenlijk het dagelijks bestuur kunnen een bestuurlijke boete opleggen ter zake van overtreding van de bij of krachtens de [artikelen 9, eerste en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=9&z=2024-01-01&g=2024-01-01), [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=10&z=2024-01-01&g=2024-01-01), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=14&z=2024-01-01&g=2024-01-01), [22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=3&artikel=22&z=2024-01-01&g=2024-01-01), [23, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=3&artikel=23&z=2024-01-01&g=2024-01-01), [24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=4&artikel=24&z=2024-01-01&g=2024-01-01), [25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=4&artikel=25&z=2024-01-01&g=2024-01-01), [26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=26&z=2024-01-01&g=2024-01-01), [27, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=27&z=2024-01-01&g=2024-01-01), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=28&z=2024-01-01&g=2024-01-01), [31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=31&z=2024-01-01&g=2024-01-01), [32, eerste en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=32&z=2024-01-01&g=2024-01-01), [33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=33&z=2024-01-01&g=2024-01-01), [35, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=35&z=2024-01-01&g=2024-01-01), [37, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=6&artikel=37&z=2024-01-01&g=2024-01-01), [38 tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=6&artikel=38&z=2024-01-01&g=2024-01-01), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=6&artikel=39&z=2024-01-01&g=2024-01-01),[40, eerste lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=6&artikel=40&z=2024-01-01&g=2024-01-01), en[49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=8&artikel=49&z=2024-01-01&g=2024-01-01), gestelde voorschriften.
 
 2. De boete die ten hoogste kan worden opgelegd, bedraagt indien begaan door:
 
@@ -768,13 +734,13 @@ Het dagelijks bestuur is bevoegd tot oplegging van een last onder bestuursdwang 
 
 ##### Artikel 46
 
-1. Overtreding van de [artikelen 15, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=15&z=2021-07-01&g=2021-07-01), en [25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=4&artikel=25&z=2021-07-01&g=2021-07-01), wordt gestraft met hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie.
+1. Overtreding van de [artikelen 15, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=15&z=2024-01-01&g=2024-01-01), en [25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=4&artikel=25&z=2024-01-01&g=2024-01-01), wordt gestraft met hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie.
 
-2. Overtreding van de [artikelen 15, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=15&z=2021-07-01&g=2021-07-01), en [41, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=6&artikel=41&z=2021-07-01&g=2021-07-01), wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de derde categorie.
+2. Overtreding van de [artikelen 15, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=15&z=2024-01-01&g=2024-01-01), en [41, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=6&artikel=41&z=2024-01-01&g=2024-01-01), wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de derde categorie.
 
-3. Overtreding van de [artikelen 41, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=6&artikel=41&z=2021-07-01&g=2021-07-01), [47, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=7&artikel=47&z=2021-07-01&g=2021-07-01), en [48, tweede, zesde, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=7&artikel=48&z=2021-07-01&g=2021-07-01), wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie.
+3. Overtreding van de [artikelen 41, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=6&artikel=41&z=2024-01-01&g=2024-01-01), [47, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=7&artikel=47&z=2024-01-01&g=2024-01-01), en [48, tweede, zesde, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=7&artikel=48&z=2024-01-01&g=2024-01-01), wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie.
 
-4. Bij veroordeling van een persoon die een veiligheidsfunctie uitoefent, wegens overtreding van [artikel 41, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=6&artikel=41&z=2021-07-01&g=2021-07-01), kan hem de bevoegdheid tot het uitoefenen van die functie voor ten hoogste vijf jaren worden ontzegd.
+4. Bij veroordeling van een persoon die een veiligheidsfunctie uitoefent, wegens overtreding van [artikel 41, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=6&artikel=41&z=2024-01-01&g=2024-01-01), kan hem de bevoegdheid tot het uitoefenen van die functie voor ten hoogste vijf jaren worden ontzegd.
 
 5. Bij veroordeling van een persoon die een veiligheidsfunctie uitoefent, wegens overtreding van het bepaalde krachtens deze wet, kan hem in die gevallen waarin dit bij algemene maatregel van bestuur is bepaald, de bevoegdheid tot het uitoefenen van die functie voor ten hoogste twee jaar worden ontzegd.
 
@@ -782,7 +748,7 @@ Het dagelijks bestuur is bevoegd tot oplegging van een last onder bestuursdwang 
 
 ##### Artikel 47
 
-1. Een van de bij of krachtens [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=7&artikel=45&z=2021-07-01&g=2021-07-01) van deze wet of [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) met de opsporing van strafbare feiten belaste ambtenaren, kan een in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=6&artikel=41&z=2021-07-01&g=2021-07-01), bedoelde persoon van wie, uit het in artikel 41, vierde lid, bedoelde onderzoek of op andere wijze, naar het oordeel van die ambtenaar gebleken is dat hij onder zodanige invloed van het gebruik van een stof als bedoeld in artikel 41, eerste lid, verkeert, dat hij onvoldoende in staat is een veiligheidsfunctie uit te oefenen dan wel op de uitoefening van zodanige functie toezicht te houden, een verbod opleggen tot het uitoefenen van die functie of tot het houden van toezicht daarop, voor de tijd gedurende welke redelijkerwijs verwacht mag worden dat deze toestand zal voortduren tot ten hoogste vierentwintig uur. De eerste volzin is van overeenkomstige toepassing op degene die aanstalten maakt een veiligheidsfunctie te gaan uitoefenen dan wel op de uitoefening van zodanige functie toezicht te houden.
+1. Een van de bij of krachtens [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=7&artikel=45&z=2024-01-01&g=2024-01-01) van deze wet of [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) met de opsporing van strafbare feiten belaste ambtenaren, kan een in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=6&artikel=41&z=2024-01-01&g=2024-01-01), bedoelde persoon van wie, uit het in artikel 41, vierde lid, bedoelde onderzoek of op andere wijze, naar het oordeel van die ambtenaar gebleken is dat hij onder zodanige invloed van het gebruik van een stof als bedoeld in artikel 41, eerste lid, verkeert, dat hij onvoldoende in staat is een veiligheidsfunctie uit te oefenen dan wel op de uitoefening van zodanige functie toezicht te houden, een verbod opleggen tot het uitoefenen van die functie of tot het houden van toezicht daarop, voor de tijd gedurende welke redelijkerwijs verwacht mag worden dat deze toestand zal voortduren tot ten hoogste vierentwintig uur. De eerste volzin is van overeenkomstige toepassing op degene die aanstalten maakt een veiligheidsfunctie te gaan uitoefenen dan wel op de uitoefening van zodanige functie toezicht te houden.
 
 2. De ambtenaar die een verbod als bedoeld in het eerste lid oplegt, legt dit vast in een beschikking die het tijdstip van ingang en de duur van het verbod bevat.
 
@@ -790,13 +756,13 @@ Het dagelijks bestuur is bevoegd tot oplegging van een last onder bestuursdwang 
 
 ##### Artikel 48
 
-1. Bij verdenking dat een persoon heeft gehandeld in strijd met [artikel 41, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=6&artikel=41&z=2021-07-01&g=2021-07-01), kan de in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=7&artikel=47&z=2021-07-01&g=2021-07-01), bedoelde ambtenaar hem bevelen zijn medewerking te verlenen aan een onderzoek als bedoeld in artikel 41, tweede lid, onderdeel a.
+1. Bij verdenking dat een persoon heeft gehandeld in strijd met [artikel 41, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=6&artikel=41&z=2024-01-01&g=2024-01-01), kan de in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=7&artikel=47&z=2024-01-01&g=2024-01-01), bedoelde ambtenaar hem bevelen zijn medewerking te verlenen aan een onderzoek als bedoeld in artikel 41, tweede lid, onderdeel a.
 
 2. Degene aan wie het in het eerste lid bedoelde bevel is gegeven, is verplicht ademlucht te blazen in een voor het onderzoek bestemd apparaat en gevolg te geven aan alle door de betrokken ambtenaar ten dienste van het onderzoek gegeven aanwijzingen.
 
 3. De in het tweede lid genoemde verplichtingen gelden niet voor de verdachte van wie aannemelijk is, dat het verlenen van medewerking aan een ademonderzoek voor hem om bijzondere geneeskundige redenen onwenselijk is.
 
-4. In het geval, bedoeld in het derde lid, dan wel indien de medewerking van de verdachte niet heeft geleid tot een voltooid ademonderzoek, kan de betrokken ambtenaar de verdachte vragen of hij zijn toestemming geeft tot het verrichten van een onderzoek als bedoeld in [artikel 41, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=6&artikel=41&z=2021-07-01&g=2021-07-01). Gelijke bevoegdheid heeft de betrokken ambtenaar, indien het vermoeden bestaat dat de verdachte onder invloed van een andere in artikel 41, eerste lid, bedoelde stof dan alcoholhoudende drank verkeert.
+4. In het geval, bedoeld in het derde lid, dan wel indien de medewerking van de verdachte niet heeft geleid tot een voltooid ademonderzoek, kan de betrokken ambtenaar de verdachte vragen of hij zijn toestemming geeft tot het verrichten van een onderzoek als bedoeld in [artikel 41, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=6&artikel=41&z=2024-01-01&g=2024-01-01). Gelijke bevoegdheid heeft de betrokken ambtenaar, indien het vermoeden bestaat dat de verdachte onder invloed van een andere in artikel 41, eerste lid, bedoelde stof dan alcoholhoudende drank verkeert.
 
 5. Indien de verdachte zijn op grond van het vierde lid gevraagde toestemming niet verleent, kan de officier van justitie, een hulpofficier van justitie of een van de daartoe bij regeling van Onze Minister van Veiligheid en Justitie aangewezen ambtenaren, aangesteld voor de uitvoering van de politietaak, hem bevelen zich te onderwerpen aan een bloedonderzoek.
 
@@ -804,11 +770,11 @@ Het dagelijks bestuur is bevoegd tot oplegging van een last onder bestuursdwang 
 
 7. De in het zesde lid genoemde verplichtingen gelden niet voor de verdachte van wie aannemelijk is, dat afname van bloed bij hem om bijzondere geneeskundige redenen onwenselijk is.
 
-8. De krachtens het zevende lid van de in het zesde lid genoemde verplichtingen vrijgestelde personen zijn verplicht mee te werken aan een door de officier van justitie, door een hulpofficier van justitie of door een van de daartoe bij regeling van Onze Minister van Veiligheid en Justitie aangewezen ambtenaren, aangesteld voor de uitvoering van de politietaak, bevolen onderzoek ten einde op andere wijze dan door bloed- of ademonderzoek het gebruik van de in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=6&artikel=41&z=2021-07-01&g=2021-07-01), bedoelde stoffen of het in artikel 41, tweede lid, onderdeel b, genoemde gehalte vast te stellen.
+8. De krachtens het zevende lid van de in het zesde lid genoemde verplichtingen vrijgestelde personen zijn verplicht mee te werken aan een door de officier van justitie, door een hulpofficier van justitie of door een van de daartoe bij regeling van Onze Minister van Veiligheid en Justitie aangewezen ambtenaren, aangesteld voor de uitvoering van de politietaak, bevolen onderzoek ten einde op andere wijze dan door bloed- of ademonderzoek het gebruik van de in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=6&artikel=41&z=2024-01-01&g=2024-01-01), bedoelde stoffen of het in artikel 41, tweede lid, onderdeel b, genoemde gehalte vast te stellen.
 
 9. Indien de verdachte niet in staat is zijn wil kenbaar te maken, kan hem met toestemming van de officier van justitie, een hulpofficier van justitie of een van de daartoe bij regeling van Onze Minister van Veiligheid en Justitie aangewezen ambtenaren, aangesteld voor de uitvoering van de politietaak, door een arts de in het zesde lid bedoelde hoeveelheid bloed worden afgenomen, tenzij aannemelijk is dat dit bij hem om bijzondere geneeskundige redenen onwenselijk is. Een onderzoek van het bloed vindt niet plaats dan nadat de verdachte in de gelegenheid is gesteld zijn toestemming daartoe te geven. Zo nodig kan hem overeenkomstig het vijfde lid worden bevolen zijn medewerking te verlenen. De verdachte aan wie een zodanig bevel is gegeven, is verplicht zijn medewerking te verlenen. Indien de verdachte weigert zijn medewerking te verlenen, wordt het bloedmonster vernietigd.
 
-10. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de wijze van uitvoering van [artikel 41, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=6&artikel=41&z=2021-07-01&g=2021-07-01), en van dit artikel. Deze regels kunnen mede betrekking hebben op de mogelijkheid tot het doen verrichten van een tegenonderzoek. Bij regeling van Onze Minister van Veiligheid en Justitie worden in de bij die algemene maatregel van bestuur aangegeven gevallen voorschriften ter uitvoering van die regels vastgesteld.
+10. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de wijze van uitvoering van [artikel 41, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=6&artikel=41&z=2024-01-01&g=2024-01-01), en van dit artikel. Deze regels kunnen mede betrekking hebben op de mogelijkheid tot het doen verrichten van een tegenonderzoek. Bij regeling van Onze Minister van Veiligheid en Justitie worden in de bij die algemene maatregel van bestuur aangegeven gevallen voorschriften ter uitvoering van die regels vastgesteld.
 
 ### Hoofdstuk 8. Overige bepalingen
 
@@ -818,7 +784,7 @@ Het dagelijks bestuur is bevoegd tot oplegging van een last onder bestuursdwang 
 
 2. Degene van wie krachtens het eerste lid gegevens worden verlangd is op de door gedeputeerde staten onderscheidenlijk het dagelijks bestuur aan te geven wijze en binnen de door hen te bepalen termijn verplicht deze volledig en naar waarheid te verstrekken. Degene van wie inzage wordt verlangd is verplicht deze ongestoord te verlenen.
 
-3. Gedeputeerde staten onderscheidenlijk het dagelijks bestuur gebruiken de gegevens of inlichtingen uitsluitend voor de uitvoering van hun taken en bevoegdheden krachtens deze wet.
+3. Gedeputeerde staten onderscheidenlijk het dagelijks bestuur gebruiken de gegevens of inlichtingen uitsluitend voor de uitvoering van hun taken en bevoegdheden krachtens deze wet of hun taken en bevoegdheden op het gebied van lokale spoorwegen krachtens de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885).
 
 ##### Artikel 50
 
@@ -870,33 +836,33 @@ Wijzigt de Vervoersnoodwet.
 
 ##### Artikel 61
 
-[Artikel 6, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=6&z=2021-07-01&g=2021-07-01), is niet van toepassing op tunnels:
+[Artikel 6, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=6&z=2024-01-01&g=2024-01-01), is niet van toepassing op tunnels:
 
-- a. waarover voorafgaand aan het tijdstip van inwerkingtreding van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=6&z=2021-07-01&g=2021-07-01) een overeenkomst met een ontwerpend adviseur, een geïntegreerde overeenkomst voor ontwerp en realisatie of een overeenkomst tot bouw is gesloten;
+- a. waarover voorafgaand aan het tijdstip van inwerkingtreding van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=6&z=2024-01-01&g=2024-01-01) een overeenkomst met een ontwerpend adviseur, een geïntegreerde overeenkomst voor ontwerp en realisatie of een overeenkomst tot bouw is gesloten;
 
-- b. waarvoor voorafgaand aan het tijdstip van inwerkingtreding van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=6&z=2021-07-01&g=2021-07-01) een reguliere bouwvergunning, als bedoeld in [artikel 44 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=44) is verleend; of
+- b. waarvoor voorafgaand aan het tijdstip van inwerkingtreding van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=6&z=2024-01-01&g=2024-01-01) een reguliere bouwvergunning, als bedoeld in [artikel 44 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=44) is verleend; of
 
-- c. waarvan de bouw voorafgaand aan het tijdstip van inwerkingtreding van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=6&z=2021-07-01&g=2021-07-01) al is begonnen.
+- c. waarvan de bouw voorafgaand aan het tijdstip van inwerkingtreding van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=6&z=2024-01-01&g=2024-01-01) al is begonnen.
 
 ##### Artikel 62
 
-1. [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=9&z=2021-07-01&g=2021-07-01) is niet van toepassing ten aanzien van lokale spoorweginfrastructuur die voorafgaand aan het tijdstip van inwerkingtreding van artikel 9 in gebruik is genomen op grond van de [Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007), de [Spoorwegwet 1875](https://wetten.overheid.nl/jci1.3:c:BWBR0001848), de [Wet aanleg locaalspoor- en tramwegen](https://wetten.overheid.nl/jci1.3:c:BWBR0001892) dan wel de [Locaalspoor- en Tramwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001866), en die onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van artikel 9 als zodanig in gebruik is.
+1. [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=9&z=2024-01-01&g=2024-01-01) is niet van toepassing ten aanzien van lokale spoorweginfrastructuur die voorafgaand aan het tijdstip van inwerkingtreding van artikel 9 in gebruik is genomen op grond van de [Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007), de [Spoorwegwet 1875](https://wetten.overheid.nl/jci1.3:c:BWBR0001848), de [Wet aanleg locaalspoor- en tramwegen](https://wetten.overheid.nl/jci1.3:c:BWBR0001892) dan wel de [Locaalspoor- en Tramwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001866), en die onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van artikel 9 als zodanig in gebruik is.
 
-2. [Artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=10&z=2021-07-01&g=2021-07-01) is onverminderd van toepassing op in gebruik genomen lokale spoorweginfrastructuur als bedoeld in het eerste lid.
+2. [Artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=10&z=2024-01-01&g=2024-01-01) is onverminderd van toepassing op in gebruik genomen lokale spoorweginfrastructuur als bedoeld in het eerste lid.
 
 ##### Artikel 63
 
-Een vergunning, toestemming of ontheffing, die betrekking heeft op een lokale spoorweg en die is verleend op grond van [artikel 19 van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=19), [artikel 39 van de Spoorwegwet 1875](https://wetten.overheid.nl/jci1.3:c:BWBR0001848&artikel=39), de [artikelen 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003083&artikel=14), of [15 van het Reglement dienst hoofd- en lokaalspoorwegen](https://wetten.overheid.nl/jci1.3:c:BWBR0003083&artikel=15), de [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001898&artikel=5), of [14, derde lid, van het Tramwegreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001898&artikel=14), dan wel de [artikelen 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003454&artikel=12), of [15 van het Metroreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003454&artikel=15), en die onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=12&z=2021-07-01&g=2021-07-01) van kracht en onherroepelijk is, wordt gelijkgesteld met een vergunning als bedoeld in artikel 12.
+Een vergunning, toestemming of ontheffing, die betrekking heeft op een lokale spoorweg en die is verleend op grond van [artikel 19 van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=19), [artikel 39 van de Spoorwegwet 1875](https://wetten.overheid.nl/jci1.3:c:BWBR0001848&artikel=39), de [artikelen 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003083&artikel=14), of [15 van het Reglement dienst hoofd- en lokaalspoorwegen](https://wetten.overheid.nl/jci1.3:c:BWBR0003083&artikel=15), de [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001898&artikel=5), of [14, derde lid, van het Tramwegreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001898&artikel=14), dan wel de [artikelen 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003454&artikel=12), of [15 van het Metroreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003454&artikel=15), en die onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&artikel=12&z=2024-01-01&g=2024-01-01) van kracht en onherroepelijk is, wordt gelijkgesteld met een vergunning als bedoeld in artikel 12.
 
 ##### Artikel 64
 
-1. [Artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=32&z=2021-07-01&g=2021-07-01) is niet van toepassing op een spoorvoertuig dat voorafgaand aan het tijdstip van inwerkingtreding van artikel 32 op de lokale spoorweg is toegelaten en waarmee onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van artikel 32 verkeer wordt verricht op die lokale spoorweg.
+1. [Artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=32&z=2024-01-01&g=2024-01-01) is niet van toepassing op een spoorvoertuig dat voorafgaand aan het tijdstip van inwerkingtreding van artikel 32 op de lokale spoorweg is toegelaten en waarmee onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van artikel 32 verkeer wordt verricht op die lokale spoorweg.
 
-2. De [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=33&z=2021-07-01&g=2021-07-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=35&z=2021-07-01&g=2021-07-01) zijn onverminderd van toepassing op een toegelaten spoorvoertuig als bedoeld in het eerste lid.
+2. De [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=33&z=2024-01-01&g=2024-01-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=5&artikel=35&z=2024-01-01&g=2024-01-01) zijn onverminderd van toepassing op een toegelaten spoorvoertuig als bedoeld in het eerste lid.
 
 ##### Artikel 65
 
-Ten aanzien van degene die op het tijdstip van inwerkingtreding van [artikel 37, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=6&artikel=37&z=2021-07-01&g=2021-07-01), een functie uitoefent binnen het lokale spoorwegverkeersysteem die van aanmerkelijke invloed is op de veiligheid van het spoorverkeer over de lokale spoorweg, geldt het bepaalde in artikel 37, eerste lid, onderdeel c, met ingang van de datum na een jaar van inwerkingtreding van artikel 37, eerste lid, onderdeel c.
+Ten aanzien van degene die op het tijdstip van inwerkingtreding van [artikel 37, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=6&artikel=37&z=2024-01-01&g=2024-01-01), een functie uitoefent binnen het lokale spoorwegverkeersysteem die van aanmerkelijke invloed is op de veiligheid van het spoorverkeer over de lokale spoorweg, geldt het bepaalde in artikel 37, eerste lid, onderdeel c, met ingang van de datum na een jaar van inwerkingtreding van artikel 37, eerste lid, onderdeel c.
 
 ##### Artikel 66
 
@@ -906,7 +872,7 @@ De op het tijdstip van inwerkingtreding van deze wet aanhangige bezwaar- en bero
 
 ##### Artikel 67
 
-Deze wet treedt in werking met ingang van de eerste dag van de vierentwintigste kalendermaand na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst met uitzondering van [hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=1&z=2021-07-01&g=2021-07-01), dat in werking treedt met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
+Deze wet treedt in werking met ingang van de eerste dag van de vierentwintigste kalendermaand na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst met uitzondering van [hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=1&z=2024-01-01&g=2024-01-01), dat in werking treedt met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 
 ##### Artikel 68
 
