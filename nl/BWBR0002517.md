@@ -4,7 +4,7 @@ identifier: "BWBR0002517"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-07-01"
-last_updated: "2023-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002517"
 soort: "ministeriele-regeling"
@@ -39,7 +39,7 @@ Besluit:
 
 ##### Artikel 1
 
-Deze regeling geeft uitvoering aan de [artikelen 4, elfde en twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4), [4c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4c), [4e](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4e), [4f](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4f), [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=9), [10, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=10), en [10a, tweede lid en zesde lid, onderdeel b, van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=10a).
+Deze regeling geeft uitvoering aan de [artikelen 4, elfde en twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4), [4a, tweede, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4a), [4c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4c), [4e](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4e), [4f](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4f), [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=9), [10, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=10), en [10a, tweede lid en zesde lid, onderdeel b, van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=10a).
 
 ##### Artikel 1a
 
@@ -103,7 +103,7 @@ De in [artikel 9, eerste lid, van de Wet op de dividendbelasting 1965](https://w
 
 ##### Artikel 2
 
-Als internationale organisaties als bedoeld in [artikel 10, zesde lid, van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=10) worden aangewezen:
+Als internationale organisaties als bedoeld in de [artikelen 4a, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4a), en [10, zesde lid, van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=10) worden aangewezen:
 
 - a. United Nations Educational Scientific and Cultural Organization (UNESCO);
 
@@ -266,11 +266,62 @@ Voor de toepassing van [artikel 4, derde lid, aanhef en onderdeel c, van de Wet 
 
 ##### Artikel 1c
 
-Voor de toepassing van de [artikelen 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=10), en [10a, tweede lid, van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=10a) wordt als in dat lid bedoelde staat aangewezen: elke staat, niet zijnde een lidstaat van de Europese Unie of een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, waarmee Nederland in lijn met de internationale standaard op het gebied van informatie-uitwisseling gegevens kan uitwisselen.
+Voor de toepassing van de [artikelen 4a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4a), [10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=10), en [10a, tweede lid, van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=10a) wordt als in dat lid bedoelde staat aangewezen: elke staat, niet zijnde een lidstaat van de Europese Unie of een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, waarmee Nederland in lijn met de internationale standaard op het gebied van informatie-uitwisseling gegevens kan uitwisselen.
+
+## Bijlage. behorende bij de Uitvoeringsbeschikking dividendbelasting 1965
+
+De woonlandfactor, bedoeld in [artikel 1bis, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0002517&artikel=1bis&z=2024-01-01&g=2024-01-01), wordt voor andere lidstaten van de Europese Unie, andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland bepaald aan de hand van de volgende tabel:
+
+| Staat | Woonlandfactor |
+| --- | --- |
+| België | 100% |
+| Bulgarije | 50% |
+| Cyprus | 80% |
+| Denemarken | 100% |
+| Duitsland | 100% |
+| Estland | 80% |
+| Finland | 100% |
+| Frankrijk | 100% |
+| Griekenland | 80% |
+| Hongarije | 60% |
+| Ierland | 100% |
+| IJsland | 100% |
+| Italië | 90% |
+| Kroatië | 60% |
+| Letland | 70% |
+| Liechtenstein | 100% |
+| Litouwen | 60% |
+| Luxemburg | 100% |
+| Malta | 80% |
+| Noorwegen | 100% |
+| Oostenrijk | 100% |
+| Polen | 60% |
+| Portugal | 80% |
+| Roemenië | 50% |
+| Slovenië | 80% |
+| Slowakije | 70% |
+| Spanje | 90% |
+| Tsjechië | 70% |
+| Zweden | 100% |
+| Zwitserland | 100% |
+
+Voor andere staten wordt de woonlandfactor bepaald aan de hand van de tabel die is opgenomen in de [Regeling woonlandbeginsel in de sociale zekerheid 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031508).
 
 ## Bijlage A
 
 Vervallen
+
+##### Artikel 1ter
+
+Het in [artikel 4a, negende lid, van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4a) bedoelde overzicht bevat:
+
+- a. de naam en het fiscaal nummer van de opbrengstgerechtigde;
+
+- b. het nummer van de kwalificatiebeschikking, bedoeld in [artikel 4a, zevende lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4a);
+
+- c. het aantal aandelen dat de opbrengstgerechtigde bezit in de inhoudingsplichtige; en
+
+- d. de omschrijving en het bedrag van de opbrengst per aandeel ten aanzien waarvan inhouding achterwege is gebleven.
 
 ## Bijlage B
 
