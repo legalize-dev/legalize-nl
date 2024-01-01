@@ -4,7 +4,7 @@ identifier: "BWBR0048195"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2022-10-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048195"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-1. Aan de secretaris-directeur van de Raad voor Dierenaangelegenheden wordt volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 50.000 per verplichting niet te boven gaat.
+1. Aan de secretaris-directeur van de Raad voor Dierenaangelegenheden wordt volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 100.000 per verplichting niet te boven gaat.
 
 2. Aan de secretaris-directeur wordt tevens voor de onder hem ressorterende medewerkers ondermandaat, volmacht en machtiging verleend voor:
 
