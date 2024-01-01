@@ -4,7 +4,7 @@ identifier: "BWBR0025704"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2021-03-09"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025704"
 soort: "ministeriele-regeling"
@@ -114,7 +114,7 @@ Vervallen
 
 - c. een belastingadviseur die is ingeschreven in het Register Belastingadviseurs; ofd. een accountant of belastingdeskundige, aangesloten bij een door de NIWO na goedkeuring van de Minister daartoe aangewezen instelling.
 
-7. Omtrent het voldoen aan de eis van financiële draagkracht stelt de NIWO een onderzoek in als bedoeld in [artikel 3, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0025704&hoofdstuk=2&artikel=3&z=2021-03-09&g=2021-03-09) van de beroepsrichtlijn voor het wegvervoer.
+7. Omtrent het voldoen aan de eis van financiële draagkracht stelt de NIWO een onderzoek in als bedoeld in [artikel 3, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0025704&hoofdstuk=2&artikel=3&z=2024-01-01&g=2024-01-01) van de beroepsrichtlijn voor het wegvervoer.
 
 8. De NIWO kan de vervoerder een uitstel van ten hoogste zes maanden verlenen om te voldoen aan de eis van financiële draagkracht indien hij heeft aangetoond dat het op grond van de algemene economische situatie van zijn vervoeronderneming waarschijnlijk is dat hij voor afloop van het verleende uitstel zal voldoen aan de eis van financiële draagkracht.
 
@@ -284,17 +284,17 @@ De NIWO is mede belast met de afgifte van uitnodigingen als bedoeld in artikel 4
 
 ##### Artikel 18
 
-1. Overtreding van de [artikelen 8, eerste en derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025704&hoofdstuk=4&artikel=8&z=2021-03-09&g=2021-03-09) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0025704&hoofdstuk=4&artikel=10&z=2021-03-09&g=2021-03-09) vormt een strafbaar feit.
+1. Overtreding van de [artikelen 8, eerste en derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025704&hoofdstuk=4&artikel=8&z=2024-01-01&g=2024-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0025704&hoofdstuk=4&artikel=10&z=2024-01-01&g=2024-01-01) vormt een strafbaar feit.
 
-2. Als bepalingen, bedoeld in artikel 2.6, eerste lid, van de wet, worden aangewezen:
+2. Als bepalingen, bedoeld in [artikel 2.6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=2.6), worden aangewezen:
 
-- a. [artikel 9, eerste, tweede, vierde, vijfde, zevende, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=9), [72, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72), en [107, eerste lid, en tweede lid, onderdeel b, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=107);
+- a. [artikel 9, eerste, tweede, vierde, vijfde, zevende, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=9), [72, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72), [107, eerste lid, en tweede lid, onderdeel b,](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=107) en [151c, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=151c);
 
 - b. [artikel 5.1.1, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.1.1), juncto [artikel 5.3.15, tweede tot en met vierde lid, van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.3.15);
 
 - c. [artikel 5.1.1, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.1.1), juncto [hoofdstuk 5, afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&afdeling=3) en [12, van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&afdeling=12), voor zover overtreding van [artikel 5.1.1, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.1.1), leidt tot een bevel ingevolge [artikel 160, zevende lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=160) om het voertuig te herstellen alvorens het weer aan het verkeer mag deelnemen;
 
-- d. [artikel 5.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.1.2) juncto de [artikelen 5.18.17a tot en met 5.18.17g](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17a) of juncto de [artikelen 5.18.25 tot en met 5.18.25d van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.25).
+- d. [artikel 5.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.1.2) juncto de [artikelen 5.18.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.11), [5.18.14](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.14), [5.18.17a tot en met 5.18.17g](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17a) of juncto de [artikelen 5.18.25 tot en met 5.18.25d van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.25).
 
 3. Als bepalingen, bedoeld in [artikel 2.6, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=2.6), worden aangewezen [artikel 5.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.1.2) in verbinding met de [artikelen 5.18.17a tot en met 5.18.17g](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17a) of in verbinding met [artikel 5.18.25 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.25).
 
@@ -313,6 +313,32 @@ Deze regeling treedt in werking met ingang van het tijdstip waarop de [wet](http
 ##### Artikel 21
 
 Deze regeling wordt aangehaald als: Regeling wegvervoer goederen.
+
+## Bijlage
+
+Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat te Den Haag.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 6a
+
+De vervoerder voldoet aan de voorwaarden inzake de vestigingseis, bedoeld in artikel 5, eerste en tweede lid, van de beroepsverordening voor het wegvervoer.
+
+### Hoofdstuk 4. CEMT-vergunningen en ritmachtigingen
+
+### Hoofdstuk 5. Dienstbetrekking
+
+### Hoofdstuk 6. Vrachtbrief
+
+### Hoofdstuk 7. Bestuur NIWO
+
+### Hoofdstuk 8. Taken NIWO
+
+### Hoofdstuk 9. Aanduiding als strafbare feiten
+
+### Hoofdstuk 10. Wijziging andere regelingen
+
+### Hoofdstuk 11. Slotbepalingen
 
 ## Bijlage
 
