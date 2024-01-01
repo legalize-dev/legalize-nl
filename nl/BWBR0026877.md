@@ -4,7 +4,7 @@ identifier: "BWBR0026877"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2009-12-22"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026877"
 soort: "wet"
@@ -120,7 +120,7 @@ Wijzigt de Algemene nabestaandenwet.
 
 ##### Artikel XVII
 
-Onze Minister van Verkeer en Waterstaat beslist op een aanvraag om nadeelcompensatie op grond van of met inachtneming van een door hem vastgestelde beleidsregel binnen de bij die beleidsregel vastgestelde termijn. Deze termijn geldt als een bij wettelijk voorschrift bepaalde termijn.
+Vervallen
 
 ##### Artikel XVIII
 
