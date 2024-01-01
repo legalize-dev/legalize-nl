@@ -4,7 +4,7 @@ identifier: "BWBR0044210"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-27"
-last_updated: "2023-02-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044210"
 soort: "ministeriele-regeling"
@@ -142,15 +142,17 @@ Bevoegde autoriteiten voor de loodsplichtige scheepvaartwegen van het zeehavenge
 
 1. In het zeehavengebied Delfzijl - Eemshaven heeft vrijstelling van de loodsplicht, bedoeld in [artikel 3, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=3), de kapitein van een zeeschip op:
 
-- a. het traject haven Delfzijl - Eemshaven, vanaf de de Oosterhornhaven met een zeeschip met een lengte over alles tot en met 95 meter en een breedte tot en met 13 meter en een diepgang tot en met 6 meter;
+- a. het traject haven Delfzijl - Eemshaven, inclusief de Oosterhornhaven in Delfzijl met een zeeschip met een lengte over alles tot en met 95 meter en een breedte tot en met 13 meter en een diepgang tot en met 6 meter;
 
-- b. het traject haven Delfzijl - Borkum, vanaf de Oosterhornhaven met een zeeschip met een lengte over alles tot en met 95 meter en een breedte tot en met 13 meter en een diepgang tot en met 6 meter;
+- b. het traject haven Delfzijl - Borkum, inclusief de Oosterhornhaven in Delfzijl met een zeeschip met een lengte over alles tot en met 95 meter en een breedte tot en met 13 meter en een diepgang tot en met 6 meter;
 
 - c. het traject Eemshaven - Borkum, met een zeeschip met een lengte over alles tot en met 95 meter en een breedte tot en met 13 meter en een diepgang tot en met 7 meter;
 
 - d. het traject Borkum - Westereems, met een zeeschip met een lengte over alles tot en met 155 meter en een breedte tot en met 25 meter en een diepgang tot en met 7 meter.
 
-2. In het zeehavengebied Delfzijl - Eemshaven heeft vrijstelling van de loodsplicht, bedoeld in [artikel 3, derde lid, onderdeel e, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=3), de kapitein van een zeeschip indien het schip:
+2. In het zeehavengebied Delfzijl-Eemshaven heeft vrijstelling van de loodsplicht, bedoeld in [artikel 3, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=3), de kapitein van een zeeschip, ongeacht de lengte van het zeeschip, indien het schip binnen de grenzen van de in het vaarwater gelegen ankerplaatsen voor anker gaat.
+
+3. In het zeehavengebied Delfzijl - Eemshaven heeft vrijstelling van de loodsplicht, bedoeld in [artikel 3, derde lid, onderdeel e, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=3), de kapitein van een zeeschip indien het schip:
 
 - a. met een lengte over alles tot en met 95 meter een verplaatsing maakt binnen een havenbekken in de haven van Delfzijl, zonder daarbij de hoofdvaarweg te bevaren;
 
@@ -160,11 +162,11 @@ Bevoegde autoriteiten voor de loodsplichtige scheepvaartwegen van het zeehavenge
 
 In het zeehavengebied Delfzijl - Eemshaven heeft vrijstelling van de loodsplicht, bedoeld in [artikel 3, derde lid, onderdeel f, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=3), de kapitein van een werkschip:
 
-- a. met een lengte over alles tot en met 140 meter en een breedte tot en met 13 meter en een diepgang tot en met 6 meter op het traject haven Delfzijl - Eemshaven, vanaf de Oosterhornhaven;
+- a. met een lengte over alles tot en met 140 meter en een breedte tot en met 25 meter en een diepgang tot en met 6 meter op het traject haven Delfzijl-Eemshaven, vanaf de zeesluis in de haven van Delfzijl, met uitzondering van de Beatrixhaven in de Eemshaven waarvoor een lengte over alles tot en met 140 meter en een breedte tot en met 18 meter en een diepgang tot en met 6 meter geldt;
 
-- b. met een lengte over alles tot en met 140 meter en een breedte tot en met 13 meter en een diepgang tot en met 6 meter op het traject haven Delfzijl - Borkum, vanaf de Oosterhornhaven;
+- b. met een lengte over alles tot en met 140 meter en een breedte tot en met 25 meter en een diepgang tot en met 6 meter op het traject haven Delfzijl - Borkum, vanaf de zeesluis in de haven van Delfzijl;
 
-- c. met een lengte over alles tot en met 140 meter en een breedte tot en met 13 meter en een diepgang tot en met 8 meter op het traject Eemshaven - Borkum;
+- c. met een lengte over alles tot en met 140 meter en een breedte tot en met 25 meter en een diepgang tot en met 8 meter op het traject Eemshaven-Borkum, met uitzondering van de Beatrixhaven in de Eemshaven waarvoor een lengte over alles tot en met 140 meter en een breedte tot en met 18 meter en een diepgang tot en met 8 meter geldt;
 
 - d. met een lengte over alles tot en met 170 meter en een breedte tot en met 25 meter en een diepgang tot en met 8 meter op het traject Borkum - Westereems.
 
@@ -172,29 +174,29 @@ In het zeehavengebied Delfzijl - Eemshaven heeft vrijstelling van de loodsplicht
 
 In het zeehavengebied Delfzijl - Eemshaven heeft vrijstelling van de loodsplicht, bedoeld in [artikel 4, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=4), de kapitein of eerste stuurman van een zeeschip, tenzij het een zeeschip met gevaarlijke lading betreft, die in het bezit is van een:
 
-- a. op het traject haven Delfzijl-Eemshaven vanaf de Oosterhornhaven:
+- a. op het traject haven Delfzijl-Eemshaven vanaf de zeesluis in de haven van Delfzijl:
 
-- 1°. PEC A voor zeeschepen met een lengte over alles van meer 95 meter tot en met 115 meter en een breedte tot en met 13 meter en diepgang tot en met 6 meter;
+- 1°. PEC A voor zeeschepen met een lengte over alles van meer 95 meter tot en met 115 meter en een breedte tot en met 18 meter en een diepgang tot en met 6 meter;
 
-- 2°. PEC B voor zeeschepen met een lengte over alles van meer dan 115 meter tot en met 125 meter en een breedte tot en met 13 meter en diepgang tot en met 6 meter;
+- 2°. PEC B voor zeeschepen met een lengte over alles van meer dan 115 meter tot en met 125 meter en een breedte tot en met 25 meter en een diepgang tot en met 6 meter, met uitzondering van de Beatrixhaven in de Eemshaven waarvoor een lengte over alles van meer dan 115 tot en met 125 meter en een breedte tot en met 18 meter en een diepgang tot en met 6 meter geldt;
 
-- 3°. PEC C voor zeeschepen met een lengte over alles van meer dan 125 meter tot en met 140 meter en een breedte tot en met 13 meter en diepgang tot en met 6 meter;
+- 3°. PEC C voor zeeschepen met een lengte over alles van meer dan 125 meter tot en met 140 meter en een breedte tot en met 25 meter en een diepgang tot en met 6 meter, met uitzondering van de Beatrixhaven in de Eemshaven waarvoor een lengte over alles van meer dan 125 tot en met 140 meter en een breedte tot en met 18 meter en een diepgang tot en met 6 meter geldt;
 
-- b. op het traject haven Delfzijl-Borkum vanaf de Oosterhornhaven:
+- b. op het traject haven Delfzijl-Borkum vanaf de zeesluis in de haven van Delfzijl:
 
-- 1°. PEC A voor zeeschepen met een lengte over alles van meer 95 meter tot en met 115 meter en een breedte tot en met 13 meter en diepgang tot en met 6 meter;
+- 1°. PEC A voor zeeschepen met een lengte over alles van meer 95 meter tot en met 115 meter en een breedte tot en met 18 meter en een diepgang tot en met 6 meter;
 
-- 2°. PEC B voor zeeschepen met een lengte over alles van meer dan 115 meter tot en met 125 meter en een breedte tot en met 13 meter en diepgang tot en met 6 meter;
+- 2°. PEC B voor zeeschepen met een lengte over alles van meer dan 115 meter tot en met 125 meter en een breedte tot en met 25 meter en een diepgang tot en met 6 meter;
 
-- 3°. PEC C voor zeeschepen met een lengte over alles van meer dan 125 meter tot en met 140 meter en een breedte tot en met 13 meter en diepgang tot en met 6 meter;
+- 3°. PEC C voor zeeschepen met een lengte over alles van meer dan 125 meter tot en met 140 meter en een breedte tot en met 25 meter en een diepgang tot en met 6 meter;
 
 - c. op het traject Eemshaven - Borkum:
 
-- 1°. PEC A voor zeeschepen met een lengte over alles van meer 95 meter tot en met 115 meter en een breedte tot en met 13 meter en diepgang tot en met 7 meter;
+- 1°. PEC A voor zeeschepen met een lengte over alles van meer 95 meter tot en met 115 meter en een breedte tot en met 18 meter en een diepgang tot en met 7 meter;
 
-- 2°. PEC B voor zeeschepen met een lengte over alles van meer dan 115 meter tot en met 125 meter en een breedte tot en met 13 meter en diepgang tot en met 8 meter;
+- 2°. PEC B voor zeeschepen met een lengte over alles van meer dan 115 meter tot en met 125 meter en een breedte tot en met 25 meter en een diepgang tot en met 8 meter, met uitzondering van de Beatrixhaven in de Eemshaven waarvoor een lengte over alles van meer dan 115 tot en met 125 meter en een breedte tot en met 18 meter en een diepgang tot en met 8 meter geldt;
 
-- 3°. PEC C voor zeeschepen met een lengte over alles van meer dan 125 meter tot en met 140 meter en een breedte tot en met 13 meter en diepgang tot en met 8 meter;
+- 3°. PEC C voor zeeschepen met een lengte over alles van meer dan 125 meter tot en met 140 meter en een breedte tot en met 25 meter en een diepgang tot en met 8 meter, met uitzondering van de Beatrixhaven in de Eemshaven waarvoor een lengte over alles van meer dan 125 tot en met 140 meter en een breedte tot en met 18 meter en een diepgang tot en met 8 meter geldt;
 
 - d. op het traject Borkum-Westereems:
 
@@ -208,13 +210,15 @@ In het zeehavengebied Delfzijl - Eemshaven heeft vrijstelling van de loodsplicht
 
 2. In afwijking van het eerste lid, is het PEC kleine zeeschepen niet van toepassing:
 
-- a. op het traject haven Delfzijl - Eemshaven vanaf de Oosterhornhaven indien het kleine zeeschip een breedte van meer dan 13 meter of een diepgang van meer dan 6 meter heeft;
+- a. op het traject haven Delfzijl – Eemshaven, de Oosterhornhaven inclusief toeleiding via het Oosterhornkanaal en de zeesluis in de haven van Delfzijl, indien het kleine zeeschip een lengte over alles van meer dan 95 meter of een breedte van meer dan 13 meter of een diepgang van meer dan 6 meter heeft;
 
-- b. op het traject haven Delfzijl - Borkum vanaf de Oosterhornhaven indien het kleine zeeschip een breedte van meer dan 13 meter of een diepgang van meer dan 6 meter heeft;
+- b. op het traject haven Delfzijl - Eemshaven indien het kleine zeeschip een breedte van meer dan 18 meter of een diepgang van meer dan 6 meter heeft;
 
-- c. op het traject Eemshaven - Borkum indien het kleine zeeschip een breedte van meer dan 13 meter of een diepgang van meer dan 8 meter heeft;
+- c. op het traject haven Delfzijl - Borkum indien het kleine zeeschip een breedte van meer dan 18 meter of een diepgang van meer dan 6 meter heeft;
 
-- d. op het traject Borkum - Westereems indien het kleine zeeschip een breedte van meer dan 25 meter of een diepgang van meer dan 8 meter heeft.
+- d. op het traject Eemshaven - Borkum indien het kleine zeeschip een breedte van meer dan 18 meter of een diepgang van meer dan 7 meter heeft;
+
+- e. op het traject Borkum - Westereems indien het kleine zeeschip een breedte van meer dan 25 meter of een diepgang van meer dan 8 meter heeft.
 
 3. Om voor een PEC kleine zeeschepen in aanmerking te kunnen komen, voldoet de aanvrager aan de modules 1 en 2.
 
@@ -234,33 +238,33 @@ In het zeehavengebied Delfzijl-Eemshaven:
 
 ##### Artikel 12. Nadere duiding van vrijstellings- en PEC-trajecten
 
-In [artikel 7 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=2&paragraaf=1&artikel=7&z=2023-02-01&g=2023-02-01) wordt verstaan onder:
+In [artikel 7 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=2&paragraaf=1&artikel=7&z=2024-01-01&g=2024-01-01) wordt verstaan onder:
 
-- a. **het traject haven Delfzijl - Eemshaven:** de bevaarbare scheepvaartwegen met inbegrip van de Oosterhornhaven inclusief toeleiding via het Oosterhornkanaal via de zeesluis in de haven van Delfzijl vandaar via de Damsterhaven, de Handelshaven, het Zeehavenkanaal, Gaatjebocht, Oostfriesche Gaatje en Doekegat naar de Eemshaven inclusief de daaraan gelegen ankerplaatsen gelegen in het gebied zoals omschreven in [artikel 5, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=2&paragraaf=1&artikel=5&z=2023-02-01&g=2023-02-01);
+- a. **het traject haven Delfzijl – Eemshaven:** de haven van Delfzijl, zijnde de bevaarbare scheepvaartwegen met inbegrip van de Oosterhornhaven, inclusief toeleiding via het Oosterhornkanaal via de zeesluis in de haven van Delfzijl, vandaar via de Damsterhaven, de Handelshaven en het Zeehavenkanaal via Gaatjebocht, Oostfriesche Gaatje en Doekegat naar de Eemshaven, inclusief de daaraan gelegen ankerplaatsen in het gebied, zoals omschreven in [artikel 5, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=2&paragraaf=1&artikel=5&z=2024-01-01&g=2024-01-01);
 
-- b. **het traject haven Delfzijl - Borkum** de bevaarbare scheepvaartwegen met inbegrip van de Oosterhornhaven inclusief toeleiding via het Oosterhornkanaal via de zeesluis in de haven van Delfzijl vandaar via de Damsterhaven, de Handelshaven, het Zeehavenkanaal, Gaatjebocht, Oostfriesche Gaatje, Doekegat, Randzelgat of Oude Westereems naar Borkum gelegen in het gebied zoals omschreven in [artikel 5, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=2&paragraaf=1&artikel=5&z=2023-02-01&g=2023-02-01);
+- b. **het traject haven Delfzijl – Borkum:** de haven van Delfzijl, zijnde de bevaarbare scheepvaartwegen met inbegrip van de Oosterhornhaven, inclusief toeleiding via het Oosterhornkanaal via de zeesluis in de haven van Delfzijl, vandaar via de Damsterhaven, de Handelshaven en het Zeehavenkanaal via Gaatjebocht, Oostfriesche Gaatje, Doekegat, Randzelgat of Oude Westereems naar Borkum, inclusief de daaraan gelegen ankerplaatsen in het gebied, zoals omschreven in [artikel 5, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=2&paragraaf=1&artikel=5&z=2024-01-01&g=2024-01-01);
 
-- c. **het traject Eemshaven - Borkum:** de Eemshaven zijnde de Wilhelminahaven, de Emmahaven, de Julianahaven en de Beatrixhaven via het Doekegatkanaal, Doekegat, Randzelgat of Oude Westereems naar Borkum gelegen in het gebied zoals omschreven in [artikel 5, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=2&paragraaf=1&artikel=5&z=2023-02-01&g=2023-02-01);
+- c. **het traject Eemshaven – Borkum:** de Eemshaven zijnde de Wilhelminahaven, de Emmahaven, de Julianahaven en de Beatrixhaven via het Doekegatkanaal, Doekegat, Randzelgat of Oude Westereems naar Borkum, inclusief de daaraan gelegen ankerplaatsen in het gebied, zoals omschreven in [artikel 5, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=2&paragraaf=1&artikel=5&z=2024-01-01&g=2024-01-01);
 
-- d. **het traject Borkum - Westereems:** de bevaarbare scheepvaartwegen van Borkum via Westereems, Huibertgat of Riffgat gelegen in het aanloopgebied Knock zoals omschreven in [artikel 5, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=2&paragraaf=1&artikel=5&z=2023-02-01&g=2023-02-01).
+- d. **het traject Borkum – Westereems:** de bevaarbare scheepvaartwegen van Borkum via Westereems, Huibertgat of Riffgat, inclusief Borkum Reede, gelegen in het aanloopgebied Westereems, zoals omschreven in [artikel 5, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=2&paragraaf=1&artikel=5&z=2024-01-01&g=2024-01-01).
 
 #### § 2. Zeehavengebied Den Helder-Harlingen-Terschelling
 
 ##### Artikel 13. Nadere aanduiding loodsplichtige scheepvaartwegen
 
-Het zeehavengebied Den Helder - Harlingen - Terschelling, omvat de hieronder genoemde gebieden met inbegrip van de daaraan gelegen havens:
+Het zeehavengebied Den Helder-Harlingen-Terschelling, omvat de hieronder genoemde gebieden met inbegrip van de daaraan gelegen havens:
 
-- a. aanloopgebied Den Helder en Rede: het gedeelte van de Noordzee en de Waddenzee dat ligt binnen het gebied begrensd door de vuurtoren Grote Kaap (52°52’.86 N 004°42’.88 E), vandaar naar boei SG (52°52’.90 N 004°37’.90 E), vandaar naar boei ZH (52°54’.65 N 004°34’.71 E), vandaar naar boei MR (52°56’.77 N 004°33’.80 E), vandaar naar boei NH (53°00’.23 N 004°35’.36 E), vandaar naar (53°03’.88 N 004°40’.18 E) en vandaar naar paal 15 op Texel (53°03’.75 N 004°43’.33 E) en aan de oostzijde begrensd door de lijn over het oostelijk havenlicht van de haven van Den Helder (52°57’.77 N 4°47”.40 E) en vandaar naar boei T11 (52°59’.90 N 004°49’.10 E), van daar naar boei T13 (53°00’.74 N 004°50’.59 E), van daar naar boei T10 (53°01’.65 N 004°50’.57 E), van daar naar het zuidelijk havenlicht van de Haven NIOZ (53°00’.34 N 004°47’.83 E) en aan de zuidzijde begrensd door de havens van Den Helder tot de Koopvaardersschutsluis en de Zeedoksluis;
+- a. aanloopgebied Den Helder en Rede: het gedeelte van de Noordzee en de Waddenzee dat ligt binnen het gebied begrensd door de vuurtoren Grote Kaap (52°52’.86 N 004°42’.88 E), vandaar naar boei SG (52°52’.90 N 004°37’.90 E), vandaar naar boei ZH (52°54’.65 N 004°34’.71 E), vandaar naar boei MR (52°56’.77 N 004°33’.80 E), vandaar naar boei NH (53°00’.23 N 004°35’.36 E), vandaar naar (53°03’.88 N 004°40’.18 E) en vandaar naar paal 15 op Texel (53°03’.75 N 004°43’.33 E) en aan de oostzijde begrensd door de lijn over het oostelijk havenlicht van de haven van Den Helder (52°57’.77 N 004°47’.40 E) en vandaar naar boei T11 (52°59’.90 N 004°49’.10 E), van daar naar boei T13 (53°00’.74 N 004°50’.59 E), van daar naar boei T10 (53°01’.65 N 004°50’.57 E), van daar naar het zuidelijk havenlicht van de Haven NIOZ (53°00’.34 N 004°47’.83 E) en aan de zuidzijde begrensd door de havens van Den Helder tot de Koopvaardersschutsluis en de Zeedoksluis;
 
-- b. aanloopgebied Brandaris: het gedeelte van de Noordzee en de Waddenzee dat ligt binnen het gebied begrensd door de boei Drawa W (53°17’.36 N 004°59’.02 E), vandaar naar boei ZS (53°18’.28 N 004°56’.23 E), vandaar naar boei TG (53°24’.13 N 005°02’.32 E), vandaar naar boei Stolzenfels (53°26’.17 N 005°09’.70 E), vandaar naar een punt op Terschelling (53°23’.30 N 005°11’.30 E) en aan de oostzijde begrensd door een lijn over de vuurtoren Brandaris (53°21’.62 N 005°12’.85 E) op Terschelling en de vuurtoren Vuurduin (53°17’.74 N 005°03’.49 E) op Vlieland;
+- b. aanloopgebied Brandaris: het gedeelte van de Noordzee en de Waddenzee dat ligt binnen het gebied begrensd door boei Drawa W (53°17’.36 N 004°59’.02 E), vandaar naar boei ZS (53°18’.28 N 004°56’.23 E), vandaar naar boei TG (53°24’.13 N 005°02’.32 E), vandaar naar boei Stolzenfels (53°26’.17 N 005°09’.70 E), vandaar naar een punt op Terschelling (53°23’.30 N 005°11’.30 E), vandaar naar vuurtoren Brandaris (53°21’.62 N 005°12’.85 E) op Terschelling, vandaar naar boei SM-KB2 (53°20’.00 N 005°08’.29 E), vandaar via boei VL2-SG1 (53°19’.56 N 005°08’.87 E) zuidoostwaarts langs de rode tonnenlijn tot boei NM4-S21 (53°19’.08 N 005°15’.37 E), vandaar naar boei ZM-WNB (53°18’.05 N 005°16’.80 E), vandaar naar boei VL10 (53°16’.32 N 005°10’.29 E), vandaar naar boei VL11 (53°16’.37 N 005°09’.61 E), vandaar noordwaarts langs de groene tonnenlijn tot aan boei ZS11-VS2 (53°18’.65 N 005°05’.96 E), vandaar naar vuurtoren Vuurduin (53°17’.74 N 005°03’.49 E) op Vlieland;
 
-- c. de westelijke Waddenzee: het gebied begrensd door het aanloopgebied Brandaris, vanaf de vuurtoren Brandaris (53°21’.62 N 005°12’.85 E) op Terschelling naar de noordzijde van de Nieuwe Industriehaven in Harlingen, de havens van Harlingen, via de kust van Friesland naar de Lorentzsluizen van Kornwerderzand, vandaar via de Afsluitdijk naar de Stevinsluizen bij Den Oever, vandaar via de kust van Noord-Holland naar het oostelijk havenlicht van de haven van Den Helder (52°57’.77 N 4°47”.40 E) en vandaar naar boei T11 (52°59’.90 N 004°49’.10 E), van daar naar boei T13 (53°00’.74 N 004°50’.59 E), van daar naar boei T10 (53°01’.65 N 004°50’.57 E), van daar naar het zuidelijk havenlicht van de Haven NIOZ (53°00’.34 N 004°47’.83 E), vandaar via de kust van Texel naar de vuurtoren Eierland (53°10’.94 N 004°51’.31 E), vandaar naar het reddingshuisje (53°13’.40 N 004°53’.12 E) op Vlieland, vandaar via de kust van Vlieland naar het aanloopgebied Brandaris.
+- c. westelijke Waddenzee: het gebied begrensd door het aanloopgebied Brandaris, vanaf de vuurtoren Brandaris (53°21’.62 N 005°12’.85 E) op Terschelling naar de noordzijde van de Nieuwe Industriehaven in Harlingen, de havens van Harlingen, via de kust van Friesland naar de Lorentzsluizen van Kornwerderzand, vandaar via de Afsluitdijk naar de Stevinsluizen bij Den Oever, vandaar via de kust van Noord-Holland naar het oostelijk havenlicht van de haven van Den Helder (52°57’.77 N 004°47’.40 E) en vandaar naar boei T11 (52°59’.90 N 004°49’.10 E), van daar naar boei T13 (53°00’.74 N 004°50’.59 E), van daar naar boei T10 (53°01’.65 N 004°50’.57 E), van daar naar het zuidelijk havenlicht van de Haven NIOZ (53°00’.34 N 004°47’.83 E), vandaar via de kust van Texel naar de vuurtoren Eierland (53°10’.94 N 004°51’.31 E), vandaar naar het reddingshuisje (53°13’.40 N 004°53’.12 E) op Vlieland, vandaar via de kust van Vlieland naar het aanloopgebied Brandaris.
 
 ##### Artikel 14. Aanwijzing bevoegde autoriteiten
 
 Bevoegde autoriteiten voor de loodsplichtige scheepvaartwegen van het zeehavengebied Den Helder- Harlingen-Terschelling zijn:
 
-- a. voor het VTS gebied Den Helder te weten het gebied bedoeld in [artikel 13, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=2&paragraaf=2&artikel=13&z=2023-02-01&g=2023-02-01) maar dan aan de oostzijde begrensd door lijn vanaf een punt op Texel (53°01’.45 N004°48’.72 E), vandaar naar boei T8 (53°01’.07 N 004°49’.65 E), vandaar naar boei T13 (53°00’.74N 004°50’.59 E), vandaar naar boei M10 (52°59’.69 N 004°52’.51 E), vandaar naar boei M11 (52°59’.37N 004°52’.64 E), vandaar naar boei M9 (52°59’.04 N 004°51’.74 E), vandaar naar boei M7 (52°58’.75 N 004-50’.91 E), vandaar naar boei M5 (52°58’.39 N 004°49’.85 E), vandaar naar boei M3 (52°58’.25 N 004°49’.16 E) en vandaar naar het hoekpunt van Den Helder (52°57’.85 N 004°48’.07 E): een door de Minister van Defensie aan te wijzen functionaris van de Koninklijke Marine;
+- a. voor het VTS gebied Den Helder te weten het gebied bedoeld in [artikel 13, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=2&paragraaf=2&artikel=13&z=2024-01-01&g=2024-01-01) maar dan aan de oostzijde begrensd door lijn vanaf een punt op Texel (53°01’.45 N004°48’.72 E), vandaar naar boei T8 (53°01’.07 N 004°49’.65 E), vandaar naar boei T13 (53°00’.74N 004°50’.59 E), vandaar naar boei M10 (52°59’.69 N 004°52’.51 E), vandaar naar boei M11 (52°59’.37N 004°52’.64 E), vandaar naar boei M9 (52°59’.04 N 004°51’.74 E), vandaar naar boei M7 (52°58’.75 N 004-50’.91 E), vandaar naar boei M5 (52°58’.39 N 004°49’.85 E), vandaar naar boei M3 (52°58’.25 N 004°49’.16 E) en vandaar naar het hoekpunt van Den Helder (52°57’.85 N 004°48’.07 E): een door de Minister van Defensie aan te wijzen functionaris van de Koninklijke Marine;
 
 - b. voor de overige scheepvaartwegen in beheer bij het Rijk: de Directeur-Generaal Rijkswaterstaat;
 
@@ -268,7 +272,7 @@ Bevoegde autoriteiten voor de loodsplichtige scheepvaartwegen van het zeehavenge
 
 ##### Artikel 15. Categorale vrijstelling van de loodsplicht
 
-In het zeehavengebied Den Helder-Harlingen-Terschelling heeft vrijstelling van de loodsplicht, bedoeld in [artikel 3, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=3), de kapitein van een zeeschip, op:
+1. In het zeehavengebied Den Helder-Harlingen-Terschelling heeft vrijstelling van de loodsplicht, bedoeld in [artikel 3, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=3), de kapitein van een zeeschip, op:
 
 - a. het traject aanloopgebied Den Helder en Rede- Den Oever: met een lengte over alles tot en met 75 meter en een diepgang tot en met 2,5 meter;
 
@@ -278,13 +282,17 @@ In het zeehavengebied Den Helder-Harlingen-Terschelling heeft vrijstelling van d
 
 - d. het traject haven Harlingen - Aanloopgebied Brandaris: met een lengte over alles tot en met 75 meter en een diepgang tot en met 6 meter;
 
-- e. het traject Schulpengat - Rede: met een lengte over alles tot en met 150 meter en een diepgang tot en met 7 meter;
+- e. het traject Slenk – haven Terschelling: met een lengte over alles tot en met 75 meter en een diepgang tot en met 4,5 meter;
 
-- f. het traject Schulpengat - haven Den Helder: met een lengte over alles tot en met 95 meter en een diepgang tot en met 7 meter met het Nieuwe Diep als bestemming en vertrekpunt en met een lengte over alles tot en met 95 meter en een diepgang tot en met 5 meter voor zeeschepen met bestemming of vertrekpunt tussen Moormanbrug en Koopvaardersschutsluis;
+- f. het traject Schulpengat - Rede: met een lengte over alles tot en met 150 meter en een diepgang tot en met 7 meter;
 
-- g. het traject aanloopgebied Brandaris: met een lengte over alles tot en met 140 meter en een diepgang tot en met 6,5 meter;
+- g. het traject Schulpengat - haven Den Helder: met een lengte over alles tot en met 95 meter en een diepgang tot en met 7 meter met het Nieuwe Diep als bestemming en vertrekpunt en met een lengte over alles tot en met 95 meter en een diepgang tot en met 5 meter voor zeeschepen met bestemming of vertrekpunt tussen Moormanbrug en Koopvaardersschutsluis;
 
-- h. de trajecten via de overige bevaarbare vaarwegen in de Waddenzee: met een lengte over alles tot en met 65 meter en een diepgang tot en met 2,5 meter.
+- h. het traject aanloopgebied Brandaris: met een lengte over alles tot en met 140 meter en een diepgang tot en met 6,5 meter;
+
+- i. de trajecten via de overige bevaarbare vaarwegen in de Waddenzee: met een lengte over alles tot en met 65 meter en een diepgang tot en met 2,5 meter.
+
+2. In het zeehavengebied Den Helder-Harlingen-Terschelling heeft vrijstelling van de loodsplicht de kapitein van een zeeschip, voor zover het geen zeeschip met gevaarlijke lading betreft, die van de in het vaarwater gelegen ankerplaatsen gebruik maakt om te ankeren.
 
 ##### Artikel 16. Vrijstelling van de loodsplicht voor werkschepen
 
@@ -300,11 +308,13 @@ In het zeehavengebied Den Helder-Harlingen-Terschelling heeft vrijstelling van d
 
 - e. op het traject haven Harlingen - aanloopgebied Brandaris: met een lengte over alles tot en met 125 meter en een diepgang tot en met 6,5 meter;
 
-- f. op het traject Schulpengat - Rede: met een lengte over alles tot en met 150 meter en een diepgang tot en met 7 meter;
+- f. op het traject Slenk – haven Terschelling: met een lengte over alles tot en met 95 meter en een diepgang tot en met 4,5 meter;
 
-- g. op het traject aanloopgebied Brandaris: met een lengte over alles tot en met 140 meter en een diepgang tot en met 7,5 meter;
+- g. op het traject Schulpengat - Rede: met een lengte over alles tot en met 150 meter en een diepgang tot en met 7 meter;
 
-- h. op de trajecten via de overige bevaarbare vaarwegen in de Waddenzee: met een lengte over alles tot en met 95 meter en een diepgang tot en met 2,5 meter.
+- h. op het traject aanloopgebied Brandaris: met een lengte over alles tot en met 140 meter en een diepgang tot en met 6,5 meter;
+
+- i. op de trajecten via de overige bevaarbare vaarwegen in de Waddenzee: met een lengte over alles tot en met 95 meter en een diepgang tot en met 2,5 meter.
 
 ##### Artikel 17. Vrijstelling van de loodsplicht met PEC A, B, of C
 
@@ -324,9 +334,11 @@ In het zeehavengebied Den Helder-Harlingen-Terschelling heeft vrijstelling van d
 
 - 3°. met een PEC C met een zeeschip met een lengte over alles van meer dan 115 meter tot en met 125 meter en een diepgang tot en met 6,5 meter;
 
-- e. het traject Schulpengat - haven Den Helder: een PEC A met een zeeschip met een lengte over alles van meer dan 95 meter tot en met 115 meter en een diepgang tot en met 7 meter met het Nieuwe Diep als bestemming of vertrekpunt en met een lengte over alles tot en met 115 meter en een diepgang tot en met 5 meter voor zeeschepen met bestemming of vertrekpunt tussen Moormanbrug en Koopvaardersschutsluis;
+- e. het traject Slenk – haven Terschelling: een PEC A met een zeeschip met een lengte over alles van meer dan 75 meter tot en met 95 meter en een diepgang tot en met 4,5 meter;
 
-- f. de trajecten via de overige bevaarbare vaarwegen in de Waddenzee: een PEC A met een zeeschip met een lengte over alles van meer dan 75 meter tot en met 95 meter en een diepgang tot en met 2,5 meter.
+- f. het traject Schulpengat - haven Den Helder: een PEC A met een zeeschip met een lengte over alles van meer dan 95 meter tot en met 115 meter en een diepgang tot en met 7 meter met het Nieuwe Diep als bestemming of vertrekpunt en met een lengte over alles tot en met 115 meter en een diepgang tot en met 5 meter voor zeeschepen met bestemming of vertrekpunt tussen Moormanbrug en Koopvaardersschutsluis;
+
+- g. de trajecten via de overige bevaarbare vaarwegen in de Waddenzee: een PEC A met een zeeschip met een lengte over alles van meer dan 75 meter tot en met 95 meter en een diepgang tot en met 2,5 meter.
 
 ##### Artikel 18. Vrijstelling van de loodsplicht met een PEC kleine zeeschepen
 
@@ -342,13 +354,15 @@ In het zeehavengebied Den Helder-Harlingen-Terschelling heeft vrijstelling van d
 
 - d. het traject haven Harlingen - aanloopgebied Brandaris: indien het kleine zeeschip een diepgang heeft van meer dan 6,5 meter;
 
-- e. het traject Schulpengat - Rede: indien het kleine zeeschip een diepgang heeft van meer dan 7 meter;
+- e. op het traject Slenk – haven Terschelling: indien het kleine zeeschip een lengte over alles heeft van meer dan 95 meter of een diepgang van meer dan 4,5 meter;
 
-- f. het traject Schulpengat - haven Den Helder: indien het kleine zeeschip een diepgang heeft van meer dan 7 meter met het Nieuwe Diep als bestemming en vertrekpunt en met een diepgang van meer dan 5 meter met bestemming of vertrekpunt tussen Moormanbrug en Koopvaardersschutsluis;
+- f. het traject Schulpengat - Rede: indien het kleine zeeschip een diepgang heeft van meer dan 7 meter;
 
-- g. het traject aanloopgebied Brandaris: indien het kleine zeeschip een diepgang heeft van meer dan 6,5 meter;
+- g. het traject Schulpengat - haven Den Helder: indien het kleine zeeschip een diepgang heeft van meer dan 7 meter met het Nieuwe Diep als bestemming en vertrekpunt en met een diepgang van meer dan 5 meter met bestemming of vertrekpunt tussen Moormanbrug en Koopvaardersschutsluis;
 
-- h. de trajecten via de overige bevaarbare vaarwegen in de Waddenzee: indien het kleine zeeschip een lengte over alles van meer dan 95 meter of een diepgang van meer dan 2,5 meter.
+- h. het traject aanloopgebied Brandaris: indien het kleine zeeschip een diepgang heeft van meer dan 6,5 meter;
+
+- i. de trajecten via de overige bevaarbare vaarwegen in de Waddenzee: indien het kleine zeeschip een lengte over alles van meer dan 95 meter of een diepgang van meer dan 2,5 meter.
 
 3. Om voor een PEC-kleine zeeschepen in aanmerking te kunnen komen, voldoet de aanvrager aan de modules 1 en 2.
 
@@ -368,7 +382,7 @@ In het zeehavengebied Den Helder-Harlingen-Terschelling:
 
 ##### Artikel 20. Nadere duiding van vrijstellings- en PEC-trajecten
 
-In de [artikelen 15 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=2&paragraaf=2&artikel=15&z=2023-02-01&g=2023-02-01) wordt verstaan onder:
+In de [artikelen 15 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=2&paragraaf=2&artikel=15&z=2024-01-01&g=2024-01-01) wordt verstaan onder:
 
 - a. **het traject aanloopgebied Den Helder en Rede - Den Oever:** de bevaarbare scheepvaartwegen op de Waddenzee vanuit het aanloopgebied Den Helder via het Malzwin, het Visjagersgaatje of de Wierbalg naar Den Oever;
 
@@ -378,17 +392,19 @@ In de [artikelen 15 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR00442
 
 - d. **het traject haven Harlingen - aanloopgebied Brandaris:** de haven Harlingen te weten de havens ten westen van de primaire zeewering van Harlingen zijnde de Voorhaven, de Nieuwe Willemshaven, de Vluchthaven, het Dok, de Nieuwe Voorhaven tot de Tjerk Hiddessluizen, de Vissershaven, de Industriehaven en de Nieuwe Industriehaven en de bevaarbare scheepvaartwegen op de Waddenzee via de Vaargeul langs de Pollendam, de Blauwe Slenk en de Vliestroom;
 
-- e. **het traject Schulpengat - Rede:** de bevaarbare scheepvaartwegen op de Noordzee en Waddenzee van Schulpengat en Molengat naar Marsdiep en Texelstroom en daar gelegen ankerligplaatsen binnen het aanloopgebied Den Helder en Rede zoals beschreven in [artikel 13, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=2&paragraaf=2&artikel=13&z=2023-02-01&g=2023-02-01), tot aan de haven van Den Helder;
+- e. **het traject Slenk – haven Terschelling:** vanaf de oostelijke begrenzing van het aanloopgebied Brandaris in de Noord Meep, via de Slenk naar Terschelling, met inbegrip van de haven van West-Terschelling;
 
-- f. **het traject Schulpengat - haven Den Helder:** de haven van Den Helder te weten de Marinehaven Willemsoord en de Rijkshaven Het Nieuwe Diep tot aan de Koopvaardersschutsluis en de Zeedoksluis en de bevaarbare scheepvaartwegen gelegen in het gebied aanloopgebied Den Helder en Rede zoals beschreven in [artikel 13, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=2&paragraaf=2&artikel=13&z=2023-02-01&g=2023-02-01);
+- f. **het traject Schulpengat - Rede:** de bevaarbare scheepvaartwegen op de Noordzee en Waddenzee van Schulpengat en Molengat naar Marsdiep en Texelstroom en daar gelegen ankerligplaatsen binnen het aanloopgebied Den Helder en Rede zoals beschreven in [artikel 13, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=2&paragraaf=2&artikel=13&z=2024-01-01&g=2024-01-01), tot aan de haven van Den Helder;
 
-- g. **het traject aanloopgebied Brandaris:** de bevaarbare scheepvaartwegen op de Waddenzee en Noordzee binnen het gebied Aanloopgebied Brandaris, bedoeld in [artikel 13, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=2&paragraaf=2&artikel=13&z=2023-02-01&g=2023-02-01);
+- g. **het traject Schulpengat - haven Den Helder:** de haven van Den Helder te weten de Marinehaven Willemsoord en de Rijkshaven Het Nieuwe Diep tot aan de Koopvaardersschutsluis en de Zeedoksluis en de bevaarbare scheepvaartwegen gelegen in het gebied aanloopgebied Den Helder en Rede zoals beschreven in [artikel 13, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=2&paragraaf=2&artikel=13&z=2024-01-01&g=2024-01-01);
 
-- h. **de trajecten via de overige bevaarbare vaarwegen in de Waddenzee:** de bevaarbare scheepvaartwegen op de westelijke Waddenzee, bedoeld in [artikel 13, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=2&paragraaf=2&artikel=13&z=2023-02-01&g=2023-02-01).
+- h. **het traject aanloopgebied Brandaris:** de bevaarbare scheepvaartwegen op de Waddenzee en Noordzee en de in de Waddenzee en Noordzee gelegen ankerplaatsen binnen het gebied Aanloopgebied Brandaris, bedoeld in [artikel 13, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=2&paragraaf=2&artikel=13&z=2024-01-01&g=2024-01-01);
+
+- i. **de trajecten via de overige bevaarbare vaarwegen in de Waddenzee:** de bevaarbare scheepvaartwegen op de westelijke Waddenzee, bedoeld in [artikel 13, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=2&paragraaf=2&artikel=13&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 21. Ontheffing voor zeeschepen met beperkte hoeveelheid gevaarlijke lading
 
-1. Op het traject aanloopgebied Den Helder-haven Den Helder kan aan een kapitein of eerste stuurman van een zeeschip met gevaarlijke lading dat voldoet aan het tweede lid, met een lengte over alles van tot en met 85 meter, ontheffing van de loodsplicht, bedoeld in [artikel 14, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=14) worden verleend.
+1. Op het traject Schulpengat – haven Den Helder kan aan een kapitein of eerste stuurman van een zeeschip met gevaarlijke lading dat voldoet aan het tweede lid, met een lengte over alles van tot en met 85 meter, ontheffing van de loodsplicht, bedoeld in [artikel 14, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=14) worden verleend.
 
 2. De ontheffing, bedoeld in het eerste lid, kan worden verleend voor een zeeschip met gevaarlijke lading, dat voldoet aan de bij resolutie A.1122 (30) van de Maritieme Veiligheidscommissie van de Internationale Maritieme Organisatie van de Verenigde Naties aangenomen Internationale Maritieme Code voor het vervoer van gevaarlijke lading in bulk op offshore support vessels (Code for the transport and handling of hazardous and noxious liquid substances in bulk on offshore support vessels) en dat die lading van en naar olie- en gasplatforms op de Noordzee vervoert.
 
@@ -396,9 +412,13 @@ In de [artikelen 15 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR00442
 
 ##### Artikel 22. Aanwijzing scheepvaartwegen met ad-hoc-loodsplicht
 
-1. Als loodsplichtige scheepvaartwegen als bedoeld in [artikel 2, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=2) wordt aangewezen het Fries Zeegat: het gebied begrensd door een lijn die loopt van de vuurtoren van Schiermonnikoog (53°29’.21 N 006°08’.79 E), vandaar naar 53°33’.00 N 006°08’.79 E, vandaar naar 53°33’.00 N 005°56’.77 E, vandaar naar 53°27’.85 N 005°56’.77 E, alsmede het bevaarbare traject vanuit dit gebied over de Waddenzee naar Lauwersoog, alsmede de haven van Lauwersoog.
+1. Als loodsplichtige scheepvaartwegen als bedoeld in [artikel 2, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=2) worden aangewezen:
 
-2. Bevoegde autoriteit voor de in het eerste genoemde scheepvaartwegen is de Directeur-Generaal Rijkswaterstaat.
+- a. het Friesche Zeegat: het gebied begrensd door een lijn die loopt van de vuurtoren van Schiermonnikoog (53°29’.21 N 006°08’.79 E), vandaar naar 53°33’.00 N 006°08’.79 E, vandaar naar 53°33’.00 N 005°56’.77 E, vandaar naar 53°27’.85 N 005°56’.77 E, alsmede het bevaarbare traject vanuit dit gebied over de Waddenzee naar Lauwersoog, alsmede de haven van Lauwersoog;
+
+- b. het Amelander Zeegat of Borndiep: het gebied begrensd door een lijn die loopt van de vuurtoren van Ameland (53°26’.95 N 005°37’.54 E) naar 53°31’.30 N 005°37’.54 E, vandaar naar 53°30’.50 N 005°26’.00 E, vandaar naar 53°26’.00 N 005°28’.00 E alsmede de bevaarbare trajecten vanuit dit gebied over de Waddenzee naar Holwerd en Nes.
+
+2. Bevoegde autoriteit voor de in het eerste lid genoemde scheepvaartwegen is de Directeur-Generaal Rijkswaterstaat.
 
 ### Hoofdstuk 3. Zeehavenregio Amsterdam-IJmond
 
@@ -412,15 +432,11 @@ Het zeehavengebied Amsterdam-IJmond omvat de hieronder genoemde loodsplichtige s
 
 - c. het Noordzeekanaal;
 
-- d. alle zijkanalen van het Noordzeekanaal, met dienverstande;
+- d. de volgende zijkanalen van het Noordzeekanaal:
 
 - 1°. zijkanaal A;
 
-- 2°. zijkanaal C tot de spoorbrug over het Spaarne, inclusief de Industriehaven;
-
-- 3°. zijkanaal D tot de Schermersluis;
-
-- 4°. zijkanaal G tot de Wilhelminasluis;
+- 2°. zijkanaal G tot de Wilhelminasluis;
 
 - e. het IJ tot aan de Oranjesluizen en de Amsterdamsebrug in het Amsterdam-Rijnkanaal, inclusief de voorhaven van het Noordhollandsch kanaal.
 
@@ -430,7 +446,7 @@ Bevoegde autoriteit voor de loodsplichtige scheepvaartwegen van het zeehavengebi
 
 - a. voor de onderstaande scheepvaartwegen in beheer bij het Rijk: de directeur van het openbaar lichaam Centraal Nautisch Beheer:
 
-- 1°. het aanloopgebied Noordzeekanaal, zoals omschreven in [artikel 23, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=3&artikel=23&z=2023-02-01&g=2023-02-01);
+- 1°. het aanloopgebied Noordzeekanaal, zoals omschreven in [artikel 23, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=3&artikel=23&z=2024-01-01&g=2024-01-01);
 
 - 2°. de buitenhaven IJmuiden vanaf de koppen van de havenhoofden tot aan het sluizencomplex van IJmuiden, inclusief Hoogovenhaven en Buitenspuikanaal, exclusief Seaport Marina IJmuiden, IJmondhaven, Haringhaven en Vissershaven;
 
@@ -470,15 +486,27 @@ In het zeehavengebied Amsterdam-IJmond heeft vrijstelling van de loodsplicht, be
 
 ##### Artikel 27. Vrijstelling van de loodsplicht met een PEC B, C of D
 
-1. In het zeehavengebied Amsterdam - IJmond worden de volgende PEC-trajecten onderscheiden:
+1. In het zeehavengebied Amsterdam – IJmond worden de volgende PEC-trajecten onderscheiden:
 
-- a. aanloop Noordzeekanaal - buitenhaven IJmuiden(gebied ten westen van sluizencomplex);
+- a. aanloop Noordzeekanaal – buitenhaven IJmuiden (gebied ten westen van sluizencomplex);
 
-- b. aanloop Noordzeekanaal - havens van Velsen en Beverwijk (gebied ten oosten van sluizencomplex tot aan kilometerpaal 11); en
+- b. aanloop Noordzeekanaal – havens van Velsen en Beverwijk (gebied ten oosten van sluizencomplex tot aan kilometerpaal 8);
 
-- c. aanloop Noordzeekanaal - havens van Amsterdam en Zaandam (gebied ten oosten van kilometerpaal 11).
+- c. aanloop Noordzeekanaal – Afrikahaven tot aan kilometerpaal 12;
 
-2. Voor alle in het eerste lid genoemde PEC-trajecten heeft vrijstelling van de loodsplicht, bedoeld in [artikel 4, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=4), de kapitein of eerste stuurman van een zeeschip, tenzij het een zeeschip met gevaarlijke lading betreft, en die in het bezit is van een:
+- d. aanloop Noordzeekanaal – Amerikahaven tot aan kilometerpaal 15;
+
+- e. aanloop Noordzeekanaal – Westhaven tot aan kilometerpaal 17;
+
+- f. aanloop Noordzeekanaal – Carel Reiniershaven tot aan kilometerpaal 19;
+
+- g. aanloop Noordzeekanaal – Coen- en Mercuriushaven tot aan kilometerpaal 22; en
+
+- h. aanloop Noordzeekanaal – het afgesloten IJ tot aan de Oranjesluizen en de Amsterdamse Brug in het Amsterdam-Rijnkanaal.
+
+2. In de trajecten als bedoeld in het eerste lid, onderdelen d tot en met h, zijn de tussengelegen havenbekkens geen onderdeel van het traject.
+
+3. Voor alle in het eerste lid genoemde PEC-trajecten heeft vrijstelling van de loodsplicht, bedoeld in [artikel 4, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=4), de kapitein of eerste stuurman van een zeeschip, tenzij het een zeeschip met gevaarlijke lading betreft, en die in het bezit is van een:
 
 - a. PEC B voor zeeschepen met een lengte over alles van meer dan 75 tot en met 115 meter;
 
@@ -486,7 +514,7 @@ In het zeehavengebied Amsterdam-IJmond heeft vrijstelling van de loodsplicht, be
 
 - c. PEC D voor zeeschepen met een lengte over alles van meer dan 150 meter.
 
-3. In het zeehavengebied Amsterdam-IJmond wordt geen PEC verstrekt voor trajecten via:
+4. In het zeehavengebied Amsterdam-IJmond wordt geen PEC verstrekt voor trajecten via:
 
 - a. de vaarwegen ten westen van de Noordzeesluizen in IJmuiden, met inbegrip van de daaraan gelegen havens, voor een zeeschip met een lengte over alles van 180 meter of meer dan wel met een diepgang van 10 meter of meer, met uitzondering van zeeschepen met een lengte over alles van meer dan 150 meter die in een vaste veerverbinding varen naar en van een ligplaats ten westen van de Noordzeesluizen in IJmuiden met een minimale aanloopfrequentie van een maal per week en die daarbij gebruik kunnen maken van het Zuiderbuitenkanaal met inbegrip van de daaraan gelegen havens;
 
@@ -622,13 +650,13 @@ In het zeehavengebied Rotterdam-Rijnmond - Zuid-Holland-achterland heeft vrijste
 
 ##### Artikel 35. Afwijkende bepalingen voor enkele PEC-trajecten
 
-1. In afwijking van [artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=4&paragraaf=1&artikel=34&z=2023-02-01&g=2023-02-01), is de kapitein of eerste stuurman, die in het bezit is van een PEC D, alleen vrijgesteld van de loodsplicht indien hij tevens in het bezit is van een geldig sleepboot coördinatie-certificaat voor:
+1. In afwijking van [artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=4&paragraaf=1&artikel=34&z=2024-01-01&g=2024-01-01), is de kapitein of eerste stuurman, die in het bezit is van een PEC D, alleen vrijgesteld van de loodsplicht indien hij tevens in het bezit is van een geldig sleepboot coördinatie-certificaat voor:
 
 - a. het traject aanloopgebied Rotterdam - Brittaniëhaven, indien het zeeschip een lengte over alles heeft van meer dan 160 meter; en
 
 - b. het traject aanloopgebied Rotterdam- Havens Vlaardingen met bestemming Vulcaanhaven, indien het zeeschip een lengte over alles heeft van meer dan 160 meter.
 
-2. In afwijking van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=1&paragraaf=2&artikel=4&z=2023-02-01&g=2023-02-01), geldt voor het traject aanloopgebied Rotterdam - havens Moerdijk, een frequentie-eis van ten minste 12 calls bij PEC B.
+2. De bevoegde autoriteit kan aan de kapitein of eerste stuurman ontheffing verlenen van de plicht om in het bezit te zijn van een geldig sleepboot coördinatie-certificaat.
 
 ##### Artikel 36. Vrijstelling van de loodsplicht met een PEC kleine zeeschepen
 
@@ -640,7 +668,7 @@ In het zeehavengebied Rotterdam-Rijnmond - Zuid-Holland-achterland heeft vrijste
 
 - b. de Dordtsche Kil of de daarop aansluitende vaarweg naar de havens van het Havenbedrijf Moerdijk, met inbegrip van de daaraan gelegen havens, indien het zeeschip een diepgang van 5,5 meter of meer heeft.
 
-3. Om voor een PEC-kleine zeeschepen in aanmerking te kunnen komen, voldoet de aanvrager aan de modules 1 en 2, waarbij in afwijking van [artikel 38, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=4&paragraaf=1&artikel=38&z=2023-02-01&g=2023-02-01), voor de toepassing van module 2 actieve kennis van de Engelse taal en passieve kennis van de Nederlandse taal wordt verlangd.
+3. Om voor een PEC-kleine zeeschepen in aanmerking te kunnen komen, voldoet de aanvrager aan de modules 1 en 2, waarbij in afwijking van [artikel 38, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=4&paragraaf=1&artikel=38&z=2024-01-01&g=2024-01-01), voor de toepassing van module 2 actieve kennis van de Engelse taal en passieve kennis van de Nederlandse taal wordt verlangd.
 
 4. Voor een PEC-kleine zeeschepen geldt geen frequentie-eis als bedoeld in [artikel 4, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=4).
 
@@ -648,15 +676,15 @@ In het zeehavengebied Rotterdam-Rijnmond - Zuid-Holland-achterland heeft vrijste
 
 1. In het zeehavengebied Rotterdam-Rijnmond - Zuid-Holland-achterland heeft op de door de bevoegde autoriteit te bepalen loodsplichtige scheepvaartwegen, vrijstelling van de loodsplicht, bedoeld in [artikel 4, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=4), de kapitein of eerste stuurman van een LNG-bunkerschip die in het bezit is van een PEC LNG-bunkerschepen.
 
-2. Om voor een PEC LNG-bunkerschepen in aanmerking te kunnen komen, voldoet de aanvrager aan de modules 1, 2, 3, 4 en 5, zoals die voor het zeehavengebied Rotterdam-Rijnmond - Zuid-Holland-achterland in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=4&paragraaf=1&artikel=38&z=2023-02-01&g=2023-02-01) nader zijn vastgesteld, met dien verstande dat:
+2. Om voor een PEC LNG-bunkerschepen in aanmerking te kunnen komen, voldoet de aanvrager aan de modules 1, 2, 3, 4 en 5, zoals die voor het zeehavengebied Rotterdam-Rijnmond - Zuid-Holland-achterland in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=4&paragraaf=1&artikel=38&z=2024-01-01&g=2024-01-01) nader zijn vastgesteld, met dien verstande dat:
 
 - a. voor de toepassing van module 2 actieve en passieve kennis van de Engelse taal en passieve kennis van de Nederlandse taal wordt verlangd en voor het traject Dordtsche Kil - havens Moerdijk, actieve kennis van de Engelse en Nederlandse taal wordt verlangd;
 
-- b. voor de toepassing van module 3 er 16 vaaruren worden gemaakt; en
+- b. voor de toepassing van module 3 een door de bevoegde autoriteit te bepalen vaartraject dan wel aantal vaaruren, waarvan tenminste 8, vastgesteld; en
 
-- c. voor de toepassing van module 5 er 8 vaaruren worden gemaakt.
+- c. voor de toepassing van module 5 een door de bevoegde autoriteit te bepalen vaartraject dan wel aantal vaaruren, waarvan tenminste 8, vastgesteld.
 
-3. Om de kennis en vaardigheden voor het PEC LNG-bunkerschepen te behouden, maakt de houder ervan het door de bevoegde autoriteit te bepalen aantal vaaruren per jaar op de scheepvaartwegen waarop zijn PEC van toepassing is. [Artikel 4, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=1&paragraaf=2&artikel=4&z=2023-02-01&g=2023-02-01), is van overeenkomstige toepassing.
+3. Om de kennis en vaardigheden voor het PEC LNG-bunkerschepen te behouden, maakt de houder ervan het door de bevoegde autoriteit te bepalen aantal vaaruren per jaar op de scheepvaartwegen waarop zijn PEC van toepassing is. [Artikel 4, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=1&paragraaf=2&artikel=4&z=2024-01-01&g=2024-01-01), is van overeenkomstige toepassing.
 
 4. [Artikel 9, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=9) is niet van toepassing op het PEC LNG-bunkerschepen.
 
@@ -686,7 +714,7 @@ In het zeehavengebied Rotterdam-Rijnmond - Zuid-Holland-achterland:
 
 ##### Artikel 40. Nadere aanduiding loodsplichtige scheepvaartwegen
 
-Het zeehavengebied Scheveningen omvat de loodsplichtige scheepvaartwegen die de aanloop naar de haven van Scheveningen vormen, begrensd door een lijn die loopt van 52°06’.18 N 004°15’.93 E, vandaar naar het zuidelijk hoekpunt van het ankergebied Scheveningen (52°07’.37 N 004°19’.9 E), vandaar naar het westelijke hoekpunt van het ankergebied Scheveningen (52°07’.90 N 004°14’.52 E), vandaar naar 52°07’.65 N 004°13’.72 E, vandaar naar 52°07’.15 N 004°12’.72 E, en vandaar naar 52°05’.56 N 004°15’.02 E, met inbegrip van de havens van Scheveningen.
+Het zeehavengebied Scheveningen omvat de loodsplichtige scheepvaartwegen die de aanloop naar de haven van Scheveningen vormen, begrensd door een lijn die loopt van 52°06’.18 N 004°15’.93 E, vandaar naar het zuidelijk hoekpunt van het ankergebied Scheveningen (52°07’.37 N 004°14’.9 E), vandaar naar het westelijke hoekpunt van het ankergebied Scheveningen (52°07’.90 N 004°14’.52 E), vandaar naar 52°07’.65 N 004°13’.72 E, vandaar naar 52°07’.15 N 004°12’.72 E, en vandaar naar 52°05’.56 N 004°15’.02 E, met inbegrip van de havens van Scheveningen.
 
 ##### Artikel 41. Aanwijzing bevoegde autoriteit
 
@@ -700,7 +728,7 @@ Bevoegde autoriteit voor de loodsplichtige scheepvaartwegen van het zeehavengebi
 
 ##### Artikel 43. Vrijstelling van de loodsplicht voor werkschepen
 
-In het zeehavengebied Scheveningen heeft vrijstelling van de loodsplicht, bedoeld in [artikel 3, derde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=1&paragraaf=2&artikel=3&z=2023-02-01&g=2023-02-01), de kapitein van een werkschip met een lengte over alles tot en met 100 meter.
+In het zeehavengebied Scheveningen heeft vrijstelling van de loodsplicht, bedoeld in [artikel 3, derde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=1&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01), de kapitein van een werkschip met een lengte over alles tot en met 100 meter.
 
 ##### Artikel 44. Vrijstelling van de loodsplicht met een PEC B
 
@@ -730,15 +758,15 @@ In het zeehavengebied Scheveningen:
 
 ##### Artikel 47. Experimenteerbepaling
 
-1. De bevoegde autoriteit, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=4&paragraaf=2&artikel=41&z=2023-02-01&g=2023-02-01), kan ten behoeve van een experiment als bedoeld in [artikel 18 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=18), in afwijking van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&hoofdstuk=2) en [3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&hoofdstuk=3) en de daarop gebaseerde bepalingen, aan een kapitein of eerste stuurman van een zeeschip met een lengte over alles van meer dan 100 meter, omwille van een experiment als bedoeld in dit artikel ontheffing van de loodplicht verlenen.
+1. De bevoegde autoriteit, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=4&paragraaf=2&artikel=41&z=2024-01-01&g=2024-01-01), kan ten behoeve van een experiment als bedoeld in [artikel 18 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=18), in afwijking van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&hoofdstuk=2) en [3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&hoofdstuk=3) en de daarop gebaseerde bepalingen, aan een kapitein of eerste stuurman van een zeeschip met een lengte over alles van meer dan 100 meter, omwille van een experiment als bedoeld in dit artikel ontheffing van de loodplicht verlenen.
 
-2. De ontheffing wordt verleend tot uiterlijk 31 december 2021 om te onderzoeken of het varen met zeeschepen op de scheepvaartwegen, bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=4&paragraaf=2&artikel=40&z=2023-02-01&g=2023-02-01), zonder op deze scheepvaartwegen gebruik te maken van de diensten van een loods, nautisch verantwoord is.
+2. De ontheffing wordt verleend tot uiterlijk 31 december 2021 om te onderzoeken of het varen met zeeschepen op de scheepvaartwegen, bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=4&paragraaf=2&artikel=40&z=2024-01-01&g=2024-01-01), zonder op deze scheepvaartwegen gebruik te maken van de diensten van een loods, nautisch verantwoord is.
 
-3. De bevoegde autoriteit, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=4&paragraaf=2&artikel=41&z=2023-02-01&g=2023-02-01), bepaalt welke schepen voor het experiment in aanmerking kunnen komen. Hieraan worden voorschriften en beperkingen verbonden. Deze kunnen betrekking hebben op de daarvoor benodigde kennis, vaardigheden en ervaring van de kapitein of eerste stuurman van een deelnemend schip, de bemanning van het schip en frequentie waarin het schip het betreffende traject dient af te leggen.
+3. De bevoegde autoriteit, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=4&paragraaf=2&artikel=41&z=2024-01-01&g=2024-01-01), bepaalt welke schepen voor het experiment in aanmerking kunnen komen. Hieraan worden voorschriften en beperkingen verbonden. Deze kunnen betrekking hebben op de daarvoor benodigde kennis, vaardigheden en ervaring van de kapitein of eerste stuurman van een deelnemend schip, de bemanning van het schip en frequentie waarin het schip het betreffende traject dient af te leggen.
 
-4. Ten behoeve van de evaluatie van het experiment bepaalt de bevoegde autoriteit, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=4&paragraaf=2&artikel=41&z=2023-02-01&g=2023-02-01), op welke wijze het experiment gemonitord zal worden.
+4. Ten behoeve van de evaluatie van het experiment bepaalt de bevoegde autoriteit, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=4&paragraaf=2&artikel=41&z=2024-01-01&g=2024-01-01), op welke wijze het experiment gemonitord zal worden.
 
-5. Indien voor het einde van de periode waarop het experiment betrekking heeft, duidelijk is dat het gelet op de veilige en vlotte scheepvaart als bedoeld in [artikel 3 van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=3) onverantwoord is het experiment nog langer voort te zetten, wordt het experiment door de bevoegde autoriteit, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=4&paragraaf=2&artikel=41&z=2023-02-01&g=2023-02-01), voortijdig beëindigd.
+5. Indien voor het einde van de periode waarop het experiment betrekking heeft, duidelijk is dat het gelet op de veilige en vlotte scheepvaart als bedoeld in [artikel 3 van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=3) onverantwoord is het experiment nog langer voort te zetten, wordt het experiment door de bevoegde autoriteit, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=4&paragraaf=2&artikel=41&z=2024-01-01&g=2024-01-01), voortijdig beëindigd.
 
 6. Ten behoeve van de beoordeling of het experiment aanleiding geeft tot het aanpassen van regelgeving, ontvangt de minister uiterlijk op 1 augustus 2022, de resultaten van de evaluatie van het experiment tot dan toe.
 
@@ -776,9 +804,9 @@ Bevoegde autoriteit voor de loodsplichtige scheepvaartwegen van het zeehavengebi
 
 1. In het zeehavengebied Scheldemonden heeft vrijstelling van de loodsplicht, bedoeld in [artikel 3, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=3), de kapitein van een zeeschip op:
 
-- a. de scheepvaartwegen, genoemd in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=5&artikel=48&z=2023-02-01&g=2023-02-01), indien zij voldoen aan de voorwaarden voor vrijstelling van de loodsplicht krachtens artikel 9, tweede lid, onderdeel a, van het Scheldereglement;
+- a. de scheepvaartwegen, genoemd in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=5&artikel=48&z=2024-01-01&g=2024-01-01), indien zij voldoen aan de voorwaarden voor vrijstelling van de loodsplicht krachtens artikel 9, tweede lid, onderdeel a, van het Scheldereglement;
 
-- b. de scheepvaartwegen, genoemd in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=5&artikel=48&z=2023-02-01&g=2023-02-01), met een lengte over alles tot en met 80 meter.
+- b. de scheepvaartwegen, genoemd in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=5&artikel=48&z=2024-01-01&g=2024-01-01), met een lengte over alles tot en met 80 meter.
 
 2. In het zeehavengebied Scheldemonden heeft vrijstelling van de loodsplicht, bedoeld in [artikel 3, derde lid, onderdeel e, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=3), de kapitein van een zeeschip, indien het schip met een lengte tot en met 180 meter een verplaatsing maakt zonder daarbij de hoofdvaarweg binnen het zeehavengebied te bevaren, binnen de volgende havenbekkens in dat zeehavengebied:
 
@@ -818,15 +846,15 @@ Bevoegde autoriteit voor de loodsplichtige scheepvaartwegen van het zeehavengebi
 
 ##### Artikel 51. Vrijstelling van de loodsplicht voor werkschepen
 
-In het zeehavengebied Scheldemonden heeft vrijstelling van de loodsplicht, bedoeld in [artikel 3, derde lid, onderdeel f, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=3), de kapitein van een werkschip op de scheepvaartwegen, genoemd in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=5&artikel=48&z=2023-02-01&g=2023-02-01), indien zij voldoen aan de voorwaarden voor vrijstelling van de loodsplicht krachtens artikel 9, tweede lid, onderdeel a, van het Scheldereglement.
+In het zeehavengebied Scheldemonden heeft vrijstelling van de loodsplicht, bedoeld in [artikel 3, derde lid, onderdeel f, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=3), de kapitein van een werkschip op de scheepvaartwegen, genoemd in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=5&artikel=48&z=2024-01-01&g=2024-01-01), indien zij voldoen aan de voorwaarden voor vrijstelling van de loodsplicht krachtens artikel 9, tweede lid, onderdeel a, van het Scheldereglement.
 
 ##### Artikel 52. Vrijstelling van de loodsplicht met PEC A, B, C of D
 
-1. Op de scheepvaartwegen, genoemd in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=5&artikel=48&z=2023-02-01&g=2023-02-01), heeft vrijstelling van de loodsplicht, bedoeld in [artikel 4, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=4), de kapitein of eerste stuurman van een zeeschip, tenzij het een zeeschip met gevaarlijke lading betreft, indien die scheepvaartwegen de start- of eindbestemming vormen van een PEC-traject op basis van het Scheldereglement, indien hij in het bezit is van een op basis van het Scheldereglement geldige PEC of een PEC die aan dezelfde eisen en voorwaarden voldoet, zoals die gelden voor de PEC-trajecten op grond van het Scheldereglement.
+1. Op de scheepvaartwegen, genoemd in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=5&artikel=48&z=2024-01-01&g=2024-01-01), heeft vrijstelling van de loodsplicht, bedoeld in [artikel 4, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=4), de kapitein of eerste stuurman van een zeeschip, tenzij het een zeeschip met gevaarlijke lading betreft, indien die scheepvaartwegen de start- of eindbestemming vormen van een PEC-traject op basis van het Scheldereglement, indien hij in het bezit is van een op basis van het Scheldereglement geldige PEC of een PEC die aan dezelfde eisen en voorwaarden voldoet, zoals die gelden voor de PEC-trajecten op grond van het Scheldereglement.
 
-2. In afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=1&paragraaf=2&artikel=3&z=2023-02-01&g=2023-02-01), gelden voor de PEC’s op de scheepvaartwegen, genoemd in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=5&artikel=48&z=2023-02-01&g=2023-02-01), de modules zoals vastgesteld op basis van het Scheldereglement.
+2. In afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=1&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01), gelden voor de PEC’s op de scheepvaartwegen, genoemd in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=5&artikel=48&z=2024-01-01&g=2024-01-01), de modules zoals vastgesteld op basis van het Scheldereglement.
 
-3. In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=1&paragraaf=2&artikel=4&z=2023-02-01&g=2023-02-01) geldt voor de in het eerste lid bedoelde PEC-trajecten dezelfde frequentie-eis als die geldt voor het PEC-traject op grond van het Scheldereglement.
+3. In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&hoofdstuk=1&paragraaf=2&artikel=4&z=2024-01-01&g=2024-01-01) geldt voor de in het eerste lid bedoelde PEC-trajecten dezelfde frequentie-eis als die geldt voor het PEC-traject op grond van het Scheldereglement.
 
 ##### Artikel 53. Aanwijzing scheepvaartwegen met ad-hoc-loodsplicht
 
@@ -871,5 +899,17 @@ De volgende regelingen worden ingetrokken:
 ##### Artikel 59. Citeertitel
 
 Deze regeling wordt aangehaald als: Loodsplichtregeling 2021.
+
+Deze regeling zal met de toelichting in de Staatcourant worden geplaatst.
+
+##### Artikel 33a. Vrijstelling van de loodsplicht voor kleine zeeschepen
+
+De kapitein of eerste stuurman van een klein zeeschip met als vertrekpunt respectievelijk bestemming de Handelskade te Dordrecht of een locatie op de Nieuwe Maas, gelegen tussen kilometerraaien 992 en 993 of tussen kilometerraaien 1001 en 1004, en die in het bezit is van een geldig Rijnpatent als bedoeld in [artikel 11.02 van het Reglement betreffende het scheepvaartpersoneel op de Rijn](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&artikel=11.02) of vaarbevoegdheidsbewijs voor de binnenvaart als bedoeld in [artikel 25, eerste lid, van de Binnenvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=25), is vrijgesteld van de loodsplicht indien de haven van bestemming respectievelijk vertrek is gelegen aan een scheepvaartweg waar de loodsplicht niet van toepassing is. De vorige volzin is tevens van toepassing indien een derde, die in het bezit is van een genoemde vaarbevoegdheid, aan boord is respectievelijk aan boord komt op een genoemde locatie.
+
+#### § 2. Zeehavengebied Scheveningen
+
+### Hoofdstuk 5. Zeehavenregio Scheldemonden
+
+### Hoofdstuk 6. Slotbepalingen
 
 Deze regeling zal met de toelichting in de Staatcourant worden geplaatst.
