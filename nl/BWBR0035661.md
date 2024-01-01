@@ -4,7 +4,7 @@ identifier: "BWBR0035661"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2014-11-28"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035661"
 soort: "AMvB"
@@ -56,7 +56,7 @@ Hebben goedgevonden en verstaan:
 
 - 2°. een onvrije etage is; of
 
-- 3°. een onzelfstandige woonruimte is, die deel uitmaakt van een woongebouw of woning, geheel of gedeeltelijk verhuurd ten behoeve van begeleid wonen, groepswonen door ouderen of een daarmee vergelijkbare woonvorm, en in eigendom van en aan de huurder verhuurd door een rechtspersoon zonder winstoogmerk, die mede op het gebied van de volkshuisvesting werkzaam is, als de onzelfstandige woonruimte deel uitmaakt van een woongebouw of woning, die op grond van [artikel 11, tweede lid, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=11) door de Belastingdienst/Toeslagen is aangewezen;
+- 3°. een onzelfstandige woonruimte is, die deel uitmaakt van een woongebouw of woning, geheel of gedeeltelijk verhuurd ten behoeve van begeleid wonen, groepswonen door ouderen of een daarmee vergelijkbare woonvorm, en in eigendom van en aan de huurder verhuurd door een rechtspersoon zonder winstoogmerk, die mede op het gebied van de volkshuisvesting werkzaam is, als de onzelfstandige woonruimte deel uitmaakt van een woongebouw of woning, die op grond van [artikel 11, tweede lid, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=11) door de Dienst Toeslagen is aangewezen;
 
 - b. **woonruimte:** een besloten ruimte die, al dan niet tezamen met een of meer andere ruimten, bestemd of geschikt is voor bewoning door een huishouden;
 
@@ -64,7 +64,7 @@ Hebben goedgevonden en verstaan:
 
 - d. **onvrije etage:** een zelfstandige woonruimte op een etage waarbij de voordeur, het trappenhuis of de lift met andere bewoners wordt gedeeld;
 
-- e. **woonwagen:** een voor bewoning bestemd gebouw dat is geplaatst op een standplaats, dat voldoet aan de eisen, daaraan gesteld krachtens de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) en dat in zijn geheel of in delen kan worden verplaatst;
+- e. **woonwagen:** een voor bewoning bestemd gebouw dat is geplaatst op een standplaats, dat voldoet aan de eisen, daaraan gesteld krachtens de op grond van [artikel 4.3 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.3) gestelde regels over bouwactiviteiten, sloopactiviteiten en het gebruik en het in stand houden van bouwwerken en dat in zijn geheel of in delen kan worden verplaatst;
 
 - f. **standplaats:** een kavel, bestemd voor het plaatsen van een woonwagen, waarop voorzieningen aanwezig zijn die op het leidingnet van de openbare nutsbedrijven, andere instellingen of van gemeenten kunnen worden aangesloten of een regionaal woonwagencentrum dat tot stand is gekomen voor 1 oktober 1970;
 
@@ -72,7 +72,17 @@ Hebben goedgevonden en verstaan:
 
 - h. **ligplaats:** een plaats in het water, bestemd of aangewezen om door een woonschip bij verblijf te worden ingenomen;
 
-- i. **binnenschip:** hetgeen daaronder wordt verstaan in [artikel 1, eerste lid, onder 1°, van de Binnenvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=1).
+- i. **binnenschip:** hetgeen daaronder wordt verstaan in [artikel 1, eerste lid, onder 1°, van de Binnenvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=1);
+
+- j. **maandelijkse servicekosten:**
+
+- 1°. kosten voor het in bedrijf zijn van lift-, ventilatie-, hydrofoor- en alarminstallaties, en van verlichting van door de huurder met anderen gemeenschappelijk gebruikte ruimten;
+
+- 2°. schoonmaakkosten van de lift en andere gemeenschappelijke ruimten;
+
+- 3°. kosten voor de diensten van een huismeester; en
+
+- 4°. kapitaals- en onderhoudskosten van dienstruimten en gemeenschappelijke recreatieruimten.
 
 2. In dit besluit wordt onder woning mede verstaan:
 
@@ -118,7 +128,7 @@ Hebben goedgevonden en verstaan:
 
 - c. in geval van huur van een woonwagen of woonschip de kale huurprijs van de woonwagen of het woonschip plus het bedrag dat verschuldigd is voor het gebruik van de standplaats of de ligplaats.
 
-- d. de maandelijkse servicekosten, bedoeld in [artikel 5, derde lid, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=5);
+- d. de maandelijkse servicekosten;
 
 - e. de door appartementseigenaars periodiek aan de vereniging van eigenaars verschuldigde bijdragen;
 
@@ -128,15 +138,15 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 3. Overgangsbepalingen
 
-1. [Artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035661&artikel=2&z=2014-11-28&g=2014-11-28), is niet van toepassing op de ongehuwde pensioengerechtigde die op de dag voor inwerkingtreding van dit besluit recht heeft op een toeslag als bedoeld in [artikel 8, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=8) en van wie dat recht als gevolg van de toepassing van artikel 2, eerste lid, zou eindigen, voor zolang dat recht op toeslag duurt.
+1. [Artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035661&artikel=2&z=2024-01-01&g=2024-01-01), is niet van toepassing op de ongehuwde pensioengerechtigde die op de dag voor inwerkingtreding van dit besluit recht heeft op een toeslag als bedoeld in [artikel 8, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=8) en van wie dat recht als gevolg van de toepassing van artikel 2, eerste lid, zou eindigen, voor zolang dat recht op toeslag duurt.
 
-2. De ongehuwde pensioengerechtigde, bedoeld in het eerste lid, en zijn echtgenoot kunnen de Sociale verzekeringsbank gezamenlijk verzoeken, om in afwijking van het eerste lid, [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035661&artikel=2&z=2014-11-28&g=2014-11-28), toe te passen, welk verzoek door de Sociale verzekeringsbank wordt ingewilligd.
+2. De ongehuwde pensioengerechtigde, bedoeld in het eerste lid, en zijn echtgenoot kunnen de Sociale verzekeringsbank gezamenlijk verzoeken, om in afwijking van het eerste lid, [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035661&artikel=2&z=2024-01-01&g=2024-01-01), toe te passen, welk verzoek door de Sociale verzekeringsbank wordt ingewilligd.
 
-3. De ongehuwde pensioengerechtigde en zijn echtgenoot ten aanzien van wie, op grond van een verzoek als bedoeld in het tweede lid, in afwijking van het eerste lid, [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035661&artikel=2&z=2014-11-28&g=2014-11-28), wordt toegepast, kunnen de Sociale verzekeringsbank gezamenlijk verzoeken, om het eerste lid toe te passen, welk verzoek door de Sociale verzekeringsbank wordt ingewilligd.
+3. De ongehuwde pensioengerechtigde en zijn echtgenoot ten aanzien van wie, op grond van een verzoek als bedoeld in het tweede lid, in afwijking van het eerste lid, [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035661&artikel=2&z=2024-01-01&g=2024-01-01), wordt toegepast, kunnen de Sociale verzekeringsbank gezamenlijk verzoeken, om het eerste lid toe te passen, welk verzoek door de Sociale verzekeringsbank wordt ingewilligd.
 
-4. De ongehuwde pensioengerechtigde die recht zou hebben op een toeslag als bedoeld in [artikel 8, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=8) en voor wie dat recht als gevolg van de toepassing van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035661&artikel=2&z=2014-11-28&g=2014-11-28), niet ontstaat, en zijn echtgenoot kunnen de Sociale verzekeringsbank gezamenlijk verzoeken, om artikel 2, eerste lid, niet toe te passen, welk verzoek door de Sociale verzekeringsbank wordt ingewilligd.
+4. De ongehuwde pensioengerechtigde die recht zou hebben op een toeslag als bedoeld in [artikel 8, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=8) en voor wie dat recht als gevolg van de toepassing van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035661&artikel=2&z=2024-01-01&g=2024-01-01), niet ontstaat, en zijn echtgenoot kunnen de Sociale verzekeringsbank gezamenlijk verzoeken, om artikel 2, eerste lid, niet toe te passen, welk verzoek door de Sociale verzekeringsbank wordt ingewilligd.
 
-5. De ongehuwde pensioengerechtigde en zijn echtgenoot ten aanzien van wie, op grond van een verzoek als bedoeld in het vierde lid, [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035661&artikel=2&z=2014-11-28&g=2014-11-28), niet wordt toegepast, kunnen de Sociale verzekeringsbank gezamenlijk verzoeken om artikel 2, eerste lid, toe te passen, welk verzoek door de Sociale verzekeringsbank wordt ingewilligd.
+5. De ongehuwde pensioengerechtigde en zijn echtgenoot ten aanzien van wie, op grond van een verzoek als bedoeld in het vierde lid, [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035661&artikel=2&z=2024-01-01&g=2024-01-01), niet wordt toegepast, kunnen de Sociale verzekeringsbank gezamenlijk verzoeken om artikel 2, eerste lid, toe te passen, welk verzoek door de Sociale verzekeringsbank wordt ingewilligd.
 
 ##### Artikel 4. Inwerkingtreding
 
