@@ -4,7 +4,7 @@ identifier: "BWBR0048506"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2023-10-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048506"
 soort: "wet"
@@ -66,8 +66,6 @@ Wijzigt het Wetboek van Strafvordering.
 ##### Artikel V
 
 Wijzigt de Wet DNA-onderzoek bij veroordeelden.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ### Hoofdstuk 3. Wijziging van wetten van het Ministerie van Sociale Zaken en Werkgelegenheid
 
