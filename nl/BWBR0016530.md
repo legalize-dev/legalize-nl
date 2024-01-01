@@ -4,7 +4,7 @@ identifier: "BWBR0016530"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2018-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016530"
 soort: "AMvB"
@@ -106,7 +106,7 @@ Bij regeling van Onze Minister wordt bepaald op welke wijze de aanvraag geschied
 
 ##### Artikel 4
 
-Een inzamelaar die staat vermeld op de lijst van inzamelaars, meldt een verandering van de gegevens, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=2&artikel=3&z=2018-01-01&g=2018-01-01), onverwijld aan de instantie op een door Onze Minister te bepalen wijze.
+Een inzamelaar die staat vermeld op de lijst van inzamelaars, meldt een verandering van de gegevens, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01), onverwijld aan de instantie op een door Onze Minister te bepalen wijze.
 
 ##### Artikel 5
 
@@ -130,7 +130,7 @@ Het verbod, bedoeld in [artikel 10.45, eerste lid, van de Wet milieubeheer](http
 
 Een vergunning van Onze Minister is vereist voor het inzamelen van:
 
-- a. afgewerkte olie die voldoet aan de vereisten van [artikel 1, eerste lid, onderdeel c, onder 2°, het eerste tot en met vierde streepje](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=1&artikel=1&z=2018-01-01&g=2018-01-01), met uitzondering van afgewerkte olie afkomstig van schepen,
+- a. afgewerkte olie die voldoet aan de vereisten van [artikel 1, eerste lid, onderdeel c, onder 2°, het eerste tot en met vierde streepje](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=1&artikel=1&z=2024-01-01&g=2024-01-01), met uitzondering van afgewerkte olie afkomstig van schepen,
 
 - b. klein gevaarlijk afval, met uitzondering van klein gevaarlijk afval afkomstig van schepen, of
 
@@ -200,13 +200,13 @@ Een vergunning van Onze Minister is vereist voor het inzamelen van:
 
 1. Degene die op het tijdstip van inwerkingtreding van dit besluit bedrijfsafvalstoffen of gevaarlijke afvalstoffen inzamelt waarvoor een vergunning is vereist, maar waarvoor voor dat tijdstip geen vergunning was vereist, dient zo spoedig mogelijk doch uiterlijk binnen drie maanden na dat tijdstip een aanvraag om een vergunning in.
 
-2. Onze Minister verstrekt de aanvrager die een ontvankelijke aanvraag heeft ingediend per omgaand een bewijs van ontvangst van de aanvraag. Dit bewijs geldt als een vergunning als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=9&z=2018-01-01&g=2018-01-01) totdat op de aanvraag is beslist.
+2. Onze Minister verstrekt de aanvrager die een ontvankelijke aanvraag heeft ingediend per omgaand een bewijs van ontvangst van de aanvraag. Dit bewijs geldt als een vergunning als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=9&z=2024-01-01&g=2024-01-01) totdat op de aanvraag is beslist.
 
 ##### Artikel 14
 
-1. In afwijking van [artikel 11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=11&z=2018-01-01&g=2018-01-01), kan tot uiterlijk drie jaar na het tijdstip van inwerkingtreding van dit besluit worden volstaan met het verstrekken van de gegevens, bedoeld in [artikel 11, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=11&z=2018-01-01&g=2018-01-01), of [artikel 11, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=11&z=2018-01-01&g=2018-01-01).
+1. In afwijking van [artikel 11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=11&z=2024-01-01&g=2024-01-01), kan tot uiterlijk drie jaar na het tijdstip van inwerkingtreding van dit besluit worden volstaan met het verstrekken van de gegevens, bedoeld in [artikel 11, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=11&z=2024-01-01&g=2024-01-01), of [artikel 11, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=11&z=2024-01-01&g=2024-01-01).
 
-2. Indien toepassing wordt gegeven aan het eerste lid, verstrekt de aanvrager uiterlijk op het tijdstip, bedoeld in het eerste lid, de gegevens, bedoeld in [artikel 11, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=11&z=2018-01-01&g=2018-01-01), of [artikel 11, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=11&z=2018-01-01&g=2018-01-01).
+2. Indien toepassing wordt gegeven aan het eerste lid, verstrekt de aanvrager uiterlijk op het tijdstip, bedoeld in het eerste lid, de gegevens, bedoeld in [artikel 11, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=11&z=2024-01-01&g=2024-01-01), of [artikel 11, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=11&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 15
 
@@ -282,7 +282,7 @@ Deze paragraaf berust op [artikel 10.47, eerste lid, van de Wet milieubeheer](ht
 
 ##### Artikel 1b
 
-Bedrijfsafvalstoffen en gevaarlijke afvalstoffen die behoren tot een categorie van afvalstoffen als bedoeld in [bijlage 11 van de Activiteitenregeling milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0022830&bijlage=11) en die gescheiden worden afgegeven, worden afzonderlijk ingezameld, tenzij in een vergunning, afgeven krachtens [artikel 10.48, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.48) anders is bepaald.
+Bedrijfsafvalstoffen en gevaarlijke afvalstoffen die behoren tot een categorie van afvalstoffen als bedoeld in [bijlage II bij het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&bijlage=II) en die gescheiden worden afgegeven, worden afzonderlijk ingezameld, tenzij in een vergunning, afgeven krachtens [artikel 10.48, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.48) anders is bepaald.
 
 #### § 2. Vermelding op de lijst van inzamelaars
 
@@ -290,6 +290,6 @@ Bedrijfsafvalstoffen en gevaarlijke afvalstoffen die behoren tot een categorie v
 
 #### § 4. Overgangs- en slotbepalingen
 
-## Bijlage. behorende bij de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=1&artikel=1&z=2018-01-01&g=2018-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=9&z=2018-01-01&g=2018-01-01) van het Besluit inzamelen afvalstoffen
+## Bijlage. behorende bij de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=1&artikel=1&z=2024-01-01&g=2024-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&paragraaf=3&artikel=9&z=2024-01-01&g=2024-01-01) van het Besluit inzamelen afvalstoffen
 
 Vervallen
