@@ -4,7 +4,7 @@ identifier: "BWBR0048664"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2023-10-28"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048664"
 soort: "ministeriele-regeling"
@@ -50,23 +50,23 @@ In deze regeling wordt verstaan onder:
 
 - **directe lijn:** directe lijn als bedoeld in [artikel 1, eerste lid, onderdeel ar, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=1);
 
-- **direct gekoppelde waterstofproductie-installatie:** waterstofproductie-installatie als bedoeld in [artikel 2.2, eerste lid, onderdeel d, subonderdeel 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=2&artikel=2.2&z=2023-10-28&g=2023-10-28);
+- **direct gekoppelde waterstofproductie-installatie:** waterstofproductie-installatie als bedoeld in [artikel 2.2, eerste lid, onderdeel d, subonderdeel 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=2&artikel=2.2&z=2024-01-01&g=2024-01-01);
 
-- **dubbelgekoppelde waterstofproductie-installatie:** waterstofproductie als bedoeld in [artikel 2.2, eerste lid, onderdeel d, subonderdeel 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=2&artikel=2.2&z=2023-10-28&g=2023-10-28);
+- **dubbelgekoppelde waterstofproductie-installatie:** waterstofproductie als bedoeld in [artikel 2.2, eerste lid, onderdeel d, subonderdeel 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=2&artikel=2.2&z=2024-01-01&g=2024-01-01);
 
 - **elektriciteitsnet:** net als bedoeld in [artikel 1, eerste lid, onderdeel i, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=1);
 
-- **exploitatiesubsidiebedrag:** bedrag van het exploitatiesubsidiedeel overeenkomstig [artikel 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=6&artikel=6.4&z=2023-10-28&g=2023-10-28);
+- **exploitatiesubsidiebedrag:** bedrag van het exploitatiesubsidiedeel overeenkomstig [artikel 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=6&artikel=6.4&z=2024-01-01&g=2024-01-01);
 
-- **exploitatiesubsidiedeel:** subsidiedeel als bedoeld [artikel 2.1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=2&artikel=2.1&z=2023-10-28&g=2023-10-28);
+- **exploitatiesubsidiedeel:** subsidiedeel als bedoeld [artikel 2.1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=2&artikel=2.1&z=2024-01-01&g=2024-01-01);
 
 - **garantie van oorsprong voor duurzame elektriciteit:** garantie van oorsprong voor duurzame elektriciteit als bedoeld in [artikel 1, eerste lid, onderdeel x, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=1);
 
 - **garantie van oorsprong voor hernieuwbare waterstof:** garantie van oorsprong voor ander gas uit hernieuwbare bronnen, zijnde waterstof, als bedoeld in [artikel 1, eerste lid, van de Wet implementatie EU-richtlijn hernieuwbare energie voor garanties van oorsprong](https://wetten.overheid.nl/jci1.3:c:BWBR0046743&artikel=1);
 
-- **investeringssubsidiebedrag:** bedrag van het investeringssubsidiedeel overeenkomstig de [artikelen 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=5&artikel=5.2&z=2023-10-28&g=2023-10-28) en [5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=5&artikel=5.3&z=2023-10-28&g=2023-10-28);
+- **investeringssubsidiebedrag:** bedrag van het investeringssubsidiedeel overeenkomstig de [artikelen 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=5&artikel=5.2&z=2024-01-01&g=2024-01-01) en [5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=5&artikel=5.3&z=2024-01-01&g=2024-01-01);
 
-- **investeringssubsidiedeel:** subsidiedeel als bedoeld in [artikel 2.1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=2&artikel=2.1&z=2023-10-28&g=2023-10-28);
+- **investeringssubsidiedeel:** subsidiedeel als bedoeld in [artikel 2.1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=2&artikel=2.1&z=2024-01-01&g=2024-01-01);
 
 - **kleine onderneming:** kleine onderneming als bedoeld in bijlage I bij [Verordening (EU) nr. 651/2014](32014R0651) van de Europese Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard;
 
@@ -76,13 +76,13 @@ In deze regeling wordt verstaan onder:
 
 - **netbeheerder:** netbeheerder als bedoeld in [artikel 1, eerste lid, onderdeel k, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=1);
 
-- **netgekoppelde waterstofproductie-installatie:** waterstofproductie-installatie als bedoeld in [artikel 2.2, eerste lid, onderdeel d, subonderdeel 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=2&artikel=2.2&z=2023-10-28&g=2023-10-28);
+- **netgekoppelde waterstofproductie-installatie:** waterstofproductie-installatie als bedoeld in [artikel 2.2, eerste lid, onderdeel d, subonderdeel 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=2&artikel=2.2&z=2024-01-01&g=2024-01-01);
 
 - **nominaal elektrisch inputvermogen van de elektrolyser:** door de leverancier aangegeven maximale elektrische vermogen in MW van de elektrolyser dat onder nominale condities kan worden benut voor de productie van waterstof bij continu gebruik;
 
 - **onderneming:** iedere eenheid, ongeacht haar rechtsvorm of wijze van financiering, die een economische activiteit uitoefent;
 
-- **productieprijs van volledig hernieuwbare waterstof:** productieprijs van volledig hernieuwbare waterstof overeenkomstig [artikel 6.11](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=6&artikel=6.11&z=2023-10-28&g=2023-10-28);
+- **productieprijs van volledig hernieuwbare waterstof:** productieprijs van volledig hernieuwbare waterstof overeenkomstig [artikel 6.11](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=6&artikel=6.11&z=2024-01-01&g=2024-01-01);
 
 - **richtlijn (EU) 2018/2001:** [richtlijn (EU) 2018/2001](32018L2001) van het Europees Parlement en de Raad van 11 december 2018 ter bevordering van het gebruik van energie uit hernieuwbare bronnen (PbEU 2018, L 328);
 
@@ -152,7 +152,7 @@ De Minister verstrekt op aanvraag aan een onderneming subsidie bestaande uit:
 
 ##### Artikel 3.1. (verdeling subsidieplafond)
 
-1. De Minister verdeelt het subsidieplafond in de volgorde van rangschikking van de aanvragen voor subsidie waarop niet met toepassing van [artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=3&artikel=3.11&z=2023-10-28&g=2023-10-28) afwijzend wordt beslist.
+1. De Minister verdeelt het subsidieplafond in de volgorde van rangschikking van de aanvragen voor subsidie waarop niet met toepassing van [artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=3&artikel=3.11&z=2024-01-01&g=2024-01-01) afwijzend wordt beslist.
 
 2. De rangschikking vindt plaats op rangschikkingsbedrag waarbij geldt dat hoe lager het rangschikkingsbedrag van een aanvraag is, hoe hoger de aanvraag wordt gerangschikt, met inachtneming van het derde tot en met zesde lid.
 
@@ -166,13 +166,13 @@ De Minister verstrekt op aanvraag aan een onderneming subsidie bestaande uit:
 
 ##### Artikel 3.2. (rangschikkingsbedrag €/MW)
 
-1. Het rangschikkingsbedrag, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=3&artikel=3.1&z=2023-10-28&g=2023-10-28), is het aangevraagde subsidiebedrag in € per MW nominaal elektrisch inputvermogen van de elektrolyser.
+1. Het rangschikkingsbedrag, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=3&artikel=3.1&z=2024-01-01&g=2024-01-01), is het aangevraagde subsidiebedrag in € per MW nominaal elektrisch inputvermogen van de elektrolyser.
 
 2. Het rangschikkingsbedrag wordt berekend met de formule:
 
 rangschikkingsbedrag = (investeringssubsidiebedrag in € + het maximum exploitatiesubsidiebedrag in €) : nominaal elektrisch inputvermogen van de elektrolyser.
 
-3. Bij het bepalen van het investeringssubsidiebedrag, bedoeld in het tweede lid, blijft een eventuele verhoging voor een kleine of middelgrote onderneming als bedoeld in [artikel 5.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=5&artikel=5.3&z=2023-10-28&g=2023-10-28), buiten beschouwing.
+3. Bij het bepalen van het investeringssubsidiebedrag, bedoeld in het tweede lid, blijft een eventuele verhoging voor een kleine of middelgrote onderneming als bedoeld in [artikel 5.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=5&artikel=5.3&z=2024-01-01&g=2024-01-01), buiten beschouwing.
 
 ##### Artikel 3.3. (gegevens aanvraag)
 
@@ -190,7 +190,7 @@ rangschikkingsbedrag = (investeringssubsidiebedrag in € + het maximum exploita
 
 - 1°. de activiteiten ter realisatie van de waterstofproductie-installatie met ten minste drie mijlpalen en een tijdschema met de geplande startdatum van de activiteiten en de geplande datum waarop de waterstofproductie-installatie zal zijn gerealiseerd;
 
-- 2°. een begroting, per component, van de subsidiabele kosten, bedoeld in [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=5&artikel=5.4&z=2023-10-28&g=2023-10-28);
+- 2°. een begroting, per component, van de subsidiabele kosten, bedoeld in [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=5&artikel=5.4&z=2024-01-01&g=2024-01-01);
 
 - e. indien van toepassing: gegevens waarmee de subsidieaanvrager kan aantonen dat hij een kleine of middelgrote onderneming is.
 
@@ -216,11 +216,9 @@ rangschikkingsbedrag = (investeringssubsidiebedrag in € + het maximum exploita
 
 ##### Artikel 3.5. (vergunningen)
 
-1. Een aanvraag voor subsidie gaat vergezeld van de vergunning die op grond van [artikel 2.1, eerste lid, onderdeel e, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) noodzakelijk is voor het oprichten en in werking hebben van de waterstofproductie-installatie.
+1. De aanvraag voor subsidie gaat vergezeld van de vergunningen die krachtens de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) noodzakelijk zijn voor de waterstofproductie-installatie.
 
-2. Indien geen vergunning als bedoeld in het eerste lid noodzakelijk is, gaat de aanvraag vergezeld van de vergunning die op grond van [artikel 6.5, aanhef en onderdeel c, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.5) noodzakelijk is om gebruik te maken van een waterstaatswerk of een daartoe behorende beschermingszone.
-
-3. Indien sprake is van een direct gekoppelde waterstofproductie-installatie of dubbelgekoppelde waterstofproductie-installatie, gaat de aanvraag vergezeld van de vergunning die voor de productie-installatie of productie-installaties voor de productie van hernieuwbare elektriciteit uit wind- of zonne-energie op grond van [artikel 2.1, eerste lid, onderdeel a, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) of op grond van [artikel 6.5, aanhef en onderdeel c, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.5) noodzakelijk is voor het bouwen van een bouwwerk, tenzij die productie-installatie al gebouwd is op de datum waarop de aanvraag is ingediend.
+2. Indien sprake is van een direct gekoppelde waterstofproductie-installatie of dubbelgekoppelde waterstofproductie-installatie, gaat de aanvraag vergezeld van de vergunning die voor een productie-installatie voor de productie van hernieuwbare elektriciteit uit wind- of zonne-energie krachtens de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) noodzakelijk is, tenzij die productie-installatie al gebouwd is op de datum waarop de aanvraag is ingediend.
 
 ##### Artikel 3.6. (haalbaarheidsstudie)
 
@@ -242,7 +240,7 @@ rangschikkingsbedrag = (investeringssubsidiebedrag in € + het maximum exploita
 
 - 1°. het eigen vermogen, anders dan het aangevraagde investeringssubsidiedeel, minder dan 20% van de kosten van de investering in de waterstofproductie-installatie bedraagt; of
 
-- 2°. de subsidieaanvrager meer dan één aanvraag heeft ingediend in de periode voor het aanvragen van subsidie, genoemd in [artikel 2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=2&artikel=2.4&z=2023-10-28&g=2023-10-28), en het eigen vermogen, anders dan het aangevraagde investeringssubsidiedeel, minder dan 20% van de totale kosten van de investeringen in de waterstofproductie-installaties bedraagt.
+- 2°. de subsidieaanvrager meer dan één aanvraag heeft ingediend in de periode voor het aanvragen van subsidie, genoemd in [artikel 2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=2&artikel=2.4&z=2024-01-01&g=2024-01-01), en het eigen vermogen, anders dan het aangevraagde investeringssubsidiedeel, minder dan 20% van de totale kosten van de investeringen in de waterstofproductie-installaties bedraagt.
 
 3. De exploitatieberekening, bedoeld in het tweede lid, onderdeel e, bevat:
 
@@ -278,7 +276,7 @@ rangschikkingsbedrag = (investeringssubsidiebedrag in € + het maximum exploita
 
 ##### Artikel 3.10. (beslistermijn aanvraag subsidie)
 
-1. De Minister beslist op een aanvraag voor subsidie binnen dertien weken na de laatste dag van de periode voor het aanvragen van de subsidie, genoemd in [artikel 2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=2&artikel=2.4&z=2023-10-28&g=2023-10-28).
+1. De Minister beslist op een aanvraag voor subsidie binnen dertien weken na de laatste dag van de periode voor het aanvragen van de subsidie, genoemd in [artikel 2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=2&artikel=2.4&z=2024-01-01&g=2024-01-01).
 
 2. De termijn van dertien weken kan eenmaal met ten hoogste dertien weken worden verlengd.
 
@@ -306,11 +304,11 @@ rangschikkingsbedrag = (investeringssubsidiebedrag in € + het maximum exploita
 
 - 4°. economisch haalbaar is;
 
-- g. het onaannemelijk is dat zal worden voldaan aan de eisen die gelden om waterstof als volledig hernieuwbaar aan te merken, bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=2&artikel=2.3&z=2023-10-28&g=2023-10-28);
+- g. het onaannemelijk is dat zal worden voldaan aan de eisen die gelden om waterstof als volledig hernieuwbaar aan te merken, bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=2&artikel=2.3&z=2024-01-01&g=2024-01-01);
 
 - h. het onaannemelijk is dat de broeikasgasemissiereductie van het totaal aan de geproduceerde hernieuwbare waterstof en waterstof die niet volledig hernieuwbaar is samen ten minste 70% bedraagt gedurende de periode die het exploitatiesubsidiedeel beslaat, in het geval ook waterstof zal worden geproduceerd die niet volledig hernieuwbaar is;
 
-- i. één of meer vergunningen die zijn vereist op grond van [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=3&artikel=3.5&z=2023-10-28&g=2023-10-28) niet zijn verleend;
+- i. één of meer vergunningen die zijn vereist op grond van [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=3&artikel=3.5&z=2024-01-01&g=2024-01-01) niet zijn verleend;
 
 - j. onomkeerbare investeringsverplichtingen voor de realisatie van de waterstofproductie-installatie zijn aangegaan voor de datum waarop de aanvraag is ingediend;
 
@@ -344,9 +342,9 @@ De Minister maakt binnen zes maanden na de subsidieverlening de informatie beken
 
 - a. de waterstofproductie-installatie zodanig is ontworpen en de elektriciteits- en waterstofstromen zodanig worden gemeten en geadministreerd dat aantoonbaar volledig hernieuwbare waterstof kan worden geproduceerd;
 
-- b. de te produceren waterstof als volledig hernieuwbaar kan worden aangemerkt als bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=2&artikel=2.3&z=2023-10-28&g=2023-10-28); en
+- b. de te produceren waterstof als volledig hernieuwbaar kan worden aangemerkt als bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=2&artikel=2.3&z=2024-01-01&g=2024-01-01); en
 
-- c. indien met de waterstofproductie-installatie ook waterstof die niet volledig hernieuwbaar is zal worden geproduceerd, de broeikasgasemissiereductie van het totaal aan te produceren volledig hernieuwbare waterstof en waterstof die niet volledig hernieuwbaar is samen tenminste 70% is overeenkomstig [artikel 2.2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=2&artikel=2.2&z=2023-10-28&g=2023-10-28).
+- c. indien met de waterstofproductie-installatie ook waterstof die niet volledig hernieuwbaar is zal worden geproduceerd, de broeikasgasemissiereductie van het totaal aan te produceren volledig hernieuwbare waterstof en waterstof die niet volledig hernieuwbaar is samen tenminste 70% is overeenkomstig [artikel 2.2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=2&artikel=2.2&z=2024-01-01&g=2024-01-01).
 
 2. Indien door de Europese Commissie twee of meer vrijwillige nationale of internationale systemen voor hernieuwbare brandstoffen van niet-biologische oorsprong zijn erkend op basis van artikel 30, vierde lid, van [richtlijn (EU) 2018/2001](32018L2001), is het certificaat opgesteld met een van deze vrijwillige nationale of internationale systemen.
 
@@ -354,13 +352,13 @@ De Minister maakt binnen zes maanden na de subsidieverlening de informatie beken
 
 ##### Artikel 4.2. (verklaring volledig hernieuwbare waterstof en ≥ 70% broeikasgasemissiereductie)
 
-1. De subsidieontvanger zendt vanaf de datum van ingebruikname van de waterstofproductie-installatie tot aan de subsidievaststelling telkens binnen vijf maanden na afloop van ieder kalenderjaar aan de Minister een verklaring waaruit blijkt dat de geproduceerde volledig hernieuwbare waterstof voldoet aan de eisen die zien op volledige hernieuwbaarheid, bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=2&artikel=2.3&z=2023-10-28&g=2023-10-28), en dat, indien met de waterstofproductie-installatie ook waterstof wordt geproduceerd die niet volledig hernieuwbaar is, de broeikasgasemissiereductie van het totaal aan geproduceerde volledig hernieuwbare waterstof en waterstof die niet volledig hernieuwbaar is tenminste 70% is, bedoeld in [artikel 2.2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=2&artikel=2.2&z=2023-10-28&g=2023-10-28).
+1. De subsidieontvanger zendt vanaf de datum van ingebruikname van de waterstofproductie-installatie tot aan de subsidievaststelling telkens binnen vijf maanden na afloop van ieder kalenderjaar aan de Minister een verklaring waaruit blijkt dat de geproduceerde volledig hernieuwbare waterstof voldoet aan de eisen die zien op volledige hernieuwbaarheid, bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=2&artikel=2.3&z=2024-01-01&g=2024-01-01), en dat, indien met de waterstofproductie-installatie ook waterstof wordt geproduceerd die niet volledig hernieuwbaar is, de broeikasgasemissiereductie van het totaal aan geproduceerde volledig hernieuwbare waterstof en waterstof die niet volledig hernieuwbaar is tenminste 70% is, bedoeld in [artikel 2.2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=2&artikel=2.2&z=2024-01-01&g=2024-01-01).
 
 2. De verklaring wordt overgelegd met gebruikmaking van een middel dat door de Minister beschikbaar wordt gesteld.
 
 3. De verklaring bevat ten minste de informatie, bedoeld in artikel 8 van gedelegeerde [verordening (EU) 2023/1184](33084R2023), over het voorgaande kalenderjaar.
 
-4. De subsidieontvanger laat de verklaring verifiëren en ondertekenen door de instantie die het certificaat, bedoeld in [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=4&artikel=4.1&z=2023-10-28&g=2023-10-28), afgeeft.
+4. De subsidieontvanger laat de verklaring verifiëren en ondertekenen door de instantie die het certificaat, bedoeld in [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=4&artikel=4.1&z=2024-01-01&g=2024-01-01), afgeeft.
 
 ##### Artikel 4.3. (realisatie- en ingebruiknametermijn)
 
@@ -376,9 +374,9 @@ De Minister maakt binnen zes maanden na de subsidieverlening de informatie beken
 
 ##### Artikel 4.4. (ontheffing)
 
-1. De Minister kan op voorafgaand verzoek van de subsidieontvanger bij vertraging een ontheffing voor ten hoogste één jaar verlenen van de verplichting om de waterstofproductie-installatie binnen vier jaar na de beschikking tot subsidieverlening te realiseren of in gebruik te nemen, bedoeld in [artikel 4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=4&artikel=4.3&z=2023-10-28&g=2023-10-28).
+1. De Minister kan op voorafgaand verzoek van de subsidieontvanger bij vertraging een ontheffing voor ten hoogste één jaar verlenen van de verplichting om de waterstofproductie-installatie binnen vier jaar na de beschikking tot subsidieverlening te realiseren of in gebruik te nemen, bedoeld in [artikel 4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=4&artikel=4.3&z=2024-01-01&g=2024-01-01).
 
-2. De Minister kan op voorafgaand verzoek van de subsidieontvanger bij essentiële wijzigingen van de realisatie van waterstofproductie-installatie ten opzichte van het projectplan of van de ingebruikname van de waterstofproductie-installatie ten opzichte van de gegevens, die zijn opgenomen in de aanvraag voor subsidie, een ontheffing verlenen van de verplichting, bedoeld in [artikel 4.3, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=4&artikel=4.3&z=2023-10-28&g=2023-10-28).
+2. De Minister kan op voorafgaand verzoek van de subsidieontvanger bij essentiële wijzigingen van de realisatie van waterstofproductie-installatie ten opzichte van het projectplan of van de ingebruikname van de waterstofproductie-installatie ten opzichte van de gegevens, die zijn opgenomen in de aanvraag voor subsidie, een ontheffing verlenen van de verplichting, bedoeld in [artikel 4.3, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=4&artikel=4.3&z=2024-01-01&g=2024-01-01).
 
 3. Aan de ontheffing kunnen voorschriften worden verbonden.
 
@@ -418,7 +416,7 @@ De waterstofproductie-installatie wordt in stand gehouden in Nederland, de terri
 
 ##### Artikel 4.8. (overzicht kosten en baten toets passende stimulering)
 
-1. De subsidieontvanger zendt de Minister binnen een jaar na de datum waarop de waterstofproductie-installatie in gebruik is genomen of op verzoek van de Minister, voor het bepalen of de totale verleende overheidssteun meer bedraagt dan is toegestaan op grond van de verplichtingen die voor de Staat gelden krachtens een verdrag, bedoeld in [artikel 3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=3&artikel=3.12&z=2023-10-28&g=2023-10-28):
+1. De subsidieontvanger zendt de Minister binnen een jaar na de datum waarop de waterstofproductie-installatie in gebruik is genomen of op verzoek van de Minister, voor het bepalen of de totale verleende overheidssteun meer bedraagt dan is toegestaan op grond van de verplichtingen die voor de Staat gelden krachtens een verdrag, bedoeld in [artikel 3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=3&artikel=3.12&z=2024-01-01&g=2024-01-01):
 
 - a. een opgave van de gemaakte kosten van de realisatie van de waterstofproductie-installatie;
 
@@ -450,7 +448,7 @@ De waterstofproductie-installatie wordt in stand gehouden in Nederland, de terri
 
 ##### Artikel 4.10. (kennisverspreiding)
 
-De Minister kan de voortgangsverslagen, bedoeld in de [artikelen 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=4&artikel=4.6&z=2023-10-28&g=2023-10-28) en [4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=4&artikel=4.9&z=2023-10-28&g=2023-10-28), en het eindverslag, bedoeld in [artikel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=4&artikel=4.7&z=2023-10-28&g=2023-10-28), gebruiken voor openbare, brede verspreiding van de niet-bedrijfsgevoelige kennis en informatie die zijn opgedaan.
+De Minister kan de voortgangsverslagen, bedoeld in de [artikelen 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=4&artikel=4.6&z=2024-01-01&g=2024-01-01) en [4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=4&artikel=4.9&z=2024-01-01&g=2024-01-01), en het eindverslag, bedoeld in [artikel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=4&artikel=4.7&z=2024-01-01&g=2024-01-01), gebruiken voor openbare, brede verspreiding van de niet-bedrijfsgevoelige kennis en informatie die zijn opgedaan.
 
 ##### Artikel 4.11. (overige gegevensverstrekking)
 
@@ -468,31 +466,31 @@ De subsidieontvanger verleent tot en met vijf jaar na de beschikking tot subsidi
 
 #### § 5. Investeringssubsidiedeel
 
-##### Artikel 5.1. (toepassingsbereik [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=5&z=2023-10-28&g=2023-10-28))
+##### Artikel 5.1. (toepassingsbereik [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=5&z=2024-01-01&g=2024-01-01))
 
 Deze paragraaf is van toepassing op het investeringssubsidiedeel.
 
 ##### Artikel 5.2. (berekeningswijze investeringssubsidiebedrag)
 
-1. Indien sprake is van een waterstofproductie-installatie waarvan het nominale elektrische inputvermogen van de elektrolyser groter is dan 0,5 MW en kleiner is dan 30 MW, is het bedrag van het investeringssubsidiedeel de som van de subsidiabele kosten van realisatie van de waterstofproductie-installatie, bedoeld in [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=5&artikel=5.4&z=2023-10-28&g=2023-10-28).
+1. Indien sprake is van een waterstofproductie-installatie waarvan het nominale elektrische inputvermogen van de elektrolyser groter is dan 0,5 MW en kleiner is dan 30 MW, is het bedrag van het investeringssubsidiedeel de som van de subsidiabele kosten van realisatie van de waterstofproductie-installatie, bedoeld in [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=5&artikel=5.4&z=2024-01-01&g=2024-01-01).
 
-2. Indien sprake is van een waterstofproductie-installatie waarvan het nominale elektrische inputvermogen van de elektrolyser gelijk aan of groter is dan 30 MW en niet groter is dan 50 MW, is het bedrag van het investeringssubsidiedeel het verschil tussen de som van subsidiabele kosten van realisatie van de waterstofproductie-installatie, bedoeld in [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=5&artikel=5.4&z=2023-10-28&g=2023-10-28), en de kosten van realisatie van een stoommethaanreforminstallatie, bedoeld in [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=5&artikel=5.5&z=2023-10-28&g=2023-10-28).
+2. Indien sprake is van een waterstofproductie-installatie waarvan het nominale elektrische inputvermogen van de elektrolyser gelijk aan of groter is dan 30 MW en niet groter is dan 50 MW, is het bedrag van het investeringssubsidiedeel het verschil tussen de som van subsidiabele kosten van realisatie van de waterstofproductie-installatie, bedoeld in [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=5&artikel=5.4&z=2024-01-01&g=2024-01-01), en de kosten van realisatie van een stoommethaanreforminstallatie, bedoeld in [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=5&artikel=5.5&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 5.3. (maximum investeringssubsidiebedrag)
 
 1. Indien sprake is van een waterstofproductie-installatie waarvan het nominale elektrische inputvermogen van de elektrolyser groter is dan 0,5 MW en kleiner is dan 30 MW, bedraagt het investeringssubsidiebedrag:
 
-- a. ten hoogste 40% van de som van de subsidiabele kosten van realisatie van de waterstofproductie-installatie, bedoeld in [artikel 5.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=5&artikel=5.2&z=2023-10-28&g=2023-10-28);
+- a. ten hoogste 40% van de som van de subsidiabele kosten van realisatie van de waterstofproductie-installatie, bedoeld in [artikel 5.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=5&artikel=5.2&z=2024-01-01&g=2024-01-01);
 
-- b. indien voor de realisatie van de waterstofproductie-installatie al een subsidie is verstrekt op grond van een andere regeling dan op grond van deze regeling, ten hoogste 40% van de som van de subsidiabele kosten van realisatie van de waterstofproductie-installatie, bedoeld in [artikel 5.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=5&artikel=5.2&z=2023-10-28&g=2023-10-28), verminderd met de al verstrekte subsidie, met dien verstande dat in het geval de uitkomst van deze berekening negatief is, als investeringssubsidiebedrag € 0,00 wordt aangehouden.
+- b. indien voor de realisatie van de waterstofproductie-installatie al een subsidie is verstrekt op grond van een andere regeling dan op grond van deze regeling, ten hoogste 40% van de som van de subsidiabele kosten van realisatie van de waterstofproductie-installatie, bedoeld in [artikel 5.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=5&artikel=5.2&z=2024-01-01&g=2024-01-01), verminderd met de al verstrekte subsidie, met dien verstande dat in het geval de uitkomst van deze berekening negatief is, als investeringssubsidiebedrag € 0,00 wordt aangehouden.
 
 2. Indien sprake is van een waterstofproductie-installatie waarvan het nominale elektrische inputvermogen van de elektrolyser gelijk aan of groter is dan 30 MW en niet groter is dan 50 MW, bedraagt het investeringssubsidiebedrag:
 
-- a. ten hoogste 40% van het verschil tussen de som van subsidiabele kosten van realisatie van de waterstofproductie-installatie en de kosten van realisatie van een stoommethaanreforminstallatie, bedoeld in [artikel 5.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=5&artikel=5.2&z=2023-10-28&g=2023-10-28);
+- a. ten hoogste 40% van het verschil tussen de som van subsidiabele kosten van realisatie van de waterstofproductie-installatie en de kosten van realisatie van een stoommethaanreforminstallatie, bedoeld in [artikel 5.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=5&artikel=5.2&z=2024-01-01&g=2024-01-01);
 
 - b. indien voor de realisatie van de waterstofproductie-installatie al een subsidie is verstrekt op grond van een andere regeling dan op grond van deze regeling, ten hoogste het verschil tussen:
 
-- 1°. 40% van het verschil tussen de som van subsidiabele kosten van realisatie van de waterstofproductie-installatie en de kosten van realisatie van een stoommethaanreforminstallatie, bedoeld in [artikel 5.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=5&artikel=5.2&z=2023-10-28&g=2023-10-28); en
+- 1°. 40% van het verschil tussen de som van subsidiabele kosten van realisatie van de waterstofproductie-installatie en de kosten van realisatie van een stoommethaanreforminstallatie, bedoeld in [artikel 5.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=5&artikel=5.2&z=2024-01-01&g=2024-01-01); en
 
 - 2°. de al verstrekte subsidie, met dien verstande dat in het geval de uitkomst van deze berekening negatief is, als investeringssubsidiebedrag € 0,00 wordt aangehouden.
 
@@ -548,7 +546,7 @@ gemiddeld aantal verwachte jaarlijkse vollasturen = verwacht gemiddeld jaarlijks
 
 3. Als de start van de activiteiten, bedoeld in het tweede lid, onderdeel a, geldt:
 
-- a. indien op de geplande startdatum, bedoeld in [3.3, tweede lid, onderdeel d, subonderdeel 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=3&artikel=3.3&z=2023-10-28&g=2023-10-28), de beschikking tot subsidieverlening al is verzonden: de startdatum in het projectplan;
+- a. indien op de geplande startdatum, bedoeld in [3.3, tweede lid, onderdeel d, subonderdeel 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=3&artikel=3.3&z=2024-01-01&g=2024-01-01), de beschikking tot subsidieverlening al is verzonden: de startdatum in het projectplan;
 
 - b. indien op de geplande startdatum de beschikking tot subsidieverlening nog niet is verzonden: de dag na verzending van de beschikking.
 
@@ -560,7 +558,7 @@ gemiddeld aantal verwachte jaarlijkse vollasturen = verwacht gemiddeld jaarlijks
 
 ##### Artikel 5.8. (bijstellen voorschotten)
 
-1. Binnen dertien weken na ontvangst van het eindverslag, bedoeld in [artikel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=4&artikel=4.7&z=2023-10-28&g=2023-10-28), stelt de Minister het geheel van verstrekte voorschotten bij aan de hand van het eindverslag.
+1. Binnen dertien weken na ontvangst van het eindverslag, bedoeld in [artikel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=4&artikel=4.7&z=2024-01-01&g=2024-01-01), stelt de Minister het geheel van verstrekte voorschotten bij aan de hand van het eindverslag.
 
 2. Indien blijkt dat het geheel van verstrekte voorschotten minder bedraagt dan 100% van de het investeringssubsidiebedrag, betaalt de Minister het te weinig betaalde bedrag binnen zes weken na de beschikking tot bijstelling van het voorschot aan de subsidieontvanger.
 
@@ -568,7 +566,7 @@ gemiddeld aantal verwachte jaarlijkse vollasturen = verwacht gemiddeld jaarlijks
 
 #### § 6. Exploitatiesubsidiedeel
 
-##### Artikel 6.1. (toepassingsbereik [paragraaf 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=6&z=2023-10-28&g=2023-10-28))
+##### Artikel 6.1. (toepassingsbereik [paragraaf 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=6&z=2024-01-01&g=2024-01-01))
 
 Deze paragraaf is van toepassing op het exploitatiesubsidiedeel.
 
@@ -598,7 +596,7 @@ De periode die het exploitatiesubsidiedeel beslaat, start op de datum van ingebr
 
 3. Het bedrag per kalenderjaar, bedoeld in het eerste lid, wordt berekend volgens de formule:
 
-bedrag per kalenderjaar = (hoeveelheid geproduceerde volledig hernieuwbare waterstof in kg in dat kalenderjaar, inclusief de op grond van [artikel 6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=6&artikel=6.7&z=2023-10-28&g=2023-10-28) aangemerkte volledig hernieuwbare waterstof uit een eerder kalenderjaar, tot ten hoogste de jaarlijkse gemiddelde hoeveelheid te produceren volledig hernieuwbare waterstof, inclusief de op grond van [artikel 6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=6&artikel=6.6&z=2023-10-28&g=2023-10-28) toegevoegde te produceren volledig hernieuwbare waterstof) x (productieprijs van volledig hernieuwbare waterstof – definitieve correctiebedrag voor dat kalenderjaar).
+bedrag per kalenderjaar = (hoeveelheid geproduceerde volledig hernieuwbare waterstof in kg in dat kalenderjaar, inclusief de op grond van [artikel 6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=6&artikel=6.7&z=2024-01-01&g=2024-01-01) aangemerkte volledig hernieuwbare waterstof uit een eerder kalenderjaar, tot ten hoogste de jaarlijkse gemiddelde hoeveelheid te produceren volledig hernieuwbare waterstof, inclusief de op grond van [artikel 6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=6&artikel=6.6&z=2024-01-01&g=2024-01-01) toegevoegde te produceren volledig hernieuwbare waterstof) x (productieprijs van volledig hernieuwbare waterstof – definitieve correctiebedrag voor dat kalenderjaar).
 
 4. Indien de productieprijs van volledig hernieuwbare waterstof in een kalenderjaar lager is dan het voor dat kalenderjaar vastgestelde definitieve correctiebedrag, wordt voor dat kalenderjaar uitgegaan van een bedrag van € 0,00.
 
@@ -622,7 +620,7 @@ de totale hoeveelheid te produceren volledig hernieuwbare waterstof in kg in de 
 
 ##### Artikel 6.7. (gebankte overproductie)
 
-Indien in een kalenderjaar meer kg volledig hernieuwbare waterstof is geproduceerd dan de jaarlijkse gemiddelde hoeveelheid te produceren volledig hernieuwbare waterstof, wordt die te veel geproduceerde kg tot een hoeveelheid van ten hoogste 25% van de jaarlijkse gemiddelde hoeveelheid te produceren volledig hernieuwbare waterstof aangemerkt als zijnde geproduceerd in een volgend kalenderjaar, indien in dat volgende kalenderjaar de hoeveelheid geproduceerde volledig hernieuwbare waterstof in kg lager is dan de jaarlijkse gemiddelde hoeveelheid te produceren volledig hernieuwbare waterstof, inclusief de op grond van [artikel 6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=6&artikel=6.6&z=2023-10-28&g=2023-10-28) toegevoegde te produceren volledig hernieuwbare waterstof.
+Indien in een kalenderjaar meer kg volledig hernieuwbare waterstof is geproduceerd dan de jaarlijkse gemiddelde hoeveelheid te produceren volledig hernieuwbare waterstof, wordt die te veel geproduceerde kg tot een hoeveelheid van ten hoogste 25% van de jaarlijkse gemiddelde hoeveelheid te produceren volledig hernieuwbare waterstof aangemerkt als zijnde geproduceerd in een volgend kalenderjaar, indien in dat volgende kalenderjaar de hoeveelheid geproduceerde volledig hernieuwbare waterstof in kg lager is dan de jaarlijkse gemiddelde hoeveelheid te produceren volledig hernieuwbare waterstof, inclusief de op grond van [artikel 6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=6&artikel=6.6&z=2024-01-01&g=2024-01-01) toegevoegde te produceren volledig hernieuwbare waterstof.
 
 ##### Artikel 6.8. (verstrekken voorschotten)
 
@@ -632,7 +630,7 @@ Indien in een kalenderjaar meer kg volledig hernieuwbare waterstof is geproducee
 
 voorschot = 100% x (jaarlijkse gemiddelde hoeveelheid te produceren volledig hernieuwbare waterstof) x (productieprijs van volledig hernieuwbare waterstof – voorlopig correctiebedrag voor dat kalenderjaar).
 
-3. Op verzoek van de subsidieontvanger kan de in een voorgaand kalenderjaar niet-geproduceerde kg volledig hernieuwbare waterstof, bedoeld in [artikel 6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=6&artikel=6.6&z=2023-10-28&g=2023-10-28) worden toegevoegd aan de jaarlijkse gemiddelde hoeveelheid te produceren volledig hernieuwbare waterstof, bedoeld in het tweede lid.
+3. Op verzoek van de subsidieontvanger kan de in een voorgaand kalenderjaar niet-geproduceerde kg volledig hernieuwbare waterstof, bedoeld in [artikel 6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=6&artikel=6.6&z=2024-01-01&g=2024-01-01) worden toegevoegd aan de jaarlijkse gemiddelde hoeveelheid te produceren volledig hernieuwbare waterstof, bedoeld in het tweede lid.
 
 4. Indien de periode die het exploitatiesubsidiedeel beslaat, start op een latere datum dan 1 januari of eindigt op een eerdere datum dan 31 december, bedraagt het voorlopige voorschot voor het eerste kalenderjaar respectievelijk het laatste kalenderjaar van die periode een evenredig deel van dat kalenderjaar.
 
@@ -644,15 +642,15 @@ voorschot = 100% x (jaarlijkse gemiddelde hoeveelheid te produceren volledig her
 
 maandelijkse bedrag = 80% x (jaarlijkse gemiddelde hoeveelheid te produceren volledig hernieuwbare waterstof) x (productieprijs van volledig hernieuwbare waterstof – voorlopig correctiebedrag voor dat kalenderjaar)) : 12.
 
-3. Op verzoek van de subsidieontvanger kan de in een voorgaand kalenderjaar niet-geproduceerde kg volledig hernieuwbare waterstof, bedoeld in [artikel 6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=6&artikel=6.6&z=2023-10-28&g=2023-10-28), worden toegevoegd aan de jaarlijkse gemiddelde hoeveelheid te produceren volledig hernieuwbare waterstof, bedoeld in het tweede lid.
+3. Op verzoek van de subsidieontvanger kan de in een voorgaand kalenderjaar niet-geproduceerde kg volledig hernieuwbare waterstof, bedoeld in [artikel 6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=6&artikel=6.6&z=2024-01-01&g=2024-01-01), worden toegevoegd aan de jaarlijkse gemiddelde hoeveelheid te produceren volledig hernieuwbare waterstof, bedoeld in het tweede lid.
 
 4. Indien de periode die het exploitatiesubsidiedeel beslaat, start op een latere datum dan 1 januari of eindigt op een eerdere datum dan 31 december, bedraagt het maandelijkse bedrag voor het eerste kalenderjaar respectievelijk het laatste kalenderjaar van die periode een evenredig deel van dat kalenderjaar.
 
 5. De Minister kan het maandelijkse bedrag herberekenen, indien:
 
-- a. de subsidieontvanger een verzoek tot ontheffing bij essentiële wijzigingen als bedoeld in [artikel 4.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=4&artikel=4.4&z=2023-10-28&g=2023-10-28), heeft ingediend;
+- a. de subsidieontvanger een verzoek tot ontheffing bij essentiële wijzigingen als bedoeld in [artikel 4.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=4&artikel=4.4&z=2024-01-01&g=2024-01-01), heeft ingediend;
 
-- b. de subsidieontvanger niet heeft voldaan aan de verplichting om gegevens te zenden voor het bepalen of totale verleende overheidssteun meer bedraagt dan is toegestaan op grond van de verplichtingen die voor de Staat gelden krachtens een verdrag, bedoeld in [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=4&artikel=4.8&z=2023-10-28&g=2023-10-28);
+- b. de subsidieontvanger niet heeft voldaan aan de verplichting om gegevens te zenden voor het bepalen of totale verleende overheidssteun meer bedraagt dan is toegestaan op grond van de verplichtingen die voor de Staat gelden krachtens een verdrag, bedoeld in [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=4&artikel=4.8&z=2024-01-01&g=2024-01-01);
 
 - c. gedurende twee maanden of meer tenminste 50% minder volledig hernieuwbare waterstof is of zal worden geproduceerd dan de maandelijkse gemiddelde hoeveelheid te produceren volledig hernieuwbare waterstof;
 
@@ -662,13 +660,13 @@ maandelijkse bedrag = 80% x (jaarlijkse gemiddelde hoeveelheid te produceren vol
 
 ##### Artikel 6.10. (bijstellen voorschotten)
 
-1. Binnen zeven maanden na afloop van het kalenderjaar stelt de Minister het voorschot bij volgens de berekeningswijze, bedoeld in [artikel 6.4, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=6&artikel=6.4&z=2023-10-28&g=2023-10-28), aan de hand van:
+1. Binnen zeven maanden na afloop van het kalenderjaar stelt de Minister het voorschot bij volgens de berekeningswijze, bedoeld in [artikel 6.4, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=6&artikel=6.4&z=2024-01-01&g=2024-01-01), aan de hand van:
 
-- a. de hoeveelheid geproduceerde volledig hernieuwbare waterstof in dat kalenderjaar, bepaald volgens de berekeningswijze, bedoeld in [artikel 6.4, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=6&artikel=6.4&z=2023-10-28&g=2023-10-28):
+- a. de hoeveelheid geproduceerde volledig hernieuwbare waterstof in dat kalenderjaar, bepaald volgens de berekeningswijze, bedoeld in [artikel 6.4, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=6&artikel=6.4&z=2024-01-01&g=2024-01-01):
 
 - 1°. waarvoor garanties van oorsprong voor hernieuwbare waterstof zijn afgegeven, die zijn omgerekend naar kg waterstof met de omrekenfactor 0,03932 MWh/kg; en
 
-- 2°. waarvoor aan de hand van de verklaring, bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=4&artikel=4.2&z=2023-10-28&g=2023-10-28), is vastgesteld dat de waterstof volledig hernieuwbaar is; en
+- 2°. waarvoor aan de hand van de verklaring, bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=4&artikel=4.2&z=2024-01-01&g=2024-01-01), is vastgesteld dat de waterstof volledig hernieuwbaar is; en
 
 - b. het voor dat kalenderjaar vastgestelde definitieve correctiebedrag.
 
@@ -722,7 +720,7 @@ productieprijs van volledig hernieuwbare waterstof in € per kg = (subsidiabele
 
 ##### Artikel 6.14. (hernieuwbare stroomafnameovereenkomsten)
 
-Indien sprake is van een netgekoppelde waterstofproductie-installatie of een dubbelgekoppelde waterstofproductie-installatie verstrekt de Minister alleen een voorschot indien het eindverslag, bedoeld in [artikel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=4&artikel=4.7&z=2023-10-28&g=2023-10-28), vergezeld gaat van de hernieuwbare stroomafnameovereenkomsten voor wind- of zonne-energie voor de elektriciteit die gedurende de eerste vijf jaar zal worden gebruikt voor de productie van volledig hernieuwbare waterstof.
+Indien sprake is van een netgekoppelde waterstofproductie-installatie of een dubbelgekoppelde waterstofproductie-installatie verstrekt de Minister alleen een voorschot indien het eindverslag, bedoeld in [artikel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=4&artikel=4.7&z=2024-01-01&g=2024-01-01), vergezeld gaat van de hernieuwbare stroomafnameovereenkomsten voor wind- of zonne-energie voor de elektriciteit die gedurende de eerste vijf jaar zal worden gebruikt voor de productie van volledig hernieuwbare waterstof.
 
 ##### Artikel 6.15. (rekening garanties van oorsprong hernieuwbare waterstof)
 
@@ -740,9 +738,9 @@ De Minister verstrekt het eerste voorschot pas nadat de subsidieontvanger voor d
 
 1. De Minister stelt de subsidievaststelling vast binnen dertien weken na ontvangst van de aanvraag voor subsidievaststelling.
 
-2. Indien de aanvraag voor subsidievaststelling niet is ingediend binnen de termijn van zes maanden, bedoeld in [artikel 7.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=7&artikel=7.1&z=2023-10-28&g=2023-10-28), stelt de Minister de subsidie ambtshalve vast na afloop van die termijn.
+2. Indien de aanvraag voor subsidievaststelling niet is ingediend binnen de termijn van zes maanden, bedoeld in [artikel 7.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=7&artikel=7.1&z=2024-01-01&g=2024-01-01), stelt de Minister de subsidie ambtshalve vast na afloop van die termijn.
 
-3. Indien de aanvraag tot subsidievaststelling is ingediend voordat het definitieve correctiebedrag, bedoeld in [artikel 6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=6&artikel=6.12&z=2023-10-28&g=2023-10-28), is vastgesteld voor het laatste jaar waarin de subsidiabele productie heeft plaatsgevonden, wordt de termijn van dertien weken, bedoeld in het eerste lid, opgeschort en eindigt de termijn dertien weken na de dag dat het definitieve correctiebedrag is vastgesteld.
+3. Indien de aanvraag tot subsidievaststelling is ingediend voordat het definitieve correctiebedrag, bedoeld in [artikel 6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=6&artikel=6.12&z=2024-01-01&g=2024-01-01), is vastgesteld voor het laatste jaar waarin de subsidiabele productie heeft plaatsgevonden, wordt de termijn van dertien weken, bedoeld in het eerste lid, opgeschort en eindigt de termijn dertien weken na de dag dat het definitieve correctiebedrag is vastgesteld.
 
 #### § 8. Overgangs-, wijzigings- en slotbepalingen
 
@@ -760,11 +758,11 @@ Wijzigt deze regeling.
 
 Deze regeling wordt aangehaald als: Subsidieregeling opschaling volledig hernieuwbare waterstofproductie via elektrolyse.
 
-## Bijlage. Bij [artikel 5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=5&artikel=5.7&z=2023-10-28&g=2023-10-28), (werkwijze berekening voorschotten investeringssubsidiedeel)
+## Bijlage. Bij [artikel 5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=5&artikel=5.7&z=2024-01-01&g=2024-01-01), (werkwijze berekening voorschotten investeringssubsidiedeel)
 
 Een voorschot voor het investeringssubsidiedeel wordt als volgt berekend:
 
-- 1. Uitgangspunt is telkens de periode tussen de mijlpalen zoals die zijn opgenomen in het projectplan. De start van de activiteiten, bedoeld in [artikel 5.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=5&artikel=5.6&z=2023-10-28&g=2023-10-28), wordt daarbij als eerste mijlpaal beschouwd.
+- 1. Uitgangspunt is telkens de periode tussen de mijlpalen zoals die zijn opgenomen in het projectplan. De start van de activiteiten, bedoeld in [artikel 5.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048664&paragraaf=5&artikel=5.6&z=2024-01-01&g=2024-01-01), wordt daarbij als eerste mijlpaal beschouwd.
 
 - 2. Bepaald wordt welke periode tussen twee mijlpalen binnen het kwartaal vallen waarvoor een voorschot wordt verleend. De subsidiabele kosten in de periode tussen die twee mijlpalen komen voor voorschot in dat kwartaal in aanmerking.
 
