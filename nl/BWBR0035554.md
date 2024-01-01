@@ -4,7 +4,7 @@ identifier: "BWBR0035554"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2014-10-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035554"
 soort: "AMvB"
@@ -66,33 +66,33 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2.1
 
-1. Het luchthavengebied is het gebied dat als zodanig is aangewezen op de kaart in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035554&bijlage=1&z=2014-10-01&g=2014-10-01) bij dit besluit.
+1. Het luchthavengebied is het gebied dat als zodanig is aangewezen op de kaart in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035554&bijlage=1&z=2024-01-01&g=2024-01-01) bij dit besluit.
 
-2. Het beperkingengebied is het gebied dat als zodanig is aangewezen op de kaart in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035554&bijlage=2&z=2014-10-01&g=2014-10-01) bij dit besluit.
+2. Het beperkingengebied is het gebied dat als zodanig is aangewezen op de kaart in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035554&bijlage=2&z=2024-01-01&g=2024-01-01) bij dit besluit.
 
 3. Het beperkingengebied is samengesteld uit:
 
-- a. het gebied behorende bij de in [artikel 4 van het Besluit militaire luchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&artikel=4) genoemde grenswaarde van de geluidsbelasting van 35 Kosteneenheden, dat als zodanig is aangewezen op de kaart in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035554&bijlage=3&z=2014-10-01&g=2014-10-01) bij dit besluit;
+- a. het gebied behorende bij de in [artikel 4 van het Besluit militaire luchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&artikel=4) genoemde grenswaarde van de geluidsbelasting van 35 Kosteneenheden, dat als zodanig is aangewezen op de kaart in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035554&bijlage=3&z=2024-01-01&g=2024-01-01) bij dit besluit;
 
-- b. het gebied waarbinnen maximaal toelaatbare hoogten gelden voor objecten in, op of boven de grond zoals dat voortvloeit uit [artikel 3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035554&hoofdstuk=3&paragraaf=3.2&artikel=3.2.2&z=2014-10-01&g=2014-10-01), dat als zodanig is aangewezen op de kaart in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035554&bijlage=4&z=2014-10-01&g=2014-10-01) bij dit besluit.
+- b. het gebied waarbinnen maximaal toelaatbare hoogten gelden voor objecten in, op of boven de grond zoals dat voortvloeit uit [artikel 3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035554&hoofdstuk=3&paragraaf=3.2&artikel=3.2.2&z=2024-01-01&g=2024-01-01), dat als zodanig is aangewezen op de kaart in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035554&bijlage=4&z=2024-01-01&g=2024-01-01) bij dit besluit.
 
-### Hoofdstuk 3. Bestemming en gebruik van de grond
+### Hoofdstuk 3. Functie en gebruik van de locatie
 
 #### Paragraaf 3.1. Het luchthavengebied
 
 ##### Artikel 3.1.1
 
-De gronden die zijn bestemd en worden gebruikt voor het banenstelsel van de luchthaven, de rolbanen, de vliegtuigopstelplaatsen, de hangars en de gronden die benodigd zijn voor de uitvoering van de taken en functies die zijn toegekend aan de militaire luchthaven Deelen, zijn als zodanig aangewezen op de kaart in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035554&bijlage=1&z=2014-10-01&g=2014-10-01) bij dit besluit.
+De locaties die zijn bestemd voor het banenstelsel van de luchthaven, de rolbanen, de vliegtuigopstelplaatsen, de hangars en de locaties die benodigd zijn voor de uitvoering van de taken en functies die zijn toegekend aan de militaire luchthaven Deelen, zijn als zodanig aangewezen op de kaart in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035554&bijlage=1&z=2024-01-01&g=2024-01-01) bij dit besluit.
 
 #### Paragraaf 3.2. Het beperkingengebied
 
 ##### Artikel 3.2.1
 
-De [artikelen 5 tot en met 14 van het Besluit militaire luchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&artikel=5) zijn van toepassing ten aanzien van de bestemming en het gebruik van de gronden zoals aangewezen op de kaart in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035554&bijlage=3&z=2014-10-01&g=2014-10-01) bij dit besluit. Op deze kaart zijn tevens aangewezen de gebieden behorende bij de waarden van de geluidsbelasting hoger dan 40, 45 en 55 Kosteneenheden.
+De [artikelen 5 tot en met 14 van het Besluit militaire luchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&artikel=5) zijn van toepassing ten aanzien van de functie en het gebruik van de locaties zoals aangewezen op de kaart in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035554&bijlage=3&z=2024-01-01&g=2024-01-01) bij dit besluit. Op deze kaart zijn tevens aangewezen de gebieden behorende bij de waarden van de geluidsbelasting hoger dan 40, 45 en 55 Kosteneenheden.
 
 ##### Artikel 3.2.2
 
-[Artikel 16 van het Besluit militaire luchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&artikel=16) is van toepassing ten aanzien van de maximaal toelaatbare hoogten van objecten in verband met de veiligheid van het luchthavenluchtverkeer op de gronden zoals aangewezen op de kaart in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035554&bijlage=4&z=2014-10-01&g=2014-10-01) bij dit besluit.
+[Artikel 16 van het Besluit militaire luchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&artikel=16) is van toepassing ten aanzien van de maximaal toelaatbare hoogten van objecten in verband met de veiligheid van het luchthavenluchtverkeer op de locaties zoals aangewezen op de kaart in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035554&bijlage=4&z=2024-01-01&g=2024-01-01) bij dit besluit.
 
 ### Hoofdstuk 4. Grenswaarden en regels voor het luchthavenluchtverkeer
 
@@ -100,7 +100,7 @@ De [artikelen 5 tot en met 14 van het Besluit militaire luchthavens](https://wet
 
 ##### Artikel 4.1.1
 
-Voor het militaire luchtverkeer geldt de in [artikel 4 van het Besluit militaire luchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&artikel=4) genoemde grenswaarde van de geluidsbelasting van 35 Kosteneenheden, waarvan de geografische ligging is aangewezen op de kaart in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035554&bijlage=3&z=2014-10-01&g=2014-10-01) bij dit besluit.
+Voor het militaire luchtverkeer geldt de in [artikel 4 van het Besluit militaire luchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&artikel=4) genoemde grenswaarde van de geluidsbelasting van 35 Kosteneenheden, waarvan de geografische ligging is aangewezen op de kaart in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035554&bijlage=3&z=2024-01-01&g=2024-01-01) bij dit besluit.
 
 ##### Artikel 4.1.2
 
@@ -140,9 +140,9 @@ Voor het recreatief burgerluchtverkeer, met uitzondering van modelvliegen, geldt
 
 1. De Commandant van het Defensie Helikopter Commando kan ten behoeve van luchthavenluchtverkeer in het kader van een luchtvaartevenement op de luchthaven toestaan dat voor de duur van dat evenement wordt afgeweken van:
 
-- a. de dagen, genoemd in [artikel 4.1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035554&hoofdstuk=4&paragraaf=4.1&artikel=4.1.2&z=2014-10-01&g=2014-10-01), en van het eindtijdstip, genoemd in het eerste lid, onderdeel b, van dat artikel;
+- a. de dagen, genoemd in [artikel 4.1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035554&hoofdstuk=4&paragraaf=4.1&artikel=4.1.2&z=2024-01-01&g=2024-01-01), en van het eindtijdstip, genoemd in het eerste lid, onderdeel b, van dat artikel;
 
-- b. [artikel 4.2.2, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035554&hoofdstuk=4&paragraaf=4.2&artikel=4.2.2&z=2014-10-01&g=2014-10-01), met dien verstande dat geen luchtverkeer plaatsvindt vóór de aanvang van de uniforme daglichtperiode.
+- b. [artikel 4.2.2, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035554&hoofdstuk=4&paragraaf=4.2&artikel=4.2.2&z=2024-01-01&g=2024-01-01), met dien verstande dat geen luchtverkeer plaatsvindt vóór de aanvang van de uniforme daglichtperiode.
 
 2. Ten behoeve van een evenement als bedoeld in het eerste lid staat de luchthaven binnen de voor het militair luchtverkeer geldende openstellingstijden eveneens open voor ander burgerluchtverkeer dan recreatief burgerluchtverkeer voor zover dat andere burgerluchtverkeer onderdeel uitmaakt van het betrokken evenement.
 
