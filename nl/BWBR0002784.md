@@ -4,7 +4,7 @@ identifier: "BWBR0002784"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2023-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002784"
 soort: "ministeriele-regeling"
@@ -39,7 +39,7 @@ Besluit:
 
 ##### Artikel 1
 
-1. Deze regeling geeft uitvoering aan de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=9), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13), [13ab](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13ab), [13d](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13d), [14a](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14a), [14b](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14b), [15g](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15g), [15i](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15i), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=17), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=21), [23c](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=23c) en [25a van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=25a).
+1. Deze regeling geeft uitvoering aan de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=9), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13), [13ab](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13ab), [13d](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13d), [14a](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14a), [14b](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14b), [15g](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15g), [15i](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15i), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=17), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=21), [23c](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=23c) en [25a van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=25a).
 
 2. Deze regeling verstaat onder de wet: de [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672).
 
@@ -115,13 +115,43 @@ Vervallen
 
 2. Bij de berekening van een voorlopige verliesverrekening wordt het vermoedelijke verlies voor tachtig percent in aanmerking genomen.
 
-##### Artikel 4
+##### Artikel 4. Aftrekbare giften in natura; voorwaarden taxatierapport
 
-Vervallen
+1. Het taxatierapport, bedoeld in [artikel 16, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=16), bevat de uitkomsten van een taxatie die is uitgevoerd door een onafhankelijke taxateur die is ingeschreven in een register dat tot doel heeft zijn deskundigheid te waarborgen.
 
-##### Artikel 4a
+2. De taxatie heeft niet meer dan drie maanden voor het moment van schenking alsmede niet meer dan zes maanden na het moment van schenking plaatsgevonden.
 
-Vervallen
+3. Het taxatierapport bevat ten minste de volgende gegevens:
+
+- a. de voorletters, de achternaam, het adres, de woonplaats en het telefoonnummer van de taxateur die de taxatie feitelijk heeft verricht;
+
+- b. de inschrijving van de taxateur in het voor de gift relevante taxatieregister;
+
+- c. een verklaring van de taxateur dat de in het taxatierapport opgegeven waarde door hem naar waarheid is vastgesteld aan de hand van een gedegen fysieke opname, ondersteund door visueel materiaal van het getaxeerde object;
+
+- d. de datum van de fysieke opname;
+
+- e. de getaxeerde waarde in het economische verkeer op het moment van schenking;
+
+- f. een omschrijving van het type en de omvang van het object of het belang en de aard van het gebruik;
+
+- g. de waarderelevante gegevens;
+
+- h. indien van toepassing: een motivering van de individuele afwijking ten opzichte van de relevante marktgegevens.
+
+##### Artikel 4a. Aftrekbare giften in natura; voorwaarden factuur
+
+1. De factuur, bedoeld in [artikel 16, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=16), is niet meer dan drie maanden voorafgaand aan het moment van schenking uitgereikt.
+
+2. De factuur bevat voorts de waarde in het economische verkeer zoals die door onafhankelijke partijen is of zou zijn overeengekomen.
+
+3. De factuur bevat een vermelding van ten minste de volgende gegevens:
+
+- a. de datum waarop de factuur is uitgereikt;
+
+- b. de volledige naam en adresgegevens van de verkoper en de afnemer;
+
+- c. het type en de omvang van het object of het belang en de aard van het gebruik.
 
 ##### Artikel 4b
 
@@ -239,7 +269,7 @@ Voor andere staten wordt de woonlandfactor bepaald aan de hand van de [tabel die
 
 ## Bijlage. behorende bij de Uitvoeringsbeschikking vennootschapsbelasting 1971
 
-De woonlandfactor, bedoeld in de [artikelen 2d, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0002784&artikel=2d&z=2023-01-01&g=2023-01-01), en [2e, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0002784&artikel=2e&z=2023-01-01&g=2023-01-01), wordt voor andere lidstaten van de Europese Unie, andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland bepaald aan de hand van de volgende tabel:
+De woonlandfactor, bedoeld in de [artikelen 2d, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0002784&artikel=2d&z=2024-01-01&g=2024-01-01), en [2e, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0002784&artikel=2e&z=2024-01-01&g=2024-01-01), wordt voor andere lidstaten van de Europese Unie, andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland bepaald aan de hand van de volgende tabel:
 
 | Staat | Woonlandfactor |
 | --- | --- |
@@ -248,7 +278,7 @@ De woonlandfactor, bedoeld in de [artikelen 2d, onderdeel g](https://wetten.over
 | Cyprus | 80% |
 | Denemarken | 100% |
 | Duitsland | 100% |
-| Estland | 70% |
+| Estland | 80% |
 | Finland | 100% |
 | Frankrijk | 100% |
 | Griekenland | 80% |
