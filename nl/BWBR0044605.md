@@ -4,7 +4,7 @@ identifier: "BWBR0044605"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2023-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044605"
 soort: "ministeriele-regeling"
@@ -74,7 +74,7 @@ Deze regeling wordt aangehaald als: Uitvoeringsregeling bronbelasting 2021.
 
 ## Bijlage. Behorende bij de Uitvoeringsregeling bronbelasting 2021
 
-De woonlandfactor, bedoeld in [artikel 2, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0044605&artikel=2&z=2023-01-01&g=2023-01-01), wordt voor andere lidstaten van de Europese Unie, andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland bepaald aan de hand van de volgende tabel:
+De woonlandfactor, bedoeld in [artikel 2, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0044605&artikel=2&z=2024-01-01&g=2024-01-01), wordt voor andere lidstaten van de Europese Unie, andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland bepaald aan de hand van de volgende tabel:
 
 | Staat | Woonlandfactor |
 | --- | --- |
@@ -83,7 +83,7 @@ De woonlandfactor, bedoeld in [artikel 2, onderdeel g](https://wetten.overheid.n
 | Cyprus | 80% |
 | Denemarken | 100% |
 | Duitsland | 100% |
-| Estland | 70% |
+| Estland | 80% |
 | Finland | 100% |
 | Frankrijk | 100% |
 | Griekenland | 80% |
