@@ -4,7 +4,7 @@ identifier: "BWBR0023804"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-05"
-last_updated: "2023-04-13"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023804"
 soort: "ministeriele-regeling"
@@ -42,11 +42,11 @@ Besluit:
 
 ##### Artikel 1
 
-De omvang van de behoefte aan bijzondere interventies aan het hart, de wijze waarop in deze behoefte kan worden voorzien en de voorschriften waaraan uitvoerende centra moeten voldoen, zijn neergelegd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023804&bijlage=1&z=2023-04-13&g=2023-04-13).
+De omvang van de behoefte aan bijzondere interventies aan het hart, de wijze waarop in deze behoefte kan worden voorzien en de voorschriften waaraan uitvoerende centra moeten voldoen, zijn neergelegd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023804&bijlage=1&z=2024-06-05&g=2024-01-01).
 
 ##### Artikel 2
 
-De gegevens die een instelling bij de aanvraag van een vergunning dient te verstrekken, in aanvulling op de [Regeling vergunningprocedure bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0009846), zijn omschreven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023804&bijlage=2&z=2023-04-13&g=2023-04-13).
+De gegevens die een instelling bij de aanvraag van een vergunning dient te verstrekken, in aanvulling op de [Regeling vergunningprocedure bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0009846), zijn omschreven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023804&bijlage=2&z=2024-06-05&g=2024-01-01).
 
 ##### Artikel 3
 
