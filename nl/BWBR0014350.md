@@ -4,7 +4,7 @@ identifier: "BWBR0014350"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2020-04-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014350"
 soort: "wet"
@@ -70,25 +70,11 @@ Vervallen
 
 ##### Artikel VII. Expertisebekostiging voor bestaande scholen voor meervoudig gehandicapten
 
-1. Voor de op 31 juli 2002 bestaande scholen of afdelingen voor meervoudig gehandicapte kinderen waaraan onderwijs en begeleiding wordt gegeven aan kinderen met een andere combinatie van handicaps dan die op basis van [artikel 2, vijfde lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=2), zijn vastgesteld, stelt Onze minister van Onderwijs, Cultuur en Wetenschappen expertisebekostiging vast.
-
-2. Bij beschikking wordt door Onze minister van Onderwijs, Cultuur en Wetenschappen, uitgaande van de bekostiging voor het schooljaar 2001–2002 ten behoeve van de leerlingen, bedoeld in het eerste lid, de expertisebekostiging vastgesteld.
-
-3. Het bevoegd gezag van de school of afdeling waarvoor expertisebekostiging beschikbaar is, stelt vast aan welke criteria de leerlingen moeten voldoen die op basis van de expertisebekostiging onderwijs en begeleiding kunnen ontvangen.
-
-4. De school rapporteert jaarlijks over de besteding van de expertisebekostiging aan Onze minister van Onderwijs, Cultuur en Wetenschap.
-
-5. Voor de vaststelling van de bedragen ingevolge het Gemeentefonds blijft voor het aantal meervoudig gehandicapte leerlingen dat op 31 juli 2002 was ingeschreven bij een van de in het eerste lid bedoelde scholen en afdelingen de leerlingenmaatstaf die voor die leerlingen op die datum gold, gehandhaafd. De in de eerste volzin bedoelde leerlingen worden in het kader van de leerlingenmaatstaf slechts in één categorie meegerekend.
+Vervallen
 
 ##### Artikel VIII. Omzetting afdelingen voor zeer moeilijk lerende kinderen
 
-1. Onze minister kan besluiten dat een afdeling voor zeer moeilijk lerende kinderen die op de dag voorafgaand aan de inwerkingtreding van deze wet, is verbonden aan een speciale school voor basisonderwijs al dan niet tezamen met een of meer andere van zulke afdelingen, met ingang van de datum van inwerkingtreding van deze wet wordt omgezet in een school voor zeer moeilijk lerende kinderen indien op 1 oktober 1999 het aantal leerlingen van de afdeling of afdelingen tezamen 60 of meer bedroeg.
-
-2. Onze minister kan besluiten een afdeling voor zeer moeilijk lerende kinderen die is verbonden aan een speciale school voor basisonderwijs en die op 1 oktober 1999 minder dan 60 maar ten minste 25 leerlingen had, om te zetten in een school voor zeer moeilijk lerende kinderen, indien de afdeling in het gebied van het regionaal expertisecentrum de enige voorziening voor onderwijs aan zeer moeilijk lerende kinderen is van de richting.
-
-3. Onze minister kan besluiten dat een afdeling voor zeer moeilijk lerende kinderen die op de dag voorafgaand aan de inwerkingtreding van deze wet, is verbonden aan een speciale school voor basisonderwijs en die op 1 oktober 1999 minder dan 25 leerlingen had, wordt omgezet in een nevenvestiging van een school voor zeer moeilijk lerende kinderen in het gebied van het regionaal expertisecentrum. Voor de nevenvestiging, bedoeld in de eerste volzin, wordt een garantiebekostiging vastgesteld. [Artikel 58 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=58) is van overeenkomstige toepassing.
-
-4. Binnen twee maanden na inwerkingtreding van deze wet kunnen de afdelingen Onze minister verzoeken om een omzetting als bedoeld in het eerste, tweede of derde lid. Zij melden daartoe het aantal leerlingen van de afdeling op 1 oktober 1999 en de naam en het adres van het bevoegd gezag van de afdeling en van het nieuwe bevoegd gezag. Onze minister besluit binnen 4 weken na de indiening van het verzoek of een afdeling of afdelingen wordt of worden omgezet in een school of een nevenvestiging.
+Vervallen
 
 ##### Artikel IX. Overgangsbepaling indicatiestelling
 
@@ -112,7 +98,7 @@ Vervallen
 
 ##### Artikel XIV. Experiment Almere
 
-Het op 1 augustus 1997 gestarte experiment met betrekking tot het onderwijs aan gehandicapte leerlingen in de gemeente Almere wordt met behoud van de doelstellingen, de organisatorische uitwerking daarvan en minimaal de daarbij behorende bekostiging aangepast aan deze wet.
+Vervallen
 
 ##### Artikel XV. Overgangsbepaling
 
