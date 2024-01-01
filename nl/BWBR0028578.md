@@ -4,7 +4,7 @@ identifier: "BWBR0028578"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-05-07"
-last_updated: "2023-01-11"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028578"
 soort: "zbo"
@@ -65,7 +65,7 @@ In dit besluit wordt verstaan onder:
 
 1. Reiskosten komen voor vergoeding in aanmerking indien de reisafstand van woonadres naar de plaats van oproeping vijftien kilometer of meer bedraagt. Bij een reisafstand van minder dan vijftien kilometer worden reiskosten niet vergoed.
 
-2. De vergoeding voor reiskosten bij een reisafstand van vijftien kilometer of meer bedraagt € 0,21 per kilometer, ongeacht de wijze van vervoer. Het totaal aantal kilometers dat voor vergoeding in aanmerking komt wordt vastgesteld door het aantal kilometers van de reisafstand te vermenigvuldigen met twee en de uitkomst naar boven af te ronden op gehele kilometers.
+2. De vergoeding voor reiskosten bij een reisafstand van vijftien kilometer of meer bedraagt € 0,22 per kilometer, ongeacht de wijze van vervoer. Het totaal aantal kilometers dat voor vergoeding in aanmerking komt wordt vastgesteld door het aantal kilometers van de reisafstand te vermenigvuldigen met twee en de uitkomst naar boven af te ronden op gehele kilometers.
 
 3. De reisafstand van het woonadres naar de plaats van oproeping wordt vastgesteld aan de hand van een algemeen erkende en aanvaarde routeplanner.
 
@@ -75,7 +75,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4. Vergoeding reiskosten bij medische klachten of lichamelijke beperkingen
 
-Indien de opgeroepene naar het oordeel van UWV door medische klachten of lichamelijke beperkingen is aangewezen op eigen vervoer of vervoer per taxi, wordt bij gebruik van eigen vervoer € 0,21 per kilometer vergoed, zonder minimum reisafstand, en bij gebruik van een taxi de werkelijke naar redelijkheid gemaakte kosten.
+Indien de opgeroepene naar het oordeel van UWV door medische klachten of lichamelijke beperkingen is aangewezen op eigen vervoer of vervoer per taxi, wordt bij gebruik van eigen vervoer € 0,22 per kilometer vergoed, zonder minimum reisafstand, en bij gebruik van een taxi de werkelijke naar redelijkheid gemaakte kosten.
 
 ##### Artikel 5. Vergoeding verblijfkosten
 
