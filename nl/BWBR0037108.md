@@ -4,7 +4,7 @@ identifier: "BWBR0037108"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2015-11-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037108"
 soort: "ministeriele-regeling"
@@ -50,31 +50,35 @@ In deze regeling wordt verstaan onder:
 
 - a. **minister:** Minister van Defensie;
 
-- b. **geluidsgevoelige ruimten van woningen:** ruimten binnen woningen voor zover die kennelijk duurzaam als slaap-, woon- of eetkamer worden gebruikt of voor een zodanig gebruik zijn bestemd;
+- b. **gebouw:** gebouw als bedoeld in [bijlage I bij het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=I);
 
-- c. **ander geluidsgevoelig gebouw:** gebouw met een onderwijsfunctie of gezondheidszorgfunctie als bedoeld in [artikel 1.1, tweede lid, van het Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461&artikel=1.1);
+- c. **woning:** woonfunctie als bedoeld in [bijlage I bij het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=I);
 
-- d. **geluidsgevoelige ruimten van andere geluidsgevoelige gebouwen:** les-, theorie- en studielokalen van onderwijsgebouwen, alsmede onderzoeks- en behandelings-, recreatie- en conversatieruimten en woon- en slaapruimten van ziekenhuizen, verpleeghuizen en andere gezondheidszorggebouwen als bedoeld in de algemene maatregel van bestuur, bedoeld in [artikel 1 van de Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=1);
+- d. **geluidsgevoelige ruimten van woningen:** ruimten binnen woningen voor zover die kennelijk duurzaam als slaap-, woon- of eetkamer worden gebruikt of voor een zodanig gebruik zijn bestemd;
 
-- e. **geluidwering van een uitwendige scheidingsconstructie:** grootheid die het verschil tussen het niveau van het invallende geluid aan de buitenzijde van een uitwendige scheidingsconstructie en het geluidsniveau in een ruimte achter deze constructie in een getal weergeeft;
+- e. **ander geluidsgevoelig gebouw:** gebouw met een onderwijsfunctie of gezondheidszorgfunctie als bedoeld in [bijlage I bij het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=I);
 
-- f. **kostenbegrenzingswaarde:** maximaal door de minister ter beschikking te stellen bedrag voor de geluidwerende voorzieningen en het aanbrengen daarvan, dat de uitkomst is van de berekening volgens [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&bijlage=1&z=2015-11-01&g=2015-11-01) bij deze regeling;
+- f. **geluidsgevoelige ruimten van andere geluidsgevoelige gebouwen:** les-, theorie- en studielokalen van gebouwen met een onderwijsfunctie, alsmede onderzoeks- en behandelings-, recreatie- en conversatieruimten en woon- en slaapruimten van gebouwen met een gezondheidszorgfunctie;
 
-- g. **geluidszone in Ke:** geluidszone als bedoeld in [artikel 10.17 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.17) voor de in het tweede lid van dat artikel bedoelde grenswaarde;
+- g. **geluidwering van een uitwendige scheidingsconstructie:** grootheid die het verschil tussen het niveau van het invallende geluid aan de buitenzijde van een uitwendige scheidingsconstructie en het geluidsniveau in een ruimte achter deze constructie in een getal weergeeft;
 
-- h. **geluidsbelasting in Ke:** geluidsbelasting als bedoeld in [artikel 3, tweede lid, van het Besluit militaire luchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&artikel=3);
+- h. **kostenbegrenzingswaarde:** maximaal door de minister ter beschikking te stellen bedrag voor de geluidwerende voorzieningen en het aanbrengen daarvan, dat de uitkomst is van de berekening volgens [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&bijlage=1&z=2024-01-01&g=2024-01-01) bij deze regeling;
 
-- i. **vergunning voor het bouwen:** bouwvergunning of omgevingsvergunning voor het bouwen van een bouwwerk;
+- i. **geluidszone in Ke:** geluidszone als bedoeld in [artikel 10.17 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=17) voor de in het tweede lid van dat artikel bedoelde grenswaarde;
 
-- j. **onderzoek:** akoestisch en bouwtechnisch onderzoek van woningen of van andere geluidsgevoelige gebouwen;
+- j. **geluidsbelasting in Ke:** geluidsbelasting als bedoeld in [artikel 3, tweede lid, van het Besluit militaire luchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&artikel=3);
 
-- k. **NEN-5077:** door het Nederlands Normalisatie-Instituut uitgegeven norm ‘Geluidwering in gebouwen – Bepalingsmethoden voor de grootheden voor geluidwering van uitwendige scheidingsconstructies, luchtgeluidisolatie, contactgeluidisolatie, geluidniveaus veroorzaakt door installaties en nagalmtijd’, publicatiejaar 2012, met de daarop uitgegeven aanvullingen en correctiebladen, zoals deze zijn vastgelegd in de [Regeling Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031022);
+- k. **omgevingsvergunning voor het bouwen:** vergunning als bedoeld in [artikel 40, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=40), omgevingsvergunning als bedoeld in [artikel 2.1, eerste lid, aanhef en onder a, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1), omgevingsvergunning als bedoeld in [artikel 5.1, eerste lid, aanhef en onder a, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1) voor een omgevingsplanactiviteit bestaande uit een bouwactiviteit of omgevingsvergunning als bedoeld in artikel 5.1, tweede lid, aanhef en onder b, van de Omgevingswet;
 
-- l. **NEN-EN-12354-3:** door het Nederlands Normalisatie-Instituut uitgegeven norm ‘Geluidwering in gebouwen – Berekening van de akoestische eigenschappen van gebouwen met de eigenschappen van bouwelementen – Deel 3: Luchtgeluidisolatie tegen geluiden van buitenaf’, publicatiejaar 2000, met de daarop uitgegeven aanvullingen en correctiebladen, zoals deze zijn vastgelegd in de [Regeling Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031022);
+- l. **onderzoek:** akoestisch en bouwtechnisch onderzoek van woningen of van andere geluidsgevoelige gebouwen;
 
-- m. **NPR-5079:** door het Nederlands Normalisatie-Instituut uitgegeven Nederlandse praktijkrichtlijn ‘Geluidwering in gebouwen – Het bepalen en hanteren van ééngetalsaanduidingen voor de geluidwering in gebouwen en van bouwelementen’, publicatiejaar 1999;
+- m. **NEN5077:** NEN 5077 als bedoeld in bijlage II bij de Omgevingsregeling;
 
-- n. **NPR-5272:** door het Nederlands Normalisatie-Instituut uitgegeven Nederlandse praktijkrichtlijn ‘Geluidwering in gebouwen – Aanwijzingen voor de toepassing van het rekenvoorschrift voor de geluidwering van gevels op basis van NEN-EN 12354-3’, publicatiejaar 2003.
+- n. **NEN-EN-ISO 12354-3:** NEN-EN-ISO 12354-3 als bedoeld in bijlage II bij de Omgevingsregeling;
+
+- o. **NPR-5079:** door het Nederlands Normalisatie-Instituut uitgegeven Nederlandse praktijkrichtlijn ‘Geluidwering in gebouwen – Het bepalen en hanteren van ééngetalsaanduidingen voor de geluidwering in gebouwen en van bouwelementen’, publicatiejaar 1999;
+
+- p. **NPR-5272:** door het Nederlands Normalisatie-Instituut uitgegeven Nederlandse praktijkrichtlijn ‘Geluidwering in gebouwen – Aanwijzingen voor de toepassing van het rekenvoorschrift voor de geluidwering van gevels op basis van NEN-EN 12354-3’, publicatiejaar 2003.
 
 ### Hoofdstuk 2. Reikwijdte
 
@@ -86,13 +90,13 @@ In deze regeling wordt verstaan onder:
 
 - a. een woning die:
 
-- 1°. op het tijdstip van vaststelling van de geluidszone in Ke daarbinnen reeds aanwezig is, of nog niet aanwezig is maar waarvoor de vergunning voor het bouwen is verleend, en
+- 1°. op het tijdstip van vaststelling van de geluidszone in Ke daarbinnen reeds aanwezig is, of nog niet aanwezig is maar waarvoor de omgevingsvergunning voor het bouwen is verleend, en
 
 - 2°. een geluidsbelasting van 40 Ke of hoger ondervindt.
 
 - b. een ander geluidsgevoelig gebouw dat:
 
-- 1°. op het tijdstip van vaststelling van de geluidszone in Ke daarbinnen reeds aanwezig is, of nog niet aanwezig is maar waarvoor de vergunning voor het bouwen is verleend, en
+- 1°. op het tijdstip van vaststelling van de geluidszone in Ke daarbinnen reeds aanwezig is, of nog niet aanwezig is maar waarvoor de omgevingsvergunning voor het bouwen is verleend, en
 
 - 2°. een hogere geluidsbelasting in Ke ondervindt dan de ten hoogste toelaatbare geluidsbelasting, bedoeld in [artikel 8 van het Besluit militaire luchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&artikel=8).
 
@@ -102,25 +106,25 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-Geluidwerende voorzieningen worden niet aangebracht aan de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=1&artikel=2&z=2015-11-01&g=2015-11-01), bedoelde woningen, wanneer ten tijde van de bekendmaking van het isolatieprogramma, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=8&z=2015-11-01&g=2015-11-01):
+Geluidwerende voorzieningen worden niet aangebracht aan de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=1&artikel=2&z=2024-01-01&g=2024-01-01), bedoelde woningen, wanneer ten tijde van de bekendmaking van het isolatieprogramma, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=8&z=2024-01-01&g=2024-01-01):
 
-- a. vast staat dat de geluidsgevoelige ruimten van de desbetreffende woningen reeds voldoen aan [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=4&artikel=12&z=2015-11-01&g=2015-11-01), dan wel aan overeenkomstige eisen hadden moeten voldoen op grond van de geluidweringsvoorschriften ingevolge de [Woningwet 1962](https://wetten.overheid.nl/jci1.3:c:BWBR0002379) of de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181);
+- a. vast staat dat de geluidsgevoelige ruimten van de desbetreffende woningen reeds voldoen aan [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=4&artikel=12&z=2024-01-01&g=2024-01-01), dan wel aan overeenkomstige eisen hadden moeten voldoen op grond van de geluidweringsvoorschriften ingevolge de [Woningwet 1962](https://wetten.overheid.nl/jci1.3:c:BWBR0002379) of de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181);
 
 - b. vaststaat dat zij onteigend maar nog bewoond zijn, dan wel de verwachting bestaat dat zij binnen vijf jaar na de bekendmaking van het isolatieprogramma zullen worden of zijn onteigend of dat de bewoning om andere redenen binnen die termijn zal worden gestaakt;
 
-- c. vast staat dat zij niet voor permanente bewoning geschikt of bestemd zijn of daar niet voor worden gebruikt;
+- c. vast staat dat zij niet voor permanente bewoning geschikt of bedoeld zijn of daar niet voor worden gebruikt;
 
 - d. vast staat dat zij behoren tot de categorieën woonschepen of woonwagens;
 
 - e. de verwachting bestaat dat zij binnen twee jaar na bekendmaking van het isolatieprogramma of na bekendmaking van een deelproject, door het wijzigen of het vervallen van de geluidszone in Ke een geluidsbelasting van minder dan 40 Ke zullen ondervinden;
 
-- f. vaststaat dat aan de desbetreffende woningen met toepassing van deze regeling of de [Regeling geluidwerende voorzieningen 1997](https://wetten.overheid.nl/jci1.3:c:BWBR0008540) reeds van rijkswege geluidwerende voorzieningen zijn aangebracht, en de waarde van de geluidwering van de uitwendige scheidingsconstructie ter bescherming van de geluidsgevoelige ruimte, bepaald volgens [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&bijlage=2&z=2015-11-01&g=2015-11-01) bij de betrokken regeling zoals die gold op het moment waarop bedoelde geluidwerende voorzieningen werden aangebracht, 3 dB(A) of minder lager is dan de in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=4&artikel=12&z=2015-11-01&g=2015-11-01), bedoelde waarde;
+- f. vaststaat dat aan de desbetreffende woningen met toepassing van deze regeling of de [Regeling geluidwerende voorzieningen 1997](https://wetten.overheid.nl/jci1.3:c:BWBR0008540) reeds van rijkswege geluidwerende voorzieningen zijn aangebracht, en de waarde van de geluidwering van de uitwendige scheidingsconstructie ter bescherming van de geluidsgevoelige ruimte, bepaald volgens [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&bijlage=2&z=2024-01-01&g=2024-01-01) bij de betrokken regeling zoals die gold op het moment waarop bedoelde geluidwerende voorzieningen werden aangebracht, 3 dB(A) of minder lager is dan de in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=4&artikel=12&z=2024-01-01&g=2024-01-01), bedoelde waarde;
 
 - g. vaststaat dat de desbetreffende woningen reeds in beschouwing voor toepassing van deze regeling of de [Regeling geluidwerende voorzieningen 1997](https://wetten.overheid.nl/jci1.3:c:BWBR0008540) zijn genomen en op grond van de volgende situaties is besloten om niet over te gaan tot het van rijkswege aanbrengen van geluidwerende voorzieningen:
 
-- 1°. er was sprake van constructieve gebreken of achterstallig onderhoud als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=3&artikel=5&z=2015-11-01&g=2015-11-01), en
+- 1°. er was sprake van constructieve gebreken of achterstallig onderhoud als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=3&artikel=5&z=2024-01-01&g=2024-01-01), en
 
-- 2°. de waarde van de geluidwering van de uitwendige scheidingsconstructie, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=4&artikel=12&z=2015-11-01&g=2015-11-01), is minder dan 5 dB(A) lager dan de waarde van de geluidwering van de uitwendige scheidingsconstructie op het moment waarop de woning eerder in beschouwing is genomen.
+- 2°. de waarde van de geluidwering van de uitwendige scheidingsconstructie, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=4&artikel=12&z=2024-01-01&g=2024-01-01), is minder dan 5 dB(A) lager dan de waarde van de geluidwering van de uitwendige scheidingsconstructie op het moment waarop de woning eerder in beschouwing is genomen.
 
 ### Afdeling 3. Situaties waarin onder bepaalde voorwaarden geluidwerende voorzieningen aan woningen worden aangebracht
 
@@ -128,9 +132,9 @@ Geluidwerende voorzieningen worden niet aangebracht aan de in [artikel 2, eerste
 
 1. Indien uit het onderzoek blijkt dat:
 
-- a. de waarde van de geluidwering van de uitwendige scheidingsconstructie van de geluidsgevoelige ruimten van een woning, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=1&artikel=2&z=2015-11-01&g=2015-11-01), meer dan 2 dB(A) lager is dan de waarde die bereikt had moeten worden op grond van de geluidweringsvoorschriften ingevolge de [Woningwet 1962](https://wetten.overheid.nl/jci1.3:c:BWBR0002379) of de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181), en
+- a. de waarde van de geluidwering van de uitwendige scheidingsconstructie van de geluidsgevoelige ruimten van een woning, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=1&artikel=2&z=2024-01-01&g=2024-01-01), meer dan 2 dB(A) lager is dan de waarde die bereikt had moeten worden op grond van de geluidweringsvoorschriften ingevolge de [Woningwet 1962](https://wetten.overheid.nl/jci1.3:c:BWBR0002379) of de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181), en
 
-- b. de geluidsbelasting in Ke hoger is dan op de datum waarop de vergunning voor het bouwen krachtens welke de woning is gebouwd, is verleend,
+- b. de geluidsbelasting in Ke hoger is dan op de datum waarop de omgevingsvergunning voor het bouwen krachtens welke de woning is gebouwd, is verleend,
 
 wordt niet tot het van rijkswege aanbrengen van geluidwerende voorzieningen overgegaan voordat bedoelde uitwendige scheidingsconstructie, binnen een door de minister gestelde redelijke termijn, door en op kosten van de eigenaar van de woning in overeenstemming is gebracht met de onder a, bedoelde geluidweringsvoorschriften.
 
@@ -138,7 +142,7 @@ wordt niet tot het van rijkswege aanbrengen van geluidwerende voorzieningen over
 
 3. Indien uit het onderzoek blijkt dat:
 
-- a. de eigenaar van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=1&artikel=2&z=2015-11-01&g=2015-11-01), bedoelde woning ingevolge [artikel 13 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=13) een plicht is opgelegd tot het treffen van voorzieningen als in dat artikel bedoeld,
+- a. de eigenaar van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=1&artikel=2&z=2024-01-01&g=2024-01-01), bedoelde woning ingevolge [artikel 13 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=13) een plicht is opgelegd tot het treffen van voorzieningen als in dat artikel bedoeld,
 
 - b. die voorzieningen verband houden met het kunnen aanbrengen van geluidwerende voorzieningen krachtens deze regeling, en
 
@@ -148,11 +152,11 @@ wordt niet tot het van rijkswege aanbrengen van geluidwerende voorzieningen over
 
 ##### Artikel 5
 
-1. Indien uit het onderzoek blijkt dat met betrekking tot de geluidsgevoelige ruimten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=1&artikel=2&z=2015-11-01&g=2015-11-01), of de bereikbaarheid van die ruimten, niet is voldaan aan de technische voorschriften voor bestaande bouw als opgenomen in het [Bouwbesluit 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0012727) onderscheidenlijk het [Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461), wordt niet tot het van rijkswege aanbrengen van geluidwerende voorzieningen overgegaan voordat bedoelde ruimten en bereikbaarheid, binnen een door de minister gestelde redelijke termijn, door en op kosten van de eigenaar van de woning in overeenstemming zijn gebracht met die technische voorschriften.
+1. Indien uit het onderzoek blijkt dat met betrekking tot de geluidsgevoelige ruimten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=1&artikel=2&z=2024-01-01&g=2024-01-01), of de bereikbaarheid van die ruimten, niet is voldaan aan de technische voorschriften voor bestaande bouw als opgenomen in het [Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297), wordt niet tot het van rijkswege aanbrengen van geluidwerende voorzieningen overgegaan voordat bedoelde ruimten en bereikbaarheid, binnen een door de minister gestelde redelijke termijn, door en op kosten van de eigenaar van de woning in overeenstemming zijn gebracht met die technische voorschriften.
 
 2. De minister kan het eerste lid buiten toepassing laten of daarvan afwijken voor zover toepassing, gelet op het belang dat deze regeling beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
 
-3. Indien uit het onderzoek blijkt dat met betrekking tot de geluidsgevoelige ruimten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=1&artikel=2&z=2015-11-01&g=2015-11-01), sprake is van zichtbare of aantoonbare constructieve gebreken of van achterstallig onderhoud, waaronder niet wordt verstaan aanpassingen die rechtstreeks voortvloeien uit het aanbrengen van de geluidwerende voorzieningen, wordt niet tot het van rijkswege aanbrengen van geluidwerende voorzieningen overgegaan voordat bedoelde gebreken en achterstallig onderhoud, binnen een door de minister gestelde redelijke termijn, door en op kosten van de eigenaar van de woning zijn opgeheven.
+3. Indien uit het onderzoek blijkt dat met betrekking tot de geluidsgevoelige ruimten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=1&artikel=2&z=2024-01-01&g=2024-01-01), sprake is van zichtbare of aantoonbare constructieve gebreken of van achterstallig onderhoud, waaronder niet wordt verstaan aanpassingen die rechtstreeks voortvloeien uit het aanbrengen van de geluidwerende voorzieningen, wordt niet tot het van rijkswege aanbrengen van geluidwerende voorzieningen overgegaan voordat bedoelde gebreken en achterstallig onderhoud, binnen een door de minister gestelde redelijke termijn, door en op kosten van de eigenaar van de woning zijn opgeheven.
 
 4. Indien het eerste of het derde lid van toepassing is, vinden de werkzaamheden tot het in overeenstemming brengen met de eisen, bedoeld in het eerste lid, alsmede het opheffen van constructieve gebreken en van achterstallig onderhoud, bedoeld in het derde lid, en het van rijkswege aanbrengen van de geluidwerende voorzieningen gelijktijdig plaats indien de eigenaar daarom verzoekt.
 
@@ -162,13 +166,13 @@ wordt niet tot het van rijkswege aanbrengen van geluidwerende voorzieningen over
 
 ##### Artikel 6
 
-Indien de kosten van het aanbod, bedoeld in [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=3&afdeling=1&paragraaf=3&artikel=10&z=2015-11-01&g=2015-11-01), hoger zijn dan de kosten bedoeld in [artikel 9, derde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=9&z=2015-11-01&g=2015-11-01), wordt niet tot het van rijkswege aanbrengen van geluidwerende voorzieningen overgegaan, tenzij de eigenaar van de woning het verschil voor zijn rekening neemt.
+Indien de kosten van het aanbod, bedoeld in [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=3&afdeling=1&paragraaf=3&artikel=10&z=2024-01-01&g=2024-01-01), hoger zijn dan de kosten bedoeld in [artikel 9, derde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=9&z=2024-01-01&g=2024-01-01), wordt niet tot het van rijkswege aanbrengen van geluidwerende voorzieningen overgegaan, tenzij de eigenaar van de woning het verschil voor zijn rekening neemt.
 
 ### Afdeling 4. Andere geluidsgevoelige gebouwen
 
 ##### Artikel 7
 
-[Artikel 3, aanhef en onder a, b, c, e, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=2&artikel=3&z=2015-11-01&g=2015-11-01), [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=3&artikel=4&z=2015-11-01&g=2015-11-01), [artikel 5, eerste tot en met vierde lid en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=3&artikel=5&z=2015-11-01&g=2015-11-01), en [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=3&artikel=6&z=2015-11-01&g=2015-11-01), zijn van overeenkomstige toepassing op de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=1&artikel=2&z=2015-11-01&g=2015-11-01), bedoelde andere geluidsgevoelige gebouwen.
+[Artikel 3, aanhef en onder a, b, c, e, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=2&artikel=3&z=2024-01-01&g=2024-01-01), [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=3&artikel=4&z=2024-01-01&g=2024-01-01), [artikel 5, eerste tot en met vierde lid en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=3&artikel=5&z=2024-01-01&g=2024-01-01), en [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=3&artikel=6&z=2024-01-01&g=2024-01-01), zijn van overeenkomstige toepassing op de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=1&artikel=2&z=2024-01-01&g=2024-01-01), bedoelde andere geluidsgevoelige gebouwen.
 
 ### Hoofdstuk 3. Procedure
 
@@ -178,9 +182,9 @@ Indien de kosten van het aanbod, bedoeld in [artikel 10, derde lid](https://wett
 
 ##### Artikel 8
 
-1. De minister stelt in een isolatieprogramma vast welke woningen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=1&artikel=2&z=2015-11-01&g=2015-11-01), voor het van rijkswege aanbrengen van geluidwerende voorzieningen in beschouwing zullen worden genomen. Na vaststelling van het isolatieprogramma, kan de minister deelprojecten vaststellen waarin wordt aangegeven voor welke woningen uit het isolatieprogramma in een daarbij aangegeven periode achtereenvolgens uitvoering wordt gegeven aan de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=9&z=2015-11-01&g=2015-11-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=3&afdeling=1&paragraaf=3&artikel=10&z=2015-11-01&g=2015-11-01). De minister kan besluiten aan woningen in een deelproject geen uitvoering te geven aan de artikelen 9 en 10 indien op grond van een besluit tot het wijzigen of vervallen van de geluidszone in Ke wordt vastgesteld dat de woningen binnen twee jaar na vaststelling van het deelproject niet meer binnen de geluidscontour die behoort bij de waarde van 40 Ke aanwezig zullen zijn.
+1. De minister stelt in een isolatieprogramma vast welke woningen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=1&artikel=2&z=2024-01-01&g=2024-01-01), voor het van rijkswege aanbrengen van geluidwerende voorzieningen in beschouwing zullen worden genomen. Na vaststelling van het isolatieprogramma, kan de minister deelprojecten vaststellen waarin wordt aangegeven voor welke woningen uit het isolatieprogramma in een daarbij aangegeven periode achtereenvolgens uitvoering wordt gegeven aan de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=9&z=2024-01-01&g=2024-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=3&afdeling=1&paragraaf=3&artikel=10&z=2024-01-01&g=2024-01-01). De minister kan besluiten aan woningen in een deelproject geen uitvoering te geven aan de artikelen 9 en 10 indien op grond van een besluit tot het wijzigen of vervallen van de geluidszone in Ke wordt vastgesteld dat de woningen binnen twee jaar na vaststelling van het deelproject niet meer binnen de geluidscontour die behoort bij de waarde van 40 Ke aanwezig zullen zijn.
 
-De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=2&artikel=3&z=2015-11-01&g=2015-11-01) bedoelde woningen worden niet in het isolatieprogramma opgenomen.
+De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=2&artikel=3&z=2024-01-01&g=2024-01-01) bedoelde woningen worden niet in het isolatieprogramma opgenomen.
 
 2. Tot het moment waarop een geluidszone in Ke wordt gewijzigd, wordt een woning door de minister slechts éénmaal in beschouwing genomen.
 
@@ -196,15 +200,15 @@ De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&af
 
 - d. tekeningen van woningen;
 
-- e. verstrekte vergunningen voor het bouwen;
+- e. verstrekte omgevingsvergunningen voor het bouwen;
 
-- f. een overzicht van de voor [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=2&artikel=3&z=2015-11-01&g=2015-11-01) noodzakelijke gegevens.
+- f. een overzicht van de voor [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=2&artikel=3&z=2024-01-01&g=2024-01-01) noodzakelijke gegevens.
 
 #### § 2. Onderzoek
 
 ##### Artikel 9
 
-1. Aan de in [artikel 8, derde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=8&z=2015-11-01&g=2015-11-01), bedoelde eigenaren wordt zodra de woning die is opgenomen in het isolatieprogramma of een deelproject in uitvoering wordt genomen, verzocht binnen twee maanden na verzending van de mededeling, schriftelijk toestemming te verlenen tot het uitvoeren van een onderzoek.
+1. Aan de in [artikel 8, derde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=8&z=2024-01-01&g=2024-01-01), bedoelde eigenaren wordt zodra de woning die is opgenomen in het isolatieprogramma of een deelproject in uitvoering wordt genomen, verzocht binnen twee maanden na verzending van de mededeling, schriftelijk toestemming te verlenen tot het uitvoeren van een onderzoek.
 
 2. Indien de toestemming niet volledig, niet binnen de in het eerste lid genoemde termijn of niet voor de gehele woning is verleend, wordt de desbetreffende eigenaren schriftelijk medegedeeld dat geen geluidwerende voorzieningen worden aangebracht.
 
@@ -214,21 +218,21 @@ De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&af
 
 - b. een inventarisatie van bouwtechnische gegevens die van belang zijn voor het vaststellen van de aan te brengen geluidwerende voorzieningen;
 
-- c. een opgave van de geluidwerende voorzieningen die moeten worden aangebracht om te voldoen aan [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=4&artikel=12&z=2015-11-01&g=2015-11-01);
+- c. een opgave van de geluidwerende voorzieningen die moeten worden aangebracht om te voldoen aan [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=4&artikel=12&z=2024-01-01&g=2024-01-01);
 
 - d. een raming van de ten laste van het Rijk komende kosten die zijn verbonden aan het aanbrengen van de onder c bedoelde geluidwerende voorzieningen;
 
 - e. indien van toepassing, een raming van de ten laste van de eigenaren komende kosten voor:
 
-- 1°. het uitvoeren van extra voorzieningen met betrekking tot het in overeenstemming brengen met de in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=3&artikel=4&z=2015-11-01&g=2015-11-01), bedoelde geluidweringsvoorschriften;
+- 1°. het uitvoeren van extra voorzieningen met betrekking tot het in overeenstemming brengen met de in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=3&artikel=4&z=2024-01-01&g=2024-01-01), bedoelde geluidweringsvoorschriften;
 
-- 2°. het uitvoeren van extra voorzieningen als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=3&artikel=4&z=2015-11-01&g=2015-11-01);
+- 2°. het uitvoeren van extra voorzieningen als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=3&artikel=4&z=2024-01-01&g=2024-01-01);
 
-- 3°. het uitvoeren van extra voorzieningen met betrekking tot het in overeenstemming brengen met de in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=3&artikel=5&z=2015-11-01&g=2015-11-01), bedoelde technische voorschriften;
+- 3°. het uitvoeren van extra voorzieningen met betrekking tot het in overeenstemming brengen met de in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=3&artikel=5&z=2024-01-01&g=2024-01-01), bedoelde technische voorschriften;
 
-- 4°. het in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=3&artikel=5&z=2015-11-01&g=2015-11-01), bedoelde opheffen van gebreken en van achterstallig onderhoud;
+- 4°. het in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=3&artikel=5&z=2024-01-01&g=2024-01-01), bedoelde opheffen van gebreken en van achterstallig onderhoud;
 
-- 5°. het in [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=3&artikel=5&z=2015-11-01&g=2015-11-01), bedoelde verschil tussen het geraamde bedrag voor het aanbrengen van de geluidwerende voorzieningen en de kostenbegrenzingswaarde.
+- 5°. het in [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=3&artikel=5&z=2024-01-01&g=2024-01-01), bedoelde verschil tussen het geraamde bedrag voor het aanbrengen van de geluidwerende voorzieningen en de kostenbegrenzingswaarde.
 
 4. De minister kan op verzoek van de eigenaar de resultaten van het onderzoek doen controleren.
 
@@ -238,21 +242,21 @@ De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&af
 
 1. De minister stelt de eigenaren van de woningen die op basis van het onderzoek in overeenstemming moeten worden gebracht met:
 
-- a. de in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=3&artikel=4&z=2015-11-01&g=2015-11-01), bedoelde geluidweringsvoorschriften,
+- a. de in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=3&artikel=4&z=2024-01-01&g=2024-01-01), bedoelde geluidweringsvoorschriften,
 
-- b. de ingevolge [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=3&artikel=4&z=2015-11-01&g=2015-11-01), te treffen extra voorzieningen,
+- b. de ingevolge [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=3&artikel=4&z=2024-01-01&g=2024-01-01), te treffen extra voorzieningen,
 
-- c. de in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=3&artikel=5&z=2015-11-01&g=2015-11-01), bedoelde technische voorschriften,
+- c. de in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=3&artikel=5&z=2024-01-01&g=2024-01-01), bedoelde technische voorschriften,
 
-- d. de in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=3&artikel=5&z=2015-11-01&g=2015-11-01), bedoelde opheffing van gebreken en van achterstallig onderhoud,
+- d. de in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=3&artikel=5&z=2024-01-01&g=2024-01-01), bedoelde opheffing van gebreken en van achterstallig onderhoud,
 
-hiervan binnen zes weken na ontvangst van de resultaten, bedoeld in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=9&z=2015-11-01&g=2015-11-01), schriftelijk op de hoogte. Aan hen wordt verzocht binnen twee maanden na ontvangst van deze mededeling schriftelijk te verklaren dat zij zich verplichten om binnen een door de minister gestelde redelijke termijn de onder a tot en met d bedoelde werkzaamheden uit te voeren voorafgaand aan het aanbrengen van de geluidwerende voorzieningen, tenzij toepassing wordt gevraagd van [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=3&artikel=4&z=2015-11-01&g=2015-11-01), of van [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=3&artikel=5&z=2015-11-01&g=2015-11-01).
+hiervan binnen zes weken na ontvangst van de resultaten, bedoeld in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=9&z=2024-01-01&g=2024-01-01), schriftelijk op de hoogte. Aan hen wordt verzocht binnen twee maanden na ontvangst van deze mededeling schriftelijk te verklaren dat zij zich verplichten om binnen een door de minister gestelde redelijke termijn de onder a tot en met d bedoelde werkzaamheden uit te voeren voorafgaand aan het aanbrengen van de geluidwerende voorzieningen, tenzij toepassing wordt gevraagd van [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=3&artikel=4&z=2024-01-01&g=2024-01-01), of van [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=3&artikel=5&z=2024-01-01&g=2024-01-01).
 
-2. De eigenaren van de woningen die op basis van het onderzoek voor het van rijkswege aanbrengen van geluidwerende voorzieningen in aanmerking komen, ontvangen binnen zes weken na het afronden van het onderzoek een aanbod met betrekking tot de aan te brengen geluidwerende voorzieningen, alsmede, indien toepassing wordt gevraagd van [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=3&artikel=4&z=2015-11-01&g=2015-11-01), of van [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=3&artikel=5&z=2015-11-01&g=2015-11-01), een voorstel voor een overeenkomst met betrekking tot de in het eerste lid, onderdelen a tot en met d, bedoelde werkzaamheden.
+2. De eigenaren van de woningen die op basis van het onderzoek voor het van rijkswege aanbrengen van geluidwerende voorzieningen in aanmerking komen, ontvangen binnen zes weken na het afronden van het onderzoek een aanbod met betrekking tot de aan te brengen geluidwerende voorzieningen, alsmede, indien toepassing wordt gevraagd van [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=3&artikel=4&z=2024-01-01&g=2024-01-01), of van [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=3&artikel=5&z=2024-01-01&g=2024-01-01), een voorstel voor een overeenkomst met betrekking tot de in het eerste lid, onderdelen a tot en met d, bedoelde werkzaamheden.
 
-3. Het aanbod kan op verzoek van de eigenaar betrekking hebben op een kleiner aantal geluidsgevoelige ruimten dan bedoeld in [artikel 9, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=9&z=2015-11-01&g=2015-11-01). Indien de eigenaar het verschil in kosten, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=3&artikel=6&z=2015-11-01&g=2015-11-01), voor zijn rekening neemt, wordt bij het aanbod tevens een voorstel voor een overeenkomst bijgevoegd.
+3. Het aanbod kan op verzoek van de eigenaar betrekking hebben op een kleiner aantal geluidsgevoelige ruimten dan bedoeld in [artikel 9, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=9&z=2024-01-01&g=2024-01-01). Indien de eigenaar het verschil in kosten, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=3&artikel=6&z=2024-01-01&g=2024-01-01), voor zijn rekening neemt, wordt bij het aanbod tevens een voorstel voor een overeenkomst bijgevoegd.
 
-4. Indien [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=3&artikel=5&z=2015-11-01&g=2015-11-01), van toepassing is, kan het in het tweede lid bedoelde aanbod op verzoek van de eigenaar betrekking hebben op geluidwerende voorzieningen waarmee een lagere waarde van de geluidwering van de uitwendige scheidingsconstructie ter bescherming van de geluidsgevoelige ruimte wordt bereikt als bedoeld in [artikel 12, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=4&artikel=12&z=2015-11-01&g=2015-11-01).
+4. Indien [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=3&artikel=5&z=2024-01-01&g=2024-01-01), van toepassing is, kan het in het tweede lid bedoelde aanbod op verzoek van de eigenaar betrekking hebben op geluidwerende voorzieningen waarmee een lagere waarde van de geluidwering van de uitwendige scheidingsconstructie ter bescherming van de geluidsgevoelige ruimte wordt bereikt als bedoeld in [artikel 12, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=4&artikel=12&z=2024-01-01&g=2024-01-01).
 
 5. Indien van toepassing wordt na ontvangst van de in het eerste lid bedoelde verklaring, het in het tweede lid bedoelde aanbod gedaan onder de voorwaarde dat de in het eerste lid, onder a tot en met d, bedoelde werkzaamheden binnen een door de minister gestelde redelijke termijn zijn uitgevoerd.
 
@@ -264,11 +268,11 @@ hiervan binnen zes weken na ontvangst van de resultaten, bedoeld in [artikel 9, 
 
 - b. zij zich verbinden tot het uitvoeren van de in het eerste lid, onder a tot en met d, bedoelde werkzaamheden;
 
-- c. zij zich verbinden tot het nakomen van de in [artikel 9, derde lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=9&z=2015-11-01&g=2015-11-01), bedoelde betalingsverplichtingen;
+- c. zij zich verbinden tot het nakomen van de in [artikel 9, derde lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=9&z=2024-01-01&g=2024-01-01), bedoelde betalingsverplichtingen;
 
 - d. zij de bij het aanbrengen van de geluidwerende voorzieningen verwijderde onderdelen prijsgeven;
 
-- e. zij zich, indien van toepassing, verbinden tot het betalen van de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=3&artikel=6&z=2015-11-01&g=2015-11-01) bedoelde kosten.
+- e. zij zich, indien van toepassing, verbinden tot het betalen van de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=3&artikel=6&z=2024-01-01&g=2024-01-01) bedoelde kosten.
 
 8. Na ondertekening van het aanbod en, indien van toepassing, van de overeenkomst, wordt de desbetreffende eigenaren schriftelijk meegedeeld wanneer de geluidwerende voorzieningen naar verwachting zullen worden aangebracht.
 
@@ -278,13 +282,13 @@ hiervan binnen zes weken na ontvangst van de resultaten, bedoeld in [artikel 9, 
 
 ##### Artikel 11
 
-[Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=8&z=2015-11-01&g=2015-11-01), [artikel 9, met uitzondering van het derde lid, onderdeel e, onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=9&z=2015-11-01&g=2015-11-01), en [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=3&afdeling=1&paragraaf=3&artikel=10&z=2015-11-01&g=2015-11-01) zijn van overeenkomstige toepassing op de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=1&artikel=2&z=2015-11-01&g=2015-11-01), bedoelde andere geluidsgevoelige gebouwen.
+[Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=8&z=2024-01-01&g=2024-01-01), [artikel 9, met uitzondering van het derde lid, onderdeel e, onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=9&z=2024-01-01&g=2024-01-01), en [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=3&afdeling=1&paragraaf=3&artikel=10&z=2024-01-01&g=2024-01-01) zijn van overeenkomstige toepassing op de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=1&artikel=2&z=2024-01-01&g=2024-01-01), bedoelde andere geluidsgevoelige gebouwen.
 
 ### Hoofdstuk 4. Eisen aan de voorzieningen
 
 ##### Artikel 12
 
-1. Geluidwerende voorzieningen die worden aangebracht ingevolge [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=1&artikel=2&z=2015-11-01&g=2015-11-01), dienen een zodanige kwaliteit te bezitten dat de waarde van de geluidwering van de uitwendige scheidingsconstructie ter bescherming van de geluidsgevoelige ruimte, bepaald volgens [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&bijlage=2&z=2015-11-01&g=2015-11-01) bij deze regeling, gelijk is aan:
+1. Geluidwerende voorzieningen die worden aangebracht ingevolge [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=1&artikel=2&z=2024-01-01&g=2024-01-01), dienen een zodanige kwaliteit te bezitten dat de waarde van de geluidwering van de uitwendige scheidingsconstructie ter bescherming van de geluidsgevoelige ruimte, bepaald volgens [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&bijlage=2&z=2024-01-01&g=2024-01-01) bij deze regeling, gelijk is aan:
 
 - a. 30 tot 35 dB(A), indien de geluidsbelasting meer dan 40 Ke, doch niet meer dan 50 Ke bedraagt;
 
@@ -294,17 +298,17 @@ hiervan binnen zes weken na ontvangst van de resultaten, bedoeld in [artikel 9, 
 
 2. Indien de geluidsbelasting tussen de in het eerste lid, onderdelen a of b, bedoelde Ke-waarden ligt, wordt de te bereiken waarde van de geluidwering bepaald door middel van de rechtevenredige interpolatie tussen de in het eerste lid, onderdeel a of b, bedoelde dB(A)-waarden van de geluidwering. Indien de waarde van de geluidwering eindigt op een halve eenheid, wordt zij naar beneden op een gehele eenheid afgerond.
 
-3. De krachtens het eerste lid aan te brengen geluidwerende voorzieningen worden bepaald volgens artikel 4 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&bijlage=2&z=2015-11-01&g=2015-11-01) bij deze regeling. In afwijking van de eerste volzin kunnen ten aanzien van een aaneengesloten rij woningen om redenen van architectonische waarde of eenvormig aanzicht, identieke geluidwerende voorzieningen worden aangebracht. Bij toepassing van de tweede volzin worden aan de bedoelde woningen de geluidwerende voorzieningen aangebracht die voor de woning met de hoogste geluidsbelasting zijn vastgesteld.
+3. De krachtens het eerste lid aan te brengen geluidwerende voorzieningen worden bepaald volgens artikel 4 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&bijlage=2&z=2024-01-01&g=2024-01-01) bij deze regeling. In afwijking van de eerste volzin kunnen ten aanzien van een aaneengesloten rij woningen om redenen van architectonische waarde of eenvormig aanzicht, identieke geluidwerende voorzieningen worden aangebracht. Bij toepassing van de tweede volzin worden aan de bedoelde woningen de geluidwerende voorzieningen aangebracht die voor de woning met de hoogste geluidsbelasting zijn vastgesteld.
 
-4. Indien de geluidwering van de uitwendige scheidingsconstructie ter bescherming van de geluidsgevoelige ruimte, bepaald volgens [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&bijlage=2&z=2015-11-01&g=2015-11-01) bij deze regeling, een waarde heeft die 3 dB(A) of minder lager is dan de in het eerste lid bedoelde waarde van de geluidwering, worden geen geluidwerende voorzieningen aangebracht.
+4. Indien de geluidwering van de uitwendige scheidingsconstructie ter bescherming van de geluidsgevoelige ruimte, bepaald volgens [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&bijlage=2&z=2024-01-01&g=2024-01-01) bij deze regeling, een waarde heeft die 3 dB(A) of minder lager is dan de in het eerste lid bedoelde waarde van de geluidwering, worden geen geluidwerende voorzieningen aangebracht.
 
-5. Indien sprake is van een aanbod als bedoeld in [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=3&afdeling=1&paragraaf=3&artikel=10&z=2015-11-01&g=2015-11-01), is het eerste lid alleen van toepassing op die geluidsgevoelige ruimten ten behoeve waarvan geluidwerende voorzieningen worden aangebracht.
+5. Indien sprake is van een aanbod als bedoeld in [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=3&afdeling=1&paragraaf=3&artikel=10&z=2024-01-01&g=2024-01-01), is het eerste lid alleen van toepassing op die geluidsgevoelige ruimten ten behoeve waarvan geluidwerende voorzieningen worden aangebracht.
 
 6. Indien uit het onderzoek blijkt dat:
 
-- a. de in het eerste lid bedoelde waarde van de geluidwering van de uitwendige scheidingsconstructie ter bescherming van de geluidsgevoelige ruimte niet wordt bereikt zonder toepassing te geven aan [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=3&artikel=5&z=2015-11-01&g=2015-11-01), en
+- a. de in het eerste lid bedoelde waarde van de geluidwering van de uitwendige scheidingsconstructie ter bescherming van de geluidsgevoelige ruimte niet wordt bereikt zonder toepassing te geven aan [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=3&artikel=5&z=2024-01-01&g=2024-01-01), en
 
-- b. [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=3&artikel=4&z=2015-11-01&g=2015-11-01) en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=3&artikel=5&z=2015-11-01&g=2015-11-01), met uitzondering van het vijfde lid, niet van toepassing zijn,
+- b. [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=3&artikel=4&z=2024-01-01&g=2024-01-01) en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=3&artikel=5&z=2024-01-01&g=2024-01-01), met uitzondering van het vijfde lid, niet van toepassing zijn,
 
 kan de in het eerste lid bedoelde waarde met ten hoogste 5 dB(A) worden verlaagd met dien verstande dat deze waarde minimaal 30 dB(A) bedraagt.
 
@@ -320,19 +324,19 @@ kan de in het eerste lid bedoelde waarde met ten hoogste 5 dB(A) worden verlaagd
 
 2. De minister is belast met het toezicht op de uitvoering van het bepaalde in het eerste lid.
 
-3. De waarde van de geluidwering van de uitwendige scheidingsconstructie, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=4&artikel=12&z=2015-11-01&g=2015-11-01), wordt bij ten minste één op de twintig woningen of één op de twintig geluidsgevoelige ruimten in andere geluidsgevoelige gebouwen, waaraan geluidwerende voorzieningen krachtens deze regeling zijn aangebracht, door de minister door middel van meting gecontroleerd, volgens de in artikel 3 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&bijlage=2&z=2015-11-01&g=2015-11-01) bij deze regeling bedoelde meetmethode. De minister voert de meting uiterlijk één jaar na het aanbrengen van de geluidwerende voorzieningen uit.
+3. De waarde van de geluidwering van de uitwendige scheidingsconstructie, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=4&artikel=12&z=2024-01-01&g=2024-01-01), wordt bij ten minste één op de twintig woningen of één op de twintig geluidsgevoelige ruimten in andere geluidsgevoelige gebouwen, waaraan geluidwerende voorzieningen krachtens deze regeling zijn aangebracht, door de minister door middel van meting gecontroleerd, volgens de in artikel 3 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&bijlage=2&z=2024-01-01&g=2024-01-01) bij deze regeling bedoelde meetmethode. De minister voert de meting uiterlijk één jaar na het aanbrengen van de geluidwerende voorzieningen uit.
 
-4. Indien het resultaat van een meting als bedoeld in het derde lid een waarde oplevert die niet meer dan 2 dB(A) lager is dan de vereiste waarde van de geluidwering van de uitwendige scheidingsconstructie van de geluidsgevoelige ruimte, wordt de waarde van de geluidwering geacht gelijk te zijn aan de vereiste waarde. Indien het resultaat van de meting een waarde oplevert die meer dan 2 dB(A) lager is, draagt de minister ervoor zorg dat alsnog wordt voldaan aan [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=4&artikel=12&z=2015-11-01&g=2015-11-01).
+4. Indien het resultaat van een meting als bedoeld in het derde lid een waarde oplevert die niet meer dan 2 dB(A) lager is dan de vereiste waarde van de geluidwering van de uitwendige scheidingsconstructie van de geluidsgevoelige ruimte, wordt de waarde van de geluidwering geacht gelijk te zijn aan de vereiste waarde. Indien het resultaat van de meting een waarde oplevert die meer dan 2 dB(A) lager is, draagt de minister ervoor zorg dat alsnog wordt voldaan aan [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=4&artikel=12&z=2024-01-01&g=2024-01-01).
 
 ### Hoofdstuk 5. Financiën
 
 ##### Artikel 15
 
-Indien anders dan met toepassing van deze regeling aan een in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=1&artikel=2&z=2015-11-01&g=2015-11-01), bedoelde geluidsgevoelige ruimte geluidwerende voorzieningen zijn aangebracht, wordt geen vergoeding voor het aanbrengen van die voorzieningen toegekend.
+Indien anders dan met toepassing van deze regeling aan een in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=1&artikel=2&z=2024-01-01&g=2024-01-01), bedoelde geluidsgevoelige ruimte geluidwerende voorzieningen zijn aangebracht, wordt geen vergoeding voor het aanbrengen van die voorzieningen toegekend.
 
 ##### Artikel 16
 
-In het aanbod, bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=3&afdeling=1&paragraaf=3&artikel=10&z=2015-11-01&g=2015-11-01), dan wel in een afzonderlijk voorstel voor een overeenkomst, wordt een bepaling opgenomen dat indien de woning of het andere geluidsgevoelige gebouw waaraan op ’s rijks kosten geluidwerende voorzieningen zijn aangebracht, naderhand door het Rijk in eigendom wordt verworven, de door het aanbrengen van de geluidwerende voorzieningen toegenomen marktwaarde op de koopprijs in mindering wordt gebracht. Het in mindering te brengen bedrag wordt verlaagd met ééntiende gedeelte daarvan voor elk jaar dat is verstreken na het aanbrengen van de geluidwerende voorzieningen.
+In het aanbod, bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=3&afdeling=1&paragraaf=3&artikel=10&z=2024-01-01&g=2024-01-01), dan wel in een afzonderlijk voorstel voor een overeenkomst, wordt een bepaling opgenomen dat indien de woning of het andere geluidsgevoelige gebouw waaraan op ’s rijks kosten geluidwerende voorzieningen zijn aangebracht, naderhand door het Rijk in eigendom wordt verworven, de door het aanbrengen van de geluidwerende voorzieningen toegenomen marktwaarde op de koopprijs in mindering wordt gebracht. Het in mindering te brengen bedrag wordt verlaagd met ééntiende gedeelte daarvan voor elk jaar dat is verstreken na het aanbrengen van de geluidwerende voorzieningen.
 
 ##### Artikel 17
 
@@ -348,19 +352,19 @@ Deze regeling treedt in werking met ingang van 1 november 2015.
 
 Deze regeling wordt aangehaald als: Regeling geluidwerende voorzieningen militaire luchthavens 2015
 
-## Bijlage 1. Bepaling kostenbegrenzingswaarde geluidwerende voorzieningen luchtvaartgeluid als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=1&artikel=1&z=2015-11-01&g=2015-11-01) van de regeling
+## Bijlage 1. Bepaling kostenbegrenzingswaarde geluidwerende voorzieningen luchtvaartgeluid als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=1&artikel=1&z=2024-01-01&g=2024-01-01) van de regeling
 
 **Verklaring grootheden:**
 
-I: geraamde kosten (inclusief BTW) die zijn verbonden aan het aanbrengen van geluidwerende voorzieningen als bedoeld in [artikel 9, derde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=9&z=2015-11-01&g=2015-11-01), van de regeling;
+I: geraamde kosten (inclusief BTW) die zijn verbonden aan het aanbrengen van geluidwerende voorzieningen als bedoeld in [artikel 9, derde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=9&z=2024-01-01&g=2024-01-01), van de regeling;
 
-K: kostenbegrenzingswaarde, als bedoeld in [artikel 1, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=1&artikel=1&z=2015-11-01&g=2015-11-01), van de regeling;
+K: kostenbegrenzingswaarde, als bedoeld in [artikel 1, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=1&artikel=1&z=2024-01-01&g=2024-01-01), van de regeling;
 
 W: waarde van de woning, bepaald volgens de in deze bijlage opgenomen methodiek;
 
 T: term geluidwering, bepaald volgens formule (2);
 
-GA: vereiste waarde van de geluidwering van de uitwendige scheidingsconstructie in dB(A), bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=4&artikel=12&z=2015-11-01&g=2015-11-01), van de regeling, ook wel genoemd de A-gewogen geluidwering van een uitwendige scheidingsconstructie, zoals bedoeld in NPR-5272.
+GA: vereiste waarde van de geluidwering van de uitwendige scheidingsconstructie in dB(A), bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=4&artikel=12&z=2024-01-01&g=2024-01-01), van de regeling, ook wel genoemd de A-gewogen geluidwering van een uitwendige scheidingsconstructie, zoals bedoeld in NPR-5272.
 
 **Berekeningswijzen:**
 
@@ -380,7 +384,7 @@ Indien I < = K, dan is de woning isoleerbaar;
 
 indien I > K, dan is de woning niet isoleerbaar.
 
-## Bijlage 2. Technisch voorschrift als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=1&artikel=2&z=2015-11-01&g=2015-11-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=4&artikel=12&z=2015-11-01&g=2015-11-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=4&artikel=14&z=2015-11-01&g=2015-11-01)
+## Bijlage 2. Technisch voorschrift als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=2&afdeling=1&artikel=2&z=2024-01-01&g=2024-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=4&artikel=12&z=2024-01-01&g=2024-01-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0037108&hoofdstuk=4&artikel=14&z=2024-01-01&g=2024-01-01)
 
 ### Hoofdstuk 1. Algemene bepalingen
 
