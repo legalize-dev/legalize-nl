@@ -4,7 +4,7 @@ identifier: "BWBR0018303"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2017-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018303"
 soort: "ministeriele-regeling"
@@ -41,11 +41,11 @@ Besluit:
 
 ##### Artikel 1
 
-De aanvraag van een vergunning tot tijdelijke verhuur van een leegstaande woning of een leegstaand gebouw als bedoeld in [artikel 15, eerste lid, van de Leegstandwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&artikel=15) wordt gedaan met gebruikmaking van een formulier overeenkomstig [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0018303&bijlage=I&z=2017-01-01&g=2017-01-01) bij deze regeling.
+De aanvraag van een vergunning tot tijdelijke verhuur van een leegstaande woning of een leegstaand gebouw als bedoeld in [artikel 15, eerste lid, van de Leegstandwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&artikel=15) wordt gedaan met gebruikmaking van een formulier overeenkomstig [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0018303&bijlage=I&z=2024-01-01&g=2024-01-01) bij deze regeling.
 
 ##### Artikel 2
 
-De aanvraag tot verlenging van de vergunning tot tijdelijke verhuur van een leegstaande woning of een leegstaand gebouw, bedoeld in [artikel 15, zesde lid, van de Leegstandwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&artikel=15), wordt gedaan met gebruikmaking van een formulier overeenkomstig [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0018303&bijlage=II&z=2017-01-01&g=2017-01-01) bij deze regeling.
+De aanvraag tot verlenging van de vergunning tot tijdelijke verhuur van een leegstaande woning of een leegstaand gebouw, bedoeld in [artikel 15, zesde lid, van de Leegstandwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003403&artikel=15), wordt gedaan met gebruikmaking van een formulier overeenkomstig [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0018303&bijlage=II&z=2024-01-01&g=2024-01-01) bij deze regeling.
 
 ##### Artikel 3
 
@@ -83,11 +83,11 @@ De verschuldigde huurprijs voor woonruimte in een voor de verkoop bestemde wonin
 
 De verschuldigde huurprijs voor woonruimte in een gebouw, voor woonruimte in een voor afbraak of voor vernieuwbouw bestemde woning en voor woonruimte in een voor de verkoop bestemde huurwoning kan niet hoger zijn dan de door burgemeester en wethouders in de vergunning vermelde huurprijs. Burgemeester en wethouders leggen aan de bepaling van deze huurprijs het woningwaarderingsstelsel van het Besluit huurprijzen woonruimte ten grondslag. De in de vergunning vastgelegde huurprijs treedt in de plaats van een hogere huurprijs indien deze tussen partijen zou zijn overeengekomen.
 
-Een vergunning voor woonruimte in een gebouw dat blijkens zijn constructie dan wel inrichting bestemd is voor doeleinden van groepsgewijze huisvesting, van verzorging of verpleging, van logiesverschaffing, van administratie of van onderwijs of voor een samenstel van twee of meer van deze doeleinden, voor het gebruik waarvan een omgevingsvergunning als bedoeld in [artikel 2.1, eerste lid, onderdeel c, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) is verleend, wordt verleend voor de duur van de omgevingsvergunning met een maximum van 10 jaren. Deze vergunning kan niet verlengd worden.
+Een vergunning voor woonruimte in een gebouw dat blijkens zijn constructie dan wel inrichting bestemd is voor doeleinden van groepsgewijze huisvesting, van verzorging of verpleging, van logiesverschaffing, van administratie of van onderwijs of voor een samenstel van twee of meer van deze doeleinden, voor het gebruik waarvan een omgevingsvergunning voor een omgevingsplanactiviteit als bedoeld in [artikel 5.1, eerste lid, aanhef en onder a, van de Omgevingswe](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1)t is verleend, wordt verleend voor de duur van de omgevingsvergunning met een maximum van 10 jaren. Deze vergunning kan niet verlengd worden.
 
 Een vergunning voor woonruimte in een voor de verkoop bestemde woning wordt verleend voor de periode van 5 jaren. Deze vergunning kan niet verlengd worden.
 
-Een vergunning voor woonruimte in een gebouw dat blijkens zijn constructie dan wel inrichting bestemd is voor doeleinden van groepsgewijze huisvesting, van verzorging of verpleging, van logiesverschaffing, van administratie of van onderwijs of voor een samenstel van twee of meer van deze doeleinden, voor het gebruik waarvan **geen** omgevingsvergunning als bedoeld in [artikel 2.1, eerste lid, onderdeel c, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) is verleend, wordt verleend voor een periode van 2 jaren. Deze vergunning kan telkens verlengd worden met 1 jaar tot de gehele duur van de vergunning (inclusief de verlengingen) 10 jaren bedraagt.
+Een vergunning voor woonruimte in een gebouw dat blijkens zijn constructie dan wel inrichting bestemd is voor doeleinden van groepsgewijze huisvesting, van verzorging of verpleging, van logiesverschaffing, van administratie of van onderwijs of voor een samenstel van twee of meer van deze doeleinden, voor het gebruik waarvan **geen** omgevingsvergunning voor een omgevingsplanactiviteit als bedoeld in [artikel 5.1, eerste lid, aanhef en onder a, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1) is verleend, wordt verleend voor een periode van 2 jaren. Deze vergunning kan telkens verlengd worden met 1 jaar tot de gehele duur van de vergunning (inclusief de verlengingen) 10 jaren bedraagt.
 
 Een vergunning voor woonruimte in een voor verhuur bestemde woning welke is bestemd voor afbraak of voor vernieuwbouw wordt verleend voor 2 jaren. Deze vergunning kan telkens verlengd worden met 1 jaar tot de gehele duur van de vergunning (inclusief de verlengingen) 7 jaren bedraagt.
 
@@ -103,7 +103,7 @@ In de eerste plaats moet u één van de vakken A, B, C of D aankruisen. Dit is a
 
 ### Punt 3
 
-Ofwel betreft het woonruimte waarvan voor het gebruik ervan een omgevingsvergunning als bedoeld in [artikel 2.1, eerste lid, onderdeel c, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) is verleend. Het betreft dan bouwwerken die in beginsel geen woonbestemming hebben maar waarvoor in de omgevingsvergunning een tijdelijke ontheffing is verleend, waardoor ze als woonruimte gebruikt mogen worden gedurende de in die vergunning aangegeven termijn. In dit geval wordt u gevraagd om een kopie van de desbetreffende omgevingsvergunning bij uw aanvraag te voegen.
+Ofwel betreft het woonruimte waarvan voor het gebruik ervan een omgevingsvergunning voor een omgevingsplanactiviteit als bedoeld in [artikel 5.1, eerste lid, aanhef en onder a, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1) is verleend. Het betreft dan bouwwerken die in beginsel geen woonbestemming hebben maar waarvoor in de omgevingsvergunning een tijdelijke ontheffing is verleend, waardoor ze als woonruimte gebruikt mogen worden gedurende de in die vergunning aangegeven termijn. In dit geval wordt u gevraagd om een kopie van de desbetreffende omgevingsvergunning bij uw aanvraag te voegen.
 
 Ofwel betreft het woonruimte in een gebouw waarvan voor het gebruik ervan **geen** omgevingsvergunning is vereist. Het betreft gebouwen die reeds een woonbestemming hebben.
 
@@ -151,7 +151,7 @@ In veel gemeenten is een huisvestingsvergunning vereist voor een aantal woningen
 
 Het formulier aanvraag verlenging vergunning tot tijdelijke verhuur op basis van de [Leegstandwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003403) moet worden gebruikt ter verkrijging van een verlenging van de periode waarvoor aanvankelijk de vergunning tot tijdelijke verhuur is verleend.
 
-Een vergunning voor een woonruimte in een gebouw dat blijkens zijn constructie dan wel inrichting bestemd is voor doeleinden van groepsgewijze huisvesting, van verzorging of verpleging, van logiesverschaffing, van administratie of van onderwijs of voor een samenstel van twee of meer van deze doeleinden, voor het gebruik waarvan geen omgevingsvergunning als bedoeld in [artikel 2.1, eerste lid, onderdeel c, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) is verleend, wordt verleend voor een periode van maximaal 2 jaren. Deze vergunning kan telkens verlengd worden met maximaal 1 jaar tot de gehele duur van de vergunning (inclusief de verlengingen) 10 jaren bedraagt.
+Een vergunning voor een woonruimte in een gebouw dat blijkens zijn constructie dan wel inrichting bestemd is voor doeleinden van groepsgewijze huisvesting, van verzorging of verpleging, van logiesverschaffing, van administratie of van onderwijs of voor een samenstel van twee of meer van deze doeleinden, voor het gebruik waarvan geen omgevingsvergunning voor een omgevingsplanactiviteit als bedoeld in [artikel 5.1, eerste lid, aanhef en onder a, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1) is verleend, wordt verleend voor een periode van maximaal 2 jaren. Deze vergunning kan telkens verlengd worden met maximaal 1 jaar tot de gehele duur van de vergunning (inclusief de verlengingen) 10 jaren bedraagt.
 
 Een vergunning voor een woonruimte in een voor verhuur bestemde woning welke is bestemd voor afbraak of voor vernieuwbouw wordt verleend voor maximaal 2 jaren. Deze vergunning kan telkens verlengd worden met maximaal 1 jaar tot de gehele duur van de vergunning (inclusief verlengingen) 7 jaren bedraagt.
 
@@ -165,7 +165,7 @@ Het verzoek tot verlenging kan uiterlijk tot het tijdstip waarop de vergunning h
 
 ### Punt 1
 
-Enkel een vergunning voor woonruimte in een gebouw voor het gebruik waarvan geen omgevingsvergunning als bedoeld in [artikel 2.1, eerste lid, onderdeel c, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) is verleend, een vergunning voor woonruimte in een voor de verhuur bestemde woning welke is bestemd voor afbraak of voor vernieuwbouw, en een vergunning voor woonruimte in een voor de verkoop bestemde huurwoning kan worden verlengd. U dient aan te geven op welk soort woonruimte de aanvraag tot verlenging betrekking heeft. Daarnaast dient u de plaatselijke aanduiding van de woning of het gebouw (adres) of de kadastrale aanduiding van het perceel waar de woning of het gebouw is gelegen te vermelden.
+Enkel een vergunning voor woonruimte in een gebouw voor het gebruik waarvan geen omgevingsvergunning voor een omgevingsplanactiviteit als bedoeld in [artikel 5.1, eerste lid, aanhef en onder a, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1) is verleend, een vergunning voor woonruimte in een voor de verhuur bestemde woning welke is bestemd voor afbraak of voor vernieuwbouw, en een vergunning voor woonruimte in een voor de verkoop bestemde huurwoning kan worden verlengd. U dient aan te geven op welk soort woonruimte de aanvraag tot verlenging betrekking heeft. Daarnaast dient u de plaatselijke aanduiding van de woning of het gebouw (adres) of de kadastrale aanduiding van het perceel waar de woning of het gebouw is gelegen te vermelden.
 
 Het formulier aanvraag verlenging vergunning tot tijdelijke verhuur op basis van de [Leegstandwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003403) moet worden gebruikt ter verkrijging van een verlenging van de periode waarvoor aanvankelijk de vergunning tot tijdelijke verhuur is verleend.
 
@@ -285,7 +285,7 @@ De naam en het adres van de eigenaar van de woonruimte, alsmede de aard en de pl
 
 ## Bijlage II
 
-Een vergunning voor woonruimte in een voor de verkoop bestemde woning of voor woonruimte in een gebouw dat blijkens zijn constructie dan wel inrichting bestemd is voor doeleinden van groepsgewijze huisvesting, van verzorging of verpleging, van logiesverschaffing, van administratie of van onderwijs of voor een samenstel van twee of meer van deze doeleinden, voor het gebruik waarvan een omgevingsvergunning als bedoeld in [artikel 2.1, eerste lid, onderdeel c, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) is verleend, kan niet worden verlengd. Voor vergunningen voor die woonruimte die zijn verleend vóór 1 juli 2013, worden per 1 juli 2013 de nieuwe vergunningtermijnen van kracht. Een aanvraag voor verlenging van de vergunning is daarvoor niet nodig. De vergunninghouder kan wel, als de gemeente dat nog niet heeft gedaan, aan de gemeente vragen om (schriftelijk) te bevestigen dat de vergunning voor totaal 5 jaren respectievelijk de duur van de omgevingsvergunning (met een maximum van 10 jaren) geldt, alsmede de nieuwe einddatum van de vergunning aan te geven.
+Een vergunning voor woonruimte in een voor de verkoop bestemde woning of voor woonruimte in een gebouw dat blijkens zijn constructie dan wel inrichting bestemd is voor doeleinden van groepsgewijze huisvesting, van verzorging of verpleging, van logiesverschaffing, van administratie of van onderwijs of voor een samenstel van twee of meer van deze doeleinden, voor het gebruik waarvan een omgevingsvergunning voor een omgevingsplanactiviteit als bedoeld in [artikel 5.1, eerste lid, aanhef en onder a, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1) is verleend, kan niet worden verlengd. Voor vergunningen voor die woonruimte die zijn verleend vóór 1 juli 2013, worden per 1 juli 2013 de nieuwe vergunningtermijnen van kracht. Een aanvraag voor verlenging van de vergunning is daarvoor niet nodig. De vergunninghouder kan wel, als de gemeente dat nog niet heeft gedaan, aan de gemeente vragen om (schriftelijk) te bevestigen dat de vergunning voor totaal 5 jaren respectievelijk de duur van de omgevingsvergunning (met een maximum van 10 jaren) geldt, alsmede de nieuwe einddatum van de vergunning aan te geven.
 
 ### Punt 2
 
