@@ -4,7 +4,7 @@ identifier: "BWBR0023530"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2013-05-31"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023530"
 soort: "ministeriele-regeling"
@@ -54,10 +54,6 @@ Europese Verordening Overbrengen Afvalstoffen ([Verordening (EEG) nr. 259/93](31
 
 [Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458)
 
-[Wet inzake luchtverontreiniging](https://wetten.overheid.nl/jci1.3:c:BWBR0002731)
-
-[Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994)
-
 [Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054)
 
 [Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642)
@@ -83,6 +79,8 @@ Europese Verordening Overbrengen Afvalstoffen ([Verordening (EEG) nr. 259/93](31
 [Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267)
 
 [Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746)
+
+[Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885)
 
 gemeentelijke verordeningen betreffende het escortbedrijf
 
