@@ -4,7 +4,7 @@ identifier: "BWBR0032176"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2022-08-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032176"
 soort: "wet"
@@ -80,8 +80,6 @@ Wijzigt de Leerplichtwet 1969.
 ##### Artikel VIII. Wijziging [Wet van 28 november 2002 tot wijziging van de Wet op de expertisecentra, de Wet op het primair onderwijs en de Wet op het voortgezet onderwijs in verband met de invoering van een leerlinggebonden financiering en de vorming van regionale expertisecentra (regeling leerlinggebonden financiering)](https://wetten.overheid.nl/jci1.3:c:BWBR0014350) (Stb. 2002, 631)
 
 Wijzigt de Wijzigingswet Wet op de expertisecentra, enz. (invoering regeling leerlinggebonden financiering).
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IX. Oprichting rechtspersoon en vaststelling eerste ondersteuningsplan samenwerkingsverband
 
@@ -169,13 +167,13 @@ Vervallen
 
 Onze minister verstrekt aan het bevoegd gezag van de school voor speciaal en voortgezet speciaal onderwijs «De Waterlelie» te Cruquius en het bevoegd gezag van de school voor speciaal en voortgezet speciaal onderwijs «De Berkenschutse» te Heeze bekostiging ten behoeve van ambulante begeleiding aan leerlingen met epilepsie. De bekostiging wordt jaarlijks vastgesteld bij beschikking van Onze minister.
 
-##### Artikel XXV. Afhandeling van voor de datum van inwerkingtreding van [artikel XXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0032176&artikel=XXIV&z=2022-08-01&g=2022-08-01) ingediende verzoeken
+##### Artikel XXV. Afhandeling van voor de datum van inwerkingtreding van [artikel XXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0032176&artikel=XXIV&z=2024-01-01&g=2024-01-01) ingediende verzoeken
 
 Vervallen
 
 ##### Artikel XXVI. Overgangsregeling instellingen cluster 1
 
-Tot het tijdstip waarop de periode van vijf jaar, bedoeld in [artikel 114 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=114), zoals dat artikel luidde voor de inwerkingtreding van [artikel II, onderdeel GG](https://wetten.overheid.nl/jci1.3:c:BWBR0032176&artikel=II&z=2022-08-01&g=2022-08-01) van deze wet, is verstreken, blijft bedoeld artikel 114 van de Wet op de expertisecentra van toepassing op instellingen als bedoeld in [artikel 8, eerste lid, tweede volzin, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=8). Tot het in de eerste volzin bedoelde tijdstip blijven de [artikelen 111](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=111) en [114 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=114), zoals die artikelen zijn gewijzigd door deze wet, ten aanzien van de in de eerste volzin bedoelde instellingen buiten toepassing.
+Tot het tijdstip waarop de periode van vijf jaar, bedoeld in [artikel 114 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=114), zoals dat artikel luidde voor de inwerkingtreding van [artikel II, onderdeel GG](https://wetten.overheid.nl/jci1.3:c:BWBR0032176&artikel=II&z=2024-01-01&g=2024-01-01) van deze wet, is verstreken, blijft bedoeld artikel 114 van de Wet op de expertisecentra van toepassing op instellingen als bedoeld in [artikel 8, eerste lid, tweede volzin, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=8). Tot het in de eerste volzin bedoelde tijdstip blijven de [artikelen 111](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=111) en [114 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=114), zoals die artikelen zijn gewijzigd door deze wet, ten aanzien van de in de eerste volzin bedoelde instellingen buiten toepassing.
 
 ##### Artikel XXVII. Bestuurlijke fusies openbare en bijzondere scholen in het (v)so
 
