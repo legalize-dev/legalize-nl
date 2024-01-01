@@ -4,7 +4,7 @@ identifier: "BWBR0046054"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-05-15"
-last_updated: "2023-12-09"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046054"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ Besluit:
 
 ##### Artikel 2. In acht te nemen regels
 
-Bij de uitoefening van de bevoegdheden, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&artikel=1&z=2023-12-09&g=2023-12-09), neemt het Uitvoeringsinstituut werknemersverzekeringen, naast de in de [Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149), het [Besluit uitvoering Wet arbeid vreemdelingen 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046078) en de in deze regeling gestelde regels, de nadere regels in acht inzake de wijze van toepassing van de Wet arbeid vreemdelingen, als omschreven in de bij deze regeling behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&bijlage=I&z=2023-12-09&g=2023-12-09), uitvoeringsregels.
+Bij de uitoefening van de bevoegdheden, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&artikel=1&z=2024-01-01&g=2024-01-01), neemt het Uitvoeringsinstituut werknemersverzekeringen, naast de in de [Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149), het [Besluit uitvoering Wet arbeid vreemdelingen 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046078) en de in deze regeling gestelde regels, de nadere regels in acht inzake de wijze van toepassing van de Wet arbeid vreemdelingen, als omschreven in de bij deze regeling behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&bijlage=I&z=2024-01-01&g=2024-01-01), uitvoeringsregels.
 
 ##### Artikel 3. Diploma’s en getuigschriften
 
@@ -64,15 +64,15 @@ Afwijking van [artikel 8, eerste lid, onderdeel b, van de Wet arbeid vreemdeling
 
 ##### Artikel 6. Afwijking weigeringsgrond bij internationale handelscontacten
 
-Afwijking van [artikel 8, eerste lid, onderdelen a en b, van de Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8) vindt slechts plaats ten behoeve van de bevordering van internationale handelscontacten als omschreven in de bij deze regeling behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&bijlage=I&z=2023-12-09&g=2023-12-09), uitvoeringsregels.
+Afwijking van [artikel 8, eerste lid, onderdelen a en b, van de Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8) vindt slechts plaats ten behoeve van de bevordering van internationale handelscontacten als omschreven in de bij deze regeling behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&bijlage=I&z=2024-01-01&g=2024-01-01), uitvoeringsregels.
 
 ##### Artikel 7. Afwijking van de weigeringsgrond bij geestelijke, godsdienstige of levensbeschouwelijke functie
 
-Afwijking van [artikel 8, eerste lid, onderdelen a, b of e, van de Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8) vindt slechts plaats in het kader van de uitoefening van de geestelijke, godsdienstige of levensbeschouwelijke functie als omschreven in de bij deze regeling behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&bijlage=I&z=2023-12-09&g=2023-12-09), uitvoeringsregels.
+Afwijking van [artikel 8, eerste lid, onderdelen a, b of e, van de Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8) vindt slechts plaats in het kader van de uitoefening van de geestelijke, godsdienstige of levensbeschouwelijke functie als omschreven in de bij deze regeling behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&bijlage=I&z=2024-01-01&g=2024-01-01), uitvoeringsregels.
 
 ##### Artikel 8. Afwijking weigeringsgrond bij scholing
 
-Afwijking van [artikel 8, eerste lid, onderdelen a, b, c of e, van de Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8) vindt slechts plaats in het kader van scholing, opleiding, vrijwilligerswerk, internationale uitwisseling en andere internationale culturele contacten alsmede ten behoeve van vreemdelingen die beschikken over een voor het verrichten van arbeid geldige vergunning tot verblijf, voor zover dit is omschreven in de bij deze regeling behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&bijlage=I&z=2023-12-09&g=2023-12-09), uitvoeringsregels.
+Afwijking van [artikel 8, eerste lid, onderdelen a, b, c of e, van de Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8) vindt slechts plaats in het kader van scholing, opleiding, vrijwilligerswerk, internationale uitwisseling en andere internationale culturele contacten alsmede ten behoeve van vreemdelingen die beschikken over een voor het verrichten van arbeid geldige vergunning tot verblijf, voor zover dit is omschreven in de bij deze regeling behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&bijlage=I&z=2024-01-01&g=2024-01-01), uitvoeringsregels.
 
 ##### Artikel 9. Mogelijke weigering bij de leeftijd beneden 18 jaar
 
@@ -118,7 +118,7 @@ Daarnaast is van belang dat de werkgever relevante wijzigingen van de gegevens, 
 
 De gecombineerde vergunning voor verblijf en arbeid dient te worden aangevraagd door (de werkgever van) de vreemdeling die langer dan drie maanden in Nederland in loondienst wil werken. Indien een werkgever een vreemdeling drie maanden of korter in Nederland in dienst wil nemen is een tewerkstellingsvergunning vereist, tenzij de werkgever op grond van het [BuWav 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046078) hiervan is vrijgesteld. Er is voor gekozen om de grens tussen een tewerkstellingsvergunning en een gecombineerde vergunning bij drie maanden te leggen omdat in het vreemdelingenrecht is geregeld dat bij een verblijf van langer dan drie maanden de vreemdeling in het bezit moet zijn van een verblijfsvergunning.
 
-De gecombineerde vergunning moet worden aangevraagd bij de IND. In [artikel 14a van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14a) (Vw) is bepaald dat de Minister van Justitie en Veiligheid niet besluit over verlening, verlenging of intrekking van een gecombineerde vergunning dan nadat advies is gevraagd aan UWV. De IND vraagt het UWV om die reden vervolgens om een arbeidsmarktadvies. De paragrafen 5.1 tot en met 5.5 van deze uitvoeringsregels beschrijven de procedure en de voorwaarden die het UWV daarbij toepast, met inachtneming van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&artikel=2&z=2023-12-09&g=2023-12-09) van deze Regeling.
+De gecombineerde vergunning moet worden aangevraagd bij de IND. In [artikel 14a van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14a) (Vw) is bepaald dat de Minister van Justitie en Veiligheid niet besluit over verlening, verlenging of intrekking van een gecombineerde vergunning dan nadat advies is gevraagd aan UWV. De IND vraagt het UWV om die reden vervolgens om een arbeidsmarktadvies. De paragrafen 5.1 tot en met 5.5 van deze uitvoeringsregels beschrijven de procedure en de voorwaarden die het UWV daarbij toepast, met inachtneming van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&artikel=2&z=2024-01-01&g=2024-01-01) van deze Regeling.
 
 Niet voor alle vreemdelingen die langer dan drie maanden in Nederland komen werken, geldt de procedure van de gecombineerde aanvraag. Zo moeten werkgevers voor de volgende categorieën werknemers, gelet op het feit dat zij reeds in het bezit zijn van een verblijfsvergunning, een tewerkstellingsvergunning aanvragen, ongeacht de duur van de tewerkstelling. Het gaat hierbij om studenten, asielzoekers, ter beschikking gestelde werknemers (tenzij de artikelen 56 en 57 van het Verdrag betreffende de werking van de Europese Unie (VwEU) op hen van toepassing zijn), zeevarenden, grensarbeiders en vreemdelingen die in een andere lidstaat al beschikken over een verblijfsvergunning als langdurige ingezetene.
 
@@ -150,7 +150,7 @@ Toetsing of voldaan is aan een marktconforme beloning ([artikel 8, eerste lid, o
 
 ### 3.1. Overeenkomsten met andere mogendheden
 
-Als op grond van een internationaal verdrag of een bilaterale overeenkomst met een andere staat, bij de tewerkstelling van een vreemdeling geen tewerkstellingsvergunning of een gecombineerde vergunning mag worden verlangd, zal de desbetreffende vreemdeling steeds beschikken over een door de Minister van Justitie en Veiligheid of de Minister van Buitenlandse Zaken afgegeven legitimatiebewijs, waarop dit is aangetekend. Van de in dit verband relevante internationale verdragen is ter voldoening aan [artikel 3, tweede lid, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=3) in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&bijlage=II&z=2023-12-09&g=2023-12-09) een lijst opgenomen.
+Als op grond van een internationaal verdrag of een bilaterale overeenkomst met een andere staat, bij de tewerkstelling van een vreemdeling geen tewerkstellingsvergunning of een gecombineerde vergunning mag worden verlangd, zal de desbetreffende vreemdeling steeds beschikken over een door de Minister van Justitie en Veiligheid of de Minister van Buitenlandse Zaken afgegeven legitimatiebewijs, waarop dit is aangetekend. Van de in dit verband relevante internationale verdragen is ter voldoening aan [artikel 3, tweede lid, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=3) in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&bijlage=II&z=2024-01-01&g=2024-01-01) een lijst opgenomen.
 
 ### 3.2. Terbeschikkingstelling van gemeenschapsonderdanen voor wie de arbeidsmarkt tijdelijk nog niet vrij is
 
@@ -276,7 +276,7 @@ Als er twijfel bestaat over het in het bezit zijn van een verblijfsvergunning da
 
 ### 8.1.f. Minimumloon
 
-In het eerste lid, onderdeel f is bepaald dat een tewerkstellingsvergunning of een gecombineerde vergunning wordt geweigerd als de vreemdeling met de desbetreffende arbeid minder verdient dan het wettelijk minimummaandloon als bedoeld in [artikel 8, eerste lid onderdeel a van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) (WML). Bij deeltijdarbeid en werk voor kortere perioden dan een maand kunnen de volgende situaties worden onderscheiden:
+In het eerste lid, onderdeel f is bepaald dat een tewerkstellingsvergunning of een gecombineerde vergunning wordt geweigerd als de vreemdeling met de desbetreffende arbeid minder verdient dan het wettelijk minimumloon, bedoeld in [artikel 8, eerste lid onderdeel b, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) (WML). Bij deeltijdarbeid en werk voor kortere perioden dan een maand kunnen de volgende situaties worden onderscheiden:
 
 ### 8.1.g. Geen vergunning voor het verrichten van seksuele handelingen
 
@@ -382,7 +382,7 @@ De paragrafen 8.3.b.11. en 8.3.b.12. gelden voor alle landen die lid zijn van de
 
 ### 8.3.b.11. Dienstverleners op contractbasis
 
-In [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&bijlage=III&z=2023-12-09&g=2023-12-09) is de lijst van landen opgenomen waarmee een vrijhandelsakkoord van kracht is en wordt verwezen naar de website van de WTO om na te gaan welke landen op dit moment lid zijn van de WTO.
+In [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&bijlage=III&z=2024-01-01&g=2024-01-01) is de lijst van landen opgenomen waarmee een vrijhandelsakkoord van kracht is en wordt verwezen naar de website van de WTO om na te gaan welke landen op dit moment lid zijn van de WTO.
 
 ### 8.3.b.11. Dienstverleners op contractbasis
 
@@ -454,7 +454,7 @@ Voorwaarde voor toepassing van deze uitzonderingsmogelijkheid is dat de stagiair
 
 De stage mag niet in de plaats komen van een reguliere baan. In verband met dit vereiste dient in de stageovereenkomst een beschrijving van het stageprogramma te worden opgenomen, waarin de educatieve doelstellingen en leercomponenten van de stage zijn opgenomen.
 
-De stagiair beschikt, met inbegrip van de stagevergoeding, over een inkomen dat niet lager mag zijn dan 50% van het minimumloon, bedoeld in [artikel 8, eerste lid, onderdeel a, van de WML](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8). Hierbij wordt rekening gehouden met eigen middelen, zoals beurzen. In verband met een toets op de stagevergoeding dient door de werkgever in de stageovereenkomst de te verstrekken stagevergoeding aan de stagiair te worden opgenomen.
+De stagiair beschikt, met inbegrip van de stagevergoeding, over een inkomen dat niet lager mag zijn dan 50% van het minimumloon, bedoeld in [artikel 8, eerste lid, onderdeel b, van de WML](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8). Hierbij wordt rekening gehouden met eigen middelen, zoals beurzen. In verband met een toets op de stagevergoeding dient door de werkgever in de stageovereenkomst de te verstrekken stagevergoeding aan de stagiair te worden opgenomen.
 
 Voorwaarde voor toepassing van deze uitzonderingsmogelijkheid is dat de stagiair reeds een voldoende vakgerichte basisopleiding heeft gevolgd in het land waar hij zijn hoofdverblijf heeft. Voor deze stages blijkt uit een door de desbetreffende onderwijsinstelling afgegeven verklaring dat de stage een noodzakelijk onderdeel uitmaakt van het onderwijsprogramma.
 
@@ -464,7 +464,7 @@ Voorwaarde voor toepassing van deze uitzonderingsmogelijkheid is dat de stagiair
 
 Tevens wordt een gefaseerd stageprogramma overgelegd, afgegeven door de onderwijsinstelling, waaruit blijkt wat de inhoud van de stage is. Het aantal stagiairs per werkgever mag niet meer zijn dan 10% van het vaste personeelsbestand, met een toegestaan minimum van 2 stagiairs. Deze beperking is niet van toepassing op vreemdelingen die beschikken over een W-document dan wel aan wie een verblijfsvergunning voor bepaalde tijd is verleend onder de beperking verband houdende met het volgen van studie.
 
-De stagiair beschikt, met inbegrip van de stagevergoeding, over een inkomen dat niet lager mag zijn dan 50% van het minimumloon, bedoeld in [artikel 8, eerste lid, onderdeel a, van de WML](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8). Hierbij wordt rekening gehouden met eigen middelen, zoals beurzen. In verband met een toets op de stagevergoeding dient door de werkgever een afschrift van de stageovereenkomst te worden overlegd, met daarin opgenomen de te verstrekken stagevergoeding aan de stagiair.
+De stagiair beschikt, met inbegrip van de stagevergoeding, over een inkomen dat niet lager mag zijn dan 50% van het minimumloon, bedoeld in [artikel 8, eerste lid, onderdeel b, van de WML](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8). Hierbij wordt rekening gehouden met eigen middelen, zoals beurzen. In verband met een toets op de stagevergoeding dient door de werkgever een afschrift van de stageovereenkomst te worden overlegd, met daarin opgenomen de te verstrekken stagevergoeding aan de stagiair.
 
 ### 8.3.c.4. Stagiairs in het kader van het Young Workers Exchange Program
 
@@ -472,7 +472,7 @@ Voor vreemdelingen die voor korter dan drie maanden arbeid verrichten in het kad
 
 Voor deze stages geldt dat uit de verklaring van de beoogd werkgever blijkt dat de stagiair werk zal gaan verrichten dat gerelateerd is aan de studie. Tevens wordt een gefaseerd stageprogramma overgelegd waaruit blijkt wat de inhoud van de stage is.
 
-De stagiair beschikt, met inbegrip van de stagevergoeding, over een inkomen dat niet lager mag zijn dan 50% van het minimum(jeugd)loon, bedoeld in [artikel 8, eerste lid, onderdeel a, van de WML](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8). Hierbij wordt rekening gehouden met eigen middelen, zoals beurzen. In verband met een toets op de stagevergoeding dient door de werkgever een afschrift van de stageovereenkomst te worden overlegd, met daarin opgenomen de te verstrekken stagevergoeding aan de stagiair.
+De stagiair beschikt, met inbegrip van de stagevergoeding, over een inkomen dat niet lager mag zijn dan 50% van het minimum(jeugd)loon, bedoeld in [artikel 8, eerste lid, onderdeel b, van de WML](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8). Hierbij wordt rekening gehouden met eigen middelen, zoals beurzen. In verband met een toets op de stagevergoeding dient door de werkgever een afschrift van de stageovereenkomst te worden overlegd, met daarin opgenomen de te verstrekken stagevergoeding aan de stagiair.
 
 Voorwaarde voor toepassing van deze uitzonderingsmogelijkheid is dat deze stagiairs een opleiding volgen aan een MBO-instelling in hun herkomstland en in het kader van een MBO-uitwisselings/-mobiliteitsproject stages lopen bij bedrijven in Nederland. Voor deze stages blijkt uit een door de onderwijsinstelling in het land van herkomst afgegeven verklaring dat de stage een onderdeel uitmaakt van de studie. Tevens wordt een uitgewerkt stageprogramma overgelegd, goedgekeurd door de onderwijsinstelling in het land van herkomst, waaruit blijkt wat de inhoud van de stage is en bij welke bedrijven stage wordt gelopen. Bij de stage(s) staat het werkend leren voorop en niet het verrichten van productieve arbeid.
 
@@ -958,13 +958,13 @@ Voor de landen die lid zijn van de WTO gelden de regelingen zoals beschreven in 
 
 Met de volgende landen zijn vrijhandelsakkoorden van kracht of voorlopig toegepast waarin de tijdelijke mobiliteit van personen is vastgelegd.
 
-Voor de landen die lid zijn van de WTO gelden de regelingen zoals beschreven in de [paragrafen 8.3.b.11. en 8.3.b.12](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&bijlage=I&z=2023-12-09&g=2023-12-09). Zie [www.wto.org](onbekend) voor welke landen zijn aangesloten bij de WTO.
+Voor de landen die lid zijn van de WTO gelden de regelingen zoals beschreven in de [paragrafen 8.3.b.11. en 8.3.b.12](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&bijlage=I&z=2024-01-01&g=2024-01-01). Zie [www.wto.org](onbekend) voor welke landen zijn aangesloten bij de WTO.
 
 Op de onderdanen van deze landen zijn de [paragrafen 8.3.b.11., 8.3.b.12. en 8.3.b.13](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&bijlage=I&z=2023-10-05&g=2023-10-05) van toepassing.
 
 Met de volgende landen zijn vrijhandelsakkoorden van kracht of voorlopig toegepast waarin de tijdelijke mobiliteit van personen is vastgelegd.
 
-Op de onderdanen van deze landen zijn de [paragrafen 8.3.b.11., 8.3.b.12. en 8.3.b.13](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&bijlage=I&z=2023-12-09&g=2023-12-09) van toepassing.
+Op de onderdanen van deze landen zijn de [paragrafen 8.3.b.11., 8.3.b.12. en 8.3.b.13](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&bijlage=I&z=2024-01-01&g=2024-01-01) van toepassing.
 
 Op de onderdanen van deze landen zijn de paragrafen 8.3.b.11. en 8.3.b.12. van toepassing.
 
@@ -1072,7 +1072,7 @@ Een manager is iemand die deel uitmaakt van het hogere kader van een rechtsperso
 
 ### 8.3.b.14. Zeevisserij
 
-De tewerkstellingsvergunning wordt, in afwijking van paragraaf 12.2 van deze bijlage, niet ingetrokken indien er langer dan vier weken geen gebruik van wordt gemaakt. In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&artikel=4&z=2023-12-09&g=2023-12-09) van deze regeling hoeft er in deze situatie geen mededeling gedaan te worden.
+De tewerkstellingsvergunning wordt, in afwijking van paragraaf 12.2 van deze bijlage, niet ingetrokken indien er langer dan vier weken geen gebruik van wordt gemaakt. In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&artikel=4&z=2024-01-01&g=2024-01-01) van deze regeling hoeft er in deze situatie geen mededeling gedaan te worden.
 
 ### 8.3.b.16. Wervingsinspanningen bij aanvraag tewerkstellingsvergunning of gecombineerde vergunning voor koks ten behoeve van de Aziatische horeca
 
@@ -1182,7 +1182,7 @@ In [artikel 12, eerste lid, onderdeel a, van de Wav](https://wetten.overheid.nl/
 
 Van de werkgever wordt verwacht dat hij de vreemdeling en, indien sprake is van een situatie als bedoeld in [artikel 2, tweede lid van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=2), ook de andere werkgever informeert over zijn besluit niet langer van de tewerkstellingsvergunning of gecombineerde vergunning gebruik te maken.
 
-In [artikel 12, eerste lid, onderdeel c, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=12) is bepaald dat de tewerkstellingsvergunning of gecombineerde vergunning kan worden ingetrokken als er geen gebruik van wordt gemaakt. Teneinde dit te kunnen effectueren zal bij de vergunningverlening de werkgever die de tewerkstellingsvergunning heeft aangevraagd of de houder van de gecombineerde vergunning er steeds op worden gewezen dat hij op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&artikel=4&z=2023-12-09&g=2023-12-09) van deze regeling verplicht is onverwijld ervan mededeling te doen als van de tewerkstellingsvergunning of gecombineerde vergunning langer dan 4 weken geen gebruik wordt gemaakt. Op grond van artikel 4 van deze regeling is de houder van de tewerkstellingsvergunning verplicht onverwijld schriftelijk mededeling te doen als van de tewerkstellingsvergunning langer dan 4 weken geen gebruik wordt gemaakt. Deze verplichting is opgenomen om te zorgen dat tijdig wordt gemeld als er geen gebruik meer wordt gemaakt van de tewerkstellingsvergunning omdat het dienstverband is geëindigd of het werk is beëindigd. Gelet hierop is de werkgever gehouden om, voor zover hij daarvan kennis heeft of kan hebben, te melden als de vreemdeling niet meer bij de werkgever werkzaam is. Zie ook paragraaf 1.3.
+In [artikel 12, eerste lid, onderdeel c, van de Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=12) is bepaald dat de tewerkstellingsvergunning of gecombineerde vergunning kan worden ingetrokken als er geen gebruik van wordt gemaakt. Teneinde dit te kunnen effectueren zal bij de vergunningverlening de werkgever die de tewerkstellingsvergunning heeft aangevraagd of de houder van de gecombineerde vergunning er steeds op worden gewezen dat hij op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&artikel=4&z=2024-01-01&g=2024-01-01) van deze regeling verplicht is onverwijld ervan mededeling te doen als van de tewerkstellingsvergunning of gecombineerde vergunning langer dan 4 weken geen gebruik wordt gemaakt. Op grond van artikel 4 van deze regeling is de houder van de tewerkstellingsvergunning verplicht onverwijld schriftelijk mededeling te doen als van de tewerkstellingsvergunning langer dan 4 weken geen gebruik wordt gemaakt. Deze verplichting is opgenomen om te zorgen dat tijdig wordt gemeld als er geen gebruik meer wordt gemaakt van de tewerkstellingsvergunning omdat het dienstverband is geëindigd of het werk is beëindigd. Gelet hierop is de werkgever gehouden om, voor zover hij daarvan kennis heeft of kan hebben, te melden als de vreemdeling niet meer bij de werkgever werkzaam is. Zie ook paragraaf 1.3.
 
 ### Artikel 12a. [Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149): Facultatieve intrekkingsgronden: bij ontbreken erkende referentstatus
 
@@ -1518,7 +1518,7 @@ Op grond van [artikel 13, aanhef, en onderdeel a, van de Wav](https://wetten.ove
 
 Voor de landen die lid zijn van de WTO gelden de regelingen zoals beschreven in de [paragrafen 8.3.b.11. en 8.3.b.12](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&bijlage=I&z=2023-03-22&g=2022-09-26). Zie [www.wto.org](onbekend) voor welke landen zijn aangesloten bij de WTO.
 
-### Mededeling als bedoeld in [paragraaf 8.3.b.10](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&bijlage=I&z=2023-12-09&g=2023-12-09).
+### Mededeling als bedoeld in [paragraaf 8.3.b.10](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&bijlage=I&z=2024-01-01&g=2024-01-01).
 
 Deze regeling zal met de toelichting en de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&bijlage=I&z=2023-03-22&g=2022-09-26) in de Staatscourant worden geplaatst.
 
@@ -1670,6 +1670,6 @@ De [Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149) kende tot 2014 bijvoor
 
 Verdragen die voorlopig inwerking zijn getreden en waarin afspraken over toegang tot de arbeidsmarkt zijn gemaakt:
 
-Op de onderdanen van deze landen zijn de [paragrafen 8.3.b.11., 8.3.b.12. en 8.3.b.13](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&bijlage=I&z=2023-12-09&g=2023-12-09) van toepassing.
+Op de onderdanen van deze landen zijn de [paragrafen 8.3.b.11., 8.3.b.12. en 8.3.b.13](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&bijlage=I&z=2024-01-01&g=2024-01-01) van toepassing.
 
-Deze regeling zal met de toelichting en de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&bijlage=I&z=2023-12-09&g=2023-12-09) in de Staatscourant worden geplaatst.
+Deze regeling zal met de toelichting en de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0046054&bijlage=I&z=2024-01-01&g=2024-01-01) in de Staatscourant worden geplaatst.
