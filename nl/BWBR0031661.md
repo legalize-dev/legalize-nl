@@ -4,7 +4,7 @@ identifier: "BWBR0031661"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2018-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031661"
 soort: "ministeriele-regeling"
@@ -50,11 +50,11 @@ Meldingen als bedoeld in [artikel 3B.4, eerste lid, van het Vuurwerkbesluit](htt
 
 ##### Artikel 3
 
-Afschriften als bedoeld in [artikel 2.2.4, eerste lid, van het Vuurwerkbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&artikel=2.2.4), alsmede afschriften als bedoeld in [artikel 6.13, vierde lid, van het Besluit omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0027464&artikel=6.13) worden elektronisch verzonden via de website www.ilent.nl van de Inspectie Leefomgeving en Transport.
+Vervallen
 
 ##### Artikel 4
 
-Gegevens en bescheiden die langs elektronische weg bij een aanvraag als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031661&artikel=2&z=2018-01-01&g=2018-01-01) worden verstrekt, worden uitsluitend als ‘read-only’ (alleen lezen) gekenmerkt en geleverd in een van de volgende bestandsformaten:
+Gegevens en bescheiden die langs elektronische weg bij een aanvraag als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031661&artikel=2&z=2024-01-01&g=2024-01-01) worden verstrekt, worden uitsluitend als ‘read-only’ (alleen lezen) gekenmerkt en geleverd in een van de volgende bestandsformaten:
 
 - a. scans: TIFF, JPG, PDF/A-1a, PDF/A-1b en PDF 1.4, en
 
