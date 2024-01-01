@@ -4,7 +4,7 @@ identifier: "BWBR0032789"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2015-07-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032789"
 soort: "wet"
@@ -44,7 +44,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder Onze Ministe
 
 ##### Artikel 2
 
-In afwijking van [artikel 4:21, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:21) is [titel 4.2 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2) van toepassing op subsidies die worden verstrekt op grond van een algemene maatregel van bestuur of ministeriële regeling als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=4&z=2015-07-01&g=2015-07-01), die uitsluitend voorziet in verstrekking aan rechtspersonen die krachtens publiekrecht zijn ingesteld.
+In afwijking van [artikel 4:21, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:21) is [titel 4.2 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2) van toepassing op subsidies die worden verstrekt op grond van een algemene maatregel van bestuur of ministeriële regeling als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=4&z=2024-01-01&g=2024-01-01), die uitsluitend voorziet in verstrekking aan rechtspersonen die krachtens publiekrecht zijn ingesteld.
 
 ##### Artikel 3
 
@@ -68,7 +68,7 @@ In afwijking van [artikel 4:21, derde lid, van de Algemene wet bestuursrecht](ht
 
 ##### Artikel 4
 
-1. Bij of krachtens algemene maatregel van bestuur of bij regeling van Onze Minister kunnen de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=3&z=2015-07-01&g=2015-07-01) bedoelde activiteiten waarvoor subsidie kan worden verstrekt nader worden bepaald en kunnen criteria voor die verstrekking worden vastgesteld.
+1. Bij of krachtens algemene maatregel van bestuur of bij regeling van Onze Minister kunnen de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=3&z=2024-01-01&g=2024-01-01) bedoelde activiteiten waarvoor subsidie kan worden verstrekt nader worden bepaald en kunnen criteria voor die verstrekking worden vastgesteld.
 
 2. Bij een algemene maatregel van bestuur of een ministeriële regeling als bedoeld in het eerste lid wordt voorzien in de vaststelling van een subsidieplafond en de regeling van de wijze van verdeling ervan, tenzij Onze Minister van Financiën heeft ingestemd met het achterwege laten daarvan.
 
@@ -168,7 +168,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 17
 
-Algemene maatregelen van bestuur en ministeriële regelingen die voor de inwerkingtreding van deze wet een grondslag vonden in bepalingen, gesteld bij of krachtens de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245), de [Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449) of de [Kaderwet subsidies Verkeer en Waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0009196) berusten, voor zover zij voorzien in subsidies binnen het toepassingsgebied van deze wet, vanaf het tijdstip van inwerkingtreding van deze wet op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=4&z=2015-07-01&g=2015-07-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=5&z=2015-07-01&g=2015-07-01) van deze wet of mede op die artikelen.
+Algemene maatregelen van bestuur en ministeriële regelingen die voor de inwerkingtreding van deze wet een grondslag vonden in bepalingen, gesteld bij of krachtens de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245), de [Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449) of de [Kaderwet subsidies Verkeer en Waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0009196) berusten, voor zover zij voorzien in subsidies binnen het toepassingsgebied van deze wet, vanaf het tijdstip van inwerkingtreding van deze wet op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=4&z=2024-01-01&g=2024-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=5&z=2024-01-01&g=2024-01-01) van deze wet of mede op die artikelen.
 
 ##### Artikel 18
 
@@ -197,5 +197,11 @@ Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 Alzo Wij in overweging genomen hebben, dat het wenselijk is een algemeen wettelijk kader te stellen met betrekking tot de verstrekking van subsidies door Onze Minister van Infrastructuur en Milieu en wijziging aan te brengen in het wettelijk kader met betrekking tot de verstrekking van subsidies door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, Onze Minister voor Immigratie en Asiel en Onze Minister van Veiligheid en Justitie;
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 6a. (delegatiebevoegdheid)
+
+Onze Minister kan de uitvoering van een algemene maatregel van bestuur of een ministeriële regeling over het verstrekken van subsidies voor de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=3&z=2024-01-01&g=2024-01-01) genoemde activiteiten met inbegrip van het nemen van besluiten op grond van die regels delegeren aan bestuursorganen van provincie of gemeente.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
