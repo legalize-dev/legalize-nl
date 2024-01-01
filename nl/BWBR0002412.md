@@ -4,7 +4,7 @@ identifier: "BWBR0002412"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "1994-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002412"
 soort: "wet"
@@ -125,7 +125,7 @@ Bij algemene maatregel van bestuur worden regels gesteld ter uitvoering van arti
 
 ##### Artikel 14
 
-In de gebieden, bedoeld in artikel 6 van het Grensverdrag, waarop de Grenscorrectiewet niet van toepassing is geweest, geldt voor de overgang van het Duitse naar het Nederlandse recht het bepaalde in de [artikelen 15 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002412&hoofdstuk=II&artikel=15&z=1994-01-01&g=1994-01-01).
+In de gebieden, bedoeld in artikel 6 van het Grensverdrag, waarop de Grenscorrectiewet niet van toepassing is geweest, geldt voor de overgang van het Duitse naar het Nederlandse recht het bepaalde in de [artikelen 15 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002412&hoofdstuk=II&artikel=15&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 15
 
@@ -211,11 +211,9 @@ In de gebieden, bedoeld in artikel 6 van het Grensverdrag, waarop de Grenscorrec
 
 ##### Artikel 23
 
-1. Maatregelen ten aanzien van grenswateren, ter uitvoering van het Grensverdrag genomen, worden voor de toepassing van de [Belemmeringenwet Verordeningen](https://wetten.overheid.nl/jci1.3:c:BWBR0001865) en de [Belemmeringenwet Privaatrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001936) voorzoveel nodig beschouwd als openbare werken, die krachtens een door Ons verleende concessie worden uitgevoerd en waarvan het openbaar belang door Ons is erkend.
+1. Bij onteigening ten behoeve van maatregelen ten aanzien van grenswateren vindt het bepaalde in [Titel IIa van de Onteigeningswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001842&titeldeel=IIa) overeenkomstige toepassing.
 
-2. Bij onteigening ten behoeve van die maatregelen vindt het bepaalde in [Titel 2**a** der Onteigeningswet](onbekend) overeenkomstige toepassing.
-
-3. De openbare lichamen, welke beheerders zijn van grenswateren, dienen, voorzover zulks voor een bevredigende uitvoering van het Grensverdrag noodzakelijk of wenselijk is, ernaar te streven, de eigendom van die wateren te verwerven vrij van de daarop eventueel rustende zakelijke of andere rechten. Het bepaalde in het [eerste lid van artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002412&hoofdstuk=III&artikel=24&z=1994-01-01&g=1994-01-01) is van overeenkomstige toepassing.
+2. De openbare lichamen, welke beheerders zijn van grenswateren, dienen, voorzover zulks voor een bevredigende uitvoering van het Grensverdrag noodzakelijk of wenselijk is, ernaar te streven, de eigendom van die wateren te verwerven vrij van de daarop eventueel rustende zakelijke of andere rechten. Het bepaalde in het [eerste lid van artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002412&hoofdstuk=III&artikel=24&z=2024-01-01&g=2024-01-01) is van overeenkomstige toepassing.
 
 ##### Artikel 24
 
