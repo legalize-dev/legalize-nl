@@ -4,7 +4,7 @@ identifier: "BWBR0046821"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2023-05-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046821"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Deze regeling voorziet in de aanwijzing van functies, bedoeld in [artikel 35a, e
 
 ##### Artikel 2
 
-De aanwijzing van functies, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046821&artikel=1&z=2023-05-01&g=2023-05-01), geschiedt door de vermelding in de bijlage bij deze regeling van de volgende gegevens, voor zover van toepassing:
+De aanwijzing van functies, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046821&artikel=1&z=2024-01-01&g=2024-01-01), geschiedt door de vermelding in de bijlage bij deze regeling van de volgende gegevens, voor zover van toepassing:
 
 - a. de organisatie waar de functie wordt uitgeoefend;
 
@@ -66,7 +66,7 @@ Deze regeling treedt in werking met ingang van 1 juli 2022.
 
 Deze regeling wordt aangehaald als: Regeling aanwijzing functies VOG politiegegevens.
 
-## Bijlage. als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046821&artikel=2&z=2023-05-01&g=2023-05-01) van de Regeling aanwijzing functies VOG politiegegevens
+## Bijlage. als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046821&artikel=2&z=2024-01-01&g=2024-01-01) van de Regeling aanwijzing functies VOG politiegegevens
 
 | Buitengewoon opsporingsambtenaar | Buitengewoon opsporingsambtenaar | Buitengewoon opsporingsambtenaar |   |
 | --- | --- | --- | --- |
@@ -304,5 +304,108 @@ Deze regeling wordt aangehaald als: Regeling aanwijzing functies VOG politiegege
 | **Medewerker ICT/expert informatievoorziening** | Uitvoeren van het functioneel beheer van het gemeentelijke informatievoorzieningssysteem en beheren van de toegang tot analysetools en informatiesystemen die onder andere casusinformatie analyseren op het terrein van OOV | X |   |
 | **Directiesecretariaat/managementondersteuner op het terrein van veiligheid/OOV/programma’s aanpak Ondermijning** | Faciliteren en ondersteunen van de directie en het management van afdelingen Veiligheid/OOV/programmastructuur aanpak ondermijning op secretarieel, administratief en organisatorisch gebied | X |   |
 | **Toezichthouder, niet zijnde boa’s met handhavende taken op beleidsgebieden in de clusters Leefbaarheid & Ondermijning en Drank & Horeca, Evenementen en Bijzondere Wetten en die in die hoedanigheid toegang krijgen tot gevoelige informatie, zoals bestuurlijke rapportages vanuit de politie** | Toezichthouden en handhaven op het terrein van OOV | X |   |
+
+| **Forensisch Psychiatrische Centra (FPC)** | **Forensisch Psychiatrische Centra (FPC)** | **Forensisch Psychiatrische Centra (FPC)** | **Forensisch Psychiatrische Centra (FPC)** |
+| --- | --- | --- | --- |
+| Functiebenaming | Functietitel | Bevoegdheid geweld te gebruiken ([artikel 35a, tweede lid, onder a, Wjsg](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=35a)) | Toegang tot gevoelige informatie ([artikel 35a, tweede lid, onder b, Wjsg](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=35a)) |
+| **Directie FPC** |   |   |   |
+|   | Hoofd van de instelling | X | X |
+|   | Directeur | X | X |
+|   | Secretaris | X | X |
+| **Manager** |   |   |   |
+|   | Manager/Unit coördinator | X | X |
+|   | Afdelingshoofd Behandelafdeling/Teamleider | X | X |
+|   | Afdelingshoofd/Teamleider beveiliging | X | X |
+| **Behandelaar** |   |   |   |
+|   | Psychiater | X | X |
+|   | Arts-assistent |   | X |
+|   | Hoofd behandeling/Regiebehandelaar/ Behandelcoördinator | X | X |
+|   | Psycholoog (basis psycholoog, gz-psycholoog, klinisch-psycholoog en psychotherapeut) |   | X |
+|   | Therapeut (vak-, drama-, muziek-, beeldend systeemtherapeut, PMT) |   | X |
+|   | Docent/Trainer |   | X |
+| **Maatschappelijk werker** |   |   |   |
+|   | Maatschappelijk werker/Casemanager | X | X |
+| **Medewerker beveiliging** |   |   |   |
+|   | Medewerker beveiliging/ – centrale post | X | X |
+|   | Complex-, Zorgbeveiliger | X | X |
+| **Forensisch therapeutisch werker** |   |   |   |
+|   | Sociotherapeut/Groepsleider | X | X |
+|   | Senior van dienst/Dagcoördinator | X | X |
+|   | Verpleegkundige | X | X |
+|   | Zorgondersteuner | X | X |
+|   | Pedagogisch werker/Groepswerker | X | X |
+|   | Woonbegeleider | X | X |
+| **Medewerker arbeid en dagbesteding** |   |   |   |
+|   | Medewerker arbeid en dagbesteding (arbeidsactivering, sport, hout, hobby, dagbesteding, metaal, consumptief, soos, (assistent)kok |   | X |
+|   | Trajectbegeleider |   | X |
+|   | Mentor/Docent |   | X |
+| **Ondersteunend medewerker** |   |   |   |
+|   | Coördinator/Medewerker plaatsingen |   | X |
+|   | Medewerker patiëntengeldadministratie |   | X |
+|   | Medewerker zorgadministratie |   | X |
+|   | Behandelrapporteur |   | X |
+|   | Medewerker catering/service |   | X |
+|   | Medewerker klussendienst/technische dienst |   | X |
+|   | Schoonmaker |   | X |
+|   | Manager/Afdelingshoofd/Teamleider ICT |   | X |
+|   | Medewerker helpdesk |   | X |
+|   | Systeembeheerder |   | X |
+|   | Applicatiebeheerder |   | X |
+|   | Jurist |   | X |
+|   | Onderzoeker |   | X |
+|   | Secretaresse |   | X |
+|   | Voorzitter Verloftoetsingscommissie (VTC) |   | X |
+
+| **Forensisch Psychiatrische Klinieken (FPK)** | **Forensisch Psychiatrische Klinieken (FPK)** | **Forensisch Psychiatrische Klinieken (FPK)** | **Forensisch Psychiatrische Klinieken (FPK)** |
+| --- | --- | --- | --- |
+| Functiebenaming | Functietitel | Bevoegdheid geweld te gebruiken ([artikel 35a, tweede lid, onder a, Wjsg](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=35a)) | Toegang tot gevoelige informatie ([artikel 35a, tweede lid, onder b, Wjsg](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=35a)) |
+| **Directie FPK** |   |   |   |
+|   | Hoofd van de instelling |   | X |
+|   | Directeur |   | X |
+|   | Secretaris |   | X |
+|   |   |   |   |
+| **Manager** |   |   |   |
+|   | Manager/Unit coördinator |   | X |
+|   | Afdelingshoofd Behandelafdeling/Teamleider |   | X |
+|   | Afdelingshoofd/Teamleider beveiliging |   | X |
+| **Behandelaar** |   |   |   |
+|   | Psychiater |   | X |
+|   | Arts assistent |   | X |
+|   | Hoofd behandeling/Regiebehandelaar/ Behandelcoördinator |   | X |
+|   | Psycholoog (basis psycholoog, gz-psycholoog, klinisch-psycholoog en psychotherapeut) |   | X |
+|   | Therapeut (vak-, drama-, muziek-, beeldend systeemtherapeut, PMT) |   | X |
+|   | Docent/Trainer |   | X |
+| **Maatschappelijk werker** |   |   |   |
+|   | Maatschappelijk werker/Casemanager |   | X |
+| **Medewerker beveiliging** |   |   |   |
+|   | Medewerker beveiliging/ – centrale post |   | X |
+|   | Complex-, Zorgbeveiliger |   | X |
+| **Forensisch therapeutisch werker** |   |   |   |
+|   | Sociotherapeut/Groepsleider |   | X |
+|   | Senior van dienst/Dagcoördinator |   | X |
+|   | Verpleegkundige |   | X |
+|   | Zorgondersteuner |   | X |
+|   | Pedagogisch werker/Groepswerker |   | X |
+|   | Woonbegeleider |   | X |
+| **Medewerker arbeid en dagbesteding** |   |   |   |
+|   | Medewerker arbeid en dagbesteding (arbeidsactivering, sport, hout, hobby, dagbesteding, metaal, consumptief, soos, (assistent)kok |   | X |
+|   | Trajectbegeleider |   | X |
+|   | Mentor/Docent |   | X |
+| **Ondersteunend medewerker** |   |   |   |
+|   | Coördinator/Medewerker plaatsingen |   | X |
+|   | Medewerker patiëntengeldadministratie |   | X |
+|   | Medewerker zorgadministratie |   | X |
+|   | Behandelrapporteur |   | X |
+|   | Medewerker catering/service |   | X |
+|   | Medewerker klussendienst/technische dienst |   | X |
+|   | Schoonmaker |   | X |
+|   | Manager/Afdelingshoofd/Teamleider ICT |   | X |
+|   | Medewerker helpdesk |   | X |
+|   | Systeembeheerder |   | X |
+|   | Applicatiebeheerder |   | X |
+|   | Jurist |   | X |
+|   | Onderzoeker |   | X |
+|   | Secretaresse |   | X |
+|   | Voorzitter Verloftoetsingscommissie (VTC) |   | X |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
