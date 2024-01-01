@@ -4,7 +4,7 @@ identifier: "BWBR0034876"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2023-09-26"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034876"
 soort: "ministeriele-regeling"
@@ -78,7 +78,7 @@ Besluit:
 
 - **werkzaamheden:** onderzoeken, keuringen, administratieve voorbereiding en afwikkeling daarvan.
 
-2. Voor de toepassing van deze regeling gelden voor de berekening van het aantal grootvee-eenheden, de omrekeningscoëfficiënten opgenomen in [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=F&z=2023-07-14&g=2023-09-26).
+2. Voor de toepassing van deze regeling gelden voor de berekening van het aantal grootvee-eenheden, de omrekeningscoëfficiënten opgenomen in [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=F&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 2
 
@@ -112,6 +112,8 @@ Voor de toepassing van deze regeling wordt verstaan onder:
 
 - **verordening (EU) 2019/1793:** Uitvoeringsverordening (EU) 2019/1793 van de Commissie van 22 oktober 2019 betreffende de tijdelijke verhoging van de officiële controles en noodmaatregelen met betrekking tot de binnenkomst in de Unie van bepaalde goederen uit bepaalde derde landen tot uitvoering van de Verordeningen (EU) 2017/625 en (EG) nr. 178/2002 van het Europees Parlement en de Raad, en tot intrekking van de [Verordeningen (EG) nr. 669/2009](32009R0669), (EU) [nr. 884/2014](32014R0884), (EU) [2015/175](32075R2015), (EU) [2017/186](32086R2017) en (EU) [2018/1660](33560R2018) van de Commissie (PbEU L 277);
 
+- **verordening (EU) 2019/2124:** gedelegeerde [verordening (EU) 2019/2124](32019R2124) van de Commissie van 10 oktober 2019 tot aanvulling van [Verordening (EU) 2017/625](32017R0625) van het Europees Parlement en de Raad wat betreft voorschriften voor officiële controles van zendingen van dieren en goederen bij doorvoer, overlading en verder vervoer door de Unie, tot wijziging van de [Verordeningen (EG) nr. 798/2008](32008R0798), [(EG) nr. 1251/2008](32008R1251), [(EG) nr. 119/2009](32009R0119), [(EU) nr. 206/2010](32010R0206), [(EU) nr. 605/2010](32010R0605), [(EU) nr. 142/2011](32011R0142) en [(EU) nr. 28/2012](32012R0028) van de Commissie, [Uitvoeringsverordening (EU) 2016/759](32016R0759) van de Commissie, en Beschikking 2007/777/EG van de Commissie (PbEU 2019, L 321);
+
 - **verordening (EU) 2019/2130:** uitvoerings[verordening (EU) 2019/2130](32130R2019) van de Commissie van 25 november 2019 tot vaststelling van gedetailleerde regels voor de werkzaamheden die moeten worden uitgevoerd tijdens en na documentencontroles, overeenstemmingscontroles en materiële controles van dieren en goederen die onderworpen zijn aan officiële controles aan grenscontroleposten (PbEU 2019, L 321);
 
 - **verordening (EU) 2019/4:** [verordening (EU) 2019/4](31904R2019) van het Europees Parlement en de Raad van 11 december 2018 betreffende de vervaardiging, het in de handel brengen en het gebruik van gemedicineerde diervoeders, tot wijziging van Verordening (EG) nr. 183/2005 van het Europees Parlement en de Raad en tot intrekking van [Richtlijn 90/167/EEG](31990L0167) van de Raad (PbEU 2019, L 4);
@@ -130,127 +132,133 @@ Voor de toepassing van deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-Voor werkzaamheden als bedoeld in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=A&z=2023-07-14&g=2023-09-26) bij deze regeling die binnen openingstijd worden verricht is de aanbieder een retributie verschuldigd, bestaande uit:
+Voor werkzaamheden als bedoeld in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=A&z=2024-01-01&g=2024-01-01) bij deze regeling die binnen openingstijd worden verricht is de aanbieder een retributie verschuldigd, bestaande uit:
 
-- a. een starttarief van € 201,15 en
+- a. een starttarief van € 275,80 en
 
-- b. een bedrag van € 39,23 per kwartier dat aan de werkzaamheden door een officiële dierenarts of een officiële assistent of een andere medewerker van de NVWA is besteed.
+- b. een bedrag van € 45,15 per kwartier dat aan de werkzaamheden door een officiële dierenarts of een officiële assistent of een andere medewerker van de NVWA is besteed.
 
 ##### Artikel 4
 
 1. Een aanbieder meldt zich, indien hij van oordeel is dat hij in aanmerking komt voor toepassing van het tarief, bedoeld in het tweede, derde of zevende lid, een maand voor de aanvang van een kalenderkwartaal aan bij de NVWA.
 
-2. In zoverre in afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=3&z=2023-07-14&g=2023-09-26) is voor werkzaamheden als bedoeld in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=A&z=2023-07-14&g=2023-09-26), onderdeel a, die worden verricht in een slachthuis dat niet meer behandelt dan 125 grootvee-eenheden per kwartaal, een retributie verschuldigd, bestaande uit een starttarief van € 22,10.
+2. In zoverre in afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01) is voor werkzaamheden als bedoeld in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=A&z=2024-01-01&g=2024-01-01), onderdeel a, die worden verricht in een slachthuis dat niet meer behandelt dan 125 grootvee-eenheden per kwartaal, een retributie verschuldigd, bestaande uit een starttarief van € 23,40.
 
-3. In zoverre in afwijking van [artikel 3, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=3&z=2023-07-14&g=2023-09-26), is voor werkzaamheden als bedoeld in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=A&z=2023-07-14&g=2023-09-26), onderdeel a, die worden verricht in een slachthuis dat meer dan 125 en niet meer dan 250 grootvee-eenheden behandelt per kwartaal, een retributie verschuldigd, bestaande uit een starttarief van € 61,21 en een bedrag per kwartier van € 21,94.
+3. In zoverre in afwijking van [artikel 3, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01), is voor werkzaamheden als bedoeld in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=A&z=2024-01-01&g=2024-01-01), onderdeel a, die worden verricht in een slachthuis dat meer dan 125 en niet meer dan 250 grootvee-eenheden behandelt per kwartaal, een retributie verschuldigd, bestaande uit een starttarief van € 75,85 en een bedrag per kwartier van € 32,63.
 
 4. Indien een slachthuis dat normaliter niet meer behandelt dan 125 grootvee-eenheden dan wel 250 grootvee-eenheden per kwartaal gedurende twee aaneengesloten dagen per jaar, maximaal één keer per kalenderjaar, een zodanig aantal dieren slacht dat in het desbetreffende kwartaal het maximum van 125 grootvee-eenheden dan wel 250 grootvee-eenheden wordt overschreden, is het tweede, dan wel het derde lid niettemin van toepassing, indien het slachthuis de NVWA uiterlijk vijftien werkdagen voorafgaand aan de eerste van de onderhavige twee aaneengesloten dagen daarvan melding maakt en daarbij aangeeft hoeveel dieren en van welke soort er op die dagen worden geslacht.
 
-5. In afwijking van het tweede en derde lid wordt voor de werkzaamheden op de in het vierde lid bedoelde twee aaneengesloten dagen de retributie in rekening gebracht, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=3&z=2023-07-14&g=2023-09-26).
+5. In afwijking van het tweede en derde lid wordt voor de werkzaamheden op de in het vierde lid bedoelde twee aaneengesloten dagen de retributie in rekening gebracht, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01).
 
-6. Ingeval het aantal behandelde grootvee-eenheden in een kalenderkwartaal afwijkt van de aantallen grootvee-eenheden, behorende bij het tarief waarvoor de aanbieder zich heeft gemeld dan wel behorende bij het tarief dat van toepassing is als de aanbieder zich niet heeft gemeld, is de aanbieder, behoudens ingeval het vierde lid van toepassing is, naast het tarief behorend bij het aantal daadwerkelijk behandelde grootvee-eenheden, een aanvullende retributie van € 29,15 per locatie per dag dat is geslacht verschuldigd.
+6. Ingeval het aantal behandelde grootvee-eenheden in een kalenderkwartaal afwijkt van de aantallen grootvee-eenheden, behorende bij het tarief waarvoor de aanbieder zich heeft gemeld dan wel behorende bij het tarief dat van toepassing is als de aanbieder zich niet heeft gemeld, is de aanbieder, behoudens ingeval het vierde lid van toepassing is, naast het tarief behorend bij het aantal daadwerkelijk behandelde grootvee-eenheden, een aanvullende retributie van € 33,22 per locatie per dag dat is geslacht verschuldigd.
 
-7. Ingeval de werkzaamheden worden verricht ter zake van de ingevolge [artikel 5.5f van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=5.5f) vereiste permanente aanwezigheid bij het doden van dieren zonder voorafgaande bedwelming en het slachthuis niet meer dan 250 grootvee-eenheden per kwartaal behandelt, is in afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=3&z=2023-07-14&g=2023-09-26), en het tweede, derde en vierde lid, van dit artikel, voor die werkzaamheden, een retributie verschuldigd bestaande uit een starttarief van € 122,42 en een bedrag per kwartier van € 46,39.
+7. Ingeval de werkzaamheden worden verricht ter zake van de ingevolge [artikel 5.5f van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=5.5f) vereiste permanente aanwezigheid bij het doden van dieren zonder voorafgaande bedwelming en het slachthuis niet meer dan 250 grootvee-eenheden per kwartaal behandelt, is in afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01), en het tweede, derde en vierde lid, van dit artikel, voor die werkzaamheden, een retributie verschuldigd bestaande uit een starttarief van € 151,69 en een bedrag per kwartier van € 65,26.
 
 8. Ingeval het zesde lid van toepassing is en de aanbieder op basis van de aanmelding, bedoeld in het eerste lid, of vanwege het ontbreken van een aanmelding, een hogere retributie zou zijn verschuldigd dan de retributie die hij is verschuldigd voor het tarief behorend bij het daadwerkelijk aantal behandelde grootvee-eenheden, dan bedraagt de som van de laatstgenoemde retributie en de aanvullende retributie, bedoeld in het zesde lid, niet meer dan de eerstgenoemde hogere retributie.
 
 ##### Artikel 5
 
-1. Voor werkzaamheden als bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=B&z=2023-07-14&g=2023-09-26), deel I, bij deze regeling die binnen openingstijd worden verricht, is de aanbieder een retributie verschuldigd van € 44,35 per kwartier dat aan de werkzaamheden door een officiële dierenarts, een officiële assistent of een andere medewerker van de NVWA is besteed, aangevuld met:
+1. Voor werkzaamheden als bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=B&z=2024-01-01&g=2024-01-01), deel I, bij deze regeling die binnen openingstijd worden verricht, is de aanbieder een retributie verschuldigd van € 53,54 per kwartier dat aan de werkzaamheden door een officiële dierenarts, een officiële assistent of een andere medewerker van de NVWA is besteed, aangevuld met:
 
-- a. een starttarief van € 161,08 indien aan de werkzaamheden reis- of niet specifiek toerekenbare voorbereidende administratietijd is besteed,
+- a. een starttarief van € 164,69 indien aan de werkzaamheden reis- of niet specifiek toerekenbare voorbereidende administratietijd is besteed,
 
-- b. een bedrag van € 6,00 per certificaat of geleidebiljet indien een certificaat of geleidebiljet is aangevraagd via e-CertNL.
+- b. een bedrag van € 4,42 per certificaat of geleidebiljet indien een certificaat of geleidebiljet is aangevraagd via e-CertNL.
 
 2. In afwijking van het eerste lid is een retributie verschuldigd van:
 
-- a. € 329,54 indien de werkzaamheden betrekking hebben op de beoordeling van de tekst van een certificaat ten behoeve van de vaststelling daarvan;
+- a. € 246,23 indien de werkzaamheden betrekking hebben op de beoordeling van de tekst van een certificaat ten behoeve van de vaststelling daarvan;
 
-- b. € 286,08 indien de werkzaamheden betrekking hebben op de beoordeling van een tekst van een certificaat dat na vaststelling ter beschikking staat aan eenieder;
+- b. € 214,56 indien de werkzaamheden betrekking hebben op de beoordeling van een tekst van een certificaat dat na vaststelling ter beschikking staat aan eenieder;
 
-- c. € 105,74 indien de beoordeling van de tekst van een certificaat met betrekking tot een derde land reeds is uitgevoerd.
+- c. € 120,36 indien de beoordeling van de tekst van een certificaat met betrekking tot een derde land reeds is uitgevoerd.
 
 ##### Artikel 6
 
-1. Voor werkzaamheden als bedoeld in deel I van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=C&z=2023-07-14&g=2023-09-26) bij deze regeling die binnen openingstijd worden verricht is de aanbieder een retributie verschuldigd, bestaande uit:
+1. Voor werkzaamheden als bedoeld in deel I van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=C&z=2024-01-01&g=2024-01-01) bij deze regeling die binnen openingstijd worden verricht is de aanbieder een retributie verschuldigd, bestaande uit:
 
-- a. een starttarief van € 78,21 en
+- a. een starttarief van € 123,59 en
 
-- b. een bedrag van € 39,10 per kwartier dat aan de werkzaamheden door een officiële dierenarts of een officiële assistent of een andere medewerker van de NVWA is besteed.
+- b. een bedrag van € 45,71 per kwartier dat aan de werkzaamheden door een officiële dierenarts of een officiële assistent of een andere medewerker van de NVWA is besteed.
 
-2. In aanvulling op het eerste lid is voor werkzaamheden als bedoeld in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=C&z=2023-07-14&g=2023-09-26), deel I, onderdeel f en g, bij deze regeling, een retributie verschuldigd die overeenkomt met de werkelijke kosten van derden die hiervoor door de NVWA zijn ingeschakeld.
+2. In aanvulling op het eerste lid is voor werkzaamheden als bedoeld in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=C&z=2024-01-01&g=2024-01-01), deel I, onderdeel f en g, bij deze regeling, een retributie verschuldigd die overeenkomt met de werkelijke kosten van derden die hiervoor door de NVWA zijn ingeschakeld.
 
-3. Het op grond van het eerste lid, voor werkzaamheden als bedoeld in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=C&z=2023-07-14&g=2023-09-26), deel I, onderdeel e, verschuldigde bedrag is verschuldigd in aanvulling op de retributie, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=7&z=2023-07-14&g=2023-09-26).
+3. Het op grond van het eerste lid, voor werkzaamheden als bedoeld in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=C&z=2024-01-01&g=2024-01-01), deel I, onderdeel e, verschuldigde bedrag is verschuldigd in aanvulling op de retributie, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=7&z=2024-01-01&g=2024-01-01).
 
-4. In aanvulling op het eerste en derde lid, is de aanbieder een retributie van € 143,07 verschuldigd voor werkzaamheden in verband met de verklaring bedoeld in artikel 3, tweede lid, onderdeel c, van [verordening (EU) 2019/2074](32074R2019).
+4. In aanvulling op het eerste en derde lid, is de aanbieder een retributie van € 192,57 verschuldigd voor werkzaamheden in verband met de verklaring bedoeld in artikel 3, tweede lid, onderdeel c, van [verordening (EU) 2019/2074](32074R2019).
 
 ##### Artikel 7
 
-1. Voor werkzaamheden als bedoeld in deel II van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=C&z=2023-07-14&g=2023-09-26) bij deze regeling is de aanbieder een retributie verschuldigd.
+1. Voor werkzaamheden als bedoeld in deel II van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=C&z=2024-01-01&g=2024-01-01) bij deze regeling is de aanbieder een retributie verschuldigd.
 
-2. Voor werkzaamheden die plaatsvinden op een werkdag tussen 06:00 uur en 23:00 uur bestaat de retributie, bedoeld in het eerste lid, uit een tarief van € 0,01486 per kg, onderscheidenlijk per kg levend gewicht als het levende producten betreft, met dien verstande dat voor elke ter keuring aangeboden partij ten minste € 89,16 en ten hoogste € 683,56 in rekening wordt gebracht.
+2. Voor werkzaamheden die plaatsvinden op een werkdag tussen 06:00 uur en 23:00 uur bestaat de retributie, bedoeld in het eerste lid, uit een tarief van € 0,01601 per kg, onderscheidenlijk per kg levend gewicht als het levende producten betreft, met dien verstande dat voor elke ter keuring aangeboden partij ten minste € 96,06 en ten hoogste € 736,46 in rekening wordt gebracht.
 
-3. Voor werkzaamheden die plaatsvinden tussen 23:00 uur en 06:00 uur of op een zaterdag, zondag of algemeen erkende feestdag bestaat de retributie, bedoeld in het eerste lid, uit een tarief van € 0,01930 per kg, onderscheidenlijk per kg levend gewicht als het levende producten betreft, met dien verstande dat voor elke ter keuring aangeboden partij ten minste € 115,80 en ten hoogste € 887,80 in rekening wordt gebracht.
+3. Voor werkzaamheden die plaatsvinden tussen 23:00 uur en 06:00 uur of op een zaterdag, zondag of algemeen erkende feestdag bestaat de retributie, bedoeld in het eerste lid, uit een tarief van € 0,02079 per kg, onderscheidenlijk per kg levend gewicht als het levende producten betreft, met dien verstande dat voor elke ter keuring aangeboden partij ten minste € 124,74 en ten hoogste € 956,34 in rekening wordt gebracht.
 
 4. In afwijking van het tweede lid bedraagt de maximale retributie voor een te controleren partij producten afkomstig van pluimvee, die vervoerd en aangeboden wordt als stukgoed:
 
-- a. € 1.265,85 per schip met een lading producten afkomstig van pluimvee tot 500 ton;
+- a. € 1.363,68 per schip met een lading producten afkomstig van pluimvee tot 500 ton;
 
-- b. € 2.531,73 per schip met een lading producten afkomstig van pluimvee tot 1.000 ton;
+- b. € 2.727,39 per schip met een lading producten afkomstig van pluimvee tot 1.000 ton;
 
-- c. € 5.063,50 per schip met een lading producten afkomstig van pluimvee tot 2.000 ton;
+- c. € 5.454,83 per schip met een lading producten afkomstig van pluimvee tot 2.000 ton;
 
-- d. € 7.605,65 per schip met een lading producten afkomstig van pluimvee vanaf 2.000 ton.
+- d. € 8.193,44 per schip met een lading producten afkomstig van pluimvee vanaf 2.000 ton.
 
-5. Voor werkzaamheden die plaatsvinden op een werkdag tussen 06:00 uur en 23:00 uur, bestaat de retributie, bedoeld in het eerste lid, uit een tarief van € 0,02513 per kg levend gewicht als het levende dieren betreft, met dien verstande dat voor elke ter keuring aangeboden partij ten minste € 150,79 en ten hoogste € 1.155,98 in rekening wordt gebracht.
+5. Voor werkzaamheden die plaatsvinden op een werkdag tussen 06:00 uur en 23:00 uur, bestaat de retributie, bedoeld in het eerste lid, uit een tarief van € 0,02765 per kg levend gewicht als het levende dieren betreft, met dien verstande dat voor elke ter keuring aangeboden partij ten minste € 165,92 en ten hoogste € 1.271,90 in rekening wordt gebracht.
 
-6. Voor werkzaamheden die plaatsvinden tussen 23:00 uur en 06:00 uur of op een zaterdag, zondag of algemeen erkende feestdag, bestaat de retributie, bedoeld in het eerste lid, uit een tarief van € 0,03267 per kg levend gewicht als het levende dieren betreft, met dien verstande dat voor elke ter keuring aangeboden partij ten minste € 196,03 en ten hoogste € 1.502,77 in rekening wordt gebracht.
+6. Voor werkzaamheden die plaatsvinden tussen 23:00 uur en 06:00 uur of op een zaterdag, zondag of algemeen erkende feestdag, bestaat de retributie, bedoeld in het eerste lid, uit een tarief van € 0,03595 per kg levend gewicht als het levende dieren betreft, met dien verstande dat voor elke ter keuring aangeboden partij ten minste € 215,70 en ten hoogste € 1.653,47 in rekening wordt gebracht.
 
 ##### Artikel 8
 
-Voor werkzaamheden als bedoeld in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=D&z=2023-07-14&g=2023-09-26) bij deze regeling die binnen openingstijd worden verricht is de aanbieder een retributie verschuldigd, bestaande uit:
+Voor werkzaamheden als bedoeld in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=D&z=2024-01-01&g=2024-01-01) bij deze regeling die binnen openingstijd worden verricht is de aanbieder een retributie verschuldigd, bestaande uit:
 
-- a. een starttarief van € 203,37, en
+- a. een starttarief van € 255,36, en
 
-- b. een bedrag van € 39,82 per kwartier.
+- b. een bedrag van € 45,49 per kwartier.
 
 ##### Artikel 9
 
-1. Voor werkzaamheden in verband met de meer uitgebreide officiële controles, bedoeld in [verordening (EU) 2019/1793](33693R2019), is de aanbieder een retributie verschuldigd ter hoogte van het bedrag, opgenomen in de tweede kolom van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=I&z=2023-07-14&g=2023-09-26), deel I, met betrekking tot het uitgevoerde laboratoriumonderzoek, genoemd in de eerste kolom van die bijlage, met inbegrip van en voor zover van toepassing, de kosten verbonden aan de met de voorbereiding en met de controle belaste personen van de NVWA en de kosten van laboratoriumonderzoek.
+1. Voor werkzaamheden in verband met de meer uitgebreide officiële controles, bedoeld in [verordening (EU) 2019/1793](32019R1793), is de aanbieder een retributie verschuldigd:
 
-2. De aanbieder is naast de ingevolge het eerste lid verschuldigde retributie een retributie verschuldigd gelijk aan het volledige bedrag behorende bij het in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=I&z=2023-07-14&g=2023-09-26), deel I, vermelde onderzoek, voor de controle van iedere zending die na eerder gecontroleerd te zijn in Nederland of in een andere lidstaat van de Europese Unie, aan de NVWA wordt aangeboden.
+- a. van € 391,27 voor de monstername, en
+
+- b. een bedrag ter hoogte van het bedrag, opgenomen in de tweede kolom van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=I&z=2024-01-01&g=2024-01-01), deel I, met betrekking tot elk uitgevoerd laboratoriumonderzoek, genoemd in de eerste kolom van die bijlage.
+
+2. De aanbieder is naast de ingevolge het eerste lid verschuldigde retributie een retributie verschuldigd gelijk aan het volledige bedrag behorende bij het in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=I&z=2024-01-01&g=2024-01-01), deel I, vermelde onderzoek, voor de controle van iedere zending die na eerder gecontroleerd te zijn in Nederland of in een andere lidstaat van de Europese Unie, aan de NVWA wordt aangeboden.
 
 3. In aanvulling op het eerste en tweede lid is de aanbieder een retributie verschuldigd van:
 
-- a. € 581,40 indien aanvullende inspecties nodig zijn naar aanleiding van de door de douane aangehouden of overgedragen zendingen;
+- a. € 666,25 indien aanvullende inspecties nodig zijn naar aanleiding van de door de douane aangehouden of overgedragen zendingen;
 
-- b. € 436,04 voor aanvullende werkzaamheden ten behoeve van monstername op andere controlepunten dan een grenscontrolepost.
+- b. € 499,69 voor aanvullende werkzaamheden ten behoeve van monstername op andere controlepunten dan een grenscontrolepost;
 
-- c. € 581,40 indien aanvullende inspecties nodig zijn naar aanleiding van doorgereden of zendingen die niet voor aangemeld zijn als bedoeld in artikel 58, onderdeel b, van [verordening (EU) 2017/625](32525R2017);
+- c. € 666,25 indien aanvullende inspecties nodig zijn naar aanleiding van doorgereden of zendingen die niet voor aangemeld zijn als bedoeld in artikel 58, onderdeel b, van [verordening (EU) 2017/625](32525R2017);
 
-- d. een bedrag van € 581,40 voor werkzaamheden als bedoeld in artikel 68, tweede lid, van [verordening (EU) 2017/625](32525R2017).
+- d. € 666,25 voor werkzaamheden als bedoeld in artikel 68, tweede lid, van [verordening (EU) 2017/625](32525R2017);
+
+- e. € 83,28 voor de verklaring die in het kader van de wederzijdse toestemming, bedoeld in artikel 71, tweede lid, onderdeel b, van [verordening (EU) 2017/625](32017R0625) aan de bevoegde autoriteit van de lidstaat van wie de behandeling van de zending is overgenomen, is verstrekt.
 
 ##### Artikel 10
 
-1. Voor de post mortem keuringswerkzaamheden, bedoeld in artikel 18 van verordening (EU) 2017/625 en de daarop gebaseerde gedelegeerde handelingen en uitvoeringshandelingen van de Europese Commissie, ter zake van als landbouwhuisdier gehouden hoefdieren als bedoeld in bijlage I, onderdeel 1.2, van [verordening (EG) nr. 853/2004](32004R0853), verricht door een officiële assistent in het kader van de uitvoering van het Convenant Roodvleeskeuring, is de aanbieder een retributie verschuldigd, bestaande uit een bedrag van € 17,05 per kwartier dat aan de keuring door deze officiële assistent is besteed, vermeerderd met:
+1. Voor de post mortem keuringswerkzaamheden, bedoeld in artikel 18 van verordening (EU) 2017/625 en de daarop gebaseerde gedelegeerde handelingen en uitvoeringshandelingen van de Europese Commissie, ter zake van als landbouwhuisdier gehouden hoefdieren als bedoeld in bijlage I, onderdeel 1.2, van [verordening (EG) nr. 853/2004](32004R0853), verricht door een officiële assistent in het kader van de uitvoering van het Convenant Roodvleeskeuring, is de aanbieder een retributie verschuldigd, bestaande uit een bedrag van € 20,37 per kwartier dat aan de keuring door deze officiële assistent is besteed, vermeerderd met:
 
-- a. een starttarief van € 79,63 indien in een slachthuis 250 grootvee-eenheden of minder per kwartaal worden behandeld;
+- a. een starttarief van € 52,07 indien in een slachthuis 250 grootvee-eenheden of minder per kwartaal worden behandeld;
 
-- b. een starttarief van € 37,66 indien in een slachthuis meer dan 250 grootvee-eenheden per kwartaal worden behandeld.
+- b. een starttarief van € 34,00 indien in een slachthuis meer dan 250 grootvee-eenheden per kwartaal worden behandeld.
 
 2. Een aanbieder meldt zich, indien hij met ingang van het komende kwartaal tot een andere tariefgroep behoort dan het kwartaal daaraan voorafgaand, een maand voor de aanvang van het komende kalenderkwartaal aan bij de NVWA.
 
-3. Ingeval het aantal behandelde grootvee-eenheden in een kalenderkwartaal afwijkt van de aantallen grootvee-eenheden, behorende bij het tarief waarvoor de aanbieder zich heeft gemeld, dan wel behorende bij het tarief dat van toepassing is als de aanbieder zich niet heeft gemeld, is de aanbieder, naast het tarief behorend bij het aantal daadwerkelijk behandelde grootvee-eenheden, een aanvullende retributie van € 30,33 per locatie per dag dat is geslacht verschuldigd.
+3. Ingeval het aantal behandelde grootvee-eenheden in een kalenderkwartaal afwijkt van de aantallen grootvee-eenheden, behorende bij het tarief waarvoor de aanbieder zich heeft gemeld, dan wel behorende bij het tarief dat van toepassing is als de aanbieder zich niet heeft gemeld, is de aanbieder, naast het tarief behorend bij het aantal daadwerkelijk behandelde grootvee-eenheden, een aanvullende retributie van € 33,90 per locatie per dag dat is geslacht verschuldigd.
 
 4. Ingeval het derde lid van toepassing is en de aanbieder op basis van de aanmelding, bedoeld in het tweede lid, of vanwege het ontbreken van een aanmelding, een hogere retributie zou zijn verschuldigd dan de retributie die hij is verschuldigd voor het tarief behorend bij het daadwerkelijk aantal behandelde grootvee-eenheden, dan bedraagt de som van de laatstgenoemde retributie en de aanvullende retributie, bedoeld in het derde lid, niet meer dan de eerstgenoemde hogere retributie.
 
 ##### Artikel 11
 
-1. Naast de retributie, bedoeld in de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=3&z=2023-07-14&g=2023-09-26) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=4&z=2023-07-14&g=2023-09-26), voor zover die betrekking heeft op werkzaamheden als bedoeld in onderdeel a van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=A&z=2023-07-14&g=2023-09-26) bij deze regeling, is de aanbieder, bedoeld in dit artikel, een retributie verschuldigd van € 1,57 per ton geslacht gewicht voor de controles in het kader van het Nationaal Plan Residuen uit hoofde van artikel 109, eerste lid, van verordening (EU) 2017/625.
+1. Naast de retributie, bedoeld in de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=4&z=2024-01-01&g=2024-01-01), voor zover die betrekking heeft op werkzaamheden als bedoeld in onderdeel a van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=A&z=2024-01-01&g=2024-01-01) bij deze regeling, is de aanbieder, bedoeld in dit artikel, een retributie verschuldigd van € 1,55 per ton geslacht gewicht voor de controles in het kader van het Nationaal Plan Residuen uit hoofde van artikel 109, eerste lid, van verordening (EU) 2017/625.
 
 2. Voor de toepassing van het eerste lid geldt als geslacht gewicht:
 
-- a. het toepasselijke geslacht gewicht, genoemd in [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=G&z=2023-07-14&g=2023-09-26) bij deze regeling, of
+- a. het toepasselijke geslacht gewicht, genoemd in [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=G&z=2024-01-01&g=2024-01-01) bij deze regeling, of
 
 - b. het gewicht dat is bepaald op basis van weging van het desbetreffende karkas aan de hand van een meetinstrument dat voldoet aan de eisen die daaraan bij of krachtens [artikel 5 van de Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=5) zijn gesteld.
 
@@ -258,49 +266,45 @@ Voor werkzaamheden als bedoeld in [bijlage D](https://wetten.overheid.nl/jci1.3:
 
 ##### Artikel 12
 
-1. De aanvrager van een herkeuring, bedoeld in [artikel 2.9 van de Regeling dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&artikel=2.9), is een retributie verschuldigd, bestaande uit een bedrag van € 349,77.
+1. De aanvrager van een herkeuring, bedoeld in [artikel 2.9 van de Regeling dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&artikel=2.9), is een retributie verschuldigd, bestaande uit een bedrag van € 398,60.
 
 2. De retributie, bedoeld in het eerste lid, is niet verschuldigd als de oorspronkelijke keuringsbeslissing niet in stand wordt gelaten.
 
 ##### Artikel 13
 
-1. Voor de behandeling en afhandeling van de volgende aanvragen is de aanvrager, dan wel diens vertegenwoordiger, een retributie verschuldigd, bestaande uit een bedrag van € 233,18 per aanvraag:
+1. Voor de behandeling en afhandeling van de volgende aanvragen is de aanvrager, dan wel diens vertegenwoordiger, een retributie verschuldigd, bestaande uit een bedrag van € 265,73 per aanvraag:
 
 - a. een aanvraag tot toestemming voor vervoer naar een andere installatie als bedoeld in bijlage IV, hoofdstuk IV, afdeling 2, onderdeel F, van [verordening (EG) nr. 142/2011](32011R0142);
 
 - b. een aanvraag tot vergunning voor de invoer van levende producten of producten van dierlijke oorsprong, bestemd voor gebruik als handelsmonster, voorschreven bij gedelegeerde handeling van de Europese Commissie op grond van artikel 239, tweede lid, aanhef en onderdeel c, onder i, van verordening (EU) 2016/429;
 
-- c. een aanvraag tot toestemming vereist op grond van een communautaire maatregel krachtens artikel 48, onder a, van verordening (EU) 2017/625;
-
-- d. de behandeling en afhandeling van een aanvraag tot toestemming als bedoeld in [verordening (EG) nr. 1069/2009](32009R1069) of [verordening (EG) nr. 142/2011](32011R0142), met uitzondering van de aanvraag tot toestemming voor invoer in Nederland als bedoeld in artikel 48, eerste lid, van [verordening (EG) nr. 1069/2009](32009R1069) en de werkzaamheden, bedoeld in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=D&z=2023-07-14&g=2023-09-26), onderdeel o.
+- c. een aanvraag tot toestemming vereist op grond van een communautaire maatregel krachtens artikel 48, onder a, van verordening (EU) 2017/625.
 
 2. Voor de behandeling en afhandeling van een aanvraag tot toestemming voor de verzending van andere lidstaten naar Nederland van dierlijke bijproducten of afgeleide producten als bedoeld in artikel 48, eerste lid, van verordening (EG) nr. 1069/2009 is de aanvrager, dan wel diens vertegenwoordiger, een retributie verschuldigd van:
 
-- a. € 64,67 voor de verzending van mest bestemd voor het uitrijden op Nederlands grondgebied;
+- a. € 79,72 voor de verzending van mest bestemd voor het uitrijden op Nederlands grondgebied;
 
-- b. € 64,67 voor de verzending van kadavers van gezelschapsdieren en paardachtigen bestemd voor crematie in Nederland;
+- b. € 79,72 voor de verzending van kadavers van gezelschapsdieren en paardachtigen bestemd voor crematie in Nederland;
 
-- c. € 58,29 voor de behandeling en afhandeling van overige aanvragen dan bedoeld in het eerste en tweede lid.
+- c. € 66,43 voor de behandeling en afhandeling van overige aanvragen dan bedoeld in het eerste en tweede lid.
 
 ##### Artikel 14
 
-1. Voor de behandeling en afhandeling door de NVWA van een aanvraag tot verlening van een vergunning voor een vervoerder als bedoeld in artikel 10, onderscheidenlijk 11 van [verordening (EG) nr. 1/2005](32005R0001) is de aanvrager, dan wel diens vertegenwoordiger, een retributie verschuldigd, bestaande uit een bedrag van € 52,16.
+1. Voor de behandeling en afhandeling door de NVWA van een aanvraag tot verlening van een vergunning voor een vervoerder als bedoeld in artikel 10, onderscheidenlijk 11 van [verordening (EG) nr. 1/2005](32005R0001) is de aanvrager, dan wel diens vertegenwoordiger, een retributie verschuldigd, bestaande uit een bedrag van € 59,94.
 
-2. Voor de behandeling en afhandeling door de NVWA van een wijziging van de in artikel 10, tweede lid, onderscheidenlijk 11, eerste lid, van [verordening (EG) nr. 1/2005](32005R0001) bedoelde informatie en documenten, overeenkomstig artikel 6, tweede lid, van [verordening (EG) nr. 1/2005](32005R0001) is de vervoerder, bedoeld in artikel 6, eerste lid, van [verordening (EG) nr. 1/2005](32005R0001), een retributie verschuldigd, bestaande uit een bedrag van € 51,34.
+2. Voor de behandeling en afhandeling door de NVWA van een wijziging van de in artikel 10, tweede lid, onderscheidenlijk 11, eerste lid, van [verordening (EG) nr. 1/2005](32005R0001) bedoelde informatie en documenten, overeenkomstig artikel 6, tweede lid, van [verordening (EG) nr. 1/2005](32005R0001) is de vervoerder, bedoeld in artikel 6, eerste lid, van [verordening (EG) nr. 1/2005](32005R0001), een retributie verschuldigd, bestaande uit een bedrag van € 59,94.
 
-3. Voor een aanvraag om ontheffing van regels over identificatie en registratie van dieren is de aanvrager een retributie verschuldigd van € 72,18.
+3. Voor een aanvraag om ontheffing van regels over identificatie en registratie van dieren is de aanvrager een retributie verschuldigd van € 79,72.
 
 ##### Artikel 15
 
-1. Een retributie van € 54,90 is verschuldigd door degene die een aanvraag indient tot een registratie dan wel tot een wijziging van deze registratie als bedoeld in:
+1. Een retributie van € 66,43 is verschuldigd door degene die een aanvraag indient tot een registratie dan wel tot een wijziging van deze registratie als bedoeld in:
 
 - a. [artikel 14 van de Regeling diervoeders 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&artikel=14);
 
-- b. artikel 23 van [verordening (EG) nr. 1069/2009](32009R1069), of voor;
+- b. artikel 23 van [verordening (EG) nr. 1069/2009](32009R1069).
 
-- c. de behandeling en afhandeling van een toestemming, registratie of goedkeuring op grond van artikel 7 of bijlage IV van [verordening (EG) 999/2001](32001R0999), met uitzondering van de werkzaamheden, bedoeld in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=D&z=2023-07-14&g=2023-09-26), onderdeel q.
-
-2. Een retributie van € 51,34 is verschuldigd door degene die een aanvraag indient tot een registratie dan wel tot een wijziging van deze registratie als bedoeld in:
+2. Een retributie van € 59,94 is verschuldigd door degene die een aanvraag indient tot een registratie dan wel tot een wijziging van deze registratie als bedoeld in:
 
 - a. artikel 84, eerste en tweede lid, van [verordening (EU) 2016/429](32329R2016), van inrichtingen waar levende producten worden gewonnen, geproduceerd, behandeld of opgeslagen die uitsluitend zijn bestemd voor de nationale markt ten behoeve van kunstmatige inseminatie;
 
@@ -308,7 +312,7 @@ Voor werkzaamheden als bedoeld in [bijlage D](https://wetten.overheid.nl/jci1.3:
 
 ##### Artikel 16
 
-Voor de afgifte van het document, bedoeld in artikel 56, derde lid, onderdeel b, onder i, van verordening (EU) 2017/625 voor diervoeders van niet-dierlijke oorsprong als bedoeld in artikel 47, eerste lid, onderdeel d, e en f van [verordening (EU) 2017/625](32525R2017), wordt een retributie van € 39,10 in rekening gebracht.
+Voor de afgifte van het document, bedoeld in artikel 56, derde lid, onderdeel b, onder i, van verordening (EU) 2017/625 voor diervoeders van niet-dierlijke oorsprong als bedoeld in artikel 47, eerste lid, onderdeel d, e en f van [verordening (EU) 2017/625](32525R2017), wordt een retributie van € 45,71 in rekening gebracht.
 
 ##### Artikel 17
 
@@ -338,11 +342,11 @@ Vervallen
 
 ##### Artikel 20
 
-1. In de volgende gevallen is de aanbieder, naast de ingevolge de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=3&z=2023-07-14&g=2023-09-26), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=4&z=2023-07-14&g=2023-09-26), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=5&z=2023-07-14&g=2023-09-26), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=5a&z=2023-07-14&g=2023-09-26), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=6&z=2023-07-14&g=2023-09-26) verschuldigde retributies, een extra retributie verschuldigd:
+1. In de volgende gevallen is de aanbieder, naast de ingevolge de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=4&z=2024-01-01&g=2024-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=5&z=2024-01-01&g=2024-01-01), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=5a&z=2024-01-01&g=2024-01-01), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=6&z=2024-01-01&g=2024-01-01) verschuldigde retributies, een extra retributie verschuldigd:
 
-- a. de werkzaamheden zijn later aangemeld dan op het van toepassing zijnde tijdstip, genoemd in [artikel 26, eerste, tweede, derde, onderscheidenlijk vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=4&artikel=26&z=2023-07-14&g=2023-09-26);
+- a. de werkzaamheden zijn later aangemeld dan op het van toepassing zijnde tijdstip, genoemd in [artikel 26, eerste, tweede, derde, onderscheidenlijk vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=4&artikel=26&z=2024-01-01&g=2024-01-01);
 
-- b. de werkzaamheden nemen naar het oordeel van de aanwezige medewerker van de NVWA meer tijd in beslag dan is aangemeld op grond van [artikel 27, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=4&artikel=27&z=2023-07-14&g=2023-09-26);
+- b. de werkzaamheden nemen naar het oordeel van de aanwezige medewerker van de NVWA meer tijd in beslag dan is aangemeld op grond van [artikel 27, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=4&artikel=27&z=2024-01-01&g=2024-01-01);
 
 - c. de werkzaamheden vinden, op verzoek van de aanbieder, buiten openingstijd plaats;
 
@@ -350,43 +354,43 @@ Vervallen
 
 2. De extra retributie, bedoeld in het eerste lid, onderdelen a en c, bedraagt per kwartier dat de te laat aangemelde werkzaamheden duren, onderscheidenlijk buiten openingstijd plaatsvinden:
 
-- a. € 11,77 voor de werkzaamheden, bedoeld in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=A&z=2023-07-14&g=2023-09-26) bij deze regeling;
+- a. € 13,55 voor de werkzaamheden, bedoeld in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=A&z=2024-01-01&g=2024-01-01) bij deze regeling;
 
-- b. € 13,31 voor de werkzaamheden, bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=B&z=2023-07-14&g=2023-09-26), deel I bij deze regeling;
+- b. € 16,06 voor de werkzaamheden, bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=B&z=2024-01-01&g=2024-01-01), deel I bij deze regeling;
 
-- c. € 16,05 voor de werkzaamheden, bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=B&z=2023-07-14&g=2023-09-26), deel II bij deze regeling;
+- c. € 19,61 voor de werkzaamheden, bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=B&z=2024-01-01&g=2024-01-01), deel II bij deze regeling;
 
-- d. € 11,73 voor de werkzaamheden, bedoeld in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=C&z=2023-07-14&g=2023-09-26), deel I bij deze regeling.
+- d. € 13,71 voor de werkzaamheden, bedoeld in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=C&z=2024-01-01&g=2024-01-01), deel I bij deze regeling.
 
-3. De extra retributie, bedoeld in het eerste lid, onderdelen b en d, bedraagt per kwartier dat de werkzaamheden langer duren dan is aangemeld, de onderbreking onderscheidenlijk het uitstel voor de met de werkzaamheden belaste persoon heeft geduurd, onderscheidenlijk zouden hebben geduurd indien zij zouden zijn verricht door de persoon die met de desbetreffende werkzaamheden naar het oordeel van de minister, blijkens de melding, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=4&artikel=26&z=2023-07-14&g=2023-09-26), zou zijn belast:
+3. De extra retributie, bedoeld in het eerste lid, onderdelen b en d, bedraagt per kwartier dat de werkzaamheden langer duren dan is aangemeld, de onderbreking onderscheidenlijk het uitstel voor de met de werkzaamheden belaste persoon heeft geduurd, onderscheidenlijk zouden hebben geduurd indien zij zouden zijn verricht door de persoon die met de desbetreffende werkzaamheden naar het oordeel van de minister, blijkens de melding, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=4&artikel=26&z=2024-01-01&g=2024-01-01), zou zijn belast:
 
-- a. € 39,23 voor de werkzaamheden, bedoeld in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=A&z=2023-07-14&g=2023-09-26) bij deze regeling;
+- a. € 45,15 voor de werkzaamheden, bedoeld in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=A&z=2024-01-01&g=2024-01-01) bij deze regeling;
 
-- b. € 44,35 voor de werkzaamheden, bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=B&z=2023-07-14&g=2023-09-26), deel I bij deze regeling;
+- b. € 53,54 voor de werkzaamheden, bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=B&z=2024-01-01&g=2024-01-01), deel I bij deze regeling;
 
-- c. € 53,51 voor de werkzaamheden, bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=B&z=2023-07-14&g=2023-09-26), deel II bij deze regeling;
+- c. € 65,37 voor de werkzaamheden, bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=B&z=2024-01-01&g=2024-01-01), deel II bij deze regeling;
 
-- d. € 39,10 voor de werkzaamheden, bedoeld in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=C&z=2023-07-14&g=2023-09-26), deel I bij deze regeling.
+- d. € 45,71 voor de werkzaamheden, bedoeld in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=C&z=2024-01-01&g=2024-01-01), deel I bij deze regeling.
 
-4. Indien het een slachthuis betreft als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=4&z=2023-07-14&g=2023-09-26), bedraagt, in afwijking van het tweede en derde lid, de extra retributie voor de werkzaamheden als bedoeld in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=A&z=2023-07-14&g=2023-09-26), onderdeel a:
+4. Indien het een slachthuis betreft als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=4&z=2024-01-01&g=2024-01-01), bedraagt, in afwijking van het tweede en derde lid, de extra retributie voor de werkzaamheden als bedoeld in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=A&z=2024-01-01&g=2024-01-01), onderdeel a:
 
-- a. € 22,10 in de gevallen, bedoeld in het eerste lid, onderdelen a, b en d;
+- a. € 23,40 in de gevallen, bedoeld in het eerste lid, onderdelen a, b en d;
 
 - b. € 57,03 per kwartier, indien de werkzaamheden, op verzoek van de aanbieder, buiten openingstijd plaatsvinden.
 
-5. Indien het een slachthuis betreft als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=4&z=2023-07-14&g=2023-09-26), bedraagt, in afwijking van het tweede lid de extra retributie voor werkzaamheden als bedoeld in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=A&z=2023-07-14&g=2023-09-26), onderdeel a:
+5. Indien het een slachthuis betreft als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=4&z=2024-01-01&g=2024-01-01), bedraagt, in afwijking van het tweede en derde lid de extra retributie voor werkzaamheden als bedoeld in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=A&z=2024-01-01&g=2024-01-01), onderdeel a:
 
-- a. € 46,39 per kwartier, in de gevallen, bedoeld in het eerste lid, onderdelen b en d;
+- a. € 65,26 per kwartier, in de gevallen, bedoeld in het eerste lid, onderdelen b en d;
 
-- b. € 13,92 per kwartier, in de gevallen, bedoeld in het eerste lid, onderdelen a en c.
+- b. € 19,58 per kwartier, in de gevallen, bedoeld in het eerste lid, onderdelen a en c.
 
-6. Indien het een slachthuis betreft als bedoeld in [artikel 4, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=4&z=2023-07-14&g=2023-09-26), bedraagt in afwijking van het tweede lid de extra retributie voor werkzaamheden als bedoeld in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=A&z=2023-07-14&g=2023-09-26), onderdeel a:
+6. Indien het een slachthuis betreft als bedoeld in [artikel 4, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=4&z=2024-01-01&g=2024-01-01), bedraagt in afwijking van het tweede en derde lid de extra retributie voor werkzaamheden als bedoeld in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=A&z=2024-01-01&g=2024-01-01), onderdeel a:
 
-- a. € 46,39 per kwartier, in de gevallen, bedoeld in het eerste lid, onderdelen b en d;
+- a. € 65,26 per kwartier, in de gevallen, bedoeld in het eerste lid, onderdelen b en d;
 
-- b. € 13,92 per kwartier, in de gevallen, bedoeld in het eerste lid, onderdelen a en c.
+- b. € 19,58 per kwartier, in de gevallen, bedoeld in het eerste lid, onderdelen a en c.
 
-7. Het eerste lid is niet van toepassing indien de melding, bedoeld in [artikel 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=4&artikel=27&z=2023-07-14&g=2023-09-26), tijdig is gedaan.
+7. Het eerste lid is niet van toepassing indien de melding, bedoeld in [artikel 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=4&artikel=27&z=2024-01-01&g=2024-01-01), tijdig is gedaan.
 
 ##### Artikel 21
 
@@ -394,9 +398,9 @@ Vervallen
 
 ##### Artikel 22
 
-1. In de volgende gevallen is de aanbieder, naast de ingevolge [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=10&z=2023-07-14&g=2023-09-26) verschuldigde retributies, een extra retributie verschuldigd:
+1. In de volgende gevallen is de aanbieder, naast de ingevolge [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=10&z=2024-01-01&g=2024-01-01) verschuldigde retributies, een extra retributie verschuldigd:
 
-- a. de werkzaamheden van de officiële assistent, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=10&z=2023-07-14&g=2023-09-26), overschrijden de duur waarvoor de werkzaamheden overeenkomstig [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=4&artikel=26&z=2023-07-14&g=2023-09-26) zijn aangevraagd met ten minste een kwartier;
+- a. de werkzaamheden van de officiële assistent, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=10&z=2024-01-01&g=2024-01-01), overschrijden de duur waarvoor de werkzaamheden overeenkomstig [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=4&artikel=26&z=2024-01-01&g=2024-01-01) zijn aangevraagd met ten minste een kwartier;
 
 - b. de werkzaamheden worden onderbroken of uitgesteld, onderscheidenlijk vinden geheel of gedeeltelijk niet plaats, door omstandigheden buiten toedoen van de met de werkzaamheden belaste persoon of personen;
 
@@ -404,21 +408,21 @@ Vervallen
 
 - d. de werkzaamheden worden uitgevoerd door elkaar opvolgende, in tweeploegendienst werkende, ploegen.
 
-2. De extra retributie, bedoeld in het eerste lid, onderdelen a en b, bedraagt € 17,05 per kwartier dat de werkzaamheden langer duren nadat de duur waarvoor zij zijn aangemeld met ten minste een kwartier is overschreden, de onderbreking onderscheidenlijk het uitstel voor de met de werkzaamheden belaste persoon heeft geduurd, onderscheidenlijk zouden hebben geduurd indien zij zouden zijn verricht door de persoon die met de desbetreffende werkzaamheden zou zijn belast.
+2. De extra retributie, bedoeld in het eerste lid, onderdelen a en b, bedraagt € 20,37 per kwartier dat de werkzaamheden langer duren nadat de duur waarvoor zij zijn aangemeld met ten minste een kwartier is overschreden, de onderbreking onderscheidenlijk het uitstel voor de met de werkzaamheden belaste persoon heeft geduurd, onderscheidenlijk zouden hebben geduurd indien zij zouden zijn verricht door de persoon die met de desbetreffende werkzaamheden zou zijn belast.
 
-3. De extra retributie, bedoeld in het eerste lid, onderdeel c, bedraagt per kwartier dat door de officiële assistent, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=10&z=2023-07-14&g=2023-09-26), aan deze werkzaamheden is besteed:
+3. De extra retributie, bedoeld in het eerste lid, onderdeel c, bedraagt per kwartier dat door de officiële assistent, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=10&z=2024-01-01&g=2024-01-01), aan deze werkzaamheden is besteed:
 
-- a. € 1,95, indien deze werkzaamheden plaatsvinden op werkdagen tussen 18:00 uur en 22:00 uur;
+- a. € 2,29, indien deze werkzaamheden plaatsvinden op werkdagen tussen 18:00 uur en 22:00 uur;
 
-- b. € 3,92, indien deze werkzaamheden plaatsvinden op werkdagen tussen 22:00 uur 0:00 uur;
+- b. € 4,59, indien deze werkzaamheden plaatsvinden op werkdagen tussen 22:00 uur 0:00 uur;
 
-- c. € 3,92, indien deze werkzaamheden plaatsvinden op werkdagen tussen 0:00 uur en 06:00 uur
+- c. € 4,59, indien deze werkzaamheden plaatsvinden op werkdagen tussen 0:00 uur en 06:00 uur
 
-- d. € 6,86, indien deze werkzaamheden op verzoek van de aanbieder plaatsvinden op een zaterdag of zondag;
+- d. € 8,06, indien deze werkzaamheden op verzoek van de aanbieder plaatsvinden op een zaterdag of zondag;
 
-- e. € 9,79, indien deze werkzaamheden op verzoek van de aanbieder plaatsvinden op een algemeen erkende feestdag.
+- e. € 11,50, indien deze werkzaamheden op verzoek van de aanbieder plaatsvinden op een algemeen erkende feestdag.
 
-4. De extra retributie, bedoeld in het eerste lid, onderdeel d, is gebaseerd op de daadwerkelijke extra kosten per kwartier dat door de officiële assistent, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=10&z=2023-07-14&g=2023-09-26), aan de werkzaamheden is besteed.
+4. De extra retributie, bedoeld in het eerste lid, onderdeel d, is gebaseerd op de daadwerkelijke extra kosten per kwartier dat door de officiële assistent, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=10&z=2024-01-01&g=2024-01-01), aan de werkzaamheden is besteed.
 
 5. Indien sprake is van een situatie als bedoeld in het eerste lid, onderdeel d, dan geldt bij de toepassing van het eerste lid, onderdeel a en b, een verhoging van de extra retributie, bedoeld in het tweede lid, met de retributies gebaseerd op de daadwerkelijke extra kosten, bedoeld in het vierde lid, en zijn de retributies, bedoeld in het derde lid, onderdelen a tot en met c, niet van toepassing.
 
@@ -430,9 +434,9 @@ Indien op grond van deze regeling een starttarief verschuldigd is, wordt dit in 
 
 ##### Artikel 24
 
-1. Indien één aanvraag, voor het verrichten van werkzaamheden op één dag, wordt ingediend overeenkomstig [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=4&artikel=26&z=2023-07-14&g=2023-09-26), ten behoeve van meerdere aanbieders, actief op verschillende locaties of actief op eenzelfde locatie, binnen een aaneengesloten periode, reguliere pauzes daaronder begrepen, en de werkzaamheden worden door een zelfde dierenarts of een zelfde officiële assistent dienovereenkomstig verricht, wordt uitsluitend aan de aanbieder die de werkzaamheden heeft aangevraagd, in rekening gebracht:
+1. Indien één aanvraag, voor het verrichten van werkzaamheden op één dag, wordt ingediend overeenkomstig [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=4&artikel=26&z=2024-01-01&g=2024-01-01), ten behoeve van meerdere aanbieders, actief op verschillende locaties of actief op eenzelfde locatie, binnen een aaneengesloten periode, reguliere pauzes daaronder begrepen, en de werkzaamheden worden door een zelfde dierenarts of een zelfde officiële assistent dienovereenkomstig verricht, wordt uitsluitend aan de aanbieder die de werkzaamheden heeft aangevraagd, in rekening gebracht:
 
-- a. in afwijking van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=3&artikel=23&z=2023-07-14&g=2023-09-26) eenmaal het starttarief dat voor de desbetreffende werkzaamheden op grond van deze regeling is verschuldigd;
+- a. in afwijking van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=3&artikel=23&z=2024-01-01&g=2024-01-01) eenmaal het starttarief dat voor de desbetreffende werkzaamheden op grond van deze regeling is verschuldigd;
 
 - b. het bedrag per kwartier dat voor de desbetreffende werkzaamheden op grond van deze regeling is verschuldigd, en
 
@@ -440,33 +444,33 @@ Indien op grond van deze regeling een starttarief verschuldigd is, wordt dit in 
 
 2. Voor de reistijd, bedoeld in het eerste lid, onderdeel c, wordt per vijftien minuten het bedrag in rekening gebracht dat op grond van deze regeling is verschuldigd voor de desbetreffende werkzaamheden, die plaatsvinden op de locatie van bestemming.
 
-3. Indien de in het eerste lid bedoelde aanbieder die de werkzaamheden heeft aangevraagd, een slachthuis is dat niet meer behandelt dan 125 grootvee-eenheden dan wel 250 grootvee-eenheden per kwartaal, wordt het slachthuis voor de in het eerste lid bedoelde werkzaamheden, in afwijking van het eerste lid en in afwijking van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=3&artikel=23&z=2023-07-14&g=2023-09-26), een retributie in rekening gebracht die gelijk is aan de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=3&z=2023-07-14&g=2023-09-26) bedoelde retributie.
+3. Indien de in het eerste lid bedoelde aanbieder die de werkzaamheden heeft aangevraagd, een slachthuis is dat niet meer behandelt dan 125 grootvee-eenheden dan wel 250 grootvee-eenheden per kwartaal, wordt het slachthuis voor de in het eerste lid bedoelde werkzaamheden, in afwijking van het eerste lid en in afwijking van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=3&artikel=23&z=2024-01-01&g=2024-01-01), een retributie in rekening gebracht die gelijk is aan de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01) bedoelde retributie.
 
 #### § 3. Retribuering starttarieven
 
 ##### Artikel 25
 
-Indien op één locatie, op één dag, binnen een aaneengesloten periode, reguliere pauzes daaronder begrepen, verschillende soorten werkzaamheden ten behoeve van één aanbieder worden verricht door een zelfde officiële dierenarts of een zelfde officiële assistent en voor deze werkzaamheden op grond van deze regeling starttarieven zijn verschuldigd, wordt de aanbieder, in afwijking van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=3&artikel=23&z=2023-07-14&g=2023-09-26), alleen het starttarief voor de eerst aangevraagde werkzaamheid in rekening gebracht.
+Indien op één locatie, op één dag, binnen een aaneengesloten periode, reguliere pauzes daaronder begrepen, verschillende soorten werkzaamheden ten behoeve van één aanbieder worden verricht door een zelfde officiële dierenarts of een zelfde officiële assistent en voor deze werkzaamheden op grond van deze regeling starttarieven zijn verschuldigd, wordt de aanbieder, in afwijking van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=3&artikel=23&z=2024-01-01&g=2024-01-01), alleen het starttarief voor de eerst aangevraagde werkzaamheid in rekening gebracht.
 
 ##### Artikel 26
 
 1. De aanbieder meldt de werkzaamheden die hij wenst te laten verrichten, schriftelijk bij de NVWA, uiterlijk vóór 08:00 uur op de werkdag voorafgaand aan de dag van de voorgenomen uitvoering van de werkzaamheden zoals deze zijn aangemeld.
 
-2. In afwijking van het eerste lid, meldt de aanbieder de werkzaamheden, bedoeld in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=C&z=2023-07-14&g=2023-09-26) bij deze regeling, die hij door de officiële dierenartsen of officiële assistenten wenst te laten verrichten, schriftelijk bij de NVWA, uiterlijk vóór 14.00 uur op de werkdag voorafgaand aan de dag van de voorgenomen uitvoering van de werkzaamheden zoals deze zijn aangemeld.
+2. In afwijking van het eerste lid, meldt de aanbieder de werkzaamheden, bedoeld in [artikel 7c](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=7c&z=2024-01-01&g=2024-01-01) en [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=C&z=2024-01-01&g=2024-01-01) bij deze regeling, die hij door de officiële dierenartsen of officiële assistenten wenst te laten verrichten, schriftelijk bij de NVWA, uiterlijk vóór 14.00 uur op de werkdag voorafgaand aan de dag van de voorgenomen uitvoering van de werkzaamheden zoals deze zijn aangemeld.
 
 3. In afwijking van het eerste en tweede lid, meldt de aanbieder de werkzaamheden die hij op een zaterdag, zondag, algemeen erkende feestdag, onderscheidenlijk op een werkdag tussen 18.00 uur en 06.00 uur wenst te laten verrichten, schriftelijk bij de NVWA, uiterlijk twee weken vóór de werkdag voorafgaand aan de dag van de voorgenomen uitvoering van de werkzaamheden zoals deze zijn aangemeld.
 
-4. De aanbieder meldt de werkzaamheden, bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=B&z=2023-07-14&g=2023-09-26), deel III, onderdeel b bij deze regeling, schriftelijk bij de NVWA, uiterlijk:
+4. De aanbieder meldt de werkzaamheden, bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=B&z=2024-01-01&g=2024-01-01), deel III, onderdeel b bij deze regeling, schriftelijk bij de NVWA, uiterlijk:
 
-- a. vóór 14:00 uur op de tweede werkdag voorafgaand aan de dag van transport die bij de aanvraag is vermeld voor producten die genoemd zijn in [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=H&z=2023-07-14&g=2023-09-26),
+- a. vóór 14:00 uur op de tweede werkdag voorafgaand aan de dag van transport die bij de aanvraag is vermeld voor producten die genoemd zijn in [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=H&z=2024-01-01&g=2024-01-01),
 
-- b. vóór 14:00 uur op de derde werkdag voorafgaand aan de dag van transport die bij de aanvraag is vermeld voor producten die niet genoemd zijn in [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=H&z=2023-07-14&g=2023-09-26).
+- b. vóór 14:00 uur op de derde werkdag voorafgaand aan de dag van transport die bij de aanvraag is vermeld voor producten die niet genoemd zijn in [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=H&z=2024-01-01&g=2024-01-01).
 
 5. In de volgende gevallen zullen de aangevraagde werkzaamheden niet worden uitgevoerd op de daartoe aangevraagde dag, en dient de aanbieder voor de uitvoering van die werkzaamheden een nieuwe aanvraag in te dienen:
 
 - a. de werkzaamheden, bedoeld in het eerste, tweede, derde, onderscheidenlijk vierde lid, zijn later aangemeld dan de werkdag en het tijdstip, bedoeld in het eerste, tweede, derde, onderscheidenlijk vierde lid;
 
-- b. de werkzaamheden, bedoeld in het eerste, tweede, onderscheidenlijk derde lid, nemen meer tijd in beslag dan is aangemeld op grond van [artikel 27, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=4&artikel=27&z=2023-07-14&g=2023-09-26).
+- b. de werkzaamheden, bedoeld in het eerste, tweede, onderscheidenlijk derde lid, nemen meer tijd in beslag dan is aangemeld op grond van [artikel 27, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=4&artikel=27&z=2024-01-01&g=2024-01-01).
 
 6. Het vijfde lid is niet van toepassing indien:
 
@@ -478,13 +482,13 @@ Indien op één locatie, op één dag, binnen een aaneengesloten periode, reguli
 
 - b. de NVWA de benodigde werkzaamheden op dat moment redelijkerwijs feitelijk kan inplannen en uitvoeren, voor zover het omstandigheden betreft als bedoeld in onderdeel a, onder 2°.
 
-7. Indien de aanbieder overeenkomstig het zesde lid heeft aangetoond dat de te late melding, onderscheidenlijk het feit dat de werkzaamheden meer tijd in beslag nemen dan is aangemeld, is veroorzaakt door omstandigheden als bedoeld in het zesde lid, onderdeel b, en de werkzaamheden in afwijking van het vijfde lid alsnog op de daartoe aangevraagde dag worden uitgevoerd, is de aanbieder de retributie, bedoeld in [artikel 20, eerste lid, aanhef, en tweede lid, onderdeel a, onderscheidenlijk onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=20&z=2023-07-14&g=2023-09-26), verschuldigd.
+7. Indien de aanbieder overeenkomstig het zesde lid heeft aangetoond dat de te late melding, onderscheidenlijk het feit dat de werkzaamheden meer tijd in beslag nemen dan is aangemeld, is veroorzaakt door omstandigheden als bedoeld in het zesde lid, onderdeel b, en de werkzaamheden in afwijking van het vijfde lid alsnog op de daartoe aangevraagde dag worden uitgevoerd, is de aanbieder de retributie, bedoeld in [artikel 20, eerste lid, aanhef, en tweede lid, onderdeel a, onderscheidenlijk onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=20&z=2024-01-01&g=2024-01-01), verschuldigd.
 
-8. Het eerste tot en met het zevende lid zijn niet van toepassing op werkzaamheden als bedoeld in de [artikelen 22b](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=22b&z=2023-07-14&g=2023-09-26) en [22c](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=22c&z=2023-07-14&g=2023-09-26).
+8. Het eerste tot en met het zevende lid zijn niet van toepassing op werkzaamheden als bedoeld in de [artikelen 22b](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=22b&z=2024-01-01&g=2024-01-01) en [22c](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=22c&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 27
 
-1. De melding, bedoeld in [artikel 26, eerste, tweede, onderscheidenlijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=4&artikel=26&z=2023-07-14&g=2023-09-26), omvat ten minste:
+1. De melding, bedoeld in [artikel 26, eerste, tweede, onderscheidenlijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=4&artikel=26&z=2024-01-01&g=2024-01-01), omvat ten minste:
 
 - a. de soorten te verrichten bedrijfsactiviteiten;
 
@@ -496,21 +500,21 @@ Indien op één locatie, op één dag, binnen een aaneengesloten periode, reguli
 
 - e. de locatie(s) waarop de bedrijfsactiviteiten dienen plaats te vinden.
 
-2. Indien de datum of het tijdstip van aanvang of beëindiging van de werkzaamheden afwijkt van de datum of het tijdstip volgens de melding, bedoeld in [artikel 26, eerste, tweede, derde, onderscheidenlijk vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=4&artikel=26&z=2023-07-14&g=2023-09-26), stelt de NVWA degene die de melding heeft verricht hiervan in kennis.
+2. Indien de datum of het tijdstip van aanvang of beëindiging van de werkzaamheden afwijkt van de datum of het tijdstip volgens de melding, bedoeld in [artikel 26, eerste, tweede, derde, onderscheidenlijk vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=4&artikel=26&z=2024-01-01&g=2024-01-01), stelt de NVWA degene die de melding heeft verricht hiervan in kennis.
 
 3. Indien gemelde werkzaamheden niet zullen plaatsvinden, worden uitgesteld of wijziging ondergaan als gevolg van niet aan de NVWA te wijten oorzaken of omstandigheden, bericht degene die de melding heeft verricht dit schriftelijk aan de NVWA, uiterlijk:
 
-- a. om 08:00 uur op de werkdag, voorafgaande aan de dag waarop de activiteiten plaatsvinden dan wel zouden hebben plaatsgevonden, indien het de melding, bedoeld in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=4&artikel=26&z=2023-07-14&g=2023-09-26), betreft;
+- a. om 08:00 uur op de werkdag, voorafgaande aan de dag waarop de activiteiten plaatsvinden dan wel zouden hebben plaatsgevonden, indien het de melding, bedoeld in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=4&artikel=26&z=2024-01-01&g=2024-01-01), betreft;
 
-- b. om 14:00 uur op de werkdag, voorafgaande aan de dag waarop de activiteiten plaatsvinden dan wel zouden hebben plaatsgevonden, indien het de melding, bedoeld in [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=4&artikel=26&z=2023-07-14&g=2023-09-26), betreft of, voor zover de melding betrekking heeft op werkzaamheden als bedoeld in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=C&z=2023-07-14&g=2023-09-26), deel II, het de melding bedoeld in artikel 26, derde lid betreft;
+- b. om 14:00 uur op de werkdag, voorafgaande aan de dag waarop de activiteiten plaatsvinden dan wel zouden hebben plaatsgevonden, indien het de melding, bedoeld in [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=4&artikel=26&z=2024-01-01&g=2024-01-01), betreft of, voor zover de melding betrekking heeft op werkzaamheden als bedoeld in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=C&z=2024-01-01&g=2024-01-01), deel II, het de melding bedoeld in artikel 26, derde lid betreft;
 
-- c. één week voorafgaande aan de dag waarop de activiteiten plaatsvinden dan wel zouden hebben plaatsgevonden, indien het de melding, bedoeld in [artikel 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=4&artikel=26&z=2023-07-14&g=2023-09-26), betreft, niet zijnde werkzaamheden als bedoeld in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=C&z=2023-07-14&g=2023-09-26), deel II;
+- c. één week voorafgaande aan de dag waarop de activiteiten plaatsvinden dan wel zouden hebben plaatsgevonden, indien het de melding, bedoeld in [artikel 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=4&artikel=26&z=2024-01-01&g=2024-01-01), betreft, niet zijnde werkzaamheden als bedoeld in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=C&z=2024-01-01&g=2024-01-01), deel II;
 
 - d. om 14:00 uur op de derde werkdag, voorafgaande aan de dag van transport die bij de aanvraag is vermeld.
 
-4. Indien werkzaamheden als bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=B&z=2023-07-14&g=2023-09-26), deel I, onderdeel a, bijlage B, deel II, onderdeel a, en bijlage B, deel III, onderdeel d, bij deze regeling overeenkomstig [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=4&artikel=26&z=2023-07-14&g=2023-09-26), zijn gemeld en op een maandag zouden moeten worden verricht, en deze werkzaamheden niet zullen plaatsvinden, worden uitgesteld of wijziging ondergaan, wordt dit, in afwijking van het derde lid, onderdeel a, uiterlijk 12:00 uur op vrijdag voorafgaand aan de maandag waarop de werkzaamheden zouden worden verricht schriftelijk aan de NVWA bericht.
+4. Indien werkzaamheden als bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=B&z=2024-01-01&g=2024-01-01), deel I, onderdeel a, bijlage B, deel II, onderdeel a, en bijlage B, deel III, onderdeel d, bij deze regeling overeenkomstig [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=4&artikel=26&z=2024-01-01&g=2024-01-01), zijn gemeld en op een maandag zouden moeten worden verricht, en deze werkzaamheden niet zullen plaatsvinden, worden uitgesteld of wijziging ondergaan, wordt dit, in afwijking van het derde lid, onderdeel a, uiterlijk 12:00 uur op vrijdag voorafgaand aan de maandag waarop de werkzaamheden zouden worden verricht schriftelijk aan de NVWA bericht.
 
-5. Indien de dag of het tijdstip van de voorgenomen uitvoering van werkzaamheden, die overeenkomstig [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=4&artikel=26&z=2023-07-14&g=2023-09-26) zijn aangemeld, wijzigt door toedoen van de NVWA en aldus afwijkt van de datum of het tijdstip van uitvoering volgens deze melding, bericht de NVWA dit na afronding van de planning aan de aanvrager. Indien de aanvrager dientengevolge besluit de aangevraagde werkzaamheden niet of niet geheel te laten plaatsvinden, bericht hij dit aan de NVWA, in afwijking van het derde lid, uiterlijk om 15:00 uur van de dag voorafgaande aan de dag waarop de activiteiten plaatsvinden dan wel zouden hebben plaatsgevonden.
+5. Indien de dag of het tijdstip van de voorgenomen uitvoering van werkzaamheden, die overeenkomstig [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=4&artikel=26&z=2024-01-01&g=2024-01-01) zijn aangemeld, wijzigt door toedoen van de NVWA en aldus afwijkt van de datum of het tijdstip van uitvoering volgens deze melding, bericht de NVWA dit na afronding van de planning aan de aanvrager. Indien de aanvrager dientengevolge besluit de aangevraagde werkzaamheden niet of niet geheel te laten plaatsvinden, bericht hij dit aan de NVWA, in afwijking van het derde lid, uiterlijk om 15:00 uur van de dag voorafgaande aan de dag waarop de activiteiten plaatsvinden dan wel zouden hebben plaatsgevonden.
 
 ##### Artikel 28
 
@@ -890,21 +894,21 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 7a
 
-1. In afwijking van [artikel 7, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=7&z=2023-07-14&g=2023-09-26), is de aanbieder voor de werkzaamheden die betrekking hebben op invoercontroles van dierlijke producten afkomstig uit Nieuw-Zeeland een retributie verschuldigd overeenkomstig de volgende bepalingen.
+1. In afwijking van [artikel 7, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=7&z=2024-01-01&g=2024-01-01), is de aanbieder voor de werkzaamheden die betrekking hebben op invoercontroles van dierlijke producten afkomstig uit Nieuw-Zeeland een retributie verschuldigd overeenkomstig de volgende bepalingen.
 
-2. Voor werkzaamheden welke plaatsvinden op een werkdag tussen 06:00 uur en 23:00 uur bestaat de retributie, bedoeld in het eerste lid, uit een tarief van € 0,01152 per kg, onderscheidenlijk per kg levend gewicht als het levende dieren betreft of levende producten, met dien verstande dat voor elke ter keuring aangeboden partij ten minste € 69,10 en ten hoogste € 529,76 in rekening wordt gebracht.
+2. Voor werkzaamheden welke plaatsvinden op een werkdag tussen 06:00 uur en 23:00 uur bestaat de retributie, bedoeld in het eerste lid, uit een tarief van € 0,01241 per kg, onderscheidenlijk per kg levend gewicht als het levende dieren betreft of levende producten, met dien verstande dat voor elke ter keuring aangeboden partij ten minste € 74,45 en ten hoogste € 570,76 in rekening wordt gebracht.
 
-3. Voor werkzaamheden welke plaatsvinden tussen 23:00 en 06:00 uur of op een zaterdag, zondag of algemeen erkende feestdag bestaat de retributie, bedoeld in het eerste lid, uit een tarief van € 0,01496 per kg, onderscheidenlijk per kg levend gewicht als het levende dieren of levende producten betreft, met dien verstande dat voor elke ter keuring aangeboden partij ten minste € 89,75 en ten hoogste € 688,05 in rekening wordt gebracht.
+3. Voor werkzaamheden welke plaatsvinden tussen 23:00 en 06:00 uur of op een zaterdag, zondag of algemeen erkende feestdag bestaat de retributie, bedoeld in het eerste lid, uit een tarief van € 0,01611 per kg, onderscheidenlijk per kg levend gewicht als het levende dieren of levende producten betreft, met dien verstande dat voor elke ter keuring aangeboden partij ten minste € 96,67 en ten hoogste € 741,16 in rekening wordt gebracht.
 
 4. In afwijking van het tweede lid bedraagt de maximale retributie voor een te controleren partij producten afkomstig van pluimvee, die vervoerd en aangeboden wordt als stukgoed:
 
-- a. € 981,03 per schip met een lading producten afkomstig van pluimvee tot 500 ton;
+- a. € 1.056,85 per schip met een lading producten afkomstig van pluimvee tot 500 ton;
 
-- b. € 1.962,09 per schip met een lading producten afkomstig van pluimvee tot 1.000 ton;
+- b. € 2.113,73 per schip met een lading producten afkomstig van pluimvee tot 1.000 ton;
 
-- c. € 3.924,21 per schip met een lading producten afkomstig van pluimvee tot 2.000 ton;
+- c. € 4.227,49 per schip met een lading producten afkomstig van pluimvee tot 2.000 ton;
 
-- d. € 5.894,38 per schip met een lading producten afkomstig van pluimvee vanaf 2.000 ton.
+- d. € 6.349,92 per schip met een lading producten afkomstig van pluimvee vanaf 2.000 ton.
 
 #### § 3. Retribuering starttarieven
 
@@ -1102,13 +1106,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 18a
 
-Voor de behandeling en afhandeling van een aanvraag om een instellingsvergunning als bedoeld in [artikel 2 van de Dierproevenregeling 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&artikel=2) is de aanvrager een retributie verschuldigd van € 2.200,65.
+Voor de behandeling en afhandeling van een aanvraag om een instellingsvergunning als bedoeld in [artikel 2 van de Dierproevenregeling 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&artikel=2) is de aanvrager een retributie verschuldigd van € 2.524,45.
 
 #### § 3. Retribuering starttarieven
 
 ##### Artikel 28a
 
-1. Indien een factuur voor door de NVWA verrichte werkzaamheden niet binnen 6 weken na bekendmaking is betaald, kan de minister besluiten om werkzaamheden als bedoeld in [artikel 9.1 van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=9.1) en de [artikelen 22b](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=22b&z=2023-07-14&g=2023-09-26) en [22c](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=22c&z=2023-07-14&g=2023-09-26) voor dezelfde betalingsplichtige slechts dan uit te voeren nadat is betaald.
+1. Indien een factuur voor door de NVWA verrichte werkzaamheden niet binnen 6 weken na bekendmaking is betaald, kan de minister besluiten om werkzaamheden als bedoeld in [artikel 9.1 van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=9.1) en de [artikelen 22b](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=22b&z=2024-01-01&g=2024-01-01) en [22c](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=22c&z=2024-01-01&g=2024-01-01) voor dezelfde betalingsplichtige slechts dan uit te voeren nadat is betaald.
 
 2. Indien het eerste lid is toegepast en de verwachte retributies over een periode van 12 weken na hervatting van de werkzaamheden naar verwachting meer bedragen dan € 5.000,00, kan de minister van de betalingsplichtige het stellen van zekerheid eisen voor de betaling van die verwachte retributies over een periode van 12 weken na hervatting van de werkzaamheden, alvorens de werkzaamheden worden hervat.
 
@@ -1172,15 +1176,15 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 22a
 
-1. [Artikel 22, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=22&z=2023-07-14&g=2023-09-26), is van toepassing in de situatie dat er ten opzichte van de hoeveelheid op grond van [artikel 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=4&artikel=26&z=2023-07-14&g=2023-09-26), aangemelde werkzaamheden minder werkzaamheden daadwerkelijk hebben plaatsgevonden, ongeacht of ten aanzien van die werkzaamheden een bericht is gedaan overeenkomstig [artikel 27, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=4&artikel=27&z=2023-07-14&g=2023-09-26). Voor de toepassing van artikel 22, eerste lid, onderdeel b, in samenhang met het tweede lid, wordt de extra retributie bepaald op basis van de som van:
+1. [Artikel 22, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=22&z=2024-01-01&g=2024-01-01), is van toepassing in de situatie dat er ten opzichte van de hoeveelheid op grond van [artikel 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=4&artikel=26&z=2024-01-01&g=2024-01-01), aangemelde werkzaamheden minder werkzaamheden daadwerkelijk hebben plaatsgevonden, ongeacht of ten aanzien van die werkzaamheden een bericht is gedaan overeenkomstig [artikel 27, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=4&artikel=27&z=2024-01-01&g=2024-01-01). Voor de toepassing van artikel 22, eerste lid, onderdeel b, in samenhang met het tweede lid, wordt de extra retributie bepaald op basis van de som van:
 
-- a. de hoeveelheid werkzaamheden ten aanzien waarvan niet vóór het moment, bedoeld in [artikel 27, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=4&artikel=27&z=2023-07-14&g=2023-09-26), aan de NVWA bericht is gedaan van het niet plaatsvinden, en
+- a. de hoeveelheid werkzaamheden ten aanzien waarvan niet vóór het moment, bedoeld in [artikel 27, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=4&artikel=27&z=2024-01-01&g=2024-01-01), aan de NVWA bericht is gedaan van het niet plaatsvinden, en
 
 - b. de hoeveelheid werkzaamheden die niet hebben plaatsgevonden, anders dan die, bedoeld in onderdeel a.
 
 2. De hoeveelheid werkzaamheden, bedoeld in het eerste lid, onderdeel b, bedragen niet meer dan 80% van de aangemelde hoeveelheid werkzaamheden, verminderd met de hoeveelheid werkzaamheden die daadwerkelijk hebben plaatsgevonden en met de hoeveelheid werkzaamheden, bedoeld in het eerste lid, onderdeel a, waarbij de uitkomst van deze som niet minder dan nihil kan zijn.
 
-3. Het eerste en tweede lid zijn niet van toepassing indien [artikel 22, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=22&z=2023-07-14&g=2023-09-26), van toepassing is.
+3. Het eerste en tweede lid zijn niet van toepassing indien [artikel 22, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=22&z=2024-01-01&g=2024-01-01), van toepassing is.
 
 #### § 3. Retribuering starttarieven
 
@@ -1232,13 +1236,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 22b
 
-Indien in het kader van een aanvraag voor een vrijstelling als bedoeld in [artikel 38 van de Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=38) advies wordt gevraagd aan de NVWA is een bedrag verschuldigd van € 2.427,14.
+Indien in het kader van een aanvraag voor een vrijstelling als bedoeld in [artikel 38 van de Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=38) advies wordt gevraagd aan de NVWA is een bedrag verschuldigd van € 3.746,30.
 
 ##### Artikel 22c
 
-1. Voor de behandeling en afhandeling van een aanvraag tot een erkenning als bedoeld in de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&artikel=4.1)en [4.1a van de Regeling gewasbeschermingsmiddelen en biociden](onbekend) is een vergoeding verschuldigd van € 6.520,52.
+1. Voor de behandeling en afhandeling van een aanvraag tot een erkenning als bedoeld in de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&artikel=4.1)en [4.1a van de Regeling gewasbeschermingsmiddelen en biociden](onbekend) is een vergoeding verschuldigd van € 7.492,61.
 
-2. De houder van een erkenning als bedoeld in het eerste lid is een vergoeding van € 1.506,66 verschuldigd voor de werkzaamheden die gericht zijn op het onderzoek of aan de eisen van de erkenning is voldaan.
+2. De houder van een erkenning als bedoeld in het eerste lid is een vergoeding van € 1.729,06 verschuldigd voor de werkzaamheden die gericht zijn op het onderzoek of aan de eisen van de erkenning is voldaan.
 
 #### § 3. Retribuering starttarieven
 
@@ -1288,17 +1292,17 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. Voor een aanvullende officiële controle na vaststelling van niet-naleving als bedoeld in artikel 79, tweede lid, onder c, en voor activiteiten als bedoeld in artikel 138, eerste of tweede lid, van verordening (EU) 2017/625, voor distributeurs en gebruikers van gewasbeschermingsmiddelen, wordt een tarief in rekening gebracht als volgt:
 
-- a. indien de werkzaamheden worden verricht tijdens openingstijden, een basistarief van € 269,55 per inspectie vermeerderd met een tarief van € 30,71 per kwartier;
+- a. indien de werkzaamheden worden verricht tijdens openingstijden, een basistarief van € 299,50 per inspectie vermeerderd met een tarief van € 36,02 per kwartier;
 
-- b. indien de werkzaamheden door toedoen van een distributeur of gebruiker worden verricht buiten openingstijden, een basistarief van € 350,42 per inspectie vermeerderd met een tarief van:
+- b. indien de werkzaamheden door toedoen van een distributeur of gebruiker worden verricht buiten openingstijden, een basistarief van € 389,35 per inspectie vermeerderd met een tarief van:
 
-- 1°. € 478,56 als de inspectie niet langer duurt dan 3 uur;
+- 1°. € 561,96 als de inspectie niet langer duurt dan 3 uur;
 
-- 2°. € 478,56 vermeerderd met € 39,88 per kwartier voor zover de inspectie langer duurt dan 3 uur.
+- 2°. € 561,96 vermeerderd met € 46,83 per kwartier voor zover de inspectie langer duurt dan 3 uur.
 
 2. Voor laboratoriumonderzoek worden voor een aanvullende officiële controle als bedoeld in het eerste lid de werkelijke kosten in rekening gebracht.
 
-3. Indien een aanvullende officiële controle als bedoeld in het eerste lid digitaal plaatsvindt, wordt een tarief in rekening gebracht van € 92,12 per schriftelijke of digitale terugmelding.
+3. Indien een aanvullende officiële controle als bedoeld in het eerste lid digitaal plaatsvindt, wordt een tarief in rekening gebracht van € 111,74 per schriftelijke of digitale terugmelding.
 
 #### § 3. Retribuering starttarieven
 
@@ -1326,21 +1330,25 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 7b
 
-1. Indien een ingediende aanvraag voor een controle als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=7&z=2023-07-14&g=2023-09-26) niet is afgemeld op het in [artikel 27, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=4&artikel=27&z=2023-07-14&g=2023-09-26), genoemde tijdstip, worden aan de aanbieder kosten van het niet of niet tijdig afmelden doorberekend.
+1. Indien een ingediende aanvraag voor een controle als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=7&z=2024-01-01&g=2024-01-01) niet is afgemeld op het in [artikel 27, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=4&artikel=27&z=2024-01-01&g=2024-01-01), genoemde tijdstip, worden aan de aanbieder kosten van het niet of niet tijdig afmelden doorberekend.
 
 2. De kosten, bedoeld in het eerste lid, bedragen:
 
-- a. € 95,54 per aangemelde zending; en
+- a. € 104,84 per aangemelde zending; en
 
-- b. indien van toepassing € 78,21 voor een vergeefse reis van iedere met de controle belaste medewerker van de NVWA.
+- b. indien van toepassing € 87,05 voor een vergeefse reis van iedere met de controle belaste medewerker van de NVWA.
 
 3. De retributie, bedoeld in het tweede lid, onderdeel b, wordt niet in rekening gebracht indien de met de controle belaste medewerker van de NVWA op de grenscontrolepost of ander controlepunt andere werkzaamheden kan verrichten.
 
 ##### Artikel 7c
 
-1. In afwijking van [artikel 7, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=7&z=2022-04-01&g=2022-04-01), en [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=7a&z=2022-04-01&g=2022-04-01) is de aanbieder een retributie verschuldigd van € 69,14 indien de kennisgeving door middel van het document, bedoeld in artikel 56 van [verordening (EU) 2017/625](32525R2017), voor aankomst van de zending in Nederland op zijn verzoek wordt ingetrokken.
+1. Een aanbieder is een retributie verschuldigd van € 58,08 per zending voor werkzaamheden in verband met de controle van zegels als bedoeld in artikel 33, eerste lid, laatste zin, van [verordening (EU) 2019/2124](32019R2124). Dit bedrag is eveneens verschuldigd per zending indien de werkzaamheden worden onderbroken of uitgesteld, dan wel geheel of gedeeltelijk niet plaatsvinden door omstandigheden buiten toedoen van de met de werkzaamheden belaste persoon of personen.
 
-2. In aanvulling op het eerste lid is een retributie verschuldigd van € 69,14 indien voorafgaand aan de intrekking werkzaamheden in het kader van de documentencontrole, bedoeld in artikel 49, eerste lid, van [verordening (EU) 2017/625](32525R2017), zijn aangevangen.
+2. Voor werkzaamheden als bedoeld in artikel 33, eerste lid, eerste zin, van [verordening (EU) 2019/2124](32019R2124) die volgen op werkzaamheden als bedoeld in het eerste lid, die binnen openingstijd worden verricht, is de aanbieder een retributie verschuldigd bestaande uit:
+
+- a. een starttarief van € 123,59; en
+
+- b. een bedrag van € 45,71 per kwartier dat aan de werkzaamheden door een officiële dierenarts, een officiële assistent of een andere medewerker van de NVWA is besteed.
 
 #### § 5. Slotbepalingen
 
@@ -1386,63 +1394,63 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 5a
 
-1. Voor werkzaamheden als bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=B&z=2023-07-14&g=2023-09-26), deel II, bij deze regeling die binnen openingstijd worden verricht is de aanbieder een retributie verschuldigd van € 53,51 per kwartier dat aan de werkzaamheden door een officiële dierenarts, een officiële assistent of een andere medewerker van de NVWA is besteed, aangevuld met:
+1. Voor werkzaamheden als bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=B&z=2024-01-01&g=2024-01-01), deel II, bij deze regeling die binnen openingstijd worden verricht is de aanbieder een retributie verschuldigd van € 65,37 per kwartier dat aan de werkzaamheden door een officiële dierenarts, een officiële assistent of een andere medewerker van de NVWA is besteed, aangevuld met:
 
-- a. een starttarief van € 147,94 indien aan de werkzaamheden reis- of niet specifiek toerekenbare voorbereidende administratietijd is besteed,
+- a. een starttarief van € 186,67 indien aan de werkzaamheden reis- of niet specifiek toerekenbare voorbereidende administratietijd is besteed,
 
-- b. een bedrag van € 6,00 per certificaat of geleidebiljet indien een certificaat of geleidebiljet is aangevraagd via e-CertNL;
+- b. een bedrag van € 4,42 per certificaat of geleidebiljet indien een certificaat of geleidebiljet is aangevraagd via e-CertNL;
 
-- c. een bedrag van € 26,08 per certificaat of geleidebiljet indien de NVWA op verzoek van de aanbieder werkzaamheden verricht voor de invoer van gegevens in e-CertNL of Traces;
+- c. een bedrag van € 29,97 per certificaat of geleidebiljet indien de NVWA op verzoek van de aanbieder werkzaamheden verricht voor de invoer van gegevens in e-CertNL of Traces;
 
-- d. een bedrag van € 26,08 per kwartier indien op verzoek van de aanbieder werkzaamheden plaatsvinden na verstrekking van een certificaat voor levende dieren.
+- d. een bedrag van € 29,97 per kwartier indien op verzoek van de aanbieder werkzaamheden plaatsvinden na verstrekking van een certificaat voor levende dieren.
 
 2. In afwijking van het eerste lid is een retributie verschuldigd van:
 
-- a. € 329,54 indien de werkzaamheden betrekking hebben op de beoordeling van een tekst van een certificaat ten behoeve van de vaststelling daarvan;
+- a. € 246,23 indien de werkzaamheden betrekking hebben op de beoordeling van een tekst van een certificaat ten behoeve van de vaststelling daarvan;
 
-- b. € 286,08 indien de werkzaamheden betrekking hebben op de beoordeling van de tekst van een certificaat dat na vaststelling ter beschikking staat aan eenieder;
+- b. € 214,56 indien de werkzaamheden betrekking hebben op de beoordeling van de tekst van een certificaat dat na vaststelling ter beschikking staat aan eenieder;
 
-- c. € 105,74 indien de beoordeling van de tekst van een certificaat met betrekking tot een derde land reeds is uitgevoerd.
+- c. € 120,36 indien de beoordeling van de tekst van een certificaat met betrekking tot een derde land reeds is uitgevoerd.
 
-3. Voor werkzaamheden als bedoeld in artikel 6 van [verordening (EU) 2020/2235](32235R2020), artikel 5 van [verordening (EU) 2020/2236](32236R2020) en artikel 5 van [verordening (EU) 2021/403](32303R2021) die betrekking hebben op de vervanging van certificaten die zijn afgegeven op grond van een onderzoek als bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=B&z=2023-07-14&g=2023-09-26), deel II bij deze regeling, is de aanbieder een bedrag verschuldigd van € 52,16 per vervangend certificaat.
+3. Voor werkzaamheden als bedoeld in artikel 6 van [verordening (EU) 2020/2235](32235R2020), artikel 5 van [verordening (EU) 2020/2236](32236R2020) en artikel 5 van [verordening (EU) 2021/403](32303R2021) die betrekking hebben op de vervanging van certificaten die zijn afgegeven op grond van een onderzoek als bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=B&z=2024-01-01&g=2024-01-01), deel II bij deze regeling, is de aanbieder een bedrag verschuldigd van € 59,94 per vervangend certificaat.
 
-4. In aanvulling op het eerste, tweede en derde lid, is de aanbieder voor activiteiten als bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=B&z=2023-07-14&g=2023-09-26), deel II, onderdeel f, bij deze regeling, een retributie verschuldigd die overeenkomt met de werkelijke kosten van derden die hiervoor door de NVWA zijn ingeschakeld.
+4. In aanvulling op het eerste, tweede en derde lid, is de aanbieder voor activiteiten als bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=B&z=2024-01-01&g=2024-01-01), deel II, onderdeel f, bij deze regeling, een retributie verschuldigd die overeenkomt met de werkelijke kosten van derden die hiervoor door de NVWA zijn ingeschakeld.
 
 ##### Artikel 5b
 
-1. Voor werkzaamheden als bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=B&z=2023-07-14&g=2023-09-26), deel III, bij deze regeling is de aanbieder een retributie verschuldigd van € 54,23 per aangevraagd certificaat, geleidebiljet of document aangevuld met:
+1. Voor werkzaamheden als bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=B&z=2024-01-01&g=2024-01-01), deel III, bij deze regeling is de aanbieder een retributie verschuldigd van € 62,83 per aangevraagd certificaat, geleidebiljet of document aangevuld met:
 
-- a. een bedrag van € 6,00 per certificaat of geleidebiljet indien een certificaat of geleidebiljet is aangevraagd via e-CertNL.
+- a. een bedrag van € 4,42 per certificaat of geleidebiljet indien een certificaat of geleidebiljet is aangevraagd via e-CertNL.
 
-- b. een bedrag van € 1,82 indien het geleidebiljet volledig elektronisch wordt gegenereerd.
+- b. een bedrag van € 2,33 indien het geleidebiljet volledig elektronisch wordt gegenereerd.
 
 2. In afwijking van het eerste lid is een retributie verschuldigd van:
 
-- a. € 329,54 indien de werkzaamheden betrekking hebben op de beoordeling van een tekst van een certificaat ten behoeve van de vaststelling daarvan;
+- a. € 246,23 indien de werkzaamheden betrekking hebben op de beoordeling van een tekst van een certificaat ten behoeve van de vaststelling daarvan;
 
-- b. € 286,08 indien de werkzaamheden betrekking hebben op de beoordeling van een tekst van een certificaat dat na vaststelling ter beschikking staat aan eenieder;
+- b. € 214,56 indien de werkzaamheden betrekking hebben op de beoordeling van een tekst van een certificaat dat na vaststelling ter beschikking staat aan eenieder;
 
-- c. € 105,74 indien de beoordeling van een tekst van een certificaat met betrekking tot een derde land reeds is uitgevoerd.
+- c. € 120,36 indien de beoordeling van een tekst van een certificaat met betrekking tot een derde land reeds is uitgevoerd.
 
-3. In afwijking van het eerste lid is een retributie verschuldigd van € 230,17 indien de werkzaamheden betrekking hebben op de aanvraag tot vervanging of wijziging van een eerder afgegeven certificaat.
+3. In afwijking van het eerste lid is een retributie verschuldigd van € 255,38 indien de werkzaamheden betrekking hebben op de aanvraag tot vervanging of wijziging van een eerder afgegeven certificaat.
 
-4. In afwijking van het eerste lid is een retributie verschuldigd van € 155,73 indien het certificaat per koerier wordt bezorgd.
+4. In afwijking van het eerste lid is een retributie verschuldigd van € 164,33 indien het certificaat per koerier wordt bezorgd.
 
-5. In afwijking van het eerste lid is een retributie verschuldigd van € 24,06 indien de werkzaamheden betrekking hebben op de afgifte van een certificaat ten behoeve van een bedrijf dat, na goedkeuring van de NVWA, deelneemt aan het exportkanalisatiesysteem.
+5. In afwijking van het eerste lid is een retributie verschuldigd van € 26,99 indien de werkzaamheden betrekking hebben op de afgifte van een certificaat ten behoeve van een bedrijf dat, na goedkeuring van de NVWA, ten behoeve van die werkzaamheden deelneemt aan het exportkanalisatiesysteem of het exportkanalisatieprotocol.
 
 ##### Artikel 8a
 
-1. Voor werkzaamheden als bedoeld in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=E&z=2023-07-14&g=2023-09-26) bij deze regeling die binnen openingstijd worden verricht, is de aanbieder een retributie verschuldigd van:
+1. Voor werkzaamheden als bedoeld in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=E&z=2024-01-01&g=2024-01-01) bij deze regeling die binnen openingstijd worden verricht, is de aanbieder een retributie verschuldigd van:
 
-- a. een bedrag van € 92,12 per schriftelijke of digitale aanvullende officiële controle; of
+- a. een bedrag van € 111,74 per schriftelijke of digitale aanvullende officiële controle; of
 
-- b. voor andere werkzaamheden dan die, bedoeld in onderdeel a, een bedrag van € 34,66 per kwartier dat aan de werkzaamheden door een officiële dierenarts, een officiële assistent of een andere medewerker van de NVWA is besteed, aangevuld met een starttarief van € 158,02 indien aan de werkzaamheden reis- of niet specifiek toerekenbare voorbereidende administratietijd is besteed.
+- b. voor andere werkzaamheden dan die, bedoeld in onderdeel a, een bedrag van € 39,86 per kwartier dat aan de werkzaamheden door een officiële dierenarts, een officiële assistent of een andere medewerker van de NVWA is besteed, aangevuld met een starttarief van € 202,54 indien aan de werkzaamheden reis- of niet specifiek toerekenbare voorbereidende administratietijd is besteed.
 
-2. In aanvulling op het eerste lid, is de aanbieder voor werkzaamheden als bedoeld in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=E&z=2023-07-14&g=2023-09-26), onderdeel e, bij deze regeling, een retributie verschuldigd die overeenkomt met de werkelijke kosten van derden die hiervoor door de NVWA zijn ingeschakeld.
+2. In aanvulling op het eerste lid, is de aanbieder voor werkzaamheden als bedoeld in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=E&z=2024-01-01&g=2024-01-01), onderdeel e, bij deze regeling, een retributie verschuldigd die overeenkomt met de werkelijke kosten van derden die hiervoor door de NVWA zijn ingeschakeld.
 
 ##### Artikel 8b
 
-1. Een retributie is verschuldigd voor administratieve voorbereiding en afwikkeling van de volgende werkzaamheden verricht door een officiële dierenarts, een officiële assistent of een andere medewerker van de NVWA die betrekking hebben op [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=D&z=2023-07-14&g=2023-09-26), voor zover die werkzaamheden betrekking hebben op levende dieren:
+1. Een retributie is verschuldigd voor administratieve voorbereiding en afwikkeling van de volgende werkzaamheden verricht door een officiële dierenarts, een officiële assistent of een andere medewerker van de NVWA die betrekking hebben op [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=D&z=2024-01-01&g=2024-01-01), voor zover die werkzaamheden betrekking hebben op levende dieren:
 
 - a. de behandeling en afhandeling van een aanvraag tot erkenning, toestemming of goedkeuring;
 
@@ -1456,23 +1464,23 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 | Netto inspectietijd op locatie | Tarief |
 | --- | --- |
-| 15 minuten – 1 uur | € 79,64 |
-| > 1 uur – 2 uur | € 159,28 |
-| > 2 uur – 3 uur | € 159,28 |
-| > 3 uur – 4 uur | € 238,92 |
-| > 4 uur – 5 uur | € 318,56 |
-| > 5 uur – 6 uur | € 398,20 |
-| > 6 uur – 7 uur | € 477,84 |
-| > 7 uur – 8 uur | € 557,48 |
-| > 8 uur – 12 uren | € 637,12 |
-| > 12 uren – 16 uren | € 716,76 |
-| > 16 uren – 20 uren | € 796,40 |
-| > 20 uren – 24 uren | € 876,04 |
-| > 24 uren | € 955,68 |
+| 15 minuten – 1 uur | € 90,98 |
+| > 1 uur – 2 uur | € 181,96 |
+| > 2 uur – 3 uur | € 181,96 |
+| > 3 uur – 4 uur | € 272,94 |
+| > 4 uur – 5 uur | € 363,92 |
+| > 5 uur – 6 uur | € 454,90 |
+| > 6 uur – 7 uur | € 545,88 |
+| > 7 uur – 8 uur | € 636,86 |
+| > 8 uur – 12 uren | € 727,84 |
+| > 12 uren – 16 uren | € 818,82 |
+| > 16 uren – 20 uren | € 909,80 |
+| > 20 uren – 24 uren | € 1.000,78 |
+| > 24 uren | € 1.091,76 |
 
 ##### Artikel 8c
 
-1. Een retributie is verschuldigd voor administratieve voorbereiding en afwikkeling van de volgende werkzaamheden verricht door een officiële dierenarts, een officiële assistent of een andere medewerker van de NVWA die betrekking hebben op [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=D&z=2023-07-14&g=2023-09-26), niet zijnde werkzaamheden als bedoeld in [artikel 8b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=8b&z=2023-07-14&g=2023-09-26), of die betrekking hebben op [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=E&z=2023-07-14&g=2023-09-26):
+1. Een retributie is verschuldigd voor administratieve voorbereiding en afwikkeling van de volgende werkzaamheden verricht door een officiële dierenarts, een officiële assistent of een andere medewerker van de NVWA die betrekking hebben op [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=D&z=2024-01-01&g=2024-01-01), niet zijnde werkzaamheden als bedoeld in [artikel 8b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=8b&z=2024-01-01&g=2024-01-01), of die betrekking hebben op [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=E&z=2024-01-01&g=2024-01-01):
 
 - a. de behandeling en afhandeling van een aanvraag tot erkenning, toestemming of goedkeuring;
 
@@ -1482,55 +1490,55 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - d. aanvullende officiële controles.
 
-2. De retributie, bedoeld in het eerste lid, wordt berekend op basis van het totaal aantal bestede uren op locatie volgens tabel a, voor zover deze betrekking heeft op [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=D&z=2023-07-14&g=2023-09-26), en volgens tabel b, voor zover deze betrekking heeft op [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=E&z=2023-07-14&g=2023-09-26):
+2. De retributie, bedoeld in het eerste lid, wordt berekend op basis van het totaal aantal bestede uren op locatie volgens tabel a, voor zover deze betrekking heeft op [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=D&z=2024-01-01&g=2024-01-01), en volgens tabel b, voor zover deze betrekking heeft op [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=E&z=2024-01-01&g=2024-01-01):
 
 | Netto inspectietijd op locatie | Tarief |
 | --- | --- |
-| 15 minuten – 1 uur | € 159,28 |
-| > 1 uur – 2 uur | € 159,28 |
-| > 2 uur – 3 uur | € 318,56 |
-| > 3 uur – 4 uur | € 318,56 |
-| > 4 uur – 5 uur | € 398,20 |
-| > 5 uur – 6 uur | € 398,20 |
-| > 6 uur – 7 uur | € 477,84 |
-| > 7 uur – 8 uur | € 557,48 |
-| > 8 uur – 12 uren | € 637,12 |
-| > 12 uren – 16 uren | € 716,76 |
-| > 16 uren – 20 uren | € 796,40 |
-| > 20 uren – 24 uren | € 876,04 |
-| > 24 uren | € 955,68 |
+| 15 minuten – 1 uur | € 181,96 |
+| > 1 uur – 2 uur | € 181,96 |
+| > 2 uur – 3 uur | € 363,92 |
+| > 3 uur – 4 uur | € 363,92 |
+| > 4 uur – 5 uur | € 454,90 |
+| > 5 uur – 6 uur | € 454,90 |
+| > 6 uur – 7 uur | € 545,88 |
+| > 7 uur – 8 uur | € 636,86 |
+| > 8 uur – 12 uren | € 727,84 |
+| > 12 uren – 16 uren | € 818,82 |
+| > 16 uren – 20 uren | € 909,80 |
+| > 20 uren – 24 uren | € 1.000,78 |
+| > 24 uren | € 1.091,76 |
 
 | Netto inspectietijd op locatie | Tarief |
 | --- | --- |
-| 15 minuten – 1 uur | € 138,64 |
-| > 1 uur – 2 uur | € 138,64 |
-| > 2 uur – 3 uur | € 277,28 |
-| > 3 uur – 4 uur | € 277,28 |
-| > 4 uur – 5 uur | € 346,60 |
-| > 5 uur – 6 uur | € 346,60 |
-| > 6 uur – 7 uur | € 415,92 |
-| > 7 uur – 8 uur | € 485,24 |
-| > 8 uur – 12 uren | € 554,56 |
-| > 12 uren – 16 uren | € 623,88 |
-| > 16 uren – 20 uren | € 693,20 |
-| > 20 uren – 24 uren | € 762,52 |
-| > 24 uren | € 831,84 |
+| 15 minuten – 1 uur | € 159,44 |
+| > 1 uur – 2 uur | € 159,44 |
+| > 2 uur – 3 uur | € 318,88 |
+| > 3 uur – 4 uur | € 318,88 |
+| > 4 uur – 5 uur | € 398,60 |
+| > 5 uur – 6 uur | € 398,60 |
+| > 6 uur – 7 uur | € 478,32 |
+| > 7 uur – 8 uur | € 558,04 |
+| > 8 uur – 12 uren | € 637,76 |
+| > 12 uren – 16 uren | € 717,48 |
+| > 16 uren – 20 uren | € 797,20 |
+| > 20 uren – 24 uren | € 876,92 |
+| > 24 uren | € 956,64 |
 
 ##### Artikel 9a
 
-1. In afwijking van [artikel 7, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=7&z=2023-07-14&g=2023-09-26), [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=7a&z=2023-07-14&g=2023-09-26), en [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=9&z=2023-07-14&g=2023-09-26) is de aanbieder een retributie verschuldigd van € 78,20 indien de kennisgeving door middel van het document, bedoeld in artikel 56 van [verordening (EU) 2017/625](32525R2017), voor aankomst van de zending in Nederland op zijn verzoek wordt ingetrokken.
+1. In afwijking van [artikel 7, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=7&z=2024-01-01&g=2024-01-01), [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=7a&z=2024-01-01&g=2024-01-01), en [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=9&z=2024-01-01&g=2024-01-01) is de aanbieder een retributie verschuldigd van € 91,43 indien de kennisgeving door middel van het document, bedoeld in artikel 56 van [verordening (EU) 2017/625](32525R2017), voor aankomst van de zending in Nederland op zijn verzoek wordt ingetrokken.
 
-2. In aanvulling op het eerste lid is een retributie verschuldigd van € 78,21 indien voorafgaand aan de intrekking werkzaamheden in het kader van de documentencontrole, bedoeld in artikel 49, eerste lid, van [verordening (EU) 2017/625](32525R2017), zijn aangevangen.
+2. In aanvulling op het eerste lid is een retributie verschuldigd van € 91,42 indien voorafgaand aan de intrekking werkzaamheden in het kader van de documentencontrole, bedoeld in artikel 49, eerste lid, van [verordening (EU) 2017/625](32525R2017), zijn aangevangen.
 
 ##### Artikel 9b
 
-1. Voor de volgende werkzaamheden is de aanbieder een retributie verschuldigd overeenkomstig het in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=I&z=2023-07-14&g=2023-09-26), deel II, bij het onderzoek behorende tarief, met inbegrip van en voor zover van toepassing, de kosten verbonden aan de met de voorbereiding en met de controle belaste personen van de NVWA en de kosten van laboratoriumonderzoek:
+1. Voor de volgende werkzaamheden is de aanbieder een retributie verschuldigd overeenkomstig het in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=I&z=2024-01-01&g=2024-01-01), deel II, bij het onderzoek behorende tarief, met inbegrip van en voor zover van toepassing, de kosten verbonden aan de met de voorbereiding en met de controle belaste personen van de NVWA en de kosten van laboratoriumonderzoek:
 
 - a. controles die worden verricht ter uitvoering van krachtens [verordening (EU) 2016/429](32329R2016), [verordening (EG) nr. 999/2001](32001R0999), [verordening (EG) nr. 178/2002](32002R0178), [verordening (EG) nr. 1069/2009](32009R1069) of [verordening (EU) 2017/625](32525R2017) vastgestelde communautaire uitvoeringsmaatregelen, indien die maatregel ten opzichte van de reguliere controles in de genoemde communautaire maatregelen aanvullende of afwijkende controles voorschrijft voor producten van dierlijke oorsprong;
 
 - b. onderzoeken en keuringen die worden verricht ter uitvoering van artikel 66 of 67 van [verordening (EU) 2017/625](32525R2017) of de op grond van op artikel 66, tweede lid, van [verordening (EU) 2017/625](32525R2017) gebaseerde uitvoeringshandelingen van de Europese Commissie;
 
-- c. laboratoriumonderzoek dat in het kader van de werkzaamheden, bedoeld in onderdeel a van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=A&z=2023-07-14&g=2023-09-26) bij deze regeling, noodzakelijk is om: een en ander zoals vereist in artikel 18 van [verordening (EU) 2017/625](32525R2017) en de daarop gebaseerde gedelegeerde handelingen en uitvoeringshandelingen van de Europese Commissie;
+- c. laboratoriumonderzoek dat in het kader van de werkzaamheden, bedoeld in onderdeel a van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=A&z=2024-01-01&g=2024-01-01) bij deze regeling, noodzakelijk is om: een en ander zoals vereist in artikel 18 van [verordening (EU) 2017/625](32525R2017) en de daarop gebaseerde gedelegeerde handelingen en uitvoeringshandelingen van de Europese Commissie;
 
 - 1°. zoönoses en zoönoseverwekkers op te sporen;
 
@@ -1546,7 +1554,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 20a
 
-De aanbieder is een retributie van € 117,30 verschuldigd voor een op grond van artikel 49, eerste lid, van [verordening (EU) 2017/625](32525R2017) voorgeschreven controle van:
+De aanbieder is een retributie van € 137,14 verschuldigd voor een op grond van artikel 49, eerste lid, van [verordening (EU) 2017/625](32525R2017) voorgeschreven controle van:
 
 - a. elk document dat een eerder gecontroleerd document vervangt dat niet voldoet aan de voorschriften, bedoeld in artikel 2, tweede lid, van [verordening (EU) 2019/2130](32130R2019), en waarvan correctie alleen mogelijk is door indiening van een vervangend document;
 
@@ -1554,13 +1562,13 @@ De aanbieder is een retributie van € 117,30 verschuldigd voor een op grond van
 
 ##### Artikel 20b
 
-In de volgende gevallen worden de kosten van controles of werkzaamheden bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=9&z=2023-07-14&g=2023-09-26), vermeerderd met het daarbij vermelde bedrag:
+In de volgende gevallen worden de kosten van controles of werkzaamheden bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=9&z=2024-01-01&g=2024-01-01), vermeerderd met het daarbij vermelde bedrag:
 
-- a. indien de werkzaamheden, op verzoek van de aanbieder, buiten openingstijd plaatsvinden, een bedrag van € 130,82;
+- a. indien de werkzaamheden, op verzoek van de aanbieder, buiten openingstijd plaatsvinden, een bedrag van € 149,91;
 
-- b. indien de werkzaamheden worden onderbroken of uitgesteld, onderscheidenlijk geheel of gedeeltelijk niet plaatsvinden, door omstandigheden buiten toedoen van de met de werkzaamheden belaste persoon of personen, een bedrag van € 145,35.
+- b. indien de werkzaamheden worden onderbroken of uitgesteld, onderscheidenlijk geheel of gedeeltelijk niet plaatsvinden, door omstandigheden buiten toedoen van de met de werkzaamheden belaste persoon of personen, een bedrag van € 166,56.
 
-#### § 4. Overige bepalingen
+#### § 3. Retribuering starttarieven
 
 #### § 5. Slotbepalingen
 
@@ -1570,117 +1578,19 @@ Voor de toepassing van deze bijlage wordt verstaan onder:
 
 ### Enig. artikel
 
-### Deel I. Fysieke exportcertificering dierlijke (bij)producten
+### Enig. artikel
 
-### Deel I. Fysieke exportcertificering dierlijke (bij)producten
+### Enig. artikel
 
 ## Bijlage C. Import
 
+### Deel II. Fysieke exportcertificering levende dieren en levende producten
+
 ### Deel III. Exportcertificering op afstand
 
-### Deel I. Uurtarief
+## Bijlage C. Import
 
-## Bijlage D. Inspecties en audits
-
-- a. de behandeling en afhandeling van een aanvraag tot erkenning als bedoeld in artikel 24 van [verordening (EG) nr. 1069/2009](32009R1069), alsmede de door de NVWA vooraf aangekondigde en vastgelegde periodieke controles op de naleving van de aan die erkenning verbonden eisen;
-
-- b. de behandeling en afhandeling van een aanvraag tot erkenning van een entrepot vereist op grond van op artikel 51, eerste lid, onder d, van [verordening (EU) 2017/625](32525R2017) gebaseerde gedelegeerde handelingen van de Europese Commissie, alsmede de door de NVWA vooraf aangekondigde en vastgelegde periodieke controles op de naleving van de aan die erkenning verbonden eisen;
-
-- c. de behandeling en afhandeling van een aanvraag tot erkenning van een speciaal entrepot in de haven van bestemming vereist op grond van op artikel 51, eerste lid, onder d, van [verordening (EU) 2017/625](32525R2017) gebaseerde gedelegeerde handelingen van de Europese Commissie, alsmede de door de NVWA vooraf aangekondigde en vastgelegde periodieke controles op de naleving van de aan die erkenning verbonden eisen;
-
-- d. de behandeling en afhandeling van een aanvraag om te worden aangewezen als grensinspectiepost op grond van artikel 59 van [verordening (EU) 2017/625](32525R2017), alsmede de door de NVWA vooraf aangekondigde en vastgelegde periodieke controles op de naleving van de aan die erkenning verbonden eisen;
-
-- e. de behandeling en afhandeling van een aanvraag tot erkenning als bedoeld in artikel 10 van [verordening (EG) nr. 183/2005](32005R0183) dan wel tot wijziging van die erkenning, voor zover dit betrekking heeft op de werkzaamheden van een afzonderlijke ambtenaar in het kader van onderzoek ter plaatse naar het voldoen aan de eisen voor het verkrijgen van de desbetreffende erkenning, alsmede de door de NVWA aangekondigde en vastgelegde periodieke controles op de naleving van de aan die erkenning verbonden eisen;
-
-- f. werkzaamheden die op verzoek van de aanbieder door of vanwege de NVWA worden verricht met betrekking tot toevoegingsmiddelen, voormengsels of diervoeders;
-
-- g. een aanvullende officiële controle na vaststelling van niet-naleving als bedoeld in artikel 79, tweede lid, onder c, van [verordening (EU) 2017/625](32525R2017), voor zover betrekking hebbend op werkzaamheden als bedoeld in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=A&z=2023-07-01&g=2023-07-01), de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=6&z=2023-07-01&g=2023-07-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=7&z=2023-07-01&g=2023-07-01), of werkzaamheden in verband met erkenningen aangaande levende dieren;
-
-- h. de behandeling en afhandeling van een aanvraag tot erkenning als bedoeld in artikel 13 van [verordening (EU) 2019/4](31904R2019), alsmede de door de NVWA vooraf aangekondigde en vastgelegde periodieke controles op de naleving van de aan die vergunning verbonden eisen;
-
-- i. werkzaamheden die betrekking hebben op onderzoek dat in verband met de deelname van een bedrijf aan het exportkanalisatiesysteem wordt verricht;
-
-- j. de behandeling en afhandeling voor een aanvraag voor goedkeuring voor cépagewijn als bedoeld in artikel 120, tweede lid, van [verordening (EU) nr. 1308/2013](32013R1308), alsmede de door de NVWA vooraf aangekondigde en vastgelegde periodieke controles op de naleving van de aan de goedkeuring verbonden eisen;
-
-- k. een aanvullende officiële controle na vaststelling van niet-naleving als bedoeld in [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&artikel=2), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&artikel=5) en [19a van de Regeling wijn en olijfolie](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&artikel=19a);
-
-- l. de behandeling en afhandeling van een aanvraag tot registratie, bedoeld in [artikel 5.5 van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=5.5);
-
-- m. werkzaamheden ten behoeve van een erkenning als bedoeld in de artikelen 94, eerste lid, 95, 176, eerste lid, 177, 178, onderdeel a, 179 en 227, aanhef en onderdeel a in samenhang met de artikelen 94, eerste lid, of 95, van [verordening (EU) 2016/429](32329R2016), als bedoeld in [artikel 2.10c, van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.10c) als bedoeld in de [artikelen 5c.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=5c.3) en [7c.3, eerste lid, van de Regeling houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=7c.3), of als bedoeld in [artikel 5a.3 van de Regeling diergeneesmiddelen 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&artikel=5a.3), en de door de NVWA vooraf aangekondigde en vastgelegde periodieke controles op de naleving van de aan die erkenning verbonden eisen;
-
-- n. werkzaamheden ten behoeve van het erkennen van bedrijven met een verwaarloosbaar risico op klassieke scrapie en bedrijven met een gecontroleerd risico op klassieke scrapie als bedoeld in artikel 15 van [verordening (EG) nr. 999/2001](32001R0999), alsmede de door de NVWA vooraf aangekondigde en vastgelegde periodieke controles op de naleving van de aan die erkenning verbonden eisen;
-
-- o. de door de NVWA vooraf aangekondigde en vastgelegde periodieke controles op de naleving van de eisen verbonden aan de toestemming als bedoeld in [verordening (EG) nr. 1069/2009](32009R1069) en [verordening (EG) nr. 142/2011](32011R0142), met uitzondering van de aanvraag tot toestemming voor invoer in Nederland als bedoeld in artikel 48, eerste lid, van [verordening (EG) nr. 1069/2009](32009R1069) verbonden eisen;
-
-- p. werkzaamheden ten behoeve van een erkenning als bedoeld in artikel 4 van [verordening (EG) nr. 853/2004](32004R0853), voor zover het een levensmiddelenbedrijf betreft waarop de [Regeling dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032462) van toepassing is, alsmede de door de NVWA vooraf aangekondigde en vastgelegde periodieke controles op de naleving van de aan die erkenning verbonden eisen;
-
-- q. de door de NVWA vooraf aangekondigde en vastgelegde periodieke controles op de naleving van de aan de toestemming, registratie of goedkeuring op grond van artikel 7 en bijlage IV van de [verordening (EG) 999/2001](onbekend), verbonden eisen;
-
-- r. toepassing van de maatregelen, bedoeld in artikel 42 van [verordening (EU) 2019/627](32527R2019) en bij controles op het bedrijf van herkomst als bedoeld in artikel 43, eerste lid, van [verordening (EU) 2019/627](32527R2019), voor zover het gaat om maatregelen in slachthuizen, wildbewerkingsinrichtingen, uitsnijderijen, of overige levensmiddelenbedrijven die niet onder [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=E&z=2023-07-01&g=2023-07-01) vallen;
-
-- s. de behandeling en afhandeling van een aanvraag voor de verlening van de status ‘inrichting vrij van ‘ziekte’ als bedoeld in bijlage IV, deel IV, hoofdstuk I, of bijlage IV, deel VI, hoofdstuk I van [verordening (EU) 2020/689](32589R2020), alsmede de door de NVWA vooraf aangekondigde en vastgelegde periodieke controles op de naleving van de aan die status verbonden eisen;
-
-- t. de behandeling en afhandeling van een aanvraag tot goedkeuring van een compartiment vrij van hoogpathogene aviaire influenza, alsmede de door de NVWA vooraf aangekondigde en vastgelegde periodieke controles op de naleving van de aan die goedkeuring verbonden eisen;
-
-- u. voor activiteiten als bedoeld in de artikel 138, eerste of tweede lid, van [verordening (EU) 2017/625](32525R2017) naar aanleiding van de werkzaamheden bedoeld in de onderdelen a tot en met t van dit deel van deze bijlage, en de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=12&z=2023-07-01&g=2023-07-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=13&z=2023-07-01&g=2023-07-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=15&z=2023-07-01&g=2023-07-01), en [18a](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=18a&z=2023-07-01&g=2023-07-01) van deze regeling.
-
-## Bijlage D. Inspecties en audits
-
-- a. de behandeling en afhandeling van een aanvraag tot erkenning als bedoeld in artikel 24 van [verordening (EG) nr. 1069/2009](32009R1069), alsmede de door de NVWA vooraf aangekondigde en vastgelegde periodieke controles op de naleving van de aan die erkenning verbonden eisen;
-
-- b. de behandeling en afhandeling van een aanvraag tot erkenning van een entrepot vereist op grond van op artikel 51, eerste lid, onder d, van [verordening (EU) 2017/625](32525R2017) gebaseerde gedelegeerde handelingen van de Europese Commissie, alsmede de door de NVWA vooraf aangekondigde en vastgelegde periodieke controles op de naleving van de aan die erkenning verbonden eisen;
-
-- c. de behandeling en afhandeling van een aanvraag tot erkenning van een speciaal entrepot in de haven van bestemming vereist op grond van op artikel 51, eerste lid, onder d, van [verordening (EU) 2017/625](32525R2017) gebaseerde gedelegeerde handelingen van de Europese Commissie, alsmede de door de NVWA vooraf aangekondigde en vastgelegde periodieke controles op de naleving van de aan die erkenning verbonden eisen;
-
-- d. de behandeling en afhandeling van een aanvraag om te worden aangewezen als grensinspectiepost op grond van artikel 59 van [verordening (EU) 2017/625](32525R2017), alsmede de door de NVWA vooraf aangekondigde en vastgelegde periodieke controles op de naleving van de aan die erkenning verbonden eisen;
-
-- e. de behandeling en afhandeling van een aanvraag tot erkenning als bedoeld in artikel 10 van [verordening (EG) nr. 183/2005](32005R0183) dan wel tot wijziging van die erkenning, voor zover dit betrekking heeft op de werkzaamheden van een afzonderlijke ambtenaar in het kader van onderzoek ter plaatse naar het voldoen aan de eisen voor het verkrijgen van de desbetreffende erkenning, alsmede de door de NVWA aangekondigde en vastgelegde periodieke controles op de naleving van de aan die erkenning verbonden eisen;
-
-- f. werkzaamheden die op verzoek van de aanbieder door of vanwege de NVWA worden verricht met betrekking tot toevoegingsmiddelen, voormengsels of diervoeders;
-
-- g. een aanvullende officiële controle na vaststelling van niet-naleving als bedoeld in artikel 79, tweede lid, onder c, van [verordening (EU) 2017/625](32525R2017) voor zover betrekking hebbend op:
-
-- –. werkzaamheden als bedoeld in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=A&z=2023-07-14&g=2023-09-26);
-
-- –. werkzaamheden als bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=B&z=2023-07-14&g=2023-09-26);
-
-- –. werkzaamheden als bedoeld in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=D&z=2023-07-14&g=2023-09-26), niet zijnde onderdeel k;
-
-- –. werkzaamheden als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=6&z=2023-07-14&g=2023-09-26) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=7&z=2023-07-14&g=2023-09-26);
-
-- –. werkzaamheden in verband met erkenningen aangaande levende dieren; of
-
-- –. overige werkzaamheden, niet zijnde aanvullende officiële controles als bedoeld in [artikel 18b](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=18b&z=2023-07-14&g=2023-09-26), en [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=B&z=2023-07-14&g=2023-09-26), onderdeel b;
-
-- h. de behandeling en afhandeling van een aanvraag tot erkenning als bedoeld in artikel 13 van [verordening (EU) 2019/4](31904R2019), alsmede de door de NVWA vooraf aangekondigde en vastgelegde periodieke controles op de naleving van de aan die vergunning verbonden eisen;
-
-- i. werkzaamheden die betrekking hebben op onderzoek dat in verband met de deelname van een bedrijf aan het exportkanalisatiesysteem wordt verricht;
-
-- j. de behandeling en afhandeling voor een aanvraag voor goedkeuring voor cépagewijn als bedoeld in artikel 120, tweede lid, van [verordening (EU) nr. 1308/2013](32013R1308), alsmede de door de NVWA vooraf aangekondigde en vastgelegde periodieke controles op de naleving van de aan de goedkeuring verbonden eisen;
-
-- k. een aanvullende officiële controle na vaststelling van niet-naleving als bedoeld in [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&artikel=2), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&artikel=5) en [19a van de Regeling wijn en olijfolie](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&artikel=19a);
-
-- l. de behandeling en afhandeling van een aanvraag tot registratie, bedoeld in [artikel 5.5 van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=5.5);
-
-- m. werkzaamheden ten behoeve van een erkenning als bedoeld in de artikelen 94, eerste lid, 95, 176, eerste lid, 177, 178, onderdeel a, 179 en 227, aanhef en onderdeel a in samenhang met de artikelen 94, eerste lid, of 95, van [verordening (EU) 2016/429](32329R2016), als bedoeld in [artikel 2.10c, van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.10c) als bedoeld in de [artikelen 5c.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=5c.3) en [7c.3, eerste lid, van de Regeling houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=7c.3), of als bedoeld in [artikel 5a.3 van de Regeling diergeneesmiddelen 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&artikel=5a.3), en de door de NVWA vooraf aangekondigde en vastgelegde periodieke controles op de naleving van de aan die erkenning verbonden eisen;
-
-- n. werkzaamheden ten behoeve van het erkennen van bedrijven met een verwaarloosbaar risico op klassieke scrapie en bedrijven met een gecontroleerd risico op klassieke scrapie als bedoeld in artikel 15 van [verordening (EG) nr. 999/2001](32001R0999), alsmede de door de NVWA vooraf aangekondigde en vastgelegde periodieke controles op de naleving van de aan die erkenning verbonden eisen;
-
-- o. de door de NVWA vooraf aangekondigde en vastgelegde periodieke controles op de naleving van de eisen verbonden aan de toestemming als bedoeld in [verordening (EG) nr. 1069/2009](32009R1069) en [verordening (EG) nr. 142/2011](32011R0142), met uitzondering van de aanvraag tot toestemming voor invoer in Nederland als bedoeld in artikel 48, eerste lid, van [verordening (EG) nr. 1069/2009](32009R1069) verbonden eisen;
-
-- p. werkzaamheden ten behoeve van een erkenning als bedoeld in artikel 4 van [verordening (EG) nr. 853/2004](32004R0853), voor zover het een levensmiddelenbedrijf betreft waarop de [Regeling dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032462) van toepassing is, alsmede de door de NVWA vooraf aangekondigde en vastgelegde periodieke controles op de naleving van de aan die erkenning verbonden eisen;
-
-- q. de door de NVWA vooraf aangekondigde en vastgelegde periodieke controles op de naleving van de aan de toestemming, registratie of goedkeuring op grond van artikel 7 en bijlage IV van de [verordening (EG) 999/2001](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32001R0999), verbonden eisen;
-
-- r. toepassing van de maatregelen, bedoeld in artikel 42 van [verordening (EU) 2019/627](32527R2019) en bij controles op het bedrijf van herkomst als bedoeld in artikel 43, eerste lid, van [verordening (EU) 2019/627](32527R2019), voor zover het gaat om maatregelen in slachthuizen, wildbewerkingsinrichtingen, uitsnijderijen, of overige levensmiddelenbedrijven die niet onder [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=E&z=2023-07-14&g=2023-09-26) vallen;
-
-- s. de behandeling en afhandeling van een aanvraag voor de verlening van de status ‘inrichting vrij van ‘ziekte’ als bedoeld in bijlage IV, deel IV, hoofdstuk I, of bijlage IV, deel VI, hoofdstuk I van [verordening (EU) 2020/689](32589R2020), alsmede de door de NVWA vooraf aangekondigde en vastgelegde periodieke controles op de naleving van de aan die status verbonden eisen;
-
-- t. de behandeling en afhandeling van een aanvraag tot goedkeuring van een compartiment vrij van hoogpathogene aviaire influenza, alsmede de door de NVWA vooraf aangekondigde en vastgelegde periodieke controles op de naleving van de aan die goedkeuring verbonden eisen;
-
-- u. werkzaamheden die op verzoek van de aanbieder door of vanwege de NVWA worden verricht ter zake van de exportregistratie van bedrijven, voor zover deze registratie verband houdt met de door het land van bestemming aan de invoer gestelde eisen, dan wel voor zover dit onderzoek verband houdt met een schriftelijke afspraak tussen de Chief Veterinary Officer en de bevoegde autoriteit van een derde land, alsmede de door de NVWA vooraf aangekondigde en vastgelegde periodieke controles op de naleving van de aan die erkenning verbonden eisen;
-
-- v. voor activiteiten als bedoeld in artikel 138, eerste of tweede lid, van [verordening (EU) 2017/625](32525R2017) naar aanleiding van de werkzaamheden bedoeld in de onderdelen a tot en met t van dit deel van deze bijlage, en de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=12&z=2023-07-14&g=2023-09-26), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=13&z=2023-07-14&g=2023-09-26), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=15&z=2023-07-14&g=2023-09-26), en [18a](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=18a&z=2023-07-14&g=2023-09-26) van deze regeling.
+## Bijlage C. Import
 
 ## Bijlage D. Inspecties en audits
 
@@ -1740,6 +1650,56 @@ Voor de toepassing van deze bijlage wordt verstaan onder:
 
 - v. voor activiteiten als bedoeld in artikel 138, eerste of tweede lid, van [verordening (EU) 2017/625](32525R2017) naar aanleiding van de werkzaamheden bedoeld in de onderdelen a tot en met t van dit deel van deze bijlage, en de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=12&z=2024-07-01&g=2023-09-26), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=13&z=2024-07-01&g=2023-09-26), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=15&z=2024-07-01&g=2023-09-26), en [18a](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=18a&z=2024-07-01&g=2023-09-26) van deze regeling.
 
+## Bijlage D. Inspecties en audits
+
+- a. de behandeling en afhandeling van een aanvraag tot erkenning als bedoeld in artikel 24 van [verordening (EG) nr. 1069/2009](32009R1069), alsmede de door de NVWA vooraf aangekondigde en vastgelegde periodieke controles op de naleving van de aan die erkenning verbonden eisen;
+
+- b. de behandeling en afhandeling van een aanvraag tot erkenning van een entrepot vereist op grond van op artikel 51, eerste lid, onder d, van [verordening (EU) 2017/625](32525R2017) gebaseerde gedelegeerde handelingen van de Europese Commissie, alsmede de door de NVWA vooraf aangekondigde en vastgelegde periodieke controles op de naleving van de aan die erkenning verbonden eisen;
+
+- c. de behandeling en afhandeling van een aanvraag tot erkenning van een speciaal entrepot in de haven van bestemming vereist op grond van op artikel 51, eerste lid, onder d, van [verordening (EU) 2017/625](32525R2017) gebaseerde gedelegeerde handelingen van de Europese Commissie, alsmede de door de NVWA vooraf aangekondigde en vastgelegde periodieke controles op de naleving van de aan die erkenning verbonden eisen;
+
+- d. de behandeling en afhandeling van een aanvraag om te worden aangewezen als grensinspectiepost op grond van artikel 59 van [verordening (EU) 2017/625](32525R2017), alsmede de door de NVWA vooraf aangekondigde en vastgelegde periodieke controles op de naleving van de aan die erkenning verbonden eisen;
+
+- e. de behandeling en afhandeling van een aanvraag tot erkenning als bedoeld in artikel 10 van [verordening (EG) nr. 183/2005](32005R0183) dan wel tot wijziging van die erkenning, voor zover dit betrekking heeft op de werkzaamheden van een afzonderlijke ambtenaar in het kader van onderzoek ter plaatse naar het voldoen aan de eisen voor het verkrijgen van de desbetreffende erkenning, alsmede de door de NVWA aangekondigde en vastgelegde periodieke controles op de naleving van de aan die erkenning verbonden eisen;
+
+- f. werkzaamheden die op verzoek van de aanbieder door of vanwege de NVWA worden verricht met betrekking tot toevoegingsmiddelen, voormengsels of diervoeders;
+
+- g. een aanvullende officiële controle na vaststelling van niet-naleving als bedoeld in artikel 79, tweede lid, onder c, van [verordening (EU) 2017/625](32017R0625), niet zijnde aanvullende officiële controles als bedoeld in [artikel 18b](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=18b&z=2024-01-01&g=2024-01-01), en [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=E&z=2024-01-01&g=2024-01-01), onderdeel b;
+
+- h. de behandeling en afhandeling van een aanvraag tot erkenning als bedoeld in artikel 13 van [verordening (EU) 2019/4](31904R2019), alsmede de door de NVWA vooraf aangekondigde en vastgelegde periodieke controles op de naleving van de aan die vergunning verbonden eisen;
+
+- i. werkzaamheden die betrekking hebben op onderzoek dat in verband met de deelname van een bedrijf aan het exportkanalisatiesysteem wordt verricht;
+
+- j. de behandeling en afhandeling voor een aanvraag voor goedkeuring voor cépagewijn als bedoeld in artikel 120, tweede lid, van [verordening (EU) nr. 1308/2013](32013R1308), alsmede de door de NVWA vooraf aangekondigde en vastgelegde periodieke controles op de naleving van de aan de goedkeuring verbonden eisen;
+
+- k. een aanvullende officiële controle na vaststelling van niet-naleving als bedoeld in [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&artikel=2), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&artikel=5) en [19a van de Regeling wijn en olijfolie](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&artikel=19a);
+
+- l. de behandeling en afhandeling van een aanvraag tot registratie, bedoeld in [artikel 5.5 van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=5.5);
+
+- m. werkzaamheden ten behoeve van een erkenning als bedoeld in de artikelen 94, eerste lid, 95, 176, eerste lid, 177, 178, onderdeel a, 179 en 227, aanhef en onderdeel a in samenhang met de artikelen 94, eerste lid, of 95, van [verordening (EU) 2016/429](32329R2016), als bedoeld in [artikel 2.10c, van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.10c) als bedoeld in de [artikelen 5c.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=5c.3) en [7c.3, eerste lid, van de Regeling houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=7c.3), of als bedoeld in [artikel 5a.3 van de Regeling diergeneesmiddelen 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046239&artikel=5a.3), en de door de NVWA vooraf aangekondigde en vastgelegde periodieke controles op de naleving van de aan die erkenning verbonden eisen;
+
+- n. werkzaamheden ten behoeve van het erkennen van bedrijven met een verwaarloosbaar risico op klassieke scrapie en bedrijven met een gecontroleerd risico op klassieke scrapie als bedoeld in artikel 15 van [verordening (EG) nr. 999/2001](32001R0999), alsmede de door de NVWA vooraf aangekondigde en vastgelegde periodieke controles op de naleving van de aan die erkenning verbonden eisen;
+
+- o. de behandeling en afhandeling van een aanvraag tot toestemming als bedoeld in [verordening (EG) nr. 1069/2009](32009R1069) en [verordening (EG) nr. 142/2011](32011R0142), met uitzondering van de aanvraag tot toestemming voor invoer in Nederland als bedoeld in artikel 48, eerste lid, van [verordening (EG) nr. 1069/2009](32009R1069), alsmede de door de NVWA vooraf aangekondigde en vastgelegde periodieke controles op de naleving van de aan die toestemming verbonden eisen;
+
+- p. werkzaamheden ten behoeve van een erkenning als bedoeld in artikel 4 van [verordening (EG) nr. 853/2004](32004R0853), voor zover het een levensmiddelenbedrijf betreft waarop de [Regeling dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032462) van toepassing is, alsmede de door de NVWA vooraf aangekondigde en vastgelegde periodieke controles op de naleving van de aan die erkenning verbonden eisen;
+
+- q. de behandeling en afhandeling van een toestemming, registratie of goedkeuring op grond van artikel 7 en bijlage IV van [verordening (EG) 999/2001](32001R0999), alsmede de door de NVWA vooraf aangekondigde en vastgelegde periodieke controles op de naleving van de aan die toestemming, registratie of goedkeuring verbonden eisen;
+
+- r. toepassing van de maatregelen, bedoeld in artikel 42 van [verordening (EU) 2019/627](32527R2019) en bij controles op het bedrijf van herkomst als bedoeld in artikel 43, eerste lid, van [verordening (EU) 2019/627](32527R2019), voor zover het gaat om maatregelen in slachthuizen, wildbewerkingsinrichtingen, uitsnijderijen, of overige levensmiddelenbedrijven die niet onder [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=E&z=2024-01-01&g=2024-01-01) vallen;
+
+- s. de behandeling en afhandeling van een aanvraag voor de verlening van de status ‘inrichting vrij van ‘ziekte’ als bedoeld in bijlage IV, deel IV, hoofdstuk I, of bijlage IV, deel VI, hoofdstuk I van [verordening (EU) 2020/689](32589R2020), alsmede de door de NVWA vooraf aangekondigde en vastgelegde periodieke controles op de naleving van de aan die status verbonden eisen;
+
+- t. de behandeling en afhandeling van een aanvraag tot goedkeuring van een compartiment vrij van hoogpathogene aviaire influenza, alsmede de door de NVWA vooraf aangekondigde en vastgelegde periodieke controles op de naleving van de aan die goedkeuring verbonden eisen;
+
+- u. de behandeling en afhandeling van een aanvraag voor de status van tegen vectoren beschermde inrichting bedoeld in artikel 44, van [verordening (EU) 2020/689](32020R0689), alsmede de door de NVWA vooraf aangekondigde en vastgelegde periodieke controles op de naleving van de aan die goedkeuring verbonden eisen;
+
+- v. werkzaamheden die betrekking hebben op onderzoek dat in verband met de goedkeuring en controle van het exportkanalisatieprotocol wordt verricht;
+
+- w. werkzaamheden die op verzoek van de aanbieder door of vanwege de NVWA worden verricht ter zake van de exportregistratie van bedrijven, voor zover deze registratie verband houdt met de door het land van bestemming aan de invoer gestelde eisen, dan wel voor zover dit onderzoek verband houdt met een schriftelijke afspraak tussen de Chief Veterinary Officer en de bevoegde autoriteit van een derde land, alsmede de door de NVWA vooraf aangekondigde en vastgelegde periodieke controles op de naleving van de aan die erkenning verbonden eisen;
+
+- x. voor activiteiten als bedoeld in artikel 138, eerste of tweede lid, van [verordening (EU) 2017/625](32525R2017) naar aanleiding van de werkzaamheden bedoeld in de onderdelen a tot en met u van dit deel van deze bijlage, en de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=12&z=2024-01-01&g=2024-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=13&z=2024-01-01&g=2024-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=15&z=2024-01-01&g=2024-01-01), en [18a](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=18a&z=2024-01-01&g=2024-01-01) van deze regeling.
+
 ## Bijlage E. Overige tarieven aanvullende controles veehouders voor zover betrekking hebbend op werkzaamheden in verband met de primaire veehouderij
 
 - a. toepassing van de maatregelen, bedoeld in artikel 42 van [verordening (EU) 2019/627](32527R2019) en bij controles op het bedrijf van herkomst als bedoeld in artikel 43, eerste lid, van [verordening (EU) 2019/627](32527R2019);
@@ -1789,12 +1749,6 @@ Voor de berekening van het aantal grootvee-eenheden (GVE) worden de volgende omr
 | **Klein vrij wild** |   |
 | Lagomorfen en gevogelte | 0,0014 |
 
-## Bijlage H. bij [artikel 26, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=4&artikel=26&z=2023-07-14&g=2023-09-26)
-
-Producten
-
-- –. onverwerkte mest
-
 ### Deel I. tarieven behorend bij [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=9&z=2023-07-01&g=2023-07-01)
 
 ### Deel I. tarieven behorend bij [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=9&z=2023-07-14&g=2023-09-26)
@@ -1805,11 +1759,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 20c
 
-1. De aanbieder is voor werkzaamheden als bedoeld in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=D&z=2023-07-14&g=2023-09-26), onderdeel g, voor zover die zien op [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=B&z=2023-07-14&g=2023-09-26), deel III, onderdeel f, en die betrekking hebben op onverwerkte mest een aanvullende retributie verschuldigd als de werkzaamheden worden onderbroken of uitgesteld, onderscheidenlijk geheel of gedeeltelijk niet plaatsvinden door omstandigheden buiten toedoen van de met de werkzaamheden belaste persoon of personen.
+1. De aanbieder is voor werkzaamheden als bedoeld in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=D&z=2024-01-01&g=2024-01-01), onderdeel g, voor zover die zien op [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=B&z=2024-01-01&g=2024-01-01), deel III, onderdeel f, en die betrekking hebben op onverwerkte mest een aanvullende retributie verschuldigd als de werkzaamheden worden onderbroken of uitgesteld, onderscheidenlijk geheel of gedeeltelijk niet plaatsvinden door omstandigheden buiten toedoen van de met de werkzaamheden belaste persoon of personen.
 
-2. De retributie, bedoeld in het eerste lid, bedraagt € 39,82 per kwartier dat de onderbreking onderscheidenlijk het uitstel voor de met de werkzaamheden belaste persoon heeft geduurd, onderscheidenlijk zouden hebben geduurd indien zij zouden zijn verricht door de persoon die met de desbetreffende werkzaamheden naar het oordeel van de Minister zou zijn belast.
+2. De retributie, bedoeld in het eerste lid, bedraagt € 45,49 per kwartier dat de onderbreking onderscheidenlijk het uitstel voor de met de werkzaamheden belaste persoon heeft geduurd, onderscheidenlijk zouden hebben geduurd indien zij zouden zijn verricht door de persoon die met de desbetreffende werkzaamheden naar het oordeel van de Minister zou zijn belast.
 
-3. [Artikel 27, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=4&artikel=27&z=2023-07-14&g=2023-09-26), is van overeenkomstige toepassing.
+3. [Artikel 27, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=4&artikel=27&z=2024-01-01&g=2024-01-01), is van overeenkomstige toepassing.
 
 #### § 3. Retribuering starttarieven
 
@@ -1821,17 +1775,66 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Voor de toepassing van deze bijlage wordt verstaan onder:
 
-### Deel II. Fysieke exportcertificering levende dieren en levende producten
+### Deel I. Fysieke exportcertificering (dierlijke) (bij)producten
 
 ## Bijlage C. Import
 
-### Deel I. Uurtarief
+### Deel III. Exportcertificering op afstand
 
-## Bijlage H. bij [artikel 26, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=4&artikel=26&z=2024-07-01&g=2023-09-26)
+## Bijlage G
 
-Producten
-
-- –. onverwerkte mest
+| Diersoort | Gewicht in kilogram |
+| --- | --- |
+| **Als landbouwhuisdier gehouden hoefdieren** |   |
+| volwassen rund (incl. bubalus en bison) | 364 |
+| meststier | 467 |
+| jong rund (rosé vleeskalf) | 212 |
+| jong rund (blank vleeskalf) | 153 |
+| varken | 98 |
+| zeug (beer) | 170 |
+| big | 25 |
+| schaap | 22 |
+| geit | 13 |
+| eenhoevige (paard) | 220 |
+|   |   |
+| **Pluimvee** |   |
+| vleeskuiken | 1,65 |
+| kip (leg) | 1,11 |
+| kip (ouderdier) | 2,14 |
+| kalkoen | 5 |
+| eend | 1,5 |
+| gans | 3 |
+| parelhoen | 1 |
+| fazant | 0,6 |
+| patrijs | 0,25 |
+| kwartel | 0,15 |
+| duif | 0,3 |
+|   |   |
+| **Wild** |   |
+| **Gekweekt wild** |   |
+| tamme konijnen | 1,5 |
+| struisvogel | 30 |
+| nandoe | 30 |
+| emoe | 30 |
+| edelhert | 75 |
+| damhert | 55 |
+| zwijn | 50 |
+|   |   |
+| **Klein vrij wild** |   |
+| haas | 1,5 |
+| konijn | 0,7 |
+| duif | 0,25 |
+| eend | 0,7 |
+| fazant | 0,5 |
+| patrijs | 0,2 |
+| gans | 2,5 |
+|   |   |
+| **Grof vrij wild** |   |
+| edelhert | 60 |
+| damhert | 45 |
+| ree | 12 |
+| moeflon | 25 |
+| zwijn | 50 |
 
 ### Deel II. tarieven behorend bij [artikel 9b](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=9b&z=2023-07-14&g=2023-09-26)
 
@@ -1841,21 +1844,39 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 28b
 
-Voor de periode van 26 september 2023 tot en met 31 december 2023 gelden voor de werkzaamheden, bedoeld in de artikelen, of onderdelen daarvan, of onderdelen van de bijlagen, genoemd in kolom 1 van de tabel in [bijlage J](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=J&z=2024-07-01&g=2023-09-26), in afwijking van die respectievelijke artikelen, onderdelen daarvan, en onderdelen van de bijlagen, zoals die golden in die periode, de desbetreffende tarieven, bedoeld in kolom 2 van de tabel in bijlage J.
+Voor de periode van 26 september 2023 tot en met 31 december 2023 gelden voor de werkzaamheden, bedoeld in de artikelen, of onderdelen daarvan, of onderdelen van de bijlagen, genoemd in kolom 1 van de tabel in [bijlage J](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=J&z=2024-07-01&g=2024-01-01), in afwijking van die respectievelijke artikelen, onderdelen daarvan, en onderdelen van de bijlagen, zoals die golden in die periode, de desbetreffende tarieven, bedoeld in kolom 2 van de tabel in bijlage J.
 
 #### § 5. Slotbepalingen
 
-## Bijlage B. Exportcertificering
+## Bijlage A. Slachthuizen, wildbewerkingsinrichtingen en uitsnijderijen
+
+- a. controles als bedoeld in artikel 18 van [verordening (EU) 2017/625](32525R2017) en de daarop gebaseerde gedelegeerde handelingen en uitvoeringshandelingen van de Europese Commissie, verricht door een officiële dierenarts of een officiële assistent werkzaam bij de NVWA, ter zake van de productie van vlees van:
+
+- 1. als landbouwhuisdier gehouden hoefdieren als bedoeld in bijlage I, onderdeel 1.2, van [verordening (EG) nr. 853/2004](32004R0853);
+
+- 2. pluimvee als bedoeld in bijlage I, onderdeel 1.3, van [verordening (EG) nr. 853/2004](32004R0853);
+
+- 3. lagomorfen als bedoeld in bijlage I, onderdeel 1.4, van [verordening (EG) nr. 853/2004](32004R0853);
+
+- 4. vrij wild als bedoeld in bijlage I, onderdeel 1.5, van [verordening (EG) nr. 853/2004](32004R0853);
+
+- 5. gekweekt wild als bedoeld in bijlage I, onderdeel 1.6, van [verordening (EG) nr. 853/2004](32004R0853);
+
+- b. voor activiteiten als bedoeld in artikel 138, eerste of tweede lid, van [verordening (EU) 2017/625](32525R2017) naar aanleiding van de in onderdeel a bedoelde controles.
 
 Voor de toepassing van deze bijlage wordt verstaan onder:
 
 ## Bijlage C. Import
 
-### Deel II. Stuktarief
+### Deel I. Uurtarief
 
-## Bijlage I
+## Bijlage H. bij [artikel 26, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=4&artikel=26&z=2024-01-01&g=2024-01-01)
 
-### Deel II. tarieven behorend bij [artikel 9b](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=9b&z=2024-07-01&g=2023-09-26)
+Producten
+
+- –. onverwerkte mest
+
+### Deel I. tarieven behorend bij [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=9&z=2024-01-01&g=2024-01-01)
 
 ## Bijlage J. Tarieven periode 26 september 2023 tot en met 31 december 2023
 
@@ -1991,6 +2012,175 @@ Voor de toepassing van deze bijlage wordt verstaan onder:
 | [Artikel 22c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=22c&z=2024-07-01&g=2023-09-26) | € 1.470,09 |
 | [Bijlage I, deel I](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=I&z=2024-07-01&g=2023-09-26) | aflatoxine (incl. monstername): € 658,22 aflatoxine excl. monstername: € 302,70 bestrijdingsmiddelen residuen (incl. monstername): € 782,54 chloramphenicol (incl. monstername): € 1.576,72 cyanide (incl. monstername): € 1.036,11 ethyleenoxide (incl. monstername): € 792,88 GGO rijst China (incl.monstername): € 1.263,15 minerale parafine (incl. monstername): € 0,00 norovirus (incl. monstername): € 2.167,89 norovirus schelpdieren (incl. monstername): € 2.339,64 ochratoxine (incl. monstername): € 658,22 pentachloorfenol (incl. monstername): € 1.450,79 pyrrolizidinealkaloiden (incl. monstername): € 2.066,60 rhodamine (incl. monstername): € 710,16 salmonella (incl. monstername): € 420,02 soedanrood (incl. monstername): € 654,22 sulfiet (incl. monstername): € 742,70 radioactiviteit Japan (incl.monstern): € 619,90 radioactiviteit Tsjernobyl (incl. monstername): € 548,96 |
 | [Bijlage I, deel II](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=I&z=2024-07-01&g=2023-09-26) | chemisch onderzoek albumin lysozyme (ei-eiwit): € 550,52 amaranth: € 369,02 aminoglycosiden (bevestiging en kwantificering): € 1.344,70 antibiotica screening NAT (Nouws Ab Test) incl. bevestiging en kwantificering < MRL waarde: € 94,85 benzoic acid: € 518,58 benzo(a)pyreen: € 532,50 beta-lactam zonder spoed: € 1.345,88 chloraat: € 1.662,25 chloramphenicol: € 1.074,33 coccidiostaticum (o.a. clopidol toltrazuril): € 1.307,91 dierlijk eiwitten: € 569,12 dioxine: € 1.172,62 histamine: € 565,97 ivermectine: € 1.265,09 kleurstoffen: € 430,94 koolmonoxide: € 341,68 leucokristalviolet/malachietgroen: € 739,54 macroliden (bevestiging en kwantificering): € 1.278,99 mariene biotoxines: € 1.682,70 melamine China import (vet): € 1.104,07 mycotoxine: € 300,88 nitrofuranen (metabolieten): € 1.171,51 nitroimidazolen: € 1.182,65 organochloorverbindingen (oc/pcb):€ 523,04 pak (polycycl.aromat.koolwaterstof): € 607,87 percentage onzuiverheden gesmolten vet: € 139,51 quinolonen (bevestiging en kwantificering): € 996,49 ractopamine: € 4.536,53 radioactiviteit: € 229,54 sulfiet: € 451,78 sulfonamiden (bevestiging en kwantificering): € 1.622,14 tetracyclines (bevestiging en kwantificering): € 967,62 tetracyclines (screening): € 603,40 tranquillizers: € 1.182,76 zware metalen (Pb,Cd,Hg,As): € 1.187,19 microbiologisch onderzoek combi Aeroob en Enterobacteriaceae karkas (kiemgetal) per bepaling: € 104,41 aeroob kiemgetal: € 45,20 bacteriologisch onderzoek: € 42,39 clostridium perfringens: € 55,80 e. coli (grensreactie): € 99,94 e. coli (kiemgetal): € 45,94 e. coli (mpn): € 131,25 e.coli (stec): € 63,03 e. coli (stec rundvlees export USA): € 63,03 enterobacteriaceae (kiemgetal): € 63,03 listeria monocytogenes: € 111,31 noro en/of Hepatitis A virus: € 1.896,45 noro en/of Hepatitis A virus schelpdieren: € 1.770,39 salmonella (5 deelmonsters): € 71,53 soortbepaling: € 1.557,00 speciesbepaling: € 465,22 vibrio cholerae / parahaemolyticus incl. bevestiging: € 88,62 visspecies: € 531,05 |
+
+Deze regeling treedt in werking met ingang van 1 maart 2014.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 9c
+
+De aanbieder is een retributie verschuldigd die overeenkomt met de werkelijke kosten van laboratoriumonderzoeken waarop de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=9&z=2024-01-01&g=2024-01-01) in samenhang met [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=I&z=2024-01-01&g=2024-01-01), deel I, en [artikel 9b](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=9b&z=2024-01-01&g=2024-01-01) in samenhang met bijlage I, deel II, niet van toepassing zijn, en die ter uitvoering van EU-verordeningen of bij of krachtens de [Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250) nodig of verplicht zijn.
+
+#### § 4. Overige bepalingen
+
+#### § 5. Slotbepalingen
+
+## Bijlage B. Exportcertificering
+
+Voor de toepassing van deze bijlage wordt verstaan onder:
+
+### Deel II. Stuktarief
+
+## Bijlage I
+
+### Deel II. tarieven behorend bij [artikel 9b](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=9b&z=2024-01-01&g=2024-01-01)
+
+#### § 5. Slotbepalingen
+
+## Bijlage B. Exportcertificering
+
+Voor de toepassing van deze bijlage wordt verstaan onder:
+
+### Deel II. Stuktarief
+
+## Bijlage I
+
+### Deel II. tarieven behorend bij [artikel 9b](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=9b&z=2024-07-01&g=2024-01-01)
+
+## Bijlage J. Tarieven periode 26 september 2023 tot en met 31 december 2023
+
+| Artikel | Retributie 26 september 2023 tot en met 31 december 2023 |
+| --- | --- |
+| [Artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=3&z=2024-07-01&g=2024-01-01) | € 196,27 |
+| [Artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=3&z=2024-07-01&g=2024-01-01) | € 38,28 |
+| [Artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=4&z=2024-07-01&g=2024-01-01) | € 21,56 |
+| [Artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=4&z=2024-07-01&g=2024-01-01), starttarief | € 59,72 |
+| [Artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=4&z=2024-07-01&g=2024-01-01), bedrag per kwartier | € 21,41 |
+| [Artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=4&z=2024-07-01&g=2024-01-01) | € 28,44 |
+| [Artikel 4, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=4&z=2024-07-01&g=2024-01-01), starttarief | € 119,45 |
+| [Artikel 4, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=4&z=2024-07-01&g=2024-01-01), bedrag per kwartier | € 45,26 |
+| [Artikel 5, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=5&z=2024-07-01&g=2024-01-01) | € 43,27 |
+| [Artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=5&z=2024-07-01&g=2024-01-01) | € 157,17 |
+| [Artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=5&z=2024-07-01&g=2024-01-01) | € 5,85 |
+| [Artikel 5, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=5&z=2024-07-01&g=2024-01-01) | € 321,54 |
+| [Artikel 5, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=5&z=2024-07-01&g=2024-01-01) | € 279,14 |
+| [Artikel 5, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=5&z=2024-07-01&g=2024-01-01) | € 103,17 |
+| [Artikel 5a, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=5a&z=2024-07-01&g=2024-01-01) | € 52,21 |
+| [Artikel 5a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=5a&z=2024-07-01&g=2024-01-01) | € 144,35 |
+| [Artikel 5a, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=5a&z=2024-07-01&g=2024-01-01) | € 5,85 |
+| [Artikel 5a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=5a&z=2024-07-01&g=2024-01-01) | € 25,45 |
+| [Artikel 5a, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=5a&z=2024-07-01&g=2024-01-01) | € 25,45 |
+| [Artikel 5a, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=5a&z=2024-07-01&g=2024-01-01) | € 321,54 |
+| [Artikel 5a, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=5a&z=2024-07-01&g=2024-01-01) | € 279,14 |
+| [Artikel 5a, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=5a&z=2024-07-01&g=2024-01-01) | € 103,17 |
+| [Artikel 5a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=5a&z=2024-07-01&g=2024-01-01) | € 50,89 |
+| [Artikel 5b, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=5b&z=2024-07-01&g=2024-01-01) | € 52,91 |
+| [Artikel 5b, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=5b&z=2024-07-01&g=2024-01-01) | € 5,85 |
+| [Artikel 5b, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=5b&z=2024-07-01&g=2024-01-01) | € 1,78 |
+| [Artikel 5b, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=5b&z=2024-07-01&g=2024-01-01) | € 321,54 |
+| [Artikel 5b, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=5b&z=2024-07-01&g=2024-01-01) | € 279,14 |
+| [Artikel 5b, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=5b&z=2024-07-01&g=2024-01-01) | € 103,17 |
+| [Artikel 5b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=5b&z=2024-07-01&g=2024-01-01) | € 224,58 |
+| [Artikel 5b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=5b&z=2024-07-01&g=2024-01-01) | € 151,95 |
+| [Artikel 5b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=5b&z=2024-07-01&g=2024-01-01) | € 23,48 |
+| [Artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=6&z=2024-07-01&g=2024-01-01) | € 76,31 |
+| [Artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=6&z=2024-07-01&g=2024-01-01) | € 38,15 |
+| [Artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=6&z=2024-07-01&g=2024-01-01) | € 139,60 |
+| [Artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=7&z=2024-07-01&g=2024-01-01), kg tarief | € 0,01450 |
+| [Artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=7&z=2024-07-01&g=2024-01-01), minimale tarief per aangeboden partij | € 87,00 |
+| [Artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=7&z=2024-07-01&g=2024-01-01), bedrag dat ten hoogste in rekening wordt gebracht per aangeboden partij | € 666,97 |
+| [Artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=7&z=2024-07-01&g=2024-01-01), kg-tarief | € 0,01883 |
+| [Artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=7&z=2024-07-01&g=2024-01-01), minimale tarief per aangeboden partij | € 112,99 |
+| [Artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=7&z=2024-07-01&g=2024-01-01), bedrag dat ten hoogste in rekening wordt gebracht per aangeboden partij | € 866,25 |
+| [Artikel 7, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=7&z=2024-07-01&g=2024-01-01) | € 1,235,13 |
+| [Artikel 7, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=7&z=2024-07-01&g=2024-01-01) | € 2.470,28 |
+| [Artikel 7, vierde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=7&z=2024-07-01&g=2024-01-01) | € 4.940,61 |
+| [Artikel 7, vierde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=7&z=2024-07-01&g=2024-01-01) | € 7.421,06 |
+| [Artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=7&z=2024-07-01&g=2024-01-01), kg-tarief | € 0,02452 |
+| [Artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=7&z=2024-07-01&g=2024-01-01), minimale tarief per aangeboden partij | € 147,13 |
+| [Artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=7&z=2024-07-01&g=2024-01-01), bedrag dat ten hoogste in rekening wordt gebracht per aangeboden partij | € 1.127,92 |
+| [Artikel 7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=7&z=2024-07-01&g=2024-01-01), kg-tarief | € 0,03188 |
+| [Artikel 7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=7&z=2024-07-01&g=2024-01-01), minimale tarief per aangeboden partij | € 191,27 |
+| [Artikel 7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=7&z=2024-07-01&g=2024-01-01), bedrag dat ten hoogste in rekening wordt gebracht per aangeboden partij | € 1.466,30 |
+| [Artikel 7a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=7a&z=2024-07-01&g=2024-01-01), kg-tarief | € 0,01124 |
+| [Artikel 7a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=7a&z=2024-07-01&g=2024-01-01), minimale tarief per aangeboden partij | € 67,42 |
+| [Artikel 7a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=7a&z=2024-07-01&g=2024-01-01), bedrag dat ten hoogste in rekening wordt gebracht per aangeboden partij | € 516,90 |
+| [Artikel 7a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=7a&z=2024-07-01&g=2024-01-01), kg-tarief | € 0,01460 |
+| [Artikel 7a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=7a&z=2024-07-01&g=2024-01-01), minimale tarief per aangeboden partij | € 87,57 |
+| [Artikel 7a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=7a&z=2024-07-01&g=2024-01-01), bedrag dat ten hoogste in rekening wordt gebracht per aangeboden partij | € 671,35 |
+| [Artikel 7a, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=7a&z=2024-07-01&g=2024-01-01) | € 957,22 |
+| [Artikel 7a, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=7a&z=2024-07-01&g=2024-01-01) | € 1.914,47 |
+| [Artikel 7a, vierde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=7a&z=2024-07-01&g=2024-01-01) | € 3.828,97 |
+| [Artikel 7a, vierde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=7a&z=2024-07-01&g=2024-01-01) | € 5.751,32 |
+| [Artikel 7b, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=7b&z=2024-07-01&g=2024-01-01) | € 93,22 |
+| [Artikel 7b, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=7b&z=2024-07-01&g=2024-01-01) | € 76,31 |
+| [Artikel 8, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=8&z=2024-07-01&g=2024-01-01) | € 198,43 |
+| [Artikel 8, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=8&z=2024-07-01&g=2024-01-01) | € 38,85 |
+| [Artikel 8a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=8a&z=2024-07-01&g=2024-01-01) | € 89,88 |
+| [Artikel 8a, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=8a&z=2024-07-01&g=2024-01-01), bedrag per kwartier | € 33,82 |
+| [Artikel 8a, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=8a&z=2024-07-01&g=2024-01-01), starttarief | € 154,18 |
+| [Artikel 8b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=8b&z=2024-07-01&g=2024-01-01) | 15 minuten – 1 uur: € 77,71 > 1 uur – 2 uur: € 155,41 > 2 uur – 3 uur: € 155,41 > 3 uur – 4 uur: € 233,12 > 4 uur – 5 uur: € 310,83 > 5 uur – 6 uur: € 388,54 > 6 uur – 7 uur: € 466,24 > 7 uur – 8 uur: € 543,95 > 8 uur – 12 uren: € 621,66 > 12 uren – 16 uren: € 699,36 > 16 uren – 20 uren: € 777,07 > 20 uren – 24 uren: € 854,78 > 24 uren: € 932,49 |
+| [Artikel 8c, tweede lid, tabel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=8c&z=2024-07-01&g=2024-01-01) | 15 minuten – 1 uur: € 155,41 > 1 uur – 2 uur: € 155,41 > 2 uur – 3 uur: € 310,83 > 3 uur – 4 uur: € 310,83 > 4 uur – 5 uur: € 388,54 > 5 uur – 6 uur: € 388,54 > 6 uur – 7 uur: € 466,24 > 7 uur – 8 uur: € 543,95 > 8 uur – 12 uren: € 621,66 > 12 uren – 16 uren: € 699,36 > 16 uren – 20 uren: € 777,07 > 20 uren – 24 uren: € 854,78 > 24 uren: € 932,49 |
+| [Artikel 8c, tweede lid, tabel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=8c&z=2024-07-01&g=2024-01-01) | 15 minuten – 1 uur: € 135,28 > 1 uur – 2 uur: € 135,28 > 2 uur – 3 uur: € 270,55 > 3 uur – 4 uur: € 270,55 > 4 uur – 5 uur: € 338,19 > 5 uur – 6 uur: € 338,19 > 6 uur – 7 uur: € 405,83 > 7 uur – 8 uur: € 473,46 > 8 uur – 12 uren: € 541,10 > 12 uren – 16 uren: € 608,74 > 16 uren – 20 uren: € 676,38 > 20 uren – 24 uren: € 744,01 > 24 uren: € 811,65 |
+| [Artikel 9, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=9&z=2024-07-01&g=2024-01-01) | € 567,29 |
+| [Artikel 9, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=9&z=2024-07-01&g=2024-01-01) | € 425,46 |
+| [Artikel 9, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=9&z=2024-07-01&g=2024-01-01) | € 567,29 |
+| [Artikel 9, derde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=9&z=2024-07-01&g=2024-01-01) | € 567,29 |
+| [Artikel 9a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=9a&z=2024-07-01&g=2024-01-01) | € 76,30 |
+| [Artikel 9a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=9a&z=2024-07-01&g=2024-01-01) | € 76,31 |
+| [Artikel 10, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=10&z=2024-07-01&g=2024-01-01) | € 16,78 |
+| [Artikel 10, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=10&z=2024-07-01&g=2024-01-01) | € 78,37 |
+| [Artikel 10, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=10&z=2024-07-01&g=2024-01-01) | € 37,07 |
+| [Artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=10&z=2024-07-01&g=2024-01-01) | € 29,85 |
+| [Artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=11&z=2024-07-01&g=2024-01-01) | € 1,53 |
+| [Artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=12&z=2024-07-01&g=2024-01-01) | € 341,28 |
+| [Artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=13&z=2024-07-01&g=2024-01-01) | € 227,52 |
+| [Artikel 13, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=13&z=2024-07-01&g=2024-01-01) | € 63,10 |
+| [Artikel 13, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=13&z=2024-07-01&g=2024-01-01) | € 63,10 |
+| [Artikel 13, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=13&z=2024-07-01&g=2024-01-01) | € 56,88 |
+| [Artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=14&z=2024-07-01&g=2024-01-01) | € 50,89 |
+| [Artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=14&z=2024-07-01&g=2024-01-01) | € 50,09 |
+| [Artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=14&z=2024-07-01&g=2024-01-01) | € 70,43 |
+| [Artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=15&z=2024-07-01&g=2024-01-01) | € 53,57 |
+| [Artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=15&z=2024-07-01&g=2024-01-01) | € 50,09 |
+| [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=16&z=2024-07-01&g=2024-01-01) | € 38,15 |
+| [Artikel 18a](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=18a&z=2024-07-01&g=2024-01-01) | € 2.147,24 |
+| [Artikel 18b, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=18b&z=2024-07-01&g=2024-01-01), basistarief | € 263,01 |
+| [Artikel 18b, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=18b&z=2024-07-01&g=2024-01-01), tarief per kwartier | € 29,96 |
+| [Artikel 18b, eerste lid, onderdeel b, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=18b&z=2024-07-01&g=2024-01-01) | € 341,92 |
+| [Artikel 18b, eerste lid, onderdeel b, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=18b&z=2024-07-01&g=2024-01-01) | € 466,95 |
+| [Artikel 18b, eerste lid, onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=18b&z=2024-07-01&g=2024-01-01), eerst genoemde tarief (was € 478,56) | € 466,95 |
+| [Artikel 18b, eerste lid, onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=18b&z=2024-07-01&g=2024-01-01), als tweede genoemde tarief (was € 39,88) | € 38,91 |
+| [Artikel 18b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=18b&z=2024-07-01&g=2024-01-01) | € 89,88 |
+| [Artikel 20, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=20&z=2024-07-01&g=2024-01-01) | € 11,48 |
+| [Artikel 20, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=20&z=2024-07-01&g=2024-01-01) | € 12,99 |
+| [Artikel 20, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=20&z=2024-07-01&g=2024-01-01) | € 15,66 |
+| [Artikel 20, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=20&z=2024-07-01&g=2024-01-01) | € 11,45 |
+| [Artikel 20, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=20&z=2024-07-01&g=2024-01-01) | € 38,28 |
+| [Artikel 20, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=20&z=2024-07-01&g=2024-01-01) | € 43,27 |
+| [Artikel 20, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=20&z=2024-07-01&g=2024-01-01) | € 52,21 |
+| [Artikel 20, derde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=20&z=2024-07-01&g=2024-01-01) | € 38,15 |
+| [Artikel 20, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=20&z=2024-07-01&g=2024-01-01) | € 21,56 |
+| [Artikel 20, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=20&z=2024-07-01&g=2024-01-01) | € 55,65 |
+| [Artikel 20, vijfde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=20&z=2024-07-01&g=2024-01-01) | € 45,26 |
+| [Artikel 20, vijfde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=20&z=2024-07-01&g=2024-01-01) | € 13,58 |
+| [Artikel 20, zesde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=20&z=2024-07-01&g=2024-01-01) | € 45,26 |
+| [Artikel 20, zesde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=20&z=2024-07-01&g=2024-01-01) | € 13,58 |
+| [Artikel 20a](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=20a&z=2024-07-01&g=2024-01-01) | € 114,45 |
+| [Artikel 20b, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=20b&z=2024-07-01&g=2024-01-01) | € 127,64 |
+| [Artikel 20b, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=20b&z=2024-07-01&g=2024-01-01) | € 141,82 |
+| [Artikel 20c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=20c&z=2024-07-01&g=2024-01-01) | € 38,85 |
+| [Artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=22&z=2024-07-01&g=2024-01-01) | € 16,78 |
+| [Artikel 22, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=22&z=2024-07-01&g=2024-01-01) | € 1,92 |
+| [Artikel 22, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=22&z=2024-07-01&g=2024-01-01) | € 3,86 |
+| [Artikel 22, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=22&z=2024-07-01&g=2024-01-01) | € 3,86 |
+| [Artikel 22, derde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=22&z=2024-07-01&g=2024-01-01) | € 6,75 |
+| [Artikel 22, derde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=22&z=2024-07-01&g=2024-01-01) | € 9,64 |
+| [Artikel 22b](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=22b&z=2024-07-01&g=2024-01-01) | € 2.368,23 |
+| [Artikel 22c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=22c&z=2024-07-01&g=2024-01-01) | € 6.362,26 |
+| [Artikel 22c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&paragraaf=2&artikel=22c&z=2024-07-01&g=2024-01-01) | € 1.470,09 |
+| [Bijlage I, deel I](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=I&z=2024-07-01&g=2024-01-01) | aflatoxine (incl. monstername): € 658,22 aflatoxine excl. monstername: € 302,70 bestrijdingsmiddelen residuen (incl. monstername): € 782,54 chloramphenicol (incl. monstername): € 1.576,72 cyanide (incl. monstername): € 1.036,11 ethyleenoxide (incl. monstername): € 792,88 GGO rijst China (incl.monstername): € 1.263,15 minerale parafine (incl. monstername): € 0,00 norovirus (incl. monstername): € 2.167,89 norovirus schelpdieren (incl. monstername): € 2.339,64 ochratoxine (incl. monstername): € 658,22 pentachloorfenol (incl. monstername): € 1.450,79 pyrrolizidinealkaloiden (incl. monstername): € 2.066,60 rhodamine (incl. monstername): € 710,16 salmonella (incl. monstername): € 420,02 soedanrood (incl. monstername): € 654,22 sulfiet (incl. monstername): € 742,70 radioactiviteit Japan (incl.monstern): € 619,90 radioactiviteit Tsjernobyl (incl. monstername): € 548,96 |
+| [Bijlage I, deel II](https://wetten.overheid.nl/jci1.3:c:BWBR0034876&bijlage=I&z=2024-07-01&g=2024-01-01) | chemisch onderzoek albumin lysozyme (ei-eiwit): € 550,52 amaranth: € 369,02 aminoglycosiden (bevestiging en kwantificering): € 1.344,70 antibiotica screening NAT (Nouws Ab Test) incl. bevestiging en kwantificering < MRL waarde: € 94,85 benzoic acid: € 518,58 benzo(a)pyreen: € 532,50 beta-lactam zonder spoed: € 1.345,88 chloraat: € 1.662,25 chloramphenicol: € 1.074,33 coccidiostaticum (o.a. clopidol toltrazuril): € 1.307,91 dierlijk eiwitten: € 569,12 dioxine: € 1.172,62 histamine: € 565,97 ivermectine: € 1.265,09 kleurstoffen: € 430,94 koolmonoxide: € 341,68 leucokristalviolet/malachietgroen: € 739,54 macroliden (bevestiging en kwantificering): € 1.278,99 mariene biotoxines: € 1.682,70 melamine China import (vet): € 1.104,07 mycotoxine: € 300,88 nitrofuranen (metabolieten): € 1.171,51 nitroimidazolen: € 1.182,65 organochloorverbindingen (oc/pcb):€ 523,04 pak (polycycl.aromat.koolwaterstof): € 607,87 percentage onzuiverheden gesmolten vet: € 139,51 quinolonen (bevestiging en kwantificering): € 996,49 ractopamine: € 4.536,53 radioactiviteit: € 229,54 sulfiet: € 451,78 sulfonamiden (bevestiging en kwantificering): € 1.622,14 tetracyclines (bevestiging en kwantificering): € 967,62 tetracyclines (screening): € 603,40 tranquillizers: € 1.182,76 zware metalen (Pb,Cd,Hg,As): € 1.187,19 microbiologisch onderzoek combi Aeroob en Enterobacteriaceae karkas (kiemgetal) per bepaling: € 104,41 aeroob kiemgetal: € 45,20 bacteriologisch onderzoek: € 42,39 clostridium perfringens: € 55,80 e. coli (grensreactie): € 99,94 e. coli (kiemgetal): € 45,94 e. coli (mpn): € 131,25 e.coli (stec): € 63,03 e. coli (stec rundvlees export USA): € 63,03 enterobacteriaceae (kiemgetal): € 63,03 listeria monocytogenes: € 111,31 noro en/of Hepatitis A virus: € 1.896,45 noro en/of Hepatitis A virus schelpdieren: € 1.770,39 salmonella (5 deelmonsters): € 71,53 soortbepaling: € 1.557,00 speciesbepaling: € 465,22 vibrio cholerae / parahaemolyticus incl. bevestiging: € 88,62 visspecies: € 531,05 |
 
 Deze regeling treedt in werking met ingang van 1 maart 2014.
 
