@@ -4,7 +4,7 @@ identifier: "BWBR0034951"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2023-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034951"
 soort: "ministeriele-regeling"
@@ -108,11 +108,11 @@ De jaarlijkse informatie over de voortgang van de behandeling van het verzoek va
 
 ##### Artikel 5
 
-De hoogte van de bruto bedragen van de remigratie-uitkering, bedoeld in [artikel 2 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&artikel=2), wordt vastgesteld op basis van de bedragen genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034951&bijlage=2&z=2023-01-01&g=2023-01-01), die afhankelijk zijn van de categorie van bestemmingslanden, vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034951&bijlage=1&z=2023-01-01&g=2023-01-01).
+De hoogte van de bruto bedragen van de remigratie-uitkering, bedoeld in [artikel 2 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&artikel=2), wordt vastgesteld op basis van de bedragen genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034951&bijlage=2&z=2024-01-01&g=2024-01-01), die afhankelijk zijn van de categorie van bestemmingslanden, vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034951&bijlage=1&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 6
 
-De hoogte van de bruto bedragen van de tegemoetkoming in de kosten van de zelf af te sluiten verzekering tegen ziektekosten in het bestemmingsland, bedoeld in [artikel 5, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&artikel=5), wordt vastgesteld op basis van de bedragen genoemd in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034951&bijlage=3&z=2023-01-01&g=2023-01-01), die afhankelijk zijn van de categorie van bestemmingslanden, vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034951&bijlage=1&z=2023-01-01&g=2023-01-01).
+De hoogte van de bruto bedragen van de tegemoetkoming in de kosten van de zelf af te sluiten verzekering tegen ziektekosten in het bestemmingsland, bedoeld in [artikel 5, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&artikel=5), wordt vastgesteld op basis van de bedragen genoemd in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034951&bijlage=3&z=2024-01-01&g=2024-01-01), die afhankelijk zijn van de categorie van bestemmingslanden, vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034951&bijlage=1&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 7
 
@@ -148,57 +148,59 @@ Deze regeling treedt in werking op het tijdstip waarop de [Wet van 10 juli 2013 
 
 Deze regeling wordt aangehaald als: Remigratieregeling.
 
-## Bijlage 1. behorend bij de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034951&artikel=5&z=2023-01-01&g=2023-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0034951&artikel=6&z=2023-01-01&g=2023-01-01)
+## Bijlage 1. behorend bij de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034951&artikel=5&z=2024-01-01&g=2024-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0034951&artikel=6&z=2024-01-01&g=2024-01-01)
 
 ### Indeling bestemmingslanden in categorieën
 
-## Bijlage 2. behorend bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034951&artikel=5&z=2023-01-01&g=2023-01-01) van de Remigratieregeling
+## Bijlage 2. behorend bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034951&artikel=5&z=2024-01-01&g=2024-01-01) van de Remigratieregeling
+
+**Vaststelling bedragen remigratie-uitkering per categorie van bestemmingslanden op basis van de indeling in bijlage 1 van de regeling.**
 
 |   |   | Remigratie vóór 1-april-2000 | Remigratie vóór 1-april-2000 | Remigratie vóór 1-april-2000 | Remigratie vóór 1-april-2000 | Remigratie op of na 1-april-2000 | Remigratie op of na 1-april-2000 | Remigratie op of na 1-april-2000 | Remigratie op of na 1-april-2000 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|   |   | Geen Zvw | Geen Zvw | Zvw | Zvw | Geen Zvw | Geen Zvw | Zvw | Zvw |
-| Leefsituatie, | categorie | Geen AOW | AOW | Geen AOW | AOW | Geen AOW | AOW | Geen AOW | AOW |
+| Leefsituatie, |   | Geen Zvw | Geen Zvw | Zvw | Zvw | Geen Zvw | Geen Zvw | Zvw | Zvw |
+|   | categorie | Geen AOW | AOW | Geen AOW | AOW | Geen AOW | AOW | Geen AOW | AOW |
 | Samenwonend | Samenwonend |   |   |   |   |   |   |   |   |
-|   | A | 422,02 | 422,02 | 422,02 | 424,17 | 539,73 | 539,73 | 565,61 | 568,50 |
-|   | B | 490,08 | 490,08 | 490,08 | 497,75 | 626,77 | 626,77 | 666,20 | 676,63 |
-|   | C | 703,36 | 703,36 | 704,11 | 743,74 | 899,53 | 899,53 | 933,61 | 962,98 |
-|   | D | 465,02 | 465,02 | 465,02 | 465,55 | 594,81 | 594,81 | 601,03 | 601,71 |
-|   | E | 539,74 | 539,74 | 490,08 | 501,10 | 690,60 | 690,60 | 661,65 | 676,53 |
-|   | F | 775,11 | 775,11 | 784,52 | 824,54 | 991,36 | 991,36 | 1.040,44 | 1.067,57 |
-| Frankrijk | G | 422,02 | 422,02 | 422,02 | 442,72 | 539,73 | 539,73 | 556,62 | 583,93 |
-| Griekenland | H | 422,02 | 422,02 | 422,02 | 427,28 | 539,73 | 539,73 | 581,39 | 588,64 |
-| Italië | I | 490,08 | 490,08 | 490,08 | 503,99 | 626,77 | 626,77 | 657,23 | 675,89 |
-| Tsjechië | J | 490,08 | 490,08 | 490,08 | 498,20 | 626,77 | 626,77 | 665,70 | 676,73 |
-| Slovenië | K | 490,08 | 490,08 | 490,08 | 499,60 | 626,77 | 626,77 | 663,70 | 676,59 |
-| Portugal | L | 539,74 | 539,74 | 490,08 | 497,61 | 690,60 | 690,60 | 665,82 | 676,06 |
+|   | A | 422,02 | 422,02 | 422,02 | 424,42 | 567,83 | 567,83 | 598,99 | 602,40 |
+|   | B | 490,08 | 490,08 | 490,08 | 500,14 | 659,41 | 659,41 | 739,87 | 755,06 |
+|   | C | 703,36 | 703,36 | 703,36 | 742,88 | 946,38 | 946,38 | 1.028,21 | 1.058,70 |
+|   | D | 465,18 | 465,18 | 465,18 | 465,79 | 626,08 | 626,08 | 633,79 | 635,05 |
+|   | E | 539,91 | 539,91 | 490,08 | 501,46 | 726,91 | 726,91 | 738,04 | 755,18 |
+|   | F | 775,44 | 775,44 | 776,94 | 823,41 | 1.043,21 | 1.043,21 | 1.145,96 | 1.173,82 |
+| Frankrijk | G | 422,02 | 422,02 | 422,02 | 441,67 | 567,83 | 567,83 | 631,09 | 660,48 |
+| Griekenland | H | 422,02 | 422,02 | 422,02 | 426,89 | 567,83 | 567,83 | 630,49 | 637,77 |
+| Italië | I | 490,08 | 490,08 | 490,08 | 502,99 | 659,41 | 659,41 | 736,30 | 755,69 |
+| Tsjechië | J | 490,08 | 490,08 | 490,08 | 499,78 | 659,41 | 659,41 | 740,96 | 755,62 |
+| Slovenië | K | 490,08 | 490,08 | 490,08 | 499,70 | 659,41 | 659,41 | 741,08 | 755,62 |
+| Portugal | L | 539,91 | 539,91 | 490,08 | 497,90 | 726,91 | 726,91 | 743,70 | 755,57 |
 |   |   |   |   |   |   |   |   |   |   |
-| Eén-ouder | Eén-ouder |   |   |   |   |   |   |   |   |
-|   | A | 381,18 | 381,18 | 381,18 | 383,12 | 487,50 | 487,50 | 488,44 | 490,93 |
-|   | B | 444,70 | 444,70 | 444,70 | 451,66 | 568,73 | 568,73 | 565,95 | 574,81 |
-|   | C | 630,75 | 630,75 | 630,75 | 666,96 | 806,67 | 806,67 | 800,66 | 836,15 |
-|   | D | 420,01 | 420,01 | 420,01 | 420,48 | 537,16 | 537,16 | 540,48 | 541,09 |
-|   | E | 489,78 | 489,78 | 444,70 | 454,70 | 626,73 | 626,73 | 563,67 | 576,34 |
-|   | F | 695,00 | 695,00 | 695,00 | 739,30 | 888,92 | 888,92 | 892,41 | 926,64 |
-| Frankrijk | G | 381,18 | 381,18 | 381,18 | 399,88 | 487,50 | 487,50 | 473,44 | 496,67 |
-| Griekenland | H | 381,18 | 381,18 | 381,18 | 385,93 | 487,50 | 487,50 | 485,83 | 491,89 |
-| Italië | I | 444,70 | 444,70 | 444,70 | 457,32 | 568,73 | 568,73 | 561,96 | 577,92 |
-| Tsjechië | J | 444,70 | 444,70 | 444,70 | 452,07 | 568,73 | 568,73 | 566,20 | 575,58 |
-| Slovenië | K | 444,70 | 444,70 | 444,70 | 453,34 | 568,73 | 568,73 | 565,20 | 576,18 |
-| Portugal | L | 489,78 | 489,78 | 444,70 | 451,54 | 626,73 | 626,73 | 566,26 | 574,97 |
+| Eén-ouder |   |   |   |   |   |   |   |   |   |
+|   | A | 381,18 | 381,18 | 381,18 | 383,35 | 512,88 | 512,88 | 528,46 | 531,47 |
+|   | B | 444,70 | 444,70 | 444,70 | 453,83 | 598,35 | 598,35 | 633,58 | 646,59 |
+|   | C | 630,75 | 630,75 | 630,75 | 666,19 | 848,68 | 848,68 | 883,59 | 920,65 |
+|   | D | 420,18 | 420,18 | 420,18 | 420,73 | 565,29 | 565,29 | 569,36 | 570,11 |
+|   | E | 489,95 | 489,95 | 444,70 | 455,03 | 659,51 | 659,51 | 632,66 | 647,35 |
+|   | F | 695,33 | 695,33 | 695,33 | 738,80 | 935,43 | 935,43 | 984,50 | 1.020,73 |
+| Frankrijk | G | 381,18 | 381,18 | 381,18 | 398,93 | 512,88 | 512,88 | 539,01 | 564,11 |
+| Griekenland | H | 381,18 | 381,18 | 381,18 | 385,58 | 512,88 | 512,88 | 544,21 | 550,49 |
+| Italië | I | 444,70 | 444,70 | 444,70 | 456,41 | 598,35 | 598,35 | 631,80 | 648,44 |
+| Tsjechië | J | 444,70 | 444,70 | 444,70 | 453,50 | 598,35 | 598,35 | 633,63 | 646,17 |
+| Slovenië | K | 444,70 | 444,70 | 444,70 | 453,42 | 598,35 | 598,35 | 634,19 | 646,63 |
+| Portugal | L | 489,95 | 489,95 | 444,70 | 451,80 | 659,51 | 659,51 | 635,49 | 645,63 |
 |   |   |   |   |   |   |   |   |   |   |
 | Alleenstaand | Alleenstaand |   |   |   |   |   |   |   |   |
-|   | A | 294,96 | 294,96 | 294,96 | 296,46 | 377,23 | 377,23 | 378,17 | 380,10 |
-|   | B | 344,87 | 344,87 | 344,87 | 350,27 | 441,06 | 441,06 | 438,28 | 445,14 |
-|   | C | 490,08 | 490,08 | 490,08 | 518,21 | 626,77 | 626,77 | 610,85 | 645,92 |
-|   | D | 324,96 | 324,96 | 324,96 | 325,33 | 415,64 | 415,64 | 418,96 | 419,43 |
-|   | E | 379,87 | 379,87 | 344,87 | 352,62 | 485,72 | 485,72 | 436,00 | 445,80 |
-|   | F | 539,74 | 539,74 | 539,74 | 574,26 | 690,60 | 690,60 | 673,01 | 716,06 |
-| Frankrijk | G | 294,96 | 294,96 | 294,96 | 309,43 | 377,23 | 377,23 | 363,17 | 380,98 |
-| Griekenland | H | 294,96 | 294,96 | 294,96 | 298,63 | 377,23 | 377,23 | 375,56 | 380,24 |
-| Italië | I | 344,87 | 344,87 | 344,87 | 354,66 | 441,06 | 441,06 | 434,29 | 446,62 |
-| Tsjechië | J | 344,87 | 344,87 | 344,87 | 350,58 | 441,06 | 441,06 | 438,53 | 445,79 |
-| Slovenië | K | 344,87 | 344,87 | 344,87 | 351,57 | 441,06 | 441,06 | 437,53 | 446,03 |
-| Portugal | L | 379,87 | 379,87 | 344,87 | 350,17 | 485,72 | 485,72 | 438,59 | 445,33 |
+|   | A | 294,96 | 294,96 | 294,96 | 296,64 | 396,87 | 396,87 | 412,45 | 414,80 |
+|   | B | 344,87 | 344,87 | 344,87 | 351,95 | 464,03 | 464,03 | 499,26 | 509,51 |
+|   | C | 490,08 | 490,08 | 490,08 | 517,61 | 659,41 | 659,41 | 682,41 | 720,75 |
+|   | D | 325,12 | 325,12 | 325,12 | 325,55 | 437,53 | 437,53 | 441,60 | 442,18 |
+|   | E | 380,03 | 380,03 | 344,87 | 352,88 | 511,36 | 511,36 | 498,34 | 509,91 |
+|   | F | 539,91 | 539,91 | 539,91 | 573,85 | 726,91 | 726,91 | 752,41 | 799,08 |
+| Frankrijk | G | 294,96 | 294,96 | 294,96 | 308,69 | 396,87 | 396,87 | 423,00 | 442,70 |
+| Griekenland | H | 294,96 | 294,96 | 294,96 | 298,36 | 396,87 | 396,87 | 428,20 | 433,14 |
+| Italië | I | 344,87 | 344,87 | 344,87 | 353,95 | 464,03 | 464,03 | 497,48 | 510,58 |
+| Tsjechië | J | 344,87 | 344,87 | 344,87 | 351,69 | 464,03 | 464,03 | 499,31 | 509,19 |
+| Slovenië | K | 344,87 | 344,87 | 344,87 | 351,63 | 464,03 | 464,03 | 499,87 | 509,68 |
+| Portugal | L | 380,03 | 380,03 | 344,87 | 350,37 | 511,36 | 511,36 | 501,17 | 509,17 |
 
 ### Vaststelling bedragen remigratie-uitkering per categorie van bestemmingslanden op basis van de indeling in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034951&bijlage=1&z=2020-11-14&g=2020-11-14) van de regeling
 
@@ -216,8 +218,8 @@ Deze regeling zal met toelichting en de bijlagen in de Staatscourant worden gepl
 
 Deze regeling zal met toelichting en de bijlagen in de Staatscourant worden geplaatst.
 
-### Bruto tegemoetkoming in de kosten van de zelf af te sluiten verzekering tegen ziektekosten in het bestemmingsland per categorie van bestemmingslanden op basis van de indeling in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034951&bijlage=1&z=2023-01-01&g=2023-01-01) bij deze regeling
+### Bruto tegemoetkoming in de kosten van de zelf af te sluiten verzekering tegen ziektekosten in het bestemmingsland per categorie van bestemmingslanden op basis van de indeling in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034951&bijlage=1&z=2024-01-01&g=2024-01-01) bij deze regeling
 
-## Bijlage 3. behorend bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034951&artikel=6&z=2023-01-01&g=2023-01-01)
+## Bijlage 3. behorend bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034951&artikel=6&z=2024-01-01&g=2024-01-01)
 
 Deze regeling zal met toelichting en de bijlagen in de Staatscourant worden geplaatst.
