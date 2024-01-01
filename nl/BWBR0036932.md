@@ -4,7 +4,7 @@ identifier: "BWBR0036932"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-03-28"
-last_updated: "2022-10-13"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036932"
 soort: "ministeriele-regeling"
@@ -86,11 +86,11 @@ WBJA bestaat uit:
 
 - b. het behandelen van wetgevende aspecten van departements- en rijksbrede onderwerpen;
 
-- c. het ontwerpen van de teksten van alle wetten, algemene maatregelen van bestuur en ministeriële regelingen op het terrein van het ministerie, met uitzondering van de begrotingswetten en met uitzondering van wetten, algemene maatregelen van bestuur en ministeriële regelingen waarvoor op grond van de [artikelen 3a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=3a&z=2022-10-13&g=2022-10-13), en [4, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=4&z=2022-10-13&g=2022-10-13), de hoofden van de afdelingen WAS en ABWA verantwoordelijk zijn;
+- c. het ontwerpen van de teksten van alle wetten, algemene maatregelen van bestuur en ministeriële regelingen op het terrein van het ministerie, met uitzondering van de begrotingswetten en met uitzondering van wetten, algemene maatregelen van bestuur en ministeriële regelingen waarvoor op grond van de [artikelen 3a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=3a&z=2022-10-13&g=2024-01-01), en [4, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=4&z=2022-10-13&g=2024-01-01), de hoofden van de afdelingen WAS en ABWA verantwoordelijk zijn;
 
 - d. het adviseren over het gebruik van het instrument regelgeving;
 
-- e. de implementatie van internationale verdragen en regelingen, onverminderd [artikel 6, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=6&z=2022-10-13&g=2022-10-13).
+- e. de implementatie van internationale verdragen en regelingen, onverminderd [artikel 6, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=6&z=2022-10-13&g=2024-01-01).
 
 2. Het hoofd van de afdeling Wetgeving is voorts belast met taken op het gebied van het wetgevingskwaliteitsbeleid.
 
@@ -120,7 +120,7 @@ WBJA bestaat uit:
 
 - 7°. integratie.
 
-- e. de implementatie van internationale verdragen en regelingen, onverminderd [artikel 6, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=6&z=2022-10-13&g=2022-10-13).
+- e. de implementatie van internationale verdragen en regelingen, onverminderd [artikel 6, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=6&z=2022-10-13&g=2024-01-01).
 
 2. Het hoofd van de afdeling ABWA is verantwoordelijk voor de volgende taken ten aanzien van de [Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149), de [Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638), de [Wet allocatie en arbeidsbemiddeling door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616), de [Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBR0038054) en aanverwante wetten:
 
@@ -172,9 +172,9 @@ WBJA bestaat uit:
 
 - d. het bijdragen aan de totstandkoming van internationale verdragen en regelingen;
 
-- e. het, in afwijking van [artikel 3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=3&z=2022-10-13&g=2022-10-13), en na overleg met het hoofd van de afdeling Wetgeving, het hoofd van de afdeling ABWA, opstellen van regelgeving ter goedkeuring van internationale verdragen en regelingen, voor zover het daarbij gaat om regelgeving waarbij de inzet van de internationaalrechtelijke expertise van de afdeling JA-SVIA aangewezen is;
+- e. het, in afwijking van [artikel 3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=3&z=2022-10-13&g=2024-01-01), en na overleg met het hoofd van de afdeling Wetgeving, het hoofd van de afdeling ABWA, opstellen van regelgeving ter goedkeuring van internationale verdragen en regelingen, voor zover het daarbij gaat om regelgeving waarbij de inzet van de internationaalrechtelijke expertise van de afdeling JA-SVIA aangewezen is;
 
-- f. het, in afwijking van de [artikelen 4, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=4&z=2022-10-13&g=2022-10-13), [5, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=5&z=2022-10-13&g=2022-10-13), en [6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=6&z=2022-10-13&g=2022-10-13), en na overleg met het hoofd van de verantwoordelijke juridische afdeling, leveren van een bijdrage aan de behandeling van nationale juridische procedures, voor zover het daarbij gaat om procedures waarbij de inzet van internationaalrechtelijke aangelegenheden aangewezen is.
+- f. het, in afwijking van de [artikelen 4, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=4&z=2022-10-13&g=2024-01-01), [5, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=5&z=2022-10-13&g=2024-01-01), en [6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=6&z=2022-10-13&g=2024-01-01), en na overleg met het hoofd van de verantwoordelijke juridische afdeling, leveren van een bijdrage aan de behandeling van nationale juridische procedures, voor zover het daarbij gaat om procedures waarbij de inzet van internationaalrechtelijke aangelegenheden aangewezen is.
 
 3. Bij afwezigheid van het hoofd van de afdeling JA-BBS is het hoofd van de afdeling JA-SVIA verantwoordelijk voor het onderhouden van de contacten met de Landsadvocaat.
 
@@ -302,7 +302,7 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 - e. het adviseren over het gebruik van het instrument regelgeving;
 
-- f. de implementatie van internationale verdragen en regelingen, onverminderd [artikel 6, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=6&z=2022-10-13&g=2022-10-13).
+- f. de implementatie van internationale verdragen en regelingen, onverminderd [artikel 6, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=6&z=2022-10-13&g=2024-01-01).
 
 2. Het hoofd van de afdeling WAS is voorts belast met taken op het gebied van wetgevingskwaliteitsbeleid.
 
