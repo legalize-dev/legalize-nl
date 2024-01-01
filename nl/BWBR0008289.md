@@ -4,7 +4,7 @@ identifier: "BWBR0008289"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2023-10-05"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008289"
 soort: "wet"
@@ -51,9 +51,9 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. Onze Minister: Onze Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. RIVM: het rijksinstituut, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&hoofdstuk=2&artikel=2&z=2023-10-05&g=2023-10-05);
+- b. RIVM: het rijksinstituut, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01);
 
-- c. de directeur-generaal: de directeur-generaal van het RIVM, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&hoofdstuk=2&artikel=2&z=2023-10-05&g=2023-10-05).
+- c. de directeur-generaal: de directeur-generaal van het RIVM, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01).
 
 ### HOOFDSTUK 2. INSTELLING, TAAK EN WERKWIJZE
 
@@ -83,19 +83,19 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 4
 
-De directeur-generaal stelt periodiek een meerjarenprogramma voor onderzoek, innovatie en expertiseontwikkeling op dat hij noodzakelijk acht voor het verwerven van inzichten en de ontwikkeling van methoden om de taken, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&hoofdstuk=2&artikel=3&z=2023-10-05&g=2023-10-05), adequaat te kunnen uitvoeren.
+De directeur-generaal stelt periodiek een meerjarenprogramma voor onderzoek, innovatie en expertiseontwikkeling op dat hij noodzakelijk acht voor het verwerven van inzichten en de ontwikkeling van methoden om de taken, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&hoofdstuk=2&artikel=3&z=2024-01-01&g=2024-01-01), adequaat te kunnen uitvoeren.
 
 ##### Artikel 5
 
-Onze Minister geeft aan de directeur-generaal geen aanwijzingen met betrekking tot de methoden, volgens welke de onderzoeken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&hoofdstuk=2&artikel=3&z=2023-10-05&g=2023-10-05), worden uitgevoerd en de resultaten daarvan worden gerapporteerd.
+Onze Minister geeft aan de directeur-generaal geen aanwijzingen met betrekking tot de methoden, volgens welke de onderzoeken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&hoofdstuk=2&artikel=3&z=2024-01-01&g=2024-01-01), worden uitgevoerd en de resultaten daarvan worden gerapporteerd.
 
 ##### Artikel 6
 
-Onze Minister zendt rapporten als bedoeld in [artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&hoofdstuk=2&artikel=3&z=2023-10-05&g=2023-10-05), en meerjarenbeleidsplannen aan de Staten-Generaal.
+Onze Minister zendt rapporten als bedoeld in [artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&hoofdstuk=2&artikel=3&z=2024-01-01&g=2024-01-01), en meerjarenbeleidsplannen aan de Staten-Generaal.
 
 ##### Artikel 7
 
-1. Er is een commissie van toezicht die tot taak heeft het wetenschappelijk niveau van het RIVM en de onafhankelijkheid van het onderzoek, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&hoofdstuk=2&artikel=3&z=2023-10-05&g=2023-10-05), te bewaken. De commissie rapporteert hierover jaarlijks aan Onze Minister.
+1. Er is een commissie van toezicht die tot taak heeft het wetenschappelijk niveau van het RIVM en de onafhankelijkheid van het onderzoek, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&hoofdstuk=2&artikel=3&z=2024-01-01&g=2024-01-01), te bewaken. De commissie rapporteert hierover jaarlijks aan Onze Minister.
 
 2. Onverminderd het vierde lid bestaat de commissie van toezicht uit ten hoogste zeven leden, waaronder de voorzitter.
 
