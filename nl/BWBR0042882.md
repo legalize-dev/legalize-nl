@@ -4,7 +4,7 @@ identifier: "BWBR0042882"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2023-04-19"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042882"
 soort: "ministeriele-regeling"
@@ -88,6 +88,6 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1a
 
-Dit onderdeel is nog niet inwerking getreden
+Deze regeling berust mede op [artikel 21.6, vierde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=21.6).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
