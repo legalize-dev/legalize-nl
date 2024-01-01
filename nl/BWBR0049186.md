@@ -191,17 +191,3 @@ Dit besluit treedt in werking met ingang van 1 januari 2024.
 Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouders Omgevingswet.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 3a
-
-Als personen belast met het toezicht op de naleving van het bepaalde bij of krachtens de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), waarvoor op grond van [paragraaf 18.1.1 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&paragraaf=18.1.1) de bestuursrechtelijke handhavingstaak berust bij de Minister voor Klimaat en Energie, worden aangewezen diegenen die werkzaam zijn voor de Rijksdienst voor Ondernemend Nederland.
-
-#### § 1.6. Staatssecretaris van Onderwijs, Cultuur en Wetenschap
-
-### Hoofdstuk 2. Bevoegdheid van toezichthouders tot het binnentreden van een woning
-
-#### § 2.3. Staatssecretaris van Onderwijs, Cultuur en Wetenschap
-
-### Hoofdstuk 3. Slotbepalingen
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
