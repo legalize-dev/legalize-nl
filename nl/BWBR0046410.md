@@ -4,7 +4,7 @@ identifier: "BWBR0046410"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-02-06"
-last_updated: "2023-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046410"
 soort: "ministeriele-regeling"
@@ -92,9 +92,9 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-1. De normbedragen die gebruikt worden voor de vaststelling van de bijdragen volgen uit [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&bijlage=I&z=2023-01-01&g=2023-01-01) bij deze regeling.
+1. De normbedragen die gebruikt worden voor de vaststelling van de bijdragen volgen uit [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&bijlage=I&z=2023-01-01&g=2024-01-01) bij deze regeling.
 
-2. De normbedragen voor de bijdragen, bedoeld in [artikel 5a, eerste lid, onderdeel a, b en c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006849&artikel=5a), worden indien van toepassing jaarlijks geïndexeerd op basis van de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&bijlage=I&z=2023-01-01&g=2023-01-01) opgenomen systematiek van prijsbijstelling.
+2. De normbedragen voor de bijdragen, bedoeld in [artikel 5a, eerste lid, onderdeel a, b en c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006849&artikel=5a), worden indien van toepassing jaarlijks geïndexeerd op basis van de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&bijlage=I&z=2023-01-01&g=2024-01-01) opgenomen systematiek van prijsbijstelling.
 
 3. De normbedragen voor de bijdragen, bedoeld in [artikel 5a, eerste lid, onderdeel d en e, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006849&artikel=5a), worden niet geïndexeerd.
 
@@ -104,7 +104,7 @@ In deze regeling wordt verstaan onder:
 
 1. De looptijd van de eerste aanvraag in geval van een nieuwe bestuursovereenkomst is gelijk aan de totale looptijd van de bestuursovereenkomst, met een maximum van vijftien jaar.
 
-2. De looptijd start op het peilmoment, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=2&z=2023-01-01&g=2023-01-01).
+2. De looptijd start op het peilmoment, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=2&z=2023-01-01&g=2024-01-01).
 
 3. Na vijftien jaar kan een opvolgende aanvraag worden ingediend.
 
@@ -118,7 +118,7 @@ In deze regeling wordt verstaan onder:
 
 1. Bij een eerste aanvraag wordt, in geval het aantal leerlingen nog niet bekend is, het aantal leerlingen vastgesteld door het in het tweede lid, bedoelde percentage te vermenigvuldigen met de in de bestuursovereenkomst afgesproken maximale bezetting van de opvanglocatie.
 
-2. De minister stelt per opvangmodaliteit de percentages vast van het leerlingaantal ten opzichte van de in de bestuursovereenkomst afgesproken maximale bezetting. De percentages volgen uit [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&bijlage=I&z=2023-01-01&g=2023-01-01) en kunnen, indien de aanvraag daartoe aanleiding geeft, door de minister worden verhoogd.
+2. De minister stelt per opvangmodaliteit de percentages vast van het leerlingaantal ten opzichte van de in de bestuursovereenkomst afgesproken maximale bezetting. De percentages volgen uit [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&bijlage=I&z=2023-01-01&g=2024-01-01) en kunnen, indien de aanvraag daartoe aanleiding geeft, door de minister worden verhoogd.
 
 3. Bij een eerste aanvraag of een opvolgende aanvraag wordt het aantal leerlingen gelijkgesteld aan het leerlingaantal op het peilmoment.
 
@@ -138,9 +138,9 @@ Waarbij:
 
 M staat voor het aantal vierkante meters;
 
-Lt staat voor het totale leerlingaantal, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=5&z=2023-01-01&g=2023-01-01);
+Lt staat voor het totale leerlingaantal, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=5&z=2023-01-01&g=2024-01-01);
 
-J staat voor ruimtebehoefte per asielleerling bedoeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&bijlage=I&z=2023-01-01&g=2023-01-01).
+J staat voor ruimtebehoefte per asielleerling bedoeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&bijlage=I&z=2023-01-01&g=2024-01-01).
 
 2. Het aantal extra vierkante meters waarop een bijdrage bij een uitbreiding wordt gebaseerd, wordt vastgesteld volgens de formule:
 
@@ -150,9 +150,9 @@ Waarbij:
 
 N staat voor het aantal extra vierkante meters;
 
-Lu staat voor het extra leerlingaantal, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=5&z=2023-01-01&g=2023-01-01);
+Lu staat voor het extra leerlingaantal, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=5&z=2023-01-01&g=2024-01-01);
 
-J staat voor ruimtebehoefte per asielleerling bedoeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&bijlage=I&z=2023-01-01&g=2023-01-01).
+J staat voor ruimtebehoefte per asielleerling bedoeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&bijlage=I&z=2023-01-01&g=2024-01-01).
 
 3. De waarde van het schoolgebouw waarop een bijdrage bij een eerste aanvraag, een verlenging of een opvolgende aanvraag wordt gebaseerd, wordt vastgesteld volgens de formule:
 
@@ -220,9 +220,9 @@ Waarbij:
 
 Ae staat voor de bijdrage voor het schoolgebouw bij een eerste aanvraag of een opvolgende aanvraag;
 
-%e staat voor het bekostigingspercentage, bedoeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&bijlage=I&z=2023-01-01&g=2023-01-01);
+%e staat voor het bekostigingspercentage, bedoeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&bijlage=I&z=2023-01-01&g=2024-01-01);
 
-O staat voor de waarde van het schoolgebouw, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=6&z=2023-01-01&g=2023-01-01).
+O staat voor de waarde van het schoolgebouw, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=6&z=2023-01-01&g=2024-01-01).
 
 3. De bijdrage voor het terrein bij een eerste aanvraag of een opvolgende aanvraag wordt vastgesteld volgens de formule:
 
@@ -232,11 +232,11 @@ waarbij:
 
 Ate staat voor bijdrage voor het terrein bij een eerste aanvraag of een opvolgende aanvraag;
 
-%e staat voor bekostigingspercentage, bedoeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&bijlage=I&z=2023-01-01&g=2023-01-01);
+%e staat voor bekostigingspercentage, bedoeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&bijlage=I&z=2023-01-01&g=2024-01-01);
 
 V staat voor het variabele normbedrag voor het terrein;
 
-M staat voor aantal vierkante meters, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=6&z=2023-01-01&g=2023-01-01).
+M staat voor aantal vierkante meters, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=6&z=2023-01-01&g=2024-01-01).
 
 4. Ten behoeve van het vaststellen van de bekostigingspercentages wordt de looptijd naar boven afgerond op hele maanden.
 
@@ -262,7 +262,7 @@ Av staat voor bijdrage voor het schoolgebouw bij een verlenging;
 
 %v staat voor bekostigingspercentage bij een verlenging, bedoeld in het vijfde lid;
 
-O staat voor waarde van het schoolgebouw, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=6&z=2023-01-01&g=2023-01-01).
+O staat voor waarde van het schoolgebouw, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=6&z=2023-01-01&g=2024-01-01).
 
 7. De bijdrage voor het terrein bij een verlenging wordt vastgesteld volgens de formule:
 
@@ -276,7 +276,7 @@ Atv staat voor bijdrage voor het terrein bij een verlenging;
 
 V staat voor het variabele normbedrag voor het terrein;
 
-M staat voor aantal vierkante meters, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=6&z=2023-01-01&g=2023-01-01).
+M staat voor aantal vierkante meters, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=6&z=2023-01-01&g=2024-01-01).
 
 8. Het bekostigingspercentage bij een uitbreiding wordt vastgesteld volgens de formule:
 
@@ -302,7 +302,7 @@ Au staat voor bijdrage voor het schoolgebouw bij uitbreiding;
 
 %u staat voor bekostigingspercentage bij een uitbreiding, bedoeld in het achtste lid;
 
-R staat voor uitbreidingswaarde van het schoolgebouw, bedoeld in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=6&z=2023-01-01&g=2023-01-01).
+R staat voor uitbreidingswaarde van het schoolgebouw, bedoeld in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=6&z=2023-01-01&g=2024-01-01).
 
 10. De bijdrage voor het terrein bij een uitbreiding wordt vastgesteld volgens de formule:
 
@@ -316,15 +316,15 @@ Atu staat voor bijdrage voor het terrein bij een uitbreiding;
 
 V staat voor het variabele normbedrag voor het terrein;
 
-N staat voor aantal extra vierkante meters, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=6&z=2023-01-01&g=2023-01-01).
+N staat voor aantal extra vierkante meters, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=6&z=2023-01-01&g=2024-01-01).
 
 ##### Artikel 8
 
 1. De bijdrage, bedoeld in [artikel 5a, eerste lid, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006849&artikel=5a), bestaat uit een bijdrage voor de eerste inrichting, het onderwijsleerpakket en het meubilair.
 
-2. De bijdrage in de eerste inrichting, het onderwijsleerpakket en het meubilair bij een eerste aanvraag of een opvolgende aanvraag is gelijk aan de waarde van de eerste inrichting, het onderwijsleerpakket en het meubilair, bedoeld in [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=6&z=2023-01-01&g=2023-01-01).
+2. De bijdrage in de eerste inrichting, het onderwijsleerpakket en het meubilair bij een eerste aanvraag of een opvolgende aanvraag is gelijk aan de waarde van de eerste inrichting, het onderwijsleerpakket en het meubilair, bedoeld in [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=6&z=2023-01-01&g=2024-01-01).
 
-3. De bijdrage in de eerste inrichting, het onderwijsleerpakket en het meubilair bij een uitbreiding is gelijk aan de uitbreidingswaarde van de eerste inrichting, het onderwijsleerpakket en het meubilair, bedoeld in [artikel 6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=6&z=2023-01-01&g=2023-01-01).
+3. De bijdrage in de eerste inrichting, het onderwijsleerpakket en het meubilair bij een uitbreiding is gelijk aan de uitbreidingswaarde van de eerste inrichting, het onderwijsleerpakket en het meubilair, bedoeld in [artikel 6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=6&z=2023-01-01&g=2024-01-01).
 
 4. Bij een verlenging doen deze kosten zich niet meer voor en zullen deze niet opnieuw worden vergoed.
 
@@ -340,11 +340,11 @@ waarbij:
 
 Ce staat voor bijdrage voor de stichting en materiële instandhouding van de gymnastiekaccommodatie bij een eerste aanvraag, een verlenging of een opvolgende aanvraag;
 
-Lt staat voor het totale leerlingaantal, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=5&z=2023-01-01&g=2023-01-01);
+Lt staat voor het totale leerlingaantal, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=5&z=2023-01-01&g=2024-01-01);
 
 K staat voor het variabele normbedrag voor de stichting en materiële instandhouding van de gymnastiekaccommodatie;
 
-Y staat voor looptijd, bedoeld in [artikel 6, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=6&z=2023-01-01&g=2023-01-01).
+Y staat voor looptijd, bedoeld in [artikel 6, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=6&z=2023-01-01&g=2024-01-01).
 
 3. De bijdrage voor de stichting en materiële instandhouding van de gymnastiekaccommodatie bij een uitbreiding wordt vastgesteld volgens de formule:
 
@@ -354,11 +354,11 @@ waarbij:
 
 Cu staat voor bijdrage voor de stichting en materiële instandhouding van de gymnastiekaccommodatie bij een uitbreiding;
 
-Lu staat voor het extra leerlingaantal, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=5&z=2023-01-01&g=2023-01-01);
+Lu staat voor het extra leerlingaantal, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=5&z=2023-01-01&g=2024-01-01);
 
 K staat voor het variabele normbedrag voor de stichting en materiële instandhouding van de gymnastiekaccommodatie;
 
-Y staat voor looptijd, bedoeld in [artikel 6, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=6&z=2023-01-01&g=2023-01-01).
+Y staat voor looptijd, bedoeld in [artikel 6, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=6&z=2023-01-01&g=2024-01-01).
 
 ##### Artikel 10
 
@@ -372,11 +372,11 @@ Waarbij:
 
 De staat voor de bijdrage in de onroerendezaakbelastingen bij een eerste aanvraag, een verlenging of een opvolgende aanvraag;
 
-M staat voor het aantal vierkante meters, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=6&z=2023-01-01&g=2023-01-01);
+M staat voor het aantal vierkante meters, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=6&z=2023-01-01&g=2024-01-01);
 
 X staat voor het variabele normbedrag voor de onroerendezaakbelastingen;
 
-Y staat voor de looptijd, bedoeld in [artikel 6, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=6&z=2023-01-01&g=2023-01-01).
+Y staat voor de looptijd, bedoeld in [artikel 6, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=6&z=2023-01-01&g=2024-01-01).
 
 3. De bijdrage in de onroerendezaakbelastingen bij een uitbreiding wordt vastgesteld volgens de formule:
 
@@ -386,11 +386,11 @@ Waarbij:
 
 Du staat voor bijdrage in de onroerendezaakbelastingen bij een uitbreiding;
 
-N staat voor aantal extra vierkante meters, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=6&z=2023-01-01&g=2023-01-01);
+N staat voor aantal extra vierkante meters, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=6&z=2023-01-01&g=2024-01-01);
 
 X staat voor het variabele normbedrag voor de onroerendezaakbelastingen;
 
-Y staat voor looptijd, bedoeld in [artikel 6, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=6&z=2023-01-01&g=2023-01-01).
+Y staat voor looptijd, bedoeld in [artikel 6, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=6&z=2023-01-01&g=2024-01-01).
 
 ##### Artikel 11
 
@@ -407,13 +407,13 @@ Waarbij:
 
 Ee staat voor bijdrage in de verzekering bij een eerste aanvraag of een opvolgende aanvraag;
 
-O staat voor waarde van het schoolgebouw, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=6&z=2023-01-01&g=2023-01-01);
+O staat voor waarde van het schoolgebouw, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=6&z=2023-01-01&g=2024-01-01);
 
-S staat voor waarde van de eerste inrichting, het onderwijsleerpakket en het meubilair, bedoeld in [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=6&z=2023-01-01&g=2023-01-01);
+S staat voor waarde van de eerste inrichting, het onderwijsleerpakket en het meubilair, bedoeld in [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=6&z=2023-01-01&g=2024-01-01);
 
 Z staat voor het variabele normbedrag voor de verzekeringen;
 
-Y staat voor looptijd, bedoeld in [artikel 6, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=6&z=2023-01-01&g=2023-01-01).
+Y staat voor looptijd, bedoeld in [artikel 6, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=6&z=2023-01-01&g=2024-01-01).
 
 3. De bijdrage in de kosten van de verzekering bij een verlenging wordt vastgesteld volgens de formule:
 
@@ -426,11 +426,11 @@ Waarbij:
 
 Ee staat voor bijdrage in de verzekering bij een verlenging;
 
-O staat voor waarde van het schoolgebouw, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=6&z=2023-01-01&g=2023-01-01);
+O staat voor waarde van het schoolgebouw, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=6&z=2023-01-01&g=2024-01-01);
 
 Z staat voor het variabele normbedrag voor de verzekeringen;
 
-Y staat voor looptijd, bedoeld in [artikel 6, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=6&z=2023-01-01&g=2023-01-01).
+Y staat voor looptijd, bedoeld in [artikel 6, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=6&z=2023-01-01&g=2024-01-01).
 
 4. De bijdrage in de kosten van de verzekering bij een uitbreiding wordt vastgesteld volgens de formule:
 
@@ -443,13 +443,13 @@ Waarbij:
 
 Eu staat voor bijdrage in de verzekering bij een uitbreiding;
 
-R staat voor uitbreidingswaarde van het schoolgebouw, bedoeld in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=6&z=2023-01-01&g=2023-01-01);
+R staat voor uitbreidingswaarde van het schoolgebouw, bedoeld in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=6&z=2023-01-01&g=2024-01-01);
 
-W staat voor uitbreidingswaarde van de eerste inrichting, het onderwijsleerpakket en het meubilair, bedoeld in [artikel 6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=6&z=2023-01-01&g=2023-01-01);
+W staat voor uitbreidingswaarde van de eerste inrichting, het onderwijsleerpakket en het meubilair, bedoeld in [artikel 6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=6&z=2023-01-01&g=2024-01-01);
 
 Z staat voor het variabele normbedrag voor de verzekeringen;
 
-Y staat voor looptijd, bedoeld in [artikel 6, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=6&z=2023-01-01&g=2023-01-01).
+Y staat voor looptijd, bedoeld in [artikel 6, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=6&z=2023-01-01&g=2024-01-01).
 
 ##### Artikel 12
 
@@ -485,13 +485,13 @@ Indexering is het jaarlijks door de Minister van OCW in het bekostigingsstelsel 
 
 ### Ruimtebehoefte per asielleerling
 
-De ruimtebehoefte per asielleerling wordt als volgt bepaald. De achterstandsscore asiel per leerling wordt bepaald volgens de volgende formule:1Bron: [https://www.cbs.nl/nl-nl/maatwerk/2021/05/achterstandsscores-per-school-2020](onbekend), tabel onder tabblad Toelichting, waarbij E komt te vervallen omdat de achterstandsscore asiel per leerling wordt bepaald.
+De ruimtebehoefte per asielleerling wordt als volgt bepaald. De achterstandsscore asiel per leerling wordt bepaald volgens de volgende formule:1Bron: [https://www.cbs.nl/nl-nl/maatwerk/2021/05/achterstandsscores-per-school-2020](https://www.cbs.nl/nl-nl/maatwerk/2021/05/achterstandsscores-per-school-2020), tabel onder tabblad Toelichting, waarbij E komt te vervallen omdat de achterstandsscore asiel per leerling wordt bepaald.
 
 Achterstandsscore asiel = (C – D) – (F × (C – G))
 
 Waarbij:
 
-De waarden van C en G uit de formule zijn landelijk gemiddelden en hebben in een jaar voor alle scholen dezelfde hoogte. Deze worden door het CBS bepaald. In 2020 was de waarde van C 535,36 en de waarde van G 529,54.2Bron: [https://www.cbs.nl/nl-nl/maatwerk/2021/05/achterstandsscores-per-school-2020](onbekend), tabel onder tabblad Toelichting.
+De waarden van C en G uit de formule zijn landelijk gemiddelden en hebben in een jaar voor alle scholen dezelfde hoogte. Deze worden door het CBS bepaald. In 2020 was de waarde van C 535,36 en de waarde van G 529,54.2Bron: [https://www.cbs.nl/nl-nl/maatwerk/2021/05/achterstandsscores-per-school-2020](https://www.cbs.nl/nl-nl/maatwerk/2021/05/achterstandsscores-per-school-2020), tabel onder tabblad Toelichting.
 
 Nu alle asielleerlingen de gemiddelde onderwijsscore van de onderste 15% krijgen toegerekend, betekent dit dat bij het bepalen van de achterstandsscore asiel per leerling D gelijk is aan G.
 
