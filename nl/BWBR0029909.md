@@ -4,7 +4,7 @@ identifier: "BWBR0029909"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2023-04-19"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029909"
 soort: "AMvB"
@@ -142,7 +142,7 @@ Dit hoofdstuk is van toepassing op brandstoffen en energie voor:
 
 ##### Artikel 2.7
 
-1. Indien zich als gevolg van een uitzonderlijke gebeurtenis als bedoeld in artikel 7 van [richtlijn 98/70/EG](31998L0070) een plotselinge verandering in het aanbod van ruwe olie of olieproducten voordoet waardoor de naleving van de in de [artikelen 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.3&z=2023-04-19&g=2023-04-19), [2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.5&z=2023-04-19&g=2023-04-19), en [2.6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.6&z=2023-04-19&g=2023-04-19), bedoelde milieutechnische specificaties redelijkerwijs niet kan worden gevergd, kan Onze Minister op aanvraag van een raffinaderij na toestemming van de Europese Commissie voor ten hoogste zes maanden ontheffing verlenen van het bepaalde in die artikelen.
+1. Indien zich als gevolg van een uitzonderlijke gebeurtenis als bedoeld in artikel 7 van [richtlijn 98/70/EG](31998L0070) een plotselinge verandering in het aanbod van ruwe olie of olieproducten voordoet waardoor de naleving van de in de [artikelen 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.3&z=2024-01-01&g=2024-01-01), [2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.5&z=2024-01-01&g=2024-01-01), en [2.6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.6&z=2024-01-01&g=2024-01-01), bedoelde milieutechnische specificaties redelijkerwijs niet kan worden gevergd, kan Onze Minister op aanvraag van een raffinaderij na toestemming van de Europese Commissie voor ten hoogste zes maanden ontheffing verlenen van het bepaalde in die artikelen.
 
 2. De aanvraag om een ontheffing bevat in ieder geval de volgende gegevens:
 
@@ -158,7 +158,7 @@ Dit hoofdstuk is van toepassing op brandstoffen en energie voor:
 
 5. De ontheffing kan onder beperkingen worden verleend. Aan de ontheffing kunnen voorschriften worden verbonden.
 
-6. De [artikelen 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.3&z=2023-04-19&g=2023-04-19), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.5&z=2023-04-19&g=2023-04-19) en [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.6&z=2023-04-19&g=2023-04-19) zijn niet van toepassing op brandstof, waarvoor:
+6. De [artikelen 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.3&z=2024-01-01&g=2024-01-01), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.5&z=2024-01-01&g=2024-01-01) en [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.6&z=2024-01-01&g=2024-01-01) zijn niet van toepassing op brandstof, waarvoor:
 
 - a. een ontheffing als bedoeld in dit artikel is verleend, of
 
@@ -166,7 +166,7 @@ Dit hoofdstuk is van toepassing op brandstoffen en energie voor:
 
 ##### Artikel 2.8
 
-De [artikelen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.2&z=2023-04-19&g=2023-04-19), [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.3&z=2023-04-19&g=2023-04-19), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.5&z=2023-04-19&g=2023-04-19) en [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.6&z=2023-04-19&g=2023-04-19) zijn niet van toepassing op benzine, diesel en gasolie waarvan wordt aangetoond dat deze wordt uitgevoerd naar buiten het grondgebied van de Europese Unie en de staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte.
+De [artikelen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.2&z=2024-01-01&g=2024-01-01), [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.3&z=2024-01-01&g=2024-01-01), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.5&z=2024-01-01&g=2024-01-01) en [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=2&artikel=2.6&z=2024-01-01&g=2024-01-01) zijn niet van toepassing op benzine, diesel en gasolie waarvan wordt aangetoond dat deze wordt uitgevoerd naar buiten het grondgebied van de Europese Unie en de staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte.
 
 ##### Artikel 2.9
 
@@ -234,7 +234,7 @@ Het is verboden als brandstof te gebruiken:
 
 ##### Artikel 3.5
 
-1. Indien zich als gevolg van een uitzonderlijke gebeurtenis als bedoeld in artikel 12 van richtlijn (EU) 2016/802 een plotselinge verandering in het aanbod van ruwe olie of olieproducten voordoet waardoor de naleving van de in de [artikel 3.4, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=3&paragraaf=3.2&artikel=3.4&z=2023-04-19&g=2023-04-19), genoemde ten hoogste toegestane zwavelgehalten redelijkerwijs niet kan worden gevergd, kan Onze Minister op aanvraag van een raffinaderij na toestemming van de Europese Commissie voor ten hoogste zes maanden ontheffing verlenen van het bepaalde in artikel 3.4, eerste lid, onderdeel a of b.
+1. Indien zich als gevolg van een uitzonderlijke gebeurtenis als bedoeld in artikel 12 van richtlijn (EU) 2016/802 een plotselinge verandering in het aanbod van ruwe olie of olieproducten voordoet waardoor de naleving van de in de [artikel 3.4, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=3&paragraaf=3.2&artikel=3.4&z=2024-01-01&g=2024-01-01), genoemde ten hoogste toegestane zwavelgehalten redelijkerwijs niet kan worden gevergd, kan Onze Minister op aanvraag van een raffinaderij na toestemming van de Europese Commissie voor ten hoogste zes maanden ontheffing verlenen van het bepaalde in artikel 3.4, eerste lid, onderdeel a of b.
 
 2. De aanvraag om een ontheffing bevat in ieder geval de volgende gegevens:
 
@@ -260,11 +260,11 @@ Het is verboden als brandstof te gebruiken:
 
 ##### Artikel 4.2
 
-Het zwavelgehalte van brandstoffen als bedoeld in [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=4&artikel=4.1&z=2023-04-19&g=2023-04-19), wordt vastgesteld overeenkomstig een bij ministeriële regeling voorgeschreven testmethode.
+Het zwavelgehalte van brandstoffen als bedoeld in [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=4&artikel=4.1&z=2024-01-01&g=2024-01-01), wordt vastgesteld overeenkomstig een bij ministeriële regeling voorgeschreven testmethode.
 
 ##### Artikel 4.3
 
-Het bevoegd gezag kan bij het nemen van een beslissing met betrekking tot een vergunning voor een inrichting een lagere waarde voor het zwavelgehalte voorschrijven dan de in [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=4&artikel=4.1&z=2023-04-19&g=2023-04-19), opgenomen waarden, doch geen lagere waarde dan 0,3%.
+Het bevoegd gezag kan bij het nemen van een beslissing met betrekking tot een omgevingsvergunning voor een milieubelastende activiteit als bedoeld in [artikel 5.1, tweede lid, aanhef en onder b, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1) een lagere waarde voor het zwavelgehalte voorschrijven dan de in [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=4&artikel=4.1&z=2024-01-01&g=2024-01-01), opgenomen waarden, doch geen lagere waarde dan 0,3%.
 
 ### Hoofdstuk 4. Regels betreffende het zwavelgehalte van overige brandstoffen
 
@@ -314,11 +314,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 3.0
 
-1. [Paragraaf 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=3&paragraaf=3.1&z=2023-04-19&g=2023-04-19) is van toepassing op het zwavelgehalte van dieselolie voor de scheepvaart, gasolie voor de scheepvaart en scheepsbrandstof.
+1. [Paragraaf 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=3&paragraaf=3.1&z=2024-01-01&g=2024-01-01) is van toepassing op het zwavelgehalte van dieselolie voor de scheepvaart, gasolie voor de scheepvaart en scheepsbrandstof.
 
-2. [Paragraaf 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=3&paragraaf=3.2&z=2023-04-19&g=2023-04-19) is van toepassing op het zwavelgehalte van zware stookolie en gasolie als bedoeld in artikel 2, onderdeel b, van richtlijn (EU) 2016/802.
+2. [Paragraaf 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=3&paragraaf=3.2&z=2024-01-01&g=2024-01-01) is van toepassing op het zwavelgehalte van zware stookolie en gasolie als bedoeld in artikel 2, onderdeel b, van richtlijn (EU) 2016/802.
 
-3. In afwijking van het eerste en tweede lid zijn met uitzondering van [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=3&paragraaf=3.1&artikel=3.3&z=2023-04-19&g=2023-04-19) de [paragrafen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=3&paragraaf=3.1&z=2023-04-19&g=2023-04-19) en [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=3&paragraaf=3.2&z=2023-04-19&g=2023-04-19) niet van toepassing op brandstoffen die:
+3. In afwijking van het eerste en tweede lid zijn met uitzondering van [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=3&paragraaf=3.1&artikel=3.3&z=2024-01-01&g=2024-01-01) de [paragrafen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=3&paragraaf=3.1&z=2024-01-01&g=2024-01-01) en [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&hoofdstuk=3&paragraaf=3.2&z=2024-01-01&g=2024-01-01) niet van toepassing op brandstoffen die:
 
 - a. bestemd zijn voor onderzoek en testen;
 
