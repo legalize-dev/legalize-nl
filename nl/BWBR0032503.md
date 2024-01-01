@@ -4,7 +4,7 @@ identifier: "BWBR0032503"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2023-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032503"
 soort: "ministeriele-regeling"
@@ -52,15 +52,7 @@ In deze regeling wordt verstaan onder:
 
 - b. **energiebesparende voorzieningen:** gevelisolatie, dakisolatie, vloerisolatie, leidingisolatie, hoog rendement beglazing (ten minste HR ++), energiezuinige deuren, kozijnen en daarmee gelijk te stellen constructieonderdelen indien deze voorzieningen worden getroffen in combinatie met hoog rendement beglazing (ten minste HR ++), douche-warmteterugwinningsysteem, energiezuinig ventilatiesysteem indien deze voorziening wordt getroffen in combinatie met andere energiebesparende voorzieningen, warmtepompen, zonnecellen of een combinatie van de genoemde voorzieningen;
 
-- c. **NulopdeMeter-woning:** een woning waarvan de ingaande en uitgaande energiestromen voor gebouwgebonden energie bij een normaal leefpatroon op jaarbasis gelijk zijn aan of lager zijn dan nul en met een additionele energieopwekkingscapaciteit voor gebruikersgebonden energie van ten minste:
-
-- 1°. 3.150 kWh indien het een vrijstaande of half vrijstaande woning betreft;
-
-- 2°. 2.700 kWh indien het een rijwoning betreft; of
-
-- 3°. 1.780 kWh indien het een appartement betreft;
-
-- d. **toetsinkomen:** het inkomen waarvan een aanbieder van hypothecair krediet uitgaat bij het bepalen van het maximale hypothecair krediet.
+- c. **toetsinkomen:** het inkomen waarvan een aanbieder van hypothecair krediet uitgaat bij het bepalen van het maximale hypothecair krediet.
 
 #### § 2. Vaststelling inkomenscriteria
 
@@ -76,6 +68,8 @@ In deze regeling wordt verstaan onder:
 
 - b. een te verwachten structurele inkomensstijging binnen een redelijke termijn.
 
+4. Indien de consument binnen tien jaar na het aangaan van een hypothecair krediet de verwachte AOW-leeftijd bereikt, houdt een aanbieder van hypothecair krediet bij het vaststellen van het toetsinkomen mede rekening met het verwachte inkomen en toekomstige beschikbare inkomsten uit vrij beschikbaar vermogen van de consument op de verwachte AOW-leeftijd van de consument.
+
 ##### Artikel 3
 
 1. De financieringslast van een hypothecair krediet mag niet hoger zijn dan de toegestane financieringslast.
@@ -86,13 +80,13 @@ In deze regeling wordt verstaan onder:
 
 4. Bij de berekening van de financieringslast wordt ervan uitgegaan dat de debetrente en aflossing maandelijks achteraf worden betaald.
 
-5. De toegestane financieringslast wordt door de aanbieder van hypothecair krediet vastgesteld aan de hand van het toetsinkomen van de consument en het ingevolge [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032503&bijlage=1&z=2023-01-01&g=2023-01-01) toepasselijke financieringslastpercentage.
+5. De toegestane financieringslast wordt door de aanbieder van hypothecair krediet vastgesteld aan de hand van het toetsinkomen van de consument en het ingevolge [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032503&bijlage=1&z=2024-01-01&g=2024-01-01) toepasselijke financieringslastpercentage.
 
 6. Indien een hypothecair krediet bedoeld is voor meerdere consumenten, wordt het financieringslastpercentage gehanteerd dat behoort bij het gezamenlijke toetsinkomen.
 
-7. Indien het hypothecair krediet bedoeld is voor meerdere consumenten waarvan één consument de AOW-leeftijd heeft bereikt en de andere consument niet, wordt voor de vaststelling van het financieringspercentage, bedoeld in het zesde lid, de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032503&bijlage=1&z=2023-01-01&g=2023-01-01) opgenomen tabel gehanteerd die van toepassing is op de consument met het hoogste toetsinkomen.
+7. Indien het hypothecair krediet bedoeld is voor meerdere consumenten waarvan één consument de AOW-leeftijd heeft bereikt en de andere consument niet, wordt voor de vaststelling van het financieringspercentage, bedoeld in het zesde lid, de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032503&bijlage=1&z=2024-01-01&g=2024-01-01) opgenomen tabel gehanteerd die van toepassing is op de consument met het hoogste toetsinkomen.
 
-8. Indien het hypothecair krediet bedoeld is voor een consument die alleenstaand is en een toetsinkomen heeft dat hoger is dan € 26.000 en lager is dan € 31.000, kan de aanbieder van hypothecair krediet bij het financieringslastpercentage ten hoogste drie procentpunten optellen, met dien verstande dat het aldus berekende financieringslastpercentage niet hoger mag zijn dan het financieringslastpercentage dat behoort bij een toetsinkomen van € 31.000.
+8. Indien het hypothecair krediet bedoeld is voor een consument die alleenstaand is en een toetsinkomen heeft dat hoger is dan € 28.000 kan een aanbieder van hypothecair krediet een bedrag tot € 16.000 buiten beschouwing laten bij het vaststellen van de financieringslast.
 
 9. Bij de berekening van de financieringslast en de toegestane financieringslast, houdt de aanbieder van hypothecair krediet rekening met:
 
@@ -108,7 +102,7 @@ In deze regeling wordt verstaan onder:
 
 - b. met een annuïtair aflossingschema; en
 
-- c. waarvan de hoogte gelijk is aan het op grond van [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032503&paragraaf=3&artikel=5&z=2023-01-01&g=2023-01-01), bepaalde percentage van de waarde van de woning.
+- c. waarvan de hoogte gelijk is aan het op grond van [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032503&paragraaf=3&artikel=5&z=2024-01-01&g=2024-01-01), bepaalde percentage van de waarde van de woning.
 
 De gemiddelde debetrentevoet bedraagt ten minste vijf procent.
 
@@ -122,7 +116,7 @@ De gemiddelde debetrentevoet bedraagt ten minste vijf procent.
 
 ##### Artikel 4
 
-1. Een aanbieder van hypothecair krediet kan van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032503&paragraaf=2&artikel=3&z=2023-01-01&g=2023-01-01), afwijken indien:
+1. Een aanbieder van hypothecair krediet kan van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032503&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01), afwijken indien:
 
 - a. het toetsinkomen, de financieringslast en de toegestane financieringslast zijn bepaald op grond van deze paragraaf;
 
@@ -132,17 +126,35 @@ De gemiddelde debetrentevoet bedraagt ten minste vijf procent.
 
 - d. de aanbieder aantoonbaar heeft beoordeeld dat het aannemelijk is dat de aanleiding voor de afwijking een bestendige situatie is.
 
-2. Een aanbieder van hypothecair krediet kan tevens van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032503&paragraaf=2&artikel=3&z=2023-01-01&g=2023-01-01), afwijken bij aflossing van een hypothecair krediet en het in plaats daarvan afsluiten van een nieuw hypothecair krediet met hetzelfde onderpand, voor zover de consument in de woning blijft wonen en de hoofdsom van het nieuwe hypothecair krediet niet hoger is dan de som van het af te lossen bedrag van het bestaande hypothecair krediet en de kosten die verband houden met het afsluiten van het nieuwe hypothecair krediet en de aflossing van het bestaande hypothecair krediet.
+2. Een aanbieder van hypothecair krediet kan tevens van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032503&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01), afwijken bij aflossing van een hypothecair krediet en het in plaats daarvan afsluiten van een nieuw hypothecair krediet met hetzelfde onderpand, voor zover de consument in de woning blijft wonen en de hoofdsom van het nieuwe hypothecair krediet niet hoger is dan de som van het af te lossen bedrag van het bestaande hypothecair krediet en de kosten die verband houden met het afsluiten van het nieuwe hypothecair krediet en de aflossing van het bestaande hypothecair krediet.
 
-3. Een aanbieder van hypothecair krediet kan bij het aangaan van een hypothecair krediet of het verhogen van een bestaand hypothecair krediet voor het treffen van energiebesparende voorzieningen in een woning het deel van het hypothecair krediet dat daarvoor is aangewend tot een bedrag van ten hoogste € 9.000 buiten beschouwing laten bij het vaststellen van de financieringslast. Tevens kan een bedrag van ten hoogste € 9.000 buiten beschouwing worden gelaten, indien het een aankoop van een woning betreft met een geldig energielabel van ten minste (A++) afgegeven voor 1 januari 2015 of een woning met een energie-index of een energieprestatiecoëfficiënt van ten hoogste 0,6 afgegeven voor 1 januari 2021, of een geldig energielabel (ten minste A+++) afgegeven na 1 januari 2021. Dit lid is enkel van toepassing op hypothecair kredieten die worden verstrekt aan consumenten met een toetsinkomen van ten minste € 33.000.
+3. Een aanbieder van hypothecair krediet kan bij het aangaan van een hypothecair krediet de bedragen die behoren bij het energielabel van de woning zoals opgenomen in onderstaande tabel buiten beschouwing laten bij het vaststellen van de financieringslast.
 
-4. Indien een hypothecair krediet wordt verstrekt voor de financiering van een NulopdeMeter-woning en ten aanzien van die woning een energieprestatiegarantie is afgegeven voor een periode van ten minste tien jaar kan een bedrag van € 25.000 euro buiten beschouwing worden gelaten bij het vaststellen van de financieringslast.
+| Energielabel woning | Bedrag dat buiten beschouwing kan worden gelaten |
+| --- | --- |
+| E, F, G | € 0 |
+| C, D | € 5.000 |
+| A, B | € 10.000 |
+| A+, A++ | € 20.000 |
+| A+++ | € 30.000 |
+| A++++ | € 40.000 |
+| A++++ (met een energieprestatiegarantie afgegeven voor een periode van ten minste tien jaar) | € 50.000 |
 
-5. Indien een hypothecair krediet wordt verstrekt voor de financiering van een woning met een energie-index, een energieprestatie-coëfficiënt gelijk aan of lager dan nul of met een maximaal primair fossiel energiegebruik dat gelijk is aan of lager is dan 0 kWh/m2 per jaar, kan een bedrag van € 15.000 buiten beschouwing worden gelaten bij het vaststellen van de financieringslast.
+4. In aanvulling op het derde lid kan een aanbieder van hypothecair krediet bij het aangaan van een hypothecair krediet voor het treffen van energiebesparende voorzieningen in een woning maximaal de onderstaande bedragen behorend bij het energielabel van de woning buiten beschouwing laten bij het vaststellen van de financieringslast.
 
-6. Het vierde en vijfde lid zijn uitsluitend van toepassing op hypothecaire kredieten die worden verstrekt aan consumenten met een toetsinkomen van ten minste € 33.000.
+| Energielabel bestaande woning | Bedrag dat buiten beschouwing kan worden gelaten |
+| --- | --- |
+| E, F, G | € 20.000 |
+| C, D | € 15.000 |
+| A, B | € 10.000 |
+| A+, A++ | € 10.000 |
+| A+++ | € 10.000 |
+| A++++ | € 0 |
+| A++++ (met een energieprestatiegarantie afgegeven voor een periode van ten minste tien jaar) | € 0 |
 
-7. Een aanbieder van hypothecair krediet kan bij het aangaan van een hypothecair krediet de lopende verplichtingen onder een hypothecair krediet voor de financiering van een nog niet verkochte woning, inclusief de kosten die verband houden met het afsluiten van een overbruggingskrediet, buiten beschouwing laten bij het vaststellen van de financieringslast, indien aannemelijk is gemaakt dat de verplichtingen uit de hypothecaire kredieten door de consument kunnen worden nagekomen gedurende een door de aanbieder van hypothecair krediet in redelijkheid te bepalen periode.
+5. Een aanbieder van hypothecair krediet kan bij het aangaan van een hypothecair krediet voor het treffen van energiebesparende voorzieningen in een woning maximaal € 10.000 buiten beschouwing laten bij het vaststellen van de financieringslast indien de woning geen energielabel of geen geldig energielabel heeft.
+
+6. Een aanbieder van hypothecair krediet kan bij het aangaan van een hypothecair krediet de lopende verplichtingen onder een hypothecair krediet voor de financiering van een nog niet verkochte woning, inclusief de kosten die verband houden met het afsluiten van een overbruggingskrediet, buiten beschouwing laten bij het vaststellen van de financieringslast, indien aannemelijk is gemaakt dat de verplichtingen uit de hypothecaire kredieten door de consument kunnen worden nagekomen gedurende een door de aanbieder van hypothecair krediet in redelijkheid te bepalen periode.
 
 #### § 3. Maximale hypothecair krediet in verhouding tot de waarde van de woning
 
@@ -168,7 +180,7 @@ De gemiddelde debetrentevoet bedraagt ten minste vijf procent.
 
 - f. bij het betalen van achterstallige betalingen door de consument aan de Vereniging van Eigenaren, voor zover de betalingsachterstand bij de aankoop van de woning een negatieve invloed heeft gehad op de waarde van de woning; of
 
-- g. indien de financieringslast van een hypothecair krediet substantieel lager ligt dan de toegestane financieringslast, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032503&paragraaf=2&artikel=3&z=2023-01-01&g=2023-01-01).
+- g. indien de financieringslast van een hypothecair krediet substantieel lager ligt dan de toegestane financieringslast, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032503&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01).
 
 5. Bij toepassing van het vierde lid, onderdeel c, mogen de kosten die verband houden met het afsluiten van het nieuwe hypothecair krediet worden meegefinancierd indien de verhouding tussen de hoogte van het totale hypothecair krediet en de waarde van de woning daalt.
 
@@ -578,383 +590,408 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ## Bijlage 1. Financieringslastpercentages
 
-| Debetrente | <= 1,500% | 1,501–2,000% | 2,001–2,500% | 2,501–3,000% | 3,001–3,500% | 3,501–4,000% | 4,001–4,500% | 4,501–5,000% | 5,001–5,500% | 5,501–6,000% | 6,001–6,500% | >= 6,501% |
+| toetsrente | <= 1,500% | 1,501–2,000% | 2,001–2,500% | 2,501–3,000% | 3,001–3,500% | 3,501–4,000% | 4,001–4,500% | 4,501–5,000% | 5,001–5,500% | 5,501–6,000% | 6,001–6,500% | >= 6,501% |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| toetsinkomen |   |   |   |   |   |   |   |   |   |   |   |   |
-| – | 14,5% | 15,5% | 16,0% | 17,0% | 17,5% | 18,5% | 19,0% | 19,5% | 20,0% | 20,5% | 21,0% | 21,0% |
-| € 26.000 | 14,5% | 15,5% | 16,0% | 17,0% | 17,5% | 18,5% | 19,0% | 19,5% | 20,0% | 20,5% | 21,0% | 21,0% |
-| € 27.000 | 15,5% | 16,5% | 17,5% | 18,5% | 19,0% | 20,0% | 20,5% | 21,0% | 22,0% | 22,5% | 23,0% | 23,0% |
-| € 28.000 | 16,0% | 17,5% | 18,5% | 19,5% | 20,5% | 21,0% | 22,0% | 22,5% | 23,5% | 24,0% | 24,5% | 25,0% |
-| € 29.000 | 16,5% | 18,0% | 19,5% | 20,5% | 21,5% | 22,5% | 23,5% | 24,0% | 24,5% | 25,5% | 26,0% | 26,5% |
-| € 30.000 | 16,5% | 18,0% | 20,0% | 21,5% | 22,5% | 23,5% | 24,5% | 25,5% | 26,5% | 27,0% | 28,0% | 28,5% |
-| € 31.000 | 17,0% | 19,0% | 20,5% | 22,0% | 23,0% | 24,0% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,0% |
-| € 32.000 | 17,0% | 19,5% | 20,5% | 22,0% | 23,0% | 24,0% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,0% |
-| € 33.000 | 17,5% | 19,5% | 20,5% | 22,0% | 23,0% | 24,0% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,0% |
-| € 34.000 | 17,5% | 19,5% | 20,5% | 22,0% | 23,0% | 24,0% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,0% |
-| € 35.000 | 18,0% | 19,5% | 20,5% | 22,0% | 23,0% | 24,0% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,0% |
-| € 36.000 | 18,0% | 19,5% | 20,5% | 22,0% | 23,0% | 24,0% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,0% |
-| € 37.000 | 18,5% | 19,5% | 20,5% | 22,0% | 23,0% | 24,0% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,0% |
-| € 38.000 | 18,5% | 19,5% | 20,5% | 22,0% | 23,0% | 24,0% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,0% |
-| € 39.000 | 18,5% | 19,5% | 20,5% | 22,0% | 23,0% | 24,0% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,0% |
-| € 40.000 | 18,5% | 19,5% | 20,5% | 22,0% | 23,0% | 24,0% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,0% |
-| € 41.000 | 18,5% | 19,5% | 20,5% | 22,0% | 23,0% | 24,0% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,0% |
-| € 42.000 | 18,5% | 19,5% | 20,5% | 22,0% | 23,0% | 24,0% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,0% |
-| € 43.000 | 18,5% | 19,5% | 20,5% | 22,0% | 23,0% | 24,0% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,0% |
-| € 44.000 | 18,5% | 19,5% | 20,5% | 22,0% | 23,0% | 24,0% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,0% |
-| € 45.000 | 18,5% | 19,5% | 20,5% | 22,0% | 23,0% | 24,0% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,0% |
-| € 46.000 | 18,5% | 19,5% | 20,5% | 22,0% | 23,0% | 24,0% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,0% |
-| € 47.000 | 18,5% | 19,5% | 20,5% | 22,0% | 23,0% | 24,0% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,0% |
-| € 48.000 | 18,5% | 19,5% | 20,5% | 22,0% | 23,0% | 24,0% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,0% |
-| € 49.000 | 18,5% | 19,5% | 20,5% | 22,0% | 23,0% | 24,0% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,0% |
-| € 50.000 | 18,5% | 20,0% | 21,0% | 22,0% | 23,0% | 24,0% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,0% |
-| € 51.000 | 18,5% | 20,0% | 21,0% | 22,0% | 23,0% | 24,0% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,0% |
-| € 52.000 | 18,5% | 20,0% | 21,0% | 22,0% | 23,0% | 24,0% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,0% |
-| € 53.000 | 18,5% | 20,0% | 21,0% | 22,0% | 23,0% | 24,0% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,0% |
-| € 54.000 | 18,5% | 20,0% | 21,0% | 22,0% | 23,0% | 24,0% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,0% |
-| € 55.000 | 18,5% | 20,0% | 21,0% | 22,0% | 23,0% | 24,0% | 25,0% | 25,5% | 26,5% | 27,5% | 28,5% | 29,0% |
-| € 56.000 | 18,5% | 20,0% | 21,5% | 22,5% | 23,5% | 24,5% | 25,0% | 26,0% | 27,0% | 27,5% | 28,5% | 29,5% |
-| € 57.000 | 19,0% | 20,0% | 21,5% | 22,5% | 23,5% | 24,5% | 25,5% | 26,5% | 27,0% | 28,0% | 28,5% | 29,5% |
-| € 58.000 | 19,0% | 20,0% | 21,5% | 22,5% | 23,5% | 24,5% | 25,5% | 26,5% | 27,5% | 28,0% | 29,0% | 29,5% |
-| € 59.000 | 19,0% | 20,5% | 21,5% | 23,0% | 24,0% | 25,0% | 26,0% | 27,0% | 27,5% | 28,5% | 29,0% | 30,0% |
-| € 60.000 | 19,5% | 20,5% | 21,5% | 23,0% | 24,0% | 25,0% | 26,0% | 27,0% | 28,0% | 28,5% | 29,5% | 30,0% |
-| € 61.000 | 19,5% | 20,5% | 22,0% | 23,0% | 24,0% | 25,5% | 26,5% | 27,0% | 28,0% | 29,0% | 29,5% | 30,5% |
-| € 62.000 | 19,5% | 21,0% | 22,0% | 23,0% | 24,0% | 25,5% | 26,5% | 27,5% | 28,5% | 29,0% | 30,0% | 30,5% |
-| € 63.000 | 20,0% | 21,0% | 22,0% | 23,0% | 24,0% | 25,5% | 26,5% | 27,5% | 28,5% | 29,5% | 30,0% | 31,0% |
-| € 64.000 | 20,0% | 21,0% | 22,5% | 23,5% | 24,5% | 25,5% | 26,5% | 28,0% | 28,5% | 29,5% | 30,5% | 31,0% |
-| € 65.000 | 20,0% | 21,5% | 22,5% | 23,5% | 24,5% | 25,5% | 26,5% | 28,0% | 29,0% | 30,0% | 30,5% | 31,5% |
-| € 66.000 | 20,5% | 21,5% | 22,5% | 23,5% | 25,0% | 26,0% | 27,0% | 28,0% | 29,0% | 30,0% | 31,0% | 31,5% |
-| € 67.000 | 20,5% | 21,5% | 22,5% | 24,0% | 25,0% | 26,0% | 27,0% | 28,0% | 29,0% | 30,0% | 31,0% | 31,5% |
-| € 68.000 | 20,5% | 22,0% | 23,0% | 24,0% | 25,0% | 26,0% | 27,0% | 28,0% | 29,0% | 30,0% | 31,0% | 32,0% |
-| € 69.000 | 20,5% | 22,0% | 23,0% | 24,0% | 25,5% | 26,5% | 27,5% | 28,5% | 29,0% | 30,0% | 31,5% | 32,0% |
-| € 70.000 | 21,0% | 22,0% | 23,0% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,5% | 30,5% | 31,5% | 32,5% |
-| € 71.000 | 21,0% | 22,0% | 23,5% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,5% | 30,5% | 31,5% | 32,5% |
-| € 72.000 | 21,0% | 22,5% | 23,5% | 24,5% | 26,0% | 27,0% | 28,0% | 29,0% | 30,0% | 30,5% | 31,5% | 32,5% |
-| € 73.000 | 21,0% | 22,5% | 23,5% | 24,5% | 26,0% | 27,0% | 28,0% | 29,0% | 30,0% | 31,0% | 31,5% | 32,5% |
-| € 74.000 | 21,0% | 22,5% | 23,5% | 25,0% | 26,0% | 27,0% | 28,0% | 29,0% | 30,0% | 31,0% | 31,5% | 32,5% |
-| € 75.000 | 21,0% | 22,5% | 23,5% | 25,0% | 26,0% | 27,0% | 28,0% | 29,0% | 30,0% | 31,0% | 32,0% | 32,5% |
-| € 76.000 | 21,5% | 22,5% | 23,5% | 25,0% | 26,0% | 27,0% | 28,0% | 29,0% | 30,0% | 31,0% | 32,0% | 32,5% |
-| € 77.000 | 21,5% | 22,5% | 24,0% | 25,0% | 26,0% | 27,0% | 28,0% | 29,0% | 30,0% | 31,0% | 32,0% | 32,5% |
-| € 78.000 | 21,5% | 22,5% | 24,0% | 25,0% | 26,0% | 27,5% | 28,5% | 29,5% | 30,0% | 31,0% | 32,0% | 32,5% |
-| € 79.000 | 21,5% | 22,5% | 24,0% | 25,0% | 26,0% | 27,5% | 28,5% | 29,5% | 30,5% | 31,0% | 32,0% | 33,0% |
-| € 80.000 | 21,5% | 22,5% | 24,0% | 25,0% | 26,0% | 27,5% | 28,5% | 29,5% | 30,5% | 31,5% | 32,0% | 33,0% |
-| € 81.000 | 21,5% | 22,5% | 24,0% | 25,0% | 26,5% | 27,5% | 28,5% | 29,5% | 30,5% | 31,5% | 32,0% | 33,0% |
-| € 82.000 | 21,5% | 23,0% | 24,0% | 25,0% | 26,5% | 27,5% | 28,5% | 29,5% | 30,5% | 31,5% | 32,0% | 33,0% |
-| € 83.000 | 21,5% | 23,0% | 24,0% | 25,5% | 26,5% | 27,5% | 28,5% | 29,5% | 30,5% | 31,5% | 32,5% | 33,0% |
-| € 84.000 | 21,5% | 23,0% | 24,0% | 25,5% | 26,5% | 27,5% | 28,5% | 29,5% | 30,5% | 31,5% | 32,5% | 33,0% |
-| € 85.000 | 22,0% | 23,0% | 24,0% | 25,5% | 26,5% | 27,5% | 28,5% | 29,5% | 30,5% | 31,5% | 32,5% | 33,0% |
-| € 86.000 | 22,0% | 23,0% | 24,0% | 25,5% | 26,5% | 27,5% | 28,5% | 29,5% | 30,5% | 31,5% | 32,5% | 33,5% |
-| € 87.000 | 22,0% | 23,0% | 24,5% | 25,5% | 26,5% | 27,5% | 29,0% | 30,0% | 30,5% | 31,5% | 32,5% | 33,5% |
-| € 88.000 | 22,0% | 23,0% | 24,5% | 25,5% | 26,5% | 27,5% | 29,0% | 30,0% | 31,0% | 31,5% | 32,5% | 33,5% |
-| € 89.000 | 22,0% | 23,0% | 24,5% | 25,5% | 26,5% | 28,0% | 29,0% | 30,0% | 31,0% | 31,5% | 32,5% | 33,5% |
-| € 90.000 | 22,0% | 23,0% | 24,5% | 25,5% | 26,5% | 28,0% | 29,0% | 30,0% | 31,0% | 32,0% | 32,5% | 33,5% |
-| € 91.000 | 22,0% | 23,5% | 24,5% | 25,5% | 27,0% | 28,0% | 29,0% | 30,0% | 31,0% | 32,0% | 32,5% | 33,5% |
-| € 92.000 | 22,0% | 23,5% | 24,5% | 25,5% | 27,0% | 28,0% | 29,0% | 30,0% | 31,0% | 32,0% | 33,0% | 33,5% |
-| € 93.000 | 22,0% | 23,5% | 24,5% | 26,0% | 27,0% | 28,0% | 29,0% | 30,0% | 31,0% | 32,0% | 33,0% | 33,5% |
-| € 94.000 | 22,0% | 23,5% | 24,5% | 26,0% | 27,0% | 28,0% | 29,0% | 30,0% | 31,0% | 32,0% | 33,0% | 33,5% |
-| € 95.000 | 22,0% | 23,5% | 24,5% | 26,0% | 27,0% | 28,0% | 29,0% | 30,0% | 31,0% | 32,0% | 33,0% | 33,5% |
-| € 96.000 | 22,0% | 23,5% | 24,5% | 26,0% | 27,0% | 28,0% | 29,0% | 30,0% | 31,0% | 32,0% | 33,0% | 34,0% |
-| € 97.000 | 22,5% | 23,5% | 25,0% | 26,0% | 27,0% | 28,0% | 29,5% | 30,0% | 31,0% | 32,0% | 33,0% | 34,0% |
-| € 98.000 | 22,5% | 23,5% | 25,0% | 26,0% | 27,0% | 28,0% | 29,5% | 30,5% | 31,5% | 32,0% | 33,0% | 34,0% |
-| € 99.000 | 22,5% | 23,5% | 25,0% | 26,0% | 27,0% | 28,5% | 29,5% | 30,5% | 31,5% | 32,0% | 33,0% | 34,0% |
-| € 100.000 | 22,5% | 23,5% | 25,0% | 26,0% | 27,5% | 28,5% | 29,5% | 30,5% | 31,5% | 32,5% | 33,0% | 34,0% |
-| € 101.000 | 22,5% | 23,5% | 25,0% | 26,0% | 27,5% | 28,5% | 29,5% | 30,5% | 31,5% | 32,5% | 33,0% | 34,0% |
-| € 102.000 | 22,5% | 24,0% | 25,0% | 26,0% | 27,5% | 28,5% | 29,5% | 30,5% | 31,5% | 32,5% | 33,5% | 34,0% |
-| € 103.000 | 22,5% | 24,0% | 25,0% | 26,5% | 27,5% | 28,5% | 29,5% | 30,5% | 31,5% | 32,5% | 33,5% | 34,0% |
-| € 104.000 | 22,5% | 24,0% | 25,0% | 26,5% | 27,5% | 28,5% | 29,5% | 30,5% | 31,5% | 32,5% | 33,5% | 34,0% |
-| € 105.000 | 22,5% | 24,0% | 25,0% | 26,5% | 27,5% | 28,5% | 29,5% | 30,5% | 31,5% | 32,5% | 33,5% | 34,5% |
-| € 106.000 | 22,5% | 24,0% | 25,0% | 26,5% | 27,5% | 28,5% | 30,0% | 31,0% | 31,5% | 32,5% | 33,5% | 34,5% |
-| € 107.000 | 22,5% | 24,0% | 25,0% | 26,5% | 27,5% | 29,0% | 30,0% | 31,0% | 32,0% | 32,5% | 33,5% | 34,5% |
-| € 108.000 | 23,0% | 24,0% | 25,5% | 26,5% | 27,5% | 29,0% | 30,0% | 31,0% | 32,0% | 33,0% | 33,5% | 34,5% |
-| € 109.000 | 23,0% | 24,0% | 25,5% | 26,5% | 27,5% | 29,0% | 30,0% | 31,0% | 32,0% | 33,0% | 33,5% | 34,5% |
-| € 110.000 | 23,0% | 24,0% | 25,5% | 26,5% | 28,0% | 29,0% | 30,0% | 31,0% | 32,0% | 33,0% | 34,0% | 34,5% |
+| toets- inkomen |   |   |   |   |   |   |   |   |   |   |   |   |
+| - | 13,0% | 14,0% | 15,0% | 15,5% | 16,5% | 17,0% | 17,5% | 18,0% | 18,5% | 19,0% | 19,5% | 20,0% |
+| € 28.000 | 13,0% | 14,0% | 15,0% | 15,5% | 16,5% | 17,0% | 17,5% | 18,0% | 18,5% | 19,0% | 19,5% | 20,0% |
+| € 29.000 | 13,5% | 14,5% | 15,5% | 16,5% | 17,5% | 18,5% | 19,0% | 19,5% | 20,0% | 21,0% | 21,5% | 22,0% |
+| € 30.000 | 14,5% | 15,5% | 16,5% | 17,5% | 18,5% | 19,5% | 20,5% | 21,0% | 21,5% | 22,0% | 23,0% | 23,5% |
+| € 31.000 | 15,0% | 16,5% | 17,5% | 18,5% | 19,5% | 20,5% | 21,5% | 22,0% | 22,5% | 23,0% | 23,5% | 24,0% |
+| € 32.000 | 15,5% | 17,0% | 18,0% | 19,0% | 20,0% | 21,0% | 22,0% | 22,5% | 23,0% | 23,5% | 24,0% | 24,5% |
+| € 33.000 | 16,5% | 17,5% | 18,5% | 19,5% | 20,5% | 21,5% | 22,5% | 23,0% | 23,5% | 24,5% | 25,0% | 25,5% |
+| € 34.000 | 17,0% | 18,0% | 19,0% | 20,0% | 21,0% | 22,0% | 22,5% | 23,5% | 24,0% | 25,0% | 25,5% | 26,0% |
+| € 35.000 | 17,5% | 18,5% | 19,5% | 20,5% | 21,0% | 22,0% | 23,0% | 23,5% | 24,5% | 25,0% | 26,0% | 26,5% |
+| € 36.000 | 17,5% | 18,5% | 19,5% | 20,5% | 21,5% | 22,5% | 23,0% | 24,0% | 25,0% | 25,5% | 26,0% | 27,0% |
+| € 37.000 | 18,0% | 19,0% | 20,0% | 21,0% | 22,0% | 22,5% | 23,5% | 24,5% | 25,0% | 25,5% | 26,0% | 27,0% |
+| € 38.000 | 18,0% | 19,0% | 20,0% | 21,0% | 22,0% | 23,0% | 24,0% | 24,5% | 25,5% | 26,0% | 26,5% | 27,0% |
+| € 39.000 | 18,0% | 19,0% | 20,0% | 21,0% | 22,0% | 23,0% | 24,0% | 25,0% | 25,5% | 26,5% | 27,0% | 27,5% |
+| € 40.000 | 18,0% | 19,0% | 20,0% | 21,0% | 22,0% | 23,0% | 24,0% | 25,0% | 26,0% | 26,5% | 27,5% | 28,0% |
+| € 41.000 | 18,0% | 19,0% | 20,0% | 21,0% | 22,0% | 23,0% | 24,0% | 25,0% | 26,0% | 26,5% | 27,5% | 28,0% |
+| € 42.000 | 18,0% | 19,0% | 20,0% | 21,0% | 22,0% | 23,0% | 24,0% | 25,0% | 26,0% | 27,0% | 27,5% | 28,0% |
+| € 43.000 | 18,0% | 19,0% | 20,0% | 21,0% | 22,0% | 23,0% | 24,0% | 25,0% | 26,0% | 27,0% | 27,5% | 28,0% |
+| € 44.000 | 18,0% | 19,0% | 20,0% | 21,0% | 22,0% | 23,0% | 24,0% | 25,0% | 26,0% | 27,0% | 27,5% | 28,0% |
+| € 45.000 | 18,0% | 19,0% | 20,0% | 21,0% | 22,0% | 23,0% | 24,0% | 25,0% | 26,0% | 27,0% | 27,5% | 28,5% |
+| € 46.000 | 18,0% | 19,0% | 20,0% | 21,0% | 22,0% | 23,0% | 24,0% | 25,0% | 26,0% | 27,0% | 27,5% | 28,5% |
+| € 47.000 | 18,0% | 19,0% | 20,0% | 21,0% | 22,0% | 23,0% | 24,0% | 25,0% | 26,0% | 27,0% | 27,5% | 28,5% |
+| € 48.000 | 18,0% | 19,0% | 20,0% | 21,0% | 22,0% | 23,0% | 24,0% | 25,0% | 26,0% | 27,0% | 27,5% | 28,5% |
+| € 49.000 | 18,0% | 19,0% | 20,0% | 21,0% | 22,0% | 23,0% | 24,0% | 25,0% | 26,0% | 27,0% | 27,5% | 28,5% |
+| € 50.000 | 18,0% | 19,0% | 20,0% | 21,0% | 22,0% | 23,0% | 24,0% | 25,0% | 26,0% | 27,0% | 27,5% | 28,5% |
+| € 51.000 | 18,0% | 19,0% | 20,0% | 21,0% | 22,0% | 23,0% | 24,0% | 25,0% | 26,0% | 27,0% | 27,5% | 28,5% |
+| € 52.000 | 18,0% | 19,0% | 20,0% | 21,0% | 22,0% | 23,0% | 24,0% | 25,0% | 26,0% | 27,0% | 27,5% | 28,5% |
+| € 53.000 | 18,0% | 19,0% | 20,0% | 21,0% | 22,0% | 23,0% | 24,0% | 25,0% | 26,0% | 27,0% | 27,5% | 28,5% |
+| € 54.000 | 18,0% | 19,0% | 20,0% | 21,0% | 22,0% | 23,0% | 24,0% | 25,0% | 26,0% | 27,0% | 27,5% | 28,5% |
+| € 55.000 | 18,0% | 19,0% | 20,0% | 21,0% | 22,0% | 23,0% | 24,0% | 25,0% | 26,0% | 27,0% | 27,5% | 28,5% |
+| € 56.000 | 18,0% | 19,0% | 20,5% | 21,5% | 22,5% | 23,5% | 24,5% | 25,0% | 26,0% | 27,0% | 27,5% | 28,5% |
+| € 57.000 | 18,0% | 19,0% | 20,5% | 21,5% | 22,5% | 23,5% | 24,5% | 25,5% | 26,0% | 27,0% | 28,0% | 28,5% |
+| € 58.000 | 18,0% | 19,0% | 20,5% | 21,5% | 22,5% | 23,5% | 24,5% | 25,5% | 26,5% | 27,0% | 28,0% | 28,5% |
+| € 59.000 | 18,5% | 19,5% | 20,5% | 21,5% | 22,5% | 23,5% | 24,5% | 25,5% | 26,5% | 27,5% | 28,0% | 29,0% |
+| € 60.000 | 18,5% | 19,5% | 20,5% | 21,5% | 22,5% | 23,5% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,0% |
+| € 61.000 | 18,5% | 19,5% | 20,5% | 21,5% | 23,0% | 24,0% | 25,0% | 26,0% | 27,0% | 27,5% | 28,5% | 29,0% |
+| € 62.000 | 18,5% | 19,5% | 20,5% | 22,0% | 23,0% | 24,0% | 25,0% | 26,0% | 27,0% | 28,0% | 28,5% | 29,5% |
+| € 63.000 | 19,0% | 20,0% | 21,0% | 22,0% | 23,0% | 24,0% | 25,0% | 26,0% | 27,0% | 28,0% | 28,5% | 29,5% |
+| € 64.000 | 19,0% | 20,0% | 21,0% | 22,0% | 23,0% | 24,0% | 25,0% | 26,5% | 27,0% | 28,0% | 29,0% | 29,5% |
+| € 65.000 | 19,0% | 20,0% | 21,0% | 22,0% | 23,0% | 24,0% | 25,0% | 26,5% | 27,5% | 28,0% | 29,0% | 29,5% |
+| € 66.000 | 19,0% | 20,0% | 21,5% | 22,5% | 23,5% | 24,0% | 25,0% | 26,5% | 27,5% | 28,5% | 29,0% | 30,0% |
+| € 67.000 | 19,5% | 20,5% | 21,5% | 22,5% | 23,5% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,5% | 30,0% |
+| € 68.000 | 19,5% | 20,5% | 21,5% | 22,5% | 23,5% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,5% | 30,0% |
+| € 69.000 | 19,5% | 20,5% | 21,5% | 22,5% | 23,5% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,5% | 30,5% |
+| € 70.000 | 19,5% | 20,5% | 21,5% | 22,5% | 23,5% | 25,0% | 26,0% | 27,0% | 27,5% | 28,5% | 29,5% | 30,5% |
+| € 71.000 | 20,0% | 21,0% | 22,0% | 23,0% | 24,0% | 25,0% | 26,0% | 27,0% | 28,0% | 29,0% | 29,5% | 30,5% |
+| € 72.000 | 20,0% | 21,0% | 22,0% | 23,0% | 24,0% | 25,0% | 26,0% | 27,0% | 28,0% | 29,0% | 30,0% | 30,5% |
+| € 73.000 | 20,0% | 21,0% | 22,0% | 23,0% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,0% | 30,0% | 30,5% |
+| € 74.000 | 20,0% | 21,0% | 22,0% | 23,0% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,0% | 30,0% | 30,5% |
+| € 75.000 | 20,0% | 21,0% | 22,0% | 23,0% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,5% | 30,0% | 31,0% |
+| € 76.000 | 20,0% | 21,0% | 22,0% | 23,0% | 24,5% | 26,0% | 27,0% | 27,5% | 28,5% | 29,5% | 30,0% | 31,0% |
+| € 77.000 | 20,5% | 21,5% | 22,5% | 24,0% | 25,0% | 26,0% | 27,0% | 28,0% | 28,5% | 29,5% | 30,5% | 31,0% |
+| € 78.000 | 20,5% | 21,5% | 22,5% | 24,0% | 25,0% | 26,0% | 27,0% | 28,0% | 29,0% | 29,5% | 30,5% | 31,0% |
+| € 79.000 | 20,5% | 21,5% | 22,5% | 24,0% | 25,0% | 26,0% | 27,0% | 28,0% | 29,0% | 29,5% | 30,5% | 31,0% |
+| € 80.000 | 20,5% | 21,5% | 23,0% | 24,0% | 25,0% | 26,0% | 27,0% | 28,0% | 29,0% | 30,0% | 30,5% | 31,5% |
+| € 81.000 | 20,5% | 21,5% | 23,0% | 24,0% | 25,0% | 26,0% | 27,0% | 28,0% | 29,0% | 30,0% | 30,5% | 31,5% |
+| € 82.000 | 20,5% | 21,5% | 23,0% | 24,0% | 25,0% | 26,0% | 27,0% | 28,0% | 29,0% | 30,0% | 30,5% | 31,5% |
+| € 83.000 | 20,5% | 21,5% | 23,0% | 24,0% | 25,0% | 26,0% | 27,0% | 28,0% | 29,0% | 30,0% | 30,5% | 31,5% |
+| € 84.000 | 20,5% | 21,5% | 23,0% | 24,0% | 25,0% | 26,0% | 27,0% | 28,0% | 29,0% | 30,0% | 31,0% | 31,5% |
+| € 85.000 | 21,0% | 22,0% | 23,0% | 24,0% | 25,0% | 26,5% | 27,5% | 28,0% | 29,0% | 30,0% | 31,0% | 31,5% |
+| € 86.000 | 21,0% | 22,0% | 23,0% | 24,0% | 25,5% | 26,5% | 27,5% | 28,5% | 29,0% | 30,0% | 31,0% | 31,5% |
+| € 87.000 | 21,0% | 22,0% | 23,0% | 24,0% | 25,5% | 26,5% | 27,5% | 28,5% | 29,5% | 30,0% | 31,0% | 31,5% |
+| € 88.000 | 21,0% | 22,0% | 23,0% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,5% | 30,0% | 31,0% | 32,0% |
+| € 89.000 | 21,0% | 22,0% | 23,5% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,5% | 30,0% | 31,0% | 32,0% |
+| € 90.000 | 21,0% | 22,0% | 23,5% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,5% | 30,0% | 31,0% | 32,0% |
+| € 91.000 | 21,0% | 22,5% | 23,5% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,5% | 30,5% | 31,0% | 32,0% |
+| € 92.000 | 21,0% | 22,5% | 23,5% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,5% | 30,5% | 31,0% | 32,0% |
+| € 93.000 | 21,0% | 22,5% | 23,5% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,5% | 30,5% | 31,0% | 32,0% |
+| € 94.000 | 21,5% | 22,5% | 23,5% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,5% | 30,5% | 31,0% | 32,0% |
+| € 95.000 | 21,5% | 22,5% | 23,5% | 24,5% | 26,0% | 27,0% | 28,0% | 28,5% | 29,5% | 30,5% | 31,5% | 32,0% |
+| € 96.000 | 21,5% | 22,5% | 23,5% | 24,5% | 26,0% | 27,0% | 28,0% | 28,5% | 29,5% | 30,5% | 31,5% | 32,0% |
+| € 97.000 | 21,5% | 22,5% | 23,5% | 25,0% | 26,0% | 27,0% | 28,0% | 29,0% | 29,5% | 30,5% | 31,5% | 32,0% |
+| € 98.000 | 21,5% | 22,5% | 24,0% | 25,0% | 26,0% | 27,0% | 28,0% | 29,0% | 29,5% | 30,5% | 31,5% | 32,0% |
+| € 99.000 | 21,5% | 22,5% | 24,0% | 25,0% | 26,0% | 27,0% | 28,0% | 29,0% | 30,0% | 30,5% | 31,5% | 32,0% |
+| € 100.000 | 21,5% | 23,0% | 24,0% | 25,0% | 26,0% | 27,0% | 28,0% | 29,0% | 30,0% | 30,5% | 31,5% | 32,5% |
+| € 101.000 | 21,5% | 23,0% | 24,0% | 25,0% | 26,0% | 27,0% | 28,0% | 29,0% | 30,0% | 30,5% | 31,5% | 32,5% |
+| € 102.000 | 21,5% | 23,0% | 24,0% | 25,0% | 26,0% | 27,0% | 28,0% | 29,0% | 30,0% | 31,0% | 31,5% | 32,5% |
+| € 103.000 | 22,0% | 23,0% | 24,0% | 25,0% | 26,0% | 27,0% | 28,0% | 29,0% | 30,0% | 31,0% | 31,5% | 32,5% |
+| € 104.000 | 22,0% | 23,0% | 24,0% | 25,0% | 26,5% | 27,5% | 28,0% | 29,0% | 30,0% | 31,0% | 31,5% | 32,5% |
+| € 105.000 | 22,0% | 23,0% | 24,0% | 25,5% | 26,5% | 27,5% | 28,5% | 29,0% | 30,0% | 31,0% | 31,5% | 32,5% |
+| € 106.000 | 22,0% | 23,0% | 24,0% | 25,5% | 26,5% | 27,5% | 28,5% | 29,5% | 30,0% | 31,0% | 32,0% | 32,5% |
+| € 107.000 | 22,0% | 23,0% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,5% | 30,0% | 31,0% | 32,0% | 32,5% |
+| € 108.000 | 22,0% | 23,0% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,5% | 30,5% | 31,0% | 32,0% | 32,5% |
+| € 109.000 | 22,0% | 23,0% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,5% | 30,5% | 31,0% | 32,0% | 32,5% |
+| € 110.000 | 22,0% | 23,0% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,5% | 30,5% | 31,0% | 32,0% | 33,0% |
+| € 111.000 | 22,0% | 23,0% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,5% | 30,5% | 31,0% | 32,0% | 33,0% |
+| € 112.000 | 22,0% | 23,0% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,5% | 30,5% | 31,5% | 32,0% | 33,0% |
+| € 113.000 | 22,0% | 23,5% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,5% | 30,5% | 31,5% | 32,0% | 33,0% |
+| € 114.000 | 22,0% | 23,5% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,5% | 30,5% | 31,5% | 32,0% | 33,0% |
+| € 115.000 | 22,0% | 23,5% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,5% | 30,5% | 31,5% | 32,0% | 33,0% |
+| € 116.000 | 22,0% | 23,5% | 24,5% | 25,5% | 26,5% | 27,5% | 29,0% | 29,5% | 30,5% | 31,5% | 32,0% | 33,0% |
+| € 117.000 | 22,0% | 23,5% | 24,5% | 25,5% | 26,5% | 27,5% | 29,0% | 29,5% | 30,5% | 31,5% | 32,0% | 33,0% |
+| € 118.000 | 22,0% | 23,5% | 24,5% | 25,5% | 26,5% | 28,0% | 29,0% | 29,5% | 30,5% | 31,5% | 32,0% | 33,0% |
+| € 119.000 | 22,0% | 23,5% | 24,5% | 25,5% | 27,0% | 28,0% | 29,0% | 30,0% | 30,5% | 31,5% | 32,0% | 33,0% |
+| € 120.000 | 22,0% | 23,5% | 24,5% | 25,5% | 27,0% | 28,0% | 29,0% | 30,0% | 30,5% | 31,5% | 32,5% | 33,0% |
+| € 121.000 | 22,5% | 23,5% | 24,5% | 26,0% | 27,0% | 28,0% | 29,0% | 30,0% | 30,5% | 31,5% | 32,5% | 33,0% |
+| € 122.000 | 22,5% | 23,5% | 24,5% | 26,0% | 27,0% | 28,0% | 29,0% | 30,0% | 31,0% | 31,5% | 32,5% | 33,0% |
+| € 123.000 | 22,5% | 23,5% | 24,5% | 26,0% | 27,0% | 28,0% | 29,0% | 30,0% | 31,0% | 31,5% | 32,5% | 33,0% |
+| € 124.000 | 22,5% | 23,5% | 24,5% | 26,0% | 27,0% | 28,0% | 29,0% | 30,0% | 31,0% | 31,5% | 32,5% | 33,0% |
+| € 125.000 | 22,5% | 23,5% | 25,0% | 26,0% | 27,0% | 28,0% | 29,0% | 30,0% | 31,0% | 31,5% | 32,5% | 33,0% |
 
-| Debetrente | <= 1,500% | 1,501–2,000% | 2,001–2,500% | 2,501–3,000% | 3,001–3,500% | 3,501–4,000% | 4,001–4,500% | 4,501–5,000% | 5,001–5,500% | 5,501–6,000% | 6,001–6,500% | >= 6,501% |
+| toetsrente | <= 1,500% | 1,501–2,000% | 2,001–2,500% | 2,501–3,000% | 3,001–3,500% | 3,501–4,000% | 4,001–4,500% | 4,501–5,000% | 5,001–5,500% | 5,501–6,000% | 6,001–6,500% | >= 6,501% |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| toetsinkomen |   |   |   |   |   |   |   |   |   |   |   |   |
-| – | 18,0% | 18,5% | 19,0% | 19,0% | 19,5% | 19,5% | 20,0% | 20,0% | 20,0% | 20,5% | 20,5% | 20,5% |
-| € 26.000 | 18,0% | 18,5% | 19,0% | 19,0% | 19,5% | 19,5% | 20,0% | 20,0% | 20,0% | 20,5% | 20,5% | 20,5% |
-| € 27.000 | 20,0% | 20,5% | 21,0% | 21,0% | 21,5% | 21,5% | 22,0% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% |
-| € 28.000 | 21,5% | 22,0% | 22,5% | 23,0% | 23,5% | 23,5% | 24,0% | 24,0% | 24,5% | 24,5% | 25,0% | 25,0% |
-| € 29.000 | 23,0% | 23,5% | 24,0% | 24,5% | 25,0% | 25,5% | 25,5% | 26,0% | 26,5% | 26,5% | 26,5% | 27,0% |
-| € 30.000 | 23,0% | 24,0% | 25,0% | 25,5% | 26,5% | 27,0% | 27,5% | 27,5% | 28,0% | 28,5% | 28,5% | 28,5% |
-| € 31.000 | 23,0% | 24,5% | 25,5% | 26,0% | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,5% | 30,0% | 30,0% |
-| € 32.000 | 23,5% | 24,5% | 25,5% | 26,5% | 27,5% | 28,0% | 28,5% | 29,0% | 29,5% | 30,0% | 30,5% | 31,0% |
-| € 33.000 | 23,5% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,0% | 29,5% | 30,0% | 30,5% | 31,0% | 31,5% |
-| € 34.000 | 23,5% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,5% | 30,0% | 30,5% | 31,0% | 31,5% | 32,0% |
-| € 35.000 | 23,5% | 24,5% | 25,5% | 27,0% | 27,5% | 28,5% | 29,5% | 30,5% | 31,0% | 31,5% | 32,0% | 32,5% |
-| € 36.000 | 23,5% | 24,5% | 25,5% | 27,0% | 28,0% | 29,0% | 29,5% | 30,5% | 31,0% | 32,0% | 32,5% | 33,0% |
-| € 37.000 | 23,5% | 24,5% | 26,0% | 27,0% | 28,0% | 29,0% | 29,5% | 30,5% | 31,5% | 32,0% | 32,5% | 33,0% |
-| € 38.000 | 23,5% | 24,5% | 26,0% | 27,0% | 28,0% | 29,0% | 30,0% | 30,5% | 31,5% | 32,0% | 33,0% | 33,5% |
-| € 39.000 | 23,5% | 24,5% | 26,0% | 27,0% | 28,0% | 29,0% | 30,0% | 30,5% | 31,5% | 32,0% | 33,0% | 33,5% |
-| € 40.000 | 23,5% | 24,5% | 26,0% | 27,0% | 28,0% | 29,0% | 30,0% | 30,5% | 31,5% | 32,0% | 33,0% | 33,5% |
-| € 41.000 | 23,5% | 24,5% | 26,0% | 27,0% | 28,0% | 29,0% | 30,0% | 30,5% | 31,5% | 32,0% | 33,0% | 33,5% |
-| € 42.000 | 23,5% | 24,5% | 26,0% | 27,0% | 28,0% | 29,0% | 30,0% | 31,0% | 31,5% | 32,5% | 33,0% | 34,0% |
-| € 43.000 | 24,0% | 25,0% | 26,0% | 27,0% | 28,0% | 29,0% | 30,0% | 31,0% | 32,0% | 32,5% | 33,5% | 34,0% |
-| € 44.000 | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,5% | 30,5% | 31,5% | 32,5% | 33,0% | 34,0% | 34,5% |
-| € 45.000 | 25,0% | 26,0% | 27,0% | 28,0% | 29,0% | 30,0% | 31,0% | 31,5% | 32,5% | 33,5% | 34,0% | 35,0% |
-| € 46.000 | 25,5% | 26,5% | 27,5% | 28,0% | 29,0% | 30,0% | 31,0% | 32,0% | 33,0% | 34,0% | 34,5% | 35,5% |
-| € 47.000 | 26,0% | 27,0% | 28,0% | 28,5% | 29,5% | 30,5% | 31,5% | 32,5% | 33,5% | 34,0% | 35,0% | 35,5% |
-| € 48.000 | 26,0% | 27,5% | 28,0% | 29,0% | 30,0% | 31,0% | 32,0% | 33,0% | 33,5% | 34,5% | 35,5% | 36,0% |
-| € 49.000 | 26,5% | 27,5% | 28,5% | 29,5% | 30,5% | 31,5% | 32,0% | 33,0% | 34,0% | 35,0% | 35,5% | 36,5% |
-| € 50.000 | 26,5% | 28,0% | 29,0% | 30,0% | 31,0% | 32,0% | 32,5% | 33,5% | 34,5% | 35,0% | 36,0% | 37,0% |
-| € 51.000 | 27,0% | 28,5% | 29,5% | 30,5% | 31,5% | 32,0% | 33,0% | 34,0% | 35,0% | 35,5% | 36,5% | 37,0% |
-| € 52.000 | 27,0% | 28,5% | 30,0% | 31,0% | 32,0% | 32,5% | 33,5% | 34,5% | 35,0% | 36,0% | 37,0% | 37,5% |
-| € 53.000 | 27,0% | 28,5% | 30,0% | 31,5% | 32,5% | 33,0% | 34,0% | 35,0% | 35,5% | 36,5% | 37,0% | 38,0% |
-| € 54.000 | 27,0% | 28,5% | 30,0% | 31,5% | 33,0% | 33,5% | 34,5% | 35,5% | 36,0% | 37,0% | 37,5% | 38,5% |
-| € 55.000 | 27,0% | 29,0% | 30,5% | 32,0% | 33,0% | 34,0% | 35,0% | 35,5% | 36,5% | 37,0% | 38,0% | 39,0% |
-| € 56.000 | 27,0% | 29,0% | 30,5% | 32,0% | 33,5% | 34,5% | 35,5% | 36,0% | 37,0% | 37,5% | 38,5% | 39,0% |
-| € 57.000 | 27,0% | 29,0% | 30,5% | 32,5% | 34,0% | 35,0% | 36,0% | 36,5% | 37,5% | 38,0% | 38,5% | 39,5% |
-| € 58.000 | 27,0% | 29,0% | 30,5% | 32,5% | 34,0% | 35,5% | 36,5% | 37,0% | 38,0% | 38,5% | 39,0% | 40,0% |
-| € 59.000 | 27,0% | 29,0% | 30,5% | 32,5% | 34,0% | 35,5% | 36,5% | 37,5% | 38,0% | 39,0% | 39,5% | 40,0% |
-| € 60.000 | 27,0% | 29,0% | 30,5% | 32,5% | 34,0% | 35,5% | 37,0% | 38,0% | 38,5% | 39,5% | 40,0% | 40,5% |
-| € 61.000 | 27,0% | 29,0% | 30,5% | 32,5% | 34,0% | 36,0% | 37,0% | 38,0% | 39,0% | 39,5% | 40,5% | 41,0% |
-| € 62.000 | 27,0% | 29,0% | 30,5% | 32,5% | 34,0% | 36,0% | 37,5% | 38,5% | 39,5% | 40,0% | 40,5% | 41,5% |
-| € 63.000 | 27,0% | 29,0% | 30,5% | 32,5% | 34,0% | 36,0% | 37,5% | 38,5% | 39,5% | 40,5% | 41,0% | 41,5% |
-| € 64.000 | 27,0% | 29,0% | 30,5% | 32,5% | 34,0% | 36,0% | 37,5% | 38,5% | 39,5% | 40,5% | 41,5% | 42,0% |
-| € 65.000 | 27,0% | 29,0% | 30,5% | 32,5% | 34,0% | 36,0% | 37,5% | 38,5% | 39,5% | 41,0% | 41,5% | 42,5% |
-| € 66.000 | 27,0% | 29,0% | 30,5% | 32,5% | 34,0% | 36,0% | 37,5% | 38,5% | 39,5% | 41,0% | 42,0% | 42,5% |
-| € 67.000 | 27,0% | 29,0% | 30,5% | 32,5% | 34,0% | 36,0% | 37,5% | 38,5% | 39,5% | 41,0% | 42,0% | 43,0% |
-| € 68.000 | 27,5% | 29,0% | 30,5% | 32,5% | 34,0% | 36,0% | 37,5% | 38,5% | 39,5% | 41,0% | 42,0% | 43,0% |
-| € 69.000 | 27,5% | 29,0% | 30,5% | 32,5% | 34,0% | 36,0% | 37,5% | 38,5% | 39,5% | 41,0% | 42,0% | 43,0% |
-| € 70.000 | 27,5% | 29,0% | 30,5% | 32,5% | 34,0% | 36,0% | 37,5% | 38,5% | 39,5% | 41,0% | 42,0% | 43,0% |
-| € 71.000 | 28,0% | 29,5% | 31,0% | 32,5% | 34,0% | 36,0% | 37,5% | 38,5% | 39,5% | 41,0% | 42,0% | 43,0% |
-| € 72.000 | 28,0% | 29,5% | 31,0% | 32,5% | 34,0% | 36,0% | 37,5% | 38,5% | 39,5% | 41,0% | 42,0% | 43,0% |
-| € 73.000 | 28,0% | 29,5% | 31,0% | 32,5% | 34,0% | 36,0% | 37,5% | 38,5% | 39,5% | 41,0% | 42,0% | 43,0% |
-| € 74.000 | 28,5% | 30,0% | 31,5% | 33,0% | 34,0% | 36,0% | 37,5% | 38,5% | 39,5% | 41,0% | 42,0% | 43,0% |
-| € 75.000 | 28,5% | 30,0% | 31,5% | 33,0% | 34,5% | 36,0% | 37,5% | 38,5% | 39,5% | 41,0% | 42,0% | 43,0% |
-| € 76.000 | 28,5% | 30,0% | 31,5% | 33,0% | 34,5% | 36,0% | 37,5% | 38,5% | 39,5% | 41,0% | 42,0% | 43,0% |
-| € 77.000 | 28,5% | 30,0% | 31,5% | 33,0% | 34,5% | 36,0% | 37,5% | 38,5% | 39,5% | 41,0% | 42,0% | 43,0% |
-| € 78.000 | 28,5% | 30,0% | 31,5% | 33,0% | 34,5% | 36,0% | 37,5% | 38,5% | 39,5% | 41,0% | 42,0% | 43,0% |
-| € 79.000 | 28,5% | 30,0% | 31,5% | 33,0% | 34,5% | 36,0% | 37,5% | 38,5% | 39,5% | 41,0% | 42,0% | 43,0% |
-| € 80.000 | 28,5% | 30,0% | 31,5% | 33,0% | 34,5% | 36,0% | 37,5% | 38,5% | 39,5% | 41,0% | 42,0% | 43,0% |
-| € 81.000 | 28,5% | 30,0% | 31,5% | 33,0% | 34,5% | 36,0% | 37,5% | 38,5% | 39,5% | 41,0% | 42,0% | 43,0% |
-| € 82.000 | 28,5% | 30,0% | 31,5% | 33,0% | 34,5% | 36,0% | 37,5% | 38,5% | 39,5% | 41,0% | 42,0% | 43,0% |
-| € 83.000 | 28,5% | 30,0% | 31,5% | 33,0% | 34,5% | 36,0% | 37,5% | 38,5% | 39,5% | 41,0% | 42,0% | 43,0% |
-| € 84.000 | 28,5% | 30,0% | 31,5% | 33,0% | 34,5% | 36,0% | 37,5% | 38,5% | 39,5% | 41,0% | 42,0% | 43,0% |
-| € 85.000 | 28,5% | 30,0% | 31,5% | 33,0% | 34,5% | 36,0% | 37,5% | 38,5% | 39,5% | 41,0% | 42,0% | 43,0% |
-| € 86.000 | 28,5% | 30,0% | 31,5% | 33,0% | 34,5% | 36,0% | 37,5% | 38,5% | 39,5% | 41,0% | 42,0% | 43,0% |
-| € 87.000 | 28,5% | 30,0% | 31,5% | 33,0% | 34,5% | 36,0% | 37,5% | 38,5% | 39,5% | 41,0% | 42,0% | 43,0% |
-| € 88.000 | 28,5% | 30,0% | 31,5% | 33,0% | 34,5% | 36,0% | 37,5% | 38,5% | 39,5% | 41,0% | 42,0% | 43,0% |
-| € 89.000 | 28,5% | 30,0% | 31,5% | 33,0% | 34,5% | 36,0% | 37,5% | 38,5% | 39,5% | 41,0% | 42,0% | 43,0% |
-| € 90.000 | 28,5% | 30,0% | 31,5% | 33,0% | 34,5% | 36,0% | 37,5% | 38,5% | 39,5% | 41,0% | 42,0% | 43,0% |
-| € 91.000 | 28,5% | 30,0% | 31,5% | 33,0% | 34,5% | 36,0% | 37,5% | 38,5% | 39,5% | 41,0% | 42,0% | 43,0% |
-| € 92.000 | 28,5% | 30,0% | 31,5% | 33,0% | 34,5% | 36,0% | 37,5% | 38,5% | 39,5% | 41,0% | 42,0% | 43,0% |
-| € 93.000 | 28,5% | 30,0% | 31,5% | 33,0% | 34,5% | 36,0% | 37,5% | 38,5% | 39,5% | 41,0% | 42,0% | 43,0% |
-| € 94.000 | 28,5% | 30,0% | 31,5% | 33,0% | 34,5% | 36,0% | 37,5% | 38,5% | 39,5% | 41,0% | 42,0% | 43,0% |
-| € 95.000 | 28,5% | 30,0% | 31,5% | 33,0% | 34,5% | 36,0% | 37,5% | 38,5% | 39,5% | 41,0% | 42,0% | 43,0% |
-| € 96.000 | 28,5% | 30,0% | 31,5% | 33,0% | 34,5% | 36,0% | 37,5% | 38,5% | 39,5% | 41,0% | 42,0% | 43,0% |
-| € 97.000 | 28,5% | 30,0% | 31,5% | 33,0% | 34,5% | 36,0% | 37,5% | 38,5% | 39,5% | 41,0% | 42,0% | 43,0% |
-| € 98.000 | 28,5% | 30,0% | 31,5% | 33,0% | 34,5% | 36,0% | 37,5% | 38,5% | 39,5% | 41,0% | 42,0% | 43,0% |
-| € 99.000 | 28,5% | 30,0% | 31,5% | 33,0% | 34,5% | 36,0% | 37,5% | 38,5% | 39,5% | 41,0% | 42,0% | 43,0% |
-| € 100.000 | 28,5% | 30,0% | 31,5% | 33,0% | 34,5% | 36,0% | 37,5% | 38,5% | 39,5% | 41,0% | 42,0% | 43,0% |
-| € 101.000 | 28,5% | 30,0% | 31,5% | 33,0% | 34,5% | 36,0% | 37,5% | 38,5% | 39,5% | 41,0% | 42,0% | 43,0% |
-| € 102.000 | 28,5% | 30,0% | 31,5% | 33,0% | 34,5% | 36,0% | 37,5% | 38,5% | 39,5% | 41,0% | 42,0% | 43,0% |
-| € 103.000 | 28,5% | 30,0% | 31,5% | 33,0% | 34,5% | 36,0% | 37,5% | 38,5% | 39,5% | 41,0% | 42,0% | 43,0% |
-| € 104.000 | 28,5% | 30,0% | 31,5% | 33,0% | 34,5% | 36,0% | 37,5% | 38,5% | 39,5% | 41,0% | 42,0% | 43,0% |
-| € 105.000 | 28,5% | 30,0% | 31,5% | 33,0% | 34,5% | 36,0% | 37,5% | 38,5% | 39,5% | 41,0% | 42,0% | 43,0% |
-| € 106.000 | 28,5% | 30,0% | 31,5% | 33,0% | 34,5% | 36,0% | 37,5% | 38,5% | 39,5% | 41,0% | 42,0% | 43,0% |
-| € 107.000 | 28,5% | 30,0% | 31,5% | 33,0% | 34,5% | 36,0% | 37,5% | 38,5% | 39,5% | 41,0% | 42,0% | 43,0% |
-| € 108.000 | 28,5% | 30,0% | 31,5% | 33,0% | 34,5% | 36,0% | 37,5% | 38,5% | 39,5% | 41,0% | 42,0% | 43,0% |
-| € 109.000 | 28,5% | 30,0% | 31,5% | 33,0% | 34,5% | 36,0% | 37,5% | 38,5% | 39,5% | 41,0% | 42,0% | 43,0% |
-| € 110.000 | 28,5% | 30,0% | 31,5% | 33,0% | 34,5% | 36,0% | 37,5% | 38,5% | 39,5% | 41,0% | 42,0% | 43,0% |
+| toets- inkomen |   |   |   |   |   |   |   |   |   |   |   |   |
+| - | 17,5% | 17,5% | 18,0% | 18,0% | 18,5% | 18,5% | 19,0% | 19,0% | 19,5% | 19,5% | 19,5% | 20,0% |
+| € 28.000 | 17,5% | 17,5% | 18,0% | 18,0% | 18,5% | 18,5% | 19,0% | 19,0% | 19,5% | 19,5% | 19,5% | 20,0% |
+| € 29.000 | 19,0% | 19,5% | 20,0% | 20,0% | 20,5% | 20,5% | 21,0% | 21,0% | 21,5% | 21,5% | 21,5% | 22,0% |
+| € 30.000 | 20,5% | 21,0% | 21,5% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 23,5% | 24,0% |
+| € 31.000 | 21,5% | 22,5% | 23,0% | 23,5% | 24,0% | 24,5% | 24,5% | 25,0% | 25,0% | 25,5% | 25,5% | 25,5% |
+| € 32.000 | 22,0% | 22,5% | 23,5% | 24,5% | 25,0% | 26,0% | 26,5% | 26,5% | 26,5% | 27,0% | 27,5% | 27,5% |
+| € 33.000 | 22,0% | 23,0% | 24,0% | 24,5% | 25,5% | 26,5% | 27,0% | 27,5% | 28,0% | 28,0% | 28,5% | 29,0% |
+| € 34.000 | 22,0% | 23,0% | 24,0% | 25,0% | 26,0% | 26,5% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% |
+| € 35.000 | 22,0% | 23,0% | 24,5% | 25,0% | 26,0% | 27,0% | 27,5% | 28,5% | 29,0% | 29,5% | 30,0% | 30,0% |
+| € 36.000 | 22,0% | 23,5% | 24,5% | 25,5% | 26,5% | 27,0% | 28,0% | 28,5% | 29,0% | 30,0% | 30,5% | 30,5% |
+| € 37.000 | 22,5% | 23,5% | 24,5% | 25,5% | 26,5% | 27,5% | 28,0% | 29,0% | 29,5% | 30,0% | 30,5% | 31,0% |
+| € 38.000 | 22,5% | 23,5% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,0% | 29,5% | 30,5% | 31,0% | 31,5% |
+| € 39.000 | 22,5% | 23,5% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,0% | 30,0% | 30,5% | 31,0% | 31,5% |
+| € 40.000 | 22,5% | 23,5% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,5% | 30,0% | 30,5% | 31,5% | 32,0% |
+| € 41.000 | 22,5% | 23,5% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,5% | 30,0% | 31,0% | 31,5% | 32,0% |
+| € 42.000 | 22,5% | 23,5% | 25,0% | 26,0% | 27,0% | 28,0% | 28,5% | 29,5% | 30,5% | 31,0% | 31,5% | 32,5% |
+| € 43.000 | 23,0% | 24,0% | 25,0% | 26,0% | 27,0% | 28,0% | 29,0% | 30,0% | 30,5% | 31,5% | 32,0% | 32,5% |
+| € 44.000 | 23,5% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,5% | 30,0% | 31,0% | 31,5% | 32,5% | 33,0% |
+| € 45.000 | 23,5% | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,5% | 30,5% | 31,0% | 32,0% | 32,5% | 33,5% |
+| € 46.000 | 24,0% | 25,0% | 26,0% | 27,0% | 28,0% | 29,0% | 30,0% | 30,5% | 31,5% | 32,0% | 33,0% | 33,5% |
+| € 47.000 | 24,5% | 25,5% | 26,5% | 27,0% | 28,0% | 29,0% | 30,0% | 31,0% | 31,5% | 32,5% | 33,5% | 34,0% |
+| € 48.000 | 24,5% | 25,5% | 26,5% | 27,5% | 28,5% | 29,5% | 30,5% | 31,0% | 32,0% | 33,0% | 33,5% | 34,5% |
+| € 49.000 | 25,0% | 26,0% | 27,0% | 28,0% | 29,0% | 29,5% | 30,5% | 31,5% | 32,5% | 33,0% | 34,0% | 34,5% |
+| € 50.000 | 25,0% | 26,5% | 27,5% | 28,5% | 29,5% | 30,0% | 31,0% | 32,0% | 32,5% | 33,5% | 34,0% | 35,0% |
+| € 51.000 | 25,5% | 26,5% | 28,0% | 28,5% | 29,5% | 30,5% | 31,5% | 32,0% | 33,0% | 34,0% | 34,5% | 35,5% |
+| € 52.000 | 25,5% | 27,0% | 28,0% | 29,0% | 30,0% | 31,0% | 32,0% | 32,5% | 33,5% | 34,0% | 35,0% | 35,5% |
+| € 53.000 | 25,5% | 27,0% | 28,5% | 29,5% | 30,5% | 31,5% | 32,0% | 33,0% | 34,0% | 34,5% | 35,5% | 36,0% |
+| € 54.000 | 25,5% | 27,5% | 28,5% | 30,0% | 31,0% | 32,0% | 32,5% | 33,5% | 34,0% | 35,0% | 35,5% | 36,5% |
+| € 55.000 | 25,5% | 27,5% | 29,0% | 30,0% | 31,5% | 32,0% | 33,0% | 34,0% | 34,5% | 35,5% | 36,0% | 37,0% |
+| € 56.000 | 25,5% | 27,5% | 29,0% | 30,5% | 31,5% | 32,5% | 33,5% | 34,5% | 35,0% | 36,0% | 36,5% | 37,5% |
+| € 57.000 | 26,0% | 27,5% | 29,0% | 30,5% | 32,0% | 33,0% | 34,0% | 34,5% | 35,5% | 36,0% | 37,0% | 37,5% |
+| € 58.000 | 26,0% | 27,5% | 29,5% | 31,0% | 32,5% | 33,5% | 34,5% | 35,0% | 36,0% | 36,5% | 37,5% | 38,0% |
+| € 59.000 | 26,0% | 27,5% | 29,5% | 31,0% | 32,5% | 34,0% | 35,0% | 35,5% | 36,5% | 37,0% | 37,5% | 38,5% |
+| € 60.000 | 26,0% | 27,5% | 29,5% | 31,0% | 32,5% | 34,0% | 35,0% | 36,0% | 37,0% | 37,5% | 38,0% | 39,0% |
+| € 61.000 | 26,0% | 27,5% | 29,5% | 31,0% | 33,0% | 34,5% | 35,5% | 36,5% | 37,0% | 38,0% | 38,5% | 39,0% |
+| € 62.000 | 26,0% | 27,5% | 29,5% | 31,0% | 33,0% | 34,5% | 35,5% | 36,5% | 37,5% | 38,0% | 39,0% | 39,5% |
+| € 63.000 | 26,0% | 27,5% | 29,5% | 31,0% | 33,0% | 34,5% | 36,0% | 37,0% | 38,0% | 38,5% | 39,5% | 40,0% |
+| € 64.000 | 26,0% | 27,5% | 29,5% | 31,0% | 33,0% | 34,5% | 36,0% | 37,0% | 38,0% | 39,0% | 39,5% | 40,5% |
+| € 65.000 | 26,0% | 27,5% | 29,5% | 31,0% | 33,0% | 34,5% | 36,0% | 37,5% | 38,5% | 39,5% | 40,0% | 40,5% |
+| € 66.000 | 26,0% | 27,5% | 29,5% | 31,0% | 33,0% | 34,5% | 36,0% | 37,5% | 38,5% | 39,5% | 40,5% | 41,0% |
+| € 67.000 | 26,0% | 27,5% | 29,5% | 31,0% | 33,0% | 34,5% | 36,0% | 37,5% | 38,5% | 39,5% | 40,5% | 41,5% |
+| € 68.000 | 26,0% | 28,0% | 29,5% | 31,0% | 33,0% | 34,5% | 36,0% | 37,5% | 38,5% | 39,5% | 40,5% | 41,5% |
+| € 69.000 | 26,5% | 28,0% | 29,5% | 31,0% | 33,0% | 34,5% | 36,0% | 37,5% | 38,5% | 39,5% | 40,5% | 41,5% |
+| € 70.000 | 26,5% | 28,0% | 29,5% | 31,0% | 33,0% | 34,5% | 36,0% | 37,5% | 38,5% | 39,5% | 40,5% | 41,5% |
+| € 71.000 | 26,5% | 28,0% | 29,5% | 31,0% | 33,0% | 34,5% | 36,0% | 37,5% | 38,5% | 39,5% | 40,5% | 41,5% |
+| € 72.000 | 27,0% | 28,5% | 30,0% | 31,5% | 33,0% | 34,5% | 36,0% | 37,5% | 38,5% | 39,5% | 40,5% | 41,5% |
+| € 73.000 | 27,0% | 28,5% | 30,0% | 31,5% | 33,0% | 34,5% | 36,5% | 37,5% | 38,5% | 39,5% | 40,5% | 41,5% |
+| € 74.000 | 27,0% | 28,5% | 30,0% | 31,5% | 33,0% | 34,5% | 36,5% | 37,5% | 38,5% | 39,5% | 40,5% | 41,5% |
+| € 75.000 | 27,0% | 28,5% | 30,0% | 31,5% | 33,0% | 34,5% | 36,5% | 37,5% | 38,5% | 39,5% | 40,5% | 41,5% |
+| € 76.000 | 27,5% | 29,0% | 30,5% | 32,0% | 33,0% | 34,5% | 36,5% | 37,5% | 38,5% | 39,5% | 40,5% | 41,5% |
+| € 77.000 | 27,5% | 29,0% | 30,5% | 32,0% | 33,5% | 35,0% | 36,5% | 37,5% | 38,5% | 39,5% | 40,5% | 41,5% |
+| € 78.000 | 27,5% | 29,0% | 30,5% | 32,0% | 33,5% | 35,0% | 36,5% | 37,5% | 38,5% | 39,5% | 40,5% | 41,5% |
+| € 79.000 | 27,5% | 29,0% | 30,5% | 32,0% | 33,5% | 35,0% | 36,5% | 37,5% | 38,5% | 39,5% | 40,5% | 41,5% |
+| € 80.000 | 28,0% | 29,5% | 31,0% | 32,0% | 33,5% | 35,0% | 36,5% | 37,5% | 38,5% | 39,5% | 40,5% | 41,5% |
+| € 81.000 | 28,0% | 29,5% | 31,0% | 32,5% | 33,5% | 35,0% | 36,5% | 37,5% | 38,5% | 39,5% | 40,5% | 41,5% |
+| € 82.000 | 28,0% | 29,5% | 31,0% | 32,5% | 33,5% | 35,0% | 36,5% | 37,5% | 38,5% | 39,5% | 40,5% | 41,5% |
+| € 83.000 | 28,0% | 29,5% | 31,0% | 32,5% | 33,5% | 35,0% | 36,5% | 37,5% | 38,5% | 39,5% | 40,5% | 41,5% |
+| € 84.000 | 28,0% | 29,5% | 31,0% | 32,5% | 33,5% | 35,0% | 36,5% | 37,5% | 38,5% | 39,5% | 40,5% | 41,5% |
+| € 85.000 | 28,0% | 29,5% | 31,0% | 32,5% | 33,5% | 35,0% | 36,5% | 37,5% | 38,5% | 39,5% | 40,5% | 41,5% |
+| € 86.000 | 28,0% | 29,5% | 31,0% | 32,5% | 33,5% | 35,0% | 36,5% | 37,5% | 38,5% | 39,5% | 40,5% | 41,5% |
+| € 87.000 | 28,0% | 29,5% | 31,0% | 32,5% | 33,5% | 35,0% | 36,5% | 37,5% | 38,5% | 39,5% | 40,5% | 41,5% |
+| € 88.000 | 28,0% | 29,5% | 31,0% | 32,5% | 33,5% | 35,0% | 36,5% | 37,5% | 38,5% | 39,5% | 40,5% | 41,5% |
+| € 89.000 | 28,0% | 29,5% | 31,0% | 32,5% | 33,5% | 35,0% | 36,5% | 37,5% | 38,5% | 39,5% | 40,5% | 41,5% |
+| € 90.000 | 28,0% | 29,5% | 31,0% | 32,5% | 33,5% | 35,0% | 36,5% | 37,5% | 38,5% | 39,5% | 40,5% | 41,5% |
+| € 91.000 | 28,0% | 29,5% | 31,0% | 32,5% | 33,5% | 35,0% | 36,5% | 37,5% | 38,5% | 39,5% | 40,5% | 41,5% |
+| € 92.000 | 28,0% | 29,5% | 31,0% | 32,5% | 33,5% | 35,0% | 36,5% | 37,5% | 38,5% | 39,5% | 40,5% | 41,5% |
+| € 93.000 | 28,0% | 29,5% | 31,0% | 32,5% | 33,5% | 35,0% | 36,5% | 37,5% | 38,5% | 39,5% | 40,5% | 41,5% |
+| € 94.000 | 28,0% | 29,5% | 31,0% | 32,5% | 33,5% | 35,0% | 36,5% | 37,5% | 38,5% | 39,5% | 40,5% | 41,5% |
+| € 95.000 | 28,0% | 29,5% | 31,0% | 32,5% | 33,5% | 35,0% | 36,5% | 37,5% | 38,5% | 39,5% | 40,5% | 41,5% |
+| € 96.000 | 28,0% | 29,5% | 31,0% | 32,5% | 33,5% | 35,0% | 36,5% | 37,5% | 38,5% | 39,5% | 40,5% | 41,5% |
+| € 97.000 | 28,0% | 29,5% | 31,0% | 32,5% | 33,5% | 35,0% | 36,5% | 37,5% | 38,5% | 39,5% | 40,5% | 41,5% |
+| € 98.000 | 28,0% | 29,5% | 31,0% | 32,5% | 33,5% | 35,0% | 36,5% | 37,5% | 38,5% | 39,5% | 40,5% | 41,5% |
+| € 99.000 | 28,0% | 29,5% | 31,0% | 32,5% | 33,5% | 35,0% | 36,5% | 37,5% | 38,5% | 39,5% | 40,5% | 41,5% |
+| € 100.000 | 28,0% | 29,5% | 31,0% | 32,5% | 33,5% | 35,0% | 36,5% | 37,5% | 38,5% | 39,5% | 40,5% | 41,5% |
+| € 101.000 | 28,0% | 29,5% | 31,0% | 32,5% | 33,5% | 35,0% | 36,5% | 37,5% | 38,5% | 39,5% | 40,5% | 41,5% |
+| € 102.000 | 28,0% | 29,5% | 31,0% | 32,5% | 33,5% | 35,0% | 36,5% | 37,5% | 38,5% | 39,5% | 40,5% | 41,5% |
+| € 103.000 | 28,0% | 29,5% | 31,0% | 32,5% | 33,5% | 35,0% | 36,5% | 37,5% | 38,5% | 39,5% | 40,5% | 41,5% |
+| € 104.000 | 28,0% | 29,5% | 31,0% | 32,5% | 33,5% | 35,0% | 36,5% | 37,5% | 38,5% | 39,5% | 40,5% | 41,5% |
+| € 105.000 | 28,0% | 29,5% | 31,0% | 32,5% | 33,5% | 35,0% | 36,5% | 37,5% | 38,5% | 39,5% | 40,5% | 41,5% |
+| € 106.000 | 28,0% | 29,5% | 31,0% | 32,5% | 33,5% | 35,0% | 36,5% | 37,5% | 38,5% | 39,5% | 40,5% | 41,5% |
+| € 107.000 | 28,0% | 29,5% | 31,0% | 32,5% | 33,5% | 35,0% | 36,5% | 37,5% | 38,5% | 39,5% | 40,5% | 41,5% |
+| € 108.000 | 28,0% | 29,5% | 31,0% | 32,5% | 33,5% | 35,0% | 36,5% | 37,5% | 38,5% | 39,5% | 40,5% | 41,5% |
+| € 109.000 | 28,0% | 29,5% | 31,0% | 32,5% | 33,5% | 35,0% | 36,5% | 37,5% | 38,5% | 39,5% | 40,5% | 41,5% |
+| € 110.000 | 28,0% | 29,5% | 31,0% | 32,5% | 33,5% | 35,0% | 36,5% | 37,5% | 38,5% | 39,5% | 40,5% | 41,5% |
 
-| Debetrente | <= 1,500% | 1,501–2,000% | 2,001–2,500% | 2,501–3,000% | 3,001–3,500% | 3,501–4,000% | 4,001–4,500% | 4,501–5,000% | 5,001–5,500% | 5,501–6,000% | 6,001–6,500% | >= 6,501% |
+| toetsrente | <=1,500% | 1,501–2,000% | 2,001–2,500% | 2,501–3,000% | 3,001–3,500% | 3,501–4,000% | 4,001–4,500% | 4,501–5,000% | 5,001–5,500% | 5,501–6,000% | 6,001–6,500% | >= 6,501% |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| toetsinkomen |   |   |   |   |   |   |   |   |   |   |   |   |
-| – | 14,5% | 14,5% | 14,5% | 15,0% | 15,0% | 15,5% | 15,5% | 15,5% | 16,0% | 16,0% | 16,0% | 16,5% |
-| € 26.000 | 14,5% | 14,5% | 14,5% | 15,0% | 15,0% | 15,5% | 15,5% | 15,5% | 16,0% | 16,0% | 16,0% | 16,5% |
-| € 27.000 | 15,0% | 15,0% | 15,5% | 15,5% | 16,0% | 16,0% | 16,5% | 16,5% | 16,5% | 17,0% | 17,0% | 17,0% |
-| € 28.000 | 15,5% | 16,0% | 16,0% | 16,5% | 16,5% | 16,5% | 17,0% | 17,0% | 17,5% | 17,5% | 17,5% | 17,5% |
-| € 29.000 | 16,0% | 16,5% | 16,5% | 17,0% | 17,0% | 17,5% | 17,5% | 17,5% | 18,0% | 18,0% | 18,0% | 18,5% |
-| € 30.000 | 16,5% | 17,0% | 17,0% | 17,5% | 17,5% | 18,0% | 18,0% | 18,0% | 18,5% | 18,5% | 18,5% | 19,0% |
-| € 31.000 | 17,0% | 17,5% | 17,5% | 18,0% | 18,0% | 18,5% | 18,5% | 18,5% | 19,0% | 19,0% | 19,0% | 19,5% |
-| € 32.000 | 17,0% | 17,5% | 17,5% | 18,0% | 18,0% | 18,5% | 18,5% | 19,0% | 19,0% | 19,0% | 19,5% | 19,5% |
-| € 33.000 | 17,0% | 17,5% | 18,0% | 18,0% | 18,5% | 18,5% | 18,5% | 19,0% | 19,0% | 19,5% | 19,5% | 19,5% |
-| € 34.000 | 17,0% | 17,5% | 18,0% | 18,0% | 18,5% | 18,5% | 18,5% | 19,0% | 19,0% | 19,5% | 19,5% | 19,5% |
-| € 35.000 | 17,0% | 17,5% | 18,0% | 18,0% | 18,5% | 18,5% | 19,0% | 19,0% | 19,0% | 19,5% | 19,5% | 19,5% |
-| € 36.000 | 17,0% | 17,5% | 18,0% | 18,0% | 18,5% | 18,5% | 19,0% | 19,0% | 19,0% | 19,5% | 19,5% | 19,5% |
-| € 37.000 | 17,0% | 17,5% | 18,0% | 18,0% | 18,5% | 18,5% | 19,0% | 19,0% | 19,0% | 19,5% | 19,5% | 19,5% |
-| € 38.000 | 17,0% | 17,5% | 18,0% | 18,0% | 18,5% | 18,5% | 19,0% | 19,0% | 19,0% | 19,5% | 19,5% | 19,5% |
-| € 39.000 | 17,0% | 17,5% | 18,0% | 18,0% | 18,5% | 18,5% | 19,0% | 19,0% | 19,0% | 19,5% | 19,5% | 19,5% |
-| € 40.000 | 17,0% | 17,5% | 18,0% | 18,0% | 18,5% | 18,5% | 19,0% | 19,0% | 19,0% | 19,5% | 19,5% | 19,5% |
-| € 41.000 | 17,0% | 17,5% | 18,0% | 18,0% | 18,5% | 18,5% | 19,0% | 19,0% | 19,0% | 19,5% | 19,5% | 19,5% |
-| € 42.000 | 17,0% | 17,5% | 18,0% | 18,0% | 18,5% | 18,5% | 19,0% | 19,0% | 19,0% | 19,5% | 19,5% | 19,5% |
-| € 43.000 | 17,0% | 17,5% | 18,0% | 18,0% | 18,5% | 18,5% | 19,0% | 19,0% | 19,0% | 19,5% | 19,5% | 19,5% |
-| € 44.000 | 17,0% | 17,5% | 18,0% | 18,0% | 18,5% | 18,5% | 19,0% | 19,0% | 19,0% | 19,5% | 19,5% | 19,5% |
-| € 45.000 | 17,0% | 17,5% | 18,0% | 18,0% | 18,5% | 18,5% | 19,0% | 19,0% | 19,0% | 19,5% | 19,5% | 19,5% |
-| € 46.000 | 17,0% | 17,5% | 18,0% | 18,0% | 18,5% | 18,5% | 19,0% | 19,0% | 19,0% | 19,5% | 19,5% | 19,5% |
-| € 47.000 | 17,0% | 17,5% | 18,0% | 18,0% | 18,5% | 18,5% | 19,0% | 19,0% | 19,0% | 19,5% | 19,5% | 19,5% |
-| € 48.000 | 17,0% | 17,5% | 18,0% | 18,0% | 18,5% | 18,5% | 19,0% | 19,0% | 19,0% | 19,5% | 19,5% | 19,5% |
-| € 49.000 | 17,0% | 17,5% | 18,0% | 18,0% | 18,5% | 18,5% | 19,0% | 19,0% | 19,0% | 19,5% | 19,5% | 19,5% |
-| € 50.000 | 17,0% | 17,5% | 18,0% | 18,0% | 18,5% | 18,5% | 19,0% | 19,0% | 19,0% | 19,5% | 19,5% | 19,5% |
-| € 51.000 | 17,0% | 17,5% | 18,0% | 18,0% | 18,5% | 18,5% | 19,0% | 19,0% | 19,0% | 19,5% | 19,5% | 19,5% |
-| € 52.000 | 17,0% | 17,5% | 18,0% | 18,0% | 18,5% | 18,5% | 19,0% | 19,0% | 19,0% | 19,5% | 19,5% | 19,5% |
-| € 53.000 | 17,0% | 17,5% | 18,0% | 18,0% | 18,5% | 18,5% | 19,0% | 19,0% | 19,0% | 19,5% | 19,5% | 19,5% |
-| € 54.000 | 17,0% | 17,5% | 18,0% | 18,0% | 18,5% | 18,5% | 19,0% | 19,0% | 19,0% | 19,5% | 19,5% | 19,5% |
-| € 55.000 | 17,5% | 17,5% | 18,0% | 18,0% | 18,5% | 18,5% | 19,0% | 19,0% | 19,5% | 19,5% | 19,5% | 20,0% |
-| € 56.000 | 17,5% | 18,0% | 18,0% | 18,5% | 18,5% | 19,0% | 19,0% | 19,5% | 19,5% | 19,5% | 20,0% | 20,0% |
-| € 57.000 | 17,5% | 18,0% | 18,5% | 18,5% | 19,0% | 19,0% | 19,5% | 19,5% | 20,0% | 20,0% | 20,0% | 20,5% |
-| € 58.000 | 18,0% | 18,0% | 18,5% | 19,0% | 19,0% | 19,5% | 19,5% | 20,0% | 20,0% | 20,0% | 20,5% | 20,5% |
-| € 59.000 | 18,0% | 18,5% | 18,5% | 19,0% | 19,0% | 19,5% | 19,5% | 20,0% | 20,0% | 20,5% | 20,5% | 20,5% |
-| € 60.000 | 18,0% | 18,5% | 19,0% | 19,0% | 19,5% | 19,5% | 20,0% | 20,0% | 20,5% | 20,5% | 20,5% | 21,0% |
-| € 61.000 | 18,5% | 18,5% | 19,0% | 19,5% | 19,5% | 20,0% | 20,0% | 20,5% | 20,5% | 20,5% | 21,0% | 21,0% |
-| € 62.000 | 18,5% | 19,0% | 19,0% | 19,5% | 19,5% | 20,0% | 20,0% | 20,5% | 20,5% | 21,0% | 21,0% | 21,0% |
-| € 63.000 | 18,5% | 19,0% | 19,5% | 19,5% | 20,0% | 20,0% | 20,5% | 20,5% | 21,0% | 21,0% | 21,0% | 21,5% |
-| € 64.000 | 19,0% | 19,0% | 19,5% | 19,5% | 20,0% | 20,5% | 20,5% | 21,0% | 21,0% | 21,0% | 21,5% | 21,5% |
-| € 65.000 | 19,0% | 19,5% | 19,5% | 20,0% | 20,0% | 20,5% | 20,5% | 21,0% | 21,0% | 21,5% | 21,5% | 21,5% |
-| € 66.000 | 19,0% | 19,5% | 19,5% | 20,0% | 20,5% | 20,5% | 21,0% | 21,0% | 21,5% | 21,5% | 21,5% | 22,0% |
-| € 67.000 | 19,0% | 19,5% | 20,0% | 20,0% | 20,5% | 20,5% | 21,0% | 21,0% | 21,5% | 21,5% | 22,0% | 22,0% |
-| € 68.000 | 19,5% | 19,5% | 20,0% | 20,5% | 20,5% | 21,0% | 21,0% | 21,5% | 21,5% | 22,0% | 22,0% | 22,0% |
-| € 69.000 | 19,5% | 20,0% | 20,0% | 20,5% | 20,5% | 21,0% | 21,5% | 21,5% | 21,5% | 22,0% | 22,0% | 22,5% |
-| € 70.000 | 19,5% | 20,0% | 20,5% | 20,5% | 21,0% | 21,0% | 21,5% | 21,5% | 22,0% | 22,0% | 22,5% | 22,5% |
-| € 71.000 | 19,5% | 20,0% | 20,5% | 20,5% | 21,0% | 21,5% | 21,5% | 22,0% | 22,0% | 22,0% | 22,5% | 22,5% |
-| € 72.000 | 20,0% | 20,0% | 20,5% | 21,0% | 21,0% | 21,5% | 21,5% | 22,0% | 22,0% | 22,5% | 22,5% | 22,5% |
-| € 73.000 | 20,0% | 20,5% | 20,5% | 21,0% | 21,5% | 21,5% | 22,0% | 22,0% | 22,5% | 22,5% | 22,5% | 23,0% |
-| € 74.000 | 20,0% | 20,5% | 20,5% | 21,0% | 21,5% | 21,5% | 22,0% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% |
-| € 75.000 | 20,0% | 20,5% | 21,0% | 21,0% | 21,5% | 21,5% | 22,0% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% |
-| € 76.000 | 20,0% | 20,5% | 21,0% | 21,0% | 21,5% | 22,0% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,0% |
-| € 77.000 | 20,0% | 20,5% | 21,0% | 21,5% | 21,5% | 22,0% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,0% |
-| € 78.000 | 20,5% | 20,5% | 21,0% | 21,5% | 21,5% | 22,0% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,5% |
-| € 79.000 | 20,5% | 20,5% | 21,0% | 21,5% | 21,5% | 22,0% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,5% |
-| € 80.000 | 20,5% | 21,0% | 21,0% | 21,5% | 21,5% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,0% | 23,5% |
-| € 81.000 | 20,5% | 21,0% | 21,0% | 21,5% | 22,0% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% |
-| € 82.000 | 20,5% | 21,0% | 21,0% | 21,5% | 22,0% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% |
-| € 83.000 | 20,5% | 21,0% | 21,5% | 21,5% | 22,0% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% |
-| € 84.000 | 20,5% | 21,0% | 21,5% | 21,5% | 22,0% | 22,0% | 22,5% | 23,0% | 23,0% | 23,0% | 23,5% | 23,5% |
-| € 85.000 | 20,5% | 21,0% | 21,5% | 21,5% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 23,5% |
-| € 86.000 | 20,5% | 21,0% | 21,5% | 22,0% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 23,5% |
-| € 87.000 | 21,0% | 21,0% | 21,5% | 22,0% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 24,0% |
-| € 88.000 | 21,0% | 21,0% | 21,5% | 22,0% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 24,0% |
-| € 89.000 | 21,0% | 21,0% | 21,5% | 22,0% | 22,0% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 23,5% | 24,0% |
-| € 90.000 | 21,0% | 21,5% | 21,5% | 22,0% | 22,0% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 23,5% | 24,0% |
-| € 91.000 | 21,0% | 21,5% | 21,5% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 24,0% | 24,0% |
-| € 92.000 | 21,0% | 21,5% | 21,5% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 24,0% | 24,0% |
-| € 93.000 | 21,0% | 21,5% | 21,5% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 24,0% | 24,0% |
-| € 94.000 | 21,0% | 21,5% | 22,0% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 24,0% | 24,0% |
-| € 95.000 | 21,0% | 21,5% | 22,0% | 22,0% | 22,5% | 22,5% | 23,0% | 23,5% | 23,5% | 24,0% | 24,0% | 24,0% |
-| € 96.000 | 21,0% | 21,5% | 22,0% | 22,0% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 24,0% | 24,0% | 24,0% |
-| € 97.000 | 21,0% | 21,5% | 22,0% | 22,0% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 24,0% | 24,0% | 24,0% |
-| € 98.000 | 21,0% | 21,5% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 24,0% | 24,0% | 24,5% |
-| € 99.000 | 21,0% | 21,5% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 24,0% | 24,0% | 24,5% |
-| € 100.000 | 21,5% | 21,5% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,5% | 24,0% | 24,0% | 24,0% | 24,5% |
-| € 101.000 | 21,5% | 21,5% | 22,0% | 22,5% | 22,5% | 23,0% | 23,5% | 23,5% | 24,0% | 24,0% | 24,0% | 24,5% |
-| € 102.000 | 21,5% | 22,0% | 22,0% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 24,0% | 24,0% | 24,5% | 24,5% |
-| € 103.000 | 21,5% | 22,0% | 22,0% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 24,0% | 24,0% | 24,5% | 24,5% |
-| € 104.000 | 21,5% | 22,0% | 22,0% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 24,0% | 24,0% | 24,5% | 24,5% |
-| € 105.000 | 21,5% | 22,0% | 22,0% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 24,0% | 24,0% | 24,5% | 24,5% |
-| € 106.000 | 21,5% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,5% | 24,0% | 24,0% | 24,5% | 24,5% | 24,5% |
-| € 107.000 | 21,5% | 22,0% | 22,5% | 22,5% | 23,0% | 23,5% | 23,5% | 24,0% | 24,0% | 24,5% | 24,5% | 24,5% |
-| € 108.000 | 21,5% | 22,0% | 22,5% | 22,5% | 23,0% | 23,5% | 23,5% | 24,0% | 24,0% | 24,5% | 24,5% | 25,0% |
-| € 109.000 | 21,5% | 22,0% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 24,0% | 24,0% | 24,5% | 24,5% | 25,0% |
-| € 110.000 | 21,5% | 22,0% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 24,0% | 24,0% | 24,5% | 24,5% | 25,0% |
+| toets-inkomen |   |   |   |   |   |   |   |   |   |   |   |   |
+| - | 11,5% | 12,0% | 12,0% | 12,0% | 12,5% | 12,5% | 12,5% | 13,0% | 13,0% | 13,0% | 13,0% | 13,5% |
+| € 28.000 | 11,5% | 12,0% | 12,0% | 12,0% | 12,5% | 12,5% | 12,5% | 13,0% | 13,0% | 13,0% | 13,0% | 13,5% |
+| € 29.000 | 12,5% | 12,5% | 12,5% | 13,0% | 13,0% | 13,5% | 13,5% | 13,5% | 13,5% | 14,0% | 14,0% | 14,0% |
+| € 30.000 | 13,0% | 13,0% | 13,5% | 13,5% | 13,5% | 14,0% | 14,5% | 14,5% | 14,5% | 14,5% | 14,5% | 15,0% |
+| € 31.000 | 13,5% | 13,5% | 14,0% | 14,0% | 14,5% | 14,5% | 14,5% | 15,0% | 15,0% | 15,0% | 15,5% | 15,5% |
+| € 32.000 | 14,0% | 14,5% | 14,5% | 14,5% | 15,0% | 15,0% | 15,5% | 15,5% | 15,5% | 16,0% | 16,0% | 16,0% |
+| € 33.000 | 14,5% | 15,0% | 15,0% | 15,5% | 15,5% | 15,5% | 16,0% | 16,0% | 16,0% | 16,5% | 16,5% | 16,5% |
+| € 34.000 | 15,0% | 15,5% | 15,5% | 16,0% | 16,0% | 16,0% | 16,5% | 16,5% | 17,0% | 17,0% | 17,0% | 17,0% |
+| € 35.000 | 15,5% | 16,0% | 16,0% | 16,5% | 16,5% | 16,5% | 17,0% | 17,0% | 17,5% | 17,5% | 17,5% | 17,5% |
+| € 36.000 | 16,0% | 16,0% | 16,5% | 16,5% | 17,0% | 17,0% | 17,5% | 17,5% | 17,5% | 18,0% | 18,0% | 18,0% |
+| € 37.000 | 16,0% | 16,5% | 16,5% | 17,0% | 17,0% | 17,5% | 17,5% | 18,0% | 18,0% | 18,0% | 18,5% | 18,5% |
+| € 38.000 | 16,0% | 16,5% | 16,5% | 17,0% | 17,0% | 17,5% | 17,5% | 18,0% | 18,0% | 18,0% | 18,5% | 18,5% |
+| € 39.000 | 16,0% | 16,5% | 16,5% | 17,0% | 17,0% | 17,5% | 17,5% | 18,0% | 18,0% | 18,0% | 18,5% | 18,5% |
+| € 40.000 | 16,0% | 16,5% | 16,5% | 17,0% | 17,0% | 17,5% | 17,5% | 18,0% | 18,0% | 18,0% | 18,5% | 18,5% |
+| € 41.000 | 16,0% | 16,5% | 16,5% | 17,0% | 17,0% | 17,5% | 17,5% | 18,0% | 18,0% | 18,0% | 18,5% | 18,5% |
+| € 42.000 | 16,0% | 16,5% | 16,5% | 17,0% | 17,0% | 17,5% | 17,5% | 18,0% | 18,0% | 18,0% | 18,5% | 18,5% |
+| € 43.000 | 16,0% | 16,5% | 16,5% | 17,0% | 17,0% | 17,5% | 17,5% | 18,0% | 18,0% | 18,0% | 18,5% | 18,5% |
+| € 44.000 | 16,0% | 16,5% | 16,5% | 17,0% | 17,0% | 17,5% | 17,5% | 18,0% | 18,0% | 18,0% | 18,5% | 18,5% |
+| € 45.000 | 16,0% | 16,5% | 16,5% | 17,0% | 17,0% | 17,5% | 17,5% | 18,0% | 18,0% | 18,0% | 18,5% | 18,5% |
+| € 46.000 | 16,0% | 16,5% | 16,5% | 17,0% | 17,0% | 17,5% | 17,5% | 18,0% | 18,0% | 18,0% | 18,5% | 18,5% |
+| € 47.000 | 16,0% | 16,5% | 16,5% | 17,0% | 17,0% | 17,5% | 17,5% | 18,0% | 18,0% | 18,0% | 18,5% | 18,5% |
+| € 48.000 | 16,0% | 16,5% | 16,5% | 17,0% | 17,0% | 17,5% | 17,5% | 18,0% | 18,0% | 18,0% | 18,5% | 18,5% |
+| € 49.000 | 16,0% | 16,5% | 16,5% | 17,0% | 17,0% | 17,5% | 17,5% | 18,0% | 18,0% | 18,0% | 18,5% | 18,5% |
+| € 50.000 | 16,0% | 16,5% | 16,5% | 17,0% | 17,0% | 17,5% | 17,5% | 18,0% | 18,0% | 18,0% | 18,5% | 18,5% |
+| € 51.000 | 16,0% | 16,5% | 16,5% | 17,0% | 17,0% | 17,5% | 17,5% | 18,0% | 18,0% | 18,0% | 18,5% | 18,5% |
+| € 52.000 | 16,0% | 16,5% | 16,5% | 17,0% | 17,0% | 17,5% | 17,5% | 18,0% | 18,0% | 18,0% | 18,5% | 18,5% |
+| € 53.000 | 16,0% | 16,5% | 17,0% | 17,0% | 17,5% | 17,5% | 17,5% | 18,0% | 18,0% | 18,0% | 18,5% | 18,5% |
+| € 54.000 | 16,5% | 16,5% | 17,0% | 17,0% | 17,5% | 17,5% | 18,0% | 18,0% | 18,0% | 18,5% | 18,5% | 18,5% |
+| € 55.000 | 16,5% | 16,5% | 17,0% | 17,0% | 17,5% | 17,5% | 18,0% | 18,0% | 18,5% | 18,5% | 18,5% | 19,0% |
+| € 56.000 | 16,5% | 17,0% | 17,0% | 17,5% | 17,5% | 18,0% | 18,0% | 18,5% | 18,5% | 18,5% | 19,0% | 19,0% |
+| € 57.000 | 16,5% | 17,0% | 17,5% | 17,5% | 18,0% | 18,0% | 18,5% | 18,5% | 18,5% | 19,0% | 19,0% | 19,0% |
+| € 58.000 | 17,0% | 17,0% | 17,5% | 17,5% | 18,0% | 18,0% | 18,5% | 18,5% | 19,0% | 19,0% | 19,0% | 19,5% |
+| € 59.000 | 17,0% | 17,5% | 17,5% | 18,0% | 18,0% | 18,5% | 18,5% | 19,0% | 19,0% | 19,0% | 19,5% | 19,5% |
+| € 60.000 | 17,0% | 17,5% | 17,5% | 18,0% | 18,0% | 18,5% | 18,5% | 19,0% | 19,0% | 19,5% | 19,5% | 19,5% |
+| € 61.000 | 17,5% | 17,5% | 18,0% | 18,0% | 18,5% | 18,5% | 19,0% | 19,0% | 19,0% | 19,5% | 19,5% | 19,5% |
+| € 62.000 | 17,5% | 17,5% | 18,0% | 18,5% | 18,5% | 18,5% | 19,0% | 19,0% | 19,5% | 19,5% | 19,5% | 20,0% |
+| € 63.000 | 17,5% | 18,0% | 18,0% | 18,5% | 18,5% | 19,0% | 19,0% | 19,5% | 19,5% | 19,5% | 20,0% | 20,0% |
+| € 64.000 | 17,5% | 18,0% | 18,0% | 18,5% | 19,0% | 19,0% | 19,0% | 19,5% | 19,5% | 20,0% | 20,0% | 20,0% |
+| € 65.000 | 17,5% | 18,0% | 18,5% | 18,5% | 19,0% | 19,0% | 19,5% | 19,5% | 20,0% | 20,0% | 20,0% | 20,5% |
+| € 66.000 | 18,0% | 18,0% | 18,5% | 19,0% | 19,0% | 19,5% | 19,5% | 19,5% | 20,0% | 20,0% | 20,5% | 20,5% |
+| € 67.000 | 18,0% | 18,5% | 18,5% | 19,0% | 19,0% | 19,5% | 19,5% | 20,0% | 20,0% | 20,0% | 20,5% | 20,5% |
+| € 68.000 | 18,0% | 18,5% | 19,0% | 19,0% | 19,5% | 19,5% | 20,0% | 20,0% | 20,0% | 20,5% | 20,5% | 21,0% |
+| € 69.000 | 18,0% | 18,5% | 19,0% | 19,0% | 19,5% | 19,5% | 20,0% | 20,0% | 20,5% | 20,5% | 20,5% | 21,0% |
+| € 70.000 | 18,5% | 18,5% | 19,0% | 19,5% | 19,5% | 20,0% | 20,0% | 20,5% | 20,5% | 20,5% | 21,0% | 21,0% |
+| € 71.000 | 18,5% | 19,0% | 19,0% | 19,5% | 19,5% | 20,0% | 20,0% | 20,5% | 20,5% | 21,0% | 21,0% | 21,0% |
+| € 72.000 | 18,5% | 19,0% | 19,0% | 19,5% | 20,0% | 20,0% | 20,5% | 20,5% | 21,0% | 21,0% | 21,0% | 21,5% |
+| € 73.000 | 18,5% | 19,0% | 19,5% | 19,5% | 20,0% | 20,5% | 20,5% | 20,5% | 21,0% | 21,0% | 21,5% | 21,5% |
+| € 74.000 | 19,0% | 19,0% | 19,5% | 20,0% | 20,0% | 20,5% | 20,5% | 21,0% | 21,0% | 21,5% | 21,5% | 21,5% |
+| € 75.000 | 19,0% | 19,5% | 19,5% | 20,0% | 20,0% | 20,5% | 21,0% | 21,0% | 21,0% | 21,5% | 21,5% | 22,0% |
+| € 76.000 | 19,0% | 19,5% | 19,5% | 20,0% | 20,5% | 20,5% | 21,0% | 21,0% | 21,5% | 21,5% | 21,5% | 22,0% |
+| € 77.000 | 19,0% | 19,5% | 20,0% | 20,0% | 20,5% | 20,5% | 21,0% | 21,0% | 21,5% | 21,5% | 22,0% | 22,0% |
+| € 78.000 | 19,0% | 19,5% | 20,0% | 20,0% | 20,5% | 21,0% | 21,0% | 21,5% | 21,5% | 21,5% | 22,0% | 22,0% |
+| € 79.000 | 19,5% | 19,5% | 20,0% | 20,5% | 20,5% | 21,0% | 21,0% | 21,5% | 21,5% | 22,0% | 22,0% | 22,0% |
+| € 80.000 | 19,5% | 19,5% | 20,0% | 20,5% | 20,5% | 21,0% | 21,0% | 21,5% | 21,5% | 22,0% | 22,0% | 22,5% |
+| € 81.000 | 19,5% | 20,0% | 20,0% | 20,5% | 20,5% | 21,0% | 21,0% | 21,5% | 22,0% | 22,0% | 22,0% | 22,5% |
+| € 82.000 | 19,5% | 20,0% | 20,0% | 20,5% | 21,0% | 21,0% | 21,5% | 21,5% | 22,0% | 22,0% | 22,0% | 22,5% |
+| € 83.000 | 19,5% | 20,0% | 20,5% | 20,5% | 21,0% | 21,0% | 21,5% | 21,5% | 22,0% | 22,0% | 22,5% | 22,5% |
+| € 84.000 | 19,5% | 20,0% | 20,5% | 20,5% | 21,0% | 21,0% | 21,5% | 21,5% | 22,0% | 22,0% | 22,5% | 22,5% |
+| € 85.000 | 19,5% | 20,0% | 20,5% | 20,5% | 21,0% | 21,5% | 21,5% | 22,0% | 22,0% | 22,5% | 22,5% | 22,5% |
+| € 86.000 | 19,5% | 20,0% | 20,5% | 21,0% | 21,0% | 21,5% | 21,5% | 22,0% | 22,0% | 22,5% | 22,5% | 22,5% |
+| € 87.000 | 20,0% | 20,0% | 20,5% | 21,0% | 21,0% | 21,5% | 21,5% | 22,0% | 22,0% | 22,5% | 22,5% | 23,0% |
+| € 88.000 | 20,0% | 20,0% | 20,5% | 21,0% | 21,0% | 21,5% | 21,5% | 22,0% | 22,0% | 22,5% | 22,5% | 23,0% |
+| € 89.000 | 20,0% | 20,5% | 20,5% | 21,0% | 21,0% | 21,5% | 22,0% | 22,0% | 22,0% | 22,5% | 22,5% | 23,0% |
+| € 90.000 | 20,0% | 20,5% | 20,5% | 21,0% | 21,5% | 21,5% | 22,0% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% |
+| € 91.000 | 20,0% | 20,5% | 20,5% | 21,0% | 21,5% | 21,5% | 22,0% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% |
+| € 92.000 | 20,0% | 20,5% | 21,0% | 21,0% | 21,5% | 21,5% | 22,0% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% |
+| € 93.000 | 20,0% | 20,5% | 21,0% | 21,0% | 21,5% | 22,0% | 22,0% | 22,5% | 22,5% | 22,5% | 23,0% | 23,0% |
+| € 94.000 | 20,0% | 20,5% | 21,0% | 21,0% | 21,5% | 22,0% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,0% |
+| € 95.000 | 20,0% | 20,5% | 21,0% | 21,0% | 21,5% | 22,0% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,5% |
+| € 96.000 | 20,0% | 20,5% | 21,0% | 21,5% | 21,5% | 22,0% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,5% |
+| € 97.000 | 20,5% | 20,5% | 21,0% | 21,5% | 21,5% | 22,0% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,5% |
+| € 98.000 | 20,5% | 20,5% | 21,0% | 21,5% | 21,5% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,0% | 23,5% |
+| € 99.000 | 20,5% | 20,5% | 21,0% | 21,5% | 22,0% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,0% | 23,5% |
+| € 100.000 | 20,5% | 21,0% | 21,0% | 21,5% | 22,0% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% |
+| € 101.000 | 20,5% | 21,0% | 21,0% | 21,5% | 22,0% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% |
+| € 102.000 | 20,5% | 21,0% | 21,5% | 21,5% | 22,0% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% |
+| € 103.000 | 20,5% | 21,0% | 21,5% | 21,5% | 22,0% | 22,0% | 22,5% | 23,0% | 23,0% | 23,0% | 23,5% | 23,5% |
+| € 104.000 | 20,5% | 21,0% | 21,5% | 21,5% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 23,5% |
+| € 105.000 | 20,5% | 21,0% | 21,5% | 21,5% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 23,5% |
+| € 106.000 | 20,5% | 21,0% | 21,5% | 22,0% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 24,0% |
+| € 107.000 | 21,0% | 21,0% | 21,5% | 22,0% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 24,0% |
+| € 108.000 | 21,0% | 21,0% | 21,5% | 22,0% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 24,0% |
+| € 109.000 | 21,0% | 21,0% | 21,5% | 22,0% | 22,0% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 23,5% | 24,0% |
+| € 110.000 | 21,0% | 21,0% | 21,5% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 24,0% | 24,0% |
+| € 111.000 | 21,0% | 21,5% | 21,5% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 24,0% | 24,0% |
+| € 112.000 | 21,0% | 21,5% | 21,5% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 24,0% | 24,0% |
+| € 113.000 | 21,0% | 21,5% | 21,5% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 24,0% | 24,0% |
+| € 114.000 | 21,0% | 21,5% | 21,5% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 24,0% | 24,0% |
+| € 115.000 | 21,0% | 21,5% | 21,5% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 24,0% | 24,0% |
+| € 116.000 | 21,0% | 21,5% | 21,5% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 24,0% | 24,0% |
+| € 117.000 | 21,0% | 21,5% | 21,5% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 24,0% | 24,0% |
+| € 118.000 | 21,0% | 21,5% | 22,0% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 24,0% | 24,0% |
+| € 119.000 | 21,0% | 21,5% | 22,0% | 22,0% | 22,5% | 22,5% | 23,0% | 23,5% | 23,5% | 23,5% | 24,0% | 24,0% |
+| € 120.000 | 21,0% | 21,5% | 22,0% | 22,0% | 22,5% | 22,5% | 23,0% | 23,5% | 23,5% | 23,5% | 24,0% | 24,0% |
+| € 121.000 | 21,0% | 21,5% | 22,0% | 22,0% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 24,0% | 24,0% | 24,0% |
+| € 122.000 | 21,0% | 21,5% | 22,0% | 22,0% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 24,0% | 24,0% | 24,0% |
+| € 123.000 | 21,0% | 21,5% | 22,0% | 22,0% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 24,0% | 24,0% | 24,0% |
+| € 124.000 | 21,0% | 21,5% | 22,0% | 22,0% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 24,0% | 24,0% | 24,5% |
+| € 125.000 | 21,0% | 21,5% | 22,0% | 22,0% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 24,0% | 24,0% | 24,5% |
 
-| Debetrente | <= 1,500% | 1,501–2,000% | 2,001–2,500% | 2,501–3,000% | 3,001–3,500% | 3,501–4,000% | 4,001–4,500% | 4,501–5,000% | 5,001–5,500% | 5,501–6,000% | 6,001–6,500% | >= 6,501% |
+| toetsrente | <= 1,500% | 1,501–2,000% | 2,001–2,500% | 2,501–3,000% | 3,001–3,500% | 3,501–4,000% | 4,001–4,500% | 4,501–5,000% | 5,001–5,500% | 5,501–6,000% | 6,001–6,500% | >= 6,501% |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| toetsinkomen |   |   |   |   |   |   |   |   |   |   |   |   |
-| – | 18,0% | 18,0% | 18,5% | 18,5% | 19,0% | 19,0% | 19,5% | 19,5% | 20,0% | 20,0% | 20,0% | 20,5% |
-| € 26.000 | 18,0% | 18,0% | 18,5% | 18,5% | 19,0% | 19,0% | 19,5% | 19,5% | 20,0% | 20,0% | 20,0% | 20,5% |
-| € 27.000 | 19,5% | 19,5% | 20,0% | 20,5% | 20,5% | 21,0% | 21,0% | 21,5% | 21,5% | 21,5% | 22,0% | 22,0% |
-| € 28.000 | 21,0% | 21,0% | 21,5% | 22,0% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 24,0% |
-| € 29.000 | 22,0% | 22,0% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 24,0% | 24,0% | 24,5% | 24,5% | 25,0% |
-| € 30.000 | 22,0% | 22,5% | 22,5% | 23,0% | 23,5% | 23,5% | 24,0% | 24,0% | 24,5% | 24,5% | 25,0% | 25,0% |
-| € 31.000 | 22,0% | 22,5% | 23,0% | 23,0% | 23,5% | 24,0% | 24,0% | 24,5% | 24,5% | 25,0% | 25,0% | 25,0% |
-| € 32.000 | 22,0% | 22,5% | 23,0% | 23,5% | 23,5% | 24,0% | 24,0% | 24,5% | 24,5% | 25,0% | 25,0% | 25,5% |
-| € 33.000 | 22,0% | 22,5% | 23,0% | 23,5% | 23,5% | 24,0% | 24,0% | 24,5% | 24,5% | 25,0% | 25,0% | 25,5% |
-| € 34.000 | 22,0% | 22,5% | 23,0% | 23,5% | 23,5% | 24,0% | 24,0% | 24,5% | 24,5% | 25,0% | 25,0% | 25,5% |
-| € 35.000 | 22,0% | 22,5% | 23,0% | 23,5% | 23,5% | 24,0% | 24,0% | 24,5% | 25,0% | 25,0% | 25,0% | 25,5% |
-| € 36.000 | 22,0% | 22,5% | 23,0% | 23,5% | 23,5% | 24,0% | 24,5% | 24,5% | 25,0% | 25,0% | 25,0% | 25,5% |
-| € 37.000 | 22,0% | 22,5% | 23,0% | 23,5% | 23,5% | 24,0% | 24,5% | 24,5% | 25,0% | 25,0% | 25,0% | 25,5% |
-| € 38.000 | 22,5% | 22,5% | 23,0% | 23,5% | 23,5% | 24,0% | 24,5% | 24,5% | 25,0% | 25,0% | 25,5% | 25,5% |
-| € 39.000 | 22,5% | 22,5% | 23,0% | 23,5% | 24,0% | 24,0% | 24,5% | 24,5% | 25,0% | 25,0% | 25,5% | 25,5% |
-| € 40.000 | 22,5% | 23,0% | 23,0% | 23,5% | 24,0% | 24,0% | 24,5% | 24,5% | 25,0% | 25,0% | 25,5% | 25,5% |
-| € 41.000 | 22,5% | 23,0% | 23,5% | 23,5% | 24,0% | 24,5% | 24,5% | 25,0% | 25,0% | 25,5% | 25,5% | 25,5% |
-| € 42.000 | 23,0% | 23,0% | 23,5% | 24,0% | 24,5% | 24,5% | 25,0% | 25,0% | 25,5% | 25,5% | 26,0% | 26,0% |
-| € 43.000 | 23,5% | 23,5% | 24,0% | 24,5% | 25,0% | 25,0% | 25,5% | 25,5% | 26,0% | 26,0% | 26,5% | 26,5% |
-| € 44.000 | 24,0% | 24,0% | 24,5% | 25,0% | 25,5% | 25,5% | 26,0% | 26,0% | 26,5% | 26,5% | 27,0% | 27,0% |
-| € 45.000 | 24,0% | 24,5% | 25,0% | 25,5% | 25,5% | 26,0% | 26,5% | 26,5% | 27,0% | 27,0% | 27,5% | 27,5% |
-| € 46.000 | 24,5% | 25,0% | 25,5% | 25,5% | 26,0% | 26,5% | 26,5% | 27,0% | 27,5% | 27,5% | 28,0% | 28,0% |
-| € 47.000 | 24,5% | 25,0% | 25,5% | 26,0% | 26,5% | 26,5% | 27,0% | 27,5% | 27,5% | 28,0% | 28,0% | 28,5% |
-| € 48.000 | 25,0% | 25,5% | 25,5% | 26,0% | 26,5% | 27,0% | 27,0% | 27,5% | 27,5% | 28,0% | 28,0% | 28,5% |
-| € 49.000 | 25,0% | 25,5% | 26,0% | 26,0% | 26,5% | 27,0% | 27,0% | 27,5% | 28,0% | 28,0% | 28,5% | 28,5% |
-| € 50.000 | 25,0% | 25,5% | 26,0% | 26,0% | 26,5% | 27,0% | 27,0% | 27,5% | 28,0% | 28,0% | 28,5% | 28,5% |
-| € 51.000 | 25,0% | 25,5% | 26,0% | 26,0% | 26,5% | 27,0% | 27,0% | 27,5% | 28,0% | 28,0% | 28,5% | 28,5% |
-| € 52.000 | 25,0% | 25,5% | 26,0% | 26,0% | 26,5% | 27,0% | 27,0% | 27,5% | 28,0% | 28,0% | 28,5% | 28,5% |
-| € 53.000 | 25,0% | 25,5% | 26,0% | 26,0% | 26,5% | 27,0% | 27,0% | 27,5% | 28,0% | 28,0% | 28,5% | 28,5% |
-| € 54.000 | 25,0% | 25,5% | 26,0% | 26,0% | 26,5% | 27,0% | 27,0% | 27,5% | 28,0% | 28,0% | 28,5% | 28,5% |
-| € 55.000 | 25,0% | 25,5% | 26,0% | 26,0% | 26,5% | 27,0% | 27,0% | 27,5% | 28,0% | 28,0% | 28,5% | 28,5% |
-| € 56.000 | 25,0% | 25,5% | 26,0% | 26,0% | 26,5% | 27,0% | 27,0% | 27,5% | 28,0% | 28,0% | 28,5% | 28,5% |
-| € 57.000 | 25,0% | 25,5% | 26,0% | 26,0% | 26,5% | 27,0% | 27,0% | 27,5% | 28,0% | 28,0% | 28,5% | 28,5% |
-| € 58.000 | 25,0% | 25,5% | 26,0% | 26,0% | 26,5% | 27,0% | 27,0% | 27,5% | 28,0% | 28,0% | 28,5% | 28,5% |
-| € 59.000 | 25,0% | 25,5% | 26,0% | 26,0% | 26,5% | 27,0% | 27,0% | 27,5% | 28,0% | 28,0% | 28,5% | 28,5% |
-| € 60.000 | 25,0% | 25,5% | 26,0% | 26,0% | 26,5% | 27,0% | 27,0% | 27,5% | 28,0% | 28,0% | 28,5% | 28,5% |
-| € 61.000 | 25,0% | 25,5% | 26,0% | 26,0% | 26,5% | 27,0% | 27,0% | 27,5% | 28,0% | 28,0% | 28,5% | 28,5% |
-| € 62.000 | 25,0% | 25,5% | 26,0% | 26,5% | 26,5% | 27,0% | 27,5% | 27,5% | 28,0% | 28,0% | 28,5% | 28,5% |
-| € 63.000 | 25,0% | 25,5% | 26,0% | 26,5% | 27,0% | 27,0% | 27,5% | 28,0% | 28,0% | 28,5% | 28,5% | 29,0% |
-| € 64.000 | 25,5% | 26,0% | 26,0% | 26,5% | 27,0% | 27,5% | 27,5% | 28,0% | 28,5% | 28,5% | 29,0% | 29,0% |
-| € 65.000 | 25,5% | 26,0% | 26,5% | 26,5% | 27,0% | 27,5% | 28,0% | 28,0% | 28,5% | 28,5% | 29,0% | 29,0% |
-| € 66.000 | 25,5% | 26,0% | 26,5% | 27,0% | 27,0% | 27,5% | 28,0% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% |
-| € 67.000 | 25,5% | 26,0% | 26,5% | 27,0% | 27,5% | 27,5% | 28,0% | 28,5% | 28,5% | 29,0% | 29,0% | 29,5% |
-| € 68.000 | 26,0% | 26,5% | 26,5% | 27,0% | 27,5% | 28,0% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 29,5% |
-| € 69.000 | 26,0% | 26,5% | 27,0% | 27,0% | 27,5% | 28,0% | 28,5% | 28,5% | 29,0% | 29,0% | 29,5% | 29,5% |
-| € 70.000 | 26,0% | 26,5% | 27,0% | 27,5% | 28,0% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 29,5% | 30,0% |
-| € 71.000 | 26,0% | 26,5% | 27,0% | 27,5% | 28,0% | 28,5% | 28,5% | 29,0% | 29,0% | 29,5% | 30,0% | 30,0% |
-| € 72.000 | 26,5% | 27,0% | 27,5% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 29,5% | 30,0% | 30,0% |
-| € 73.000 | 26,5% | 27,0% | 27,5% | 28,0% | 28,0% | 28,5% | 29,0% | 29,5% | 29,5% | 30,0% | 30,0% | 30,5% |
-| € 74.000 | 26,5% | 27,0% | 27,5% | 28,0% | 28,5% | 28,5% | 29,0% | 29,5% | 29,5% | 30,0% | 30,5% | 30,5% |
-| € 75.000 | 27,0% | 27,5% | 27,5% | 28,0% | 28,5% | 29,0% | 29,5% | 29,5% | 30,0% | 30,0% | 30,5% | 30,5% |
-| € 76.000 | 27,0% | 27,5% | 28,0% | 28,5% | 28,5% | 29,0% | 29,5% | 29,5% | 30,0% | 30,5% | 30,5% | 31,0% |
-| € 77.000 | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 30,0% | 30,0% | 30,5% | 30,5% | 31,0% |
-| € 78.000 | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 30,0% | 30,0% | 30,5% | 30,5% | 31,0% |
-| € 79.000 | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 30,0% | 30,0% | 30,5% | 30,5% | 31,0% |
-| € 80.000 | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 30,0% | 30,0% | 30,5% | 30,5% | 31,0% |
-| € 81.000 | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 30,0% | 30,0% | 30,5% | 30,5% | 31,0% |
-| € 82.000 | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 30,0% | 30,0% | 30,5% | 30,5% | 31,0% |
-| € 83.000 | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 30,0% | 30,0% | 30,5% | 30,5% | 31,0% |
-| € 84.000 | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 30,0% | 30,0% | 30,5% | 30,5% | 31,0% |
-| € 85.000 | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 30,0% | 30,0% | 30,5% | 30,5% | 31,0% |
-| € 86.000 | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 30,0% | 30,0% | 30,5% | 30,5% | 31,0% |
-| € 87.000 | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 30,0% | 30,0% | 30,5% | 30,5% | 31,0% |
-| € 88.000 | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 30,0% | 30,0% | 30,5% | 30,5% | 31,0% |
-| € 89.000 | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 30,0% | 30,0% | 30,5% | 30,5% | 31,0% |
-| € 90.000 | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 30,0% | 30,0% | 30,5% | 30,5% | 31,0% |
-| € 91.000 | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 30,0% | 30,0% | 30,5% | 30,5% | 31,0% |
-| € 92.000 | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 30,0% | 30,0% | 30,5% | 30,5% | 31,0% |
-| € 93.000 | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 30,0% | 30,0% | 30,5% | 30,5% | 31,0% |
-| € 94.000 | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 30,0% | 30,0% | 30,5% | 30,5% | 31,0% |
-| € 95.000 | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 30,0% | 30,0% | 30,5% | 30,5% | 31,0% |
-| € 96.000 | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 30,0% | 30,0% | 30,5% | 30,5% | 31,0% |
-| € 97.000 | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 30,0% | 30,0% | 30,5% | 30,5% | 31,0% |
-| € 98.000 | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 30,0% | 30,0% | 30,5% | 30,5% | 31,0% |
-| € 99.000 | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 30,0% | 30,0% | 30,5% | 30,5% | 31,0% |
-| € 100.000 | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 30,0% | 30,0% | 30,5% | 30,5% | 31,0% |
-| € 101.000 | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 30,0% | 30,0% | 30,5% | 30,5% | 31,0% |
-| € 102.000 | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 30,0% | 30,0% | 30,5% | 30,5% | 31,0% |
-| € 103.000 | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 30,0% | 30,0% | 30,5% | 30,5% | 31,0% |
-| € 104.000 | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 30,0% | 30,0% | 30,5% | 30,5% | 31,0% |
-| € 105.000 | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 30,0% | 30,0% | 30,5% | 30,5% | 31,0% |
-| € 106.000 | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 30,0% | 30,0% | 30,5% | 30,5% | 31,0% |
-| € 107.000 | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 30,0% | 30,0% | 30,5% | 30,5% | 31,0% |
-| € 108.000 | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 30,0% | 30,0% | 30,5% | 30,5% | 31,0% |
-| € 109.000 | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 30,0% | 30,0% | 30,5% | 30,5% | 31,0% |
-| € 110.000 | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 30,0% | 30,0% | 30,5% | 30,5% | 31,0% |
+| toets-inkomen |   |   |   |   |   |   |   |   |   |   |   |   |
+| - | 17,0% | 17,0% | 17,5% | 17,5% | 18,0% | 18,0% | 18,5% | 18,5% | 19,0% | 19,0% | 19,0% | 19,5% |
+| € 28.000 | 17,0% | 17,0% | 17,5% | 17,5% | 18,0% | 18,0% | 18,5% | 18,5% | 19,0% | 19,0% | 19,0% | 19,5% |
+| € 29.000 | 18,5% | 19,0% | 19,0% | 19,5% | 19,5% | 20,0% | 20,0% | 20,5% | 20,5% | 20,5% | 21,0% | 21,0% |
+| € 30.000 | 20,0% | 20,0% | 20,5% | 21,0% | 21,0% | 21,5% | 21,5% | 22,0% | 22,0% | 22,0% | 22,5% | 22,5% |
+| € 31.000 | 20,5% | 21,0% | 21,0% | 21,5% | 22,0% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,0% | 23,5% |
+| € 32.000 | 20,5% | 21,0% | 21,5% | 21,5% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,0% | 23,5% | 23,5% |
+| € 33.000 | 21,0% | 21,0% | 21,5% | 22,0% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 23,5% |
+| € 34.000 | 21,0% | 21,0% | 21,5% | 22,0% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 24,0% |
+| € 35.000 | 21,0% | 21,5% | 21,5% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 23,5% | 24,0% |
+| € 36.000 | 21,0% | 21,5% | 21,5% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 24,0% | 24,0% |
+| € 37.000 | 21,0% | 21,5% | 22,0% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 24,0% | 24,0% |
+| € 38.000 | 21,0% | 21,5% | 22,0% | 22,0% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 23,5% | 24,0% | 24,0% |
+| € 39.000 | 21,0% | 21,5% | 22,0% | 22,0% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 24,0% | 24,0% | 24,0% |
+| € 40.000 | 21,0% | 21,5% | 22,0% | 22,5% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 24,0% | 24,0% | 24,5% |
+| € 41.000 | 21,5% | 22,0% | 22,0% | 22,5% | 22,5% | 23,0% | 23,5% | 23,5% | 24,0% | 24,0% | 24,0% | 24,5% |
+| € 42.000 | 21,5% | 22,0% | 22,5% | 23,0% | 23,0% | 23,5% | 23,5% | 24,0% | 24,0% | 24,5% | 24,5% | 25,0% |
+| € 43.000 | 22,0% | 22,5% | 23,0% | 23,0% | 23,5% | 24,0% | 24,0% | 24,5% | 24,5% | 25,0% | 25,0% | 25,0% |
+| € 44.000 | 22,5% | 23,0% | 23,0% | 23,5% | 24,0% | 24,0% | 24,5% | 24,5% | 25,0% | 25,0% | 25,5% | 25,5% |
+| € 45.000 | 23,0% | 23,0% | 23,5% | 24,0% | 24,0% | 24,5% | 25,0% | 25,0% | 25,5% | 25,5% | 26,0% | 26,0% |
+| € 46.000 | 23,0% | 23,5% | 24,0% | 24,0% | 24,5% | 25,0% | 25,0% | 25,5% | 25,5% | 26,0% | 26,0% | 26,5% |
+| € 47.000 | 23,5% | 23,5% | 24,0% | 24,5% | 24,5% | 25,0% | 25,5% | 25,5% | 26,0% | 26,0% | 26,5% | 26,5% |
+| € 48.000 | 23,5% | 24,0% | 24,0% | 24,5% | 25,0% | 25,0% | 25,5% | 26,0% | 26,0% | 26,5% | 26,5% | 26,5% |
+| € 49.000 | 23,5% | 24,0% | 24,5% | 24,5% | 25,0% | 25,5% | 25,5% | 26,0% | 26,0% | 26,5% | 26,5% | 27,0% |
+| € 50.000 | 23,5% | 24,0% | 24,5% | 24,5% | 25,0% | 25,5% | 25,5% | 26,0% | 26,0% | 26,5% | 26,5% | 27,0% |
+| € 51.000 | 23,5% | 24,0% | 24,5% | 24,5% | 25,0% | 25,5% | 25,5% | 26,0% | 26,5% | 26,5% | 27,0% | 27,0% |
+| € 52.000 | 23,5% | 24,0% | 24,5% | 25,0% | 25,0% | 25,5% | 25,5% | 26,0% | 26,5% | 26,5% | 27,0% | 27,0% |
+| € 53.000 | 23,5% | 24,0% | 24,5% | 25,0% | 25,0% | 25,5% | 26,0% | 26,0% | 26,5% | 26,5% | 27,0% | 27,0% |
+| € 54.000 | 23,5% | 24,0% | 24,5% | 25,0% | 25,0% | 25,5% | 26,0% | 26,0% | 26,5% | 26,5% | 27,0% | 27,0% |
+| € 55.000 | 23,5% | 24,0% | 24,5% | 25,0% | 25,0% | 25,5% | 26,0% | 26,0% | 26,5% | 26,5% | 27,0% | 27,0% |
+| € 56.000 | 23,5% | 24,0% | 24,5% | 25,0% | 25,0% | 25,5% | 26,0% | 26,0% | 26,5% | 26,5% | 27,0% | 27,0% |
+| € 57.000 | 23,5% | 24,0% | 24,5% | 25,0% | 25,0% | 25,5% | 26,0% | 26,0% | 26,5% | 26,5% | 27,0% | 27,0% |
+| € 58.000 | 23,5% | 24,0% | 24,5% | 25,0% | 25,0% | 25,5% | 26,0% | 26,0% | 26,5% | 26,5% | 27,0% | 27,0% |
+| € 59.000 | 23,5% | 24,0% | 24,5% | 25,0% | 25,0% | 25,5% | 26,0% | 26,0% | 26,5% | 26,5% | 27,0% | 27,0% |
+| € 60.000 | 23,5% | 24,0% | 24,5% | 25,0% | 25,0% | 25,5% | 26,0% | 26,0% | 26,5% | 26,5% | 27,0% | 27,0% |
+| € 61.000 | 23,5% | 24,0% | 24,5% | 25,0% | 25,5% | 25,5% | 26,0% | 26,5% | 26,5% | 27,0% | 27,0% | 27,0% |
+| € 62.000 | 24,0% | 24,5% | 24,5% | 25,0% | 25,5% | 26,0% | 26,0% | 26,5% | 26,5% | 27,0% | 27,0% | 27,5% |
+| € 63.000 | 24,0% | 24,5% | 25,0% | 25,0% | 25,5% | 26,0% | 26,0% | 26,5% | 27,0% | 27,0% | 27,5% | 27,5% |
+| € 64.000 | 24,0% | 24,5% | 25,0% | 25,5% | 25,5% | 26,0% | 26,5% | 26,5% | 27,0% | 27,0% | 27,5% | 27,5% |
+| € 65.000 | 24,0% | 24,5% | 25,0% | 25,5% | 26,0% | 26,0% | 26,5% | 27,0% | 27,0% | 27,5% | 27,5% | 28,0% |
+| € 66.000 | 24,5% | 25,0% | 25,0% | 25,5% | 26,0% | 26,5% | 26,5% | 27,0% | 27,0% | 27,5% | 27,5% | 28,0% |
+| € 67.000 | 24,5% | 25,0% | 25,5% | 25,5% | 26,0% | 26,5% | 26,5% | 27,0% | 27,5% | 27,5% | 28,0% | 28,0% |
+| € 68.000 | 24,5% | 25,0% | 25,5% | 26,0% | 26,0% | 26,5% | 27,0% | 27,0% | 27,5% | 28,0% | 28,0% | 28,0% |
+| € 69.000 | 24,5% | 25,0% | 25,5% | 26,0% | 26,5% | 26,5% | 27,0% | 27,5% | 27,5% | 28,0% | 28,0% | 28,5% |
+| € 70.000 | 25,0% | 25,5% | 25,5% | 26,0% | 26,5% | 27,0% | 27,0% | 27,5% | 28,0% | 28,0% | 28,5% | 28,5% |
+| € 71.000 | 25,0% | 25,5% | 26,0% | 26,5% | 26,5% | 27,0% | 27,5% | 27,5% | 28,0% | 28,0% | 28,5% | 28,5% |
+| € 72.000 | 25,0% | 25,5% | 26,0% | 26,5% | 27,0% | 27,0% | 27,5% | 28,0% | 28,0% | 28,5% | 28,5% | 29,0% |
+| € 73.000 | 25,5% | 26,0% | 26,0% | 26,5% | 27,0% | 27,5% | 27,5% | 28,0% | 28,5% | 28,5% | 29,0% | 29,0% |
+| € 74.000 | 25,5% | 26,0% | 26,5% | 26,5% | 27,0% | 27,5% | 28,0% | 28,0% | 28,5% | 28,5% | 29,0% | 29,0% |
+| € 75.000 | 25,5% | 26,0% | 26,5% | 27,0% | 27,5% | 27,5% | 28,0% | 28,5% | 28,5% | 29,0% | 29,0% | 29,5% |
+| € 76.000 | 25,5% | 26,0% | 26,5% | 27,0% | 27,5% | 28,0% | 28,0% | 28,5% | 28,5% | 29,0% | 29,5% | 29,5% |
+| € 77.000 | 26,0% | 26,5% | 27,0% | 27,0% | 27,5% | 28,0% | 28,5% | 28,5% | 29,0% | 29,0% | 29,5% | 29,5% |
+| € 78.000 | 26,0% | 26,5% | 27,0% | 27,5% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 29,5% | 30,0% |
+| € 79.000 | 26,0% | 26,5% | 27,0% | 27,5% | 28,0% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 29,5% | 30,0% |
+| € 80.000 | 26,0% | 26,5% | 27,0% | 27,5% | 28,0% | 28,5% | 28,5% | 29,0% | 29,5% | 29,5% | 30,0% | 30,0% |
+| € 81.000 | 26,5% | 27,0% | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 29,5% | 30,0% | 30,0% |
+| € 82.000 | 26,5% | 27,0% | 27,5% | 28,0% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 30,0% | 30,0% | 30,5% |
+| € 83.000 | 26,5% | 27,0% | 27,5% | 28,0% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 30,0% | 30,0% | 30,5% |
+| € 84.000 | 26,5% | 27,0% | 27,5% | 28,0% | 28,5% | 28,5% | 29,0% | 29,5% | 29,5% | 30,0% | 30,0% | 30,5% |
+| € 85.000 | 26,5% | 27,0% | 27,5% | 28,0% | 28,5% | 28,5% | 29,0% | 29,5% | 29,5% | 30,0% | 30,5% | 30,5% |
+| € 86.000 | 26,5% | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 29,5% | 30,0% | 30,5% | 30,5% |
+| € 87.000 | 26,5% | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 29,5% | 30,0% | 30,5% | 30,5% |
+| € 88.000 | 26,5% | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 29,5% | 30,0% | 30,5% | 30,5% |
+| € 89.000 | 26,5% | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 29,5% | 30,0% | 30,5% | 30,5% |
+| € 90.000 | 26,5% | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 29,5% | 30,0% | 30,5% | 30,5% |
+| € 91.000 | 26,5% | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 29,5% | 30,0% | 30,5% | 30,5% |
+| € 92.000 | 26,5% | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 29,5% | 30,0% | 30,5% | 30,5% |
+| € 93.000 | 26,5% | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 29,5% | 30,0% | 30,5% | 30,5% |
+| € 94.000 | 26,5% | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 29,5% | 30,0% | 30,5% | 30,5% |
+| € 95.000 | 26,5% | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 29,5% | 30,0% | 30,5% | 30,5% |
+| € 96.000 | 26,5% | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 29,5% | 30,0% | 30,5% | 30,5% |
+| € 97.000 | 26,5% | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 29,5% | 30,0% | 30,5% | 30,5% |
+| € 98.000 | 26,5% | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 29,5% | 30,0% | 30,5% | 30,5% |
+| € 99.000 | 26,5% | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 29,5% | 30,0% | 30,5% | 30,5% |
+| € 100.000 | 26,5% | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 29,5% | 30,0% | 30,5% | 30,5% |
+| € 101.000 | 26,5% | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 29,5% | 30,0% | 30,5% | 30,5% |
+| € 102.000 | 26,5% | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 29,5% | 30,0% | 30,5% | 30,5% |
+| € 103.000 | 26,5% | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 29,5% | 30,0% | 30,5% | 30,5% |
+| € 104.000 | 26,5% | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 29,5% | 30,0% | 30,5% | 30,5% |
+| € 105.000 | 26,5% | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 29,5% | 30,0% | 30,5% | 30,5% |
+| € 106.000 | 26,5% | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 29,5% | 30,0% | 30,5% | 30,5% |
+| € 107.000 | 26,5% | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 29,5% | 30,0% | 30,5% | 30,5% |
+| € 108.000 | 26,5% | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 29,5% | 30,0% | 30,5% | 30,5% |
+| € 109.000 | 26,5% | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 29,5% | 30,0% | 30,5% | 30,5% |
+| € 110.000 | 26,5% | 27,0% | 27,5% | 28,0% | 28,5% | 29,0% | 29,0% | 29,5% | 29,5% | 30,0% | 30,5% | 30,5% |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 3a
 
-Voor de toepassing van [artikel 3, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032503&paragraaf=2&artikel=3&z=2023-01-01&g=2023-01-01), wordt de wegingsfactor voor studieleningen bepaald op grond van onderstaande tabel en wordt de wegingsfactor vermenigvuldigd met het oorspronkelijke bedrag van de studielening.
+1. Voor de toepassing van [artikel 3, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032503&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01), houdt een aanbieder van hypothecair krediet rekening met het termijnbedrag dat de consument verschuldigd is voor rente en aflossing van een studielening.
 
-| Rentepercentage op studielening (in %) vastgesteld op grond van [artikel 6.3. van de Wet Studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=6.3) | Wegingsfactor bij aflosperiode studielening van 15 jaar (in %) behorend bij rentepercentage, bedoeld in [artikel 6.3, eerste lid, van de Wet Studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=6.3) | Wegingsfactor bij aflosperiode studielening van 35 jaar (in %) behorend bij rentepercentage, bedoeld in [artikel 6.3, tweede lid, van de Wet Studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=6.3) |
-| --- | --- | --- |
-| <1 | 0,65 | 0,35 |
-| 1 – <1,5 | 0,70 | 0,40 |
-| 1,5 – <2 | 0,75 | 0,45 |
-| 2 – <2,5 | 0,80 | 0,50 |
-| 2,5 – <3 | 0,85 | 0,55 |
-| 3 – <3,5 | 0,85 | 0,60 |
-| 3,5 – <4 | 0,90 | 0,65 |
-| 4 – <4,5 | 0,95 | 0,70 |
-| 4,5 – <5 | 1,00 | 0,75 |
+2. Indien sprake is van een aanvraag voor een hypothecair krediet waarvan de debetrente geheel of gedeeltelijk aftrekbaar is, wordt het termijnbedrag, bedoeld in het eerste lid, gebruteerd volgens onderstaande tabel.
+
+| Debetrente | Opslag |
+| --- | --- |
+| <= 2,00% | 1,05 |
+| 2,01% – 2,50% | 1,10 |
+| 2,51% – 3,00% | 1,15 |
+| 3,01% – 3,50% | 1,20 |
+| 3,51% – 4,00% | 1,20 |
+| 4,01% – 4,50% | 1,25 |
+| 4,51% – 5,00% | 1,30 |
+| 5,01% – 5,50% | 1,30 |
+| 5,51% – 6,00% | 1,35 |
+| >= 6,01% | 1,40 |
 
 #### § 3. Maximale hypothecair krediet in verhouding tot de waarde van de woning
 
