@@ -4,7 +4,7 @@ identifier: "BWBR0034047"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2014-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034047"
 soort: "wet"
@@ -139,7 +139,7 @@ Een persoon die in de provincie Fryslân woont, feitelijk verblijf houdt of zete
 
 ##### Artikel 12
 
-1. Indien een verdachte, partij, getuige of belanghebbende zich ter terechtzitting op de voet van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0034047&hoofdstuk=3&artikel=11&z=2014-01-01&g=2014-01-01) wil bedienen van de Friese taal, bepaalt de rechter die de leiding van de zitting heeft ambtshalve of op verzoek zonodig dat bijstand wordt verleend door een tolk. [Artikel 276 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=276) is van toepassing indien het onderzoek ter terechtzitting plaatsvindt in het kader van een strafzaak.
+1. Indien een verdachte, partij, getuige of belanghebbende zich ter terechtzitting op de voet van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0034047&hoofdstuk=3&artikel=11&z=2024-01-01&g=2024-01-01) wil bedienen van de Friese taal, bepaalt de rechter die de leiding van de zitting heeft ambtshalve of op verzoek zonodig dat bijstand wordt verleend door een tolk. [Artikel 276 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=276) is van toepassing indien het onderzoek ter terechtzitting plaatsvindt in het kader van een strafzaak.
 
 2. De vergoeding aan de tolk die ingevolge het eerste lid is opgetreden, komt ten laste van het Rijk.
 
@@ -147,13 +147,13 @@ Een persoon die in de provincie Fryslân woont, feitelijk verblijf houdt of zete
 
 ##### Artikel 13
 
-Indien een verdachte of getuige zich ter terechtzitting in een strafzaak buiten de gevallen bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0034047&hoofdstuk=3&artikel=11&z=2014-01-01&g=2014-01-01) wil bedienen van de Friese taal en aannemelijk maakt dat hij zich in het Nederlands onvoldoende kan uitdrukken, bepaalt de rechter die de leiding van de zitting heeft, indien hij zulks wenselijk acht, dat bijstand wordt verleend door een tolk.[Artikel 276 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=276) is van toepassing.
+Indien een verdachte of getuige zich ter terechtzitting in een strafzaak buiten de gevallen bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0034047&hoofdstuk=3&artikel=11&z=2024-01-01&g=2024-01-01) wil bedienen van de Friese taal en aannemelijk maakt dat hij zich in het Nederlands onvoldoende kan uitdrukken, bepaalt de rechter die de leiding van de zitting heeft, indien hij zulks wenselijk acht, dat bijstand wordt verleend door een tolk.[Artikel 276 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=276) is van toepassing.
 
 ##### Artikel 14
 
 1. Hetgeen in de Friese taal is gesproken wordt, indien het in het proces-verbaal wordt opgenomen, in die taal vermeld. De rechter kan bepalen dat een vertaling in het Nederlands wordt gemaakt.
 
-2. Indien naar het oordeel van de rechter opneming van het gesprokene in de Friese taal in redelijkheid niet kan worden gevergd, wordt het in het Nederlands in het proces-verbaal opgenomen en wordt daarin aangetekend dat de Friese taal is gebezigd.
+2. Indien ingevolge [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0034047&hoofdstuk=3&artikel=13&z=2024-01-01&g=2024-01-01) in een strafzaak gebruik is gemaakt van de Friese taal, vindt opneming in het proces-verbaal in het Nederlands plaats en wordt daarin aangetekend dat de Friese taal is gebezigd.
 
 ##### Artikel 15
 
@@ -213,7 +213,7 @@ Indien een verdachte of getuige zich ter terechtzitting in een strafzaak buiten 
 
 - 2°. gedeputeerde staten van de provincie Fryslân;
 
-- c. ondersteuning te bieden bij het opstellen van regels en beleidsplannen als bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034047&hoofdstuk=2&artikel=5&z=2014-01-01&g=2014-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0034047&hoofdstuk=2&artikel=6&z=2014-01-01&g=2014-01-01).
+- c. ondersteuning te bieden bij het opstellen van regels en beleidsplannen als bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034047&hoofdstuk=2&artikel=5&z=2024-01-01&g=2024-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0034047&hoofdstuk=2&artikel=6&z=2024-01-01&g=2024-01-01).
 
 3. De in het tweede lid, onder a, onder 1° tot en met 4°, genoemde bestuursorganen en instanties sturen binnen drie maanden na ontvangst van de rapportage een reactie aan het Orgaan op de aan hen gerichte rapportage.
 
@@ -239,7 +239,7 @@ Indien een verdachte of getuige zich ter terechtzitting in een strafzaak buiten 
 
 ##### Artikel 22
 
-Het Orgaan voert de in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0034047&hoofdstuk=4&artikel=19&z=2014-01-01&g=2014-01-01) genoemde taken uit op basis van een tweejaarlijks werkprogramma, dat na overleg met Onze Minister wordt opgesteld.
+Het Orgaan voert de in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0034047&hoofdstuk=4&artikel=19&z=2024-01-01&g=2024-01-01) genoemde taken uit op basis van een tweejaarlijks werkprogramma, dat na overleg met Onze Minister wordt opgesteld.
 
 ##### Artikel 23
 
@@ -292,8 +292,6 @@ De [Wet gebruik Friese taal in het rechtsverkeer](https://wetten.overheid.nl/jci
 ##### Artikel 33
 
 Wijzigt deze wet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 34
 
