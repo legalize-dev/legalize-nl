@@ -4,7 +4,7 @@ identifier: "BWBR0037866"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-04-01"
-last_updated: "2016-07-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037866"
 soort: "AMvB"
@@ -78,11 +78,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. een monument of archeologisch monument waarvoor de toezending van het ontwerpbesluit tot aanwijzing als rijksmonument op grond van [artikel 3:13, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:13) heeft plaatsgevonden, vanaf de dag van die toezending tot het moment van inschrijving in het rijksmonumentenregister of het moment waarop vaststaat dat het monument of archeologisch monument niet wordt ingeschreven in dat register;
 
-- c. een krachtens een provinciale verordening aangewezen monument of archeologisch monument, dan wel een monument of archeologisch monument waarop, voordat het is aangewezen, een zodanige verordening van overeenkomstige toepassing is;
+- c. een provinciaal monument of een voorbeschermd provinciaal monument als bedoeld in [bijlage I bij het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=I);
 
-- d. gemeentelijke monumenten; en
+- d. een gemeentelijk monument of een voorbeschermd gemeentelijk monument als bedoeld in [bijlage I bij het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=I); en
 
-- e. terreinen waar een opgraving door een certificaathouder of een opgraving op grond van [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037866&hoofdstuk=2&artikel=2.1&z=2016-07-01&g=2016-07-01) wordt verricht.
+- e. terreinen waar een opgraving door een certificaathouder of een opgraving op grond van [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037866&hoofdstuk=2&artikel=2.1&z=2024-01-01&g=2024-01-01) wordt verricht.
 
 3. [Artikel 5.10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=5.10) is van overeenkomstige toepassing op de in het eerste lid bedoelde opgravingen.
 
@@ -96,7 +96,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 2. De vrijstelling bedoeld in het eerste lid is slechts van toepassing indien:
 
-- a. het terreinen betreft waarvan het college van burgemeester en wethouders of, indien het een gebied betreft dat niet tot het grondgebied van een gemeente behoort, het bevoegd gezag voor een omgevingsvergunning als bedoeld in [artikel 2.1, eerste lid, onder f, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1), heeft vastgesteld dat nader archeologisch onderzoek niet is vereist, en
+- a. het terreinen betreft waarvan het college van burgemeester en wethouders of, indien het een gebied betreft dat niet tot het grondgebied van een gemeente behoort, het bevoegd gezag voor een omgevingsvergunning als bedoeld in [artikel 5.1, eerste lid, aanhef en onder b, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1), heeft vastgesteld dat nader archeologisch onderzoek niet is vereist, en
 
 - b. de vereniging niet in opdracht van een derde handelt.
 
@@ -106,7 +106,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. monument of archeologisch monument waarvoor de toezending van het ontwerpbesluit tot aanwijzing als rijksmonument op grond van [artikel 3:13, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:13) heeft plaatsgevonden, vanaf de dag van die toezending tot het moment van inschrijving in het rijksmonumentenregister of het moment waarop vaststaat dat het monument of archeologisch monument niet wordt ingeschreven in dat register; en
 
-- c. krachtens een provinciale verordening aangewezen monument of archeologisch monument, dan wel een monument of archeologisch monument waarop, voordat het is aangewezen, een zodanige verordening van overeenkomstige toepassing is.
+- c. een provinciaal monument of een voorbeschermd provinciaal monument als bedoeld in [bijlage I bij het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=I).
 
 4. De [artikelen 5.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=5.4), en [5.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=5.6) zijn van overeenkomstige toepassing op de in het eerste lid bedoelde opgravingen.
 
@@ -138,7 +138,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Certificerende instellingen verstrekken certificaten met inachtneming van de richtlijn.
 
-4. Een certificaathouder of instelling als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037866&hoofdstuk=2&artikel=2.1&z=2016-07-01&g=2016-07-01) verricht een opgraving overeenkomstig de richtlijn.
+4. Een certificaathouder of instelling als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037866&hoofdstuk=2&artikel=2.1&z=2024-01-01&g=2024-01-01) verricht een opgraving overeenkomstig de richtlijn.
 
 ##### Artikel 3.2. Aanwijzing certificerende instelling
 
@@ -160,7 +160,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - h. in staat is te voldoen aan rapportage- en informatieverplichtingen op grond van dit besluit, jegens Onze Minister.
 
-2. De aanvraag gaat vergezeld van een bewijs van accreditatie, als bedoeld in verordening EU nr. 765/2008, voor het afgeven van certificaten op basis van de in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037866&hoofdstuk=3&artikel=3.1&z=2016-07-01&g=2016-07-01) genoemde richtlijn.
+2. De aanvraag gaat vergezeld van een bewijs van accreditatie, als bedoeld in verordening EU nr. 765/2008, voor het afgeven van certificaten op basis van de in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037866&hoofdstuk=3&artikel=3.1&z=2024-01-01&g=2024-01-01) genoemde richtlijn.
 
 3. Aan de aanwijzing kunnen nadere voorschriften verbonden worden.
 
