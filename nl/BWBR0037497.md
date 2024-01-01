@@ -4,7 +4,7 @@ identifier: "BWBR0037497"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2016-04-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037497"
 soort: "ministeriele-regeling"
@@ -44,11 +44,9 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **AVI-bodemas:** AVI-bodemas als bedoeld in het [Besluit vrijstellingen stortverbod buiten inrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0009093);
+- **AVI-bodemas:** bodemas als bedoeld in [bijlage I bij het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&bijlage=I);
 
-- **besluit:** [Besluit stortplaatsen en stortverboden afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0009094);
-
-- **IBC-bouwstof:** IBC-bouwstof als bedoeld in het [Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929).
+- **besluit:** [Besluit stortplaatsen en stortverboden afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0009094).
 
 ##### Artikel 2
 
@@ -62,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 - c). het terugbrengen van niet-minerale delen met het oog op gebruik als toeslagmateriaal in beton, asfalt of andere producten, of
 
-- d). productie van een immobilisaat dat voldoet aan de eisen voor een vormgegeven product met als doel AVI-bodemas niet meer toe te passen als IBC-bouwstof.
+- d). productie van een immobilisaat dat voldoet aan de eisen voor een vormgegeven product.
 
 ##### Artikel 3
 
