@@ -4,7 +4,7 @@ identifier: "BWBR0022835"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-06"
-last_updated: "2023-04-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022835"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ De kennisgeving, bedoeld in [artikel 9, eerste en tweede lid, van de Wet algemen
 
 ##### Artikel 3
 
-De systeembeschrijving, bedoeld in [artikel 2 van het Besluit burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022829&artikel=2), wordt gevormd door hoofdstuk 2, de onderdelen 3.1, 3.2.1 tot en met 3.2.6, 3.3.1, 3.3.2, 3.3.3 en 3.3.4 van hoofdstuk 3, hoofdstuk 5 en de bijlagen I en II van het Logisch Ontwerp BSN, versie 1.6.1, dat als bijlage bij deze regeling is gevoegd.
+De systeembeschrijving, bedoeld in [artikel 2 van het Besluit burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022829&artikel=2), wordt gevormd door hoofdstuk 2, de onderdelen 3.1, 3.2.1 tot en met 3.2.6, 3.3.1, 3.3.2, 3.3.3 en 3.3.4 van hoofdstuk 3, hoofdstuk 5 en de bijlagen I en II van het Logisch Ontwerp BSN, versie 2024.Q1, dat als bijlage bij deze regeling is gevoegd.
 
 ##### Artikel 4
 
@@ -68,9 +68,9 @@ Deze regeling wordt aangehaald als: Regeling burgerservicenummer.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage. Logisch Ontwerp BSN, versie 1.6.1
+## Bijlage. Logisch Ontwerp BSN, versie 2024.Q1
 
-### Bijlage bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022835&artikel=3&z=2023-04-01&g=2023-04-01)
+### Bijlage bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022835&artikel=3&z=2024-01-01&g=2024-01-01)
 
 Deze bijlage wordt bekendgemaakt op [https://www.rvig.nl](onbekend).
 
