@@ -4,7 +4,7 @@ identifier: "BWBR0002528"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2007-10-31"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002528"
 soort: "AMvB"
@@ -50,11 +50,11 @@ Hebben goedgevonden en verstaan:
 
 2. In geval van vordering van een recht tot gebruik van een zaak bedraagt het totaal der uit te keren schadeloosstellingen: de waarde van het gevorderde recht, zonodig vermeerderd met een vergoeding van bijkomende schade als in het eerste lid bedoeld.
 
-3. Ten aanzien van de verdeling van het in het tweede lid bedoelde totaalbedrag over de rechthebbenden op schadeloosstelling zijn de artikelen 40-49 van de [Onteigeningswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001842), voor zover mogelijk, van overeenkomstige toepassing.
+3. Ten aanzien van de verdeling van het in het tweede lid bedoelde totaalbedrag over de rechthebbenden op schadeloosstelling is [paragraaf 15.3.1 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&paragraaf=15.3.1), voor zover mogelijk, van overeenkomstige toepassing.
 
 ##### Artikel 2
 
-1. Bij het vaststellen van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002528&artikel=1&z=2007-10-31&g=2007-10-31) bedoelde waarde van de zaak of van het gevorderde recht alsmede bij het vaststellen van het bedrag der in dat artikel bedoelde bijkomende schade wordt rekening gehouden met prijsvoorschriften, die van overheidswege zijn gegeven betreffende zaken waarop de vordering betrekking heeft.
+1. Bij het vaststellen van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002528&artikel=1&z=2024-01-01&g=2024-01-01) bedoelde waarde van de zaak of van het gevorderde recht alsmede bij het vaststellen van het bedrag der in dat artikel bedoelde bijkomende schade wordt rekening gehouden met prijsvoorschriften, die van overheidswege zijn gegeven betreffende zaken waarop de vordering betrekking heeft.
 
 2. Bij zodanige vaststelling wordt geen rekening gehouden met andere voordelen dan prijsstijging, die het gevolg zijn geweest van buitengewone omstandigheden, welke tot toepassing van [artikel 3 van de Vorderingswet 1962](https://wetten.overheid.nl/jci1.3:c:BWBR0002393&artikel=3) (**Stb.** 587) aanleiding hebben gegeven, in het algemeen of van vordering van soortgelijke zaken als waarop de die schade veroorzakende vordering betrekking heeft, in het bijzonder.
 
@@ -84,19 +84,19 @@ In geval van vordering van een recht tot gebruik van een roerende zaak wordt de 
 
 - c. in andere gevallen: op een bedrag, bestaande uit
 
-- 1. een bedrag, over de duur van het recht tot gebruik berekend naar 6% 's jaars van de waarde der zaak, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002528&artikel=3&z=2007-10-31&g=2007-10-31), en
+- 1. een bedrag, over de duur van het recht tot gebruik berekend naar 6% 's jaars van de waarde der zaak, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002528&artikel=3&z=2024-01-01&g=2024-01-01), en
 
 - 2. een vergoeding voor de waardevermindering van de zaak, die bij normaal gebruik tijdens die duur ontstaat.
 
 ##### Artikel 6
 
-1. Een met toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002528&artikel=4&z=2007-10-31&g=2007-10-31) of 5 vastgestelde schadeloosstelling wordt vermeerderd met een vergoeding voor een als gevolg van het gebruik van de zaak ontstane meer dan normale waardevermindering daarvan.
+1. Een met toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002528&artikel=4&z=2024-01-01&g=2024-01-01) of 5 vastgestelde schadeloosstelling wordt vermeerderd met een vergoeding voor een als gevolg van het gebruik van de zaak ontstane meer dan normale waardevermindering daarvan.
 
 2. In dat geval wordt de schadeloosstelling doorbetaald over de tijd, welke redelijkerwijs nodig is voor het herstel van bedoelde waardevermindering, voor zover dit plaatsvindt en dientengevolge het gebruik van de zaak wordt belemmerd.
 
 ##### Artikel 7
 
-Op een met toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002528&artikel=4&z=2007-10-31&g=2007-10-31) of 5 vastgestelde schadeloosstelling wordt in mindering gebracht de waardevermeerdering van de zaak, welke is ontstaan als gevolg van het gebruik daarvan en ten goede komt aan degene, die op die schadeloosstelling recht heeft.
+Op een met toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002528&artikel=4&z=2024-01-01&g=2024-01-01) of 5 vastgestelde schadeloosstelling wordt in mindering gebracht de waardevermeerdering van de zaak, welke is ontstaan als gevolg van het gebruik daarvan en ten goede komt aan degene, die op die schadeloosstelling recht heeft.
 
 ##### Artikel 8
 
