@@ -4,7 +4,7 @@ identifier: "BWBR0014983"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2018-02-06"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014983"
 soort: "ministeriele-regeling"
@@ -84,9 +84,9 @@ Registratie van de resultaten van de metingen voldoet aan de in deel II van de b
 
 ##### Artikel 6
 
-1. De aanvraag om een ontheffing krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0014983&artikel=5&z=2018-02-06&g=2018-02-06) wordt ingediend bij de Autoriteit.
+1. De aanvraag om een ontheffing krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0014983&artikel=5&z=2024-01-01&g=2024-01-01) wordt ingediend bij de Autoriteit.
 
-2. De aanvraag bevat een beschrijving van de door degene die de inrichting drijft, voorgenomen afwijkingen van hetgeen in de bijlage is voorgeschreven omtrent de:
+2. De aanvraag bevat een beschrijving van de door degene die de milieubelastende activiteit verricht, voorgenomen afwijkingen van hetgeen in de bijlage is voorgeschreven omtrent de:
 
 - 1°. te gebruiken meetapparatuur,
 
@@ -140,13 +140,13 @@ Een aangewezen persoon als bedoeld in [artikel 6, eerste lid](https://wetten.ove
 
 **Meten van schroot, aangevoerd per schip in bulk met een handdetector**
 
-Een aangewezen persoon als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014983&artikel=6&z=2018-02-06&g=2018-02-06), van het besluit beschikt over de volgende vaardigheden en bekwaamheden:
+Een aangewezen persoon als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014983&artikel=6&z=2024-01-01&g=2024-01-01), van het besluit beschikt over de volgende vaardigheden en bekwaamheden:
 
 Met een opleiding als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014983&artikel=4&z=2017-08-01&g=2017-08-01), wordt gelijkgesteld een opleiding, gegeven in een andere lidstaat van de Europese Unie, dan wel een staat niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, en die een opleidingsniveau waarborgt dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd.
 
-Als opleidingen als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014983&artikel=4&z=2018-02-06&g=2018-02-06), worden aangewezen:
+Als opleidingen als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014983&artikel=4&z=2024-01-01&g=2024-01-01), worden aangewezen:
 
-Met een opleiding als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014983&artikel=4&z=2018-02-06&g=2018-02-06), wordt gelijkgesteld een opleiding, gegeven in een andere lidstaat van de Europese Unie, dan wel een staat niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, en die een opleidingsniveau waarborgt dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd.
+Met een opleiding als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014983&artikel=4&z=2024-01-01&g=2024-01-01), wordt gelijkgesteld een opleiding, gegeven in een andere lidstaat van de Europese Unie, dan wel een staat niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, en die een opleidingsniveau waarborgt dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd.
 
 **Kraandetector**
 
@@ -212,7 +212,7 @@ Deze regeling berust mede op [artikel 6b van het besluit](https://wetten.overhei
 
 ##### Artikel 1b
 
-Degene die een inrichting drijft met een vergunning krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) of [29 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=29) voor het voorhanden hebben van radioactieve stoffen, splijtstoffen of ertsen, welke vergunning mede omvat het onvoorzien in ontvangst nemen van schroot met een verhoogd stralingsniveau waarbij de kans bestaat dat diegene in het bezit kan komen van radioactieve stoffen, splijtstoffen of ertsen, beschikt over een bedrijfsnoodplan als bedoeld in [artikel 6.7 van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=6.7).
+Degene die een milieubelastende activiteit verricht met een vergunning krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) of [29 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=29) voor het voorhanden hebben van radioactieve stoffen, splijtstoffen of ertsen, welke vergunning mede omvat het onvoorzien in ontvangst nemen van schroot met een verhoogd stralingsniveau waarbij de kans bestaat dat diegene in het bezit kan komen van radioactieve stoffen, splijtstoffen of ertsen, beschikt over een bedrijfsnoodplan als bedoeld in [artikel 6.7 van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=6.7).
 
 ## Bijlage. bij de Regeling detectie radioactief besmet schroot
 
