@@ -4,7 +4,7 @@ identifier: "BWBR0024848"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2014-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024848"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ Besluit:
 
 1. In deze regeling wordt onder Besluit verstaan: [Waterschapsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023025).
 
-2. Indien dit noodzakelijk is voor het inzicht, bedoeld in [artikel 4.3 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=4.3), kan een waterschap van de in de [paragrafen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024848&paragraaf=3&z=2014-01-01&g=2014-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0024848&paragraaf=4&z=2014-01-01&g=2014-01-01) van deze regeling opgenomen bepalingen afwijken.
+2. Indien dit noodzakelijk is voor het inzicht, bedoeld in [artikel 4.3 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=4.3), kan een waterschap van de in de [paragrafen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024848&paragraaf=3&z=2024-01-01&g=2024-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0024848&paragraaf=4&z=2024-01-01&g=2024-01-01) van deze regeling opgenomen bepalingen afwijken.
 
 3. De reden van de in het tweede lid bedoelde afwijking wordt in de toelichting op het desbetreffende onderdeel van de begroting, de jaarverslaggeving en de uitvoeringsinformatie vermeld.
 
@@ -56,7 +56,7 @@ Besluit:
 
 ##### Artikel 2
 
-1. De paragraaf betreffende het EMU-saldo, bedoeld in [artikel 4.22 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=4.22), wordt gespecificeerd overeenkomstig de indeling van het schema dat is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024848&bijlage=1&z=2014-01-01&g=2014-01-01) bij deze regeling.
+1. De paragraaf betreffende het EMU-saldo, bedoeld in [artikel 4.22 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=4.22), wordt gespecificeerd overeenkomstig de indeling van het schema dat is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024848&bijlage=1&z=2024-01-01&g=2024-01-01) bij deze regeling.
 
 2. In de in het eerste lid bedoelde paragraaf, wordt de specificatie van het EMU-saldo opgenomen volgens de begroting van het begrotingsjaar en de begroting van het vorige begrotingsjaar.
 
@@ -66,21 +66,21 @@ Besluit:
 
 Onder de in [artikel 4.24, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=4.24), genoemde kostendragers wordt verstaan:
 
-- a. **watersysteembeheer:** krachtens [artikel 1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=1), opgedragen zorg voor het watersysteem;
+- a. **watersysteembeheer:** krachtens [artikel 1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=1), opgedragen beheer van watersystemen;
 
-- b. **zuiveringsbeheer:** krachtens [artikel 1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=1), opgedragen zorg voor het zuiveren van afvalwater op de voet van [artikel 3.4, eerste lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=3.4);
+- b. **zuiveringsbeheer:** krachtens [artikel 1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=1), opgedragen zuivering van stedelijk afvalwater op de voet van [artikel 2.17, eerste lid, aanhef en onder a, onder 2°, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.17);
 
 - c. **wegenbeheer:** krachtens de [artikelen 15 tot en met 18 van de Wegenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&artikel=15) opgedragen zorg voor wegen.
 
 ##### Artikel 4
 
-De kosten- en opbrengstsoorten, bedoeld in [artikel 4.25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=4.25), [artikel 4.71, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=4.71), en [artikel 4.72, eerste lid, onderdeel a, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=4.72) volgen de indeling die is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024848&bijlage=2&z=2014-01-01&g=2014-01-01) bij deze regeling.
+De kosten- en opbrengstsoorten, bedoeld in [artikel 4.25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=4.25), [artikel 4.71, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=4.71), en [artikel 4.72, eerste lid, onderdeel a, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=4.72) volgen de indeling die is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024848&bijlage=2&z=2024-01-01&g=2024-01-01) bij deze regeling.
 
 #### § 4. Voorschriften ten aanzien van de uitvoeringsinformatie
 
 ##### Artikel 5
 
-Voor de toepassing van de [artikelen 8, tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024848&paragraaf=4&artikel=8&z=2014-01-01&g=2014-01-01) wordt verstaan onder:
+Voor de toepassing van de [artikelen 8, tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024848&paragraaf=4&artikel=8&z=2024-01-01&g=2024-01-01) wordt verstaan onder:
 
 - a. **immateriële vaste activa:** activa die niet stoffelijk zijn en evenmin als financiële vaste activa kunnen worden aangemerkt;
 
@@ -336,7 +336,7 @@ In de staat van vaste schulden, bedoeld in [artikel 4.71, eerste lid, onderdeel 
 
 1. Binnen een maand na afloop van ieder kwartaal verstrekt het dagelijks bestuur van het waterschap de volgende informatie aan het CBS:
 
-- a. de gerealiseerde baten en lasten naar de kosten- en opbrengstsoorten in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024848&bijlage=2&z=2014-01-01&g=2014-01-01) en waarbij de opbrengstsoortgroep 5 als één totaalbedrag wordt vermeld;
+- a. de gerealiseerde baten en lasten naar de kosten- en opbrengstsoorten in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024848&bijlage=2&z=2024-01-01&g=2024-01-01) en waarbij de opbrengstsoortgroep 5 als één totaalbedrag wordt vermeld;
 
 - b. de onttrekkingen en toevoegingen aan reserves die plaatsvinden in het kader van de resultaatsbestemming;
 
@@ -344,11 +344,11 @@ In de staat van vaste schulden, bedoeld in [artikel 4.71, eerste lid, onderdeel 
 
 - d. de bedragen, die zijn kwijtgescholden;
 
-- e. de balansmutaties van de immateriële vaste activa, naar de indeling van [artikel 4.41, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=4.41) waarbij de mutaties worden onderscheiden conform [artikel 8, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024848&paragraaf=4&artikel=8&z=2014-01-01&g=2014-01-01);
+- e. de balansmutaties van de immateriële vaste activa, naar de indeling van [artikel 4.41, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=4.41) waarbij de mutaties worden onderscheiden conform [artikel 8, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024848&paragraaf=4&artikel=8&z=2024-01-01&g=2024-01-01);
 
-- f. de balansmutaties van de materiële vaste activa, naar de indeling van [artikel 4.42, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=4.42) waarbij de mutaties worden onderscheiden conform [artikel 8, vijfde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024848&paragraaf=4&artikel=8&z=2014-01-01&g=2014-01-01);
+- f. de balansmutaties van de materiële vaste activa, naar de indeling van [artikel 4.42, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=4.42) waarbij de mutaties worden onderscheiden conform [artikel 8, vijfde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024848&paragraaf=4&artikel=8&z=2024-01-01&g=2024-01-01);
 
-- g. de balansmutaties van de financiële vaste activa, naar de indeling van [artikel 4.43 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=4.43) en waarbij de mutaties worden onderscheiden conform [artikel 8, zesde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024848&paragraaf=4&artikel=8&z=2014-01-01&g=2014-01-01);
+- g. de balansmutaties van de financiële vaste activa, naar de indeling van [artikel 4.43 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=4.43) en waarbij de mutaties worden onderscheiden conform [artikel 8, zesde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024848&paragraaf=4&artikel=8&z=2024-01-01&g=2024-01-01);
 
 - h. de balansmutaties van de voorraden, naar de indeling van [artikel 4.45 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=4.45) onderscheiden in vermeerderingen en verminderingen;
 
@@ -360,11 +360,11 @@ In de staat van vaste schulden, bedoeld in [artikel 4.71, eerste lid, onderdeel 
 
 - l. de balansmutaties van de overlopende activa, naar de indeling van [artikel 4.49, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=4.49) waarbij de mutaties worden onderscheiden in vermeerderingen en verminderingen;
 
-- m. de balansmutaties van de reserves, naar de indeling van [artikel 4.52, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=4.52) waarbij de mutaties worden onderscheiden conform [artikel 9, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024848&paragraaf=4&artikel=9&z=2014-01-01&g=2014-01-01);
+- m. de balansmutaties van de reserves, naar de indeling van [artikel 4.52, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=4.52) waarbij de mutaties worden onderscheiden conform [artikel 9, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024848&paragraaf=4&artikel=9&z=2024-01-01&g=2024-01-01);
 
-- n. de balansmutaties van de voorzieningen, naar de indeling van [artikel 4.55, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=4.55) waarbij de mutaties worden onderscheiden conform [artikel 10, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024848&paragraaf=4&artikel=10&z=2014-01-01&g=2014-01-01);
+- n. de balansmutaties van de voorzieningen, naar de indeling van [artikel 4.55, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=4.55) waarbij de mutaties worden onderscheiden conform [artikel 10, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024848&paragraaf=4&artikel=10&z=2024-01-01&g=2024-01-01);
 
-- o. de balansmutaties van de vaste schulden, naar de indeling van [artikel 4.56, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=4.56) waarbij de mutaties worden onderscheiden conform [artikel 11, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024848&paragraaf=4&artikel=11&z=2014-01-01&g=2014-01-01);
+- o. de balansmutaties van de vaste schulden, naar de indeling van [artikel 4.56, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=4.56) waarbij de mutaties worden onderscheiden conform [artikel 11, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024848&paragraaf=4&artikel=11&z=2024-01-01&g=2024-01-01);
 
 - p. de balansmutaties van de netto-vlottende schulden, naar de indeling van [artikel 4.58 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=4.58) waarbij de mutaties worden onderscheiden in vermeerderingen en verminderingen;
 
@@ -396,7 +396,7 @@ In de staat van vaste schulden, bedoeld in [artikel 4.71, eerste lid, onderdeel 
 
 1. Jaarlijks voor 15 juli van het jaar volgend op het begrotingsjaar verstrekt het dagelijks bestuur van het waterschap, op basis van de vastgestelde jaarrekening, de volgende informatie aan het CBS:
 
-- a. de informatie, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024848&paragraaf=5&artikel=12&z=2014-01-01&g=2014-01-01), waarbij de opbrengstsoorten 5.1 tot en met 5.7, opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024848&bijlage=2&z=2014-01-01&g=2014-01-01) van deze regeling, als afzonderlijke bedragen worden vermeld en waarbij de gegevens, genoemd in [artikel 12, eerste lid, onderdeel r](https://wetten.overheid.nl/jci1.3:c:BWBR0024848&paragraaf=5&artikel=12&z=2014-01-01&g=2014-01-01), conform de stand van zaken aan het begin en het einde van het begrotingsjaar worden vermeld;
+- a. de informatie, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024848&paragraaf=5&artikel=12&z=2024-01-01&g=2024-01-01), waarbij de opbrengstsoorten 5.1 tot en met 5.7, opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024848&bijlage=2&z=2024-01-01&g=2024-01-01) van deze regeling, als afzonderlijke bedragen worden vermeld en waarbij de gegevens, genoemd in [artikel 12, eerste lid, onderdeel r](https://wetten.overheid.nl/jci1.3:c:BWBR0024848&paragraaf=5&artikel=12&z=2024-01-01&g=2024-01-01), conform de stand van zaken aan het begin en het einde van het begrotingsjaar worden vermeld;
 
 - b. de stand van zaken aan het begin en het einde van het begrotingsjaar betreffende de immateriële vaste activa, naar de indeling van [artikel 4.41, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=4.41);
 
@@ -406,13 +406,13 @@ In de staat van vaste schulden, bedoeld in [artikel 4.71, eerste lid, onderdeel 
 
 - e. de stand van zaken aan het begin en het einde van het begrotingsjaar betreffende de voorzieningen zoals naar de indeling van [artikel 4.55, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=4.55);
 
-- f. de realisatie van netto-kosten naar beleidsproducten, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024848&paragraaf=4&artikel=6&z=2014-01-01&g=2014-01-01);
+- f. de realisatie van netto-kosten naar beleidsproducten, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024848&paragraaf=4&artikel=6&z=2024-01-01&g=2024-01-01);
 
-- g. de ontvangen belastingopbrengsten, oninbaar en kwijtgescholden bedragen ingedeeld naar de indeling van de [opbrengstsoorten 5.1 tot en met 5.7 in bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024848&bijlage=2&z=2014-01-01&g=2014-01-01) van deze regeling;
+- g. de ontvangen belastingopbrengsten, oninbaar en kwijtgescholden bedragen ingedeeld naar de indeling van de [opbrengstsoorten 5.1 tot en met 5.7 in bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024848&bijlage=2&z=2024-01-01&g=2024-01-01) van deze regeling;
 
 - h. de ontvangen belastingopbrengsten, oninbaar en kwijtgescholden bedragen ingedeeld naar de belastingen watersysteemheffing, heffing wegenbeheer en de kosten die op grond van [artikel 120, eerste lid, tweede volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=120), rechtstreeks worden toegerekend aan categorieën van belastingplichtigen, en
 
-- i. de opbouw van het EMU-saldo volgens de indeling van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024848&bijlage=1&z=2014-01-01&g=2014-01-01) van deze regeling.
+- i. de opbouw van het EMU-saldo volgens de indeling van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024848&bijlage=1&z=2024-01-01&g=2024-01-01) van deze regeling.
 
 2. De informatie, bedoeld in [artikel 4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=4.27) en [artikel 4.71, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=4.71) wordt voor 15 juli van het jaar volgend op het begrotingsjaar door het betreffende dagelijks bestuur aan het CBS gezonden.
 
@@ -426,7 +426,7 @@ In de staat van vaste schulden, bedoeld in [artikel 4.71, eerste lid, onderdeel 
 
 - b. de raming van netto-kosten naar beleidsproducten, bedoeld in [artikel 4.71, eerste lid, onderdeel b, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=4.71);
 
-- c. de geraamde bruto-belastingopbrengsten, oninbaar en kwijt te schelden bedragen ingedeeld naar de [opbrengstsoorten 5.1 tot en met 5.7 van bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024848&bijlage=2&z=2014-01-01&g=2014-01-01) van deze regeling;
+- c. de geraamde bruto-belastingopbrengsten, oninbaar en kwijt te schelden bedragen ingedeeld naar de [opbrengstsoorten 5.1 tot en met 5.7 van bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024848&bijlage=2&z=2024-01-01&g=2024-01-01) van deze regeling;
 
 - d. de geraamde bruto-belastingopbrengsten, oninbaar en kwijt te schelden bedragen ingedeeld naar de belastingen watersysteemheffing, heffing wegenbeheer en de kosten die op grond van artikel 120, eerste lid, tweede volzin, van de wet, rechtstreeks worden toegerekend aan categorieën van belastingplichtigen, en
 
@@ -444,7 +444,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 Deze regeling wordt aangehaald als: Regeling beleidsvoorbereiding en verantwoording waterschappen.
 
-## Bijlage 1. bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024848&paragraaf=2&artikel=2&z=2014-01-01&g=2014-01-01) van de Regeling beleidsvoorbereiding en verantwoording waterschappen
+## Bijlage 1. bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024848&paragraaf=2&artikel=2&z=2024-01-01&g=2024-01-01) van de Regeling beleidsvoorbereiding en verantwoording waterschappen
 
 | 1 **Exploitatiesaldo voor bestemming van reserves:** | 1 **Exploitatiesaldo voor bestemming van reserves:** | ............... |
 | --- | --- | --- |
@@ -467,15 +467,56 @@ Deze regeling wordt aangehaald als: Regeling beleidsvoorbereiding en verantwoord
 |   |   |   |
 | **EMU-SALDO** | **EMU-SALDO** | .................. |
 
-## Bijlage 2
+## Bijlage 1. bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024848&paragraaf=2&artikel=2&z=2025-01-01&g=2024-01-01) van de Regeling beleidsvoorbereiding en verantwoording waterschappen
+
+| 1 **Exploitatiesaldo voor bestemming van reserves:** | 1 **Exploitatiesaldo voor bestemming van reserves:** | ............... |
+| --- | --- | --- |
+|   |   |   |
+| 2 **Invloed investeringen (zie staat van vaste activa):** | 2 **Invloed investeringen (zie staat van vaste activa):** |   |
+| -/- | bruto-investeringsuitgaven | -/- ............... |
+| + | investeringsbijdragen | + ............... |
+| + | verkoop van materiële en immateriële vaste activa | + ............... |
+| + | afschrijvingen | + ............... |
+|   |   |   |
+| 3 **Invloed voorzieningen (zie staat van voorzieningen)** | 3 **Invloed voorzieningen (zie staat van voorzieningen)** |   |
+| + | toevoegingen aan voorzieningen t.l.v. exploitatie | + ............... |
+| -/- | onttrekkingen aan voorzieningen t.b.v. exploitatie | -/- ............... |
+| -/- | onttrekkingen rechtstreeks uit voorzieningen | -/- ............... |
+|   |   |   |
+| 4 **Deelnemingen en aandelen:** | 4 **Deelnemingen en aandelen:** |   |
+| -/- | boekwinst | -/- ............... |
+| + | boekverlies | + ............... |
+|   |   |   |
+|   |   |   |
+| **EMU-SALDO** | **EMU-SALDO** | .................. |
 
 ### Onderdeel A
 
-### Kostensoorten
+### Onderdeel A
 
 Wat betreft de kostensoorten luidt de indeling als volgt:
 
 ### Onderdeel B
+
+### Onderdeel B
+
+Wat betreft de opbrengstsoorten luidt de indeling als volgt:
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 4
+
+De kosten- en opbrengstsoorten, bedoeld in de [artikelen 4.74, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=4.74), en [4.75, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=4.75) volgen de indeling die is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024848&bijlage=2&z=2025-01-01&g=2024-01-01) bij deze regeling.
+
+#### § 5. Bijzondere voorschriften ten aanzien van de informatieverstrekking aan derden
+
+#### § 6. Slotbepalingen
+
+## Bijlage 2
+
+### Kostensoorten
+
+Wat betreft de kostensoorten luidt de indeling als volgt:
 
 ### Opbrengstsoorten
 
