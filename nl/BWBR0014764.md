@@ -4,7 +4,7 @@ identifier: "BWBR0014764"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2023-04-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014764"
 soort: "ministeriele-regeling"
@@ -65,7 +65,7 @@ Een erkenning wordt aangevraagd door elektronische of schriftelijke indiening bi
 
 1. De aanvraag voor verlening van een erkenning gaat vergezeld van:
 
-- a. een verklaring waarin de aanvrager aangeeft dat de aangeleverde informatie juist is en dat aan [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014764&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2023-04-01&g=2023-04-01) wordt voldaan;
+- a. een verklaring waarin de aanvrager aangeeft dat de aangeleverde informatie juist is en dat aan [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014764&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2024-01-01&g=2024-01-01) wordt voldaan;
 
 - b. een overzicht van alle medewerkers die in het bezit zijn van een certificaat en per medewerker een afschrift van het geldige certificaat;
 
@@ -77,7 +77,9 @@ Een erkenning wordt aangevraagd door elektronische of schriftelijke indiening bi
 
 - f. indien van toepassing de functionele plaats van de aanvrager in relatie tot de hoofdvestiging;
 
-- g. een omschrijving van de handelingen die betrekking hebben op het vervoer van gevaarlijke stoffen door de lucht.
+- g. een omschrijving van de handelingen die betrekking hebben op het vervoer van gevaarlijke stoffen door de lucht;
+
+- i. indien van toepassing een afschrift van de vigerende omgevingsvergunning op grond van artikel 5.1, tweede lid, aanhef en onder b, van de Omgevingswet voor de opslag van gevaarlijke stoffen.
 
 2. Onverminderd het eerste lid, dient de aanvraag voor verlening van een E-erkenning vergezeld te gaan van een DGOM.
 
@@ -117,7 +119,7 @@ Een erkenning wordt aangevraagd door elektronische of schriftelijke indiening bi
 
 ##### Artikel 4
 
-1. De minister verleent een erkenning, indien voldaan wordt aan [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014764&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2023-04-01&g=2023-04-01), en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014764&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2023-04-01&g=2023-04-01) en de aanvrager aantoont dat hij:
+1. De minister verleent een erkenning, indien voldaan wordt aan [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014764&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2024-01-01&g=2024-01-01), en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014764&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2024-01-01&g=2024-01-01) en de aanvrager aantoont dat hij:
 
 - a. handelingen verricht die verband houden met het vervoer van gevaarlijke stoffen door de lucht als bedoeld in [artikel 6.51 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=6.51);
 
@@ -147,7 +149,7 @@ Op de website van de Inspectie Leefomgeving en Transport wordt een overzicht van
 
 1. Een erkenning wordt gewijzigd, nadat de houder van de erkenning heeft aangetoond, dat hij voldoet aan de eisen, zoals die gelden voor de erkenning, nadat deze is gewijzigd.
 
-2. De [artikelen 2 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014764&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2023-04-01&g=2023-04-01) zijn van overeenkomstige toepassing.
+2. De [artikelen 2 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014764&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2024-01-01&g=2024-01-01) zijn van overeenkomstige toepassing.
 
 ### Hoofdstuk 3. Diverse bepalingen
 
@@ -157,7 +159,7 @@ Indien een erkenninghouder voor de behandeling van gevaarlijke stoffen ten behoe
 
 ##### Artikel 9
 
-Handelen in strijd met [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014764&hoofdstuk=3&artikel=8&z=2023-04-01&g=2023-04-01) vormt een strafbaar feit.
+Handelen in strijd met [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014764&hoofdstuk=3&artikel=8&z=2024-01-01&g=2024-01-01) vormt een strafbaar feit.
 
 ### Hoofdstuk 4. Slotbepalingen
 
@@ -169,7 +171,7 @@ Deze regeling treedt in werking met ingang van 16 maart 2003.
 
 Deze regeling wordt aangehaald als: Regeling erkenningen vervoer gevaarlijke stoffen door de lucht.
 
-## Bijlage. als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014764&hoofdstuk=2&paragraaf=2.2&artikel=5&z=2023-04-01&g=2023-04-01)
+## Bijlage. als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014764&hoofdstuk=2&paragraaf=2.2&artikel=5&z=2024-01-01&g=2024-01-01)
 
 Vervallen
 
