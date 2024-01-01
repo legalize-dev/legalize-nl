@@ -4,7 +4,7 @@ identifier: "BWBR0035861"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-04"
-last_updated: "2019-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035861"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ Besluit:
 
 - h. **centrale verwijzingsindex:** de door de Minister van Justitie en Veiligheid aangewezen systeem- en toepassingsprogrammatuur met behulp waarvan een overzicht kan worden verkregen van de herkenningsdienstgegevens van de politie of van de bijzondere opsporingsdiensten waarin een geregistreerde voorkomt en met behulp waarvan rechtstreekse toegang tot die onderlinge gegevensverwerking kan worden verkregen.
 
-2. De in de [artikelen 6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035861&artikel=6&z=2019-01-01&g=2019-01-01), [7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035861&artikel=7&z=2019-01-01&g=2019-01-01), en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0035861&artikel=8&z=2019-01-01&g=2019-01-01) voorgeschreven handelingen kunnen namens de verantwoordelijke worden verricht door de directeur van de FIOD.
+2. De in de [artikelen 6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035861&artikel=6&z=2025-09-04&g=2024-01-01), [7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035861&artikel=7&z=2025-09-04&g=2024-01-01), en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0035861&artikel=8&z=2025-09-04&g=2024-01-01) voorgeschreven handelingen kunnen namens de verantwoordelijke worden verricht door de directeur van de FIOD.
 
 ##### Artikel 2
 
@@ -98,7 +98,7 @@ Besluit:
 
 ##### Artikel 4
 
-1. Het team criminele inlichtingen FIOD verstrekt criminele inlichtingen aan de andere teams criminele inlichtingen indien dit van belang kan zijn voor de opsporing van misdrijven als bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10). Daartoe wordt gebruikgemaakt van het modelformulier criminele inlichtingen rapport dat is opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0035861&bijlage=I&z=2019-01-01&g=2019-01-01).
+1. Het team criminele inlichtingen FIOD verstrekt criminele inlichtingen aan de andere teams criminele inlichtingen indien dit van belang kan zijn voor de opsporing van misdrijven als bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10). Daartoe wordt gebruikgemaakt van het modelformulier criminele inlichtingen rapport dat is opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0035861&bijlage=I&z=2025-09-04&g=2024-01-01).
 
 2. De verantwoordelijke autoriseert in verband met de [artikelen 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=6), en [46, eerste lid, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=46) en op grond van [artikel 2:5, eerste lid, van het Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:5) de opsporingsambtenaren van het team criminele inlichtingen FIOD voor de verwerking van gegevens als bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10). De autorisatie omvat mede de toegang tot de gegevensbestanden van de teams criminele inlichtingen bij de politie en bij de andere bijzondere opsporingsdiensten.
 
@@ -116,13 +116,13 @@ Besluit:
 
 - d. overige informatie die van belang kan zijn voor de landelijke en internationale coördinatie en ondersteuning door het team nationale criminele inlichtingen.
 
-2. Ter uitvoering van het eerste lid, aanhef en onderdeel b, en met het oog op de verstrekking van de gegevens, genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0035861&bijlage=II&z=2019-01-01&g=2019-01-01), maakt het team criminele inlichtingen FIOD gebruik van de centrale verwijzingsindex.
+2. Ter uitvoering van het eerste lid, aanhef en onderdeel b, en met het oog op de verstrekking van de gegevens, genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0035861&bijlage=II&z=2025-09-04&g=2024-01-01), maakt het team criminele inlichtingen FIOD gebruik van de centrale verwijzingsindex.
 
 ##### Artikel 6
 
 1. De verantwoordelijke draagt ervoor zorg dat de kennis en vaardigheden van de ambtenaren die deel uitmaken van het team criminele inlichtingen FIOD worden onderhouden op ten minste het niveau van de eisen, bedoeld in [artikel 2:9 van het Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:9).
 
-2. De verantwoordelijke bepaalt de termijn gedurende welke de ambtenaar die belast is met de werkzaamheden, bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035861&artikel=3&z=2019-01-01&g=2019-01-01), ononderbroken deel uitmaakt van het team criminele inlichtingen FIOD.
+2. De verantwoordelijke bepaalt de termijn gedurende welke de ambtenaar die belast is met de werkzaamheden, bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035861&artikel=3&z=2025-09-04&g=2024-01-01), ononderbroken deel uitmaakt van het team criminele inlichtingen FIOD.
 
 3. De termijn, bedoeld in het tweede lid, is ten hoogste vier jaar en kan tweemaal met ten hoogste twee jaar worden verlengd.
 
