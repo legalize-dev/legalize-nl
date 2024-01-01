@@ -4,7 +4,7 @@ identifier: "BWBR0029315"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2024-01-01"
-last_updated: "2011-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029315"
 soort: "ministeriele-regeling-BES"
@@ -93,7 +93,7 @@ Indien de werkgever de door de werknemer verschuldigde loon- of inkomstenbelasti
 
 ##### Artikel 7
 
-- 1. Het in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029315&artikel=6&z=2011-01-01&g=2011-01-01), bedoelde verzoek wordt ingediend door de werkgever binnen drie maanden na aanvang van de tewerkstelling van de ex-patriate in de openbare lichamen Bonaire, Sint Eustatius of Saba.
+- 1. Het in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029315&artikel=6&z=2024-01-01&g=2024-01-01), bedoelde verzoek wordt ingediend door de werkgever binnen drie maanden na aanvang van de tewerkstelling van de ex-patriate in de openbare lichamen Bonaire, Sint Eustatius of Saba.
 
 - 2. Het verzoek bevat de volgende gegevens van de werknemer:
 
@@ -115,19 +115,19 @@ Indien de werkgever de door de werknemer verschuldigde loon- of inkomstenbelasti
 
 ##### Artikel 8
 
-- 1. De beschikkingen, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029315&artikel=6&z=2011-01-01&g=2011-01-01), worden geacht niet langer van toepassing te zijn vanaf het moment waarop de dienstbetrekking met de ex-patriate is beëindigd.
+- 1. De beschikkingen, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029315&artikel=6&z=2024-01-01&g=2024-01-01), worden geacht niet langer van toepassing te zijn vanaf het moment waarop de dienstbetrekking met de ex-patriate is beëindigd.
 
 - 2. De werkgever is gehouden binnen een maand na beëindiging van de dienstbetrekking met de ex-patriate dit kenbaar te maken aan de inspecteur.
 
 ##### Artikel 9
 
-- 1. Indien de ex-patriate van werkgever verandert, kan op verzoek van de nieuwe werkgever de werknemer opnieuw als ex-patriate worden aangemerkt voor het nog niet verstreken gedeelte van de in [artikel 6, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029315&artikel=6&z=2011-01-01&g=2011-01-01), bedoelde periode mits de periode tussen de beëindiging van de oorspronkelijke dienstbetrekking en de aanvang van de opvolgende dienstbetrekking niet meer dan drie maanden bedraagt en de opvolgende werkgever kan aantonen dat de regeling op de werknemer van toepassing is geweest alsmede wie de voormalige werkgever van de werknemer is.
+- 1. Indien de ex-patriate van werkgever verandert, kan op verzoek van de nieuwe werkgever de werknemer opnieuw als ex-patriate worden aangemerkt voor het nog niet verstreken gedeelte van de in [artikel 6, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029315&artikel=6&z=2024-01-01&g=2024-01-01), bedoelde periode mits de periode tussen de beëindiging van de oorspronkelijke dienstbetrekking en de aanvang van de opvolgende dienstbetrekking niet meer dan drie maanden bedraagt en de opvolgende werkgever kan aantonen dat de regeling op de werknemer van toepassing is geweest alsmede wie de voormalige werkgever van de werknemer is.
 
 - 2. Het in het eerste lid bedoelde verzoek wordt schriftelijk aan de inspecteur gedaan. De inspecteur beslist bij voor bezwaar vatbare beschikking op dat verzoek.
 
 ##### Artikel 10
 
-De werkgever is gehouden duidelijk gespecificeerd de bestanddelen van het volbelast loon aan te geven alsmede de beloningen in natura en die in contanten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029315&artikel=4&z=2011-01-01&g=2011-01-01).
+De werkgever is gehouden duidelijk gespecificeerd de bestanddelen van het volbelast loon aan te geven alsmede de beloningen in natura en die in contanten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029315&artikel=4&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 11
 
@@ -137,7 +137,7 @@ De werkgever is gehouden duidelijk gespecificeerd de bestanddelen van het volbel
 
 - b. het nalaten inlichtingen te verschaffen die voor de uitvoering van deze regeling noodzakelijk zijn.
 
-- 2. Indien één of meer van de in het eerste lid genoemde feiten zich voordoet worden de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029315&artikel=4&z=2011-01-01&g=2011-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0029315&artikel=5&z=2011-01-01&g=2011-01-01), en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0029315&artikel=9&z=2011-01-01&g=2011-01-01) geacht nimmer van toepassing te zijn geweest ten aanzien van de desbetreffende werknemer.
+- 2. Indien één of meer van de in het eerste lid genoemde feiten zich voordoet worden de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029315&artikel=4&z=2024-01-01&g=2024-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0029315&artikel=5&z=2024-01-01&g=2024-01-01), en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0029315&artikel=9&z=2024-01-01&g=2024-01-01) geacht nimmer van toepassing te zijn geweest ten aanzien van de desbetreffende werknemer.
 
 ##### Artikel 12
 
@@ -149,17 +149,7 @@ De werkgever is gehouden duidelijk gespecificeerd de bestanddelen van het volbel
 
 ##### Artikel 14
 
-- 1. De werknemer die op grond van:
-
-- a. de in het voormalige land Nederlandse Antillen geldende Beschikking ex-patriates 1998 of Beschikking ex-patriates St. Eustatius 2005;
-
-- b. de in de overgangsperiode als ministeriële regeling van toepassing zijnde Beschikking ex-patriates 1998 of Beschikking ex-patriates St. Eustatius 2005; als ex-patriate is aangemerkt, wordt voor de toepassing van deze regeling geacht bij beschikking van de inspecteur te zijn aangemerkt als ex-patriate.
-
-- 2. In afwijking in zoverre van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029315&artikel=6&z=2011-01-01&g=2011-01-01), bedraagt de periode waarin de werknemer geacht wordt als ex-patriate als bedoeld in het eerste lid te zijn aangemerkt, vijf jaren verminderd met de periode waarover de werknemer reeds als ex-patriate is aangemerkt op grond van:
-
-- a. de in het voormalige land Nederlandse Antillen geldende Beschikking ex-patriates 1998 of Beschikking ex-patriates St. Eustatius 2005;
-
-- b. de in de overgangsperiode als ministeriële regeling van toepassing zijnde Beschikking ex-patriates 1998 of Beschikking ex-patriates St. Eustatius 2005.
+Vervallen
 
 ##### Artikel 15
 
