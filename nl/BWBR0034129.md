@@ -4,7 +4,7 @@ identifier: "BWBR0034129"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2013-12-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034129"
 soort: "ministeriele-regeling"
@@ -68,6 +68,8 @@ In deze beschikking wordt verstaan onder:
 
 2. Aan de concessieverlening worden de voorwaarden verbonden die in deze beschikking zijn vermeld.
 
+3. De concessie wordt met ingang van 1 januari 2024 verlengd met een periode van drie jaar.
+
 ##### Artikel 3. Naamvoering
 
 De concessiehouder treedt bij het verrichten van de universele postdiensten op onder de naam Flamingo Express Dutch Caribbean.
@@ -82,24 +84,27 @@ De concessiehouder voldoet aan de verplichtingen die voor hem gelden op grond va
 
 ##### Artikel 6. Frequentie en overkomstduur
 
-1. De concessiehouder haalt ten minste drie dagen per week poststukken op uit de voor het publiek bestemde brievenbussen en voert ten minste drie dagen per week overal in Caribisch Nederland een bestelling uit, behoudens voor zover:
+1. De concessiehouder haalt ten minste drie dagen per week poststukken op uit de voor het publiek bestemde brievenbussen en voert ten minste drie dagen per week overal in Caribisch Nederland een aflevering uit, behoudens voor zover:
 
-- a. de dag waarop volgens de overeenkomstig [artikel 14, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0034129&artikel=14&z=2013-12-01&g=2013-12-01), bekend gemaakte schema’s poststukken uit de voor het publiek bestemde brievenbussen worden opgehaald onderscheidenlijk poststukken worden besteld, valt op een algemeen erkende feestdag, of
+- a. de dag waarop volgens de op grond van [artikel 14, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0034129&artikel=14&z=2024-01-01&g=2024-01-01), bekendgemaakte publieksinformatie poststukken uit de voor het publiek bestemde brievenbussen worden opgehaald onderscheidenlijk poststukken worden afgeleverd, valt op een algemeen erkende feestdag, of
 
 - b. de concessiehouder daartoe vanwege overmacht niet in staat is.
 
-2. De universele postdiensten worden zodanig ingericht dat, daargelaten een situatie van overmacht van de concessiehouder, het vervoer van brieven die overeenkomstig de daartoe gestelde voorwaarden aan hem worden aangeboden voor standaard postvervoer binnen Caribisch Nederland per kalenderjaar voor het hierna vermelde percentage plaats vindt binnen de hierna genoemde termijn:
+2. De universele postdiensten worden zodanig ingericht dat, daargelaten een situatie van overmacht van de concessiehouder, het vervoer van brieven die overeenkomstig de daartoe gestelde voorwaarden aan hem worden aangeboden voor standaard postvervoer binnen Caribisch Nederland per kalenderjaar voor het hierna vermelde percentage plaatsvindt binnen de hierna genoemde termijn:
 
-| Postvervoer | Prestatie gedurende het eerste en het tweede jaar van de periode waarvoor de concessie is verleend | Prestatie gedurende het derde, vierde en vijfde jaar van de periode waarvoor de concessie is verleend | Prestatie gedurende de resterende periode van de concessie (vanaf vijf jaar) |
-| --- | --- | --- | --- |
-| Eilandelijk (binnen het eilandgebied) | 85% D + 2E | 90% D + 2E | 96% D + 2E |
-| Intereilandelijk (vervoer tussen de eilanden) | 30% D + 3E 80% D + 4E | 50% D + 3E 85% D + 4E | 80% D + 3E 90% D + 4E |
+| Postvervoer | Prestatie gedurende de periode van de concessie | Streefnorm gedurende de periode van de concessie |
+| --- | --- | --- |
+|   |   |   |
+| Eilandelijk (binnen het eilandgebied) | 80% D + 2E 95% D + 4E |   |
+| Intereilandelijk (vervoer tussen de eilanden) |   | 80% D + 15E |
 
-waarbij met ‘D’ wordt bedoeld: de dag en het tijdstip waarop volgens het overeenkomstig [artikel 14, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034129&artikel=14&z=2013-12-01&g=2013-12-01), bekend gemaakte schema poststukken van de voor het publiek bestemde brievenbussen worden opgehaald, en
+waarbij met ‘D’ wordt bedoeld: de dag en het tijdstip waarop volgens de op grond van [artikel 14, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034129&artikel=14&z=2024-01-01&g=2024-01-01), bekendgemaakte publieksinformatie poststukken uit de voor het publiek bestemde brievenbussen worden opgehaald, en
 
-waarbij met ‘E’ wordt bedoeld: een dag uitgezonderd een zondag of een algemeen erkende feestdag.
+waarbij met ‘E’ wordt bedoeld: een dag uitgezonderd een zaterdag, zondag of een algemeen erkende feestdag.
 
 3. In geval van overmacht als bedoeld in het eerste en tweede lid, kan de minister aanwijzingen geven met betrekking tot de uitvoering van de universele postdiensten.
+
+4. De concessiehouder draagt zorg voor transparante en duidelijke voorlichting aan klanten over de overkomstduur en het belang van tijdige aanlevering van poststukken in geval van intereilandelijke postvervoer.
 
 ##### Artikel 7. Voor het publiek bestemde brievenbussen
 
@@ -115,7 +120,7 @@ De concessiehouder heeft op elk van de eilanden ten minste één dienstverlening
 
 ##### Artikel 10. Onbestelbare poststukken
 
-1. De concessiehouder spant zich in om poststukken bij de geadresseerde te bestellen in gevallen waarin het poststuk onjuist of onvolledig is geadresseerd of waarin de geadresseerde niet beschikt over een brievenbus of postbus.
+1. De concessiehouder spant zich in om poststukken bij de geadresseerde af te leveren in gevallen waarin het poststuk onjuist of onvolledig is geadresseerd of waarin de geadresseerde niet beschikt over een brievenbus of postbus.
 
 2. De concessiehouder zendt onbestelbare zendingen zo spoedig mogelijk terug naar de afzender.
 
@@ -149,7 +154,7 @@ De concessiehouder maakt algemeen bekend:
 
 - b. de dagen van de week en de desbetreffende tijdstippen waarop poststukken van de voor het publiek bestemde brievenbussen worden opgehaald;
 
-- c. de dagen van de week waarop poststukken worden besteld;
+- c. de dagen van de week waarop poststukken worden afgeleverd;
 
 - d. de termijn waarbinnen in de regel het vervoer van poststukken voor de onderscheidenlijke universele postdiensten plaatsvindt;
 
@@ -157,7 +162,7 @@ De concessiehouder maakt algemeen bekend:
 
 - f. de procedure voor de indiening en behandeling van klachten over de uitvoering van de universele postdiensten, en
 
-- g. de in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034129&artikel=13&z=2013-12-01&g=2013-12-01), bedoelde algemene voorwaarden.
+- g. de in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034129&artikel=13&z=2024-01-01&g=2024-01-01), bedoelde algemene voorwaarden.
 
 ##### Artikel 15. Klachten
 
@@ -165,7 +170,7 @@ De concessiehouder maakt algemeen bekend:
 
 2. De concessiehouder registreert klachten en voorziet in een procedure voor de behandeling van klachten van afzenders en ontvangers over de door hem uitgevoerde universele postdiensten.
 
-3. De in het eerste lid bedoelde voorziening en de in het tweede lid bedoelde procedure worden beschreven in de algemene voorwaarden, bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034129&artikel=13&z=2013-12-01&g=2013-12-01).
+3. De in het eerste lid bedoelde voorziening en de in het tweede lid bedoelde procedure worden beschreven in de algemene voorwaarden, bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034129&artikel=13&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 16. Briefgeheim
 
@@ -221,15 +226,15 @@ De concessiehouder houdt een zodanige administratie bij dat:
 
 - –. kostensoort, waaronder de loonkosten en de pensioenlasten;
 
-- c. de voor de in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034129&artikel=6&z=2013-12-01&g=2013-12-01), bedoelde postdiensten gerealiseerde gemiddelde overkomstduur;
+- c. de voor de in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034129&artikel=6&z=2024-01-01&g=2024-01-01), bedoelde postdiensten gerealiseerde gemiddelde overkomstduur en de wijze waarop de concessiehouder invulling heeft gegeven aan de doelstelling voor intereilandelijk postvervoer;
 
 - d. het aantal voor het publiek bestemde brievenbussen, uitgesplitst per eiland;
 
-- e. een financiële verantwoording over de activiteiten die ter uitvoering van de universele postdiensten zijn verricht die is gebaseerd op de boekhouding, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0034129&artikel=18&z=2013-12-01&g=2013-12-01).
+- e. een financiële verantwoording over de activiteiten die ter uitvoering van de universele postdiensten zijn verricht die is gebaseerd op de boekhouding, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0034129&artikel=18&z=2024-01-01&g=2024-01-01).
 
-3. De minister kan aanwijzingen geven over de wijze waarop de voor de in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034129&artikel=6&z=2013-12-01&g=2013-12-01), bedoelde postdiensten gerealiseerde gemiddelde overkomstduur wordt vastgesteld.
+3. De minister kan aanwijzingen geven over de wijze waarop de voor de in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034129&artikel=6&z=2024-01-01&g=2024-01-01), bedoelde postdiensten gerealiseerde gemiddelde overkomstduur wordt vastgesteld.
 
-4. De in het tweede lid bedoelde rapportage gaat vergezeld van een goedkeurende accountantsverklaring over de juistheid en volledigheid betreffende de op grond van het tweede lid verstrekte informatie en betreffende de naleving van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0034129&artikel=18&z=2013-12-01&g=2013-12-01).
+4. De in het tweede lid bedoelde rapportage gaat vergezeld van een goedkeurende accountantsverklaring over de juistheid en volledigheid betreffende de op grond van het tweede lid verstrekte informatie en betreffende de naleving van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0034129&artikel=18&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 21. Toezichtskosten
 
