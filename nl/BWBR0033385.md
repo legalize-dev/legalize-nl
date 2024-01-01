@@ -4,7 +4,7 @@ identifier: "BWBR0033385"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2020-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033385"
 soort: "AMvB"
@@ -52,13 +52,13 @@ De officier van justitie bij het landelijk parket is belast met de vervolging va
 
 - a. misdrijven die gezien hun ernst of frequentie dan wel het georganiseerd verband waarin deze worden gepleegd een ernstige inbreuk op de rechtsorde maken en voor de bestrijding waarvan een hoge mate van gespecialiseerde deskundigheid noodzakelijk is;
 
-- b. misdrijven die in nationaal of internationaal verband worden gepleegd en waarvoor vervolging door het landelijk parket in aanmerking komt, gezien de taakverdeling tussen de regionale eenheden van de politie en een dienst van de landelijke eenheid van politie die tot taak heeft:
+- b. misdrijven die in nationaal of internationaal verband worden gepleegd en waarvoor vervolging door het landelijk parket in aanmerking komt, gezien de taakverdeling tussen de regionale eenheden van de politie en een dienst van een landelijke eenheid van politie die tot taak heeft:
 
 - 1°. het binnen vooraf door het bevoegd gezag vastgestelde aandachtsgebieden verrichten van onderzoeken naar zware en georganiseerde criminaliteit die naar aard of organisatie een landelijk of internationaal karakter hebben en die de rechtsstaat in ernstige mate bedreigen;
 
-- 2°. het afhandelen van gecompliceerde internationale rechtshulpverzoeken op de door het bevoegd gezag aangewezen aandachtsgebieden van de betreffende dienst van de landelijke eenheid van politie en van gecompliceerde rechtshulpverzoeken die niet zijn terug te brengen op een specifieke regionale eenheid van politie of opsporingsinstantie;
+- 2°. het afhandelen van gecompliceerde internationale rechtshulpverzoeken op de door het bevoegd gezag aangewezen aandachtsgebieden van de betreffende dienst van een landelijke eenheid van politie en van gecompliceerde rechtshulpverzoeken die niet zijn terug te brengen op een specifieke regionale eenheid van politie of opsporingsinstantie;
 
-- 3°. het verrichten van onderzoeken van nationaal belang zoals die door het bevoegd gezag als zodanig zijn aangewezen en die naar aard of methodiek aansluiten bij de betreffende dienst van de landelijke eenheid van politie.
+- 3°. het verrichten van onderzoeken van nationaal belang zoals die door het bevoegd gezag als zodanig zijn aangewezen en die naar aard of methodiek aansluiten bij de betreffende dienst van een landelijke eenheid van politie.
 
 ##### Artikel 2
 
