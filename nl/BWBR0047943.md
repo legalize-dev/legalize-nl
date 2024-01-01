@@ -4,7 +4,7 @@ identifier: "BWBR0047943"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2023-04-19"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047943"
 soort: "wet"
@@ -139,7 +139,7 @@ Onze Minister van Economische Zaken en Klimaat is het verbindingsbureau als bedo
 
 ##### Artikel 3.1. (Inwerkingtreding)
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. In dat besluit kan worden bepaald dat [artikel 2.14, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0047943&hoofdstuk=2&artikel=2.14&z=2023-04-19&g=2023-04-19), van deze wet terugwerkt tot en met 2 maart 2022.
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. In dat besluit kan worden bepaald dat [artikel 2.14, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0047943&hoofdstuk=2&artikel=2.14&z=2024-01-01&g=2024-01-01), van deze wet terugwerkt tot en met 2 maart 2022.
 
 ##### Artikel 3.2. (samenloopbepaling)
 
@@ -147,7 +147,7 @@ Wijzigt deze wet of de Invoeringswet Omgevingswet.
 
 ##### Artikel 3.3. (Omhangbepaling ten behoeve van [Besluit etikettering energiegebruik personenauto’s](https://wetten.overheid.nl/jci1.3:c:BWBR0011761))
 
-Na inwerkingtreding van [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0047943&hoofdstuk=2&artikel=2.6&z=2023-04-19&g=2023-04-19) berust het [Besluit etikettering energiegebruik personenauto’s](https://wetten.overheid.nl/jci1.3:c:BWBR0011761) in plaats van op [artikel 13 van de Wet uitvoering EU-handelingen energie-efficiëntie](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&artikel=13) en [artikel 4b van de Wegenverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4b), op de artikelen 4b en [34 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=34).
+Na inwerkingtreding van [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0047943&hoofdstuk=2&artikel=2.6&z=2024-01-01&g=2024-01-01) berust het [Besluit etikettering energiegebruik personenauto’s](https://wetten.overheid.nl/jci1.3:c:BWBR0011761) in plaats van op [artikel 13 van de Wet uitvoering EU-handelingen energie-efficiëntie](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&artikel=13) en [artikel 4b van de Wegenverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4b), op de artikelen 4b en [34 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=34).
 
 ##### Artikel 3.4. (Citeertitel)
 
