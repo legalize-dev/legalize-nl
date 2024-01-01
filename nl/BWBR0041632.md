@@ -4,7 +4,7 @@ identifier: "BWBR0041632"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2020-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041632"
 soort: "AMvB"
@@ -92,31 +92,31 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4. [infiltratieteam politie]
 
-1. Er is tenminste één infiltratieteam bij de landelijke eenheid van de politie, bedoeld in [artikel 25, eerste lid, onderdeel b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25).
+1. Er is tenminste één infiltratieteam bij de Eenheid landelijke opsporing en interventies.
 
-2. Bij de landelijke eenheid is een team dat is belast met de operationele ondersteuning van infiltratieteams van de landelijke eenheid van de politie.
+2. Bij de Eenheid landelijke opsporing en interventies is een team dat is belast met de operationele ondersteuning van infiltratieteams van de Eenheid landelijke opsporing en interventies van de politie.
 
 ##### Artikel 5. [infiltratieteam Koninklijke Marechaussee]
 
 1. Onze Ministers van Justitie en Veiligheid en van Defensie kunnen gezamenlijk besluiten tot het oprichten van een infiltratieteam bij de Koninklijke Marechaussee.
 
-2. Het infiltratieteam bij de Koninklijke Marechaussee werkt samen met het team van de landelijke eenheid, dat is belast met de operationele ondersteuning van de infiltratieteams. Onze Ministers van Justitie en Veiligheid en van Defensie kunnen hierover voorschriften opstellen.
+2. Het infiltratieteam bij de Koninklijke Marechaussee werkt samen met het team van de Eenheid landelijke opsporing en interventies, dat is belast met de operationele ondersteuning van de infiltratieteams. Onze Ministers van Justitie en Veiligheid en van Defensie kunnen hierover voorschriften opstellen.
 
 ##### Artikel 6. [infiltratieteam Fiscale inlichtingen- en opsporingsdienst]
 
 1. Onze Ministers van Justitie en Veiligheid en van Financiën kunnen gezamenlijk besluiten tot het oprichten van een infiltratieteam bij de Fiscale inlichtingen- en opsporingsdienst.
 
-2. Het infiltratieteam bij de Fiscale inlichtingen- en opsporingsdienst werkt samen met het team van de landelijke eenheid, dat is belast met de operationele ondersteuning van de infiltratieteams. Onze Ministers van Justitie en Veiligheid en van Financiën kunnen hierover voorschriften opstellen.
+2. Het infiltratieteam bij de Fiscale inlichtingen- en opsporingsdienst werkt samen met het team van de Eenheid landelijke opsporing en interventies, dat is belast met de operationele ondersteuning van de infiltratieteams. Onze Ministers van Justitie en Veiligheid en van Financiën kunnen hierover voorschriften opstellen.
 
 ##### Artikel 7. [verantwoordelijkheden infiltratieteams]
 
-1. De hoofden van de infiltratieteams, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041632&artikel=5&z=2020-01-01&g=2020-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0041632&artikel=6&z=2020-01-01&g=2020-01-01), en het hoofd van het team van de landelijke eenheid, dat is belast met de operationele ondersteuning van de infiltratieteams, zijn verantwoordelijk voor:
+1. De hoofden van de infiltratieteams, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041632&artikel=5&z=2024-01-01&g=2024-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0041632&artikel=6&z=2024-01-01&g=2024-01-01), en het hoofd van het team van de Eenheid landelijke opsporing en interventies, dat is belast met de operationele ondersteuning van de infiltratieteams, zijn verantwoordelijk voor:
 
 - a. de selectie en opleiding van kandidaat-leden voor een infiltratieteam;
 
 - b. de ondersteuning van dekmantelwerkzaamheden; en
 
-- c. de coördinatie van dekmantelwerkzaamheden waaronder het registreren van de bevelen, bedoeld in [artikel 1, onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0041632&artikel=1&z=2020-01-01&g=2020-01-01).
+- c. de coördinatie van dekmantelwerkzaamheden waaronder het registreren van de bevelen, bedoeld in [artikel 1, onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0041632&artikel=1&z=2024-01-01&g=2024-01-01).
 
 2. Het verzorgen van tijdelijke identiteiten als bedoeld in [artikel 44 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=44) en de coördinatie van internationale rechtshulpverzoeken tot infiltratie, pseudo-koop of -dienstverlening of stelselmatige inwinning van informatie is voorbehouden aan het hoofd van het team van de landelijke eenheid, bedoeld in het eerste lid.
 
@@ -124,7 +124,7 @@ In dit besluit wordt verstaan onder:
 
 1. Een opsporingsambtenaar als bedoeld in de [artikelen 141, onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), en [142, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142) die geen lid is van een infiltratieteam kan worden belast met de uitvoering van een bevel tot infiltratie of tot stelselmatige inwinning van informatie, indien hij beschikt over de specifieke kennis en vaardigheden, benodigd voor de uitvoering van het bevel.
 
-2. Het hoofd van het team van de landelijke eenheid dat is belast met de operationele ondersteuning van de infiltratieteams, of het hoofd van een infiltratieteam als bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041632&artikel=5&z=2020-01-01&g=2020-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0041632&artikel=6&z=2020-01-01&g=2020-01-01), beoordeelt of een opsporingsambtenaar beschikt over de specifieke kennis en vaardigheden, benodigd voor de uitvoering van het bevel, en adviseert de officier van justitie terzake.
+2. Het hoofd van het team van de Eenheid landelijke opsporing en interventies dat is belast met de operationele ondersteuning van de infiltratieteams, of het hoofd van een infiltratieteam als bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041632&artikel=5&z=2024-01-01&g=2024-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0041632&artikel=6&z=2024-01-01&g=2024-01-01), beoordeelt of een opsporingsambtenaar beschikt over de specifieke kennis en vaardigheden, benodigd voor de uitvoering van het bevel, en adviseert de officier van justitie terzake.
 
 3. Indien de opsporingsambtenaar wordt belast met de uitvoering van een bevel tot infiltratie, wordt hij, gedurende de periode die nodig is voor de uitvoering van het bevel, begeleid door een begeleider van een infiltratieteam. Hij wordt niet belast met de uitvoering van een bevel tot infiltratie dan nadat door of namens Onze Minister onder wiens verantwoordelijkheid hij werkzaam is hiervoor toestemming is gegeven.
 
@@ -138,7 +138,7 @@ In dit besluit wordt verstaan onder:
 
 - b. beschikt over de kennis en vaardigheden, benodigd voor de uitvoering van het bevel.
 
-2. Indien de persoon in de openbare dienst van een vreemde staat wordt belast met de uitvoering van een bevel tot infiltratie, tot pseudo-koop of -dienstverlening of tot stelselmatige inwinning van informatie beoordeelt het hoofd van het team van de landelijke eenheid, dat is belast met de operationele ondersteuning van de infiltratieteams, of voldaan wordt aan het vereiste in het eerste lid, onderdeel b, en adviseert hij de officier van justitie terzake. Indien nodig stemt hij dit af met het desbetreffende hoofd van een infiltratieteam als bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041632&artikel=5&z=2020-01-01&g=2020-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0041632&artikel=6&z=2020-01-01&g=2020-01-01).
+2. Indien de persoon in de openbare dienst van een vreemde staat wordt belast met de uitvoering van een bevel tot infiltratie, tot pseudo-koop of -dienstverlening of tot stelselmatige inwinning van informatie beoordeelt het hoofd van het team van de Eenheid landelijke opsporing en interventies, dat is belast met de operationele ondersteuning van de infiltratieteams, of voldaan wordt aan het vereiste in het eerste lid, onderdeel b, en adviseert hij de officier van justitie terzake. Indien nodig stemt hij dit af met het desbetreffende hoofd van een infiltratieteam als bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041632&artikel=5&z=2024-01-01&g=2024-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0041632&artikel=6&z=2024-01-01&g=2024-01-01).
 
 3. Een persoon in de openbare dienst van een vreemde staat wordt niet belast met de uitvoering van een bevel als bedoeld in het eerste lid, indien de officier van justitie tot het oordeel komt dat de ambtsinstructie waaraan die persoon gebonden is, terzake van die uitvoering niet verenigbaar is met het in Nederland geldende recht.
 
