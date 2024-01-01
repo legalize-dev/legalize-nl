@@ -4,7 +4,7 @@ identifier: "BWBR0042732"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2022-04-22"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042732"
 soort: "wet"
@@ -57,13 +57,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt het Burgerlijk Wetboek Boek 7.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IV
 
 Wijzigt de Overgangswet nieuw Burgerlijk Wetboek.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel V
 
@@ -72,5 +68,7 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat
 ##### Artikel VI
 
 Deze wet wordt aangehaald als: Wet kwaliteitsborging voor het bouwen.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
