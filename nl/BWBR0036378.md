@@ -4,7 +4,7 @@ identifier: "BWBR0036378"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2021-12-15"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036378"
 soort: "ministeriele-regeling"
@@ -170,67 +170,69 @@ Deze regeling wordt aangehaald als: Regeling gebruik van frequentieruimte zonder
 
 ### Subcategorie 1. : radioapparaten bestemd voor koordloze telefonie
 
+### Subcategorie 1. : radioapparaten bestemd voor koordloze telefonie
+
 ### Subcategorie 2. : radioapparaten bestemd voor DECT
 
-### Bijlage 2: behorend bij [artikel 2, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2021-12-15&g=2021-12-15)
-
-### Mobiel elektronisch communicatienetwerk met laag vermogen
+### Bijlage 2: behorend bij [artikel 2, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2024-01-01&g=2024-01-01)
 
 (Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
 
 ### Bijlage 3. Behorend bij [artikel 2, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2021-12-15&g=2021-12-15)
 
-### radioapparaten bestemd voor CB
+### Bijlage 3. Behorend bij [artikel 2, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2024-01-01&g=2024-01-01)
 
 (Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
 
 ### Bijlage 4, behorend bij [artikel 2, tweede lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2021-12-15&g=2021-12-15)
 
-### radioapparaten bestemd voor PMR446
+### Bijlage 4, behorend bij [artikel 2, tweede lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2024-01-01&g=2024-01-01)
 
 (Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
 
 ### Bijlage 5, behorend bij [artikel 2, tweede lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2021-12-15&g=2021-12-15)
 
-### radioapparaten bestemd voor satellietgrondstations, zijnde LEST, HEST of VSAT
+### Bijlage 5, behorend bij [artikel 2, tweede lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2024-01-01&g=2024-01-01)
 
 (Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
 
 ### Bijlage 6. Behorend bij [artikel 2, tweede lid, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2021-12-15&g=2021-12-15)
 
-### radioapparaten bestemd voor een mobiel elektronisch communicatienetwerk aan boord van luchtvaartuigen (basisstations)
+### Bijlage 6. Behorend bij [artikel 2, tweede lid, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2024-01-01&g=2024-01-01)
 
 (Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
 
 ### Bijlage 7, behorend bij [artikel 2, tweede lid, onder k](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2021-12-15&g=2021-12-15)
 
-### radioapparaten die onderdeel uitmaken van, dan wel bestemd zijn voor aansluiting op, een mobiel elektronisch communicatienetwerk (basisstation) aan boord van schepen
+### Bijlage 7, behorend bij [artikel 2, tweede lid, onder k](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2024-01-01&g=2024-01-01)
 
 (Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
 
 ### Bijlage 8, behorend bij [artikel 2, tweede lid, onder l](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2021-12-15&g=2021-12-15)
 
-### radioapparaten bestemd voor vaste verbindingen over korte afstand
+### Bijlage 8, behorend bij [artikel 2, tweede lid, onder l](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2024-01-01&g=2024-01-01)
 
 (Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
 
 ### Bijlage 9, behorend bij [artikel 2, tweede lid, onder m](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2021-12-15&g=2021-12-15)
 
-### radioapparaten bestemd voor aansluiting op een elektronisch communicatienetwerk dat gebruik maakt van frequentieruimte in de band 2500 – 2690 MHz, voor zover voor het gebruik van de door dat netwerk gebruikte frequentieruimte een vergunning is verleend
+### Bijlage 9, behorend bij [artikel 2, tweede lid, onder m](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2024-01-01&g=2024-01-01)
 
 (Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
 
 ### Bijlage 10, behorend bij [artikel 2, tweede lid, onder n](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2021-12-15&g=2021-12-15)
 
-### radioapparaten bestemd voor Maritiem mobiel gebruik
+### Bijlage 10, behorend bij [artikel 2, tweede lid, onder n](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2024-01-01&g=2024-01-01)
 
 (Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
 
 ### Bijlage 11, behorend bij [artikel 2, tweede lid, onder o](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2021-12-15&g=2021-12-15)
 
-### Korteafstandapparatuur
+### Bijlage 11, behorend bij [artikel 2, tweede lid, onder o](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2024-01-01&g=2024-01-01)
 
 (Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
+
+### Subcategorie 1. : radioapparaten bestemd voor telemetrie, telecommand, alarmering, data in het algemeen en andere soortgelijke toepassingen (Non specific SRD)
 
 ### Subcategorie 1. : radioapparaten bestemd voor telemetrie, telecommand, alarmering, data in het algemeen en andere soortgelijke toepassingen (Non specific SRD)
 
@@ -260,13 +262,11 @@ Deze regeling wordt aangehaald als: Regeling gebruik van frequentieruimte zonder
 
 ### Subcategorie 14. : radioapparaten bestemd voor meteruitlezing
 
-### Bijlage 12, behorend bij [artikel 2, tweede lid, onder p](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2021-12-15&g=2021-12-15)
-
 (Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
 
 ### Subcategorie 1. Generiek UWB-gebruik
 
-### Subcategorie 2. Locatiebepalingssystemen type 1 (LT1)
+### Subcategorie 1. Generiek UWB-gebruik
 
 ### Subcategorie 3. In voertuigen en spoorwegvoertuigen geïnstalleerde UWB-apparatuur
 
@@ -276,17 +276,17 @@ Deze regeling wordt aangehaald als: Regeling gebruik van frequentieruimte zonder
 
 ### Subcategorie 3. In voertuigen en spoorwegvoertuigen geïnstalleerde UWB-apparatuur
 
-### 5.1. Materiaaldetectieapparatuur
+### Subcategorie 3. In voertuigen en spoorwegvoertuigen geïnstalleerde UWB-apparatuur
+
+(1) De ‘low duty cycle’-mitigatietechniek (LDC) en de bijbehorende grenswaarden zijn vastgelegd in ETSI-norm EN 302 065-3.
 
 (2) De ‘detect and avoid’-mitigatietechniek (DAA) en de bijbehorende grenswaarden zijn vastgelegd in ETSI-norm EN 302 065-3.
-
-(3) De ‘transmit power control’-mitigatietechniek (TPC) en de bijbehorende grenswaarden zijn vastgelegd in ETSI-norm EN 302 065-3.
 
 ### 5.2 Apparatuur voor de analyse van bouwmaterialen (BMA-apparatuur)
 
 ### Subcategorie 4. Uwb aan boord van vliegtuigen
 
-### Subcategorie 7. Grond- en muur indringende radar
+### Subcategorie 4. Uwb aan boord van vliegtuigen
 
 ### Subcategorie 8. Industriële niveau meetradar (Level Probing Radar: LPR)
 
@@ -296,23 +296,25 @@ Deze regeling wordt aangehaald als: Regeling gebruik van frequentieruimte zonder
 
 ### Subcategorie 5. Materiaal detectieapparatuur die gebruikmaakt van UWB-technologie
 
+### Subcategorie 5. Materiaal detectieapparatuur die gebruikmaakt van UWB-technologie
+
 ### 5.1. Materiaaldetectieapparatuur
 
-### Duty-cycle
+In het kader van deze beschikking toegestane materiaaldetectieapparatuur voldoet aan de volgende vereisten:
 
 Emissies die worden uitgestraald door in het kader van deze beschikking toegestane materiaaldetectieapparatuur dienen tot een minimum te zijn beperkt en mogen in geen geval de in de onderstaande tabel vastgelegde e.i.r.p.-dichtheidsgrenswaarden overschrijden. De naleving van de in de onderstaande tabel vastgelegde grenswaarden voor niet-vaste installaties (toepassing B) moet worden gewaarborgd bij gebruik van de apparatuur op een representatieve structuur die uit het te onderzoeken materiaal bestaat (bijvoorbeeld een representatieve muur als bepaald in ETSI En 302 435-1 of ETSI EN 302 498-1).
-
-Het piekvermogen (in dBm) gemeten binnen een bandbreedte van 50 MHz moet onder een grenswaarde liggen die wordt verkregen door een conversiefactor (25 dB) op te tellen bij de waarde ‘Maximale gemiddelde spectrale vermogensdichtheid’ (in dBm/MHz).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 (1) Binnen de frequentieband 3,1 – 4,8 GHz. De ‘low duty cycle’-mitigatietechniek (LDC) en de bijbehorende grenswaarden zijn vastgelegd in ETSI-norm EN 302 065-1.
 
-(2) Binnen de frequentieband 3,1–4,8 GHz en 8,5–9 GHz. De ‘detect and avoid’-mitigatietechniek (DAA) en de bijbehorende grenswaarden zijn vastgelegd in ETSI-norm EN 302 065-1.
+(1) Binnen de frequentieband 3,1 – 4,8 GHz. De ‘low duty cycle’-mitigatietechniek (LDC) en de bijbehorende grenswaarden zijn vastgelegd in ETSI-norm EN 302 065-1.
 
 (1) De ‘low duty cycle’-mitigatietechniek (LDC) en de bijbehorende grenswaarden zijn vastgelegd in ETSI-norm EN 302 065-3.
 
-(4) De uitwendige grenswaarde (exterior limit, e.l.) ≤ -53,3 dBm/MHz is vereist. De uitwendige greswaarde is vastgelegd in ETSI-norm EN 302 065-3.
+(3) De ‘transmit power control’-mitigatietechniek (TPC) en de bijbehorende grenswaarden zijn vastgelegd in ETSI-norm EN 302 065-3.
+
+De onderstaande tabel bevat de waarden voor de maximale gemiddelde spectrale vermogensdichtheid (e.i.r.p.) en het maximaal piekvermogen (e.i.r.p.) voor korteafstandapparatuur (Short Range Devices, SRD) die gebruikmaken van ultrabreedbandtechnologie (UWB), met of zonder gebruik van mitigatietechnieken.
 
 De onderstaande tabel bevat de waarden voor de maximale gemiddelde spectrale vermogensdichtheid (e.i.r.p.) en het maximaal piekvermogen (e.i.r.p.) voor korteafstandapparatuur (Short Range Devices, SRD) die gebruikmaken van ultrabreedbandtechnologie (UWB), met of zonder gebruik van mitigatietechnieken.
 
@@ -320,9 +322,9 @@ De onderstaande tabel bevat de waarden voor de maximale gemiddelde spectrale ver
 
 (2) Bescherming 7,25–7,75 GHz (Fixed Satellite Service, FSS) en 7,45–7,55 GHz (Meteorological Satellite, MetSat): –51,3-20*log10(10[km]/x[km])(dBm/MHz) voor hoogten boven de grond van meer dan 1.000 meter, waarbij x de hoogte van het vliegtuig boven de grond in kilometer is, en -71,3 dBm/MHz voor hoogten boven de grond van 1.000 meter of minder.
 
-(3) Bescherming 7,75–7,9 GHz (Meteorological Satellite, MetSat): –44,3-20*log10(10[km]/x[km])(dBm/MHz) voor hoogten boven de grond van meer dan 1.000 m, waarbij x de hoogte van het vliegtuig boven de grond in kilometer is, en –64,3 dBm/MHz voor hoogten boven de grond van 1.000 m of minder.
-
 In het kader van deze beschikking toegestane materiaaldetectieapparatuur voldoet aan de volgende vereisten:
+
+Het piekvermogen (in dBm) gemeten binnen een bandbreedte van 50 MHz moet onder een grenswaarde liggen die wordt verkregen door een conversiefactor (25 dB) op te tellen bij de waarde ‘Maximale gemiddelde spectrale vermogensdichtheid’ (in dBm/MHz).
 
 (1) Apparatuur die gebruikmaakt van een LBT-mechanisme (Listen Before Talk) zoals bepaald in de
 
@@ -344,19 +346,19 @@ b) in het frequentiebereik 3,4-3,8 GHz moet de totale uitgestraalde spectrale ve
 
 minder dan de maximale gemiddelde spectrale vermogensdichtheid bedragen.
 
-(3) Beperking van de duty cycle tot 10% per seconde.
-
 ### 5.2 Apparatuur voor de analyse van bouwmaterialen (BMA-apparatuur)
 
 (1) Apparatuur die gebruikmaakt van een LBT-mechanisme (Listen Before Talk) zoals bepaald in de geharmoniseerde norm EN 302 435-1 mag gebruikmaken van het frequentiebereik 1,215 – 1,73 GHz met een maximale gemiddelde spectrale vermogensdichtheid van -70 dBm/MHz en van de frequentiebereiken 2,5-2,69 GHz en 2,7-3,4 GHz met een maximale gemiddelde spectrale vermogensdichtheid van -50 dBm/MHz.
 
-(2) Om de RAS-banden (Radio Astronomy Service) 2,69-2,7 GHz en 4,8-5 GHz te beschermen, moet de totale uitgestraalde spectrale vermogensdichtheid minder dan -65 dBm/MHz bedragen.
+(1) Apparatuur die gebruikmaakt van een LBT-mechanisme (Listen Before Talk) zoals bepaald in de geharmoniseerde norm EN 302 435-1 mag gebruikmaken van het frequentiebereik 1,215 – 1,73 GHz met een maximale gemiddelde spectrale vermogensdichtheid van -70 dBm/MHz en van de frequentiebereiken 2,5-2,69 GHz en 2,7-3,4 GHz met een maximale gemiddelde spectrale vermogensdichtheid van -50 dBm/MHz.
+
+### Subcategorie 6. Tankniveau-sondering radar (TLPR)
 
 ### Subcategorie 6. Tankniveau-sondering radar (TLPR)
 
 ### Subcategorie 7. Grond- en muur indringende radar
 
-### Subcategorie 8. Industriële niveau meetradar (Level Probing Radar: LPR)
+(1) Automatische vermogensregeling en beperkingen ten aanzien van antennes en equivalente technieken om toegang te krijgen tot spectrum en om interferentie te beperken met een vermogen dat ten minste equivalent is aan dat van de technieken die zijn beschreven in de geharmoniseerde normen welke zijn vastgesteld in het kader van [Richtlijn 1999/5/EG](31999L0005) zijn verplicht.
 
 (1) Automatische vermogensregeling en beperkingen ten aanzien van antennes en equivalente technieken om toegang te krijgen tot spectrum en om interferentie te beperken met een vermogen dat ten minste equivalent is aan dat van de technieken die zijn beschreven in de geharmoniseerde normen welke zijn vastgesteld in het kader van [Richtlijn 1999/5/EG](31999L0005) zijn verplicht.
 
@@ -364,7 +366,7 @@ minder dan de maximale gemiddelde spectrale vermogensdichtheid bedragen.
 
 (a) Van 0 tot 4 km rondom Westerbork is de installatie van LPR apparatuur verboden;
 
-(b) Van 4 tot 40 km rondom Westerbork is de antennehoogte van de LPR apparatuur beperkt tot 15 meter.
+### Aanhangsel bij de bijlagen 1 tot en met 12
 
 ### Aanhangsel bij de bijlagen 1 tot en met 12
 
@@ -374,9 +376,93 @@ minder dan de maximale gemiddelde spectrale vermogensdichtheid bedragen.
 
 ### Kanaalbreedte
 
-### Duty-cycle
+De duty-cycle is gedefinieerd als de verhouding, uitgedrukt in een percentage, tussen de maximale uitzendtijd op 1 of meer frequenties relatief ten opzichte van een periode van 1 uur.
 
 De duty-cycle is gedefinieerd als de verhouding, uitgedrukt in een percentage, tussen de maximale uitzendtijd op 1 of meer frequenties relatief ten opzichte van een periode van 1 uur.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 3a
+
+1. Voor het gebruik van radioapparaten aan boord van andere dan Nederlandse schepen, als bedoeld in [artikel 10.15, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=10.15), met uitzondering van maritiem mobiele communicatie vanaf het land, zijn de [artikelen 7, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=7), [8, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=8), en [9 van de Regeling gebruik van frequentieruimte met meldingsplicht 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=9) van overeenkomstige toepassing.
+
+2. Voor het gebruik van radioapparaten door niet-ingezeten van Nederland die tijdelijk hier te lande verblijven, als bedoeld in [artikel 10.15, tweede lid, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=10.15), zijn de [artikelen 7, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=7), [8, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=8), en [10, eerste en tweede lid, van de Regeling gebruik van frequentieruimte met meldingsplicht 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=10) van overeenkomstige toepassing.
+
+3. Voor het gebruik van radioapparaten als bedoeld in het eerste en tweede lid, geldt dat er bij het radioapparaat een gebruikerslicentie aanwezig is als bedoeld in artikel 18.1 van het Radioreglement.
+
+4. Voor het gebruik van radioapparaten als bedoeld in het eerste lid, geldt dat er bij het radioapparaat een certificaat van bediening aanwezig is conform artikel 49 van het Radioreglement. Dit certificaat van bediening staat op naam van degene die het radioapparaat bedient. Hiervan kan alleen worden afgeweken indien een niet-certificaathouder het radioapparaat bedient en deze in directe aanwezigheid en onder verantwoordelijkheid van de certificaathouder staat.
+
+## Bijlagen
+
+### Bijlage 1, behorend bij [artikel 2, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2024-01-01&g=2024-01-01)
+
+(Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
+
+### Mobiel elektronisch communicatienetwerk met laag vermogen
+
+(Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
+
+### radioapparaten bestemd voor CB
+
+(Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
+
+### radioapparaten bestemd voor PMR446
+
+(Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
+
+### radioapparaten bestemd voor satellietgrondstations, zijnde LEST, HEST of VSAT
+
+(Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
+
+### radioapparaten bestemd voor een mobiel elektronisch communicatienetwerk aan boord van luchtvaartuigen (basisstations)
+
+(Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
+
+### radioapparaten die onderdeel uitmaken van, dan wel bestemd zijn voor aansluiting op, een mobiel elektronisch communicatienetwerk (basisstation) aan boord van schepen
+
+(Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
+
+### radioapparaten bestemd voor vaste verbindingen over korte afstand
+
+(Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
+
+### radioapparaten bestemd voor aansluiting op een elektronisch communicatienetwerk dat gebruik maakt van frequentieruimte in de band 2500 – 2690 MHz, voor zover voor het gebruik van de door dat netwerk gebruikte frequentieruimte een vergunning is verleend
+
+(Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
+
+### radioapparaten bestemd voor Maritiem mobiel gebruik
+
+(Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
+
+### Korteafstandapparatuur
+
+(Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
+
+### Bijlage 12, behorend bij [artikel 2, tweede lid, onder p](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2024-01-01&g=2024-01-01)
+
+(Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
+
+(2) Binnen de frequentieband 3,1–4,8 GHz en 8,5–9 GHz. De ‘detect and avoid’-mitigatietechniek (DAA) en de bijbehorende grenswaarden zijn vastgelegd in ETSI-norm EN 302 065-1.
+
+### Subcategorie 2. Locatiebepalingssystemen type 1 (LT1)
+
+(1) De ‘detect and avoid’-mitigatietechniek (DAA) en de bijbehorende grenswaarden zijn vastgelegd in ETSI-norm EN 302 065-2
+
+(4) De uitwendige grenswaarde (exterior limit, e.l.) ≤ -53,3 dBm/MHz is vereist. De uitwendige greswaarde is vastgelegd in ETSI-norm EN 302 065-3.
+
+(3) Bescherming 7,75–7,9 GHz (Meteorological Satellite, MetSat): –44,3-20*log10(10[km]/x[km])(dBm/MHz) voor hoogten boven de grond van meer dan 1.000 m, waarbij x de hoogte van het vliegtuig boven de grond in kilometer is, en –64,3 dBm/MHz voor hoogten boven de grond van 1.000 m of minder.
+
+(3) Beperking van de duty cycle tot 10% per seconde.
+
+### 5.2 Apparatuur voor de analyse van bouwmaterialen (BMA-apparatuur)
+
+(2) Om de RAS-banden (Radio Astronomy Service) 2,69-2,7 GHz en 4,8-5 GHz te beschermen, moet de totale uitgestraalde spectrale vermogensdichtheid minder dan -65 dBm/MHz bedragen.
+
+### Subcategorie 8. Industriële niveau meetradar (Level Probing Radar: LPR)
+
+(b) Van 4 tot 40 km rondom Westerbork is de antennehoogte van de LPR apparatuur beperkt tot 15 meter.
+
+### Duty-cycle
 
 Indien erg geen duty-cycle is genoemd dan is iedere duty-cycle mogelijk.
 
