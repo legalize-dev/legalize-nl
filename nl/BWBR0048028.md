@@ -4,7 +4,7 @@ identifier: "BWBR0048028"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2023-07-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048028"
 soort: "wet"
@@ -53,7 +53,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **beheerder:** burgemeester en wethouders of een door hen aangewezen:
 
-- a. andere natuurlijke of rechtspersoon dan de verhuurder die uit hoofde van beroep of bedrijf op het terrein van de huisvesting werkzaam is, en aan wie een vergunning als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2023-07-01&g=2023-07-01), is of kan worden verleend;
+- a. andere natuurlijke of rechtspersoon dan de verhuurder die uit hoofde van beroep of bedrijf op het terrein van de huisvesting werkzaam is, en aan wie een vergunning als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2024-01-01&g=2024-01-01), is of kan worden verleend;
 
 - b. toegelaten instelling; of
 
@@ -71,7 +71,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **verhuurder:** verhuurder niet zijnde een toegelaten instelling of een dochtermaatschappij;
 
-- **verhuurverordening:** verhuurverordening als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2023-07-01&g=2023-07-01);
+- **verhuurverordening:** verhuurverordening als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2024-01-01&g=2024-01-01);
 
 - **woondiscriminatie:** het bij het aanbieden of verhuren van woon- of verblijfsruimte handelen in strijd met [artikel 7 van de Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=7) of met [paragraaf 3a van de Wet gelijke behandeling op grond van handicap of chronische ziekte](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&paragraaf=3a);
 
@@ -107,7 +107,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - 3°. de contactgegevens van een contactpunt waar de huurder terecht kan bij zaken die het gehuurde betreffen;
 
-- 4°. dit onderdeel is nog niet in werking getreden;
+- 4°. de contactgegevens van het meldpunt, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=3&artikel=4&z=2024-01-01&g=2024-01-01), van de gemeente waarin het gehuurde is gelegen; en
 
 - 5°. indien servicekosten als bedoeld in [artikel 237, derde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=237), in rekening worden gebracht, de betalingsverplichting van de huurder waarbij geldt dat jaarlijks een volledige kostenspecificatie aan de huurder dient te worden verstrekt; en
 
@@ -125,13 +125,21 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3
 
-Dit onderdeel is nog niet inwerking getreden
+1. Ter uitvoering van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01) beschikt een verhuurder, verhuurbemiddelaar of beheerder van een woon- of verblijfsruimte in ieder geval over een werkwijze die gericht is op voorkoming van woondiscriminatie.
+
+2. De verhuurder, verhuurbemiddelaar of beheerder van een woon- of verblijfsruimte neemt in het kader van die werkwijze doeltreffende maatregelen en voert deze uit. Hij is daarbij in ieder geval gehouden werknemers die vanwege hun functie handelingen verrichten om een overeenkomst van huur van een woon- of verblijfsruimte tot stand te brengen, te informeren over voorkoming van woondiscriminatie en de maatregelen.
+
+3. De verhuurder, verhuurbemiddelaar of beheerder van een woon- of verblijfsruimte past de werkwijze en maatregelen aan als de daarmee opgedane ervaring daartoe aanleiding geeft.
+
+4. De verhuurder, verhuurbemiddelaar of beheerder van een woon- of verblijfsruimte zorgt ervoor dat eenieder kennis kan nemen van de geldende werkwijze.
+
+5. De verhuurder, verhuurbemiddelaar of beheerder van een woon- of verblijfsruimte legt de werkwijze en de daarbij behorende maatregelen schriftelijk vast. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de werkwijze.
 
 ### Hoofdstuk 3. Meldpunt
 
 ##### Artikel 4
 
-1. Dit lid is nog niet in werking getreden.
+1. Burgemeester en wethouders stellen een meldpunt in waar klachten over ongewenst verhuurgedrag kunnen worden gemeld.
 
 2. Burgemeester en wethouders zijn bevoegd tot het verwerken van persoonsgegevens ten behoeve van het afwikkelen van bij het meldpunt ingediende klachten. Burgemeester en wethouders zijn verwerkingsverantwoordelijke voor deze verwerking.
 
@@ -153,51 +161,49 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 6
 
-1. Een vergunning als bedoeld in [artikel 5, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2023-07-01&g=2023-07-01), kan slechts worden aangevraagd door de verhuurder van de woon- of verblijfsruimte.
+1. Een vergunning als bedoeld in [artikel 5, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2024-01-01&g=2024-01-01), kan slechts worden aangevraagd door de verhuurder van de woon- of verblijfsruimte.
 
-2. In het geval van een aanvraag voor een vergunning als bedoeld in [artikel 5, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2023-07-01&g=2023-07-01), betrekking heeft op een woon- of verblijfsruimte of het gebouw waarin die woon- of verblijfsruimte is gelegen en voor de realisatie van deze functie een omgevingsvergunning als bedoeld in [artikel 2.1, eerste lid, onderdeel a of c, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1), of een vergunning als bedoeld in [artikel 21, eerste lid, van de Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=21) is aangevraagd, maar nog niet is verleend, wordt de aanvraag, bedoeld in het eerste lid, aangehouden tot dat een beslissing is genomen op de aanvraag van een omgevingsvergunning als bedoeld in artikel 2.1, eerste lid, onderdeel a of c, van de Wet algemene bepalingen omgevingsrecht, of een vergunning als bedoeld in artikel 21, eerste lid, van de Huisvestingswet 2014.
+2. In het geval van een aanvraag voor een vergunning als bedoeld in [artikel 5, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2024-01-01&g=2024-01-01), betrekking heeft op een woon- of verblijfsruimte of het gebouw waarin die woon- of verblijfsruimte is gelegen en voor de realisatie van deze functie een omgevingsvergunning als bedoeld in [artikel 5.1, eerste lid, onderdeel a, of tweede lid, aanhef en onderdeel a, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1), of een vergunning als bedoeld in [artikel 21, eerste lid, van de Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=21) is aangevraagd, maar nog niet is verleend, wordt de aanvraag, bedoeld in het eerste lid, aangehouden tot dat een beslissing is genomen op de aanvraag van een omgevingsvergunning als bedoeld in artikel 5.1, eerste lid, onderdeel a, of tweede lid, aanhef en onderdeel a, van de Omgevingswet, of een vergunning als bedoeld in artikel 21, eerste lid, van de Huisvestingswet 2014.
 
-3. In afwijking van [artikel 2:15, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:15), stellen burgemeester en wethouders de elektronische weg open voor de aanvraag van een vergunning als bedoeld in [artikel 5, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2023-07-01&g=2023-07-01).
+3. In afwijking van [artikel 2:15, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:15), stellen burgemeester en wethouders de elektronische weg open voor de aanvraag van een vergunning als bedoeld in [artikel 5, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 7
 
-1. Een vergunning als bedoeld in [artikel 5, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2023-07-01&g=2023-07-01), wordt geweigerd indien voor de realisatie van die woon- of verblijfsruimte een omgevingsvergunning als bedoeld in [artikel 2.1, eerste lid, onderdeel a of c, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1), of een vergunning als bedoeld in [artikel 21, eerste lid, van de Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=21), vereist is en de verhuurder die vergunning of een aanvraag voor die vergunning waarop het bevoegd gezag nog niet heeft beslist, niet heeft overgelegd bij de aanvraag.
+1. Een vergunning als bedoeld in [artikel 5, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2024-01-01&g=2024-01-01), wordt geweigerd indien voor de realisatie van die woon- of verblijfsruimte een omgevingsvergunning als bedoeld in [artikel 5.1, eerste lid, aanhef en onderdeel a, of tweede lid, aanhef en onderdeel a, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1), of een vergunning als bedoeld in [artikel 21, eerste lid, van de Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=21), vereist is en de verhuurder die vergunning of een aanvraag voor die vergunning waarop het bevoegd gezag nog niet heeft beslist, niet heeft overgelegd bij de aanvraag.
 
-2. Een vergunning als bedoeld in [artikel 5, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2023-07-01&g=2023-07-01), kan uitsluitend worden geweigerd:
+2. Een vergunning als bedoeld in [artikel 5, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2024-01-01&g=2024-01-01), kan uitsluitend worden geweigerd:
 
 - a. indien aan de verhuurder binnen een tijdvak van acht jaar voorafgaand aan de aanvraag een bestuurlijke boete of een last onder bestuursdwang is opgelegd voor het handelen door de verhuurder in strijd met:
 
-- 1°. de regels van goed verhuurderschap, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=2&artikel=2&z=2023-07-01&g=2023-07-01);
+- 1°. de regels van goed verhuurderschap, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01);
 
 - 2°. een verbod op grond van:
 
-- i. [artikel 5, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2023-07-01&g=2023-07-01);
+- i. [artikel 5, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2024-01-01&g=2024-01-01);
 
-- ii. [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=8), en [artikel 21, eerste lid, van de Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=21);
+- ii. [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=8), en [artikel 21, eerste lid, van de Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=21); of
 
-- iii. [artikel 2.1, eerste lid, onderdeel a of c, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1); of
+- iii. [artikel 5.1, eerste lid, aanhef en onderdeel a, of tweede lid, aanhef en onderdeel a, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1);
 
-- iv. [artikel 1b, eerste tot en met vierde lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1b);
+- 3°. de op grond van [artikel 4.1, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.1) in een omgevingsplan gestelde regels over het gebruik of de staat van open erven of terreinen of het gebruik van gebouwen, of over het tegengaan van hinder, of de op grond van [artikel 4.3, eerste lid, aanhef en onderdeel a, en vierde lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.3) gestelde verboden voor en regels of voorschriften over bouwactiviteiten en het gebruik en in stand houden van bouwwerken;
 
-- 3°. de zorgplicht, bedoeld in [artikel 1a, eerste en tweede lid van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1a);
-
-- 4°. de aan een vergunning als bedoeld in [artikel 5, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2023-07-01&g=2023-07-01), verbonden voorwaarden, bedoeld in [artikel 8, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=8&z=2023-07-01&g=2023-07-01);
+- 4°. de aan een vergunning als bedoeld in [artikel 5, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2024-01-01&g=2024-01-01), verbonden voorwaarden, bedoeld in [artikel 8, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=8&z=2024-01-01&g=2024-01-01);
 
 - 5°. de aan een vergunning als bedoeld in [artikel 21, eerste lid, van de Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=21) verbonden voorwaarden en voorschriften, bedoeld in [artikel 24 van de Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=24);
 
-- b. indien ten aanzien van de verhuurder een besluit als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=5&artikel=12&z=2023-07-01&g=2023-07-01), is genomen en het beheer overeenkomstig [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=5&artikel=16&z=2023-07-01&g=2023-07-01) nog niet is beëindigd;
+- b. indien ten aanzien van de verhuurder een besluit als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=5&artikel=12&z=2024-01-01&g=2024-01-01), is genomen en het beheer overeenkomstig [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=5&artikel=16&z=2024-01-01&g=2024-01-01) nog niet is beëindigd;
 
 - c. in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3).
 
 3. Voordat toepassing wordt gegeven aan het tweede lid, onderdeel c, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=8), om een advies als bedoeld in [artikel 9 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=9) worden gevraagd.
 
-4. Indien de vergunning, bedoeld in [artikel 5, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2023-07-01&g=2023-07-01), wordt geweigerd en deze vergunning betrekking heeft op een woon- of verblijfsruimte die op het moment van de weigering van de vergunning is verhuurd, kunnen burgemeester en wethouders een besluit nemen als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=5&artikel=12&z=2023-07-01&g=2023-07-01).
+4. Indien de vergunning, bedoeld in [artikel 5, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2024-01-01&g=2024-01-01), wordt geweigerd en deze vergunning betrekking heeft op een woon- of verblijfsruimte die op het moment van de weigering van de vergunning is verhuurd, kunnen burgemeester en wethouders een besluit nemen als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=5&artikel=12&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 8
 
-1. Burgemeester en wethouders kunnen aan een vergunning als bedoeld in [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2023-07-01&g=2023-07-01), voorwaarden verbinden die uitsluitend betrekking hebben op:
+1. Burgemeester en wethouders kunnen aan een vergunning als bedoeld in [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2024-01-01&g=2024-01-01), voorwaarden verbinden die uitsluitend betrekking hebben op:
 
-- a. de wijze waarop de verhuurder aantoont hoe hij invulling geeft aan de regels van goed verhuurderschap, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=2&artikel=2&z=2023-07-01&g=2023-07-01);
+- a. de wijze waarop de verhuurder aantoont hoe hij invulling geeft aan de regels van goed verhuurderschap, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01);
 
 - b. de maximale huurprijs en het maximale huurverhogingspercentage indien het een zelfstandige woonruimte als bedoeld in [artikel 234 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=234), betreft waarvan de maximale huurprijs volgens de bij of krachtens [artikel 10, eerste lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=10), bepaalde waardering niet hoger is dan het krachtens [artikel 3, tweede lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3) vastgesteld bedrag. De maximale huurprijs wordt vastgesteld op de maximale huurprijs voor die woonruimte op basis van de bij of krachtens artikel 10, eerste lid, van de Uitvoeringswet huurprijzen woonruimte, bepaalde waardering en het maximale huurverhogingspercentage bedraagt het bij of krachtens artikel 10, tweede lid, van die wet vastgestelde maximale huurverhogingspercentage;
 
@@ -209,21 +215,21 @@ Dit onderdeel is nog niet inwerking getreden
 
 - 3°. een schatting van de benodigde jaarlijkse reservering voor andere dan de gewone jaarlijkse kosten na de periode waarop het onderhoudsplan betrekking heeft.
 
-2. Burgemeester en wethouders kunnen aan een vergunning als bedoeld in [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2023-07-01&g=2023-07-01), voorwaarden verbinden die uitsluitend betrekking hebben op:
+2. Burgemeester en wethouders kunnen aan een vergunning als bedoeld in [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2024-01-01&g=2024-01-01), voorwaarden verbinden die uitsluitend betrekking hebben op:
 
-- a. de wijze waarop de verhuurder aantoont hoe hij invulling geeft aan de regels van goed verhuurderschap, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=2&artikel=2&z=2023-07-01&g=2023-07-01);
+- a. de wijze waarop de verhuurder aantoont hoe hij invulling geeft aan de regels van goed verhuurderschap, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01);
 
 - b. het in gebruik geven van een afzonderlijk afsluitbare verblijfsruimte die voldoet aan de daarvoor geldende eisen van de bouwregelgeving aan iedere arbeidsmigrant die geen huishouden vormt met een andere arbeidsmigrant; of
 
 - c. de voorzieningen voor het bewaren en bereiden van voeding, wasruimte en doucheruimte die in het gebouw waarin de verblijfsruimte gelegen is aanwezig moeten zijn, rekening houdend met het maximaal aantal arbeidsmigranten die in dat gebouw kunnen verblijven.
 
-3. Indien de verblijfsruimte een woonruimte betreft die bestemd is of gebruikt wordt voor de huisvesting van arbeidsmigranten, kunnen burgemeester en wethouders, onverminderd het tweede lid, aan een vergunning als bedoeld in [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2023-07-01&g=2023-07-01), ook de voorwaarden bedoeld in het eerste lid, onderdeel b en c verbinden.
+3. Indien de verblijfsruimte een woonruimte betreft die bestemd is of gebruikt wordt voor de huisvesting van arbeidsmigranten, kunnen burgemeester en wethouders, onverminderd het tweede lid, aan een vergunning als bedoeld in [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2024-01-01&g=2024-01-01), ook de voorwaarden bedoeld in het eerste lid, onderdeel b en c verbinden.
 
-4. De voorwaarde, bedoeld in het tweede lid, onderdeel b, kan uitsluitend aan de vergunning, bedoeld in [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2023-07-01&g=2023-07-01), worden verbonden voor verblijfsruimte die in gebruik wordt genomen na inwerkingtreding van deze wet. Voor verblijfsruimte die reeds in gebruik was voor inwerkingtreding van deze wet of waarvoor een vergunning als bedoeld in [artikel 2.1, eerste lid, onderdeel a of c, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1), is verstrekt voor inwerkingtreding van deze wet, kunnen burgemeester en wethouders de voorwaarde aan de vergunning verbinden dat de desbetreffende verblijfsruimte binnen drie jaar na inwerkingtreding van deze wet aan de voorwaarde, bedoeld in het tweede lid onderdeel b, moet voldoen.
+4. De voorwaarde, bedoeld in het tweede lid, onderdeel b, kan uitsluitend aan de vergunning, bedoeld in [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2024-01-01&g=2024-01-01), worden verbonden voor verblijfsruimte die in gebruik wordt genomen na inwerkingtreding van deze wet. Voor verblijfsruimte die reeds in gebruik was voor inwerkingtreding van deze wet of waarvoor een vergunning als bedoeld in [artikel 5.1, eerste lid, onderdeel a, of tweede lid, aanhef en onderdeel a, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1), is verstrekt voor inwerkingtreding van deze wet, kunnen burgemeester en wethouders de voorwaarde aan de vergunning verbinden dat de desbetreffende verblijfsruimte binnen drie jaar na inwerkingtreding van deze wet aan de voorwaarde, bedoeld in het tweede lid onderdeel b, moet voldoen.
 
 ##### Artikel 9
 
-1. Burgemeester en wethouders beslissen op de aanvraag, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=6&z=2023-07-01&g=2023-07-01), binnen acht weken na de datum van ontvangst van de aanvraag.
+1. Burgemeester en wethouders beslissen op de aanvraag, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=6&z=2024-01-01&g=2024-01-01), binnen acht weken na de datum van ontvangst van de aanvraag.
 
 2. Burgemeester en wethouders kunnen de termijn, bedoeld in het eerste lid, eenmaal verlengen met ten hoogste zes weken. Zij maken hun besluit daartoe bekend binnen de termijn, bedoeld in het eerste lid.
 
@@ -231,25 +237,25 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 10
 
-1. Burgemeester en wethouders kunnen een vergunning als bedoeld in [artikel 5, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2023-07-01&g=2023-07-01), uitsluitend intrekken voor één of meerdere woon- of verblijfsruimten indien:
+1. Burgemeester en wethouders kunnen een vergunning als bedoeld in [artikel 5, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2024-01-01&g=2024-01-01), uitsluitend intrekken voor één of meerdere woon- of verblijfsruimten indien:
 
-- a. ter zake het niet naleven van de regels van goed verhuurderschap, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=2&artikel=2&z=2023-07-01&g=2023-07-01), een last onder bestuursdwang of een bestuurlijke boete is opgelegd en de verhuurder deze regels opnieuw niet naleeft binnen een tijdvak van vier jaar nadat de last onder bestuursdwang of de bestuurlijke boete is opgelegd;
+- a. ter zake het niet naleven van de regels van goed verhuurderschap, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01), een last onder bestuursdwang of een bestuurlijke boete is opgelegd en de verhuurder deze regels opnieuw niet naleeft binnen een tijdvak van vier jaar nadat de last onder bestuursdwang of de bestuurlijke boete is opgelegd;
 
-- b. ter zake het niet naleven van de aan de vergunning verbonden voorwaarden, bedoeld in [artikel 8, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=8&z=2023-07-01&g=2023-07-01), een last onder bestuursdwang of een bestuurlijke boete is opgelegd en de verhuurder deze voorwaarden opnieuw niet naleeft binnen een tijdvak van vier jaar nadat de last onder bestuursdwang of de bestuurlijke boete is opgelegd;
+- b. ter zake het niet naleven van de aan de vergunning verbonden voorwaarden, bedoeld in [artikel 8, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=8&z=2024-01-01&g=2024-01-01), een last onder bestuursdwang of een bestuurlijke boete is opgelegd en de verhuurder deze voorwaarden opnieuw niet naleeft binnen een tijdvak van vier jaar nadat de last onder bestuursdwang of de bestuurlijke boete is opgelegd;
 
 - c. die vergunning is verleend op grond van door de houder van die vergunning verstrekte gegevens waarvan deze wist of redelijkerwijs moest vermoeden dat zij onjuist of onvolledig waren;
 
-- d. een omgevingsvergunning als bedoeld in [artikel 2.1, eerste lid, onderdeel a of c, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) voor de realisatie van die woon- of verblijfsruimte, of een vergunning als bedoeld in [artikel 21, eerste lid, van de Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=21), geheel of gedeeltelijk is ingetrokken;
+- d. een omgevingsvergunning als bedoeld in [artikel 5.1, eerste lid, onderdeel a, of tweede lid, aanhef en onderdeel a, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1) voor de realisatie van die woon- of verblijfsruimte, of een vergunning als bedoeld in [artikel 21, eerste lid, van de Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=21), geheel of gedeeltelijk is ingetrokken;
 
-- e. de verboden, bedoeld in [artikel 21, eerste lid, van de Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=21) of [artikel 2.1, eerste lid, onderdeel a of c, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1), met betrekking tot de woon- of verblijfsruimten worden overtreden; of
+- e. de verboden, bedoeld in [artikel 21, eerste lid, van de Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=21) of [artikel 5.1, eerste lid, onderdeel a, of tweede lid, aanhef en onderdeel a, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1), met betrekking tot de woon- of verblijfsruimten worden overtreden; of
 
 - f. een bestuurlijke boete is opgelegd op grond van [artikel 35, tweede lid, onderdeel d, van de Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=35).
 
-2. De vergunning, bedoeld in [artikel 5, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2023-07-01&g=2023-07-01), kan voorts worden ingetrokken in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3).
+2. De vergunning, bedoeld in [artikel 5, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2024-01-01&g=2024-01-01), kan voorts worden ingetrokken in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3).
 
 3. Voordat toepassing wordt gegeven aan het tweede lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=8) door het openbaar bestuur, om een advies als bedoeld in [artikel 9 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=9) worden gevraagd.
 
-4. Indien de vergunning, bedoeld in [artikel 5, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2023-07-01&g=2023-07-01), wordt ingetrokken en deze vergunning betrekking heeft op een woon- of verblijfsruimte die op het moment van de intrekking is verhuurd, nemen burgemeester en wethouders een besluit als bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=5&artikel=12&z=2023-07-01&g=2023-07-01).
+4. Indien de vergunning, bedoeld in [artikel 5, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2024-01-01&g=2024-01-01), wordt ingetrokken en deze vergunning betrekking heeft op een woon- of verblijfsruimte die op het moment van de intrekking is verhuurd, nemen burgemeester en wethouders een besluit als bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=5&artikel=12&z=2024-01-01&g=2024-01-01).
 
 ### Hoofdstuk 5. De inbeheername
 
@@ -267,11 +273,11 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder beheer:
 
 1. Burgemeester en wethouders kunnen de verhuurder verplichten tot het aan een beheerder in beheer geven van een woon- of verblijfsruimte of een gebouw waarin die woon- of verblijfsruimte is gelegen, indien:
 
-- a. de verhuurder binnen een tijdvak van vier jaar voorafgaand aan de constatering dat hij handelt in strijd met de regels van goed verhuurderschap, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=2&artikel=2&z=2023-07-01&g=2023-07-01), reeds tweemaal een bestuurlijke boete is opgelegd voor het handelen in strijd met die regels; en
+- a. de verhuurder binnen een tijdvak van vier jaar voorafgaand aan de constatering dat hij handelt in strijd met de regels van goed verhuurderschap, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01), reeds tweemaal een bestuurlijke boete is opgelegd voor het handelen in strijd met die regels; en
 
-- b. in het geval genoemd in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=7&z=2023-07-01&g=2023-07-01).
+- b. in het geval genoemd in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=7&z=2024-01-01&g=2024-01-01).
 
-2. Burgemeester en wethouders verplichten de verhuurder tot het aan een beheerder in beheer geven van een woon- of verblijfsruimte of een gebouw waarin die woon- of verblijfsruimte is gelegen, in het geval genoemd in [artikel 10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=10&z=2023-07-01&g=2023-07-01).
+2. Burgemeester en wethouders verplichten de verhuurder tot het aan een beheerder in beheer geven van een woon- of verblijfsruimte of een gebouw waarin die woon- of verblijfsruimte is gelegen, in het geval genoemd in [artikel 10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=10&z=2024-01-01&g=2024-01-01).
 
 3. Het is de verhuurder tot wie het besluit, bedoeld in het eerste of tweede lid, is gericht, gedurende de termijn waarvoor de woon- of verblijfsruimte of het gebouw waarin die woon- of verblijfsruimte gelegen is in beheer is genomen, verboden om beheershandelingen te verrichten.
 
@@ -279,7 +285,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder beheer:
 
 ##### Artikel 13
 
-In het besluit, bedoeld in [artikel 12, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=5&artikel=12&z=2023-07-01&g=2023-07-01), stellen burgemeester en wethouders de huurprijs van de woon- of verblijfsruimte vast op een bedrag dat redelijk is in het economisch verkeer en voldoet aan de voor de betreffende huurprijs geldende wettelijke regels die de beheerder in rekening mag brengen bij de gebruikers van de woon- of verblijfsruimte.
+In het besluit, bedoeld in [artikel 12, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=5&artikel=12&z=2024-01-01&g=2024-01-01), stellen burgemeester en wethouders de huurprijs van de woon- of verblijfsruimte vast op een bedrag dat redelijk is in het economisch verkeer en voldoet aan de voor de betreffende huurprijs geldende wettelijke regels die de beheerder in rekening mag brengen bij de gebruikers van de woon- of verblijfsruimte.
 
 ##### Artikel 14
 
@@ -289,31 +295,31 @@ In het besluit, bedoeld in [artikel 12, eerste of tweede lid](https://wetten.ove
 
 ##### Artikel 15
 
-1. In het besluit, bedoeld in [artikel 12, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=5&artikel=12&z=2023-07-01&g=2023-07-01), bepalen burgemeester en wethouders een kostendekkende beheervergoeding die de verhuurder aan hen is verschuldigd ten behoeve van het beheer.
+1. In het besluit, bedoeld in [artikel 12, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=5&artikel=12&z=2024-01-01&g=2024-01-01), bepalen burgemeester en wethouders een kostendekkende beheervergoeding die de verhuurder aan hen is verschuldigd ten behoeve van het beheer.
 
-2. Burgemeester en wethouders verrekenen de door de beheerder geïnde huur voor de woonruimte of vergoeding voor het gebruik van de verblijfsruimte met de beheervergoeding en de verschuldigde kosten van de voorzieningen of aanpassingen, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=5&artikel=14&z=2023-07-01&g=2023-07-01).
+2. Burgemeester en wethouders verrekenen de door de beheerder geïnde huur voor de woonruimte of vergoeding voor het gebruik van de verblijfsruimte met de beheervergoeding en de verschuldigde kosten van de voorzieningen of aanpassingen, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=5&artikel=14&z=2024-01-01&g=2024-01-01).
 
 3. Op basis van de verrekening bepalen burgemeester en wethouders het bedrag dat de beheerder verschuldigd is aan de verhuurder.
 
-4. Indien blijkt uit de verrekening dat de geïnde huur van de woonruimte of vergoeding voor het gebruik van de verblijfsruimte lager zijn dan de som van de beheervergoeding en de verschuldigde kosten, bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=5&artikel=14&z=2023-07-01&g=2023-07-01), kunnen burgemeester en wethouders het resterende bedrag bij de verhuurder invorderen bij dwangbevel.
+4. Indien blijkt uit de verrekening dat de geïnde huur van de woonruimte of vergoeding voor het gebruik van de verblijfsruimte lager zijn dan de som van de beheervergoeding en de verschuldigde kosten, bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=5&artikel=14&z=2024-01-01&g=2024-01-01), kunnen burgemeester en wethouders het resterende bedrag bij de verhuurder invorderen bij dwangbevel.
 
 ##### Artikel 16
 
 1. Burgemeester en wethouders beëindigen het beheer:
 
-- a. als de verhuurder door middel van een verhuurplan naar het oordeel van burgemeester en wethouders voldoende aannemelijk heeft gemaakt dat hij in de toekomst zal handelen in overeenstemming met de regels van goed verhuurderschap, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=2&artikel=2&z=2023-07-01&g=2023-07-01), of de van toepassing zijnde voorwaarden, bedoeld in [artikel 8, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=8&z=2023-07-01&g=2023-07-01);
+- a. als de verhuurder door middel van een verhuurplan naar het oordeel van burgemeester en wethouders voldoende aannemelijk heeft gemaakt dat hij in de toekomst zal handelen in overeenstemming met de regels van goed verhuurderschap, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01), of de van toepassing zijnde voorwaarden, bedoeld in [artikel 8, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=8&z=2024-01-01&g=2024-01-01);
 
-- b. indien van toepassing, de noodzakelijke voorzieningen of aanpassingen, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=5&artikel=14&z=2023-07-01&g=2023-07-01), zijn uitgevoerd; en
+- b. indien van toepassing, de noodzakelijke voorzieningen of aanpassingen, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=5&artikel=14&z=2024-01-01&g=2024-01-01), zijn uitgevoerd; en
 
-- c. indien van toepassing, de resterende kosten, bedoeld in [artikel 15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=5&artikel=15&z=2023-07-01&g=2023-07-01), door de verhuurder zijn voldaan.
+- c. indien van toepassing, de resterende kosten, bedoeld in [artikel 15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=5&artikel=15&z=2024-01-01&g=2024-01-01), door de verhuurder zijn voldaan.
 
 2. Indien het eigendom van de woon- of verblijfsruimte of het gebouw waarin die woon- of verblijfsruimte is gelegen door de verhuurder is overgedragen aan een nieuwe eigenaar beëindigen burgemeester en wethouders het beheer:
 
-- a. indien van toepassing, de noodzakelijke voorzieningen of aanpassingen, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=5&artikel=14&z=2023-07-01&g=2023-07-01), zijn uitgevoerd;
+- a. indien van toepassing, de noodzakelijke voorzieningen of aanpassingen, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=5&artikel=14&z=2024-01-01&g=2024-01-01), zijn uitgevoerd;
 
-- b. indien van toepassing, de resterende kosten, bedoeld in [artikel 15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=5&artikel=15&z=2023-07-01&g=2023-07-01), zijn voldaan; en
+- b. indien van toepassing, de resterende kosten, bedoeld in [artikel 15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=5&artikel=15&z=2024-01-01&g=2024-01-01), zijn voldaan; en
 
-- c. indien voor het verhuren van die woon- of verblijfsruimte een vergunning als bedoeld in [artikel 5, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2023-07-01&g=2023-07-01), verplicht is en deze aan de nieuwe eigenaar is verstrekt.
+- c. indien voor het verhuren van die woon- of verblijfsruimte een vergunning als bedoeld in [artikel 5, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2024-01-01&g=2024-01-01), verplicht is en deze aan de nieuwe eigenaar is verstrekt.
 
 ### Hoofdstuk 6. Handhaving en toezicht
 
@@ -327,27 +333,27 @@ Burgemeester en wethouders dragen zorg voor de bestuursrechtelijke handhaving va
 
 2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in het Gemeenteblad.
 
-3. Burgemeester en wethouders zijn bevoegd tot het opleggen van een bestuurlijke boete als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=6&artikel=19&z=2023-07-01&g=2023-07-01).
+3. Burgemeester en wethouders zijn bevoegd tot het opleggen van een bestuurlijke boete als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=6&artikel=19&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 19
 
-1. De bestuurlijke boete ter zake van het handelen in strijd met de regels van goed verhuurderschap, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=2&artikel=2&z=2023-07-01&g=2023-07-01), bedraagt ten hoogste:
+1. De bestuurlijke boete ter zake van het handelen in strijd met de regels van goed verhuurderschap, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01), bedraagt ten hoogste:
 
 - a. het bedrag dat is vastgesteld voor de vierde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23);
 
-- b. het bedrag dat is vastgesteld voor de vijfde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23), indien binnen een tijdvak van vier jaar voorafgaand aan de constatering van de overtreding een bestuurlijke boete is opgelegd voor het handelen in strijd met de regels van goed verhuurderschap, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=2&artikel=2&z=2023-07-01&g=2023-07-01), of, indien toepassing is gegeven aan het tweede lid, voor het overtreden van de verboden, bedoeld in [artikel 5, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2023-07-01&g=2023-07-01), of [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=5&artikel=12&z=2023-07-01&g=2023-07-01), of de op basis van [artikel 8, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=8&z=2023-07-01&g=2023-07-01), aan een vergunning als bedoeld in artikel 5, eerste lid, onderdeel a of b, verbonden voorwaarden.
+- b. het bedrag dat is vastgesteld voor de vijfde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23), indien binnen een tijdvak van vier jaar voorafgaand aan de constatering van de overtreding een bestuurlijke boete is opgelegd voor het handelen in strijd met de regels van goed verhuurderschap, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01), of, indien toepassing is gegeven aan het tweede lid, voor het overtreden van de verboden, bedoeld in [artikel 5, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2024-01-01&g=2024-01-01), of [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=5&artikel=12&z=2024-01-01&g=2024-01-01), of de op basis van [artikel 8, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=8&z=2024-01-01&g=2024-01-01), aan een vergunning als bedoeld in artikel 5, eerste lid, onderdeel a of b, verbonden voorwaarden.
 
-2. Indien de gemeenteraad een verhuurverordening vaststelt, bepaalt hij dat een bestuurlijke boete kan worden opgelegd ter zake van het overtreden van de verboden, bedoeld in [artikel 5, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2023-07-01&g=2023-07-01), of [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=5&artikel=12&z=2023-07-01&g=2023-07-01), of de op basis van [artikel 8, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=8&z=2023-07-01&g=2023-07-01), aan een vergunning als bedoeld in [artikel 5, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2023-07-01&g=2023-07-01), verbonden voorwaarden.
+2. Indien de gemeenteraad een verhuurverordening vaststelt, bepaalt hij dat een bestuurlijke boete kan worden opgelegd ter zake van het overtreden van de verboden, bedoeld in [artikel 5, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2024-01-01&g=2024-01-01), of [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=5&artikel=12&z=2024-01-01&g=2024-01-01), of de op basis van [artikel 8, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=8&z=2024-01-01&g=2024-01-01), aan een vergunning als bedoeld in [artikel 5, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2024-01-01&g=2024-01-01), verbonden voorwaarden.
 
 3. De op grond van het tweede lid op te leggen bestuurlijke boete bedraagt ten hoogste:
 
-- a. het bedrag dat is vastgesteld voor de vierde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23), voor het overtreden van de verboden, bedoeld in [artikel 5, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2023-07-01&g=2023-07-01), of [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=5&artikel=12&z=2023-07-01&g=2023-07-01), of voor het handelen in strijd met de op basis van [artikel 8, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=8&z=2023-07-01&g=2023-07-01), aan een vergunning als bedoeld in artikel 5, eerste lid, onderdeel a of b, verbonden voorwaarden;
+- a. het bedrag dat is vastgesteld voor de vierde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23), voor het overtreden van de verboden, bedoeld in [artikel 5, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2024-01-01&g=2024-01-01), of [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=5&artikel=12&z=2024-01-01&g=2024-01-01), of voor het handelen in strijd met de op basis van [artikel 8, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=8&z=2024-01-01&g=2024-01-01), aan een vergunning als bedoeld in artikel 5, eerste lid, onderdeel a of b, verbonden voorwaarden;
 
-- b. het bedrag dat is vastgesteld voor de vijfde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23), voor het overtreden van de verboden, bedoeld in [artikel 5, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2023-07-01&g=2023-07-01), of [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=5&artikel=12&z=2023-07-01&g=2023-07-01), of voor het handelen in strijd met de op basis van [artikel 8, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=8&z=2023-07-01&g=2023-07-01), aan een vergunning als bedoeld in artikel 5, eerste lid, onderdeel a of b, verbonden voorwaarden indien binnen een tijdvak van vier jaar voorafgaand aan de constatering van die overtreding een bestuurlijke boete is opgelegd voor overtreding van die verboden of het handelen in strijd met de regels van goed verhuurderschap, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=2&artikel=2&z=2023-07-01&g=2023-07-01).
+- b. het bedrag dat is vastgesteld voor de vijfde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23), voor het overtreden van de verboden, bedoeld in [artikel 5, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2024-01-01&g=2024-01-01), of [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=5&artikel=12&z=2024-01-01&g=2024-01-01), of voor het handelen in strijd met de op basis van [artikel 8, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=8&z=2024-01-01&g=2024-01-01), aan een vergunning als bedoeld in artikel 5, eerste lid, onderdeel a of b, verbonden voorwaarden indien binnen een tijdvak van vier jaar voorafgaand aan de constatering van die overtreding een bestuurlijke boete is opgelegd voor overtreding van die verboden of het handelen in strijd met de regels van goed verhuurderschap, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 20
 
-1. Burgemeester en wethouders maken het feit dat een bestuurlijke boete als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=6&artikel=19&z=2023-07-01&g=2023-07-01), is opgelegd voor het handelen in strijd met de regels van goed verhuurderschap, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=2&artikel=2&z=2023-07-01&g=2023-07-01), overtreding van de verboden, bedoeld in [artikel 5, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2023-07-01&g=2023-07-01), of een besluit als bedoeld in [artikel 12, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=5&artikel=12&z=2023-07-01&g=2023-07-01), is genomen, openbaar teneinde de naleving ervan te bevorderen, woningzoekenden en huurders te informeren en inzicht te geven in het uitvoeren van toezicht op de naleving van deze artikelen, met dien verstande dat:
+1. Burgemeester en wethouders maken het feit dat een bestuurlijke boete als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=6&artikel=19&z=2024-01-01&g=2024-01-01), is opgelegd voor het handelen in strijd met de regels van goed verhuurderschap, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01), overtreding van de verboden, bedoeld in [artikel 5, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2024-01-01&g=2024-01-01), of een besluit als bedoeld in [artikel 12, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=5&artikel=12&z=2024-01-01&g=2024-01-01), is genomen, openbaar teneinde de naleving ervan te bevorderen, woningzoekenden en huurders te informeren en inzicht te geven in het uitvoeren van toezicht op de naleving van deze artikelen, met dien verstande dat:
 
 - a. de namen van betrokken natuurlijke personen niet openbaar worden gemaakt, indien het belang van openbaarmaking naar het oordeel van de burgemeester en wethouders niet opweegt tegen het belang, bedoeld in [artikel 5.1, tweede lid, onderdeel e, van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1);
 
@@ -361,9 +367,9 @@ Burgemeester en wethouders dragen zorg voor de bestuursrechtelijke handhaving va
 
 5. Indien de openbaarmaking in strijd is of zou kunnen komen met het doel van het toezicht op de naleving dat door de door burgemeester en wethouders aangewezen ambtenaren wordt uitgeoefend, blijft openbaarmaking achterwege.
 
-6. De openbaarmaking van het feit dat een bestuurlijke boete is opgelegd voor het handelen in strijd met de regels van goed verhuurderschap, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=2&artikel=2&z=2023-07-01&g=2023-07-01), of overtreding van de verboden, bedoeld in [artikel 5, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2023-07-01&g=2023-07-01), wordt verwijderd vier jaar na de dagtekening van het besluit van openbaarmaking.
+6. De openbaarmaking van het feit dat een bestuurlijke boete is opgelegd voor het handelen in strijd met de regels van goed verhuurderschap, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01), of overtreding van de verboden, bedoeld in [artikel 5, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2024-01-01&g=2024-01-01), wordt verwijderd vier jaar na de dagtekening van het besluit van openbaarmaking.
 
-7. De openbaarmaking van het feit dat een besluit als bedoeld in [artikel 12, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=5&artikel=12&z=2023-07-01&g=2023-07-01), is genomen wordt verwijderd op het moment dat burgemeester en wethouders besluiten tot het beëindigen van het beheer op grond van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=5&artikel=16&z=2023-07-01&g=2023-07-01).
+7. De openbaarmaking van het feit dat een besluit als bedoeld in [artikel 12, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=5&artikel=12&z=2024-01-01&g=2024-01-01), is genomen wordt verwijderd op het moment dat burgemeester en wethouders besluiten tot het beëindigen van het beheer op grond van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=5&artikel=16&z=2024-01-01&g=2024-01-01).
 
 8. Bij algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de openbaar te maken gegevens, waaronder de mogelijke reactie van een belanghebbende in verband met de openbaarmaking van zijn gegevens, de termijn waarop deze gegevens beschikbaar worden gesteld en de wijze waarop de openbaarmaking plaatsvindt.
 
@@ -381,29 +387,29 @@ Wijzigt het Burgerlijk Wetboek Boek 7.
 
 ##### Artikel 23
 
-1. De verplichting tot het schriftelijk vastleggen van de huurovereenkomst, bedoeld in [artikel 2, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=2&artikel=2&z=2023-07-01&g=2023-07-01), is uitsluitend van toepassing op huurovereenkomsten die worden afgesloten na het tijdstip van inwerkingtreding van deze wet.
+1. De verplichting tot het schriftelijk vastleggen van de huurovereenkomst, bedoeld in [artikel 2, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01), is uitsluitend van toepassing op huurovereenkomsten die worden afgesloten na het tijdstip van inwerkingtreding van deze wet.
 
-2. Het schriftelijk verstrekken van informatie aan de huurder, bedoeld in [artikel 2, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=2&artikel=2&z=2023-07-01&g=2023-07-01), vindt plaats:
+2. Het schriftelijk verstrekken van informatie aan de huurder, bedoeld in [artikel 2, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01), vindt plaats:
 
 - a. voor huurovereenkomsten die zijn afgesloten na het tijdstip van inwerkingtreding van deze wet op het moment waarop de huurovereenkomst wordt aangegaan;
 
 - b. voor huurovereenkomsten die zijn afgesloten voor de inwerkingtreding van deze wet, verstrekt de verhuurder deze informatie aan de huurder uiterlijk één jaar na het tijdstip van inwerkingtreding van deze wet.
 
-3. De verplichting tot het afzonderlijk vastleggen van de huurovereenkomst van de arbeidsovereenkomst, bedoeld in [artikel 2, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=2&artikel=2&z=2023-07-01&g=2023-07-01), is uitsluitend van toepassing op huurovereenkomsten die worden afgesloten na het tijdstip van inwerkingtreding van deze wet.
+3. De verplichting tot het afzonderlijk vastleggen van de huurovereenkomst van de arbeidsovereenkomst, bedoeld in [artikel 2, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01), is uitsluitend van toepassing op huurovereenkomsten die worden afgesloten na het tijdstip van inwerkingtreding van deze wet.
 
-4. Het schriftelijk verstrekken van informatie aan de huurder, bedoeld in [artikel 2, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=2&artikel=2&z=2023-07-01&g=2023-07-01), vindt plaats:
+4. Het schriftelijk verstrekken van informatie aan de huurder, bedoeld in [artikel 2, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01), vindt plaats:
 
 - a. voor huurovereenkomsten die zijn afgesloten na het tijdstip van inwerkingtreding van deze wet op het moment waarop de huurovereenkomst wordt aangegaan;
 
 - b. voor huurovereenkomsten die zijn afgesloten voor de inwerkingtreding van deze wet uiterlijk drie maanden na het tijdstip van inwerkingtreding van deze wet.
 
-5. Het tijdvak van acht jaar, bedoeld in [artikel 7, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=7&z=2023-07-01&g=2023-07-01), met betrekking tot de regels van goed verhuurderschap, bedoeld in artikel 7, tweede lid, onderdeel a, onder 1°, en de regels van goed verhuurderschap, bedoeld in [artikel 10, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=10&z=2023-07-01&g=2023-07-01), vangt aan op het tijdstip van inwerkingtreding van deze wet.
+5. Het tijdvak van acht jaar, bedoeld in [artikel 7, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=7&z=2024-01-01&g=2024-01-01), met betrekking tot de regels van goed verhuurderschap, bedoeld in artikel 7, tweede lid, onderdeel a, onder 1°, en de regels van goed verhuurderschap, bedoeld in [artikel 10, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=10&z=2024-01-01&g=2024-01-01), vangt aan op het tijdstip van inwerkingtreding van deze wet.
 
-6. Het tijdvak van acht jaar, bedoeld in [artikel 7, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=7&z=2023-07-01&g=2023-07-01) met betrekking tot een verbod als bedoeld in artikel 7, tweede lid, onderdeel a, onder 2°, en de voorwaarden, bedoeld in artikel 7, tweede lid, onderdeel a, onder 4°, vangt aan op het tijdstip waarop het verbod, bedoeld in [artikel 5, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2023-07-01&g=2023-07-01), in werking treedt.
+6. Het tijdvak van acht jaar, bedoeld in [artikel 7, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=7&z=2024-01-01&g=2024-01-01) met betrekking tot een verbod als bedoeld in artikel 7, tweede lid, onderdeel a, onder 2°, en de voorwaarden, bedoeld in artikel 7, tweede lid, onderdeel a, onder 4°, vangt aan op het tijdstip waarop het verbod, bedoeld in [artikel 5, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2024-01-01&g=2024-01-01), in werking treedt.
 
 ##### Artikel 24
 
-Indien de gemeenteraad een verhuurverordening vaststelt, geldt voor verhuurders die een woon- of verblijfsruimte voor de inwerkingtreding van het verbod, bedoeld in [artikel 5, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2023-07-01&g=2023-07-01), verhuurden, dat dit verbod niet eerder dan zes maanden na de inwerkingtreding ervan geldt.
+Indien de gemeenteraad een verhuurverordening vaststelt, geldt voor verhuurders die een woon- of verblijfsruimte voor de inwerkingtreding van het verbod, bedoeld in [artikel 5, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0048028&hoofdstuk=4&artikel=5&z=2024-01-01&g=2024-01-01), verhuurden, dat dit verbod niet eerder dan zes maanden na de inwerkingtreding ervan geldt.
 
 ##### Artikel 25
 
