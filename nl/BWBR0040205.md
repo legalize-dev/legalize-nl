@@ -4,7 +4,7 @@ identifier: "BWBR0040205"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2022-07-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040205"
 soort: "AMvB"
@@ -152,7 +152,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 - b. de verticale positie ten opzichte van het maaiveld en de gerede twijfel is ontstaan door een afwijking ten opzichte van het gegeven die is veroorzaakt door bodembeweging, of
 
-- c. grondwaterstanden, indien de gerede twijfel is ontstaan door een afwijking ten opzichte van het gegeven ten gevolge van het handhaven van waterstanden die zijn vastgesteld in een peilbesluit als bedoeld in [artikel 5.2 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=5.2).
+- c. grondwaterstanden, indien de gerede twijfel is ontstaan door een afwijking ten opzichte van het gegeven ten gevolge van het handhaven van waterstanden die zijn vastgesteld in een peilbesluit als bedoeld in [artikel 2.41 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.41).
 
 3. Indien de gerede twijfel, bedoeld in [artikel 30, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&artikel=30) ontstaat in een geval waarin sprake is van een onderzoek naar een strafbaar of belastbaar feit, kan de melding door het bestuursorgaan, bedoeld in [artikel 30, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&artikel=30), eveneens achterwege blijven.
 
@@ -258,9 +258,15 @@ Als brondocument met betrekking tot de in deze paragraaf genoemde registratieobj
 
 - a. met de bedoeling om dat voor ten minste één jaar te doen,
 
-- b. voor het genereren van gegevens die worden verstrekt in het kader van een aanvraag van een vergunning als bedoeld in de [artikelen 6.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.4), en [6.5, onderdeel b, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.5) of bij een melding als bedoeld in [artikel 6.11, eerste lid, van het Waterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.11), of
+- b. voor het genereren van gegevens die worden verstrekt in het kader van een aanvraag van een vergunning of het doen van een melding ten behoeve van het verrichten van:
 
-- c. voor het verkrijgen van representatief inzicht in de geohydrologische situatie ter plaatse indien de ruimtelijk spreiding van de overige grondwatermonitoringputten in de nabijheid niet afdoende is om dat inzicht te krijgen.
+- 1°. wateronttrekkingsactiviteiten als bedoeld in [artikel 6.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.37), of [16.4 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=16.4); of
+
+- 2°. wateronttrekkingsactiviteiten inhoudende het onttrekken van grondwater door een daarvoor bestemde voorziening of het in de bodem brengen van water, ter aanvulling van het grondwater, in samenhang met het onttrekken van grondwater door een daarvoor bestemde voorziening, die op grond van een omgevingsverordening of waterschapsverordening als vergunningplichtig of meldingplichtig is aangewezen; of
+
+- c. voor het genereren van gegevens die worden verstrekt in het kader van een aanvraag om een omgevingsvergunning voor of het doen van een melding van een wateronttrekkingsactiviteit op grond van een omgevingsverordening of waterschapsverordening, inhoudende het onttrekken van grondwater door een daarvoor bestemde voorziening of het in de bodem brengen van water, ter aanvulling van het grondwater, in samenhang met het onttrekken van grondwater door een daarvoor bestemde voorziening, of
+
+- d. voor het verkrijgen van representatief inzicht in de geohydrologische situatie ter plaatse indien de ruimtelijk spreiding van de overige grondwatermonitoringputten in de nabijheid niet afdoende is om dat inzicht te krijgen.
 
 ##### Artikel 2.3.2
 
@@ -336,7 +342,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 2.4.1
 
-Als brondocument met betrekking tot de in deze paragraaf genoemde registratieobjecten wordt uitsluitend aangewezen een document met gegevens die aan bestuursorganen worden verstrekt in het kader van vergunningsplichtige wateronttrekkingsactiviteiten als bedoeld in de [artikelen 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.4) of [6.5 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.5) of meldingsplichtige activiteiten als bedoeld in [artikel 6.11 van het Waterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.11), [artikel 1.10a van het Besluit lozen buiten inrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0029789&artikel=1.10a) of [artikel 1.21a van het Activiteitenbesluit milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0022762&artikel=1.21a).
+Als brondocument met betrekking tot de in deze paragraaf genoemde registratieobjecten wordt uitsluitend aangewezen een document met gegevens die in het kader van vergunningplichtige of meldingplichtige vormen van grondwatergebruik aan bestuursorganen worden verstrekt:
+
+- a. voor zover het wateronttrekkingsactiviteiten betreft als bedoeld in [artikel 6.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.37), of [16.4 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=16.4),
+
+- b. voor zover het een milieubelastende activiteit betreft als bedoeld in [artikel 3.19](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.19) of [4.1136 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1136), of
+
+- c. voor zover het een wateronttrekkingsactiviteit betreft op grond van een omgevingsverordening of waterschapsverordening, inhoudende het onttrekken van grondwater door een daarvoor bestemde voorziening of het in de bodem brengen van water, ter aanvulling van het grondwater, in samenhang met het onttrekken van grondwater door een daarvoor bestemde voorziening.
 
 ##### Artikel 2.4.2
 
