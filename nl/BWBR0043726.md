@@ -4,7 +4,7 @@ identifier: "BWBR0043726"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2023-07-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043726"
 soort: "AMvB"
@@ -56,8 +56,6 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **coördinator:** coördinator als bedoeld in artikel 10l;
 
-- **inrichting:** inrichting als bedoeld in [artikel 1.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=1.1);
-
 - **NPR:** door de Stichting Nederlands Normalisatie-instituut uitgegeven Nederlandse Praktijkrichtlijn;
 
 - **programma:** programma van aanpak als bedoeld in [artikel 13g, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13g);
@@ -66,7 +64,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **samenloop:** situatie waarin een gebouw in een programma is opgenomen en de eigenaar van dat gebouw een aanvraag om schadevergoeding heeft ingediend waarop nog niet is beslist;
 
-- **tegemoetkoming:** tegemoetkoming als bedoeld in [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&paragraaf=1a&artikel=1b&z=2023-07-01&g=2023-07-01);
+- **tegemoetkoming:** tegemoetkoming als bedoeld in [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&paragraaf=1a&artikel=1b&z=2024-01-01&g=2024-01-01);
 
 - **typologie:** bij ministeriële regeling vastgestelde verzameling gebouwen met dusdanig vergelijkbare constructieve kenmerken dat hun gedrag bij en weerstand tegen aardbevingen zich op een vergelijkbare wijze laat beschrijven;
 
@@ -104,7 +102,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 4
 
-1. Een lid van het Instituut legt voorafgaand aan de datum van indiensttreding de eed of belofte af volgens het formulier zoals dat is vastgesteld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&bijlage=1&z=2023-07-01&g=2023-07-01) bij dit besluit.
+1. Een lid van het Instituut legt voorafgaand aan de datum van indiensttreding de eed of belofte af volgens het formulier zoals dat is vastgesteld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&bijlage=1&z=2024-01-01&g=2024-01-01) bij dit besluit.
 
 2. De voorzitter van het Instituut legt de eed of belofte af ten overstaan van Onze Minister voor Rechtsbescherming. De andere leden van het Instituut leggen de eed of belofte af ten overstaan van de voorzitter van het Instituut.
 
@@ -146,7 +144,7 @@ Zo spoedig mogelijk na het overlijden van een lid van het Instituut wordt door O
 
 1. Het jaarverslag, bedoeld in [artikel 18 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18), bevat over het verstreken boekjaar een rapportage en verantwoording over de volgende onderdelen:
 
-- a. een rapportage overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&bijlage=2&z=2023-07-01&g=2023-07-01);
+- a. een rapportage overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&bijlage=2&z=2024-01-01&g=2024-01-01);
 
 - b. een verantwoording van de uitgaven;
 
@@ -154,7 +152,7 @@ Zo spoedig mogelijk na het overlijden van een lid van het Instituut wordt door O
 
 - d. een toelichting inzake doelmatigheid van de gemaakte uitvoeringskosten ten opzichte van de uitgekeerde vergoedingen.
 
-2. De rapportage en verantwoording gaan vergezeld van een rapport van bevindingen van de Auditdienst Rijk, opgesteld in opdracht van het Instituut, bestaande uit een verslag van bevindingen over in ieder geval de specifieke werkzaamheden als bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&bijlage=3&z=2023-07-01&g=2023-07-01).
+2. De rapportage en verantwoording gaan vergezeld van een rapport van bevindingen van de Auditdienst Rijk, opgesteld in opdracht van het Instituut, bestaande uit een verslag van bevindingen over in ieder geval de specifieke werkzaamheden als bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&bijlage=3&z=2024-01-01&g=2024-01-01).
 
 #### § 4. Overige bepalingen
 
@@ -430,25 +428,27 @@ De vergoeding voor overlast, bedoeld in [artikel 2, derde lid, onderdeel c, van 
 
 ##### Artikel 10a
 
-1. [Hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=5), met uitzondering van [artikel 13ba, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13ba) is niet van toepassing op:
+1. [Hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=5), met uitzondering van [artikel 13ba van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13ba), is niet van toepassing op:
 
-- a. in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&bijlage=4&z=2023-07-01&g=2023-07-01) opgenomen scholen;
+- a. in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&bijlage=4&z=2024-01-01&g=2024-01-01) opgenomen scholen;
 
-- b. in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&bijlage=5&z=2023-07-01&g=2023-07-01) opgenomen zorggebouwen;
+- b. in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&bijlage=5&z=2024-01-01&g=2024-01-01) opgenomen zorggebouwen;
 
-- c. gebouwen die functioneel verbonden zijn met installaties van bedrijven die de volgende inrichtingen oprichten of in werking hebben:
+- c. gebouwen die functioneel verbonden zijn met installaties van bedrijven:
 
-- 1°. inrichtingen als bedoeld in [artikel 2, eerste lid, onderdeel a, b, d, e, g of h, van het Besluit externe veiligheid inrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0016767&artikel=2);
+- 1°. op een locatie waarop een Seveso-inrichting wordt geëxploiteerd als bedoeld in [artikel 3.51, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.51);
 
-- 2°. inrichtingen met een installatie als bedoeld in bijlage I bij de [Richtlijn 2010/75](32010L0075)/EU van het Europees Parlement en de Raad van 24 november 2010 inzake industriële emissies (geïntegreerde preventie en bestrijding van verontreiniging) (PbEU 2010, L 334);
+- 2°. op een locatie waarop een milieubelastende activiteit als bedoeld in [bijlage VII bij het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&bijlage=VII) wordt verricht, met uitzondering van activiteiten als bedoeld bijlage VII, onder B, onder 3 en 5, en onder E, onder 13, bij het Besluit kwaliteit leefomgeving;
 
-- 3°. inrichtingen waarop [hoofdstuk 2, afdeling 2 van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&afdeling=2) van toepassing is;
+- 3°. op een locatie waarop een milieubelastende activiteit wordt verricht voor zover het gaat om het exploiteren van een ippc-installatie, bedoeld in [hoofdstuk 3 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=3);
 
-- 4°. inrichtingen die gevaarlijke stoffen als bedoeld in [artikel 12.11, eerste lid, onderdeel b, subonderdeel 1°, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=12.11) opslaan waarvoor het risico op ongevallen op grond van het bepaalde bij of krachtens [artikel 45 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=45) op de in dat artikel bedoelde risicokaart wordt vermeld;
+- 4°. op locaties waarop een of meer milieubelastende activiteiten worden verricht waarbij gevaarlijke stoffen als bedoeld in artikel 3, tiende lid, van de Seveso-richtlijn worden opgeslagen waarvoor het risico op ongevallen op grond van het bepaalde bij of krachtens [artikel 45 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=45) op de in dat artikel bedoelde risicokaart wordt vermeld;
 
-- d. nieuw te bouwen gebouwen, waaronder begrepen een zelfstandige uitbouw of aanbouw van een bestaand gebouw, anders dan nieuw te bouwen gebouwen die dienen ter vervanging van gebouwen die zijn opgenomen in de versterkingsoperatie;
+- d. gebouwen die functioneel verbonden zijn met installaties van bedrijven of inrichtingen waarop [hoofdstuk 2, afdeling 2 van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&afdeling=2) van toepassing is;
 
-- e. gebouwen behorend tot batch 1.588 als bedoeld in [artikel 15a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=15a).
+- e. nieuw te bouwen gebouwen, waaronder begrepen een zelfstandige uitbouw of aanbouw van een bestaand gebouw, anders dan nieuw te bouwen gebouwen die dienen ter vervanging van gebouwen die zijn opgenomen in de versterkingsoperatie;
+
+- f. gebouwen behorend tot batch 1.588 als bedoeld in [artikel 15a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=15a).
 
 2. [Hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=5), met uitzondering van de [artikelen 13ba](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13ba) en [13n, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13n) is niet van toepassing op gebouwen behorend tot Zandplatenbuurt Zuid te Delfzijl.
 
@@ -470,7 +470,7 @@ De vergoeding voor overlast, bedoeld in [artikel 2, derde lid, onderdeel c, van 
 
 ##### Artikel 10c
 
-1. De meerjarige planning voor het opnemen en beoordelen van gebouwen, bedoeld in [artikel 13g, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13g), wordt bepaald op basis van de overeenkomstig [artikel 10b](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&paragraaf=3a&artikel=10b&z=2023-07-01&g=2023-07-01) vastgestelde risicoprofielen.
+1. De meerjarige planning voor het opnemen en beoordelen van gebouwen, bedoeld in [artikel 13g, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13g), wordt bepaald op basis van de overeenkomstig [artikel 10b](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&paragraaf=3a&artikel=10b&z=2024-01-01&g=2024-01-01) vastgestelde risicoprofielen.
 
 2. In de meerjarige planning krijgen gebouwen met een verhoogd risico voorrang op gebouwen met een licht verhoogd risico.
 
@@ -488,7 +488,7 @@ In het kader van zijn advies over het ontwerp van het programma van aanpak, bedo
 
 - a. voldoende gericht is op het zo snel mogelijk realiseren van de versterkingsopgave; en
 
-- b. voldoet aan [artikel 10c, tweede, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&paragraaf=3a&artikel=10c&z=2023-07-01&g=2023-07-01).
+- b. voldoet aan [artikel 10c, tweede, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&paragraaf=3a&artikel=10c&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 10e
 
@@ -558,7 +558,7 @@ In het kader van zijn advies over het ontwerp van het programma van aanpak, bedo
 
 ##### Artikel 10h
 
-1. Voor gebouwen in de gemeenten Eemsdelta, Groningen, Het Hogeland, Midden-Groningen en Oldambt verstrekken Onze Minister en het Instituut elkaar desgevraagd of eigener beweging de gegevens die nodig zijn voor het vaststellen van samenloop, de gecoördineerde behandeling bij samenloop, bedoeld in [paragraaf 3c](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&paragraaf=3c&z=2023-07-01&g=2023-07-01), of het meenemen van schadeherstel bij het treffen van versterkingsmaatregelen, bedoeld in [paragraaf 3e](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&paragraaf=3e&z=2023-07-01&g=2023-07-01).
+1. Voor gebouwen in de gemeenten Eemsdelta, Groningen, Het Hogeland, Midden-Groningen en Oldambt verstrekken Onze Minister en het Instituut elkaar desgevraagd of eigener beweging de gegevens die nodig zijn voor het vaststellen van samenloop, de gecoördineerde behandeling bij samenloop, bedoeld in [paragraaf 3c](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&paragraaf=3c&z=2024-01-01&g=2024-01-01), of het meenemen van schadeherstel bij het treffen van versterkingsmaatregelen, bedoeld in [paragraaf 3e](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&paragraaf=3e&z=2024-01-01&g=2024-01-01).
 
 2. Voor de toepassing van het eerste lid kan Onze Minister aan het Instituut in ieder geval verstrekken:
 
@@ -592,7 +592,7 @@ Onze Minister en het Instituut voorzien in elk van de gemeenten Eemsdelta, Groni
 
 ##### Artikel 10j
 
-1. Indien het Instituut een aanvraag om schadevergoeding ontvangt van een eigenaar van een gebouw dat in een programma is opgenomen, en een opname van het gebouw als bedoeld in [artikel 10f, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&paragraaf=3a&artikel=10f&z=2023-07-01&g=2023-07-01), heeft plaatsgevonden:
+1. Indien het Instituut een aanvraag om schadevergoeding ontvangt van een eigenaar van een gebouw dat in een programma is opgenomen, en een opname van het gebouw als bedoeld in [artikel 10f, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&paragraaf=3a&artikel=10f&z=2024-01-01&g=2024-01-01), heeft plaatsgevonden:
 
 - a. informeert het de eigenaar over de mogelijkheid om de afhandeling van zijn aanvraag om schadevergoeding en de versterking van zijn gebouw gecoördineerd te laten behandelen; en
 
@@ -600,15 +600,15 @@ Onze Minister en het Instituut voorzien in elk van de gemeenten Eemsdelta, Groni
 
 2. Indien het Instituut een aanvraag om schadevergoeding ontvangt van een eigenaar van een gebouw waarbij sprake is van samenloop, en er een coördinator is aangewezen voor de afhandeling van de reeds in behandeling zijnde aanvraag om schadevergoeding, biedt het Instituut de eigenaar de mogelijkheid dat de reeds aangewezen coördinator ook de coördinatie voor de afhandeling van de nieuwe aanvraag om schadevergoeding op zich neemt.
 
-3. In een geval als bedoeld in het tweede lid worden voor de toepassing van de [artikelen 10l, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&paragraaf=3c&artikel=10l&z=2023-07-01&g=2023-07-01), [10m](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&paragraaf=3d&artikel=10m&z=2023-07-01&g=2023-07-01) en [10o](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&paragraaf=3e&artikel=10o&z=2023-07-01&g=2023-07-01), de in het tweede lid bedoelde aanvraag om schadevergoeding betrokken, indien dit redelijkerwijs mogelijk is.
+3. In een geval als bedoeld in het tweede lid worden voor de toepassing van de [artikelen 10l, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&paragraaf=3c&artikel=10l&z=2024-01-01&g=2024-01-01), [10m](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&paragraaf=3d&artikel=10m&z=2024-01-01&g=2024-01-01) en [10o](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&paragraaf=3e&artikel=10o&z=2024-01-01&g=2024-01-01), de in het tweede lid bedoelde aanvraag om schadevergoeding betrokken, indien dit redelijkerwijs mogelijk is.
 
 ##### Artikel 10k
 
-Indien het Instituut een aanvraag om schadevergoeding ontvangt van een eigenaar van een gebouw dat in een programma is opgenomen, en nog geen opname van het gebouw als bedoeld in [artikel 10f, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&paragraaf=3a&artikel=10f&z=2023-07-01&g=2023-07-01), heeft plaatsgevonden:
+Indien het Instituut een aanvraag om schadevergoeding ontvangt van een eigenaar van een gebouw dat in een programma is opgenomen, en nog geen opname van het gebouw als bedoeld in [artikel 10f, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&paragraaf=3a&artikel=10f&z=2024-01-01&g=2024-01-01), heeft plaatsgevonden:
 
-- a. informeert het de eigenaar over de mogelijkheid dat Onze Minister bij de opname van het gebouw gelijktijdig de schade opneemt als bedoeld in [artikel 10n](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&paragraaf=3e&artikel=10n&z=2023-07-01&g=2023-07-01); en
+- a. informeert het de eigenaar over de mogelijkheid dat Onze Minister bij de opname van het gebouw gelijktijdig de schade opneemt als bedoeld in [artikel 10n](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&paragraaf=3e&artikel=10n&z=2024-01-01&g=2024-01-01); en
 
-- b. biedt het de eigenaar de mogelijkheid binnen acht weken na ontvangst van de informatie, bedoeld in onderdeel a, de keuze te maken voor de totaalopname, bedoeld in [artikel 10m, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&paragraaf=3d&artikel=10m&z=2023-07-01&g=2023-07-01), indien de totaalopname redelijkerwijs mogelijk is.
+- b. biedt het de eigenaar de mogelijkheid binnen acht weken na ontvangst van de informatie, bedoeld in onderdeel a, de keuze te maken voor de totaalopname, bedoeld in [artikel 10m, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&paragraaf=3d&artikel=10m&z=2024-01-01&g=2024-01-01), indien de totaalopname redelijkerwijs mogelijk is.
 
 #### § 3c. Gecoördineerde behandeling bij samenloop
 
@@ -632,15 +632,15 @@ Indien het Instituut een aanvraag om schadevergoeding ontvangt van een eigenaar 
 
 ##### Artikel 10m
 
-1. Onze Minister voert op verzoek van de eigenaar van een gebouw waarbij sprake is van samenloop een totaalopname uit, door bij de opname van het gebouw op locatie, bedoeld in [artikel 10f, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&paragraaf=3a&artikel=10f&z=2023-07-01&g=2023-07-01), gelijktijdig ook schade aan het gebouw op te nemen, indien dit redelijkerwijs mogelijk is.
+1. Onze Minister voert op verzoek van de eigenaar van een gebouw waarbij sprake is van samenloop een totaalopname uit, door bij de opname van het gebouw op locatie, bedoeld in [artikel 10f, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&paragraaf=3a&artikel=10f&z=2024-01-01&g=2024-01-01), gelijktijdig ook schade aan het gebouw op te nemen, indien dit redelijkerwijs mogelijk is.
 
-2. Indien Onze Minister bij de opname van een gebouw, bedoeld in [artikel 10f, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&paragraaf=3a&artikel=10f&z=2023-07-01&g=2023-07-01), schade aan het gebouw constateert waarvoor de eigenaar van het gebouw nog geen aanvraag om schadevergoeding heeft gedaan, neemt hij op verzoek van de eigenaar gelijktijdig ook die schade op, indien dit redelijkerwijs mogelijk is.
+2. Indien Onze Minister bij de opname van een gebouw, bedoeld in [artikel 10f, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&paragraaf=3a&artikel=10f&z=2024-01-01&g=2024-01-01), schade aan het gebouw constateert waarvoor de eigenaar van het gebouw nog geen aanvraag om schadevergoeding heeft gedaan, neemt hij op verzoek van de eigenaar gelijktijdig ook die schade op, indien dit redelijkerwijs mogelijk is.
 
 #### § 3e. Schadeherstel meenemen bij treffen van versterkingsmaatregelen
 
 ##### Artikel 10n
 
-De coördinator of Onze Minister, indien er geen coördinator is aangewezen, informeert de eigenaar over de mogelijkheid dat Onze Minister tijdens het treffen van versterkingsmaatregelen ook schade aan het gebouw herstelt als bedoeld in [artikel 10o](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&paragraaf=3e&artikel=10o&z=2023-07-01&g=2023-07-01).
+De coördinator of Onze Minister, indien er geen coördinator is aangewezen, informeert de eigenaar over de mogelijkheid dat Onze Minister tijdens het treffen van versterkingsmaatregelen ook schade aan het gebouw herstelt als bedoeld in [artikel 10o](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&paragraaf=3e&artikel=10o&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 10o
 
@@ -658,7 +658,7 @@ De coördinator of Onze Minister, indien er geen coördinator is aangewezen, inf
 
 - c. voor zover Onze Minister geen toepassing heeft gegeven aan [artikel 13j, achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13j).
 
-#### § 4. Overige bepalingen
+#### § 3f. Effectgebied bewijsvermoeden
 
 ##### Artikel 10p
 
@@ -767,7 +767,110 @@ de bovenvermelde eed/belofte afgelegd.
 
 - 2. Onder postcodegebied wordt ten behoeve van deze bijlage verstaan een postcode gebied tot vier cijfers nauwkeurig, met dien verstande dat indien er per postcodegebied minder dan 25 aanvragen zijn ingediend of minder dan 25 besluiten zijn genomen, de data van het betreffende postcodegebied wordt samengevoegd met de data van het naastgelegen postcodegebied of de naastgelegen postcodegebieden tot er in het gebied minimaal 25 aanvragen zijn ingediend of besluiten zijn genomen.
 
-## Bijlage 3. – Specifieke werkzaamheden bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&paragraaf=3&artikel=10&z=2023-07-01&g=2023-07-01)
+## Bijlage 1. – Formulier voor het afleggen van de eed of belofte door een lid van het Instituut Mijnbouwschade Groningen als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&paragraaf=2&artikel=4&z=2024-01-01&g=2024-01-01)
+
+Ik zweer/beloof dat ik trouw zal zijn aan de Koning, en dat ik de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) en alle overige wetten zal onderhouden en nakomen.
+
+Ik zweer/verklaar dat ik middellijk noch onmiddellijk, onder welke naam of voorwendsel ook, tot het verkrijgen van een benoeming aan iemand iets heb gegeven of beloofd, noch zal geven of beloven.
+
+Ik zweer/verklaar dat ik nimmer enige giften of geschenken hoegenaamd zal aannemen of ontvangen van enig persoon van wie ik weet of vermoed dat hij betrokken is of zal zijn bij een onderzoek waarbij mijn ambtsverrichtingen te pas zouden kunnen komen.
+
+Ik zweer/beloof dat ik gegevens waarover ik bij de uitoefening van mijn ambt de beschikking krijg en waarvan ik het vertrouwelijke karakter ken of redelijkerwijs moet vermoeden, behoudens voorzover enig wettelijk voorschrift mij tot mededeling verplicht of uit mijn taak de noodzaak tot mededeling voortvloeit, geheim zal houden.
+
+Ik zweer/beloof dat ik mijn ambt met eerlijkheid, nauwgezetheid en onzijdigheid, zonder aanzien van personen, zal uitoefenen en mij in deze uitoefening zal gedragen zoals een lid/plaatsvervangend lid van het Instituut Mijnbouwschade Groningen betaamt.
+
+Zo waarlijk helpe mij God almachtig!/Dat verklaar en beloof ik!
+
+Op ........................, werd te .....................
+
+ten overstaan van (1) ..............................
+
+door (2) .............................
+
+de bovenvermelde eed/belofte afgelegd.
+
+(1) ...........................
+
+(2) .............................
+
+## Bijlage 2. – Rapportage bedoeld in [artikel 10, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&paragraaf=3&artikel=10&z=2024-01-01&g=2024-01-01)
+
+- 1. De rapportage bedoeld in [artikel 10, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&paragraaf=3&artikel=10&z=2024-01-01&g=2024-01-01), bevat ten minste ten aanzien van de genoemde onderwerpen de volgende informatie:
+
+- a. aanvragen om schadevergoeding of tegemoetkoming en de afhandeling daarvan door het Instituut
+
+- 1°. het totaal aantal aanvragen en genomen besluiten, zowel totaal als per postcodegebied;
+
+- 2°. aantal meldingen van acuut onveilige situaties en het aantal gevallen waarin een acuut onveilige situatie is vastgesteld, zowel totaal als per postcodegebied;
+
+- 3°. aantal aanvragen dat heeft geleid tot toekenning van schadevergoeding of een tegemoetkoming, zowel totaal als per postcodegebied;
+
+- 4°. aantal aanvragen dat heeft geleid tot afwijzing van de aanvraag om schadevergoeding of een tegemoetkoming, zowel totaal als per postcodegebied;
+
+- 5°. het aantal aanvragen dat heeft geleid tot toekenning van overlastvergoeding;
+
+- 6°. de mate waarin de wettelijke doorlooptijden in acht zijn genomen van afgehandelde aanvragen alsmede de gerealiseerde doorlooptijd daarvan;
+
+- 7°. het aantal ingediende bezwaar- en (hoger) beroepzaken en de uitkomsten daarvan;
+
+- 8°. het percentage afgehandelde bezwaren binnen de wettelijke termijn;
+
+- 9°. het aantal behandelde klachten als bedoeld in [artikel 9:1, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:1) en de uitkomsten van de klachtbehandeling;
+
+- 10°. het aantal bij de Nationale Ombudsman ingediende klachten die het functioneren van het Instituut, het bureau of de door hen ingeschakelde derden betreffen en de uitkomsten van de klachtbehandeling;
+
+- 11°. de uitkomsten van het uitgevoerde klanttevredenheidsonderzoek;
+
+- b. de kosten van schadevergoedingen en tegemoetkomingen die door het Instituut zijn uitgekeerd aan aanvragers
+
+- 1°. het totaal toegekende bedrag aan vergoeding en het totaal toegekende bedrag aan vergoeding per postcodegebied;
+
+| **Soort schade of vergoeding** | **Aangegane verplichting** | **Betaling** | **Openstaande verplichting** | **Aantal besluiten waarin de betreffende (schade)vergoeding is toegekend** |
+| --- | --- | --- | --- | --- |
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+| **Totaal bedrag uitgekeerde (schade)vergoedingen** |   |   |   |   |
+
+- 2°. de onderverdeling van toegekende bedrag naar soort schade of vergoeding, zowel totaal als per postcodegebied;
+
+| **Soort schade of vergoeding** |   |   |   |
+| --- | --- | --- | --- |
+| **Postcodegebied** | **Totaal verleend bedrag** | **Gemiddeld bedrag** | **Aantal besluiten waarin de betreffende (schade)vergoeding is toegekend** |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+
+- c. de kosten die door het Instituut zijn gemaakt om te beslissen op aanvragen om schadevergoeding of een tegemoetkoming
+
+- 1°. uurgebonden kosten van het Instituut, totaal en onderscheiden naar kostensoort, en
+
+- 2°. directe uitvoeringskosten, totaal en onderscheiden naar kostensoort.
+
+| **Kostensoort** | **Directe uitvoeringskosten** | **Directe uitvoeringskosten** | **Directe uitvoeringskosten** | **Directe uitvoeringskosten** |
+| --- | --- | --- | --- | --- |
+| **Kostensoort** | **Offerte** | **Aangegane verplichtingen** | **Betalingen (realisatie)** | **Openstaande verplichting (realisatie)** |
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+| Totaal |   |   |   |   |
+
+| **Kostensoort** | **Uurgebonden kosten** | **Uurgebonden kosten** |
+| --- | --- | --- |
+| **Kostensoort** | **Offerte** | **Realisatie** |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+| **Totaal** |   |   |
+
+- 2. Onder postcodegebied wordt ten behoeve van deze bijlage verstaan een postcode gebied tot vier cijfers nauwkeurig, met dien verstande dat indien er per postcodegebied minder dan 25 aanvragen zijn ingediend of minder dan 25 besluiten zijn genomen, de data van het betreffende postcodegebied wordt samengevoegd met de data van het naastgelegen postcodegebied of de naastgelegen postcodegebieden tot er in het gebied minimaal 25 aanvragen zijn ingediend of besluiten zijn genomen.
+
+## Bijlage 3. – Specifieke werkzaamheden bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&paragraaf=3&artikel=10&z=2024-01-01&g=2024-01-01)
 
 De Auditdienst Rijk stelt een rapport van bevindingen op als uitkomst van een opdracht van het Instituut voor het uitvoeren van «specifiek overeengekomen werkzaamheden» bestaande uit het beantwoorden van in ieder geval de volgende vragen:
 
@@ -777,7 +880,19 @@ De Auditdienst Rijk stelt een rapport van bevindingen op als uitkomst van een op
 
 - 3. Sluit de rapportage van de schadebetalingen aan op de onderliggende administraties en zijn de schadebetalingen door het Instituut goedgekeurd?
 
-## Bijlage 4. Overzicht uit te zonderen scholen, bedoeld in [artikel 10a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&paragraaf=3a&artikel=10a&z=2023-07-01&g=2023-07-01)
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 10oa
+
+Het vermoeden, bedoeld in [artikel 177a, eerste lid, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=177a) geldt in ieder geval in het gebied dat valt:
+
+- a. binnen de reikwijdte van de beweging van de bodem als gevolg van de gaswinning uit het Groningenveld of gasopslag bij Norg of de gasopslag bij Grijpskerk waar een minimale trilling van 2 millimeter per seconde met een overschrijdingskans van 1 procent is berekend; of
+
+- b. binnen 6 kilometer van de grens van het Groningenveld of gasopslag bij Norg of de gasopslag bij Grijpskerk.
+
+#### § 4. Overige bepalingen
+
+## Bijlage 4. Overzicht uit te zonderen scholen, bedoeld in [artikel 10a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&paragraaf=3a&artikel=10a&z=2024-01-01&g=2024-01-01)
 
 | **School** | **Adres** | **Plaats** |
 | --- | --- | --- |
@@ -880,7 +995,7 @@ De Auditdienst Rijk stelt een rapport van bevindingen op als uitkomst van een op
 | OBS De Venhuisschool | Van Berumstraat 2 | Zuidwolde |
 | Sporthal Mauritshal; geen school | Van Berumstraat 4 | Zuidwolde |
 
-## Bijlage 5. Overzicht uit te zonderen zorggebouwen, bedoeld in [artikel 10a, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&paragraaf=3a&artikel=10a&z=2023-07-01&g=2023-07-01)
+## Bijlage 5. Overzicht uit te zonderen zorggebouwen, bedoeld in [artikel 10a, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&paragraaf=3a&artikel=10a&z=2024-01-01&g=2024-01-01)
 
 | **Complexnaam** | **Straat** | **Plaats** |
 | --- | --- | --- |
