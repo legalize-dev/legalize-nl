@@ -4,7 +4,7 @@ identifier: "BWBR0047053"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2022-08-17"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047053"
 soort: "ministeriele-regeling"
@@ -64,7 +64,7 @@ Aan de directeur is voorbehouden: het nemen van besluiten, het verrichten van pr
 
 ##### Artikel 3
 
-1. Aan de MT-leden wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 50.000 per verplichting niet te boven gaat.
+1. Aan de MT-leden wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 100.000 per verplichting niet te boven gaat.
 
 2. Aan de MT-leden wordt voorts, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor het aangaan en afhandelen van verplichtingen met en instrueren van externe juridische dienstverleners.
 
@@ -90,7 +90,7 @@ Aan het MT-lid/hoofd afdeling Juridisch advies, bezwaar en beroep wordt onderman
 
 ##### Artikel 5
 
-1. Aan het hoofd Juridische ondersteuning wordt ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 10.000 per verplichting niet te boven gaat.
+1. Aan het hoofd Juridische ondersteuning wordt ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 20.000 per verplichting niet te boven gaat.
 
 2. Aan het hoofd Juridische ondersteuning wordt tevens, voor de onder hem ressorterende medewerkers, ondermandaat, volmacht en machtiging verleend voor:
 
@@ -130,7 +130,7 @@ Aan de coördinerend jurist staatssteun wordt machtiging verleend voor het onder
 
 1. Indien de directeur en de plaatsvervangend directeur afwezig zijn, gaan de bevoegdheden van de directeur over op een door de directeur aangewezen MT-lid met uitzondering van de P&O-aangelegenheden die voorbehouden zijn aan de directeur.
 
-2. Bij afwezigheid van een MT-lid gaan, indien een goede voortgang van de werkzaamheden vereist dat niet wordt gewacht tot de terugkeer van het MT-lid, de uit dit besluit voortvloeiende bevoegdheden van het MT-lid over op zijn plaatsvervanger, met uitzondering van de bevoegdheden, genoemd in de [artikelen 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047053&paragraaf=2&artikel=3&z=2022-08-17&g=2022-08-17), die overgaan naar een door hem aangewezen MT-lid.
+2. Bij afwezigheid van een MT-lid gaan, indien een goede voortgang van de werkzaamheden vereist dat niet wordt gewacht tot de terugkeer van het MT-lid, de uit dit besluit voortvloeiende bevoegdheden van het MT-lid over op zijn plaatsvervanger, met uitzondering van de bevoegdheden, genoemd in de [artikelen 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047053&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01), die overgaan naar een door hem aangewezen MT-lid.
 
 3. Bij afwezigheid van een teamleider gaan de uit dit besluit voortvloeiende bevoegdheden van die teamleider over op de andere teamleider.
 
