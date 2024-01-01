@@ -4,7 +4,7 @@ identifier: "BWBR0043304"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-05-25"
-last_updated: "2020-04-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043304"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-De identificatie van het object, bedoeld in [artikel 15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0016876&artikel=15), geschiedt met inachtneming van [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0043304&bijlage=II&z=2020-04-01&g=2020-04-01) op basis van een in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0043304&bijlage=I&z=2020-04-01&g=2020-04-01) genoemd objecttype uit:
+De identificatie van het object, bedoeld in [artikel 15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0016876&artikel=15), geschiedt met inachtneming van [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0043304&bijlage=II&z=2024-01-01&g=2024-01-01) op basis van een in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0043304&bijlage=I&z=2024-01-01&g=2024-01-01) genoemd objecttype uit:
 
 - a. de basisregistratie adressen en gebouwen;
 
@@ -88,15 +88,15 @@ De handmatig ingetekende geometrie, bedoeld in [artikel 15, eerste lid, van de w
 
 ##### Artikel 5
 
-Het bestuursorgaan stelt een verklaring op in een door het bestuur van de Dienst vastgestelde vorm, inhoudende de essentialia, genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043304&artikel=3&z=2020-04-01&g=2020-04-01), met vermelding dat deze essentialia overeenkomen met hetgeen in het brondocument staat vermeld.
+Het bestuursorgaan stelt een verklaring op in een door het bestuur van de Dienst vastgestelde vorm, inhoudende de essentialia, genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043304&artikel=3&z=2024-01-01&g=2024-01-01), met vermelding dat deze essentialia overeenkomen met hetgeen in het brondocument staat vermeld.
 
 ##### Artikel 6
 
 Aan de Dienst wordt in één stuk, en in de hierna weergegeven volgorde, het volgende aangeleverd:
 
-- a. de verklaring, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043304&artikel=5&z=2020-04-01&g=2020-04-01);
+- a. de verklaring, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043304&artikel=5&z=2024-01-01&g=2024-01-01);
 
-- b. indien van toepassing, de verbeelding bedoeld in [artikel 4, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0043304&artikel=4&z=2020-04-01&g=2020-04-01), en
+- b. indien van toepassing, de verbeelding bedoeld in [artikel 4, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0043304&artikel=4&z=2024-01-01&g=2024-01-01), en
 
 - c. een afschrift van het brondocument.
 
@@ -106,7 +106,7 @@ Als een object waarop een beperking rust als bedoeld in [artikel 15 van de wet](
 
 ##### Artikel 8
 
-Bij aanlevering op grond van [artikel 17a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0016876&artikel=17a), zijn de [artikelen 3 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043304&artikel=3&z=2020-04-01&g=2020-04-01) van overeenkomstige toepassing.
+Deze regeling zoals deze luidde voor de inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), blijft tot het in [artikel 22.4 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=22.4) bedoelde tijdstip van toepassing op een beperkingenbesluit als bedoeld in [artikel 2, eerste lid, van het Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0021609&artikel=2) in samenhang met het onderdeel van de [bijlage](onbekend) bij dat artikellid met de vermelding van [artikel 149 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=149) en de daarbij behorende beschrijving onder de categorie Gemeentewet, zoals dat onderdeel luidde voor de inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885).
 
 ##### Artikel 9
 
@@ -120,12 +120,12 @@ Deze regeling treedt in werking met ingang van 1 april 2020.
 
 Deze regeling wordt aangehaald als: Regeling kenbaarheid publiekrechtelijke beperkingen onroerende zaken.
 
-## Bijlage I
+## Bijlage I. bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043304&artikel=2&z=2024-01-01&g=2024-01-01)
 
-### Aanwijzing van de objecttypen uit de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043304&artikel=2&z=2020-04-01&g=2020-04-01) genoemde basisregistraties, die als identificatie voor publiekrechtelijke beperkingen worden toegelaten
+### Toegestane objecttypen uit de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043304&artikel=2&z=2024-01-01&g=2024-01-01) genoemde basisregistraties
 
-## Bijlage II
+## Bijlage II. bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043304&artikel=2&z=2024-01-01&g=2024-01-01)
 
-### Werkingsgebieden per soort besluit als bedoeld in [artikel 3, lid 1 onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043304&artikel=3&z=2020-04-01&g=2020-04-01)
+### Toegestane werkingsgebieden per soort besluit
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
