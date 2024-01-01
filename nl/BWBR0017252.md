@@ -4,7 +4,7 @@ identifier: "BWBR0017252"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-01"
-last_updated: "2023-10-13"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017252"
 soort: "ministeriele-regeling"
@@ -66,7 +66,7 @@ Voor 1 oktober van elk kalenderjaar verstrekt de Sociale verzekeringsbank aan de
 
 ##### Artikel 3. Betaling voorschot
 
-1. De minister stort op de rekening-courant, bedoeld in [artikel 5.16, onderdeel a, van de Regeling Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&artikel=5.16) een periodiek voorschot op het bedrag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=2&artikel=2&z=2023-10-13&g=2023-10-13), van:
+1. De minister stort op de rekening-courant, bedoeld in [artikel 5.16, onderdeel a, van de Regeling Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&artikel=5.16) een periodiek voorschot op het bedrag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=2&artikel=2&z=2024-01-01&g=2024-01-01), van:
 
 - a. geraamde uitkeringslasten met als valutadatum de tweeëntwintigste dag van elke maand, en
 
@@ -76,7 +76,7 @@ Voor 1 oktober van elk kalenderjaar verstrekt de Sociale verzekeringsbank aan de
 
 ##### Artikel 4. Afrekening
 
-1. In de jaarrekening, bedoeld in [artikel 49 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49), worden de baten en lasten, alsmede de ontvangen voorschotten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=2&artikel=3&z=2023-10-13&g=2023-10-13), met betrekking tot de kinderopvangtoeslag buitenland opgenomen.
+1. In de jaarrekening, bedoeld in [artikel 49 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49), worden de baten en lasten, alsmede de ontvangen voorschotten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01), met betrekking tot de kinderopvangtoeslag buitenland opgenomen.
 
 2. Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in [artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34), rekent de minister de baten en lasten, alsmede de ontvangen voorschotten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.
 
@@ -84,7 +84,7 @@ Voor 1 oktober van elk kalenderjaar verstrekt de Sociale verzekeringsbank aan de
 
 ##### Artikel 5. Systeembeschrijving
 
-De systeembeschrijving, bedoeld in [artikel 4, vijfde lid, van het Besluit registers](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&artikel=4), wordt vastgesteld overeenkomstig de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&bijlage=1&z=2023-10-13&g=2023-10-13).
+De systeembeschrijving, bedoeld in [artikel 4, vijfde lid, van het Besluit registers](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&artikel=4), wordt vastgesteld overeenkomstig de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&bijlage=1&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 6. Taak Dienst Uitvoering Onderwijs
 
@@ -154,7 +154,7 @@ De inzet van beroepskrachten in opleiding en stagiairs, bedoeld in artikel 7, ac
 
 - a. de toezichthouder, bedoeld in [artikel 1.61 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.61), tijdig de gegevens, bedoeld in het tweede lid, onder a tot en met e, respectievelijk in het derde lid, kunnen worden verstrekt die voor de naleving van bij en krachtens [hoofdstuk 1, afdeling 3, paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&paragraaf=2) en [3, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&paragraaf=3) gegeven voorschriften van belang zijn;
 
-- b. de Belastingdienst/Toeslagen tijdig, de gegevens of inlichtingen over de gegevens, bedoeld in het tweede lid, onder e, f, g, h en i, respectievelijk derde lid, eerste zin, voor zover betrekking hebbend op onderdeel e, en tweede zin, onder b, c, d, e, f, of h kunnen worden verstrekt die voor de aanspraak van een ouder op en de hoogte van de kinderopvangtoeslag en het voorschot daarop van belang kan zijn; of
+- b. de Dienst Toeslagen tijdig, de gegevens of inlichtingen over de gegevens, bedoeld in het tweede lid, onder e, f, g, h en i, respectievelijk derde lid, eerste zin, voor zover betrekking hebbend op onderdeel e, en tweede zin, onder b, c, d, e, f, of h kunnen worden verstrekt die voor de aanspraak van een ouder op en de hoogte van de kinderopvangtoeslag en het voorschot daarop van belang kan zijn; of
 
 - c. het college tijdig, de gegevens of inlichtingen over de gegevens, bedoeld in het tweede lid, onder e en f, respectievelijk derde lid, eerste zin, voor zover betrekking hebbend op onderdeel e, en tweede zin, onder b, c, d, e of f kunnen worden verstrekt die voor de aanspraak van een ouder op en de hoogte van de kinderopvangtoeslag of de hoogte van de tegemoetkoming van de gemeente van belang zijn.
 
@@ -242,7 +242,7 @@ Vervallen
 
 ##### Artikel 15. Buitenlandse kinderopvangvoorzieningen
 
-Bij de beoordeling van een aanvraag tot gelijkstelling als bedoeld in [artikel 1.48, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48) worden de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&bijlage=2&z=2023-10-13&g=2023-10-13) genoemde criteria en bewijsstukken, bedoeld in [artikel 10a, eerste lid, onderdeel h, van het Besluit landelijk register kinderopvang, register buitenlandse kinderopvang en personenregister kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&artikel=10a) gebruikt.
+Bij de beoordeling van een aanvraag tot gelijkstelling als bedoeld in [artikel 1.48, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48) worden de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&bijlage=2&z=2024-01-01&g=2024-01-01) genoemde criteria en bewijsstukken, bedoeld in [artikel 10a, eerste lid, onderdeel h, van het Besluit landelijk register kinderopvang, register buitenlandse kinderopvang en personenregister kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&artikel=10a) gebruikt.
 
 ##### Artikel 16. Wijzigingen in het register buitenlandse kinderopvang
 
@@ -252,7 +252,7 @@ Vervallen
 
 ##### Artikel 17. Overgangsbepaling met betrekking tot gemeentelijk verslag
 
-De verplichting van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=6&artikel=12&z=2023-10-13&g=2023-10-13) geldt voor het eerst over het kalenderjaar volgend op het kalenderjaar waarop dat artikel in werking is getreden.
+De verplichting van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=6&artikel=12&z=2024-01-01&g=2024-01-01) geldt voor het eerst over het kalenderjaar volgend op het kalenderjaar waarop dat artikel in werking is getreden.
 
 ##### Artikel 18. Tijdstip van inwerkingtreding
 
@@ -516,7 +516,7 @@ Het landelijk register kinderopvang is in de uitvoering gerealiseerd en bijeenge
 
 Tevens is aan het LRK een toezichts- en handhavingssysteem gekoppeld: de Gemeenschappelijke Inspectieruimte (GIR). Deze GIR is via het Overheidsportaal toegankelijk voor GGD’en en gemeenten en wordt gebruikt om toezicht en handhaving te faciliteren: toezichtsgegevens kunnen makkelijk in het systeem worden vastgelegd en inspectierapporten en handhavingsbrieven kunnen worden gegenereerd. Tevens kan gemakkelijk informatie worden uitgewisseld tussen GGD en gemeente. De GIR wordt ook gebruikt bij het genereren van de jaarverantwoording door gemeenten aan de Inspectie van het Onderwijs (de tweedelijns toezichthouder).
 
-Het LRK staat in verbinding met het toeslagensysteem van de Belastingdienst/Toeslagen, die het LRK gebruikt bij de toekenning van de kinderopvangtoeslag.
+Het LRK staat in verbinding met het toeslagensysteem van de Dienst Toeslagen, die het LRK gebruikt bij de toekenning van de kinderopvangtoeslag.
 
 Het openbare deel van de gegevens in het LRK is via een website voor iedereen in te zien (het Publieksportaal). In het Publieksportaal kan op diverse manieren gezocht worden naar kinderopvangvoorzieningen en wordt allerlei informatie over de voorzieningen en de houders zichtbaar gemaakt. Deze informatie kan via internet ook in de vorm van een spreadsheet door iedereen worden gedownload via Open data Rijksoverheid.
 
@@ -524,7 +524,7 @@ Het openbare deel van de gegevens in het LRK is via een website voor iedereen in
 
 DUO zorgt in opdracht van de minister voor het beheer en de verdere ontwikkeling van het systeemcomplex LRK/GIR. In een jaarlijks contract met daarbij een Dienstverleningsovereenkomst en een Service Level Agreement wordt vastgelegd welke werkzaamheden DUO dient uit te voeren en welke doelen bereikt moeten worden. Iedere maand wordt door DUO gerapporteerd over het Service level en ieder kwartaal vindt op directeursniveau overleg plaats over de voortgang en het niveau van de dienstverlening.
 
-Er is minstens eenmaal per maand overleg tussen de ketenpartners (DUO, SZW, ICT Uitvoeringsorganisatie, Vereniging Nederlandse Gemeenten (hierna: VNG), GGD Nederland, Belastingdienst/Toeslagen, Inspectie van het Onderwijs) over de voortgang en over vraagstukken in de uitvoering. Tevens is er maandelijks een Change Advisory Board (hierna: CAB), met daarin voornoemde partijen, die systeemwijzigingsvoorstellen prioriteert en de opdrachtgever adviseert over de doorontwikkeling van het systeem. In principe is er een halfjaarlijkse nieuwe release, waarin eventuele wijzigingen in beleid en regelgeving en gebruikerswensen zijn verwerkt.
+Er is minstens eenmaal per maand overleg tussen de ketenpartners (DUO, SZW, ICT Uitvoeringsorganisatie, Vereniging Nederlandse Gemeenten (hierna: VNG), GGD Nederland, Dienst Toeslagen, Inspectie van het Onderwijs) over de voortgang en over vraagstukken in de uitvoering. Tevens is er maandelijks een Change Advisory Board (hierna: CAB), met daarin voornoemde partijen, die systeemwijzigingsvoorstellen prioriteert en de opdrachtgever adviseert over de doorontwikkeling van het systeem. In principe is er een halfjaarlijkse nieuwe release, waarin eventuele wijzigingen in beleid en regelgeving en gebruikerswensen zijn verwerkt.
 
 VNG, GGD Nederland en DUO hebben veelvuldig overleg met gebruikers van het systeem. Eventuele gewenste wijzigingen kunnen via een wijzigingsvoorstel worden ingebracht in het CAB, dat daar vervolgens over adviseert. De hele procedure van het indienen van een wijzigingsvoorstel tot de uiteindelijke wijziging van het systeem is in een beschrijving vastgelegd en maakt onderdeel uit van de Dienstverleningsovereenkomst.
 
@@ -532,13 +532,13 @@ DUO zorgt voor een helpdesk en een nieuwsbrief aan gebruikers en gaat met regiom
 
 De binnenkomende aanvragen en bewijsstukken worden in eerste instantie verzameld en handmatig verwerkt. Dit wordt onder andere zo gedaan omdat het belangrijk is de bewijsstukken fysiek te kunnen beoordelen. Nadat een beschikking is afgegeven wordt het dossier als één geheel gescand en zowel fysiek als digitaal gearchiveerd.
 
-Het beheer van het register buitenlandse kinderopvang wordt ondergebracht bij de Helpdesk Kinderopvang van DUO. Omdat door het afschaffen van de gelijkgestelde categorieën kinderopvang het aantal aanvragen tot inschrijving in het register buitenlandse kinderopvang zal toenemen, wordt ter ondersteuning van de uitvoering een compacte applicatie ingericht waarin de aanvragen en de daaruit volgende registraties worden bijgehouden. In deze applicatie wordt onder meer bijgehouden wat de status van een aanvraag is, en of en zo ja, welke brieven en beschikkingen er zijn verstuurd. Bij elke registratie wordt een identificerend nummer gegenereerd dat onder andere gebruikt wordt in de communicatie met de Belastingdienst/Toeslagen en dat ook gebruikt kan worden om gearchiveerde bewijsstukken op te vragen uit het digitaal archief van DUO.
+Het beheer van het register buitenlandse kinderopvang wordt ondergebracht bij de Helpdesk Kinderopvang van DUO. Omdat door het afschaffen van de gelijkgestelde categorieën kinderopvang het aantal aanvragen tot inschrijving in het register buitenlandse kinderopvang zal toenemen, wordt ter ondersteuning van de uitvoering een compacte applicatie ingericht waarin de aanvragen en de daaruit volgende registraties worden bijgehouden. In deze applicatie wordt onder meer bijgehouden wat de status van een aanvraag is, en of en zo ja, welke brieven en beschikkingen er zijn verstuurd. Bij elke registratie wordt een identificerend nummer gegenereerd dat onder andere gebruikt wordt in de communicatie met de Dienst Toeslagen en dat ook gebruikt kan worden om gearchiveerde bewijsstukken op te vragen uit het digitaal archief van DUO.
 
 ### 1.4. Relatie met de andere architectuurdocumenten
 
 De regelgeving is verwerkt in werkinstructies aan de hand waarvan de Helpdesk Kinderopvang werkt. Naarmate de regeling tot meer landen wordt uitgebreid zullen ook daarvoor werkinstructies worden opgesteld.
 
-Rond eind 2014/begin 2015 zal worden aangesloten op de bestaande koppeling tussen het LRK en de Belastingdienst/Toeslagen. De gegevens van de geregistreerde buitenlandse kinderopvanginstellingen zullen dan via een automatische koppeling worden doorgegeven naar de Belastingdienst/Toeslagen. In principe wordt aangesloten op de bestaande koppeling, maar dat gebeurt zodanig dat de berichten onderscheiden kunnen worden van de berichten die betrekking hebben op het LRK, zodat de beide stromen van elkaar gescheiden blijven. Alleen de medewerkers van de Helpdesk Kinderopvang hebben toegang tot de beheerfunctionaliteit van het register buitenlandse kinderopvang.
+Rond eind 2014/begin 2015 zal worden aangesloten op de bestaande koppeling tussen het LRK en de Dienst Toeslagen. De gegevens van de geregistreerde buitenlandse kinderopvanginstellingen zullen dan via een automatische koppeling worden doorgegeven naar de Dienst Toeslagen. In principe wordt aangesloten op de bestaande koppeling, maar dat gebeurt zodanig dat de berichten onderscheiden kunnen worden van de berichten die betrekking hebben op het LRK, zodat de beide stromen van elkaar gescheiden blijven. Alleen de medewerkers van de Helpdesk Kinderopvang hebben toegang tot de beheerfunctionaliteit van het register buitenlandse kinderopvang.
 
 Specifieke aandachtspunten en eisen betreffende beveiliging en beheer zijn te vinden in respectievelijk hoofdstuk 7 en 8.
 
@@ -3574,7 +3574,7 @@ Vervallen
 
 ##### Artikel 10e
 
-1. Aan de Directeur-generaal van de Dienst Uitvoering Onderwijs wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van alle benodigde werkzaamheden, waaronder het vaststellen en ondertekenen van stukken, ter uitvoering van de bevoegdheid van de minister, genoemd in de [artikelen 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10&z=2023-10-13&g=2023-10-13), [10a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10a&z=2023-10-13&g=2023-10-13) en [10b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10b&z=2023-10-13&g=2023-10-13).
+1. Aan de Directeur-generaal van de Dienst Uitvoering Onderwijs wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van alle benodigde werkzaamheden, waaronder het vaststellen en ondertekenen van stukken, ter uitvoering van de bevoegdheid van de minister, genoemd in de [artikelen 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10&z=2024-01-01&g=2024-01-01), [10a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10a&z=2024-01-01&g=2024-01-01) en [10b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10b&z=2024-01-01&g=2024-01-01).
 
 2. Aan de Directeur-generaal van de Dienst Uitvoering Onderwijs wordt mandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken, die betrekking hebben op de afhandeling van administratieve stukken inzake klacht-, bezwaar- en beroepsprocedures, voor zover deze verband houden met de uitoefening van de bevoegdheden, genoemd in het eerste lid en met dien verstande dat de Directeur-generaal geen besluit op bezwaar neemt met betrekking tot een bezwaarschrift tegen een besluit dat de Directeur-generaal in mandaat heeft genomen.
 
@@ -3740,7 +3740,7 @@ Vervallen
 
 ##### Artikel 17c
 
-Indien een ouder op 31 december 2013 gebruik maakte van een buiten Nederland gevestigd kindercentrum of gevestigde gastouder als bedoeld in de [artikelen 16a tot en met 16d](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7a&artikel=16a&z=2023-10-13&g=2023-10-13), zoals deze luidden op 31 december 2013, wordt dit kindercentrum of deze gastouder voor het gebruik door deze ouder tot 1 januari 2015 aangemerkt als een in het register buitenlandse kinderopvang ingeschreven voorziening als bedoeld in [artikel 1.48, eerste of tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48).
+Indien een ouder op 31 december 2013 gebruik maakte van een buiten Nederland gevestigd kindercentrum of gevestigde gastouder als bedoeld in de [artikelen 16a tot en met 16d](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7a&artikel=16a&z=2024-01-01&g=2024-01-01), zoals deze luidden op 31 december 2013, wordt dit kindercentrum of deze gastouder voor het gebruik door deze ouder tot 1 januari 2015 aangemerkt als een in het register buitenlandse kinderopvang ingeschreven voorziening als bedoeld in [artikel 1.48, eerste of tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48).
 
 ## Bijlage 1a
 
@@ -3802,7 +3802,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 11i. Overgangsbepaling klachtenverslag
 
-[Artikel 11h](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=5c&artikel=11h&z=2023-10-13&g=2023-10-13) zoals dat luidde de dag voorafgaand aan het tijdstip van inwerkingtreding van artikel I van de Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 21 augustus 2017 tot wijziging van diverse regelingen in verband met de harmonisatie van de regelgeving met betrekking tot kindercentra en peuterspeelzalen (Stcrt. 2017, 49281) blijft van toepassing op het verslag dat ziet op het kalenderjaar voorafgaand aan het tijdstip van inwerkingtreding van artikel I van genoemde regeling.
+[Artikel 11h](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=5c&artikel=11h&z=2024-01-01&g=2024-01-01) zoals dat luidde de dag voorafgaand aan het tijdstip van inwerkingtreding van artikel I van de Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 21 augustus 2017 tot wijziging van diverse regelingen in verband met de harmonisatie van de regelgeving met betrekking tot kindercentra en peuterspeelzalen (Stcrt. 2017, 49281) blijft van toepassing op het verslag dat ziet op het kalenderjaar voorafgaand aan het tijdstip van inwerkingtreding van artikel I van genoemde regeling.
 
 #### Paragraaf 7. Kinderopvang buiten Nederland
 
@@ -3850,15 +3850,15 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. De minister verwerkt de gegevens van de personen die op 28 februari 2018 op basis van de [artikelen 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&artikel=9a) en [9b van het Besluit registers](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&artikel=9b) continu gescreend worden in het personenregister kinderopvang in de periode die loopt van 1 maart 2018 tot 1 juli 2018.
 
-2. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=5&artikel=11&z=2023-10-13&g=2023-10-13) zoals dat luidde op 28 februari 2018 blijft ten aanzien van de in het eerste lid genoemde personen en gedurende de in het eerste lid genoemde periode van toepassing tot het tijdstip waarop deze personen, voor zover daartoe verplicht op grond van de [artikelen 1.50, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.50), [1.56, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.56), en [1.56b, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.56b), zijn ingeschreven in het personenregister kinderopvang en op grond van [artikel 1.48d, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48d), zijn gekoppeld aan de houder van een kindercentrum of gastouderbureau.
+2. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=5&artikel=11&z=2024-01-01&g=2024-01-01) zoals dat luidde op 28 februari 2018 blijft ten aanzien van de in het eerste lid genoemde personen en gedurende de in het eerste lid genoemde periode van toepassing tot het tijdstip waarop deze personen, voor zover daartoe verplicht op grond van de [artikelen 1.50, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.50), [1.56, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.56), en [1.56b, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.56b), zijn ingeschreven in het personenregister kinderopvang en op grond van [artikel 1.48d, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48d), zijn gekoppeld aan de houder van een kindercentrum of gastouderbureau.
 
-## Bijlage 1. behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=3&artikel=5&z=2023-10-13&g=2023-10-13)
+## Bijlage 1. behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=3&artikel=5&z=2024-01-01&g=2024-01-01)
 
 ## Bijlage 1g
 
 Vervallen
 
-## Bijlage 2. behorende bij [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=15&z=2023-10-13&g=2023-10-13)
+## Bijlage 2. behorende bij [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7&artikel=15&z=2024-01-01&g=2024-01-01)
 
 | **Land** | **Regio** | **Soorten kinderopvang** | **Bewijsstukken** | **Uitgezonderde soorten kinderopvang** |
 | --- | --- | --- | --- | --- |
