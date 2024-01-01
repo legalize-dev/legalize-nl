@@ -4,7 +4,7 @@ identifier: "BWBR0043609"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2020-06-06"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043609"
 soort: "ministeriele-regeling"
@@ -44,25 +44,25 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=1.1);
+- **bevoegd gezag:** bestuursorgaan dat bevoegd is tot het nemen van een besluit ten aanzien van een aanvraag om een omgevingsvergunning als bedoeld in [artikel 5.1, eerste lid, onder b, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1) of ten aanzien van een al verleende omgevingsvergunning;
 
-- **eigenaar:** eigenaar als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043609&artikel=3&z=2020-06-06&g=2020-06-06);
+- **eigenaar:** eigenaar als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043609&artikel=3&z=2024-01-01&g=2024-01-01);
 
 - **instandhoudingskosten:** kosten van werkzaamheden, maatregelen en voorzieningen en andere kosten die in de [Leidraad](onbekend) als subsidiabel zijn aangemerkt, met inbegrip van de werkzaamheden, bedoeld in hoofdstuk 1.3, paragraaf 92, van de Leidraad ten aanzien van een groen monument als bedoeld in [artikel 1 van de Subsidieregeling instandhouding monumenten](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&artikel=1) die in de Leidraad als onderhoud prioriteit 2 of restauratie zijn aangemerkt;
 
 - **Kaderregeling:** [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603);
 
-- **kosten voor toegankelijkheidsverbetering:** kosten als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043609&artikel=4&z=2020-06-06&g=2020-06-06);
+- **kosten voor toegankelijkheidsverbetering:** kosten als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043609&artikel=4&z=2024-01-01&g=2024-01-01);
 
 - **Leidraad:** Leidraad subsidiabele instandhoudingskosten, opgenomen als [bijlage bij de Subsidieregeling instandhouding monumenten](onbekend);
 
 - **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
 
-- **verduurzamingsadvies:** verduurzamingsadvies dat voldoet aan de eisen die daaraan in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043609&bijlage=1&z=2020-06-06&g=2020-06-06) bij deze regeling zijn gesteld;
+- **verduurzamingsadvies:** verduurzamingsadvies dat voldoet aan de eisen die daaraan in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043609&bijlage=1&z=2024-01-01&g=2024-01-01) bij deze regeling zijn gesteld;
 
 - **rijksmonument:** rijksmonument als bedoeld in [artikel 1.1 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=1.1);
 
-- **verduurzamingskosten:** kosten van werkzaamheden, maatregelen en voorzieningen en andere kosten van maatregelen die op grond van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043609&bijlage=2&z=2020-06-06&g=2020-06-06)bij deze regeling als subsidiabel zijn aangemerkt;
+- **verduurzamingskosten:** kosten van werkzaamheden, maatregelen en voorzieningen en andere kosten van maatregelen die op grond van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043609&bijlage=2&z=2024-01-01&g=2024-01-01)bij deze regeling als subsidiabel zijn aangemerkt;
 
 - **werkzaamheden:** werkzaamheden, maatregelen en voorzieningen waarvoor op grond van deze regeling subsidie kan worden verleend.
 
@@ -159,9 +159,9 @@ Het subsidiepercentage bedraagt ten hoogste 70% van de subsidiabele kosten.
 
 2. Indien in een aanvraag aanspraak wordt gemaakt op subsidie voor verduurzamingskosten gaat de aanvraag vergezeld van:
 
-- a. een verduurzamingsadvies als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043609&bijlage=1&z=2020-06-06&g=2020-06-06);
+- a. een verduurzamingsadvies als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043609&bijlage=1&z=2024-01-01&g=2024-01-01);
 
-- b. een plan met betrekking tot de verduurzamingswerkzaamheden die worden verricht, dat voldoet aan de aan de verschillende werkzaamheden verbonden indieningsvereisten als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043609&bijlage=2&z=2020-06-06&g=2020-06-06) en dat bestaat uit;
+- b. een plan met betrekking tot de verduurzamingswerkzaamheden die worden verricht, dat voldoet aan de aan de verschillende werkzaamheden verbonden indieningsvereisten als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043609&bijlage=2&z=2024-01-01&g=2024-01-01) en dat bestaat uit;
 
 - 1°. een omschrijving van de voorgenomen werkzaamheden;
 
@@ -183,7 +183,7 @@ Het subsidiepercentage bedraagt ten hoogste 70% van de subsidiabele kosten.
 
 - 1°. een omschrijving van de voorgenomen werkzaamheden en het daarmee te bereiken doel; en
 
-- 2°. voor zover het fysieke werkzaamheden aan het rijksmonument betreft, tekeningen waarop de voorgenomen werkzaamheden staan aangegeven en, indien de werkzaamheden betrekking hebben op de verbetering van de toegankelijkheid van het rijksmonument voor mensen met een visuele of motorische beperking, bedoeld in [artikel 4, derde lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0043609&artikel=4&z=2020-06-06&g=2020-06-06), waarop staat aangegeven hoe aan de daar genoemde vereisten wordt voldaan, met inbegrip van de route vanaf de entree;
+- 2°. voor zover het fysieke werkzaamheden aan het rijksmonument betreft, tekeningen waarop de voorgenomen werkzaamheden staan aangegeven en, indien de werkzaamheden betrekking hebben op de verbetering van de toegankelijkheid van het rijksmonument voor mensen met een visuele of motorische beperking, bedoeld in [artikel 4, derde lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0043609&artikel=4&z=2024-01-01&g=2024-01-01), waarop staat aangegeven hoe aan de daar genoemde vereisten wordt voldaan, met inbegrip van de route vanaf de entree;
 
 - 3°. een op de onder 1° bedoelde omschrijving gebaseerd bestek of een op die beschrijving gebaseerde werkomschrijving;
 
@@ -209,7 +209,7 @@ Subsidieverstrekking wordt geweigerd:
 
 ##### Artikel 9. Subsidieverplichtingen
 
-1. Voor zover voor de werkzaamheden een omgevingsvergunning als bedoeld in [artikel 2.1, eerste lid, onderdeel f, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) is vereist, vangen de werkzaamheden niet aan zonder of in afwijking van de omgevingsvergunning.
+1. Voor zover voor de werkzaamheden een omgevingsvergunning als bedoeld in [artikel 5.1, eerste lid, onder b, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1) is vereist, vangen de werkzaamheden niet aan zonder of in afwijking van de omgevingsvergunning.
 
 2. Voor zover de werkzaamheden aan het rijksmonument leiden tot een exploitatiewinst die een redelijke winst ontstijgt, wendt de eigenaar die uitsluitend aan ten behoeve van de instandhouding van het rijksmonument.
 
@@ -235,7 +235,7 @@ Subsidieverstrekking wordt geweigerd:
 
 ##### Artikel 10. Verlening subsidie en bevoorschotting
 
-1. In afwijking van [artikel 4.1, eerste lid, van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=4.1) besluit de minister binnen 22 weken na ontvangst ervan op een aanvraag als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043609&artikel=6&z=2020-06-06&g=2020-06-06).
+1. In afwijking van [artikel 4.1, eerste lid, van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=4.1) besluit de minister binnen 22 weken na ontvangst ervan op een aanvraag als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043609&artikel=6&z=2024-01-01&g=2024-01-01).
 
 2. In aanvulling op [artikel 4.2 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=4.2) neemt de minister bij het besluit tot subsidieverlening een datum op, waarop de werkzaamheden uiterlijk worden afgerond.
 
@@ -275,11 +275,11 @@ De minister kan een model vaststellen voor de prestatieverklaring en voor het fi
 
 ##### Artikel 15. Vaststelling subsidie
 
-1. De eigenaar dient binnen 22 weken na de datum, bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043609&artikel=10&z=2020-06-06&g=2020-06-06), een aanvraag tot vaststelling in, met gebruikmaking van het formulier dat daartoe door de Rijksdienst voor het Cultureel Erfgoed beschikbaar wordt gesteld.
+1. De eigenaar dient binnen 22 weken na de datum, bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043609&artikel=10&z=2024-01-01&g=2024-01-01), een aanvraag tot vaststelling in, met gebruikmaking van het formulier dat daartoe door de Rijksdienst voor het Cultureel Erfgoed beschikbaar wordt gesteld.
 
 2. De minister besluit binnen 22 weken op een aanvraag tot vaststelling.
 
-3. Indien de verleende subsidie minder dan € 25.000 bedraagt, zijn het eerste en tweede lid niet van toepassing. In dat geval wordt de verleende subsidie ambtshalve vastgesteld binnen 22 weken na de datum, bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043609&artikel=10&z=2020-06-06&g=2020-06-06).
+3. Indien de verleende subsidie minder dan € 25.000 bedraagt, zijn het eerste en tweede lid niet van toepassing. In dat geval wordt de verleende subsidie ambtshalve vastgesteld binnen 22 weken na de datum, bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043609&artikel=10&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 16. Wijziging bij inwerkingtreding [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885)
 
