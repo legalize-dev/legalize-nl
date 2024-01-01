@@ -129,19 +129,3 @@ Deze wet treedt in werking met ingang van 1 januari 2024.
 Deze wet wordt aangehaald als: Wet compensatie wegens selectie aan de poort.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 2a. Toekenning bij overlijden belanghebbende
-
-1. De inspecteur kent de compensatie, bedoeld in [artikel 2, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049128&artikel=2&z=2026-01-01&g=2026-01-01), ambtshalve toe aan de nabestaanden, indien de belanghebbende is overleden voordat de compensatie waarop deze belanghebbende recht zou hebben bij leven aan hem bij voor bezwaar vatbare beschikking is toegekend.
-
-2. Indien meerdere kinderen op grond van het eerste lid aanspraak maken op de compensatie, wordt het bedrag van de compensatie verdeeld naar evenredigheid van het aantal kinderen dat in aanmerking komt voor die compensatie.
-
-3. Nabestaanden die niet bekend zijn bij de inspecteur kunnen een gemotiveerde aanvraag doen tot toekenning van de compensatie.
-
-4. De aanvraag wordt voor 1 januari 2027 ingediend.
-
-5. De inspecteur beslist op de aanvraag binnen een termijn van zes weken na ontvangst van de aanvraag. Deze termijn kan eenmaal met maximaal zes weken worden verlengd.
-
-6. Bij toekenning van de compensatie aan een nabestaande als bedoeld in het derde lid is de hoogte van de compensatie gelijk aan het bedrag dat aan een andere nabestaande van de overledene op grond van het eerste en tweede, onderscheidenlijk dit lid, is toegekend. Indien bij toepassing van dit lid nog geen compensatie is toegekend aan een nabestaande van de overledene op grond van het eerste en tweede, onderscheidenlijk dit lid, wordt het bedrag van de compensatie naar evenredigheid verdeeld over de nabestaanden die op grond van het eerste lid in aanmerking komen en waarbij de tegemoetkoming nog niet aan die nabestaanden is toegekend en de nabestaanden die op grond van het derde lid een aanvraag tot toekenning van de compensatie hebben gedaan en de inspecteur op die aanvragen nog geen besluit heeft genomen.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
