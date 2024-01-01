@@ -4,7 +4,7 @@ identifier: "BWBR0022929"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-01"
-last_updated: "2022-05-06"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022929"
 soort: "AMvB"
@@ -56,161 +56,95 @@ Treedt voor het toepassen van grond en baggerspecie in de Nederlandse territoria
 
 ##### Artikel 1
 
-In dit besluit en de daarop berustende bepalingen wordt, tenzij anders bepaald, verstaan onder:
+1. In dit besluit en de daarop berustende bepalingen wordt, tenzij anders bepaald, verstaan onder:
 
-**Achtergrondwaarden**: bij regeling van Onze Ministers vastgestelde gehalten aan chemische stoffen voor een goede bodemkwaliteit, waarvoor geldt dat er geen sprake is van belasting door lokale verontreinigingsbronnen;
+- **accreditatie:** bewijs waarmee de Raad voor Accreditatie kenbaar maakt dat gedurende een bepaalde periode een gerechtvaardigd vertrouwen bestaat dat de hierin genoemde persoon of instelling competent is voor het uitvoeren van de desbetreffende werkzaamheid;
 
-**Accreditatie**: bewijs waarmee de Raad voor Accreditatie kenbaar maakt dat gedurende een bepaalde periode een gerechtvaardigd vertrouwen bestaat dat de hierin genoemde persoon of instelling competent is voor het uitvoeren van de desbetreffende werkzaamheid;
+- **afleverbon:** begeleidend document bij een partij van een bouwstof of een partij grond of baggerspecie dat bij de afgifte van een milieuverklaring bodemkwaliteit wordt verstrekt en dat tot doel heeft de partij te identificeren als partij waarop de verklaring betrekking heeft;
 
-**Baggerspecie**: materiaal dat is vrijgekomen uit de bodem of oever van een oppervlaktewaterlichaam en dat bestaat uit minerale delen met een maximale korrelgrootte van 2 millimeter en organische stof in een verhouding en met een structuur zoals deze in de bodem van nature worden aangetroffen, alsmede van nature in de bodem voorkomende schelpen en grind met een korrelgrootte van 2 tot 63 millimeter;
+- **baggerspecie:** materiaal dat is vrijgekomen uit de bodem of oever van een oppervlaktewaterlichaam en dat bestaat uit minerale delen met een maximale korrelgrootte van 2 millimeter en organische stof in een verhouding en met een structuur zoals deze in de bodem van nature worden aangetroffen, alsmede van nature in de bodem voorkomende schelpen en grind met een korrelgrootte van 2 tot 63 millimeter;
 
-**Beheerder**: bestuursorgaan dat bevoegd is tot vergunningverlening ingevolge [artikel 6.2 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.2);
+- **bodem:** bodem als bedoeld in de [bijlage bij de Omgevingswet](onbekend);
 
-**Bodembeheergebied**: aaneengesloten, door het bestuursorgaan, bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=44&z=2022-05-06&g=2022-05-06), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=45&z=2022-05-06&g=2022-05-06) of [46](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=46&z=2022-05-06&g=2022-05-06), afgebakend deel van de oppervlakte van een of meer gemeenten of het beheergebied van een of meer beheerders;
+- **bodemfunctie:** bodemfunctie als bedoeld in [artikel 5.89p van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.89p), zoals aangegeven in het omgevingsplan;
 
-**Bodemfuncties**: gebruik van de bodem, niet zijnde de bodem of oever van een oppervlaktewaterlichaam, zoals dat is vastgesteld door de gemeenteraad, overeenkomstig een bij regeling van Onze Ministers vastgestelde indeling;
+- **bodemfunctieklasse:** bodemfunctieklasse als bedoeld in [artikel 5.89p van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.89p) waarin de ontvangende landbodem in het omgevingsplan is ingedeeld;
 
-**Bodemfunctieklassen**: bij regeling van Onze Ministers vastgestelde indeling van bodemfuncties in de categorieën, bedoeld in [artikel 55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=55&z=2022-05-06&g=2022-05-06);
+- **bodemkwaliteitskaart:** kaart als bedoeld in [artikel 25c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2a&artikel=25c&z=2024-01-01&g=2024-01-01);
 
-**Bouwstof**: materiaal waarin de totaalgehalten aan silicium, calcium of aluminium tezamen meer dan 10 gewichtsprocent van dat materiaal bedragen, uitgezonderd vlakglas, metallisch aluminium, grond of baggerspecie, dat is bestemd om te worden toegepast;
+- **bouwstof:** materiaal dat is bestemd om te worden toegepast, waarin de totaalgehalten aan silicium, calcium en aluminium tezamen meer dan 10 gewichtsprocent van dat materiaal bedragen, met uitzondering van vlakglas, metallisch aluminium, grond of baggerspecie;
 
-**Certificaat**: verklaring waarmee een door Onze Minister erkende certificeringsinstelling kenbaar maakt dat gedurende een bepaalde periode een gerechtvaardigd vertrouwen bestaat dat de hierin genoemde persoon voldoet aan het voor de certificering geldende normdocument;
+- **certificaat:** verklaring waarmee een door Onze Minister erkende certificeringsinstelling kenbaar maakt dat gedurende een bepaalde periode een gerechtvaardigd vertrouwen bestaat dat de hierin genoemde persoon voldoet aan het voor de certificering geldende normdocument;
 
-**Erkende kwaliteitsverklaring**: schriftelijke verklaring die is afgegeven door een instelling die daartoe beschikt over een erkenning, waarin wordt verklaard dat de bijbehorende partij die afkomstig is van een persoon of instelling die is erkend voor het produceren op basis van een nationale Beoordelingsrichtlijn, voldoet aan de bij of krachtens dit besluit gestelde eisen met betrekking tot de milieuhygiënische kwaliteit, mits toegepast op de in de verklaring aangegeven wijze;
+- **erkenning bodemkwaliteit:** op grond van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=9&z=2024-01-01&g=2024-01-01), gegeven beschikking waarbij wordt vastgesteld dat een persoon of een instelling voor een werkzaamheid voldoet aan de bij of krachtens dit besluit geldende voorwaarden;
 
-**Erkenning**: beschikking van Onze Ministers waarbij wordt vastgesteld dat een persoon of een instelling voor een werkzaamheid voldoet aan de bij of krachtens dit besluit geldende voorwaarden;
+- **grond:** vast materiaal dat bestaat uit minerale delen met een maximale korrelgrootte van 2 millimeter en organische stof in een verhouding en met een structuur zoals deze in de bodem van nature worden aangetroffen, alsmede van nature in de bodem voorkomende schelpen en grind met een korrelgrootte van 2 tot 63 millimeter, niet zijnde baggerspecie;
 
-**Fabrikant-eigenverklaring**: schriftelijke verklaring, afgegeven door de producent van een bouwstof, grond of baggerspecie, waarin deze verklaart dat de bijbehorende partij voldoet aan de bij of krachtens dit besluit gestelde eisen met betrekking tot de milieuhygiënische kwaliteit. Uit de verklaring blijkt op welke wijze is vastgesteld dat de partij voldoet aan de bij of krachtens dit besluit gestelde eisen;
+- **instelling:** certificeringsinstelling, inspectie-instelling, laboratorium of andere instelling, die beoordeelt of een persoon, stof, product, installatie, voorziening of ander object overeenstemt met een normdocument;
 
-**Grond**: vast materiaal dat bestaat uit minerale delen met een maximale korrelgrootte van 2 millimeter en organische stof in een verhouding en met een structuur zoals deze in de bodem van nature worden aangetroffen, alsmede van nature in de bodem voorkomende schelpen en grind met een korrelgrootte van 2 tot 63 millimeter, niet zijnde baggerspecie;
+- **landbodem:** bodem, niet zijnde waterbodem;
 
-**IBC-bouwstof**: bouwstof die vanwege de mate van emissie alleen met isolatie-, beheers-, en controlemaatregelen mag worden toegepast;
+- **mijnsteen:** bouwstof, in hoofdzaak bestaande uit gebroken schalie en zandsteen met bijmengingen van kolengruis, die als nevengesteente is vrijgekomen bij de winning van steenkool;
 
-**Instelling**: certificeringsinstelling, inspectie-instelling, laboratorium of andere instelling, die beoordeelt of een persoon, een stof, een product, een installatie, een voorziening of een ander object overeenstemt met een normdocument;
+- **normdocument:** op grond van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=3&artikel=25&z=2024-01-01&g=2024-01-01) aangewezen beoordelingsrichtlijn, protocol of andere richtlijn, code, aanbeveling of norm waarin eisen zijn opgenomen ter bevordering van de kwaliteit van werkzaamheden of de uitvoering daarvan;
 
-**Interventiewaarden**: bij regeling van Onze Ministers vastgestelde generieke waarden die aangeven dat bij overschrijding sprake is van potentiële ernstige vermindering van de functionele eigenschappen die de bodem voor mens, plant of dier heeft, als bedoeld in [artikel 36 van de Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=36);
+- **persoon:** natuurlijk persoon of rechtspersoon;
 
-**Isolatie, beheers- en controlemaatregelen**: maatregelen waardoor bij toepassing van een bouwstof nagenoeg geen contact optreedt van die bouwstof met hemelwater en grondwater;
+- **Raad voor Accreditatie:** Raad voor Accreditatie als bedoeld in [artikel 1 van de Wet aanwijzing nationale accreditatie-instantie](https://wetten.overheid.nl/jci1.3:c:BWBR0026591&artikel=1);
 
-**Kwaliteitsklasse**: bij regeling van Onze Ministers vastgestelde indeling in categorieën van de kwaliteit van de bodem, grond of baggerspecie;
+- **tarragrond:** aanhangende grond die vrijkomt bij het behandelen van het gewas na de oogst;
 
-**Landbouwbedrijf**: bedrijf als bedoeld in [artikel 1, eerste lid, onderdeel i, van de Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=1);
+- **vermengde mijnsteen:** bouwstof, bestaande uit mijnsteen die met ten hoogste 80 gewichtsprocent grond of baggerspecie is vermengd;
 
-**Mijnsteen:** bouwstof, in hoofdzaak bestaande uit gebroken schalie en zandsteen met bijmengingen van kolengruis, die als nevengesteente is vrijgekomen bij winning van steenkool;
+- **waterbodem:** bodem van een oppervlaktewaterlichaam waarvan het beheer van de waterkwaliteit bij het Rijk of het waterschap berust;
 
-**Milieuhygiënische verklaring**:
+- **werkzaamheid:** op grond van [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=8a&z=2024-01-01&g=2024-01-01) aangewezen werkzaamheid.
 
-- a. voor bouwstoffen, grond of baggerspecie: partijkeuring, fabrikant-eigenverklaring of erkende kwaliteitsverklaring, en
+2. Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt een hoeveelheid bouwstoffen als een partij aangemerkt als de bouwstoffen een vergelijkbare aard en samenstelling en dezelfde herkomst of producent hebben en als eenheid worden verhandeld of toegepast.
 
-- b. voor grond, baggerspecie of de bodem, waarop of waarin de grond of baggerspecie wordt toegepast: verklaring omtrent de milieuhygiënische kwaliteit van een specifieke partij of de bodem, die is afgegeven op basis van een kaart als bedoeld in [artikel 47, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=47&z=2022-05-06&g=2022-05-06), of [57, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=57&z=2022-05-06&g=2022-05-06) of een bij regeling van Onze Ministers aangewezen normdocument of onderzoeksprotocollen;
+3. Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt een hoeveelheid grond, baggerspecie, mijnsteen of vermengde mijnsteen als een partij aangemerkt als dat materiaal een vergelijkbare aard en samenstelling heeft en een eenheid vormt die is ontstaan door:
 
-**Milieuverklaring bodemkwaliteit:** overeenkomstig dit besluit afgegeven schriftelijke verklaring over de kwaliteit van een partij bouwstof, grond, baggerspecie, mijnsteen, vermengde mijnsteen of de bodem en die bedoeld is om, behoudens bewijs van onjuistheid of onvolledigheid, als wettig bewijsmiddel te dienen dat aan de toepasselijke kwaliteitseisen is voldaan;
+- a. het ontgraven van een hoeveelheid van het materiaal, die van oorsprong in de bodem:
 
-**Normdocument**: een voor een werkzaamheid op grond van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=3&artikel=25&z=2022-05-06&g=2022-05-06) aangewezen beoordelingsrichtlijn, protocol of andere richtlijn, code, aanbeveling of norm die of dat eisen bevat ter bevordering van de kwaliteit van werkzaamheden of de uitvoering daarvan;
+- 1°. fysiek aaneengesloten is; of
 
-**Onze Minister**: Onze Minister van Infrastructuur en Milieu;
+- 2°. gedeeltelijk onderbroken is en waarbij de onderlinge afstand tussen de niet aaneengesloten hoeveelheden niet meer dan 25 m bedraagt;
 
-**Parameter**: chemische stof of een fysische eigenschap;
+- b. het ontgraven van een van oorsprong in de bodem niet fysiek aaneengesloten hoeveelheid van dat materiaal die niet meer dan 25 m3 bedraagt;
 
-**Partij**: identificeerbare hoeveelheid bouwstof, grond of baggerspecie van vergelijkbare milieuhygiënische kwaliteit, die is bedoeld om als geheel te worden verhandeld of toegepast;
+- c. het bewerken van het materiaal; of
 
-**Partijkeuring**: schriftelijke verklaring op basis van een eenmalig onderzoek, dat wordt uitgevoerd door een persoon of instelling die daartoe beschikt over een erkenning, en waarin wordt vermeld of een partij onder het regime van het besluit kan worden toegepast en hoe dit is vastgesteld;
+- d. het samenvoegen of splitsen van partijen van het materiaal.
 
-**Persoon**: natuurlijk persoon of rechtspersoon;
-
-**Raad voor Accreditatie**: de Stichting Raad voor Accreditatie te Utrecht;
-
-**Toepassen van bouwstoffen**: in een werk aanbrengen of houden van bouwstoffen, alsmede het laten verrichten daarvan. Voor de toepassing van de bij of krachtens dit besluit gestelde regels wordt onder «het toepassen van bouwstoffen in een oppervlaktewaterlichaam» mede verstaan het toepassen van bouwstoffen op of in de bodem of oever van een oppervlaktewaterlichaam;
-
-**Toepassen van grond of baggerspecie**: het aanbrengen, verspreiden of tijdelijk opslaan van grond of baggerspecie als bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2022-05-06&g=2022-05-06), het houden van de aangebrachte of tijdelijk opgeslagen grond of baggerspecie in die toepassing, alsmede het laten verrichten daarvan. Voor de toepassing van de bij of krachtens dit besluit gestelde regels wordt onder het toepassen van grond of baggerspecie in een oppervlaktewaterlichaam mede verstaan het toepassen van grond of baggerspecie op of in de bodem of oever van een oppervlaktewaterlichaam;
-
-**Vestigingsplaats**: adres en woonplaats van een persoon of adres en woonplaats waar een instelling zetelt;
-
-**Vormgegeven bouwstof**: bouwstof met een volume per kleinste eenheid van ten minste 50 cm3, die onder normale omstandigheden een duurzame vormvastheid heeft;
-
-**Werk**: bouwwerk, weg- of waterbouwkundig werk of anderszins functionele toepassing van een bouwstof, uitgezonderd het verondiepen of het dempen van een oppervlaktewaterlichaam en het ophogen van de bodem ten behoeve van woonwijken en industrieterreinen.
-
-**Werkzaamheid**: een bij regeling van Onze Minister aangewezen handeling als bedoeld in [artikel 11A.2, tweede lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=11a.2), die wordt uitgevoerd met betrekking tot bodem, grond, baggerspecie, bouwstoffen of bodemenergiesystemen.
+4. Een milieuverklaring bodemkwaliteit kan de vorm hebben van een verklaring op grond van een partijkeuring, erkende kwaliteitsverklaring, fabrikant-eigenverklaring, verklaring op grond van een bodemonderzoek of verklaring op grond van een bodemkwaliteitskaart.
 
 ##### Artikel 2
 
-1. Voor de toepassing van de [artikelen 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=1&artikel=5&z=2022-05-06&g=2022-05-06), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=1&artikel=6&z=2022-05-06&g=2022-05-06), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=1&artikel=7&z=2022-05-06&g=2022-05-06), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=1&artikel=8&z=2022-05-06&g=2022-05-06), van hoofdstuk 3 en de daarop berustende bepalingen zijn, behoudens het tweede lid, burgemeester en wethouders van de gemeente waarin de bouwstoffen worden toegepast het bevoegd gezag ten opzichte van degene die een bouwstof toepast op of in de bodem, uitgezonderd de bodem of oever van een oppervlaktewaterlichaam.
-
-2. Indien bouwstoffen worden toegepast op of in de bodem, uitgezonderd de bodem of oever van een oppervlaktewaterlichaam, binnen een inrichting die behoort tot een categorie van inrichtingen die is aangewezen krachtens [artikel 1.1, derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1), en op grond van [artikel 2.4 van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.4) een ander orgaan dan burgemeester en wethouders bevoegd is of indien de vergunningplicht niet was opgeheven, bevoegd zou zijn een vergunning voor de inrichting te verlenen, is ook in het kader van dit besluit dat andere orgaan het bevoegd gezag.
-
-3. De beheerder is het bevoegd gezag ten opzichte van degene die een bouwstof toepast in een oppervlaktewaterlichaam.
-
-4. Onze Minister is het bevoegd gezag ten opzichte van degene die de handelingen, genoemd in [artikel 28, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&afdeling=1&artikel=28&z=2022-05-06&g=2022-05-06), verricht, met uitzondering van het toepassen van bouwstoffen.
+Vervallen
 
 ##### Artikel 3
 
-1. Voor de toepassing van de [artikelen 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=1&artikel=5&z=2022-05-06&g=2022-05-06), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=1&artikel=6&z=2022-05-06&g=2022-05-06), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=1&artikel=7&z=2022-05-06&g=2022-05-06), [8, van hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=1&artikel=8&z=2022-05-06&g=2022-05-06) en de daarop berustende bepalingen zijn, behoudens het tweede lid, burgemeester en wethouders van de gemeente waarin grond of baggerspecie op of in de bodem, uitgezonderd de bodem of oever van een oppervlaktewaterlichaam, wordt toegepast, het bevoegd gezag.
-
-2. Indien grond of baggerspecie op of in de bodem, uitgezonderd de bodem of oever van een oppervlaktewaterlichaam, wordt toegepast binnen een inrichting die behoort tot een categorie van inrichtingen, die is aangewezen krachtens [artikel 1.1, derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1), en op grond van [artikel 2.4 van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.4) een ander orgaan dan burgemeester en wethouders bevoegd gezag is of zou zijn, is dat andere orgaan het bevoegd gezag.
-
-3. De beheerder is het bevoegd gezag voor degene die grond of baggerspecie toepast in een oppervlaktewaterlichaam.
+Vervallen
 
 ##### Artikel 4
 
-1. Onze Minister treft de noodzakelijke voorzieningen voor een doelmatig toezicht op de naleving van de bij of krachtens dit besluit gestelde verplichtingen, na afstemming met de bestuursorganen, bedoeld in het tweede tot en met derde lid, voorzover het daar andere bestuursorganen dan Onze Minister betreft. De voorzieningen hebben betrekking op de strategische, programmatische en onderling afgestemde uitoefening van de handhavingsbevoegdheden.
-
-2. Ingeval van toepassingen van bouwstoffen, grond of baggerspecie op of in de bodem, uitgezonderd de bodem of oever van een oppervlaktewaterlichaam, binnen een of meer bodembeheergebieden, waarvoor meerdere bestuursorganen bevoegd gezag zijn, wordt door de desbetreffende bestuursorganen één bevoegd gezag aangewezen dat namens de betrokken bestuursorganen zorgdraagt voor een gecoördineerd toezicht op de naleving van de bij of krachtens dit besluit gestelde verplichtingen.
-
-3. Burgemeester en wethouders hebben tot taak zorg te dragen voor de handhaving van de bij of krachtens dit besluit gestelde verplichtingen, voorzover zij betrekking hebben op:
-
-- a. het toepassen van bouwstoffen op of in de bodem, uitgezonderd de bodem of oever van een oppervlaktewaterlichaam;
-
-- b. het toepassen van grond of baggerspecie op of in de bodem, uitgezonderd de bodem of oever van een oppervlaktewaterlichaam, als bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2022-05-06&g=2022-05-06);
-
-- c. het verstrekken van een milieuhygiënische verklaring als bedoeld in [artikel 28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&afdeling=1&artikel=28&z=2022-05-06&g=2022-05-06);
-
-- d. het melden van een toepassing als bedoeld in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&afdeling=1&artikel=32&z=2022-05-06&g=2022-05-06) en [42](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=42&z=2022-05-06&g=2022-05-06).
-
-4. Onze Minister heeft tot taak zorg te dragen voor de handhaving van de bij of krachtens dit besluit gestelde verplichtingen, voor zover zij betrekking hebben op:
-
-- a. het in opdracht aanbrengen van bouwstoffenop of in de bodem, uitgezonderd de bodem of oever van een oppervlaktewaterlichaam;
-
-- b. het in opdracht verrichten van de handelingen, genoemd in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2022-05-06&g=2022-05-06), op of in de bodem, uitgezonderd de bodem of oever van een oppervlaktewaterlichaam.
-
-5. Aan de [artikelen 28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&afdeling=1&artikel=28&z=2022-05-06&g=2022-05-06), [32, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&afdeling=1&artikel=32&z=2022-05-06&g=2022-05-06), [42, eerste, negende en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=42&z=2022-05-06&g=2022-05-06), en [58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=58&z=2022-05-06&g=2022-05-06), wordt geacht te zijn voldaan, indien door één van de daartoe verplichte personen aan de desbetreffende verplichting is voldaan.
+Vervallen
 
 ##### Artikel 5
 
-1. Dit besluit is van toepassing op het toepassen van bouwstoffen, grond of baggerspecie, voor zover:
-
-- a. geen grotere hoeveelheid van die bouwstoffen, grond of baggerspecie wordt toegepast dan volgens gangbare maatstaven nodig is voor het functioneren van de toepassing,
-
-- b. de toepassing volgens gangbare maatstaven nodig is op de plaats waar deze plaatsvindt, of onder de omstandigheden waarin deze plaatsvindt; en
-
-- c. ingeval van het toepassen van afvalstoffen sprake is van nuttige toepassing in de zin van [artikel 1.1, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1).
-
-2. Het verbod, bedoeld in [artikel 6.2, eerste lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.2), geldt niet voor toepassingen van bouwstoffen, grond of baggerspecie in een oppervlaktewaterlichaam die voldoen aan het bepaalde in het eerste lid.
-
-3. Een toepassing in de zin van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&z=2022-05-06&g=2022-05-06) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&z=2022-05-06&g=2022-05-06) waarbij wordt afgeweken van de bepalingen in dit besluit is vergunningplichtig als bedoeld in [artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1). In afwijking van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=1&artikel=2&z=2022-05-06&g=2022-05-06) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=1&artikel=3&z=2022-05-06&g=2022-05-06) is Onze Minister het bevoegd gezag.
+Vervallen
 
 ##### Artikel 6
 
-Het stellen van regels als bedoeld in de [artikelen 28, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&afdeling=1&artikel=28&z=2022-05-06&g=2022-05-06), [30, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&afdeling=1&artikel=30&z=2022-05-06&g=2022-05-06), en [31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&afdeling=1&artikel=31&z=2022-05-06&g=2022-05-06), en het toetsen aan de maximale waarden, bedoeld in de [artikelen 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=44&z=2022-05-06&g=2022-05-06), [45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=45&z=2022-05-06&g=2022-05-06), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=46&z=2022-05-06&g=2022-05-06), [55, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=55&z=2022-05-06&g=2022-05-06), [57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=57&z=2022-05-06&g=2022-05-06), [60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=60&z=2022-05-06&g=2022-05-06) en [63, eerste lid, onderdeel a, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=63&z=2022-05-06&g=2022-05-06), geschiedt met inachtneming van de voorwaarde dat toepassingen van bouwstoffen, grond of baggerspecie voldoen aan de voorwaarden, bedoeld in artikel 13 van de kaderrichtlijn afvalstoffen.
+Vervallen
 
 ##### Artikel 7
 
-Degene die bouwstoffen, grond of baggerspecie toepast en die weet of redelijkerwijs had kunnen weten dat door zijn handelen of nalaten nadelige gevolgen voor een oppervlaktewaterlichaam ontstaan of kunnen ontstaan, die niet of onvoldoende worden voorkomen of beperkt door naleving van de bij of krachtens dit besluit gestelde regels, voorkomt die gevolgen of beperkt die zoveel mogelijk voor zover voorkomen niet mogelijk is en voor zover dit redelijkerwijs van hem kan worden gevergd.
+Vervallen
 
 ##### Artikel 8
 
-1. Degene die ingevolge de bij of krachtens dit besluit gestelde regels onderzoek dient te verrichten op of in een gedeelte van de bodem ten aanzien waarvan hem de nodige bevoegdheid ontbreekt, kan bij het bevoegd gezag een aanvraag indienen als bedoeld in [artikel 71 van de Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=71).
-
-2. De aanvrager, bedoeld in het eerste lid, verstrekt bij het verzoek de volgende gegevens:
-
-- a. zijn naam en adres;
-
-- b. de naam en het adres van de rechthebbenden;
-
-- c. de plaats waar het onderzoek zal plaatsvinden;
-
-- d. de aard, de omvang en het tijdstip van het voorgenomen onderzoek, en
-
-- e. de handelingen die de rechthebbenden in het belang van het onderzoek moeten nalaten.
+Vervallen
 
 ### Hoofdstuk 2. Kwaliteit van de uitvoering van een werkzaamheid
 
@@ -218,19 +152,19 @@ Degene die bouwstoffen, grond of baggerspecie toepast en die weet of redelijkerw
 
 ##### Artikel 9
 
-1. Onze Minister kan op aanvraag voor een werkzaamheid een erkenning verlenen aan een persoon of een instelling.
+1. Onze Minister kan op aanvraag voor een werkzaamheid een erkenning bodemkwaliteit verlenen aan een persoon of een instelling.
 
 2. De beschikking vermeldt ten minste de naam van de persoon of instelling, de werkzaamheid, de vestigingsplaats en, indien van toepassing, de naam van de natuurlijk persoon die werkzaam is voor de erkende persoon of instelling en die een van de bij regeling van Onze Minister aangewezen handelingen uitvoert.
 
-3. Een erkenning wordt voor onbepaalde tijd verleend.
+3. Een erkenning bodemkwaliteit wordt voor onbepaalde tijd verleend.
 
 4. Onze Minister stelt lijsten met erkende personen en instellingen beschikbaar via een door Onze Minister aangewezen website. Het besluit tot aanwijzing van de website wordt in de Staatscourant geplaatst.
 
-5. Een erkenning is niet overdraagbaar.
+5. Een erkenning bodemkwaliteit is niet overdraagbaar.
 
 ##### Artikel 10
 
-1. Een aanvraag voor een erkenning wordt door middel van een door Onze Minister vastgesteld formulier, ingediend bij Onze Minister.
+1. Een aanvraag voor een erkenning bodemkwaliteit wordt door middel van een door Onze Minister vastgesteld formulier, ingediend bij Onze Minister.
 
 2. Bij de aanvraag worden ten minste de volgende gegevens verstrekt:
 
@@ -242,7 +176,7 @@ Degene die bouwstoffen, grond of baggerspecie toepast en die weet of redelijkerw
 
 - d. de vestigingsplaats van de persoon of instelling;
 
-- e. indien van toepassing, de naam en een verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28), die niet ouder is dan zes maanden, van de natuurlijk persoon als bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=9&z=2022-05-06&g=2022-05-06).
+- e. indien van toepassing, de naam en een verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28), die niet ouder is dan zes maanden, van de natuurlijk persoon als bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=9&z=2024-01-01&g=2024-01-01).
 
 3. Onze Minister kan nadere regels stellen met betrekking tot de in het tweede lid bedoelde gegevens.
 
@@ -250,35 +184,35 @@ Degene die bouwstoffen, grond of baggerspecie toepast en die weet of redelijkerw
 
 1. Onze Minister beslist binnen acht weken na de datum van ontvangst van de aanvraag.
 
-2. Onze Minister verleent de erkenning geheel of gedeeltelijk, indien de desbetreffende persoon of instelling:
+2. Onze Minister verleent de erkenning bodemkwaliteit geheel of gedeeltelijk, indien de desbetreffende persoon of instelling:
 
 - a. niet in staat van faillissement of surseance van betaling verkeert; en
 
-- b. heeft voldaan aan [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=10&z=2022-05-06&g=2022-05-06).
+- b. heeft voldaan aan [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=10&z=2024-01-01&g=2024-01-01).
 
-3. Bij regeling van Onze Minister wordt aangegeven of een erkenning voor een werkzaamheid wordt gebaseerd op een certificaat of een accreditatie.
+3. Bij regeling van Onze Minister wordt aangegeven of een erkenning bodemkwaliteit voor een werkzaamheid wordt gebaseerd op een certificaat of een accreditatie.
 
-4. Een erkenning kan geheel of gedeeltelijk worden geweigerd, indien de desbetreffende persoon of instelling of een bestuurder van deze persoon of instelling, in de drie jaren voorafgaande aan de aanvraag een wettelijk voorschrift heeft overtreden dat is gesteld bij of krachtens dit besluit, bij of krachtens één van de in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=2&artikel=21&z=2022-05-06&g=2022-05-06) of [22](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=2&artikel=22&z=2022-05-06&g=2022-05-06) genoemde wetten of [artikel 225 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=225), voor zover de overtreding verband houdt met een werkzaamheid.
+4. Een erkenning bodemkwaliteit kan geheel of gedeeltelijk worden geweigerd, indien de desbetreffende persoon of instelling of een bestuurder van deze persoon of instelling, in de drie jaren voorafgaande aan de aanvraag een overtreding heeft begaan van een wettelijk voorschrift dat is gesteld bij of krachtens dit besluit of de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), een krachtens dit besluit aangewezen normdocument of [artikel 225 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=225), voor zover de overtreding verband houdt met een werkzaamheid.
 
-5. Een erkenning kan worden geweigerd in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3).
+5. Een erkenning bodemkwaliteit kan worden geweigerd in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3).
 
 6. Voordat toepassing wordt gegeven aan het vijfde lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=8), om een advies als bedoeld in [artikel 9 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=9) worden gevraagd.
 
 ##### Artikel 12
 
-1. Op verzoek van de erkende persoon of instelling kan de erkenning worden gewijzigd. [Artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=9&z=2022-05-06&g=2022-05-06), is van overeenkomstige toepassing.
+1. Op verzoek van de erkende persoon of instelling kan de erkenning bodemkwaliteit worden gewijzigd. [Artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=9&z=2024-01-01&g=2024-01-01), is van overeenkomstige toepassing.
 
-2. Het verzoek wordt, door middel van een door Onze Minister vastgesteld formulier, ingediend bij Onze Minister. [Artikel 10, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=10&z=2022-05-06&g=2022-05-06), is van overeenkomstige toepassing.
+2. Het verzoek wordt, door middel van een door Onze Minister vastgesteld formulier, ingediend bij Onze Minister. [Artikel 10, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=10&z=2024-01-01&g=2024-01-01), is van overeenkomstige toepassing.
 
-3. Onze Minister beslist binnen vier weken na de datum van ontvangst van het verzoek. [Artikel 11, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=11&z=2022-05-06&g=2022-05-06), is van overeenkomstige toepassing.
+3. Onze Minister beslist binnen vier weken na de datum van ontvangst van het verzoek. [Artikel 11, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=11&z=2024-01-01&g=2024-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 13
 
-1. Met een verklaring omtrent het gedrag als bedoeld in [artikel 10, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=10&z=2022-05-06&g=2022-05-06), wordt gelijkgesteld een verklaring omtrent het gedrag afgegeven door een daartoe bevoegde instantie in een andere lidstaat van de Europese Unie dan wel in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, op basis van onderzoekingen of documenten die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het beschermingsniveau dat met de nationale onderzoekingen of documenten wordt geboden, mits die verklaring niet ouder is dan zes maanden.
+1. Met een verklaring omtrent het gedrag als bedoeld in [artikel 10, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=10&z=2024-01-01&g=2024-01-01), wordt gelijkgesteld een verklaring omtrent het gedrag afgegeven door een daartoe bevoegde instantie in een andere lidstaat van de Europese Unie dan wel in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, op basis van onderzoekingen of documenten die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het beschermingsniveau dat met de nationale onderzoekingen of documenten wordt geboden, mits die verklaring niet ouder is dan zes maanden.
 
 2. Met een certificaat of accreditatie als bedoeld bij of krachtens dit besluit of in een normdocument wordt gelijkgesteld een certificaat of accreditatie afgegeven door een daartoe bevoegde instelling in een andere lidstaat van de Europese Unie dan wel in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, op basis van onderzoekingen of documenten die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het beschermingsniveau dat met de nationale onderzoekingen of de normdocumenten wordt geboden.
 
-3. Met een erkenning wordt gelijkgesteld een erkenning of een vergelijkbare beschikking afgegeven door een daartoe bevoegde instantie in een andere lidstaat van de Europese Unie dan wel in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, op basis van voorwaarden die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het beschermingsniveau dat met de voorwaarden, genoemd in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=10&z=2022-05-06&g=2022-05-06), wordt geboden. De [artikelen 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=9&z=2022-05-06&g=2022-05-06), en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=3&artikel=24&z=2022-05-06&g=2022-05-06) zijn van overeenkomstige toepassing.
+3. Met een erkenning bodemkwaliteit wordt gelijkgesteld een erkenning bodemkwaliteit of een vergelijkbare beschikking afgegeven door een daartoe bevoegde instantie in een andere lidstaat van de Europese Unie dan wel in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, op basis van voorwaarden die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het beschermingsniveau dat met de voorwaarden, genoemd in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=10&z=2024-01-01&g=2024-01-01), wordt geboden. De [artikelen 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=9&z=2024-01-01&g=2024-01-01), en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=3&artikel=24&z=2024-01-01&g=2024-01-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 14
 
@@ -288,9 +222,9 @@ Vervallen
 
 ##### Artikel 15
 
-1. Het is verboden een werkzaamheid uit te voeren zonder daartoe verleende erkenning.
+1. Het is verboden een werkzaamheid uit te voeren zonder daartoe verleende erkenning bodemkwaliteit.
 
-2. De in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=9&z=2022-05-06&g=2022-05-06), bedoelde handelingen kunnen slechts worden uitgevoerd door een natuurlijke persoon die staat vermeld op de erkenning.
+2. De in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=9&z=2024-01-01&g=2024-01-01), bedoelde handelingen kunnen slechts worden uitgevoerd door een natuurlijke persoon die staat vermeld op de erkenning bodemkwaliteit.
 
 3. Het bepaalde in het eerste en tweede lid geldt niet voorzover de werkzaamheid wordt uitgevoerd voor het verkrijgen van een certificaat of een accreditatie.
 
@@ -322,7 +256,7 @@ Het is een persoon of instelling verboden een resultaat van een werkzaamheid te 
 
 ##### Artikel 19
 
-De houder van een erkenning meldt onverwijld aan een door Onze Minister aangewezen instantie zijn door de rechtbank uitgesproken faillissement of surseance van betaling. De melding geschiedt door middel van een door Onze Minister vastgesteld formulier.
+De houder van een erkenning bodemkwaliteit meldt onverwijld aan een door Onze Minister aangewezen instantie zijn door de rechtbank uitgesproken faillissement of surseance van betaling. De melding geschiedt door middel van een door Onze Minister vastgesteld formulier.
 
 ##### Artikel 20
 
@@ -330,21 +264,17 @@ Een certificeringsinstelling of de Raad voor Accreditatie meldt een schorsing of
 
 ##### Artikel 21
 
-1. Een bestuursorgaan neemt een aanvraag om een beschikking, die bij of krachtens wettelijke voorschriften wordt gegeven, niet in behandeling indien daarbij gegevens zijn gevoegd die afkomstig zijn van een persoon of instelling die voor het verkrijgen van deze gegevens in strijd heeft gehandeld met [artikel 15, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=2&artikel=15&z=2022-05-06&g=2022-05-06).
-
-2. De wettelijke voorschriften, bedoeld in het eerste lid, zijn de [artikelen 2.1, eerste lid, aanhef en onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1), en [2.6 van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.6) en [8.49 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.49), en de [artikelen 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=29), en [39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=39), [39b](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=39b), [39c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=39c), [39d, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=39d), en [40, tweede lid, van de Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=40).
+Vervallen
 
 ##### Artikel 22
 
-1. Het is een ieder verboden om, ter voldoening aan bij of krachtens wettelijke voorschriften, gegevens te verstrekken aan een bestuursorgaan, indien hij weet of redelijkerwijs had kunnen vermoeden dat deze gegevens afkomstig zijn van een persoon of instelling die voor het verkrijgen van deze gegevens in strijd heeft gehandeld met [artikel 15, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=2&artikel=15&z=2022-05-06&g=2022-05-06).
-
-2. De wettelijke voorschriften, bedoeld in het eerste lid, zijn de [artikelen 8.40, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.40), de [artikelen 6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.6) en [6.7 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.7) en de [artikelen 6 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=6), [27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=27), [39, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=39), [39b, tweede lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=39b), [70](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=70) en [72 van de Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=72).
+Vervallen
 
 ### Afdeling 3. Sancties
 
 ##### Artikel 23
 
-1. Onze Minister kan een erkenning geheel of gedeeltelijk intrekken:
+1. Onze Minister kan een erkenning bodemkwaliteit geheel of gedeeltelijk intrekken:
 
 - a. op verzoek van de erkende persoon of instelling;
 
@@ -354,25 +284,25 @@ Een certificeringsinstelling of de Raad voor Accreditatie meldt een schorsing of
 
 - d. indien de erkende persoon of instelling in staat van faillissement verkeert of surseance van betaling heeft verkregen, of
 
-- e. indien de erkende persoon of instelling of de natuurlijk persoon, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=9&z=2022-05-06&g=2022-05-06), een wettelijk voorschrift heeft overtreden dat is gesteld bij of krachtens dit besluit, bij of krachtens de in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=2&artikel=21&z=2022-05-06&g=2022-05-06) of [22](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=2&artikel=22&z=2022-05-06&g=2022-05-06) genoemde wetten of [artikel 225 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=225), voor zover de overtreding verband houdt met een werkzaamheid.
+- e. indien de erkende persoon of instelling of de natuurlijk persoon, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=9&z=2024-01-01&g=2024-01-01), een overtreding heeft begaan van een wettelijk voorschrift dat is gesteld bij of krachtens dit besluit of de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), een krachtens dit besluit aangewezen normdocument of [artikel 225 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=225), voor zover de overtreding verband houdt met een werkzaamheid.
 
-2. Onze Minister kan een erkenning voor een periode van ten hoogste twee jaren, geheel of gedeeltelijk schorsen, indien:
+2. Onze Minister kan een erkenning bodemkwaliteit voor een periode van ten hoogste twee jaren, geheel of gedeeltelijk schorsen, indien:
 
 - a. het bewijs van certificatie of accreditatie voor de desbetreffende werkzaamheid is geschorst, of
 
 - b. sprake is van een overtreding als bedoeld in het eerste lid, onder e.
 
-3. Onze Minister kan een erkenning intrekken in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3).
+3. Onze Minister kan een erkenning bodemkwaliteit intrekken in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3).
 
 4. Voordat toepassing wordt gegeven aan het derde lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=8), om een advies als bedoeld in [artikel 9 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=9) worden gevraagd.
 
 5. Indien een besluit tot intrekking of schorsing betrekking heeft op een certificeringsinstelling blijven de door deze instelling afgegeven certificaten gedurende zes maanden geldig.
 
-6. Ingeval van aanwijzingen dat er sprake is van een overtreding als bedoeld in het eerste lid, onderdeel e, kan Onze Minister de desbetreffende persoon of instelling verzoeken binnen een redelijke termijn een verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28) over te leggen, die niet ouder is dan twee maanden. Indien de desbetreffende persoon of instelling niet binnen de gestelde termijn aan dit verzoek voldoet of kan voldoen, kan Onze Minister de erkenning voor een periode van ten hoogste twee jaren geheel of gedeeltelijk schorsen.
+6. Ingeval van aanwijzingen dat er sprake is van een overtreding als bedoeld in het eerste lid, onderdeel e, kan Onze Minister de desbetreffende persoon of instelling verzoeken binnen een redelijke termijn een verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28) over te leggen, die niet ouder is dan twee maanden. Indien de desbetreffende persoon of instelling niet binnen de gestelde termijn aan dit verzoek voldoet of kan voldoen, kan Onze Minister de erkenning bodemkwaliteit voor een periode van ten hoogste twee jaren geheel of gedeeltelijk schorsen.
 
 ##### Artikel 24
 
-Onze Minister verwerkt de schorsing en intrekking van de erkenning in de lijsten, bedoeld in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=9&z=2022-05-06&g=2022-05-06).
+Onze Minister verwerkt de schorsing en intrekking van de erkenning bodemkwaliteit in de lijsten, bedoeld in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=9&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 25
 
@@ -398,147 +328,45 @@ Onze Minister verwerkt de schorsing en intrekking van de erkenning in de lijsten
 
 ##### Artikel 34
 
-1. Bij regeling van Onze Ministers wordt de wijze bepaald waarop wordt vastgesteld of een materiaal aan te merken is als grond of baggerspecie.
-
-2. Voor de toepassing van dit besluit wordt onder grond of baggerspecie mede verstaan, grond of baggerspecie die is vermengd met ten hoogste 20 gewichtsprocenten bodemvreemd materiaal.
-
-3. Op grond van milieuhygiënische overwegingen kunnen onze Ministers voor een toepassing van grond of baggerspecie een lager gewichtspercentage bodemvreemd materiaal vaststellen dan genoemd in het tweede lid en hierover en over soorten toegestaan bodemvreemd materiaal nadere regels stellen.
+Vervallen
 
 ##### Artikel 35
 
-Dit hoofdstuk is van toepassing op de volgende handelingen:
-
-- a. toepassing van grond of baggerspecie in bouw- en weg constructies, waaronder mede worden begrepen wegen, spoorwegen en geluidswallen;
-
-- b. toepassing van grond of baggerspecie op of in de bodem, met uitzondering van de bodem of oever van een oppervlaktewaterlichaam, in ophogingen van industrieterreinen, woningbouwlocaties en landbouw- en natuurgronden, met het oog op het verbeteren van de bodemgesteldheid;
-
-- c. toepassing van grond of baggerspecie voor het afdekken van een locatie die wordt gesaneerd als bedoeld in [hoofdstuk IV, paragraaf 3 van de Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&paragraaf=3), als afdeklaag voor een stortplaats als bedoeld in [artikel 8.47, eerste lid respectievelijk derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.47), of als afdeklaag voor een voormalige stortplaats met het oog op het voorkomen van nadelige gevolgen voor de functionele eigenschappen die de bodem voor mens, plant of dier heeft als gevolg van contact met het onderliggende materiaal;
-
-- d. toepassing van grond of baggerspecie in ophogingen in waterbouwkundige constructies en voor het verondiepen en dempen van een oppervlaktewaterlichaam met het oog op de hoogwaterbescherming, de doelstellingen van artikel 4 van de Kaderrichtlijn water, de bevordering van de natuurwaarden en de vlotte en veilige afwikkeling van de scheepvaart;
-
-- e. toepassing van grond of baggerspecie in aanvullingen, waaronder mede wordt verstaan de herinrichting en stabilisering van voormalige winplaatsen voor delfstoffen, of met het oog op onderhoud en herstel van de toepassingen, bedoeld in onderdeel a tot en met d;
-
-- f. verspreiding van baggerspecie uit een watergang over de aan de watergang grenzende percelen, met het oog op het herstellen of verbeteren van de aan de watergang grenzende percelen;
-
-- g. verspreiding van baggerspecie in een oppervlaktewaterlichaam, met het oog op de duurzame vervulling van de ecologische en morfologische functies van het sediment, behoudens op of in uiterwaarden, gorzen, slikken, stranden en platen, met uitzondering van de daarbinnen gelegen aangrenzende percelen van watergangen met het oog op het herstellen of verbeteren van die percelen;
-
-- h. tijdelijke opslag van grond of baggerspecie, bestemd voor de toepassingen, bedoeld in onderdeel a tot en met e gedurende maximaal drie jaar op of in de bodem, met uitzondering van de bodem of oever van een oppervlaktewaterlichaam, of gedurende maximaal tien jaar in een oppervlaktewaterlichaam;
-
-- i. tijdelijke opslag van baggerspecie, bestemd voor één van de toepassingen, bedoeld in onderdeel a tot en met f, gedurende maximaal drie jaar op percelen gelegen naast de watergang waaruit de baggerspecie afkomstig is.
+Vervallen
 
 ##### Artikel 36
 
-1. Het is verboden grond of baggerspecie die gevaarlijke afvalstoffen zijn toe te passen.
-
-2. Dit hoofdstuk is niet van toepassing op de volgende handelingen:
-
-- a. het toepassen van grond of baggerspecie waarvan de samenstelling de interventiewaarde overschrijdt, tenzij [artikel 44, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=44&z=2022-05-06&g=2022-05-06), of [artikel 45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=45&z=2022-05-06&g=2022-05-06) van toepassing is;
-
-- b. het op of in de bodem brengen van producten die overeenkomstig de krachtens [artikel 4 van de Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=4) gestelde regels als meststof mogen worden verhandeld;
-
-- c. handelingen waarop het [Besluit uniforme saneringen](https://wetten.overheid.nl/jci1.3:c:BWBR0019511) van toepassing is, tenzij bij of krachtens [dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019511) anders is bepaald.
-
-3. Het tijdelijk verplaatsen of uit de toepassing wegnemen van grond of baggerspecie is toegestaan zonder inachtnemening van de [artikelen 38 tot en met 64](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=38&z=2022-05-06&g=2022-05-06), indien deze vervolgens, zonder te zijn bewerkt, op of nabij dezelfde plaats en onder dezelfde conditie opnieuw in die toepassing wordt aangebracht.
+Vervallen
 
 ##### Artikel 37
 
-1. Het is verboden om grond of baggerspecie toe te passen in strijd met de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=1&artikel=5&z=2022-05-06&g=2022-05-06), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=1&artikel=7&z=2022-05-06&g=2022-05-06), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=38&z=2022-05-06&g=2022-05-06), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=42&z=2022-05-06&g=2022-05-06), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=44&z=2022-05-06&g=2022-05-06), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=45&z=2022-05-06&g=2022-05-06), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=46&z=2022-05-06&g=2022-05-06), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=52&z=2022-05-06&g=2022-05-06), [59](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=59&z=2022-05-06&g=2022-05-06), [60](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=60&z=2022-05-06&g=2022-05-06), [63](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=63&z=2022-05-06&g=2022-05-06) en [64](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=64&z=2022-05-06&g=2022-05-06) van dit besluit.
-
-2. Bij regeling van Onze Ministers worden regels gesteld ten aanzien van de wijze waarop een overschrijding wordt vastgesteld van waarden, gesteld bij of krachtens de artikelen, genoemd in het eerste lid.
+Vervallen
 
 #### Paragraaf 2. Algemene voorschriften voor degene die grond of baggerspecie toepast
 
 ##### Artikel 38
 
-1. Degene die voornemens is grond of baggerspecie toe te passen laat overeenkomstig de bij regeling van Onze Ministers bepaalde methoden door een persoon of instelling die daartoe beschikt over een erkenning de kwaliteit van de grond of baggerspecie vaststellen, met inbegrip van de emissiewaarden voor zover vereist op grond van [artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=63&z=2022-05-06&g=2022-05-06).
-
-2. De kwaliteit van de grond of baggerspecie en het gestelde in het eerste lid blijkt uit een milieuhygiënische verklaring, die bij de betreffende partij aanwezig is.
-
-3. Bij regeling van Onze Ministers wordt bepaald onder welke voorwaarden de milieuhygiënische verklaring, bedoeld in het tweede lid, mag worden afgegeven.
-
-4. De toe te passen grond of baggerspecie kan worden ingedeeld in de bij regeling van Onze Ministers vast te stellen kwaliteitsklassen.
-
-5. Bij regeling van Onze Ministers worden regels gesteld met betrekking tot het samenvoegen en splitsen van partijen grond of baggerspecie.
-
-6. Het eerste tot en met het vijfde lid geldt niet voor:
-
-- a. natuurlijke personen anders dan in de uitoefening van beroep of bedrijf; en
-
-- b. degene die voornemens is grond of baggerspecie toe te passen binnen een landbouwbedrijf, indien de grond of baggerspecie afkomstig is van een tot dat landbouwbedrijf behorend perceel waarop een vergelijkbaar gewas wordt geteeld als op het perceel waar de grond of baggerspecie wordt toegepast.
+Vervallen
 
 ##### Artikel 39
 
-Op het toepassen van grond of baggerspecie waarvan de kwaliteit de bij regeling van Onze Ministers vastgestelde achtergrondwaarden niet overschrijdt, zijn [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=40&z=2022-05-06&g=2022-05-06) en [afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&z=2022-05-06&g=2022-05-06) van dit hoofdstuk niet van toepassing.
+Vervallen
 
 ##### Artikel 40
 
-1. Het vaststellen van de kwaliteit van de bodem, waarop of waarin de grond of baggerspecie wordt toegepast, geschiedt overeenkomstig de bij regeling van Onze Ministers bepaalde methoden door een persoon of instelling die daartoe beschikt over een erkenning krachtens [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=9&z=2022-05-06&g=2022-05-06).
-
-2. De kwaliteit van de bodem en het gestelde in het eerste lid, blijkt uit een milieuhygiënische verklaring.
+Vervallen
 
 ##### Artikel 41
 
-Bij regeling van Onze Ministers wordt bepaald welke van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&bijlage=1&z=2022-05-06&g=2022-05-06) van dit besluit genoemde parameters voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen worden gemeten ten behoeve van:
-
-- a. de vaststelling van de kwaliteit van grond of baggerspecie, met inbegrip van de emissiewaarden voor toepassingen voor zover vereist op grond van [artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=63&z=2022-05-06&g=2022-05-06), en
-
-- b. de vaststelling van de kwaliteit van de bodem, waarop of waarin grond of baggerspecie wordt toegepast.
+Vervallen
 
 ##### Artikel 42
 
-1. Degene die voornemens is grond of baggerspecie toe te passen als bedoeld in [artikel 35, onderdeel a tot en met i, met uitzondering van onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2022-05-06&g=2022-05-06), meldt dat voornemen ten minste vijf werkdagen van tevoren aan Onze Minister.
-
-2. Bij de melding van een toepassing als bedoeld in [artikel 35, onder a tot en met e en g](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2022-05-06&g=2022-05-06), worden ten minste de volgende gegevens verstrekt:
-
-- a. de naam en het adres van degene die voornemens is grond of baggerspecie toe te passen;
-
-- b. het toetsingskader waarbinnen de toepassing wordt uitgevoerd;
-
-- c. de milieuhygiënische verklaring van de toe te passen grond of baggerspecie;
-
-- d. de plaats van herkomst van de toe te passen grond of baggerspecie;
-
-- e. de hoeveelheid toe te passen grond of baggerspecie;
-
-- f. de toepassingslocatie;
-
-- g. voor zover het een toepassing betreft krachtens [afdeling 2, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&z=2022-05-06&g=2022-05-06), de bodemkwaliteitsklasse;
-
-- h. voor zover het een toepassing op of in de bodem, uitgezonderd de bodem of oever van een oppervlaktewaterlichaam, betreft krachtens [afdeling 2, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&z=2022-05-06&g=2022-05-06), de bodemfunctieklasse.
-
-3. Op de melding van de toepassing, bedoeld in [artikel 35, onder h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2022-05-06&g=2022-05-06), is het tweede lid, onder a, c tot en met f, van overeenkomstige toepassing en op meldingen van de toepassing, bedoeld in [artikel 35, onder h, het tweede lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2022-05-06&g=2022-05-06). Bij meldingen van de toepassing, bedoeld in [artikel 35, onder h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2022-05-06&g=2022-05-06), wordt ook de voorziene duur van de toepassing vermeld.
-
-4. Indien de voorziene duur van de toepassing, bedoeld in [artikel 35, onder h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2022-05-06&g=2022-05-06), langer is dan zes maanden, wordt de eindbestemming van de grond of baggerspecie binnen die termijn gemeld.
-
-5. Onze Ministers kunnen nadere regels stellen met betrekking tot de in het tweede lid bedoelde gegevens.
-
-6. De melding wordt elektronisch of schriftelijk gedaan door middel van een formulier waarvan het model bij regeling van Onze Ministers wordt aangewezen. Onze Ministers kunnen nadere regels stellen met betrekking tot de wijze waarop moet worden gemeld.
-
-7. Onze Minister zendt onverwijld de melding met de bijbehorende gegevens elektronisch door aan het bevoegd gezag.
-
-8. Het eerste lid geldt niet voor:
-
-- a. natuurlijke personen anders dan in de uitoefening van beroep of bedrijf;
-
-- b. degene die voornemens is grond of baggerspecie toe te passen binnen een landbouwbedrijf, indien de grond of baggerspecie afkomstig is van een tot dat landbouwbedrijf behorend perceel waarop een vergelijkbaar gewas wordt geteeld als op het perceel waar de grond of baggerspecie wordt toegepast;
-
-- c. degene die voornemens is grond of baggerspecie als bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=39&z=2022-05-06&g=2022-05-06) in een omvang van minder dan 50 m3 toe te passen.
-
-9. Degene die voornemens is grond of baggerspecie als bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=39&z=2022-05-06&g=2022-05-06) in een omvang van ten minste 50 m3 toe te passen, meldt in afwijking van het tweede en derde lid eenmalig de gegevens, genoemd in het tweede lid, onder a en f.
-
-10. Het achtste lid, onder c, en het negende lid zijn niet van toepassing op het toepassen van grond of baggerspecie in de Nederlandse territoriale zee.
-
-11. De volgende toepassers van grond of baggerspecie bewaren de in het tweede, onder a, c tot en met f, genoemde gegevens gedurende ten minste vijf jaren:
-
-- a. degene die voornemens is grond of baggerspecie toe te passen als bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=39&z=2022-05-06&g=2022-05-06), uitgezonderd degene, bedoeld in het achtste lid, onder a en b;
-
-- b. degene die baggerspecie verspreidt uit een watergang over de aan de watergang grenzende percelen.
+Vervallen
 
 ##### Artikel 43
 
-1. Voor het toepassen van baggerspecie, bedoeld in [artikel 35, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2022-05-06&g=2022-05-06), kan de beheerder met betrekking tot de oppervlaktewaterlichamen onder zijn beheer verspreidingsvakken aanwijzen en vaststellen hoeveel baggerspecie er maximaal kan worden verspreid.
-
-2. Het is verboden om baggerspecie toe te passen buiten een krachtens het vorige lid aangewezen verspreidingsvak en boven de daarbij aangegeven maximale hoeveelheid.
+Vervallen
 
 ### Afdeling 2. Toetsingskaders voor het toepassen van grond en baggerspecie
 
@@ -546,211 +374,101 @@ Bij regeling van Onze Ministers wordt bepaald welke van de in [bijlage 1](https:
 
 ##### Artikel 44
 
-1. De gemeenteraad kan voor het toepassen van grond of baggerspecie als bedoeld in [artikel 35, onderdeel a tot en met e en h](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2022-05-06&g=2022-05-06) op of in de bodem, uitgezonderd de bodem of oever van een oppervlaktewaterlichaam, voor een door hem aangewezen bodembeheergebied lokale maximale waarden vaststellen voor de bodem, waarop of waarin de grond of baggerspecie wordt toegepast, alsmede een percentage bodemvreemd materiaal dat afwijkt van het percentage, bedoeld in [artikel 34, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=34&z=2022-05-06&g=2022-05-06) tot een maximum van 20 gewichtsprocenten.
-
-2. De lokale maximale waarden kunnen boven de maximale waarden voor de bodemfunctieklasse industrie, bedoeld in [artikel 55, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=55&z=2022-05-06&g=2022-05-06), worden vastgesteld en het afwijkende percentage bodemvreemd materiaal kan worden vastgesteld, indien:
-
-- a. de kwaliteit van de bodem wordt bepaald door stoffen die verspreid in dat bodembeheergebied voorkomen als gevolg van diffuse verontreiniging;
-
-- b. die waarden en dat percentage overeenkomen met de kwaliteit van de bodem in het bodembeheergebied; en
-
-- c. die waarden niet de waarden overschrijden die worden vastgesteld op grond van de beoordelingssystematiek die wordt gehanteerd voor het vaststellen van de noodzaak van een spoedige sanering als bedoeld in [artikel 37, eerste lid, van de Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=37).
+Vervallen
 
 ##### Artikel 45
 
-1. Onze Minister van Verkeer en Waterstaat of het algemeen bestuur van het waterschap kan met betrekking tot rijkswateren, onderscheidenlijk regionale wateren voor het toepassen van grond of baggerspecie in een oppervlaktewaterlichaam als bedoeld in [artikel 35, onderdeel a, c tot en met e en h](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2022-05-06&g=2022-05-06) voor een door hem aangewezen bodembeheergebied lokale maximale waarden vaststellen voor de bodem of oever van een oppervlaktewaterlichaam, waarop of waarin de grond of baggerspecie wordt toegepast, alsmede een percentage bodemvreemd materiaal dat afwijkt van het percentage, bedoeld in [artikel 34, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=34&z=2022-05-06&g=2022-05-06), tot een maximum van 20 gewichtsprocenten.
-
-2. De lokale maximale waarden kunnen voor het toepassen van baggerspecie boven de interventiewaarden en voor het toepassen van grond niet boven de maximale waarden voor de bodemfunctieklasse industrie worden vastgesteld en het afwijkende percentage bodemvreemd materiaal kan worden vastgesteld, indien is voldaan aan de voorwaarden, bedoeld in [artikel 44, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=44&z=2022-05-06&g=2022-05-06).
+Vervallen
 
 ##### Artikel 46
 
-1. Onze Minister van Verkeer en Waterstaat of het algemeen bestuur van het waterschap kan met betrekking tot rijkswateren, onderscheidenlijk regionale wateren voor toepassingen als bedoeld in [artikel 35, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2022-05-06&g=2022-05-06), voor een door hem aangewezen bodembeheergebied, maximale waarden vaststellen voor de kwaliteit van de toe te passen baggerspecie die afwijken van de waarden, die krachtens [artikel 60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=60&z=2022-05-06&g=2022-05-06), voor die toepassing zijn vastgesteld, alsmede een percentage bodemvreemd materiaal dat afwijkt van het percentage, bedoeld in [artikel 34, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=34&z=2022-05-06&g=2022-05-06), tot een maximum van 20 gewichtsprocenten.
-
-2. Bij regeling van Onze Ministers kan worden bepaald dat het bestuursorgaan, bedoeld in het eerste lid, voor daarbij aan te geven parameters geen hogere maximale waarden kan vaststellen dan de krachtens [artikel 60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=60&z=2022-05-06&g=2022-05-06) vastgestelde waarden.
-
-3. Voor toepassingen als bedoeld in het eerste lid in de Nederlandse territoriale zee kan het bestuursorgaan, bedoeld in het eerste lid, geen hogere maximale waarden vaststellen dan de krachtens [artikel 60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=60&z=2022-05-06&g=2022-05-06), vastgestelde waarden.
+Vervallen
 
 ##### Artikel 47
 
-Een besluit op grond van de [artikelen 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=44&z=2022-05-06&g=2022-05-06) en [45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=45&z=2022-05-06&g=2022-05-06), bevat:
-
-- a. een of meer kaarten, opgesteld overeenkomstig de bij regeling van Onze Ministers gestelde protocollen, waarop zijn aangegeven de begrenzing van het bodembeheergebied, de kwaliteit van de bodem en, bij toepassingen op of in de bodem, uitgezonderd de bodem of oever van een oppervlaktewaterlichaam, de bodemfuncties;
-
-- b. de lokale maximale waarden, bedoeld in de [artikelen 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=44&z=2022-05-06&g=2022-05-06), en [45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=45&z=2022-05-06&g=2022-05-06);
-
-- c. voor zover van toepassing, het gewichtspercentage bodemvreemd materiaal, bedoeld in [artikel 34, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=34&z=2022-05-06&g=2022-05-06);
-
-- d. een motivering van het besluit aan de hand van de lokale maximale waarden en, voor zover van toepassing, het gewichtspercentage bodemvreemd materiaal in relatie tot de kwaliteit van de bodem, de maatschappelijke noodzaak van die waarden en het gewichtspercentage bodemvreemd materiaal en een beschrijving van de overeenkomstig de bij regeling van Onze Ministers gestelde methoden bepaalde gevolgen van de uitvoering van het besluit voor de kwaliteit van de bodem in het bodembeheergebied.
+Vervallen
 
 ##### Artikel 48
 
-Een besluit op grond van [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=46&z=2022-05-06&g=2022-05-06), bevat:
-
-- a. een of meerdere kaarten waarop de begrenzing van dat bodembeheergebied is aangegeven;
-
-- b. de maximale waarden en het percentage bodemvreemd materiaal, bedoeld in [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=46&z=2022-05-06&g=2022-05-06);
-
-- c. een motivering van het besluit aan de hand van de maximale waarden en het percentage bodemvreemd materiaal in relatie tot de gevolgen voor de kwaliteit van een oppervlaktewaterlichaam en de maatschappelijke noodzaak van die waarden.
+Vervallen
 
 ##### Artikel 49
 
-1. Bij de voorbereiding van een besluit als bedoeld in de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=44&z=2022-05-06&g=2022-05-06), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=45&z=2022-05-06&g=2022-05-06) en [46](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=46&z=2022-05-06&g=2022-05-06) wordt toepassing gegeven aan [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4).
-
-2. Vervallen.
+Vervallen
 
 ##### Artikel 50
 
-Tegen een besluit als bedoeld in de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=44&z=2022-05-06&g=2022-05-06), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=45&z=2022-05-06&g=2022-05-06) en [46](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=46&z=2022-05-06&g=2022-05-06) kan beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State.
+Vervallen
 
 ##### Artikel 51
 
-Op een besluit tot wijziging van een besluit als bedoeld in de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=44&z=2022-05-06&g=2022-05-06), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=45&z=2022-05-06&g=2022-05-06) en [46](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=46&z=2022-05-06&g=2022-05-06), zijn de [artikelen 47 tot en met 50](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=47&z=2022-05-06&g=2022-05-06) van overeenkomstige toepassing.
+Vervallen
 
 ##### Artikel 52
 
-1. Bij toepassing in een bodembeheergebied overschrijdt de kwaliteit van de toe te passen grond of baggerspecie niet de lokale maximale waarden, bedoeld in de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=44&z=2022-05-06&g=2022-05-06) en [45](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=45&z=2022-05-06&g=2022-05-06), en de maximale waarden, bedoeld in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=46&z=2022-05-06&g=2022-05-06).
-
-2. Grond of baggerspecie die voldoet aan de lokale maximale waarden, bedoeld in de [artikelen 44, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=44&z=2022-05-06&g=2022-05-06), en [45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=45&z=2022-05-06&g=2022-05-06), kan uitsluitend worden toegepast in het bodembeheergebied waarvan deze afkomstig is.
-
-3. Indien de grond of baggerspecie, bedoeld in het eerste lid, de kwaliteit van de bodem, waarop of waarin de grond of baggerspecie wordt toegepast, overschrijdt, kan deze grond of baggerspecie alleen worden toegepast in het bodembeheergebied waarvan deze afkomstig is.
-
-4. Het eerste tot en met derde lid geldt niet voor:
-
-- a. het toepassen van grond of baggerspecie door natuurlijke personen anders dan in de uitoefening van beroep of bedrijf;
-
-- b. het toepassen van grond of baggerspecie binnen een landbouwbedrijf, indien de grond of baggerspecie afkomstig is van een tot dat landbouwbedrijf behorend perceel waarop een vergelijkbaar gewas wordt geteeld als op het perceel waar de grond of baggerspecie wordt toegepast.
+Vervallen
 
 ##### Artikel 53
 
-Het bestuursorgaan, bedoeld in de [artikelen 44 tot en met 46](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=44&z=2022-05-06&g=2022-05-06), overweegt ten minste eenmaal in de tien jaar in hoeverre een aldaar bedoeld besluit herziening behoeft.
+Vervallen
 
 #### Paragraaf 2. Generiek toetsingskader voor de algemene toepassing
 
 ##### Artikel 54
 
-Deze paragraaf is uitsluitend van toepassing, indien geen besluit als bedoeld in de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=44&z=2022-05-06&g=2022-05-06), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=45&z=2022-05-06&g=2022-05-06) of [46](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=46&z=2022-05-06&g=2022-05-06) is genomen.
+Vervallen
 
 ##### Artikel 55
 
-1. De gemeenteraad legt ten behoeve van het toepassen van grond of baggerspecie op of in de bodem, niet zijnde de bodem of oever van een oppervlaktewaterlichaam, van het gebied binnen de gemeente op een kaart de bodemfunctieklassen, zijnde industrie of wonen, vast.
-
-2. Bij regeling van Onze Ministers worden voor de bodemfunctieklassen, bedoeld in het eerste lid, maximale waarden vastgesteld.
-
-3. Bij regeling van Onze Ministers worden de eisen vastgesteld waaraan de kaart, bedoeld in het eerste lid, moet voldoen.
-
-4. Indien geen kaart is vastgesteld als bedoeld in het eerste lid, kan alleen grond of baggerspecie worden toegepast, die de achtergrondwaarden niet overschrijdt.
-
-5. Dit artikel is niet van toepassing op het toepassen van grond of baggerspecie in een oppervlaktewaterlichaam.
+Vervallen
 
 ##### Artikel 56
 
-1. Indien de kwaliteit van de bodem waarop of waarin de grond of baggerspecie wordt toegepast, voldoet aan de achtergrondwaarden, dan wel voor deze bodem niet de bodemfunctieklasse wonen of industrie geldt, is uitsluitend het toepassen van grond of baggerspecie toegestaan, waarvan de kwaliteit de achtergrondwaarden niet overschrijdt.
-
-2. Het eerste lid geldt niet voor:
-
-- a. het toepassen van grond of baggerspecie door natuurlijke personen anders dan in de uitoefening van beroep of bedrijf;
-
-- b. het toepassen van grond of baggerspecie binnen een landbouwbedrijf, indien de grond of baggerspecie afkomstig is van een tot dat landbouwbedrijf behorend perceel waarop een vergelijkbaar gewas wordt geteeld als op het perceel waar de grond of baggerspecie wordt toegepast;
-
-- c. het toepassen van baggerspecie, als bedoeld in [artikel 35, onder f en i](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2022-05-06&g=2022-05-06);
-
-- d. het toepassen van baggerspecie in een oppervlaktewaterlichaam, als bedoeld in [artikel 35, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2022-05-06&g=2022-05-06).
+Vervallen
 
 ##### Artikel 57
 
-1. Bij regeling van Onze Ministers wordt de bodem ingedeeld in bodemkwaliteitsklassen en worden voor de bodemkwaliteitsklassen maximale waarden vastgesteld.
-
-2. Het bevoegd gezag kan de bodemkwaliteitsklassen, bedoeld in het eerste lid, vastleggen op een kaart.
+Vervallen
 
 ##### Artikel 58
 
-1. Indien het bevoegd gezag de bodemkwaliteitsklasse niet heeft vastgelegd op een kaart, stelt degene die voornemens is grond of baggerspecie toe te passen de bodemkwaliteitsklasse vast op de bij regeling van Onze Ministers bepaalde wijze. Hierbij worden gegevens gebruikt die afkomstig zijn van een persoon of een instelling die beschikt over een erkenning.
-
-2. Het eerste lid geldt niet voor:
-
-- a. natuurlijke personen anders dan in de uitoefening van beroep of bedrijf;
-
-- b. degene die voornemens is grond of baggerspecie toe te passen binnen een landbouwbedrijf, indien de grond of baggerspecie afkomstig is van een tot dat landbouwbedrijf behorend perceel waarop een vergelijkbaar gewas wordt geteeld als op het perceel waar de grond of baggerspecie wordt toegepast;
-
-- c. degene die voornemens is baggerspecie toe te passen, als bedoeld in [artikel 35, onder f, g en i](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2022-05-06&g=2022-05-06).
-
-3. Het eerste lid is niet van toepassing op het toepassen van grond of baggerspecie als bedoeld in [artikel 35, eerste lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2022-05-06&g=2022-05-06), met een duur van korter dan 6 maanden.
+Vervallen
 
 ##### Artikel 59
 
-1. Voor het toepassen van grond of baggerspecie, bedoeld in [artikel 35, onder a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2022-05-06&g=2022-05-06), op of in de bodem, uitgezonderd de bodem of oever van een oppervlaktewaterlichaam, overschrijdt de kwaliteit van de grond of baggerspecie niet:
-
-- a. de maximale waarden voor de bodemfunctieklasse wonen of industrie; en
-
-- b. de maximale waarden voor de bodemkwaliteitsklassen.
-
-2. Voor het op of in de bodem of oever van een oppervlaktewaterlichaam toepassen van grond of baggerspecie als bedoeld in [artikel 35, onder a en c tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2022-05-06&g=2022-05-06), en het op of in de bodem toepassen van grond en baggerspecie als bedoeld in [artikel 35, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2022-05-06&g=2022-05-06), overschrijdt de kwaliteit van de grond of baggerspecie niet de waarden, bedoeld in het eerste lid, onder b.
-
-3. Onverminderd het bepaalde in het tweede lid, overschrijdt bij toepassing in een oppervlaktewaterlichaam de kwaliteit van de grond niet de maximale waarden voor de bodemfunctieklasse industrie.
+Vervallen
 
 ##### Artikel 60
 
-1. Bij het toepassen van baggerspecie, bedoeld in [artikel 35, onder f, g en i](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2022-05-06&g=2022-05-06), overschrijdt de kwaliteit van de baggerspecie de daarvoor bij regeling van Onze Ministers vastgestelde maximale waarden niet.
-
-2. Voor toepassing van het eerste lid worden erven en gronden die door een weg, voetpad of andere constructie of door een te smalle grondstrook om de baggerspecie te ontvangen van de watergang gescheiden zijn, als aan de watergang grenzend perceel aangemerkt.
+Vervallen
 
 ##### Artikel 61
 
-Onze Ministers overwegen ten minste eenmaal in de tien jaar in hoeverre de waarden, bedoeld in de [artikelen 55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=55&z=2022-05-06&g=2022-05-06), en [57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=57&z=2022-05-06&g=2022-05-06), herziening behoeven en stellen de Staten-Generaal in kennis van hun bevindingen daaromtrent.
+Vervallen
 
 #### Paragraaf 2. Generiek toetsingskader voor de algemene toepassing
 
 ##### Artikel 62
 
-Deze paragraaf is niet van toepassing op het toepassen van grond of baggerspecie in de Nederlandse territoriale zee.
+Vervallen
 
 ##### Artikel 63
 
-1. Een toepassing van grond of baggerspecie als bedoeld in [artikel 35, onder a, c tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2022-05-06&g=2022-05-06), in een laagdikte van minimaal twee meter en een minimale omvang van 5000 m3 hoeft niet te voldoen aan de eisen die daaraan in [afdeling 2, paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&z=2022-05-06&g=2022-05-06) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&z=2022-05-06&g=2022-05-06), worden gesteld, mits
-
-- a. de kwaliteit van de grond of baggerspecie voldoet aan:
-
-- i. de bij regeling van Onze Ministers vast te stellen maximale emissiewaarden, en
-
-- ii. bij toepassing op of in de bodem, uitgezonderd de bodem of oever van een oppervlaktewaterlichaam, de maximale waarden voor de bodemfunctieklasse industrie, bedoeld in [artikel 55, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=55&z=2022-05-06&g=2022-05-06);
-
-- iii. bij toepassing in een oppervlaktewaterlichaam, de maximale waarden voor de bodemfunctieklasse industrie, bedoeld in [artikel 55, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=55&z=2022-05-06&g=2022-05-06), onderscheidelijk de interventiewaarden, en
-
-- b. op de desbetreffende grond of baggerspecie een leeflaag of een laag bouwstoffen wordt aangebracht.
-
-2. De kwaliteit van de grond of baggerspecie wordt, in afwijking van het bepaalde in het eerste lid, onderdeel a, onder i, niet getoetst aan de maximale emissiewaarden in de bij regeling van Onze Ministers te bepalen gevallen.
-
-3. De leeflaag, bedoeld in het eerste lid, onder b, heeft een minimale dikte van een halve meter. Bij regeling van Onze Ministers kunnen op grond van milieuhygiënische overwegingen nadere regels worden gesteld met betrekking tot de dikte van de leeflaag of de laag bouwstoffen.
-
-4. Op het aanbrengen van een leeflaag zijn de eisen die in [afdeling 2, paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&z=2022-05-06&g=2022-05-06) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&z=2022-05-06&g=2022-05-06), aan het toepassen van grond of baggerspecie worden gesteld van overeenkomstige toepassing.
-
-5. In afwijking van het eerste lid, aanhef, geldt voor de toepassingen, bedoeld in [artikel 35, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2022-05-06&g=2022-05-06), een laagdikte van minimaal een halve meter, indien:
-
-- a. het de aanleg of het wijzigen van Rijkswegen, provinciale en gemeentelijke wegen en spoorwegen betreft; en
-
-- b. op de desbetreffende grond of baggerspecie in afwijking van het eerste lid, onder b, een aaneengesloten laag bouwstoffen wordt aangebracht, met uitzondering van de bijbehorende bermen en taluds.
-
-6. In het geval, bedoeld in het vijfde lid, voldoet de kwaliteit van de grond of baggerspecie in de bermen of taluds van Rijkswegen, provinciale wegen of spoorwegen tot aan een fysieke afscheiding met een maximum van 10 meter vanaf de rand van de verharding of het ballastbed, aan de maximale waarden van de bodemfunctieklasse industrie.
+Vervallen
 
 ##### Artikel 64
 
-1. Bij regeling van Onze Ministers kunnen aan de toepassing van grond of baggerspecie, bedoeld in [artikel 63, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=63&z=2022-05-06&g=2022-05-06), nadere regels worden gesteld ter bescherming van de kwaliteit van de omliggende bodem, het grondwater of oppervlaktewaterlichamen.
-
-2. Bij regeling van Onze Ministers kunnen regels worden gesteld met betrekking tot beheersmaatregelen met het oog op de instandhouding van de toepassing, bedoeld in [artikel 63, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=3&artikel=63&z=2022-05-06&g=2022-05-06).
+Vervallen
 
 ### Hoofdstuk 5. Slot- en overgangsbepalingen
 
 ##### Artikel 65
 
-1. Het [Bouwstoffenbesluit bodem- en oppervlaktewaterenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0007667) wordt ingetrokken, met dien verstande dat de intrekking voor gedeelten van dat besluit op verschillende tijdstippen kan geschieden welke tijstippen nader worden bepaald in het besluit tot inwerkingtreding van het besluit bodemkwaliteit als bedoeld in [artikel 83, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=5&artikel=83&z=2022-05-06&g=2022-05-06).
-
-2. Het [Bouwstoffenbesluit bodem- en oppervlaktewaterenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0007667) blijft van toepassing op een aanvraag als bedoeld in [artikel 12, tweede lid, van de Tijdelijke Stimuleringsregeling verwerking baggerspecie](https://wetten.overheid.nl/jci1.3:c:BWBR0013877&artikel=12).
+Vervallen
 
 ##### Artikel 66
 
-1. Het [Besluit uitvoeringskwaliteit bodembeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0019963) wordt ingetrokken, met uitzondering van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0019963&artikel=21), met dien verstande dat in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0019963&artikel=21) in plaats van [Besluit uitvoeringskwaliteit bodembeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0019963), wordt gelezen: Besluit bodemkwaliteit.
-
-2. [Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&z=2022-05-06&g=2022-05-06) van dit besluit is niet van toepassing op:
+[Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&z=2024-01-01&g=2024-01-01) van dit besluit is niet van toepassing op:
 
 - a. een werkzaamheid die voor inwerkingtreding van het [Besluit uitvoeringskwaliteit bodembeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0019963) is aangevangen;
 
@@ -792,31 +510,27 @@ Vervallen
 
 ##### Artikel 75
 
-Het recht zoals dat gold voor het tijdstip van inwerkingtreding van [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=5&artikel=65&z=2022-05-06&g=2022-05-06) blijft van toepassing op het houden van bouwstoffen, waaronder grond en baggerspecie, in een werk, indien de bouwstoffen voor dat tijdstip in het betreffende werk waren toegepast.
+Vervallen
 
 ##### Artikel 76
 
-De [Vrijstellingsregeling grondverzet](https://wetten.overheid.nl/jci1.3:c:BWBR0010715) blijft van toepassing indien voor het tijdstip van inwerkingtreding van dit besluit voor het gebied waarop of waarin de grond wordt gebruikt een bodemkwaliteitskaart is vastgesteld krachtens [die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0010715), voor de duur waarvoor de bodemkwaliteitskaart geldt met een maximum van vijf jaar na het tijdstip van inwerkingtreding van dit besluit.
+Vervallen
 
 ##### Artikel 77
 
-Het recht zoals dat gold voor het tijdstip van inwerkingtreding van [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=5&artikel=65&z=2022-05-06&g=2022-05-06) blijft voor partijkeuringen, erkende kwaliteitsverklaringen en andere bewijsmiddelen, die krachtens het [Bouwstoffenbesluit bodem- en oppervlaktewaterenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0007667), zoals dat gold op het tijdstip van inwerkingtreding, zijn afgegeven, van toepassing voor de duur van de desbetreffende verklaring, maar ten hoogste voor drie jaar na de inwerkingtreding van dit besluit.
+Vervallen
 
 ##### Artikel 78
 
-Het recht zoals dat gold voor het tijdstip van inwerkingtreding van [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=5&artikel=65&z=2022-05-06&g=2022-05-06) blijft voor maximaal drie jaar na dat tijdstip van toepassing, indien voor dat tijdstip een melding krachtens [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007667&artikel=11), [18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007667&artikel=18), of [21, tweede lid, van het Bouwstoffenbesluit bodem- en oppervlaktewaterenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0007667&artikel=21) is gedaan en binnen een half jaar na dat tijdstip is begonnen met de toepassing.
+Vervallen
 
 ##### Artikel 79
 
-1. Het recht zoals dat gold voor het tijdstip van inwerkingtreding van [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=5&artikel=65&z=2022-05-06&g=2022-05-06) blijft geldig, indien voor dat tijdstip, dan wel uiterlijk een half jaar na dat tijdstip een vergunning is verleend krachtens [artikel 8.1, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.1) of [artikel 1, eerste of derde lid, van de Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=1), voor de duur van de vergunning maar ten hoogste voor drie jaar na dat tijdstip.
-
-2. Voorzover een vergunning op grond van [artikel 1, eerste of derde lid, van de Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=1) betrekking heeft op een handeling als bedoeld in [artikel 35, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2022-05-06&g=2022-05-06), vervalt het desbetreffende deel van de vergunning.
-
-3. In afwijking van het tweede lid vervallen de voorschriften van een vergunning waarbij verspreidingsvakken worden aangewezen een half jaar na de datum van inwerkingtreding van dit besluit.
+Vervallen
 
 ##### Artikel 80
 
-Vervallen
+Een kaart van de bodemfunctieklassen van het gebied binnen een gemeente die is vastgesteld op grond van [artikel 55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=55&z=2024-01-01&g=2024-01-01), zoals dat luidde voor de inwerkingtreding van [artikel XI, onderdeel I, van het Verzamelbesluit Omgevingswet 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046640&artikel=XI), geldt als een bodemfunctieklassenkaart op grond van artikel 55, eerste lid, zoals dat luidt na de inwerkingtreding van artikel XI, onderdeel I, van het Verzamelbesluit Omgevingswet 2022.
 
 ##### Artikel 81
 
@@ -824,7 +538,7 @@ Vervallen
 
 ##### Artikel 82
 
-Onze Ministers zenden binnen drie jaar na inwerkingtreding van dit besluit aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van dit besluit in de praktijk.
+Vervallen
 
 ##### Artikel 83
 
@@ -1418,129 +1132,35 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 26
 
-1. Onze Ministers stellen regels met betrekking tot de wijze waarop het percentage van de totaalgehalten aan silicium, calcium of aluminium in een materiaal wordt vastgesteld.
-
-2. Onze Ministers stellen regels met betrekking tot de wijze waarop het volume per kleinste eenheid van een materiaal, alsmede de duurzame vormvastheid daarvan, wordt vastgesteld.
-
-3. Voor de toepassing van dit besluit wordt onder bouwstof mede verstaan, een bouwstof die is vermengd met ten hoogste 20 gewichtsprocenten grond of baggerspecie, voor zover deze grond of baggerspecie daar geen functioneel onderdeel van uitmaakt.
+Vervallen
 
 ##### Artikel 27
 
-1. Dit hoofdstuk is niet van toepassing op:
-
-- a. bouwstoffen die binnen een gebouw als bedoeld in [artikel 1, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1) worden toegepast;
-
-- b. bouwstoffen die zich in tijdelijke opslag als bedoeld in artikel 5, zeventiende lid, van Verordening (EU) nr. 952/2013 van het Europees Parlement en van de Raad van 9 oktober 2013 tot vaststelling van het douanewetboek van de Unie (PbEU 2013, L 269) bevinden of die zijn geplaatst onder een douaneregeling inhoudende de bijzondere regeling douanevervoer, douane-entrepot of tijdelijke invoer, bedoeld in artikel 210 van die verordening.
-
-2. Het tijdelijk verplaatsen of uit een werk wegnemen van bouwstoffen is toegestaan zonder inachtneming van de [artikelen 28 tot en met 32](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&afdeling=1&artikel=28&z=2022-05-06&g=2022-05-06), indien deze vervolgens, zonder te zijn bewerkt, op of nabij dezelfde plaats en onder dezelfde condities opnieuw in dat werk worden aangebracht.
+Vervallen
 
 ##### Artikel 28
 
-1. Het vervaardigen, invoeren, voor toepassing in Nederland of voor handelsdoeleinden voor de Nederlandse markt voorhanden hebben, vervoeren, aan een ander ter beschikking stellen of toepassen van bouwstoffen is verboden, tenzij:
-
-- a. de samenstellings- en emissiewaarden van de bouwstof zijn bepaald aan de hand van de parameters, die in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&bijlage=1&z=2022-05-06&g=2022-05-06) van dit besluit zijn vermeld en bij regeling van Onze Ministers zijn aangewezen, overeenkomstig de bij regeling van Onze Ministers gestelde methoden door of onder toezicht van een persoon of instelling die daartoe beschikt over een erkenning;
-
-- b. een bij regeling van Onze Ministers aangewezen persoon of instelling op een bij regeling van Onze Ministers voorgeschreven wijze heeft vastgesteld dat de waarden, bedoeld onder a, de bij regeling van Onze Ministers vastgestelde maximale samenstellings- en emissiewaarden niet overschrijden;
-
-- c. uit een milieuhygiënische verklaring, die is afgegeven onder bij regeling van Onze Ministers vastgestelde voorwaarden, blijkt dat wordt voldaan aan het bepaalde in onderdeel a en b; en
-
-- d. een afleveringsbon bij de desbetreffende partij aanwezig is die de bij regeling van Onze Ministers vastgestelde gegevens bevat.
-
-2. Bij regeling van Onze Ministers wordt bepaald in welke gevallen een afleveringsbon als bedoeld in het eerste lid, onder d niet vereist is.
-
-3. Degene die de bouwstoffen toepast bewaart de bijbehorende milieuhygiënische verklaring en de afleveringsbon gedurende vijf jaar na het tijdstip waarop de bouwstoffen zijn toegepast en verstrekt die verklaring of afleveringsbon op verzoek van het bevoegd gezag.
-
-4. Bij regeling van Onze Ministers worden regels gesteld met betrekking tot het samenvoegen en splitsen van partijen bouwstof.
-
-5. Het is verboden om bouwstoffen toe te passen in strijd met de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=1&artikel=5&z=2022-05-06&g=2022-05-06) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=1&artikel=7&z=2022-05-06&g=2022-05-06) van dit besluit.
+Vervallen
 
 ##### Artikel 29
 
-1. In afwijking van [artikel 28, eerste lid, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&afdeling=1&artikel=28&z=2022-05-06&g=2022-05-06), worden de samenstellings- en emissiewaarden van de toe te passen bouwstof niet bepaald en is geen milieuhygiënische verklaring vereist, indien sprake is van de volgende handelingen:
-
-- a. het toepassen van metselmortel of natuursteenproducten, met uitzondering van breuksteen en steenslag;
-
-- b. het zonder bewerking opnieuw onder dezelfde condities toepassen van vormgegeven bouwstoffen van beton, keramiek, natuursteen en bakstenen;
-
-- c. het zonder bewerking opnieuw onder dezelfde condities toepassen van bouwstoffen, waarvan de eigendom niet wordt overgedragen;
-
-- d. het opnieuw toepassen van niet teerhoudend asfalt of asfaltbeton in wegverhardingen indien overeenkomstig de CROW-publicatie, 210 «Richtlijn omgaan met vrijkomend asfalt» wordt aangetoond dat het materiaal niet teerhoudend is;
-
-- e. het toepassen van bouwstoffen door natuurlijke personen anders dan in de uitoefening van beroep of bedrijf.
-
-2. Het bepaalde in het eerste lid is niet van toepassing, indien degene die de bouwstof toepast op grond van kennis of organoleptische waarneming kan aannemen of redelijkerwijs had moeten aannemen dat niet is voldaan aan [artikel 28, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&afdeling=1&artikel=28&z=2022-05-06&g=2022-05-06).
+Vervallen
 
 ##### Artikel 30
 
-1. Een bouwstof die de maximale emissiewaarden, bedoeld in [artikel 28, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&afdeling=1&artikel=28&z=2022-05-06&g=2022-05-06) overschrijdt, kan als IBC-bouwstof worden toegepast, indien:
-
-- a. de bouwstof voldoet aan de bij regeling van Onze Ministers gesteld maximale emissiewaarden voor IBC-bouwstoffen;
-
-- b. de bouwstof ten minste het bij regeling van Onze Ministers bepaalde volume heeft en aaneengesloten in een werk wordt toegepast;
-
-- c. isolatie-, beheers- en controlemaatregelen worden getroffen, die voldoen aan de daarvoor bij regeling van Onze Ministers gestelde eisen en die zijn goedgekeurd door een bij regeling van Onze Ministers aangewezen persoon of instelling.
-
-2. Het is verboden IBC-bouwstoffen in een oppervlaktewaterlichaam toe te passen.
+Vervallen
 
 ##### Artikel 31
 
-1. Onze Minister kan op aanvraag ontheffing verlenen van de eis, gesteld in [artikel 30, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&afdeling=1&artikel=30&z=2022-05-06&g=2022-05-06), voor zover anders dan door toepassing van die regel ten minste dezelfde mate van bescherming van de bodem wordt geboden, als is beoogd met de betrokken eis.
-
-2. Bij regeling van Onze Minister worden regels gesteld omtrent:
-
-- a. de beoordeling van de gelijkwaardigheid; en
-
-- b. de bij de aanvraag te verstrekken gegevens, waaruit onder meer blijkt dat sprake is van bescherming als bedoeld in het eerste lid.
-
-3. Een aanvraag wordt, door middel van een door Onze Minister vastgesteld formulier, ingediend bij Onze Minister.
+Vervallen
 
 ##### Artikel 32
 
-1. Degene die voornemens is een bouwstof toe te passen als bedoeld in [artikel 29, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&afdeling=1&artikel=29&z=2022-05-06&g=2022-05-06), meldt dit voornemen ten minste vijf werkdagen voor het toepassen aan Onze Minister.
-
-2. Degene die voornemens is een IBC-bouwstof toe te passen als bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&afdeling=1&artikel=30&z=2022-05-06&g=2022-05-06) meldt dat voornemen tenminste vier weken voor het toepassen aan Onze Minister.
-
-3. Bij een melding als bedoeld in het eerste en tweede lid, worden ten minste de volgende gegevens verstrekt:
-
-- a. de naam en het adres van de toepasser;
-
-- b. de datum waarop de toepassing zal plaatsvinden;
-
-- c. de toepassingslocatie ;
-
-- d. de beoogde toepassing;
-
-- e. het soort en de hoeveelheid toe te passen bouwstof.
-
-Bij een melding als bedoeld in het eerste lid wordt voorts vermeld:
-
-- f. het werk, en
-
-- g. de plaats van herkomst van de toe te passen bouwstof.
-
-Bij een melding als bedoeld in het tweede lid worden voorts verstrekt:
-
-- h. een milieuhygiënische verklaring; en
-
-- i. de beschrijving van de isolatie, controle- en beheersmaatregelen, alsmede de vermelding van de persoon of instelling die deze maatregelen heeft goedgekeurd.
-
-4. Onze Ministers kunnen nadere regels stellen met betrekking tot de in het derde lid bedoelde gegevens.
-
-5. Indien bij een voorgenomen toepassing van een IBC-bouwstof de milieuhygiënische verklaring nog niet beschikbaar is op het tijdstip waarop de melding wordt gedaan, wordt deze uiterlijk vijf werkdagen voor de toepassing van de desbetreffende IBC-bouwstof aan Onze Minister verstrekt.
-
-6. De melding wordt elektronisch of schriftelijk gedaan door middel van een formulier waarvan het model door Onze Ministers wordt vastgesteld. Onze Ministers kunnen nadere regels stellen met betrekking tot de wijze waarop moet worden gemeld.
-
-7. Onze Minister zendt onverwijld de melding met de bijbehorende gegevens elektronisch door aan het bevoegd gezag.
+Vervallen
 
 ##### Artikel 33
 
-Degene die een bouwstof toepast, draagt er zorg voor dat die bouwstof:
-
-- a. niet met de bodem wordt vermengd;
-
-- b. kan worden verwijderd; en
-
-- c. wordt verwijderd in geval het werk of het deel van het werk waarvan de bouwstof deel uitmaakt niet meer als functionele toepassing kan worden beschouwd, tenzij het verwijderen leidt tot een grotere aantasting van de bodem of een oppervlaktewaterlichaam dan het niet verwijderen.
+Vervallen
 
 ### Hoofdstuk 4. Grond en baggerspecie
 
@@ -1849,7 +1469,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 1a
 
-Dit besluit berust mede op de [artikelen 3.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=3.11), [6.2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.2), [6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.6) en [6.7 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.7).
+Vervallen
 
 ### Hoofdstuk 2. Kwaliteit van de uitvoering van een werkzaamheid
 
@@ -1859,7 +1479,7 @@ Dit besluit berust mede op de [artikelen 3.11, tweede lid](https://wetten.overhe
 
 ### Afdeling 3. Sancties
 
-### Hoofdstuk 4. Grond en baggerspecie
+### Hoofdstuk 3a. Handelingen met bouwstoffen
 
 ### Afdeling 2. Bijzondere bepalingen voor mijnsteen
 
@@ -2166,27 +1786,19 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 33a
 
-Voor de toepassing van deze paragraaf wordt met mijnsteen gelijkgesteld mijnsteen die vermengd is met ten hoogste 80 gewichtsprocenten grond of baggerspecie.
+Vervallen
 
 ##### Artikel 33b
 
-Op mijnsteen die gebruikt wordt in de toepassingen, bedoeld in [artikel 35, onderdelen a, b, d, e en h](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=1&artikel=35&z=2022-05-06&g=2022-05-06), is [hoofdstuk 4, afdeling 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&z=2022-05-06&g=2022-05-06), en [afdeling 2, paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&z=2022-05-06&g=2022-05-06), met uitzondering van [artikel 44, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=44&z=2022-05-06&g=2022-05-06), en a[rtikel 45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=45&z=2022-05-06&g=2022-05-06), van overeenkomstige toepassing, met dien verstande dat voor mijnsteen tevens wordt voldaan aan deze afdeling.
+Vervallen
 
 ##### Artikel 33c
 
-1. Onze Minister wijst de volgende gebieden in de provincie Limburg aan:
-
-- a. herkomstgebieden, waaruit toe te passen mijnsteen afkomstig is,
-
-- b. toepassingsgebieden voor die mijnsteen.
-
-2. De toepassingsgebieden zijn geheel gelegen binnen de herkomstgebieden.
-
-3. Uitsluitend mijnsteen die afkomstig is uit een aangewezen herkomstgebied kan overeenkomstig deze afdeling worden toegepast in een aangewezen toepassingsgebied.
+Vervallen
 
 ##### Artikel 33d
 
-Onze Minister stelt nadere regels aan het gebruik van de milieuhygiënische verklaring, bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=38&z=2022-05-06&g=2022-05-06), bij de toepassing van mijnsteen.
+Vervallen
 
 ### Hoofdstuk 4. Grond en baggerspecie
 
@@ -2200,7 +1812,7 @@ Onze Minister stelt nadere regels aan het gebruik van de milieuhygiënische verk
 
 #### Paragraaf 1. Gebiedsspecifiek toetsingskader voor de algemene toepassing
 
-#### Paragraaf 2. Generiek toetsingskader voor de algemene toepassing
+#### Paragraaf 1. Gebiedsspecifiek toetsingskader voor de algemene toepassing
 
 #### Paragraaf 3. Toetsingskader voor grootschalige toepassingen
 
@@ -2498,7 +2110,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 8a
 
-Dit onderdeel is nog niet inwerking getreden
+Bij ministeriële regeling worden met betrekking tot bouwstoffen, grond, baggerspecie, de bodem of bodemenergiesystemen werkzaamheden aangewezen als bedoeld in [artikel 11a.2, tweede lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=11a.2).
 
 ### Afdeling 2. Verboden en verplichtingen
 
@@ -2524,7 +2136,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ### Afdeling 2. Toetsingskaders voor het toepassen van grond en baggerspecie
 
-#### Paragraaf 1. Gebiedsspecifiek toetsingskader voor de algemene toepassing
+#### Paragraaf 2. Algemene voorschriften voor degene die grond of baggerspecie toepast
 
 #### Paragraaf 3. Toetsingskader voor grootschalige toepassingen
 
@@ -2817,5 +2429,197 @@ Dit onderdeel is nog niet inwerking getreden
 | Para-tert-octylfenol | 140-66-9 |
 
 (1) De vertakte en onvertakte alkanen kunnen zowel als individuele stof als in verschillende deelverzamelingen in somparameters worden genormeerd.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 25a
+
+Dit hoofdstuk gaat over de afgifte van milieuverklaringen bodemkwaliteit en het daarvoor te verrichten onderzoek voor het uitvoeren van handelingen met bouwstoffen overeenkomstig [artikel 25h](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3a&artikel=25h&z=2024-01-01&g=2024-01-01) en het toepassen van bouwstoffen, grond of baggerspecie overeenkomstig het [Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330).
+
+##### Artikel 25b
+
+1. Een verklaring op grond van een partijkeuring heeft betrekking op de kwaliteit van bouwstoffen, grond of baggerspecie en wordt afgegeven voor een partij.
+
+2. Een erkende kwaliteitsverklaring heeft betrekking op de kwaliteit van bouwstoffen, grond of baggerspecie en wordt afgegeven voor een partij of een product.
+
+3. Een fabrikant-eigenverklaring heeft betrekking op de kwaliteit van bouwstoffen of bij ministeriële regeling aangewezen typen grond of baggerspecie en wordt afgegeven voor een product.
+
+4. Een verklaring op grond van een bodemonderzoek heeft betrekking op de kwaliteit van de bodem op een in de verklaring aangegeven locatie of op de kwaliteit van grond, baggerspecie, mijnsteen of vermengde mijnsteen die uit de bodem op die locatie is of wordt ontgraven.
+
+5. Een verklaring op grond van een bodemkwaliteitskaart heeft betrekking op de kwaliteit van de bodem op een in de verklaring aangegeven locatie op de bodemkwaliteitskaart of op de kwaliteit van grond of baggerspecie, die uit de bodem op die locatie is of wordt ontgraven.
+
+##### Artikel 25c
+
+1. Een verklaring op grond van een partijkeuring, erkende kwaliteitsverklaring of verklaring op grond van een bodemonderzoek wordt afgegeven op grond van een onderzoek dat is verricht door een persoon of instelling die beschikt over een erkenning bodemkwaliteit als die voor het uitvoeren van die werkzaamheid op grond van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=2&artikel=15&z=2024-01-01&g=2024-01-01), is vereist.
+
+2. Een fabrikant-eigenverklaring wordt afgegeven door de producent op grond van een onderzoek dat voldoet aan de bij of krachtens dit besluit gestelde eisen.
+
+3. Een verklaring op grond van een bodemkwaliteitskaart wordt afgegeven op grond van een onderzoek dat is verricht met gebruikmaking van een bodemkwaliteitskaart waarop de feitelijke kwaliteit van de bodem in het gebied waarop de kaart betrekking heeft is weergegeven en die voldoet aan de op grond van [artikel 25g, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2a&artikel=25g&z=2024-01-01&g=2024-01-01), gestelde eisen.
+
+##### Artikel 25d
+
+1. Een milieuverklaring bodemkwaliteit die betrekking heeft op de kwaliteit van bouwstoffen, vermeldt of de bouwstoffen voldoen aan de daarvoor geldende kwaliteitseisen die gelden voor verontreinigende stoffen of andere parameters.
+
+2. Een milieuverklaring bodemkwaliteit die betrekking heeft op de kwaliteit van grond vermeldt ten minste:
+
+- a. de kwaliteitsklasse waarin de grond is ingedeeld met behulp van de kwaliteitseisen die gelden voor de volgende kwaliteitsklassen van grond: landbouw/natuur, wonen, industrie, matig verontreinigd en sterk verontreinigd;
+
+- b. de kwaliteitsklasse van baggerspecie waarmee de kwaliteit van de grond overeenkomt, getoetst aan de hand van de kwaliteitseisen die gelden voor de volgende kwaliteitsklassen van baggerspecie: algemeen toepasbaar, licht verontreinigd, matig verontreinigd en sterk verontreinigd; en
+
+- c. welke concentraties, emissies, gehalten of andere waarden van verontreinigende stoffen die niet bepalend zijn voor de indeling in een kwaliteitsklasse, en andere relevante parameters daarin aangetroffen zijn.
+
+3. Een milieuverklaring bodemkwaliteit die betrekking heeft op de kwaliteit van baggerspecie vermeldt ten minste:
+
+- a. de kwaliteitsklasse waarin de baggerspecie is ingedeeld met behulp van de kwaliteitseisen die gelden voor de volgende kwaliteitsklassen van baggerspecie: algemeen toepasbaar, licht verontreinigd, matig verontreinigd en sterk verontreinigd;
+
+- b. de kwaliteitsklasse van grond waarmee de kwaliteit van de baggerspecie overeenkomt, getoetst aan de hand van de kwaliteitseisen die gelden voor de volgende kwaliteitsklassen van grond: landbouw/natuur, wonen en industrie, matig verontreinigd en sterk verontreinigd; en
+
+- c. welke concentraties, emissies, gehalten of andere waarden van verontreinigende stoffen die niet bepalend zijn voor de indeling in een kwaliteitsklasse, en andere relevante parameters daarin aangetroffen zijn.
+
+4. Een milieuverklaring bodemkwaliteit die betrekking heeft op de kwaliteit van de bodem vermeldt ten minste de kwaliteitsklasse waarin de bodem is ingedeeld met behulp van de kwaliteitseisen die gelden voor de volgende kwaliteitsklassen van de bodem:
+
+- a. voor de landbodem de volgende kwaliteitsklassen: landbouw/natuur, wonen en industrie; en
+
+- b. voor de waterbodem de volgende kwaliteitsklassen: niet verontreinigd, licht verontreinigd en matig verontreinigd.
+
+5. Een milieuverklaring bodemkwaliteit die betrekking heeft op de kwaliteit van grond of baggerspecie kan vermelden of de grond of baggerspecie voldoet aan de kwaliteitseisen die gelden voor de volgende kwaliteiten van grond en baggerspecie:
+
+- a. emissiearme grond of emissiearme baggerspecie;
+
+- b. voor verspreiden op de landbodem geschikte baggerspecie;
+
+- c. voor verspreiden in zoet oppervlaktewater geschikte baggerspecie;
+
+- d. voor verspreiden in zout oppervlaktewater geschikte baggerspecie;
+
+- e. voor toepassen in een diepe plas geschikte grond;
+
+- f. voor toepassen in een diepe plas geschikte baggerspecie;
+
+- g. voor toepassen als afdeklaag in een diepe plas geschikte grond;
+
+- h. voor toepassen als afdeklaag in een diepe plas geschikte baggerspecie; of
+
+- i. tarragrond.
+
+6. Een milieuverklaring bodemkwaliteit die betrekking heeft op de kwaliteit van mijnsteen of vermengde mijnsteen kan vermelden of de mijnsteen of vermengde mijnsteen voldoet aan de kwaliteitseisen die gelden voor de kwaliteit emissiearme mijnsteen of vermengde mijnsteen.
+
+7. De kwaliteitseisen, bedoeld in dit artikel, zijn de kwaliteitseisen, vastgesteld op grond van [artikel 25g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2a&artikel=25g&z=2024-01-01&g=2024-01-01).
+
+##### Artikel 25e
+
+1. Een milieuverklaring bodemkwaliteit bevat voor elke relevante kwaliteitseis de gegevens waarop de verklaring is gebaseerd of een verwijzing naar een rapport waarin deze gegevens zijn opgenomen.
+
+2. Een milieuverklaring bodemkwaliteit vermeldt:
+
+- a. welk type milieuverklaring bodemkwaliteit het betreft;
+
+- b. de naam van degene die de verklaring heeft afgegeven;
+
+- c. de herkomst van de bouwstoffen, grond of baggerspecie waarop de verklaring betrekking heeft; en
+
+- d. de hoeveelheid bouwstoffen, grond of baggerspecie waarop de verklaring betrekking heeft, uitgedrukt in ton.
+
+##### Artikel 25f
+
+1. Als er op grond van de activiteiten die op de locatie van het ontgraven hebben plaatsgevonden, de ontstaansgeschiedenis van een partij of anderszins aanleiding bestaat om te veronderstellen dat in grond, baggerspecie, mijnsteen of vermengde mijnsteen stoffen of andere parameters aanwezig zijn waardoor dat materiaal niet geschikt is om op of in de bodem of in een oppervlaktewaterlichaam te worden toegepast, wordt daarnaar het nodige onderzoek verricht voordat met betrekking tot het materiaal een milieuverklaring bodemkwaliteit wordt afgegeven.
+
+2. Het eerste lid is van overeenkomstige toepassing als er aanleiding bestaat om te veronderstellen dat in grond, baggerspecie, mijnsteen of vermengde mijnsteen bodemvreemd materiaal voorkomt dat daarin al voor het ontgraven of bewerken aanwezig was.
+
+3. Als uit een onderzoek als bedoeld in het eerste of tweede lid blijkt dat de aanwezigheid van verontreinigende stoffen, andere relevante parameters of bodemvreemd materiaal grond, baggerspecie, mijnsteen of vermengde mijnsteen ongeschikt kan maken voor het toepassen op of in de bodem of in een oppervlaktewaterlichaam, wordt de aanwezigheid van de stoffen, andere relevante parameters of bodemvreemd materiaal in de milieuverklaring bodemkwaliteit die betrekking heeft op de kwaliteit van de grond, baggerspecie, mijnsteen of vermengde mijnsteen aangegeven, waarbij bovendien de concentraties, emissies, gehalten of andere waarden van de verontreinigende stoffen of andere parameters en het gewichtspercentage van het bodemvreemde materiaal worden vermeld.
+
+##### Artikel 25g
+
+1. Bij ministeriële regeling worden de kwaliteitseisen, bedoeld in [artikel 25d](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2a&artikel=25d&z=2024-01-01&g=2024-01-01), vastgesteld.
+
+2. Kwaliteitseisen kunnen betrekking hebben op verontreinigende stoffen of andere relevante parameters en kunnen de vorm hebben van emissiewaarden, concentratiewaarden, gehalten of andere waarden.
+
+3. Kwaliteitseisen kunnen strekken ter begrenzing van een kwaliteitsklasse waarin grond, baggerspecie, mijnsteen, vermengde mijnsteen of de bodem worden ingedeeld, of ter bepaling van de kwaliteit van bouwstoffen, grond of baggerspecie, bedoeld in [artikel 25d, tweede lid, onder c, of derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2a&artikel=25d&z=2024-01-01&g=2024-01-01), of een kwaliteit grond of baggerspecie als vermeld in artikel 25d, vijfde lid.
+
+4. De kwaliteitsklassen waarin grond, baggerspecie, mijnsteen en vermengde mijnsteen worden ingedeeld ten behoeve van het toepassen daarvan op of in de landbodem, komen naar benaming en begrenzing overeen met de kwaliteitsklassen en bodemfunctieklassen waarin de ontvangende landbodem is ingedeeld.
+
+5. De kwaliteitsklassen waarin grond, baggerspecie, mijnsteen en vermengde mijnsteen worden ingedeeld ten behoeve van het toepassen daarvan in een oppervlaktewaterlichaam, komen naar benaming en begrenzing overeen met de kwaliteitsklassen waarin de ontvangende waterbodem is ingedeeld.
+
+6. Bij ministeriële regeling worden eisen gesteld waaraan een bodemkwaliteitskaart als bedoeld in [artikel 28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&afdeling=1&artikel=28&z=2024-01-01&g=2024-01-01), moet voldoen om als grondslag voor de afgifte van een verklaring op grond van een bodemkwaliteitskaart te kunnen worden gebruikt.
+
+7. Bij ministeriële regeling kunnen gevallen worden aangewezen waarin in afwijking van [artikel 25d, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2a&artikel=25d&z=2024-01-01&g=2024-01-01), daarbij aangegeven informatie voor een partij grond of baggerspecie niet in een milieuverklaring bodemkwaliteit hoeft te worden vermeld.
+
+8. Bij ministeriële regeling kunnen gevallen worden aangewezen waarin bij de afgifte van een milieuverklaring bodemkwaliteit aan de afnemer van een partij van een bouwstof of een partij grond of baggerspecie een afleverbon moet worden verstrekt.
+
+9. Bij ministeriële regeling kunnen voor de goede uitvoering van dit hoofdstuk regels worden gesteld over:
+
+- a. de vaststelling wanneer materiaal als bouwstof, grond of baggerspecie wordt aangemerkt;
+
+- b. de vaststelling wanneer sprake is van vormgegeven bouwstoffen;
+
+- c. de vaststelling wanneer bouwstoffen, grond of baggerspecie de daarbij aangegeven eigenschappen of samenstelling bezitten;
+
+- d. de vaststelling van de concentraties van daarbij aangegeven verontreinigende stoffen in bouwstoffen, grond of baggerspecie of de bodem;
+
+- e. de vaststelling van de gehalten of andere waarden van andere relevante parameters dan verontreinigende stoffen in bouwstoffen, grond of baggerspecie;
+
+- f. de vaststelling van de emissies van daarbij aangegeven verontreinigende stoffen uit bouwstoffen, grond of baggerspecie;
+
+- g. het onderzoek, bedoeld in [artikel 28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&afdeling=1&artikel=28&z=2024-01-01&g=2024-01-01);
+
+- h. de splitsing en samenvoeging van partijen bouwstoffen, grond of baggerspecie;
+
+- i. de indeling van grond, baggerspecie, mijnsteen en vermengde mijnsteen of de bodem in een kwaliteitsklasse;
+
+- j. de vaststelling of de kwaliteit van bouwstoffen, grond of baggerspecie of de bodem voldoet aan de bij of krachtens dit besluit gestelde kwaliteitseisen;
+
+- k. het onderzoek voor de afgifte van een milieuverklaring bodemkwaliteit, waaronder de monsterneming, de behandeling en analyse van monsters en de rapportage over de resultaten van het onderzoek;
+
+- l. de vaststelling of in de bouwstoffen, grond of baggerspecie stoffen of andere parameters aanwezig zijn waardoor dat materiaal niet geschikt is om op of in de bodem of in een oppervlaktewaterlichaam te worden toegepast, waarbij onderscheid naar de wijze van toepassing kan worden gemaakt;
+
+- m. de afgifte van milieuverklaringen bodemkwaliteit;
+
+- n. het vooronderzoek voor de afgifte van milieuverklaringen bodemkwaliteit;
+
+- o. het toelatingsonderzoek voor en de kwaliteitsbewaking bij de vervaardiging van bouwstoffen, grond of baggerspecie met het oog op het afgeven van milieuverklaringen bodemkwaliteit;
+
+- p. de afgifte en het gebruik van milieuverklaringen bodemkwaliteit;
+
+- q. de vaststelling wanneer een hoeveelheid bouwstoffen, grond of baggerspecie na splitsing of samenvoeging van partijen als verschillende partijen wordt aangemerkt;
+
+- r. de inhoud en vormgeving van milieuverklaringen bodemkwaliteit; en
+
+- s. de inhoud en vormgeving van afleverbonnen.
+
+##### Artikel 25h
+
+1. Het vervaardigen, invoeren, voor toepassing in Nederland of voor handelsdoeleinden voor de Nederlandse markt voorhanden hebben, vervoeren of aan een ander ter beschikking stellen van bouwstoffen is verboden, tenzij:
+
+- a. de bouwstoffen voldoen aan de voor bouwstoffen geldende kwaliteitseisen, bedoeld in [artikel 25d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2a&artikel=25d&z=2024-01-01&g=2024-01-01);
+
+- b. een milieuverklaring bodemkwaliteit beschikbaar is waarmee kan worden aangetoond dat de bouwstoffen voldoen aan de voor bouwstoffen geldende kwaliteitseisen, bedoeld in [artikel 25d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2a&artikel=25d&z=2024-01-01&g=2024-01-01); en
+
+- c. een afleverbon voorhanden is in gevallen waarin deze op grond van het tweede lid bij de afgifte van de milieuverklaring bodemkwaliteit moet worden verstrekt.
+
+2. Bij ministeriële regeling kunnen gevallen worden aangewezen waarin bij de afgifte van de milieuverklaring bodemkwaliteit aan de afnemer van een partij van een bouwstof een afleverbon moet worden verstrekt en kunnen regels worden gesteld over de inhoud en vormgeving van afleverbonnen.
+
+### Hoofdstuk 3. Bouwstoffen
+
+### Afdeling 1. Algemeen
+
+### Afdeling 2. Bijzondere bepalingen voor mijnsteen
+
+### Hoofdstuk 4. Grond en baggerspecie
+
+### Afdeling 1. Algemene bepalingen
+
+#### Paragraaf 1. Algemeen
+
+### Afdeling 2. Toetsingskaders voor het toepassen van grond en baggerspecie
+
+#### Paragraaf 2. Generiek toetsingskader voor de algemene toepassing
+
+#### Paragraaf 3. Toetsingskader voor grootschalige toepassingen
+
+### Hoofdstuk 5. Slot- en overgangsbepalingen
+
+## Bijlage 1. behorende bij [artikel 28, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&afdeling=1&artikel=28&z=2024-01-01&g=2024-01-01) en [41](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=41&z=2024-01-01&g=2024-01-01)
+
+Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
