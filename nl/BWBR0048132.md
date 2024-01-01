@@ -4,7 +4,7 @@ identifier: "BWBR0048132"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2023-07-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048132"
 soort: "wet"
@@ -71,15 +71,13 @@ Wijzigt de Wet milieubeheer.
 
 Wijzigt de Wet op de economische delicten.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VIII
 
 Wijzigt de Wet personenvervoer 2000.
 
 ##### Artikel IX
 
-Dit onderdeel is nog niet inwerking getreden
+Artikel XVII van de [Wet van 3 december 2009 tot wijziging van enkele bijzondere wetten in verband met de Wet dwangsom en beroep bij niet tijdig beslissen](https://wetten.overheid.nl/jci1.3:c:BWBR0026877) (Stb. 2009, 542) vervalt.
 
 ##### Artikel X
 
