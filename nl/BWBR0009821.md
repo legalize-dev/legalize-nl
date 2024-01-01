@@ -4,7 +4,7 @@ identifier: "BWBR0009821"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2011-03-05"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009821"
 soort: "ministeriele-regeling"
@@ -49,7 +49,7 @@ In deze regeling wordt verstaan onder:
 
 Deze regeling is niet van toepassing op:
 
-- a. degene die een inrichting drijft, welke inrichting is bestemd voor het in bewaring geven, bewerken of verwerken van PCB’s of PCB’s-bevattende apparaten en
+- a. degene die een milieubelastende activiteit verricht, voor zover de locatie waar die milieubelastende activiteit wordt verricht, is bedoeld voor het in bewaring geven, bewerken of verwerken van PCB’s of PCB’s-bevattende apparaten en
 
 - b. PCB’s of PCB’s bevattende apparaten in particuliere huishoudens.
 
@@ -59,7 +59,7 @@ Deze regeling is niet van toepassing op:
 
 1. De houder van PCB’s of gebruikte PCB’s verwijdert deze vóór 1 januari 2000.
 
-2. De houder van PCB’s-bevattende apparaten, reinigt deze overeenkomstig [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009821&paragraaf=2&artikel=2.2&z=2011-03-05&g=2011-03-05) of verwijdert deze vóór 1 januari 2000.
+2. De houder van PCB’s-bevattende apparaten, reinigt deze overeenkomstig [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009821&paragraaf=2&artikel=2.2&z=2024-01-01&g=2024-01-01) of verwijdert deze vóór 1 januari 2000.
 
 ##### Artikel 2.2
 
@@ -69,7 +69,7 @@ Deze regeling is niet van toepassing op:
 
 - b. de vervangende vloeistof, die geen PCB’s bevat, minder risico’s voor het milieu oplevert.
 
-2. Na reiniging van een transformator wordt op die transformator de aanduiding aangebracht als aangegeven in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0009821&bijlage=I&z=2011-03-05&g=2011-03-05).
+2. Na reiniging van een transformator wordt op die transformator de aanduiding aangebracht als aangegeven in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0009821&bijlage=I&z=2024-01-01&g=2024-01-01).
 
 #### § 3. Scheiden van PCB's of bijvullen met PCB's
 
@@ -87,11 +87,11 @@ Deze regeling is niet van toepassing op:
 
 2. De houder van een apparaat als bedoeld in het eerste lid, stelt de inspecteur in kennis van reinigings- of verwijderingshandelingen ten aanzien van het PCB’s-bevattende apparaat.
 
-3. Elk apparaat dat overeenkomstig het eerste lid is aangemeld, alsmede de deur van de ruimte waarin het apparaat zich bevindt, is voorzien van de aanduiding, bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0009821&bijlage=II&z=2011-03-05&g=2011-03-05); deze aanduiding wordt verwijderd zodra het apparaat is verwijderd en wordt vervangen door de aanduiding als aangegeven in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0009821&bijlage=I&z=2011-03-05&g=2011-03-05) zodra het apparaat is gereinigd.
+3. Elk apparaat dat overeenkomstig het eerste lid is aangemeld, alsmede de deur van de ruimte waarin het apparaat zich bevindt, is voorzien van de aanduiding, bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0009821&bijlage=II&z=2024-01-01&g=2024-01-01); deze aanduiding wordt verwijderd zodra het apparaat is verwijderd en wordt vervangen door de aanduiding als aangegeven in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0009821&bijlage=I&z=2024-01-01&g=2024-01-01) zodra het apparaat is gereinigd.
 
-4. Indien het een apparaat betreft, waarvan mag worden aangenomen dat de daarin aanwezige vloeistoffen tussen 50 en 0,5 mg/kg PCB’s bevatten, bepaald volgens EN 12766-1: uitgave 2000, mag, in afwijking van het eerste lid, het apparaat worden aangemeld zonder het verstrekken van de gegevens, bedoeld in het zesde lid, onder 3° en 4°; het apparaat is in dat geval voorzien van de aanduiding, genoemd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0009821&bijlage=III&z=2011-03-05&g=2011-03-05).
+4. Indien het een apparaat betreft, waarvan mag worden aangenomen dat de daarin aanwezige vloeistoffen tussen 50 en 0,5 mg/kg PCB’s bevatten, bepaald volgens EN 12766-1: uitgave 2000, mag, in afwijking van het eerste lid, het apparaat worden aangemeld zonder het verstrekken van de gegevens, bedoeld in het zesde lid, onder 3° en 4°; het apparaat is in dat geval voorzien van de aanduiding, genoemd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0009821&bijlage=III&z=2024-01-01&g=2024-01-01).
 
-5. Op de reiniging van een apparaat als bedoeld in het vierde lid, is [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009821&paragraaf=2&artikel=2.2&z=2011-03-05&g=2011-03-05), van overeenkomstige toepassing.
+5. Op de reiniging van een apparaat als bedoeld in het vierde lid, is [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009821&paragraaf=2&artikel=2.2&z=2024-01-01&g=2024-01-01), van overeenkomstige toepassing.
 
 6. De melding, bedoeld in het eerste en tweede lid, bevat in elk geval de volgende gegevens:
 
@@ -121,7 +121,7 @@ Degene die bedrijfsmatig PCB’s verwijdert of laat verwijderen, houdt een voor 
 
 ##### Artikel 6.1
 
-Uiterlijk 12 maanden na inwerkingtreding van deze regeling is uitvoering gegeven aan [artikel 4.1, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009821&paragraaf=4&artikel=4.1&z=2011-03-05&g=2011-03-05).
+Uiterlijk 12 maanden na inwerkingtreding van deze regeling is uitvoering gegeven aan [artikel 4.1, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009821&paragraaf=4&artikel=4.1&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 6.2
 
@@ -139,6 +139,8 @@ Een PCB’s-bevattend apparaat, dat is gereinigd, is voorzien van een duidelijk,
 
 De PCB’s-bevattende vloeistof is vervangen
 
+De PCB’s-bevattende vloeistof is vervangen
+
 - door ... (naam van het vervangingsproduct)
 
 - op ... (datum)
@@ -149,8 +151,6 @@ Concentraties PCB’s in
 
 - oude vloeistof ... (gewichtsprocent)
 
-- nieuwe vloeistof ...
-
 ## Bijlage II
 
 Een apparaat dat meer dan vijf kubieke decimeter aan PCB’s bevat, alsmede de deur van de ruimte waarin dat apparaat zich bevindt, is voorzien van een duidelijke, onuitwisbare aanduiding, waarop de volgende informatie, in hoog- of diepdruk, voorkomt:
@@ -159,9 +159,9 @@ Een apparaat dat meer dan vijf kubieke decimeter aan PCB’s bevat, alsmede de d
 
 Apparaat aangemeld
 
-- door: ... (houder)
+Apparaat aangemeld
 
-- op: ... (datum)
+- door: ... (houder)
 
 ## Bijlage III
 
@@ -171,9 +171,49 @@ Een apparaat met een gehalte aan PCB’s tussen 50 en 0,5 mg/kg is voorzien van 
 
 Apparaat aangemeld
 
+Apparaat aangemeld
+
 - door ... (houder)
 
 - op: ... (datum)
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1.3
+
+Deze regeling berust mede op [artikel 21.6, vierde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=21.6).
+
+#### § 2. Reiniging en verwijdering van PCB's-bevattende apparaten
+
+#### § 3. Scheiden van PCB's of bijvullen met PCB's
+
+#### § 4. Aanmelding van PCB's-bevattende apparaten
+
+#### § 5. Registratie van PCB's-bevattende apparaten
+
+#### § 6. Overgangs- en slotbepalingen
+
+## Bijlage I. Etikettering van gereinigde PCB's-bevattende apparaten
+
+Een PCB’s-bevattend apparaat, dat is gereinigd, is voorzien van een duidelijk, onuitwisbaar etiket, waarop de volgende informatie, in hoog- of diepdruk, voorkomt:
+
+### Gereinigd PCB's-bevattend apparaat
+
+- nieuwe vloeistof ...
+
+## Bijlage II
+
+Een apparaat dat meer dan vijf kubieke decimeter aan PCB’s bevat, alsmede de deur van de ruimte waarin dat apparaat zich bevindt, is voorzien van een duidelijke, onuitwisbare aanduiding, waarop de volgende informatie, in hoog- of diepdruk, voorkomt:
+
+### Apparaat dat meer dan 5dm3 aan PCB's bevat
+
+- op: ... (datum)
+
+## Bijlage III
+
+Een apparaat met een gehalte aan PCB’s tussen 50 en 0,5 mg/kg is voorzien van een duidelijke, onuitwisbare aanduiding, waarop de volgende informatie, in hoog- of diepdruk, voorkomt:
+
+### Apparaat met een gehalte aan PCB's tussen 50 en 0,5 mg/kg
 
 - door: ... (bedrijf)
 
