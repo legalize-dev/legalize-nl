@@ -4,7 +4,7 @@ identifier: "BWBR0041522"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2023-10-14"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041522"
 soort: "AMvB"
@@ -52,7 +52,7 @@ entry_into_force: "2019-01-01"
 
 ##### Artikel 3.1.6. Onkostenvergoeding
 
-1. Een raadslid ontvangt met ingang van de dag van zijn beëdiging gedurende zijn lidmaatschap van de gemeenteraad een onkostenvergoeding voor de aan de uitoefening van het raadlidmaatschap verbonden kosten van € 188,22 per maand.
+1. Een raadslid ontvangt met ingang van de dag van zijn beëdiging gedurende zijn lidmaatschap van de gemeenteraad een onkostenvergoeding voor de aan de uitoefening van het raadlidmaatschap verbonden kosten van € 215,51 per maand.
 
 2. Een raadslid dat in de loop van een maand is beëdigd of in de loop van een maand is afgetreden of overleden, ontvangt de vergoeding, bedoeld in het eerste lid, naar evenredigheid van de periode van uitoefening van het lidmaatschap in de bedoelde maand.
 
@@ -92,7 +92,7 @@ entry_into_force: "2019-01-01"
 
 ##### Artikel 3.1.10. Ziektekostenverzekering
 
-1. Een raadslid ontvangt ten laste van de gemeente een tegemoetkoming in de kosten van een ziektekostenverzekering van € 123,01 per jaar.
+1. Een raadslid ontvangt ten laste van de gemeente een tegemoetkoming in de kosten van een ziektekostenverzekering van € 124,86 per jaar.
 
 2. Voor zover het lidmaatschap van de gemeenteraad in de loop van een jaar begint of eindigt, wordt het bedrag, bedoeld in het eerste lid, naar evenredigheid van de duur van het lidmaatschap van de gemeenteraad toegekend.
 
@@ -100,7 +100,7 @@ entry_into_force: "2019-01-01"
 
 ##### Artikel 3.1.11. Samenloop met arbeidsongeschiktheidsuitkering
 
-In het geval een raadslid een uitkering in verband met gehele of gedeeltelijke arbeidsongeschiktheid ontvangt, kan de vergoeding voor de werkzaamheden, bedoeld in [artikel 3.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=3.1.1&z=2023-10-14&g=2023-10-14), op verzoek van het desbetreffende raadslid worden verlaagd.
+In het geval een raadslid een uitkering in verband met gehele of gedeeltelijke arbeidsongeschiktheid ontvangt, kan de vergoeding voor de werkzaamheden, bedoeld in [artikel 3.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=3.1.1&z=2024-01-01&g=2024-01-01), op verzoek van het desbetreffende raadslid worden verlaagd.
 
 #### Paragraaf 3. Waarneming door raadslid
 
@@ -146,7 +146,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. **commissaris:** commissaris van de Koning van de provincie waarbinnen de gemeente is gelegen;
 
-- b. **inwonersklasse:** inwonersklasse, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.0&artikel=3.2&z=2023-10-14&g=2023-10-14);
+- b. **inwonersklasse:** inwonersklasse, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.0&artikel=3.2&z=2024-01-01&g=2024-01-01);
 
 - c. **raadslid:** lid van de gemeenteraad;
 
@@ -176,7 +176,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3.3. Overgang naar andere inwonersklasse
 
-1. Een gemeente gaat voor de toepassing van [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.0&artikel=3.2&z=2023-10-14&g=2023-10-14) in verband met de toeneming van het aantal inwoners over naar een hogere klasse met ingang van het jaar waarin op 1 januari het aantal inwoners van die gemeente de minimumgrens van de volgende klasse bereikt heeft en blijkt dat zij die grens ook heeft bereikt op:
+1. Een gemeente gaat voor de toepassing van [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.0&artikel=3.2&z=2024-01-01&g=2024-01-01) in verband met de toeneming van het aantal inwoners over naar een hogere klasse met ingang van het jaar waarin op 1 januari het aantal inwoners van die gemeente de minimumgrens van de volgende klasse bereikt heeft en blijkt dat zij die grens ook heeft bereikt op:
 
 - a. 1 januari van het volgende jaar, of
 
@@ -190,7 +190,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3.4. Opclassificatie
 
-1. Op grond van bijzondere omstandigheden kunnen gedeputeerde staten van de provincie waarin de betrokken gemeente ligt, de gemeenteraad gehoord, een gemeente voor de toepassing van [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.0&artikel=3.2&z=2023-10-14&g=2023-10-14) voor een bepaald tijdvak in een hogere klasse plaatsen dan die waartoe zij op grond van haar aantal inwoners behoort.
+1. Op grond van bijzondere omstandigheden kunnen gedeputeerde staten van de provincie waarin de betrokken gemeente ligt, de gemeenteraad gehoord, een gemeente voor de toepassing van [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.0&artikel=3.2&z=2024-01-01&g=2024-01-01) voor een bepaald tijdvak in een hogere klasse plaatsen dan die waartoe zij op grond van haar aantal inwoners behoort.
 
 2. Gedeputeerde staten kunnen na afloop van het tijdvak, bedoeld in het eerste lid, een nieuw tijdvak vaststellen.
 
@@ -210,18 +210,18 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 | **inwonersklasse** | **Vergoeding voor de werkzaamheden** |
 | --- | --- |
-| 1 – 4 | € 1.096,49 |
-| 5 | € 1.426,11 |
-| 6 | € 1.668,76 |
-| 7 | € 1.894,59 |
-| 8 | € 2.207,13 |
-| 9 | € 2.687,09 |
+| 1 – 4 | € 1.155,70 |
+| 5 | € 1.503,12 |
+| 6 | € 1.758,87 |
+| 7 | € 1.996,90 |
+| 8 | € 2.326,32 |
+| 9 | € 2.832,19 |
 
 2. Een raadslid dat in de loop van een maand is beëdigd of in de loop van een maand is afgetreden of overleden, ontvangt de vergoeding voor de werkzaamheden naar evenredigheid van de periode van uitoefening van het lidmaatschap in de bedoelde maand.
 
-3. Indien een gemeente in verband met een wijziging van het aantal inwoners op grond van [artikel 3.3, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.0&artikel=3.3&z=2023-10-14&g=2023-10-14), wordt ingedeeld in een hogere inwonersklasse of op grond van een besluit als bedoeld in [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.0&artikel=3.4&z=2023-10-14&g=2023-10-14) voor een bepaald tijdvak in een hogere inwonersklasse wordt geplaatst, wordt de vergoeding voor de werkzaamheden van de op het tijdstip van overgang in functie zijnde raadsleden aan de hand van de tabel in het eerste lid aangepast.
+3. Indien een gemeente in verband met een wijziging van het aantal inwoners op grond van [artikel 3.3, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.0&artikel=3.3&z=2024-01-01&g=2024-01-01), wordt ingedeeld in een hogere inwonersklasse of op grond van een besluit als bedoeld in [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.0&artikel=3.4&z=2024-01-01&g=2024-01-01) voor een bepaald tijdvak in een hogere inwonersklasse wordt geplaatst, wordt de vergoeding voor de werkzaamheden van de op het tijdstip van overgang in functie zijnde raadsleden aan de hand van de tabel in het eerste lid aangepast.
 
-4. De overgang van een gemeente naar een lagere inwonersklasse, bedoeld in [artikel 3.3, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.0&artikel=3.3&z=2023-10-14&g=2023-10-14), in verband met de vermindering van het aantal inwoners is niet van invloed op de vergoeding voor de werkzaamheden van de op het tijdstip van overgang in functie zijnde raadsleden.
+4. De overgang van een gemeente naar een lagere inwonersklasse, bedoeld in [artikel 3.3, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.0&artikel=3.3&z=2024-01-01&g=2024-01-01), in verband met de vermindering van het aantal inwoners is niet van invloed op de vergoeding voor de werkzaamheden van de op het tijdstip van overgang in functie zijnde raadsleden.
 
 5. De bedragen, genoemd in het eerste lid, worden per 1 januari van elk jaar bij ministeriële regeling gewijzigd overeenkomstig de procentuele wijziging van het door het Centraal Bureau voor de Statistiek vastgestelde indexcijfer CAO-lonen overheid, inclusief bijzondere beloningen, geldend voor de maand september van het tweede kalenderjaar voorafgaand aan die datum ten opzichte van hetzelfde indexcijfer geldend voor de maand september van het daaraan voorafgaande kalenderjaar.
 
@@ -229,7 +229,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3.1.2. Toelage lid vertrouwenscommissie en rekenkamerfunctie
 
-1. Aan een raadslid dat lid is van de vertrouwenscommissie, bedoeld in [artikel 61, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=61), of [artikel 61a, vierde lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=61a), dan wel de rekenkamerfunctie uitoefent, bedoeld in [artikel 81oa van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=81oa), wordt voor de duur van de activiteiten van die commissie of de duur van de uitoefening van de rekenkamerfunctie per jaar ten laste van de gemeente een toelage verleend van € 137,84 per maand.
+1. Aan een raadslid dat lid is van de vertrouwenscommissie, bedoeld in [artikel 61, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=61), of [artikel 61a, vierde lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=61a), dan wel de rekenkamerfunctie uitoefent, bedoeld in [artikel 81oa van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=81oa), wordt voor de duur van de activiteiten van die commissie of de duur van de uitoefening van de rekenkamerfunctie per jaar ten laste van de gemeente een toelage verleend van € 139,90 per maand.
 
 2. Voor de toepassing van het eerste lid stelt de burgemeester de duur van de activiteiten vast.
 
@@ -237,13 +237,13 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3.1.3. Toelage lid onderzoekscommissie
 
-1. Aan een raadslid dat lid is van een onderzoekscommissie als bedoeld in [artikel 155a, derde lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=155a) wordt voor de duur van de activiteiten van die commissie ten laste van de gemeente een toelage toegekend, waarvan de hoogte bij verordening wordt bepaald, maar die per jaar ten hoogste driemaal de maandelijkse vergoeding voor de werkzaamheden, bedoeld in [artikel 3.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=3.1.1&z=2023-10-14&g=2023-10-14), bedraagt.
+1. Aan een raadslid dat lid is van een onderzoekscommissie als bedoeld in [artikel 155a, derde lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=155a) wordt voor de duur van de activiteiten van die commissie ten laste van de gemeente een toelage toegekend, waarvan de hoogte bij verordening wordt bepaald, maar die per jaar ten hoogste driemaal de maandelijkse vergoeding voor de werkzaamheden, bedoeld in [artikel 3.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=3.1.1&z=2024-01-01&g=2024-01-01), bedraagt.
 
 2. Voor de toepassing van het eerste lid stelt de burgemeester de duur van de activiteiten vast.
 
 ##### Artikel 3.1.4. Toelage lid bijzondere commissie
 
-1. Indien de gemeenteraad besluit ter uitvoering van zijn taken en verantwoordelijkheden een bijzondere commissie in te stellen met een zodanig belang, belasting en tijdsbeslag dat die niet redelijkerwijs tot het reguliere werk van een raadslid geacht kunnen worden te behoren, kan de gemeenteraad bij verordening besluiten aan de raadsleden die lid zijn van die commissie ten laste van de gemeente een toelage toe te kennen van maximaal € 137,84 per maand voor de duur van de activiteiten van de commissie per maand.
+1. Indien de gemeenteraad besluit ter uitvoering van zijn taken en verantwoordelijkheden een bijzondere commissie in te stellen met een zodanig belang, belasting en tijdsbeslag dat die niet redelijkerwijs tot het reguliere werk van een raadslid geacht kunnen worden te behoren, kan de gemeenteraad bij verordening besluiten aan de raadsleden die lid zijn van die commissie ten laste van de gemeente een toelage toe te kennen van maximaal € 139,90 per maand voor de duur van de activiteiten van de commissie per maand.
 
 2. Voor de toepassing van het eerste lid stelt de burgemeester de duur van de activiteiten vast.
 
@@ -251,7 +251,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3.1.5. Toelage fractievoorzitter
 
-1. De vergoeding voor de werkzaamheden, bedoeld in [artikel 3.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=3.1.1&z=2023-10-14&g=2023-10-14), wordt voor de fractievoorzitters voor de duur van de uitoefening van het fractievoorzitterschap verhoogd met een toelage van € 80,41 per maand, vermeerderd met € 11,48 voor elk raadslid dat de fractie telt, de fractievoorzitter zelf niet meegerekend. De toelage bedraagt ten hoogste € 172,30 per maand.
+1. De vergoeding voor de werkzaamheden, bedoeld in [artikel 3.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=3.1.1&z=2024-01-01&g=2024-01-01), wordt voor de fractievoorzitters voor de duur van de uitoefening van het fractievoorzitterschap verhoogd met een toelage van € 81,62 per maand, vermeerderd met € 11,65 voor elk raadslid dat de fractie telt, de fractievoorzitter zelf niet meegerekend. De toelage bedraagt ten hoogste € 174,88 per maand.
 
 2. Voor zover het fractievoorzitterschap in de loop van de maand begint of eindigt, wordt de toelage, bedoeld in het eerste lid, voor die maand naar evenredigheid van de duur van het fractievoorzitterschap toegekend.
 
@@ -269,25 +269,25 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3.1.12. Waarneming voorzitter of burgemeester door raadslid
 
-1. Een raadslid dat op grond van [artikel 77, eerste lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=77) meer dan dertig dagen onafgebroken het voorzitterschap van de gemeenteraad waarneemt, ontvangt voor de duur van de waarneming een toeslag van 8% op zijn vergoeding voor de werkzaamheden, bedoeld in [artikel 3.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=3.1.1&z=2023-10-14&g=2023-10-14), alsmede een toeslag van 8% op de onkostenvergoeding, bedoeld in [artikel 3.1.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=2&artikel=3.1.6&z=2023-10-14&g=2023-10-14).
+1. Een raadslid dat op grond van [artikel 77, eerste lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=77) meer dan dertig dagen onafgebroken het voorzitterschap van de gemeenteraad waarneemt, ontvangt voor de duur van de waarneming een toeslag van 8% op zijn vergoeding voor de werkzaamheden, bedoeld in [artikel 3.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=3.1.1&z=2024-01-01&g=2024-01-01), alsmede een toeslag van 8% op de onkostenvergoeding, bedoeld in [artikel 3.1.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=2&artikel=3.1.6&z=2024-01-01&g=2024-01-01).
 
 2. Indien een raadslid op grond van [artikel 77, tweede lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=77) gedurende meer dan dertig dagen onafgebroken met de waarneming van het ambt van burgemeester is belast:
 
-- a. wordt zijn vergoeding voor de werkzaamheden, bedoeld in [artikel 3.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=3.1.1&z=2023-10-14&g=2023-10-14), voor die tijd ten laste van de gemeente aangevuld tot het bedrag waarop de bezoldiging van de burgemeester ingevolge [artikel 3.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=1&artikel=3.2.1&z=2023-10-14&g=2023-10-14), is vastgesteld, vermeerderd met een vakantie-uitkering, eindejaarsuitkering en eenmalige uitkering als bedoeld in [artikel 3.2.1, tiende, elfde, onderscheidenlijk twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=1&artikel=3.2.1&z=2023-10-14&g=2023-10-14);
+- a. wordt zijn vergoeding voor de werkzaamheden, bedoeld in [artikel 3.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=3.1.1&z=2024-01-01&g=2024-01-01), voor die tijd ten laste van de gemeente aangevuld tot het bedrag waarop de bezoldiging van de burgemeester ingevolge [artikel 3.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=1&artikel=3.2.1&z=2024-01-01&g=2024-01-01), is vastgesteld, vermeerderd met een vakantie-uitkering, eindejaarsuitkering en eenmalige uitkering als bedoeld in [artikel 3.2.1, tiende, elfde, onderscheidenlijk twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=1&artikel=3.2.1&z=2024-01-01&g=2024-01-01);
 
-- b. ontvangt hij voor die tijd in plaats van de onkostenvergoeding, bedoeld in [artikel 3.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=2&artikel=3.1.6&z=2023-10-14&g=2023-10-14), een vergoeding als bedoeld in [artikel 3.2.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&artikel=3.2.6&z=2023-10-14&g=2023-10-14), en
+- b. ontvangt hij voor die tijd in plaats van de onkostenvergoeding, bedoeld in [artikel 3.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=2&artikel=3.1.6&z=2024-01-01&g=2024-01-01), een vergoeding als bedoeld in [artikel 3.2.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&artikel=3.2.6&z=2024-01-01&g=2024-01-01), en
 
-- c. zijn voor die tijd op hem de regels, bedoeld in [artikel 3.2.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&artikel=3.2.9&z=2023-10-14&g=2023-10-14), en de [artikelen 3.2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&artikel=3.2.10&z=2023-10-14&g=2023-10-14) en [3.2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&artikel=3.2.12&z=2023-10-14&g=2023-10-14) van overeenkomstige toepassing.
+- c. zijn voor die tijd op hem de regels, bedoeld in [artikel 3.2.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&artikel=3.2.9&z=2024-01-01&g=2024-01-01), en de [artikelen 3.2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&artikel=3.2.10&z=2024-01-01&g=2024-01-01) en [3.2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&artikel=3.2.12&z=2024-01-01&g=2024-01-01) van overeenkomstige toepassing.
 
 #### Paragraaf 4. Tijdelijk ontslagen raadslid
 
 ##### Artikel 3.1.13. Vergoeding voor werkzaamheden en onkostenvergoeding
 
-1. [Artikel 3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=3.1.1&z=2023-10-14&g=2023-10-14) is van overeenkomstige toepassing op het raadslid aan wie op grond van [artikel X 10 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_10)tijdelijk ontslag is verleend wegens zwangerschap en bevalling of ziekte, met dien verstande dat indien door de gemeenteraad toepassing is gegeven aan artikel 3.1.1, vijfde lid, dit raadslid een uitkering ontvangt voor alle vergaderingen die gedurende het tijdelijk ontslag plaatsvinden.
+1. [Artikel 3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=3.1.1&z=2024-01-01&g=2024-01-01) is van overeenkomstige toepassing op het raadslid aan wie op grond van [artikel X 10 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_10)tijdelijk ontslag is verleend wegens zwangerschap en bevalling of ziekte, met dien verstande dat indien door de gemeenteraad toepassing is gegeven aan artikel 3.1.1, vijfde lid, dit raadslid een uitkering ontvangt voor alle vergaderingen die gedurende het tijdelijk ontslag plaatsvinden.
 
-2. [Artikel 3.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=2&artikel=3.1.6&z=2023-10-14&g=2023-10-14) is van overeenkomstige toepassing op het raadslid, bedoeld in het eerste lid, met dien verstande dat de vergoeding de helft bedraagt van het bedrag dat op grond van die bepaling van toepassing is.
+2. [Artikel 3.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=2&artikel=3.1.6&z=2024-01-01&g=2024-01-01) is van overeenkomstige toepassing op het raadslid, bedoeld in het eerste lid, met dien verstande dat de vergoeding de helft bedraagt van het bedrag dat op grond van die bepaling van toepassing is.
 
-3. De [artikelen 3.1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=2&artikel=3.1.9&z=2023-10-14&g=2023-10-14), [3.1.10](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=2&artikel=3.1.10&z=2023-10-14&g=2023-10-14) en[3.1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=2&artikel=3.1.11&z=2023-10-14&g=2023-10-14) en [afdeling 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.3&z=2023-10-14&g=2023-10-14) zijn van overeenkomstige toepassing op het raadslid, bedoeld in het eerste lid.
+3. De [artikelen 3.1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=2&artikel=3.1.9&z=2024-01-01&g=2024-01-01), [3.1.10](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=2&artikel=3.1.10&z=2024-01-01&g=2024-01-01) en[3.1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=2&artikel=3.1.11&z=2024-01-01&g=2024-01-01) en [afdeling 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.3&z=2024-01-01&g=2024-01-01) zijn van overeenkomstige toepassing op het raadslid, bedoeld in het eerste lid.
 
 ### Afdeling 3.2. Burgemeester en wethouders
 
@@ -295,41 +295,41 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3.2.1. Bezoldiging en uitkeringen
 
-1. De bezoldiging van de burgemeester is afhankelijk van de inwonersklasse waarin de gemeente, waarin hij burgemeester is, op grond van [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.0&artikel=3.2&z=2023-10-14&g=2023-10-14), is ingedeeld en wordt vastgesteld aan de hand van de volgende tabel:
+1. De bezoldiging van de burgemeester is afhankelijk van de inwonersklasse waarin de gemeente, waarin hij burgemeester is, op grond van [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.0&artikel=3.2&z=2024-01-01&g=2024-01-01), is ingedeeld en wordt vastgesteld aan de hand van de volgende tabel:
 
 | **inwonersklasse** | **bezoldiging** |
 | --- | --- |
-| 1 | € 7.196,83 |
-| 2 | € 7.909,52 |
-| 3 | € 8.616,91 |
-| 4 | € 9.360,34 |
-| 5 | € 10.141,29 |
-| 6 | € 10.989,18 |
-| 7 | € 11.646,48 |
-| 8 | € 12.473,82 |
-| 9 | € 13.357,23 |
+| 1 | € 7.304,78 |
+| 2 | € 8.028,16 |
+| 3 | € 8.746,16 |
+| 4 | € 9.500,75 |
+| 5 | € 10.293,41 |
+| 6 | € 11.154,01 |
+| 7 | € 11.821,17 |
+| 8 | € 12.660,93 |
+| 9 | € 13.557,59 |
 
-2. De bezoldiging per maand van de burgemeester van meer dan één gemeente wordt bepaald aan de hand van de tabel in het eerste lid, met dien verstande dat wordt uitgegaan van de bezoldiging behorende bij de eerstvolgende inwonersklasse. Voor de toepassing van de eerste volzin worden de gemeenten, waarin betrokkene het ambt van burgemeester vervult, als één gemeente aangemerkt, waarbij de inwoners van deze gemeenten worden samengeteld, en wordt die gemeente ingedeeld aan de hand van de tabel in [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.0&artikel=3.2&z=2023-10-14&g=2023-10-14).
+2. De bezoldiging per maand van de burgemeester van meer dan één gemeente wordt bepaald aan de hand van de tabel in het eerste lid, met dien verstande dat wordt uitgegaan van de bezoldiging behorende bij de eerstvolgende inwonersklasse. Voor de toepassing van de eerste volzin worden de gemeenten, waarin betrokkene het ambt van burgemeester vervult, als één gemeente aangemerkt, waarbij de inwoners van deze gemeenten worden samengeteld, en wordt die gemeente ingedeeld aan de hand van de tabel in [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.0&artikel=3.2&z=2024-01-01&g=2024-01-01).
 
-3. De bezoldiging per maand van de wethouder is afhankelijk van de inwonersklasse waarin de gemeente, waarin hij wethouder is, op grond van [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.0&artikel=3.2&z=2023-10-14&g=2023-10-14) is ingedeeld en wordt vastgesteld aan de hand van de volgende tabel.
+3. De bezoldiging per maand van de wethouder is afhankelijk van de inwonersklasse waarin de gemeente, waarin hij wethouder is, op grond van [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.0&artikel=3.2&z=2024-01-01&g=2024-01-01) is ingedeeld en wordt vastgesteld aan de hand van de volgende tabel.
 
 | **inwonersklasse** | **bezoldiging** |
 | --- | --- |
-| 1 | € 5.503,57 |
-| 2 | € 6.227,01 |
-| 3 | € 6.989,79 |
-| 4 | € 7.474,86 |
-| 5 | € 8.165,37 |
-| 6 | € 8.890,68 |
-| 7 | € 9.703,20 |
-| 8 | € 10.273,92 |
-| 9 | € 11.646,48 |
+| 1 | € 5.586,13 |
+| 2 | € 6.320,42 |
+| 3 | € 7.094,64 |
+| 4 | € 7.586,98 |
+| 5 | € 8.287,85 |
+| 6 | € 9.024,04 |
+| 7 | € 9.848,75 |
+| 8 | € 10.428,02 |
+| 9 | € 11.821,17 |
 
-4. Indien een gemeente in verband met een wijziging van het aantal inwoners op grond van [artikel 3.3, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.0&artikel=3.3&z=2023-10-14&g=2023-10-14), wordt ingedeeld in een hogere inwonersklasse of op grond van een besluit als bedoeld in [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.0&artikel=3.4&z=2023-10-14&g=2023-10-14) voor een bepaald tijdvak in een hogere inwonersklasse wordt geplaatst, wordt de bezoldiging van de burgemeester en van de wethouders aan de hand van de tabel in het eerste, onderscheidenlijk derde lid aangepast.
+4. Indien een gemeente in verband met een wijziging van het aantal inwoners op grond van [artikel 3.3, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.0&artikel=3.3&z=2024-01-01&g=2024-01-01), wordt ingedeeld in een hogere inwonersklasse of op grond van een besluit als bedoeld in [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.0&artikel=3.4&z=2024-01-01&g=2024-01-01) voor een bepaald tijdvak in een hogere inwonersklasse wordt geplaatst, wordt de bezoldiging van de burgemeester en van de wethouders aan de hand van de tabel in het eerste, onderscheidenlijk derde lid aangepast.
 
-5. De overgang van een gemeente naar een lagere inwonersklasse, bedoeld in [artikel 3.3, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.0&artikel=3.3&z=2023-10-14&g=2023-10-14), is niet van invloed op de bezoldiging van de op het tijdstip van overgang in functie zijnde burgemeester en wethouders zolang zij niet zijn herbenoemd.
+5. De overgang van een gemeente naar een lagere inwonersklasse, bedoeld in [artikel 3.3, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.0&artikel=3.3&z=2024-01-01&g=2024-01-01), is niet van invloed op de bezoldiging van de op het tijdstip van overgang in functie zijnde burgemeester en wethouders zolang zij niet zijn herbenoemd.
 
-6. De afloop van het tijdvak, bedoeld in [artikel 3.4, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.0&artikel=3.4&z=2023-10-14&g=2023-10-14), is niet van invloed op de bezoldiging van de op de laatste dag van dat tijdvak in functie zijnde burgemeester zolang hij niet is herbenoemd.
+6. De afloop van het tijdvak, bedoeld in [artikel 3.4, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.0&artikel=3.4&z=2024-01-01&g=2024-01-01), is niet van invloed op de bezoldiging van de op de laatste dag van dat tijdvak in functie zijnde burgemeester zolang hij niet is herbenoemd.
 
 7. Als voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties in een collectieve arbeidsovereenkomst een wijziging van het loon is overeengekomen, worden de bedragen, genoemd in het eerste en derde lid bij ministeriële regeling overeenkomstig gewijzigd.
 
@@ -337,7 +337,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 9. De wethouder die met toepassing van [artikel 36, tweede lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=36) de functie in deeltijd uitoefent, ontvangt de bezoldiging, bedoeld in het derde lid, naar evenredigheid met de vastgestelde tijdsbestedingsnorm, bedoeld in artikel 36, vierde lid, van de Gemeentewet.
 
-10. Indien een wethouder gedurende een tijdvak als bedoeld in [artikel 36b, tweede lid, onder a of b, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=36b) tevens raadslid is, vervalt gedurende dit tijdvak zijn aanspraak op een vergoeding voor de werkzaamheden, bedoeld in [artikel 3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=3.1.1&z=2023-10-14&g=2023-10-14).
+10. Indien een wethouder gedurende een tijdvak als bedoeld in [artikel 36b, tweede lid, onder a of b, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=36b) tevens raadslid is, vervalt gedurende dit tijdvak zijn aanspraak op een vergoeding voor de werkzaamheden, bedoeld in [artikel 3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=3.1.1&z=2024-01-01&g=2024-01-01).
 
 11. De burgemeesters en de wethouder ontvangen een vakantie-uitkering van 8% van de door hen genoten bezoldiging. De vakantie-uitkering wordt eenmaal per jaar uitbetaald over de periode van twaalf maanden, die is aangevangen met de maand juni van het voorgaande kalenderjaar. Bij ontslag, aftreden of overlijden van de burgemeester of de wethouder vindt betaling plaats over het tijdvak, gelegen tussen het einde van de laatst verstreken periode, waarover de vakantie-uitkering is betaald en de datum van het ontslag, aftreden of overlijden.
 
@@ -349,13 +349,13 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3.2.2. Waarneming burgemeester door wethouder
 
-Indien de wethouder die gedurende meer dan dertig dagen onafgebroken met de waarneming van het ambt van burgemeester is belast, wordt zijn bezoldiging voor die tijd ten laste van de gemeente aangevuld tot het bedrag waarop de bezoldiging van de burgemeester ingevolge [artikel 3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=1&artikel=3.2.1&z=2023-10-14&g=2023-10-14) is vastgesteld.
+Indien de wethouder die gedurende meer dan dertig dagen onafgebroken met de waarneming van het ambt van burgemeester is belast, wordt zijn bezoldiging voor die tijd ten laste van de gemeente aangevuld tot het bedrag waarop de bezoldiging van de burgemeester ingevolge [artikel 3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=1&artikel=3.2.1&z=2024-01-01&g=2024-01-01) is vastgesteld.
 
 ##### Artikel 3.2.3. Neveninkomsten
 
 1. Voor de toepassing van dit artikel wordt verstaan onder:
 
-- a. **bezoldiging:** totaal van de per kalenderjaar als burgemeester of wethouder genoten bezoldiging, bedoeld in [artikel 3.2.1, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=1&artikel=3.2.1&z=2023-10-14&g=2023-10-14), vermeerderd met de vakantie-uitkering, bedoeld in artikel 3.2.1, tiende lid, en aangevuld op grond van [artikel 3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=1&artikel=3.2.2&z=2023-10-14&g=2023-10-14);
+- a. **bezoldiging:** totaal van de per kalenderjaar als burgemeester of wethouder genoten bezoldiging, bedoeld in [artikel 3.2.1, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=1&artikel=3.2.1&z=2024-01-01&g=2024-01-01), vermeerderd met de vakantie-uitkering, bedoeld in artikel 3.2.1, tiende lid, en aangevuld op grond van [artikel 3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=1&artikel=3.2.2&z=2024-01-01&g=2024-01-01);
 
 - b. **neveninkomsten:** andere inkomsten als bedoeld in [artikel 66, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=66), of [artikel 44, zesde lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=44).
 
@@ -381,7 +381,7 @@ Indien de wethouder die gedurende meer dan dertig dagen onafgebroken met de waar
 
 ##### Artikel 3.2.4. Uitkering bij overlijden
 
-1. In het geval van overlijden van de burgemeester of de wethouder wordt aan de weduwe of weduwnaar van wie de overledene niet duurzaam gescheiden leefde, een bedrag uitgekeerd, gelijk aan de bezoldiging, bedoeld in [artikel 3.2.1, eerste of tweede, onderscheidenlijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=1&artikel=3.2.1&z=2023-10-14&g=2023-10-14), vermeerderd met de vakantie-uitkering, welke de overledene laatstelijk genoot over een tijdvak van drie maanden. Indien de overledene geen weduwe of weduwnaar nalaat, geschiedt de uitkering ten behoeve van de minderjarige wettige of natuurlijke kinderen, of minderjarige kinderen waarover de overledene de pleegouderlijke zorg droeg. Onder pleegouderlijke zorg wordt verstaan de zorg voor het onderhoud en de opvoeding van het kind als was het een eigen kind, onafhankelijk van enige verplichting daartoe of van het genieten van een vergoeding daarvoor. Ontbreken ook zodanige kinderen dan geschiedt de uitkering aan degenen die geheel of grotendeels afhankelijk waren van de overledene.
+1. In het geval van overlijden van de burgemeester of de wethouder wordt aan de weduwe of weduwnaar van wie de overledene niet duurzaam gescheiden leefde, een bedrag uitgekeerd, gelijk aan de bezoldiging, bedoeld in [artikel 3.2.1, eerste of tweede, onderscheidenlijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=1&artikel=3.2.1&z=2024-01-01&g=2024-01-01), vermeerderd met de vakantie-uitkering, welke de overledene laatstelijk genoot over een tijdvak van drie maanden. Indien de overledene geen weduwe of weduwnaar nalaat, geschiedt de uitkering ten behoeve van de minderjarige wettige of natuurlijke kinderen, of minderjarige kinderen waarover de overledene de pleegouderlijke zorg droeg. Onder pleegouderlijke zorg wordt verstaan de zorg voor het onderhoud en de opvoeding van het kind als was het een eigen kind, onafhankelijk van enige verplichting daartoe of van het genieten van een vergoeding daarvoor. Ontbreken ook zodanige kinderen dan geschiedt de uitkering aan degenen die geheel of grotendeels afhankelijk waren van de overledene.
 
 2. Voor de toepassing van dit artikel wordt onder weduwe of weduwnaar mede verstaan de achtergebleven geregistreerde partner alsmede degene met wie de overleden burgemeester of wethouder ongehuwd samenleefde en een gezamenlijke huishouding heeft gevoerd als bedoeld in [artikel 3, derde en vierde lid, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=3).
 
@@ -389,9 +389,9 @@ Indien de wethouder die gedurende meer dan dertig dagen onafgebroken met de waar
 
 ##### Artikel 3.2.5. Mobiliteitstoelage burgemeester
 
-1. Een burgemeester die, nadat hij ten minste twee ambtstermijnen heeft vervuld in dezelfde gemeente, benoemd wordt tot burgemeester van een andere gemeente, ontvangt, indien die andere gemeente in een gelijke inwonersklasse is ingedeeld, ten laste van die andere gemeente eenmalig een mobiliteitstoelage op de bezoldiging van € 11.486,86.
+1. Een burgemeester die, nadat hij ten minste twee ambtstermijnen heeft vervuld in dezelfde gemeente, benoemd wordt tot burgemeester van een andere gemeente, ontvangt, indien die andere gemeente in een gelijke inwonersklasse is ingedeeld, ten laste van die andere gemeente eenmalig een mobiliteitstoelage op de bezoldiging van € 11.659,17.
 
-2. Het eerste lid is niet van toepassing indien op de datum van de benoeming van de burgemeester in die andere gemeente, die andere gemeente weliswaar in een gelijke inwonersklasse is ingedeeld, maar op dat moment op grond van [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.0&artikel=3.4&z=2023-10-14&g=2023-10-14) in een hogere inwonersklasse is geplaatst.
+2. Het eerste lid is niet van toepassing indien op de datum van de benoeming van de burgemeester in die andere gemeente, die andere gemeente weliswaar in een gelijke inwonersklasse is ingedeeld, maar op dat moment op grond van [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.0&artikel=3.4&z=2024-01-01&g=2024-01-01) in een hogere inwonersklasse is geplaatst.
 
 3. Als voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties in een collectieve arbeidsovereenkomst een wijziging van het loon is overeengekomen, wordt het bedrag in het eerste lid bij ministeriële regeling overeenkomstig gewijzigd.
 
@@ -399,9 +399,9 @@ Indien de wethouder die gedurende meer dan dertig dagen onafgebroken met de waar
 
 ##### Artikel 3.2.6. Ambtskosten
 
-1. De burgemeester ontvangt een vergoeding van € 427,80 per maand voor aan de uitoefening van het ambt verbonden kosten. De burgemeester van meer dan een gemeente ontvangt deze vergoeding van elke van die gemeenten.
+1. De burgemeester ontvangt een vergoeding van € 489,83 per maand voor aan de uitoefening van het ambt verbonden kosten. De burgemeester van meer dan een gemeente ontvangt deze vergoeding van elke van die gemeenten.
 
-2. Een wethouder ontvangt een vergoeding van € 393,58 per maand voor aan de uitoefening van het ambt verbonden kosten. Indien een wethouder gedurende meer dan dertig dagen onafgebroken met de waarneming van het ambt van burgemeester is belast, ontvangt hij voor die tijd een ambtstoelage van € 427,80 per maand.
+2. Een wethouder ontvangt een vergoeding van € 450,65 per maand voor aan de uitoefening van het ambt verbonden kosten. Indien een wethouder gedurende meer dan dertig dagen onafgebroken met de waarneming van het ambt van burgemeester is belast, ontvangt hij voor die tijd een ambtstoelage van € 489,83 per maand.
 
 3. De wethouder die met toepassing van [artikel 36, tweede lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=36) de functie in deeltijd uitoefent, ontvangt de vergoeding, bedoeld in het tweede lid, naar evenredigheid met de vastgestelde tijdsbestedingsnorm, bedoeld in artikel 36, vierde lid, van de Gemeentewet.
 
@@ -465,9 +465,9 @@ Indien de wethouder die gedurende meer dan dertig dagen onafgebroken met de waar
 
 8. De burgemeester of de wethouder betaalt voor het gebruik van de aan hem ter beschikking gestelde auto voor andere dan zakelijke of bestuurlijke doeleinden een eigen bijdrage per maand aan de gemeente.
 
-9. Indien aan de burgemeester of de wethouder een auto, niet zijnde een auto voor gemeenschappelijk gebruik of een auto op afroep als bedoeld in het eerste lid, ter beschikking is gesteld, heeft hij geen aanspraak op vergoeding als bedoeld in [artikel 3.2.7, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&artikel=3.2.7&z=2023-10-14&g=2023-10-14), en vergoeding van kosten voor woon-werkverkeer en reiskosten als bedoeld in [artikel 3.2.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&artikel=3.2.9&z=2023-10-14&g=2023-10-14).
+9. Indien aan de burgemeester of de wethouder een auto, niet zijnde een auto voor gemeenschappelijk gebruik of een auto op afroep als bedoeld in het eerste lid, ter beschikking is gesteld, heeft hij geen aanspraak op vergoeding als bedoeld in [artikel 3.2.7, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&artikel=3.2.7&z=2024-01-01&g=2024-01-01), en vergoeding van kosten voor woon-werkverkeer en reiskosten als bedoeld in [artikel 3.2.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&artikel=3.2.9&z=2024-01-01&g=2024-01-01).
 
-10. Voor zover de burgemeester of de wethouder gebruik maakt van een auto voor gemeenschappelijk gebruik of een auto op afroep als bedoeld in het eerste lid, heeft hij geen aanspraak op vergoeding als bedoeld in [artikel 3.2.7, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&artikel=3.2.7&z=2023-10-14&g=2023-10-14), en vergoeding van kosten voor woon-werkverkeer en reiskosten als bedoeld in [artikel 3.2.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&artikel=3.2.9&z=2023-10-14&g=2023-10-14).
+10. Voor zover de burgemeester of de wethouder gebruik maakt van een auto voor gemeenschappelijk gebruik of een auto op afroep als bedoeld in het eerste lid, heeft hij geen aanspraak op vergoeding als bedoeld in [artikel 3.2.7, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&artikel=3.2.7&z=2024-01-01&g=2024-01-01), en vergoeding van kosten voor woon-werkverkeer en reiskosten als bedoeld in [artikel 3.2.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&artikel=3.2.9&z=2024-01-01&g=2024-01-01).
 
 11. Onze Minister stelt nadere regels over de voorwaarden voor de ter beschikkingstelling van een auto en het gebruik daarvan, alsmede over de hoogte van de eigen bijdrage, bedoeld in het achtste lid.
 
@@ -495,15 +495,15 @@ Indien de wethouder die gedurende meer dan dertig dagen onafgebroken met de waar
 
 ##### Artikel 3.2.13. Aanspraken bij zwangerschap en bevalling en ziekte
 
-De wethouder aan wie in verband met zwangerschap en bevalling of ziekte op grond van [artikel 45, eerste lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=45) verlof is verleend, ontvangt in afwijking van [artikel 3.2.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&artikel=3.2.6&z=2023-10-14&g=2023-10-14), een vergoeding voor aan de uitoefening van het ambt verbonden kosten van de helft van het bedrag, genoemd in die bepaling.
+De wethouder aan wie in verband met zwangerschap en bevalling of ziekte op grond van [artikel 45, eerste lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=45) verlof is verleend, ontvangt in afwijking van [artikel 3.2.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&artikel=3.2.6&z=2024-01-01&g=2024-01-01), een vergoeding voor aan de uitoefening van het ambt verbonden kosten van de helft van het bedrag, genoemd in die bepaling.
 
 #### Paragraaf 3. Overige bepalingen
 
 ##### Artikel 3.2.14. Vergoeding bij waarneming van de burgemeester
 
-1. Op degene die op grond van [artikel 78 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=78) onafgebroken met de waarneming van het ambt van burgemeester is belast, zijn voor die tijd de bepalingen in deze afdeling en [afdeling 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.3&z=2023-10-14&g=2023-10-14), voor zover die betrekking hebben op de rechtspositie van de burgemeester, van overeenkomstige toepassing, met uitzondering van de [artikelen 3.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=1&artikel=3.2.3&z=2023-10-14&g=2023-10-14), [3.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=1&artikel=3.2.5&z=2023-10-14&g=2023-10-14), [3.2.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&artikel=3.2.7&z=2023-10-14&g=2023-10-14), [3.2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=3&artikel=3.2.17&z=2023-10-14&g=2023-10-14), [3.2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=3&artikel=3.2.18&z=2023-10-14&g=2023-10-14) en [3.2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=3&artikel=3.2.19&z=2023-10-14&g=2023-10-14).
+1. Op degene die op grond van [artikel 78 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=78) onafgebroken met de waarneming van het ambt van burgemeester is belast, zijn voor die tijd de bepalingen in deze afdeling en [afdeling 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.3&z=2024-01-01&g=2024-01-01), voor zover die betrekking hebben op de rechtspositie van de burgemeester, van overeenkomstige toepassing, met uitzondering van de [artikelen 3.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=1&artikel=3.2.3&z=2024-01-01&g=2024-01-01), [3.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=1&artikel=3.2.5&z=2024-01-01&g=2024-01-01), [3.2.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&artikel=3.2.7&z=2024-01-01&g=2024-01-01), [3.2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=3&artikel=3.2.17&z=2024-01-01&g=2024-01-01), [3.2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=3&artikel=3.2.18&z=2024-01-01&g=2024-01-01) en [3.2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=3&artikel=3.2.19&z=2024-01-01&g=2024-01-01).
 
-2. Indien een waarnemend burgemeester, aangewezen op grond van [artikel 78 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=78), tevens burgemeester is van een andere gemeente, kan in afwijking van [artikel 3.2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=3&artikel=3.2.16&z=2023-10-14&g=2023-10-14) de verhouding waarin de bezoldiging en de overige financiële aanspraken op grond van [afdeling 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&z=2023-10-14&g=2023-10-14) ten laste van de gemeenten komen, door Onze Minister worden vastgesteld.
+2. Indien een waarnemend burgemeester, aangewezen op grond van [artikel 78 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=78), tevens burgemeester is van een andere gemeente, kan in afwijking van [artikel 3.2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=3&artikel=3.2.16&z=2024-01-01&g=2024-01-01) de verhouding waarin de bezoldiging en de overige financiële aanspraken op grond van [afdeling 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&z=2024-01-01&g=2024-01-01) ten laste van de gemeenten komen, door Onze Minister worden vastgesteld.
 
 ##### Artikel 3.2.15. Verzekering voor arbeidsongeschiktheid, ouderdom en overlijden tijdelijke vervanger wethouder
 
@@ -511,15 +511,15 @@ De wethouder aan wie in verband met zwangerschap en bevalling of ziekte op grond
 
 | **inwonersklasse** | **bedrag** |
 | --- | --- |
-| 1 | € 300,95 |
-| 2 | € 348,06 |
-| 3 | € 394,01 |
-| 4 | € 423,87 |
-| 5 | € 470,96 |
-| 6 | € 516,91 |
-| 7 | € 564,01 |
-| 8 | € 595,03 |
-| 9 | € 677,73 |
+| 1 | € 305,47 |
+| 2 | € 353,28 |
+| 3 | € 399,92 |
+| 4 | € 430,23 |
+| 5 | € 478,02 |
+| 6 | € 524,67 |
+| 7 | € 572,48 |
+| 8 | € 603,95 |
+| 9 | € 687,90 |
 
 2. Als voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties in een collectieve arbeidsovereenkomst een wijziging van het loon is overeengekomen, worden in het eerste lid de in de tabel genoemde bedragen bij ministeriële regeling overeenkomstig gewijzigd.
 
@@ -527,9 +527,9 @@ De wethouder aan wie in verband met zwangerschap en bevalling of ziekte op grond
 
 Wanneer dezelfde persoon burgemeester is van meer dan één gemeente, komen:
 
-- a. de bezoldiging en de uitkeringen, bedoeld in [artikel 3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=1&artikel=3.2.1&z=2023-10-14&g=2023-10-14), in verhouding tot het inwonertal naar boven afgerond op een veelvoud van 100, ten laste van elke gemeente;
+- a. de bezoldiging en de uitkeringen, bedoeld in [artikel 3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=1&artikel=3.2.1&z=2024-01-01&g=2024-01-01), in verhouding tot het inwonertal naar boven afgerond op een veelvoud van 100, ten laste van elke gemeente;
 
-- b. de vergoeding voor aan de uitoefening van het ambt verbonden kosten, bedoeld in [artikel 3.2.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&artikel=3.2.6&z=2023-10-14&g=2023-10-14), en overige financiële aanspraken en voorzieningen op grond van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&z=2023-10-14&g=2023-10-14) van deze afdeling en van [afdeling 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.3&z=2023-10-14&g=2023-10-14) in gelijke mate ten laste van elke gemeente, tenzij die kunnen worden toegerekend aan de uitoefening van het ambt in een van de gemeenten, in welk geval zij ten laste komen van die gemeente.
+- b. de vergoeding voor aan de uitoefening van het ambt verbonden kosten, bedoeld in [artikel 3.2.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&artikel=3.2.6&z=2024-01-01&g=2024-01-01), en overige financiële aanspraken en voorzieningen op grond van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&z=2024-01-01&g=2024-01-01) van deze afdeling en van [afdeling 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.3&z=2024-01-01&g=2024-01-01) in gelijke mate ten laste van elke gemeente, tenzij die kunnen worden toegerekend aan de uitoefening van het ambt in een van de gemeenten, in welk geval zij ten laste komen van die gemeente.
 
 ##### Artikel 3.2.17. Kennisgeving bij afwezigheid
 
@@ -539,7 +539,7 @@ Indien de burgemeester langer dan acht dagen wegens ziekte of om andere redenen 
 
 1. Een besluit tot schorsing als bedoeld in [artikel 62, eerste lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=62) bevat in ieder geval een aanduiding van het tijdstip waarop de schorsing ingaat en een zo nauwkeurig mogelijke aanduiding van de duur van de schorsing.
 
-2. De burgemeester die geschorst is, behoudt gedurende de schorsing zijn bezoldiging en uitkeringen, bedoeld in [artikel 3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=1&artikel=3.2.1&z=2023-10-14&g=2023-10-14) en zijn aanspraak op vergoedingen en voorzieningen op grond van de [afdelingen 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&z=2023-10-14&g=2023-10-14) en [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.3&z=2023-10-14&g=2023-10-14).
+2. De burgemeester die geschorst is, behoudt gedurende de schorsing zijn bezoldiging en uitkeringen, bedoeld in [artikel 3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=1&artikel=3.2.1&z=2024-01-01&g=2024-01-01) en zijn aanspraak op vergoedingen en voorzieningen op grond van de [afdelingen 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&z=2024-01-01&g=2024-01-01) en [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.3&z=2024-01-01&g=2024-01-01).
 
 3. Gedurende een schorsing is het de burgemeester als zodanig niet toegestaan de gemeentelijke dienstgebouwen te betreden.
 
@@ -631,33 +631,33 @@ Het college van burgemeester en wethouders treft ten laste van de gemeente een v
 
 Als eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31) worden aangewezen:
 
-- a. de vergoedingen en toelage, bedoeld in de [artikelen 3.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=2&artikel=3.1.6&z=2023-10-14&g=2023-10-14) en [3.2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&artikel=3.2.6&z=2023-10-14&g=2023-10-14);
+- a. de vergoedingen en toelage, bedoeld in de [artikelen 3.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=2&artikel=3.1.6&z=2024-01-01&g=2024-01-01) en [3.2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&artikel=3.2.6&z=2024-01-01&g=2024-01-01);
 
-- b. de tegemoetkoming in de kosten van een ziektekostenverzekering, bedoeld in [artikel 3.1.10](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=2&artikel=3.1.10&z=2023-10-14&g=2023-10-14);
+- b. de tegemoetkoming in de kosten van een ziektekostenverzekering, bedoeld in [artikel 3.1.10](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=2&artikel=3.1.10&z=2024-01-01&g=2024-01-01);
 
-- c. de vergoedingen in verband met verhuizing, bedoeld in [artikel 3.2.7, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&artikel=3.2.7&z=2023-10-14&g=2023-10-14);
+- c. de vergoedingen in verband met verhuizing, bedoeld in [artikel 3.2.7, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&artikel=3.2.7&z=2024-01-01&g=2024-01-01);
 
-- d. de vergoeding van de kosten voor tijdelijke huisvesting, bedoeld in [artikel 3.2.7, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&artikel=3.2.7&z=2023-10-14&g=2023-10-14);
+- d. de vergoeding van de kosten voor tijdelijke huisvesting, bedoeld in [artikel 3.2.7, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&artikel=3.2.7&z=2024-01-01&g=2024-01-01);
 
-- e. de tegemoetkoming in de kosten van dubbele woonlasten, bedoeld in [artikel 3.2.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&artikel=3.2.7&z=2023-10-14&g=2023-10-14);
+- e. de tegemoetkoming in de kosten van dubbele woonlasten, bedoeld in [artikel 3.2.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&artikel=3.2.7&z=2024-01-01&g=2024-01-01);
 
-- f. de betaling of vergoeding van de kosten voor energie en water, bedoeld in [artikel 3.2.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&artikel=3.2.8&z=2023-10-14&g=2023-10-14);
+- f. de betaling of vergoeding van de kosten voor energie en water, bedoeld in [artikel 3.2.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&artikel=3.2.8&z=2024-01-01&g=2024-01-01);
 
-- g. de vergoeding van reis- en verblijfkosten als bedoeld in [artikel 3.1.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=2&artikel=3.1.7&z=2023-10-14&g=2023-10-14), en de vergoeding van kosten voor woon-werkverkeer en van reis- en verblijfkosten als bedoeld in [artikel 3.2.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&artikel=3.2.9&z=2023-10-14&g=2023-10-14);
+- g. de vergoeding van reis- en verblijfkosten als bedoeld in [artikel 3.1.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=2&artikel=3.1.7&z=2024-01-01&g=2024-01-01), en de vergoeding van kosten voor woon-werkverkeer en van reis- en verblijfkosten als bedoeld in [artikel 3.2.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&artikel=3.2.9&z=2024-01-01&g=2024-01-01);
 
-- h. de vergoeding van de belastingheffing, bedoeld in de [artikelen 3.2.7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&artikel=3.2.7&z=2023-10-14&g=2023-10-14), [3.2.8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&artikel=3.2.8&z=2023-10-14&g=2023-10-14), en [3.2.10, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&artikel=3.2.10&z=2023-10-14&g=2023-10-14);
+- h. de vergoeding van de belastingheffing, bedoeld in de [artikelen 3.2.7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&artikel=3.2.7&z=2024-01-01&g=2024-01-01), [3.2.8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&artikel=3.2.8&z=2024-01-01&g=2024-01-01), en [3.2.10, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&artikel=3.2.10&z=2024-01-01&g=2024-01-01);
 
-- i. de vergoeding van de kosten in verband met loopbaanoriëntatie en mobiliteit bevorderende activiteiten, bedoeld in [artikel 3.2.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&artikel=3.2.11&z=2023-10-14&g=2023-10-14);
+- i. de vergoeding van de kosten in verband met loopbaanoriëntatie en mobiliteit bevorderende activiteiten, bedoeld in [artikel 3.2.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&artikel=3.2.11&z=2024-01-01&g=2024-01-01);
 
-- j. de voorzieningen ten behoeve van een veilige woon- en werkplek als bedoeld in [artikel 3.3.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.3&artikel=3.3.1&z=2023-10-14&g=2023-10-14);
+- j. de voorzieningen ten behoeve van een veilige woon- en werkplek als bedoeld in [artikel 3.3.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.3&artikel=3.3.1&z=2024-01-01&g=2024-01-01);
 
-- k. de ter beschikking stelling van informatie- en communicatiemiddelen, bedoeld in [artikel 3.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.3&artikel=3.3.2&z=2023-10-14&g=2023-10-14);
+- k. de ter beschikking stelling van informatie- en communicatiemiddelen, bedoeld in [artikel 3.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.3&artikel=3.3.2&z=2024-01-01&g=2024-01-01);
 
-- l. de vergoeding van de kosten voor scholing als bedoeld in [artikel 3.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.3&artikel=3.3.3&z=2023-10-14&g=2023-10-14);
+- l. de vergoeding van de kosten voor scholing als bedoeld in [artikel 3.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.3&artikel=3.3.3&z=2024-01-01&g=2024-01-01);
 
-- m. de vergoeding van de contributie van een beroepsvereniging, bedoeld in [artikel 3.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.3&artikel=3.3.4&z=2023-10-14&g=2023-10-14), en
+- m. de vergoeding van de contributie van een beroepsvereniging, bedoeld in [artikel 3.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.3&artikel=3.3.4&z=2024-01-01&g=2024-01-01), en
 
-- n. een voorziening of financiële tegemoetkoming als bedoeld in [artikel 3.3.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.3&artikel=3.3.7&z=2023-10-14&g=2023-10-14).
+- n. een voorziening of financiële tegemoetkoming als bedoeld in [artikel 3.3.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.3&artikel=3.3.7&z=2024-01-01&g=2024-01-01).
 
 ### Afdeling 3.4. Commissieleden
 
@@ -667,12 +667,12 @@ Als eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f,
 
 | **Aantal inwoners** | **Vergoeding per vergadering** |
 | --- | --- |
-| tot en met 10.000 | € 68,82 |
-| 10.001 – 20.000 | € 76,09 |
-| 20.001 – 50.000 | € 91,28 |
-| 50.001 – 100.000 | € 112,31 |
-| 100.001 – 250.000 | € 143,45 |
-| 250.001 of meer | € 181,85 |
+| tot en met 10.000 | € 72,54 |
+| 10.001 – 20.000 | € 80,20 |
+| 20.001 – 50.000 | € 96,21 |
+| 50.001 – 100.000 | € 118,37 |
+| 100.001 – 250.000 | € 151,20 |
+| 250.001 of meer | € 191,67 |
 
 2. Voor de toepassing van het eerste lid wordt onder het aantal inwoners verstaan het aantal inwoners volgens de door het centraal Bureau voor de Statistiek openbaar gemaakte bevolkingscijfer per 1 januari.
 
@@ -680,7 +680,7 @@ Als eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f,
 
 ##### Artikel 3.4.2. Hogere vergoeding
 
-De gemeenteraad kan bij verordening bepalen dat de vergoeding voor het bijwonen van de vergaderingen van de commissie naar boven afwijkt van de vergoeding, bedoeld in [artikel 3.4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.4&artikel=3.4.1&z=2023-10-14&g=2023-10-14), ten aanzien van:
+De gemeenteraad kan bij verordening bepalen dat de vergoeding voor het bijwonen van de vergaderingen van de commissie naar boven afwijkt van de vergoeding, bedoeld in [artikel 3.4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.4&artikel=3.4.1&z=2024-01-01&g=2024-01-01), ten aanzien van:
 
 - a. een commissielid dat op grond van zijn bijzondere beroepsmatige deskundigheid op het taakgebied van de commissie voor deelneming aan haar werkzaamheden is aangetrokken, en
 
@@ -698,7 +698,7 @@ De gemeenteraad kan bij verordening bepalen dat de vergoeding voor het bijwonen 
 
 ##### Artikel 3.4.4. Overige vergoedingen en voorzieningen
 
-Ten aanzien van een commissielid zijn de [artikelen 3.1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=2&artikel=3.1.11&z=2023-10-14&g=2023-10-14), [3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.3&artikel=3.3.1&z=2023-10-14&g=2023-10-14), [3.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.3&artikel=3.3.2&z=2023-10-14&g=2023-10-14), [3.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.3&artikel=3.3.3&z=2023-10-14&g=2023-10-14), [3.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.3&artikel=3.3.4&z=2023-10-14&g=2023-10-14), [3.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.3&artikel=3.3.6&z=2023-10-14&g=2023-10-14), [3.3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.3&artikel=3.3.7&z=2023-10-14&g=2023-10-14) en [3.3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.3&artikel=3.3.8&z=2023-10-14&g=2023-10-14) van overeenkomstige toepassing.
+Ten aanzien van een commissielid zijn de [artikelen 3.1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=2&artikel=3.1.11&z=2024-01-01&g=2024-01-01), [3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.3&artikel=3.3.1&z=2024-01-01&g=2024-01-01), [3.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.3&artikel=3.3.2&z=2024-01-01&g=2024-01-01), [3.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.3&artikel=3.3.3&z=2024-01-01&g=2024-01-01), [3.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.3&artikel=3.3.4&z=2024-01-01&g=2024-01-01), [3.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.3&artikel=3.3.6&z=2024-01-01&g=2024-01-01), [3.3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.3&artikel=3.3.7&z=2024-01-01&g=2024-01-01) en [3.3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.3&artikel=3.3.8&z=2024-01-01&g=2024-01-01) van overeenkomstige toepassing.
 
 ### Hoofdstuk 4. Waterschappen
 
@@ -706,43 +706,43 @@ Ten aanzien van een commissielid zijn de [artikelen 3.1.11](https://wetten.overh
 
 ##### Artikel 5.1. Overgangsbepalingen
 
-1. De bedragen, genoemd in de [artikelen 2.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=1&artikel=2.1.1&z=2023-10-14&g=2023-10-14), en [2.4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.4&artikel=2.4.1&z=2023-10-14&g=2023-10-14), worden per 28 maart 2019 bij ministeriële regeling gewijzigd aan de hand van het door het Centraal Bureau voor de Statistiek voor de maand september 2018 vastgestelde indexcijfer CAO-lonen overheid, inclusief bijzondere beloningen.
+1. De bedragen, genoemd in de [artikelen 2.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=1&artikel=2.1.1&z=2024-01-01&g=2024-01-01), en [2.4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.4&artikel=2.4.1&z=2024-01-01&g=2024-01-01), worden per 28 maart 2019 bij ministeriële regeling gewijzigd aan de hand van het door het Centraal Bureau voor de Statistiek voor de maand september 2018 vastgestelde indexcijfer CAO-lonen overheid, inclusief bijzondere beloningen.
 
-2. De bedragen, genoemd in de [artikelen 2.1.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=2&artikel=2.1.6&z=2023-10-14&g=2023-10-14), en [2.2.6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=2&artikel=2.2.6&z=2023-10-14&g=2023-10-14), worden per 28 maart 2019 bij ministeriële regeling gewijzigd aan de hand van de consumentenprijsindex voor de maand september 2018.
+2. De bedragen, genoemd in de [artikelen 2.1.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=2&artikel=2.1.6&z=2024-01-01&g=2024-01-01), en [2.2.6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=2&artikel=2.2.6&z=2024-01-01&g=2024-01-01), worden per 28 maart 2019 bij ministeriële regeling gewijzigd aan de hand van de consumentenprijsindex voor de maand september 2018.
 
-3. Indien provinciale staten toepassing hebben gegeven aan [artikel 9, eerste lid, van het Rechtspositiebesluit staten- en commissieleden](https://wetten.overheid.nl/jci1.3:c:BWBR0006534&artikel=9), zoals dat luidde op de dag voor de datum van inwerkingtreding van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&z=2023-10-14&g=2023-10-14) van dit besluit, blijft dat artikel in de desbetreffende provincie van toepassing.
+3. Indien provinciale staten toepassing hebben gegeven aan [artikel 9, eerste lid, van het Rechtspositiebesluit staten- en commissieleden](https://wetten.overheid.nl/jci1.3:c:BWBR0006534&artikel=9), zoals dat luidde op de dag voor de datum van inwerkingtreding van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&z=2024-01-01&g=2024-01-01) van dit besluit, blijft dat artikel in de desbetreffende provincie van toepassing.
 
-4. [Artikel 8, derde lid, van het Rechtspositiebesluit commissarissen van de Koning](https://wetten.overheid.nl/jci1.3:c:BWBR0006738&artikel=8), zoals dat luidde op de dag voor de datum van inwerkingtreding van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&z=2023-10-14&g=2023-10-14) van dit besluit, blijft van toepassing op de commissaris van de Koning die voor die datum is benoemd.
+4. [Artikel 8, derde lid, van het Rechtspositiebesluit commissarissen van de Koning](https://wetten.overheid.nl/jci1.3:c:BWBR0006738&artikel=8), zoals dat luidde op de dag voor de datum van inwerkingtreding van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&z=2024-01-01&g=2024-01-01) van dit besluit, blijft van toepassing op de commissaris van de Koning die voor die datum is benoemd.
 
-5. De bedragen, genoemd in de [artikelen 3.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=3.1.1&z=2023-10-14&g=2023-10-14), en [3.4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.4&artikel=3.4.1&z=2023-10-14&g=2023-10-14), worden per 1 januari 2019 bij ministeriële regeling gewijzigd aan de hand van het door het Centraal Bureau voor de Statistiek voor de maand september 2018 vastgestelde indexcijfer CAO-lonen overheid, inclusief bijzondere beloningen.
+5. De bedragen, genoemd in de [artikelen 3.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=3.1.1&z=2024-01-01&g=2024-01-01), en [3.4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.4&artikel=3.4.1&z=2024-01-01&g=2024-01-01), worden per 1 januari 2019 bij ministeriële regeling gewijzigd aan de hand van het door het Centraal Bureau voor de Statistiek voor de maand september 2018 vastgestelde indexcijfer CAO-lonen overheid, inclusief bijzondere beloningen.
 
-6. De bedragen, genoemd in de [artikelen 3.1.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=2&artikel=3.1.6&z=2023-10-14&g=2023-10-14), en [3.2.6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&artikel=3.2.6&z=2023-10-14&g=2023-10-14), worden per 1 januari 2019 bij ministeriële regeling gewijzigd aan de hand van de consumentenprijsindex voor de maand september 2018.
+6. De bedragen, genoemd in de [artikelen 3.1.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=2&artikel=3.1.6&z=2024-01-01&g=2024-01-01), en [3.2.6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&artikel=3.2.6&z=2024-01-01&g=2024-01-01), worden per 1 januari 2019 bij ministeriële regeling gewijzigd aan de hand van de consumentenprijsindex voor de maand september 2018.
 
-7. Indien de gemeenteraad toepassing heeft gegeven aan [artikel 10, eerste lid, van het Rechtspositiebesluit raads- en commissieleden](https://wetten.overheid.nl/jci1.3:c:BWBR0006534&artikel=10), zoals dat luidde op de dag voor de datum van inwerkingtreding van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&z=2023-10-14&g=2023-10-14) van dit besluit, blijft dat artikel in de desbetreffende gemeente van toepassing.
+7. Indien de gemeenteraad toepassing heeft gegeven aan [artikel 10, eerste lid, van het Rechtspositiebesluit raads- en commissieleden](https://wetten.overheid.nl/jci1.3:c:BWBR0006534&artikel=10), zoals dat luidde op de dag voor de datum van inwerkingtreding van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&z=2024-01-01&g=2024-01-01) van dit besluit, blijft dat artikel in de desbetreffende gemeente van toepassing.
 
-8. [Artikel 14a van het Rechtspositiebesluit burgemeesters](https://wetten.overheid.nl/jci1.3:c:BWBR0006743&artikel=14a), zoals dat luidde op de dag voor de datum van inwerkingtreding van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&z=2023-10-14&g=2023-10-14) van dit besluit, blijft van toepassing ten aanzien van de burgemeester aan wie voor die datum een toelage is toegekend als bedoeld in dat artikel 14a.
+8. [Artikel 14a van het Rechtspositiebesluit burgemeesters](https://wetten.overheid.nl/jci1.3:c:BWBR0006743&artikel=14a), zoals dat luidde op de dag voor de datum van inwerkingtreding van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&z=2024-01-01&g=2024-01-01) van dit besluit, blijft van toepassing ten aanzien van de burgemeester aan wie voor die datum een toelage is toegekend als bedoeld in dat artikel 14a.
 
-9. [Artikel 14b van het Rechtspositiebesluit burgemeesters](https://wetten.overheid.nl/jci1.3:c:BWBR0006743&artikel=14b), zoals dat luidde op de dag voor de datum van inwerkingtreding van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&z=2023-10-14&g=2023-10-14) van dit besluit, blijft van toepassing ten aanzien van de burgemeester aan wie voor die datum een aanvulling is toegekend als bedoeld in dat artikel 14b.
+9. [Artikel 14b van het Rechtspositiebesluit burgemeesters](https://wetten.overheid.nl/jci1.3:c:BWBR0006743&artikel=14b), zoals dat luidde op de dag voor de datum van inwerkingtreding van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&z=2024-01-01&g=2024-01-01) van dit besluit, blijft van toepassing ten aanzien van de burgemeester aan wie voor die datum een aanvulling is toegekend als bedoeld in dat artikel 14b.
 
-10. Ten aanzien van de burgemeester die in verband met een herindelingsregeling als bedoeld in [artikel 1, eerste lid, onder f, van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=1) met ingang van 1 januari 2019 is ontslagen en vervolgens wordt benoemd in een andere gemeente, blijft [artikel 14a van het Rechtspositiebesluit burgemeesters](https://wetten.overheid.nl/jci1.3:c:BWBR0006743&artikel=14a), zoals dat luidde op de dag voor de inwerkingtreding van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&z=2023-10-14&g=2023-10-14) van dit besluit, van toepassing in plaats van [artikel 3.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=1&artikel=3.2.5&z=2023-10-14&g=2023-10-14) van dit besluit.
+10. Ten aanzien van de burgemeester die in verband met een herindelingsregeling als bedoeld in [artikel 1, eerste lid, onder f, van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=1) met ingang van 1 januari 2019 is ontslagen en vervolgens wordt benoemd in een andere gemeente, blijft [artikel 14a van het Rechtspositiebesluit burgemeesters](https://wetten.overheid.nl/jci1.3:c:BWBR0006743&artikel=14a), zoals dat luidde op de dag voor de inwerkingtreding van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&z=2024-01-01&g=2024-01-01) van dit besluit, van toepassing in plaats van [artikel 3.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=1&artikel=3.2.5&z=2024-01-01&g=2024-01-01) van dit besluit.
 
-11. Ten aanzien van de burgemeester die voor 1 januari 2019 eervol is ontslagen of niet is herbenoemd en ten aanzien van de burgemeester die in verband met een herindelingsregeling als bedoeld in [artikel 1, eerste lid, onder f, van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=1) met ingang van 1 januari 2019 eervol is ontslagen, blijft [artikel 16, derde lid, van het Rechtspositiebesluit burgemeesters](https://wetten.overheid.nl/jci1.3:c:BWBR0006743&artikel=16), zoals dat luidde op de dag voor de inwerkingtreding van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&z=2023-10-14&g=2023-10-14) van dit besluit, van toepassing.
+11. Ten aanzien van de burgemeester die voor 1 januari 2019 eervol is ontslagen of niet is herbenoemd en ten aanzien van de burgemeester die in verband met een herindelingsregeling als bedoeld in [artikel 1, eerste lid, onder f, van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=1) met ingang van 1 januari 2019 eervol is ontslagen, blijft [artikel 16, derde lid, van het Rechtspositiebesluit burgemeesters](https://wetten.overheid.nl/jci1.3:c:BWBR0006743&artikel=16), zoals dat luidde op de dag voor de inwerkingtreding van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&z=2024-01-01&g=2024-01-01) van dit besluit, van toepassing.
 
-12. Zolang een burgemeester niet is ontslagen of herbenoemd, blijven in plaats van [artikel 3.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.3&artikel=3.3.2&z=2023-10-14&g=2023-10-14) voor hem [artikel 30, tweede en vierde lid, van het Rechtspositiebesluit burgemeesters](https://wetten.overheid.nl/jci1.3:c:BWBR0006743&artikel=30), zoals dat luidde voor de datum van inwerkingtreding van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&z=2023-10-14&g=2023-10-14) van dit besluit, en de op het vijfde lid van dat artikel gebaseerde nadere regels van toepassing, indien hem in 2018 een tegemoetkoming of een vergoeding op grond van dat artikel is verleend.
+12. Zolang een burgemeester niet is ontslagen of herbenoemd, blijven in plaats van [artikel 3.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.3&artikel=3.3.2&z=2024-01-01&g=2024-01-01) voor hem [artikel 30, tweede en vierde lid, van het Rechtspositiebesluit burgemeesters](https://wetten.overheid.nl/jci1.3:c:BWBR0006743&artikel=30), zoals dat luidde voor de datum van inwerkingtreding van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&z=2024-01-01&g=2024-01-01) van dit besluit, en de op het vijfde lid van dat artikel gebaseerde nadere regels van toepassing, indien hem in 2018 een tegemoetkoming of een vergoeding op grond van dat artikel is verleend.
 
-13. [Artikel 31, derde lid, van het Rechtspositiebesluit burgemeesters](https://wetten.overheid.nl/jci1.3:c:BWBR0006743&artikel=31), zoals dat luidde voor de datum van inwerkingtreding van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&z=2023-10-14&g=2023-10-14) van dit besluit, blijft van toepassing op de burgemeester die voor die datum is benoemd.
+13. [Artikel 31, derde lid, van het Rechtspositiebesluit burgemeesters](https://wetten.overheid.nl/jci1.3:c:BWBR0006743&artikel=31), zoals dat luidde voor de datum van inwerkingtreding van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&z=2024-01-01&g=2024-01-01) van dit besluit, blijft van toepassing op de burgemeester die voor die datum is benoemd.
 
-14. Zolang een wethouder niet is afgetreden of herbenoemd, blijven in plaats van [artikel 3.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.3&artikel=3.3.2&z=2023-10-14&g=2023-10-14) voor hem [artikel 27a, tweede en vierde lid, van het Rechtspositiebesluit wethouders](https://wetten.overheid.nl/jci1.3:c:BWBR0006535&artikel=27a), zoals dat luidde voor de datum van inwerkingtreding van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&z=2023-10-14&g=2023-10-14) van dit besluit, en de op het vijfde lid van dat artikel gebaseerde nadere regels van toepassing, indien hem in 2018 een tegemoetkoming of een vergoeding op grond van dat artikel is verleend.
+14. Zolang een wethouder niet is afgetreden of herbenoemd, blijven in plaats van [artikel 3.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.3&artikel=3.3.2&z=2024-01-01&g=2024-01-01) voor hem [artikel 27a, tweede en vierde lid, van het Rechtspositiebesluit wethouders](https://wetten.overheid.nl/jci1.3:c:BWBR0006535&artikel=27a), zoals dat luidde voor de datum van inwerkingtreding van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&z=2024-01-01&g=2024-01-01) van dit besluit, en de op het vijfde lid van dat artikel gebaseerde nadere regels van toepassing, indien hem in 2018 een tegemoetkoming of een vergoeding op grond van dat artikel is verleend.
 
-15. Zolang een raads- of commissielid niet is afgetreden of herbenoemd, blijven in plaats van [artikel 3.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.3&artikel=3.3.2&z=2023-10-14&g=2023-10-14) voor hem [artikel 7a van het Rechtspositiebesluit raads- en commissieleden](https://wetten.overheid.nl/jci1.3:c:BWBR0006536&artikel=7a), zoals dat luidde voor de datum van inwerkingtreding van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&z=2023-10-14&g=2023-10-14) van dit besluit, en de op het vijfde lid van dat artikel gebaseerde nadere regels van toepassing, indien hem in 2018 een tegemoetkoming of een vergoeding op grond van dat artikel is verleend.
+15. Zolang een raads- of commissielid niet is afgetreden of herbenoemd, blijven in plaats van [artikel 3.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.3&artikel=3.3.2&z=2024-01-01&g=2024-01-01) voor hem [artikel 7a van het Rechtspositiebesluit raads- en commissieleden](https://wetten.overheid.nl/jci1.3:c:BWBR0006536&artikel=7a), zoals dat luidde voor de datum van inwerkingtreding van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&z=2024-01-01&g=2024-01-01) van dit besluit, en de op het vijfde lid van dat artikel gebaseerde nadere regels van toepassing, indien hem in 2018 een tegemoetkoming of een vergoeding op grond van dat artikel is verleend.
 
-16. De bedragen, genoemd in de [artikelen 4.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.1&paragraaf=1&artikel=4.1.1&z=2023-10-14&g=2023-10-14), en [4.4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.4&artikel=4.4.1&z=2023-10-14&g=2023-10-14), worden per 28 maart 2019 bij ministeriële regeling gewijzigd aan de hand van het door het Centraal Bureau voor de Statistiek voor de maand september 2018 vastgestelde indexcijfer CAO-lonen overheid, inclusief bijzondere beloningen.
+16. De bedragen, genoemd in de [artikelen 4.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.1&paragraaf=1&artikel=4.1.1&z=2024-01-01&g=2024-01-01), en [4.4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.4&artikel=4.4.1&z=2024-01-01&g=2024-01-01), worden per 28 maart 2019 bij ministeriële regeling gewijzigd aan de hand van het door het Centraal Bureau voor de Statistiek voor de maand september 2018 vastgestelde indexcijfer CAO-lonen overheid, inclusief bijzondere beloningen.
 
-17. Ten aanzien van de leden van gedeputeerde staten die op de dag voor de inwerkingtreding van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&z=2023-10-14&g=2023-10-14) in functie waren, blijven de regels die zijn gesteld bij of krachtens het [Rechtspositiebesluit gedeputeerden](https://wetten.overheid.nl/jci1.3:c:BWBR0006533), zoals die op die dag luidden, van toepassing tot het tijdstip waarop deze leden op grond van [artikel 41, eerste lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=41) aftreden.
+17. Ten aanzien van de leden van gedeputeerde staten die op de dag voor de inwerkingtreding van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&z=2024-01-01&g=2024-01-01) in functie waren, blijven de regels die zijn gesteld bij of krachtens het [Rechtspositiebesluit gedeputeerden](https://wetten.overheid.nl/jci1.3:c:BWBR0006533), zoals die op die dag luidden, van toepassing tot het tijdstip waarop deze leden op grond van [artikel 41, eerste lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=41) aftreden.
 
-18. Ten aanzien van de leden van het dagelijks bestuur van de waterschappen die op de dag voor de inwerkingtreding van [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&z=2023-10-14&g=2023-10-14) in functie waren, blijven de regels die zijn gesteld bij of krachtens [hoofdstuk 3 van het Waterschapsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3), zoals die op die dag luidden, van toepassing tot het tijdstip waarop deze leden op grond van [artikel 41, vierde lid, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=41) aftreden.
+18. Ten aanzien van de leden van het dagelijks bestuur van de waterschappen die op de dag voor de inwerkingtreding van [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&z=2024-01-01&g=2024-01-01) in functie waren, blijven de regels die zijn gesteld bij of krachtens [hoofdstuk 3 van het Waterschapsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3), zoals die op die dag luidden, van toepassing tot het tijdstip waarop deze leden op grond van [artikel 41, vierde lid, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=41) aftreden.
 
-19. De bedragen, genoemd in de [artikelen 4.1.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.1&paragraaf=2&artikel=4.1.6&z=2023-10-14&g=2023-10-14), en [4.2.6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=2&artikel=4.2.6&z=2023-10-14&g=2023-10-14), worden per 28 maart 2019 bij ministeriële regeling gewijzigd aan de hand van de consumentenprijsindex voor de maand september 2018.
+19. De bedragen, genoemd in de [artikelen 4.1.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.1&paragraaf=2&artikel=4.1.6&z=2024-01-01&g=2024-01-01), en [4.2.6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=2&artikel=4.2.6&z=2024-01-01&g=2024-01-01), worden per 28 maart 2019 bij ministeriële regeling gewijzigd aan de hand van de consumentenprijsindex voor de maand september 2018.
 
 ##### Artikel 5.2. Intrekken en vervallen rechtspositiebesluiten
 
@@ -770,11 +770,11 @@ Ten aanzien van een commissielid zijn de [artikelen 3.1.11](https://wetten.overh
 
 1. Dit besluit treedt in werking met ingang van 1 januari 2019.
 
-2. In afwijking van het eerste lid, treden de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&z=2023-10-14&g=2023-10-14) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&z=2023-10-14&g=2023-10-14) en de [artikelen 5:1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=5&artikel=5.1&z=2023-10-14&g=2023-10-14), en [5:2, eerste, tweede, derde, vierde, vijfde en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=5&artikel=5.2&z=2023-10-14&g=2023-10-14), in werking met ingang van 28 maart 2019.
+2. In afwijking van het eerste lid, treden de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&z=2024-01-01&g=2024-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&z=2024-01-01&g=2024-01-01) en de [artikelen 5:1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=5&artikel=5.1&z=2024-01-01&g=2024-01-01), en [5:2, eerste, tweede, derde, vierde, vijfde en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=5&artikel=5.2&z=2024-01-01&g=2024-01-01), in werking met ingang van 28 maart 2019.
 
-3. In afwijking van het eerste en tweede lid, treden de [artikelen 2.1.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=1&artikel=2.1.1&z=2023-10-14&g=2023-10-14), [2.1.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=2&artikel=2.1.6&z=2023-10-14&g=2023-10-14), [2.2.6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=2&artikel=2.2.6&z=2023-10-14&g=2023-10-14), [2.4.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.4&artikel=2.4.1&z=2023-10-14&g=2023-10-14), [3.1.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=3.1.1&z=2023-10-14&g=2023-10-14), [3.1.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=2&artikel=3.1.6&z=2023-10-14&g=2023-10-14), [3.2.6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&artikel=3.2.6&z=2023-10-14&g=2023-10-14), [3.4.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.4&artikel=3.4.1&z=2023-10-14&g=2023-10-14), [4.1.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.1&paragraaf=1&artikel=4.1.1&z=2023-10-14&g=2023-10-14), [4.1.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.1&paragraaf=2&artikel=4.1.6&z=2023-10-14&g=2023-10-14), [4.2.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=2&artikel=4.2.6&z=2023-10-14&g=2023-10-14) en [4.4.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.4&artikel=4.4.1&z=2023-10-14&g=2023-10-14), in werking met ingang van 1 januari 2020.
+3. In afwijking van het eerste en tweede lid, treden de [artikelen 2.1.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=1&artikel=2.1.1&z=2024-01-01&g=2024-01-01), [2.1.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=2&artikel=2.1.6&z=2024-01-01&g=2024-01-01), [2.2.6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=2&artikel=2.2.6&z=2024-01-01&g=2024-01-01), [2.4.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.4&artikel=2.4.1&z=2024-01-01&g=2024-01-01), [3.1.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=1&artikel=3.1.1&z=2024-01-01&g=2024-01-01), [3.1.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=2&artikel=3.1.6&z=2024-01-01&g=2024-01-01), [3.2.6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.2&paragraaf=2&artikel=3.2.6&z=2024-01-01&g=2024-01-01), [3.4.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.4&artikel=3.4.1&z=2024-01-01&g=2024-01-01), [4.1.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.1&paragraaf=1&artikel=4.1.1&z=2024-01-01&g=2024-01-01), [4.1.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.1&paragraaf=2&artikel=4.1.6&z=2024-01-01&g=2024-01-01), [4.2.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=2&artikel=4.2.6&z=2024-01-01&g=2024-01-01) en [4.4.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.4&artikel=4.4.1&z=2024-01-01&g=2024-01-01), in werking met ingang van 1 januari 2020.
 
-4. [Artikel 3.1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=2&artikel=3.1.9&z=2023-10-14&g=2023-10-14) werkt terug tot en met 29 maart 2018.
+4. [Artikel 3.1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=3&afdeling=3.1&paragraaf=2&artikel=3.1.9&z=2024-01-01&g=2024-01-01) werkt terug tot en met 29 maart 2018.
 
 ##### Artikel 5.4. Citeertitel
 
@@ -820,7 +820,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2.1.1. Vergoeding voor de werkzaamheden
 
-1. Een statenlid ontvangt met ingang van de dag van zijn beëdiging gedurende zijn lidmaatschap van provinciale staten een vergoeding voor de werkzaamheden van € 1.894,59 per maand.
+1. Een statenlid ontvangt met ingang van de dag van zijn beëdiging gedurende zijn lidmaatschap van provinciale staten een vergoeding voor de werkzaamheden van € 1.996,90 per maand.
 
 2. Een statenlid dat in de loop van een maand is beëdigd of in de loop van een maand is afgetreden of overleden, ontvangt de vergoeding voor de werkzaamheden naar evenredigheid van de periode van uitoefening van het lidmaatschap in de bedoelde maand.
 
@@ -830,7 +830,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2.1.2. Toelage lid vertrouwenscommissie en rekenkamerfunctie
 
-1. Aan een statenlid dat lid is van de vertrouwenscommissie, bedoeld in [artikel 61, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=61), of [artikel 61a, vierde lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=61a), dan wel de rekenkamerfunctie uitoefent, bedoeld in [artikel 79p van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=79p), wordt voor de duur van de activiteiten van die commissie of de duur van de uitoefening van de rekenkamerfunctie per jaar ten laste van de provincie een toelage verleend van € 137,84 per maand.
+1. Aan een statenlid dat lid is van de vertrouwenscommissie, bedoeld in [artikel 61, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=61), of [artikel 61a, vierde lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=61a), dan wel de rekenkamerfunctie uitoefent, bedoeld in [artikel 79p van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=79p), wordt voor de duur van de activiteiten van die commissie of de duur van de uitoefening van de rekenkamerfunctie per jaar ten laste van de provincie een toelage verleend van € 139,90 per maand.
 
 2. Voor de toepassing van het eerste lid stelt de commissaris de duur van de activiteiten vast.
 
@@ -838,13 +838,13 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2.1.3. Toelage lid onderzoekscommissie
 
-1. Aan een statenlid dat lid is van een onderzoekscommissie als bedoeld in [artikel 151a, derde lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=151a) wordt voor de duur van de activiteiten van die commissie ten laste van de provincie een toelage toegekend, waarvan de hoogte bij verordening wordt bepaald, maar die per jaar ten hoogste driemaal de maandelijkse vergoeding voor de werkzaamheden, bedoeld in [artikel 2.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=1&artikel=2.1.1&z=2023-10-14&g=2023-10-14), bedraagt.
+1. Aan een statenlid dat lid is van een onderzoekscommissie als bedoeld in [artikel 151a, derde lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=151a) wordt voor de duur van de activiteiten van die commissie ten laste van de provincie een toelage toegekend, waarvan de hoogte bij verordening wordt bepaald, maar die per jaar ten hoogste driemaal de maandelijkse vergoeding voor de werkzaamheden, bedoeld in [artikel 2.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=1&artikel=2.1.1&z=2024-01-01&g=2024-01-01), bedraagt.
 
 2. Voor de toepassing van het eerste lid stelt de commissaris de duur van de activiteiten vast.
 
 ##### Artikel 2.1.4. Toelage lid bijzondere commissie
 
-1. Indien provinciale staten besluiten ter uitvoering van hun taken en verantwoordelijkheden een bijzondere commissie in te stellen met een zodanig belang, belasting en tijdsbeslag dat die niet redelijkerwijs tot het reguliere werk van een statenlid geacht kunnen worden te behoren, kunnen zij bij verordening besluiten aan de statenleden die lid zijn van die commissie ten laste van de provincie een toelage toe te kennen van maximaal € 137,84 per maand voor de duur van de activiteiten van de commissie per maand.
+1. Indien provinciale staten besluiten ter uitvoering van hun taken en verantwoordelijkheden een bijzondere commissie in te stellen met een zodanig belang, belasting en tijdsbeslag dat die niet redelijkerwijs tot het reguliere werk van een statenlid geacht kunnen worden te behoren, kunnen zij bij verordening besluiten aan de statenleden die lid zijn van die commissie ten laste van de provincie een toelage toe te kennen van maximaal € 139,90 per maand voor de duur van de activiteiten van de commissie per maand.
 
 2. Voor de toepassing van het eerste lid stelt de commissaris de duur van de activiteiten vast.
 
@@ -852,7 +852,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2.1.5. Toelage fractievoorzitter
 
-1. De vergoeding voor de werkzaamheden, bedoeld in [artikel 2.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=1&artikel=2.1.1&z=2023-10-14&g=2023-10-14), wordt voor de fractievoorzitters voor de duur van de uitoefening van het fractievoorzitterschap verhoogd met een toelage van € 80,41 per maand, vermeerderd met € 11,48 voor elk statenlid dat de fractie telt, de fractievoorzitter zelf niet meegerekend. De toelage bedraagt ten hoogste € 172,30 per maand.
+1. De vergoeding voor de werkzaamheden, bedoeld in [artikel 2.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=1&artikel=2.1.1&z=2024-01-01&g=2024-01-01), wordt voor de fractievoorzitters voor de duur van de uitoefening van het fractievoorzitterschap verhoogd met een toelage van € 81,62 per maand, vermeerderd met € 11,65 voor elk statenlid dat de fractie telt, de fractievoorzitter zelf niet meegerekend. De toelage bedraagt ten hoogste € 174,88 per maand.
 
 2. Voor zover het fractievoorzitterschap in de loop van de maand begint of eindigt, wordt de toelage, bedoeld in het eerste lid, voor die maand naar evenredigheid van de duur van het fractievoorzitterschap toegekend.
 
@@ -868,7 +868,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2.1.6. Onkostenvergoeding
 
-1. Een statenlid ontvangt met ingang van de dag van zijn beëdiging gedurende zijn lidmaatschap van provinciale staten een onkostenvergoeding voor de aan de uitoefening van het statenlidmaatschap verbonden kosten van € 188,22 per maand.
+1. Een statenlid ontvangt met ingang van de dag van zijn beëdiging gedurende zijn lidmaatschap van provinciale staten een onkostenvergoeding voor de aan de uitoefening van het statenlidmaatschap verbonden kosten van € 215,51 per maand.
 
 2. Een statenlid dat in de loop van een maand is beëdigd of in de loop van een maand is afgetreden of overleden, ontvangt de onkostenvergoeding naar evenredigheid van de periode van uitoefening van het lidmaatschap in de bedoelde maand.
 
@@ -890,7 +890,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2.1.9. Verzekering arbeidsongeschiktheid, ouderdom en overlijden
 
-1. Provinciale staten kunnen bij verordening bepalen dat de statenleden eenmaal per jaar een bedrag ontvangen ter hoogte van het bedrag van de vergoeding van hun werkzaamheden, bedoeld in [artikel 2.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=1&artikel=2.1.1&z=2023-10-14&g=2023-10-14), voor één maand, waarmee zij voorzieningen kunnen treffen ter zake van arbeidsongeschiktheid, ouderdom en overlijden.
+1. Provinciale staten kunnen bij verordening bepalen dat de statenleden eenmaal per jaar een bedrag ontvangen ter hoogte van het bedrag van de vergoeding van hun werkzaamheden, bedoeld in [artikel 2.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=1&artikel=2.1.1&z=2024-01-01&g=2024-01-01), voor één maand, waarmee zij voorzieningen kunnen treffen ter zake van arbeidsongeschiktheid, ouderdom en overlijden.
 
 2. Voor zover het lidmaatschap van provinciale staten in de loop van een jaar begint of eindigt, wordt het bedrag, bedoeld in het eerste lid, naar evenredigheid van de duur van het statenlidmaatschap toegekend.
 
@@ -898,7 +898,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2.1.10. Ziektekostenverzekering
 
-1. Een statenlid ontvangt ten laste van de provincie een tegemoetkoming in de kosten van een ziektekostenverzekering van € 123,01 per jaar.
+1. Een statenlid ontvangt ten laste van de provincie een tegemoetkoming in de kosten van een ziektekostenverzekering van € 124,86 per jaar.
 
 2. Voor zover het lidmaatschap van provinciale staten in de loop van een jaar begint of eindigt, wordt het bedrag, bedoeld in het eerste lid, naar evenredigheid van de duur van het lidmaatschap van provinciale staten toegekend.
 
@@ -906,31 +906,31 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2.1.11. Samenloop met arbeidsongeschiktheidsuitkering
 
-In het geval een statenlid een uitkering in verband met gehele of gedeeltelijke arbeidsongeschiktheid ontvangt, kan de vergoeding voor de werkzaamheden, bedoeld in [artikel 2.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=1&artikel=2.1.1&z=2023-10-14&g=2023-10-14), op verzoek van het desbetreffende statenlid worden verlaagd.
+In het geval een statenlid een uitkering in verband met gehele of gedeeltelijke arbeidsongeschiktheid ontvangt, kan de vergoeding voor de werkzaamheden, bedoeld in [artikel 2.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=1&artikel=2.1.1&z=2024-01-01&g=2024-01-01), op verzoek van het desbetreffende statenlid worden verlaagd.
 
 #### Paragraaf 3. Waarneming door statenlid
 
 ##### Artikel 2.1.12. Waarneming voorzitter of commissaris door statenlid
 
-1. Een statenlid dat op grond van [artikel 75, eerste lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=75) meer dan dertig dagen onafgebroken het voorzitterschap van provinciale staten waarneemt, ontvangt voor de duur van de waarneming een toeslag van 8% op zijn vergoeding voor de werkzaamheden, bedoeld in [artikel 2.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=1&artikel=2.1.1&z=2023-10-14&g=2023-10-14), alsmede een toeslag van 8% op de onkostenvergoeding, bedoeld in [artikel 2.1.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=2&artikel=2.1.6&z=2023-10-14&g=2023-10-14).
+1. Een statenlid dat op grond van [artikel 75, eerste lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=75) meer dan dertig dagen onafgebroken het voorzitterschap van provinciale staten waarneemt, ontvangt voor de duur van de waarneming een toeslag van 8% op zijn vergoeding voor de werkzaamheden, bedoeld in [artikel 2.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=1&artikel=2.1.1&z=2024-01-01&g=2024-01-01), alsmede een toeslag van 8% op de onkostenvergoeding, bedoeld in [artikel 2.1.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=2&artikel=2.1.6&z=2024-01-01&g=2024-01-01).
 
 2. Indien een statenlid op grond van [artikel 75, tweede lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=75) gedurende meer dan dertig dagen onafgebroken met de waarneming van het ambt van commissaris is belast:
 
-- a. wordt zijn vergoeding voor de werkzaamheden, bedoeld in [artikel 2.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=1&artikel=2.1.1&z=2023-10-14&g=2023-10-14), voor die tijd ten laste van de provincie aangevuld tot het bedrag, genoemd in [artikel 2.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=1&artikel=2.2.1&z=2023-10-14&g=2023-10-14), vermeerderd met een vakantie-uitkering, eindejaarsuitkering en eenmalige uitkering als bedoeld in artikel 2.2.1, vierde, vijfde, onderscheidenlijk zesde lid;
+- a. wordt zijn vergoeding voor de werkzaamheden, bedoeld in [artikel 2.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=1&artikel=2.1.1&z=2024-01-01&g=2024-01-01), voor die tijd ten laste van de provincie aangevuld tot het bedrag, genoemd in [artikel 2.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=1&artikel=2.2.1&z=2024-01-01&g=2024-01-01), vermeerderd met een vakantie-uitkering, eindejaarsuitkering en eenmalige uitkering als bedoeld in artikel 2.2.1, vierde, vijfde, onderscheidenlijk zesde lid;
 
-- b. ontvangt hij voor die tijd in plaats van de onkostenvergoeding, bedoeld in [artikel 2.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=2&artikel=2.1.6&z=2023-10-14&g=2023-10-14), een ambtstoelage en een vergoeding voor overige ambtskosten als bedoeld in [artikel 2.2.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=2&artikel=2.2.6&z=2023-10-14&g=2023-10-14), en
+- b. ontvangt hij voor die tijd in plaats van de onkostenvergoeding, bedoeld in [artikel 2.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=2&artikel=2.1.6&z=2024-01-01&g=2024-01-01), een ambtstoelage en een vergoeding voor overige ambtskosten als bedoeld in [artikel 2.2.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=2&artikel=2.2.6&z=2024-01-01&g=2024-01-01), en
 
-- c. zijn voor die tijd op hem de regels, bedoeld in [artikel 2.2.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=2&artikel=2.2.9&z=2023-10-14&g=2023-10-14), en de [artikelen 2.2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=2&artikel=2.2.10&z=2023-10-14&g=2023-10-14) en [2.2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=2&artikel=2.2.12&z=2023-10-14&g=2023-10-14) van overeenkomstige toepassing.
+- c. zijn voor die tijd op hem de regels, bedoeld in [artikel 2.2.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=2&artikel=2.2.9&z=2024-01-01&g=2024-01-01), en de [artikelen 2.2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=2&artikel=2.2.10&z=2024-01-01&g=2024-01-01) en [2.2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=2&artikel=2.2.12&z=2024-01-01&g=2024-01-01) van overeenkomstige toepassing.
 
 #### Paragraaf 4. Tijdelijk ontslagen statenlid
 
 ##### Artikel 2.1.13. Vergoeding voor werkzaamheden en onkostenvergoeding
 
-1. [Artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=1&artikel=2.1.1&z=2023-10-14&g=2023-10-14) is van overeenkomstige toepassing op het statenlid aan wie op grond van [artikel X 10 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_10) tijdelijk ontslag is verleend wegens zwangerschap en bevalling of ziekte, met dien verstande dat indien door provinciale staten toepassing is gegeven aan artikel 2.1.1, vierde lid, dit statenlid een uitkering ontvangt voor alle vergaderingen die gedurende het tijdelijk ontslag plaatsvinden.
+1. [Artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=1&artikel=2.1.1&z=2024-01-01&g=2024-01-01) is van overeenkomstige toepassing op het statenlid aan wie op grond van [artikel X 10 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_10) tijdelijk ontslag is verleend wegens zwangerschap en bevalling of ziekte, met dien verstande dat indien door provinciale staten toepassing is gegeven aan artikel 2.1.1, vierde lid, dit statenlid een uitkering ontvangt voor alle vergaderingen die gedurende het tijdelijk ontslag plaatsvinden.
 
-2. [Artikel 2.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=2&artikel=2.1.6&z=2023-10-14&g=2023-10-14) is van overeenkomstige toepassing op het statenlid, bedoeld in het eerste lid, met dien verstande dat de vergoeding de helft bedraagt van het bedrag dat op grond van die bepaling van toepassing is.
+2. [Artikel 2.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=2&artikel=2.1.6&z=2024-01-01&g=2024-01-01) is van overeenkomstige toepassing op het statenlid, bedoeld in het eerste lid, met dien verstande dat de vergoeding de helft bedraagt van het bedrag dat op grond van die bepaling van toepassing is.
 
-3. De [artikelen 2.1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=2&artikel=2.1.9&z=2023-10-14&g=2023-10-14), [2.1.10](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=2&artikel=2.1.10&z=2023-10-14&g=2023-10-14) en [2.1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=2&artikel=2.1.11&z=2023-10-14&g=2023-10-14) en [afdeling 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.3&z=2023-10-14&g=2023-10-14) zijn van overeenkomstige toepassing op het statenlid, bedoeld in het eerste lid.
+3. De [artikelen 2.1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=2&artikel=2.1.9&z=2024-01-01&g=2024-01-01), [2.1.10](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=2&artikel=2.1.10&z=2024-01-01&g=2024-01-01) en [2.1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=2&artikel=2.1.11&z=2024-01-01&g=2024-01-01) en [afdeling 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.3&z=2024-01-01&g=2024-01-01) zijn van overeenkomstige toepassing op het statenlid, bedoeld in het eerste lid.
 
 ### Afdeling 2.2. Commissaris en gedeputeerden
 
@@ -938,9 +938,9 @@ In het geval een statenlid een uitkering in verband met gehele of gedeeltelijke 
 
 ##### Artikel 2.2.1. Bezoldiging en uitkeringen
 
-1. De bezoldiging van de commissaris bedraagt € 13.357,23 per maand.
+1. De bezoldiging van de commissaris bedraagt € 13.557,59 per maand.
 
-2. De bezoldiging van de gedeputeerde bedraagt € 9.976,15 per maand.
+2. De bezoldiging van de gedeputeerde bedraagt € 10.125,79 per maand.
 
 3. Als voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties in een collectieve arbeidsovereenkomst een wijziging van het loon is overeengekomen, worden de bedragen, genoemd in het eerste en tweede lid, bij ministeriële regeling overeenkomstig gewijzigd.
 
@@ -954,17 +954,17 @@ In het geval een statenlid een uitkering in verband met gehele of gedeeltelijke 
 
 8. Wanneer de commissaris of de gedeputeerde in de loop van een maand is benoemd of in de loop van een maand is afgetreden, ontslagen of overleden, wordt de bezoldiging voor die maand genoten naar evenredigheid van de periode van uitoefening van het ambt in die maand.
 
-9. Indien de gedeputeerde gedurende een tijdvak als bedoeld in [artikel 35c, tweede lid, onder a of b, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=35c) tevens statenlid is, vervalt gedurende dit tijdvak zijn aanspraak op een vergoeding voor de werkzaamheden, bedoeld in [artikel 2.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=1&artikel=2.1.1&z=2023-10-14&g=2023-10-14).
+9. Indien de gedeputeerde gedurende een tijdvak als bedoeld in [artikel 35c, tweede lid, onder a of b, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=35c) tevens statenlid is, vervalt gedurende dit tijdvak zijn aanspraak op een vergoeding voor de werkzaamheden, bedoeld in [artikel 2.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=1&artikel=2.1.1&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 2.2.2. Waarneming commissaris door gedeputeerde
 
-Indien de gedeputeerde gedurende meer dan dertig dagen onafgebroken met de waarneming van het ambt van commissaris is belast, wordt zijn bezoldiging voor die tijd ten laste van de provincie aangevuld tot het bedrag, genoemd in [artikel 2.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=1&artikel=2.2.1&z=2023-10-14&g=2023-10-14).
+Indien de gedeputeerde gedurende meer dan dertig dagen onafgebroken met de waarneming van het ambt van commissaris is belast, wordt zijn bezoldiging voor die tijd ten laste van de provincie aangevuld tot het bedrag, genoemd in [artikel 2.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=1&artikel=2.2.1&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 2.2.3. Neveninkomsten
 
 1. Voor de toepassing van dit artikel wordt verstaan onder:
 
-- a. **bezoldiging:** totaal van de per kalenderjaar als commissaris of gedeputeerde genoten bezoldiging, bedoeld in [artikel 2.2.1, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=1&artikel=2.2.1&z=2023-10-14&g=2023-10-14), vermeerderd met de vakantie-uitkering, bedoeld in artikel 2.2.1, vierde lid, en aangevuld op grond van [artikel 2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=1&artikel=2.2.2&z=2023-10-14&g=2023-10-14);
+- a. **bezoldiging:** totaal van de per kalenderjaar als commissaris of gedeputeerde genoten bezoldiging, bedoeld in [artikel 2.2.1, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=1&artikel=2.2.1&z=2024-01-01&g=2024-01-01), vermeerderd met de vakantie-uitkering, bedoeld in artikel 2.2.1, vierde lid, en aangevuld op grond van [artikel 2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=1&artikel=2.2.2&z=2024-01-01&g=2024-01-01);
 
 - b. **neveninkomsten:** andere inkomsten als bedoeld in [artikel 65, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=65), of [artikel 43, zesde lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=43).
 
@@ -990,7 +990,7 @@ Indien de gedeputeerde gedurende meer dan dertig dagen onafgebroken met de waarn
 
 ##### Artikel 2.2.4. Uitkering bij overlijden
 
-1. In het geval van overlijden van de commissaris of de gedeputeerde wordt aan de weduwe of weduwnaar van wie de overledene niet duurzaam gescheiden leefde een bedrag uitgekeerd, gelijk aan de bezoldiging, bedoeld in [artikel 2.2.1, eerste onderscheidenlijk tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=1&artikel=2.2.1&z=2023-10-14&g=2023-10-14), vermeerderd met de vakantie-uitkering, welke de overledene laatstelijk genoot over een tijdvak van drie maanden. Indien de overledene geen weduwe of weduwnaar nalaat, geschiedt de uitkering ten behoeve van de minderjarige wettige of natuurlijke kinderen, of minderjarige kinderen waarover de overledene de pleegouderlijke zorg droeg. Onder pleegouderlijke zorg wordt verstaan de zorg voor het onderhoud en de opvoeding van het kind als was het een eigen kind, onafhankelijk van enige verplichting daartoe of van het genieten van een vergoeding daarvoor. Ontbreken ook zodanige kinderen dan geschiedt de uitkering aan degenen die geheel of grotendeels afhankelijk waren van de overledene.
+1. In het geval van overlijden van de commissaris of de gedeputeerde wordt aan de weduwe of weduwnaar van wie de overledene niet duurzaam gescheiden leefde een bedrag uitgekeerd, gelijk aan de bezoldiging, bedoeld in [artikel 2.2.1, eerste onderscheidenlijk tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=1&artikel=2.2.1&z=2024-01-01&g=2024-01-01), vermeerderd met de vakantie-uitkering, welke de overledene laatstelijk genoot over een tijdvak van drie maanden. Indien de overledene geen weduwe of weduwnaar nalaat, geschiedt de uitkering ten behoeve van de minderjarige wettige of natuurlijke kinderen, of minderjarige kinderen waarover de overledene de pleegouderlijke zorg droeg. Onder pleegouderlijke zorg wordt verstaan de zorg voor het onderhoud en de opvoeding van het kind als was het een eigen kind, onafhankelijk van enige verplichting daartoe of van het genieten van een vergoeding daarvoor. Ontbreken ook zodanige kinderen dan geschiedt de uitkering aan degenen die geheel of grotendeels afhankelijk waren van de overledene.
 
 2. Voor de toepassing van dit artikel wordt onder weduwe of weduwnaar mede verstaan de achtergebleven geregistreerde partner alsmede degene met wie de overledene ongehuwd samenleefde en een gezamenlijke huishouding heeft gevoerd als bedoeld in [artikel 3, derde en vierde lid, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=3).
 
@@ -1006,15 +1006,15 @@ Indien de gedeputeerde gedurende meer dan dertig dagen onafgebroken met de waarn
 
 1. De commissaris ontvangt per maand voor aan de uitoefening van het ambt verbonden kosten:
 
-- a. een ambtstoelage van € 702,72 en
+- a. een ambtstoelage van € 804,61 en
 
-- b. een vergoeding van € 537,30 voor overige ambtskosten.
+- b. een vergoeding van € 615,21 voor overige ambtskosten.
 
-2. De gedeputeerde ontvangt een vergoeding van € 393,58 per maand voor aan de uitoefening van het ambt verbonden kosten. Indien de gedeputeerde gedurende meer dan dertig dagen onafgebroken met de waarneming van het ambt van commissaris is belast, ontvangt hij voor die tijd per maand:
+2. De gedeputeerde ontvangt een vergoeding van € 450,65 per maand voor aan de uitoefening van het ambt verbonden kosten. Indien de gedeputeerde gedurende meer dan dertig dagen onafgebroken met de waarneming van het ambt van commissaris is belast, ontvangt hij voor die tijd per maand:
 
-- a. een ambtstoelage van € 702,72 en
+- a. een ambtstoelage van € 804,61 en
 
-- b. een vergoeding van € 537,30 voor overige ambtskosten.
+- b. een vergoeding van € 615,21 voor overige ambtskosten.
 
 3. De gedeputeerde die ingevolge [artikel 35a, tweede lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=35a) zijn functie in deeltijd uitoefent, ontvangt de vergoeding, bedoeld in het eerste lid, naar evenredigheid van de vastgestelde tijdbestedingsnorm, bedoeld in artikel 35a, vierde lid, van de Provinciewet.
 
@@ -1078,9 +1078,9 @@ Indien de gedeputeerde gedurende meer dan dertig dagen onafgebroken met de waarn
 
 8. De commissaris of de gedeputeerde betaalt voor het gebruik van de aan hem ter beschikking gestelde auto voor andere dan zakelijke of bestuurlijke doeleinden een eigen bijdrage per maand aan de provincie.
 
-9. Indien aan de commissaris of de gedeputeerde een auto, niet zijnde een auto voor gemeenschappelijk gebruik of een auto op afroep als bedoeld in het eerste lid, ter beschikking is gesteld, heeft hij geen aanspraak op vergoeding als bedoeld in [artikel 2.2.7, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=2&artikel=2.2.7&z=2023-10-14&g=2023-10-14), en vergoeding van kosten voor woon-werkverkeer en reiskosten als bedoeld in [artikel 2.2.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=2&artikel=2.2.9&z=2023-10-14&g=2023-10-14).
+9. Indien aan de commissaris of de gedeputeerde een auto, niet zijnde een auto voor gemeenschappelijk gebruik of een auto op afroep als bedoeld in het eerste lid, ter beschikking is gesteld, heeft hij geen aanspraak op vergoeding als bedoeld in [artikel 2.2.7, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=2&artikel=2.2.7&z=2024-01-01&g=2024-01-01), en vergoeding van kosten voor woon-werkverkeer en reiskosten als bedoeld in [artikel 2.2.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=2&artikel=2.2.9&z=2024-01-01&g=2024-01-01).
 
-10. Voor zover de commissaris of de gedeputeerde gebruik maakt van een auto voor gemeenschappelijk gebruik of een auto op afroep als bedoeld in het eerste lid, heeft hij geen aanspraak op vergoeding als bedoeld in [artikel 2.2.7, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=2&artikel=2.2.7&z=2023-10-14&g=2023-10-14), en vergoeding van kosten voor woon-werkverkeer en reiskosten als bedoeld in [artikel 2.2.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=2&artikel=2.2.9&z=2023-10-14&g=2023-10-14).
+10. Voor zover de commissaris of de gedeputeerde gebruik maakt van een auto voor gemeenschappelijk gebruik of een auto op afroep als bedoeld in het eerste lid, heeft hij geen aanspraak op vergoeding als bedoeld in [artikel 2.2.7, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=2&artikel=2.2.7&z=2024-01-01&g=2024-01-01), en vergoeding van kosten voor woon-werkverkeer en reiskosten als bedoeld in [artikel 2.2.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=2&artikel=2.2.9&z=2024-01-01&g=2024-01-01).
 
 11. Onze Minister stelt nadere regels over de voorwaarden voor de ter beschikkingstelling van een auto en het gebruik daarvan, alsmede over de hoogte van de eigen bijdrage, bedoeld in het achtste lid.
 
@@ -1106,17 +1106,17 @@ Indien de gedeputeerde gedurende meer dan dertig dagen onafgebroken met de waarn
 
 ##### Artikel 2.2.13. Aanspraken bij zwangerschap en bevalling en ziekte
 
-De gedeputeerde aan wie in verband met zwangerschap en bevalling of ziekte op grond van [artikel 44, eerste lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=44) verlof is verleend, ontvangt in afwijking van [artikel 2.2.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=2&artikel=2.2.6&z=2023-10-14&g=2023-10-14), een vergoeding voor aan de uitoefening van het ambt verbonden kosten van de helft van het bedrag, genoemd in die bepaling.
+De gedeputeerde aan wie in verband met zwangerschap en bevalling of ziekte op grond van [artikel 44, eerste lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=44) verlof is verleend, ontvangt in afwijking van [artikel 2.2.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=2&artikel=2.2.6&z=2024-01-01&g=2024-01-01), een vergoeding voor aan de uitoefening van het ambt verbonden kosten van de helft van het bedrag, genoemd in die bepaling.
 
 #### Paragraaf 3. Overige bepalingen
 
 ##### Artikel 2.2.14. Vergoeding bij waarneming van de commissaris
 
-Op degene die op grond van [artikel 76 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=76) met de waarneming van het ambt van commissaris is belast, zijn voor die tijd de bepalingen in deze afdeling en [afdeling 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.3&z=2023-10-14&g=2023-10-14), voor zover die betrekking hebben op de rechtspositie van de commissaris, van overeenkomstige toepassing, met uitzondering van de [artikelen 2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=1&artikel=2.2.3&z=2023-10-14&g=2023-10-14), [2.2.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=2&artikel=2.2.7&z=2023-10-14&g=2023-10-14), [2.2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=3&artikel=2.2.17&z=2023-10-14&g=2023-10-14), [2.2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=3&artikel=2.2.18&z=2023-10-14&g=2023-10-14) en [2.2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=3&artikel=2.2.19&z=2023-10-14&g=2023-10-14).
+Op degene die op grond van [artikel 76 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=76) met de waarneming van het ambt van commissaris is belast, zijn voor die tijd de bepalingen in deze afdeling en [afdeling 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.3&z=2024-01-01&g=2024-01-01), voor zover die betrekking hebben op de rechtspositie van de commissaris, van overeenkomstige toepassing, met uitzondering van de [artikelen 2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=1&artikel=2.2.3&z=2024-01-01&g=2024-01-01), [2.2.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=2&artikel=2.2.7&z=2024-01-01&g=2024-01-01), [2.2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=3&artikel=2.2.17&z=2024-01-01&g=2024-01-01), [2.2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=3&artikel=2.2.18&z=2024-01-01&g=2024-01-01) en [2.2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=3&artikel=2.2.19&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 2.2.15. Verzekering voor arbeidsongeschiktheid, ouderdom en overlijden tijdelijke vervanger gedeputeerde
 
-1. De tijdelijke vervanger van de gedeputeerde die verlof heeft wegens zwangerschap en bevalling of ziekte, ontvangt voor zijn verzekering voor arbeidsongeschiktheid, ouderdom en overlijden € 677,73 per maand.
+1. De tijdelijke vervanger van de gedeputeerde die verlof heeft wegens zwangerschap en bevalling of ziekte, ontvangt voor zijn verzekering voor arbeidsongeschiktheid, ouderdom en overlijden € 687,90 per maand.
 
 2. De tijdelijke vervanger van de gedeputeerde die met toepassing van [artikel 35a, derde lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=35a) de functie in deeltijd uitoefent, ontvangt de tegemoetkoming, bedoeld in het eerste lid, naar evenredigheid met de vastgestelde tijdsbestedingsnorm, bedoeld in artikel 35a, vierde lid, van de Provinciewet.
 
@@ -1134,7 +1134,7 @@ Indien de commissaris langer dan acht dagen wegens ziekte of om andere redenen z
 
 1. Een besluit tot schorsing als bedoeld in [artikel 62, eerste lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=62) bevat in ieder geval een aanduiding van het tijdstip waarop de schorsing ingaat en een zo nauwkeurig mogelijke aanduiding van de duur van de schorsing.
 
-2. De commissaris die geschorst is, behoudt gedurende de schorsing zijn bezoldiging en uitkeringen, bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=1&artikel=2.2.1&z=2023-10-14&g=2023-10-14), en zijn aanspraak op vergoedingen en voorzieningen op grond van de [afdelingen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&z=2023-10-14&g=2023-10-14) en [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.3&z=2023-10-14&g=2023-10-14).
+2. De commissaris die geschorst is, behoudt gedurende de schorsing zijn bezoldiging en uitkeringen, bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=1&artikel=2.2.1&z=2024-01-01&g=2024-01-01), en zijn aanspraak op vergoedingen en voorzieningen op grond van de [afdelingen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&z=2024-01-01&g=2024-01-01) en [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.3&z=2024-01-01&g=2024-01-01).
 
 3. Gedurende een schorsing is het de commissaris als zodanig niet toegestaan de provinciale dienstgebouwen te betreden.
 
@@ -1222,45 +1222,45 @@ Gedeputeerde staten treffen ten laste van de provincie een voorziening voor bedr
 
 Als eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31) worden aangewezen:
 
-- a. de vergoedingen en toelage, bedoeld in de [artikelen 2.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=2&artikel=2.1.6&z=2023-10-14&g=2023-10-14) en [2.2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=2&artikel=2.2.6&z=2023-10-14&g=2023-10-14);
+- a. de vergoedingen en toelage, bedoeld in de [artikelen 2.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=2&artikel=2.1.6&z=2024-01-01&g=2024-01-01) en [2.2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=2&artikel=2.2.6&z=2024-01-01&g=2024-01-01);
 
-- b. de tegemoetkoming in de kosten van een ziektekostenverzekering, bedoeld in [artikel 2.1.10](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=2&artikel=2.1.10&z=2023-10-14&g=2023-10-14);
+- b. de tegemoetkoming in de kosten van een ziektekostenverzekering, bedoeld in [artikel 2.1.10](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=2&artikel=2.1.10&z=2024-01-01&g=2024-01-01);
 
-- c. de vergoedingen in verband met verhuizing, bedoeld in [artikel 2.2.7, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=2&artikel=2.2.7&z=2023-10-14&g=2023-10-14);
+- c. de vergoedingen in verband met verhuizing, bedoeld in [artikel 2.2.7, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=2&artikel=2.2.7&z=2024-01-01&g=2024-01-01);
 
-- d. de vergoeding van de kosten voor tijdelijke huisvesting, bedoeld in [artikel 2.2.7, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=2&artikel=2.2.7&z=2023-10-14&g=2023-10-14);
+- d. de vergoeding van de kosten voor tijdelijke huisvesting, bedoeld in [artikel 2.2.7, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=2&artikel=2.2.7&z=2024-01-01&g=2024-01-01);
 
-- e. de tegemoetkoming in de kosten van dubbele woonlasten, bedoeld in [artikel 2.2.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=2&artikel=2.2.7&z=2023-10-14&g=2023-10-14);
+- e. de tegemoetkoming in de kosten van dubbele woonlasten, bedoeld in [artikel 2.2.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=2&artikel=2.2.7&z=2024-01-01&g=2024-01-01);
 
-- f. de betaling of vergoeding van de kosten voor energie en water, bedoeld in [artikel 2.2.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=2&artikel=2.2.8&z=2023-10-14&g=2023-10-14);
+- f. de betaling of vergoeding van de kosten voor energie en water, bedoeld in [artikel 2.2.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=2&artikel=2.2.8&z=2024-01-01&g=2024-01-01);
 
-- g. de vergoeding van reis- en verblijfkosten als bedoeld in [artikel 2.1.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=2&artikel=2.1.7&z=2023-10-14&g=2023-10-14), en de vergoeding van kosten voor woon-werkverkeer en van reis- en verblijfkosten als bedoeld in [artikel 2.2.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=2&artikel=2.2.9&z=2023-10-14&g=2023-10-14);
+- g. de vergoeding van reis- en verblijfkosten als bedoeld in [artikel 2.1.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=2&artikel=2.1.7&z=2024-01-01&g=2024-01-01), en de vergoeding van kosten voor woon-werkverkeer en van reis- en verblijfkosten als bedoeld in [artikel 2.2.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=2&artikel=2.2.9&z=2024-01-01&g=2024-01-01);
 
-- h. de vergoeding van de belastingheffing, bedoeld in de [artikelen 2.2.7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=2&artikel=2.2.7&z=2023-10-14&g=2023-10-14), [2.2.8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=2&artikel=2.2.8&z=2023-10-14&g=2023-10-14), en [2.2.10, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=2&artikel=2.2.10&z=2023-10-14&g=2023-10-14);
+- h. de vergoeding van de belastingheffing, bedoeld in de [artikelen 2.2.7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=2&artikel=2.2.7&z=2024-01-01&g=2024-01-01), [2.2.8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=2&artikel=2.2.8&z=2024-01-01&g=2024-01-01), en [2.2.10, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=2&artikel=2.2.10&z=2024-01-01&g=2024-01-01);
 
-- i. de vergoeding van de kosten in verband met loopbaanoriëntatie en mobiliteit bevorderende activiteiten, bedoeld in [artikel 2.2.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=2&artikel=2.2.11&z=2023-10-14&g=2023-10-14);
+- i. de vergoeding van de kosten in verband met loopbaanoriëntatie en mobiliteit bevorderende activiteiten, bedoeld in [artikel 2.2.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.2&paragraaf=2&artikel=2.2.11&z=2024-01-01&g=2024-01-01);
 
-- j. de voorzieningen ten behoeve van een veilige woon- en werkplek als bedoeld in [artikel 2.3.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.3&artikel=2.3.1&z=2023-10-14&g=2023-10-14);
+- j. de voorzieningen ten behoeve van een veilige woon- en werkplek als bedoeld in [artikel 2.3.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.3&artikel=2.3.1&z=2024-01-01&g=2024-01-01);
 
-- k. de ter beschikking stelling van informatie- en communicatiemiddelen, bedoeld in [artikel 2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.3&artikel=2.3.2&z=2023-10-14&g=2023-10-14);
+- k. de ter beschikking stelling van informatie- en communicatiemiddelen, bedoeld in [artikel 2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.3&artikel=2.3.2&z=2024-01-01&g=2024-01-01);
 
-- l. de vergoeding van de kosten voor scholing als bedoeld in [artikel 2.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.3&artikel=2.3.3&z=2023-10-14&g=2023-10-14);
+- l. de vergoeding van de kosten voor scholing als bedoeld in [artikel 2.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.3&artikel=2.3.3&z=2024-01-01&g=2024-01-01);
 
-- m. de vergoeding van de contributie van een beroepsvereniging, bedoeld in [artikel 2.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.3&artikel=2.3.4&z=2023-10-14&g=2023-10-14), en
+- m. de vergoeding van de contributie van een beroepsvereniging, bedoeld in [artikel 2.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.3&artikel=2.3.4&z=2024-01-01&g=2024-01-01), en
 
-- n. een voorziening of financiële tegemoetkoming als bedoeld in [artikel 2.3.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.3&artikel=2.3.7&z=2023-10-14&g=2023-10-14).
+- n. een voorziening of financiële tegemoetkoming als bedoeld in [artikel 2.3.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.3&artikel=2.3.7&z=2024-01-01&g=2024-01-01).
 
 ### Afdeling 2.4. Commissieleden
 
 ##### Artikel 2.4.1. Vergoeding voor het bijwonen van de vergaderingen
 
-1. Aan een commissielid wordt ten laste van de provincie een vergoeding voor het bijwonen van de vergaderingen van de commissie toegekend van € 128,22 per vergadering.
+1. Aan een commissielid wordt ten laste van de provincie een vergoeding voor het bijwonen van de vergaderingen van de commissie toegekend van € 135,14 per vergadering.
 
 2. Het bedrag, genoemd in het eerste lid, wordt per 1 januari van elk jaar bij ministeriële regeling gewijzigd overeenkomstig de procentuele wijziging van het door het Centraal Bureau voor de Statistiek vastgestelde indexcijfer CAO-lonen overheid, inclusief bijzondere beloningen, geldend voor de maand september van het tweede kalenderjaar voorafgaand aan die datum ten opzichte van hetzelfde indexcijfer geldend voor de maand september van het daaraan voorafgaande kalenderjaar.
 
 ##### Artikel 2.4.2. Hogere vergoeding
 
-Provinciale staten kunnen bij verordening bepalen dat de vergoeding voor het bijwonen van de vergaderingen van de commissie naar boven afwijkt van het bedrag, genoemd in [artikel 2.4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.4&artikel=2.4.1&z=2023-10-14&g=2023-10-14), ten aanzien van:
+Provinciale staten kunnen bij verordening bepalen dat de vergoeding voor het bijwonen van de vergaderingen van de commissie naar boven afwijkt van het bedrag, genoemd in [artikel 2.4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.4&artikel=2.4.1&z=2024-01-01&g=2024-01-01), ten aanzien van:
 
 - a. een commissielid dat op grond van zijn bijzondere beroepsmatige deskundigheid op het taakgebied van de commissie voor deelneming aan haar werkzaamheden is aangetrokken; en
 
@@ -1278,7 +1278,7 @@ Provinciale staten kunnen bij verordening bepalen dat de vergoeding voor het bij
 
 ##### Artikel 2.4.4. Overige vergoedingen en voorzieningen
 
-Ten aanzien van een commissielid zijn de [artikelen 2.1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=2&artikel=2.1.11&z=2023-10-14&g=2023-10-14), [2.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.3&artikel=2.3.1&z=2023-10-14&g=2023-10-14), [2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.3&artikel=2.3.2&z=2023-10-14&g=2023-10-14), [2.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.3&artikel=2.3.3&z=2023-10-14&g=2023-10-14), [2.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.3&artikel=2.3.4&z=2023-10-14&g=2023-10-14), [2.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.3&artikel=2.3.6&z=2023-10-14&g=2023-10-14), [2.3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.3&artikel=2.3.7&z=2023-10-14&g=2023-10-14) en [2.3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.3&artikel=2.3.8&z=2023-10-14&g=2023-10-14) van overeenkomstige toepassing.
+Ten aanzien van een commissielid zijn de [artikelen 2.1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.1&paragraaf=2&artikel=2.1.11&z=2024-01-01&g=2024-01-01), [2.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.3&artikel=2.3.1&z=2024-01-01&g=2024-01-01), [2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.3&artikel=2.3.2&z=2024-01-01&g=2024-01-01), [2.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.3&artikel=2.3.3&z=2024-01-01&g=2024-01-01), [2.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.3&artikel=2.3.4&z=2024-01-01&g=2024-01-01), [2.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.3&artikel=2.3.6&z=2024-01-01&g=2024-01-01), [2.3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.3&artikel=2.3.7&z=2024-01-01&g=2024-01-01) en [2.3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=2&afdeling=2.3&artikel=2.3.8&z=2024-01-01&g=2024-01-01) van overeenkomstige toepassing.
 
 ### Hoofdstuk 3. Gemeenten
 
@@ -1358,7 +1358,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Indien een lid van het dagelijks bestuur tevens lid is van het dagelijks bestuur van de Unie van Waterschappen, wordt bij de vaststelling van zijn deeltijdfactor het aantal uren betrokken dat dit lid op jaarbasis gemiddeld per maand activiteiten ontplooit ten behoeve van dat bestuur van de Unie van Waterschappen.
 
-4. Voor de toepassing van het eerste lid wordt buiten beschouwing gelaten het deel van de bezoldiging die het lid van het dagelijks bestuur, bedoeld in het derde lid, op grond van [artikel 4.2.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=1&artikel=4.2.1&z=2023-10-14&g=2023-10-14), meer ontvangt dan hij zou ontvangen wanneer bij de vaststelling van zijn deeltijdfactor geen rekening wordt gehouden met het lidmaatschap van het dagelijks bestuur van de Unie van Waterschappen.
+4. Voor de toepassing van het eerste lid wordt buiten beschouwing gelaten het deel van de bezoldiging die het lid van het dagelijks bestuur, bedoeld in het derde lid, op grond van [artikel 4.2.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=1&artikel=4.2.1&z=2024-01-01&g=2024-01-01), meer ontvangt dan hij zou ontvangen wanneer bij de vaststelling van zijn deeltijdfactor geen rekening wordt gehouden met het lidmaatschap van het dagelijks bestuur van de Unie van Waterschappen.
 
 ### Afdeling 4.1. Leden algemeen bestuur
 
@@ -1366,7 +1366,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 4.1.1. Vergoeding voor de werkzaamheden
 
-1. Een lid van het algemeen bestuur ontvangt met ingang van de dag van zijn beëdiging gedurende zijn lidmaatschap van het algemeen bestuur een vergoeding voor de werkzaamheden van € 719,94 per maand.
+1. Een lid van het algemeen bestuur ontvangt met ingang van de dag van zijn beëdiging gedurende zijn lidmaatschap van het algemeen bestuur een vergoeding voor de werkzaamheden van € 758,82 per maand.
 
 2. Een lid van het algemeen bestuur dat in de loop van een maand is beëdigd of in de loop van een maand is afgetreden of overleden, ontvangt de vergoeding voor de werkzaamheden naar evenredigheid van de periode van uitoefening van het lidmaatschap in de bedoelde maand.
 
@@ -1376,7 +1376,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 4.1.2. Toelage lid vertrouwenscommissie en rekenkamercommissie
 
-1. Aan een lid van het algemeen bestuur dat lid is van de vertrouwenscommissie of de rekenkamercommissie wordt voor de duur van de activiteiten van die commissie per jaar ten laste van het waterschap een toelage verleend van € 137,84 per maand.
+1. Aan een lid van het algemeen bestuur dat lid is van de vertrouwenscommissie of de rekenkamercommissie wordt voor de duur van de activiteiten van die commissie per jaar ten laste van het waterschap een toelage verleend van € 139,90 per maand.
 
 2. Voor de toepassing van het eerste lid stelt de voorzitter de duur van de activiteiten vast.
 
@@ -1384,13 +1384,13 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 4.1.3. Toelage lid onderzoekscommissie
 
-1. Aan een lid van het algemeen bestuur dat lid is van een onderzoekscommissie wordt voor de duur van de activiteiten van die commissie ten laste van het waterschap een toelage toegekend, waarvan de hoogte bij verordening wordt bepaald, maar die per jaar ten hoogste driemaal de maandelijkse vergoeding voor de werkzaamheden, bedoeld in [artikel 4.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.1&paragraaf=1&artikel=4.1.1&z=2023-10-14&g=2023-10-14), bedraagt.
+1. Aan een lid van het algemeen bestuur dat lid is van een onderzoekscommissie wordt voor de duur van de activiteiten van die commissie ten laste van het waterschap een toelage toegekend, waarvan de hoogte bij verordening wordt bepaald, maar die per jaar ten hoogste driemaal de maandelijkse vergoeding voor de werkzaamheden, bedoeld in [artikel 4.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.1&paragraaf=1&artikel=4.1.1&z=2024-01-01&g=2024-01-01), bedraagt.
 
 2. Voor de toepassing van het eerste lid stelt de voorzitter de duur van de activiteiten vast.
 
 ##### Artikel 4.1.4. Toelage lid bijzondere commissie
 
-1. Indien het algemeen bestuur besluit ter uitvoering van zijn taken en verantwoordelijkheden een bijzondere commissie in te stellen met een zodanig belang, belasting en tijdsbeslag dat die niet redelijkerwijs tot het reguliere werk van een lid van het algemeen bestuur geacht kunnen worden te behoren, kan het bij verordening besluiten aan de leden van het algemeen bestuur die lid zijn van die commissie ten laste van het waterschap een toelage toe te kennen van maximaal € 137,84 per maand voor de duur van de activiteiten van de commissie per maand.
+1. Indien het algemeen bestuur besluit ter uitvoering van zijn taken en verantwoordelijkheden een bijzondere commissie in te stellen met een zodanig belang, belasting en tijdsbeslag dat die niet redelijkerwijs tot het reguliere werk van een lid van het algemeen bestuur geacht kunnen worden te behoren, kan het bij verordening besluiten aan de leden van het algemeen bestuur die lid zijn van die commissie ten laste van het waterschap een toelage toe te kennen van maximaal € 139,90 per maand voor de duur van de activiteiten van de commissie per maand.
 
 2. Voor de toepassing van het eerste lid stelt de voorzitter de duur van de activiteiten vast.
 
@@ -1398,7 +1398,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 4.1.5. Toelage fractievoorzitter
 
-1. De vergoeding voor de werkzaamheden, bedoeld in [artikel 4.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.1&paragraaf=1&artikel=4.1.1&z=2023-10-14&g=2023-10-14), wordt voor de fractievoorzitters voor de duur van de uitoefening van het fractievoorzitterschap verhoogd met een toelage van € 80,41 per maand, vermeerderd met € 11,48 voor elk lid van het algemeen bestuur dat de fractie telt, de fractievoorzitter zelf niet meegerekend. De toelage bedraagt ten hoogste € 172,30 per maand.
+1. De vergoeding voor de werkzaamheden, bedoeld in [artikel 4.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.1&paragraaf=1&artikel=4.1.1&z=2024-01-01&g=2024-01-01), wordt voor de fractievoorzitters voor de duur van de uitoefening van het fractievoorzitterschap verhoogd met een toelage van € 81,62 per maand, vermeerderd met € 11,65 voor elk lid van het algemeen bestuur dat de fractie telt, de fractievoorzitter zelf niet meegerekend. De toelage bedraagt ten hoogste € 174,88 per maand.
 
 2. Voor zover het fractievoorzitterschap in de loop van de maand begint of eindigt, wordt de toelage, bedoeld in het eerste lid, voor die maand naar evenredigheid van de duur van het fractievoorzitterschap toegekend.
 
@@ -1414,7 +1414,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 4.1.6. Onkostenvergoeding
 
-1. Een lid van het algemeen bestuur ontvangt met ingang van de dag van zijn beëdiging gedurende zijn lidmaatschap van het algemeen bestuur een onkostenvergoeding voor de aan de uitoefening van het lidmaatschap van het algemeen bestuur verbonden kosten van € 188,22 per maand.
+1. Een lid van het algemeen bestuur ontvangt met ingang van de dag van zijn beëdiging gedurende zijn lidmaatschap van het algemeen bestuur een onkostenvergoeding voor de aan de uitoefening van het lidmaatschap van het algemeen bestuur verbonden kosten van € 215,51 per maand.
 
 2. Een lid van het algemeen bestuur dat in de loop van een maand is beëdigd of in de loop van en maand is afgetreden of overleden, ontvangt de vergoeding, bedoeld in het eerste lid, naar evenredigheid van de periode van uitoefening van het lidmaatschap in de bedoelde maand.
 
@@ -1436,7 +1436,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 4.1.9. Verzekering arbeidsongeschiktheid, ouderdom en overlijden
 
-1. Het algemeen bestuur kan bij verordening bepalen dat de leden van het algemeen bestuur eenmaal per jaar een bedrag ontvangen ter hoogte van het bedrag van de vergoeding van hun werkzaamheden, bedoeld in [artikel 4.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.1&paragraaf=1&artikel=4.1.1&z=2023-10-14&g=2023-10-14), voor één maand, waarmee zij voorzieningen kunnen treffen ter zake van arbeidsongeschiktheid, ouderdom en overlijden.
+1. Het algemeen bestuur kan bij verordening bepalen dat de leden van het algemeen bestuur eenmaal per jaar een bedrag ontvangen ter hoogte van het bedrag van de vergoeding van hun werkzaamheden, bedoeld in [artikel 4.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.1&paragraaf=1&artikel=4.1.1&z=2024-01-01&g=2024-01-01), voor één maand, waarmee zij voorzieningen kunnen treffen ter zake van arbeidsongeschiktheid, ouderdom en overlijden.
 
 2. Voor zover het lidmaatschap van het algemeen bestuur in de loop van een jaar begint of eindigt, wordt het bedrag, bedoeld in het eerste lid, naar evenredigheid van de duur van het lidmaatschap van het algemeen bestuur toegekend.
 
@@ -1444,7 +1444,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 4.1.10. Ziektekostenverzekering
 
-1. Een lid van het algemeen bestuur ontvangt ten laste van het waterschap een tegemoetkoming in de kosten van een ziektekostenverzekering van € 123,01 per jaar.
+1. Een lid van het algemeen bestuur ontvangt ten laste van het waterschap een tegemoetkoming in de kosten van een ziektekostenverzekering van € 124,86 per jaar.
 
 2. Voor zover het lidmaatschap van het algemeen bestuur in de loop van een jaar begint of eindigt, wordt het bedrag, bedoeld in het eerste lid, naar evenredigheid van de duur van het lidmaatschap van het algemeen bestuur toegekend.
 
@@ -1452,7 +1452,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 4.1.11. Samenloop met arbeidsongeschiktheidsuitkering
 
-In het geval een lid van het algemeen bestuur een uitkering in verband met gehele of gedeeltelijke arbeidsongeschiktheid ontvangt, kan de vergoeding voor de werkzaamheden, bedoeld in [artikel 4.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.1&paragraaf=1&artikel=4.1.1&z=2023-10-14&g=2023-10-14), op verzoek van het desbetreffende lid worden verlaagd.
+In het geval een lid van het algemeen bestuur een uitkering in verband met gehele of gedeeltelijke arbeidsongeschiktheid ontvangt, kan de vergoeding voor de werkzaamheden, bedoeld in [artikel 4.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.1&paragraaf=1&artikel=4.1.1&z=2024-01-01&g=2024-01-01), op verzoek van het desbetreffende lid worden verlaagd.
 
 #### Paragraaf 3. Waarneming door lid algemeen bestuur
 
@@ -1460,21 +1460,21 @@ In het geval een lid van het algemeen bestuur een uitkering in verband met gehel
 
 Indien een lid van het algemeen bestuur op grond van [artikel 51a, tweede lid, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=51a) gedurende meer dan dertig dagen onafgebroken met de waarneming van het ambt van voorzitter is belast:
 
-- a. wordt zijn vergoeding voor de werkzaamheden, bedoeld in [artikel 4.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.1&paragraaf=1&artikel=4.1.1&z=2023-10-14&g=2023-10-14), voor die tijd ten laste van het waterschap aangevuld tot het bedrag, genoemd in [artikel 4.2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=1&artikel=4.2.1&z=2023-10-14&g=2023-10-14), vermeerderd met een vakantie-uitkering, eindejaarsuitkering en eenmalige uitkering als bedoeld in artikel 4.2.1, vijfde, zesde onderscheidenlijk zevende lid;
+- a. wordt zijn vergoeding voor de werkzaamheden, bedoeld in [artikel 4.1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.1&paragraaf=1&artikel=4.1.1&z=2024-01-01&g=2024-01-01), voor die tijd ten laste van het waterschap aangevuld tot het bedrag, genoemd in [artikel 4.2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=1&artikel=4.2.1&z=2024-01-01&g=2024-01-01), vermeerderd met een vakantie-uitkering, eindejaarsuitkering en eenmalige uitkering als bedoeld in artikel 4.2.1, vijfde, zesde onderscheidenlijk zevende lid;
 
-- b. ontvangt hij voor die tijd in plaats van de onkostenvergoeding, bedoeld in [artikel 4.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.1&paragraaf=2&artikel=4.1.6&z=2023-10-14&g=2023-10-14), een vergoeding als bedoeld in [artikel 4.2.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=2&artikel=4.2.6&z=2023-10-14&g=2023-10-14), en
+- b. ontvangt hij voor die tijd in plaats van de onkostenvergoeding, bedoeld in [artikel 4.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.1&paragraaf=2&artikel=4.1.6&z=2024-01-01&g=2024-01-01), een vergoeding als bedoeld in [artikel 4.2.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=2&artikel=4.2.6&z=2024-01-01&g=2024-01-01), en
 
-- c. zijn voor die tijd op hem de regels, bedoeld in [artikel 4.2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=2&artikel=4.2.9&z=2023-10-14&g=2023-10-14), en de [artikelen 4.2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=2&artikel=4.2.10&z=2023-10-14&g=2023-10-14) en [4.2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=2&artikel=4.2.12&z=2023-10-14&g=2023-10-14) van overeenkomstige toepassing.
+- c. zijn voor die tijd op hem de regels, bedoeld in [artikel 4.2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=2&artikel=4.2.9&z=2024-01-01&g=2024-01-01), en de [artikelen 4.2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=2&artikel=4.2.10&z=2024-01-01&g=2024-01-01) en [4.2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=2&artikel=4.2.12&z=2024-01-01&g=2024-01-01) van overeenkomstige toepassing.
 
 #### Paragraaf 4. Tijdelijk ontslagen lid van het algemeen bestuur
 
 ##### Artikel 4.1.13. vergoeding voor werkzaamheden en onkostenvergoeding
 
-1. [Artikel 4.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.1&paragraaf=1&artikel=4.1.1&z=2023-10-14&g=2023-10-14) is van overeenkomstige toepassing op het lid van het algemeen bestuur aan wie op grond van [artikel X 10 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_10) tijdelijk ontslag is verleend wegens zwangerschap en bevalling of ziekte, met dien verstande dat indien door het algemeen bestuur toepassing is gegeven aan artikel 4.1.1, vierde lid, dit lid van het algemeen bestuur een uitkering ontvangt voor alle vergaderingen die gedurende het tijdelijk ontslag plaatsvinden.
+1. [Artikel 4.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.1&paragraaf=1&artikel=4.1.1&z=2024-01-01&g=2024-01-01) is van overeenkomstige toepassing op het lid van het algemeen bestuur aan wie op grond van [artikel X 10 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_10) tijdelijk ontslag is verleend wegens zwangerschap en bevalling of ziekte, met dien verstande dat indien door het algemeen bestuur toepassing is gegeven aan artikel 4.1.1, vierde lid, dit lid van het algemeen bestuur een uitkering ontvangt voor alle vergaderingen die gedurende het tijdelijk ontslag plaatsvinden.
 
-2. [Artikel 4.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.1&paragraaf=2&artikel=4.1.6&z=2023-10-14&g=2023-10-14) is van overeenkomstige toepassing op het lid van het algemeen bestuur, bedoeld in het eerste lid, met dien verstande dat de vergoeding de helft bedraagt van het bedrag dat op grond van die bepaling van toepassing is.
+2. [Artikel 4.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.1&paragraaf=2&artikel=4.1.6&z=2024-01-01&g=2024-01-01) is van overeenkomstige toepassing op het lid van het algemeen bestuur, bedoeld in het eerste lid, met dien verstande dat de vergoeding de helft bedraagt van het bedrag dat op grond van die bepaling van toepassing is.
 
-3. De [artikelen 4.1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.1&paragraaf=2&artikel=4.1.9&z=2023-10-14&g=2023-10-14), [4.1.10](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.1&paragraaf=2&artikel=4.1.10&z=2023-10-14&g=2023-10-14) en [4.1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.1&paragraaf=2&artikel=4.1.11&z=2023-10-14&g=2023-10-14) en [afdeling 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.3&z=2023-10-14&g=2023-10-14) zijn van overeenkomstige toepassing op het lid van het algemeen bestuur, bedoeld in het eerste lid.
+3. De [artikelen 4.1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.1&paragraaf=2&artikel=4.1.9&z=2024-01-01&g=2024-01-01), [4.1.10](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.1&paragraaf=2&artikel=4.1.10&z=2024-01-01&g=2024-01-01) en [4.1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.1&paragraaf=2&artikel=4.1.11&z=2024-01-01&g=2024-01-01) en [afdeling 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.3&z=2024-01-01&g=2024-01-01) zijn van overeenkomstige toepassing op het lid van het algemeen bestuur, bedoeld in het eerste lid.
 
 ### Afdeling 4.2. Voorzitter en leden dagelijks bestuur
 
@@ -1484,9 +1484,9 @@ Indien een lid van het algemeen bestuur op grond van [artikel 51a, tweede lid, v
 
 1. Onze Minister van Infrastructuur en Waterstaat kan op verzoek van het algemeen bestuur, gedeputeerde staten gehoord, een deeltijdfactor voor de voorzitter vaststellen.
 
-2. De bezoldiging van de voorzitter bedraagt € 10.870,14 per maand, naar evenredigheid van de vastgestelde deeltijdfactor.
+2. De bezoldiging van de voorzitter bedraagt € 11.033,19 per maand, naar evenredigheid van de vastgestelde deeltijdfactor.
 
-3. De bezoldiging van het lid van het dagelijks bestuur bedraagt, met inachtneming van [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.0&artikel=4.5&z=2023-10-14&g=2023-10-14), € 8.890,68 per maand, naar evenredigheid van de vastgestelde deeltijdfactor.
+3. De bezoldiging van het lid van het dagelijks bestuur bedraagt, met inachtneming van [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.0&artikel=4.5&z=2024-01-01&g=2024-01-01), € 9.024,04 per maand, naar evenredigheid van de vastgestelde deeltijdfactor.
 
 4. Als voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties in een collectieve arbeidsovereenkomst een wijziging van het loon is overeengekomen, worden de bedragen, genoemd in het tweede en derde lid, bij ministeriële regeling overeenkomstig gewijzigd.
 
@@ -1500,13 +1500,13 @@ Indien een lid van het algemeen bestuur op grond van [artikel 51a, tweede lid, v
 
 ##### Artikel 4.2.2. Waarneming voorzitter door lid dagelijks bestuur
 
-Indien een lid van het dagelijks bestuur gedurende meer dan dertig dagen onafgebroken met de waarneming van het ambt van voorzitter is belast, wordt zijn bezoldiging voor die tijd ten laste van het waterschap aangevuld tot het bedrag, genoemd in [artikel 4.2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=1&artikel=4.2.1&z=2023-10-14&g=2023-10-14).
+Indien een lid van het dagelijks bestuur gedurende meer dan dertig dagen onafgebroken met de waarneming van het ambt van voorzitter is belast, wordt zijn bezoldiging voor die tijd ten laste van het waterschap aangevuld tot het bedrag, genoemd in [artikel 4.2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=1&artikel=4.2.1&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 4.2.3. Neveninkomsten
 
 1. Voor de toepassing van dit artikel wordt verstaan onder:
 
-- a. **bezoldiging:** totaal van de per kalenderjaar als voorzitter of lid van het dagelijks bestuur genoten bezoldiging, bedoeld in [artikel 4.2.1, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=1&artikel=4.2.1&z=2023-10-14&g=2023-10-14), vermeerderd met de vakantie-uitkering, bedoeld in artikel 4.2.1, vijfde lid, en aangevuld op grond van [artikel 4.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=1&artikel=4.2.2&z=2023-10-14&g=2023-10-14);
+- a. **bezoldiging:** totaal van de per kalenderjaar als voorzitter of lid van het dagelijks bestuur genoten bezoldiging, bedoeld in [artikel 4.2.1, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=1&artikel=4.2.1&z=2024-01-01&g=2024-01-01), vermeerderd met de vakantie-uitkering, bedoeld in artikel 4.2.1, vijfde lid, en aangevuld op grond van [artikel 4.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=1&artikel=4.2.2&z=2024-01-01&g=2024-01-01);
 
 - b. **neveninkomsten:** andere inkomsten als bedoeld in [artikel 48, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=48), of [artikel 44, vijfde lid, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=44).
 
@@ -1532,7 +1532,7 @@ Indien een lid van het dagelijks bestuur gedurende meer dan dertig dagen onafgeb
 
 ##### Artikel 4.2.4. Uitkering bij overlijden
 
-1. In het geval van overlijden van de voorzitter of het lid van het dagelijks bestuur wordt aan de weduwe of weduwnaar van wie de overledene niet duurzaam gescheiden leefde een bedrag uitgekeerd, gelijk aan de bezoldiging, bedoeld in [artikel 4.2.1, tweede onderscheidenlijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=1&artikel=4.2.1&z=2023-10-14&g=2023-10-14), vermeerderd met de vakantie-uitkering, welke de overledene laatstelijk genoot over een tijdvak van drie maanden. Indien de overledene geen weduwe of weduwnaar nalaat, geschiedt de uitkering ten behoeve van de minderjarige wettige of natuurlijke kinderen, of minderjarige kinderen waarover de overledene de pleegouderlijke zorg droeg. Onder pleegouderlijke zorg wordt verstaan de zorg voor het onderhoud en de opvoeding van het kind als was het een eigen kind, onafhankelijk van enige verplichting daartoe of van het genieten van een vergoeding daarvoor. Ontbreken ook zodanige kinderen dan geschiedt de uitkering aan degenen die geheel of grotendeels afhankelijk waren van de overledene.
+1. In het geval van overlijden van de voorzitter of het lid van het dagelijks bestuur wordt aan de weduwe of weduwnaar van wie de overledene niet duurzaam gescheiden leefde een bedrag uitgekeerd, gelijk aan de bezoldiging, bedoeld in [artikel 4.2.1, tweede onderscheidenlijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=1&artikel=4.2.1&z=2024-01-01&g=2024-01-01), vermeerderd met de vakantie-uitkering, welke de overledene laatstelijk genoot over een tijdvak van drie maanden. Indien de overledene geen weduwe of weduwnaar nalaat, geschiedt de uitkering ten behoeve van de minderjarige wettige of natuurlijke kinderen, of minderjarige kinderen waarover de overledene de pleegouderlijke zorg droeg. Onder pleegouderlijke zorg wordt verstaan de zorg voor het onderhoud en de opvoeding van het kind als was het een eigen kind, onafhankelijk van enige verplichting daartoe of van het genieten van een vergoeding daarvoor. Ontbreken ook zodanige kinderen dan geschiedt de uitkering aan degenen die geheel of grotendeels afhankelijk waren van de overledene.
 
 2. Voor de toepassing van dit artikel wordt onder weduwe of weduwnaar mede verstaan de achtergebleven geregistreerde partner alsmede degene met wie de overledene ongehuwd samenleefde en een gezamenlijke huishouding heeft gevoerd als bedoeld in [artikel 3, derde en vierde lid, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=3).
 
@@ -1544,9 +1544,9 @@ Indien een lid van het dagelijks bestuur gedurende meer dan dertig dagen onafgeb
 
 ##### Artikel 4.2.6. Ambtskosten
 
-1. De voorzitter ontvangt een vergoeding voor aan de uitoefening van het ambt verbonden kosten van € 427,80 per maand, naar evenredigheid van de vastgestelde deeltijdfactor.
+1. De voorzitter ontvangt een vergoeding voor aan de uitoefening van het ambt verbonden kosten van € 489,83 per maand, naar evenredigheid van de vastgestelde deeltijdfactor.
 
-2. Het lid van het dagelijks bestuur ontvangt een vergoeding van € 393,58 per maand voor de aan de uitoefening van het ambt verbonden kosten naar evenredigheid van de vastgestelde deeltijdfactor. Indien een lid van het dagelijks bestuur gedurende meer dan dertig dagen onafgebroken met de waarneming van het ambt van voorzitter is belast, ontvangt hij voor die tijd een vergoeding van € 427,80 per maand voor de aan de uitoefening van het ambt verbonden kosten.
+2. Het lid van het dagelijks bestuur ontvangt een vergoeding van € 450,65 per maand voor de aan de uitoefening van het ambt verbonden kosten naar evenredigheid van de vastgestelde deeltijdfactor. Indien een lid van het dagelijks bestuur gedurende meer dan dertig dagen onafgebroken met de waarneming van het ambt van voorzitter is belast, ontvangt hij voor die tijd een vergoeding van € 489,83 per maand voor de aan de uitoefening van het ambt verbonden kosten.
 
 3. Wanneer de voorzitter of het lid van het dagelijks bestuur in de loop van een maand is benoemd of in de loop van een maand is afgetreden, ontslagen of overleden, wordt de vergoeding, bedoeld in het eerste onderscheidenlijk tweede lid, voor die maand naar evenredigheid van de periode van uitoefening van het ambt in die maand genoten.
 
@@ -1608,9 +1608,9 @@ Indien een lid van het dagelijks bestuur gedurende meer dan dertig dagen onafgeb
 
 8. De voorzitter of het lid van het dagelijks bestuur betaalt voor het gebruik van de aan hem ter beschikking gestelde auto voor andere dan zakelijke of bestuurlijke doeleinden een eigen bijdrage per maand aan het waterschap.
 
-9. Indien aan de voorzitter of het lid van het dagelijks bestuur een auto, niet zijnde een auto voor gemeenschappelijk gebruik of een auto op afroep als bedoeld in het eerste lid, ter beschikking is gesteld, heeft hij geen aanspraak op vergoeding van kosten voor woon-werkverkeer en reiskosten als bedoeld in [artikel 4.2.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=2&artikel=4.2.9&z=2023-10-14&g=2023-10-14).
+9. Indien aan de voorzitter of het lid van het dagelijks bestuur een auto, niet zijnde een auto voor gemeenschappelijk gebruik of een auto op afroep als bedoeld in het eerste lid, ter beschikking is gesteld, heeft hij geen aanspraak op vergoeding van kosten voor woon-werkverkeer en reiskosten als bedoeld in [artikel 4.2.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=2&artikel=4.2.9&z=2024-01-01&g=2024-01-01).
 
-10. Voor zover de voorzitter of het lid van het dagelijks bestuur gebruik maakt van een auto voor gemeenschappelijk gebruik of een auto op afroep als bedoeld in het eerste lid, heeft hij geen aanspraak op vergoedingen, bedoeld in [artikel 4.2.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=2&artikel=4.2.9&z=2023-10-14&g=2023-10-14).
+10. Voor zover de voorzitter of het lid van het dagelijks bestuur gebruik maakt van een auto voor gemeenschappelijk gebruik of een auto op afroep als bedoeld in het eerste lid, heeft hij geen aanspraak op vergoedingen, bedoeld in [artikel 4.2.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=2&artikel=4.2.9&z=2024-01-01&g=2024-01-01).
 
 11. Onze Minister stelt nadere regels over de voorwaarden voor de ter beschikkingstelling van een auto en het gebruik daarvan, alsmede over de hoogte van de eigen bijdrage, bedoeld in het achtste lid.
 
@@ -1636,19 +1636,19 @@ Indien een lid van het dagelijks bestuur gedurende meer dan dertig dagen onafgeb
 
 ##### Artikel 4.2.13. Aanspraken bij zwangerschap en bevalling en ziekte
 
-Dit besluit is, voor zover het betrekking heeft op de leden van het dagelijks bestuur, van overeenkomstige toepassing op het lid van het dagelijks bestuur aan wie in verband met zwangerschap en bevalling of ziekte op grond van [artikel 21 van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=21) tijdelijk ontslag is verleend, met dien verstande dat dit tijdelijk ontslagen lid, in afwijking van [artikel 4.2.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=2&artikel=4.2.6&z=2023-10-14&g=2023-10-14), een vergoeding ontvangt voor aan de uitoefening van het ambt verbonden kosten van de helft van het bedrag, genoemd in die bepaling.
+Dit besluit is, voor zover het betrekking heeft op de leden van het dagelijks bestuur, van overeenkomstige toepassing op het lid van het dagelijks bestuur aan wie in verband met zwangerschap en bevalling of ziekte op grond van [artikel 21 van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=21) tijdelijk ontslag is verleend, met dien verstande dat dit tijdelijk ontslagen lid, in afwijking van [artikel 4.2.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=2&artikel=4.2.6&z=2024-01-01&g=2024-01-01), een vergoeding ontvangt voor aan de uitoefening van het ambt verbonden kosten van de helft van het bedrag, genoemd in die bepaling.
 
 #### Paragraaf 3. Overige bepalingen
 
 ##### Artikel 4.2.14. Vergoeding bij waarneming van de voorzitter
 
-Op degene die op grond van [artikel 51a, derde lid, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=51a) gedurende meer dan dertig dagen onafgebroken met de waarneming van het ambt van voorzitter is belast, zijn de bepalingen in deze [afdeling 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&z=2023-10-14&g=2023-10-14) en [afdeling 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.3&z=2023-10-14&g=2023-10-14), voor zover die betrekking hebben op de rechtspositie van de voorzitter, van overeenkomstige toepassing, met uitzondering van de [artikelen 4.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=1&artikel=4.2.3&z=2023-10-14&g=2023-10-14), [4.2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=4&artikel=4.2.17&z=2023-10-14&g=2023-10-14), [4.2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=4&artikel=4.2.18&z=2023-10-14&g=2023-10-14) en [4.2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=4&artikel=4.2.19&z=2023-10-14&g=2023-10-14).
+Op degene die op grond van [artikel 51a, derde lid, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=51a) gedurende meer dan dertig dagen onafgebroken met de waarneming van het ambt van voorzitter is belast, zijn de bepalingen in deze [afdeling 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&z=2024-01-01&g=2024-01-01) en [afdeling 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.3&z=2024-01-01&g=2024-01-01), voor zover die betrekking hebben op de rechtspositie van de voorzitter, van overeenkomstige toepassing, met uitzondering van de [artikelen 4.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=1&artikel=4.2.3&z=2024-01-01&g=2024-01-01), [4.2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=4&artikel=4.2.17&z=2024-01-01&g=2024-01-01), [4.2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=4&artikel=4.2.18&z=2024-01-01&g=2024-01-01) en [4.2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=4&artikel=4.2.19&z=2024-01-01&g=2024-01-01).
 
 #### Paragraaf 4. Waarnemer lid dagelijks bestuur
 
 ##### Artikel 4.2.15. Verzekering voor arbeidsongeschiktheid, ouderdom en overlijden
 
-1. De tijdelijke vervanger van het lid van het dagelijks bestuur dat verlof heeft wegens zwangerschap en bevalling of ziekte, ontvangt voor zijn verzekering voor arbeidsongeschiktheid, ouderdom en overlijden een bedrag van € 677,73 per maand naar evenredigheid van de vastgestelde deeltijdfactor.
+1. De tijdelijke vervanger van het lid van het dagelijks bestuur dat verlof heeft wegens zwangerschap en bevalling of ziekte, ontvangt voor zijn verzekering voor arbeidsongeschiktheid, ouderdom en overlijden een bedrag van € 687,90 per maand naar evenredigheid van de vastgestelde deeltijdfactor.
 
 2. Als voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties in een collectieve arbeidsovereenkomst een wijziging van het loon is overeengekomen, wordt het bedrag, genoemd in het eerste lid, bij ministeriële regeling overeenkomstig gewijzigd.
 
@@ -1664,7 +1664,7 @@ Indien de voorzitter langer dan acht dagen wegens ziekte of om andere redenen zi
 
 1. Een schorsingsbesluit als bedoeld in [artikel 46, eerste lid, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=46) bevat in ieder geval het tijdstip waarop de schorsing ingaat en een zo nauwkeurig mogelijke aanduiding van de duur van de schorsing.
 
-2. De voorzitter die geschorst is, behoudt gedurende de schorsing zijn bezoldiging en uitkeringen, bedoeld in [artikel 4.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=1&artikel=4.2.1&z=2023-10-14&g=2023-10-14) en zijn aanspraak op vergoedingen en voorzieningen op grond van de [afdelingen 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&z=2023-10-14&g=2023-10-14) en [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.3&z=2023-10-14&g=2023-10-14).
+2. De voorzitter die geschorst is, behoudt gedurende de schorsing zijn bezoldiging en uitkeringen, bedoeld in [artikel 4.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=1&artikel=4.2.1&z=2024-01-01&g=2024-01-01) en zijn aanspraak op vergoedingen en voorzieningen op grond van de [afdelingen 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&z=2024-01-01&g=2024-01-01) en [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.3&z=2024-01-01&g=2024-01-01).
 
 3. Gedurende de schorsing is het de voorzitter als zodanig niet toegestaan de dienstgebouwen van het waterschap te betreden.
 
@@ -1756,41 +1756,41 @@ Het dagelijks bestuur treft ten laste van het waterschap een voorziening voor be
 
 Als eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31) worden aangewezen:
 
-- a. de vergoedingen en toelage, bedoeld in de [artikelen 4.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.1&paragraaf=2&artikel=4.1.6&z=2023-10-14&g=2023-10-14) en [4.2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=2&artikel=4.2.6&z=2023-10-14&g=2023-10-14);
+- a. de vergoedingen en toelage, bedoeld in de [artikelen 4.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.1&paragraaf=2&artikel=4.1.6&z=2024-01-01&g=2024-01-01) en [4.2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=2&artikel=4.2.6&z=2024-01-01&g=2024-01-01);
 
-- b. de tegemoetkoming in de kosten van een ziektekostenverzekering, bedoeld in [artikel 4.1.10](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.1&paragraaf=2&artikel=4.1.10&z=2023-10-14&g=2023-10-14);
+- b. de tegemoetkoming in de kosten van een ziektekostenverzekering, bedoeld in [artikel 4.1.10](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.1&paragraaf=2&artikel=4.1.10&z=2024-01-01&g=2024-01-01);
 
-- c. de vergoedingen in verband met verhuizing, bedoeld in [artikel 4.2.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=2&artikel=4.2.7&z=2023-10-14&g=2023-10-14);
+- c. de vergoedingen in verband met verhuizing, bedoeld in [artikel 4.2.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=2&artikel=4.2.7&z=2024-01-01&g=2024-01-01);
 
-- d. de vergoeding van reis- en verblijfkosten als bedoeld in [artikel 4.1.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.1&paragraaf=2&artikel=4.1.7&z=2023-10-14&g=2023-10-14), en de vergoeding van kosten voor woon-werkverkeer en van reis- en verblijfkosten als bedoeld in [artikel 4.2.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=2&artikel=4.2.9&z=2023-10-14&g=2023-10-14);
+- d. de vergoeding van reis- en verblijfkosten als bedoeld in [artikel 4.1.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.1&paragraaf=2&artikel=4.1.7&z=2024-01-01&g=2024-01-01), en de vergoeding van kosten voor woon-werkverkeer en van reis- en verblijfkosten als bedoeld in [artikel 4.2.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=2&artikel=4.2.9&z=2024-01-01&g=2024-01-01);
 
-- e. de betaling of vergoeding van de kosten voor energie en water, bedoeld in [artikel 4.2.8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=2&artikel=4.2.8&z=2023-10-14&g=2023-10-14);
+- e. de betaling of vergoeding van de kosten voor energie en water, bedoeld in [artikel 4.2.8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=2&artikel=4.2.8&z=2024-01-01&g=2024-01-01);
 
-- f. de vergoeding van de belastingheffing, bedoeld in de [artikel 4.2.10, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=2&artikel=4.2.10&z=2023-10-14&g=2023-10-14);
+- f. de vergoeding van de belastingheffing, bedoeld in de [artikel 4.2.10, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=2&artikel=4.2.10&z=2024-01-01&g=2024-01-01);
 
-- g. de vergoeding van de kosten in verband met loopbaanoriëntatie en mobiliteit bevorderende activiteiten, bedoeld in [artikel 4.2.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=2&artikel=4.2.11&z=2023-10-14&g=2023-10-14);
+- g. de vergoeding van de kosten in verband met loopbaanoriëntatie en mobiliteit bevorderende activiteiten, bedoeld in [artikel 4.2.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.2&paragraaf=2&artikel=4.2.11&z=2024-01-01&g=2024-01-01);
 
-- h. de voorzieningen ten behoeve van een veilige woon- en werkplek als bedoeld in [artikel 4.3.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.3&artikel=4.3.1&z=2023-10-14&g=2023-10-14);
+- h. de voorzieningen ten behoeve van een veilige woon- en werkplek als bedoeld in [artikel 4.3.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.3&artikel=4.3.1&z=2024-01-01&g=2024-01-01);
 
-- i. de ter beschikking stelling van informatie- en communicatiemiddelen, bedoeld in [artikel 4.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.3&artikel=4.3.2&z=2023-10-14&g=2023-10-14);
+- i. de ter beschikking stelling van informatie- en communicatiemiddelen, bedoeld in [artikel 4.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.3&artikel=4.3.2&z=2024-01-01&g=2024-01-01);
 
-- j. de vergoeding van de kosten voor scholing als bedoeld in [artikel 4.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.3&artikel=4.3.3&z=2023-10-14&g=2023-10-14);
+- j. de vergoeding van de kosten voor scholing als bedoeld in [artikel 4.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.3&artikel=4.3.3&z=2024-01-01&g=2024-01-01);
 
-- k. de vergoeding van de contributie van een beroepsvereniging, bedoeld in [artikel 4.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.3&artikel=4.3.4&z=2023-10-14&g=2023-10-14), en
+- k. de vergoeding van de contributie van een beroepsvereniging, bedoeld in [artikel 4.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.3&artikel=4.3.4&z=2024-01-01&g=2024-01-01), en
 
-- l. een voorziening of financiële tegemoetkoming als bedoeld in [artikel 4.3.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.3&artikel=4.3.7&z=2023-10-14&g=2023-10-14).
+- l. een voorziening of financiële tegemoetkoming als bedoeld in [artikel 4.3.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.3&artikel=4.3.7&z=2024-01-01&g=2024-01-01).
 
 ### Afdeling 4.4. Commissieleden
 
 ##### Artikel 4.4.1. Vergoeding voor het bijwonen van de vergaderingen
 
-1. Aan een commissielid wordt ten laste van het waterschap een vergoeding voor het bijwonen van de vergaderingen van de commissie toegekend van € 128,22 per vergadering.
+1. Aan een commissielid wordt ten laste van het waterschap een vergoeding voor het bijwonen van de vergaderingen van de commissie toegekend van € 135,14 per vergadering.
 
 2. Het bedrag, genoemd in het eerste lid, wordt per 1 januari van elk jaar bij ministeriële regeling gewijzigd overeenkomstig de procentuele wijziging van het door het Centraal Bureau voor de Statistiek vastgestelde indexcijfer CAO-lonen overheid, inclusief bijzondere beloningen, geldend voor de maand september van het tweede kalenderjaar voorafgaand aan die datum ten opzichte van hetzelfde indexcijfer geldend voor de maand september van het daaraan voorafgaande.
 
 ##### Artikel 4.4.2. Hogere vergoeding
 
-Het algemeen bestuur kan bepalen dat de vergoeding voor het bijwonen van de vergaderingen van de commissie naar boven afwijkt van het bedrag, genoemd in [artikel 4.4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.4&artikel=4.4.1&z=2023-10-14&g=2023-10-14), ten aanzien van:
+Het algemeen bestuur kan bepalen dat de vergoeding voor het bijwonen van de vergaderingen van de commissie naar boven afwijkt van het bedrag, genoemd in [artikel 4.4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.4&artikel=4.4.1&z=2024-01-01&g=2024-01-01), ten aanzien van:
 
 - a. een commissielid dat op grond van zijn bijzondere beroepsmatige deskundigheid op het taakgebied van de commissie voor deelneming aan haar werkzaamheden is aangetrokken, en
 
@@ -1808,7 +1808,7 @@ Het algemeen bestuur kan bepalen dat de vergoeding voor het bijwonen van de verg
 
 ##### Artikel 4.4.4. Overige vergoedingen en voorzieningen
 
-Ten aanzien van een commissielid zijn de [artikelen 4.1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.1&paragraaf=2&artikel=4.1.11&z=2023-10-14&g=2023-10-14), [4.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.3&artikel=4.3.1&z=2023-10-14&g=2023-10-14), [4.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.3&artikel=4.3.2&z=2023-10-14&g=2023-10-14), [4.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.3&artikel=4.3.3&z=2023-10-14&g=2023-10-14), [4.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.3&artikel=4.3.4&z=2023-10-14&g=2023-10-14), [4.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.3&artikel=4.3.6&z=2023-10-14&g=2023-10-14), [4.3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.3&artikel=4.3.7&z=2023-10-14&g=2023-10-14) en [4.3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.3&artikel=4.3.8&z=2023-10-14&g=2023-10-14) van overeenkomstige toepassing.
+Ten aanzien van een commissielid zijn de [artikelen 4.1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.1&paragraaf=2&artikel=4.1.11&z=2024-01-01&g=2024-01-01), [4.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.3&artikel=4.3.1&z=2024-01-01&g=2024-01-01), [4.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.3&artikel=4.3.2&z=2024-01-01&g=2024-01-01), [4.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.3&artikel=4.3.3&z=2024-01-01&g=2024-01-01), [4.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.3&artikel=4.3.4&z=2024-01-01&g=2024-01-01), [4.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.3&artikel=4.3.6&z=2024-01-01&g=2024-01-01), [4.3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.3&artikel=4.3.7&z=2024-01-01&g=2024-01-01) en [4.3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&hoofdstuk=4&afdeling=4.3&artikel=4.3.8&z=2024-01-01&g=2024-01-01) van overeenkomstige toepassing.
 
 ### Hoofdstuk 5. Overgangs- en slotbepalingen
 
