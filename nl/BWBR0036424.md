@@ -4,7 +4,7 @@ identifier: "BWBR0036424"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2015-04-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036424"
 soort: "ministeriele-regeling"
@@ -42,11 +42,11 @@ Besluit:
 
 ##### Artikel 1
 
-Onder ‘onmiddellijk worden gebruikt zonder enige verdere verwerking anders dan die welke bij normale productiepraktijken gangbaar is’, als bedoeld in artikel 5, eerste lid, onderdeel b, van de kaderrichtlijn afvalstoffen, wordt in ieder geval verstaan het verwerkingsproces dat ten aanzien van een stof, preparaat of voorwerp is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036424&bijlage=1&z=2015-04-01&g=2015-04-01).
+Deze regeling berust op [artikel 1.1, vierde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1).
 
 ##### Artikel 2
 
-Onder ‘geproduceerd als een integraal onderdeel van een productieproces’, als bedoeld in artikel 5, eerste lid, onderdeel c, van de kaderrichtlijn afvalstoffen, wordt in ieder geval verstaan het productieproces van herkomst dat ten aanzien van een stof, preparaat of voorwerp is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036424&bijlage=2&z=2015-04-01&g=2015-04-01).
+Onder ‘geproduceerd als een integraal onderdeel van een productieproces’, als bedoeld in artikel 5, eerste lid, onderdeel c, van de kaderrichtlijn afvalstoffen, wordt in ieder geval verstaan het productieproces van herkomst dat ten aanzien van een stof, preparaat of voorwerp is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036424&bijlage=2&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 3
 
@@ -62,7 +62,19 @@ Deze regeling treedt in werking op 1 april 2015.
 | --- | --- |
 | **Ruwe glycerine** **Samenstelling** (massaprocent): 70% – 95% glycerine (CAS 56-81-5, EINECS 200-289-5) en indien aanwezig: – Methanol: maximaal 2% – MONG*: maximaal 10% – Zout (NaCl): maximaal 10% – Water: maximaal 20% * MONG: overige organische stoffen of materialen | Productie van zuivere glycerine door middel van achtereenvolgens: – verwarming tot 100 °C; – onder licht vacuüm (50 mbar) verdampen van methanol en water; – afscheiding gezuiverde glycerine door middel van destillatie bij 5 mbar; en – verhoging glycerine opbrengst door behandeling van bodemfractie in de-canter en post-still. |
 
-## Bijlage 2. als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036424&artikel=2&z=2015-04-01&g=2015-04-01) van de Regeling criteria bijproducten kaderrichtlijn afvalstoffen
+## Bijlage 1. als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036424&artikel=1&z=2024-01-01&g=2024-01-01) van de Regeling criteria bijproducten kaderrichtlijn afvalstoffen
+
+| Stof, preparaat of voorwerp | Verwerkingsproces |
+| --- | --- |
+| **Ruwe glycerine** **Samenstelling** (massaprocent): 70% – 95% glycerine (CAS 56-81-5, EINECS 200-289-5) en indien aanwezig: – Methanol: maximaal 2% – MONG*: maximaal 10% – Zout (NaCl): maximaal 10% – Water: maximaal 20% * MONG: overige organische stoffen of materialen | Productie van zuivere glycerine door middel van achtereenvolgens: – verwarming tot 100 °C; – onder licht vacuüm (50 mbar) verdampen van methanol en water; – afscheiding gezuiverde glycerine door middel van destillatie bij 5 mbar; en – verhoging glycerine opbrengst door behandeling van bodemfractie in de-canter en post-still. |
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+Onder ‘onmiddellijk worden gebruikt zonder enige verdere verwerking anders dan die welke bij normale productiepraktijken gangbaar is’, als bedoeld in artikel 5, eerste lid, onderdeel b, van de kaderrichtlijn afvalstoffen, wordt in ieder geval verstaan het verwerkingsproces dat ten aanzien van een stof, preparaat of voorwerp is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036424&bijlage=1&z=2024-01-01&g=2024-01-01).
+
+## Bijlage 2. als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036424&artikel=2&z=2024-01-01&g=2024-01-01) van de Regeling criteria bijproducten kaderrichtlijn afvalstoffen
 
 | Stof, preparaat of voorwerp | Productieproces van herkomst |
 | --- | --- |
