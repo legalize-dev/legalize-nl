@@ -4,7 +4,7 @@ identifier: "BWBR0047854"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2023-08-24"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047854"
 soort: "ministeriele-regeling"
@@ -72,19 +72,19 @@ De Minister verstrekt aanvullende bekostiging aan het bevoegd gezag voor werkdru
 
 3. De aanvullende bekostiging bedraagt:
 
-- a. € 318,68 per leerling in het algemeen vormend onderwijs;
+- a. € 316,76 per leerling in het algemeen vormend onderwijs;
 
-- b. € 478,03 per leerling in het beroepsgericht onderwijs.
+- b. € 475,14 per leerling in het beroepsgericht onderwijs.
 
 4. De aanvullende bekostiging bedraagt in het openbaar lichaam Bonaire:
 
-- a. USD 488,45 per leerling;
+- a. USD 478,17 per leerling;
 
-- b. USD 488,45 per student in de beroepsopleidende leerweg; en
+- b. USD 478,17 per student in de beroepsopleidende leerweg; en
 
-- c. USD 293,07 per student in de beroepsbegeleidende leerweg.
+- c. USD 286,90 per student in de beroepsbegeleidende leerweg.
 
-5. De aanvullende bekostiging bedraagt in het openbaar lichaam Sint Eustatius of Saba: USD 664,30 per leerling.
+5. De aanvullende bekostiging bedraagt in het openbaar lichaam Sint Eustatius of Saba: USD 650,32 per leerling.
 
 ##### Artikel 4. Vaststelling en betaling
 
