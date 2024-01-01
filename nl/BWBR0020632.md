@@ -4,7 +4,7 @@ identifier: "BWBR0020632"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2023-07-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020632"
 soort: "ministeriele-regeling"
@@ -56,17 +56,17 @@ die op 1 januari van een kalenderjaar de leeftijd van 18, 19 of 20 jaar heeft be
 
 2. De tegemoetkoming bedraagt:
 
-- a. voor een 18-jarige: € 21,12
+- a. voor een 18-jarige: € 21,91
 
-- b. voor een 19-jarige: € 20,29
+- b. voor een 19-jarige: € 21,05
 
-- c. voor een 20-jarige: € 12,17
+- c. voor een 20-jarige: € 12,62
 
 3. In afwijking van het eerste lid heeft de jonggehandicapte, bedoeld in [artikel 2:15](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:15) of [3:3 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:3), aan wie in de loop van een kalenderjaar een inkomensvoorziening of uitkering op grond van de [Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) wordt toegekend, met ingang van de dag van toekenning recht op een bij zijn leeftijd op de dag van toekenning behorende tegemoetkoming, bedoeld in het tweede lid.
 
 4. De betaling van de tegemoetkoming geschiedt tezamen met de betaling van de inkomensvoorziening of arbeidsongeschiktheidsuitkering.
 
-5. Met ingang van de dag, waarop het bedrag van het minimumloon, bedoeld in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) wijzigt, worden de bedragen van de tegemoetkoming herzien met het percentage van deze wijziging. Van de gewijzigde bedragen en van de dag waarop de herziening plaatsvindt, wordt door of namens de Minister mededeling gedaan in de Staatscourant.
+5. Met ingang van de dag, waarop het bedrag van het minimumloon, bedoeld in [artikel 8, eerste lid, onderdeel b, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) wijzigt, worden de bedragen van de tegemoetkoming herzien met het percentage van deze wijziging. Van de gewijzigde bedragen en van de dag waarop de herziening plaatsvindt, wordt door of namens de Minister mededeling gedaan in de Staatscourant.
 
 ##### Artikel 3. Inwerkingtreding
 
