@@ -4,7 +4,7 @@ identifier: "BWBR0046801"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2022-10-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046801"
 soort: "wet"
@@ -54,8 +54,6 @@ De logo’s die op grond van [artikel 4 van de Tijdelijke experimentenwet stembi
 ##### Artikel IIa
 
 Wijzigt de Woningwet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III
 
