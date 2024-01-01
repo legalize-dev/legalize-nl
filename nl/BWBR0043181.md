@@ -4,7 +4,7 @@ identifier: "BWBR0043181"
 country: "nl"
 rank: "beleidsregel_bes"
 publication_date: "2024-01-01"
-last_updated: "2021-12-14"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043181"
 soort: "beleidsregel-BES"
@@ -80,9 +80,7 @@ In deze beleidsregels wordt verstaan onder:
 
 ##### Artikel 3. Boordeling schuldig nalatig zijn voor verschuldigde premie [AOV](https://wetten.overheid.nl/jci1.3:c:BWBR0028459)
 
-De aanvrager moet bij de aanvraag [AOV](https://wetten.overheid.nl/jci1.3:c:BWBR0028459) alle informatie verstrekken die van belang is voor het recht op, en de hoogte van de uitkering. Daarbij hoort ook de bevestiging dat de verschuldigde AOV-premie is betaald. In geval van schuldige nalatigheid moet de aanvrager dat melden. De RCN-unit SZW voert eens per twaalf maanden een controle uit door voor de in de achterliggende periode nieuwe gerechtigden relevante informatie uit te wisselen met de Belastingdienst Caribisch Nederland (BCN). BCN legt de aanslag voor de sociale verzekeringspremies samen met de inkomstenbelasting als één totaalbedrag op. BCN kan aangeven of belanghebbende ter zake aan zijn verplichtingen heeft voldaan. Indien dat niet het geval is, wordt belanghebbende opgeroepen voor een gesprek. Belanghebbende wordt in de gelegenheid gesteld om zijn openstaande premieschuld [AOV](https://wetten.overheid.nl/jci1.3:c:BWBR0028459) alsnog te voldoen. Indien belanghebbende daartoe niet bereid of in staat is, wordt alsnog de kortingsregeling toegepast. Dit gebeurt met terugwerkende kracht tot de ingangsdatum van de uitkering.
-
-**[Artikel 7a, zevende lid, aanhef en onder b, en artikel 8, tweede lid, Wet algemene ouderdomsverzekering BES]**
+Vervallen
 
 ##### Artikel 4. Herziening uitkering [AOV](https://wetten.overheid.nl/jci1.3:c:BWBR0028459)
 
@@ -104,11 +102,9 @@ Voor de toepassing van [artikel 11, derde lid, van de AWW](https://wetten.overhe
 
 [[Artikel 11, derde lid, Wet algemene weduwen- wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&artikel=11)]
 
-##### Artikel 6. AOV-recht studerenden in europees nederland vanaf 1 juli 2015
+##### Artikel 6. AOV-recht studerenden in Europees Nederland tussen 1 juli 2015 en 1 juli 2022
 
-De persoon die uitsluitend om studieredenen in het Europees deel van Nederland woont en direct daaraan voorafgaand woonde in de openbare lichamen Bonaire, Sint Eustatius of Saba is uitsluitend verzekerd voor de [AOV](https://wetten.overheid.nl/jci1.3:c:BWBR0028459) voor zover het betreft tijdvakken vanaf 1 juli 2015 en zolang die persoon niet vanwege het verrichten van werk verzekerd is voor de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) (AOW).
-
-**[Artikel 1a Besluit uitbreiding en beperking kring verzekerden volksverzekeringen BES]**
+De persoon die tussen 1 juli 2015 en 1 juli 2022 uitsluitend om studieredenen in het Europees deel van Nederland heeft gewoond en direct daaraan voorafgaand in de openbare lichamen Bonaire, Sint Eustatius of Saba woonde, wordt over die periode als verzekerde voor de AOV aangemerkt, behoudens tijdvakken waarin die persoon vanwege het verrichten van werk verzekerd is voor de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) (AOW).
 
 ##### Artikel 7. Inwerkingtreding
 
@@ -117,6 +113,12 @@ Deze regeling treedt in werking met ingang van 1 maart 2020.
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 6a. Citeertitel
+
+Vervallen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 7a. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel RCN-unit SZW toepassing AOV en AWW BES.
 
