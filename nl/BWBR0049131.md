@@ -161,31 +161,3 @@ mits in het kader van de aandelenfusie de verkrijgende vennootschap aan de inbre
 Deze wet wordt aangehaald als: Wet aanpassing fonds voor gemene rekening en vrijgestelde beleggingsinstelling.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel IXa
-
-De bewijzen van deelgerechtigdheid in een fonds worden geacht met ingang van 1 januari 2025 niet verhandelbaar te zijn indien:
-
-- a. het fonds voor gemene rekening of het lichaam opgericht of aangegaan naar het recht van een andere staat dat een met een fonds voor gemene rekening vergelijkbare rechtsvorm heeft zonder toepassing van dit artikel met ingang van 1 januari 2025 belastingplichtig zou zijn op grond van [artikel 2, eerste lid, onderdeel f, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=2), onderscheidenlijk [artikel 3, eerste lid, onderdeel a, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=3);
-
-- b. het fonds onmiddellijk voorafgaand aan 1 januari 2025 niet belastingplichtig was op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=2) of [3 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=3);
-
-- c. uiterlijk op 31 december 2025 de vervreemding van de bewijzen van deelgerechtigdheid in het fonds uitsluitend kan plaatsvinden aan het fonds voor gemene rekening; en
-
-- d. reeds vóór 1 januari 2025 het voornemen bestond om aan de voorwaarde in onderdeel c te voldoen.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel IXb
-
-1. Indien een lichaam daarvoor kiest wordt dat lichaam met ingang van 1 januari 2025 niet aangemerkt als fonds voor gemene rekening of lichaam opgericht of aangegaan naar het recht van een andere staat dat een met een fonds voor gemene rekening vergelijkbare rechtsvorm heeft, mits:
-
-- a. dat lichaam zonder toepassing van dit artikel met ingang van 1 januari 2025 belastingplichtig zou zijn op grond van [artikel 2, eerste lid, onderdeel f, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=2), onderscheidenlijk [artikel 3, eerste lid, onderdeel a, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=3);
-
-- b. onmiddellijk voorafgaand aan 1 januari 2025 dat lichaam niet belastingplichtig was op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=2) of [3 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=3) en de bezittingen en schulden alsmede de opbrengsten en kosten van dat lichaam aan de participanten van dat lichaam werden toegerekend; en
-
-- c. ingeval dat lichaam niet aan de in [artikel IXa, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0049131&artikel=IXa&z=2026-01-01&g=2025-01-01), opgenomen voorwaarde voldoet, de participanten aan wie de bezittingen en schulden alsmede de opbrengsten en kosten van dat lichaam als gevolg van de keuze, bedoeld in de aanhef, op grond van [artikel 2.14bis, eerste of tweede lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.14bis) gedurende het jaar 2025 worden toegerekend uiterlijk op 28 februari 2026 instemmen met die keuze van dat lichaam.
-
-2. Het eerste lid is van overeenkomstige toepassing indien een lichaam is opgericht of aangegaan op of na 1 januari 2025, met dien verstande dat voor 1 januari 2025 wordt gelezen het moment waarop dat lichaam is opgericht of aangegaan en dat de voorwaarde die is opgenomen in het eerste lid, onderdeel b niet van toepassing is.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
