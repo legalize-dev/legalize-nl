@@ -4,7 +4,7 @@ identifier: "BWBR0045743"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2021-10-28"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045743"
 soort: "AMvB"
@@ -54,11 +54,9 @@ Wijzigt het Besluit uitvoering EU-verordeningen financiële markten.
 
 Wijzigt het Besluit uitvoering EU-verordeningen financiële markten.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel III
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met uitzondering van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0045743&artikel=II&z=2021-10-28&g=2021-10-28) dat in werking treedt met ingang van 1 januari 2024.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met uitzondering van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0045743&artikel=II&z=2024-01-01&g=2024-01-01) dat in werking treedt met ingang van 1 januari 2024.
 
 ##### Artikel IV
 
