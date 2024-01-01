@@ -4,7 +4,7 @@ identifier: "BWBR0044970"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2021-07-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044970"
 soort: "wet"
@@ -51,11 +51,11 @@ Wijzigt de Wet natuurbescherming.
 
 Wijzigt de Omgevingswet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+1. Een programma stikstofreductie en natuurverbetering, vastgesteld op grond van [artikel 1.12b van de Wet natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0037552&artikel=1.12b), wordt aangemerkt als een programma als bedoeld in [artikel 3.9, vierde lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=3.9).
+
+2. Een programma, vastgesteld op grond van [artikel 1.13a, tweede lid, van de Wet natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0037552&artikel=1.13a), wordt aangemerkt als een programma als bedoeld in [artikel 22.21, tweede lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=22.21).
 
 ##### Artikel IV
 
