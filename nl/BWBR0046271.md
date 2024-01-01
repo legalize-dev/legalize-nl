@@ -4,7 +4,7 @@ identifier: "BWBR0046271"
 country: "nl"
 rank: "pbo"
 publication_date: "2025-01-01"
-last_updated: "2023-03-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046271"
 soort: "pbo"
@@ -70,7 +70,7 @@ In deze regeling wordt verstaan onder: Verordening: de [Verordening op de advoca
 
 ##### Artikel 3. Berekening bruto-inkomen
 
-1. Het bruto-inkomen, bedoeld in [artikel 2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2023-03-01&g=2023-03-01), omvat alle bruto inkomsten uit arbeid, ongeacht of deze met de advocatuur samenhangen of niet, vermeerderd met een eventueel ontvangen WW- of ZW-uitkering. Niet tot overige bruto inkomsten uit arbeid behoeven te worden aangemerkt:
+1. Het bruto-inkomen, bedoeld in [artikel 2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2024-01-01&g=2024-01-01), omvat alle bruto inkomsten uit arbeid, ongeacht of deze met de advocatuur samenhangen of niet, vermeerderd met een eventueel ontvangen WW- of ZW-uitkering. Niet tot overige bruto inkomsten uit arbeid behoeven te worden aangemerkt:
 
 - a. pensioen-, VUT- en arbeidsongeschiktheidsuitkeringen (WAO, WIA, etc.);
 
@@ -80,7 +80,7 @@ In deze regeling wordt verstaan onder: Verordening: de [Verordening op de advoca
 
 2. Indien in het bruto-inkomen één van de in het eerste lid, onderdelen a tot en met c, genoemde elementen zijn begrepen, dan vermeldt de advocaat dit apart.
 
-3. In aanvulling op het eerste lid wordt, voor de advocaat die de praktijk als zelfstandige uitoefent, de bruto praktijkwinst na aftrek van uitsluitend praktijkkosten mede tot het bruto-inkomen, bedoeld in [artikel 2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2023-03-01&g=2023-03-01), gerekend. Op de bruto-praktijkwinst kan niet in mindering worden gebracht:
+3. In aanvulling op het eerste lid wordt, voor de advocaat die de praktijk als zelfstandige uitoefent, de bruto praktijkwinst na aftrek van uitsluitend praktijkkosten mede tot het bruto-inkomen, bedoeld in [artikel 2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2024-01-01&g=2024-01-01), gerekend. Op de bruto-praktijkwinst kan niet in mindering worden gebracht:
 
 - a. fiscale aftrekposten waaronder zelfstandigenaftrek, investeringsaftrek, MKB vrijstelling, de ingevolge de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) geheel of gedeeltelijk van aftrek uitgesloten algemene kosten, etc.;
 
@@ -90,7 +90,7 @@ In deze regeling wordt verstaan onder: Verordening: de [Verordening op de advoca
 
 - d. inkomstenbelasting op het inkomen van de zelfstandige.
 
-4. In aanvulling op het eerste lid wordt, voor de advocaat die de praktijk uitoefent door middel van een praktijkrechtspersoon, de bruto praktijkwinst na aftrek van uitsluitend praktijkkosten mede tot het bruto-inkomen, bedoeld in [artikel 2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2023-03-01&g=2023-03-01), gerekend. Niet tot praktijkkosten worden gerekend:
+4. In aanvulling op het eerste lid wordt, voor de advocaat die de praktijk uitoefent door middel van een praktijkrechtspersoon, de bruto praktijkwinst na aftrek van uitsluitend praktijkkosten mede tot het bruto-inkomen, bedoeld in [artikel 2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2024-01-01&g=2024-01-01), gerekend. Niet tot praktijkkosten worden gerekend:
 
 - a. het salaris van de advocaat/eigenaar der aandelen,
 
@@ -100,11 +100,11 @@ In deze regeling wordt verstaan onder: Verordening: de [Verordening op de advoca
 
 - d. de ingevolge de [Wet Inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) geheel of gedeeltelijk van aftrek uitgesloten algemene kosten.
 
-5. In aanvulling op het eerste lid wordt, voor de advocaat die de praktijk in loondienst uitoefent mede tot het bruto-inkomen, bedoeld in [artikel 2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2023-03-01&g=2023-03-01), gerekend: alle inkomsten uit arbeid vóór heffing van premies volksverzekering en loon- of inkomstenbelasting. Hieronder wordt gerekend: alle inkomsten die onder de loonbelasting vallen – ook opties op aandelen – en de fiscale bijtelling auto van de zaak.
+5. In aanvulling op het eerste lid wordt, voor de advocaat die de praktijk in loondienst uitoefent mede tot het bruto-inkomen, bedoeld in [artikel 2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2024-01-01&g=2024-01-01), gerekend: alle inkomsten uit arbeid vóór heffing van premies volksverzekering en loon- of inkomstenbelasting. Hieronder wordt gerekend: alle inkomsten die onder de loonbelasting vallen – ook opties op aandelen – en de fiscale bijtelling auto van de zaak.
 
 ##### Artikel 4. Bewijsmiddelen bruto-inkomen
 
-1. Bezwaar tegen indeling in categorie 1, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2023-03-01&g=2023-03-01), gaat vergezeld van een kopie van alle pagina’s betreffende Box 1 en Box 2 van het (elektronische) aangifteformulier inkomstenbelasting over het desbetreffende jaar en voor ondernemers een kopie van de elektronische ondernemersaangifte inkomstenbelasting van het desbetreffende jaar.
+1. Bezwaar tegen indeling in categorie 1, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2024-01-01&g=2024-01-01), gaat vergezeld van een kopie van alle pagina’s betreffende Box 1 en Box 2 van het (elektronische) aangifteformulier inkomstenbelasting over het desbetreffende jaar en voor ondernemers een kopie van de elektronische ondernemersaangifte inkomstenbelasting van het desbetreffende jaar.
 
 2. Indien het bezwaarlijk is om de in het eerste lid genoemde middelen mee te zenden kan de advocaat ook volstaan met een verklaring van een registeraccountant of van een accountants-administratieconsulent.
 
@@ -118,7 +118,7 @@ In deze regeling wordt verstaan onder: Verordening: de [Verordening op de advoca
 
 - d. dat het bruto-inkomen uit arbeid over het desbetreffende jaar is vastgesteld aan de hand van het ingediende aangifteformulier inkomstenbelasting en voor ondernemers aan de hand van de ingediende ondernemersaangifte inkomstenbelasting;
 
-- e. dat de hoogte van het bruto-inkomen uit arbeid over het desbetreffende jaar conform de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2023-03-01&g=2023-03-01) van de Regeling op de advocatuur opgenomen wijze is berekend.
+- e. dat de hoogte van het bruto-inkomen uit arbeid over het desbetreffende jaar conform de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2024-01-01&g=2024-01-01) van de Regeling op de advocatuur opgenomen wijze is berekend.
 
 #### Paragraaf 2.2. Vacatiegelden en vergoedingen
 
@@ -202,15 +202,15 @@ De advocaat is voor het afleggen van de proeve van bekwaamheid, bedoeld in [arti
 
 De algemene raad stelt vast als het formulier, bedoeld in [artikel 3.5, tweede lid, van de Verordening op de advocatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=3.5):
 
-- a. voor de stagiaire-ondernemer: het Formulier verzoek tot goedkeuring stage en patroon voor stagiaire-ondernemer, bedoeld in [bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&bijlage=1a&z=2023-03-01&g=2023-03-01) van deze regeling;
+- a. voor de stagiaire-ondernemer: het Formulier verzoek tot goedkeuring stage en patroon voor stagiaire-ondernemer, bedoeld in [bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&bijlage=1a&z=2024-01-01&g=2024-01-01) van deze regeling;
 
-- b. voor de buitenstagiaire: het Formulier verzoek tot vrijstelling kantoor te houden bij de patroon en goedkeuring stage en patroon, bedoeld in [bijlage 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&bijlage=1b&z=2023-03-01&g=2023-03-01) van deze regeling;
+- b. voor de buitenstagiaire: het Formulier verzoek tot vrijstelling kantoor te houden bij de patroon en goedkeuring stage en patroon, bedoeld in [bijlage 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&bijlage=1b&z=2024-01-01&g=2024-01-01) van deze regeling;
 
-- c. voor de stagiaire in dienst bij een werkgever als bedoeld in artikel 5.9, onderdelen e, f, en g: het Formulier verzoek tot goedkeuring stage en patroon ‘stage in dienst’, bedoeld in [bijlage 1c](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&bijlage=1c&z=2023-03-01&g=2023-03-01) van deze regeling;
+- c. voor de stagiaire in dienst bij een werkgever als bedoeld in artikel 5.9, onderdelen e, f, en g: het Formulier verzoek tot goedkeuring stage en patroon ‘stage in dienst’, bedoeld in [bijlage 1c](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&bijlage=1c&z=2024-01-01&g=2024-01-01) van deze regeling;
 
-- d. voor andere stagiaires: het Formulier verzoek tot goedkeuring stage en patroon, bedoeld in [bijlage 1d](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&bijlage=1d&z=2023-03-01&g=2023-03-01) van deze regeling;
+- d. voor andere stagiaires: het Formulier verzoek tot goedkeuring stage en patroon, bedoeld in [bijlage 1d](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&bijlage=1d&z=2024-01-01&g=2024-01-01) van deze regeling;
 
-- e. voor de wijziging van patroon: het Formulier verzoek tot wijziging patroon, bedoeld in [bijlage 1e](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&bijlage=1e&z=2023-03-01&g=2023-03-01) van deze regeling.
+- e. voor de wijziging van patroon: het Formulier verzoek tot wijziging patroon, bedoeld in [bijlage 1e](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&bijlage=1e&z=2024-01-01&g=2024-01-01) van deze regeling.
 
 ##### Artikel 12a. Nadere vereisten patroonscursus
 
@@ -232,7 +232,7 @@ De cursus voor patroons bedoeld in [artikel 3.5a, eerste lid, van de Verordening
 
 ##### Artikel 13. Accreditatie- en kwaliteitskader
 
-De algemene raad stelt vast als het accreditatiekader, bedoeld in [artikel 3.22a van de Verordening op de advocatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=3.22a): het accreditatie- en kwaliteitskader beroepsopleiding advocaten, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&bijlage=2&z=2023-03-01&g=2023-03-01).
+De algemene raad stelt vast als het accreditatiekader, bedoeld in [artikel 3.22a van de Verordening op de advocatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=3.22a): het accreditatie- en kwaliteitskader beroepsopleiding advocaten, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&bijlage=2&z=2024-01-01&g=2024-01-01).
 
 ### Hoofdstuk 4. Vakbekwaamheid
 
@@ -244,13 +244,11 @@ De algemene raad stelt vast als het accreditatiekader, bedoeld in [artikel 3.22a
 
 - a. intervisie vindt plaats in een groep van ten minste drie en ten hoogste tien advocaten;
 
-- b. de deelnemers zijn werkzaam op hetzelfde rechtsgebied of dezelfde rechtsgebieden;
+- b. deelnemende advocaten en de gespreksleider bespreken voorafgaand aan de intervisie de reikwijdte van de geheimhouding van hetgeen tijdens de intervisie wordt besproken;
 
-- c. deelnemende advocaten en de gespreksleider bespreken voorafgaand aan de intervisie de reikwijdte van de geheimhouding van hetgeen tijdens de intervisie wordt besproken;
+- c. de advocaten brengen ieder in één of meer dilemma’s of vragen over het eigen functioneren, de praktijkvoering of de praktijkuitoefening in; en
 
-- d. de advocaten brengen ieder in één of meer dilemma’s of vragen over het eigen functioneren, de praktijkvoering of de praktijkuitoefening in; en
-
-- e. de gespreksleider bevestigt ieders deelname in een bewijs van deelname met een korte, niet inhoudelijke, omschrijving van hetgeen aan de orde is gekomen.
+- d. de gespreksleider bevestigt ieders deelname in een bewijs van deelname met een korte, niet inhoudelijke, omschrijving van hetgeen aan de orde is gekomen.
 
 2. Peer review als bedoeld in [artikel 4.3a, eerste lid, onderdeel b, van de Verordening](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=4.3a) voldoet aan volgende vereisten:
 
@@ -262,7 +260,7 @@ De algemene raad stelt vast als het accreditatiekader, bedoeld in [artikel 3.22a
 
 - d. voorafgaand aan de peer review voert de advocaat een zelfevaluatie uit ter voorbereiding op de review;
 
-- e. de review omvat ten minste vijf dossiers die door de reviewer worden geselecteerd in overleg met de advocaat. De reviewer maakt bij de review gebruik van de door de algemene raad vastgestelde beoordelingscriteria in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&bijlage=10&z=2023-03-01&g=2023-03-01);
+- e. de review omvat ten minste vijf dossiers die door de reviewer worden geselecteerd in overleg met de advocaat. De reviewer maakt bij de review gebruik van de door de algemene raad vastgestelde beoordelingscriteria in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&bijlage=10&z=2024-01-01&g=2024-01-01);
 
 - f. de review wordt afgesloten door een gesprek tussen de reviewer en de advocaat; en
 
@@ -276,13 +274,11 @@ Gestructureerd intercollegiaal overleg, als bedoeld in [artikel 4.3b van de Vero
 
 - b. voorafgaand aan ieder overleg wordt een deelnemer als begeleider aangewezen;
 
-- c. de advocaten en de begeleider zijn allen werkzaam op hetzelfde rechtsgebied of dezelfde rechtsgebieden;
+- c. de advocaten en de begeleider bespreken voorafgaand aan het overleg de reikwijdte van de geheimhouding van hetgeen tijdens het overleg wordt besproken;
 
-- d. de advocaten en de begeleider bespreken voorafgaand aan het overleg de reikwijdte van de geheimhouding van hetgeen tijdens het overleg wordt besproken;
+- d. de advocaten brengen ieder in één of meer vragen met betrekking tot de dagelijkse praktijkvoering; en
 
-- e. de advocaten brengen ieder in één of meer vragen met betrekking tot de dagelijkse praktijkvoering; en
-
-- f. de begeleider bevestigt ieders deelname in een bewijs van deelname met een korte, niet inhoudelijke, omschrijving van hetgeen aan de orde is gekomen.
+- e. de begeleider bevestigt ieders deelname in een bewijs van deelname met een korte, niet inhoudelijke, omschrijving van hetgeen aan de orde is gekomen.
 
 ##### Artikel 13c. Gespreksleider, reviewer en begeleider
 
@@ -354,7 +350,7 @@ De advocaat kan, ingevolge [artikel 4.4, zesde lid, aanhef en onderdeel a, van d
 
 - a. aan haar (potentiële) deelnemers kan meedelen hoeveel opleidingspunten behaald kunnen worden met het volgen van de aangeboden opleidingen;
 
-- b. het beeldmerk uit [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&bijlage=3&z=2023-03-01&g=2023-03-01) mag gebruiken voor zijn opleidingen.
+- b. het beeldmerk uit [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&bijlage=3&z=2024-01-01&g=2024-01-01) mag gebruiken voor zijn opleidingen.
 
 2. De opleidingsinstelling doet het verzoek om erkenning door middel van een door de algemene raad beschikbaar gesteld formulier en voegt daarbij de volgende documenten:
 
@@ -412,7 +408,7 @@ De advocaat kan, ingevolge [artikel 4.4, zesde lid, aanhef en onderdeel a, van d
 
 - iii. onvoldoende waarborg biedt dat er kennisoverdracht plaatsvindt.
 
-2. De algemene raad kan een verzoek om erkenning afwijzen indien naar zijn overtuiging de instelling niet voldoet of kan voldoen aan de bepalingen van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=4&paragraaf=4.2&artikel=18&z=2023-03-01&g=2023-03-01).
+2. De algemene raad kan een verzoek om erkenning afwijzen indien naar zijn overtuiging de instelling niet voldoet of kan voldoen aan de bepalingen van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=4&paragraaf=4.2&artikel=18&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 18. Verplichtingen erkende instellingen
 
@@ -432,11 +428,11 @@ De advocaat kan, ingevolge [artikel 4.4, zesde lid, aanhef en onderdeel a, van d
 
 8. De erkende opleidingsinstelling die het opleiden heeft ondergebracht bij een aparte opleidingsafdeling neemt het kwaliteitsplan en de monitor op in haar jaarplan en draagt zorg dat deze werkzaamheden worden afgebakend van de overige werkzaamheden van die instelling.
 
-9. De erkende opleidingsinstelling stelt per deelnemer de deelname aan een opleiding vast en verstrekt deelnemers een bewijsstuk met het aantal daadwerkelijk behaalde opleidingspunten voor het gevolgde onderwijs en het in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&bijlage=3&z=2023-03-01&g=2023-03-01) opgenomen beeldmerk, waarin het aantal daadwerkelijk behaalde punten is vermeld.
+9. De erkende opleidingsinstelling stelt per deelnemer de deelname aan een opleiding vast en verstrekt deelnemers een bewijsstuk met het aantal daadwerkelijk behaalde opleidingspunten voor het gevolgde onderwijs en het in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&bijlage=3&z=2024-01-01&g=2024-01-01) opgenomen beeldmerk, waarin het aantal daadwerkelijk behaalde punten is vermeld.
 
 10. De erkende opleidingsinstelling kent uitsluitend opleidingspunten toe aan de opleidingen die voldoen aan [artikel 4.4, vijfde lid, onderdeel a, van de Verordening](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=4.4).
 
-11. De erkende opleidingsinstelling gebruikt waar mogelijk en waar relevant het in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&bijlage=3&z=2023-03-01&g=2023-03-01) opgenomen beeldmerk, waarin zij het aantal punten vermeldt dat een advocaat met de betrokken opleiding kan behalen.
+11. De erkende opleidingsinstelling gebruikt waar mogelijk en waar relevant het in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&bijlage=3&z=2024-01-01&g=2024-01-01) opgenomen beeldmerk, waarin zij het aantal punten vermeldt dat een advocaat met de betrokken opleiding kan behalen.
 
 12. De erkende opleidingsinstelling is jaarlijks een vergoeding verschuldigd van € 300.
 
@@ -446,11 +442,11 @@ De advocaat kan, ingevolge [artikel 4.4, zesde lid, aanhef en onderdeel a, van d
 
 De algemene raad kan de erkenning intrekken indien:
 
-- a. de opleidingsinstelling de verplichtingen, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=4&paragraaf=4.2&artikel=18&z=2023-03-01&g=2023-03-01), niet nakomt;
+- a. de opleidingsinstelling de verplichtingen, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=4&paragraaf=4.2&artikel=18&z=2024-01-01&g=2024-01-01), niet nakomt;
 
-- b. zich een van de weigeringsgronden in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=4&paragraaf=4.2&artikel=17&z=2023-03-01&g=2023-03-01), voordoet;
+- b. zich een van de weigeringsgronden in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=4&paragraaf=4.2&artikel=17&z=2024-01-01&g=2024-01-01), voordoet;
 
-- c. het kwaliteitsplan niet nageleefd wordt of gewijzigd wordt, zodat het niet bijdraagt aan de doelstellingen, bedoeld in [artikel 17, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=4&paragraaf=4.2&artikel=17&z=2023-03-01&g=2023-03-01);
+- c. het kwaliteitsplan niet nageleefd wordt of gewijzigd wordt, zodat het niet bijdraagt aan de doelstellingen, bedoeld in [artikel 17, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=4&paragraaf=4.2&artikel=17&z=2024-01-01&g=2024-01-01);
 
 - d. de opleidingsinstelling daar schriftelijk om verzoekt.
 
@@ -466,11 +462,11 @@ De algemene raad kan de erkenning intrekken indien:
 
 - b. uiterlijk zes weken voor de datum van de desbetreffende toetsingsmogelijkheid aan de commissie cassatie de gegevens te verstrekken ten behoeve van de vaststelling dat de advocaat heeft voldaan aan het vereiste van [artikel 4.9, eerste lid, aanhef en onderdeel a, van de Verordening](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=4.9) respectievelijk de vereisten van de [artikelen 4.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=4.13), en [4.14, van de Verordening](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=4.14);
 
-- c. uiterlijk zes weken voor de datum van de desbetreffende toetsingsmogelijkheid het door de algemene raad vastgestelde bedrag te hebben voldaan, bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=2&paragraaf=2.4&artikel=10&z=2023-03-01&g=2023-03-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=2&paragraaf=2.4&artikel=11&z=2023-03-01&g=2023-03-01) van deze regeling voor het afleggen van het examen onderscheidenlijk de proeve.
+- c. uiterlijk zes weken voor de datum van de desbetreffende toetsingsmogelijkheid het door de algemene raad vastgestelde bedrag te hebben voldaan, bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=2&paragraaf=2.4&artikel=10&z=2024-01-01&g=2024-01-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=2&paragraaf=2.4&artikel=11&z=2024-01-01&g=2024-01-01) van deze regeling voor het afleggen van het examen onderscheidenlijk de proeve.
 
 3. De voorzitter van de commissie cassatie is in voorkomend geval bevoegd om af te wijken van de termijn, bedoeld in het tweede lid, aanhef en onderdeel a.
 
-4. Bij aanmelding voor het examen geeft de advocaat een uitspraak van de Hoge Raad naar eigen keuze op als bedoeld in [artikel 21, aanhef en onderdeel b, tweede subonderdeel](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=4&paragraaf=4.3&artikel=21&z=2023-03-01&g=2023-03-01).
+4. Bij aanmelding voor het examen geeft de advocaat een uitspraak van de Hoge Raad naar eigen keuze op als bedoeld in [artikel 21, aanhef en onderdeel b, tweede subonderdeel](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=4&paragraaf=4.3&artikel=21&z=2024-01-01&g=2024-01-01).
 
 5. Op verzoek legitimeert de advocaat onderscheidenlijk de advocaat bij de Hoge Raad zich met een geldig legitimatiebewijs, bijvoorbeeld zijn advocatenpas.
 
@@ -496,7 +492,7 @@ De examenstof, bedoeld in [artikel 4.9, vijfde lid, van de Verordening](https://
 
 ##### Artikel 22. Afleggen examen
 
-1. Tijdens het examen wordt de in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=4&paragraaf=4.3&artikel=21&z=2023-03-01&g=2023-03-01) omschreven kennis getoetst, waarbij als richtlijn de navolgende indeling wordt gehanteerd:
+1. Tijdens het examen wordt de in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=4&paragraaf=4.3&artikel=21&z=2024-01-01&g=2024-01-01) omschreven kennis getoetst, waarbij als richtlijn de navolgende indeling wordt gehanteerd:
 
 - a. burgerlijk procesrecht, daaronder begrepen appel- en cassatieprocesrecht in samenhang met het privaatrecht en de voorgeschreven jurisprudentie;
 
@@ -542,7 +538,7 @@ De examenstof, bedoeld in [artikel 4.9, vijfde lid, van de Verordening](https://
 
 ##### Artikel 25. Model professioneel statuut
 
-1. De algemene raad stelt als het model voor het professioneel statuut vast, het model in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&bijlage=4&z=2023-03-01&g=2023-03-01).
+1. De algemene raad stelt als het model voor het professioneel statuut vast, het model in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&bijlage=4&z=2024-01-01&g=2024-01-01).
 
 2. Het in het eerste lid bedoelde model is van toepassing op professionele statuten die overeengekomen zijn voor het moment van inwerkingtreding van dit artikel, indien deze worden gewijzigd.
 
@@ -698,13 +694,13 @@ De advocaat beschrijft, op grond van [artikel 6.4 van de Verordening](https://we
 
 ##### Artikel 33. Modelstatuten stichting derdengelden
 
-1. De algemene raad stelt als het model voor de statuten vast, het model in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&bijlage=5&z=2023-03-01&g=2023-03-01).
+1. De algemene raad stelt als het model voor de statuten vast, het model in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&bijlage=5&z=2024-01-01&g=2024-01-01).
 
 2. Het in het eerste lid bedoelde model geldt voor stichtingen die worden opgericht en statuten die anderszins worden gewijzigd na inwerkingtreding van dit artikel.
 
 ##### Artikel 34. Overeenkomst stichting derdengelden
 
-1. De algemene raad stelt vast als het model voor de overeenkomst tussen de stichting derdengelden en de advocaat of zijn kantoor, het model in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&bijlage=6&z=2023-03-01&g=2023-03-01).
+1. De algemene raad stelt vast als het model voor de overeenkomst tussen de stichting derdengelden en de advocaat of zijn kantoor, het model in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&bijlage=6&z=2024-01-01&g=2024-01-01).
 
 2. Het in het eerste lid bedoelde model geldt voor overeenkomsten die gesloten of gewijzigd worden na inwerkingtreding van dit artikel.
 
@@ -712,7 +708,7 @@ De advocaat beschrijft, op grond van [artikel 6.4 van de Verordening](https://we
 
 ##### Artikel 35. Vrijwaring van beroepsaansprakelijkheid
 
-De algemene raad stelt als het model vrijwaringsovereenkomst beroepsaansprakelijkheid door de Staat vast, het model in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&bijlage=7&z=2023-03-01&g=2023-03-01).
+De algemene raad stelt als het model vrijwaringsovereenkomst beroepsaansprakelijkheid door de Staat vast, het model in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&bijlage=7&z=2024-01-01&g=2024-01-01).
 
 #### Paragraaf 5.7. Registratie rechtsgebieden
 
@@ -724,9 +720,9 @@ De algemene raad stelt als het model vrijwaringsovereenkomst beroepsaansprakelij
 
 ##### Artikel 35b. Modellen bekendmaking en lijst van rechtsgebieden
 
-1. De algemene raad stelt vast als modellen voor het openbaar en publiekelijk toegankelijk bekendmaken, de modellen in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&bijlage=8&z=2023-03-01&g=2023-03-01).
+1. De algemene raad stelt vast als modellen voor het openbaar en publiekelijk toegankelijk bekendmaken, de modellen in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&bijlage=8&z=2024-01-01&g=2024-01-01).
 
-2. De algemene raad stelt vast als lijst van rechtsgebieden, de lijst in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&bijlage=9&z=2023-03-01&g=2023-03-01).
+2. De algemene raad stelt vast als lijst van rechtsgebieden, de lijst in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&bijlage=9&z=2024-01-01&g=2024-01-01).
 
 ### Hoofdstuk 6. Termijn herintreden na schrapping
 
@@ -767,7 +763,7 @@ Dit besluit wordt aangehaald als: Regeling op de advocatuur.
 
 ## Bijlage 1a. Formulier verzoek tot goedkeuring stage en patroon stagiaire- ondernemer
 
-behorend bij [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=3&artikel=12&z=2023-03-01&g=2023-03-01) van de Regeling op de advocatuur
+behorend bij [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=3&artikel=12&z=2024-01-01&g=2024-01-01) van de Regeling op de advocatuur
 
 In te dienen bij de raad van de orde voorafgaand aan de indiening van het verzoek tot beëdiging.
 
@@ -803,7 +799,7 @@ Ondergetekende verklaart bekend te zijn met de ten deze toepasselijke bepalingen
 
 De navolgende bijlagen worden bijgevoegd:
 
-- •. de verklaring van de beoogd patroon in te stemmen met het patronaat, met overlegging van het certificaat waaruit blijkt dat de beoogd patroon een patroonscursus zoals omschreven in [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=3&artikel=12a&z=2023-03-01&g=2023-03-01) van de Regeling op de advocatuur heeft gevolgd;
+- •. de verklaring van de beoogd patroon in te stemmen met het patronaat, met overlegging van het certificaat waaruit blijkt dat de beoogd patroon een patroonscursus zoals omschreven in [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=3&artikel=12a&z=2024-01-01&g=2024-01-01) van de Regeling op de advocatuur heeft gevolgd;
 
 - •. de relevante overeenkomsten met de beoogd patroon of zijn/haar kantoor, zoals de samenwerkingsovereenkomst;
 
@@ -859,7 +855,7 @@ In het geval de stagiaire en/of beoogd patroon afwezig is/zijn, bijvoorbeeld doo
 
 ## Bijlage 1b. Formulier verzoek tot vrijstelling kantoor te houden bij de patroon en goedkeuring stage en patroon
 
-Behorend bij [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=3&artikel=12&z=2023-03-01&g=2023-03-01) van de Regeling op de advocatuur
+Behorend bij [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=3&artikel=12&z=2024-01-01&g=2024-01-01) van de Regeling op de advocatuur
 
 (buitenstagiaire)
 
@@ -903,7 +899,7 @@ De navolgende bijlagen worden bijgevoegd:
 
 - •. een overzicht van de kantoorsamenstelling van zowel het kantoor van de beoogd patroon als het kantoor van de stagiaire onder vermelding van beëdigingsdatum van de op het kantoor van de beoogd patroon werkzame advocaten. Bij de stagiaire(s), werkzaam op het kantoor van de beoogd patroon, dient de patroon te worden vermeld. Tevens dient vermeld te worden of er ook juridisch medewerkers aan het kantoor verbonden zijn;
 
-- •. de verklaring van de beoogd patroon in te stemmen met het patronaat, met overlegging van het certificaat waaruit blijkt dat de beoogd patroon een patroonscursus zoals omschreven in [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=3&artikel=12a&z=2023-03-01&g=2023-03-01) van de Regeling op de advocatuur heeft gevolgd;
+- •. de verklaring van de beoogd patroon in te stemmen met het patronaat, met overlegging van het certificaat waaruit blijkt dat de beoogd patroon een patroonscursus zoals omschreven in [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=3&artikel=12a&z=2024-01-01&g=2024-01-01) van de Regeling op de advocatuur heeft gevolgd;
 
 - •. de arbeidsovereenkomst;
 
@@ -943,7 +939,7 @@ In het geval de stagiaire en/of beoogd patroon afwezig is/zijn, bijvoorbeeld doo
 
 ## Bijlage 1c. Formulier verzoek tot goedkeuring stage en patroon ‘stage in dienst’ van een werkgever anders dan advocatenkantoor
 
-Behorend bij [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=3&artikel=12&z=2023-03-01&g=2023-03-01) van de Regeling op de advocatuur
+Behorend bij [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=3&artikel=12&z=2024-01-01&g=2024-01-01) van de Regeling op de advocatuur
 
 **(artikel 3.5, tweede lid, van de Verordening op de advocatuur)**
 
@@ -990,7 +986,7 @@ De navolgende bijlagen worden bijgevoegd:
 
 - •. een verklaring van de werkgever overeenkomstig [artikel 6.24, tweede lid, van de Verordening op de advocatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=6.24);
 
-- •. de verklaring van de beoogd patroon in te stemmen met het patronaat, met overlegging van het certificaat waaruit blijkt dat de beoogd patroon een patroonscursus zoals omschreven in [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=3&artikel=12a&z=2023-03-01&g=2023-03-01) van de Regeling op de advocatuur heeft gevolgd;
+- •. de verklaring van de beoogd patroon in te stemmen met het patronaat, met overlegging van het certificaat waaruit blijkt dat de beoogd patroon een patroonscursus zoals omschreven in [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=3&artikel=12a&z=2024-01-01&g=2024-01-01) van de Regeling op de advocatuur heeft gevolgd;
 
 - •. de arbeidsovereenkomst;
 
@@ -1026,7 +1022,7 @@ In het geval de stagiaire en/of beoogd patroon afwezig is/zijn, bijvoorbeeld doo
 
 ## Bijlage 1d. Formulier verzoek tot goedkeuring stage en patroon
 
-Behorend bij [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=3&artikel=12&z=2023-03-01&g=2023-03-01) van de Regeling op de advocatuur
+Behorend bij [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=3&artikel=12&z=2024-01-01&g=2024-01-01) van de Regeling op de advocatuur
 
 ([artikel 3.5, tweede lid, van de Verordening op de advocatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=3.5))
 
@@ -1062,7 +1058,7 @@ De navolgende bijlagen worden bijgevoegd:
 
 - •. de arbeidsovereenkomst;
 
-- •. de verklaring van de beoogd patroon in te stemmen met het patronaat, met overlegging van het certificaat waaruit blijkt dat de beoogd patroon een patroonscursus zoals omschreven in [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=3&artikel=12a&z=2023-03-01&g=2023-03-01) van de Regeling op de advocatuur heeft gevolgd;
+- •. de verklaring van de beoogd patroon in te stemmen met het patronaat, met overlegging van het certificaat waaruit blijkt dat de beoogd patroon een patroonscursus zoals omschreven in [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=3&artikel=12a&z=2024-01-01&g=2024-01-01) van de Regeling op de advocatuur heeft gevolgd;
 
 - •. het begeleidingsplan met daarin opgenomen de afspraken inzake de concrete begeleiding van de stagiaire.
 
@@ -1096,7 +1092,7 @@ In het geval de stagiaire en/of beoogd patroon afwezig is/zijn, bijvoorbeeld doo
 | .............................................. | .............................................. |
 | (plaats, datum) | (handtekening beoogd patroon) |
 
-## Bijlage 1e. Formulier verzoek tot wijziging patroon behorend bij [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=3&artikel=12&z=2023-03-01&g=2023-03-01)
+## Bijlage 1e. Formulier verzoek tot wijziging patroon behorend bij [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=3&artikel=12&z=2024-01-01&g=2024-01-01)
 
 **(artikel 3.5, tweede lid, van de Verordening op de advocatuur)**
 
@@ -1159,7 +1155,7 @@ De navolgende bijlagen worden bijgevoegd:
 
 - •. arbeidsovereenkomst (bij wijziging kantoor);
 
-- •. de verklaring van de beoogd patroon in te stemmen met het patronaat, met overlegging van het certificaat waaruit blijkt dat de beoogd patroon een patroonscursus zoals omschreven in [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=3&artikel=12a&z=2023-03-01&g=2023-03-01) van de Regeling op de advocatuur heeft gevolgd;
+- •. de verklaring van de beoogd patroon in te stemmen met het patronaat, met overlegging van het certificaat waaruit blijkt dat de beoogd patroon een patroonscursus zoals omschreven in [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=3&artikel=12a&z=2024-01-01&g=2024-01-01) van de Regeling op de advocatuur heeft gevolgd;
 
 - •. het begeleidingsplan met daarin opgenomen de afspraken inzake de concrete begeleiding van de stagiaire.
 
@@ -1511,7 +1507,7 @@ Tegen het besluit tot (afwijzing van de aanvraag tot) accreditatie kan door bela
 
 ## Bijlage 3. Beeldmerk opleidingspunten erkende opleidingsinstellingen
 
-Behorend bij [artikel 16, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=4&paragraaf=4.2&artikel=16&z=2023-03-01&g=2023-03-01), en [artikel 18, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=4&paragraaf=4.2&artikel=18&z=2023-03-01&g=2023-03-01), van de Regeling op de advocatuur
+Behorend bij [artikel 16, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=4&paragraaf=4.2&artikel=16&z=2024-01-01&g=2024-01-01), en [artikel 18, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=4&paragraaf=4.2&artikel=18&z=2024-01-01&g=2024-01-01), van de Regeling op de advocatuur
 
 ### Gebruik van erkenningsvignet en puntenlogo
 
@@ -1533,7 +1529,7 @@ Bij onbevoegd gebruik van het erkenningsvignet of het puntenlogo heeft de algeme
 
 ## Bijlage 4. Professioneel statuut voor de advocaat in dienstbetrekking
 
-Behorend bij [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=5&paragraaf=5.1&artikel=25&z=2023-03-01&g=2023-03-01) van de Regeling op de advocatuur
+Behorend bij [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=5&paragraaf=5.1&artikel=25&z=2024-01-01&g=2024-01-01) van de Regeling op de advocatuur
 
 De ondergetekenden:
 
@@ -1619,7 +1615,7 @@ Het bepaalde in de laatste volzin van dit artikel heeft vanzelfsprekend beperkte
 
 ## Bijlage 5. Model Statuten stichting derdengelden (algemeen)
 
-Behorend bij [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=5&paragraaf=5.5&artikel=33&z=2023-03-01&g=2023-03-01) van de Regeling op de advocatuur
+Behorend bij [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=5&paragraaf=5.5&artikel=33&z=2024-01-01&g=2024-01-01) van de Regeling op de advocatuur
 
 .......... tweeduizend .......... verschijnt voor mij,
 
@@ -1681,7 +1677,7 @@ Nadat de zakelijke inhoud van de akte aan de comparant is opgegeven en hij heeft
 
 ## Bijlage 6. Model overeenkomst kantoor-stichting derdengelden
 
-Behorend bij [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=5&paragraaf=5.5&artikel=34&z=2023-03-01&g=2023-03-01) van de Regeling op de advocatuur
+Behorend bij [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=5&paragraaf=5.5&artikel=34&z=2024-01-01&g=2024-01-01) van de Regeling op de advocatuur
 
 De ondergetekenden:
 
@@ -1733,7 +1729,7 @@ Getekend in ......... voud te .......... op ..........
 
 ## Bijlage 7. Modelovereenkomst vrijwaring door de staat beroepsaansprakelijkheid
 
-Behorend bij [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=5&paragraaf=5.6&artikel=35&z=2023-03-01&g=2023-03-01) van de Regeling op de advocatuur
+Behorend bij [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=5&paragraaf=5.6&artikel=35&z=2024-01-01&g=2024-01-01) van de Regeling op de advocatuur
 
 De Minister van .........................., ten deze vertegenwoordigd door ......., verklaart
 
@@ -1747,7 +1743,7 @@ ter zake van schade, hen toegebracht door of als gevolg van handelingen van mr .
 
 ## Bijlage 8. Modellen openbaar en publiekelijk toegankelijk bekend maken van registratie
 
-Behorend bij [artikel 35b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=5&paragraaf=5.7&artikel=35b&z=2023-03-01&g=2023-03-01), van de Regeling op de advocatuur
+Behorend bij [artikel 35b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=5&paragraaf=5.7&artikel=35b&z=2024-01-01&g=2024-01-01), van de Regeling op de advocatuur
 
 ### Model 1 (individuele advocaat)
 
@@ -1833,7 +1829,7 @@ Based on this registration, he/she is required to obtain ten training credits pe
 
 ## Bijlage 9. Lijst van rechtsgebieden per 1 januari 2021
 
-Behorend bij [artikel 35b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=5&paragraaf=5.7&artikel=35b&z=2023-03-01&g=2023-03-01), van de Regeling op de advocatuur
+Behorend bij [artikel 35b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046271&hoofdstuk=5&paragraaf=5.7&artikel=35b&z=2024-01-01&g=2024-01-01), van de Regeling op de advocatuur
 
 Lijst van hoofdrechtsgebieden, waarvoor de registratieplicht geldt als bedoeld in [artikel 6.32 lid 1 Voda](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=6.32):
 
