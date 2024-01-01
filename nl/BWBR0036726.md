@@ -4,7 +4,7 @@ identifier: "BWBR0036726"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2015-07-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036726"
 soort: "ministeriele-regeling"
@@ -46,11 +46,11 @@ Naast de korpschef bestaat de leiding van de politie, bedoeld in [artikel 28, de
 
 ##### Artikel 2
 
-Naast de politiechef bestaat de leiding van de regionale en landelijke eenheden uit de volgende leden:
+Naast de politiechef bestaat de leiding van een landelijke eenheid uit de volgende leden:
 
 - a. een hoofd Operatiën, tevens plaatsvervangend politiechef;
 
-- b. een hoofd Operatiën;
+- b. tenminste één hoofd Operatiën;
 
 - c. een hoofd Bedrijfsvoering.
 
@@ -61,5 +61,17 @@ Deze regeling treedt in werking met ingang van 1 juli 2015.
 ##### Artikel 4
 
 Deze regeling wordt aangehaald als: Regeling aanwijzing leden korpsleiding en leiding landelijke en regionale eenheden.
+
+Deze regeling zal met de toelichting in de Staatscourant worden gepubliceerd.
+
+##### Artikel 2a
+
+Naast de politiechef bestaat de leiding van een regionale eenheid uit de volgende leden:
+
+- a. een hoofd Operatiën, tevens plaatsvervangend politiechef;
+
+- b. een hoofd Operatiën;
+
+- c. een hoofd Bedrijfsvoering.
 
 Deze regeling zal met de toelichting in de Staatscourant worden gepubliceerd.
