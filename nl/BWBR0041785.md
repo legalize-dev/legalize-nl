@@ -4,7 +4,7 @@ identifier: "BWBR0041785"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2023-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041785"
 soort: "ministeriele-regeling"
@@ -48,9 +48,9 @@ Deze regeling geeft uitvoering aan [artikel 13ab van de Wet op de vennootschapsb
 
 Als staten als bedoeld in [artikel 13ab, derde lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13ab) worden aangewezen:
 
-- a. op grond van [artikel 13ab, derde lid, onderdeel d, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13ab): Anguilla, Bahama’s, Bahrein, Barbados, Bermuda, Britse Maagdeneilanden, Guernsey, Isle of Man, Jersey, Kaaimaneilanden, Turkmenistan, Turks- en Caicoseilanden, Vanuatu en Verenigde Arabische Emiraten;
+- a. op grond van [artikel 13ab, derde lid, onderdeel d, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13ab): Anguilla, Bahama’s, Bahrein, Barbados, Bermuda, Britse Maagdeneilanden, Guernsey, Isle of Man, Jersey, Kaaimaneilanden, Turkmenistan, Turks- en Caicoseilanden, Vanuatu en;
 
-- b. op grond van [artikel 13ab, derde lid, onderdeel e, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13ab): Amerikaanse Maagdeneilanden, Amerikaans Samoa, Anguilla, Bahama’s, Fiji, Guam, Palau, Panama, Samoa, Trinidad en Tobago, Turks- en Caicoseilanden en Vanuatu.
+- b. op grond van [artikel 13ab, derde lid, onderdeel e, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13ab): Amerikaanse Maagdeneilanden, Amerikaans Samoa, Anguilla, Antigua en Barbuda, Bahama’s, Belize, Fiji, Guam, Palau, Panama, Russische Federatie, Samoa, Seychellen, Trinidad en Tobago, Turks- en Caicoseilanden en Vanuatu.
 
 ##### Artikel 3. Citeertitel
 
@@ -66,8 +66,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Als staten als bedoeld in [artikel 1.2, eerste lid, onderdeel e, van de Wet bronbelasting 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&artikel=1.2) worden aangewezen:
 
-- a. op grond van [artikel 1.2, eerste lid, onderdeel e, onder 1°, van de Wet bronbelasting 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&artikel=1.2): Anguilla, Bahama’s, Bahrein, Barbados, Bermuda, Britse Maagdeneilanden, Guernsey, Isle of Man, Jersey, Kaaimaneilanden, Turkmenistan, Turks- en Caicoseilanden, Vanuatu en Verenigde Arabische Emiraten;
+- a. op grond van [artikel 1.2, eerste lid, onderdeel e, onder 1°, van de Wet bronbelasting 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&artikel=1.2): Anguilla, Bahama’s, Bahrein, Barbados, Bermuda, Britse Maagdeneilanden, Guernsey, Isle of Man, Jersey, Kaaimaneilanden, Turkmenistan, Turks- en Caicoseilanden, Vanuatu en;
 
-- b. op grond van [artikel 1.2, eerste lid, onderdeel e, onder 2°, van de Wet bronbelasting 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&artikel=1.2): Amerikaanse Maagdeneilanden, Amerikaans Samoa, Anguilla, Bahama’s, Fiji, Guam, Palau, Panama, Samoa, Trinidad en Tobago, Turks- en Caicoseilanden en Vanuatu.
+- b. op grond van [artikel 1.2, eerste lid, onderdeel e, onder 2°, van de Wet bronbelasting 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&artikel=1.2): Amerikaanse Maagdeneilanden, Amerikaans Samoa, Anguilla, Antigua en Barbuda, Bahama’s, Belize, Fiji, Guam, Palau, Panama, Russische Federatie, Samoa, Seychellen, Trinidad en Tobago, Turks- en Caicoseilanden en Vanuatu.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
