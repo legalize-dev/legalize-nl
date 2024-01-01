@@ -4,7 +4,7 @@ identifier: "BWBR0028616"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2024-01-01"
-last_updated: "2010-10-10"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028616"
 soort: "wet-BES"
@@ -283,7 +283,7 @@ Ingeval van gelijktijdige benoeming geldt als oudst benoemde het lid, wiens naam
 
 - b. wegens wangedrag of onzedelijkheid of bij herhaaldelijk gebleken achteloosheid in de uitoefening hunner functie;
 
-- c. wegens het plegen van in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=II&hoofdstuk=Tweede&paragraaf=2&artikel=29&z=2010-10-10&g=2010-10-10) verboden handelingen.
+- c. wegens het plegen van in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=II&hoofdstuk=Tweede&paragraaf=2&artikel=29&z=2024-01-01&g=2024-01-01) verboden handelingen.
 
 2. Zij worden door het hof van justitie bij met redenen omklede beschikken ontslagen:
 
@@ -291,7 +291,7 @@ Ingeval van gelijktijdige benoeming geldt als oudst benoemde het lid, wiens naam
 
 - b. indien zij hun woonplaats overbrengen buiten het rechtsgebied van de raad;
 
-- c. indien zij een functie aanvaarden als bedoeld in het tweede lid van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=II&hoofdstuk=Tweede&paragraaf=1&artikel=20&z=2010-10-10&g=2010-10-10).
+- c. indien zij een functie aanvaarden als bedoeld in het tweede lid van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=II&hoofdstuk=Tweede&paragraaf=1&artikel=20&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 24
 
@@ -307,7 +307,7 @@ Alvorens een lid van de raad te ontslaan, stelt het hof van justitie dit lid in 
 
 - c. zich in voorlopige hechtenis bevinden;
 
-- d. in een krankzinnigengesticht zijn opgenomen.
+- d. in een psychiatrisch ziekenhuis zijn opgenomen.
 
 2. Het hof van justitie heft, op dezelfde wijze, de schorsing op, nadat de reden is vervallen die daartoe aanleiding gaf.
 
@@ -353,13 +353,13 @@ Op bij algemene maatregel van bestuur te bepalen voet kan aan de benoemde leden 
 
 ##### Artikel 31
 
-[Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=II&hoofdstuk=Eerste&paragraaf=2&artikel=13&z=2010-10-10&g=2010-10-10) vindt ten deze overeenkomstige toepassing.
+[Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=II&hoofdstuk=Eerste&paragraaf=2&artikel=13&z=2024-01-01&g=2024-01-01) vindt ten deze overeenkomstige toepassing.
 
 #### § 3. Wraking, verschoning en uitsluiting
 
 ##### Artikel 32
 
-[Artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=II&hoofdstuk=Eerste&paragraaf=3&artikel=14&z=2010-10-10&g=2010-10-10) vindt ten deze overeenkomstige toepassing.
+[Artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=II&hoofdstuk=Eerste&paragraaf=3&artikel=14&z=2024-01-01&g=2024-01-01) vindt ten deze overeenkomstige toepassing.
 
 ##### Artikel 33
 
@@ -371,7 +371,7 @@ Op bij algemene maatregel van bestuur te bepalen voet kan aan de benoemde leden 
 
 ##### Artikel 34
 
-[Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=II&hoofdstuk=Eerste&paragraaf=3&artikel=16&z=2010-10-10&g=2010-10-10) vindt ten deze overeenkomstige toepassing.
+[Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=II&hoofdstuk=Eerste&paragraaf=3&artikel=16&z=2024-01-01&g=2024-01-01) vindt ten deze overeenkomstige toepassing.
 
 ## Titel III. Procedure op bezwaarschriften
 
@@ -471,7 +471,7 @@ Tegen de weigering staat geen voorziening open.
 
 ##### Artikel 45
 
-De rechter wijst de inzender van een bezwaarschrift, die de voorschriften van de [artikelen 43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&artikel=43&z=2010-10-10&g=2010-10-10), of [44](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=1&artikel=44&z=2010-10-10&g=2010-10-10) niet in acht genomen heeft, op het gepleegde verzuim en nodigt hem uit, dit binnen een bepaalde termijn te herstellen.
+De rechter wijst de inzender van een bezwaarschrift, die de voorschriften van de [artikelen 43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&artikel=43&z=2024-01-01&g=2024-01-01), of [44](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=1&artikel=44&z=2024-01-01&g=2024-01-01) niet in acht genomen heeft, op het gepleegde verzuim en nodigt hem uit, dit binnen een bepaalde termijn te herstellen.
 
 ##### Artikel 46
 
@@ -489,7 +489,7 @@ Indien meer partijen binnen de daarvoor bepaalde termijn bezwaar ingebracht hebb
 
 ##### Artikel 49
 
-Wordt van een bezwaarschrift niet een genoegzaam aantal afschriften ingezonden ter voldoening aan het voorschrift van [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=1&artikel=47&z=2010-10-10&g=2010-10-10), dan worden de ontbrekende afschriften kosteloos door de griffier van het gerecht vervaardigd.
+Wordt van een bezwaarschrift niet een genoegzaam aantal afschriften ingezonden ter voldoening aan het voorschrift van [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=1&artikel=47&z=2024-01-01&g=2024-01-01), dan worden de ontbrekende afschriften kosteloos door de griffier van het gerecht vervaardigd.
 
 ##### Artikel 50
 
@@ -517,7 +517,7 @@ Wordt van een bezwaarschrift niet een genoegzaam aantal afschriften ingezonden t
 
 ##### Artikel 52
 
-1. Het administratief orgaan dat als verweerder optreedt, zendt tegelijk met de contra-memorie in [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=1&artikel=51&z=2010-10-10&g=2010-10-10) bedoeld, althans uiterlijk binnen de termijn gesteld in het eerste lid van het vorige artikel, alle zich onder zijn berusting bevindende tot de zaak betrekkelijke stukken in ter griffie van het gerecht, met uitzondering alleen van de zodanige, tegen welker inzending het openbaar belang zich bepaaldelijk verzet. Ingezonden worden hetzij de oorspronkelijke stukken, hetzij gewaarmerkt afschriften. Op verzoek van de verweerder kan de rechter de in de eerste volzin vermelde termijn verlengen.
+1. Het administratief orgaan dat als verweerder optreedt, zendt tegelijk met de contra-memorie in [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=1&artikel=51&z=2024-01-01&g=2024-01-01) bedoeld, althans uiterlijk binnen de termijn gesteld in het eerste lid van het vorige artikel, alle zich onder zijn berusting bevindende tot de zaak betrekkelijke stukken in ter griffie van het gerecht, met uitzondering alleen van de zodanige, tegen welker inzending het openbaar belang zich bepaaldelijk verzet. Ingezonden worden hetzij de oorspronkelijke stukken, hetzij gewaarmerkt afschriften. Op verzoek van de verweerder kan de rechter de in de eerste volzin vermelde termijn verlengen.
 
 2. Voor zover nodig neemt de rechter maatregelen ter verzekering van de geheimhouding.
 
@@ -525,11 +525,11 @@ Wordt van een bezwaarschrift niet een genoegzaam aantal afschriften ingezonden t
 
 ##### Artikel 53
 
-1. De rechter is bevoegd aan het administratief orgaan hetwelk partij in het geding is en aan andere administratieve organen te vragen binnen een door hem te bepalen termijn schriftelijk inlichtingen te verschaffen en onder hen berustende of te hunner beschikking staande stukken, voorzover deze laatste niet reeds onder [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=1&artikel=52&z=2010-10-10&g=2010-10-10) vallen, en voorwerpen in te zenden. De stukken kunnen in gewaarmerkt afschrift worden ingezonden.
+1. De rechter is bevoegd aan het administratief orgaan hetwelk partij in het geding is en aan andere administratieve organen te vragen binnen een door hem te bepalen termijn schriftelijk inlichtingen te verschaffen en onder hen berustende of te hunner beschikking staande stukken, voorzover deze laatste niet reeds onder [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=1&artikel=52&z=2024-01-01&g=2024-01-01) vallen, en voorwerpen in te zenden. De stukken kunnen in gewaarmerkt afschrift worden ingezonden.
 
 2. Indien het openbaar belang zulks bepaaldelijk vordert, kunnen de administratieve organen het verschaffen van bepaalde inlichtingen of de inzending van bepaalde stukken en voorwerpen weigeren.
 
-3. Het tweede en het derde lid van [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=1&artikel=52&z=2010-10-10&g=2010-10-10) vinden overeenkomstige toepassing.
+3. Het tweede en het derde lid van [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=1&artikel=52&z=2024-01-01&g=2024-01-01) vinden overeenkomstige toepassing.
 
 ##### Artikel 54
 
@@ -577,7 +577,7 @@ Wordt van een bezwaarschrift niet een genoegzaam aantal afschriften ingezonden t
 
 ##### Artikel 60
 
-1. De rechter begroot de ingevolge [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=2&artikel=59&z=2010-10-10&g=2010-10-10) verschuldigde vergoeding volgens de bepalingen van het tarief van gerechtskosten en salarissen in burgerlijke zaken.
+1. De rechter begroot de ingevolge [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=2&artikel=59&z=2024-01-01&g=2024-01-01) verschuldigde vergoeding volgens de bepalingen van het tarief van gerechtskosten en salarissen in burgerlijke zaken.
 
 2. De begroting is op de minuut uitvoerbaar overeenkomstig de bepalingen van het [Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496).
 
@@ -589,7 +589,7 @@ Wordt van een bezwaarschrift niet een genoegzaam aantal afschriften ingezonden t
 
 3. Het bedrag der te vergoeden kosten wordt bij de uitspraak vastgesteld. Door de rechter wordt daarvoor, zodra de uitspraak in kracht van gewijsde is gegaan, een bevelschrift van tenuitvoerlegging afgegeven.
 
-4. De voorgaande leden vinden overeenkomstige toepassing, indien een bezwaar wordt ingetrokken, omdat de administratie op de aangevallen beschikking of de aangevallen handeling of weigering is teruggekomen. De rechter bepaalt in dit geval op verzoek van degene die het bezwaar intrekt, bij afzonderlijke uitspraak het bedrag der vergoeding. [Artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=1&artikel=53&z=2010-10-10&g=2010-10-10) is van overeenkomstige toepassing.
+4. De voorgaande leden vinden overeenkomstige toepassing, indien een bezwaar wordt ingetrokken, omdat de administratie op de aangevallen beschikking of de aangevallen handeling of weigering is teruggekomen. De rechter bepaalt in dit geval op verzoek van degene die het bezwaar intrekt, bij afzonderlijke uitspraak het bedrag der vergoeding. [Artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=1&artikel=53&z=2024-01-01&g=2024-01-01) is van overeenkomstige toepassing.
 
 #### § 3. Openbare behandeling
 
@@ -635,7 +635,7 @@ Alle ter zitting voorkomende geschillen, betreffende de wijze van behandeling de
 
 ##### Artikel 67
 
-Partijen en vertegenwoordigers kunnen zich, behoudens in het geval voorzien in [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=3&artikel=76&z=2010-10-10&g=2010-10-10), door een raadsman doen vergezellen, waar zij in het geding optreden.
+Partijen en vertegenwoordigers kunnen zich, behoudens in het geval voorzien in [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=3&artikel=76&z=2024-01-01&g=2024-01-01), door een raadsman doen vergezellen, waar zij in het geding optreden.
 
 ##### Artikel 68
 
@@ -697,7 +697,7 @@ Aan ieder der partijen wordt op haar verzoek door de rechter het woord verleend 
 
 1. Indien zonder wettige verhindering een ingevolge het vorig artikel opgeroepen persoon niet verschijnt of, verschenen zijnde, weigert te antwoorden, staat het de rechter vrij de gevolgtrekking te maken welke hem geraden voorkomt.
 
-2. Het tweede en het derde lid van [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=1&artikel=52&z=2010-10-10&g=2010-10-10) vinden overeenkomstige toepassing.
+2. Het tweede en het derde lid van [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=1&artikel=52&z=2024-01-01&g=2024-01-01) vinden overeenkomstige toepassing.
 
 ##### Artikel 76
 
@@ -723,7 +723,7 @@ De rechter kan ambtshalve of op verzoek van een der partijen deskundigen met een
 
 ##### Artikel 80
 
-1. De partij die bezwaar inbracht, kan bij schriftelijk ondertekende kennisgeving aan de rechter mededelen, dat het bezwaar wordt ingetrokken. Het derde lid van [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=1&artikel=44&z=2010-10-10&g=2010-10-10) is op de ondertekening van de kennisgeving van overeenkomstige toepassing; niet ondertekening maakt de kennisgeving nietig.
+1. De partij die bezwaar inbracht, kan bij schriftelijk ondertekende kennisgeving aan de rechter mededelen, dat het bezwaar wordt ingetrokken. Het derde lid van [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=1&artikel=44&z=2024-01-01&g=2024-01-01) is op de ondertekening van de kennisgeving van overeenkomstige toepassing; niet ondertekening maakt de kennisgeving nietig.
 
 2. Door de intrekking vervalt het bezwaar, tenzij zij geschiedde na aanvang van het onderzoek ter zitting en de rechter de voortzetting van het geding om redenen, aan het algemeen belang ontleend, wenselijk oordeelt.
 
@@ -739,7 +739,7 @@ De rechter is bevoegd samenhangende zaken te voegen en gevoegde zaken te splitse
 
 ##### Artikel 82
 
-De rechter beslist in raadkamer en grondt de beslissing uitsluitend op hetgeen op de zitting heeft plaats gehad en op die stukken, ten aanzien waarvan de voorschriften van de [artikelen 50, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=1&artikel=50&z=2010-10-10&g=2010-10-10) en [55, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=1&artikel=55&z=2010-10-10&g=2010-10-10), zijn toegepast.
+De rechter beslist in raadkamer en grondt de beslissing uitsluitend op hetgeen op de zitting heeft plaats gehad en op die stukken, ten aanzien waarvan de voorschriften van de [artikelen 50, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=1&artikel=50&z=2024-01-01&g=2024-01-01) en [55, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=1&artikel=55&z=2024-01-01&g=2024-01-01), zijn toegepast.
 
 ##### Artikel 83
 
@@ -783,7 +783,7 @@ Op redenen van algemeen belang kan de rechter in zijn uitspraak hetzij bepalen, 
 
 2. De rechter geeft daarvoor, zodra de uitspraak in kracht van gewijsde is gegaan, een bevelschrift van tenuitvoerlegging af.
 
-3. Hij geeft ook, zodra de uitspraak in kracht van gewijsde is gegaan, een bevelschrift van tenuitvoerlegging af voor het bedrag, overeenkomstig [artikel 86, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=6&artikel=86&z=2010-10-10&g=2010-10-10), vastgesteld.
+3. Hij geeft ook, zodra de uitspraak in kracht van gewijsde is gegaan, een bevelschrift van tenuitvoerlegging af voor het bedrag, overeenkomstig [artikel 86, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=6&artikel=86&z=2024-01-01&g=2024-01-01), vastgesteld.
 
 ##### Artikel 89
 
@@ -805,7 +805,7 @@ De uitspraak wordt door de rechter die over de zaak geoordeeld heeft en de griff
 
 1. In geen geval mag de uitspraak later dan drie weken na het sluiten van het onderzoek plaats hebben.
 
-2. De uitspraak moet plaats hebben binnen drie maanden na het indienen van het bezwaarschrift bedoeld in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&artikel=43&z=2010-10-10&g=2010-10-10). De rechter kan ingeval van schorsing en hervatting van het onderzoek, alsmede wegens andere gewichtige redenen bij een met redenen omklede beschikking die termijn met ten hoogste drie maanden verlengen.
+2. De uitspraak moet plaats hebben binnen drie maanden na het indienen van het bezwaarschrift bedoeld in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&artikel=43&z=2024-01-01&g=2024-01-01). De rechter kan ingeval van schorsing en hervatting van het onderzoek, alsmede wegens andere gewichtige redenen bij een met redenen omklede beschikking die termijn met ten hoogste drie maanden verlengen.
 
 3. Indien binnen de in de vorige leden gestelde termijnen de einduitspraak niet heeft plaats gehad, vervalt de instantie.
 
@@ -865,7 +865,7 @@ Zodra de uitspraak in kracht van gewijsde is gegaan, geeft de griffier de besche
 
 ##### Artikel 97
 
-1. Ieder der partijen is bevoegd tegen een door het gerecht genomen met redenen omklede eindbeslissing als bedoeld in [artikel 89](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=6&artikel=89&z=2010-10-10&g=2010-10-10) hoger beroep in te stellen.
+1. Ieder der partijen is bevoegd tegen een door het gerecht genomen met redenen omklede eindbeslissing als bedoeld in [artikel 89](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=6&artikel=89&z=2024-01-01&g=2024-01-01) hoger beroep in te stellen.
 
 2. Tegen uitspraken, die niet zijn eindbeslissingen, kan slechts tegelijk met het beroep tegen laatstbedoelde hoger beroep worden in gesteld.
 
@@ -881,7 +881,7 @@ Zodra de uitspraak in kracht van gewijsde is gegaan, geeft de griffier de besche
 
 ##### Artikel 99
 
-1. Indien zich het geval bedoeld in het derde lid van [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=6&artikel=91&z=2010-10-10&g=2010-10-10) voordoet, is de klager in eerste instantie bevoegd de oorspronkelijke klacht aan de raad voor te leggen binnen dertig dagen na het verstrijken van de termijn gesteld in het tweede lid van dat artikel.
+1. Indien zich het geval bedoeld in het derde lid van [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=6&artikel=91&z=2024-01-01&g=2024-01-01) voordoet, is de klager in eerste instantie bevoegd de oorspronkelijke klacht aan de raad voor te leggen binnen dertig dagen na het verstrijken van de termijn gesteld in het tweede lid van dat artikel.
 
 2. De zaak wordt op de gewone wijze behandeld.
 
@@ -907,7 +907,7 @@ In het geding in hoger beroep is appellant degene, die beroep heeft ingesteld en
 
 ##### Artikel 103
 
-De [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&artikel=37&z=2010-10-10&g=2010-10-10), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&artikel=38&z=2010-10-10&g=2010-10-10), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&artikel=39&z=2010-10-10&g=2010-10-10), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&artikel=40&z=2010-10-10&g=2010-10-10) en [67](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=3&artikel=67&z=2010-10-10&g=2010-10-10) vinden overeenkomstige toepassing.
+De [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&artikel=37&z=2024-01-01&g=2024-01-01), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&artikel=38&z=2024-01-01&g=2024-01-01), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&artikel=39&z=2024-01-01&g=2024-01-01), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&artikel=40&z=2024-01-01&g=2024-01-01) en [67](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=3&artikel=67&z=2024-01-01&g=2024-01-01) vinden overeenkomstige toepassing.
 
 #### § 1. Aanvang van het geding en schriftelijke behandeling
 
@@ -917,7 +917,7 @@ De [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&
 
 - a. de naam en de woonplaats van degene die hoger beroep instelt en, indien hij een vertegenwoordiger of gemachtigde heeft, ook van deze;
 
-- b. een duidelijke omschrijving van de door het gerecht genomen, met redenen omklede beslissing, bedoeld in [artikel 89](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=6&artikel=89&z=2010-10-10&g=2010-10-10);
+- b. een duidelijke omschrijving van de door het gerecht genomen, met redenen omklede beslissing, bedoeld in [artikel 89](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=6&artikel=89&z=2024-01-01&g=2024-01-01);
 
 - c. de gronden waarop het hoger beroep berust;
 
@@ -929,11 +929,11 @@ De [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&
 
 4. De in te dienen beroepschriften worden opgemaakt overeenkomstig het model vastgesteld bij algemene maatregel van bestuur.
 
-5. In het geval bedoeld in het derde lid van [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=6&artikel=91&z=2010-10-10&g=2010-10-10) is het in het eerste lid onder b. van dit artikel bepaalde niet van toepassing.
+5. In het geval bedoeld in het derde lid van [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=6&artikel=91&z=2024-01-01&g=2024-01-01) is het in het eerste lid onder b. van dit artikel bepaalde niet van toepassing.
 
 ##### Artikel 105
 
-De voorzitter van de raad wijst de inzender van een beroepschrift, die de voorschriften van de [artikelen 100, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=IV&hoofdstuk=Eerste&artikel=100&z=2010-10-10&g=2010-10-10), of [104](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=IV&hoofdstuk=Eerste&paragraaf=1&artikel=104&z=2010-10-10&g=2010-10-10) niet in acht genomen heeft, op het gepleegde verzuim en nodigt hem uit, dit binnen een bepaalde termijn te herstellen.
+De voorzitter van de raad wijst de inzender van een beroepschrift, die de voorschriften van de [artikelen 100, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=IV&hoofdstuk=Eerste&artikel=100&z=2024-01-01&g=2024-01-01), of [104](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=IV&hoofdstuk=Eerste&paragraaf=1&artikel=104&z=2024-01-01&g=2024-01-01) niet in acht genomen heeft, op het gepleegde verzuim en nodigt hem uit, dit binnen een bepaalde termijn te herstellen.
 
 ##### Artikel 106
 
@@ -951,25 +951,25 @@ De voorzitter van de raad wijst de inzender van een beroepschrift, die de voorsc
 
 ##### Artikel 108
 
-1. Tegen de beschikking in het vorige artikel vermeld kan de inzender van het beroepschrift, met inachtneming van de onderscheidingen in [artikel 98, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=IV&hoofdstuk=Eerste&artikel=98&z=2010-10-10&g=2010-10-10), gemaakt binnen dertig dagen na de dag van de uitspraak dan wel van de toezending of van de terhandstelling, schriftelijk verzet doen bij de raad.
+1. Tegen de beschikking in het vorige artikel vermeld kan de inzender van het beroepschrift, met inachtneming van de onderscheidingen in [artikel 98, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=IV&hoofdstuk=Eerste&artikel=98&z=2024-01-01&g=2024-01-01), gemaakt binnen dertig dagen na de dag van de uitspraak dan wel van de toezending of van de terhandstelling, schriftelijk verzet doen bij de raad.
 
-2. De inzending van het verzet vindt plaats bij aangetekende brief. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=I&artikel=4&z=2010-10-10&g=2010-10-10) vindt overeenkomstige toepassing.
+2. De inzending van het verzet vindt plaats bij aangetekende brief. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=I&artikel=4&z=2024-01-01&g=2024-01-01) vindt overeenkomstige toepassing.
 
 3. De griffier tekent onverwijld de dag van ontvangst aan op het geschrift waarbij verzet wordt gedaan.
 
 4. Tengevolge van dat verzet vervalt de beschikking, tenzij het verzet nietig of ongegrond wordt verklaard.
 
-5. Het voorschrift van [artikel 104](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=IV&hoofdstuk=Eerste&paragraaf=1&artikel=104&z=2010-10-10&g=2010-10-10) omtrent de ondertekening van het beroepschrift wordt daarbij in acht genomen. Niet nakoming daarvan maakt het verzet nietig.
+5. Het voorschrift van [artikel 104](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=IV&hoofdstuk=Eerste&paragraaf=1&artikel=104&z=2024-01-01&g=2024-01-01) omtrent de ondertekening van het beroepschrift wordt daarbij in acht genomen. Niet nakoming daarvan maakt het verzet nietig.
 
 6. Alvorens een verzet nietig te verklaren, stelt de raad degene die verzet heeft gedaan, in de gelegenheid binnen een bepaalde termijn het begane verzuim te herstellen.
 
 7. Is de raad van oordeel, dat het beroep kennelijk niet-ontvankelijk of kennelijk ongegrond is, dan kan hij zonder nader onderzoek het verzet ongegrond verklaren, echter niet dan na degene die verzet heeft gedaan, in de gelegenheid te hebben gesteld te worden gehoord. Van tijd en plaats van het verhoor wordt de opposant ten minste veertien dagen tevoren kennisgegeven. Hij is niet verplicht te verschijnen.
 
-8. De beschikking tot nietigverklaring of ongegrondverklaring van een verzet is met redenen omkleed. Zij wordt in het openbaar uitgesproken. Het bepaalde in [artikel 107, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=IV&hoofdstuk=Eerste&paragraaf=1&artikel=107&z=2010-10-10&g=2010-10-10), is op die beschikking van toepassing. Een hogere voorziening staat daartegen niet open.
+8. De beschikking tot nietigverklaring of ongegrondverklaring van een verzet is met redenen omkleed. Zij wordt in het openbaar uitgesproken. Het bepaalde in [artikel 107, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=IV&hoofdstuk=Eerste&paragraaf=1&artikel=107&z=2024-01-01&g=2024-01-01), is op die beschikking van toepassing. Een hogere voorziening staat daartegen niet open.
 
 ##### Artikel 109
 
-Indien gedurende de loop van het geding mocht blijken, dat de voorzitter verzuimd heeft [artikel 105](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=IV&hoofdstuk=Eerste&paragraaf=1&artikel=105&z=2010-10-10&g=2010-10-10) toe te passen, herstelt de raad alsnog dat verzuim. Het geding wordt alsdan, zo nodig, teruggebracht in de staat, waarin het zich bevond op het ogenblik, dat de voorzitter [artikel 105](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=IV&hoofdstuk=Eerste&paragraaf=1&artikel=105&z=2010-10-10&g=2010-10-10) had behoren toe te passen. De artikelen 105, [106](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=IV&hoofdstuk=Eerste&paragraaf=1&artikel=106&z=2010-10-10&g=2010-10-10), [107](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=IV&hoofdstuk=Eerste&paragraaf=1&artikel=107&z=2010-10-10&g=2010-10-10) en [108](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=IV&hoofdstuk=Eerste&paragraaf=1&artikel=108&z=2010-10-10&g=2010-10-10) vinden in dat geval overeenkomstige toepassing.
+Indien gedurende de loop van het geding mocht blijken, dat de voorzitter verzuimd heeft [artikel 105](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=IV&hoofdstuk=Eerste&paragraaf=1&artikel=105&z=2024-01-01&g=2024-01-01) toe te passen, herstelt de raad alsnog dat verzuim. Het geding wordt alsdan, zo nodig, teruggebracht in de staat, waarin het zich bevond op het ogenblik, dat de voorzitter [artikel 105](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=IV&hoofdstuk=Eerste&paragraaf=1&artikel=105&z=2024-01-01&g=2024-01-01) had behoren toe te passen. De artikelen 105, [106](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=IV&hoofdstuk=Eerste&paragraaf=1&artikel=106&z=2024-01-01&g=2024-01-01), [107](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=IV&hoofdstuk=Eerste&paragraaf=1&artikel=107&z=2024-01-01&g=2024-01-01) en [108](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=IV&hoofdstuk=Eerste&paragraaf=1&artikel=108&z=2024-01-01&g=2024-01-01) vinden in dat geval overeenkomstige toepassing.
 
 ##### Artikel 110
 
@@ -981,7 +981,7 @@ Indien gedurende de loop van het geding mocht blijken, dat de voorzitter verzuim
 
 ##### Artikel 111
 
-De [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=1&artikel=48&z=2010-10-10&g=2010-10-10) en [49](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=1&artikel=49&z=2010-10-10&g=2010-10-10) vinden overeenkomstige toepassing.
+De [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=1&artikel=48&z=2024-01-01&g=2024-01-01) en [49](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=1&artikel=49&z=2024-01-01&g=2024-01-01) vinden overeenkomstige toepassing.
 
 ##### Artikel 112
 
@@ -995,11 +995,11 @@ De [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&
 
 1. Geïntimeerden kunnen naar aanleiding van ieder haar toegezonden beroepschrift binnen drie weken na de dagtekening van het bewijs van verzending bij de raad een contra-memorie indienen.
 
-2. De voorzitter kan deze termijn op verzoek van de betrokken geïntimeerde verlengen. De [leden 3 tot en met 6 van artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=1&artikel=51&z=2010-10-10&g=2010-10-10) vinden overeenkomstige toepassing.
+2. De voorzitter kan deze termijn op verzoek van de betrokken geïntimeerde verlengen. De [leden 3 tot en met 6 van artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=1&artikel=51&z=2024-01-01&g=2024-01-01) vinden overeenkomstige toepassing.
 
 ##### Artikel 114
 
-1. Het administratief orgaan dat als geïntimeerde optreedt zendt tegelijk met de contra-memorie in [artikel 113](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=IV&hoofdstuk=Eerste&paragraaf=1&artikel=113&z=2010-10-10&g=2010-10-10) bedoeld, althans uiterlijk binnen de termijn gesteld in het eerste lid van het vorige artikel alle zich onder zijn berusting bevindende tot de zaak betrekkelijke stukken, met uitzondering alleen van de zodanige tegen welker inzending het openbaar belang zich bepaaldelijk verzet, in ter griffie van de raad. Ingezonden worden hetzij de oorspronkelijke stukken, hetzij gewaarmerkte afschriften. Op verzoek van de betrokken geïntimeerde kan de voorzitter van de raad de in de eerste volzin vermelde termijn verlengen.
+1. Het administratief orgaan dat als geïntimeerde optreedt zendt tegelijk met de contra-memorie in [artikel 113](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=IV&hoofdstuk=Eerste&paragraaf=1&artikel=113&z=2024-01-01&g=2024-01-01) bedoeld, althans uiterlijk binnen de termijn gesteld in het eerste lid van het vorige artikel alle zich onder zijn berusting bevindende tot de zaak betrekkelijke stukken, met uitzondering alleen van de zodanige tegen welker inzending het openbaar belang zich bepaaldelijk verzet, in ter griffie van de raad. Ingezonden worden hetzij de oorspronkelijke stukken, hetzij gewaarmerkte afschriften. Op verzoek van de betrokken geïntimeerde kan de voorzitter van de raad de in de eerste volzin vermelde termijn verlengen.
 
 2. Voor zover nodig neemt de voorzitter maatregelen ter verzekering van de geheimhouding.
 
@@ -1007,33 +1007,33 @@ De [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&
 
 ##### Artikel 115
 
-1. De voorzitter is bevoegd aan het administratief orgaan hetwelk partij in het geding is, en aan andere administratieve organen te vragen binnen een door hem te bepalen termijn schriftelijk inlichtingen te verschaffen en onder hen berustende of te hunner beschikking staande stukken, voor zover deze laatste niet reeds onder [artikel 114](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=IV&hoofdstuk=Eerste&paragraaf=1&artikel=114&z=2010-10-10&g=2010-10-10) vallen, en voorwerpen in te zenden.
+1. De voorzitter is bevoegd aan het administratief orgaan hetwelk partij in het geding is, en aan andere administratieve organen te vragen binnen een door hem te bepalen termijn schriftelijk inlichtingen te verschaffen en onder hen berustende of te hunner beschikking staande stukken, voor zover deze laatste niet reeds onder [artikel 114](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=IV&hoofdstuk=Eerste&paragraaf=1&artikel=114&z=2024-01-01&g=2024-01-01) vallen, en voorwerpen in te zenden.
 
 De stukken kunnen in gewaarmerkt afschrift worden ingezonden.
 
 2. Indien het openbaar belang zulks bepaaldelijk vordert, kunnen de administratieve organen het verschaffen van bepaalde inlichtingen of de inzending van bepaalde stukken en voorwerpen weigeren.
 
-3. Het tweede en het derde lid van [artikel 114](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=IV&hoofdstuk=Eerste&paragraaf=1&artikel=114&z=2010-10-10&g=2010-10-10) vinden overeenkomstige toepassing.
+3. Het tweede en het derde lid van [artikel 114](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=IV&hoofdstuk=Eerste&paragraaf=1&artikel=114&z=2024-01-01&g=2024-01-01) vinden overeenkomstige toepassing.
 
 ##### Artikel 116
 
-De bevoegdheid omschreven in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=1&artikel=54&z=2010-10-10&g=2010-10-10) wordt door de voorzitter uitgeoefend.
+De bevoegdheid omschreven in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=1&artikel=54&z=2024-01-01&g=2024-01-01) wordt door de voorzitter uitgeoefend.
 
 ##### Artikel 117
 
-[Artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=1&artikel=55&z=2010-10-10&g=2010-10-10) vindt overeenkomstige toepassing.
+[Artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=1&artikel=55&z=2024-01-01&g=2024-01-01) vindt overeenkomstige toepassing.
 
 #### § 2. Getuigen en deskundigen
 
 ##### Artikel 118
 
-De [artikelen 56](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=2&artikel=56&z=2010-10-10&g=2010-10-10), [57](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=2&artikel=57&z=2010-10-10&g=2010-10-10), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=2&artikel=58&z=2010-10-10&g=2010-10-10), [59](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=2&artikel=59&z=2010-10-10&g=2010-10-10), [60](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=2&artikel=60&z=2010-10-10&g=2010-10-10) en [61](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=2&artikel=61&z=2010-10-10&g=2010-10-10) vinden overeenkomstige toepassing, met dien verstande, dat door de voorzitter worden uitgeoefend de bevoegdheden omschreven in artikel 60 en de tweede zin van het derde lid van artikel 61.
+De [artikelen 56](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=2&artikel=56&z=2024-01-01&g=2024-01-01), [57](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=2&artikel=57&z=2024-01-01&g=2024-01-01), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=2&artikel=58&z=2024-01-01&g=2024-01-01), [59](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=2&artikel=59&z=2024-01-01&g=2024-01-01), [60](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=2&artikel=60&z=2024-01-01&g=2024-01-01) en [61](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=2&artikel=61&z=2024-01-01&g=2024-01-01) vinden overeenkomstige toepassing, met dien verstande, dat door de voorzitter worden uitgeoefend de bevoegdheden omschreven in artikel 60 en de tweede zin van het derde lid van artikel 61.
 
 #### § 3. Openbare behandeling
 
 ##### Artikel 119
 
-In hoger beroep vinden de [artikelen 62 tot en met 79](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=3&artikel=62&z=2010-10-10&g=2010-10-10) overeenkomstige toepassing met inachtneming van het bepaalde bij het volgend artikel.
+In hoger beroep vinden de [artikelen 62 tot en met 79](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=3&artikel=62&z=2024-01-01&g=2024-01-01) overeenkomstige toepassing met inachtneming van het bepaalde bij het volgend artikel.
 
 ##### Artikel 120
 
@@ -1051,13 +1051,13 @@ In hoger beroep vinden de [artikelen 62 tot en met 79](https://wetten.overheid.n
 
 ##### Artikel 121
 
-In hoger beroep vinden de [artikelen 80](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=4&artikel=80&z=2010-10-10&g=2010-10-10) en [81](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=4&artikel=81&z=2010-10-10&g=2010-10-10) overeenkomstige toepassing.
+In hoger beroep vinden de [artikelen 80](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=4&artikel=80&z=2024-01-01&g=2024-01-01) en [81](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=4&artikel=81&z=2024-01-01&g=2024-01-01) overeenkomstige toepassing.
 
 #### § 5. Raadkamer
 
 ##### Artikel 122
 
-1. De raad beraadslaagt en beslist in raadkamer en grondt de beslissing zowel op het onderzoek op de zitting in hoger beroep als op het onderzoek in eerste aanleg, zoals dit volgens het proces-verbaal dier zitting heeft plaats gehad en op die stukken, ten aanzien waarvan de voorschriften van de [artikelen 112](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=IV&hoofdstuk=Eerste&paragraaf=1&artikel=112&z=2010-10-10&g=2010-10-10) en [124, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=IV&hoofdstuk=Eerste&paragraaf=5&artikel=124&z=2010-10-10&g=2010-10-10), zijn toegepast.
+1. De raad beraadslaagt en beslist in raadkamer en grondt de beslissing zowel op het onderzoek op de zitting in hoger beroep als op het onderzoek in eerste aanleg, zoals dit volgens het proces-verbaal dier zitting heeft plaats gehad en op die stukken, ten aanzien waarvan de voorschriften van de [artikelen 112](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=IV&hoofdstuk=Eerste&paragraaf=1&artikel=112&z=2024-01-01&g=2024-01-01) en [124, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=IV&hoofdstuk=Eerste&paragraaf=5&artikel=124&z=2024-01-01&g=2024-01-01), zijn toegepast.
 
 2. De raad beslist zo spoedig mogelijk na het sluiten van het onderzoek.
 
@@ -1081,7 +1081,7 @@ In hoger beroep vinden de [artikelen 80](https://wetten.overheid.nl/jci1.3:c:BWB
 
 2. Het bevel wijst aan de getuigen of deskundigen, van wie het verhoor en omschrijft de bescheiden, waarvan de behandeling op de zitting door de raad nodig wordt geacht.
 
-3. De getuigen of deskundigen wier verhoor is gelast, worden door de griffier opgeroepen en ten aanzien van de bescheiden in het bevel omschreven wordt gehandeld overeenkomstig de [artikelen 50, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=1&artikel=50&z=2010-10-10&g=2010-10-10) en [55, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=1&artikel=55&z=2010-10-10&g=2010-10-10).
+3. De getuigen of deskundigen wier verhoor is gelast, worden door de griffier opgeroepen en ten aanzien van de bescheiden in het bevel omschreven wordt gehandeld overeenkomstig de [artikelen 50, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=1&artikel=50&z=2024-01-01&g=2024-01-01) en [55, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=1&artikel=55&z=2024-01-01&g=2024-01-01).
 
 4. Van de dag, uur en plaats waarop de zitting zal worden gehouden geeft de griffier aan partijen kennis. Deze dag wordt zodanig bepaald, dat de zitting niet wordt gehouden dan nadat gedurende tenminste zes dagen alle op het beroep betrekking hebbende stukken op de door de raad aangewezen plaats zijn nedergelegd ter kosteloze inzage van partijen.
 
@@ -1099,7 +1099,7 @@ In hoger beroep vinden de [artikelen 80](https://wetten.overheid.nl/jci1.3:c:BWB
 
 2. Bij de uitspraak kan de aangevallen beslissing gewijzigd worden, ook ten nadele van degene, die daartegen in beroep kwam.
 
-3. In het geval bedoeld in het eerste lid van [artikel 99](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=IV&hoofdstuk=Eerste&artikel=99&z=2010-10-10&g=2010-10-10) beslist de raad over de oorspronkelijke klacht.
+3. In het geval bedoeld in het eerste lid van [artikel 99](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=IV&hoofdstuk=Eerste&artikel=99&z=2024-01-01&g=2024-01-01) beslist de raad over de oorspronkelijke klacht.
 
 ##### Artikel 127
 
@@ -1141,7 +1141,7 @@ In geen geval mag de uitspraak later dan drie weken na het sluiten van het onder
 
 ##### Artikel 132
 
-De [artikelen 92](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=7&artikel=92&z=2010-10-10&g=2010-10-10) en [93](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=7&artikel=93&z=2010-10-10&g=2010-10-10) vinden overeenkomstige toepassing.
+De [artikelen 92](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=7&artikel=92&z=2024-01-01&g=2024-01-01) en [93](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Eerste&paragraaf=7&artikel=93&z=2024-01-01&g=2024-01-01) vinden overeenkomstige toepassing.
 
 ### Hoofdstuk Tweede. Enige bijzondere gedingen in hoger beroep
 
@@ -1149,7 +1149,7 @@ De [artikelen 92](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&
 
 ##### Artikel 133
 
-1. Indien, in het geval bij [artikel 95](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Tweede&paragraaf=2&artikel=95&z=2010-10-10&g=2010-10-10) bedoeld, de betrokkene tijdig een bezwaarschrift heeft ingediend, is beroep van de beslissing van het gerecht toegelaten.
+1. Indien, in het geval bij [artikel 95](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Tweede&paragraaf=2&artikel=95&z=2024-01-01&g=2024-01-01) bedoeld, de betrokkene tijdig een bezwaarschrift heeft ingediend, is beroep van de beslissing van het gerecht toegelaten.
 
 2. Het wordt als een gewoon beroep behandeld en de raad is bevoegd in plaats van het bevoegd gezag de beslissing te nemen, die naar zijn oordeel genomen behoort te worden.
 
@@ -1157,9 +1157,9 @@ De [artikelen 92](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&
 
 ##### Artikel 134
 
-1. Indien, in het geval bij [artikel 96](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Tweede&paragraaf=3&artikel=96&z=2010-10-10&g=2010-10-10) bedoeld, de betrokkene tijdig een bezwaarschrift heeft ingediend, is beroep van de beslissing van het gerecht toegelaten.
+1. Indien, in het geval bij [artikel 96](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Tweede&paragraaf=3&artikel=96&z=2024-01-01&g=2024-01-01) bedoeld, de betrokkene tijdig een bezwaarschrift heeft ingediend, is beroep van de beslissing van het gerecht toegelaten.
 
-2. Het wordt als een gewoon beroep behandeld. [Artikel 96, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Tweede&paragraaf=3&artikel=96&z=2010-10-10&g=2010-10-10), vindt overeenkomstige toepassing.
+2. Het wordt als een gewoon beroep behandeld. [Artikel 96, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=III&hoofdstuk=Tweede&paragraaf=3&artikel=96&z=2024-01-01&g=2024-01-01), vindt overeenkomstige toepassing.
 
 ## Titel V. Herziening
 
@@ -1203,9 +1203,9 @@ Stukken opgemaakt ter voldoening aan bepalingen van deze wet zijn vrij van zegel
 
 ##### Artikel 142
 
-1. Met afwijking in zoverre van het bepaalde in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=II&hoofdstuk=Eerste&paragraaf=1&artikel=9&z=2010-10-10&g=2010-10-10), treedt de voor de eerste maal benoemde rechter-plaatsvervanger in ambtenarenzaken na drie jaren af.
+1. Met afwijking in zoverre van het bepaalde in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=II&hoofdstuk=Eerste&paragraaf=1&artikel=9&z=2024-01-01&g=2024-01-01), treedt de voor de eerste maal benoemde rechter-plaatsvervanger in ambtenarenzaken na drie jaren af.
 
-2. Met afwijking in zoverre van het bepaalde in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=II&hoofdstuk=Tweede&paragraaf=1&artikel=18&z=2010-10-10&g=2010-10-10) treden een van de voor de eerste maal benoemde leden en een van de voor de eerste maal benoemde leden-plaatsvervangers van de raad van beroep, telkens door het lot aan te wijzen, na drie jaren af.
+2. Met afwijking in zoverre van het bepaalde in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&titeldeel=II&hoofdstuk=Tweede&paragraaf=1&artikel=18&z=2024-01-01&g=2024-01-01) treden een van de voor de eerste maal benoemde leden en een van de voor de eerste maal benoemde leden-plaatsvervangers van de raad van beroep, telkens door het lot aan te wijzen, na drie jaren af.
 
 ##### Artikel 143
 
