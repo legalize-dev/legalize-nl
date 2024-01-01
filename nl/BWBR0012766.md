@@ -4,7 +4,7 @@ identifier: "BWBR0012766"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2023-04-19"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012766"
 soort: "ministeriele-regeling"
@@ -141,13 +141,13 @@ Indien noch de fabrikant, noch zijn gemachtigde in de Gemeenschap gevestigd is, 
 
 ##### Artikel 7
 
-1. Indien van de overeenstemmingsbeoordelingsprocedure de procedure van bijlage VI van [richtlijn 2000/14](32000L0014) wordt gevolgd, verstrekt de fabrikant of zijn in de Gemeenschap gevestigde gemachtigde, voordat het eerste exemplaar van het materieel voor gebruik buitenshuis in de handel wordt gebracht of in gebruik wordt genomen, een afschrift van zijn technische documentatie aan een keuringsinstantie als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012766&artikel=5&z=2023-04-19&g=2023-04-19).
+1. Indien van de overeenstemmingsbeoordelingsprocedure de procedure van bijlage VI van [richtlijn 2000/14](32000L0014) wordt gevolgd, verstrekt de fabrikant of zijn in de Gemeenschap gevestigde gemachtigde, voordat het eerste exemplaar van het materieel voor gebruik buitenshuis in de handel wordt gebracht of in gebruik wordt genomen, een afschrift van zijn technische documentatie aan een keuringsinstantie als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012766&artikel=5&z=2024-01-01&g=2024-01-01).
 
 2. Nadat de keuringsinstantie een verslag heeft opgesteld, waarin zij bevestigt dat de technische documentatie voldoet aan de bepalingen van deze regeling, kan de fabrikant of zijn in de Gemeenschap gevestigde gemachtigde de CE-markering op het materieel voor gebruik buitenshuis aanbrengen en een EG-verklaring van overeenstemming vaststellen. De EG-verklaring van overeenstemming is gesteld in het Nederlands, het Engels, het Frans en het Duits.
 
 ##### Artikel 8
 
-1. Indien van de overeenstemmingsbeoordelingsprocedures de procedure van bijlage VI van [richtlijn 2000/14](32000L0014) wordt gevolgd, betrekt de fabrikant of zijn in de Gemeenschap gevestigde gemachtigde een keuringsinstantie als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012766&artikel=5&z=2023-04-19&g=2023-04-19), bij het fabricageproces overeenkomstig één van de twee procedures van bijlage VI, punt 6, van die richtlijn.
+1. Indien van de overeenstemmingsbeoordelingsprocedures de procedure van bijlage VI van [richtlijn 2000/14](32000L0014) wordt gevolgd, betrekt de fabrikant of zijn in de Gemeenschap gevestigde gemachtigde een keuringsinstantie als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012766&artikel=5&z=2024-01-01&g=2024-01-01), bij het fabricageproces overeenkomstig één van de twee procedures van bijlage VI, punt 6, van die richtlijn.
 
 2. Bij de procedures, bedoeld in het eerste lid, wordt de frequentie van de controles door de keuringsinstantie, bedoeld in dat lid, bepaald op grond van de resultaten van de voorgaande beoordelingen, de noodzaak toezicht te houden op bijsturingen en nadere richtsnoeren voor de frequentie van de controles op basis van de jaarlijkse productie en de algemene betrouwbaarheid van de fabrikant bij het handhaven van de gewaarborgde waarden. Er wordt in elk geval ten minste om de drie jaar een controle uitgevoerd.
 
@@ -157,7 +157,7 @@ Indien noch de fabrikant, noch zijn gemachtigde in de Gemeenschap gevestigd is, 
 
 ##### Artikel 9
 
-1. Indien van de overeenstemmingsbeoordelingsprocedures de procedure van bijlage VII van [richtlijn 2000/14](32000L0014) wordt gevolgd, dient de fabrikant of zijn in de Gemeenschap gevestigde gemachtigde bij een keuringsinstantie, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012766&artikel=5&z=2023-04-19&g=2023-04-19), een aanvraag voor een eenheidskeuring in. Deze aanvraag omvat de in bijlage VII, punt 2, van [richtlijn 2000/14](32000L0014) vermelde gegevens.
+1. Indien van de overeenstemmingsbeoordelingsprocedures de procedure van bijlage VII van [richtlijn 2000/14](32000L0014) wordt gevolgd, dient de fabrikant of zijn in de Gemeenschap gevestigde gemachtigde bij een keuringsinstantie, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012766&artikel=5&z=2024-01-01&g=2024-01-01), een aanvraag voor een eenheidskeuring in. Deze aanvraag omvat de in bijlage VII, punt 2, van [richtlijn 2000/14](32000L0014) vermelde gegevens.
 
 2. De keuringsinstantie:
 
@@ -183,7 +183,7 @@ Indien noch de fabrikant, noch zijn gemachtigde in de Gemeenschap gevestigd is, 
 
 ##### Artikel 11
 
-1. De keuringsinstantie, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012766&artikel=10&z=2023-04-19&g=2023-04-19), beoordeelt of het kwaliteitssysteem voldoet aan de in bijlage VIII, punt 3.2, van [richtlijn 2000/14](32000L0014) bedoelde eisen. Zij veronderstelt dat aan deze eisen wordt voldaan wanneer het gaat om kwaliteitssystemen waarbij EN ISO 9001 wordt toegepast.
+1. De keuringsinstantie, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012766&artikel=10&z=2024-01-01&g=2024-01-01), beoordeelt of het kwaliteitssysteem voldoet aan de in bijlage VIII, punt 3.2, van [richtlijn 2000/14](32000L0014) bedoelde eisen. Zij veronderstelt dat aan deze eisen wordt voldaan wanneer het gaat om kwaliteitssystemen waarbij EN ISO 9001 wordt toegepast.
 
 2. Ten minste één lid van het beoordelingsteam van de keuringsinstantie heeft ervaring als beoordelaar van de betrokken materieeltechnologie. De beoordelingsprocedure omvat een beoordelingsbezoek aan de installaties van de fabrikant.
 
@@ -245,7 +245,7 @@ Indien noch de fabrikant, noch zijn gemachtigde in de Gemeenschap gevestigd is, 
 
 1. De fabrikant of zijn in de Gemeenschap gevestigde gemachtigde zendt de minister en de Commissie van de Europese Gemeenschappen een afschrift van de EG-verklaring van overeenstemming voor ieder type materieel voor gebruik buitenshuis als bedoeld in de artikelen 12 en 13 van [richtlijn 2000/14](32000L0014).
 
-2. De keuringsinstantie, die de EG-verklaring, bedoeld in het eerste lid, heeft afgegeven, geeft de Commissie van de Europese Gemeenschappen en de lidstaten, op een met redenen omkleed verzoek, inzicht in alle bij de overeenstemmingsbeoordeling van een bepaald materieeltype, als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012766&artikel=4&z=2023-04-19&g=2023-04-19), gebruikte informatie en in het bijzonder de technische documentatie, bedoeld in bijlage V, bijlage VI, punt 3, bijlage VII, punt 2, en bijlage VIII, punten 3.1 en 3.3, van [richtlijn 2000/14](32000L0014).
+2. De keuringsinstantie, die de EG-verklaring, bedoeld in het eerste lid, heeft afgegeven, geeft de Commissie van de Europese Gemeenschappen en de lidstaten, op een met redenen omkleed verzoek, inzicht in alle bij de overeenstemmingsbeoordeling van een bepaald materieeltype, als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012766&artikel=4&z=2024-01-01&g=2024-01-01), gebruikte informatie en in het bijzonder de technische documentatie, bedoeld in bijlage V, bijlage VI, punt 3, bijlage VII, punt 2, en bijlage VIII, punten 3.1 en 3.3, van [richtlijn 2000/14](32000L0014).
 
 ##### Artikel 16
 
@@ -267,7 +267,7 @@ Een wijziging van de artikelen 12 en 13 van [richtlijn 2000/14](32000L0014) en v
 
 1. De Regeling geluidproduktie bouwmachines wordt met ingang van 3 januari 2002 ingetrokken.
 
-2. Op verzoek van de fabrikant of diens in de Gemeenschap gevestigde gemachtigde kan tot 3 januari 2002 voor het verkrijgen van een goedkeuring als bedoeld in artikel 2, onder a, van de Regeling geluidproduktie bouwmachines een van de goedkeuringsprocedures bedoeld in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012766&artikel=4&z=2023-04-19&g=2023-04-19), of [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012766&artikel=13&z=2023-04-19&g=2023-04-19) van deze regeling worden toegepast.
+2. Op verzoek van de fabrikant of diens in de Gemeenschap gevestigde gemachtigde kan tot 3 januari 2002 voor het verkrijgen van een goedkeuring als bedoeld in artikel 2, onder a, van de Regeling geluidproduktie bouwmachines een van de goedkeuringsprocedures bedoeld in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012766&artikel=4&z=2024-01-01&g=2024-01-01), of [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012766&artikel=13&z=2024-01-01&g=2024-01-01) van deze regeling worden toegepast.
 
 3. Een goedkeuring krachtens artikel 2, onder a, van de Regeling geluidproduktie bouwmachines, die zijn verleend met toepassing van het tweede lid worden gelijksgesteld aan goedkeuringen krachtens deze regeling.
 
@@ -275,7 +275,7 @@ Een wijziging van de artikelen 12 en 13 van [richtlijn 2000/14](32000L0014) en v
 
 1. Deze regeling treedt in werking met ingang van 3 januari 2002.
 
-2. In afwijking van het eerste lid treedt [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012766&artikel=19&z=2023-04-19&g=2023-04-19), in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin deze regeling wordt geplaatst.
+2. In afwijking van het eerste lid treedt [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012766&artikel=19&z=2024-01-01&g=2024-01-01), in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin deze regeling wordt geplaatst.
 
 ##### Artikel 21
 
@@ -285,7 +285,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1a
 
-Dit onderdeel is nog niet inwerking getreden
+Deze regeling berust mede op [artikel 21.6, vierde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=21.6).
 
 ##### Artikel 3a
 
