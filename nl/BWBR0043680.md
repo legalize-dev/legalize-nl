@@ -4,7 +4,7 @@ identifier: "BWBR0043680"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-02-13"
-last_updated: "2023-09-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043680"
 soort: "AMvB"
@@ -38,17 +38,27 @@ entry_into_force: "2020-06-23"
 
 ##### Artikel 1
 
-Het percentage van de belastingrente, bedoeld in [artikel 30hb van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30hb):
+1. Het percentage van de belastingrente, bedoeld in [artikel 30hb van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30hb), voor een kalenderjaar is voor de inkomstenbelasting, de erfbelasting, de loonbelasting, de dividendbelasting, de omzetbelasting, de overdrachtsbelasting, de belasting van personenauto’s en motorrijwielen, de accijns, de verbruiksbelasting van alcoholvrije dranken en de in [artikel 1 van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=1) genoemde belastingen gelijk aan het percentage van de herfinancieringsrente die door de Europese Centrale Bank is vastgesteld voor haar meest recente basisherfinancieringstransactie die heeft plaatsgevonden vóór 1 november van het aan het betreffende kalenderjaar voorafgaande kalenderjaar, vermeerderd met 3 procentpunt, met dien verstande dat:
 
-- a. is voor de inkomstenbelasting, de erfbelasting, de loonbelasting, de dividendbelasting, de omzetbelasting, de overdrachtsbelasting, de belasting van personenauto’s en motorrijwielen, de accijns, de verbruiksbelasting van alcoholvrije dranken en de in [artikel 1 van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=1) genoemde belastingen gelijk aan het percentage van de ingevolge [artikel 120, eerste lid, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=120) bij algemene maatregel van bestuur vastgestelde wettelijke rente, bedoeld in [artikel 119 van Boek 6 van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=119), met dien verstande dat het eerstgenoemde percentage ten minste 4 bedraagt;
+- a. aanpassing van het percentage, indien nodig, jaarlijks per 1 januari geschiedt;
 
-- b. bedraagt voor de vennootschapsbelasting, de solidariteitsbijdrage en de bronbelasting 8.
+- b. afronding van het percentage plaatsvindt op halve procentpunten;
+
+- c. het percentage ten minste 4,5 bedraagt; en
+
+- d. aanpassing van het percentage is beperkt tot maximaal 2 procentpunt per wijziging.
+
+2. Het eerste lid is van overeenkomstige toepassing voor de vennootschapsbelasting, de bronbelasting, de minimumbelasting en de solidariteitsbijdrage, met dien verstande dat, in afwijking van het eerste lid, aanhef en onderdeel c:
+
+- a. het percentage van de herfinancieringsrente wordt vermeerderd met 5,5 procentpunt; en
+
+- b. het percentage van de belastingrente ten minste 5,5 bedraagt.
+
+3. Het percentage van de belastingrente dat van toepassing is gedurende een kalenderjaar geldt slechts voor het gedeelte van het rentetijdvak dat valt in dat kalenderjaar.
 
 ##### Artikel 2
 
-1. Het percentage van de in rekening te brengen invorderingsrente, bedoeld in [artikel 29 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=29), bedraagt 3.
-
-2. Het percentage van de te vergoeden invorderingsrente, bedoeld in [artikel 29 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=29), is gelijk aan het percentage van de ingevolge [artikel 120, eerste lid, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=120) bij algemene maatregel van bestuur vastgestelde wettelijke rente, bedoeld in [artikel 119 van Boek 6 van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=119), met dien verstande dat het eerstgenoemde percentage ten minste 4 bedraagt.
+Het percentage van de invorderingsrente, bedoeld in [artikel 29 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=29), bedraagt 4.
 
 ##### Artikel 3
 
@@ -56,7 +66,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 4
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met dien verstande dat daarbij tevens kan worden bepaald dat [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043680&artikel=2&z=2023-09-01&g=2023-09-01) terugwerkt tot en met 1 juni 2020.
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met dien verstande dat daarbij tevens kan worden bepaald dat [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043680&artikel=2&z=2024-01-01&g=2024-01-01) terugwerkt tot en met 1 juni 2020.
 
 ##### Artikel 5
 
