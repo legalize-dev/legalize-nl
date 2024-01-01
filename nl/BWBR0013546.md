@@ -4,7 +4,7 @@ identifier: "BWBR0013546"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2021-10-16"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013546"
 soort: "ministeriele-regeling"
@@ -51,13 +51,13 @@ Besluit:
 
 ##### Artikel 2
 
-Als afvalstoffen in de zin van [artikel 1.1, zesde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1), worden aangewezen de stoffen, preparaten of voorwerpen, genoemd in de afvalstoffenlijst.
+Als afvalstoffen in de zin van [artikel 1.1, vierde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1), worden aangewezen de stoffen, preparaten of voorwerpen, genoemd in de afvalstoffenlijst.
 
 ##### Artikel 3
 
-1. Bij de beoordeling van gevaarlijke eigenschappen van afvalstoffen wordt [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=1&z=2021-10-16&g=2021-10-16) van het onderdeel ‘Beoordeling en classificatie’ van de afvalstoffenlijst in acht genomen.
+1. Bij de beoordeling van gevaarlijke eigenschappen van afvalstoffen wordt [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=1&z=2024-01-01&g=2024-01-01) van het onderdeel ‘Beoordeling en classificatie’ van de afvalstoffenlijst in acht genomen.
 
-2. Bij de indeling als gevaarlijke afvalstof wordt [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=2&z=2021-10-16&g=2021-10-16) van het onderdeel ‘Beoordeling en classificatie’ van de afvalstoffenlijst in acht genomen.
+2. Bij de indeling als gevaarlijke afvalstof wordt [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=2&z=2024-01-01&g=2024-01-01) van het onderdeel ‘Beoordeling en classificatie’ van de afvalstoffenlijst in acht genomen.
 
 3. Bij de indeling van afvalstoffen wordt de aanhef van het onderdeel ‘Lijst van afvalstoffen’ van de afvalstoffenlijst in acht genomen.
 
@@ -67,11 +67,11 @@ Als afvalstoffen in de zin van [artikel 1.1, zesde lid, van de Wet milieubeheer]
 
 2. Bij het bepalen van de gevaarlijke eigenschappen van afvalstoffen, bedoeld in bijlage III bij de kaderrichtlijn afvalstoffen, worden de gevolgen van het verdampen van een gevaarlijke stof of het verdunnen, vermengen of uitlogen van een afvalstof, niet in aanmerking genomen.
 
-3. Het tweede lid is niet van toepassing indien een omgevingsvergunning voor een inrichting of een ontheffing als bedoeld in [artikel 10.63 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.63) is verleend die mede betrekking heeft op het verdampen van een gevaarlijke stof of het verdunnen, vermengen of uitlogen van afvalstoffen.
+3. Het tweede lid is niet van toepassing indien een omgevingsvergunning voor een milieubelastende activiteit of een ontheffing als bedoeld in [artikel 10.63 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.63) is verleend die mede betrekking heeft op het verdampen van een gevaarlijke stof of het verdunnen, vermengen of uitlogen van afvalstoffen.
 
 ##### Artikel 5
 
-1. Bij het vaststellen of een afvalstof de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=4&z=2021-10-16&g=2021-10-16) bedoelde eigenschappen bezit, wordt het tweede tot en met vijfde lid in acht genomen.
+1. Bij het vaststellen of een afvalstof de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=4&z=2024-01-01&g=2024-01-01) bedoelde eigenschappen bezit, wordt het tweede tot en met vijfde lid in acht genomen.
 
 2. Bij de vaststelling, bedoeld in het eerste lid, worden in ieder geval asfaltproducten als een gevaarlijke afvalstof gezien als deze meer dan 75 mg/kg bevatten van een totale som aan PAK’s, genoemd in [bijlage A, tabel 2, van de Regeling bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0023085&bijlage=A).
 
@@ -107,7 +107,7 @@ Als afvalstoffen in de zin van [artikel 1.1, zesde lid, van de Wet milieubeheer]
 
 ##### Artikel 6
 
-De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=4&z=2021-10-16&g=2021-10-16) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=5&z=2021-10-16&g=2021-10-16) zijn van overeenkomstige toepassing op de beoordeling, bedoeld in [artikel 1.1, tiende lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1).
+De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=4&z=2024-01-01&g=2024-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=5&z=2024-01-01&g=2024-01-01) zijn van overeenkomstige toepassing op de beoordeling, bedoeld in [artikel 1.1, achtste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1).
 
 ##### Artikel 7
 
@@ -149,6 +149,6 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1a
 
-Dit onderdeel is nog niet inwerking getreden
+Deze regeling berust mede op [artikel 1.1, vierde en achtste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
