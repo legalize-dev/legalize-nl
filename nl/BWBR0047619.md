@@ -4,7 +4,7 @@ identifier: "BWBR0047619"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2023-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047619"
 soort: "AMvB"
@@ -70,8 +70,8 @@ Wijzigt het Besluit veiligheidsregio’s.
 
 ##### Artikel V
 
-1. Dit besluit treedt, met uitzondering van het in [artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0047619&artikel=I&z=2023-01-01&g=2023-01-01), opgenomen [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.4), in werking met ingang van 1 januari 2023.
+1. Dit besluit treedt, met uitzondering van het in [artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0047619&artikel=I&z=2024-01-01&g=2024-01-01), opgenomen [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.4), in werking met ingang van 1 januari 2023.
 
-2. Het in [artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0047619&artikel=I&z=2023-01-01&g=2023-01-01), opgenomen [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.4), treedt in werking op het tijdstip waarop het Besluit activiteiten leefomgeving in werking treedt.
+2. Het in [artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0047619&artikel=I&z=2024-01-01&g=2024-01-01), opgenomen [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.4), treedt in werking op het tijdstip waarop het Besluit activiteiten leefomgeving in werking treedt.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
