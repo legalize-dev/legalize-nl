@@ -4,7 +4,7 @@ identifier: "BWBR0027093"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-09-27"
-last_updated: "2023-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027093"
 soort: "ministeriele-regeling"
@@ -60,7 +60,7 @@ Deze regeling wordt aangehaald als: Regeling indexering onkostenvergoeding leden
 
 Deze regeling wordt aangehaald als: Regeling indexering onkostenvergoeding leden gerechtsbesturen en Raad voor de rechtspraak.
 
-## Bijlage 2. als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&artikel=3&z=2024-09-27&g=2023-01-01)
+## Bijlage 2. als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&artikel=3&z=2024-09-27&g=2024-01-01)
 
 | Functie | Totaal | Vakliteratuur | Kleine consumpties | Representatie |
 | --- | --- | --- | --- | --- |
@@ -69,9 +69,14 @@ Deze regeling wordt aangehaald als: Regeling indexering onkostenvergoeding leden
 | voorzitter bestuur gerechtshof voorzitter bestuur rechtbank voorzitter bestuur Centrale Raad van Beroep voorzitter bestuur College van Beroep voor het Bedrijfsleven | **€ 3.597** | € 1.183 | € 176 | € 2.238 |
 | lid bestuur gerechtshof lid bestuur rechtbank lid bestuur Centrale Raad van Beroep lid bestuur College van Beroep voor het Bedrijfsleven | **€ 2.401** | € 1.183 | € 176 | € 1.042 |
 
-## Bijlage 1
+## Bijlage 3. als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&artikel=3&z=2024-09-27&g=2024-01-01)
 
-Niet opgenomen.
+| Functie | Totaal | Vakliteratuur | Kleine consumpties | Representatie |
+| --- | --- | --- | --- | --- |
+| voorzitter Raad voor de rechtspraak rechterlijk lid Raad voor de rechtspraak | **€ 6.152** | € 1.167 | € 174 | € 4.811 |
+| niet-rechterlijk lid Raad voor de rechtspraak | **€ 6.031** | € 1.167 | € 174 | € 4.690 |
+| voorzitter bestuur gerechtshof voorzitter bestuur rechtbank voorzitter bestuur Centrale Raad van Beroep voorzitter bestuur College van Beroep voor het Bedrijfsleven | **€ 3.547** | € 1.167 | € 174 | € 2.206 |
+| lid bestuur gerechtshof lid bestuur rechtbank lid bestuur Centrale Raad van Beroep lid bestuur College van Beroep voor het Bedrijfsleven | **€ 2.368** | € 1.167 | € 174 | € 1.027 |
 
 ## Bijlage 2
 
@@ -161,7 +166,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage. als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&artikel=3&z=2024-09-27&g=2023-01-01)
+## Bijlage. als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027093&artikel=3&z=2021-01-27&g=2024-01-01)
 
 | Functie | Totaal | Vakliteratuur | Kleine consumpties | Representatie |
 | --- | --- | --- | --- | --- |
@@ -169,6 +174,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 | niet-rechterlijk lid Raad voor de rechtspraak | € 5.089 | € 984 | € 146 | € 3.959 |
 | voorzitter bestuur gerechtshof voorzitter bestuur rechtbank voorzitter bestuur Centrale Raad van Beroep voorzitter bestuur College van Beroep voor het Bedrijfsleven | € 2.993 | € 984 | € 146 | € 1.863 |
 | lid bestuur gerechtshof lid bestuur rechtbank lid bestuur Centrale Raad van Beroep lid bestuur College van Beroep voor het Bedrijfsleven | € 1.997 | € 984 | € 146 | € 867 |
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
