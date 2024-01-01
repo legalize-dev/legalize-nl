@@ -4,7 +4,7 @@ identifier: "BWBR0048849"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2023-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048849"
 soort: "ministeriele-regeling"
@@ -88,7 +88,7 @@ Aan de directeur is voorbehouden: het nemen van besluiten, het verrichten van pr
 
 ##### Artikel 3
 
-1. Aan de afdelingshoofden en programmamanager wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 130.000 per verplichting niet te boven gaat.
+1. Aan de afdelingshoofden en programmamanager wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 260.000 per verplichting niet te boven gaat.
 
 2. Aan de afdelingshoofden en programmamanager wordt voorts, ieder voor zich, met betrekking tot de onder hen ressorterende medewerkers ondermandaat, volmacht en machtiging verleend voor:
 
@@ -112,7 +112,7 @@ Aan de coördinerend directeur inkoop wordt ondermandaat, volmacht en machtiging
 
 ##### Artikel 5
 
-1. Aan de MT-leden wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 15.000 per verplichting niet te boven gaat.
+1. Aan de MT-leden wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 30.000 per verplichting niet te boven gaat.
 
 2. Aan de MT-leden wordt voorts, ieder voor zich, met betrekking tot de onder hen ressorterende medewerkers ondermandaat, volmacht en machtiging verleend voor:
 
@@ -132,7 +132,7 @@ Aan de coördinerend directeur inkoop wordt ondermandaat, volmacht en machtiging
 
 ##### Artikel 6
 
-1. Aan de teamleiders wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 5.000 per verplichting niet te boven gaat.
+1. Aan de teamleiders wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 10.000 per verplichting niet te boven gaat.
 
 2. Aan de teamleiders wordt voorts, ieder voor zich, met betrekking tot de onder hen ressorterende medewerkers ondermandaat, volmacht en machtiging verleend voor:
 
@@ -150,21 +150,21 @@ Aan de coördinerend directeur inkoop wordt ondermandaat, volmacht en machtiging
 
 ##### Artikel 7
 
-1. Aan de manager Inkoopplein B73 wordt volmacht en machtiging gegeven voor het verrichten van privaatrechtelijke rechtshandelingen voor zover deze daartoe een opdracht heeft gekregen van een bevoegde functionaris, met dien verstande dat dit een bedrag van € 30.000 per verplichting niet te boven gaat.
+1. Aan de manager Inkoopplein B73 wordt volmacht en machtiging gegeven voor het verrichten van privaatrechtelijke rechtshandelingen voor zover deze daartoe een opdracht heeft gekregen van een bevoegde functionaris, met dien verstande dat dit een bedrag van € 60.000 per verplichting niet te boven gaat.
 
-2. Aan de medewerkers van het Inkoopplein wordt, ieder voor zich, volmacht en machtiging gegeven voor het verrichten van privaatrechtelijke rechtshandelingen voor zover deze daartoe een opdracht heeft gekregen van een bevoegde functionaris, met dien verstande dat dit een bedrag van € 6.000 per verplichting niet te boven gaan.
+2. Aan de medewerkers van het Inkoopplein wordt, ieder voor zich, volmacht en machtiging gegeven voor het verrichten van privaatrechtelijke rechtshandelingen voor zover deze daartoe een opdracht heeft gekregen van een bevoegde functionaris, met dien verstande dat dit een bedrag van € 12.000 per verplichting niet te boven gaan.
 
 ##### Artikel 8
 
-Aan de medewerkers Informatievoorziening wordt, ieder voor zich, volmacht en machtiging verleend voor de aanschaf van goederen en diensten op hun werkterrein met dien verstande dat het een bedrag van € 500 niet te boven gaat.
+Aan de medewerkers Informatievoorziening wordt, ieder voor zich, volmacht en machtiging verleend voor de aanschaf van goederen en diensten op hun werkterrein met dien verstande dat het een bedrag van € 1.000 niet te boven gaat.
 
 ##### Artikel 9
 
-Aan de Regisseur Dienstverlening wordt volmacht en machtiging gegeven voor het verrichten van privaatrechtelijke rechtshandelingen voor zover deze daartoe een opdracht heeft gekregen van een bevoegde functionaris, met dien verstande dat dit een bedrag van € 6.000 per verplichting niet te boven gaan.
+Aan de Regisseur Dienstverlening wordt volmacht en machtiging gegeven voor het verrichten van privaatrechtelijke rechtshandelingen voor zover deze daartoe een opdracht heeft gekregen van een bevoegde functionaris, met dien verstande dat dit een bedrag van € 12.000 per verplichting niet te boven gaan.
 
 ##### Artikel 10
 
-Aan de machtigingenbeheerders eHerkenningsmiddelen wordt, ieder voor zich, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 5.000 per verplichting niet te boven gaat.
+Aan de machtigingenbeheerders eHerkenningsmiddelen wordt, ieder voor zich, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 10.000 per verplichting niet te boven gaat.
 
 #### § 3. Vervanging
 
