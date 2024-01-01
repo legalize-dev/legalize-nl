@@ -4,7 +4,7 @@ identifier: "BWBR0033794"
 country: "nl"
 rank: "pbo"
 publication_date: "2024-01-01"
-last_updated: "2023-06-21"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033794"
 soort: "pbo"
@@ -118,7 +118,39 @@ De [Verordening op het bestuur 2012](https://wetten.overheid.nl/jci1.3:c:BWBR003
 
 ##### Artikel 1a
 
-Dit onderdeel is nog niet inwerking getreden
+1. Het bestuur stelt na afloop van het boekjaar een bestuursverslag op.
+
+2. Het bestuur legt over het bestuursverslag binnen zes maanden na afloop van het boekjaar verantwoording af aan de ledenvergadering.
+
+3. Het bestuursverslag bevat ten minste:
+
+- a. een toelichting op de strategie en de realisatie daarvan;
+
+- b. de verantwoording over de uitvoering van de risicobeoordeling van het bestuur van de strategie en de activiteiten van de NBA en beschrijft de voornaamste risico’s waarvoor de NBA zich geplaatst ziet in relatie tot de risicobereidheid;
+
+- c. de verantwoording over de gevoeligheid van de resultaten van de NBA voor materiële wijzigingen in externe omstandigheden;
+
+- d. een toelichting op het gevoerde diversiteitsbeleid en de uitvoering daarvan waarbij in elk geval wordt ingegaan op:
+
+- –. de doelstellingen van het beleid;
+
+- –. de wijze waarop het beleid is uitgevoerd;
+
+- –. de resultaten van het beleid in het afgelopen boekjaar; en
+
+- –. indien de samenstelling van het bestuur, directie of managementteam afwijkt van de doelstellingen van het diversiteitsbeleid, een toelichting daarop alsmede op de maatregelen die worden genomen om samenstelling in overeenstemming te brengen met het diversiteitsbeleid en de termijn waarop die maatregelen worden genomen; en
+
+- e. van elk lid van het bestuur een opgave van:
+
+- –. geslacht;
+
+- –. geboortejaar;
+
+- –. hoofdfunctie;
+
+- –. nevenfuncties voor zover deze relevant zijn voor de vervulling van de taak als bestuurslid;
+
+- –. aanvang en einde van de zittingstermijn.
 
 ##### Artikel 2a
 
