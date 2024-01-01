@@ -4,7 +4,7 @@ identifier: "BWBR0047721"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2023-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047721"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 - **best server map:** digitale presentatie op een kaart van het gebied waar het NL-Alert door een aanbieder via zijn netwerken is uitgezonden, rekening houdend met de fysieke omgeving;
 
-- **broker:** degene die door de Minister van Justitie en Veiligheid is aangewezen voor het faciliteren van het aanmaken en distribueren van het NL-Alert en aan de aanbieder de gegevens te verstrekken, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0047721&artikel=12&z=2023-01-01&g=2023-01-01);
+- **broker:** degene die door de Minister van Justitie en Veiligheid is aangewezen voor het faciliteren van het aanmaken en distribueren van het NL-Alert en aan de aanbieder de gegevens te verstrekken, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0047721&artikel=12&z=2024-01-01&g=2024-01-01);
 
 - **brokerinterface:** punt waarop de broker een netwerkkoppeling maakt met het netwerk van de aanbieder;
 
@@ -102,9 +102,9 @@ In deze regeling wordt verstaan onder:
 
 7. De aanbieder beveiligt het uitzenden van NL-Alerts zodanig dat het uitsluitend via de broker mogelijk is een NL-Alert bericht uit te zenden.
 
-8. Dit lid is nog niet in werking getreden.
+8. Ten behoeve van geofencing distribueert de aanbieder het uitzendgebied als onderdeel van het NL-Alert en stuurt tevens een geofencing trigger bericht via cell broadcast kanaal 4400.
 
-9. Dit lid is nog niet in werking getreden.
+9. De verplichting, bedoeld in het achtste lid, geldt niet voor 2G en 3G netwerken.
 
 ##### Artikel 4
 
@@ -132,7 +132,7 @@ De aanbieder verwerkt wijzigingen in de configuratie van cellen die impact hebbe
 
 ##### Artikel 7
 
-De aanbieder verleent zijn medewerking aan het monitoren van de keten, waarbij door de broker een testbericht, of repeterend testbericht, over de beschikbare netwerken van de aanbieder wordt verstuurd zonder dat dit bericht op eindapparaten wordt getoond. De aanbieder maakt hierover werkafspraken als bedoeld in [artikel 15, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0047721&artikel=15&z=2023-01-01&g=2023-01-01).
+De aanbieder verleent zijn medewerking aan het monitoren van de keten, waarbij door de broker een testbericht, of repeterend testbericht, over de beschikbare netwerken van de aanbieder wordt verstuurd zonder dat dit bericht op eindapparaten wordt getoond. De aanbieder maakt hierover werkafspraken als bedoeld in [artikel 15, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0047721&artikel=15&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 8
 
@@ -194,13 +194,13 @@ De aanbieder verstrekt op verzoek een actuele beschrijving van zijn brokerinterf
 
 De Minister van Justitie en Veiligheid en een aanbieder maken nadere werkafspraken ten aanzien van ten minste de volgende onderwerpen:
 
-- a. het distribueren van het uitzendgebied en het sturen van trigger berichten ten behoeve van geofencing, bedoeld in [artikel 3, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047721&artikel=3&z=2023-01-01&g=2023-01-01);
+- a. het distribueren van het uitzendgebied en het sturen van trigger berichten ten behoeve van geofencing, bedoeld in [artikel 3, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047721&artikel=3&z=2024-01-01&g=2024-01-01);
 
-- b. het testen van uit te voeren wijzigingen, bedoeld in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047721&artikel=6&z=2023-01-01&g=2023-01-01);
+- b. het testen van uit te voeren wijzigingen, bedoeld in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047721&artikel=6&z=2024-01-01&g=2024-01-01);
 
-- c. het reserveren en testen van cell broadcast testkanalen voor het uitzenden van berichten via cell broadcasttechnologie die niet op het eindapparaat van de eindgebruiker getoond worden, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0047721&artikel=7&z=2023-01-01&g=2023-01-01);
+- c. het reserveren en testen van cell broadcast testkanalen voor het uitzenden van berichten via cell broadcasttechnologie die niet op het eindapparaat van de eindgebruiker getoond worden, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0047721&artikel=7&z=2024-01-01&g=2024-01-01);
 
-- d. het melden van geconstateerde storingen, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0047721&artikel=8&z=2023-01-01&g=2023-01-01).
+- d. het melden van geconstateerde storingen, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0047721&artikel=8&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 16
 
@@ -208,7 +208,7 @@ De [Regeling alarmeringsdienst NL-Alert](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 17
 
-Deze regeling treedt in werking met ingang van 01-01-2023, met uitzondering van [artikel 3, achtste lid en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047721&artikel=3&z=2023-01-01&g=2023-01-01), dat in werking treedt op 01-01-2024.
+Deze regeling treedt in werking met ingang van 01-01-2023, met uitzondering van [artikel 3, achtste lid en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047721&artikel=3&z=2024-01-01&g=2024-01-01), dat in werking treedt op 01-01-2024.
 
 ##### Artikel 18
 
