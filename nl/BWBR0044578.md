@@ -4,7 +4,7 @@ identifier: "BWBR0044578"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2021-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044578"
 soort: "wet"
@@ -60,8 +60,6 @@ Wijzigt de Algemene wet bestuursrecht.
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel V
 
 Wijzigt de Wet minimum CO2-prijs elektriciteitsopwekking.
@@ -86,8 +84,8 @@ Deze wet wordt aangehaald als: Wet CO2-heffing industrie.
 
 1. Deze wet treedt in werking op 1 januari 2021.
 
-2. Indien het bij koninklijke boodschap van 3 juni 2019 ingediende voorstel van wet tot wijziging van de Wet belastingen op milieugrondslag en de Wet milieubeheer voor de invoering van een minimum CO2-prijs bij elektriciteitsopwekking (Wet minimum CO2-prijs elektriciteitsopwekking) (Kamerstukken 35 216) later in werking treedt dan deze wet, treden in afwijking van het eerste lid [artikel I, onderdelen B, C, D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0044578&artikel=I&z=2021-01-01&g=2021-01-01), en [artikel II, onderdelen C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0044578&artikel=II&z=2021-01-01&g=2021-01-01), van deze wet in werking op het tijdstip dat het bij koninklijke boodschap van 3 juni 2019 ingediende voorstel van wet tot wijziging van de Wet belastingen op milieugrondslag en de Wet milieubeheer voor de invoering van een minimum CO2-prijs bij elektriciteitsopwekking (Wet minimum CO2-prijs elektriciteitsopwekking) (Kamerstukken 35 216) in werking treedt.
+2. Indien het bij koninklijke boodschap van 3 juni 2019 ingediende voorstel van wet tot wijziging van de Wet belastingen op milieugrondslag en de Wet milieubeheer voor de invoering van een minimum CO2-prijs bij elektriciteitsopwekking (Wet minimum CO2-prijs elektriciteitsopwekking) (Kamerstukken 35 216) later in werking treedt dan deze wet, treden in afwijking van het eerste lid [artikel I, onderdelen B, C, D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0044578&artikel=I&z=2024-01-01&g=2024-01-01), en [artikel II, onderdelen C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0044578&artikel=II&z=2024-01-01&g=2024-01-01), van deze wet in werking op het tijdstip dat het bij koninklijke boodschap van 3 juni 2019 ingediende voorstel van wet tot wijziging van de Wet belastingen op milieugrondslag en de Wet milieubeheer voor de invoering van een minimum CO2-prijs bij elektriciteitsopwekking (Wet minimum CO2-prijs elektriciteitsopwekking) (Kamerstukken 35 216) in werking treedt.
 
-3. In afwijking van het eerste lid treedt [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0044578&artikel=IV&z=2021-01-01&g=2021-01-01) in werking op het tijdstip dat [hoofdstuk 5 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&hoofdstuk=5) in werking treedt.
+3. In afwijking van het eerste lid treedt [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0044578&artikel=IV&z=2024-01-01&g=2024-01-01) in werking op het tijdstip dat [hoofdstuk 5 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&hoofdstuk=5) in werking treedt.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
