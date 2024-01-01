@@ -4,7 +4,7 @@ identifier: "BWBR0039921"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2023-04-19"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039921"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In deze regeling wordt verstaan onder:
 
 - **aanbieder van diensten van de informatiemaatschappij:** aanbieder van een dienst zoals gedefinieerd in artikel 1, eerste lid, onderdeel b, van [Richtlijn (EU) 2015/1535](32015L1535) van het Europees Parlement en de Raad van 9 september 2015 betreffende een informatieprocedure op het gebied van technische voorschriften en regels betreffende de diensten van de informatiemaatschappij (PbEU 2015, L 241);
 
-- **aangemelde instantie:** conformiteitsbeoordelingsinstantie waaraan ter krachtens[artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039921&artikel=2&z=2023-04-19&g=2023-04-19) een erkenning is verleend en die overeenkomstig artikel 8, eerste lid, van [richtlijn 92/42/EEG](31992L0042) bij de Europese Commissie is aangemeld;
+- **aangemelde instantie:** conformiteitsbeoordelingsinstantie waaraan ter krachtens[artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039921&artikel=2&z=2024-01-01&g=2024-01-01) een erkenning is verleend en die overeenkomstig artikel 8, eerste lid, van [richtlijn 92/42/EEG](31992L0042) bij de Europese Commissie is aangemeld;
 
 - **accreditatie:** accreditatie als bedoeld in artikel 2, onderdeel 10, van verordening (EG) Nr. 765/2008 van het Europees Parlement en de Raad van 9 juli 2008 tot vaststelling van de eisen inzake accreditatie en markttoezicht betreffende het verhandelen van producten en tot intrekking van Verordening (EEG) nr. 339/93 (PbEU 2008, L218;
 
@@ -142,7 +142,7 @@ In deze regeling wordt verstaan onder:
 
 - a. indien de accreditatie van de erkende instantie is gewijzigd, geschorst of beëindigd
 
-- b. indien de erkende instantie niet voldoet aan de verplichtingen die voor haar voortvloeien uit [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039921&artikel=3&z=2023-04-19&g=2023-04-19);
+- b. indien de erkende instantie niet voldoet aan de verplichtingen die voor haar voortvloeien uit [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039921&artikel=3&z=2024-01-01&g=2024-01-01);
 
 - c. in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3).
 
@@ -156,7 +156,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 8
 
-Kiwa Nederland B.V. is ten behoeve van het uitvoeren van de in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039921&artikel=3&z=2023-04-19&g=2023-04-19), bedoelde werkzaamheden aangewezen als instantie als bedoeld in artikel 8, eerste lid, van [richtlijn 92/42/EEG](31992L0042), tot een jaar na het tijdstip van inwerkingtreding van deze regeling of het eerdere tijdstip waarop aan die instantie op grond van artikel 3, eerste lid, een erkenning is verleend.
+Kiwa Nederland B.V. is ten behoeve van het uitvoeren van de in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039921&artikel=3&z=2024-01-01&g=2024-01-01), bedoelde werkzaamheden aangewezen als instantie als bedoeld in artikel 8, eerste lid, van [richtlijn 92/42/EEG](31992L0042), tot een jaar na het tijdstip van inwerkingtreding van deze regeling of het eerdere tijdstip waarop aan die instantie op grond van artikel 3, eerste lid, een erkenning is verleend.
 
 ##### Artikel 9
 
@@ -166,7 +166,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1a
 
-Dit onderdeel is nog niet inwerking getreden
+Deze regeling berust mede op [artikel 21.6, vierde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=21.6).
 
 ##### Artikel 7a
 
