@@ -4,7 +4,7 @@ identifier: "BWBR0043812"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2022-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043812"
 soort: "wet"
@@ -113,8 +113,6 @@ Wijzigt de Wet op de economische delicten.
 
 Wijzigt de Handelsregisterwet 2007.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVc
 
 Wijzigt de Jeugdwet.
@@ -162,5 +160,7 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, da
 ##### Artikel XXV
 
 Deze wet wordt aangehaald als: Aanpassingswet Wet toetreding zorgaanbieders.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
