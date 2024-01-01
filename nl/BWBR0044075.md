@@ -4,7 +4,7 @@ identifier: "BWBR0044075"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-01"
-last_updated: "2023-12-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044075"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ entry_into_force: "2020-09-12"
 
 ##### Artikel 3
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044075&artikel=1&z=2023-12-01&g=2023-12-01) werkt terug tot en met 1 januari 2018.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044075&artikel=1&z=2024-06-01&g=2024-01-01) werkt terug tot en met 1 januari 2018.
 
 ##### Artikel 4
 
