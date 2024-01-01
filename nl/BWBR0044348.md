@@ -4,7 +4,7 @@ identifier: "BWBR0044348"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2021-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044348"
 soort: "wet"
@@ -67,8 +67,6 @@ Wijzigt de Drinkwaterwet.
 
 Wijzigt de Omgevingswet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel V
 
 Wijzigt de Waterschapswet.
@@ -109,7 +107,7 @@ Wijzigt de Wet wegvervoer goederen.
 
 1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. Indien [artikel IX, onderdeel F, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044348&artikel=IX&z=2021-01-01&g=2021-01-01), na 1 januari 2021 in werking treedt, werkt dat onderdeel terug tot en met 1 januari 2021.
+2. Indien [artikel IX, onderdeel F, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044348&artikel=IX&z=2024-01-01&g=2024-01-01), na 1 januari 2021 in werking treedt, werkt dat onderdeel terug tot en met 1 januari 2021.
 
 ##### Artikel XV
 
