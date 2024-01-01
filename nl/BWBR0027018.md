@@ -4,7 +4,7 @@ identifier: "BWBR0027018"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2023-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027018"
 soort: "ministeriele-regeling"
@@ -43,9 +43,9 @@ Besluit:
 
 ##### Artikel 1. Reikwijdte en definitie
 
-1. Deze regeling geeft uitvoering aan de [artikelen 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=16), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=17), [33, onderdelen 5° en 7°](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33), [33a](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33a), [35b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35b), [35c, vijfde en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35c), [35d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35d), [35e, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35e), en [73 van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=73).
+1. Deze regeling geeft uitvoering aan de [artikelen 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=16), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=17), [33, onderdeel 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33), [35b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35b), [35c, vijfde en twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35c), [35d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35d), [35e, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35e), en [73 van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=73).
 
-2. Deze regeling verstaat onder wet: [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226).
+2. Deze regeling verstaat onder wet: [Successiewet 1956](onbekend).
 
 ##### Artikel 2. Uitbreiding partnerbegrip
 
@@ -63,19 +63,7 @@ Vervallen
 
 ##### Artikel 5. Schenking ten behoeve van een eigen woning
 
-1. Een verhoogde vrijstelling als bedoeld in de [artikelen 33, onderdeel 5°, onder c, en onderdeel 7°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33) voor een schenking ten behoeve van een eigen woning als bedoeld in artikel 33a van de wet wordt slechts verleend voor zover:
-
-- a. de schenking onvoorwaardelijk wordt gedaan, dan wel onder de schriftelijk vastgelegde ontbindende voorwaarde dat de schenking vervalt voor zover niet is voldaan aan de voorwaarden voor de verhoogde vrijstelling voor een schenking ten behoeve van een eigen woning als bedoeld in [artikel 33a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33a);
-
-- b. ingeval het een schenking als bedoeld in [artikel 33a, onderdelen b, c, d of e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33a) betreft:
-
-- 1°. het bedrag van de schenking daadwerkelijk door de schenker is betaald;
-
-- 2°. het bedrag van de schenking uiterlijk in het tweede kalenderjaar volgend op het eerste kalenderjaar waarvoor een beroep op de verhoogde vrijstelling is gedaan, is besteed ten behoeve van een eigen woning als bedoeld in [artikel 33a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33a); en
-
-- 3°. de verkrijger desgevraagd met schriftelijke bescheiden doet blijken dat de schenking tijdig overeenkomstig de gestelde voorwaarden is besteed.
-
-2. Voor zover voor schenkingen als bedoeld in het eerste lid, onderdeel b, niet is voldaan aan de gestelde voorwaarden doet de verkrijger hiervan uiterlijk op 31 mei van het derde kalenderjaar volgend op het kalenderjaar waarvoor een beroep op de verhoogde vrijstelling is gedaan mededeling aan de inspecteur.
+Vervallen
 
 ##### Artikel 6. Schenking voor de betaling van kosten van een studie of de opleiding voor een beroep
 
@@ -101,7 +89,7 @@ Vervallen
 
 4. Indien de verkrijging aandelen betreft in een lichaam waarin de erflater, onderscheidenlijk de schenker, op enig moment in het afgelopen jaar, onderscheidenlijk op enig moment in de afgelopen vijf jaren, indirect aandeelhouder was, wordt voor de toepassing van dit artikel uitgegaan van de situatie als ware de erflater, onderscheidenlijk de schenker, nog steeds indirect aandeelhouder. De eerste volzin is van overeenkomstige toepassing in een situatie waarin de verkrijging aandelen betreft in een lichaam dat is ontstaan bij een juridische splitsing als bedoeld in [artikel 3.56 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.56).
 
-5. Voor het eerste en tweede lid is [artikel 35c, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35c) van overeenkomstige toepassing.
+5. Voor het eerste en tweede lid is [artikel 35c, tiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35c) van overeenkomstige toepassing.
 
 ##### Artikel 8. In het kader van een bedrijfsoverdracht uitgegeven preferente aandelen
 
@@ -137,11 +125,17 @@ Voor de toepassing van dit lid wordt onder een omzetting van gewone aandelen in 
 
 - d. ingeval de erflater of schenker resultaat uit een werkzaamheid geniet met betrekking tot een onroerende zaak en de onroerende zaak eerder deel uitmaakte van het ondernemingsvermogen van een voor rekening van de erflater of schenker gedreven onderneming: indien de periode van het genieten van resultaat uit een werkzaamheid en de periode van ondernemerschap tezamen een aaneengesloten periode van ten minste één jaar, onderscheidenlijk van ten minste vijf jaren, vormt.
 
-2. In geval van een aandelenfusie als bedoeld in [artikel 3.55 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.55) worden voor de toets of is voldaan aan de periode van één, onderscheidenlijk vijf jaren, bedoeld in [artikel 35d, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35d), de bezitsperiode van de verkregen aandelen en de bezitsperiode van de afgestane aandelen bij elkaar gevoegd als ware het één periode. De eerste volzin is van overeenkomstige toepassing bij een juridische splitsing als bedoeld in [artikel 3.56 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.56), alsmede bij een juridische fusie als bedoeld in [artikel 3.57 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.57).
+2. Ingeval de erflater of schenker ophoudt winst te genieten uit een onderneming in geval van overheidsingrijpen als bedoeld in [artikel 3.54, twaalfde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54) en de waarde van de tot die onderneming behorende vermogensbestanddelen of de waarde van de in het kader van dat overheidsingrijpen verkregen vergoeding voor zover deze vergoeding niet in de waarde van de tot die onderneming behorende vermogensbestanddelen is begrepen binnen de termijn, bedoeld in artikel 3.54, vijfde lid, van die wet, geheel of gedeeltelijk wordt geherinvesteerd in een onderneming waaruit de erflater of schenker winst geniet, wordt aan de periode van één jaar, onderscheidenlijk vijf jaren, bedoeld in [artikel 35d, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35d), mede voldaan indien de periode waarin eerstgenoemde onderneming voor rekening van de erflater of schenker wordt gedreven en de periode na herinvestering in een andere onderneming die voor rekening van de erflater of schenker wordt gedreven tezamen een periode van ten minste één jaar, onderscheidenlijk ten minste vijf jaren, vormen.
 
-3. In geval van preferente aandelen als bedoeld in [artikel 35c, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35c) is aan de periode van één, onderscheidenlijk vijf jaren, bedoeld in [artikel 35d, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35d), mede voldaan indien de bezitsperiode van de gewone aandelen tenminste één jaar, onderscheidenlijk ten minste vijf jaren, bedroeg.
+3. Ingeval het lichaam waarin de erflater of schenker een aanmerkelijk belang als bedoeld in [artikel 35c, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35c) houdt, ophoudt een onderneming te drijven in geval van overheidsingrijpen als bedoeld in [artikel 3.54, twaalfde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54) en de waarde van de tot die onderneming behorende vermogensbestanddelen of de waarde van de in het kader van dat overheidsingrijpen verkregen vergoeding voor zover deze vergoeding niet in de waarde van de tot die onderneming behorende vermogensbestanddelen is begrepen binnen de termijn, bedoeld in artikel 3.54, vijfde lid, van die wet, geheel of gedeeltelijk wordt geherinvesteerd in een door dat lichaam te drijven onderneming, wordt aan de periode van één jaar, onderscheidenlijk vijf jaren, bedoeld in [artikel 35d, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35d), mede voldaan indien de periode waarin de erflater, onderscheidenlijk de schenker, aanmerkelijkbelanghouder was met betrekking tot dat lichaam terwijl dat lichaam eerstgenoemde onderneming drijft en de periode waarin de erflater, onderscheidenlijk de schenker, aanmerkelijkbelanghouder is met betrekking tot dat lichaam na herinvestering in een door dat lichaam te drijven onderneming tezamen een periode van ten minste één jaar, onderscheidenlijk ten minste vijf jaren, vormen.
 
-4. Met betrekking tot ondernemingsvermogen dat de erflater zelf krachtens erfrecht of schenking heeft verkregen en waarop [hoofdstuk IIIA van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIA) ten aanzien van hem van toepassing is geweest, wordt steeds geacht te zijn voldaan aan de voorwaarde van een periode van één jaar, bedoeld in [artikel 35d, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35d).
+4. Indien de waarde van de onderneming direct na het moment van de laatste herinvestering hoger is dan de waarde van de totale herinvestering, is het tweede of derde lid uitsluitend op een deel van de waarde van de onderneming van toepassing. Dit deel wordt berekend door de waarde van de onderneming op het moment dat het tweede of derde lid wordt toegepast te vermenigvuldigen met het quotiënt van het bedrag of de waarde van de totale herinvestering en de waarde van de onderneming direct na het moment van de laatste herinvestering.
+
+5. In geval van een aandelenfusie als bedoeld in [artikel 3.55 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.55) worden voor de toets of is voldaan aan de periode van één, onderscheidenlijk vijf jaren, bedoeld in [artikel 35d, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35d), de bezitsperiode van de verkregen aandelen en de bezitsperiode van de afgestane aandelen bij elkaar gevoegd als ware het één periode. De eerste volzin is van overeenkomstige toepassing bij een juridische splitsing als bedoeld in [artikel 3.56 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.56), alsmede bij een juridische fusie als bedoeld in [artikel 3.57 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.57).
+
+6. In geval van preferente aandelen als bedoeld in [artikel 35c, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35c) is aan de periode van één, onderscheidenlijk vijf jaren, bedoeld in [artikel 35d, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35d), mede voldaan indien de bezitsperiode van de gewone aandelen tenminste één jaar, onderscheidenlijk ten minste vijf jaren, bedroeg.
+
+7. Met betrekking tot ondernemingsvermogen dat de erflater zelf krachtens erfrecht of schenking heeft verkregen en waarop [hoofdstuk IIIA van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIA) ten aanzien van hem van toepassing is geweest, wordt steeds geacht te zijn voldaan aan de voorwaarde van een periode van één jaar, bedoeld in [artikel 35d, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35d).
 
 ##### Artikel 10. Voortzettingsperiode
 
@@ -175,7 +169,7 @@ Voor de toepassing van dit lid wordt onder een omzetting van gewone aandelen in 
 
 7. Van een gebeurtenis als bedoeld in [artikel 35e van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35e) is geen sprake indien deze zich voordoet als gevolg van een overgang onder algemene titel krachtens huwelijksvermogensrecht. Voor de toepassing van artikel 35e van de wet wordt voor de resterende duur van de termijn van vijf jaren de rechtsopvolger krachtens huwelijksvermogensrecht geacht in de plaats te treden van de oorspronkelijke verkrijger. Van een gebeurtenis als bedoeld in artikel 35e van de wet is evenmin sprake indien gedurende de resterende duur van de termijn de huwelijksgemeenschap wordt ontbonden en binnen twee jaar na de ontbinding wordt verdeeld waarbij het ondernemingsvermogen als bedoeld in [Hoofdstuk IIIA van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIA), wordt toegescheiden aan de oorspronkelijke verkrijger. Voor de toepassing van artikel 35e van de wet treedt de oorspronkelijke verkrijger dan weer voor de resterende duur van de termijn van vijf jaren in de plaats van de in de tweede volzin bedoelde rechtsopvolger krachtens huwelijksvermogensrecht.
 
-8. Indien binnen de termijn van vijf jaren, bedoeld in [artikel 35e van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35e), door de verkrijger een door toepassing van [artikel 35c, achtste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35c) met een aandeel of winstbewijs gelijkgesteldekoopoptie wordt uitgeoefend, treden de daardoor verworven aandelen of winstbewijzen voor de resterende duur van de genoemde termijn in de plaats van die koopoptie.
+8. Indien binnen de termijn van vijf jaren, bedoeld in [artikel 35e van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35e), door de verkrijger een door toepassing van [artikel 35c, elfde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35c) met een aandeel of winstbewijs gelijkgesteldekoopoptie wordt uitgeoefend, treden de daardoor verworven aandelen of winstbewijzen voor de resterende duur van de genoemde termijn in de plaats van die koopoptie.
 
 ### Hoofdstuk IV. Bijzondere bepalingen
 
