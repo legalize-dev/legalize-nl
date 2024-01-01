@@ -4,7 +4,7 @@ identifier: "BWBR0004287"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2023-07-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004287"
 soort: "wet"
@@ -73,7 +73,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 3
 
-1. De in [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=1&z=2023-07-01&g=2023-07-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=2&z=2023-07-01&g=2023-07-01) genoemde publicatiebladen die elektronisch worden uitgegeven, blijven na de uitgifte elektronisch op een algemeen toegankelijke wijze beschikbaar.
+1. De in [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=1&z=2024-01-01&g=2024-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=2&z=2024-01-01&g=2024-01-01) genoemde publicatiebladen die elektronisch worden uitgegeven, blijven na de uitgifte elektronisch op een algemeen toegankelijke wijze beschikbaar.
 
 2. Voor de toegang tot deze publicatiebladen worden geen kosten in rekening gebracht.
 
@@ -89,7 +89,7 @@ De bekendmaking van de volgende besluiten geschiedt door plaatsing in de Staatsc
 
 - b. de overige vanwege het Rijk vastgestelde algemeen verbindende voorschriften, voor zover deze niet in het Staatsblad geplaatst dienen te worden;
 
-- c. algemeen verbindende voorschriften, vastgesteld door bestuursorganen van andere openbare lichamen dan genoemd in [artikel 2, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=2&z=2023-07-01&g=2023-07-01);
+- c. algemeen verbindende voorschriften, vastgesteld door bestuursorganen van andere openbare lichamen dan genoemd in [artikel 2, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=2&z=2024-01-01&g=2024-01-01);
 
 - d. algemeen verbindende voorschriften, vastgesteld door bestuursorganen die niet behoren tot een openbaar lichaam;
 
@@ -99,15 +99,15 @@ De bekendmaking van de volgende besluiten geschiedt door plaatsing in de Staatsc
 
 ##### Artikel 6
 
-Algemeen verbindende voorschriften, beleidsregels en andere besluiten die niet tot een of meer belanghebbenden zijn gericht, vastgesteld door een bestuursorgaan dat behoort tot een van de in [artikel 2, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=2&z=2023-07-01&g=2023-07-01), genoemde openbare lichamen, of de in artikel 2, vijfde lid, genoemde openbare lichamen, bedrijfsvoeringsorganisaties en gemeenschappelijke organen, worden bekendgemaakt door plaatsing in het door dat openbaar lichaam, die bedrijfsvoeringsorganisatie of dat gemeenschappelijke orgaan uitgegeven publicatieblad.
+Algemeen verbindende voorschriften, beleidsregels en andere besluiten die niet tot een of meer belanghebbenden zijn gericht, vastgesteld door een bestuursorgaan dat behoort tot een van de in [artikel 2, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=2&z=2024-01-01&g=2024-01-01), genoemde openbare lichamen, of de in artikel 2, vijfde lid, genoemde openbare lichamen, bedrijfsvoeringsorganisaties en gemeenschappelijke organen, worden bekendgemaakt door plaatsing in het door dat openbaar lichaam, die bedrijfsvoeringsorganisatie of dat gemeenschappelijke orgaan uitgegeven publicatieblad.
 
 ##### Artikel 7
 
-1. Een wet, een algemene maatregel van bestuur of een ander in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=4&z=2023-07-01&g=2023-07-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5&z=2023-07-01&g=2023-07-01) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=6&z=2023-07-01&g=2023-07-01), genoemd besluit bestaat uit een tekst en kan tevens informatie bevatten die niet uit tekst bestaat.
+1. Een wet, een algemene maatregel van bestuur of een ander in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=4&z=2024-01-01&g=2024-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5&z=2024-01-01&g=2024-01-01) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=6&z=2024-01-01&g=2024-01-01), genoemd besluit bestaat uit een tekst en kan tevens informatie bevatten die niet uit tekst bestaat, mits deze informatie in begrijpelijke vorm kan worden bekendgemaakt.
 
-2. In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=4&z=2023-07-01&g=2023-07-01), [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5&z=2023-07-01&g=2023-07-01) of [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=6&z=2023-07-01&g=2023-07-01), kan een wet, een algemene maatregel van bestuur of een ander in die artikelen genoemd besluit na voorafgaande instemming van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties bepalen dat een bij die wet, die algemene maatregel van bestuur of dat besluit behorende bijlage wegens aard of omvang wordt bekendgemaakt door middel van een in die wet, die algemene maatregel van bestuur of dat besluit aangewezen ander algemeen toegankelijk elektronisch medium dan het in die artikelen bedoelde publicatieblad.
+2. In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=4&z=2024-01-01&g=2024-01-01), [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5&z=2024-01-01&g=2024-01-01) of [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=6&z=2024-01-01&g=2024-01-01), kan een wet, een algemene maatregel van bestuur of een ander in die artikelen genoemd besluit na voorafgaande instemming van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties bepalen dat een bij die wet, die algemene maatregel van bestuur of dat besluit behorende bijlage wegens aard of omvang wordt bekendgemaakt door middel van een in die wet, die algemene maatregel van bestuur of dat besluit aangewezen ander algemeen toegankelijk elektronisch medium dan het in die artikelen bedoelde publicatieblad.
 
-3. In geval van een wijziging van informatie als bedoeld in het eerste lid of van een bijlage als bedoeld in het tweede lid wordt die informatie of die bijlage opnieuw vastgesteld.
+3. In geval van een wijziging van informatie als bedoeld in het eerste lid die niet kan worden geconsolideerd, of van een bijlage als bedoeld in het tweede lid wordt die informatie of die bijlage opnieuw vastgesteld.
 
 ##### Artikel 7a
 
@@ -155,23 +155,23 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 12
 
-1. Een bestuursorgaan dat behoort tot een van de in [artikel 2, eerste, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=2&z=2023-07-01&g=2023-07-01), genoemde openbare lichamen, bedrijfsvoeringsorganisaties of gemeenschappelijke organen, doet in het door dat openbaar lichaam, die bedrijfsvoeringsorganisatie of dat gemeenschappelijke orgaan uitgegeven publicatieblad in ieder geval zijn wettelijk voorgeschreven mededelingen in de vorm van een volledige publicatie en kennisgevingen in de vorm van een zakelijke weergave van de inhoud, met vermelding van de wijze waarop en de periode waarin de stukken waar de kennisgeving betrekking op heeft voor eenieder ter inzage liggen.
+1. Een bestuursorgaan dat behoort tot een van de in [artikel 2, eerste, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=2&z=2024-01-01&g=2024-01-01), genoemde openbare lichamen, bedrijfsvoeringsorganisaties of gemeenschappelijke organen, doet in het door dat openbaar lichaam, die bedrijfsvoeringsorganisatie of dat gemeenschappelijke orgaan uitgegeven publicatieblad in ieder geval zijn wettelijk voorgeschreven mededelingen in de vorm van een volledige publicatie en kennisgevingen in de vorm van een zakelijke weergave van de inhoud, met vermelding van de wijze waarop en de periode waarin de stukken waar de kennisgeving betrekking op heeft voor eenieder ter inzage liggen.
 
-2. Een bestuursorgaan dat niet behoort tot een van de in [artikel 2, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=2&z=2023-07-01&g=2023-07-01), genoemde openbare lichamen doet in de Staatscourant in ieder geval zijn wettelijk voorgeschreven mededelingen in de vorm van een volledige publicatie en kennisgevingen in de vorm van een zakelijke weergave van de inhoud met vermelding van de wijze waarop en de periode waarin de stukken waar kennisgeving betrekking op heeft voor eenieder ter inzage liggen.
+2. Een bestuursorgaan dat niet behoort tot een van de in [artikel 2, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=2&z=2024-01-01&g=2024-01-01), genoemde openbare lichamen doet in de Staatscourant in ieder geval zijn wettelijk voorgeschreven mededelingen in de vorm van een volledige publicatie en kennisgevingen in de vorm van een zakelijke weergave van de inhoud met vermelding van de wijze waarop en de periode waarin de stukken waar kennisgeving betrekking op heeft voor eenieder ter inzage liggen.
 
 ##### Artikel 13
 
-1. De terinzagelegging waarop een mededeling of kennisgeving als bedoeld in [artikel 12, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=12&z=2023-07-01&g=2023-07-01), betrekking heeft, geschiedt zowel op elektronische wijze als op een door het bestuursorgaan aan te wijzen locatie.
+1. De terinzagelegging waarop een mededeling of kennisgeving als bedoeld in [artikel 12, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=12&z=2024-01-01&g=2024-01-01), betrekking heeft, geschiedt zowel op elektronische wijze als op een door het bestuursorgaan aan te wijzen locatie.
 
 2. Het bestuursorgaan houdt voor de wijze van terinzagelegging een vaste gedragslijn aan.
 
-3. De terinzagelegging vindt niet plaats in de Staatscourant of in een in [artikel 2, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=2&z=2023-07-01&g=2023-07-01), bedoeld publicatieblad.
+3. De terinzagelegging vindt niet plaats in de Staatscourant of in een in [artikel 2, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=2&z=2024-01-01&g=2024-01-01), bedoeld publicatieblad.
 
 4. Indien de terinzagelegging betrekking heeft op stukken die niet door het bestuursorgaan zijn vervaardigd, kan degene die de stukken aan het bestuursorgaan heeft overgelegd, daarbij gemotiveerd verzoeken de terinzagelegging te beperken. Het bestuursorgaan kan degene die een document heeft overgelegd verzoeken om een versie van dat document aan te leveren waaruit de gegevens die niet ter inzage worden gelegd, zijn verwijderd, indien de verwijdering redelijkerwijs niet van het bestuursorgaan kan worden gevergd. Het bestuursorgaan laat terinzagelegging achterwege voor zover [artikel 5.1 van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1) aan de terinzagelegging in de weg staat.
 
 ##### Artikel 14
 
-Een termijn die krachtens wettelijk voorschrift aanvangt met een mededeling of een kennisgeving als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=12&z=2023-07-01&g=2023-07-01) of een terinzagelegging als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=13&z=2023-07-01&g=2023-07-01), geldt niet als aangevangen, zolang met betrekking tot die mededeling, kennisgeving of terinzagelegging de wettelijke voorschriften niet zijn nageleefd.
+Een termijn die krachtens wettelijk voorschrift aanvangt met een mededeling of een kennisgeving als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=12&z=2024-01-01&g=2024-01-01) of een terinzagelegging als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=13&z=2024-01-01&g=2024-01-01), geldt niet als aangevangen, zolang met betrekking tot die mededeling, kennisgeving of terinzagelegging de wettelijke voorschriften niet zijn nageleefd.
 
 ##### Artikel 14a
 
@@ -181,7 +181,7 @@ Een termijn die krachtens wettelijk voorschrift aanvangt met een mededeling of e
 
 3. Indien kosteloze beschikbaarheid van de in het eerste of tweede lid bedoelde normen voor alle betrokkenen voldoende verzekerd is, kan worden volstaan met mededeling van de vindplaats van de normen.
 
-4. Indien de mededeling van de in het eerste of tweede lid bedoelde normen niet is toegestaan en de kenbaarheid niet overeenkomstig het derde lid kan worden verzekerd, verleent Onze Minister die het aangaat dan wel het bestuursorgaan, ten minste zolang de in het eerste lid bedoelde wet of algemene maatregel van bestuur of het in het tweede lid bedoelde andere algemeen verbindende voorschrift niet is ingetrokken of vervallen, eenieder op verzoek kosteloos inzage in deze normen. Bij de bekendmaking van het algemeen verbindend voorschrift wordt medegedeeld waar inzage kan worden verkregen. De [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=13&z=2023-07-01&g=2023-07-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=18&z=2023-07-01&g=2023-07-01) zijn niet van toepassing.
+4. Indien de mededeling van de in het eerste of tweede lid bedoelde normen niet is toegestaan en de kenbaarheid niet overeenkomstig het derde lid kan worden verzekerd, verleent Onze Minister die het aangaat dan wel het bestuursorgaan, ten minste zolang de in het eerste lid bedoelde wet of algemene maatregel van bestuur of het in het tweede lid bedoelde andere algemeen verbindende voorschrift niet is ingetrokken of vervallen, eenieder op verzoek kosteloos inzage in deze normen. Bij de bekendmaking van het algemeen verbindend voorschrift wordt medegedeeld waar inzage kan worden verkregen. De [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=13&z=2024-01-01&g=2024-01-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=18&z=2024-01-01&g=2024-01-01) zijn niet van toepassing.
 
 ##### Artikel 15
 
@@ -189,37 +189,37 @@ Bij algemene maatregel van bestuur kunnen regels worden gesteld over de bewaring
 
 ##### Artikel 16
 
-1. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de plaatsing van de in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=4&z=2023-07-01&g=2023-07-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5&z=2023-07-01&g=2023-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=6&z=2023-07-01&g=2023-07-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=12&z=2023-07-01&g=2023-07-01) bedoelde publicaties, waaronder de vormgeving, de structuur en de toegankelijkheid.
+1. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de plaatsing van de in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=4&z=2024-01-01&g=2024-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5&z=2024-01-01&g=2024-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=6&z=2024-01-01&g=2024-01-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=12&z=2024-01-01&g=2024-01-01) bedoelde publicaties, waaronder de vormgeving, de structuur en de toegankelijkheid.
 
-2. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de uitgifte en het beschikbaar blijven van de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=1&z=2023-07-01&g=2023-07-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=2&z=2023-07-01&g=2023-07-01) genoemde publicatiebladen, over de verdere inhoud van de Staatscourant en de in artikel 2 genoemde publicatiebladen en over het beschikbaar blijven van de bekendmakingen waarbij [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=7&z=2023-07-01&g=2023-07-01), wordt toegepast.
+2. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de uitgifte en het beschikbaar blijven van de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=1&z=2024-01-01&g=2024-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=2&z=2024-01-01&g=2024-01-01) genoemde publicatiebladen, over de verdere inhoud van de Staatscourant en de in artikel 2 genoemde publicatiebladen en over het beschikbaar blijven van de bekendmakingen waarbij [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=7&z=2024-01-01&g=2024-01-01), wordt toegepast.
 
-3. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de wijze van terinzagelegging als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=13&z=2023-07-01&g=2023-07-01).
+3. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de wijze van terinzagelegging als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=13&z=2024-01-01&g=2024-01-01).
 
-4. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de wijze waarop de integriteit van de in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=4&z=2023-07-01&g=2023-07-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5&z=2023-07-01&g=2023-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=6&z=2023-07-01&g=2023-07-01), [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=7&z=2023-07-01&g=2023-07-01), en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=12&z=2023-07-01&g=2023-07-01) bedoelde publicaties bij de voorbereiding, bij de vaststelling en bij en na publicatie wordt geborgd.
+4. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de wijze waarop de integriteit van de in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=4&z=2024-01-01&g=2024-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5&z=2024-01-01&g=2024-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=6&z=2024-01-01&g=2024-01-01), [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=7&z=2024-01-01&g=2024-01-01), en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=12&z=2024-01-01&g=2024-01-01) bedoelde publicaties bij de voorbereiding, bij de vaststelling en bij en na publicatie wordt geborgd.
 
 5. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot het in rekening brengen van publicatiekosten.
 
 ##### Artikel 17
 
-1. Indien elektronische uitgifte van het Staatsblad onderscheidenlijk de Staatscourant op de krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=3&z=2023-07-01&g=2023-07-01), bepaalde wijze geheel of gedeeltelijk onmogelijk is, voorziet Onze Minister van Justitie en Veiligheid onderscheidenlijk Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties in een vervangende uitgave volgens bij ministeriële regeling te stellen regels.
+1. Indien elektronische uitgifte van het Staatsblad onderscheidenlijk de Staatscourant op de krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=3&z=2024-01-01&g=2024-01-01), bepaalde wijze geheel of gedeeltelijk onmogelijk is, voorziet Onze Minister van Justitie en Veiligheid onderscheidenlijk Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties in een vervangende uitgave volgens bij ministeriële regeling te stellen regels.
 
-2. Indien elektronische uitgifte van een van de in [artikel 2, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=2&z=2023-07-01&g=2023-07-01), genoemde publicatiebladen op de krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=3&z=2023-07-01&g=2023-07-01), bepaalde wijze geheel of gedeeltelijk onmogelijk is, voorziet het voor publicatie verantwoordelijke bestuursorgaan in een vervangende uitgave volgens door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties te stellen regels.
+2. Indien elektronische uitgifte van een van de in [artikel 2, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=2&z=2024-01-01&g=2024-01-01), genoemde publicatiebladen op de krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=3&z=2024-01-01&g=2024-01-01), bepaalde wijze geheel of gedeeltelijk onmogelijk is, voorziet het voor publicatie verantwoordelijke bestuursorgaan in een vervangende uitgave volgens door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties te stellen regels.
 
-3. Zodra de onmogelijkheid is opgeheven, wordt de vervangende uitgave alsnog op de krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=3&z=2023-07-01&g=2023-07-01), bepaalde wijze ter beschikking gesteld.
+3. Zodra de onmogelijkheid is opgeheven, wordt de vervangende uitgave alsnog op de krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=3&z=2024-01-01&g=2024-01-01), bepaalde wijze ter beschikking gesteld.
 
 ##### Artikel 18
 
-1. Aan eenieder wordt op verzoek kosteloos inzage verleend in of een papieren afschrift verstrekt van een in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=1&z=2023-07-01&g=2023-07-01) of [2](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=2&z=2023-07-01&g=2023-07-01) genoemd publicatieblad, een overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=7&z=2023-07-01&g=2023-07-01) bekendgemaakte bijlage of de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=12&z=2023-07-01&g=2023-07-01) bedoelde ter inzage gelegde stukken, tenzij de aard daarvan zich daartegen verzet. Een papieren afschrift wordt verstrekt tegen ten hoogste de kosten van het maken van een zodanig afschrift.
+1. Aan eenieder wordt op verzoek kosteloos inzage verleend in of een papieren afschrift verstrekt van een in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=1&z=2024-01-01&g=2024-01-01) of [2](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=2&z=2024-01-01&g=2024-01-01) genoemd publicatieblad, een overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=7&z=2024-01-01&g=2024-01-01) bekendgemaakte bijlage of de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=12&z=2024-01-01&g=2024-01-01) bedoelde ter inzage gelegde stukken, tenzij de aard daarvan zich daartegen verzet. Een papieren afschrift wordt verstrekt tegen ten hoogste de kosten van het maken van een zodanig afschrift.
 
-2. Onze Minister van Justitie en Veiligheid onderscheidenlijk Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties wijst een uitgiftepunt aan waar de inzage of het afschrift van het Staatsblad en een afschrift van een overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=7&z=2023-07-01&g=2023-07-01) bekendgemaakte bijlage bij het Staatsblad, onderscheidenlijk de Staatscourant verkregen kan worden.
+2. Onze Minister van Justitie en Veiligheid onderscheidenlijk Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties wijst een uitgiftepunt aan waar de inzage of het afschrift van het Staatsblad en een afschrift van een overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=7&z=2024-01-01&g=2024-01-01) bekendgemaakte bijlage bij het Staatsblad, onderscheidenlijk de Staatscourant verkregen kan worden.
 
-3. Het bestuursorgaan dat in de Staatscourant overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=7&z=2023-07-01&g=2023-07-01) een bijlage heeft bekendgemaakt of overeenkomstig [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=12&z=2023-07-01&g=2023-07-01), kennis heeft gegeven van de terinzagelegging van stukken, verstrekt desgevraagd de in het eerste lid bedoelde inzage of afschriften van die bijlage en deze stukken.
+3. Het bestuursorgaan dat in de Staatscourant overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=7&z=2024-01-01&g=2024-01-01) een bijlage heeft bekendgemaakt of overeenkomstig [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=12&z=2024-01-01&g=2024-01-01), kennis heeft gegeven van de terinzagelegging van stukken, verstrekt desgevraagd de in het eerste lid bedoelde inzage of afschriften van die bijlage en deze stukken.
 
-4. Een in [artikel 2, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=2&z=2023-07-01&g=2023-07-01), genoemd openbaar lichaam of een in artikel 2, vijfde lid, genoemd openbaar lichaam, bedrijfsvoeringsorganisatie of gemeenschappelijk orgaan, wijst een uitgiftepunt aan waar de in het eerste lid bedoelde inzage of het afschrift verkregen kan worden.
+4. Een in [artikel 2, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=2&z=2024-01-01&g=2024-01-01), genoemd openbaar lichaam of een in artikel 2, vijfde lid, genoemd openbaar lichaam, bedrijfsvoeringsorganisatie of gemeenschappelijk orgaan, wijst een uitgiftepunt aan waar de in het eerste lid bedoelde inzage of het afschrift verkregen kan worden.
 
 ##### Artikel 19
 
-1. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=6&z=2023-07-01&g=2023-07-01) bedoelde bestuursorganen houden de teksten van bekendgemaakte wetten, algemene maatregelen van bestuur en anders dan bij of krachtens algemene maatregel van bestuur vastgestelde algemeen verbindende voorschriften, beleidsregels en gemeenschappelijke regelingen in geconsolideerde vorm voor eenieder kosteloos beschikbaar door middel van een bij of krachtens algemene maatregel van bestuur aangewezen algemeen toegankelijk elektronisch medium. Hierbij kan worden volstaan met een elektronische verwijzing naar de in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=7&z=2023-07-01&g=2023-07-01), bedoelde informatie of de in artikel 7, tweede lid, bedoelde bijlage.
+1. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=6&z=2024-01-01&g=2024-01-01) bedoelde bestuursorganen houden de teksten van bekendgemaakte wetten, algemene maatregelen van bestuur en anders dan bij of krachtens algemene maatregel van bestuur vastgestelde algemeen verbindende voorschriften, beleidsregels en gemeenschappelijke regelingen in geconsolideerde vorm voor eenieder kosteloos beschikbaar door middel van een bij of krachtens algemene maatregel van bestuur aangewezen algemeen toegankelijk elektronisch medium. Hierbij kan worden volstaan met een elektronische verwijzing naar de in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=7&z=2024-01-01&g=2024-01-01), bedoelde informatie of de in artikel 7, tweede lid, bedoelde bijlage.
 
 2. Bij algemene maatregel van bestuur kunnen categorieën van wetten, algemene maatregelen van bestuur en andere in het eerste lid genoemde besluiten worden aangewezen, waarop het eerste lid niet van toepassing is.
 
@@ -231,13 +231,13 @@ Bij algemene maatregel van bestuur kunnen regels worden gesteld over de bewaring
 
 ##### Artikel 20
 
-1. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kan eenieder een elektronisch bericht zenden over de bekendmakingen, mededelingen en kennisgevingen in de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=1&z=2023-07-01&g=2023-07-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=2&z=2023-07-01&g=2023-07-01) genoemde publicatiebladen die betrekking hebben op de omgeving van het adres van inschrijving van de ontvanger in de basisregistratie personen.
+1. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kan eenieder een elektronisch bericht zenden over de bekendmakingen, mededelingen en kennisgevingen in de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=1&z=2024-01-01&g=2024-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=2&z=2024-01-01&g=2024-01-01) genoemde publicatiebladen die betrekking hebben op de omgeving van het adres van inschrijving van de ontvanger in de basisregistratie personen.
 
 2. Het bericht wordt niet verzonden als de ontvanger heeft verzocht een dergelijk bericht niet te ontvangen. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kan de ontvanger die heeft verzocht een dergelijk bericht niet te ontvangen, in bij algemene maatregel van bestuur bepaalde gevallen uitnodigen zich alsnog voor deze berichten aan te melden.
 
 3. Bij algemene maatregel van bestuur worden regels gesteld over de wijze van verzenden van het bericht, het verzoek en de uitnodiging, bedoeld in het tweede lid, en de opslag en de verwerking van persoonsgegevens ten behoeve van de verzending van deze berichten. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kan nadere regels stellen over vanaf welke leeftijd, met welke frequentie en van welk type bestuursorganen en publicaties personen elektronische berichten krijgen toegezonden, alsmede over de grootte van de omgeving van het adres, bedoeld in het eerste lid.
 
-4. In aanvulling op het eerste lid, kan eenieder verzoeken om een elektronisch bericht te ontvangen van bekendmakingen, mededelingen en kennisgevingen in de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=1&z=2023-07-01&g=2023-07-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=2&z=2023-07-01&g=2023-07-01) genoemde publicatiebladen die betrekking hebben op een bepaalde locatie of een bepaald onderwerp.
+4. In aanvulling op het eerste lid, kan eenieder verzoeken om een elektronisch bericht te ontvangen van bekendmakingen, mededelingen en kennisgevingen in de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=1&z=2024-01-01&g=2024-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=2&z=2024-01-01&g=2024-01-01) genoemde publicatiebladen die betrekking hebben op een bepaalde locatie of een bepaald onderwerp.
 
 5. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kan regels stellen over de wijze waarop om een elektronisch bericht kan worden verzocht, alsmede over de categorieën onderwerpen waarvoor een dergelijk verzoek kan worden gedaan.
 
@@ -255,7 +255,7 @@ Vervallen
 
 ##### Artikel 24
 
-De in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=19&z=2023-07-01&g=2023-07-01), opgenomen verplichting om beleidsregels in geconsolideerde vorm voor eenieder kosteloos beschikbaar te houden, geldt voor de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=6&z=2023-07-01&g=2023-07-01) bedoelde bestuursorganen voor beleidsregels die zijn bekendgemaakt voorafgaand aan de inwerkingtreding van artikel 19 en niet na de inwerkingtreding van genoemd artikel zijn gewijzigd, vanaf een jaar na het tijdstip waarop genoemd artikel in werking is getreden.
+De in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=19&z=2024-01-01&g=2024-01-01), opgenomen verplichting om beleidsregels in geconsolideerde vorm voor eenieder kosteloos beschikbaar te houden, geldt voor de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=6&z=2024-01-01&g=2024-01-01) bedoelde bestuursorganen voor beleidsregels die zijn bekendgemaakt voorafgaand aan de inwerkingtreding van artikel 19 en niet na de inwerkingtreding van genoemd artikel zijn gewijzigd, vanaf een jaar na het tijdstip waarop genoemd artikel in werking is getreden.
 
 ##### Artikel 25
 
@@ -263,7 +263,7 @@ De voorafgaand aan de inwerkingtreding van de [artikelen 3.1, onderdeel D](https
 
 ##### Artikel 25a
 
-1. Waar in een algemeen verbindend voorschrift, niet zijnde een wet, met betrekking tot de bekendmaking van een besluit de term «een dag-, nieuws- of huis-aan-huisblad» dan wel een variant van die term wordt gebezigd, wordt in plaats van die term gelezen «het publicatieblad, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=1&z=2023-07-01&g=2023-07-01) of [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=2&z=2023-07-01&g=2023-07-01) van de Bekendmakingswet».
+1. Waar in een algemeen verbindend voorschrift, niet zijnde een wet, met betrekking tot de bekendmaking van een besluit de term «een dag-, nieuws- of huis-aan-huisblad» dan wel een variant van die term wordt gebezigd, wordt in plaats van die term gelezen «het publicatieblad, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=1&z=2024-01-01&g=2024-01-01) of [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=2&z=2024-01-01&g=2024-01-01) van de Bekendmakingswet».
 
 2. Het eerste lid is niet van toepassing op een algemeen verbindend voorschrift afkomstig van een bestuursorgaan van het openbaar lichaam, bedoeld in [artikel 1, onderdeel a, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=1).
 
