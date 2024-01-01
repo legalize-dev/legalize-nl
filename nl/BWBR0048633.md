@@ -4,7 +4,7 @@ identifier: "BWBR0048633"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2023-09-16"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048633"
 soort: "AMvB"
@@ -50,61 +50,41 @@ Hebben goedgevonden en verstaan:
 
 Wijzigt het Besluit activiteiten leefomgeving.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel II. ([Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297))
 
 Wijzigt het Besluit bouwwerken leefomgeving.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III. ([Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313))
 
 Wijzigt het Besluit kwaliteit leefomgeving.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IV. ([Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278))
 
 Wijzigt het Omgevingsbesluit.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel V. ([Invoeringsbesluit Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0044923))
 
 Wijzigt het Invoeringsbesluit Omgevingswet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VI. ([Aanvullingsbesluit geluid Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0044679))
 
 Wijzigt het Aanvullingsbesluit geluid Omgevingswet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VII. ([Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0021609))
 
 Wijzigt het Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VIII. ([Besluit basisregistratie ondergrond](https://wetten.overheid.nl/jci1.3:c:BWBR0040205))
 
 Wijzigt het Besluit basisregistratie ondergrond.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IX. ([Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929))
 
 Wijzigt het Besluit bodemkwaliteit.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel X. (Besluit van 4 maart 2020, houdende wijziging van het [Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461) en van enkele andere besluiten inzake de implementatie van de tweede herziening van de Richtlijn energieprestatie gebouwen)
 
 Wijzigt het Besluit bouwwerken leefomgeving.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XI. (Besluit van 11 maart 2021 tot technische aanpassing van enige algemene maatregelen van bestuur met betrekking tot burgerluchthavens, militaire luchthavens en buitenlandse luchtvaartterreinen in verband met de invoering van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885))
 
@@ -114,7 +94,7 @@ Wijzigt het Luchthavenbesluit Lelystad, het Besluit burgerluchthavens en het Bes
 
 1. Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. In afwijking van het eerste lid treedt [artikel XI](https://wetten.overheid.nl/jci1.3:c:BWBR0048633&artikel=XI&z=2023-09-16&g=2023-09-16) in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
+2. In afwijking van het eerste lid treedt [artikel XI](https://wetten.overheid.nl/jci1.3:c:BWBR0048633&artikel=XI&z=2024-01-01&g=2024-01-01) in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
 ##### Artikel XIII. (Citeertitel)
 
