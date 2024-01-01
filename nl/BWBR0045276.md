@@ -4,7 +4,7 @@ identifier: "BWBR0045276"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2022-07-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045276"
 soort: "AMvB"
@@ -136,13 +136,13 @@ Onverminderd [artikel 4:35, tweede en derde lid, van de Algemene wet bestuursrec
 
 - e. het niet aannemelijk is dat een persoon met een structurele functionele beperking voor het verrichten van werkzaamheden aangewezen is op de betreffende generieke werkgeversvoorziening;
 
-- f. het niet aannemelijk is dat de generieke werkgeversvoorziening zal worden benut door het aantal personen, bedoeld in [artikel 3, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045276&paragraaf=2&artikel=3&z=2022-07-01&g=2022-07-01);
+- f. het niet aannemelijk is dat de generieke werkgeversvoorziening zal worden benut door het aantal personen, bedoeld in [artikel 3, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045276&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01);
 
 - g. het niet aannemelijk is dat de generieke werkgeversvoorziening zal worden benut door personen die Nederlander zijn of rechtmatig verblijf hebben op grond van [artikel 8 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8);
 
-- h. de kosten voor het realiseren van de generieke werkgeversvoorziening, ook indien wordt uitgegaan van de goedkoopste adequate voorziening of na aftrek van inbreng van eigen middelen, niet evenredig zijn tot de beoogde benutting ervan door het aantal personen, bedoeld in [artikel 3, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045276&paragraaf=2&artikel=3&z=2022-07-01&g=2022-07-01);
+- h. de kosten voor het realiseren van de generieke werkgeversvoorziening, ook indien wordt uitgegaan van de goedkoopste adequate voorziening of na aftrek van inbreng van eigen middelen, niet evenredig zijn tot de beoogde benutting ervan door het aantal personen, bedoeld in [artikel 3, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045276&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01);
 
-- i. de aanvraag is gedaan buiten de tijdvakken, genoemd in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045276&paragraaf=3&artikel=5&z=2022-07-01&g=2022-07-01), of vastgesteld op grond van artikel 5, vierde lid;
+- i. de aanvraag is gedaan buiten de tijdvakken, genoemd in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045276&paragraaf=3&artikel=5&z=2024-01-01&g=2024-01-01), of vastgesteld op grond van artikel 5, vierde lid;
 
 - j. de aanvraag ziet op kosten die worden gemaakt op grond van de [artikelen 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=3), of [4 van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=4); of
 
@@ -150,7 +150,7 @@ Onverminderd [artikel 4:35, tweede en derde lid, van de Algemene wet bestuursrec
 
 ##### Artikel 8. Subsidievaststelling
 
-Onverminderd [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=2), en [artikel 10 van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=10), stelt het Uitvoeringsinstituut werknemersverzekeringen de subsidie vast op het bedrag dat noodzakelijk is voor het dekken van de kosten, die op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045276&paragraaf=2&artikel=4&z=2022-07-01&g=2022-07-01) voor subsidie in aanmerking komen.
+Onverminderd [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=2), en [artikel 10 van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=10), stelt het Uitvoeringsinstituut werknemersverzekeringen de subsidie vast op het bedrag dat noodzakelijk is voor het dekken van de kosten, die op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045276&paragraaf=2&artikel=4&z=2024-01-01&g=2024-01-01) voor subsidie in aanmerking komen.
 
 #### Paragraaf 4. Gebruik van de subsidie
 
@@ -160,7 +160,7 @@ Onverminderd [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR001
 
 2. Het Uitvoeringsinstituut werknemersverzekeringen legt de ontvanger voorts de verplichting op om gedurende drie kalenderjaren:
 
-- a. inspanningen te verrichten om de generieke werkgeversvoorziening te benutten door een dienstbetrekking aan te gaan of voort te zetten, en te houden met het aantal personen, bedoeld in [artikel 3, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045276&paragraaf=2&artikel=3&z=2022-07-01&g=2022-07-01);
+- a. inspanningen te verrichten om de generieke werkgeversvoorziening te benutten door een dienstbetrekking aan te gaan of voort te zetten, en te houden met het aantal personen, bedoeld in [artikel 3, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045276&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01);
 
 - b. het Uitvoeringsinstituut werknemersverzekeringen onverwijld te informeren:
 
@@ -184,9 +184,9 @@ Onverminderd [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR001
 
 - c. die geen proeftijd heeft; en
 
-- d. waarbij het loon voor de arbeidsomvang, bedoeld in onderdeel a, minimaal het minimumloon voor die arbeidsomvang bedraagt.
+- d. waarbij het loon per uur minimaal het minimumloon per uur bedraagt.
 
-4. Het minimumloon, bedoeld in het derde lid, onderdeel d, is het minimumloon, bedoeld in [artikel 8, eerste lid, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) of, indien het een werknemer jonger dan 21 jaar betreft, het voor zijn leeftijd geldende minimumloon, bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=7), en artikel 8, derde lid, van laatstgenoemde wet, beide vermeerderd met de daarover berekende vakantietoeslag, bedoeld in [artikel 15 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=15).
+4. Het minimumloon per uur, bedoeld in het derde lid, onderdeel d, is het minimumloon per uur, bedoeld in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) of, indien het een werknemer jonger dan 21 jaar betreft, het voor zijn leeftijd geldende minimumloon per uur, bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=7), en artikel 8, derde lid, van die wet, beide vermeerderd met de daarover berekende vakantietoeslag, bedoeld in [artikel 15 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=15).
 
 5. Het informeren, bedoeld onder het tweede lid, onderdeel b, sub ii, geschiedt door de gegevens, bedoeld in [artikel 9, onderdelen b tot en met e, van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=9), te verstrekken aan het Uitvoeringsinstituut werknemersverzekeringen.
 
@@ -196,13 +196,13 @@ Onverminderd [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR001
 
 1. Onverminderd [artikel 4:49, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49), wijzigt het Uitvoeringsinstituut werknemersverzekeringen de subsidievaststelling:
 
-- a. door tot uiterlijk twee jaar na de subsidievaststelling het vastgestelde bedrag met twee derde te verlagen indien de ontvanger van de subsidie in de periode tussen de subsidievaststelling en een jaar na de subsidievaststelling niet heeft voldaan aan verplichtingen, bedoeld in [artikel 9, tweede tot en met het vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045276&paragraaf=4&artikel=9&z=2022-07-01&g=2022-07-01); en
+- a. door tot uiterlijk twee jaar na de subsidievaststelling het vastgestelde bedrag met twee derde te verlagen indien de ontvanger van de subsidie in de periode tussen de subsidievaststelling en een jaar na de subsidievaststelling niet heeft voldaan aan verplichtingen, bedoeld in [artikel 9, tweede tot en met het vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045276&paragraaf=4&artikel=9&z=2024-01-01&g=2024-01-01); en
 
-- b. door tot uiterlijk drie jaar na de subsidievaststelling het oorspronkelijk vastgestelde bedrag met een derde te verlagen indien de ontvanger van de subsidie in de periode tussen een jaar na de subsidievaststelling en twee jaar na de subsidievaststelling niet heeft voldaan aan verplichtingen, bedoeld in [artikel 9, tweede tot en met het vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045276&paragraaf=4&artikel=9&z=2022-07-01&g=2022-07-01).
+- b. door tot uiterlijk drie jaar na de subsidievaststelling het oorspronkelijk vastgestelde bedrag met een derde te verlagen indien de ontvanger van de subsidie in de periode tussen een jaar na de subsidievaststelling en twee jaar na de subsidievaststelling niet heeft voldaan aan verplichtingen, bedoeld in [artikel 9, tweede tot en met het vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045276&paragraaf=4&artikel=9&z=2024-01-01&g=2024-01-01).
 
-2. De subsidievaststelling wordt voor de betreffende periode niet gewijzigd indien de aanvrager aantoont in die periode alle redelijkerwijs te verwachten inspanningen te hebben verricht om te voldoen aan de verplichtingen uit [artikel 9, tweede tot en met het vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045276&paragraaf=4&artikel=9&z=2022-07-01&g=2022-07-01).
+2. De subsidievaststelling wordt voor de betreffende periode niet gewijzigd indien de aanvrager aantoont in die periode alle redelijkerwijs te verwachten inspanningen te hebben verricht om te voldoen aan de verplichtingen uit [artikel 9, tweede tot en met het vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045276&paragraaf=4&artikel=9&z=2024-01-01&g=2024-01-01).
 
-3. Het Uitvoeringsinstituut werknemersverzekeringen trekt de subsidievaststelling volledig in, indien de ontvanger van de subsidie niet heeft voldaan aan de verplichting, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045276&paragraaf=4&artikel=9&z=2022-07-01&g=2022-07-01).
+3. Het Uitvoeringsinstituut werknemersverzekeringen trekt de subsidievaststelling volledig in, indien de ontvanger van de subsidie niet heeft voldaan aan de verplichting, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045276&paragraaf=4&artikel=9&z=2024-01-01&g=2024-01-01).
 
 #### Paragraaf 6. Slotbepalingen
 
