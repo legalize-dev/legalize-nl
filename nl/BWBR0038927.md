@@ -4,7 +4,7 @@ identifier: "BWBR0038927"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2017-07-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038927"
 soort: "wet"
@@ -63,8 +63,6 @@ Wijzigt de Wet op de vennootschapsbelasting 1969.
 ##### Artikel V
 
 Wijzigt de Wet op de dividendbelasting 1965.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VI
 
@@ -142,9 +140,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 1. Onder toepassing van [artikel 12 van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=12) treedt deze wet in werking met ingang van 1 januari 2017.
 
-2. In afwijking van het eerste lid treedt [artikel VIII, onderdelen E en F](https://wetten.overheid.nl/jci1.3:c:BWBR0038927&artikel=VIII&z=2017-07-01&g=2017-07-01), in werking met ingang van 1 juli 2017.
+2. In afwijking van het eerste lid treedt [artikel VIII, onderdelen E en F](https://wetten.overheid.nl/jci1.3:c:BWBR0038927&artikel=VIII&z=2024-01-01&g=2024-01-01), in werking met ingang van 1 juli 2017.
 
-3. In afwijking van het eerste lid treden de [artikelen V](https://wetten.overheid.nl/jci1.3:c:BWBR0038927&artikel=V&z=2017-07-01&g=2017-07-01), [XI](https://wetten.overheid.nl/jci1.3:c:BWBR0038927&artikel=XI&z=2017-07-01&g=2017-07-01), [XII](https://wetten.overheid.nl/jci1.3:c:BWBR0038927&artikel=XII&z=2017-07-01&g=2017-07-01), [XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0038927&artikel=XIII&z=2017-07-01&g=2017-07-01), [XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0038927&artikel=XIV&z=2017-07-01&g=2017-07-01), [XV](https://wetten.overheid.nl/jci1.3:c:BWBR0038927&artikel=XV&z=2017-07-01&g=2017-07-01), [XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0038927&artikel=XVI&z=2017-07-01&g=2017-07-01), [XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0038927&artikel=XVII&z=2017-07-01&g=2017-07-01), [XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0038927&artikel=XVIII&z=2017-07-01&g=2017-07-01) en [XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0038927&artikel=XIX&z=2017-07-01&g=2017-07-01) in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. In dat besluit wordt zo nodig toepassing gegeven aan [artikel 12 van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=12).
+3. In afwijking van het eerste lid treden de [artikelen V](https://wetten.overheid.nl/jci1.3:c:BWBR0038927&artikel=V&z=2024-01-01&g=2024-01-01), [XI](https://wetten.overheid.nl/jci1.3:c:BWBR0038927&artikel=XI&z=2024-01-01&g=2024-01-01), [XII](https://wetten.overheid.nl/jci1.3:c:BWBR0038927&artikel=XII&z=2024-01-01&g=2024-01-01), [XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0038927&artikel=XIII&z=2024-01-01&g=2024-01-01), [XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0038927&artikel=XIV&z=2024-01-01&g=2024-01-01), [XV](https://wetten.overheid.nl/jci1.3:c:BWBR0038927&artikel=XV&z=2024-01-01&g=2024-01-01), [XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0038927&artikel=XVI&z=2024-01-01&g=2024-01-01), [XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0038927&artikel=XVII&z=2024-01-01&g=2024-01-01), [XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0038927&artikel=XVIII&z=2024-01-01&g=2024-01-01) en [XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0038927&artikel=XIX&z=2024-01-01&g=2024-01-01) in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. In dat besluit wordt zo nodig toepassing gegeven aan [artikel 12 van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=12).
 
 ##### Artikel XXI
 
