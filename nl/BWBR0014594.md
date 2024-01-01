@@ -4,7 +4,7 @@ identifier: "BWBR0014594"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-05"
-last_updated: "2018-08-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014594"
 soort: "ministeriele-regeling"
@@ -64,7 +64,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 Deze regeling wordt aangehaald als: Planningsbesluit klinisch genetisch onderzoek en erfelijkheidsadvisering.
 
-## Bijlage. bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014594&artikel=3&z=2018-08-01&g=2018-08-01) van het Planningsbesluit Klinisch genetisch onderzoek en erfelijkheidsadvisering
+## Bijlage. bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014594&artikel=3&z=2024-06-05&g=2024-01-01) van het Planningsbesluit Klinisch genetisch onderzoek en erfelijkheidsadvisering
 
 ### 1. Begripsbepaling
 
