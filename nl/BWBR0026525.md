@@ -4,7 +4,7 @@ identifier: "BWBR0026525"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2022-07-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026525"
 soort: "AMvB"
@@ -60,13 +60,13 @@ Hebben goedgevonden en verstaan:
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- **bedrijfswoning:** woning in of bij een gebouw of op of bij een terrein, slechts bestemd voor het huishouden van een persoon wiens huisvesting daar, gelet op de bestemming van het gebouw of terrein, noodzakelijk is;
+- **bedrijfswoning:** woning in of bij een gebouw of op of bij een terrein, slechts bestemd voor het huishouden van een persoon wiens huisvesting daar, gelet op de functie van het gebouw of terrein, noodzakelijk is;
 
-- **beperkt kwetsbaar gebouw:** gebouw met een kantoor-, cel-, industrie-, sport- of logiesfunctie als bedoeld in [artikel 1.1 van het Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461&artikel=1.1);
+- **beperkt kwetsbaar gebouw:** gebouw met een kantoor-, cel-, industrie-, sport- of logiesfunctie als bedoeld in [bijlage I bij het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=I);
 
-- **gebouw:** gebouw als bedoeld in [artikel 1, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1);
+- **gebouw:** gebouw als bedoeld in [bijlage bij de Omgevingswet](onbekend);
 
-- **geluidsgevoelig gebouw:** gebouw met een onderwijs- of gezondheidszorgfunctie als bedoeld in [artikel 1.1 van het Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461&artikel=1.1);
+- **geluidsgevoelig gebouw:** gebouw met een onderwijs- of gezondheidszorgfunctie als bedoeld in [bijlage I bij het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=I);
 
 - **gemotoriseerd schermvliegtuig:** schermvliegtuig, zijnde een zweeftoestel zonder starre hoofdstructuur dat kan worden gedragen en slechts kan worden gestart en geland door gebruik te maken van de benen van de bestuurder, dat over een motor beschikt;
 
@@ -76,9 +76,9 @@ Hebben goedgevonden en verstaan:
 
 - **instrumentbaan categorie I, II, of III:** landingsbaan van het type zoals omschreven in de onderdelen b, c en d van de definitie van het begrip Instrument runway in bijlage 14 bij het Verdrag inzake de internationale burgerluchtvaart (Trb. 2009, 48);
 
-- **kwetsbaar gebouw:** gebouw met een onderwijs- of gezondheidszorgfunctie als bedoeld in [artikel 1.1 van het Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461&artikel=1.1);
+- **kwetsbaar gebouw:** gebouw met een onderwijs- of gezondheidszorgfunctie als bedoeld in [bijlage I bij het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=I);
 
-- **Lden:** geluidbelasting van luchtvaartuigen uitgedrukt in Lden dB(A) en berekend op de wijze, bedoeld in [artikel 3, vierde lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=2&artikel=3&z=2022-07-01&g=2022-07-01);
+- **Lden:** geluidbelasting van luchtvaartuigen uitgedrukt in Lden dB(A) en berekend op de wijze, bedoeld in [artikel 3, vierde lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=2&artikel=3&z=2024-01-01&g=2024-01-01);
 
 - **luchtschip:** luchtvaartuig, lichter dan lucht, dat is voorzien van een voortstuwingsinrichting en een besturingsinrichting;
 
@@ -88,11 +88,21 @@ Hebben goedgevonden en verstaan:
 
 - **nood- of voorzorgslanding:** onvermijdbare landing van een luchtvaartuig op land of op water in het geval dat het voortzetten van de vlucht niet langer mogelijk dan wel niet langer veilig is;
 
+- **omgevingsvergunning voor een aanlegactiviteit:** omgevingsvergunning als bedoeld in [artikel 2.1, eerste lid, aanhef en onder b, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) dan wel omgevingsvergunning als bedoeld in [artikel 5.1, eerste lid, aanhef en onder a, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1) voor een omgevingsplanactiviteit bestaande uit het uitvoeren van een werk, geen bouwwerk zijnde, of van werkzaamheden;
+
+- **omgevingsvergunning voor het bouwen:** omgevingsvergunning als bedoeld in [artikel 2.1, eerste lid, aanhef en onder a, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) dan wel omgevingsvergunning als bedoeld in [artikel 5.1, eerste lid, aanhef en onder a, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1) voor een omgevingsplanactiviteit bestaande uit een bouwactiviteit;
+
 - **obstakel:** object dat zich boven het maaiveld bevindt en zich niet voortbeweegt;
 
 - **onbemand luchtvaartuig:** onbemand luchtvaartuig als bedoeld in artikel 3 van de basisverordening;
 
 - **overig gebouw:** gebouw niet zijnde een woning, een beperkt kwetsbaar gebouw of een kwetsbaar gebouw;
+
+- **paramotortrike:** luchtvaartuig zonder starre hoofdstructuur, dat wordt gestart en geland door gebruik te maken van een wielconstructie en over een hulpmotor beschikt, met niet meer dan twee zitplaatsen en een maximum startmassa van niet meer dan:
+
+- a. 300 kg voor een eenzitter;
+
+- b. 450 kg voor een tweezitter;
 
 - **RPA:** op afstand bestuurd luchtvaartuig (remotely piloted aircraft), onbemand, niet zijnde een modelluchtvaartuig;
 
@@ -174,11 +184,11 @@ Dit hoofdstuk is van toepassing op burgerluchthavens van regionale betekenis als
 
 ##### Artikel 7
 
-1. Indien bovenprovinciale belangen vorderen dat gebruik van een luchthaven essentieel is voor vluchten van algemeen maatschappelijk belang, regeringsvluchten, operationeel noodzakelijke militaire vluchten of vluchten in bondgenootschappelijk verband en dit gebruik op grond van het luchthavenbesluit of de luchthavenregeling voor die luchthaven niet mogelijk is, kan bij regeling van Onze Minister van Infrastructuur en Milieu worden bepaald welke van deze soorten vluchten tot die luchthaven toegang hebben en op welke periode van het etmaal. Indien het hierbij militaire vluchten betreft wordt de regeling in overeenstemming met Onze Minister van Defensie vastgesteld.
+1. Indien bovenprovinciale belangen vorderen dat gebruik van een luchthaven essentieel is voor vluchten van algemeen maatschappelijk belang, regeringsvluchten, operationeel noodzakelijke militaire vluchten of vluchten in bondgenootschappelijk verband en dit gebruik op grond van het luchthavenbesluit of de luchthavenregeling voor die luchthaven niet mogelijk is, kan bij regeling van Onze Minister van Infrastructuur en Waterstaat worden bepaald welke van deze soorten vluchten tot die luchthaven toegang hebben en op welke periode van het etmaal. Indien het hierbij militaire vluchten betreft wordt de regeling in overeenstemming met Onze Minister van Defensie vastgesteld.
 
 2. Bij de ministeriële regeling kan worden bepaald welke grenswaarden voor de geluidbelasting voor dit luchthavenluchtverkeer ter beschikking moeten worden gesteld.
 
-3. Alvorens de ministeriële regeling wordt vastgesteld, worden gedeputeerde staten, de exploitant en de gebruikers van de luchthaven en de luchtverkeersdienstverlener in de gelegenheid gesteld binnen zes weken hun zienswijze op een ontwerp van de regeling bij Onze Minister van Infrastructuur en Milieu naar voren te brengen.
+3. Alvorens de ministeriële regeling wordt vastgesteld, worden gedeputeerde staten, de exploitant en de gebruikers van de luchthaven en de luchtverkeersdienstverlener in de gelegenheid gesteld binnen zes weken hun zienswijze op een ontwerp van de regeling bij Onze Minister van Infrastructuur en Waterstaat naar voren te brengen.
 
 ## Titel 3. Luchthavenbesluit voor een luchthaven van regionale betekenis
 
@@ -214,7 +224,7 @@ Het luchthavenbesluit bevat voor het luchthavenluchtverkeer in ieder geval:
 
 - g. indien op de luchthaven of binnen een gebied van 6 kilometer rondom het luchthavengebied apparatuur voor luchtverkeerscommunicatie, -navigatie of -begeleiding aanwezig is: contouren ter aanduiding van de gebieden met hoogtebeperkingen in verband met de goede werking van deze apparatuur;
 
-- h. indien op de luchthaven een instrumentbaan categorie I, II, of III aanwezig is: een gebied van 6 kilometer rondom de start- en landingsbaan met beperkingen ten aanzien van vogelaantrekkende bestemmingen en grondgebruik;
+- h. indien op de luchthaven een instrumentbaan categorie I, II, of III aanwezig is: een gebied van 6 kilometer rondom de start- en landingsbaan met beperkingen ten aanzien van vogelaantrekkende activiteiten;
 
 - i. indien de luchthaven ook buiten de daglichtperiode is geopend: een laserstraalvrij gebied.
 
@@ -226,7 +236,7 @@ Het luchthavenbesluit bevat voor het luchthavenluchtverkeer in ieder geval:
 
 1. In het gebied dat gelegen is op en binnen een 10-5-plaatsgebonden risicocontour:
 
-- a. worden woningen, niet zijnde bedrijfswoningen, en kwetsbare gebouwen aan hun bestemming onttrokken;
+- a. worden woningen, niet zijnde bedrijfswoningen, en kwetsbare gebouwen aan hun functie onttrokken;
 
 - b. is nieuwbouw van een gebouw niet toegestaan.
 
@@ -236,7 +246,7 @@ Het luchthavenbesluit bevat voor het luchthavenluchtverkeer in ieder geval:
 
 - a. een woning rechtmatig aanwezig was en voor bewoning werd gebruikt, of
 
-- b. een bouwvergunning is verleend voor een woning op de desbetreffende plaats, mits binnen zes maanden na die datum een begin met de werkzaamheden is gemaakt.
+- b. een omgevingsvergunning voor het bouwen is verleend voor een woning op de desbetreffende plaats, mits binnen zes maanden na die datum een begin met de werkzaamheden is gemaakt.
 
 4. Ten aanzien van degene die op de datum van inwerkingtreding van het luchthavenbesluit rechtmatige gebruiker is van een woning bedoeld in het eerste lid, kan indien sprake is van bestaand gebruik, beëindiging van dit gebruik niet worden gevergd.
 
@@ -258,11 +268,11 @@ Het luchthavenbesluit bevat voor het luchthavenluchtverkeer in ieder geval:
 
 - a. bij nieuwbouw op een open plek in de bestaande bebouwing,
 
-- b. bij verandering van de bestemming van een gebouw, of
+- b. bij verandering van het gebruik van een gebouw, of
 
 - c. bij verplaatsing van een woning of een kwetsbaar gebouw naar een minder risicodragende locatie binnen het gebied.
 
-4. Het derde lid, aanhef en onder c, wordt niet eerder toegepast dan nadat de oude woning of het oude kwetsbare gebouw aan de bestemming is onttrokken.
+4. Het derde lid, aanhef en onder c, wordt niet eerder toegepast dan nadat de oude woning of het oude kwetsbare gebouw aan de functie is onttrokken.
 
 5. Het eerste en derde lid zijn niet van toepassing op een gebouw met een gezondheidszorgfunctie of een gebouw met een nevenfunctie van die gezondheidszorgfunctie, indien op of nabij dat gebouw een luchthaven is gelegen die uitsluitend wordt gebruikt voor vluchten ten behoeve van spoedeisende hulpverlening.
 
@@ -270,7 +280,7 @@ Het luchthavenbesluit bevat voor het luchthavenluchtverkeer in ieder geval:
 
 ##### Artikel 12
 
-1. In het gebied dat gelegen is op of binnen de contour van 70 dB(A) Lden worden woningen, niet zijnde bedrijfswoningen, en geluidsgevoelige gebouwen aan hun bestemming onttrokken. [Artikel 10, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=3&titeldeel=3&afdeling=3.2&paragraaf=3.2.2&artikel=10&z=2022-07-01&g=2022-07-01), is van overeenkomstige toepassing.
+1. In het gebied dat gelegen is op of binnen de contour van 70 dB(A) Lden worden woningen, niet zijnde bedrijfswoningen, en geluidsgevoelige gebouwen aan hun functie onttrokken. [Artikel 10, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=3&titeldeel=3&afdeling=3.2&paragraaf=3.2.2&artikel=10&z=2024-01-01&g=2024-01-01), is van overeenkomstige toepassing.
 
 2. In het gebied dat gelegen is op of binnen de contour van 56 dB(A) Lden is nieuwbouw van een woning en een geluidsgevoelig gebouw niet toegestaan.
 
@@ -286,7 +296,7 @@ Het luchthavenbesluit bevat voor het luchthavenluchtverkeer in ieder geval:
 
 - 3°. binnen het desbetreffende gebied wordt verplaatst naar een locatie waar de geluidbelasting ten gevolge van het luchthavenluchtverkeer minder is.
 
-4. Het derde lid, onderdeel b, aanhef en onder 3°, wordt niet eerder toegepast dan nadat de oude woning of het oude geluidsgevoelige gebouw aan de bestemming is onttrokken.
+4. Het derde lid, onderdeel b, aanhef en onder 3°, wordt niet eerder toegepast dan nadat de oude woning of het oude geluidsgevoelige gebouw aan de functie is onttrokken.
 
 5. Het eerste en tweede lid zijn niet van toepassing op een gebouw met een gezondheidszorgfunctie of een gebouw met een nevenfunctie van die gezondheidszorgfunctie, indien op of nabij dat gebouw een luchthaven is gelegen die uitsluitend wordt gebruikt voor vluchten ten behoeve van spoedeisende hulpverlening.
 
@@ -298,13 +308,13 @@ Het luchthavenbesluit bevat voor het luchthavenluchtverkeer in ieder geval:
 
 2. Het eerste lid geldt niet indien:
 
-- a. het obstakel of de helling is opgericht, geplaatst of aangelegd overeenkomstig een bouwvergunning of een aanlegvergunning, of
+- a. het obstakel of de helling is opgericht, geplaatst of aangelegd overeenkomstig een omgevingsvergunning voor het bouwen of een omgevingsvergunning voor een aanlegactiviteit, of
 
-- b. voor het obstakel of de helling vóór de inwerkingtreding van het luchthavenbesluit een bouwvergunning of aanlegvergunning is verleend,
+- b. voor het obstakel of de helling vóór de inwerkingtreding van het luchthavenbesluit een omgevingsvergunning voor het bouwen of een omgevingsvergunning voor een aanlegactiviteit is verleend,
 
 - c. het obstakel een boom of struik betreft tenzij de Inspectie Leefomgeving en Transport op schriftelijk verzoek van de exploitant van de luchthaven beoordeelt dat de boom of struik een onaanvaardbaar risico voor de vliegveiligheid oplevert.
 
-3. In het gebied, bedoeld in het eerste lid, is het verboden zonder of in afwijking van een aanlegvergunning een werk, geen bouwwerk zijnde, of een werkzaamheid uit te voeren voor zover dit werk of deze werkzaamheid niet voldoet aan de eisen met betrekking tot de vlakheid van het terrein.
+3. In het gebied, bedoeld in het eerste lid, is het verboden zonder of in afwijking van een omgevingsvergunning voor een aanlegactiviteit een werk, geen bouwwerk zijnde, of een werkzaamheid uit te voeren voor zover dit werk of deze werkzaamheid niet voldoet aan de eisen met betrekking tot de vlakheid van het terrein.
 
 4. Bij ministeriële regeling wordt bepaald op welke wijze de omvang van het gebied wordt vastgesteld en worden nadere regels gesteld over de constructie van obstakels en de vlakheid van het terrein.
 
@@ -314,13 +324,13 @@ Het luchthavenbesluit bevat voor het luchthavenluchtverkeer in ieder geval:
 
 2. Het eerste lid geldt niet indien:
 
-- a. het obstakel is opgericht, geplaatst of aangelegd overeenkomstig een omgevingsvergunning voor een bouw- of aanlegactiviteit,
+- a. het obstakel is opgericht, geplaatst of aangelegd overeenkomstig een omgevingsvergunning voor het bouwen of een omgevingsvergunning voor een aanlegactiviteit,
 
-- b. vóór het tijdstip van inwerkingtreding van het luchthavenbesluit voor het obstakel een omgevingsvergunning voor een bouw- of aanlegactiviteit is verleend, of
+- b. vóór het tijdstip van inwerkingtreding van het luchthavenbesluit voor het obstakel een omgevingsvergunning voor het bouwen of een omgevingsvergunning voor een aanlegactiviteit is verleend, of
 
 - c. het obstakel een boom of struik betreft tenzij de Inspectie Leefomgeving en Transport op schriftelijk verzoek van de exploitant van de luchthaven of Luchtverkeersleiding Nederland beoordeelt dat de boom of struik een onaanvaardbaar risico voor de vliegveiligheid oplevert of leidt tot ernstige operationele beperkingen in het gebruik van de luchthaven.
 
-3. [Artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=3&titeldeel=3&afdeling=3.2&paragraaf=3.2.4&artikel=13&z=2022-07-01&g=2022-07-01), is van overeenkomstige toepassing.
+3. [Artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=3&titeldeel=3&afdeling=3.2&paragraaf=3.2.4&artikel=13&z=2024-01-01&g=2024-01-01), is van overeenkomstige toepassing.
 
 4. Bij ministeriële regeling wordt bepaald op welke wijze het gebied wordt vastgesteld.
 
@@ -330,19 +340,19 @@ Het luchthavenbesluit bevat voor het luchthavenluchtverkeer in ieder geval:
 
 2. Het eerste lid geldt niet indien:
 
-- a. het obstakel is opgericht, geplaatst of aangelegd overeenkomstig een omgevingsvergunning voor een bouw- of aanlegactiviteit,
+- a. het obstakel is opgericht, geplaatst of aangelegd overeenkomstig een omgevingsvergunning voor het bouwen of een omgevingsvergunning voor een aanlegactiviteit,
 
-- b. vóór het tijdstip van inwerkingtreding van het luchthavenbesluit voor het obstakel een omgevingsvergunning voor een bouw- of aanlegactiviteit is verleend, of
+- b. vóór het tijdstip van inwerkingtreding van het luchthavenbesluit voor het obstakel een omgevingsvergunning voor het bouwen of een omgevingsvergunning voor een aanlegactiviteit is verleend, of
 
 - c. het obstakel een boom of struik betreft tenzij de Inspectie Leefomgeving en Transport op schriftelijk verzoek van de exploitant van de luchthaven of Luchtverkeersleiding Nederland beoordeelt dat de boom of struik een onaanvaardbaar risico voor de goede werking van de apparatuur, bedoeld in het eerste lid, oplevert.
 
-3. [Artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=3&titeldeel=3&afdeling=3.2&paragraaf=3.2.4&artikel=13&z=2022-07-01&g=2022-07-01), is van overeenkomstige toepassing.
+3. [Artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=3&titeldeel=3&afdeling=3.2&paragraaf=3.2.4&artikel=13&z=2024-01-01&g=2024-01-01), is van overeenkomstige toepassing.
 
 4. Bij ministeriële regeling wordt bepaald op welke wijze het gebied wordt vastgesteld.
 
 ##### Artikel 16
 
-1. In het gebied in de omtrek van 6 kilometer rondom de start- en landingsbaan van een luchthaven met een instrumentbaan categorie I, II, of III is een grondgebruik of een bestemming binnen de volgende categorieën niet toegestaan:
+1. In het gebied in de omtrek van 6 kilometer rondom de start- en landingsbaan van een luchthaven met een instrumentbaan categorie I, II, of III is het verrichten of toelaten van een activiteit binnen de volgende categorieën niet toegestaan:
 
 - a. industrie in de voedingsopslag met extramurale opslag of overslag;
 
@@ -356,9 +366,9 @@ Het luchthavenbesluit bevat voor het luchthavenluchtverkeer in ieder geval:
 
 2. Het eerste lid geldt niet:
 
-- a. voor zover het gebruik of de bestemming rechtmatig was op de dag vóór het tijdstip van inwerkingtreding van het luchthavenbesluit, of
+- a. voor zover het verrichten of toelaten van de activiteit rechtmatig was op de dag vóór het tijdstip van inwerkingtreding van het luchthavenbesluit, of
 
-- b. wanneer op basis van een studie naar de vogelaantrekkende werking kan worden geconcludeerd dat het gebruik of de bestemming geen onaanvaardbaar risico voor de vliegveiligheid oplevert.
+- b. wanneer op basis van een studie naar de vogelaantrekkende werking kan worden geconcludeerd dat het verrichten of toelaten van de activiteit geen onaanvaardbaar risico voor de vliegveiligheid oplevert.
 
 3. Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent de wijze waarop de studie, bedoeld in het tweede lid, onderdeel b, wordt uitgevoerd.
 
@@ -366,7 +376,7 @@ Het luchthavenbesluit bevat voor het luchthavenluchtverkeer in ieder geval:
 
 1. In het laserstraalvrije gebied is het gebruik van een laserstraal die de vliegveiligheid kan verstoren niet toegestaan.
 
-2. [Artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=3&titeldeel=3&afdeling=3.2&paragraaf=3.2.4&artikel=16&z=2022-07-01&g=2022-07-01), is van overeenkomstige toepassing.
+2. [Artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=3&titeldeel=3&afdeling=3.2&paragraaf=3.2.4&artikel=16&z=2024-01-01&g=2024-01-01), is van overeenkomstige toepassing.
 
 3. Bij ministeriële regeling wordt bepaald op welke wijze het gebied wordt vastgesteld.
 
@@ -378,7 +388,7 @@ Provinciale staten berekenen elke vijf jaar na vaststelling van een luchthavenbe
 
 ##### Artikel 19
 
-Bij de vaststelling van het luchthavenbesluit wordt een afweging gemaakt over de ruimtelijke ontwikkeling van het gebied gelegen tussen de geluidcontour van 56 dB(A) Lden en de geluidcontour van 48 dB(A) Lden in relatie tot het gebruik van de luchthaven.
+Bij de vaststelling van het luchthavenbesluit wordt een afweging gemaakt over de ontwikkeling van de fysieke leefomgeving van het gebied gelegen tussen de geluidcontour van 56 dB(A) Lden en de geluidcontour van 48 dB(A) Lden in relatie tot het gebruik van de luchthaven.
 
 ### Hoofdstuk 4. Aanwijzing luchtvaartuigen die mogen opstijgen of landen van een terrein niet zijnde een luchthaven
 
@@ -440,13 +450,15 @@ Als luchtvaartuig als bedoeld in [artikel 8a.51 van de wet](https://wetten.overh
 
 - h. landbouwluchtvaartuigen;
 
-- i. luchtschepen die op zeeniveau in de internationale standaard-atmosfeer in geheel gevulde toestand een afmeting hebben van meer dan 5 meter of een inhoud van meer dan 4 kubieke meter.
+- i. luchtschepen die op zeeniveau in de internationale standaard-atmosfeer in geheel gevulde toestand een afmeting hebben van meer dan 5 meter of een inhoud van meer dan 4 kubieke meter;
+
+- j. paramotortrikes.
 
 ### Hoofdstuk 5. Geluidsheffing burgerluchtvaart
 
 ##### Artikel 22
 
-De formules ter bepaling van de geluidsproductie met betrekking tot de luchthaven Schiphol, bedoeld in [artikel 8a.38, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.38), en de formules met betrekking tot burgerluchthavens van nationale betekenis met luchthavenbesluit, bedoeld in dat lid, in samenhang met [artikel 8a.42, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.42), worden bepaald bij regeling van Onze Minister van Infrastructuur en Milieu.
+De formules ter bepaling van de geluidsproductie met betrekking tot de luchthaven Schiphol, bedoeld in [artikel 8a.38, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.38), en de formules met betrekking tot burgerluchthavens van nationale betekenis met luchthavenbesluit, bedoeld in dat lid, in samenhang met [artikel 8a.42, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.42), worden bepaald bij regeling van Onze Minister van Infrastructuur en Waterstaat.
 
 ### Hoofdstuk 6. Overige besluiten
 
