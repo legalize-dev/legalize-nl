@@ -4,7 +4,7 @@ identifier: "BWBR0004501"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2016-05-24"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004501"
 soort: "AMvB"
@@ -74,7 +74,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-1. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004501&artikel=2&z=2016-05-24&g=2016-05-24) gestelde verboden gelden niet voor zover het betreft:
+1. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004501&artikel=2&z=2024-01-01&g=2024-01-01) gestelde verboden gelden niet voor zover het betreft:
 
 - a. de toepassing, het bewaren of het voorhanden hebben in of het zich ontdoen door afgifte vanuit particuliere huishoudens;
 
@@ -84,9 +84,9 @@ In dit besluit wordt verstaan onder:
 
 - d. brandstoffen, aanwezig in de brandstoffentank van een vaartuig, voertuig of luchtvaartuig dat binnen Nederlands grondgebied wordt gebracht.
 
-2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004501&artikel=2&z=2016-05-24&g=2016-05-24) gestelde verboden gelden voorts niet voor zover:
+2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004501&artikel=2&z=2024-01-01&g=2024-01-01) gestelde verboden gelden voorts niet voor zover:
 
-- a. de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004501&artikel=2&z=2016-05-24&g=2016-05-24) genoemde handelingen worden verricht in overeenstemming met een vergunning of ontheffing, verleend krachtens de [artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1), de [artikelen 10.54](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.54) juncto [10.63, tweede lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.63) of [artikel 3, eerste lid, van de Wet verontreiniging zeewater](https://wetten.overheid.nl/jci1.3:c:BWBR0002975&artikel=3), waarbij uitdrukkelijk de bevoegdheid is verleend handelingen te verrichten ten aanzien van gevaarlijke afvalstoffen, waarin zich polychloorbifenylen of andere organische halogeenverbindingen bevinden;
+- a. de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004501&artikel=2&z=2024-01-01&g=2024-01-01) genoemde handelingen worden verricht in overeenstemming met een vergunning of ontheffing als bedoeld in [artikel 5.1, tweede lid, aanhef en onder b, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1), de [artikelen 10.54](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.54) juncto [10.63, tweede lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.63) of [artikel 3, eerste lid, van de Wet verontreiniging zeewater](https://wetten.overheid.nl/jci1.3:c:BWBR0002975&artikel=3), waarbij uitdrukkelijk de bevoegdheid is verleend handelingen te verrichten ten aanzien van gevaarlijke afvalstoffen, waarin zich polychloorbifenylen of andere organische halogeenverbindingen bevinden;
 
 - b. het betreft het zich ontdoen door afgifte aan of het bewaren of voorhanden hebben met het oog op het zich ontdoen door afgifte aan een persoon als bedoeld onder **a**. Dit moet blijken uit een schriftelijke overeenkomst met deze persoon;
 
