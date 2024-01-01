@@ -4,7 +4,7 @@ identifier: "BWBR0026953"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-03-12"
-last_updated: "2023-06-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026953"
 soort: "ministeriele-regeling"
@@ -66,17 +66,17 @@ Treedt in werking op het tijdstip waarop artikel 1.1 van de Waterwet in werking 
 
 ##### Artikel 3
 
-1. Het directoraat-generaal Rijkswaterstaat is, voor zover één en ander aan de Minister van Infrastructuur en Waterstaat is opgedragen, belast met de navolgende hoofdtaken en daarmee samenhangende activiteiten:
+1. Het directoraat-generaal Rijkswaterstaat is, namens de Minister van Infrastructuur en Waterstaat, belast met de navolgende hoofdtaken en daarmee samenhangende activiteiten:
 
-- a. de aanleg, het beheer en het onderhoud van rijkswaterstaatswerken;
+- a. de aanleg, het beheer en het onderhoud van waterstaatswerken en wegen in beheer bij het Rijk;
 
-- b. de uitvoering van beleid met betrekking tot milieu, leefomgeving, mobiliteit, verkeersveiligheidsaudits en verkeersveiligheidsinspecties voor zover dit niet bij of krachtens de wet aan anderen is opgedragen of gemandateerd;
+- b. de uitvoering van beleid met betrekking tot milieu, leefomgeving, mobiliteit, verkeersveiligheidsaudits en verkeersveiligheidsinspecties voor zover dit niet bij of krachtens de wet aan een ander bestuursorgaan of een ander onderdeel van het Ministerie van Infrastructuur en Waterstaat is opgedragen of gemandateerd;
 
 - c. het verrichten dan wel bevorderen van onderzoek en het adviseren van de Minister van Infrastructuur en Waterstaat over hetgeen dienstig kan zijn voor de uitvoering van de taken genoemd in onderdelen a en b;
 
 - d. het adviseren over en het toetsen van de uitvoerbaarheid van nieuwe wet- en regelgeving, die voor de uitvoering van de taken genoemd in onderdelen a en b, van belang is;
 
-- e. de vergunningverlening en handhaving van wet- en regelgeving, voor zover dat niet uitdrukkelijk aan een ander onderdeel van het Ministerie van Infrastructuur en Waterstaat is opgedragen, verband houdende met de uitvoering van de taken genoemd in onderdeel a, waarvoor de Minister van Infrastructuur en Waterstaat bevoegd gezag is;
+- e. de vergunningverlening, besluitvorming over maatwerkvoorschriften, advisering, instemming en handhaving van wet- en regelgeving, voor zover dat niet uitdrukkelijk aan een ander onderdeel van het Ministerie van Infrastructuur en Waterstaat is opgedragen, verband houdende met de uitvoering van de taken genoemd in onderdeel a, waarvoor de Minister van Infrastructuur en Waterstaat bevoegd gezag is;
 
 - f. de toetsing van de uitvoerbaarheid van plannen, regelingen en projecten van andere bestuursorganen die gevolgen kunnen hebben voor de uitvoering van taken genoemd in onderdeel a;
 
@@ -84,7 +84,9 @@ Treedt in werking op het tijdstip waarop artikel 1.1 van de Waterwet in werking 
 
 - h. de uitvoering van de [Wet bescherming Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBR0009449), en
 
-- i. de uitvoering van de [Belemmeringenwet Privaatrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001936) en de [titels II tot en met IIc van de onteigeningswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001842&titeldeel=II).
+- i. de voorbereiding van onteigeningsbeschikkingen en het voeren van procedures in verband met onteigeningen en het opleggen van gedoogplichten;
+
+- j. de subsidieverlening in het kader van het Hoogwaterbeschermingsprogramma.
 
 2. Het directoraat-generaal Rijkswaterstaat heeft tevens tot taak het uitvoeren van opdrachten in naam en voor rekening van tweeden en derden.
 
