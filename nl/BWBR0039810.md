@@ -4,7 +4,7 @@ identifier: "BWBR0039810"
 country: "nl"
 rank: "pbo"
 publication_date: "2024-01-01"
-last_updated: "2023-07-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039810"
 soort: "pbo"
@@ -80,7 +80,7 @@ De in deze verordening opgenomen tarieven en vergoedingen gelden exclusief omzet
 
 ##### Artikel 3
 
-1. Het bestuur brengt ter vergoeding van de kosten bedoeld in [artikel 30, tweede lid van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=30) een tarief in rekening volgens de tarieventabel in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&bijlage=1&z=2023-07-01&g=2023-07-01):
+1. Het bestuur brengt ter vergoeding van de kosten bedoeld in [artikel 30, tweede lid van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=30) een tarief in rekening volgens de tarieventabel in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&bijlage=1&z=2024-01-01&g=2024-01-01):
 
 - a. jaarlijks per accountant;
 
@@ -104,7 +104,7 @@ De in deze verordening opgenomen tarieven en vergoedingen gelden exclusief omzet
 
 - b. de onderneming, de instelling of de overheid en de daarmee gelijk te stellen dienst waartoe de getoetste accountantsafdeling behoort.
 
-3. Onverminderd de voorgaande leden brengt het bestuur ter vergoeding van de kosten bedoeld in [artikel 30, tweede lid van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=30) een tarief in rekening volgens de tarieventabel in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&bijlage=1&z=2023-07-01&g=2023-07-01):
+3. Onverminderd de voorgaande leden brengt het bestuur ter vergoeding van de kosten bedoeld in [artikel 30, tweede lid van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=30) een tarief in rekening volgens de tarieventabel in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&bijlage=1&z=2024-01-01&g=2024-01-01):
 
 - a. bij de accountantseenheid die om vrijstelling verzoekt, per verzoek om vrijstelling als bedoeld in [artikel 26, eerste lid, van de Verordening op de kwaliteitsbeoordelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0039808&artikel=26);
 
@@ -116,15 +116,15 @@ De in deze verordening opgenomen tarieven en vergoedingen gelden exclusief omzet
 
 ##### Artikel 4
 
-1. De categorieën, bedoeld in [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=2&artikel=3&z=2023-07-01&g=2023-07-01), zijn:
+1. De categorieën, bedoeld in [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=2&artikel=3&z=2024-01-01&g=2024-01-01), zijn:
 
 - a. Categorie I:
 
-- 1°. de accountantspraktijk waarbij één accountant betrokken is bij de opdrachtuitvoering of bedrijfsvoering, met een omzet van ten hoogste € 450.000,– per jaar en die geen of slechts incidenteel assurance-opdrachten verricht; of
+- 1°. de accountantspraktijk waarbij één accountant betrokken is bij de opdrachtuitvoering of bedrijfsvoering, met een omzet van ten hoogste € 500.000,– per jaar en die geen of slechts incidenteel assurance-opdrachten verricht; of
 
 - 2°. de accountantsafdeling waarbij één accountant betrokken is bij de opdrachtuitvoering of bedrijfsvoering, en die geen of slechts incidenteel assurance-opdrachten verricht;
 
-- b. Categorie II: de accountantspraktijk waarbij één accountant betrokken is bij de opdrachtuitvoering of bedrijfsvoering, met een omzet van meer dan € 450.000,– per jaar en die geen of slechts incidenteel assurance-opdrachten verricht;
+- b. Categorie II: de accountantspraktijk waarbij één accountant betrokken is bij de opdrachtuitvoering of bedrijfsvoering, met een omzet van meer dan € 500.000,– per jaar en die geen of slechts incidenteel assurance-opdrachten verricht;
 
 - c. Categorie III: de accountantseenheid waarbij één accountant betrokken is bij de opdrachtuitvoering of bedrijfsvoering, en die structureel één of meer assurance-opdrachten verricht;
 
@@ -152,13 +152,13 @@ De in deze verordening opgenomen tarieven en vergoedingen gelden exclusief omzet
 
 ##### Artikel 5
 
-Het tarief, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=2&artikel=3&z=2023-07-01&g=2023-07-01), wordt opgelegd bij wege van een factuur.
+Het tarief, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=2&artikel=3&z=2024-01-01&g=2024-01-01), wordt opgelegd bij wege van een factuur.
 
 ### Hoofdstuk 3. Vergoeding toetsers
 
 ##### Artikel 6
 
-1. Het bestuur kent de toetsers een vergoeding toe volgens de vergoedingentabel in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&bijlage=2&z=2023-07-01&g=2023-07-01) voor:
+1. Het bestuur kent de toetsers een vergoeding toe volgens de vergoedingentabel in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&bijlage=2&z=2024-01-01&g=2024-01-01) voor:
 
 - a. het voeren van een ontwikkelingsgesprek;
 
@@ -180,7 +180,7 @@ Het tarief, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR00398
 
 ##### Artikel 7
 
-1. Het bestuur kent de vergoeding, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=3&artikel=6&z=2023-07-01&g=2023-07-01) toe na het indienen van een factuur door de toetser.
+1. Het bestuur kent de vergoeding, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=3&artikel=6&z=2024-01-01&g=2024-01-01) toe na het indienen van een factuur door de toetser.
 
 2. De factuur is voorzien van de noodzakelijke stukken ter onderbouwing van de gemaakte kosten.
 
@@ -275,11 +275,11 @@ De [Verordening op de kosten kwaliteitsbeoordelingen](https://wetten.overheid.nl
 
 ##### Artikel 7a
 
-1. De in deze verordening opgenomen tarieven en vergoedingen, worden met ingang van 1 januari 2020 ieder jaar per 1 januari aangepast overeenkomstig de ontwikkeling van de consumentenprijsindex voor het kalenderjaar waarop de aanpassing betrekking heeft ten opzichte van deze index in het voorafgaande jaar.
+1. De in deze verordening opgenomen tarieven en vergoedingen, worden met ingang van 1 januari 2025 ieder jaar per 1 januari aangepast overeenkomstig de ontwikkeling van de consumentenprijsindex voor het kalenderjaar waarop de aanpassing betrekking heeft ten opzichte van deze index in het voorafgaande jaar.
 
 2. De ontwikkeling van de consumentenprijsindex, bedoeld in het vorige lid, is de ontwikkeling van de geharmoniseerde consumentenprijsindex zoals deze blijkt uit de door het CPB laatst uitgebrachte publicatie voor 1 april van het jaar dat vooraf gaat aan het jaar waarop de aanpassing, bedoeld in het vorige lid betrekking heeft.
 
-3. De bedragen die voor enig jaar volgen uit de toepassing van het eerste lid, worden daarna naar boven afgerond op gehele euro’s nauwkeurig, met uitzondering van de tarieven, genoemd in [Bijlage 2, onderdeel 6 en 7](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&bijlage=2&z=2023-07-01&g=2023-07-01), welke tarieven naar boven wordt afgerond op gehele eurocenten nauwkeurig.
+3. De bedragen die voor enig jaar volgen uit de toepassing van het eerste lid, worden daarna naar boven afgerond op gehele euro’s nauwkeurig, met uitzondering van de tarieven, genoemd in [Bijlage 2, onderdeel 6 en 7](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&bijlage=2&z=2024-01-01&g=2024-01-01), welke tarieven naar boven wordt afgerond op gehele eurocenten nauwkeurig.
 
 4. Het bestuur maakt ieder jaar zo spoedig mogelijk na 1 april de bedragen bekend die voortvloeien uit de toepassing van het eerste tot en met het derde lid en vermeldt daarbij tevens de publicatie, bedoeld in het tweede lid, die aan de toepassing van deze leden ten grondslag is gelegd.
 
@@ -328,62 +328,67 @@ De [Verordening op de kosten kwaliteitsbeoordelingen](https://wetten.overheid.nl
 
 ## Bijlage 1. bij de Verordening op de kosten kwaliteitsbeoordelingen
 
-| 1. Het jaartarief als bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=2&artikel=3&z=2023-07-01&g=2023-07-01), bedraagt per accountant: | € 114,– |
+| 1. Het jaartarief als bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=2&artikel=3&z=2024-01-01&g=2024-01-01), bedraagt per accountant: | € 118,– |
 | --- | --- |
-| 2. Het tarief voor het verrichten van een toetsing als bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=2&artikel=3&z=2023-07-01&g=2023-07-01), bedraagt voor accountantseenheden ingedeeld in |   |
-| a. categorie I: | € 1.763,- |
-| b. categorie II: | € 2.511,- |
-| c. categorie III: | € 2.511,- |
-| d. categorie IV: | € 2.832,- |
-| e. categorie V: | € 3.899,- |
-| f. categorie VI: | € 5.074,- |
-| g. categorie VII: | € 26.692,- |
-| h. categorie VIII: | € 44.308,- |
-| i. categorie IX: | € 70.999,- |
-| 3. Indien het in het kader van de afronding van een toetsing dringend noodzakelijk is om in het belang van een goede oordeelsvorming door het bestuur aanvullende werkzaamheden te verrichten, wordt in aanvulling op het tarief, bedoeld in onderdeel 2 van deze bijlage een aanvullend tarief in rekening gebracht. Dit tarief bedraagt per uur: |   |
-| a. door een toetser: | € 135,– |
-| b. door een toetser optredend als teamleider: | € 178,– |
-| 4. Het tarief voor het verrichten van een hertoetsing als bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=2&artikel=3&z=2023-07-01&g=2023-07-01), bedraagt voor accountantseenheden ingedeeld in |   |
-| a. categorie I: | € 3.418,- |
-| b. categorie II: | € 4.438,- |
-| c. categorie III: | € 4.438,- |
-| d. categorie IV: | € 5.202,- |
-| e. categorie V: | € 6.952,- |
-| f. categorie VI: | € 9.633,- |
-| g. categorie VII: | € 47.933,- |
-| h. categorie VIII: | € 79.887,- |
-| i. categorie IX: | € 127.819,- |
-| 5. Het tarief in onderdeel 2 voor een toetsing van een accountantseenheid ingedeeld in categorie III, kan in het geval de toetsing uitsluitend wordt uitgevoerd door een toetser optredend als teamleider, worden verminderd met eenheden van € 135,–, tot uiterlijk € 1.080,–. |   |
-| 6. Het tarief voor een ontwikkelingsgesprek als bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=2&artikel=3&z=2023-07-01&g=2023-07-01), bedraagt voor accountantseenheden ingedeeld in |   |
-| a. categorie I: | € 712,– |
-| b. categorie II: | € 712,– |
-| c. categorie III: | € 712,– |
-| d. categorie IV: | € 712,– |
-| e. categorie V: | € 890,– |
-| f. categorie VI: | € 1.068,- |
-| g. categorie VII: | € 1.424,- |
-| h. categorie VIII: | € 1.424,- |
-| i. categorie IX: | € 1.424,- |
-| 7. Het tarief per verbeterplan als bedoeld in [artikel 3, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=2&artikel=3&z=2023-07-01&g=2023-07-01), bedraagt: | € 1.315,- |
-| 8. Het tarief per verbeterplan als bedoeld in [artikel 3, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=2&artikel=3&z=2023-07-01&g=2023-07-01) indien het eindoordeel waaruit de verplichting het verbeterplan in te dienen voortvloeit, uitsluitend zijn grond vindt in het oordeel over de uitvoering van assurance-opdrachten door de accountantseenheid en deze accountantseenheid naar aanleiding van het eindoordeel schriftelijk heeft verklaard geen assurance-opdrachten meer uit te voeren. | € 588,– |
-| 9. Het tarief voor het verrichten van een thematisch onderzoek als bedoeld in [artikel 3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=2&artikel=3&z=2023-07-01&g=2023-07-01), bedraagt per uur |   |
-| a. door een toetser: | € 135,– |
-| b. door een toetser optredend als teamleider: | € 178,– |
-| 10. Het tarief voor het verrichten van een onderzoek als bedoeld in [artikel 3, eerste lid, onderdeel f of h](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=2&artikel=3&z=2023-07-01&g=2023-07-01), bedraagt per uur: | € 178,– |
-| 11. Het tarief voor een verzoek om vrijstelling als bedoeld in [artikel 3, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=2&artikel=3&z=2023-07-01&g=2023-07-01), bedraagt |   |
-| a. voor het eerste vrijstellingsverzoek: | € 220,– |
-| b. voor een tweede of volgend vrijstellingsverzoek: | € 552,– |
-| 12. Het tarief voor het verrichten van een onderzoek in verband met een aanvraag om accreditatie als bedoeld in [artikel 3, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=2&artikel=3&z=2023-07-01&g=2023-07-01), bedraagt per uur: |   |
-| a. door een toetser: | € 135,– |
-| b. door een toetser optredend als teamleider: | € 178,– |
+| 2. Het tarief voor het verrichten van een toetsing als bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=2&artikel=3&z=2024-01-01&g=2024-01-01), bedraagt voor accountantseenheden ingedeeld in |   |
+| a. categorie I: | € 1.840,- |
+| b. categorie II: | € 2.592,- |
+| c. categorie III: | € 2.960,- |
+| d. categorie IV: | € 2.960,- |
+| e. categorie V: | € 4.064,- |
+| f. categorie VI: | € 5.184,- |
+| g. categorie VII: | € 27.547,- |
+| h. categorie VIII: | € 45.726,- |
+| i. categorie IX: | € 73.271,- |
+| 3. Indien het in het kader van de afronding van een toetsing of een hertoetsing dringend noodzakelijk is om in het belang van een goede oordeelsvorming door het bestuur aanvullende werkzaamheden te verrichten, wordt in aanvulling op het tarief, bedoeld in onderdeel 2 van deze bijlage een aanvullend tarief in rekening gebracht. Dit tarief bedraagt per uur: |   |
+| a. door een toetser: | € 140,– |
+| b. door een toetser optredend als teamleider: | € 184,– |
+| 4. Het tarief voor het verrichten van een hertoetsing als bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=2&artikel=3&z=2024-01-01&g=2024-01-01), bedraagt voor accountantseenheden ingedeeld in |   |
+| a. categorie I: | € 3.528,- |
+| b. categorie II: | € 4.581,- |
+| c. categorie III: | € 5.417,- |
+| d. categorie IV: | € 5.417,- |
+| e. categorie V: | € 7.247,- |
+| f. categorie VI: | € 9.842,- |
+| g. categorie VII: | € 49.293,- |
+| h. categorie VIII: | € 82.488,- |
+| i. categorie IX: | € 131.783,- |
+| 5. In het geval voor het verrichten van een hertoetsing slechts een gedeelte van de opzet van het kwaliteitssysteem van de accountantseenheid of slechts een gedeelte van de werking van het kwaliteitssysteem van de accountantseenheid moet worden beoordeeld, dan wordt in afwijking van onderdeel 4 het tarief voor het verrichten van een hertoetsing gevormd door het door een of meer toetsers en de toetser optredend als teamleider aan de uitvoering van de hertoetsing bestede uren, waarbij de aan de uitvoering van de hertoetsing bestede uren door: |   |
+| a. een toetser worden vermenigvuldigd met | € 256,– |
+| b. en die van een toetser optredend als teamleider worden vermenigvuldigd met | € 337,– |
+| 6. Bij toepassing van het vorige onderdeel, wordt het tarief voor de uitvoering van een hertoetsing bij een accountantseenheid ingedeeld in categorie I verminderd met 35%. |   |
+| 7. De toepassing van onderdeel 5 kan voor toepassing van onderdeel 3 en onderdeel 6 niet leiden tot een hoger tarief dan bij toepassing van onderdeel 4. |   |
+| 8. Het tarief in onderdeel 2 voor een toetsing van een accountantseenheid ingedeeld in categorie III, kan in het geval de toetsing uitsluitend wordt uitgevoerd door een toetser optredend als teamleider, worden verminderd met eenheden van € 140,–, tot uiterlijk € 1.120,–. |   |
+| 9. Het tarief voor een ontwikkelingsgesprek als bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=2&artikel=3&z=2024-01-01&g=2024-01-01), bedraagt voor accountantseenheden ingedeeld in |   |
+| a. categorie I: | € 736,– |
+| b. categorie II: | € 736,– |
+| c. categorie III: | € 736,– |
+| d. categorie IV: | € 736,– |
+| e. categorie V: | € 920,– |
+| f. categorie VI: | € 1.104,- |
+| g. categorie VII: | € 1.472,- |
+| h. categorie VIII: | € 1.472,- |
+| i. categorie IX: | € 1.472,- |
+| 10. Het tarief per verbeterplan als bedoeld in [artikel 3, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=2&artikel=3&z=2024-01-01&g=2024-01-01), bedraagt: | € 1.358,- |
+| 11. Het tarief per verbeterplan als bedoeld in [artikel 3, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=2&artikel=3&z=2024-01-01&g=2024-01-01) indien het eindoordeel waaruit de verplichting het verbeterplan in te dienen voortvloeit, uitsluitend zijn grond vindt in het oordeel over de uitvoering van assurance-opdrachten door de accountantseenheid en deze accountantseenheid naar aanleiding van het eindoordeel schriftelijk heeft verklaard geen assurance-opdrachten meer uit te voeren. | € 607,– |
+| 12. Het tarief voor het verrichten van een thematisch onderzoek als bedoeld in [artikel 3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=2&artikel=3&z=2024-01-01&g=2024-01-01), bedraagt per uur |   |
+| a. door een toetser: | € 140,– |
+| b. door een toetser optredend als teamleider: | € 184,– |
+| 13. Het tarief voor het verrichten van een onderzoek als bedoeld in [artikel 3, eerste lid, onderdeel f of h](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=2&artikel=3&z=2024-01-01&g=2024-01-01), bedraagt per uur: | € 184,– |
+| 14. Het tarief voor een verzoek om vrijstelling als bedoeld in [artikel 3, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=2&artikel=3&z=2024-01-01&g=2024-01-01), bedraagt |   |
+| a. voor het eerste vrijstellingsverzoek: | € 228,– |
+| b. voor een tweede of volgend vrijstellingsverzoek: | € 570,– |
+| 15. Het tarief voor het verrichten van een onderzoek in verband met een aanvraag om accreditatie als bedoeld in [artikel 3, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=2&artikel=3&z=2024-01-01&g=2024-01-01), bedraagt per uur: |   |
+| a. door een toetser: | € 140,– |
+| b. door een toetser optredend als teamleider: | € 184,– |
 
 ##### Artikel 3a
 
-1. De hoogte van het in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=2&artikel=3&z=2023-07-01&g=2023-07-01), bedoelde tarief per verrichte toetsing wordt berekend op basis van de categorie waarin de accountantseenheid wordt ingedeeld.
+1. De hoogte van het in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=2&artikel=3&z=2024-01-01&g=2024-01-01), bedoelde tarief per verrichte toetsing wordt berekend op basis van de categorie waarin de accountantseenheid wordt ingedeeld.
 
-2. De hoogte van het in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=2&artikel=3&z=2023-07-01&g=2023-07-01), bedoelde tarief per verrichte hertoetsing wordt berekend op basis van de categorie waarin de accountantseenheid wordt ingedeeld en de omvang van de toetsingswerkzaamheden.
+2. De hoogte van het in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=2&artikel=3&z=2024-01-01&g=2024-01-01), bedoelde tarief per verrichte hertoetsing wordt berekend op basis van de categorie waarin de accountantseenheid wordt ingedeeld en de omvang van de toetsingswerkzaamheden.
 
-3. De hoogte van het in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=2&artikel=3&z=2023-07-01&g=2023-07-01), bedoelde tarief per ontwikkelingsgesprek wordt berekend op basis van de categorie waarin de accountantseenheid wordt ingedeeld.
+3. De hoogte van het in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=2&artikel=3&z=2024-01-01&g=2024-01-01), bedoelde tarief per ontwikkelingsgesprek wordt berekend op basis van de categorie waarin de accountantseenheid wordt ingedeeld.
 
 4. Een accountantseenheid wordt ingedeeld in een categorie op grond van de omvang van de omzet en de aard van de verrichte opdrachten.
 
@@ -395,44 +400,48 @@ De [Verordening op de kosten kwaliteitsbeoordelingen](https://wetten.overheid.nl
 
 ## Bijlage 2. bij de Verordening op de kosten kwaliteitsbeoordelingen
 
-| 1. De vergoeding voor het voeren van een ontwikkelingsgesprek als bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=2&artikel=3&z=2023-07-01&g=2023-07-01), bedraagt voor accountantseenheden ingedeeld in |   |
+| 1. De vergoeding voor het voeren van een ontwikkelingsgesprek als bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=2&artikel=3&z=2024-01-01&g=2024-01-01), bedraagt voor accountantseenheden ingedeeld in |   |
 | --- | --- |
-| a. categorie I: | € 712,– |
-| b. categorie II: | € 712,– |
-| c. categorie III: | € 712,– |
-| d. categorie IV: | € 712,– |
-| e. categorie V: | € 890,– |
-| f. categorie VI: | € 1.068,- |
-| g. categorie VII: | € 1.424,- |
-| h. categorie VIII: | € 1.424,- |
-| i. categorie IX: | € 1.424,– |
-| 2. De vergoeding voor het verrichten van een toetsing of hertoetsing als bedoeld in [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=3&artikel=6&z=2023-07-01&g=2023-07-01), bedraagt ingeval een toetsing of hertoetsing bij een accountantseenheid in: |   |
-| a. categorie I voor een toetser optredend als teamleider bij een toetsing | € 1.763,- |
+| a. categorie I: | € 736,– |
+| b. categorie II: | € 736,– |
+| c. categorie III: | € 736,– |
+| d. categorie IV: | € 736,– |
+| e. categorie V: | € 920,– |
+| f. categorie VI: | € 1.104,- |
+| g. categorie VII: | € 1.472,- |
+| h. categorie VIII: | € 1.472,- |
+| i. categorie IX: | € 1.472,- |
+| 2. De vergoeding voor het verrichten van een toetsing of hertoetsing als bedoeld in [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=3&artikel=6&z=2024-01-01&g=2024-01-01), bedraagt ingeval een toetsing of hertoetsing bij een accountantseenheid in: |   |
+| a. categorie I voor een toetser optredend als teamleider bij een toetsing | € 1.840,- |
 | b. categorie I in het geval een hertoetsing wordt uitgevoerd |   |
-| 1º. voor een toetser: | € 1.070,- |
-| 2º. voor een toetser optredend als teamleider: | € 1.412,- |
+| 1º. voor een toetser: | € 1.120,- |
+| 2º. voor een toetser optredend als teamleider: | € 1.472,- |
 | c. categorie II |   |
-| 1°. voor een toetser: | € 1.070,- |
-| 2°. voor een toetser optredend als teamleider: | € 1.412,- |
+| 1º. voor een toetser: | € 1.120,- |
+| 2º. voor een toetser optredend als teamleider: | € 1.472,- |
 | d. categorie III |   |
-| 1°. voor een toetser: | € 1.070,- |
-| 2°. voor een toetser optredend als teamleider: | € 1.412,- |
+| 1º. voor een toetser: | € 1.120,- |
+| 2º. voor een toetser optredend als teamleider: | € 1.840,- |
 | e. categorie IV |   |
-| 1°. voor een toetser: | € 1.070,- |
-| 2°. voor een toetser optredend als teamleider: | € 1.763,- |
+| 1º. voor een toetser: | € 1.120,- |
+| 2º. voor een toetser optredend als teamleider: | € 1.840,- |
 | f. categorie V |   |
-| 1°. voor een toetser: | € 1.070,- |
-| 2°. voor een toetser optredend als teamleider: | € 2.820,- |
+| 1º. voor een toetser: | € 1.120,- |
+| 2º. voor een toetser optredend als teamleider: | € 2.944,- |
 | g. categorie VI |   |
-| 1°. voor een toetser: | € 1.070,- |
-| 2°. voor een toetser optredend als teamleider: | € 2.820,- |
-| 3. De vergoeding voor het verrichten van een toetsing of hertoetsing als bedoeld in [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=3&artikel=6&z=2023-07-01&g=2023-07-01), bij een accountantseenheid in de categorieën VII, VIII en IX bedraagt per uur |   |
-| a. voor een toetser: | € 135,– |
-| b. voor een toetser optredend als teamleider: | € 178,– |
-| 4. De vergoeding voor het verrichten van een thematisch onderzoek of onderzoek in verband met een aanvraag om accreditatie als bedoeld in [artikel 6, eerste lid, onderdeel c of onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=3&artikel=6&z=2023-07-01&g=2023-07-01), bedraagt |   |
-| a. voor een toetser: | € 135,– |
-| b. voor een toetser optredend als teamleider: | € 178,– |
-| 5. De vergoeding voor het verrichten van een onderzoek als bedoeld in [artikel 6, eerste lid onderdeel d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=3&artikel=6&z=2023-07-01&g=2023-07-01), bedraagt per uur: | € 178,– |
-| 6. De vergoeding voor reiskosten per kilometer bedraagt: | € 0,33 |
-| 7. De vergoeding bedraagt voor reistijd per kilometer boven de 100 kilometer retour reisafstand: | € 0,85 |
-| 8. De vergoeding van parkeergelden bedraagt: | werkelijk gemaakte kosten |
+| 1º. voor een toetser: | € 1.120,- |
+| 2º. voor een toetser optredend als teamleider: | € 2.944,- |
+| 3. De vergoeding voor het verrichten van een toetsing of hertoetsing als bedoeld in [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=3&artikel=6&z=2024-01-01&g=2024-01-01), bij een accountantseenheid in de categorieën VII, VIII en IX bedraagt per uur |   |
+| a. voor een toetser: | € 140,– |
+| b. voor een toetser optredend als teamleider: | € 184,– |
+| 4. In het geval voor het verrichten van een hertoetsing slechts een gedeelte van de opzet van het kwaliteitssysteem van de accountantseenheid of slechts een gedeelte van de werking van het kwaliteitssysteem van de accountantseenheid moet worden beoordeeld, dan bedraagt de vergoeding per uur voor het verrichten van een hertoetsing als bedoeld in [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=3&artikel=6&z=2024-01-01&g=2024-01-01): |   |
+| a. voor een toetser: | € 140,– |
+| b. voor een toetser optredend als teamleider: | € 184,– |
+| 5. Een vergoeding voor een toetser of een toetser optredend als teamleider bij toepassing van het vorige onderdeel bedraagt niet meer dan een vergoeding die een toetser of een toetser optredend als teamleider op grond van onderdeel 2 zou toekomen. |   |
+| 6. De vergoeding voor het verrichten van een thematisch onderzoek of onderzoek in verband met een aanvraag om accreditatie als bedoeld in [artikel 6, eerste lid, onderdeel c of onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=3&artikel=6&z=2024-01-01&g=2024-01-01), bedraagt |   |
+| a. voor een toetser: | € 140,– |
+| b. voor een toetser optredend als teamleider: | € 184,– |
+| 7. De vergoeding voor het verrichten van een onderzoek als bedoeld in [artikel 6, eerste lid onderdeel d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&hoofdstuk=3&artikel=6&z=2024-01-01&g=2024-01-01), bedraagt per uur: | € 184,– |
+| 8. De vergoeding voor reiskosten per kilometer bedraagt: | € 0,34 |
+| 9. De vergoeding bedraagt voor reistijd per kilometer boven de 100 kilometer retour reisafstand: | € 0,88 |
+| 10. De vergoeding van parkeergelden bedraagt: | werkelijk gemaakte kosten |
