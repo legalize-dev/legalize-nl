@@ -4,7 +4,7 @@ identifier: "BWBR0048236"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2022-10-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048236"
 soort: "ministeriele-regeling"
@@ -72,7 +72,7 @@ Aan de directeur-generaal is voorbehouden: het nemen van besluiten, het verricht
 
 ##### Artikel 3
 
-1. Aan de directeuren wordt, ieder voor zich, mandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, als bedoeld in de bijlage bij dit besluit, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 1.000.000 per verplichting niet te boven gaat.
+1. Aan de directeuren wordt, ieder voor zich, mandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, als bedoeld in de bijlage bij dit besluit, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 2.000.000 per verplichting niet te boven gaat.
 
 2. Aan de directeuren wordt tevens, ieder voor zich, voor de onder hen ressorterende medewerkers mandaat, volmacht en machtiging verleend voor:
 
@@ -88,7 +88,7 @@ Aan de directeur-generaal is voorbehouden: het nemen van besluiten, het verricht
 
 ##### Artikel 4
 
-1. Aan de MT-leden wordt, ieder voor zich, mandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 50.000 per verplichting niet te boven gaat.
+1. Aan de MT-leden wordt, ieder voor zich, mandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 100.000 per verplichting niet te boven gaat.
 
 2. Aan de MT-leden wordt voorts, ieder voor zich, voor de onder hen ressorterende medewerkers mandaat, volmacht en machtiging verleend voor:
 
