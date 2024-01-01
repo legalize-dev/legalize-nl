@@ -4,7 +4,7 @@ identifier: "BWBR0020104"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2023-07-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020104"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 - a. aanvraag: een aanvraag van een verklaring;
 
-- b. bijlage 1, 2, 3, en 4: de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&bijlage=1&z=2023-07-01&g=2023-07-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&bijlage=2A&z=2023-07-01&g=2023-07-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&bijlage=3&z=2023-07-01&g=2023-07-01) onderscheidenlijk [4](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&bijlage=4&z=2023-07-01&g=2023-07-01);
+- b. bijlage 1, 2, 3, en 4: de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&bijlage=1&z=2024-01-01&g=2024-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&bijlage=2A&z=2024-01-01&g=2024-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&bijlage=3&z=2024-01-01&g=2024-01-01) onderscheidenlijk [4](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&bijlage=4&z=2024-01-01&g=2024-01-01);
 
 - c. BRL SIKB 7500: certificatierichtlijn die is aangewezen bij [categorie 5 in bijlage C behorende bij de Regeling bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0023085&bijlage=C);
 
@@ -80,7 +80,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-Als samenstellingswaarden voor schone grond worden aangemerkt de in [tabel 1 van bijlage B behorende bij de Regeling bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0023085&bijlage=B) opgenomen achtergrondwaarden.
+Als samenstellingswaarden voor schone grond worden aangemerkt de waarden behorende bij de kwaliteitsklasse landbouw/natuur, bedoeld in [artikel 25d van het Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=25d).
 
 ##### Artikel 4
 
@@ -88,7 +88,7 @@ Met normen, richtlijnen, protocollen of accreditatieprogramma’s als bedoeld in
 
 ##### Artikel 5
 
-Als samenstellingswaarden voor herbruikbare grond worden aangemerkt de in [tabel 1 van bijlage B behorende bij de Regeling bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0023085&bijlage=B) opgenomen maximale waarden bodemfunctieklassen industrie.
+Als samenstellingswaarden voor herbruikbare grond worden aangemerkt de waarden behorende bij de kwaliteitsklasse industrie, bedoeld in [artikel 25d van het Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=25d).
 
 ##### Artikel 6
 
@@ -120,7 +120,7 @@ Voor de beoordeling van stoffen waarvoor geen waarden zijn vastgesteld in deze r
 
 3. Grond van een verontreinigingsgehalte dat voor enige parameter ligt boven de samenstellingswaarden voor herbruikbare grond is immobiliseerbaar, indien:
 
-- a. de waarden van organische parameters van de grond niet meer dan 120% bedragen van de maximale waarden bodemfunctieklassen industrie, opgenomen de Regeling bodemkwaliteit, bijlage B, tabel 1;
+- a. de waarden van organische parameters van de grond niet meer dan 120% bedragen van de waarden behorende bij de kwaliteitsklasse industrie, bedoeld in [artikel 25d van het Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=25d);
 
 - b. de grond kan worden geïmmobiliseerd tot grond met waarden die voor alle parameters voldoen aan de emissie- en samenstellingswaarden, bedoeld in artikel 6, en
 
@@ -132,33 +132,33 @@ Vervallen
 
 ##### Artikel 11
 
-Grond als bedoeld in de [aanhef van het eerste lid van artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=1&paragraaf=3&artikel=9&z=2023-07-01&g=2023-07-01) is eveneens reinigbaar indien:
+Grond als bedoeld in de [aanhef van het eerste lid van artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=1&paragraaf=3&artikel=9&z=2024-01-01&g=2024-01-01) is eveneens reinigbaar indien:
 
 - a. de hoeveelheid bij de reiniging vrijkomende te storten reststoffen 20% (gewichtsprocenten) van de droge stof of meer bedraagt van de te reinigen grond;
 
-- b. de grond kan worden gereinigd tot de waarden genoemd in [onderdeel a van het eerste lid dan wel in het tweede lid van artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=1&paragraaf=3&artikel=9&z=2023-07-01&g=2023-07-01), en
+- b. de grond kan worden gereinigd tot de waarden genoemd in [onderdeel a van het eerste lid dan wel in het tweede lid van artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=1&paragraaf=3&artikel=9&z=2024-01-01&g=2024-01-01), en
 
 - c. de reinigingskosten minder bedragen dan € 60,– per ton, exclusief BTW.
 
 ##### Artikel 12
 
-1. Grond van een verontreinigingsgehalte dat voor enige parameter ligt boven de samenstellingswaarden voor herbruikbare grond, die bij de toepassing van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=1&paragraaf=3&artikel=9&z=2023-07-01&g=2023-07-01) niet-reinigbaar of niet-immobiliseerbaar en bij de toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=1&paragraaf=3&artikel=11&z=2023-07-01&g=2023-07-01) niet-reinigbaar blijkt te zijn, geldt desalniettemin als reinigbaar of immobiliseerbaar mits naar het oordeel van de Minister redelijkerwijs kan worden verwacht dat die grond metterdaad kan worden gereinigd of geïmmobiliseerd binnen 5 jaar te rekenen met ingang van de dag dat die grond niet-reinigbaar en niet-immobiliseerbaar werd beoordeeld en tijdens die periode voldoende opslagcapaciteit voor die grond aanwezig is.
+1. Grond van een verontreinigingsgehalte dat voor enige parameter ligt boven de samenstellingswaarden voor herbruikbare grond, die bij de toepassing van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=1&paragraaf=3&artikel=9&z=2024-01-01&g=2024-01-01) niet-reinigbaar of niet-immobiliseerbaar en bij de toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=1&paragraaf=3&artikel=11&z=2024-01-01&g=2024-01-01) niet-reinigbaar blijkt te zijn, geldt desalniettemin als reinigbaar of immobiliseerbaar mits naar het oordeel van de Minister redelijkerwijs kan worden verwacht dat die grond metterdaad kan worden gereinigd of geïmmobiliseerd binnen 5 jaar te rekenen met ingang van de dag dat die grond niet-reinigbaar en niet-immobiliseerbaar werd beoordeeld en tijdens die periode voldoende opslagcapaciteit voor die grond aanwezig is.
 
 2. Residu dat is vrijgekomen bij de procesmatige reiniging van partijen verontreinigde grond, wordt aangemerkt als niet-immobiliseerbaar.
 
 ##### Artikel 13
 
-1. Ten aanzien van grond die voldoet aan de eisen vermeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=1&paragraaf=3&artikel=9&z=2023-07-01&g=2023-07-01), geeft de Minister bij zijn besluit op basis van de [artikelen 1, eerste lid, onderdelen 17, onder a en b, 30 en 31, van het Besluit stortplaatsen en stortverboden afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&artikel=1) aan:
+1. Ten aanzien van grond die voldoet aan de eisen vermeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=1&paragraaf=3&artikel=9&z=2024-01-01&g=2024-01-01), geeft de Minister bij zijn besluit op basis van de [artikelen 1, eerste lid, onderdelen 17, onder a en b, 30 en 31, van het Besluit stortplaatsen en stortverboden afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&artikel=1) aan:
 
 - a. alle reinigingstechnieken met de toepassing waarvan voor de betrokken partij grond kan worden voldaan aan de criteria, genoemd in artikel 9, eerste of tweede lid, en
 
-- b. of de partij grond geïmmobiliseerd kan worden als bedoeld in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=1&paragraaf=3&artikel=9&z=2023-07-01&g=2023-07-01).
+- b. of de partij grond geïmmobiliseerd kan worden als bedoeld in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=1&paragraaf=3&artikel=9&z=2024-01-01&g=2024-01-01).
 
-2. Indien geen reinigingstechniek of immobilisatietechniek als bedoeld in het eerste lid voor de betrokken partij grond beschikbaar is, geeft de Minister bij zijn besluit op basis van [artikel 1, eerste lid, onderdelen 17a, 17b, 30 en 31, van het Besluit stortplaatsen en stortverboden afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&artikel=1) alle reinigingstechnieken aan met de toepassing waarvan voor de betrokken partij grond kan worden voldaan aan de criteria, genoemd in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=1&paragraaf=3&artikel=11&z=2023-07-01&g=2023-07-01).
+2. Indien geen reinigingstechniek of immobilisatietechniek als bedoeld in het eerste lid voor de betrokken partij grond beschikbaar is, geeft de Minister bij zijn besluit op basis van [artikel 1, eerste lid, onderdelen 17a, 17b, 30 en 31, van het Besluit stortplaatsen en stortverboden afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&artikel=1) alle reinigingstechnieken aan met de toepassing waarvan voor de betrokken partij grond kan worden voldaan aan de criteria, genoemd in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=1&paragraaf=3&artikel=11&z=2024-01-01&g=2024-01-01).
 
-3. Indien evenmin een reinigingstechniek als bedoeld in het tweede lid voor de betrokken partij grond beschikbaar is, geeft de Minister bij zijn besluit op basis van [artikel 1, eerste lid, onderdelen 17a, 17b, 30 en 31, van het Besluit stortplaatsen en stortverboden afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&artikel=1) aan of voor de betrokken partij grond kan worden voldaan aan de criteria, genoemd in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=1&paragraaf=3&artikel=12&z=2023-07-01&g=2023-07-01).
+3. Indien evenmin een reinigingstechniek als bedoeld in het tweede lid voor de betrokken partij grond beschikbaar is, geeft de Minister bij zijn besluit op basis van [artikel 1, eerste lid, onderdelen 17a, 17b, 30 en 31, van het Besluit stortplaatsen en stortverboden afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&artikel=1) aan of voor de betrokken partij grond kan worden voldaan aan de criteria, genoemd in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=1&paragraaf=3&artikel=12&z=2024-01-01&g=2024-01-01).
 
-4. Indien evenmin kan worden voldaan aan de criteria, genoemd in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=1&paragraaf=3&artikel=12&z=2023-07-01&g=2023-07-01), geeft de Minister in een verklaring aan dat de betrokken partij grond niet-reinigbaar en niet-immobiliseerbaar is.
+4. Indien evenmin kan worden voldaan aan de criteria, genoemd in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=1&paragraaf=3&artikel=12&z=2024-01-01&g=2024-01-01), geeft de Minister in een verklaring aan dat de betrokken partij grond niet-reinigbaar en niet-immobiliseerbaar is.
 
 #### § 4. De beoordeling van de reinigbaarheid van residu dat is vrijgekomen bij de procesmatige reiniging van partijen verontreinigde grond waaruit naar verwachting niet-reinigbaar te storten residu zal ontstaan
 
@@ -186,13 +186,13 @@ Vervallen
 
 ##### Artikel 17
 
-1. De aanvraag wordt ingediend bij RWS Leefomgeving, onderdeel Bodem+.
+1. De aanvraag wordt ingediend bij Rijkswaterstaat, onderdeel Bodem+.
 
-2. Voor het indienen van een aanvraag wordt het formulier met toelichting gebruikt, dat verkrijgbaar is bij RWS Leefomgeving, onderdeel Bodem+, via www.rwsleefomgeving.nl/organisatie/bodemplus.
+2. Voor het indienen van een aanvraag wordt het formulier met toelichting gebruikt, dat verkrijgbaar is bij Rijkswaterstaat, onderdeel Bodem+, via [www.bodemplus.nl](onbekend).
 
-3. Bij de aanvraag worden de gegevens verstrekt waarvan een overzicht verkrijgbaar is bij RWS Leefomgeving, onderdeel Bodem+, via www.rwsleefomgeving.nl/organisatie/bodemplus.
+3. Bij de aanvraag worden de gegevens verstrekt waarvan een overzicht verkrijgbaar is bij Rijkswaterstaat, onderdeel Bodem+, via [www.bodemplus.nl](onbekend).
 
-4. Voor zover [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=2&paragraaf=2&z=2023-07-01&g=2023-07-01), [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=2&paragraaf=3&z=2023-07-01&g=2023-07-01) of [§ 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=2&paragraaf=4&z=2023-07-01&g=2023-07-01) van toepassing is, voldoet de aanvraag voorts aan het in de desbetreffende paragraaf bepaalde.
+4. Voor zover [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=2&paragraaf=2&z=2024-01-01&g=2024-01-01), [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=2&paragraaf=3&z=2024-01-01&g=2024-01-01) of [§ 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=2&paragraaf=4&z=2024-01-01&g=2024-01-01) van toepassing is, voldoet de aanvraag voorts aan het in de desbetreffende paragraaf bepaalde.
 
 #### § 2. Bepalingen met betrekking tot het onderzoek van verontreinigde grond
 
@@ -200,9 +200,9 @@ Vervallen
 
 Deze paragraaf is niet van toepassing op:
 
-- a. verontreinigde grond met betrekking waartoe [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=2&paragraaf=3&z=2023-07-01&g=2023-07-01) van toepassing is;
+- a. verontreinigde grond met betrekking waartoe [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=2&paragraaf=3&z=2024-01-01&g=2024-01-01) van toepassing is;
 
-- b. partijen met betrekking waartoe toepassing wordt gegeven aan [§ 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=2&paragraaf=4&z=2023-07-01&g=2023-07-01), en
+- b. partijen met betrekking waartoe toepassing wordt gegeven aan [§ 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=2&paragraaf=4&z=2024-01-01&g=2024-01-01), en
 
 - c. verontreinigde grond waarvan is gebleken dat zij evident niet-reinigbaar en niet-immobiliseerbaar is.
 
@@ -242,13 +242,13 @@ De voorbehandeling en de analyse van de monsters wordt uitgevoerd overeenkomstig
 
 ##### Artikel 24
 
-1. Deze paragraaf is van toepassing op verklaringen voor verontreinigde grond waarvan is gebleken dat deze grond is verontreinigd met asbest tot boven de samenstellingswaarde voor herbruikbare grond, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=1&paragraaf=2&artikel=5&z=2023-07-01&g=2023-07-01).
+1. Deze paragraaf is van toepassing op verklaringen voor verontreinigde grond waarvan is gebleken dat deze grond is verontreinigd met asbest tot boven de samenstellingswaarde voor herbruikbare grond, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=1&paragraaf=2&artikel=5&z=2024-01-01&g=2024-01-01).
 
-2. [Artikel 18, aanhef en onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=2&paragraaf=2&artikel=18&z=2023-07-01&g=2023-07-01), is van overeenkomstige toepassing.
+2. [Artikel 18, aanhef en onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=2&paragraaf=2&artikel=18&z=2024-01-01&g=2024-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 25
 
-Voor het indelen van de te ontgraven grond in partijen worden de richtlijnen gehanteerd die zijn opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&bijlage=4&z=2023-07-01&g=2023-07-01).
+Op het indelen van de te ontgraven grond in partijen zijn de [artikelen 4.1222](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1222) en [4.1230 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1230) van overeenkomstige toepassing.
 
 ##### Artikel 26
 
@@ -272,11 +272,11 @@ Voor het indelen van de te ontgraven grond in partijen worden de richtlijnen geh
 
 1. Deze paragraaf is van toepassing op een verklaring voor residu van de procesmatige reiniging van partijen waaruit naar verwachting niet-reinigbaar te storten residu zal ontstaan.
 
-2. [Artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=1&paragraaf=4&artikel=14&z=2023-07-01&g=2023-07-01) is op deze paragraaf van overeenkomstige toepassing.
+2. [Artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=1&paragraaf=4&artikel=14&z=2024-01-01&g=2024-01-01) is op deze paragraaf van overeenkomstige toepassing.
 
 ##### Artikel 29
 
-Tenzij in de aanvraag anders is aangegeven, heeft de aanvraag betrekking op de afgifte van een verklaring die zal gelden voor het residu als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=2&paragraaf=4&artikel=28&z=2023-07-01&g=2023-07-01) dat bij de aanvrager van de verklaring ontstaat in de periode van zes maanden nadat de verklaring is afgegeven.
+Tenzij in de aanvraag anders is aangegeven, heeft de aanvraag betrekking op de afgifte van een verklaring die zal gelden voor het residu als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=2&paragraaf=4&artikel=28&z=2024-01-01&g=2024-01-01) dat bij de aanvrager van de verklaring ontstaat in de periode van zes maanden nadat de verklaring is afgegeven.
 
 ##### Artikel 30
 
@@ -286,29 +286,29 @@ Tenzij in de aanvraag anders is aangegeven, heeft de aanvraag betrekking op de a
 
 - b. een prognose van de hoeveelheid te produceren niet-reinigbaar te storten residu in de eerstvolgende periode van zes maanden.
 
-2. [Artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=2&paragraaf=1&artikel=17&z=2023-07-01&g=2023-07-01), is niet van toepassing.
+2. [Artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=2&paragraaf=1&artikel=17&z=2024-01-01&g=2024-01-01), is niet van toepassing.
 
 ##### Artikel 31
 
-Indien de aanvrager in de periode van zes maanden voorafgaand aan de datum van indiening van de aanvraag de beschikking heeft gehad over een verklaring als bedoeld in deze paragraaf, wordt zijn aanvraag niet in behandeling genomen zolang hij niet heeft voldaan aan het bepaalde in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=2&paragraaf=5&artikel=35&z=2023-07-01&g=2023-07-01).
+Indien de aanvrager in de periode van zes maanden voorafgaand aan de datum van indiening van de aanvraag de beschikking heeft gehad over een verklaring als bedoeld in deze paragraaf, wordt zijn aanvraag niet in behandeling genomen zolang hij niet heeft voldaan aan het bepaalde in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=2&paragraaf=5&artikel=35&z=2024-01-01&g=2024-01-01).
 
 #### § 5. Bepalingen met betrekking tot een verklaring voor residu dat is vrijgekomen bij de procesmatige reiniging van partijen verontreinigde grond waaruit naar verwachting niet-reinigbaar te storten residu zal ontstaan
 
 ##### Artikel 32
 
-1. Deze paragraaf is van toepassing op degene die beschikt over een geldige verklaring die is verleend met toepassing van [§ 4 van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=2&paragraaf=4&z=2023-07-01&g=2023-07-01).
+1. Deze paragraaf is van toepassing op degene die beschikt over een geldige verklaring die is verleend met toepassing van [§ 4 van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=2&paragraaf=4&z=2024-01-01&g=2024-01-01).
 
 2. Indien deze paragraaf van toepassing is:
 
-- a. blijven de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=1&paragraaf=3&artikel=9&z=2023-07-01&g=2023-07-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=1&paragraaf=3&artikel=11&z=2023-07-01&g=2023-07-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=1&paragraaf=3&artikel=12&z=2023-07-01&g=2023-07-01) buiten toepassing met betrekking tot het residu van de procesmatige reiniging van een partij waaruit naar verwachting niet-reinigbaar te storten residu zal ontstaan, en
+- a. blijven de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=1&paragraaf=3&artikel=9&z=2024-01-01&g=2024-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=1&paragraaf=3&artikel=11&z=2024-01-01&g=2024-01-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=1&paragraaf=3&artikel=12&z=2024-01-01&g=2024-01-01) buiten toepassing met betrekking tot het residu van de procesmatige reiniging van een partij waaruit naar verwachting niet-reinigbaar te storten residu zal ontstaan, en
 
-- b. kan degene op wie deze paragraaf van toepassing is, voor het residu bedoeld onder a geen aanvraag indienen op grond van [§ 1 tot en met 3 van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=2&paragraaf=1&z=2023-07-01&g=2023-07-01).
+- b. kan degene op wie deze paragraaf van toepassing is, voor het residu bedoeld onder a geen aanvraag indienen op grond van [§ 1 tot en met 3 van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=2&paragraaf=1&z=2024-01-01&g=2024-01-01).
 
 3. Deze paragraaf is niet langer van toepassing op degene die schriftelijk heeft verklaard niet langer gebruik te willen maken van deze paragraaf.
 
 ##### Artikel 33
 
-Tenzij in de verklaring anders is aangegeven, is een verklaring die met toepassing van [§ 4 van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=2&paragraaf=4&z=2023-07-01&g=2023-07-01) is verleend, geldig voor alle residu dat bij de houder van de verklaring ontstaat in de periode van zes maanden nadat de verklaring is afgegeven en dat is vrijgekomen bij de procesmatige reiniging van partijen waaruit naar verwachting niet-reinigbaar te storten residu zal ontstaan, en die zijn gereinigd overeenkomstig het bepaalde in BRL SIKB 7500 en SIKB-protocol 7510, door een persoon of instelling die daartoe op grond van het [Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929) is erkend.
+Tenzij in de verklaring anders is aangegeven, is een verklaring die met toepassing van [§ 4 van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=2&paragraaf=4&z=2024-01-01&g=2024-01-01) is verleend, geldig voor alle residu dat bij de houder van de verklaring ontstaat in de periode van zes maanden nadat de verklaring is afgegeven en dat is vrijgekomen bij de procesmatige reiniging van partijen waaruit naar verwachting niet-reinigbaar te storten residu zal ontstaan, en die zijn gereinigd overeenkomstig het bepaalde in BRL SIKB 7500 en SIKB-protocol 7510, door een persoon of instelling die daartoe op grond van het [Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929) is erkend.
 
 ##### Artikel 34
 
@@ -322,15 +322,15 @@ Degene op wie deze paragraaf van toepassing is, houdt de navolgende partijen ver
 
 ##### Artikel 35
 
-1. Na zes maanden na de datum van afgifte van de verklaring die met toepassing van [§ 4 van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=2&paragraaf=4&z=2023-07-01&g=2023-07-01) is verleend, dienen met betrekking tot de verstreken periode van zes maanden de volgende gegevens te worden overgelegd aan RWS Leefomgeving, onderdeel Bodem+:
+1. Na zes maanden na de datum van afgifte van de verklaring die met toepassing van [§ 4 van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=2&paragraaf=4&z=2024-01-01&g=2024-01-01) is verleend, dienen met betrekking tot de verstreken periode van zes maanden de volgende gegevens te worden overgelegd aan Rijkswaterstaat, onderdeel Bodem+:
 
-- a. een overzicht met de herkomst en status van de ingekomen partijen, waarvan het residu onder de verklaring die met toepassing van [§ 4 van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=2&paragraaf=4&z=2023-07-01&g=2023-07-01) is verleend, is gestort;
+- a. een overzicht met de herkomst en status van de ingekomen partijen, waarvan het residu onder de verklaring die met toepassing van [§ 4 van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=2&paragraaf=4&z=2024-01-01&g=2024-01-01) is verleend, is gestort;
 
 - b. de hoeveelheid ingenomen verontreinigde grond in tonnen droge stof;
 
 - c. de hoeveelheid afgevoerd residu in tonnen gespecificeerd naar verwerker.
 
-2. Jaarlijks dient een materialenbalans over de scheidingsinstallatie van het voorgaande boekjaar te worden overgelegd aan RWS Leefomgeving, onderdeel Bodem+.
+2. Jaarlijks dient een materialenbalans over de scheidingsinstallatie van het voorgaande boekjaar te worden overgelegd aan Rijkswaterstaat, onderdeel Bodem+.
 
 #### § 6. De reikwijdte en geldigheid van een verklaring
 
@@ -374,11 +374,11 @@ Het besluit inzake het afgeven of wijzigen van een verklaring wordt genomen binn
 
 ##### Artikel 41
 
-Op de beoordeling van verontreinigde grond in het kader van de [Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994) zijn de [artikelen 1 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=1&paragraaf=1&artikel=1&z=2023-07-01&g=2023-07-01) van overeenkomstige toepassing.
+Vervallen
 
 ##### Artikel 42
 
-Voor het indelen van de te ontgraven grond in partijen worden de richtlijnen gehanteerd die zijn opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&bijlage=4&z=2023-07-01&g=2023-07-01).
+Vervallen
 
 ### Hoofdstuk 4. Overgangs- en slotbepalingen
 
@@ -392,7 +392,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van 
 
 ##### Artikel 45
 
-Deze regeling wordt aangehaald als: Regeling beoordeling reinigbaarheid grond 2006.
+Deze regeling wordt aangehaald als: Regeling beoordeling reinigbaarheid grond.
 
 ## Bijlage 1. behorende bij artikelen 9 en 10
 
@@ -1026,7 +1026,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 43a
 
-De Regeling beoordeling reinigbaarheid grond 2006 berust op [artikel 28a van de Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=28a) en [artikel 1, eerste lid, onderdelen 17a, 17b, 30 en 31, van het Besluit stortplaatsen en stortverboden afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&artikel=1).
+Deze regeling berust op [artikel 1, eerste lid, onderdelen 17a, 17b, 30 en 31](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&artikel=1), en [artikel 1a van het Besluit stortplaatsen en stortverboden afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&artikel=1a).
 
 ## Bijlage 2D
 
@@ -1054,7 +1054,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 12a
 
-In afwijking van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=1&paragraaf=3&artikel=9&z=2023-07-01&g=2023-07-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=1&paragraaf=3&artikel=11&z=2023-07-01&g=2023-07-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=1&paragraaf=3&artikel=12&z=2023-07-01&g=2023-07-01) wordt verontreinigde grond in elk geval aangemerkt als niet-reinigbaar en niet-immobiliseerbaar, indien het betreft:
+In afwijking van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=1&paragraaf=3&artikel=9&z=2024-01-01&g=2024-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=1&paragraaf=3&artikel=11&z=2024-01-01&g=2024-01-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=1&paragraaf=3&artikel=12&z=2024-01-01&g=2024-01-01) wordt verontreinigde grond in elk geval aangemerkt als niet-reinigbaar en niet-immobiliseerbaar, indien het betreft:
 
 - a. verpakte grondmonsters;
 
@@ -1110,10 +1110,14 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Vervallen
 
-## Bijlage 4. behorende bij de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=2&paragraaf=3&artikel=25&z=2023-07-01&g=2023-07-01) en [42](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=3&artikel=42&z=2023-07-01&g=2023-07-01)
+## Bijlage 4. behorende bij de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=2&paragraaf=3&artikel=25&z=2024-01-01&g=2024-01-01) en [42](https://wetten.overheid.nl/jci1.3:c:BWBR0020104&hoofdstuk=3&artikel=42&z=2024-01-01&g=2024-01-01)
+
+Vervallen
 
 ### Grote projecten
 
 ### 1. Indelen op grondsoort
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
