@@ -4,7 +4,7 @@ identifier: "BWBR0046026"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2022-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046026"
 soort: "wet"
@@ -54,8 +54,6 @@ Wijzigt de Algemene douanewet.
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel V
 
 Wijzigt de Invorderingswet 1990.
@@ -66,9 +64,9 @@ Wijzigt de Wet op de internationale bijstandsverlening bij de heffing van belast
 
 ##### Artikel VII
 
-1. Deze wet treedt in werking met ingang van 1 januari 2022, met dien verstande dat [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0046026&artikel=I&z=2022-01-01&g=2022-01-01) terugwerkt tot en met 16 mei 2014.
+1. Deze wet treedt in werking met ingang van 1 januari 2022, met dien verstande dat [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0046026&artikel=I&z=2024-01-01&g=2024-01-01) terugwerkt tot en met 16 mei 2014.
 
-2. In afwijking van het eerste lid treedt [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0046026&artikel=IV&z=2022-01-01&g=2022-01-01) in werking op het tijdstip waarop [artikel 2.45, onderdeel B, onder 2, van de Invoeringswet Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&artikel=2.45) in werking treedt.
+2. In afwijking van het eerste lid treedt [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0046026&artikel=IV&z=2024-01-01&g=2024-01-01) in werking op het tijdstip waarop [artikel 2.45, onderdeel B, onder 2, van de Invoeringswet Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&artikel=2.45) in werking treedt.
 
 ##### Artikel VIII
 
