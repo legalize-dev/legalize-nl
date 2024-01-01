@@ -4,7 +4,7 @@ identifier: "BWBR0048411"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-18"
-last_updated: "2023-07-18"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048411"
 soort: "ministeriele-regeling"
@@ -52,17 +52,17 @@ In deze regeling wordt verstaan onder:
 
 - **IZA:** Integraal Zorgakkoord, Samen werken aan gezonde zorg van september 2022, Kamerstukken II 2022/23, 31 765, nr. 655, bijlage;
 
-- **mandaathouder:** de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048411&bijlage=1&z=2023-07-18&g=2023-07-18) bij deze regeling als zodanig genoemde gemeente of openbaar lichaam dat is ingesteld op grond van [hoofdstuk I van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I);
+- **mandaathouder:** de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048411&bijlage=1&z=2024-03-13&g=2024-01-01) bij deze regeling als zodanig genoemde gemeente of openbaar lichaam dat is ingesteld op grond van [hoofdstuk I van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I);
 
 - **minister:** Minister voor Langdurige Zorg en Sport;
 
 - **regiobeeld:** een door een samenwerkingsregio met inachtneming van de criteria voor regiobeelden opgesteld document, dat prognoses van en verwachte ontwikkelingen in de zorgbehoefte en daarmee samenhangende informatie over de inwoners van de samenwerkingsregio bevat, alsmede een weergave van de capaciteit en prestaties van zorg, welzijn en ondersteuning in die regio;
 
-- **regionale mandaatstructuur:** de wijze waarop door de gemeenten in een samenwerkingsregio, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048411&bijlage=1&z=2023-07-18&g=2023-07-18) bij deze regeling, de onderlinge verantwoordelijkheidsverdeling tussen de gemeenten uit de samenwerkingsregio en de mandaathouder is vastgelegd;
+- **regionale mandaatstructuur:** de wijze waarop door de gemeenten in een samenwerkingsregio, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048411&bijlage=1&z=2024-03-13&g=2024-01-01) bij deze regeling, de onderlinge verantwoordelijkheidsverdeling tussen de gemeenten uit de samenwerkingsregio en de mandaathouder is vastgelegd;
 
 - **regioplan:** een door een samenwerkingsregio met inachtneming van de criteria voor regioplannen opgesteld document waarin op basis van het regiobeeld inzichtelijk gemaakt wordt welke de opgaven voor de regio zijn waarbij de risico’s het grootst zijn dat de toegankelijkheid, betaalbaarheid en de kwaliteit van zorg in het geding komen en daarom met prioriteit worden opgepakt;
 
-- **samenwerkingsregio:** regionale samenwerking die aansluit bij de werkwijze en structuur van de samenwerking gemeenten en zorgverzekeraars die is vastgesteld op 7 maart 2019 en te vinden op [https://vng.nl/artikelen/werkwijze-structuur-van-de-samenwerking-gemeenten-en-zorgverzekeraars](onbekend);
+- **samenwerkingsregio:** regionale samenwerking die aansluit bij de werkwijze en structuur van de samenwerking gemeenten en zorgverzekeraars die is vastgesteld op 7 maart 2019 en te vinden op [https://vng.nl/artikelen/werkwijze-structuur-van-de-samenwerking-gemeenten-en-zorgverzekeraars](https://vng.nl/artikelen/werkwijze-structuur-van-de-samenwerking-gemeenten-en-zorgverzekeraars);
 
 - **SiSa:** Single information, Single audit, eenmalige informatieverstrekking, eenmalige accountantscontrole als wijze waarop provincies, gemeenten, gemeenschappelijke regelingen zich jaarlijks verantwoorden over de besteding van specifieke uitkeringen of provinciale middelen;
 
@@ -94,7 +94,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4. Hoogte van de uitkering
 
-De uitkering voor activiteiten als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048411&artikel=3&z=2023-07-18&g=2023-07-18) bedraagt per kalenderjaar ten hoogste het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048411&bijlage=1&z=2023-07-18&g=2023-07-18) bij deze regeling bij de desbetreffende mandaathouder en het desbetreffende jaar genoemde bedrag.
+De uitkering voor activiteiten als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048411&artikel=3&z=2024-03-13&g=2024-01-01) bedraagt per kalenderjaar ten hoogste het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048411&bijlage=1&z=2024-03-13&g=2024-01-01) bij deze regeling bij de desbetreffende mandaathouder en het desbetreffende jaar genoemde bedrag.
 
 ##### Artikel 5. Dubbelfinanciering
 
@@ -124,7 +124,7 @@ Er wordt geen uitkering verstrekt voor activiteiten waarvoor reeds een uitkering
 
 ##### Artikel 7. Verplichtingen verbonden aan de uitkering
 
-1. Indien bij de aanvraag als bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048411&artikel=6&z=2023-07-18&g=2023-07-18), geen regioplan wordt overgelegd, kan de minister bij de verleningsbeschikking nadere verplichtingen opleggen.
+1. Indien bij de aanvraag als bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048411&artikel=6&z=2024-03-13&g=2024-01-01), geen regioplan wordt overgelegd, kan de minister bij de verleningsbeschikking nadere verplichtingen opleggen.
 
 2. De mandaathouder werkt mee aan de afspraken in het IZA ten aanzien van monitoring.
 
@@ -142,7 +142,7 @@ Er wordt geen uitkering verstrekt voor activiteiten waarvoor reeds een uitkering
 
 ##### Artikel 9. Vaststelling en terugvordering
 
-1. De minister besluit uiterlijk 37 weken na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048411&artikel=8&z=2023-07-18&g=2023-07-18), over de vaststelling van de uitkering.
+1. De minister besluit uiterlijk 37 weken na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048411&artikel=8&z=2024-03-13&g=2024-01-01), over de vaststelling van de uitkering.
 
 2. Indien de activiteiten waarvoor de uitkering is verleend zijn verricht en daarnaast volledig is voldaan aan de verplichtingen die verbonden zijn aan de uitkering, wordt de uitkering vastgesteld op ter hoogte van een bedrag per jaar dat bestaat uit de bestedingen in het betreffende jaar, tot ten hoogste het in de verleningsbeschikking genoemde bedrag per jaar.
 
@@ -164,7 +164,7 @@ Deze regeling wordt aangehaald als: Regeling specifieke uitkering IZA-doelen 202
 
 ## Bijlage 1
 
-Bijlage behorend bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048411&artikel=4&z=2023-07-18&g=2023-07-18).
+Bijlage behorend bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048411&artikel=4&z=2024-03-13&g=2024-01-01).
 
 |   | Samenwerkingsregio | Mandaathouder | Gemeenten in de samenwerkingsregio | Maximumbedrag per jaar 2023–2026 |
 | --- | --- | --- | --- | --- |
