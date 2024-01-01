@@ -4,7 +4,7 @@ identifier: "BWBR0049169"
 country: "nl"
 rank: "wet"
 publication_date: "2024-07-01"
-last_updated: "2023-07-15"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049169"
 soort: "wet"
@@ -54,19 +54,13 @@ Wijzigt de Wet op de vennootschapsbelasting 1969.
 
 Wijzigt de Wet op de dividendbelasting 1965.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel V
 
 Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VI
 
 Wijzigt de Wet op de motorrijtuigenbelasting 1994.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VII
 
@@ -86,8 +80,6 @@ Wijzigt de Wet hersteloperatie toeslagen.
 
 Wijzigt de Wet aanvullende regelingen hersteloperatie toeslagen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel X
 
 Wijzigt de Invorderingswet 1990.
@@ -96,12 +88,38 @@ Wijzigt de Invorderingswet 1990.
 
 Wijzigt de Wet modernisering elektronisch bestuurlijk verkeer.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XII
 
-Dit onderdeel is nog niet inwerking getreden
+1. Deze wet treedt in werking met ingang van 1 januari 2024, met dien verstande dat:
+
+- a. [artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0049169&artikel=I&z=2024-01-01&g=2024-01-01), terugwerkt tot en met 26 juni 2023;
+
+- b. [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0049169&artikel=I&z=2024-01-01&g=2024-01-01), terugwerkt tot en met 1 januari 2022;
+
+- c. de [artikelen II](https://wetten.overheid.nl/jci1.3:c:BWBR0049169&artikel=II&z=2024-01-01&g=2024-01-01), [III, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0049169&artikel=III&z=2024-01-01&g=2024-01-01), en [X, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0049169&artikel=X&z=2024-01-01&g=2024-01-01), terugwerken tot en met 1 januari 2023;
+
+- d. [artikel III, onderdelen A en C](https://wetten.overheid.nl/jci1.3:c:BWBR0049169&artikel=III&z=2024-01-01&g=2024-01-01), voor het eerst toepassing vindt met betrekking tot boekjaren die aanvangen op of na 1 januari 2024;
+
+- e. [artikel IX, onderdeel 0A](https://wetten.overheid.nl/jci1.3:c:BWBR0049169&artikel=IX&z=2024-01-01&g=2024-01-01), terugwerkt tot en met 26 januari 2021;
+
+- f. [artikel IX, onderdeel B, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049169&artikel=IX&z=2024-01-01&g=2024-01-01), terugwerkt tot en met 15 juli 2023;
+
+- g. [artikel XI](https://wetten.overheid.nl/jci1.3:c:BWBR0049169&artikel=XI&z=2024-01-01&g=2024-01-01) eerst toepassing vindt voordat [artikel XXXI van de Wet modernisering elektronisch bestuurlijk verkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0048252&artikel=XXXI) wordt toegepast.
+
+2. In afwijking van het eerste lid:
+
+- a. treden de [artikelen VII](https://wetten.overheid.nl/jci1.3:c:BWBR0049169&artikel=VII&z=2024-01-01&g=2024-01-01) en [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0049169&artikel=VIII&z=2024-01-01&g=2024-01-01) in werking met ingang van 1 juli 2024, met dien verstande dat artikel VII terugwerkt tot en met 1 juli 2021 voor douaneschulden die zijn ontstaan op of na 1 juli 2021 voor wat betreft de toepassing van artikel 103 van [Verordening (EU) nr. 952/2013](32013R0952) van het Europees Parlement en van de Raad van 9 oktober 2013 tot vaststelling van het douanewetboek van de Unie (PbEU 2013, L 269) wanneer uit een douanecontrole in verband met een douaneschuld blijkt dat de betreffende boeking moet worden herzien.
+
+- b. treedt [artikel IX, onderdeel B, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049169&artikel=IX&z=2024-01-01&g=2024-01-01), in werking met ingang van de dag waarop [artikel I, onderdeel Q, van de Wet aanvullende regelingen hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0048413&artikel=I) in werking treedt.
 
 ##### Artikel XIII
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Overige fiscale maatregelen 2024.
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het in het kader van het fiscale beleid voor het jaar 2024 wenselijk is in een aantal belastingwetten en enige andere wetten wijzigingen aan te brengen;
+
+Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
