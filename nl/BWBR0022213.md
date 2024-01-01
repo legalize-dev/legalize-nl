@@ -4,7 +4,7 @@ identifier: "BWBR0022213"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2011-03-05"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022213"
 soort: "ministeriele-regeling"
@@ -46,7 +46,9 @@ In deze regeling wordt verstaan onder:
 
 de Minister: de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
 
-financiële zekerheid: financiële zekerheid als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022213&artikel=2&z=2011-03-05&g=2011-03-05).
+financiële zekerheid: financiële zekerheid als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022213&artikel=2&z=2024-01-01&g=2024-01-01);
+
+EVOA-inrichting: inrichting waarop de Verordening (EG) 1013/2006 van het Europees Parlement en de Raad van 14 juni 2006 betreffende de overbrenging van afvalstoffen (PbEU L 190) van toepassing is.
 
 ##### Artikel 2
 
@@ -60,9 +62,9 @@ Financiële zekerheid kan worden gesteld in de vorm van:
 
 1. De door of namens de kennisgever te stellen financiële zekerheid bedraagt € 450 per ton over te brengen afvalstoffen.
 
-2. In afwijking van het eerste lid bedraagt de door of namens de kennisgever te stellen financiële zekerheid voor de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0022213&bijlage=I&z=2011-03-05&g=2011-03-05) bij deze regeling bedoelde afvalstoffen per ton over te brengen afvalstoffen het ingevolge [die bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0022213&bijlage=I&z=2011-03-05&g=2011-03-05) voor die afvalstoffen geldende bedrag.
+2. In afwijking van het eerste lid bedraagt de door of namens de kennisgever te stellen financiële zekerheid voor de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0022213&bijlage=I&z=2024-01-01&g=2024-01-01) bij deze regeling bedoelde afvalstoffen per ton over te brengen afvalstoffen het ingevolge [die bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0022213&bijlage=I&z=2024-01-01&g=2024-01-01) voor die afvalstoffen geldende bedrag.
 
-3. Indien de kosten van nuttige toepassing of verwijdering, daaronder begrepen voorlopige handelingen, alsmede van opslag en vervoer van afvalstoffen, in belangrijke mate afwijken van het op grond van het eerste lid berekende bedrag, kan de Minister een hogere financiële zekerheid verlangen, dan wel genoegen nemen met een lagere financiële zekerheid. Bij de berekening van de kosten, bedoeld in de eerste volzin, gelden als kosten voor opslag en vervoer van afvalstoffen de bedragen, bedoeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0022213&bijlage=I&z=2011-03-05&g=2011-03-05) bij deze regeling.
+3. Indien de kosten van nuttige toepassing of verwijdering, daaronder begrepen voorlopige handelingen, alsmede van opslag en vervoer van afvalstoffen, in belangrijke mate afwijken van het op grond van het eerste lid berekende bedrag, kan de Minister een hogere financiële zekerheid verlangen, dan wel genoegen nemen met een lagere financiële zekerheid. Bij de berekening van de kosten, bedoeld in de eerste volzin, gelden als kosten voor opslag en vervoer van afvalstoffen de bedragen, bedoeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0022213&bijlage=I&z=2024-01-01&g=2024-01-01) bij deze regeling.
 
 4. Financiële zekerheid wordt gesteld ten behoeve van de Staat der Nederlanden.
 
@@ -72,11 +74,11 @@ Financiële zekerheid kan worden gesteld in de vorm van:
 
 1. De kennisgever voegt bij elke kennisgeving als bedoeld in artikel 4 van de EG-verordening overbrenging van afvalstoffen, een afschrift van het contract met de ontvanger als bedoeld in artikel 5, eerste lid, van de EG-verordening overbrenging van afvalstoffen.
 
-2. Indien het de overbrenging van afvalstoffen betreft tussen twee tot dezelfde natuurlijke of rechtspersoon behorende inrichtingen en op grond van artikel 5, vijfde lid van de EG-verordening overbrenging van afvalstoffen kan worden volstaan met een verklaring van deze natuurlijke of rechtspersoon, waarbij deze zich ertoe verbindt de afvalstoffen nuttig toe te passen, dan wel te verwijderen, voegt deze natuurlijke of rechtspersoon, in afwijking van het eerste lid, een afschrift van deze verklaring bij de kennisgeving.
+2. Indien het de overbrenging van afvalstoffen betreft tussen twee tot dezelfde natuurlijke of rechtspersoon behorende EVOA-inrichtingen en op grond van artikel 5, vijfde lid van de EG-verordening overbrenging van afvalstoffen kan worden volstaan met een verklaring van deze natuurlijke of rechtspersoon, waarbij deze zich ertoe verbindt de afvalstoffen nuttig toe te passen, dan wel te verwijderen, voegt deze natuurlijke of rechtspersoon, in afwijking van het eerste lid, een afschrift van deze verklaring bij de kennisgeving.
 
 ##### Artikel 5
 
-Een afschrift van aan of door de bevoegde autoriteiten verzonden documenten inzake de overbrenging van afvalstoffen wordt door de kennisgever, de ontvanger en de inrichting die de afvalstoffen ontvangt, ten minste vijf jaar bewaard.
+Een afschrift van aan of door de bevoegde autoriteiten verzonden documenten inzake de overbrenging van afvalstoffen wordt door de kennisgever, de ontvanger en de EVOA-inrichting die de afvalstoffen ontvangt, ten minste vijf jaar bewaard.
 
 ##### Artikel 6
 
@@ -106,25 +108,25 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 3a
 
-1. Op verzoek merkt de Minister een inrichting waarin afvalstoffen nuttig worden toegepast aan als een vooraf goedgekeurde inrichting indien:
+1. Op verzoek merkt de Minister een EVOA-inrichting waarin afvalstoffen nuttig worden toegepast aan als een vooraf goedgekeurde inrichting indien:
 
-- a. een omgevingsvergunning voor de inrichting geldt en deze vergunning het nuttig toepassen van de in de aanvraag opgenomen afvalstoffen op de in de aanvraag opgenomen wijze toestaat,
+- a. een omgevingsvergunning voor een milieubelastende activiteit voor de EVOA-inrichting geldt en deze vergunning het nuttig toepassen van de in de aanvraag opgenomen afvalstoffen op de in de aanvraag opgenomen wijze toestaat,
 
-- b. de inrichting ten minste vier jaar in bedrijf is,
+- b. de EVOA-inrichting ten minste vier jaar in bedrijf is,
 
-- c. ten aanzien van de natuurlijke of rechtspersoon die de inrichting drijft, een verklaring omtrent het gedrag, als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28), is afgegeven, die op het tijdstip van het verzoek aan de Minister niet ouder is dan twee maanden, en
+- c. ten aanzien van de natuurlijke of rechtspersoon die de EVOA-inrichting exploiteert, een verklaring omtrent het gedrag, als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28), is afgegeven, die op het tijdstip van het verzoek aan de Minister niet ouder is dan twee maanden, en
 
-- d. ten aanzien van de inrichting in de vier jaar voorafgaand aan de aanvraag geen bestuursrechtelijke sancties die niet meer in rechte aanvechtbaar zijn, zijn opgelegd vanwege overtredingen van bepalingen, genoemd in [bijlage 1 bij de Aanwijzing handhaving milieurecht](https://wetten.overheid.nl/jci1.3:c:BWBR0021148&bijlage=1) van het College van procureurs-generaal van 29 november 2005, kenmerk 2005A027 (Stcrt. 253).
+- d. ten aanzien van de EVOA-inrichting in de vier jaar voorafgaand aan de aanvraag geen bestuursrechtelijke sancties die niet meer in rechte aanvechtbaar zijn, zijn opgelegd vanwege overtredingen van bepalingen, genoemd in [bijlage 1 bij de Aanwijzing handhaving milieurecht](https://wetten.overheid.nl/jci1.3:c:BWBR0021148&bijlage=1) van het College van procureurs-generaal van 29 november 2005, kenmerk 2005A027 (Stcrt. 253).
 
 2. Met een verklaring omtrent het gedrag als bedoeld in het eerste lid, onder c, wordt gelijkgesteld een verklaring omtrent het gedrag afgegeven door een daartoe bevoegde instantie in een andere lidstaat van de Europese Unie dan wel in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend verdrag dat Nederland bindt, op basis van onderzoekingen of documenten die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het beschermingsniveau dat met de nationale onderzoekingen of documenten wordt geboden, mits die verklaring niet ouder is dan twee maanden.
 
-3. Voor een aanvraag als bedoeld in het eerste lid wordt gebruikgemaakt van een formulier waarvan het model is opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022213&bijlage=II&z=2011-03-05&g=2011-03-05) bij deze regeling.
+3. Voor een aanvraag als bedoeld in het eerste lid wordt gebruikgemaakt van een formulier waarvan het model is opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022213&bijlage=II&z=2024-01-01&g=2024-01-01) bij deze regeling.
 
-4. Een besluit van de Minister, als bedoeld in het eerste lid, geldt gedurende een termijn van tien jaar of, indien binnen die termijn de vergunning, bedoeld in het eerste lid, onder a, vervalt, tot en met het einde van de termijn waarvoor de vergunning geldt.
+4. Een besluit van de Minister, als bedoeld in het eerste lid, geldt gedurende een termijn van tien jaar of, indien binnen die termijn de omgevingsvergunning, bedoeld in het eerste lid, onder a, vervalt, tot en met het einde van de termijn waarvoor de omgevingsvergunning geldt.
 
 5. De Minister trekt een besluit als bedoeld in het eerste lid in indien niet meer wordt voldaan aan het eerste lid.
 
-## Bijlage I. behorende bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022213&artikel=3&z=2011-03-05&g=2011-03-05), van de regeling EG-verordening overbrenging van afvalstoffen
+## Bijlage I. behorende bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022213&artikel=3&z=2024-01-01&g=2024-01-01), van de regeling EG-verordening overbrenging van afvalstoffen
 
 ### Afvalstoffen waarvoor een lagere financiële zekerheid hoeft te worden gesteld
 
@@ -138,7 +140,7 @@ Het waarborgbedrag voor de onderstaande afvalstoffen wordt bepaald door de optel
 
 2 Alleen van toepassing in geval van R2 (terugwinning van oplosmiddelen).
 
-## Bijlage II. behorende bij [artikel 3a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022213&artikel=3a&z=2011-03-05&g=2011-03-05), van de regeling EG-verordening overbrenging van afvalstoffen
+## Bijlage II. behorende bij [artikel 3a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022213&artikel=3a&z=2024-01-01&g=2024-01-01), van de regeling EG-verordening overbrenging van afvalstoffen
 
 ### Aanvraagformulier VGI
 
