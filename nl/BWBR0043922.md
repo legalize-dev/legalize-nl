@@ -4,7 +4,7 @@ identifier: "BWBR0043922"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2022-08-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043922"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Besluit:
 
 1. In deze regeling wordt verstaan onder Minister: Minister van Onderwijs, Cultuur en Wetenschap.
 
-2. In deze regeling wordt in [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=2&z=2022-08-01&g=2022-08-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=3&z=2022-08-01&g=2022-08-01) en [4a](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=4a&z=2022-08-01&g=2022-08-01) verstaan onder:
+2. In deze regeling wordt in [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=2&z=2024-01-01&g=2024-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=3&z=2024-01-01&g=2024-01-01) en [4a](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=4a&z=2024-01-01&g=2024-01-01) verstaan onder:
 
 - a. **bankrekening:** het bij de Minister bekende bankrekeningnummer waarop de student studiefinanciering op grond van de [Wsf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453) ontvangt;
 
@@ -60,7 +60,7 @@ Besluit:
 
 - d. **Wsf 2000:** [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453).
 
-3. In deze regeling wordt in [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=4&z=2022-08-01&g=2022-08-01) verstaan onder:
+3. In deze regeling wordt in [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=4&z=2024-01-01&g=2024-01-01) verstaan onder:
 
 - a. **bankrekening:** het bij de Minister bekende bankrekeningnummer waarop de student studiefinanciering op grond van de [Wet studiefinanciering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028393) ontvangt;
 
@@ -78,139 +78,59 @@ Besluit:
 
 ##### Artikel 2. Rechthebbenden
 
-De tegemoetkoming voor extra kosten vanwege studievertraging in deze paragraaf wordt verstrekt aan een student die:
-
-- a. in zowel studiejaar 2019-2020 als 2020-2021 één of meer maanden is ingeschreven voor een opleiding; en
-
-- b. in de periode van 1 augustus 2020 respectievelijk 1 september 2020 tot en met uiterlijk 31 augustus 2021 het diploma heeft behaald voor:
-
-- 1°. dezelfde beroepsopleiding respectievelijk opleiding hoger onderwijs; of
-
-- 2°. een andere, meerjarige opleiding.
+Vervallen
 
 ##### Artikel 3. Omvang tegemoetkoming
 
-1. Een student die op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=2&artikel=2&z=2022-08-01&g=2022-08-01) in aanmerking komt voor een tegemoetkoming ontvangt eenmalig een bedrag van:
-
-- a. € 300,– indien het een student betreft die met goed gevolg een opleiding in de beroepsopleidende leerweg als bedoeld in [artikel 7.2.7, derde lid, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.7) heeft afgesloten;
-
-- b. € 150,– indien het een student betreft die met goed gevolg een opleiding in de beroepsbegeleidende leerweg als bedoeld in [artikel 7.2.7, vierde lid, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.7) heeft afgesloten;
-
-- c. € 535,– indien het een student betreft die met goed gevolg een opleiding in het hoger onderwijs heeft afgesloten.
-
-2. Indien een student in de periode, genoemd in [artikel 2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=2&artikel=2&z=2022-08-01&g=2022-08-01), meerdere diploma’s als bedoeld in het eerste lid behaalt, wordt uitsluitend het hoogste bedrag toegekend.
+Vervallen
 
 ##### Artikel 4. Toekenning en uitbetaling
 
-1. Zo spoedig mogelijk nadat de Minister over de voor de vaststelling van de aanspraak benodigde gegevens beschikt, wordt de tegemoetkoming, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=2&artikel=3&z=2022-08-01&g=2022-08-01), ambtshalve toegekend en uitbetaald.
-
-2. De tegemoetkoming wordt uitbetaald door bijschrijving op de bij de Minister voor de toekenning van studiefinanciering bekende bankrekening, of indien geen studiefinanciering is toegekend de bankrekening die is gebruikt voor de betaling van het lesgeld.
-
-3. Indien bij de Minister geen bankrekening van de student bekend is, wordt de student verzocht de bankrekening te verstrekken op een door de Minister te bepalen wijze en binnen een door de Minister te bepalen redelijke termijn.
-
-4. Indien de Minister niet beschikt over een benodigde bankrekening en de student niet binnen de gestelde termijn de gegevens aanvult, vervalt de aanspraak.
+Vervallen
 
 ##### Artikel 5. Aanvraag nadat geen tegemoetkoming is ontvangen
 
-1. Een student die geen tegemoetkoming heeft ontvangen als bedoeld in deze paragraaf maar wel voldoet aan de criteria als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=2&artikel=2&z=2022-08-01&g=2022-08-01), kan binnen een door de Minister te bepalen periode, maar niet eerder dan op 1 november 2021, een aanvraag voor een tegemoetkoming indienen bij de Minister.
-
-2. De aanvraag wordt ingediend op een door de Minister te bepalen wijze.
-
-3. Bij de aanvraag voegt de student de door de Minister gevraagde bewijsstukken toe waaruit blijkt dat de student voldoet aan de criteria als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=2&artikel=2&z=2022-08-01&g=2022-08-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=2&artikel=3&z=2022-08-01&g=2022-08-01).
-
-4. De Minister beslist uiterlijk binnen 4 weken op de aanvraag. De beslistermijn kan eenmaal met zes weken worden verlengd.
+Vervallen
 
 #### Paragraaf 3. Tegemoetkoming voor studenten voor wie de aanspraak op een basis- of aanvullende beurs afloopt in de periode juni 2020 tot en met de laatste maand van het studiejaar 2022–2023
 
 ##### Artikel 6. Rechthebbenden
 
-1. De tegemoetkoming in deze paragraaf wordt eenmalig verstrekt aan studenten voor wie in de periode juni 2020 tot en met de laatste maand van studiejaar 2022–2023 de aanspraak op prestatiebeurs eindigt, omdat:
-
-- a. de duur van de aanspraak op basisbeurs op grond van [artikel 4.7, eerste of tweede lid, van de Wsf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=4.7) is verstreken;
-
-- b. de duur van de aanspraak op basisbeurs en aanvullende beurs op grond van [artikel 4.7, eerste of tweede lid, van de Wsf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=4.7) is verstreken;
-
-- c. de duur van de aanspraak op aanvullende beurs op grond van [artikel 4.7, eerste of tweede lid, van de Wsf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=4.7) is verstreken; of
-
-- d. de duur van de aanspraak op aanvullende beurs op grond van [artikel 5.2, eerste lid, van de Wsf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=5.2) is verstreken.
-
-2. Het eerste lid is van overeenkomstige toepassing voor studenten aan wie op grond van de [Wsf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453) een verlenging van de prestatiebeurs is toegekend welke in één van de genoemde maanden eindigt.
+Vervallen
 
 ##### Artikel 7. Omvang tegemoetkoming
 
-1. Een student die op grond van [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=3&artikel=6&z=2022-08-01&g=2022-08-01), in aanmerking komt voor een tegemoetkoming ontvangt een bedrag van € 800,–.
-
-2. Een student die op grond van [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=3&artikel=6&z=2022-08-01&g=2022-08-01), in aanmerking komt voor een tegemoetkoming ontvangt een bedrag van € 2.000,–.
-
-3. Een student die op grond van [artikel 6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=3&artikel=6&z=2022-08-01&g=2022-08-01), in aanmerking komt voor een tegemoetkoming ontvangt een bedrag van € 1.200,–.
-
-4. Een student die op grond van [artikel 6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=3&artikel=6&z=2022-08-01&g=2022-08-01), in aanmerking komt voor een tegemoetkoming ontvangt een bedrag van € 1.500,–.
+Vervallen
 
 ##### Artikel 8. Toekenning en uitbetaling
 
-1. Zo spoedig mogelijk nadat de Minister over de voor de vaststelling van de aanspraak benodigde gegevens beschikt, wordt de tegemoetkoming, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=3&artikel=6&z=2022-08-01&g=2022-08-01), ambtshalve toegekend en uitbetaald.
-
-2. De tegemoetkoming wordt uitbetaald door bijschrijving op de bij de Minister voor de toekenning van studiefinanciering bekende bankrekening. Indien bij de Minister geen bankrekening van de student bekend is, wordt de student verzocht de bankrekening te verstrekken op een door de Minister te bepalen wijze en binnen een door de Minister te bepalen redelijke termijn, waarna kan worden uitbetaald.
-
-3. Indien de Minister niet beschikt over een benodigde bankrekening en de student niet binnen de gestelde termijn de gegevens aanvult, vervalt de aanspraak.
+Vervallen
 
 ##### Artikel 9. Aanvraag nadat geen tegemoetkoming is ontvangen
 
-1. Een student die geen tegemoetkoming heeft ontvangen als bedoeld in deze paragraaf maar wel voldoet aan de criteria, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=3&artikel=6&z=2022-08-01&g=2022-08-01), kan binnen een door de Minister te bepalen periode, maar niet eerder dan op 1 november van het jaar waarin de aanspraak op prestatiebeurs eindigt, een aanvraag voor een tegemoetkoming indienen bij de Minister.
-
-2. De aanvraag wordt ingediend op een door de Minister te bepalen wijze.
-
-3. Bij de aanvraag voegt de student de door de Minister gevraagde bewijsstukken toe waaruit blijkt dat de student voldoet aan de criteria als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=3&artikel=6&z=2022-08-01&g=2022-08-01).
-
-4. De Minister beslist uiterlijk binnen 4 weken op de aanvraag. De beslistermijn kan eenmaal met zes weken worden verlengd.
+Vervallen
 
 #### Paragraaf 4. Tegemoetkoming studenten Caribisch Nederland
 
 ##### Artikel 10. Rechthebbenden BES
 
-1. De tegemoetkoming in deze paragraaf wordt eenmalig verstrekt aan een student:
-
-- a. die zowel in het studiejaar 2019-2020 als 2020-2021 één of meer maanden is ingeschreven voor een opleiding en voor die opleiding respectievelijk een andere, meerjarige opleiding op uiterlijk 31 augustus 2021 een diploma heeft behaald;
-
-- b. voor wie in de periode juni 2020 tot en met de laatste maand van het studiejaar 2022–2023 de aanspraak op prestatiebeurs BES eindigt.
-
-2. Deze paragraaf is niet van toepassing op een student die aanspraak maakt op een tegemoetkoming op grond van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=2&z=2022-08-01&g=2022-08-01) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=3&z=2022-08-01&g=2022-08-01).
+Vervallen
 
 ##### Artikel 11. Omvang tegemoetkoming BES
 
-1. Een student die op grond van [artikel 10, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=4&artikel=10&z=2022-08-01&g=2022-08-01), in aanmerking komt voor een tegemoetkoming, ontvangt:
-
-- a. USD 333 voor een beroepsopleiding; of
-
-- b. USD 594 voor een opleiding hoger onderwijs.
-
-2. Een student die op grond van [artikel 10, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=4&artikel=10&z=2022-08-01&g=2022-08-01), in aanmerking komt voor een tegemoetkoming, ontvangt een bedrag ter hoogte van drie maal het maandelijkse bedrag aan prestatiebeurs als genoemd in [artikel 2.2, eerste lid, kolom III, van de Wsf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=2.2) voor de opleiding en plaats van de opleiding waar hij tot een van de in artikel 10, onder b, genoemde maanden prestatiebeurs voor ontving, afgerond op hele USD.
+Vervallen
 
 ##### Artikel 12. Toekenning en uitbetaling tegemoetkoming lesgeld of collegegeld
 
-1. Een student die voldoet aan de criteria genoemd in [artikel 10, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=4&artikel=10&z=2022-08-01&g=2022-08-01), kan binnen een door de Minister te bepalen periode, maar niet eerder dan op 1 november 2021, een aanvraag voor een tegemoetkoming indienen bij de Minister.
-
-2. De aanvraag wordt ingediend op een door de Minister te bepalen wijze en uitbetaald door bijschrijving op een bij de aanvraag aangeleverde bankrekening.
-
-3. Bij de aanvraag voegt de student de door de Minister gevraagde bewijsstukken toe waaruit blijkt dat de student voldoet aan de criteria, bedoeld in [artikel 10, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=4&artikel=10&z=2022-08-01&g=2022-08-01).
-
-4. De Minister beslist uiterlijk binnen 4 weken op de aanvraag. De beslistermijn kan eenmaal met zes weken worden verlengd.
+Vervallen
 
 ##### Artikel 13. Toekenning en uitbetaling tegemoetkoming prestatiebeurs
 
-1. Zo spoedig mogelijk nadat de Minister over de voor de vaststelling van de aanspraak benodigde gegevens beschikt, wordt de tegemoetkoming, bedoeld in [artikel 10, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=4&artikel=10&z=2022-08-01&g=2022-08-01), ambtshalve toegekend en uitbetaald.
-
-2. De tegemoetkoming wordt uitbetaald door bijschrijving op de bij de Minister voor de toekenning van studiefinanciering bekende bankrekening.
-
-3. Indien bij de Minister geen bankrekening van de student bekend is, wordt de student verzocht de bankrekening te verstrekken op een door de Minister te bepalen wijze en binnen een door de Minister te bepalen redelijke termijn, waarna kan worden uitbetaald.
-
-4. Indien de Minister niet beschikt over een benodigde bankrekening en de student niet binnen de gestelde termijn de gegevens aanvult, vervalt de aanspraak.
+Vervallen
 
 ##### Artikel 14. Aanvraag nadat geen tegemoetkoming prestatiebeurs is ontvangen
 
-1. Een student die geen tegemoetkoming heeft ontvangen als bedoeld in [artikel 10, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=4&artikel=10&z=2022-08-01&g=2022-08-01), maar wel voldoet aan de criteria, bedoeld in dat artikel, kan binnen een door de Minister te bepalen periode, maar niet eerder dan op 1 november van het jaar waarin de aanspraak op prestatiebeurs eindigt, een aanvraag voor een tegemoetkoming indienen bij de Minister.
-
-2. [Artikel 12, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=4&artikel=12&z=2022-08-01&g=2022-08-01), is van overeenkomstige toepassing.
+Vervallen
 
 #### Paragraaf 4a. Extra reisvoorziening
 
@@ -232,9 +152,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 14b. Wijze van toekenning
 
-1. De extra reisvoorziening, bedoeld in [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=4a&artikel=14a&z=2022-08-01&g=2022-08-01), wordt ambtshalve toegekend.
+1. De extra reisvoorziening, bedoeld in [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=4a&artikel=14a&z=2024-01-01&g=2024-01-01), wordt ambtshalve toegekend.
 
-2. In afwijking van het eerste lid, vindt toekenning van de extra reisvoorziening, bedoeld in [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=4a&artikel=14a&z=2022-08-01&g=2022-08-01), plaats op aanvraag in het geval waarin de reguliere reisvoorziening vóór 1 april 2021 was geëindigd.
+2. In afwijking van het eerste lid, vindt toekenning van de extra reisvoorziening, bedoeld in [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=4a&artikel=14a&z=2024-01-01&g=2024-01-01), plaats op aanvraag in het geval waarin de reguliere reisvoorziening vóór 1 april 2021 was geëindigd.
 
 ##### Artikel 14c. Terugwerkende kracht
 
@@ -254,9 +174,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Geen tegemoetkoming wordt toegekend aan een student van wie de aanspraak op tegemoetkoming pas ontstaat na het studiejaar 2022–2023.
 
-##### Artikel 15a. Verval [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=2&z=2022-08-01&g=2022-08-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=3&z=2022-08-01&g=2022-08-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=4&z=2022-08-01&g=2022-08-01)
+##### Artikel 15a. Verval [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=2&z=2024-01-01&g=2024-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=3&z=2024-01-01&g=2024-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=4&z=2024-01-01&g=2024-01-01)
 
-Met ingang van 1 januari 2024 vervallen de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=2&z=2022-08-01&g=2022-08-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=3&z=2022-08-01&g=2022-08-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=4&z=2022-08-01&g=2022-08-01) van deze regeling.
+Met ingang van 1 januari 2024 vervallen de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=2&z=2024-01-01&g=2024-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=3&z=2024-01-01&g=2024-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0043922&paragraaf=4&z=2024-01-01&g=2024-01-01) van deze regeling.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
