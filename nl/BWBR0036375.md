@@ -4,7 +4,7 @@ identifier: "BWBR0036375"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-20"
-last_updated: "2021-06-18"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036375"
 soort: "ministeriele-regeling"
@@ -88,7 +88,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-De [artikelen 3 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=3&z=2021-06-18&g=2021-06-18) zijn van toepassing op gebruik van frequentieruimte zonder vergunning als bedoeld in de [artikelen 3 tot en met 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=3), met uitzondering van maritiem mobiele communicatie vanaf het land.
+De [artikelen 3 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=3&z=2024-01-01&g=2024-01-01) zijn van toepassing op gebruik van frequentieruimte zonder vergunning als bedoeld in de [artikelen 3 tot en met 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=3), met uitzondering van maritiem mobiele communicatie vanaf het land.
 
 ##### Artikel 3
 
@@ -120,9 +120,9 @@ Een rechtspersoon kan slechts gebruik maken van frequentieruimte die ingevolge h
 
 - c. in geval van maritiem mobiele communicatie: de te gebruiken radioapparaten en de naam en indien aanwezig het identificatienummer of kenmerk van het schip waarop deze radioapparaten gebruikt worden;
 
-- d. indien de gebruiker een natuurlijke persoon is, een afschrift van het certificaat, genoemd in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=4&z=2021-06-18&g=2021-06-18), onderscheidenlijk informatie over het voldoen aan het in artikel 4, tweede lid, bedoelde examenvereiste. Een afschrift van het certificaat behoeft niet te worden verstrekt als het is verleend door de Minister.
+- d. indien de gebruiker een natuurlijke persoon is, een afschrift van het certificaat, genoemd in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=4&z=2024-01-01&g=2024-01-01), onderscheidenlijk informatie over het voldoen aan het in artikel 4, tweede lid, bedoelde examenvereiste. Een afschrift van het certificaat behoeft niet te worden verstrekt als het is verleend door de Minister.
 
-3. De melding kan, met uitzondering van de melding, bedoeld in [artikel 6, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=6&z=2021-06-18&g=2021-06-18), langs elektronische weg worden gedaan met gebruikmaking van een daartoe strekkend elektronisch formulier en de in het vierde lid bedoelde persoonlijke code of DigiD-code.
+3. De melding kan, met uitzondering van de melding, bedoeld in [artikel 6, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=6&z=2024-01-01&g=2024-01-01), langs elektronische weg worden gedaan met gebruikmaking van een daartoe strekkend elektronisch formulier en de in het vierde lid bedoelde persoonlijke code of DigiD-code.
 
 4. Degene die voor de eerste maal een melding langs elektronische weg doet en die niet eerder een melding voor het gebruik van frequentieruimte langs elektronische weg heeft gedaan, geeft daarbij een DigiD-code of persoonlijke code op. De persoonlijke code wordt na aanvraag door middel van een daartoe strekkend formulier verstrekt aan de aanvrager.
 
@@ -130,7 +130,7 @@ Een rechtspersoon kan slechts gebruik maken van frequentieruimte die ingevolge h
 
 ##### Artikel 6
 
-1. De Minister registreert het voorgenomen frequentiegebruik overeenkomstig de melding tenzij niet wordt voldaan aan de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=2&z=2021-06-18&g=2021-06-18) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=7&z=2021-06-18&g=2021-06-18), en bericht hierover degene die de melding heeft gedaan, onder verstrekking van een bewijs van registratie aan degene wiens melding is geregistreerd. Een registratie kan door de Minister worden geweigerd voor zover een eerdere registratie is doorgehaald wegens overtreding van bij of krachtens de wet gestelde regels.
+1. De Minister registreert het voorgenomen frequentiegebruik overeenkomstig de melding tenzij niet wordt voldaan aan de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=2&z=2024-01-01&g=2024-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=7&z=2024-01-01&g=2024-01-01), en bericht hierover degene die de melding heeft gedaan, onder verstrekking van een bewijs van registratie aan degene wiens melding is geregistreerd. Een registratie kan door de Minister worden geweigerd voor zover een eerdere registratie is doorgehaald wegens overtreding van bij of krachtens de wet gestelde regels.
 
 2. Onverminderd het eerste lid registreert de Minister het voorgenomen frequentiegebruik ten behoeve van maritiem mobiele communicatie aan boord van een schip uitsluitend voor gebruik aan boord van:
 
@@ -148,7 +148,7 @@ Een rechtspersoon kan slechts gebruik maken van frequentieruimte die ingevolge h
 
 4. Degene die op grond van de melding als frequentiegebruiker geregistreerd is, draagt er voor zorg dat indien het geregistreerde radioapparaat door een ander wordt bediend, daarbij de in deze regeling bepaalde voorschriften worden nageleefd.
 
-5. De Minister haalt de registratie door op verzoek van de betrokkene of indien is vastgesteld dat de betrokkene niet langer gebruik maakt van de frequentieruimte. De Minister kan de registratie doorhalen indien niet wordt voldaan aan de [artikelen 2 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=2&z=2021-06-18&g=2021-06-18), of indien de betrokkene de verschuldigde vergoeding voor de registratie niet heeft voldaan. De Minister bericht de betrokkene over de doorhaling.
+5. De Minister haalt de registratie door op verzoek van de betrokkene of indien is vastgesteld dat de betrokkene niet langer gebruik maakt van de frequentieruimte. De Minister kan de registratie doorhalen indien niet wordt voldaan aan de [artikelen 2 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=2&z=2024-01-01&g=2024-01-01), of indien de betrokkene de verschuldigde vergoeding voor de registratie niet heeft voldaan. De Minister bericht de betrokkene over de doorhaling.
 
 ##### Artikel 7
 
@@ -160,7 +160,7 @@ Bij het gebruik van frequentieruimte wordt voldaan aan de beperkingen en voorsch
 
 ##### Artikel 8
 
-1. Bij gebruik van frequentieruimte als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=7&z=2021-06-18&g=2021-06-18) wordt voorts voldaan aan de volgende voorschriften:
+1. Bij gebruik van frequentieruimte als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=7&z=2024-01-01&g=2024-01-01) wordt voorts voldaan aan de volgende voorschriften:
 
 - a. het bewijs van registratie en, in geval van maritiem mobiele communicatie, het certificaat van bediening zijn aanwezig bij het radioapparaat;
 
@@ -172,7 +172,7 @@ Bij het gebruik van frequentieruimte wordt voldaan aan de beperkingen en voorsch
 
 ##### Artikel 9
 
-1. Bij gebruik van frequentieruimte met de bestemming ‘maritiem mobiele communicatie’ aan boord van een schip is het radioapparaat dat aan boord van het schip gebruikt wordt, geregistreerd voor gebruik aan boord van dat schip en wordt, onverlet [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=8&z=2021-06-18&g=2021-06-18), voldaan aan de volgende voorschriften:
+1. Bij gebruik van frequentieruimte met de bestemming ‘maritiem mobiele communicatie’ aan boord van een schip is het radioapparaat dat aan boord van het schip gebruikt wordt, geregistreerd voor gebruik aan boord van dat schip en wordt, onverlet [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=8&z=2024-01-01&g=2024-01-01), voldaan aan de volgende voorschriften:
 
 - a. een maritiem mobiel radioapparaat gebruikt geen onjuiste of misleidende identificatie;
 
@@ -186,7 +186,7 @@ Bij het gebruik van frequentieruimte wordt voldaan aan de beperkingen en voorsch
 
 - f. versleutelde radiocommunicatie door middel van een MF- of MF/HF-radioapparaat vindt uitsluitend plaats op frequenties bestemd voor radiotelefonieverkeer tussen schepen;
 
-- g. bij versleutelde radiocommunicatie als bedoeld in onderdeel f wordt tijdens de uitzending en ten minste eenmaal per periode van vijf minuten de in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=6&z=2021-06-18&g=2021-06-18), bedoelde combinatie van letters of cijfers onversleuteld uitgezonden;
+- g. bij versleutelde radiocommunicatie als bedoeld in onderdeel f wordt tijdens de uitzending en ten minste eenmaal per periode van vijf minuten de in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=6&z=2024-01-01&g=2024-01-01), bedoelde combinatie van letters of cijfers onversleuteld uitgezonden;
 
 - h. bij gebruik van een marifoon of portofoon is de antenne hiervan verticaal polariserend en rondstralend;
 
@@ -196,13 +196,13 @@ Bij het gebruik van frequentieruimte wordt voldaan aan de beperkingen en voorsch
 
 ##### Artikel 10
 
-1. Bij gebruik van frequentieruimte met de bestemming ‘amateur´ of ‘amateursatelliet´ wordt, onverlet [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=8&z=2021-06-18&g=2021-06-18), voldaan aan de volgende voorschriften:
+1. Bij gebruik van frequentieruimte met de bestemming ‘amateur´ of ‘amateursatelliet´ wordt, onverlet [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=8&z=2024-01-01&g=2024-01-01), voldaan aan de volgende voorschriften:
 
 - a. de radiozendamateur bedient het radioapparaat zelf en, indien hij niet aanwezig is, draagt er zorg voor dat alleen hij zijn radioapparaat op afstand kan bedienen;
 
 - b. het uitzenden van media-aanbod of reclameboodschappen als bedoeld in [artikel 1.1 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=1.1) is niet toegestaan;
 
-- c. de in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=6&z=2021-06-18&g=2021-06-18), bedoelde combinatie van letters of cijfers wordt ten minste bij het begin en bij het einde van elke uitzending en ten minste eenmaal per periode van vijf minuten uitgezonden, waarbij een reeks kortdurende uitzendingen wordt aangemerkt als één uitzending;
+- c. de in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=6&z=2024-01-01&g=2024-01-01), bedoelde combinatie van letters of cijfers wordt ten minste bij het begin en bij het einde van elke uitzending en ten minste eenmaal per periode van vijf minuten uitgezonden, waarbij een reeks kortdurende uitzendingen wordt aangemerkt als één uitzending;
 
 - d. de combinatie van letters of cijfers is bij data- en beeldoverdracht aan de ontvangstzijde na demodulatie in leesbaar schrift zichtbaar;
 
@@ -216,11 +216,11 @@ Bij het gebruik van frequentieruimte wordt voldaan aan de beperkingen en voorsch
 
 2. Voor gezamenlijk gebruik van frequentieruimte ten dienste van radiozendamateurs tijdens groepsevenementen gelden de volgende voorschriften:
 
-- a. tijdens een radiowedstrijd die door meer dan een geregistreerde wordt georganiseerd met de vorming van een groepsradiostation, kunnen de deelnemers de in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=6&z=2021-06-18&g=2021-06-18), bedoelde combinatie van letters of cijfers van één van de geregistreerden gebruiken;
+- a. tijdens een radiowedstrijd die door meer dan een geregistreerde wordt georganiseerd met de vorming van een groepsradiostation, kunnen de deelnemers de in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=6&z=2024-01-01&g=2024-01-01), bedoelde combinatie van letters of cijfers van één van de geregistreerden gebruiken;
 
 - b. bij radioamateurpeilevenementen die georganiseerd zijn door een geregistreerde vereniging of stichting van radiozendamateurs, is het eerste lid, onderdeel a, niet van toepassing;
 
-- c. bij gebruik van een radiostation door leden van Scouting Nederland tijdens evenementen die georganiseerd worden door de werkgroep Radio Scouting Nederland wordt aan de in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=6&z=2021-06-18&g=2021-06-18), bedoelde combinatie van letters of cijfers toegevoegd: J.
+- c. bij gebruik van een radiostation door leden van Scouting Nederland tijdens evenementen die georganiseerd worden door de werkgroep Radio Scouting Nederland wordt aan de in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=6&z=2024-01-01&g=2024-01-01), bedoelde combinatie van letters of cijfers toegevoegd: J.
 
 3. Voor een onderwijsinstelling geldt dat:
 
@@ -228,9 +228,9 @@ Bij het gebruik van frequentieruimte wordt voldaan aan de beperkingen en voorsch
 
 - b. het houden van en deelnemen aan radiowedstrijden niet is toegestaan;
 
-- c. de onderwijsinstelling een radiozendamateur die voldoet aan het in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=4&z=2021-06-18&g=2021-06-18), bedoelde vereiste, aanwijst die namens de geregistreerde onderwijsinstelling het radiostation beheert.
+- c. de onderwijsinstelling een radiozendamateur die voldoet aan het in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=4&z=2024-01-01&g=2024-01-01), bedoelde vereiste, aanwijst die namens de geregistreerde onderwijsinstelling het radiostation beheert.
 
-4. Voor een vereniging of stichting van radiozendamateurs geldt dat de geregistreerde een radiozendamateur die voldoet aan het in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=4&z=2021-06-18&g=2021-06-18), bedoelde vereiste, aanwijst die namens de geregistreerde vereniging of stichting het radiostation beheert.
+4. Voor een vereniging of stichting van radiozendamateurs geldt dat de geregistreerde een radiozendamateur die voldoet aan het in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=4&z=2024-01-01&g=2024-01-01), bedoelde vereiste, aanwijst die namens de geregistreerde vereniging of stichting het radiostation beheert.
 
 ##### Artikel 11
 
@@ -250,7 +250,7 @@ Deze regeling wordt aangehaald als: Regeling gebruik van frequentieruimte met me
 
 ### Bijlage 1. Radiozendamateurs
 
-### Beperkingen en voorschriften als bedoeld in [artikel 7, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=7&z=2021-06-18&g=2021-06-18), en examenvereiste als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=4&z=2021-06-18&g=2021-06-18)
+### Beperkingen en voorschriften als bedoeld in [artikel 7, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=7&z=2024-01-01&g=2024-01-01), en examenvereiste als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=4&z=2024-01-01&g=2024-01-01)
 
 1 Een registratie met volledige toegang wordt aangemerkt als F (full), terwijl een registratie met beperkte toegang wordt aangemerkt als N (novice). Ingevolge artikel 7 van de Examenregeling frequentiegebruik 2008 is het met goed gevolg afgelegd hebben van een examen voor de categorie F vereist voor volledige toegang van de voor radiozendamateurs beschikbare frequentieruimte, onder de eventuele in de tabel opgenomen beperkingen, en is het met goed gevolg afgelegd hebben van een examen voor de categorie N vereist voor toegang van de voor radiozendamateurs beschikbare frequentieruimte zoals opgenomen in de tabel onder N. Met het met goed gevolg afgelegd hebben van een examen voor de categorie F wordt gelijk gesteld een HAREC-certificaat, verstrekt door een andere administratie van de Conférence Européenne des Postes et des Télécommunications (CEPT), of een certificaat of ander document dat gelijkwaardig is aan een F-certificaat van een andere administratie die geen onderdeel uitmaakt van de CEPT en die is opgenomen in Annex 4 van CEPT Recommendation T/R 61-02. Met het met goed gevolg afgelegd hebben van een examen wordt voor de categorie N gelijk gesteld een certificaat of ander document dat gelijkwaardig is aan een N-certificaat, verstrekt door een andere administratie van de CEPT of een administratie die geen onderdeel uitmaakt van de CEPT en die is opgenomen in Annex 4 van ECC Recommendation (05) 06.
 
@@ -390,7 +390,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 11a
 
-Tot en met 30 juni 2020 worden registraties van frequentiegebruik ten behoeve van maritiem mobiele communicatie niet doorgehaald op grond van [artikel 6, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=6&z=2021-06-18&g=2021-06-18), indien de registratie heeft plaatsgevonden vóór 1 juli 2019.
+Tot en met 30 juni 2020 worden registraties van frequentiegebruik ten behoeve van maritiem mobiele communicatie niet doorgehaald op grond van [artikel 6, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=6&z=2024-01-01&g=2024-01-01), indien de registratie heeft plaatsgevonden vóór 1 juli 2019.
 
 ## Bijlagen
 
@@ -400,7 +400,7 @@ Tot en met 30 juni 2020 worden registraties van frequentiegebruik ten behoeve va
 
 ### Bijlage 2. Maritiem mobiele communicatie
 
-**Beperkingen en voorschriften als bedoeld in** [artikel 7, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=7&z=2021-06-18&g=2021-06-18) **, en het vereiste certificaat van bediening als bedoeld in** [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=4&z=2021-06-18&g=2021-06-18).
+**Beperkingen en voorschriften als bedoeld in** [artikel 7, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=7&z=2024-01-01&g=2024-01-01) **, en het vereiste certificaat van bediening als bedoeld in** [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=4&z=2024-01-01&g=2024-01-01).
 
 ### 1.2. GMDSS en DSC frequenties boven de 30 MHZ, VHF/UHF band
 
@@ -414,7 +414,7 @@ Tot en met 30 juni 2020 worden registraties van frequentiegebruik ten behoeve va
 
 Dit overzicht bevat alle radioapparatuur die onder de noemer ‘scheepsstation’ vergunningvrij met melding kan worden gebruikt.
 
-### Spellingsalfabet als bedoeld in [artikel 10, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=10&z=2021-06-18&g=2021-06-18)
+### Spellingsalfabet als bedoeld in [artikel 10, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=10&z=2024-01-01&g=2024-01-01)
 
 Bij het spellen van de roepletters dient gebruik te worden gemaakt van het volgende spellingsalfabet:
 
