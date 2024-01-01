@@ -4,7 +4,7 @@ identifier: "BWBR0047700"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2025-12-24"
-last_updated: "2022-12-24"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047700"
 soort: "beleidsregel"
@@ -44,19 +44,19 @@ Besluit:
 
 In deze beleidsregel wordt verstaan onder:
 
-- **vergunning:** vergunning als bedoeld in [artikel 2 van de Wet beheer rijkswaterstaatswerken](https://wetten.overheid.nl/jci1.3:c:BWBR0008331&artikel=2);
+- **vergunning:** omgevingsvergunning voor een beperkingengebiedactiviteit met betrekking tot een verzorgingsplaats die behoort bij een weg in beheer bij het Rijk, als bedoeld in [artikel 5.1, tweede lid, aanhef en onder f, aanhef en onderdeel 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1), in samenhang met [artikel 8.16, eerste lid en tweede lid, aanhef en onder c, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=8.16);
 
-- **wet:** [Wet beheer rijkswaterstaatswerken](https://wetten.overheid.nl/jci1.3:c:BWBR0008331).
+- **wet:** [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885).
 
 ##### Artikel 2. (reikwijdte)
 
-Deze beleidsregel gaat over de toepassing van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008331&artikel=2) en [3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008331&artikel=3), op het maken en behouden van elektrische laadpunten als basisvoorziening of aanvullende voorziening op verzorgingsplaatsen van wegen die in beheer zijn bij het Rijk.
+Deze beleidsregel gaat over de toepassing van de [artikelen 5.11, eerste lid, aanhef en onder f, onderdeel 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.11), [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.12), [5.18](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.18), gelezen in samenhang met de [artikelen 5.28, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.28), [5.34](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.34) en [5.36 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.36), alsmede van [artikel 8.2 van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=8.2), op het maken en behouden van elektrische laadpunten als basisvoorziening of aanvullende voorziening op verzorgingsplaatsen van wegen die in beheer zijn bij het Rijk.
 
 ##### Artikel 3. (beperkte geldigheidsduur en vergunningstop)
 
 1. Een vergunning wordt slechts verleend of gewijzigd met een geldigheidsduur die in ieder geval is beperkt:
 
-- a. tot de dag waarop de geldigheidsduur eindigt van een voor inwerkingtreding van deze beleidsregel verleende vergunning voor een basisvoorziening energielaadpunt op de betreffende verzorgingsplaats; of
+- a. tot de dag waarop de geldigheidsduur eindigt van een voor inwerkingtreding van deze beleidsregel krachtens de [Wet beheer rijkswaterstaatswerken](https://wetten.overheid.nl/jci1.3:c:BWBR0008331) verleende vergunning voor een basisvoorziening energielaadpunt op de betreffende verzorgingsplaats; of
 
 - b. als voor de betreffende verzorgingsplaats geen vergunning als bedoeld in onderdeel a, is verleend, tot de dag waarop de geldigheidsduur eindigt van de voor inwerkingtreding van deze beleidsregel gesloten huurovereenkomst van een locatie voor een motorbrandstoffenverkooppunt als bedoeld in [artikel 3, eerste lid, van de Wet tot veiling van bepaalde verkooppunten van motorbrandstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0018447&artikel=3) op deze verzorgingsplaats.
 
@@ -82,6 +82,14 @@ Bij de voorbereiding en de vaststelling van een beschikking inzake het verlenen,
 
 ##### Artikel 6. (citeertitel)
 
-Deze beleidsregel wordt aangehaald als: Tijdelijke beleidsregel inzake de toepassing van de [Wet beheer rijkswaterstaatswerken](https://wetten.overheid.nl/jci1.3:c:BWBR0008331) op elektrische laadpunten op verzorgingsplaatsen.
+Deze beleidsregel wordt aangehaald als: Tijdelijke beleidsregel inzake de toepassing van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) op elektrische laadpunten op verzorgingsplaatsen.
+
+Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 5a. (grondslag en overgangsrecht)
+
+1. Deze beleidsregel berust met ingang van 1 januari 2024 op [artikel 5.11, eerste lid, aanhef en onder f, onderdeel 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.11), gelezen in samenhang met de [artikelen 5.1, tweede lid, aanhef en onder f, aanhef en onderdeel 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1), [5.5, eerste lid, aanhef en onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.5), [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.12), [5.18](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.18), [5.28](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.28), [5.34](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.34) en [5.36 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.36), [artikel 8.16 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=8.16), [artikel 8.2 van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=8.2) en de [artikelen 4:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:2), en [4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81).
+
+2. Op een aanvraag inzake een beschikking inzake het verlenen, weigeren, wijzigen of intrekken van een krachtens de [Wet beheer rijkswaterstaatswerken](https://wetten.overheid.nl/jci1.3:c:BWBR0008331) vergunning die is ingediend voor 1 januari 2024 en waarop nog niet onherroepelijk is beslist blijft de Tijdelijke beleidsregel inzake de toepassing van de Wet beheer rijkswaterstaatswerken op elektrische laadpunten op verzorgingsplaatsen, zoals die luidde tot 1 januari 2024, van toepassing.
 
 Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
