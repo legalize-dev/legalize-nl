@@ -4,7 +4,7 @@ identifier: "BWBR0048328"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2023-07-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048328"
 soort: "wet"
@@ -49,11 +49,11 @@ Wijzigt de Wet inkomstenbelasting 2001.
 
 Onderdeel X:
 
-Het in artikel II, onderdeel E, onderdeel 2, onder b, genoemde bedrag en het in onderdeel Ea, eerstgenoemde bedrag worden vóór toepassing van die onderdelen vervangen door andere bedragen. Deze bedragen worden berekend door de te vervangen bedragen te vermenigvuldigen met de ingevolge artikel 10.1 van de Wet inkomstenbelasting 2001 aan het begin van het kalenderjaar 2023 toegepaste inflatiecorrectie op die bedragen, genoemd in artikel 3.127, tweede en derde lid, van die wet.
+Het in artikel II, onderdeel E, onderdeel 2, onder b, genoemde bedrag en het in onderdeel Ea, eerstgenoemde bedrag worden vóór toepassing van die onderdelen vervangen door andere bedragen. Deze bedragen worden berekend door de te vervangen bedragen te vermenigvuldigen met de ingevolge [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) aan het begin van het kalenderjaar 2023 toegepaste inflatiecorrectie op die bedragen, genoemd in [artikel 3.127, tweede en derde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.127).
 
 Onderdeel Y:
 
-Het in artikel II, onderdeel Ea, als tweede genoemde bedrag wordt vóór toepassing van dat onderdeel vervangen door een ander bedrag. Dit bedrag wordt berekend door de aan het begin van het kalenderjaar 2023 geldende uitkeringen voor gehuwde personen zonder toeslag als omschreven in artikel 9, eerste lid, onderdeel b, en vijfde lid, van de Algemene Ouderdomswet, vermeerderd met de vakantietoeslag, te vermenigvuldigen met de factor 100/75.
+Het in artikel II, onderdeel Ea, als tweede genoemde bedrag wordt vóór toepassing van dat onderdeel vervangen door een ander bedrag. Dit bedrag wordt berekend door de aan het begin van het kalenderjaar 2023 geldende uitkeringen voor gehuwde personen zonder toeslag als omschreven in [artikel 9, eerste lid, onderdeel b, en vijfde lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=9), vermeerderd met de vakantietoeslag, te vermenigvuldigen met de factor 100/75.
 
 ##### Artikel III. Wet op de loonbelasting 1964
 
@@ -139,7 +139,7 @@ Onze Minister voor Armoedebeleid, Participatie en Pensioenen draagt er zorg voor
 
 - c. in het jaar 2038, voor zover het betreft het overgangsrecht voor de progressieve premie in [artikel 220e van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=220e) en [artikel 214e van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=214e); en
 
-- d. voor zover het de zorgplicht, bedoeld in [artikel XIIIB van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048328&artikel=XIIIb&z=2023-07-01&g=2023-07-01), betreft op de volgende data: waarbij tevens telkens een door het CBS, als bedoeld in [artikel 1, onderdeel b, van de Wet op het Centraal bureau voor de statistiek](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=1), aan het einde van het voorgaande kalenderjaar vastgestelde omvang van het aantal werknemers dat geen deelnemer is als bedoeld in [artikel 1 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=1) of [artikel 1, eerste lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=1), wordt meegezonden.
+- d. voor zover het de zorgplicht, bedoeld in [artikel XIIIB van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048328&artikel=XIIIb&z=2024-01-01&g=2024-01-01), betreft op de volgende data: waarbij tevens telkens een door het CBS, als bedoeld in [artikel 1, onderdeel b, van de Wet op het Centraal bureau voor de statistiek](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=1), aan het einde van het voorgaande kalenderjaar vastgestelde omvang van het aantal werknemers dat geen deelnemer is als bedoeld in [artikel 1 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=1) of [artikel 1, eerste lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=1), wordt meegezonden.
 
 - 1°. 1 oktober 2023;
 
@@ -169,7 +169,7 @@ Onze Minister voor Armoedebeleid, Participatie en Pensioenen draagt er zorg voor
 
 ##### Artikel XV. Inwerkingtreding
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, waarbij [artikel II, onderdelen E en I,](https://wetten.overheid.nl/jci1.3:c:BWBR0048328&artikel=II&z=2023-07-01&g=2023-07-01) kunnen terugwerken tot en met een in dat besluit te bepalen tijdstip en met dien verstande dat [artikel I, onderdelen Ca, H, eerste en derde onderdeel en UUU](https://wetten.overheid.nl/jci1.3:c:BWBR0048328&artikel=I&z=2023-07-01&g=2023-07-01), voor zover het betreft [artikel 220ca](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=220ca) en [artikel VII, onderdeel Fa en onderdeel QQQ](https://wetten.overheid.nl/jci1.3:c:BWBR0048328&artikel=VII&z=2023-07-01&g=2023-07-01), voor zover het betreft [artikel 214ca](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=214ca), in werking treden met ingang van 1 januari 2024.
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, waarbij [artikel II, onderdelen E en I,](https://wetten.overheid.nl/jci1.3:c:BWBR0048328&artikel=II&z=2024-01-01&g=2024-01-01) kunnen terugwerken tot en met een in dat besluit te bepalen tijdstip en met dien verstande dat [artikel I, onderdelen Ca, H, eerste en derde onderdeel en UUU](https://wetten.overheid.nl/jci1.3:c:BWBR0048328&artikel=I&z=2024-01-01&g=2024-01-01), voor zover het betreft [artikel 220ca](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=220ca) en [artikel VII, onderdeel Fa en onderdeel QQQ](https://wetten.overheid.nl/jci1.3:c:BWBR0048328&artikel=VII&z=2024-01-01&g=2024-01-01), voor zover het betreft [artikel 214ca](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=214ca), in werking treden met ingang van 1 januari 2024.
 
 ##### Artikel XVI. Citeertitel
 
