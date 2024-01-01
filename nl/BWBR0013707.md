@@ -4,7 +4,7 @@ identifier: "BWBR0013707"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2023-07-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013707"
 soort: "AMvB"
@@ -54,13 +54,19 @@ In dit besluit en de daarop berustende bepalingen wordt, voor zover het betreft 
 
 - a. voertuig:
 
-- 1°. bedrijfsauto als bedoeld in [artikel 1.1 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=1.1) met een maximum gewicht van ten hoogste 3500 kilogram;
+- 1°. bedrijfsauto als bedoeld in de regeling op grond van [artikel 21, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=21), met een gewicht van niet meer dan 3.500 kg;
 
-- 2°. bromfiets als bedoeld in [artikel 1.1. van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=1.1), niet zijnde een voertuig op twee wielen, of
+- 2°. personenauto als bedoeld in de regeling op grond van [artikel 21, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=21); of
 
-- 3°. personenauto als bedoeld in [artikel 1.1 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=1.1);
+- 3°. bromfiets als bedoeld in de regeling op grond van [artikel 21, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=21), die een motorvoertuig op drie of vier wielen is;
 
-- b. autowrak: voertuig dat een afvalstof is in de zin van [artikel 1.1, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1);
+- b. autowrak:
+
+- 1°. bedrijfsauto als bedoeld in de regeling op grond van [artikel 21, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=21), met een gewicht van niet meer dan 3.500 kg, die een afvalstof is;
+
+- 2°. personenauto als bedoeld in de regeling op grond van [artikel 21, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=21), die een afvalstof is; of
+
+- 3°. bromfiets als bedoeld in de regeling op grond van [artikel 21, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=21), die een motorvoertuig op drie of vier wielen is, die een afvalstof is;
 
 - c. de producent: degene onder wiens verantwoordelijkheid in de uitoefening van zijn beroep of bedrijf voertuigen worden vervaardigd en als eerste in Nederland aan een ander ter beschikking worden gesteld;
 
@@ -72,13 +78,13 @@ In dit besluit en de daarop berustende bepalingen wordt, voor zover het betreft 
 
 - 2°. vermindering van de schadelijkheid voor het milieu van autowrakken en van de daarin aanwezige materialen en onderdelen;
 
-- f. verwerking: activiteiten na de afgifte van een autowrak aan een inrichting voor de verwijdering van gevaarlijke afvalstoffen, demontage, versnijding, shredding, nuttige toepassing of voorbewerking voor de verwijdering van shredderafval, en elke andere handeling voor de nuttige toepassing of verwijdering van autowrakken en onderdelen daarvan;
+- f. verwerking: activiteiten na de afgifte van een autowrak die bestaan uit verwijdering van gevaarlijke afvalstoffen, demontage, versnijding, shredding, nuttige toepassing of voorbewerking voor de verwijdering van shredderafval, en elke andere handeling voor de nuttige toepassing of verwijdering van autowrakken en onderdelen daarvan;
 
-- g. hergebruiken als product: opnieuw gebruiken van onderdelen van autowrakken voor hetzelfde doel als waarvoor ze zijn ontworpen;
+- g. voorbereiden voor hergebruik: nuttige toepassing bestaande uit controleren, schoonmaken of repareren, waarbij producten of componenten van producten, die afvalstoffen zijn geworden, worden klaargemaakt zodat ze zullen worden hergebruikt zonder dat verdere voorbehandeling nodig is;
 
 - h. terugwinning van energie: gebruik van brandbare afvalstoffen om energie op te wekken door directe verbranding met of zonder andere afvalstoffen, en met terugwinning van de als gevolg daarvan opgewekte warmte;
 
-- i. hergebruiken als materiaal: na een be- of verwerking opnieuw gebruiken van materialen van autowrakken voor hetzelfde doel als waarvoor ze zijn ontworpen of voor andere doeleinden, daaronder niet begrepen terugwinning van energie;
+- i. recycling: nuttige toepassing waardoor afvalstoffen opnieuw worden bewerkt tot producten, materialen of stoffen, voor het oorspronkelijke doel of voor een ander doel, met inbegrip van het opnieuw bewerken van organische afvalstoffen, en met uitsluiting van energieterugwinning en het opnieuw bewerken tot materialen die bestemd zijn om te worden gebruikt als brandstof of als opvulmateriaal;
 
 - j. gevaarlijke stof: stof waarvoor de criteria van een of meer van de volgende gevarenklassen of categorieën van bijlage I bij de EG-verordening indeling, etikettering en verpakking van stoffen en mengsels vervuld zijn:
 
@@ -90,21 +96,21 @@ In dit besluit en de daarop berustende bepalingen wordt, voor zover het betreft 
 
 - 4°. de gevarenklasse 5.1;
 
-- k. vergunning: omgevingsvergunning voor een inrichting;
+- k. shredderinstallatie: toestel dat voor het stuktrekken of versnijden van autowrakken wordt gebruikt;
 
-- l. shredderinstallatie: toestel dat voor het stuktrekken of versnijden van autowrakken wordt gebruikt;
+- l. autowrakkenrichtlijn: [richtlijn nr. 2000/53/EG](32000L0053) van het Europees Parlement en de Raad van de Europese Unie van 18 september 2000 betreffende autowrakken (PbEG L 269);
 
-- m. autowrakkenrichtlijn: [richtlijn nr. 2000/53/EG](32000L0053) van het Europees Parlement en de Raad van de Europese Unie van 18 september 2000 betreffende autowrakken (PbEG L 269);
+- m. door verlettering vervallen;
 
 - n. marktdeelnemer: marktdeelnemer als bedoeld in artikel 3, onderdeel 13, van de EU-verordening markttoezicht;
 
-- o. aanbieder van diensten van de informatiemaatschappij: aanbieder van een dienst zoals gedefinieerd in artikel 1, eerste lid, onderdeel b, van [Richtlijn (EU) 2015/1535](32015L1535) van het Europees Parlement en de Raad van 9 september 2015 betreffende een informatieprocedure op het gebied van technische voorschriften en regels betreffende de diensten van de informatiemaatschappij (PbEU 2015, L 241);
+- o. aanbieder van diensten van de informatiemaatschappij: aanbieder van een dienst zoals gedefinieerd in artikel 1, eerste lid, onderdeel b, van Richtlijn (EU) 2015/1535 van het Europees Parlement en de Raad van 9 september 2015 betreffende een informatieprocedure op het gebied van technische voorschriften en regels betreffende de diensten van de informatiemaatschappij (PbEU 2015, L 241);
 
 - p. op de markt aanbieden: op de markt aanbieden als bedoeld in artikel 3, onderdeel 1, van de EU-verordening markttoezicht.
 
 ##### Artikel 2
 
-1. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=3&z=2023-07-01&g=2023-07-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=4&z=2023-07-01&g=2023-07-01), [8, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=8&z=2023-07-01&g=2023-07-01), [9 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=4&artikel=9&z=2023-07-01&g=2023-07-01) en [15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=15&z=2023-07-01&g=2023-07-01), zijn niet van toepassing op voertuigen als bedoeld in [artikel 1, onder a, onderdeel 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=1&artikel=1&z=2023-07-01&g=2023-07-01).
+1. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=4&z=2024-01-01&g=2024-01-01), [8, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=8&z=2024-01-01&g=2024-01-01), [9 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=4&artikel=9&z=2024-01-01&g=2024-01-01) en [15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=15&z=2024-01-01&g=2024-01-01), zijn niet van toepassing op voertuigen als bedoeld in [artikel 1, onder a, onderdeel 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=1&artikel=1&z=2024-01-01&g=2024-01-01).
 
 2. Dit besluit is niet van toepassing op producten voorzover daaromtrent regels zijn gesteld in de [Regeling afgedankte elektrische en elektronische apparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0034782), het [Besluit beheer batterijen of accu’s 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024491) of de [Regeling beheer batterijen en accu’s 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024492).
 
@@ -114,11 +120,11 @@ In dit besluit en de daarop berustende bepalingen wordt, voor zover het betreft 
 
 De producent neemt maatregelen ter bevordering van preventie die erop gericht zijn dat:
 
-- a. het gebruik van gevaarlijke stoffen in voertuigen beperkt wordt en voorzover mogelijk reeds in de ontwerpfase verminderd wordt, teneinde het vrijkomen ervan in het milieu te voorkomen, hergebruik als product of materiaal te vergemakkelijken en de verwijdering van gevaarlijke stoffen te vermijden;
+- a. het gebruik van gevaarlijke stoffen in voertuigen beperkt wordt en voorzover mogelijk reeds in de ontwerpfase verminderd wordt, teneinde het vrijkomen ervan in het milieu te voorkomen, het voorbereiden voor hergebruik of recycling te vergemakkelijken en de verwijdering van gevaarlijke stoffen te vermijden;
 
 - b. een nieuw voertuigtype zodanig wordt ontworpen en vervaardigd dat demontage en nuttige toepassing van autowrakken en van de daarin aanwezige materialen en onderdelen worden vergemakkelijkt;
 
-- c. steeds meer hergebruikt materiaal in voertuigen en in andere producten wordt toegepast.
+- c. steeds meer materiaal afkomstig van het voorbereiden voor hergebruik of recycling in voertuigen en in andere producten wordt toegepast.
 
 ##### Artikel 4
 
@@ -130,17 +136,15 @@ De producent neemt maatregelen ter bevordering van preventie die erop gericht zi
 
 ##### Artikel 5
 
-1. Bij de verwerking of vernietiging van autowrakken in een shredderinstallatie worden autowrakken gescheiden in direct als materiaal te hergebruiken metaalschroot en shredderafvalstoffen.
-
-2. Indien technologieën voor de nuttige toepassing van shredderafvalstoffen beschikbaar zijn, worden die afvalstoffen afkomstig van autowrakken afgevoerd ten behoeve van nuttige toepassing.
+Vervallen
 
 ##### Artikel 6
 
-Bij de afvalstoffenverordening, bedoeld in [artikel 10.23, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23), wordt bepaald dat een autowrak, zijnde een huishoudelijke afvalstof, slechts mag worden afgegeven aan:
+Bij de afvalstoffenverordening, bedoeld in [artikel 10.23, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23), of bij omgevingsplan wordt bepaald dat een autowrak, zijnde een huishoudelijke afvalstof, slechts mag worden afgegeven aan:
 
-- a. een autodemontagebedrijf als bedoeld in [artikel 1.1, eerste lid, van het Activiteitenbesluit milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0022762&artikel=1.1);
+- a. degene die een milieubelastende activiteit als bedoeld in [artikel 3.152 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.152) verricht;
 
-- b. degene die een inrichting drijft waar onderhoud en reparatie van motorvoertuigen plaatsvindt als bedoeld in categorie 28.10 van [bijlage I, onder C, bij het Besluit omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0027464&bijlage=I), of
+- b. degene die een milieubelastende activiteit als bedoeld in [artikel 3.276 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.276) verricht, waar motorvoertuigen worden onderhouden anders dan alleen wassen, of
 
 - c. degene die in een ander land dan Nederland is gevestigd en die overeenkomstig de EG-verordening overbrenging van afvalstoffen en [titel 10.7 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&titeldeel=10.7) het autowrak naar dat land brengt.
 
@@ -158,15 +162,15 @@ De producent of importeur draagt er zorg voor dat een verwerkingssysteem wordt o
 
 1. De producent of importeur draagt er zorg voor dat in de periode van 1 januari 2003 tot en met 31 december 2014, gedurende een kalenderjaar, van autowrakken, voorzover het voertuigen betreft die onder zijn verantwoordelijkheid in Nederland aan een ander ter beschikking zijn gesteld:
 
-- a. ten minste 85 gewichtsprocent als product wordt hergebruikt of nuttig wordt toegepast, en
+- a. ten minste 85 gewichtsprocent voorbereid wordt voor hergebruik of nuttig wordt toegepast, en
 
-- b. ten minste 80 gewichtsprocent als product of materiaal wordt hergebruikt.
+- b. ten minste 80 gewichtsprocent voorbereid wordt voor hergebruik of wordt gerecycled.
 
 2. De producent of importeur draagt er zorg voor dat vanaf 1 januari 2015, gedurende een kalenderjaar, van autowrakken, voorzover het voertuigen betreft die onder zijn verantwoordelijkheid in Nederland aan een ander ter beschikking zijn gesteld:
 
-- a. ten minste 95 gewichtsprocent als product wordt hergebruikt of nuttig wordt toegepast, en
+- a. ten minste 95 gewichtsprocent voorbereid wordt voor hergebruik of nuttig wordt toegepast, en
 
-- b. ten minste 85 gewichtsprocent als product of materiaal wordt hergebruikt.
+- b. ten minste 85 gewichtsprocent voorbereid wordt voor hergebruik of wordt gerecycled.
 
 3. Het eerste en tweede lid zijn niet van toepassing op voertuigen als bedoeld in artikel 9, eerste lid, onder b, van richtlijn 2007/46/EG van het Europees Parlement en de Raad van de Europese Unie van 5 september 2007 tot vaststelling van een kader voor de goedkeuring van motorvoertuigen en aanhangwagens daarvan en van systemen, onderdelen en technische eenheden die voor dergelijke voertuigen zijn bestemd (Kaderrichtlijn) (Pb EU L 263).
 
@@ -174,17 +178,17 @@ De producent of importeur draagt er zorg voor dat een verwerkingssysteem wordt o
 
 ##### Artikel 10
 
-1. De producent of importeur draagt er zorg voor dat van de voertuigen die onder zijn verantwoordelijkheid in Nederland aan een ander ter beschikking worden gesteld, de materialen of onderdelen worden voorzien van een aanduiding die in overeenstemming is met de onderdeel- en materiaalcoderingsnormen die door de Commissie van de Europese Gemeenschappen overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=8&z=2023-07-01&g=2023-07-01) van de autowrakkenrichtlijn zijn vastgesteld.
+1. De producent of importeur draagt er zorg voor dat van de voertuigen die onder zijn verantwoordelijkheid in Nederland aan een ander ter beschikking worden gesteld, de materialen of onderdelen worden voorzien van een aanduiding die in overeenstemming is met de onderdeel- en materiaalcoderingsnormen die door de Commissie van de Europese Gemeenschappen overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=8&z=2024-01-01&g=2024-01-01) van de autowrakkenrichtlijn zijn vastgesteld.
 
 2. De bij de beschikking, bedoeld in het eerste lid, vastgestelde normering gaat voor de toepassing van dit besluit gelden met ingang van het tijdstip dat door Onze Minister in de Staatscourant wordt bekendgemaakt.
 
 ##### Artikel 11
 
-1. De producent of importeur draagt er zorg voor dat binnen zes maanden nadat voertuigen van een nieuw type onder zijn verantwoordelijkheid in Nederland voor het eerst aan een ander ter beschikking zijn gesteld, aan een ieder die een inrichting drijft als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=5&z=2023-07-01&g=2023-07-01), informatie wordt verstrekt omtrent demontage van die voertuigen, voorzover die informatie nodig is om de doelstellingen, bedoeld in [artikel 9,](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=4&artikel=9&z=2023-07-01&g=2023-07-01) te realiseren.
+1. De producent of importeur draagt er zorg voor dat binnen zes maanden nadat voertuigen van een nieuw type onder zijn verantwoordelijkheid in Nederland voor het eerst aan een ander ter beschikking zijn gesteld, aan een ieder die een verwerking met een autowrak van een derde verricht, informatie wordt verstrekt omtrent demontage van die voertuigen, voorzover die informatie nodig is om de doelstellingen, bedoeld in [artikel 9,](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=4&artikel=9&z=2024-01-01&g=2024-01-01) te realiseren.
 
 2. De informatie, bedoeld in het eerste lid, omvat gegevens met betrekking tot de verschillende materialen en onderdelen van het voertuigtype en de plaats van de daarin aanwezige gevaarlijke stoffen.
 
-3. De leverancier van onderdelen die aan de producent of importeur ter beschikking zijn gesteld, draagt er zorg voor dat desgevraagd aan een persoon die een inrichting drijft als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=5&z=2023-07-01&g=2023-07-01), informatie wordt verstrekt omtrent demontage, opslag of het testen van die onderdelen met het oog op hergebruik als product, uitgezonderd informatie waarvan de geheimhouding met het oog op de bescherming van bedrijfsgeheimen gerechtvaardigd is.
+3. De leverancier van onderdelen die aan de producent of importeur ter beschikking zijn gesteld, draagt er zorg voor dat desgevraagd aan een persoon die een verwerking met een autowrak van een derde verricht, informatie wordt verstrekt omtrent demontage, opslag of het testen van die onderdelen met het oog op het voorbereiden voor hergebruik, uitgezonderd informatie waarvan de geheimhouding met het oog op de bescherming van bedrijfsgeheimen gerechtvaardigd is.
 
 4. Informatie als bedoeld in het eerste tot en met derde lid wordt verstrekt in de vorm van handboeken of in elektronische vorm.
 
@@ -192,13 +196,13 @@ De producent of importeur draagt er zorg voor dat een verwerkingssysteem wordt o
 
 ##### Artikel 12
 
-1. Tegelijkertijd met de melding, bedoeld in [artikel 4 van het Besluit regeling voor uitgebreide producentenverantwoordelijkheid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=4), doet de producent mededeling aan Onze Minister over de wijze waarop uitvoering zal worden gegeven aan de verplichting, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=3&z=2023-07-01&g=2023-07-01).
+1. Tegelijkertijd met de melding, bedoeld in [artikel 4 van het Besluit regeling voor uitgebreide producentenverantwoordelijkheid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=4), doet de producent mededeling aan Onze Minister over de wijze waarop uitvoering zal worden gegeven aan de verplichting, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01).
 
 2. De mededeling bevat een overzicht van de te nemen maatregelen ter bevordering van preventie alsmede een schatting van de daarmee te bereiken resultaten.
 
 ##### Artikel 13
 
-1. De mededeling, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=12&z=2023-07-01&g=2023-07-01), behoeft de instemming van Onze Minister.
+1. De mededeling, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=12&z=2024-01-01&g=2024-01-01), behoeft de instemming van Onze Minister.
 
 2. [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) is van toepassing op het verzoek tot instemming.
 
@@ -208,11 +212,11 @@ De producent of importeur draagt er zorg voor dat een verwerkingssysteem wordt o
 
 ##### Artikel 14
 
-De producent voert de verplichting, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=3&z=2023-07-01&g=2023-07-01), uit overeenkomstig de mededeling, zoals Onze Minister daarmee heeft ingestemd.
+De producent voert de verplichting, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01), uit overeenkomstig de mededeling, zoals Onze Minister daarmee heeft ingestemd.
 
 ##### Artikel 15
 
-1. De producent zendt elk jaar voor 1 augustus aan Onze Minister een verslag over de uitvoering van de verplichting, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=3&z=2023-07-01&g=2023-07-01), in het voorafgaande kalenderjaar, voor zover hij in dat jaar als producent werkzaam was.
+1. De producent zendt elk jaar voor 1 augustus aan Onze Minister een verslag over de uitvoering van de verplichting, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01), in het voorafgaande kalenderjaar, voor zover hij in dat jaar als producent werkzaam was.
 
 2. Het verslag bevat in ieder geval gegevens omtrent de wijze waarop bij het ontwerp van een nieuw voertuigtype het ontstaan van afvalstoffen wordt voorkomen en naar de mogelijkheid van hergebruik als product of materiaal en van nuttige toepassing van dat type voertuig wordt gestreefd.
 
@@ -220,7 +224,7 @@ De producent voert de verplichting, bedoeld in [artikel 3](https://wetten.overhe
 
 ##### Artikel 16
 
-De producenten kunnen gezamenlijk een mededeling als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=12&z=2023-07-01&g=2023-07-01), doen of een verslag als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=15&z=2023-07-01&g=2023-07-01), toezenden.
+De producenten kunnen gezamenlijk een mededeling als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=12&z=2024-01-01&g=2024-01-01), doen of een verslag als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=15&z=2024-01-01&g=2024-01-01), toezenden.
 
 #### § 7. Slotbepalingen
 
@@ -228,9 +232,9 @@ De producenten kunnen gezamenlijk een mededeling als bedoeld in [artikel 12, eer
 
 1. Een wijziging van de autowrakkenrichtlijn gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
-2. Een wijziging van de richtlijn, genoemd in [artikel 1, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=1&artikel=1&z=2023-07-01&g=2023-07-01), gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
+2. Een wijziging van de richtlijn, genoemd in [artikel 1, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=1&artikel=1&z=2024-01-01&g=2024-01-01), gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
-3. Een wijziging van de richtlijn, genoemd in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=4&artikel=9&z=2023-07-01&g=2023-07-01), gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
+3. Een wijziging van de richtlijn, genoemd in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=4&artikel=9&z=2024-01-01&g=2024-01-01), gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
 ##### Artikel 18
 
@@ -254,7 +258,7 @@ Wijzigt het Besluit stortplaatsen en stortverboden afvalstoffen.
 
 ##### Artikel 23
 
-In afwijking van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=15&z=2023-07-01&g=2023-07-01), heeft een verslag over de uitvoering van de verplichtingen, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=3&z=2023-07-01&g=2023-07-01), [8 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=8&z=2023-07-01&g=2023-07-01) en [15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=15&z=2023-07-01&g=2023-07-01), geen betrekking op het tijdvak vanaf 1 januari 2002 tot het tijdstip van inwerkingtreding van dit besluit.
+In afwijking van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=15&z=2024-01-01&g=2024-01-01), heeft een verslag over de uitvoering van de verplichtingen, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01), [8 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=8&z=2024-01-01&g=2024-01-01) en [15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=15&z=2024-01-01&g=2024-01-01), geen betrekking op het tijdvak vanaf 1 januari 2002 tot het tijdstip van inwerkingtreding van dit besluit.
 
 ##### Artikel 24
 
@@ -340,9 +344,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 8a
 
-Onze Minister bevordert dat degenen die een inrichting drijven waar verwerkingshandelingen worden verricht, een gecertificeerd milieubeheerssysteem invoeren.
+Onze Minister bevordert dat degene die een verwerking verricht, een gecertificeerd milieubeheerssysteem invoert.
 
-#### § 4. Hergebruik en nuttige toepassing
+#### § 4. Voorbereiden voor hergebruik, recycling en nuttige toepassing
 
 #### § 5. Aanduiding en demontage-informatie
 
