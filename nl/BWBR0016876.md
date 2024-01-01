@@ -4,7 +4,7 @@ identifier: "BWBR0016876"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2021-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016876"
 soort: "wet"
@@ -59,15 +59,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. beperkingenbesluit:
 
-- 1°. op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016876&paragraaf=1&artikel=2&z=2021-01-01&g=2021-01-01) aangewezen schriftelijke publiekrechtelijke rechtshandeling waaruit een publiekrechtelijke beperking voortvloeit dan wel waarbij deze wordt gewijzigd of komt te vervallen;
+- 1°. op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016876&paragraaf=1&artikel=2&z=2024-01-01&g=2024-01-01) aangewezen schriftelijke publiekrechtelijke rechtshandeling waaruit een publiekrechtelijke beperking voortvloeit dan wel waarbij deze wordt gewijzigd of komt te vervallen;
 
 - 2°. een toezending van een ontwerpbesluit door Onze Minister van Onderwijs, Cultuur en Wetenschap als bedoeld in [artikel 3.2, eerste lid, van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=3.2), in samenhang met [artikel 3:13, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:13);
 
 - 3°. een afschrift van een inschrijving door Onze Minister van Onderwijs, Cultuur en Wetenschap van een als rijksmonument aangewezen monument of archeologisch monument in het rijksmonumentenregister, bedoeld in [artikel 1.1 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=1.1);
-
-- 4°. een schriftelijke handeling, niet zijnde een besluit, van een bestuursorgaan van een provincie of gemeente op grond van een provinciale respectievelijk gemeentelijke verordening, waardoor, voordat op grond van die verordening een besluit tot aanwijzing van een onroerende zaak als beschermd monument is genomen, op die onroerende zaak de in de betreffende verordening opgenomen bepalingen ten aanzien van krachtens die verordening aangewezen beschermde monumenten van overeenkomstige toepassing worden;
-
-- 5°. een afschrift van een inschrijving op dan wel in een provinciale of gemeentelijke monumentenlijst respectievelijk een provinciaal of gemeentelijk monumentenregister door een bestuursorgaan van een provincie of gemeente van een besluit tot aanwijzing van een onroerende zaak als beschermd monument, indien door die inschrijving de in de betreffende provinciale of gemeentelijke verordening opgenomen bepalingen ten aanzien van krachtens die verordening aangewezen beschermde monumenten rechtstreeks van toepassing worden;
 
 - c. openbare registers: openbare registers als bedoeld in [artikel 16 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=16);
 
@@ -77,13 +73,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Bij algemene maatregel van bestuur worden in het belang van een doelmatige kenbaarheid van publiekrechtelijke beperkingen categorieën van beperkingenbesluiten als bedoeld in [artikel 1, onderdeel b, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0016876&paragraaf=1&artikel=1&z=2021-01-01&g=2021-01-01), aangewezen, waarop deze wet van toepassing is.
+1. Bij algemene maatregel van bestuur worden in het belang van een doelmatige kenbaarheid van publiekrechtelijke beperkingen categorieën van beperkingenbesluiten als bedoeld in [artikel 1, onderdeel b, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0016876&paragraaf=1&artikel=1&z=2024-01-01&g=2024-01-01), aangewezen, waarop deze wet van toepassing is.
 
 2. De aanwijzing kan bij ministeriële regeling plaatsvinden indien het betreft beperkingenbesluiten die worden vastgesteld op grond van een verordening van respectievelijk een gemeente, waterschap of provincie als bedoeld in respectievelijk [artikel 149 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=149), [artikel 56, eerste lid, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=56) of [artikel 145 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=145).
 
 3. Tenzij bij de in het eerste of tweede lid bedoelde aanwijzing anders is bepaald, behoren tot de aangewezen categorieën van beperkingenbesluiten mede die beperkingenbesluiten die dezelfde publiekrechtelijke beperkingen hebben doen ontstaan als de tot de aangewezen categorieën behorende beperkingenbesluiten en als wettelijke grondslag hebben een inmiddels gewijzigde of vervallen wet, waarvan de werking ten aanzien van de op die wet gebaseerde beperkingenbesluiten ingevolge een latere wet is geëerbiedigd.
 
-4. Tot de aangewezen categorieën van beperkingenbesluiten behoren verder mede die beperkingenbesluiten waarbij een publiekrechtelijke beperking die is voortgevloeid uit een beperkingenbesluit als vermeld in een aangewezen categorie, wordt gewijzigd of komt te vervallen. De eerste zin is van overeenkomstige toepassing op de beperkingenbesluiten, bedoeld in [artikel 1, onderdeel b, onder 2° tot en met 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0016876&paragraaf=1&artikel=1&z=2021-01-01&g=2021-01-01).
+4. Tot de aangewezen categorieën van beperkingenbesluiten behoren verder mede die beperkingenbesluiten waarbij een publiekrechtelijke beperking die is voortgevloeid uit een beperkingenbesluit als vermeld in een aangewezen categorie, wordt gewijzigd of komt te vervallen. De eerste zin is van overeenkomstige toepassing op de beperkingenbesluiten, bedoeld in [artikel 1, onderdeel b, onder 2° tot en met 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0016876&paragraaf=1&artikel=1&z=2024-01-01&g=2024-01-01).
 
 5. Bij de in het eerste of tweede lid bedoelde aanwijzing kan ten aanzien van een categorie van beperkingenbesluiten onderscheid worden gemaakt naar:
 
@@ -151,23 +147,23 @@ Vervallen
 
 ##### Artikel 14
 
-Op de inschrijving in de openbare registers van een beperkingenbesluit, een daarop betrekking hebbende beslissing in administratief beroep of rechterlijke uitspraak als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016876&paragraaf=1&artikel=3&z=2021-01-01&g=2021-01-01), en een vervallenverklaring als bedoeld in [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016876&paragraaf=2&artikel=15&z=2021-01-01&g=2021-01-01), zijn de [artikelen 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=24), en [26 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=26) niet van toepassing.
+Op de inschrijving in de openbare registers van een beperkingenbesluit, een daarop betrekking hebbende beslissing in administratief beroep of rechterlijke uitspraak als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016876&paragraaf=1&artikel=3&z=2024-01-01&g=2024-01-01), en een vervallenverklaring als bedoeld in [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016876&paragraaf=2&artikel=15&z=2024-01-01&g=2024-01-01), zijn de [artikelen 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=24), en [26 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=26) niet van toepassing.
 
 ##### Artikel 15
 
-1. Het bestuursorgaan dat een beperkingenbesluit als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016876&paragraaf=1&artikel=3&z=2021-01-01&g=2021-01-01), heeft vastgesteld dan wel Onze Minister die het aangaat, indien een beperkingenbesluit een algemeen verbindend voorschrift in een wet of algemene maatregel van bestuur is, draagt er zorg voor dat het beperkingenbesluit dan wel een daarop betrekking hebbende beslissing in administratief beroep of rechterlijke uitspraak wordt voorzien van de actuele kadastrale aanduidingen van het object waarop deze betrekking heeft of de actuele identificatie van dat object uit een basisregistratie dan wel de handmatig ingetekende geometrie en in elektronische vorm ter inschrijving in de openbare registers aan de Dienst wordt aangeboden.
+1. Het bestuursorgaan dat een beperkingenbesluit als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016876&paragraaf=1&artikel=3&z=2024-01-01&g=2024-01-01), heeft vastgesteld dan wel Onze Minister die het aangaat, indien een beperkingenbesluit een algemeen verbindend voorschrift in een wet of algemene maatregel van bestuur is, draagt er zorg voor dat het beperkingenbesluit dan wel een daarop betrekking hebbende beslissing in administratief beroep of rechterlijke uitspraak wordt voorzien van de actuele kadastrale aanduidingen van het object waarop deze betrekking heeft of de actuele identificatie van dat object uit een basisregistratie dan wel de handmatig ingetekende geometrie en in elektronische vorm ter inschrijving in de openbare registers aan de Dienst wordt aangeboden.
 
 2. Het ter inschrijving aanbieden, bedoeld in het eerste lid, geschiedt:
 
-- a. bij een beperkingenbesluit als bedoeld in [artikel 1, onderdeel b, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0016876&paragraaf=1&artikel=1&z=2021-01-01&g=2021-01-01), binnen vier dagen na de dag van bekendmaking van het beperkingenbesluit;
+- a. bij een beperkingenbesluit als bedoeld in [artikel 1, onderdeel b, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0016876&paragraaf=1&artikel=1&z=2024-01-01&g=2024-01-01), binnen vier dagen na de dag van bekendmaking van het beperkingenbesluit;
 
-- b. bij een beperkingenbesluit als bedoeld in [artikel 1, onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0016876&paragraaf=1&artikel=1&z=2021-01-01&g=2021-01-01), binnen vier dagen na de dag waarop het beperkingenbesluit is verzonden;
+- b. bij een beperkingenbesluit als bedoeld in [artikel 1, onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0016876&paragraaf=1&artikel=1&z=2024-01-01&g=2024-01-01), binnen vier dagen na de dag waarop het beperkingenbesluit is verzonden;
 
-- c. bij een beperkingenbesluit als bedoeld in [artikel 1, onderdeel b, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0016876&paragraaf=1&artikel=1&z=2021-01-01&g=2021-01-01), binnen vier dagen na de dag waarop de inschrijving door Onze Minister van Onderwijs, Cultuur en Wetenschap van de aanwijzing van een monument of archeologisch monument als rijksmonument in het rijksmonumentenregister, bedoeld in [artikel 1.1 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=1.1), heeft plaatsgevonden;
+- c. bij een beperkingenbesluit als bedoeld in [artikel 1, onderdeel b, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0016876&paragraaf=1&artikel=1&z=2024-01-01&g=2024-01-01), binnen vier dagen na de dag waarop de inschrijving door Onze Minister van Onderwijs, Cultuur en Wetenschap van de aanwijzing van een monument of archeologisch monument als rijksmonument in het rijksmonumentenregister, bedoeld in [artikel 1.1 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=1.1), heeft plaatsgevonden;
 
-- d. bij een beperkingenbesluit als bedoeld in [artikel 1, onderdeel b, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0016876&paragraaf=1&artikel=1&z=2021-01-01&g=2021-01-01), binnen vier dagen na de dag waarop het beperkingenbesluit is verzonden of van het beperkingenbesluit kennisgeving is gedaan;
+- d. bij een beperkingenbesluit als bedoeld in [artikel 1, onderdeel b, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0016876&paragraaf=1&artikel=1&z=2024-01-01&g=2024-01-01), binnen vier dagen na de dag waarop het beperkingenbesluit is verzonden of van het beperkingenbesluit kennisgeving is gedaan;
 
-- e. bij een beperkingenbesluit als bedoeld in [artikel 1, onderdeel b, onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0016876&paragraaf=1&artikel=1&z=2021-01-01&g=2021-01-01), binnen vier dagen na de dag waarop de inschrijving van het besluit tot aanwijzing van een onroerende zaak als beschermd monument heeft plaatsgevonden;
+- e. bij een beperkingenbesluit als bedoeld in [artikel 1, onderdeel b, onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0016876&paragraaf=1&artikel=1&z=2024-01-01&g=2024-01-01), binnen vier dagen na de dag waarop de inschrijving van het besluit tot aanwijzing van een onroerende zaak als beschermd monument heeft plaatsgevonden;
 
 - f. bij een op een beperkingenbesluit betrekking hebbende beslissing in administratief beroep of rechterlijke uitspraak, binnen vier dagen na de dag waarop het bestuursorgaan een gewaarmerkt afschrift daarvan heeft ontvangen.
 
@@ -193,7 +189,7 @@ Vervallen
 
 ##### Artikel 17
 
-De rechtspersoon waartoe het bestuursorgaan, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016876&paragraaf=2&artikel=15&z=2021-01-01&g=2021-01-01), behoort, is aansprakelijk voor schade die is veroorzaakt door vergissingen, verzuimen, vertragingen of andere onregelmatigheden, door hem of door personen voor wier gedragingen hij aansprakelijk is begaan bij de nakoming van de bij of krachtens artikel 15 aan dat bestuursorgaan opgedragen verplichtingen.
+De rechtspersoon waartoe het bestuursorgaan, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016876&paragraaf=2&artikel=15&z=2024-01-01&g=2024-01-01), behoort, is aansprakelijk voor schade die is veroorzaakt door vergissingen, verzuimen, vertragingen of andere onregelmatigheden, door hem of door personen voor wier gedragingen hij aansprakelijk is begaan bij de nakoming van de bij of krachtens artikel 15 aan dat bestuursorgaan opgedragen verplichtingen.
 
 #### § 4. Overgangsrecht en slotbepalingen
 
