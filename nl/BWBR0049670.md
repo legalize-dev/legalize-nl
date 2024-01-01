@@ -4,7 +4,7 @@ identifier: "BWBR0049670"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2023-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049670"
 soort: "wet"
@@ -112,8 +112,6 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XIV. [Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800)
 
 Wijzigt de Wet op het onderwijstoezicht.
@@ -167,8 +165,6 @@ Wijzigt de Wijzigingswet Wet op het primair onderwijs, enz. (aanpassingen op het
 ##### Artikel XXIII. [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212)
 
 Wijzigt de Wet voortgezet onderwijs 2020.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXIV. Inwerkingtreding
 
