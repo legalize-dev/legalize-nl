@@ -4,7 +4,7 @@ identifier: "BWBR0049048"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2023-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049048"
 soort: "wet"
@@ -41,73 +41,49 @@ entry_into_force: "2024-01-01"
 
 Vervallen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel II. [Algemene ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221)
 
 Wijzigt de Algemene Ouderdomswet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IIa. [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
 
 Wijzigt de Algemene wet bestuursrecht.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel III. [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703)
 
 Wijzigt de Participatiewet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV
 
 Vervallen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel V. [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043)
 
 Wijzigt de Toeslagenwet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VI. [Verzamelwet Brexit](https://wetten.overheid.nl/jci1.3:c:BWBR0042111)
 
 Wijzigt de Verzamelwet Brexit.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VII. [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
 
 Wijzigt de Werkloosheidswet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VIII. [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008)
 
 Wijzigt de Wet arbeid en zorg.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IX. [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656)
 
 Wet arbeidsongeschiktheidsverzekering zelfstandigen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel X. [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657)
 
 Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XI. [Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBR0038054)
 
 Wijzigt de Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XII. [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044)
 
@@ -121,8 +97,6 @@ Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gew
 
 Wijzigt de Wet kinderopvang.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XV. [Wet minimumlonen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028170)
 
 Wijzigt de Wet minimumlonen BES.
@@ -133,39 +107,29 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Wet minimumloon en minimumvakantiebijslag.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVII
 
 Vervallen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVIII. Wet toezicht gelijke kansen bij werving en selectie
 
 Wijzigt de Wet toezicht gelijke kansen bij werving en selectie.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XIX. [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057)
 
 Wijzigt de Wet werk en inkomen naar arbeidsvermogen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XX
 
 Vervallen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXI. Inwerkingtreding
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, en werkt ten aanzien van de [artikelen XII, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0049048&artikel=XII&z=2024-01-01&g=2024-01-01), en [XIII, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0049048&artikel=XIII&z=2024-01-01&g=2024-01-01), terug tot en met 1 januari 2023.
 
 ##### Artikel XXII. Citeertitel
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Verzamelwet SZW 2024.
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
