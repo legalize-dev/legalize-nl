@@ -4,7 +4,7 @@ identifier: "BWBR0019048"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2019-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019048"
 soort: "ministeriele-regeling"
@@ -56,17 +56,17 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-Als plantenresten als bedoeld in [artikel 2, eerste lid, onderdeel d, van het Besluit vrijstellingen stortverbod buiten inrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0009093&artikel=2) worden aangewezen:
+Als plantenresten als bedoeld in [artikel 3, tweede lid, onder d, van het Besluit stortplaatsen en stortverboden afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&artikel=3) worden aangewezen:
 
-- a. bermmaaisel dat op of in de bodem wordt gebracht op de plaats of in de directe nabijheid daarvan waar dit is vrijgekomen, onder de voorwaarden die zijn gesteld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019048&artikel=3&z=2019-01-01&g=2019-01-01),
+- a. bermmaaisel dat op of in de bodem wordt gebracht op de plaats of in de directe nabijheid daarvan waar dit is vrijgekomen, onder de voorwaarden die zijn gesteld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019048&artikel=3&z=2024-01-01&g=2024-01-01),
 
-- b. landbouw- en bosbouwmateriaal dat op of in de bodem wordt gebracht op de plaats of in de directe nabijheid waarvan dit is vrijgekomen, onder de voorwaarden die zijn gesteld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019048&artikel=4&z=2019-01-01&g=2019-01-01) in samenhang met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019048&artikel=3&z=2019-01-01&g=2019-01-01),
+- b. landbouw- en bosbouwmateriaal dat op of in de bodem wordt gebracht op de plaats of in de directe nabijheid waarvan dit is vrijgekomen, onder de voorwaarden die zijn gesteld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019048&artikel=4&z=2024-01-01&g=2024-01-01) in samenhang met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019048&artikel=3&z=2024-01-01&g=2024-01-01),
 
-- c. heideplagsel en maaisel dat vrijkomt binnen een natuurgebied en dat op of in de bodem wordt gebracht op de plaats of in de directe nabijheid daarvan waar dit is vrijgekomen, onder de voorwaarden die zijn gesteld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019048&artikel=5&z=2019-01-01&g=2019-01-01).
+- c. heideplagsel en maaisel dat vrijkomt binnen een natuurgebied en dat op of in de bodem wordt gebracht op de plaats of in de directe nabijheid daarvan waar dit is vrijgekomen, onder de voorwaarden die zijn gesteld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019048&artikel=5&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 3
 
-Bermmaaisel als bedoeld in [artikel 2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0019048&artikel=2&z=2019-01-01&g=2019-01-01), wordt uitsluitend op of in de bodem gebracht indien:
+Bermmaaisel als bedoeld in [artikel 2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0019048&artikel=2&z=2024-01-01&g=2024-01-01), wordt uitsluitend op of in de bodem gebracht indien:
 
 - a. dit geschiedt:
 
@@ -84,11 +84,11 @@ Bermmaaisel als bedoeld in [artikel 2, onder a](https://wetten.overheid.nl/jci1.
 
 ##### Artikel 4
 
-[Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019048&artikel=3&z=2019-01-01&g=2019-01-01) is van overeenkomstige toepassing op het op of in de bodem brengen van landbouw- en bosbouwmateriaal, als bedoeld in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019048&artikel=2&z=2019-01-01&g=2019-01-01).
+[Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019048&artikel=3&z=2024-01-01&g=2024-01-01) is van overeenkomstige toepassing op het op of in de bodem brengen van landbouw- en bosbouwmateriaal, als bedoeld in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019048&artikel=2&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 5
 
-Heideplagsel en maaisel als bedoeld in [artikel 2, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0019048&artikel=2&z=2019-01-01&g=2019-01-01), wordt uitsluitend op of in de bodem gebracht indien:
+Heideplagsel en maaisel als bedoeld in [artikel 2, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0019048&artikel=2&z=2024-01-01&g=2024-01-01), wordt uitsluitend op of in de bodem gebracht indien:
 
 - a. dit geschiedt:
 
@@ -118,6 +118,6 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1a
 
-Deze regeling berust op [artikel 2, eerste lid, onderdeel d, van het Besluit vrijstellingen stortverbod buiten inrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0009093&artikel=2).
+Deze regeling berust op [artikel 3, tweede lid, onder d, van het Besluit stortplaatsen en stortverboden afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&artikel=3).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
