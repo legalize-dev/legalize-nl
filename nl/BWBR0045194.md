@@ -4,7 +4,7 @@ identifier: "BWBR0045194"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2021-07-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045194"
 soort: "AMvB"
@@ -88,19 +88,19 @@ Het verslag van een energie-audit bevat de volgende gegevens:
 
 4. In afwijking van het tweede lid wordt de kosteneffectiviteit van maatregelen niet omschreven wanneer:
 
-- a. de maatregelen voorkomen in [bijlage 10 van de Activiteitenregeling milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0022830&bijlage=10); of
+- a. de maatregelen zijn vastgesteld bij ministeriële regeling, bedoeld in [artikel 5.15, vierde lid, van het Besluit activiteiten leefomgeving;](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=5.15)
 
-- b. over de maatregelen reeds gerapporteerd is in het kader van [artikel 2.15, tweede lid, van het Activiteitenbesluit milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0022762&artikel=2.15).
+- b. over de maatregelen reeds gerapporteerd is in het kader van [artikel 5.15a](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=5.15a) of [5.15b van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=5.15b).
 
 ##### Artikel 4
 
 1. Het verslag van de energie-audit wordt binnen vier weken na de totstandkoming ervan verstuurd aan Onze Minister.
 
-2. Het verslag van de energie-audit wordt ter beschikking gesteld aan het bevoegd gezag, bedoeld in [artikel 1.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=1.1).
+2. Het verslag van de energie-audit wordt ter beschikking gesteld aan het bevoegd gezag, bedoeld in [paragraaf 5.1.2 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&paragraaf=5.1.2).
 
 ##### Artikel 5
 
-1. Aan de verplichting, bedoeld in [artikel 18, eerste lid, van de Wet implementatie EU-richtlijnen energie-efficiëntie](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&artikel=18), kan door een grote onderneming geheel of gedeeltelijk invulling worden gegeven door het toepassen van:
+1. Aan de verplichting, bedoeld in [artikel 18, eerste lid, van de Wet uitvoering EU-handelingen energie-efficiëntie](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&artikel=18), kan door een grote onderneming geheel of gedeeltelijk invulling worden gegeven door het toepassen van:
 
 - a. een bij ministeriële regeling aangewezen energiebeheerssysteem als bedoeld in artikel 2, onder 11, van [richtlijn 2012/27](32012L0027)/EU of een milieubeheersysteem;
 
