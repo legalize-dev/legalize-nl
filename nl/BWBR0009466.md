@@ -4,7 +4,7 @@ identifier: "BWBR0009466"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2019-04-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009466"
 soort: "AMvB"
@@ -64,11 +64,13 @@ In dit besluit wordt verstaan onder:
 
 - e. supervisiesessie: contact tussen een aspirant-psychotherapeut en een door de opleidingsinstelling aangewezen psychotherapeut, strekkende tot het volgens een didactische methode analyseren en evalueren van de door de aspirant-psychotherapeut verrichte onderzoeken en behandelingen;
 
-- f. leertherapiesessie: contact tussen een aspirant-psychotherapeut en een door de opleidingsinstelling aangewezen psychotherapeut die niet is betrokken bij een ander deel van de opleiding van de aspirant-psychotherapeut, ertoe strekkende bij de aspirant-psychotherapeut de ontwikkeling van en het inzicht in het eigen functioneren als psychotherapeut te bevorderen.
+- f. leertherapiesessie: contact tussen een aspirant-psychotherapeut en een door de opleidingsinstelling aangewezen psychotherapeut die niet is betrokken bij een ander deel van de opleiding van de aspirant-psychotherapeut, ertoe strekkende bij de aspirant-psychotherapeut de ontwikkeling van en het inzicht in het eigen functioneren als psychotherapeut te bevorderen;
+
+- g. CRT: de Commissie Registratie en Toezicht van de Federatie van Gezondheidszorgpsychologen en Psychotherapeuten.
 
 ##### Artikel 2
 
-Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) ingestelde register van psychotherapeuten te kunnen worden ingeschreven, is vereist het bezit van een getuigschrift waaruit blijkt dat de betrokkene met goed gevolg het examen ter afsluiting van een opleiding tot psychotherapeut heeft afgelegd, uitgereikt door een krachtens [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=3&artikel=6&z=2019-04-01&g=2019-04-01), aangewezen opleidingsinstelling.
+Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) ingestelde register van psychotherapeuten te kunnen worden ingeschreven, is vereist het bezit van een getuigschrift waaruit blijkt dat de betrokkene met goed gevolg het examen ter afsluiting van een opleiding tot psychotherapeut heeft afgelegd, uitgereikt door een krachtens [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=3&artikel=6&z=2024-01-01&g=2024-01-01), aangewezen opleidingsinstelling.
 
 #### § 2. Opleidingseisen
 
@@ -94,7 +96,7 @@ Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:B
 
 ##### Artikel 4
 
-1. Het onderwijs, bedoeld in [artikel 3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=2&artikel=3&z=2019-04-01&g=2019-04-01), omvat ten minste:
+1. Het onderwijs, bedoeld in [artikel 3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01), omvat ten minste:
 
 - a. 400 uren cursorisch onderwijs;
 
@@ -128,15 +130,17 @@ Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:B
 
 - k. recente ontwikkelingen van wetenschappelijk onderzoek op het gebied van de psychotherapie;
 
-- l. kwaliteit van de praktijkvoering en de beroepsuitoefening.
+- l. kwaliteit van de praktijkvoering en de beroepsuitoefening;
 
-3. De opleiding, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=2&artikel=3&z=2019-04-01&g=2019-04-01), bestaat voorts uit ten minste twee vervolgcursussen over de toepassing van behandelingsmethoden in twee verschillende door de aspirant-psychotherapeut te kiezen psychotherapeutische referentiekaders.
+- m. betrekken van beschikbaar wetenschappelijk bewijs bij beslissingen en handelingen in de praktijk.
+
+3. De opleiding, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01), bestaat voorts uit ten minste twee vervolgcursussen over de toepassing van behandelingsmethoden in twee verschillende door de aspirant-psychotherapeut te kiezen psychotherapeutische referentiekaders.
 
 ##### Artikel 5
 
-1. Tot de opleiding tot psychotherapeut worden slechts toegelaten degenen die in het bezit zijn van een getuigschrift waaruit blijkt dat zij het artsexamen dan wel het doctoraalexamen psychologie, pedagogische wetenschappen of gezondheidswetenschappen met als afstudeerrichting geestelijke gezondheidskunde met goed gevolg hebben afgelegd.
+1. Tot de opleiding tot psychotherapeut worden slechts toegelaten degenen die in het bezit zijn van een getuigschrift waaruit blijkt dat zij het artsexamen dan wel het doctoraalexamen of een masteropleiding psychologie, pedagogische wetenschappen of gezondheidswetenschappen met als afstudeerrichting geestelijke gezondheidskunde aan een instelling voor wetenschappelijk onderwijs met goed gevolg hebben afgerond.
 
-2. Voor zover opleidingsonderdelen als bedoeld in het derde lid geen deel uitmaakten van de opleiding die recht geeft op een getuigschrift als bedoeld in het eerste lid, is voor de toelating tot de opleiding tot psychotherapeut vereist het bezit van een ander bewijsstuk waaruit blijkt dat de betrokkenen voor die onderdelen met goed gevolg een proeve van bekwaamheid op doctoraal niveau hebben afgelegd.
+2. Voor zover opleidingsonderdelen als bedoeld in het derde lid geen deel uitmaakten van de opleiding die recht geeft op een getuigschrift als bedoeld in het eerste lid, is voor de toelating tot de opleiding tot psychotherapeut vereist het bezit van een ander bewijsstuk waaruit blijkt dat de betrokkenen voor die onderdelen met goed gevolg een proeve van bekwaamheid op het niveau van een masteropleiding van een instelling voor wetenschappelijk onderwijs hebben afgelegd.
 
 3. De opleidingsonderdelen, bedoeld in het tweede lid, zijn:
 
@@ -164,53 +168,53 @@ Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:B
 
 ##### Artikel 6
 
-1. Onze Minister kan, op hun daartoe strekkende verzoek, opleidingsinstellingen aanwijzen die een opleiding tot psychotherapeut verzorgen die naar zijn oordeel voldoet aan de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=2&artikel=3&z=2019-04-01&g=2019-04-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=2&artikel=4&z=2019-04-01&g=2019-04-01).
+1. Onze Minister kan, op hun daartoe strekkende verzoek, opleidingsinstellingen aanwijzen die een opleiding tot psychotherapeut verzorgen die naar zijn oordeel voldoet aan de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=2&artikel=4&z=2024-01-01&g=2024-01-01).
 
-2. Onze Minister kan een aanwijzing intrekken indien de opleidingsinstelling naar zijn oordeel niet meer voldoet aan [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=3&artikel=7&z=2019-04-01&g=2019-04-01).
+2. De aanwijzing vindt niet plaats voordat Onze Minister de CRT heeft uitgenodigd om, met inachtneming van de vereiste onafhankelijkheid ten opzichte van de opleidingsinstelling, binnen een door Onze Minister aan te geven termijn advies uit te brengen over de vraag of de opleidingsinstelling voldoet aan [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=3&artikel=7&z=2024-01-01&g=2024-01-01) en deze termijn is verstreken.
 
-3. Van een aanwijzing of een intrekking van een aanwijzing wordt kennis gegeven in de Staatscourant.
+3. De aangewezen opleidingsinstelling verstrekt Onze Minister ten behoeve van de beoordeling of de opleidingsinstelling op enig moment voldoet aan [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=3&artikel=7&z=2024-01-01&g=2024-01-01) van dit besluit de daarvoor noodzakelijke informatie en verleent medewerking aan een in dit kader in opdracht van Onze Minister door of namens de CRT uit te voeren visitatie.
+
+4. Onze Minister kan een aanwijzing intrekken indien de opleidingsinstelling naar zijn oordeel niet meer voldoet aan [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=3&artikel=7&z=2024-01-01&g=2024-01-01).
+
+5. Van een aanwijzing of een intrekking van een aanwijzing wordt kennis gegeven in de Staatscourant.
 
 ##### Artikel 7
 
 Voor aanwijzing komen in aanmerking opleidingsinstellingen waarvan in redelijkheid mag worden verwacht dat zij:
 
-- a. de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=2&artikel=3&z=2019-04-01&g=2019-04-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=2&artikel=4&z=2019-04-01&g=2019-04-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=2&artikel=5&z=2019-04-01&g=2019-04-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=3&artikel=8&z=2019-04-01&g=2019-04-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=3&artikel=9&z=2019-04-01&g=2019-04-01) en 10 zullen naleven;
+- a. de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=2&artikel=4&z=2024-01-01&g=2024-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=2&artikel=5&z=2024-01-01&g=2024-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=3&artikel=8&z=2024-01-01&g=2024-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=3&artikel=9&z=2024-01-01&g=2024-01-01) en 10 zullen naleven;
 
 - b. zorg dragen voor een evenwichtige verhouding tussen het theoretische en praktische gedeelte van de opleiding enerzijds en de psychotherapeutische werkervaring anderzijds;
 
-- c. zorg dragen voor het op systematische wijze bewaken en in stand houden van de kwaliteit van de opleiding.
+- c. zorg dragen voor het op systematische wijze bewaken en in stand houden van de kwaliteit van de opleiding, onder meer door te voorzien in een regelmatige beoordeling, mede door onafhankelijke deskundigen, van de kwaliteit van de opleiding;
+
+- d. zorg dragen voor het op zodanige wijze inrichten van de opleiding dat degene die tot de opleiding is toegelaten in de gelegenheid wordt gesteld om aan de opleidingseisen te voldoen door:
+
+- 1°. het bewaken en bevorderen van de inhoudelijke en didactische deskundigheid van het docententeam;
+
+- 2°. zorg te dragen voor voldoende en deskundige begeleiding bij het praktisch onderwijs en het opdoen van de vereiste werkervaring;
+
+- 3°. zorg te dragen voor een deugdelijke wijze van beoordeling, toetsing en examinering; en
+
+- 4°. zorg te dragen voor een veilig leer- en werkklimaat.
 
 ##### Artikel 8
 
-1. De opleidingsinstelling stelt jaarlijks een plan vast waarin de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=2&artikel=3&z=2019-04-01&g=2019-04-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=2&artikel=4&z=2019-04-01&g=2019-04-01) omschreven opleidingsonderdelen nader zijn uitgewerkt.
+1. De opleidingsinstelling stelt jaarlijks een plan vast waarin de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&paragraaf=2&artikel=4&z=2024-01-01&g=2024-01-01) omschreven opleidingsonderdelen nader zijn uitgewerkt.
 
 2. Belanghebbenden kunnen het opleidingsplan, desgevraagd, inzien en daarvan afschrift verlangen.
 
 ##### Artikel 9
 
-1. Voor het afnemen van het examen stelt de opleidingsinstelling een examencommissie in.
+1. De opleidingsinstelling organiseert het onderwijs overeenkomstig de [artikelen 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.2), [7.3, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3), [7.6, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.6), [7.10, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.10), [7.11, eerste lid, tweede lid, onderdelen a en b, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.11), [7.12](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.12), [7.12a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.12a), [7.12b, eerste lid, onderdelen a, b, d en e, en tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.12b), [7.12c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.12c), [7.13, eerste lid, en tweede lid, onderdelen a tot en met d, j tot en met u en x](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.13), [7.14](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.14), [7.15, eerste lid, onderdelen a tot en met e, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.15), [7.42a, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.42a), [7.57h](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.57h), [7.59 tot en met 7.60](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.59), [7.61, eerste lid, onderdelen c en e, en tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.61), [7.62](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.62) en [7.63 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.63).
 
-2. De opleidingsinstelling stelt een opleidings- en examenreglement vast dat in elk geval bepalingen bevat ter zake van:
-
-- a. de onderdelen van het examen en de wijze waarop deze worden afgenomen en beoordeeld;
-
-- b. een procedure bij verschil van mening in de examencommissie over de toe te kennen beoordeling;
-
-- c. een procedure bij verschil van mening tussen de hoofdopleider en de aspirant-psychotherapeut over de begeleiding tijdens de opleiding;
-
-- d. de behandeling van klachten tegen beslissingen van de examencommissie;
-
-- e. een regeling met betrekking tot het herexamen;
-
-- f. het verlenen van ontheffing van onderdelen van de opleiding.
-
-3. De opleidingsinstelling draagt ervoor zorg dat degenen die tot de opleiding zijn toegelaten tijdig kennis kunnen nemen van het reglement, bedoeld in het tweede lid.
+2. In aanvulling op het eerste lid legt de opleidingsinstelling in het opleidings- en examenreglement een procedure vast in geval van een verschil van mening tussen de hoofdopleider en de aspirant-psychotherapeut over de begeleiding tijdens de opleiding.
 
 ##### Artikel 10
 
 1. De opleidingsinstelling wijst een hoofdopleider aan die verantwoordelijk is voor de opleiding van een persoon die tot de opleiding is toegelaten.
 
-2. De hoofdopleider is psychotherapeut en heeft gedurende ten minste vijf jaren ingeschreven gestaan:
+2. De hoofdopleider is psychotherapeut, beschikt over aantoonbaar relevante wetenschappelijke en didactische expertise en heeft gedurende ten minste vijf jaren ingeschreven gestaan:
 
 - a. in het register, bedoeld in artikel 1 van het Besluit inzake registratie van psychotherapeuten, of
 
