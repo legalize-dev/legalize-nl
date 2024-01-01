@@ -4,7 +4,7 @@ identifier: "BWBR0016038"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2023-07-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016038"
 soort: "AMvB"
@@ -53,9 +53,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. voertuig:
 
-- 1°. een personenauto als bedoeld in [artikel 1.1 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=1.1) of een bedrijfsauto als bedoeld in [artikel 1.1 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=1.1) met een maximum gewicht van ten hoogste 3500 kilogram;
+- 1°. bedrijfsauto als bedoeld in de regeling op grond van [artikel 21, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=21), met een gewicht van niet meer dan 3.500 kg;
 
-- 2°. vervoermiddel dat bestemd is om te worden voortbewogen door een voertuig als bedoeld onder 1°;
+- 2°. personenauto als bedoeld in de regeling op grond van [artikel 21, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=21); of
+
+- 3°. vervoermiddel dat bestemd is om te worden voortbewogen door een voertuig als bedoeld onder 1° of 2°;
 
 - b. autobanden: banden die bestemd zijn voor voertuigen;
 
@@ -65,7 +67,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - e. terugwinning van energie: gebruik van brandbare afvalstoffen om energie op te wekken door directe verbranding met of zonder andere afvalstoffen, en met terugwinning van de als gevolg daarvan opgewekte warmte;
 
-- f. hergebruiken als materiaal: na een be- of verwerking opnieuw gebruiken van materialen van autobanden voor hetzelfde doel als waarvoor ze zijn ontworpen, of voor andere doeleinden, daaronder niet begrepen terugwinning van energie.
+- f. recycling: nuttige toepassing waardoor afvalstoffen opnieuw worden bewerkt tot producten, materialen of stoffen, voor het oorspronkelijke doel of voor een ander doel, met inbegrip van het opnieuw bewerken van organische afvalstoffen, en met uitsluiting van energieterugwinning en het opnieuw bewerken tot materialen die bestemd zijn om te worden gebruikt als brandstof of als opvulmateriaal.
 
 ##### Artikel 2
 
@@ -97,7 +99,7 @@ Vervallen
 
 ##### Artikel 6
 
-De producent of importeur draagt er zorg voor dat de door hem ingenomen autobanden nuttig worden toegepast en van die autobanden vanaf 1 januari 2005 ten minste 20 gewichtsprocent als materiaal wordt hergebruikt.
+De producent of importeur draagt er zorg voor dat de door hem ingenomen autobanden nuttig worden toegepast en van die autobanden vanaf 1 januari 2005 ten minste 20 gewichtsprocent wordt gerecycled.
 
 #### § 3. Verslaglegging
 
