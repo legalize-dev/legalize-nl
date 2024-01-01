@@ -4,7 +4,7 @@ identifier: "BWBR0019262"
 country: "nl"
 rank: "kb"
 publication_date: "2024-01-01"
-last_updated: "2013-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019262"
 soort: "KB"
@@ -48,15 +48,15 @@ Onze Minister van Veiligheid en Justitie is belast met de taken en de uitoefenin
 
 ##### Artikel 2
 
-1. Onze Minister van Veiligheid en Justitie stelt Onze Minister-President en Onze Minister wie het aangaat onverwijld in kennis van zijn voornemen [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019262&artikel=1&z=2013-01-01&g=2013-01-01) toe te passen.
+1. Onze Minister van Veiligheid en Justitie stelt Onze Minister-President en Onze Minister wie het aangaat onverwijld in kennis van zijn voornemen [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019262&artikel=1&z=2024-01-01&g=2024-01-01) toe te passen.
 
 2. Indien de beschikbare tijd waarbinnen de maatregelen genomen moeten worden toepassing van het eerste lid niet toelaat, stelt Onze Minister van Veiligheid en Justitie, onverwijld nadat hij de maatregelen heeft genomen, Onze Minister-President en Onze Minister wie het aangaat daarvan in kennis.
 
-3. Zodra de omstandigheden dit toelaten, beëindigt Onze Minister van Veiligheid en Justitie de toepassing van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019262&artikel=1&z=2013-01-01&g=2013-01-01) en stelt hij Onze Minister-President en Onze Minister wie het aangaat daarvan onverwijld in kennis.
+3. Zodra de omstandigheden dit toelaten, beëindigt Onze Minister van Veiligheid en Justitie de toepassing van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019262&artikel=1&z=2024-01-01&g=2024-01-01) en stelt hij Onze Minister-President en Onze Minister wie het aangaat daarvan onverwijld in kennis.
 
 ##### Artikel 3
 
-In voorkomende gevallen oefent Onze Minister van Veiligheid en Justitie bevoegdheden op grond van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019262&artikel=1&z=2013-01-01&g=2013-01-01) uit in overeenstemming met de beslissingen van de ministerraad of de ministeriële commissie Crisisbeheersing.
+In voorkomende gevallen oefent Onze Minister van Veiligheid en Justitie bevoegdheden op grond van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019262&artikel=1&z=2024-01-01&g=2024-01-01) uit in overeenstemming met de beslissingen van de ministerraad of de ministeriële commissie Crisisbeheersing.
 
 ##### Artikel 4
 
@@ -102,7 +102,7 @@ Onze Minister-President, Minister van Algemene Zaken, Onze Minister van Justitie
 
 Wijzigt dit besluit.
 
-## Bijlage. bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019262&artikel=1&z=2013-01-01&g=2013-01-01) van het Besluit, houdende tijdelijke herindeling van ministeriële taken in geval van een terroristische dreiging met een urgent karakter
+## Bijlage. bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019262&artikel=1&z=2024-01-01&g=2024-01-01) van het Besluit, houdende tijdelijke herindeling van ministeriële taken in geval van een terroristische dreiging met een urgent karakter
 
 - 1. [Artikel 5 van de Havenbeveiligingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0016991&artikel=5).
 
@@ -120,7 +120,7 @@ Wijzigt dit besluit.
 
 - 8. [Artikel 23 van de Drinkwaterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=23).
 
-- 9. [Artikel 5.31, derde lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=5.31).
+- 9. [Artikel 19.16, vierde lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=19.16).
 
 - 10. De [artikelen 5.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.10), en [9.1 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=9.1).
 
