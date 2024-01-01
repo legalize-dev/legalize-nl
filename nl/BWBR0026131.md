@@ -4,7 +4,7 @@ identifier: "BWBR0026131"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2020-06-09"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026131"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ Besluit:
 
 - **blok:** vaste vorm van bepaalde afmetingen die door uitharding van een mengsel van sterk uitloogbare, en toeslagstoffen met een bekende samenstelling als één geheel in een compartiment of op een daarvoor geëigende plaats wordt gevormd;
 
-- **bouwstoffen:** bouwstoffen als bedoeld in het [Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929);
+- **bouwstoffen:** bouwstoffen als bedoeld in [artikel 1 van het Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=1);
 
 - **compartiment:** afzonderlijk deel van een stortplaats dat niet beïnvloed kan worden vanuit andere compartimenten van de stortplaats en voorzien is van een separate afvoer van het percolaat uit het compartiment;
 
@@ -62,7 +62,7 @@ Besluit:
 
 - **opslagvoorziening voor metallisch kwik:** onderdeel van een opslaglocatie voor metallisch kwik waarin één of meerdere vaten metallisch kwik zijn geplaatst;
 
-- **proefstuk:** uit hetzelfde materiaal als een blok gevormd voorwerp bestemd voor de in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=2&artikel=9&z=2020-06-09&g=2020-06-09) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=2&artikel=10&z=2020-06-09&g=2020-06-09) bedoelde proeven;
+- **proefstuk:** uit hetzelfde materiaal als een blok gevormd voorwerp bestemd voor de in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=2&artikel=9&z=2024-01-01&g=2024-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=2&artikel=10&z=2024-01-01&g=2024-01-01) bedoelde proeven;
 
 - **sterk uitloogbare afvalstoffen:** gevaarlijke, anorganische, korrelvormige afvalstoffen die wat betreft de uitloging van zware metalen en zouten niet voldoen aan de waarde, genoemd in voorschrift 3.1 in de [bijlage bij het besluit](onbekend);
 
@@ -94,13 +94,13 @@ Besluit:
 
 ##### Artikel 2
 
-1. [Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=2&z=2020-06-09&g=2020-06-09) is uitsluitend van toepassing op sterk uitloogbare afvalstoffen die worden of zijn omgevormd tot geconditioneerde afvalstoffen.
+1. [Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=2&z=2024-01-01&g=2024-01-01) is uitsluitend van toepassing op sterk uitloogbare afvalstoffen die worden of zijn omgevormd tot geconditioneerde afvalstoffen.
 
-2. [Hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3&z=2020-06-09&g=2020-06-09) is uitsluitend van toepassing op korrelvormige afvalstoffen.
+2. [Hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3&z=2024-01-01&g=2024-01-01) is uitsluitend van toepassing op korrelvormige afvalstoffen.
 
-3. [Hoofdstuk 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3a&z=2020-06-09&g=2020-06-09) is uitsluitend van toepassing op de tijdelijke opslag van metallisch kwik gedurende een periode van meer dan een jaar.
+3. [Hoofdstuk 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3a&z=2024-01-01&g=2024-01-01) is uitsluitend van toepassing op de tijdelijke opslag van metallisch kwik gedurende een periode van meer dan een jaar.
 
-4. Een opslaglocatie voor metallisch kwik en een opslagvoorziening voor metallisch kwik voldoen aan de regels gesteld in [hoofdstuk 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3a&z=2020-06-09&g=2020-06-09).
+4. Een opslaglocatie voor metallisch kwik en een opslagvoorziening voor metallisch kwik voldoen aan de regels gesteld in [hoofdstuk 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3a&z=2024-01-01&g=2024-01-01).
 
 ### Hoofdstuk 2. Sterk uitloogbare afvalstoffen die worden of zijn omgevormd tot geconditioneerde afvalstoffen
 
@@ -110,13 +110,13 @@ Een compartiment voor te conditioneren afvalstoffen wordt uitsluitend gebruikt v
 
 ##### Artikel 4
 
-Een mengsel als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=2&artikel=3&z=2020-06-09&g=2020-06-09) wordt in een compartiment tot een blok gevormd, waarvan het volume na uitharding niet meer bedraagt dan 125% van het volume van de te conditioneren afvalstof.
+Een mengsel als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=2&artikel=3&z=2024-01-01&g=2024-01-01) wordt in een compartiment tot een blok gevormd, waarvan het volume na uitharding niet meer bedraagt dan 125% van het volume van de te conditioneren afvalstof.
 
 ##### Artikel 5
 
 1. Per mengsel met dezelfde samenstelling van sterk uitloogbare afvalstoffen en toeslagstoffen worden voor aanvang van het uithardingsproces ten minste twee representatieve monsters genomen. Deze monsters worden gebruikt voor het vervaardigen van ten minste twee proefstukken die op vergelijkbare wijze als het te conditioneren mengsel worden uitgehard. De beoordeling van de kwaliteit van de geconditioneerde afvalstoffen wordt bepaald aan de hand van deze proefstukken.
 
-2. Indien degene die de stortplaats drijft, ten genoegen van gedeputeerde staten aantoont dat een of meer parameters van een mengsel niet kritisch kunnen zijn, kunnen gedeputeerde staten, in afwijking van het eerste lid, toestaan dat de frequentie van monstername op deze niet-kritische parameters wordt teruggebracht tot een daarbij vast te stellen frequentie.
+2. Indien degene die de stortplaats exploiteert, ten genoegen van gedeputeerde staten aantoont dat een of meer parameters van een mengsel niet kritisch kunnen zijn, kunnen gedeputeerde staten, in afwijking van het eerste lid, toestaan dat de frequentie van monstername op deze niet-kritische parameters wordt teruggebracht tot een daarbij vast te stellen frequentie.
 
 3. Voor een besluit als bedoeld in het tweede lid is in ieder geval vereist:
 
@@ -144,15 +144,15 @@ De druksterkte van een proefstuk bedraagt na 28 dagen uitharden minimaal 1,0 N/m
 
 - b. anorganische korrelvormige afvalstoffen die voldoen aan de voorschriften 3.1 en 3.2 van de bijlage bij het besluit, of
 
-- c. bouwstoffen, die voldoen aan het Besluit bodemkwaliteit.
+- c. bouwstoffen die voldoen aan de daarvoor geldende kwaliteitseisen, bedoeld in [artikel 25d, eerste lid, van het Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=25d).
 
-4. Degene die de stortplaats drijft, toont ten genoegen van het bevoegd gezag aan dat de bouwstoffen of afvalstoffen die overeenkomstig het derde lid worden toegepast, een vloeistofkerende werking hebben.
+4. Degene die de stortplaats exploiteert, toont ten genoegen van het bevoegd gezag aan dat de bouwstoffen of afvalstoffen die overeenkomstig het derde lid worden toegepast, een vloeistofkerende werking hebben.
 
 ##### Artikel 8
 
-1. In afwijking van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=2&artikel=7&z=2020-06-09&g=2020-06-09) mogen de emissiewaarden van de andere dan de in het tweede lid van dat artikel genoemde parameters van een proefstuk in geval van buitengewone omstandigheden waarden van de tabel van de bijlage overschrijden, voor zover het totaal van de afvalstoffen die de waarden van de tabel overschrijden, in een compartiment niet meer dan 10% (gewicht) van de totale vergunde capaciteit van dat compartiment bedraagt en het desbetreffende blok ten minste drie meter van de buitengrens van het compartiment is gesitueerd.
+1. In afwijking van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=2&artikel=7&z=2024-01-01&g=2024-01-01) mogen de emissiewaarden van de andere dan de in het tweede lid van dat artikel genoemde parameters van een proefstuk in geval van buitengewone omstandigheden waarden van de tabel van de bijlage overschrijden, voor zover het totaal van de afvalstoffen die de waarden van de tabel overschrijden, in een compartiment niet meer dan 10% (gewicht) van de totale vergunde capaciteit van dat compartiment bedraagt en het desbetreffende blok ten minste drie meter van de buitengrens van het compartiment is gesitueerd.
 
-2. [Artikel 7, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=2&artikel=7&z=2020-06-09&g=2020-06-09), is van overeenkomstige toepassing.
+2. [Artikel 7, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=2&artikel=7&z=2024-01-01&g=2024-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 9
 
@@ -208,7 +208,7 @@ In geval van desintegratie als gevolg van weersinvloeden worden zo spoedig mogel
 
 ##### Artikel 16
 
-Degene die de stortplaats drijft, draagt er zorg voor dat ter uitvoering van [artikel 11h, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&artikel=11h) overeenkomstig het bepaalde in de [artikelen 17 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3&paragraaf=3.1&artikel=17&z=2020-06-09&g=2020-06-09) wordt gehandeld.
+Degene die de stortplaats exploiteert, draagt er zorg voor dat ter uitvoering van [artikel 11h, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&artikel=11h) overeenkomstig het bepaalde in de [artikelen 17 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3&paragraaf=3.1&artikel=17&z=2024-01-01&g=2024-01-01) wordt gehandeld.
 
 ##### Artikel 17
 
@@ -308,13 +308,13 @@ De monsternemingsfrequentie van de afvalstroom wordt bepaald door de parameter d
 
 - c. voor de afzonderlijke afvalstromen elk van de parameters met eenzelfde frequentie of met één categorie hogere of lagere frequentie moeten worden bemonsterd.
 
-2. In een geval als bedoeld in het eerste lid wordt de k-waarde bepaald overeenkomstig [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3&paragraaf=3.1&artikel=18&z=2020-06-09&g=2020-06-09), waarbij gebruik wordt gemaakt van alle beschikbare analyseresultaten.
+2. In een geval als bedoeld in het eerste lid wordt de k-waarde bepaald overeenkomstig [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3&paragraaf=3.1&artikel=18&z=2024-01-01&g=2024-01-01), waarbij gebruik wordt gemaakt van alle beschikbare analyseresultaten.
 
 #### § 3.2. Monsterneming
 
 ##### Artikel 22
 
-Degene die de monsterneming, bedoeld in [artikel 11h, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&artikel=11h), uitvoert, handelt overeenkomstig de [artikelen 23 tot en met 29](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3&paragraaf=3.2&artikel=23&z=2020-06-09&g=2020-06-09).
+Degene die de monsterneming, bedoeld in [artikel 11h, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&artikel=11h), uitvoert, handelt overeenkomstig de [artikelen 23 tot en met 29](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3&paragraaf=3.2&artikel=23&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 23
 
@@ -324,7 +324,7 @@ Degene die de monsterneming, bedoeld in [artikel 11h, eerste lid, van het beslui
 
 - b. de voorgaande vracht de laatste vracht is van de partijen waarvoor door de ontdoener analyseresultaten bijgevoegd moeten zijn.
 
-2. De daarop volgende vrachten worden bemonsterd met een overeenkomstig [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3&paragraaf=3.1&artikel=20&z=2020-06-09&g=2020-06-09) bepaalde frequentie.
+2. De daarop volgende vrachten worden bemonsterd met een overeenkomstig [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3&paragraaf=3.1&artikel=20&z=2024-01-01&g=2024-01-01) bepaalde frequentie.
 
 ##### Artikel 24
 
@@ -338,7 +338,7 @@ De deeltjesgrootte van de te bemonsteren vracht wordt geschat, waarbij ondersche
 
 ##### Artikel 25
 
-1. De monsterneming wordt uitgevoerd overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=2&artikel=5&z=2020-06-09&g=2020-06-09), met uitzondering van de daarin opgenomen verplichting met betrekking tot het gebruik van meetlint, piketten en machinale boor, de artikelen 6.1.1, 6.1.2, 6.1.3, 6.1.4, 6.2.3, 6.2.4, 6.2.6, met uitzondering van het daarin bepaalde met betrekking tot de wijze van controleren van het aantal grepen, 6.2.8, 6.2.9 en 6.2.10, met uitzondering van de daarin vermelde termijn voor monsteroverdracht, van het VKB-protocol 1004, met dien verstande dat van de te bemonsteren vracht vijf grepen worden genomen, waarbij de greepgrootte:
+1. De monsterneming wordt uitgevoerd overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=2&artikel=5&z=2024-01-01&g=2024-01-01), met uitzondering van de daarin opgenomen verplichting met betrekking tot het gebruik van meetlint, piketten en machinale boor, de artikelen 6.1.1, 6.1.2, 6.1.3, 6.1.4, 6.2.3, 6.2.4, 6.2.6, met uitzondering van het daarin bepaalde met betrekking tot de wijze van controleren van het aantal grepen, 6.2.8, 6.2.9 en 6.2.10, met uitzondering van de daarin vermelde termijn voor monsteroverdracht, van het VKB-protocol 1004, met dien verstande dat van de te bemonsteren vracht vijf grepen worden genomen, waarbij de greepgrootte:
 
 - a. circa 220 cm3 bedraagt voor afvalstoffen waarvan 95 procent (v/v) of meer van de deeltjes kleiner zijn dan of gelijk zijn aan 20 mm;
 
@@ -362,7 +362,7 @@ De monsters worden bewaard gedurende ten hoogste één jaar.
 
 ##### Artikel 28
 
-1. Indien de monsterneming in eigen beheer wordt uitgevoerd, zorgt degene die de stortplaats drijft er door middel van organisatorische maatregelen op aantoonbare, transparante en controleerbare wijze voor dat de monsterneming uitsluitend wordt verricht door een onderdeel van de organisatie dat, of een persoon die:
+1. Indien de monsterneming in eigen beheer wordt uitgevoerd, zorgt degene die de stortplaats exploiteert er door middel van organisatorische maatregelen op aantoonbare, transparante en controleerbare wijze voor dat de monsterneming uitsluitend wordt verricht door een onderdeel van de organisatie dat, of een persoon die:
 
 - a. geen financieel belang heeft bij de uitkomst van de monsterneming,
 
@@ -392,13 +392,13 @@ een jaar is verstreken sinds:
 
 3. Bij de overdracht wordt aangegeven dat in het eluaat de volgende parameters worden bepaald:
 
-- a. in geval van een verzamelmonster dat nog niet het tiende opeenvolgende verzamelmonster is: de overeenkomstig [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3&paragraaf=3.1&artikel=18&z=2020-06-09&g=2020-06-09), bepaalde kritische parameters;
+- a. in geval van een verzamelmonster dat nog niet het tiende opeenvolgende verzamelmonster is: de overeenkomstig [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3&paragraaf=3.1&artikel=18&z=2024-01-01&g=2024-01-01), bepaalde kritische parameters;
 
 - b. bij elk tiende verzamelmonster: alle parameters waarvoor in de [bijlage bij het besluit](onbekend) grenswaarden zijn opgenomen;
 
-- c. voor elke afvalstroom, of indien toepassing is gegeven aan [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3&paragraaf=3.1&artikel=21&z=2020-06-09&g=2020-06-09), voor de desbetreffende afvalstromen: het zuurbindend vermogen (ZBV) tot een neutrale pH van een vracht, waarbij tevens wordt aangegeven dat die parameter één keer per jaar moet worden bepaald.
+- c. voor elke afvalstroom, of indien toepassing is gegeven aan [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3&paragraaf=3.1&artikel=21&z=2024-01-01&g=2024-01-01), voor de desbetreffende afvalstromen: het zuurbindend vermogen (ZBV) tot een neutrale pH van een vracht, waarbij tevens wordt aangegeven dat die parameter één keer per jaar moet worden bepaald.
 
-4. Een parameter wordt ook geanalyseerd indien deze parameter niet meer kritisch is. Analyse van deze parameter vindt niet meer plaats als vijf keer achtereenvolgens wordt vastgesteld dat de k-waarde voor de parameter hoger is dan 3,40 of, indien toepassing is gegeven aan [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3&paragraaf=3.1&artikel=21&z=2020-06-09&g=2020-06-09), de k-waarde voor de parameter zo hoog is dat deze niet meer kritisch is ingevolge de tabel behorende bij [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3&paragraaf=3.1&artikel=20&z=2020-06-09&g=2020-06-09).
+4. Een parameter wordt ook geanalyseerd indien deze parameter niet meer kritisch is. Analyse van deze parameter vindt niet meer plaats als vijf keer achtereenvolgens wordt vastgesteld dat de k-waarde voor de parameter hoger is dan 3,40 of, indien toepassing is gegeven aan [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3&paragraaf=3.1&artikel=21&z=2024-01-01&g=2024-01-01), de k-waarde voor de parameter zo hoog is dat deze niet meer kritisch is ingevolge de tabel behorende bij [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3&paragraaf=3.1&artikel=20&z=2024-01-01&g=2024-01-01).
 
 #### § 3.3. Analyse van monsters
 
@@ -408,7 +408,7 @@ De analyse van monsters, bedoeld in [artikel 11h, eerste lid, van het besluit](h
 
 ##### Artikel 31
 
-1. Degene die de stortplaats drijft, draagt er zorg voor dat een heranalyse van monsters wordt uitgevoerd indien het laatste analyseresultaat lager is dan het gemiddelde over de daaraan voorafgaande vijf analyseresultaten verminderd met vijf keer de standaarddeviatie.
+1. Degene die de stortplaats exploiteert, draagt er zorg voor dat een heranalyse van monsters wordt uitgevoerd indien het laatste analyseresultaat lager is dan het gemiddelde over de daaraan voorafgaande vijf analyseresultaten verminderd met vijf keer de standaarddeviatie.
 
 2. De noodzaak tot heranalyse wordt vastgesteld op basis van een vergelijking van het laatst verkregen analyseresultaat met het gemiddelde van de vijf voorafgaande analyseresultaten.
 
@@ -416,25 +416,25 @@ De analyse van monsters, bedoeld in [artikel 11h, eerste lid, van het besluit](h
 
 ##### Artikel 32
 
-Degene die de stortplaats drijft, registreert voor zover van toepassing:
+Degene die de stortplaats exploiteert, registreert voor zover van toepassing:
 
-- a. de bemonsterde vrachten, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3&paragraaf=3.2&artikel=23&z=2020-06-09&g=2020-06-09);
+- a. de bemonsterde vrachten, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3&paragraaf=3.2&artikel=23&z=2024-01-01&g=2024-01-01);
 
-- b. de geschatte deeltjesgrootte, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3&paragraaf=3.2&artikel=24&z=2020-06-09&g=2020-06-09), van de bemonsterde vrachten;
+- b. de geschatte deeltjesgrootte, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3&paragraaf=3.2&artikel=24&z=2024-01-01&g=2024-01-01), van de bemonsterde vrachten;
 
-- c. de laatste vijf analyseresultaten per geanalyseerde parameter en het gemiddelde daarvan, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3&paragraaf=3.1&artikel=17&z=2020-06-09&g=2020-06-09);
+- c. de laatste vijf analyseresultaten per geanalyseerde parameter en het gemiddelde daarvan, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3&paragraaf=3.1&artikel=17&z=2024-01-01&g=2024-01-01);
 
-- d. de k-waarde van de geanalyseerde parameters, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3&paragraaf=3.1&artikel=18&z=2020-06-09&g=2020-06-09), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3&paragraaf=3.1&artikel=19&z=2020-06-09&g=2020-06-09) of [21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3&paragraaf=3.1&artikel=21&z=2020-06-09&g=2020-06-09);
+- d. de k-waarde van de geanalyseerde parameters, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3&paragraaf=3.1&artikel=18&z=2024-01-01&g=2024-01-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3&paragraaf=3.1&artikel=19&z=2024-01-01&g=2024-01-01) of [21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3&paragraaf=3.1&artikel=21&z=2024-01-01&g=2024-01-01);
 
-- e. de kritische parameters, bedoeld in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3&paragraaf=3.1&artikel=18&z=2020-06-09&g=2020-06-09);
+- e. de kritische parameters, bedoeld in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3&paragraaf=3.1&artikel=18&z=2024-01-01&g=2024-01-01);
 
-- f. de monsternemingsfrequentie, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3&paragraaf=3.1&artikel=20&z=2020-06-09&g=2020-06-09);
+- f. de monsternemingsfrequentie, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3&paragraaf=3.1&artikel=20&z=2024-01-01&g=2024-01-01);
 
 - g. de reden van overdracht van het verzamelmonster;
 
-- h. de te analyseren parameters, bedoeld in [artikel 29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3&paragraaf=3.2&artikel=29&z=2020-06-09&g=2020-06-09);
+- h. de te analyseren parameters, bedoeld in [artikel 29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3&paragraaf=3.2&artikel=29&z=2024-01-01&g=2024-01-01);
 
-- i. de reden van een heranalyse als bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3&paragraaf=3.3&artikel=31&z=2020-06-09&g=2020-06-09);
+- i. de reden van een heranalyse als bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3&paragraaf=3.3&artikel=31&z=2024-01-01&g=2024-01-01);
 
 - j. de verschillende afvalstromen waaruit het verzamelmonster is samengesteld.
 
@@ -489,11 +489,11 @@ Deze regeling zal met de bijbehorende toelichting in de Staatscourant worden gep
 
 ##### Artikel 32a
 
-1. Alleen metallisch kwik dat voldoet aan de eisen, genoemd in [artikel 32b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3a&artikel=32b&z=2020-06-09&g=2020-06-09), wordt geaccepteerd op stortplaatsen.
+1. Alleen metallisch kwik dat voldoet aan de eisen, genoemd in [artikel 32b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3a&artikel=32b&z=2024-01-01&g=2024-01-01), wordt geaccepteerd op stortplaatsen.
 
-2. Alleen vaten die voldoen aan de eisen, genoemd in [artikel 32c](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3a&artikel=32c&z=2020-06-09&g=2020-06-09), worden geaccepteerd.
+2. Alleen vaten die voldoen aan de eisen, genoemd in [artikel 32c](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3a&artikel=32c&z=2024-01-01&g=2024-01-01), worden geaccepteerd.
 
-3. De vaten worden vóór de opslag visueel onderzocht door of namens degene die de stortplaats drijft.
+3. De vaten worden vóór de opslag visueel onderzocht door of namens degene die de stortplaats exploiteert.
 
 4. Beschadigde, lekkende of gecorrodeerde vaten worden niet geaccepteerd.
 
@@ -525,11 +525,11 @@ Deze regeling zal met de bijbehorende toelichting in de Staatscourant worden gep
 
 5. De vaten, bedoeld in het eerste lid, dragen een duurzaam merkteken, aangebracht door ponsing, waarop het identificatienummer van het vat, het constructiemateriaal, het leeggewicht, de referentie van de fabrikant en de datum van fabricage vermeld staan.
 
-6. Ieder vat dat voor de tijdelijke opslag van metallisch kwik wordt gebruikt is voorzien van een certificaat als bedoeld in [artikel 32d](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3a&artikel=32d&z=2020-06-09&g=2020-06-09), en draagt een permanent op het vat bevestigd plaatje waarop het identificatienummer van het certificaat vermeld staat.
+6. Ieder vat dat voor de tijdelijke opslag van metallisch kwik wordt gebruikt is voorzien van een certificaat als bedoeld in [artikel 32d](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3a&artikel=32d&z=2024-01-01&g=2024-01-01), en draagt een permanent op het vat bevestigd plaatje waarop het identificatienummer van het certificaat vermeld staat.
 
 ##### Artikel 32d
 
-1. Het certificaat, bedoeld in [artikel 32c, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3a&artikel=32c&z=2020-06-09&g=2020-06-09), bevat de volgende gegevens:
+1. Het certificaat, bedoeld in [artikel 32c, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3a&artikel=32c&z=2024-01-01&g=2024-01-01), bevat de volgende gegevens:
 
 - a. naam en adres van de afvalproducent;
 
@@ -581,9 +581,9 @@ Op de opslaglocatie voor metallisch kwik is een permanent meetsysteem voor kwikd
 
 ##### Artikel 32h
 
-1. De opslaglocatie voor metallisch kwik en de vaten worden ten minste eenmaal per maand visueel onderzocht door of namens degene die de stortplaats drijft.
+1. De opslaglocatie voor metallisch kwik en de vaten worden ten minste eenmaal per maand visueel onderzocht door of namens degene die de stortplaats exploiteert.
 
-2. Wanneer lekkage van kwik wordt vastgesteld, onderneemt degene die de stortplaats drijft onmiddellijk de nodige maatregelen om elke kwikemissie in het milieu te voorkomen en de veiligheid van de opslag van het kwik te herstellen en stelt deze het bevoegd gezag onmiddellijk van de lekkage in kennis.
+2. Wanneer lekkage van kwik wordt vastgesteld, onderneemt degene die de stortplaats exploiteert onmiddellijk de nodige maatregelen om elke kwikemissie in het milieu te voorkomen en de veiligheid van de opslag van het kwik te herstellen en stelt deze het bevoegd gezag onmiddellijk van de lekkage in kennis.
 
 ##### Artikel 32i
 
@@ -591,9 +591,9 @@ Op de opslaglocatie voor metallisch kwik staan noodplannen met het oog op mogeli
 
 ##### Artikel 32j
 
-1. De gegevens betreffende het bepaalde in de [artikelen 32a](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3a&artikel=32a&z=2020-06-09&g=2020-06-09), [32b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3a&artikel=32b&z=2020-06-09&g=2020-06-09), [32c](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3a&artikel=32c&z=2020-06-09&g=2020-06-09), [32d](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3a&artikel=32d&z=2020-06-09&g=2020-06-09), [32g](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3a&artikel=32g&z=2020-06-09&g=2020-06-09), [32h](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3a&artikel=32h&z=2020-06-09&g=2020-06-09) en [32i](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3a&artikel=32i&z=2020-06-09&g=2020-06-09) worden door middel van het bijhouden en archiveren van daartoe geschikte documenten, al dan niet in elektronische vorm, vastgelegd en ter beschikking gehouden van het bevoegd gezag.
+1. De gegevens betreffende het bepaalde in de [artikelen 32a](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3a&artikel=32a&z=2024-01-01&g=2024-01-01), [32b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3a&artikel=32b&z=2024-01-01&g=2024-01-01), [32c](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3a&artikel=32c&z=2024-01-01&g=2024-01-01), [32d](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3a&artikel=32d&z=2024-01-01&g=2024-01-01), [32g](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3a&artikel=32g&z=2024-01-01&g=2024-01-01), [32h](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3a&artikel=32h&z=2024-01-01&g=2024-01-01) en [32i](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3a&artikel=32i&z=2024-01-01&g=2024-01-01) worden door middel van het bijhouden en archiveren van daartoe geschikte documenten, al dan niet in elektronische vorm, vastgelegd en ter beschikking gehouden van het bevoegd gezag.
 
-2. De documenten genoemd in het eerste lid worden gedurende ten minste drie jaar na het einde van de tijdelijke opslag bewaard door degene die de stortplaats drijft.
+2. De documenten genoemd in het eerste lid worden gedurende ten minste drie jaar na het einde van de tijdelijke opslag bewaard door degene die de stortplaats exploiteert.
 
 3. Alle documenten betreffende de afvoer van metallisch kwik na de tijdelijke opslag ervan en documenten betreffende de bestemming en voorgenomen behandeling, zoals bedoeld in [artikel 10.38, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.38), worden gedurende ten minste vijf jaar na het einde van de tijdelijke opslag bewaard.
 
@@ -607,7 +607,7 @@ Op de opslaglocatie voor metallisch kwik staan noodplannen met het oog op mogeli
 
 ## Bijlage
 
-In deze bijlage zijn de emissiewaarden uitgedrukt in mg/m2. De in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=2&artikel=10&z=2020-06-09&g=2020-06-09) bedoelde proef met een proefstuk duurt totaal 64 dagen, waarbij het proefstuk vrijwel voortdurend in contact is met water dat tijdens die periode op gezette tijden wordt ververst. De uitloogwaarden in de tabel betreffen het aantal mg, per parameter, dat na 64 dagen is vrijgekomen in verhouding met het totale oppervlak van het proefstuk.
+In deze bijlage zijn de emissiewaarden uitgedrukt in mg/m2. De in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=2&artikel=10&z=2024-01-01&g=2024-01-01) bedoelde proef met een proefstuk duurt totaal 64 dagen, waarbij het proefstuk vrijwel voortdurend in contact is met water dat tijdens die periode op gezette tijden wordt ververst. De uitloogwaarden in de tabel betreffen het aantal mg, per parameter, dat na 64 dagen is vrijgekomen in verhouding met het totale oppervlak van het proefstuk.
 
 | Parameter | Emissiewaarden in mg/m2 |
 | --- | --- |
