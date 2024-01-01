@@ -4,7 +4,7 @@ identifier: "BWBR0021728"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2010-10-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021728"
 soort: "ministeriele-regeling"
@@ -49,11 +49,11 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Op de risicokaart worden met inachtneming van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&artikel=3&z=2010-10-01&g=2010-10-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&artikel=4&z=2010-10-01&g=2010-10-01) de in de provincie aanwezige plaatsgebonden en geografisch te onderscheiden risico’s vermeld met betrekking tot de volgende categorieën rampen:
+1. Op de risicokaart worden met inachtneming van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&artikel=3&z=2024-01-01&g=2024-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&artikel=4&z=2024-01-01&g=2024-01-01) de in de provincie aanwezige plaatsgebonden en geografisch te onderscheiden risico’s vermeld met betrekking tot de volgende categorieën rampen:
 
-- a. ongevallen met brandbare of explosieve stoffen in inrichtingen of tijdens het transport;
+- a. ongevallen met brandbare of explosieve stoffen op locaties waarop een of meer milieubelastende activiteiten worden verricht of tijdens het transport;
 
-- b. ongevallen met giftige stoffen in inrichtingen of tijdens het transport;
+- b. ongevallen met giftige stoffen op locaties waarop een of meer milieubelastende activiteiten worden verricht of tijdens het transport;
 
 - c. kernongevallen;
 
@@ -81,19 +81,19 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Op de risicokaart worden risico’s in verband met de in [artikel 2, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&artikel=2&z=2010-10-01&g=2010-10-01), genoemde ongevallen met stoffen vermeld indien de hoeveelheid van de bedoelde stoffen de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&bijlage=I&z=2010-10-01&g=2010-10-01) genoemde drempelwaarde overschrijdt.
+1. Op de risicokaart worden risico’s in verband met de in [artikel 2, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&artikel=2&z=2024-01-01&g=2024-01-01), genoemde ongevallen met stoffen vermeld indien de hoeveelheid van de bedoelde stoffen de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&bijlage=I&z=2024-01-01&g=2024-01-01) genoemde drempelwaarde overschrijdt.
 
-2. Op de risicokaart worden risicolocaties in verband met de in [artikel 2, eerste lid, onderdelen d tot en met m](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&artikel=2&z=2010-10-01&g=2010-10-01), genoemde categorieën rampen vermeld indien zij voldoen aan de in bijlage II vermelde voorwaarden.
+2. Op de risicokaart worden risicolocaties in verband met de in [artikel 2, eerste lid, onderdelen d tot en met m](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&artikel=2&z=2024-01-01&g=2024-01-01), genoemde categorieën rampen vermeld indien zij voldoen aan de in bijlage II vermelde voorwaarden.
 
 ##### Artikel 4
 
-1. Op de risicokaart worden de in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&bijlage=III&z=2010-10-01&g=2010-10-01) genoemde gebouwen en objecten vermeld die voldoen aan de daarbij vermelde voorwaarden.
+1. Op de risicokaart worden de in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&bijlage=III&z=2024-01-01&g=2024-01-01) genoemde gebouwen en objecten vermeld die voldoen aan de daarbij vermelde voorwaarden.
 
-2. Op de risicokaart worden in ieder geval de in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&bijlage=IV&z=2010-10-01&g=2010-10-01) genoemde onderdelen vermeld in verband met overstroming als bedoeld in [artikel 2, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&artikel=2&z=2010-10-01&g=2010-10-01).
+2. Op de risicokaart worden in ieder geval de in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&bijlage=IV&z=2024-01-01&g=2024-01-01) genoemde onderdelen vermeld in verband met overstroming als bedoeld in [artikel 2, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&artikel=2&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 5
 
-De colleges van burgemeester en wethouders maken voor levering van de gegevens aan gedeputeerde staten gebruik van het systeem van elektronische invoer dat ook wordt gebruikt voor de levering van de gegevens aan het Rijksinstituut voor volksgezondheid en milieu ten behoeve van het openbare register, bedoeld in [artikel 12.12 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=12.12).
+De colleges van burgemeester en wethouders maken voor levering van de gegevens aan gedeputeerde staten gebruik van het systeem van elektronische invoer dat ook wordt gebruikt voor de levering van de gegevens aan het Rijksinstituut voor volksgezondheid en milieu ten behoeve van het landelijk register, bedoeld in [artikel 20.11, onder b, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=20.11).
 
 ##### Artikel 6
 
@@ -111,7 +111,7 @@ Gedeputeerde staten vermelden de door het college van burgemeester en wethouders
 
 2. Gedeputeerde staten kunnen van het functioneel ontwerp afwijken indien de afwijking op de risicokaarten van alle provincies wordt toegepast.
 
-3. Gedeputeerde staten dragen er zorg voor dat op de risicokaart niet de afstanden worden getoond, waarbinnen doden en/of gewonden kunnen vallen, in het geval zich een ongeval voordoet met de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&artikel=3&z=2010-10-01&g=2010-10-01), bedoelde stoffen.
+3. Gedeputeerde staten dragen er zorg voor dat op de risicokaart niet de afstanden worden getoond, waarbinnen doden en/of gewonden kunnen vallen, in het geval zich een ongeval voordoet met de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&artikel=3&z=2024-01-01&g=2024-01-01), bedoelde stoffen.
 
 ##### Artikel 9
 
@@ -171,49 +171,75 @@ Deze regeling wordt aangehaald als: Regeling provinciale risicokaart.
 |   | Overig |   |
 | Geparkeerde vervoerseenheden met gevaarlijke stoffen. | Aangewezen (parkeer) locaties waar vervoerseenheden beladen met gevaarlijke stoffen worden geparkeerd | Voor zover op de aangewezen (parkeer-)locatie ≥ 10.000 kg gevaarlijke stoffen gelijktijdig aanwezig mag zijn. |
 
-## Bijlage I. bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&artikel=3&z=2010-10-01&g=2010-10-01)
+## Bijlage I. bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&artikel=3&z=2024-01-01&g=2024-01-01)
 
 | Categorie | Categorie-omschrijving | Risicokaart-relevante drempelwaarde |
 | --- | --- | --- |
-| Opslag verpakte gevaarlijke stoffen | Inrichtingen waarin verpakte bestrijdingsmiddelen in emballage worden opgeslagen. | Hoeveelheid welke ≥ 2.500 kg is per opslagplaats. |
-| Ammoniakkoel- of vriesinstallatie | Inrichtingen waarin een koel- of vriesinstallatie aanwezig is. | Hoeveelheid welke ≥ 200 kg ammoniak is per installatie. |
-| Vervoersbedrijf | Inrichtingen bestemd voor de opslag in verband met vervoer van gevaarlijke stoffen (al dan niet in combinatie met andere stoffen en producten). Het betreft verzamelplaatsen waar te vervoeren gevaarlijke stoffen geparkeerd mogen worden. | Hoeveelheid welke ≥ 10.000 kg gevaarlijke stoffen is. |
-| Propaan en (vloeibaar) brandbaar gas | Inrichtingen waar propaan of een vloeibaar gemaakt brandbaar gas wordt opgeslagen in een reservoir. | Hoeveelheid welke ≥ 3.000 liter is. |
+| Opslaan van gevaarlijke stoffen in verpakking | Milieubelastende activiteiten waarbij bestrijdingsmiddelen in verpakking worden opgeslagen. | Hoeveelheid welke ≥ 2.500 kg is per opslagplaats. |
+|   |   |   |
+| Koelinstallatie met ammoniak | Milieubelastende activiteiten waarbij een koelinstallatie wordt geëxploiteerd. | Hoeveelheid welke ≥ 200 kg ammoniak is per installatie. |
+|   |   |   |
+| Vervoersbedrijf | Milieubelastende activiteiten waarbij voor het vervoer van stoffen of goederen gevaarlijke stoffen worden opgeslagen (al dan niet in combinatie met andere stoffen en producten). Het betreft verzamelplaatsen waar voertuigen, opleggers of aanhangers met te vervoeren gevaarlijke stoffen opgesteld mogen worden. | Hoeveelheid welke ≥ 10.000 kg gevaarlijke stoffen is. |
+|   |   |   |
+| Opslaan van propaan en andere (vloeibaar gemaakte) brandbare gassen | Milieubelastende activiteiten waarbij propaan of andere vloeibaar gemaakte brandbare gassen worden opgeslagen in een opslagtank. | Hoeveelheid welke ≥ 3.000 liter is. |
 |   |   |   |
 |   | Gassen |   |
-| Oxiderende gassen | Inrichtingen waar een tank of procesinstallatie aanwezig is met oxiderende (vloeibaar gemaakte) gassen. | Hoeveelheid welke ≥ 20.000 liter is (per tank of procesinstallatie). |
-| Gasdrukregel- en meetstations | Inrichtingen waar een gasdrukregel- en meetstation aanwezig is. |   |
-| Vulstations voor propaan en butaan | Inrichtingen waar gasflessen met propaan en/of butaan door middel van een vulstation worden gevuld, indien bij deze inrichting een tank met propaan en/of butaan aanwezig is. | Hoeveelheid welke ≥ 3.000 liter is (volume van alleen de voorraadtank). |
-| Gasflessendepot | Inrichtingen waar gasflessen worden opgeslagen (gasflessendepot). | Hoeveelheid (som van alle flessen) welke ≥ 10.000 liter is. |
-| Zeer giftige gassen | Inrichtingen waar een gasfles, tank, tankwagen, boxcontainer of procesinstallatie aanwezig is met een zeer giftig (vloeibaar gemaakt) gas. | Hoeveelheid welke ≥ 15 liter is (per gasfles, tank, tankwagen, boxcontainer of procesinstallatie). |
-| Giftige gassen | Inrichtingen waar een tank, tankwagen, boxcontainer of procesinstallatie aanwezig is met een giftig (vloeibaar gemaakt) gas. | Hoeveelheid welke ≥ 150 liter is (per tank, tankwagen, boxcontainer of procesinstallatie). |
-| Overige gevaarlijke gassen | Inrichtingen waar een tank, tankwagen boxcontainer of procesinstallatie aanwezig is met een gasvormige gevaarlijke stof. | Hoeveelheid welke ≥ 20.000 liter is (per tank, tankwagen, boxcontainer of procesinstallatie). |
+|   |   |   |
+| Opslaan van oxiderende gassen | Milieubelastende activiteiten waarbij vloeibaar gemaakte oxiderende gassen worden opgeslagen in een opslagtank. | Hoeveelheid welke ≥ 20.000 liter is (per opslagtank). |
+|   |   |   |
+| Behandelen, regelen en meten van aardgas | Milieubelastende activiteiten waarbij een installatie voor het regelen van aardgasdruk of het meten van de hoeveelheid of kwaliteit van aardgas aanwezig is. |   |
+|   |   |   |
+| Vulstations voor propaan en butaan | Milieubelastende activiteiten waarbij gasflessen met propaan of butaan worden gevuld, indien bij deze milieubelastende activiteit een opslagtank met propaan of butaan aanwezig is. | Hoeveelheid welke ≥ 3.000 liter is (volume van alleen de voorraadtank). |
+|   |   |   |
+| Gasflessendepot | Milieubelastende activiteiten waarbij gasflessen worden opgeslagen (gasflessendepot). | Hoeveelheid (som van alle flessen) welke ≥ 10.000 liter is. |
+|   |   |   |
+| Zeer giftige gassen | Milieubelastende activiteiten waarbij een gasfles, opslagtank, tankwagen, boxcontainer of procesinstallatie aanwezig is met een zeer giftig (vloeibaar gemaakt) gas. | Hoeveelheid welke ≥ 15 liter is (per gasfles, opslagtank, tankwagen, boxcontainer of procesinstallatie). |
+|   |   |   |
+| Giftige gassen | Milieubelastende activiteiten waarbij een opslagtank, tankwagen, boxcontainer of procesinstallatie aanwezig is met een giftig (vloeibaar gemaakt) gas. | Hoeveelheid welke ≥ 150 liter is (per opslagtank, tankwagen, boxcontainer of procesinstallatie). |
+|   |   |   |
+| Overige gevaarlijke gassen | Milieubelastende activiteiten waarbij een opslagtank, tankwagen, boxcontainer of procesinstallatie aanwezig is met een gasvormige gevaarlijke stof. | Hoeveelheid welke ≥ 20.000 liter is (per opslagtank, tankwagen, boxcontainer of procesinstallatie). |
 |   |   |   |
 |   | Vloeistoffen |   |
-| Licht ontvlambare vloeistoffen | Inrichtingen waar een bovengrondse tank, tankwagen , boxcontainer of procesinstallatie aanwezig is met een (licht) ontvlambare vloeistof. | Hoeveelheid welke ≥ 20.000 liter is (per tank, tankwagen, boxcontainer of procesinstallatie). |
-| Brandbare vloeistoffen | Inrichtingen waar een bovengrondse tank of procesinstallatie aanwezig is met een vloeistof met een vlampunt hoger dan 55 graden Celsius. | Hoeveelheid welke ≥ 150.000 liter is (per tank of procesinstallatie). |
-| Zeer giftige vloeistoffen | Inrichtingen waar een tank, tankwagen, boxcontainer of procesinstallatie aanwezig is met een zeer giftige vloeistof. | Hoeveelheid welke ≥ 200 liter is (per tank, tankwagen, boxcontainer of procesinstallatie). |
-| Giftige vloeistoffen | Inrichtingen waar een tank, tankwagen, boxcontainer of procesinstallatie aanwezig is met een giftige vloeistof. | Hoeveelheid welke ≥ 2.000 liter is (per tank, tankwagen, boxcontainer of procesinstallatie). |
-| Vloeistoffen die zeer giftige gassen kunnen vormen | Inrichtingen waar een tank, tankwagen, boxcontainer of procesinstallatie aanwezig is met een vloeistof die zeer giftige gassen kan vormen. | Hoeveelheid welke ≥ 20 liter is (per tank, tankwagen, boxcontainer of procesinstallatie). |
-| Vloeistoffen die giftige gassen kunnen vormen | Inrichtingen waar een tank of procesinstallatie aanwezig is met een vloeistof die vergiftige gassen kan vormen. | Hoeveelheid welke ≥ 200 liter is (per tank of procesinstallatie). |
-| Overige gevaarlijke vloeistoffen | Inrichtingen waar een tank of procesinstallatie aanwezig is met een vloeibare gevaarlijke stof. | Hoeveelheid welke ≥ 150.000 liter is (per tank of procesinstallatie). |
 |   |   |   |
-|   | vaste stoffen |   |
-| Zeer giftige vaste stof | Inrichtingen waar een silo of een andere gesloten opslagvoorziening voor los gestort materiaal aanwezig is met een zeer giftige vaste stof | Hoeveelheid welke ≥ 200 kg is (per silo of andere gesloten opslagvoorziening). |
-| Giftige vaste stof | Inrichtingen waar een silo of een andere gesloten opslagvoorziening voor los gestort materiaal aanwezig is met een giftige vaste stof | Hoeveelheid welke ≥ 2.000 kg is (per silo of andere gesloten opslagvoorziening). |
-| Vaste stoffen die zeer giftige gassen kunnen vormen | Inrichtingen waar een silo of een andere gesloten opslagvoorziening voor los gestort materiaal aanwezig is met een stof die zeer giftige gassen kan vormen. | Hoeveelheid welke ≥ 200 kg is (per silo of andere gesloten opslagvoorziening). |
-| Vaste stoffen die giftige gassen kunnen vormen | Inrichtingen waar een silo of een andere gesloten opslagvoorziening voor los gestort materiaal aanwezig is met een stof die giftige gassen kan vormen. | Hoeveelheid welke ≥ 2.000 kg is (per silo of andere gesloten opslagvoorziening). |
-| Overige onbrandbare vaste gevaarlijke stof | Inrichtingen waar een silo of een andere gesloten opslagvoorziening aanwezig is met een onbrandbare vaste gevaarlijke stof. | Hoeveelheid welke ≥ 1.500.000 liter (=1.500 m3 ) is (per silo of andere opslagvoorziening). |
-| Stofexplosie | Inrichtingen waar een silo of een andere gesloten opslagvoorziening zonder adequate drukontlasting voor los gestort materiaal aanwezig is waar een voor stofexplosie gevaarlijke atmosfeer aanwezig is. | Hoeveelheid welke ≥ 100.000 liter (=100 m3) is (per silo of andere opslagvoorziening). |
+| Licht ontvlambare vloeistoffen | Milieubelastende activiteiten waarbij een bovengrondse opslagtank, tankwagen, boxcontainer of procesinstallatie aanwezig is met een (licht) ontvlambare vloeistof. | Hoeveelheid welke ≥ 20.000 liter is (per opslagtank, tankwagen, boxcontainer of procesinstallatie). |
+|   |   |   |
+| Brandbare vloeistoffen | Milieubelastende activiteiten waarbij een bovengrondse opslagtank of procesinstallatie aanwezig is met een vloeistof met een vlampunt van 55 °C of hoger. | Hoeveelheid welke ≥ 150.000 liter is (per opslagtank of procesinstallatie). |
+|   |   |   |
+| Zeer giftige vloeistoffen | Milieubelastende activiteiten waarbij een opslagtank, tankwagen, boxcontainer of procesinstallatie aanwezig is met een zeer giftige vloeistof. | Hoeveelheid welke ≥ 200 liter is (per opslagtank, tankwagen, boxcontainer of procesinstallatie). |
+|   |   |   |
+| Giftige vloeistoffen | Milieubelastende activiteiten waarbij een opslagtank, tankwagen, boxcontainer of procesinstallatie aanwezig is met een giftige vloeistof. | Hoeveelheid welke ≥ 2.000 liter is (per opslagtank, tankwagen, boxcontainer of procesinstallatie). |
+|   |   |   |
+| Vloeistoffen die zeer giftige gassen kunnen vormen | Milieubelastende activiteiten waarbij een opslagtank, tankwagen, boxcontainer of procesinstallatie aanwezig is met een vloeistof die zeer giftige gassen kan vormen. | Hoeveelheid welke ≥ 20 liter is (per opslagtank, tankwagen, boxcontainer of procesinstallatie). |
+|   |   |   |
+| Vloeistoffen die giftige gassen kunnen vormen | Milieubelastende activiteiten waarbij een opslagtank of procesinstallatie aanwezig is met een vloeistof die giftige gassen kan vormen. | Hoeveelheid welke ≥ 200 liter is (per opslagtank of procesinstallatie). |
+|   |   |   |
+| Overige gevaarlijke vloeistoffen | Milieubelastende activiteiten waarbij een opslagtank of procesinstallatie aanwezig is met een vloeibare gevaarlijke stof | Hoeveelheid welke ≥ 150.000 liter is (per opslagtank of procesinstallatie). |
+|   |   |   |
+|   | Vaste stoffen |   |
+|   |   |   |
+| Zeer giftige vaste stof | Milieubelastende activiteiten waarbij een silo of een andere gesloten opslagvoorziening voor los gestort materiaal aanwezig is met een zeer giftige vaste stof. | Hoeveelheid welke ≥ 200 kg is (per silo of andere gesloten opslagvoorziening). |
+|   |   |   |
+| Giftige vaste stof | Milieubelastende activiteiten waarbij een silo of een andere gesloten opslagvoorziening voor los gestort materiaal aanwezig is met een giftige vaste stof. | Hoeveelheid welke ≥ 2.000 kg is (per silo of andere gesloten opslagvoorziening). |
+|   |   |   |
+| Vaste stoffen die zeer giftige gassen kunnen vormen | Milieubelastende activiteiten waarbij een silo of een andere gesloten opslagvoorziening voor los gestort materiaal aanwezig is met een stof die zeer giftige gassen kan vormen. | Hoeveelheid welke ≥ 200 kg is (per silo of andere gesloten opslagvoorziening). |
+|   |   |   |
+| Vaste stoffen die giftige gassen kunnen vormen | Milieubelastende activiteiten waarbij een silo of een andere gesloten opslagvoorziening voor los gestort materiaal aanwezig is met een stof die giftige gassen kan vormen. | Hoeveelheid welke ≥ 2.000 kg is (per silo of andere gesloten opslagvoorziening). |
+|   |   |   |
+| Overige onbrandbare vaste gevaarlijke stof | Milieubelastende activiteiten waarbij een silo of een andere gesloten opslagvoorziening aanwezig is met een onbrandbare vaste gevaarlijke stof. | Hoeveelheid welke ≥ 1.500.000 liter (=1.500 m3) is (per silo of andere opslagvoorziening). |
+|   |   |   |
+| Stofexplosie | Milieubelastende activiteiten waarbij een silo of een andere gesloten opslagvoorziening zonder adequate drukontlasting voor los gestort materiaal aanwezig is waar een voor stofexplosie gevaarlijke atmosfeer aanwezig is. | Hoeveelheid welke ≥ 100.000 liter (=100 m3) is (per silo of andere opslagvoorziening). |
 |   |   |   |
 |   | Brandgevaar |   |
-| Organische peroxiden, opslaggroep 2 en 3 | Inrichtingen waar organische peroxiden, opslaggroep 8 overeenkomstig Publicatiereeks Gevaarlijke Stoffen worden opgeslagen. | Opslagplaats heeft grootte van ≥ 100 m2 |
-| brandbare vaste stoffen | Grote buitenopslagen van fusten, pallets, kratten of vaten, waarbij de brandbare stof 50% of minder van het volume inneemt. | Hoeveelheid welke ≥ 1000 m2 grondoppervlak is. |
+|   |   |   |
+| Organische peroxiden, opslaggroep 2 en 3 | Milieubelastende activiteiten waarbij organische peroxiden, opslaggroep 8 overeenkomstig Publicatiereeks Gevaarlijke Stoffen, worden opgeslagen. | Opslagplaats heeft grootte van ≥ 100 m2. |
+|   |   |   |
+| Brandbare vaste stoffen | Grote buitenopslagen van fusten, pallets, kratten of vaten, waarbij de brandbare stof 50% of minder van het volume inneemt. | Hoeveelheid welke ≥ 1.000 m2 grondoppervlak is. |
 |   |   |   |
 |   | Overig |   |
-| Geparkeerde vervoerseenheden met gevaarlijke stoffen. | Aangewezen (parkeer) locaties waar vervoerseenheden beladen met gevaarlijke stoffen worden geparkeerd | Voor zover op de aangewezen (parkeer-)locatie ≥ 10.000 kg gevaarlijke stoffen gelijktijdig aanwezig mag zijn. |
+|   |   |   |
+| Opgestelde voertuigen, opleggers of aanhangers met gevaarlijke stoffen. | Aangewezen (parkeer)locaties waar voertuigen, opleggers of aanhangers beladen met gevaarlijke stoffen worden opgesteld. | Voor zover op de aangewezen (parkeer-)locatie ≥ 10.000 kg gevaarlijke stoffen gelijktijdig aanwezig mag zijn. |
 
-## Bijlage II. bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&artikel=3&z=2010-10-01&g=2010-10-01)
+## Bijlage II. bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&artikel=3&z=2024-01-01&g=2024-01-01)
 
 |   | Voorwaarde voor opname op de risicokaart |
 | --- | --- |
@@ -230,9 +256,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 11a
 
-Deze regeling berust op [artikel 45, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=45) en op de [artikelen 3.4, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=3.4), en [4.9, derde lid, van het Waterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=4.9).
+Deze regeling berust op [artikel 45, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=45) en op [artikel 20.16, derde lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=20.16) en de [artikelen 10.9, aanhef en onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=10.9), [10.33 tot en met 10.33b](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=10.33) en [10.52 van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=10.52).
 
-## Bijlage III. bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&artikel=4&z=2010-10-01&g=2010-10-01)
+## Bijlage III. bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&artikel=4&z=2024-01-01&g=2024-01-01)
 
 |   | Voorwaarde voor opname op de risicokaart |
 | --- | --- |
@@ -278,7 +304,7 @@ Deze regeling berust op [artikel 45, derde lid, van de wet](https://wetten.overh
 |   |   |
 | Alle gebouwen vanaf 25 verdiepingen | >24 verdiepingen |
 
-## Bijlage IV. bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&artikel=4&z=2010-10-01&g=2010-10-01)
+## Bijlage IV. bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021728&artikel=4&z=2024-01-01&g=2024-01-01)
 
 - 1. Omvang van de overstroming.
 
