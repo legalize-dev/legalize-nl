@@ -4,7 +4,7 @@ identifier: "BWBR0033862"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2023-04-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033862"
 soort: "ministeriele-regeling"
@@ -156,7 +156,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 5
 
-1. Een leverancier beëindigt de levering van warmte aan een verbruiker niet wegens wanbetaling, tenzij aan de procedurele vereisten van de volgende leden en [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=5a&z=2023-04-01&g=2023-04-01) wordt voldaan.
+1. Een leverancier beëindigt de levering van warmte aan een verbruiker niet wegens wanbetaling, tenzij aan de procedurele vereisten van de volgende leden en [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=5a&z=2024-01-01&g=2024-01-01) wordt voldaan.
 
 2. Indien een verbruiker niet binnen de gestelde termijn een vordering tot betaling van een leverancier voldoet, verstrekt de desbetreffende leverancier de verbruiker ten minste driemaal een schriftelijke herinnering met een nakomingstermijn van ten minste veertien dagen.
 
@@ -168,7 +168,7 @@ In deze regeling wordt verstaan onder:
 
 - c. biedt bij de herinnering aan met schriftelijke toestemming van de verbruiker de contactgegevens van de verbruiker, diens klantnummer, en informatie over de hoogte van diens schuld aan een instantie ten behoeve van schuldhulpverlening te verstrekken, tenzij de verbruiker geen natuurlijk persoon is;
 
-- d. vermeldt bij de herinnering dat de verbruiker niet wordt afgesloten indien de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=5a&z=2023-04-01&g=2023-04-01), [5b](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=5b&z=2023-04-01&g=2023-04-01) of [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=6&z=2023-04-01&g=2023-04-01), van toepassing zijn.
+- d. vermeldt bij de herinnering dat de verbruiker niet wordt afgesloten indien de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=5a&z=2024-01-01&g=2024-01-01), [5b](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=5b&z=2024-01-01&g=2024-01-01) of [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=6&z=2024-01-01&g=2024-01-01), van toepassing zijn.
 
 4. De leverancier spant zich tot het uiterste in om, zo nodig herhaaldelijk en via diverse communicatiekanalen, in persoonlijk contact te treden met de verbruiker.
 
@@ -178,7 +178,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 6
 
-1. Onverminderd de [artikelen 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=4b&z=2023-04-01&g=2023-04-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=5&z=2023-04-01&g=2023-04-01), beëindigt een leverancier de levering van warmte aan een kwetsbare consument niet wegens wanbetaling indien de kwetsbare consument niet binnen een redelijke termijn een verklaring van een arts, die geen behandelend arts van de betrokkene is, kan overleggen om de zeer ernstige gezondheidsrisico’s aan te tonen.
+1. Onverminderd de [artikelen 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=4b&z=2024-01-01&g=2024-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=5&z=2024-01-01&g=2024-01-01), beëindigt een leverancier de levering van warmte aan een kwetsbare consument niet wegens wanbetaling indien de kwetsbare consument niet binnen een redelijke termijn een verklaring van een arts, die geen behandelend arts van de betrokkene is, kan overleggen om de zeer ernstige gezondheidsrisico’s aan te tonen.
 
 2. Een leverancier draagt er zorg voor dat de levering aan een kwetsbare consument die wegens wanbetaling is beëindigd, wordt hervat indien de kwetsbare consument een verklaring van een arts die geen behandelend arts van de betrokkene is, overlegt om de zeer ernstige gezondheidsrisico’s aan te tonen.
 
@@ -220,9 +220,9 @@ De transparante informatie over de omschrijving van hetgeen wordt geleverd, bedo
 
 - c. indien warmte wordt geleverd van een temperatuur lager dan 70°C, wat de gevolgen zijn voor het comfortniveau voor de verbruiker, waaronder onder andere:
 
-- i. of de geleverde warmte op basis van de door de verbruiker opgegeven kenmerken van de woon-of bedrijfsruimte en de binneninstallatie direct geschikt is voor het verwarmen van tapwater tot een temperatuur die voldoet aan de norm bedoeld in [artikel 6.13, eerste lid, van het Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461&artikel=6.13), en
+- i. of de geleverde warmte op basis van de door de verbruiker opgegeven kenmerken van de woon-of bedrijfsruimte en de binneninstallatie direct geschikt is voor het verwarmen van tapwater tot een temperatuur die voldoet aan de norm bedoeld in de [artikelen 3.110](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=3.110) en [4.203 van het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=4.203), en
 
-- ii. indien de geleverde warmte niet direct geschikt is voor ruimteverwarming of het verwarmen van tapwater tot een temperatuur die voldoet aan de norm bedoeld in [artikel 6.13, eerste lid, van het Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461&artikel=6.13), een indicatie van de kosten die de verbruiker extra moet maken ten behoeve van ruimteverwarming of de verwarming van tapwater tot deze temperatuur;
+- ii. indien de geleverde warmte niet direct geschikt is voor ruimteverwarming of het verwarmen van tapwater tot een temperatuur die voldoet aan de norm bedoeld in de [artikelen 3.110](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=3.110) en [4.203 van het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=4.203), een indicatie van de kosten die de verbruiker extra moet maken ten behoeve van ruimteverwarming of de verwarming van tapwater tot deze temperatuur;
 
 - d. de opwekkingsbron van de warmte die geleverd zal worden, wanneer dit bij de wijze van aanprijzing en de keuze die de verbruiker zou maken, van belang is, en
 
@@ -428,13 +428,13 @@ Een leverancier beëindigt de levering van warmte aan een verbruiker niet, tenzi
 
 - d. de overeenkomst voor de levering van warmte van de verbruiker met de leverancier afloopt;
 
-- e. op grond van de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=5&z=2023-04-01&g=2023-04-01), [5b](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=5b&z=2023-04-01&g=2023-04-01) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=6&z=2023-04-01&g=2023-04-01) de levering van warmte wegens wanbetaling kan worden beëindigd.
+- e. op grond van de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=5&z=2024-01-01&g=2024-01-01), [5b](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=5b&z=2024-01-01&g=2024-01-01) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=6&z=2024-01-01&g=2024-01-01) de levering van warmte wegens wanbetaling kan worden beëindigd.
 
 ##### Artikel 5a
 
-1. In geval van wanbetaling door een verbruiker die een natuurlijk persoon is, verstrekt de leverancier aan een instantie ten behoeve van schuldhulpverlening de informatie bedoeld in het tweede lid, indien de verbruiker heeft ingestemd met, of niet heeft gereageerd op, het in [artikel 5, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=5&z=2023-04-01&g=2023-04-01), bedoelde aanbod tot gegevensverstrekking aan een instantie ten behoeve van schuldhulpverlening;
+1. In geval van wanbetaling door een verbruiker die een natuurlijk persoon is, verstrekt de leverancier aan een instantie ten behoeve van schuldhulpverlening de informatie bedoeld in het tweede lid, indien de verbruiker heeft ingestemd met, of niet heeft gereageerd op, het in [artikel 5, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=5&z=2024-01-01&g=2024-01-01), bedoelde aanbod tot gegevensverstrekking aan een instantie ten behoeve van schuldhulpverlening;
 
-- a. er ten minste twee termijnbedragen niet zijn voldaan, de leverancier ten minste twee schriftelijke herinneringen aan de verbruiker heeft verstuurd en er geen betalingsregeling als bedoeld in [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=5&z=2023-04-01&g=2023-04-01), is overeengekomen;
+- a. er ten minste twee termijnbedragen niet zijn voldaan, de leverancier ten minste twee schriftelijke herinneringen aan de verbruiker heeft verstuurd en er geen betalingsregeling als bedoeld in [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=5&z=2024-01-01&g=2024-01-01), is overeengekomen;
 
 - b. de betalingsachterstand aanmerkelijk hoger is geworden;
 
@@ -452,11 +452,11 @@ Een leverancier beëindigt de levering van warmte aan een verbruiker niet, tenzi
 
 1. Een leverancier kan de levering van warmte aan een verbruiker niet beëindigen wegens wanbetaling indien:
 
-- a. de verbruiker binnen een redelijke termijn, in ieder geval vier weken, na een herinnering als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=5&z=2023-04-01&g=2023-04-01), een bewijs overlegt dat hij heeft verzocht om schuldhulpverlening, totdat op dat verzoek negatief is beslist;
+- a. de verbruiker binnen een redelijke termijn, in ieder geval vier weken, na een herinnering als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=5&z=2024-01-01&g=2024-01-01), een bewijs overlegt dat hij heeft verzocht om schuldhulpverlening, totdat op dat verzoek negatief is beslist;
 
-- b. de vordering van de leverancier binnen een redelijke termijn, in ieder geval vier weken, na een herinnering als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=5&z=2023-04-01&g=2023-04-01), betrokken wordt bij een lopend traject van schuldhulpverlening aan de verbruiker; of
+- b. de vordering van de leverancier binnen een redelijke termijn, in ieder geval vier weken, na een herinnering als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=5&z=2024-01-01&g=2024-01-01), betrokken wordt bij een lopend traject van schuldhulpverlening aan de verbruiker; of
 
-- c. na de verstrekking van gegevens aan een instantie ten behoeve van de schuldhulpverlening, bedoeld in [artikel 5a, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=5a&z=2023-04-01&g=2023-04-01), nog geen vier weken zijn verstreken.
+- c. na de verstrekking van gegevens aan een instantie ten behoeve van de schuldhulpverlening, bedoeld in [artikel 5a, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=5a&z=2024-01-01&g=2024-01-01), nog geen vier weken zijn verstreken.
 
 2. Een leverancier kan de levering van warmte aan een verbruiker niet beëindigen wegens wanbetaling, tenzij de schuldhulpverlening aan de verbruiker eindigt of indien de verbruiker de verplichtingen ten aanzien van de schuldhulpverlening niet nakomt.
 
