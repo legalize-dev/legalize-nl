@@ -4,7 +4,7 @@ identifier: "BWBR0050633"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2023-11-16"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050633"
 soort: "ministeriele-regeling"
@@ -40,13 +40,9 @@ entry_into_force: "2025-01-01"
 
 Wijzigt de Uitvoeringsregeling inkomstenbelasting 2001.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel II
 
 Wijzigt de Uitvoeringsregeling loonbelasting 2011.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III
 
@@ -124,8 +120,6 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Uitvoeringsregeling Algemene wet inkomensafhankelijke regelingen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVII
 
 Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994.
@@ -163,8 +157,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XXIII
 
 Wijzigt de Regeling verstrekkingen en vergoedingen BES.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXIV
 
