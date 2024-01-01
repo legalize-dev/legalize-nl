@@ -4,7 +4,7 @@ identifier: "BWBR0036490"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2015-04-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036490"
 soort: "AMvB"
@@ -54,23 +54,27 @@ In dit besluit wordt verstaan onder:
 
 - a. **ATC-slot:** door de luchtverkeersleiding opgegeven aankomst- of vertrektijd (Air Traffic Control-slot);
 
-- b. **bedrijfswoning:** woning in of bij een gebouw of op of bij een terrein, slechts bestemd voor het huishouden van een persoon wiens huisvesting daar, gelet op de bestemming van het gebouw of terrein, noodzakelijk is;
+- b. **bedrijfswoning:** woning in of bij een gebouw of op of bij een terrein, slechts bestemd voor het huishouden van een persoon wiens huisvesting daar, gelet op de functie van het gebouw of terrein, noodzakelijk is;
 
 - c. **bijlage:** bij dit besluit behorende bijlage;
 
 - d. **extramurale opslag of verwerking:** opslag of verwerking anders dan in een volledig afgesloten gebouw;
 
-- e. **gebouw:** gebouw als bedoeld in [artikel 1 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1);
+- e. **gebouw:** gebouw als bedoeld in de [bijlage bij de Omgevingswet](onbekend);
 
-- f. **geluidsgevoelig gebouw:** gebouw met een onderwijs- of gezondheidszorgfunctie als bedoeld in [artikel 1.1 van het Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461&artikel=1.1);
+- f. **geluidsgevoelig gebouw:** gebouw met een onderwijs- of gezondheidszorgfunctie als bedoeld in [bijlage I bij het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=I);
 
-- g. **kwetsbaar gebouw:** gebouw met een onderwijs- of gezondheidszorgfunctie als bedoeld in [artikel 1.1 van het Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461&artikel=1.1);
+- g. **kwetsbaar gebouw:** gebouw met een onderwijs- of gezondheidszorgfunctie als bedoeld in [bijlage I, onder B, bij het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=I);
 
 - h. **obstakel:** object dat zich boven het maaiveld bevindt en zich niet voortbeweegt;
 
 - i. **verkeersvlucht:** een vlucht van een luchtvaartmaatschappij die vervoer van passagiers of vracht ten doel heeft;
 
-- j. **woning:** gebouw dat geheel of gedeeltelijk voor bewoning is bestemd.
+- j. **omgevingsvergunning voor een aanlegactiviteit:** omgevingsvergunning als bedoeld in [artikel 2.1, eerste lid, aanhef en onder b, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) dan wel omgevingsvergunning als bedoeld in [artikel 5.1, eerste lid, aanhef en onder a, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1) voor een omgevingsplanactiviteit bestaande uit het uitvoeren van een werk, geen bouwwerk zijnde, of van werkzaamheden;
+
+- k. **omgevingsvergunning voor het bouwen:** omgevingsvergunning als bedoeld in [artikel 2.1, eerste lid, aanhef en onder a, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) dan wel omgevingsvergunning als bedoeld in [artikel 5.1, eerste lid, aanhef en onder a, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1) voor een omgevingsplanactiviteit bestaande uit een bouwactiviteit;
+
+- l. **woning:** gebouw dat geheel of gedeeltelijk voor bewoning is bestemd.
 
 ##### Artikel 2. Reikwijdte
 
@@ -80,7 +84,7 @@ Dit besluit heeft betrekking op de luchthaven Lelystad.
 
 ##### Artikel 3. Grenswaarden voor de geluidbelasting
 
-De geluidbelasting in een punt die is aangegeven op de kaart in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&bijlage=1&z=2015-04-01&g=2015-04-01) bedraagt niet meer dan de bij dat punt aangegeven waarde.
+De geluidbelasting in een punt die is aangegeven op de kaart in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&bijlage=1&z=2024-01-01&g=2024-01-01) bedraagt niet meer dan de bij dat punt aangegeven waarde.
 
 ##### Artikel 4. Regels voor de geluidbelasting
 
@@ -106,17 +110,17 @@ Het gebruiksjaar van de luchthaven omvat de periode van 1 november van enig jaar
 
 ##### Artikel 6. Luchthavengebied
 
-1. Het luchthavengebied is het gebied dat als zodanig is aangewezen op de kaart in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&bijlage=1&z=2015-04-01&g=2015-04-01).
+1. Het luchthavengebied is het gebied dat als zodanig is aangewezen op de kaart in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&bijlage=1&z=2024-01-01&g=2024-01-01).
 
-2. De gronden die bestemd zijn voor de start- en landingsbanen zijn aangegeven op de kaart in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&bijlage=1&z=2015-04-01&g=2015-04-01).
+2. De locatie die bestemd is voor de start- en landingsbanen is aangewezen op de kaart in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&bijlage=1&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 7. Beperkingengebieden in verband met het externe veiligheidsrisico
 
-1. De contouren ter aanduiding van het 10–5 en 10–6 plaatsgebonden risico zijn aangegeven op de kaart in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&bijlage=2&z=2015-04-01&g=2015-04-01).
+1. De contouren ter aanduiding van het 10–5 en 10–6 plaatsgebonden risico zijn aangegeven op de kaart in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&bijlage=2&z=2024-01-01&g=2024-01-01).
 
-2. In het gebied dat gelegen is op en binnen een 10–5-plaatsgebonden risicocontour:
+2. Op een locatie binnen een 10–5-plaatsgebonden risicocontour:
 
-- a. worden woningen, niet zijnde bedrijfswoningen, en kwetsbare gebouwen aan hun bestemming onttrokken;
+- a. worden woningen, niet zijnde bedrijfswoningen, en kwetsbare gebouwen aan hun functie onttrokken;
 
 - b. is nieuwbouw van een gebouw niet toegestaan.
 
@@ -126,7 +130,7 @@ Het gebruiksjaar van de luchthaven omvat de periode van 1 november van enig jaar
 
 - a. een woning rechtmatig aanwezig was en voor bewoning werd gebruikt, of
 
-- b. een omgevingsvergunning is verleend voor een woning op de desbetreffende plaats, mits binnen zes maanden na die datum een begin met de werkzaamheden is gemaakt.
+- b. een omgevingsvergunning voor het bouwen is verleend van een woning op de desbetreffende plaats, mits binnen zes maanden na die datum een begin met de werkzaamheden is gemaakt.
 
 5. Ten aanzien van degene die op het tijdstip van inwerkingtreding van dit besluit rechtmatig gebruiker is van een woning als bedoeld in het tweede lid kan, indien sprake is van bestaand gebruik, beëindiging van dit gebruik niet worden gevergd.
 
@@ -136,15 +140,15 @@ Het gebruiksjaar van de luchthaven omvat de periode van 1 november van enig jaar
 
 ##### Artikel 8. Beperkingengebieden in verband met de geluidbelasting
 
-1. De contouren ter aanduiding van de geluidbelasting van 70 dB(A) Lden en 56 dB(A) Lden zijn aangegeven op de kaart in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&bijlage=3&z=2015-04-01&g=2015-04-01).
+1. De contouren ter aanduiding van de geluidbelasting van 70 dB(A) Lden en 56 dB(A) Lden zijn aangegeven op de kaart in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&bijlage=3&z=2024-01-01&g=2024-01-01).
 
-2. In het gebied dat gelegen is op of binnen de contour van 70 dB(A) Lden worden woningen, niet zijnde bedrijfswoningen, en geluidsgevoelige gebouwen aan hun bestemming onttrokken. [Artikel 7, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&hoofdstuk=3&artikel=7&z=2015-04-01&g=2015-04-01), is van overeenkomstige toepassing.
+2. Op een locatie binnen de contour van 70 dB(A) Lden worden woningen, niet zijnde bedrijfswoningen, en geluidsgevoelige gebouwen aan hun functie onttrokken. [Artikel 7, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&hoofdstuk=3&artikel=7&z=2024-01-01&g=2024-01-01), is van overeenkomstige toepassing.
 
 3. In het gebied dat gelegen is op of binnen de contour van 56 dB(A) Lden is nieuwbouw van een woning, niet zijnde een bedrijfswoning, en een geluidsgevoelig gebouw niet toegestaan.
 
 ##### Artikel 9. Beperkingengebieden in verband met veiligheid
 
-1. De contouren ter aanduiding van de veiligheidsgebieden zijn aangegeven op de kaart in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&bijlage=4&z=2015-04-01&g=2015-04-01).
+1. De contouren ter aanduiding van de veiligheidsgebieden zijn aangegeven op de kaart in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&bijlage=4&z=2024-01-01&g=2024-01-01).
 
 2. In een veiligheidsgebied:
 
@@ -158,41 +162,41 @@ Het gebruiksjaar van de luchthaven omvat de periode van 1 november van enig jaar
 
 3. Het tweede lid geldt niet indien:
 
-- a. het obstakel of de helling is opgericht, geplaatst of aangelegd overeenkomstig een omgevingsvergunning voor een bouw- of aanlegactiviteit, of
+- a. het obstakel of de helling is opgericht, geplaatst of aangelegd overeenkomstig een omgevingsvergunning voor het bouwen of een omgevingsvergunning voor een aanlegactiviteit, of
 
-- b. voor het obstakel of de helling vóór het tijdstip van inwerkingtreding van dit besluit een omgevingsvergunning voor een bouw- of aanlegactiviteit is verleend.
+- b. voor het obstakel of de helling vóór het tijdstip van inwerkingtreding van dit besluit een omgevingsvergunning voor het bouwen of een omgevingsvergunning voor een aanlegactiviteit is verleend.
 
 4. In het gebied, bedoeld in het eerste lid, is het verboden zonder of in afwijking van een omgevingsvergunning voor een aanlegactiviteit een werk, geen bouwwerk zijnde, of een werkzaamheid uit te voeren voor zover dit werk of deze werkzaamheid niet voldoet aan de eisen met betrekking tot de vlakheid van het terrein, bedoeld in het tweede lid.
 
 ##### Artikel 10. Gebieden met hoogtebeperkingen in verband met vliegveiligheid
 
-1. De gebieden met hoogtebeperkingen in verband met de vliegveiligheid zijn aangegeven op de kaarten in de [bijlagen 5a tot en met 5d](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&bijlage=5a&z=2015-04-01&g=2015-04-01).
+1. De gebieden met hoogtebeperkingen in verband met de vliegveiligheid zijn aangegeven op de kaarten in de [bijlagen 5a tot en met 5d](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&bijlage=5a&z=2024-01-01&g=2024-01-01).
 
-2. Op de gronden gelegen binnen deze gebieden zijn geen obstakels toegestaan hoger dan de op de kaarten in de [bijlagen 5a tot en met 5d](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&bijlage=5a&z=2015-04-01&g=2015-04-01) aangegeven waarden.
+2. Op de gronden gelegen binnen deze gebieden zijn geen obstakels toegestaan hoger dan de op de kaarten in de [bijlagen 5a tot en met 5d](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&bijlage=5a&z=2024-01-01&g=2024-01-01) aangegeven waarden.
 
 3. Het tweede lid geldt niet indien:
 
-- a. het obstakel is opgericht, geplaatst of aangelegd overeenkomstig een omgevingsvergunning voor een bouw- of aanlegactiviteit, of
+- a. het obstakel is opgericht, geplaatst of aangelegd overeenkomstig een omgevingsvergunning voor het bouwen of een omgevingsvergunning voor een aanlegactiviteit, of
 
-- b. voor het obstakel vóór het tijdstip van inwerkingtreding van dit besluit een omgevingsvergunning voor een bouw- of aanlegactiviteit is verleend.
+- b. voor het obstakel vóór het tijdstip van inwerkingtreding van dit besluit een omgevingsvergunning voor het bouwen of een omgevingsvergunning voor een aanlegactiviteit is verleend.
 
 ##### Artikel 11. Beperkingengebieden in verband met goede werking van de apparatuur voor luchtverkeersdienstverlening
 
-1. De contouren ter aanduiding van de gebieden met hoogtebeperkingen in verband met de goede werking van de apparatuur voor luchtverkeerscommunicatie, -navigatie of -begeleiding zijn aangegeven op de kaarten in de [bijlagen 6a tot en met 6g](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&bijlage=6a&z=2015-04-01&g=2015-04-01).
+1. De contouren ter aanduiding van de gebieden met hoogtebeperkingen in verband met de goede werking van de apparatuur voor luchtverkeerscommunicatie, -navigatie of -begeleiding zijn aangegeven op de kaarten in de [bijlagen 6a tot en met 6g](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&bijlage=6a&z=2024-01-01&g=2024-01-01).
 
-2. Op de gronden gelegen binnen deze gebieden is geen obstakel toegestaan hoger dan de op de kaarten in de [bijlagen 6a tot en met 6g](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&bijlage=6a&z=2015-04-01&g=2015-04-01) aangegeven waarden.
+2. Op de gronden gelegen binnen deze gebieden is geen obstakel toegestaan hoger dan de op de kaarten in de [bijlagen 6a tot en met 6g](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&bijlage=6a&z=2024-01-01&g=2024-01-01) aangegeven waarden.
 
 3. Het tweede lid geldt niet indien:
 
-- a. het obstakel is opgericht, geplaatst of aangelegd overeenkomstig een omgevingsvergunning voor een bouw- of aanlegactiviteit, of
+- a. het obstakel is opgericht, geplaatst of aangelegd overeenkomstig een omgevingsvergunning voor het bouwen of een omgevingsvergunning voor een aanlegactiviteit, of
 
-- b. voor het obstakel vóór het tijdstip van inwerkingtreding van dit besluit een omgevingsvergunning voor een bouw- of aanlegactiviteit is verleend.
+- b. voor het obstakel vóór het tijdstip van inwerkingtreding van dit besluit een omgevingsvergunning voor het bouwen of een omgevingsvergunning voor een aanlegactiviteit is verleend.
 
 ##### Artikel 12. Beperkingengebied vogelaantrekkende bestemmingen en grondgebruik
 
-1. Het gebied met beperkingen ten aanzien van vogelaantrekkende bestemmingen en grondgebruik is aangegeven op de kaart in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&bijlage=7&z=2015-04-01&g=2015-04-01).
+1. Het gebied met beperkingen ten aanzien van vogelaantrekkende bestemmingen en grondgebruik is aangegeven op de kaart in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&bijlage=7&z=2024-01-01&g=2024-01-01).
 
-2. Op de gronden gelegen binnen dit gebied is een bestemming of een grondgebruik binnen de volgende categorieën niet toegestaan:
+2. Op de locaties gelegen binnen dit gebied is het verrichten of toelaten van een activiteit binnen de volgende categorieën niet toegestaan:
 
 - a. industrie in de voedingsopslag met extramurale opslag of overslag;
 
@@ -204,19 +208,19 @@ Het gebruiksjaar van de luchthaven omvat de periode van 1 november van enig jaar
 
 - e. moerasgebied of oppervlaktewater of een combinatie daarvan groter dan 3 hectare dan wel waarvan het totaal van de opgesplitste delen groter is dan 3 hectare.
 
-3. Het tweede lid geldt niet voor zover de bestemming of het grondgebruik rechtmatig was op de dag vóór het tijdstip van inwerkingtreding van dit besluit.
+3. Het tweede lid geldt niet voor zover het verrichten of toelaten van de activiteit rechtmatig werd toegelaten op de dag vóór het tijdstip van inwerkingtreding van dit besluit.
 
 ##### Artikel 13. Laserstraalvrije gebied
 
-1. Het laserstraalvrije gebied is aangegeven op de kaart in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&bijlage=8&z=2015-04-01&g=2015-04-01).
+1. Het laserstraalvrije gebied is aangegeven op de kaart in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&bijlage=8&z=2024-01-01&g=2024-01-01).
 
-2. Op de gronden gelegen binnen dit gebied is een bestemming voor of een gebruik door een laserstaal die de vliegveiligheid kan verstoren niet toegestaan.
+2. Op de locaties gelegen binnen dit gebied is het gebruik van een laserstaal die de vliegveiligheid kan verstoren niet toegestaan.
 
-3. Het tweede lid geldt niet voor zover de bestemming of het gebruik rechtmatig was op de dag vóór het tijdstip van inwerkingtreding van dit besluit.
+3. Het tweede lid geldt niet voor zover het gebruik rechtmatig was op de dag vóór het tijdstip van inwerkingtreding van dit besluit.
 
 ##### Artikel 14. Gebied met ruimtelijke beperkingen in verband met toekomstig gebruik van de luchthaven
 
-De contouren ter aanduiding van de geluidbelasting van 48 dB(A) Lden zijn aangegeven op de kaart in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&bijlage=3&z=2015-04-01&g=2015-04-01).
+De contouren ter aanduiding van de geluidbelasting van 48 dB(A) Lden zijn aangegeven op de kaart in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&bijlage=3&z=2024-01-01&g=2024-01-01).
 
 ### Hoofdstuk 4. Slotbepalingen
 
@@ -228,38 +232,38 @@ Dit besluit treedt in werking met ingang van 1 april 2015.
 
 Dit besluit wordt aangehaald als: Luchthavenbesluit Lelystad.
 
-## Bijlage 1. als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&hoofdstuk=2&artikel=3&z=2015-04-01&g=2015-04-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&hoofdstuk=3&artikel=6&z=2015-04-01&g=2015-04-01)
+## Bijlage 1. als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&hoofdstuk=2&artikel=3&z=2024-01-01&g=2024-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&hoofdstuk=3&artikel=6&z=2024-01-01&g=2024-01-01)
 
-## Bijlage 2. als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&hoofdstuk=3&artikel=7&z=2015-04-01&g=2015-04-01)
+## Bijlage 2. als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&hoofdstuk=3&artikel=7&z=2024-01-01&g=2024-01-01)
 
-## Bijlage 3. als bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&hoofdstuk=3&artikel=8&z=2015-04-01&g=2015-04-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&hoofdstuk=3&artikel=14&z=2015-04-01&g=2015-04-01)
+## Bijlage 3. als bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&hoofdstuk=3&artikel=8&z=2024-01-01&g=2024-01-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&hoofdstuk=3&artikel=14&z=2024-01-01&g=2024-01-01)
 
-## Bijlage 4. als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&hoofdstuk=3&artikel=9&z=2015-04-01&g=2015-04-01)
+## Bijlage 4. als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&hoofdstuk=3&artikel=9&z=2024-01-01&g=2024-01-01)
 
-## Bijlage 5a. als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&hoofdstuk=3&artikel=10&z=2015-04-01&g=2015-04-01)
+## Bijlage 5a. als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&hoofdstuk=3&artikel=10&z=2024-01-01&g=2024-01-01)
 
-## Bijlage 5b. als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&hoofdstuk=3&artikel=10&z=2015-04-01&g=2015-04-01)
+## Bijlage 5b. als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&hoofdstuk=3&artikel=10&z=2024-01-01&g=2024-01-01)
 
-## Bijlage 5c. als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&hoofdstuk=3&artikel=10&z=2015-04-01&g=2015-04-01)
+## Bijlage 5c. als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&hoofdstuk=3&artikel=10&z=2024-01-01&g=2024-01-01)
 
-## Bijlage 5d. als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&hoofdstuk=3&artikel=10&z=2015-04-01&g=2015-04-01)
+## Bijlage 5d. als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&hoofdstuk=3&artikel=10&z=2024-01-01&g=2024-01-01)
 
-## Bijlage 6a. als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&hoofdstuk=3&artikel=11&z=2015-04-01&g=2015-04-01)
+## Bijlage 6a. als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&hoofdstuk=3&artikel=11&z=2024-01-01&g=2024-01-01)
 
-## Bijlage 6b. als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&hoofdstuk=3&artikel=11&z=2015-04-01&g=2015-04-01)
+## Bijlage 6b. als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&hoofdstuk=3&artikel=11&z=2024-01-01&g=2024-01-01)
 
-## Bijlage 6c. als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&hoofdstuk=3&artikel=11&z=2015-04-01&g=2015-04-01)
+## Bijlage 6c. als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&hoofdstuk=3&artikel=11&z=2024-01-01&g=2024-01-01)
 
-## Bijlage 6d. als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&hoofdstuk=3&artikel=11&z=2015-04-01&g=2015-04-01)
+## Bijlage 6d. als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&hoofdstuk=3&artikel=11&z=2024-01-01&g=2024-01-01)
 
-## Bijlage 6e. als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&hoofdstuk=3&artikel=11&z=2015-04-01&g=2015-04-01)
+## Bijlage 6e. als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&hoofdstuk=3&artikel=11&z=2024-01-01&g=2024-01-01)
 
-## Bijlage 6f. als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&hoofdstuk=3&artikel=11&z=2015-04-01&g=2015-04-01)
+## Bijlage 6f. als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&hoofdstuk=3&artikel=11&z=2024-01-01&g=2024-01-01)
 
-## Bijlage 6g. als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&hoofdstuk=3&artikel=11&z=2015-04-01&g=2015-04-01)
+## Bijlage 6g. als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&hoofdstuk=3&artikel=11&z=2024-01-01&g=2024-01-01)
 
-## Bijlage 7. als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&hoofdstuk=3&artikel=12&z=2015-04-01&g=2015-04-01)
+## Bijlage 7. als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&hoofdstuk=3&artikel=12&z=2024-01-01&g=2024-01-01)
 
-## Bijlage 8. als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&hoofdstuk=3&artikel=13&z=2015-04-01&g=2015-04-01)
+## Bijlage 8. als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0036490&hoofdstuk=3&artikel=13&z=2024-01-01&g=2024-01-01)
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
