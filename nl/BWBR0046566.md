@@ -4,7 +4,7 @@ identifier: "BWBR0046566"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-13"
-last_updated: "2023-09-30"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046566"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ Besluit:
 
 ##### Artikel 2
 
-Indien de toewijzing van alle daarvoor in aanmerking komende aanvragen voor subsidie als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&artikel=2.1) en [artikel 3.1 van de Subsidieregeling gender- en LHBTI+-gelijkheid 2022–2027](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&artikel=3.1) zou leiden tot een overschrijding van het subsidieplafond, verdeelt de Minister het beschikbare bedrag, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046566&artikel=1&z=2023-09-30&g=2023-09-30), naar evenredigheid over de toe te wijzen subsidieaanvragen.
+Indien de toewijzing van alle daarvoor in aanmerking komende aanvragen voor subsidie als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&artikel=2.1) en [artikel 3.1 van de Subsidieregeling gender- en LHBTI+-gelijkheid 2022–2027](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&artikel=3.1) zou leiden tot een overschrijding van het subsidieplafond, verdeelt de Minister het beschikbare bedrag, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046566&artikel=1&z=2023-09-30&g=2024-01-01), naar evenredigheid over de toe te wijzen subsidieaanvragen.
 
 ##### Artikel 3
 
