@@ -4,7 +4,7 @@ identifier: "BWBR0036777"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2015-07-02"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036777"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ Besluit:
 
 - **huishoudelijk gevaarlijk afval:** KCA en de volgende niet tot KCA behorende gevaarlijke stoffen die als afvalstoffen vrijkomen uit huishoudens of in kleine hoeveelheden vrijkomen uit bedrijven:
 
-- a. restanten van consumentenvuurwerk, zoals omschreven in het [Vuurwerkbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360),
+- a. restanten van vuurwerk dat op grond van [artikel 2.1.1 van het Vuurwerkbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&artikel=2.1.1) is aangewezen als vuurwerk dat ter beschikking mag worden gesteld voor particulier gebruik,
 
 - b. spuitbussen vallende onder klasse 2, UN nr. 1950,
 
@@ -74,7 +74,7 @@ Besluit:
 
 - **klasse:** de klasse gevaarlijke stoffen volgens [paragraaf 2.1.1 van bijlage 1 bij de VLG](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1);
 
-- **KCA:** Klein Chemisch Afval, huishoudelijk afval waar chemische stoffen in zitten die schadelijk zijn voor de gezondheid en voor het milieu en die volgens de gemeentelijke afvalstoffen verordening gescheiden van het huisvuil ingeleverd dienen te worden;
+- **KCA:** Klein Chemisch Afval, huishoudelijk afval waar chemische stoffen in zitten die schadelijk zijn voor de gezondheid en voor het milieu en die volgens de afvalstoffenverordening, bedoeld in [artikel 10.23, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23) of het omgevingsplan, bedoeld in de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), gescheiden van het huisvuil ingeleverd dienen te worden;
 
 - **route-inzameling:** het inzamelen van huishoudelijk gevaarlijk afval volgens een vooraf bepaalde route, die eindigt bij het depot, waarbij afvalstoffen tijdens het vervoer worden samengevoegd met gelijksoortige afvalstoffen die zijn afgegeven door verschillende, voorafgaand aan de inzameling niet bekende personen;
 
@@ -92,7 +92,7 @@ Besluit:
 
 ##### Artikel 3. Beperking toepasselijkheid [VLG](https://wetten.overheid.nl/jci1.3:c:BWBR0010054)
 
-1. De [VLG](https://wetten.overheid.nl/jci1.3:c:BWBR0010054) is niet van toepassing op het vervoer van ingezamelde huishoudelijke afvalstoffen gedurende de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036777&artikel=2&z=2015-07-02&g=2015-07-02), bedoelde route-inzameling, indien wordt voldaan aan de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036777&artikel=4&z=2015-07-02&g=2015-07-02) gestelde voorwaarden.
+1. De [VLG](https://wetten.overheid.nl/jci1.3:c:BWBR0010054) is niet van toepassing op het vervoer van ingezamelde huishoudelijke afvalstoffen gedurende de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036777&artikel=2&z=2024-01-01&g=2024-01-01), bedoelde route-inzameling, indien wordt voldaan aan de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036777&artikel=4&z=2024-01-01&g=2024-01-01) gestelde voorwaarden.
 
 2. In afwijking van het eerste lid blijven de bepalingen uit de volgende onderdelen van [bijlage 1 bij de VLG](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1) wel van toepassing:
 
@@ -104,7 +104,7 @@ Besluit:
 
 ##### Artikel 4. Voorwaarden
 
-1. Aangeboden gevaarlijke stoffen die niet behoren tot de stoffen bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036777&artikel=2&z=2015-07-02&g=2015-07-02) en stoffen waarvan niet bekend is of niet vastgesteld kan worden wat de aard en klasse van de stof is, worden niet ingenomen.
+1. Aangeboden gevaarlijke stoffen die niet behoren tot de stoffen bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036777&artikel=2&z=2024-01-01&g=2024-01-01) en stoffen waarvan niet bekend is of niet vastgesteld kan worden wat de aard en klasse van de stof is, worden niet ingenomen.
 
 2. Het ingezamelde afval wordt opgeslagen en vervoerd in voor de ingezamelde stof geschikte elementen die overeenkomen met of gelijkwaardig zijn aan de voor de betreffende klasse van gevaarlijke stoffen in [bijlage 1 bij de VLG](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1) voorgeschreven elementen en onder omstandigheden die geschikt zijn voor het veilig vervoeren van die ingezamelde stof.
 
