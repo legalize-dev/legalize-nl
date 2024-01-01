@@ -4,7 +4,7 @@ identifier: "BWBR0046036"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2022-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046036"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ BESLUIT:
 | --- | --- |
 | De TU-Delft ten aanzien van de Hoger Onderwijs Reactor te Delft | € 70 miljoen |
 | Urenco Nederland BV ten aanzien van de uraniumverrijkingsfabrieken te Almelo | € 100 miljoen |
-| De Nuclear Research and consultancy Group v.o.f. ten aanzien van de Hoge Flux Reactor en de overige nucleaire installaties op de Onderzoekslocatie Petten | € 150 miljoen |
+| De Nuclear Research and consultancy Group v.o.f. ten aanzien van de Hoge Flux Reactor en de overige nucleaire installaties op de Onderzoekslocatie Petten | € 250 miljoen |
 
 2. De in het eerste lid opgenomen bedragen gelden tot en met 31 december 2026.
 
