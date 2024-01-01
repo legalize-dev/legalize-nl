@@ -4,7 +4,7 @@ identifier: "BWBR0035847"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2014-12-05"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035847"
 soort: "ministeriele-regeling"
@@ -44,9 +44,9 @@ Besluit:
 
 - a. het uitwisselen van informatie over nationale en internationale ontwikkelingen op het terrein van bouwvoorschriften;
 
-- b. het doen van aanbevelingen op het terrein van bouwen bij of krachtens de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181), de [Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779) en andere aanverwante regelgeving;
+- b. het doen van aanbevelingen op het terrein van bouwen bij of krachtens de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181), de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) en andere aanverwante regelgeving;
 
-- c. het doen van aanbevelingen met betrekking tot de resultaten van onderzoekingen die zijn uitgevoerd in het kader van aan het parlement toegezegde evaluaties van de bij of krachtens de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) gegeven voorschriften;
+- c. het doen van aanbevelingen met betrekking tot de resultaten van onderzoekingen die zijn uitgevoerd in het kader van aan het parlement toegezegde evaluaties van de bij of krachtens de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) gegeven voorschriften of de bij of krachtens de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) gestelde regels;
 
 - d. het doen van aanbevelingen met betrekking tot de resultaten van overige onderzoekingen die zijn uitgevoerd op het terrein van de kwaliteit van bouwwerken.
 
@@ -150,9 +150,9 @@ Besluit:
 
 ##### Artikel 4. Juridisch-technische commissie
 
-1. Er is een Juridisch-technische commissie die ten doel heeft de nadere invulling van juridisch-technische zaken, verband houdend met de in [artikel 1, eerste lid, onderdelen b, c, en d](https://wetten.overheid.nl/jci1.3:c:BWBR0035847&artikel=1&z=2014-12-05&g=2014-12-05), genoemde doelstellingen, inhoudelijk te beoordelen en hieromtrent aanbevelingen te doen aan de Directeur-Generaal Wonen en Bouwen van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
+1. Er is een Juridisch-technische commissie die ten doel heeft de nadere invulling van juridisch-technische zaken, verband houdend met de in [artikel 1, eerste lid, onderdelen b, c, en d](https://wetten.overheid.nl/jci1.3:c:BWBR0035847&artikel=1&z=2024-01-01&g=2024-01-01), genoemde doelstellingen, inhoudelijk te beoordelen en hieromtrent aanbevelingen te doen aan de Directeur-Generaal Wonen en Bouwen van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
-2. De commissie bestaat uit personen die afkomstig zijn uit belangenorganisaties van ontwerpende, uitvoerende en toeleverende bouw alsmede belangenorganisaties van beheerders en gebruikers van bouwwerken en organisaties van toezichthouders. Dit kunnen in elk geval de organisaties zijn genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035847&artikel=3&z=2014-12-05&g=2014-12-05), van dit besluit. De leden van de commissie dienen vooraf bij de voorzitter te worden aangemeld. De voorzitter kan vertegenwoordigers van bij de bouw betrokken organisaties die niet aan het overlegplatform deelnemen toelaten tot de bijeenkomsten van de commissie.
+2. De commissie bestaat uit personen die afkomstig zijn uit belangenorganisaties van ontwerpende, uitvoerende en toeleverende bouw alsmede belangenorganisaties van beheerders en gebruikers van bouwwerken en organisaties van toezichthouders. Dit kunnen in elk geval de organisaties zijn genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035847&artikel=3&z=2024-01-01&g=2024-01-01), van dit besluit. De leden van de commissie dienen vooraf bij de voorzitter te worden aangemeld. De voorzitter kan vertegenwoordigers van bij de bouw betrokken organisaties die niet aan het overlegplatform deelnemen toelaten tot de bijeenkomsten van de commissie.
 
 3. De voorzitter van de commissie wordt aangewezen door de Directeur-Generaal Wonen en Bouwen van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
@@ -160,7 +160,7 @@ Besluit:
 
 ##### Artikel 5. Geheimhouding
 
-Een ieder die betrokken is bij de werkzaamheden van het overlegplatform, de daaronder ressorterende commissie, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035847&artikel=4&z=2014-12-05&g=2014-12-05), of de hieruit voortkomende ad hoc werkgroepen, en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding van die gegevens, behoudens voorzover enig wettelijk voorschrift hem tot mededeling verplicht of uit zijn taak bij deze werkzaamheden de noodzaak tot mededeling voortvloeit.
+Een ieder die betrokken is bij de werkzaamheden van het overlegplatform, de daaronder ressorterende commissie, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035847&artikel=4&z=2024-01-01&g=2024-01-01), of de hieruit voortkomende ad hoc werkgroepen, en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding van die gegevens, behoudens voorzover enig wettelijk voorschrift hem tot mededeling verplicht of uit zijn taak bij deze werkzaamheden de noodzaak tot mededeling voortvloeit.
 
 ##### Artikel 6. Intrekking eerder besluit
 
