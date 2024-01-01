@@ -4,7 +4,7 @@ identifier: "BWBR0031688"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-05"
-last_updated: "2018-08-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031688"
 soort: "ministeriele-regeling"
@@ -46,11 +46,11 @@ In deze Planningsregeling wordt onder transplantatie van hematopoietische stamce
 
 ##### Artikel 2
 
-De omvang van de behoefte aan het aantal centra waar hematopoietische stamceltransplantaties plaatsvinden en de wijze waarop in deze behoefte kan worden voorzien, zijn neergelegd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031688&bijlage=1&z=2018-08-01&g=2018-08-01).
+De omvang van de behoefte aan het aantal centra waar hematopoietische stamceltransplantaties plaatsvinden en de wijze waarop in deze behoefte kan worden voorzien, zijn neergelegd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031688&bijlage=1&z=2024-06-05&g=2024-01-01).
 
 ##### Artikel 3
 
-De voorschriften behorend bij een vergunning voor hematopoietische stamceltransplantaties zijn neergelegd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031688&bijlage=2&z=2018-08-01&g=2018-08-01).
+De voorschriften behorend bij een vergunning voor hematopoietische stamceltransplantaties zijn neergelegd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031688&bijlage=2&z=2024-06-05&g=2024-01-01).
 
 ##### Artikel 4
 
