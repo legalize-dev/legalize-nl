@@ -4,7 +4,7 @@ identifier: "BWBR0042476"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-01-01"
-last_updated: "2023-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042476"
 soort: "zbo"
@@ -52,27 +52,25 @@ Vervallen
 
 ##### Artikel 3. Preliminaire vaststelling van enkele syllabi ten behoeve van de examenjaren 2022 en 2023
 
-1. Vervallen.
-
-2. Er wordt een syllabus vastgesteld voor de centrale examens in het vwo ten behoeve van het examenjaar 2023 voor het vak vermeld in [bijlage 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&bijlage=3b&z=2023-01-01&g=2023-01-01) bij deze regeling, welk vak na bekendmaking deel uitmaakt van deze regeling.
+Vervallen
 
 ##### Artikel 4. Bekendmaking
 
 1. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-2. De syllabi bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&artikel=1&z=2023-01-01&g=2023-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&artikel=2&z=2023-01-01&g=2023-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&artikel=3&z=2023-01-01&g=2023-01-01) worden bekendgemaakt op www.examenblad.nl.
+2. De syllabi bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&artikel=1&z=2024-01-01&g=2024-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&artikel=2&z=2024-01-01&g=2024-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&artikel=3&z=2024-01-01&g=2024-01-01) worden bekendgemaakt op www.examenblad.nl.
 
 ##### Artikel 5. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt:
 
-- 1. betreffende [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&artikel=1&z=2023-01-01&g=2023-01-01) en de daarbij behorende [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&bijlage=1a&z=2023-01-01&g=2023-01-01): per 1 januari 2022;
+- 1. betreffende [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&artikel=1&z=2024-01-01&g=2024-01-01) en de daarbij behorende [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&bijlage=1a&z=2024-01-01&g=2024-01-01): per 1 januari 2022;
 
-- 2. betreffende [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&artikel=2&z=2023-01-01&g=2023-01-01) en de daarbij behorende [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&bijlage=2&z=2023-01-01&g=2023-01-01): per 1 januari 2021;
+- 2. betreffende [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&artikel=2&z=2024-01-01&g=2024-01-01) en de daarbij behorende [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&bijlage=2&z=2024-01-01&g=2024-01-01): per 1 januari 2021;
 
-- 3.1. betreffende [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&artikel=3&z=2023-01-01&g=2023-01-01) en de daarbij behorende [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&bijlage=3a&z=2023-01-01&g=2023-01-01): per 1 januari 2023;
+- 3.1. betreffende [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&artikel=3&z=2024-01-01&g=2024-01-01) en de daarbij behorende [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&bijlage=3a&z=2024-01-01&g=2024-01-01): per 1 januari 2023;
 
-- 3.2. betreffende [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&artikel=3&z=2023-01-01&g=2023-01-01) en de daarbij behorende [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&bijlage=3b&z=2023-01-01&g=2023-01-01): per 1 januari 2024.
+- 3.2. betreffende [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&artikel=3&z=2024-01-01&g=2024-01-01) en de daarbij behorende [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0042476&bijlage=3b&z=2024-01-01&g=2024-01-01): per 1 januari 2024.
 
 ##### Artikel 6. Citeertitel
 
@@ -100,10 +98,4 @@ Vervallen
 
 ## Bijlage 3b. Preliminaire vaststelling syllabus 2023
 
-**(Bijlage als bedoeld in artikel 3 tweede lid Regeling syllabi centrale examens vo 2021)**
-
-| **vwo** |
-| --- |
-| Voor de centrale examens vwo 2023 wordt een syllabus voor het volgende vak vastgesteld: |
-|   |
-| economie |
+Vervallen
