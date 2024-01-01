@@ -4,7 +4,7 @@ identifier: "BWBR0025870"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2021-09-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025870"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 - g. **donor:** natuurlijke persoon bij wie een orgaan verwijderd gaat worden, verwijderd wordt of verwijderd is in het kader van een donatie;
 
-- h. **peiljaar:** het kalenderjaar onmiddellijk voorafgaande aan het jaar waarin de donatie wordt uitgevoerd of, indien de belastbare inkomsten in dat jaar lager waren dan het minimumloon, bedoeld in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8), vijf kalenderjaren onmiddellijk voorafgaande aan het jaar waarin de donatie wordt uitgevoerd.
+- h. **peiljaar:** het kalenderjaar onmiddellijk voorafgaande aan het jaar waarin de donatie wordt uitgevoerd of, indien de belastbare inkomsten in dat jaar lager waren dan het minimumloon, bedoeld in [artikel 8, eerste lid, onderdeel b, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8), vijf kalenderjaren onmiddellijk voorafgaande aan het jaar waarin de donatie wordt uitgevoerd.
 
 ##### Artikel 2
 
@@ -142,7 +142,7 @@ In afwijking van het tweede lid, onderdeel a, wordt in geval van een subsidie be
 
 2. De aanvraag van de subsidie wordt ingediend uiterlijk een jaar na ontslag uit het ziekenhuis waar de donatie is uitgevoerd, dan wel, in geval de donatie niet is uitgevoerd, uiterlijk een jaar nadat de eerste kosten zijn gemaakt waarvoor de subsidie wordt aangevraagd.
 
-3. De aanvraag gaat vergezeld van een subsidiedeclaratie die een zodanig inzicht geeft dat een verantwoord oordeel kan worden gevormd omtrent de werkelijke kosten, met uitzondering van de kosten, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=4&z=2021-09-01&g=2021-09-01), en ontvangen bijdragen in de kosten.
+3. De aanvraag gaat vergezeld van een subsidiedeclaratie die een zodanig inzicht geeft dat een verantwoord oordeel kan worden gevormd omtrent de werkelijke kosten, met uitzondering van de kosten, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=4&z=2024-01-01&g=2024-01-01), en ontvangen bijdragen in de kosten.
 
 4. De subsidiedeclaratie geeft de nodige informatie om de subsidie vast te stellen, onder meer ten aanzien van de bijdragen in de kosten die de donor heeft kunnen ontvangen of kan ontvangen.
 
@@ -184,13 +184,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 7a
 
-1. Onverminderd [artikel 4, tweede lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=4&z=2021-09-01&g=2021-09-01), kan de minister de subsidie verhogen indien de gederfde inkomsten, berekend overeenkomstig artikel 4, eerste lid, onder a, over het peiljaar lager zijn dan de gederfde inkomsten, berekend overeenkomstig artikel 4, eerste lid, onder a, over het jaar waarin de donatie wordt uitgevoerd.
+1. Onverminderd [artikel 4, tweede lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=4&z=2024-01-01&g=2024-01-01), kan de minister de subsidie verhogen indien de gederfde inkomsten, berekend overeenkomstig artikel 4, eerste lid, onder a, over het peiljaar lager zijn dan de gederfde inkomsten, berekend overeenkomstig artikel 4, eerste lid, onder a, over het jaar waarin de donatie wordt uitgevoerd.
 
-2. De verhoging is het verschil tussen de gederfde inkomsten, berekend overeenkomstig [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=4&z=2021-09-01&g=2021-09-01), over het jaar waarin de donatie wordt uitgevoerd en de gederfde inkomsten, berekend overeenkomstig artikel 4, eerste lid, onder a, over het peiljaar.
+2. De verhoging is het verschil tussen de gederfde inkomsten, berekend overeenkomstig [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=4&z=2024-01-01&g=2024-01-01), over het jaar waarin de donatie wordt uitgevoerd en de gederfde inkomsten, berekend overeenkomstig artikel 4, eerste lid, onder a, over het peiljaar.
 
 3. Bij de berekening van de gederfde inkomsten per week over het jaar waarin de donatie wordt uitgevoerd, blijft de tijd voor de voorbereiding van, de uitvoering van en het herstel na de donatie buiten beschouwing.
 
-4. De verhoging kan ook worden verstrekt indien de subsidie reeds is vastgesteld. De [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=5&z=2021-09-01&g=2021-09-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=6&z=2021-09-01&g=2021-09-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=7&z=2021-09-01&g=2021-09-01) zijn van overeenkomstige toepassing, met dien verstande dat de termijn, bedoeld in artikel 5, tweede lid, twee jaar bedraagt.
+4. De verhoging kan ook worden verstrekt indien de subsidie reeds is vastgesteld. De [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=5&z=2024-01-01&g=2024-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=6&z=2024-01-01&g=2024-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=7&z=2024-01-01&g=2024-01-01) zijn van overeenkomstige toepassing, met dien verstande dat de termijn, bedoeld in artikel 5, tweede lid, twee jaar bedraagt.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
