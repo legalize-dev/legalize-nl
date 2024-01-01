@@ -4,7 +4,7 @@ identifier: "BWBR0033784"
 country: "nl"
 rank: "pbo"
 publication_date: "2024-01-01"
-last_updated: "2023-06-21"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033784"
 soort: "pbo"
@@ -60,7 +60,7 @@ In deze verordening wordt verstaan onder:
 
 - d. vaststelling van de begroting van de NBA voor het komende boekjaar, alsmede zo nodig van een aanvullende begroting voor het lopende boekjaar;
 
-- e. vaststelling van de verordeningen, bedoeld in [artikel 30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=30);
+- e. het bestuursverslag als bedoeld in [artikel 1a van de Verordening op het bestuur](onbekend);
 
 - f. benoeming uit de leden van een accountant, die belast is met de controle op de financiële verantwoording, benevens een plaatsvervanger voor deze;
 
@@ -78,7 +78,7 @@ In deze verordening wordt verstaan onder:
 
 ##### Artikel 4
 
-In het geval benoemingen, in ieder geval die als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033784&hoofdstuk=2&artikel=2&z=2023-06-21&g=2023-06-21), door de ledenvergadering moeten geschieden, meldt het bestuur dit ten minste negen weken voor de datum van de betreffende bijeenkomst van de ledenvergadering aan de leden.
+In het geval benoemingen, in ieder geval die als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033784&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01), door de ledenvergadering moeten geschieden, meldt het bestuur dit ten minste negen weken voor de datum van de betreffende bijeenkomst van de ledenvergadering aan de leden.
 
 ##### Artikel 5
 
