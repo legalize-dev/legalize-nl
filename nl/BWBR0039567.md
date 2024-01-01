@@ -4,7 +4,7 @@ identifier: "BWBR0039567"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2021-07-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039567"
 soort: "AMvB"
@@ -144,7 +144,7 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking to
 
 ##### Artikel 7
 
-Het bevoegd gezag, bedoeld in [artikel 1.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=1.1), heeft tot taak zorg te dragen voor de bestuursrechtelijke handhaving van hetgeen bepaald bij of krachtens [artikel 5, onderdelen d, f, g, voor zover het vaste tankpunten betreft, en h tot en met j](https://wetten.overheid.nl/jci1.3:c:BWBR0039567&artikel=5&z=2021-07-01&g=2021-07-01).
+Het bestuursorgaan waarbij de bestuursrechtelijke handhavingstaak berust op grond van [artikel 18.2 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=18.2), heeft tot taak zorg te dragen voor de bestuursrechtelijke handhaving van hetgeen bepaald bij of krachtens [artikel 5, onderdelen d, f, g, voor zover het vaste tankpunten betreft, en h tot en met j](https://wetten.overheid.nl/jci1.3:c:BWBR0039567&artikel=5&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 8
 
