@@ -4,7 +4,7 @@ identifier: "BWBR0046010"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2023-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046010"
 soort: "AMvB"
@@ -100,11 +100,9 @@ Het [Besluit beperking rechtsbijstand bij overtredingen](https://wetten.overheid
 
 Wijzigt het Besluit kwaliteit leefomgeving.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XIV. Overgangsrecht
 
-De [artikelen 23a, eerste lid, van de Penitentiaire maatregel](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&artikel=23a), [50a, eerste lid, van het Reglement justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&artikel=50a) en [35a, eerste lid, van het Reglement verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&artikel=35a), zoals zij luidden voor inwerkingtreding van de [artikelen VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0046010&artikel=VIII&z=2023-01-01&g=2023-01-01), [X](https://wetten.overheid.nl/jci1.3:c:BWBR0046010&artikel=X&z=2023-01-01&g=2023-01-01) en [XI](https://wetten.overheid.nl/jci1.3:c:BWBR0046010&artikel=XI&z=2023-01-01&g=2023-01-01) van dit besluit, blijven van toepassing op telefoongesprekken die zijn opgenomen voor het moment van inwerkingtreding van dit besluit.
+De [artikelen 23a, eerste lid, van de Penitentiaire maatregel](https://wetten.overheid.nl/jci1.3:c:BWBR0009398&artikel=23a), [50a, eerste lid, van het Reglement justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&artikel=50a) en [35a, eerste lid, van het Reglement verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008690&artikel=35a), zoals zij luidden voor inwerkingtreding van de [artikelen VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0046010&artikel=VIII&z=2024-01-01&g=2024-01-01), [X](https://wetten.overheid.nl/jci1.3:c:BWBR0046010&artikel=X&z=2024-01-01&g=2024-01-01) en [XI](https://wetten.overheid.nl/jci1.3:c:BWBR0046010&artikel=XI&z=2024-01-01&g=2024-01-01) van dit besluit, blijven van toepassing op telefoongesprekken die zijn opgenomen voor het moment van inwerkingtreding van dit besluit.
 
 ##### Artikel XV. Inwerkingtreding
 
