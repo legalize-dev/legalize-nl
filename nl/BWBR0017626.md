@@ -4,7 +4,7 @@ identifier: "BWBR0017626"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2017-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017626"
 soort: "AMvB"
@@ -65,7 +65,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Onze Minister kan ontheffing verlenen van de eisen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=2&artikel=2&z=2017-01-01&g=2017-01-01).
+1. Onze Minister kan ontheffing verlenen van de eisen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=2&artikel=2&z=2024-01-01&g=2024-01-01).
 
 2. De beheerder legt bij zijn aanvraag voor een ontheffing de bescheiden over en verstrekt de inlichtingen die Onze Minister noodzakelijk acht.
 
@@ -159,25 +159,7 @@ Vervallen
 
 ##### Artikel 21
 
-1. De begrenzing van de hoofdspoorweg en de daarnaast gelegen gronden wordt aan weerszijden gevormd door een lijn liggend op een afstand van:
-
-- a. elf meter bij een hoofdspoorweg op maaiveldniveau, gemeten vanaf het hart van het buitenste spoor, zijnde een denkbeeldige lijn in de lengterichting van het spoor midden tussen beide spoorstaven;
-
-- b. zes meter bij een hoofdspoorweg in ingraving, gemeten uit de bovenzijde van de ingraving;
-
-- c. zes meter bij een hoofdspoorweg in ophoging, gemeten uit de teen van het talud;
-
-- d. dertig meter bij een hoofdspoorweg in een tunnel, gemeten vanaf de buitenste wand van de tunnel;
-
-- e. dertig meter bij een hoofdspoorweg op een brug of op een viaduct, gemeten vanaf de buitenste rand van de constructie;
-
-- f. veertien meter bij een hoofdspoorweg gemeten vanaf het hart van het buitenste spoor, indien het betreft het hebben of opslaan van licht ontvlambare stoffen, bedoeld in [artikel 19, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=19).
-
-2. Indien bij een hoofdspoorweg in ingraving of in ophoging de afstand tussen het hart van het buitenste spoor en de bovenkant van de ingraving of teen van het talud minder bedraagt dan vijf meter, wordt de begrenzing vastgesteld overeenkomstig het eerste lid, onderdeel a.
-
-3. Bij besluit van Onze Minister kan, gehoord de beheerder, met het oog op de bescherming van de fysieke integriteit van de hoofdspoorwegen en in het belang van een veilig en ongestoord gebruik daarvan, een begrenzing worden vastgesteld die afwijkt van het eerste of tweede lid.
-
-4. In afwijking van het eerste lid, onderdeel a, wordt de begrenzing van een deel van de hoofdspoorwegen die uitsluitend bestemd zijn voor het verrichten van goederenvervoer ten behoeve van de lokale ontsluiting van haven- en industriegebieden, gevormd door een lijn liggend op een afstand van drie meter op maaiveldniveau, gemeten vanaf het hart van het buitenste spoor. Wanneer op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=2), of [124, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=124) een spoorweg wordt aangewezen als hoofdspoorweg, wordt daarbij bepaald of de hoofdspoorweg onder het bereik van dit lid valt.
+Vervallen
 
 ##### Artikel 22
 
