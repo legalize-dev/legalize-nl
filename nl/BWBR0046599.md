@@ -4,7 +4,7 @@ identifier: "BWBR0046599"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-05-01"
-last_updated: "2023-07-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046599"
 soort: "ministeriele-regeling"
@@ -75,6 +75,8 @@ In deze regeling wordt verstaan onder:
 - **eigenaar-bewoner:** natuurlijk persoon die een woning in eigendom heeft dan wel verkrijgt en daarin zijn hoofdverblijf heeft of zal hebben, dan wel de erfpachter, vruchtgebruiker of gerechtigde tot een appartementsrecht als bedoeld in [artikel 106 van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=106), voor zover deze rechten betrekking hebben op een woning;
 
 - **energielabelklasse:** energielabelklasse als bedoeld in [artikel 2.1, achtste lid, van het Besluit energieprestatie gebouwen](https://wetten.overheid.nl/jci1.3:c:BWBR0023734&artikel=2.1);
+
+- **EU-Richtlijn 2018/2001:** [Richtlijn (EU) 2018/2001](32018L2001) van het Europees Parlement en de Raad van 11 december 2018 ter bevordering van het gebruik van energie uit hernieuwbare bronnen (PbEU 2018, L 328);
 
 - **Groen Label Kas:** tuinbouwkas die wordt gebruikt voor het bedrijfsmatig telen van tuinbouwgewassen met een lagere milieubelasting en die in technische uitvoering overeenstemt met een tuinbouwkas die op grond van [artikel 3.31](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.31) of [3.42a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a) door de Minister van Infrastructuur en Waterstaat is aangewezen als bedrijfsmiddel dat in het belang is van het Nederlandse milieu;
 
@@ -204,7 +206,7 @@ De Minister van Infrastructuur en Waterstaat kan, in overeenstemming met de Mini
 
 De Minister van Infrastructuur en Waterstaat maakt de gegevens, bedoeld in bijlage III van de Algemene Groepsvrijstellingsverordening, de Landbouw Groepsvrijstellingsverordening en de Visserij Groepsvrijstellingsverordening, van de begunstigde openbaar in de volgende gevallen:
 
-- a. als met een project waarvoor een groenverklaring is verstrekt een financieel voordeel wordt behaald van meer dan € 500.000;
+- a. als met een project waarvoor een groenverklaring is verstrekt een financieel voordeel wordt behaald van meer dan € 100.000;
 
 - b. als met een project als bedoeld in projectcategorie 1 of de subcategorieën 2.1.1, voor zover het de productie van landbouwproducten betreft, 2.1.3, 2.1.4 of 2.1.6 van de bijlage waarvoor een groenverklaring is verstrekt een financieel voordeel wordt behaald van meer dan € 10.000;
 
@@ -222,7 +224,7 @@ De Minister van Infrastructuur en Waterstaat maakt de gegevens, bedoeld in bijla
 
 - d. niet wordt voldaan aan de voorschriften die in de groenverklaring zijn opgenomen; of
 
-- e. niet wordt voldaan aan [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0046599&hoofdstuk=5&artikel=10&z=2023-07-01&g=2023-07-01).
+- e. niet wordt voldaan aan [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0046599&hoofdstuk=5&artikel=10&z=2024-01-01&g=2024-01-01).
 
 2. Het besluit tot intrekking kan terugwerkende kracht hebben.
 
@@ -258,7 +260,7 @@ Deze regeling treedt in werking met ingang van 1 juni 2022.
 
 Deze regeling wordt aangehaald als: Regeling groenprojecten 2022.
 
-## Bijlage. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046599&hoofdstuk=2&artikel=2&z=2023-07-01&g=2023-07-01)
+## Bijlage. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046599&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01)
 
 ### Projectcategorie 1. Natuur
 
@@ -362,7 +364,7 @@ Categorie 3.1: Biobased
 
 Subcategorie 3.1.1: Productieapparatuur voor grondstoffen of producten op basis van biomassa
 
-Projectomschrijving: in gebruik nemen van productieapparatuur voor grondstoffen of producten op basis van biomassa bestemd voor het verwerken van duurzame biomassa tot biomassagrondstoffen of (onderdelen van) een product waarin biomassagrondstoffen zijn toegepast, mits het geen gangbare toepassing is, en waarbij:
+Projectomschrijving: in gebruik nemen van productieapparatuur voor grondstoffen of producten op basis van afvalstromen en bijproducten van duurzame biomassa bestemd voor het verwerken tot biomassagrondstoffen of (onderdelen van) een product waarin biomassagrondstoffen zijn toegepast, mits het geen gangbare toepassing is, en waarbij:
 
 Projectvermogen: geen bijzonderheden
 
@@ -375,18 +377,6 @@ Projectvermogen: geen bijzonderheden
 Categorie 3.2: Grondstofbesparing
 
 Subcategorie 3.2.1: Grondstof besparende productieapparatuur
-
-Projectomschrijving:
-
-Projectvermogen: geen bijzonderheden
-
-Subcategorie 3.2.2: Grondstof besparende industriële apparatuur
-
-Project omschrijving:
-
-Projectvermogen: geen bijzonderheden
-
-Subcategorie 3.2.3: Productieapparatuur voor duurzamere producten met terugnamegarantie
 
 Projectomschrijving:
 
@@ -444,7 +434,7 @@ Projectomschrijving: een project dat naar aard, toepassing en gebruik niet overe
 
 Projectvermogen: geen bijzonderheden
 
-### Projectcategorie 4. Duurzame energie
+Subcategorie 3.4.4: Apparatuur voor het chemisch verwerken van afvalstoffen
 
 Categorie 4.1: Opwekken van duurzame energie
 
@@ -456,13 +446,13 @@ Projectvermogen: een groenverklaring wordt in ieder geval niet afgegeven op aanv
 
 Subcategorie 4.1.2: Fotovoltaïsche cellen
 
-Projectomschrijving:
+### Projectcategorie 4. Duurzame energie
 
 Projectvermogen: een groenverklaring wordt in ieder geval niet afgegeven op aanvragen voor projecten binnen deze subcategorie indien de steun meer bedraagt dan € 15.000.000 per onderneming per investeringsproject.
 
 Subcategorie 4.1.3: Zonnecollectoren
 
-Projectomschrijving: gebruik van thermische zonne-energie door middel van zonnecollectoren, eventueel in combinatie met een warmtepomp als bedoeld in subcategorie 4.1.4.
+Projectomschrijving: gebruik van thermische zonne-energie door middel van nieuwe of gebruikte zonnecollectoren, eventueel in combinatie met een warmtepomp als bedoeld in subcategorie 4.1.4.
 
 Projectvermogen: een groenverklaring wordt in ieder geval niet afgegeven op aanvragen voor projecten binnen deze subcategorie indien de steun meer bedraagt dan € 15.000.000 per onderneming per investeringsproject.
 
@@ -496,7 +486,7 @@ Projectvermogen: een groenverklaring wordt in ieder geval niet afgegeven voor pr
 
 Subcategorie 4.1.8: Biogasopwaardeerinstallatie
 
-Project omschrijving: realiseren van een biogasopwaardeerinstallatie, bestemd voor het produceren van gas van aardgasnetkwaliteit, waarbij uitsluitend uit biomassa of uit mest verkregen gassen als energie-input dienen, met uitzondering van installaties die worden gebruikt voor de productie van biobrandstoffen op basis van voedingsgewassen of waarvoor een leverings- of bijmengverplichting geldt.
+Projectomschrijving: realiseren van een biogasopwaardeerinstallatie, bestemd voor het produceren van gas van aardgasnetkwaliteit, waarbij uitsluitend biogas uit grondstoffen als bedoeld in Annex IX, deel A, bij [Richtlijn (EU) 2018/2001](32018L2001) als grondstof dient en een mogelijke opslagcomponent op jaarbasis ten minste 75% van zijn brandstofinhoud rechtstreeks uit de installatie haalt.
 
 Projectvermogen: een groenverklaring wordt in ieder geval niet afgegeven voor projecten binnen deze subcategorie indien de steun meer bedraagt dan € 15.000.000 per onderneming per investeringsproject.
 
@@ -540,7 +530,7 @@ Projectomschrijving: uitkoppelen bij de bron en het transporteren van afvalwarmt
 
 Projectvermogen: geen bijzonderheden
 
-### Projectcategorie 5. Duurzaam bouwen
+Subcategorie 4.3.2: Koelen en vriezen
 
 Categorie 5.1: Nieuwbouw woningen
 
@@ -552,7 +542,7 @@ Categorie 5.2: Herbestemming
 
 Subcategorie 5.2.1: Herbestemming tot woningen
 
-Projectomschrijving: door herbestemming van gebouwen zonder woonfunctie realiseren van nieuwe woningen, waarbij, indien hout wordt toegepast, uitsluitend gebruik wordt gemaakt van duurzaam geproduceerd hout en waarvan de energielabelklasse na de herbestemming energielabelklasse A of beter is.
+### Projectcategorie 5. Duurzaam bouwen
 
 Projectvermogen: voor een groenverklaring komt in aanmerking een bedrag van € 1.250 per vierkante meter bruto vloeroppervlak van het gedeelte van een pand met woonbestemming, tot een maximum van € 125.000 per gerealiseerde woning.
 
@@ -562,17 +552,13 @@ Projectomschrijving: door herbestemming van gebouwen zonder woonfunctie en met d
 
 Projectvermogen: voor een groenverklaring komt in aanmerking een bedrag van € 1.250 per vierkante meter bruto vloeroppervlak van het gedeelte van een pand met woonbestemming, tot een maximum van € 125.000 per gerealiseerde woning.
 
-Categorie 5.3: Renovatie woningen door eigenaar-bewoner
+Categorie 5.3: Renovatie woningen door eigenaar of bewoner
 
-Projectomschrijving: renoveren van bestaande woningen door de eigenaar-bewoner, waarbij indien hout wordt toegepast, uitsluitend gebruik wordt gemaakt van duurzaam geproduceerd hout en waarbij energiebesparende maatregelen worden toegepast, die leiden tot een verbetering van de energielabelklasse van de woning:
-
-Projectvermogen: op een project als bedoeld in deze categorie is de volgende tabel van toepassing:
-
-Categorie 5.4: Renovatie woningen door derden
-
-Projectomschrijving: renoveren van bestaande woningen door anderen dan de eigenaar-bewoner, waarbij indien hout wordt toegepast, uitsluitend gebruik wordt gemaakt van duurzaam geproduceerd hout en waarbij energiebesparende maatregelen worden toegepast, die leiden tot een verbetering van de energielabelklasse van de woning:
+Projectomschrijving: renoveren van bestaande woningen door de eigenaar of eigenaren van het gebouw of de huurder of huurders, waarbij indien hout wordt toegepast, uitsluitend gebruik wordt gemaakt van duurzaam geproduceerd hout en waarbij energiebesparende maatregelen worden toegepast, die leiden tot een verbetering van de energielabelklasse van de woning:
 
 Projectvermogen: op een project als bedoeld in deze categorie is de volgende tabel van toepassing:
+
+Categorie 5.4: Vervallen.
 
 Categorie 5.5: Nieuwbouw utiliteitsgebouwen
 
@@ -598,7 +584,7 @@ Projectomschrijving:
 
 Projectvermogen: een project als bedoeld in deze categorie, komt voor een groenverklaring in aanmerking maximaal € 450 per vierkante meter bruto vloeroppervlak.
 
-### Projectcategorie 6. Duurzame mobiliteit
+Projectomschrijving:
 
 Categorie 6.1: Niet-railgebonden duurzame voertuigen
 
@@ -608,13 +594,13 @@ Projectvermogen: geen bijzonderheden
 
 Categorie 6.2: Duurzame binnenvaartschepen
 
-Project omschrijving: aanschaf van duurzame binnenvaartschepen die voorzien zijn van een dieselelektrisch, batterijelektrisch of brandstofcelsysteem voor de voortstuwing, of uitsluitend varen op waterstof, (bio-)LNG of (bio-)CNG of een combinatie van voornoemde technieken of brandstoffen, met dien verstande dat bij gebruik van (bio-)LNG of (bio-)CNG als brandstof wordt aangetoond dat de methaanslip niet hoger is dan 3 gram per kWh.
+Projectomschrijving: aanschaf of ombouw (retrofit) van duurzame binnenvaartschepen die voorzien zijn van een dieselelektrisch-, batterij-elektrisch- of brandstofcelsysteem voor de voortstuwing.
 
-Projectvermogen: geen bijzonderheden
+Projectvermogen: geen bijzonderheden.
 
 Categorie 6.3: Mobiele werktuigen
 
-Projectomschrijving:
+### Projectcategorie 6. Duurzame mobiliteit
 
 Projectvermogen: wanneer het gaat om met de primaire landbouwproductie verband houdende investeringen in materiële of immateriële activa op landbouwbedrijven wordt een aanvraag in deze categorie niet afgegeven indien het bruto-subsidie-equivalent meer bedraagt dan € 600.000 per onderneming per investeringsproject.
 
@@ -642,7 +628,7 @@ Projectomschrijving:
 
 Projectvermogen: het projectvermogen is beperkt tot de kosten voor de aanschaf van het koelsysteem.
 
-### Projectcategorie 7. Klimaatadaptatie
+Projectomschrijving:
 
 Categorie 7.1: Retentiegebied
 
@@ -657,6 +643,22 @@ Projectomschrijving:
 Projectvermogen: een groenverklaring wordt in ieder geval niet afgegeven voor projecten binnen deze categorie indien de steun meer bedraagt dan € 15.000.000 per onderneming per investeringsproject.
 
 Categorie 7.3: Innovatieve koeling van gebouwen
+
+### Projectcategorie 7. Klimaatadaptatie
+
+Projectvermogen: een groenverklaring wordt in ieder geval niet afgegeven op aanvragen voor projecten binnen deze categorie indien de steun meer bedraagt dan € 15.000.000 per onderneming per investeringsproject.
+
+Categorie 7.4: Vegetatiedaken
+
+Projectomschrijving: aanleg van vegetatiedaken of groene gevels in stedelijk gebied, al dan niet in combinatie met voorzieningen ter bevordering van de biodiversiteit.
+
+Projectvermogen: een groenverklaring wordt in ieder geval niet afgegeven op aanvragen voor projecten binnen deze subcategorie indien de steun meer bedraagt dan € 15.000.000 per onderneming per investeringsproject.
+
+Categorie 7.5: Verhogen grondwater in veenweidegebieden
+
+Projectomschrijving:
+
+Projectvermogen: een groenverklaring wordt in ieder geval niet afgegeven op aanvragen voor projecten binnen deze subcategorie indien de steun meer bedraagt dan € 600.000 per onderneming per investeringsproject.
 
 Projectomschrijving:
 
@@ -673,5 +675,23 @@ Categorie 7.5: Verhogen grondwater in veenweidegebieden
 Projectomschrijving:
 
 Projectvermogen: een groenverklaring wordt in ieder geval niet afgegeven op aanvragen voor projecten binnen deze subcategorie indien de steun meer bedraagt dan € 600.000 per onderneming per investeringsproject.
+
+Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
+
+### Projectcategorie 4. Duurzame energie
+
+Projectomschrijving:
+
+### Projectcategorie 5. Duurzaam bouwen
+
+Projectomschrijving: door herbestemming van gebouwen zonder woonfunctie realiseren van nieuwe woningen, waarbij, indien hout wordt toegepast, uitsluitend gebruik wordt gemaakt van duurzaam geproduceerd hout en waarvan de energielabelklasse na de herbestemming energielabelklasse A of beter is.
+
+### Projectcategorie 6. Duurzame mobiliteit
+
+Projectomschrijving:
+
+### Projectcategorie 7. Klimaatadaptatie
+
+Projectomschrijving:
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
