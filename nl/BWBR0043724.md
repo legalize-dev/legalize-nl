@@ -4,7 +4,7 @@ identifier: "BWBR0043724"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2020-07-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043724"
 soort: "ministeriele-regeling"
@@ -66,7 +66,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Radiodekkingslocaties
 
-1. Een bouwwerk is een verplichte radiodekkingslocatie indien de verplichting tot de aanleg en instandhouding van een voorziening voortvloeit uit, of door het bevoegd gezag wordt opgelegd op grond van, [artikel 6.40 van het Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461&artikel=6.40).
+1. Een bouwwerk is een verplichte radiodekkingslocatie indien de verplichting tot de aanleg en instandhouding van een voorziening voortvloeit uit, of door het bevoegd gezag wordt opgelegd op grond van, [artikel 4.229 van het Besluit Bouwwerken Leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=4.229).
 
 2. Een bouwwerk is een vrijwillige radiodekkingslocatie indien de minister met een verzoek hiertoe heeft ingestemd. Een verzoek om in het betreffende bouwwerk een voorziening te mogen aanbrengen en in stand houden, kan worden ingediend door:
 
