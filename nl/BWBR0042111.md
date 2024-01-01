@@ -4,7 +4,7 @@ identifier: "BWBR0042111"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2021-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042111"
 soort: "wet"
@@ -77,7 +77,9 @@ Wijzigt de Wet bescherming oorspronkelijke topografieën van halfgeleiderprodukt
 
 ##### Artikel VII. Tijdelijke delegatiegrondslag met betrekking tot socialezekerheidswetten
 
-Dit onderdeel is nog niet inwerking getreden
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2023/417.
+
+Vervallen.
 
 ### Hoofdstuk 5. Ministerie van Volksgezondheid, Welzijn en Sport
 
