@@ -4,7 +4,7 @@ identifier: "BWBR0042967"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2020-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042967"
 soort: "wet"
@@ -82,8 +82,6 @@ Wijzigt het Besluit omgevingsrecht.
 ##### Artikel IX
 
 Wijzigt de Omgevingswet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IXa
 
