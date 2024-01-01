@@ -4,7 +4,7 @@ identifier: "BWBR0044749"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2021-03-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044749"
 soort: "wet"
@@ -51,8 +51,6 @@ Wijzigt de Algemene wet bestuursrecht.
 
 Wijzigt de Omgevingswet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel III. ([Plantgezondheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043194))
 
 Wijzigt de Plantgezondheidswet.
@@ -64,8 +62,6 @@ Wijzigt de Wet dieren.
 ##### Artikel V. ([Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245))
 
 Wijzigt de Wet milieubeheer.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VI. ([Wet natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0037552))
 
@@ -82,8 +78,6 @@ Wijzigt de Wet rechtskracht Structuurschema groene ruimte.
 ##### Artikel IX. ([Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804))
 
 Wijzigt de Wet wapens en munitie.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel X. (inwerkingtreding)
 
