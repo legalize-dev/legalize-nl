@@ -4,7 +4,7 @@ identifier: "BWBR0047617"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2023-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047617"
 soort: "ministeriele-regeling"
@@ -65,5 +65,11 @@ Dit besluit treedt in werking met ingang van 1 januari 2023.
 ##### Artikel 4
 
 Dit besluit wordt aangehaald als: Geïntegreerde Aanwijzing 2023-2026.
+
+Dit besluit wordt met de toelichting in de Staatscourant geplaatst.
+
+## Bijlage
+
+De bijlage is niet openbaar.
 
 Dit besluit wordt met de toelichting in de Staatscourant geplaatst.
