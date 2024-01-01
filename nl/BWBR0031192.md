@@ -4,7 +4,7 @@ identifier: "BWBR0031192"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2012-04-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031192"
 soort: "ministeriele-regeling"
@@ -44,17 +44,17 @@ Besluit:
 
 Voor deelname aan het examen of de proeve van bekwaamheid dan wel een gedeelte daarvan als bedoeld in [artikel 23a van de Rijksoctrooiwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=23a), is verschuldigd:
 
-- a. € 450,00 voor toetsing aan het vereiste van [artikel 27d, eerste lid, onderdeel a, van het Uitvoeringsbesluit Rijksoctrooiwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&artikel=27d), voor het onderdeel Octrooirecht;
+- a. € 575,00 voor toetsing aan het vereiste van [artikel 27d, eerste lid, onderdeel a, van het Uitvoeringsbesluit Rijksoctrooiwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&artikel=27d), voor het onderdeel Octrooirecht;
 
-- b. € 450,00 voor toetsing aan het vereiste van [artikel 27d, eerste lid, onderdeel a, van het Uitvoeringsbesluit Rijksoctrooiwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&artikel=27d), voor het onderdeel Overige intellectuele eigendomsrechten, mededingingsrecht en Europees recht;
+- b. € 575,00 voor toetsing aan het vereiste van [artikel 27d, eerste lid, onderdeel a, van het Uitvoeringsbesluit Rijksoctrooiwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&artikel=27d), voor het onderdeel Overige intellectuele eigendomsrechten, mededingingsrecht en Europees recht;
 
-- c. € 525,00 voor toetsing aan het vereiste van [artikel 27d, eerste lid, onderdeel b, van het Uitvoeringsbesluit Rijksoctrooiwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&artikel=27d), voor het onderdeel Praktische vaardigheden A Opstellen van een octrooiaanvrage;
+- c. € 655,00 voor toetsing aan het vereiste van [artikel 27d, eerste lid, onderdeel b, van het Uitvoeringsbesluit Rijksoctrooiwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&artikel=27d), voor het onderdeel Praktische vaardigheden A Opstellen van een octrooiaanvrage;
 
-- d. € 525,00 voor toetsing aan het vereiste van [artikel 27d, eerste lid, onderdeel b, van het Uitvoeringsbesluit Rijksoctrooiwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&artikel=27d), voor het onderdeel Praktische vaardigheden B Verdedigen van een octrooiaanvrage;
+- d. € 655,00 voor toetsing aan het vereiste van [artikel 27d, eerste lid, onderdeel b, van het Uitvoeringsbesluit Rijksoctrooiwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&artikel=27d), voor het onderdeel Praktische vaardigheden B Verdedigen van een octrooiaanvrage;
 
-- e. € 775,00 voor toetsing aan het vereiste van [artikel 27d, eerste lid, onderdeel b, van het Uitvoeringsbesluit Rijksoctrooiwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&artikel=27d), voor het onderdeel Praktische vaardigheden C Schrijven van een advies;
+- e. € 845,00 voor toetsing aan het vereiste van [artikel 27d, eerste lid, onderdeel b, van het Uitvoeringsbesluit Rijksoctrooiwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&artikel=27d), voor het onderdeel Praktische vaardigheden C Schrijven van een advies;
 
-- f. € 450,00 voor toetsing aan het vereiste van [artikel 27d, eerste lid, onderdeel c, van het Uitvoeringsbesluit Rijksoctrooiwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&artikel=27d).
+- f. € 575,00 voor toetsing aan het vereiste van [artikel 27d, eerste lid, onderdeel c, van het Uitvoeringsbesluit Rijksoctrooiwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007246&artikel=27d).
 
 ##### Artikel 2
 
