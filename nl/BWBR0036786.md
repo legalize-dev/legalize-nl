@@ -4,7 +4,7 @@ identifier: "BWBR0036786"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2017-04-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036786"
 soort: "ministeriele-regeling"
@@ -51,6 +51,18 @@ Treedt in werking op het tijdstip waarop de Regeling windenergie op zee 2015 in 
 3. Bij de beoordeling of de bouw van een windpark gestart kan worden binnen vier jaar na de datum waarop de vergunning onherroepelijk is geworden, wordt rekening gehouden met het door de aanvrager verstrekte tijdschema, bedoeld in [artikel 56, vierde lid, onderdeel f, van het Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=56) en het door de aanvrager overgelegde projectplan, bedoeld in [artikel 2c, onderdeel d, van de Algemene uitvoeringsregeling stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=2c).
 
 4. Bij de beoordeling of de bouw en exploitatie van een windpark economisch haalbaar is, wordt rekening gehouden met de door de aanvrager overgelegde haalbaarheidsstudie, bedoeld in [artikel 2a, eerste lid, van de Algemene uitvoeringsregeling stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=2a).
+
+5. Bij de beoordeling of de bouw en exploitatie van een windpark financieel haalbaar en economisch haalbaar is, kan rekening worden gehouden met de door de aanvrager overgelegde informatie ten aanzien van de zeggenschap over de aanvrager en de daaraan verbonden mogelijke risico’s voor de openbare veiligheid, voorzieningszekerheid of leveringszekerheid.
+
+6. Bij het overleggen van informatie als bedoeld in het vijfde lid, wordt overlegd:
+
+- a. de huidige vormgeving van de zeggenschap van de aanvrager en indien de aanvrager een samenwerkingsverband betreft van elke deelnemer aan het samenwerkingsverband;
+
+- b. de intentie van de aanvrager en de achterliggende strategie van de aanvrager en indien de aanvrager een samenwerkingsverband betreft van elke deelnemer aan het samenwerkingsverband; en
+
+- c. de geleverde prestaties in het verleden van de aanvrager in de branche voor elektriciteitsproductie en indien de aanvrager een samenwerkingsverband betreft van elke deelnemer aan het samenwerkingsverband.
+
+7. Indien de door de aanvrager verstrekte informatie onvoldoende is voor de beoordeling, bedoeld in het vijfde lid, verstrekt de aanvrager de door de Minister voor Klimaat en Energie gevraagde aanvullende informatie.
 
 ##### Artikel 2
 
