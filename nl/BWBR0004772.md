@@ -4,7 +4,7 @@ identifier: "BWBR0004772"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-12-12"
-last_updated: "2023-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004772"
 soort: "AMvB"
@@ -102,7 +102,7 @@ Vervallen
 
 ##### Artikel 8
 
-Het lichaam dat de mededeling, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=7&z=2023-01-01&g=2023-01-01) of [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=7a&z=2023-01-01&g=2023-01-01), doet, is gehouden aan de ontvanger:
+Het lichaam dat de mededeling, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=7&z=2024-01-01&g=2024-01-01) of [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=7a&z=2024-01-01&g=2024-01-01), doet, is gehouden aan de ontvanger:
 
 - a. de door deze gevraagde gegevens en inlichtingen te verstrekken die voor de vaststelling van de oorzaak van de betalingsonmacht, of voor de bepaling van de financiële positie van het lichaam van belang kunnen zijn;
 
@@ -110,7 +110,7 @@ Het lichaam dat de mededeling, bedoeld in [artikel 7](https://wetten.overheid.nl
 
 ##### Artikel 9
 
-1. Aan de verplichtingen, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=8&z=2023-01-01&g=2023-01-01), dient binnen een door de ontvanger te stellen redelijke termijn te worden voldaan.
+1. Aan de verplichtingen, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=8&z=2024-01-01&g=2024-01-01), dient binnen een door de ontvanger te stellen redelijke termijn te worden voldaan.
 
 2. De gegevens en inlichtingen dienen duidelijk, stellig en zonder voorbehoud te worden verstrekt, mondeling, schriftelijk of op andere wijze, zulks ter keuze van de ontvanger.
 
@@ -142,7 +142,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 9a
 
-[Artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=II&artikel=6&z=2023-01-01&g=2023-01-01), is van overeenkomstige toepassing ingeval zich een handeling of gebeurtenis voordoet op grond waarvan het verleende uitstel, bedoeld in [artikel 70b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=70b), wordt beëindigd.
+[Artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=II&artikel=6&z=2024-01-01&g=2024-01-01), is van overeenkomstige toepassing ingeval zich een handeling of gebeurtenis voordoet op grond waarvan het verleende uitstel, bedoeld in [artikel 70b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=70b), wordt beëindigd.
 
 ### Hoofdstuk IIIa. Overgangsbepaling
 
@@ -166,9 +166,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - f. na het ontstaan van de materiële belastingschuld vermogensbestanddelen van de belastingschuldige zijn overgegaan op een of meer natuurlijke personen of rechtspersonen en ten minste een van die natuurlijke personen, onderscheidenlijk rechtspersonen, buiten Nederland woont, onderscheidenlijk buiten Nederland is gevestigd.
 
-### Hoofdstuk III. Meldingsregeling bestuurdersaansprakelijkheid
+### Hoofdstuk IIa. Aansprakelijkheid van begunstigden
 
-### Hoofdstuk IV. Inwerkingtreding en citeertitel
+### Hoofdstuk IIIa. Overgangsbepaling
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
@@ -185,6 +185,22 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 ### Hoofdstuk III. Meldingsregeling bestuurdersaansprakelijkheid
 
 ### Hoofdstuk IIIa. Overgangsbepaling
+
+### Hoofdstuk IV. Inwerkingtreding en citeertitel
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
+
+##### Artikel 6ter
+
+1. Indien een aanvrager van een kinderopvangtoeslag en diens partner als bedoeld in [artikel 3 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=3) naar het oordeel van de Dienst Toeslagen in aanmerking komt voor toepassing van een herstelmaatregel als bedoeld in [artikel 2.7 van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.7) en dientengevolge de invordering is gepauzeerd, wordt invorderingsrente als bedoeld in [artikel 28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=28) of rente als bedoeld in [artikel 29 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=29) niet in rekening gebracht over de terug te vorderen bedragen van de aanvrager en diens partner die zien op de periode tot en met de dagtekening van de brief van de Dienst Toeslagen over het einde van de pauzering van de invordering.
+
+2. Indien een oordeel als bedoeld in het eerste lid ontbreekt wordt invorderingsrente als bedoeld in [artikel 28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=28) of rente als bedoeld in [artikel 29 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=29) niet in rekening gebracht indien een aanvrager van een kinderopvangtoeslag en diens partner als bedoeld in [artikel 3 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=3):
+
+- a. voor 1 maart 2023 een aanvraag heeft gedaan om toepassing van een herstelmaatregel als bedoeld in [artikel 2.7 van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.7), over de terug te vorderen bedragen van de aanvrager en diens partner die zien op de periode vanaf de datum van de aanvraag tot en met de dagtekening van de brief van de Dienst Toeslagen over het einde van de pauzering van de invordering;
+
+- b. vanaf 1 maart 2023 een aanvraag heeft gedaan om toepassing van een herstelmaatregel als bedoeld in [artikel 2.7 van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.7), over de terug te vorderen bedragen van de aanvrager en diens partner die zien op de periode vanaf de datum van de aanvraag tot en met 31 december 2020.
+
+### Hoofdstuk III. Meldingsregeling bestuurdersaansprakelijkheid
 
 ### Hoofdstuk IV. Inwerkingtreding en citeertitel
 
