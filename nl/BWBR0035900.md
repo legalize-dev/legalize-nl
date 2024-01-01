@@ -4,7 +4,7 @@ identifier: "BWBR0035900"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2021-10-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035900"
 soort: "ministeriele-regeling"
@@ -63,6 +63,8 @@ In deze regeling wordt verstaan onder:
 - **Mode S/ELS-transponder:** transponder voor secundaire surveillanceradar die beschikt over de in deel A van bijlage II bij Uitvoeringsverordening (EU) Nr. 1207/2011 van de Commissie van 22 november 2011 tot vaststelling van de eisen voor de prestaties en interoperabiliteit van surveillance voor het gemeenschappelijk Europese luchtruim vastgestelde functies;
 
 - **oefennadering:** met een vliegtuig uitvoeren van naderingsprocedures en procedures ter voorbereiding van een landing zonder dat deze procedures worden gevolgd door een landing waarbij de wielen het aardoppervlak raken, zulks in het kader van een vliegopleiding of het onderhoud van vliegvaardigheid;
+
+- **paramotortrike:** luchtvaartuig zonder starre hoofdstructuur, dat wordt gestart en geland door gebruik te maken van een wielconstructie en over een hulpmotor beschikt, met niet meer dan twee zitplaatsen en een maximum startmassa van niet meer dan: 300 kg voor een eenzitter; 450 kg voor een tweezitter;
 
 - **politievlucht:** vlucht uitgevoerd met een vliegtuig of helikopter in het kader van de politietaak, bedoeld in [artikel 3 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=3);
 
@@ -124,7 +126,7 @@ Ten aanzien van politievluchten en kustwachtvluchten gelden de volgende regels, 
 
 ##### Artikel 2.4. Buitenlandse luchtvaartuigen
 
-De [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035900&hoofdstuk=2&artikel=2.1&z=2021-10-01&g=2021-10-01) en [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035900&hoofdstuk=2&artikel=2.2&z=2021-10-01&g=2021-10-01) zijn van overeenkomstige toepassing op een politievlucht uitgevoerd door de bevoegde autoriteit van de Bondsrepubliek Duitsland met een luchtvaartuig als bedoeld in artikel 25, vierde lid, van het op 2 maart 2005 tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de grensoverschrijdende politiële samenwerking en de samenwerking in strafrechtelijke aangelegenheden (Trb. 2005, 86).
+De [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035900&hoofdstuk=2&artikel=2.1&z=2024-01-01&g=2024-01-01) en [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035900&hoofdstuk=2&artikel=2.2&z=2024-01-01&g=2024-01-01) zijn van overeenkomstige toepassing op een politievlucht uitgevoerd door de bevoegde autoriteit van de Bondsrepubliek Duitsland met een luchtvaartuig als bedoeld in artikel 25, vierde lid, van het op 2 maart 2005 tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de grensoverschrijdende politiële samenwerking en de samenwerking in strafrechtelijke aangelegenheden (Trb. 2005, 86).
 
 ### Hoofdstuk 3. Zichtvliegvoorschriften
 
@@ -178,7 +180,7 @@ Het uitvoeren van een vlucht met een vrije ballon buiten de daglichtperiode is t
 
 1. Het uitvoeren van een vlucht met een vliegtuig, helikopter, luchtschip of TMG buiten de daglichtperiode is toegestaan onder de voorwaarden, bedoeld in paragraaf SERA.5005, onderdeel c, van de bijlage bij uitvoeringsverordening (EU) nr. 923/2012 en er daarnaast voldaan wordt aan het voorschrift dat een SSR-transponder met de Mode S/ELS wordt gebruikt.
 
-2. Onverminderd het eerste lid mogen met amateurbouwluchtvaartuigen, lichte gyrokopters, MLA’s, MLH’s en schermvliegtuigen slechts vluchten worden uitgevoerd gedurende de daglichtperiode.
+2. Onverminderd het eerste lid mogen met amateurbouwluchtvaartuigen, lichte gyrokopters, MLA’s, MLH’s, schermvliegtuigen en paramotortrikes slechts vluchten worden uitgevoerd gedurende de daglichtperiode.
 
 ##### Artikel 3.3. Spuit en sproeivluchten
 
@@ -188,7 +190,7 @@ Het uitvoeren van een vlucht waarbij stoffen ter bevordering of ter bescherming 
 
 ##### Artikel 4.1. Luchtwerk
 
-1. De minimumvlieghoogtes voor VFR-verkeer, bedoeld in paragraaf SERA.5005 van verordening (EU) nr. 923/2012, zijn niet van toepassing op vluchten die niet plaatsvinden binnen een plaatselijk luchtverkeersleidinggebied of boven gebieden met aaneengesloten bebouwing, industrie- en havengebieden daaronder begrepen, of boven mensenverzamelingen en die worden uitgevoerd met een vliegtuig of helikopter door een gezagvoerder die beschikt over een bewijs van bevoegdheid als beroepspiloot als bedoeld in verordening (EU) nr. 1178/2011 met als doel van de vlucht:
+1. De minimumvlieghoogtes voor VFR-verkeer, bedoeld in paragraaf SERA.5005 van verordening (EU) nr. 923/2012, zijn niet van toepassing op vluchten die niet plaatsvinden boven gebieden met aaneengesloten bebouwing, industrie- en havengebieden daaronder begrepen, of boven mensenverzamelingen en die worden uitgevoerd met een vliegtuig of helikopter door een gezagvoerder die beschikt over een bewijs van bevoegdheid als beroepspiloot als bedoeld in verordening (EU) nr. 1178/2011 met als doel van de vlucht:
 
 - a. het controleren van pijpleidingen en het hoogspanningsnetwerk;
 
@@ -202,7 +204,7 @@ Het uitvoeren van een vlucht waarbij stoffen ter bevordering of ter bescherming 
 
 - f. het uitvoeren van milieucontroles;
 
-- g. surveillance door de op grond van [artikel 2, derde lid, van de Regeling organisatie Kustwacht Nederland](onbekend), in de Kustwacht samenwerkende diensten.
+- g. surveillance door de op grond van [artikel 2, derde lid, van de Regeling organisatie Kustwacht Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0042251&artikel=2), in de Kustwacht samenwerkende diensten.
 
 2. Voor het uitvoeren van een vlucht als bedoeld in het eerste lid gelden de volgende voorschriften:
 
