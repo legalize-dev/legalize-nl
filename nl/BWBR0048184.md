@@ -4,7 +4,7 @@ identifier: "BWBR0048184"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2023-07-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048184"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ In dit besluit wordt verstaan onder:
 
 - a. het uitoefenen van de bevoegdheden van de minister krachtens de [Examenregeling frequentiegebruik 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024285), met uitzondering van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&artikel=8), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&artikel=13) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&artikel=18);
 
-- b. dit onderdeel is nog niet in werking getreden;
+- b. het uitgeven van certificaten op grond van [artikel 13 van de Examenregeling frequentiegebruik 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&artikel=13);
 
 - c. het behandelen van bezwaar- en beroepschriften tegen besluiten, genomen in het kader van de onder a en b genoemde taken, waaronder begrepen het nemen van beslissingen op bezwaarschriften, het instellen van en het voeren van beroep, hoger beroep en voorlopige voorzieningen procedures.
 
@@ -86,7 +86,7 @@ namens deze:
 
 ##### Artikel 5
 
-Dit besluit treedt in werking met ingang van 1 juli 2023, met uitzondering van [artikel 2, eerste lid, aanhef, en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0048184&artikel=2&z=2023-07-01&g=2023-07-01), dat in werking treedt met ingang van 1 januari 2024.
+Dit besluit treedt in werking met ingang van 1 juli 2023, met uitzondering van [artikel 2, eerste lid, aanhef, en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0048184&artikel=2&z=2024-01-01&g=2024-01-01), dat in werking treedt met ingang van 1 januari 2024.
 
 ##### Artikel 6
 
