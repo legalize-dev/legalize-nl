@@ -4,7 +4,7 @@ identifier: "BWBR0048092"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-05-04"
-last_updated: "2023-05-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048092"
 soort: "ministeriele-regeling"
@@ -46,21 +46,21 @@ BESLUIT:
 
 1. In deze regeling wordt verstaan onder:
 
-- **bevoegd gezag:** provincie of gemeente als bedoeld in de [Wet bodembeschermin](https://wetten.overheid.nl/jci1.3:c:BWBR0003994)g of gemeente als bedoeld in het [Besluit aanwijzing bevoegdgezaggemeenten Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0011935);
+- **bevoegd gezag:** provincie of gemeente als bedoeld in de [Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994) of gemeente als bedoeld in het [Besluit aanwijzing bevoegdgezaggemeenten Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0011935), zoals die luidden voor de datum waarop de [Aanvullingswet bodem Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043277) in werking is getreden;
 
-- **buitenproportionele opgave:** buitenproportionele opgave als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=13&z=2023-05-01&g=2023-05-01);
+- **buitenproportionele opgave:** buitenproportionele opgave als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=13&z=2024-01-01&g=2024-01-01);
 
 - **convenant bodem en ondergrond:** convenant bodem en ondergrond 2016–2020 zoals dat luidde op 31 december 2020;
 
 - **convenant bodemontwikkelingsgebied en aanpak spoedlocaties:** convenant bodemontwikkelingsgebied en spoedlocaties zoals dat luidde op 31 december 2015;
 
-- **historische spoedopgave:** aanpak van historische spoedeisende bodemverontreiniging als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2023-05-01&g=2023-05-01);
+- **historische spoedopgave:** aanpak van historische spoedeisende bodemverontreiniging als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01);
 
 - **minister:** Minister van Infrastructuur en Waterstaat;
 
 - **oude afspraken:** aantoonbare financiële afspraken die in het verleden tussen een individueel bevoegd gezag en het Rijk zijn gemaakt over de sanering van een geval van ernstige bodemverontreiniging.
 
-2. De definities en begrippen van de [Wet bodembemscherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994) zijn van overeenkomstige toepassing.
+2. De definities en begrippen van de [Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994), zoals die luidde voor de datum waarop de [Aanvullingswet bodem Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043277) in werking is getreden zijn van overeenkomstige toepassing.
 
 ##### Artikel 2
 
@@ -96,13 +96,13 @@ Het doel van deze regeling is om door middel van het verstrekken van specifieke 
 
 ##### Artikel 5. Reikwijdte aanvraag specifieke uitkering
 
-1. Een aanvraag voor een specifieke uitkering voor activiteiten als bedoeld in deze regeling wordt gedaan voor de aanpak van ofwel een historische spoedopgave, ofwel een buitenproportionele opgave, met inachtneming van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=15&z=2023-05-01&g=2023-05-01), ofwel een oude afspraak.
+1. Een aanvraag voor een specifieke uitkering voor activiteiten als bedoeld in deze regeling wordt gedaan voor de aanpak van ofwel een historische spoedopgave, ofwel een buitenproportionele opgave, met inachtneming van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=15&z=2024-01-01&g=2024-01-01), ofwel een oude afspraak.
 
-2. Onverminderd het eerste lid, kan tevens een aanvraag voor een specifieke uitkering worden gedaan voor onvoorziene kosten als bedoeld in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=16&z=2023-05-01&g=2023-05-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=5&artikel=23&z=2023-05-01&g=2023-05-01).
+2. Onverminderd het eerste lid, kan tevens een aanvraag voor een specifieke uitkering worden gedaan voor onvoorziene kosten als bedoeld in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=16&z=2024-01-01&g=2024-01-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=5&artikel=23&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 6. Start activiteiten historische spoedopgave en buitenproportionele opgave
 
-Een specifieke uitkering kan worden verleend voor activiteiten als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2023-05-01&g=2023-05-01) of [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=13&z=2023-05-01&g=2023-05-01) die in 2023 zijn gestart mits deze zijn opgenomen in de aanvraag voor de desbetreffende specifieke uitkering en aan de bestedingsvoorwaarden, bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=11&z=2023-05-01&g=2023-05-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=18&z=2023-05-01&g=2023-05-01) wordt voldaan.
+Een specifieke uitkering kan worden verleend voor activiteiten als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01) of [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=13&z=2024-01-01&g=2024-01-01) die in 2023 zijn gestart mits deze zijn opgenomen in de aanvraag voor de desbetreffende specifieke uitkering en aan de bestedingsvoorwaarden, bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=11&z=2024-01-01&g=2024-01-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=18&z=2024-01-01&g=2024-01-01) wordt voldaan.
 
 ##### Artikel 7. Aanvullende afwijzingsgrond
 
@@ -114,11 +114,11 @@ In aanvulling op de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR00363
 
 1. De minister kan op aanvraag een specifieke uitkering verlenen aan een bevoegd gezag voor de aanpak van een of meer historische spoedopgaven.
 
-2. Een historische spoedopgave betreft een historische spoedopgave als bedoeld in de [Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994) en betreft de start, voortzetting, afbouw of afronding door het bevoegd gezag van de aanpak van historische spoedsaneringen als bedoeld in het convenant bodem en ondergrond, bestaande uit:
+2. Een historische spoedopgave betreft een historische spoedopgave als bedoeld in de [Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994), zoals die luidde voor de datum waarop de [Aanvullingswet bodem Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043277) in werking is getreden en betreft de start, voortzetting, afbouw of afronding door het bevoegd gezag van de aanpak van historische spoedsaneringen als bedoeld in het convenant bodem en ondergrond, bestaande uit:
 
 - a. de aanpak van de individuele historische spoedlocaties die zijn opgenomen in de eindrapportage van het uitvoeringsprogramma van het convenant bodem en ontwikkelingsbeleid en aanpak spoedlocaties, gepubliceerd op de website van Bodemplus;
 
-- b. de aanpak van individuele historische spoedlocaties waarvoor uiterlijk op de datum van de aanvraag voor een specifieke uitkering een onherroepelijke beschikking tot spoedige sanering als bedoeld in [artikel 37 van de Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=37) is genomen of individuele locaties waarnaar nog onderzoek moet worden uitgevoerd om uitsluitsel over de noodzaak tot spoedige sanering te kunnen geven;
+- b. de aanpak van individuele historische spoedlocaties waarvoor uiterlijk op de datum van de aanvraag voor een specifieke uitkering een onherroepelijke beschikking tot spoedige sanering als bedoeld in [artikel 37 van de Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=37), zoals die luidde voor de datum waarop de [Aanvullingswet bodem Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043277) in werking is getreden is genomen of individuele locaties waarnaar nog onderzoek moet worden uitgevoerd om uitsluitsel over de noodzaak tot spoedige sanering te kunnen geven;
 
 - c. gebiedsgericht grondwaterbeheer in gebieden conform het beheer zoals dat uiterlijk op de datum van de aanvraag voor een specifieke uitkering is vastgesteld door het bevoegd gezag;
 
@@ -126,11 +126,11 @@ In aanvulling op de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR00363
 
 - e. de aanpak van de waterbodems die zijn opgenomen in de monitoringsrapportage van het uitvoeringsprogramma van het convenant bodem en ondergrond over het jaar 2020, gepubliceerd op de website van Bodemplus.
 
-3. De specifieke uitkering, bedoeld in het eerste lid, bedraagt maximaal het bedrag aangegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&bijlage=1&z=2023-05-01&g=2023-05-01) bij deze regeling voor het daarbij genoemde bevoegd gezag.
+3. De specifieke uitkering, bedoeld in het eerste lid, bedraagt maximaal het bedrag aangegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&bijlage=1&z=2024-01-01&g=2024-01-01) bij deze regeling voor het daarbij genoemde bevoegd gezag.
 
 ##### Artikel 9. Aanvraag specifieke uitkering historische spoedopgave
 
-1. Het bevoegd gezag, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2023-05-01&g=2023-05-01), kan een specifieke uitkering aanvragen voor activiteiten of voor financiële verplichtingen met betrekking tot de aanpak van een historische spoedopgave die in 2023 worden uitgevoerd respectievelijk worden aangegaan.
+1. Het bevoegd gezag, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01), kan een specifieke uitkering aanvragen voor activiteiten of voor financiële verplichtingen met betrekking tot de aanpak van een historische spoedopgave die in 2023 worden uitgevoerd respectievelijk worden aangegaan.
 
 2. Een aanvraag als bedoeld in het eerste lid bevat in ieder geval de projecten of de locaties die onderdeel uitmaken van de historische spoedopgave van het bevoegd gezag waarvoor de specifieke uitkering wordt aangevraagd, onderverdeeld naar:
 
@@ -148,17 +148,17 @@ In aanvulling op de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR00363
 
 5. Een aanvraag kan worden ingediend in de periode van 1 tot en met 31 mei 2023.
 
-6. Een aanvraag wordt ingediend met gebruikmaking van het formulier, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&bijlage=2&z=2023-05-01&g=2023-05-01) bij deze regeling.
+6. Een aanvraag wordt ingediend met gebruikmaking van het formulier, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&bijlage=2&z=2024-01-01&g=2024-01-01) bij deze regeling.
 
 ##### Artikel 10. Wijze van verdelen middelen specifieke uitkering historische spoedopgave
 
-1. Indien een aanvrager een hogere specifieke uitkering aanvraagt dan het bedrag, bedoeld in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2023-05-01&g=2023-05-01), verleent de minister indien de aanvraag voor honorering in aanmerking komt ten hoogste het bedrag, bedoeld in dat lid.
+1. Indien een aanvrager een hogere specifieke uitkering aanvraagt dan het bedrag, bedoeld in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01), verleent de minister indien de aanvraag voor honorering in aanmerking komt ten hoogste het bedrag, bedoeld in dat lid.
 
-2. In afwijking van het eerste lid wordt indien het bedrag, bedoeld in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=1&artikel=4&z=2023-05-01&g=2023-05-01), na de verdeling, bedoeld in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2023-05-01&g=2023-05-01), juncto [artikel 9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=9&z=2023-05-01&g=2023-05-01), niet is uitgeput, het resterende bedrag evenredig verdeeld over de op grond van artikel 9, eerste en tweede lid, gehonoreerde aanvragen, met dien verstande dat aan de desbetreffende aanvrager maximaal het aangevraagde bedrag wordt verleend.
+2. In afwijking van het eerste lid wordt indien het bedrag, bedoeld in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=1&artikel=4&z=2024-01-01&g=2024-01-01), na de verdeling, bedoeld in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01), juncto [artikel 9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=9&z=2024-01-01&g=2024-01-01), niet is uitgeput, het resterende bedrag evenredig verdeeld over de op grond van artikel 9, eerste en tweede lid, gehonoreerde aanvragen, met dien verstande dat aan de desbetreffende aanvrager maximaal het aangevraagde bedrag wordt verleend.
 
 ##### Artikel 11. Besteding specifieke uitkering historische spoedopgave
 
-1. Het bevoegd gezag, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2023-05-01&g=2023-05-01), besteedt de specifieke uitkering uitsluitend aan de in de beschikking tot subsidieverlening genoemde projecten of locaties voor zover het gaat om kosten voor onderzoek, saneringsmaatregelen of andere activiteiten die nodig zijn voor het wegnemen of beheersen van onaanvaardbare humane, ecologische dan wel verspreidingsrisico’s bij die projecten of locaties, met dien verstande dat de uitkering mag worden besteed aan een ander project of een andere locatie binnen de aanpak van de historische spoedopgave, genoemd in die beschikking.
+1. Het bevoegd gezag, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01), besteedt de specifieke uitkering uitsluitend aan de in de beschikking tot subsidieverlening genoemde projecten of locaties voor zover het gaat om kosten voor onderzoek, saneringsmaatregelen of andere activiteiten die nodig zijn voor het wegnemen of beheersen van onaanvaardbare humane, ecologische dan wel verspreidingsrisico’s bij die projecten of locaties, met dien verstande dat de uitkering mag worden besteed aan een ander project of een andere locatie binnen de aanpak van de historische spoedopgave, genoemd in die beschikking.
 
 2. Onverminderd het eerste lid besteedt het bevoegd gezag de specifieke uitkering uitsluitend aan activiteiten waarvan de kosten niet kunnen worden verhaald op de veroorzaker van de bodemverontreiniging of aan activiteiten waarvan de kosten wegens onvoldoende draagkracht niet of niet volledig kunnen worden gedragen door de eigenaar van de locatie.
 
@@ -166,11 +166,11 @@ In aanvulling op de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR00363
 
 4. Activiteiten als bedoeld in het eerste lid starten in 2023 te rekenen vanaf de startdatum van de bestedingsperiode opgenomen in de beschikking tot verlening van de specifieke uitkering.
 
-5. De activiteiten zijn onverminderd [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=9&z=2023-05-01&g=2023-05-01), uiterlijk vijf jaar na de startdatum uitgevoerd.
+5. De activiteiten zijn onverminderd [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=9&z=2024-01-01&g=2024-01-01), uiterlijk vijf jaar na de startdatum uitgevoerd.
 
 ##### Artikel 12. Verplichting ontvanger specifieke uitkering voor historische spoedopgaven
 
-Het bevoegd gezag, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2023-05-01&g=2023-05-01), verstrekt jaarlijks voor het einde van het kalenderjaar informatie aan de minister over de voortgang van de activiteiten waarvoor de desbetreffende specifieke uitkering is verleend, waarbij wordt aangegeven welke activiteiten worden uitgevoerd of zijn afgerond.
+Het bevoegd gezag, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01), verstrekt jaarlijks voor het einde van het kalenderjaar informatie aan de minister over de voortgang van de activiteiten waarvoor de desbetreffende specifieke uitkering is verleend, waarbij wordt aangegeven welke activiteiten worden uitgevoerd of zijn afgerond.
 
 #### § 3. Buitenproportionele opgaven en onvoorziene kosten 2021 en 2022
 
@@ -188,11 +188,11 @@ Het bevoegd gezag, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl
 
 ##### Artikel 14. Kosten die in aanmerking komen voor een specifieke uitkering voor buitenproportionele opgaven
 
-De kosten die voor een specifieke uitkering als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=13&z=2023-05-01&g=2023-05-01) in aanmerking komen, zijn de kosten die rechtstreeks verband houden met onderzoek of met bodemsanering in het kader van de aanpak van de buitenproportionele opgave.
+De kosten die voor een specifieke uitkering als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=13&z=2024-01-01&g=2024-01-01) in aanmerking komen, zijn de kosten die rechtstreeks verband houden met onderzoek of met bodemsanering in het kader van de aanpak van de buitenproportionele opgave.
 
 ##### Artikel 15. Aanvraag specifieke uitkering voor buitenproportionele opgaven
 
-1. Voor ieder element, genoemd in [artikel 13, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=13&z=2023-05-01&g=2023-05-01), wordt een separate aanvraag als bedoeld in artikel 13, eerste lid, ingediend.
+1. Voor ieder element, genoemd in [artikel 13, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=13&z=2024-01-01&g=2024-01-01), wordt een separate aanvraag als bedoeld in artikel 13, eerste lid, ingediend.
 
 2. Een aanvraag als bedoeld in het eerste lid betreft een of meer projecten en bevat per project in ieder geval een projectplan.
 
@@ -208,7 +208,7 @@ De kosten die voor een specifieke uitkering als bedoeld in [artikel 13](https://
 
 6. Een aanvraag kan worden ingediend in de periode van 1 tot en met 31 mei 2023.
 
-7. Een aanvraag wordt ingediend met gebruikmaking van het formulier, bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&bijlage=3&z=2023-05-01&g=2023-05-01) bij deze regeling.
+7. Een aanvraag wordt ingediend met gebruikmaking van het formulier, bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&bijlage=3&z=2024-01-01&g=2024-01-01) bij deze regeling.
 
 ##### Artikel 16. Aanvraag onvoorziene kosten buitenproportionele opgaven 2021 of 2022
 
@@ -220,13 +220,13 @@ De kosten die voor een specifieke uitkering als bedoeld in [artikel 13](https://
 
 4. Een aanvraag kan worden ingediend in de periode van 1 tot en met 31 mei 2023.
 
-5. Een aanvraag wordt ingediend met gebruikmaking van het formulier, bedoeld in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&bijlage=5&z=2023-05-01&g=2023-05-01) bij deze regeling.
+5. Een aanvraag wordt ingediend met gebruikmaking van het formulier, bedoeld in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&bijlage=5&z=2024-01-01&g=2024-01-01) bij deze regeling.
 
 ##### Artikel 17. Wijze van verdelen middelen specifieke uitkering voor buitenproportionele opgaven en voor onvoorziene kosten
 
-1. De minister verdeelt de beschikbare bedragen, bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=1&artikel=4&z=2023-05-01&g=2023-05-01), na het einde van de aanvraagperiode, bedoeld in [artikel 15, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=15&z=2023-05-01&g=2023-05-01) en in [artikel 16, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=16&z=2023-05-01&g=2023-05-01).
+1. De minister verdeelt de beschikbare bedragen, bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=1&artikel=4&z=2024-01-01&g=2024-01-01), na het einde van de aanvraagperiode, bedoeld in [artikel 15, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=15&z=2024-01-01&g=2024-01-01) en in [artikel 16, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=16&z=2024-01-01&g=2024-01-01).
 
-2. Indien het beschikbare bedrag, bedoeld in [artikel 4, eerste lid, onderdeel b, subonderdeel 1, respectievelijk subonderdeel 2, respectievelijk subonderdeel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=1&artikel=4&z=2023-05-01&g=2023-05-01), voor de desbetreffende voor honorering in aanmerking komende aanvragen wordt overschreden, wordt het desbetreffende bedrag evenredig verdeeld over de aanvragen voor de aanpak van het element diffuus verspreid lood, respectievelijk van het element PFAS, respectievelijk voor onvoorziene kosten.
+2. Indien het beschikbare bedrag, bedoeld in [artikel 4, eerste lid, onderdeel b, subonderdeel 1, respectievelijk subonderdeel 2, respectievelijk subonderdeel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=1&artikel=4&z=2024-01-01&g=2024-01-01), voor de desbetreffende voor honorering in aanmerking komende aanvragen wordt overschreden, wordt het desbetreffende bedrag evenredig verdeeld over de aanvragen voor de aanpak van het element diffuus verspreid lood, respectievelijk van het element PFAS, respectievelijk voor onvoorziene kosten.
 
 3. Indien het bedrag dat beschikbaar is voor onvoorziene kosten na de verdeling, bedoeld in het eerste en tweede lid, niet is uitgeput, wordt de helft van het resterende bedrag toegevoegd aan het beschikbare bedrag voor het element diffuus verspreid lood en de helft aan het beschikbare bedrag voor het element PFAS en worden deze bedragen evenredig verdeeld over de daarvoor voor honorering in aanmerking komende aanvragen.
 
@@ -234,7 +234,7 @@ De kosten die voor een specifieke uitkering als bedoeld in [artikel 13](https://
 
 ##### Artikel 18. Besteding specifieke uitkering voor buitenproportionele opgaven
 
-1. Het bevoegd gezag, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=13&z=2023-05-01&g=2023-05-01), besteedt de specifieke uitkering voor een buitenproportionele opgave uitsluitend aan de voorbereiding, begeleiding en uitvoering van de activiteiten zoals opgenomen in het projectplan, met dien verstande dat een uitkering voor activiteiten voor een project mag worden besteed aan andere activiteiten binnen hetzelfde element, bedoeld in artikel 13, tweede lid, onderdeel a.
+1. Het bevoegd gezag, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=13&z=2024-01-01&g=2024-01-01), besteedt de specifieke uitkering voor een buitenproportionele opgave uitsluitend aan de voorbereiding, begeleiding en uitvoering van de activiteiten zoals opgenomen in het projectplan, met dien verstande dat een uitkering voor activiteiten voor een project mag worden besteed aan andere activiteiten binnen hetzelfde element, bedoeld in artikel 13, tweede lid, onderdeel a.
 
 2. Onverminderd het eerste lid besteedt het bevoegd gezag de specifieke uitkering uitsluitend aan activiteiten waarvan de kosten niet kunnen worden verhaald op de veroorzaker van de bodemverontreiniging of aan activiteiten waarvan de kosten wegens onvoldoende draagkracht niet of niet volledig kunnen worden gedragen door de eigenaar van de locatie.
 
@@ -242,29 +242,29 @@ De kosten die voor een specifieke uitkering als bedoeld in [artikel 13](https://
 
 4. Activiteiten als bedoeld in het eerste lid starten in 2023 te rekenen vanaf de startdatum van de bestedingsperiode opgenomen in de beschikking tot verlening van de specifieke uitkering.
 
-5. De activiteiten zijn onverminderd [artikel 15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=15&z=2023-05-01&g=2023-05-01), uiterlijk vijf jaar na de startdatum uitgevoerd.
+5. De activiteiten zijn onverminderd [artikel 15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=15&z=2024-01-01&g=2024-01-01), uiterlijk vijf jaar na de startdatum uitgevoerd.
 
 ##### Artikel 19. Verplichting ontvanger specifieke uitkering voor buitenproportionele opgaven
 
-Het bevoegd gezag, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=13&z=2023-05-01&g=2023-05-01), verstrekt jaarlijks voor het einde van het kalenderjaar informatie aan de minister over de voortgang van de activiteiten waarvoor de desbetreffende specifieke uitkering is verleend, waarbij wordt aangegeven welke projecten worden uitgevoerd of zijn afgerond.
+Het bevoegd gezag, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=13&z=2024-01-01&g=2024-01-01), verstrekt jaarlijks voor het einde van het kalenderjaar informatie aan de minister over de voortgang van de activiteiten waarvoor de desbetreffende specifieke uitkering is verleend, waarbij wordt aangegeven welke projecten worden uitgevoerd of zijn afgerond.
 
 #### § 4. Tweede ronde historische spoedopgaven, buitenproportionele opgaven of onvoorziene kosten
 
 ##### Artikel 20. Tweede aanvraagronde voor historische spoedopgaven, buitenproportionele opgaven of onvoorziene kosten 2021 of 2022
 
-1. Indien het beschikbare bedrag, bedoeld in [artikel 4, eerste lid, onderdeel a, of onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=1&artikel=4&z=2023-05-01&g=2023-05-01), na de verdeling, bedoeld in [artikel 10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=10&z=2023-05-01&g=2023-05-01), of in [artikel 17, eerste, tweede, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=17&z=2023-05-01&g=2023-05-01), niet is uitgeput, kan de minister voor het resterende bedrag een tweede aanvraagronde voor een specifieke uitkering voor een historische spoedopgave, voor een buitenproportionele opgave of voor onvoorziene kosten openstellen.
+1. Indien het beschikbare bedrag, bedoeld in [artikel 4, eerste lid, onderdeel a, of onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=1&artikel=4&z=2024-01-01&g=2024-01-01), na de verdeling, bedoeld in [artikel 10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=10&z=2024-01-01&g=2024-01-01), of in [artikel 17, eerste, tweede, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=17&z=2024-01-01&g=2024-01-01), niet is uitgeput, kan de minister voor het resterende bedrag een tweede aanvraagronde voor een specifieke uitkering voor een historische spoedopgave, voor een buitenproportionele opgave of voor onvoorziene kosten openstellen.
 
 2. De minister maakt de indieningstermijn en het resterende beschikbare bedrag, bedoeld in het eerste lid, in de Staatscourant bekend, alsmede voor welk onderdeel of element als bedoeld in deze regeling een aanvraag kan worden ingediend.
 
-3. Een aanvraag wordt ingediend met gebruikmaking van het formulier, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&bijlage=2&z=2023-05-01&g=2023-05-01) bij deze regeling, indien het een historische spoedopgave betreft, met gebruikmaking van het formulier, bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&bijlage=3&z=2023-05-01&g=2023-05-01) bij deze regeling, indien het een buitenproportionele opgave betreft en indien de aanvraag nieuwe activiteiten of projecten betreft die niet in de aanvraagperiode, bedoeld in [artikel 9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=9&z=2023-05-01&g=2023-05-01), of [artikel 15, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=15&z=2023-05-01&g=2023-05-01), zijn opgenomen of met gebruikmaking van het formulier, bedoeld in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&bijlage=5&z=2023-05-01&g=2023-05-01), bij deze regeling indien het onvoorziene kosten als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=16&z=2023-05-01&g=2023-05-01) betreft.
+3. Een aanvraag wordt ingediend met gebruikmaking van het formulier, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&bijlage=2&z=2024-01-01&g=2024-01-01) bij deze regeling, indien het een historische spoedopgave betreft, met gebruikmaking van het formulier, bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&bijlage=3&z=2024-01-01&g=2024-01-01) bij deze regeling, indien het een buitenproportionele opgave betreft en indien de aanvraag nieuwe activiteiten of projecten betreft die niet in de aanvraagperiode, bedoeld in [artikel 9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=9&z=2024-01-01&g=2024-01-01), of [artikel 15, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=15&z=2024-01-01&g=2024-01-01), zijn opgenomen of met gebruikmaking van het formulier, bedoeld in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&bijlage=5&z=2024-01-01&g=2024-01-01), bij deze regeling indien het onvoorziene kosten als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=16&z=2024-01-01&g=2024-01-01) betreft.
 
-4. Een aanvraag wordt ingediend namens het bevoegd gezag door een daartoe bevoegde persoon ondertekende brief indien de aanvraag die voor honorering in aanmerking kwam niet of niet geheel is gehonoreerd op grond van [artikel 9, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=9&z=2023-05-01&g=2023-05-01), of [artikel 17, eerste, tweede, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=17&z=2023-05-01&g=2023-05-01). In de brief wordt het resterende bedrag opnieuw aangevraagd en wordt verwezen naar de desbetreffende aanvraag van mei 2023 en de desbetreffende beschikking tot verlening van de specifieke uitkering.
+4. Een aanvraag wordt ingediend namens het bevoegd gezag door een daartoe bevoegde persoon ondertekende brief indien de aanvraag die voor honorering in aanmerking kwam niet of niet geheel is gehonoreerd op grond van [artikel 9, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=9&z=2024-01-01&g=2024-01-01), of [artikel 17, eerste, tweede, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=17&z=2024-01-01&g=2024-01-01). In de brief wordt het resterende bedrag opnieuw aangevraagd en wordt verwezen naar de desbetreffende aanvraag van mei 2023 en de desbetreffende beschikking tot verlening van de specifieke uitkering.
 
-5. [Artikel 9, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=9&z=2023-05-01&g=2023-05-01), respectievelijk [artikel 15, eerste, tweede, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=15&z=2023-05-01&g=2023-05-01), respectievelijk [artikel 16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=16&z=2023-05-01&g=2023-05-01), is van overeenkomstige toepassing indien een tweede aanvraagronde wordt opengesteld voor de aanpak van de historische spoedopgave, respectievelijk van de buitenproportionele opgave, respectievelijk voor onvoorziene kosten.
+5. [Artikel 9, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=9&z=2024-01-01&g=2024-01-01), respectievelijk [artikel 15, eerste, tweede, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=15&z=2024-01-01&g=2024-01-01), respectievelijk [artikel 16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=16&z=2024-01-01&g=2024-01-01), is van overeenkomstige toepassing indien een tweede aanvraagronde wordt opengesteld voor de aanpak van de historische spoedopgave, respectievelijk van de buitenproportionele opgave, respectievelijk voor onvoorziene kosten.
 
 6. De minister verdeelt het bedrag, bedoeld in het eerste lid, op volgorde van binnenkomst van de aanvragen.
 
-7. De [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=11&z=2023-05-01&g=2023-05-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=12&z=2023-05-01&g=2023-05-01), respectievelijk [artikel 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=16&z=2023-05-01&g=2023-05-01), respectievelijk de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=18&z=2023-05-01&g=2023-05-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=19&z=2023-05-01&g=2023-05-01) zijn van overeenkomstige toepassing.
+7. De [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=11&z=2024-01-01&g=2024-01-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=12&z=2024-01-01&g=2024-01-01), respectievelijk [artikel 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=16&z=2024-01-01&g=2024-01-01), respectievelijk de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=18&z=2024-01-01&g=2024-01-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=19&z=2024-01-01&g=2024-01-01) zijn van overeenkomstige toepassing.
 
 #### § 5. Oude afspraken
 
@@ -274,15 +274,15 @@ De minister kan op aanvraag een specifieke uitkering verlenen aan een bevoegd ge
 
 ##### Artikel 22. Aanvraag specifieke uitkering voor oude afspraken
 
-1. Een aanvraag als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=5&artikel=21&z=2023-05-01&g=2023-05-01) bevat in ieder geval een projectplan voor de uitwerking van de beoogde maatregelen voor de in dat artikel bedoelde aanpak.
+1. Een aanvraag als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=5&artikel=21&z=2024-01-01&g=2024-01-01) bevat in ieder geval een projectplan voor de uitwerking van de beoogde maatregelen voor de in dat artikel bedoelde aanpak.
 
-2. De aanpak, bedoeld in het eerste lid, voldoet aan de bestedingsvoorwaarden, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=5&artikel=25&z=2023-05-01&g=2023-05-01), en het doel van de sanering is concreet beschreven en meetbaar.
+2. De aanpak, bedoeld in het eerste lid, voldoet aan de bestedingsvoorwaarden, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=5&artikel=25&z=2024-01-01&g=2024-01-01), en het doel van de sanering is concreet beschreven en meetbaar.
 
 3. Activiteiten opgenomen in het projectplan waarvoor een specifieke uitkering wordt aangevraagd, hebben een doorlooptijd van ten hoogste drie jaar.
 
 4. Een aanvraag kan worden ingediend in de periode van 15 oktober tot en met 31 december 2023.
 
-5. Een aanvraag wordt ingediend met gebruikmaking van het formulier, bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&bijlage=4&z=2023-05-01&g=2023-05-01) bij deze regeling.
+5. Een aanvraag wordt ingediend met gebruikmaking van het formulier, bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&bijlage=4&z=2024-01-01&g=2024-01-01) bij deze regeling.
 
 ##### Artikel 23. Aanvraag onvoorziene kosten oude afspraken en historische spoedopgaven 2021 of 2022
 
@@ -294,15 +294,15 @@ De minister kan op aanvraag een specifieke uitkering verlenen aan een bevoegd ge
 
 4. Een aanvraag kan worden ingediend in de periode van 15 oktober tot en met 31 december 2023.
 
-5. Een aanvraag wordt ingediend met gebruikmaking van het formulier, bedoeld in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&bijlage=5&z=2023-05-01&g=2023-05-01) bij deze regeling.
+5. Een aanvraag wordt ingediend met gebruikmaking van het formulier, bedoeld in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&bijlage=5&z=2024-01-01&g=2024-01-01) bij deze regeling.
 
 ##### Artikel 24. Wijze van verdelen middelen specifieke uitkering voor oude afspraken en onvoorziene kosten oude afspraken en historische spoedopgaven
 
-De minister verdeelt de beschikbare bedragen, bedoeld in [artikel 4, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=1&artikel=4&z=2023-05-01&g=2023-05-01), op volgorde van binnenkomst van de desbetreffende aanvragen.
+De minister verdeelt de beschikbare bedragen, bedoeld in [artikel 4, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=1&artikel=4&z=2024-01-01&g=2024-01-01), op volgorde van binnenkomst van de desbetreffende aanvragen.
 
 ##### Artikel 25. Besteding specifieke uitkering voor oude afspraken
 
-1. Het bevoegd gezag, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=5&artikel=21&z=2023-05-01&g=2023-05-01), besteedt de specifieke uitkering uitsluitend aan:
+1. Het bevoegd gezag, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=5&artikel=21&z=2024-01-01&g=2024-01-01), besteedt de specifieke uitkering uitsluitend aan:
 
 - a. de instandhouding of voortzetting van een reeds tussen de toenmalige Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en het desbetreffende bevoegd gezag overeengekomen gevalsgerichte aanpak van ernstige bodemverontreiniging;
 
@@ -314,9 +314,9 @@ De minister verdeelt de beschikbare bedragen, bedoeld in [artikel 4, onderdeel c
 
 3. Indien er sprake is van een situatie waarin het bevoegd gezag onverwijld moet handelen vanwege risico’s voor mens of ecologie of van verspreiding van de verontreiniging, mag de specifieke uitkering in afwijking van het tweede lid worden besteed aan de kosten daarvoor, vooruitlopend op het verhaal van die kosten op de veroorzaker van de verontreiniging of de eigenaar van de locatie.
 
-4. Een project als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=5&artikel=21&z=2023-05-01&g=2023-05-01) start in 2024 te rekenen vanaf de startdatum van de bestedingsperiode opgenomen in de beschikking tot verlening van de specifieke uitkering.
+4. Een project als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=5&artikel=21&z=2024-01-01&g=2024-01-01) start in 2024 te rekenen vanaf de startdatum van de bestedingsperiode opgenomen in de beschikking tot verlening van de specifieke uitkering.
 
-5. De projecten zijn onverminderd [artikel 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=5&artikel=22&z=2023-05-01&g=2023-05-01), uiterlijk vijf jaar na de startdatum uitgevoerd.
+5. De projecten zijn onverminderd [artikel 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=5&artikel=22&z=2024-01-01&g=2024-01-01), uiterlijk vijf jaar na de startdatum uitgevoerd.
 
 #### § 6. Bevoorschotting
 
@@ -338,9 +338,9 @@ De minister verdeelt de beschikbare bedragen, bedoeld in [artikel 4, onderdeel c
 
 ##### Artikel 28. Vaststelling specifieke uitkering
 
-1. De minister stelt de specifieke uitkering uiterlijk op 31 december van het jaar waarop de desbetreffende eindverantwoording, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), is ontvangen, vast op het bedrag dat is bepaald in de verlening indien de activiteiten waarvoor de specifieke uitkering is verleend geheel zijn verricht en daarnaast volledig is voldaan aan de bestedingsvoorwaarden, bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=11&z=2023-05-01&g=2023-05-01), [16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=16&z=2023-05-01&g=2023-05-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=18&z=2023-05-01&g=2023-05-01), [23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=5&artikel=23&z=2023-05-01&g=2023-05-01), respectievelijk [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=5&artikel=25&z=2023-05-01&g=2023-05-01), en aan de verplichting, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=12&z=2023-05-01&g=2023-05-01), respectievelijk [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=19&z=2023-05-01&g=2023-05-01).
+1. De minister stelt de specifieke uitkering uiterlijk op 31 december van het jaar waarop de desbetreffende eindverantwoording, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), is ontvangen, vast op het bedrag dat is bepaald in de verlening indien de activiteiten waarvoor de specifieke uitkering is verleend geheel zijn verricht en daarnaast volledig is voldaan aan de bestedingsvoorwaarden, bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=11&z=2024-01-01&g=2024-01-01), [16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=16&z=2024-01-01&g=2024-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=18&z=2024-01-01&g=2024-01-01), [23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=5&artikel=23&z=2024-01-01&g=2024-01-01), respectievelijk [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=5&artikel=25&z=2024-01-01&g=2024-01-01), en aan de verplichting, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=12&z=2024-01-01&g=2024-01-01), respectievelijk [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=19&z=2024-01-01&g=2024-01-01).
 
-2. De minister kan de specifieke uitkering vaststellen op een lager bedrag dan is bepaald in de verleningsbeschikking indien de activiteiten waarvoor de specifieke uitkering is verleend, niet of niet geheel hebben plaatsgevonden conform de bestedingsvoorwaarden, bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=11&z=2023-05-01&g=2023-05-01), [16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=16&z=2023-05-01&g=2023-05-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=18&z=2023-05-01&g=2023-05-01), [23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=5&artikel=23&z=2023-05-01&g=2023-05-01), respectievelijk [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=5&artikel=25&z=2023-05-01&g=2023-05-01) en de verplichting, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=12&z=2023-05-01&g=2023-05-01), respectievelijk [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=19&z=2023-05-01&g=2023-05-01).
+2. De minister kan de specifieke uitkering vaststellen op een lager bedrag dan is bepaald in de verleningsbeschikking indien de activiteiten waarvoor de specifieke uitkering is verleend, niet of niet geheel hebben plaatsgevonden conform de bestedingsvoorwaarden, bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=11&z=2024-01-01&g=2024-01-01), [16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=16&z=2024-01-01&g=2024-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=18&z=2024-01-01&g=2024-01-01), [23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=5&artikel=23&z=2024-01-01&g=2024-01-01), respectievelijk [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=5&artikel=25&z=2024-01-01&g=2024-01-01) en de verplichting, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=12&z=2024-01-01&g=2024-01-01), respectievelijk [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=19&z=2024-01-01&g=2024-01-01).
 
 #### § 8. Wijziging van de regeling
 
@@ -360,7 +360,7 @@ Wijzigt deze regeling.
 
 Deze regeling wordt aangehaald als: Tijdelijke regeling specifieke uitkering bodem 2023.
 
-## Bijlage 1. bedoeld in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2023-05-01&g=2023-05-01)
+## Bijlage 1. bedoeld in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01)
 
 | Bevoegd gezag | Maximaal uit te keren bedrag onderdeel historische spoedopgave |
 | --- | --- |
@@ -410,7 +410,7 @@ Deze regeling wordt aangehaald als: Tijdelijke regeling specifieke uitkering bod
 | **Totaal gemeenten** | € 9.117.793 |
 | **Totaal** | € 17.556.924 |
 
-## Bijlage 2. bedoeld in de [artikelen 9, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=9&z=2023-05-01&g=2023-05-01), en [20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=4&artikel=20&z=2023-05-01&g=2023-05-01)
+## Bijlage 2. bedoeld in de [artikelen 9, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=9&z=2024-01-01&g=2024-01-01), en [20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=4&artikel=20&z=2024-01-01&g=2024-01-01)
 
 | **Aanvraagformulier specifieke uitkering historische spoedopgaven** | **Aanvraagformulier specifieke uitkering historische spoedopgaven** |
 | --- | --- |
@@ -441,19 +441,19 @@ Deze regeling wordt aangehaald als: Tijdelijke regeling specifieke uitkering bod
 | **Totaaloverzicht aanvraag per element** | **Kosten per project/locatie** | **Kosten per project/locatie** | **Kosten per project/locatie** | **Kosten per project/locatie** |
 | --- | --- | --- | --- | --- |
 | **Naam projecten/locaties en Wbb-locatiecodes waarvoor een uitkering wordt aangevraagd1** | **A: Aangevraagd bedrag exclusief btw in euro’s** | **B: Niet compensabele btw in euro’s** | **C: Compensabele btw in euro’s** | **D: Aangevraagd bedrag inclusief niet compensabele btw in euro’s (D=A+B)** |
-| 1. individuele spoedlocaties ([artikel 8, tweede lid, onderdeel a, en b](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2023-05-01&g=2023-05-01)) | 1. individuele spoedlocaties ([artikel 8, tweede lid, onderdeel a, en b](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2023-05-01&g=2023-05-01)) | 1. individuele spoedlocaties ([artikel 8, tweede lid, onderdeel a, en b](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2023-05-01&g=2023-05-01)) | 1. individuele spoedlocaties ([artikel 8, tweede lid, onderdeel a, en b](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2023-05-01&g=2023-05-01)) | 1. individuele spoedlocaties ([artikel 8, tweede lid, onderdeel a, en b](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2023-05-01&g=2023-05-01)) |
+| 1. individuele spoedlocaties ([artikel 8, tweede lid, onderdeel a, en b](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01)) | 1. individuele spoedlocaties ([artikel 8, tweede lid, onderdeel a, en b](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01)) | 1. individuele spoedlocaties ([artikel 8, tweede lid, onderdeel a, en b](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01)) | 1. individuele spoedlocaties ([artikel 8, tweede lid, onderdeel a, en b](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01)) | 1. individuele spoedlocaties ([artikel 8, tweede lid, onderdeel a, en b](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01)) |
 | ........................... ........................... ........................... | € .................. € .................. € .................. | € .................. € .................. € .................. | € .................. € .................. € .................. | € .................. € .................. € .................. |
-| 2. gebiedsgericht grondwaterbeheer ([artikel 8, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2023-05-01&g=2023-05-01)) | 2. gebiedsgericht grondwaterbeheer ([artikel 8, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2023-05-01&g=2023-05-01)) | 2. gebiedsgericht grondwaterbeheer ([artikel 8, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2023-05-01&g=2023-05-01)) | 2. gebiedsgericht grondwaterbeheer ([artikel 8, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2023-05-01&g=2023-05-01)) | 2. gebiedsgericht grondwaterbeheer ([artikel 8, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2023-05-01&g=2023-05-01)) |
+| 2. gebiedsgericht grondwaterbeheer ([artikel 8, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01)) | 2. gebiedsgericht grondwaterbeheer ([artikel 8, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01)) | 2. gebiedsgericht grondwaterbeheer ([artikel 8, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01)) | 2. gebiedsgericht grondwaterbeheer ([artikel 8, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01)) | 2. gebiedsgericht grondwaterbeheer ([artikel 8, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01)) |
 | ........................... ........................... ........................... | € .................. € .................. € .................. | € .................. € .................. € .................. | € .................. € .................. € .................. | € .................. € .................. € .................. |
-| 3. nazorg inclusief isoleren, beheer- en controlemaatregelen ([artikel 8, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2023-05-01&g=2023-05-01)) | 3. nazorg inclusief isoleren, beheer- en controlemaatregelen ([artikel 8, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2023-05-01&g=2023-05-01)) | 3. nazorg inclusief isoleren, beheer- en controlemaatregelen ([artikel 8, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2023-05-01&g=2023-05-01)) | 3. nazorg inclusief isoleren, beheer- en controlemaatregelen ([artikel 8, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2023-05-01&g=2023-05-01)) | 3. nazorg inclusief isoleren, beheer- en controlemaatregelen ([artikel 8, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2023-05-01&g=2023-05-01)) |
+| 3. nazorg inclusief isoleren, beheer- en controlemaatregelen ([artikel 8, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01)) | 3. nazorg inclusief isoleren, beheer- en controlemaatregelen ([artikel 8, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01)) | 3. nazorg inclusief isoleren, beheer- en controlemaatregelen ([artikel 8, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01)) | 3. nazorg inclusief isoleren, beheer- en controlemaatregelen ([artikel 8, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01)) | 3. nazorg inclusief isoleren, beheer- en controlemaatregelen ([artikel 8, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01)) |
 | ........................... ........................... ........................... | € .................. € .................. € .................. | € .................. € .................. € .................. | € .................. € .................. € .................. | € .................. € .................. € .................. |
-| 4. de aanpak van waterbodems als bedoeld op lijst C van het convenant bodem en ondergrond ([artikel 8, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2023-05-01&g=2023-05-01)) | 4. de aanpak van waterbodems als bedoeld op lijst C van het convenant bodem en ondergrond ([artikel 8, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2023-05-01&g=2023-05-01)) | 4. de aanpak van waterbodems als bedoeld op lijst C van het convenant bodem en ondergrond ([artikel 8, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2023-05-01&g=2023-05-01)) | 4. de aanpak van waterbodems als bedoeld op lijst C van het convenant bodem en ondergrond ([artikel 8, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2023-05-01&g=2023-05-01)) | 4. de aanpak van waterbodems als bedoeld op lijst C van het convenant bodem en ondergrond ([artikel 8, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2023-05-01&g=2023-05-01)) |
+| 4. de aanpak van waterbodems als bedoeld op lijst C van het convenant bodem en ondergrond ([artikel 8, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01)) | 4. de aanpak van waterbodems als bedoeld op lijst C van het convenant bodem en ondergrond ([artikel 8, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01)) | 4. de aanpak van waterbodems als bedoeld op lijst C van het convenant bodem en ondergrond ([artikel 8, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01)) | 4. de aanpak van waterbodems als bedoeld op lijst C van het convenant bodem en ondergrond ([artikel 8, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01)) | 4. de aanpak van waterbodems als bedoeld op lijst C van het convenant bodem en ondergrond ([artikel 8, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01)) |
 | ........................... ........................... ........................... | € .................. € .................. € .................. | € .................. € .................. € .................. | € .................. € .................. € .................. | € .................. € .................. € .................. |
 | **Totaal aangevraagd bedrag** | € .................. | € .................. | € .................. | € .................. |
 
 1 Voor de projecten of de locaties waarvoor de specifieke uitkering wordt aangevraagd en de begroting van de kosten per project/locatie waarvoor de specifieke uitkering wordt aangevraagd gelden de volgende voorwaarden:
 
-- •. het betreft projecten/locaties die onderdeel uitmaken van de historische spoedopgave van het bevoegd gezag als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2023-05-01&g=2023-05-01), van de regeling, en
+- •. het betreft projecten/locaties die onderdeel uitmaken van de historische spoedopgave van het bevoegd gezag als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01), van de regeling, en
 
 - •. het betreft enkel de kosten voor onderzoek, saneringsmaatregelen of andere activiteiten die nodig zijn voor het wegnemen of beheersen van onaanvaardbare humane, ecologische dan wel verspreidingsrisico’s bij die projecten of locaties, en
 
@@ -466,14 +466,14 @@ De bedragen op het aanvraagformulier mogen uitsluitend betrekking hebben op midd
 | **Eventuele toelichting per locatie** | **Toelichting eventuele bijzonderheden1** |
 | --- | --- |
 | **Naam projecten/locaties en Wbb-locatiecodes** |   |
-| 1. individuele spoedlocaties ([artikel 8, tweede lid, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2023-05-01&g=2023-05-01)) | 1. individuele spoedlocaties ([artikel 8, tweede lid, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2023-05-01&g=2023-05-01)) |
+| 1. individuele spoedlocaties ([artikel 8, tweede lid, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01)) | 1. individuele spoedlocaties ([artikel 8, tweede lid, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01)) |
 | ........................... ........................... ........................... |   |
-| 2. gebiedsgericht grondwaterbeheer ([artikel 8, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2023-05-01&g=2023-05-01)) | 2. gebiedsgericht grondwaterbeheer ([artikel 8, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2023-05-01&g=2023-05-01)) |
+| 2. gebiedsgericht grondwaterbeheer ([artikel 8, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01)) | 2. gebiedsgericht grondwaterbeheer ([artikel 8, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01)) |
 | ........................... ........................... ........................... |   |
-| 3. nazorg inclusief isoleren, beheer- en controlemaatregelen ([artikel 8, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2023-05-01&g=2023-05-01)) | 3. nazorg inclusief isoleren, beheer- en controlemaatregelen ([artikel 8, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2023-05-01&g=2023-05-01)) |
+| 3. nazorg inclusief isoleren, beheer- en controlemaatregelen ([artikel 8, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01)) | 3. nazorg inclusief isoleren, beheer- en controlemaatregelen ([artikel 8, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01)) |
 | ........................... ........................... ........................... |   |
 |   |   |
-| 4. de aanpak van waterbodems als bedoeld op lijst C van het convenant bodem en ondergrond ([artikel 8, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2023-05-01&g=2023-05-01).) | 4. de aanpak van waterbodems als bedoeld op lijst C van het convenant bodem en ondergrond ([artikel 8, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2023-05-01&g=2023-05-01).) |
+| 4. de aanpak van waterbodems als bedoeld op lijst C van het convenant bodem en ondergrond ([artikel 8, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01).) | 4. de aanpak van waterbodems als bedoeld op lijst C van het convenant bodem en ondergrond ([artikel 8, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01).) |
 | ........................... ........................... ........................... |   |
 
 1 Vul hier een toelichting in als dit behulpzaam is bij de beoordeling van de aanvraag. Bijvoorbeeld als sprake is van een SEB-locatie, waarbij het toch noodzakelijk is dat een bevoegd gezag [Wbb](https://wetten.overheid.nl/jci1.3:c:BWBR0003994) maatregelen neemt of als sprake is van een locatie waarvoor al een aanvraag is ingediend tijdens de eerste indienronde en tijdens de tweede ronde middelen worden aangevraagd voor een aanvullende activiteit.
@@ -520,7 +520,7 @@ De bedragen op het aanvraagformulier mogen uitsluitend betrekking hebben op midd
 | e-mail |   |
 | rol |   |
 
-## Bijlage 3. bedoeld in de [artikelen 15, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=15&z=2023-05-01&g=2023-05-01), en [20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=4&artikel=20&z=2023-05-01&g=2023-05-01)
+## Bijlage 3. bedoeld in de [artikelen 15, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=15&z=2024-01-01&g=2024-01-01), en [20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=4&artikel=20&z=2024-01-01&g=2024-01-01)
 
 | **Aanvraagformulier specifieke uitkering buitenproportionele opgaven** | **Aanvraagformulier specifieke uitkering buitenproportionele opgaven** |
 | --- | --- |
@@ -630,7 +630,7 @@ De bedragen op het aanvraagformulier mogen uitsluitend betrekking hebben op midd
 | Wordt het juridisch instrumentarium voor kostenverhaal ingezet? Zo nee, onderbouw waarom er bij het project geen sprake is van ongerechtvaardigde verrijking of hoe dat wordt voorkomen. |   |
 | Indien aanvullende middelen worden aangevraagd voor een project waarvoor al eerder middelen zijn uitgekeerd in het kader van de aanpak van de buitenproportionele opgaven, maar waarbij wegens overschrijding van het uitkeringsplafond slechts een bepaald percentage kon worden uitgekeerd, kunt u een globale splitsing tussen de activiteiten (of gedeelten daarvan) aangeven die u met de eerder toegekende middelen wilt uitvoeren/heeft uitgevoerd en de activiteiten waarvoor u nu aanvullende middelen aanvraagt? Kunt u daarnaast aangeven of u de aanvullende middelen reeds in 2023 nodig heeft1 |   |
 
-1 Let op dat de activiteiten waarvoor in 2023 een specifieke uitkering wordt aangevraagd, moeten voldoen aan de voorwaarden van de regeling van 2023. De middelen mogen dan bijvoorbeeld alleen besteed worden aan het projectdeel dat in 2023 start ([artikel 18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=18&z=2023-05-01&g=2023-05-01)).
+1 Let op dat de activiteiten waarvoor in 2023 een specifieke uitkering wordt aangevraagd, moeten voldoen aan de voorwaarden van de regeling van 2023. De middelen mogen dan bijvoorbeeld alleen besteed worden aan het projectdeel dat in 2023 start ([artikel 18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=18&z=2024-01-01&g=2024-01-01)).
 
 | **Activiteiten1 die binnen het project vallen** | **A: Aangevraagd bedrag exclusief btw in euro’s** | **B: Niet compensabele btw in euro’s** | **C: Compensabele btw in euro’s** | **D: Aangevraagd bedrag inclusief niet compensabele btw in euro’s (D=A+B)** |
 | --- | --- | --- | --- | --- |
@@ -646,9 +646,9 @@ De bedragen op het aanvraagformulier mogen uitsluitend betrekking hebben op midd
 
 1 een activiteit is bijvoorbeeld een (programmatisch) onderzoek of een sanering. Een project kan een of meerdere activiteiten omvatten.
 
-N.B.: naast dit formulier dient een projectplan en een kostenraming te worden ingediend. Onderbouw in het projectplan waarom sprake is van een buitenproportionele opgaven als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=1&artikel=1&z=2023-05-01&g=2023-05-01) en maak inzichtelijk dat de besteding van de specifieke uitkering voldoet aan 18 van de regeling.
+N.B.: naast dit formulier dient een projectplan en een kostenraming te worden ingediend. Onderbouw in het projectplan waarom sprake is van een buitenproportionele opgaven als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=1&artikel=1&z=2024-01-01&g=2024-01-01) en maak inzichtelijk dat de besteding van de specifieke uitkering voldoet aan 18 van de regeling.
 
-## Bijlage 4. bedoeld in [artikel 22, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=5&artikel=22&z=2023-05-01&g=2023-05-01)
+## Bijlage 4. bedoeld in [artikel 22, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=5&artikel=22&z=2024-01-01&g=2024-01-01)
 
 | **Aanvraagformulier specifieke uitkering oude afspraken** | **Aanvraagformulier specifieke uitkering oude afspraken** |
 | --- | --- |
@@ -758,14 +758,14 @@ N.B.: naast dit formulier dient een projectplan en een kostenraming te worden in
 
 1 een activiteit is bijvoorbeeld een (programmatisch) onderzoek of een sanering. Een project kan een of meerdere activiteiten omvatten.
 
-N.B.: naast dit formulier dient een projectplan en een kostenraming te worden ingediend. Onderbouw in het projectplan waarom sprake is van een oude afspraak als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=1&artikel=1&z=2023-05-01&g=2023-05-01) en maak inzichtelijk dat de besteding van de specifieke uitkering voldoet aan [25](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=5&artikel=25&z=2023-05-01&g=2023-05-01) van de regeling.
+N.B.: naast dit formulier dient een projectplan en een kostenraming te worden ingediend. Onderbouw in het projectplan waarom sprake is van een oude afspraak als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=1&artikel=1&z=2024-01-01&g=2024-01-01) en maak inzichtelijk dat de besteding van de specifieke uitkering voldoet aan [25](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=5&artikel=25&z=2024-01-01&g=2024-01-01) van de regeling.
 
-## Bijlage 5. bedoeld in de [artikelen 16, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=16&z=2023-05-01&g=2023-05-01), [20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=4&artikel=20&z=2023-05-01&g=2023-05-01), [23, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=5&artikel=23&z=2023-05-01&g=2023-05-01)
+## Bijlage 5. bedoeld in de [artikelen 16, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=16&z=2024-01-01&g=2024-01-01), [20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=4&artikel=20&z=2024-01-01&g=2024-01-01), [23, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=5&artikel=23&z=2024-01-01&g=2024-01-01)
 
 | **Aanvraagformulier specifieke uitkering onvoorziene kosten** | **Aanvraagformulier specifieke uitkering onvoorziene kosten** |
 | --- | --- |
 | **Aanvraag als bedoeld in artikel 16 en artikel 23 van de Tijdelijke regeling specifieke uitkering bodem 2023** | **Aanvraag als bedoeld in artikel 16 en artikel 23 van de Tijdelijke regeling specifieke uitkering bodem 2023** |
-| Indienen via spukbodem@minienw.nl | Periode indienen aanvragen per onderdeel Buitenproportionele opgaven ([artikel 16, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=16&z=2023-05-01&g=2023-05-01)): 1 t/m 31 mei 2023, eventuele 2e ronde: nader te bepalen Oude afspraken (en historische spoedopgaven) ([artikel 23, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=5&artikel=23&z=2023-05-01&g=2023-05-01)): 15 oktober t/m 31 december 2023 |
+| Indienen via spukbodem@minienw.nl | Periode indienen aanvragen per onderdeel Buitenproportionele opgaven ([artikel 16, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=3&artikel=16&z=2024-01-01&g=2024-01-01)): 1 t/m 31 mei 2023, eventuele 2e ronde: nader te bepalen Oude afspraken (en historische spoedopgaven) ([artikel 23, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048092&paragraaf=5&artikel=23&z=2024-01-01&g=2024-01-01)): 15 oktober t/m 31 december 2023 |
 | **Sla uw aanvraag op als een bewerkbaar bestand met titel <jjjjmmdd – Aanvraag SPUK Bodem 2023 Post onvoorzien [onderdeel regeling] [naam organisatie]>.** **Mail dit bestand inclusief bijlage uitsluitend in de daarvoor geldende aanvraagperiode naar bovenstaand e-mailadres. Vermeld bij de e-mail als onderwerp: Aanvraag SPUK Bodem 2023 Post onvoorzien [onderdeel regeling] [naam organisatie].** **Vergeet niet een formele (digitale) en een door het daartoe bevoegde persoon ondertekende aanbiedingsbrief als aparte bijlage bij de mail te voegen.** | **Sla uw aanvraag op als een bewerkbaar bestand met titel <jjjjmmdd – Aanvraag SPUK Bodem 2023 Post onvoorzien [onderdeel regeling] [naam organisatie]>.** **Mail dit bestand inclusief bijlage uitsluitend in de daarvoor geldende aanvraagperiode naar bovenstaand e-mailadres. Vermeld bij de e-mail als onderwerp: Aanvraag SPUK Bodem 2023 Post onvoorzien [onderdeel regeling] [naam organisatie].** **Vergeet niet een formele (digitale) en een door het daartoe bevoegde persoon ondertekende aanbiedingsbrief als aparte bijlage bij de mail te voegen.** |
 
 | **Gegevens Aanvrager** | **Gegevens Aanvrager** |
