@@ -4,7 +4,7 @@ identifier: "BWBR0008644"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2012-05-19"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008644"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ Als bevoegde autoriteit bedoeld in het [Scheepvaartreglement territoriale zee](h
 
 - e. voor het aanloopgebied Den Helder: de Commandant der maritieme middelen van de Koninklijke marine te Den Helder;
 
-- f. voor het aanloopgebied Brandaris en het aanloopgebied Eemsmonding: de directeur van het havenschap Groningen Seaports;
+- f. voor het havengebied Brandaris en het aanloopgebied Eemsmonding: de hoofdingenieur-directeur van Rijkswaterstaat Noord-Nederland;
 
 - g. voor de territoriale zee, behoudens de aanloopgebieden: de directeur Kustwacht.
 
