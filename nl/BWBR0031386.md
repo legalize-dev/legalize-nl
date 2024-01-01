@@ -4,7 +4,7 @@ identifier: "BWBR0031386"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2023-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031386"
 soort: "ministeriele-regeling"
@@ -286,7 +286,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - 24°. code verzekeringssituatie Zvw;
 
-- 25°. indicatie vakantiebonnen toegepast;
+- 25°. indicatie deelname tijdspaarfonds;
 
 - 26°. indicatie loon bestaat (mede) uit een AOW-uitkering of AIO-aanvulling voor alleenstaanden (met of zonder kinderen);
 
@@ -394,11 +394,33 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1a.2. Gegevens opgave bij onjuiste of onvolledige aangifte
 
-De opgave, bedoeld in [artikel 28a, eerste lid en tweede lid, aanhef en onderdelen a tot en met d, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=28a), bevat de gegevens, genoemd in [artikel 1a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031386&hoofdstuk=1a&artikel=1a.1&z=2023-01-01&g=2023-01-01).
+De opgave, bedoeld in [artikel 28a, eerste lid en tweede lid, aanhef en onderdelen a tot en met d, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=28a), bevat de gegevens, genoemd in [artikel 1a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031386&hoofdstuk=1a&artikel=1a.1&z=2024-01-01&g=2024-01-01).
 
-##### Artikel 1a.3. Gegevens opgave bij verwijtbaar onjuiste of onvolledige aangifte over verstreken kalenderjaar (jaarloonopgave)
+##### Artikel 1a.3. Inkomstenverhouding
 
-Vervallen
+1. Dit artikel verstaat onder:
+
+- a. **uitkeringsgerechtigde:** een uitkeringsgerechtigde als bedoeld in [artikel 1, onderdeel l, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=1) en degene met een uitkering als bedoeld in de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008);
+
+- b. **socialezekerheidsuitkering:** een uitkering waarvoor een uitkeringsgerechtigde in aanmerking komt.
+
+2. Onder de inkomstenverhouding, bedoeld in [artikel 1a.1, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031386&hoofdstuk=1a&artikel=1a.1&z=2024-01-01&g=2024-01-01), wordt verstaan: de rechtsbetrekking van degene waarvan op grond van [artikel 1 van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=1) een directe belasting wordt geheven of van de uitkeringsgerechtigde, met de inhoudingsplichtige in de zin van de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) of de werkgever in de zin van de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745) op grond van welke rechtsbetrekking recht bestaat op loon, gage, uitkeringen of verstrekkingen die belast zijn op grond van de Wet op de loonbelasting 1964, behoren tot de maatstaf voor de premieheffing werknemersverzekeringen op grond van de Wet financiering sociale verzekeringen, behoren tot de maatstaf voor de premieheffing volksverzekeringen op grond van die wet of behoren tot het loon waarover de inhoudingsplichtige of een verzekeringsplichtige een inkomensafhankelijke bijdrage op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) is verschuldigd.
+
+3. Een inkomstenverhouding begint bij de aanvang van de rechtsbetrekking uit hoofde waarvan recht op loon of gage ontstaat, dan wel bij de aanvang van de rechtsbetrekking ter zake waarvan een uitkeringsgerechtigde een socialezekerheidsuitkering ontvangt, waarover de inhoudingsplichtige of werkgever loonbelasting of premie volksverzekeringen inhoudt dan wel betaalt, premie werknemersverzekeringen betaalt of inkomensafhankelijke bijdrage op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) betaalt dan wel inhoudt, en eindigt bij het einde van die rechtsbetrekking.
+
+4. In afwijking van het derde lid mogen twee rechtsbetrekkingen als één inkomstenverhouding worden aangemerkt indien sprake is van elkaar zonder onderbreking opvolgende arbeidsovereenkomsten met dezelfde inhoudingsplichtige of werkgever.
+
+5. In afwijking van het derde en vierde lid eindigt de bestaande inkomstenverhouding en begint een nieuwe inkomstenverhouding op het moment dat:
+
+- a. de verzekeringssituatie van de werknemer voor de werknemersverzekeringen verandert;
+
+- b. ten aanzien van de inhouding van loonbelasting en premie voor de volksverzekeringen op het loon of de gage, bedoeld in het tweede lid, in de loop van het kalenderjaar de op grond van [artikel 25 van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=25) toepasselijke tabel wijzigt van een witte tabel als bedoeld in [artikel 2, onderdeel a, van de Regeling loonbelasting- en premietabellen 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004482&artikel=2), naar een groene tabel als bedoeld in artikel 2, onderdeel b, van de Regeling loonbelasting- en premietabellen 1990, of omgekeerd;
+
+- c. het volgnummer van het loonheffingennummer, op welk volgnummer de rechtsbetrekking in de loonaangifte wordt aangegeven, wijzigt;
+
+- d. degene die de inkomensafhankelijke bijdrage op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) verschuldigd is, wijzigt van inhoudingsplichtige naar verzekeringsplichtige, of omgekeerd.
+
+6. Indien een werknemer met een arbeidsovereenkomst als bedoeld in [artikel 690 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=690) gedurende een aaneengesloten periode van 26 weken geen arbeid meer verricht, wordt in afwijking van het derde lid de inkomstenverhouding beëindigd.
 
 ### Hoofdstuk 2. Slotbepalingen
 
