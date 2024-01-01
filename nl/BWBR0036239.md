@@ -4,7 +4,7 @@ identifier: "BWBR0036239"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2015-02-07"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036239"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 - **producent:** degene wiens bedrijfsactiviteit het is om steenachtige afvalstoffen te bewerken tot recyclinggranulaat;
 
-- **recyclinggranulaat:** granulaat dat ontstaat bij het bewerken van steenachtige afvalstoffen en dat is geproduceerd overeenkomstig een norm als genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036239&bijlage=1&z=2015-02-07&g=2015-02-07);
+- **recyclinggranulaat:** granulaat dat ontstaat bij het bewerken van steenachtige afvalstoffen en dat is geproduceerd overeenkomstig een norm als genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036239&bijlage=1&z=2024-01-01&g=2024-01-01);
 
 - **steenachtige afvalstoffen:** steenachtige afvalstoffen die vrijkomen bij het bouwen, renoveren en slopen van bouwwerken en wegen en andere afvalstoffen die qua aard en samenstelling daaraan gelijkwaardig zijn;
 
@@ -58,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Recyclinggranulaat geen afval
 
-1. Recyclinggranulaat dat voldoet aan de [artikelen 3 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036239&artikel=3&z=2015-02-07&g=2015-02-07) van deze regeling is geen afvalstof.
+1. Recyclinggranulaat dat voldoet aan de [artikelen 3 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036239&artikel=3&z=2024-01-01&g=2024-01-01) van deze regeling is geen afvalstof.
 
 2. Recyclinggranulaat dat op grond van regelgeving van een andere lidstaat van de Europese Unie geen afvalstof is, voldoet aan de artikelen genoemd in het eerste lid, indien:
 
@@ -114,7 +114,7 @@ In deze regeling wordt verstaan onder:
 
 1. Het toevoegen van toeslagstoffen aan recyclinggranulaat is toegestaan indien:
 
-- a. dit gebeurt overeenkomstig een in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036239&bijlage=1&z=2015-02-07&g=2015-02-07) bij deze regeling genoemde productnorm, en
+- a. dit gebeurt overeenkomstig een in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036239&bijlage=1&z=2024-01-01&g=2024-01-01) bij deze regeling genoemde productnorm, en
 
 - b. het eindproduct van recyclinggranulaat met toeslagstof voldoet aan de overige eisen van deze regeling.
 
@@ -134,7 +134,7 @@ In deze regeling wordt verstaan onder:
 
 3. De producent beschikt over een procedure voor het uitvoeren van calibratie van keuringsmiddelen, beproevingsmiddelen en meetmiddelen.
 
-4. Recyclinggranulaat wordt gekeurd met een frequentie en op een wijze die volgen uit de voor deze materialen geldende en in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036239&bijlage=1&z=2015-02-07&g=2015-02-07) bij deze regeling opgenomen normen.
+4. Recyclinggranulaat wordt gekeurd met een frequentie en op een wijze die volgen uit de voor deze materialen geldende en in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036239&bijlage=1&z=2024-01-01&g=2024-01-01) bij deze regeling opgenomen normen.
 
 5. Monsterneming van recyclinggranulaat ten behoeve van civieltechnische aspecten vindt plaats overeenkomstig NEN-EN 932-1 of overeenkomstig eisen die gelijkwaardig zijn aan het gestelde in die norm.
 
@@ -152,7 +152,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 6. Conformiteitverklaring
 
-1. Voor recyclinggranulaat dat voldoet aan deze regeling wordt door de producent na de productie een conformiteitverklaring als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036239&bijlage=2&z=2015-02-07&g=2015-02-07), opgesteld.
+1. Voor recyclinggranulaat dat voldoet aan deze regeling wordt door de producent na de productie een conformiteitverklaring als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036239&bijlage=2&z=2024-01-01&g=2024-01-01), opgesteld.
 
 2. Recyclinggranulaat wordt enkel gebruikt voor de toepassing waarvoor een conformiteitverklaring is afgegeven.
 
@@ -182,7 +182,7 @@ In deze regeling wordt verstaan onder:
 
 4. Recyclinggranulaat voldoet aan de eisen gesteld in deze regeling indien:
 
-- a. het recyclinggranulaat is voorzien van een prestatieverklaring als bedoeld in artikel 4, eerste lid, van de verordening bouwproducten, en die verklaring betrekking heeft op onderdelen genoemd in het eerste tot en met derde lid en de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036239&artikel=3&z=2015-02-07&g=2015-02-07), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0036239&artikel=4&z=2015-02-07&g=2015-02-07) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0036239&artikel=5&z=2015-02-07&g=2015-02-07), en
+- a. het recyclinggranulaat is voorzien van een prestatieverklaring als bedoeld in artikel 4, eerste lid, van de verordening bouwproducten, en die verklaring betrekking heeft op onderdelen genoemd in het eerste tot en met derde lid en de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036239&artikel=3&z=2024-01-01&g=2024-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0036239&artikel=4&z=2024-01-01&g=2024-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0036239&artikel=5&z=2024-01-01&g=2024-01-01), en
 
 - b. het recyclinggranulaat is gecertificeerd volgens een nationaal certificeringsschema, bevattende alle onderdelen, genoemd in onder a, waarop de prestatieverklaring, bedoeld in onder a, geen betrekking heeft.
 
@@ -208,9 +208,29 @@ Deze regeling wordt aangehaald als: Regeling vaststelling van de status einde-af
 | NEN-EN 14227-1 | Hydraulisch gebonden mengsels – Specificaties – Deel 1: Cementgebonden mengsels |
 | NEN-EN 13108-8 | Asfaltgranulaat voor warm asfalt |
 
-## Bijlage 2. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036239&artikel=6&z=2015-02-07&g=2015-02-07)
+## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036239&artikel=1&z=2024-01-01&g=2024-01-01)
 
-| Conformiteitverklaring [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036239&artikel=6&z=2015-02-07&g=2015-02-07) – Regeling vaststelling van de status einde-afval van recyclinggranulaat |
+| Europese productnorm | Naam productnorm |
+| --- | --- |
+| NEN- EN 12620 | Toeslagmaterialen voor beton |
+| NEN-EN 13043 | Toeslagmaterialen voor asfalt en oppervlakbehandeling voor wegen, vliegvelden en andere verkeersgebieden |
+| NEN-EN 13242 | Korrelvormige materialen voor ongebonden en hydraulisch gebonden materialen voor civieltechnische werken en de wegenbouw |
+| NEN-EN 13285 | Verhardingslagen van steenmengsel |
+| NEN-EN 13383-1 | Waterbouwsteen |
+| NEN-EN 13450 | Toeslagmaterialen voor spoorwegballast |
+| NEN-EN 14227-2 | Hydraulisch gebonden mengsels – Specificaties – Deel 2: Slakgebonden mengsels |
+| NEN-EN 14227-1 | Hydraulisch gebonden mengsels – Specificaties – Deel 1: Cementgebonden mengsels |
+| NEN-EN 13108-8 | Asfaltgranulaat voor warm asfalt |
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a. Grondslag
+
+Deze regeling berust op [artikel 1.1, vierde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1).
+
+## Bijlage 2. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036239&artikel=6&z=2024-01-01&g=2024-01-01)
+
+| Conformiteitverklaring [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036239&artikel=6&z=2024-01-01&g=2024-01-01) – Regeling vaststelling van de status einde-afval van recyclinggranulaat |
 | --- |
 | 1. Producent (naam inschrijving KvK): Adres: Contactpersoon: Tel: Fax: E-mail |
 | 2. Type recyclinggranulaat: |
@@ -224,7 +244,7 @@ Deze regeling wordt aangehaald als: Regeling vaststelling van de status einde-af
 |   |
 | 4. a. Het recyclinggranulaat waarop genoemd certificaatnummer van toepassing is, voldoet aan het gestelde in de regeling. |
 |   |
-| b. Het recyclinggranulaat is geproduceerd onder een kwaliteitsborgingsysteem dat ten minste voldoet aan het gestelde in [artikel 7, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036239&artikel=6&z=2015-02-07&g=2015-02-07), van de Regeling vaststelling van de status einde-afval van recyclinggranulaat. |
+| b. Het recyclinggranulaat is geproduceerd onder een kwaliteitsborgingsysteem dat ten minste voldoet aan het gestelde in [artikel 7, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036239&artikel=6&z=2024-01-01&g=2024-01-01), van de Regeling vaststelling van de status einde-afval van recyclinggranulaat. |
 | 5. Ik bevestig dat bovenstaande informatie volledig en correct is. |
 |   |
 | Naam: Datum: Handtekening: |
