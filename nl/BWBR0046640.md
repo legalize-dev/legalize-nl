@@ -4,7 +4,7 @@ identifier: "BWBR0046640"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2022-05-06"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046640"
 soort: "AMvB"
@@ -50,55 +50,37 @@ Hebben goedgevonden en verstaan:
 
 Wijzigt het Besluit activiteiten leefomgeving.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel II. ([Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297))
 
 Wijzigt het Besluit bouwwerken leefomgeving.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III. ([Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313))
 
 Wijzigt het Besluit kwaliteit leefomgeving.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IV. ([Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278))
 
 Wijzigt het Omgevingsbesluit.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel V. ([Invoeringsbesluit Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0044923))
 
 Wijzigt het Invoeringsbesluit Omgevingswet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VI. ([Aanvullingsbesluit bodem Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0044911))
 
 Wijzigt het Aanvullingsbesluit bodem Omgevingswet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VII. ([Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0021609))
 
 Wijzigt het Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VIII. ([Besluit administratieve bepalingen inzake het wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0004826))
 
 Wijzigt het Besluit administratieve bepalingen inzake het wegverkeer (BABW).
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IX. ([Besluit basisregistratie ondergrond](https://wetten.overheid.nl/jci1.3:c:BWBR0040205))
 
 Wijzigt het Besluit basisregistratie ondergrond.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel X. (Besluit van 2 december 2021, houdende wijziging van het Besluit basisregistratie ondergrond en het Invoeringsbesluit Omgevingswet met betrekking tot het aanwijzen van registratieobjecten en een technische wijziging (vierde tranche))
 
@@ -112,17 +94,19 @@ Wijzigt het Besluit bodemkwaliteit.
 
 Wijzigt het Besluit van 14 september 2020 houdende wijziging van het Bouwbesluit 2012, het Besluit bouwwerken leefomgeving, het Besluit kwaliteit leefomgeving en het Omgevingsbesluit in verband met de introductie van een stelsel van certificering voor werkzaamheden aan gasverbrandingsinstallaties.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XIII. (Intrekking)
 
-Dit onderdeel is nog niet inwerking getreden
+De volgende besluiten worden ingetrokken:
+
+- –. Het [Besluit verpakkingen en aanduiding milieugevaarlijke stoffen en preparaten](https://wetten.overheid.nl/jci1.3:c:BWBR0004220); en
+
+- –. het [POP-besluit milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0018138).
 
 ##### Artikel XIV. (Inwerkingtreding)
 
 1. Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. In afwijking van het eerste lid treden [artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0046640&artikel=X&z=2022-05-06&g=2022-05-06) en [artikel XI, onderdelen A tot en met I](https://wetten.overheid.nl/jci1.3:c:BWBR0046640&artikel=XI&z=2022-05-06&g=2022-05-06), in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
+2. In afwijking van het eerste lid treden [artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0046640&artikel=X&z=2024-01-01&g=2024-01-01) en [artikel XI, onderdelen A tot en met I](https://wetten.overheid.nl/jci1.3:c:BWBR0046640&artikel=XI&z=2024-01-01&g=2024-01-01), in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
 ##### Artikel XV. (Citeertitel)
 
