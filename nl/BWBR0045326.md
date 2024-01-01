@@ -4,7 +4,7 @@ identifier: "BWBR0045326"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2024-04-01"
-last_updated: "2021-09-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045326"
 soort: "beleidsregel"
@@ -140,11 +140,15 @@ Het CJIB/AICE verzoekt de officier van justitie een beslissing te nemen over ver
 
 ##### Artikel 1:6. Verzoek tot weigering of vervallenverklaring van een paspoort
 
-1. Van een gegrond vermoeden als bedoeld in [artikel 18, tweede lid, Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=18), op basis waarvan het CJIB/AICE in ieder geval om de weigering of vervallenverklaring van het reisdocument van een veroordeelde zal verzoeken, is sprake indien:
+1. Ter vaststelling van gegrond vermoeden als bedoeld in [artikel 18, tweede lid, Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=18), op basis waarvan het CJIB/AICE om de weigering of vervallenverklaring van het reisdocument van een veroordeelde kan verzoeken, gaat het CJIB/AICE ten minste na of die veroordeelde niet meewerkt of eerder niet heeft meegewerkt aan de tenuitvoerlegging van een strafrechtelijke beslissing, en of zich één van de andere, hierna volgende indicatoren voordoen die het in samenhang met andere ter zake relevante omstandigheden aannemelijk maken dat de veroordeelde zich door verblijf buiten de grenzen van een van de landen van het Koninkrijk zal onttrekken aan de tenuitvoerlegging van de in dat artikel bedoelde straffen of maatregelen:
 
-- a. de veroordeelde niet meewerkt of eerder niet heeft meegewerkt dan wel zich onttrekt aan de tenuitvoerlegging van een strafrechtelijke beslissing;
+- a. de veroordeelde heeft geen of geringe sociaaleconomische binding met het Koninkrijk;
 
-- b. de veroordeelde zich niet heeft gehouden aan aanwijzingen of voorwaarden met betrekking tot diens reisbewegingen of reisbeperkingen.
+- b. de veroordeelde heeft een sterke sociaaleconomische binding met een land buiten het Koninkrijk;
+
+- c. de veroordeelde heeft geen voor de tenuitvoerlegging bruikbaar verblijf- of inschrijfadres in één van de landen van het Koninkrijk;
+
+- d. andere indicatoren die een vlucht naar of verblijf in een land buiten het Koninkrijk aannemelijk maken.
 
 2. Het CJIB/AICE verzoekt niet om opheffing van een paspoortsignalering als bedoeld in het eerste lid zo lang als het gegronde vermoeden bestaat dat de veroordeelde zich door verblijf in het buitenland aan de tenuitvoerlegging van de straf zal onttrekken.
 
@@ -156,13 +160,13 @@ Het CJIB/AICE verzoekt de officier van justitie een beslissing te nemen over ver
 
 1. De veroordeelde die van mening is dat hij om medische redenen niet detentiegeschikt is, kan een verzoek indienen om onderzoek te laten verrichten naar zijn detentiegeschiktheid.
 
-2. Het verzoek van de veroordeelde die zich moet melden in een inrichting als bedoeld in [artikel 2:4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=2&titeldeel=2.2&artikel=2:4&z=2021-09-01&g=2021-09-01), dient te worden voorzien van een ondertekende toestemmingsverklaring voor het opvragen van medische informatie.
+2. Het verzoek van de veroordeelde die zich moet melden in een inrichting als bedoeld in [artikel 2:4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=2&titeldeel=2.2&artikel=2:4&z=2024-01-01&g=2024-01-01), dient te worden voorzien van een ondertekende toestemmingsverklaring voor het opvragen van medische informatie.
 
 3. Het verzoek wordt niet in behandeling genomen, indien:
 
-- a. het verzoek van de veroordeelde die zich moet melden in een inrichting als bedoeld in [artikel 2:4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=2&titeldeel=2.2&artikel=2:4&z=2021-09-01&g=2021-09-01), niet overeenkomstig het tweede lid is ingediend;
+- a. het verzoek van de veroordeelde die zich moet melden in een inrichting als bedoeld in [artikel 2:4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=2&titeldeel=2.2&artikel=2:4&z=2024-01-01&g=2024-01-01), niet overeenkomstig het tweede lid is ingediend;
 
-- b. ten behoeve van het verzoek van de veroordeelde, niet zijnde de veroordeelde die zich moet melden in een inrichting als bedoeld in [artikel 2:4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=2&titeldeel=2.2&artikel=2:4&z=2021-09-01&g=2021-09-01), de toestemmingsverklaring niet binnen zeven dagen na verzending door de medisch adviseur van DJI is ontvangen.
+- b. ten behoeve van het verzoek van de veroordeelde, niet zijnde de veroordeelde die zich moet melden in een inrichting als bedoeld in [artikel 2:4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=2&titeldeel=2.2&artikel=2:4&z=2024-01-01&g=2024-01-01), de toestemmingsverklaring niet binnen zeven dagen na verzending door de medisch adviseur van DJI is ontvangen.
 
 ##### Artikel 2:2. Advies medisch adviseur
 
@@ -172,7 +176,7 @@ Het CJIB/AICE verzoekt de officier van justitie een beslissing te nemen over ver
 
 3. De veroordeelde die niet in detentie zit, dient er melding van te maken, indien de oorzaak voor de tijdelijke afwezigheid van detentiegeschiktheid is komen te vervallen voorafgaand aan de termijn, bedoeld in het eerste lid.
 
-4. Indien de persoon ten aanzien van wie een onderzoek naar detentiegeschiktheid is uitgevoerd, na het verstrijken van de in het eerste lid bedoelde termijn van mening is dat nog immer geen sprake is van detentiegeschiktheid, dient de persoon een verzoek in te dienen als bedoeld in [artikel 2:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=2&titeldeel=2.1&artikel=2:1&z=2021-09-01&g=2021-09-01), na ontvangst van de nieuwe oproep.
+4. Indien de persoon ten aanzien van wie een onderzoek naar detentiegeschiktheid is uitgevoerd, na het verstrijken van de in het eerste lid bedoelde termijn van mening is dat nog immer geen sprake is van detentiegeschiktheid, dient de persoon een verzoek in te dienen als bedoeld in [artikel 2:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=2&titeldeel=2.1&artikel=2:1&z=2024-01-01&g=2024-01-01), na ontvangst van de nieuwe oproep.
 
 5. Indien de medisch adviseur van DJI adviseert dat de veroordeelde blijvend niet detentiegeschikt is, kan deze veroordeelde een gratieverzoek indienen bij de Dienst Justis.
 
@@ -416,7 +420,7 @@ Betalingsregelingen kunnen in ieder geval worden toegestaan voor zover zij betre
 
 3. Een betalingsregeling strekkende tot betaling in termijnen wordt toegestaan in de vorm van een standaardregeling of een maatwerkregeling.
 
-4. Een betalingsregeling, niet zijnde een draagkrachtregeling als bedoeld in [artikel 4:19, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=4&titeldeel=4.6&artikel=4:19&z=2021-09-01&g=2021-09-01), kan slechts worden toegestaan met het oog op een volledige voldoening van de betalingsverplichtingen. Percentagevoorstellen tegen finale kwijting worden niet toegestaan.
+4. Een betalingsregeling, niet zijnde een draagkrachtregeling als bedoeld in [artikel 4:19, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=4&titeldeel=4.6&artikel=4:19&z=2024-01-01&g=2024-01-01), kan slechts worden toegestaan met het oog op een volledige voldoening van de betalingsverplichtingen. Percentagevoorstellen tegen finale kwijting worden niet toegestaan.
 
 ##### Artikel 4:18. Standaardregeling
 
@@ -480,7 +484,7 @@ Bij het toestaan van een betalingsregeling kunnen in ieder geval als voorwaarden
 
 1. Een verzoek tot het treffen van een betalingsregeling wordt in ieder geval afgewezen, indien:
 
-- a. de betalingsplichtige naar het oordeel van het CJIB onvoldoende medewerking als bedoeld in [artikel 4:22](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=4&titeldeel=4.6&artikel=4:22&z=2021-09-01&g=2021-09-01) verleent;
+- a. de betalingsplichtige naar het oordeel van het CJIB onvoldoende medewerking als bedoeld in [artikel 4:22](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=4&titeldeel=4.6&artikel=4:22&z=2024-01-01&g=2024-01-01) verleent;
 
 - b. de betalingsplichtige verwijtbaar onjuiste gegevens verstrekt;
 
@@ -540,7 +544,7 @@ Indien de betalingsplichtige het termijnbedrag van een betalingsregeling niet bi
 
 1. Indien de betalingsregeling wordt beëindigd door het CJIB, wordt de betalingsplichtige in de gelegenheid gesteld om binnen 30 dagen het totaal openstaande bedrag in één keer te voldoen. Na deze periode wordt de tenuitvoerlegging hervat van de geldelijke sancties waarop de betalingsregeling betrekking had.
 
-2. Het bepaalde in het eerste lid is niet van toepassing wanneer er sprake is van de situatie als opgenomen in [artikel 4:29, eerste lid 1, onder d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=4&titeldeel=4.6&artikel=4:29&z=2021-09-01&g=2021-09-01).
+2. Het bepaalde in het eerste lid is niet van toepassing wanneer er sprake is van de situatie als opgenomen in [artikel 4:29, eerste lid 1, onder d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=4&titeldeel=4.6&artikel=4:29&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 4:31. Eindigen van de betalingsregeling
 
@@ -550,7 +554,7 @@ De betalingsregeling eindigt indien alle openstaande vorderingen zijn voldaan bi
 
 ##### Artikel 4:32. Toepasselijke bepalingen
 
-De [artikelen 1:3](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=1&titeldeel=1.2&artikel=1:3&z=2021-09-01&g=2021-09-01), [2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=2&titeldeel=2.1&artikel=2:1&z=2021-09-01&g=2021-09-01), [2:2](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=2&titeldeel=2.1&artikel=2:2&z=2021-09-01&g=2021-09-01), [2:3](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=2&titeldeel=2.1&artikel=2:3&z=2021-09-01&g=2021-09-01), [2:5](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=2&titeldeel=2.3&artikel=2:5&z=2021-09-01&g=2021-09-01), [4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=4&titeldeel=4.1&artikel=4:1&z=2021-09-01&g=2021-09-01), [4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=4&titeldeel=4.1&artikel=4:2&z=2021-09-01&g=2021-09-01), [4:5](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=4&titeldeel=4.3&artikel=4:5&z=2021-09-01&g=2021-09-01), [4:6](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=4&titeldeel=4.3&artikel=4:6&z=2021-09-01&g=2021-09-01), [4:7](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=4&titeldeel=4.4&artikel=4:7&z=2021-09-01&g=2021-09-01), [4:8](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=4&titeldeel=4.4&artikel=4:8&z=2021-09-01&g=2021-09-01), [4:9](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=4&titeldeel=4.4&artikel=4:9&z=2021-09-01&g=2021-09-01) en [titel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=4&titeldeel=4.6&z=2021-09-01&g=2021-09-01) zijn van overeenkomstige toepassing op de tenuitvoerlegging van administratieve sancties op grond van de [Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0004581).
+De [artikelen 1:3](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=1&titeldeel=1.2&artikel=1:3&z=2024-01-01&g=2024-01-01), [2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=2&titeldeel=2.1&artikel=2:1&z=2024-01-01&g=2024-01-01), [2:2](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=2&titeldeel=2.1&artikel=2:2&z=2024-01-01&g=2024-01-01), [2:3](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=2&titeldeel=2.1&artikel=2:3&z=2024-01-01&g=2024-01-01), [2:5](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=2&titeldeel=2.3&artikel=2:5&z=2024-01-01&g=2024-01-01), [4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=4&titeldeel=4.1&artikel=4:1&z=2024-01-01&g=2024-01-01), [4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=4&titeldeel=4.1&artikel=4:2&z=2024-01-01&g=2024-01-01), [4:5](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=4&titeldeel=4.3&artikel=4:5&z=2024-01-01&g=2024-01-01), [4:6](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=4&titeldeel=4.3&artikel=4:6&z=2024-01-01&g=2024-01-01), [4:7](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=4&titeldeel=4.4&artikel=4:7&z=2024-01-01&g=2024-01-01), [4:8](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=4&titeldeel=4.4&artikel=4:8&z=2024-01-01&g=2024-01-01), [4:9](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=4&titeldeel=4.4&artikel=4:9&z=2024-01-01&g=2024-01-01) en [titel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=4&titeldeel=4.6&z=2024-01-01&g=2024-01-01) zijn van overeenkomstige toepassing op de tenuitvoerlegging van administratieve sancties op grond van de [Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0004581).
 
 ##### Artikel 4:33. Zekerheidsstelling in beroep
 
