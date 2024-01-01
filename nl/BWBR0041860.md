@@ -4,7 +4,7 @@ identifier: "BWBR0041860"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2023-11-15"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041860"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - **Minister:** Minister van Onderwijs, Cultuur en Wetenschap;
 
-- **commissie:** Tijdelijke adviescommissie regionaal investeringsfonds mbo, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041860&artikel=2&z=2023-11-15&g=2023-11-15).
+- **commissie:** Tijdelijke adviescommissie regionaal investeringsfonds mbo, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041860&artikel=2&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 2. Instelling commissie
 
@@ -54,7 +54,7 @@ In dit besluit wordt verstaan onder:
 
 2. De commissie wordt ingesteld met ingang van 1 januari 2019 en wordt opgeheven met ingang van 1 januari 2028.
 
-3. Leden van de commissie zijn ook na 1 januari 2028 te consulteren door de Minister in verband met de rechten en plichten die voortvloeien uit de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041860&artikel=3&z=2023-11-15&g=2023-11-15) genoemde taken van de commissie.
+3. Leden van de commissie zijn ook na 1 januari 2028 te consulteren door de Minister in verband met de rechten en plichten die voortvloeien uit de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041860&artikel=3&z=2024-01-01&g=2024-01-01) genoemde taken van de commissie.
 
 ##### Artikel 3. Taken commissie Regeling regionaal investeringsfonds mbo 2019–2022
 
@@ -164,7 +164,7 @@ De commissie verstrekt aan de Minister desgevraagd de door hem gewenste inlichti
 
 1. De vergoeding van de voorzitter van de commissie bedraagt € 362,22 per dagdeel.
 
-2. De vergoeding van de overige leden bedraagt € 278,63 per dagdeel.
+2. De vergoeding van de overige leden bedraagt € 331,– per dagdeel.
 
 3. Een commissielid ontvangt de volgende vergoeding:
 
