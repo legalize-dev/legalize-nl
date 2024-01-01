@@ -4,7 +4,7 @@ identifier: "BWBR0048252"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2023-10-26"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048252"
 soort: "wet"
@@ -68,8 +68,6 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Algemene douanewet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IV
 
 Wijzigt de Algemene wet inkomensafhankelijke regelingen.
@@ -128,13 +126,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Uitvoeringswet huurprijzen woonruimte.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XIV
 
 Wijzigt de Vreemdelingenwet 2000.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XV
 
@@ -200,8 +194,6 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Wet op de inlichtingen- en veiligheidsdiensten 2017.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXIII
 
 Wijzigt de Wet op de loonvorming.
@@ -217,8 +209,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XXV
 
 Wijzigt de Wet op het notarisambt.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXVI
 
@@ -278,8 +268,6 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Wet wapens en munitie.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXXIV
 
 Wijzigt deze wet.
@@ -297,6 +285,14 @@ Dit onderdeel is nog niet inwerking getreden
 Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXXVII
+
+Dit onderdeel is nog niet inwerking getreden
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel XXXA
+
+Wijzigt de Wet inkomstenbelasting 2001.
 
 Dit onderdeel is nog niet inwerking getreden
 
