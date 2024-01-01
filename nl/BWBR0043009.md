@@ -4,7 +4,7 @@ identifier: "BWBR0043009"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2020-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043009"
 soort: "ministeriele-regeling"
@@ -46,17 +46,17 @@ Deze regeling geeft uitvoering aan [artikel 67r van de Algemene wet inzake rijks
 
 ##### Artikel 2. Zienswijze
 
-1. De inspecteur, onderscheidenlijk de Belastingdienst/Toeslagen, stelt de overtreder schriftelijk in kennis van het voornemen tot het nemen van een voor bezwaar vatbare beschikking tot openbaarmaking van de boetebeschikking (de kennisgeving).
+1. De inspecteur, onderscheidenlijk de Dienst Toeslagen, stelt de overtreder schriftelijk in kennis van het voornemen tot het nemen van een voor bezwaar vatbare beschikking tot openbaarmaking van de boetebeschikking (de kennisgeving).
 
 2. De kennisgeving vermeldt de gronden waarop het voornemen berust.
 
-3. De inspecteur, onderscheidenlijk de Belastingdienst/Toeslagen, geeft de overtreder een redelijke termijn waarbinnen de overtreder de in de kennisgeving vermelde gronden gemotiveerd kan betwisten.
+3. De inspecteur, onderscheidenlijk de Dienst Toeslagen, geeft de overtreder een redelijke termijn waarbinnen de overtreder de in de kennisgeving vermelde gronden gemotiveerd kan betwisten.
 
 ##### Artikel 3. Toetsingskader proportionaliteit
 
-1. De inspecteur, onderscheidenlijk de Belastingdienst/Toeslagen, weegt het belang van een adequate voorlichting van het publiek af tegen het belang dat de overtreder heeft bij eerbiediging van zijn persoonlijke levenssfeer.
+1. De inspecteur, onderscheidenlijk de Dienst Toeslagen, weegt het belang van een adequate voorlichting van het publiek af tegen het belang dat de overtreder heeft bij eerbiediging van zijn persoonlijke levenssfeer.
 
-2. Bij de belangenafweging neemt de inspecteur, onderscheidenlijk de Belastingdienst/Toeslagen, in elk geval de volgende factoren in aanmerking:
+2. Bij de belangenafweging neemt de inspecteur, onderscheidenlijk de Dienst Toeslagen, in elk geval de volgende factoren in aanmerking:
 
 - a. de hoogte van de boete;
 
