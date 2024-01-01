@@ -4,7 +4,7 @@ identifier: "BWBR0041827"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-02-13"
-last_updated: "2019-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041827"
 soort: "ministeriele-regeling"
@@ -74,7 +74,7 @@ Aan de directeur-generaal is voorbehouden: het nemen van besluiten, het verricht
 
 ##### Artikel 3
 
-1. Aan de directeuren wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 1.000.000 per verplichting niet te boven gaat.
+1. Aan de directeuren wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 2.000.000 per verplichting niet te boven gaat.
 
 2. Aan de directeuren wordt tevens, ieder voor zich, voor de onder hen ressorterende medewerkers ondermandaat, volmacht en machtiging verleend voor:
 
@@ -90,7 +90,7 @@ Aan de directeur-generaal is voorbehouden: het nemen van besluiten, het verricht
 
 ##### Artikel 4
 
-1. Aan de MT-leden van een directie wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 50.000 per verplichting niet te boven gaat.
+1. Aan de MT-leden van een directie wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 100.000 per verplichting niet te boven gaat.
 
 2. Aan de MT-leden van een directie wordt voorts, ieder voor zich, voor de onder hen ressorterende medewerkers ondermandaat, volmacht en machtiging verleend voor:
 
@@ -106,7 +106,7 @@ Aan de directeur-generaal is voorbehouden: het nemen van besluiten, het verricht
 
 ##### Artikel 5
 
-1. Aan het hoofd cluster Algemene Zaken wordt ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 15.000 niet te boven gaat.
+1. Aan het hoofd cluster Algemene Zaken wordt ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 30.000 niet te boven gaat.
 
 2. Aan het hoofd cluster Algemene Zaken wordt tevens voor de onder hem ressorterende medewerkers ondermandaat, volmacht en machtiging verleend voor:
 
