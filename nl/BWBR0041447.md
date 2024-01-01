@@ -4,7 +4,7 @@ identifier: "BWBR0041447"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2023-05-31"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041447"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Deze regeling wordt aangehaald als: Regeling domeinlijsten buitengewoon opsporingsambtenaar.
 
-## Bijlage. als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041447&artikel=1&z=2023-05-31&g=2023-05-31) van de Regeling domeinen buitengewoon opsporingsambtenaar
+## Bijlage. als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041447&artikel=1&z=2024-01-01&g=2024-01-01) van de Regeling domeinen buitengewoon opsporingsambtenaar
 
 ### Domein I. Openbare ruimte
 
@@ -64,11 +64,11 @@ De boa Openbare ruimte is belast met de opsporing van de strafbare feiten in de 
 
 ### Domein II. Milieu, welzijn en infrastructuur
 
+2 Voor interpretatie van deze artikelen wordt verwezen naar de [Beleidsregels buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0039766) paragraaf.
+
+### Domein II. Milieu, welzijn en infrastructuur
+
 De boa Milieu, welzijn en infrastructuur is belast met de opsporing van de strafbare feiten in de volgende wettelijke voorschriften voor zover noodzakelijk voor een goede uitoefening van de functie en de daaraan gekoppelde taakomschrijving, tenzij de wet zich daartegen verzet.
-
-### Domein III. Onderwijs
-
-De boa Onderwijs is belast met de opsporing van de strafbare feiten in de volgende wettelijke voorschriften voor zover noodzakelijk voor een goede uitoefening van de functie en de daaraan gekoppelde taakomschrijving, tenzij de wet zich daartegen verzet.
 
 ### Domein IV. Openbaar vervoer
 
@@ -76,7 +76,29 @@ De boa Openbaar Vervoer is belast met de opsporing van de strafbare feiten in de
 
 ### Domein V. Werk, inkomen en zorg
 
+4 Voor interpretatie van deze artikelen wordt verwezen naar de [Beleidsregels buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0039766) paragraaf.
+
+### Domein IV. Openbaar vervoer
+
+De boa Openbaar Vervoer is belast met de opsporing van de strafbare feiten in de volgende wettelijke voorschriften voor zover noodzakelijk voor een goede uitoefening van de functie en de daaraan gekoppelde taakomschrijving, tenzij de wet zich daartegen verzet.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+1 Overigens is voor de opsporingsbevoegdheid met betrekking tot uitsluitend de [artikelen 45](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=45) en [45a Alcoholwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=45a) de opleiding bedoeld in [artikel 3, onderdeel a, van de Regeling toezichthoudende ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0032771&artikel=3) niet vereist.
+
+3 Voor interpretatie van deze artikelen wordt verwezen naar de [Beleidsregels buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0039766) paragraaf.
+
+### Domein III. Onderwijs
+
+De boa Onderwijs is belast met de opsporing van de strafbare feiten in de volgende wettelijke voorschriften voor zover noodzakelijk voor een goede uitoefening van de functie en de daaraan gekoppelde taakomschrijving, tenzij de wet zich daartegen verzet.
+
+5 Voor interpretatie van deze artikelen wordt verwezen naar de [Beleidsregels buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0039766) paragraaf.
+
+### Domein V. Werk, inkomen en zorg
+
 De boa Werk, inkomen en zorg is belast met de opsporing van de strafbare feiten in de volgende wettelijke voorschriften voor zover noodzakelijk voor een goede uitoefening van de functie en de daaraan gekoppelde taakomschrijving, tenzij de wet zich daartegen verzet.
+
+6 Voor interpretatie van deze artikelen wordt verwezen naar de [Beleidsregels buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0039766) paragraaf.
 
 ### Domein VI. Generieke opsporing
 
