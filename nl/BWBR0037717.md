@@ -4,7 +4,7 @@ identifier: "BWBR0037717"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-06-26"
-last_updated: "2016-04-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037717"
 soort: "ministeriele-regeling"
@@ -65,5 +65,19 @@ Het is de exploitant van een scheepsrecyclinginrichting verboden te handelen in 
 ##### Artikel 5
 
 Deze regeling treedt in werking op 1 april 2016.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+Deze regeling berust mede op [artikel 21.6, vierde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=21.6).
+
+##### Artikel 4a
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 4b
+
+Dit onderdeel is nog niet inwerking getreden
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
