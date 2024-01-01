@@ -4,7 +4,7 @@ identifier: "BWBR0026845"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2023-08-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026845"
 soort: "ministeriele-regeling"
@@ -44,19 +44,13 @@ Besluiten:
 
 ##### Artikel 1.1
 
-In deze regeling wordt verstaan onder:
-
-- **besluit:** [Waterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872);
-
-- **minister:** minister van Infrastructuur en Milieu;
-
-- **SPF:** Seasonal Performance Factor, waarmee het rendement van een bodemenergiesysteem wordt weergegeven, uitgedrukt als de door het systeem geleverde hoeveelheden warmte en koude per jaar in MWh, gedeeld door het gemeten of berekende energieverbruik van het systeem per jaar in MWh.
+Vervallen
 
 ### Hoofdstuk 2. Doelstellingen en normen
 
 ##### Artikel 2.1
 
-Als categorieën van bedrijven of bedrijfsactiviteiten als bedoeld in [artikel 2.3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=2.3) worden aangewezen de bedrijven en bedrijfsactiviteiten die zijn vermeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=I&z=2023-08-01&g=2023-08-01) bij deze regeling.
+Vervallen
 
 ### Hoofdstuk 3. Organisatie van het waterbeheer
 
@@ -64,79 +58,27 @@ Als categorieën van bedrijven of bedrijfsactiviteiten als bedoeld in [artikel 2
 
 ##### Artikel 3.1
 
-In deze paragraaf wordt verstaan onder:
-
-- **waterkwaliteitsbeheer:** uitvoeren en handhaven van bij of krachtens de wet gestelde regels met betrekking tot lozen als bedoeld in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.1) of [7.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.1) of de verontreiniging of aantasting van de bodem of oever van een oppervlaktewaterlichaam;
-
-- **waterkwantiteitsbeheer:** uitvoeren en handhaven van bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458) gestelde regels ten aanzien van peilbesluiten of het brengen van water in of het onttrekken van water uit oppervlaktewaterlichamen;
-
-- **waterstaatkundig beheer:** beheer van oppervlaktewaterlichamen, anders dan waterkwaliteitsbeheer of waterkwantiteitsbeheer.
+Vervallen
 
 ##### Artikel 3.2
 
-1. Het waterkwaliteitsbeheer van de in [artikel 3.1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=3.1) bedoelde oppervlaktewaterlichamen en zijwateren daarvan berust bij het Rijk voor zover deze gelegen zijn binnen de grenzen als aangegeven op de kaart in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=II&z=2023-08-01&g=2023-08-01) bij deze regeling.
-
-2. Het waterkwantiteitsbeheer van de in [artikel 3.1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=3.1) bedoelde oppervlaktewaterlichamen en zijwateren daarvan berust bij het Rijk voor zover deze zijn gelegen binnen de grenzen als aangegeven op de kaart in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=III&z=2023-08-01&g=2023-08-01) bij deze regeling.
-
-3. Het waterstaatkundig beheer van de in [artikel 3.1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=3.1) bedoelde oppervlaktewaterlichamen en zijwateren daarvan berust bij het Rijk voor zover deze zijn gelegen binnen de grenzen als aangegeven op de kaart in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=IV&z=2023-08-01&g=2023-08-01) bij deze regeling.
+Vervallen
 
 ##### Artikel 3.3
 
-1. Als drogere oevergebieden als bedoeld in [artikel 3.3, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=3.3) worden aangewezen de gebieden, die als zodanig zijn begrensd op de kaart in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=II&z=2023-08-01&g=2023-08-01) bij deze regeling.
-
-2. Tot de drogere oevergebieden, bedoeld in het eerste lid, behoren niet:
-
-- a. de binnen de in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=II&z=2023-08-01&g=2023-08-01) bij deze regeling opgenomen begrenzing van drogere oevergebieden vallende oppervlaktewaterlichamen;
-
-- b. de kunstwerken die deel uitmaken van die oppervlaktewaterlichamen.
+Vervallen
 
 ##### Artikel 3.4
 
-1. In afwijking van [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2023-08-01&g=2023-08-01) wordt de grens van het oppervlaktewaterlichaam Noordzee aan de zeezijde gevormd door de grenzen van de Nederlandse Exclusieve Economische Zone en de grenzen van de Nederlandse territoriale wateren.
-
-2. In afwijking van [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2023-08-01&g=2023-08-01) wordt de grens van de oppervlaktewaterlichamen Noordzee en de Waddenzee aan de landzijde gevormd door de duinvoet, voor zover zij niet overgaan in andere oppervlaktewaterlichamen in beheer bij het Rijk. Indien geen duinvoet aanwezig is, worden de grenzen van deze oppervlaktewaterlichamen gevormd door de buitenkruinlijn van de primaire waterkering. Het gebied tussen de duinvoet en de grenzen als aangegeven op de kaarten in de [bijlagen II](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=II&z=2023-08-01&g=2023-08-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=III&z=2023-08-01&g=2023-08-01) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=IV&z=2023-08-01&g=2023-08-01) bij deze regeling is in beheer bij het Rijk.
-
-3. In afwijking van het eerste en tweede lid worden op en rond de Waddeneilanden de grenzen van de oppervlaktewaterlichamen Noordzee en Waddenzee gevormd door de op de kaarten in de [bijlagen II](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=II&z=2023-08-01&g=2023-08-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=III&z=2023-08-01&g=2023-08-01), en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=IV&z=2023-08-01&g=2023-08-01) bij deze regeling opgenomen grenzen.
-
-4. Het beheer van de Noordzee, de Waddenzee, de Eems en de Dollard in de gebieden die zijn aangewezen op de kaarten in de [bijlagen II](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=II&z=2023-08-01&g=2023-08-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=III&z=2023-08-01&g=2023-08-01) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=IV&z=2023-08-01&g=2023-08-01) van deze regeling, berust bij het Rijk voor zover de Staat der Nederlanden bevoegdheden heeft op grond van het Eems-Dollard Verdrag.
+Vervallen
 
 ##### Artikel 3.5
 
-1. De volgende onderdelen van en de inliggende kunstwerken binnen het oppervlaktewaterlichaam Waddenzee op Terschelling zijn niet in beheer bij het Rijk:
-
-- a. de voormalige rijkshaven bij West-Terschelling, inclusief de keermuur langs de Willem Barentszkade, de glooiingen Dellewal en Groene Strand, de Westhavendam, hoofd P, de Oosthavendam, de kaden, de loskade Dellewal, het opslagterrein, de houten steigers en de Plaat, het openbare deel van het veerhaventerrein en de hiervoor niet met name genoemde dammen;
-
-- b. de binnen de gemeente Terschelling gelegen zeven strandovergangen met bijbehorende werken en voorzieningen en het parkeerterrein bij de strandovergang paal 18 (Oosterend).
-
-2. De damwand en aanleginrichtingen van de veerdam op Schiermonnikoog en de terreingedeelten, die bij de veermaatschappij in pacht zijn, met uitzondering van het weglichaam op de veerdam en de verhardingen en taluds daarvan, maken onderdeel uit van het oppervlaktewaterlichaam Waddenzee en zijn in beheer bij het Rijk.
-
-3. De volgende onderdelen van en de inliggende kunstwerken binnen het oppervlaktewaterlichaam Waddenzee te Harlingen zijn niet in beheer bij het Rijk:
-
-- a. de voormalige rijkshavenwerken te Harlingen, bestaande uit de Voorhaven, de Willemshaven en de Nieuwe Willemshaven;
-
-- b. de tot deze havens behorende kunstwerken, te weten de havendammen, wegen, kaden, waterkering, steigers en kompaspaal en alle overige tot de haven behorende werken, met uitzondering van het kantonniersverblijf nabij de visafslag, de aanleginrichting voor de veerdiensten van Harlingen naar Terschelling en Vlieland, de aanlegsteiger aan de Zuiderhavendam en de drijvende steiger in de vluchthaven met de daarbij behorende opstal.
-
-4. De volgende onderdelen van en de inliggende kunstwerken binnen het oppervlaktewaterlichaam Waddenzee te Ameland zijn niet in beheer bij het Rijk:
-
-- a. het openbare deel van de veerdam bij Nes Ameland;
-
-- b. de losstoep in de Ballumerbocht;
-
-- c. het fietspad door de duinen lopend vanaf de zuidzijde van het Hollumerbos tot de Oerderduinen;
-
-- d. de binnen de gemeente Ameland gelegen 36 strandovergangen, met bijbehorende werken en voorzieningen.
-
-5. De volgende onderdelen van en de inliggende kunstwerken binnen het oppervlaktewaterlichaam Waddenzee te Vlieland zijn niet in beheer bij het Rijk:
-
-- a. de voormalige rijkswerkhaven, inclusief de havendijk met coupure, de kaden aan de noord-, oost-, zuidoost- en zuidwestzijde van de haven, het haventerrein, het noordelijk en zuidelijk havenhoofd en de remmingwerken en steigers langs de beide havenhoofden;
-
-- b. de Waddenglooiing Oosterveld met voorliggende dammen;
-
-- c. de Waddenglooiing Westerveld met voorliggende dammen.
+Vervallen
 
 ##### Artikel 3.6
 
-In afwijking van [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2023-08-01&g=2023-08-01), is de begrenzing van het beheergebied van het Rijk voor waterkwaliteitsbeheer, waterkwantiteitsbeheer en waterstaatkundig beheer in het oppervlaktewaterlichaam Grensmaas gelijk aan de landsgrens tussen Nederland en België.
+Vervallen
 
 ##### Artikel 3.7
 
@@ -146,21 +88,13 @@ Vervallen
 
 ##### Artikel 3.8
 
-1. De gegevens, bedoeld in [artikel 3.4, tweede lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=3.4), worden uiterlijk op 22 juni 2014, op 22 juni 2015 en vervolgens elke 6 jaar na die tijdstippen verstrekt.
-
-2. De resultaten, bedoeld in [artikel 3.4, tweede lid, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=3.4), worden uiterlijk op 22 juni 2013 en vervolgens elke 6 jaar verstrekt.
-
-3. De gegevens, bedoeld in [artikel 3.4, tweede lid, onderdeel c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=3.4), worden uiterlijk op 22 juni 2012 en vervolgens elke 6 jaar verstrekt.
-
-4. De website, bedoeld in [artikel 3.4, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=3.4), is het KRW-portaal http://krw.ncqi.nl.
-
-5. Voor de verstrekking van de gegevens en resultaten, bedoeld in [artikel 3.4, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=3.4), wordt gebruik gemaakt van de in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=V&z=2023-08-01&g=2023-08-01) bij deze regeling opgenomen formulieren.
+Vervallen
 
 ### Hoofdstuk 4. Plannen
 
 ##### Artikel 4.1
 
-Een regionaal waterplan omvat mede een overzicht van de toestandsklasse per stof en kwaliteitselement van elk waterlichaam waarop het plan betrekking heeft, bepaald over de voorgaande planperiode overeenkomstig het monitoringsprogramma, bedoeld in [artikel 13, eerste lid, van het Besluit kwaliteitseisen en monitoring water 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027061&artikel=13).
+Vervallen
 
 ### Hoofdstuk 4. Plannen
 
@@ -170,21 +104,11 @@ Een regionaal waterplan omvat mede een overzicht van de toestandsklasse per stof
 
 ##### Artikel 6.1
 
-In een vergunning krachtens [artikel 6.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.2) wordt bepaald dat de vergunning geldt voor een daarbij te bepalen termijn van ten hoogste tien jaar, indien zij wordt afgegeven voor het in een oppervlaktewaterlichaam brengen van een of meer stoffen, behorende tot lijst I van bijlage I van [richtlijn 2006/11/EG](32006L0011) van het Europees Parlement en de Raad van de Europese Unie van 15 februari 2006 betreffende de verontreiniging veroorzaakt door bepaalde gevaarlijke stoffen die in het aquatisch milieu van de Gemeenschap worden geloosd (PbEU L 64), waarvoor grenswaarden zijn vastgesteld in:
-
-- a. [richtlijn nr. 82/176/EEG](31982L0176) van de Raad van 22 maart 1982, betreffende grenswaarden en kwaliteitsdoelstellingen voor kwiklozingen afkomstig van de sector elektrolyse van alkalichloriden (PbEG L 81);
-
-- b. [richtlijn 83/513/EEG](31983L0513) van de Raad van 26 september 1983 betreffende grenswaarden en kwaliteitsdoelstellingen voor lozingen van cadmium (PbEG L 291);
-
-- c. [richtlijn nr. 84/156/EEG](31984L0156) van de Raad van 8 maart 1984, betreffende grenswaarden en kwaliteitsdoelstellingen voor kwiklozingen afkomstig van andere sectoren dan de elektrolyse van alkalichloriden (PbEG L 74);
-
-- d. [richtlijn nr. 84/491/EEG](31984L0491) van de Raad van 9 oktober 1984 betreffende de grenswaarden en kwaliteitsdoelstellingen voor de lozing van hexachloorcyclohexaan (PbEG L 274); of
-
-- e. [richtlijn nr. 86/280/EEG](31986L0280) van de Raad van 12 juni 1986 betreffende grenswaarden en kwaliteitsdoelstellingen voor lozingen van bepaalde onder lijst I van de bijlage van [Richtlijn 76/464/EEG](31976L0464) vallende gevaarlijke stoffen (PbEG L 181).
+Vervallen
 
 ##### Artikel 6.2
 
-Het bevoegd gezag beziet vier jaar nadat een vergunning als bedoeld in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=6&paragraaf=1&artikel=6.1&z=2023-08-01&g=2023-08-01) is verleend, en vervolgens ten minste elke vier jaar, of die vergunning nog toereikend is, gezien de ontwikkelingen op het gebied van de technische mogelijkheden tot bescherming van het milieu en de ontwikkelingen met betrekking tot de kwaliteit van het milieu.
+Vervallen
 
 #### § 1. Algemene bepalingen over het lozen van stoffen
 
@@ -196,421 +120,123 @@ Vervallen
 
 ##### Artikel 6.4
 
-1. Bij een melding van het onttrekken van grondwater als bedoeld in [artikel 6.11, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.11), worden de gegevens genoemd in [artikel 6.27](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=6&paragraaf=6&artikel=6.27&z=2023-08-01&g=2023-08-01) verstrekt.
-
-2. Indien een melding als bedoeld in het eerste lid betrekking heeft op het onttrekken van grondwater ten behoeve van een bodemenergiesysteem als bedoeld in [artikel 6.4, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.4), worden tevens de gegevens, genoemd in [artikel 6.29](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=6&paragraaf=6&artikel=6.29&z=2023-08-01&g=2023-08-01), verstrekt.
-
-3. Bij een melding van het infiltreren van water als bedoeld in [artikel 6.11, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.11) worden de gegevens genoemd in [artikel 6.28](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=6&paragraaf=6&artikel=6.28&z=2023-08-01&g=2023-08-01) verstrekt.
+Vervallen
 
 ##### Artikel 6.5
 
-1. Degene die water infiltreert, meet de kwaliteit van het te infiltreren water door het nemen van representatieve monsters en het analyseren van de in [bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=VII&z=2023-08-01&g=2023-08-01) bij deze regeling opgenomen parameters met de in die bijlage genoemde frequentie.
-
-2. De analyse van de monsters vindt plaats overeenkomstig [bijlage 4 van de Drinkwaterregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0030152&bijlage=4).
+Vervallen
 
 #### § 3. Het onttrekken van grondwater en infiltreren van water
 
 ##### Artikel 6.6
 
-In deze paragraaf wordt verstaan onder:
-
-- **vaarweg:** voor het openbaar verkeer met schepen openstaand water.
+Vervallen
 
 ##### Artikel 6.7
 
-1. Als gebieden als bedoeld in [artikel 6.16, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.16), worden aangewezen de gebieden die op de kaarten in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=IV&z=2023-08-01&g=2023-08-01) bij deze regeling zijn opgenomen.
-
-2. Onverminderd het eerste lid worden rijkswateren als bedoeld in [artikel 3.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=3&paragraaf=1&artikel=3.2a&z=2023-08-01&g=2023-08-01) eveneens aangewezen als gebieden als bedoeld in [artikel 6.16, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.16).
+Vervallen
 
 #### § 4.1. Algemene regels
 
 ##### Artikel 6.8
 
-Het gebruik, bedoeld in [art 6.15, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.15), wordt in ieder geval zodanig uitgevoerd dat:
-
-- a. de tot stand gebrachte werken door de gebruiker in goede staat worden onderhouden;
-
-- b. van calamiteiten of gebreken en andere onvolkomenheden door de gebruiker onmiddellijk mededeling wordt gedaan aan de minister;
-
-- c. de gebruiker alle maatregelen treft die, zowel in het belang van een vlotte en veilige verkeersregulering als in het belang van de instandhouding van het betreffende oppervlaktewaterlichaam of bijbehorend kunstwerk noodzakelijk zijn;
-
-- d. de stabiliteit van oeverconstructies niet in gevaar wordt gebracht;
-
-- e. na beëindiging van tijdelijke activiteiten het gebruikte deel van het oppervlaktewaterlichaam of bijbehorend kunstwerk, wanneer dat redelijkerwijs mogelijk is, weer in de oorspronkelijke staat wordt teruggebracht;
-
-- f. tijdens de activiteit of werkzaamheden het oppervlaktewaterlichaam of bijbehorend kunstwerk bereikbaar blijft voor de beheerder en voor hulpdiensten;
-
-- g. bestaand gebruik op de desbetreffende locatie redelijkerwijs zo min mogelijk hinder ondervindt, en
-
-- h. het gebruikte materiaal en materieel tijdig wordt verwijderd bij zodanig hoog water dat overstroming of wegslag hiervan dreigt.
+Vervallen
 
 ##### Artikel 6.9
 
-Het gebruik, bedoeld in [art 6.15, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.15), wordt wanneer het vaarwegen betreft onverminderd het bepaalde in [artikel 6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=6&paragraaf=4&sub-paragraaf=4.1&artikel=6.8&z=2023-08-01&g=2023-08-01), zodanig uitgevoerd dat:
-
-- a. de doorvaart van de scheepvaart, zowel in de breedte als in de hoogte, niet wordt belemmerd;
-
-- b. de zichtlijnen voor de scheepvaart niet worden gehinderd;
-
-- c. de zichtlijnen voor de bedienings- en begeleidingsobjecten niet worden gehinderd;
-
-- d. geen hinder voor radar wordt veroorzaakt;
-
-- e. geen hinderlijke uitstraling van verlichting voor het scheepvaartverkeer wordt veroorzaakt;
-
-- f. geen open vuur of vuurwerk boven de vaarweg wordt aangestoken, en
-
-- g. geen werken of onderdelen daarvan, materiaal of materieel uit de damwand steken.
+Vervallen
 
 ##### Artikel 6.10
 
-[Artikel 6.12, tweede lid, aanhef en onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.12) is niet van toepassing op kanalen.
+Vervallen
 
 #### § 4.1. Algemene regels
 
 ##### Artikel 6.11
 
-1. Activiteiten van ondergeschikt belang als bedoeld in [artikel 6.12, tweede lid, onderdeel f, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.12) zijn:
-
-- a. het voor een periode van ten hoogste zes maanden plaatsen en opslaan van bouwwerken, bouwborden, materiaal en materieel om een werk of onderhoud te kunnen uitvoeren in, op, boven, over of onder een oppervlaktewaterlichaam of een bijbehorend kunstwerk;
-
-- b. evenementen die niet langer duren dan drie maanden;
-
-- c. het plaatsen van een in- of uitstroomvoorziening, mits de in- of uitstroomsnelheid maximaal 0,3 m/s bedraagt;
-
-- d. het plaatsen van een steiger, vlonder of aanmeervoorziening, inclusief de bijbehorende voorzieningen, voor zover deze gelegen zijn buiten de vaarweg en bestemd zijn voor niet-bedrijfsmatig gebruik, dan wel naar aard en omvang vergelijkbaar overig gebruik;
-
-- e. het plaatsen van informatieborden, informatiezuilen, reclameborden, reclamezuilen, sport- en speeltoestellen, gedenktekens, kunstobjecten, vlaggenmasten, tuin- en straatmeubilair of in aard en omvang hiermee vergelijkbare objecten, waarvoor geen of een beperkte fundering vereist is;
-
-- f. terreinophogingen van minder dan 50 m3 per kadastraal perceel;
-
-- g. het plaatsen van visfuiken of visnetten;
-
-- h. het uitvoeren van onderhoud en vervanging van bestaande objecten door objecten van vergelijkbare aard en omvang en op dezelfde locatie;
-
-- i. het gelijkvloers op het maaiveldniveau aanbrengen van verhardingen en recreatieve voorzieningen, niet zijnde een bouwwerk;
-
-- j. het plaatsen van kabels en leidingen mits:
-
-- 1°. deze geen intrinsiek gevaarlijke stoffen transporteren;
-
-- 2°. deze niet liggen, parallel of als kruising, in de veiligheidszone van een primaire of secundaire waterkering, een kunstwerk of een vaarweg, of
-
-- 3°. deze niet aangelegd worden middels boring, waarbij lagen met verschillende stijghoogtes worden doorkruist;
-
-- k. onderzoeken die niet langer duren dan zes maanden, en
-
-- l. andere activiteiten die vanwege de aard, beperkte omvang of korte duur naar het oordeel van de beheerder geen nadelige invloed hebben op het waterstaatkundige beheer.
-
-2. Het bepaalde in het eerste lid, onderdelen d, e en g, is niet van toepassing op kanalen.
+Vervallen
 
 ##### Artikel 6.12
 
-1. Activiteiten van ondergeschikt belang als bedoeld in [artikel 6.13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.13), in samenhang met [artikel 6.12, tweede lid, onderdeel f, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.12) zijn:
-
-- a. het in de periode van 1 april tot 1 oktober plaatsen van bouwborden en het opslaan van materiaal en materieel om een werk of onderhoud te kunnen uitvoeren in, op, boven, over of onder de Noordzee;
-
-- b. evenementen die niet langer duren dan drie maanden;
-
-- c. het maken van zandbanketten op het strand ten behoeve van niet-permanente bebouwing mits deze maximaal 6 meter +NAP hoog zijn en niet breder zijn dan 25 meter kustdwars, gemeten boven op het banket vanaf het duinfront met inachtneming van het gestelde in het tweede lid;
-
-- d. het oprichten en in stand houden van niet-permanente bebouwing in de periode van 1 april tot 1 oktober;
-
-- e. het verplaatsen van zand op het strand, anders dan bedoeld in onderdeel c, tot een hoeveelheid van maximaal 20m3 per strekkende meter, en
-
-- f. andere activiteiten die vanwege de aard, beperkte omvang of korte duur naar het oordeel van de beheerder geen nadelige invloed hebben op het waterstaatkundige beheer.
-
-2. Zandverplaatsingen als bedoeld in het eerste lid, onderdelen c en e, worden binnen één kalenderjaar niet gecombineerd uitgevoerd.
-
-3. De activiteiten, bedoeld in het eerste lid, onderdelen a tot en met e, worden uitgevoerd in de zone tussen de duinvoet en de laagwaterlijn.
+Vervallen
 
 ##### Artikel 6.13
 
-De rijkswateren, bedoeld in [artikel 6.12, tweede lid, onderdeel e, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.12), zijn de stroomvoerende delen van de wateren, bedoeld in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=VIII&z=2023-08-01&g=2023-08-01) bij deze regeling.
+Vervallen
 
 #### § 4.2. Activiteiten van ondergeschikt belang
 
 ##### Artikel 6.14
 
-1. Degene die een werk of een activiteit gaat uitvoeren waarvoor krachtens [artikel 6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.12), [6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.13) of [6.14 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.14) geen vergunning is vereist, meldt dit schriftelijk ten minste vier weken voor de uitvoering aan de minister.
-
-2. Bij de melding worden de volgende gegevens verstrekt:
-
-- a. de naam, het adres, het telefoonnummer en het e-mailadres van degene die voornemens is de activiteit of werkzaamheden te gaan uitvoeren;
-
-- b. het tijdstip waarop met de activiteit of het werk wordt begonnen en de duur daarvan;
-
-- c. de aard en omvang van de activiteit of het werk, en
-
-- d. een situatietekening met een schaal van ten minste 1:10.000 waarop de plaats en ligging van de activiteit of het werk ten opzichte van de omgeving is aangegeven en die voorzien is van een noordpijl.
-
-3. De minister kan degene die een melding doet verzoeken om nadere informatie te verstrekken over de uit te voeren activiteit of het werk, om te kunnen bepalen of maatwerkvoorschriften moeten worden gesteld.
-
-4. Het eerste lid is niet van toepassing op het uitvoeren van onderhoud dan wel de aanleg of wijziging of overig gebruik, anders dan in overeenstemming met de functie, van waterstaatswerken voor zover deze activiteiten door of vanwege de beheerder worden verricht.
+Vervallen
 
 ##### Artikel 6.15
 
-1. Ten aanzien van werken of activiteiten waarvoor krachtens [artikel 6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.12), [6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.13) of [6.14 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.14) geen vergunning is vereist, kan de minister met het oog op de bescherming van de belangen die het gestelde in [artikel 6.15 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.15) en de [artikelen 6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=6&paragraaf=4&sub-paragraaf=4.1&artikel=6.8&z=2023-08-01&g=2023-08-01) en [6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=6&paragraaf=4&sub-paragraaf=4.1&artikel=6.9&z=2023-08-01&g=2023-08-01) beoogt te waarborgen, maatwerkvoorschriften stellen ten aanzien van:
-
-- a. de locatie;
-
-- b. de diepte van het werk;
-
-- c. de hoogte van het werk;
-
-- d. de periode van uitvoering;
-
-- e. de mogelijkheden van het verplaatsen van het werk in verband met hoogwater, of
-
-- f. de waterdoorlatendheid van het werk in verband met wateropstuwende effecten.
-
-2. De overeenkomstig het eerste lid te stellen maatwerkvoorschriften leiden er niet toe dat de activiteit of het werk grotendeels of in het geheel geen doorgang kan vinden, tenzij die activiteit naar het oordeel van de beheerder ontoelaatbaar nadelige gevolgen heeft voor het betrokken waterstaatswerk.
-
-3. Het eerste lid is niet van toepassing op het uitvoeren van onderhoud dan wel de aanleg of wijziging of overig gebruik, anders dan in overeenstemming met de functie, van waterstaatswerken voor zover deze activiteiten door of vanwege de beheerder worden verricht.
+Vervallen
 
 #### § 5. Het brengen en onttrekken van water aan oppervlaktewaterlichamen
 
 ##### Artikel 6.16
 
-1. Het is verboden om zonder vergunning van de minister als bedoeld in [artikel 6.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.5) meer dan 5000 m3 water per uur te brengen in, of meer dan 100 m3 water per uur te onttrekken aan een oppervlaktewaterlichaam in beheer bij het Rijk, indien:
-
-- a. de instroomsnelheid meer bedraagt dan 0,3 m/s, of
-
-- b. de handeling plaatsvindt in samenhang met een activiteit waarvoor op grond van [artikel 6.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.2) een vergunning is vereist.
-
-2. Het eerste lid is niet van toepassing op:
-
-- a. baggerwerkzaamheden en het toepassen van baggerspecie in een oppervlaktewaterlichaam;
-
-- b. handelingen die door of vanwege de beheerder worden verricht.
+Vervallen
 
 ##### Artikel 6.17
 
-1. Degene die water brengt in of onttrekt aan oppervlaktewaterlichamen in beheer bij het Rijk, waarvoor geen vergunning is vereist krachtens [artikel 6.16](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=6&paragraaf=5&artikel=6.16&z=2023-08-01&g=2023-08-01), meldt dit schriftelijk ten minste vier weken voor de uitvoering aan de minister indien op de voorgenomen wijze meer dan 5000 m3 water per uur wordt ingebracht of meer dan 100 m3 water per uur wordt onttrokken.
-
-2. Bij de melding worden de volgende gegevens verstrekt:
-
-- a. de naam, het adres, het telefoonnummer en het e-mailadres van degene die voornemens is het water te brengen in of te onttrekken aan oppervlaktewaterlichamen in beheer bij het Rijk;
-
-- b. het tijdstip waarop met het inbrengen of onttrekken van water wordt begonnen en de duur daarvan;
-
-- c. het doel, de in- of uitstroomsnelheid en omvang van het inbrengen of het onttrekken van water, en
-
-- d. een situatietekening met een schaal van ten minste 1:10.000 waarop de plaats en ligging van het inbrengen of het onttrekken van water is aangegeven en die is voorzien van een noordpijl.
-
-3. Ten aanzien van het brengen dan wel onttrekken van water, bedoeld in het eerste lid, kan de minister maatwerkvoorschriften stellen ten aanzien van de locatie en de periode, mits deze er niet toe leiden dat het brengen of onttrekken van water geen doorgang kan vinden.
-
-4. Het eerste tot en met derde lid zijn niet van toepassing op:
-
-- a. baggerwerkzaamheden en het toepassen van baggerspecie in een oppervlaktewaterlichaam;
-
-- b. handelingen die door of vanwege de beheerder worden verricht.
+Vervallen
 
 #### § 4a. Windparken op zee
 
 ##### Artikel 6.18
 
-1. Indien een aanvraag voor een watervergunning niet langs elektronische weg wordt ingediend, wordt gebruik gemaakt van een door Onze Minister vastgesteld formulier dat wordt gepubliceerd op en kan worden gedownload van www.omgevingsloket.nl. Het bevoegd gezag stelt op verzoek van de aanvrager het formulier aan hem ter beschikking.
-
-2. Een aanvraag voor een watervergunning langs elektronische wijze wordt gedaan met gebruikmaking van het elektronische formulier dat op de datum van indiening van de aanvraag beschikbaar is via de landelijke voorziening, bedoeld in artikel 7.6 van de Wet algemene bepalingen omgevingsrecht.
-
-3. Het bevoegd gezag is verantwoordelijk voor het beheer van de gegevens die zijn opgenomen in het deel van de landelijke voorziening dat hem ter beschikking staat. Dit beheer omvat in elk geval de verlening en beperking van toegang tot de gegevens omtrent een aanvraag en de zorg voor de archiefbescheiden.
-
-4. Ten aanzien van de verwerking van persoonsgegevens in de landelijke voorziening is het bevoegd gezag verwerkingsverantwoordelijke.
+Vervallen
 
 ##### Artikel 6.19
 
-In de aanvraag voor een watervergunning wordt vermeld:
-
-- a. de naam, het adres, de woonplaats en het telefoonnummer van de aanvrager, alsmede het e-mailadres van de aanvrager, indien de aanvraag met een elektronisch formulier wordt ingediend;
-
-- b. de geografische aanduiding van de locatie waar de handeling wordt verricht, met behulp van:
-
-- 1°. een situatietekening,
-
-- 2°. een kaart met een functionele schaal die is voorzien van een noordpijl en waarop de ligging van de locatie ten opzichte van de omgeving is aangegeven,
-
-- 3°. foto’s, of
-
-- 4°. andere geschikte middelen;
-
-- c. een omschrijving van de aard, de omvang, de reden en het doel van de voorgenomen handeling;
-
-- d. een beschrijving van de aard en omvang van de gevolgen van de handeling, voor zover die gevolgen relevant zijn voor de beoordeling van de aanvraag;
-
-- e. de periode waarvoor vergunning wordt gevraagd;
-
-- f. indien de handeling wordt uitgevoerd door een ander dan de aanvrager: zijn naam, adres, woonplaats en telefoonnummer, alsmede zijn e-mailadres;
-
-- g. indien de aanvraag wordt ingediend door een gemachtigde: zijn naam, adres, woonplaats en telefoonnummer, alsmede het e-mailadres van de gemachtigde indien de aanvraag met een elektronisch formulier wordt ingediend.
+Vervallen
 
 ##### Artikel 6.20
 
-1. Gegevens en bescheiden die langs elektronische weg bij de aanvraag worden verstrekt, worden aangeleverd in een van de volgende archiefwaardige bestandsformaten:
-
-- a. foto’s: PNG en JPG;
-
-- b. scans: TIFF, JPG, PDF/A-1a, PDF/A-1b en PDF 1.4;
-
-- c. officedocumenten: PDF/A-1a en PDF 1.4;
-
-- d. tekeningen: PDF/X en PDF 1.4.
-
-2. Indien de bestanden langs elektronische weg worden aangeleverd, worden deze uitsluitend als ‘read-only’ (alleen lezen) gekenmerkt.
+Vervallen
 
 ##### Artikel 6.21
 
-In de aanvraag voor een vergunning als bedoeld in [artikel 6.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.2) worden, onverminderd het bepaalde in [artikel 6.19](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=6&paragraaf=6&artikel=6.19&z=2023-08-01&g=2023-08-01), de volgende gegevens verstrekt:
-
-- a. een omschrijving van de lozing, waarbij in ieder geval worden vermeld de zuurgraad (pH), temperatuur en debiet en wordt vermeld of de lozing continu dan wel discontinu plaatsvindt, met welke regelmaat lozingen of deellozingen plaatsvinden, de wijze waarop de lozing plaatsvindt en de activiteiten waaruit de lozing voortkomt;
-
-- b. een karakterisering naar aard, samenstelling, eigenschappen, hoeveelheid en herkomst van de stoffen;
-
-- c. een beschrijving van de maatregelen of voorzieningen die zijn of worden getroffen om de lozing te voorkomen of te beperken, met toelichtende tekening, alsmede de maatregelen die voor dat doel worden getroffen bij definitieve stopzetting van de activiteiten;
-
-- d. een omschrijving van de aard en omvang van de bedrijfsactiviteiten;
-
-- e. een processchema van de opzet en een beschrijving van de capaciteit van elke installatie waarin processen plaatsvinden die leiden of kunnen leiden tot het in een oppervlaktewaterlichaam brengen van stoffen, waarbij wordt aangegeven welke van die stoffen waar en in welke mate vrijkomen;
-
-- f. een rioleringstekening;
-
-- g. een beschrijving van de aard, de samenstelling, de eigenschappen, de hoeveelheid en de locatie binnen het bedrijf van de grondstoffen, hulpstoffen, tussenproducten en eindproducten die naar redelijke verwachting binnen het bedrijf aanwezig kunnen zijn, voor zover deze in een oppervlaktewaterlichaam kunnen geraken;
-
-- h. een beschrijving van de maatregelen of voorzieningen betreffende het voorkomen of beperken van lozing van afvalstoffen door het hergebruiken of nuttig toepassen dan wel het geschikt maken voor hergebruik of nuttige toepassing van zodanige afvalstoffen;
-
-- i. een opgave van de redelijkerwijs mogelijk te achten hoeveelheid en hoedanigheid van de stoffen die ten gevolge van een ongewoon voorval in een oppervlaktewaterlichaam kunnen geraken, alsmede een beschrijving van de maatregelen om dit zoveel mogelijk te voorkomen dan wel te beperken;
-
-- j. een beschrijving van de wijze waarop de lozing wordt vastgesteld en geregistreerd en de wijze waarop over de lozing wordt gerapporteerd;
-
-- k. een opgave van de voor de aanvrager redelijkerwijs te verwachten ontwikkelingen met betrekking tot de lozing die voor de beslissing op de aanvraag van belang kunnen zijn, en
-
-- l. een niet-technische samenvatting van de in dit artikel bedoelde gegevens.
+Vervallen
 
 ##### Artikel 6.22
 
-Indien de exploitatie van een installatie, van waaruit de lozing waarvoor de vergunning wordt aangevraagd plaatsvindt, belangrijke nadelige gevolgen voor het milieu in een andere lidstaat van de Europese Unie kan veroorzaken, dan wel indien een andere lidstaat van de Europese Unie die belangrijke nadelige gevolgen voor het milieu van de exploitatie van een installatie kan ondervinden daarom verzoekt, verstrekt het bevoegd gezag een afschrift van de aanvraag met de daarbij behorende stukken aan de betreffende lidstaat op het tijdstip waarop daarvan in Nederland kennis wordt gegeven dan wel op het tijdstip waarop de aanvraag met de daarbij behorende stukken in Nederland ter inzage wordt gelegd.
+Vervallen
 
 ##### Artikel 6.23
 
-In de aanvraag voor een vergunning als bedoeld in [artikel 6.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.3) voor het storten van baggerspecie worden, onverminderd het bepaalde in [artikel 6.19](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=6&paragraaf=6&artikel=6.19&z=2023-08-01&g=2023-08-01), de volgende gegevens verstrekt:
-
-- a. een omschrijving van de locatie van herkomst en de beoogde verspreidingslocatie;
-
-- b. een karakterisering naar aard, samenstelling, eigenschappen en hoeveelheid van de stoffen;
-
-- c. een omschrijving van het onderzoeksprotocol en de onderzoeksstrategie als bedoeld in NEN 5720.
+Vervallen
 
 ##### Artikel 6.24
 
-In de aanvraag voor een vergunning als bedoeld in de [artikelen 6.5, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.5) voor het gebruik maken van een waterstaatswerk of een daartoe behorende beschermingszone worden, onverminderd het bepaalde in [artikel 6.19](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=6&paragraaf=6&artikel=6.19&z=2023-08-01&g=2023-08-01), de volgende gegevens verstrekt:
-
-- a. een omschrijving van de voorgenomen handeling, waarbij wordt vermeld op welke wijze gebruik zal worden gemaakt van het waterstaatswerk of de daartoe behorende beschermingszone;
-
-- b. een toelichtende tekening met het ontwerp en de afmetingen van het werk, of het tracé van de kabel of de leiding;
-
-- c. een boorplan in het geval een waterstaatswerk wordt gekruist door een HDD-boring, en
-
-- d. een stabiliteitsberekening van de kade of waterkering.
+Vervallen
 
 ##### Artikel 6.25
 
-Indien een aanvraag als bedoeld in [artikel 6.24](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=6&paragraaf=6&artikel=6.24&z=2023-08-01&g=2023-08-01) betrekking heeft op werkzaamheden waarbij een waterbodem geheel of gedeeltelijk wordt verwijderd, worden naast de in dat artikel bedoelde gegevens, de volgende gegevens verstrekt:
-
-- a. een opgave van de hoeveelheid te verwijderen materiaal, en
-
-- b. een aanduiding van het totaal te baggeren oppervlak in m2.
+Vervallen
 
 ##### Artikel 6.26
 
-Indien een aanvraag als bedoeld in [artikel 6.24](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=6&paragraaf=6&artikel=6.24&z=2023-08-01&g=2023-08-01) betrekking heeft op het gebruik maken van een waterstaatswerk in de Nederlandse exclusieve economische zone, worden de volgende gegevens verstrekt:
-
-- a. een beschrijving van de gevolgen voor rechtmatig gebruik van de zee door derden, en
-
-- b. een oprichtings- en inrichtingsplan, waarin wordt ingegaan op het onderhoud van het werk, veiligheidswaarborgen, verlichtingsmaatregelen, maatregelen ter voorkoming en beperking van calamiteiten, en de wijze waarop verwijdering van de installatie zal plaatsvinden.
+Vervallen
 
 ##### Artikel 6.27
 
-In de aanvraag voor een vergunning als bedoeld in de [artikelen 6.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.4), en [6.5, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.5) voor het onttrekken van grondwater worden onverminderd het bepaalde in [artikel 6.19](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=6&paragraaf=6&artikel=6.19&z=2023-08-01&g=2023-08-01), de volgende gegevens verstrekt:
-
-- a. het doel waarvoor het te onttrekken grondwater wordt gebruikt;
-
-- b. het aantal bestaande en nieuw in te richten putten;
-
-- c. een nadere plaatsaanduiding van de putten ten opzichte van het Rijksdriehoeksnet;
-
-- d. de diepte van de onderkant en de bovenkant van de filters van iedere put ten opzichte van het maaiveld en het N.A.P.;
-
-- e. de diameter en de lengte van de filters in iedere put;
-
-- f. de pompcapaciteit in m3 per uur en het te installeren vermogen in m3 per uur per put;
-
-- g. de maximaal te onttrekken hoeveelheden water per uur, per dag, per maand, per kwartaal en per jaar, en
-
-- h. een beschrijving van de maatregelen of voorzieningen die zijn of worden getroffen om de negatieve gevolgen van de onttrekking te voorkomen of te beperken.
+Vervallen
 
 ##### Artikel 6.28
 
-In de aanvraag voor een vergunning als bedoeld in de [artikelen 6.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.4), [6.5, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.5) voor het infiltreren van water worden, onverminderd het bepaalde in [artikel 6.19](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=6&paragraaf=6&artikel=6.19&z=2023-08-01&g=2023-08-01), de volgende gegevens verstrekt:
-
-- a. het aantal bestaande en nieuw in te richten putten;
-
-- b. een nadere plaatsaanduiding van de putten ten opzichte van het Rijksdriehoeksnet;
-
-- c. de diepte van de onderkant en de bovenkant van de filters van iedere put ten opzichte van het maaiveld en het N.A.P.;
-
-- d. de diameter en de lengte van de filters in iedere put;
-
-- e. de pompcapaciteit in m3 per uur;
-
-- f. de maximaal te infiltreren hoeveelheden water per uur, per dag, per maand, per kwartaal en per jaar;
-
-- g. de wijze waarop water wordt geïnfiltreerd;
-
-- h. de herkomst en de samenstelling van het te infiltreren water, en
-
-- i. een beschrijving van de maatregelen of voorzieningen die zijn of worden getroffen om de negatieve gevolgen van de infiltratie te voorkomen of te beperken.
+Vervallen
 
 ##### Artikel 6.29
 
-1. Indien een aanvraag voor een vergunning betrekking heeft op het onttrekken van grondwater of het brengen van water in de bodem ten behoeve van een bodemenergiesysteem als bedoeld in [artikel 6.4, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.4), worden onverminderd het bepaalde in de [artikelen 6.27](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=6&paragraaf=6&artikel=6.27&z=2023-08-01&g=2023-08-01) en [6.28](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=6&paragraaf=6&artikel=6.28&z=2023-08-01&g=2023-08-01), de volgende gegevens verstrekt:
-
-- a. de capaciteit van de pomp waarmee het water in de bodem wordt gebracht in m3 per uur;
-
-- b. de maximaal in de bodem te brengen hoeveelheden water per uur, per dag, per maand, per kwartaal en per jaar;
-
-- c. de wijze waarop water in de bodem wordt gebracht;
-
-- d. de samenstelling van het in de bodem te brengen water;
-
-- e. een aanduiding van de hydrologische effecten van het in de bodem brengen van water;
-
-- f. de minimum-, gemiddelde en maximumtemperaturen van het in de bodem te brengen water;
-
-- g. de omvang van de behoefte aan warmte en koude waarin het bodemenergiesysteem voorziet, en
-
-- h. het energierendement, uitgedrukt als de Seasonal Performance Factor (SPF), dat het bodemenergiesysteem zal behalen bij voorzien gebruik van het bouwwerk overeenkomstig de bestemming waarvoor het systeem is ontworpen, blijkend uit een schriftelijke verklaring van de ontwerper of installateur.
-
-2. Bij de verstrekking van gegevens als bedoeld in het eerste lid, onderdeel h, over het energierendement dat een open bodemenergiesysteem bij de levering van warmte of koude aan een bouwwerk behaalt, wordt het energierendement bepaald overeenkomstig de volgende formule:
-
-waarbij wordt verstaan onder:
-
-**Qw** : de door het bodemenergiesysteem aan het bouwwerk geleverde hoeveelheid warmte per jaar in MWh;
-
-**Qk**: de door het bodemenergiesysteem aan het bouwwerk geleverde hoeveelheid koude per jaar in MWh;
-
-**E**: de door het bodemenergiesysteem verbruikte hoeveelheid elektriciteit per jaar in MWh;
-
-**G**: de door het bodemenergiesysteem verbruikte hoeveelheid gas per jaar in MWh.
+Vervallen
 
 ##### Artikel 6.30
 
-In de aanvraag voor een vergunning als bedoeld in [artikel 6.5, aanhef en onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.5) voor het onttrekken van water aan of het brengen van water in een oppervlaktewaterlichaam worden, onverminderd het bepaalde in [artikel 6.19](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=6&paragraaf=6&artikel=6.19&z=2023-08-01&g=2023-08-01), de volgende gegevens verstrekt:
-
-- a. een onderbouwing van de noodzaak tot het brengen van water in een oppervlaktewaterlichaam;
-
-- b. een beschrijving en toelichtende tekening van de in- en uitstroomvoorzieningen waaronder een opgave van de pompcapaciteit, de afmetingen en de ligging, en
-
-- c. een aanduiding van de maximaal te onttrekken of te lozen waterhoeveelheden in m3 per uur, te onderscheiden naar perioden.
+Vervallen
 
 ### Hoofdstuk 7. Verontreinigingsheffing
 
@@ -642,7 +268,7 @@ waarbij:
 
 Q = het debiet in m3/etmaal;
 
-CZV = het chemisch zuurstofverbruik bepaald volgens de in [artikel 7.15](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=7&artikel=7.15&z=2023-08-01&g=2023-08-01) vermelde analysevoorschriften, in mg/l;
+CZV = het chemisch zuurstofverbruik bepaald volgens de in [artikel 7.15](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=7&artikel=7.15&z=2024-01-01&g=2024-01-01) vermelde analysevoorschriften, in mg/l;
 
 NKj = de som van ammonium-stikstof en organisch gebonden stikstof, bepaald volgens de in artikel 7.15 vermelde analysevoorschriften, in mg/l.
 
@@ -654,7 +280,7 @@ T = het percentage CZV, afkomstig van biologisch niet of nagenoeg niet afbreekba
 
 T wordt berekend bij:
 
-- a. het lozen in een oppervlaktewaterlichaam van zuurstofbindende stoffen, vanuit een inrichting, in gebruik bij een provincie, een gemeente, een waterschap of een ander openbaar lichaam of het brengen van zuurstofbindende stoffen met biochemisch zuurstofverbruik van niet meer dan 20 mg/l vanuit een bedrijfsruimte als bedoeld in [artikel 7.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.1), met behulp van de methode van het biochemisch zuurstofverbruik na vijf dagen, volgens de in [artikel 7.15](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=7&artikel=7.15&z=2023-08-01&g=2023-08-01) vermelde analysevoorschriften, in mg/l;
+- a. het lozen in een oppervlaktewaterlichaam van zuurstofbindende stoffen, vanuit een inrichting, in gebruik bij een provincie, een gemeente, een waterschap of een ander openbaar lichaam of het brengen van zuurstofbindende stoffen met biochemisch zuurstofverbruik van niet meer dan 20 mg/l vanuit een bedrijfsruimte als bedoeld in [artikel 7.1, eerste lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.1), met behulp van de methode van het biochemisch zuurstofverbruik na vijf dagen, volgens de in [artikel 7.15](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=7&artikel=7.15&z=2024-01-01&g=2024-01-01) vermelde analysevoorschriften, in mg/l;
 
 - b. het lozen in een oppervlaktewaterlichaam van zuurstofbindende stoffen in andere dan de onder a bedoelde gevallen met behulp van een andere toereikende bepalingsmethode.
 
@@ -664,7 +290,7 @@ Vervallen
 
 ##### Artikel 7.4
 
-Voor de berekening van de frequentie van meting, bemonstering en analyse als bedoeld in [artikel 7.5, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.5) wordt gebruik gemaakt van de volgende formule:
+Voor de berekening van de frequentie van meting, bemonstering en analyse als bedoeld in [artikel 7.5, eerste en tweede lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.5) wordt gebruik gemaakt van de volgende formule:
 
 waarbij:
 
@@ -680,7 +306,7 @@ N = het aantal dagen per jaar dat stoffen in oppervlaktewaterlichamen worden gel
 
 ##### Artikel 7.5
 
-1. De meting, bemonstering en analyse, bedoeld in [artikel 7.5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.5) geschiedt zodanig dat:
+1. De meting, bemonstering en analyse, bedoeld in [artikel 7.5, eerste lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.5) geschiedt zodanig dat:
 
 - a. de gemeten hoeveelheid afvalwater niet meer dan 5% afwijkt van de werkelijke hoeveelheid afvalwater;
 
@@ -726,7 +352,7 @@ N = het aantal dagen per jaar dat stoffen in oppervlaktewaterlichamen worden gel
 
 - a. de besluiten, bedoeld in het tweede en zesde lid, wijzigen of intrekken, in verband met het bepaalde in het eerste lid;
 
-- b. het besluit, bedoeld in het tweede en zesde lid, wijzigen indien toepassing van het berekeningsvoorschrift uit [artikel 7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=7&artikel=7.4&z=2023-08-01&g=2023-08-01) leidt tot een ander aantal etmalen, bedoeld het zesde lid, onderdeel b, dan in dat besluit is opgenomen.
+- b. het besluit, bedoeld in het tweede en zesde lid, wijzigen indien toepassing van het berekeningsvoorschrift uit [artikel 7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=7&artikel=7.4&z=2024-01-01&g=2024-01-01) leidt tot een ander aantal etmalen, bedoeld het zesde lid, onderdeel b, dan in dat besluit is opgenomen.
 
 ##### Artikel 7.6
 
@@ -875,13 +501,11 @@ N = het aantal dagen per jaar dat stoffen in oppervlaktewaterlichamen worden gel
 
 ##### Artikel 8.1
 
-1. Van een vergunning als bedoeld in [artikel 20 van de Uitvoeringsregeling waterhuishouding](https://wetten.overheid.nl/jci1.3:c:BWBR0004778&artikel=20) die voor het tijdstip van inwerkingtreding van [artikel 6.16](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=6&paragraaf=5&artikel=6.16&z=2023-08-01&g=2023-08-01) en [6.17](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=6&paragraaf=5&artikel=6.17&z=2023-08-01&g=2023-08-01) onherroepelijk is, worden voor handelingen als bedoeld in artikel 6.17, eerste lid, de voorschriften van die vergunning aangemerkt als maatwerkvoorschriften gesteld krachtens artikel 6.17, derde lid, voor zover die voorschriften vallen binnen de bevoegdheid van het bevoegd gezag tot het stellen van maatwerkvoorschriften krachtens dat artikel.
-
-2. Het eerste lid is van overeenkomstige toepassing op een vergunning als bedoeld in dat lid, die overeenkomstig [artikel 2.29 van de Invoeringswet Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026710&artikel=2.29) is verleend en onherroepelijk is geworden.
+Vervallen
 
 ##### Artikel 8.2
 
-Deze regeling treedt in werking met ingang van 22 december 2009 met uitzondering van [artikel 6.18, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=6&paragraaf=6&artikel=6.18&z=2023-08-01&g=2023-08-01), dat in werking treedt met ingang van 10 oktober 2011.
+Deze regeling treedt in werking met ingang van 22 december 2009 met uitzondering van [artikel 6.18, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=6&paragraaf=6&artikel=6.18&z=2024-01-01&g=2024-01-01), dat in werking treedt met ingang van 10 oktober 2011.
 
 ##### Artikel 8.3
 
@@ -1768,15 +1392,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 ##### Artikel 4.2
 
-Als organisaties en overlegstructuren als bedoeld in de [artikelen 4.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=4.4), en [4.15, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=4.15) worden aangewezen:
-
-- a. de Internationale Raad voor het Onderzoek van de Zee, bedoeld in de in op 12 september 1964 te Kopenhagen totstandgekomen overeenkomst betreffende de Internationale Raad voor het Onderzoek van de Zee (Trb. 1968, 43),
-
-- b. het Overlegorgaan Water en Noordzee, bedoeld in [artikel 1, onderdeel a, van het Besluit overleg verkeer en waterstaat 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0017722&artikel=1),
-
-- c. het Productschap voor Vis en Visproducten (Productschap Vis), bedoeld in [artikel 1, eerste lid, van de Instellingswet Productschap voor Vis en Visproducten](https://wetten.overheid.nl/jci1.3:c:BWBR0002220&artikel=1), en
-
-- d. de Regionale adviesraad Noordzee, bedoeld in artikel 2, onderdeel c, van het besluit nr. 2004, 2004/585/EG van de Raad van de Europese Unie van 19 juli tot oprichting van regionale adviesraden in het kader van het gemeenschappelijk visserijbeleid (PbEU L 256/17).
+Vervallen
 
 ### Hoofdstuk 5
 
@@ -2410,9 +2026,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 ##### Artikel 6.12a
 
-Activiteiten van ondergeschikt belang als bedoeld in [artikel 6.14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.14), in samenhang met [artikel 6.12, tweede lid, onderdeel f, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.12) zijn:
-
-activiteiten die vanwege de aard, beperkte omvang of korte duur naar het oordeel van de beheerder geen nadelige invloed hebben op het waterstaatkundig beheer.
+Vervallen
 
 #### § 4.3. Melden en maatwerkvoorschriften
 
@@ -2554,13 +2168,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 ##### Artikel 6.3a
 
-[Artikel 6.10a, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.10a) is niet van toepassing op het onttrekken van grondwater ten behoeve van:
-
-- a. een bronbemaling of proefbemaling, indien de hoeveelheid te onttrekken grondwater minder bedraagt dan 100 m3 per uur en in totaal niet meer bedraagt dan 100.000 m3;
-
-- b. beregening, bevloeiing of veedrenking, indien de hoeveelheid te onttrekken grondwater minder bedraagt dan 60 m3 per uur;
-
-- c. andere handelingen dan bedoeld onder a of b, indien de hoeveelheid te onttrekken grondwater minder bedraagt dan 10 m3 per uur.
+Vervallen
 
 #### § 4. Het gebruik van rijkswaterstaatswerken
 
@@ -2576,29 +2184,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 ### Hoofdstuk 8. Slotbepalingen
 
-## Bijlage I. Bedrijven en bedrijfsactiviteiten als bedoeld in [artikel 2.3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=2.3) (bijlage bij [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=2&artikel=2.1&z=2023-08-01&g=2023-08-01) van de Waterregeling)
+## Bijlage I. Bedrijven en bedrijfsactiviteiten als bedoeld in [artikel 2.3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=2.3) (bijlage bij [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=2&artikel=2.1&z=2024-01-01&g=2024-01-01) van de Waterregeling)
 
-- 1. Zuivelindustrie
-
-- 2. Vervaardiging van producten op basis van groenten en fruit
-
-- 3. Bereiding en botteling van frisdranken
-
-- 4. Verwerking van aardappelen
-
-- 5. Vleesindustrie
-
-- 6. Brouwerijen
-
-- 7. Bereiding van alcohol en alcoholhoudende dranken
-
-- 8. Vervaardiging van diervoeder uit plantaardige producten
-
-- 9. Vervaardiging van gelatine en lijm op basis van huiden en beenderen
-
-- 10. Mouterijen
-
-- 11. Visverwerkingsindustrie
+Vervallen
 
 ### Inhoud rapportage
 
@@ -2677,23 +2265,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 ##### Artikel 6.15a
 
-1. Bij de toepassing van de [artikelen 6.16h, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.16h), en [6.16i, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.16i) worden ten aanzien dan de in die artikelen opgenomen niet-publiekrechtelijke regelingen de volgende teksten in acht genomen:
-
-- a. IALA-aanbeveling O-139 (markering van kunstmatige offshore constructies): uitgave 2 van december 2013;
-
-- b. door de Britse luchtvaartautoriteit uitgegeven richtlijn CAP 764 (beleid en richtlijnen voor windturbines): uitgave 5 van juni 2013;
-
-- c. NEN 1010: uitgave NEN 1010:2007+C1:2008 – Veiligheidsbepalingen voor laagspanningsinstallaties van oktober 2008, inclusief correctie- en wijzigingsblad A1:2011+C1:2011 en wijzigingsblad A2:2014;
-
-- d. NEN-EN-IEC 61936-1: uitgave NEN-EN-IEC 61936-1:2010 – Sterkstroominstallaties met meer dan 1 kV wisselspanning – Deel 1: Algemene bepalingen van mei 2014, inclusief correctiebladen C1:2011, C11:2011, C12:2012 en C13:2013 en wijzigingsblad A1:2014;
-
-- e. NEN-EN 50522: uitgave NEN-EN 50522:2010 – Aarding van hoogspanningsinstallaties van meer dan 1 kV wisselspanning van november 2010;
-
-- f. NEN 3840: uitgave NEN 3840:2011 – Bedrijfsvoering van elektrische installaties – Hoogspanning van mei 2011; en
-
-- g. NEN 3140: uitgave NEN 3140:2011 – Bedrijfsvoering van elektrische installaties – Laagspanning van maart 2011.
-
-2. In afwijking van het eerste lid gelden voor windparken waarvoor voor 1 juli 2015 een vergunning op grond van de [Wet beheer rijkswaterstaatswerken](https://wetten.overheid.nl/jci1.3:c:BWBR0008331) of op grond van [artikel 6.13 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.13) is verleend de teksten van de niet-publiekrechtelijke regelingen zoals die in acht zijn genomen bij het verlenen van de vergunning.
+Vervallen
 
 #### § 6. Indieningsvereisten voor de watervergunning
 
@@ -2701,13 +2273,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 ### Hoofdstuk 8. Slotbepalingen
 
-## Bijlage II. Kaart met grenzen van oppervlaktewaterlichamen en zijwateren waar het Rijk het waterkwaliteitsbeheer voert, en grenzen van drogere oevergebieden (bijlage bij [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2023-08-01&g=2023-08-01), en [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=3&paragraaf=1&artikel=3.3&z=2023-08-01&g=2023-08-01) van de Waterregeling)
+## Bijlage II. Kaart met grenzen van oppervlaktewaterlichamen en zijwateren waar het Rijk het waterkwaliteitsbeheer voert, en grenzen van drogere oevergebieden (bijlage bij [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2024-01-01&g=2024-01-01), en [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=3&paragraaf=1&artikel=3.3&z=2024-01-01&g=2024-01-01) van de Waterregeling)
 
-Gepubliceerd op www.waterwet.nl.
+Vervallen
 
-## Bijlage III. Kaart met grenzen van oppervlaktewaterlichamen en zijwateren waar het Rijk het waterkwantiteitsbeheer voert (bijlage bij [artikel 3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2023-08-01&g=2023-08-01), van de Waterregeling)
+## Bijlage III. Kaart met grenzen van oppervlaktewaterlichamen en zijwateren waar het Rijk het waterkwantiteitsbeheer voert (bijlage bij [artikel 3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2024-01-01&g=2024-01-01), van de Waterregeling)
 
-Gepubliceerd op www.waterwet.nl.
+Vervallen
 
 ### Formulier I:. Rapportage format belastingen oppervlaktewater
 
@@ -2725,7 +2297,7 @@ De uiteindelijke toestand of oordeel. Voor chemische stoffen wordt het oordeel g
 
 ##### Artikel 3.2a
 
-Het waterstaatkundig beheer van rijkswateren berust, voor zover deze zijn gelegen binnen de grenzen als aangegeven op de kaart in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=IV&z=2023-08-01&g=2023-08-01) bij deze regeling, bij het in de legenda bij de kaart genoemde niet tot het Rijk behorende overheidslichaam.
+Vervallen
 
 #### § 2. Regels met betrekking tot het verstrekken van informatie
 
@@ -2751,9 +2323,9 @@ Het waterstaatkundig beheer van rijkswateren berust, voor zover deze zijn gelege
 
 ### Hoofdstuk 8. Slotbepalingen
 
-## Bijlage IV. Kaart met grenzen van oppervlaktewaterlichamen en zijwateren waar het Rijk het waterstaatkundig beheer voert en van rijkswateren waar een niet tot het Rijk behorend overheidslichaam het waterstaatkundig beheer voert (bijlage bij de [artikelen 3.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2023-08-01&g=2023-08-01), [3.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=3&paragraaf=1&artikel=3.2a&z=2023-08-01&g=2023-08-01) en [6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=6&paragraaf=4&artikel=6.7&z=2023-08-01&g=2023-08-01) van de Waterregeling)
+## Bijlage IV. Kaart met grenzen van oppervlaktewaterlichamen en zijwateren waar het Rijk het waterstaatkundig beheer voert en van rijkswateren waar een niet tot het Rijk behorend overheidslichaam het waterstaatkundig beheer voert (bijlage bij de [artikelen 3.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2024-01-01&g=2024-01-01), [3.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=3&paragraaf=1&artikel=3.2a&z=2024-01-01&g=2024-01-01) en [6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=6&paragraaf=4&artikel=6.7&z=2024-01-01&g=2024-01-01) van de Waterregeling)
 
-Gepubliceerd op www.waterwet.nl.
+Vervallen
 
 ### Doelen en inschatting doelbereik 2015
 
@@ -2771,7 +2343,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 ##### Artikel 1.2
 
-Deze regeling berust mede op [artikel 3.1, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=3.1) en de [artikelen 4.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=4.4), [4.15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=4.15), [6.10a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.10a), [6.12, tweede lid, aanhef en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.12), [6.14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.14), [6.16h, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.16h), [6.16i, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.16i), en [6.18, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.18).
+Vervallen
 
 ### Hoofdstuk 2. Doelstellingen en normen
 
@@ -2795,7 +2367,9 @@ Deze regeling berust mede op [artikel 3.1, zesde lid, van de wet](https://wetten
 
 ### Hoofdstuk 8. Slotbepalingen
 
-## Bijlage V. Formulieren voor de verstrekking van de gegevens en resultaten, bedoeld in [artikel 3.4, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=3.4) (bijlage bij [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=3&paragraaf=2&artikel=3.8&z=2023-08-01&g=2023-08-01) van de Waterregeling)
+## Bijlage V. Formulieren voor de verstrekking van de gegevens en resultaten, bedoeld in [artikel 3.4, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=3.4) (bijlage bij [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=3&paragraaf=2&artikel=3.8&z=2024-01-01&g=2024-01-01) van de Waterregeling)
+
+Vervallen
 
 ### Status en type voor ecologische doelen
 
@@ -2812,3 +2386,21 @@ Eventuele opmerkingen (niet verplicht)
 Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de [bijlagen II](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=II&z=2023-08-01&g=2023-08-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=III&z=2023-08-01&g=2023-08-01), [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=IV&z=2023-08-01&g=2023-08-01) en [IX](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=IX&z=2023-08-01&g=2023-08-01) die ter inzage worden gelegd bij het Ministerie van Verkeer en Waterstaat.
+
+## Bijlage VI. Voorschriften voor het bemonsteren en analyseren van stedelijk afvalwater en het beoordelen van de resultaten daarvan (bijlage bij artikel 6.3 van de Waterregeling)
+
+Vervallen
+
+## Bijlage VII. Parameters en frequentie van bemonstering en analyse van te infiltreren water (bijlage bij [artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=6&paragraaf=3&artikel=6.5&z=2024-01-01&g=2024-01-01) van de Waterregeling)
+
+Vervallen
+
+## Bijlage VIII. Aanwijzing van de stroomvoerende delen van de rijkswateren (bijlage bij [artikel 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&hoofdstuk=6&paragraaf=4&sub-paragraaf=4.2&artikel=6.13&z=2024-01-01&g=2024-01-01) van de Waterregeling)
+
+Vervallen
+
+## Bijlage IX. Aanvraagformulier voor de watervergunning (bijlage bij artikel 6.18 van de Waterregeling)
+
+Vervallen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de [bijlagen II](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=II&z=2024-01-01&g=2024-01-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=III&z=2024-01-01&g=2024-01-01), [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=IV&z=2024-01-01&g=2024-01-01) en [IX](https://wetten.overheid.nl/jci1.3:c:BWBR0026845&bijlage=IX&z=2024-01-01&g=2024-01-01) die ter inzage worden gelegd bij het Ministerie van Verkeer en Waterstaat.
