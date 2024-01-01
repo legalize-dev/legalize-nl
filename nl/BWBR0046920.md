@@ -4,7 +4,7 @@ identifier: "BWBR0046920"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-09"
-last_updated: "2023-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046920"
 soort: "ministeriele-regeling"
@@ -84,6 +84,7 @@ Als populaties van paardachtigen als bedoeld in artikel 60 van [verordening (EU)
 | Millingerwaard (inclusief Erlecomse waard) | Millingerwaard Ten noorden van Duffeltdijk 44 6579 JE Kerkerdom |
 | Nationaal Park Zuid-Kennemerland | Duin- en Kruidbergerweg ter hoogte van nr. 66A 2071 LE Santpoort-Noord |
 | Noordwaard | Rondom Braspenning 1 4251 MD Werkendam |
+| Oosterhoutse waard | Waaldijk 6678 Nijmegen |
 | Oostvaardersplassen | Kitsweg 1 8218 AA Lelystad |
 | Oostvaardersveld | Praamweg Lelystad |
 | Oranjezon | Koningin Emmaweg 22 4354 KE Vrouwenpolder |
