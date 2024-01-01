@@ -4,7 +4,7 @@ identifier: "BWBR0029709"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2017-08-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029709"
 soort: "ministeriele-regeling"
@@ -64,7 +64,7 @@ Indien de houder van een vergunning voor het in werking brengen, het in werking 
 
 Indien de houder van een vergunning voor het in werking brengen, het in werking houden, het buiten gebruik stellen of het ontmantelen van een inrichting waarin kernenergie kan of kon worden vrijgemaakt de financiële zekerheid, bedoeld in [artikel 15f van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15f), stelt in de vorm van deelname aan een daartoe ingesteld fonds, bevat de aanvraag om goedkeuring daarvan in elk geval:
 
-- a. de gegevens, bedoeld in [artikel 11, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0029709&paragraaf=5&artikel=11&z=2017-08-01&g=2017-08-01);
+- a. de gegevens, bedoeld in [artikel 11, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0029709&paragraaf=5&artikel=11&z=2024-01-01&g=2024-01-01);
 
 - b. gegevens waaruit blijkt hoe kredietwaardig de instelling is waar de doelkaspositie wordt opgebouwd en een beschrijving van de wijze waarop deze kredietwaardigheid in de toekomst wordt geborgd;
 
@@ -82,9 +82,9 @@ Indien de houder van een vergunning voor het in werking brengen, het in werking 
 
 ##### Artikel 13
 
-Indien de houder van een vergunning voor het in werking brengen, het in werking houden, het buiten gebruik stellen of het ontmantelen van een inrichting waarin kernenergie kan of kon worden vrijgemaakt de financiële zekerheid, bedoeld in [artikel 15f van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15f), stelt in de vorm van enige andere voorziening dan bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0029709&paragraaf=5&artikel=11&z=2017-08-01&g=2017-08-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0029709&paragraaf=5&artikel=12&z=2017-08-01&g=2017-08-01), bevat de aanvraag om goedkeuring daarvan gegevens waaruit blijkt dat die andere voorziening de kosten van de buitengebruikstelling en ontmanteling dekt op het moment van de aanvang daarvan, waaronder in elk geval:
+Indien de houder van een vergunning voor het in werking brengen, het in werking houden, het buiten gebruik stellen of het ontmantelen van een inrichting waarin kernenergie kan of kon worden vrijgemaakt de financiële zekerheid, bedoeld in [artikel 15f van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15f), stelt in de vorm van enige andere voorziening dan bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0029709&paragraaf=5&artikel=11&z=2024-01-01&g=2024-01-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0029709&paragraaf=5&artikel=12&z=2024-01-01&g=2024-01-01), bevat de aanvraag om goedkeuring daarvan gegevens waaruit blijkt dat die andere voorziening de kosten van de buitengebruikstelling en ontmanteling dekt op het moment van de aanvang daarvan, waaronder in elk geval:
 
-- a. de gegevens, bedoeld in de [artikelen 11, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0029709&paragraaf=5&artikel=11&z=2017-08-01&g=2017-08-01), en [12, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0029709&paragraaf=5&artikel=12&z=2017-08-01&g=2017-08-01);
+- a. de gegevens, bedoeld in de [artikelen 11, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0029709&paragraaf=5&artikel=11&z=2024-01-01&g=2024-01-01), en [12, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0029709&paragraaf=5&artikel=12&z=2024-01-01&g=2024-01-01);
 
 - b. gegevens waaruit blijkt hoe kredietwaardig de instelling is die de voorziening verleent;
 
@@ -92,7 +92,7 @@ Indien de houder van een vergunning voor het in werking brengen, het in werking 
 
 ##### Artikel 14
 
-1. In afwijking van de [artikelen 11, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0029709&paragraaf=5&artikel=11&z=2017-08-01&g=2017-08-01), [12, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0029709&paragraaf=5&artikel=12&z=2017-08-01&g=2017-08-01), en [13, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0029709&paragraaf=5&artikel=13&z=2017-08-01&g=2017-08-01), kan de aanvraag om goedkeuring voor de wijze waarop financiële zekerheid wordt gesteld, indien deze voor 1 juli 2011 wordt ingediend, in plaats van een afschrift van een overeenkomst ook een ontwerp voor een overeenkomst als bedoeld in deze artikelen bevatten.
+1. In afwijking van de [artikelen 11, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0029709&paragraaf=5&artikel=11&z=2024-01-01&g=2024-01-01), [12, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0029709&paragraaf=5&artikel=12&z=2024-01-01&g=2024-01-01), en [13, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0029709&paragraaf=5&artikel=13&z=2024-01-01&g=2024-01-01), kan de aanvraag om goedkeuring voor de wijze waarop financiële zekerheid wordt gesteld, indien deze voor 1 juli 2011 wordt ingediend, in plaats van een afschrift van een overeenkomst ook een ontwerp voor een overeenkomst als bedoeld in deze artikelen bevatten.
 
 2. Indien het besluit tot goedkeuring voor de wijze waarop financiële zekerheid wordt gesteld wordt verleend op basis van een ontwerp voor een overeenkomst als bedoeld in het eerste lid, vervalt deze goedkeuring per 1 januari 2012, tenzij de vergunninghouder voor 1 januari 2012 een afschrift van een gesloten overeenkomst overlegt die gelijkluidend is aan het eerder overlegde ontwerp dan wel naar het oordeel van de Minister en de Minister van Financiën in dezelfde mate financiële zekerheid biedt.
 
@@ -108,7 +108,7 @@ In deze regeling wordt verstaan onder:
 
 - **inrichting:** inrichting als bedoeld in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15);
 
-- **Minister:** Minister van Infrastructuur en Milieu;
+- **Minister:** Minister van Infrastructuur en Waterstaat;
 
 - **radioactieve afvalstof:** radioactieve afvalstof als bedoeld in [artikel 1 van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=1).
 
@@ -132,7 +132,7 @@ Een ontmantelingsplan van de houder van een vergunning voor het oprichten van ee
 
 - d. een beschrijving van de meetstrategieën en meetmethoden die worden toegepast om te bepalen of de ontmanteling van de inrichting is voltooid;
 
-- e. een beschrijving van de voorzieningen voor het behoud van kennis en informatie, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029709&paragraaf=3&artikel=5&z=2017-08-01&g=2017-08-01);
+- e. een beschrijving van de voorzieningen voor het behoud van kennis en informatie, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029709&paragraaf=3&artikel=5&z=2024-01-01&g=2024-01-01);
 
 - f. een globale beschrijving van de maatregelen die worden getroffen tijdens de buitengebruikstelling en de ontmanteling van de inrichting en die relevante gevolgen hebben voor de kosten die voortvloeien uit het buiten gebruik stellen of het ontmantelen, waaronder in ieder geval een globale beschrijving van de maatregelen die worden getroffen om:
 
@@ -146,13 +146,13 @@ Een ontmantelingsplan van de houder van een vergunning voor het oprichten van ee
 
 Een ontmantelingsplan dat wordt overgelegd bij de aanvraag om een vergunning voor het buiten gebruik stellen en het ontmantelen van een inrichting bevat in ieder geval:
 
-- a. de gegevens, bedoeld in [artikel 3, eerste lid, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0029709&paragraaf=2&artikel=3&z=2017-08-01&g=2017-08-01);
+- a. de gegevens, bedoeld in [artikel 3, eerste lid, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0029709&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01);
 
-- b. een beschrijving van de voorzieningen voor het behoud van kennis en informatie, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029709&paragraaf=3&artikel=5&z=2017-08-01&g=2017-08-01);
+- b. een beschrijving van de voorzieningen voor het behoud van kennis en informatie, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029709&paragraaf=3&artikel=5&z=2024-01-01&g=2024-01-01);
 
-- c. een beschrijving van de rapportagemomenten, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0029709&paragraaf=3&artikel=8&z=2017-08-01&g=2017-08-01);
+- c. een beschrijving van de rapportagemomenten, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0029709&paragraaf=3&artikel=8&z=2024-01-01&g=2024-01-01);
 
-- d. een beschrijving van de organisatorische maatregelen, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0029709&paragraaf=3&artikel=9&z=2017-08-01&g=2017-08-01);
+- d. een beschrijving van de organisatorische maatregelen, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0029709&paragraaf=3&artikel=9&z=2024-01-01&g=2024-01-01);
 
 - e. een beschrijving van de meetstrategieën en meetmethoden die worden toegepast om effectieve doses vast te stellen, die worden ontvangen door een lid van de bevolking of een werknemer als gevolg van de buitengebruikstelling of de ontmanteling van de inrichting;
 
@@ -160,7 +160,7 @@ Een ontmantelingsplan dat wordt overgelegd bij de aanvraag om een vergunning voo
 
 - g. een beschrijving van de procedures waaraan de medewerkers, belast met de buitengebruikstelling en de ontmanteling van de inrichting, moeten voldoen, waarbij in ieder geval procedures worden omschreven met betrekking tot het interne toezicht op de buitengebruikstelling en de ontmanteling en met betrekking tot gevallen waarin wordt afgeweken van de geplande werkzaamheden;
 
-- h. indien [artikel 3 van het Asbestverwijderingsbesluit 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&artikel=3) van toepassing is: een asbestinventarisatierapport als bedoeld in [artikel 1, eerste lid, onder b, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&artikel=1).
+- h. indien [artikel 3 van het Asbestverwijderingsbesluit 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&artikel=3) van toepassing is: een asbestinventarisatierapport als bedoeld in [artikel 1 van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&artikel=1).
 
 #### Paragraaf 3. Buitengebruikstelling en ontmanteling
 
@@ -204,7 +204,7 @@ De houder van een vergunning voor het buiten gebruik stellen en het ontmantelen 
 
 - c. een beschrijving van de wijze waarop de vergunninghouder zich heeft ontdaan van de splijtstoffen, de radioactieve afvalstoffen en de splijtstof of erts bevattende afvalstoffen die zijn ontstaan bij de buitengebruikstelling en de ontmanteling;
 
-- d. voor zover de beschrijving, bedoeld onder c, afwijkt van de inventarisatie, bedoeld in [artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0029709&paragraaf=2&artikel=3&z=2017-08-01&g=2017-08-01): een onderbouwing van die afwijking.
+- d. voor zover de beschrijving, bedoeld onder c, afwijkt van de inventarisatie, bedoeld in [artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0029709&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01): een onderbouwing van die afwijking.
 
 #### Paragraaf 5. Aanvraag om goedkeuring van financiële zekerheid als bedoeld in [artikel 15f van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15f)
 
@@ -212,9 +212,9 @@ De houder van een vergunning voor het buiten gebruik stellen en het ontmantelen 
 
 ##### Artikel 15
 
-1. Deze regeling treedt, met uitzondering van [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029709&paragraaf=5&z=2017-08-01&g=2017-08-01), in werking met ingang van 1 juli 2011.
+1. Deze regeling treedt, met uitzondering van [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029709&paragraaf=5&z=2024-01-01&g=2024-01-01), in werking met ingang van 1 juli 2011.
 
-2. [Paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029709&paragraaf=5&z=2017-08-01&g=2017-08-01) treedt in werking met ingang van 1 april 2011.
+2. [Paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029709&paragraaf=5&z=2024-01-01&g=2024-01-01) treedt in werking met ingang van 1 april 2011.
 
 ##### Artikel 16
 
