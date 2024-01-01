@@ -4,7 +4,7 @@ identifier: "BWBR0044185"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-31"
-last_updated: "2023-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044185"
 soort: "ministeriele-regeling"
@@ -80,21 +80,21 @@ Subsidie kan uitsluitend verstrekt worden aan een abortuskliniek die in het bezi
 
 1. De subsidie voor het verzorgen van een opleiding tot abortusarts bedraagt maximaal:
 
-- a. € 78.605 per opleidingsplaats eerste trimester abortusarts;
+- a. € 83.754 per opleidingsplaats eerste trimester abortusarts;
 
-- b. € 151.165 per opleidingsplaats tweede trimester A abortusarts;
+- b. € 161.076 per opleidingsplaats tweede trimester A abortusarts;
 
-- c. € 179.466 per opleidingsplaats tweede trimester B abortusarts.
+- c. € 191.235 per opleidingsplaats tweede trimester B abortusarts.
 
 2. De subsidie voor het verzorgen van een opleiding tot sedationist bedraagt maximaal:
 
-- a. € 9.565 per opleidingsplaats voor een eerste trimester opleideling;
+- a. € 10.127 per opleidingsplaats voor een eerste trimester opleideling;
 
-- b. € 15.907 per opleidingsplaats voor een eerste trimester abortusarts;
+- b. € 16.885 per opleidingsplaats voor een eerste trimester abortusarts;
 
-- c. € 19.220 per opleidingsplaats voor een tweede trimester A abortusarts;
+- c. € 20.416 per opleidingsplaats voor een tweede trimester A abortusarts;
 
-- d. € 21.263 per opleidingsplaats voor een tweede trimester B abortusarts.
+- d. € 22.593 per opleidingsplaats voor een tweede trimester B abortusarts.
 
 ##### Artikel 6. Aanvraag tot verlening van subsidie
 
@@ -106,13 +106,15 @@ Subsidie kan uitsluitend verstrekt worden aan een abortuskliniek die in het bezi
 
 4. Indien de abortuskliniek niet voldoet aan enig wettelijk voorschrift voor het in behandeling nemen van de aanvraag tot verlening of indien de verstrekte gegevens en bescheiden onvoldoende zijn voor de beoordeling van de aanvraag, stelt de minister de abortuskliniek in de gelegenheid de aanvraag binnen drie weken aan te vullen. De minister besluit de aanvraag niet te behandelen indien de aanvraag binnen de gegeven termijn niet of onvoldoende is aangevuld.
 
+5. Een aanvraag tot verlening van een subsidie wordt in ieder geval ingediend voor aanvang van de periode waarvoor subsidie wordt aangevraagd.
+
 ##### Artikel 7. Verlening en bevoorschotting
 
 1. De minister besluit binnen 13 weken na ontvangst van de aanvraag tot subsidieverlening.
 
 2. De minister vermeldt in het besluit tot verlening van de subsidie in elk geval de te subsidiëren activiteiten, het subsidiebedrag, de periode waarvoor subsidie wordt verleend, de wijze waarop kan worden aangetoond dat de activiteiten zijn verricht en de wijze van verantwoording.
 
-3. De minister verleent bij het besluit tot verlening van de subsidie ambtshalve de volgende voorschotten: in januari 8%, februari 8%, maart 8%, april 7%, mei 16%, juni 7%, juli 8%, augustus 8%, september 7%, oktober 8%, november 8% en december 7% van het bedrag van de verleende subsidie.
+3. De Minister verleent bij het besluit tot verlening van de subsidie ambtshalve voorschotten. De voorschotten worden gelijkmatig betaald over het aantal maanden waarvoor de subsidie wordt verleend.
 
 ##### Artikel 8. Verplichtingen
 
