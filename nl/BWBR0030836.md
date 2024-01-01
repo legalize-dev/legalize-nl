@@ -4,7 +4,7 @@ identifier: "BWBR0030836"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2012-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030836"
 soort: "wet"
@@ -45,11 +45,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel I
 
-Wijzigt de Waterwet.
+Vervallen
 
 ##### Artikel II
 
-Wijzigt de Wet Infrastructuurfonds.
+Vervallen
 
 ##### Artikel III
 
@@ -59,25 +59,15 @@ Wijzigt de Wet Infrastructuurfonds.
 
 ##### Artikel IV
 
-1. Aan [artikel 4.1, tweede lid, onderdeel d, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=4.1) wordt voor het eerst uitvoering gegeven uiterlijk bij de eerstvolgende zesjaarlijkse herziening van het nationale waterplan, bedoeld in artikel 4.1 van die wet.
-
-2. Aan [artikel 4.9 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=4.9) wordt voor het eerst uitvoering gegeven uiterlijk op het tijdstip, bedoeld in het derde lid.
-
-3. De eerste ontwerpbegroting van het deltafonds, bedoeld in hoofdstuk 7, paragraaf 3b, van de Waterwet wordt aangeboden aan de Tweede Kamer op de derde dinsdag in september na het tijdstip van inwerkingtreding van [artikel I, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0030836&artikel=I&z=2012-01-01&g=2012-01-01), van deze wet.
-
-4. Op begrotingen die zijn aangeboden aan de Tweede Kamer voor het tijdstip van inwerkingtreding van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0030836&artikel=II&z=2012-01-01&g=2012-01-01) blijft de [Wet Infrastructuurfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0006001) van toepassing zoals die luidde voor dat tijdstip.
-
-5. Het bij of krachtens de [Wet Infrastructuurfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0006001) bepaalde, zoals dat luidde voor het tijdstip van inwerkingtreding van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0030836&artikel=II&z=2012-01-01&g=2012-01-01) van deze wet, blijft van toepassing op subsidieaanvragen en -verstrekkingen gedaan voor genoemd tijdstip.
+Het bij of krachtens de [Wet Infrastructuurfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0006001) bepaalde, zoals dat luidde voor het tijdstip van inwerkingtreding van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0030836&artikel=II&z=2024-01-01&g=2024-01-01) van deze wet, blijft van toepassing op subsidieaanvragen en -verstrekkingen gedaan voor genoemd tijdstip.
 
 ##### Artikel V
 
-1. Onze Minister van Infrastructuur en Milieu zendt binnen vijf jaren na de volledige inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en effecten van deze wet, met uitzondering van [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0030836&artikel=III&z=2012-01-01&g=2012-01-01).
-
-2. Onze Minister van Infrastructuur en Milieu zendt uiterlijk tien jaren na inwerkingtreding van [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0030836&artikel=III&z=2012-01-01&g=2012-01-01) van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en effecten van artikel III van deze wet in de praktijk. Bij het verslag betrekt Onze Minister de bevindingen van de deltacommissaris met betrekking tot het bepaalde in artikel III.
+Onze Minister van Infrastructuur en Milieu zendt uiterlijk tien jaren na inwerkingtreding van [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0030836&artikel=III&z=2024-01-01&g=2024-01-01) van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en effecten van artikel III van deze wet in de praktijk. Bij het verslag betrekt Onze Minister de bevindingen van de deltacommissaris met betrekking tot het bepaalde in artikel III.
 
 ##### Artikel VI
 
-De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+Vervallen
 
 ##### Artikel VII
 
