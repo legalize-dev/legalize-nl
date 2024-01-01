@@ -4,7 +4,7 @@ identifier: "BWBR0001867"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2017-09-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001867"
 soort: "wet"
@@ -136,17 +136,11 @@ Vervallen
 
 ##### Artikel 9
 
-1. Wanneer tot het maken van ontwerpen voor het aanleggen, onderhouden of verbeteren van een waterstaatswerk, gravingen, opmetingen of het stellen van teekens op iemands grond noodig worden geacht, moeten zoowel de eigenaren als de gebruikers van dien grond dit gedoogen, mits dit aan laatstgenoemden ten minste tweemaal vier en twintig uren te voren, hetzij door het bestuur van het publiekrechtelijk lichaam, dat het waterstaatswerk ontwerpt, aanlegt, onderhoudt of verbetert, hetzij door den burgemeester, schriftelijk zij aangezegd.
-
-2. Vervallen.
-
-3. Vervallen.
-
-4. De bepalingen van dit artikel kunnen door de eigenaren en gebruikers van gronden niet worden ingeroepen, wanneer het gebruikmaken van iemands grond uit eene verordening of uit eene verplichting uit anderen hoofde volgt.
+Vervallen
 
 ##### Artikel 10
 
-De eigenaren en gebruikers van gronden, waarover of waardoor ten behoeve van een waterstaatsbelang vanwege het openbaar gezag electrische geleidingen moeten worden aangebracht, zijn gehouden het plaatsen der noodige palen, het leiden der draden, zoo boven als onder den grond, alsmede wat tot instandhouding daarvan vereischt wordt, te dulden. Het plaatsen van palen en het leiden van draden onder den grond in afgesloten tuinen en erven, die met bewoonde perceelen één geheel vormen, behoeft niet te worden gedoogd.
+Vervallen
 
 ##### Artikel 11
 
@@ -162,23 +156,13 @@ Vervallen
 
 ##### Artikel 12b
 
-1. De schade, welke uit de toepassing der bepalingen van [artt. 9](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=6&artikel=9&z=2017-09-01&g=2017-09-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=6&artikel=10&z=2017-09-01&g=2017-09-01), voor de rechthebbenden mocht voortvloeien, wordt, voor zoover de aanspraak op schadevergoeding niet door bestaande verplichtingen wordt uitgesloten, door hen, te wier name of last het werk wordt ontworpen of uitgevoerd, vergoed.
-
-2. De vordering daartoe wordt behandeld en beslist door de kantonrechter van de rechtbank van het arrondissement, waarin de zaak geheel of ten deele is gelegen, zonder hooger beroep, indien de vordering niet meer dan € 1 750 beloopt, en behoudens hooger beroep tot welke som de vordering zich mocht uitstrekken.
-
-3. De verweerder is verplicht bij zijn antwoord te verklaren, welk bedrag hij bereid is als schadevergoeding te betalen.
-
-4. De kosten van het geding komen ten laste van den verweerder, tenzij de rechter in de omstandigheden van het geding aanleiding vindt om de kosten geheel of voor een deel te compenseeren, behoudens dat de kosten geheel door den eischer worden gedragen, indien hem niet meer wordt toegewezen dan door verweerder bij zijn antwoord werd aangeboden.
+Vervallen
 
 #### § 6a. Voorzieningen betreffende beschadiging van waterstaatswerken, in beheer of onderhoud bij provincie, gemeente, waterschap
 
 ##### Artikel 12c
 
-1. De kosten wegens schade, toegebracht aan waterstaatswerken in beheer of onderhoud bij een provincie, een waterschap of een gemeente, waarvoor eigenaren of gebruikers van vaartuigen wettelijk aansprakelijk zijn, worden“worden” moet zijn “worden door” de daartoe aangewezen ambtenaar geraamd en vermeld in een proces-verbaal dat, zo mogelijk, aan de schipper in afschrift wordt meegedeeld.
-
-2. Indien het geraamde bedrag aan de betrokken ambtenaar niet tot zekerheid wordt betaald of niet tot diens genoegen zekerheid wordt gesteld voor betaling daarvan binnen redelijke termijn, is deze ambtenaar bevoegd, desnoods met behulp van de sterke arm, het voortzetten van de reis, het ondernemen van de terugtocht of het aanvangen van een nieuwe reis, ook indien het vaartuig inmiddels buiten zijn ambtsgebied is gebracht, te beletten.
-
-3. Onverminderd het recht op volledige vergoeding van de schade is het betrokken publiekrechtelijk lichaam bevoegd het betaalde bedrag aan te wenden tot herstel van de schade. Indien blijkt dat de werkelijke kosten wegens schade minder bedragen dan het betaalde bedrag, wordt het overschot, met de wettelijke rente daarvan vanaf de dag der betaling, uitgekeerd aan degene die heeft betaald.
+Vervallen
 
 ##### Artikel 12d
 
@@ -322,9 +306,9 @@ Vervallen
 
 ##### Artikel 39
 
-1. Indien Gedeputeerde Staten van de hun in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&artikel=37&z=2017-09-01&g=2017-09-01) toegekende bevoegdheid, geen gebruik maken, kan Onze voornoemde Minister, Gedeputeerde Staten gehoord, de daar bedoelde bevelen geven.
+1. Indien Gedeputeerde Staten van de hun in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&artikel=37&z=2024-01-01&g=2024-01-01) toegekende bevoegdheid, geen gebruik maken, kan Onze voornoemde Minister, Gedeputeerde Staten gehoord, de daar bedoelde bevelen geven.
 
-2. Het bepaalde in het voorgaande lid is eveneens van toepassing op het bevel bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&artikel=38&z=2017-09-01&g=2017-09-01).
+2. Het bepaalde in het voorgaande lid is eveneens van toepassing op het bevel bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&artikel=38&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 40
 
@@ -342,7 +326,7 @@ Vervallen
 
 ##### Artikel 42
 
-Onze Minister van Verkeer en Waterstaat is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van een door hem gegeven bevel als bedoeld in [§12](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&z=2017-09-01&g=2017-09-01).
+Onze Minister van Verkeer en Waterstaat is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van een door hem gegeven bevel als bedoeld in [§12](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 42a
 
@@ -350,7 +334,7 @@ Vervallen
 
 ##### Artikel 42b
 
-Onze Minister van Verkeer en Waterstaat kan, ter handhaving van een door hen gegeven bevel als bedoeld in [§12](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&z=2017-09-01&g=2017-09-01), aan gedeputeerde staten opdragen een last onder bestuursdwang op te leggen, dan wel zelf tot oplegging van een last onder bestuursdwang overgaan.
+Onze Minister van Verkeer en Waterstaat kan, ter handhaving van een door hen gegeven bevel als bedoeld in [§12](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&z=2024-01-01&g=2024-01-01), aan gedeputeerde staten opdragen een last onder bestuursdwang op te leggen, dan wel zelf tot oplegging van een last onder bestuursdwang overgaan.
 
 ##### Artikel 42c
 
@@ -458,11 +442,11 @@ Vervallen
 
 ##### Artikel 66
 
-1. Wordt een bevel, als bedoeld in de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&artikel=36&z=2017-09-01&g=2017-09-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&artikel=37&z=2017-09-01&g=2017-09-01) en [38](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&artikel=38&z=2017-09-01&g=2017-09-01) bij gemeenschappelijk besluit van twee of meer colleges van Gedeputeerde Staten gegeven, dan wordt bij dat besluit één van die colleges aangewezen voor de uitoefening van de bevoegdheden, bij deze wet aan of ten aanzien van Gedeputeerde Staten toegekend in verband met de tenuitvoerlegging, daaronder begrepen de bevoegdheid tot oplegging van een last onder bestuursdwang.
+1. Wordt een bevel, als bedoeld in de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&artikel=36&z=2024-01-01&g=2024-01-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&artikel=37&z=2024-01-01&g=2024-01-01) en [38](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&artikel=38&z=2024-01-01&g=2024-01-01) bij gemeenschappelijk besluit van twee of meer colleges van Gedeputeerde Staten gegeven, dan wordt bij dat besluit één van die colleges aangewezen voor de uitoefening van de bevoegdheden, bij deze wet aan of ten aanzien van Gedeputeerde Staten toegekend in verband met de tenuitvoerlegging, daaronder begrepen de bevoegdheid tot oplegging van een last onder bestuursdwang.
 
 2. Indien de betrokken colleges zich niet met elkander over zulk een besluit verstaan, wordt het bevel gegeven en de aanwijzing gedaan door Onze met de uitvoering van deze wet belaste Minister.
 
-3. De rechtsvordering tegen de provincie, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&artikel=41&z=2017-09-01&g=2017-09-01), wordt ingesteld tegen de provincie, waarvan Gedeputeerde Staten voor de uitoefening van de in het eerste lid bedoelde bevoegdheden zijn aangewezen.
+3. De rechtsvordering tegen de provincie, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&artikel=41&z=2024-01-01&g=2024-01-01), wordt ingesteld tegen de provincie, waarvan Gedeputeerde Staten voor de uitoefening van de in het eerste lid bedoelde bevoegdheden zijn aangewezen.
 
 #### § 17. Voorzieningen inzake voorbereiding op en optreden bij gevaar
 
@@ -620,7 +604,7 @@ Vervallen
 
 ##### Artikel 103
 
-Deze wet is niet van toepassing op waterstaatswerken in de zin van [artikel 1.1 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=1.1).
+Deze wet is niet van toepassing op een waterstaatswerk als bedoeld in de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885).
 
 #### Slotbepalingen
 
@@ -702,7 +686,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 #### § 13. Middelen van executie
 
-#### § 14. Verhaal der kosten bedoeld in [§§ 12](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&z=2017-09-01&g=2017-09-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=13&z=2017-09-01&g=2017-09-01)
+#### § 14. Verhaal der kosten bedoeld in [§§ 12](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=12&z=2024-01-01&g=2024-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&paragraaf=13&z=2024-01-01&g=2024-01-01)
 
 #### § 15. Vervallen
 
