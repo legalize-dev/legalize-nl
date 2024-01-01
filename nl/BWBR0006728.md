@@ -4,7 +4,7 @@ identifier: "BWBR0006728"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-03-30"
-last_updated: "2016-02-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006728"
 soort: "AMvB"
@@ -108,11 +108,11 @@ De commissaris coördineert de voorbereiding van de civiele verdediging door de 
 
 ##### Artikel 9
 
-Vervallen
+De commissaris informeert over ontheffingen als bedoeld in [artikel 47, derde lid, Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=47) Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties in zijn periodieke rapportage en informeert gelijktijdig Onze Minister van Infrastructuur en Waterstaat, tenzij naar zijn oordeel betrokkenheid van Onze Ministers noodzakelijk is alvorens op een concreet verzoek te besluiten.
 
 ##### Artikel 10
 
-Onverminderd [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006728&artikel=2&z=2016-02-01&g=2016-02-01), kan de commissaris een ieder belast met bevoegdheden in de openbare dienst in de provincie verzoeken om bericht en raad, voor zover hij dat nodig acht in verband met de hem bij deze instructie opgedragen taken. Aan deze verzoeken dient te worden voldaan.
+Onverminderd [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006728&artikel=2&z=2024-01-01&g=2024-01-01), kan de commissaris een ieder belast met bevoegdheden in de openbare dienst in de provincie verzoeken om bericht en raad, voor zover hij dat nodig acht in verband met de hem bij deze instructie opgedragen taken. Aan deze verzoeken dient te worden voldaan.
 
 ##### Artikel 11
 
@@ -176,10 +176,10 @@ De commissaris informeert Onze Minister over toestemmingen als bedoeld in [artik
 
 ##### Artikel 6e
 
-De commissaris brengt een voornemen tot benoeming van een waarnemend burgemeester ter kennis van Onze Minister.
+De commissaris brengt een voornemen tot het voorzien in de waarneming van de burgemeester ter kennis van Onze Minister.
 
 ##### Artikel 7b
 
-De commissaris informeert Onze Minister bij verstoorde bestuurlijke verhoudingen in een gemeente en wanneer de bestuurlijke integriteit van een gemeente in het geding is. Hij informeert Onze Minister daarbij tevens over de maatregelen die hij ter zake neemt.
+De commissaris informeert Onze Minister bij verstoorde bestuurlijke verhoudingen in een gemeente en wanneer de bestuurlijke integriteit van een gemeente in het geding is. Hij informeert Onze Minister daarbij tevens over de maatregelen die hij ter zake neemt, waaronder het bijwonen van vergaderingen van het gemeentebestuur en het kennisnemen van bescheiden waarover het gemeentebestuur beschikt als bedoeld in [artikel 182, tweede lid, Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=182).
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
