@@ -4,7 +4,7 @@ identifier: "BWBR0044962"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2023-10-05"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044962"
 soort: "wet"
@@ -139,7 +139,7 @@ Wijzigt de Wet grondslagen ruimtelijke ontwikkelingsplanning BES.
 
 Wijzigt de Woningwet.
 
-#### § 5. Onderwijs, Cultuur en Wetenschap
+#### § 4. Binnenlandse Zaken en Koninkrijksrelaties
 
 ##### Artikel 4.20
 
@@ -403,7 +403,7 @@ Wijzigt de Wet verplichte beroepspensioenregeling.
 
 Wijzigt de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000.
 
-#### § 12. Volksgezondheid, Welzijn en Sport
+#### § 11. Sociale Zaken en Werkgelegenheid
 
 ##### Artikel 4.82
 
@@ -541,16 +541,88 @@ Wijzigt de Wet medezeggenschap cliënten zorginstellingen 2018.
 
 ##### Artikel 5.1
 
-Dit onderdeel is nog niet inwerking getreden
+Onverminderd [hoofdstuk 4 van de Invoeringswet Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&hoofdstuk=4) blijven de [artikelen 3:21 tot en met 3:29 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:21), zoals deze luidden voor het tijdstip van inwerkingtreding van [artikel 1, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0044962&hoofdstuk=1&artikel=1&z=2024-01-01&g=2024-01-01), van deze wet, van toepassing op:
+
+- a. besluiten die zijn aangevraagd voor dat tijdstip;
+
+- b. ambtshalve te nemen besluiten waarvan de beslistermijn is aangevangen vóór dat tijdstip;
+
+- c. besluiten die zijn aangevraagd na dat tijdstip en ambtshalve besluiten waarvan de beslistermijn is aangevangen na dat tijdstip, indien:
+
+- 1°. de eerste aanvraag, bedoeld in [artikel 3:23, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:23), is ingediend vóór dat tijdstip;
+
+- 2°. de laatste aanvraag, bedoeld in [artikel 3:23, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:23), is ingediend na dat tijdstip doch binnen zes weken na ontvangst van de eerste aanvraag of, indien toepassing is gegeven aan artikel 3:23, derde lid, van de Algemene wet bestuursrecht, binnen de door het coördinerend bestuursorgaan gestelde termijn.
 
 ##### Artikel 5.2
 
-1. Een voor de datum van de inwerkingtreding van [artikel 1, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0044962&hoofdstuk=1&artikel=1&z=2023-10-05&g=2023-10-05) wegens overtreding van [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) oplegde last onder bestuursdwang berust met ingang van de datum van inwerkingtreding van artikel 1, onderdeel C, mede op artikel 5:20, derde lid, van de Algemene wet bestuursrecht.
+1. Een voor de datum van de inwerkingtreding van [artikel 1, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0044962&hoofdstuk=1&artikel=1&z=2024-01-01&g=2024-01-01) wegens overtreding van [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) oplegde last onder bestuursdwang berust met ingang van de datum van inwerkingtreding van artikel 1, onderdeel C, mede op artikel 5:20, derde lid, van de Algemene wet bestuursrecht.
 
-2. Een voor de datum van de inwerkingtreding van [artikel 1, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0044962&hoofdstuk=1&artikel=1&z=2023-10-05&g=2023-10-05) wegens overtreding van [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) oplegde last onder dwangsom berust met ingang van de datum van inwerkingtreding van artikel 1, onderdeel C, mede op artikel 5:20, derde lid, gelezen in samenhang met [artikel 5:32, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:32).
+2. Een voor de datum van de inwerkingtreding van [artikel 1, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0044962&hoofdstuk=1&artikel=1&z=2024-01-01&g=2024-01-01) wegens overtreding van [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) oplegde last onder dwangsom berust met ingang van de datum van inwerkingtreding van artikel 1, onderdeel C, mede op artikel 5:20, derde lid, gelezen in samenhang met [artikel 5:32, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:32).
 
 ##### Artikel 5.3
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 2.1
+
+Wijzigt de Omgevingswet.
+
+##### Artikel 2.2
+
+Wijzigt de Kernenergiewet.
+
+##### Artikel 2.3
+
+Wijzigt de Wet bescherming Antarctica.
+
+##### Artikel 2.4
+
+Wijzigt de Wet milieubeheer.
+
+### Hoofdstuk 3. Aanpassing van bijzondere nadeelcompensatieregelingen aan [titel 4.5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.5)
+
+##### Artikel 3.1
+
+Wijzigt de Kernenergiewet.
+
+##### Artikel 3.2
+
+Wijzigt de Plantenziektenwet.
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 3.3
+
+Wijzigt de Telecommunicatiewet.
+
+##### Artikel 3.4
+
+Wijzigt de Wet nadeelcompensatie en schadevergoeding bij onrechtmatige besluiten.
+
+### Hoofdstuk 4. Wijzigingen in verband met de aanpassing van [artikel 5:20 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20)
+
+#### § 1. Algemene Zaken
+
+#### § 2. Buitenlandse Zaken
+
+#### § 3. Justitie en Veiligheid
+
+#### § 5. Onderwijs, Cultuur en Wetenschap
+
+#### § 6. Financiën
+
+#### § 7. Defensie
+
+#### § 8. Infrastructuur en Waterstaat
+
+#### § 9. Economische Zaken en Klimaat
+
+#### § 10. Landbouw, Natuur en Voedselkwaliteit
+
+#### § 12. Volksgezondheid, Welzijn en Sport
+
+### Hoofdstuk 5. Overgangs- en slotbepalingen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
