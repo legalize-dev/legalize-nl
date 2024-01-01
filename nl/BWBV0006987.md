@@ -4,7 +4,7 @@ identifier: "BWBV0006987"
 country: "nl"
 rank: "verdrag"
 publication_date: "2024-01-01"
-last_updated: "2023-02-22"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006987"
 soort: "verdrag"
@@ -66,7 +66,7 @@ Have agreed as follows:
 
 - f. the term “the Convention” means the [Convention on International Civil Aviation](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), opened for signature at Chicago on 7 December 1944, and includes any Annex adopted under [Article 90 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=90) and any amendment of the Annexes or the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507) under [Articles 90](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=90) and [94](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=94) thereof, insofar as those Annexes and amendments have become effective for, or have been ratified by both Contracting Parties;
 
-- g. the term “Designated Airline” means an Airline which has been designated and authorized in accordance with [Article 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006987&hoofdstuk=II&artikel=3&z=2023-02-22&g=2023-02-22) (Designation and Authorization) of this Agreement;
+- g. the term “Designated Airline” means an Airline which has been designated and authorized in accordance with [Article 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006987&hoofdstuk=II&artikel=3&z=2024-01-01&g=2024-01-01) (Designation and Authorization) of this Agreement;
 
 - h. the term “Stores” means articles of a readily consumable nature for use or sale on board an aircraft during flight including commissary supplies;
 
@@ -138,7 +138,7 @@ Have agreed as follows:
 
 - iii. the Airline holds a current Air Operator’s certificate issued by the Aeronautical Authority of the Democratic Socialist Republic of Sri Lanka;
 
-- c. the Contracting Party designating the Airline is maintaining and administering the standards set forth in [Article 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006987&hoofdstuk=III&artikel=8&z=2023-02-22&g=2023-02-22) (Fair Competition), [Article 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006987&hoofdstuk=V&artikel=14&z=2023-02-22&g=2023-02-22) (Safety) and [Article 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006987&hoofdstuk=V&artikel=15&z=2023-02-22&g=2023-02-22) (Aviation Security) of this Agreement; and
+- c. the Contracting Party designating the Airline is maintaining and administering the standards set forth in [Article 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006987&hoofdstuk=III&artikel=8&z=2024-01-01&g=2024-01-01) (Fair Competition), [Article 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006987&hoofdstuk=V&artikel=14&z=2024-01-01&g=2024-01-01) (Safety) and [Article 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006987&hoofdstuk=V&artikel=15&z=2024-01-01&g=2024-01-01) (Aviation Security) of this Agreement; and
 
 - d. the Designated Airline(s) is/are qualified to meet the conditions prescribed under the laws and regulations normally applied to the operations of International Air Services by the Contracting Party considering the application or applications.
 
@@ -170,13 +170,13 @@ Have agreed as follows:
 
 - iii. the Airline does not hold a current Air Operator’s certificate issued by the Aeronautical Authority of the Democratic Socialist Republic of Sri Lanka;
 
-- c. in case the other Contracting Party is not maintaining and administering the standards set forth in [Article 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006987&hoofdstuk=III&artikel=8&z=2023-02-22&g=2023-02-22) (Fair Competition), [Article 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006987&hoofdstuk=V&artikel=14&z=2023-02-22&g=2023-02-22) (Safety) and [Article 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006987&hoofdstuk=V&artikel=15&z=2023-02-22&g=2023-02-22) (Aviation Security) of this Agreement; or
+- c. in case the other Contracting Party is not maintaining and administering the standards set forth in [Article 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006987&hoofdstuk=III&artikel=8&z=2024-01-01&g=2024-01-01) (Fair Competition), [Article 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006987&hoofdstuk=V&artikel=14&z=2024-01-01&g=2024-01-01) (Safety) and [Article 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006987&hoofdstuk=V&artikel=15&z=2024-01-01&g=2024-01-01) (Aviation Security) of this Agreement; or
 
 - d. in the event such Airline fails to qualify before the Aeronautical Authorities of the Contracting Party assessing the authorization, under the laws and regulations normally and reasonably applied to the operation of International Air Services by these Authorities in conformity with the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507).
 
 2. Unless immediate action is essential to prevent further non-compliance with the conditions as referred to in paragraph 1 of this Article, the rights established by this Article shall be exercised only after consultation with the other Contracting Party. Unless otherwise agreed by the Contracting Parties, such consultations shall begin within a period of sixty (60) days from the date of receipt of the request.
 
-3. This Article does not limit the rights of either Contracting Party to withhold, suspend, revoke, limit or impose conditions on the operating authorization of an Airline or Airlines of the other Contracting Party in accordance with the provisions of [Article 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006987&hoofdstuk=V&artikel=14&z=2023-02-22&g=2023-02-22) (Safety) and [Article 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006987&hoofdstuk=V&artikel=15&z=2023-02-22&g=2023-02-22) (Aviation Security) of this Agreement.
+3. This Article does not limit the rights of either Contracting Party to withhold, suspend, revoke, limit or impose conditions on the operating authorization of an Airline or Airlines of the other Contracting Party in accordance with the provisions of [Article 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006987&hoofdstuk=V&artikel=14&z=2024-01-01&g=2024-01-01) (Safety) and [Article 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006987&hoofdstuk=V&artikel=15&z=2024-01-01&g=2024-01-01) (Aviation Security) of this Agreement.
 
 ### CHAPTER III. COMMERCIAL PROVISIONS
 
@@ -314,9 +314,9 @@ Each Contracting Party, however, reserves the right to refuse to recognize, for 
 
 1. Each Contracting Party may request consultations at any time concerning safety standards in any area relating to aircrew, aircraft or their operation adopted by the other Contracting Party. Such consultations shall take place within thirty (30) days of that request.
 
-2. Where the Netherlands has designated an Airline whose regulatory control is exercised and maintained by another European Union Member State, the rights of the other Contracting Party under [Article 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006987&hoofdstuk=II&artikel=3&z=2023-02-22&g=2023-02-22) (Designation and Authorization) of this Agreement shall apply equally in respect of the adoption, exercise or maintenance of safety standards by that other European Union Member State and in respect of the operating authorization of that Airline.
+2. Where the Netherlands has designated an Airline whose regulatory control is exercised and maintained by another European Union Member State, the rights of the other Contracting Party under [Article 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006987&hoofdstuk=II&artikel=3&z=2024-01-01&g=2024-01-01) (Designation and Authorization) of this Agreement shall apply equally in respect of the adoption, exercise or maintenance of safety standards by that other European Union Member State and in respect of the operating authorization of that Airline.
 
-3. If, following such consultations, as referred to in paragraph 1, one Contracting Party finds that the other Contracting Party does not effectively maintain and administer safety standards and requirements in any such area that are at least equal to the minimum standards established at that time pursuant to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), the first Contracting Party shall notify the other Contracting Party of those findings and the steps considered necessary to conform with those minimum standards, and that other Contracting Party shall take appropriate corrective action. Failure by the other Contracting Party to take appropriate action within fifteen (15) days or such longer period as may be agreed, shall be grounds for the application of [Article 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006987&hoofdstuk=II&artikel=4&z=2023-02-22&g=2023-02-22) (Revocation and Suspension of Authorization) of this Agreement.
+3. If, following such consultations, as referred to in paragraph 1, one Contracting Party finds that the other Contracting Party does not effectively maintain and administer safety standards and requirements in any such area that are at least equal to the minimum standards established at that time pursuant to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), the first Contracting Party shall notify the other Contracting Party of those findings and the steps considered necessary to conform with those minimum standards, and that other Contracting Party shall take appropriate corrective action. Failure by the other Contracting Party to take appropriate action within fifteen (15) days or such longer period as may be agreed, shall be grounds for the application of [Article 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006987&hoofdstuk=II&artikel=4&z=2024-01-01&g=2024-01-01) (Revocation and Suspension of Authorization) of this Agreement.
 
 4. Notwithstanding the obligations mentioned in [Article 33 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=33) it is agreed that any Aircraft operated by an Airline or, under a lease arrangement, on behalf of the Airline or Airlines of one Contracting Party on Air Services to or from the Territory of the other Contracting Party may, while within the Territory of the other Contracting Party, be made the subject of an examination by the authorized representatives of the other Contracting Party, on board and around the aircraft, to check both the validity of the aircraft documents and those of its crew and the apparent conditions of the aircraft and its equipment (ramp inspections), provided this does not lead to unreasonable delay.
 
@@ -370,7 +370,7 @@ the Contracting Party carrying out the inspection shall, for the purpose of [Art
 
 2. Either Contracting Party may request consultations with a view to amend this Agreement and/or its Annex. These consultations shall begin within sixty (60) days from the date of receipt of the request by the other Contracting Party, unless otherwise agreed. Such consultations may be conducted through discussion or by correspondence.
 
-3. Any Amendment to this Agreement shall be agreed upon by the Contracting Parties and shall be effected through an exchange of diplomatic notes. Such Amendment shall enter into force in accordance with the provisions [Article 25, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006987&hoofdstuk=VII&artikel=25&z=2023-02-22&g=2023-02-22), (Entry into Force) of this Agreement.
+3. Any Amendment to this Agreement shall be agreed upon by the Contracting Parties and shall be effected through an exchange of diplomatic notes. Such Amendment shall enter into force in accordance with the provisions [Article 25, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006987&hoofdstuk=VII&artikel=25&z=2024-01-01&g=2024-01-01), (Entry into Force) of this Agreement.
 
 4. Notwithstanding the provisions of paragraph 3 of this Article, any amendment of the Route Schedule in the Annex to this Agreement may be agreed upon by the Aeronautical Authorities of the Contracting Parties, and confirmed through an exchange of diplomatic notes, and shall enter into force on a date to be determined in the diplomatic notes. This exception to paragraph 3 of this Article does not apply in case any traffic rights are added to the above-mentioned Annex.
 
