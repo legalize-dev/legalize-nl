@@ -4,7 +4,7 @@ identifier: "BWBR0046570"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2022-04-22"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046570"
 soort: "AMvB"
@@ -54,25 +54,17 @@ Wijzigt het Bouwbesluit 2012.
 
 Wijzigt het Besluit bouwwerken leefomgeving.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel III
 
 Wijzigt het Besluit kwaliteit leefomgeving.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV
 
 Wijzigt het Omgevingsbesluit.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel V
 
 Wijzigt het Besluit toegelaten instellingen volkshuisvesting 2015.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VI
 
