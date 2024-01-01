@@ -4,7 +4,7 @@ identifier: "BWBR0027932"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-01"
-last_updated: "2020-12-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027932"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-**bijlage:** bij deze regeling behorende [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&bijlage=I&z=2020-12-01&g=2020-12-01);
+**bijlage:** bij deze regeling behorende [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&bijlage=I&z=2024-01-01&g=2024-01-01);
 
 **burstlading:** pyrotechnische stoffen of preparaten welke zijn bedoeld om het vuurwerk open te rijten en de effectlading te verspreiden en zo nodig te ontsteken;
 
@@ -53,8 +53,6 @@ In deze regeling wordt verstaan onder:
 **effectlading:** pyrotechnische stoffen of preparaten, anders dan een voortdrijvende lading of een burstlading, welke na ontsteking een geluid- of lichteffect veroorzaakt;
 
 **externe ondersteuner:** drager welke geen integraal onderdeel uitmaakt van het consumentenvuurwerk of die moet worden bevestigd aan het consumentenvuurwerk voorafgaand aan gebruik en zorgt voor stabiliteit;
-
-**indoortheatervuurwerk:** theatervuurwerk dat geschikt is voor de realisatie van pyrotechnische speciale effecten in besloten ruimten;
 
 **knallading:**: pyrotechnische stoffen of preparaten met een knal als beoogd effect;
 
@@ -68,8 +66,6 @@ In deze regeling wordt verstaan onder:
 
 **samengesteld vuurwerk:** assemblage van verschillende afzonderlijke vuurwerkartikelen;
 
-**sterren:** delen of onderdelen van pyrotechnische voorwerpen in vaste vorm in de vorm van een bol, cilinder of korrel die bij verbranding een lichtspoor of een spoor van vonken veroorzaken;
-
 **vonken:** hete deeltjes die een kortstondig lichteffect veroorzaken;
 
 **voortdrijvende lading:** pyrotechnische stoffen of preparaten die na ontsteking een gas produceren waarmee pyrotechnische units of het vuurwerk als geheel wordt voortgedreven zonder het vuurwerk uiteen te rijten;
@@ -78,7 +74,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Als consumentenvuurwerk wordt aangewezen vuurwerk dat behoort tot een in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&bijlage=I&z=2020-12-01&g=2020-12-01) of [II](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&bijlage=II&z=2020-12-01&g=2020-12-01) genoemde categorie en voldoet aan de volgende eisen:
+1. Als consumentenvuurwerk wordt aangewezen vuurwerk dat behoort tot een in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&bijlage=I&z=2024-01-01&g=2024-01-01) of [II](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&bijlage=II&z=2024-01-01&g=2024-01-01) genoemde categorie en voldoet aan de volgende eisen:
 
 - a. het vuurwerk is bestemd om het in de bijlage bij de betrokken categorie aangegeven effect te bewerkstelligen;
 
@@ -110,21 +106,11 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-Als fop- en schertsvuurwerk wordt aangewezen vuurwerk dat behoort tot een in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&bijlage=II&z=2020-12-01&g=2020-12-01) genoemde categorie en voldoet aan de in [artikel 2, eerste lid, onder a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&artikel=2&z=2020-12-01&g=2020-12-01), bedoelde eisen.
+Als fop- en schertsvuurwerk wordt aangewezen vuurwerk dat behoort tot een in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&bijlage=II&z=2024-01-01&g=2024-01-01) genoemde categorie en voldoet aan de in [artikel 2, eerste lid, onder a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&artikel=2&z=2024-01-01&g=2024-01-01), bedoelde eisen.
 
 ##### Artikel 4
 
-1. Als theatervuurwerk wordt aangewezen vuurwerk dat behoort tot een in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&bijlage=III&z=2020-12-01&g=2020-12-01) genoemde categorie en voldoet aan de volgende eisen:
-
-- a. het vuurwerk is bestemd om het in de bijlage bij de betrokken categorie aangegeven effect te bewerkstelligen;
-
-- b. de in het vuurwerk aanwezige pyrotechnische stoffen of preparaten overschrijden niet het ingevolge de betrokken bijlage voor de betrokken categorie vuurwerk maximaal toegestane gewicht;
-
-- c. het vuurwerk voldoet aan de overige in de bijlage gestelde eisen.
-
-2. Theatervuurwerk bevat geen brandbare vloeistoffen.
-
-3. Theatervuurwerk bevat geen detonabele stoffen of voorwerpen.
+Vervallen
 
 ##### Artikel 5
 
@@ -132,13 +118,13 @@ De [Regeling nadere eisen aan vuurwerk 2004](https://wetten.overheid.nl/jci1.3:c
 
 ##### Artikel 6
 
-Deze regeling wordt aangehaald als: Regeling aanwijzing consumenten- en theatervuurwerk.
+Deze regeling wordt aangehaald als: Regeling aanwijzing consumentenvuurwerk.
 
 ##### Artikel 7
 
 Deze regeling treedt in werking met ingang van de dag na uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-## Bijlage I. Consumentenvuurwerk, met uitzondering van fop- en schertsvuurwerk ([artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&artikel=2&z=2020-12-01&g=2020-12-01))
+## Bijlage I. Consumentenvuurwerk, met uitzondering van fop- en schertsvuurwerk ([artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&artikel=2&z=2024-01-01&g=2024-01-01))
 
 | Nederlandse naam | Engelse naam | effect | categorie | maximaal toegestane gewicht aan pyrotechnische stoffen of preparaten |
 | --- | --- | --- | --- | --- |
@@ -166,7 +152,7 @@ Deze regeling treedt in werking met ingang van de dag na uitgifte van de Staatsc
 |   |   |   |   |   |
 | Draaizonnen | wheels | draaiende beweging rond een vast punt, met uitstoot van vonken of vlammen met geluidseffect anders dan een knal of zonder geluidseffect | F2 | 40 gram pyrotechnische stoffen of preparaten; het gewicht aan pyrotechnische stoffen van een eventuele effectlading met fluiteffect per compartiment niet meer dan 5 gram; knallading is niet toegestaan |
 
-## Bijlage II. fop- en schertsvuurwerk ([artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&artikel=3&z=2020-12-01&g=2020-12-01))
+## Bijlage II. fop- en schertsvuurwerk ([artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&artikel=3&z=2024-01-01&g=2024-01-01))
 
 | Nederlandse naam | Engelse naam | beoogde effect | categorie | maximaal toegestane gewicht aan pyrotechnische stoffen of preparaten |
 | --- | --- | --- | --- | --- |
@@ -204,43 +190,8 @@ Deze regeling treedt in werking met ingang van de dag na uitgifte van de Staatsc
 |   |   |   |   |   |
 | Knalerwten | throwdowns | knal als gevolg van het op de grond gooien van het artikel | F1 | 2,5 milligram zilverfulminaat |
 
-## Bijlage III. Theatervuurwerk ([artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&artikel=4&z=2020-12-01&g=2020-12-01))
+## Bijlage III. Theatervuurwerk ([artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&artikel=4&z=2024-01-01&g=2024-01-01))
 
-| Nederlandse naam | Engelse naam | Beoogd effect | Maximaal toegestane gewicht aan pyrotechnische stoffen en preparaten |
-| --- | --- | --- | --- |
-| AA. Binair mengsel | – | een heterogeen mengsel van minimaal twee vaste pyrotechnische stoffen of preparaten in poedervorm, welke volgens veiligheidsinstructies van importeur of leverancier op locatie kan worden aangemaakt voor direct gebruik. | AA.1. Theatervuurwerk: 100 gram pyrotechnische stoffen en preparaten AA.2. Indoortheatervuurwerk: 28 gram pyrotechnische stoffen en preparaten |
-|   |   |   |   |
-| BB. Draadraket of lijnraket | – | een voorwerp dat door pyrotechnische stoffen of preparaten wordt voortgestuwd en dat zodanig aan een geleidedraad bevestigd is, dat voorkomen wordt dat het voorwerp tijdens het functioneren van de draad kan loskomen. Tijdens functioneren kan de draadraket een gespecificeerd geluid, vuur, licht, vonk of combinatie van deze effecten veroorzaken. | BB.1. Theatervuurwerk: 100 gram pyrotechnische stoffen en preparaten BB.2. Indoortheatervuurwerk: 20 gram pyrotechnische stoffen en preparaten |
-| CC. Fakkel | flare | een voorwerp met pyrotechnische stoffen of preparaten met een vlam- of vuureffect, dat gedurende een bepaalde tijdsduur kan aanhouden. | CC.1. Theatervuurwerk: 500 gram pyrotechnische stoffen en preparaten CC.2. Indoortheatervuurwerk: 100 gram pyrotechnische stoffen en preparaten |
-|   |   |   |   |
-| DD. Stroboscoop fakkel | strobe flare, flash flare | pyrotechnisch stoffen of preparaten met een vlam- of vuureffect, dat gedurende een bepaalde tijdsduur kan aanhouden en waarbij een pulserend of stroboscopisch vlam- of vuureffect wordt gevormd. | DD.1. Theatervuurwerk: 500 gram pyrotechnische stoffen en preparaten DD.2. Indoortheatervuurwerk: 100 gram pyrotechnische stoffen en preparaten |
-|   |   |   |   |
-| EE. Fontein: | – | een voorwerp met pyrotechnische stoffen of preparaten van waaruit een langdurende of kortdurende stroom van vonken wordt uitgeworpen. | EE.1. Theatervuurwerk: 250 gram pyrotechnische stoffen en preparaten EE.2. Indoortheatervuurwerk: 200 gram pyrotechnische stoffen en preparaten |
-|   |   |   |   |
-| FF. Komeet | – | een voorwerp met pyrotechnische stoffen of preparaten die een eenmalige uitstoot van een of meerdere geperste sterren veroorzaken, die tot aan het hoogst bereikbare punt een spoor van vonken of lichtsporen achterlaten met een geringe spreiding. | FF.1. Theatervuurwerk: 100 gram pyrotechnische stoffen en preparaten FF.2. Indoortheatervuurwerk: 50 gram pyrotechnische stoffen en preparaten |
-|   |   |   |   |
-| GG. Mijn | – | een voorwerp waarvan de pyrotechnische stoffen of preparaten een eenmalige uitstoot van losse sterren of andere voorwerpen veroorzaken zoals serpentines of confetti. | GG.1. Theatervuurwerk: 500 gram pyrotechnische stoffen en preparaten GG.2. Indoortheatervuurwerk: 135 gram pyrotechnische stoffen en preparaten |
-|   |   |   |   |
-| HH. Confetti of serpentine effecten: | – | een uitworp van confetti of serpentines op basis van pyrotechnische stoffen of preparaten waarbij het uitgeworpen materiaal geen vuur vat. | HH.1. Theatervuurwerk: 100 gram pyrotechnische stoffen en preparaten HH.2. Indoortheatervuurwerk: 10 gram pyrotechnische stoffen en preparaten |
-|   |   |   |   |
-| II. Vlamprojector | flame projector | een voorwerp met een lading rookzwak kruit dat een kortstondig vuureffect veroorzaakt in de vorm van een vuurbal of vuurzuil. Het effect mag niet gebaseerd zijn op een brandbare vloeistof. | II.1. Theatervuurwerk: 500 gram pyrotechnische stoffen en preparaten II.2. Indoortheatervuurwerk: 250 gram pyrotechnische stoffen en preparaten |
-|   |   |   |   |
-| JJ. Vuurbal | Fireball; Mortar Hit | pyrotechnische stoffen of preparaten die zorgen voor een kortstondige eventueel gekleurde vuurbal met vuur- of vlameffect van vonken of sterren, al dan niet met knal of rookwolk, die door middel van een eenmalige uitstoot van een brandbare effectlading ontstaat en enige seconden kan aanhouden. | JJ.1. Theatervuurwerk: 500 gram pyrotechnische stoffen en preparaten JJ.2. Indoortheatervuurwerk: 100 gram pyrotechnische stoffen en preparaten |
-|   |   |   |   |
-| KK. Waterval | – | een voorwerp met pyrotechnische stoffen of preparaten die een effect hebben van vonken dat bedoeld is om over enige breedte en vanaf enige meters hoogte het effect te veroorzaken. | KK.1. Theatervuurwerk: 500 gram pyrotechnische stoffen en preparaten KK.2. Indoortheatervuurwerk:100 gram pyrotechnische stoffen en preparaten |
-|   |   |   |   |
-| LL. Theaterknal | maroon, cannon simulator, concussion | pyrotechnische stoffen of voorwerpen bedoeld om een knal te bewerkstelligen. | LL.1. Theatervuurwerk: 28 gram pyrotechnische stoffen en preparaten LL.2. Indoortheatervuurwerk: 28 gram pyrotechnische stoffen en preparaten |
-|   |   |   |   |
-| MM. Batterijen en combinaties | Multi Shot Boards, Tracer Boards, Mine Plates, Comet Plates, Fanracks | voorwerpen bestaande uit pyrotechnische stoffen of preparaten van combinaties van CC, DD, EE, FF, GG, JJ en OO waarbij de effectladingen gelijktijdig of achtereenvolgens, middels een vertragingslont, tot ontbranding worden gebracht en waarbij ieder type voldoet aan de individuele eisen die in deze bijlage aan de genoemde onderdelen zijn gesteld. | MM.1. Theatervuurwerk: 200 gram pyrotechnische stoffen en preparaten MM.2. Theatervuurwerk – onder de voorwaarde dat de kokers met effect of tubes deugdelijk zijn geborgd op een basis van hout of kunststof en zich op een onderlinge afstand van minimaal 12,7 millimeter van elkaar bevinden: tot een gezamenlijk gewicht van ten hoogste 500 gram pyrotechnische stoffen en preparaten MM.3. Indoortheatervuurwerk: 200 gram pyrotechnische stoffen en preparaten |
-|   |   |   |   |
-| NN. Draaizon | Wheel, Saxon, Merry go Round | een voorwerp met pyrotechnische stoffen of preparaten bestaande uit een of meerdere aan elkaar bevestigde fonteinen of branders die op een zodanige wijze gemonteerd worden dat het voorwerp bij ontbranding een roterende beweging maakt. Het vonk- of vuureffect wordt bij rotatie van het voorwerp spiraalsgewijs uitgeworpen. | NN.1. Theatervuurwerk: 200 gram pyrotechnische stoffen en preparaten NN.2. Indoortheatervuurwerk: 100 gram pyrotechnische stoffen en preparaten |
-|   |   |   |   |
-| OO. Flitspot | Flashpot, Flashpots, Sparkle Pots, Flash Trays of SPD's | een voorwerp met pyrotechnische stoffen of preparaten dat door de fabrikant of importeur voor direct gebruik aangeboden wordt en dat bij ontbranding een lichtflits veroorzaakt al dan niet vergezeld van een rook-, vonk-, ster- of knaleffect van korte duur. | OO.1. Theatervuurwerk: 28 gram pyrotechnische stoffen en preparaten OO.2. Indoortheatervuurwerk: 28 gram pyrotechnische stoffen en preparaten |
-|   |   |   |   |
-| PP. Theatervuur | – | pyrotechnische stoffen of preparaten die in daartoe geschikte houders (open vlamschalen) tot ontbranding wordt gebracht ter verkrijging van een gekleurd licht- of vlameffect van enige duur. | PP.1. Theatervuurwerk: 1000 gram pyrotechnische stoffen en preparaten per houder PP.2. Indoortheatervuurwerk: 500 gram pyrotechnische stoffen en preparaten per houder |
-|   |   |   |   |
-| QQ. Airburst | RTG's, Coloured Airbursts | pyrotechnische stoffen of preparaten die door een fabrikant of importeur voor direct gebruik wordt aangeboden en dat middels de ontstekerdraad op de door de fabrikant aangegeven hoogte aangebracht dient te worden. Bij ontbranding veroorzaakt het product een vonk-, licht- of stereffect al dan niet vergezelt van een knaleffect. De uitstoot kan ook bestaan uit confetti of serpentines. | QQ.1. Theatervuurwerk:75 gram pyrotechnische stoffen en preparaten QQ.2. Indoortheatervuurwerk: 35 gram pyrotechnische stoffen en preparaten |
-|   |   |   |   |
-| RR. Bombette | – | pyrotechnische stoffen of preparaten die tot gevolg hebben een eenmalige uitstoot van een effectlading en burst vervat in een separaat compartiment, dat na de initiële uitstoot vertraagd tot ontsteking wordt gebracht en waarbij het compartiment door de reactie uiteen wordt gereten. | RR.1. Theatervuurwerk: 150 gram pyrotechnische stoffen en preparaten Mag niet als indoortheatervuurwerk worden gebruikt |
+Vervallen
 
 De regeling zal met de toelichting in de Staatscourant worden geplaatst.
