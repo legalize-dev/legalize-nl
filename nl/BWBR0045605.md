@@ -4,7 +4,7 @@ identifier: "BWBR0045605"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2023-06-15"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045605"
 soort: "ministeriele-regeling"
@@ -74,53 +74,53 @@ In deze regeling wordt verstaan onder:
 
 - **wet:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
-##### Artikel 2. Bedragen bekostiging vo-scholen Europees Nederland kalenderjaar 2023
+##### Artikel 2. Bedragen bekostiging vo-scholen Europees Nederland kalenderjaar 2024
 
-1. De bedragen per vestiging, bedoeld in [artikel 5.4, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.4), worden voor het kalenderjaar 2023 vastgesteld op:
-
-- a. € 248.155,03 voor de hoofdvestiging;
-
-- b. € 124.077,51 voor een nevenvestiging.
-
-2. De bedragen per leerling, bedoeld in [artikel 5.4, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.4), worden voor het kalenderjaar 2023 vastgesteld op:
-
-- a. € 8.550,59 per leerling in het vwo, havo, mavo of vbo, met uitzondering van leerlingen in het derde of vierde leerjaar van de basisberoepsgerichte en kaderberoepsgerichte leerweg van het vbo;
-
-- b. € 10.059,53 per leerling in het pro of in het derde of vierde leerjaar van de basisberoepsgerichte of kaderberoepsgerichte leerweg van het vbo.
-
-##### Artikel 3. Aanvullende bekostiging lwoo en pro en regionale ondersteuning kalenderjaar 2023
-
-1. De aanvullende bekostiging voor lwoo en pro, bedoeld in [artikel 5.5, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.5), wordt voor het kalenderjaar 2023 vastgesteld op € 5.275,67 per leerling voor personeelskosten en € 210,90 per leerling voor exploitatiekosten.
-
-2. De aanvullende bekostiging voor lwoo en pro, bedoeld in [artikel 5.13, eerste, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.13), alsmede het op de bekostiging van het samenwerkingsverband in mindering te brengen bedrag, bedoeld in artikel 5.13, zesde en zevende lid, van de wet, wordt voor het kalenderjaar 2023 vastgesteld op € 5.486,57 per leerling.
-
-3. De aanvullende bekostiging voor regionale ondersteuning, bedoeld in [artikel 5.13, eerste en vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.13), wordt voor het kalenderjaar 2023 vastgesteld op € 115,63 per leerling.
-
-##### Artikel 4. Bedragen bekostiging vo-scholen Europees Nederland kalenderjaar 2024
-
-1. De bedragen per vestiging, bedoeld in [artikel 5.4, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.4), worden per 1 januari 2024 vastgesteld op:
+1. De bedragen per vestiging, bedoeld in [artikel 5.4, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.4), worden voor het kalenderjaar 2024 vastgesteld op:
 
 - a. € 248.155,03 voor de hoofdvestiging;
 
 - b. € 124.077,51 voor een nevenvestiging.
 
-2. De bedragen per leerling, bedoeld in [artikel 5.4, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.4), worden per 1 januari 2024 vastgesteld op:
+2. De bedragen per leerling, bedoeld in [artikel 5.4, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.4), worden voor het kalenderjaar 2024 vastgesteld op:
 
 - a. € 8.550,59 per leerling in het vwo, havo, mavo of vbo, met uitzondering van leerlingen in het derde of vierde leerjaar van de basisberoepsgerichte en kaderberoepsgerichte leerweg van het vbo;
 
 - b. € 10.059,53 per leerling in het pro of in het derde of vierde leerjaar van de basisberoepsgerichte of kaderberoepsgerichte leerweg van het vbo.
 
-##### Artikel 5. Aanvullende bekostiging lwoo en pro en regionale ondersteuning kalenderjaar 2024
+##### Artikel 3. Aanvullende bekostiging lwoo en pro en regionale ondersteuning kalenderjaar 2024
 
-1. De aanvullende bekostiging voor lwoo en pro, bedoeld in [artikel 5.5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.5), wordt voor het kalenderjaar 2024 vastgesteld op € 5.486,57 per leerling.
+1. De aanvullende bekostiging voor lwoo en pro, bedoeld in [artikel 5.5, eerste en tweede lid, van de wet](onbekend), wordt voor het kalenderjaar 2024 vastgesteld op € 5.486,57 per leerling.
 
-2. De aanvullende bekostiging voor lwoo en pro, bedoeld in [artikel 5.13, eerste, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.13), alsmede het op de bekostiging van het samenwerkingsverband in mindering te brengen bedrag, bedoeld in artikel 5.13, zesde en zevende lid, van de wet, wordt per 1 januari 2024 vastgesteld op € 5.486,57 per leerling.
+2. De aanvullende bekostiging voor lwoo en pro, bedoeld in [artikel 5.13, eerste, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.13), alsmede het op de bekostiging van het samenwerkingsverband in mindering te brengen bedrag, bedoeld in artikel 5.13, zesde en zevende lid, van de wet, wordt voor het kalenderjaar 2024 vastgesteld op € 5.486,57 per leerling.
 
-3. De aanvullende bekostiging voor regionale ondersteuning, bedoeld in [artikel 5.13, eerste en vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.13), wordt per 1 januari 2024 vastgesteld op € 115,63 per leerling.
+3. De aanvullende bekostiging voor regionale ondersteuning, bedoeld in [artikel 5.13, eerste en vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.13), wordt voor het kalenderjaar 2024 vastgesteld op € 115,63 per leerling.
+
+##### Artikel 4. Bedragen bekostiging vo-scholen Europees Nederland kalenderjaar 2025
+
+1. De bedragen per vestiging, bedoeld in [artikel 5.4, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.4), worden per 1 januari 2025 vastgesteld op:
+
+- a. € 248.155,03 voor de hoofdvestiging;
+
+- b. € 124.077,51 voor een nevenvestiging.
+
+2. De bedragen per leerling, bedoeld in [artikel 5.4, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.4), worden per 1 januari 2025 vastgesteld op:
+
+- a. € 8.550,59 per leerling in het vwo, havo, mavo of vbo, met uitzondering van leerlingen in het derde of vierde leerjaar van de basisberoepsgerichte en kaderberoepsgerichte leerweg van het vbo;
+
+- b. € 10.059,53 per leerling in het pro of in het derde of vierde leerjaar van de basisberoepsgerichte of kaderberoepsgerichte leerweg van het vbo.
+
+##### Artikel 5. Aanvullende bekostiging lwoo en pro en regionale ondersteuning kalenderjaar 2025
+
+1. De aanvullende bekostiging voor lwoo en pro, bedoeld in [artikel 5.5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.5), wordt voor het kalenderjaar 2025 vastgesteld op € 5.486,57 per leerling.
+
+2. De aanvullende bekostiging voor lwoo en pro, bedoeld in [artikel 5.13, eerste, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.13), alsmede het op de bekostiging van het samenwerkingsverband in mindering te brengen bedrag, bedoeld in artikel 5.13, zesde en zevende lid, van de wet, wordt per 1 januari 2025 vastgesteld op € 5.486,57 per leerling.
+
+3. De aanvullende bekostiging voor regionale ondersteuning, bedoeld in [artikel 5.13, eerste en vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.13), wordt per 1 januari 2025 vastgesteld op € 115,63 per leerling.
 
 ##### Artikel 6. Betaalritme bekostiging vo-scholen Europees Nederland
 
-De minister stelt de bekostiging, bedoeld in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045605&paragraaf=1&artikel=2&z=2023-06-15&g=2023-06-15), in december voorafgaande aan het jaar waarop de bekostiging betrekking heeft vast. De bekostiging wordt betaald in maandelijkse termijnen van gelijke omvang. De eerste termijn wordt betaald in januari van het jaar waarop de bekostiging betrekking heeft.
+De minister stelt de bekostiging, bedoeld in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045605&paragraaf=1&artikel=2&z=2024-01-01&g=2024-01-01), in december voorafgaande aan het jaar waarop de bekostiging betrekking heeft vast. De bekostiging wordt betaald in maandelijkse termijnen van gelijke omvang. De eerste termijn wordt betaald in januari van het jaar waarop de bekostiging betrekking heeft.
 
 #### § 2. Bekostiging vo-scholen Caribisch Nederland
 
@@ -142,57 +142,9 @@ In deze paragraaf wordt verstaan onder:
 
 - **lower forms:** de eerste drie leerjaren van het voortgezet onderwijs aan scholen op Sint Eustatius en Saba, dat wordt ingevuld met CCSLC, eventueel aangevuld met vakken van CSEC en CVQ.
 
-##### Artikel 8. Bedragen bekostiging vo-scholen Caribisch Nederland kalenderjaar 2023
+##### Artikel 8. Bedragen bekostiging vo-scholen Caribisch Nederland kalenderjaar 2024
 
-1. Het bedrag per school, bedoeld in [artikel 11.56, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.56), wordt voor het kalenderjaar 2023 vastgesteld op:
-
-- a. USD 235.793,60 bij een leerlingen- en studentenaantal van 600 of minder;
-
-- b. USD 471.587,20 bij een leerlingen- en studentenaantal van 601 tot en met 1.200;
-
-- c. USD 707.380,80 bij een leerlingen- en studentenaantal van 1.201 en meer.
-
-2. De bedragen per leerling, bedoeld in [artikel 11.56, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.56), worden voor het kalenderjaar 2023 vastgesteld op:
-
-- a. een bedrag van USD 8.020,72:
-
-- 1°. wat betreft een school op Bonaire: voor leerlingen in het vwo, havo, mavo of vbo, met uitzondering van leerlingen in het derde of vierde leerjaar van de basisberoepsgerichte en kaderberoepsgerichte leerweg van het vbo, ISK-leerlingen en leerlingen met een specifieke onderwijsbehoefte; en
-
-- 2°. wat betreft een school als bedoeld in [artikel 1 van het Besluit Saba Comprehensive School en Gwendoline van Puttenschool BES](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&artikel=1): voor leerlingen in de lower forms of leerlingen die CSEC en CAPE volgen;
-
-- b. een bedrag van USD 9.436,38:
-
-- 1°. wat betreft een school op Bonaire: voor leerlingen in het praktijkonderwijs of in het derde of vierde leerjaar van de basisberoepsgerichte of kaderberoepsgerichte leerweg van het vbo, alsmede ISK-leerlingen en leerlingen met een specifieke onderwijsbehoefte; en
-
-- 2°. wat betreft een school als bedoeld in [artikel 1 van het Besluit Saba Comprehensive School en Gwendoline van Puttenschool BES](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&artikel=1): voor leerlingen in het praktijkonderwijs of leerlingen die CVQ volgen.
-
-3. De bedragen per student, bedoeld in [artikel 2.2.1, eerste lid, van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=2.2.1), worden voor het kalenderjaar 2023 vastgesteld op:
-
-- a. USD 9.436,38 voor studenten in de beroepsopleidende leerweg; en
-
-- b. USD 5.661,83 voor studenten in de beroepsbegeleidende leerweg.
-
-4. De procentuele opslag, bedoeld in [artikel 9.25, eerste lid, onderdeel c, en tweede lid, onderdeel c, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=9.25), wordt voor het kalenderjaar 2023 vastgesteld op 40 procent.
-
-5. De procentuele opslag, bedoeld in [artikel 9.25, tweede lid, onderdeel d, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=9.25), wordt voor het kalenderjaar 2023 vastgesteld op 36 procent.
-
-6. Het bedrag per school, bedoeld in [artikel 9.25, tweede lid, onderdeel e, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=9.25), wordt voor het kalenderjaar 2023 vastgesteld op:
-
-- a. USD 0 bij een leerlingenaantal van 301 of meer;
-
-- b. USD 173.859,89 bij een leerlingenaantal van 201 tot en met 300;
-
-- c. USD 405.673,07 bij een leerlingenaantal van 151 tot en met 200;
-
-- d. USD 637.486,26 bij een leerlingenaantal van 101 tot en met 150;
-
-- e. USD 869.299,44 bij een leerlingenaantal van 51 tot en met 100;
-
-- f. USD 1.101.112,63 bij een leerlingenaantal van 50 of minder.
-
-##### Artikel 9. Bedragen bekostiging vo-scholen Caribisch Nederland kalenderjaar 2024
-
-1. Het bedrag per school, bedoeld in [11.56, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.56), wordt per 1 januari 2024 vastgesteld op:
+1. Het bedrag per school, bedoeld in [artikel 11.56, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.56), wordt voor het kalenderjaar 2024 vastgesteld op:
 
 - a. USD 237.209,29 bij een leerlingen- en studentenaantal van 600 of minder;
 
@@ -200,7 +152,7 @@ In deze paragraaf wordt verstaan onder:
 
 - c. USD 711.627,87 bij een leerlingen- en studentenaantal van 1.201 en meer.
 
-2. De bedragen per leerling, bedoeld in [artikel 11.56, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.56), worden per 1 januari 2024 vastgesteld op:
+2. De bedragen per leerling, bedoeld in [artikel 11.56, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.56), worden voor het kalenderjaar 2024 vastgesteld op:
 
 - a. een bedrag van USD 8.068,88:
 
@@ -214,17 +166,65 @@ In deze paragraaf wordt verstaan onder:
 
 - 2°. wat betreft een school als bedoeld in [artikel 1 van het Besluit Saba Comprehensive School en Gwendoline van Puttenschool BES](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&artikel=1): voor leerlingen in het praktijkonderwijs of leerlingen die CVQ volgen.
 
-3. De bedragen per student, bedoeld in [artikel 2.2.1, tweede lid, onderdeel b, van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=2.2.1), worden per 1 januari 2024 vastgesteld op:
+3. De bedragen per student, bedoeld in [artikel 2.2.1, eerste lid, van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=2.2.1), worden voor het kalenderjaar 2024 vastgesteld op:
 
 - a. USD 9.493,03 voor studenten in de beroepsopleidende leerweg; en
 
 - b. USD 5.695,82 voor studenten in de beroepsbegeleidende leerweg.
 
-4. De minister stelt de procentuele opslag, bedoeld in [artikel 9.25, eerste lid, onderdeel c, en tweede lid, onderdeel c, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=9.25), per 1 januari 2024 vast op 40 procent.
+4. De procentuele opslag, bedoeld in [artikel 9.25, eerste lid, onderdeel c, en tweede lid, onderdeel c, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=9.25), wordt voor het kalenderjaar 2024 vastgesteld op 40 procent.
 
-5. De procentuele opslag, bedoeld in [artikel 9.25, tweede lid, onderdeel d, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=9.25), wordt per 1 januari 2024 vastgesteld op 36 procent.
+5. De procentuele opslag, bedoeld in [artikel 9.25, tweede lid, onderdeel d, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=9.25), wordt voor het kalenderjaar 2024 vastgesteld op 36 procent.
 
-6. Het bedrag per school, bedoeld in [artikel 9.25, tweede lid, onderdeel e, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=9.25), wordt per 1 januari 2024 vastgesteld op:
+6. Het bedrag per school, bedoeld in [artikel 9.25, tweede lid, onderdeel e, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=9.25), wordt voor het kalenderjaar 2024 vastgesteld op:
+
+- a. USD 0 bij een leerlingenaantal van 301 of meer;
+
+- b. USD 174.903,73 bij een leerlingenaantal van 201 tot en met 300;
+
+- c. USD 408.108,70 bij een leerlingenaantal van 151 tot en met 200;
+
+- d. USD 641.313,69 bij een leerlingenaantal van 101 tot en met 150;
+
+- e. USD 874.518,66 bij een leerlingenaantal van 51 tot en met 100;
+
+- f. USD 1.107.723,65 bij een leerlingenaantal van 50 of minder.
+
+##### Artikel 9. Bedragen bekostiging vo-scholen Caribisch Nederland kalenderjaar 2025
+
+1. Het bedrag per school, bedoeld in [11.56, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.56), wordt per 1 januari 2025 vastgesteld op:
+
+- a. USD 237.209,29 bij een leerlingen- en studentenaantal van 600 of minder;
+
+- b. USD 474.418,58 bij een leerlingen- en studentenaantal van 601 tot en met 1.200;
+
+- c. USD 711.627,87 bij een leerlingen- en studentenaantal van 1.201 en meer.
+
+2. De bedragen per leerling, bedoeld in [artikel 11.56, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.56), worden per 1 januari 2025 vastgesteld op:
+
+- a. een bedrag van USD 8.068,88:
+
+- 1°. wat betreft een school op Bonaire: voor leerlingen in het vwo, havo, mavo of vbo, met uitzondering van leerlingen in het derde of vierde leerjaar van de basisberoepsgerichte en kaderberoepsgerichte leerweg van het vbo, ISK-leerlingen en leerlingen met een specifieke onderwijsbehoefte; en
+
+- 2°. wat betreft een school als bedoeld in [artikel 1 van het Besluit Saba Comprehensive School en Gwendoline van Puttenschool BES](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&artikel=1): voor leerlingen in de lower forms of leerlingen die CSEC en CAPE volgen;
+
+- b. een bedrag van USD 9.493,03:
+
+- 1°. wat betreft een school op Bonaire: voor leerlingen in het praktijkonderwijs of in het derde of vierde leerjaar van de basisberoepsgerichte of kaderberoepsgerichte leerweg van het vbo, alsmede ISK-leerlingen en leerlingen met een specifieke onderwijsbehoefte; en
+
+- 2°. wat betreft een school als bedoeld in [artikel 1 van het Besluit Saba Comprehensive School en Gwendoline van Puttenschool BES](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&artikel=1): voor leerlingen in het praktijkonderwijs of leerlingen die CVQ volgen.
+
+3. De bedragen per student, bedoeld in [artikel 2.2.1, tweede lid, onderdeel b, van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=2.2.1), worden per 1 januari 2025 vastgesteld op:
+
+- a. USD 9.493,03 voor studenten in de beroepsopleidende leerweg; en
+
+- b. USD 5.695,82 voor studenten in de beroepsbegeleidende leerweg.
+
+4. De minister stelt de procentuele opslag, bedoeld in [artikel 9.25, eerste lid, onderdeel c, en tweede lid, onderdeel c, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=9.25), per 1 januari 2025 vast op 40 procent.
+
+5. De procentuele opslag, bedoeld in [artikel 9.25, tweede lid, onderdeel d, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=9.25), wordt per 1 januari 2025 vastgesteld op 36 procent.
+
+6. Het bedrag per school, bedoeld in [artikel 9.25, tweede lid, onderdeel e, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=9.25), wordt per 1 januari 2025 vastgesteld op:
 
 - a. USD 0 bij een leerlingenaantal van 301 of meer;
 
@@ -240,7 +240,7 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 10. Betaalritme bekostiging vo-scholen Caribisch Nederland
 
-De minister stelt de bekostiging, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045605&paragraaf=2&artikel=8&z=2023-06-15&g=2023-06-15) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0045605&paragraaf=2&artikel=9&z=2023-06-15&g=2023-06-15), in december voorafgaande aan het jaar waarop de bekostiging betrekking heeft vast. De bekostiging wordt betaald vanaf januari van het jaar waarop de bekostiging betrekking heeft conform de percentages in tabel 1.
+De minister stelt de bekostiging, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045605&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0045605&paragraaf=2&artikel=9&z=2024-01-01&g=2024-01-01), in december voorafgaande aan het jaar waarop de bekostiging betrekking heeft vast. De bekostiging wordt betaald vanaf januari van het jaar waarop de bekostiging betrekking heeft conform de percentages in tabel 1.
 
 | januari | 9,72% | juli | 7,62% |
 | --- | --- | --- | --- |
