@@ -4,7 +4,7 @@ identifier: "BWBR0038193"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-02-12"
-last_updated: "2023-07-19"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038193"
 soort: "ministeriele-regeling"
@@ -74,7 +74,7 @@ In deze regeling wordt verstaan onder:
 
 1. Het bevoegd gezag meldt het voornemen tot ontwikkeling van een nieuw beroepsgericht keuzevak aan de Dienst Uitvoering Onderwijs, Postbus 30205, 2500 GE, Den Haag.
 
-2. Het formulier voor de melding, bedoeld in [artikel 2.30, vijfde lid, Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.30), wordt vastgesteld overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&bijlage=1&z=2023-07-19&g=2023-07-19).
+2. Het formulier voor de melding, bedoeld in [artikel 2.30, vijfde lid, Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.30), wordt vastgesteld overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&bijlage=1&z=2024-01-01&g=2024-01-01).
 
 3. Een volledige melding bestaat uit een volledig ingevuld formulier als bedoeld in het tweede lid, en een schriftelijke verklaring van kennisgeving van het voornemen aan de medezeggenschapsraad van de school.
 
@@ -84,7 +84,7 @@ In deze regeling wordt verstaan onder:
 
 1. Het bevoegd gezag dient een aanvraag tot goedkeuring van een nieuw ontwikkeld beroepsgericht keuzevak, als bedoeld in [artikel 2.31 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.31), voor 1 oktober van enig jaar in bij de Dienst Uitvoering Onderwijs, Postbus 30205, 2500 GE te Den Haag.
 
-2. Het formulier voor de aanvraag, bedoeld in [artikel 2.31 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.31), wordt vastgesteld overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&bijlage=2&z=2023-07-19&g=2023-07-19).
+2. Het formulier voor de aanvraag, bedoeld in [artikel 2.31 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.31), wordt vastgesteld overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&bijlage=2&z=2024-01-01&g=2024-01-01).
 
 3. Een volledige aanvraag bestaat uit:
 
@@ -116,7 +116,7 @@ Een nieuw beroepsgericht keuzevak voldoet in ieder geval aan de volgende voorwaa
 
 ##### Artikel 6. vaststelling examenprogramma’s beroepsgerichte keuzevakken
 
-De examenprogramma’s van de beroepsgerichte keuzevakken worden vastgesteld zoals aangegeven in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&bijlage=3&z=2023-07-19&g=2023-07-19).
+De examenprogramma’s van de beroepsgerichte keuzevakken worden vastgesteld zoals aangegeven in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&bijlage=3&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 7. Inwerkingtreding
 
@@ -660,9 +660,9 @@ Deze regeling is gebaseerd op de [artikelen 2.29, eerste lid](https://wetten.ove
 
 ##### Artikel 6a*. Overgangsrecht
 
-Op de centraal schriftelijke en praktische examens die in het schooljaar 2022–2023 worden afgenomen zijn de onderdelen 1.24 tot en met 1.26, 2.22 tot en met 2.26, 4.17, 5.20, 7.13, 7.14, 9.18. 9.19, 10.12 tot en met 10.14 van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&bijlage=3&z=2023-07-19&g=2023-07-19) behorende bij artikel 6, zoals deze luidden op 1 juli 2021, van toepassing.
+Op de centraal schriftelijke en praktische examens die in het schooljaar 2022–2023 worden afgenomen zijn de onderdelen 1.24 tot en met 1.26, 2.22 tot en met 2.26, 4.17, 5.20, 7.13, 7.14, 9.18. 9.19, 10.12 tot en met 10.14 van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&bijlage=3&z=2024-01-01&g=2024-01-01) behorende bij artikel 6, zoals deze luidden op 1 juli 2021, van toepassing.
 
-## Bijlage 1. behorende bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&artikel=3&z=2023-07-19&g=2023-07-19), van de Regeling beroepsgerichte keuzevakken vmbo
+## Bijlage 1. behorende bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&artikel=3&z=2024-01-01&g=2024-01-01), van de Regeling beroepsgerichte keuzevakken vmbo
 
 ### Formulier melding voornemen tot ontwikkeling van een nieuw beroepsgericht keuzevak
 
@@ -730,13 +730,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Toelichting bij het meldformulier beroepsgerichte keuzevak
 
-## Bijlage 2. behorende bij [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&artikel=4&z=2023-07-19&g=2023-07-19), van de Regeling beroepsgerichte keuzevakken vmbo
+## Bijlage 2. behorende bij [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&artikel=4&z=2024-01-01&g=2024-01-01), van de Regeling beroepsgerichte keuzevakken vmbo
 
 ### Formulier aanvraag van een nieuw beroepsgericht keuzevak
 
 Contactpersoon (naam, functie, adres, telefoon, e-mail):
 
-## Bijlage 3. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&artikel=6&z=2023-07-19&g=2023-07-19) van de Regeling beroepsgerichte keuzevakken vmbo
+## Bijlage 3. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&artikel=6&z=2024-01-01&g=2024-01-01) van de Regeling beroepsgerichte keuzevakken vmbo
 
 ### Examenprogramma’s beroepsgerichte keuzevakken
 
