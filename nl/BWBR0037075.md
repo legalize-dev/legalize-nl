@@ -4,7 +4,7 @@ identifier: "BWBR0037075"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2015-11-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037075"
 soort: "AMvB"
@@ -68,39 +68,39 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2.1
 
-1. Het luchthavengebied is het gebied dat als zodanig is aangewezen op de kaart in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&bijlage=1&z=2015-11-01&g=2015-11-01) bij dit besluit.
+1. Het luchthavengebied is het gebied dat als zodanig is aangewezen op de kaart in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&bijlage=1&z=2024-01-01&g=2024-01-01) bij dit besluit.
 
-2. Het beperkingengebied is het gebied dat als zodanig is aangewezen op de kaart in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&bijlage=2&z=2015-11-01&g=2015-11-01) bij dit besluit.
+2. Het beperkingengebied is het gebied dat als zodanig is aangewezen op de kaart in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&bijlage=2&z=2024-01-01&g=2024-01-01) bij dit besluit.
 
 3. Het beperkingengebied is samengesteld uit:
 
-- a. het gebied behorende bij de in [artikel 4 van het Besluit militaire luchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&artikel=4) genoemde grenswaarde van de geluidsbelasting van 35 Kosteneenheden, dat als zodanig is aangewezen op de kaart in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&bijlage=3&z=2015-11-01&g=2015-11-01) bij dit besluit;
+- a. het gebied behorende bij de in [artikel 4 van het Besluit militaire luchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&artikel=4) genoemde grenswaarde van de geluidsbelasting van 35 Kosteneenheden, dat als zodanig is aangewezen op de kaart in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&bijlage=3&z=2024-01-01&g=2024-01-01) bij dit besluit;
 
-- b. het gebied waarbinnen maximaal toelaatbare hoogten gelden voor objecten in, op of boven de grond zoals dat voortvloeit uit [artikel 3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&hoofdstuk=3&paragraaf=3.2&artikel=3.2.2&z=2015-11-01&g=2015-11-01), dat als zodanig is aangewezen op de kaarten in [bijlagen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&bijlage=4&z=2015-11-01&g=2015-11-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&bijlage=5&z=2015-11-01&g=2015-11-01)bij dit besluit;
+- b. het gebied waarbinnen maximaal toelaatbare hoogten gelden voor objecten in, op of boven de grond zoals dat voortvloeit uit [artikel 3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&hoofdstuk=3&paragraaf=3.2&artikel=3.2.2&z=2024-01-01&g=2024-01-01), dat als zodanig is aangewezen op de kaarten in [bijlagen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&bijlage=4&z=2024-01-01&g=2024-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&bijlage=5&z=2024-01-01&g=2024-01-01)bij dit besluit;
 
-- c. het gebied waarbinnen bepaald grondgebruik of een bestemming binnen de in [artikel 3.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&hoofdstuk=3&paragraaf=3.2&artikel=3.2.3&z=2015-11-01&g=2015-11-01) aangewezen categorieën niet is toegestaan, dat als zodanig is aangewezen op de kaart in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&bijlage=6&z=2015-11-01&g=2015-11-01) bij dit besluit.
+- c. het gebied waarbinnen het verrichten of toelaten van een bepaalde activiteit binnen de in [artikel 3.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&hoofdstuk=3&paragraaf=3.2&artikel=3.2.3&z=2024-01-01&g=2024-01-01) aangewezen categorieën niet is toegestaan, dat als zodanig is aangewezen op de kaart in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&bijlage=6&z=2024-01-01&g=2024-01-01) bij dit besluit.
 
-### Hoofdstuk 3. Bestemming en gebruik van de grond
+### Hoofdstuk 3. Functie en gebruik van de locatie
 
 #### Paragraaf 3.1. Het luchthavengebied
 
 ##### Artikel 3.1.1
 
-De gronden die zijn bestemd en worden gebruikt voor het banenstelsel van de luchthaven, de rolbanen, de vliegtuigopstelplaatsen, de hangars en vliegtuigshelters en de gronden die benodigd zijn voor de uitvoering van de taken en functies die zijn toegekend aan de militaire luchthaven Volkel, zijn als zodanig aangewezen op de kaart in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&bijlage=1&z=2015-11-01&g=2015-11-01) bij dit besluit.
+De locaties die zijn bestemd voor het banenstelsel van de luchthaven, de rolbanen, de vliegtuigopstelplaatsen, de hangars en vliegtuigshelters en de locaties die benodigd zijn voor de uitvoering van de taken en functies die zijn toegekend aan de militaire luchthaven Volkel, zijn als zodanig aangewezen op de kaart in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&bijlage=1&z=2024-01-01&g=2024-01-01) bij dit besluit.
 
 #### Paragraaf 3.2. Het beperkingengebied
 
 ##### Artikel 3.2.1
 
-De [artikelen 5 tot en met 14 van het Besluit militaire luchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&artikel=5) zijn van toepassing ten aanzien van de bestemming en het gebruik van de gronden zoals aangewezen op de kaart in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&bijlage=3&z=2015-11-01&g=2015-11-01) bij dit besluit. Op deze kaart zijn tevens aangewezen de gebieden behorende bij de waarden van de geluidsbelasting hoger dan 40, 45 en 65 Kosteneenheden.
+De [artikelen 5 tot en met 14 van het Besluit militaire luchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&artikel=5) zijn van toepassing ten aanzien van de functie en het gebruik van de locaties zoals aangewezen op de kaart in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&bijlage=3&z=2024-01-01&g=2024-01-01) bij dit besluit. Op deze kaart zijn tevens aangewezen de gebieden behorende bij de waarden van de geluidsbelasting hoger dan 40, 45 en 65 Kosteneenheden.
 
 ##### Artikel 3.2.2
 
-[Artikel 16 van het Besluit militaire luchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&artikel=16) is van toepassing ten aanzien van de maximaal toelaatbare hoogten van objecten in verband met de veiligheid van het luchthavenluchtverkeer, onderscheidenlijk de veiligheid van het landen van luchtvaartuigen met behulp van een instrument landingssysteem, op de gronden zoals aangewezen op de kaarten in [bijlagen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&bijlage=4&z=2015-11-01&g=2015-11-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&bijlage=5&z=2015-11-01&g=2015-11-01) bij dit besluit.
+[Artikel 16 van het Besluit militaire luchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&artikel=16) is van toepassing ten aanzien van de maximaal toelaatbare hoogten van objecten in verband met de veiligheid van het luchthavenluchtverkeer, onderscheidenlijk de veiligheid van het landen van luchtvaartuigen met behulp van een instrument landingssysteem, op de locaties zoals aangewezen op de kaarten in [bijlagen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&bijlage=4&z=2024-01-01&g=2024-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&bijlage=5&z=2024-01-01&g=2024-01-01) bij dit besluit.
 
 ##### Artikel 3.2.3
 
-1. Op de gronden die zijn aangewezen op de kaart in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&bijlage=6&z=2015-11-01&g=2015-11-01) bij dit besluit is een grondgebruik of een bestemming binnen de volgende categorieën niet toegestaan:
+1. Op de locaties die zijn aangewezen op de kaart in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&bijlage=6&z=2024-01-01&g=2024-01-01) bij dit besluit is het verrichten of toelaten van een activiteit binnen de volgende categorieën niet toegestaan:
 
 - a. oppervlaktewateren met een oppervlakte van meer dan 3 hectare;
 
@@ -112,9 +112,9 @@ De [artikelen 5 tot en met 14 van het Besluit militaire luchthavens](https://wet
 
 - e. afvalwaterzuiveringsinstallaties.
 
-2. In afwijking van het eerste lid is dit grondgebruik of deze bestemming toegestaan voor zover dit in overeenstemming is met een verklaring van geen bezwaar als bedoeld in [artikel 10.17, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.17), juncto [artikel 8.9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.9).
+2. In afwijking van het eerste lid is het verrichten of toelaten van een activiteit toegestaan voor zover deze in overeenstemming is met een verklaring van geen bezwaar als bedoeld in [artikel 10.17, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.17), juncto [artikel 8.9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.9).
 
-3. De verklaring van geen bezwaar wordt slechts afgegeven indien aan de hand van een door de aanvrager in te dienen fauna-effectstudie kan worden aangetoond dat een grondgebruik of een bestemming niet leidt tot een toename van het risico op vogelaanvaringen voor het luchtverkeer van en naar de luchthaven.
+3. De verklaring van geen bezwaar wordt slechts afgegeven indien aan de hand van een door de aanvrager in te dienen fauna-effectstudie kan worden aangetoond dat het verrichten of toelaten van een activiteit niet leidt tot een toename van het risico op vogelaanvaringen voor het luchtverkeer van en naar de luchthaven.
 
 4. Aan de verklaring van geen bezwaar kunnen voorwaarden verbonden worden.
 
@@ -124,7 +124,7 @@ De [artikelen 5 tot en met 14 van het Besluit militaire luchthavens](https://wet
 
 ##### Artikel 4.1.1
 
-Voor het militaire luchtverkeer geldt de in [artikel 4 van het Besluit militaire luchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&artikel=4) genoemde grenswaarde van de geluidsbelasting van 35 Kosteneenheden voor militair luchtverkeer, waarvan de geografische ligging is aangewezen op de kaart in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&bijlage=3&z=2015-11-01&g=2015-11-01) bij dit besluit.
+Voor het militaire luchtverkeer geldt de in [artikel 4 van het Besluit militaire luchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&artikel=4) genoemde grenswaarde van de geluidsbelasting van 35 Kosteneenheden voor militair luchtverkeer, waarvan de geografische ligging is aangewezen op de kaart in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&bijlage=3&z=2024-01-01&g=2024-01-01) bij dit besluit.
 
 ##### Artikel 4.1.2
 
@@ -164,9 +164,9 @@ Voor het militaire luchtverkeer geldt de in [artikel 4 van het Besluit militaire
 
 1. De commandant van de militaire luchthaven kan ten behoeve van luchthavenluchtverkeer in het kader van een luchtvaartevenement op de luchthaven toestaan dat voor de duur van dat evenement wordt afgeweken van:
 
-- a. de dagen, genoemd in [artikel 4.1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&hoofdstuk=4&paragraaf=4.1&artikel=4.1.2&z=2015-11-01&g=2015-11-01), en van het eindtijdstip, genoemd in het eerste lid, onderdeel b, van dat artikel;
+- a. de dagen, genoemd in [artikel 4.1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&hoofdstuk=4&paragraaf=4.1&artikel=4.1.2&z=2024-01-01&g=2024-01-01), en van het eindtijdstip, genoemd in het eerste lid, onderdeel b, van dat artikel;
 
-- b. [artikel 4.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&hoofdstuk=4&paragraaf=4.2&artikel=4.2.2&z=2015-11-01&g=2015-11-01), met dien verstande dat geen luchthavenluchtverkeer plaatsvindt vóór de aanvang van de uniforme daglichtperiode.
+- b. [artikel 4.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&hoofdstuk=4&paragraaf=4.2&artikel=4.2.2&z=2024-01-01&g=2024-01-01), met dien verstande dat geen luchthavenluchtverkeer plaatsvindt vóór de aanvang van de uniforme daglichtperiode.
 
 2. Ten behoeve van een evenement als bedoeld in het eerste lid staat de luchthaven binnen de voor het militair luchtverkeer geldende openstellingstijden eveneens open voor burgerluchtverkeer dat onderdeel uitmaakt van het betrokken evenement.
 
@@ -176,11 +176,11 @@ Voor het militaire luchtverkeer geldt de in [artikel 4 van het Besluit militaire
 
 ##### Artikel 5.1
 
-[Artikel 3.2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&hoofdstuk=3&paragraaf=3.2&artikel=3.2.3&z=2015-11-01&g=2015-11-01), is niet van toepassing op een grondgebruik of een bestemming voor zover dit gebruik of die bestemming rechtmatig is op de dag voorafgaande aan de dag van inwerkingtreding van dit besluit.
+[Artikel 3.2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&hoofdstuk=3&paragraaf=3.2&artikel=3.2.3&z=2024-01-01&g=2024-01-01), is niet van toepassing op het verrichten of toelaten van een activiteit voor zover deze activiteit rechtmatig is op de dag voorafgaande aan de dag van inwerkingtreding van dit besluit.
 
 ##### Artikel 5.2
 
-Evaluatie van de milieueffecten van dit luchthavenbesluit als bedoeld in [artikel 7.39 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=7.39) vindt plaats op de wijze, omschreven in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&bijlage=7&z=2015-11-01&g=2015-11-01) behorende bij dit luchthavenbesluit.
+Evaluatie van de milieueffecten van dit luchthavenbesluit als bedoeld in [artikel 11.5 van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=11.5) vindt plaats op de wijze, omschreven in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0037075&bijlage=7&z=2024-01-01&g=2024-01-01) behorende bij dit luchthavenbesluit.
 
 ##### Artikel 5.3
 
@@ -204,7 +204,7 @@ Dit besluit wordt aangehaald als: Luchthavenbesluit Volkel.
 
 ## Bijlage 7. Evaluatie- en monitoringsprogramma
 
-[Artikel 7.39 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=7.39) bepaalt dat de milieugevolgen van een besluit ten behoeve waarvan een Milieueffectrapport is opgesteld, geëvalueerd moeten worden. Deze bepaling geldt ook voor het luchthavenbesluit Volkel en is een verantwoordelijkheid van de Minister van Defensie en de Staatssecretaris van Infrastructuur en Milieu.
+[Artikel 11.5 van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=11.5) bepaalt dat de milieugevolgen van een besluit ten behoeve waarvan een Milieueffectrapport is opgesteld, geëvalueerd moeten worden. Deze bepaling geldt ook voor het luchthavenbesluit Volkel en is een verantwoordelijkheid van de Minister van Defensie en de Staatssecretaris van Infrastructuur en Milieu.
 
 Doel van de evaluatie is het bepalen van de daadwerkelijke effecten van de activiteit op het milieu door het verzamelen van gegevens over de feitelijke ontwikkeling van de milieubelasting van de luchthaven en de omgeving en het toetsen van de prognoses over de effecten van die activiteit in het milieueffectrapport, opdat zo nodig bijgestuurd kan worden.
 
