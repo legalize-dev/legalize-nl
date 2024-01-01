@@ -4,7 +4,7 @@ identifier: "BWBR0050554"
 country: "nl"
 rank: "wet"
 publication_date: "2025-02-12"
-last_updated: "2023-04-02"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050554"
 soort: "wet"
@@ -64,8 +64,6 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Gemeentewet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VI. [Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142)
 
 Wijzigt de Wet openbare lichamen Bonaire, Sint Eustatius en Saba.
@@ -113,8 +111,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XIV. [Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108)
 
 Wijzigt de Waterschapswet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XV. [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181)
 
@@ -272,7 +268,7 @@ Wijzigt de Wet tot veiling van bepaalde verkooppunten van motorbrandstoffen.
 
 Dit onderdeel is nog niet inwerking getreden
 
-##### Artikel XLI. [Wijzigingswet woningwet (huurverlaging 2023 voor huurders met lager inkomen)](https://wetten.overheid.nl/jci1.3:c:BWBR0047907)
+##### Artikel XLI. [Wijzigingswet Woningwet (huurverlaging 2023 voor huurders met lager inkomen)](https://wetten.overheid.nl/jci1.3:c:BWBR0047907)
 
 Wijzigt de Wijzigingswet Woningwet (huurverlaging 2023 voor huurders met lager inkomen).
 
