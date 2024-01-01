@@ -4,7 +4,7 @@ identifier: "BWBR0045037"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2021-07-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045037"
 soort: "AMvB"
@@ -64,7 +64,7 @@ In dit besluit wordt verstaan onder:
 
 - **gemeenschappelijk orgaan:** gemeenschappelijk orgaan als bedoeld in [artikel 8, tweede lid, van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8);
 
-- **MijnOverheid-account:** MijnOverheid-account als bedoeld in [artikel 1 van het Besluit verwerking persoonsgegevens generieke digitale infrastructuur](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&artikel=1);
+- **MijnOverheid-account:** MijnOverheid-account als bedoeld in [artikel 1 van het Besluit digitale overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&artikel=1);
 
 - **Onze Minister:** Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
@@ -96,7 +96,7 @@ Onze Minister draagt er zorg voor dat de nodige maatregelen worden getroffen ter
 
 ##### Artikel 3.4. Afkondigingsblad
 
-Indien het afkondigingsblad elektronisch wordt uitgegeven, is de zorgplicht, bedoeld in de [artikelen 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045037&hoofdstuk=3&artikel=3.2&z=2021-07-01&g=2021-07-01) en [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045037&hoofdstuk=3&artikel=3.3&z=2021-07-01&g=2021-07-01), van overeenkomstige toepassing op het bestuurscollege.
+Indien het afkondigingsblad elektronisch wordt uitgegeven, is de zorgplicht, bedoeld in de [artikelen 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045037&hoofdstuk=3&artikel=3.2&z=2024-01-01&g=2024-01-01) en [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045037&hoofdstuk=3&artikel=3.3&z=2024-01-01&g=2024-01-01), van overeenkomstige toepassing op het bestuurscollege.
 
 ##### Artikel 3.5. Opneming
 
@@ -110,7 +110,7 @@ Indien het afkondigingsblad elektronisch wordt uitgegeven, is de zorgplicht, bed
 
 ##### Artikel 3.6. Meerdere ondertekenaars
 
-De eerste ondertekenaar van een publicatie als bedoeld in [artikel 3.5, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045037&hoofdstuk=3&artikel=3.5&z=2021-07-01&g=2021-07-01), bepaalt het tijdstip van de plaatsing van de publicatie in de Staatscourant en draagt er zorg voor dat de toezending op een zodanig tijdstip en op zodanige wijze plaatsvindt dat de plaatsing tijdig kan geschieden.
+De eerste ondertekenaar van een publicatie als bedoeld in [artikel 3.5, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045037&hoofdstuk=3&artikel=3.5&z=2024-01-01&g=2024-01-01), bepaalt het tijdstip van de plaatsing van de publicatie in de Staatscourant en draagt er zorg voor dat de toezending op een zodanig tijdstip en op zodanige wijze plaatsvindt dat de plaatsing tijdig kan geschieden.
 
 ##### Artikel 3.7. Zakelijke inhoud in kennisgeving
 
@@ -234,8 +234,6 @@ Wijzigt het Besluit ruimtelijke ordening.
 
 Wijzigt het Omgevingsbesluit.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel 9.13. [Vuurwerkbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360)
 
 Wijzigt het Vuurwerkbesluit.
@@ -250,9 +248,9 @@ Het [Besluit bekendmaking en beschikbaarstelling regelgeving decentrale overhede
 
 ##### Artikel 11.1. Tijdelijke voorziening omgevingsbesluiten
 
-1. Tot het tijdstip van inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) is [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045037&hoofdstuk=5&artikel=5.1&z=2021-07-01&g=2021-07-01), niet van toepassing op algemeen verbindende voorschriften, beleidsregels en andere besluiten die niet tot een of meer belanghebbenden zijn gericht waarvan de grondslag is opgenomen in die wet.
+1. Tot het tijdstip van inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) is [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045037&hoofdstuk=5&artikel=5.1&z=2024-01-01&g=2024-01-01), niet van toepassing op algemeen verbindende voorschriften, beleidsregels en andere besluiten die niet tot een of meer belanghebbenden zijn gericht waarvan de grondslag is opgenomen in die wet.
 
-2. Dit lid is nog niet in werking getreden.
+2. Vanaf het tijdstip van inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) kan een bestuursorgaan in plaats van de krachtens [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045037&hoofdstuk=3&artikel=3.8&z=2024-01-01&g=2024-01-01) aangewezen technische standaarden toepassing geven aan een technische standaard als bedoeld in de [Regeling standaarden ruimtelijke ordening 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031829), zoals deze gold onmiddellijk voor het tijdstip van intrekking van de [Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449). [Artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045037&hoofdstuk=5&artikel=5.1&z=2024-01-01&g=2024-01-01), is dan niet van toepassing. Op de voorziening, bedoeld in [artikel 1.2.1 van het Besluit ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0023798&artikel=1.2.1), blijft het recht van toepassing zoals dat gold onmiddellijk voor het tijdstip van intrekking van de Wet ruimtelijke ordening.
 
 3. Dit artikel vervalt een jaar na inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), of zoveel eerder als bij koninklijk besluit wordt bepaald.
 
