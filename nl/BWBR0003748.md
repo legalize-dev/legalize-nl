@@ -4,7 +4,7 @@ identifier: "BWBR0003748"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "1985-06-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003748"
 soort: "wet"
@@ -96,7 +96,7 @@ Bevat wijzigingen in andere regelgeving.
 
 ##### Artikel 8
 
-De [Ontgrondingenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002505) (**Stb.** 1965, 509) is gedurende een jaar na de inwerkingtreding van deze wet niet van toepassing op het gebied waarmede de territoriale zee ingevolge deze wet is uitgebreid.
+Vervallen
 
 ##### Artikel 9
 
