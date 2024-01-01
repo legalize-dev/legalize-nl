@@ -4,7 +4,7 @@ identifier: "BWBR0037210"
 country: "nl"
 rank: "beleidsregel_bes"
 publication_date: "2024-01-01"
-last_updated: "2015-11-21"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037210"
 soort: "beleidsregel-BES"
@@ -35,15 +35,15 @@ entry_into_force: "2015-11-21"
 ---
 # Besluit bestuurlijke boeten BES
 
-Dit besluit betreft een wijziging van het [besluit van 19 december 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0029304), nr. DGB2010/8055M, Stcrt. 2010, nr. 21193 (Besluit bestuurlijke boeten BES) in verband met de beleidsmatige invulling van de [artikelen 8.24](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.24) en [8.24a Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.24a) (zie de [artikelen 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0037210&hoofdstuk=II&artikel=6a&z=2015-11-21&g=2015-11-21) en [6b](https://wetten.overheid.nl/jci1.3:c:BWBR0037210&hoofdstuk=II&artikel=6b&z=2015-11-21&g=2015-11-21) van dit besluit) en een nadere uitwerking van het beleid omtrent vrijwillige verbetering ([artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037210&hoofdstuk=IV&artikel=8&z=2015-11-21&g=2015-11-21) van dit besluit).
+Dit besluit betreft een wijziging van het [besluit van 19 december 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0029304), nr. DGB2010/8055M, Stcrt. 2010, nr. 21193 (Besluit bestuurlijke boeten BES) in verband met de beleidsmatige invulling van de [artikelen 8.24](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.24) en [8.24a Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.24a) (zie de [artikelen 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0037210&hoofdstuk=II&artikel=6a&z=2024-01-01&g=2024-01-01) en [6b](https://wetten.overheid.nl/jci1.3:c:BWBR0037210&hoofdstuk=II&artikel=6b&z=2024-01-01&g=2024-01-01) van dit besluit) en een nadere uitwerking van het beleid omtrent vrijwillige verbetering ([artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037210&hoofdstuk=IV&artikel=8&z=2024-01-01&g=2024-01-01) van dit besluit).
 
 ### Hoofdstuk I. Algemene bepalingen
 
 ##### Artikel 1
 
-In dit beleidsbesluit wordt onder ‘boete’ verstaan de sanctie die de inspecteur ingevolge
+1. In dit beleidsbesluit wordt onder ‘boete’ verstaan een bestuurlijke boete die de inspecteur ingevolge [Hoofdstuk VIII van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII) kan opleggen bij de heffing en invordering van BES belastingen als bedoeld in [artikel 1.3, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=1.3), van die wet.
 
-[Hoofdstuk VIII, titel 4, van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&titeldeel=4) kan opleggen met betrekking tot belastingen als bedoeld in [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=1.2) van genoemde wet overeenkomstig de in dit besluit vastgestelde regels.
+2. Dit besluit werd gewijzigd bij besluit van 20 december 2023, nr. 2023-23713 (Stcrt.2023, 32017). De wijziging zag op de artikelen 1 en [6b](https://wetten.overheid.nl/jci1.3:c:BWBR0037210&hoofdstuk=II&artikel=6b&z=2024-01-01&g=2024-01-01) en betrof een verruiming en verduidelijking van het toepassingsbereik van het besluit en het bijwerken van een verwijzing.
 
 ##### Artikel 2
 
@@ -85,7 +85,7 @@ De boete kan worden verminderd wanneer sprake is van een wanverhouding tussen de
 
 ##### Artikel 6
 
-In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037210&hoofdstuk=II&artikel=5&z=2015-11-21&g=2015-11-21) wordt een verzuimboete opgelegd van vijftien procent van de niet, gedeeltelijk niet of niet tijdig betaalde belasting tot het wettelijk maximum van [artikel 8.23 van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.23), indien de belastingplichtige of de inhoudingsplichtige de belasting die op aangifte moet worden voldaan of afgedragen niet, gedeeltelijk niet dan wel niet tijdig heeft betaald, omdat te weinig is aangegeven. De boete wordt minimaal gesteld op $ 200.
+In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037210&hoofdstuk=II&artikel=5&z=2024-01-01&g=2024-01-01) wordt een verzuimboete opgelegd van vijftien procent van de niet, gedeeltelijk niet of niet tijdig betaalde belasting tot het wettelijk maximum van [artikel 8.23 van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.23), indien de belastingplichtige of de inhoudingsplichtige de belasting die op aangifte moet worden voldaan of afgedragen niet, gedeeltelijk niet dan wel niet tijdig heeft betaald, omdat te weinig is aangegeven. De boete wordt minimaal gesteld op $ 200.
 
 ##### Artikel 6a
 
@@ -97,7 +97,7 @@ In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037210&hoo
 
 ##### Artikel 6b
 
-1. Het niet of niet tijdig indienen van de jaarrekening als bedoeld in [artikel 5.10, eerste en tweede lid van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=5.10), wordt aangemerkt als een jaarrekeningverzuim.
+1. Het niet of niet tijdig indienen van de jaarrekening als bedoeld in [artikel 8.87a, eerste en tweede lid, van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.87a), wordt aangemerkt als een jaarrekeningverzuim.
 
 2. Ter zake van een jaarrekeningverzuim legt de inspecteur in geval van een eerste verzuim een verzuimboete op van tien procent van het wettelijk maximum van [artikel 8.24a Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.24a).
 
