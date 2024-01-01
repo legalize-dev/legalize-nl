@@ -4,7 +4,7 @@ identifier: "BWBR0041348"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2023-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041348"
 soort: "ministeriele-regeling"
@@ -81,7 +81,7 @@ Met ingang van 1 januari 2023 bedraagt de door de militair verschuldigde premie 
 
 2. Dit percentage wordt herzien indien:
 
-- a. de aanspraken als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041348&artikel=3&z=2023-01-01&g=2023-01-01) wijziging ondergaan of;
+- a. de aanspraken als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041348&artikel=3&z=2024-01-19&g=2024-01-01) wijziging ondergaan of;
 
 - b. de maximum heffingsgrondslag geen gelijke tred houdt met de loonontwikkeling.
 
