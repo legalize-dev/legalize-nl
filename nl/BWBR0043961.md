@@ -4,7 +4,7 @@ identifier: "BWBR0043961"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2023-07-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043961"
 soort: "wet"
@@ -99,8 +99,6 @@ Wijzigt de Interimwet stad-en-milieubenadering.
 
 Wijzigt de Invoeringswet Omgevingswet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel 4.5. [Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541)
 
 Wijzigt de Kadasterwet.
@@ -116,8 +114,6 @@ Wijzigt de Kieswet.
 ##### Artikel 4.8. [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885)
 
 Wijzigt de Omgevingswet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 4.9. [Tracéwet](https://wetten.overheid.nl/jci1.3:c:BWBR0006147)
 
@@ -176,8 +172,6 @@ Wijzigt de Woningwet.
 ##### Artikel 4.22. [Wet kwaliteitsborging voor het bouwen](https://wetten.overheid.nl/jci1.3:c:BWBR0042732)
 
 Wijzigt de Wet kwaliteitsborging voor het bouwen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ### Hoofdstuk 5. Economische Zaken en Klimaat
 
