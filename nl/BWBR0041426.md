@@ -4,7 +4,7 @@ identifier: "BWBR0041426"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-07-01"
-last_updated: "2019-03-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041426"
 soort: "AMvB"
@@ -56,7 +56,7 @@ In dit besluit wordt verstaan onder:
 
 - b. **korpschef:** korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
 
-- c. **Landelijke eenheid:** Landelijke eenheid als bedoeld in [artikel 3, eerste lid, van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=3);
+- c. **landelijke eenheid:** een landelijke eenheid als bedoeld in [artikel 3, eerste lid, van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=3);
 
 - d. **onderzoekshandeling:** handeling van een opsporingsambtenaar van een technisch team met het oog op een doel als bedoeld in de [artikelen 126nba, eerste lid, onder a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126nba), [126uba, eerste lid, onder a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126uba), en [126zpa, eerste lid, onder a tot en met e, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zpa) ter uitvoering van een bevel;
 
@@ -66,7 +66,7 @@ In dit besluit wordt verstaan onder:
 
 - g. **technische infrastructuur:** technische voorziening van een technisch team bedoeld voor de vastlegging van gegevens ter uitvoering van een bevel;
 
-- h. **technisch team:** onderdeel van de Landelijke eenheid dat kan worden belast met de uitvoering van een bevel.
+- h. **technisch team:** onderdeel van de Eenheid landelijke expertise en operaties dat kan worden belast met de uitvoering van een bevel.
 
 ### Hoofdstuk 2. Uitvoering van een bevel met het oog op het vastleggen van gegevens of het ontoegankelijkmaken van gegevens
 
@@ -86,9 +86,9 @@ Als misdrijven als bedoeld in de [artikelen 126nba, eerste lid, onder c](https:/
 
 ##### Artikel 4. Incidentele samenwerking
 
-1. In afwijking van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&hoofdstuk=3&artikel=3&z=2019-03-01&g=2019-03-01), kan een op grond van artikel 3, eerste lid, aangewezen opsporingsambtenaar worden belast met de uitvoering van een bevel in een concrete zaak als hij deelnemer is aan een technisch team.
+1. In afwijking van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&hoofdstuk=3&artikel=3&z=2024-01-01&g=2024-01-01), kan een op grond van artikel 3, eerste lid, aangewezen opsporingsambtenaar worden belast met de uitvoering van een bevel in een concrete zaak als hij deelnemer is aan een technisch team.
 
-2. Een op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&hoofdstuk=3&artikel=3&z=2019-03-01&g=2019-03-01), aangewezen opsporingsambtenaar kan door de korpschef worden aangewezen als deelnemer aan een technisch team voor de duur van de uitvoering van het bevel in een concrete zaak, indien hij naar het oordeel van de korpschef beschikt over specifieke kennis en vaardigheden, benodigd voor de uitvoering van dat bevel.
+2. Een op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&hoofdstuk=3&artikel=3&z=2024-01-01&g=2024-01-01), aangewezen opsporingsambtenaar kan door de korpschef worden aangewezen als deelnemer aan een technisch team voor de duur van de uitvoering van het bevel in een concrete zaak, indien hij naar het oordeel van de korpschef beschikt over specifieke kennis en vaardigheden, benodigd voor de uitvoering van dat bevel.
 
 3. Een deelnemer aan een technisch team wordt gedurende de uitvoering van het bevel begeleid door een lid van een technisch team.
 
@@ -110,7 +110,7 @@ Als misdrijven als bedoeld in de [artikelen 126nba, eerste lid, onder c](https:/
 
 ##### Artikel 6. Vaststelling van onregelmatigheden
 
-1. De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&hoofdstuk=4&artikel=5&z=2019-03-01&g=2019-03-01) bedoelde vastlegging van gegevens in logbestanden vindt op zodanige wijze plaats dat zowel tijdens de periode, vermeld in het bevel, waarbinnen aan het bevel uitvoering moet worden gegeven als na afloop daarvan kan worden vastgesteld of een onregelmatigheid heeft plaatsgevonden die van invloed is op de betrouwbaarheid en integriteit van de ter uitvoering van het bevel vastgelegde gegevens op een technische infrastructuur.
+1. De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&hoofdstuk=4&artikel=5&z=2024-01-01&g=2024-01-01) bedoelde vastlegging van gegevens in logbestanden vindt op zodanige wijze plaats dat zowel tijdens de periode, vermeld in het bevel, waarbinnen aan het bevel uitvoering moet worden gegeven als na afloop daarvan kan worden vastgesteld of een onregelmatigheid heeft plaatsgevonden die van invloed is op de betrouwbaarheid en integriteit van de ter uitvoering van het bevel vastgelegde gegevens op een technische infrastructuur.
 
 2. Indien een onregelmatigheid wordt geconstateerd maakt een opsporingsambtenaar van een technisch team daarvan proces-verbaal op, dat aan de officier van justitie wordt gezonden.
 
@@ -160,19 +160,19 @@ Een technisch hulpmiddel voorziet de geregistreerde gegevens van de datum en tij
 
 1. Een technisch hulpmiddel wordt voorafgaand aan het gebruik ervan gekeurd door een keuringsdienst.
 
-2. Een technisch hulpmiddel wordt uitsluitend goedgekeurd indien het voldoet aan de in de [artikelen 8 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&hoofdstuk=5&artikel=8&z=2019-03-01&g=2019-03-01) gestelde eisen.
+2. Een technisch hulpmiddel wordt uitsluitend goedgekeurd indien het voldoet aan de in de [artikelen 8 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&hoofdstuk=5&artikel=8&z=2024-01-01&g=2024-01-01) gestelde eisen.
 
-3. Indien een technisch hulpmiddel of een onderdeel hiervan zodanig wijzigt dat redelijkerwijs kan worden aangenomen dat de werking niet langer voldoet aan de in de [artikelen 8 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&hoofdstuk=5&artikel=8&z=2019-03-01&g=2019-03-01) gestelde eisen, vindt voorafgaand aan het gebruik herkeuring plaats door een keuringsdienst van het gewijzigde technische hulpmiddel of van het gewijzigde onderdeel.
+3. Indien een technisch hulpmiddel of een onderdeel hiervan zodanig wijzigt dat redelijkerwijs kan worden aangenomen dat de werking niet langer voldoet aan de in de [artikelen 8 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&hoofdstuk=5&artikel=8&z=2024-01-01&g=2024-01-01) gestelde eisen, vindt voorafgaand aan het gebruik herkeuring plaats door een keuringsdienst van het gewijzigde technische hulpmiddel of van het gewijzigde onderdeel.
 
 ##### Artikel 15. Uitzonderingen op voorafgaande keuring en herkeuring
 
-1. In afwijking van [artikel 14, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&hoofdstuk=6&artikel=14&z=2019-03-01&g=2019-03-01), kan een technisch hulpmiddel na afloop van het gebruik ervan worden gekeurd of kan na afloop van het gebruik herkeuring plaatsvinden indien de officier van justitie dit heeft bepaald overeenkomstig [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&hoofdstuk=7&artikel=21&z=2019-03-01&g=2019-03-01).
+1. In afwijking van [artikel 14, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&hoofdstuk=6&artikel=14&z=2024-01-01&g=2024-01-01), kan een technisch hulpmiddel na afloop van het gebruik ervan worden gekeurd of kan na afloop van het gebruik herkeuring plaatsvinden indien de officier van justitie dit heeft bepaald overeenkomstig [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&hoofdstuk=7&artikel=21&z=2024-01-01&g=2024-01-01).
 
-2. In afwijking van het eerste lid kan keuring of herkeuring achteraf achterwege blijven, indien de officier van justitie dit heeft bepaald overeenkomstig [artikel 21, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&hoofdstuk=7&artikel=21&z=2019-03-01&g=2019-03-01).
+2. In afwijking van het eerste lid kan keuring of herkeuring achteraf achterwege blijven, indien de officier van justitie dit heeft bepaald overeenkomstig [artikel 21, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&hoofdstuk=7&artikel=21&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 16. Keuringsdienst
 
-1. Onze Minister wijst een onderdeel van de Landelijke eenheid aan als keuringsdienst.
+1. Onze Minister wijst een onderdeel van de Eenheid landelijke expertise en operaties aan als keuringsdienst.
 
 2. Onze Minister kan één of meer andere organisaties aanwijzen als keuringsdienst.
 
@@ -194,7 +194,7 @@ Een technisch hulpmiddel voorziet de geregistreerde gegevens van de datum en tij
 
 3. Het keuringsrapport van een goedgekeurd technisch hulpmiddel vermeldt ten minste:
 
-- a. dat het technische hulpmiddel voldoet aan de [artikel 8 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&hoofdstuk=5&artikel=8&z=2019-03-01&g=2019-03-01) gestelde eisen;
+- a. dat het technische hulpmiddel voldoet aan de [artikel 8 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&hoofdstuk=5&artikel=8&z=2024-01-01&g=2024-01-01) gestelde eisen;
 
 - b. een referentienummer;
 
@@ -202,7 +202,7 @@ Een technisch hulpmiddel voorziet de geregistreerde gegevens van de datum en tij
 
 - d. een aanduiding van de functionaliteit of functionaliteiten van het technische hulpmiddel;
 
-- e. relevante verplichte vervangende waarborgen waarmee voldaan kan worden aan één of meer eisen, bedoeld in de [artikelen 8 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&hoofdstuk=5&artikel=8&z=2019-03-01&g=2019-03-01);
+- e. relevante verplichte vervangende waarborgen waarmee voldaan kan worden aan één of meer eisen, bedoeld in de [artikelen 8 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&hoofdstuk=5&artikel=8&z=2024-01-01&g=2024-01-01);
 
 - f. relevante informatie met betrekking tot de werking van een functionaliteit of functionaliteiten van het technische hulpmiddel;
 
@@ -210,7 +210,7 @@ Een technisch hulpmiddel voorziet de geregistreerde gegevens van de datum en tij
 
 ##### Artikel 19. Registratie van keuringsrapporten
 
-De keuringsdienst van een onderdeel van de Landelijke eenheid houdt een centrale registratie bij van de keuringsrapporten.
+De keuringsdienst van een onderdeel van de Eenheid landelijke expertise en operaties houdt een centrale registratie bij van de keuringsrapporten.
 
 ##### Artikel 20. Wederzijdse erkenningsclausule
 
@@ -306,9 +306,9 @@ De keuringsdienst van een onderdeel van de Landelijke eenheid houdt een centrale
 
 ##### Artikel 29. Verstrekking en bewerking van vastgelegde gegevens
 
-1. De ter uitvoering van een bevel op een technische infrastructuur vastgelegde gegevens, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&hoofdstuk=7&artikel=27&z=2019-03-01&g=2019-03-01), worden verstrekt aan een opsporingsambtenaar die is belast met het opsporingsonderzoek.
+1. De ter uitvoering van een bevel op een technische infrastructuur vastgelegde gegevens, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&hoofdstuk=7&artikel=27&z=2024-01-01&g=2024-01-01), worden verstrekt aan een opsporingsambtenaar die is belast met het opsporingsonderzoek.
 
-2. Indien het ter uitvoering van het bevel of ten behoeve van het opsporingsonderzoek nodig is om een selectie te maken uit op een technische infrastructuur vastgelegde gegevens, voert een opsporingsambtenaar van een technisch team een bewerking uit met gebruikmaking van een kopie van de op grond van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&hoofdstuk=7&artikel=27&z=2019-03-01&g=2019-03-01) vastgelegde gegevens. De bewerkte gegevens worden verstrekt aan een opsporingsambtenaar die is belast met het opsporingsonderzoek.
+2. Indien het ter uitvoering van het bevel of ten behoeve van het opsporingsonderzoek nodig is om een selectie te maken uit op een technische infrastructuur vastgelegde gegevens, voert een opsporingsambtenaar van een technisch team een bewerking uit met gebruikmaking van een kopie van de op grond van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&hoofdstuk=7&artikel=27&z=2024-01-01&g=2024-01-01) vastgelegde gegevens. De bewerkte gegevens worden verstrekt aan een opsporingsambtenaar die is belast met het opsporingsonderzoek.
 
 3. Bij de selectie van gegevens legt een opsporingsambtenaar van een technisch team de bewerkingen die hebben plaatsgevonden met betrekking tot de kopie van de vastgelegde gegevens vast in een proces-verbaal, dat aan de officier van justitie wordt gezonden.
 
