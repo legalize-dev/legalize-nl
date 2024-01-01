@@ -4,7 +4,7 @@ identifier: "BWBR0046477"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2023-07-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046477"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ BESLUIT:
 
 1. Voor de toepassing van de Regeling wordt verstaan onder:
 
-- **exploitant:** natuurlijk persoon of rechtspersoon die zeggenschap heeft over: de exploitatie van de voedseluitgiftelocatie aangaande de bedrijfsmatige verstrekking van voedsel of dranken, waaronder tevens verstaan degene die de uitvoering van [artikel 2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=2&artikel=2.1&z=2023-07-01&g=2023-07-01), op grond van een overeenkomst, namens exploitanten uitvoert;
+- **exploitant:** natuurlijk persoon of rechtspersoon die zeggenschap heeft over: de exploitatie van de voedseluitgiftelocatie aangaande de bedrijfsmatige verstrekking van voedsel of dranken, waaronder tevens verstaan degene die de uitvoering van [artikel 2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=2&artikel=2.1&z=2024-01-01&g=2024-01-01), op grond van een overeenkomst, namens exploitanten uitvoert;
 
 - **hoogwaardige recycling:** nuttige toepassing waardoor afvalstoffen opnieuw worden bewerkt tot materialen of voorwerpen die in de handel mogen worden gebracht op grond van de bij artikel 3, eerste en tweede lid, artikel 4, tweede tot en met zesde lid, artikel 15, eerste, derde, vierde, zevende, achtste en negende lid, artikel 17 en de krachtens artikel 5, eerste lid, van [verordening (EG) 1935/2004](32004R1935) gestelde voorschriften;
 
@@ -72,7 +72,29 @@ BESLUIT:
 
 ##### Artikel 2.1. (maatregelen voedseluitgiftelocaties met consumptie ter plaatse)
 
-Dit onderdeel is nog niet inwerking getreden
+1. Het aanbieden van kunststof drinkbekers voor eenmalig gebruik of kunststof voedselverpakkingen voor eenmalig gebruik door of vanwege de exploitant van een voedseluitgiftelocatie aan de eindgebruiker, voor consumptie binnen die voedseluitgiftelocatie, is verboden.
+
+2. Het verbod, bedoeld in het eerste lid, is niet van toepassing indien een exploitant aantoonbaar de volgende percentages van de aangeboden kunststof drinkbekers voor eenmalig gebruik of kunststof voedselverpakkingen voor eenmalig gebruik inzamelt voor hoogwaardige recycling:
+
+- 1°. in 2024: 75 gewichtsprocent;
+
+- 2°. in 2025: 80 gewichtsprocent;
+
+- 3°. in 2026: 85 gewichtsprocent;
+
+- 4°. in 2027 en verder: 90 gewichtsprocent.
+
+3. De exploitant die kunststof drinkbekers voor eenmalig gebruik of kunststof voedselverpakkingen voor eenmalig gebruik aanbiedt zorgt ervoor dat het aanbieden, bedoeld in het tweede lid, niet eerder aanvangt dan nadat hij dit aan de Minister heeft gemeld.
+
+4. Het eerste tot en met derde lid zijn niet van toepassing:
+
+- a. in die gevallen dat bij gemeentelijke verordening ten minste gelijkwaardige maatregelen zijn genomen voor de hoogwaardige recycling van of ter voorkoming van het gebruik van kunststof drinkbekers voor eenmalig gebruik of kunststof voedselverpakkingen voor eenmalig gebruik; of
+
+- b. indien het aanbieden:
+
+- 1°. onderdeel uitmaakt van een voorziening voor opvang als bedoeld in [artikel 1.1.1 van de Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=1.1.1), zorg als bedoeld in [artikel 1, eerste lid, onderdeel b, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1), tandheelkundige zorg, waaronder de zorg die niet wordt genoemd in[artikel 2.7 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.7) en die wordt bekostigd door een zorgverzekeraar of
+
+- 2°. geschiedt in een inrichting als bedoeld in [artikel 1 van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=1), een instelling als bedoeld in [artikel 1.1, eerste lid, onderdelen i en j, van de Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=1.1) of een gesloten accommodatie als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1).
 
 ##### Artikel 2.2. (maatregelen voedseluitgiftelocaties met consumptie om mee te nemen, af te halen of te bezorgen)
 
@@ -122,17 +144,17 @@ Dit onderdeel is nog niet inwerking getreden
 
 1. Overheidsorganisaties die kosten maken voor het opruimen van het zwerfafval van kunststofproducten als bedoeld in de [artikelen 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045257&artikel=4), en [5, eerste lid, van het Besluit kunststofproducten voor eenmalig gebruik](https://wetten.overheid.nl/jci1.3:c:BWBR0045257&artikel=5) en [artikel 15f, derde lid, van het Besluit beheer verpakkingen 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&artikel=15f) hebben recht op een vergoeding.
 
-2. De vergoeding is het te ontvangen deel van de op grond van [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=3&artikel=3.1&z=2023-07-01&g=2023-07-01) geïnde bijdrage. Het te ontvangen deel wordt bepaald door de vastgestelde wegingsfactor die maat is voor de kosten die de overheidsorganisatie maakt, bedoeld in het eerste lid, in verhouding tot alle andere overheidsorganisaties.
+2. De vergoeding is het te ontvangen deel van de op grond van [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=3&artikel=3.1&z=2024-01-01&g=2024-01-01) geïnde bijdrage. Het te ontvangen deel wordt bepaald door de vastgestelde wegingsfactor die maat is voor de kosten die de overheidsorganisatie maakt, bedoeld in het eerste lid, in verhouding tot alle andere overheidsorganisaties.
 
-3. De wegingsfactor per overheidsorganisatie wordt, rekening houdend met het kostenonderzoek, bedoeld in [artikel 3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=3&artikel=3.1&z=2023-07-01&g=2023-07-01), vastgesteld door, per overheidsorganisatie:
+3. De wegingsfactor per overheidsorganisatie wordt, rekening houdend met het kostenonderzoek, bedoeld in [artikel 3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=3&artikel=3.1&z=2024-01-01&g=2024-01-01), vastgesteld door, per overheidsorganisatie:
 
 - a. het aantal gelijke gebiedskenmerken verbonden aan de overheidsorganisatie te vermenigvuldigen met de gemiddelde kosten die door de Minister zijn vastgesteld per gebiedskenmerk; of
 
 - b. indien deze kosten worden onderscheiden, de gerealiseerde kosten voor het opruimen van het zwerfafval kunststofproducten te bepalen.
 
-4. Indien het derde lid, onderdeel b, niet kan worden toegepast, stelt de Minister voor een overheidsorganisatie de gebiedskenmerken, bedoeld in het derde lid, vast, rekening houdend met het kostenonderzoek, bedoeld in [artikel 3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=3&artikel=3.1&z=2023-07-01&g=2023-07-01).
+4. Indien het derde lid, onderdeel b, niet kan worden toegepast, stelt de Minister voor een overheidsorganisatie de gebiedskenmerken, bedoeld in het derde lid, vast, rekening houdend met het kostenonderzoek, bedoeld in [artikel 3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=3&artikel=3.1&z=2024-01-01&g=2024-01-01).
 
-5. De door de Minister aangewezen organisatie, bedoeld in [artikel 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=3&artikel=3.1&z=2023-07-01&g=2023-07-01), keert de vergoedingen, bedoeld in het eerste lid, uit, uiterlijk voor 1 november in het kalenderjaar na het peiljaar. Onbestede gelden worden door de organisatie tijdelijk aangehouden en geoormerkt voor uitbetaling.
+5. De door de Minister aangewezen organisatie, bedoeld in [artikel 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=3&artikel=3.1&z=2024-01-01&g=2024-01-01), keert de vergoedingen, bedoeld in het eerste lid, uit, uiterlijk voor 1 november in het kalenderjaar na het peiljaar. Onbestede gelden worden door de organisatie tijdelijk aangehouden en geoormerkt voor uitbetaling.
 
 6. De wegingsfactoren per overheidsorganisatie over het peiljaar, bedoeld in het tweede lid, worden jaarlijks voor 1 juni in het kalenderjaar na het peiljaar door de Minister gepubliceerd in de Staatscourant.
 
@@ -164,27 +186,29 @@ Dit onderdeel is nog niet inwerking getreden
 
 1. De producent of importeur, bedoeld in [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045257&artikel=4) en [5 van het Besluit kunststofproducten voor eenmalig gebruik](https://wetten.overheid.nl/jci1.3:c:BWBR0045257&artikel=5), of de [artikelen 15d](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&artikel=15d) en [15f van het Besluit beheer verpakkingen 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&artikel=15f), zendt voor 1 april 2023, en vervolgens elk jaar voor dezelfde datum, een verslag aan de Minister over de hoeveelheid door de producent in het voorafgaande kalenderjaar in de handel gebrachte kunststofproducten voor eenmalig gebruik.
 
-2. Het eerste lid is niet van toepassing op de producent of importeur, bedoeld in [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045257&artikel=4) en [5 van het Besluit kunststofproducten voor eenmalig gebruik](https://wetten.overheid.nl/jci1.3:c:BWBR0045257&artikel=5), of [artikel 15f van het Besluit beheer verpakkingen 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&artikel=15f), indien de verplichting, bedoeld in [artikel 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=3&artikel=3.1&z=2023-07-01&g=2023-07-01), worden uitgevoerd door een producentenorganisatie, bedoeld in artikel 3.1, zesde lid. Indien de verplichtingen, bedoeld in het eerste lid en [artikel 15d van het Besluit beheer verpakkingen 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&artikel=15d), worden uitgevoerd door een producentenorganisatie, bedoeld in [artikel 3.1, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=3&artikel=3.1&z=2023-07-01&g=2023-07-01), is het eerste lid van toepassing met dien verstande dat het verslag voor 1 augustus 2023 wordt verzonden.
+2. Het eerste lid is niet van toepassing op de producent of importeur, bedoeld in [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045257&artikel=4) en [5 van het Besluit kunststofproducten voor eenmalig gebruik](https://wetten.overheid.nl/jci1.3:c:BWBR0045257&artikel=5), of [artikel 15f van het Besluit beheer verpakkingen 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&artikel=15f), indien de verplichting, bedoeld in [artikel 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=3&artikel=3.1&z=2024-01-01&g=2024-01-01), worden uitgevoerd door een producentenorganisatie, bedoeld in artikel 3.1, zesde lid. Indien de verplichtingen, bedoeld in het eerste lid en [artikel 15d van het Besluit beheer verpakkingen 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&artikel=15d), worden uitgevoerd door een producentenorganisatie, bedoeld in [artikel 3.1, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=3&artikel=3.1&z=2024-01-01&g=2024-01-01), is het eerste lid van toepassing met dien verstande dat het verslag voor 1 augustus 2023 wordt verzonden.
 
 3. De producent of importeur, bedoeld in [artikel 15c van het Besluit beheer verpakkingen 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&artikel=15c), zendt voor 1 augustus 2024 en vervolgens elk jaar voor 1 augustus aan de Minister het verslag, bedoeld in [artikel 5 van het Besluit regeling voor uitgebreide producentenverantwoordelijkheid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=5), over het voorafgaande kalenderjaar.
 
 4. De producent of importeur, bedoeld in de [artikelen 4, eerste lid onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045257&artikel=4), [5, eerste lid onderdeel a, van het Besluit kunststofproducten voor eenmalig gebruik](https://wetten.overheid.nl/jci1.3:c:BWBR0045257&artikel=5) en [15f, tweede lid, van het Besluit beheer verpakkingen 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&artikel=15f), zendt aan de Minister voor 1 augustus 2023 en vervolgens:
 
-- a. elke drie jaar voor 1 augustus: het plan, bedoeld in [artikel 3.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=3&artikel=3.3&z=2023-07-01&g=2023-07-01);
+- a. elke drie jaar voor 1 augustus: het plan, bedoeld in [artikel 3.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=3&artikel=3.3&z=2024-01-01&g=2024-01-01);
 
-- b. jaarlijks voor 1 augustus, indien van toepassing: een verslag over de reeds genomen maatregelen, bedoeld in [artikel 3.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=3&artikel=3.3&z=2023-07-01&g=2023-07-01).
+- b. jaarlijks voor 1 augustus, indien van toepassing: een verslag over de reeds genomen maatregelen, bedoeld in [artikel 3.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=3&artikel=3.3&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 4.2. (modelformulier producenten)
 
-Onverminderd [artikel 5 van het Besluit regeling voor uitgebreide producentenverantwoordelijkheid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=5) maakt de producent of importeur bij het indienen van de verslaglegging, bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=4&artikel=4.1&z=2023-07-01&g=2023-07-01), dan wel bij de melding als bedoeld in [artikel 4 van het Besluit regeling voor uitgebreide producentenverantwoordelijkheid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=4), gebruik van het modelformulier opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&bijlage=1&z=2023-07-01&g=2023-07-01) bij de Regeling kunststofproducten voor eenmalig gebruik.
+Onverminderd [artikel 5 van het Besluit regeling voor uitgebreide producentenverantwoordelijkheid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=5) maakt de producent of importeur bij het indienen van de verslaglegging, bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=4&artikel=4.1&z=2024-01-01&g=2024-01-01), dan wel bij de melding als bedoeld in [artikel 4 van het Besluit regeling voor uitgebreide producentenverantwoordelijkheid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=4), gebruik van het modelformulier opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&bijlage=1&z=2024-01-01&g=2024-01-01) bij de Regeling kunststofproducten voor eenmalig gebruik.
 
 ##### Artikel 4.3. (verslaglegging exploitanten)
 
-Dit onderdeel is nog niet inwerking getreden
+De exploitant houdt een administratie bij ten aanzien van de inzameling, bedoeld in [artikel 2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=2&artikel=2.1&z=2024-01-01&g=2024-01-01), en zendt desgevraagd een verslag over de inzameling voor hoogwaardige recycling als bedoeld in artikel 2.1, derde lid, aan de Minister.
 
 ##### Artikel 4.4. (modelformulier exploitanten)
 
-Dit onderdeel is nog niet inwerking getreden
+1. De exploitant, bedoeld in [artikel 2.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=2&artikel=2.1&z=2024-01-01&g=2024-01-01), maakt voor de melding, bedoeld in dat lid, gebruik van het modelformulier opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&bijlage=2&z=2024-01-01&g=2024-01-01), deel A, bij de Regeling kunststofproducten voor eenmalig gebruik.
+
+2. De exploitant, bedoeld in [artikel 2.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=2&artikel=2.1&z=2024-01-01&g=2024-01-01), maakt voor het verslag, bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=4&artikel=4.3&z=2024-01-01&g=2024-01-01), gebruik van het modelformulier opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&bijlage=2&z=2024-01-01&g=2024-01-01), deel B en deel C, bij de Regeling kunststofproducten voor eenmalig gebruik.
 
 ### Hoofdstuk 5. Slotbepalingen
 
@@ -194,11 +218,11 @@ De Minister evalueert binnen twee jaar na de inwerkingtreding van de Regeling ku
 
 ##### Artikel 5.2. (inwerkingtreding)
 
-1. Deze regeling treedt, met uitzondering van de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=2&artikel=2.1&z=2023-07-01&g=2023-07-01), [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=2&artikel=2.2&z=2023-07-01&g=2023-07-01), [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=4&artikel=4.3&z=2023-07-01&g=2023-07-01) en [4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=4&artikel=4.4&z=2023-07-01&g=2023-07-01), in werking met ingang van 1 januari 2023.
+1. Deze regeling treedt, met uitzondering van de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=2&artikel=2.1&z=2024-01-01&g=2024-01-01), [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=2&artikel=2.2&z=2024-01-01&g=2024-01-01), [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=4&artikel=4.3&z=2024-01-01&g=2024-01-01) en [4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=4&artikel=4.4&z=2024-01-01&g=2024-01-01), in werking met ingang van 1 januari 2023.
 
-2. [Artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=2&artikel=2.2&z=2023-07-01&g=2023-07-01) treedt in werking met ingang van 1 juli 2023.
+2. [Artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=2&artikel=2.2&z=2024-01-01&g=2024-01-01) treedt in werking met ingang van 1 juli 2023.
 
-3. De [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=2&artikel=2.1&z=2023-07-01&g=2023-07-01), [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=4&artikel=4.3&z=2023-07-01&g=2023-07-01) en [4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=4&artikel=4.4&z=2023-07-01&g=2023-07-01) treden in werking met ingang van 1 januari 2024.
+3. De [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=2&artikel=2.1&z=2024-01-01&g=2024-01-01), [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=4&artikel=4.3&z=2024-01-01&g=2024-01-01) en [4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=4&artikel=4.4&z=2024-01-01&g=2024-01-01) treden in werking met ingang van 1 januari 2024.
 
 ##### Artikel 5.3. (citeertitel)
 
@@ -206,9 +230,9 @@ Deze regeling wordt aangehaald als: Regeling kunststofproducten voor eenmalig ge
 
 De Regeling kunststofproducten voor eenmalig gebruik zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 1. behorende bij [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=4&artikel=4.2&z=2023-07-01&g=2023-07-01) van de Regeling kunststofproducten voor eenmalig gebruik
+## Bijlage 1. behorende bij [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=4&artikel=4.2&z=2024-01-01&g=2024-01-01) van de Regeling kunststofproducten voor eenmalig gebruik
 
-Op grond van [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=4&artikel=4.1&z=2023-07-01&g=2023-07-01) van de Regeling kunststofproducten voor eenmalig gebruik dient een producent of importeur verslag te doen over de hoeveelheid in de handel gebrachte kunststofproducten voor eenmalig gebruik. Hiertoe is dit formulier opgesteld. Dit formulier onderdeel A wordt ook gebruikt bij de melding als bedoeld in [artikel 4 van het Besluit regeling voor uitgebreide producentenverantwoordelijkheid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=4). De in dit formulier gestelde vragen moeten zo volledig mogelijk worden beantwoord.
+Op grond van [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=4&artikel=4.1&z=2024-01-01&g=2024-01-01) van de Regeling kunststofproducten voor eenmalig gebruik dient een producent of importeur verslag te doen over de hoeveelheid in de handel gebrachte kunststofproducten voor eenmalig gebruik. Hiertoe is dit formulier opgesteld. Dit formulier onderdeel A wordt ook gebruikt bij de melding als bedoeld in [artikel 4 van het Besluit regeling voor uitgebreide producentenverantwoordelijkheid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=4). De in dit formulier gestelde vragen moeten zo volledig mogelijk worden beantwoord.
 
 Het volledig ingevulde en ondertekende formulier dient per post of e-mail verzonden te worden naar:
 
@@ -238,11 +262,11 @@ Indien u kunststof drankflessen met als hoofdbestanddeel polyethyleentereftalaat
 
 in de handel heeft gebracht, dient u in onderstaande tabel de hoeveelheid toegepast recyclaat in ton in het totaal van de door u in de handel gebrachte flessen aan te geven.
 
-## Bijlage 2. behorende bij [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=4&artikel=4.4&z=2023-07-01&g=2023-07-01) van de Regeling kunststofproducten voor eenmalig gebruik
+## Bijlage 2. behorende bij [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=4&artikel=4.4&z=2024-01-01&g=2024-01-01) van de Regeling kunststofproducten voor eenmalig gebruik
 
-### Deel A. behorende bij [artikel 4.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=4&artikel=4.4&z=2023-07-01&g=2023-07-01) van de Regeling kunststofproducten voor eenmalig gebruik: meldingsplicht voor het gebruikmaken van de uitzondering op basis van [Artikel 2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=2&artikel=2.1&z=2023-07-01&g=2023-07-01)
+### Deel A. behorende bij [artikel 4.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=4&artikel=4.4&z=2024-01-01&g=2024-01-01) van de Regeling kunststofproducten voor eenmalig gebruik: meldingsplicht voor het gebruikmaken van de uitzondering op basis van [Artikel 2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=2&artikel=2.1&z=2024-01-01&g=2024-01-01)
 
-Het volledig ingevulde en ondertekende deel A van het modelformulier, als bedoeld in [artikel 4.4 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=4&artikel=4.4&z=2023-07-01&g=2023-07-01), dient per post of e-mail verzonden te worden naar:
+Het volledig ingevulde en ondertekende deel A van het modelformulier, als bedoeld in [artikel 4.4 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=4&artikel=4.4&z=2024-01-01&g=2024-01-01), dient per post of e-mail verzonden te worden naar:
 
 Inspectie Leefomgeving en Transport
 
@@ -254,11 +278,11 @@ MeldingenSUP@ILenT.nl
 
 ### Deel A. Algemeen
 
-### Deel B en C. behorende bij [artikel 4.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=4&artikel=4.4&z=2023-07-01&g=2023-07-01) van de Regeling kunststofproducten voor eenmalig gebruik: registratie van inzameling kunststof drinkbekers en/of kunststof voedselverpakkingen voor eenmalig gebruik
+### Deel B en C. behorende bij [artikel 4.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=4&artikel=4.4&z=2024-01-01&g=2024-01-01) van de Regeling kunststofproducten voor eenmalig gebruik: registratie van inzameling kunststof drinkbekers en/of kunststof voedselverpakkingen voor eenmalig gebruik
 
 De exploitant van de voedseluitgiftelocatie houdt een administratie bij van het aantal kunststof drinkbekers en/of voedselverpakkingen dat wordt verstrekt en de hoeveelheid gewichtsprocenten dat afzonderlijk (als monostroom) wordt ingezameld. Bij de hoeveelheid gewichtsprocenten dat wordt aangeboden voor hoogwaardige recycling, dient het gewicht van de voedselverpakking of drinkbeker gecorrigeerd te worden voor nog resterend vocht en vuil en afgekeurde bekers en/of voedselverpakkingen.
 
-De registratie, bedoeld in [Artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=4&artikel=4.3&z=2023-07-01&g=2023-07-01), hoeft enkel op verzoek van de Minister te worden opgestuurd en is 3 jaar na het betreffende verslagjaar opvraagbaar.
+De registratie, bedoeld in [Artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046477&hoofdstuk=4&artikel=4.3&z=2024-01-01&g=2024-01-01), hoeft enkel op verzoek van de Minister te worden opgestuurd en is 3 jaar na het betreffende verslagjaar opvraagbaar.
 
 ### Deel B. Inzameling kunststof drinkbekers voor eenmalig gebruik
 
