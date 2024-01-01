@@ -4,7 +4,7 @@ identifier: "BWBR0021912"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2019-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021912"
 soort: "wet"
@@ -93,7 +93,7 @@ Er zijn grondkamers, waarvan het rechtsgebied en de standplaats door Ons worden 
 
 2. Onverminderd hetgeen elders is bepaald, kunnen de in het vorige lid genoemde personen worden ontslagen:
 
-- a. bij overtreding van de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=1&artikel=6&z=2019-01-01&g=2019-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=1&artikel=7&z=2019-01-01&g=2019-01-01);
+- a. bij overtreding van de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=1&artikel=6&z=2024-01-01&g=2024-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=1&artikel=7&z=2024-01-01&g=2024-01-01);
 
 - b. wanneer zij in staat van faillissement zijn verklaard, ten aanzien van hen de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, zij surséance van betaling hebben verkregen of wegens schulden zijn gegijzeld.
 
@@ -153,7 +153,7 @@ De tot de rechterlijke macht behorende leden, de deskundige leden en de plaatsve
 
 ##### Artikel 14
 
-De [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=1&artikel=6&z=2019-01-01&g=2019-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=1&artikel=7&z=2019-01-01&g=2019-01-01) vinden ten aanzien van de leden, de plaatsvervangende leden, de griffier en de plaatsvervangende griffier van de Centrale Grondkamer overeenkomstige toepassing.
+De [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=1&artikel=6&z=2024-01-01&g=2024-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=1&artikel=7&z=2024-01-01&g=2024-01-01) vinden ten aanzien van de leden, de plaatsvervangende leden, de griffier en de plaatsvervangende griffier van de Centrale Grondkamer overeenkomstige toepassing.
 
 ##### Artikel 15
 
@@ -189,7 +189,7 @@ Het verzoek tot goedkeuring van een ontwerp-pachtovereenkomst of van een ontwerp
 
 ##### Artikel 20
 
-1. Bij het verzoek, bedoeld in [artikel 381, tweede lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=381), wordt een verklaring overgelegd van burgemeester en wethouders, waaruit blijkt, dat die doeleinden niet in strijd zijn met een geldend of een in ontwerp ter inzage gelegd bestemmingsplan.
+1. Bij het verzoek, bedoeld in [artikel 381, tweede lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=381), wordt een verklaring overgelegd van burgemeester en wethouders, waaruit blijkt, dat die doeleinden niet in strijd zijn met een geldend of een in ontwerp ter inzage gelegd omgevingsplan.
 
 2. Indien de Staat, een provincie, een gemeente, een waterschap, een veenschap of een veenpolder de in [artikel 381, tweede lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=381) bedoelde derde is, zijn slechts Gedeputeerde Staten bevoegd de in dat lid bedoelde verklaring af te geven.
 
@@ -257,13 +257,13 @@ Het verzoek tot goedkeuring van een ontwerp-pachtovereenkomst of van een ontwerp
 
 ##### Artikel 27
 
-1. Indien bij een beslissing op een verzoek in andere dan de in de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&artikel=25&z=2019-01-01&g=2019-01-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&artikel=26&z=2019-01-01&g=2019-01-01) bedoelde gevallen naar het oordeel van de grondkamer behalve de verzoeker ook anderen belang hebben, deelt de grondkamer, onder gelijktijdige kennisgeving van de eventuele bezwaren, aan de verzoeker en de andere belanghebbenden mede, binnen welke termijn zij schriftelijke opmerkingen aan de grondkamer kunnen inzenden en een mondelinge behandeling kunnen verzoeken.
+1. Indien bij een beslissing op een verzoek in andere dan de in de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&artikel=25&z=2024-01-01&g=2024-01-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&artikel=26&z=2024-01-01&g=2024-01-01) bedoelde gevallen naar het oordeel van de grondkamer behalve de verzoeker ook anderen belang hebben, deelt de grondkamer, onder gelijktijdige kennisgeving van de eventuele bezwaren, aan de verzoeker en de andere belanghebbenden mede, binnen welke termijn zij schriftelijke opmerkingen aan de grondkamer kunnen inzenden en een mondelinge behandeling kunnen verzoeken.
 
 2. Indien een onderzoek door een van haar leden of door een deskundige heeft plaats gehad, zendt de grondkamer aan de verzoeker en de andere belanghebbenden, tegelijk met haar mededeling, een afschrift van het rapport van het onderzoek toe.
 
 ##### Artikel 28
 
-1. Indien bij een beslissing op een verzoek in andere dan de in de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&artikel=25&z=2019-01-01&g=2019-01-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&artikel=26&z=2019-01-01&g=2019-01-01) bedoelde gevallen naar het oordeel van de grondkamer uitsluitend de verzoeker belang heeft en de grondkamer het verzoek niet aanstonds kan toewijzen, is de grondkamer bevoegd – en op een daartoe strekkend verzoek verplicht – een mondelinge behandeling van het bij haar ingediende verzoek te doen plaats hebben op een door haar te bepalen zitting.
+1. Indien bij een beslissing op een verzoek in andere dan de in de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&artikel=25&z=2024-01-01&g=2024-01-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&artikel=26&z=2024-01-01&g=2024-01-01) bedoelde gevallen naar het oordeel van de grondkamer uitsluitend de verzoeker belang heeft en de grondkamer het verzoek niet aanstonds kan toewijzen, is de grondkamer bevoegd – en op een daartoe strekkend verzoek verplicht – een mondelinge behandeling van het bij haar ingediende verzoek te doen plaats hebben op een door haar te bepalen zitting.
 
 2. Indien een onderzoek door een van haar leden of door een deskundige heeft plaats gehad, zendt de grondkamer aan de verzoeker, tegelijk met haar oproep voor de mondelinge behandeling, een afschrift van het rapport van het onderzoek toe.
 
@@ -285,7 +285,7 @@ De secretaris maakt een verslag van hetgeen bij de mondelinge behandeling voorva
 
 3. De grondkamer kan bevelen, dat getuigen, die, hoewel bij deurwaardersexploot opgeroepen, niet zijn verschenen, door de openbare macht voor haar worden gebracht.
 
-4. De ingevolge [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&artikel=30&z=2019-01-01&g=2019-01-01) ter zitting meegebrachte getuigen worden gehoord, voor zover de grondkamer hun verhoor dienstig oordeelt.
+4. De ingevolge [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&artikel=30&z=2024-01-01&g=2024-01-01) ter zitting meegebrachte getuigen worden gehoord, voor zover de grondkamer hun verhoor dienstig oordeelt.
 
 5. De [artikelen 164](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=164), [171 tot en met 173](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=171), [177](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=177) en [179 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=179) zijn ten aanzien van het getuigenverhoor van overeenkomstige toepassing.
 
@@ -295,7 +295,7 @@ De secretaris maakt een verslag van hetgeen bij de mondelinge behandeling voorva
 
 ##### Artikel 32
 
-Bij de behandeling van een verzoek tot goedkeuring van een ontwerp-pachtovereenkomst of van een ontwerp-overeenkomst tot wijziging van een pachtovereenkomst vinden de [artikelen 29](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&artikel=29&z=2019-01-01&g=2019-01-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&artikel=30&z=2019-01-01&g=2019-01-01) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&artikel=31&z=2019-01-01&g=2019-01-01) overeenkomstige toepassing.
+Bij de behandeling van een verzoek tot goedkeuring van een ontwerp-pachtovereenkomst of van een ontwerp-overeenkomst tot wijziging van een pachtovereenkomst vinden de [artikelen 29](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&artikel=29&z=2024-01-01&g=2024-01-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&artikel=30&z=2024-01-01&g=2024-01-01) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&artikel=31&z=2024-01-01&g=2024-01-01) overeenkomstige toepassing.
 
 ##### Artikel 33
 
@@ -303,7 +303,7 @@ Indien de grondkamer de pachtovereenkomst of de overeenkomst tot wijziging of be
 
 ##### Artikel 34
 
-1. De beschikkingen van de grondkamer zijn met redenen omkleed, met uitzondering van de beschikkingen die overeenkomstig [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&artikel=33&z=2019-01-01&g=2019-01-01) zijn genomen.
+1. De beschikkingen van de grondkamer zijn met redenen omkleed, met uitzondering van de beschikkingen die overeenkomstig [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&artikel=33&z=2024-01-01&g=2024-01-01) zijn genomen.
 
 2. Een expeditie van de beschikking wordt aan de bij de overeenkomst of ontwerp-overeenkomst betrokken partijen of belanghebbenden alsmede aan de verzoeker toegezonden. De dag van verzending wordt op de expeditie aangetekend.
 
@@ -333,7 +333,7 @@ De voorzitter en de leden van de grondkamers alsmede hun plaatsvervangers kunnen
 
 5. De griffier zendt een afschrift van het beroepschrift onverwijld aan elk van de wederpartijen of belanghebbenden, als deze er zijn, toe en voegt daarbij een kennisgeving, die de tijd vermeldt waarbinnen een schriftelijk antwoord kan worden ingezonden.
 
-6. Het beroepschrift wordt mondeling ter zitting behandeld, indien de Centrale Grondkamer dit nodig oordeelt, dan wel een van de partijen of belanghebbenden dit verzoekt. Overigens vinden de bepalingen van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=2&z=2019-01-01&g=2019-01-01) en van [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&z=2019-01-01&g=2019-01-01) overeenkomstige toepassing.
+6. Het beroepschrift wordt mondeling ter zitting behandeld, indien de Centrale Grondkamer dit nodig oordeelt, dan wel een van de partijen of belanghebbenden dit verzoekt. Overigens vinden de bepalingen van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=2&z=2024-01-01&g=2024-01-01) en van [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=3&z=2024-01-01&g=2024-01-01) overeenkomstige toepassing.
 
 ##### Artikel 38
 
@@ -351,7 +351,7 @@ De voorzitter en de leden van de grondkamers alsmede hun plaatsvervangers kunnen
 
 1. Onze Minister van Landbouw, Natuur en Voedselkwaliteit kan beroep tegen een beschikking van de grondkamer instellen.
 
-2. Het beroep kan slechts worden ingesteld na verloop van de termijn, genoemd in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=4&artikel=36&z=2019-01-01&g=2019-01-01).
+2. Het beroep kan slechts worden ingesteld na verloop van de termijn, genoemd in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021912&hoofdstuk=2&paragraaf=4&artikel=36&z=2024-01-01&g=2024-01-01).
 
 3. Vernietiging van de beschikking van de grondkamer op dit beroep brengt geen nadeel toe aan de rechten, bij de beschikking verkregen.
 
