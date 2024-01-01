@@ -4,7 +4,7 @@ identifier: "BWBR0032739"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2020-12-25"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032739"
 soort: "wet"
@@ -94,13 +94,13 @@ Het houden, doden of doen doden van een pelsdier is verboden.
 
 ##### Artikel 4
 
-[Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032739&artikel=2&z=2020-12-25&g=2020-12-25) is niet van toepassing op degene bedoeld in [artikel 3, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032739&artikel=3&z=2020-12-25&g=2020-12-25), tot en met de dertiende dag na de datum van inwerkingtreding van de Wet van 16 december 2020 tot wijziging van de Wet verbod pelsdierhouderij in verband met een vervroegde beëindiging van de pelsdierhouderij (Stb. 2020, 555), indien hij:
+[Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032739&artikel=2&z=2024-01-01&g=2024-01-01) is niet van toepassing op degene bedoeld in [artikel 3, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032739&artikel=3&z=2024-01-01&g=2024-01-01), tot en met de dertiende dag na de datum van inwerkingtreding van de Wet van 16 december 2020 tot wijziging van de Wet verbod pelsdierhouderij in verband met een vervroegde beëindiging van de pelsdierhouderij (Stb. 2020, 555), indien hij:
 
-- a. aan de meldingsplicht van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032739&artikel=3&z=2020-12-25&g=2020-12-25) heeft voldaan;
+- a. aan de meldingsplicht van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032739&artikel=3&z=2024-01-01&g=2024-01-01) heeft voldaan;
 
 - b. de nertsen houdt in een huisvestingsplaats;
 
-- c. niet meer nertsen houdt dan het aantal nertsen waarvoor hij een vergunning als bedoeld in [artikel 8.1 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.1) heeft;
+- c. niet meer nertsen houdt dan het aantal nertsen waarvoor hij een omgevingsvergunning voor een milieubelastende activiteit als bedoeld in [artikel 5.1, tweede lid, aanhef en onder b, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1) heeft;
 
 - d. niet meer nertsen houdt dan het aantal huisvestingsplaatsen dat ten behoeve van het houden van die soort nertsen op het tijdstip van melding in de nertsenhouderij beschikbaar was; en
 
@@ -108,17 +108,17 @@ Het houden, doden of doen doden van een pelsdier is verboden.
 
 ##### Artikel 5
 
-1. Met het toezicht op de naleving van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032739&artikel=2&z=2020-12-25&g=2020-12-25), [3, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032739&artikel=3&z=2020-12-25&g=2020-12-25), en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0032739&artikel=4&z=2020-12-25&g=2020-12-25) zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.
+1. Met het toezicht op de naleving van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032739&artikel=2&z=2024-01-01&g=2024-01-01), [3, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032739&artikel=3&z=2024-01-01&g=2024-01-01), en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0032739&artikel=4&z=2024-01-01&g=2024-01-01) zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.
 
 2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
 ##### Artikel 6
 
-Bij ministeriële regeling worden regels gesteld over de melding en de bijzondere omstandigheden als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032739&artikel=3&z=2020-12-25&g=2020-12-25) en[4](https://wetten.overheid.nl/jci1.3:c:BWBR0032739&artikel=4&z=2020-12-25&g=2020-12-25).
+Bij ministeriële regeling worden regels gesteld over de melding en de bijzondere omstandigheden als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032739&artikel=3&z=2024-01-01&g=2024-01-01) en[4](https://wetten.overheid.nl/jci1.3:c:BWBR0032739&artikel=4&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 7
 
-1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over tegemoetkoming in de kosten van sloop of ombouw van gebouwen waarin nertsen beroepsmatig gehouden worden, die als gevolg van het verbod, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032739&artikel=2&z=2020-12-25&g=2020-12-25), hun functie verliezen.
+1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over tegemoetkoming in de kosten van sloop of ombouw van gebouwen waarin nertsen beroepsmatig gehouden worden, die als gevolg van het verbod, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032739&artikel=2&z=2024-01-01&g=2024-01-01), hun functie verliezen.
 
 2. De voordracht voor een krachtens het eerste lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
@@ -136,7 +136,7 @@ Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel 11
 
-Onze Minister is bevoegd degene die op het moment van inwerkingtreding van deze wet nertsen als pelsdier houdt en op 1 januari 2014 55 jaar of ouder is, tegemoetkoming te verlenen bij onbillijkheden van overwegende aard die zich als gevolg van het verbod, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032739&artikel=2&z=2020-12-25&g=2020-12-25), ten aanzien van zijn pensioenvoorziening voordoen.
+Onze Minister is bevoegd degene die op het moment van inwerkingtreding van deze wet nertsen als pelsdier houdt en op 1 januari 2014 55 jaar of ouder is, tegemoetkoming te verlenen bij onbillijkheden van overwegende aard die zich als gevolg van het verbod, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032739&artikel=2&z=2024-01-01&g=2024-01-01), ten aanzien van zijn pensioenvoorziening voordoen.
 
 ##### Artikel 12
 
