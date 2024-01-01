@@ -4,7 +4,7 @@ identifier: "BWBR0037131"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-02"
-last_updated: "2015-10-31"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037131"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **commissie:** Adviescommissie toepassing en gelijkwaardigheid bouwvoorschriften, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037131&artikel=2&z=2015-10-31&g=2015-10-31);
+- a. **commissie:** Adviescommissie toepassing en gelijkwaardigheid bouwvoorschriften, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037131&artikel=2&z=2024-01-01&g=2024-01-01);
 
 - b. **minister:** Minister voor Wonen en Rijksdienst.
 
@@ -54,27 +54,27 @@ Er is een Adviescommissie toepassing en gelijkwaardigheid bouwvoorschriften.
 
 De commissie heeft tot taak te adviseren over:
 
-- a. de gelijkwaardigheid van technische of andere oplossingen ter zake van de technische voorschriften aangaande het bouwen of de staat van bouwwerken gesteld bij of krachtens de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181);
+- a. de gelijkwaardigheid van technische of andere oplossingen ter zake van de technische voorschriften aangaande het bouwen of de staat van bouwwerken gesteld bij of krachtens de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) of ter zake van de regels over bouwactiviteiten of het in stand houden van bouwwerken gesteld bij of krachtens de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885);
 
-- b. de toepassing van de technische voorschriften aangaande het bouwen, gebruiken of de staat van bouwwerken gesteld bij of krachtens de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181), in de in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037131&artikel=4&z=2015-10-31&g=2015-10-31), genoemde gevallen.
+- b. de toepassing van de technische voorschriften aangaande het bouwen, gebruiken of de staat van bouwwerken gesteld bij of krachtens de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) of de regels over bouwactiviteiten of het gebruik en het in stand houden van bouwwerken gesteld bij of krachtens de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), in de in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037131&artikel=4&z=2024-01-01&g=2024-01-01), genoemde gevallen.
 
 ##### Artikel 4
 
 1. De commissie adviseert uitsluitend in geval:
 
-- a. daartoe een verzoek wordt gedaan dat betrekking heeft op de toepassing van technische voorschriften als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037131&artikel=3&z=2015-10-31&g=2015-10-31) in het kader van:
+- a. daartoe een verzoek wordt gedaan dat betrekking heeft op de toepassing van technische voorschriften als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037131&artikel=3&z=2024-01-01&g=2024-01-01) in het kader van:
 
-- 1°. een aanvraag om een omgevingsvergunning voor het bouwen of brandveilig gebruik;
+- 1°. een aanvraag om een omgevingsvergunning voor een bouwactiviteit;
 
-- 2°. een melding brandveilig gebruik;
+- 2°. een gebruiksmelding;
 
-- 3°. aanvullende voorwaarden met betrekking tot een melding brandveilig gebruik, of
+- 3°. aanvullende voorwaarden met betrekking tot een gebruiksmelding, of
 
-- 4°. een handhavingsbesluit ten aanzien van overtredingen van de voorschriften bij of krachtens de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) inzake het bouwen, gebruiken of de staat van bouwwerken, en
+- 4°. een handhavingsbesluit ten aanzien van overtredingen van de voorschriften bij of krachtens de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) inzake het bouwen, gebruiken of de staat van bouwwerken of van de regels over bouwactiviteiten of het gebruik en het in stand houden van bouwwerken gesteld bij of krachtens de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), en
 
 - b. er over de toepassing van die voorschriften verschil van inzicht bestaat tussen:
 
-- 1°. het bevoegde gezag als bedoeld in [artikel 1 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1), en
+- 1°. het bevoegd gezag, en
 
 - 2°. de initiatiefnemer, de aanvrager, de melder, of
 
@@ -94,7 +94,7 @@ De commissie heeft tot taak te adviseren over:
 
 ##### Artikel 5
 
-1. De commissie bestaat uit maximaal negen deskundigen op het terrein van het bouwproces en de technische voorschriften over het bouwen, gebruiken of de staat van bouwwerken, gesteld bij of krachtens [artikel 2 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=2).
+1. De commissie bestaat uit maximaal negen deskundigen op het terrein van het bouwproces en de technische voorschriften over het bouwen, gebruiken of de staat van bouwwerken, gesteld bij of krachtens [artikel 2 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=2) en de regels over bouwactiviteiten en het gebruik en het in stand houden van bouwwerken gesteld bij of krachtens de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885).
 
 2. De commissie is ingedeeld in drie kamers, waarvan een vaste kamer en twee ad hoc kamers.
 
@@ -142,7 +142,7 @@ De commissie heeft tot taak te adviseren over:
 
 ##### Artikel 10
 
-De commissie rapporteert jaarlijks op basis van de adviezen en ervaringen met de praktijk aan de minister over de toepassing van de voorschriften gesteld bij of krachtens de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) aangaande het bouwen, gebruiken en slopen van bouwwerken, de staat van bouwwerken en het uitvoeren van bouw- en sloopwerkzaamheden.
+De commissie rapporteert jaarlijks op basis van de adviezen en ervaringen met de praktijk aan de minister over de toepassing van de voorschriften gesteld bij of krachtens de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) aangaande het bouwen, gebruiken en slopen van bouwwerken, de staat van bouwwerken en het uitvoeren van bouw- en sloopwerkzaamheden en de toepassing van de regels over bouwactiviteiten, sloopactiviteiten en het gebruik en het in stand houden van bouwwerken gesteld bij of krachtens de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885).
 
 ##### Artikel 11
 
