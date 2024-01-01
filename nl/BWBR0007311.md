@@ -4,7 +4,7 @@ identifier: "BWBR0007311"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2021-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007311"
 soort: "AMvB"
@@ -112,13 +112,15 @@ Voor een personenauto of bestelauto die is voorzien van een installatie voor het
 
 - b. de bestelauto uitsluitend wordt gebruikt voor het in [artikel 24a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24a) bedoelde vervoer, alsmede voor het persoonlijk gebruik, gebruik door inwonende gezinsleden daaronder begrepen, van de gehandicapte en, in geval dit een ander is, van de houder van de bestelauto.
 
-3. Indien [artikel 24a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24a) reeds wordt toegepast voor een andere bestelauto ten behoeve van de gehandicapte, wordt in het verzoek vermeld vanaf welke datum de bestelauto waarop het verzoek betrekking heeft die andere bestelauto vervangt voor het in artikel 24a, eerste lid, van de wet bedoelde vervoer.
+3. Indien [artikel 24a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24a) reeds wordt toegepast voor een andere bestelauto ten behoeve van de gehandicapte en die andere bestelauto wordt vervangen, wordt in het verzoek vermeld vanaf welke datum de bestelauto waarop het verzoek betrekking heeft die andere bestelauto vervangt voor het in artikel 24a, eerste lid, van de wet bedoelde vervoer.
 
 4. De beschikking, bedoeld in [artikel 24a, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24a), werkt terug tot op het tijdstip waarop het verzoek is ingediend, tenzij in de beschikking anders is bepaald.
 
 5. Telkens vóór het einde van het vierde opeenvolgende tijdvak, gerekend vanaf het tijdstip waarop de beschikking van kracht is geworden, wordt een verklaring van de gehandicapte en, in geval dit een ander is, de houder overgelegd dat de bestelauto uitsluitend wordt gebruikt voor het in het tweede lid, onderdeel b, bedoelde gebruik en dat de bestelauto niet in een zodanige staat is gebracht, anders dan door een aanpassing als bedoeld in het [artikel 24a, tweede lid,van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24a), dat het een personenauto is.
 
 6. Indien niet langer wordt voldaan aan de voorwaarden en beperkingen voor de toepassing van [artikel 24a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24a), trekt de inspecteur de beschikking in. De intrekking geschiedt bij voor bezwaar vatbare beschikking. Indien degene aan wie de beschikking is verleend niet voldoet aan de verplichting bedoeld in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=17), of artikel 24a, vierde lid, van de wet, wordt de beschikking geacht te zijn vervallen op het tijdstip waarop niet langer aan de voorwaarden en beperkingen van artikel 24a van de wet wordt voldaan.
+
+7. In afwijking van het eerste lid kan [artikel 24a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24a) voor twee bestelauto’s worden toegepast, indien naar het oordeel van de inspecteur in het belang van de gehandicapte redelijkerwijs niet kan worden volstaan met het toepassen van artikel 24a van de wet voor één bestelauto.
 
 ##### Artikel 6
 
@@ -346,13 +348,13 @@ Vrijstelling van belasting voor motorrijtuigen die zijn geregistreerd in het bui
 
 - b. het motorrijtuig blijkens een kilometerregistratie voor ten minste 50% zakelijk buiten Nederland wordt gebruikt; het zakelijk gebruik buiten Nederland wordt per kalenderjaar bepaald, waarbij de afstand die wordt overbrugd van de woonplaats naar de in het buitenland gelegen werkplaats en omgekeerd buiten beschouwing blijft; en
 
-- c. de houder niet een werknemer is als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=25&z=2021-01-01&g=2021-01-01).
+- c. de houder niet een werknemer is als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=25&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 27
 
-1. De vrijstellingen, bedoeld in de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=8&z=2021-01-01&g=2021-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=13&z=2021-01-01&g=2021-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=14&z=2021-01-01&g=2021-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=17&z=2021-01-01&g=2021-01-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=19&z=2021-01-01&g=2021-01-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=21&z=2021-01-01&g=2021-01-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=23&z=2021-01-01&g=2021-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=25&z=2021-01-01&g=2021-01-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=26&z=2021-01-01&g=2021-01-01), worden op verzoek verleend. De vrijstelling, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=12&z=2021-01-01&g=2021-01-01), wordt voor vrachtauto’s en autobussen op verzoek verleend.
+1. De vrijstellingen, bedoeld in de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=8&z=2024-01-01&g=2024-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=13&z=2024-01-01&g=2024-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=14&z=2024-01-01&g=2024-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=17&z=2024-01-01&g=2024-01-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=19&z=2024-01-01&g=2024-01-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=21&z=2024-01-01&g=2024-01-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=23&z=2024-01-01&g=2024-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=25&z=2024-01-01&g=2024-01-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=26&z=2024-01-01&g=2024-01-01), worden op verzoek verleend. De vrijstelling, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=12&z=2024-01-01&g=2024-01-01), wordt voor vrachtauto’s en autobussen op verzoek verleend.
 
-2. Ingeval voor een motorrijtuig een verzoek wordt ingediend om vrijstelling van de belasting van personenauto’s en motorrijwielen ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2) of [artikel 3 van het Uitvoeringsbesluit belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=3), geldt dit verzoek mede als verzoek om toepassing van de vrijstelling ingevolge [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=25&z=2021-01-01&g=2021-01-01) onderscheidenlijk [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=26&z=2021-01-01&g=2021-01-01) van dit besluit.
+2. Ingeval voor een motorrijtuig een verzoek wordt ingediend om vrijstelling van de belasting van personenauto’s en motorrijwielen ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2) of [artikel 3 van het Uitvoeringsbesluit belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=3), geldt dit verzoek mede als verzoek om toepassing van de vrijstelling ingevolge [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=25&z=2024-01-01&g=2024-01-01) onderscheidenlijk [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=26&z=2024-01-01&g=2024-01-01) van dit besluit.
 
 3. Het verzoek wordt bij de inspecteur ingediend vóór de aanvang van het tijdvak, onderscheidenlijk van het gebruik van de weg in Nederland met het motorrijtuig.
 
@@ -398,17 +400,17 @@ Vrijstelling van belasting voor motorrijtuigen die zijn geregistreerd in het bui
 
 ##### Artikel 30
 
-1. Voor motorrijtuigen waarvoor tot 1 april 1995 een vrijstelling van belasting gold op grond van [artikel 9 van de Wet op de motorrijtuigenbelasting 1966](https://wetten.overheid.nl/jci1.3:c:BWBR0002534&artikel=9), en waarvoor op grond van de artikelen 71 tot en met 73 van de wet aanspraak op een vrijstelling kan worden gemaakt, geldt in afwijking van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=27&z=2021-01-01&g=2021-01-01) dat:
+1. Voor motorrijtuigen waarvoor tot 1 april 1995 een vrijstelling van belasting gold op grond van [artikel 9 van de Wet op de motorrijtuigenbelasting 1966](https://wetten.overheid.nl/jci1.3:c:BWBR0002534&artikel=9), en waarvoor op grond van de artikelen 71 tot en met 73 van de wet aanspraak op een vrijstelling kan worden gemaakt, geldt in afwijking van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=27&z=2024-01-01&g=2024-01-01) dat:
 
 - a. indien de vrijstelling onder de voorwaarde van een vergunning van de inspecteur is verleend, het verzoek om vrijstelling wordt ingediend vóór de datum waarop de vergunning afloopt, dan wel, indien de vergunning voor onbepaalde tijd is afgegeven, vóór 1 juli 1995;
 
-- b. indien de vrijstelling niet onder de voorwaarde van een vergunning is verleend, de verklaringen, bedoeld in [artikel 27, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=27&z=2021-01-01&g=2021-01-01), worden overgelegd vóór 1 juli 1995.
+- b. indien de vrijstelling niet onder de voorwaarde van een vergunning is verleend, de verklaringen, bedoeld in [artikel 27, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=27&z=2024-01-01&g=2024-01-01), worden overgelegd vóór 1 juli 1995.
 
 2. In de in het eerste lid genoemde gevallen wordt de vrijstelling geacht te zijn verleend op grond van de wet tot de in het eerste lid genoemde tijdstippen.
 
 ##### Artikel 31
 
-1. Het Uitvoeringsbesluit motorrijtuigenbelasting 1966 wordt ingetrokken, met dien verstande dat het van toepassing blijft voor de gevallen bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=V&artikel=30&z=2021-01-01&g=2021-01-01).
+1. Het Uitvoeringsbesluit motorrijtuigenbelasting 1966 wordt ingetrokken, met dien verstande dat het van toepassing blijft voor de gevallen bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=V&artikel=30&z=2024-01-01&g=2024-01-01).
 
 2. Het Besluit tot vrijstelling van motorrijtuigenbelasting voor buitenlanders wordt ingetrokken.
 
@@ -556,9 +558,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 1. [Artikel 23a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=23a) vindt toepassing indien:
 
-- a. de personenauto een ruimte heeft, gesitueerd achter de in de achterste stand geplaatste zitplaatsen voor de bestuurder en de bijrijder, die een rechthoekig blok kan bevatten van ten minste 170 cm hoogte over een lengte van ten minste 200 cm en over een breedte van ten minste 90 cm;
+- a. de personenauto een binnenruimte heeft, gesitueerd achter de in de achterste stand geplaatste zitplaatsen voor de bestuurder en de bijrijder, die een rechthoekig blok kan bevatten van ten minste 170 cm hoogte over een lengte van ten minste 200 cm en over een breedte van ten minste 90 cm;
 
-- b. de personenauto is voorzien van:
+- b. de binnenruimte is voorzien van:
 
 - –. minimaal twee vaste zitplaatsen, eventueel in de vorm van draaibare zitplaatsen voor de bestuurder en de bijrijder;
 
@@ -578,7 +580,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 2. In afwijking van het eerste lid vindt [artikel 23a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=23a) mede toepassing, indien de binnenruimte van de personenauto geen hoogte van 170 cm maar wel van ten minste 130 cm heeft, en het dak is voorzien van een al dan niet uitklapbare, permanent aangebrachte gesloten dakconstructie waardoor de hoogte over een breedte van ten minste 90 cm en een lengte van ten minste 100 cm verhoogd kan worden tot ten minste 170 cm.
 
-3. Indien aan de binnenkant van de in het eerste en tweede lid bedoelde ruimte materialen zijn aangebracht tegen de wanden, de vloer of het plafond, wordt voor de beoordeling van de vraag of wordt voldaan aan de in het eerste en tweede lid genoemde maten uitgegaan van de aldus verkleinde ruimte.
+3. Indien aan de binnenkant van de in het eerste en tweede lid bedoelde binnenruimte materialen zijn aangebracht tegen de wanden, de vloer of het plafond, wordt voor de beoordeling van de vraag of wordt voldaan aan de in het eerste en tweede lid genoemde maten uitgegaan van de aldus verkleinde binnenruimte.
 
 4. De toepassing van [artikel 23a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=23a) vindt plaats op verzoek.
 
