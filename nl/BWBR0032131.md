@@ -4,7 +4,7 @@ identifier: "BWBR0032131"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2013-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032131"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-Degene die de stortplaats drijft, verstrekt bij een verzoek als bedoeld in [artikel 6, eerste lid, van het Besluit stortplaatsen en stortverboden afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&artikel=6) de volgende gegevens aan gedeputeerde staten:
+Degene die de stortplaats exploiteert, verstrekt bij een verzoek als bedoeld in [artikel 6, eerste lid, van het Besluit stortplaatsen en stortverboden afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&artikel=6) de volgende gegevens aan gedeputeerde staten:
 
 - a. de categorie van afvalstoffen of deel van deze categorie en de bijbehorende euralcodes waarvoor geen andere wijze van afvalbeheer mogelijk is dan storten;
 
@@ -64,7 +64,7 @@ Degene die de stortplaats drijft, verstrekt bij een verzoek als bedoeld in [arti
 
 ##### Artikel 2
 
-Degene die de stortplaats drijft en, met toepassing van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&artikel=5) of [6 van het Besluit stortplaatsen en stortverboden afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&artikel=6), afvalstoffen heeft gestort, doet daarvan aan het eind van het kalenderkwartaal opgave aan de Minister van Infrastructuur en Milieu onder vermelding van de hoeveelheid afvalstoffen in dat kwartaal per categorie van afvalstoffen genoemd in [artikel 1, eerste lid, van het Besluit stortplaatsen en stortverboden afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&artikel=1).
+Degene die de stortplaats exploiteert en, met toepassing van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&artikel=5) of [6 van het Besluit stortplaatsen en stortverboden afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&artikel=6), afvalstoffen heeft gestort, doet daarvan aan het eind van het kalenderkwartaal opgave aan de Minister van Infrastructuur en Milieu onder vermelding van de hoeveelheid afvalstoffen in dat kwartaal per categorie van afvalstoffen genoemd in [artikel 1, eerste lid, van het Besluit stortplaatsen en stortverboden afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&artikel=1).
 
 ##### Artikel 3
 
