@@ -4,7 +4,7 @@ identifier: "BWBR0038279"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2016-07-16"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038279"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-[Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0038279&bijlage=I&z=2016-07-16&g=2016-07-16), bij dit besluit, wordt vastgesteld als kader ter bevordering van de eenheid, de kwaliteit en de efficiëntie van huisvesting door de ministeries.
+[Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0038279&bijlage=I&z=2024-01-01&g=2024-01-01), bij dit besluit, wordt vastgesteld als kader ter bevordering van de eenheid, de kwaliteit en de efficiëntie van huisvesting door de ministeries.
 
 ##### Artikel 2
 
@@ -262,7 +262,7 @@ Stap 7: DGOO richt de beleidscontrol op elk kader in.
 
 Stap 8: Het RVB, de departementen en in voorkomende gevallen de CDV’s leveren gevraagde gegevens aan, zodat de beleidscontrol kan plaatsvinden.
 
-Andere departementen kunnen vanuit hun beleidsinhoudelijke taak ook kaders stellen die doorwerking hebben in de rijkshuisvesting. Denk aan het bouwbesluit, monumentenbeleid, PPS-beleid, enz.
+Andere departementen kunnen vanuit hun beleidsinhoudelijke taak ook kaders stellen die doorwerking hebben in de rijkshuisvesting. Denk aan het [Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297), monumentenbeleid, PPS-beleid, enz.
 
 In praktijk zien we dat het Rijksvastgoedbedrijf zelf uitvoeringskaders op niet-strategisch niveau stelt.
 
