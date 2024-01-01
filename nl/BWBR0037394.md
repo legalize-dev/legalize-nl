@@ -4,7 +4,7 @@ identifier: "BWBR0037394"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2021-10-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037394"
 soort: "ministeriele-regeling"
@@ -66,7 +66,7 @@ Treedt in werking op het tijdstip waarop de Wet taken meteorologie en seismologi
 
 ##### Artikel 2
 
-De [hoofdstukken 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037394&hoofdstuk=3&z=2021-10-01&g=2021-10-01) zijn niet van toepassing in de openbare lichamen.
+De [hoofdstukken 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037394&hoofdstuk=3&z=2024-01-01&g=2024-01-01) zijn niet van toepassing in de openbare lichamen.
 
 ### Hoofdstuk 2. Internationale samenwerking
 
@@ -228,11 +228,11 @@ Tot de internationale organisaties, bedoeld in [artikel 3, eerste lid, onderdeel
 
 1. Bestuursorganen nemen tevens de ondersteuning af bij het KNMI:
 
-- a. zodra te verwachten is dat een alarmeringspeil wordt overschreden of deze daadwerkelijk wordt overschreden als bedoeld in [artikel 3.3, eerste lid, onderdeel b, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=3.3);
+- a. zodra te verwachten is dat een alarmeringspeil wordt overschreden of deze daadwerkelijk wordt overschreden als bedoeld in [artikel 19.10, derde lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=19.10);
 
 - b. indien sprake is van waterschaarste of dreigende waterschaarste;
 
-- c. indien sprake is van gevaar als bedoeld in [artikel 5.28, eerste lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=5.28), en het weer daarbij een belangrijke rol speelt.
+- c. indien sprake is van gevaar als bedoeld in [artikel 19.13, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=19.13), en het weer daarbij een belangrijke rol speelt.
 
 2. Het KNMI waarschuwt desgevraagd deze bestuursorganen over het weer in de gevallen, bedoeld in het eerste lid.
 
@@ -282,7 +282,7 @@ Tot de internationale organisaties, bedoeld in [artikel 3, eerste lid, onderdeel
 
 3. Voor de dienstverlening, bedoeld in het eerste lid, worden de kosten ten minste integraal doorberekend, met uitzondering van:
 
-- a. kosten voor diensten aan bestuursorganen, bedoeld in het eerste lid, onderdeel e, onder 1°, indien er sprake is van één of meer situaties als bedoeld in de [artikelen 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037394&hoofdstuk=4&artikel=6&z=2021-10-01&g=2021-10-01), [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037394&hoofdstuk=4&artikel=7&z=2021-10-01&g=2021-10-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0037394&hoofdstuk=5&artikel=8&z=2021-10-01&g=2021-10-01) of [9](https://wetten.overheid.nl/jci1.3:c:BWBR0037394&hoofdstuk=5&artikel=9&z=2021-10-01&g=2021-10-01);
+- a. kosten voor diensten aan bestuursorganen, bedoeld in het eerste lid, onderdeel e, onder 1°, indien er sprake is van één of meer situaties als bedoeld in de [artikelen 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037394&hoofdstuk=4&artikel=6&z=2024-01-01&g=2024-01-01), [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037394&hoofdstuk=4&artikel=7&z=2024-01-01&g=2024-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0037394&hoofdstuk=5&artikel=8&z=2024-01-01&g=2024-01-01) of [9](https://wetten.overheid.nl/jci1.3:c:BWBR0037394&hoofdstuk=5&artikel=9&z=2024-01-01&g=2024-01-01);
 
 - b. kosten voor diensten die worden verleend aan een openbaar lichaam.
 
