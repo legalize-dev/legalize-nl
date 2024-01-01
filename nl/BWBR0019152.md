@@ -4,7 +4,7 @@ identifier: "BWBR0019152"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2021-07-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019152"
 soort: "AMvB"
@@ -78,9 +78,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3. Geen subsidie en voorzieningen bij geringe kosten
 
-1. Een subsidie als bedoeld in [artikel 36 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=36) wordt niet verstrekt indien de kosten, bedoeld in dat artikel, minder bedragen dan 1,85 maal het minimumloon per dag, bedoeld in [artikel 8, eerste lid, onderdeel c, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8), zoals laatstgenoemd artikel luidde op 1 januari van het kalenderjaar waarin de kosten zijn gemaakt.
+1. Een subsidie als bedoeld in [artikel 36 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=36) wordt niet verstrekt indien de kosten, bedoeld in dat artikel, minder bedragen dan 1,85 maal het minimumloon, bedoeld in [artikel 8, eerste lid, onderdeel b, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8), zoals dat artikel luidde op 1 januari van het kalenderjaar waarin de kosten zijn gemaakt, gedeeld door 21,75.
 
-2. Indien de gezamenlijke waarde van voorzieningen waarvoor in een kalenderjaar een subsidie is aangevraagd als bedoeld in [artikel 36 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=36), een bedrag ter hoogte van 1,85 maal het minimumloon per dag, bedoeld in [artikel 8, eerste lid, onderdeel c, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) overtreft, kan het UWV de werkgever subsidie verstrekken ter hoogte van die gezamenlijke waarde.
+2. Indien de gezamenlijke waarde van voorzieningen waarvoor in een kalenderjaar een subsidie is aangevraagd als bedoeld in [artikel 36 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=36), een bedrag ter hoogte van 1,85 maal het minimumloon, bedoeld in [artikel 8, eerste lid, onderdeel b, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8), gedeeld door 21,75, overtreft, kan het UWV de werkgever subsidie verstrekken ter hoogte van die gezamenlijke waarde.
 
 3. Dit artikel is van overeenkomstige toepassing op de verlening van voorzieningen als bedoeld in de [artikelen 34a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=34a), en [35 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35) en [artikel 2:23, eerste lid, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:23).
 
@@ -192,7 +192,7 @@ Een voorziening als bedoeld in de [artikelen 34a, eerste lid](https://wetten.ove
 
 - d. de persoon voor wie subsidie wordt gevraagd daarvan op de hoogte is en schriftelijk instemt met de persoonlijke ondersteuning door de werkgever; en
 
-- e. de persoon voor wie subsidie wordt gevraagd geen persoonlijke ondersteuning krijgt, als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=6&artikel=18&z=2021-07-01&g=2021-07-01).
+- e. de persoon voor wie subsidie wordt gevraagd geen persoonlijke ondersteuning krijgt, als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=6&artikel=18&z=2024-01-01&g=2024-01-01).
 
 2. De persoonlijke ondersteuning kan in het eerste jaar, tweede jaar en de daarop volgende jaren van verlening worden verleend voor een aantal uren dat correspondeert met respectievelijk 15%, 7,5% en 6% van het aantal uren per kalenderjaar dat de, aan de in [artikel 35, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35) en [artikel 2:22, eerste lid, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:22) bedoelde persoon opgedragen taken in beslag neemt.
 
@@ -206,13 +206,13 @@ Een voorziening als bedoeld in de [artikelen 34a, eerste lid](https://wetten.ove
 
 2. Het UWV kan aan een persoon als bedoeld in het eerste lid op aanvraag vervoersvoorzieningen verlenen die strekken tot verbetering van zijn leefomstandigheden en die deel uitmaken van dan wel rechtstreeks samenhangen met voorzieningen als bedoeld in het eerste lid.
 
-3. Op de verlening en beëindiging van voorzieningen als bedoeld in het eerste en tweede lid zijn de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=2&artikel=5&z=2021-07-01&g=2021-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=2&artikel=6&z=2021-07-01&g=2021-07-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=2&artikel=8&z=2021-07-01&g=2021-07-01) van overeenkomstige toepassing.
+3. Op de verlening en beëindiging van voorzieningen als bedoeld in het eerste en tweede lid zijn de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=2&artikel=5&z=2024-01-01&g=2024-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=2&artikel=6&z=2024-01-01&g=2024-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 14. Intermediaire voorzieningen bij inschakeling in en ondersteuning bij arbeid als zelfstandige
 
 1. Het UWV kan op aanvraag ten behoeve van een persoon als bedoeld in [artikel 34a, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=34a) en [artikel 2:23, eerste lid, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:23) met een auditieve, visuele of motorische handicap intermediaire activiteiten verlenen.
 
-2. [Artikel 7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=2&artikel=7&z=2021-07-01&g=2021-07-01), is van overeenkomstige toepassing op het eerste lid.
+2. [Artikel 7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=2&artikel=7&z=2024-01-01&g=2024-01-01), is van overeenkomstige toepassing op het eerste lid.
 
 ##### Artikel 15. Starterskrediet en begeleiding bij inschakeling in en ondersteuning bij arbeid als zelfstandige
 
@@ -258,7 +258,7 @@ van het verschil tussen het bedrag van de arbeidsongeschiktheidsuitkering die zo
 
 - a. het inkomen uit bedrijf of beroep,
 
-- b. de inkomenssuppletie, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=5&artikel=17&z=2021-07-01&g=2021-07-01),
+- b. de inkomenssuppletie, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=5&artikel=17&z=2024-01-01&g=2024-01-01),
 
 - c. een uitkering op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) of een daarmee naar aard en strekking overeenkomende uitkering,
 
@@ -290,7 +290,7 @@ van het verschil tussen het bedrag van de arbeidsongeschiktheidsuitkering die zo
 
 - a. het loon,
 
-- b. de loonsuppletie, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=5&artikel=16&z=2021-07-01&g=2021-07-01),
+- b. de loonsuppletie, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=5&artikel=16&z=2024-01-01&g=2024-01-01),
 
 - c. een uitkering op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) of een daarmee naar aard en strekking overeenkomende uitkering,
 
@@ -316,7 +316,7 @@ niet meer dan het voor betrokkene vastgestelde maatmaninkomen, bedoeld in [artik
 
 - c. de persoonlijke ondersteuning wordt gegeven door een persoon die verbonden is aan een door het UWV erkende rechtspersoon die tot doel heeft diensten te verlenen die kunnen worden aangemerkt als persoonlijke ondersteuning als bedoeld in onderdeel a; en
 
-- d. de in [artikel 35, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35) en [artikel 2:22, eerste lid, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:22) bedoelde persoon niet heeft ingestemd met persoonlijke ondersteuning door de werkgever, als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=3&artikel=12&z=2021-07-01&g=2021-07-01).
+- d. de in [artikel 35, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35) en [artikel 2:22, eerste lid, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:22) bedoelde persoon niet heeft ingestemd met persoonlijke ondersteuning door de werkgever, als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=3&artikel=12&z=2024-01-01&g=2024-01-01).
 
 3. De persoonlijke ondersteuning kan in het eerste jaar, tweede jaar en de daarop volgende jaren van verlening worden verleend voor een aantal uren dat correspondeert met respectievelijk 15%, 7,5% en 6% van het aantal uren per kalenderjaar dat de, aan de in [artikel 35, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35) en [artikel 2:22, eerste lid, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:22) bedoelde bedoelde persoon opgedragen taken in beslag neemt.
 
@@ -334,7 +334,7 @@ Indien ten aanzien van een werknemer als bedoeld in de [artikelen 29b](https://w
 
 ##### Artikel 21. Overgangsbepaling hoortoestellen
 
-[Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=1&artikel=2&z=2021-07-01&g=2021-07-01), zoals dat luidde voor de inwerkingtreding van het Besluit van 12 december 2012, tot wijziging van het Reïntegratiebesluit in verband met het uitsluiten van de verstrekking van hulpmiddelen gerelateerd aan stoornissen in de hoorfunctie (Stb. 656) blijft van toepassing op de verlening van een voorziening in de vorm van een uitwendig hulpmiddel gerelateerd aan stoornissen in de hoorfunctie, indien deze is aangevraagd voor de dag van inwerkingtreding van dat besluit.
+[Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=1&artikel=2&z=2024-01-01&g=2024-01-01), zoals dat luidde voor de inwerkingtreding van het Besluit van 12 december 2012, tot wijziging van het Reïntegratiebesluit in verband met het uitsluiten van de verstrekking van hulpmiddelen gerelateerd aan stoornissen in de hoorfunctie (Stb. 656) blijft van toepassing op de verlening van een voorziening in de vorm van een uitwendig hulpmiddel gerelateerd aan stoornissen in de hoorfunctie, indien deze is aangevraagd voor de dag van inwerkingtreding van dat besluit.
 
 ##### Artikel 22. Inwerkingtreding
 
@@ -350,7 +350,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 1. Het UWV kan op aanvraag van een persoon als bedoeld in [artikel 34a, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=34a) en [artikel 2:23, eerste lid, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:23) voorzieningen verstrekken ten behoeve van de inrichting van de arbeidsplaats, de productie- en werkmethoden en de bij de arbeid te gebruiken hulpmiddelen, die in overwegende mate op het individu van de aanvrager zijn afgestemd.
 
-2. Op de verlening van voorzieningen, bedoeld in het eerste lid, zijn [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=2&artikel=8&z=2021-07-01&g=2021-07-01), en [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=3&artikel=10&z=2021-07-01&g=2021-07-01) van overeenkomstige toepassing.
+2. Op de verlening van voorzieningen, bedoeld in het eerste lid, zijn [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01), en [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=3&artikel=10&z=2024-01-01&g=2024-01-01) van overeenkomstige toepassing.
 
 #### Paragraaf 5. Loon- en inkomenssuppletie
 
@@ -372,7 +372,7 @@ Dit besluit berust op [artikel 10g van de Participatiewet](https://wetten.overhe
 
 ##### Artikel 15b. Inkomenstoets bij inschakeling in en ondersteuning bij arbeid als zelfstandige
 
-1. Voorzieningen als bedoeld in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=4&artikel=14&z=2021-07-01&g=2021-07-01) en [15a](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=4&artikel=15a&z=2021-07-01&g=2021-07-01) worden niet verleend of worden beëindigd, indien het inkomen van de persoon die de voorziening aanvraagt of aan wie de voorziening is verleend, in het vierde kalenderjaar dan wel een daarop volgend jaar, na de aanvang van de arbeid als zelfstandige, meer bedraagt dan 261 maal 157% van het bedrag, bedoeld in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=17) met betrekking tot een loontijdvak van een dag.
+1. Voorzieningen als bedoeld in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=4&artikel=14&z=2024-01-01&g=2024-01-01) en [15a](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=4&artikel=15a&z=2024-01-01&g=2024-01-01) worden niet verleend of worden beëindigd, indien het inkomen van de persoon die de voorziening aanvraagt of aan wie de voorziening is verleend, in het vierde kalenderjaar dan wel een daarop volgend jaar, na de aanvang van de arbeid als zelfstandige, meer bedraagt dan 261 maal 157% van het bedrag, bedoeld in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=17) met betrekking tot een loontijdvak van een dag.
 
 2. Indien het inkomen van de persoon, bedoeld in het eerste lid, in betekenende mate aan fluctuaties onderhevig is, wordt voor de toepassing van dat artikellid de som van het inkomen over het in dat artikellid bedoelde kalenderjaar en het inkomen over de twee daaraan voorafgaande kalenderjaren gedeeld door drie.
 
@@ -380,7 +380,7 @@ Dit besluit berust op [artikel 10g van de Participatiewet](https://wetten.overhe
 
 4. Beëindiging van de voorziening wegens overschrijding van de inkomensgrens, bedoeld in het eerste lid, vindt plaats met ingang van de datum gelegen zes maanden nadat de persoon aan wie de voorziening is verleend van de voorgenomen beëindiging in kennis is gesteld.
 
-5. Dit artikel is van overeenkomstige toepassing ten aanzien van vervoersvoorzieningen ten aanzien waarvan op grond van [artikel 5, vierde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=2&artikel=5&z=2021-07-01&g=2021-07-01), is bepaald dat artikel 5, eerste lid, daarop niet van toepassing is.
+5. Dit artikel is van overeenkomstige toepassing ten aanzien van vervoersvoorzieningen ten aanzien waarvan op grond van [artikel 5, vierde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=2&artikel=5&z=2024-01-01&g=2024-01-01), is bepaald dat artikel 5, eerste lid, daarop niet van toepassing is.
 
 #### Paragraaf 6. Overige instrumenten
 
@@ -400,11 +400,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. De tolkvoorziening wordt toegekend indien de persoon een verklaring heeft van de huisarts of behandelend medisch specialist waaruit blijkt dat deze persoon op tolkvoorzieningen is aangewezen. Deze verklaring wordt eenmalig door het UWV gevraagd.
 
-4. Bij de uitvoering van [artikel 10g van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10g) kan het UWV gebruik maken van de verklaringen omtrent de auditieve handicap van de persoon, die het UWV heeft verkregen voor de uitvoering van de aanspraken op tolkvoorzieningen op grond van de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) en de [Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458), of voor de verlening van een intermediaire activiteit ten behoeve van die persoon op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=2&artikel=7&z=2021-07-01&g=2021-07-01) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=4&artikel=14&z=2021-07-01&g=2021-07-01).
+4. Bij de uitvoering van [artikel 10g van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10g) kan het UWV gebruik maken van de verklaringen omtrent de auditieve handicap van de persoon, die het UWV heeft verkregen voor de uitvoering van de aanspraken op tolkvoorzieningen op grond van de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) en de [Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458), of voor de verlening van een intermediaire activiteit ten behoeve van die persoon op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=2&artikel=7&z=2024-01-01&g=2024-01-01) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=4&artikel=14&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 7b. Kwaliteitseis van de tolk
 
-De activiteiten van tolken kunnen alleen als tolkvoorziening als bedoeld in [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=2&artikel=7&z=2021-07-01&g=2021-07-01), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=2&artikel=7a&z=2021-07-01&g=2021-07-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=4&artikel=14&z=2021-07-01&g=2021-07-01) worden toegekend als de tolken staan ingeschreven in het openbaar register van de Stichting Register Tolken Gebarentaal en Schrijftolken.
+De activiteiten van tolken kunnen alleen als tolkvoorziening als bedoeld in [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=2&artikel=7&z=2024-01-01&g=2024-01-01), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=2&artikel=7a&z=2024-01-01&g=2024-01-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&paragraaf=4&artikel=14&z=2024-01-01&g=2024-01-01) worden toegekend als de tolken staan ingeschreven in het openbaar register van de Stichting Register Tolken Gebarentaal en Schrijftolken.
 
 #### Paragraaf 3. Subsidieregeling werkgevers
 
