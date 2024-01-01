@@ -4,7 +4,7 @@ identifier: "BWBR0025040"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-24"
-last_updated: "2018-07-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025040"
 soort: "ministeriele-regeling"
@@ -72,7 +72,7 @@ De NPO dient het concessiebeleidsplan in vóór 1 november van het tweede kalend
 
 ##### Artikel 4. Inrichting aanvraag erkenning
 
-1. Een aanvraag als bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.1&artikel=3&z=2018-07-01&g=2018-07-01), bevat:
+1. Een aanvraag als bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.1&artikel=3&z=2024-01-01&g=2024-01-01), bevat:
 
 - a. voor zover beschikbaar de opgave van het door het Commissariaat vastgestelde aantal leden van de omroepverenigingen, bedoeld in [artikel 2.27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.27);
 
@@ -128,7 +128,7 @@ Als een aangewezen regionale of lokale publieke media-instelling voor een aanslu
 
 ##### Artikel 8. Afwijken van adviseringsprocedure
 
-Het Commissariaat kan in bijzondere gevallen afwijken van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.1&artikel=6&z=2018-07-01&g=2018-07-01).
+Het Commissariaat kan in bijzondere gevallen afwijken van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.1&artikel=6&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 9. Intrekken aanwijzing
 
@@ -244,7 +244,7 @@ Het percentage, bedoeld in [artikel 8.8, eerste lid, onderdeel a, van de wet](ht
 
 1. Het Stimuleringsfonds bevestigt de ontvangst van een aanvraag.
 
-2. Als bij de aanvraag gegevens als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=5&paragraaf=5.2&artikel=20&z=2018-07-01&g=2018-07-01) niet kunnen worden ingediend, blijkt uit de aanvraag waarom.
+2. Als bij de aanvraag gegevens als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=5&paragraaf=5.2&artikel=20&z=2024-01-01&g=2024-01-01) niet kunnen worden ingediend, blijkt uit de aanvraag waarom.
 
 ##### Artikel 22. Subsidieverlening
 
@@ -278,7 +278,7 @@ Het Stimuleringsfonds kan een subsidieverlening intrekken en verstrekte voorscho
 
 ##### Artikel 26
 
-In afwijking van [artikel 9c](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.1b&artikel=9c&z=2018-07-01&g=2018-07-01) dient de RPO het concessiebeleidsplan RPO in 2017 in vóór 1 juli.
+In afwijking van [artikel 9c](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.1b&artikel=9c&z=2024-01-01&g=2024-01-01) dient de RPO het concessiebeleidsplan RPO in 2017 in vóór 1 juli.
 
 ##### Artikel 27. Inwerkingtreding
 
@@ -304,7 +304,7 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 
 ##### Artikel 3a. Inrichting aanvraag erkenning
 
-1. Een aanvraag als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.1&artikel=3&z=2018-07-01&g=2018-07-01), bevat voor zover beschikbaar de opgave van het door het Commissariaat vastgestelde aantal leden van de omroepvereniging.
+1. Een aanvraag als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.1&artikel=3&z=2024-01-01&g=2024-01-01), bevat voor zover beschikbaar de opgave van het door het Commissariaat vastgestelde aantal leden van de omroepvereniging.
 
 2. Een aanvraag gaat vergezeld van vier kopieën.
 
@@ -402,7 +402,9 @@ Een commerciële media-instelling is per toestemming voor het verzorgen van een 
 
 * Voor de toepassing van de tabel wordt onder ‘aantal huishoudens’ verstaan: het aantal huishoudens dat een televisieomroepdienst technisch in Nederland kan ontvangen.
 
-### Artikel 3. Kabelkranten
+### Artikel 1. Televisieomroepdiensten
+
+Een commerciële media-instelling is per toestemming voor het verzorgen van een televisieomroepdienst jaarlijks aan het Commissariaat een bijdrage in de toezichtskosten verschuldigd volgens de onderstaande tabellen in euro’s:
 
 * Voor de toepassing van de tabel wordt onder ‘aantal huishoudens’ verstaan: het aantal huishoudens dat een televisieomroepdienst technisch in Nederland kan ontvangen.
 
@@ -410,27 +412,25 @@ Een commerciële media-instelling is per toestemming voor het verzorgen van een 
 
 *** Voor de toepassing van de tabel wordt onder ‘uitzenduren’ verstaan: de gemiddelde duur van het verzorgde programma-aanbod per dag in het desbetreffende kalenderjaar.
 
-* Voor de toepassing van de tabel wordt onder ‘marktaandeel’ verstaan: het percentage kijkers naar de televisieomroepdienst, gepercenteerd op het totale kijkerspubliek binnen de doelgroep. Als een televisieomroepdienst zich op meerdere landen richt, is het hoogste marktaandeel in één land van toepassing.
-
 ### Artikel 4. Edities
 
-* Voor de toepassing van de tabel wordt onder ‘aantal huishoudens’ verstaan: het aantal huishoudens dat een radio-omroepdienst technisch in Nederland kan ontvangen.
+** Voor de toepassing van de tabel wordt onder ‘uitzenduren’ verstaan: de gemiddelde duur van het verzorgde programma-aanbod per dag in het desbetreffende kalenderjaar.
 
 Een commerciële media-instelling is per toestemming voor het verzorgen van een radio-omroepdienst jaarlijks aan het Commissariaat een bijdrage in de toezichtskosten verschuldigd volgens de onderstaande tabellen in euro’s:
 
 ### Artikel 5. Evenredige vaststelling
 
-** Voor de toepassing van de tabel wordt onder ‘uitzenduren’ verstaan: de gemiddelde duur van het verzorgde programma-aanbod per dag in het desbetreffende kalenderjaar.
+* Voor de toepassing van de tabel wordt onder ‘aantal huishoudens’ verstaan: het aantal huishoudens dat een radio-omroepdienst technisch in Nederland kan ontvangen.
 
 ### Artikel 3. Kabelkranten
 
 ### Artikel 7. Mediadiensten op aanvraag
 
-* Voor de toepassing van de tabel wordt onder ‘aantal huishoudens’ verstaan: het aantal huishoudens dat een radio-omroepdienst technisch in Nederland kan ontvangen.
+* Voor de toepassing van de tabel wordt onder ‘uitzenduren’ verstaan: de gemiddelde duur van het verzorgde programma-aanbod per dag in het desbetreffende kalenderjaar.
 
-### Artikel 8. Indexering
+### Artikel 3. Kabelkranten
 
-* Voor de toepassing van de tabel wordt onder ‘aantal huishoudens’ verstaan: het aantal huishoudens dat een radio-omroepdienst technisch in Nederland kan ontvangen.
+Een commerciële media-instelling is per toestemming voor het verzorgen van een televisieomroepdienst die bestaat uit het veelvuldig en aaneensluitend herhalen van programma-aanbod dat uitsluitend of vrijwel uitsluitend bestaat uit stilstaande beelden jaarlijks aan het Commissariaat een bijdrage in de toezichtskosten verschuldigd volgens de onderstaande tabellen in euro’s:
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
@@ -444,7 +444,7 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 
 ##### Artikel 9b. Begroting
 
-1. Een regionale publieke media-instelling volgt voor het opstellen van de begroting het model dat als [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&bijlage=II&z=2018-07-01&g=2018-07-01) bij deze regeling is gevoegd.
+1. Een regionale publieke media-instelling volgt voor het opstellen van de begroting het model dat als [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&bijlage=II&z=2024-01-01&g=2024-01-01) bij deze regeling is gevoegd.
 
 2. De begroting bevat in elk geval:
 
@@ -496,15 +496,15 @@ Een commerciële media-instelling is per toestemming voor het verzorgen van een 
 
 ### Artikel 2. Radio-omroepdiensten
 
-** Voor de toepassing van de tabel wordt onder ‘uitzenduren’ verstaan: de gemiddelde duur van het verzorgde programma-aanbod per dag in het desbetreffende kalenderjaar.
+* Voor de toepassing van de tabel wordt onder ‘marktaandeel’ verstaan: het percentage kijkers naar de televisieomroepdienst, gepercenteerd op het totale kijkerspubliek binnen de doelgroep. Als een televisieomroepdienst zich op meerdere landen richt, is het hoogste marktaandeel in één land van toepassing.
 
-* Voor de toepassing van de tabel wordt onder ‘aantal huishoudens’ verstaan: het aantal huishoudens dat een radio-omroepdienst technisch in Nederland kan ontvangen.
+Een commerciële media-instelling is per toestemming voor het verzorgen van een radio-omroepdienst jaarlijks aan het Commissariaat een bijdrage in de toezichtskosten verschuldigd volgens de onderstaande tabellen in euro’s:
 
 ### Artikel 3. Kabelkranten
 
-**Tabel 4.** Toezichtskosten radio-omroepdiensten die zich uitsluitend of in overwegende mate op het buitenland richten
+** Voor de toepassing van de tabel wordt onder ‘uitzenduren’ verstaan: de gemiddelde duur van het verzorgde programma-aanbod per dag in het desbetreffende kalenderjaar.
 
-* Voor de toepassing van de tabel wordt onder ‘uitzenduren’ verstaan: de gemiddelde duur van het verzorgde programma-aanbod per dag in het desbetreffende kalenderjaar.
+**Tabel 4.** Toezichtskosten radio-omroepdiensten die zich uitsluitend of in overwegende mate op het buitenland richten
 
 ### Artikel 3. Kabelkranten
 
@@ -514,7 +514,7 @@ Een commerciële media-instelling is per toestemming voor het verzorgen van een 
 
 ### Artikel 4. Edities
 
-* Voor de toepassing van de tabel wordt onder ‘uitzenduren’ verstaan: de gemiddelde duur van het verzorgde programma-aanbod per dag in het desbetreffende kalenderjaar.
+** Voor de toepassing van de tabel wordt onder ‘uitzenduren’ verstaan: de gemiddelde duur van het verzorgde programma-aanbod per dag in het desbetreffende kalenderjaar.
 
 ### Artikel 4. Edities
 
@@ -590,7 +590,7 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 
 1. Een experimentele nevenactiviteit is in duur beperkt tot een looptijd van ten hoogste een jaar.
 
-2. Eenmalige verlenging met ten hoogste een jaar is mogelijk, mits de nevenactiviteit zonder substantiële wijzigingen wordt voortgezet en de verlenging voor afloop van de oorspronkelijke looptijd wordt gemeld bij het Commissariaat. [Artikel 11a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.3&artikel=11a&z=2018-07-01&g=2018-07-01), is van toepassing.
+2. Eenmalige verlenging met ten hoogste een jaar is mogelijk, mits de nevenactiviteit zonder substantiële wijzigingen wordt voortgezet en de verlenging voor afloop van de oorspronkelijke looptijd wordt gemeld bij het Commissariaat. [Artikel 11a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.3&artikel=11a&z=2024-01-01&g=2024-01-01), is van toepassing.
 
 3. Een nevenactiviteit die naar zijn aard nagenoeg identiek is aan een eerder bij wijze van experiment uitgevoerde nevenactiviteit kan niet opnieuw als experimentele nevenactiviteit verricht worden binnen een jaar na afloop van de eerder uitgevoerde nevenactiviteit.
 
@@ -642,7 +642,7 @@ Als binnen de maximale looptijd van een experimentele nevenactiviteit voor die n
 
 ### Artikel 2. Radio-omroepdiensten
 
-** Voor de toepassing van de tabel wordt onder ‘uitzenduren’ verstaan: de gemiddelde duur van het verzorgde programma-aanbod per dag in het desbetreffende kalenderjaar.
+* Voor de toepassing van de tabel wordt onder ‘aantal huishoudens’ verstaan: het aantal huishoudens dat een radio-omroepdienst technisch in Nederland kan ontvangen.
 
 ### Artikel 6. Omroepdiensten uitsluitend via open internet
 
@@ -716,17 +716,17 @@ Het Commissariaat dient jaarlijks vóór 15 september een begroting in.
 
 ### Artikel 1. Televisieomroepdiensten
 
-is voor deze televisieomroepdiensten respectievelijk deze radio-omroepdiensten tezamen niet meer verschuldigd dan éénmaal het desbetreffende hoogste bedrag uit de toepasselijke tabel.
+* Voor de toepassing van de tabel wordt onder ‘uitzenduren’ verstaan: de gemiddelde duur van het verzorgde programma-aanbod per dag in het desbetreffende kalenderjaar.
+
+### Artikel 4. Edities
+
+Een commerciële media-instelling die toestemmingen heeft voor het verzorgen van meerdere televisieomroepdiensten of meerdere radio-omroepdiensten waarbij:
 
 ### Artikel 5. Evenredige vaststelling
 
-is voor deze televisieomroepdiensten respectievelijk deze radio-omroepdiensten tezamen niet meer verschuldigd dan éénmaal het desbetreffende hoogste bedrag uit de toepasselijke tabel.
+Als een toestemming voor het verzorgen van een commeriële omroepdienst in de loop van een kalenderjaar is verleend, vervallen of ingetrokken, worden de bedragen in de tabellen van de artikelen 1 tot en 3 naar evenredigheid van de overgebleven maanden in het kalenderjaar vastgesteld, met een minimum van 200 euro voor radio-omroepdiensten en voor televisieomroepdiensten als bedoeld in tabel 5 van artikel 3 en een minimum van 400 euro voor overige televisie-omroepdiensten.
 
-### Artikel 7. Mediadiensten op aanvraag
-
-Een commerciële media-instelling is per mediadienst op aanvraag jaarlijks aan het Commissariaat een bedrag van 200 euro voor toezichtskosten verschuldigd.
-
-### Artikel 7. Mediadiensten op aanvraag
+### Artikel 6. Omroepdiensten uitsluitend via open internet
 
 Een commerciële media-instelling is per mediadienst op aanvraag jaarlijks aan het Commissariaat een bedrag van 200 euro voor toezichtskosten verschuldigd.
 
@@ -803,6 +803,92 @@ De RPO dient het concessiebeleidsplan RPO in vóór 1 april van het laatste jaar
 De in deze bijlage genoemde bedragen worden jaarlijks bijgesteld met de door het Centraal Planbureau voor het desbetreffende jaar geraamde consumentenprijsindex.
 
 ## Bijlage II. behorende bij [artikel 9b](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.1a&artikel=9b&z=2018-07-01&g=2018-07-01)
+
+|   | Boekjaar | Voorgaand boekjaar |
+| --- | --- | --- |
+| **Baten** |   |   |
+| Media-aanbod |   |   |
+| – OCW-bijdrage |   |   |
+| – overige subsidies |   |   |
+| – reclamebaten |   |   |
+| Programmagebonden eigen bijdragen |   |   |
+| – sponsorbijdragen |   |   |
+| – bijdragen van overige derden |   |   |
+| Opbrengst nevenactiviteiten |   |   |
+| Opbrengst stichtingsactiviteiten |   |   |
+| Overige bedrijfsopbrengsten |   |   |
+| Barteringbaten |   |   |
+| **Som der bedrijfsopbrengsten** |   |   |
+|   |   |   |
+| **Lasten** |   |   |
+| Lonen en salarissen |   |   |
+| Sociale lasten |   |   |
+| Afschrijvingen op immateriële en materiële vaste activa |   |   |
+| Bijzondere waardevermindering van activa |   |   |
+| Directe productiekosten |   |   |
+| – facilitaire lasten (distributie- en uitzendlasten) |   |   |
+| – technische productiekosten media-aanbod (programmalasten) |   |   |
+| – overige productiekosten media-aanbod |   |   |
+| – sales en reclame |   |   |
+| Overige bedrijfslasten |   |   |
+| – PR en promotie |   |   |
+| – huisvestingslasten |   |   |
+| – overige algemene lasten |   |   |
+| **Barteringlasten** |   |   |
+| **Som der bedrijfslasten** |   |   |
+|   |   |   |
+| **Bedrijfsresultaat** |   |   |
+| Opbrengst van vorderingen die tot de vaste activa behoren |   |   |
+| Rentebaten en inkomsten uit beleggingen |   |   |
+| Waardeverandering van vorderingen die tot de vaste activa behoren |   |   |
+| Gerealiseerde waardeverandering van beleggingen resp. effecten |   |   |
+| Ongerealiseerde waardeverandering van beleggingen resp. effecten1 |   |   |
+| Ongerealiseerde waardeverandering van materiële vaste activa2 |   |   |
+| Rentelasten en soortgelijke kosten (-/-) |   |   |
+| **Som der financiële baten en lasten** |   |   |
+|   |   |   |
+| **Saldo uit gewone bedrijfsuitoefening** |   |   |
+| Over te dragen reserve voor media-aanbod |   |   |
+| **Exploitatieresultaat na overdracht** |   |   |
+| FTE gemiddeld |   |   |
+| FTE ultimo3 |   |   |
+
+1 Ongerealiseerde waardemutaties worden verwerkt via de exploitatierekening indien sprake is van onvoldoende Reserve Koersverschillen Beleggingen.
+
+2 Ongerealiseerde waardemutaties worden verwerkt via de exploitatierekening indien sprake is van onvoldoende Herwaarderingsreserve Materiële Vaste Activa.
+
+3 Opgave van feitelijk aanwezige bezetting (exclusief vacatures), voor zover in dienst van de regionale publieke media-instelling.
+
+|   | Begroting t+2 | Begroting t+3 | Begroting t+4 | Begroting t+5 |
+| --- | --- | --- | --- | --- |
+| Baten |   |   |   |   |
+| – Media aanbod |   |   |   |   |
+| – Eigen bijdragen |   |   |   |   |
+| – Overig |   |   |   |   |
+| Lasten |   |   |   |   |
+| Resultaat |   |   |   |   |
+
+Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 26a. Bijstelling percentage reclame- en telewinkelboodschappen 2024
+
+Het percentage, genoemd in [artikel 29c, eerste lid, onder c, van het Mediabesluit 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025036&artikel=29c), wordt bijgesteld naar acht procent.
+
+## Bijlage. behorende bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2024-01-01&g=2024-01-01) bijdrage toezichtskosten commerciële mediadiensten
+
+### Artikel 2. Radio-omroepdiensten
+
+is voor deze televisieomroepdiensten respectievelijk deze radio-omroepdiensten tezamen niet meer verschuldigd dan éénmaal het desbetreffende hoogste bedrag uit de toepasselijke tabel.
+
+### Artikel 7. Mediadiensten op aanvraag
+
+Een commerciële media-instelling is per mediadienst op aanvraag jaarlijks aan het Commissariaat een bedrag van 200 euro voor toezichtskosten verschuldigd.
+
+### Artikel 8. Indexering
+
+De in deze bijlage genoemde bedragen worden jaarlijks bijgesteld met de door het Centraal Planbureau voor het desbetreffende jaar geraamde consumentenprijsindex.
+
+## Bijlage II. behorende bij [artikel 9b](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.1a&artikel=9b&z=2024-01-01&g=2024-01-01)
 
 |   | Boekjaar | Voorgaand boekjaar |
 | --- | --- | --- |
