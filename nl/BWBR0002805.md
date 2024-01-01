@@ -4,7 +4,7 @@ identifier: "BWBR0002805"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "1991-06-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002805"
 soort: "wet"
@@ -92,9 +92,9 @@ De commissie, bedoeld in [artikel 10 van de onteigeningswet](https://wetten.over
 
 ##### Artikel 7
 
-1. In afwijking van het bepaalde in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002805&artikel=6&z=1991-06-01&g=1991-06-01) kunnen Gedeputeerde Staten de eigendom, het beheer en het onderhoud toewijzen aan een rechtspersoon, niet zijnde een openbaar lichaam, voor zover deze ook voor het in werking treden van deze wet, de eigendom, het beheer en het onderhoud had.
+1. In afwijking van het bepaalde in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002805&artikel=6&z=2024-01-01&g=2024-01-01) kunnen Gedeputeerde Staten de eigendom, het beheer en het onderhoud toewijzen aan een rechtspersoon, niet zijnde een openbaar lichaam, voor zover deze ook voor het in werking treden van deze wet, de eigendom, het beheer en het onderhoud had.
 
-2. Alvorens te besluiten horen Gedeputeerde Staten de in het [vierde lid van artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002805&artikel=6&z=1991-06-01&g=1991-06-01) bedoelde openbare lichamen en de in het eerste lid bedoelde rechtspersonen.
+2. Alvorens te besluiten horen Gedeputeerde Staten de in het [vierde lid van artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002805&artikel=6&z=2024-01-01&g=2024-01-01) bedoelde openbare lichamen en de in het eerste lid bedoelde rechtspersonen.
 
 3. De eigendom, het beheer en het onderhoud kunnen niet aan het Rijk worden toegewezen of onttrokken dan onder goedkeuring van Onze betrokken Minister.
 
@@ -106,11 +106,11 @@ De commissie, bedoeld in [artikel 10 van de onteigeningswet](https://wetten.over
 
 7. Voor zover het openbaar lichaam voorheen niet was belast met het beheer en het onderhoud van wegen, waterlopen en waterkeringen met de daartoe behorende kunstwerken gaan in afwijking van het bepaalde in de [artikelen 1 en 2 van de Waterstaatswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&artikel=1) 1990 en de [artikelen 18**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&artikel=18a), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&artikel=19) en [20 van de Wegenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&artikel=20) het beheer en het onderhoud over door het enkele feit van aanwijzing in beheer en onderhoud.
 
-8. Wegen, waterlopen en waterkeringen met de daartoe behorende kunstwerken, die zijn opgenomen in het plan van wegen en waterlopen, worden met ingang van de datum van het in het [tweede lid van artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002805&artikel=6&z=1991-06-01&g=1991-06-01) bedoelde besluit beschouwd als in eigendom, beheer en onderhoud aan de provincie toe te komen, zolang Gedeputeerde Staten nog geen besluit hebben genomen betreffende de eigendom, beheer en onderhoud.
+8. Wegen, waterlopen en waterkeringen met de daartoe behorende kunstwerken, die zijn opgenomen in het plan van wegen en waterlopen, worden met ingang van de datum van het in het [tweede lid van artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002805&artikel=6&z=2024-01-01&g=2024-01-01) bedoelde besluit beschouwd als in eigendom, beheer en onderhoud aan de provincie toe te komen, zolang Gedeputeerde Staten nog geen besluit hebben genomen betreffende de eigendom, beheer en onderhoud.
 
 ##### Artikel 8
 
-1. Onze betrokken Minister kan, na ingewonnen advies van het beheerslichaam, ten behoeve van de uitvoering van een bestemmingsplan op verzoek van het gemeentebestuur of ten behoeve van de uitvoering van een werk van algemeen nut op verzoek van het openbaar lichaam dat het werk wenst uit te voeren dan wel ten behoeve van een door het Rijk uit te voeren werk, houders van buisleidingen, die vóór het in werking treden van deze wet zijn aangelegd krachtens overeenstemming met de rechthebbenden of krachtens een beslissing als bedoeld in [artikel 2 van de Belemmeringenwet Privaatrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001936&artikel=2), behoudens hun recht op schadevergoeding, de verplichting opleggen hun buisleiding te verleggen naar de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002805&artikel=1&z=1991-06-01&g=1991-06-01) bedoelde buisleidingenstraat.
+1. Onze betrokken Minister kan, na ingewonnen advies van het beheerslichaam, ten behoeve van de uitvoering van een omgevingsplan op verzoek van het gemeentebestuur of ten behoeve van de uitvoering van een werk van algemeen belang op verzoek van het openbaar lichaam dat het werk wenst uit te voeren dan wel ten behoeve van een door het Rijk uit te voeren werk, houders van buisleidingen, die vóór het in werking treden van deze wet zijn aangelegd krachtens overeenstemming met de rechthebbenden of krachtens een beslissing als bedoeld in [artikel 10.21, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=10.21), behoudens hun recht op schadevergoeding, de verplichting opleggen hun buisleiding te verleggen naar de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002805&artikel=1&z=2024-01-01&g=2024-01-01) bedoelde buisleidingenstraat.
 
 2. De verplichting tot schadevergoeding rust op het openbaar lichaam, waarvan het bestuur het verzoek als bedoeld in het eerste lid heeft gedaan of op het Rijk, indien de verplichting tot verlegging is opgelegd ten behoeve van een door het Rijk uit te voeren werk.
 
