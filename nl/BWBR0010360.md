@@ -4,7 +4,7 @@ identifier: "BWBR0010360"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2021-10-06"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010360"
 soort: "ministeriele-regeling"
@@ -46,23 +46,25 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. bijlage 1: de van deze regeling deel uitmakende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=1&z=2021-10-06&g=2021-10-06);
+- a. bijlage 1: de van deze regeling deel uitmakende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=1&z=2024-01-01&g=2024-01-01);
 
-- b. bijlage 2: de van deze regeling deel uitmakende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=2&z=2021-10-06&g=2021-10-06);
+- b. bijlage 2: de van deze regeling deel uitmakende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=2&z=2024-01-01&g=2024-01-01);
 
-- c. IVS-post: post van het Informatie- en Volgsysteem voor de scheepvaart (IVS) als aangegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=1&z=2021-10-06&g=2021-10-06);
+- c. IVS-post: post van het Informatie- en Volgsysteem voor de scheepvaart (IVS) als aangegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=1&z=2024-01-01&g=2024-01-01);
 
 - d. vaarweggedeelte: vaarweggedeelte waarop het [Binnenvaartpolitiereglement](onbekend) van toepassing is;
 
 - e. ADN: Europese Overeenkomst betreffende het internationale vervoer van gevaarlijke goederen over de binnenwateren;
 
-- f. vaste tank: een met het schip verbonden tank, waarbij de tankwanden kunnen worden gevormd ofwel door de scheepsromp zelf ofwel door wanden die onafhankelijk zijn van de scheepsromp.
+- f. vaste tank: een met het schip verbonden tank, waarbij de tankwanden kunnen worden gevormd ofwel door de scheepsromp zelf ofwel door wanden die onafhankelijk zijn van de scheepsromp;
+
+- g. **ES-RIS:** Europese standaard voor de rivierinformatiediensten.
 
 #### Paragraaf 2. Meldingen met betrekking tot alle vaarweggedeelten
 
 ##### Artikel 2
 
-1. De schipper of kapitein van de volgende schepen en samenstellen, meldt zich alvorens een vaarweggedeelte dat deel uitmaakt van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=1&z=2021-10-06&g=2021-10-06) binnen te varen bij de dichtstbijzijnde IVS-post, op het in bijlage 1 aangegeven, bij de betreffende IVS-post behorende, marifoonkanaal:
+1. De schipper of kapitein van de volgende schepen en samenstellen, meldt zich alvorens een vaarweggedeelte dat deel uitmaakt van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=1&z=2024-01-01&g=2024-01-01) binnen te varen elektronisch overeenkomstig de bepalingen van deel IV Standaard voor het elektronisch melden van schepen in de binnenvaart van ES-RIS:
 
 - a. een schip dat gevaarlijke stoffen vervoert waarop de [Regeling vervoer over de binnenwateren van gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0010115) van toepassing is;
 
@@ -88,7 +90,7 @@ In deze regeling wordt verstaan onder:
 
 - b. uniek Europees scheepsidentificatienummer of IMO-identificatienummer voor zeeschepen; van het schip en bij samenstellen van alle schepen van het samenstel;
 
-- c. soort vaartuig of samenstel en bij samenstellen soort vaartuig voor alle schepen, overeenkomstig [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=4&z=2021-10-06&g=2021-10-06);
+- c. soort vaartuig of samenstel en bij samenstellen soort vaartuig voor alle schepen, overeenkomstig [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=4&z=2024-01-01&g=2024-01-01);
 
 - d. laadvermogen; van het schip en bij samenstellen van alle schepen van het samenstel;
 
@@ -114,7 +116,7 @@ In deze regeling wordt verstaan onder:
 
 - j. containernummer van de container met gevaarlijke stoffen;
 
-- k. aantal personen aan boord;
+- k. aantal personen aan boord en voor zover van toepassing het aantal passagiers;
 
 - l. positie, vaarrichting;
 
@@ -134,33 +136,33 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-1. De in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2021-10-06&g=2021-10-06) genoemde gegevens, met uitzondering van die genoemd onder l en m, kunnen ook vanaf een andere plaats of door een andere persoon dan de schipper of de kapitein, tijdig schriftelijk of telefonisch dan wel anderszins aan de IVS-post die op de vaarroute het eerst zal worden gepasseerd, worden medegedeeld.
+1. De in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2024-01-01&g=2024-01-01) genoemde gegevens, met uitzondering van die genoemd onder l en m, kunnen ook vanaf een andere plaats of door een andere persoon dan de schipper of de kapitein, tijdig schriftelijk of telefonisch dan wel anderszins aan de IVS-post die op de vaarroute het eerst zal worden gepasseerd, worden medegedeeld.
 
-2. In ieder geval meldt de schipper of kapitein het tijdstip van in- en uitvaren met zijn schip of samenstel van een vaarweggedeelte dat deel uitmaakt van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=1&z=2021-10-06&g=2021-10-06).
+2. In ieder geval meldt de schipper of kapitein het tijdstip van in- en uitvaren met zijn schip of samenstel van een vaarweggedeelte dat deel uitmaakt van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=1&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 4
 
-De schipper of de kapitein van een schip als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2021-10-06&g=2021-10-06), meldt wanneer de vaart op een vaarweggedeelte dat deel uitmaakt van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=1&z=2021-10-06&g=2021-10-06) gedurende meer dan twee uur wordt onderbroken, het begin en het einde van deze onderbreking aan de dichtstbijzijnde IVS-post.
+De schipper of de kapitein van een schip als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2024-01-01&g=2024-01-01), meldt wanneer de vaart op een vaarweggedeelte dat deel uitmaakt van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=1&z=2024-01-01&g=2024-01-01) gedurende meer dan twee uur wordt onderbroken, het begin en het einde van deze onderbreking aan de dichtstbijzijnde IVS-post.
 
 ##### Artikel 5
 
-1. Indien de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2021-10-06&g=2021-10-06), genoemde gegevens tijdens de vaart wijzigen, wordt dit door de schipper of de kapitein van een schip als bedoeld in artikel 2, eerste lid, onmiddellijk aan de dichtstbijzijnde IVS-post medegedeeld, of indien sprake is van een schip als bedoeld in artikel 2, derde lid, via elektronische weg.
+1. Indien de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2024-01-01&g=2024-01-01), genoemde gegevens tijdens de vaart wijzigen, wordt dit door de schipper of de kapitein van een schip als bedoeld in artikel 2, eerste lid, onmiddellijk aan de dichtstbijzijnde IVS-post medegedeeld, of indien sprake is van een schip als bedoeld in artikel 2, derde lid, via elektronische weg.
 
-2. Het eerste lid is niet van toepassing op de schipper of de kapitein van een schip als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2021-10-06&g=2021-10-06), dat zich bevindt op een vaarweg benedenstrooms van km 991.7 van de Nieuwe Maas of van km 998 van de Oude Maas.
+2. Het eerste lid is niet van toepassing op de schipper of de kapitein van een schip als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2024-01-01&g=2024-01-01), dat zich bevindt op een vaarweg benedenstrooms van km 991.7 van de Nieuwe Maas of van km 998 van de Oude Maas.
 
 ##### Artikel 6
 
-De gegevens genoemd in [artikel 2, tweede lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2021-10-06&g=2021-10-06), worden door de schipper of de kapitein van een schip als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2021-10-06&g=2021-10-06), onverminderd het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2021-10-06&g=2021-10-06) bepaalde, gemeld op het ter plaatse aangeduide marifoonkanaal bij het passeren van een sluis en bij een met teken B.11 uit [bijlage 7 van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&bijlage=7) aangeduid meldpunt.
+De gegevens genoemd in [artikel 2, tweede lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2024-01-01&g=2024-01-01), worden door de schipper of de kapitein van een schip als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2024-01-01&g=2024-01-01), onverminderd het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2024-01-01&g=2024-01-01) bepaalde, gemeld op het ter plaatse aangeduide marifoonkanaal bij het passeren van een sluis en bij een met teken B.11 uit [bijlage 7 van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&bijlage=7) aangeduid meldpunt.
 
 #### Paragraaf 3. Meldingen met betrekking tot de in bijlage 2 genoemde vaarweggedeelten
 
 ##### Artikel 7
 
-De schipper of de kapitein van een schip als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=2&z=2021-10-06&g=2021-10-06), dat vaart op een vaarweggedeelte genoemd in [die bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=2&z=2021-10-06&g=2021-10-06), meldt zich, onverminderd het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2021-10-06&g=2021-10-06) bepaalde, overeenkomstig hetgeen in [die bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=2&z=2021-10-06&g=2021-10-06) is aangegeven.
+De schipper of de kapitein van een schip als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=2&z=2024-01-01&g=2024-01-01), dat vaart op een vaarweggedeelte genoemd in [die bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=2&z=2024-01-01&g=2024-01-01), meldt zich, onverminderd het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2024-01-01&g=2024-01-01) bepaalde, overeenkomstig hetgeen in [die bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=2&z=2024-01-01&g=2024-01-01) is aangegeven.
 
 ##### Artikel 8
 
-Andere schepen dan bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2021-10-06&g=2021-10-06), luisteren tijdens de vaart op een vaarweggedeelte genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=2&z=2021-10-06&g=2021-10-06), uit en communiceren op het in die bijlage aangegeven marifoonkanaal.
+Andere schepen dan bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&paragraaf=2&artikel=2&z=2024-01-01&g=2024-01-01), luisteren tijdens de vaart op een vaarweggedeelte genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=2&z=2024-01-01&g=2024-01-01), uit en communiceren op het in die bijlage aangegeven marifoonkanaal.
 
 #### Paragraaf 4. Toegestane afmetingen en diepgang vaarweggedeelten
 
@@ -453,7 +455,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 8a
 
-De vaarwegen, en de daarop toegestane grootste lengte, breedte en diepgang van een schip of samenstel, bedoeld in [artikel 9.02, eerste lid van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=9.02), zijn opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=3&z=2021-10-06&g=2021-10-06) van deze regeling.
+De vaarwegen, en de daarop toegestane grootste lengte, breedte en diepgang van een schip of samenstel, bedoeld in [artikel 9.02, eerste lid van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=9.02), zijn opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010360&bijlage=3&z=2024-01-01&g=2024-01-01) van deze regeling.
 
 #### Paragraaf 4. Toegestane afmetingen en diepgang vaarweggedeelten
 
@@ -1026,280 +1028,291 @@ Verkeerspost Nijmegen
 
 | Vaarweg | Lengte in m | Breedte in m | Diepgang in m |
 | --- | --- | --- | --- |
-| **Fryslân** |   |   |   |
-| Haven Terschelling | 85 | 12,00 | 3,40 |
-| Haven Vlieland | 60 | 10,00 | 3,40 |
+| Haven Terschelling | 85 | 12 | 3,40 |
+| Haven Vlieland | 60 | 10 | 3,40 |
 | Vaarweg tussen zee en Harlingen, via het Stortemelk, de Vliestroom, de Blauwe Slenk en het vaarwater langs de Pollendam | 140 |   | 6,50 |
 | Prinses Margrietkanaal | 111 | 11,50 | 3,50 |
-| Vaarweg tussen Lorentzsluis en Harlingen, inclusief het vaarweggedeelte dat aansluit vanaf de Doove Balg (de Boontjes) | 135 | 11,50 | 3,5027 |
-|   |   |   |   |
-| **Groningen** |   |   |   |
+| Vaarweg tussen Lorentzsluis en Harlingen, inclusief het vaarweggedeelte dat aansluit vanaf de Doove Balg (de Boontjes) | 135 | 11,50 | 3,501 |
+
+1 Bij een waterstand te Harlingen van NAP +0,75 m of zoveel minder dan de verwachte waterstand te Harlingen tijdens de passage lager is.
+
+| Vaarweg | Lengte in m | Breedte in m | Diepgang in m |
+| --- | --- | --- | --- |
 | Van Starkenborghkanaal | 111 | 11,50 | 3,50 |
-| Eemskanaal van km 0,00 t/m km 4,00 | 143,50 | 13 | 5 |
-| Eemskanaal vanaf km 4,00 | 111 | 11,50 | 3,50 |
-| **Overijssel** |   |   |   |
-| Kanaal Zutphen-Enschede van de Twenthekanalen |   |   |   |
-| – Geldersche IJssel- Delden (beneden de sluis) – Delden – Enschede | 110 | 11,50 | 2,801 |
-|   | 110 | 9,75 | 2,60 of |
-|   | 110 | 11,50 | 2,20 |
-| Zijkanaal naar Almelo van de Twenthekanalen | 110 | 9,75 | 2,50 |
-|   |   |   |   |
-| **Overijssel/Gelderland** |   |   |   |
-| **Geldersche IJssel** |   |   |   |
-| – IJsselkop2 – Stadsbrug Kampen | 110 | 12,00 |   |
-| – Stadsbrug Kampen – Ketelmeer | 200 | 17,50 |   |
-| Zwolle-IJsselkanaal | 110 | 12,00 | 3,253 |
-| Meppelerdiep |   |   |   |
-| – van Zwarte Water via Meppelerdiepkeersluis – Kaapbrug | 110 | 12,00 | 3,254 |
-| – via Grote Kolksluis | 55 | 8,20 | 2,804 |
-| Zwarte Water | 110 | 12,00 | 3,253 |
-| Zwolsche Diep | 110 | 12,00 | 3,003 |
-| Ramsdiep | 110 | 11,50 | 3,003 |
-| Zwanendiep | 85 | 9,50 | 2,703 |
-|   |   |   |   |
-| **Noord-Holland** |   |   |   |
-| De betonde vaarwateren tussen zee en Den Helder |   |   | 9.00 |
-| Marinehaven Willemsoord | 200 |   | 8.00 |
-| Oranjesluizencomplex |   |   |   |
-| – Noordersluis | 70 | 13,50 | 3,505 |
-| – Middensluis | 90 | 17,50 | 3,505 |
-| – Zuidersluis | 70 | 13,50 | 3,505 |
-| – Prins Willem Alexandersluis | 200 | 23,00 | 3,505 |
-| Noordzeekanaal en Noordzeesluizen te IJmuiden | 325 | 42,00 | 13,10 |
-| – 1e Rijksbinnenhaven |   |   | 3,50 |
-| – 2e Rijksbinnenhaven |   |   | 5,70 |
-| – 3e Rijksbinnenhaven |   |   | 5,70 |
-| – Kruithaven, buitenzijde (meerstoelen) |   |   | 9,10 |
-| – Zijkanaal B (zuidelijk deel) |   |   | 1,80 |
-| – Zijkanaal C |   | 11,40 | 3,00 |
-| – Zijkanaal D |   |   | 3,00 |
-| – Zijkanaal E |   |   | 2,20 |
-| – Zijkanaal G over een lengte van 1000 m gemeten uit de as van het Noordzeekanaal |   |   | 8,00 |
-| – Zijkanaal H |   |   | 1,30 |
-| Haven Marken | 55 | 6,60 | 1,905 |
-| Vaarweg tussen Stevinsluis en Den Helder, via het Vissersgaatje en het Malzwin | 120 | 11,50 | 3,2028 |
-|   |   |   |   |
-| **Flevoland** |   |   |   |
-| IJsselmeer |   |   |   |
-| – Houtribsluis | 190 | 17,50 | 3,50 |
-| – Krabbersgatsluis | 110 | 11,60 | 3,203 |
-| – Naviduct | 110 | 11,45 | 3,203 |
-| – Lorentzsluizen: |   |   |   |
-| grote sluis | 120 | 13,00 | 3,506 |
-| kleine sluis | 67 | 8,20 | 3,507 |
-| – Stevinsluis | 120 | 13,00 | 3,507 |
-| – Noorderhaven Breezanddijk | 50 | 11,50 | 2,807 |
-| – Zuiderhaven Breezanddijk | 95 | 11,50 | 2,507 |
-| – Buiten- en voorhavens Den Oever en Kornwerderzand | 120 | 13,00 | 3,507 |
-| Randmeren Flevoland |   |   |   |
-| – Nijkerkersluis | 90 | 9,50 | 3,003 |
-| – Roggebotsluis | 90 | 9,50 | 3,003 |
-|   |   |   |   |
-| **Noord-Holland/Utrecht** |   |   |   |
-| Buitenhaven van Muiden en toegangsgeul |   |   |   |
-| – Grote Zeesluis – IJmeer | 45 | 7,50 | 1,80 |
-| Amsterdam-Rijnkanaal | 200 | 23,50 | 4,00 |
-| Lekkanaal |   |   |   |
-| ≤ 116,50 m | 116,50 | 22,90 | 4,07 |
-| > 116,50 m en ≤ 135 m | 135 | 22,80 | 4,07 |
-| > 135 m | 193 | 11,45 | 4,07 |
-| Merwedekanaal |   |   |   |
-| – tussen Spinozabug- Amsterdam Rijnkanaal | 110 | 11,50 | 2,808 |
-| – tussen Spinozabrug en Liesboschbrug | 38 | 11,50 | 2,408 |
-| – tussen Liesboschbrug en Amsterdam Rijnkanaal | 110 | 11,50 | 2,408 |
-| – tussen de Koninginnesluis en de Zuidersluis | 110 | 11,50 | 2,808a |
-|   |   |   |   |
-| **Zuid-Holland** |   |   |   |
-| Hollandsche IJssel |   |   |   |
-| – van km 0.0 tot km 1.1 | 39 | 5,45 | 2,5010 |
-| – van km 1.1 tot km 3.4 | 110 | 11,50 | 3,1511 |
-| – van km 3.4 tot km 4.5 | 110 | 11,50 | 3,6011 |
-| – van km 4.5 tot km 7.0 | 110 | 11,50 | 4,0511 |
-| – van km 7.0 tot km 16.9 | 110 | 11,50 | 1,5011 |
-| – van km 13.2 tot km 16.9 | 135 | 11,50 | 1,5011a |
-| – van km 16,9 tot km 19,7 | 180 | 11,50 | 4,7011 |
+| Eemskanaal van km 0 t/m km 4 | 143,50 | 13 | 5 |
+| Eemskanaal vanaf km 4 | 111 | 11,50 | 3,50 |
+
+| Vaarweg | Lengte in m | Breedte in m | Diepgang in m |
+| --- | --- | --- | --- |
+| Kanaal Zutphen-Enschede van de Twentekanalen: |   |   |   |
+| 1. Geldersche IJssel – Enschede | 110 | 11,50 | 2,801 |
+| 2. Zijkanaal naar Almelo van de Twentekanalen | 110 | 11,50 | 2,80 |
+
+1 Op het pand Geldersche IJssel – Eefde (voorpand) evenveel minder dan 2,80 m als de buitenwaterstand sluis Eefde lager is dan NAP + 3,20 m.
+
+| Vaarweg | Lengte in m | Breedte in m | Diepgang in m |
+| --- | --- | --- | --- |
+| Geldersche IJssel: |   |   |   |
+| 1. IJsselkop1 – Stadsbrug Kampen | 110 | 12 |   |
+| 2. Stadsbrug Kampen – Ketelmeer | 200 | 17,50 |   |
+| Zwolle-IJsselkanaal | 110 | 12 | 3,252 |
+| Meppelerdiep: |   |   |   |
+| 1. van Zwarte Water via Meppelerdiepkeersluis – Kaapbrug | 110 | 12 | 3,253 |
+| 2. via Grote Kolksluis | 55 | 8,20 | 2,803 |
+| Zwarte Water | 110 | 12 | 3,252 |
+| Zwolsche Diep | 110 | 12 | 32 |
+| Ramsdiep | 110 | 11,50 | 32 |
+| Zwanendiep | 85 | 9,50 | 2,702 |
+
+1 Schepen die gebruik maken van de hefopening in de spoor- en verkeersbrug Zutphen (km 928,150) moeten rekening houden met de volgende beperkingen: a. de bodem ligt op ca. NAP +0,50 m, d.w.z. ongeveer 0,50 m hoger dan overigens in dat riviervak; b. de bodembreedte op NAP +0,50 m is slechts 8 m; c. eerst op ca NAP +2,50 m is een breedte van 12 m aanwezig; d. bij doorvaart hiervan is een sterke waterspiegeldaling mogelijk.
+
+2 Bij waterstand = NAP of zoveel minder dan de waterstand lager is dan NAP.
+
+3 Bij waterstand = NAP of zoveel minder dan de waterstand lager is dan NAP. De drempeldiepte van de Meppelerdiep-brug ligt op NAP –3,50 m. De keersluis in Zwartsluis wordt gesloten bij een waterstand hoger dan NAP +0,50 m en bij een waterstand lager dan NAP –0,50 m.
+
+| Vaarweg | Lengte in m | Breedte in m | Diepgang in m |
+| --- | --- | --- | --- |
+| Maas-Waalkanaal: |   |   |   |
+| 1. km 0 (Maas) – km 10,70: |   |   |   |
+| a) ≤ 137,50 m | 137,50 | 15,50 | 3,50 |
+| b) > 137,50 m | 193 | 13,50 | 3,50 |
+| 2. km 10,70 – km 12,90 | 225 | 15,50 | 3,701 |
+| 3. km 12,90 – km 13,40 (Waal): |   |   |   |
+| a) ≤ 193 m | 193 | 22,90 | 3,701 |
+| b) > 193 m | 225 | 17,50 | 3,701 |
+
+1 Of zoveel minder dan de buiten- of de binnenwaterstand lager is dan NAP +7,20 m.
+
+| Vaarweg | Lengte in m | Breedte in m | Diepgang in m |
+| --- | --- | --- | --- |
+| De betonde vaarwateren tussen zee en Den Helder |   |   | 9 |
+| Marinehaven Willemsoord | 200 |   | 8 |
+| Oranjesluizencomplex: |   |   |   |
+| 1. Noordersluis | 70 | 13,50 | 3,501 |
+| 2. Middensluis | 90 | 17,50 | 3,501 |
+| 3. Zuidersluis | 70 | 13,50 | 3,501 |
+| 4. Prins Willem Alexandersluis | 200 | 23 | 3,501 |
+| Noordzeekanaal en Noordzeesluizen te IJmuiden: | 325 | 42 | 13,10 |
+| 1. 1e Rijksbinnenhaven |   |   | 3,50 |
+| 2. 2e Rijksbinnenhaven |   |   | 5,70 |
+| 3. 3e Rijksbinnenhaven |   |   | 5,70 |
+| 4. Kruithaven, buitenzijde (meerstoelen) |   |   | 9,10 |
+| 5. Zijkanaal B (zuidelijk deel) |   |   | 1,80 |
+| 6. Zijkanaal C |   | 11,40 | 3 |
+| 7. Zijkanaal D |   |   | 3 |
+| 8. Zijkanaal E |   |   | 2,20 |
+| 9. Zijkanaal G over een lengte van 1.000 m gemeten uit de as van het Noordzeekanaal |   |   | 8 |
+| 10. Zijkanaal H |   |   | 1,30 |
+| Haven Marken | 55 | 6,60 | 1,901 |
+| Vaarweg tussen Stevinsluis en Den Helder, via het Vissersgaatje en het Malzwin | 120 | 11,50 | 3,202 |
+
+1 Bij een waterstand van NAP –0,50 m of hoger of zoveel minder dan de waterstand lager is dan NAP –0,50 m.
+
+2 Bij een waterstand te Harlingen van NAP +0,66 m of zoveel minder dan de verwachte waterstand te Harlingen tijdens de passage lager is.
+
+| Vaarweg | Lengte in m | Breedte in m | Diepgang in m |
+| --- | --- | --- | --- |
+| IJsselmeer: |   |   |   |
+| 1. Houtribsluis | 190 | 17,50 | 3,50 |
+| 2. Krabbersgatsluis | 110 | 11,60 | 3,201 |
+| 3. Naviduct | 110 | 11,45 | 3,201 |
+| 4. Lorentzsluizen: |   |   |   |
+| a) grote sluis | 120 | 13 | 3,502 |
+| b) kleine sluis | 67 | 8,20 | 3,503 |
+| 5. Stevinsluis | 120 | 13 | 3,503 |
+| 6. Noorderhaven Breezanddijk | 50 | 11,50 | 2,803 |
+| 7. Zuiderhaven Breezanddijk | 95 | 11,50 | 2,503 |
+| 8. Buiten- en voorhavens Den Oever en Kornwerderzand | 120 | 13 | 3,503 |
+| Randmeren Flevoland: |   |   |   |
+| 1. Nijkerkersluis | 90 | 9,50 | 31 |
+| 2. Roggebotsluis | 90 | 9,50 | 31 |
+
+1 Bij waterstand = NAP of zoveel minder dan de waterstand lager is dan NAP.
+
+2 Bij een waterstand op de Waddenzee gelijk aan of boven NAP of op het IJsselmeer gelijk aan of boven NAP –0,50 m dan wel evenveel minder dan de waterstand lager is dan NAP respectievelijk NAP –0,50 m.
+
+3 Bij een waterstand van NAP –0,60 m of zoveel minder dan de waterstand lager is dan NAP –0,60 m.
+
+| Vaarweg | Lengte in m | Breedte in m | Diepgang in m |
+| --- | --- | --- | --- |
+| Buitenhaven en toegangsgeul Muiden | 45 | 7,50 | 1,80 |
+| Amsterdam-Rijnkanaal: | 200 | 23,50 | 41 |
+| 1. Irenesluizen: |   |   |   |
+| a) Westkolk | 200 | 17,70 | 3,501 |
+| b) Oostkolk | 200 | 23,50 | 41 |
+| 2. Marijkesluizen: |   |   |   |
+| a) Hoogwaterkering Ravenswaaij | 200 | 23,50 | 4 |
+| b) Westkolk en Oostkolk | 200 | 17,70 | 4 |
+| 3. Bernhardsluizen: |   |   |   |
+| a) Westkolk | 200 | 17,70 | 4 |
+| b) Oostkolk | 200 | 23,50 | 4 |
+| Lekkanaal: |   |   |   |
+| a) ≤ 116,50 m | 116,50 | 22,90 | 42 |
+| b) > 116,50 m en ≤ 135 m | 135 | 22,80 | 42 |
+| c) > 135 m | 193 | 11,45 | 42 |
+| 1. Beatrixsluizen: |   |   |   |
+| a) Westkolk en Middenkolk | 193 | 17,70 | 3,502 |
+| b) Oostkolk: |   |   |   |
+| i. ≤ 116,50 m | 116,50 | 22,90 | 42 |
+| ii. > 116,50 m en ≤ 135 m | 135 | 22,80 | 42 |
+| iii. > 135 m | 193 | 11,45 | 42 |
+| Merwedekanaal: |   |   |   |
+| 1. tussen Amsterdam-Rijnkanaal en Spinozabrug | 110 | 11,50 | 2,801 |
+| 2. tussen Spinozabrug en Liesboschbrug: | 38 | 7 | 2,401 |
+| a) Muntsluis | 38 | 7 | 2,401 |
+| 3. tussen Liesboschbrug en Amsterdam-Rijnkanaal | 110 | 11,50 | 2,801 |
+| a) Noordersluis: |   |   |   |
+| i. Westkolk | 50 | 6,60 | 2,201 |
+| ii. Oostkolk | 110 | 11,50 | 2,801 |
+| 4. tussen de Zuidersluis en de Koninginnensluis: | 110 | 11,50 | 2,803 |
+| a) Zuidersluis | 110 | 11,50 | 2,801 |
+| b) Koninginnensluis | 110 | 11,50 | 2,803 |
+
+1 Bij een waterstand van NAP –0,60 m op het Amsterdam-Rijnkanaal of zoveel minder dan de waterstand lager is dan NAP –0,60 m.
+
+2 Bij een waterstand van NAP –0,60 m op het Lekkanaal of zoveel minder dan de waterstand lager is dan NAP –0,60 m.
+
+3 Bij een waterstand van NAP +1,35 m of hoger of zoveel minder als de waterstand op de Lek bij de Koninginnensluis is.
+
+| Vaarweg | Lengte in m | Breedte in m | Diepgang in m |
+| --- | --- | --- | --- |
+| Hollandsche IJssel: |   |   |   |
+| 1. Algerasluis (gesloten kering/schutten) | 110 | 11,50 | 4,701 |
+| 2. van km 0 tot km 1,10 | 39 | 5,45 | 2,502 |
+| 3. van km 1,10 tot km 3,40 | 110 | 11,50 | 3,153 |
+| 4. van km 3,40 tot km 4,50 | 110 | 11,50 | 3,603 |
+| 5. van km 4,50 tot km 7 | 110 | 11,50 | 4,053 |
+| 6. van km 7 tot km 16,90 | 110 | 11,50 | 4,703 |
+| 7. van km 13,20 tot km 16,90 | 135 | 11,50 | 1,504 |
+| 8. van km 16,90 tot km 19,70 | 180 | 11,50 | 4,703 |
 | Oude Maas (zeevaart) | 175 | 25 | 8,80 |
-| Dordtsche Kil en de daarop aansluitende vaarweg naar de havens van het Industrie- en Havenschap Moerdijk (zeevaart) | 175 | 25,00 | 8,00 |
+| Dordtsche Kil en de daarop aansluitende vaarweg naar de havens van het Industrie- en Havenschap Moerdijk (zeevaart) | 175 | 25 | 8 |
 | Volkeraksluizen | 225 | 23,50 | 4,75 |
-| Boven-Merwede/Beneden-Merwede/ Nieuwe Merwede/Noord/Oude Maas/Dordtsche Kil/ Hollandsch Diep/Amer/Haringvliet |   |   |   |
-| – algemeen | 225 | 23,50 |   |
-| – duwstellen in afvaart brede formatie (gedeelte vóór de duwboot (maximum lengte 40m)) | 153 | 34,35 |   |
-| – duwstellen in opvaart lange formatie (gedeelte vóór de duwboot (maximum lengte 40m)) | 229,50 | 22,90 |   |
-| Beneden Merwede |   |   | 4,5010 |
-| Bergsche Maas | 193 | 17,50 | 4,0011 |
+| Boven-Merwede/Beneden-Merwede/ Nieuwe Merwede/Noord/Oude Maas/Dordtsche Kil/ Hollandsch Diep/Amer/Haringvliet: |   |   |   |
+| 1. algemeen | 225 | 23,50 |   |
+| 2. duwstellen in afvaart brede formatie (gedeelte vóór de duwboot (maximum lengte 40 m)) | 153 | 34,35 |   |
+| 3. duwstellen in opvaart lange formatie (gedeelte vóór de duwboot (maximum lengte 40 m)) | 229,50 | 22,90 |   |
+| 4. tussen km 976 en km 980: duwstellen in opvaart brede formatie (gedeelte vóór de duwboot (maximum lengte 40 m)) | 153 | 34,35 |   |
+| Beneden Merwede |   |   | 4,502 |
 | Nieuwe Merwede (Biesboschsluis) | 55 | 6,60 | 3,20 |
 | Het Spui | 110 | 11,50 | 2,80 |
-| Noord |   |   | 4,5010 |
-| Rietbaan |   |   |   |
-| – van km 977,3 tot km 978,965 | 85 | 8,2 | 2,8 |
-| – van km 978,965 tot km 979,8 | 135 | 17 | 4 |
-| Nieuwe Maas (beheersgebied Rijkswaterstaat, West-Nederland Zuid) | 225 | 23,50 |   |
-| – duwstellen in afvaart brede formatie (gedeelte voor de duwboot (maximum lengte 40m)) | 153 | 34,35 | 4,50 |
-| – duwstellen in opvaart lange formatie (gedeelte voor de duwboot (maximum lengte 40m)) | 229,50 | 22,90 | 4,50 |
-|   |   |   |   |
-| **Noord-Brabant** |   |   |   |
-| Zuid-Willemsvaart |   |   |   |
-| – sluis 13 t/m sluis 4 |   |   |   |
-| <= 68 | 6812 | 7,25 | 1,90 |
-| >68 | 8012 | 5,20 | 1,90 |
-| – sluis4 – Maximakanaal |   |   |   |
-| <= 105 | 10512 | 9,60 | 3,00 |
-| >105 | 11012 | 7,25 | 3,00 |
-|   |   |   |   |
-| Máximakanaal |   |   |   |
-| ≤105m | 105 | 9,50 | 3,00 |
-| >105 | 110 | 6,70 | 3,00 |
-|   |   |   |   |
-| Wilhelminakanaal, met inbegrip van de Amertak |   |   |   |
-| – Amer – sluis I | 135 | 11,50 | 3,3013 |
-| – sluis I – sluis II | 90 | 9,60 | 2,70 |
-| – sluis II – industriehaven Loven | 63 | 7,25 | 2,10 |
-| – industriehaven Loven – Beatrixkanaal | 63 | 7,25 | 1,90 |
-| – Beatrixkanaal – Zuid-Willemsvaart | 110 | 6,70 | 1,90 |
-| <= 68 | 6812 | 7,25 | 1,90 |
-| > 68 | 8012 | 5,20 | 1,90 |
-| Markkanaal | 90 | 9,60 | 2,60 |
-| Donge | 110 | 11,50 | 3,3013 |
-| Oude Maasje |   |   |   |
-| – Bergsche Maas – haven Waspik | 95 | 11,50 | 2,50 |
-| – haven Waspik – haven Sprang Capelle | 60 | 6,60 | 2,50 |
-|   |   |   |   |
-| **Zeeland** |   |   |   |
+| Noord |   |   | 4,502 |
+| Rietbaan: |   |   |   |
+| 1. van km 977,30 tot km 978,965 | 85 | 8,20 | 2,80 |
+| 2. van km 978,965 tot km 979,80 | 135 | 17 | 4 |
+| Nieuwe Maas (beheergebied Rijkswaterstaat, West-Nederland Zuid): | 225 | 23,50 |   |
+| 1. duwstellen in afvaart brede formatie (gedeelte voor de duwboot (maximum lengte 40 m)) | 153 | 34,35 | 4,50 |
+| 2. duwstellen in opvaart lange formatie (gedeelte voor de duwboot (maximum lengte 40 m)) | 229,50 | 22,90 | 4,50 |
+| Oude Maas, Dordtsche Kil en de daarop aansluitende vaarwegen naar de havens van het Havenbedrijf Moerdijk, Hollandsch Diep, Amer, Haringvliet, Noord en Nieuwe Maas (beheergebied Rijkswaterstaat, West- Nederland Zuid, tussen km 989,000 – 991,700) |   |   |   |
+| 1. zee-pontons | 100 | 33 | 35 |
+| Beneden-Merwede, Nieuwe Merwede en Boven-Merwede |   |   |   |
+| 1. zee-pontons | 100 | 25 | 35 |
+
+1 Bij een waterstand = NAP of zoveel minder dan de waterstand lager is dan NAP. Bij gesloten Algerakering is het gebruik van de naastgelegen schutsluis door een schip of samenstel langer dan 110 m niet mogelijk.
+
+2 Bij een waterstand t.o.v. NAP, of zoveel hoger of zoveel minder dan de waterstand t.o.v. NAP.
+
+3 Bij waterstand = NAP of zoveel minder dan de waterstand lager is dan NAP.
+
+4 Uitsluitend ledige schepen.
+
+5 Het voortbewegen van zee-pontons met behulp van sleepboten met een tros verbonden en/of in combinatie met een duwboot, voldoende om goed te kunnen manoeuvreren en veilig aan het scheepvaartverkeer te kunnen deelnemen.
+
+| Vaarweg | Lengte in m | Breedte in m | Diepgang in m |
+| --- | --- | --- | --- |
 | Zuid-Vlije/Krammer/ Zijpe/Mastgat/Keeten/ Oosterschelde | 200 | 23,50 |   |
 | Schelde-Rijnverbinding | 225 | 23,50 | 4,30 |
 | Volkerak | 225 | 23,50 | 4,75 |
-| Krammersluizen | 200 | 23,50 | 4,7514 |
-| Kanaal door Zuid-Beveland |   |   |   |
-| – gehele kanaal | 200 | 23,50 | 4,7514 |
-| – vanaf de parallel 51º 27'.9 N | 200 | 23,50 | 5,2515 |
-| Veerse Meer | 130 | 18,00 |   |
-| Roompotsluis | 95 | 14,50 | 5,0016 |
-| Bergsediepsluis | 34 | 6,00 | 2,0017 |
-| Handelshaven Breskens18 | 95 |   |   |
+| Krammersluizen | 200 | 23,50 | 4,751 |
+| Kanaal door Zuid-Beveland: |   |   |   |
+| 1. gehele kanaal | 200 | 23,50 | 4,751 |
+| 2. vanaf de parallel 51º 27'.9 N | 200 | 23,50 | 5,252 |
+| Veerse Meer | 130 | 18 |   |
+| Roompotsluis | 95 | 14,50 | 53 |
+| Bergsediepsluis | 34 | 6 | 24 |
+| Handelshaven Breskens5 | 95 |   |   |
 | Veerhaven Terneuzen | 80 | 9,50 |   |
-|   |   |   |   |
-| **Limburg** |   |   |   |
-| Maas |   |   |   |
-| – van km 8,650 -Julianakanaal | 137,50 | 14,00 | 3,00 |
-| – van km 64,5 -Julianakanaal | 110 | 12,00 | 2,80 |
-| – sluis Linne | 193 | 13,50 | 3,0019 |
-| – sluis Roermond | 193 | 13,50 | 3,0020 |
-| Sluis Belfeld |   |   |   |
-| – oostsluis |   |   |   |
-| <= 137,50 m: > 137,50 m | 137,50 193 | 15,50 13,50 | 3,00 3,00 |
-| – west- en middensluis: | 137,50 | 15,50 | 3,00 |
-| Sluis Sambeek |   |   |   |
-| – oostsluis> 137,50m | 137,50 193 | 15,50 13,50 | 3,50 3,50 |
-| – west- en middensluis: | 137,50 | 15,50 | 3,20 |
-| – sluis Grave | 137,50 | 15,50 | 3,2021 |
-| – Prinses Maxima sluizen te Lith |   |   |   |
-| Zuidkolk | 113,50 | 13,50 | 3,5022 |
-| Noordkolk | 193 | 17,50 | 4,0023 |
-| – Maasbracht monding Julianakanaal – km 110,500 |   |   |   |
-| ≤ 137,50 m | 137,50 | 15,50 | 3,00 |
-| > 137,50 m | 193 | 13,50 | 3,00 |
-| km 110,500 – Grave boven |   |   |   |
-| ≤ 137,50 m | 137,50 | 15,50 | 3,50 |
-| > 137,50 m | 193 | 13,50 | 3,50 |
-| – Traject Grave boven- km 182 (brug A50) | 137,50 | 15,50 | 3,2020 |
-| – Traject km 182 (brug A50)- km 226 |   |   |   |
-| ≤ 137,50 | 137,50 | 15,50 | 4,0024 |
-| >137,50 | 193 | 13,50 | 4,0023 |
-| Julianakanaal |   |   |   |
-| – Traject Gekanaliseerde Maas – Beatrixhaven | 137,50 | 14,00 | 3,00 |
-| – Traject Beatrixhaven – haven Stein |   |   |   |
-| <= 110 | 110 | 12,00 | 3,00 |
-| > 110 m | 137,50 | 11,50 | 3,00 |
-| – Traject Haven Stein – sluis Born | 137,50 | 14,00 | 3,00 |
-| – Sluis Born westsluis | 132,50 | 13,50 | 2,80 |
-| – Sluis Born midden- en oostsluis | 137,50 | 15,50 | 3,00 |
-| – Traject Born – km 36,6 |   |   |   |
-| ≤ 137,50 | 137,50 | 15,50 | 3,00 |
-| > 137,50 | 193 | 13,50 | 3,00 |
-| – Sluis Maasbracht oostsluis | 193 | 13,50 | 3,00 |
-| – Sluis Maasbracht midden -en westsluis | 137,50 | 15,50 | 3,00 |
-| Lateraalkanaal Linne-Buggenum |   |   |   |
-| – Sluis Heel oostsluis | 193 | 13,50 | 3,00 |
-| – Sluis Heel westsluis | 137,50 | 15,50 | 3,00 |
-| Maas-Waalkanaal |   |   |   |
-| km 0,0 (Maas)- km 10,7 |   |   |   |
-| ≤137,50 m | 137,50 | 15,50 | 3,50 |
-| > 137,5 m | 193 | 13,50 | 3,50 |
-| km 10,7 – km 12,9 | 225 | 15,50 | 3,7025 |
-| km 12,9 – km 13,4 (Waal) |   |   |   |
-| ≤ 193 m | 193 | 22,90 | 3,7025 |
-| > 193 m | 225 | 17,50 | 3,7025 |
-| Kanaal van Sint Andries | 110 | 13,50 | 3,5026 |
-| Verbindingskanaal in het Bossche Veld en Zuid-Willemsvaart tot grens Smeermaas | 86 | 8,30 | 2,50 |
-| Belgische grens nabij Loozen tot en met sluis 15 | 68 | 7,25 | 2,10 |
-| Sluis 15 – Randwegbrug | 95 | 9,60 | 2,10 |
-| Randwegbrug – sluis 13 |   |   |   |
-| <= 68 >68 | 68 80 | 7,25 5,20 | 1,90 1,90 |
-| Kanaal Wessem – Nederweert |   |   |   |
-| – km 0,00 – km 0,85 | 137,50 | 15,50 | 3,00 |
-| – km 0,85 – km 2,20 | 95 | 9,60 | 2,50 |
-| – km 2,20 – km 16,30 | 95 | 9,60 | 2,10 |
-| oude sluis Panheel | 95 | 7,25 | 2,10 |
 
-1Op het pand Geldersche IJssel – Eefde (voorpand) evenveel minder dan 2,80 m als de buitenwaterstand sluis Eefde lager is dan NAP + 3,20 m.
+1 Bij een waterstand hoger dan of gelijk aan NAP –0,75 m of zoveel minder dan de waterstand lager is dan NAP –0,75 m.
 
-2Schepen die gebruik maken van de hefopening in de spoor- en verkeersbrug Zutphen (km 928,150) moeten rekening houden met de volgende beperkingen: a. de bodem ligt op ca. NAP + 0,50 m, d.w.z. ongeveer 0,50 m hoger dan overigens in dat riviervak; b. de bodembreedte op NAP + 0,50 m is slechts 8,00 m; c. eerst op ca NAP + 2,50 m is een breedte van 12 m aanwezig; d. bij doorvaart hiervan is een sterke waterspiegeldaling mogelijk.
+2 Bij een waterstand hoger dan of gelijk aan NAP –0,55 m of zoveel minder dan de waterstand lager is dan NAP –0,55 m met dien verstande dat deze diepgang slechts is toegestaan voor schepen die vanaf de Westerschelde komen met als directe bestemming loswal ‘Kaai 85’ te Schore, alsmede voor schepen die vertrekken vanaf deze loswal met als directe bestemming Westerschelde.
 
-3Bij waterstand = NAP of zoveel minder dan de waterstand lager is dan NAP.
+3 Bij waterstand = NAP of zoveel minder dan de waterstand lager is dan NAP.
 
-4Bij waterstand = NAP of zoveel minder dan de waterstand lager is dan NAP. De drempeldiepte van de Meppelerdiep-brug ligt op NAP – 3,50 m. De keersluis in Zwartsluis wordt gesloten bij een waterstand hoger dan NAP + 0,50 m en bij een waterstand lager dan NAP – 0,50 m.
+4 Bij waterstand Oosterschelde-zijde NAP –1,50 m of hoger.
 
-5Bij een waterstand van NAP – 0,50 m of hoger of zoveel minder dan de waterstand lager is dan NAP – 0,50 m.
+5 Kielspeling 10% van de waterdiepte.
 
-6Bij een waterstand op de Waddenzee gelijk aan of boven NAP of op het IJsselmeer gelijk aan of boven NAP – 0,50 m dan wel evenveel minder dan de waterstand lager is dan NAP respectievelijk NAP – 0,50 m.
+| Vaarweg | Lengte in m | Breedte in m | Diepgang in m |
+| --- | --- | --- | --- |
+| Maasroute |   |   |   |
+| 1. Ternaaien – Beatrixhaven | 137,50 | 14 | 3 |
+| 2. Beatrixhaven – Stein |   |   |   |
+| a) ≤ 110 m | 110 | 12 | 3 |
+| b) > 110 m | 137,50 | 11,50 | 3 |
+| 3. Stein – Sluis Born | 137,50 | 14 | 3 |
+| 4. Sluis Born – Venlo, km 110,50 |   |   |   |
+| a) ≤ 137,50 | 137,50 | 15,50 | 3 |
+| b) > 137,50 | 193 | 13,50 | 31, 2 |
+| 5. Venlo km 110,50 – Sluis Grave |   |   |   |
+| a) ≤ 137,50 | 137,50 | 15,50 | 3,50 |
+| b) > 137,50 | 193 | 13,50 | 3,50 |
+| 6. Sluis Grave – Brug Ravenstein (A50) | 193 | 15,50 | 3,203 |
+| 7. Brug Ravenstein (A50) – km 226 |   |   |   |
+| a) ≤ 137,50 | 137,50 | 15,50 | 4 |
+| b) > 137,50 | 193 | 13,50 | 44, 5 |
+| 8. km 226 – km 250,90 | 193 | 17,50 | 4 |
+| 9. km 64,50 – Julianakanaal | 110 | 12 | 2,80 |
+| 10. Sluis Linne – Sluis Roermond | 193 | 13,50 | 3 |
+| 11. Kanaal van Sint Andries | 110 | 13,50 | 3,506 |
+| 12. Sluis Andel | 110 | 12,50 | 1,807 |
+| 13. Heusdensch Kanaal – Afgedamde Maas |   |   |   |
+| a) ≤ 137,50 | 137,50 | 15,50 | 2,60 |
+| b) >137,50 | 193 | 13,50 | 2,60 |
+| Brabantse en Midden-Limburgse kanalen ZWV en WHK |   |   |   |
+| 1. Oude sluis Panheel | 95 | 7,25 | 2,10 |
+| 2. Kanaal Wessem – Nederweert |   |   |   |
+| a) km 0 – km 0,85 | 137,50 | 15,50 | 3 |
+| b) km 0,85 – km 2,20 | 95 | 9,60 | 2,50 |
+| c) km 2,20 – km 16,30 (sluis 15) | 95 | 9,60 | 2,10 |
+| 3. Zuid-Willemsvaart (ZWV) |   |   |   |
+| a) Verbindingskanaal in het Bossche Veld | 86 | 8,30 | 2,50 |
+| b) Belgische grens nabij Loozen tot met sluis 15 | 68 | 7,25 | 2,10 |
+| c) Sluis 15 – Randwegbrug | 95 | 9,60 | 2,10 |
+| d) Randwegbrug – kruising ZWV-WHK |   |   |   |
+| i. ≤ 68 m | 68 | 7,25 | 1,90 |
+| ii. > 68 m | 80 | 5,20 | 1,90 |
+| e) Kruising ZWV-WHK tot sluis 4 | 110 | 7,25 | 1,90 |
+| f) Sluis 4 – Maximakanaal |   |   |   |
+| i. ≤ 105 m | 105 | 9,60 | 3 |
+| ii. > 105 m | 110 | 7,25 | 3 |
+| g) Maximakanaal |   |   |   |
+| i. ≤ 105 m | 105 | 9,60 | 3 |
+| ii. > 105 m | 110 | 7,25 | 3 |
+| 4. Wilhelminakanaal (WHK) |   |   |   |
+| a) Kruising ZWV-WHK – Beatrixkanaal | 110 | 7,25 | 1,90 |
+| b) Beatrixkanaal – Industriehaven Loven | 63 | 7,25 | 1,90 |
+| c) Industriehaven Loven – Sluis II | 63 | 7,25 | 2,10 |
+| d) Sluis II – Sluis I | 90 | 9,60 | 2,70 |
+| e) Sluis I – Amer | 135 | 11,50 | 3,308 |
+| f) Markkanaal | 90 | 9,60 | 2,60 |
+| g) Oude Maasje (Bergsche Maas – Sluis Schipdiep) | 95 | 11,50 | 2,50 |
 
-7Bij een waterstand van NAP – 0,60 m of zoveel minder dan de waterstand lager is dan NAP – 0,60 m.
+1 Sluis Linne. Of zoveel minder dan de waterstand in het benedentoeleidingskanaal lager is dan NAP +16,95 m.
 
-8Bij een waterstand van NAP – 0,60 m op het Amsterdam-Rijnkanaal of zoveel minder dan de waterstand lager is dan NAP – 0,60m.
+2 Sluis Roermond. Of zoveel minder dan de waterstand in het benedentoeleidingskanaal lager is dan NAP +14,20 m.
 
-8aBij een waterstand van NAP + 1,35 m of hoger of zoveel minder als de waterstand op de Lek bij de Koninginnesluis is.
+3 Sluis Grave. Maas tussen Grave (boven de sluis) en km 182 (brug A50) een maximale toegelaten diepgang van 3,20 m of zoveel meer dan de waterstand bij Grave-Beneden hoger is dan NAP +5,20 m.
 
-9Bij een waterstand van NAP + 0,50 m of hoger of zoveel minder dan de waterstand is bij de Doorslagsluis te Nieuwegein.
+4 Sluis Lith, zuidkolk. Bij een waterstand NAP +1 m of zoveel minder dan de buitenwaterstand in het benedentoeleidingskanaal lager is dan NAP +1 m.
 
-10Bij een waterstand t.o.v. NAP, of zoveel hoger of zoveel minder dan de waterstand t.o.v. NAP.
+5 Sluis Lith, noordkolk. Bij een waterstand van NAP of zoveel minder dan de buitenwaterstand in het benedentoeleidingskanaal lager is dan NAP of zoveel minder dan de waterstand in het boventoeleidingskanaal lager is dan NAP +4,50 m.
 
-11Bij een waterstand = NAP of zoveel minder dan de waterstand lager is dan NAP.
+6 Bij een waterstand NAP +1 m of zoveel minder dan de waterstand bij sluis St. Andries v.w.b. de Maaszijde lager is dan NAP +1 m dan wel v.w.b. de Waalzijde lager is dan NAP +2 m.
 
-11aUitsluitend ledige schepen.
+7 Bij waterstand = NAP of zoveel minder dan de waterstand lager is dan NAP.
 
-12Schepen langer dan 65 m moeten zijn uitgerust met een actieve kopbesturing.
-
-13Bij een waterstand van NAP + 0,70 m of zoveel minder als de waterstand minder is dan NAP + 0,70 m.
-
-14Bij een waterstand hoger dan of gelijk aan NAP – 0,75 m of zoveel minder dan de waterstand lager is dan NAP – 0,75 m.
-
-15Bij een waterstand hoger dan of gelijk aan NAP – 0,55 m of zoveel minder dan de waterstand lager is dan NAP – 0,55 m met dien verstande dat deze diepgang slechts is toegestaan voor schepen die vanaf de Westerschelde komen met als directe bestemming loswal “Kaai 85” te Schore, alsmede voor schepen die vertrekken vanaf deze loswal met als directe bestemming Westerschelde.
-
-16Bij een waterstand = NAP of zoveel minder dan de waterstand lager is dan NAP.
-
-17Bij waterstand Oosterschelde-zijde NAP – 1,50 m of hoger.
-
-18Kielspeling 10% van de waterdiepte.
-
-19Of zoveel minder dan de waterstand in het benedentoeleidingskanaal lager is dan NAP + 16,95 m.
-
-20Of zoveel minder dan de waterstand in het benedentoeleidingskanaal lager is dan NAP + 14,20 m.
-
-21Maas tussen Grave (boven de sluis) en kmr 182 (brug A50) een maximale toegelaten diepgang van 3,20 m of zoveel meer dan de waterstand bij Grave-Beneden hoger is dan NAP + 5,20 m.
-
-22Bij een waterstand NAP + 1 m of zoveel minder dan de buitenwaterstand in het benedentoeleidingskanaal lager is dan NAP + 1 m.
-
-23Bij een waterstand van NAP of zoveel minder dan de buitenwaterstand in het benedentoeleidingskanaal lager is dan NAP of zoveel minder dan de waterstand in het boventoeleidingskanaal lager is dan NAP + 4,50 m
-
-24Bij een waterstand van NAP of zoveel minder dan de buitenwaterstand in het benedentoeleidingskanaal lager is dan NAP of zoveel minder dan de waterstand in het boventoeleidingskanaal lager is dan NAP + 4,50 m
-
-25Of zoveel minder dan de buiten- of de binnenwaterstand lager is dan NAP + 7,20 m.
-
-26Bij een waterstand NAP + 1 m of zoveel minder dan de waterstand bij sluis St. Andries v.w.b. de Maaszijde lager is dan NAP + 1 m dan wel v.w.b. de Waalzijde lager is dan NAP + 2 m.
-
-27Bij een waterstand te Harlingen van NAP + 0,75 m of zoveel minder dan de verwachte waterstand te Harlingen tijdens de passage lager is.
-
-28Bij een waterstand te Harlingen van NAP + 0,66 m of zoveel minder dan de verwachte waterstand te Harlingen tijdens de passage lager is.
+8 Bij een waterstand van NAP +0,70 m of zoveel minder als de waterstand minder is dan NAP +0,70 m.
 
 ## Bijlage 4. Lijst van de soorten vaartuigen en samenstellen
 
