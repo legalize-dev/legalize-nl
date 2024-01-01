@@ -4,7 +4,7 @@ identifier: "BWBR0035660"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2014-10-23"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035660"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ In dit besluit wordt verstaan onder:
 
 - a. de minister, waterschappen, provincies, gemeentes en andere betrokken instanties met een taak of verantwoordelijkheid voor waterveiligheid te adviseren vanuit een primair technisch-inhoudelijke invalshoek over vraagstukken met betrekking tot waterveiligheid;
 
-- b. de minister te adviseren over de technisch-inhoudelijke kwaliteit van technische leidraden als bedoeld in [artikel 2.6 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=2.6);
+- b. de minister te adviseren over de technisch-inhoudelijke kwaliteit van technische leidraden als bedoeld in [artikel 2.19, tweede lid, onder d, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.19);
 
 - c. de kennis die nodig is voor de wettelijke taakuitoefening van waterkeringbeheerders en andere overheden en instanties met een taak of verantwoordelijkheid voor waterveiligheid samen te brengen, te delen en uit te wisselen.
 
@@ -104,7 +104,7 @@ Het ENW legt na overleg met de minister zijn werkwijze vast in een Reglement Wer
 
 ##### Artikel 8. Kosten van het ENW
 
-1. De kosten die het ENW ten behoeve van de uitoefening van haar taken maakt komen voor zover goedgekeurd op grond van [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035660&artikel=9&z=2014-10-23&g=2014-10-23), voor rekening van de minister. Onder kosten worden in ieder geval verstaan:
+1. De kosten die het ENW ten behoeve van de uitoefening van haar taken maakt komen voor zover goedgekeurd op grond van [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035660&artikel=9&z=2024-01-01&g=2024-01-01), voor rekening van de minister. Onder kosten worden in ieder geval verstaan:
 
 - a. de kosten voor vergaderingen en voor secretariële ondersteuning;
 
@@ -122,7 +122,7 @@ Het ENW legt na overleg met de minister zijn werkwijze vast in een Reglement Wer
 
 ##### Artikel 10. Openbaarmaking
 
-De adviezen van het ENW, bedoeld in [artikel 2, tweede lid onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0035660&artikel=2&z=2014-10-23&g=2014-10-23), en artikel 2, derde lid, worden openbaar gemaakt door plaatsing op de website van het ENW.
+De adviezen van het ENW, bedoeld in [artikel 2, tweede lid onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0035660&artikel=2&z=2024-01-01&g=2024-01-01), en artikel 2, derde lid, worden openbaar gemaakt door plaatsing op de website van het ENW.
 
 ##### Artikel 11. Archiefbescheiden
 
