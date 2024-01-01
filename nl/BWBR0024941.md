@@ -4,7 +4,7 @@ identifier: "BWBR0024941"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-04-01"
-last_updated: "2023-03-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024941"
 soort: "AMvB"
@@ -94,7 +94,7 @@ Een bestuurlijke boete kan worden opgelegd voor overtreding van voorschriften al
 
 - c. het ter inzameling aanbieden van bedrijfsafvalstoffen;
 
-- d. buiten een daarvoor door het college bestemde plaats en buiten een inrichting in de zin van de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) een afvalstof, een stof of voorwerp in de bodem brengen, storten, houden, achterlaten of anderszins plaatsen op een wijze die aanleiding kan geven tot hinder of nadelige beïnvloeding van het milieu;
+- d. buiten een daarvoor door het college bestemde plaats en buiten een locatie waarop een milieubelastende activiteit die is aangewezen in hoofdstuk 3 van het Besluit activiteiten leefomgeving wordt verricht een afvalstof, een stof of voorwerp in de bodem brengen, storten, houden, achterlaten of anderszins plaatsen op een wijze die aanleiding kan geven tot hinder of nadelige beïnvloeding van het milieu;
 
 - e. het achterlaten van straatafval in de openbare ruimte;
 
@@ -108,7 +108,7 @@ Een bestuurlijke boete kan worden opgelegd voor overtreding van voorschriften al
 
 - j. het op een voor het publiek zichtbare plaats aanwezig hebben van afvalstoffen;
 
-- k. het zich ontdoen van een autowrak, afkomstig uit een huishouden, anders dan door afgifte aan inrichtingen, genoemd in [artikel 6 van het Besluit beheer autowrakken](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&artikel=6).
+- k. het zich ontdoen van een autowrak, afkomstig uit een huishouden, anders dan door afgifte aan degenen, bedoeld in [artikel 6 van het Besluit beheer autowrakken](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&artikel=6).
 
 ##### Artikel 4
 
@@ -136,7 +136,7 @@ Dit besluit treedt in werking op het tijdstip waarop de [Wet bestuurlijke boete 
 
 Dit besluit wordt aangehaald als: Besluit bestuurlijke boete overlast in de openbare ruimte.
 
-## Bijlage. als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024941&artikel=4&z=2023-03-01&g=2023-03-01), van het Besluit bestuurlijke boete overlast in de openbare ruimte
+## Bijlage. als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024941&artikel=4&z=2024-01-01&g=2024-01-01), van het Besluit bestuurlijke boete overlast in de openbare ruimte
 
 | **A. Voorschrift uit de plaatselijke verordening** | **Boete in euro’s** |
 | --- | --- |
@@ -332,7 +332,7 @@ Dit besluit wordt aangehaald als: Besluit bestuurlijke boete overlast in de open
 | B.3 |   |
 | In de open lucht vuur aanleggen, stoken of hebben | 300 |
 
-| **C. Voorschrift uit de afvalstoffenverordening, voor zover betrekking hebbend op:** | **Boete in euro’s** |
+| **C. Voorschrift uit de afvalstoffenverordening of het omgevingsplan, voor zover betrekking hebbend op:** | **Boete in euro’s** |
 | --- | --- |
 | C.1 |   |
 | Het inzamelen van huishoudelijke afvalstoffen | 150 |
@@ -344,7 +344,7 @@ Dit besluit wordt aangehaald als: Besluit bestuurlijke boete overlast in de open
 | Het ter inzameling aanbieden van bedrijfsafvalstoffen | 100 |
 |   |   |
 | C.4 |   |
-| Buiten een daarvoor door het college bestemde plaats en buiten een inrichting in de zin van de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) een afvalstof, een stof of voorwerp in de bodem brengen, storten, houden, achterlaten of anderszins plaatsen op een wijze die aanleiding kan geven tot hinder of nadelige beïnvloeding van het milieu | 420 |
+| Buiten een daarvoor door het college bestemde plaats en buiten een locatie waarop een milieubelastende activiteit die is aangewezen in[hoofdstuk 3 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=3) wordt verricht een afvalstof, een stof of voorwerp in de bodem brengen, storten, houden, achterlaten of anderszins plaatsen op een wijze die aanleiding kan geven tot hinder of nadelige beïnvloeding van het milieu | 420 |
 |   |   |
 | C.5 |   |
 | Het achterlaten van straatafval in de openbare ruimte | 150 |
