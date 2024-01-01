@@ -4,7 +4,7 @@ identifier: "BWBR0048611"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-26"
-last_updated: "2023-09-15"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048611"
 soort: "ministeriele-regeling"
@@ -62,9 +62,9 @@ In deze regeling wordt verstaan onder:
 
 - –. **ontmoetingsruimte:** ruimte die fysiek verbonden is aan een geclusterde woonvorm, dan wel zich op maximaal 100 meter daarvandaan bevindt, die in ieder geval toegankelijk is voor bewoners van die geclusterde woonvorm, die geëxploiteerd wordt door een organisatie die verbonden is met de geclusterde woonvorm, en die primair een sociale functie voor haar bewoners heeft;
 
-- –. **rollatorgeschikte wooneenheid:** zelfstandige wooneenheid waarvan de woon- en eetruimte, keuken, toilet, bad- of doucheruimte, slaapkamer en het terras of het balkon, indien aanwezig, voldoen aan de eisen voor rollatorgeschiktheid genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048611&bijlage=1&z=2023-09-15&g=2023-09-15);
+- –. **rollatorgeschikte wooneenheid:** zelfstandige wooneenheid waarvan de woon- en eetruimte, keuken, toilet, bad- of doucheruimte, slaapkamer en het terras of het balkon, indien aanwezig, voldoen aan de eisen voor rollatorgeschiktheid genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048611&bijlage=1&z=2025-04-26&g=2024-01-01);
 
-- –. **rolstoelgeschikte wooneenheid:** zelfstandige wooneenheid waarvan de woon- en eetruimte, keuken, toilet, bad- of doucheruimte, slaapkamer en het terras of het balkon, indien aanwezig, voldoen aan de eisen voor rolstoelgeschiktheid genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048611&bijlage=1&z=2023-09-15&g=2023-09-15);
+- –. **rolstoelgeschikte wooneenheid:** zelfstandige wooneenheid waarvan de woon- en eetruimte, keuken, toilet, bad- of doucheruimte, slaapkamer en het terras of het balkon, indien aanwezig, voldoen aan de eisen voor rolstoelgeschiktheid genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048611&bijlage=1&z=2025-04-26&g=2024-01-01);
 
 - –. **transformatie:** het veranderen van functie van een bestaand gebouw tot een geclusterde woonvorm, waarvoor een omgevingsvergunning is vereist;
 
@@ -132,7 +132,7 @@ Op deze regeling zijn de [hoofdstukken 5](https://wetten.overheid.nl/jci1.3:c:BW
 
 - i. een verklaring van de aanvrager dat bij de bouw rekening wordt gehouden met dementievriendelijk bouwen.
 
-- j. een door de minister vastgestelde ondertekende overeenkomst, bedoeld in [artikel 1.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048611&hoofdstuk=1&artikel=1.4&z=2023-09-15&g=2023-09-15), voor het vestigen van een DAEB.
+- j. een door de minister vastgestelde ondertekende overeenkomst, bedoeld in [artikel 1.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048611&hoofdstuk=1&artikel=1.4&z=2025-04-26&g=2024-01-01), voor het vestigen van een DAEB.
 
 ##### Artikel 2.2. Voorwaarden subsidie
 
@@ -204,7 +204,7 @@ Een subsidie wordt enkel verstrekt indien:
 
 1. De subsidieontvanger is verplicht:
 
-- a. de bouw van de geclusterde woonvorm te voltooien op de wijze beschreven in het bouwplan, bedoeld in [artikel 2.1, derde lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0048611&hoofdstuk=2&artikel=2.1&z=2023-09-15&g=2023-09-15);
+- a. de bouw van de geclusterde woonvorm te voltooien op de wijze beschreven in het bouwplan, bedoeld in [artikel 2.1, derde lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0048611&hoofdstuk=2&artikel=2.1&z=2025-04-26&g=2024-01-01);
 
 - b. aan te vangen met de transformatie of bouw van de geclusterde woonvorm binnen drie jaar na de datum van verlening van de subsidie;
 
@@ -214,7 +214,7 @@ Een subsidie wordt enkel verstrekt indien:
 
 - e. de minister jaarlijks voor 31 januari te informeren per wanneer naar verwachting de omgevingsvergunning wordt verleend en wanneer de transformatie of bouw wordt gestart;
 
-- f. het aantal in de verklaring, bedoeld in [artikel 2.1, derde lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0048611&hoofdstuk=2&artikel=2.1&z=2023-09-15&g=2023-09-15), opgegeven wooneenheden gedurende drie maanden na oplevering gereserveerd te houden voor mensen met een Wlz-indicatie, zolang het opgegeven aantal nog niet is bereikt.
+- f. het aantal in de verklaring, bedoeld in [artikel 2.1, derde lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0048611&hoofdstuk=2&artikel=2.1&z=2025-04-26&g=2024-01-01), opgegeven wooneenheden gedurende drie maanden na oplevering gereserveerd te houden voor mensen met een Wlz-indicatie, zolang het opgegeven aantal nog niet is bereikt.
 
 2. Indien de bouw van de geclusterde woonvorm buiten de schuld van de subsidieontvanger niet mogelijk is binnen de termijnen, genoemd in het eerste lid, onder b en c, kan de minister op schriftelijk en gemotiveerd verzoek van de subsidieontvanger ontheffing verlenen van die termijnen.
 
