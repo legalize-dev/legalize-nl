@@ -4,7 +4,7 @@ identifier: "BWBR0012289"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-03"
-last_updated: "2023-10-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012289"
 soort: "circulaire"
@@ -3045,7 +3045,7 @@ Een (buitenlandse) ziektekostenverzekering volstaat bij studie, voor zover deze 
 
 Wanneer de vreemdeling naast de studie (vrijwilligers)werk gaat verrichten (niet zijnde stage in het kader van de studie), is de vreemdeling verzekeringsplichtig in het kader van de [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) en moet hij een basisverzekering in Nederland afsluiten.
 
-Op grond van [artikel 3.58, eerste lid, aanhef en onder m, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.58) verleent de IND de verblijfsvergunning met een geldigheidsduur gelijk aan de duur van de opleiding vermeerderd met maximaal één jaar voor een voorbereidende opleiding, en drie extra maanden voor de administratieve afronding van de opleiding, met een maximum van 5 jaar. De IND verstaat onder voorbereidend onderwijs ook een schakeljaar.
+Op grond van [artikel 3.58, eerste lid, aanhef en onder m, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.58) verleent de IND de verblijfsvergunning met een geldigheidsduur gelijk aan de duur van de opleiding vermeerderd met in beginsel één jaar voor een voorbereidende opleiding, en drie extra maanden voor de administratieve afronding van de opleiding, met een maximum van vijf jaar. De IND verstaat onder voorbereidend onderwijs ook een schakeljaar.
 
 ### 4. Verlenging en intrekking
 
@@ -3213,9 +3213,9 @@ De gezinsleden van de vreemdeling hebben op grond van artikel 30, derde en vierd
 
 ### 2.6. Houder van een Europese blauwe kaart
 
-Op grond van artikel 3.30d, vierde lid, Vb vraagt de IND geen advies aan het UWV en wijst de IND de aanvraag af of trekt de vergunning in, indien:
+Op grond van [artikel 3.30d, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.30d) vraagt de IND geen advies aan het UWV en wijst de IND de aanvraag af of trekt de vergunning in, indien:
 
-Als de vreemdeling meer dan 50% eigenaar is van de onderneming, dan beschouwt de IND deze persoon als zelfstandige. Op dat moment is de ICT-richtlijn niet op hem van toepassing (artikel 2, aanhef en onder d, [Richtlijn 2014/66](32014L0066)/EU).
+Als de vreemdeling meer dan 50% eigenaar is van de onderneming, dan beschouwt de IND deze persoon als zelfstandige. Op dat moment is de ICT-richtlijn niet op hem van toepassing (artikel 2, aanhef en onder d, [Richtlijn 2014/66/EU](32014L0066)).
 
 ### 3.1.4. Arbeid als zelfstandige
 
@@ -4271,13 +4271,13 @@ De IND beschouwt een salaris dat voldoet aan het looncriterium voor arbeid als k
 
 Op grond van [artikel 3.30d, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.30d) vraagt de IND advies aan het UWV indien de referent erkend is en:
 
-De IND beschouwt een salaris dat voldoet aan het looncriterium voor arbeid als kennismigrant als marktconform als bedoeld in artikel 3.30d, eerste lid, onder g, Vb.
+De IND beschouwt een salaris dat voldoet aan het looncriterium voor arbeid als kennismigrant als marktconform als bedoeld in [artikel 3.30d, eerste lid, onder g, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.30d).
 
-Op grond van artikel 3.30d, vierde lid, Vb wijst de IND de aanvraag af of trekt de vergunning in indien het UWV een negatief advies geeft omtrent:
+Op grond van [artikel 3.30d, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.30d) wijst de IND de aanvraag af of trekt de vergunning in indien het UWV een negatief advies geeft omtrent:
 
-Op grond van artikel 11, vierde lid, respectievelijk 22, vierde lid, van de [richtlijn 2014/66](32014L0066)/EU vermeldt de IND op het verblijfsdocument van de werknemer ‘ICT’ respectievelijk ‘mobile ICT’.
+Op grond van artikel 11, vierde lid, respectievelijk 22, vierde lid, van de [richtlijn 2014/66/EU](32014L0066) vermeldt de IND op het verblijfsdocument van de werknemer ‘ICT’ respectievelijk ‘mobile ICT’.
 
-In aanvulling op artikel 3.30d, eerste lid, Vb verleent de IND de verblijfsvergunning uitsluitend aan een vreemdeling die een beroep wil uitoefenen in de individuele gezondheidszorg als registratie in het BIG-register heeft plaatsgevonden.
+In aanvulling op [artikel 3.30d, eerste lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.30d) verleent de IND de verblijfsvergunning uitsluitend aan een vreemdeling die een beroep wil uitoefenen in de individuele gezondheidszorg als registratie in het BIG-register heeft plaatsgevonden.
 
 Op grond van [artikel 3.4, eerste lid, aanhef en onder d, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4) verleent de IND een verblijfsvergunning regulier voor bepaalde tijd, onder de beperking: ‘Arbeid als kennismigrant’.
 
@@ -6119,7 +6119,7 @@ De IND verleent een verblijfsvergunning regulier voor onbepaalde tijd als wordt 
 
 De IND verleent een verblijfsvergunning voor onbepaalde tijd aan de vreemdeling als bedoeld in [artikel 3.93, eerste lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.93) als geen van de gronden van [artikel 21 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21) zich voordoet en met inachtneming van artikel 3.93, tweede, derde en vierde lid, Vb.
 
-De IND verleent een verblijfsvergunning voor onbepaalde tijd aan het afhankelijk gezinslid van een ex-geprivilegieerde als geen van de gronden van [artikel 21 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21) zich voordoet en wordt voldaan aan [artikel 3.93, eerste lid, aanhef en onder c, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.93), artikel 3.93, derde lid, Vb en [artikel 3.96a Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.93).
+De IND verleent een verblijfsvergunning voor onbepaalde tijd aan het afhankelijk gezinslid van een ex-geprivilegieerde als geen van de gronden van [artikel 21 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21) zich voordoet en wordt voldaan aan [artikel 3.93, eerste lid, aanhef en onder c, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.93), artikel 3.93, derde lid, Vb en [artikel 3.96a Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.96a).
 
 Ten aanzien van de in [artikel 3.93, eerste lid, aanhef en onder b, sub 2, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.93) genoemde vreemdelingen geldt het volgende:
 
