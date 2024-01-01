@@ -4,7 +4,7 @@ identifier: "BWBR0043063"
 country: "nl"
 rank: "rijkswet"
 publication_date: "2024-01-01"
-last_updated: "2020-04-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043063"
 soort: "rijkswet"
@@ -70,8 +70,6 @@ Wijzigt de Wijzigingsrijkswet Rijkswet op het Nederlanderschap (intrekken Nederl
 ##### Artikel VII
 
 Wijzigt de Paspoortwet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VIII
 
