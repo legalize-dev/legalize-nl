@@ -4,7 +4,7 @@ identifier: "BWBR0019518"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2015-07-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019518"
 soort: "ministeriele-regeling"
@@ -45,13 +45,13 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. Minister: de Minister van Infrastructuur en Milieu;
+- a. Minister: de Minister van Infrastructuur en Waterstaat;
 
-- b. plan: een plan als bedoeld in [artikel 5.4 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=5.4);
+- b. plan: een projectbesluit als bedoeld in [artikel 5.44 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.44);
 
 - c. subsidie: een subsidie voor een maatregel als bedoeld in [artikel 7.23, vijfde lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.23);
 
-- d. werk: een werk ter uitvoering van een plan als bedoeld in onderdeel b;
+- d. werk: een werk ter uitvoering van een projectbesluit als bedoeld in onderdeel b;
 
 - e. hoofdingenieur-directeur: de hoofdingenieur-directeur Rijkswaterstaat Grote Projecten en Onderhoud.
 
@@ -81,7 +81,7 @@ In deze regeling wordt verstaan onder:
 
 2. Niet voor vergoeding komen in aanmerking:
 
-- a. de kosten voor bodemsanering die voor vergoeding in aanmerking komen op grond van het bepaalde bij of krachtens de [Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994);
+- a. de kosten voor bodemsanering die voor vergoeding in aanmerking komen op grond van het bepaalde bij of krachtens de [Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789);
 
 - b. de kosten voor de opruiming van explosieven die voor vergoeding in aanmerking komen op grond van het [Bijdragebesluit kosten ruiming explosieven Tweede Wereldoorlog 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010700);
 
@@ -101,11 +101,11 @@ In deze regeling wordt verstaan onder:
 
 - b. een ontwerp en een beschrijving van het werk ter uitvoering van het goedgekeurde plan;
 
-- c. een overzicht van de gemaakte kosten van voorbereiding, bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=2&artikel=2&z=2015-07-01&g=2015-07-01), een financiële verantwoording over deze kosten en een controleverklaring waaruit blijkt dat deze kosten zijn gemaakt, overeenkomstig het daartoe door de Minister bekendgemaakte controleprotocol;
+- c. een overzicht van de gemaakte kosten van voorbereiding, bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=2&artikel=2&z=2024-01-01&g=2024-01-01), een financiële verantwoording over deze kosten en een controleverklaring waaruit blijkt dat deze kosten zijn gemaakt, overeenkomstig het daartoe door de Minister bekendgemaakte controleprotocol;
 
-- d. een raming van de nog te maken kosten van voorbereiding, bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=2&artikel=2&z=2015-07-01&g=2015-07-01), conform een daartoe door de Minister voorgeschreven ramingssystematiek;
+- d. een raming van de nog te maken kosten van voorbereiding, bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=2&artikel=2&z=2024-01-01&g=2024-01-01), conform een daartoe door de Minister voorgeschreven ramingssystematiek;
 
-- e. een raming van de kosten, bedoeld in [artikel 2, eerste lid, onderdelen b tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=2&artikel=2&z=2015-07-01&g=2015-07-01), conform een daartoe door de Minister voorgeschreven ramingssystematiek;
+- e. een raming van de kosten, bedoeld in [artikel 2, eerste lid, onderdelen b tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=2&artikel=2&z=2024-01-01&g=2024-01-01), conform een daartoe door de Minister voorgeschreven ramingssystematiek;
 
 - f. het bedrag waarvoor subsidie wordt gevraagd;
 
@@ -137,17 +137,17 @@ In deze regeling wordt verstaan onder:
 
 - b. een raming van het totale te subsidiëren bedrag;
 
-- c. het bedrag waarvoor een voorschot wordt verleend, waarbij het bedrag voor de kosten van voorbereiding, bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=2&artikel=2&z=2015-07-01&g=2015-07-01), afzonderlijk wordt vermeld.
+- c. het bedrag waarvoor een voorschot wordt verleend, waarbij het bedrag voor de kosten van voorbereiding, bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=2&artikel=2&z=2024-01-01&g=2024-01-01), afzonderlijk wordt vermeld.
 
 2. [Artikel 4:37, eerste lid, onderdeel c, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:37) is van overeenkomstige toepassing.
 
 ##### Artikel 6. Voorschotverlening
 
-1. Aan de subsidieontvanger kan gedurende de realisatie van het werk jaarlijks op aanvraag een voorschot worden verleend. Het totaal aan te verlenen voorschotten ten behoeve van de realisatie van het werk bedraagt niet meer dan 80 procent van de raming van de kosten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=2&artikel=2&z=2015-07-01&g=2015-07-01).
+1. Aan de subsidieontvanger kan gedurende de realisatie van het werk jaarlijks op aanvraag een voorschot worden verleend. Het totaal aan te verlenen voorschotten ten behoeve van de realisatie van het werk bedraagt niet meer dan 80 procent van de raming van de kosten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=2&artikel=2&z=2024-01-01&g=2024-01-01).
 
 2. De aanvraag tot voorschotverlening wordt ingediend voor 15 april van het kalenderjaar waarvoor een voorschot wordt aangevraagd. Bij de aanvraag legt de subsidieontvanger een raming over van de te maken kosten in de periode waarvoor een voorschot wordt gevraagd en een raming van de bedragen waarvoor een voorschot zal worden gevraagd in de daaropvolgende kalenderjaren.
 
-3. De aanvraag wordt niet in behandeling genomen zolang het verantwoordingsverslag, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=3&artikel=7&z=2015-07-01&g=2015-07-01), niet is overgelegd.
+3. De aanvraag wordt niet in behandeling genomen zolang het verantwoordingsverslag, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=3&artikel=7&z=2024-01-01&g=2024-01-01), niet is overgelegd.
 
 4. De Minister neemt binnen acht weken na ontvangst van de aanvraag een besluit omtrent de voorschotverlening. De beschikking tot voorschotverlening vermeldt het bedrag waarvoor het voorschot wordt verleend.
 
@@ -157,13 +157,13 @@ In deze regeling wordt verstaan onder:
 
 De subsidieontvanger overlegt gedurende de realisatiefase van het werk jaarlijks voor 15 april, aan de hoofdingenieur-directeur een verantwoordingsverslag met betrekking tot de uitvoering van het werk met daarin:
 
-- a. een financiële verantwoording waarin onderscheid wordt gemaakt tussen de kosten, bedoeld in [artikel 2, eerste lid, onderdelen b tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=2&artikel=2&z=2015-07-01&g=2015-07-01);
+- a. een financiële verantwoording waarin onderscheid wordt gemaakt tussen de kosten, bedoeld in [artikel 2, eerste lid, onderdelen b tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=2&artikel=2&z=2024-01-01&g=2024-01-01);
 
-- b. een financiële verantwoording van de kosten, bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=2&artikel=2&z=2015-07-01&g=2015-07-01), die niet zijn opgenomen in het overzicht, bedoeld in [artikel 3, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=3&artikel=3&z=2015-07-01&g=2015-07-01);
+- b. een financiële verantwoording van de kosten, bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=2&artikel=2&z=2024-01-01&g=2024-01-01), die niet zijn opgenomen in het overzicht, bedoeld in [artikel 3, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=3&artikel=3&z=2024-01-01&g=2024-01-01);
 
 - c. een controleverklaring, overeenkomstig het daartoe door de Minister bekendgemaakte controleprotocol;
 
-- d. eventuele wijzigingen in het tijdschema bedoeld in [artikel 3, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=3&artikel=3&z=2015-07-01&g=2015-07-01).
+- d. eventuele wijzigingen in het tijdschema bedoeld in [artikel 3, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=3&artikel=3&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 8. Intrekking of wijziging subsidieverlening
 
@@ -179,9 +179,9 @@ Op de intrekking of wijziging van de beschikking tot subsidieverlening zijn de [
 
 - a. een financiële eindverantwoording over het werk bestaande uit:
 
-- 1°. een overzicht van de gemaakte kosten voor de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=2&artikel=2&z=2015-07-01&g=2015-07-01), onderscheiden posten;
+- 1°. een overzicht van de gemaakte kosten voor de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=2&artikel=2&z=2024-01-01&g=2024-01-01), onderscheiden posten;
 
-- 2°. een overzicht van de uitbetaalde voorschotten waarbij voorschotten voor de kosten van voorbereiding, bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=2&artikel=2&z=2015-07-01&g=2015-07-01), afzonderlijk worden vermeld;
+- 2°. een overzicht van de uitbetaalde voorschotten waarbij voorschotten voor de kosten van voorbereiding, bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=2&artikel=2&z=2024-01-01&g=2024-01-01), afzonderlijk worden vermeld;
 
 - b. een verklaring over de financiële eindverantwoording, afgegeven door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), waaruit blijkt of het werk is uitgevoerd overeenkomstig de beschikking tot subsidieverlening en waaruit blijkt dat de in onderdeel a bedoelde kosten zijn gemaakt, overeenkomstig het daartoe door de Minister bekendgemaakte controleprotocol.
 
@@ -195,13 +195,13 @@ Op de intrekking of wijziging van de beschikking tot subsidieverlening zijn de [
 
 - b. de berekeningswijze voor de vaststelling van het subsidiebedrag;
 
-- c. het bedrag van de vastgestelde subsidie uitgesplitst overeenkomstig de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=2&artikel=2&z=2015-07-01&g=2015-07-01), onderscheiden posten;
+- c. het bedrag van de vastgestelde subsidie uitgesplitst overeenkomstig de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=2&artikel=2&z=2024-01-01&g=2024-01-01), onderscheiden posten;
 
 - d. de betaalde voorschotten;
 
 - e. het te betalen dan wel terug te vorderen bedrag.
 
-2. De subsidie kan ambtshalve worden vastgesteld indien de subsidieontvanger niet tijdig een aanvraag heeft ingediend als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=4&artikel=9&z=2015-07-01&g=2015-07-01), of een verzoek als bedoeld in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=4&artikel=9&z=2015-07-01&g=2015-07-01).
+2. De subsidie kan ambtshalve worden vastgesteld indien de subsidieontvanger niet tijdig een aanvraag heeft ingediend als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=4&artikel=9&z=2024-01-01&g=2024-01-01), of een verzoek als bedoeld in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=4&artikel=9&z=2024-01-01&g=2024-01-01).
 
 3. [Artikel 4:46, tweede lid en derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46) is van overeenkomstige toepassing op de subsidievaststelling.
 
@@ -209,15 +209,15 @@ Op de intrekking of wijziging van de beschikking tot subsidieverlening zijn de [
 
 ##### Artikel 11. Procedure voor subsidievaststelling in twee fasen
 
-1. Indien vanwege nog lopende gerechtelijke procedures, voor een deel van de kosten bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=2&artikel=2&z=2015-07-01&g=2015-07-01), de subsidie nog niet kan worden vastgesteld, kan op verzoek van de subsidieontvanger de subsidie voor de kosten van of voortvloeiend uit deze procedures, afzonderlijk worden vastgesteld.
+1. Indien vanwege nog lopende gerechtelijke procedures, voor een deel van de kosten bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=2&artikel=2&z=2024-01-01&g=2024-01-01), de subsidie nog niet kan worden vastgesteld, kan op verzoek van de subsidieontvanger de subsidie voor de kosten van of voortvloeiend uit deze procedures, afzonderlijk worden vastgesteld.
 
-2. Een verzoek als bedoeld in het eerste lid wordt ingediend bij de aanvraag tot subsidievaststelling, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=4&artikel=9&z=2015-07-01&g=2015-07-01), waarbij met redenen wordt omkleed voor welke kosten de subsidie nog niet kan worden vastgesteld.
+2. Een verzoek als bedoeld in het eerste lid wordt ingediend bij de aanvraag tot subsidievaststelling, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=4&artikel=9&z=2024-01-01&g=2024-01-01), waarbij met redenen wordt omkleed voor welke kosten de subsidie nog niet kan worden vastgesteld.
 
-3. Binnen zes maanden na afronding van de gerechtelijke procedures, bedoeld in het eerste lid, dient de subsidieontvanger bij de hoofdingenieur-directeur een aanvraag tot subsidievaststelling in. Op deze afzonderlijke subsidievaststelling zijn [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=4&artikel=9&z=2015-07-01&g=2015-07-01), en [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=4&artikel=10&z=2015-07-01&g=2015-07-01) van overeenkomstige toepassing.
+3. Binnen zes maanden na afronding van de gerechtelijke procedures, bedoeld in het eerste lid, dient de subsidieontvanger bij de hoofdingenieur-directeur een aanvraag tot subsidievaststelling in. Op deze afzonderlijke subsidievaststelling zijn [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=4&artikel=9&z=2024-01-01&g=2024-01-01), en [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=4&artikel=10&z=2024-01-01&g=2024-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 12. Hardheidsclausule voorbereidingskosten
 
-De Minister kan bij het verlenen en vaststellen van de subsidie afwijken van het in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=2&artikel=2&z=2015-07-01&g=2015-07-01), genoemde percentage voor zover toepassing daarvan, gelet op het doel of de strekking van die bepaling, voor de subsidieontvanger zal leiden tot een onbillijkheid van overwegende aard.
+De Minister kan bij het verlenen en vaststellen van de subsidie afwijken van het in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=2&artikel=2&z=2024-01-01&g=2024-01-01), genoemde percentage voor zover toepassing daarvan, gelet op het doel of de strekking van die bepaling, voor de subsidieontvanger zal leiden tot een onbillijkheid van overwegende aard.
 
 ##### Artikel 13. Betaling en terugvordering
 
@@ -255,7 +255,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 14a
 
-Op aanvragen voor subsidieverlening die zijn ingediend vóór 1 januari 2012 zijn [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=2&artikel=2&z=2015-07-01&g=2015-07-01), [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=3&artikel=3&z=2015-07-01&g=2015-07-01), [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=3&artikel=6&z=2015-07-01&g=2015-07-01), [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=3&artikel=7&z=2015-07-01&g=2015-07-01), [artikel 9, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=4&artikel=9&z=2015-07-01&g=2015-07-01), en [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=4&artikel=11&z=2015-07-01&g=2015-07-01), van toepassing zoals deze luidden onmiddellijk vóór de inwerkingtreding van de Regeling van de Staatssecretaris van Infrastructuur en Milieu van 30 november 2011, tot wijziging van de Regeling bijzondere subsidies waterkeren en waterbeheren in verband met vervanging van het forfait voor de subsidiëring van kosten voor voorbereiding van het werk in subsidie op basis van werkelijk gemaakte kosten en enige technische wijzigingen (Stcrt. 2011, 22111).
+Op aanvragen voor subsidieverlening die zijn ingediend vóór 1 januari 2012 zijn [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=2&artikel=2&z=2024-01-01&g=2024-01-01), [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=3&artikel=3&z=2024-01-01&g=2024-01-01), [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=3&artikel=6&z=2024-01-01&g=2024-01-01), [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=3&artikel=7&z=2024-01-01&g=2024-01-01), [artikel 9, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=4&artikel=9&z=2024-01-01&g=2024-01-01), en [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019518&paragraaf=4&artikel=11&z=2024-01-01&g=2024-01-01), van toepassing zoals deze luidden onmiddellijk vóór de inwerkingtreding van de Regeling van de Staatssecretaris van Infrastructuur en Milieu van 30 november 2011, tot wijziging van de Regeling bijzondere subsidies waterkeren en waterbeheren in verband met vervanging van het forfait voor de subsidiëring van kosten voor voorbereiding van het werk in subsidie op basis van werkelijk gemaakte kosten en enige technische wijzigingen (Stcrt. 2011, 22111).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
