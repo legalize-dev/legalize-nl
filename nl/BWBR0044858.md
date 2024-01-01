@@ -4,7 +4,7 @@ identifier: "BWBR0044858"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-26"
-last_updated: "2023-07-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044858"
 soort: "ministeriele-regeling"
@@ -114,31 +114,7 @@ Vervallen
 
 ##### Artikel 7
 
-1. In dit artikel wordt verstaan onder:
-
-- **afgebakende gebieden:** in de Europese Unie, overeenkomstig artikel 6 van uitvoeringsbesluit 2012/138, vastgestelde besmette zones en bufferzones.
-
-- **gevoelige planten:** voor opplant bestemde planten met een stam- of wortelhalsdiameter van tenminste 1 centimeter op het dikste punt, met uitzondering van zaden, van Acer spp., Aesculus hippocastanum, Alnus spp., Betula spp., Carpinus spp., Citrus spp., Cornus spp., Corylus spp., Cotoneaster spp., Crataegus spp., Fagus spp., Lagerstroemia spp., Malus spp., Platanus spp., Populus spp., Prunus laurocerasus, Pyrus spp., Rosa spp., Salix spp. en Ulmus spp.;
-
-- **schadelijke organisme:** Anoplophora chinensis (Forster);
-
-- **uitvoeringsbesluit 2012/138:** Uitvoeringsbesluit nr. 2012/138/EU van de Commissie van 1 maart 2012 tot vaststelling van noodmaatregelen om het binnenbrengen en de verspreiding in de Unie van Anoplophora chinensis (Forster) te voorkomen (PbEU 2012, L 64).
-
-2. Gevoelige planten afkomstig uit derde landen, met uitzondering van gevoelige planten afkomstig uit China, waarvan bekend is dat het schadelijke organisme er voorkomt, mogen slechts in de Europese Unie worden binnengebracht als:
-
-- a. zij voldoen aan de specifieke invoervoorschriften van bijlage I, onderdeel 1, onder A, sub 1, bij uitvoeringsbesluit 2012/138; en
-
-- b. zij bij binnenkomst in de Europese Unie overeenkomstig bijlage I, onderdeel 1, onder A, sub 2, bij uitvoeringsbesluit 2012/138 worden geïnspecteerd op de aanwezigheid van het schadelijke organisme en geen tekenen van aanwezigheid van dat schadelijke organisme zijn gevonden.
-
-3. Voor opplant bestemde planten van Acer spp, met uitzondering van zaden daarvan, afkomstig uit China mogen tot en met de datum, genoemd in artikel 3, tweede lid, eerste alinea, van uitvoeringsbesluit 2012/138 niet in de Europese Unie worden binnengebracht.
-
-4. Onverminderd het derde lid mogen gevoelige planten afkomstig uit China slechts in de Europese Unie worden binnengebracht als:
-
-- a. zij voldoen aan de specifieke invoervoorschriften van bijlage I, onderdeel 1, onder B, sub 1 bij uitvoeringsbesluit nr. 2012/138;
-
-- b. zij bij binnenkomst in de Europese Unie overeenkomstig bijlage I, onderdeel 1, onder B, sub 2 bij uitvoeringsbesluit 2012/138 worden geïnspecteerd op de aanwezigheid van het schadelijke organisme en geen tekenen van aanwezigheid van dat schadelijke organisme zijn gevonden; en
-
-- c. zij voldoen aan artikel 3, eerste lid, onderdeel c, van uitvoeringsbesluit 2012/138.
+Vervallen
 
 ##### Artikel 8
 
@@ -266,17 +242,17 @@ Vervallen
 
 ##### Artikel 16
 
-1. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=4&z=2023-07-01&g=2023-07-01) vervalt met ingang van 1 juli 2023.
+1. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=4&z=2024-01-01&g=2024-01-01) vervalt met ingang van 1 juli 2023.
 
-2. [Artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=14&z=2023-07-01&g=2023-07-01) vervalt met ingang van 1 augustus 2022.
+2. [Artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=14&z=2024-01-01&g=2024-01-01) vervalt met ingang van 1 augustus 2022.
 
-3. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=11&z=2023-07-01&g=2023-07-01) vervalt met ingang van 1 april 2022.
+3. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=11&z=2024-01-01&g=2024-01-01) vervalt met ingang van 1 april 2022.
 
-4. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=13&z=2023-07-01&g=2023-07-01) vervalt met ingang van 1 april 2023.
+4. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=13&z=2024-01-01&g=2024-01-01) vervalt met ingang van 1 april 2023.
 
-5. [Artikel 6, tiende en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=6&z=2023-07-01&g=2023-07-01), vervalt met ingang van 1 januari 2027.
+5. [Artikel 6, tiende en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=6&z=2024-01-01&g=2024-01-01), vervalt met ingang van 1 januari 2027.
 
-6. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=7&z=2023-07-01&g=2023-07-01) vervalt met ingang van 1 januari 2024.
+6. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=7&z=2024-01-01&g=2024-01-01) vervalt met ingang van 1 januari 2024.
 
 ##### Artikel 17
 
