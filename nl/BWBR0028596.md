@@ -4,7 +4,7 @@ identifier: "BWBR0028596"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2024-01-01"
-last_updated: "2010-10-10"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028596"
 soort: "wet-BES"
@@ -45,7 +45,7 @@ Voor de toepassing van deze wet wordt verstaan onder:
 
 - b. **gedetineerden:** de personen, ingesloten in een gevangenis, een huis van bewaring of in een door Onze Minister aangewezen instelling;
 
-- c. **onveroordeelden:** de personen, niet krachtens veroordeling tot straf of maatregel, ingesloten in een van de gestichten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028596&hoofdstuk=II&artikel=2&z=2010-10-10&g=2010-10-10).
+- c. **onveroordeelden:** de personen, niet krachtens veroordeling tot straf of maatregel, ingesloten in een van de gestichten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028596&hoofdstuk=II&artikel=2&z=2024-01-01&g=2024-01-01).
 
 ### Hoofdstuk II. Indeling der gestichten
 
@@ -63,7 +63,7 @@ De gestichten of afdelingen van de gestichten worden onderscheiden in gevangenis
 
 ##### Artikel 4
 
-1. In de gevangenissen wordt, behoudens het bepaalde in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028596&hoofdstuk=III&artikel=11&z=2010-10-10&g=2010-10-10) en het bepaalde in [artikel 29 van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=29), uitsluitend de gevangenisstraf ten uitvoer gelegd.
+1. In de gevangenissen wordt, behoudens het bepaalde in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028596&hoofdstuk=III&artikel=11&z=2024-01-01&g=2024-01-01) en het bepaalde in [artikel 29 van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=29), uitsluitend de gevangenisstraf ten uitvoer gelegd.
 
 2. In bijzondere gevallen kan Onze Minister hechtenis en militaire detentie, vervangende hechtenis en militaire detentie daaronder begrepen, in een gevangenis ten uitvoer doen leggen.
 
@@ -79,13 +79,13 @@ De gestichten of afdelingen van de gestichten worden onderscheiden in gevangenis
 
 2. In de huizen van bewaring kunnen ook degenen worden opgenomen, die tot gevangenisstraf veroordeeld zijn en wier straftijd niet meer dan acht maanden bedraagt.
 
-3. Onze Minister kan, indien dit door een openbaar belang vereist wordt, bepalen dat veroordeelden in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028596&hoofdstuk=II&artikel=4&z=2010-10-10&g=2010-10-10) bedoeld, tijdelijk in een huis van bewaring worden opgenomen.
+3. Onze Minister kan, indien dit door een openbaar belang vereist wordt, bepalen dat veroordeelden in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028596&hoofdstuk=II&artikel=4&z=2024-01-01&g=2024-01-01) bedoeld, tijdelijk in een huis van bewaring worden opgenomen.
 
 ##### Artikel 6
 
 De door Onze Minister aangewezen instellingen zijn bestemd tot opneming van:
 
-- a. hen, wier plaatsing in een instelling op grond van [artikel 39 van het Eerste Boek van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=39) moet volgen, indien niet tevens hun plaatsing in een krankzinnigengesticht is gelast, dan wel zodanige plaatsing door verlof of ontslag werd onderbroken of beëindigd;
+- a. hen, wier plaatsing in een instelling op grond van [artikel 39 van het Eerste Boek van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=39) moet volgen, indien niet tevens hun plaatsing in een psychiatrisch ziekenhuis is gelast, dan wel zodanige plaatsing door verlof of ontslag werd onderbroken of beëindigd;
 
 - b. onveroordeelden, naar wier geestvermogens volgens wettelijke regeling een onderzoek noodzakelijk wordt geacht;
 
@@ -99,11 +99,11 @@ Onze Minister wijst een of meer gevangenissen aan, waarvan afdelingen in het bij
 
 ##### Artikel 8
 
-Onze Minister wijst een of meer gevangenissen aan, waarvan afdelingen in het bijzonder bestemd worden voor de opneming van mannelijke tot gevangenisstraf veroordeelden, niet in aanmerking komende voor plaatsing in een van de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028596&hoofdstuk=III&artikel=7&z=2010-10-10&g=2010-10-10) genoemde afdelingen, wier werkelijke straftijd niet meer dan acht maanden bedraagt.
+Onze Minister wijst een of meer gevangenissen aan, waarvan afdelingen in het bijzonder bestemd worden voor de opneming van mannelijke tot gevangenisstraf veroordeelden, niet in aanmerking komende voor plaatsing in een van de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028596&hoofdstuk=III&artikel=7&z=2024-01-01&g=2024-01-01) genoemde afdelingen, wier werkelijke straftijd niet meer dan acht maanden bedraagt.
 
 ##### Artikel 9
 
-Onze Minister wijst een of meer gevangenissen aan, waarvan afdelingen in het bijzonder bestemd worden voor de opneming van mannelijke tot gevangenisstraf veroordeelden, niet in aanmerking komende voor plaatsing in een* van de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028596&hoofdstuk=III&artikel=7&z=2010-10-10&g=2010-10-10) bedoelde afdelingen, wier werkelijke straftijd meer dan acht maanden bedraagt.
+Onze Minister wijst een of meer gevangenissen aan, waarvan afdelingen in het bijzonder bestemd worden voor de opneming van mannelijke tot gevangenisstraf veroordeelden, niet in aanmerking komende voor plaatsing in een* van de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028596&hoofdstuk=III&artikel=7&z=2024-01-01&g=2024-01-01) bedoelde afdelingen, wier werkelijke straftijd meer dan acht maanden bedraagt.
 
 ##### Artikel 10
 
@@ -141,7 +141,7 @@ Het personeel van de gestichten wordt door Onze Minister benoemd, geschorst en o
 
 - b. kennis te nemen van door de gedetineerden naar voren gebrachte grieven;
 
-- c. zorg te dragen voor de behandeling van klaagschriften ingevolge het bepaalde in [Hoofdstuk XII](https://wetten.overheid.nl/jci1.3:c:BWBR0028596&hoofdstuk=XII&z=2010-10-10&g=2010-10-10);
+- c. zorg te dragen voor de behandeling van klaagschriften ingevolge het bepaalde in [Hoofdstuk XII](https://wetten.overheid.nl/jci1.3:c:BWBR0028596&hoofdstuk=XII&z=2024-01-01&g=2024-01-01);
 
 - d. aan Onze Minister, de direkteur of het hoofd van een gesticht, al dan niet uit eigen beweging, advies en inlichtingen te geven omtrent het in onderdeel a gestelde.
 
@@ -175,7 +175,7 @@ Met handhaving van het karakter van de vrijheidsstraf of vrijheidsbenemende maat
 
 ##### Artikel 21
 
-Onverminderd het bepaalde in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028596&hoofdstuk=V&artikel=19&z=2010-10-10&g=2010-10-10), kunnen bij ministeriële regeling regels worden gesteld met betrekking tot het toestaan van individuele voorrechten.
+Onverminderd het bepaalde in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028596&hoofdstuk=V&artikel=19&z=2024-01-01&g=2024-01-01), kunnen bij ministeriële regeling regels worden gesteld met betrekking tot het toestaan van individuele voorrechten.
 
 ##### Artikel 22
 
@@ -187,7 +187,7 @@ De tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel in e
 
 2. De directeur kan de gedetineerde op zijn verzoek dan wel ambtshalve de vrijheidsstraf of de vrijheidsbenemende maatregel in afzondering laten ondergaan indien de veiligheid, orde of goede gang van zaken in het gesticht daartoe, naar zijn oordeel, bepaaldelijk aanleiding geeft.
 
-3. Indien de directeur ambtshalve besluit de gedetineerde de vrijheidsstraf of de vrijheidsbenemende maatregel in afzondering te laten ondergaan, dan wel indien hij een daartoe strekkend verzoek van de gedetineerde afwijst, geschiedt dat schriftelijk en met redenen omkleed. Daarbij wijst hij de gedetineerde op de mogelijkheid van beklag als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0028596&hoofdstuk=XII&artikel=40&z=2010-10-10&g=2010-10-10).
+3. Indien de directeur ambtshalve besluit de gedetineerde de vrijheidsstraf of de vrijheidsbenemende maatregel in afzondering te laten ondergaan, dan wel indien hij een daartoe strekkend verzoek van de gedetineerde afwijst, geschiedt dat schriftelijk en met redenen omkleed. Daarbij wijst hij de gedetineerde op de mogelijkheid van beklag als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0028596&hoofdstuk=XII&artikel=40&z=2024-01-01&g=2024-01-01).
 
 ### Hoofdstuk VI. Arbeid en arbeidsloon
 
@@ -347,7 +347,7 @@ Aan gedetineerden, voor wie zulks wenselijk wordt geacht, wordt zoveel mogelijk 
 
 ##### Artikel 37d
 
-1. De directeur kan, telkens wanneer dit naar oordeel noodzakelijk is, een persoon die het gesticht bezoekt, aan kleding en eventuele handbagage doen onderzoeken op voorwerpen die uit een oogpunt van veiligheid, orde of goede gang van zaken in het gesticht niet aanwezig mogen zijn. [Artikel 37c, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0028596&hoofdstuk=X&artikel=37c&z=2010-10-10&g=2010-10-10), is van overeenkomstige toepassing. De bij een onderzoek aangetroffen voorwerpen kunnen in verband met de veiligheid, orde en goede gang van zaken in het gesticht terstond in bewaring worden genomen.
+1. De directeur kan, telkens wanneer dit naar oordeel noodzakelijk is, een persoon die het gesticht bezoekt, aan kleding en eventuele handbagage doen onderzoeken op voorwerpen die uit een oogpunt van veiligheid, orde of goede gang van zaken in het gesticht niet aanwezig mogen zijn. [Artikel 37c, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0028596&hoofdstuk=X&artikel=37c&z=2024-01-01&g=2024-01-01), is van overeenkomstige toepassing. De bij een onderzoek aangetroffen voorwerpen kunnen in verband met de veiligheid, orde en goede gang van zaken in het gesticht terstond in bewaring worden genomen.
 
 2. Indien het gesticht beschikt over een detectiepoort zijn de bezoekers verplicht daarvan gebruik te maken, tenzij de directeur anders beslist.
 
@@ -357,7 +357,7 @@ Aan gedetineerden, voor wie zulks wenselijk wordt geacht, wordt zoveel mogelijk 
 
 1. De directeur kan, indien dit noodzakelijk is in het belang van de orde, veiligheid en goede gang van zaken in het gesticht dan wel in verband met de beslissing tot plaatsing of overplaatsing dan wel in verband met het verlenen van verlof, een gedetineerde verplichten urine af te staan ten behoeve van onderzoek van die urine op aanwezigheid van gedragbeïnvloedende middelen.
 
-2. Onze Minister stelt nadere regels omtrent de wijze van uitvoering van het urineonderzoek. Deze regels betreffen in elk geval het recht van de gedetineerde om de uitslag te vernemen en om voor eigen rekening een hernieuwd onderzoek van de afgestane urine te laten plaatsvinden. [Artikel 37c, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0028596&hoofdstuk=X&artikel=37c&z=2010-10-10&g=2010-10-10), is van overeenkomstige toepassing.
+2. Onze Minister stelt nadere regels omtrent de wijze van uitvoering van het urineonderzoek. Deze regels betreffen in elk geval het recht van de gedetineerde om de uitslag te vernemen en om voor eigen rekening een hernieuwd onderzoek van de afgestane urine te laten plaatsvinden. [Artikel 37c, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0028596&hoofdstuk=X&artikel=37c&z=2024-01-01&g=2024-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 37f
 
@@ -365,7 +365,7 @@ Aan gedetineerden, voor wie zulks wenselijk wordt geacht, wordt zoveel mogelijk 
 
 2. Een medewerker van het gesticht waar de gedetineerde verblijft, kan indien onverwijlde tenuitvoerlegging geboden is, een beslissing als bedoeld in het eerste lid nemen.
 
-3. Indien bij het onderzoek in het lichaam voorwerpen worden aangetroffen die niet in het bezit van de gedetineerde mogen zijn, en deze voorwerpen door de arts of de verpleegkundige uit het lichaam kunnen worden verwijderd, is de directeur bevoegd deze in beslag te nemen. [Artikel 37c, derde lid, laatste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0028596&hoofdstuk=X&artikel=37c&z=2010-10-10&g=2010-10-10) is van overeenkomstige toepassing.
+3. Indien bij het onderzoek in het lichaam voorwerpen worden aangetroffen die niet in het bezit van de gedetineerde mogen zijn, en deze voorwerpen door de arts of de verpleegkundige uit het lichaam kunnen worden verwijderd, is de directeur bevoegd deze in beslag te nemen. [Artikel 37c, derde lid, laatste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0028596&hoofdstuk=X&artikel=37c&z=2024-01-01&g=2024-01-01) is van overeenkomstige toepassing.
 
 ##### Artikel 37g
 
@@ -377,7 +377,7 @@ Aan gedetineerden, voor wie zulks wenselijk wordt geacht, wordt zoveel mogelijk 
 
 1. De directeur is bevoegd, indien de veiligheid, orde of goede gang van zaken in het gesticht dit naar zijn oordeel bepaaldelijk noodzakelijk maakt, ten aanzien van een bepaalde gedetineerde af te wijken van een aan deze bij of krachtens deze wet toegekend recht.
 
-2. De directeur stelt de gedetineerde onverwijld schriftelijk van zijn beslissing in kennis. Daarbij wijst hij de gedetineerde op de mogelijkheid om de zaak voor te leggen aan de maandcommissaris, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028596&hoofdstuk=IV&artikel=16&z=2010-10-10&g=2010-10-10).
+2. De directeur stelt de gedetineerde onverwijld schriftelijk van zijn beslissing in kennis. Daarbij wijst hij de gedetineerde op de mogelijkheid om de zaak voor te leggen aan de maandcommissaris, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028596&hoofdstuk=IV&artikel=16&z=2024-01-01&g=2024-01-01).
 
 ##### Artikel 37i
 
@@ -441,7 +441,7 @@ In bijzondere gevallen kan Onze Minister bepalen, dat de tenuitvoerlegging van e
 
 - b. een hem betreffende beslissing tot oplegging van een disciplinaire straf;
 
-- c. een hem betreffende beslissing tot weigering van een verzoek als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028596&hoofdstuk=V&artikel=23&z=2010-10-10&g=2010-10-10);
+- c. een hem betreffende beslissing tot weigering van een verzoek als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028596&hoofdstuk=V&artikel=23&z=2024-01-01&g=2024-01-01);
 
 - d. het geweld dat jegens hem is gebruikt dan wel over de vrijheidsbeperkende maatregel die jegens hem is aangewend.
 
