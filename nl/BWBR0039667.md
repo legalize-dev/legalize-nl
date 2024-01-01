@@ -4,7 +4,7 @@ identifier: "BWBR0039667"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-19"
-last_updated: "2020-04-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039667"
 soort: "ministeriele-regeling"
@@ -48,11 +48,7 @@ Voor de toepassing van deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-Indien de normale arbeidsduur, bedoeld in [artikel 12, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=12) niet is vastgesteld in een aantal uren per week, wordt voor de vaststelling van de in dat lid bedoelde maximale arbeidsduur per week uitgegaan van de volgende herleidingregels:
-
-- a. indien de normale arbeidsduur is bepaald in een aantal uren per kalenderjaar, wordt een kalenderjaar bepaald op 52 weken;
-
-- b. indien de normale arbeidsduur is bepaald in een aantal uren per maand, wordt een maand bepaald op 4 1/3 weken.
+Vervallen
 
 ##### Artikel 3
 
