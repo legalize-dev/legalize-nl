@@ -4,7 +4,7 @@ identifier: "BWBR0048283"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2023-07-15"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048283"
 soort: "AMvB"
@@ -48,73 +48,41 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. (definitie)
 
-In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
-
-- **vergunning:** vergunning voor het produceren of leveren van teruggewonnen water als bedoeld in artikel 6, eerste lid, van de verordening hergebruik stedelijk afvalwater; en
-
-- **verordening hergebruik stedelijk afvalwater:** [Verordening (EU) nr. 2020/741](32641R2020) van het Europees Parlement en de Raad van 25 mei 2020 inzake minimumeisen voor hergebruik van water (PbEU 2020, L 177).
+Vervallen
 
 ##### Artikel 2. (taken gedeputeerde staten)
 
-1. Gedeputeerde staten zijn de bevoegde autoriteit, bedoeld in artikel 3, punt 1, van de verordening hergebruik stedelijk afvalwater.
-
-2. Gedeputeerde staten verstrekken aan Onze Minister van Infrastructuur en Waterstaat de gegevens waarover zij beschikken die nodig zijn om te voldoen aan artikel 11, eerste lid, van de verordening hergebruik stedelijk afvalwater.
-
-3. [Artikel 5.2 eerste lid, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=5.2) is van overeenkomstige toepassing.
+Vervallen
 
 ##### Artikel 3. (taken omgevingsdienst)
 
-1. Ter uitvoering van de verordening hergebruik stedelijk afvalwater worden de volgende taken door een omgevingsdienst uitgevoerd:
-
-- a. het voorbereiden van beslissingen op aanvragen om een vergunning, en het toetsen en zo nodig actualiseren van die vergunning;
-
-- b. het houden van toezicht op de naleving van de verboden, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048283&artikel=5&z=2023-07-15&g=2023-07-15); en
-
-- c. het voorbereiden van bestuurlijke sancties ter handhaving van de verboden, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048283&artikel=5&z=2023-07-15&g=2023-07-15).
-
-2. Tot de werkzaamheden, bedoeld in het eerste lid, onder a, behoort niet de toepassing van de [Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798).
+Vervallen
 
 ##### Artikel 4. (vergunning)
 
-1. De vergunningplicht, bedoeld in artikel 6, eerste lid, van de verordening hergebruik stedelijk afvalwater, geldt als het verbod, bedoeld in [artikel 2.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) om zonder omgevingsvergunning een project uit te voeren.
-
-2. De aanvraag om een vergunning wordt ingediend bij gedeputeerde staten, onder overlegging van de bij ministeriele regeling bepaalde gegevens en bescheiden.
+Vervallen
 
 ##### Artikel 5. (verboden)
 
-1. Het is verboden te handelen in strijd met de artikelen 2, derde lid, laatste zin, 4, eerste en tweede lid, 5, tweede lid, 6, eerste en tweede lid, en 7, derde en vierde lid, van de verordening hergebruik stedelijk afvalwater.
-
-2. Het is verboden te handelen in strijd met:
-
-- a. het risicobeheerplan voor hergebruik van water, bedoeld in artikel 5, van de verordening hergebruik stedelijk afvalwater; en
-
-- b. de voorschriften van de vergunning ten aanzien van de verplichtingen, bedoeld in artikel 6, derde lid, van de verordening hergebruik stedelijk afvalwater.
-
-3. Het is verboden water voor landbouwirrigatie te hergebruiken in bij ministeriële regeling in overeenstemming met artikel 2, tweede lid, van de verordening hergebruik stedelijk afvalwater aangewezen stroomgebiedsdistricten of delen daarvan.
+Vervallen
 
 ##### Artikel 6. (nadere regels)
 
-1. Bij ministeriele regeling kunnen nadere regels worden gesteld ter uitvoering van de verordening hergebruik stedelijk afvalwater en de daarop gebaseerde gedelegeerde handelingen en uitvoeringshandelingen.
-
-2. Onder de regels, bedoeld in het eerste lid, worden in ieder geval verstaan regels over de informatie die nodig is om aan de verplichtingen, bedoeld in artikel 6, derde en zesde lid, van de verordening hergebruik stedelijk afvalwater, te voldoen.
+Vervallen
 
 ##### Artikel 7. (wijziging [Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330))
 
 Wijzigt het Besluit activiteiten leefomgeving.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel 8. (wijziging [Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278))
 
 Wijzigt het Omgevingsbesluit.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel 9. (inwerkingtreding en verval)
 
-1. Dit besluit treedt in werking met ingang van 26 juni 2023, met uitzondering van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048283&artikel=7&z=2023-07-15&g=2023-07-15) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0048283&artikel=8&z=2023-07-15&g=2023-07-15), die in werking treden op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+1. Dit besluit treedt in werking met ingang van 26 juni 2023, met uitzondering van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048283&artikel=7&z=2024-01-01&g=2024-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0048283&artikel=8&z=2024-01-01&g=2024-01-01), die in werking treden op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. De [artikelen 1 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048283&artikel=1&z=2023-07-15&g=2023-07-15) vervallen op het tijdstip dat de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) in werking treedt.
+2. De [artikelen 1 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048283&artikel=1&z=2024-01-01&g=2024-01-01) vervallen op het tijdstip dat de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) in werking treedt.
 
 3. Dit besluit vervalt op een bij koninklijk besluit te bepalen tijdstip.
 
