@@ -4,7 +4,7 @@ identifier: "BWBR0045249"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2022-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045249"
 soort: "wet"
@@ -47,13 +47,9 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 Wijzigt de Aanvullingswet geluid Omgevingswet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel I
 
 Wijzigt de Aanvullingswet grondeigendom Omgevingswet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel aII
 
@@ -62,8 +58,6 @@ Wijzigt de Drinkwaterwet.
 ##### Artikel II
 
 Wijzigt de Invoeringswet Omgevingswet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III
 
@@ -111,7 +105,7 @@ Wijzigt deze wet.
 
 ##### Artikel XIV
 
-Op personen die krachtens de in [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBR0045249&artikel=III&z=2022-01-01&g=2022-01-01), [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0045249&artikel=VI&z=2022-01-01&g=2022-01-01), [VIII, onderdelen C en E](https://wetten.overheid.nl/jci1.3:c:BWBR0045249&artikel=VIII&z=2022-01-01&g=2022-01-01), en [artikel XII](https://wetten.overheid.nl/jci1.3:c:BWBR0045249&artikel=XII&z=2022-01-01&g=2022-01-01) genoemde artikelen zijn benoemd of herbenoemd voor het moment van inwerkingtreding van de artikelen III, VI, VIII onderdelen C en E, en artikel XII zijn de in de artikelen III, VI, VIII, onderdelen C en E, en artikel XII genoemde artikelen van toepassing zoals zij luidden voor dit moment van inwerkingtreding.
+Op personen die krachtens de in [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBR0045249&artikel=III&z=2024-01-01&g=2024-01-01), [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0045249&artikel=VI&z=2024-01-01&g=2024-01-01), [VIII, onderdelen C en E](https://wetten.overheid.nl/jci1.3:c:BWBR0045249&artikel=VIII&z=2024-01-01&g=2024-01-01), en [artikel XII](https://wetten.overheid.nl/jci1.3:c:BWBR0045249&artikel=XII&z=2024-01-01&g=2024-01-01) genoemde artikelen zijn benoemd of herbenoemd voor het moment van inwerkingtreding van de artikelen III, VI, VIII onderdelen C en E, en artikel XII zijn de in de artikelen III, VI, VIII, onderdelen C en E, en artikel XII genoemde artikelen van toepassing zoals zij luidden voor dit moment van inwerkingtreding.
 
 ##### Artikel XV
 
