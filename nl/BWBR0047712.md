@@ -4,7 +4,7 @@ identifier: "BWBR0047712"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2023-01-01"
+last_updated: "2024-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047712"
 soort: "wet"
@@ -52,8 +52,6 @@ De [Wet maatregelen woningmarkt 2014 II](https://wetten.overheid.nl/jci1.3:c:BWB
 
 Wijzigt de Uitvoeringswet huurprijzen woonruimte.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel III
 
 Wijzigt het Belastingplan 2019.
@@ -64,6 +62,6 @@ De [Wet maatregelen woningmarkt 2014 II](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel V
 
-Deze wet treedt in werking met ingang van 1 januari 2023, met uitzondering van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0047712&artikel=II&z=2023-01-01&g=2023-01-01) dat in werking treedt met ingang van 1 januari 2024.
+Deze wet treedt in werking met ingang van 1 januari 2023, met uitzondering van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0047712&artikel=II&z=2024-01-01&g=2024-01-01) dat in werking treedt met ingang van 1 januari 2024.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
