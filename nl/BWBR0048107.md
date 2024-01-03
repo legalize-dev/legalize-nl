@@ -4,7 +4,7 @@ identifier: "BWBR0048107"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-03"
-last_updated: "2024-01-01"
+last_updated: "2024-01-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048107"
 soort: "ministeriele-regeling"
@@ -74,7 +74,7 @@ Besluit:
 
 - h. instituut als bedoeld in [artikel 1 van de Subsidieregeling instituten voor toegepast onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0040605&artikel=1);
 
-- i. Stichting Holst Centre en Stichting Wetsus als bedoeld in [bijlage 1 van de Subsidieregeling strategisch belangrijke onderzoeksprogramma’s (SBO)](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&bijlage=1);
+- i. regulier onderzoeksinstituut als bedoeld in [artikel 2, derde lid, onderdeel a, van de Subsidieregeling strategisch belangrijke onderzoeksprogramma’s (SBO)](https://wetten.overheid.nl/jci1.3:c:BWBR0047415&artikel=2);
 
 - j. rechtspersoon gelieerd aan een universiteit, hogeschool of academisch ziekenhuis als bedoeld in onderdelen a en b die tot taak heeft het zonder winstoogmerk doen van onderzoek voor deze universiteit, hogeschool of academisch ziekenhuis; of
 
@@ -96,7 +96,7 @@ Deze regeling is mede van toepassing in de openbare lichamen Bonaire, Sint Eusta
 
 2. Uitsluitend kennisinstellingen waarvan een subsidieovereenkomst is geregistreerd in de eCORDA komen in aanmerking voor subsidie. Per subsidieovereenkomst kan een kennisinstelling eenmalig een subsidie ontvangen.
 
-3. De hoogte van de subsidie bedraagt standaard acht procent van het in de subsidieovereenkomst genoemde subsidiebedrag dat de Europese Commissie aan een kennisinstelling verstrekt. Indien het subsidieplafond, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048107&artikel=5&z=2023-04-29&g=2024-01-01), in een kalenderjaar niet is bereikt, kan het percentage voor dat jaar naar boven worden bijgesteld tot een maximum van vijftien procent.
+3. De hoogte van de subsidie bedraagt standaard acht procent van het in de subsidieovereenkomst genoemde subsidiebedrag dat de Europese Commissie aan een kennisinstelling verstrekt. Indien het subsidieplafond, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048107&artikel=5&z=2024-01-03&g=2024-01-03), in een kalenderjaar niet is bereikt, kan het percentage voor dat jaar naar boven worden bijgesteld tot een maximum van vijftien procent.
 
 ##### Artikel 5. Subsidieplafond
 
@@ -108,25 +108,27 @@ Deze regeling is mede van toepassing in de openbare lichamen Bonaire, Sint Eusta
 
 1. Bij de subsidieverstrekking voor een bepaald kalenderjaar komen die kennisinstellingen voor subsidie in aanmerking waarvan een subsidieovereenkomst uiterlijk op de peildatum 1 september, voorafgaand aan het kalenderjaar waarvoor de subsidie wordt verstrekt, in de eCORDA is geregistreerd.
 
-2. De minister verdeelt het beschikbare bedrag over de kennisinstellingen in de volgorde van de verschijning van de registratie van de subsidieovereenkomsten in de eCORDA. Indien sprake is van subsidieovereenkomsten die gelijktijdig in de eCORDA zijn verschenen, bepaalt de minister de volgorde aan de hand van de data van ondertekening van de desbetreffende subsidieovereenkomsten.
+2. Een kennisinstelling die op een later tijdstip is toegevoegd aan een subsidieovereenkomst door middel van een wijziging van die overeenkomst en waarvan de registratie van deze toevoeging in eCORDA na de peildatum ligt, bedoeld in het eerste lid, komt in aanmerking voor subsidie, mits die kennisinstelling niet in de plaats komt van een kennisinstelling die voor dezelfde projecttaken van deze subsidieovereenkomst reeds subsidie op grond van deze regeling heeft ontvangen. De peildatum is 1 september van het kalenderjaar volgend op de datum van registratie.
 
-3. Indien aan een kennisinstelling voor een geregistreerde subsidieovereenkomst geen subsidie kan worden verstrekt, omdat daardoor het subsidieplafond, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048107&artikel=5&z=2023-04-29&g=2024-01-01), zou worden overschreden, komt deze kennisinstelling in een volgend kalenderjaar alsnog in aanmerking voor de subsidie. Het tweede lid is daarbij van toepassing.
+3. De minister verdeelt het beschikbare bedrag over de kennisinstellingen in de volgorde van de verschijning van de registratie van de subsidieovereenkomsten in de eCORDA. Indien sprake is van subsidieovereenkomsten die gelijktijdig in de eCORDA zijn verschenen, bepaalt de minister de volgorde aan de hand van de data van ondertekening van de desbetreffende subsidieovereenkomsten.
 
-4. Het eerste en derde lid zijn niet van toepassing bij de subsidieverstrekking voor het kalenderjaar 2029. In afwijking van het eerste lid ligt de peildatum voor subsidieverstrekking in 2029 op 1 maart van datzelfde kalenderjaar.
+4. Indien aan een kennisinstelling voor een geregistreerde subsidieovereenkomst geen subsidie kan worden verstrekt, omdat daardoor het subsidieplafond, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048107&artikel=5&z=2024-01-03&g=2024-01-03), zou worden overschreden, komt deze kennisinstelling in een volgend kalenderjaar alsnog in aanmerking voor de subsidie. Het tweede lid is daarbij van toepassing.
+
+5. Het eerste, tweede en vierde lid zijn niet van toepassing bij de subsidieverstrekking voor het kalenderjaar 2029. In afwijking van het eerste lid ligt de peildatum voor subsidieverstrekking in 2029 op 1 maart van datzelfde kalenderjaar.
 
 ##### Artikel 7. Aanvraag subsidie
 
 1. Een kennisinstelling kan de eerste keer voor 15 juni 2023 subsidie aanvragen. In de periode 2024 tot en met 2029 kan zij jaarlijks voor 1 maart subsidie aanvragen. Aanvragen die worden ingediend na afloop van de genoemde termijnen worden afgewezen.
 
-2. De kennisinstelling, bedoeld in [artikel 1, tweede lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0048107&artikel=1&z=2023-04-29&g=2024-01-01), toont in de aanvraag aan dat zij:
+2. De kennisinstelling, bedoeld in [artikel 1, tweede lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0048107&artikel=1&z=2024-01-03&g=2024-01-03), toont in de aanvraag aan dat zij:
 
-- a. een rechtspersoon is gelieerd aan een universiteit, hogeschool of academisch ziekenhuis als bedoeld in [artikel 1, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0048107&artikel=1&z=2023-04-29&g=2024-01-01);
+- a. een rechtspersoon is gelieerd aan een universiteit, hogeschool of academisch ziekenhuis als bedoeld in [artikel 1, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0048107&artikel=1&z=2024-01-03&g=2024-01-03);
 
 - b. van deze instelling financiële middelen ontvangt voor het doen van onderzoek; en
 
 - c. onderzoek verricht zonder winstoogmerk.
 
-3. De kennisinstelling, bedoeld in [artikel 1, tweede lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0048107&artikel=1&z=2023-04-29&g=2024-01-01), toont in de eerste aanvraag aan dat zij:
+3. De kennisinstelling, bedoeld in [artikel 1, tweede lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0048107&artikel=1&z=2024-01-03&g=2024-01-03), toont in de eerste aanvraag aan dat zij:
 
 - a. eigen rechtspersoonlijkheid bezit, niet zijnde de Staat;
 
@@ -138,13 +140,13 @@ Deze regeling is mede van toepassing in de openbare lichamen Bonaire, Sint Eusta
 
 ##### Artikel 8. Vaststelling en besteding subsidie
 
-1. De minister stelt de subsidie, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048107&artikel=7&z=2023-04-29&g=2024-01-01), direct vast binnen 13 weken na de in dat lid genoemde data.
+1. De minister stelt de subsidie, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048107&artikel=7&z=2024-01-03&g=2024-01-03), direct vast binnen 13 weken na de in dat lid genoemde data.
 
 2. Kennisinstellingen besteden de subsidie aan niet-economische activiteiten waarvoor zij al dan niet rechtstreeks bekostiging of subsidie ontvangen.
 
 ##### Artikel 9. Betaling
 
-De minister betaalt het subsidiebedrag ineens binnen twee weken na de data van vaststelling, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048107&artikel=8&z=2023-04-29&g=2024-01-01).
+De minister betaalt het subsidiebedrag ineens binnen twee weken na de data van vaststelling, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048107&artikel=8&z=2024-01-03&g=2024-01-03).
 
 ##### Artikel 10. Verantwoording
 
@@ -152,7 +154,7 @@ De minister betaalt het subsidiebedrag ineens binnen twee weken na de data van v
 
 2. Andere kennisinstellingen verantwoorden de subsidie met toepassing van [artikel 9.2 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=9.2) in de jaarverslaggeving.
 
-3. Een kennisinstelling toont op verzoek van de minister aan dat de subsidie is besteed aan haar bekostigde of gesubsidieerde taken dan wel, indien het een kennisinstelling als bedoeld in [artikel 1, tweede lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0048107&artikel=1&z=2023-04-29&g=2024-01-01), betreft, aan niet-economische activiteiten ten behoeve van de bekostigde of gesubsidieerde taken van een universiteit, hogeschool of academisch ziekenhuis.
+3. Een kennisinstelling toont op verzoek van de minister aan dat de subsidie is besteed aan haar bekostigde of gesubsidieerde taken dan wel, indien het een kennisinstelling als bedoeld in [artikel 1, tweede lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0048107&artikel=1&z=2024-01-03&g=2024-01-03), betreft, aan niet-economische activiteiten ten behoeve van de bekostigde of gesubsidieerde taken van een universiteit, hogeschool of academisch ziekenhuis.
 
 ##### Artikel 11. Inwerkingtreding en vervaldatum
 
