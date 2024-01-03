@@ -4,7 +4,7 @@ identifier: "BWBR0045076"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-03"
-last_updated: "2023-11-18"
+last_updated: "2024-01-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045076"
 soort: "ministeriele-regeling"
@@ -228,11 +228,23 @@ Het Directoraat-Generaal Douane staat onder leiding van de directeur-generaal Do
 
 - v. Douane Centrale Processen, dat onder leiding staat van een directeur. Het onderdeel bestaat uit diverse teams onder leiding van een teamleider, waarbij één van de teamleiders tevens de rol heeft van plaatsvervangend afdelingshoofd Douane Centrale Processen;
 
-- vi. Bureau Directeursondersteuning, dat onder leiding staat van een teamleider;
+- vi. Bureau DG, dat onder leiding staat van een hoofd;
 
-- b. Acht regiokantoren, die onder leiding staan van de onder lid 1 a. iv. genoemde directeur, te weten:
+- b. De directie Finance & Control, die onder leiding staat van een directeur. Het onderdeel bestaat uit de volgende afdelingen, elk onder leiding van een afdelingshoofd:
 
-- i. Regiokantoor Douane Amsterdam, dat onder leiding staat van een afdelingshoofd5In het O&F-rapport genoemd regiodirecteur. en een plaatsvervangend afdelingshoofd6In het O&F-rapport genoemd plv. regiodirecteur.. Het onderdeel bestaat uit diverse teams, elk onder leiding van een teamleider;
+- i. Concern Control, die is onderverdeeld in teams en onder leiding staan van het afdelingshoofd of een teamleider, waarbij het afdelingshoofd de rol van plaatsvervangend directeur vervult;
+
+- ii. Business Control, die is onderverdeeld in teams en onder leiding staan van het afdelingshoofd of een teamleider;
+
+- iii. Financial Control & Business Intelligence, die is onderverdeeld in teams en onder leiding staan van het afdelingshoofd of een teamleider;
+
+- iv. Risk & Compliance, die is onverdeeld in teams en onder leiding staan van het afdelingshoofd of een teamleider.
+
+- c. Het Bureau Veiligheid & Integriteit, dat onder leiding staat van een hoofd. Het Bureau Veiligheid & Integriteit is onderverdeeld in onderdelen en staan onder leiding van het hoofd of een teamleider.
+
+- d. Acht regiokantoren, die onder leiding staan van de onder lid 1 a. iv. genoemde directeur, te weten:
+
+- i. Regiokantoor Douane Amsterdam, dat onder leiding staat van een afdelingshoofd5In het O&F-rapport genoemd regiodirecteur. , een plaatsvervangend afdelingshoofd6In het O&F-rapport genoemd plv. regiodirecteur. en een hoofd. Het onderdeel bestaat uit diverse teams, elk onder leiding van een teamleider;
 
 - ii. Regiokantoor Douane Arnhem, dat onder leiding staat van een afdelingshoofd7In het O&F-rapport genoemd regiodirecteur. en een plaatsvervangend afdelingshoofd8In het O&F-rapport genoemd plv. regiodirecteur. . Het onderdeel bestaat uit diverse teams, elk onder leiding van een teamleider;
 
@@ -248,9 +260,9 @@ Het Directoraat-Generaal Douane staat onder leiding van de directeur-generaal Do
 
 - viii. Regiokantoor Douane Schiphol Passagiers, dat onder leiding staat van een afdelingshoofd19In het O&F-rapport genoemd regiodirecteur. en een plaatsvervangend afdelingshoofd20In het O&F-rapport genoemd plv. regiodirecteur. . Het onderdeel bestaat uit diverse teams, elk onder leiding van een teamleider.
 
-- c. Twee landelijke onderdelen, die onder leiding staan van een directeur, te weten:
+- e. Twee landelijke onderdelen, die onder leiding staan van een directeur, te weten:
 
-- i. Douane Landelijk Tactisch Centrum, dat onder leiding staat van een afdelingshoofd21In het O&F-rapport genoemd directeur. en een plaatsvervangend afdelingshoofd22In het O&F-rapport genoemd plv. directeur.. Het onderdeel bestaat uit diverse teams onder leiding van een teamleider;
+- i. Douane Landelijk Tactisch Centrum, dat onder leiding staat van een afdelingshoofd21In het O&F-rapport genoemd directeur. , een plaatsvervangend afdelingshoofd22In het O&F-rapport genoemd plv. directeur. en een hoofd. Het onderdeel bestaat uit diverse teams onder leiding van een teamleider;
 
 - ii. Douane Landelijke Service Organisatie, dat onder leiding staat van een afdelingshoofd23In het O&F-rapport genoemd directeur. . Het onderdeel bestaat uit diverse teams onder leiding van een teamleider, waarbij één teamleider tevens de rol heeft van plaatsvervangend afdelingshoofd.
 
@@ -258,11 +270,9 @@ Het Directoraat-Generaal Douane staat onder leiding van de directeur-generaal Do
 
 - a. Het Managementteam Douane is verantwoordelijk voor het realiseren van de doelen en de uitvoering van taken en opdrachten en geeft richting aan de sturing van het DGD, waarbij de DGD eindverantwoordelijkheid draagt.
 
-- b. Het Managementteam Douane bestaat uit de DGD (voorzitter), de algemeen directeur Douane, de directeuren genoemd in het eerste lid, onder a, i. tot en met iv.
+- b. Het Managementteam Douane bestaat uit de DGD (voorzitter), de directeuren genoemd in het eerste lid, onder a, i. tot en met iv, het hoofd genoemd in het eerste lid, onder a, subonderdeel vi, en de directeur genoemd in het eerste lid, onder b.
 
-- c. Aan het Managementteam Douane is een dienstonderdeel controller van de Concerndirectie Control en Financiën toegevoegd.
-
-3. Eén van de in het tweede lid onder b genoemde directeuren vervult tevens de rol van plaatsvervangend algemeen directeur Douane.
+3. Eén van de in het tweede lid onder b genoemde directeuren vervult tevens de rol van de plaatsvervangend DG Douane.
 
 ### Hoofdstuk 6. Slotbepalingen
 
