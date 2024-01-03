@@ -4,7 +4,7 @@ identifier: "BWBR0041852"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-02-15"
-last_updated: "2023-12-30"
+last_updated: "2024-01-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041852"
 soort: "ministeriele-regeling"
@@ -234,13 +234,17 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 ##### Artikel 7a
 
-Aan het hoofd BTI wordt ondermandaat en machtiging verleend voor de uitvoering van het stelsel van investeringstoetsen, met uitzondering van:
+Aan het hoofd BTI wordt ondermandaat en machtiging verleend voor de uitvoering en handhaving van het stelsel van investeringstoetsen en het houden van toezicht op de naleving van dit stelsel, alsmede het houden van toezicht op de naleving van de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296) door niet-beursgenoteerde Nederlandse ondernemingen, met uitzondering van:
 
-- a. het nemen van besluiten tot het opleggen van een bestuurlijke boete;
+- a. het nemen van besluiten tot het opleggen van een verbod of maatregelen op grond van de [artikelen 12.5](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&artikel=12), [13.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&artikel=13), [14.5](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&artikel=14), [15.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&artikel=15), [16.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&artikel=16), [16.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&artikel=16), [17.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&artikel=17), [23.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&artikel=23), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&artikel=24), [25.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&artikel=25), [25.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&artikel=25), [27.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&artikel=27), [27.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&artikel=27), [27.5](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&artikel=27), [28.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&artikel=28), [28.4](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&artikel=28), [29.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&artikel=29), [33.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&artikel=33), [42.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&artikel=42), [44.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&artikel=44), en [58.1 van de Wet veiligheidstoets investeringen, fusies en overnames](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&artikel=58);
 
-- b. het nemen van besluiten op grond van de [artikelen 14a.2 derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=14a.2), [14a.4](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=14a.4), [14a.10](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=14a.10), [14a.11](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=14a.11) en [20.16b van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=20.16b);
+- b. het nemen van besluiten tot herbeoordeling en alle daaruit volgende (toetsings-)besluiten;
 
-- c. het nemen van beslissingen op grond van de artikelen 6, tweede en vierde lid en 7, eerste en derde lid, van [Verordening 2019/452](32352R2019).
+- c. het nemen van besluiten tot het opleggen van een bestuurlijke boete of last onder bestuursdwang;
+
+- d. het nemen van beslissingen op grond van de artikelen 6, tweede en vierde lid en 7, eerste en derde lid, van [Verordening 2019/452](32352R2019); en
+
+- e. uitvoering geven aan het toezicht op grond van de [artikelen 47 tot en met 52 van de Wet veiligheidstoets investeringen, fusies en overnames](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&artikel=47).
 
 #### § 4. Slotbepalingen
 
