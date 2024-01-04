@@ -4,7 +4,7 @@ identifier: "BWBR0008473"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-23"
-last_updated: "2022-05-10"
+last_updated: "2024-01-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008473"
 soort: "ministeriele-regeling"
@@ -54,7 +54,9 @@ personen die deel uitmaken van of werkzaam zijn voor de krijgsmacht:
 
 - e. civiele contractspartijen, voor zover deze door de Minister van Defensie zijn belast met het vervoer van wapens of munitie;
 
-- f. vrijwilligers werkzaam bij een door Defensie erkende historische wapen- of dienstvakcollectie, regimentsverzameling, traditiekamer of bij de rekwisietencommissie Koninklijke landmacht, bestaande uit:
+- f. civiele contractspartijen, voor zover deze door de Minister van Defensie zijn belast met explosievenspring- of schietinstructie;
+
+- g. vrijwilligers werkzaam bij een door Defensie erkende historische wapen- of dienstvakcollectie, regimentsverzameling, traditiekamer of bij de rekwisietencommissie Koninklijke landmacht, bestaande uit:
 
 - 1°. burgerambtenaren in dienst van de Minister van Defensie,
 
@@ -62,7 +64,7 @@ personen die deel uitmaken van of werkzaam zijn voor de krijgsmacht:
 
 ##### Artikel 2
 
-1. De categorie van personen, genoemd in [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=1&z=2022-05-10&g=2022-05-10), is gerechtigd tot:
+1. De categorie van personen, genoemd in [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=1&z=2024-01-04&g=2024-01-04), is gerechtigd tot:
 
 - a. voor zover de uitoefening van de dienst zulks vereist:
 
@@ -78,29 +80,37 @@ personen die deel uitmaken van of werkzaam zijn voor de krijgsmacht:
 
 2. Ten aanzien van niet-Nederlandse militairen in werkelijke dienst deel uitmakend van een krijgsmacht van een land dat niet is aangesloten bij de Noord-Atlantische verdragsorganisatie of het Partnerschap voor de Vrede geldt het eerste lid slechts indien de desbetreffende krijgsmacht beschikt over een schriftelijke uitnodiging van de Minister van Defensie en is voldaan aan de door de Minister van Defensie bij de uitnodiging gestelde voorwaarden.
 
-3. De categorie van personen, genoemd in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=1&z=2022-05-10&g=2022-05-10), is voor zover de uitoefening van de dienst zulks vereist en zij in het bezit zijn van een door de Minister van Defensie afgegeven vergunning gerechtigd tot:
+3. De categorie van personen, genoemd in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=1&z=2024-01-04&g=2024-01-04), is voor zover de uitoefening van de dienst zulks vereist en zij in het bezit zijn van een door de Minister van Defensie afgegeven vergunning gerechtigd tot:
 
 - a. het vervoeren of voorhanden hebben van wapens of munitie van de categorieën I, onder 7°, voor zover het betreft voorwerpen die een sprekende gelijkenis vertonen met vuurwapens, II en III;
 
 - b. het dragen van wapens van de categorieën I, onder 7°, voor zover het betreft voorwerpen die een sprekende gelijkenis vertonen met vuurwapens, II, III en IV.
 
-4. De categorie van personen, genoemd in [artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=1&z=2022-05-10&g=2022-05-10), is voor zover de uitoefening van de dienst zulks vereist en zij in het bezit zijn van een door de Minister van Defensie afgegeven vergunning gerechtigd tot:
+4. De categorie van personen, genoemd in [artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=1&z=2024-01-04&g=2024-01-04), is voor zover de uitoefening van de dienst zulks vereist en zij in het bezit zijn van een door de Minister van Defensie afgegeven vergunning gerechtigd tot:
 
 - a. het doen binnenkomen en uitgaan, het vervoeren, voorhanden hebben, vervaardigen, transformeren, beproeven en herstellen van de wapens of munitie van de categorieën I, onder 3°, voor zover het betreft een geluidsdemper, I onder 7º, voor zover het betreft voorwerpen die een sprekende gelijkenis vertonen met vuurwapens of voor ontploffing bestemde voorwerpen, II en III;
 
 - b. het vervaardigen, transformeren, herstellen en beproeven van een wapen van de categorie IV.
 
-5. De categorie van personen, genoemd in [artikel 1, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=1&z=2022-05-10&g=2022-05-10), is voor zover de uitoefening van de dienst zulks vereist en zij in het bezit zijn van een door de Minister van Defensie afgegeven vergunning in het kader van trainingsdoeleinden gerechtigd tot:
+5. De categorie van personen, genoemd in [artikel 1, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=1&z=2024-01-04&g=2024-01-04), is voor zover de uitoefening van de dienst zulks vereist en zij in het bezit zijn van een door de Minister van Defensie afgegeven vergunning in het kader van trainingsdoeleinden gerechtigd tot:
 
-- a. het vervoeren of voorhanden hebben van wapens of munitie van de categorieën I, onder 7°, voor zover het betreft voorwerpen die een sprekende gelijkenis vertonen met vuurwapens, II en III;
+- a. het vervoeren of voorhanden hebben van wapens of munitie van de categorieën I, onder 3°, voor zover het betreft een geluidsdemper, I, onder 7°, voor zover het betreft voorwerpen die een sprekende gelijkenis vertonen met vuurwapens of voor ontploffing bestemde voorwerpen, II en III;
 
-- b. het dragen van wapens van de categorieën I, onder 7°, voor zover het betreft voorwerpen die een sprekende gelijkenis vertonen met vuurwapens, II, III en IV.
+- b. het dragen van wapens van de categorieën I, onder 3°, voor zover het betreft een geluidsdemper, I, onder 7°, voor zover het betreft voorwerpen die een sprekende gelijkenis vertonen met vuurwapens of voor ontploffing bestemde voorwerpen, II, III en IV.
 
-Het gestelde in dit lid geldt voor zover de wapens en voorwerpen op defensieterrein blijven.
+Het gestelde in dit lid geldt voor zover de wapens, munitie en voorwerpen op defensieterrein blijven.
 
 6. De categorie van personen, genoemd in artikel 1, onder e, is uitsluitend gerechtigd tot het vervoeren, voorhanden hebben, doen binnenkomen of uitgaan van wapens of munitie van de categorieën I, onder 3°, voor zover het betreft een geluidsdemper, I, onder 7°, voor zover het betreft voorwerpen die een sprekende gelijkenis vertonen met vuurwapens of voor ontploffing bestemde voorwerpen, II en III. Het gestelde in dit lid geldt voor zover de opdracht daartoe door de Minister van Defensie blijkt uit door hen mee te voeren documenten.
 
-7. De in [artikel 1, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=1&z=2022-05-10&g=2022-05-10), genoemde personen zijn voor zover zij in het bezit zijn van een door de Minister van Defensie afgegeven vergunning gerechtigd tot:
+7. De categorie van personen, genoemd in [artikel 1, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=1&z=2024-01-04&g=2024-01-04), is voor zover zij in het bezit zijn van een door de Minister van Defensie afgegeven vergunning in het kader van trainingsdoeleinden gerechtigd tot:
+
+- a. het vervoeren of voorhanden hebben van wapens of munitie van de categorieën I, onder 3°, voor zover het betreft een geluidsdemper, I, onder 7°, voor zover het betreft voorwerpen die een sprekende gelijkenis vertonen met vuurwapens of voor ontploffing bestemde voorwerpen, II en III;
+
+- b. het dragen van wapens van de categorieën I, onder 3°, voor zover het betreft een geluidsdemper, I, onder 7°, voor zover het betreft voorwerpen die een sprekende gelijkenis vertonen met vuurwapens of voor ontploffing bestemde voorwerpen, II, III en IV.
+
+Het gestelde in dit lid geldt voor zover de wapens, munitie en voorwerpen op defensieterrein blijven.
+
+8. De in [artikel 1, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=1&z=2024-01-04&g=2024-01-04), genoemde personen zijn voor zover zij in het bezit zijn van een door de Minister van Defensie afgegeven vergunning gerechtigd tot:
 
 - a. het voorhanden hebben, transformeren en herstellen van een wapen van de categorieën II en III alsmede het transformeren en herstellen van een wapen van de categorie IV wanneer genoemde personen onderhoudswerkzaamheden verrichten;
 
@@ -108,33 +118,35 @@ Het gestelde in dit lid geldt voor zover de wapens en voorwerpen op defensieterr
 
 Het in dit lid gestelde geldt voor zover het een bij Defensie opgeslagen wapen betreft welke is geregistreerd in de database historisch defensiematerieel, en indien het gaat om een wapen met een kaliber van 12.7 mm of kleiner, het wapen gebruiksongereed is.
 
-8. Onverminderd het bepaalde in dit artikel is voor zover de uitoefening van de dienst zulks vereist de militair van de Koninklijke marechaussee gerechtigd tot het transformeren, herstellen, beproeven, voorhanden hebben, dragen, vervoeren en doen binnenkomen en uitgaan van een wapen van categorie I indien dit nodig is in het kader van training voor herkenning en opsporing van genoemde wapens.
+9. Onverminderd het bepaalde in dit artikel is voor zover de uitoefening van de dienst zulks vereist de militair van de Koninklijke marechaussee gerechtigd tot het transformeren, herstellen, beproeven, voorhanden hebben, dragen, vervoeren en doen binnenkomen en uitgaan van een wapen van categorie I indien dit nodig is in het kader van training voor herkenning en opsporing van genoemde wapens.
 
 ##### Artikel 3
 
-1. Aan de vergunning bedoeld in [artikel 2, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=2&z=2022-05-10&g=2022-05-10), kunnen voorschriften worden verbonden met betrekking tot:
+1. Aan de vergunning bedoeld in [artikel 2, derde, vierde, vijfde, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=2&z=2024-01-04&g=2024-01-04), kunnen voorschriften worden verbonden met betrekking tot:
 
 - a. het eventuele gebruik; en
 
 - b. de opslag en het eventuele vervoer van het wapen of de munitie.
 
-2. De plaatsvervangend commandant defensie ondersteuningscommando is namens de Minister van Defensie bevoegd tot het verstrekken van de vergunning, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=2&z=2022-05-10&g=2022-05-10), ten aanzien van het personeel behorende tot de categorie van personen, genoemd in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=1&z=2022-05-10&g=2022-05-10), alsmede tot het verlenen van de opdracht, bedoeld in artikel 2, vijfde lid.
+2. De plaatsvervangend commandant defensie ondersteuningscommando is namens de Minister van Defensie bevoegd tot het verstrekken van de vergunning, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=2&z=2024-01-04&g=2024-01-04), ten aanzien van het personeel behorende tot de categorie van personen, genoemd in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=1&z=2024-01-04&g=2024-01-04), alsmede tot het verlenen van de opdracht, bedoeld in artikel 2, zesde lid.
 
-3. Bevoegd tot het namens de Minister verstrekken van de vergunning, bedoeld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=2&z=2022-05-10&g=2022-05-10), is:
+3. Bevoegd tot het namens de Minister verstrekken van de vergunning, bedoeld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=2&z=2024-01-04&g=2024-01-04), is:
 
-- a. het hoofd maritieme techniek, het hoofd maritieme logistiek en het hoofd maritieme ondersteuning van de directie materiële instandhouding van het commando zeestrijdkrachten alsmede de commandant van het defensie munitie bedrijf van de defensie materieel organisatie ten aanzien van het in [artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=1&z=2022-05-10&g=2022-05-10), bedoelde personeel voor zover dat personeel onder hen ressorteert en de in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=2&z=2022-05-10&g=2022-05-10), bedoelde handelingen op defensieterrein verricht;
+- a. het hoofd maritieme techniek, het hoofd maritieme logistiek en het hoofd maritieme ondersteuning van de directie materiële instandhouding van het commando zeestrijdkrachten alsmede de commandant van het defensie munitie bedrijf van de defensie materieel organisatie ten aanzien van het in [artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=1&z=2024-01-04&g=2024-01-04), bedoelde personeel voor zover dat personeel onder hen ressorteert en de in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=2&z=2024-01-04&g=2024-01-04), bedoelde handelingen op defensieterrein verricht;
 
-- b. de directeur defensie materieel organisatie ten aanzien van de overige in [artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=1&z=2022-05-10&g=2022-05-10), bedoelde gevallen.
+- b. de directeur defensie materieel organisatie ten aanzien van de overige in [artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=1&z=2024-01-04&g=2024-01-04), bedoelde gevallen.
 
 4. De functionaris, bedoeld in het tweede en derde lid, kan de bevoegdheid, bedoeld in respectievelijk het tweede en derde lid, geheel of gedeeltelijk schriftelijk doormandateren aan een onder hem ressorterende functionaris.
 
-5. Bevoegd tot het namens de Minister van Defensie verstrekken van de vergunning, bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=2&z=2022-05-10&g=2022-05-10), is de commandant zeestrijdkrachten, de commandant landstrijdkrachten, de commandant luchtstrijdkrachten of de commandant Koninklijke marechaussee ten aanzien van het onder hen ressorterende personeel. De functionarissen, bedoeld in de vorige volzin, kunnen de bevoegdheid tot het verstrekken van de vergunning geheel of gedeeltelijk schriftelijk doormandateren aan een onder hem ressorterende functionaris.
+5. Bevoegd tot het namens de Minister van Defensie verstrekken van de vergunning, bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=2&z=2024-01-04&g=2024-01-04), is de commandant zeestrijdkrachten, de commandant landstrijdkrachten, de commandant luchtstrijdkrachten of de commandant Koninklijke marechaussee ten aanzien van het onder hen ressorterende personeel. De functionarissen, bedoeld in de vorige volzin, kunnen de bevoegdheid tot het verstrekken van de vergunning geheel of gedeeltelijk schriftelijk doormandateren aan een onder hem ressorterende functionaris.
 
-6. Bevoegd tot het namens de Minister van Defensie verstrekken van de vergunning, bedoeld in [artikel 2, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=2&z=2022-05-10&g=2022-05-10), is de commandant zeestrijdkrachten, de commandant landstrijdkrachten, de commandant luchtstrijdkrachten of de commandant Koninklijke marechaussee ten aanzien van het onder hen ressorterende personeel.
+6. Bevoegd tot het namens de Minister van Defensie verstrekken van de vergunning, bedoeld in [artikel 2, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=2&z=2024-01-04&g=2024-01-04), is de commandant zeestrijdkrachten, de commandant landstrijdkrachten, de commandant luchtstrijdkrachten of de commandant Koninklijke marechaussee ten aanzien van het ten behoeve van hun operationeel commando ingehuurde personeel. De functionarissen, bedoeld in de vorige volzin, kunnen de bevoegdheid tot het verstrekken van de vergunning geheel of gedeeltelijk schriftelijk doormandateren aan een onder hem ressorterende functionaris.
+
+7. Bevoegd tot het namens de Minister van Defensie verstrekken van de vergunning, bedoeld in [artikel 2, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=2&z=2024-01-04&g=2024-01-04), is de commandant zeestrijdkrachten, de commandant landstrijdkrachten, de commandant luchtstrijdkrachten of de commandant Koninklijke marechaussee ten aanzien van het onder hen ressorterende personeel.
 
 ##### Artikel 4
 
-Met ingang van inwerkingtreding van deze regeling berusten vergunningen, afgegeven op grond van de Regeling wapens en munitie krijgsmachtpersoneel van 19 september 1994 (Stcrt. 185), voor de duur van hun geldigheid of op [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=2&z=2022-05-10&g=2022-05-10), of op [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=2&z=2022-05-10&g=2022-05-10), van deze regeling.
+Met ingang van inwerkingtreding van deze regeling berusten vergunningen, afgegeven op grond van de Regeling wapens en munitie krijgsmachtpersoneel van 19 september 1994 (Stcrt. 185), voor de duur van hun geldigheid of op [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=2&z=2024-01-04&g=2024-01-04), of op [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=2&z=2024-01-04&g=2024-01-04), van deze regeling.
 
 ##### Artikel 5
 
