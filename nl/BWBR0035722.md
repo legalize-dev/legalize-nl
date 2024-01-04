@@ -4,7 +4,7 @@ identifier: "BWBR0035722"
 country: "nl"
 rank: "kb"
 publication_date: "2024-01-04"
-last_updated: "2014-06-29"
+last_updated: "2024-01-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035722"
 soort: "KB"
@@ -68,11 +68,15 @@ Het Nationaal Comité heeft tot doel het bevorderen van de maatschappelijke erke
 
 - c. Een volgens het rooster aftredend lid van het Nationaal Comité is onmiddellijk herbenoembaar.
 
-- d. Aftredende leden worden bij Koninklijk besluit, op voordracht van Onze Minister van Defensie, ontslagen.
+- d. Aftredende leden worden door Onze Minister van Defensie ontslagen.
 
 ##### Artikel 4
 
-Het Nationaal Comité bestaat naast leden die uit hoofde van hun functie bij het Ministerie van Defensie, bij het Veteraneninstituut, of bij het Veteranenplatform worden benoemd, uit ten minste vier leden die op persoonlijke titel worden benoemd. Ook de voorzitter wordt op persoonlijke titel benoemd.
+- a. Het Nationaal Comité bestaat naast leden die uit hoofde van hun functie bij het Ministerie van Defensie, bij het Veteraneninstituut, of bij het Veteranenplatform worden benoemd, uit ten minste vier leden die op persoonlijke titel worden benoemd. Ook de voorzitter wordt op persoonlijke titel benoemd.
+
+- b. De voorzitter en leden die op persoonlijke titel plaatsnemen in het Nationaal Comité worden benoemd op grond van deskundigheid alsmede op grond van maatschappelijke kennis en ervaring.
+
+- c. Bij de benoeming van leden van het Nationaal Comité wordt gestreefd naar evenredige deelneming van vrouwen en personen behorende tot etnische of culturele minderheidsgroepen.
 
 ##### Artikel 5
 
