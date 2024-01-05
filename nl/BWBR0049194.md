@@ -4,7 +4,7 @@ identifier: "BWBR0049194"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-01-05"
-last_updated: "2024-01-01"
+last_updated: "2024-01-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049194"
 soort: "zbo"
@@ -57,13 +57,13 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2. Werkgebieden van de UWV-vestigingen
 
-1. [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049194&bijlage=1&z=2024-01-05&g=2024-01-01) geeft per vestiging de werkgebieden van die vestiging aan.
+1. [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049194&bijlage=1&z=2024-01-05&g=2024-01-05) geeft per vestiging de werkgebieden van die vestiging aan.
 
-2. [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049194&bijlage=3&z=2024-01-05&g=2024-01-01) bevat de indeling in 35 arbeidsmarktregio’s.
+2. [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049194&bijlage=3&z=2024-01-05&g=2024-01-05) bevat de indeling in 35 arbeidsmarktregio’s.
 
 ##### Artikel 3. Indiening ontslagaanvraag
 
-1. Een ontslagaanvraag wordt ingediend bij de afdeling Arbeidsjuridische dienstverlening van UWV. [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049194&bijlage=2&z=2024-01-05&g=2024-01-01) bevat een overzicht van de AJD-vestigingen en geeft per AJD-vestiging aan welke gemeenten of provincie(s) tot haar werkgebied behoren.
+1. Een ontslagaanvraag wordt ingediend bij de afdeling Arbeidsjuridische dienstverlening van UWV. [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049194&bijlage=2&z=2024-01-05&g=2024-01-05) bevat een overzicht van de AJD-vestigingen en geeft per AJD-vestiging aan welke gemeenten of provincie(s) tot haar werkgebied behoren.
 
 2. De ontslagaanvraag om bedrijfseconomische redenen wordt ingediend bij de AJD-vestiging in het werkgebied waarbinnen de betrokken werknemer zijn arbeid verricht of heeft verricht.
 
