@@ -4,7 +4,7 @@ identifier: "BWBR0041822"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-06"
-last_updated: "2019-01-01"
+last_updated: "2024-01-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041822"
 soort: "ministeriele-regeling"
@@ -70,7 +70,7 @@ Aan de directeur is voorbehouden het nemen van besluiten, het verrichten van pri
 
 ##### Artikel 3
 
-1. Aan de MT-leden wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 50.000 niet te boven gaat.
+1. Aan de MT-leden wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 100.000 niet te boven gaat.
 
 2. Aan de MT-leden wordt tevens, ieder voor zich, voor de onder hen ressorterende medewerkers ondermandaat, volmacht en machtiging verleend voor:
 
