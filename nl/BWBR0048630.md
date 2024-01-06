@@ -4,7 +4,7 @@ identifier: "BWBR0048630"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-06"
-last_updated: "2023-09-23"
+last_updated: "2024-01-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048630"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-Aan de programmaleiders wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op hun werkterrein, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 15.000 per verplichting niet te boven gaat.
+Aan de programmaleiders wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op hun werkterrein, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 30.000 per verplichting niet te boven gaat.
 
 ##### Artikel 3
 
