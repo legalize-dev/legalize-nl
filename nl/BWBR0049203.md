@@ -4,7 +4,7 @@ identifier: "BWBR0049203"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2024-01-01"
+last_updated: "2024-01-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049203"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 1. De Minister kan een specifieke uitkering verstrekken aan een regionaal openbaar lichaam, een provincie of een gemeente, die namens meerdere gemeenten, die tot het territoriale gebied van één of meerdere veiligheidsregio’s binnen één provincie behoren, de operationele coördinatie en eerste opvang van ontheemden uit Oekraïne uitvoert.
 
-2. De Minister verstrekt de specifieke uitkering ter bekostiging van de werkelijk gemaakte kosten, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049203&artikel=5&z=2024-01-09&g=2024-01-01), ten behoeve van coördinatie en eerste opvang ontheemden uit Oekraïne.
+2. De Minister verstrekt de specifieke uitkering ter bekostiging van de werkelijk gemaakte kosten, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049203&artikel=5&z=2024-01-09&g=2024-01-09), ten behoeve van coördinatie en eerste opvang ontheemden uit Oekraïne.
 
 3. De specifieke uitkering wordt verstrekt voor de periode van 1 januari 2024 tot en met 31 december 2024.
 
@@ -106,7 +106,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 5. Voor vergoeding in aanmerking komende kosten
 
-1. De specifieke uitkering wordt alleen verstrekt ter bekostiging van de in een periode als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049203&artikel=2&z=2024-01-09&g=2024-01-01), gemaakte kosten, inclusief btw door:
+1. De specifieke uitkering wordt alleen verstrekt ter bekostiging van de in een periode als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049203&artikel=2&z=2024-01-09&g=2024-01-09), gemaakte kosten, inclusief btw door:
 
 - a. het regionaal openbaar lichaam, de provincie en gemeente, voor kosten gemaakt ten behoeve van coördinatie en eerste opvang, voor zover deze niet reeds op een andere wijze voor vergoeding in aanmerking komen;
 
@@ -124,7 +124,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 6. Verantwoording
 
-1. Het regionaal openbaar lichaam, de provincie of de gemeente, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049203&artikel=2&z=2024-01-09&g=2024-01-01), legt uiterlijk 15 juli van het jaar dat volgt op het jaar van besteding verantwoording af over de besteding van de specifieke uitkering.
+1. Het regionaal openbaar lichaam, de provincie of de gemeente, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049203&artikel=2&z=2024-01-09&g=2024-01-09), legt uiterlijk 15 juli van het jaar dat volgt op het jaar van besteding verantwoording af over de besteding van de specifieke uitkering.
 
 2. Daar waar sprake is van overdracht van middelen naar een medeoverheid is SiSa tussen medeoverheden van toepassing conform [artikel 17a, tweede lid van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
@@ -136,7 +136,7 @@ In deze regeling wordt verstaan onder:
 
 - a. voor zover er geen (volledige) of onjuiste verantwoordingsinformatie is verstrekt;
 
-- b. indien de verantwoordingsinformatie na de datum, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049203&artikel=6&z=2024-01-09&g=2024-01-01), is ontvangen;
+- b. indien de verantwoordingsinformatie na de datum, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049203&artikel=6&z=2024-01-09&g=2024-01-09), is ontvangen;
 
 - c. voor zover de specifieke uitkering niet rechtmatig is besteed;
 
