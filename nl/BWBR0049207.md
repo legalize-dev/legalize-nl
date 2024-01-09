@@ -4,7 +4,7 @@ identifier: "BWBR0049207"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-09"
-last_updated: "2023-07-01"
+last_updated: "2024-01-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049207"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ Besluit:
 
 ##### Artikel 2
 
-1. Het bestuur van VertiCer B.V. kan voor de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049207&artikel=1&z=2024-01-09&g=2023-07-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0049207&artikel=2&z=2024-01-09&g=2023-07-01) bedoelde aangelegenheden ondermandaat, volmacht en machtiging verlenen aan medewerkers van VertiCer B.V.
+1. Het bestuur van VertiCer B.V. kan voor de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049207&artikel=1&z=2024-01-09&g=2024-01-09) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0049207&artikel=2&z=2024-01-09&g=2024-01-09) bedoelde aangelegenheden ondermandaat, volmacht en machtiging verlenen aan medewerkers van VertiCer B.V.
 
 2. Het verlenen van ondermandaat, volmacht en machtiging alsmede wijziging daarvan, geschiedt schriftelijk en wat de formulering betreft in overeenstemming met de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat.
 
