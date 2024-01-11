@@ -4,7 +4,7 @@ identifier: "BWBR0045066"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-11"
-last_updated: "2021-04-23"
+last_updated: "2024-01-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045066"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 - e. overige kwaliteitsmaatregelen bovenop het Natuurpact (zoals recreatieve zonering of extra inzet op invasieve exoten);
 
-- **minister:** Minister van Landbouw, Natuur en Voedselkwaliteit;
+- **minister:** Minister voor Natuur en Stikstof;
 
 - **Natuurpact:** het door het Rijk en de provincies ondertekend document Natuurpact ontwikkeling en beheer van de natuur in Nederland van 18 september 2013, waarin de ambities met betrekking tot ontwikkeling en beheer van natuur in Nederland zijn vastgelegd voor de periode tot en met 2027 (Kamerstukken II 2013/14, 33 576, nr. 6);
 
@@ -78,9 +78,9 @@ In deze regeling wordt verstaan onder:
 
 2. Er wordt per provincie één specifieke uitkering verstrekt.
 
-3. De specifieke uitkering wordt verstrekt voor de kosten, inclusief de apparaatskosten, die zijn gemaakt voor de uitvoeringsactiviteiten in de periode 1 januari 2021 tot en met 31 december 2025, en waarvoor bestuurlijke verplichtingen zijn aangegaan in de periode 1 januari 2021 tot en met 31 december 2023.
+3. De specifieke uitkering wordt verstrekt voor de kosten, inclusief de apparaatskosten, die zijn gemaakt voor de uitvoeringsactiviteiten in de periode 1 januari 2021 tot en met 31 december 2026, en waarvoor bestuurlijke verplichtingen zijn aangegaan in de periode 1 januari 2021 tot en met 31 december 2025.
 
-4. De apparaatskosten zijn inclusief die apparaatskosten, die in de periode van 1 januari 2021 tot en met 31 december 2023 worden gemaakt voor de regievoering van voorbereiding en uitvoering van uitvoeringsactiviteiten vanaf 1 januari 2024.
+4. De apparaatskosten zijn inclusief die apparaatskosten, die in de periode van 1 januari 2021 tot en met 31 december 2026 worden gemaakt voor de regievoering van voorbereiding en uitvoering van uitvoeringsactiviteiten in de periode 1 januari 2024 tot en met 31 december 2030.
 
 5. De apparaatskosten maken voor ten hoogste 15 procent onderdeel uit van de specifieke uitkering over de periode van 1 januari 2021 tot en met 31 december 2023.
 
@@ -96,7 +96,7 @@ De specifieke uitkering bedraagt ten hoogste het bedrag, inclusief de BTW, opgen
 
 - a. de hoogte van de gevraagde specifieke uitkering, waaruit blijkt, welk deel de BTW betreft;
 
-- b. de periode waarin de gevraagde specifieke uitkering besteed zal worden, uiterlijk tot en met 31 december 2025.
+- b. de periode waarin de gevraagde specifieke uitkering besteed zal worden, uiterlijk tot en met 31 december 2026.
 
 3. De aanvraag per provincie gaat vergezeld van een Provinciaal Uitvoeringsprogramma, inclusief begroting. De begroting geeft tevens inzicht in de omvang van de apparaatskosten.
 
@@ -148,7 +148,7 @@ De minister kan bij de verlening ambtshalve of op aanvraag besluiten tot het ver
 
 - b. een kwalitatieve beschrijving van de voortgang van de opgaven, waarin aandacht wordt besteed aan:
 
-- 1°. het type maatregelen per natuurgebied in relatie tot het doelbereik tot en met 31 december 2023;
+- 1°. het type maatregelen per natuurgebied in relatie tot het doelbereik tot en met 31 december 2026;
 
 - 2°. de strategie om natuurherstel te realiseren in relatie tot het beoogde doelbereik tot en met 2030; en
 
@@ -162,13 +162,15 @@ De minister kan bij de verlening ambtshalve of op aanvraag besluiten tot het ver
 
 ##### Artikel 9. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
+1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
+
+2. Deze regeling vervalt met ingang van 1 januari 2027, met dien verstande dat deze regeling van toepassing blijft op aanvragen die op grond van deze regeling zijn ingediend en op specifieke uitkeringen die op grond van deze regeling zijn verleend of vastgesteld.
 
 ##### Artikel 10. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering Programma Natuur.
 
-## Bijlage. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045066&artikel=3&z=2021-04-23&g=2021-04-23)
+## Bijlage. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045066&artikel=3&z=2024-01-11&g=2024-01-11)
 
 | Uitvoeringsprogramma Natuur | Maximale bijdrage 2021 (inclusief BTW) | Maximale bijdrage 2022 (inclusief BTW) | Maximale bijdrage 2023 (inclusief BTW) |
 | --- | --- | --- | --- |
