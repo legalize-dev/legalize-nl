@@ -4,7 +4,7 @@ identifier: "BWBR0038193"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-02-12"
-last_updated: "2024-01-01"
+last_updated: "2024-01-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038193"
 soort: "ministeriele-regeling"
@@ -74,7 +74,7 @@ In deze regeling wordt verstaan onder:
 
 1. Het bevoegd gezag meldt het voornemen tot ontwikkeling van een nieuw beroepsgericht keuzevak aan de Dienst Uitvoering Onderwijs, Postbus 30205, 2500 GE, Den Haag.
 
-2. Het formulier voor de melding, bedoeld in [artikel 2.30, vijfde lid, Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.30), wordt vastgesteld overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&bijlage=1&z=2024-01-01&g=2024-01-01).
+2. Het formulier voor de melding, bedoeld in [artikel 2.30, vijfde lid, Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.30), wordt vastgesteld overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&bijlage=1&z=2024-01-11&g=2024-01-11).
 
 3. Een volledige melding bestaat uit een volledig ingevuld formulier als bedoeld in het tweede lid, en een schriftelijke verklaring van kennisgeving van het voornemen aan de medezeggenschapsraad van de school.
 
@@ -84,7 +84,7 @@ In deze regeling wordt verstaan onder:
 
 1. Het bevoegd gezag dient een aanvraag tot goedkeuring van een nieuw ontwikkeld beroepsgericht keuzevak, als bedoeld in [artikel 2.31 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.31), voor 1 oktober van enig jaar in bij de Dienst Uitvoering Onderwijs, Postbus 30205, 2500 GE te Den Haag.
 
-2. Het formulier voor de aanvraag, bedoeld in [artikel 2.31 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.31), wordt vastgesteld overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&bijlage=2&z=2024-01-01&g=2024-01-01).
+2. Het formulier voor de aanvraag, bedoeld in [artikel 2.31 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.31), wordt vastgesteld overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&bijlage=2&z=2024-01-11&g=2024-01-11).
 
 3. Een volledige aanvraag bestaat uit:
 
@@ -116,7 +116,7 @@ Een nieuw beroepsgericht keuzevak voldoet in ieder geval aan de volgende voorwaa
 
 ##### Artikel 6. vaststelling examenprogramma’s beroepsgerichte keuzevakken
 
-De examenprogramma’s van de beroepsgerichte keuzevakken worden vastgesteld zoals aangegeven in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&bijlage=3&z=2024-01-01&g=2024-01-01).
+De examenprogramma’s van de beroepsgerichte keuzevakken worden vastgesteld zoals aangegeven in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&bijlage=3&z=2024-01-11&g=2024-01-11).
 
 ##### Artikel 7. Inwerkingtreding
 
@@ -224,23 +224,21 @@ Arbeidsmarktpartij:
 
 Adres:
 
-### 1.13. bouwmethoden en bouwstijlen
-
 ### 1.14. bijzonder metselwerk
+
+### 1.15. scheidingswanden
 
 **Nadere informatie beroepsgericht keuzevak**
 
 ## Bijlage 3. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&artikel=6&z=2016-08-01&g=2016-08-01) van de Regeling beroepsgerichte keuzevakken vmbo
 
-### 1.17. schilderen en spuiten op kunststof en metalen
-
 ### 1.18. onderhoud schilderwerk
 
-De landelijk ontwikkelde beroepsgerichte keuzevakken zijn ingedeeld in de profielen waar ze oorspronkelijk onder zijn geschaard. In het onderstaande overzicht volgen per profiel eerst de vier profielmodules die als beroepsgerichte keuzevakken gekozen kunnen worden, en daarna de overige onder het profiel geschaarde beroepsgerichte keuzevakken.
+### 1.19. glaszetten
 
 De landelijk ontwikkelde beroepsgerichte keuzevakken zijn ingedeeld in de profielen waar ze oorspronkelijk onder zijn geschaard. In het onderstaande overzicht volgen per profiel eerst de vier profielmodules die als beroepsgerichte keuzevakken gekozen kunnen worden, en daarna de overige onder het profiel geschaarde beroepsgerichte keuzevakken.
 
-### 1.21. bouw- en woonrijp maken
+De landelijk ontwikkelde beroepsgerichte keuzevakken zijn ingedeeld in de profielen waar ze oorspronkelijk onder zijn geschaard. In het onderstaande overzicht volgen per profiel eerst de vier profielmodules die als beroepsgerichte keuzevakken gekozen kunnen worden, en daarna de overige onder het profiel geschaarde beroepsgerichte keuzevakken.
 
 ### 1.22. terreinafwerking
 
@@ -258,13 +256,13 @@ De landelijk ontwikkelde beroepsgerichte keuzevakken zijn ingedeeld in de profie
 
 ### 2. Profiel produceren, installeren en energie
 
-### 2.1. ontwerpen en maken
+### 2.1. Ontwerpen en maken
 
-### 2.2. bewerken en verbinden van materialen
+### 2.2. Bewerken en verbinden van materialen
 
-### 2.3. besturen en automatiseren
+### 2.3. Besturen en automatiseren
 
-### 2.4. installeren en monteren
+### 2.4. Installeren en monteren
 
 ### 2.5. plaat- en constructiewerk
 
@@ -314,13 +312,13 @@ De landelijk ontwikkelde beroepsgerichte keuzevakken zijn ingedeeld in de profie
 
 ### 3. Profiel mobiliteit en transport
 
-### 3.1. motorconditie testen
+### 3.1. Motorconditie testen
 
-### 3.2. wielophanging en carrosserie
+### 3.2. Wielophanging en carrosserie
 
-### 3.3. verlichtings- en comfortsystemen
+### 3.3. Verlichtings- en comfortsystemen
 
-### 3.4. transport
+### 3.4. Transport
 
 ### 3.5. motorsystemen
 
@@ -350,11 +348,15 @@ De landelijk ontwikkelde beroepsgerichte keuzevakken zijn ingedeeld in de profie
 
 ### 4. Profiel media, vormgeving en ICT
 
-### 4.1. audiovisuele vormgeving en productie
+### 4.1. Audiovisuele vormgeving en productie
 
 ### 4.2. 2D- en 3D-vormgeving en -productie
 
 ### 4.3. ICT
+
+### 4.3. ICT
+
+### 4.4. interactieve vormgeving en productie
 
 ### 4.4. interactieve vormgeving en productie
 
@@ -386,11 +388,11 @@ De landelijk ontwikkelde beroepsgerichte keuzevakken zijn ingedeeld in de profie
 
 ### 5. Profiel maritiem en techniek
 
-### 5.1. maritieme logistiek en communicatie
+### 5.1. Maritieme logistiek en communicatie
 
 ### 5.2. maritieme veiligheid
 
-### 5.3. maritieme installaties
+### 5.3. Maritieme installaties
 
 ### 5.4. reparatie en onderhoud
 
@@ -428,11 +430,11 @@ De landelijk ontwikkelde beroepsgerichte keuzevakken zijn ingedeeld in de profie
 
 ### 6. Profiel zorg en welzijn
 
-### 6.1. mens en gezondheid
+### 6.1. Mens en gezondheid
 
-### 6.2. mens en omgeving
+### 6.2. Mens en omgeving
 
-### 6.3. mens en activiteit
+### 6.3. Mens en activiteit
 
 ### 6.4. mens en zorg
 
@@ -506,15 +508,15 @@ De landelijk ontwikkelde beroepsgerichte keuzevakken zijn ingedeeld in de profie
 
 ### 8.5. gastheerspecialisatie
 
-### 6.16. voorkomen van ongevallen en EHBO
+### 8.6. brood- en banketspecialisatie
 
 ### 8.6. brood- en banketspecialisatie
 
 ### 8.7. keukenspecialisatie
 
-### 8.8. evenementen
-
 * meer complexe praktijkomgeving: mogelijkheden voor verkoop benutten, gasten met een open vraag ook in een andere situatie dan het restaurant bedienen.
+
+### 8.9. patisserie
 
 ### 8.10. de bijzondere keuken
 
@@ -524,17 +526,17 @@ De landelijk ontwikkelde beroepsgerichte keuzevakken zijn ingedeeld in de profie
 
 ### 8.13. Siervakken
 
-### 7.7. distributie
+### 9. Profiel groen
 
 ### 9. Profiel groen
 
-### 9.1. groene productie
+### 9.1. Groene productie
 
-### 9.2. tussen productie en verkoop
+### 9.2. Tussen productie en verkoop
 
-### 9.3. vergroening stedelijke omgeving
+### 9.3. Vergroening stedelijke omgeving
 
-### 9.4. groene vormgeving en verkoop
+### 9.4. Groene vormgeving en verkoop
 
 ### 9.5. het groene machinepark
 
@@ -570,13 +572,13 @@ De landelijk ontwikkelde beroepsgerichte keuzevakken zijn ingedeeld in de profie
 
 ### 10. Profiel dienstverlening en producten
 
-### 10.1. organiseren van een activiteit voor een opdrachtgever
+### 10.1. Organiseren van een activiteit voor een opdrachtgever
 
-### 10.2. presenteren, promoten en verkopen
+### 10.2. Presenteren, promoten en verkopen
 
-### 10.3. een product maken en verbeteren
+### 10.3. Een product maken en verbeteren
 
-### 10.4. multimediale producten maken
+### Multimediale producten maken
 
 ### 10.5. digispel
 
@@ -587,8 +589,6 @@ De landelijk ontwikkelde beroepsgerichte keuzevakken zijn ingedeeld in de profie
 ### 10.8. voeding en beweging
 
 ### 10.9. podium
-
-### 10.10. geüniformeerde dienstverlening en veiligheid
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -602,13 +602,15 @@ Toelichting bij het beroepsgerichte keuzevak
 
 ## Bijlage 3. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&artikel=6&z=2020-11-25&g=2020-11-25) van de Regeling beroepsgerichte keuzevakken vmbo
 
-### 1.19. glaszetten
+### 1.20. meubelmaken
 
 Hieronder worden de examenprogramma's per beroepsgericht keuzevak gedefinieerd in exameneenheden met de bijbehorende code. Elke exameneenheid bestaat uit één of meer eindtermen. In de kolommen achter de exameneenheden staat aangegeven door middel van een X voor welke leerweg de exameneenheid deel uitmaakt van het examenprogramma.
 
-### 8.9. patisserie
+### 8.8. evenementen
 
 1 meer complexe situatie: in relatief kortere tijd siervakproducten vervaardigen waarvoor meerdere en andere technieken dan in het patisserie worden toegepast en gecombineerd.
+
+### 10.10. geüniformeerde dienstverlening en veiligheid
 
 ### 10.11. milieu, hergebruik en duurzaamheid
 
@@ -622,15 +624,13 @@ Hieronder worden de examenprogramma's per beroepsgericht keuzevak gedefinieerd i
 
 ### 10.16. Kunstvak informatie, creatie en presentatie
 
-### 9.14. water
-
 ### 9.15. voeding: hoe maak je het?
 
 ### 9.16. groene zorg
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-* meer complexe praktijkomgeving: mogelijkheden voor verkoop benutten, gasten met een open vraag ook in een andere situatie dan het restaurant bedienen.
+1 meer complexe situatie: in relatief kortere tijd siervakproducten vervaardigen waarvoor meerdere en andere technieken dan in het patisserie worden toegepast en gecombineerd.
 
 ### 9.17. natuurlijk groen
 
@@ -660,9 +660,9 @@ Deze regeling is gebaseerd op de [artikelen 2.29, eerste lid](https://wetten.ove
 
 ##### Artikel 6a*. Overgangsrecht
 
-Op de centraal schriftelijke en praktische examens die in het schooljaar 2022–2023 worden afgenomen zijn de onderdelen 1.24 tot en met 1.26, 2.22 tot en met 2.26, 4.17, 5.20, 7.13, 7.14, 9.18. 9.19, 10.12 tot en met 10.14 van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&bijlage=3&z=2024-01-01&g=2024-01-01) behorende bij artikel 6, zoals deze luidden op 1 juli 2021, van toepassing.
+Op de centraal schriftelijke en praktische examens die in het schooljaar 2022–2023 worden afgenomen zijn de onderdelen 1.24 tot en met 1.26, 2.22 tot en met 2.26, 4.17, 5.20, 7.13, 7.14, 9.18. 9.19, 10.12 tot en met 10.14 van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&bijlage=3&z=2024-01-11&g=2024-01-11) behorende bij artikel 6, zoals deze luidden op 1 juli 2021, van toepassing.
 
-## Bijlage 1. behorende bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&artikel=3&z=2024-01-01&g=2024-01-01), van de Regeling beroepsgerichte keuzevakken vmbo
+## Bijlage 1. behorende bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&artikel=3&z=2024-01-11&g=2024-01-11), van de Regeling beroepsgerichte keuzevakken vmbo
 
 ### Formulier melding voornemen tot ontwikkeling van een nieuw beroepsgericht keuzevak
 
@@ -688,7 +688,7 @@ Van de bij 1 t/m 3 genoemde producten moet er één uitgewerkt worden. De andere
 
 ## Bijlage 3. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&artikel=6&z=2022-03-24&g=2022-03-24) van de Regeling beroepsgerichte keuzevakken vmbo
 
-### 1.20. meubelmaken
+### 1.21. bouw- en woonrijp maken
 
 De landelijk ontwikkelde beroepsgerichte keuzevakken zijn ingedeeld in de profielen waar ze oorspronkelijk onder zijn geschaard. In het onderstaande overzicht volgen per profiel eerst de vier profielmodules die als beroepsgerichte keuzevakken gekozen kunnen worden, en daarna de overige onder het profiel geschaarde beroepsgerichte keuzevakken.
 
@@ -730,27 +730,25 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Toelichting bij het meldformulier beroepsgerichte keuzevak
 
-## Bijlage 2. behorende bij [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&artikel=4&z=2024-01-01&g=2024-01-01), van de Regeling beroepsgerichte keuzevakken vmbo
+## Bijlage 2. behorende bij [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&artikel=4&z=2024-01-11&g=2024-01-11), van de Regeling beroepsgerichte keuzevakken vmbo
 
 ### Formulier aanvraag van een nieuw beroepsgericht keuzevak
 
 Contactpersoon (naam, functie, adres, telefoon, e-mail):
 
-## Bijlage 3. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&artikel=6&z=2024-01-01&g=2024-01-01) van de Regeling beroepsgerichte keuzevakken vmbo
+## Bijlage 3. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&artikel=6&z=2024-01-11&g=2024-01-11) van de Regeling beroepsgerichte keuzevakken vmbo
 
 ### Examenprogramma’s beroepsgerichte keuzevakken
 
 ### Leeswijzer
 
-### 1. Profiel bouwen, wonen en interieur
+### 1.1. Bouwproces en bouwvoorbereiding
 
-### 1.1. bouwproces en bouwvoorbereiding
+### 1.2. Bouwen vanaf de fundering
 
-### 1.2. bouwen vanaf de fundering
+### 1.3. Hout- meubelverbindingen
 
-### 1.3. hout- en meubelverbindingen
-
-### 1.4. design en decoratie
+### 1.4. Design en decoratie
 
 ### 1.5. constructieve aansluitingen en afwerking
 
@@ -768,9 +766,19 @@ Contactpersoon (naam, functie, adres, telefoon, e-mail):
 
 ### 1.12. vloeren
 
-### 1.15. scheidingswanden
+### 1.13. bouwmethoden en bouwstijlen
 
 ### 1.16. wandafwerking
+
+### 1.17. schilderen en spuiten op kunststof en metalen
+
+* meer complexe praktijkomgeving: mogelijkheden voor verkoop benutten, gasten met een open vraag ook in een andere situatie dan het restaurant bedienen.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+1 Met devices bedoelen we hier een PC, laptop, tablet, smartphone of singleboard computer.
+
+2 Met apparatuur bedoelen we hier sensoren, actuatoren en randapparatuur.
 
 * meer complexe praktijkomgeving: mogelijkheden voor verkoop benutten, gasten met een open vraag ook in een andere situatie dan het restaurant bedienen.
 
