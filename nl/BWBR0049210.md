@@ -4,7 +4,7 @@ identifier: "BWBR0049210"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-08-24"
-last_updated: "2024-01-01"
+last_updated: "2024-01-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049210"
 soort: "ministeriele-regeling"
@@ -84,13 +84,13 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Doel van de aanvullende bekostiging
 
-1. De minister verstrekt aanvullende bekostiging met als doel het versterken van de arbeidsmarktpositie van scholen als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049210&artikel=3&z=2024-01-11&g=2024-01-01), en [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049210&artikel=4&z=2024-01-11&g=2024-01-01), met relatief veel kwetsbare leerlingen.
+1. De minister verstrekt aanvullende bekostiging met als doel het versterken van de arbeidsmarktpositie van scholen als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049210&artikel=3&z=2024-01-11&g=2024-01-11), en [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049210&artikel=4&z=2024-01-11&g=2024-01-11), met relatief veel kwetsbare leerlingen.
 
 2. De aanvullende bekostiging is bedoeld voor het toekennen van een arbeidsmarkttoelage aan al het personeel dat werkzaam is op de vestiging of vestigingen van een basisschool of school voor voortgezet onderwijs die behoren tot de 15% vestigingen met de relatief hoogste achterstandsscores op 1 oktober 2020, dan wel van een speciale school voor basisonderwijs of een school voor (voortgezet) speciaal onderwijs die behoren tot de 15% vestigingen met het relatief hoogste aantal leerlingen met een niet-Nederlandse culturele achtergrond op 1 oktober 2020.
 
 ##### Artikel 3. Aanvullende bekostiging scholen voor primair onderwijs
 
-1. De Minister verstrekt aanvullende bekostiging voor het kalenderjaar 2024 aan het bevoegd gezag van een basisschool, een speciale school voor basisonderwijs of een school voor (voortgezet) speciaal onderwijs, met een vestiging die is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049210&bijlage=1&z=2024-01-11&g=2024-01-01).
+1. De Minister verstrekt aanvullende bekostiging voor het kalenderjaar 2024 aan het bevoegd gezag van een basisschool, een speciale school voor basisonderwijs of een school voor (voortgezet) speciaal onderwijs, met een vestiging die is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049210&bijlage=1&z=2024-01-11&g=2024-01-11).
 
 2. De aanvullende bekostiging, bedoeld in het eerste lid, bestaat uit een bedrag per leerling.
 
@@ -114,7 +114,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4. Aanvullende bekostiging scholen voor voortgezet onderwijs
 
-1. De Minister verstrekt aanvullende bekostiging voor het kalenderjaar 2024 aan het bevoegd gezag van een school voor voortgezet onderwijs, met een vestiging die is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049210&bijlage=2&z=2024-01-11&g=2024-01-01).
+1. De Minister verstrekt aanvullende bekostiging voor het kalenderjaar 2024 aan het bevoegd gezag van een school voor voortgezet onderwijs, met een vestiging die is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049210&bijlage=2&z=2024-01-11&g=2024-01-11).
 
 2. De aanvullende bekostiging, bedoeld in het eerste lid, bestaat uit een bedrag per leerling.
 
@@ -134,11 +134,11 @@ In deze regeling wordt verstaan onder:
 
 1. De verantwoording van de besteding van deze aanvullende bekostiging geschiedt in de jaarverslaggeving overeenkomstig de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132).
 
-2. De aanvullende bekostiging voor het doel, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049210&artikel=2&z=2024-01-11&g=2024-01-01), kan ook worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt.
+2. De aanvullende bekostiging voor het doel, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049210&artikel=2&z=2024-01-11&g=2024-01-11), kan ook worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt.
 
 ##### Artikel 6. Monitoring en evaluatie
 
-Ten behoeve van de monitoring van de implementatie en effecten van deze regeling op landelijk niveau verstrekt het bevoegd gezag desgevraagd een samenhangend overzicht van de gepleegde inspanningen en uitkomsten, waaronder financieel inzicht in de besteding, ter verwezenlijking van het doel, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049210&artikel=2&z=2024-01-11&g=2024-01-01).
+Ten behoeve van de monitoring van de implementatie en effecten van deze regeling op landelijk niveau verstrekt het bevoegd gezag desgevraagd een samenhangend overzicht van de gepleegde inspanningen en uitkomsten, waaronder financieel inzicht in de besteding, ter verwezenlijking van het doel, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049210&artikel=2&z=2024-01-11&g=2024-01-11).
 
 ##### Artikel 7. Inwerkingtreding
 
@@ -150,7 +150,7 @@ Ten behoeve van de monitoring van de implementatie en effecten van deze regeling
 
 Deze regeling wordt aangehaald als: Regeling aanvullende bekostiging uitvoering arbeidsmarkttoelage 2024.
 
-## Bijlage 1. Lijst met po-vestigingen die in aanmerking komen voor aanvullende bekostiging voor het verstrekken van een arbeidsmarkttoelage behorende bij [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049210&artikel=3&z=2024-01-11&g=2024-01-01), van de Regeling aanvullende bekostiging uitvoering arbeidsmarkttoelage 2024
+## Bijlage 1. Lijst met po-vestigingen die in aanmerking komen voor aanvullende bekostiging voor het verstrekken van een arbeidsmarkttoelage behorende bij [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049210&artikel=3&z=2024-01-11&g=2024-01-11), van de Regeling aanvullende bekostiging uitvoering arbeidsmarkttoelage 2024
 
 | Schooltype | BRIN-vestigingsnummer | Bevoegd gezag |
 | --- | --- | --- |
@@ -1185,7 +1185,7 @@ Deze regeling wordt aangehaald als: Regeling aanvullende bekostiging uitvoering 
 | (v)so | 19QU00 | 41535 |
 | (v)so | 17GW24 | 54679 |
 
-## Bijlage 2. Lijst met vo-vestigingen die in aanmerking komen voor aanvullende bekostiging voor het verstrekken van een arbeidsmarkttoelage, behorende bij [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049210&artikel=4&z=2024-01-11&g=2024-01-01), van de Regeling aanvullende bekostiging uitvoering arbeidsmarkttoelage 2024
+## Bijlage 2. Lijst met vo-vestigingen die in aanmerking komen voor aanvullende bekostiging voor het verstrekken van een arbeidsmarkttoelage, behorende bij [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049210&artikel=4&z=2024-01-11&g=2024-01-11), van de Regeling aanvullende bekostiging uitvoering arbeidsmarkttoelage 2024
 
 | Schooltype | BRIN-vestigingsnummer | Bevoegd gezag |
 | --- | --- | --- |
