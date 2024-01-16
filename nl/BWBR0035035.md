@@ -4,7 +4,7 @@ identifier: "BWBR0035035"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-16"
-last_updated: "2023-03-16"
+last_updated: "2024-01-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035035"
 soort: "ministeriele-regeling"
@@ -64,7 +64,7 @@ Besluit:
 
 - d. handvuurwapens en aanverwante uitrusting, uitsluitend bedoeld voor gebruik in internationaal geleide patrouilles ten behoeve van de beveiliging in het Sangha River Tri–national Protected Area alsmede voor gebruik door gewapende wildopzichters van het Chinko Project of het nationaal park Bamingui-Bangoran ter bestrijding van stropen, smokkel van ivoor en wapens, en ter bestrijding van andere activiteiten die in strijd zijn met de nationale wetten of internationale wettelijke verplichtingen van de Centraal-Afrikaanse Republiek, na kennisgeving aan het Comité, bedoeld in paragraaf 57 van Resolutie 2127 (2013) van de Veiligheidsraad van de Verenigde Naties;
 
-- e. wapens en munitie, militaire voertuigen en militaire uitrusting, alsmede het bieden van daaraan gerelateerde steun, aan de veiligheidstroepen van de Centraal-Afrikaanse Republiek, met inbegrip van de civiele rechtshandhavende overheidsinstanties, in geval vorenbedoelde wapens, munitie, voertuigen of uitrusting bedoeld zijn ter ondersteuning van of voor gebruik in het kader van de hervorming van de veiligheidssector in de Centraal-Afrikaanse Republiek, na kennisgeving aan het Comité, bedoeld in paragraaf 57 van Resolutie 2127 (2013) van de Veiligheidsraad van de Verenigde Naties.
+- e. wapens en munitie, militaire voertuigen en militaire uitrusting, paramilitaire uitrusting, en reserveonderdelen voor het bovengenoemde, alsmede het bieden van daaraan gerelateerde steun, advies en opleiding, aan de veiligheidstroepen van de Centraal-Afrikaanse Republiek, met inbegrip van de civiele rechtshandhavingsinstanties van die staat.
 
 3. Het eerste lid is niet van toepassing in geval door het Comité, bedoeld in paragraaf 57 van Resolutie 2127 (2013) van de Veiligheidsraad van de Verenigde Naties, vooraf goedkeuring is verleend aan een levering, verkoop of overdracht van:
 
