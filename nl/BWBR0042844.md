@@ -4,7 +4,7 @@ identifier: "BWBR0042844"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-16"
-last_updated: "2019-12-05"
+last_updated: "2024-01-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042844"
 soort: "ministeriele-regeling"
@@ -52,13 +52,13 @@ Besluit:
 
 1. Het is verboden te handelen in strijd met artikel 2, eerste en tweede lid, artikel 8, eerste lid, en artikel 9 van Verordening (EU) nr. 2019/1716 van de Raad van de Europese Unie van 14 oktober 2019 betreffende beperkende maatregelen in het licht van de situatie in Nicaragua (PbEU 2019, L 262).
 
-2. Het verbod te handelen in strijd met artikel 2, eerste lid en tweede lid, van Verordening (EU) nr. 2019/1716, geldt niet in gevallen waarin artikel 3, eerste lid, artikel 4, eerste lid, artikel 5, eerste lid, artikel 6, eerste lid, of artikel 7 van Verordening (EU) nr. 2019/1716 van toepassing is.
+2. Het verbod te handelen in strijd met artikel 2, eerste lid en tweede lid, van Verordening (EU) nr. 2019/1716, geldt niet in gevallen waarin artikel 3, eerste lid, artikel 4, eerste lid, artikel 5, eerste lid, artikel 6, eerste, tweede of derde lid, of artikel 7 van Verordening (EU) nr. 2019/1716 van toepassing is.
 
 ##### Artikel 2
 
-1. De bevoegde autoriteit, bedoeld in artikel 3, eerste lid, artikel 4, eerste lid, artikel 5, eerste lid, artikel 6, eerste lid, artikel 7, eerste lid, en artikel 8, eerste lid, van Verordening (EU) nr. 2019/1716 is de Minister van Financiën voor zover het betreft de vrijgave of beschikbaarstelling van tegoeden of informatie van financiële aard.
+1. De bevoegde autoriteit, bedoeld in artikel 3, eerste lid, artikel 4, eerste lid, artikel 5, eerste lid, artikel 6, tweede en derde lid, artikel 7, eerste lid, en artikel 8, eerste lid, van Verordening (EU) nr. 2019/1716 is de Minister van Financiën voor zover het betreft de vrijgave of beschikbaarstelling van tegoeden of informatie van financiële aard.
 
-2. De bevoegde autoriteit, bedoeld in artikel 3, eerste lid, artikel 4, eerste lid, artikel 5, eerste lid, en artikel 6, eerste lid, van Verordening (EU) nr. 2019/1716 is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking voor zover het betreft de vrijgave of beschikbaarstelling van economische middelen of informatie anders dan van financiële aard.
+2. De bevoegde autoriteit, bedoeld in artikel 3, eerste lid, artikel 4, eerste lid, artikel 5, eerste lid, en artikel 6, tweede en derde lid, van Verordening (EU) nr. 2019/1716 is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking voor zover het betreft de vrijgave of beschikbaarstelling van economische middelen of informatie anders dan van financiële aard.
 
 ##### Artikel 3
 
