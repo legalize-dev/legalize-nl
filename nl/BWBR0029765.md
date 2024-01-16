@@ -4,7 +4,7 @@ identifier: "BWBR0029765"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-16"
-last_updated: "2022-03-09"
+last_updated: "2024-01-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029765"
 soort: "ministeriele-regeling"
@@ -46,13 +46,13 @@ Besluit:
 
 1. Het is verboden te handelen in strijd met de artikelen 2, 2 bis en 9 van [Verordening 101/2011](32011R0101) van de Raad van de Europese Unie van 4 februari 2011 betreffende restrictieve maatregelen tegen bepaalde personen en entiteiten in verband met de situatie in Tunesië (Pb 2011, L31)
 
-2. Het verbod te handelen in strijd met artikel 2, eerste lid, van [Verordening 101/2011](32011R0101), geldt niet in gevallen waarin artikel 4, eerste lid, 5, eerste lid, 6, eerste lid, of 7 van [Verordening 101/2011](32011R0101) van toepassing is.
+2. Het verbod te handelen in strijd met artikel 2, eerste lid, van [Verordening 101/2011](32011R0101), geldt niet in gevallen waarin artikel 4, eerste lid, 4 bis, eerste, tweede of derde lid, 5, eerste lid, 6, eerste lid, of 7 van [Verordening 101/2011](32011R0101) van toepassing is.
 
 ##### Artikel 2
 
-1. De bevoegde autoriteit, bedoeld in de artikelen 4, eerste lid, 5, eerste lid, artikel 6, tweede lid, 7 en 9, eerste lid, van [Verordening 101/2011](32011R0101) is de Minister van Financiën voor zover het betreft de vrijgave of beschikbaarstelling van bevroren tegoeden.
+1. De bevoegde autoriteit, bedoeld in de artikelen 4, eerste lid, 4 bis, tweede en derde lid, 5, eerste lid, artikel 6, tweede lid, 7 en 9, eerste lid, van [Verordening 101/2011](32011R0101) is de Minister van Financiën voor zover het betreft de vrijgave of beschikbaarstelling van bevroren tegoeden.
 
-2. De bevoegde autoriteit, bedoeld in de artikelen 4, eerste lid, 5, eerste lid, en 7 van [Verordening 101/2011](32011R0101) is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking voor zover het betreft de vrijgave of beschikbaarstelling van economische middelen.
+2. De bevoegde autoriteit, bedoeld in de artikelen 4, eerste lid, 4 bis, tweede en derde lid, 5, eerste lid, en 7 van [Verordening 101/2011](32011R0101) is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking voor zover het betreft de vrijgave of beschikbaarstelling van economische middelen.
 
 ##### Artikel 3
 
