@@ -4,7 +4,7 @@ identifier: "BWBR0017181"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-17"
-last_updated: "2020-05-16"
+last_updated: "2024-01-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017181"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ Besluit:
 
 1. Het is verboden te handelen in strijd met de artikelen 2, 3, 6 en 8 van [Verordening (EG) nr. 314/2004](32004R0314) van de Raad van 19 februari 2004 inzake beperkende maatregelen in het licht van de situatie in Zimbabwe (Pb EG L 55).
 
-2. Het verbod, bedoeld in het eerste lid, geldt niet in gevallen waarin de artikelen 4, 4bis, 5 of 7 van [Verordening (EG) nr. 314/2004](32004R0314) van toepassing zijn.
+2. Het verbod, bedoeld in het eerste lid, geldt niet in gevallen waarin de artikelen 4, 4bis, 5, 7 of 7 bis, eerste, tweede of derde lid, van [Verordening (EG) nr. 314/2004](32004R0314) van toepassing zijn.
 
 ##### Artikel 2
 
@@ -76,8 +76,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2a
 
-1. De bevoegde autoriteit, bedoeld in artikel 4, artikel 4 bis, artikel 7 en artikel 8 van [Verordening (EG) nr. 314/2004](32004R0314) is de Minister van Financiën voor zover het betreft financieringen of financiële bijstand, de vrijgave of beschikbaarstelling van tegoeden of informatie van financiële aard.
+1. De bevoegde autoriteit, bedoeld in artikel 4, artikel 4 bis, artikel 7, 7bis, tweede en derde lid, en artikel 8 van [Verordening (EG) nr. 314/2004](32004R0314) is de Minister van Financiën voor zover het betreft financieringen of financiële bijstand, de vrijgave of beschikbaarstelling van tegoeden of informatie van financiële aard.
 
-2. De bevoegde autoriteit bedoeld in artikel 4, artikel 4bis, artikel 7 en artikel 8 van [Verordening (EG) nr. 314/2004](32004R0314) is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking voor zover het betreft technische bijstand dan wel de vrijgave of beschikbaarstelling van economische middelen of informatie anders dan van financiële aard.
+2. De bevoegde autoriteit bedoeld in artikel 4, artikel 4bis, artikel 7, 7bis, tweede en derde lid, en artikel 8 van [Verordening (EG) nr. 314/2004](32004R0314) is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking voor zover het betreft technische bijstand dan wel de vrijgave of beschikbaarstelling van economische middelen of informatie anders dan van financiële aard.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
