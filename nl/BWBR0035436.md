@@ -4,7 +4,7 @@ identifier: "BWBR0035436"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2023-05-02"
+last_updated: "2024-01-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035436"
 soort: "ministeriele-regeling"
@@ -48,11 +48,11 @@ Besluit:
 
 1. Het is verboden te handelen in strijd met de artikelen 2, 5, eerste en tweede lid, 9, eerste lid, en 10 van Verordening (EU) nr. 747/2014 van de Raad van de Europese Unie van 10 juli 2014 betreffende beperkende maatregelen in verband met de situatie in Sudan en tot intrekking van Verordening (EG) nr. 131/2004 en Verordening (EG) nr. 1184/2005 (Pb 2014, L 203).
 
-2. Het verbod te handelen in strijd met artikel 2, van Verordening (EU) nr. 747/2014, geldt niet in gevallen waarin artikel 3 of 4 van Verordening nr. (EU) 747/2014 van toepassing is. Het verbod te handelen in strijd met artikel 5, eerste en tweede lid, geldt niet in gevallen waarin artikelen 5, vierde lid, 6, 7, 8, of 9, eerste lid, van Verordening (EU) nr. 747/2014 van toepassing is.
+2. Het verbod te handelen in strijd met artikel 2, van Verordening (EU) nr. 747/2014, geldt niet in gevallen waarin artikel 3 of 4 van Verordening nr. (EU) 747/2014 van toepassing is. Het verbod te handelen in strijd met artikel 5, eerste en tweede lid, geldt niet in gevallen waarin artikel 5, vierde lid, 6, 7, 8, of 9, eerste lid, van Verordening (EU) nr. 747/2014 van toepassing is.
 
 ##### Artikel 2
 
-1. De bevoegde autoriteit, bedoeld in de artikelen 3, 6, 7, 8, eerste lid, en 9, eerste lid, van Verordening (EU) nr. 747/2014 is de Minister van Financiën voor zover het betreft de vrijgave of beschikbaarstelling van tegoeden of informatie van financiële aard.
+1. De bevoegde autoriteit, bedoeld in de artikelen 3, 6, 7, 8, eerste lid, en 9, eerste lid, van [Verordening (EU) nr. 747/2014](32014R0747) is de Minister van Financiën voor zover het betreft de vrijgave of beschikbaarstelling van tegoeden of informatie van financiële aard, met dien verstande dat instellingen als bedoeld in [artikel 10, tweede lid, onder a, c, e tot en met j, l en m, van de Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10) de informatie, bedoeld in artikel 9, eerste lid, van [Verordening (EU) nr. 747/2014](32014R0747) verstrekken aan De Nederlandsche Bank en instellingen als bedoeld in artikel 10, tweede lid, onder b, d en k, van de Sanctiewet 1977 de informatie, bedoeld in artikel 9, eerste lid, van [Verordening (EU) nr. 747/2014](32014R0747) verstrekken aan de Autoriteit Financiële Markten. De Nederlandsche Bank en de Autoriteit Financiële Markten zijn ten behoeve van de uitvoering van voornoemd artikel 9 bevoegd de ontvangen informatie aan de Minister van Financiën te verstrekken.
 
 2. De bevoegde autoriteit bedoeld in de artikelen 3, 6, 7, en 9, eerste lid, van Verordening (EU) nr. 747/2014 is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking voor zover het betreft de vrijgave of beschikbaarstelling van economische middelen of informatie anders dan van financiële aard.
 
@@ -83,5 +83,41 @@ Deze regeling wordt aangehaald als: Sanctieregeling Sudan 2014.
 ##### Artikel 6
 
 Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+1. Het is verboden te handelen in strijd met de artikelen 2, eerste en tweede lid, 8, eerste lid, en 9, eerste en tweede lid, van [Verordening (EU) 2023/2147](32023R2147) van de Raad van de Europese Unie van 9 oktober 2023 betreffende beperkende maatregelen in het licht van activiteiten die de stabiliteit en de politieke transitie van Sudan ondermijnen (PbEU 11 oktober 2023, nummer 02147).
+
+2. Het verbod te handelen in strijd met artikel 2, eerste en tweede lid, van [Verordening (EU) 2023/2147](32023R2147), geldt niet in gevallen waarin artikel 3, eerste lid, 4, eerste of tweede lid, 5, eerste lid, 6, eerste lid, of 7 van [Verordening (EU) 2023/2147](32023R2147) van toepassing is.
+
+##### Artikel 2a
+
+1. De bevoegde autoriteit, bedoeld in de artikelen 3, eerste lid, 4, tweede en derde lid, 5, eerste lid, 6, eerste lid, 7, eerste lid, en 8, eerste lid, van [Verordening (EU) 2023/2147](32023R2147) is de Minister van Financiën voor zover het betreft de vrijgave of beschikbaarstelling van tegoeden of informatie van financiële aard, met dien verstande dat instellingen als bedoeld in [artikel 10, tweede lid, onder a, c, e tot en met j, l en m, van de Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10) de informatie, bedoeld in artikel 8, eerste lid, van [Verordening (EU) 2023/2147](32023R2147) verstrekken aan De Nederlandsche Bank en instellingen als bedoeld in artikel 10, tweede lid, onder b, d en k, van de Sanctiewet 1977 de informatie, bedoeld in artikel 8, eerste lid, van [Verordening (EU) 2023/2147](32023R2147) verstrekken aan de Autoriteit Financiële Markten. De Nederlandsche Bank en de Autoriteit Financiële Markten zijn ten behoeve van de uitvoering van voornoemd artikel 8 bevoegd de ontvangen informatie aan de Minister van Financiën te verstrekken.
+
+2. De bevoegde autoriteit, bedoeld in de artikelen 3, eerste lid, 4, tweede en derde lid, 5, eerste lid, 6, eerste lid, en 8, eerste lid, van [Verordening (EU) 2023/2147](32023R2147) is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking voor zover het betreft de vrijgave of beschikbaarstelling van economische middelen of informatie anders dan van financiële aard.
+
+3. De bevoegde autoriteit, bedoeld in artikel 9, tweede lid, van [Verordening (EU) 2023/2147](32023R2147), is de Minister van Financiën voor zover het betreft tegoeden, de Minister van Binnenlandse Zaken en Koninkrijksrelaties voor zover het betreft vastgoed, inclusief bedrijfspanden, de Minister van Economische Zaken en Klimaat voor zover het betreft niet-beursgenoteerde ondernemingen, de Minister van Onderwijs, Cultuur en Wetenschap voor zover het betreft kunst- en cultuurobjecten en de Minister van Infrastructuur en Waterstaat voor zover het betreft vaar- en luchtvaartuigen.
+
+4. De Minister die het aangaat is, of zelfstandige bestuursorganen als bedoeld in [artikel 1 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=1) zijn, onverminderd de bepalingen terzake in bindende besluiten van organen van de Europese Unie of andere volkenrechtelijke organisaties, in afwijking van [artikel 10g van de Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10g) bevoegd om gegevens of inlichtingen verkregen bij de vervulling van de hem bij of krachtens enig wettelijk voorschrift opgedragen taken, te verstrekken aan Nederlandse of buitenlandse overheidsinstanties dan wel aan Nederlandse of buitenlandse van overheidswege aangewezen instanties die belast zijn met het toezicht op de naleving of met de uitvoering van de verdragen, besluiten, aanbevelingen en afspraken, bedoeld in [artikel 2 van de Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=2), tenzij:
+
+- a. het doel waarvoor de gegevens of inlichtingen zullen worden gebruikt onvoldoende bepaald is;
+
+- b. de verstrekking van de gegevens of inlichtingen zich niet zou verdragen met de Nederlandse wet of de openbare orde;
+
+- c. de vertrouwelijkheid van de gegevens of inlichtingen niet in voldoende mate is gewaarborgd;
+
+- d. de verstrekking van de gegevens of inlichtingen redelijkerwijs in strijd is of zou kunnen komen met de belangen die de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296) beoogt te beschermen; of
+
+- e. onvoldoende is gewaarborgd dat de gegevens of inlichtingen niet zullen worden gebruikt voor een ander doel dan waarvoor deze worden verstrekt.
+
+5. De bevoegde autoriteiten, bedoeld in artikel 8, vijfde lid, van [Verordening (EU) 2023/2147](32023R2147) zijn:
+
+- a. alle bevoegde autoriteiten die zijn aangewezen bij of krachtens de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296);
+
+- b. alle toezichthouders en toezichthoudende ambtenaren die bij of krachtens de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296) belast zijn met het toezicht op de naleving van [Verordening (EU) 2023/2147](32023R2147) of de bij of krachtens de Sanctiewet 1977 gestelde voorschriften;
+
+- c. of alle autoriteiten of beheerders van registers die bij of krachtens de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296) belast zijn met de uitvoering van [Verordening (EU) 2023/2147](32023R2147).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
