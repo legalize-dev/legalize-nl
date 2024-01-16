@@ -4,7 +4,7 @@ identifier: "BWBR0021556"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2023-03-16"
+last_updated: "2024-01-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021556"
 soort: "ministeriele-regeling"
@@ -86,9 +86,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. De bevoegde autoriteit, bedoeld in artikel 3 van [Verordening (EU) nr. 1412/2006](32006R1412) is, wat betreft de technische bijstand, de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking en wat betreft de financiering en de financiële bijstand, de Minister van Financiën.
 
-2. De bevoegde autoriteit, bedoeld in artikel 3, eerste lid, artikel 4, eerste lid, artikel 5, eerste lid, artikel 6, eerste lid, artikel 7, eerste lid, en artikel 8, eerste lid, van [Verordening (EU) nr. 2021/1275](33175R2021) is de Minister van Financiën voor zover het betreft de vrijgave of beschikbaarstelling van tegoeden of informatie van financiële aard.
+2. De bevoegde autoriteit, bedoeld in artikel 3, eerste lid, artikel 4, tweede en derde lid, artikel 5, eerste lid, artikel 6, eerste lid, artikel 7, eerste lid, en artikel 8, eerste lid, van [Verordening (EU) nr. 2021/1275](33175R2021) is de Minister van Financiën voor zover het betreft de vrijgave of beschikbaarstelling van tegoeden of informatie van financiële aard.
 
-3. De bevoegde autoriteit, bedoeld in artikel 3, eerste lid, artikel 4, eerste lid, artikel 5, eerste lid, en artikel 6, eerste lid, van [Verordening (EU) nr. 2021/1275](33175R2021) is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking voor zover het betreft de vrijgave of beschikbaarstelling van economische middelen of informatie anders dan van financiële aard.
+3. De bevoegde autoriteit, bedoeld in artikel 3, eerste lid, artikel 4, tweede en derde lid, artikel 5, eerste lid, en artikel 6, eerste lid, van [Verordening (EU) nr. 2021/1275](33175R2021) is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking voor zover het betreft de vrijgave of beschikbaarstelling van economische middelen of informatie anders dan van financiële aard.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -96,6 +96,6 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. Het is verboden te handelen in strijd met artikel 2, eerste en tweede lid, artikel 8, eerste lid, en artikel 9 van Verordening (EU) nr. 2021/1275 van de Raad van de Europese Unie van 30 juli 2021 betreffende beperkende maatregelen in het licht van de situatie in Libanon (PbEU 2021, LI 277).
 
-2. Het verbod te handelen in strijd met artikel 2, eerste lid en tweede lid, van Verordening (EU) nr. 2021/1275, geldt niet in gevallen waarin artikel 3, eerste lid, artikel 4, eerste lid, artikel 5, eerste lid, artikel 6, eerste lid, of artikel 7 van [Verordening (EU) nr. 2021/1275](33175R2021) van toepassing is.
+2. Het verbod te handelen in strijd met artikel 2, eerste lid en tweede lid, van Verordening (EU) nr. 2021/1275, geldt niet in gevallen waarin artikel 3, eerste lid, artikel 4, eerste, tweede of derde lid, artikel 5, eerste lid, artikel 6, eerste lid, of artikel 7 van [Verordening (EU) nr. 2021/1275](33175R2021) van toepassing is.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
