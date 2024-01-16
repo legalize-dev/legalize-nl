@@ -4,7 +4,7 @@ identifier: "BWBR0033462"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-16"
-last_updated: "2022-04-09"
+last_updated: "2024-01-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033462"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ Besluit:
 
 1. Het is verboden te handelen in strijd met artikel 2, eerste lid, artikel 3, eerste en tweede lid, artikel 3 bis, eerste, derde en vierde lid, artikel 3 ter, eerste lid, artikel 3 quater, eerste lid, artikel 4 bis, eerste en tweede lid, artikel 4 sexies, eerste lid en artikel 4 octies, van Verordening (EU) nr. 401/2013 van de Raad van de Europese Unie van 2 mei 2013 betreffende beperkende maatregelen tegen Myanmar/Birma en tot intrekking van [Verordening (EG) nr. 194/2008](32008R0194) (PbEU L 121).
 
-2. Het verbod, bedoeld in het eerste lid, geldt niet in gevallen waarin artikel 2, tweede lid, artikel 3 bis, vijfde en zesde lid, artikel 4, artikel 4 ter, eerste lid, artikel 4 quater, eerste lid, artikel 4 quinquies, eerste, derde en vierde lid, artikel 4 quinquies bis, eerste lid, of artikel 4 quinquies ter van Verordening (EU) nr. 401/2013 van toepassing is.
+2. Het verbod, bedoeld in het eerste lid, geldt niet in gevallen waarin artikel 2, tweede lid, artikel 3 bis, vijfde en zesde lid, artikel 4, artikel 4 ter, eerste lid, artikel 4 quater, eerste lid, artikel 4 quinquies, eerste, derde en vierde lid, artikel 4 quinquies bis, eerste, tweede of derde lid, of artikel 4 quinquies ter van Verordening (EU) nr. 401/2013 van toepassing is.
 
 ##### Artikel 2
 
@@ -60,7 +60,7 @@ Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen
 
 1. De bevoegde autoriteit, bedoeld in artikel 3 bis, tweede en derde lid, artikel 3 ter, eerste en tweede lid, en artikel 3 quater, eerste lid, van Verordening (EU) nr. 401/2013 is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking.
 
-2. De bevoegde autoriteit, bedoeld in artikel 4, artikel 4 ter, eerste lid, artikel 4 quater, eerste lid, artikel 4 quinquies, eerste lid, artikel 4 quinquies bis, eerste lid, artikel 4 quinquies ter en artikel 4 sexies, eerste lid, van Verordening (EU) nr. 401/2013 is de Minister van Financiën dan wel de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking elk voor het gebied waartoe hun competentie zich uitstrekt.
+2. De bevoegde autoriteit, bedoeld in artikel 4, artikel 4 ter, eerste lid, artikel 4 quater, eerste lid, artikel 4 quinquies, eerste lid, artikel 4 quinquies bis, tweede en derde lid, artikel 4 quinquies ter en artikel 4 sexies, eerste lid, van Verordening (EU) nr. 401/2013 is de Minister van Financiën dan wel de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking elk voor het gebied waartoe hun competentie zich uitstrekt.
 
 ##### Artikel 4
 
