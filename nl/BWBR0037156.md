@@ -4,7 +4,7 @@ identifier: "BWBR0037156"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-16"
-last_updated: "2015-11-04"
+last_updated: "2024-01-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037156"
 soort: "ministeriele-regeling"
@@ -46,13 +46,13 @@ Besluit:
 
 1. Het is verboden te handelen in strijd met artikel 2, eerste en tweede lid, artikel 7, eerste lid, en artikel 8 van [Verordening 2015/1755](33655R2015) van de Raad van de Europese Unie van 1 oktober 2015 betreffende beperkende maatregelen in het licht van de situatie in Burundi (Pb L 257).
 
-2. Het verbod, bedoeld in het eerste lid, geldt niet in gevallen waarin artikel 3, eerste lid, artikel 4, eerste lid, artikel 5, eerste lid, of artikel 6 van [Verordening 2015/1755](33655R2015) van toepassing is.
+2. Het verbod, bedoeld in het eerste lid, geldt niet in gevallen waarin artikel 3, eerste lid, artikel 4, eerste lid, artikel 4 bis, eerste, tweede of derde lid, artikel 5, eerste lid, of artikel 6 van [Verordening 2015/1755](33655R2015) van toepassing is.
 
 ##### Artikel 2
 
-1. De bevoegde autoriteit, bedoeld in artikel 3, eerste lid, artikel 4, artikel 5, artikel 6, en artikel 7, eerste lid, van [Verordening 2015/1755](33655R2015) is de Minister van Financiën voor zover het betreft de vrijgave of beschikbaarstelling van tegoeden of informatie van financiële aard.
+1. De bevoegde autoriteit, bedoeld in artikel 3, eerste lid, artikel 4, artikel 4 bis, tweede en derde lid, artikel 5, artikel 6, en artikel 7, eerste lid, van [Verordening 2015/1755](33655R2015) is de Minister van Financiën voor zover het betreft de vrijgave of beschikbaarstelling van tegoeden of informatie van financiële aard.
 
-2. De bevoegde autoriteit, bedoeld in artikel 3, eerste lid, artikel 4, artikel 5 en artikel 7, eerste lid, van [Verordening 2015/1755](33655R2015) is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking voor zover het betreft de vrijgave of beschikbaarstelling van economische middelen of informatie anders dan van financiële aard.
+2. De bevoegde autoriteit, bedoeld in artikel 3, eerste lid, artikel 4, artikel 4 bis, tweede en derde lid, artikel 5 en artikel 7, eerste lid, van [Verordening 2015/1755](33655R2015) is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking voor zover het betreft de vrijgave of beschikbaarstelling van economische middelen of informatie anders dan van financiële aard.
 
 ##### Artikel 3
 
