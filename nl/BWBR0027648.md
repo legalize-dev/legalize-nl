@@ -4,7 +4,7 @@ identifier: "BWBR0027648"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-16"
-last_updated: "2014-05-17"
+last_updated: "2024-01-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027648"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ Besluit:
 
 1. Het is verboden te handelen in strijd met artikel 6 en artikel 12, eerste lid, van Verordening (EU) nr. 1284/2009 van de Raad van de Europese Unie van 22 december 2009 tot vaststelling van bepaalde specifieke beperkende maatregelen ten aanzien van de Republiek Guinee (Pb EG L 346).
 
-2. Een verbod, bedoeld in het eerste lid, geldt niet indien artikel 9 of 10 van Verordening (EU) nr. 1284/2009 van toepassing is.
+2. Een verbod, bedoeld in het eerste lid, geldt niet indien artikel 8 bis, eerste, tweede of derde lid, 9 of 10 van [Verordening (EU) nr. 1284/2009](32009R1284) van toepassing is.
 
 ##### Artikel 2
 
@@ -58,9 +58,9 @@ Vervallen
 
 ##### Artikel 3
 
-1. De bevoegde autoriteit, bedoeld in artikel 8, eerste lid, en artikel 9, eerste lid, van Verordening (EU) nr. 1284/2009 is, wat betreft de beschikbaarstelling van bepaalde tegoeden, bedoeld in voornoemde artikelen, de minister van Financiën.
+1. De bevoegde autoriteit, bedoeld in artikel 8, eerste lid, artikel 8 bis, tweede en derde lid, en artikel 9, eerste lid, van [Verordening (EU) nr. 1284/2009](32009R1284) is, wat betreft de beschikbaarstelling van bepaalde tegoeden, bedoeld in voornoemde artikelen, de minister van Financiën.
 
-2. De bevoegde autoriteit, bedoeld in artikel 8, eerste lid, en artikel 9, eerste lid, van Verordening (EU) nr. 1284/2009 is, wat betreft de beschikbaarstelling van economische middelen, bedoeld in voornoemde artikelen, de minister van Economische Zaken.
+2. De bevoegde autoriteit, bedoeld in artikel 8, eerste lid, artikel 8 bis, tweede en derde lid, en artikel 9, eerste lid, van [Verordening (EU) nr. 1284/2009](32009R1284) is, wat betreft de beschikbaarstelling van economische middelen, bedoeld in voornoemde artikelen, de minister van Economische Zaken.
 
 3. De bevoegde autoriteiten, bedoeld in artikel 10, eerste lid, en artikel 12, eerste lid, van [Verordening (EG) nr. 1284/2009](32009R1284) zijn, elk voor het gebied waartoe hun competentie zich op grond van dat lid uitstrekt:
 
