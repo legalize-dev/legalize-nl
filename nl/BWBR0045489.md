@@ -4,7 +4,7 @@ identifier: "BWBR0045489"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-01"
-last_updated: "2023-11-11"
+last_updated: "2024-01-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045489"
 soort: "ministeriele-regeling"
@@ -46,13 +46,13 @@ Besluiten:
 
 De volgende beleidsregels worden vastgesteld:
 
-- a. Onderzoekskader 2021 voor het toezicht op de voorschoolse educatie en het primair onderwijs ([bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045489&bijlage=1&z=2023-11-11&g=2023-11-11));
+- a. Onderzoekskader 2021 voor het toezicht op de voorschoolse educatie en het primair onderwijs ([bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045489&bijlage=1&z=2024-01-17&g=2024-01-17));
 
-- b. Onderzoekskader 2021 voor het toezicht op het (voortgezet) speciaal onderwijs ([bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045489&bijlage=2&z=2023-11-11&g=2023-11-11));
+- b. Onderzoekskader 2021 voor het toezicht op het (voortgezet) speciaal onderwijs ([bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045489&bijlage=2&z=2024-01-17&g=2024-01-17));
 
-- c. Onderzoekskader 2021 voor het toezicht op het voortgezet onderwijs ([bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045489&bijlage=3&z=2023-11-11&g=2023-11-11)); en
+- c. Onderzoekskader 2021 voor het toezicht op het voortgezet onderwijs ([bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045489&bijlage=3&z=2024-01-17&g=2024-01-17)); en
 
-- d. Onderzoekskader 2021 voor het toezicht op het middelbaar beroepsonderwijs ([bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045489&bijlage=4&z=2023-11-11&g=2023-11-11)).’
+- d. Onderzoekskader 2021 voor het toezicht op het middelbaar beroepsonderwijs ([bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045489&bijlage=4&z=2024-01-17&g=2024-01-17)).’
 
 ##### Artikel 2
 
