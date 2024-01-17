@@ -4,7 +4,7 @@ identifier: "BWBR0030540"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-01-20"
-last_updated: "2024-01-01"
+last_updated: "2024-01-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030540"
 soort: "zbo"
@@ -125,7 +125,7 @@ Het bestuur kan, onverminderd het bepaalde in [artikel 4:35 van de Algemene wet 
 
 - b. als reeds eenmaal eerder voor dezelfde activiteit subsidie is aangevraagd;
 
-- c. als de aanvrager geen rechtspersoon met volledige rechtsbevoegdheid is (met uitzondering van aanvragers voor subsidie volgens [artikel 5.2 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030540&paragraaf=5&artikel=5.2&z=2024-01-17&g=2024-01-01));
+- c. als de aanvrager geen rechtspersoon met volledige rechtsbevoegdheid is (met uitzondering van aanvragers voor subsidie volgens [artikel 5.2 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030540&paragraaf=5&artikel=5.2&z=2024-01-17&g=2024-01-17));
 
 - d. als de aanvrager in de voorgaande twee jaar niet heeft voldaan aan een of meer aan een subsidie verbonden voorwaarden of verplichtingen, waaronder in elk geval ook vallen het juist en tijdig afronden van de gesubsidieerde activiteiten, het tijdig melden van relevante veranderingen in de uitvoering en het juist en tijdig verantwoorden van de activiteiten;
 
@@ -331,9 +331,9 @@ een lezing of workshop zal geven dan wel er anderszins sprake is van aanvullende
 
 ##### Artikel 5.5. Hoogte subsidie
 
-1. Een subsidie voor het geven van voorstellingen of concerten bedraagt nooit meer dan het totaal van de redelijkerwijs noodzakelijke reis- en transportkosten voor de voor subsidie in aanmerking komende voorstellingen of concerten met een maximum van € 5.000 voor voorstellingen of concerten binnen Europa en € 7.500 voor voorstellingen of concerten buiten Europa.
+1. Een subsidie voor het geven van voorstellingen of concerten bedraagt nooit meer dan het totaal van de redelijkerwijs noodzakelijke reis- en transportkosten voor de voor subsidie in aanmerking komende voorstellingen of concerten met een maximum van € 6.000 voor voorstellingen of concerten binnen Europa en € 10.000 voor voorstellingen of concerten buiten Europa.
 
-2. Een subsidie voor het bijwonen van een of meer voorstellingen of concerten bedraagt nooit meer dan het totaal van de redelijkerwijs noodzakelijke reis- en transportkosten van de betreffende componist, toneelschrijver, librettist of choreograaf met een maximum van € 2.500.
+2. Een subsidie voor het bijwonen van een of meer voorstellingen of concerten bedraagt nooit meer dan het totaal van de redelijkerwijs noodzakelijke reis- en transportkosten van de betreffende componist, toneelschrijver, librettist of choreograaf met een maximum van € 3.000.
 
 #### Paragraaf 6. : Overige bepalingen
 
