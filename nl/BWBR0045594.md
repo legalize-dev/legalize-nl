@@ -4,7 +4,7 @@ identifier: "BWBR0045594"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-19"
-last_updated: "2021-09-09"
+last_updated: "2024-01-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045594"
 soort: "ministeriele-regeling"
@@ -87,11 +87,15 @@ Met het oog op het belang van de Staat of zijn bondgenoten zijn de inventarisnum
 
 ##### Artikel 3
 
-Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045594&artikel=1&z=2021-09-09&g=2021-09-09) is, tot openbaring, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemene rijksarchivaris, die aan zijn toestemming voorwaarden kan verbinden. (De algemene rijksarchivaris behandelt verzoeken tot raadpleging in de inventarisnummers, volgens de procedures die gelden voor inzage in archieven met (bijzondere) persoonsgegevens).
+Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045594&artikel=1&z=2024-01-19&g=2024-01-19) is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemene rijksarchivaris, die aan zijn toestemming voorwaarden kan verbinden.
+
+(De algemene rijksarchivaris behandelt verzoeken tot raadpleging in de inventarisnummers, volgens de procedures die gelden voor inzage in archieven met (bijzondere) persoonsgegevens).
+
+Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045594&artikel=2&z=2024-01-19&g=2024-01-19) is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van het hieronder vermelde overheidsorgaan.
 
 ##### Artikel 4
 
-Het vervaardigen van reproducties van documenten geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045594&artikel=1&z=2021-09-09&g=2021-09-09) is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemene rijksarchivaris, die aan zijn toestemming voorwaarden kan verbinden.
+Het vervaardigen van reproducties van documenten geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045594&artikel=1&z=2024-01-19&g=2024-01-19) is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemene rijksarchivaris, die aan zijn toestemming voorwaarden kan verbinden.
 
 ##### Artikel 5
 
