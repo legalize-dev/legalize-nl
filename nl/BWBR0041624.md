@@ -4,7 +4,7 @@ identifier: "BWBR0041624"
 country: "nl"
 rank: "pbo"
 publication_date: "2024-01-19"
-last_updated: "2022-12-08"
+last_updated: "2024-01-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041624"
 soort: "pbo"
@@ -50,7 +50,7 @@ In deze nadere voorschriften wordt verstaan onder:
 
 - −. **aanzienlijke schade:** ernstige nadelige gevolgen voor de eigen organisatie of voor de cliënt, de daarbij werkzame of daaraan verbonden personen, beleggers, schuldeisers, andere belanghebbenden of voor de maatschappij;
 
-- −. **accountant van een groepsonderdeel:** accountant van een groepsonderdeel als bedoeld in [paragraaf 9, onderdeel b, van Standaard 600 van de NV COS](onbekend);
+- −. **accountant van een groepsonderdeel:** accountant van een groepsonderdeel als bedoeld in [paragraaf 14, onderdeel c, van Standaard 600 van de NV COS](onbekend);
 
 - −. **bevoegde instantie:** autoriteit die bij of krachtens wet is aangewezen om een relevante niet-naleving te onderzoeken;
 
@@ -62,9 +62,11 @@ In deze nadere voorschriften wordt verstaan onder:
 
 - −. **eindverantwoordelijke accountant:** eindverantwoordelijke accountant als bedoeld in [artikel 1 van de Nadere voorschriften kwaliteitssystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0038869&artikel=1);
 
-- −. **groepscontrole:** groepscontrole als bedoeld in [paragraaf 9, onderdeel f, van Standaard 600 van de NV COS](onbekend);
+- −. **groepsaccountant:** groepsaccountant als bedoeld in paragraaf 14, onderdeel h, van Standaard 600 van de NV COS;
 
-- −. **groepsonderdeel:** groepsonderdeel als bedoeld in [paragraaf 9, onderdeel a, van Standaard 600 van de NV COS](onbekend);
+- −. **groepscontrole:** groepscontrole als bedoeld in [paragraaf 14 onderdeel g, van Standaard 600 van de NV COS](onbekend);
+
+- −. **groepsonderdeel:** groepsonderdeel als bedoeld in [paragraaf 14, onderdeel b, van Standaard 600 van de NV COS](onbekend);
 
 - −. **management:** management als bedoeld in [paragraaf 13, onderdeel h, van Standaard 200 van de NV COS](onbekend);
 
@@ -74,11 +76,11 @@ In deze nadere voorschriften wordt verstaan onder:
 
 - −. **NV COS:** [Nadere voorschriften controle- en overige standaarden](https://wetten.overheid.nl/jci1.3:c:BWBR0040523);
 
-- −. **opdrachtteam op groepsniveau:** opdrachtteam op groepsniveau als bedoeld in [paragraaf 9, onderdeel i, van Standaard 600 van de NV COS](onbekend);
+- −. **opdrachtpartner op groepsniveau:** opdrachtpartner op groepsniveau als bedoeld in paragraaf 14, onderdeel j, van Standaard 600 van de NV COS;
 
 - −. **professionele dienst:** professionele dienst als bedoeld in [artikel 1 van de VGBA](https://wetten.overheid.nl/jci1.3:c:BWBR0034635&artikel=1);
 
-- −. **relevante niet-naleving:** geïdentificeerde, mogelijke of dreigende niet-naleving van wet- en regelgeving als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041624&paragraaf=1&artikel=2&z=2022-12-08&g=2022-12-08);
+- −. **relevante niet-naleving:** geïdentificeerde, mogelijke of dreigende niet-naleving van wet- en regelgeving als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041624&paragraaf=1&artikel=2&z=2024-01-19&g=2024-01-19);
 
 - −. **senior-positie:** positie van waaruit een accountant besluiten kan nemen met betrekking tot het verwerven, inzetten en beheersen van de personele, financiële, technische, materiële en immateriële middelen van de eigen organisatie of op die besluiten significante invloed kan uitoefenen;
 
@@ -108,11 +110,11 @@ De accountant die zich bewust wordt van informatie die wijst op een relevante ni
 
 ##### Artikel 4
 
-1. De [paragrafen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041624&paragraaf=2&z=2022-12-08&g=2022-12-08) zijn niet van toepassing op een relevante niet-naleving die duidelijk onbetekenend is.
+1. De [paragrafen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041624&paragraaf=2&z=2024-01-19&g=2024-01-19) zijn niet van toepassing op een relevante niet-naleving die duidelijk onbetekenend is.
 
-2. De [paragrafen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041624&paragraaf=3&z=2022-12-08&g=2022-12-08) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0041624&paragraaf=4&z=2022-12-08&g=2022-12-08) zijn niet van toepassing op de accountant die er redelijkerwijs op mag vertrouwen dat een andere accountant passend heeft gereageerd of passend reageert op de relevante niet-naleving.
+2. De [paragrafen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041624&paragraaf=3&z=2024-01-19&g=2024-01-19) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0041624&paragraaf=4&z=2024-01-19&g=2024-01-19) zijn niet van toepassing op de accountant die er redelijkerwijs op mag vertrouwen dat een andere accountant passend heeft gereageerd of passend reageert op de relevante niet-naleving.
 
-3. Een plicht om iemand te informeren als bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041624&paragraaf=3&artikel=7&z=2022-12-08&g=2022-12-08), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0041624&paragraaf=3&artikel=9&z=2022-12-08&g=2022-12-08), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0041624&paragraaf=3&artikel=11&z=2022-12-08&g=2022-12-08) en [12 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0041624&paragraaf=4&artikel=12&z=2022-12-08&g=2022-12-08), is niet van toepassing voor zover een wettelijk voorschrift of zwaarwegende belangen zich ertegen verzetten dat de accountant die persoon informeert.
+3. Een plicht om iemand te informeren als bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041624&paragraaf=3&artikel=7&z=2024-01-19&g=2024-01-19), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0041624&paragraaf=3&artikel=9&z=2024-01-19&g=2024-01-19), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0041624&paragraaf=3&artikel=11&z=2024-01-19&g=2024-01-19) en [12 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0041624&paragraaf=4&artikel=12&z=2024-01-19&g=2024-01-19), is niet van toepassing voor zover een wettelijk voorschrift of zwaarwegende belangen zich ertegen verzetten dat de accountant die persoon informeert.
 
 ##### Artikel 5
 
@@ -122,7 +124,7 @@ De accountant die zich bewust wordt van informatie die wijst op een relevante ni
 
 - b. dit mogelijk is onder andere wet- en regelgeving die bepaalt hoe de accountant op deze relevante niet-naleving moet reageren.
 
-2. De accountant die volgens een procedure van de eigen organisatie of van de cliënt reageert, hoeft de [paragrafen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041624&paragraaf=3&z=2022-12-08&g=2022-12-08) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0041624&paragraaf=4&z=2022-12-08&g=2022-12-08) niet toe te passen.
+2. De accountant die volgens een procedure van de eigen organisatie of van de cliënt reageert, hoeft de [paragrafen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041624&paragraaf=3&z=2024-01-19&g=2024-01-19) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0041624&paragraaf=4&z=2024-01-19&g=2024-01-19) niet toe te passen.
 
 #### Paragraaf 2. Onmiddellijk melden
 
@@ -186,7 +188,7 @@ De accountant in een senior-positie informeert eindverantwoordelijke accountants
 
 ##### Artikel 11
 
-1. De accountant in een senior-positie beoordeelt of hij nog maatregelen in het algemeen belang moet nemen naast de maatregelen die hij volgens de [artikelen 7 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0041624&paragraaf=3&artikel=7&z=2022-12-08&g=2022-12-08) heeft genomen.
+1. De accountant in een senior-positie beoordeelt of hij nog maatregelen in het algemeen belang moet nemen naast de maatregelen die hij volgens de [artikelen 7 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0041624&paragraaf=3&artikel=7&z=2024-01-19&g=2024-01-19) heeft genomen.
 
 2. De accountant in een senior-positie die oordeelt dat hij maatregelen in het algemeen belang moet nemen, neemt deze.
 
@@ -228,19 +230,19 @@ De accountant informeert eindverantwoordelijke accountants van buiten de cliënt
 
 ##### Artikel 15
 
-1. De accountant van een groepsonderdeel informeert het opdrachtteam op groepsniveau over de relevante niet-naleving bij zijn groepsonderdeel.
+1. De accountant van een groepsonderdeel informeert de groepsaccountant over de relevante niet-naleving bij het groepsonderdeel.
 
-2. Een accountant die lid is van het opdrachtteam op groepsniveau informeert de accountant van een groepsonderdeel over de relevante niet-naleving, als deze informatie van belang is voor de werkzaamheden voor de groepscontrole bij dat groepsonderdeel.
+2. De opdrachtpartner op groepsniveau informeert de accountant van een groepsonderdeel over de relevante niet-naleving, als deze informatie van belang is voor de werkzaamheden voor de groepscontrole bij dat groepsonderdeel.
 
-3. Een accountant die lid is van het opdrachtteam op groepsniveau informeert eindverantwoordelijke accountants die een controleopdracht uitvoeren bij een groepsonderdeel over de relevante niet-naleving als:
+3. De opdrachtpartner op groepsniveau informeert eindverantwoordelijke accountants die een controleopdracht uitvoeren bij een groepsonderdeel over de relevante niet-naleving als:
 
 - a. bij dat groepsonderdeel werkzaamheden worden uitgevoerd voor de groepscontrole; en
 
-- b. hij weet dat zij bij dat groepsonderdeel een andere controleopdracht uitvoeren waarvoor het van belang is hiervan op de hoogte te zijn.
+- b. de opdrachtnemer op groepsniveau weet dat zij bij dat groepsonderdeel een andere controleopdracht uitvoeren waarvoor het van belang is hiervan op de hoogte te zijn.
 
 ##### Artikel 16
 
-1. Een accountant beoordeelt of hij nog maatregelen in het algemeen belang moet nemen naast de maatregelen die hij volgens de [artikelen 12 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0041624&paragraaf=4&artikel=12&z=2022-12-08&g=2022-12-08) heeft genomen.
+1. Een accountant beoordeelt of hij nog maatregelen in het algemeen belang moet nemen naast de maatregelen die hij volgens de [artikelen 12 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0041624&paragraaf=4&artikel=12&z=2024-01-19&g=2024-01-19) heeft genomen.
 
 2. Ter onderbouwing van zijn beoordeling in het eerste lid gaat de accountant met een controleopdracht na of de cliënt passend heeft gereageerd of passend reageert op de relevante niet-naleving. Hij betrekt hierbij in elk geval of:
 
