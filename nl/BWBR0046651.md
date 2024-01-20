@@ -4,7 +4,7 @@ identifier: "BWBR0046651"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-20"
-last_updated: "2022-05-23"
+last_updated: "2024-01-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046651"
 soort: "ministeriele-regeling"
@@ -44,9 +44,11 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **adviespanel:** Adviespanel beoordeling aanvragen [Tijdelijke subsidieregeling onderzoek en experimenten duurzame inzetbaarheidsinterventies](https://wetten.overheid.nl/jci1.3:c:BWBR0046626), bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046651&artikel=2&z=2022-05-23&g=2022-05-23);
+- **adviespanel:** Adviespanel beoordeling aanvragen [Tijdelijke subsidieregeling onderzoek en experimenten duurzame inzetbaarheidsinterventies](https://wetten.overheid.nl/jci1.3:c:BWBR0046626), bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046651&artikel=2&z=2024-01-20&g=2024-01-20);
 
 - **Minister:** Minister van Sociale Zaken en Werkgelegenheid;
+
+- **preadvies:** advies dat vrijblijvend kan worden aangevraagd om een conceptaanvraag te toetsen, als bedoeld in a[rtikel 11a van de regeling](onbekend);
 
 - **regeling:** [Tijdelijke subsidieregeling onderzoek en experimenten duurzame inzetbaarheidsinterventies](https://wetten.overheid.nl/jci1.3:c:BWBR0046626).
 
@@ -56,21 +58,27 @@ In deze regeling wordt verstaan onder:
 
 2. Het adviespanel wordt ingesteld met ingang van 23 mei 2022 en wordt opgeheven met ingang van 23 mei 2028.
 
-3. Leden van het adviespanel zijn ook na 23 mei 2028 te consulteren door de Minister in verband met de rechten en plichten die voortvloeien uit de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046651&artikel=3&z=2022-05-23&g=2022-05-23) genoemde taken van het adviespanel.
+3. Leden van het adviespanel zijn ook na 23 mei 2028 te consulteren door de Minister in verband met de rechten en plichten die voortvloeien uit de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046651&artikel=3&z=2024-01-20&g=2024-01-20) genoemde taken van het adviespanel.
 
 ##### Artikel 3. Taken
 
-1. Het adviespanel is belast met het beoordelen van de subsidieaanvragen, bedoeld in [artikel 9 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=9).
+1. Het adviespanel is belast met het beoordelen van de subsidieaanvragen, bedoeld in [artikel 9 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=9), en de verzoeken tot een preadvies, bedoeld in [artikel 11a van de regeling](onbekend).
 
 2. Het adviespanel brengt per aanvraagtijdvak als bedoeld in [artikel 6 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=6), en, indien van toepassing, per tranche, als bedoeld in [artikel 10, tweede lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=10) een advies uit aan de Minister over de subsidieaanvragen. Dit advies bevat:
 
-- a. voor iedere aanvraag een beschrijving per criterium dat als voldoende of als onvoldoende is beoordeeld, met toekenning van ten minste één en ten hoogste tien punten per criterium;
+- a. voor iedere aanvraag een beoordeling per criterium, met toekenning van ten minste één en ten hoogste tien punten per criterium;
 
-- b. een voorstel voor de rangschikking van de voldoende beoordeelde aanvragen, bedoeld in [artikel 11, tweede tot en met vierde lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=11); en
+- b. een voorstel voor de rangschikking van de voldoende beoordeelde aanvragen, bedoeld in [artikel 11, tweede tot en met vijfde lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=11);
 
-- c. een deugdelijke motivering per beoordeling.
+- c. of er naar het oordeel van het adviespanel sprake is van aanvragen die vergelijkbaar zijn met betrekking tot de beoogde activiteiten en de verwachte kennisbijdrage, als bedoeld in [artikel 15, onderdeel e, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=15); en
 
-3. Het adviespanel brengt op verzoek van de Minister binnen vijf weken advies uit over een verzoek tot wijziging van een subsidieaanvraag als bedoeld in [artikel 14, achtste lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=14).
+- d. een deugdelijke motivering per beoordeling.
+
+3. Het adviespanel brengt per aanvraagtijdvak als bedoeld in [artikel 11a, vijfde lid, van de regeling](onbekend) een advies uit aan de Minister over de verzoeken tot een preadvies. Dit preadvies bevat voor ieder verzoek:
+
+- a. de sterke punten en verbetermogelijkheden met betrekking tot de beoordelingscriteria;
+
+- b. een deugdelijke motivering per beoordeling.
 
 ##### Artikel 4. Termijnen
 
@@ -82,9 +90,11 @@ In deze regeling wordt verstaan onder:
 
 - b. voor opvolgende tranches binnen vijf weken na toezending door de Minister uit.
 
+3. Het adviespanel voert de taken met betrekking tot de preadviezen, bedoeld in [artikel 11a van de regeling](onbekend), na afloop van het aanvraagtijdvak, binnen vier weken uit.
+
 ##### Artikel 5. Samenstelling, benoeming en ontslag
 
-1. Het adviespanel bestaat uit een voorzitter en ten minste twee en ten hoogste vier andere leden.
+1. Het adviespanel bestaat uit een voorzitter en ten minste twee en ten hoogste zes andere leden.
 
 2. De voorzitter en de andere leden hebben zitting op persoonlijke titel en oefenen hun functie uit zonder last of ruggespraak.
 
@@ -122,9 +132,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 9. Vergoeding
 
-1. De leden en de voorzitter van het panel ontvangen voor het bijwonen van vergaderingen en overige werkzaamheden in het kader van hun werkzaamheden vacatiegelden overeenkomstig [artikel 2 van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=2). De hoogte van de vergoeding wordt daarbij vastgesteld op 3% van het maximum van schaal 18 zoals overeengekomen in de laatstelijk afgesloten cao Rijk.
-
-2. De reiskostenvergoeding voor het bijwonen van vergaderingen bedraagt € 0,19 per kilometer of de werkelijk gemaakte kosten met het openbaar vervoer, tweede klasse.
+Aan de voorzitter en de overige leden van het adviespanel wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18 van CAO rijk en de arbeidsduurfactor op 0,088.
 
 ##### Artikel 10. Wijze van beraadslaging
 
@@ -132,7 +140,7 @@ In deze regeling wordt verstaan onder:
 
 2. Bij het staken van de stemmen is de stem van de voorzitter doorslaggevend.
 
-3. Een lid neemt niet deel aan de beoordeling van of advisering over een subsidieaanvraag, indien het de beoordeling van of het advies over een aanvraag betreft, waarbij dat lid een persoonlijk of zakelijk belang heeft. Het adviespanel kan dit lid laten vervangen.
+3. Een lid neemt niet deel aan de beoordeling van of advisering over een subsidieaanvraag of verzoek tot een preadvies, indien het de beoordeling van of het advies over een aanvraag of verzoek tot een preadvies betreft, waarbij dat lid een persoonlijk of zakelijk belang heeft. Het adviespanel kan dit lid laten vervangen.
 
 ##### Artikel 11. Openbaarmaking
 
