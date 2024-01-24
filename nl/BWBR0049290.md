@@ -4,7 +4,7 @@ identifier: "BWBR0049290"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-24"
-last_updated: "2024-01-01"
+last_updated: "2024-01-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049290"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ Overwegende de [artikelen 10.1 tot en met 10.12 van de Algemene wet bestuursrech
 
 Besluit:
 
-Van het ingevolge [artikel 1, onderdeel e van het Mandaatbesluit hoofden taakorganisaties Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041699&artikel=1) aan de Algemeen Directeur van het Centraal Justitieel Incassobureau verleende ondermandaat, wordt ondermandaat verleend aan de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049290&artikel=1&z=2024-01-24&g=2024-01-01) van dit besluit bedoelde functionarissen voor de onder [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049290&artikel=3&z=2024-01-24&g=2024-01-01) genoemde aangelegenheden.
+Van het ingevolge [artikel 1, onderdeel e van het Mandaatbesluit hoofden taakorganisaties Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041699&artikel=1) aan de Algemeen Directeur van het Centraal Justitieel Incassobureau verleende ondermandaat, wordt ondermandaat verleend aan de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049290&artikel=1&z=2024-01-24&g=2024-01-24) van dit besluit bedoelde functionarissen voor de onder [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049290&artikel=3&z=2024-01-24&g=2024-01-24) genoemde aangelegenheden.
 
 Mandaat, volmacht en machtiging te verlenen voor het - voortvloeiend uit de toegepaste bevoegdheden - uitvoeren van rechtshandelingen die betrekking hebben op het uitvoeren van paspoortsignalering en de tenuitvoerlegging zoals bedoeld in [artikel 18 lid 2 a en onder 1 van de Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=18).
 
