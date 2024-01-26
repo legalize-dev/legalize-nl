@@ -4,7 +4,7 @@ identifier: "BWBR0012288"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-04"
-last_updated: "2024-01-17"
+last_updated: "2024-01-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012288"
 soort: "circulaire"
@@ -5063,7 +5063,7 @@ Geen bijzonderheden.
 
 ### 17.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
 
-De IND beschouwt de volgende groepen als groepen die systematisch worden blootgesteld aan vervolging in de zin van artikel 1A Vluchtelingenverdrag:
+De IND beschouwt de volgende groep als groep die systematisch wordt blootgesteld aan vervolging in de zin van artikel 1A Vluchtelingenverdrag:
 
 Geen bijzonderheden.
 
@@ -5915,7 +5915,7 @@ De IND beoordeelt aan de hand van [paragraaf B8/6 Vc](onbekend) of adequate opva
 
 ### 17.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
 
-De IND merkt voor Iran de volgende groepen aan als risicogroepen:
+De IND merkt voor Iran de volgende groepen aan als risicogroep:
 
 ### 17.4. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29)
 
