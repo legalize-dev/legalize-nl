@@ -4,7 +4,7 @@ identifier: "BWBR0047624"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-02-01"
-last_updated: "2023-05-01"
+last_updated: "2024-01-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047624"
 soort: "ministeriele-regeling"
@@ -64,9 +64,7 @@ In dit besluit wordt verstaan onder:
 
 - b. mevrouw professor mr. L.A.J. Senden;
 
-- c. mevrouw dr. S. Noor;
-
-- d. de heer mr. A. El Johari.
+- c. de heer mr. A. El Johari.
 
 5. De voorzitter en de andere in de commissie benoemde leden hebben zitting op persoonlijke titel en oefenen hun functie uit zonder last of ruggenspraak.
 
@@ -178,7 +176,7 @@ In dit besluit wordt verstaan onder:
 
 1. Rapporten, notities, verslagen, adviezen en andere producten die door of namens de commissie worden vervaardigd of vergaard, worden niet door de commissie openbaar gemaakt, maar uitsluitend aan de minister uitgebracht of overgedragen.
 
-2. De minister zendt het verslag, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047624&artikel=7&z=2023-05-01&g=2023-05-01), aan de Voorzitter van de Tweede Kamer der Staten-Generaal.
+2. De minister zendt het verslag, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047624&artikel=7&z=2024-01-26&g=2024-01-26), aan de Voorzitter van de Tweede Kamer der Staten-Generaal.
 
 ##### Artikel 11. Archiefbescheiden
 
