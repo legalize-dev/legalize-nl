@@ -4,7 +4,7 @@ identifier: "BWBR0040698"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2025-12-11"
-last_updated: "2024-01-01"
+last_updated: "2024-01-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040698"
 soort: "ministeriele-regeling-BES"
@@ -68,49 +68,45 @@ In deze regeling en daarop gebaseerde besluiten wordt verstaan onder:
 
 ##### Artikel 3. (subsidiebedragen)
 
-De subsidie, bedoeld in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=2&z=2024-01-27&g=2024-01-01), bedraagt ten hoogste het bedrag in EUR volgens de onderstaande tabel, inclusief eventueel verschuldigde BTW:
+De subsidie, bedoeld in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=2&z=2024-01-27&g=2024-01-27), bedraagt ten hoogste het bedrag in EUR volgens de onderstaande tabel, inclusief eventueel verschuldigde BTW:
 
-| Omschrijving | 2022 | 2023 | 2024 | 2025 | 2026 |
+| Omschrijving / kalenderjaar | 2022 | 2023 | 2024 | 2025 | 2026 |
 | --- | --- | --- | --- | --- | --- |
 | **1. BONAIRE** |   |   |   |   |   |
-| 1a. Vast gebruikstarief drinkwater of kosten wegtransport drinkwater Bonaire | 925 | 925 | 925 | 925 | 925 |
-| 1a. Vast gebruikstarief drinkwater of kosten wegtransport drinkwater Bonaire | 450 | 450 |   |   |   |
+| 1a. Vast gebruikstarief drinkwater of kosten wegtransport drinkwater Bonaire | 925 450 | 925 450 | 925 | 925 | 925 |
 | 1a. Vast gebruikstarief drinkwater of kosten wegtransport drinkwater Bonaire | 3.275 | 3.751 | 4.358 | 4.482 | 4.485 |
-| Subtotaal 1a | 4.650 | 5.126 | 5.283 | 5.407 | 5.410 |
+| Koopkracht pakket 2024 |   |   | 743,536 |   |   |
+| Subtotaal 1a | 4.650 | 5.126 | 6.026,536 | 5.407 | 5.410 |
 |   |   |   |   |   |   |
 | 1b. Investeringen drinkwater Bonaire | 450 | 450 |   |   |   |
 | Subtotaal 1b | 450 | 450 |   |   |   |
 |   |   |   |   |   |   |
-| 1c. Exploitatiekosten RWZI Bonaire | 1.000 | 1.000 | 1.000 | 1.000 | 1.000 |
-| 1c. Exploitatiekosten RWZI Bonaire | 500 | 500 | 500 |   |   |
-| 1c. Exploitatiekosten RWZI Bonaire | 500 |   |   |   |   |
+| 1c. Exploitatiekosten RWZI Bonaire | 1.000 500 500 | 1.000 500 | 1.000 500 | 1.000 | 1.000 |
 | Subtotaal 1c | 2.000 | 1.500 | 1.500 | 1.000 | 1.000 |
 |   |   |   |   |   |   |
-| **TOTAAL BONAIRE:** | **7.100** | **7.076** | **6.783** | **6.407** | **6.410** |
+| **TOTAAL BONAIRE:** | **7.100** | **7.076** | **7.526,536** | **6.407** | **6.410** |
 |   |   |   |   |   |   |
 | **2. SABA** |   |   |   |   |   |
-| 2a. Wegtransport drinkwater of wegtransport reverse osmosis water Saba | 100 | 100 | 100 | 100 | 100 |
-| 2a. Wegtransport drinkwater of wegtransport reverse osmosis water Saba |   | 168 | 168 | 168 | 168 |
-| Subtotaal 2a | 100 | 268 | 268 | 268 | 268 |
+| 2a. Wegtransport drinkwater of wegtransport reverse osmosis water Saba | 100 | 100 168 | 100 168 | 100 168 | 100 168 |
+| Koopkracht pakket 2024 |   |   | 362,482 |   |   |
+| Subtotaal 2a | 100 | 268 | 630,482 | 268 | 268 |
 |   |   |   |   |   |   |
 | 2b. Investeringen drinkwater Saba | 1.000 |   |   |   |   |
 | Subtotaal 2b | 1.000 |   |   |   |   |
 |   |   |   |   |   |   |
-| **TOTAAL SABA** | **1.100** | **268** | **268** | **268** | **268** |
+| **TOTAAL SABA:** | **1.100** | **268** | **630,482** | **268** | **268** |
 |   |   |   |   |   |   |
 | **3. SINT EUSTATIUS** |   |   |   |   |   |
-| 3a. Vast gebruikstarief drinkwater of kosten wegtransport reverse osmosis water Sint Eustatius | 193 | 193 | 193 | 193 | 193 |
-| 3a. Vast gebruikstarief drinkwater of kosten wegtransport reverse osmosis water Sint Eustatius | 889 | 865 | 891 | 917 | 943 |
+| 3a. Vast gebruikstarief drinkwater of kosten wegtransport reverse osmosis water Sint Eustatius | 193 889 | 193 865 | 193 891 | 193 917 | 193 943 |
+| Koopkracht pakket 2024 |   |   | 93,981 |   |   |
+| Subtotaal 3a | 1.082 | 1.058 | 1.177,981 | 1.110 | 1.136 |
 |   |   |   |   |   |   |
-| Subtotaal 3a | 1.082 | 1.058 | 1.084 | 1.110 | 1.136 |
-|   |   |   |   |   |   |
-| 3b. Investeringen drinkwater Sint Eustatius Extra investering drinkwater Sint Eustatius | 1.500 | 1.500 |   |   |   |
-| 3b. Investeringen drinkwater Sint Eustatius Extra investering drinkwater Sint Eustatius |   | 2.045 |   |   |   |
+| 3b. Investeringen drinkwater Sint Eustatius Extra investering drinkwater Sint Eustatius | 1.500 | 1.500 2.045 |   |   |   |
 | Subtotaal 3b | 1.500 | 3.545 |   |   |   |
 |   |   |   |   |   |   |
-| **TOTAAL SINT EUSTATIUS** | **2.582** | **4.603** | **1.084** | **1.110** | **1.136** |
+| **TOTAAL SINT EUSTATIUS** | **2.582** | **4.603** | **1.177,981** | **1.110** | **1.136** |
 |   |   |   |   |   |   |
-| **TOTALEN 1,2,3** | **10.782** | **11.947** | **8.135** | **7.785** | **7.814** |
+| **TOTALEN 1,2,3** | **10.782** | **11.947** | **9.334,999** | **7.785** | **7.814** |
 
 ##### Artikel 4. (aanvraag)
 
@@ -118,7 +114,7 @@ De subsidie, bedoeld in [artikel 2, eerste en tweede lid](https://wetten.overhei
 
 2. De aanvraag bevat de volgende gegevens en bescheiden:
 
-- a. een projectplan of plan van aanpak met betrekking tot de wijze waarop de subsidie over het jaar of de jaren waarvoor deze wordt aangevraagd bijdraagt aan het doel van de subsidieverlening, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=2&z=2024-01-27&g=2024-01-01), met een beschrijving van de prestaties die met de subsidie worden bekostigd;
+- a. een projectplan of plan van aanpak met betrekking tot de wijze waarop de subsidie over het jaar of de jaren waarvoor deze wordt aangevraagd bijdraagt aan het doel van de subsidieverlening, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=2&z=2024-01-27&g=2024-01-27), met een beschrijving van de prestaties die met de subsidie worden bekostigd;
 
 - b. het benodigde subsidiebedrag in euro’s met een gespecificeerde begroting over het desbetreffende jaar of de desbetreffende jaren die een goed inzicht geeft in de kosten van de te subsidiëren activiteit en het effect van de subsidie erop, waaronder een liquiditeitsoverzicht waaruit de benodigde subsidie blijkt;
 
@@ -138,7 +134,7 @@ De subsidie, bedoeld in [artikel 2, eerste en tweede lid](https://wetten.overhei
 
 5. Indien door een ander bestuursorgaan voor dezelfde activiteiten subsidie wordt verstrekt, doet de subsidieontvanger daarvan onverwijld mededeling aan de minister.
 
-6. De subsidieontvanger verleent op verzoek van de minister alle medewerking aan een door de minister ingesteld evaluatieonderzoek, bedoeld om te beoordelen in welke mate de subsidieontvanger bij het uitoefenen van de gesubsidieerde activiteiten een bijdrage heeft geleverd aan het doel van de subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=2&z=2024-01-27&g=2024-01-01).
+6. De subsidieontvanger verleent op verzoek van de minister alle medewerking aan een door de minister ingesteld evaluatieonderzoek, bedoeld om te beoordelen in welke mate de subsidieontvanger bij het uitoefenen van de gesubsidieerde activiteiten een bijdrage heeft geleverd aan het doel van de subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=2&z=2024-01-27&g=2024-01-27).
 
 ##### Artikel 6. (intrekken of wijzigen van de subsidieverstrekking)
 
@@ -182,11 +178,11 @@ Het subsidiebedrag wordt binnen zes weken na de bekendmaking van de subsidievast
 
 ##### Artikel 9. (voorschotten)
 
-Aan de subsidieontvanger kunnen voorschotten worden verleend van ten hoogste 100 procent van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=3&z=2024-01-27&g=2024-01-01) genoemde subsidiebedragen.
+Aan de subsidieontvanger kunnen voorschotten worden verleend van ten hoogste 100 procent van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=3&z=2024-01-27&g=2024-01-27) genoemde subsidiebedragen.
 
 ##### Artikel 10. (onverschuldigde betaling)
 
-Indien na de intrekking, wijziging of vaststelling van de subsidie als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=6&z=2024-01-27&g=2024-01-01) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=7&z=2024-01-27&g=2024-01-01) sprake is van onverschuldigd betaalde subsidiebedragen kunnen deze door de minister worden teruggevorderd.
+Indien na de intrekking, wijziging of vaststelling van de subsidie als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=6&z=2024-01-27&g=2024-01-27) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=7&z=2024-01-27&g=2024-01-27) sprake is van onverschuldigd betaalde subsidiebedragen kunnen deze door de minister worden teruggevorderd.
 
 ##### Artikel 11. (inwerkingtreding)
 
@@ -202,7 +198,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 5a. (afwijking)
 
-1. In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=5&z=2024-01-27&g=2024-01-01), kan de minister in het belang van de doelmatigheid of continuïteit van de openbare drinkwatervoorziening of de RWZI en op verzoek van de subsidieontvanger toestemming verlenen:
+1. In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=5&z=2024-01-27&g=2024-01-27), kan de minister in het belang van de doelmatigheid of continuïteit van de openbare drinkwatervoorziening of de RWZI en op verzoek van de subsidieontvanger toestemming verlenen:
 
 - a. tot verlenging van de in dat lid bedoelde termijn of tijdvak tot een daarbij genoemde datum tot welke de subsidie kan worden aangewend;
 
