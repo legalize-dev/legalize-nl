@@ -4,7 +4,7 @@ identifier: "BWBR0038910"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-27"
-last_updated: "2016-12-28"
+last_updated: "2024-01-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038910"
 soort: "AMvB"
@@ -102,7 +102,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Radioapparaten voldoen aan de eisen, bedoeld in artikel 3, eerste en tweede lid, van [richtlijn nr. 2014/53](32014L0053)/EU.
+1. Radioapparaten voldoen aan de eisen, bedoeld in artikel 3, eerste en tweede lid, van [richtlijn nr. 2014/53](32014L0053)/EU. Radioapparaten die tot de in deel I van bijlage I bis van die richtlijn gespecificeerde categorieën of klassen behoren, voldoen voorts aan de eisen, bedoeld in artikel 3, vierde lid, van die richtlijn, met dien verstande dat die eisen voor de radioapparaten, genoemd in deel I, punten 1.1 tot en met 1.12 respectievelijk punt 1.13 van die bijlage van toepassing zijn vanaf 28 december 2024 respectievelijk 28 april 2026.
 
 2. Indien op grond van artikel 3, derde lid, van [richtlijn nr. 2014/53](32014L0053)/EU bindende EU-rechtshandelingen worden vastgesteld, kunnen ter uitvoering daarvan bij ministeriële regeling regels worden gesteld inzake de eisen waaraan categorieën of klassen radioapparaten, onverminderd het eerste lid, voldoen.
 
@@ -124,7 +124,7 @@ Bij ministeriële regeling kunnen ter implementatie van conformiteitsrichtlijnen
 
 ##### Artikel 5
 
-1. Het is verboden radioapparaten die niet voldoen aan de eisen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038910&hoofdstuk=2&artikel=3&z=2016-12-28&g=2016-12-28), tentoon te stellen of te demonstreren, tenzij:
+1. Het is verboden radioapparaten die niet voldoen aan de eisen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038910&hoofdstuk=2&artikel=3&z=2024-01-27&g=2024-01-27), tentoon te stellen of te demonstreren, tenzij:
 
 - a. het tentoonstellen of demonstreren plaatsvindt tijdens handelsbeurzen, tentoonstellingen of soortgelijke evenementen,
 
@@ -136,7 +136,7 @@ Bij ministeriële regeling kunnen ter implementatie van conformiteitsrichtlijnen
 
 ##### Artikel 6
 
-1. Radioapparaten worden vermoed te voldoen aan de in [artikel 3, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038910&hoofdstuk=2&artikel=3&z=2016-12-28&g=2016-12-28), bedoelde eisen, indien is voldaan aan de met betrekking tot [richtlijn nr. 2014/53](32014L0053)/EU vastgestelde geharmoniseerde normen of delen daarvan, die betrekking hebben op de desbetreffende eisen.
+1. Radioapparaten worden vermoed te voldoen aan de in [artikel 3, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038910&hoofdstuk=2&artikel=3&z=2024-01-27&g=2024-01-27), bedoelde eisen, indien is voldaan aan de met betrekking tot [richtlijn nr. 2014/53](32014L0053)/EU vastgestelde geharmoniseerde normen of delen daarvan, die betrekking hebben op de desbetreffende eisen.
 
 2. Van een vermoeden van overeenstemming als bedoeld in het eerste lid is slechts sprake indien de referentienummers van de bij de conformiteitsbeoordelingsprocedure gehanteerde geharmoniseerde normen of delen daarvan zijn gepubliceerd in het Publicatieblad van de Europese Unie en deze normen van kracht zijn.
 
@@ -160,17 +160,17 @@ Bij ministeriële regeling kunnen ter implementatie van conformiteitsrichtlijnen
 
 1. Onze Minister kan een instantie aanwijzen en bij de Europese Commissie aanmelden voor het uitvoeren van conformiteitsbeoordelingsprocedures als bedoeld in bijlagen III en IV van [richtlijn nr. 2014/53](32014L0053)/EU, indien uit de aanvraag tot aanwijzing volgt dat de instantie blijkens accreditatie aantoonbaar voldoet aan de eisen in artikel 26 van [richtlijn nr. 2014/53](32014L0053)/EU.
 
-2. Onze Minister kan de aanwijzing beperken tot daarbij te omschrijven categorieën van radioapparaten of aspecten van de eisen, bedoeld in [artikel 3, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038910&hoofdstuk=2&artikel=3&z=2016-12-28&g=2016-12-28).
+2. Onze Minister kan de aanwijzing beperken tot daarbij te omschrijven categorieën van radioapparaten of aspecten van de eisen, bedoeld in [artikel 3, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038910&hoofdstuk=2&artikel=3&z=2024-01-27&g=2024-01-27).
 
 3. Een aangemelde instantie verricht conformiteitsbeoordelingsprocedures waarvoor ze is aangewezen niet eerder dan twee weken na de datum van de aanmelding van de aangemelde instantie bij de Europese Commissie, en indien binnen deze periode de Europese Commissie en de lidstaten van de Europese Unie geen bezwaar hebben ingediend tegen de aanmelding.
 
 ##### Artikel 9
 
-Onverminderd [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038910&hoofdstuk=3&artikel=8&z=2016-12-28&g=2016-12-28), voldoet een aangemelde instantie blijkens accreditatie tevens aan de eisen, bedoeld in de artikelen 28, 34 en 36, tweede en derde lid, van [richtlijn nr. 2014/53](32014L0053)/EU.
+Onverminderd [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038910&hoofdstuk=3&artikel=8&z=2024-01-27&g=2024-01-27), voldoet een aangemelde instantie blijkens accreditatie tevens aan de eisen, bedoeld in de artikelen 28, 34 en 36, tweede en derde lid, van [richtlijn nr. 2014/53](32014L0053)/EU.
 
 ##### Artikel 10
 
-Bij ministeriële regeling kunnen regels worden gesteld over de wijze waarop een aanvraag tot aanwijzing en aanmelding als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038910&hoofdstuk=3&artikel=8&z=2016-12-28&g=2016-12-28), wordt ingediend.
+Bij ministeriële regeling kunnen regels worden gesteld over de wijze waarop een aanvraag tot aanwijzing en aanmelding als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038910&hoofdstuk=3&artikel=8&z=2024-01-27&g=2024-01-27), wordt ingediend.
 
 ##### Artikel 11
 
@@ -190,7 +190,7 @@ Een aangemelde instantie informeert Onze Minister over:
 
 - a. de aangemelde instantie dit verzoekt,
 
-- b. de aangemelde instantie niet langer voldoet aan de eisen, bedoeld in de [artikelen 8, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038910&hoofdstuk=3&artikel=8&z=2016-12-28&g=2016-12-28), en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0038910&hoofdstuk=3&artikel=9&z=2016-12-28&g=2016-12-28), of
+- b. de aangemelde instantie niet langer voldoet aan de eisen, bedoeld in de [artikelen 8, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038910&hoofdstuk=3&artikel=8&z=2024-01-27&g=2024-01-27), en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0038910&hoofdstuk=3&artikel=9&z=2024-01-27&g=2024-01-27), of
 
 - c. de aangemelde instantie haar verplichtingen niet nakomt.
 
@@ -212,9 +212,9 @@ Een aangemelde instantie informeert Onze Minister over:
 
 ##### Artikel 14
 
-1. Indien er aanwijzingen zijn dat een radioapparaat een risico vormt voor de gezondheid of veiligheid van personen of voor andere onder [richtlijn nr. 2014/53](32014L0053)/EU vallende aspecten van de bescherming van algemene belangen, kan Onze Minister een beoordeling van het radioapparaat uitvoeren. Marktdeelnemers verlenen Onze Minister de nodige medewerking voor het uitvoeren van de beoordeling.
+1. Indien er aanwijzingen zijn dat een radioapparaat een risico vormt voor de gezondheid of veiligheid van personen of voor andere onder [richtlijn nr. 2014/53](32014L0053)/EU vallende aspecten van de bescherming van algemene belangen of niet voldoet aan een van de essentiële eisen, bedoeld in artikel 3 van die richtlijn, kan Onze Minister een beoordeling van het radioapparaat uitvoeren. Marktdeelnemers verlenen Onze Minister de nodige medewerking voor het uitvoeren van de beoordeling.
 
-2. Indien bij de beoordeling, bedoeld in het eerste lid, wordt geconstateerd dat een radioapparaat niet voldoet aan de in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038910&hoofdstuk=2&artikel=3&z=2016-12-28&g=2016-12-28), bedoelde eisen verlangt Onze Minister van de betrokken marktdeelnemer om binnen een redelijke termijn passende corrigerende maatregelen te nemen:
+2. Indien bij de beoordeling, bedoeld in het eerste lid, wordt geconstateerd dat een radioapparaat niet voldoet aan de in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038910&hoofdstuk=2&artikel=3&z=2024-01-27&g=2024-01-27), bedoelde eisen verlangt Onze Minister van de betrokken marktdeelnemer om binnen een redelijke termijn passende corrigerende maatregelen te nemen:
 
 - a. om het betreffende radioapparaat met deze eisen in overeenstemming te brengen, of
 
@@ -228,7 +228,7 @@ Een aangemelde instantie informeert Onze Minister over:
 
 ##### Artikel 15
 
-1. Indien na de beoordeling, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038910&hoofdstuk=4&artikel=14&z=2016-12-28&g=2016-12-28), wordt vastgesteld dat een radioapparaat dat voldoet aan de eisen van [richtlijn nr. 2014/53](32014L0053)/EU een risico vormt voor de gezondheid of veiligheid van personen of voor andere onder [richtlijn nr. 2014/53](32014L0053)/EU vallende aspecten van de bescherming van algemene belangen, verlangt Onze Minister van de betrokken marktdeelnemer om binnen een redelijke termijn passende maatregelen te nemen:
+1. Indien na de beoordeling, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038910&hoofdstuk=4&artikel=14&z=2024-01-27&g=2024-01-27), wordt vastgesteld dat een radioapparaat dat voldoet aan de eisen van [richtlijn nr. 2014/53](32014L0053)/EU een risico vormt voor de gezondheid of veiligheid van personen of voor andere onder [richtlijn nr. 2014/53](32014L0053)/EU vallende aspecten van de bescherming van algemene belangen, verlangt Onze Minister van de betrokken marktdeelnemer om binnen een redelijke termijn passende maatregelen te nemen:
 
 - a. om ervoor te zorgen dat het radioapparaat het betreffende risico niet meer meebrengt wanneer het in de handel wordt gebracht, of
 
@@ -286,7 +286,7 @@ Wijzigt het Warenwetbesluit algemene productveiligheid.
 
 ##### Artikel 25
 
-Na de inwerkingtreding van dit besluit berust de [Regeling storingsklachten](https://wetten.overheid.nl/jci1.3:c:BWBR0026550) op [artikel 19 van het Besluit elektromagnetische compatibiliteit 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038913&artikel=19) en op [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0038910&hoofdstuk=5&artikel=16&z=2016-12-28&g=2016-12-28) van dit besluit.
+Na de inwerkingtreding van dit besluit berust de [Regeling storingsklachten](https://wetten.overheid.nl/jci1.3:c:BWBR0026550) op [artikel 19 van het Besluit elektromagnetische compatibiliteit 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038913&artikel=19) en op [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0038910&hoofdstuk=5&artikel=16&z=2024-01-27&g=2024-01-27) van dit besluit.
 
 ##### Artikel 26
 
@@ -299,5 +299,25 @@ Dit besluit treedt in werking op het tijdstip waarop de Wet van 3 februari 2016 
 ##### Artikel 28
 
 Dit besluit wordt aangehaald als: Besluit radioapparaten 2016.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 3a
+
+Het is verboden in strijd te handelen met een op grond van [richtlijn nr. 2014/53/EU](32014L0053) vastgestelde bindende EU-rechtshandeling.
+
+### Hoofdstuk 3. Aangemelde instanties en overeenstemmingsbeoordelingsorganen
+
+### Hoofdstuk 4. Handhaving
+
+### Hoofdstuk 5. Behandeling van klachten
+
+### Hoofdstuk 6. Handelsreclame
+
+### Hoofdstuk 7. Voorkomen van storingen door radioapparaten
+
+### Hoofdstuk 8. Wijziging diverse algemene maatregelen van bestuur
+
+### Hoofdstuk 9. Overgangs- en slotbepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
