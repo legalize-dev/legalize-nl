@@ -4,7 +4,7 @@ identifier: "BWBR0041856"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-31"
-last_updated: "2022-03-01"
+last_updated: "2024-01-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041856"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **Minister:** de Minister voor Medische Zorg;
+- a. **Minister:** de Minister van Volksgezondheid, Welzijn en Sport;
 
 - b. **transvrouw:** een man-vrouw transgender met genderdysforie die als man geboren is, en in transitie is om als vrouw te leven;
 
@@ -56,7 +56,7 @@ Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.
 
 ##### Artikel 3
 
-De Minister kan aan een transvrouw eenmalig een subsidie verstrekken ten behoeve van een behandeling van plastisch-chirurgische aard die strekt tot borstconstructie bij een transvrouw en die voldoet aan de stand van de wetenschap en praktijk en de medisch noodzakelijke kosten die samenhangen met deze operatie.
+De Minister kan aan een transvrouw eenmalig een subsidie verstrekken ten behoeve van een behandeling van plastisch-chirurgische aard die strekt tot borstconstructie bij een transvrouw en die voldoet aan de stand van de wetenschap en praktijk en de medisch noodzakelijke kosten die samenhangen met deze behandeling.
 
 ##### Artikel 4
 
@@ -114,7 +114,7 @@ Bij de aanvraag tot verlening van de subsidie worden de volgende gegevens verstr
 
 2. De Minister verleent bij het besluit tot verlening van de subsidie een voorschot van 100% van het subsidiebedrag.
 
-3. De behandeling, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041856&artikel=3&z=2022-03-01&g=2022-03-01), dient binnen een jaar na aanvraag van de subsidie plaats te vinden.
+3. De behandeling, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041856&artikel=3&z=2024-01-31&g=2024-01-31), dient binnen een jaar na aanvraag van de subsidie plaats te vinden.
 
 4. De Minister kan vrijstelling of ontheffing verlenen van de termijn, bedoeld in het derde lid.
 
@@ -132,7 +132,7 @@ Indien zich na indiening van de aanvraag omstandigheden voordoen die van belang 
 
 ##### Artikel 11
 
-Deze regeling treedt in werking met ingang van 1 februari 2019 en vervalt met ingang van 1 februari 2024.
+Deze regeling treedt in werking met ingang van 1 februari 2019 en vervalt met ingang van 1 februari 2028.
 
 ##### Artikel 12
 
@@ -143,5 +143,15 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 ##### Artikel 10a
 
 De minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 5a
+
+1. Er is een subsidieplafond van € 1.500.000 per jaar.
+
+2. De minister verdeelt het uit hoofde van het subsidieplafond beschikbare bedrag op volgorde van binnenkomst van de complete aanvragen.
+
+3. Indien op de dag dat het subsidieplafond wordt bereikt meer dan één complete aanvraag ontvangen wordt en de volgorde van binnenkomst van deze aanvragen niet is vast te stellen, wordt de volgorde vastgesteld door middel van loting.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
