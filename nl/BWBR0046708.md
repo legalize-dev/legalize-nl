@@ -4,7 +4,7 @@ identifier: "BWBR0046708"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-31"
-last_updated: "2022-08-01"
+last_updated: "2024-01-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046708"
 soort: "AMvB"
@@ -54,7 +54,7 @@ In dit besluit wordt verstaan onder:
 
 - **bevoegd gezag:** bij het participatiefonds, op grond van [artikel 190, tweede lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=190) of [artikel 169, tweede lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=169), aangesloten bevoegd gezag van een school of instelling, bestuur van een centrale dienst of bestuur van een samenwerkingsverband;
 
-- **Onze Minister:** Onze Minister van Onderwijs, Cultuur en Wetenschap
+- **Onze Minister:** Onze Minister voor Primair en Voortgezet Onderwijs;
 
 - **participatiefonds:** rechtspersoon, bedoeld in [artikel 190, eerste en tweede lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=190) en [artikel 169, eerste en tweede lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=169).
 
@@ -80,7 +80,7 @@ In dit besluit wordt verstaan onder:
 
 - 3°. de doelmatige uitvoering van de werkzaamheden door het participatiefonds;
 
-- 4°. het voldoen aan verplichtingen van het participatiefonds uit hoofde van de wet of dit besluit;
+- 4°. het voldoen aan verplichtingen van het participatiefonds uit hoofde van de wet of dit besluit, en
 
 - 5°. het vaststellen van de bijdrage die het bevoegd gezag aan het participatiefonds moet voldoen;
 
@@ -114,9 +114,9 @@ Wijzigt het Besluit SUWI.
 
 ##### Artikel 6. Inwerkingtreding
 
-1. Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, met uitzondering van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046708&artikel=5&z=2022-08-01&g=2022-08-01), onderdeel A, subonderdeel 1.
+1. Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, met uitzondering van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046708&artikel=5&z=2024-01-31&g=2024-01-31), onderdeel A, subonderdeel 1.
 
-2. [Artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046708&artikel=5&z=2022-08-01&g=2022-08-01), onderdeel A, subonderdeel 1, treedt in werking op het tijdstip waarop de artikelen I, onderdeel E, en II, onderdeel D, van de Wet van 11 oktober 2021 tot wijziging van de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420) en de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) in verband met beëindiging van de verplichte aansluiting bij een rechtspersoon in verband met kosten van vervanging en in verband met wijziging van de wijze waarop de werkloosheidsuitkeringen worden verevend (beëindiging vervangingsfonds en modernisering participatiefonds) (Stb. 2021, 538) in werking treden.
+2. [Artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046708&artikel=5&z=2024-01-31&g=2024-01-31), onderdeel A, subonderdeel 1, treedt in werking op het tijdstip waarop de artikelen I, onderdeel E, en II, onderdeel D, van de Wet van 11 oktober 2021 tot wijziging van de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420) en de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) in verband met beëindiging van de verplichte aansluiting bij een rechtspersoon in verband met kosten van vervanging en in verband met wijziging van de wijze waarop de werkloosheidsuitkeringen worden verevend (beëindiging vervangingsfonds en modernisering participatiefonds) (Stb. 2021, 538) in werking treden.
 
 ##### Artikel 7. Citeertitel
 
