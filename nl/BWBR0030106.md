@@ -4,7 +4,7 @@ identifier: "BWBR0030106"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-31"
-last_updated: "2022-08-01"
+last_updated: "2024-01-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030106"
 soort: "AMvB"
@@ -54,7 +54,7 @@ In dit besluit wordt verstaan onder:
 
 - **bevoegd gezag:** een bij het vervangingsfonds, op grond van [artikel 188, eerste lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=188) of [artikel 167, eerste lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=167), aangesloten bevoegd gezag van een school of instelling of bestuur van een samenwerkingsverband;
 
-- **Onze Minister:** Onze Minister voor Basis- en Voortgezet Onderwijs en Media;
+- **Onze Minister:** Onze Minister voor Primair en Voortgezet Onderwijs en Media;
 
 - **vervangingsfonds:** de rechtspersoon, bedoeld in [artikel 188, eerste lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=188) en [artikel 167, eerste lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=167).
 
@@ -72,7 +72,7 @@ Vervallen
 
 - c. het aantal leden en plaatsvervangend leden van het bestuur dat wordt benoemd, met dien verstande dat het bestuur ten minste drie en ten hoogste negen leden heeft, waarvan één voorzitter;
 
-- d. dat de leden en plaatsvervangend leden, met uitzondering van de voorzitter, voor de worden benoemd op bindende voordracht van de daarvoor in aanmerking komende personeelsorganisaties in het onderwijs en voor de andere helft worden benoemd op bindende voordracht van de centrale werkgeversorganisatie primair onderwijs;
+- d. dat de leden en plaatsvervangend leden, met uitzondering van de voorzitter, voor de ene helft worden benoemd op bindende voordracht van de daarvoor in aanmerking komende personeelsorganisaties in het onderwijs en voor de andere helft worden benoemd op bindende voordracht van de centrale werkgeversorganisatie primair onderwijs;
 
 - e. dat het vervangingsfonds ten minste eenmaal per jaar overleg voert met Onze Minister of een door Onze Minister aan te wijzen vertegenwoordiger;
 
@@ -84,7 +84,7 @@ Vervallen
 
 - 3°. de doelmatige uitvoering van de werkzaamheden door het vervangingsfonds;
 
-- 4°. het voldoen aan verplichtingen van het vervangingsfonds uit hoofde van de wet of dit besluit;
+- 4°. het voldoen aan verplichtingen van het vervangingsfonds uit hoofde van de wet of dit besluit, en
 
 - 5°. het vaststellen van de bijdrage die het bevoegd gezag aan het vervangingsfonds moet voldoen;
 
