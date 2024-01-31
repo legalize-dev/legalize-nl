@@ -117,5 +117,3 @@ Dit besluit treedt in werking met ingang van 1 juli 2024, met uitzondering van [
 Dit besluit wordt aangehaald als: Wijzigingsbesluit financiële markten 2023.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
