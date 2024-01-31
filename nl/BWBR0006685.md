@@ -4,7 +4,7 @@ identifier: "BWBR0006685"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2020-01-01"
+last_updated: "2024-01-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006685"
 soort: "wet"
@@ -49,11 +49,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. Onze Minister: Onze Minister van Veiligheid en Justitie;
 
-- b. COA: het Centraal Orgaan opvang asielzoekers, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=2&z=2020-01-01&g=2020-01-01);
+- b. COA: het Centraal Orgaan opvang asielzoekers, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=2&z=2024-01-31&g=2024-01-31);
 
 - c. Kaderwet: de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495);
 
-- d. opvangcentrum: opvangvoorziening, niet zijnde een woning, hotel of pension, waarin door het COA aan asielzoekers opvang wordt geboden.
+- d. opvangcentrum: opvangvoorziening, niet zijnde een woning, hotel of pension, waarin door het COA aan asielzoekers opvang wordt geboden;
+
+- e. opvangvoorziening: een accommodatie waarin door of onder verantwoordelijkheid van het COA onderscheidenlijk door of onder verantwoordelijkheid van het college opvang wordt geboden aan asielzoekers.
 
 #### § 2. Instelling en taken
 
@@ -73,11 +75,9 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. het plaatsen van asielzoekers in een opvangvoorziening;
 
-- c. het plaatsen van asielzoekers op gemeentelijke opvangplaatsen, alsmede het betalen van bijdragen aan de desbetreffende gemeente ten behoeve van de kosten van deze opvang;
+- c. werkzaamheden met betrekking tot de bemiddeling bij de uitstroom van verblijfsgerechtigden als bedoeld in [artikel 1, eerste lid, onderdeel g, van de Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=1) naar door burgemeester en wethouders beschikbaar gestelde huisvesting;
 
-- d. werkzaamheden met betrekking tot de bemiddeling bij de uitstroom van verblijfsgerechtigden als bedoeld in [artikel 1, eerste lid, onderdeel g, van de Huisvestingswet 2014](onbekend) naar door burgemeester en wethouders beschikbaar gestelde huisvesting;
-
-- e. door Onze Minister aan het COA op te dragen andere taken die samenhangen met de opvang van asielzoekers.
+- d. door Onze Minister aan het COA op te dragen andere taken die samenhangen met de opvang van asielzoekers.
 
 2. Onze minister kan het COA taken als bedoeld in het eerste lid opdragen met betrekking tot andere categorieën vreemdelingen.
 
@@ -85,15 +85,21 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3a
 
-1. In afwijking van [artikel 72, derde lid, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=72) zijn de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&afdeling=1), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&afdeling=3) en [4 van hoofdstuk 7 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&afdeling=4) van toepassing op besluiten in het kader van het onthouden dan wel de beëindiging van verstrekkingen bij of krachtens deze wet.
+1. Het COA bepaalt in welke opvangvoorziening een asielzoeker wordt geplaatst en is bevoegd een asielzoeker naar een andere voorziening over te plaatsen.
 
-2. In afwijking van [artikel 72, derde lid, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=72) worden handelingen van het orgaan ten aanzien van een vreemdeling als zodanig die worden verricht in het kader van de beëindiging van verstrekkingen bij of krachtens deze wet, voor de toepassing van deze wet met een beschikking gelijkgesteld. De [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&afdeling=1), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&afdeling=3) en [4 van hoofdstuk 7 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&afdeling=4) zijn op die beschikking van toepassing.
+2. Overplaatsing is in ieder geval noodzakelijk indien:
 
-3. In afwijking van het eerste en tweede lid is [artikel 82 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=82) niet van toepassing.
+- a. de opvangvoorziening waarin de asielzoeker verblijft, wordt gesloten;
+
+- b. een doelmatige en doeltreffende uitvoering van de asielprocedure daarmee is gediend.
+
+3. Na overplaatsing van een asielzoeker naar een andere opvangvoorziening worden de verstrekkingen in deze andere opvangvoorziening aangeboden.
+
+4. Bij de uitoefening van de bevoegdheid, bedoeld in het eerste lid, zorgt het COA er voor dat de eenheid van het gezin in de mate van het mogelijke en met instemming van de asielzoekers bewaard wordt.
 
 ##### Artikel 4
 
-Bij de toepassing van [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2020-01-01&g=2020-01-01), doet Onze Minister, voor zover dat gevolgen heeft voor de uitoefening van openbaar gezag door het COA, daarvan mededeling aan beide Kamers der Staten-Generaal.
+Bij de toepassing van [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2024-01-31&g=2024-01-31), doet Onze Minister, voor zover dat gevolgen heeft voor de uitoefening van openbaar gezag door het COA, daarvan mededeling aan beide Kamers der Staten-Generaal.
 
 ##### Artikel 5
 
@@ -129,9 +135,9 @@ Het COA heeft een bestuur.
 
 ##### Artikel 9
 
-1. Het bestuur is belast met de dagelijkse leiding van het COA en draagt zorg voor een goede uitvoering van de taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2020-01-01&g=2020-01-01).
+1. Het bestuur is belast met de dagelijkse leiding van het COA en draagt zorg voor een goede uitvoering van de taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2024-01-31&g=2024-01-31).
 
-2. Een besluit van het bestuur om werkzaamheden, die de uitvoering van taken als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2020-01-01&g=2020-01-01) betreffen, door derden te laten uitvoeren, behoeft voor zover het door Onze Minister aangegeven werkzaamheden betreft zijn goedkeuring.
+2. Een besluit van het bestuur om werkzaamheden, die de uitvoering van taken als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2024-01-31&g=2024-01-31) betreffen, door derden te laten uitvoeren, behoeft voor zover het door Onze Minister aangegeven werkzaamheden betreft zijn goedkeuring.
 
 ##### Artikel 10
 
@@ -300,6 +306,22 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 5. Bij of krachtens algemene maatregel van bestuur wordt vastgesteld uit welke elementen een meldcode in ieder geval bestaat.
 
 #### § 3. Informatievoorziening, sturing en toezicht
+
+#### § 3. Informatievoorziening, sturing en toezicht
+
+#### § 5. Slotbepalingen
+
+Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 3b
+
+1. Het COA kan met het college van burgemeester en wethouders overeenkomen dat het college verantwoordelijk is voor de exploitatie van een opvangvoorziening.
+
+2. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over exploitatie door het college.
+
+##### Artikel 3c
+
+Bij regeling van Onze Minister kunnen regels worden gesteld over de eisen waaraan opvangvoorzieningen moeten voldoen. Daarbij kan onderscheid worden gemaakt tussen reguliere opvang, opvang van alleenstaande minderjarige vreemdelingen en andere opvang van bijzondere aard.
 
 #### § 4. Bekostiging en financieel toezicht
 
