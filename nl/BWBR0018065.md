@@ -4,7 +4,7 @@ identifier: "BWBR0018065"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-31"
-last_updated: "2022-08-01"
+last_updated: "2024-01-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018065"
 soort: "AMvB"
@@ -58,11 +58,7 @@ bevoegd gezag: een bevoegd gezag als bedoeld in [artikel 1 van de Wet op het pri
 
 samenwerkingsverband: een samenwerkingsverband als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1) en [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
 
-centrale dienst: een centrale dienst als bedoeld in de [artikelen 68 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=68) en [69 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=69);
-
-lerarenregister: lerarenregister als bedoeld in [artikel 38b van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=38b) en [artikel 38b van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=38b);
-
-registervoorportaal: registervoorportaal als bedoeld in [artikel 38p van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=38p) en [artikel 38p van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=38p).
+centrale dienst: een centrale dienst als bedoeld in de [artikelen 68 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=68) en [69 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=69).
 
 ##### Artikel 2. Nadere invulling van de onderdelen van het jaarverslag
 
@@ -88,43 +84,15 @@ registervoorportaal: registervoorportaal als bedoeld in [artikel 38p van de Wet 
 
 ##### Artikel 3. Beschrijving van de gegevens
 
-De gegevens, bedoeld in de [artikelen 165](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=165) en [166 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=166) dan wel de [artikelen 142](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=142) en [143 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=143) waarover een bevoegd gezag of een centrale dienst beschikt, worden gedefinieerd en geordend volgens de voorschriften vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&bijlage=1&z=2022-08-01&g=2022-08-01) bij dit besluit.
+De gegevens, bedoeld in de [artikelen 165](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=165) en [166 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=166) dan wel de [artikelen 142](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=142) en [143 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=143) waarover een bevoegd gezag of een centrale dienst beschikt, worden gedefinieerd en geordend volgens de voorschriften vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&bijlage=1&z=2024-01-31&g=2024-01-31) bij dit besluit.
 
 ##### Artikel 4. Nadere invulling
 
-Bij ministeriële regeling kan een nadere invulling worden gegeven van de gegevens, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&hoofdstuk=II&artikel=3&z=2022-08-01&g=2022-08-01), en van de wijze waarop de gegevens beschikbaar worden gesteld. Tevens kan een nadere invulling worden gegeven van de gegevens die betrekking hebben op verstrekte aanvullende bekostiging en de wijze waarop deze gegevens worden gedefinieerd, geordend en beschikbaar gesteld.
+Bij ministeriële regeling kan een nadere invulling worden gegeven van de gegevens, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&hoofdstuk=II&artikel=3&z=2024-01-31&g=2024-01-31), en van de wijze waarop de gegevens beschikbaar worden gesteld. Tevens kan een nadere invulling worden gegeven van de gegevens die betrekking hebben op verstrekte aanvullende bekostiging en de wijze waarop deze gegevens worden gedefinieerd, geordend en beschikbaar gesteld.
 
 ##### Artikel 5. Nadere specificatie gegevens lerarenregister en registervoorportaal
 
-1. De gegevens in het lerarenregister of het registervoorportaal betreffende de benoeming of tewerkstelling zonder benoeming als bedoeld in [artikel 38g, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=38g), of [artikel 38q, eerste lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=38q) en [artikel 38g, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=38g), of [artikel 38q, eerste lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=38q) bestaan naast de ingangsdatum van de benoeming of tewerkstelling zonder benoeming uit:
-
-- a. indien van toepassing: de einddatum van de benoeming of tewerkstelling zonder benoeming;
-
-- b. de begindatum en, indien van toepassing: einddatum van de arbeidsovereenkomst;
-
-- c. de betreffende benoemingsgrondslag in de wet; en
-
-- d. voor het registervoorportaal, wat betreft het gegeven betreffende het onderwijs:
-
-- 1°. voor het primair onderwijs: de aanduiding leraar primair onderwijs en indien van toepassing de op grond van [artikel 3, eerste lid, onderdeel b, onder 1, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=3) aangewezen onderwijsactiviteit;
-
-- 2°. voor het speciaal onderwijs of het voortgezet speciaal onderwijs: de aanduiding leraar speciaal onderwijs of leraar voortgezet speciaal onderwijs en indien van toepassing de op grond van [artikel 3, eerste lid, onderdeel b, onder 1, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=3) aangewezen onderdelen of vakken.
-
-2. De gegevens, bedoeld in [artikel 38g, eerste lid, onder d, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=38g) en [artikel 38g, eerste lid, onder d, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=38g), betreffende de school waaraan een leraar die in het lerarenregister of het registervoorportaal is opgenomen, worden onderscheiden in de registratienummers van de school, of de registratienummers van de vestigingen van de school, en bestaan per registratienummer uit:
-
-- a. de naam van de school of de vestiging van de school;
-
-- b. het adres, de postcode en plaats;
-
-- c. het telefoonnummer en e-mailadres.
-
-3. De gegevens betreffende het onderwijs waarvoor de leraar kan opgaan voor herregistratie als bedoeld in [artikel 38g, eerste lid, onder e, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=38g) en [artikel 38g, eerste lid, onder e, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=38g) bestaan uit:
-
-- a. voor het primair onderwijs: de aanduiding leraar primair onderwijs en indien van toepassing de op grond van [artikel 3, eerste lid, onderdeel b, onder 1, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=3) aangewezen onderwijsactiviteit;
-
-- b. voor het speciaal onderwijs of het voortgezet speciaal onderwijs: de aanduiding leraar speciaal onderwijs of leraar voortgezet speciaal onderwijs, en indien van toepassing de op grond van [artikel 3, eerste lid, onderdeel b, onder 1, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=3) aangewezen onderdelen of vakken.
-
-4. Dit lid is nog niet in werking getreden.
+Vervallen
 
 ##### Artikel 6. Aanvullende gegevensverstrekking lerarenregister en registervoorportaal
 
@@ -152,15 +120,13 @@ Naam en adresgegevens
 
 Communicatiegegevens, zoals telefoonnummer en e-mailadres
 
-Gegevens ten behoeve van betalingen, zoals bank- en girogegevens
+Deze bijlage bevat een uitputtend overzicht van de gegevens waarover het bevoegd gezag, centrale dienst of samenwerkingsverband dient te beschikken om te kunnen voldoen aan de structurele gegevensvraag van OCW. Dit laat onverlet dat daarnaast in geval van aanvullende bekostiging de daarvoor benodigde gegevens opgevraagd kunnen worden.
 
 ### A2. School, instelling, vestiging
 
 Per rubriek (A1, A2, enz.) is aangegeven op welk niveau de gevraagde informatie geleverd moet worden.
 
 Voor de bekostiging:
-
-Gegevens over de datum oprichting en opheffing
 
 Voor de bekostiging:
 
@@ -174,9 +140,9 @@ Communicatiegegevens, zoals telefoonnummer en e-mailadres
 
 Gegevens ten behoeve van betalingen, zoals bank- en girogegevens
 
-### A3. Samenwerkingsverbanden
+Gegevens van de samenwerkingsverbanden waarbij men is aangesloten (zoals administratienummer, naam en adresgegevens, datum begin en einde aansluiting)
 
-Voor de bekostiging:
+### A2. School, instelling, vestiging
 
 Voor de bekostiging:
 
@@ -186,17 +152,17 @@ Datum ingang en einde bekostiging
 
 Schoolsoort en code gedoceerd onderwijs
 
-### B. Financiële gegevens
+Een administratienummer
 
 ### B. Financiële gegevens
 
-Communicatiegegevens, zoals telefoonnummer en e-mailadres
+### B. Financiële gegevens
 
 Voor beleid:
 
 Richting school/instelling
 
-en passiva
+Richting school/instelling
 
 Voor de bekostiging:
 
@@ -208,19 +174,19 @@ Naam
 
 Administratienummers scholen in samenwerkingsverband
 
+Administratienummers scholen in samenwerkingsverband
+
 met de kasstroom uit:
 
 ### B1. Bevoegd gezag en centrale dienst
-
-Voor de bekostiging:
 
 De (geconsolideerde) balans met de volgende gegevens over activa:
 
 en passiva
 
-### C. Personeelsgegevens
+De (geconsolideerde) exploitatierekening
 
-waaronder de volgende baten:
+### C. Personeelsgegevens
 
 en waaronder de volgende lasten
 
@@ -232,7 +198,7 @@ met de kasstroom uit:
 
 en de mutatie en eindstand liquide middelen
 
-Arbeidsrelatiegegevens
+en de mutatie en eindstand liquide middelen
 
 Voor beleid:
 
@@ -240,7 +206,7 @@ met een specificatie voor:
 
 met een specificatie voor:
 
-Zij-instroom
+met een specificatie voor:
 
 Voor beleid:
 
@@ -262,6 +228,8 @@ Soort arbeidsverhouding (waaronder vast of tijdelijk)
 
 Zij-instroom
 
+Functie, betrekking en salarisgegevens
+
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 ##### Artikel 2a. Gebruik burgerservicenummer personeel door bevoegd gezag
@@ -274,27 +242,27 @@ Per rubriek (A1, A2, enz.) is aangegeven op welk niveau de gevraagde informatie 
 
 ### A1. Bevoegd gezag en centrale dienst
 
-Deze bijlage bevat een uitputtend overzicht van de gegevens waarover het bevoegd gezag, centrale dienst of samenwerkingsverband dient te beschikken om te kunnen voldoen aan de structurele gegevensvraag van OCW. Dit laat onverlet dat daarnaast in geval van aanvullende bekostiging de daarvoor benodigde gegevens opgevraagd kunnen worden.
+Per rubriek (A1, A2, enz.) is aangegeven op welk niveau de gevraagde informatie geleverd moet worden.
 
-### A2. School, instelling, vestiging
+### A. Instellingsgegevens
 
 Gegevens van de samenwerkingsverbanden waarbij men is aangesloten (zoals administratienummer, naam en adresgegevens, datum begin en einde aansluiting)
 
 ### A2. School, instelling, vestiging
 
-Een administratienummer
+Naam en adresgegevens
 
 ### B1. Bevoegd gezag en centrale dienst
 
-en de mutatie en eindstand liquide middelen
+Voor de bekostiging:
 
 ### B2. School en instelling
 
-De (geconsolideerde) exploitatierekening
+waaronder de volgende baten:
 
 ### C. Personeelsgegevens
 
-Functie, betrekking en salarisgegevens
+Administratienummer instelling/school (waar te werk gesteld)
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
@@ -306,43 +274,21 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 7. Nadere specificatie gegevensverstrekking lerarenregister en registervoorportaal
 
-1. De gegevens betreffende de benoeming of tewerkstelling zonder benoeming die op grond van [artikel 38o, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=38o), of [artikel 38t, tweede lid, onder b, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=38t), respectievelijk [artikel 38o, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=38o), of [artikel 38t, tweede lid, onder b, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=38t) worden verstrekt, bestaan naast de ingangsdatum van de benoeming of tewerkstelling zonder benoeming uit:
-
-- a. indien van toepassing: de einddatum van de benoeming of tewerkstelling zonder benoeming;
-
-- b. de begindatum en, indien van toepassing: einddatum van de arbeidsovereenkomst;
-
-- c. de betreffende benoemingsgrondslag in de wet; en
-
-- d. voor het registervoorportaal, wat betreft het gegeven betreffende het onderwijs:
-
-- 1°. voor het primair onderwijs: de aanduiding leraar primair onderwijs en indien van toepassing de op grond van [artikel 3, eerste lid, onderdeel b, onder 1, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=3) aangewezen onderwijsactiviteit;
-
-- 2°. voor het speciaal onderwijs of het voortgezet speciaal onderwijs: de aanduiding leraar speciaal onderwijs of leraar voortgezet speciaal onderwijs en indien van toepassing de op grond van [artikel 3, eerste lid, onderdeel b, onder 1, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=3) aangewezen onderdelen of vakken.
-
-2. De gegevens betreffende de school die op grond van [artikel 38o, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=38o), of [artikel 38t, tweede lid, onder c, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=38t), respectievelijk [artikel 38o, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=38o), of [artikel 38t, tweede lid, onder c, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=38t) worden verstrekt op verzoek van het bevoegd gezag van een school worden onderscheiden in de registratienummers van de betreffende school of de vestigingen van de school, en bestaan per registratienummer uit de naam, het adres, de postcode en plaats, het telefoonnummer en e-mailadres.
-
-3. Dit lid is nog niet in werking getreden.
+Vervallen
 
 ##### Artikel 8. Beschrijving gegevens lerarenregister en registervoorportaal
 
-De gegevens die worden geleverd en verwerkt voor het lerarenregister en het registervoorportaal worden gedefinieerd en geordend volgens de voorschriften vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&bijlage=2&z=2022-08-01&g=2022-08-01) bij dit besluit.
+Vervallen
 
 ##### Artikel 9. Nadere invulling
 
-Bij ministeriële regeling kan een nadere invulling worden gegeven aan de definiëring en ordening als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&hoofdstuk=III&artikel=8&z=2022-08-01&g=2022-08-01), en aan:
-
-- a. de wijze waarop de gegevens worden gedefinieerd, geordend, gecorrigeerd en verstrekt.
-
-- b. de tijdstippen waarop de gegevens worden geleverd.
-
-- c. de wijze waarop een leraar die niet is benoemd of tewerkgesteld zonder benoeming ten behoeve van opname in het lerarenregister kan aantonen aan de bekwaamheidseisen te voldoen.
+Vervallen
 
 ### Hoofdstuk V. Overige bepalingen
 
 ##### Artikel 10. Gewijzigde grondslag
 
-Dit besluit berust op de [artikelen 38h, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=38h), [38g, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=38g), [38q, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=38q), [38r, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=38r), [165, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=165), [166, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=166), en [167, tweede lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=167) en de [artikelen 38h, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=38h), [38g, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=38g), [38q, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=38q), [38r, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=38r), [141, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=141), [142, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=142), en [143, tweede lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=143).
+Dit besluit berust op de [artikelen 165, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=165), [166, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=166), en [167, tweede lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=167) en de [artikelen 141, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=141), [142, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=142), en [143, tweede lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=143).
 
 ##### Artikel 11. Inwerkingtreding
 
@@ -354,21 +300,19 @@ Dit besluit wordt aangehaald als: Besluit informatievoorziening WPO/WEC.
 
 ## Bijlage 1. als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&hoofdstuk=II&artikel=3&z=2022-08-01&g=2022-08-01) van het Besluit informatievoorziening WPO/WEC
 
-### A. Instellingsgegevens
+### A1. Bevoegd gezag en centrale dienst
 
 ### A1. Bevoegd gezag en centrale dienst
 
-Naam en adresgegevens
+Communicatiegegevens, zoals telefoonnummer en e-mailadres
 
 ### A3. Samenwerkingsverbanden
 
-### B. Financiële gegevens
+### B1. Bevoegd gezag en centrale dienst
 
 ### B2. School en instelling
 
 ### C. Personeelsgegevens
-
-Administratienummer instelling/school (waar te werk gesteld)
 
 Betrekkinggegevens, waaronder betrekkingsomvang en de
 
@@ -385,6 +329,8 @@ Salarisnummer
 Bruto salaris
 
 Toelagen
+
+Ziekte en verlofgegevens
 
 Ziekte en verlofgegevens
 
@@ -439,5 +385,23 @@ Datum begin en einde van de benoeming of tewerkstelling zonder benoeming
 Benoemingsgrondslag
 
 Onderwijs van benoeming of tewerkstelling zonder benoeming (alleen registervoorportaal)
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+### Hoofdstuk V. Overige bepalingen
+
+## Bijlage 1. als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&hoofdstuk=II&artikel=3&z=2024-01-31&g=2024-01-31) van het Besluit informatievoorziening WPO/WEC
+
+### A3. Samenwerkingsverbanden
+
+### B. Financiële gegevens
+
+### B2. School en instelling
+
+### C. Personeelsgegevens
+
+## Bijlage 2. als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&hoofdstuk=III&artikel=8&z=2024-01-31&g=2024-01-31) van het Besluit informatievoorziening WPO/WEC
+
+Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
