@@ -4,7 +4,7 @@ identifier: "BWBR0038543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-23"
-last_updated: "2023-10-25"
+last_updated: "2024-01-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038543"
 soort: "ministeriele-regeling"
@@ -44,11 +44,11 @@ Besluit:
 
 ##### Artikel 1. Certificaten keuzedelen
 
-Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2023-10-25&g=2023-10-25) bij deze regeling.
+Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2024-01-31&g=2024-01-31) bij deze regeling.
 
 ##### Artikel 2. Certificaat voor beroepsgerichte onderdelen
 
-Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2023-10-25&g=2023-10-25).
+Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2024-01-31&g=2024-01-31).
 
 ##### Artikel 3. Inwerkingtreding
 
@@ -126,7 +126,7 @@ Er is een certificaat verbonden aan de volgende keuzedelen:
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=1&z=2023-10-25&g=2023-10-25)
+## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=1&z=2024-01-31&g=2024-01-31)
 
 | k-code | naam keuzedeel |
 | --- | --- |
@@ -434,10 +434,18 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 | K0923 | Methodische storingsaanpak |
 | K1087 | Technieken voor carrosserieconstructie |
 | K1398 | Weerbaarheid |
+|   |   |
+| **Certificaten voor keuzedelen vanaf januari 2024** | **Certificaten voor keuzedelen vanaf januari 2024** |
+| K1247 | Business intelligence: data-analyse |
+| K1248 | Business intelligence: datamanagement |
+| K1416 | Ondersteuning in de kinderopvang |
+| K1432 | Verdieping kraamzorg |
+| K1241 | Verdieping operations voor de procesindustrie, geschikt voor niveau 4 |
+| K0513 | Verpakken van levensmiddelen |
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=2&z=2023-10-25&g=2023-10-25)
+## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=2&z=2024-01-31&g=2024-01-31)
 
 | c-code | Naam certificaat | crebocode | naam kwalificatie |
 | --- | --- | --- | --- |
@@ -587,6 +595,15 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 | C0142 | Verzwaren meterkast laagspanning | 25769 | Monteur laagspanningsdistributie |
 | C0143 | Werken in de ambachtelijke bakkerij | 25721 | Uitvoerend bakker |
 | C0144 | Werken aan warmtedistributienetten | 25764 | Eerste monteur gas-, water- of warmtedistributie |
+|   |   |   |   |
+| **Certificaten voor beroepsgerichte onderdelen vanaf januari 2024** | **Certificaten voor beroepsgerichte onderdelen vanaf januari 2024** | **Certificaten voor beroepsgerichte onderdelen vanaf januari 2024** | **Certificaten voor beroepsgerichte onderdelen vanaf januari 2024** |
+| C0145 | Basisvaardigheden werkvoorbereiding Technische installaties | 25124 | Werkvoorbereider installaties |
+| C0147 | Coördinatie en organisatie van de verpleegkundige zorg | 25655 | Mbo-Verpleegkundige |
+| C0150 | Individuele verpleegkundige zorg | 25655 | Mbo-Verpleegkundige |
+| C0151 | Kwaliteitszorg en professionalisering in de verpleegkundige zorg | 25655 | Mbo-Verpleegkundige |
+| C0153 | Plannen van verpleegkundige zorg | 25655 | Mbo-Verpleegkundige |
+| C0155 | Verpleegkundige ondersteuning en begeleiding | 25655 | Mbo-Verpleegkundige |
+| C0156 | Verpleegtechnisch handelen, niveau 4 | 25655 | Mbo-Verpleegkundige |
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
