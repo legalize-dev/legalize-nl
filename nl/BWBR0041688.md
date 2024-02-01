@@ -4,7 +4,7 @@ identifier: "BWBR0041688"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-02-27"
-last_updated: "2022-11-12"
+last_updated: "2024-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041688"
 soort: "ministeriele-regeling"
@@ -114,10 +114,18 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1a
 
-Vervallen
+1. Aan de hoofddirecteur bedrijfsvoering wordt ondermandaat verleend ten aanzien van het nemen van besluiten op verzoeken op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) en daarmee samenhangende beslissingen voor zover deze verzoeken betrekking hebben op aangelegenheden die de clusters, genoemd in [artikel 2, tweede lid, onderdelen a tot en met i van het Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=2), betreffen.
+
+2. Aan de hoofden van de clusters, genoemd in [artikel 2, tweede lid onderdelen j en k van het Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=2) wordt ondermandaat verleend ten aanzien van het nemen van besluiten op verzoeken op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) en daarmee samenhangende beslissingen voor zover deze verzoeken het eigen cluster betreffen.
 
 ##### Artikel 2a
 
 De secretaris-generaal blijft eindverantwoordelijk voor de beleidsmatige kwesties die de directie Financieel-Economische Zaken en de directie Wetgeving en Juridische Zaken als bedoeld in [artikel 4, tweede lid, onderdelen a en e, van het Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=4) betreffen.
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+Vervallen
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
