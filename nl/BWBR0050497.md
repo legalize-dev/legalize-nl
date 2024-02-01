@@ -4,7 +4,7 @@ identifier: "BWBR0050497"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-12-05"
-last_updated: "2019-01-01"
+last_updated: "2024-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050497"
 soort: "ministeriele-regeling"
@@ -47,6 +47,8 @@ Artikelen 32 van de [Richtlijn (EU) 2016/680](32016L0680) van het Europees Parle
 **Besluit:**
 
 De terugwerkende kracht betreft de FG Wpg.
+
+De terugwerkende kracht betreft de FG AVG.
 
 ##### Artikel 1
 
