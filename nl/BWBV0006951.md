@@ -4,7 +4,7 @@ identifier: "BWBV0006951"
 country: "nl"
 rank: "verdrag"
 publication_date: "2024-02-01"
-last_updated: "2022-02-22"
+last_updated: "2024-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006951"
 soort: "verdrag"
@@ -78,7 +78,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 ##### Artikel 3. Bevoegde veiligheidsautoriteiten
 
-1. De bevoegde veiligheidsautoriteiten van de partijen staan vermeld in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006951&bijlage=I&z=2022-02-22&g=2022-02-22) bij dit Verdrag.
+1. De bevoegde veiligheidsautoriteiten van de partijen staan vermeld in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006951&bijlage=I&z=2024-02-01&g=2024-02-01) bij dit Verdrag.
 
 2. De bevoegde veiligheidsautoriteiten voorzien elkaar van de officiële contactgegevens.
 
@@ -109,7 +109,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 3. De toegang tot gerubriceerde gegevens wordt beperkt tot personen die van de gegevens op de hoogte moeten zijn (need to know), zijn geïnstrueerd over hun verantwoordelijkheden voor de bescherming van gerubriceerde gegevens, een geheimhoudingsverklaring hebben ondertekend en/of wettelijk tot geheimhouding verplicht zijn en in het bezit zijn van een veiligheidsmachtiging personeel van het overeenkomstige niveau of uit hoofde van hun functie gemachtigd zijn om toegang te hebben tot dergelijke gegevens, een en ander in overeenstemming met de nationale wet- en regelgeving.
 
-4. Een veiligheidsmachtiging personeel is niet vereist voor toegang tot gerubriceerde gegevens met een rubriceringsniveau dat overeenkomt met “RESTRICTED” zoals vermeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006951&artikel=4&z=2022-02-22&g=2022-02-22) van dit Verdrag.
+4. Een veiligheidsmachtiging personeel is niet vereist voor toegang tot gerubriceerde gegevens met een rubriceringsniveau dat overeenkomt met “RESTRICTED” zoals vermeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006951&artikel=4&z=2024-02-01&g=2024-02-01) van dit Verdrag.
 
 5. Gerubriceerde gegevens worden uitsluitend gebruikt voor het doel waarvoor zij zijn verstrekt.
 
@@ -129,11 +129,11 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 1. Op verzoek deelt de bevoegde veiligheidsautoriteit van de ontvangende partij de bevoegde veiligheidsautoriteit van de partij van herkomst mee of een voorgestelde opdrachtnemer die deelneemt aan precontractuele onderhandelingen over een gerubriceerd contract, een passende veiligheidsmachtiging bedrijfslocatie heeft gekregen die overeenstemt met het vereiste rubriceringsniveau.
 
-2. Indien een partij of een opdrachtnemer onder haar rechtsmacht een gerubriceerd contract met een rubriceringsniveau dat overeenkomt met CONFIDENTIAL of hoger, zoals vermeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006951&artikel=4&z=2022-02-22&g=2022-02-22) van dit Verdrag, gunt aan een (onder)opdrachtnemer onder de rechtsmacht van de andere partij, dient zij eerst de schriftelijke bevestiging te verkrijgen van de andere partij dat aan deze opdrachtnemer een veiligheidsmachtiging bedrijfslocatie is toegekend.
+2. Indien een partij of een opdrachtnemer onder haar rechtsmacht een gerubriceerd contract met een rubriceringsniveau dat overeenkomt met CONFIDENTIAL of hoger, zoals vermeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006951&artikel=4&z=2024-02-01&g=2024-02-01) van dit Verdrag, gunt aan een (onder)opdrachtnemer onder de rechtsmacht van de andere partij, dient zij eerst de schriftelijke bevestiging te verkrijgen van de andere partij dat aan deze opdrachtnemer een veiligheidsmachtiging bedrijfslocatie is toegekend.
 
 3. In geval van een openbare aanbesteding kan de bevoegde veiligheidsautoriteit van de ontvangende partij de bevoegde veiligheidsautoriteit van de partij van herkomst de relevante certificaten van veiligheidsmachtiging bedrijfslocatie verstrekken zonder een formeel verzoek daartoe.
 
-4. Een veiligheidsmachtiging bedrijfslocatie is niet vereist voor toegang tot gerubriceerde gegevens op het rubriceringsniveau dat overeenkomt met “RESTRICTED” zoals vermeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006951&artikel=4&z=2022-02-22&g=2022-02-22) van dit Verdrag.
+4. Een veiligheidsmachtiging bedrijfslocatie is niet vereist voor toegang tot gerubriceerde gegevens op het rubriceringsniveau dat overeenkomt met “RESTRICTED” zoals vermeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006951&artikel=4&z=2024-02-01&g=2024-02-01) van dit Verdrag.
 
 5. Vertegenwoordigers van de bevoegde veiligheidsautoriteiten van de partijen kunnen elkaar bezoeken om de doeltreffendheid te beoordelen van de maatregelen die een opdrachtnemer heeft genomen ter bescherming van gerubriceerde gegevens die te maken hebben met een gerubriceerd contract.
 
@@ -163,7 +163,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 7. De bevoegde veiligheidsautoriteit van de partij die de toekenning van het gerubriceerde contract goedkeurt, stuurt een kopie van het hoofdstuk over de veiligheidsvereisten naar de bevoegde veiligheidsautoriteit van de ontvangende partij, om het veiligheidstoezicht op het contract te vergemakkelijken.
 
-8. De procedure voor de goedkeuring van bezoeken die samenhangen met activiteiten onder een gerubriceerd contract door personeel van de ene partij aan de andere partij, dient in overeenstemming met [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0006951&artikel=10&z=2022-02-22&g=2022-02-22) van dit Verdrag te zijn.
+8. De procedure voor de goedkeuring van bezoeken die samenhangen met activiteiten onder een gerubriceerd contract door personeel van de ene partij aan de andere partij, dient in overeenstemming met [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0006951&artikel=10&z=2024-02-01&g=2024-02-01) van dit Verdrag te zijn.
 
 9. Indien een opdrachtnemer delen van een gerubriceerd contract uitbesteedt aan een onderaannemer, waarborgen de opdrachtnemer en de onderaannemer de naleving van dit artikel.
 
@@ -181,17 +181,17 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 3. Vertalingen dienen te worden voorzien van een passende annotatie in de taal waarin zij zijn vertaald met de aanduiding dat zij gerubriceerde gegevens bevatten van de verstrekkende partij.
 
-4. Gerubriceerde gegevens met het rubriceringsniveau dat overeenkomt met “TOP SECRET” zoals vermeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006951&artikel=4&z=2022-02-22&g=2022-02-22) van dit Verdrag worden niet vertaald of gereproduceerd zonder voorafgaande schriftelijke toestemming van de partij van herkomst.
+4. Gerubriceerde gegevens met het rubriceringsniveau dat overeenkomt met “TOP SECRET” zoals vermeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006951&artikel=4&z=2024-02-01&g=2024-02-01) van dit Verdrag worden niet vertaald of gereproduceerd zonder voorafgaande schriftelijke toestemming van de partij van herkomst.
 
-5. Gerubriceerde gegevens met het rubriceringsniveau dat overeenkomt met “TOP SECRET” zoals vermeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006951&artikel=4&z=2022-02-22&g=2022-02-22) van dit Verdrag worden niet vernietigd zonder voorafgaande schriftelijke toestemming van de partij van herkomst. Zij worden geretourneerd aan de partij van herkomst nadat de verstrekkende en de ontvangende partij ze niet meer nodig achten.
+5. Gerubriceerde gegevens met het rubriceringsniveau dat overeenkomt met “TOP SECRET” zoals vermeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006951&artikel=4&z=2024-02-01&g=2024-02-01) van dit Verdrag worden niet vernietigd zonder voorafgaande schriftelijke toestemming van de partij van herkomst. Zij worden geretourneerd aan de partij van herkomst nadat de verstrekkende en de ontvangende partij ze niet meer nodig achten.
 
-6. Gerubriceerde gegevens tot en met rubriceringsniveaus die overeenkomen met “SECRET” zoals vermeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006951&artikel=4&z=2022-02-22&g=2022-02-22) van dit Verdrag worden in overeenstemming met haar nationale wet- en regelgeving vernietigd nadat de ontvangende partij ze niet meer nodig acht.
+6. Gerubriceerde gegevens tot en met rubriceringsniveaus die overeenkomen met “SECRET” zoals vermeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006951&artikel=4&z=2024-02-01&g=2024-02-01) van dit Verdrag worden in overeenstemming met haar nationale wet- en regelgeving vernietigd nadat de ontvangende partij ze niet meer nodig acht.
 
 7. Indien een crisissituatie het onmogelijk maakt de uit hoofde van dit Verdrag verstrekte gerubriceerde gegevens te beveiligen, dienen de gerubriceerde gegevens onmiddellijk vernietigd te worden. De ontvangende partij stelt de bevoegde veiligheidsautoriteit van de verstrekkende partij onverwijld in kennis van de vernietiging van deze gerubriceerde gegevens.
 
 ##### Artikel 10. Bezoeken
 
-1. Bezoeken waarbij toegang tot gerubriceerde gegevens op het niveau “CONFIDENTIAL” of hoger zoals vermeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006951&artikel=4&z=2022-02-22&g=2022-02-22) van dit Verdrag vereist is, dienen vooraf schriftelijk te worden goedgekeurd door de respectieve bevoegde veiligheidsautoriteit, tenzij anderszins overeengekomen door de bevoegde veiligheidsautoriteiten.
+1. Bezoeken waarbij toegang tot gerubriceerde gegevens op het niveau “CONFIDENTIAL” of hoger zoals vermeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006951&artikel=4&z=2024-02-01&g=2024-02-01) van dit Verdrag vereist is, dienen vooraf schriftelijk te worden goedgekeurd door de respectieve bevoegde veiligheidsautoriteit, tenzij anderszins overeengekomen door de bevoegde veiligheidsautoriteiten.
 
 2. De bezoeker dient de aanvraag voor het bezoek ten minste veertien dagen vóór de beoogde datum van het bezoek in bij zijn bevoegde veiligheidsautoriteit, die de aanvraag doorstuurt naar de bevoegde veiligheidsautoriteit van de andere partij. In dringende gevallen kan de aanvraag voor een bezoek op een kortere termijn worden ingediend, mits hierover voorafgaand afstemming plaatsvindt tussen de bevoegde veiligheidsautoriteiten.
 
@@ -245,7 +245,7 @@ De bevoegde autoriteiten van de partijen kunnen uitvoeringsregelingen sluiten in
 
 2. Ten aanzien van het Koninkrijk der Nederlanden is dit Verdrag van toepassing op het Europese deel van Nederland en op het Caribische deel van Nederland (de eilanden Bonaire, Sint Eustatius en Saba).
 
-3. Dit Verdrag en de [Bijlage](https://wetten.overheid.nl/jci1.3:c:BWBV0006951&bijlage=I&z=2022-02-22&g=2022-02-22) daarbij kunnen met wederzijdse instemming van de partijen worden gewijzigd. Elke partij kan op elk moment langs diplomatieke weg wijzigingen van dit Verdrag en de Bijlage daarbij voorstellen. Dergelijke wijzigingen treden in werking onder de voorwaarden vervat in het eerste lid van dit artikel, met uitzondering van een wijziging van de Bijlage, welke wijziging in werking treedt op een door de partijen overeen te komen datum.
+3. Dit Verdrag en de [Bijlage](https://wetten.overheid.nl/jci1.3:c:BWBV0006951&bijlage=I&z=2024-02-01&g=2024-02-01) daarbij kunnen met wederzijdse instemming van de partijen worden gewijzigd. Elke partij kan op elk moment langs diplomatieke weg wijzigingen van dit Verdrag en de Bijlage daarbij voorstellen. Dergelijke wijzigingen treden in werking onder de voorwaarden vervat in het eerste lid van dit artikel, met uitzondering van een wijziging van de Bijlage, welke wijziging in werking treedt op een door de partijen overeen te komen datum.
 
 4. Een partij kan dit Verdrag te allen tijde schriftelijk langs diplomatieke weg beëindigen. In dat geval eindigt het Verdrag zes maanden na ontvangst van deze kennisgeving.
 
