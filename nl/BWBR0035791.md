@@ -4,7 +4,7 @@ identifier: "BWBR0035791"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-24"
-last_updated: "2024-01-09"
+last_updated: "2024-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035791"
 soort: "ministeriele-regeling"
@@ -2564,7 +2564,9 @@ In afwijking van hetgeen voor commerciële omroep in de kolom ‘Verdeelmechanis
 
 Vervallen.
 
-In het banddeel 3550 – 3680 MHz wordt ten hoogste 50 MHz in gebruik genomen voor ‘mobiele communicatie’.
+Vervallen.
+
+Vervallen.
 
 De bestemming vaste satellietdienst – ruimte naar aarde (FSS_SE) is ingeperkt tot het passief gebruik van frequentieruimte ten behoeve van de vaste satellietdienst dat al plaatsvond voor 1 december 2023.
 
@@ -2578,9 +2580,9 @@ Bestemming voor GNSS-repeaters voor de hoofdcategorie zakelijk gebruik is ingepe
 
 tot bedrijven die GNSS toepassingen ontwerpen, testen, inbouwen of onderhouden.
 
-CGC’s dienen integraal onderdeel uit te maken van een satellietsysteem en dienen onder controle te staan van het satellietcapaciteits- en netwerkbeheersmechanisme.
-
 ### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
+
+De band van 24,25 GHz tot 26,65 GHz is op NIB-basis mede bestemd voor kortbereikradarapparatuur in motorvoertuigen voor zover typegoedkeuring van het voertuig voor 1 januari 2018 is verleend. Zie verder [Regeling gebruik van frequentieruimte zonder vergunning en zonder meldingsplicht 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036378).
 
 Het verdeelmechanisme voor commerciële telecommunicatiedienstverlening aan derden is verdeling op afroep. Het betreft de gebruiksrechten op de banddelen 453,26875 – 454,76875 MHz 463,26875 – 464,76875 MHz en vanaf 1 juli 2035 ook de banddelen 451,76875 – 453,26875 MHz en 461,76875 – 463,26875 MHz.
 
@@ -2786,9 +2788,9 @@ Vaste verbindingen worden ook wel straalverbindingen genoemd. Hierbij wordt gebr
 
 **VOR** – **VHF Omnidirectional Radio range** / Navigatiesysteem voor de luchtvaart.
 
-**VSAT**
-
 ### Annex 5, Summary of this Dutch Frequency Plan
+
+**Very small aperture terminal.**Een klein satellietgrondstation, vaak draagbaar, op een vaste plaats of verplaatsbaar, dat draadloos in verbinding staat met een communicatiesatelliet.
 
 **WRC –** **World Radio Conference**
 
@@ -2854,15 +2856,21 @@ Postbus 20401
 
 2500 EK Den Haag
 
+Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
+
+CGC’s dienen integraal onderdeel uit te maken van een satellietsysteem en dienen onder controle te staan van het satellietcapaciteits- en netwerkbeheersmechanisme.
+
+### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
+
+**VSAT**
+
+### Annex 5, Summary of this Dutch Frequency Plan
+
 Telefoon (070) 379 89 11
 
 Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
 
-De band van 24,25 GHz tot 26,65 GHz is op NIB-basis mede bestemd voor kortbereikradarapparatuur in motorvoertuigen voor zover typegoedkeuring van het voertuig voor 1 januari 2018 is verleend. Zie verder [Regeling gebruik van frequentieruimte zonder vergunning en zonder meldingsplicht 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036378).
-
 ### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
-
-**Very small aperture terminal.**Een klein satellietgrondstation, vaak draagbaar, op een vaste plaats of verplaatsbaar, dat draadloos in verbinding staat met een communicatiesatelliet.
 
 ### Annex 5, Summary of this Dutch Frequency Plan
 
