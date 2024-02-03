@@ -4,7 +4,7 @@ identifier: "BWBR0049326"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-02-03"
-last_updated: "2023-10-16"
+last_updated: "2024-02-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049326"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ De Kwartiermaker is verantwoordelijk voor (de voorbereiding van) de oprichting e
 
 ##### Artikel 3. Mandaat, volmacht en machtiging
 
-1. Aan de Kwartiermaker wordt mandaat, volmacht en machtiging verleend voor alle aangelegenheden die vallen binnen zijn verantwoordelijkheid als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049326&artikel=2&z=2024-02-03&g=2023-10-16) en de volgende daarbij behorende taken:
+1. Aan de Kwartiermaker wordt mandaat, volmacht en machtiging verleend voor alle aangelegenheden die vallen binnen zijn verantwoordelijkheid als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049326&artikel=2&z=2024-02-03&g=2024-02-03) en de volgende daarbij behorende taken:
 
 - a. Een nadere uitwerking van de taken en bevoegdheden van de Belangenbehartiger;
 
