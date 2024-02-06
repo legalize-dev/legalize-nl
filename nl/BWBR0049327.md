@@ -4,7 +4,7 @@ identifier: "BWBR0049327"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-10"
-last_updated: "2023-11-15"
+last_updated: "2024-02-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049327"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 - b. **Ministerie van OCW:** Ministerie van Onderwijs, Cultuur en Wetenschap
 
-- c. **commissie:** commissie die onderzoek gaat doen naar de mogelijkheden voor verlaging van het aantal proeven met niet-humane primaten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049327&artikel=2&z=2024-02-06&g=2023-11-15);
+- c. **commissie:** commissie die onderzoek gaat doen naar de mogelijkheden voor verlaging van het aantal proeven met niet-humane primaten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049327&artikel=2&z=2024-02-06&g=2024-02-06);
 
 - d. **dierproef:** elk al dan niet invasief gebruik van een dier voor experimentele of andere wetenschappelijke doeleinden, waarvan het resultaat bekend of onbekend is, of onderwijskundige doeleinden, die bij het dier evenveel of meer pijn, lijden, angst of blijvende schade kan veroorzaken als, dan wel dan het inbrengen van een naald volgens goed diergeneeskundig vakmanschap. Dit omvat ieder gebruik waarvan het doel of het mogelijke gevolg de geboorte of het uit het ei breken van een dier is, dan wel het in een dergelijke toestand brengen en houden van een genetisch gemodificeerde dierenlijn, met inbegrip van het doden van dieren ten behoeve van het gebruik van hun organen, weefsels of lichaamsvloeistoffen voor een doel genoemd in [artikel 1c van de Wet op de dierproeven](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=1c).
 
@@ -138,11 +138,11 @@ De commissie verstrekt aan de minister desgevraagd de door de minister gewenste 
 
 1. De kosten van de commissie komen, voor zover goedgekeurd, voor rekening van de minister. Onder kosten worden in ieder geval verstaan:
 
-- a. vergoedingen aan de leden van de commissie als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0049327&artikel=11&z=2024-02-06&g=2023-11-15);
+- a. vergoedingen aan de leden van de commissie als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0049327&artikel=11&z=2024-02-06&g=2024-02-06);
 
 - b. binnenlandse reiskosten van de leden van de commissie;
 
-- c. de kosten voor de faciliteiten van vergaderingen en voor secretariële ondersteuning, en externe personen zoals bedoeld in [artikel 7, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049327&artikel=7&z=2024-02-06&g=2023-11-15); en,
+- c. de kosten voor de faciliteiten van vergaderingen en voor secretariële ondersteuning, en externe personen zoals bedoeld in [artikel 7, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049327&artikel=7&z=2024-02-06&g=2024-02-06); en,
 
 - d. de kosten voor publicatie van rapportages.
 
