@@ -4,7 +4,7 @@ identifier: "BWBR0049330"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-02-07"
-last_updated: "2023-01-01"
+last_updated: "2024-02-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049330"
 soort: "ministeriele-regeling"
@@ -126,7 +126,7 @@ Elk van de clustermanagers en dienstverleningsmanagers is verantwoordelijk voor:
 
 ##### Artikel 5
 
-Naast het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049330&paragraaf=3&artikel=3&z=2024-02-07&g=2023-01-01)gestelde, is het afdelingshoofd Operatie verantwoordelijk voor:
+Naast het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049330&paragraaf=3&artikel=3&z=2024-02-07&g=2024-02-07)gestelde, is het afdelingshoofd Operatie verantwoordelijk voor:
 
 - a. het doorontwikkelen van de afdeling Operatie, waarbij invulling wordt gegeven aan de visie en waarden van de Rijksschoonmaakorganisatie;
 
@@ -138,7 +138,7 @@ Naast het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049330&paragra
 
 ##### Artikel 6
 
-Naast het in[artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049330&paragraaf=3&artikel=4&z=2024-02-07&g=2023-01-01) gestelde is de manager Dienstverlening verantwoordelijk voor:
+Naast het in[artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049330&paragraaf=3&artikel=4&z=2024-02-07&g=2024-02-07) gestelde is de manager Dienstverlening verantwoordelijk voor:
 
 - a. het inrichten van de operationele bedrijfsadministratie, waaronder het beheer van de informatie over dienstverleningsafspraken, het ruimtebeheer van de panden en ruimtes en het beheer van de afspraken over de budgetten met betrekking tot de panden;
 
@@ -150,7 +150,7 @@ Naast het in[artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049330&paragraa
 
 ##### Artikel 7
 
-Naast het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049330&paragraaf=3&artikel=4&z=2024-02-07&g=2023-01-01) gestelde zijn de dienstverleningsmanagers verantwoordelijk voor:
+Naast het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049330&paragraaf=3&artikel=4&z=2024-02-07&g=2024-02-07) gestelde zijn de dienstverleningsmanagers verantwoordelijk voor:
 
 - a. de organisatie van de operationele schoonmaakwerkzaamheden en alle bijbehorende processen in de eigen verzorgingsregio;
 
@@ -162,7 +162,7 @@ Naast het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049330&paragra
 
 ##### Artikel 8
 
-Naast het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049330&paragraaf=3&artikel=3&z=2024-02-07&g=2023-01-01) gestelde is het afdelingshoofd Bedrijfsvoering & Bestuursondersteuning verantwoordelijk voor:
+Naast het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049330&paragraaf=3&artikel=3&z=2024-02-07&g=2024-02-07) gestelde is het afdelingshoofd Bedrijfsvoering & Bestuursondersteuning verantwoordelijk voor:
 
 - a. het doorontwikkelen van de afdeling Bedrijfsvoering & Bestuursondersteuning, waarbij invulling wordt gegeven aan de visie en waarden van de Rijksschoonmaakorganisatie;
 
@@ -180,7 +180,7 @@ Naast het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049330&paragra
 
 ##### Artikel 9
 
-1. Naast het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049330&paragraaf=3&artikel=4&z=2024-02-07&g=2023-01-01) gestelde is de manager Human Resources verantwoordelijk voor:
+1. Naast het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049330&paragraaf=3&artikel=4&z=2024-02-07&g=2024-02-07) gestelde is de manager Human Resources verantwoordelijk voor:
 
 - a. de implementatie en nadere uitwerking van kaderstelling, het advies met betrekking tot organisatie en personeel en de daaraan verbonden juridische aspecten, mede op basis van rijksbrede en departementale kaders;
 
@@ -194,7 +194,7 @@ Naast het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049330&paragra
 
 ##### Artikel 10
 
-Naast het onder [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049330&paragraaf=3&artikel=4&z=2024-02-07&g=2023-01-01) gestelde is de manager Financiën, Facilitair & Inkoop verantwoordelijk voor:
+Naast het onder [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049330&paragraaf=3&artikel=4&z=2024-02-07&g=2024-02-07) gestelde is de manager Financiën, Facilitair & Inkoop verantwoordelijk voor:
 
 - a. het voeren van een correcte financiële, facilitaire en inkoopadministratie waarmee doelmatigheid en rechtmatigheid van handelen gewaarborgd worden;
 
@@ -202,7 +202,7 @@ Naast het onder [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049330&para
 
 ##### Artikel 11
 
-Naast het onder [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049330&paragraaf=3&artikel=4&z=2024-02-07&g=2023-01-01) gestelde is de manager Planning & Control verantwoordelijk voor:
+Naast het onder [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049330&paragraaf=3&artikel=4&z=2024-02-07&g=2024-02-07) gestelde is de manager Planning & Control verantwoordelijk voor:
 
 - a. het zorgdragen voor de regie op de (RSO)cyclus van plannen, begroten, verantwoorden en bijsturen, inclusief de inrichting van het integraal risicomanagement;
 
