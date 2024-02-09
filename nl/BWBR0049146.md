@@ -4,7 +4,7 @@ identifier: "BWBR0049146"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-09-16"
-last_updated: "2024-01-01"
+last_updated: "2024-02-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049146"
 soort: "zbo"
@@ -43,7 +43,7 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel I
 
-Het subsidieplafond van het [Reglement Stimuleringsmaatregel Filmproductie in Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0047791) voor filmproducties voor het kalenderjaar 2024 is € 27.500.000,– (zegge: zevenentwintig miljoen vijfhonderdduizend euro). (€ 6.880.000,– (zegge: zes miljoen achthonderdtachtigduizend euro) per aanvraagronde).
+Het subsidieplafond van het [Reglement Stimuleringsmaatregel Filmproductie in Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0047791) voor filmproducties voor het kalenderjaar 2024 is € 27.500.000,– (zegge: zevenentwintig miljoen vijfhonderdduizend euro). (€ 7.700.000,– (zegge: zeven miljoen zevenhonderdduizend euro) voor de eerste aanvraagronde en € 6.600.000,– (zegge: zes miljoen zeshonderdduizend euro) per volgende aanvraagronde). Per aanvraagronde worden als eerste alle internationale coproducties gehonoreerd tot maximaal 70% van het budget.
 
 ##### Artikel II
 
