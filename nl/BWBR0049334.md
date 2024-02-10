@@ -4,7 +4,7 @@ identifier: "BWBR0049334"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-02-10"
-last_updated: "2022-12-01"
+last_updated: "2024-02-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049334"
 soort: "ministeriele-regeling"
@@ -40,8 +40,6 @@ Gelet op [artikel 3, tweede lid, van het Mandaatbesluit Ministerie van Justitie 
 
 Besluit:
 
-Werkt terug tot en met 1 september 2022 voor zover het de verlening van ondermandaat aan de decaan van de NCTV Academie betreft.
-
 ##### Artikel 1
 
 Van het ingevolge [artikel 1, eerste lid, onderdeel d, van het Mandaatbesluit NCTV Ministerie van Justitie en Veiligheid 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042181&artikel=1) aan de directeur Strategie, Analyse Nationale Veiligheid en Bedrijfsvoering verleende ondermandaat wordt ten aanzien van de aangelegenheden die hun afdeling dan wel academie betreffen ondermandaat verleend aan:
@@ -56,7 +54,7 @@ Van het ingevolge [artikel 1, eerste lid, onderdeel d, van het Mandaatbesluit NC
 
 ##### Artikel 2
 
-De in [artikel 1, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0049334&artikel=1&z=2024-02-10&g=2022-12-01), genoemde functionarissen wordt toegestaan elkaar volledig te vervangen. Zij treden daarbij in elkaars bevoegdheden.
+De in [artikel 1, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0049334&artikel=1&z=2024-02-10&g=2024-02-10), genoemde functionarissen wordt toegestaan elkaar volledig te vervangen. Zij treden daarbij in elkaars bevoegdheden.
 
 ##### Artikel 3
 
