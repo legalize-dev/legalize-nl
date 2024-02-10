@@ -4,7 +4,7 @@ identifier: "BWBR0049335"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-02-10"
-last_updated: "2022-12-01"
+last_updated: "2024-02-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049335"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ Van het ingevolge [artikel 1, eerste lid, onderdeel a, van het Mandaatbesluit NC
 
 ##### Artikel 2
 
-De in [artikel 1, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0049335&artikel=1&z=2024-02-10&g=2022-12-01), genoemde functionarissen wordt toegestaan elkaar volledig te vervangen. Zij treden daarbij in elkaars bevoegdheden.
+De in [artikel 1, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0049335&artikel=1&z=2024-02-10&g=2024-02-10), genoemde functionarissen wordt toegestaan elkaar volledig te vervangen. Zij treden daarbij in elkaars bevoegdheden.
 
 ##### Artikel 3
 
