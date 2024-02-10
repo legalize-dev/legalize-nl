@@ -4,7 +4,7 @@ identifier: "BWBR0042419"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-30"
-last_updated: "2023-04-01"
+last_updated: "2024-02-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042419"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 ##### Artikel 3. Doel en te subsidiëren activiteiten
 
-1. De minister kan voor de boekjaren in de periode van 1 april 2020 tot en met 31 maart 2024 aan een of meer rechtspersonen jaarlijks een projectsubsidie verstrekken voor:
+1. De minister kan voor de boekjaren in de periode van 1 april 2020 tot en met 31 maart 2025 aan een of meer rechtspersonen jaarlijks een projectsubsidie verstrekken voor:
 
 - a. het organiseren van jaarlijkse nationale vakwedstrijden voor het voorbereidend middelbaar beroepsonderwijs in Nederland, waaronder de voorrondes en finale, en het stimuleren van deelname daaraan;
 
@@ -74,17 +74,25 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 ##### Artikel 4. Subsidieplafond
 
-Voor subsidieverstrekking op grond van deze regeling is voor de periode van 1 april 2020 tot en met 31 maart 2024 per boekjaar beschikbaar:
+1. Voor subsidieverstrekking op grond van deze regeling is voor de periode van 1 april 2020 tot en met 31 maart 2025 per boekjaar beschikbaar:
 
-- a. voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2022-08-01&g=2023-04-01): een bedrag van maximaal € 680.000;
+- a. voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2024-02-10&g=2024-02-10): een bedrag van maximaal € 680.000;
 
-- b. voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2022-08-01&g=2023-04-01): een bedrag van maximaal € 3.600.000;
+- b. voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2024-02-10&g=2024-02-10): een bedrag van maximaal € 3.600.000;
 
-- c. voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2022-08-01&g=2023-04-01): een bedrag van maximaal € 500.000.
+- c. voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2024-02-10&g=2024-02-10): een bedrag van maximaal € 500.000.
+
+2. In afwijking van het eerste lid, onderdeel a, is voor het boekjaar van 1 april 2022 tot en met 31 maart 2023 voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2024-02-10&g=2024-02-10), een bedrag van maximaal € 758.000 beschikbaar.
+
+3. In afwijking van het eerste lid, onderdeel b, is voor het boekjaar van 1 april 2022 tot en met 31 maart 2023 voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2024-02-10&g=2024-02-10), een bedrag van maximaal € 3.827.000 beschikbaar.
+
+4. In afwijking van het eerste lid, onderdeel b, is voor het boekjaar van 1 april 2023 tot en met 31 maart 2024 voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2024-02-10&g=2024-02-10), een bedrag van maximaal € 4.207.000 beschikbaar.
+
+5. In afwijking van het eerste lid, onderdeel b, is voor het boekjaar van 1 april 2024 tot en met 31 maart 2025 voor de activiteit, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2024-02-10&g=2024-02-10), een bedrag van maximaal € 4.428.000 beschikbaar.
 
 ##### Artikel 5. Subsidieaanvraag
 
-1. Voor het boekjaar 2020 wordt uiterlijk 15 oktober 2019 een aanvraag ingediend. De rechtspersoon waaraan subsidie voor het boekjaar 2020 is verstrekt, dient voor de boekjaren 2021, 2022 en 2023 uiterlijk 13 weken voor de aanvang van het boekjaar, waarvoor de subsidie wordt aangevraagd, een aanvraag in.
+1. Voor het boekjaar 2020 wordt uiterlijk 15 oktober 2019 een aanvraag ingediend. De rechtspersoon waaraan subsidie voor het boekjaar 2020 is verstrekt, dient voor de boekjaren 2021, 2022, 2023 en 2024 uiterlijk 13 weken voor de aanvang van het boekjaar, waarvoor de subsidie wordt aangevraagd, een aanvraag in.
 
 2. In aanvulling op [artikel 3.3 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.3) bevat de aanvraag voor het boekjaar 2020:
 
@@ -96,9 +104,9 @@ Voor subsidieverstrekking op grond van deze regeling is voor de periode van 1 ap
 
 3. De in het tweede lid, onderdeel c, bedoelde bescheiden zijn voorzien van een controleverklaring van een accountant.
 
-4. Per activiteit als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2022-08-01&g=2023-04-01), wordt een aanvraag ingediend.
+4. Per activiteit als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2024-02-10&g=2024-02-10), wordt een aanvraag ingediend.
 
-5. Een aanvrager kan voor een of meer van de activiteiten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2022-08-01&g=2023-04-01), een aanvraag indienen.
+5. Een aanvrager kan voor een of meer van de activiteiten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2024-02-10&g=2024-02-10), een aanvraag indienen.
 
 6. De subsidie wordt aangevraagd met het formulier dat is bekendgemaakt op de website www.dus-i.nl/subsidies/vakwedstrijden en kan via deze website worden ingediend.
 
@@ -110,7 +118,7 @@ Voor subsidieverstrekking op grond van deze regeling is voor de periode van 1 ap
 
 3. De minister beslist binnen 13 weken na afloop van de periode waarin de aanvragen kunnen worden ingediend gelijktijdig op de aanvragen.
 
-4. Per activiteit als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2022-08-01&g=2023-04-01), ontvangt één rechtspersoon subsidie. Dezelfde rechtspersoon kan voor meer activiteiten subsidie ontvangen.
+4. Per activiteit als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2024-02-10&g=2024-02-10), ontvangt één rechtspersoon subsidie. Dezelfde rechtspersoon kan voor meer activiteiten subsidie ontvangen.
 
 ##### Artikel 7. Beoordeling subsidieaanvraag
 
@@ -158,7 +166,7 @@ Indien de activiteit waarvoor de subsidie is verleend geheel is verricht en voll
 
 2. De egalisatiereserve bedraagt ten minste € 0 en ten hoogste 10% van het bij het besluit tot verlening bepaalde bedrag van de subsidie.
 
-3. De egalisatiereserve wordt in een boekjaar uitsluitend besteed aan de activiteit bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2022-08-01&g=2023-04-01), waarvoor de subsidieontvanger in dat boekjaar een subsidie heeft ontvangen, en die niet kan worden bekostigd uit de subsidie die is verleend ten behoeve van dat boekjaar.
+3. De egalisatiereserve wordt in een boekjaar uitsluitend besteed aan de activiteit bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042419&artikel=3&z=2024-02-10&g=2024-02-10), waarvoor de subsidieontvanger in dat boekjaar een subsidie heeft ontvangen, en die niet kan worden bekostigd uit de subsidie die is verleend ten behoeve van dat boekjaar.
 
 4. [Paragraaf 8.5 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&paragraaf=8.5) is van overeenkomstige toepassing.
 
@@ -166,7 +174,7 @@ Indien de activiteit waarvoor de subsidie is verleend geheel is verricht en voll
 
 1. Deze regeling treedt in werking met ingang van 15 juli 2019. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 15 juli 2019, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt zij terug tot en met 15 juli 2019.
 
-2. Deze regeling vervalt met ingang van 15 juli 2024.
+2. Deze regeling vervalt met ingang van 15 juli 2025.
 
 ##### Artikel 14. Citeertitel
 
