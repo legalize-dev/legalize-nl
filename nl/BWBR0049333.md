@@ -4,7 +4,7 @@ identifier: "BWBR0049333"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-02-10"
-last_updated: "2024-01-01"
+last_updated: "2024-02-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049333"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ Het collectieve aandeel van de decentrale overheden gezamenlijk in het EMU-saldo
 
 ##### Artikel 3. Onderverdeling naar overheidslaag
 
-Het collectieve aandeel van de decentrale overheden in het EMU-saldo, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049333&artikel=2&z=2024-02-10&g=2024-01-01), wordt uitgesplitst naar:
+Het collectieve aandeel van de decentrale overheden in het EMU-saldo, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049333&artikel=2&z=2024-02-10&g=2024-02-10), wordt uitgesplitst naar:
 
 - a. een aandeel voor de provincies gezamenlijk dat voor 2024 tot en met 2026 wordt vastgesteld -0,10 procent van het bruto binnenlands product;
 
