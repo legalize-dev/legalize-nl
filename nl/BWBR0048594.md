@@ -4,7 +4,7 @@ identifier: "BWBR0048594"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-09-19"
-last_updated: "2023-09-02"
+last_updated: "2024-02-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048594"
 soort: "ministeriele-regeling"
@@ -132,7 +132,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 - b. een begroting; en
 
-- c. indien het project door meerdere partijen wordt uitgevoerd, een door alle partijen als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&artikel=4&z=2023-09-02&g=2023-09-02), ondertekende samenwerkingsovereenkomst.
+- c. indien het project door meerdere partijen wordt uitgevoerd, een door alle partijen als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&artikel=4&z=2024-02-13&g=2024-02-13), ondertekende samenwerkingsovereenkomst.
 
 3. Door het indienen van een aanvraag stemt de subsidieaanvrager ermee in dat het activiteitenplan, met uitzondering van persoonsgegevens, openbaar kan worden gemaakt op de website van DUS-I.
 
@@ -146,21 +146,21 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 ##### Artikel 8. Subsidieplafond
 
-Voor verstrekking van de subsidie op grond van deze regeling is voor de schooljaren 2024–2025, 2025–2026 en 2026–2027 in totaal een bedrag beschikbaar van € 3.375.000,–.
+Voor verstrekking van de subsidie op grond van deze regeling is voor de schooljaren 2024–2025, 2025–2026 en 2026–2027 in totaal een bedrag beschikbaar van € 3.777.117,–.
 
 ##### Artikel 9. Subsidiebedrag
 
-1. De subsidie bedraagt ten hoogste € 120.000,– per subsidieaanvraag voor projecten gericht op activiteiten als bedoeld in [artikel 3, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&artikel=3&z=2023-09-02&g=2023-09-02), verdeeld over de maximale looptijd van drie schooljaren.
+1. De subsidie bedraagt ten hoogste € 120.000,– per subsidieaanvraag voor projecten gericht op activiteiten als bedoeld in [artikel 3, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&artikel=3&z=2024-02-13&g=2024-02-13), verdeeld over de maximale looptijd van drie schooljaren.
 
-2. Voor een project met een looptijd van één schooljaar kan maximaal € 60.000,– worden aangevraagd, waarvan maximaal € 30.000,– beschikbaar is voor de activiteit, bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&artikel=3&z=2023-09-02&g=2023-09-02), en maximaal € 30.000,– beschikbaar is voor de activiteit, bedoeld in artikel 3, tweede lid, onderdeel b.
+2. Voor een project met een looptijd van één schooljaar kan maximaal € 60.000,– worden aangevraagd, waarvan maximaal € 30.000,– beschikbaar is voor de activiteit, bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&artikel=3&z=2024-02-13&g=2024-02-13), en maximaal € 30.000,– beschikbaar is voor de activiteit, bedoeld in artikel 3, tweede lid, onderdeel b.
 
-3. Voor een project met een looptijd van twee schooljaren kan maximaal € 100.000,– worden aangevraagd, waarvan maximaal € 50.000,– beschikbaar is voor de activiteit, bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&artikel=3&z=2023-09-02&g=2023-09-02), en maximaal € 50.000,– beschikbaar is voor de activiteit, bedoeld in artikel 3, tweede lid, onderdeel b.
+3. Voor een project met een looptijd van twee schooljaren kan maximaal € 100.000,– worden aangevraagd, waarvan maximaal € 50.000,– beschikbaar is voor de activiteit, bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&artikel=3&z=2024-02-13&g=2024-02-13), en maximaal € 50.000,– beschikbaar is voor de activiteit, bedoeld in artikel 3, tweede lid, onderdeel b.
 
-4. Voor een project met een looptijd van drie schooljaren kan maximaal € 120.000,– worden aangevraagd, waarvan maximaal € 60.000,– beschikbaar is voor de activiteit, bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&artikel=3&z=2023-09-02&g=2023-09-02), en maximaal € 60.000,– beschikbaar is voor de activiteit, bedoeld in artikel 3, tweede lid, onderdeel b.
+4. Voor een project met een looptijd van drie schooljaren kan maximaal € 120.000,– worden aangevraagd, waarvan maximaal € 60.000,– beschikbaar is voor de activiteit, bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&artikel=3&z=2024-02-13&g=2024-02-13), en maximaal € 60.000,– beschikbaar is voor de activiteit, bedoeld in artikel 3, tweede lid, onderdeel b.
 
-5. Voor activiteiten als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&artikel=3&z=2023-09-02&g=2023-09-02), die de aanvrager besteedt binnen het netwerk van het programma Impuls open leermateriaal wordt jaarlijks € 5.000,– beschikbaar gesteld, tot een maximum van € 15.000,– over drie schooljaren.
+5. Voor activiteiten als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&artikel=3&z=2024-02-13&g=2024-02-13), die de aanvrager besteedt binnen het netwerk van het programma Impuls open leermateriaal wordt jaarlijks € 5.000,– beschikbaar gesteld, tot een maximum van € 15.000,– over drie schooljaren.
 
-6. Indien de middelen niet volledig worden benut in het eerste aanvraagtijdvak, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&artikel=5&z=2023-09-02&g=2023-09-02), wordt het resterende bedrag toegevoegd aan het beschikbare budget voor het tweede aanvraagtijdvak, bedoeld in artikel 5, tweede lid.
+6. Indien de middelen niet volledig worden benut in het eerste aanvraagtijdvak, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&artikel=5&z=2024-02-13&g=2024-02-13), wordt het resterende bedrag toegevoegd aan het beschikbare budget voor het tweede aanvraagtijdvak, bedoeld in artikel 5, tweede lid.
 
 7. Een voorschot of betaling van het subsidiebedrag op Caribisch Nederland wordt uitbetaald in US-dollars tegen de op dat moment vastgestelde wisselkoers.
 
@@ -186,7 +186,7 @@ Voor verstrekking van de subsidie op grond van deze regeling is voor de schoolja
 
 - a. projecten in het primair- en voortgezet onderwijs; en
 
-- b. activiteiten als bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&artikel=3&z=2023-09-02&g=2023-09-02), en activiteiten als bedoeld in artikel 3, tweede lid, onderdeel b.
+- b. activiteiten als bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&artikel=3&z=2024-02-13&g=2024-02-13), en activiteiten als bedoeld in artikel 3, tweede lid, onderdeel b.
 
 ##### Artikel 11. Subsidieverplichtingen
 
@@ -202,7 +202,7 @@ In aanvulling op [hoofdstuk 5 van de Kaderregeling](https://wetten.overheid.nl/j
 
 ##### Artikel 12. Subsidievaststelling, betaling en verantwoording voor bekostigde onderwijsinstellingen
 
-1. De subsidie wordt voor een bevoegd gezag als bedoeld in [artikel 3, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&artikel=3&z=2023-09-02&g=2023-09-02), direct vastgesteld binnen 16 weken na de sluitingsdatum van de betreffende aanvraagperiode, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&artikel=5&z=2023-09-02&g=2023-09-02).
+1. De subsidie wordt voor een bevoegd gezag als bedoeld in [artikel 3, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&artikel=3&z=2024-02-13&g=2024-02-13), direct vastgesteld binnen 16 weken na de sluitingsdatum van de betreffende aanvraagperiode, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&artikel=5&z=2024-02-13&g=2024-02-13).
 
 2. De verantwoording van de subsidie geschiedt in de jaarverslaggeving overeenkomstig de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132) met model G, onderdeel 1, of overeenkomstig de [Regeling jaarverslaggeving onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0031801).
 
@@ -214,9 +214,9 @@ In aanvulling op [hoofdstuk 5 van de Kaderregeling](https://wetten.overheid.nl/j
 
 ##### Artikel 13. Subsidievaststelling, betaling en verantwoording voor profiel onderwijsorganisaties vakverenigingen bij subsidies tot 25.000,–
 
-1. De subsidie wordt voor een vakvereniging of profiel onderwijsorganisatie als bedoeld in [artikel 3, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&artikel=3&z=2023-09-02&g=2023-09-02), verleend binnen 16 weken na de sluitingsdatum van de betreffende aanvraagperiode, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&artikel=5&z=2023-09-02&g=2023-09-02).
+1. De subsidie wordt voor een vakvereniging of profiel onderwijsorganisatie als bedoeld in [artikel 3, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&artikel=3&z=2024-02-13&g=2024-02-13), verleend binnen 16 weken na de sluitingsdatum van de betreffende aanvraagperiode, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&artikel=5&z=2024-02-13&g=2024-02-13).
 
-2. De ontvanger van een subsidie als bedoeld in [artikel 3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&artikel=3&z=2023-09-02&g=2023-09-02), toont op verzoek van de minister op de in de beschikking aangegeven wijze aan dat de activiteiten waarvoor de subsidie is verleend, zijn verricht en dat is voldaan aan de aan de verleende subsidie verbonden verplichtingen.
+2. De ontvanger van een subsidie als bedoeld in [artikel 3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&artikel=3&z=2024-02-13&g=2024-02-13), toont op verzoek van de minister op de in de beschikking aangegeven wijze aan dat de activiteiten waarvoor de subsidie is verleend, zijn verricht en dat is voldaan aan de aan de verleende subsidie verbonden verplichtingen.
 
 3. De minister neemt binnen 22 weken na afloop van de datum waarop de activiteiten waarvoor de subsidie wordt verleend, zijn verricht, ambtshalve een besluit over de vaststelling van de subsidie.
 
@@ -226,7 +226,7 @@ In aanvulling op [hoofdstuk 5 van de Kaderregeling](https://wetten.overheid.nl/j
 
 ##### Artikel 14. Subsidievaststelling, betaling en verantwoording voor profiel onderwijsorganisaties of vakverenigingen bij subsidies vanaf 25.000,–
 
-1. De subsidie wordt voor een vakvereniging of profiel onderwijsorganisatie als bedoeld in [artikel 3, vierde lid onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&artikel=3&z=2023-09-02&g=2023-09-02), verleend binnen 16 weken na de sluitingsdatum van de betreffende aanvraagperiode, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&artikel=5&z=2023-09-02&g=2023-09-02).
+1. De subsidie wordt voor een vakvereniging of profiel onderwijsorganisatie als bedoeld in [artikel 3, vierde lid onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&artikel=3&z=2024-02-13&g=2024-02-13), verleend binnen 16 weken na de sluitingsdatum van de betreffende aanvraagperiode, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&artikel=5&z=2024-02-13&g=2024-02-13).
 
 2. [Artikel 7.6 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.6) is mede van toepassing op subsidies vanaf € 125.000,– tot en met € 135.000,–.
 
