@@ -4,7 +4,7 @@ identifier: "BWBR0049358"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-02-14"
-last_updated: "2024-01-01"
+last_updated: "2024-02-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049358"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Voor het jaar 2024 is voor de beheerskosten Wlz van de Wlz-uitvoerders en de Soc
 
 ##### Artikel 2
 
-Van het genoemde bedrag in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049358&artikel=1&z=2024-02-14&g=2024-01-01) is € 46,213 miljoen bestemd voor de Sociale verzekeringsbank.
+Van het genoemde bedrag in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049358&artikel=1&z=2024-02-14&g=2024-02-14) is € 46,213 miljoen bestemd voor de Sociale verzekeringsbank.
 
 ##### Artikel 3
 
