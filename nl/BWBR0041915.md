@@ -4,7 +4,7 @@ identifier: "BWBR0041915"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-09"
-last_updated: "2023-04-29"
+last_updated: "2024-02-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041915"
 soort: "ministeriele-regeling"
@@ -50,9 +50,9 @@ Het Beleidskader instandhoudingssubsidie woonhuis-rijksmonumenten wordt vastgest
 
 - a. voor activiteiten die plaatsvinden in de kalenderjaren 2019 tot en met 2022 in totaal een bedrag van ten hoogste € 200 miljoen beschikbaar;
 
-- b. voor activiteiten die plaatsvinden in het kalenderjaar 2023 in totaal een bedrag van ten hoogste € 50 miljoen beschikbaar; en
+- b. voor activiteiten die plaatsvinden in het kalenderjaar 2023 in totaal een bedrag van ten hoogste € 52,5 miljoen beschikbaar; en
 
-- c. voor activiteiten die plaatsvinden in het kalenderjaar 2024 in totaal een bedrag van ten hoogste € 50 miljoen beschikbaar.
+- c. voor activiteiten die plaatsvinden in het kalenderjaar 2024 in totaal een bedrag van ten hoogste € 52,5 miljoen beschikbaar.
 
 2. Indien het voor subsidieverstrekking beschikbare bedrag, bedoeld in het eerste lid, onderdeel a, niet volledig wordt uitgeput, worden de resterende middelen toegevoegd aan het beschikbare bedrag, genoemd in het eerste lid, onderdeel b. Indien het voor subsidieverstrekking beschikbare bedrag, bedoeld in het eerste lid, onderdeel b, niet volledig wordt uitgeput, worden de resterende middelen toegevoegd aan het beschikbare bedrag, bedoeld in het eerste lid, onderdeel c.
 
@@ -60,7 +60,7 @@ Het Beleidskader instandhoudingssubsidie woonhuis-rijksmonumenten wordt vastgest
 
 ##### Artikel 3. Wijziging van het besluit
 
-Een besluit tot wijziging van dit besluit wordt niet eerder vastgesteld dan vier weken nadat een ontwerp daarvan aan de Tweede Kamer der Staten-Generaal is overgelegd.
+Een besluit tot wijziging van dit besluit wordt niet eerder vastgesteld dan vier weken nadat een ontwerp daarvan aan de Tweede Kamer der Staten-Generaal is overgelegd, met uitzondering van een besluit tot wijziging dat enkel een verhoging van een subsidieplafond als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041915&artikel=2&z=2024-02-14&g=2024-02-14) behelst.
 
 ##### Artikel 4. Inwerkingtreding en vervaldatum
 
@@ -108,7 +108,7 @@ Om te bepalen welke werkzaamheden subsidiabel zijn, wordt aangesloten bij de [bi
 
 Particuliere eigenaren die in een bepaald jaar voor een rijksmonument voor meer dan € 70.000,– aan kosten subsidie aan willen vragen, kunnen voor aanvang van de werkzaamheden de RCE vragen te beoordelen welk gedeelte van deze kosten subsidiabel is op grond van de [Leidraad](onbekend). Voor een dergelijke beoordeling is in elk geval vereist dat er voldoende inzicht wordt gegeven in de voorgenomen werkzaamheden en dat er een inspectierapport wordt ingediend. Op www.cultureelerfgoed.nl wordt een formulier geplaatst waarvan hiervoor gebruik kan worden gemaakt. Paragraaf 6 bevat de eisen die aan een inspectierapport zijn gesteld. De beoordeling door de RCE heeft het karakter van een mededeling op basis van de dan beschikbare gegevens en is derhalve niet vatbaar voor bezwaar of beroep.
 
-De subsidie bedraagt 38% van de subsidiabele kosten. Indien het beschikbare bedrag, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041915&artikel=2&z=2023-04-29&g=2023-04-29), van het Besluit vaststelling beleidsregels instandhoudingssubsidie woonhuis-rijksmonumenten, in een bepaald kalenderjaar echter ontoereikend is om alle daarvoor in aanmerking komende aanvragen toe te wijzen, wordt dit subsidiepercentage verlaagd tot het hoogst mogelijke percentage waarvoor alle daarvoor in aanmerking komende aanvragen binnen de grenzen van het beschikbare bedrag kunnen worden toegekend.
+De subsidie bedraagt 38% van de subsidiabele kosten. Indien het beschikbare bedrag, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041915&artikel=2&z=2024-02-14&g=2024-02-14), van het Besluit vaststelling beleidsregels instandhoudingssubsidie woonhuis-rijksmonumenten, in een bepaald kalenderjaar echter ontoereikend is om alle daarvoor in aanmerking komende aanvragen toe te wijzen, wordt dit subsidiepercentage verlaagd tot het hoogst mogelijke percentage waarvoor alle daarvoor in aanmerking komende aanvragen binnen de grenzen van het beschikbare bedrag kunnen worden toegekend.
 
 ### 6. Subsidieaanvraag
 
