@@ -4,7 +4,7 @@ identifier: "BWBR0047219"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-20"
-last_updated: "2023-06-17"
+last_updated: "2024-02-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047219"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **minister:** Minister van Justitie en Veiligheid;
 
-- b. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047219&artikel=2&z=2023-06-17&g=2023-06-17);
+- b. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047219&artikel=2&z=2024-02-15&g=2024-02-15);
 
 - c. **Landelijke Eenheid:** de Landelijke eenheid van de politie.
 
@@ -66,7 +66,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3. Samenstelling, benoeming, ontslag
 
-1. De commissie bestaat uit een voorzitter en vier andere leden.
+1. De commissie bestaat uit een voorzitter en drie andere leden.
 
 2. De voorzitter en de andere leden hebben zitting op persoonlijke titel en oefenen hun functie uit zonder last of ruggespraak.
 
@@ -86,13 +86,11 @@ Voor de duur van de commissie worden tot lid van de commissie benoemd:
 
 - a. mr. B.B. (Bernt) Schneiders, tevens voorzitter;
 
-- b. mevr. drs. I.C. (Inge) Bryan;
+- b. prof. mr. dr. E.R. (Erwin) Muller;
 
-- c. prof. mr. dr. E.R. (Erwin) Muller;
+- c. mr. B.W.J. (Bob) Steensma MPA;
 
-- d. mr. B.W.J. (Bob) Steensma MPA;
-
-- e. mevr. drs. Y. I. (Yasemin) Tümer MA.
+- d. mevr. drs. Y. I. (Yasemin) Tümer MA.
 
 ##### Artikel 5. Instellingsduur
 
@@ -112,7 +110,7 @@ Voor de duur van de commissie worden tot lid van de commissie benoemd:
 
 ##### Artikel 7. Werkwijze
 
-1. De commissie stelt haar eigen werkwijze vast. De commissie zorgt daarbij voor actief contact met de werkvloer zodat voldaan kan worden aan de bepaling in [artikel 2 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047219&artikel=2&z=2023-06-17&g=2023-06-17) van dit besluit.
+1. De commissie stelt haar eigen werkwijze vast. De commissie zorgt daarbij voor actief contact met de werkvloer zodat voldaan kan worden aan de bepaling in [artikel 2 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047219&artikel=2&z=2024-02-15&g=2024-02-15) van dit besluit.
 
 2. De leden van de commissie zijn verplicht tot geheimhouding op basis van [artikel 2:5 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:5).
 
@@ -130,7 +128,7 @@ Voor de duur van de commissie worden tot lid van de commissie benoemd:
 
 2. Aan de leden mevr. drs. Y. I. (Yasemin) Tümer MA en mr. B.W.J. (Bob) Steensma MPA wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18, trede 10, zoals opgenomen in de bijlage bij de meest recente CAO Rijk en de arbeidsduurfactor op 8/36.
 
-3. Aan de leden mevr. drs. I.C. (Inge) Bryan en prof. mr. dr. E.R. (Erwin) Muller wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18, trede 10, zoals opgenomen in de bijlage bij de meest recente CAO Rijk en de arbeidsduurfactor op 4/36.
+3. Aan het lid prof. mr. dr. E.R. (Erwin) Muller wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18, trede 10, zoals opgenomen in de bijlage bij de meest recente CAO Rijk en de arbeidsduurfactor op 4/36.
 
 4. De leden ontvangen een vergoeding voor reiskosten gebaseerd op de voet van de regeling, bedoeld in [artikel 2, tweede lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2).
 
