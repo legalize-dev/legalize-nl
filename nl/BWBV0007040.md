@@ -4,7 +4,7 @@ identifier: "BWBV0007040"
 country: "nl"
 rank: "verdrag"
 publication_date: "2024-02-15"
-last_updated: "2023-05-26"
+last_updated: "2024-02-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0007040"
 soort: "verdrag"
@@ -63,7 +63,7 @@ Het doel van dit Verdrag is het vergemakkelijken van de internationale strafrech
 
 ##### Artikel 2. Reikwijdte van dit Verdrag
 
-1. De staten die partij zijn passen dit Verdrag toe op de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=5&z=2023-05-26&g=2023-05-26) vermelde misdrijven.
+1. De staten die partij zijn passen dit Verdrag toe op de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=5&z=2024-02-15&g=2024-02-15) vermelde misdrijven.
 
 2. Elke staat mag, op het tijdstip van ondertekening, of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding of goedkeuring van, of toetreding tot dit Verdrag, of op een later tijdstip, door middel van een schriftelijke kennisgeving aan de depositaris, verklaren dat hij dit Verdrag tevens zal toepassen op een of meer van de misdrijven die in een van de bijlagen bij dit Verdrag zijn opgesomd in relatie tot een andere staat die partij is die de depositaris ervan in kennis heeft gesteld dat hij dit Verdrag zal toepassen op hetzelfde misdrijf, zoals opgesomd in de relevante bijlage, die een integrerend onderdeel van dit Verdrag uitmaakt.
 
@@ -251,7 +251,7 @@ Niets in dit Verdrag belet staten die partij zijn die andere overeenkomsten hebb
 
 ##### Artikel 6. Optionele toepassing van dit Verdrag
 
-Onverminderd [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=2&z=2023-05-26&g=2023-05-26) kunnen de staten die partij zijn overeenkomen dit Verdrag toe te passen op ieder verzoek dat betrekking heeft op gedragingen waarop alle van de volgende voorwaarden van toepassing zijn:
+Onverminderd [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=2&z=2024-02-15&g=2024-02-15) kunnen de staten die partij zijn overeenkomen dit Verdrag toe te passen op ieder verzoek dat betrekking heeft op gedragingen waarop alle van de volgende voorwaarden van toepassing zijn:
 
 - a. de gedraging bestaat uit genocide, een misdrijf tegen de menselijkheid, een oorlogsmisdrijf, het misdrijf agressie, foltering of gedwongen verdwijning krachtens het internationaal recht;
 
@@ -261,19 +261,19 @@ Onverminderd [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&
 
 ##### Artikel 7. Strafbaarstelling
 
-1. Elke staat die partij is neemt de benodigde maatregelen om te waarborgen dat de misdrijven waarop de staat die partij is dit Verdrag toepast in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=2&z=2023-05-26&g=2023-05-26) misdrijven vormen krachtens zijn nationale recht.
+1. Elke staat die partij is neemt de benodigde maatregelen om te waarborgen dat de misdrijven waarop de staat die partij is dit Verdrag toepast in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=2&z=2024-02-15&g=2024-02-15) misdrijven vormen krachtens zijn nationale recht.
 
 2. Elke staat die partij is stelt de in het eerste lid bedoelde misdrijven strafbaar met passende straffen, waarbij rekening wordt gehouden met de ernstige aard ervan.
 
 ##### Artikel 8. Rechtsmacht
 
-1. Iedere staat die partij is, neemt de eventueel noodzakelijke maatregelen tot vestiging van zijn rechtsmacht ten aanzien van de misdrijven waarop dit Verdrag van toepassing is in overeenstemming met [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=2&z=2023-05-26&g=2023-05-26), alsmede elk ander misdrijf waarvan hij kennis heeft gegeven als zijnde van toepassing krachtens artikel 2, tweede lid, in de volgende gevallen:
+1. Iedere staat die partij is, neemt de eventueel noodzakelijke maatregelen tot vestiging van zijn rechtsmacht ten aanzien van de misdrijven waarop dit Verdrag van toepassing is in overeenstemming met [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=2&z=2024-02-15&g=2024-02-15), alsmede elk ander misdrijf waarvan hij kennis heeft gegeven als zijnde van toepassing krachtens artikel 2, tweede lid, in de volgende gevallen:
 
 - a. wanneer de misdrijven worden gepleegd binnen een grondgebied onder zijn rechtsmacht of aan boord van een schip of luchtvaartuig dat in die staat is geregistreerd;
 
 - b. wanneer de verdachte onderdaan van die staat is.
 
-2. Iedere staat die partij is, kan de eventueel noodzakelijke maatregelen nemen tot vestiging van zijn rechtsmacht ten aanzien van de misdrijven waarop dit Verdrag van toepassing is in overeenstemming met [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=2&z=2023-05-26&g=2023-05-26), alsmede elk ander misdrijf waarvan hij kennis heeft gegeven als zijnde van toepassing krachtens artikel 2, tweede lid, in de volgende gevallen:
+2. Iedere staat die partij is, kan de eventueel noodzakelijke maatregelen nemen tot vestiging van zijn rechtsmacht ten aanzien van de misdrijven waarop dit Verdrag van toepassing is in overeenstemming met [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=2&z=2024-02-15&g=2024-02-15), alsmede elk ander misdrijf waarvan hij kennis heeft gegeven als zijnde van toepassing krachtens artikel 2, tweede lid, in de volgende gevallen:
 
 - a. wanneer de verdachte staatloos is en zijn gewone verblijfplaats op het grondgebied van die staat heeft;
 
@@ -293,35 +293,35 @@ De staten die partij zijn voeren verzoeken om samenwerking gedaan ingevolge dit 
 
 ##### Artikel 11. Verjaringstermijn
 
-Voor de toepassing van dit Verdrag geldt voor de misdrijven waarop dit Verdrag in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=2&z=2023-05-26&g=2023-05-26) van toepassing is, geen verjaringstermijn die indruist tegen het internationaal recht.
+Voor de toepassing van dit Verdrag geldt voor de misdrijven waarop dit Verdrag in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=2&z=2024-02-15&g=2024-02-15) van toepassing is, geen verjaringstermijn die indruist tegen het internationaal recht.
 
 ##### Artikel 12. Recht om een melding te doen
 
-1. Iedere staat die partij is neemt de eventueel noodzakelijke maatregelen om te waarborgen dat een persoon die beweert dat de misdrijven waarop die staat die partij is dit Verdrag toepast in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=2&z=2023-05-26&g=2023-05-26), zijn of worden gepleegd het recht heeft tot het doen van een melding bij zijn bevoegde autoriteiten.
+1. Iedere staat die partij is neemt de eventueel noodzakelijke maatregelen om te waarborgen dat een persoon die beweert dat de misdrijven waarop die staat die partij is dit Verdrag toepast in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=2&z=2024-02-15&g=2024-02-15), zijn of worden gepleegd het recht heeft tot het doen van een melding bij zijn bevoegde autoriteiten.
 
 2. De staten die partij zijn verbinden zich ertoe alle ontvangen meldingen onverwijld en onpartijdig te bestuderen, in overeenstemming met hun nationale recht en, indien van toepassing, relevant nationaal beleid.
 
 ##### Artikel 13. Voorlopige maatregelen
 
-1. Iedere staat die partij is, binnen wiens grondgebied zich een persoon bevindt die ervan wordt verdacht een misdrijf waarop die staat dit Verdrag toepast in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=2&z=2023-05-26&g=2023-05-26) te hebben gepleegd, neemt deze in hechtenis of treft andere wettelijke maatregelen ten einde de aanwezigheid van die persoon te waarborgen, nadat deze staat zich ervan heeft overtuigd, na een onderzoek van de deze ter beschikking staande gegevens, dat de omstandigheden zulks rechtvaardigen, in overeenstemming met zijn nationale wetgeving. De hechtenis en andere wettelijke maatregelen mogen slechts zolang worden voortgezet als nodig is om een strafvervolging of een uitleverings- of overleveringsprocedure in te stellen.
+1. Iedere staat die partij is, binnen wiens grondgebied zich een persoon bevindt die ervan wordt verdacht een misdrijf waarop die staat dit Verdrag toepast in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=2&z=2024-02-15&g=2024-02-15) te hebben gepleegd, neemt deze in hechtenis of treft andere wettelijke maatregelen ten einde de aanwezigheid van die persoon te waarborgen, nadat deze staat zich ervan heeft overtuigd, na een onderzoek van de deze ter beschikking staande gegevens, dat de omstandigheden zulks rechtvaardigen, in overeenstemming met zijn nationale wetgeving. De hechtenis en andere wettelijke maatregelen mogen slechts zolang worden voortgezet als nodig is om een strafvervolging of een uitleverings- of overleveringsprocedure in te stellen.
 
 2. Een zodanige staat die partij is stelt onmiddellijk een voorlopig onderzoek naar de feiten in.
 
 3. Aan ieder die zich ingevolge het eerst lid in hechtenis bevindt, dient hulp te worden geboden om zich onmiddellijk in verbinding te stellen met de dichtstbijzijnde bevoegde vertegenwoordiger van de staat waarvan de persoon onderdaan is, of, indien de persoon staatloos is, met de vertegenwoordiger van de staat waar de persoon gewoonlijk verblijft.
 
-4. Wanneer een staat die partij is, ingevolge de bepalingen van dit artikel, een persoon in hechtenis heeft genomen, stelt hij onmiddellijk de in [artikel 8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=8&z=2023-05-26&g=2023-05-26), bedoelde staten die partij zijn in kennis van het feit dat deze persoon zich in hechtenis bevindt en van de omstandigheden die zijn gevangenhouding rechtvaardigen. De staat die partij is die het in het tweede lid bedoelde voorlopige onderzoek verricht, brengt, in voorkomend geval, onverwijld verslag uit van zijn bevindingen aan de genoemde staten die partij zijn en deelt mede, of hij voornemens is rechtsmacht uit te oefenen.
+4. Wanneer een staat die partij is, ingevolge de bepalingen van dit artikel, een persoon in hechtenis heeft genomen, stelt hij onmiddellijk de in [artikel 8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=8&z=2024-02-15&g=2024-02-15), bedoelde staten die partij zijn in kennis van het feit dat deze persoon zich in hechtenis bevindt en van de omstandigheden die zijn gevangenhouding rechtvaardigen. De staat die partij is die het in het tweede lid bedoelde voorlopige onderzoek verricht, brengt, in voorkomend geval, onverwijld verslag uit van zijn bevindingen aan de genoemde staten die partij zijn en deelt mede, of hij voornemens is rechtsmacht uit te oefenen.
 
 ##### Artikel 14. Aut dedere, aut iudicare
 
-1. De staat die partij is, binnen het grondgebied onder wiens rechtsmacht een verdachte van een misdrijf waarop dit Verdrag van toepassing is in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=2&z=2023-05-26&g=2023-05-26), wordt aangetroffen, draagt in de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=8&z=2023-05-26&g=2023-05-26) bedoelde gevallen, indien hij de betrokkene niet uitlevert of overlevert aan een andere staat of aan een bevoegd internationaal strafhof of tribunaal, de zaak voor vervolging over aan zijn bevoegde autoriteiten.
+1. De staat die partij is, binnen het grondgebied onder wiens rechtsmacht een verdachte van een misdrijf waarop dit Verdrag van toepassing is in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=2&z=2024-02-15&g=2024-02-15), wordt aangetroffen, draagt in de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=8&z=2024-02-15&g=2024-02-15) bedoelde gevallen, indien hij de betrokkene niet uitlevert of overlevert aan een andere staat of aan een bevoegd internationaal strafhof of tribunaal, de zaak voor vervolging over aan zijn bevoegde autoriteiten.
 
-2. Deze autoriteiten nemen hun beslissing op dezelfde wijze als in geval van elk ander misdrijf van ernstige aard krachtens de nationale wetgeving van die staat die partij is. In de gevallen bedoeld in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=8&z=2023-05-26&g=2023-05-26), dienen de maatstaven voor de bewijsvoering, vereist voor vervolging en veroordeling, in geen enkel opzicht minder strikt te worden aangelegd dan die welke gelden in de gevallen bedoeld in artikel 8, eerste lid en tweede lid.
+2. Deze autoriteiten nemen hun beslissing op dezelfde wijze als in geval van elk ander misdrijf van ernstige aard krachtens de nationale wetgeving van die staat die partij is. In de gevallen bedoeld in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=8&z=2024-02-15&g=2024-02-15), dienen de maatstaven voor de bewijsvoering, vereist voor vervolging en veroordeling, in geen enkel opzicht minder strikt te worden aangelegd dan die welke gelden in de gevallen bedoeld in artikel 8, eerste lid en tweede lid.
 
 3. Aan ieder tegen wie een vervolging aanhangig wordt gemaakt in verband met een van misdrijven waarop dit Verdrag van toepassing is, dient in alle fasen van de procedure een billijke behandeling te worden gewaarborgd.
 
 ##### Artikel 15. Aansprakelijkheid van rechtspersonen
 
-1. Iedere staat die partij is neemt de eventueel noodzakelijke maatregelen die verenigbaar zijn met zijn rechtsbeginselen om de aansprakelijkheid te vestigen van rechtspersonen voor deelneming aan misdrijven waarop die staat die partij is dit Verdrag toepast in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=2&z=2023-05-26&g=2023-05-26).
+1. Iedere staat die partij is neemt de eventueel noodzakelijke maatregelen die verenigbaar zijn met zijn rechtsbeginselen om de aansprakelijkheid te vestigen van rechtspersonen voor deelneming aan misdrijven waarop die staat die partij is dit Verdrag toepast in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=2&z=2024-02-15&g=2024-02-15).
 
 2. Met inachtneming van de rechtsbeginselen van de staat die partij is, kan deze aansprakelijkheid van rechtspersonen strafrechtelijk, civielrechtelijk of bestuursrechtelijk zijn.
 
@@ -377,7 +377,7 @@ Voor de toepassing van dit Verdrag geldt voor de misdrijven waarop dit Verdrag i
 
 - d. vergoedingen aan getuigen, alsmede hun reis- en verblijfkosten op het grondgebied van de aangezochte staat die partij is.
 
-3. De kosten voor het vervoer naar de verzoekende staat die partij is van een persoon in hechtenis krachtens [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=36&z=2023-05-26&g=2023-05-26) worden gedragen door de verzoekende staat die partij is.
+3. De kosten voor het vervoer naar de verzoekende staat die partij is van een persoon in hechtenis krachtens [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=36&z=2024-02-15&g=2024-02-15) worden gedragen door de verzoekende staat die partij is.
 
 4. De kosten voor het vervoer naar de verzoekende staat die partij is van een persoon om wiens uitlevering is verzocht worden gedragen door de verzoekende staat die partij is.
 
@@ -415,9 +415,9 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 2. Elke staat kan, op het tijdstip van ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding of goedkeuring van of toetreding tot dit Verdrag, of op enig tijdstip daarna, door middel van een verklaring gericht aan de depositaris, laten weten dat verzoeken aan hem gericht dienen te worden langs diplomatieke weg en/of, zo mogelijk door tussenkomst van de Internationale Criminele Politieorganisatie.
 
-3. Om de efficiënte communicatie over de uitvoering van een in overeenstemming met dit Verdrag gedaan individueel verzoek te vergemakkelijken, kan elke staat die partij is, onverminderd [artikel 20, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=II&artikel=20&z=2023-05-26&g=2023-05-26), centrale contactpunten aanwijzen bij zijn bevoegde autoriteiten. Deze contactpunten kunnen met elkaar contact onderhouden over praktische zaken met betrekking tot de uitvoering van een dergelijk verzoek.
+3. Om de efficiënte communicatie over de uitvoering van een in overeenstemming met dit Verdrag gedaan individueel verzoek te vergemakkelijken, kan elke staat die partij is, onverminderd [artikel 20, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=II&artikel=20&z=2024-02-15&g=2024-02-15), centrale contactpunten aanwijzen bij zijn bevoegde autoriteiten. Deze contactpunten kunnen met elkaar contact onderhouden over praktische zaken met betrekking tot de uitvoering van een dergelijk verzoek.
 
-4. Elke staat wijst zijn aangewezen contactpunten aan in overeenstemming met [artikel 85, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VII&artikel=85&z=2023-05-26&g=2023-05-26).
+4. Elke staat wijst zijn aangewezen contactpunten aan in overeenstemming met [artikel 85, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VII&artikel=85&z=2024-02-15&g=2024-02-15).
 
 5. De overbrenging van een verzoek, informatie of mededeling op grond van dit Verdrag kan, wanneer de betrokken staten die partij zijn hiermee instemmen, geschieden door middel van veilige elektronische middelen, daarbij rekening houdend met de noodzaak de vertrouwelijkheid te beschermen en de authenticiteit te waarborgen. In elk geval dient de betrokken staat die partij is op verzoek en te allen tijde de originelen of gewaarmerkte afschriften van de stukken in.
 
@@ -425,15 +425,15 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 1. De verzoeken worden opgesteld in een voor de aangezochte staat die partij is aanvaardbare taal.
 
-2. Elke staat die partij is vermeldt de taal of talen die voor die staat aanvaardbaar zijn door de centrale autoriteiten van de staten die partij zijn in kennis te stellen, of, indien aan de voorwaarden van [artikel 85, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VII&artikel=85&z=2023-05-26&g=2023-05-26), is voldaan, de staat die is aangewezen om bijkomende tussentijdse steun te verlenen.
+2. Elke staat die partij is vermeldt de taal of talen die voor die staat aanvaardbaar zijn door de centrale autoriteiten van de staten die partij zijn in kennis te stellen, of, indien aan de voorwaarden van [artikel 85, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VII&artikel=85&z=2024-02-15&g=2024-02-15), is voldaan, de staat die is aangewezen om bijkomende tussentijdse steun te verlenen.
 
 ### DEEL III. WEDERZIJDSE RECHTSHULP
 
-##### Artikel 23. Reikwijdte van [Deel III](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&z=2023-05-26&g=2023-05-26)
+##### Artikel 23. Reikwijdte van [Deel III](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&z=2024-02-15&g=2024-02-15)
 
 1. De staten die partij zijn verlenen elkaar de ruimst mogelijke wederzijdse rechtshulp bij de opsporing, vervolging en de gerechtelijke procedures met betrekking tot de misdrijven waarop zij dit Verdrag toepassen.
 
-2. Wederzijdse rechtshulp wordt verleend in de ruimst mogelijke mate krachtens de relevante wetten, verdragen, overeenkomsten en regelingen van de aangezochte staat die partij is met betrekking tot opsporing, vervolging en gerechtelijke procedures ten aanzien van de misdrijven waarvoor een rechtspersoon aansprakelijk kan worden gesteld in de verzoekende staat die partij is overeenkomstig [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=15&z=2023-05-26&g=2023-05-26).
+2. Wederzijdse rechtshulp wordt verleend in de ruimst mogelijke mate krachtens de relevante wetten, verdragen, overeenkomsten en regelingen van de aangezochte staat die partij is met betrekking tot opsporing, vervolging en gerechtelijke procedures ten aanzien van de misdrijven waarvoor een rechtspersoon aansprakelijk kan worden gesteld in de verzoekende staat die partij is overeenkomstig [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=15&z=2024-02-15&g=2024-02-15).
 
 ##### Artikel 24. Doel van het verzoek
 
@@ -541,7 +541,7 @@ Indien een staat die partij is die wederzijdse rechtshulp afhankelijk stelt van 
 
 4. Elke gehele of gedeeltelijke weigering van wederzijdse rechtshulp wordt met redenen omkleed.
 
-5. Alvorens een verzoek ingevolge dit artikel te weigeren of de uitvoering ervan uit te stellen op grond van [artikel 32, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=32&z=2023-05-26&g=2023-05-26), overlegt de aangezochte staat die partij is, indien aangewezen, met de verzoekende staat die partij is teneinde te overwegen of rechtshulp kan worden verleend onder de door hem nodig geachte voorwaarden en bepalingen. Indien de verzoekende staat die partij is rechtshulp aanvaardt onder die voorwaarden, dient hij daaraan te voldoen.
+5. Alvorens een verzoek ingevolge dit artikel te weigeren of de uitvoering ervan uit te stellen op grond van [artikel 32, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=32&z=2024-02-15&g=2024-02-15), overlegt de aangezochte staat die partij is, indien aangewezen, met de verzoekende staat die partij is teneinde te overwegen of rechtshulp kan worden verleend onder de door hem nodig geachte voorwaarden en bepalingen. Indien de verzoekende staat die partij is rechtshulp aanvaardt onder die voorwaarden, dient hij daaraan te voldoen.
 
 ##### Artikel 31. Beperkingen aan doorzending en gebruik van informatie en bewijsmateriaal
 
@@ -581,7 +581,7 @@ Indien een staat die partij is die wederzijdse rechtshulp afhankelijk stelt van 
 
 2. De aangezochte staat die partij is stemt in met het verhoor per videoconferentie, mits het gebruik van videoconferentie niet in strijd is met de grondbeginselen van zijn nationale recht en mits die staat over de technische middelen beschikt om het verhoor door middel van videoconferentie uit te voeren. Indien de aangezochte staat die partij is niet over de technische middelen beschikt om het verhoor door middel van videoconferentie uit te voeren, kunnen dergelijke middelen in onderlinge overeenstemming aan hem ter beschikking worden gesteld door de verzoekende staat die partij is.
 
-3. Verzoeken om een verhoor per videoconferentie bevatten, naast de in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=25&z=2023-05-26&g=2023-05-26) bedoelde informatie, de naam van de rechterlijke autoriteit die het verhoor leidt of, indien de aangezochte staat die partij is daarmee instemt, een andere bevoegde autoriteit die het verhoor leidt.
+3. Verzoeken om een verhoor per videoconferentie bevatten, naast de in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=25&z=2024-02-15&g=2024-02-15) bedoelde informatie, de naam van de rechterlijke autoriteit die het verhoor leidt of, indien de aangezochte staat die partij is daarmee instemt, een andere bevoegde autoriteit die het verhoor leidt.
 
 4. De rechterlijke autoriteit van de aangezochte staat die partij is, kan de betrokkene oproepen te verschijnen op de in zijn nationale recht voorgeschreven wijze.
 
@@ -661,7 +661,7 @@ Indien een staat die partij is die wederzijdse rechtshulp afhankelijk stelt van 
 
 3. Infiltratie-operaties vinden plaats volgens het nationale recht en de nationale procedures van de staat die partij is op het grondgebied waarvan zij worden uitgevoerd. De bevoegde autoriteiten van de betrokken staten die partij zijn werken samen bij de voorbereiding van en het toezicht op de infiltratie, alsook bij het treffen van regelingen voor de veiligheid van de functionarissen die onder een valse of fictieve identiteit optreden.
 
-4. Voor de toepassing van het tweede lid vermeldt elke staat die partij is wie de bevoegde autoriteiten zijn aan de centrale autoriteiten van de staten die partij zijn, of, indien aan de voorwaarden van [artikel 85, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VII&artikel=85&z=2023-05-26&g=2023-05-26), is voldaan, aan de staat die is aangewezen om bijkomende tussentijdse steun te verlenen.
+4. Voor de toepassing van het tweede lid vermeldt elke staat die partij is wie de bevoegde autoriteiten zijn aan de centrale autoriteiten van de staten die partij zijn, of, indien aan de voorwaarden van [artikel 85, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VII&artikel=85&z=2024-02-15&g=2024-02-15), is voldaan, aan de staat die is aangewezen om bijkomende tussentijdse steun te verlenen.
 
 ##### Artikel 41. Gemeenschappelijke onderzoeksteams
 
@@ -675,7 +675,7 @@ Indien een staat die partij is die wederzijdse rechtshulp afhankelijk stelt van 
 
 3. Een verzoek om instelling van een gemeenschappelijk onderzoeksteam kan van elk van de betrokken staten die partij zijn uitgaan. Het team wordt ingesteld bij een van de staten die partij zijn waar het onderzoek naar verwachting zal worden uitgevoerd.
 
-4. Naast de in de desbetreffende bepalingen van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=25&z=2023-05-26&g=2023-05-26) bedoelde informatie omvatten de verzoeken tot oprichting van een gemeenschappelijk onderzoeksteam voorstellen voor de samenstelling van het team, het doel van het gemeenschappelijk onderzoeksteam en de duur ervan.
+4. Naast de in de desbetreffende bepalingen van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=25&z=2024-02-15&g=2024-02-15) bedoelde informatie omvatten de verzoeken tot oprichting van een gemeenschappelijk onderzoeksteam voorstellen voor de samenstelling van het team, het doel van het gemeenschappelijk onderzoeksteam en de duur ervan.
 
 5. Een gemeenschappelijk onderzoeksteam is onder de volgende algemene voorwaarden actief op het grondgebied van de staten die partij zijn die het team hebben opgericht:
 
@@ -741,15 +741,15 @@ Indien een staat die partij is die wederzijdse rechtshulp afhankelijk stelt van 
 
 - h. de autoriteiten van de staat die partij is waarvan de observerende rechtshandhavers afkomstig zijn, verlenen op verzoek van de autoriteiten van de staat die partij is op het grondgebied waarvan de observatie plaatsvindt medewerking aan onderzoek na afloop van het optreden waaraan zij hebben deelgenomen, met inbegrip van gerechtelijke procedures.
 
-5. Voor de toepassing van het derde lid vermeldt elke staat die partij is de bevoegde autoriteiten door de centrale autoriteiten van de staten die partij zijn daarvan in kennis te stellen, of, indien aan de voorwaarden van [artikel 85, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VII&artikel=85&z=2023-05-26&g=2023-05-26), is voldaan, de staat die is aangewezen om bijkomende tussentijdse steun te verlenen.
+5. Voor de toepassing van het derde lid vermeldt elke staat die partij is de bevoegde autoriteiten door de centrale autoriteiten van de staten die partij zijn daarvan in kennis te stellen, of, indien aan de voorwaarden van [artikel 85, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VII&artikel=85&z=2024-02-15&g=2024-02-15), is voldaan, de staat die is aangewezen om bijkomende tussentijdse steun te verlenen.
 
 ##### Artikel 43. Strafrechtelijke aansprakelijkheid van functionarissen
 
-Tijdens een optreden, bedoeld in de [artikelen 39](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=39&z=2023-05-26&g=2023-05-26), [40](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=40&z=2023-05-26&g=2023-05-26), [41](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=41&z=2023-05-26&g=2023-05-26) of [42](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=42&z=2023-05-26&g=2023-05-26), worden functionarissen uit een andere staat die partij is dan de staat die partij is waar het optreden plaatsvindt, met functionarissen van laatstbedoelde staat die partij is gelijkgesteld, voor wat betreft de strafbare feiten die tegen of door hen mochten worden begaan, tenzij door de betrokken staten die partij zijn anders wordt overeengekomen.
+Tijdens een optreden, bedoeld in de [artikelen 39](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=39&z=2024-02-15&g=2024-02-15), [40](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=40&z=2024-02-15&g=2024-02-15), [41](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=41&z=2024-02-15&g=2024-02-15) of [42](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=42&z=2024-02-15&g=2024-02-15), worden functionarissen uit een andere staat die partij is dan de staat die partij is waar het optreden plaatsvindt, met functionarissen van laatstbedoelde staat die partij is gelijkgesteld, voor wat betreft de strafbare feiten die tegen of door hen mochten worden begaan, tenzij door de betrokken staten die partij zijn anders wordt overeengekomen.
 
 ##### Artikel 44. Burgerrechtelijke aansprakelijkheid van functionarissen
 
-1. Wanneer functionarissen van een staat die partij is overeenkomstig de [artikelen 39](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=39&z=2023-05-26&g=2023-05-26), [40](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=40&z=2023-05-26&g=2023-05-26), [41](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=41&z=2023-05-26&g=2023-05-26) of [42](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=42&z=2023-05-26&g=2023-05-26) in een andere staat die partij is optreden, is de eerstgenoemde staat die partij is overeenkomstig het nationale recht van de staat die partij is op het grondgebied waarvan het optreden plaatsvindt aansprakelijk voor de schade die zij aldaar tijdens hun optreden veroorzaken.
+1. Wanneer functionarissen van een staat die partij is overeenkomstig de [artikelen 39](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=39&z=2024-02-15&g=2024-02-15), [40](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=40&z=2024-02-15&g=2024-02-15), [41](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=41&z=2024-02-15&g=2024-02-15) of [42](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=42&z=2024-02-15&g=2024-02-15) in een andere staat die partij is optreden, is de eerstgenoemde staat die partij is overeenkomstig het nationale recht van de staat die partij is op het grondgebied waarvan het optreden plaatsvindt aansprakelijk voor de schade die zij aldaar tijdens hun optreden veroorzaken.
 
 2. De staat die partij is waar de in het eerste lid bedoelde schade is veroorzaakt, neemt op zich deze schade te vergoeden op de wijze waarop hij daartoe gehouden zou zijn indien de schade zou zijn veroorzaakt door zijn eigen functionarissen.
 
@@ -761,11 +761,11 @@ Tijdens een optreden, bedoeld in de [artikelen 39](https://wetten.overheid.nl/jc
 
 ##### Artikel 45. Internationale samenwerking ten behoeve van confiscatie
 
-1. Een staat die partij is die met betrekking tot een misdrijf waarop hij dit Verdrag toepast, een verzoek heeft ontvangen tot confiscatie van de opbrengsten van misdrijven of goederen waarvan de waarde overeenkomt met die van deze opbrengsten, met inbegrip van witgewassen goederen, of van goederen, benodigdheden of andere hulpmiddelen die worden gebruikt of bestemd zijn voor gebruik bij dergelijke misdrijven, of andere goederen met het oog op het verlenen van schadeloosstelling aan slachtoffers overeenkomstig [artikel 83, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VI&artikel=83&z=2023-05-26&g=2023-05-26), op zijn grondgebied, stuurt, voor zover dat mogelijk is en in overeenstemming met zijn nationale recht:
+1. Een staat die partij is die met betrekking tot een misdrijf waarop hij dit Verdrag toepast, een verzoek heeft ontvangen tot confiscatie van de opbrengsten van misdrijven of goederen waarvan de waarde overeenkomt met die van deze opbrengsten, met inbegrip van witgewassen goederen, of van goederen, benodigdheden of andere hulpmiddelen die worden gebruikt of bestemd zijn voor gebruik bij dergelijke misdrijven, of andere goederen met het oog op het verlenen van schadeloosstelling aan slachtoffers overeenkomstig [artikel 83, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VI&artikel=83&z=2024-02-15&g=2024-02-15), op zijn grondgebied, stuurt, voor zover dat mogelijk is en in overeenstemming met zijn nationale recht:
 
 - a. aan zijn bevoegde autoriteiten het verzoek ten behoeve van het verkrijgen van een bevel tot confiscatie en voert het uit indien een dergelijke bevel wordt toegekend; of
 
-- b. aan zijn bevoegde autoriteiten, met de bedoeling dit naar de mate waarin verzocht is ten uitvoer te brengen, een bevel tot confiscatie, dat is uitgevaardigd door een rechter op het grondgebied van de verzoekende staat die partij is, voor zover dit betrekking heeft op opbrengsten van misdrijven, goederen, benodigdheden of andere hulpmiddelen die worden gebruikt of bestemd zijn voor misdrijven waarop deze staat dit Verdrag toepast, of andere goederen met het oog op het verlenen van schadeloosstelling aan slachtoffers in overeenstemming met [artikel 83, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VI&artikel=83&z=2023-05-26&g=2023-05-26), die zich bevinden op het grondgebied van de aangezochte staat die partij is.
+- b. aan zijn bevoegde autoriteiten, met de bedoeling dit naar de mate waarin verzocht is ten uitvoer te brengen, een bevel tot confiscatie, dat is uitgevaardigd door een rechter op het grondgebied van de verzoekende staat die partij is, voor zover dit betrekking heeft op opbrengsten van misdrijven, goederen, benodigdheden of andere hulpmiddelen die worden gebruikt of bestemd zijn voor misdrijven waarop deze staat dit Verdrag toepast, of andere goederen met het oog op het verlenen van schadeloosstelling aan slachtoffers in overeenstemming met [artikel 83, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VI&artikel=83&z=2024-02-15&g=2024-02-15), die zich bevinden op het grondgebied van de aangezochte staat die partij is.
 
 2. Naar aanleiding van een verzoek van een andere staat die partij is met rechtsmacht over een misdrijf waarop hij dit Verdrag toepast, neemt de aangezochte staat die partij is voor zover dat mogelijk is en in overeenstemming met zijn nationale recht, maatregelen voor het identificeren, opsporen en bevriezen of in beslag nemen van opbrengsten van misdrijven, goederen, benodigdheden of andere hulpmiddelen die gebruikt of bestemd zijn voor misdrijven waarop hij dit Verdrag toepast, ten behoeve van de mogelijke confiscatie hetzij krachtens een bevel van de verzoekende staat die partij is, hetzij naar aanleiding van een verzoek overeenkomstig het eerste lid van dit artikel door de aangezochte staat die partij is.
 
@@ -781,7 +781,7 @@ Tijdens een optreden, bedoeld in de [artikelen 39](https://wetten.overheid.nl/jc
 
 8. De staten die partij zijn kunnen in de mate die hun respectieve nationale recht toestaat samenwerken met staten die partij zijn die verzoeken om de tenuitvoerlegging van maatregelen die vergelijkbaar zijn met confiscatie en resulteren in de ontneming van goederen doch geen strafrechtelijke sancties zijn, voor zover dergelijke maatregelen worden bevolen door een rechterlijke autoriteit van de verzoekende staat die partij is in verband met misdrijven waarop hij dit Verdrag toepast, op voorwaarde dat vastgesteld is dat de goederen opbrengsten van misdrijven zijn of andere goederen in de zin van het derde tot en met het vijfde lid.
 
-9. In aanvulling op de in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=25&z=2023-05-26&g=2023-05-26) omschreven informatie, bevatten verzoeken die worden gedaan in overeenstemming met dit artikel:
+9. In aanvulling op de in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=25&z=2024-02-15&g=2024-02-15) omschreven informatie, bevatten verzoeken die worden gedaan in overeenstemming met dit artikel:
 
 - a. in het geval van een verzoek dat betrekking heeft op het eerste lid, onderdeel a, een beschrijving van de te confisqueren goederen of activa en een uiteenzetting van de feiten waarop de verzoekende staat die partij is zich baseert en die de aangezochte staat die partij is voldoende in staat stellen om het bevel overeenkomstig zijn nationale recht aan te vragen;
 
@@ -801,11 +801,11 @@ Tijdens een optreden, bedoeld in de [artikelen 39](https://wetten.overheid.nl/jc
 
 ##### Artikel 47. Afhandeling van geconfisqueerde goederen
 
-1. De opbrengsten van misdrijven of goederen die zijn geconfisqueerd door een staat die partij is ingevolge [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=45&z=2023-05-26&g=2023-05-26), worden afgehandeld door die staat die partij is, in overeenstemming met zijn nationale recht en administratieve procedures.
+1. De opbrengsten van misdrijven of goederen die zijn geconfisqueerd door een staat die partij is ingevolge [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=45&z=2024-02-15&g=2024-02-15), worden afgehandeld door die staat die partij is, in overeenstemming met zijn nationale recht en administratieve procedures.
 
-2. Indien handelend naar aanleiding van het verzoek van een andere staat die partij is in overeenstemming met [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=45&z=2023-05-26&g=2023-05-26), nemen de staten die partij zijn, voor zover dit is toegestaan door hun nationale recht en indien daarom is verzocht, met voorrang de teruggave van de geconfisqueerde opbrengsten van misdrijven of goederen waarvan de waarde overeenkomt met die van deze opbrengsten aan de verzoekende staat die partij is in overweging, opdat deze de slachtoffers van de misdrijven waarop de staten die partij zijn dit Verdrag toepassen schadeloos kan stellen of deze opbrengsten van misdrijven of goederen kan teruggeven aan hun rechtmatige eigenaren.
+2. Indien handelend naar aanleiding van het verzoek van een andere staat die partij is in overeenstemming met [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=45&z=2024-02-15&g=2024-02-15), nemen de staten die partij zijn, voor zover dit is toegestaan door hun nationale recht en indien daarom is verzocht, met voorrang de teruggave van de geconfisqueerde opbrengsten van misdrijven of goederen waarvan de waarde overeenkomt met die van deze opbrengsten aan de verzoekende staat die partij is in overweging, opdat deze de slachtoffers van de misdrijven waarop de staten die partij zijn dit Verdrag toepassen schadeloos kan stellen of deze opbrengsten van misdrijven of goederen kan teruggeven aan hun rechtmatige eigenaren.
 
-3. Indien handelend op verzoek van een andere staat die partij is in overeenstemming met [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=45&z=2023-05-26&g=2023-05-26), kan een staat die partij is bijzondere aandacht schenken aan het sluiten van overeenkomsten of regelingen inzake het op regelmatige basis dan wel van geval tot geval met andere staten die partij zijn delen van opbrengsten van misdrijven of goederen, of fondsen afkomstig van de verkoop van dergelijke opbrengsten van misdrijven of goederen, in overeenstemming met zijn nationale recht of administratieve procedures.
+3. Indien handelend op verzoek van een andere staat die partij is in overeenstemming met [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=45&z=2024-02-15&g=2024-02-15), kan een staat die partij is bijzondere aandacht schenken aan het sluiten van overeenkomsten of regelingen inzake het op regelmatige basis dan wel van geval tot geval met andere staten die partij zijn delen van opbrengsten van misdrijven of goederen, of fondsen afkomstig van de verkoop van dergelijke opbrengsten van misdrijven of goederen, in overeenstemming met zijn nationale recht of administratieve procedures.
 
 ##### Artikel 48. Overdracht van vervolging
 
@@ -813,11 +813,11 @@ De staten die partij zijn, overwegen de mogelijkheid strafvervolging aan elkaar 
 
 ### DEEL IV. UITLEVERING
 
-##### Artikel 49. Reikwijdte van [Deel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=IV&z=2023-05-26&g=2023-05-26)
+##### Artikel 49. Reikwijdte van [Deel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=IV&z=2024-02-15&g=2024-02-15)
 
 1. De bepalingen van dit Deel zijn van toepassing op de misdrijven waarop dit Verdrag van toepassing is indien de persoon die het voorwerp is van het verzoek om uitlevering van een staat die partij is zich bevindt op het grondgebied van de aangezochte staat die partij is.
 
-2. Onverminderd [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=IV&artikel=51&z=2023-05-26&g=2023-05-26) wordt uitlevering toegestaan indien op het misdrijf een vrijheidsstraf met een maximum van ten minste een jaar is gesteld, zowel ingevolge de nationale wetgeving van de aangezochte staat die partij is als die van de verzoekende staat die partij is. Wanneer een persoon is veroordeeld tot een gevangenisstraf in de verzoekende staat die partij is, dan dient de nog resterende duur van de gevangenisstraf ten minste zes maanden te bedragen.
+2. Onverminderd [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=IV&artikel=51&z=2024-02-15&g=2024-02-15) wordt uitlevering toegestaan indien op het misdrijf een vrijheidsstraf met een maximum van ten minste een jaar is gesteld, zowel ingevolge de nationale wetgeving van de aangezochte staat die partij is als die van de verzoekende staat die partij is. Wanneer een persoon is veroordeeld tot een gevangenisstraf in de verzoekende staat die partij is, dan dient de nog resterende duur van de gevangenisstraf ten minste zes maanden te bedragen.
 
 3. Indien het verzoek om uitlevering diverse afzonderlijke misdrijven omvat, waarvan er ten minste één een delict betreft waarvoor op grond van dit Verdrag uitlevering is toegestaan terwijl andere niet onder dit Verdrag vallen, kan de aangezochte staat die partij is de bepalingen van dit artikel ook toepassen ten aanzien van de laatstgenoemde strafbare feiten.
 
@@ -861,17 +861,17 @@ Indien een staat die partij is die uitlevering afhankelijk stelt van het bestaan
 
 - h. de overdracht van de opgeëiste persoon hoogstwaarschijnlijk uitzonderlijk ernstige gevolgen voor die persoon heeft, in het bijzonder vanwege de leeftijd of gezondheidstoestand van die persoon;
 
-- i. onverminderd [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=11&z=2023-05-26&g=2023-05-26), het misdrijf is verjaard ingevolge het nationale recht van de aangezochte staat die partij is, tenzij dit zou indruisen tegen het internationaal recht;
+- i. onverminderd [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=11&z=2024-02-15&g=2024-02-15), het misdrijf is verjaard ingevolge het nationale recht van de aangezochte staat die partij is, tenzij dit zou indruisen tegen het internationaal recht;
 
 - j. de aangezochte staat die partij is uitvoering van het verzoek schadelijk acht voor zijn soevereiniteit, veiligheid, openbare orde of enig andere wezenlijke belangen.
 
-3. Alvorens een verzoek ingevolge dit artikel te weigeren of de uitvoering ervan uit te stellen op grond van [artikel 55, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=IV&artikel=55&z=2023-05-26&g=2023-05-26), overlegt de aangezochte staat die partij is, indien aangewezen, met de verzoekende staat die partij is teneinde te overwegen of uitlevering kan worden toegestaan onder de door hem nodig geachte voorwaarden en bepalingen. Indien de verzoekende staat die partij is uitlevering aanvaardt onder die voorwaarden, dient hij daaraan te voldoen.
+3. Alvorens een verzoek ingevolge dit artikel te weigeren of de uitvoering ervan uit te stellen op grond van [artikel 55, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=IV&artikel=55&z=2024-02-15&g=2024-02-15), overlegt de aangezochte staat die partij is, indien aangewezen, met de verzoekende staat die partij is teneinde te overwegen of uitlevering kan worden toegestaan onder de door hem nodig geachte voorwaarden en bepalingen. Indien de verzoekende staat die partij is uitlevering aanvaardt onder die voorwaarden, dient hij daaraan te voldoen.
 
 ##### Artikel 52. Specialiteitsbeginsel
 
 1. Een persoon die is uitgeleverd, wordt noch vervolgd, noch veroordeeld, noch in hechtenis gesteld met het oog op de tenuitvoerlegging van een straf of maatregel, noch aan enige andere beperking van zijn persoonlijke vrijheid onderworpen voor enig ander voor de uitlevering gepleegd misdrijf dan dat waarvoor de persoon werd uitgeleverd, behalve in de volgende gevallen:
 
-- a. wanneer de staat die partij is die de persoon heeft uitgeleverd hierin toestemt. Een verzoek om toestemming dient te worden overgelegd, vergezeld van de in [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=IV&artikel=56&z=2023-05-26&g=2023-05-26) genoemde documenten alsmede alle aanvullende informatie vereist door de staat die partij is die de persoon heeft uitgeleverd. Er kan afstand van het specialiteitsbeginsel worden gedaan voor misdrijven die in aanmerking zouden komen voor uitlevering in overeenstemming met de bepalingen van dit Verdrag, of in overeenstemming met enig ander verdrag dat van toepassing is op de betrokken staten die partij zijn, of in overeenstemming met de beginselen van het internationaal recht of zijn nationale recht, indien dit aanvaardbaar is voor de aangezochte staat die partij is;
+- a. wanneer de staat die partij is die de persoon heeft uitgeleverd hierin toestemt. Een verzoek om toestemming dient te worden overgelegd, vergezeld van de in [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=IV&artikel=56&z=2024-02-15&g=2024-02-15) genoemde documenten alsmede alle aanvullende informatie vereist door de staat die partij is die de persoon heeft uitgeleverd. Er kan afstand van het specialiteitsbeginsel worden gedaan voor misdrijven die in aanmerking zouden komen voor uitlevering in overeenstemming met de bepalingen van dit Verdrag, of in overeenstemming met enig ander verdrag dat van toepassing is op de betrokken staten die partij zijn, of in overeenstemming met de beginselen van het internationaal recht of zijn nationale recht, indien dit aanvaardbaar is voor de aangezochte staat die partij is;
 
 - b. wanneer de persoon, hoewel hij daartoe de mogelijkheid had, niet binnen de 45 dagen die op zijn definitieve invrijheidsstelling volgden, het grondgebied van de staat die partij is waaraan die persoon was uitgeleverd, heeft verlaten of indien hij na dit gebied te hebben verlaten daarin is teruggekeerd.
 
@@ -881,13 +881,13 @@ Indien een staat die partij is die uitlevering afhankelijk stelt van het bestaan
 
 ##### Artikel 53. Verderlevering aan een derde staat
 
-Behoudens het bepaalde in [artikel 52, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=IV&artikel=52&z=2023-05-26&g=2023-05-26), zal de verzoekende staat die partij is, zonder toestemming van de aangezochte staat die partij is, een persoon die aan de verzoekende staat die partij is, is uitgeleverd en door die andere staat die partij is of een derde staat wordt gezocht met betrekking tot misdrijven begaan vóór de uitlevering van die persoon, niet uitleveren aan die andere staat die partij is of aan die derde staat,. De aangezochte staat die partij is kan verzoeken om overlegging van de in [artikel 56, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=IV&artikel=56&z=2023-05-26&g=2023-05-26), bedoelde documenten.
+Behoudens het bepaalde in [artikel 52, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=IV&artikel=52&z=2024-02-15&g=2024-02-15), zal de verzoekende staat die partij is, zonder toestemming van de aangezochte staat die partij is, een persoon die aan de verzoekende staat die partij is, is uitgeleverd en door die andere staat die partij is of een derde staat wordt gezocht met betrekking tot misdrijven begaan vóór de uitlevering van die persoon, niet uitleveren aan die andere staat die partij is of aan die derde staat,. De aangezochte staat die partij is kan verzoeken om overlegging van de in [artikel 56, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=IV&artikel=56&z=2024-02-15&g=2024-02-15), bedoelde documenten.
 
 ##### Artikel 54. Uitlevering van onderdanen
 
-1. Uitlevering kan worden geweigerd op grond van nationaliteit. Wanneer het uitleveringsverzoek op deze grond wordt afgewezen is [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=14&z=2023-05-26&g=2023-05-26) van toepassing.
+1. Uitlevering kan worden geweigerd op grond van nationaliteit. Wanneer het uitleveringsverzoek op deze grond wordt afgewezen is [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=14&z=2024-02-15&g=2024-02-15) van toepassing.
 
-2. Wanneer het een staat die partij is op grond van zijn nationale wetgeving alleen is toegestaan een onderdaan uit te leveren of op andere wijze over te geven op voorwaarde dat deze wordt teruggezonden naar die staat die partij is om de straf te ondergaan die is opgelegd als gevolg van het proces of de procedure waarvoor de uitlevering of overgave van de persoon werd verzocht, en de staat die partij is hiermee instemt alsook met andere voorwaarden die de betrokken staten die partij zijn gepast achten, is een dergelijke voorwaardelijke uitlevering of overgave voldoende om te voldoen aan de in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=14&z=2023-05-26&g=2023-05-26) omschreven verplichting.
+2. Wanneer het een staat die partij is op grond van zijn nationale wetgeving alleen is toegestaan een onderdaan uit te leveren of op andere wijze over te geven op voorwaarde dat deze wordt teruggezonden naar die staat die partij is om de straf te ondergaan die is opgelegd als gevolg van het proces of de procedure waarvoor de uitlevering of overgave van de persoon werd verzocht, en de staat die partij is hiermee instemt alsook met andere voorwaarden die de betrokken staten die partij zijn gepast achten, is een dergelijke voorwaardelijke uitlevering of overgave voldoende om te voldoen aan de in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=14&z=2024-02-15&g=2024-02-15) omschreven verplichting.
 
 3. Indien uitlevering, verzocht met het oog op de tenuitvoerlegging van een straf, wordt geweigerd omdat de opgeëiste persoon onderdaan is van de aangezochte staat die partij is, voert de aangezochte staat die partij is, op verzoek van de verzoekende staat die partij is, de krachtens het nationale recht van de verzoekende staat die partij is opgelegde straf of de rest daarvan uit overeenkomstig de artikelen 75 tot en met 79.
 
@@ -935,11 +935,11 @@ De aangezochte staat die partij is houdt het bestaan en de inhoud van het verzoe
 
 2. Het verzoek om voorlopige aanhouding bevat:
 
-- a. de in [artikel 56, tweede lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=IV&artikel=56&z=2023-05-26&g=2023-05-26), bedoelde informatie, indien vereist ingevolge het nationale recht van de aangezochte staat die partij is;
+- a. de in [artikel 56, tweede lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=IV&artikel=56&z=2024-02-15&g=2024-02-15), bedoelde informatie, indien vereist ingevolge het nationale recht van de aangezochte staat die partij is;
 
 - b. een beschrijving van het misdrijf dat aanleiding gaf tot het verzoek en de onderliggende feiten;
 
-- c. een verklaring omtrent het bestaan van de in [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=IV&artikel=56&z=2023-05-26&g=2023-05-26) bedoelde documenten;
+- c. een verklaring omtrent het bestaan van de in [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=IV&artikel=56&z=2024-02-15&g=2024-02-15) bedoelde documenten;
 
 - d. een verklaring dat een formeel verzoek om uitlevering van de gezochte persoon volgt.
 
@@ -1001,7 +1001,7 @@ Indien de uitlevering van een opgeëiste persoon niet kennelijk wordt uitgeslote
 
 ### DEEL V. OVERBRENGING VAN GEVONNISTE PERSONEN
 
-##### Artikel 66. Reikwijdte van [Deel V](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=V&z=2023-05-26&g=2023-05-26) en definities met betrekking tot de overbrenging van gevonniste personen
+##### Artikel 66. Reikwijdte van [Deel V](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=V&z=2024-02-15&g=2024-02-15) en definities met betrekking tot de overbrenging van gevonniste personen
 
 1. Indien mogelijk en in overeenstemming met de grondbeginselen van het nationale recht, kan een persoon die in een staat die partij is veroordeeld is voor een misdrijf waarop die staat dit Verdrag toepast, worden overgedragen aan een andere staat die partij is teneinde de tegen deze persoon uitgesproken veroordeling te ondergaan. Een overbrenging is tevens mogelijk wanneer de veroordeling is opgelegd wegens een misdrijf waarop dit Verdrag van toepassing is in combinatie met andere misdrijven.
 
@@ -1023,13 +1023,13 @@ Indien de uitlevering van een opgeëiste persoon niet kennelijk wordt uitgeslote
 
 3. Een gevonniste persoon kan overeenkomstig de bepalingen van dit Verdrag, slechts onder de navolgende voorwaarden worden overgebracht:
 
-- a. de persoon is een onderdaan van de tenuitvoerleggende staat die partij is, ook wanneer van toepassing in overeenstemming met [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=9&z=2023-05-26&g=2023-05-26);
+- a. de persoon is een onderdaan van de tenuitvoerleggende staat die partij is, ook wanneer van toepassing in overeenstemming met [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=9&z=2024-02-15&g=2024-02-15);
 
 - b. het vonnis is onherroepelijk;
 
 - c. de gevonniste persoon moet, op het tijdstip van ontvangst van het verzoek om overbrenging, nog ten minste zes maanden van de veroordeling ondergaan of de veroordeling is voor onbepaalde duur;
 
-- d. de gevonniste persoon, of de wettelijke vertegenwoordiger van de gevonniste persoon wanneer gelet op de leeftijd of lichamelijke of geestelijke toestand van de gevonniste persoon een van beide staten dit nodig acht, stemt in met de overbrenging, onverminderd de [artikelen 71](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=V&artikel=71&z=2023-05-26&g=2023-05-26) en [72](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=V&artikel=72&z=2023-05-26&g=2023-05-26);
+- d. de gevonniste persoon, of de wettelijke vertegenwoordiger van de gevonniste persoon wanneer gelet op de leeftijd of lichamelijke of geestelijke toestand van de gevonniste persoon een van beide staten dit nodig acht, stemt in met de overbrenging, onverminderd de [artikelen 71](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=V&artikel=71&z=2024-02-15&g=2024-02-15) en [72](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=V&artikel=72&z=2024-02-15&g=2024-02-15);
 
 - e. de veroordelende staat die partij is en de tenuitvoerleggende staat die partij is zijn het eens over de overbrenging.
 
@@ -1045,7 +1045,7 @@ Indien de uitlevering van een opgeëiste persoon niet kennelijk wordt uitgeslote
 
 3. De informatie omvat:
 
-- a. de naam, datum en plaats van geboorte en, in voorkomend geval wanneer van toepassing overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=9&z=2023-05-26&g=2023-05-26), de nationaliteit van de gevonniste persoon;
+- a. de naam, datum en plaats van geboorte en, in voorkomend geval wanneer van toepassing overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=9&z=2024-02-15&g=2024-02-15), de nationaliteit van de gevonniste persoon;
 
 - b. het eventuele adres van de gevonniste persoon in de tenuitvoerleggende staat die partij is;
 
@@ -1069,7 +1069,7 @@ Indien de uitlevering van een opgeëiste persoon niet kennelijk wordt uitgeslote
 
 3. Op verzoek van de veroordelende staat die partij is verstrekt de tenuitvoerleggende staat die partij is:
 
-- a. een document of verklaring dat de persoon een onderdaan is van de tenuitvoerleggende staat die partij is, ook wanneer van toepassing in overeenstemming met [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=9&z=2023-05-26&g=2023-05-26);
+- a. een document of verklaring dat de persoon een onderdaan is van de tenuitvoerleggende staat die partij is, ook wanneer van toepassing in overeenstemming met [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=9&z=2024-02-15&g=2024-02-15);
 
 - b. een afschrift van het toepasselijke nationale recht van de tenuitvoerleggende staat die partij is waaruit blijkt dat het handelen of het nalaten op grond waarvan de veroordeling in de veroordelende staat die partij is werd uitgesproken, naar het nationale recht van de tenuitvoerleggende staat die partij is een misdrijf oplevert of een misdrijf zou opleveren indien gepleegd op zijn grondgebied;
 
@@ -1083,7 +1083,7 @@ Indien de uitlevering van een opgeëiste persoon niet kennelijk wordt uitgeslote
 
 - b. een opgave van het reeds ondergane gedeelte van een veroordeling, daaronder begrepen informatie over eventuele voorlopige hechtenis, strafvermindering en elke andere voor de tenuitvoerlegging van de veroordeling ter zake dienende omstandigheid;
 
-- c. onverminderd de [artikelen 71](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=V&artikel=71&z=2023-05-26&g=2023-05-26) en [72](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=V&artikel=72&z=2023-05-26&g=2023-05-26), een schriftelijke verklaring met de instemming met de overbrenging als bedoeld in [artikel 67, derde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=V&artikel=67&z=2023-05-26&g=2023-05-26);
+- c. onverminderd de [artikelen 71](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=V&artikel=71&z=2024-02-15&g=2024-02-15) en [72](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=V&artikel=72&z=2024-02-15&g=2024-02-15), een schriftelijke verklaring met de instemming met de overbrenging als bedoeld in [artikel 67, derde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=V&artikel=67&z=2024-02-15&g=2024-02-15);
 
 - d. waar nodig, een medisch of sociaal rapport omtrent de gevonniste persoon, inlichtingen betreffende de behandeling in de veroordelende staat die partij is en elke aanbeveling ten aanzien van zijn verdere behandeling in de tenuitvoerleggende staat die partij is.
 
@@ -1091,7 +1091,7 @@ Indien de uitlevering van een opgeëiste persoon niet kennelijk wordt uitgeslote
 
 ##### Artikel 70. Instemming en verificatie daarvan
 
-1. De veroordelende staat die partij is waarborgt dat de persoon die overeenkomstig [artikel 67, derde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=V&artikel=67&z=2023-05-26&g=2023-05-26), met de overbrenging moet instemmen, dit vrijwillig doet en zich volledig bewust is van de daaruit voortvloeiende rechtsgevolgen. De ten aanzien van een dergelijke instemming te volgen procedure wordt beheerst door het nationale recht van de veroordelende staat die partij is.
+1. De veroordelende staat die partij is waarborgt dat de persoon die overeenkomstig [artikel 67, derde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=V&artikel=67&z=2024-02-15&g=2024-02-15), met de overbrenging moet instemmen, dit vrijwillig doet en zich volledig bewust is van de daaruit voortvloeiende rechtsgevolgen. De ten aanzien van een dergelijke instemming te volgen procedure wordt beheerst door het nationale recht van de veroordelende staat die partij is.
 
 2. De veroordelende staat die partij is stelt de tenuitvoerleggende staat die partij is in de gelegenheid om te onderzoeken via een consul of een andere in overeenstemming met de tenuitvoerleggende staat die partij is aangewezen functionaris, dat de instemming in overeenstemming met de in het eerste lid bedoelde voorwaarden wordt gegeven.
 
@@ -1103,7 +1103,7 @@ Indien de uitlevering van een opgeëiste persoon niet kennelijk wordt uitgeslote
 
 - b. wanneer de betrokken persoon is gevlucht of op andere wijze is teruggekeerd naar de staat van nationaliteit in de wetenschap dat er tegen de persoon een vonnis is uitgesproken in de veroordelende staat die partij is.
 
-2. Op verzoek van de veroordelende staat die partij is, kan de tenuitvoerleggende staat die partij is, voorafgaand aan de ontvangst van de stukken ter ondersteuning van het verzoek, of voorafgaand aan de beslissing op dat verzoek, de gevonniste persoon aanhouden of andere maatregelen nemen teneinde te verzekeren dat de gevonniste persoon op zijn grondgebied blijft in afwachting van de beslissing op het verzoek. Verzoeken tot voorlopige maatregelen moeten vergezeld gaan van de in [artikel 68, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=V&artikel=68&z=2023-05-26&g=2023-05-26), genoemde informatie. De arrestatie van de gevonniste persoon ingevolge dit lid, leidt niet tot een verzwaring van de strafrechtelijke positie van de persoon.
+2. Op verzoek van de veroordelende staat die partij is, kan de tenuitvoerleggende staat die partij is, voorafgaand aan de ontvangst van de stukken ter ondersteuning van het verzoek, of voorafgaand aan de beslissing op dat verzoek, de gevonniste persoon aanhouden of andere maatregelen nemen teneinde te verzekeren dat de gevonniste persoon op zijn grondgebied blijft in afwachting van de beslissing op het verzoek. Verzoeken tot voorlopige maatregelen moeten vergezeld gaan van de in [artikel 68, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=V&artikel=68&z=2024-02-15&g=2024-02-15), genoemde informatie. De arrestatie van de gevonniste persoon ingevolge dit lid, leidt niet tot een verzwaring van de strafrechtelijke positie van de persoon.
 
 3. Met betrekking tot dit artikel is niet vereist dat de gevonniste persoon instemt met de overdracht van de tenuitvoeringlegging van de veroordeling.
 
@@ -1145,17 +1145,17 @@ Indien de uitlevering van een opgeëiste persoon niet kennelijk wordt uitgeslote
 
 1. De bevoegde autoriteiten van de tenuitvoerleggende staat die partij is dienen:
 
-- a. de tenuitvoerlegging van de veroordeling, hetzij rechtstreeks, hetzij op grond van een administratieve of rechterlijke beschikking, in overeenstemming met [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=V&artikel=75&z=2023-05-26&g=2023-05-26) voort te zetten; of
+- a. de tenuitvoerlegging van de veroordeling, hetzij rechtstreeks, hetzij op grond van een administratieve of rechterlijke beschikking, in overeenstemming met [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=V&artikel=75&z=2024-02-15&g=2024-02-15) voort te zetten; of
 
-- b. de veroordeling door middel van een rechterlijke of administratieve procedure om te zetten in een beslissing van die staat, waarbij voor de sanctie opgelegd in de veroordelende staat die partij is een sanctie in de plaats wordt gesteld zoals voor hetzelfde misdrijf door de wet van de tenuitvoerleggende staat die partij is wordt voorgeschreven, in overeenstemming met [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=V&artikel=76&z=2023-05-26&g=2023-05-26).
+- b. de veroordeling door middel van een rechterlijke of administratieve procedure om te zetten in een beslissing van die staat, waarbij voor de sanctie opgelegd in de veroordelende staat die partij is een sanctie in de plaats wordt gesteld zoals voor hetzelfde misdrijf door de wet van de tenuitvoerleggende staat die partij is wordt voorgeschreven, in overeenstemming met [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=V&artikel=76&z=2024-02-15&g=2024-02-15).
 
-2. Elke staat die partij is kan de toepassing van een van de in het eerste lid bedoelde procedures uitsluiten met betrekking tot andere staten die partij zijn door de centrale autoriteiten van de staten die partij zijn, of, indien aan de voorwaarden van [artikel 85, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VII&artikel=85&z=2023-05-26&g=2023-05-26), is voldaan, de staat die is aangewezen om bijkomende tussentijdse steun te verlenen, in kennis te stellen
+2. Elke staat die partij is kan de toepassing van een van de in het eerste lid bedoelde procedures uitsluiten met betrekking tot andere staten die partij zijn door de centrale autoriteiten van de staten die partij zijn, of, indien aan de voorwaarden van [artikel 85, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VII&artikel=85&z=2024-02-15&g=2024-02-15), is voldaan, de staat die is aangewezen om bijkomende tussentijdse steun te verlenen, in kennis te stellen
 
 3. De tenuitvoerleggende staat die partij is stelt desgevraagd voor de overbrenging van de gevonniste persoon de veroordelende staat die partij is in kennis welke van de in het eerste lid bedoelde procedures zal worden gevolgd.
 
 4. De tenuitvoerlegging van de veroordeling wordt beheerst door het nationale recht van de tenuitvoerleggende staat die partij is en alleen die staat is bevoegd ter zake dienende beslissingen te nemen.
 
-5. Een staat die partij is die, ingevolge zijn nationale recht, geen gebruik kan maken van een van de in het eerste lid genoemde procedures voor de tenuitvoerlegging van maatregelen op het grondgebied van een andere staat die partij is, opgelegd aan personen aan wie wegens hun geestelijke toestand het begaan van een misdrijf niet is toegerekend en die bereid is die personen voor verdere behandeling over te nemen, kan de procedures aangeven die door hem in dergelijke gevallen worden gevolgd door de centrale autoriteiten van de staten die partij zijn, of, indien aan de voorwaarden van [artikel 85, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VII&artikel=85&z=2023-05-26&g=2023-05-26), is voldaan, de staat die is aangewezen om bijkomende tussentijdse steun te verlenen, in kennis stellen.
+5. Een staat die partij is die, ingevolge zijn nationale recht, geen gebruik kan maken van een van de in het eerste lid genoemde procedures voor de tenuitvoerlegging van maatregelen op het grondgebied van een andere staat die partij is, opgelegd aan personen aan wie wegens hun geestelijke toestand het begaan van een misdrijf niet is toegerekend en die bereid is die personen voor verdere behandeling over te nemen, kan de procedures aangeven die door hem in dergelijke gevallen worden gevolgd door de centrale autoriteiten van de staten die partij zijn, of, indien aan de voorwaarden van [artikel 85, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VII&artikel=85&z=2024-02-15&g=2024-02-15), is voldaan, de staat die is aangewezen om bijkomende tussentijdse steun te verlenen, in kennis stellen.
 
 ##### Artikel 75. Voortgezette tenuitvoerlegging
 
@@ -1203,7 +1203,7 @@ De tenuitvoerleggende staat die partij is bericht de veroordelende staat die par
 
 2. Een staat die partij is kan doortocht weigeren indien de gevonniste persoon een van zijn onderdanen is.
 
-3. Verzoeken om doortocht en antwoorden daarop worden gecommuniceerd via een in [artikel 21, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=II&artikel=21&z=2023-05-26&g=2023-05-26), bedoeld communicatiekanaal.
+3. Verzoeken om doortocht en antwoorden daarop worden gecommuniceerd via een in [artikel 21, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=II&artikel=21&z=2024-02-15&g=2024-02-15), bedoeld communicatiekanaal.
 
 4. Een staat die partij is kan een verzoek om doortocht van een gevonniste persoon over haar grondgebied ingediend door een derde staat inwilligen indien die staat met een andere staat die partij is, is overeengekomen deze persoon van of naar haar grondgebied over te brengen.
 
@@ -1211,9 +1211,9 @@ De tenuitvoerleggende staat die partij is bericht de veroordelende staat die par
 
 6. De staat die partij is die verzocht wordt doortocht te verlenen kan gevraagd worden de verzekering te geven dat de gevonniste persoon niet zal worden vervolgd of, behoudens het bepaalde in het vijfde lid, in hechtenis zal worden gehouden of aan enige andere beperking van zijn persoonlijke vrijheid zal worden onderworpen op het grondgebied van de doortocht verlenende staat die partij is wegens een misdrijf begaan of veroordeling uitgesproken voorafgaand aan het vertrek van die persoon uit het grondgebied van de veroordelende staat die partij is.
 
-7. Er is geen verzoek om doortocht vereist wanneer gebruik wordt gemaakt van luchtvervoer over het grondgebied van een staat die partij is en er geen landing is voorzien. Een staat die partij is kan vereisen in kennis te worden gesteld van een dergelijke doortocht over zijn grondgebied door de centrale autoriteiten van de staten die partij zijn, of, indien aan de voorwaarden van [artikel 85, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VII&artikel=85&z=2023-05-26&g=2023-05-26), is voldaan, de staat die is aangewezen om bijkomende tussentijdse steun te verlenen, in te lichten.
+7. Er is geen verzoek om doortocht vereist wanneer gebruik wordt gemaakt van luchtvervoer over het grondgebied van een staat die partij is en er geen landing is voorzien. Een staat die partij is kan vereisen in kennis te worden gesteld van een dergelijke doortocht over zijn grondgebied door de centrale autoriteiten van de staten die partij zijn, of, indien aan de voorwaarden van [artikel 85, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VII&artikel=85&z=2024-02-15&g=2024-02-15), is voldaan, de staat die is aangewezen om bijkomende tussentijdse steun te verlenen, in te lichten.
 
-8. In geval van een ongeplande landing is [artikel 65, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=IV&artikel=65&z=2023-05-26&g=2023-05-26), van overeenkomstige toepassing.
+8. In geval van een ongeplande landing is [artikel 65, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=IV&artikel=65&z=2024-02-15&g=2024-02-15), van overeenkomstige toepassing.
 
 ### DEEL VI. SLACHTOFFERS, GETUIGEN, DESKUNDIGEN EN ANDERE PERSONEN
 
@@ -1259,23 +1259,23 @@ De tenuitvoerleggende staat die partij is bericht de veroordelende staat die par
 
 2. Op de in het eerste lid bedoelde Vergadering van de staten die partij zijn, kunnen de staten die partij zijn:
 
-- a. elke overeenkomstig [artikel 87](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VIII&artikel=87&z=2023-05-26&g=2023-05-26) voorgestelde wijziging van dit Verdrag en eventuele aanvullende bijlagen die in overeenstemming met [artikel 88](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VIII&artikel=88&z=2023-05-26&g=2023-05-26) worden voorgesteld, overwegen;
+- a. elke overeenkomstig [artikel 87](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VIII&artikel=87&z=2024-02-15&g=2024-02-15) voorgestelde wijziging van dit Verdrag en eventuele aanvullende bijlagen die in overeenstemming met [artikel 88](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VIII&artikel=88&z=2024-02-15&g=2024-02-15) worden voorgesteld, overwegen;
 
 - b. andere authentieke teksten van dit Verdrag in een officiële taal van de Verenigde Naties overwegen;
 
-- c. het instellen van sobere en kostenefficiënte institutionele regelingen die nodig zijn voor de uitvoering van dit Verdrag, met inbegrip van de in [artikel 85](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VII&artikel=85&z=2023-05-26&g=2023-05-26) bedoelde activiteiten overwegen.
+- c. het instellen van sobere en kostenefficiënte institutionele regelingen die nodig zijn voor de uitvoering van dit Verdrag, met inbegrip van de in [artikel 85](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VII&artikel=85&z=2024-02-15&g=2024-02-15) bedoelde activiteiten overwegen.
 
 3. Niettegenstaande en onverminderd fysieke bijeenkomsten van de Vergadering van de staten die partij zijn, wordt, ter bevordering en aanmoediging van een zo breed mogelijke deelname en relevante communicatie en overleg tussen de staten die partij zijn, zoveel mogelijk gebruik gemaakt van alle beschikbare elektronische communicatiemiddelen en videoconferenties, naargelang van het geval.
 
 ##### Artikel 85. Tussentijdse steun
 
-1. Het Koninkrijk der Nederlanden zal de in [artikel 21, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=II&artikel=21&z=2023-05-26&g=2023-05-26), bedoelde informatie voor operationele doeleinden verzamelen en ter beschikking stellen, zo spoedig als redelijkerwijs mogelijk is tot twee jaar na de datum van nederlegging van de vijftiende akte van bekrachtiging, aanvaarding of goedkeuring van of toetreding tot dit Verdrag.
+1. Het Koninkrijk der Nederlanden zal de in [artikel 21, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=II&artikel=21&z=2024-02-15&g=2024-02-15), bedoelde informatie voor operationele doeleinden verzamelen en ter beschikking stellen, zo spoedig als redelijkerwijs mogelijk is tot twee jaar na de datum van nederlegging van de vijftiende akte van bekrachtiging, aanvaarding of goedkeuring van of toetreding tot dit Verdrag.
 
 2. Het Koninkrijk der Nederlanden kan voorzien in bijkomende tussentijdse steun, waaronder:
 
-- a. het verzamelen en beschikbaar stellen van de informatie voor operationele doeleinden als bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=II&artikel=22&z=2023-05-26&g=2023-05-26); [artikel 40, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=40&z=2023-05-26&g=2023-05-26); [artikel 42, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=42&z=2023-05-26&g=2023-05-26); [artikel 74, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=V&artikel=74&z=2023-05-26&g=2023-05-26), en [artikel 80, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=V&artikel=80&z=2023-05-26&g=2023-05-26);
+- a. het verzamelen en beschikbaar stellen van de informatie voor operationele doeleinden als bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=II&artikel=22&z=2024-02-15&g=2024-02-15); [artikel 40, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=40&z=2024-02-15&g=2024-02-15); [artikel 42, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=42&z=2024-02-15&g=2024-02-15); [artikel 74, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=V&artikel=74&z=2024-02-15&g=2024-02-15), en [artikel 80, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=V&artikel=80&z=2024-02-15&g=2024-02-15);
 
-- b. het treffen van regelingen voor de eerste Vergadering van de staten die partij, zoals bedoeld in [artikel 84, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VII&artikel=84&z=2023-05-26&g=2023-05-26).
+- b. het treffen van regelingen voor de eerste Vergadering van de staten die partij, zoals bedoeld in [artikel 84, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VII&artikel=84&z=2024-02-15&g=2024-02-15).
 
 3. De in het tweede lid bedoelde bijkomende tussentijdse steun kan worden verleend afhankelijk van de beschikbaarheid van vrijwillige financiële bijdragen van de staten die partij zijn ter dekking van de daarmee verband houdende kosten.
 
@@ -1307,7 +1307,7 @@ De tenuitvoerleggende staat die partij is bericht de veroordelende staat die par
 
 1. Te allen tijde na het verstrijken van vijf jaar na de datum van inwerkingtreding van dit Verdrag of na de datum van nederlegging van de vijftiende akte van bekrachtiging, aanvaarding of goedkeuring of toetreding, naargelang van wat het laatst is, kan een staat die partij is aanvullende bijlagen bij dit Verdrag voorstellen die een of meer misdrijven bevatten die niet in een andere bijlage zijn vermeld.
 
-2. Aanvullende bijlagen worden voorgesteld en aangenomen en treden in werking volgens de procedure van [artikel 87, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VIII&artikel=87&z=2023-05-26&g=2023-05-26).
+2. Aanvullende bijlagen worden voorgesteld en aangenomen en treden in werking volgens de procedure van [artikel 87, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VIII&artikel=87&z=2024-02-15&g=2024-02-15).
 
 ##### Artikel 89. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
 
@@ -1323,9 +1323,9 @@ De tenuitvoerleggende staat die partij is bericht de veroordelende staat die par
 
 2. Ten aanzien van iedere staat die dit Verdrag bekrachtigt, aanvaardt, goedkeurt of ertoe toetreedt na de nederlegging van de derde akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, treedt dit Verdrag in werking op de eerste dag van de maand die volgt op het verstrijken van drie maanden na de datum van de nederlegging door de betreffende staat van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
-3. Elke verklaring bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=2&z=2023-05-26&g=2023-05-26), die wordt afgelegd op het tijdstip van bekrachtiging, aanvaarding of goedkeuring van of toetreding tot dit Verdrag, wordt van kracht op de datum van inwerkingtreding van dit Verdrag voor de betrokken staat, in overeenstemming met het eerste of tweede lid.
+3. Elke verklaring bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=2&z=2024-02-15&g=2024-02-15), die wordt afgelegd op het tijdstip van bekrachtiging, aanvaarding of goedkeuring van of toetreding tot dit Verdrag, wordt van kracht op de datum van inwerkingtreding van dit Verdrag voor de betrokken staat, in overeenstemming met het eerste of tweede lid.
 
-4. Elke verklaring bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=2&z=2023-05-26&g=2023-05-26), die is afgelegd na bekrachtiging, aanvaarding of goedkeuring of toetreding, maar vóór de inwerkingtreding van dit Verdrag, wordt van kracht op de datum van inwerkingtreding van dit Verdrag voor de betrokken staat, overeenkomstig het eerste of tweede lid of, indien dit Verdrag ten aanzien van deze staat reeds in werking is getreden, op de eerste dag van de maand die volgt op het verstrijken van drie maanden na de datum van ontvangst van de verklaring door de depositaris.
+4. Elke verklaring bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=2&z=2024-02-15&g=2024-02-15), die is afgelegd na bekrachtiging, aanvaarding of goedkeuring of toetreding, maar vóór de inwerkingtreding van dit Verdrag, wordt van kracht op de datum van inwerkingtreding van dit Verdrag voor de betrokken staat, overeenkomstig het eerste of tweede lid of, indien dit Verdrag ten aanzien van deze staat reeds in werking is getreden, op de eerste dag van de maand die volgt op het verstrijken van drie maanden na de datum van ontvangst van de verklaring door de depositaris.
 
 5. Dit Verdrag is van toepassing op elk verzoek dat wordt ingediend na de datum van inwerkingtreding van dit Verdrag of, indien later, de desbetreffende bijlage voor de betrokken staten die partij zijn, ook indien het desbetreffende handelen of nalaten te handelen zich vóór die datum hebben voorgedaan. Elke staat kan op het tijdstip van ondertekening, bekrachtiging, aanvaarding of goedkeuring van of toetreding tot dit Verdrag of, in voorkomend geval, op het tijdstip van kennisgeving aan de depositaris dat hij ook een of meer bijlagen bij dit Verdrag toepast, bij de depositaris een verklaring neerleggen waarin hij zich het recht voorbehoudt dit Verdrag niet toe te passen op verzoeken in verband met handelen of nalaten te handelen dat zich heeft voorgedaan vóór de door die staat die partij is aangegeven datum, mits deze datum niet later is dan de inwerkingtreding van dit Verdrag of de desbetreffende bijlage voor die staat die partij is.
 
@@ -1341,9 +1341,9 @@ De tenuitvoerleggende staat die partij is bericht de veroordelende staat die par
 
 1. Bij dit Verdrag mogen geen andere voorbehouden worden gemaakt dan die waarin dit artikel voorziet.
 
-2. Een staat kan op het tijdstip van ondertekening, bekrachtiging, aanvaarding of goedkeuring van of toetreding tot dit Verdrag een voorbehoud maken bij [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=39&z=2023-05-26&g=2023-05-26), [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=40&z=2023-05-26&g=2023-05-26) of [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=42&z=2023-05-26&g=2023-05-26), alsmede een voorbehoud als uitdrukkelijk bepaald in [artikel 86, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VIII&artikel=86&z=2023-05-26&g=2023-05-26), of [artikel 90, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VIII&artikel=90&z=2023-05-26&g=2023-05-26).
+2. Een staat kan op het tijdstip van ondertekening, bekrachtiging, aanvaarding of goedkeuring van of toetreding tot dit Verdrag een voorbehoud maken bij [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=39&z=2024-02-15&g=2024-02-15), [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=40&z=2024-02-15&g=2024-02-15) of [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=42&z=2024-02-15&g=2024-02-15), alsmede een voorbehoud als uitdrukkelijk bepaald in [artikel 86, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VIII&artikel=86&z=2024-02-15&g=2024-02-15), of [artikel 90, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VIII&artikel=90&z=2024-02-15&g=2024-02-15).
 
-3. Een staat kan, op het tijdstip van ondertekening, bekrachtiging, aanvaarding of goedkeuring van of toetreding tot dit Verdrag, voor verlengbare termijnen van drie jaar een voorbehoud maken op grond van zijn nationale recht en in overeenstemming met zijn verplichtingen uit hoofde van het internationaal recht, waardoor de vestiging van zijn rechtsmacht uit hoofde van [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=8&z=2023-05-26&g=2023-05-26), wordt beperkt.
+3. Een staat kan, op het tijdstip van ondertekening, bekrachtiging, aanvaarding of goedkeuring van of toetreding tot dit Verdrag, voor verlengbare termijnen van drie jaar een voorbehoud maken op grond van zijn nationale recht en in overeenstemming met zijn verplichtingen uit hoofde van het internationaal recht, waardoor de vestiging van zijn rechtsmacht uit hoofde van [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=8&z=2024-02-15&g=2024-02-15), wordt beperkt.
 
 4. Een staat die een voorbehoud heeft gemaakt in overeenstemming met het tweede of derde lid, kan dit voorbehoud te allen tijde intrekken door middel van een kennisgeving aan de depositaris.
 
@@ -1355,49 +1355,49 @@ De tenuitvoerleggende staat die partij is bericht de veroordelende staat die par
 
 3. Een opzegging doet geen afbreuk aan de verplichtingen van die staat uit hoofde van dit Verdrag met betrekking tot verzoeken die overeenkomstig dit Verdrag zijn gedaan vóór de datum waarop de opzegging van kracht wordt overeenkomstig het tweede lid.
 
-4. Een staat die partij is kan een in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=2&z=2023-05-26&g=2023-05-26), bedoelde verklaring intrekken door de depositaris daarvan in kennis te stellen. Deze terugtrekking wordt van kracht in overeenstemming met de in het tweede en derde lid bedoelde procedure.
+4. Een staat die partij is kan een in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=2&z=2024-02-15&g=2024-02-15), bedoelde verklaring intrekken door de depositaris daarvan in kennis te stellen. Deze terugtrekking wordt van kracht in overeenstemming met de in het tweede en derde lid bedoelde procedure.
 
 ##### Artikel 94. Depositaris en talen
 
 1. Het Koninkrijk België treedt op als depositaris van dit Verdrag en de wijzigingen daarvan.
 
-2. Het origineel van dit Verdrag, waarvan de Engelse, de Franse en de Spaanse tekst gelijkelijk authentiek zijn, alsmede eventuele andere authentieke teksten van dit Verdrag bedoeld in [artikel 84, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VII&artikel=84&z=2023-05-26&g=2023-05-26), wordt nedergelegd bij de depositaris.
+2. Het origineel van dit Verdrag, waarvan de Engelse, de Franse en de Spaanse tekst gelijkelijk authentiek zijn, alsmede eventuele andere authentieke teksten van dit Verdrag bedoeld in [artikel 84, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VII&artikel=84&z=2024-02-15&g=2024-02-15), wordt nedergelegd bij de depositaris.
 
 3. De depositaris:
 
-- a. bewaart de originele teksten en andere authentieke teksten van dit Verdrag bedoeld in [artikel 84, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VII&artikel=84&z=2023-05-26&g=2023-05-26);
+- a. bewaart de originele teksten en andere authentieke teksten van dit Verdrag bedoeld in [artikel 84, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VII&artikel=84&z=2024-02-15&g=2024-02-15);
 
-- b. bereidt voor eensluidend gewaarmerkte afschriften van de oorspronkelijke teksten en van andere authentieke teksten van dit Verdrag, bedoeld in [artikel 84, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VII&artikel=84&z=2023-05-26&g=2023-05-26), voor en zendt deze toe aan de staten die partij zijn bij dit Verdrag en, op verzoek, aan de staten die gerechtigd zijn partij te worden bij dit Verdrag;
+- b. bereidt voor eensluidend gewaarmerkte afschriften van de oorspronkelijke teksten en van andere authentieke teksten van dit Verdrag, bedoeld in [artikel 84, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VII&artikel=84&z=2024-02-15&g=2024-02-15), voor en zendt deze toe aan de staten die partij zijn bij dit Verdrag en, op verzoek, aan de staten die gerechtigd zijn partij te worden bij dit Verdrag;
 
 - c. registreert dit Verdrag bij de Verenigde Naties overeenkomstig [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
 4. De depositaris stelt de staten die partij zijn, toetredende staten en ondertekenaars in kennis van:
 
-- a. elke verklaring die de reikwijdte van dit Verdrag uitbreidt tot het misdrijf of de misdrijven genoemd in een bijlage bij dit Verdrag, in overeenstemming met [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=2&z=2023-05-26&g=2023-05-26);
+- a. elke verklaring die de reikwijdte van dit Verdrag uitbreidt tot het misdrijf of de misdrijven genoemd in een bijlage bij dit Verdrag, in overeenstemming met [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=2&z=2024-02-15&g=2024-02-15);
 
-- b. elke kennisgeving waarin het begrip „onderdanen” wordt omschreven, gedaan in overeenstemming met [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=9&z=2023-05-26&g=2023-05-26);
+- b. elke kennisgeving waarin het begrip „onderdanen” wordt omschreven, gedaan in overeenstemming met [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=9&z=2024-02-15&g=2024-02-15);
 
-- c. elke kennisgeving betreffende de aanwijzing van een centrale autoriteit, in overeenstemming met [artikel 20, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=II&artikel=20&z=2023-05-26&g=2023-05-26);
+- c. elke kennisgeving betreffende de aanwijzing van een centrale autoriteit, in overeenstemming met [artikel 20, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=II&artikel=20&z=2024-02-15&g=2024-02-15);
 
-- d. elke kennisgeving betreffende het communicatiekanaal, in overeenstemming met [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=II&artikel=21&z=2023-05-26&g=2023-05-26);
+- d. elke kennisgeving betreffende het communicatiekanaal, in overeenstemming met [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=II&artikel=21&z=2024-02-15&g=2024-02-15);
 
-- e. elke kennisgeving betreffende de beslechting van geschillen, in overeenstemming met [artikel 86, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VIII&artikel=86&z=2023-05-26&g=2023-05-26);
+- e. elke kennisgeving betreffende de beslechting van geschillen, in overeenstemming met [artikel 86, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VIII&artikel=86&z=2024-02-15&g=2024-02-15);
 
-- f. de nederlegging van een akte van bekrachtiging, aanvaarding of goedkeuring van of toetreding tot een wijziging van dit Verdrag en de data van inwerkingtreding van die wijziging voor de betrokken staten die partij zijn, overeenkomstig [artikel 87, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VIII&artikel=87&z=2023-05-26&g=2023-05-26);
+- f. de nederlegging van een akte van bekrachtiging, aanvaarding of goedkeuring van of toetreding tot een wijziging van dit Verdrag en de data van inwerkingtreding van die wijziging voor de betrokken staten die partij zijn, overeenkomstig [artikel 87, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VIII&artikel=87&z=2024-02-15&g=2024-02-15);
 
-- g. de nederlegging van een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, in overeenstemming met [artikel 89](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VIII&artikel=89&z=2023-05-26&g=2023-05-26);
+- g. de nederlegging van een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, in overeenstemming met [artikel 89](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VIII&artikel=89&z=2024-02-15&g=2024-02-15);
 
-- h. de datum van inwerkingtreding van dit Verdrag , in overeenstemming met [artikel 90, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VIII&artikel=90&z=2023-05-26&g=2023-05-26);
+- h. de datum van inwerkingtreding van dit Verdrag , in overeenstemming met [artikel 90, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VIII&artikel=90&z=2024-02-15&g=2024-02-15);
 
-- i. na de inwerkingtreding van dit Verdrag, de datum van inwerkingtreding van dit Verdrag voor de betrokken staten die partij zijn, in overeenstemming met [artikel 90, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VIII&artikel=90&z=2023-05-26&g=2023-05-26);
+- i. na de inwerkingtreding van dit Verdrag, de datum van inwerkingtreding van dit Verdrag voor de betrokken staten die partij zijn, in overeenstemming met [artikel 90, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VIII&artikel=90&z=2024-02-15&g=2024-02-15);
 
-- j. elke verklaring betreffende de voorlopige toepassing van dit Verdrag, in overeenstemming met [artikel 91, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VIII&artikel=91&z=2023-05-26&g=2023-05-26);
+- j. elke verklaring betreffende de voorlopige toepassing van dit Verdrag, in overeenstemming met [artikel 91, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VIII&artikel=91&z=2024-02-15&g=2024-02-15);
 
-- k. elke kennisgeving betreffende de beëindiging van de voorlopige toepassing van dit Verdrag, in overeenstemming met [artikel 91, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VIII&artikel=91&z=2023-05-26&g=2023-05-26);
+- k. elke kennisgeving betreffende de beëindiging van de voorlopige toepassing van dit Verdrag, in overeenstemming met [artikel 91, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VIII&artikel=91&z=2024-02-15&g=2024-02-15);
 
-- l. elk voorbehoud in overeenstemming met [artikel 92](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VIII&artikel=92&z=2023-05-26&g=2023-05-26);
+- l. elk voorbehoud in overeenstemming met [artikel 92](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VIII&artikel=92&z=2024-02-15&g=2024-02-15);
 
-- m. elke verklaring van opzegging in overeenstemming met [artikel 93, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VIII&artikel=93&z=2023-05-26&g=2023-05-26).
+- m. elke verklaring van opzegging in overeenstemming met [artikel 93, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VIII&artikel=93&z=2024-02-15&g=2024-02-15).
 
 IN WITNESS WHEREOF, the undersigned plenipotentiaries, being duly authorized thereto by their respective Governments, have signed this Convention.
 
