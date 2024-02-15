@@ -4,7 +4,7 @@ identifier: "BWBR0041852"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-02-15"
-last_updated: "2024-01-03"
+last_updated: "2024-02-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041852"
 soort: "ministeriele-regeling"
@@ -60,17 +60,19 @@ In dit besluit wordt verstaan onder:
 
 - g. **de coördinator Economische Zaken en Klimaat bij de Rijksdienst Caribisch Nederland:** de coördinator Economische Zaken en Klimaat bij de Rijksdienst Caribisch Nederland van het Ministerie van Economische Zaken en Klimaat;
 
-- h. **de regioambassadeurs:** de regioambassadeurs van het directoraat-generaal Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat;
+- h. **het hoofd BTI:** het hoofd Bureau Toetsing Investeringen van het directoraat-generaal Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat;
 
-- i. **de secretaris ATR:** de secretaris Adviescollege toetsing regeldruk;
+- i. **de regioambassadeurs:** de regioambassadeurs van het directoraat-generaal Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat;
 
-- j. **de Commissaris Militaire Productie:** de Commissaris Militaire Productie van het directoraat-generaal Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat;
+- j. **de secretaris ATR:** de secretaris Adviescollege toetsing regeldruk;
 
-- k. **de Compensatieadviseurs Militaire Productie:** de compensatieadviseurs Militaire Productie van het directoraat-generaal Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat;
+- k. **de Commissaris Militaire Productie:** de Commissaris Militaire Productie van het directoraat-generaal Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat;
 
-- l. **de Compensatieadministrateurs Militaire Productie:** de Compensatieadministrateurs Militaire Productie van het directoraat-generaal Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat;
+- l. **de Compensatieadviseurs Militaire Productie:** de compensatieadviseurs Militaire Productie van het directoraat-generaal Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat;
 
-- m. **het bedrag:** het bedrag inclusief de verschuldigde omzetbelasting (BTW).
+- m. **de Compensatieadministrateurs Militaire Productie:** de Compensatieadministrateurs Militaire Productie van het directoraat-generaal Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat;
+
+- n. **het bedrag:** het bedrag inclusief de verschuldigde omzetbelasting (BTW).
 
 #### § 2. Taakverdeling tussen de directeur-generaal en de onder hem ressorterende functionarissen
 
@@ -90,7 +92,7 @@ Aan de directeur-generaal is voorbehouden: het nemen van besluiten, het verricht
 
 ##### Artikel 3
 
-1. Aan de directeuren wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 1.000.000 per verplichting niet te boven gaat.
+1. Aan de directeuren wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 2.000.000 per verplichting niet te boven gaat.
 
 2. Aan de directeuren wordt tevens, ieder voor zich, voor de onder hen ressorterende medewerkers ondermandaat, volmacht en machtiging verleend voor:
 
@@ -106,7 +108,7 @@ Aan de directeur-generaal is voorbehouden: het nemen van besluiten, het verricht
 
 ##### Artikel 4
 
-1. Aan de MT-leden van een directie wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 50.000 per verplichting niet te boven gaat.
+1. Aan de MT-leden van een directie wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 100.000 per verplichting niet te boven gaat.
 
 2. Aan de MT-leden van een directie wordt voorts, ieder voor zich, voor de onder hen ressorterende medewerkers ondermandaat, volmacht en machtiging verleend voor:
 
@@ -128,7 +130,7 @@ Aan de directeur-generaal is voorbehouden: het nemen van besluiten, het verricht
 
 ##### Artikel 5
 
-1. Aan het hoofd Algemene Zaken wordt ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 15.000 per verplichting niet te boven gaat.
+1. Aan het hoofd Algemene Zaken wordt ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 30.000 per verplichting niet te boven gaat.
 
 2. Aan het hoofd Algemene Zaken wordt voorts, voor de onder hem ressorterende medewerkers ondermandaat, volmacht en machtiging verleend voor:
 
@@ -144,7 +146,7 @@ Aan de directeur-generaal is voorbehouden: het nemen van besluiten, het verricht
 
 ##### Artikel 6
 
-1. Aan de Chief Analyst wordt ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 250.000 per verplichting niet te boven gaat.
+1. Aan de Chief Analyst wordt ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 500.000 per verplichting niet te boven gaat.
 
 2. Aan de Chief Analyst wordt voorts, voor de onder hem ressorterende medewerkers ondermandaat, volmacht en machtiging verleend voor:
 
@@ -160,15 +162,15 @@ Aan de directeur-generaal is voorbehouden: het nemen van besluiten, het verricht
 
 ##### Artikel 7
 
-Aan de coördinator Economische Zaken en Klimaat bij de Rijksdienst Caribisch Nederland wordt ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 10.000 per verplichting niet te boven gaat.
+Aan de coördinator Economische Zaken en Klimaat bij de Rijksdienst Caribisch Nederland wordt ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 20.000 per verplichting niet te boven gaat.
 
 ##### Artikel 8
 
-Aan de regioambassadeurs wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 50.000 per verplichting niet te boven gaat.
+Aan de regioambassadeurs wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 100.000 per verplichting niet te boven gaat.
 
 ##### Artikel 9
 
-1. Aan de secretaris ATR wordt ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 150.000 per verplichting niet te boven gaat.
+1. Aan de secretaris ATR wordt ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 300.000 per verplichting niet te boven gaat.
 
 2. Aan de secretaris ATR wordt tevens voor de aan hem ter beschikking gestelde medewerkers ondermandaat, volmacht en machtiging verleend voor:
 
