@@ -4,7 +4,7 @@ identifier: "BWBR0046997"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-02-15"
-last_updated: "2023-09-09"
+last_updated: "2024-02-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046997"
 soort: "zbo"
@@ -44,9 +44,9 @@ Besluit:
 
 ##### Artikel 1. Tijdvakken en examenrooster centrale examens 2024
 
-1. Het eerste tijdvak voor de schriftelijke centrale examens begint op dinsdag 14 mei en eindigt op woensdag 29 mei. De dagen en uren waarop de toetsen van worden afgenomen, zijn vastgesteld zoals vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046997&bijlage=1&z=2023-09-09&g=2023-09-09).
+1. Het eerste tijdvak voor de schriftelijke centrale examens begint op dinsdag 14 mei en eindigt op woensdag 29 mei. De dagen en uren waarop de toetsen van worden afgenomen, zijn vastgesteld zoals vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046997&bijlage=1&z=2024-02-15&g=2024-02-15).
 
-2. Het tweede tijdvak voor de schriftelijke centrale examens begint op dinsdag 18 juni en eindigt op dinsdag 25 juni. De dagen waarop de toetsen worden afgenomen, zijn vastgesteld zoals vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046997&bijlage=2&z=2023-09-09&g=2023-09-09). In maart wordt een nadere indeling van de vakken bekendgemaakt.
+2. Het tweede tijdvak voor de schriftelijke centrale examens begint op dinsdag 18 juni en eindigt op dinsdag 25 juni. De dagen waarop de toetsen worden afgenomen, zijn vastgesteld zoals vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046997&bijlage=2&z=2024-02-15&g=2024-02-15). In maart wordt een nadere indeling van de vakken bekendgemaakt.
 
 3. De afnameperiode voor de centraal schriftelijke en praktische examens in de beroepsgerichte profielvakken begint op maandag 1 april en eindigt op vrijdag 19 juli.
 
@@ -56,7 +56,7 @@ Besluit:
 
 ##### Artikel 2. Onderdelen met een vroege start
 
-In afwijking van [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046997&artikel=1&z=2023-09-09&g=2023-09-09), valt van de volgende toetsen het begin van de periode waarbinnen de afname dient plaats te vinden voor aanvang van het eerste tijdvak:
+In afwijking van [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046997&artikel=1&z=2024-02-15&g=2024-02-15), valt van de volgende toetsen het begin van de periode waarbinnen de afname dient plaats te vinden voor aanvang van het eerste tijdvak:
 
 - a. in het vmbo: in de gemengde en theoretische leerweg het centraal praktisch examen van de beeldende vakken.
 
@@ -70,7 +70,7 @@ Dit besluit treedt in werking met ingang van 1 augustus 2023.
 
 Dit besluit wordt aangehaald als: Rooster voor de centrale examens van de eindexamens en de staatsexamens voortgezet onderwijs in 2024.
 
-## Bijlage 1. Het rooster voor de centrale examens, eerste tijdvak 2024 als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046997&artikel=1&z=2023-09-09&g=2023-09-09)
+## Bijlage 1. Het rooster voor de centrale examens, eerste tijdvak 2024 als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046997&artikel=1&z=2024-02-15&g=2024-02-15)
 
 |   | **bb** | **kb** | **gl/tl** | **havo** | **vwo** |
 | --- | --- | --- | --- | --- | --- |
@@ -149,7 +149,55 @@ Dit besluit wordt aangehaald als: Rooster voor de centrale examens van de eindex
 
 3 **Continuïteitsplan centrale examens:**Voor eventualiteiten waarbij de geheimhouding van de examens geschonden is of afname niet mogelijk is, treedt het Continuïteitsplan in werking. In het meest ingrijpende noodscenario kunnen één of meer centrale examens worden uitgesteld en kunnen het eerste en tweede tijdvak zich uitstrekken tot het moment van de aanvang van de vroegste zomervakantie (aanvangsdatum 6 juli 2024, volgens het overzicht schoolvakanties schooljaar 2023-2024 van het Ministerie van OCW).
 
-## Bijlage 2. Het rooster voor de centrale examens, het tweede tijdvak 2024 als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046997&artikel=1&z=2023-09-09&g=2023-09-09)
+## Bijlage 2. Het rooster voor de centrale examens, het tweede tijdvak 2024 als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046997&artikel=1&z=2024-02-15&g=2024-02-15)
+
+De aangewezen vakken worden afgenomen door het College voor Toetsen en Examens, zie ook hoofdstuk 10 in de Septembermededeling op Examenblad.nl.
+
+| Week 25 | bb1 | kb1 | gl/tl | havo | vwo |
+| --- | --- | --- | --- | --- | --- |
+| di 18 juni |   |   |   |   |   |
+|   |   |   | 13:30–15:30 | 13:30–16:00 | 13:30–16:00 |
+|   |   |   | Frans Duits Nederlands | Engels Frans | Engels Frans |
+|   |   |   |   | 13:30–16:30 | 13:30–16:30 |
+|   |   |   |   | Bedrijfseconomie | Bedrijfseconomie |
+|   |   |   |   |   |   |
+| wo 19 juni |   |   | 9:00–11:00 |   | 9:00–12:00 |
+|   |   |   | maatschappijkunde |   | Latijn |
+|   |   |   | 13:30–15:30 | 13:30–16:00 | 13:30–16:00 |
+|   |   |   | geschiedenis | Duits | Duits |
+|   |   |   |   | 13:30–16:30 | 13:30–16:30 |
+|   |   |   |   | Nederlands aardrijkskunde | Nederlands aardrijkskunde |
+|   |   |   |   |   |   |
+| do 20 juni | **Aangewezen vakken – Afname op staatsexamenlocaties** | **Aangewezen vakken – Afname op staatsexamenlocaties** | **Aangewezen vakken – Afname op staatsexamenlocaties** | **Aangewezen vakken – Afname op staatsexamenlocaties** | **Aangewezen vakken – Afname op staatsexamenlocaties** |
+|   | 9:00–10:30 | 9:00–11:00 | 9:00–11:00 |   | 9:00–11:30 |
+|   | Nederlands Engels biologie nask1 Turks Arabisch Frans Duits aardrijkskunde geschiedenis | wiskunde economie maatschappijkunde Spaans | Fries Turks Arabisch Spaans dans drama muziek |   | Fries Russisch Turks Arabisch |
+|   | 13:30–15:00 | 13:30–15:30 |   | 13:30–16:00 | 13:30–16:00 |
+|   | wiskunde economie maatschappijkunde Spaans | Nederlands Engels biologie nask1 Turks Arabisch Frans Duits aardrijkskunde geschiedenis |   | Fries Russisch Turks Arabisch muziek | tehatex muziek |
+|   |   |   |   |   |   |
+| do 20 juni | **Afname op de scholen** | **Afname op de scholen** | **Afname op de scholen** | **Afname op de scholen** | **Afname op de scholen** |
+|   |   |   | 13:30–15:30 | 13:30–16:30 | 13:30–16:30 |
+|   |   |   | aardrijkskunde biologie wiskunde | economie wiskunde A geschiedenis | economie wiskunde A / C geschiedenis |
+|   |   |   |   |   |   |
+| vr 21 juni |   |   |   | 9:00–11:30 | 9:00–12:00 |
+|   |   |   |   | tehatex | Grieks |
+|   |   |   |   | 13:30–16:00 | 13:30–16:00 |
+|   |   |   |   | Spaans | Spaans |
+|   |   |   | 13:30–15:30 | 13:30–16:30 | 13:30–16:30 |
+|   |   |   | nask1/ beeldende vakken | filosofie kunst (algemeen) | filosofie kunst (algemeen) |
+|   |   |   |   |   |   |
+
+1 De in het rooster opgenomen vakken in de basis- en kaderberoepsgerichte leerweg betreffende de centrale examens die op een vast moment worden afgenomen.
+
+| Week 26 | bb | kb | gl/tl | havo | vwo |
+| --- | --- | --- | --- | --- | --- |
+| ma 24 juni |   |   |   |   |   |
+|   |   |   | 13:30–15:30 | 13:30–16:30 | 13:30–16:30 |
+|   |   |   | nask2 | natuurkunde scheikunde wiskunde B | natuurkunde scheikunde wiskunde B |
+|   |   |   |   |   |   |
+| di 25 juni |   |   |   |   |   |
+|   |   |   | 13:30–15:30 | 13:30–16:30 | 13:30–16:30 |
+|   |   |   | economie Engels | biologie maatschappij-wetenschappen | biologie maatschappij- wetenschappen |
+|   |   |   |   |   |   |
 
 ### Schriftelijke examens
 
@@ -166,5 +214,7 @@ Voor de centraal schriftelijke en praktische examens in de beroepsgerichte profi
 ### Aangewezen vakken
 
 Donderdag 20 juni 2024 is de examenafname van de aangewezen vakken door de commissie staatsexamens vo van het College voor toetsen en examens. Het besluit welke vakken dit zijn, wordt in maart 2024 gepubliceerd.
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
