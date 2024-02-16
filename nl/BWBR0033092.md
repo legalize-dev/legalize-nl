@@ -4,7 +4,7 @@ identifier: "BWBR0033092"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-02-16"
-last_updated: "2015-10-01"
+last_updated: "2024-02-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033092"
 soort: "ministeriele-regeling"
@@ -104,7 +104,7 @@ De Minister of de Minister van Infrastructuur en Milieu zendt zaken die aanhangi
 
 ##### Artikel 7
 
-1. Bij een opdracht aan de ACM om een rapportage als bedoeld in [artikel 5c van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=5c) uit te brengen stelt de Minister een termijn van dertien weken waarbinnen deze rapportage wordt verwacht. Mocht de ACM voorzien dat de rapportage niet binnen de gegeven termijn kan worden uitgebracht, dan stelt zij de Minister hiervan vier weken voor het verstrijken van deze termijn onder opgaaf van redenen in kennis.
+1. Bij een opdracht aan de ACM om een rapportage als bedoeld in [artikel 4, eerste of derde lid, van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=4) uit te brengen stelt de Minister een termijn van dertien weken waarbinnen deze rapportage wordt verwacht. Mocht de ACM voorzien dat de rapportage niet binnen de gegeven termijn kan worden uitgebracht, dan stelt zij de Minister hiervan vier weken voor het verstrijken van deze termijn onder opgaaf van redenen in kennis.
 
 2. Indien de ACM voornemens is uit eigen beweging een rapportage uit te brengen inzake de effecten voor de mededinging van voorgenomen of geldende regelgeving of besluiten op of buiten het terrein van de Minister, dan stelt zij de Minister hiervan tijdig op de hoogte. De ACM geeft aan op welke termijn zij de rapportage uitbrengt.
 
@@ -232,7 +232,7 @@ De ACM zendt de Minister jaarlijks voor 1 december een overzicht op hoofdlijnen 
 
 1. Onverminderd [artikel 30 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=30) informeert de ACM de Minister onverwijld ingeval er gedurende het jaar een verschil van 10% of meer ontstaat of dreigt te ontstaan tussen de werkelijke en de begrote ontvangsten en uitgaven.
 
-2. Ingeval de ACM gedurende een jaar nieuwe wettelijke taken gaat uitvoeren, verstrekt de ACM de Minister voor 1 februari van dat jaar een inschatting van de hiermee gepaard gaande kosten op basis van een uitvoeringstoets overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033092&paragraaf=3&artikel=6&z=2015-10-01&g=2015-10-01), waarbij onderscheid wordt gemaakt tussen de kosten die aan marktorganisaties worden doorberekend en de kosten die ten laste van de algemene middelen komen.
+2. Ingeval de ACM gedurende een jaar nieuwe wettelijke taken gaat uitvoeren, verstrekt de ACM de Minister voor 1 februari van dat jaar een inschatting van de hiermee gepaard gaande kosten op basis van een uitvoeringstoets overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033092&paragraaf=3&artikel=6&z=2024-02-16&g=2024-02-16), waarbij onderscheid wordt gemaakt tussen de kosten die aan marktorganisaties worden doorberekend en de kosten die ten laste van de algemene middelen komen.
 
 #### § 8. Concentraties
 
