@@ -4,7 +4,7 @@ identifier: "BWBR0010215"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-02-20"
-last_updated: "2014-12-12"
+last_updated: "2024-02-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010215"
 soort: "AMvB"
@@ -38,7 +38,7 @@ entry_into_force: "2024-02-01"
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 17 juli 1998, nr. DGRLD/JBZ/L 98.210489, gedaan in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en de Staatssecretaris van Defensie;
 
-Gelet op [artikel 5.10, derde lid, van de Wet Luchtverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.10);
+Gelet op [artikel 5.10, derde lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.10);
 
 De Raad van State gehoord (advies van 14 september 1998, nr. W09.98.0340);
 
@@ -68,11 +68,11 @@ In dit besluit wordt verstaan onder:
 
 1. Het is verboden een reclamesleepvlucht uit te voeren boven het milieubeschermingsgebied Waddenzee.
 
-2. Onverminderd [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010215&artikel=2&z=2014-12-12&g=2014-12-12) is het in het eerste lid gestelde verbod niet van toepassing op vluchten van reclamesleepvliegbedrijven, gevestigd op de luchthaven Texel, die rechtstreeks van de luchthaven Texel naar het vaste land of vice versa gevlogen worden.
+2. Onverminderd [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010215&artikel=2&z=2024-02-20&g=2024-02-20) is het in het eerste lid gestelde verbod niet van toepassing op vluchten van reclamesleepvliegbedrijven, gevestigd op de luchthaven Texel, die rechtstreeks van de luchthaven Texel naar het vaste land of vice versa gevlogen worden.
 
 ##### Artikel 4
 
-1. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010215&artikel=2&z=2014-12-12&g=2014-12-12) is niet van toepassing:
+1. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010215&artikel=2&z=2024-02-20&g=2024-02-20) is niet van toepassing:
 
 - a. op het deel van de vlucht, noodzakelijk om op te stijgen van of te landen op een luchthaven, alsmede voor het uitvoeren van nadering- en vertrekprocedures en luchtverkeerspatronen;
 
@@ -80,7 +80,7 @@ In dit besluit wordt verstaan onder:
 
 - c. in het geval van mogelijke ijsafzetting bij hefschroefvliegtuigen.
 
-2. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010215&artikel=2&z=2014-12-12&g=2014-12-12) is evenmin van toepassing op vluchten waarvoor op grond van de [artikelen 3](onbekend) of [19 van het Besluit luchtverkeer 2014](onbekend) een vrijstelling of ontheffing is verleend ten behoeve van:
+2. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010215&artikel=2&z=2024-02-20&g=2024-02-20) is evenmin van toepassing op vluchten waarvoor op grond van de [artikelen 3](onbekend) of [19 van het Besluit luchtverkeer 2014](onbekend) een vrijstelling of ontheffing is verleend ten behoeve van:
 
 - a. hulpverlening en reddingsacties;
 
@@ -99,6 +99,14 @@ Dit besluit treedt in werking op het tijdstip waarop artikel I, onderdeel E, ond
 ##### Artikel 6
 
 Dit besluit wordt aangehaald als: Besluit beperkingen burgerluchtverkeer Waddenzee.
+
+## Bijlage
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting en de bijlage in het Staatsblad zal worden geplaatst.
+
+##### Artikel 1a
+
+Dit besluit berust op [artikel 5.10, derde lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.10).
 
 ## Bijlage
 
