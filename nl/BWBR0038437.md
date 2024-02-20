@@ -4,7 +4,7 @@ identifier: "BWBR0038437"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-02-20"
-last_updated: "2021-07-31"
+last_updated: "2024-02-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038437"
 soort: "ministeriele-regeling"
@@ -66,15 +66,17 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Binnen de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038437&paragraaf=3&artikel=3&z=2021-07-31&g=2021-07-31) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0038437&paragraaf=3&artikel=4&z=2021-07-31&g=2021-07-31) genoemde reikwijdte geldt de Algemene Vergunning NL009.
+1. Binnen de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038437&paragraaf=3&artikel=3&z=2024-02-20&g=2024-02-20) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0038437&paragraaf=3&artikel=4&z=2024-02-20&g=2024-02-20) genoemde reikwijdte geldt de Algemene Vergunning NL009.
 
-2. Aan de Algemene Vergunning NL009 zijn de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038437&paragraaf=4&artikel=5&z=2021-07-31&g=2021-07-31) genoemde voorschriften verbonden.
+2. Aan de Algemene Vergunning NL009 zijn de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038437&paragraaf=4&artikel=5&z=2024-02-20&g=2024-02-20) genoemde voorschriften verbonden.
 
 #### § 3. Reikwijdte
 
 ##### Artikel 3
 
-De Algemene Vergunning NL009 is uitsluitend van toepassing op doorvoer, uitvoer of overdracht waarop een overeenkomst in het kader van het F-35 Lightning II programma tussen een beschikkingsbevoegde en een ontvanger betrekking heeft, dan wel op doorvoer, uitvoer of overdracht in het kader van het F-35 Lightning II programma waarvoor de beschikkingsbevoegde gerechtigd is de uitzonderingen van de ITAR te gebruiken.
+1. De Algemene Vergunning NL009 is uitsluitend van toepassing op doorvoer, uitvoer of overdracht waarop een overeenkomst in het kader van het F-35 Lightning II programma tussen een beschikkingsbevoegde en een ontvanger betrekking heeft, dan wel op doorvoer, uitvoer of overdracht in het kader van het F-35 Lightning II programma waarvoor de beschikkingsbevoegde gerechtigd is de uitzonderingen van de ITAR te gebruiken.
+
+2. Doorvoer en uitvoer van goederen binnen het kader van het F-35 Lightning II programma is niet toegestaan indien vaststaat dat deze eindbestemming Israël heeft.
 
 ##### Artikel 4
 
