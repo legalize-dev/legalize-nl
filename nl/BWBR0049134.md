@@ -4,7 +4,7 @@ identifier: "BWBR0049134"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-02-21"
-last_updated: "2024-01-01"
+last_updated: "2024-02-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049134"
 soort: "AMvB"
@@ -104,31 +104,31 @@ Wijzigt het Besluit toekomst pensioenen.
 
 1. Dit besluit treedt in werking met ingang van 1 januari 2024, met dien verstande dat:
 
-- a. [artikel I, onderdeel B, onder 2, subonderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0049134&artikel=I&z=2024-01-01&g=2024-01-01), terugwerkt tot en met 1 januari 2023;
+- a. [artikel I, onderdeel B, onder 2, subonderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0049134&artikel=I&z=2024-02-21&g=2024-02-21), terugwerkt tot en met 1 januari 2023;
 
-- b. [artikel I, onderdeel B, onder 2, subonderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0049134&artikel=I&z=2024-01-01&g=2024-01-01), terugwerkt tot en met 28 september 2023;
+- b. [artikel I, onderdeel B, onder 2, subonderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0049134&artikel=I&z=2024-02-21&g=2024-02-21), terugwerkt tot en met 28 september 2023;
 
-- c. [artikel I, onderdeel B, onder 2, subonderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0049134&artikel=I&z=2024-01-01&g=2024-01-01), terugwerkt tot en met 11 juli 2022;
+- c. [artikel I, onderdeel B, onder 2, subonderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0049134&artikel=I&z=2024-02-21&g=2024-02-21), terugwerkt tot en met 11 juli 2022;
 
-- d. [artikel I, onderdeel B, onder 2, subonderdelen f en h](https://wetten.overheid.nl/jci1.3:c:BWBR0049134&artikel=I&z=2024-01-01&g=2024-01-01), terugwerkt tot en met 1 juli 2023;
+- d. [artikel I, onderdeel B, onder 2, subonderdelen f en h](https://wetten.overheid.nl/jci1.3:c:BWBR0049134&artikel=I&z=2024-02-21&g=2024-02-21), terugwerkt tot en met 1 juli 2023;
 
-- e. [artikel I, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0049134&artikel=I&z=2024-01-01&g=2024-01-01), en [artikel II, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0049134&artikel=II&z=2024-01-01&g=2024-01-01), terugwerken tot en met 1 januari 2018;
+- e. [artikel I, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0049134&artikel=I&z=2024-02-21&g=2024-02-21), en [artikel II, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0049134&artikel=II&z=2024-02-21&g=2024-02-21), terugwerken tot en met 1 januari 2018;
 
-- f. het in [artikel II, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0049134&artikel=II&z=2024-01-01&g=2024-01-01), opgenomen [artikel 10ei, vierde tot en met zevende lid, van het Uitvoeringsbesluit loonbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&artikel=10ei) voor het eerst toepassing vindt met betrekking tot een beschikking als gevolg van een verzoek om toepassing of voortgezette toepassing van de bewijsregel die op of na 1 januari 2024 is vastgesteld;
+- f. het in [artikel II, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0049134&artikel=II&z=2024-02-21&g=2024-02-21), opgenomen [artikel 10ei, vierde tot en met zevende lid, van het Uitvoeringsbesluit loonbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&artikel=10ei) voor het eerst toepassing vindt met betrekking tot een beschikking als gevolg van een verzoek om toepassing of voortgezette toepassing van de bewijsregel die op of na 1 januari 2024 is vastgesteld;
 
-- g. [artikel II, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0049134&artikel=II&z=2024-01-01&g=2024-01-01), terugwerkt tot en met 25 maart 2022;
+- g. [artikel II, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0049134&artikel=II&z=2024-02-21&g=2024-02-21), terugwerkt tot en met 25 maart 2022;
 
-- h. [artikel XI, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0049134&artikel=XI&z=2024-01-01&g=2024-01-01), terugwerkt tot en met 1 juli 2023;
+- h. [artikel XI, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0049134&artikel=XI&z=2024-02-21&g=2024-02-21), terugwerkt tot en met 1 juli 2023;
 
-- i. [artikel XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0049134&artikel=XIII&z=2024-01-01&g=2024-01-01) terugwerkt tot en met 30 juni 2015;
+- i. [artikel XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0049134&artikel=XIII&z=2024-02-21&g=2024-02-21) terugwerkt tot en met 30 juni 2015;
 
-2. In afwijking van het eerste lid treedt [artikel I, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0049134&artikel=I&z=2024-01-01&g=2024-01-01), in werking op het tijdstip waarop [artikel II, onderdeel V, van de Wet toekomst pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0048328&artikel=II) in werking treedt.
+2. In afwijking van het eerste lid treedt [artikel I, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0049134&artikel=I&z=2024-02-21&g=2024-02-21), in werking op het tijdstip waarop [artikel II, onderdeel V, van de Wet toekomst pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0048328&artikel=II) in werking treedt.
 
-3. In afwijking van het eerste lid treedt [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0049134&artikel=III&z=2024-01-01&g=2024-01-01) in werking met ingang van de dag die is gelegen acht weken na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst en werkt:
+3. In afwijking van het eerste lid treedt [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0049134&artikel=III&z=2024-02-21&g=2024-02-21) in werking met ingang van de dag die is gelegen acht weken na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst en werkt:
 
-- a. [artikel III, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0049134&artikel=III&z=2024-01-01&g=2024-01-01), terug tot en met 1 januari 2024; en
+- a. [artikel III, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0049134&artikel=III&z=2024-02-21&g=2024-02-21), terug tot en met 1 januari 2024; en
 
-- b. [artikel III, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0049134&artikel=III&z=2024-01-01&g=2024-01-01), terug tot en met 1 januari 2022.
+- b. [artikel III, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0049134&artikel=III&z=2024-02-21&g=2024-02-21), terug tot en met 1 januari 2022.
 
 ##### Artikel XVII
 
