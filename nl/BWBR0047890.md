@@ -4,7 +4,7 @@ identifier: "BWBR0047890"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-06-12"
-last_updated: "2023-02-21"
+last_updated: "2024-02-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047890"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **Adviescommissie:** Adviescommissie Maatwerkafspraken Verduurzaming Industrie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047890&artikel=2&z=2023-02-21&g=2023-02-21);
+- a. **Adviescommissie:** Adviescommissie Maatwerkafspraken Verduurzaming Industrie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047890&artikel=2&z=2023-02-21&g=2024-02-21);
 
 - b. **Minister:** Minister van Economische Zaken en Klimaat;
 
@@ -135,5 +135,11 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Adviescommissie Maatwerkafspraken Verduurzaming Industrie.
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.
+
+##### Artikel 8a
+
+De leden van de Adviescommissie Maatwerkafspraken Verduurzaming Industrie kunnen twee maal worden herbenoemd voor de termijn van telkens ten hoogste vier jaar.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.
