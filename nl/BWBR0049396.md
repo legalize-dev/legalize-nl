@@ -4,7 +4,7 @@ identifier: "BWBR0049396"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-02-24"
-last_updated: "2024-01-01"
+last_updated: "2024-02-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049396"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ In deze regeling wordt verstaan onder:
 
 1. De minister kan op aanvraag aan een gemeente of provincie een specifieke uitkering verstrekken ten behoeve van een activiteit die gericht is op de doorontwikkeling van de generieke digitale infrastructuur of op innovatie binnen de digitale overheid, ter verbetering van de digitale dienstverlening aan natuurlijke personen en rechtspersonen.
 
-2. De minister beslist niet op de aanvraag voor een specifieke uitkering, dan nadat advies is ingewonnen van de commissie, genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049396&artikel=6&z=2024-02-24&g=2024-01-01).
+2. De minister beslist niet op de aanvraag voor een specifieke uitkering, dan nadat advies is ingewonnen van de commissie, genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049396&artikel=6&z=2024-02-24&g=2024-02-24).
 
 ##### Artikel 3. Uitkeringsplafond
 
@@ -114,7 +114,7 @@ Het uitkeringsplafond bedraagt voor het jaar 2024 € 4.000.000. Voor de daaropv
 
 ##### Artikel 6. Selectiecommissie
 
-1. Er is een selectiecommissie die tot taak heeft de minister op zijn verzoek te adviseren over het te nemen besluit op de aanvraag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049396&artikel=2&z=2024-02-24&g=2024-01-01).
+1. Er is een selectiecommissie die tot taak heeft de minister op zijn verzoek te adviseren over het te nemen besluit op de aanvraag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049396&artikel=2&z=2024-02-24&g=2024-02-24).
 
 2. De commissie bestaat uit minimaal vijf en maximaal negen leden, waarvan er een voorzitter is. De leden zijn deskundig op het terrein waarop de commissie een taak heeft en worden door de minister benoemd en ontslagen. Zij hebben zitting op persoonlijke titel en oefenen hun functie uit zonder last of ruggespraak.
 
@@ -128,7 +128,7 @@ Het uitkeringsplafond bedraagt voor het jaar 2024 € 4.000.000. Voor de daaropv
 
 1. De commissie stelt haar eigen werkwijze schriftelijk vast.
 
-2. De commissie kan de indiener van de aanvraag om een specifieke uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049396&artikel=2&z=2024-02-24&g=2024-01-01), om nadere informatie verzoeken over de in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049396&artikel=4&z=2024-02-24&g=2024-01-01), bedoelde gegevens.
+2. De commissie kan de indiener van de aanvraag om een specifieke uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049396&artikel=2&z=2024-02-24&g=2024-02-24), om nadere informatie verzoeken over de in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049396&artikel=4&z=2024-02-24&g=2024-02-24), bedoelde gegevens.
 
 ##### Artikel 8. Besluit tot verlening
 
@@ -142,7 +142,7 @@ De aanvraag om een uitkering wordt afgewezen, indien:
 
 - a. de aanvraag niet mede namens een of meer andere overheidsorganisaties is ingediend;
 
-- b. de activiteit waarvoor een uitkering wordt aangevraagd geen activiteit als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049396&artikel=2&z=2024-02-24&g=2024-01-01) is;
+- b. de activiteit waarvoor een uitkering wordt aangevraagd geen activiteit als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049396&artikel=2&z=2024-02-24&g=2024-02-24) is;
 
 - c. de minister het onaannemelijk acht dat de activiteit binnen een jaar kan worden voltooid;
 
@@ -164,7 +164,7 @@ De hoofdaanvrager coördineert:
 
 - b. de verantwoording van de besteding van de specifieke uitkering met het oog op de vaststelling; en
 
-- c. de evaluatie van de effectiviteit van de besteding van de gelden, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0049396&artikel=17&z=2024-02-24&g=2024-01-01).
+- c. de evaluatie van de effectiviteit van de besteding van de gelden, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0049396&artikel=17&z=2024-02-24&g=2024-02-24).
 
 ##### Artikel 12. Verplichtingen ontvanger
 
@@ -192,7 +192,7 @@ De hoofdaanvrager doet zo spoedig mogelijk schriftelijk mededeling aan de minist
 
 ##### Artikel 15. Ambtshalve vaststelling
 
-In afwijking van [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049396&artikel=14&z=2024-02-24&g=2024-01-01), kan de minister een uitkering geheel of gedeeltelijk ambtshalve vaststellen, indien de beschikking tot verlening van de uitkering of tot vaststelling van de uitkering wordt ingetrokken of ten nadele van de gemeente of provincie waaraan de uitkering is verleend, wordt gewijzigd.
+In afwijking van [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049396&artikel=14&z=2024-02-24&g=2024-02-24), kan de minister een uitkering geheel of gedeeltelijk ambtshalve vaststellen, indien de beschikking tot verlening van de uitkering of tot vaststelling van de uitkering wordt ingetrokken of ten nadele van de gemeente of provincie waaraan de uitkering is verleend, wordt gewijzigd.
 
 ##### Artikel 16. Onverschuldigde betaling
 
@@ -202,7 +202,7 @@ De minister kan onverschuldigd uitgekeerde bedragen terugvorderen.
 
 1. De hoofdaanvrager die op grond van deze regeling een specifieke uitkering ontvangt, werkt mee aan een door de minister ingestelde evaluatie van de effectiviteit van de besteding van de gelden.
 
-2. Het eerste lid is van overeenkomstige toepassing op overheidsorganisaties als bedoeld in [artikel 4, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049396&artikel=4&z=2024-02-24&g=2024-01-01).
+2. Het eerste lid is van overeenkomstige toepassing op overheidsorganisaties als bedoeld in [artikel 4, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049396&artikel=4&z=2024-02-24&g=2024-02-24).
 
 ##### Artikel 18. Inwerkingtreding
 
