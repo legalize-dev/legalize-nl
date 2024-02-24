@@ -4,7 +4,7 @@ identifier: "BWBR0049401"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-02-24"
-last_updated: "2023-09-02"
+last_updated: "2024-02-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049401"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ De datum van inwerkingtreding in de publicatie ligt voor de datum van uitgifte.
 
 In dit besluit wordt verstaan onder:
 
-- **adviescommissie:** adviescommissie SEA, bedoeld in de [onderlinge regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0048989) en nader beschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049401&artikel=2&z=2024-02-24&g=2023-09-02);
+- **adviescommissie:** adviescommissie SEA, bedoeld in de [onderlinge regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0048989) en nader beschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049401&artikel=2&z=2024-02-24&g=2024-02-24);
 
 - **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
 
