@@ -4,7 +4,7 @@ identifier: "BWBR0039796"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-03-01"
-last_updated: "2020-01-01"
+last_updated: "2024-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039796"
 soort: "ministeriele-regeling"
@@ -48,8 +48,6 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **ANVS:** Autoriteit Nucleaire Veiligheid en Stralingsbescherming als bedoeld in [artikel 3, eerste lid, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=3),
 
-- **ARAR:** [Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950),
-
 - **minister:** Minister van Infrastructuur en Waterstaat,
 
 - **secretaris-generaal:** secretaris-generaal van het Ministerie van Infrastructuur en Waterstaat.
@@ -80,21 +78,21 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. wijzigingen in de topstructuur en topfuncties schaal 16 en hoger;
 
-- b. het verlenen van ontslag op grond van [artikel 99 van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=99);
+- b. het verlenen van ontslag op grond van een vaststellingsovereenkomst;
 
-- c. het verlenen van ontslag, anders dan op grond van [artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=81) of [99 van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=99), in combinatie met een schadeloosstelling op grond van [artikel 69 van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=69);
-
-- d. het verlenen van ontslag op grond van [artikel 81, eerste lid, onder l, of eerste lid, onder l, en derde lid, van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=81);
-
-- e. het voeren van de personeels- en salarisadministratie.
+- c. het voeren van de personeels- en salarisadministratie.
 
 ##### Artikel 4. Privaatrechtelijke rechtshandelingen
 
 Aan de ANVS wordt op haar werkterrein volmacht en machtiging verleend voor het verrichten van privaatrechtelijke rechtshandelingen en voor de daarmee samenhangende feitelijke handelingen.
 
-##### Artikel 5. Bezwaar- en beroepschriften
+##### Artikel 5. Procedures
 
-Aan de ANVS wordt mandaat en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen besluiten als bedoeld in [artikel 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039796&hoofdstuk=2&artikel=2&z=2018-02-14&g=2020-01-01), waaronder het nemen van beslissingen op bezwaarschriften en het instellen van (hoger) beroep.
+Aan de ANVS wordt mandaat, volmacht en machtiging verleend:
+
+- a. voor het behandelen van bezwaar- en beroepschriften gericht tegen besluiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039796&hoofdstuk=2&artikel=2&z=2024-03-01&g=2024-03-01), waaronder het nemen van beslissingen op bezwaarschriften en het instellen van (hoger) beroep; en
+
+- b. voor het indienen van of behandelen van verzoekschriften en vorderingen gericht tegen besluiten en rechtshandelingen als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039796&hoofdstuk=2&artikel=3&z=2024-03-01&g=2024-03-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0039796&hoofdstuk=2&artikel=4&z=2024-03-01&g=2024-03-01), waaronder begrepen het instellen van (hoger) beroep.
 
 ##### Artikel 6. Ondermandaat
 
@@ -114,9 +112,9 @@ Aan de secretaris-generaal is de bevoegdheid voorbehouden tot het doen van de me
 
 ##### Artikel 8. Mandaat en ondermandaat beslissen op bezwaar
 
-1. In afwijking van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039796&hoofdstuk=2&artikel=5&z=2018-02-14&g=2020-01-01) en [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039796&hoofdstuk=2&artikel=6&z=2018-02-14&g=2020-01-01), mag de beslissing op bezwaar niet in mandaat of ondermandaat worden genomen door degene die het besluit waartegen het bezwaar is gericht, heeft genomen.
+1. In afwijking van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039796&hoofdstuk=2&artikel=5&z=2024-03-01&g=2024-03-01) en [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039796&hoofdstuk=2&artikel=6&z=2024-03-01&g=2024-03-01), mag de beslissing op bezwaar niet in mandaat of ondermandaat worden genomen door degene die het besluit waartegen het bezwaar is gericht, heeft genomen.
 
-2. In afwijking van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039796&hoofdstuk=2&artikel=6&z=2018-02-14&g=2020-01-01), mag de beslissing op bezwaar niet in ondermandaat worden genomen door degene die in de hiërarchische verhoudingen ressorteert onder degene die het besluit waartegen het bezwaar zich richt, heeft genomen.
+2. In afwijking van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039796&hoofdstuk=2&artikel=6&z=2024-03-01&g=2024-03-01), mag de beslissing op bezwaar niet in ondermandaat worden genomen door degene die in de hiërarchische verhoudingen ressorteert onder degene die het besluit waartegen het bezwaar zich richt, heeft genomen.
 
 ##### Artikel 9. Kaders uitoefening bevoegdheden
 
@@ -132,9 +130,11 @@ De uitoefening van bevoegdheden die bij of krachtens dit besluit zijn verleend, 
 
 - e. het bepaalde bij of krachtens de [Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891) en de aanwijzingen van de hoofddirecteur Financiën, Management en Control op grond van die wet en de daarop berustende regelgeving, waaronder het [Besluit taak FEZ](https://wetten.overheid.nl/jci1.3:c:BWBR0005333);
 
-- f. het [Besluit privaatrechtelijke rechtshandelingen 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0007804); en
+- f. het [Besluit privaatrechtelijke rechtshandelingen 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0007804);
 
-- g. de overige ter zake geldende wet- en regelgeving en beleidsregels.
+- g. de CAO Rijk; en
+
+- h. de overige ter zake geldende wet- en regelgeving en beleidsregels.
 
 ##### Artikel 10. Informatieplicht
 
