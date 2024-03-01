@@ -4,7 +4,7 @@ identifier: "BWBR0022233"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2024-01-01"
+last_updated: "2024-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022233"
 soort: "AMvB"
@@ -114,35 +114,35 @@ In dit hoofdstuk wordt verstaan onder:
 
 - a. **strafbeschikkingsbevoegdheid:** de bevoegdheid een strafbeschikking bedoeld in [artikel 257ba van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257ba), inhoudende een geldboete, uit te vaardigen;
 
-- b. **lichaam of persoon:** het lichaam of de persoon met een publieke taak belast, bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=IV&artikel=4.2&z=2024-01-01&g=2024-01-01);
+- b. **lichaam of persoon:** het lichaam of de persoon met een publieke taak belast, bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=IV&artikel=4.2&z=2024-03-01&g=2024-03-01);
 
 - c. **omgevingsdienst:** een openbaar lichaam in de zin van [artikel 8 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8);
 
 - d. **algemeen opsporingsambtenaar:** de ambtenaar, bedoeld in [artikel 141, aanhef en onder b en d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141);
 
-- e. **bevoegde ambtenaar:** de buitengewoon opsporingsambtenaar in dienst van of werkzaam voor een lichaam of een persoon, voor zover hij bevoegd is tot opsporing van de zaken bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=IV&artikel=4.3&z=2024-01-01&g=2024-01-01) en de algemeen opsporingsambtenaar werkzaam voor een lichaam of een persoon.
+- e. **bevoegde ambtenaar:** de buitengewoon opsporingsambtenaar in dienst van of werkzaam voor een lichaam of een persoon, voor zover hij bevoegd is tot opsporing van de zaken bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=IV&artikel=4.3&z=2024-03-01&g=2024-03-01) en de algemeen opsporingsambtenaar werkzaam voor een lichaam of een persoon.
 
 ##### Artikel 4.2
 
-Voor zaken betreffende de in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=IV&artikel=4.3&z=2024-01-01&g=2024-01-01) aangewezen strafbare feiten wordt de strafbeschikkingsbevoegdheid toegekend aan de volgende lichamen of personen:
+Voor zaken betreffende de in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=IV&artikel=4.3&z=2024-03-01&g=2024-03-01) aangewezen strafbare feiten wordt de strafbeschikkingsbevoegdheid toegekend aan de volgende lichamen of personen:
 
-- a. de directeuren van de omgevingsdiensten, voor de feiten vermeld in hoofdstuk 1 van [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&bijlage=II&z=2024-01-01&g=2024-01-01) van dit besluit;
+- a. de directeuren van de omgevingsdiensten, voor de feiten vermeld in hoofdstuk 1 van [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&bijlage=II&z=2024-03-01&g=2024-03-01) van dit besluit;
 
-- b. de dagelijkse besturen van de waterschappen voor feiten vermeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&bijlage=II&z=2024-01-01&g=2024-01-01) van dit besluit;
+- b. de dagelijkse besturen van de waterschappen voor feiten vermeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&bijlage=II&z=2024-03-01&g=2024-03-01) van dit besluit;
 
-- c. de hoofdingenieurs-directeur van de regionale en landelijke diensten van Rijkswaterstaat van het Ministerie van Infrastructuur en Waterstaat voor feiten vermeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&bijlage=II&z=2024-01-01&g=2024-01-01) van dit besluit;
+- c. de hoofdingenieurs-directeur van de regionale en landelijke diensten van Rijkswaterstaat van het Ministerie van Infrastructuur en Waterstaat voor feiten vermeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&bijlage=II&z=2024-03-01&g=2024-03-01) van dit besluit;
 
-- d. de inspecteur-generaal van de Inspectie voor Leefomgeving en Transport van het Ministerie van Infrastructuur en Waterstaat, voor de feiten vermeld in hoofdstuk 1 van [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&bijlage=II&z=2024-01-01&g=2024-01-01) van dit besluit;
+- d. de inspecteur-generaal van de Inspectie voor Leefomgeving en Transport van het Ministerie van Infrastructuur en Waterstaat, voor de feiten vermeld in hoofdstuk 1 van [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&bijlage=II&z=2024-03-01&g=2024-03-01) van dit besluit;
 
-- e. de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Economische Zaken, Landbouw en Innovatie, voor de feiten vermeld in hoofdstuk 1 van [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&bijlage=II&z=2024-01-01&g=2024-01-01) van dit besluit;
+- e. de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Economische Zaken, Landbouw en Innovatie, voor de feiten vermeld in hoofdstuk 1 van [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&bijlage=II&z=2024-03-01&g=2024-03-01) van dit besluit;
 
-- f. de algemeen directeur van de Belastingdienst/Douane voor de feiten vermeld in hoofdstuk 1 van [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&bijlage=II&z=2024-01-01&g=2024-01-01) van dit Besluit;
+- f. de algemeen directeur van de Belastingdienst/Douane voor de feiten vermeld in hoofdstuk 1 van [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&bijlage=II&z=2024-03-01&g=2024-03-01) van dit Besluit;
 
-- g. de voorzitter van de Autoriteit Nucleaire Veiligheid en Stralingsbescherming, genoemd in [artikel 3, eerste lid, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=3) voor de feiten vermeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&bijlage=II&z=2024-01-01&g=2024-01-01) van dit Besluit.
+- g. de voorzitter van de Autoriteit Nucleaire Veiligheid en Stralingsbescherming, genoemd in [artikel 3, eerste lid, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=3) voor de feiten vermeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&bijlage=II&z=2024-03-01&g=2024-03-01) van dit Besluit.
 
 ##### Artikel 4.3
 
-Zaken waarin de strafbeschikkingsbevoegdheid kan worden uitgeoefend, betreffen de door de bevoegde ambtenaar geconstateerde strafbare feiten, aangeduid in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&bijlage=II&z=2024-01-01&g=2024-01-01) van dit besluit, voor zover die strafbare feiten van geringe ernst of eenvoudige aard zijn zoals nader omschreven in de richtlijnen, bedoeld in [artikel 4.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=IV&artikel=4.6&z=2024-01-01&g=2024-01-01) en voor zover de verdachte behoort tot een categorie die met betrekking tot die feiten in bijlage II van dit besluit is vermeld.
+Zaken waarin de strafbeschikkingsbevoegdheid kan worden uitgeoefend, betreffen de door de bevoegde ambtenaar geconstateerde strafbare feiten, aangeduid in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&bijlage=II&z=2024-03-01&g=2024-03-01) van dit besluit, voor zover die strafbare feiten van geringe ernst of eenvoudige aard zijn zoals nader omschreven in de richtlijnen, bedoeld in [artikel 4.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=IV&artikel=4.6&z=2024-03-01&g=2024-03-01) en voor zover de verdachte behoort tot een categorie die met betrekking tot die feiten in bijlage II van dit besluit is vermeld.
 
 ##### Artikel 4.4
 
@@ -200,7 +200,7 @@ Wijzigt het Transactiebesluit 1994.
 
 ##### Artikel 5.3*
 
-[Artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=V&artikel=5.1&z=2024-01-01&g=2024-01-01) van dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat niet later is gelegen dan 1 april 2013.
+[Artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=V&artikel=5.1&z=2024-03-01&g=2024-03-01) van dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat niet later is gelegen dan 1 april 2013.
 
 ## Bijlage. , bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.3&z=2008-02-01&g=2008-02-01) van het Besluit OM-afdoening en [artikel 3 van het Transactiebesluit 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006664&artikel=3)
 
@@ -214,41 +214,41 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - a. strafbeschikkingsbevoegdheid: de bevoegdheid een strafbeschikking uit te vaardigen, bedoeld in [artikel 257b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257b);
 
-- b. bevoegde ambtenaar: de opsporingsambtenaar, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.2&z=2024-01-01&g=2024-01-01).
+- b. bevoegde ambtenaar: de opsporingsambtenaar, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.2&z=2024-03-01&g=2024-03-01).
 
 2. Als korpschef in de zin van dit hoofdstuk wordt aangemerkt met betrekking tot
 
-- a. de ambtenaren, bedoeld in [artikel 3.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.2&z=2024-01-01&g=2024-01-01): de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
+- a. de ambtenaren, bedoeld in [artikel 3.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.2&z=2024-03-01&g=2024-03-01): de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
 
-- b. de ambtenaren werkzaam bij de Koninklijke marechaussee, bedoeld in [artikel 3.2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.2&z=2024-01-01&g=2024-01-01):
+- b. de ambtenaren werkzaam bij de Koninklijke marechaussee, bedoeld in [artikel 3.2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.2&z=2024-03-01&g=2024-03-01):
 
-- 1. voor de toepassing van [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.4&z=2024-01-01&g=2024-01-01): de betrokken districtscommandant;
+- 1. voor de toepassing van [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.4&z=2024-03-01&g=2024-03-01): de betrokken districtscommandant;
 
 - 2. voor de toepassing van de overige artikelen van dit hoofdstuk: de commandant van de Koninklijke marechaussee;
 
-- c. de ambtenaren, bedoeld in [artikel 3.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.2&z=2024-01-01&g=2024-01-01): het hoofd van de organisatie waarbij zij werkzaam zijn.
+- c. de ambtenaren, bedoeld in [artikel 3.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.2&z=2024-03-01&g=2024-03-01): het hoofd van de organisatie waarbij zij werkzaam zijn.
 
 ##### Artikel 3.2
 
-1. Voor de in [artikel 3.3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.3&z=2024-01-01&g=2024-01-01), aangewezen zaken wordt de strafbeschikkingsbevoegdheid toegekend aan de hulpofficieren van justitie, bedoeld in [artikel 146a onderdelen a en b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=146a), alsmede aan de hulpofficieren van justitie, bedoeld in artikel 146a onderdeel c, van de wet, voor zover het betreft de brigadecommandanten en de afdelingscommandanten en de adjudant-onderofficier en de opperwachtmeesters die als hun vervanger zijn aangewezen, voor zolang zij als zodanig optreden, alsmede de adjudant-onderofficier en de opperwachtmeesters, ingedeeld bij de centrale recherche Koninklijke marechaussee en de recherchegroepen.
+1. Voor de in [artikel 3.3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.3&z=2024-03-01&g=2024-03-01), aangewezen zaken wordt de strafbeschikkingsbevoegdheid toegekend aan de hulpofficieren van justitie, bedoeld in [artikel 146a onderdelen a en b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=146a), alsmede aan de hulpofficieren van justitie, bedoeld in artikel 146a onderdeel c, van de wet, voor zover het betreft de brigadecommandanten en de afdelingscommandanten en de adjudant-onderofficier en de opperwachtmeesters die als hun vervanger zijn aangewezen, voor zolang zij als zodanig optreden, alsmede de adjudant-onderofficier en de opperwachtmeesters, ingedeeld bij de centrale recherche Koninklijke marechaussee en de recherchegroepen.
 
-2. Voor de in [artikel 3.3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.3&z=2024-01-01&g=2024-01-01), aangewezen zaken wordt de strafbeschikkingsbevoegdheid toegekend aan de ambtenaren van politie, bedoeld in [artikel 141, aanhef en onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), alsmede aan de ambtenaren die een politieopleiding als bedoeld in [artikel 1, eerste lid, onder s, onder 1°, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=1) volgen aan de Politieacademie, uitsluitend gedurende hun praktijkstage bij de politie.
+2. Voor de in [artikel 3.3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.3&z=2024-03-01&g=2024-03-01), aangewezen zaken wordt de strafbeschikkingsbevoegdheid toegekend aan de ambtenaren van politie, bedoeld in [artikel 141, aanhef en onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), alsmede aan de ambtenaren die een politieopleiding als bedoeld in [artikel 1, eerste lid, onder s, onder 1°, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=1) volgen aan de Politieacademie, uitsluitend gedurende hun praktijkstage bij de politie.
 
-3. Voor de in [artikel 3.3, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.3&z=2024-01-01&g=2024-01-01), aangewezen zaken wordt strafbeschikkingsbevoegdheid toegekend aan de militairen van de Koninklijke marechaussee, bedoeld in [artikel 141, aanhef en onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141).
+3. Voor de in [artikel 3.3, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.3&z=2024-03-01&g=2024-03-01), aangewezen zaken wordt strafbeschikkingsbevoegdheid toegekend aan de militairen van de Koninklijke marechaussee, bedoeld in [artikel 141, aanhef en onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141).
 
-4. Voor de in [artikel 3.3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.3&z=2024-01-01&g=2024-01-01), aangewezen zaken wordt strafbeschikkingsbevoegdheid toegekend aan buitengewoon opsporingsambtenaren, voor zover deze ambtenaren bevoegd zijn tot de opsporing van die zaken.
+4. Voor de in [artikel 3.3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.3&z=2024-03-01&g=2024-03-01), aangewezen zaken wordt strafbeschikkingsbevoegdheid toegekend aan buitengewoon opsporingsambtenaren, voor zover deze ambtenaren bevoegd zijn tot de opsporing van die zaken.
 
-5. In afwijking van het vierde lid, wordt voor de in [artikel 3.3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.3&z=2024-01-01&g=2024-01-01), aangewezen zaken geen strafbeschikkingsbevoegdheid toegekend aan buitengewoon opsporingsambtenaren in dienst van de gemeente, voor zover voor die zaken in de desbetreffende gemeente krachtens een verordening als bedoeld in [artikel 154b, eerste lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=154b) een bestuurlijke boete kan worden opgelegd.
+5. In afwijking van het vierde lid, wordt voor de in [artikel 3.3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&hoofdstuk=III&artikel=3.3&z=2024-03-01&g=2024-03-01), aangewezen zaken geen strafbeschikkingsbevoegdheid toegekend aan buitengewoon opsporingsambtenaren in dienst van de gemeente, voor zover voor die zaken in de desbetreffende gemeente krachtens een verordening als bedoeld in [artikel 154b, eerste lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=154b) een bestuurlijke boete kan worden opgelegd.
 
 ##### Artikel 3.3
 
 Als zaken waarin de strafbeschikkingsbevoegdheid kan worden uitgeoefend worden aangewezen:
 
-- a. de zaken, aangeduid in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&bijlage=I&z=2024-01-01&g=2024-01-01) van dit besluit en zoals nader omschreven in de richtlijnen, gesteld door het openbaar ministerie, die de ontdekking betreffen van een misdrijf, omschreven in [artikel 310](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=310) of [321 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=321), voor zover het feit de toe-eigening betreft van goederen met een waarde van ten hoogste € 120 uit een winkel, voor zover de verdachte de leeftijd van achttien jaren heeft bereikt;
+- a. de zaken, aangeduid in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&bijlage=I&z=2024-03-01&g=2024-03-01) van dit besluit en zoals nader omschreven in de richtlijnen, gesteld door het openbaar ministerie, die de ontdekking betreffen van een misdrijf, omschreven in [artikel 310](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=310) of [321 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=321), voor zover het feit de toe-eigening betreft van goederen met een waarde van ten hoogste € 120 uit een winkel, voor zover de verdachte de leeftijd van achttien jaren heeft bereikt;
 
-- b. de zaken welke betreffen de op heterdaad of met een technisch hulpmiddel door de bevoegde ambtenaar ontdekte overtredingen, aangeduid in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&bijlage=I&z=2024-01-01&g=2024-01-01) van dit besluit, voor zover de verdachte hetzij behoort tot een categorie die met betrekking tot die feiten in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&bijlage=I&z=2024-01-01&g=2024-01-01) van dit besluit is vermeld, hetzij, in het geval bedoeld in [artikel 181, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=181), de eigenaar of houder is van het motorrijtuig waarmee het feit is begaan;
+- b. de zaken welke betreffen de op heterdaad of met een technisch hulpmiddel door de bevoegde ambtenaar ontdekte overtredingen, aangeduid in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&bijlage=I&z=2024-03-01&g=2024-03-01) van dit besluit, voor zover de verdachte hetzij behoort tot een categorie die met betrekking tot die feiten in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&bijlage=I&z=2024-03-01&g=2024-03-01) van dit besluit is vermeld, hetzij, in het geval bedoeld in [artikel 181, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=181), de eigenaar of houder is van het motorrijtuig waarmee het feit is begaan;
 
-- c. de op heterdaad of met een technisch hulpmiddel ontdekte verkeersovertredingen, aangeduid in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&bijlage=I&z=2024-01-01&g=2024-01-01) van dit besluit en strafbaar gesteld bij [artikel 169 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=169) juncto de Verkeersregeling defensie voor zover de verdachte militair is en hetzij behoort tot een categorie die met betrekking tot die feiten in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&bijlage=I&z=2024-01-01&g=2024-01-01) van dit besluit is vermeld, hetzij, in het geval bedoeld in [artikel 181, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=181), de eigenaar of houder is van het motorrijtuig waarmee het feit is begaan en de overtreding is begaan op een militair terrein met een voertuig dat niet bij de krijgsmacht in gebruik is.
+- c. de op heterdaad of met een technisch hulpmiddel ontdekte verkeersovertredingen, aangeduid in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&bijlage=I&z=2024-03-01&g=2024-03-01) van dit besluit en strafbaar gesteld bij [artikel 169 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=169) juncto de Verkeersregeling defensie voor zover de verdachte militair is en hetzij behoort tot een categorie die met betrekking tot die feiten in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&bijlage=I&z=2024-03-01&g=2024-03-01) van dit besluit is vermeld, hetzij, in het geval bedoeld in [artikel 181, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=181), de eigenaar of houder is van het motorrijtuig waarmee het feit is begaan en de overtreding is begaan op een militair terrein met een voertuig dat niet bij de krijgsmacht in gebruik is.
 
 ##### Artikel 3.4
 
@@ -297,7 +297,6 @@ Vervallen
 |   |   |   | **Feit** | **Overtreden artikel** | **Tarief categorie(ën)** |
 | --- | --- | --- | --- | --- | --- |
 |   |   |   | Afdeling A. Verkeer te land |   |   |
-|   |   |   |   |   |   |
 |   |   |   | Categorie-indeling B: |   |   |
 |   |   |   | 1 – Bestuurders van motorvoertuigen op meer dan twee wielen, en bestuurders van brommobielen voor zover het de bepalingen van het [RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825) betreft; |   |   |
 |   |   |   | 2 – Bestuurders van motorvoertuigen op twee wielen; |   |   |
@@ -307,7 +306,6 @@ Vervallen
 |   |   |   | 6 – Overige weggebruikers; |   |   |
 |   |   |   | 7 – Gezagvoerders/schippers; |   |   |
 |   |   |   | 8 – Een ieder. |   |   |
-|   |   |   |   |   |   |
 |   |   |   | NB 1 De categorieën 1 tot en met 4 gelden in voorkomend geval mede voor bestuurders van één van de op die categorieën betrekking hebbende voertuigen, indien daarmee een aanhangwagen wordt voortbewogen. Dit geldt eveneens voor geparkeerde aanhangwagens indien deze door een onder één van deze categorieën vallende bestuurders is geparkeerd. |   |   |
 |   |   |   | NB 2 Op basis van [artikel 2a RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=2a) zijn, tenzij anders bepaald, voor brommobielen en bestuurders en passagiers van brommobielen de regels betreffende motorvoertuigen van toepassing. Voor de feitcodes waar dit op van toepassing is moet in geval van een overtreding met een brommobiel of door een bestuurder van een brommobiel gepleegde overtreding in plaats van motorvoertuig brommobiel worden gelezen. |   |   |
 |   |   |   | Nummers K 006 – K 172: [Wegenverkeerswet 1994](onbekend) (WVW 1994); [Reglement Rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074) (RR) |   |   |
@@ -316,23 +314,22 @@ Vervallen
 | K | 060 | j | als bestuurder van een motorrijtuig rijden terwijl het rijbewijs zijn geldigheid heeft verloren doordat het niet binnen drie maanden na het besluit tot afgifte is uitgereikt | [107 lid 2 sub b WVW 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=107) | 1/2/3 |
 | K | 071 |   | als bestuurder optreden zonder te beschikken over een ingevolge de richtlijn vakbekwaamheid vereist geldig getuigschrift | [151c WVW 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=151c) | 1 |
 |   |   |   |   |   |   |
-|   |   |   | Noot K 072 a/cd |   |   |
-|   |   |   | De vermelde tarieven bij deze feitcodes dienen gehalveerd en op hele euro's naar boven te worden afgerond |   |   |
 |   |   |   | als bestuurder beneden de 16 jaar een motorrijtuig besturen, zijnde | [110 WVW 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=110) jo. |   |
+|   |   |   | de vermelde tarieven bij feitcodes (K 072 a t/m cd) dienen gehalveerd en op hele euro's naar boven te worden afgerond |   |   |
 | K | 072 | b | – een gehandicaptenvoertuig, niet zijnde een gehandicaptenvoertuig uitgerust met een elektromotor dat niet sneller kan rijden dan 10 km/h | [5 lid 3 RR](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=5) | 4 |
 | K | 160 | b | als bestuurder van een voertuig die, in het kader van beroepsgoederenvervoer of personenvervoer, in overtreding wordt bevonden van een bij of krachtens de [WVW 1994](onbekend) vastgesteld voorschrift, betreffende het vervoer van lading of personen, de gegeven bevelen niet opvolgen | [160 lid 6 WVW 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=160) | 1 |
 |   |   |   |   |   |   |
 |   |   |   | Snelheidsoverschrijdingen |   |   |
 |   |   |   | Noot |   |   |
 |   |   |   | 1. * = Recidiveregeling snelheid (zie Richtlijn voor strafvordering tarieven en feitomschrijvingen enz.); bij staandehouding wordt bij overschrijding vanaf 50 km/h of 30 km/h (cat. 3) het rijbewijs ingevorderd en dient het proces-verbaal met het proces-verbaal van invordering te worden ingezonden naar het Openbaar Ministerie. |   |   |
-|   |   |   |   |   |   |
 |   |   |   | 2. Indien bij een feitcode bij het tarief «OBM» staat vermeld dan betreft dit de eis ter zitting voor de eerste overtreding. Naast deze boete dient een OBM ov conform de recidiveregeling snelheidsovertredingen te worden geëist. |   |   |
-|   |   |   |   |   |   |
 |   |   |   | b. Binnen de bebouwde kom |   |   |
 |   |   |   | overschrijding van de maximumsnelheid binnen de bebouwde kom | [20 sub a RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=20) (cat 1/2), 20 sub b en c RVV 1990 (cat 3), [22 sub c en d RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=22) (cat 3), [22a RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=22a) (cat 4) |   |
 | VA | 030 | b | – met 30 km/h |   | 2 |
+|   |   |   |   |   |   |
 |   |   |   | overschrijding van de maximumsnelheid binnen de bebouwde kom | [62](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=62) jo. bord A1 (uitgezonderd [30 km/h]) [RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825) |   |
 | VB | 030 | b | – met 30 km/h |   | 2 |
+|   |   |   |   |   |   |
 |   |   |   | overschrijding van de maximumsnelheid binnen de bebouwde kom (bord A1 [30 km/h]) | [62](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=62) jo. bord A1 [RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825) |   |
 | VS | 023 | a | – met 23 km/h |   | 2 |
 | VS | 024 | a | – met 24 km/h |   | 2 |
@@ -342,6 +339,7 @@ Vervallen
 | VS | 028 | a | – met 28 km/h |   | 2 |
 | VS | 029 | a | – met 29 km/h |   | 2 |
 | VS | 030 |   | – met 30 km/h |   | 1/2/4 |
+|   |   |   |   |   |   |
 |   |   |   | overschrijding van de maximumsnelheid binnen een erf | [45 RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=45) |   |
 | VV | 023 | a | – met 23 km/h |   | 2 |
 | VV | 024 | a | – met 24 km/h |   | 2 |
@@ -351,8 +349,10 @@ Vervallen
 | VV | 028 | a | – met 28 km/h |   | 2 |
 | VV | 029 | a | – met 29 km/h |   | 2 |
 | VV | 030 |   | – met 30 km/h |   | 1/2/4 |
+|   |   |   |   |   |   |
 |   |   |   | overschrijding van de maximumsnelheid binnen de bebouwde kom | [62](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=62) jo. bord A3 [RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825) |   |
 | VC | 030 | b | – met 30 km/h |   | 2 |
+|   |   |   |   |   |   |
 |   |   |   | overschrijding van de maximumsnelheid binnen de bebouwde kom bij wegwerkzaamheden | [62](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=62) jo. bord A1 [RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825) |   |
 | VD | 023 | a | – met 23 km/h |   | 2 |
 | VD | 024 | a | – met 24 km/h |   | 2 |
@@ -362,6 +362,7 @@ Vervallen
 | VD | 028 | a | – met 28 km/h |   | 2 |
 | VD | 029 | a | – met 29 km/h |   | 2 |
 | VD | 030 |   | – met 30 km/h |   | 1/2/4 |
+|   |   |   |   |   |   |
 |   |   |   | overschrijding van de maximumsnelheid binnen de bebouwde kom bij wegwerkzaamheden | [62](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=62) jo. bord A3 [RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825) |   |
 | VE | 023 | a | – met 23 km/h |   | 2 |
 | VE | 024 | a | – met 24 km/h |   | 2 |
@@ -372,28 +373,32 @@ Vervallen
 | VE | 029 | a | – met 29 km/h |   | 2 |
 | VE | 030 |   | – met 30 km/h |   | 1/2/4 |
 |   |   |   |   |   |   |
-|   |   |   | c. (Auto)wegen buiten de bebouwde kom |   |   |
 |   |   |   | overschrijding van de maximumsnelheid op (auto)wegen buiten de bebouwde kom bij wegwerkzaamheden | [62](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=62) jo. bord A1 [RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825), [22 sub a, e en f RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=22) (cat 2) |   |
 | VI | 028 | a | – met 28 km/h |   | 2 |
 | VI | 029 | a | – met 29 km/h |   | 2 |
 | VI | 030 | b | – met 30 km/h |   | 2 |
+|   |   |   |   |   |   |
 |   |   |   | overschrijding van de maximumsnelheid op (auto)wegen buiten de bebouwde kom bij wegwerkzaamheden | [62](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=62) jo. bord A3 [RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825), [22 sub a, e en f RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=22) (cat 2) |   |
 | VK | 028 | a | – met 28 km/h |   | 2 |
 | VK | 029 | a | – met 29 km/h |   | 2 |
 | VK | 030 | b | – met 30 km/h |   | 2 |
 |   |   |   |   |   |   |
 |   |   |   | d. Autosnelwegen |   |   |
-|   |   |   | overschrijding van de maximumsnelheid op autosnelwegen buiten de bebouwde kom | [21 sub a RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=21) (cat 1), [22 sub a, b, e en f RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=22) (cat 2) |   |
+|   |   |   | overschrijding van de maximumsnelheid op autosnelwegen buiten de bebouwde kom | [21 sub a RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=21) (cat 1), [22 sub a, b, e en f RVV 1990 (cat 2)](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=22) |   |
 | VL | 040 | a | – met 40 km/h |   | 1 |
+|   |   |   |   |   |   |
 |   |   |   | overschrijding van de maximumsnelheid op autosnelwegen buiten de bebouwde kom | [62](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=62) jo. bord A1 [RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825) |   |
 | VM | 040 | a | – met 40 km/h |   | 1 |
+|   |   |   |   |   |   |
 |   |   |   | overschrijding van de maximumsnelheid op autosnelwegen buiten de bebouwde kom | [62](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=62) jo. bord A3 [RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825) |   |
 | VN | 040 | a | – met 40 km/h |   | 1 |
+|   |   |   |   |   |   |
 |   |   |   | overschrijding van de maximumsnelheid op autosnelwegen buiten de bebouwde kom bij wegwerkzaamheden | [62](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=62) jo. bord A1 [RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825), [22 sub a, e en f RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=22) (cat 2) |   |
 | VO | 028 | a | – met 28 km/h |   | 2 |
 | VO | 029 | a | – met 29 km/h |   | 2 |
 | VO | 030 | a | – met 30 km/h |   | 2 |
-|   |   |   | overschrijding van de maximumsnelheid op autosnelwegen buiten de bebouwde kom bij wegwerkzaamheden | [62](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=62) jo. bord A3 [RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825), [22 sub a, e en f RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=22a) (cat 2) |   |
+|   |   |   | c. (Auto)wegen buiten de bebouwde kom |   |   |
+|   |   |   | overschrijding van de maximumsnelheid op autosnelwegen buiten de bebouwde kom bij wegwerkzaamheden | [62](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=62) jo. bord A3 [RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825), [22 sub a, e en f RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=22)(cat 2) |   |
 | VP | 028 | a | – met 28 km/h |   | 2 |
 | VP | 029 | a | – met 29 km/h |   | 2 |
 | VP | 030 | a | – met 30 km/h |   | 2 |
@@ -406,9 +411,8 @@ Vervallen
 |   |   |   | 4 – Fietsers en bestuurders van gehandicaptenvoertuigen met of zonder motor; |   |   |
 |   |   |   | 5 – Voetgangers; |   |   |
 |   |   |   | 6 – Overige weggebruikers; |   |   |
-|   |   |   | 7 – Schippers; |   |   |
+|   |   |   | 7 – Gezagvoerders/schippers; |   |   |
 |   |   |   | 8 – Een ieder. |   |   |
-|   |   |   |   |   |   |
 |   |   |   | NB 1 De categorieën 1 tot en met 4 gelden in voorkomend geval mede voor bestuurders van één van de op die categorieën betrekking hebbende voertuigen, indien daarmee een aanhangwagen wordt voortbewogen. Dit geldt eveneens voor geparkeerde aanhangwagens indien deze door een onder één van deze categorieën vallende bestuurders is geparkeerd. |   |   |
 |   |   |   | NB 2 Op basis van [artikel 2a RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=2a) zijn, tenzij anders bepaald, voor brommobielen en bestuurders en passagiers van brommobielen de regels betreffende motorvoertuigen van toepassing. Voor de feitcodes waar dit op van toepassing is moet in geval van een overtreding met een brommobiel of door een bestuurder van een brommobiel gepleegde overtreding in plaats van motorvoertuig brommobiel worden gelezen. |   |   |
 |   |   |   | Hoofdstuk 2. Verkeersregels |   |   |
@@ -419,7 +423,7 @@ Vervallen
 |   |   |   | II. Verkeersborden |   |   |
 | R | 587 | a | een fiets plaatsen in strijd met bord E3 (verbod (brom)fietsen te plaatsen) | [62](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=62) jo. bord E3 [RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825) | 4 |
 |   |   |   |   |   |   |
-|   |   |   | Nummers K 805 – K 825: [Wet rijonderricht motorrijtuigen 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006073) (WRM 1993) |   |   |
+|   |   |   | Nummers K 805 – K 810: [Wet rijonderricht motorrijtuigen 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006073) (WRM 1993) |   |   |
 | K | 810 | a | rijonderricht geven terwijl het certificaat niet geldig is voor het rijonderricht dat wordt gegeven | [7 lid 3 onder a WRM 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=7) | 8 |
 |   |   |   |   |   |   |
 |   |   |   | Nummers N 010 – P 602: [Besluit voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025554) (BV) en [Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798) (RV) |   |   |
@@ -449,46 +453,41 @@ Vervallen
 |   |   |   | categorie: 15b – bromfiets |   |   |
 |   |   |   | – Bij de in deze afdeling vermelde overtredingen is het niet toegestaan om uitsluitend een kenteken te vermelden op het mini proces-verbaal. De NAW-gegevens van de verdachte moeten eveneens worden vermeld. De verdachte dient daarom staande te worden gehouden. |   |   |
 |   |   |   | – Op de kennisgeving/aankondiging moet een nadere toelichting op het feit worden vermeld, omdat de bepalingen van de [RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798) in algemene feitomschrijvingen zijn weergegeven. |   |   |
-|   |   |   | – Voor feiten gebaseerd op de [RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798) geldt dat deze feiten niet op kenteken kunnen worden geconstateerd. (Dit volgt uit de voor de eerste feitcode geplaatste koptekst, geldend voor de gehele [Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798): «Als bestuurder rijden (terwijl)...»). |   |   |
+|   |   |   | – Voor feiten gebaseerd op de [RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798) geldt dat deze feiten niet op kenteken kunnen worden geconstateerd. |   |   |
 |   |   |   | – De feiten die betrekking hebben op de massa of de last onder wiel of as gelden uitsluitend voor particulieren. Indien sprake is van beroepsmatig vervoer is de [Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063) van toepassing. Zie hiervoor de feitcodeserie E 850 t/m E 858. |   |   |
 |   |   |   | – Een aanhangwagen van de voertuigcategorie O met een toegestane maximummassa van meer dan 750 kg moet voldoen aan de in de in afdeling 12 opgenomen eisen. Dit houdt in dat als dit soort aanhangwagens door land- of bosbouwtrekkers e.d. worden voortbewogen deze toch moeten voldoen aan de voor categorie 12 geldende eisen. Dit geldt eveneens voor categorie 13 en 14 aanhangwagens, die aan de eisen van de respectievelijk categorie 13 en 14 moeten voldoen, maar dit is vanwege het ontbreken van een kenteken lastig dan wel niet vast te stellen en derhalve afhankelijk van de verklaring van de betrokkene. |   |   |
-|   |   |   | – Een verwisselbaar getrokken uitrustingsstuk valt onder categorie 14 en moet aan de daarvoor geldende eisen voldoen. In afwijking hiervan moet een verwisselbaar getrokken uitrustingsstuk dat niet om een verticale as kan draaien ten opzichte van het trekkende voertuig voldoen aan het bepaalde in [afdeling 18](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&afdeling=18). |   |   |
+|   |   |   | – Een verwisselbaar getrokken uitrustingsstuk valt onder categorie 14 en moet aan de daarvoor geldende eisen voldoen. In afwijking hiervan moet een verwisselbaar getrokken uitrustingsstuk dat niet om een verticale as kan draaien ten opzichte van het trekkende voertuig voldoen aan het bepaalde in afdeling 18. |   |   |
 |   |   |   | [Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798) |   |   |
-|   |   |   |   |   |   |
-|   |   |   | Als bestuurder van een voertuig rijden (terwijl): |   |   |
 |   |   |   | 2 – Afmetingen en massa's |   |   |
 |   |   |   | Breedte |   |   |
-|   |   |   | het voertuig breder is dan 3 m (cat 3 rijdend werktuig) | 5.*.6 RV |   |
+|   |   |   | als bestuurder van een voertuig rijden terwijl het voertuig breder is dan 3 m (cat 3 rijdend werktuig) | 5.*.6 [RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798) |   |
 | N | 060 | hd | – van meer dan 0,75 m |   | 03/07/07a/08/14 |
-|   |   |   |   |   |   |
 |   |   |   | Hoogte |   |   |
-|   |   |   | het voertuig hoger is dan 4 m (cat 5 in gebruik voor 01-11-1997) een overschrijding | 5.*.6 RV |   |
+|   |   |   | als bestuurder van een voertuig rijden terwijl het voertuig hoger is dan 4 m (cat 5 in gebruik voor 01-11-1997) een overschrijding | 5.*.6 [RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798) |   |
 | N | 062 | a | – van 0,01 m t/m 0,10 m |   | 02/03/03a/05/07/07a/08/12/13/14/17 |
 | N | 062 | b | – van meer dan 0,10 m t/m 0,20 m |   | 02/03/03a/05/07/07a/08/12/13/14/17 |
 | N | 062 | c | – van meer dan 0,20 m |   | 02/03/03a/05/07/07a/08/12/13/14/17 |
-|   |   |   |   |   |   |
 |   |   |   | Massa |   |   |
-|   |   |   | de toegestane asdruk, massa of som van de aslasten (cat 5 ingebruikname na 01-02-1999) wordt overschreden met | 5.*.7 RV |   |
+|   |   |   | als bestuurder van een voertuig rijden terwijl de toegestane asdruk, massa of som van de aslasten (categorie 5 ingebruikname na 01-02-1999) wordt overschreden met | 5.*.7 [RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798) |   |
 | N | 070 | b | – meer dan 25% |   | 02/03/03a/05/08/12 |
 | N | 070 | c | – meer dan 50% |   | 02/03/03a/05/08/12 |
 | N | 070 | d | – meer dan 75% |   | 02/03/03a/05/08/12 |
-|   |   |   | van het rijdende werktuig de toegestane maximumlast van enig(e) as of asstel wordt overschreden met | [5.3.7 lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.3.7) |   |
+|   |   |   |   |   |   |
+|   |   |   | als bestuurder van een voertuig rijden terwijl van het rijdende werktuig de toegestane maximumlast van enig(e) as of asstel wordt overschreden met | [5.3.7 lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.3.7) |   |
 | N | 072 | b | – 15 tot 20% |   | 03 |
 | N | 072 | c | – 20 tot 25% |   | 03 |
-|   |   |   | van het rijdende werktuig de toegestane maximummassa of som van de aslasten wordt overschreden met | [5.3.7 lid 2 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.3.7) |   |
+|   |   |   |   |   |   |
+|   |   |   | als bestuurder van een voertuig rijden terwijl van het rijdende werktuig de toegestane maximummassa of som van de aslasten wordt overschreden met | [5.3.7 lid 2 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.3.7) |   |
 | N | 073 | b | – 10 tot 15% |   | 03 |
 | N | 073 | c | – 15 tot 20% |   | 03 |
-|   |   |   |   |   |   |
 |   |   |   | 3 – Motor |   |   |
 |   |   |   | Meting geluidsniveau |   |   |
 |   |   |   | Noot |   |   |
 |   |   |   | Indien geen waarde (op het kentekenbewijs of) in het kentekenregister is vermeld dan moeten onderstaande waarden worden gehanteerd: |   |   |
-|   |   |   |   |   |   |
 |   |   |   | Bromfiets |   |   |
 |   |   |   | Constructiesnelheid maximum toegestane waarde |   |   |
-|   |   |   | Max 25 km/h 90 dB(A) |   |   |
+|   |   |   | max. 25 km/h 90 dB(A) |   |   |
 |   |   |   | > 25 km/h 97 dB(A) |   |   |
-|   |   |   |   |   |   |
 |   |   |   | Motorfiets |   |   |
 |   |   |   | Cylinderinhoud t/m maximum toegestane waarde |   |   |
 |   |   |   | 80 cm3 91 dB(A) |   |   |
@@ -497,52 +496,48 @@ Vervallen
 |   |   |   | 500 cm3 97 dB(A) |   |   |
 |   |   |   | 750 cm3 100 dB(A) |   |   |
 |   |   |   | 1.000 cm3 103 dB(A) |   |   |
-|   |   |   | >1.000 cm3 106 dB(A) |   |   |
-|   |   |   |   |   |   |
+|   |   |   | >1000 cm3 106 dB(A) |   |   |
 |   |   |   | Personen-/bedrijfsauto/bus/driewielig motorrijtuig |   |   |
-|   |   |   | benzinemotor max 3.500 kg bij 3.500 toeren max 95 dB(A) |   |   |
-|   |   |   | dieselmotor max 3.500 kg bij 2.000 toeren max 95 dB(A) |   |   |
-|   |   |   | > 3.500 kg bij 1.500 toeren max 95 dB(A) |   |   |
-|   |   |   |   |   |   |
-|   |   |   | het (op het kentekenbewijs of) in het kentekenregister vermelde geluidsniveau, vermeerderd met 2 dB(A), wordt overschreden | 5.*.11 RV |   |
+|   |   |   | benzinemotor max. 3.500 kg bij 3.500 toeren max. 95 dB(A) |   |   |
+|   |   |   | dieselmotor max. 3.500 kg bij 2.000 toeren max. 95 dB(A) |   |   |
+|   |   |   | > 3.500 kg bij 1.500 toeren max. 95 dB(A) |   |   |
+|   |   |   | als bestuurder van een voertuig rijden terwijl het (op het kentekenbewijs of) in het kentekenregister vermelde geluidsniveau, vermeerderd met 2 dB(A), wordt overschreden | 5.*.11 [RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798) |   |
 | N | 110 | o | – vanaf 4 dB(A) |   | 02/03/03a/04/05/06 |
-|   |   |   | het toegestane geluidsniveau van het voertuig, waarvoor geen waarde (op het kentekenbewijs of) in het kentekenregister is vermeld, wordt overschreden | 5.*.11 en [5.6.80 lid 3 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.6.80) |   |
+|   |   |   | als bestuurder van een voertuig rijden terwijl het toegestane geluidsniveau van het voertuig, waarvoor geen waarde (op het kentekenbewijs of) in het kentekenregister is vermeld, wordt overschreden | 5.*.11 [RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798) |   |
 | N | 110 | q | – vanaf 4 dB(A) |   | 02/03/03a/04/05/06 |
 |   |   |   |   |   |   |
 |   |   |   | 4 – Krachtoverbrenging |   |   |
-| N | 150 | d | dan wel als eigenaar of houder doen of laten rijden terwijl de snelheidsbegrenzer wegens een defect niet aan de eisen voldoet (bedrijfsauto bestemd voor het vervoer van goederen niet meer dan 90 km/h en een bus maximaal 100 km/h) | 5.*.15 lid 3 en 4 RV | 03/03a |
+|   |   |   | als bestuurder van een voertuig rijden (terwijl) |   |   |
+| N | 150 | d | dan wel als eigenaar of houder doen of laten rijden terwijl de snelheidsbegrenzer wegens een defect niet aan de eisen voldoet (bedrijfsauto bestemd voor het vervoer van goederen niet meer dan 90 km/h en een bus maximaal 100 km/h) | 5.*.15 lid 3 en 4 [RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798) | 03/03a |
 |   |   |   |   |   |   |
 |   |   |   | 6 – Ophanging |   |   |
-|   |   |   | de wielen niet voorzien zijn van luchtbanden | 5.*.27 en [5.6.87 lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.6.87) |   |
+|   |   |   | als bestuurder van een voertuig rijden terwijl de wielen niet voorzien zijn van luchtbanden | 5.*.27 [RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798) |   |
 | N | 270 | d | – 4 banden |   | 02/03/03a/06 |
-|   |   |   | een band/de banden beschadigd is/zijn, waarbij het karkas zichtbaar is of de band/banden uitstulpingen vertoont/vertonen | 5.*.27 RV |   |
+|   |   |   | als bestuurder van een voertuig rijden terwijl een band/de banden beschadigd is/zijn, waarbij het karkas zichtbaar is of de band/banden uitstulpingen vertoont/vertonen | 5.*.27 [RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798) |   |
 | N | 270 | h | – 4 banden |   | 02/06/07/07a/08/10/11/13/14 |
-|   |   |   | het loopvlak uitstekende metalen elementen bevat, per (band) beschadiging | 5.*.27 en [5.6.87 lid 2 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.6.87) |   |
+|   |   |   | als bestuurder van een voertuig rijden terwijl het loopvlak uitstekende metalen elementen bevat, per (band) beschadiging | 5.*.27 [RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798) |   |
 | N | 270 | l | – 4 banden |   | 02/03/03a/06/07/07a/08/10/11/12/13/14 |
-|   |   |   | de band(en) is/zijn beschadigd waarbij het karkas zichtbaar is, de band(en) uitstulpingen vertoont/vertonen of de daarop vermelde load-index kleiner is dan toegestaan | 5.*.27 RV |   |
+|   |   |   | als bestuurder van een voertuig rijden terwijl de band(en) is/zijn beschadigd waarbij het karkas zichtbaar is, de band(en) uitstulpingen vertoont/vertonen of de daarop vermelde load-index kleiner is dan toegestaan | 5.*.27 [RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798) |   |
 | N | 270 | p | – 4 banden |   | 03/03a/12 |
-|   |   |   | de profilering van een band/de banden niet voldoet aan de gestelde eisen of is/zijn nageprofileerd (naprofilering geldt niet voor cat 3, 3a en 12 i.g.v. opschrift regroovable; cat 2, 3(a), 5, 8, 12, 13 en 14 min. 1,6 mm; cat 4 min 1,0 mm; cat 6, 10 en 11 profilering moet aanwezig zijn over de gehele omtrek en breedte) | 5.*.27 RV |   |
+|   |   |   | als bestuurder van een voertuig rijden terwijl de profilering van een band/de banden niet voldoet aan de gestelde eisen of is/zijn nageprofileerd (naprofilering geldt niet voor cat 3, 3a en 12 i.g.v. opschrift regroovable; cat 2, 3(a), 5, 8, 12, 13 en 14 min. 1,6 mm; cat 4 min 1,0 mm; cat 6, 10 en 11 profilering moet aanwezig zijn over de gehele omtrek en breedte) | 5.*.27 [RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798) |   |
 | N | 270 | u | – 4 banden |   | 02/03/03a/06/08/10/11/12/13/14 |
-|   |   |   | de aanhangwagen is voorzien van banden waarvan het loopvlak bestaat uit metaal of een materiaal dat voor wat betreft hardheid en vervormbaarheid dezelfde eigenschappen heeft | 5.*.27 RV |   |
+|   |   |   | als bestuurder van een voertuig rijden terwijl de aanhangwagen is voorzien van banden waarvan het loopvlak bestaat uit metaal of een materiaal dat voor wat betreft hardheid en vervormbaarheid dezelfde eigenschappen heeft | 5.*.27 [RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798) |   |
 | N | 271 | h | – 4 banden |   | 12/13/14 |
 |   |   |   |   |   |   |
 |   |   |   | 8 – Reminrichting |   |   |
-|   |   |   | niet wordt voldaan aan de vereiste remvertraging (cat. 12 toegestane maximummassa minder dan 3.500 kg); de vermindering bedraagt | 5.*.38 RV |   |
+|   |   |   | als bestuurder van een voertuig rijden terwijl niet wordt voldaan aan de vereiste remvertraging (cat. 12 toegestane maximummassa minder dan 3.500 kg); de vermindering bedraagt | 5.*.38 [RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798) |   |
 | N | 381 | c | – 1,01 t/m 1,5 m/s2 |   | 02/04/05/12 |
 | N | 381 | d | – 1,51 t/m 2,0 m/s2 |   | 02/04/05/12 |
 | N | 381 | e | – meer dan 2,0 m/s2 |   | 02/04/05/12 |
-|   |   |   | niet wordt voldaan aan de vereiste remvertraging (cat. 12 toegestane maximummassa 3.500 kg of meer); de vermindering bedraagt | 5.*.38 RV |   |
+|   |   |   | als bestuurder van een voertuig rijden terwijl niet wordt voldaan aan de vereiste remvertraging (cat. 12 toegestane maximummassa 3.500 kg of meer); de vermindering bedraagt | 5.*.38 [RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798) |   |
 | N | 381 | g | – 0,51 t/m 1,0 m/s2 |   | 03/03a/07/07a/08/12 |
 | N | 381 | h | – 1,01 t/m 1,5 m/s2 |   | 03/03a/07/07a/08/12 |
 | N | 381 | i | – 1,51 t/m 2,0 m/s2 |   | 03/03a/07/07a/08/12 |
 | N | 381 | j | – meer dan 2,0 m/s2 |   | 03/03a/07/07a/08/12 |
 |   |   |   |   |   |   |
 |   |   |   | Gebruikseisen voertuigen |   |   |
-|   |   |   |   |   |   |
-|   |   |   | Als bestuurder van een (motor)voertuig of samenstel van (motor)voertuigen rijden (terwijl): |   |   |
-|   |   |   |   |   |   |
 |   |   |   | 0 – Algemeen |   |   |
-|   |   |   |   |   |   |
+|   |   |   | als bestuurder van een (motor)voertuig of samenstel van (motor)voertuigen rijden terwijl |   |   |
 | P | 010 | aa | met de bedrijfsauto meer dan één aanhangwagen wordt voortbewogen (samenstel van dolly met oplegger toegestaan) | [5.18.1 lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.1) | 03 |
 |   |   |   |   |   |   |
 |   |   |   | 1 – Afmetingen en massa's |   |   |
@@ -552,127 +547,147 @@ Vervallen
 |   |   |   | Lengte samenstel (onbeladen), c.q. indien geen sprake is van uitstekende lading |   |   |
 |   |   |   | Noot: |   |   |
 |   |   |   | Lengte opleggertrekker met oplegger max. 16,50 m; bedrijfsauto/bus met aanhangwagen max. 18,75 m; personenauto/driewielig motorvoertuig met aanhangwagen max. 18 m; samenstel kermis-/circusvoertuigen max. 24 m; rijdend werktuig met aanhangwagen max. 20 m; land- bosbouwtrekker/motorrijtuig beperkte snelheid met één of meer aanhangwagens en/of verwisselbare getrokken machines max. 18,75 m; land- bosbouwtrekker/motorrijtuig beperkte snelheid met één of meer aanhangwagens en/of verwisselbare gedragen uitrustingsstukken machines max.18,75 m; indien het een verwisselbaar getrokken uitrustingsstuk betreft dat niet om een verticale as kan draaien ten opzichte van het trekkende voertuig lengte samenstel max. 12 m. |   |   |
-|   |   |   | de maximum toegestane lengte van het samenstel van voertuigen wordt overschreden, met een overschrijding | [5.18.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.11) en [5.18.20 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.20) |   |
+|   |   |   | als bestuurder van een (motor)voertuig of samenstel van (motor)voertuigen rijden terwijl de maximum toegestane lengte van het samenstel van voertuigen wordt overschreden, met een overschrijding | [5.18.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.11) en [5.18.20 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.20) |   |
 | P | 111 | b | – van meer dan 0,25 m en t/m 0,50 m |   | 02/03/03a/05/07/07a/08 |
 | P | 111 | c | – van meer dan 0,50 m en t/m 0,75 m |   | 02/03/03a/05/07/07a/08 |
 | P | 111 | d | – van meer dan 0,75 m en t/m 1,00 m |   | 02/03/03a/05/07/07a/08 |
 | P | 111 | e | – van meer dan 1,00 m |   | 02/03/03a/05/07/07a/08 |
-|   |   |   |   |   |   |
 |   |   |   | Lengte deelbaar; uitstekende lading achterzijde |   |   |
-|   |   |   | de lading meer dan 1 m achter het voertuig en/of meer dan 5 m achter de achterste as van het voertuig uitsteekt en/of de vereiste stootbalk, voor het na 01-01-1996 in gebruik genomen voertuig, meer dan 0,60 m van de uiterste achterzijde is aangebracht, terwijl de afstand van de lading tot het wegdek meer bedraagt dan 0,55 m (categorie 12 bedrijfsmatig gebruik), een overschrijding | [5.18.12 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.12) |   |
+|   |   |   | als bestuurder van een (motor)voertuig of samenstel van (motor)voertuigen rijden terwijl de lading meer dan 1 m achter het voertuig en/of meer dan 5 m achter de achterste as van het voertuig uitsteekt en/of de vereiste stootbalk, voor het na 01-01-1996 in gebruik genomen voertuig, meer dan 0,60 m van de uiterste achterzijde is aangebracht, terwijl de afstand van de lading tot het wegdek meer bedraagt dan 0,55 m (categorie 12 bedrijfsmatig gebruik), een overschrijding | [5.18.12 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.12) |   |
 | P | 121 | b | – van meer dan 0,25 m en t/m 0,50 m |   | 03/12 |
 | P | 121 | c | – van meer dan 0,50 m en t/m 0,75 m |   | 03/12 |
 | P | 121 | d | – van meer dan 0,75 m en t/m 1,00 m |   | 03/12 |
 | P | 121 | e | – van meer dan 1,00 m |   | 03/12 |
-|   |   |   | de uitsteek van de afneembare bovenbouw of gestandaardiseerde laadstructuur achter het hart van de achterste as meer dan 0,5 maal de lengte van het voertuig bedraagt en/of meer dan 5 m bedraagt of bij een oplegger de uitsteek van de afneembare bovenbouw of gestandaardiseerde laadstructuur achter het hart van de achterste as meer bedraagt dan 0,5 maal de afstand van hart koppeling tot de achterzijde en/of meer dan 5 m bedraagt | [5.18.12 lid 7 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.12) |   |
+|   |   |   |   |   |   |
+|   |   |   | als bestuurder van een (motor)voertuig of samenstel van (motor)voertuigen rijden terwijl de uitsteek van de afneembare bovenbouw of gestandaardiseerde laadstructuur achter het hart van de achterste as meer dan 0,5 maal de lengte van het voertuig bedraagt en/of meer dan 5 m bedraagt of bij een oplegger de uitsteek van de afneembare bovenbouw of gestandaardiseerde laadstructuur achter het hart van de achterste as meer bedraagt dan 0,5 maal de afstand van hart koppeling tot de achterzijde en/of meer dan 5 m bedraagt | [5.18.12 lid 7 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.12) |   |
 | P | 123 | b | – van meer dan 0,25 m en t/m 0,50 m |   | 03/12 |
 | P | 123 | c | – van meer dan 0,50 m en t/m 0,75 m |   | 03/12 |
 | P | 123 | d | – van meer dan 0,75 m en t/m 1,00 m |   | 03/12 |
 | P | 123 | e | – van meer dan 1,00 m |   | 03/12 |
-|   |   |   | de aan de achterzijde van het voertuig bevestigde meeneemheftruck meer dan 1,20 m achter het voertuig uitsteekt of indien een verklaring is afgegeven dat de aslasten en de last onder de koppeling van het voertuig bij belading met uitsluitend de meeneemheftruck voldoen aan de wettelijke eisen meer dan 1,50 m achter het voertuig uitsteekt | [5.18.12 lid 6 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.12) |   |
+|   |   |   |   |   |   |
+|   |   |   | als bestuurder van een (motor)voertuig of samenstel van (motor)voertuigen rijden terwijl de aan de achterzijde van het voertuig bevestigde meeneemheftruck meer dan 1,20 m achter het voertuig uitsteekt of indien een verklaring is afgegeven dat de aslasten en de last onder de koppeling van het voertuig bij belading met uitsluitend de meeneemheftruck voldoen aan de wettelijke eisen meer dan 1,50 m achter het voertuig uitsteekt | [5.18.12 lid 6 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.12) |   |
 | P | 121 | m | – van meer dan 0,25 m |   | 03/12 |
-|   |   |   | het samenstel van bedrijfsauto en aanhangwagen, niet zijnde een oplegger, met inbegrip van de lading dat is ingericht voor het vervoer van voertuigen, langer is dan 20,75 m, een overschrijding | [5.18.13 lid 2 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.13) |   |
+|   |   |   |   |   |   |
+|   |   |   | als bestuurder van een (motor)voertuig of samenstel van (motor)voertuigen rijden terwijl het samenstel van bedrijfsauto en aanhangwagen, niet zijnde een oplegger, met inbegrip van de lading dat is ingericht voor het vervoer van voertuigen, langer is dan 20,75 m, een overschrijding | [5.18.13 lid 2 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.13) |   |
 | P | 130 | j | – van meer dan 0,25 m en t/m 0,50 m |   | 03/12 |
 | P | 130 | k | – van meer dan 0,50 m en t/m 0,75 m |   | 03/12 |
 | P | 130 | l | – van meer dan 0,75 m en t/m 1,00 m |   | 03/12 |
 | P | 130 | m | – van meer dan 1,00 m |   | 03/12 |
-|   |   |   |   |   |   |
 |   |   |   | Lengte; ondeelbare lading |   |   |
-|   |   |   | de in lengte ondeelbare lading aan de voorzijde van een bedrijfsauto met een toegestane maximummassa van meer dan 3.500 kg, niet zijnde een kermis- of circusvoertuig, meer dan 4,30 m voor het hart van de voorste as uitsteekt, een overschrijding | [5.18.13 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.13) |   |
+|   |   |   | als bestuurder van een (motor)voertuig of samenstel van (motor)voertuigen rijden terwijl de in lengte ondeelbare lading aan de voorzijde van een bedrijfsauto met een toegestane maximummassa van meer dan 3.500 kg, niet zijnde een kermis- of circusvoertuig, meer dan 4,30 m voor het hart van de voorste as uitsteekt, een overschrijding | [5.18.13 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.13) |   |
 | P | 130 | o | – van meer dan 0,25 m t/m 0,50 m |   | 03 |
 | P | 130 | p | – van meer dan 0,50 m t/m 0,75 m |   | 03 |
 | P | 130 | q | – van meer dan 0,75 m t/m 1,00 m |   | 03 |
 | P | 130 | r | – van meer dan 1,00 m |   | 03 |
-|   |   |   | de met in lengte ondeelbare lading beladen opleggertrekker en oplegger, met inbegrip van de lading, langer is dan 22 m, een overschrijding: | [5.18.13 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.13) |   |
+|   |   |   |   |   |   |
+|   |   |   | als bestuurder van een (motor)voertuig of samenstel van (motor)voertuigen rijden terwijl de met in lengte ondeelbare lading beladen opleggertrekker en oplegger, met inbegrip van de lading, langer is dan 22 m, een overschrijding | [5.18.13 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.13) |   |
 | P | 130 | eb | – van meer dan 0,25 m t/m 0,50 m |   | 03 |
 | P | 130 | ec | – van meer dan 0,50 m t/m 0,75 m |   | 03 |
 | P | 130 | ed | – van meer dan 0,75 m t/m 1,00 m |   | 03 |
 | P | 130 | ee | – van meer dan 1,00 m |   | 03 |
-|   |   |   | de uitsteek van de in lengte ondeelbare lading achter het hart van de achterste as meer dan 0,5 maal de lengte van een bedrijfsauto met een toegestane maximummassa van meer dan 3.500 kg of een aanhangwagen en/of meer dan van 5 m bedraagt of bij een oplegger de uitsteek van de lading achter het hart van de achterste as meer bedraagt dan 0,5 maal de afstand van hart koppeling tot de achterzijde en/of meer dan 5 m bedraagt (categorie 12 en 13 bedrijfsmatig gebruik), een overschrijding | [5.18.13 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.13) |   |
+|   |   |   |   |   |   |
+|   |   |   | als bestuurder van een (motor)voertuig of samenstel van (motor)voertuigen rijden terwijl de uitsteek van de in lengte ondeelbare lading achter het hart van de achterste as meer dan 0,5 maal de lengte van een bedrijfsauto met een toegestane maximummassa van meer dan 3.500 kg of een aanhangwagen en/of meer dan van 5 m bedraagt of bij een oplegger de uitsteek van de lading achter het hart van de achterste as meer bedraagt dan 0,5 maal de afstand van hart koppeling tot de achterzijde en/of meer dan 5 m bedraagt (categorie 12 en 13 bedrijfsmatig gebruik), een overschrijding | [5.18.13 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.13) |   |
 | P | 131 | b | – van meer dan 0,25 m en t/m 0,50 m |   | 03/12/13 |
 | P | 131 | c | – van meer dan 0,50 m en t/m 0,75 m |   | 03/12/13 |
 | P | 131 | d | – van meer dan 0,75 m en t/m 1,00 m |   | 03/12/13 |
 | P | 131 | e | – van meer dan 1,00 m |   | 03/12/13 |
-|   |   |   |   |   |   |
 |   |   |   | Breedte; lading |   |   |
 |   |   |   | Noot: De feitcodeserie P 141 geldt voor de categorieën 7, 8 en 14 voor alle lading. Bij deze categorieën wordt geen onderscheid gemaakt tussen deelbare en ondeelbare lading. Voor de overige categorieën betreft het uitsluitend deelbare lading. |   |   |
-|   |   |   | het voertuig met inbegrip van de (deelbare) lading of verwisselbaar gedragen uitrustingsstuk de maximum toegestane breedte overschrijdt, een overschrijding | [5.18.14 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.14) en [5.18.22 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.22) |   |
+|   |   |   | als bestuurder van een (motor)voertuig of samenstel van (motor)voertuigen rijden terwijl het voertuig met inbegrip van de (deelbare) lading of verwisselbaar gedragen uitrustingsstuk de maximum toegestane breedte overschrijdt, een overschrijding | [5.18.14 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.14) en [5.18.22 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.22) |   |
 | P | 141 | b | – van meer dan 0,20 m en t/m 0,45 m |   | 02/03/03a/05/07/07a/08/12/13/14 |
 | P | 141 | c | – van meer dan 0,45 m en t/m 0,70 m |   | 02/03/03a/05/07/07a/08/12/13/14 |
 | P | 141 | d | – van meer dan 0,70 m |   | 02/03/03a/05/07/07a/08/12/13/14 |
-|   |   |   |   |   |   |
 |   |   |   | Breedte; ondeelbare lading |   |   |
-|   |   |   | het voertuig met inbegrip van de ondeelbare lading de maximum toegestane breedte overschrijdt, een overschrijding | [5.18.14 lid 2 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.14) |   |
+|   |   |   | als bestuurder van een (motor)voertuig of samenstel van (motor)voertuigen rijden terwijl het voertuig met inbegrip van de ondeelbare lading de maximum toegestane breedte overschrijdt, een overschrijding | [5.18.14 lid 2 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.14) |   |
 | P | 142 | a | – t/m 0,25 m |   | 03/12/13 |
 | P | 142 | b | – van meer dan 0,25 m en t/m 0,50 m |   | 03/12/13 |
 | P | 142 | c | – van meer dan 0,50 m |   | 03/12/13 |
-|   |   |   |   |   |   |
 |   |   |   | Hoogte |   |   |
-|   |   |   | het voertuig en/of daardoor voortbewogen aanhangwagen(s) met inbegrip van de lading en voor zover het land- of bosbouwtrekkers of motorrijtuigen met beperkte snelheid betreft, tevens met inbegrip van één of meer verwisselbare gedragen uitrustingsstukken, hoger is dan 4 m, een overschrijding | [5.18.15](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.15) en [5.18.23 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.23) |   |
+|   |   |   | als bestuurder van een (motor)voertuig of samenstel van (motor)voertuigen rijden terwijl het voertuig en/of daardoor voortbewogen aanhangwagen(s) met inbegrip van de lading en voor zover het land- of bosbouwtrekkers of motorrijtuigen met beperkte snelheid betreft, tevens met inbegrip van één of meer verwisselbare gedragen uitrustingsstukken, hoger is dan 4 m, een overschrijding | [5.18.15](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.15) en [5.18.23 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.23) |   |
 | P | 150 | a | – t/m 0,10 m |   | 02/03/05/07/07a/08/12/13/14 |
 | P | 150 | b | – van meer dan 0,10 m en t/m 0,20 m |   | 02/03/05/07/07a/08/12/13/14 |
 | P | 150 | c | – van meer dan 0,20 m |   | 02/03/05/07/07a/08/12/13/14 |
-|   |   |   |   |   |   |
 |   |   |   | Massa |   |   |
 |   |   |   | Noot |   |   |
 |   |   |   | De onderstaande feiten, die betrekking hebben op de massa of de last onder wiel of as zijn niet van toepassing indien sprake is van beroepsmatig vervoer met een vrachtauto, in de zin van de [Wet wegvervoer goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024800), met een laadvermogen van meer dan 500 kg. Hierop zijn de feitcodeseries E 850 t/m E 858 van toepassing. |   |   |
-|   |   |   |   |   |   |
-|   |   |   | de op de kentekencard of het kentekenbewijs of in het kentekenregister vermelde toegestane maximummassa (van het samenstel) wordt overschreden, een overschrijding met | [5.18.17a, b en c alle lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17c) |   |
+|   |   |   | als bestuurder van een (motor)voertuig of samenstel van (motor)voertuigen rijden terwijl de op de kentekencard of het kentekenbewijs of in het kentekenregister vermelde toegestane maximummassa (van het samenstel) wordt overschreden, een overschrijding met | [5.18.17a, b en c alle lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17a) |   |
 | P | 171 | d | – meer dan 75% |   | 03/03a/05/12 |
-|   |   |   | geen toegestane maximummassa op de kentekencard, het kentekenbewijs of in het kentekenregister is vermeld dan wel de bedrijfsauto of bus niet in Nederland is geregistreerd en de massa of de som van de aslasten meer bedraagt dan: a. 50.000 kg of bij een rijdend werktuig 60.000 kg; b. de technisch toegestane maximummassa; c. vijfmaal de toegestane maximumlast onder de aangedreven as(sen); d. de uitkomst van de som: het vermogen van de motor in kW, gedeeld door 0,00368 kW/kg, een overschrijding met | [5.18.17a en b beide lid 2 en 3 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17b) |   |
+|   |   |   |   |   |   |
+|   |   |   | als bestuurder van een (motor)voertuig of samenstel van (motor)voertuigen rijden terwijl geen toegestane maximummassa op de kentekencard, het kentekenbewijs of in het kentekenregister is vermeld dan wel de bedrijfsauto of bus niet in Nederland is geregistreerd en de massa of de som van de aslasten meer bedraagt dan: a. 50.000 kg of bij een rijdend werktuig 60.000 kg; b. de technisch toegestane maximummassa; c. vijfmaal de toegestane maximumlast onder de aangedreven as(sen); d. de uitkomst van de som: het vermogen van de motor in kW, gedeeld door 0,00368 kW/kg, een overschrijding met | [5.18.17a en b beide lid 2 en 3 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17a) |   |
 | P | 171 | h | – meer dan 75% |   | 03/03a |
-|   |   |   | de som van de aslasten van de middenasaanhangwagen of oplegger in combinatie met een positieve last onder de koppeling van het voertuig in beladen toestand meer bedraagt dan de toegestane maximummassa, een overschrijding met | [5.18.17c lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17c) |   |
+|   |   |   |   |   |   |
+|   |   |   | als bestuurder van een (motor)voertuig of samenstel van (motor)voertuigen rijden terwijl de som van de aslasten van de middenasaanhangwagen of oplegger in combinatie met een positieve last onder de koppeling van het voertuig in beladen toestand meer bedraagt dan de toegestane maximummassa, een overschrijding met | [5.18.17c lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17c) |   |
 | P | 171 | m | – meer dan 75% |   | 12 |
-|   |   |   | op de kentekencard of het kentekenbewijs van de middenasaanhangwagen of in het kentekenregister geen toegestane maximummassa is vermeld dan wel de middenasaanhangwagen niet in Nederland is geregistreerd en de massa of de som van de aslasten in combinatie met een positieve last onder de koppeling in beladen toestand meer bedraagt dan 20.000 kg of meer bedraagt dan 24.000 kg bij een middenasaanhangwagen die voorzien is van gasvering of als gelijkwaardig aangemerkte vering en is voorzien van drie assen, een overschrijding met | [5.18.17c lid 2 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17c) |   |
+|   |   |   |   |   |   |
+|   |   |   | als bestuurder van een (motor)voertuig of samenstel van (motor)voertuigen rijden terwijl op de kentekencard of het kentekenbewijs van de middenasaanhangwagen of in het kentekenregister geen toegestane maximummassa is vermeld dan wel de middenasaanhangwagen niet in Nederland is geregistreerd en de massa of de som van de aslasten in combinatie met een positieve last onder de koppeling in beladen toestand meer bedraagt dan 20.000 kg of meer bedraagt dan 24.000 kg bij een middenasaanhangwagen die voorzien is van gasvering of als gelijkwaardig aangemerkte vering en is voorzien van drie assen, een overschrijding met | [5.18.17c lid 2 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17c) |   |
 | P | 171 | r | – meer dan 75% |   | 12 |
-|   |   |   | de massa niet op de voorgeschreven wijze kan worden vastgesteld en de massa meer bedraagt dan 750 kg, een overschrijding met | [5.18.17c lid 3 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17c) |   |
+|   |   |   |   |   |   |
+|   |   |   | als bestuurder van een (motor)voertuig of samenstel van (motor)voertuigen rijden terwijl de massa niet op de voorgeschreven wijze kan worden vastgesteld en de massa meer bedraagt dan 750 kg, een overschrijding met | [5.18.17c lid 3 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17c) |   |
 | P | 171 | w | – meer dan 75% |   | 13 |
-|   |   |   | de op het kentekenbewijs of de in het kentekenregister vermelde toegestane maximumlast van enige as of asstel wordt overschreden, een overschrijding met | [5.18.17d en e beide lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17e) |   |
+|   |   |   |   |   |   |
+|   |   |   | als bestuurder van een (motor)voertuig of samenstel van (motor)voertuigen rijden terwijl de op het kentekenbewijs of de in het kentekenregister vermelde toegestane maximumlast van enige as of asstel wordt overschreden, een overschrijding met | [5.18.17d en e beide lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17d) |   |
 | P | 172 | d | – meer dan 75% |   | 03/03a/12 |
-|   |   |   | geen waarde op de kentekencard, het kentekenbewijs van de bedrijfsauto, bus of dolly of in het kentekenregister is vermeld dan wel het voertuig niet in Nederland is geregistreerd en de getrokken massa of de som van de aslasten van de aanhangwagen of het samenstel van dolly en oplegger meer bedraagt dan in één van de in [artikel 5.18.17g lid 2 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17g) voor dat voertuig van toepassing zijnde waarden, een overschrijding met | [5.18.17d en e beide lid 2 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17e) |   |
+|   |   |   |   |   |   |
+|   |   |   | als bestuurder van een (motor)voertuig of samenstel van (motor)voertuigen rijden terwijl geen waarde op de kentekencard, het kentekenbewijs van de bedrijfsauto, bus of dolly of in het kentekenregister is vermeld dan wel het voertuig niet in Nederland is geregistreerd en de getrokken massa of de som van de aslasten van de aanhangwagen of het samenstel van dolly en oplegger meer bedraagt dan in één van de in [artikel 5.18.17g lid 2 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17g) voor dat voertuig van toepassing zijnde waarden, een overschrijding met | [5.18.17d en e beide lid 2 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17d) |   |
 | P | 172 | h | – meer dan 75% |   | 03/03a/12 |
-|   |   |   | het voertuig zodanig is beladen dat de op de kentekencard, in het Nederlandse kentekenbewijs of de in het kentekenregister van de aanhangwagen vermelde toegestane maximumlast onder de koppeling wordt overschreden, een overschrijding met | [5.18.17f lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17f) |   |
+|   |   |   |   |   |   |
+|   |   |   | als bestuurder van een (motor)voertuig of samenstel van (motor)voertuigen rijden terwijl het voertuig zodanig is beladen dat de op de kentekencard, in het Nederlandse kentekenbewijs of de in het kentekenregister van de aanhangwagen vermelde toegestane maximumlast onder de koppeling wordt overschreden, een overschrijding met | [5.18.17f lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17f) |   |
 | P | 172 | m | – meer dan 75% |   | 12 |
-|   |   |   | de op de kentekencard, het kentekenbewijs van de bedrijfsauto, bus of dolly of de in het kentekenregister vermelde toegestane maximum te trekken massa van de aanhangwagen of het samenstel van dolly en oplegger wordt overschreden of de som van de aslasten meer bedraagt dan de vermelde toegestane maximum te trekken massa, een overschrijding met | [5.18.17g lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17g) |   |
+|   |   |   |   |   |   |
+|   |   |   | als bestuurder van een (motor)voertuig of samenstel van (motor)voertuigen rijden terwijl de op de kentekencard, het kentekenbewijs van de bedrijfsauto, bus of dolly of de in het kentekenregister vermelde toegestane maximum te trekken massa van de aanhangwagen of het samenstel van dolly en oplegger wordt overschreden of de som van de aslasten meer bedraagt dan de vermelde toegestane maximum te trekken massa, een overschrijding met | [5.18.17g lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17g) |   |
 | P | 172 | r | – meer dan 75% |   | 03/03a/12 |
-|   |   |   | de getrokken massa of de som van de aslasten van de aanhangwagen of het samenstel van dolly en oplegger van het niet in Nederland geregistreerde voertuig meer bedraagt dan in één van de in [artikel 5.18.17g lid 2 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17g) voor dat voertuig van toepassing zijnde waarden, een overschrijding met | [5.18.17g lid 2 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17g) |   |
+|   |   |   |   |   |   |
+|   |   |   | als bestuurder van een (motor)voertuig of samenstel van (motor)voertuigen rijden terwijl de getrokken massa of de som van de aslasten van de aanhangwagen of het samenstel van dolly en oplegger van het niet in Nederland geregistreerde voertuig meer bedraagt dan in één van de in [artikel 5.18.17g lid 2 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17g) voor dat voertuig van toepassing zijnde waarden, een overschrijding met | [5.18.17g lid 2 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17g) |   |
 | P | 173 | d | – meer dan 75% |   | 03/03a/12 |
-|   |   |   | de toegestane maximumlast van enige as, de last onder de koppeling, de toegestane maximummassa of de som van de aslasten meer bedraagt dan de toegestane maximummassa, een overschrijding met | [5.18.17h lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17h) |   |
+|   |   |   |   |   |   |
+|   |   |   | als bestuurder van een (motor)voertuig of samenstel van (motor)voertuigen rijden terwijl de toegestane maximumlast van enige as, de last onder de koppeling, de toegestane maximummassa of de som van de aslasten meer bedraagt dan de toegestane maximummassa, een overschrijding met | [5.18.17h lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17h) |   |
 | P | 173 | h | – meer dan 75% |   | 02 |
-|   |   |   | de totale massa of de som van de aslasten van de aanhangwagen meer bedraagt dan de maximummassa die volgt uit het op de koppeling van het trekkend voertuig (toegestane massa max. 3.500 kg) aangebrachte identificatiekenmerk of goedkeuringsmerk, of indien zo'n merk niet aanwezig is, de massa meer bedraagt dan 750 kg en meer dan de ledige massa van het trekkend motorvoertuig en meer dan de massa in rijklare toestand van het trekkend motorrijtuig, een overschrijding met | [5.18.18 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.18) |   |
+|   |   |   |   |   |   |
+|   |   |   | als bestuurder van een (motor)voertuig of samenstel van (motor)voertuigen rijden terwijl de totale massa of de som van de aslasten van de aanhangwagen meer bedraagt dan de maximummassa die volgt uit het op de koppeling van het trekkend voertuig (toegestane massa max. 3.500 kg) aangebrachte identificatiekenmerk of goedkeuringsmerk, of indien zo'n merk niet aanwezig is, de massa meer bedraagt dan 750 kg en meer dan de ledige massa van het trekkend motorvoertuig en meer dan de massa in rijklare toestand van het trekkend motorrijtuig, een overschrijding met | [5.18.18 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.18) |   |
 | P | 180 | h | – meer dan 75% |   | 12/13 |
+|   |   |   |   |   |   |
+|   |   |   | als bestuurder van een (motor)voertuig of samenstel van (motor)voertuigen rijden terwijl |   |   |
 | P | 182 |   | een aanhangwagen voortbewegen terwijl in het kentekenregister, op de kentekencard of het kentekenbewijs geen maximum te trekken massa aanhangwagen is vermeld (cat. 12 alleen dolly) | [5.18.18a lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.18a) en [5.18.17g lid 3 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17g) | 02/03/03a/12 |
-|   |   |   | de totale massa van a. de aanhangwagen met een bedrijfsrem of; b. de som van de aslasten van de autonome aanhangwagen met een bedrijfsrem of; c. de som van de aslasten of de aslast in combinatie met een positieve koppelingsdruk van de middenasaanhangwagen met een bedrijfsrem; achter een personenauto meer bedraagt dan de laagste van in [artikel 5.18.18a, lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.18a) vermelde waarden dan wel de massa meer bedraagt dan 3.500 kg, een overschrijding met | [5.18.18a lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.18a) |   |
+|   |   |   |   |   |   |
+|   |   |   | als bestuurder van een (motor)voertuig of samenstel van (motor)voertuigen rijden terwijl de totale massa van a. de aanhangwagen met een bedrijfsrem of; b. de som van de aslasten van de autonome aanhangwagen met een bedrijfsrem of; c. de som van de aslasten of de aslast in combinatie met een positieve koppelingsdruk van de middenasaanhangwagen met een bedrijfsrem; achter een personenauto meer bedraagt dan de laagste van in [artikel 5.18.18a lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.18a) vermelde waarden dan wel de massa meer bedraagt dan 3.500 kg, een overschrijding met | [5.18.18a lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.18a) |   |
 | P | 185 | d | – meer dan 75% |   | 12/13 |
-|   |   |   | de totale massa van a. de aanhangwagen zonder een bedrijfsrem of; b. de som van de aslasten van de autonome aanhangwagen zonder een bedrijfsrem of; c. de som van de aslasten of de aslast in combinatie met een positieve koppelingsdruk van de middenasaanhangwagen zonder een bedrijfsrem; achter een personenauto meer bedraagt dan de laagste van in [artikel 5.18.18a, lid 2 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.18a) vermelde waarden dan wel meer bedraagt dan 750 kg, een overschrijding met | [5.18.18a lid 2 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.18a) |   |
+|   |   |   |   |   |   |
+|   |   |   | als bestuurder van een (motor)voertuig of samenstel van (motor)voertuigen rijden terwijl de totale massa van a. de aanhangwagen zonder een bedrijfsrem of; b. de som van de aslasten van de autonome aanhangwagen zonder een bedrijfsrem of; c. de som van de aslasten of de aslast in combinatie met een positieve koppelingsdruk van de middenasaanhangwagen zonder een bedrijfsrem; achter een personenauto meer bedraagt dan de laagste van in [artikel 5.18.18a lid 2 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.18a) vermelde waarden dan wel meer bedraagt dan 750 kg, een overschrijding met | [5.18.18a lid 2 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.18a) |   |
 | P | 186 | d | – meer dan 75% |   | 12/13 |
-|   |   |   | de op de constructieplaat vermelde technisch toegestane maximummassa van het voertuig wordt overschreden of de som van de aslasten van het voertuig in beladen toestand meer bedraagt dan de vermelde technisch toegestane maximummassa van het voertuig of het draagvermogen van de gemonteerde banden wordt overschreden (particulier gebruik), een overschrijding met | [5.18.25 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.25) en [5.18.25b lid 1 en 2 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.25b) |   |
+|   |   |   |   |   |   |
+|   |   |   | als bestuurder van een (motor)voertuig of samenstel van (motor)voertuigen rijden terwijl de op de constructieplaat vermelde technisch toegestane maximummassa van het voertuig wordt overschreden of de som van de aslasten van het voertuig in beladen toestand meer bedraagt dan de vermelde technisch toegestane maximummassa van het voertuig of het draagvermogen van de gemonteerde banden wordt overschreden (particulier gebruik), een overschrijding met | [5.18.25 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.25) en [5.18.25b lid 1 en 2 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.25b) |   |
 | P | 250 | ad | – meer dan 75% |   | 07/07a/08/14 |
-|   |   |   | de toegestane maximummassa of de som van de aslasten van het voertuig of samenstel in beladen toestand meer bedraagt dan: a. 50.000 kg; b. de technisch toegestane maximummassa van het voertuig of samenstel; c. 18.000 kg voor een twee-assige land- of bosbouwtrekker, of; d. 24.000 kg voor een drie-assige land- of bosbouwtrekker; (particulier gebruik), een overschrijding met | [5.18.25 lid 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.25), [5.18.25a RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.25a) |   |
+|   |   |   |   |   |   |
+|   |   |   | als bestuurder van een (motor)voertuig of samenstel van (motor)voertuigen rijden terwijl de toegestane maximummassa of de som van de aslasten van het voertuig of samenstel in beladen toestand meer bedraagt dan: a. 50.000 kg; b. de technisch toegestane maximummassa van het voertuig of samenstel; c. 18.000 kg voor een twee-assige land- of bosbouwtrekker, of; d. 24.000 kg voor een drie-assige land- of bosbouwtrekker; (particulier gebruik), een overschrijding met | [5.18.25 lid 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.25), [5.18.25a RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.25a) |   |
 | P | 251 | ad | – meer dan 75% |   | 07/07a/08 |
-|   |   |   | bij de middenasaanhangwagen of oplegger de som van de aslasten van het voertuig in beladen toestand vermeerderd met de last onder de koppeling van het voertuig in beladen toestand, meer bedraagt dan de technisch toegestane maximummassa en/of het draagvermogen van de gemonteerde banden (particulier gebruik), een overschrijding met | [5.18.25b lid 2 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.25b) |   |
+|   |   |   |   |   |   |
+|   |   |   | als bestuurder van een (motor)voertuig of samenstel van (motor)voertuigen rijden terwijl bij de middenasaanhangwagen of oplegger de som van de aslasten van het voertuig in beladen toestand vermeerderd met de last onder de koppeling van het voertuig in beladen toestand, meer bedraagt dan de technisch toegestane maximummassa en/of het draagvermogen van de gemonteerde banden (particulier gebruik), een overschrijding met | [5.18.25b lid 2 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.25b) |   |
 | P | 252 | ad | – meer dan 75% |   | 14 |
-|   |   |   | de toegestane maximummassa niet op de voorgeschreven wijze kan worden vastgesteld en de daardoor voor deze aanhangwagen of verwisselbaar getrokken uitrustingsstuk geldende toegestane maximum wiellast van 5.000 kg wordt overschreden, een overschrijding met | [5.18.25b lid 3 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.25b) |   |
+|   |   |   |   |   |   |
+|   |   |   | als bestuurder van een (motor)voertuig of samenstel van (motor)voertuigen rijden terwijl de toegestane maximummassa niet op de voorgeschreven wijze kan worden vastgesteld en de daardoor voor deze aanhangwagen of verwisselbaar getrokken uitrustingsstuk geldende toegestane maximum wiellast van 5.000 kg wordt overschreden, een overschrijding met | [5.18.25b lid 3 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.25b) |   |
 | P | 253 | ad | – meer dan 75% |   | 14 |
-|   |   |   | de (op de constructieplaat vermelde) technische toegestane maximumlast onder de as of het asstel wordt overschreden (of het draagvermogen van de gemonteerde banden) wordt overschreden (particulier gebruik), een overschrijding met | [5.18.25c lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.25c), [5.18.25d lid 1 en 2 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.25d) |   |
+|   |   |   |   |   |   |
+|   |   |   | als bestuurder van een (motor)voertuig of samenstel van (motor)voertuigen rijden terwijl de (op de constructieplaat vermelde) technische toegestane maximumlast onder de as of het asstel wordt overschreden (of het draagvermogen van de gemonteerde banden) wordt overschreden (particulier gebruik), een overschrijding met | [5.18.25c lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.25c), [5.18.25d lid 1 en 2 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.25d) |   |
 | P | 254 | ad | – meer dan 75% |   | 07/07a/08/14 |
-|   |   |   | de toegestane maximumlast onder de as meer bedraagt dan: a. 10.000 kg voor een niet-aangedreven as of 11.500 kg voor een aangedreven as of; b. de toegestane maximumlast onder de as van een motorrijtuig met beperkte snelheid meer bedraagt dan 12.000 kg of; c. de toegestane maximumlast van de landbouw- of bosbouwaanhangwagens of het verwisselbare getrokken uitrustingsstuk onder een pendelas meer bedraagt dan 13.000 kg of de last onder één of beide assen meer bedraagt dan 6.500 kg; (particulier gebruik), een overschrijding met | [5.18.25c lid 2, 3 en 4 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.25c) |   |
+|   |   |   |   |   |   |
+|   |   |   | als bestuurder van een (motor)voertuig of samenstel van (motor)voertuigen rijden terwijl de toegestane maximumlast onder de as meer bedraagt dan: a. 10.000 kg voor een niet-aangedreven as of 11.500 kg voor een aangedreven as of; b. de toegestane maximumlast onder de as van een motorrijtuig met beperkte snelheid meer bedraagt dan 12.000 kg of; c. de toegestane maximumlast van de landbouw- of bosbouwaanhangwagens of het verwisselbare getrokken uitrustingsstuk onder een pendelas meer bedraagt dan 13.000 kg of de last onder één of beide assen meer bedraagt dan 6.500 kg; (particulier gebruik), een overschrijding met | [5.18.25c lid 2, 3 en 4 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.25c) |   |
 | P | 255 | ad | – meer dan 75% |   | 07/07a/08/14 |
-|   |   |   | de som van de aslasten van de aangekoppelde middenasaanhangwagen met een toegestane maximummassa van meer dan 12.000 kg meer bedraagt dan 1,5 maal de som van aslasten van het trekkend motorvoertuig, een overschrijding met | [5.18.31 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.31) |   |
+|   |   |   |   |   |   |
+|   |   |   | als bestuurder van een (motor)voertuig of samenstel van (motor)voertuigen rijden terwijl de som van de aslasten van de aangekoppelde middenasaanhangwagen met een toegestane maximummassa van meer dan 12.000 kg meer bedraagt dan 1,5 maal de som van aslasten van het trekkend motorvoertuig, een overschrijding met | [5.18.31 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.31) |   |
 | P | 310 | c | – meer dan 50% t/m 75% |   | 12 |
 | P | 310 | d | – meer dan 75% |   | 12 |
 |   |   |   |   |   |   |
 |   |   |   | 3 – Reminrichting |   |   |
-|   |   |   | niet wordt voldaan aan de minimale remvertraging van de bedrijfsrem van het samenstel, de vermindering bedraagt | [5.18.35 lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.35) |   |
+|   |   |   | als bestuurder van een (motor)voertuig of samenstel van (motor)voertuigen rijden terwijl niet wordt voldaan aan de minimale remvertraging van de bedrijfsrem van het samenstel, de vermindering bedraagt | [5.18.35 lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.35) |   |
 | P | 350 | c | – 1,01 t/m 1,5 m/s2 |   | 02/04/05 |
 | P | 350 | d | – 1,51 t/m 2,0 m/s2 |   | 02/04/05 |
 | P | 350 | e | – meer dan 2,0 m/s2 |   | 02/04/05 |
-|   |   |   | niet wordt voldaan aan de minimale remvertraging van de bedrijfsrem van het samenstel, de vermindering bedraagt | [5.18.35 lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.35) |   |
+|   |   |   | als bestuurder van een (motor)voertuig of samenstel van (motor)voertuigen rijden terwijl niet wordt voldaan aan de minimale remvertraging van de bedrijfsrem van het samenstel, de vermindering bedraagt | [5.18.35 lid 1 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.35) |   |
 | P | 350 | g | – 0,51 t/m 1,0 m/s2 |   | 03/03a |
 | P | 350 | h | – 1,01 t/m 1,5 m/s2 |   | 03/03a |
 | P | 350 | i | – 1,51 t/m 2,0 m/s2 |   | 03/03a |
 | P | 350 | j | – meer dan 2,0 m/s2 |   | 03/03a |
-|   |   |   | de remvertraging van het samenstel niet voldoet aan die van het trekkend voertuig, de vermindering bedraagt | [5.18.35 lid 2 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.35) |   |
+|   |   |   | als bestuurder van een (motor)voertuig of samenstel van (motor)voertuigen rijden terwijl de remvertraging van het samenstel niet voldoet aan die van het trekkend voertuig, de vermindering bedraagt | [5.18.35 lid 2 RV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.35) |   |
 | P | 351 | c | – 1,01 t/m 1,5 m/s2 |   | 07/07a/08 |
 | P | 351 | d | – 1,51 t/m 2,0 m/s2 |   | 07/07a/08 |
 | P | 351 | e | – meer dan 2,0 m/s2 |   | 07/07a/08 |
@@ -687,7 +702,6 @@ Vervallen
 |   |   |   | 6 – Exploitant; |   |   |
 |   |   |   | 7 – Eigenaar of houder; |   |   |
 |   |   |   | 8 – Een ieder. |   |   |
-|   |   |   |   |   |   |
 |   |   |   | NB Categorie bemanningslid of een ieder geldt in voorkomend geval mede voor een bemanningslid of ieder ander persoon die tijdelijk zelfstandig koers en snelheid schip bepaalt ([1.03 lid 3 BPR](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.03)/[RPR](https://wetten.overheid.nl/jci1.3:c:BWBR0006923)) |   |   |
 |   |   |   | Nummers W 500 – W 530; W 065 – W 182: |   |   |
 |   |   |   | [Binnenvaartpolitiereglement](onbekend) (BPR), [Besluit administratieve bepalingen scheepvaartverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0006309) (BABS), [Scheepvaartreglement Eemsmonding](https://wetten.overheid.nl/jci1.3:c:BWBR0004552) (SRE), Plaatselijk geldende verordeningen (Pl.V) |   |   |
@@ -703,6 +717,7 @@ Vervallen
 | W | 500 | h | – bij de snelle motorboot de afgewerkte gassen door een behoorlijk geluiddempende voorziening worden afgevoerd | [8.03 aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=8.03) jo. [8.04](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=8.04) cq [1.02 lid 2 BPR](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.02) | 1/7 |
 | W | 500 | i | – de snelle motorboot is voorzien van een technische inrichting waardoor bij het onderbreken van de besturing de middelen tot voortbeweging onmiddellijk tot stilstand of nagenoeg tot stilstand komen (dodemansknop) | [8.03 aanhef en onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=8.03) jo. [8.04](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=8.04) cq [1.02 lid 2 BPR](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.02) | 1/7 |
 | W | 500 | j | – aan boord van de snelle motorboot een deugdelijk brandblusapparaat is | [8.03 aanhef en onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=8.03) jo. [8.04](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=8.04) cq [1.02 lid 2 BPR](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.02) | 1/7 |
+|   |   |   |   |   |   |
 |   |   |   | als schipper van een snelle motorboot aan de scheepvaart deelnemen zonder dat, dan wel als eigenaar of houder er niet mede zorg voor hebben gedragen dat een reddingsvest onder handbereik is voor ieder der opvarenden aan boord van de snelle motorboot | [8.03 aanhef en onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=8.03) jo. [1.02 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.02) en [8.04 BPR](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=8.04) |   |
 | W | 501 | a | – één ontbreekt |   | 1/7 |
 | W | 501 | b | – twee ontbreken |   | 1/7 |
@@ -722,6 +737,7 @@ Vervallen
 | W | 065 | a | – tot 6 km/h |   | 1 |
 | W | 065 | b | – van 6 tot 15 km/h |   | 1 |
 | W | 065 | c | – van 15 tot 25 km/h |   | 1 |
+|   |   |   |   |   |   |
 |   |   |   | als schipper van een klein schip sneller varen dan toegestaan, met een overschrijding | [5.01 BPR](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=5.01) ivm verkeersteken B6 of bekendmaking 13 [BABS](https://wetten.overheid.nl/jci1.3:c:BWBR0006309) |   |
 | W | 075 | a | – tot 6 km/h |   | 1 |
 | W | 075 | b | – van 6 tot 15 km/h |   | 1 |
@@ -731,15 +747,18 @@ Vervallen
 | W | 150 |   | als schipper van een in [art. 1.09 lid 1 aanhef en onder b BPR](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.09) bedoeld schip varen terwijl het sturen niet wordt verricht door een daartoe bekwaam en tenminste 16 jaar oud persoon | [1.09 lid 1 aanhef en onder b BPR](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.09) | 1 |
 | W | 152 |   | als schipper van een snelle motorboot varen terwijl het sturen niet wordt verricht door een daartoe bekwaam en tenminste 18 jaar oud persoon | [1.09 lid 1 aanhef en onder a BPR](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.09) | 1 |
 | W | 156 |   | als gezagvoerder of schipper geen bijgewerkt exemplaar van het [Binnenvaartpolitiereglement](onbekend) aan boord aanwezig hebben | [1.11 lid 1 BPR](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.11) | 1 |
+|   |   |   |   |   |   |
 |   |   |   | bij het meren of verhalen gebruik maken van |   |   |
 | W | 158 | a | – verkeerstekens | [1.13 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.13) jo. [1.02 lid 2 en/of 5 onder b BPR](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.02) | 1/8 |
 | W | 158 | b | – andere voorwerpen dan die daarvoor bestemd zijn | [7.04 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=7.04) jo. [1.02 lid 2 en/of 5 onder b BPR](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.02) | 1/8 |
 | W | 160 | a | varen met een zeilplank op een voor de doorgaande vaart bestemd gedeelte van een in de [bijlage 16 van het BPR](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&bijlage=16) opgenomen vaarweg | [9.05 lid 1 BPR](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=9.05) | 1/8 |
 | W | 160 | b | varen met een door een vlieger voortbewogen plank of klein schip | [9.05 lid 2 BPR](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=9.05) | 1/8 |
 | W | 162 |   | als schipper van een zeilplank, daarmee varen in een gedeelte van de vaarweg waar dit verboden is | Pl.V | 1 |
+|   |   |   |   |   |   |
 |   |   |   | als schipper deelnemen aan de scheepvaart terwijl de voorgeschreven kentekens niet zijn aangebracht, te weten op een |   |   |
 | W | 164 | a | – groot schip | [2.01 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=2.01) jo. [1.02 lid 2 en/of 5 onder a BPR](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.02) | 1/6 |
 | W | 164 | b | – klein schip | [2.02 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=2.02) jo. [1.02 lid 2 en/of 5 onder a BPR](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.02) | 1/6 |
+|   |   |   |   |   |   |
 |   |   |   | als schipper deelnemen aan de scheepvaart terwijl de voorgeschreven kentekens niet op de voorgeschreven wijze zijn aangebracht, te weten op een |   |   |
 | W | 166 | a | – groot schip | [2.01 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=2.01) jo. [1.02 lid 2 en/of 5 onder a BPR](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.02) | 1/6 |
 | W | 166 | b | – klein schip | [2.02 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=2.02) jo. [1.02 lid 2 en/of 5 onder a BPR](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.02) | 1/6 |
@@ -758,19 +777,22 @@ Vervallen
 |   |   |   |   |   |   |
 |   |   |   | Varen zonder verlichting |   |   |
 |   |   |   | als schipper van een klein motorschip tijdens de nacht varen terwijl op het schip: |   |   |
-| W | 715 | a | – één van de verplichte lichten niet wordt gevoerd | [3.13 lid 1 onder a en/of b](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=3.13) en/of jo lid 2 en/of jo lid 3 BPR | 1 |
-| W | 715 | b | – twee van de verplichte lichten niet worden gevoerd | [3.13 lid 1 onder a en/of b](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=3.13) en/of jo lid 2 en/of jo lid 3 BPR | 1 |
-| W | 715 | c | – drie van de verplichte lichten niet worden gevoerd | [3.13 lid 1 onder a en/of b](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=3.13) en/of jo lid 2 en/of jo lid 3 BPR | 1 |
-| W | 715 | d | – vier van de verplichte lichten niet worden gevoerd | [3.13 lid 1 onder a en/of b](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=3.13) en/of jo lid 2 en/of jo lid 3 BPR | 1 |
+| W | 715 | a | – één van de verplichte lichten niet wordt gevoerd | [3.13 lid 1 onder a en/of b en/of jo lid 2 en/of jo lid 3 BPR](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=3.13) | 1 |
+| W | 715 | b | – twee van de verplichte lichten niet worden gevoerd | [3.13 lid 1 onder a en/of b en/of jo lid 2 en/of jo lid 3 BPR](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=3.13) | 1 |
+| W | 715 | c | – drie van de verplichte lichten niet worden gevoerd | [3.13 lid 1 onder a en/of b en/of jo lid 2 en/of jo lid 3 BPR](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=3.13) | 1 |
+| W | 715 | d | – vier van de verplichte lichten niet worden gevoerd | [3.13 lid 1 onder a en/of b en/of jo lid 2 en/of jo lid 3 BPR](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=3.13) | 1 |
+|   |   |   |   |   |   |
 |   |   |   | als schipper van een klein motorschip tijdens de nacht varen terwijl op het schip: |   |   |
-| W | 716 | a | – één licht niet op de juiste wijze wordt gevoerd | [3.13 lid 1 onder a en/of b](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=3.13) en/of jo lid 2 en/of jo lid 3 BPR | 1 |
-| W | 716 | b | – twee lichten niet op de juiste wijze worden gevoerd | [3.13 lid 1 onder a en/of b](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=3.13) en/of jo lid 2 en/of jo lid 3 BPR | 1 |
-| W | 716 | c | – drie lichten niet op de juiste wijze worden gevoerd | [3.13 lid 1 onder a en/of b](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=3.13) en/of jo lid 2 en/of jo lid 3 BPR | 1 |
-| W | 716 | d | – vier lichten niet op de juiste wijze worden gevoerd | [3.13 lid 1 onder a en/of b](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=3.13) en/of jo lid 2 en/of jo lid 3 BPR | 1 |
+| W | 716 | a | – één licht niet op de juiste wijze wordt gevoerd | [3.13 lid 1 onder a en/of b en/of jo lid 2 en/of jo lid 3 BPR](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=3.13) | 1 |
+| W | 716 | b | – twee lichten niet op de juiste wijze worden gevoerd | [3.13 lid 1 onder a en/of b en/of jo lid 2 en/of jo lid 3 BPR](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=3.13) | 1 |
+| W | 716 | c | – drie lichten niet op de juiste wijze worden gevoerd | [3.13 lid 1 onder a en/of b en/of jo lid 2 en/of jo lid 3 BPR](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=3.13) | 1 |
+| W | 716 | d | – vier lichten niet op de juiste wijze worden gevoerd | [3.13 lid 1 onder a en/of b en/of jo lid 2 en/of jo lid 3 BPR](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=3.13) | 1 |
+|   |   |   |   |   |   |
 |   |   |   | als schipper van een klein zeilschip tijdens de nacht varen terwijl op het schip: |   |   |
 | W | 717 | a | – één van de verplichte lichten niet wordt gevoerd | [3.13 lid 5 BPR](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=3.13) | 1 |
 | W | 717 | b | – twee van de verplichte lichten niet worden gevoerd | [3.13 lid 5 BPR](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=3.13) | 1 |
 | W | 717 | c | – drie van de verplichte lichten niet worden gevoerd | [3.13 lid 5 BPR](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=3.13) | 1 |
+|   |   |   |   |   |   |
 |   |   |   | als schipper van een klein zeilschip tijdens de nacht varen terwijl op het schip: |   |   |
 | W | 718 | a | – één licht niet op de juiste wijze wordt gevoerd | [3.13 lid 5 BPR](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=3.13) | 1 |
 | W | 718 | b | – twee lichten niet op de juiste wijze worden gevoerd | [3.13 lid 5 BPR](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=3.13) | 1 |
@@ -784,6 +806,7 @@ Vervallen
 | W | 300 | c | als schipper van een schip op binnenwateren varen zonder in het bezit te zijn van een geldig klein vaarbewijs I | [25 lid 4 BVW](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=25) | 1 |
 | W | 300 | d | als schipper van een schip op binnenwateren varen zonder in het bezit te zijn van het benodigde klein vaarbewijs II, terwijl deze wel in het bezit is van een klein vaarbewijs I | [25 lid 4 BVW](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=25) | 1 |
 | W | 300 | e | als schipper van een schip op binnenwateren varen zonder in het bezit te zijn van een geldig klein vaarbewijs II | [25 lid 4 BVW](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=25) | 1 |
+|   |   |   |   |   |   |
 |   |   |   | niet op eerste vordering de vereiste bescheiden en documenten overleggen | [1.10 lid 4 RPR](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&artikel=1.10)/[BPR](onbekend) |   |
 | W | 310 | a | – één document |   | 1/3/8 |
 | W | 310 | b | – twee documenten |   | 1/3/8 |
@@ -792,7 +815,6 @@ Vervallen
 | W | 310 | e | – vijf documenten |   | 1/3/8 |
 |   |   |   |   |   |   |
 |   |   |   | Nummers W 601 – W 619; W 701 – W 711: [Binnenvaartpolitiereglement](onbekend) (BPR), [Besluit administratieve bepalingen scheepvaartverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0006309) (BABS), [Rijnvaartpolitiereglement 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0006923) (RPR), [Scheepvaartreglement voor het kanaal van Gent naar Terneuzen](https://wetten.overheid.nl/jci1.3:c:BWBR0005315) (SRKGT), [Scheepsvaartreglement Gemeenschappelijke Maas](https://wetten.overheid.nl/jci1.3:c:BWBR0006618) (SRGM), [Scheepvaartreglement Westerschelde 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0005393) (SRW), [Scheepvaartreglement Eemsmonding](https://wetten.overheid.nl/jci1.3:c:BWBR0004552) (SRE) |   |   |
-|   |   |   |   |   |   |
 |   |   |   | Verkeerstekens. [Bijlage 7 BPR](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&bijlage=7) |   |   |
 |   |   |   | A. Verbodstekens |   |   |
 | W | 601 | a | met een schip in- of uit- of doorvaren waar dat verboden is (verkeersteken A.1) | [5.01 BPR](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=5.01)/[RPR](https://wetten.overheid.nl/jci1.3:c:BWBR0006923)/[SRGM](https://wetten.overheid.nl/jci1.3:c:BWBR0006618) en [51 SRKGT](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=51) alle jo. verkeersteken A.1 cq bekendmaking 13 [BABS](https://wetten.overheid.nl/jci1.3:c:BWBR0006309) | 1/3/8 |
@@ -843,12 +865,14 @@ Vervallen
 | W | 704 | c | met een klein schip de verplichting het vaarwater over te steken naar bakboord negeren (verkeersteken B.4a) | [6.12 BPR](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=6.12)/[RPR](https://wetten.overheid.nl/jci1.3:c:BWBR0006923), [51 SRKGT](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=51), [5.01 SRGM](https://wetten.overheid.nl/jci1.3:c:BWBR0006618&artikel=5.01) jo. verkeersteken B.4a cq bekendmaking 13 [BABS](https://wetten.overheid.nl/jci1.3:c:BWBR0006309) | 1/3/8 |
 | W | 704 | d | met een klein schip de verplichting het vaarwater over te steken naar stuurboord negeren (verkeersteken B.4b) | [6.12 BPR](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=6.12)/[RPR](https://wetten.overheid.nl/jci1.3:c:BWBR0006923), [51 SRKGT](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=51), [5.01 SRGM](https://wetten.overheid.nl/jci1.3:c:BWBR0006618&artikel=5.01) jo. verkeersteken B.4b cq bekendmaking 13 [BABS](https://wetten.overheid.nl/jci1.3:c:BWBR0006309) | 1/3/8 |
 | W | 705 |   | met een schip de verplichting vóór het bord stil te houden onder bepaalde omstandigheden negeren (verkeersteken B.5) | [5.01 BPR](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=5.01)/[RPR](https://wetten.overheid.nl/jci1.3:c:BWBR0006923), [51 SRKGT](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=51), [5.01 SRGM](https://wetten.overheid.nl/jci1.3:c:BWBR0006618&artikel=5.01) jo. verkeersteken B.5 cq bekendmaking 13 [BABS](https://wetten.overheid.nl/jci1.3:c:BWBR0006309) | 1/3/8 |
+|   |   |   |   |   |   |
 |   |   |   | met een groot schip geen gevolg geven aan de verplichting om de vaarsnelheid te beperken zoals is aangegeven door middel van verkeersteken B.6 (in km/h); overschrijding | [5.01 BPR](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=5.01)/[RPR](https://wetten.overheid.nl/jci1.3:c:BWBR0006923), [51 SRKGT](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=51), [5.01 SRGM](https://wetten.overheid.nl/jci1.3:c:BWBR0006618&artikel=5.01) jo. verkeersteken B.6 |   |
 | W | 706 | a | – tot 2 km/h |   | 1/3/8 |
 | W | 706 | b | – van 2 tot 3 km/h |   | 1/3/8 |
 | W | 706 | c | – van 3 tot 4 km/h |   | 1/3/8 |
 | W | 706 | d | – van 4 tot 5 km/h |   | 1/3/8 |
 | W | 706 | e | – met meer dan 5 km/h |   | 1/3/8 |
+|   |   |   |   |   |   |
 |   |   |   | met een groot schip geen gevolg geven aan de verplichting de vaarsnelheid te beperken zoals is aangegeven (in km/h); overschrijding | [5.01 BPR](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=5.01)/[RPR](https://wetten.overheid.nl/jci1.3:c:BWBR0006923), [51 SRKGT](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=51), [5.01 SRGM](https://wetten.overheid.nl/jci1.3:c:BWBR0006618&artikel=5.01) alle ivm bekendmaking 13 [BABS](https://wetten.overheid.nl/jci1.3:c:BWBR0006309) |   |
 | W | 706 | g | – tot 2 km/h |   | 1/3/8 |
 | W | 706 | h | – van 2 tot 3 km/h |   | 1/3/8 |
@@ -865,7 +889,7 @@ Vervallen
 |   |   |   |   |   |   |
 |   |   |   | Afdeling C. Milieu |   |   |
 |   |   |   | Categorie-indeling B: |   |   |
-|   |   |   | 1 – Bestuurders van motorvoertuigen op meer dan twee wielen, en bestuurders van brommobielen voor zover het de bepalingen van het [RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825) betreft; |   |   |
+|   |   |   | 1 – Bestuurders van motorvoertuigen op meer dan twee wielen en bestuurders van brommobielen voor zover het de bepalingen van het [RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825) betreft; |   |   |
 |   |   |   | 2 – Bestuurders van motorvoertuigen op twee wielen; |   |   |
 |   |   |   | 3 – Bromfietsers en snorfietsers; |   |   |
 |   |   |   | 4 – Fietsers en bestuurders van gehandicaptenvoertuigen met of zonder motor; |   |   |
@@ -873,43 +897,42 @@ Vervallen
 |   |   |   | 6 – Overige weggebruikers; |   |   |
 |   |   |   | 7 – Gezagvoerders/schippers; |   |   |
 |   |   |   | 8 – Een ieder. |   |   |
-|   |   |   |   |   |   |
 |   |   |   | NB De categorieën 1 tot en met 4 gelden in voorkomend geval mede voor bestuurders van één van de op die categorieën betrekking hebbende voertuigen, indien daarmee een aanhangwagen wordt voortbewogen |   |   |
 |   |   |   | Nummers H 001 – H 107: [Wet Milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) (Wm), [Wet Bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994) (WBB), [Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458) (Ww), de Model-Algemene plaatselijke verordening of Modelafvalstoffenverordening (Pl.V) |   |   |
 |   |   |   | Afvalstoffen |   |   |
 |   |   |   | Aanbieden van huishoudelijke afvalstoffen |   |   |
-| H | 001 |   | huishoudelijke afvalstoffen inzamelen anders dan als daartoe aangewezen of verplicht zijnde inzameldienst, persoon of instantie | PL. V jo. [10.23 lid 1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23) / Omgevingsplan jo. [2.4 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4) jo. [4.1 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.1) | 8 |
-| H | 002 |   | huishoudelijke afvalstoffen ter inzameling aanbieden, terwijl men geen gebruiker van het perceel is | PL. V jo. [10.23 lid 1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23) / Omgevingsplan jo. [2.4 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4) jo. [4.1 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.1) | 8 |
-| H | 003 | a | huishoudelijke afvalstoffen aanbieden aan een ander dan de aangewezen inzameldienst of andere inzamelaar | PL. V jo. [10.23 lid 1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23) / Omgevingsplan jo. [2.4 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4) jo. [4.1 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.1) | 8 |
-| H | 004 |   | huishoudelijke afvalstoffen anders aanbieden dan via het aangewezen of verstrekte inzamelmiddel | PL. V jo. [10.23 lid 1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23) / Omgevingsplan jo. [2.4 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4) jo. [4.1 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.1) | 8 |
-| H | 005 |   | andere categorieën huishoudelijke afvalstoffen via inzamelmiddel aanbieden, dan waarvoor het is bestemd | PL. V jo. [10.23 lid 1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23) / Omgevingsplan jo. [2.4 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4) jo. [4.1 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.1) | 8 |
-| H | 006 | a | huishoudelijke afvalstoffen die afzonderlijk worden ingezameld, niet afzonderlijk ter inzameling aanbieden | PL. V jo. [10.23 lid 1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23) / Omgevingsplan jo. [2.4 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4) jo. [4.1 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.1) | 8 |
-| H | 008 |   | via een inzamelvoorziening voor een groep percelen of op wijkniveau andere categorieën huishoudelijke afvalstoffen aanbieden, dan de categorie waarvoor de inzamelvoorziening bestemd is | PL. V jo. [10.23 lid 1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23) / Omgevingsplan jo. [2.4 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4) jo. [4.1 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.1) | 8 |
-| H | 009 |   | huishoudelijke afvalstoffen niet op de voorgeschreven wijze via een inzamelvoorziening voor groep percelen of op wijkniveau aanbieden | PL. V jo. [10.23 lid 1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23) / Omgevingsplan jo. [2.4 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4) jo. [4.1 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.1) | 8 |
-| H | 010 |   | via een brengdepot op lokaal of regionaal niveau andere categorieën huishoudelijke afvalstoffen aanbieden, dan de categorie waarvoor het brengdepot bestemd is | PL. V jo. [10.23 lid 1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23) / Omgevingsplan jo. [2.4 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4) jo. [4.1 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.1) | 8 |
-| H | 011 |   | huishoudelijke afvalstoffen niet op de voorgeschreven wijze via brengdepot op lokaal of regionaal niveau aanbieden | PL. V jo. [10.23 lid 1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23) / Omgevingsplan jo. [2.4 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4) jo. [4.1 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.1) | 8 |
-| H | 012 |   | categorieën huishoudelijke afvalstoffen, die zonder inzamelmiddel moeten worden aangeboden, niet op de voorgeschreven wijze ter inzameling aanbieden | PL. V jo. [10.23 lid 1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23) / Omgevingsplan jo. [2.4 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4) jo. [4.1 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.1) | 8 |
-| H | 013 |   | huishoudelijke afvalstoffen op andere dan de vastgestelde dagen en tijden ter inzameling aanbieden | PL. V jo. [10.23 lid 1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23) / Omgevingsplan jo. [2.4 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4) jo. [4.1 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.1) | 8 |
-| H | 027 |   | een inzamelmiddel na afloop van de daartoe vastgestelde tijden buiten een perceel laten staan | PL. V jo. [10.23 lid 1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23) / Omgevingsplan jo. [2.4 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4) jo. [4.1 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.1) | 8 |
+| H | 001 |   | huishoudelijke afvalstoffen inzamelen anders dan als daartoe aangewezen of verplicht zijnde inzameldienst, persoon of instantie | PL.V jo. [10.23 lid 1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23) / Omgevingsplan jo. [2.4 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4) jo. [4.1 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.1) | 8 |
+| H | 002 |   | huishoudelijke afvalstoffen ter inzameling aanbieden, terwijl men geen gebruiker van het perceel is | PL.V jo. [10.23 lid 1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23) / Omgevingsplan jo. [2.4 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4) jo. [4.1 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.1) | 8 |
+| H | 003 | a | huishoudelijke afvalstoffen aanbieden aan een ander dan de aangewezen inzameldienst of andere inzamelaar | PL.V jo. [10.23 lid 1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23) / Omgevingsplan jo. [2.4 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4) jo. [4.1 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.1) | 8 |
+| H | 004 |   | huishoudelijke afvalstoffen anders aanbieden dan via het aangewezen of verstrekte inzamelmiddel | PL.V jo. [10.23 lid 1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23) / Omgevingsplan jo. [2.4 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4) jo. [4.1 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.1) | 8 |
+| H | 005 |   | andere categorieën huishoudelijke afvalstoffen via inzamelmiddel aanbieden, dan waarvoor het is bestemd | PL.V jo. [10.23 lid 1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23) / Omgevingsplan jo. [2.4 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4) jo. [4.1 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.1) | 8 |
+| H | 006 | a | huishoudelijke afvalstoffen die afzonderlijk worden ingezameld, niet afzonderlijk ter inzameling aanbieden | PL.V jo. [10.23 lid 1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23) / Omgevingsplan jo. [2.4 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4) jo. [4.1 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.1) | 8 |
+| H | 008 |   | via een inzamelvoorziening voor een groep percelen of op wijkniveau andere categorieën huishoudelijke afvalstoffen aanbieden, dan de categorie waarvoor de inzamelvoorziening bestemd is | PL.V jo. [10.23 lid 1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23) / Omgevingsplan jo. [2.4 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4) jo. [4.1 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.1) | 8 |
+| H | 009 |   | huishoudelijke afvalstoffen niet op de voorgeschreven wijze via een inzamelvoorziening voor groep percelen of op wijkniveau aanbieden | PL.V jo. [10.23 lid 1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23) / Omgevingsplan jo. [2.4 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4) jo. [4.1 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.1) | 8 |
+| H | 010 |   | via een aangewezen plaats voor het aanbieden van bepaalde categorieën huishoudelijke afvalstoffen op lokaal of regionaal niveau andere categorieën huishoudelijke afvalstoffen aanbieden, dan de categorie waarvoor die aangewezen plaats bestemd is | PL.V jo. [10.23 lid 1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23) / Omgevingsplan jo. [2.4 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4) jo. [4.1 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.1) | 8 |
+| H | 011 |   | huishoudelijke afvalstoffen niet op de voorgeschreven wijze via brengdepot op lokaal of regionaal niveau aanbieden | PL.V jo. [10.23 lid 1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23) / Omgevingsplan jo. [2.4 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4) jo. [4.1 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.1) | 8 |
+| H | 012 |   | categorieën huishoudelijke afvalstoffen, die zonder inzamelmiddel moeten worden aangeboden, niet op de voorgeschreven wijze ter inzameling aanbieden | PL.V jo. [10.23 lid 1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23) / Omgevingsplan jo. [2.4 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4) jo. [4.1 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.1) | 8 |
+| H | 013 |   | huishoudelijke afvalstoffen op andere dan de vastgestelde dagen en tijden ter inzameling aanbieden | PL.V jo. [10.23 lid 1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23) / Omgevingsplan jo. [2.4 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4) jo. [4.1 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.1) | 8 |
+| H | 027 |   | een inzamelmiddel na afloop van de daartoe vastgestelde tijden buiten een perceel laten staan | PL.V jo. [10.23 lid 1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23) / Omgevingsplan jo. [2.4 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4) jo. [4.1 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.1) | 8 |
 |   |   |   |   |   |   |
 |   |   |   | Aanbieden van bedrijfsafvalstoffen |   |   |
-| H | 014 | a | bedrijfsafvalstoffen aanbieden aan de inzameldienst | PL. V jo. [10.23 lid 1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23) / Omgevingsplan jo. [2.4 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4) jo. [4.1 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.1) | 8 |
-| H | 015 | a | aangewezen categorieën bedrijfsafvalstoffen niet op de voorgeschreven wijze ter inzameling aanbieden | PL. V jo. [10.23 lid 1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23) / Omgevingsplan jo. [2.4 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4) jo. [4.1 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.1) | 8 |
+| H | 014 | a | bedrijfsafvalstoffen aanbieden aan de inzameldienst | PL.V jo. [10.23 lid 1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23) / Omgevingsplan jo. [2.4 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4) jo. [4.1 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.1) | 8 |
+| H | 015 | a | aangewezen categorieën bedrijfsafvalstoffen niet op de voorgeschreven wijze ter inzameling aanbieden | PL.V jo. [10.23 lid 1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23) / Omgevingsplan jo. [2.4 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4) jo. [4.1 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.1) | 8 |
 |   |   |   |   |   |   |
 |   |   |   | Doorzoeken van afvalstoffen |   |   |
-| H | 016 |   | afvalstoffen of inzamelmiddelen die ter inzameling gereed staan doorzoeken en verspreiden | PL. V jo. [10.23 lid 1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23) / Omgevingsplan jo. [2.4 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4) jo. [4.1 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.1) | 8 |
+| H | 016 |   | afvalstoffen of inzamelmiddelen die ter inzameling gereed staan doorzoeken en verspreiden | PL.V jo. [10.23 lid 1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23) / Omgevingsplan jo. [2.4 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4) jo. [4.1 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.1) | 8 |
 |   |   |   |   |   |   |
 |   |   |   | Handelingen verrichten waardoor zwerfafval kan ontstaan (door een particulier) |   |   |
-| H | 017 |   | andere afvalstoffen dan straatafval achterlaten in daartoe van gemeentewege of anderszins geplaatste of voorgeschreven bakken, manden of soortgelijke voorwerpen | PL. V jo. [10.23 lid 1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23) / Omgevingsplan jo. [2.4 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4) jo. [4.1 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.1) | 8 |
-| H | 020 |   | afvalstoffen, stoffen of voorwerpen laden, lossen, vervoeren of andere werkzaamheden verrichten, zodanig dat de weg wordt verontreinigd of het milieu nadelig kan worden beïnvloed | PL. V jo. [10.23 lid 1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23) / Omgevingsplan jo. [2.4 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4) jo. [4.1 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.1) | 8 |
-| H | 022 |   | huishoudelijke afvalstoffen van beperkte omvang en gewicht die zijn ontstaan buiten een perceel, achterlaten in de openbare ruimte anders dan in daartoe bestemde afvalbakken of andere middelen ter inzameling van deze afvalstoffen | PL. V jo. [10.23 lid 1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23) / Omgevingsplan jo. [2.4 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4) jo. [4.1 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.1) | 8 |
+| H | 017 |   | andere afvalstoffen dan straatafval achterlaten in daartoe van gemeentewege of anderszins geplaatste of voorgeschreven bakken, manden of soortgelijke voorwerpen | PL.V jo. [10.23 lid 1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23) / Omgevingsplan jo. [2.4 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4) jo. [4.1 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.1) | 8 |
+| H | 020 |   | afvalstoffen, stoffen of voorwerpen laden, lossen, vervoeren of andere werkzaamheden verrichten, zodanig dat de weg wordt verontreinigd of het milieu nadelig kan worden beïnvloed | PL.V jo. [10.23 lid 1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23) / Omgevingsplan jo. [2.4 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4) jo. [4.1 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.1) | 8 |
+| H | 022 |   | huishoudelijke afvalstoffen van beperkte omvang en gewicht die zijn ontstaan buiten een perceel, achterlaten in de openbare ruimte anders dan in daartoe bestemde afvalbakken of andere middelen ter inzameling van deze afvalstoffen | PL.V jo. [10.23 lid 1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23) / Omgevingsplan jo. [2.4 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4) jo. [4.1 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.1) | 8 |
 |   |   |   |   |   |   |
 |   |   |   | Voorkomen zwerfafval – bedrijfsmatig |   |   |
-|   |   |   | als houder of beheerder van een inrichting waar eet- of drinkwaren worden verkocht die ter plaatse kunnen worden genuttigd, niet voldoen aan de verplichting om | PL. V jo. [10.23 lid 1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23) / Omgevingsplan jo. [2.4 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4) jo. [4.1 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.1) |   |
+|   |   |   | als houder of beheerder van een inrichting waar eet- of drinkwaren worden verkocht die ter plaatse kunnen worden genuttigd, niet voldoen aan de verplichting om | PL.V jo. [10.23 lid 1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23) / Omgevingsplan jo. [2.4 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4) jo. [4.1 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.1) |   |
 | H | 023 | a | – in of nabij die inrichting ten behoeve van het publiek op een duidelijk zichtbare plaats een afvalbak, afvalmand of soortgelijk voorwerp aanwezig te hebben |   | 8 |
 | H | 023 | b | – ervoor zorg te dragen dat de nabij een inrichting aanwezige afvalbak, afvalmand of soortgelijk voorwerp tijdig wordt geledigd |   | 8 |
 | H | 023 | c | – ervoor zorg te dragen dat dagelijks uiterlijk een uur na sluiting van de inrichting maar in ieder geval op eerste aanzegging van een daartoe bevoegde ambtenaar, het in de nabijheid van de inrichting achtergebleven afval, kennelijk uit of van die inrichting afkomstig, wordt opgeruimd |   | 8 |
-| H | 024 |   | als degene die in de openbare ruimte reclamebiljetten of ander promotiemateriaal onder het publiek verspreidt, niet voldoen aan de verplichting deze/dat of de verpakking daarvan terstond op te (laten) ruimen indien deze/dat in de omgeving van de plaats van uitreiking dan wel op een andere voor het publiek toegankelijke plaats, door het publiek word(t)(en) weggeworpen | PL. V jo. [10.23 lid 1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23) / Omgevingsplan jo. [2.4 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4) jo. [4.1 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.1) | 8 |
+| H | 024 |   | als degene die in de openbare ruimte reclamebiljetten of ander promotiemateriaal onder het publiek verspreidt, niet voldoen aan de verplichting deze/dat of de verpakking daarvan terstond op te (laten) ruimen indien deze/dat in de omgeving van de plaats van uitreiking dan wel op een andere voor het publiek toegankelijke plaats, door het publiek word(t)(en) weggeworpen | PL.V jo. [10.23 lid 1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23) / Omgevingsplan jo. [2.4 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4) jo. [4.1 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.1) | 8 |
 |   |   |   |   |   |   |
 |   |   |   | Afvalstoffen storten of op/in bodem brengen (buiten een inrichting) |   |   |
 | H | 025 |   | als particulier zich van een afvalstof ontdoen door deze buiten een inrichting te storten, op of in de bodem te brengen of te verbranden | [10.2 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.2) | 8 |
@@ -921,7 +944,7 @@ Vervallen
 | H | 098 |   | als particulier een stof in een oppervlaktewaterlichaam brengen | [6.2 lid 1 Ww](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.2) | 8 |
 |   |   |   |   |   |   |
 |   |   |   | Opslaan van afvalstoffen buiten een inrichting |   |   |
-| H | 019 |   | afvalstoffen op een voor het publiek zichtbare plaats in de open lucht en buiten een inrichting in de zin van de [Wet Milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) opslaan of opgeslagen hebben | PL. V jo. [10.23 lid 1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23) / Omgevingsplan jo. [2.4 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4) jo. [4.1 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.1) | 8 |
+| H | 019 |   | afvalstoffen op een voor het publiek zichtbare plaats in de open lucht en buiten een inrichting in de zin van de [Wet Milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) opslaan of opgeslagen hebben | PL.V jo. [10.23 lid 1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23) / Omgevingsplan jo. [2.4 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4) jo. [4.1 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.1) | 8 |
 |   |   |   |   |   |   |
 |   |   |   | Wrakken |   |   |
 | H | 107 |   | een voertuig dat rijtechnisch in onvoldoende staat van onderhoud en in een kennelijk verwaarloosde toestand verkeert op de weg parkeren | Pl.V | 8 |
@@ -930,7 +953,6 @@ Vervallen
 | H | 100 |   | als particulier handelingen verrichten, met betrekking tot een voertuig, waardoor de bodem wordt/kan worden verontreinigd of aangetast zonder maatregelen te nemen die verontreiniging of aantasting te voorkomen, te beperken of ongedaan te maken | [13 WBB](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=13) | 8 |
 |   |   |   |   |   |   |
 |   |   |   | Nummers H 631 – H 670: [Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416) (ViW) jo. [1a onder 3 WED](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1a), [Besluit houden van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217) (BHVD), [Wet Dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250) (WD), [Reglement voor de Binnenvisserij 1985](https://wetten.overheid.nl/jci1.3:c:BWBR0009027) (RB), [Reglement minimummaten en gesloten tijden 1985](https://wetten.overheid.nl/jci1.3:c:BWBR0003805) (RMGT) en [Uitvoeringsregeling visserij](https://wetten.overheid.nl/jci1.3:c:BWBR0024539) (Uv) |   |   |
-|   |   |   |   |   |   |
 |   |   |   | Noot De op de visserijwetgeving betrekking hebbende feitcodes zijn uitsluitend van toepassing op door particulieren gepleegde overtredingen. Indien sprake is van beroepsmatig handelen dan moet proces-verbaal worden opgemaakt |   |   |
 |   |   |   | Kustvisserij |   |   |
 |   |   |   | Documenten |   |   |
@@ -995,15 +1017,15 @@ Vervallen
 |   |   |   | 6 – Overige weggebruikers; |   |   |
 |   |   |   | 7 – Gezagvoerders/schippers; |   |   |
 |   |   |   | 8 – Een ieder. |   |   |
-|   |   |   |   |   |   |
 |   |   |   | NB De categorieën 1 tot en met 4 gelden in voorkomend geval mede voor bestuurders van één van de op die categorieën betrekking hebbende voertuigen, indien daarmee een aanhangwagen wordt voortbewogen |   |   |
 |   |   |   | Nummers D 505 – D 537: [Boek 3 Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Derde) (WvSr) |   |   |
-|   |   |   |   |   |   |
 | D | 530 |   | zich in kennelijke staat van dronkenschap op de openbare weg bevinden | [453 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=453) | 8 |
 | D | 517 |   | niet voldoen aan de verplichting om een identiteitsbewijs ter inzage aan te bieden, die is opgelegd bij een van de in [artikel 447e WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=447e) genoemde wetten | [447e WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=447e) | 8 |
+|   |   |   |   |   |   |
 |   |   |   | zonder daartoe gerechtigd te zijn zich bevinden | [460 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=460) |   |
 | D | 535 | i | – op grond die bezaaid, bepoot of beplant is, of ter bezaaiing, bepoting of beplanting is gereedgemaakt |   | 8 |
 | D | 535 | j | – gedurende de maanden mei tot en met oktober op enig wei- of hooiland |   | 8 |
+|   |   |   |   |   |   |
 |   |   |   | zonder daartoe gerechtigd te zijn zich bevinden | [461 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=461) |   |
 | D | 537 |   | – op eens anders grond, waarvan de toegang hem op voor hem blijkbare wijze verboden is |   | 8 |
 | D | 537 | b | – op eens anders grond waarvan de toegang aan hem verboden is wegens enige handeling in strijd met de toegangsvoorwaarden |   | 8 |
@@ -1011,7 +1033,7 @@ Vervallen
 |   |   |   |   |   |   |
 |   |   |   | Afdeling E. Bijzondere wetten |   |   |
 |   |   |   | Categorie-indeling B: |   |   |
-|   |   |   | 1 – Bestuurders van motorvoertuigen op meer dan twee wielen, en bestuurders van brommobielen voor zover het de bepalingen van het [RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825) betreft; |   |   |
+|   |   |   | 1 – Bestuurders van motorvoertuigen op meer dan twee wielen en bestuurders van brommobielen voor zover het de bepalingen van het [RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825) betreft; |   |   |
 |   |   |   | 2 – Bestuurders van motorvoertuigen op twee wielen; |   |   |
 |   |   |   | 3 – Bromfietsers en snorfietsers; |   |   |
 |   |   |   | 4 – Fietsers en bestuurders van gehandicaptenvoertuigen met of zonder motor; |   |   |
@@ -1019,12 +1041,9 @@ Vervallen
 |   |   |   | 6 – Overige weggebruikers; |   |   |
 |   |   |   | 7 – Gezagvoerders/schippers; |   |   |
 |   |   |   | 8 – Een ieder. |   |   |
-|   |   |   |   |   |   |
 |   |   |   | NB De categorieën 1 tot en met 4 gelden in voorkomend geval mede voor bestuurders van één van de op die categorieën betrekking hebbende voertuigen, indien daarmee een aanhangwagen wordt voortbewogen |   |   |
 |   |   |   | Nummers E 100 – E 176: [Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470) (Wp 2000), [Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982) (Bp 2000), [Regeling maximumtarief en bekendmaking tarieven taxivervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0010998) (RMBTT), [Regeling periodieke controle taxameters](https://wetten.overheid.nl/jci1.3:c:BWBR0020859) (RPCT), [Regeling gebruik boordcomputer en boordcomputerkaarten](https://wetten.overheid.nl/jci1.3:c:BWBR0028974) (RGBB), [Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007) (Spww) en [Wet Lokaalspoor](https://wetten.overheid.nl/jci1.3:c:BWBR0034363) (WL) |   |   |
-|   |   |   |   |   |   |
 |   |   |   | Vervoerder/bestuurder |   |   |
-|   |   |   |   |   |   |
 |   |   |   | Noot |   |   |
 |   |   |   | 1. Categorie 8 betreft bij deze feitcodeserie de vervoerder; |   |   |
 |   |   |   | 2. Indien de verdachte onder een andere categorie valt dan bij de betreffende feitcode is aangegeven en deze is normadressaat volgens de [Wp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470) dan moet proces-verbaal worden opgemaakt. |   |   |
@@ -1034,25 +1053,25 @@ Vervallen
 | E | 106 | b | geen eensluidend gewaarmerkt afschrift van de communautaire vergunning aanwezig hebben in bus of auto waarmee openbaar vervoer of besloten busvervoer wordt verricht | [7 lid 2 Wp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=7) | 8 |
 | E | 109 | a | als bestuurder taxivervoer aanbieden of verrichten op aangewezen wegen of gedeelten daarvan, zonder geldige door het college afgegeven vergunning als bedoeld in [artikel 82a](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=82a) of [82b Wp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=82b) | [82a](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=82a) of [82b Wp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=82b) jo. Pl.V | 1 |
 | E | 109 | b | als vervoerder taxivervoer aanbieden of (laten) verrichten op aangewezen wegen of gedeelten daarvan, zonder geldige door het college afgegeven vergunning als bedoeld in [artikel 82a](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=82a) of [82b Wp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=82b) | [82a](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=82a) of [82b Wp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=82b) jo. Pl.V | 8 |
-| E | 110 | a | een bestuurder met besturen van een bus belasten die niet in het bezit is van een niet ouder dan vijf jaar zijnde geneeskundige verklaring waaruit blijkt dat hij geen lichamelijke of geestelijke afwijkingen heeft welke hem zouden beletten een bus naar behoren te besturen en dat hij beschikt over voldoende gehoor- en gezichtsvermogen | [74 lid 1 Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=74) | 8 |
+| E | 110 | a | een bestuurder met besturen van een bus belasten die niet in het bezit is van een niet ouder dan vijf jaar zijnde geneeskundige verklaring waaruit blijkt dat hij geen lichamelijke of geestelijke afwijkingen heeft welke hem zouden beletten een bus naar behoren te besturen en dat hij beschikt over voldoende gehoor- en gezichtsvermogen | [74 lid 1 Bp 200](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=74)0 | 8 |
 | E | 111 | a | als bestuurder van een bus geen geneeskundige verklaring bij zich hebben | [74 lid 3 Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=74) | 1 |
 | E | 113 | a | als bestuurder van een auto waarmee taxivervoer wordt verricht niet in het bezit zijn van een geldige, behoorlijk leesbare chauffeurskaart of chauffeurskaart onder beperkingen | [81 lid 5 Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=81) | 1 |
 | E | 113 | aa | een bestuurder belasten met het besturen van een auto, waarmee taxivervoer wordt verricht, zonder dat die bestuurder in het bezit is van een geldige, behoorlijk leesbare chauffeurskaart of chauffeurskaart onder beperkingen | [81 lid 3 en 4 Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=81) | 8 |
 | E | 113 | ab | als bestuurder van een auto waarmee taxivervoer wordt verricht de aan hem door Onze Minister verstrekte chauffeurskaart of chauffeurskaart onder beperkingen niet gebruiken ten behoeve van een deugdelijke registratie van de gegevens, bedoeld in [artikel 79, derde tot en met vijfde lid, Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=79) | [81 lid 5 Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=81) | 1 |
-| E | 114 |   | als vervoerder taxivervoer aanbieden, terwijl het tarief, bedoeld in [artikel 1, eerste of vijfde lid RMBTT](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1) niet zowel in de auto waarmee taxivervoer wordt verricht als aan de buitenzijde voor de consument duidelijk leesbaar wordt getoond | [80 Wp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=80) jo. [2 lid 1 RMBTT](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=2) | 8 |
-| E | 114 | a | als vervoerder taxivervoer aanbieden, terwijl de informatie, bedoeld in [artikel 2, tweede lid RMBTT](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=2), niet zowel in de auto waarmee taxivervoer wordt verricht als aan de buitenzijde voor de consument duidelijk leesbaar wordt getoond | [80 Wp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=80) jo. [2 lid 2 RMBTT](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=2) | 8 |
+| E | 114 |   | als vervoerder taxivervoer aanbieden, terwijl het tarief, bedoeld in [artikel 1, eerste of vijfde lid, RMBTT](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1) niet zowel in de auto waarmee taxivervoer wordt verricht als aan de buitenzijde voor de consument duidelijk leesbaar wordt getoond | [80 Wp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=80) jo. [2 lid 1 RMBTT](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=2) | 8 |
+| E | 114 | a | als vervoerder taxivervoer aanbieden, terwijl de informatie, bedoeld in [artikel 2, tweede lid, RMBTT](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=2), niet zowel in de auto waarmee taxivervoer wordt verricht als aan de buitenzijde voor de consument duidelijk leesbaar wordt getoond | [80 Wp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=80) jo. [2 lid 2 RMBTT](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=2) | 8 |
 | E | 114 | b | als vervoerder taxivervoer aanbieden, terwijl de consument niet na afloop van het verrichte taxivervoer een automatisch gegenereerd schriftelijk ritbewijs, bedoeld in [art. 1c RMBTT](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1c), is aangeboden | [80 Wp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=80) jo. [1c RMBTT](https://wetten.overheid.nl/jci1.3:c:BWBR0010998&artikel=1c) | 8 |
 | E | 115 |   | als vervoerder in een auto waarmee taxivervoer wordt verricht, geen taxameter aanwezig hebben die zichtbaar voor de reiziger de vervoerprijs overeenkomstig de kenbaar gemaakte tarieven aangeeft | [78 lid 1 Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=78) | 8 |
 | E | 116 |   | als vervoerder er geen zorg voor dragen dat de taxameter voldoet aan de regels die bij en krachtens de [Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517) zijn gesteld | [78 lid 2 Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=78) | 8 |
 | E | 117 |   | taxivervoer verrichten zonder de in de auto aanwezige taxameter te gebruiken | [78 lid 3 Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=78) | 1 |
+|   |   |   |   |   |   |
 |   |   |   | als vervoerder taxivervoer verrichten terwijl de ingebouwde taxameter niet binnen een termijn van één jaar is gekeurd, waarbij de keuringsdatum | [1 lid 1 RPCT](https://wetten.overheid.nl/jci1.3:c:BWBR0020859&artikel=1) jo. [78 lid 4 Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=78) |   |
 | E | 118 | a | – niet meer dan één maand is verstreken |   | 8 |
 | E | 118 | b | – meer dan één maand is verstreken |   | 8 |
-| E | 170 |   | als vervoerder er geen zorg voor dragen dat in een auto waarmee taxivervoer wordt verricht een op correcte wijze functionerende boordcomputer aanwezig is waarvoor de voorgeschreven typegoedkeuring is verleend | [79 lid 1 Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=79) | 8 |
 | E | 171 |   | als vervoerder er geen zorg voor dragen dat in een auto waarmee taxivervoer wordt verricht de boordcomputer een activeringskeuring en/of, voor zover bepaald bij ministeriële regeling, een periodiek onderzoek heeft ondergaan | [79 lid 2 Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=79) | 8 |
 | E | 172 | a | als vervoerder die taxivervoer verricht de boordcomputer ondeugdelijk maken of doen maken, vernietigen of doen vernietigen, dan wel toelaten dat de boordcomputer ondeugdelijk wordt gemaakt of vernietigd | [80 lid 8 onder a Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=80) | 8 |
 | E | 172 | b | als bestuurder van een auto waarmee taxivervoer wordt verricht de boordcomputer ondeugdelijk maken of doen maken, vernietigen of doen vernietigen, dan wel toelaten dat de boordcomputer ondeugdelijk wordt gemaakt of vernietigd | [80 lid 9](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=80) jo. 80 lid 8 onder a Bp 2000 | 1 |
-| E | 172 | c | als vervoerder die taxivervoer verricht in de auto waarmee taxivervoer wordt verricht een voorziening aanwezig hebben die kennelijk bedoeld is om voor, het in het [Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982) omschreven, misbruik aan te wenden | [80 lid 8](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=80) onder b Bp 2000 | 8 |
+| E | 172 | c | als vervoerder die taxivervoer verricht in de auto waarmee taxivervoer wordt verricht een voorziening aanwezig hebben die kennelijk bedoeld is om voor, het in het [Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982) omschreven, misbruik aan te wenden | [80 lid 8 onder b Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=80) | 8 |
 | E | 172 | d | als bestuurder van een auto waarmee taxivervoer wordt verricht een voorziening aanwezig hebben die kennelijk bedoeld is om voor, het in het [Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982) omschreven, misbruik aan te wenden | [80 lid 9](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=80) jo. 80 lid 8 onder b Bp 2000 | 1 |
 | E | 173 | a | als houder van een boordcomputerkaart de boordcomputerkaart, dan wel de daarbij behorende pincode en pukcode, aan een daartoe niet bevoegde derde overdragen | [4 RGBB aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028974&artikel=4) jo. [83 lid 8 Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=83) | 8 |
 | E | 173 | b | als houder van een boordcomputerkaart de buitenkant van de boordcomputerkaart, dan wel de elektronische gegevens die ten tijde van de afgifte van de kaart door de Minister reeds op de kaart zijn opgeslagen aanpassen of wijzigen | [4 RGBB aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028974&artikel=4) jo. [83 lid 8 Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=83) | 8 |
@@ -1063,18 +1082,22 @@ Vervallen
 |   |   |   | Gebruikers van voorzieningen en middelen van openbaar vervoer |   |   |
 | E | 100 | a | zonder geldig vervoersbewijs gebruik maken van het openbaar vervoer | [70 Wp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=70) jo. [101 Wp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=101) | 8 |
 | E | 101 | b | zonder geldig vervoersbewijs gebruik maken van (een) tot het openbaar vervoer behorende voorziening(en) waarvan de vervoerder duidelijk kenbaar heeft gemaakt dat daarvoor een geldig vervoersbewijs vereist is | [70 Wp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=70) jo. [101 Wp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=101) | 8 |
+|   |   |   |   |   |   |
 |   |   |   | de orde, rust, veiligheid of een goede bedrijfsgang verstoren door het verhinderen of belemmeren van | [72 Wp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=72) jo. [52 lid 1a Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=52) |   |
 | E | 120 | a | – de bediening en het gebruik van voorzieningen |   | 8 |
 | E | 120 | b | – de bediening en het gebruik van een vervoermiddel |   | 8 |
 | E | 120 | c | – de taakuitoefening van het personeel van de vervoerder |   | 8 |
+|   |   |   |   |   |   |
 |   |   |   | de orde, rust, veiligheid of een goede bedrijfsgang verstoren door voorzieningen te gebruiken | [72 Wp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=72) jo. [52 lid 1b Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=52) |   |
 | E | 121 | a | – op een tijdstip waarop deze niet voor gebruik beschikbaar zijn |   | 8 |
 | E | 121 | b | – op een andere dan de daarvoor bestemde wijze |   | 8 |
 | E | 121 | c | de orde, rust, veiligheid of een goede bedrijfsgang verstoren door misbruik te maken van voorzieningen | [72 Wp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=72) jo. [52 lid 1b Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=52) | 8 |
+|   |   |   |   |   |   |
 |   |   |   | de orde, rust, veiligheid of een goede bedrijfsgang verstoren door een vervoermiddel te gebruiken | [72 Wp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=72) jo. [52 lid 1b Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=52) |   |
 | E | 122 | a | – op een tijdstip waarop deze niet voor gebruik beschikbaar is |   | 8 |
 | E | 122 | b | – op een andere dan de daarvoor bestemde wijze |   | 8 |
 | E | 123 |   | de orde, rust, veiligheid of een goede bedrijfsgang verstoren door stoffen of voorwerpen uit een vervoermiddel te werpen | [72 Wp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=72) jo. [52 lid 1c Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=52) | 8 |
+|   |   |   |   |   |   |
 |   |   |   | de orde, rust, veiligheid of een goede bedrijfsgang verstoren door zich | [72 Wp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=72) jo. [52 lid 1d Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=52) |   |
 | E | 124 | a | – in kennelijke staat van dronkenschap te bevinden |   | 8 |
 | E | 124 | b | – onder kennelijke invloed van verdovende middelen te bevinden |   | 8 |
@@ -1083,7 +1106,8 @@ Vervallen
 | E | 126 |   | de orde, rust, veiligheid of een goede bedrijfsgang verstoren door zich te bevinden op, een gedeelte van, een station of halte op een tijdstip dat deze gesloten dan wel niet toegankelijk is | [72 Wp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=72) jo. [52 lid 1j Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=52) | 8 |
 | E | 127 |   | de orde, rust, veiligheid of een goede bedrijfsgang verstoren door zich op een station of halte te begeven langs een andere dan de daarvoor bestemde weg | [72 Wp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=72) jo. [52 lid 1k Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=52) | 8 |
 | E | 128 |   | niet opvolgen van de aanwijzingen betreffende de orde, rust, veiligheid of een goede bedrijfsgang, die door of vanwege de vervoerder duidelijk kenbaar zijn gemaakt | [73 Wp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=73) | 8 |
-|   |   |   | de orde, rust, veiligheid of een goede bedrijfsgang verstoren door | [72 Wp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=72) jo. [52,](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=52) |   |
+|   |   |   |   |   |   |
+|   |   |   | de orde, rust, veiligheid of een goede bedrijfsgang verstoren door | [72 Wp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=72) jo. [52](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=52), |   |
 | E | 129 | a | – zodanig geluid voort te brengen dat anderen daarvan hinder ondervinden | [lid 1e Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=52) | 8 |
 | E | 129 | b | – het uitoefenen van een beroep, bedrijf of het aanbieden van diensten | [lid 1f Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=52) | 8 |
 | E | 129 | c | – het tentoonstellen van voorwerpen, maken van reclame of propaganda | [lid 1g Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=52) | 8 |
@@ -1104,12 +1128,14 @@ Vervallen
 | E | 320 | c | niet voldoen aan de vordering van Onze Minister het rijbewijs op een bepaalde tijd en aangewezen plaats in te leveren | [34 lid 1, onderdeel c WAHV](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=34) | 8 |
 |   |   |   |   |   |   |
 |   |   |   | Nummers E 801 – E 837: [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) (VrW 2000), Schengengrenscode (SGC) en [Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825) (VB 2000) |   |   |
-| E | 801 |   | als vreemdeling die Nederland in- of uitreist zich niet begeven langs een doorlaatpost, binnen de tijd dat deze is opengesteld, en zich niet aldaar vervoegen bij een ambtenaar, belast met de grensbewaking | [108 lid 1 VrW 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=108) jo 4 lid 1 SGC | 8 |
+| E | 801 |   | als vreemdeling die Nederland in- of uitreist zich niet begeven langs een doorlaatpost, binnen de tijd dat deze is opengesteld, en zich niet aldaar vervoegen bij een ambtenaar, belast met de grensbewaking | [108 lid 1 VrW 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=108) jo 5 lid 1 SGC | 8 |
 | E | 803 |   | zich op of nabij een plaats bevinden, waar een grensdoorlaatpost is gevestigd, zonder zich te houden aan de aldaar door de ambtenaren, belast met de grensbewaking, in het belang van de uitoefening van hun taak gegeven aanwijzingen | [4.6 VB 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.6) | 8 |
 | E | 808 |   | als gezagvoerder van een zeeschip niet tijdig van het voorgenomen vertrek van zijn schip uit Nederland kennis geven aan het hoofd van de grensdoorlaatpost | [4.13 lid 1 VB 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.13) | 8 |
+|   |   |   |   |   |   |
 |   |   |   | als vreemdeling niet op vordering van de korpschef, namens de Minister van Justitie en Veiligheid, binnen de in de vordering aangegeven tijd |   |   |
 | E | 817 | a | – de gevraagde gegevens verstrekken waarover hij redelijkerwijs kan beschikken | [4.38 lid 1 VB 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.38) | 8 |
 | E | 817 | b | – de gevraagde gegevens in persoon verstrekken | [4.38 lid 2 VB 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.38) | 8 |
+|   |   |   |   |   |   |
 |   |   |   | als vreemdeling, die geen rechtmatig verblijf heeft als bedoeld in [artikel 8 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), niet onmiddellijk van zijn aanwezigheid mededeling doen aan de korpschef van de gemeente waar hij verblijft | [4.39 VB 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.39) jo. [108 VrW 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=108) |   |
 | E | 822 | a | – gedurende een illegaal verblijf van 1 tot 15 dagen |   | 8 |
 | E | 822 | b | – gedurende een illegaal verblijf van 15 dagen tot 3 maanden |   | 8 |
@@ -1117,6 +1143,7 @@ Vervallen
 | E | 822 | d | – gedurende een illegaal verblijf van 6 maanden tot 1 jaar |   | 8 |
 | E | 822 | e | – gedurende een illegaal verblijf van 1 jaar tot 2 jaar |   | 8 |
 | E | 822 | f | – gedurende een illegaal verblijf van 2 jaar of langer |   | 8 |
+|   |   |   |   |   |   |
 |   |   |   | als vreemdeling in Nederland verblijven, terwijl hij weet of ernstige reden heeft te vermoeden dat tegen hem een inreisverbod is uitgevaardigd (anders dan met toepassing van [artikel 66a, zevende lid, VrW 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=66a)) | [108 lid 1 en 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=108) jo. [66a VrW 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=66a) |   |
 | E | 824 | a | – voor een periode van 1 tot 15 dagen |   | 8 |
 | E | 824 | b | – voor een periode van 15 dagen tot 3 maanden |   | 8 |
@@ -1127,16 +1154,17 @@ Vervallen
 | E | 824 | g | – periode onbekend |   | 8 |
 | E | 827 |   | als vreemdeling te zijner identificatie op vordering van een ambtenaar, belast met de grensbewaking of met het toezicht op vreemdelingen, niet een goedgelijkende pasfoto ter beschikking stellen of vingerafdrukken van zich laten nemen indien daartoe in het belang van het toezicht op vreemdelingen gegronde reden bestaat | [4.45 VB 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.45) | 8 |
 | E | 832 |   | als vreemdeling die houder is van een visum of een document voor grensoverschrijding waarin door de daartoe bevoegde autoriteit een aantekening is gesteld omtrent aanmelding bij een vreemdelingendienst in Nederland, zich niet binnen drie dagen na binnenkomst in Nederland in persoon aanmelden bij de korpschef | [4.49 VB 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.49) | 8 |
+|   |   |   |   |   |   |
 |   |   |   | niet voldoen aan de verplichting tot wekelijkse aanmelding bij de korpschef, behoudens door deze verleende ontheffing |   |   |
 | E | 836 | a | – als vreemdeling die geen rechtmatig verblijf heeft, in afwachting van de feitelijke mogelijkheid tot vertrek of uitzetting | [4.51 lid 1 sub a VB 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.51) | 8 |
-| E | 836 | b | – als vreemdeling die rechtmatig verblijf heeft als bedoeld in [artikel 8, onder f, g of h van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) | [4.51 lid 1 sub b VB 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.51) | 8 |
+| E | 836 | b | – als vreemdeling die rechtmatig verblijf heeft als bedoeld in[artikel 8, onder f, g of h van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) | [4.51 lid 1 sub b VB 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.51) | 8 |
 |   |   |   |   |   |   |
-|   |   |   | Nummer E 209 – 211: [Alcoholwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458) |   |   |
+|   |   |   | Nummers E 209 – 211: [Alcoholwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458) |   |   |
 | E | 211 |   | als persoon onder de 18 jaar op voor het publiek toegankelijke plaatsen alcoholhoudende drank aanwezig of voor consumptie gereed hebben, anders dan op plaatsen waar bedrijfsmatig of anders dan om niet alcoholhoudende drank voor gebruik elders dan ter plaatse wordt verstrekt | [45 Alcoholwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=45) | 8 |
 |   |   |   |   |   |   |
 |   |   |   | Afdeling F. Overige overtredingen |   |   |
 |   |   |   | Categorie-indeling B: |   |   |
-|   |   |   | 1 – Bestuurders van motorvoertuigen op meer dan twee wielen, en bestuurders van brommobielen voor zover het de bepalingen van het [RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825) betreft; |   |   |
+|   |   |   | 1 – Bestuurders van motorvoertuigen op meer dan twee wielen en bestuurders van brommobielen voor zover het de bepalingen van het [RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825) betreft; |   |   |
 |   |   |   | 2 – Bestuurders van motorvoertuigen op twee wielen; |   |   |
 |   |   |   | 3 – Bromfietsers en snorfietsers; |   |   |
 |   |   |   | 4 – Fietsers en bestuurders van gehandicaptenvoertuigen met of zonder motor; |   |   |
@@ -1144,12 +1172,9 @@ Vervallen
 |   |   |   | 6 – Overige weggebruikers; |   |   |
 |   |   |   | 7 – Gezagvoerders/schippers; |   |   |
 |   |   |   | 8 – Een ieder. |   |   |
-|   |   |   |   |   |   |
 |   |   |   | NB De categorieën 1 tot en met 4 gelden in voorkomend geval mede voor bestuurders van één van de op die categorieën betrekking hebbende voertuigen, indien daarmee een aanhangwagen wordt voortbewogen |   |   |
-|   |   |   |   |   |   |
 |   |   |   | Voor alle feiten uit deze afdeling geldt dat hiervoor uitsluitend kan worden geverbaliseerd indien en voor zover in de betreffende lokale verordening een daartoe strekkende verbods- en strafbepaling zijn opgenomen. |   |   |
 |   |   |   | Nummers F 050 – F 400: Plaatselijk geldende verordeningen (Pl.V) |   |   |
-|   |   |   |   |   |   |
 |   |   |   | Verspreiden van gedrukte stukken |   |   |
 | F | 111 |   | zonder vergunning/ontheffing op door het college of de burgemeester aangewezen openbare plaatsen gedrukte of geschreven stukken dan wel afbeeldingen onder publiek verspreiden dan wel openlijk aanbieden | Pl.V | 8 |
 |   |   |   |   |   |   |
@@ -1158,11 +1183,12 @@ Vervallen
 | F | 100 |   | zonder vergunning/ontheffing als straatartiest, straatfotograaf, tekenaar, filmoperateur of gids ten behoeve van publiek optreden op door het college of de burgemeester aangewezen openbare plaatsen, waar dit niet is toegestaan | Pl.V | 8 |
 |   |   |   |   |   |   |
 |   |   |   | Bruikbaarheid en aanzien van de weg |   |   |
+| F | 101 |   | zonder vergunning/ontheffing of anders dan de daarin gestelde voorwaarden de weg of een weggedeelte gebruiken anders dan overeenkomstig de publieke functie daarvan (bijv. terrasverbod, reclameborden) | Pl.V | 8 |
+|   |   |   |   |   |   |
 |   |   |   | de weg of een weggedeelte anders gebruiken dan overeenkomstig de publieke functie daarvan, waardoor | Pl.V |   |
 | F | 102 | a | – aan de weg schade wordt toegebracht of kan worden toegebracht |   | 8 |
 | F | 102 | b | – de bruikbaarheid van de weg wordt belemmerd of kan worden belemmerd |   | 8 |
 | F | 102 | c | – het beheer of onderhoud van de weg wordt belemmerd of kan worden belemmerd |   | 8 |
-| F | 101 |   | zonder vergunning/ontheffing of anders dan de daarin gestelde voorwaarden de weg of een weggedeelte gebruiken anders dan overeenkomstig de publieke functie daarvan (bijv. terrasverbod, reclameborden) | Pl.V | 8 |
 |   |   |   |   |   |   |
 |   |   |   | Winkelwagentjes |   |   |
 | F | 136 |   | zich met een winkelwagentje op of aan de weg bevinden op meer dan de toegestane afstand van het bedrijf dat het winkelwagentje ter beschikking heeft gesteld | Pl.V | 8 |
@@ -1187,6 +1213,7 @@ Vervallen
 | F | 120 | b | op een openbare plaats zich ophouden op een wijze die voor andere gebruikers of omwonenden onnodig overlast of hinder veroorzaakt | Pl.V | 8 |
 | F | 125 | a | zonder redelijk doel zich in een portiek of poort ophouden of in, op of tegen een raamkozijn of een drempel van een gebouw zitten of liggen | Pl.V | 8 |
 | F | 125 | b | zonder redelijk doel zich anders dan als bewoner of gebruiker van flatgebouwen, appartementsgebouwen en soortgelijke meergezinshuizen of van publiek toegankelijke gebouwen bevinden in een voor gemeenschappelijk gebruik bestemde ruimte van dat gebouw | Pl.V | 8 |
+|   |   |   |   |   |   |
 |   |   |   | (in of op) een portaal, telefooncel, wachtlokaal voor openbaar vervoer, parkeergarage, rijwielstalling of een andere voor het publiek toegankelijke ruimte | Pl.V |   |
 | F | 130 | a | – zich zonder redelijk doel en op een voor anderen hinderlijke wijze ophouden |   | 8 |
 | F | 130 | b | – verontreinigen |   | 8 |
@@ -1207,13 +1234,14 @@ Vervallen
 | F | 145 | d | – een weg zonder een deugdelijk middel dat is bestemd voor het verwijderen van uitwerpselen bij zich te dragen en/of dit middel niet op eerste vordering tonen aan de met het toezicht belaste ambtenaar |   | 8 |
 | F | 145 | e | – een door het college of de burgemeester aangewezen plaats buiten de bebouwde kom zonder dat de hond is aangelijnd |   | 8 |
 | F | 145 | f | als degene die zich met een hond op een openbare plaats begeeft, niet voldoen aan de verplichting ervoor te zorgen dat de uitwerpselen van die hond onmiddellijk worden verwijderd van die openbare plaats |   | 8 |
+|   |   |   |   |   |   |
 |   |   |   | als eigenaar of houder van een hond deze laten verblijven of laten lopen op een openbare plaats of op een terrein van een ander | Pl.V |   |
 | F | 150 | a | – terwijl na aanzegging van de burgemeester deze hond niet kort is aangelijnd |   | 8 |
 | F | 150 | b | – terwijl na aanzegging van de burgemeester deze hond niet kort is aangelijnd en gemuilkorfd |   | 8 |
 | F | 150 | c | – zonder dat deze hond is voorzien van een afleesbare microchip met uniek identificatienummer dat in verband met het gedrag van de hond is verstrekt |   | 8 |
 |   |   |   |   |   |   |
 |   |   |   | Vee / dieren |   |   |
-| F | 151 | a | als degene die buiten een inrichting de zorg heeft voor een dier, niet voorkomen dat dit dier voor de omgeving (geluid)hinder veroorzaakt |   | 8 |
+| F | 151 | a | als degene die buiten een inrichting de zorg heeft voor een dier, niet voorkomen dat dit dier voor de omgeving (geluid)hinder veroorzaakt | Pl.V | 8 |
 | F | 155 | a | als rechthebbende op herkauwende dieren, eenhoevige dieren of varkens die zich bevinden in een weiland of op een terrein dat niet van de weg is afgescheiden door een deugdelijke veekering, niet voldoen aan de verplichting om zodanige maatregelen te treffen dat dit vee die weg niet kan bereiken | Pl.V | 8 |
 |   |   |   |   |   |   |
 |   |   |   | Vuurwerk |   |   |
@@ -1253,7 +1281,7 @@ Dit besluit wordt aangehaald als: Besluit OM-afdoening.
 
 ## Bijlage II
 
-|   |   |   | Feit | Overtreden artikel | Tarief categorie(ën) |
+|   |   |   | **Feit** | **Overtreden artikel** | **Tarief categorie(ën)** |
 | --- | --- | --- | --- | --- | --- |
 |   |   |   | Bestuurlijke strafbeschikking milieu |   |   |
 |   |   |   | Categorie-indeling F: |   |   |
@@ -1271,7 +1299,7 @@ Dit besluit wordt aangehaald als: Besluit OM-afdoening.
 | BO | 014 |   | geen melding maken met betrekking tot afgifte van bedrijfsafvalstoffen of gevaarlijke afvalstoffen aan het bevoegd gezag | [10.38 lid 3 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.38) | 1/2 |
 | BO | 015 |   | niet verstrekken van een begeleidingsbrief, welke ten minste de gegevens bevat die zijn genoemd in [artikel 10.39 lid 1 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.39) en [10.38 lid 1 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.38) bij afgifte van bedrijfsafvalstoffen of gevaarlijke stoffen aan een persoon als bedoeld in [artikel 10.37 lid 2 onder a tot en met e Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.37) | [10.39 lid 2 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.39) | 1/2 |
 | BO | 016 |   | niet melden van afgifte van bedrijfsafvalstoffen aan het bevoegd gezag door een persoon als bedoeld in [art. 10.37 lid 2 onder a of b van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.37) | [10.40 lid 1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.40) | 1/2 |
-| BO | 017 |   | in ontvangst nemen van bedrijfsafvalstoffen door een persoon als bedoeld in [artikel 10.37, lid 2, onder a of b Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.37) zonder dat daarbij een omschrijving en een begeleidingsbrief als bedoeld in [artikel 10.39 lid 1 onder a en b Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.39) worden verstrekt | [10.37 jo 10.39 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.37) | 1/2 |
+| BO | 017 |   | in ontvangst nemen van bedrijfsafvalstoffen door een persoon als bedoeld in [artikel 10.37, lid 2, onder a of b Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.37) zonder dat daarbij een omschrijving en een begeleidingsbrief als bedoeld in [artikel 10.39 lid 1 onder a en b Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.39) worden verstrekt | [10.37](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.37) jo [10.39 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.39) | 1/2 |
 | BO | 018 |   | tijdens het vervoer van bedrijfsafvalstoffen geen begeleidingsbrief als bedoeld in [artikel 10.39 Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.39) aanwezig hebben, zolang degene die afvalstoffen onder zich heeft | [10.44 lid 1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.44) | 1/2 |
 | BO | 019 |   | bedrijfsafvalstoffen inzamelen zonder vermelding op een lijst van inzamelaars | [10.45 lid 1 onder a Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.45) | 1/2 |
 | BO | 020 |   | zich niet houden aan de voorschriften bij de inzamelvergunning | [18.18 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=18.18) jo [10.49 lid 2 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.49) | 1/2 |
@@ -1439,7 +1467,7 @@ Dit besluit wordt aangehaald als: Besluit OM-afdoening.
 | BO | 187 |   | niet ten minste eenmaal per jaar controleren van een fase II-benzinedampterugwinningssysteem door een onafhankelijke inspectie-instelling | [4.519 lid 3 Bal](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.519) | 1/2 |
 | BO | 188 |   | niet ten minste eenmaal per drie jaar controleren van een fase II-benzinedampterugwinningssysteem door een onafhankelijke inspectie-instelling bij aanwezigheid automatisch bewakingssysteem | [4.519 lid 4 Bal](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.519) | 1/2 |
 | BO | 189 |   | een ondergrondse opslagtank van staal waarin vloeibare brandstof wordt opgeslagen niet jaarlijks controleren op de aanwezigheid van water en bezinksel | [4.974 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.974) en [4.993 lid 1 Bal](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.993) | 1/2 |
-| BO | 190 |   | een ondergrondse opslagtank waarin vloeibare brandstof wordt opgeslagen en die is voorzien van een volledige inwendige coating overeenkomstig de aangewezen BRL en is aangebracht door een gecertificeerde onderneming niet ten minste eenmaal per drie jaar controleren op de aanwezigheid van water en bezinksel | [4.974 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.974) en [4.993 lid 2 Bal](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.993) | 1/2 |
+| BO | 190 |   | een ondergrondse opslagtank waarin vloeibare brandstof wordt opgeslagen en die is voorzien van een volledige inwendige coating overeenkomstig de aangewezen BRL en is aangebracht door een gecertificeerde onderneming niet ten minste eenmaal per drie jaar controleren op de aanwezigheid van water en bezinksel | [4.974 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.974)en [4.993 lid 2 Bal](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.993) | 1/2 |
 | BO | 191 |   | bovengrondse tank is niet geïnstalleerd, onderhouden of gerepareerd door gecertificeerde onderneming met een certificaat voor BRL SIKB 7800, verstrekt door een certificatie-instantie met een accreditatie volgens NEN-EN ISO/IEC 17065 voor die BRL | [4.917](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.917) en [4.929 Bal](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.929) | 1/2 |
 | BO | 192 |   | kas waarin assimilatiebelichting wordt toegepast met een verlichtingssterkte van minder dan 15.000 lux is aan de bovenzijde niet voorzien van een lichtscherminstallatie waardoor de lichtvermindering tijdens de donkerteperiode niet ten minste 98% en/of tijdens de nanacht niet ten minste 74% is: 17.500 vierkante meter of minder teeltoppervlakte | [4.790, lid 2, aanhef en onder a, Bal](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.790) | 1/2 |
 | BO | 193 |   | kas waarin assimilatiebelichting wordt toegepast met een verlichtingssterkte van minder dan 15.000 lux is aan de bovenzijde niet voorzien van een lichtscherminstallatie waardoor de lichtvermindering tijdens de donkerteperiode niet ten minste 98% en/of tijdens de nanacht niet ten minste 74% is: meer dan 17.500 vierkante meter teeltoppervlakte | [4.790, lid 2, aanhef en onder a, Bal](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.790) | 1/2 |
@@ -1469,17 +1497,17 @@ Dit besluit wordt aangehaald als: Besluit OM-afdoening.
 |   |   |   |   |   |   |
 |   |   |   | Nummers BO 224 – BO 234: Beheer en onderhoud waterstaatswerken |   |   |
 |   |   |   | handelen in strijd met een vergunning als bedoeld in [artikel 5.3 Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.3) verbonden vergunningvoorschriften: |   |   |
-| BO | 224 |   | als onderhoudsplichtige niet voldoen aan de onderhoudsplicht ten aanzien van de waterkering (gewoon onderhoud) | 78 lid 2 Wschw jo. onderhoudslegger/onderhoudsverordening | 1/2 |
-| BO | 225 |   | als onderhoudsplichtige niet voldoen aan de onderhoudsplicht ten aanzien van de waterkering (buitengewoon onderhoud) | 78 lid 2 Wschw jo. onderhoudslegger/onderhoudsverordening | 1/2 |
-| BO | 226 |   | buitengewoon onderhoud uitvoeren in het gesloten seizoen | 78 lid 2 Wschw jo. onderhoudslegger/onderhoudsverordening | 1/2 |
-| BO | 227 |   | als onderhoudsplichtige niet voldoen aan de verplichting om een ondersteunend kunstwerk of werk dat in, op, aan of boven waterkeringen of de beschermingszone zijn aangebracht en mede een waterkerende functie hebben, waterkerend te houden | 78 lid 2 Wschw jo. onderhoudslegger/onderhoudsverordening | 1/2 |
-| BO | 228 |   | als onderhoudsplichtige de middelen bestemd tot afsluiting van kunstwerken niet in goede staat onderhouden, dan wel de goede werking ervan te tonen | 78 lid 2 Wschw jo. onderhoudslegger/onderhoudsverordening | 1/2 |
-| BO | 229 |   | als onderhoudsplichtige niet voldoen aan de verwijderplicht uit oppervlaktewaterlichamen van voor het functioneren van het oppervlaktewaterlichaam schadelijke begroeiingen en van afval | 78 lid 2 Wschw jo. onderhoudslegger/onderhoudsverordening | 1/2 |
-| BO | 230 |   | als onderhoudsplichtige niet voldoen aan de verplichting tot het herstellen van beschadigingen aan oevers en tot het onderhouden van begroeiingen, dienstig aan de waterhuishoudkundige functies van het oppervlaktewaterlichaam | 78 lid 2 Wschw jo. onderhoudslegger/onderhoudsverordening | 1/2 |
-| BO | 231 |   | als onderhoudsplichtige niet voldoen aan de verplichting tot het instandhouden van een oppervlaktewaterlichaam overeenkomstig het in de legger bepaalde omtrent ligging, vorm, afmeting en constructie (buitengewoon onderhoud) | 78 lid 2 Wschw jo. onderhoudslegger/onderhoudsverordening | 1/2 |
-| BO | 232 |   | als eigenaar of gebruiker van grond, die gebruikt wordt voor het houden van dieren en dat is gelegen op of nabij een waterstaatswerk niet voldoen aan de verplichting om, na eerste aanschrijving hiertoe door het bestuur, voor eigen rekening op of langs deze grond een voldoende kerende afrastering aan te brengen | 78 lid 2 Wschw jo. onderhoudslegger/onderhoudsverordening | 1/2 |
-| BO | 233 |   | als onderhoudsplichtige van een in een waterkering voorkomende coupure of sluis er geen zorg voor dragen dat deze, na eerste aanzegging door of namens het bestuur, terstond wordt gesloten | 78 lid 2 Wschw jo. onderhoudslegger/onderhoudsverordening | 1/2 |
-| BO | 234 |   | als eigenaar of onderhoudsplichtige van een stuw niet voldoen aan de verplichting deze op een bepaald stuwpeil te stellen en in stand te houden | 78 lid 2 Wschw jo. onderhoudslegger/onderhoudsverordening | 1/2 |
+| BO | 224 |   | als onderhoudsplichtige niet voldoen aan de onderhoudsplicht ten aanzien van de waterkering (gewoon onderhoud) | [78 lid 2 Wschw](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=78) jo. onderhoudslegger/onderhoudsverordening | 1/2 |
+| BO | 225 |   | als onderhoudsplichtige niet voldoen aan de onderhoudsplicht ten aanzien van de waterkering (buitengewoon onderhoud) | [78 lid 2 Wschw](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=78) jo. onderhoudslegger/onderhoudsverordening | 1/2 |
+| BO | 226 |   | buitengewoon onderhoud uitvoeren in het gesloten seizoen | [78 lid 2 Wschw](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=78) jo. onderhoudslegger/onderhoudsverordening | 1/2 |
+| BO | 227 |   | als onderhoudsplichtige niet voldoen aan de verplichting om een ondersteunend kunstwerk of werk dat in, op, aan of boven waterkeringen of de beschermingszone zijn aangebracht en mede een waterkerende functie hebben, waterkerend te houden | [78 lid 2 Wschw](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=78) jo. onderhoudslegger/onderhoudsverordening | 1/2 |
+| BO | 228 |   | als onderhoudsplichtige de middelen bestemd tot afsluiting van kunstwerken niet in goede staat onderhouden, dan wel de goede werking ervan te tonen | [78 lid 2 Wschw](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=78) jo. onderhoudslegger/onderhoudsverordening | 1/2 |
+| BO | 229 |   | als onderhoudsplichtige niet voldoen aan de verwijderplicht uit oppervlaktewaterlichamen van voor het functioneren van het oppervlaktewaterlichaam schadelijke begroeiingen en van afval | [78 lid 2 Wschw](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=78) jo. onderhoudslegger/onderhoudsverordening | 1/2 |
+| BO | 230 |   | als onderhoudsplichtige niet voldoen aan de verplichting tot het herstellen van beschadigingen aan oevers en tot het onderhouden van begroeiingen, dienstig aan de waterhuishoudkundige functies van het oppervlaktewaterlichaam | [78 lid 2 Wschw](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=78) jo. onderhoudslegger/onderhoudsverordening | 1/2 |
+| BO | 231 |   | als onderhoudsplichtige niet voldoen aan de verplichting tot het instandhouden van een oppervlaktewaterlichaam overeenkomstig het in de legger bepaalde omtrent ligging, vorm, afmeting en constructie (buitengewoon onderhoud) | [78 lid 2 Wschw](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=78) jo. onderhoudslegger/onderhoudsverordening | 1/2 |
+| BO | 232 |   | als eigenaar of gebruiker van grond, die gebruikt wordt voor het houden van dieren en dat is gelegen op of nabij een waterstaatswerk niet voldoen aan de verplichting om, na eerste aanschrijving hiertoe door het bestuur, voor eigen rekening op of langs deze grond een voldoende kerende afrastering aan te brengen | [78 lid 2 Wschw](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=78) jo. onderhoudslegger/onderhoudsverordening | 1/2 |
+| BO | 233 |   | als onderhoudsplichtige van een in een waterkering voorkomende coupure of sluis er geen zorg voor dragen dat deze, na eerste aanzegging door of namens het bestuur, terstond wordt gesloten | [78 lid 2 Wschw](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=78) jo. onderhoudslegger/onderhoudsverordening | 1/2 |
+| BO | 234 |   | als eigenaar of onderhoudsplichtige van een stuw niet voldoen aan de verplichting deze op een bepaald stuwpeil te stellen en in stand te houden | [78 lid 2 Wschw](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=78) jo. onderhoudslegger/onderhoudsverordening | 1/2 |
 |   |   |   |   |   |   |
 |   |   |   | Nummers BO 240 – BO 258 [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) en [Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330) – Handelen in strijd met een vergunning |   |   |
 | BO | 240 |   | handelen in strijd met de aan een omgevingsvergunning als bedoeld in de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1) en [5.3 Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.3) verbonden vergunningvoorschriften: niet melden van een calamiteit met relatief beperkte gevolgen voor het oppervlaktewaterlichaam | [5.5, lid, 1, onder e, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.5) en [5.3 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.3) | 1/2 |
@@ -1530,7 +1558,7 @@ Dit besluit wordt aangehaald als: Besluit OM-afdoening.
 |   |   |   |   |   |   |
 |   |   |   | Algemene regels |   |   |
 |   |   |   | Nummer BO 285: Algemene regels |   |   |
-| BO | 285 |   | terwijl dit bij of krachtens de Keur door het bestuur verplicht is gesteld: niet (tijdig) melden van de werkzaamheden als genoemd in de algemene regels | 3 lid 1 algemene regels jo. 78 lid 2 Wschw jo. onderhoudslegger/onderhoudsverordening | 1/2 |
+| BO | 285 |   | terwijl dit bij of krachtens de Keur door het bestuur verplicht is gesteld: niet (tijdig) melden van de werkzaamheden als genoemd in de algemene regels | [3 lid 1 algemene regels](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=3) jo. [78 lid 2 Wschw](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=78) jo. onderhoudslegger/onderhoudsverordening | 1/2 |
 |   |   |   |   |   |   |
 |   |   |   | Nummers BO 290 – BO 296: Algemene regels grondwater |   |   |
 | BO | 290 |   | bij het onttrekken van grondwater in het kader van een bouwputbemaling, sleufbemaling, proefbronnering of grondsanering niet plaatsen van een peilbuis of meetput om de stijghoogte te bepalen indien spanningsbemaling wordt toegepast | [4.1 lid 1 Ow](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.1) juncto Waterschapsverordening | 1/2 |
@@ -1636,7 +1664,7 @@ Dit besluit wordt aangehaald als: Besluit OM-afdoening.
 |   |   |   | Nummers BO 390 – BO 395: [Wet Milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) en [Regeling afgedankte elektrische en elektronische apparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0034782) – Elektronica |   |   |
 | BO | 390 |   | als producent van elektrische/elektronische apparatuur de door hem geproduceerde elektrische/elektronische apparatuur niet voorzien van: een symbool zoals opgenomen is in bijlage IV bij [Richtlijn nr. 2002/96/EG](32002L0096) (afvalcontainer met kruis) | [9.5.2. lid 1 en lid 3 sub a Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.5.2) jo. [15 lid 1 Regeling afgedankte elektrische en elektronische apparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=15) | 1/2 |
 | BO | 391 |   | als producent van elektrische/elektronische apparatuur de door hem geproduceerde elektrische/elektronische apparatuur niet voorzien van: een aanduiding waaruit blijkt dat het apparaat na 13 augustus 2005 op de markt is gebracht | [9.5.2. lid 1 en lid 3 sub a Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.5.2) jo. [16 lid 4 Regeling afgedankte elektrische en elektronische apparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=16) | 1/2 |
-| BO | 392 |   | als distributeur bij het ter beschikking stellen van een nieuw product, een soortgelijk na gebruik vrijgekomen product – zijnde afgedankte elektrische en elektronische apparatuur – van particuliere huishoudens, dat hem wordt aangeboden niet ten minste om niet innemen | [9.5.2. lid 1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.5.2) jo.[4 lid 1Regeling afgedankte elektrische en elektronische apparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=4) | 1/2 |
+| BO | 392 |   | als distributeur bij het ter beschikking stellen van een nieuw product, een soortgelijk na gebruik vrijgekomen product – zijnde afgedankte elektrische en elektronische apparatuur – van particuliere huishoudens, dat hem wordt aangeboden niet ten minste om niet innemen | [9.5.2. lid 1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.5.2) jo. [4 lid 1Regeling afgedankte elektrische en elektronische apparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=4) | 1/2 |
 | BO | 393 |   | als producent van elektrische en/of elektronische apparatuur zich niet melden bij het register | [9.5.2 lid 1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.5.2) jo. [19 lid 1 Regeling afgedankte elektrische en elektronische apparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=19) | 1/2 |
 | BO | 394 |   | als producent en/of zijn gemachtigde niet de in deel A van bijlage X bij de [Richtlijn nr. 2012/19/EU](32012L0019) genoemde informatie verstrekken bij de registratie en/of niet actueel houden van de informatie | [9.5.2. lid 1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.5.2) jo. [19 lid 2 Regeling afgedankte elektrische en elektronische apparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=19) | 1/2 |
 | BO | 395 |   | als producent en/of zijn gemachtigde niet de in deel B van bijlage X bij de [Richtlijn nr. 2012/19/EU](32012L0019) genoemde informatie voor 1 mei over het voorafgaande kalenderjaar verstrekken aan het register | [9.5.2. lid 1 Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.5.2) jo. [19 lid 3 Regeling afgedankte elektrische en elektronische apparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=19) | 1/2 |
@@ -1656,7 +1684,7 @@ Dit besluit wordt aangehaald als: Besluit OM-afdoening.
 | BO | 406 |   | als schipper voor de opslag van afgewerkte olie los aan dek staande verzamelreservoirs gebruiken | [12 lid 2 SAB](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=12) | 1/2 |
 | BO | 407 |   | als schipper er niet zorg voor dragen dat een geldig olie-afgifteboekje aan boord aanwezig is | [14 lid 1 SAB](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=14) | 1/2 |
 | BO | 408 |   | als schipper, na verkrijging van een nieuw olie-afgifteboekje, niet het voorgaande olie-afgifteboekje ten minste zes maanden na de datum van de laatste daarin opgenomen vermelding van een afgifte aan boord bewaren | [14 lid 4 SAB](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=14) | 1/2 |
-| BO | 409 |   | als drijver van een overslaginrichting met betrekking tot het laden en lossen van een schip, niet voldoen aan de bepalingen ten aanzien van: het schip bij het laden vrij van overslagresten of het verwijderen van overslagresten na het laden | [33](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=33) jo [41 SAB](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=41) | 2 |
+| BO | 409 |   | als drijver van een overslaginrichting met betrekking tot het laden en lossen van een schip, niet voldoen aan de bepalingen ten aanzien van: het schip bij het laden vrij van overslagresten of het verwijderen van overslagresten na het laden | [33 jo 41 SAB](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=33) | 2 |
 | BO | 410 |   | als drijver van een overslaginrichting met betrekking tot het laden en lossen van een schip, niet voldoen aan de bepalingen ten aanzien van: aansluitend aan het lossen van droge lading van of uit het laadruim van een schip de in het laadruim achtergebleven restlading en/of verpakkings- en stuwingsmateriaal verwijderen en zoveel mogelijk toevoegen aan geloste lading | [33](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=33) jo [42 SAB](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=42) | 2 |
 | BO | 411 |   | als drijver van een overslaginrichting met betrekking tot het laden en lossen van een schip, niet voldoen aan de bepalingen ten aanzien van: aansluitend aan het lossen van vloeibare lading uit een ladingtank van een schip met behulp van een leiding, aangesloten op het nalenssysteem van het schip, de restlading uit de ladingtank verwijderen, zodanig dat de losstandaard nagelensde ladingtank wordt bereikt | [33](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=33) jo [43 SAB](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=43) | 2 |
 | BO | 412 |   | als drijver van een overslaginrichting met betrekking tot het laden en lossen van een schip, niet voldoen aan de bepalingen ten aanzien van: bij het lossen uit een laadruim of een ladingtank van een schip het laadruim of die ladingtank wassen en het afvalwater met ladingrestanten innemen | [33](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=33) jo [45 SAB](https://wetten.overheid.nl/jci1.3:c:BWBR0012019&artikel=45) | 2 |
