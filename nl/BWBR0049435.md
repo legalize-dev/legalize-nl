@@ -4,7 +4,7 @@ identifier: "BWBR0049435"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2024-03-02"
-last_updated: "2024-01-13"
+last_updated: "2024-03-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049435"
 soort: "beleidsregel"
@@ -56,7 +56,7 @@ Deze beleidsregel wordt aangehaald als ‘Specifiek interventiebeleid vlees (IB0
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin hij wordt geplaatst en werkt terug tot en met 13 januari 2024.
 
-## Bijlage. als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049435&artikel=1&z=2024-03-02&g=2024-01-13)
+## Bijlage. als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049435&artikel=1&z=2024-03-02&g=2024-03-02)
 
 ### 1. Onderwerp
 
