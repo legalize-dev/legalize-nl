@@ -4,7 +4,7 @@ identifier: "BWBR0047949"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-03-05"
-last_updated: "2023-11-01"
+last_updated: "2024-03-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047949"
 soort: "ministeriele-regeling"
@@ -98,7 +98,7 @@ Een aanvraag wordt ingediend door middel van een daartoe door de Minister beschi
 
 ##### Artikel 8. Verplichtingen
 
-1. De voor subsidie in aanmerking komende activiteiten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047949&artikel=2&z=2024-03-05&g=2023-11-01), worden tussen 1 maart 2023 en 31 december 2023 uitgevoerd.
+1. De voor subsidie in aanmerking komende activiteiten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047949&artikel=2&z=2024-03-05&g=2024-03-05), worden tussen 1 maart 2023 en 31 december 2023 uitgevoerd.
 
 2. De gecertificeerde instellingen leveren de accounthoudende gemeente de gegevens die nodig zijn voor het monitoren van afspraken die gemaakt zijn in het kader van deze subsidie.
 
@@ -143,13 +143,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 9a. Hardheidsclausule
 
-1. De Minister kan de termijn voor de uitvoering van subsidieactiviteiten, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047949&artikel=8&z=2024-03-05&g=2023-11-01), verlengen met maximaal twaalf maanden, indien de subsidieontvanger een daartoe voldoende gemotiveerd verzoek indient voor het einde van deze termijn.
+1. De Minister kan de termijn voor de uitvoering van subsidieactiviteiten, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047949&artikel=8&z=2024-03-05&g=2024-03-05), verlengen met maximaal twaalf maanden, indien de subsidieontvanger een daartoe voldoende gemotiveerd verzoek indient voor het einde van deze termijn.
 
-2. Een verzoek tot verlenging wordt slechts ingewilligd indien er sprake is van bijzondere of onvoorziene omstandigheden, waardoor het niet toewijzen van het verzoek zou leiden tot onevenredige gevolgen voor de subsidieontvanger. In dat geval wordt ook de beschikking tot subsidieverlening gewijzigd dan wel aangevuld met nieuwe uiterste data voor verantwoording van de besteding van de subsidiegelden die een jaar later liggen dan de data voor verantwoording, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047949&artikel=9&z=2024-03-05&g=2023-11-01).
+2. Een verzoek tot verlenging wordt slechts ingewilligd indien er sprake is van bijzondere of onvoorziene omstandigheden, waardoor het niet toewijzen van het verzoek zou leiden tot onevenredige gevolgen voor de subsidieontvanger. In dat geval wordt ook de beschikking tot subsidieverlening gewijzigd dan wel aangevuld met nieuwe uiterste data voor verantwoording van de besteding van de subsidiegelden die een jaar later liggen dan de data voor verantwoording, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047949&artikel=9&z=2024-03-05&g=2024-03-05).
 
 3. Onder bijzondere of onvoorziene omstandigheden worden in ieder geval verstaan onvoorzien hoog personeelsverloop, onvoorziene stijging van de cliënteninstroom, onvoorziene krapte op de arbeidsmarkt en onvoorziene tariefverhoging. In het verzoek tot verlenging wordt gemotiveerd welke omstandigheden van toepassing zijn en hoe deze omstandigheden tot vertraging in de uitvoering hebben geleid.
 
-## Bijlage. behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047949&artikel=3&z=2024-03-05&g=2023-11-01) van de Regeling subsidie verlagen werkdruk gecertificeerde instellingen 2023
+## Bijlage. behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047949&artikel=3&z=2024-03-05&g=2024-03-05) van de Regeling subsidie verlagen werkdruk gecertificeerde instellingen 2023
 
 | GI | % van totaal | Maximaal aan te vragen bedrag |
 | --- | --- | --- |
