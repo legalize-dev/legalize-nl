@@ -4,7 +4,7 @@ identifier: "BWBR0048047"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-03-05"
-last_updated: "2024-01-01"
+last_updated: "2024-03-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048047"
 soort: "ministeriele-regeling"
@@ -48,13 +48,15 @@ In dit besluit wordt verstaan onder:
 
 - a. **de directeur-generaal:** de directeur-generaal Regieorganisatie Transitie Landelijk Gebied van het Ministerie van Landbouw, Natuur en Voedselkwaliteit;
 
-- b. **de directeuren:** de directeuren van het directoraat-generaal Regieorganisatie Transitie Landelijk Gebied van het Ministerie van Landbouw, Natuur en Voedselkwaliteit;
+- b. **de directeuren:** de directeur Programmabureau Transitie, de directeur Netwerkfaciliteit en de programmadirecteur Uitvoering Aanpak Piekbelasting;
 
 - c. **de managers:** de manager Programmabeheersing en Risicomanagement en de manager Rijkskaders en Interne Organisatie;
 
-- d. **het MT DG RTLG:** het collectief van de onder a, b en c bedoelde functionarissen;
+- d. **de manager grondzaken:** de manager Grondzaken van het directoraat-generaal Regieorganisatie Transitie Landelijk Gebied;
 
-- e. **de MT-leden:** de leden van de managementteams van het directoraat-generaal Regieorganisatie Transitie Landelijk Gebied van het Ministerie van Landbouw, Natuur en Voedselkwaliteit met uitzondering van het MT DG RTLG en de directeuren.
+- e. **het MT DG RTLG:** het collectief van de onder a tot en met d bedoelde functionarissen;
+
+- f. **de MT-leden:** de leden van de managementteams van het directoraat-generaal Regieorganisatie Transitie Landelijk Gebied van het Ministerie van Landbouw, Natuur en Voedselkwaliteit met uitzondering van het MT DG RTLG en de directeuren.
 
 #### § 2. Taakverdeling tussen de directeur-generaal en de onder hem ressorterende medewerkers
 
@@ -72,7 +74,7 @@ Aan de directeur-generaal is voorbehouden: het nemen van besluiten, het verricht
 
 ##### Artikel 3
 
-1. Aan de directeuren wordt, ieder voor zich, mandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 1.000.000 per verplichting niet te boven gaat.
+1. Aan de directeuren wordt, ieder voor zich, mandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 2.000.000 per verplichting niet te boven gaat.
 
 2. Aan de directeuren wordt tevens, ieder voor zich, voor de onder hen ressorterende medewerkers mandaat, volmacht en machtiging verleend voor:
 
@@ -88,7 +90,7 @@ Aan de directeur-generaal is voorbehouden: het nemen van besluiten, het verricht
 
 ##### Artikel 4
 
-1. Aan de managers en MT-leden wordt, ieder voor zich, mandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 50.000 per verplichting niet te boven gaat.
+1. Aan de managers en MT-leden wordt, ieder voor zich, mandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 100.000 per verplichting niet te boven gaat.
 
 2. Aan de managers en MT-leden wordt voorts, ieder voor zich, voor de onder hen ressorterende medewerkers mandaat, volmacht en machtiging verleend voor:
 
@@ -112,11 +114,13 @@ Aan de directeur-generaal is voorbehouden: het nemen van besluiten, het verricht
 
 ##### Artikel 5
 
-1. De uit dit besluit voor een directeur voortvloeiende bevoegdheden gaan in geval van afwezigheid over op de andere directeur als zijn plaatsvervanger. Bij afwezigheid van zowel de directeur als zijn plaatsvervanger gaan de uit dit besluit voortvloeiende bevoegdheden over op een door hem aangewezen manager van het directoraat-generaal Regieorganisatie Transitie Landelijk Gebied.
+1. De uit dit besluit voor de directeur Programmabureau Transitie en de directeur Netwerkfaciliteit voortvloeiende bevoegdheden gaan in geval van afwezigheid over op de andere directeur als zijn plaatsvervanger. Bij afwezigheid van zowel de directeur als zijn plaatsvervanger gaan de uit dit besluit voortvloeiende bevoegdheden over op een door hem aangewezen manager van het directoraat-generaal Regieorganisatie Transitie Landelijk Gebied. De uit dit besluit voor de programmadirecteur Uitvoering Aanpak Piekbelasting voortvloeiende bevoegdheden gaan in geval van afwezigheid over op zijn plaatsvervanger.
 
 2. De uit dit besluit voor een manager voortvloeiende bevoegdheden gaan in geval van afwezigheid over op de andere manager als zijn plaatsvervanger. Bij afwezigheid van zowel de manager als zijn plaatsvervanger worden de uit dit besluit voortvloeiende bevoegdheden uitgeoefend door een directeur van het directoraat-generaal Regieorganisatie Transitie Landelijk Gebied.
 
-3. De uit dit besluit voor een MT-lid voortvloeiende bevoegdheden gaan in geval van afwezigheid over op een ander MT-lid. Bij afwezigheid van de MT-leden worden de uit dit besluit voortvloeiende bevoegdheden uitgeoefend door een directeur van het directoraat-generaal Regieorganisatie Transitie Landelijk Gebied.
+3. De uit dit besluit voor de manager Grondzaken voortvloeiende bevoegdheden gaan in geval van afwezigheid over op de directeur Netwerkfaciliteit.
+
+4. De uit dit besluit voor een MT-lid voortvloeiende bevoegdheden gaan in geval van afwezigheid over op een ander MT-lid. Bij afwezigheid van de MT-leden worden de uit dit besluit voortvloeiende bevoegdheden uitgeoefend door een directeur van het directoraat-generaal Regieorganisatie Transitie Landelijk Gebied.
 
 #### § 4. Slotbepalingen
 
