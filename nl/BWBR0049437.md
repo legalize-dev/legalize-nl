@@ -4,7 +4,7 @@ identifier: "BWBR0049437"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-03-06"
-last_updated: "2024-01-01"
+last_updated: "2024-03-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049437"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **minister:** Minister van Justitie en Veiligheid;
 
-- b. **commissie:** commissie, bedoeld als in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049437&artikel=2&z=2024-03-06&g=2024-01-01).
+- b. **commissie:** commissie, bedoeld als in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049437&artikel=2&z=2024-03-06&g=2024-03-06).
 
 ##### Artikel 2. Instelling en taak
 
@@ -116,7 +116,7 @@ In dit besluit wordt verstaan onder:
 
 1. De commissie is bevoegd zich voor het inwinnen van inlichtingen rechtstreeks te wenden tot personen en instellingen en hen te verzoeken die medewerking te verlenen die redelijkerwijs nodig is voor de taakuitvoering van de commissie.
 
-2. Het Ministerie van Justitie en Veiligheid, het College van procureurs-generaal van het openbaar ministerie, en op grond van [artikel 31 van de Politiewet 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=31), de Korpschef, verlenen de commissie de verlangde medewerking en toegang tot alle informatie die zij nodig heeft met inachtneming van het in [artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049437&artikel=7&z=2024-03-06&g=2024-01-01) bedoelde protocol.
+2. Het Ministerie van Justitie en Veiligheid, het College van procureurs-generaal van het openbaar ministerie, en op grond van [artikel 31 van de Politiewet 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=31), de Korpschef, verlenen de commissie de verlangde medewerking en toegang tot alle informatie die zij nodig heeft met inachtneming van het in [artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049437&artikel=7&z=2024-03-06&g=2024-03-06) bedoelde protocol.
 
 3. Bij het Ministerie van Justitie en Veiligheid berustende Stg. Confidentieel en hoger gerubriceerde informatie kan slechts worden ingezien op het ministerie.
 
@@ -162,7 +162,7 @@ De commissie verricht haar werkzaamheden op een locatie buiten het Ministerie va
 
 1. De commissie draagt uiterlijk zes weken na oplevering van het rapport, of, zo de omstandigheden daartoe aanleiding geven, zoveel eerder, de bescheiden betreffende die werkzaamheden over aan het archief van het Ministerie van Justitie en Veiligheid.
 
-2. Het archief zoals bedoeld in het eerste lid bevat tenminste de documenten die ten grondslag hebben gelegen aan de onderzoeksbevindingen en het rapport. Over de wijze van aanlevering van het archief worden nadere afspraken gemaakt in het onder [artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049437&artikel=7&z=2024-03-06&g=2024-01-01) genoemde protocol.
+2. Het archief zoals bedoeld in het eerste lid bevat tenminste de documenten die ten grondslag hebben gelegen aan de onderzoeksbevindingen en het rapport. Over de wijze van aanlevering van het archief worden nadere afspraken gemaakt in het onder [artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049437&artikel=7&z=2024-03-06&g=2024-03-06) genoemde protocol.
 
 ##### Artikel 14. Inwerkingtreding
 
