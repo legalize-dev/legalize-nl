@@ -4,7 +4,7 @@ identifier: "BWBR0047365"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-05-18"
-last_updated: "2022-10-26"
+last_updated: "2024-03-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047365"
 soort: "AMvB"
@@ -48,13 +48,11 @@ Na het tijdstip waarop [artikel 3.1, derde lid, van het Besluit genetisch gemodi
 
 Wijzigt het Besluit genetisch gemodificeerde organismen milieubeheer 2013.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IV
 
-1. Dit besluit, met uitzondering van [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0047365&artikel=III&z=2022-10-26&g=2022-10-26), treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt voor [artikel I, onderdelen D en G](https://wetten.overheid.nl/jci1.3:c:BWBR0047365&artikel=I&z=2022-10-26&g=2022-10-26), terug tot en met 18 juli 2020 en werkt voor artikel I, onderdelen E, F, H, I, J en K, terug tot en met 27 maart 2021.
+1. Dit besluit, met uitzondering van [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0047365&artikel=III&z=2022-10-26&g=2024-03-06), treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt voor [artikel I, onderdelen D en G](https://wetten.overheid.nl/jci1.3:c:BWBR0047365&artikel=I&z=2022-10-26&g=2024-03-06), terug tot en met 18 juli 2020 en werkt voor artikel I, onderdelen E, F, H, I, J en K, terug tot en met 27 maart 2021.
 
-2. [Artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0047365&artikel=III&z=2022-10-26&g=2022-10-26) treedt in werking met ingang van een bij koninklijk besluit te bepalen tijdstip en werkt terug tot het bij dat besluit te bepalen tijdstip, zijnde het tijdstip waarop de Europese Commissie conform artikel 4, tweede lid, van [verordening 2020/1043](32943R2020), bericht dat de voorwaarden voor de toepassing van die verordening niet langer vervuld zijn.
+2. [Artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0047365&artikel=III&z=2022-10-26&g=2024-03-06) treedt in werking met ingang van een bij koninklijk besluit te bepalen tijdstip en werkt terug tot het bij dat besluit te bepalen tijdstip, zijnde het tijdstip waarop de Europese Commissie conform artikel 4, tweede lid, van [verordening 2020/1043](32943R2020), bericht dat de voorwaarden voor de toepassing van die verordening niet langer vervuld zijn.
 
 Op de voordracht van de Staatssecretaris van Infrastructuur en Waterstaat van 9 mei 2022, nr. IENW/BSK-2022/61000, Hoofddirectie Bestuurlijke en Juridische Zaken;
 
