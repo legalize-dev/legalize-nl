@@ -4,7 +4,7 @@ identifier: "BWBR0043696"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-03-07"
-last_updated: "2024-01-01"
+last_updated: "2024-03-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043696"
 soort: "ministeriele-regeling"
@@ -78,7 +78,7 @@ In deze regeling wordt verstaan onder:
 
 - **historisch luchtvaartuig:** luchtvaartuig als bedoeld in Bijlage I, onderdeel 1, onder a, bij de basisverordening;
 
-- **ICAO Annex 16:** Bijlage 16 (Environmental Protection), Boekdeel I, deel II, Hoofdstuk 6, bij het ICAO-verdrag, betreffende geluidsnormering voor luchtvaartuigen;
+- **ICAO Annex 16:** de op grond van het op 7 december 1944 te Chicago gesloten Verdrag inzake de Burgerluchtvaart (Trb. 1973, 109) door de Internationale Burgerluchtvaartorganisatie vastgestelde Bijlage 16, boekdeel I, deel II; betreffende geluidsnormering voor luchtvaartuigen;
 
 - **ingrijpende wijziging:** wijziging van het goedgekeurde ontwerp van het luchtvaartuig die een merkbaar effect heeft op de massa, de balans, de structurele sterkte, de betrouwbaarheid, de operationele kenmerken, het geluid, de brandstofventilatie, de uitlaatemissie, de gegevens betreffende de operationele geschiktheid of andere kenmerken die de luchtwaardigheid van het luchtvaartuig beïnvloeden;
 
@@ -126,7 +126,7 @@ In deze regeling wordt verstaan onder:
 
 - b. Nederlandse luchtvaartuigen die uitsluitend worden ingezet voor niet-militaire staatsactiviteiten of diensten.
 
-2. De [artikelen 28 tot en met 32](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=4&paragraaf=2&artikel=28&z=2024-01-01&g=2024-01-01) zijn niet van toepassing op Nederlandse luchtvaartuigen die niet onder een AOC vliegen en zijn voorzien van een speciaal-BvL.
+2. De [artikelen 28 tot en met 32](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=4&paragraaf=2&artikel=28&z=2024-03-07&g=2024-03-07) zijn niet van toepassing op Nederlandse luchtvaartuigen die niet onder een AOC vliegen en zijn voorzien van een speciaal-BvL.
 
 ### Hoofdstuk 2. Ontwerp amateurbouwluchtvaartuigen
 
@@ -158,9 +158,9 @@ In deze regeling wordt verstaan onder:
 
 1. Het ontwerp van een zelf ontworpen amateurbouwluchtvaartuig behoeft de acceptatie van de minister.
 
-2. De minister accepteert een ontwerp van een zelf ontworpen amateurbouwluchtvaartuig, indien het ontwerp voldoet aan de eisen gesteld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=2&artikel=3&z=2024-01-01&g=2024-01-01).
+2. De minister accepteert een ontwerp van een zelf ontworpen amateurbouwluchtvaartuig, indien het ontwerp voldoet aan de eisen gesteld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=2&artikel=3&z=2024-03-07&g=2024-03-07).
 
-3. Om aan te tonen dat aan de eisen gesteld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=2&artikel=3&z=2024-01-01&g=2024-01-01) wordt voldaan, worden de gegevens genoemd in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&bijlage=1&z=2024-01-01&g=2024-01-01) bij de minister ingediend.
+3. Om aan te tonen dat aan de eisen gesteld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=2&artikel=3&z=2024-03-07&g=2024-03-07) wordt voldaan, worden de gegevens genoemd in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&bijlage=1&z=2024-03-07&g=2024-03-07) bij de minister ingediend.
 
 4. De eindverantwoordelijkheid voor de kwaliteit van het ontwerp ligt bij de ontwerper.
 
@@ -222,21 +222,21 @@ Bij een aanvraag voor een ICAO-standaard-BvL worden in ieder geval de volgende g
 
 ##### Artikel 7
 
-1. Voor een luchtvaartuig dat in overeenstemming is met een geaccepteerd type luchtvaartuig, dat is ontworpen, gebouwd, beproefd en uitgerust in een verdragsland en wordt geïmporteerd uit dat verdragsland, worden ten behoeve van de afgifte van een ICAO-standaard-BvL de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=3&paragraaf=2&artikel=6&z=2024-01-01&g=2024-01-01) genoemde gegevens ingediend tezamen met een door de luchtvaartautoriteit van dat verdragsland afgegeven BvL, of BvL voor export naar Nederland dat niet eerder is afgegeven dan 60 dagen onmiddellijk voorafgaand aan de datum van de aanvraag voor een ICAO-standaard-BvL.
+1. Voor een luchtvaartuig dat in overeenstemming is met een geaccepteerd type luchtvaartuig, dat is ontworpen, gebouwd, beproefd en uitgerust in een verdragsland en wordt geïmporteerd uit dat verdragsland, worden ten behoeve van de afgifte van een ICAO-standaard-BvL de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=3&paragraaf=2&artikel=6&z=2024-03-07&g=2024-03-07) genoemde gegevens ingediend tezamen met een door de luchtvaartautoriteit van dat verdragsland afgegeven BvL, of BvL voor export naar Nederland dat niet eerder is afgegeven dan 60 dagen onmiddellijk voorafgaand aan de datum van de aanvraag voor een ICAO-standaard-BvL.
 
-2. Voor een luchtvaartuig dat in overeenstemming is met een geaccepteerd type luchtvaartuig, dat is ontworpen, gebouwd, beproefd en uitgerust in een verdragsland en dat uit een ander verdragsland wordt geïmporteerd, worden ten behoeve van de afgifte van een ICAO-standaard-BvL de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=3&paragraaf=2&artikel=6&z=2024-01-01&g=2024-01-01) genoemde gegevens ingediend, tezamen met:
+2. Voor een luchtvaartuig dat in overeenstemming is met een geaccepteerd type luchtvaartuig, dat is ontworpen, gebouwd, beproefd en uitgerust in een verdragsland en dat uit een ander verdragsland wordt geïmporteerd, worden ten behoeve van de afgifte van een ICAO-standaard-BvL de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=3&paragraaf=2&artikel=6&z=2024-03-07&g=2024-03-07) genoemde gegevens ingediend, tezamen met:
 
 - a. documentatie waaruit blijkt dat het luchtvaartuig gebouwd is conform het goedgekeurde ontwerp, wat kan bestaan uit het door de luchtvaartautoriteit van het land waarin het luchtvaartuig is vervaardigd, afgegeven export-BvL; en
 
 - b. een BvL, of een BvL voor export naar Nederland, afgegeven door de luchtvaartautoriteit van het land van waaruit het luchtvaartuig wordt geïmporteerd, niet eerder dan 60 dagen, onmiddellijk voorafgaande aan de datum van de aanvraag voor een ICAO-standaard-BvL.
 
-3. Voor een luchtvaartuig dat in overeenstemming is met een geaccepteerd type luchtvaartuig, dat is ontworpen, gebouwd, beproefd en uitgerust in een verdragsland en wordt geïmporteerd uit een land waarmee de minister geen overeenkomst heeft gesloten inzake wederzijdse erkenning van bewijzen van luchtwaardigheid, worden ten behoeve van de afgifte van een ICAO-standaard-BvL, de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=3&paragraaf=2&artikel=6&z=2024-01-01&g=2024-01-01) genoemde gegevens ingediend en daarnaast de volgende documenten overgelegd:
+3. Voor een luchtvaartuig dat in overeenstemming is met een geaccepteerd type luchtvaartuig, dat is ontworpen, gebouwd, beproefd en uitgerust in een verdragsland en wordt geïmporteerd uit een land waarmee de minister geen overeenkomst heeft gesloten inzake wederzijdse erkenning van bewijzen van luchtwaardigheid, worden ten behoeve van de afgifte van een ICAO-standaard-BvL, de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=3&paragraaf=2&artikel=6&z=2024-03-07&g=2024-03-07) genoemde gegevens ingediend en daarnaast de volgende documenten overgelegd:
 
 - a. documentatie waaruit blijkt dat het luchtvaartuig gebouwd is conform het goedgekeurde ontwerp, wat kan bestaan uit het door de luchtvaartautoriteit van het land waarin het luchtvaartuig is vervaardigd, afgegeven export-BvL;
 
 - b. documenten waaruit blijkt dat het luchtvaartuig in overeenstemming is met het geaccepteerd type luchtvaartuig, dan wel met een aanvullend type-certificaat dat voor het type-ontwerp is afgegeven;
 
-- c. documenten waaruit blijkt dat de van toepassing zijnde luchtwaardigheidsaanwijzingen als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=3&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01), zijn uitgevoerd; en
+- c. documenten waaruit blijkt dat de van toepassing zijnde luchtwaardigheidsaanwijzingen als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=3&paragraaf=2&artikel=8&z=2024-03-07&g=2024-03-07), zijn uitgevoerd; en
 
 - d. documenten waaruit blijkt dat het luchtvaartuig na inspectie luchtwaardig is bevonden en geschikt voor veilige operatie.
 
@@ -250,7 +250,7 @@ Bij een aanvraag voor een ICAO-standaard-BvL worden in ieder geval de volgende g
 
 ##### Artikel 9
 
-Bij een aanvraag voor een speciaal-BvL voor een door de aanvrager gebouwd amateurbouwluchtvaartuig, waarvan het ontwerp reeds als acceptabel is beoordeeld conform [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=2&artikel=4&z=2024-01-01&g=2024-01-01), worden de volgende gegevens ingediend:
+Bij een aanvraag voor een speciaal-BvL voor een door de aanvrager gebouwd amateurbouwluchtvaartuig, waarvan het ontwerp reeds als acceptabel is beoordeeld conform [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=2&artikel=4&z=2024-03-07&g=2024-03-07), worden de volgende gegevens ingediend:
 
 - a. een specificatie van het luchtvaartuig;
 
@@ -286,11 +286,15 @@ Bij een aanvraag voor een speciaal-BvL voor een door de aanvrager gebouwd amateu
 
 - c. een verklaring van de houder, waarin deze verklaart dat de configuratie MLA, MLH, lichte gyrokopter, gemotoriseerd schermvliegtuig of paramotortrike identiek is aan de goedgekeurde configuratie;
 
-- d. een uittreksel van het geluidmeetrapport overeenkomstig de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&bijlage=2&z=2024-01-01&g=2024-01-01), opgesteld door of namens één van de in onderdeel a bedoelde autoriteiten dan wel door een door de minister erkende of geaccepteerde organisatie, waaruit blijkt dat de geluidsproductie:
+- d. een uittreksel van het geluidmeetrapport overeenkomstig de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&bijlage=2&z=2024-03-07&g=2024-03-07), opgesteld door of namens één van de in onderdeel a bedoelde autoriteiten dan wel door een door de Minister erkende of geaccepteerde organisatie, waaruit blijkt dat de conform ICAO Annex 16 gemeten geluidsproductie:
 
-- 1°. voor het desbetreffende type en configuratie MLA, gemotoriseerd schermvliegtuig of paramotortrike niet meer dan 60 dB(A) bedraagt als gemeten conform ICAO Annex 16;
+- 1°. voor het desbetreffende type en configuratie MLA met een maximum startmassa van ten hoogste 472,5 kg of gemotoriseerd schermvliegtuig niet meer dan 60 dB(A) bedraagt;
 
-- 2°. voor de desbetreffende type en configuratie MLH of lichte gyrokopter niet meer dan 68 dB(A) bedraagt als gemeten conform ICAO Annex 16, Boekdeel I, deel II, hoofdstuk 6; en
+- 2°. voor het desbetreffende type en configuratie MLA met een maximum startmassa van meer dan 472,5, maar niet meer dan 570 kg, de hierna gedefinieerde grenswaarde voor geluidproductie niet overschrijdt: de grenswaarde stijgt lineair mee met de maximale startmassa vanaf 60 dB(A) bij een maximale startmassa van 472,5 kg, tot 70 dB(A) bij een maximale startmassa van 570 kg;
+
+- 3°. voor het desbetreffende type en configuratie MLA met een maximum startmassa tussen 570 kg en 650 kg de grenswaarde constant op 70 dB(A) blijft;
+
+- 4°. voor de desbetreffende type en configuratie MLH of lichte gyrokopter, op basis van de specifieke meting in hoofdstuk 6 van ICAO Annex 16, niet meer dan 68 dB(A) bedraagt; en
 
 - e. een verklaring van een door de Minister erkende of geaccepteerde organisatie of persoon, dat de betreffende MLA, MLH, lichte gyrokopter, paramotortrike of het betreffende gemotoriseerde schermvliegtuig voor wat betreft de voor de geluidproductie van belang zijnde aspecten overeenstemt met de MLA, MLH, lichte gyrokopter, paramotortrike of het gemotoriseerde schermvliegtuig waaraan de geluidsmetingen zijn uitgevoerd.
 
@@ -340,7 +344,7 @@ Bij een aanvraag voor een speciaal-BvL voor een door de aanvrager gebouwd amateu
 
 ##### Artikel 12
 
-1. Bij de aanvraag voor een speciaal-BvL worden in ieder geval de gegevens als genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=3&paragraaf=2&artikel=6&z=2024-01-01&g=2024-01-01) ingediend, alsmede de door de minister met betrekking tot het betreffende luchtvaartuig voor de beoordeling van dat luchtvaartuig nodig geachte bescheiden.
+1. Bij de aanvraag voor een speciaal-BvL worden in ieder geval de gegevens als genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=3&paragraaf=2&artikel=6&z=2024-03-07&g=2024-03-07) ingediend, alsmede de door de minister met betrekking tot het betreffende luchtvaartuig voor de beoordeling van dat luchtvaartuig nodig geachte bescheiden.
 
 2. Een historisch luchtvaartuig verkeert in originele staat, tenzij de minister heeft ingestemd met bepaalde aanpassingen of deze voorschrijft in verband met de vliegveiligheid.
 
@@ -348,7 +352,7 @@ Bij een aanvraag voor een speciaal-BvL voor een door de aanvrager gebouwd amateu
 
 ##### Artikel 13
 
-Voor een luchtvaartuig van een geaccepteerd type luchtvaartuig als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=1&artikel=1&z=2024-01-01&g=2024-01-01), dat is ontworpen, gebouwd, beproefd en uitgerust in een verdragsland en dat wordt geïmporteerd uit de Verenigde Staten van Amerika, Canada of een van de bij EASA aangesloten landen, worden ten behoeve van de afgifte van een speciaal-BvL, de volgende gegevens en documenten ingediend:
+Voor een luchtvaartuig van een geaccepteerd type luchtvaartuig als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=1&artikel=1&z=2024-03-07&g=2024-03-07), dat is ontworpen, gebouwd, beproefd en uitgerust in een verdragsland en dat wordt geïmporteerd uit de Verenigde Staten van Amerika, Canada of een van de bij EASA aangesloten landen, worden ten behoeve van de afgifte van een speciaal-BvL, de volgende gegevens en documenten ingediend:
 
 - a. documenten waaruit blijkt dat het luchtvaartuig in overeenstemming is met het geaccepteerd type luchtvaartuig, dan wel met een aanvullend type-certificaat dat voor het type-ontwerp is afgegeven;
 
@@ -404,7 +408,7 @@ Bij een aanvraag voor een export-BvL worden de volgende gegevens ingediend:
 
 - b. wordt voldaan aan de van toepassing zijnde luchtwaardigheidsaanwijzingen en bijzondere luchtwaardigheidsaanwijzingen;
 
-- c. eventuele wijzigingen zijn goedgekeurd conform de procedure als bedoeld in [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=4&z=2024-01-01&g=2024-01-01);
+- c. eventuele wijzigingen zijn goedgekeurd conform de procedure als bedoeld in [Hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=4&z=2024-03-07&g=2024-03-07);
 
 - d. de minister heeft ingestemd met eventuele geluidswijzigingen onder vermelding van het instemmingsnummer van de wijziging; en
 
@@ -416,7 +420,7 @@ Bij een aanvraag voor een export-BvL worden de volgende gegevens ingediend:
 
 - a. een onderhoudstechnicus; of
 
-- b. voor een amateurbouwluchtvaartuig, een door de minister aangewezen persoon als bedoeld in [artikel 9, onderdeel c, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=3&paragraaf=3&artikel=9&z=2024-01-01&g=2024-01-01); of
+- b. voor een amateurbouwluchtvaartuig, een door de minister aangewezen persoon als bedoeld in [artikel 9, onderdeel c, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=3&paragraaf=3&artikel=9&z=2024-03-07&g=2024-03-07); of
 
 - c. voor een MLA, MLH of lichte gyrokopter, een houder van een door de Deutsche Aero Club e.V. of de Deutsche Ultraleichtflugverbandes e.V. afgegeven Erlaubnis für Prüfer von Luftfahrtgerät, Klasse 5.
 
@@ -424,7 +428,7 @@ De verklaring kan ook ondertekend worden door het door een erkend bedrijf aangew
 
 4. Het derde lid is niet van toepassing op gemotoriseerde schermvliegtuigen en paramotortrikes.
 
-5. Op verzoek van de eigenaar of houder van een amateurbouwluchtvaartuig, MLA, MLH of lichte gyrokopter kan [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=3&paragraaf=8&artikel=15&z=2024-01-01&g=2024-01-01), worden toegepast.
+5. Op verzoek van de eigenaar of houder van een amateurbouwluchtvaartuig, MLA, MLH of lichte gyrokopter kan [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=3&paragraaf=8&artikel=15&z=2024-03-07&g=2024-03-07), worden toegepast.
 
 #### § 9. BvL-acceptatiekeuring, BvL-verlengingsinspectie, BvL-exportinspectie
 
@@ -442,17 +446,17 @@ De verklaring kan ook ondertekend worden door het door een erkend bedrijf aangew
 
 1. Degene die bevoegd is tot het uitvoeren van een BvL-verlengingsinspectie of een exportinspectie bepaalt de inhoud van de technische inspectie, met dien verstande dat in de algemene luchtvaart ten minste de ‘check and inspect’-punten van de 100-uursinspectie of jaarlijkse inspectie of een daaraan gelijkwaardige inspectie worden uitgevoerd, indien de laatste inspectie langer dan een half jaar geleden heeft plaatsgevonden.
 
-2. Een BvL-acceptatiekeuring wordt uitgevoerd conform de in het BvL-acceptatierapport, bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=3&paragraaf=2&artikel=6&z=2024-01-01&g=2024-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=3&paragraaf=6&artikel=13&z=2024-01-01&g=2024-01-01), opgenomen lijst van items.
+2. Een BvL-acceptatiekeuring wordt uitgevoerd conform de in het BvL-acceptatierapport, bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=3&paragraaf=2&artikel=6&z=2024-03-07&g=2024-03-07) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=3&paragraaf=6&artikel=13&z=2024-03-07&g=2024-03-07), opgenomen lijst van items.
 
 3. De BvL-verlengingsinspectie wordt niet eerder dan 90 dagen voor het verlopen van de termijn van geldigheid van het bewijs van luchtwaardigheid uitgevoerd.
 
-4. Uiterlijk op de ochtend van de datum van de steekproef, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=3&paragraaf=9&artikel=19&z=2024-01-01&g=2024-01-01), is het inspectierapport conform het model zoals door de minister elektronisch beschikbaar gesteld, voor de minister beschikbaar.
+4. Uiterlijk op de ochtend van de datum van de steekproef, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=3&paragraaf=9&artikel=19&z=2024-03-07&g=2024-03-07), is het inspectierapport conform het model zoals door de minister elektronisch beschikbaar gesteld, voor de minister beschikbaar.
 
 ##### Artikel 19
 
 1. De minister kan een steekproef uitvoeren op een BvL-acceptatiekeuring, een BvL-verlengingsinspectie dan wel een exportinspectie in het kader van het houden van toezicht op het erkende bedrijf.
 
-2. Op de aanvraag, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=3&paragraaf=1&artikel=5&z=2024-01-01&g=2024-01-01), wordt door de eigenaar of houder van het luchtvaartuig dat behoort tot de algemene luchtvaart, aangegeven op welke datum en op welke plaats in Nederland het luchtvaartuig gereed zal staan voor een mogelijke steekproef.
+2. Op de aanvraag, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=3&paragraaf=1&artikel=5&z=2024-03-07&g=2024-03-07), wordt door de eigenaar of houder van het luchtvaartuig dat behoort tot de algemene luchtvaart, aangegeven op welke datum en op welke plaats in Nederland het luchtvaartuig gereed zal staan voor een mogelijke steekproef.
 
 3. Tussen de datum waarop de aanvraag bij de minister wordt ingediend en de datum van de mogelijke steekproef wordt een termijn van ten minste 8 dagen aangehouden.
 
@@ -506,7 +510,7 @@ Indien is gebleken dat de gegevens, zoals door de minister zijn vermeld op een B
 
 - 1°. het ontwerp en de uitvoering van de wijziging zijn voorbereid door de houder van een ontwerperkenning;
 
-- 2°. met het ontwerp van de wijziging is ingestemd door middel van een aanvullend type-certificaat voor het desbetreffende type luchtvaartuig bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=4&paragraaf=2&artikel=28&z=2024-01-01&g=2024-01-01);
+- 2°. met het ontwerp van de wijziging is ingestemd door middel van een aanvullend type-certificaat voor het desbetreffende type luchtvaartuig bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=4&paragraaf=2&artikel=28&z=2024-03-07&g=2024-03-07);
 
 - 3°. met het ontwerp van de wijziging al eerder is ingestemd voor het betreffende type luchtvaartuig;
 
@@ -520,9 +524,9 @@ Indien is gebleken dat de gegevens, zoals door de minister zijn vermeld op een B
 
 - 8°. het ontwerp en de uitvoering van de wijziging is opgenomen in CS-STAN zoals laatstelijk gewijzigd;
 
-- b. met betrekking tot de geluidsproductie, de uitvoerende van het onderhoud aan de hand van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&bijlage=3&z=2024-01-01&g=2024-01-01) bij deze regeling heeft vastgesteld dat de wijziging geen invloed heeft op de geluidsproductie van het luchtvaartuig;
+- b. met betrekking tot de geluidsproductie, de uitvoerende van het onderhoud aan de hand van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&bijlage=3&z=2024-03-07&g=2024-03-07) bij deze regeling heeft vastgesteld dat de wijziging geen invloed heeft op de geluidsproductie van het luchtvaartuig;
 
-- c. met betrekking tot de gegevens, de uitvoerende aan de hand van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&bijlage=4&z=2024-01-01&g=2024-01-01) heeft vastgesteld dat de wijziging geen invloed heeft op de gegevens van het luchtvaartuig die zijn vastgelegd in het Nederlandse register voor burgerluchtvaartuigen; en
+- c. met betrekking tot de gegevens, de uitvoerende aan de hand van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&bijlage=4&z=2024-03-07&g=2024-03-07) heeft vastgesteld dat de wijziging geen invloed heeft op de gegevens van het luchtvaartuig die zijn vastgelegd in het Nederlandse register voor burgerluchtvaartuigen; en
 
 - d. de uitvoerende van het onderhoud heeft vastgesteld dat deze wijziging in combinatie met eerder uitgevoerde wijzigingen en reparaties geen nadelige invloed op de luchtwaardigheid van het luchtvaartuig heeft.
 
@@ -532,7 +536,7 @@ Indien is gebleken dat de gegevens, zoals door de minister zijn vermeld op een B
 
 1. De aanvraag voor:
 
-- a. het verkrijgen van instemming met het ontwerp van een wijziging van een luchtvaartuig voorzien van een ICAO-standaard-BvL of een historisch luchtvaartuig voorzien van een speciaal-BvL voor wijzigingen waarvan het ontwerp niet voldoet aan een van de criteria in [artikel 25, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=4&paragraaf=1&artikel=25&z=2024-01-01&g=2024-01-01), en
+- a. het verkrijgen van instemming met het ontwerp van een wijziging van een luchtvaartuig voorzien van een ICAO-standaard-BvL of een historisch luchtvaartuig voorzien van een speciaal-BvL voor wijzigingen waarvan het ontwerp niet voldoet aan een van de criteria in [artikel 25, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=4&paragraaf=1&artikel=25&z=2024-03-07&g=2024-03-07), en
 
 - b. het verkrijgen van de verklaring ten aanzien van het voldoen aan de geluidseisen voor die wijzigingen van een luchtvaartuig voorzien van een ICAO-standaard-BvL of een historisch luchtvaartuig voorzien van een speciaal-BvL waarvan niet vaststaat dat die geen invloed hebben op de geluidsproductie van het luchtvaartuig, alsmede
 
@@ -560,15 +564,15 @@ wordt ingediend respectievelijk gedaan bij de minister door middel van een volle
 
 - 1°. de wijziging is goedgekeurd door de originele ontwerper of kitfabrikant van het luchtvaartuig,
 
-- 2°. voor de wijziging van een zelf ontworpen amateurbouwluchtvaartuig of een luchtvaartuig waarvan de originele ontwerper of kitfabrikant niet meer bestaat, conform [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=2&artikel=4&z=2024-01-01&g=2024-01-01) is aangetoond dat aan de van toepassing zijnde luchtwaardigheidseisen volgens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=2&artikel=3&z=2024-01-01&g=2024-01-01) dan wel [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=3&paragraaf=4&artikel=10&z=2024-01-01&g=2024-01-01) is voldaan,
+- 2°. voor de wijziging van een zelf ontworpen amateurbouwluchtvaartuig of een luchtvaartuig waarvan de originele ontwerper of kitfabrikant niet meer bestaat, conform [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=2&artikel=4&z=2024-03-07&g=2024-03-07) is aangetoond dat aan de van toepassing zijnde luchtwaardigheidseisen volgens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=2&artikel=3&z=2024-03-07&g=2024-03-07) dan wel [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=3&paragraaf=4&artikel=10&z=2024-03-07&g=2024-03-07) is voldaan,
 
 - 3°. het ontwerp en de uitvoering van de wijziging is opgenomen in CS-STAN zoals laatstelijk gewijzigd, of
 
 - 4°. het ontwerp en de uitvoering van de wijziging zijn voorbereid door de houder van een ontwerperkenning;
 
-- b. met betrekking tot de geluidsproductie de houder, eigenaar of de uitvoerende van de wijziging aan de hand van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&bijlage=3&z=2024-01-01&g=2024-01-01) bij deze regeling heeft vastgesteld dat de wijziging geen invloed heeft op de geluidsproductie van het luchtvaartuig;
+- b. met betrekking tot de geluidsproductie de houder, eigenaar of de uitvoerende van de wijziging aan de hand van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&bijlage=3&z=2024-03-07&g=2024-03-07) bij deze regeling heeft vastgesteld dat de wijziging geen invloed heeft op de geluidsproductie van het luchtvaartuig;
 
-- c. met betrekking tot de gegevens de houder, eigenaar of de uitvoerende van de wijziging aan de hand van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&bijlage=4&z=2024-01-01&g=2024-01-01) heeft vastgesteld dat de wijziging geen invloed heeft op de gegevens van het luchtvaartuig die zijn vastgelegd in het Nederlandse register voor burgerluchtvaartuigen; en
+- c. met betrekking tot de gegevens de houder, eigenaar of de uitvoerende van de wijziging aan de hand van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&bijlage=4&z=2024-03-07&g=2024-03-07) heeft vastgesteld dat de wijziging geen invloed heeft op de gegevens van het luchtvaartuig die zijn vastgelegd in het Nederlandse register voor burgerluchtvaartuigen; en
 
 - d. de houder, eigenaar of de uitvoerende van de wijziging vastgesteld heeft dat deze wijziging in combinatie met eerder uitgevoerde wijzigingen en reparaties geen nadelige invloed op de luchtwaardigheid van het luchtvaartuig heeft;
 
@@ -576,11 +580,11 @@ wordt ingediend respectievelijk gedaan bij de minister door middel van een volle
 
 2. De instemming, bedoeld in het eerste lid, geldt alleen indien bij het uitvoeren van een wijziging aantoonbaar gebruik wordt gemaakt van de benodigde informatie van de volgens het eerste lid ingestemde wijziging.
 
-3. [Artikel 26, eerste lid, aanhef, onderdelen b en c, en tweede tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=4&paragraaf=1&artikel=26&z=2024-01-01&g=2024-01-01) zijn van overeenkomstige toepassing.
+3. [Artikel 26, eerste lid, aanhef, onderdelen b en c, en tweede tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=4&paragraaf=1&artikel=26&z=2024-03-07&g=2024-03-07) zijn van overeenkomstige toepassing.
 
-4. Indien naar het oordeel van de Minister door de wijziging van de MLA, MLH, paramotortrike of het gemotoriseerde schermvliegtuig niet meer met het ten aanzien van de betreffende MLA, MLH, paramotortrike of het betreffende gemotoriseerde schermvliegtuig afgegeven uittreksel van het geluidmeetrapport volstaan kan worden, wordt door of namens één van de in [artikel 10, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=3&paragraaf=4&artikel=10&z=2024-01-01&g=2024-01-01), genoemde autoriteiten dan wel een door de minister erkende of geaccepteerde organisatie een nieuw uittreksel op basis van een nieuw geluidmeetrapport opgesteld en aan de minister gezonden tezamen met een verklaring als bedoeld in [artikel 10, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=3&paragraaf=4&artikel=10&z=2024-01-01&g=2024-01-01).
+4. Indien naar het oordeel van de Minister door de wijziging van de MLA, MLH, paramotortrike of het gemotoriseerde schermvliegtuig niet meer met het ten aanzien van de betreffende MLA, MLH, paramotortrike of het betreffende gemotoriseerde schermvliegtuig afgegeven uittreksel van het geluidmeetrapport volstaan kan worden, wordt door of namens één van de in [artikel 10, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=3&paragraaf=4&artikel=10&z=2024-03-07&g=2024-03-07), genoemde autoriteiten dan wel een door de minister erkende of geaccepteerde organisatie een nieuw uittreksel op basis van een nieuw geluidmeetrapport opgesteld en aan de minister gezonden tezamen met een verklaring als bedoeld in [artikel 10, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=3&paragraaf=4&artikel=10&z=2024-03-07&g=2024-03-07).
 
-5. Indien het vierde lid toepassing vindt, wordt de instemming eerst verleend, nadat de in [artikel 10, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=3&paragraaf=4&artikel=10&z=2024-01-01&g=2024-01-01), bedoelde verklaring, die op het tijdstip van indiening van de in het derde lid bedoelde aanvraag geldig was, bij de minister is ingeleverd.
+5. Indien het vierde lid toepassing vindt, wordt de instemming eerst verleend, nadat de in [artikel 10, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=3&paragraaf=4&artikel=10&z=2024-03-07&g=2024-03-07), bedoelde verklaring, die op het tijdstip van indiening van de in het derde lid bedoelde aanvraag geldig was, bij de minister is ingeleverd.
 
 #### § 2. Wijziging door middel van aanvullend type-certificaat
 
@@ -596,11 +600,11 @@ wordt ingediend respectievelijk gedaan bij de minister door middel van een volle
 
 ##### Artikel 29
 
-1. De minister vermeldt overeenkomstig Part 21, onderdelen 21.A.101, 21A.113 en 21A.114, van verordening (EU) nr. 748/2012, in de certificatiebasis de van toepassing zijnde eisen, waaraan een product waarvoor de aanvraag voor een aanvullend type-certificaat als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=4&paragraaf=2&artikel=28&z=2024-01-01&g=2024-01-01) in behandeling is genomen, moet voldoen.
+1. De minister vermeldt overeenkomstig Part 21, onderdelen 21.A.101, 21A.113 en 21A.114, van verordening (EU) nr. 748/2012, in de certificatiebasis de van toepassing zijnde eisen, waaraan een product waarvoor de aanvraag voor een aanvullend type-certificaat als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=4&paragraaf=2&artikel=28&z=2024-03-07&g=2024-03-07) in behandeling is genomen, moet voldoen.
 
-2. De aanvrager geeft aan te voldoen aan de in de certificatiebasis gestelde eisen en de daarvoor benodigde bewijsvoering te zullen leveren ter uitvoering van het vereiste in [artikel 28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=4&paragraaf=2&artikel=28&z=2024-01-01&g=2024-01-01).
+2. De aanvrager geeft aan te voldoen aan de in de certificatiebasis gestelde eisen en de daarvoor benodigde bewijsvoering te zullen leveren ter uitvoering van het vereiste in [artikel 28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=4&paragraaf=2&artikel=28&z=2024-03-07&g=2024-03-07).
 
-3. De aanvrager legt in de lijst van bewijsvoering als bedoeld in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&bijlage=5&z=2024-01-01&g=2024-01-01) bij deze regeling vast, op welke wijze de bewijsvoering geleverd is, en met welke middelen deze onderbouwd is. De bewijsvoering wordt in de in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&bijlage=5&z=2024-01-01&g=2024-01-01) bij deze regeling weergegeven categorieën ingedeeld.
+3. De aanvrager legt in de lijst van bewijsvoering als bedoeld in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&bijlage=5&z=2024-03-07&g=2024-03-07) bij deze regeling vast, op welke wijze de bewijsvoering geleverd is, en met welke middelen deze onderbouwd is. De bewijsvoering wordt in de in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&bijlage=5&z=2024-03-07&g=2024-03-07) bij deze regeling weergegeven categorieën ingedeeld.
 
 4. De lijst van bewijsvoering legt voor ieder artikel van alle van toepassing zijnde eisen vast:
 
@@ -618,7 +622,7 @@ wordt ingediend respectievelijk gedaan bij de minister door middel van een volle
 
 8. De aanvrager kan een verzoek indienen om aan een gestelde eis op andere, maar equivalente wijze te voldoen. De minister kan dit accepteren als daartoe gegronde redenen bestaan. Deze acceptatie wordt vastgelegd in een equivalente eis en opgenomen in de certificatiebasis.
 
-9. De aanvrager heeft voldaan aan het gestelde in [artikel 28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=4&paragraaf=2&artikel=28&z=2024-01-01&g=2024-01-01), indien:
+9. De aanvrager heeft voldaan aan het gestelde in [artikel 28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=4&paragraaf=2&artikel=28&z=2024-03-07&g=2024-03-07), indien:
 
 - a. aan alle eisen in de certificatiebasis voldaan is;
 
@@ -726,9 +730,9 @@ dat door de houder wordt opgesteld en bijgehouden overeenkomstig de voorschrifte
 
 Het onderhoudsprogramma van een luchtvaartuig als bedoeld in:
 
-- a. [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=1&artikel=2&z=2024-01-01&g=2024-01-01), voor zover het betreft een luchtvaartuig genoemd in de onderdelen a, b of d van Bijlage I bij de basisverordening, dat niet onder een AOC vliegt en is voorzien van een ICAO-standaard-BvL, en
+- a. [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=1&artikel=2&z=2024-03-07&g=2024-03-07), voor zover het betreft een luchtvaartuig genoemd in de onderdelen a, b of d van Bijlage I bij de basisverordening, dat niet onder een AOC vliegt en is voorzien van een ICAO-standaard-BvL, en
 
-- b. [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=1&artikel=2&z=2024-01-01&g=2024-01-01), dat is voorzien van een ICAO-standaard-BvL,
+- b. [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=1&artikel=2&z=2024-03-07&g=2024-03-07), dat is voorzien van een ICAO-standaard-BvL,
 
 en wijzigingen daarop, worden goedgekeurd door de minister of door een daartoe erkende CAMO die tevens de uitvoering van het onderhoud aanstuurt.
 
@@ -756,11 +760,11 @@ en wijzigingen daarop, worden goedgekeurd door de minister of door een daartoe e
 
 ##### Artikel 37
 
-1. Met uitzondering van het tweede en het derde lid van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=5&paragraaf=2&artikel=36&z=2024-01-01&g=2024-01-01) geldt dat voor vliegtuigen met een maximaal toegelaten startmassa van 5.700 kg of minder en van helikopters met een maximaal toegelaten startmassa van 2.730 kg of minder, niet-complex onderhoud wordt uitgevoerd door of onder toezicht van een daartoe bevoegde onderhoudstechnicus of door of onder toezicht van een daartoe erkend onderhoudsbedrijf en dat complex onderhoud wordt uitgevoerd door of onder toezicht van een daartoe erkend onderhoudsbedrijf.
+1. Met uitzondering van het tweede en het derde lid van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=5&paragraaf=2&artikel=36&z=2024-03-07&g=2024-03-07) geldt dat voor vliegtuigen met een maximaal toegelaten startmassa van 5.700 kg of minder en van helikopters met een maximaal toegelaten startmassa van 2.730 kg of minder, niet-complex onderhoud wordt uitgevoerd door of onder toezicht van een daartoe bevoegde onderhoudstechnicus of door of onder toezicht van een daartoe erkend onderhoudsbedrijf en dat complex onderhoud wordt uitgevoerd door of onder toezicht van een daartoe erkend onderhoudsbedrijf.
 
 2. Een bevoegd onderhoudstechnicus mag onverminderd het eerste lid, complex onderhoud uitvoeren zoals omschreven in Part ML van verordening (EU) nr. 1321/2014, aan vliegtuigen met een maximaal toegelaten startmassa van 2.730 kg of minder, aan rotorcraft met een maximaal toegelaten startmassa van 1.200 kg of minder en toegelaten voor maximaal 4 passagiers wanneer hij voldoet aan de daartoe relevante eisen in Part ML.
 
-3. Indien het onderhoudsbedrijf, bedoeld in [artikel 36, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=5&paragraaf=2&artikel=36&z=2024-01-01&g=2024-01-01), een volgens Part M van verordening (EU) nr. 1321/2014 erkende organisatie betreft, wordt het aanvullend onderhoud vrijgegeven met de volgende verklaring opgenomen in zijn verantwoording van het uitgevoerde werk:
+3. Indien het onderhoudsbedrijf, bedoeld in [artikel 36, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=5&paragraaf=2&artikel=36&z=2024-03-07&g=2024-03-07), een volgens Part M van verordening (EU) nr. 1321/2014 erkende organisatie betreft, wordt het aanvullend onderhoud vrijgegeven met de volgende verklaring opgenomen in zijn verantwoording van het uitgevoerde werk:
 
 ‘Certificaat van vrijgave voor gebruik, afgegeven ingevolge de bevoegdheid op grond van het door de Minister van Infrastructuur en Waterstaat afgegeven bewijs van toestemming nr ....’, dan wel
 
@@ -828,7 +832,7 @@ Na de uitvoering van het onderhoud wordt bij de vrijgave een referentie opgenome
 
 - b. waarin verklaard wordt dat bij het onderhoud is gehandeld overeenkomstig de krachtens deze regeling gegeven aanwijzingen, en
 
-- c. dat is ondertekend door de persoon, de onderhoudstechnicus, of door het certificeringspersoneel van die erkenning-houder door wie of onder wiens toezicht de werkzaamheden krachtens de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=5&paragraaf=2&artikel=36&z=2024-01-01&g=2024-01-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=5&paragraaf=2&artikel=37&z=2024-01-01&g=2024-01-01) of [38](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=5&paragraaf=2&artikel=38&z=2024-01-01&g=2024-01-01) zijn verricht.
+- c. dat is ondertekend door de persoon, de onderhoudstechnicus, of door het certificeringspersoneel van die erkenning-houder door wie of onder wiens toezicht de werkzaamheden krachtens de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=5&paragraaf=2&artikel=36&z=2024-03-07&g=2024-03-07), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=5&paragraaf=2&artikel=37&z=2024-03-07&g=2024-03-07) of [38](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=5&paragraaf=2&artikel=38&z=2024-03-07&g=2024-03-07) zijn verricht.
 
 2. Voordat na het verrichten van onderhoud het luchtvaartuig weer in gebruik wordt genomen, wordt onder verantwoordelijkheid van de houder van het luchtvaartuig, of de erkende CAMO die het luchtvaartuig in beheer heeft, een verklaring, verder aangeduid als onderhoudsverklaring, opgesteld waarin is opgenomen wanneer het eerstvolgende geplande onderhoud wordt uitgevoerd. Als een onderhoudsverklaring wordt aangemerkt: het Journaal, de kolom ‘uren ‘over’ tot eerstvolgende onderhoudsbeurt' daarin, tezamen met een vermelding van de datum waarop het eerstvolgende onderhoud dat door middel van kalendertijd wordt bepaald in de kolom ‘opmerkingen' in het Journaal.
 
@@ -838,11 +842,11 @@ Na de uitvoering van het onderhoud wordt bij de vrijgave een referentie opgenome
 
 1. Periodiek onderhoud mag door de houder van het luchtvaartuig worden uitgesteld onder de volgende voorwaarden:
 
-- a. de houder van het goedgekeurde ontwerp, bedoeld in [artikel 33, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=5&paragraaf=1&artikel=33&z=2024-01-01&g=2024-01-01), geeft in zijn onderhoudsaanbevelingen een mogelijkheid tot uitstel van periodieke inspecties binnen gestelde grenzen;
+- a. de houder van het goedgekeurde ontwerp, bedoeld in [artikel 33, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=5&paragraaf=1&artikel=33&z=2024-03-07&g=2024-03-07), geeft in zijn onderhoudsaanbevelingen een mogelijkheid tot uitstel van periodieke inspecties binnen gestelde grenzen;
 
-- b. indien de houder van het goedgekeurde ontwerp, bedoeld in [artikel 33, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=5&paragraaf=1&artikel=33&z=2024-01-01&g=2024-01-01), hierin niet voorziet geldt dat periodieke inspecties mogen worden uitgesteld met maximaal 10% van het in het onderhoudsprogramma opgenomen inspectie-interval. Dit uitstel wordt niet cumulatief gehanteerd, behalve voor inspecties op basis van kalendertijd.
+- b. indien de houder van het goedgekeurde ontwerp, bedoeld in [artikel 33, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=5&paragraaf=1&artikel=33&z=2024-03-07&g=2024-03-07), hierin niet voorziet geldt dat periodieke inspecties mogen worden uitgesteld met maximaal 10% van het in het onderhoudsprogramma opgenomen inspectie-interval. Dit uitstel wordt niet cumulatief gehanteerd, behalve voor inspecties op basis van kalendertijd.
 
-2. Voor zover de houder van het goedgekeurde ontwerp, bedoeld in [artikel 33, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=5&paragraaf=1&artikel=33&z=2024-01-01&g=2024-01-01), dit niet uitdrukkelijk verbiedt, mogen onderdelen en uitrustingsstukken worden meegenomen in het uitstel. De uitvoering van een aanwijzing van de minister die gekoppeld is aan een periodieke inspectie van het luchtvaartuig, mag meegenomen worden in het uitstel.
+2. Voor zover de houder van het goedgekeurde ontwerp, bedoeld in [artikel 33, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=5&paragraaf=1&artikel=33&z=2024-03-07&g=2024-03-07), dit niet uitdrukkelijk verbiedt, mogen onderdelen en uitrustingsstukken worden meegenomen in het uitstel. De uitvoering van een aanwijzing van de minister die gekoppeld is aan een periodieke inspectie van het luchtvaartuig, mag meegenomen worden in het uitstel.
 
 3. Indien wordt afgeweken van het eerste of tweede lid, is vooraf toestemming van de minister vereist. Voor de toestemming is in ieder geval een goedkeurende verklaring van de houder van het goedgekeurde ontwerp vereist.
 
@@ -892,7 +896,7 @@ die door de houder wordt opgesteld en bijgehouden overeenkomstig de voorschrifte
 
 - d. met betrekking tot onderdelen met beperkte levensduur: tot één jaar is verstreken na de vervanging van het betreffende onderdeel.
 
-2. De technische administratie onder verantwoordelijkheid van een CAMO als bedoeld in [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=5&paragraaf=1&artikel=33&z=2024-01-01&g=2024-01-01), wordt gedurende de termijnen, bedoeld in Bijlage V quater en Bijlage V quinquies van verordening (EU) nr. 1321/2014 bewaard.
+2. De technische administratie onder verantwoordelijkheid van een CAMO als bedoeld in [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=5&paragraaf=1&artikel=33&z=2024-03-07&g=2024-03-07), wordt gedurende de termijnen, bedoeld in Bijlage V quater en Bijlage V quinquies van verordening (EU) nr. 1321/2014 bewaard.
 
 3. De in het eerste lid, onder a, b en d gestelde verplichtingen blijven slechts één jaar van kracht, nadat het luchtvaartuig in het luchtvaartuigregister is doorgehaald.
 
@@ -948,7 +952,7 @@ De houder van een luchtvaartuig of de uitvoerder van onderhoud aan een luchtvaar
 
 - a. met een MLA luchtwerk te verrichten, met uitzondering van:
 
-- 1°. het slepen van een zeilvliegtuig, als bedoeld in [artikel 1, eerste lid, van het Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=1), met een MLA, dat is voorzien van een sleepinrichting, die is geaccepteerd door een luchtvaartautoriteit van één van de in [artikel 10, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=3&paragraaf=4&artikel=10&z=2024-01-01&g=2024-01-01), genoemde landen, en
+- 1°. het slepen van een zeilvliegtuig, als bedoeld in [artikel 1, eerste lid, van het Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=1), met een MLA, dat is voorzien van een sleepinrichting, die is geaccepteerd door een luchtvaartautoriteit van één van de in [artikel 10, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=3&paragraaf=4&artikel=10&z=2024-03-07&g=2024-03-07), genoemde landen, en
 
 - 2°. het slepen van een zweefvliegtuig, als bedoeld in [artikel 1, eerste lid, van het Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=1), met een MLA, die is geaccepteerd door de luchtvaartautoriteit van Duitsland inzake luchtwaardigheidseisen voor het slepen van zweefvliegtuigen;
 
@@ -970,7 +974,7 @@ This aircraft has not been certificated to international standards. The safety l
 
 ##### Artikel 47
 
-1. Onverminderd de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=5&paragraaf=4&artikel=44&z=2024-01-01&g=2024-01-01) en 45 worden met een amateurbouwluchtvaartuig, MLA, MLH, lichte gyrokopter, gemotoriseerd schermvliegtuig en paramotortrike slechts vluchten uitgevoerd:
+1. Onverminderd de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=5&paragraaf=4&artikel=44&z=2024-03-07&g=2024-03-07) en 45 worden met een amateurbouwluchtvaartuig, MLA, MLH, lichte gyrokopter, gemotoriseerd schermvliegtuig en paramotortrike slechts vluchten uitgevoerd:
 
 - a. met inachtneming van de blijkens het vlieghandboek van de fabrikant op het luchtvaartuig betrekking hebbende gebruiksbeperkingen;
 
@@ -1074,9 +1078,9 @@ Deze regeling treedt in werking met ingang van 1 oktober 2020.
 
 Deze regeling wordt aangehaald als: Regeling nationale veiligheidsvoorschriften luchtvaartuigen.
 
-## Bijlage 1. behorend bij [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=2&artikel=4&z=2024-01-01&g=2024-01-01), van de Regeling nationale veiligheidsvoorschriften luchtvaartuigen
+## Bijlage 1. behorend bij [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=2&artikel=4&z=2024-03-07&g=2024-03-07), van de Regeling nationale veiligheidsvoorschriften luchtvaartuigen
 
-Om aan te tonen dat aan de eisen gesteld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=2&artikel=3&z=2024-01-01&g=2024-01-01) wordt voldaan, worden de volgende gegevens bij de minister ingediend:
+Om aan te tonen dat aan de eisen gesteld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=2&artikel=3&z=2024-03-07&g=2024-03-07) wordt voldaan, worden de volgende gegevens bij de minister ingediend:
 
 - 1. een maatschets met hoofdafmetingen en een 3-zijden aanzicht waaruit, voor zover van toepassing, het volgende blijkt:
 
@@ -1136,7 +1140,7 @@ Om aan te tonen dat aan de eisen gesteld in [artikel 3](https://wetten.overheid.
 
 - c. voor een amateurbouwluchtvaartuig van een ander materiaal wordt door de minister na overleg met de ontwerper bepaald tot hoever wordt getest. De ontwerper doet hiertoe een voorstel.
 
-## Bijlage 2. behorend bij [artikel 10, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=3&paragraaf=4&artikel=10&z=2024-01-01&g=2024-01-01), van de Regeling nationale veiligheidsvoorschriften luchtvaartuigen
+## Bijlage 2. behorend bij [artikel 10, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=3&paragraaf=4&artikel=10&z=2024-03-07&g=2024-03-07), van de Regeling nationale veiligheidsvoorschriften luchtvaartuigen
 
 ### Bladzijden 4 tot en met 7 fotopagina’s:
 
@@ -1150,19 +1154,19 @@ De vierde foto is van het uitlaatsysteem, waarbij de aanwezige cowlings geheel z
 
 Op alle foto’s worden de datum waarop de foto is gemaakt en het kenmerk mee gefotografeerd. De foto’s worden gemaakt van zo dicht bij de betreffende MLA, MLH, lichte gyrokopter en paramotortrike met een leeggewicht, inclusief reddingsmiddelen, van meer dan 120 kg als mogelijk is.
 
-## Bijlage 3. behorend bij de [artikelen 25, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=4&paragraaf=1&artikel=25&z=2024-01-01&g=2024-01-01), en [27, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=4&paragraaf=1&artikel=27&z=2024-01-01&g=2024-01-01), van de Regeling nationale veiligheidsvoorschriften luchtvaartuigen
+## Bijlage 3. behorend bij de [artikelen 25, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=4&paragraaf=1&artikel=25&z=2024-03-07&g=2024-03-07), en [27, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=4&paragraaf=1&artikel=27&z=2024-03-07&g=2024-03-07), van de Regeling nationale veiligheidsvoorschriften luchtvaartuigen
 
 ### Geluidscriteria
 
 Alle wijzigingen die aan één van onderstaande criteria voldoen hebben invloed op de geluidsproductie of de toegestane geluidsproductie van het luchtvaartuig en moeten voor de uitvoering goedgekeurd zijn door de minister.
 
-## Bijlage 4. behorende bij [artikel 25, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=4&paragraaf=1&artikel=25&z=2024-01-01&g=2024-01-01) en [artikel 27, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=4&paragraaf=1&artikel=27&z=2024-01-01&g=2024-01-01), van de Regeling nationale veiligheidsvoorschriften luchtvaartuigen
+## Bijlage 4. behorende bij [artikel 25, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=4&paragraaf=1&artikel=25&z=2024-03-07&g=2024-03-07) en [artikel 27, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=4&paragraaf=1&artikel=27&z=2024-03-07&g=2024-03-07), van de Regeling nationale veiligheidsvoorschriften luchtvaartuigen
 
 ### Meldingscriteria
 
 Alle wijzigingen die aan één van onderstaande criteria voldoen hebben invloed op de gegevens van het luchtvaartuigregister en moeten gemeld worden aan de minister.
 
-## Bijlage 5. behorend bij [artikel 29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=4&paragraaf=2&artikel=29&z=2024-01-01&g=2024-01-01), van de Regeling nationale veiligheidsvoorschriften luchtvaartuigen
+## Bijlage 5. behorend bij [artikel 29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043696&hoofdstuk=4&paragraaf=2&artikel=29&z=2024-03-07&g=2024-03-07), van de Regeling nationale veiligheidsvoorschriften luchtvaartuigen
 
 ### Lijst van bewijsvoering
 
