@@ -4,7 +4,7 @@ identifier: "BWBR0049444"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-03-08"
-last_updated: "2013-01-01"
+last_updated: "2024-03-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049444"
 soort: "zbo"
@@ -180,7 +180,7 @@ De voorzitters en de leden van de commissie nemen niet deel aan de behandeling v
 
 ##### Artikel 18. Uitbrengen advies en verdaging
 
-1. Het advies wordt, onder medezending van het verslag als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0049444&artikel=15&z=2024-03-08&g=2013-01-01) en eventueel door de commissie ontvangen nadere informatie en nader verslag, tijdig uitgebracht aan het bestuursorgaan dat op het bezwaarschrift dient te beslissen.
+1. Het advies wordt, onder medezending van het verslag als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0049444&artikel=15&z=2024-03-08&g=2024-03-08) en eventueel door de commissie ontvangen nadere informatie en nader verslag, tijdig uitgebracht aan het bestuursorgaan dat op het bezwaarschrift dient te beslissen.
 
 2. Indien naar het oordeel van de voorzitter van de commissie de termijn van twaalf weken, genoemd in [artikel 7:10, eerste lid, van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:10), ontoereikend is voor achtereenvolgens het uitbrengen van een advies en het nemen van een beslissing, verzoekt hij het verwerend orgaan tijdig de beslissing te verdagen.
 
