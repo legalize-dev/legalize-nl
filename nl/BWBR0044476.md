@@ -4,7 +4,7 @@ identifier: "BWBR0044476"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2024-01-01"
+last_updated: "2024-03-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044476"
 soort: "ministeriele-regeling"
@@ -42,19 +42,19 @@ Besluit:
 
 ##### Artikel 1. Woonlandfactor
 
-1. De factor, bedoeld in [artikel 6 van het Besluit beslagvrije voet](https://wetten.overheid.nl/jci1.3:c:BWBR0041895&artikel=6), bedraagt de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=1&z=2024-01-01&g=2024-01-01) bij deze regeling opgenomen factor.
+1. De factor, bedoeld in [artikel 6 van het Besluit beslagvrije voet](https://wetten.overheid.nl/jci1.3:c:BWBR0041895&artikel=6), bedraagt de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=1&z=2024-03-08&g=2024-03-08) bij deze regeling opgenomen factor.
 
-2. Als het land niet in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=1&z=2024-01-01&g=2024-01-01) bij deze regeling is opgenomen bedraagt de factor 1,0.
+2. Als het land niet in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=1&z=2024-03-08&g=2024-03-08) bij deze regeling is opgenomen bedraagt de factor 1,0.
 
 ##### Artikel 2. Model beslagvrije voet
 
-Het model, bedoeld in [artikel 7 van het Besluit beslagvrije voet](https://wetten.overheid.nl/jci1.3:c:BWBR0041895&artikel=7), is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=2&z=2024-01-01&g=2024-01-01) bij deze regeling.
+Het model, bedoeld in [artikel 7 van het Besluit beslagvrije voet](https://wetten.overheid.nl/jci1.3:c:BWBR0041895&artikel=7), is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=2&z=2024-03-08&g=2024-03-08) bij deze regeling.
 
 ##### Artikel 3. Ondersteuning bij de vaststelling van de beslagvrije voet
 
 1. De Stichting Inlichtingenbureau en het UWV dragen als verwerkers gezamenlijk zorg voor de inrichting en het beheer van de door Onze Minister geboden ondersteuning, bedoeld in [artikel 8 van het Besluit beslagvrije voet](https://wetten.overheid.nl/jci1.3:c:BWBR0041895&artikel=8).
 
-2. Op het gebruik van de ondersteuning door Onze Minister zijn de aansluit- en gebruiksvoorwaarden van toepassing, bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=3&z=2024-01-01&g=2024-01-01) van deze regeling.
+2. Op het gebruik van de ondersteuning door Onze Minister zijn de aansluit- en gebruiksvoorwaarden van toepassing, bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=3&z=2024-03-08&g=2024-03-08) van deze regeling.
 
 3. Onze Minister verwijdert de berekening en de daaraan ten grondslag liggende gegevens terstond na het verstrekken daarvan.
 
@@ -564,29 +564,29 @@ Deze regeling wordt aangehaald als: Regeling beslagvrije voet.
 
 (bijlage als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&artikel=2&z=2022-07-01&g=2022-07-01) van de Regeling beslagvrije voet)
 
-(bijlage als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&artikel=2&z=2024-01-01&g=2024-01-01) van de Regeling beslagvrije voet)
+(bijlage als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&artikel=2&z=2024-03-08&g=2024-03-08) van de Regeling beslagvrije voet)
 
 <**Uitleg over de beslagvrije voet***>
 
 **Overzicht van uw beslagvrije voet**
 
-**<Uitleg over de beslagvrije voet>** 1 **Dit onderdeel mag ook worden opgenomen in een begeleidende brief bij de modelmededeling. De voetnoot verwijst zowel naar blok 'intro' als ook blok 'privacy'. Voor het blok 'intro' geldt: Aspect 'titel’ is verplicht, maar aspect ‘uitleg over de beslagvrije voet’ mag ook op de begeleidende brief.**
+<**Uitleg over de beslagvrije voet**1**Dit onderdeel mag ook worden opgenomen in een begeleidende brief bij de modelmededeling. De voetnoot verwijst zowel naar blok 'intro' als ook blok 'privacy'. Voor het blok 'intro' geldt: Aspect 'titel’ is verplicht, maar aspect ‘uitleg over de beslagvrije voet’ mag ook op de begeleidende brief.**>
 
-**<Oproep om gegevens op de mededeling te controleren en wijzigingen door te geven>**
+<**Oproep om gegevens op de mededeling te controleren en wijzigingen door te geven**>
 
-**<Aanduiding hoogte beslagvrije voet>**
+<**Aanduiding hoogte beslagvrije voet**>
 
-**<Optioneel: aanduiding pondspondsgewijze verdeling beslagvrije voet bij meerdere beslagen>**
+**<Indien pondspondsgewijs verdeeld: Aanduiding pondspondsgewijze verdeling beslagvrije voet bij meerdere beslagen>**
 
-**<Indien aanvullende informatie van de beslagene nodig is: Uitleg over verstrekken van benodigde gegevens>**
+<**Indien aanvullende informatie van de beslagene nodig is: Uitleg over verstrekken van benodigde gegevens**>
 
-**<Aanduiding dat in onderstaande tabel gegevens vermeld zijn die gebruikt zijn voor de berekening van de beslagvrije voet>**
+<**Aanduiding dat in onderstaande tabel gegevens vermeld zijn die gebruikt zijn voor de berekening van de beslagvrije voet**>
 
 ## Bijlage 3. Aansluit- en gebruiksvoorwaarden Centrale voorziening BVV
 
 **<Inleiding over situaties die van invloed zijn op hoogte beslagvrije voet met oproep om door te geven indien deze situaties van toepassing zijn>**
 
-**<Optioneel: aanduiding dat beslag minimaal 5% van het netto inkomen is>**
+**<Optioneel: Aanduiding dat beslag minimaal 5% van het netto inkomen is>**
 
 ### Artikel VII. Gebruik door derden
 
@@ -630,15 +630,15 @@ Deze regeling zal met de toelichting en de [bijlagen](https://wetten.overheid.nl
 
 ### Artikel VI. Gebruik van de Centrale voorziening BVV
 
-**<Uitleg over woonkosten en oproep voor beslagene met hoge woonkosten en voor beslagene zonder recht op huurtoeslag om informatie te verstrekken over woonkosten**OF aanduiding dat de opgegeven woonkosten niet meetellen>
+**<Uitleg over woonkosten en oproep voor beslagene met hoge woonkosten en voor beslagene zonder recht op huurtoeslag om informatie te verstrekken over woonkosten OF aanduiding dat de opgegeven woonkosten niet meetellen>**
 
 Deze regeling zal met de toelichting en de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=1&z=2022-01-01&g=2022-01-01) in de Staatscourant worden geplaatst.
 
 ##### Artikel 4a. Overgangsrecht
 
-Tot en met 31 oktober 2022 kan de deurwaarder gebruik maken van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=2&z=2024-01-01&g=2024-01-01), zoals die luidde op 30 juni 2021.
+Tot en met 31 oktober 2022 kan de deurwaarder gebruik maken van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=2&z=2024-03-08&g=2024-03-08), zoals die luidde op 30 juni 2021.
 
-## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&artikel=1&z=2024-01-01&g=2024-01-01) van de Regeling beslagvrije voet
+## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&artikel=1&z=2024-03-08&g=2024-03-08) van de Regeling beslagvrije voet
 
 | Land | Woonlandfactor 2024 |
 | --- | --- |
@@ -870,9 +870,9 @@ Tot en met 31 oktober 2022 kan de deurwaarder gebruik maken van [bijlage 2](http
 
 ## Bijlage 3. Aansluit- en gebruiksvoorwaarden Centrale voorziening BVV
 
-**<Verwijzing naar** [**Externe link: www.uwbeslagvrijevoet.nl**](onbekend) **>**
+**<Verwijzing naar externe link:** [www.uwbeslagvrijevoet.nl>](http://www.uwbeslagvrijevoet.nl>)
 
-**<Verwijzing naar privacystatement eigen organisatie>** 2 stcrt-2022-17064
+**<Verwijzing naar privacy statement eigen organisatie2**stcrt-2022-17064**>**
 
 ### Artikel I. Begripsbepalingen
 
@@ -896,9 +896,9 @@ Deze regeling zal met de toelichting en de [bijlagen](https://wetten.overheid.nl
 
 De maximale termijn, bedoeld in [artikel 475da, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475da), bedraagt achttien maanden.
 
-## Bijlage 2. Model mededeling beslagvrije voet
+## Bijlage 2. Modelmededeling beslagvrije voet
 
-<Informatie over het effect van het privégebruik voertuig werkgever op de beslagvrije voet ook indien privégebruik niet bekend is>
+**<Informatie over het effect van het privégebruik voertuig werkgever op de beslagvrije voet ook indien privégebruik niet bekend is>**
 
 ## Bijlage 3. Aansluit- en gebruiksvoorwaarden Centrale voorziening BVV
 
@@ -916,4 +916,4 @@ Afnemer is verantwoordelijk voor de diensten die een Intermediair op verzoek van
 
 ### Artikel X. Looptijd en wijziging van de aansluitvoorwaarden
 
-Deze regeling zal met de toelichting en de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=1&z=2024-01-01&g=2024-01-01) in de Staatscourant worden geplaatst.
+Deze regeling zal met de toelichting en de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=1&z=2024-03-08&g=2024-03-08) in de Staatscourant worden geplaatst.
