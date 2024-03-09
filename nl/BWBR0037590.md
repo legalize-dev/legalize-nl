@@ -4,7 +4,7 @@ identifier: "BWBR0037590"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-03-09"
-last_updated: "2023-03-07"
+last_updated: "2024-03-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037590"
 soort: "zbo"
@@ -44,7 +44,7 @@ Besluit:
 
 ##### Artikel 1. centrale examens VO
 
-De omzetting van scores in cijfers bij centrale examens VO, bedoeld in [artikel 2, tweede lid, onderdeel e, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2) geschiedt op de in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037590&bijlage=1&z=2023-03-07&g=2023-03-07) bij deze regeling vastgestelde wijze.
+De omzetting van scores in cijfers bij centrale examens VO, bedoeld in [artikel 2, tweede lid, onderdeel e, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2) geschiedt op de in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037590&bijlage=1&z=2024-03-09&g=2024-03-09) bij deze regeling vastgestelde wijze.
 
 ##### Artikel 2. rekentoets VO
 
@@ -66,35 +66,35 @@ De [Regeling omzetting scores in cijfers centrale examens en rekentoets VO 2015]
 
 Deze regeling wordt aangehaald als: Regeling omzetting scores in cijfers VO.
 
-## Bijlage 1. Wijze van omzetting van scores in cijfers bij centrale examens VO als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037590&artikel=1&z=2023-03-07&g=2023-03-07)
+## Bijlage 1. Wijze van omzetting van scores in cijfers bij centrale examens VO als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037590&artikel=1&z=2024-03-09&g=2024-03-09)
 
 ### De instructies die het CvTE toepast om tot de N-termen te komen
 
-### Uitgangspunt
+### 1. Uitgangspunt
 
-Omdat het technisch onmogelijk is onze examens van jaar op jaar ‘precies even moeilijk' te maken, zorgt de keuze van de normeringsterm (N-term) daarvoor. Het proces van normering is erop gericht, gegeven dit uitgangspunt, de juiste normeringsterm te bepalen.
+De normering van de centrale examens dient er zorg voor te dragen dat in opeenvolgende jaren aan kandidaten bij eenzelfde centraal examen (vak en schooltype/leerweg) dezelfde eisen worden gesteld. Omdat het technisch onmogelijk is onze examens van jaar op jaar precies even moeilijk te maken, zorgt de keuze van de normeringsterm (N-term) daarvoor. Het proces van normering is erop gericht, gegeven dit uitgangspunt, de juiste N-term te bepalen.
 
-In **supplement I** staan de vergelijkingen die bij de omzetting van score naar cijfer worden gehanteerd.
+In supplement I staan de formules die bij de omzetting van score naar cijfer worden gehanteerd.
 
-Bij ieder centraal examen stelt het College voor Toetsen en Examens (CvTE) een referentie-examen vast, zodra dat kan. Een referentie-examen is een examen dat door CvTE en veld wordt gezien als een ‘goed’ examen.
+Voor ieder centraal examen stelt het College voor toetsen en examens (CvTE), zodra dat mogelijk is, referentiegegevens vast; een referentie-examen met een referentie-N-term en een referentiepopulatie met een referentie-gemiddeld cijfer en referentie-percentage onvoldoende.
 
 ### Examens in het eerste tijdvak
 
 Als een examen een onvolkomenheid bevat die kandidaten aanwijsbaar kan benadelen, krijgen correctoren nadere instructies door een aanvulling op het correctievoorschrift.
 
-In het tweede tijdvak geldt in beginsel de normeringsterm van het eerste tijdvak. Aan de hand van de statistisch te verwachten resultaatverbetering van kandidaten die in het eerste tijdvak een onvoldoende hadden, wordt nagegaan of deze normeringsterm zou leiden tot hogere eisen aan de kandidaat dan in het eerste tijdvak. Als dat het geval is, wordt de normeringsterm zo vastgesteld dat de eisen gelijk zijn.
+Voor ieder centraal examen worden afnamegegevens verzameld; scores per item per kandidaat. Daarnaast wordt informatie verzameld over de moeilijkheidsgraad van dat examen in vergelijking met het referentie-examen. Daarvoor kan gebruik gemaakt worden van:
 
-Bij het derde tijdvak wordt de normeringsterm bepaald aan de hand van een gewogen oordeel over de moeilijkheidsgraad, samengesteld uit de oordelen van Stichting Cito, van het CvTE en van de correctoren van deze examens. Hierbij wordt de moeilijkheidsgraad gerelateerd aan de moeilijkheidsgraad van de examens in het eerste tijdvak.
+De N-term wordt bepaald aan de hand van een gewogen oordeel over alle beschikbare bronnen voor het betreffende centraal examen. Op deze manier wordt gezorgd dat een verandering in vaardigheidsniveau gesignaleerd wordt en de prestatie-eis gelijk blijft ook als de vaardigheid van de examenpopulatie verschilt van de referentiepopulatie8Dit is een groep kandidaten uit een of meer eerdere examenjaren, waarvan gegevens over het vaardigheidsniveau bekend zijn.. Het gemiddeld cijfer wordt hoger bij een toegenomen vaardigheidsniveau en lager bij een gedaald vaardigheidsniveau.
 
 Voor de voor een kandidaat nadelige gevolgen van een door het CvTE vastgestelde fout of onvolkomenheid in een examen of correctievoorschrift, compenseert het CvTE via de normeringsterm indien:
 
-Deze correctieprocedure via de normeringsterm geldt voor alle tijdvakken en vindt in voorkomende gevallen plaats op grond van de in supplement II bij deze bijlage opgenomen formules voor het compenseren voor een fout of onvolkomenheid in respectievelijk het eerste, tweede en derde tijdvak. Hierdoor wordt voorkomen dat de score van een kandidaat in een te laag cijfer wordt omgezet.
+Voor het examen in het tweede tijdvak geldt in beginsel de N-term van het eerste tijdvak. Aan de hand van verzamelde informatie over de moeilijkheidsgraad van het examen in het tweede tijdvak in vergelijking met het examen in het eerste tijdvak, wordt nagegaan of deze N-term zou leiden tot hogere eisen aan de kandidaat dan in het eerste tijdvak. Als dat het geval is, wordt de N-term zo vastgesteld dat de eisen gelijk zijn.
 
 Als een examen een onvolkomenheid bevat die kandidaten aanwijsbaar kan benadelen, krijgen correctoren nadere instructies door een aanvulling op het correctievoorschrift.
 
-De huidige regels zijn in 1999 vastgesteld en voor het eerst toegepast bij de examens van 2000. [CEVO-99/648 van 22 juni 1999, Gele katern 1999, nr. 18a].
+Bij de normering van een examen met een nieuw examenprogramma kan vaak geen vergelijking gemaakt worden met een referentie-examen. In dat geval kan gebruik gemaakt worden van niet-vergelijkende standaardbepalingsmethoden.
 
-Het systeem voor de omzetting van score naar cijfer is gebaseerd op de volgende vier uitgangspunten:
+In geval van een pilot kan een examen op basis van het nieuwe programma (het pilotexamen) gelijktijdig worden afgenomen met een examen op basis van het oude programma (het reguliere examen). Als de oude en nieuwe stof elkaar deels overlappen en de overlap eenzelfde positie in het programma inneemt, wordt op grond van de resultaten van de kandidaten op de vragen over de overlappende stof de vaardigheid van de kandidaten bepaald. Deze informatie kan gebruikt worden om de moeilijkheidsgraad van de vragen over de niet-overlappende stof en vervolgens het gehele examen te bepalen.
 
 Hierbij wordt onder de score verstaan: de zuivere score, dus uitsluitend de punten die aan de kandidaat zijn toegekend voor goede antwoordelementen.
 
@@ -102,71 +102,59 @@ Hierbij wordt onder de score verstaan: de zuivere score, dus uitsluitend de punt
 
 ### Examens in het tweede tijdvak
 
-De hoofdrelatie geeft aldus het examencijfer als functie van de score:
+Deze correctieprocedure via de N-term geldt voor alle tijdvakken en vindt in voorkomende gevallen plaats op grond van de in supplement II bij deze bijlage opgenomen formules voor het compenseren voor een fout of onvolkomenheid. Hierdoor wordt voorkomen dat de score van een kandidaat in een te laag cijfer wordt omgezet.
 
 C = 9,0 * (S/L) + N.................... (1)
 
-### De formules voor de omzetting van score naar cijfer
+### 1. Uitgangspunten
 
-C = het cijfer voor het centraal examen.
-
-### Uitgangspunten
-
-### Supplement I
-
-N = de normeringsterm, liggend tussen de waarden: N = 0,0 en N = 2,0, vast te stellen door het College voor Toetsen en Examens middels een normeringsbeslissing.
+Het systeem voor de omzetting van score naar cijfer is gebaseerd op de volgende vier uitgangspunten:
 
 ### Uitgangspunten
 
-Voorbeeld:
+### 2. Het normeringsvoorschrift
 
-Stel de lengte van de scoreschaal is L = 90 punten;
+Het normeringsvoorschrift bestaat uit twee onderdelen:
 
-dan gaat formule (1) over in:
+### 3. De hoofdrelatie
+
+De hoofdrelatie geeft aldus het examencijfer als functie van de score:
+
+C = 9,0 * (S/L) + N (1)
+
+waarin:
 
 ### Het normeringsvoorschrift
 
-Voordat hiermee uit score S examencijfer C kan worden berekend, moet het College voor Toetsen en Examens eerst een waarde voor normeringsterm N hebben vastgesteld.
+S = de score, dat wil zeggen de zuivere aan de kandidaat toegekende score.
 
 ### De hoofdrelatie
 
-C = 9,0 * (S/90) + 1,0.
+N = de normeringsterm, een getal met één decimaal liggend tussen de waarden: N = 0,0 en N = 2,09Incidenteel kan een N-term hoger dan 2,0 worden vastgesteld als dit gegeven de moeilijkheidsgraad van het examen nodig is om recht te doen aan de prestaties van de kandidaten., vast te stellen door het CvTE middels een normeringsbeslissing.
 
-Deze is gevisualiseerd in figuur 1:
+Zijn zowel L als N bekend, dan leidt invullen van de score S direct tot het examencijfer C.
 
-Concreet: drie kandidaten met scores van resp. 0%, 50% en 100% – wat bij deze L van 90 pt correspondeert met scores van 0, 45 en 90 pt – zouden achtereenvolgens de examencijfers: 1,0, 5,5 en 10,0 krijgen. Als was gekozen voor een andere schaallengte, bv L = 68, dan zou formule (1), – bij dezelfde N-term N = 1,0) overgaan in:
+De hoofdrelatie is gevisualiseerd in figuur 1:
 
 C = 9,0 * (S/68) + 1,0.
 
-Nu zouden genoemde drie kandidaten voor dezelfde examencijfers (1,0, 5,5 en 10,0) respectievelijk de scores 0, 34 en 68 nodig hebben!
+Als de normeringsterm groter of kleiner is dan 1,0 wordt niet automatisch voldaan aan de eerder genoemde vier uitgangspunten. Bij N-termen groter dan 1,0 zou een score van 0 een cijfer hoger dan 1,0 opleveren en de maximale score hoger dan 10,0. Het omgekeerde gebeurt bij N-termen kleiner dan 1,0. Hiermee is niet voldaan aan de uitgangspunten 2 en 3.
 
-Deze zijn nodig om de boven gegeven vier uitgangspunten óók te kunnen eerbiedigen als de normeringsterm N groter of kleiner is dan 1,0.
+Dit is in beeld gebracht in figuur 2:
 
-Voorbeeld:
+Dit wordt opgelost door middel van een systeem van zogeheten grensrelaties. Het principe van grensrelaties is gevisualiseerd in figuur 3.
 
-Bij een waarde voor de normeringsterm van N = 1,3, zouden de drie kandidaten met scores 0%, 50% en 100% op grond van de hoofdrelatie resp. de cijfers 1,3, 5,8 en 10,3 krijgen;
-
-daarvan is echter het eerste cijfer guller dan de bedoeling en is het derde cijfer hoger dan het toegestane maximum.
-
-Iets dergelijks treedt op bij een normeringsterm lager dan 1,0, bijvoorbeeld: N = 0,7. Genoemde drie kandidaten zouden in dat geval de examencijfers 0,7, 5,2 en 9,7 krijgen, waarvan het eerste cijfer uitkomt onder het toegestane minimum en het derde cijfer lager is dan de verdiende 10,0!
-
-Deze problematiek is in beeld gebracht in figuur 2:
-
-Deze ‘bijzonderheden’ worden verholpen door middel van een systeem van zogeheten grensrelaties.
-
-Het principe van grensrelaties is gevisualiseerd in figuur 3. Bij voorbaat zullen alle score-cijfercombinaties liggen binnen het gebied dat begrensd wordt door de vier lijnstukken in deze figuur.
-
-Samen vormen de vier lijnstukken 2a, 2b, 3a en 3b een ‘venster’ waarbinnen alle toegestane score-cijfercombinaties moeten liggen. Dreigt bij toepassing van de hoofdrelatie – formule (1) – een score-cijfercombinatie buiten deze grenzen te vallen, dan moet voor de desbetreffende score dat cijfer vervangen worden door het cijfer berekend met de corresponderende grensrelatie. Wat informeler gezegd: score-cijfercombinaties die buiten het ‘venster’ dreigen te vallen, komen op het ‘kozijn’ terecht.
+Samen vormen de vier lijnstukken 2a, 2b, 3a en 3b een gebied waarbinnen alle toegestane score-cijfercombinaties moeten liggen. Dreigt bij toepassing van de hoofdrelatie – formule (1) – een score-cijfercombinatie buiten deze grenzen te vallen, dan moet voor de desbetreffende score dat cijfer vervangen worden door het cijfer berekend met de corresponderende grensrelatie.
 
 De grensrelaties worden gevormd door de volgende vier formules:
 
-C = 1,0 + S* (9/L)*2.......................... (2a)
+C = 1,0 + S* (9/L)*2 (2a)
 
-C = 10,0 – (L-S)* (9/L) * 0,5................. (2b)
+C = 10,0 – (L-S)* (9/L) * 0,5 (2b)
 
-C = 1,0 + S* (9/L)* 0,5.........................(3a)
+C = 1,0 + S* (9/L)* 0,5 (3a)
 
-### De grensrelaties
+C = 10,0 – (L-S)*(9/L)*2 (3b)
 
 Bij N > 1,0 geldt voor de laagste scores de formule (2a) en voor de hoogste scores de formule (2b).
 
@@ -176,11 +164,23 @@ Bij N < 1,0 geldt voor de laagste scores de formule (3a) en voor de hoogste scor
 
 In figuur 5 is dit gevisualiseerd.
 
-Bij een waarde voor de normeringsterm van N = 1,0 treedt het systeem van grensrelaties niet in werking en resulteert een score-cijfertransformatie die grafisch wordt gerepresenteerd door de rechte lijn van Fig.1, de lijn die in Fig. 4 is gelabeld met: ‘N=1,0’.
+C = 1,0 + S* (9/L)* 0,5.........................(3a)
 
-Bij alle andere waarden van N zijn de grensrelaties wel van belang. In figuur 6 zijn als voorbeelden de twee uiterste gevallen in beeld gebracht, die resp. corresponderen met de normeringsbeslissingen N = 2,0 en N = 0,0. Deze leveren als score-cijfertransformaties de twee dubbel-geknikte lijnen op (gelabeld met ‘N=2,0’ en ‘N=0,0’).
+### De grensrelaties
 
-Samen vormen de vier lijnstukken 2a, 2b, 3a en 3b een ‘venster’ waarbinnen alle toegestane score-cijfercombinaties moeten liggen. Dreigt bij toepassing van de hoofdrelatie – formule (1) – een score-cijfercombinatie buiten deze grenzen te vallen, dan moet voor de desbetreffende score dat cijfer vervangen worden door het cijfer berekend met de corresponderende grensrelatie. Wat informeler gezegd: score-cijfercombinaties die buiten het ‘venster’ dreigen te vallen, komen op het ‘kozijn’ terecht.
+Bij een waarde voor de normeringsterm van N = 1,0 treedt het systeem van grensrelaties niet in werking en resulteert een score-cijfertransformatie die grafisch wordt gerepresenteerd door de rechte lijn van Fig.1, de lijn die in Fig. 6 is gelabeld met: ‘N=1,0’.
+
+Bij alle andere waarden van N zijn de grensrelaties wel van belang. In figuur 6 zijn als voorbeelden de twee gevallen in beeld gebracht die respectievelijk corresponderen met N = 2,0 en N = 0,0. Deze leveren als score-cijfertransformaties de twee dubbel-geknikte lijnen op (gelabeld met ‘N=2,0’ en ‘N=0,0’).
+
+Bij N < 1,0 geldt voor de laagste scores de formule (3a) en voor de hoogste scores de formule (3b).
+
+De N-term die zou zijn vastgesteld als de desbetreffende fout of onvolkomenheid in een examen of correctievoorschrift niet door het CvTE was vastgesteld, wordt verhoogd met 9 * Pvrg * Mvrg / L, waarbij deze uitkomst wordt afgerond op één decimaal.
+
+In deze formule staat Pvrg voor de P-waarde van de onvolkomen vraag en Mvrg voor de maximaal haalbare score op deze vraag. Een P-waarde van 0,63 betekent dat de kandidaten gemiddeld 63% van Mvrg behaald hebben. L staat voor de lengte van de scoreschaal ofwel de maximaal haalbare score op het gehele examen.
+
+Het uitgangspunt bij deze werkwijze is dat de kandidaat die geen punten heeft kunnen scoren op de onvolkomen vraag, voldoende wordt gecompenseerd om geen nadeel te ondervinden van de fout.
+
+Aan het derde tijdvak nemen zo weinig kandidaten deel dat de P-waarden geen relevante informatiebron vormen. De N-term die zonder de fout zou zijn vastgesteld wordt verhoogd met 9 * Mvrg / L. Deze compensatie is wellicht te hoog, maar zo wordt voorkomen dat kandidaten benadeeld worden door de fout.
 
 De N-term die zou zijn vastgesteld als de desbetreffende fout of onvolkomenheid in een examen of correctievoorschrift niet door het CvTE was vastgesteld, wordt verhoogd met 9 * Pvrg * Mvrg / L, waarbij deze uitkomst wordt afgerond op één decimaal.
 
@@ -348,13 +348,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-### Bijzondere situaties bij het eerste tijdvak
+### 3. Compensatie voor fouten of onvolkomenheden via de N-term
 
-Het normeringsvoorschrift bestaat uit twee onderdelen:
+Voor de nadelige gevolgen voor een kandidaat van een door het CvTE vastgestelde fout of onvolkomenheid in een examen of correctievoorschrift, compenseert het CvTE via de N-term indien:
 
 ### Compensatie voor fouten of onvolkomenheden via de normeringsterm
 
-S = de score, dat wil zeggen de zuivere aan de kandidaat toegekende score.
+Hierbij wordt onder de score verstaan: de zuivere score, dus uitsluitend de punten die aan de kandidaat zijn toegekend voor goede antwoordelementen.
 
 ### Uitgangspunten
 
@@ -362,15 +362,15 @@ Zijn zowel L als N bekend, dan leidt invullen van de score S direct tot het exam
 
 ### Het normeringsvoorschrift
 
-C = 9,0 * (S/90) + N.
+C = het cijfer voor het centraal examen.
 
 ### De hoofdrelatie
 
-Stel dat wordt: N = 1,0; dan krijgt formule (1) zijn definitieve vorm:
+L = de lengte van de scoreschaal, zoals vastgelegd in het correctievoorschrift;
 
 ### De hoofdrelatie
 
-C = 10,0 – (L-S)*(9/L)*2.................... (3b)
+Samenvattend ziet het er als volgt uit:
 
 ### De grensrelaties
 
@@ -458,9 +458,9 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-Een normering gericht op gelijke cijfers als in voorgaande jaren (relatief normeren) is het startpunt. Om een te strenge of juist te soepele normering te voorkomen zal Stichting Cito Instituut voor Toetsontwikkeling (Stichting Cito) aanvullende gegevens inzetten naast de reeds beschikbare data, zoals:
+Bij een stabiel vaardigheidsniveau wordt de N-term bij een nieuw examen zo gekozen dat het gemiddeld cijfer zo dicht mogelijk ligt bij het referentie-gemiddeld cijfer. In een periode waarin het vaardigheidsniveau stabiel is, kunnen de referentiegegevens gebaseerd worden op meerdere jaren en in een periode waarin het vaardigheidsniveau niet stabiel is, zullen de referentiegegevens gebaseerd zijn op het meest recente geschikte centraal examen.
 
-### Examens in het eerste tijdvak of de afnameperiode1De flexibele en digitale centrale examens voor de algemene vakken in de basisberoepsgerichte leerweg en kaderberoepsgerichte leerweg van het vmbo kennen geen eerste tijdvak maar een afnameperiode, zoals bedoeld in artikel 37, zevende lid, van het Eindexamenbesluit VO.
+### 2. Bepalen technische N-term
 
 ### Bijzondere situaties bij het eerste tijdvak of de afnameperiode
 
@@ -520,11 +520,11 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-### Examens in het tweede tijdvak
+### 2.1. Voorlopige N-term in tijdvak 2
 
-### Supplement I
+### 2.2. Centraal examen met een nieuw examenprogramma
 
-### Supplement I
+### Supplement I. De formules voor de omzetting van score naar cijfer
 
 ### De grensrelaties
 
@@ -546,7 +546,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 De normering van de centrale examens dient er zorg voor te dragen dat in opeenvolgende jaren aan kandidaten bij een zelfde vak in hetzelfde schooltype of dezelfde leerweg dezelfde eisen worden gesteld.
 
-Er zal derhalve geen sprake meer zijn van scorepunten-vooraf en/of scorepunten-bijtelling (in geval van cesuuraanpassing).
+Als een examen een onvolkomenheid bevat die kandidaten aanwijsbaar kan benadelen, krijgen correctoren nadere instructies door een aanvulling op het correctievoorschrift. De aanvulling kan inhouden dat alle punten voor (een deel van) de vraag aan alle kandidaten moeten worden toegekend ongeacht of er wel of geen antwoord gegeven is, en ongeacht het gegeven antwoord. In dat geval is sprake van neutralisatie van (een deel van) de vraag. De vraag draagt de facto niet meer bij aan het behaalde resultaat op het centraal examen.
 
 ### Supplement II
 
@@ -555,6 +555,24 @@ Er zal derhalve geen sprake meer zijn van scorepunten-vooraf en/of scorepunten-b
 Vervallen
 
 ## Bijlage 3. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037590&artikel=3&z=2023-03-07&g=2023-03-07) van de Regeling omzetting scores in cijfers centrale examens en rekentoets VO 2016, van 30 november 2015, nummer CvTE-15.02159
+
+Vervallen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+De instructies die het CvTE toepast om tot de N-termen te komen.
+
+### 4. De grensrelaties
+
+### 5. Samenvattend
+
+### Supplement II. De formules voor het compenseren voor een fout of onvolkomenheid
+
+## Bijlage 2. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037590&artikel=2&z=2024-03-09&g=2024-03-09) van de Regeling omzetting scores in cijfers centrale examens en rekentoets VO 2016, van 30 november 2015, nummer CvTE-15.02159
+
+Vervallen
+
+## Bijlage 3. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037590&artikel=3&z=2024-03-09&g=2024-03-09) van de Regeling omzetting scores in cijfers centrale examens en rekentoets VO 2016, van 30 november 2015, nummer CvTE-15.02159
 
 Vervallen
 
