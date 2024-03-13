@@ -4,7 +4,7 @@ identifier: "BWBR0048315"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-03-13"
-last_updated: "2024-02-28"
+last_updated: "2024-03-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048315"
 soort: "ministeriele-regeling"
@@ -58,11 +58,11 @@ entry_into_force: "2024-02-12"
 
 ##### Artikel 2
 
-Tot het verlenen van volmacht om op te treden als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk ten aanzien van de onder hen ressorterende functionarissen, worden aangewezen de functionarissen, genoemd in kolom 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048315&bijlage=1&z=2024-02-28&g=2024-02-28) bij dit besluit, voor zover het betreft de uitoefening van de bevoegdheden, vermeld in kolom 2 van die bijlage.
+Tot het verlenen van volmacht om op te treden als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk ten aanzien van de onder hen ressorterende functionarissen, worden aangewezen de functionarissen, genoemd in kolom 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048315&bijlage=1&z=2024-03-13&g=2024-03-13) bij dit besluit, voor zover het betreft de uitoefening van de bevoegdheden, vermeld in kolom 2 van die bijlage.
 
 ##### Artikel 3
 
-Als bevoegd om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven, worden aangewezen de functionarissen, genoemd in kolom 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048315&bijlage=2&z=2024-02-28&g=2024-02-28) bij deze regeling voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage.
+Als bevoegd om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven, worden aangewezen de functionarissen, genoemd in kolom 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048315&bijlage=2&z=2024-03-13&g=2024-03-13) bij deze regeling voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage.
 
 ##### Artikel 4
 
@@ -146,11 +146,11 @@ gelet op [artikel 3 van het Mandaatbesluit Ministerie van Justitie en Veiligheid
 
 Besluit:
 
-## Bijlage 1. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048315&artikel=2&z=2024-02-28&g=2024-02-28) van het Mandaatbesluit HDBV Ministerie van Justitie en Veiligheid 2022
+## Bijlage 1. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048315&artikel=2&z=2024-03-13&g=2024-03-13) van het Mandaatbesluit HDBV Ministerie van Justitie en Veiligheid 2022
 
-De functionarissen bij wie in **kolom 2 de letter A** is geplaatst, zijn, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048315&artikel=4&z=2024-02-28&g=2024-02-28) van dit besluit bevoegd tot uitoefening van alle bevoegdheden die in of krachtens paragraaf 1.3 van de CAO Rijk aan leidinggevenden zijn toegekend.
+De functionarissen bij wie in **kolom 2 de letter A** is geplaatst, zijn, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048315&artikel=4&z=2024-03-13&g=2024-03-13) van dit besluit bevoegd tot uitoefening van alle bevoegdheden die in of krachtens paragraaf 1.3 van de CAO Rijk aan leidinggevenden zijn toegekend.
 
-De functionarissen bij wie in **kolom 2 de letter B** is geplaatst, zijn, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048315&artikel=4&z=2024-02-28&g=2024-02-28) van dit besluit bevoegd tot uitoefening van alle bevoegdheden die in of krachtens paragraaf 1.3 van de CAO Rijk aan leidinggevenden zijn toegekend., met uitzondering van de bevoegdheden tot het aangaan van arbeidsovereenkomsten, het bevorderen naar een hogere salarisschaal, het opleggen van disciplinaire straffen en ordemaatregelen en het beëindigen van arbeidsovereenkomsten alsmede het nemen van besluiten over de toekenning van een persoonsgebonden dienstauto.
+De functionarissen bij wie in **kolom 2 de letter B** is geplaatst, zijn, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048315&artikel=4&z=2024-03-13&g=2024-03-13) van dit besluit bevoegd tot uitoefening van alle bevoegdheden die in of krachtens paragraaf 1.3 van de CAO Rijk aan leidinggevenden zijn toegekend., met uitzondering van de bevoegdheden tot het aangaan van arbeidsovereenkomsten, het bevorderen naar een hogere salarisschaal, het opleggen van disciplinaire straffen en ordemaatregelen en het beëindigen van arbeidsovereenkomsten alsmede het nemen van besluiten over de toekenning van een persoonsgebonden dienstauto.
 
 |   | Kolom 1 | Kolom 2 |
 | --- | --- | --- |
@@ -165,6 +165,7 @@ De functionarissen bij wie in **kolom 2 de letter B** is geplaatst, zijn, onverm
 | 1.2.3 | hoofd afdeling Regie, programma’s en projecten | B |
 | 1.2.4 | hoofd afdeling Strategische inkoop | B |
 | 1.2.5 | hoofd afdeling Beveiligingsautoriteit | B |
+| 1.2.6 | hoofd Staf | B |
 | **1.3** | **directeur Dienstencentrum** | **A** |
 | 1.3.1 | plv. directeur Dienstencentrum | A |
 | 1.3.2 | hoofd afdeling Klantadvies en ondersteuning | B |
@@ -189,7 +190,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 3. Het aan de directeur van de directie Openbaarmaking verleende ondermandaat kan slechts één hiërarchisch niveau verder worden doorgegeven.
 
-## Bijlage 2. behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048315&artikel=3&z=2024-02-28&g=2024-02-28) van het Mandaatbesluit HDBV Ministerie van Justitie en Veiligheid 2022
+## Bijlage 2. behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048315&artikel=3&z=2024-03-13&g=2024-03-13) van het Mandaatbesluit HDBV Ministerie van Justitie en Veiligheid 2022
 
 De functionarissen genoemd in kolom 1 zijn bevoegd in overeenstemming met [artikel 3.3 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=3.3), tot het aangaan van verplichtingen en het doen van uitgaven.
 
@@ -205,11 +206,12 @@ Indien in kolom 2 geen bedrag is opgenomen, geldt geen maximumbedrag.
 | 1.1.1 | manager |   |
 | 1.1.2 | hoofd bureau ondersteuning medezeggenschap |   |
 | **1.2** | **directeur Informatievoorziening en inkoop** |   |
-| 1.2.1 | hoofd afdeling Beleid, kennis en innovatie |   |
-| 1.2.2 | hoofd afdeling I-control en security |   |
-| 1.2.3 | hoofd afdeling Regie, programma’s en projecten |   |
-| 1.2.4 | hoofd afdeling Strategische inkoop |   |
-| 1.2.5 | hoofd afdeling Beveiligingsautoriteit |   |
+| 1.2.1 | hoofd afdeling Beleid, kennis en innovatie | € 1.000.000 |
+| 1.2.2 | hoofd afdeling I-control en security | € 1.000.000 |
+| 1.2.3 | hoofd afdeling Regie, programma’s en projecten | € 1.000.000 |
+| 1.2.4 | hoofd afdeling Strategische inkoop | € 1.000.000 |
+| 1.2.5 | hoofd afdeling Beveiligingsautoriteit | € 1.000.000 |
+| 1.2.6 | hoofd Staf | € 1.000.000 |
 | **1.3** | **directeur Dienstencentrum** |   |
 | 1.3.1 | plv. directeur Dienstencentrum |   |
 | **1.4** | **directeur Huisvesting en facilities** |   |
