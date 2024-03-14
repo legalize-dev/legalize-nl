@@ -4,7 +4,7 @@ identifier: "BWBR0017434"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-10-03"
-last_updated: "2020-11-04"
+last_updated: "2024-03-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017434"
 soort: "ministeriele-regeling"
@@ -55,7 +55,406 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 Dit besluit wordt aangehaald als: Besluit Rode lijsten flora en fauna.
 
-## Bijlage. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017434&artikel=1&z=2020-11-04&g=2020-11-04) van het Besluit Rode lijsten flora en fauna
+## Bijlage. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017434&artikel=1&z=2024-03-14&g=2024-03-14) van het Besluit Rode lijsten flora en fauna
+
+| **Verdwenen uit Nederland** |   |
+| --- | --- |
+| Agonimia allobata | Schorshaarschubje |
+| Arthonia galactites | Krijtschorsvlekje |
+| Arthonia ligniariella | Rottend houtvlekje |
+| Aspicilia cupreogrisea | Hunebeddambordje |
+| Bacidia scopulicola | Waddenknoopjeskorst |
+| Baeomyces placophyllus | Gelobde heikorst |
+| Biatora sphaeroides | Boslichtje |
+| Bryoria capillaris | Grijs paardenhaarmos |
+| Caloplaca alstrupii | Texelse citroenkorst |
+| Cetraria sepincola | Donker boerenkoolmos |
+| Cladonia deformis | Fraai bekermos |
+| Cladonia rangiferina | Echt rendiermos |
+| Cladonia symphycarpia | Kalkblaadje |
+| Collemopsidium arenisedum | Grote zandkorst |
+| Collemopsidium monense | Muurzandkorst |
+| Cyphelium inquinans | Grauw kopspijkertje |
+| Diploschistes caesioplumbeus | Donkere steendaalder |
+| Evernia divaricata | Groot eikenmos |
+| Fellhaneropsis vezdae | Naaldenkorst |
+| Flavocetraria nivalis | Bleekgeel boerenkoolmos |
+| Fuscidea recensa | Bruine suikerkorst |
+| Fuscopannaria nebulosa | Blauwgrijze korrelkorst |
+| Graphis elegans | Sierlijk schriftmos |
+| Gyalecta derivata | Roze abrikoosjeskorst |
+| Lecania cuprea | Muurglimschoteltje |
+| Lecanora albellula | Bleke bosschotelkorst |
+| Lecanora sarcopidoides | Valse bosschotelkorst |
+| Lecanora subsaligna | Valse houtschotelkorst |
+| Lecidea auriculata | Geoorde granietkorst |
+| Lecidea huxariensis | Hardhoutkorst |
+| Lecidella anomaloides | Klein purperschaaltje |
+| Lecidella viridans | Groen zeepurperschaaltje |
+| Lemmopsis pelodes | Vals rozijnmos |
+| Leptogium subtile | Fijn boomzwelmos |
+| Loxospora elatina | Erwtensoepkorst |
+| Micarea curvata | Knipoogje |
+| Micarea deminuta | Dwergoogje |
+| Micarea melaena | Duinoogje |
+| Micarea sambuci | Vlieroogje |
+| Miriquidica pycnocarpa | Oosterse granietkorst |
+| Parmeliopsis hyperopta | Bleek avocadomos |
+| Peltigera horizontalis | Zadelleermos |
+| Pertusaria multipuncta | Soredieus speldenkussentje |
+| Porocyphus byssoides | Kleine dropkorst |
+| Porocyphus coccodes | Gewone dropkorst |
+| Protoparmelia badia | Steenspijkerdrager |
+| Ramalina calicaris | Gleuftakmos |
+| Rinodina conradii | Konijnenschotelkorst |
+| Rinodina pyrina | Onopvallende schotelkorst |
+| Scoliciosporum corticolum | Donkere boomspiraalkorst |
+| Solenopsora candicans | Tufsterretje |
+| Strigula phaea |   |
+| Thelenella modesta | Vals speldenkussentje |
+| Thelenella muscorum | Witte moskorst |
+| Thelidium minimum | Kleinste schotstippelkorst |
+| Thelocarpon imperceptum | Verborgen stuifmeelkorst |
+| Trapeliopsis percrenata | Groenkopveenkorst |
+| Umbilicaria polyphylla | Glad navelmos |
+| Usnea ceratina | Lang baardmos |
+| Usnea florida | Zonnetjesbaardmos |
+| Usnea fragilescens | Teer baardmos |
+| Usnea fulvoreagens | Pijpenragerbaardmos |
+| Verrucaria hochstetteri | Zachte kalkstippelkorst |
+| Verrucaria paulula | Smalle zeestippelkorst |
+| Verrucaria sandstedei | Dunne zeestippelkorst |
+| Xylopsora caradocensis | Gezwollen schubjesmos |
+|   |   |
+| **Ernstig bedreigd** |   |
+| Acrocordia gemmata | Iepenwrat |
+| Agonimia globulifera | Kalkhaarschubje |
+| Arthonia excipienda | Populierenvlekje |
+| Bryoria fuscescens | Bruin paardenhaarmos |
+| Cerothallia luteoalba | Iepenzonnetje |
+| Cetraria islandica | IJslands mos |
+| Cladonia cornuta | Gevlekt heidestaartje |
+| Cladonia squamosa | Doornig heidestaartje |
+| Cladonia sulphurina | Geel bekermos |
+| Gyalecta truncigena | Boomabrikoosjeskorst |
+| Lecanora frustulosa | Gewelfde schotelkorst |
+| Lecanora strobilina | Bleke dennenschotelkorst |
+| Lecidella asema | Zeepurperschaaltje |
+| Montanelia disjuncta | Zwartbruin schildmos |
+| Peltigera membranacea | Gebobbeld leermos |
+| Phlyctis agelaea | Gestippeld lichtvlekje |
+| Pycnothelia papillaria | Rijstkorrelmos |
+| Rinodina oxydata | Rivierschotelkorst |
+| Stereocaulon dactylophyllum | Etagekorrelloof |
+| Stereocaulon saxatile | Wollig korrelloof |
+| Tuckermanopsis chlorophylla | Bruin boerenkoolmos |
+| Umbilicaria deusta | Hunebed-navelmos |
+| Usnea articulata | Saucijs-baardmos |
+| Usnea filipendula | Visgraatbaardmos |
+| Usnea glabrata | Glanzend baardmos |
+| Vulpicida pinastri | Geel boerenkoolmos |
+|   |   |
+| **Bedreigd** |   |
+| Diplotomma pharcidium | Boomcementkorst |
+| Flavoplaca marina | Gelobde zeecitroenkorst |
+| Hydropunctaria maura | Zwarte zeestippelkorst |
+| Lepraria eburnea | Geelgrijze poederkorst |
+| Micarea lignaria | Heideoogje |
+| Ochrolechia turneri | Valse kringkorst |
+| Protoparmelia oleagina | Bruine spijkerdrager |
+| Ramalina fraxinea | Groot takmos |
+| Ramalina lacera | Waaiertakmos |
+| Stereocaulon condensatum | Stuifzandkorrelloof |
+| Strigula affinis | Iepenspikkel |
+| Verrucaria aethiobola | Bruine waterstippelkorst |
+| Verrucaria fusconigrescens | Zwartbruine zeestippelkorst |
+| Verrucaria hydrophila | Groene waterstippelkorst |
+| Dibaeis baeomyces | Roze heikorst |
+| Lecanora aitema | Dennenschotelkorst |
+| Platismatia glauca | Groot boerenkoolmos |
+| Usnea hirta | Bleek baardmos |
+| Usnea subfloridana | Gewoon baardmos |
+| Anaptychia ciliaris | Wimpermos |
+| Anaptychia runcinata | Zeedakpanmos |
+| Arthonia phaeobaea | Bruine zeekorst |
+| Aspicilia cinerea | Dijkdambordje |
+| Aspicilia simoensis | Soredieus dambordje |
+| Bacidia circumspecta | Bosknoopjeskorst |
+| Bacidia incompta | Regenbaankorst |
+| Bacidia rubella | Iepenknoopjeskorst |
+| Bacidina phacodes | Rechte knoopjeskorst |
+| Blastenia ferruginea | Rood boomzonnetje |
+| Blastenia herbidella | Koraalcitroenkorst |
+| Bryostigma fuscum | Kiezelvlekje |
+| Chaenotheca brunneola | Bruin schorssteeltje |
+| Cladonia peziziformis | Bol heidestaartje |
+| Diploschistes scruposus | Muurdaalder |
+| Hydropunctaria rheitrophila | Gevlekte waterstippelkorst |
+| Lecanora gangaleoides | Granietschotelkorst |
+| Lecidea plana | Gespikkelde granietkorst |
+| Lecidea promixta | Zwerfsteenkorst |
+| Lepraria membranacea | Geschulpte poederkorst |
+| Micarea confusa | Metaaloogje |
+| Ochrolechia microstictoides | Bostandpastakorst |
+| Parmelia discordans | Donkerbruin steenschildmos |
+| Parmelia omphalodes | Bruingrijs steenschildmos |
+| Porpidia platycarpoides | Platte blauwkorst |
+| Ramalina siliquosa | Gewoon kusttakmos |
+| Rhizocarpon lavatum | Oever-landkaartmos |
+| Rhizocarpon richardii | Kust-landkaartmos |
+| Rinodina calcarea | Donkere kalkschotelkorst |
+| Rinodina confragosa | Hunebedschotelkorst |
+| Scoliciosporum chlorococcum | Boomspiraalkorst |
+| Stigmidium marinum | Obscure wadkorst |
+| Usnea cornuta | Ingesnoerd baardmos |
+| Usnea esperantiana | Klein baardmos |
+| Usnea flavocardia | Gelig baardmos |
+| Usnea wasmuthii | Duinbaardmos |
+| Varicellaria hemisphaerica | Boskringkorst |
+| Varicellaria lactea | Witte dijkkringkorst |
+|   |   |
+| **Kwetsbaar** |   |
+| Cladonia ciliata | Sierlijk rendiermos |
+| Peltigera canina | Groot leermos |
+| Physcia aipolia | Gemarmerd vingermos |
+| Lecanora conizaeoides | Groene schotelkorst |
+| Pseudevernia furfuracea | Purper geweimos |
+| Aquacidia trachona | Rivierknoopjeskorst |
+| Bacidia laurocerasi | Purperknoopjeskorst |
+| Fellhaneropsis myrtillicola | Bosbeskorst |
+| Imshaugia aleurites | Dennenmos |
+| Lecanora soralifera | Veldjesschotelkorst |
+| Lecanora subaurea | Heldere schotelkorst |
+| Lepraria ecorticata | Opgeloste schotelkorst |
+| Micarea nitschkeana | Takkenoogje |
+| Micarea subcinerea | Klein steenoogje |
+| Ochrolechia parella | Steentandpastakorst |
+| Pertusaria aspergilla | Gele dijkkringkorst |
+| Pertusaria flavida | Geel speldenkussentje |
+| Pertusaria lactescens | Grauwe dijkkringkorst |
+| Porpidia cinereoatra | Dijkenblauwkorst |
+| Psora decipiens | Witgerand grondschubje |
+| Pyrenula chlorospila | Duinknikker |
+| Rhizocarpon lecanorinum | Klein landkaartmos |
+| Scytinium biatorinum | Klein zwelmos |
+| Stereocaulon evolutum | Opstijgend korrelloof |
+| Thelidium zwackhii | Waterschotstippelkorst |
+| Toninia sedifolia | Kalkblaaskorst |
+| Verrucaria halizoa | Kleine zeestippelkorst |
+| Wahlenbergiella mucosa | Gladde zeestippelkorst |
+| Aquacidia viridifarinosa | Dijkenlichtvlekje |
+| Bacidia arceutina | Bleke knoopjeskorst |
+| Blastenia crenularia | Rood dijkzonnetje |
+| Bryostigma muscigenum | Knotwilgkorst |
+| Circinaria leprosescens | Zeedambordje |
+| Cladonia monomorpha | Wrattig bekermos |
+| Cladonia pocillum | Duinbekermos |
+| Cladonia strepsilis | Hamerblaadje |
+| Lecanora sulphurea | Zwavelgroene schotelkorst |
+| Peltigera neckeri | Zwart leermos |
+| Physconia distorta | Fors rijpmos |
+| Protoparmelia hypotremella | Grijze spijkerdrager |
+| Variospora thallincola | Fraaie citroenkorst |
+| Verrucaria aquatilis | Zwarte waterstippelkorst |
+| Violella fucata | Trilzwamkorst |
+| Cetraria aculeata | Gewoon kraakloof |
+| Cladonia arbuscula | Gebogen rendiermos |
+| Cladonia uncialis | Varkenspootje |
+| Flavoplaca maritima | Gewone zeecitroenkorst |
+| Hypocenomyce scalaris | Gewoon schubjesmos |
+| Ochrolechia androgyna | Gewone tandpastakorst |
+| Peltigera hymenina | Kaal leermos |
+| Pertusaria amara | Ananaskorst |
+| Porina chlorotica | Steen-olievlekje |
+| Trapelia glebulosa | Gelobd sterschoteltje |
+| Trapelia obtegens | Bruin sterschoteltje |
+|   |   |
+| **Gevoelig** |   |
+| Absconditella delutula | Kleinsporig kroesje |
+| Absconditella lignicola | Houtkroesje |
+| Absconditella pauxilla | Smalsporig kroesje |
+| Absconditella rubra | Rood kroesje |
+| Absconditella sphagnorum | Veenmoskroesje |
+| Absconditella trivialis | Leemkroesje |
+| Acarospora anomala | Zinksteenschubje |
+| Acarospora versicolor | Berijpt steenschubje |
+| Acrocordia conoidea | Kleine kalksteenwrat |
+| Acrocordia salweyi | Grote kalksteenwrat |
+| Agonimia flabelliformis |   |
+| Agonimia gelatinosa | Leemhaarschubje |
+| Agonimia vouauxii | Duinhaarschubje |
+| Aquacidia antricola | Waterknoopjeskorst |
+| Arthonia ligniaria | Duinvlekje |
+| Arthonia vinosa | Rood vlekje |
+| Aspicilia grisea | Wrattig dambordje |
+| Aspicilia verrucigera | Schaakbordje |
+| Bacidia fuscoviridis | Schaduwknoopjeskorst |
+| Bacidina arnoldiana | Kalkrotsknoopjeskorst |
+| Bacidina brandii | Kleine knoopjeskorst |
+| Bacidina inundata | Witgerande knoopjeskorst |
+| Bacidina mendax |   |
+| Bacidina saxenii | Steenknoopjeskorst |
+| Bacidina viridescens | Muurknoopjeskorst |
+| Bagliettoa baldensis | Sterretjeskorst |
+| Bagliettoa steineri | Tulbandkorst |
+| Biatoridium monasteriense | Donkere bomenmos |
+| Bilimbia lobulata | Mergelvreter |
+| Brianaria bauschiana | Steenoogje |
+| Buellia schaereri | Klein strontjesmos |
+| Byssoloma diederichii |   |
+| Calicium adspersum | Geelberijpt boomspijkertje |
+| Calicium glaucellum | Zwart boomspijkertje |
+| Calicium salicinum | Bruin boomspijkertje |
+| Caloplaca cerina | Oranje boomzonnetje |
+| Catillaria flexuosa |   |
+| Catillaria nigroisidiata | Isidieuze rookkorst |
+| Chaenotheca furfuracea | Lichtend schorssteeltje |
+| Chaenotheca phaeocephala | Grof schorssteeltje |
+| Chaenothecopsis pusilla | Tweecellig houtspeldje |
+| Chaenothecopsis savonica | Gewoon houtspeldje |
+| Cladonia cariosa | Knobbelig heidestaartje |
+| Cladonia parasitica | Koraalblaadje |
+| Cladonia pyxidata | Grof bekermos |
+| Clauzadea metzleri | Mergelkorst |
+| Clauzadea monticola | Ruïnekorst |
+| Coppinsidea aphana |   |
+| Enchylium bachmanianum | Zilt geleimos |
+| Enchylium coccophorum | Tweecellig geleimos |
+| Endocarpon pusillum | Muurkrijtkorst |
+| Enterographa hutchinsiae | Gestreepte runenkorst |
+| Flavopunctelia flaventior | Oosters schildmos |
+| Fuscidea cyathoides | Granietsuikerkorst |
+| Fuscidea praeruptorum | Hunebedvlekje |
+| Geisleria sychnogonoides | Leemstippel |
+| Graphis inustuloides | Doolhof-schriftmos |
+| Gregorella humida | Zwarte korrelkorst |
+| Gyalecta jenensis | Steenabrikoosjeskorst |
+| Gyalidea psammoica | Texels mos |
+| Gyalolechia fulgens | Eierdooiermos |
+| Hymenelia ceracea | Oranje kalkporie |
+| Hymenelia prevostii | Roze kalkporie |
+| Hypogymnia tubulosa | Witkopschorsmos |
+| Hypogymnia physodes | Gewoon schorsmos |
+| Koerberiella wimmeriana | Zuiderzeekorst |
+| Lecania atrynoides | Dijkenglimschoteltje |
+| Lecania cyrtellina | Smalsporig boomglimschoteltje |
+| Lecanora cenisia | Kwartsschotelkorst |
+| Lecanora fugiens | Kustschotelkorst |
+| Lecanora garovaglioi | Warme schotelkorst |
+| Lecanora hybocarpa | Beukenschotelkorst |
+| Lecanora intumescens | Golvende schotelkorst |
+| Lecanora orosthea | Stoffige schotelkorst |
+| Lecanora pruinosa | Berijpte muurschotelkorst |
+| Lecanora stenotropa | Cementschotelkorst |
+| Lecanora zosterae | Zilte schotelkorst |
+| Lecidea lactea | Melkwitte granietkorst |
+| Lecidea lapicida | Dijkgranietkorst |
+| Lecidea variegatula | Kleine granietkorst |
+| Leimonis lynceola | Kwartsoogje |
+| Lempholemma polyanthes | Muurrozijnenmos |
+| Lepraria caesioalba | Granietpoederkorst |
+| Lepraria crassissima | Dikke poederkorst |
+| Lepraria jackii | Boomspleetpoederkorst |
+| Lepraria neglecta | Witte poederkorst |
+| Leproplaca chrysodeta | Kerkmosterdkorst |
+| Lobothallia radiosa | Gelobd dambordje |
+| Melanelixia subargentifera | Behaard schildmos |
+| Melanohalea exasperata | Papilleus schildmos |
+| Melaspileella proximella | Klein haarschoteltje |
+| Micarea adnata | Zittend trosoogje |
+| Micarea botryoides | Gesteeld trosoogje |
+| Micarea coppinsii | Hunebedoogje |
+| Micarea herbarum | Klein vulkaanoogje |
+| Micarea lithinella | Grindoogje |
+| Micarea microsorediata | Soredieus oogje |
+| Micarea myriocarpa | Worteloogje |
+| Micarea subviridescens | Grauw oogje |
+| Micarea xanthonica | Groengeel mosoogje |
+| Microcalicium ahlneri | Ruig pruikspijkertje |
+| Microcalicium disseminatum | Zittend pruikspijkertje |
+| Myriospora smaragdula | Dijkensteenschubje |
+| Ochrolechia subviridis | Wrattige tandpastakorst |
+| Pachyphiale carneola | Valse abrikoosjeskorst |
+| Parmelia submontana | Moerasschildmos |
+| Parmelina pastillifera | Knopjesschildmos |
+| Parmelina quercina | Eikenschildmos |
+| Parmotrema reticulatum | Netschildmos |
+| Peltigera extenuata | Vertakt leermos |
+| Peltigera ponojensis | Duinleermos |
+| Peltigera praetextata | Ruig leermos |
+| Pertusaria corallina | Granietspeldenkussentje |
+| Pertusaria pseudocorallina | Kapjesspeldenkussentje |
+| Phaeocalicium populneum | Populierenspeldje |
+| Phaeographis inusta | Grote runenkorst |
+| Physcia dimidiata | Rotsvingermos |
+| Physcia leptalea | Stekelig vingermos |
+| Physcia tribacia | Lobjesvingermos |
+| Piccolia ochrophora | Licht muggenstrontjesmos |
+| Placidium squamulosum | Tufkrijtkorst |
+| Placopsis gelida | Grote zeepkorst |
+| Polyblastia albida | Lichte kalkstippelkorst |
+| Polycauliona verruculifera | Isidieuze zeecitroenkorst |
+| Porina borreri | Groot olievlekje |
+| Porpidia contraponenda | Uitgebreide blauwkorst |
+| Psilolechia clavulifera | Grijze wortelkorst |
+| Psoroglaena abscondita | Vlierkorst |
+| Psorotichia schaereri | Gewone kalkkorst |
+| Pterygiopsis neglecta | Donkere waterkorst |
+| Pyrenodesmia variabilis | Donkere citroenkorst |
+| Pyrenula nitida | Beukenknikker |
+| Ramalina baltica | Hol takmos |
+| Ramalina pollinaria | Sierlijk takmos |
+| Reichlingia leopoldii | Roetkorst |
+| Rhizocarpon distinctum | Bruin landkaartmos |
+| Rhizocarpon petraeum | Bleek landkaartmos |
+| Rinodina atrocinerea | Donkergrijze schotelkorst |
+| Rinodina bischoffii | Tufschotelkorst |
+| Rinodina efflorescens | Bleke peperkorst |
+| Rinodina griseosoralifera | Blauwe peperkorst |
+| Ropalospora viridis | Koele boskorst |
+| Rufoplaca arenaria | Granietzonnetje |
+| Sarcogyne clavus | Granietkroontjeskorst |
+| Sarcogyne privigna | Gladde kroontjeskorst |
+| Scoliciosporum gallurae | Groene spiraalkorst |
+| Scoliciosporum pruinosum | Berijpte spiraalkorst |
+| Scoliciosporum sarothamni | Soredieuze spiraalkorst |
+| Scytinium imbricatum | Schubjeszwelmos |
+| Scytinium tenuissimum | Fijn grondzwelmos |
+| Scytinium teretiusculum | Dijkzwelmos |
+| Sporodophoron cretaceum | Witkring |
+| Squamarina cartilaginea | Valse muurschotelkorst |
+| Stenocybe pullatula | Elzenspeldje |
+| Strangospora moriformis | Donker muggenstrontjesmos |
+| Strigula jamesii | Boomspikkel |
+| Synalissa ramulosa | Bunkerkorst |
+| Tephromela grumosa | Peper-en-zout schotelkorst |
+| Thelidium decipiens | Verzonken schotstippelkorst |
+| Thelidium dionantense | Grote schotstippelkorst |
+| Thelidium minutulum | Kleine schotstippelkorst |
+| Thelocarpon epibolum | Zandstuifmeelkorst |
+| Thelocarpon impressellum | Brede stuifmeelkorst |
+| Thelocarpon intermediellum | Kleine stuifmeelkorst |
+| Thelocarpon laureri | Gewone stuifmeelkorst |
+| Thelocarpon lichenicola | Mosstuifmeelkorst |
+| Thelocarpon olivaceum | Berijpte stuifmeelkorst |
+| Thelocarpon pallidum | Bleke stuifmeelkorst |
+| Thrombium epigaeum | Heidestippel |
+| Trapeliopsis gelatinosa | Bleekgroene veenkorst |
+| Usnea rubicunda | Rood baardmos |
+| Verrucaria caerulea | Harde kalkstippelkorst |
+| Verrucaria foveolata | Mergelstippelkorst |
+| Verrucaria internigrescens | Donkere zeestippelkorst |
+| Verrucula maritimaria | Fijne zeestippelkorst |
+| Verruculopsis lecideoides | Kerkstippelkorst |
+| Vezdaea acicularis | Heidezomerkorst |
+| Vezdaea retigera | Moszomerkorst |
+| Wahlenbergiella striatula | Gestreepte zeestippelkorst |
+| Xanthomendoza huculica | Dragonderdooiermos |
+| Xanthomendoza ulophyllodes | Ulevellenmos |
+| Xanthoparmelia delisei | Bruin dijkschildmos |
+| Xanthoparmelia protomatrae | Groot dijkschildmos |
+| Xanthoparmelia tinctina | Kogelschildmos |
+| Zwackhia viridis | Okerbruin schriftmos |
 
 | **Verdwenen uit Nederland** |   |
 | --- | --- |
