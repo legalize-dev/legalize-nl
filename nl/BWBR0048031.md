@@ -4,7 +4,7 @@ identifier: "BWBR0048031"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-03-14"
-last_updated: "2022-10-01"
+last_updated: "2024-03-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048031"
 soort: "ministeriele-regeling"
@@ -52,11 +52,13 @@ In dit besluit wordt verstaan onder:
 
 - c. **de directeuren:** de directeuren van het **DGLGS**;
 
-- d. **de managers:** de managers van het **DGLGS**;
+- d. **de programmadirecteur:** de programmadirecteur NPLG en Transitiefonds;
 
-- e. **het DT:** het managementteam van het **DGLGS** dat bestaat uit de in de onderdelen b, c en d genoemde functionarissen;
+- e. **de managers:** de managers van het **DGLGS**;
 
-- f. **het bedrag:** het bedrag inclusief de verschuldigde omzetbelasting (BTW)
+- f. **het DT:** het managementteam van het **DGLGS** dat bestaat uit de in de onderdelen b tot en met e genoemde functionarissen;
+
+- g. **het bedrag:** het bedrag inclusief de verschuldigde omzetbelasting (BTW)
 
 #### § 2. Taakverdeling tussen de directeur-generaal en de onder hem ressorterende functionarissen
 
@@ -74,7 +76,7 @@ Aan de directeur-generaal is voorbehouden het nemen van besluiten, het verrichte
 
 ##### Artikel 3
 
-1. Aan de directeuren wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 1.000.000 niet te boven gaat.
+1. Aan de directeuren en de programmadirecteur wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 2.000.000 niet te boven gaat.
 
 2. Aan de directeuren wordt voorts, ieder voor zich, voor de onder hen ressorterende medewerkers ondermandaat, volmacht en machtiging verleend voor:
 
@@ -90,7 +92,7 @@ Aan de directeur-generaal is voorbehouden het nemen van besluiten, het verrichte
 
 ##### Artikel 4
 
-1. Aan de managers wordt, ieder voor zich, voor de onder hen ressorterende medewerkers ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 50.000 niet te boven gaat.
+1. Aan de managers wordt, ieder voor zich, voor de onder hen ressorterende medewerkers ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 100.000 niet te boven gaat.
 
 2. Aan de managers wordt, ieder voor zich, voor de onder hen ressorterende medewerkers ondermandaat, volmacht en machtiging verleend voor:
 
