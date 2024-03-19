@@ -4,7 +4,7 @@ identifier: "BWBR0039965"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-11-21"
-last_updated: "2023-09-01"
+last_updated: "2024-03-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039965"
 soort: "ministeriele-regeling"
@@ -48,9 +48,9 @@ In deze regeling en daarop berustende bepalingen wordt verstaan onder:
 
 - **directeur:** een functionaris die, afzonderlijk of met een andere directeur, leiding geeft aan een of meer directies;
 
-- **directie:** een van de organisatieonderdelen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&paragraaf=2&artikel=2&z=2023-09-01&g=2023-09-01);
+- **directie:** een van de organisatieonderdelen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&paragraaf=2&artikel=2&z=2024-03-19&g=2024-03-19);
 
-- **IG-team:** de inspecteur-generaal en de directeuren van de directies die ressorteren onder de inspecteur-generaal;
+- **Directieteam:** het Directieteam van de Nederlandse Arbeidsinspectie bestaat uit de inspecteur-generaal en de directeuren van de directies die ressorteren onder de inspecteur-generaal;
 
 - **inspecteur-generaal**: de inspecteur-generaal Nederlandse Arbeidsinspectie;
 
@@ -58,9 +58,9 @@ In deze regeling en daarop berustende bepalingen wordt verstaan onder:
 
 - **opdrachtgever:** de functioneel leidinggevende van de programmamanager of de projectleider;
 
-- **portefeuille:** het totaal aan lijnverantwoordelijkheid van een directeur, gecombineerd met diens functionele verantwoordelijkheid voor programma’s of projecten en de al dan niet door de inspecteur-generaal aan een directeur opgedragen taak of verantwoordelijkheid als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&paragraaf=2&artikel=3&z=2023-09-01&g=2023-09-01), of een samenstel daarvan;
+- **portefeuille:** het totaal aan lijnverantwoordelijkheid van een directeur, gecombineerd met diens functionele verantwoordelijkheid voor programma’s of projecten en de al dan niet door de inspecteur-generaal aan een directeur opgedragen taak of verantwoordelijkheid als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&paragraaf=2&artikel=3&z=2024-03-19&g=2024-03-19), of een samenstel daarvan;
 
-- **portfolio:**het totaal aan programma’s en projecten van de Nederlandse Arbeidsinspectie gedurende een bepaalde periode;
+- **portfolio:** het totaal aan programma’s en projecten van de Nederlandse Arbeidsinspectie gedurende een bepaalde periode;
 
 - **programma:** een tijdelijke set van activiteiten en projecten die zijn gericht op het bereiken van een of meer samenhangende doelstellingen;
 
@@ -82,9 +82,9 @@ Onder de inspecteur-generaal ressorteren:
 
 - e. de directie Opsporing.
 
-##### Artikel 3. Het IG-team
+##### Artikel 3. Het Directieteam
 
-1. De inspecteur-generaal en de directeuren voeren regelmatig collegiaal overleg over de strategische sturing van de Nederlandse Arbeidsinspectie en over de vervulling van de portefeuilles. Dit overleg staat onder voorzitterschap van de inspecteur-generaal. Beslissingen worden genomen door de inspecteur-generaal, gehoord de overige leden van het IG-team.
+1. De inspecteur-generaal en de directeuren voeren regelmatig collegiaal overleg over de strategische sturing van de Nederlandse Arbeidsinspectie en over de vervulling van de portefeuilles. Dit overleg staat onder voorzitterschap van de inspecteur-generaal. Beslissingen worden genomen door de inspecteur-generaal, gehoord de overige leden van het Directieteam.
 
 2. De inspecteur-generaal kan elk van de directeuren schriftelijk belasten met taken en verantwoordelijkheden, de inspectie betreffende, naast de verantwoordelijkheden voor de eigen directie. Over dergelijke taken en verantwoordelijkheden verantwoordt de desbetreffende directeur zich op de wijze, aangegeven door de inspecteur-generaal.
 
@@ -92,7 +92,7 @@ Onder de inspecteur-generaal ressorteren:
 
 1. Het uitvoerende werk van de Nederlandse Arbeidsinspectie vindt zowel plaats in de reguliere lijnstructuur als in programma’s en projecten.
 
-2. Op basis van een risico- en omgevingsanalyse van de Nederlandse Arbeidsinspectie wordt een een- of meerjarig portfolio samengesteld en door het IG-team vastgesteld. In het portfolio wordt tevens op hoofdlijnen bepaald hoe mensen en middelen worden ingezet. Het portfolio wordt periodiek herijkt.
+2. Op basis van een risico- en omgevingsanalyse van de Nederlandse Arbeidsinspectie wordt een een- of meerjarig portfolio samengesteld en door het Directieteam vastgesteld. In het portfolio wordt tevens op hoofdlijnen bepaald hoe mensen en middelen worden ingezet. Het portfolio wordt periodiek herijkt.
 
 3. De directie Opsporing voert als Bijzondere Opsporingsdienst onder het gezag van het Functioneel Parket van het Openbaar Ministerie strafrechtelijke onderzoeken uit, hetgeen een aantal aanvullende eisen stelt aan de sturing op werkprocessen.
 
@@ -220,7 +220,9 @@ Elk van de directeuren is verantwoordelijk voor:
 
 - m. het zorgdragen voor de kwaliteitsontwikkeling binnen de vakgroep Programma- & Projectmanagement en de vakgroep Major Hazard Control;
 
-- n. het verlenen van ondersteuning van projecten van de Nederlandse Arbeidsinspectie.
+- n. het verlenen van ondersteuning van projecten van de Nederlandse Arbeidsinspectie;
+
+- o. het opstellen van bestuursdwangbeschikkingen ter handhaving van de medewerkingsplicht als bedoeld in [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), voor zover dit niet is voorbehouden aan de directeur Meldingen en Verzoeken.
 
 ##### Artikel 8. Verantwoordelijkheden directeur Meldingen en Verzoeken
 
@@ -260,7 +262,9 @@ De directeur Meldingen en Verzoeken is verantwoordelijk voor:
 
 - 3°. het verrichten of laten verrichten van onderzoek bij arbeidsongevallen;
 
-- o. het vervullen van de rol van verwerkingsverantwoordelijke, bedoeld in [artikel 1, aanhef en onderdeel c, van het Besluit politiegegevens buitengewoon opsporingsambtenaren.](https://wetten.overheid.nl/jci1.3:c:BWBR0041971&artikel=1)
+- o. het vervullen van de rol van verwerkingsverantwoordelijke, bedoeld in [artikel 1, aanhef en onderdeel c, van het Besluit politiegegevens buitengewoon opsporingsambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0041971&artikel=1);
+
+- p. het opstellen van bestuursdwangbeschikkingen ter handhaving van de medewerkingsplicht als bedoeld in [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), voor zover dit niet is voorbehouden aan de directeur Toezicht.
 
 ##### Artikel 9. Verantwoordelijkheden directeur Opsporing
 
@@ -282,7 +286,7 @@ De directeur Meldingen en Verzoeken is verantwoordelijk voor:
 
 2. Aan elke directeur wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten over, het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op:
 
-- a. de in [artikel 5, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&paragraaf=3&artikel=5&z=2023-09-01&g=2023-09-01), genoemde personeelsaangelegenheden;
+- a. de in [artikel 5, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&paragraaf=3&artikel=5&z=2024-03-19&g=2024-03-19), genoemde personeelsaangelegenheden;
 
 - b. de behandeling van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:1), voor zover deze klachten betrekking hebben op gedragingen van de onder elk van hen ressorterende functionarissen.
 
@@ -344,7 +348,7 @@ De volgende bevoegdheden zijn voorbehouden aan de inspecteur-generaal:
 
 1. Het [Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal SZW 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030867) wordt ingetrokken.
 
-2. Na de inwerkingtreding van dit besluit berust het [Organisatie-, mandaat- en volmachtbesluit directie Opsporing 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031933) op de [artikelen 5, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&paragraaf=3&artikel=5&z=2023-09-01&g=2023-09-01), en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&paragraaf=4&artikel=12&z=2023-09-01&g=2023-09-01) van deze regeling.
+2. Na de inwerkingtreding van dit besluit berust het [Organisatie-, mandaat- en volmachtbesluit directie Opsporing 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031933) op de [artikelen 5, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&paragraaf=3&artikel=5&z=2024-03-19&g=2024-03-19), en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&paragraaf=4&artikel=12&z=2024-03-19&g=2024-03-19) van deze regeling.
 
 ##### Artikel 14. Inwerkingtreding
 
