@@ -4,7 +4,7 @@ identifier: "BWBR0046804"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-27"
-last_updated: "2023-09-01"
+last_updated: "2024-03-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046804"
 soort: "ministeriele-regeling"
@@ -242,7 +242,7 @@ De afdeling I-Regie is verantwoordelijk voor:
 
 De afdelingshoofden zijn binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vastgestelde financiële kaders gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst betreffende:
 
-- a. het opleiden van medewerkers van de eigen afdeling binnen de kaders van het door het IG-team goedgekeurde opleidingsplan;
+- a. het opleiden van medewerkers van de eigen afdeling binnen de kaders van het door het Directieteam goedgekeurde opleidingsplan;
 
 - b. activiteiten ten behoeve van sociale en functionele cohesie, representatieve aangelegenheden, vergaderingen en recepties voor de eigen afdeling.
 
