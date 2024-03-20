@@ -4,7 +4,7 @@ identifier: "BWBR0049472"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-05-15"
-last_updated: "2024-03-09"
+last_updated: "2024-03-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049472"
 soort: "ministeriele-regeling"
@@ -48,19 +48,19 @@ Aan de algemeen directeur van het Centraal Justitieel Incassobureau wordt mandaa
 
 ##### Artikel 3
 
-Dit onderdeel is nog niet inwerking getreden
+Aan de Inspecteur Generaal van de Rijksinspectie Digitale Infrastructuur wordt mandaat verleend om per geval of in het algemeen instructies te geven ter zake van de uitoefening van de bij of krachtens dit besluit aan de algemeen directeur van het Centraal Justitieel Incassobureau toekomende bevoegdheden.
 
 ##### Artikel 4
 
-Dit onderdeel is nog niet inwerking getreden
+De uit dit besluit voor de algemeen directeur van het Centraal Justitieel Incassobureau voortvloeiende bevoegdheden gaan in geval van afwezigheid over op zijn plaatsvervanger.
 
 ##### Artikel 5
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
 ##### Artikel 6
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit wordt aangehaald als: Besluit mandaat algemeen directeur CJIB ten behoeve van RDI.
 
 Gelet op de [artikelen 10:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), en [10:9 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:9);
 
