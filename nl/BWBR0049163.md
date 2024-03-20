@@ -4,7 +4,7 @@ identifier: "BWBR0049163"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-03-20"
-last_updated: "2024-01-01"
+last_updated: "2024-03-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049163"
 soort: "ministeriele-regeling"
@@ -54,11 +54,7 @@ BESLUITEN:
 
 - –. de [Wet explosieven voor civiel gebruik](https://wetten.overheid.nl/jci1.3:c:BWBR0006803);
 
-- –. de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) voor zover het betreft:
-
-- a. gevaarlijke afvalstoffen;
-
-- b. hetgeen bepaald is bij of krachtens de [titels 9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&titeldeel=9.2), [9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&titeldeel=9.3), [9.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&titeldeel=9.3a), [11A.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&titeldeel=11a.1) en [paragraaf 10.6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&paragraaf=10.6.3);
+- –. de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245);
 
 - –. de EG-verordening indeling, etikettering en verpakking van stoffen en mengsels;
 
@@ -72,7 +68,7 @@ BESLUITEN:
 
 - –. de [artikelen 15.41](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.41) en [21.1, eerste lid, Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=21.1);
 
-- c. aangewezen als ambtenaar ten aanzien van wie, in geval van levering van leidingwater door een collectieve watervoorziening of een collectief leidingnet, het ten aanzien van de inspecteur in de [artikelen 35, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=35), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=36), [37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=37), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=49), [51](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=51) en [52 van de Drinkwaterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=52) bepaalde van toepassing is, met uitzondering van de gevallen, bedoeld in [artikel 5, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0049163&artikel=5&z=2024-01-01&g=2024-01-01), van dit besluit.
+- c. aangewezen als ambtenaar ten aanzien van wie, in geval van levering van leidingwater door een collectieve watervoorziening of een collectief leidingnet, het ten aanzien van de inspecteur in de [artikelen 35, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=35), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=36), [37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=37), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=49), [51](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=51) en [52 van de Drinkwaterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=52) bepaalde van toepassing is, met uitzondering van de gevallen, bedoeld in [artikel 5, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0049163&artikel=5&z=2024-03-20&g=2024-03-20), van dit besluit.
 
 2. Ambtenaren van de Inspectie Leefomgeving en Transport worden ten aanzien van milieubelastende activiteiten op aangewezen terreinen op grond van de [artikelen 2.6 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=2.6), [artikel 4.11 van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=4.11) en [artikel 5.150 van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.150), uitsluitend belast met het toezicht op de naleving van het bepaalde bij of krachtens:
 
