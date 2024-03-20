@@ -4,7 +4,7 @@ identifier: "BWBR0026019"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-03-20"
-last_updated: "2023-04-01"
+last_updated: "2024-03-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026019"
 soort: "ministeriele-regeling"
@@ -46,11 +46,13 @@ In dit besluit wordt verstaan onder:
 
 - a. **wet:** de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682);
 
-- b. **minister:** de Minister van Onderwijs, Cultuur en Wetenschap en, voor zover het opleidingen op het gebied van landbouw en natuurlijke omgeving betreft, de Minister van Landbouw, Natuur en Voedselkwaliteit;
+- b. **minister:** de Minister van Onderwijs, Cultuur en Wetenschap;
 
-- c. **commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026019&artikel=2&z=2024-03-20&g=2023-04-01);
+- c. **commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026019&artikel=2&z=2024-03-20&g=2024-03-20);
 
-- d. **NVAO:** de Nederlands-Vlaamse Accreditatieorganisatie.
+- d. **NVAO:** de Nederlands-Vlaamse Accreditatieorganisatie;
+
+- e. **RIO:** de Registratie instellingen en opleidingen als bedoeld in [artikel 6.13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13).
 
 ##### Artikel 2. Instelling
 
@@ -60,25 +62,23 @@ Er is een Commissie Doelmatigheid Hoger Onderwijs.
 
 De commissie heeft tot taak:
 
-- 1. Het op grond van de [artikelen 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.2), [7.3a, tweede lid onder b en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3a), en [7.17, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.17) beoordelen van aanvragen macrodoelmatigheid hoger onderwijs over te verzorgen nieuwe opleidingen, de vestiging of de verplaatsing van een opleiding of een gedeelte van een opleiding naar een andere gemeente dan die waar de opleiding blijkens het Centraal register hoger onderwijs (Croho) is gevestigd of de samenvoeging van bestaande opleidingen.
+- 1. Het op grond van de [artikelen 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.2) en [7.17, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.17) beoordelen van aanvragen macrodoelmatigheid hoger onderwijs over te verzorgen nieuwe opleidingen, het samenvoegen van bestaande opleidingen, het gezamenlijk verzorgen van een opleiding als bedoeld in [artikel 7.3c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3c), de nevenvestiging of de verplaatsing van een opleiding of een gedeelte van een opleiding naar een andere gemeente dan die waar de opleiding blijkens de RIO is gevestigd.
 
-- 2. Het uitbrengen van een advies over de onder a bedoelde beoordelingen aan de minister. De commissie beoordeelt de aanvragen aan de hand van het door de minister in de Beleidsregel doelmatigheid hoger onderwijs vastgestelde beoordelingskader.
+- 2. Het uitbrengen van een advies over de onder a bedoelde beoordelingen aan de Minister.
 
-- 3. Het desgevraagd uitbrengen van advies aan de minister in het kader van besluitvorming over het ontnemen van de rechten aan een opleiding op grond van [artikel 6.5, eerste lid onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.5) en het opheffen van een vestigingsplaats van een opleiding op grond van [artikel 7.17a, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.17a).
-
-- 4. Het uitbrengen van advies aan de Minister over aanvragen gedaan op grond van [artikel 16.16b van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=16.16b). De commissie beoordeelt een aanvraag als bedoeld in de vorige volzin aan de hand van de toetscriteria, genoemd in [hoofdstuk 3, paragraaf 2, van de Regeling en beleidsregels fusietoets in het onderwijs 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039819&paragraaf=2).
-
-- 5. Het uitbrengen van advies aan de Minister overeenkomstig het vierde lid in geval van intersectorale bestuurlijke fusie door rechtspersonen in het voortgezet onderwijs of rechtspersonen in het beroepsonderwijs en volwasseneneducatie en rechtspersonen in het hoger onderwijs.
+- 3. Het desgevraagd uitbrengen van advies aan de Minister in het kader van besluitvorming over het ontnemen van de rechten aan een opleiding op grond van [artikel 6.5, eerste lid onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.5) en het opheffen van een vestigingsplaats van een opleiding op grond van [artikel 7.17a, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.17a).
 
 ##### Artikel 4. Instelling
 
 1. De commissie wordt ingesteld met ingang van 1 juli 2009.
 
-2. Aan de commissie worden aanvragen als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026019&artikel=3&z=2024-03-20&g=2023-04-01), ter beoordeling en advisering voorgelegd die zijn ingediend vanaf de datum dat de commissie is ingesteld.
+2. Aan de commissie worden aanvragen als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026019&artikel=3&z=2024-03-20&g=2024-03-20), ter beoordeling en advisering voorgelegd die zijn ingediend vanaf de datum dat de commissie is ingesteld.
 
 ##### Artikel 5. Lidmaatschap
 
-De leden van de commissie worden door de minister benoemd en ontslagen. De leden worden benoemd voor een periode van ten hoogste vier jaar. Zij zijn slechts eenmaal herbenoembaar.
+1. De leden van de commissie worden door de minister benoemd en ontslagen. De leden worden benoemd voor een periode van ten hoogste vier jaar. Zij zijn slechts eenmaal herbenoembaar.
+
+2. De leden worden door de Minister benoemd voor een periode van ten hoogste vier jaar. Zij zijn in beginsel eenmaal herbenoembaar voor een periode van ten hoogte vier jaar, behoudens uitzonderingsgevallen waarbij zij voor een tweede maal herbenoembaar zijn voor een periode van ten hoogste van vier jaar.
 
 ##### Artikel 6. Leden
 
@@ -106,7 +106,7 @@ Vervallen
 
 ##### Artikel 8. (administratieve) ondersteuning
 
-De minister voorziet in het secretariaat van de commissie en treft voorzieningen op het gebied van logistiek, financiën en personeel. Het secretariaat en het personeel worden ondergebracht bij de NVAO.
+De Minister voorziet in het secretariaat van de commissie en treft voorzieningen op het gebied van logistiek, financiën en personeel. Het secretariaat wordt ondergebracht bij de NVAO.
 
 ##### Artikel 9. Kosten van de commissie en vergoeding
 
@@ -116,9 +116,9 @@ De minister voorziet in het secretariaat van de commissie en treft voorzieningen
 
 - b. De kosten voor het secretariaat van de commissie.
 
-2. De voorzitter en de andere leden van de commissie ontvangen een vergoeding per maand. De toepasselijke salarisschaal voor de voorzitter en de andere leden is het maximum van schaal 18 van zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren. De arbeidsduurfactor voor de voorzitter en de andere leden is maximaal 0,24, respectievelijk 0,125.
+2. De voorzitter en de andere leden van de commissie ontvangen een vergoeding per maand, waarbij het salaris wordt vastgesteld op schaal 18 van paragraaf 6.3 van de CAO Rijk. De arbeidsduurfactor voor de voorzitter en de andere leden is maximaal 0,24, respectievelijk 0,125.
 
-3. De voorzitter en de andere leden van de commissie ontvangen een vergoeding van reis- en verblijfkosten overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren. Deze vergoeding wordt door het secretariaat van de commissie afgehandeld.
+3. De voorzitter en de andere leden van de commissie ontvangen een vergoeding van reis- en verblijfkosten op de voet van de regeling voor de ambtenaren die op grond van een arbeidsovereenkomst met de Staat werkzaam zijn. Deze vergoeding wordt door het secretariaat van de commissie afgehandeld.
 
 4. De NVAO treedt voor wat betreft de begroting en verantwoording op als penvoerder van de commissie.
 
@@ -146,11 +146,11 @@ De commissie verstrekt aan de minister desgevraagd alle door hem gewenste inlich
 
 ##### Artikel 12. Openbaarmaking
 
-Adviezen, rapporten, notities, verslagen en andere documenten welke door of namens de commissie worden vervaardigd, worden niet door de commissie openbaar gemaakt, maar uitsluitend aan de minister uitgebracht.
+Adviezen, rapporten, notities, verslagen en andere documenten welke door of namens de commissie worden vervaardigd, worden niet door de commissie openbaar gemaakt, maar uitsluitend aan de Minister uitgebracht, tenzij de Minister de commissie heeft gevraagd deze te publiceren.
 
 ##### Artikel 13. Archiefbescheiden
 
-De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden of, zo de omstandigheden daartoe aanleiding geven, zoveel eerder, de bescheiden betreffende die werkzaamheden over aan het archief van het Ministerie van Onderwijs, Cultuur en Wetenschap en waar het besluiten betreft over opleidingen op het gebied van landbouw en natuurlijke omgeving van de Minister van Landbouw, Natuur en Voedselkwaliteit aan het archief van het Ministerie van Landbouw, Natuur en Voedselkwaliteit.
+De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden of, zo de omstandigheden daartoe aanleiding geven, zoveel eerder, de bescheiden betreffende die werkzaamheden over aan het archief van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
 ##### Artikel 14. Bekendmaking instelling commissie
 
