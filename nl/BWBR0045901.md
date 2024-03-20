@@ -4,7 +4,7 @@ identifier: "BWBR0045901"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-22"
-last_updated: "2024-01-11"
+last_updated: "2024-03-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045901"
 soort: "ministeriele-regeling"
@@ -69,9 +69,33 @@ Met ingang van 1 november 2023 is voor de duur van de adviescommissie tot lid be
 
 ### Artikel 2
 
+Met ingang van 1 april 2024 is voor de duur van de commissie tot lid benoemd:
+
 De leden van de Bezwaarschriftenadviescommissie ontvangen een vaste vergoeding per maand. De salarisschaal is vastgesteld op schaal 18 van paragraaf 6.3 van de laatst afgesloten CAO Rijk.
 
 De leden van de Bezwaarschriftenadviescommissie ontvangen een vaste vergoeding per maand. De salarisschaal is vastgesteld op schaal 18 van paragraaf 6.3 van de laatst afgesloten CAO Rijk.
+
+### 3. Ingetrokken besluit
+
+De deeltijdfactor van de andere leden is 0,2. In afwijking van de vorige zin:
+
+De commissie die is ingesteld met het [Instellingsbesluit Bezwaarschriftenadviescommissie CAF 11](https://wetten.overheid.nl/jci1.3:c:BWBR0043636) en vergelijkbare (CAF)zaken en hardheid van het toeslagenstelsel3Besluit van 29 mei 2020, nr. 2020-100631, wordt geacht dezelfde commissie te zijn als de commissie die met de [Instellingsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045876) is ingesteld.
+
+### 4. Inwerkingtreding en vervaldatum
+
+Gelet op de terugwerkende kracht van de [Instellingsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045876) is het [Instellingsbesluit Bezwaarschriftenadviescommissie CAF 11](https://wetten.overheid.nl/jci1.3:c:BWBR0043636) en vergelijkbare (CAF)zaken en hardheid van het toeslagenstelsel, ingetrokken per 7 juli 2020.
+
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 7 juli 2020.
+
+### 5. Citeertitel
+
+Dit besluit vervalt met ingang van de datum waarop de [Instellingsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045876) vervalt of wordt ingetrokken.4Zie artikel 10 Instellingsregeling
+
+Dit besluit wordt aangehaald als: Besluit benoeming en vergoeding leden Bezwaarschriftenadviescommissie hersteloperatie toeslagen.
+
+Met ingang van 1 januari 2024 zijn voor de duur van de commissie tot lid benoemd:
+
+### Artikel 2
 
 De deeltijdfactor van de voorzitters is 0,4. In afwijking van de vorige volzin is de deeltijdfactor tot 1 november 2020 0,3. In afwijking van de voorgaande twee zinnen is de deeltijdfactor van de heer mr. H.H.C. Visser 0,6 vanaf 1 december 2021 en 0,8 vanaf 1 maart 2022.
 
@@ -79,11 +103,7 @@ De deeltijdfactor van de voorzitters is 0,4. In afwijking van de vorige volzin i
 
 De commissie die is ingesteld met het [Instellingsbesluit Bezwaarschriftenadviescommissie CAF 11](https://wetten.overheid.nl/jci1.3:c:BWBR0043636) en vergelijkbare (CAF)zaken en hardheid van het toeslagenstelsel3Besluit van 29 mei 2020, nr. 2020-100631, wordt geacht dezelfde commissie te zijn als de commissie die met de [Instellingsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045876) is ingesteld.
 
-De commissie die is ingesteld met het [Instellingsbesluit Bezwaarschriftenadviescommissie CAF 11](https://wetten.overheid.nl/jci1.3:c:BWBR0043636) en vergelijkbare (CAF)zaken en hardheid van het toeslagenstelsel3Besluit van 29 mei 2020, nr. 2020-100631, wordt geacht dezelfde commissie te zijn als de commissie die met de [Instellingsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045876) is ingesteld.
-
 ### 4. Inwerkingtreding en vervaldatum
-
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 7 juli 2020.
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 7 juli 2020.
 
@@ -91,21 +111,11 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit wordt aangehaald als: Besluit benoeming en vergoeding leden Bezwaarschriftenadviescommissie hersteloperatie toeslagen.
 
-Dit besluit wordt aangehaald als: Besluit benoeming en vergoeding leden Bezwaarschriftenadviescommissie hersteloperatie toeslagen.
-
-Met ingang van 1 januari 2024 zijn tot lid benoemd:
-
 ### Artikel 2
-
-De deeltijdfactor van de andere leden is 0,2. In afwijking van de vorige zin:
 
 ### 3. Ingetrokken besluit
 
-Gelet op de terugwerkende kracht van de [Instellingsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045876) is het [Instellingsbesluit Bezwaarschriftenadviescommissie CAF 11](https://wetten.overheid.nl/jci1.3:c:BWBR0043636) en vergelijkbare (CAF)zaken en hardheid van het toeslagenstelsel, ingetrokken per 7 juli 2020.
-
 ### 4. Inwerkingtreding en vervaldatum
-
-Dit besluit vervalt met ingang van de datum waarop de [Instellingsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045876) vervalt of wordt ingetrokken.4Zie artikel 10 Instellingsregeling
 
 ### 5. Citeertitel
 
