@@ -263,33 +263,3 @@ De minister kan een of meer bepalingen van deze regeling in bijzondere gevallen 
 Deze regeling wordt aangehaald als: Subsidieregeling praktijkgericht vak gl en tl.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 6a. Subsidieplafonds schooljaren 2025–2028
-
-Voor subsidieverstrekking op grond van deze regeling is:
-
-- a. voor de schooljaren 2025–2026 en 2026–2027 in totaal een bedrag beschikbaar van € 10.500.000; en
-
-- b. voor de schooljaren 2026–2027 en 2027–2028 in totaal een bedrag beschikbaar van € 11.638.000.
-
-#### § 2. Subsidie pilotscholen
-
-#### § 3. Subsidie overige scholen
-
-### Hoofdstuk 3. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 19a. Verhoging subsidiebedrag scholen voor vso 2024
-
-1. De Minister kent aan het bevoegd gezag van een vestiging voor voortgezet speciaal onderwijs als bedoeld in [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1), waaraan in 2024 subsidie is verstrekt als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049480&hoofdstuk=2&paragraaf=1&artikel=3&z=2024-12-17&g=2024-12-17), voor een praktijkgericht vak in de gemengde leerweg, uiterlijk op 1 februari 2025 een aanvullend subsidiebedrag toe. De Minister vertrekt het aanvullende subsidiebedrag door ambtshalve wijziging van de subsidiebeschikking waarbij de aanvankelijke subsidie werd toegekend.
-
-2. Het aanvullende subsidiebedrag bedraagt € 50.000 per vestiging van een school voor voortgezet speciaal onderwijs als bedoeld in [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1), waarvoor in 2024 subsidie is verstrekt als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049480&hoofdstuk=2&paragraaf=1&artikel=3&z=2024-12-17&g=2024-12-17), voor een praktijkgericht vak in de gemengde leerweg.
-
-3. De Minister bepaalt in de wijziging van de subsidiebeschikking, bedoeld in het eerste lid, het betaalritme van het aanvullende subsidiebedrag.
-
-4. Ten aanzien van het aanvullende subsidiebedrag is het bepaalde in de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049480&hoofdstuk=2&paragraaf=1&artikel=3&z=2024-12-17&g=2024-12-17), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0049480&hoofdstuk=2&paragraaf=3&artikel=14&z=2024-12-17&g=2024-12-17), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0049480&hoofdstuk=2&paragraaf=3&artikel=17&z=2024-12-17&g=2024-12-17) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0049480&hoofdstuk=2&paragraaf=3&artikel=18&z=2024-12-17&g=2024-12-17) onverkort van toepassing.
-
-5. [Artikel 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0049480&hoofdstuk=2&paragraaf=1&artikel=6a&z=2024-12-17&g=2024-12-17) is ten aanzien van dit artikel niet van toepassing.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
