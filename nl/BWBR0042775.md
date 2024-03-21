@@ -4,7 +4,7 @@ identifier: "BWBR0042775"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-03-21"
-last_updated: "2023-09-01"
+last_updated: "2024-03-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042775"
 soort: "ministeriele-regeling"
@@ -100,7 +100,7 @@ De afdelingshoofden zijn verantwoordelijk voor de volgende taken:
 
 - b. het afleggen van verantwoording en het rapporteren aan de directeur over bijdragen van de eigen directie aan de uitvoering van het jaarplan van de Nederlandse Arbeidsinspectie;
 
-- c. het doen van voorstellen aan het IG-team met betrekking tot het aantrekken en ontslaan van personeel;
+- c. het doen van voorstellen aan het Directieteam met betrekking tot het aantrekken en ontslaan van personeel;
 
 - d. het bijdragen aan de totstandkoming van producten van de Nederlandse Arbeidsinspectie als bedoeld in [artikel 6, eerste lid, onderdelen a, e, f, g, i en s, van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal Nederlandse Arbeidsinspectie 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=6), binnen de daarvoor geldende departementale kaders dan wel volgens door de inspecteur-generaal dan wel de directeur gegeven richtlijnen;
 
@@ -228,7 +228,7 @@ Aan het hoofd van de afdeling Opsporingsondersteuning wordt mandaat en machtigin
 
 De afdelingshoofden zijn binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vastgestelde financiële kaders gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst betreffende:
 
-- a. het opleiden van medewerkers van de eigen afdeling binnen de kaders van het door het IG-team goedgekeurde opleidingsplan;
+- a. het opleiden van medewerkers van de eigen afdeling binnen de kaders van het door het Directieteam goedgekeurde opleidingsplan;
 
 - b. activiteiten ten behoeve van sociale en functionele cohesie, representatieve aangelegenheden, vergaderingen en recepties voor de eigen afdeling;
 
