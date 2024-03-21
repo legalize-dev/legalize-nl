@@ -4,7 +4,7 @@ identifier: "BWBR0039964"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-30"
-last_updated: "2023-09-01"
+last_updated: "2024-03-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039964"
 soort: "ministeriele-regeling"
@@ -90,7 +90,7 @@ In deze regeling en de daarop rustende bepalingen wordt verstaan onder:
 
 - c. de afdeling COM;
 
-- d. de afdeling HH, waarbinnen teams zijn ingericht;
+- d. de afdeling HH, waarbinnen meerdere teams zijn ingericht;
 
 - e. de afdeling PCF, waarbinnen de volgende teams zijn ingericht:
 
@@ -168,7 +168,7 @@ De afdeling PSO is verantwoordelijk voor de volgende taken:
 
 - j. het in samenwerking met de overige directies bijdragen aan de Integrale Rapportage Handhaving van het ministerie over de realisatie van de afspraken uit het handhavingsarrangement, genoemd in [artikel 11 van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=11);
 
-- k. het op aanvraag van het IG-team verrichten van het programma- en projectmanagement op de inhoudelijke thema’s en onderwerpen uit de programmering van de Nederlandse Arbeidsinspectie.
+- k. het op aanvraag van het Directieteam verrichten van het programma- en projectmanagement op de inhoudelijke thema’s en onderwerpen uit de programmering van de Nederlandse Arbeidsinspectie.
 
 ##### Artikel 5. Verantwoordelijkheden afdeling BO
 
@@ -178,7 +178,7 @@ De afdeling BO is verantwoordelijk voor de volgende taken:
 
 - b. het faciliteren van het signaleringsproces binnen de gehele Nederlandse Arbeidsinspectie;
 
-- c. het verzorgen van de inhoudelijke ondersteuning met betrekking tot voorbereiding van overleg met interne en externe stakeholders ten behoeve van de inspecteur-generaal en de directeuren indien zij de inspecteur-generaal vervangen, het beantwoorden van vragen van het parlement, het voeren van het secretariaat van het besluitvormend overleg van het IG-team en het verzorgen van de inhoudelijke ondersteuning ten behoeve van de bewindspersonen;
+- c. het verzorgen van de inhoudelijke ondersteuning met betrekking tot voorbereiding van overleg met interne en externe stakeholders ten behoeve van de inspecteur-generaal en de directeuren indien zij de inspecteur-generaal vervangen, het beantwoorden van vragen van het parlement, het voeren van het secretariaat van het besluitvormend overleg van het Directieteam en het verzorgen van de inhoudelijke ondersteuning ten behoeve van de bewindspersonen;
 
 - d. het in samenwerking met de overige directies fungeren als verbinding tussen de Nederlandse Arbeidsinspectie en de overige onderdelen van het ministerie, andere inspectiediensten, uitvoeringsorganisaties, gemeenten en andere voor de Nederlandse Arbeidsinspectie relevante organisaties, tenzij een andere afdeling van de Nederlandse Arbeidsinspectie op een specifiek terrein fungeert als verbinding als bedoeld in de eerste volzin;
 
@@ -188,7 +188,9 @@ De afdeling BO is verantwoordelijk voor de volgende taken:
 
 - g. het in samenwerking met de overige directies coördineren en opstellen van het handhavingsarrangement, genoemd in [artikel 11 van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=11);
 
-- h. de regie op de calamiteitenorganisatie.
+- h. de regie op de calamiteitenorganisatie;
+
+- i. het tot stand brengen en onderhouden van convenanten en samenwerkingsovereenkomsten.
 
 ##### Artikel 6. Verantwoordelijkheden afdeling COM
 
@@ -220,11 +222,11 @@ De afdeling HH is verantwoordelijk voor:
 
 - e. het bijdragen aan adviezen aan beleidsdirecties van het kerndepartement van knelpunten in de vigerende wetgeving;
 
-- f. het beheren van de informatie, in het bijzonder betreffende handhaving, in de kennisbanken in het systeem DIWI (Digitaal Werken bij de Inspectie) en in de Recherchewerkwijzer in de zogenaamde “rode omgeving”;
+- f. het beheren van de informatie, in het bijzonder betreffende handhaving, in de kennisbanken;
 
 - g. het op instigatie van een dienstonderdeel van de Nederlandse Arbeidsinspectie actualiseren van organisatie-, mandaat- en volmachtbesluiten van de Nederlandse Arbeidsinspectie;
 
-- h. het tot stand brengen en onderhouden van convenanten.
+- h. het leveren van juridische bijstand bij het tot stand brengen en onderhouden van convenanten en samenwerkingsovereenkomsten.
 
 ##### Artikel 8. Verantwoordelijkheden afdeling BDI
 
@@ -264,7 +266,7 @@ Het hoofd en de teamleiders van de afdeling BDI zijn bevoegd om namens een bewin
 
 De afdelingshoofden zijn binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vastgestelde financiële kaders gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst betreffende:
 
-- a. het opleiden van medewerkers van de eigen afdeling binnen de kaders van het door het IG-team goedgekeurde opleidingsplan;
+- a. het opleiden van medewerkers van de eigen afdeling binnen de kaders van het door het Directieteam goedgekeurde opleidingsplan;
 
 - b. activiteiten ten behoeve van sociale en functionele cohesie, representatieve aangelegenheden, vergaderingen en recepties voor de eigen afdeling.
 
