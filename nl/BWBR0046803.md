@@ -4,7 +4,7 @@ identifier: "BWBR0046803"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-11"
-last_updated: "2023-09-01"
+last_updated: "2024-03-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046803"
 soort: "ministeriele-regeling"
@@ -344,7 +344,7 @@ De onder de directeur Meldingen en Verzoeken ressorterende ambtenaren, belast me
 
 De afdelingshoofden en vakgroephoofden zijn binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vastgestelde financiële kaders gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst betreffende:
 
-- a. het opleiden van medewerkers van de eigen afdeling binnen de kaders van het door het IG-team goedgekeurde opleidingsplan;
+- a. het opleiden van medewerkers van de eigen afdeling binnen de kaders van het door het Directieteam goedgekeurde opleidingsplan;
 
 - b. activiteiten ten behoeve van sociale en functionele cohesie, representatieve aangelegenheden, vergaderingen en recepties voor de eigen afdeling.
 
