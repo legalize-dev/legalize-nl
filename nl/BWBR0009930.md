@@ -4,7 +4,7 @@ identifier: "BWBR0009930"
 country: "nl"
 rank: "wet"
 publication_date: "2024-03-25"
-last_updated: "1998-10-23"
+last_updated: "2024-03-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009930"
 soort: "wet"
@@ -50,9 +50,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. In deze wet wordt verstaan onder:
 
-- a. Onze Minister: Onze Minister van Verkeer en Waterstaat;
+- a. Onze Minister: Onze Minister van Infrastructuur en Waterstaat;
 
-- b. de NV: de naamloze vennootschap, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009930&paragraaf=2&artikel=2&z=1998-10-23&g=1998-10-23);
+- b. de NV: de naamloze vennootschap, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009930&paragraaf=2&artikel=2&z=2024-03-25&g=2024-03-25);
 
 - c. de exploitant: de NV, of de rechtspersoon met wie de NV is overeengekomen dat die rechtspersoon de tunnel met aansluitende wegen en bijbehorende werken, of een deel ervan, zal exploiteren.
 
@@ -76,19 +76,21 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. Met ingang van de datum, bedoeld in het eerste lid, berust bij het Rijk het toezicht op het in goede staat verkeren van die wegen.
 
-4. Waar in de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622) en de daarop berustende bepalingen voor wegen onder beheer van het Rijk de minister van Verkeer en Waterstaat als bevoegd gezag wordt aangewezen, is in afwijking daarvan voor de wegen, bedoeld in het eerste lid, het college van gedeputeerde staten bevoegd, met dien verstande dat bij algemene maatregel van bestuur kan worden bepaald dat dit lid vervalt.
+4. Waar in de [Wegenverkeerswet 1994](onbekend) en de daarop berustende bepalingen voor wegen onder beheer van het Rijk de Minister van Infrastructuur en Waterstaat als bevoegd gezag wordt aangewezen, is in afwijking daarvan voor de wegen, bedoeld in het eerste lid, het college van gedeputeerde staten bevoegd, met dien verstande dat bij algemene maatregel van bestuur kan worden bepaald dat dit lid vervalt.
 
 5. De bevoegdheid krachtens [artikel 38 van de Waterstaatswet 1900](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&artikel=38) tot het geven van bevelen tot de uitvoering van noodzakelijke waterstaatswerken en voorzieningen komt wat de Westerscheldetunnel, de wegen door de tunnel en de aansluitende wegen betreft toe aan Onze Minister.
 
 ##### Artikel 4
 
-1. Met ingang van de datum, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009930&paragraaf=3&artikel=3&z=1998-10-23&g=1998-10-23), doet de exploitant aan een ieder die met een motorrijtuig, onderscheidenlijk een voertuig dat door een motorrijtuig wordt voortbewogen, gebruik wil maken van een weg door de tunnel, een aanbod tot het sluiten van een overeenkomst, houdende het gebruik van de weg door de tunnel.
+1. Met ingang van de datum, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009930&paragraaf=3&artikel=3&z=2024-03-25&g=2024-03-25), doet de exploitant aan een ieder die met een motorrijtuig, onderscheidenlijk een voertuig dat door een motorrijtuig wordt voortbewogen, gebruik wil maken van een weg door de tunnel, een aanbod tot het sluiten van een overeenkomst, houdende het gebruik van de weg door de tunnel.
 
 2. In afwijking van [artikel 14 van de Wegenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&artikel=14) is de exploitant bevoegd:
 
 - a. het gebruik van de wegen door de tunnel te ontzeggen aan degene die met hem geen overeenkomst sluit over het gebruik;
 
 - b. voorzieningen op de aansluitende wegen aan te brengen die tot doel hebben voor degene die de overeenkomst niet sluit, of niet nakomt, de verdere doorgang onmogelijk te maken.
+
+3. De exploitant benadeelt niet-reguliere gebruikers van de tunnel niet op ongerechtvaardigde wijze bij de toepassing van het eerste en tweede lid.
 
 #### § 4. Tarieven
 
@@ -99,6 +101,8 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 2. De tarieven kennen een referentietarief zijnde de hoogte van de vergoeding voor het gebruik van een weg door de tunnel met een personenauto in de periode dat geen bijzondere verhogingen van toepassing zijn.
 
 3. De tarieven kennen geen tarief waarvan de hoogte wordt bepaald naar gelang het aantal inzittenden.
+
+4. De exploitant maakt bij het heffen van het toltarief geen direct of indirect onderscheid als bedoeld in artikel 7, vijfde lid, van [Richtlijn 99/62/EG](31999L0062) van het Europees Parlement en de Raad van 17 juni 1999 betreffende het in rekening brengen van het gebruik van bepaalde infrastructuurvoorzieningen aan zware vrachtvoertuigen (PbEG 1999, L 187) op grond van de nationaliteit van de weggebruiker, de lidstaat of het derde land waar de vervoerder gevestigd is, de lidstaat of het derde land waar het voertuig geregistreerd is, of de herkomst of de bestemming van het vervoer.
 
 ##### Artikel 6
 
@@ -112,7 +116,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 7
 
-Het referentietarief mag over een periode van twaalf maanden ten hoogste worden verhoogd met 10% gedurende de eerste twee jaar met ingang van de datum, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009930&paragraaf=3&artikel=3&z=1998-10-23&g=1998-10-23), 8% gedurende het derde en het vierde jaar na bedoelde datum, 6% gedurende het vijfde en het zesde jaar na bedoelde datum en 4% gedurende het zevende jaar en de volgende jaren na bedoelde datum, telkens vermeerderd met de percentuele stijging van de prijzen bij het onderhoud van wegen met een gesloten verharding buiten de bebouwde kom over de jongste vergelijkbare periode.
+Het referentietarief mag over een periode van twaalf maanden ten hoogste worden verhoogd met 10% gedurende de eerste twee jaar met ingang van de datum, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009930&paragraaf=3&artikel=3&z=2024-03-25&g=2024-03-25), 8% gedurende het derde en het vierde jaar na bedoelde datum, 6% gedurende het vijfde en het zesde jaar na bedoelde datum en 4% gedurende het zevende jaar en de volgende jaren na bedoelde datum, telkens vermeerderd met de percentuele stijging van de prijzen bij het onderhoud van wegen met een gesloten verharding buiten de bebouwde kom over de jongste vergelijkbare periode.
 
 ##### Artikel 8
 
@@ -130,13 +134,13 @@ Geen vergoeding is verschuldigd voor het gebruik met motorrijtuigen:
 
 ##### Artikel 9
 
-1. Het referentietarief bedraagt op de datum, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009930&paragraaf=3&artikel=3&z=1998-10-23&g=1998-10-23), ten hoogste het bedrag dat bij regeling van Onze Minister is vastgesteld.
+1. Het referentietarief bedraagt op de datum, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009930&paragraaf=3&artikel=3&z=2024-03-25&g=2024-03-25), ten hoogste het bedrag dat bij regeling van Onze Minister is vastgesteld.
 
 2. De regeling, bedoeld in het eerste lid, treedt niet eerder in werking dan acht weken na de datum van bekendmaking in de Staatscourant. Van de bekendmaking wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal.
 
 ##### Artikel 10
 
-1. Deze wet vervalt met ingang van het eenendertigste jaar na de datum, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009930&paragraaf=3&artikel=3&z=1998-10-23&g=1998-10-23).
+1. Deze wet vervalt met ingang van het eenendertigste jaar na de datum, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009930&paragraaf=3&artikel=3&z=2024-03-25&g=2024-03-25).
 
 2. Indien de resultaten van de NV daartoe aanleiding geven, kan bij algemene maatregel van bestuur de werkingsduur van deze wet worden verlengd tot een totale periode van ten hoogste vijftig jaar.
 
