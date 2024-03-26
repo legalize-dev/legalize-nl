@@ -4,7 +4,7 @@ identifier: "BWBR0045053"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-06-05"
-last_updated: "2023-07-22"
+last_updated: "2024-03-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045053"
 soort: "ministeriele-regeling"
@@ -71,6 +71,7 @@ Als dierziekten als bedoeld in [artikel 5.3 van de wet](https://wetten.overheid.
 | apenpokken | zoogdieren (Mammalia), met uitzondering van herkauwers (Ruminantia), paarden (equidae) en varkens (Suidae) |
 | --- | --- |
 | aviaire chlamydiose | Vogels (Aves) met uitzondering van papegaaiachtigen (Psittaciformes) |
+| hoogpathogene avaire influenza | varkens (Suidae) |
 | Infectie met Echinoccus spp. | Zoogdieren (Mammalia), met uitzondering van infecties met Echinoccus multilocularis bij vleeseters (canidae) |
 | infectie met het nodulaire-dermatosevirus | schapen (Ovis) en geiten (Capra) |
 | infectie met Mycoplasma mycoides subsp. mycoides SC (besmettelijke runderpleuropneumonie) | schapen (Ovis) en geiten (Capra) |
@@ -165,7 +166,7 @@ De indeling, bedoeld in [artikel 4.2, tweede lid, van het besluit](https://wette
 
 - 4°. overige producten of voorwerpen.
 
-### Hoofdstuk 4. Financiële bepalingen
+### Hoofdstuk 3. Waardevaststelling bij ziektebestrijdingsmaatregelen
 
 #### § 4.1. Diergezondheidsheffing
 
@@ -181,7 +182,7 @@ Het aantal:
 
 dat in een kalenderjaar wordt gehouden, bedoeld in [artikel 9.18, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=9.18), wordt berekend door het aantal aanwezige dieren op 1 februari, 1 mei, 1 augustus en 1 november van dat kalenderjaar op te tellen en te delen door vier.
 
-#### § 4.2. Tegemoetkomingen
+#### § 4.1. Diergezondheidsheffing
 
 ##### Artikel 4.2. Verzorgingsvergoeding
 
@@ -229,11 +230,11 @@ dat in een kalenderjaar wordt gehouden, bedoeld in [artikel 9.18, eerste lid, va
 
 Als modellen als bedoeld in [artikel 2.3, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&artikel=2.3) worden aangewezen:
 
-- a. voor waarschuwingsborden, de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045053&bijlage=1&z=2023-07-22&g=2023-07-22) opgenomen modellen;
+- a. voor waarschuwingsborden, de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045053&bijlage=1&z=2024-03-26&g=2024-03-26) opgenomen modellen;
 
-- b. voor kentekenen, de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045053&bijlage=2&z=2023-07-22&g=2023-07-22) opgenomen modellen.
+- b. voor kentekenen, de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045053&bijlage=2&z=2024-03-26&g=2024-03-26) opgenomen modellen.
 
-### Hoofdstuk 6. Wijziging andere regelingen
+### Hoofdstuk 5. Waarschuwingsborden en kentekenen
 
 ##### Artikel 6.1. Wijziging [Regeling diergeneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0032626)
 
@@ -325,9 +326,9 @@ Blauw van kleur met een witte opdruk:
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 2.4. Aanwijzing vogelgriep bij zoogdieren als meldingsplichtige dierziekte
+##### Artikel 2.4. Aanwijzing vogelgriep bij zoogdieren met uitzondering van varkens als meldingsplichtige dierziekte
 
-1. Als dierziekte als bedoeld in [artikel 1.30, eerste lid, onderdeel b, van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.30) wordt aangewezen hoog pathogene aviaire influenza bij gehouden of in het wild levende zoogdieren.
+1. Als dierziekte als bedoeld in [artikel 1.30, eerste lid, onderdeel b, van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.30) wordt aangewezen hoog pathogene aviaire influenza bij gehouden of in het wild levende zoogdieren met uitzondering van varkens.
 
 2. Aan eenieder wordt vrijstelling verleend van de verplichting van melding, bedoeld in [artikel 1.30, eerste lid, aanhef en onderdeel b, van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.30) van de in het eerste lid aangewezen dierziekte voor zover sprake is van een vermoeden van besmetting.
 
@@ -345,7 +346,27 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 7. Slotbepalingen
 
-## Bijlage 2. Als bedoeld bij [artikel 5.2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045053&hoofdstuk=5&artikel=5.1&z=2023-07-22&g=2023-07-22)
+## Bijlage 1. Als bedoeld bij [artikel 5.1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045053&hoofdstuk=5&artikel=5.1&z=2024-03-26&g=2024-03-26)
+
+Wit van kleur met een rode rand en bedrukt met rode letters:
+
+Blauw van kleur met een witte opdruk:
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 2.5. Vrijstelling meldingsplicht vogelgriep bij varkens
+
+Aan eenieder wordt vrijstelling verleend van de verplichting van melding, bedoeld in [artikel 1.30, eerste lid, aanhef en onderdeel a, van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.30) van hoogpathogene avaire influenza bij varkens voor zover sprake is van een vermoeden van besmetting.
+
+### Hoofdstuk 4. Financiële bepalingen
+
+#### § 4.2. Tegemoetkomingen
+
+### Hoofdstuk 6. Wijziging andere regelingen
+
+### Hoofdstuk 7. Slotbepalingen
+
+## Bijlage 2. Als bedoeld bij [artikel 5.2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045053&hoofdstuk=5&artikel=5.1&z=2024-03-26&g=2024-03-26)
 
 Blauw van kleur en bedrukt met zwarte letters:
 
