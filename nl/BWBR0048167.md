@@ -4,7 +4,7 @@ identifier: "BWBR0048167"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-06"
-last_updated: "2023-07-01"
+last_updated: "2024-03-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048167"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **DigiD Machtigen, MijnOverheid:** hetgeen onder deze voorzieningen wordt verstaan in het Besluit digitale overheid;
 
-- –. **DigiD-voorziening:** de voorziening voor uitgifte of activatie van publieke identificatiemiddelen, waarbij onderscheiden kan worden tussen de betrouwbaarheidsniveaus laag, substantieel en hoog, en die bereikbaar is via het webadres [www.digid.nl](onbekend);
+- –. **DigiD-voorziening:** de voorziening voor uitgifte of activatie van publieke identificatiemiddelen, waarbij onderscheiden kan worden tussen de betrouwbaarheidsniveaus laag, substantieel en hoog, en die bereikbaar is via het webadres [www.digid.nl](http://www.digid.nl);
 
 - –. **gebruiker:** een natuurlijk persoon die DigiD, DigiD Machtigen of MijnOverheid gebruikt;
 
@@ -68,7 +68,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Onderbreking toegang en informatieverschaffing
 
-De Minister kan zonder voorafgaande bekendmaking de toegang tot of de beschikbaarheid van DigiD, DigiD Machtigen en MijnOverheid onderbreken, indien sprake is van een storing of aantasting van de betrouwbaarheid van de voorziening, misbruik of oneigenlijk gebruik of een beveiligingsincident. Indien mogelijk wordt voorafgaand informatie verstrekt over de aard en verwachte duur van de onderbreking via [www.digid.nl](onbekend), [www.machtigen.digid.nl](onbekend) respectievelijk [www.mijnoverheid.nl](onbekend).
+De Minister kan zonder voorafgaande bekendmaking de toegang tot of de beschikbaarheid van DigiD, DigiD Machtigen en MijnOverheid onderbreken, indien sprake is van een storing of aantasting van de betrouwbaarheid van de voorziening, misbruik of oneigenlijk gebruik of een beveiligingsincident. Indien mogelijk wordt voorafgaand informatie verstrekt over de aard en verwachte duur van de onderbreking via [www.digid.nl](http://www.digid.nl/), [www.machtigen.digid.nl](http://www.machtigen.digid.nl/) respectievelijk [www.mijnoverheid.nl](http://www.mijnoverheid.nl/).
 
 ### Hoofdstuk 2. Voorzieningen voor identificatiemiddelen
 
@@ -76,9 +76,9 @@ De Minister kan zonder voorafgaande bekendmaking de toegang tot of de beschikbaa
 
 1. Een rechthebbende kan, als beoogde gebruiker, DigiD aanvragen. Dit geschiedt op de volgende manier:
 
-- a. Een aanvraag voor DigiD op betrouwbaarheidsniveau laag geschiedt via [www.digid.nl](onbekend) of, indien het tweede lid, onder c, van toepassing is, via [www.svb.nl](onbekend).
+- a. Een aanvraag voor DigiD op betrouwbaarheidsniveau laag geschiedt via [www.digid.nl](http://www.digid.nl) of via [www.svb.nl](http://www.svb.nl) indien het tweede lid, onder b, van toepassing is en de beoogde gebruiker een AOW-pensioen ontvangt en klant is van de Sociale Verzekeringsbank.
 
-- b. Een aanvraag voor DigiD op betrouwbaarheidsniveau substantieel geschiedt via [www.digid.nl](onbekend), via de DigiD app of, indien het tweede lid, onder c, van toepassing is, via [www.svb.nl](onbekend). De beoogde gebruiker gebruikt daarbij een apparaat dat digitaal met een document als bedoeld in het derde lid kan communiceren.
+- b. Een aanvraag voor DigiD op betrouwbaarheidsniveau substantieel geschiedt via [www.digid.nl](http://www.digid.nl/), via de DigiD app of via [www.svb.nl](http://www.svb.nl) indien het tweede lid, onder b, van toepassing is en de beoogde gebruiker een AOW-pensioen ontvangt en klant is van de Sociale Verzekeringsbank. De beoogde gebruiker gebruikt daarbij een apparaat dat digitaal met een document als bedoeld in het derde lid kan communiceren.
 
 - c. Een aanvraag voor DigiD op betrouwbaarheidsniveau hoog, verband houdend met een Nederlandse identiteitskaart of een Nederlands rijbewijs waarop een elektronisch identificatiemiddel is geplaatst, geschiedt volgens het aanvraagproces voor het desbetreffende document.
 
@@ -86,15 +86,9 @@ De Minister kan zonder voorafgaande bekendmaking de toegang tot of de beschikbaa
 
 - a. als ingezetene is ingeschreven in de basisregistratie personen, een burgerservicenummer heeft en zijn telefoonnummer en zijn e-mailadres verstrekt;
 
-- b. als niet-ingezetene is ingeschreven in de basisregistratie personen, een burgerservicenummer heeft, de nationaliteit van een lidstaat van de Europese Economische Ruimte heeft en zijn telefoonnummer en e-mailadres verstrekt; of
+- b. als niet-ingezetene is ingeschreven in de basisregistratie personen, een burgerservicenummer heeft en zijn telefoonnummer en e-mailadres verstrekt.
 
-- c. als niet-ingezetene is ingeschreven in de basisregistratie personen, een burgerservicenummer heeft, een AOW-pensioen ontvangt, klant is van de Sociale Verzekeringsbank en zijn telefoonnummer en e-mailadres verstrekt.
-
-3. DigiD op betrouwbaarheidsniveau substantieel wordt slechts verstrekt aan een beoogde gebruiker die zijn telefoonnummer en e-mailadres verstrekt en die houder is van:
-
-- a. een geldig Nederlands paspoort, Nederlandse identiteitskaart of Nederlands rijbewijs, waarmee digitaal gecommuniceerd kan worden, of
-
-- b. een geldig identiteitsdocument afgegeven in een lidstaat van de Europese Economische Ruimte, waarmee digitaal gecommuniceerd kan worden.
+3. DigiD op betrouwbaarheidsniveau substantieel wordt slechts verstrekt aan een beoogde gebruiker die zijn telefoonnummer en e-mailadres verstrekt en die houder is van een geldig Nederlands paspoort, Nederlandse identiteitskaart of Nederlands rijbewijs, waarmee digitaal gecommuniceerd kan worden.
 
 4. DigiD op betrouwbaarheidsniveau hoog, verband houdend met een Nederlands identiteitskaart of een Nederlands rijbewijs waarop een elektronisch identificatiemiddel is geplaatst, wordt slechts verstrekt aan de rechthebbende op het desbetreffende document en na verstrekking van zijn telefoonnummer en e-mailadres.
 
@@ -114,7 +108,7 @@ De Minister kan zonder voorafgaande bekendmaking de toegang tot of de beschikbaa
 
 10. De gebruiker kan de Minister verzoeken om zijn DigiD te laten blokkeren of op te heffen.
 
-11. De gebruiker kan de eigen gebruikshistorie inzien via [www.digid.nl](onbekend).
+11. De gebruiker kan de eigen gebruikshistorie inzien via [www.digid.nl](http://www.digid.nl/).
 
 12. De gebruiker meldt verlies, diefstal, misbruik of oneigenlijk gebruik via digid.nl.
 
@@ -124,7 +118,7 @@ De Minister kan zonder voorafgaande bekendmaking de toegang tot of de beschikbaa
 
 ##### Artikel 4. Gebruik DigiD Machtigen
 
-1. Een vertegenwoordigde of beoogd gemachtigde kan een aanvraag tot registratie van een machtiging doen via [www.machtigen.digid.nl](onbekend) of via een afnemer die het aanvragen faciliteert.
+1. Een vertegenwoordigde of beoogd gemachtigde kan een aanvraag tot registratie van een machtiging doen via [www.machtigen.digid.nl](http://www.machtigen.digid.nl) of via een afnemer die het aanvragen faciliteert.
 
 2. De aanvraag en registratie van een machtiging kunnen betrekking hebben op een of meerdere diensten van een of meerdere afnemers en kennen een vooraf bepaalde geldigheidsduur.
 
@@ -132,11 +126,11 @@ De Minister kan zonder voorafgaande bekendmaking de toegang tot of de beschikbaa
 
 4. De vertegenwoordigde geeft de ontvangen machtigingscode en zijn burgerservicenummer aan de beoogde gemachtigde of selecteert de beoogde gemachtigde in de lijst van door hem eerder gemachtigden.
 
-5. De gemachtigde accepteert de machtiging door de registratie van de machtiging te activeren via [www.machtigen.digid.nl](onbekend), via een afnemer die dat faciliteert of, indien hij eerder gemachtigd was, door de machtiging te gebruiken.
+5. De gemachtigde accepteert de machtiging door de registratie van de machtiging te activeren via [www.machtigen.digid.nl](http://www.machtigen.digid.nl), via een afnemer die dat faciliteert of, indien hij eerder gemachtigd was, door de machtiging te gebruiken.
 
 6. De bruikbaarheid van een machtiging eindigt door het intrekken van de geregistreerde machtiging of na het verstrijken van de geldigheidsduur.
 
-7. De machtiging kan worden ingetrokken via [www.machtigen.digid.nl](onbekend) of via een afnemer die dat faciliteert.
+7. De machtiging kan worden ingetrokken via [www.machtigen.digid.nl](http://www.machtigen.digid.nl) of via een afnemer die dat faciliteert.
 
 ### Hoofdstuk 4. Voorzieningen voor elektronisch berichtenverkeer en informatieverschaffing
 
