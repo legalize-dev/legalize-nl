@@ -4,7 +4,7 @@ identifier: "BWBR0006728"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-03-30"
-last_updated: "2024-01-01"
+last_updated: "2024-03-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006728"
 soort: "AMvB"
@@ -112,7 +112,7 @@ De commissaris informeert over ontheffingen als bedoeld in [artikel 47, derde li
 
 ##### Artikel 10
 
-Onverminderd [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006728&artikel=2&z=2024-01-01&g=2024-01-01), kan de commissaris een ieder belast met bevoegdheden in de openbare dienst in de provincie verzoeken om bericht en raad, voor zover hij dat nodig acht in verband met de hem bij deze instructie opgedragen taken. Aan deze verzoeken dient te worden voldaan.
+Onverminderd [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006728&artikel=2&z=2024-03-30&g=2024-03-30), kan de commissaris een ieder belast met bevoegdheden in de openbare dienst in de provincie verzoeken om bericht en raad, voor zover hij dat nodig acht in verband met de hem bij deze instructie opgedragen taken. Aan deze verzoeken dient te worden voldaan.
 
 ##### Artikel 11
 
@@ -181,5 +181,11 @@ De commissaris brengt een voornemen tot het voorzien in de waarneming van de bur
 ##### Artikel 7b
 
 De commissaris informeert Onze Minister bij verstoorde bestuurlijke verhoudingen in een gemeente en wanneer de bestuurlijke integriteit van een gemeente in het geding is. Hij informeert Onze Minister daarbij tevens over de maatregelen die hij ter zake neemt, waaronder het bijwonen van vergaderingen van het gemeentebestuur en het kennisnemen van bescheiden waarover het gemeentebestuur beschikt als bedoeld in [artikel 182, tweede lid, Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=182).
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+
+##### Artikel 9a
+
+De commissaris roept de overleggen, bedoeld in [artikel 4, eerste lid, van de Wet gemeentelijke taak mogelijk maken asielopvangvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0049307&artikel=4) met redelijke tussenpozen bijeen.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
