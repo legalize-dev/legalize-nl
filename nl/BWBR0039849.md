@@ -4,7 +4,7 @@ identifier: "BWBR0039849"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-26"
-last_updated: "2024-03-16"
+last_updated: "2024-03-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039849"
 soort: "ministeriele-regeling"
@@ -171,7 +171,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Toepasselijkheid
 
-Onverminderd [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=2&paragraaf=1&artikel=5&z=2024-03-16&g=2024-03-16), is dit hoofdstuk van toepassing op de defensie-ambtenaar die is geplaatst in een gebied buiten Nederland, tenzij op hem [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=3&z=2024-03-16&g=2024-03-16) dan wel de [Regeling voorzieningen bij vredes- en humanitaire operaties (VVHO)](https://wetten.overheid.nl/jci1.3:c:BWBR0039789) van toepassing is.
+Onverminderd [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=2&paragraaf=1&artikel=5&z=2024-03-30&g=2024-03-30), is dit hoofdstuk van toepassing op de defensie-ambtenaar die is geplaatst in een gebied buiten Nederland, tenzij op hem [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=3&z=2024-03-30&g=2024-03-30) dan wel de [Regeling voorzieningen bij vredes- en humanitaire operaties (VVHO)](https://wetten.overheid.nl/jci1.3:c:BWBR0039789) van toepassing is.
 
 ##### Artikel 3. Plaatsing van de defensie-ambtenaar
 
@@ -199,11 +199,11 @@ Het verblijf van de gezinsleden van de defensie-ambtenaar in een gebied buiten N
 
 - b. de gezinsleden binnen de termijn van zes maanden dat gebied definitief of voor langere duur dan zestig dagen verlaten.
 
-- 5. In afwijking van het vierde lid wordt de plaatsing van de militair als bedoeld in [artikel 7, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=2&paragraaf=2&artikel=7&z=2024-03-16&g=2024-03-16), wiens gezinsleden aldaar metterwoon zijn gevestigd, en die is ingezet in het kader van een operatie als bedoeld in de [Regeling voorzieningen bij vredes- en humanitaire operaties](https://wetten.overheid.nl/jci1.3:c:BWBR0039789), geacht voort te duren tijdens de periode van die inzet en van de direct daaraan voorafgaande opleiding ten behoeve van die inzet.
+- 5. In afwijking van het vierde lid wordt de plaatsing van de militair als bedoeld in [artikel 7, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=2&paragraaf=2&artikel=7&z=2024-03-30&g=2024-03-30), wiens gezinsleden aldaar metterwoon zijn gevestigd, en die is ingezet in het kader van een operatie als bedoeld in de [Regeling voorzieningen bij vredes- en humanitaire operaties](https://wetten.overheid.nl/jci1.3:c:BWBR0039789), geacht voort te duren tijdens de periode van die inzet en van de direct daaraan voorafgaande opleiding ten behoeve van die inzet.
 
-- 6. In afwijking van het vierde lid wordt de plaatsing van de militair als bedoeld in [artikel 7, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=2&paragraaf=2&artikel=7&z=2024-03-16&g=2024-03-16), dan wel de militair als bedoeld in artikel 7, eerste lid, onder f, die is ingezet in het kader van een operatie als bedoeld in de [Regeling voorzieningen bij vredes- en humanitaire operaties](https://wetten.overheid.nl/jci1.3:c:BWBR0039789), geacht voort te duren tijdens de periode van die inzet en van de direct daaraan voorafgaande opleiding ten behoeve van die inzet indien de militair gedurende deze periode kosten maakt gerelateerd aan zijn huisvesting in het land van plaatsing.
+- 6. In afwijking van het vierde lid wordt de plaatsing van de militair als bedoeld in [artikel 7, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=2&paragraaf=2&artikel=7&z=2024-03-30&g=2024-03-30), dan wel de militair als bedoeld in artikel 7, eerste lid, onder f, die is ingezet in het kader van een operatie als bedoeld in de [Regeling voorzieningen bij vredes- en humanitaire operaties](https://wetten.overheid.nl/jci1.3:c:BWBR0039789), geacht voort te duren tijdens de periode van die inzet en van de direct daaraan voorafgaande opleiding ten behoeve van die inzet indien de militair gedurende deze periode kosten maakt gerelateerd aan zijn huisvesting in het land van plaatsing.
 
-- 7. Indien de defensie-ambtenaar bedoeld in [artikel 7, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=2&paragraaf=2&artikel=7&z=2024-03-16&g=2024-03-16), bij eindiging van zijn plaatsing in een gebied buiten Nederland zijn gezinsleden daar moet achterlaten, kan hij, om reden van medische noodzaak, het afronden van het schooljaar van het kind van de defensieambtenaar en het verblijven buiten het land van plaatsing voor het volgen van een bij- of omscholingsopleiding met daarbij het oogmerk van de organisatie de defensieambtenaar terug te laten keren naar het land van plaatsing, niettemin in het genot van de toelage-buitenland, de verhoging daarvan en de overige voorzieningen ter zake van die plaatsing in dat gebied blijven.
+- 7. Indien de defensie-ambtenaar bedoeld in [artikel 7, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=2&paragraaf=2&artikel=7&z=2024-03-30&g=2024-03-30), bij eindiging van zijn plaatsing in een gebied buiten Nederland zijn gezinsleden daar moet achterlaten, kan hij, om reden van medische noodzaak, het afronden van het schooljaar van het kind van de defensieambtenaar en het verblijven buiten het land van plaatsing voor het volgen van een bij- of omscholingsopleiding met daarbij het oogmerk van de organisatie de defensieambtenaar terug te laten keren naar het land van plaatsing, niettemin in het genot van de toelage-buitenland, de verhoging daarvan en de overige voorzieningen ter zake van die plaatsing in dat gebied blijven.
 
 - 8. De dag van aankomst, bedoeld in het eerste lid, mag maximaal vijf werkdagen voor aanvang van de functievervulling liggen.
 
@@ -219,7 +219,7 @@ Het verblijf van de gezinsleden van de defensie-ambtenaar in een gebied buiten N
 
 - b. wordt de aanspraak op voorzieningen verleend aan degene die daarvoor door beiden gezamenlijk is aangewezen, indien het standaard netto Nederland van de defensie-ambtenaar en dat van zijn echtgenoot gelijk zijn,
 
-- 3. De defensie-ambtenaar, bedoeld in het tweede lid, onder a, alsmede de defensie-ambtenaar die niet door beiden gezamenlijk is aangewezen, bedoeld in het tweede lid, onder b, heeft aanspraak op de voorzieningen waarop de ongehuwde defensie-ambtenaar, bedoeld in [artikel 7, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=2&paragraaf=2&artikel=7&z=2024-03-16&g=2024-03-16), aanspraak zou hebben.
+- 3. De defensie-ambtenaar, bedoeld in het tweede lid, onder a, alsmede de defensie-ambtenaar die niet door beiden gezamenlijk is aangewezen, bedoeld in het tweede lid, onder b, heeft aanspraak op de voorzieningen waarop de ongehuwde defensie-ambtenaar, bedoeld in [artikel 7, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=2&paragraaf=2&artikel=7&z=2024-03-30&g=2024-03-30), aanspraak zou hebben.
 
 #### Paragraaf 2. Toelage-buitenland
 
@@ -261,11 +261,11 @@ Het verblijf van de gezinsleden van de defensie-ambtenaar in een gebied buiten N
 
 - 2. De defensieambtenaar die is geplaatst in een gebied buiten Nederland heeft voor zijn aldaar met toestemming van de Minister metterwoon verblijvende gezinsleden aanspraak op vergoeding van de gemaakte buitenlandse zorgkosten voor dat deel van die kosten dat het niveau van 200% van het Nederlandse prijspeil overstijgt en voor zover niet uit anderen hoofde aanspraak bestaat.
 
-- 3. In afwijking van het gestelde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=2&paragraaf=1&artikel=2&z=2024-03-16&g=2024-03-16), is de aanspraak op de in het eerste lid en tweede lid bedoelde tegemoetkoming ook van toepassing op de ambtenaar op wie [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=3&z=2024-03-16&g=2024-03-16) van toepassing is.
+- 3. In afwijking van het gestelde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=2&paragraaf=1&artikel=2&z=2024-03-30&g=2024-03-30), is de aanspraak op de in het eerste lid en tweede lid bedoelde tegemoetkoming ook van toepassing op de ambtenaar op wie [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=3&z=2024-03-30&g=2024-03-30) van toepassing is.
 
 ##### Artikel 9. Verhoging toelage-buitenland
 
-- 1. De defensie-ambtenaar bedoeld in [artikel 7, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=2&paragraaf=2&artikel=7&z=2024-03-16&g=2024-03-16), heeft – met inachtneming van het tweede tot en met het zevende lid – aanspraak op een verhoging van zijn toelage-buitenland voor ieder van zijn kinderen, indien:
+- 1. De defensie-ambtenaar bedoeld in [artikel 7, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=2&paragraaf=2&artikel=7&z=2024-03-30&g=2024-03-30), heeft – met inachtneming van het tweede tot en met het zevende lid – aanspraak op een verhoging van zijn toelage-buitenland voor ieder van zijn kinderen, indien:
 
 - a. ten behoeve van dat kind aanspraak bestaat op kinderbijslag ingevolge de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368), en/of het **Bundeskindergeldgesetz** of het **Einkommengesetz**, of
 
@@ -293,7 +293,7 @@ De militair die is geplaatst in een gebied buiten Nederland en die aanspraak hee
 
 - c. de garantievliegtoelage, bedoeld in artikel 11 van de Inkomstenregeling militairen,
 
-heeft aanspraak op een aanvullende toelage-buitenland, waarvan het bedrag wordt vastgesteld met toepassing van tabel 7 en [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=2&paragraaf=2&artikel=7&z=2024-03-16&g=2024-03-16).
+heeft aanspraak op een aanvullende toelage-buitenland, waarvan het bedrag wordt vastgesteld met toepassing van tabel 7 en [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=2&paragraaf=2&artikel=7&z=2024-03-30&g=2024-03-30).
 
 ##### Artikel 11. Verandering toelage-buitenland
 
@@ -371,7 +371,7 @@ heeft aanspraak op een aanvullende toelage-buitenland, waarvan het bedrag wordt 
 
 - 2°. het bedrag van de voor het gebied van plaatsing geldende duurtecorrectie, indien deze positief is, berekend over het voor de militair, onderscheidenlijk ambtenaar, geldende standaard netto Nederland.
 
-- 2. De defensie-ambtenaar die aanspraak heeft op de toelage-buitenland, bedoeld in [artikel 7, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=2&paragraaf=2&artikel=7&z=2024-03-16&g=2024-03-16), en die in het gebied van plaatsing een eigen huishouding voert, heeft aanspraak op een maandelijkse tegemoetkoming in de woninghuur, indien het hem naar het oordeel van de commandant niet mogelijk is geweest: waarvan de huur lager is dan of gelijk is aan de eigen bijdrage. De tegemoetkoming bedraagt het verschil tussen de verschuldigde huur, of bij een vrije keuze woning de door de commandant bepaalde maximale huur, en de eigen bijdrage.
+- 2. De defensie-ambtenaar die aanspraak heeft op de toelage-buitenland, bedoeld in [artikel 7, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=2&paragraaf=2&artikel=7&z=2024-03-30&g=2024-03-30), en die in het gebied van plaatsing een eigen huishouding voert, heeft aanspraak op een maandelijkse tegemoetkoming in de woninghuur, indien het hem naar het oordeel van de commandant niet mogelijk is geweest: waarvan de huur lager is dan of gelijk is aan de eigen bijdrage. De tegemoetkoming bedraagt het verschil tussen de verschuldigde huur, of bij een vrije keuze woning de door de commandant bepaalde maximale huur, en de eigen bijdrage.
 
 - a. in Duitsland, de Nederlandse Antillen of Aruba: een passende defensiewoning of, indien een zodanige woning naar het oordeel van de commandant niet beschikbaar is, een passende woning te huren;
 
@@ -395,11 +395,11 @@ heeft aanspraak op een aanvullende toelage-buitenland, waarvan het bedrag wordt 
 
 ##### Artikel 14. Lening huurwaarborgsom
 
-- 1. Indien bij het in het gebied van plaatsing betrekken van een passende woning als bedoeld in [artikel 13, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=2&paragraaf=3&artikel=13&z=2024-03-16&g=2024-03-16), een waarborgsom voor de huurwoning moet worden gestort, kan een renteloze lening worden verstrekt aan:
+- 1. Indien bij het in het gebied van plaatsing betrekken van een passende woning als bedoeld in [artikel 13, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=2&paragraaf=3&artikel=13&z=2024-03-30&g=2024-03-30), een waarborgsom voor de huurwoning moet worden gestort, kan een renteloze lening worden verstrekt aan:
 
-- a. de defensie-ambtenaar die aanspraak heeft op de toelage-buitenland, bedoeld in [artikel 7, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=2&paragraaf=2&artikel=7&z=2024-03-16&g=2024-03-16), en wiens gezinsleden zich naar verwachting voor ten minste zes achtereenvolgende maanden metterwoon in het gebied van plaatsing zullen vestigen of
+- a. de defensie-ambtenaar die aanspraak heeft op de toelage-buitenland, bedoeld in [artikel 7, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=2&paragraaf=2&artikel=7&z=2024-03-30&g=2024-03-30), en wiens gezinsleden zich naar verwachting voor ten minste zes achtereenvolgende maanden metterwoon in het gebied van plaatsing zullen vestigen of
 
-- b. de defensie-ambtenaar die aanspraak heeft op de toelage-buitenland, bedoeld in [artikel 7, eerste lid, onderdelen d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=2&paragraaf=2&artikel=7&z=2024-03-16&g=2024-03-16), die voor een tijdvak van ten minste zes achtereenvolgende maanden is geplaatst in een gebied buiten Nederland en die aldaar een eigen huishouding voert.
+- b. de defensie-ambtenaar die aanspraak heeft op de toelage-buitenland, bedoeld in [artikel 7, eerste lid, onderdelen d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=2&paragraaf=2&artikel=7&z=2024-03-30&g=2024-03-30), die voor een tijdvak van ten minste zes achtereenvolgende maanden is geplaatst in een gebied buiten Nederland en die aldaar een eigen huishouding voert.
 
 - 2. Het bedrag van de lening is niet hoger dan het bedrag van de te storten waarborgsom, verminderd met het bedrag van de verschuldigde huur dat voor de betrokken woning voor één maand is verschuldigd en – in voorkomend geval – met de tegemoetkoming woninghuur waarop in die maand aanspraak bestaat.
 
@@ -409,7 +409,7 @@ heeft aanspraak op een aanvullende toelage-buitenland, waarvan het bedrag wordt 
 
 ##### Artikel 15. Tegemoetkoming doorlopende kosten
 
-- 1. De defensieambtenaar bedoeld in [artikel 7, eerste lid, onderdelen a, b en f](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=2&paragraaf=2&artikel=7&z=2024-03-16&g=2024-03-16), en die voor een tijdvak van langere duur dan zes maanden, maar van kortere duur dan anderhalf jaar binnen Europa, dan wel van kortere duur dan twee jaar buiten Europa, is geplaatst in een gebied buiten Nederland, heeft aanspraak op een maandelijkse tegemoetkoming in de doorlopende kosten. De tegemoetkoming bedraagt 10 procent van het voor hem geldende standaard netto Nederland.
+- 1. De defensieambtenaar bedoeld in [artikel 7, eerste lid, onderdelen a, b en f](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=2&paragraaf=2&artikel=7&z=2024-03-30&g=2024-03-30), en die voor een tijdvak van langere duur dan zes maanden, maar van kortere duur dan anderhalf jaar binnen Europa, dan wel van kortere duur dan twee jaar buiten Europa, is geplaatst in een gebied buiten Nederland, heeft aanspraak op een maandelijkse tegemoetkoming in de doorlopende kosten. De tegemoetkoming bedraagt 10 procent van het voor hem geldende standaard netto Nederland.
 
 - 2. De aanspraak op de toelage, bedoeld in het eerste lid, bestaat niet, indien de defensie-ambtenaar:
 
@@ -441,9 +441,9 @@ heeft aanspraak op een aanvullende toelage-buitenland, waarvan het bedrag wordt 
 
 - e. **reiskosten** de noodzakelijk te maken reiskosten van huis naar school en terug;
 
-- f. **kind** een kind als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=2&paragraaf=2&artikel=9&z=2024-03-16&g=2024-03-16).
+- f. **kind** een kind als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=2&paragraaf=2&artikel=9&z=2024-03-30&g=2024-03-30).
 
-- 2. De defensie-ambtenaar bedoeld in [artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=2&paragraaf=2&artikel=7&z=2024-03-16&g=2024-03-16), die is geplaatst in een gebied buiten Nederland en die een of meer kinderen heeft die aldaar onderwijs genieten, heeft aanspraak op een tegemoetkoming in de daarmee verband houdende onderwijskosten, bijkomende kosten en de reiskosten.
+- 2. De defensie-ambtenaar bedoeld in [artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=2&paragraaf=2&artikel=7&z=2024-03-30&g=2024-03-30), die is geplaatst in een gebied buiten Nederland en die een of meer kinderen heeft die aldaar onderwijs genieten, heeft aanspraak op een tegemoetkoming in de daarmee verband houdende onderwijskosten, bijkomende kosten en de reiskosten.
 
 - 3. De onderwijskosten worden vergoed naar de tarieven die door een erkende onderwijsinstelling worden gehanteerd.
 
@@ -471,11 +471,11 @@ heeft aanspraak op een aanvullende toelage-buitenland, waarvan het bedrag wordt 
 
 - b. wiens kind of kinderen onderwijs volgen op de zogenoemde Nederlandse scholen in Duitsland.
 
-- 8. De defensie-ambtenaar bedoeld in [artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=2&paragraaf=2&artikel=7&z=2024-03-16&g=2024-03-16), die voor tenminste zes maanden is geplaatst in het buitenland, en wiens kinderen in dat land verblijven en lager, middelbaar of hoger onderwijs volgen, terwijl op goede gronden kan worden aangenomen dat het gezinsverband aldaar tenminste drie maanden zal bestaan, heeft aanspraak op een tegemoetkoming in de, naar het oordeel van de commandant, noodzakelijk te maken kosten van aanschaf van de door de school voorgeschreven school- of sportkleding tot het maximumbedrag van € 350,– per schooljaar.
+- 8. De defensie-ambtenaar bedoeld in [artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=2&paragraaf=2&artikel=7&z=2024-03-30&g=2024-03-30), die voor tenminste zes maanden is geplaatst in het buitenland, en wiens kinderen in dat land verblijven en lager, middelbaar of hoger onderwijs volgen, terwijl op goede gronden kan worden aangenomen dat het gezinsverband aldaar tenminste drie maanden zal bestaan, heeft aanspraak op een tegemoetkoming in de, naar het oordeel van de commandant, noodzakelijk te maken kosten van aanschaf van de door de school voorgeschreven school- of sportkleding tot het maximumbedrag van € 350,– per schooljaar.
 
-- 9. De defensie-ambtenaar bedoeld in [artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=2&paragraaf=2&artikel=7&z=2024-03-16&g=2024-03-16), die voor tenminste zes maanden is geplaatst in de Verenigde Staten van Amerika en wiens kinderen aldaar verblijven en lager of middelbaar onderwijs volgen, terwijl op goede gronden kan worden aangenomen dat het gezinsverband aldaar tenminste drie maanden zal bestaan, heeft aanspraak op een tegemoetkoming in de, naar het oordeel van de commandant, noodzakelijk te maken kosten voor het volgen van het bijvak ‘Nederlandse taal en letterkunde’ tot het maximum bedrag van US$ 650 per schooljaar.
+- 9. De defensie-ambtenaar bedoeld in [artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=2&paragraaf=2&artikel=7&z=2024-03-30&g=2024-03-30), die voor tenminste zes maanden is geplaatst in de Verenigde Staten van Amerika en wiens kinderen aldaar verblijven en lager of middelbaar onderwijs volgen, terwijl op goede gronden kan worden aangenomen dat het gezinsverband aldaar tenminste drie maanden zal bestaan, heeft aanspraak op een tegemoetkoming in de, naar het oordeel van de commandant, noodzakelijk te maken kosten voor het volgen van het bijvak ‘Nederlandse taal en letterkunde’ tot het maximum bedrag van US$ 650 per schooljaar.
 
-- 10. De commandant kan de defensie-ambtenaar bedoeld in [artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=2&paragraaf=2&artikel=7&z=2024-03-16&g=2024-03-16), voorafgaande aan een plaatsing in het buitenland, toestemming verlenen advies in te winnen bij de Stichting Nederlands Onderwijs in het Buitenland indien, naar zijn oordeel, specifieke informatiebehoefte over onderwijsmogelijkheden in het buitenland benodigd is.
+- 10. De commandant kan de defensie-ambtenaar bedoeld in [artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=2&paragraaf=2&artikel=7&z=2024-03-30&g=2024-03-30), voorafgaande aan een plaatsing in het buitenland, toestemming verlenen advies in te winnen bij de Stichting Nederlands Onderwijs in het Buitenland indien, naar zijn oordeel, specifieke informatiebehoefte over onderwijsmogelijkheden in het buitenland benodigd is.
 
 - 11. Kinderen van de uit het buitenland terugkerende defensieambtenaar die in het buitenland internationaal onderwijs hebben genoten zijn gerechtigd om die internationale opleiding aan een instelling voor Internationaal Voortgezet Gesubsidieerd Onderwijs in Nederland af te ronden uitsluitend voor klas 5 HAVO, klas 5 en/of 6 VWO of klas 5 en/of 6 van het Gymnasium. De vergoeding, die door de commandant voor ten hoogste twee jaar kan worden toegekend, bedraagt maximaal de kosten voor het verschuldigde schoolgeld verminderd met de normale voor een Nederlandse onderwijsinstelling verschuldigde ouderlijke bijdrage.
 
@@ -507,7 +507,7 @@ heeft aanspraak op een aanvullende toelage-buitenland, waarvan het bedrag wordt 
 
 - 1. Aan de defensie-ambtenaar die voor ten minste zes achtereenvolgende maanden is of wordt geplaatst in een gebied buiten Nederland kan een renteloze lening worden verstrekt ter bestrijding van de aanloopkosten verbonden aan het verblijf in dat gebied.
 
-- 2. De lening wordt berekend over ten hoogste twaalf maanden en bedraagt voor iedere maand dat de defensie-ambtenaar naar verwachting zal zijn geplaatst in dat gebied, niet meer dan één twaalfde deel van de som van het salaris en de toelage-buitenland, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=2&paragraaf=2&artikel=7&z=2024-03-16&g=2024-03-16), waarop de defensie-ambtenaar op de datum van die plaatsing aanspraak heeft.
+- 2. De lening wordt berekend over ten hoogste twaalf maanden en bedraagt voor iedere maand dat de defensie-ambtenaar naar verwachting zal zijn geplaatst in dat gebied, niet meer dan één twaalfde deel van de som van het salaris en de toelage-buitenland, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=2&paragraaf=2&artikel=7&z=2024-03-30&g=2024-03-30), waarop de defensie-ambtenaar op de datum van die plaatsing aanspraak heeft.
 
 - 3. De lening wordt niet eerder verstrekt dan één maand voor de datum van plaatsing of uiterlijk twee maanden nadat de defensie-ambtenaar, dan wel zijn gezinsleden – indien die pas na datum in het gebied van plaatsing aankomen – in dat gebied zijn aangekomen.
 
@@ -541,7 +541,7 @@ heeft aanspraak op een aanvullende toelage-buitenland, waarvan het bedrag wordt 
 
 ##### Artikel 22. Lening aankoop tweede auto Verenigde Staten van Amerika, Canada, de Nederlandse Antillen en Aruba
 
-- 1. De militair bedoeld in [artikel 7, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=2&paragraaf=2&artikel=7&z=2024-03-16&g=2024-03-16), die voor een tijdsduur van ten minste twee jaar wordt geplaatst in de Verenigde Staten van Amerika, Canada, de Nederlandse Antillen of op Aruba heeft aanspraak op een renteloze lening ter zake van de aankoop van een tweede personenauto, indien op goede gronden kan worden aangenomen dat het gezinsverband aldaar eveneens ten minste twee jaar zal bestaan.
+- 1. De militair bedoeld in [artikel 7, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=2&paragraaf=2&artikel=7&z=2024-03-30&g=2024-03-30), die voor een tijdsduur van ten minste twee jaar wordt geplaatst in de Verenigde Staten van Amerika, Canada, de Nederlandse Antillen of op Aruba heeft aanspraak op een renteloze lening ter zake van de aankoop van een tweede personenauto, indien op goede gronden kan worden aangenomen dat het gezinsverband aldaar eveneens ten minste twee jaar zal bestaan.
 
 - 2. Het bedrag van de lening is niet hoger dan de som van de aankoopprijs van de auto en de kosten voor een verzekering daarvan voor één jaar, met inachtneming van de maximumbedragen die zijn opgenomen in tabel 16.
 
@@ -559,7 +559,7 @@ heeft aanspraak op een aanvullende toelage-buitenland, waarvan het bedrag wordt 
 
 2. Bij toepassing van de aanspraken op de voet van de ACRU wordt het functieniveau van de defensie-ambtenaar bepaald met toepassing van tabel 17.
 
-3. Bij toepassing van de koopkrachtgelijkstelling op de voet van de ACRU wordt het nettosalaris van de defensie-ambtenaar vastgesteld conform de berekening van het standaard netto Nederland in [artikel 1, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=1&artikel=1&z=2024-03-16&g=2024-03-16). van deze regeling, zonder inachtneming van de daarin genoemde vermenigvuldigingsfactor.
+3. Bij toepassing van de koopkrachtgelijkstelling op de voet van de ACRU wordt het nettosalaris van de defensie-ambtenaar vastgesteld conform de berekening van het standaard netto Nederland in [artikel 1, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0039849&hoofdstuk=1&artikel=1&z=2024-03-30&g=2024-03-30). van deze regeling, zonder inachtneming van de daarin genoemde vermenigvuldigingsfactor.
 
 ##### Artikel 25. Aanvullende bepalingen voor militairen
 
@@ -615,559 +615,573 @@ Deze regeling wordt aangehaald als: Voorzieningenstelsel buitenland defensiepers
 
 ## Bijlage
 
-| Maand: | Feb-24 |   |   |   |   |
+| **Maand:** | **maart 2024** | **maart 2024** | **maart 2024** | **maart 2024** | **maart 2024** |
 | --- | --- | --- | --- | --- | --- |
-| Rijlabels | Actuele koers | % KKC | % Verb.c | % Totaal | Verpl.c |
+| **Rijlabels** | **Actuele koers** | **% KKC** | **% Verb.c** | **% Totaal** | **Verpl.c** |
 | **Aruba** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 1,95710 | 24,07358 | 26,12990 | 50,20348 | € 1.607,45 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 1,95710 | 24,07358 | 26,12990 | 50,20348 | € 1.261,23 |
-| 2. gehuwd gezin niet aldaar | 1,95710 | 24,07358 | 13,06495 | 37,13853 | € 346,22 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,95710 | 24,07358 | 13,06495 | 37,13853 | € 346,22 |
-| 4. ongehuwd | 1,95710 | 19,74033 | 13,06495 | 32,80528 | € 346,22 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,95710 | 24,07358 | 13,06495 | 37,13853 | € 469,87 |
+| 1a. gehuwd gezin aldaar, met kinderen | 1,95716 | 24,06977 | 26,12909 | 50,19886 | € 1.669,20 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 1,95716 | 24,06977 | 26,12909 | 50,19886 | € 1.309,68 |
+| 2. gehuwd gezin niet aldaar | 1,95716 | 24,06977 | 13,06455 | 37,13432 | € 359,52 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,95716 | 24,06977 | 13,06455 | 37,13432 | € 359,52 |
+| 4. ongehuwd | 1,95716 | 19,73722 | 13,06455 | 32,80177 | € 359,52 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,95716 | 24,06977 | 13,06455 | 37,13432 | € 487,92 |
 | **Australië** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 1,63970 | 16,33652 | 15,42622 | 31,76274 | € 1.607,45 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 1,63970 | 16,33652 | 15,42622 | 31,76274 | € 1.261,23 |
-| 2. gehuwd gezin niet aldaar | 1,63970 | 16,33652 | 7,71311 | 24,04963 | € 346,22 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,63970 | 16,33652 | 7,71311 | 24,04963 | € 346,22 |
-| 4. ongehuwd | 1,63970 | 13,39595 | 7,71311 | 21,10906 | € 346,22 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,63970 | 16,33652 | 7,71311 | 24,04963 | € 469,87 |
+| 1a. gehuwd gezin aldaar, met kinderen | 1,65665 | 15,14623 | 15,26839 | 30,41462 | € 1.669,20 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 1,65665 | 15,14623 | 15,26839 | 30,41462 | € 1.309,68 |
+| 2. gehuwd gezin niet aldaar | 1,65665 | 15,14623 | 7,63419 | 22,78042 | € 359,52 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,65665 | 15,14623 | 7,63419 | 22,78042 | € 359,52 |
+| 4. ongehuwd | 1,65665 | 12,41991 | 7,63419 | 20,05410 | € 359,52 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,65665 | 15,14623 | 7,63419 | 22,78042 | € 487,92 |
 | **België** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 21,50000 | 11,37240 | 32,87240 | € 1.261,23 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 21,50000 | 11,37240 | 32,87240 | € 1.088,12 |
-| 2. gehuwd gezin niet aldaar | 1,00000 | 21,50000 | 5,68620 | 27,18620 | € 111,29 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 21,50000 | 5,68620 | 27,18620 | € 111,29 |
-| 4. ongehuwd | 1,00000 | 17,63000 | 5,68620 | 23,31620 | € 309,13 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 21,50000 | 5,68620 | 27,18620 | € 432,78 |
+| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 21,50000 | 11,37240 | 32,87240 | € 1.309,68 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 21,50000 | 11,37240 | 32,87240 | € 1.129,92 |
+| 2. gehuwd gezin niet aldaar | 1,00000 | 21,50000 | 5,68620 | 27,18620 | € 115,56 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 21,50000 | 5,68620 | 27,18620 | € 115,56 |
+| 4. ongehuwd | 1,00000 | 17,63000 | 5,68620 | 23,31620 | € 321,00 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 21,50000 | 5,68620 | 27,18620 | € 449,40 |
 | **Bonaire** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 1,08215 | 34,59872 | 35,69558 | 70,29430 | € 1.607,45 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 1,08215 | 34,59872 | 35,69558 | 70,29430 | € 1.261,23 |
-| 2. gehuwd gezin niet aldaar | 1,08215 | 34,59872 | 17,84779 | 52,44651 | € 346,22 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,08215 | 34,59872 | 17,84779 | 52,44651 | € 346,22 |
-| 4. ongehuwd | 1,08215 | 28,37095 | 17,84779 | 46,21874 | € 346,22 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,08215 | 34,59872 | 17,84779 | 52,44651 | € 469,87 |
+| 1a. gehuwd gezin aldaar, met kinderen | 1,08570 | 34,15861 | 35,57886 | 69,73747 | € 1.669,20 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 1,08570 | 34,15861 | 35,57886 | 69,73747 | € 1.309,68 |
+| 2. gehuwd gezin niet aldaar | 1,08570 | 34,15861 | 17,78943 | 51,94804 | € 359,52 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,08570 | 34,15861 | 17,78943 | 51,94804 | € 359,52 |
+| 4. ongehuwd | 1,08570 | 28,01006 | 17,78943 | 45,79949 | € 359,52 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,08570 | 34,15861 | 17,78943 | 51,94804 | € 487,92 |
 | **Brunei** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 1,45460 | 31,70714 | 48,28384 | 79,99098 | € 1.607,45 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 1,45460 | 31,70714 | 48,28384 | 79,99098 | € 1.261,23 |
-| 2. gehuwd gezin niet aldaar | 1,45460 | 31,70714 | 24,14192 | 55,84906 | € 346,22 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,45460 | 31,70714 | 24,14192 | 55,84906 | € 346,22 |
-| 4. ongehuwd | 1,45460 | 25,99985 | 24,14192 | 50,14177 | € 346,22 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,45460 | 31,70714 | 24,14192 | 55,84906 | € 469,87 |
+| 1a. gehuwd gezin aldaar, met kinderen | 1,45610 | 31,57146 | 48,23410 | 79,80556 | € 1.669,20 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 1,45610 | 31,57146 | 48,23410 | 79,80556 | € 1.309,68 |
+| 2. gehuwd gezin niet aldaar | 1,45610 | 31,57146 | 24,11705 | 55,68851 | € 359,52 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,45610 | 31,57146 | 24,11705 | 55,68851 | € 359,52 |
+| 4. ongehuwd | 1,45610 | 25,88860 | 24,11705 | 50,00565 | € 359,52 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,45610 | 31,57146 | 24,11705 | 55,68851 | € 487,92 |
 | **Canada** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 1,45400 | 17,47593 | 5,49787 | 22,97380 | € 1.607,45 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 1,45400 | 17,47593 | 5,49787 | 22,97380 | € 1.261,23 |
-| 2. gehuwd gezin niet aldaar | 1,45400 | 17,47593 | 2,74894 | 20,22487 | € 346,22 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,45400 | 17,47593 | 2,74894 | 20,22487 | € 346,22 |
-| 4. ongehuwd | 1,45400 | 14,33026 | 2,74894 | 17,07920 | € 346,22 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,45400 | 17,47593 | 2,74894 | 20,22487 | € 469,87 |
+| 1a. gehuwd gezin aldaar, met kinderen | 1,46490 | 16,60182 | 5,45696 | 22,05878 | € 1.669,20 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 1,46490 | 16,60182 | 5,45696 | 22,05878 | € 1.309,68 |
+| 2. gehuwd gezin niet aldaar | 1,46490 | 16,60182 | 2,72848 | 19,33030 | € 359,52 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,46490 | 16,60182 | 2,72848 | 19,33030 | € 359,52 |
+| 4. ongehuwd | 1,46490 | 13,61349 | 2,72848 | 16,34197 | € 359,52 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,46490 | 16,60182 | 2,72848 | 19,33030 | € 487,92 |
 | **Canada (Bagotville)** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 1,45400 | 17,47593 | 15,57731 | 33,05324 | € 1.607,45 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 1,45400 | 17,47593 | 15,57731 | 33,05324 | € 1.261,23 |
-| 2. gehuwd gezin niet aldaar | 1,45400 | 17,47593 | 7,78865 | 25,26458 | € 346,22 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,45400 | 17,47593 | 7,78865 | 25,26458 | € 346,22 |
-| 4. ongehuwd | 1,45400 | 14,33026 | 7,78865 | 22,11891 | € 346,22 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,45400 | 17,47593 | 7,78865 | 25,26458 | € 469,87 |
+| 1a. gehuwd gezin aldaar, met kinderen | 1,46490 | 16,60182 | 15,46140 | 32,06322 | € 1.669,20 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 1,46490 | 16,60182 | 15,46140 | 32,06322 | € 1.309,68 |
+| 2. gehuwd gezin niet aldaar | 1,46490 | 16,60182 | 7,73070 | 24,33252 | € 359,52 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,46490 | 16,60182 | 7,73070 | 24,33252 | € 359,52 |
+| 4. ongehuwd | 1,46490 | 13,61349 | 7,73070 | 21,34419 | € 359,52 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,46490 | 16,60182 | 7,73070 | 24,33252 | € 487,92 |
 | **China** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 7,77005 | 41,32290 | 41,88811 | 83,21101 | € 1.607,45 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 7,77005 | 41,32290 | 41,88811 | 83,21101 | € 1.261,23 |
-| 2. gehuwd gezin niet aldaar | 7,77005 | 41,32290 | 20,94405 | 62,26695 | € 346,22 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 7,77005 | 41,32290 | 20,94405 | 62,26695 | € 346,22 |
-| 4. ongehuwd | 7,77005 | 33,88478 | 20,94405 | 54,82883 | € 346,22 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 7,77005 | 41,32290 | 20,94405 | 62,26695 | € 469,87 |
+| 1a. gehuwd gezin aldaar, met kinderen | 7,81520 | 40,50645 | 41,64611 | 82,15256 | € 1.669,20 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 7,81520 | 40,50645 | 41,64611 | 82,15256 | € 1.309,68 |
+| 2. gehuwd gezin niet aldaar | 7,81520 | 40,50645 | 20,82306 | 61,32951 | € 359,52 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 7,81520 | 40,50645 | 20,82306 | 61,32951 | € 359,52 |
+| 4. ongehuwd | 7,81520 | 33,21529 | 20,82306 | 54,03835 | € 359,52 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 7,81520 | 40,50645 | 20,82306 | 61,32951 | € 487,92 |
 | **Colombia** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 4259,05000 | 3,57944 | 33,93262 | 37,51206 | € 1.607,45 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 4259,05000 | 3,57944 | 33,93262 | 37,51206 | € 1.261,23 |
-| 2. gehuwd gezin niet aldaar | 4259,05000 | 3,57944 | 16,96631 | 20,54575 | € 346,22 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 4259,05000 | 3,57944 | 16,96631 | 20,54575 | € 346,22 |
-| 4. ongehuwd | 4259,05000 | 2,93514 | 16,96631 | 19,90145 | € 346,22 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 4259,05000 | 3,57944 | 16,96631 | 20,54575 | € 469,87 |
+| 1a. gehuwd gezin aldaar, met kinderen | 4283,84000 | 2,98004 | 33,73626 | 36,71630 | € 1.669,20 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 4283,84000 | 2,98004 | 33,73626 | 36,71630 | € 1.309,68 |
+| 2. gehuwd gezin niet aldaar | 4283,84000 | 2,98004 | 16,86813 | 19,84817 | € 359,52 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 4283,84000 | 2,98004 | 16,86813 | 19,84817 | € 359,52 |
+| 4. ongehuwd | 4283,84000 | 2,44363 | 16,86813 | 19,31176 | € 359,52 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 4283,84000 | 2,98004 | 16,86813 | 19,84817 | € 487,92 |
 | **Curaçao** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 1,95710 | 32,35164 | 30,97028 | 63,32192 | € 1.607,45 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 1,95710 | 32,35164 | 30,97028 | 63,32192 | € 1.261,23 |
-| 2. gehuwd gezin niet aldaar | 1,95710 | 32,35164 | 15,48514 | 47,83678 | € 346,22 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,95710 | 32,35164 | 15,48514 | 47,83678 | € 346,22 |
-| 4. ongehuwd | 1,95710 | 26,52835 | 15,48514 | 42,01349 | € 346,22 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,95710 | 32,35164 | 15,48514 | 47,83678 | € 469,87 |
+| 1a. gehuwd gezin aldaar, met kinderen | 1,95716 | 32,34759 | 30,96933 | 63,31692 | € 1.669,20 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 1,95716 | 32,34759 | 30,96933 | 63,31692 | € 1.309,68 |
+| 2. gehuwd gezin niet aldaar | 1,95716 | 32,34759 | 15,48467 | 47,83226 | € 359,52 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,95716 | 32,34759 | 15,48467 | 47,83226 | € 359,52 |
+| 4. ongehuwd | 1,95716 | 26,52502 | 15,48467 | 42,00969 | € 359,52 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,95716 | 32,34759 | 15,48467 | 47,83226 | € 487,92 |
 | **Denemarken** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 7,45385 | 43,91865 | 12,34822 | 56,26687 | € 1.360,15 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 7,45385 | 43,91865 | 12,34822 | 56,26687 | € 1.137,58 |
-| 2. gehuwd gezin niet aldaar | 7,45385 | 43,91865 | 6,17411 | 50,09276 | € 210,21 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 7,45385 | 43,91865 | 6,17411 | 50,09276 | € 210,21 |
-| 4. ongehuwd | 7,45385 | 36,01329 | 6,17411 | 42,18740 | € 309,13 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 7,45385 | 43,91865 | 6,17411 | 50,09276 | € 432,78 |
+| 1a. gehuwd gezin aldaar, met kinderen | 7,45485 | 43,89934 | 12,34656 | 56,24590 | € 1.412,40 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 7,45485 | 43,89934 | 12,34656 | 56,24590 | € 1.181,28 |
+| 2. gehuwd gezin niet aldaar | 7,45485 | 43,89934 | 6,17328 | 50,07262 | € 218,28 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 7,45485 | 43,89934 | 6,17328 | 50,07262 | € 218,28 |
+| 4. ongehuwd | 7,45485 | 35,99746 | 6,17328 | 42,17074 | € 321,00 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 7,45485 | 43,89934 | 6,17328 | 50,07262 | € 449,40 |
 | **Duitsland** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 20,60000 | 9,40680 | 30,00680 | € 1.261,23 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 20,60000 | 9,40680 | 30,00680 | € 1.088,12 |
-| 2. gehuwd gezin niet aldaar | 1,00000 | 20,60000 | 4,70340 | 25,30340 | € 111,29 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 20,60000 | 4,70340 | 25,30340 | € 111,29 |
-| 4. ongehuwd | 1,00000 | 16,89200 | 4,70340 | 21,59540 | € 309,13 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 20,60000 | 4,70340 | 25,30340 | € 432,78 |
+| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 20,60000 | 9,40680 | 30,00680 | € 1.309,68 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 20,60000 | 9,40680 | 30,00680 | € 1.129,92 |
+| 2. gehuwd gezin niet aldaar | 1,00000 | 20,60000 | 4,70340 | 25,30340 | € 115,56 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 20,60000 | 4,70340 | 25,30340 | € 115,56 |
+| 4. ongehuwd | 1,00000 | 16,89200 | 4,70340 | 21,59540 | € 321,00 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 20,60000 | 4,70340 | 25,30340 | € 449,40 |
 | **Estland** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 24,50000 | 29,13300 | 53,63300 | € 1.360,15 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 24,50000 | 29,13300 | 53,63300 | € 1.137,58 |
-| 2. gehuwd gezin niet aldaar | 1,00000 | 24,50000 | 14,56650 | 39,06650 | € 210,21 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 24,50000 | 14,56650 | 39,06650 | € 210,21 |
-| 4. ongehuwd | 1,00000 | 20,09000 | 14,56650 | 34,65650 | € 309,13 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 24,50000 | 14,56650 | 39,06650 | € 432,78 |
+| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 24,50000 | 29,13300 | 53,63300 | € 1.412,40 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 24,50000 | 29,13300 | 53,63300 | € 1.181,28 |
+| 2. gehuwd gezin niet aldaar | 1,00000 | 24,50000 | 14,56650 | 39,06650 | € 218,28 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 24,50000 | 14,56650 | 39,06650 | € 218,28 |
+| 4. ongehuwd | 1,00000 | 20,09000 | 14,56650 | 34,65650 | € 321,00 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 24,50000 | 14,56650 | 39,06650 | € 449,40 |
 | **Finland** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 15,90000 | 9,94422 | 25,84422 | € 1.360,15 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 15,90000 | 9,94422 | 25,84422 | € 1.137,58 |
-| 2. gehuwd gezin niet aldaar | 1,00000 | 15,90000 | 4,97211 | 20,87211 | € 210,21 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 15,90000 | 4,97211 | 20,87211 | € 210,21 |
-| 4. ongehuwd | 1,00000 | 13,03800 | 4,97211 | 18,01011 | € 309,13 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 15,90000 | 4,97211 | 20,87211 | € 432,78 |
+| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 15,90000 | 9,94422 | 25,84422 | € 1.412,40 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 15,90000 | 9,94422 | 25,84422 | € 1.181,28 |
+| 2. gehuwd gezin niet aldaar | 1,00000 | 15,90000 | 4,97211 | 20,87211 | € 218,28 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 15,90000 | 4,97211 | 20,87211 | € 218,28 |
+| 4. ongehuwd | 1,00000 | 13,03800 | 4,97211 | 18,01011 | € 321,00 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 15,90000 | 4,97211 | 20,87211 | € 449,40 |
 | **Frankrijk** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 16,00000 | 9,04800 | 25,04800 | € 1.360,15 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 16,00000 | 9,04800 | 25,04800 | € 1.137,58 |
-| 2. gehuwd gezin niet aldaar | 1,00000 | 16,00000 | 4,52400 | 20,52400 | € 210,21 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 16,00000 | 4,52400 | 20,52400 | € 210,21 |
-| 4. ongehuwd | 1,00000 | 13,12000 | 4,52400 | 17,64400 | € 309,13 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 16,00000 | 4,52400 | 20,52400 | € 432,78 |
+| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 16,00000 | 9,04800 | 25,04800 | € 1.412,40 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 16,00000 | 9,04800 | 25,04800 | € 1.181,28 |
+| 2. gehuwd gezin niet aldaar | 1,00000 | 16,00000 | 4,52400 | 20,52400 | € 218,28 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 16,00000 | 4,52400 | 20,52400 | € 218,28 |
+| 4. ongehuwd | 1,00000 | 13,12000 | 4,52400 | 17,64400 | € 321,00 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 16,00000 | 4,52400 | 20,52400 | € 449,40 |
+| **Frans guyana** |   |   |   |   |   |
+| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 48,70000 | 53,35356 | 102,05356 | € 1.669,20 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 48,70000 | 53,35356 | 102,05356 | € 1.309,68 |
+| 2. gehuwd gezin niet aldaar | 1,00000 | 48,70000 | 26,67678 | 75,37678 | € 359,52 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 48,70000 | 26,67678 | 75,37678 | € 359,52 |
+| 4. ongehuwd | 1,00000 | 39,93400 | 26,67678 | 66,61078 | € 359,52 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 48,70000 | 26,67678 | 75,37678 | € 487,92 |
 | **Griekenland** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 13,90000 | 20,43366 | 34,33366 | € 1.360,15 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 13,90000 | 20,43366 | 34,33366 | € 1.137,58 |
-| 2. gehuwd gezin niet aldaar | 1,00000 | 13,90000 | 10,21683 | 24,11683 | € 210,21 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 13,90000 | 10,21683 | 24,11683 | € 210,21 |
-| 4. ongehuwd | 1,00000 | 11,39800 | 10,21683 | 21,61483 | € 309,13 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 13,90000 | 10,21683 | 24,11683 | € 432,78 |
+| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 13,90000 | 20,43366 | 34,33366 | € 1.412,40 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 13,90000 | 20,43366 | 34,33366 | € 1.181,28 |
+| 2. gehuwd gezin niet aldaar | 1,00000 | 13,90000 | 10,21683 | 24,11683 | € 218,28 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 13,90000 | 10,21683 | 24,11683 | € 218,28 |
+| 4. ongehuwd | 1,00000 | 11,39800 | 10,21683 | 21,61483 | € 321,00 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 13,90000 | 10,21683 | 24,11683 | € 449,40 |
 | **Hongarijë** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 390,00000 | 16,48000 | 20,89651 | 37,37651 | € 1.360,15 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 390,00000 | 16,48000 | 20,89651 | 37,37651 | € 1.137,58 |
-| 2. gehuwd gezin niet aldaar | 390,00000 | 16,48000 | 10,44826 | 26,92826 | € 210,21 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 390,00000 | 16,48000 | 10,44826 | 26,92826 | € 210,21 |
-| 4. ongehuwd | 390,00000 | 13,51360 | 10,44826 | 23,96186 | € 309,13 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 390,00000 | 16,48000 | 10,44826 | 26,92826 | € 432,78 |
+| 1a. gehuwd gezin aldaar, met kinderen | 390,26500 | 16,40091 | 20,88232 | 37,28323 | € 1.412,40 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 390,26500 | 16,40091 | 20,88232 | 37,28323 | € 1.181,28 |
+| 2. gehuwd gezin niet aldaar | 390,26500 | 16,40091 | 10,44116 | 26,84207 | € 218,28 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 390,26500 | 16,40091 | 10,44116 | 26,84207 | € 218,28 |
+| 4. ongehuwd | 390,26500 | 13,44874 | 10,44116 | 23,88990 | € 321,00 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 390,26500 | 16,40091 | 10,44116 | 26,84207 | € 449,40 |
 | **Italië** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 9,80000 | 17,98524 | 27,78524 | € 1.360,15 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 9,80000 | 17,98524 | 27,78524 | € 1.137,58 |
-| 2. gehuwd gezin niet aldaar | 1,00000 | 9,80000 | 8,99262 | 18,79262 | € 210,21 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 9,80000 | 8,99262 | 18,79262 | € 210,21 |
-| 4. ongehuwd | 1,00000 | 8,03600 | 8,99262 | 17,02862 | € 309,13 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 9,80000 | 8,99262 | 18,79262 | € 432,78 |
+| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 9,80000 | 17,98524 | 27,78524 | € 1.412,40 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 9,80000 | 17,98524 | 27,78524 | € 1.181,28 |
+| 2. gehuwd gezin niet aldaar | 1,00000 | 9,80000 | 8,99262 | 18,79262 | € 218,28 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 9,80000 | 8,99262 | 18,79262 | € 218,28 |
+| 4. ongehuwd | 1,00000 | 8,03600 | 8,99262 | 17,02862 | € 321,00 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 9,80000 | 8,99262 | 18,79262 | € 449,40 |
 | **Letland** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 22,70000 | 28,71180 | 51,41180 | € 1.360,15 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 22,70000 | 28,71180 | 51,41180 | € 1.137,58 |
-| 2. gehuwd gezin niet aldaar | 1,00000 | 22,70000 | 14,35590 | 37,05590 | € 210,21 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 22,70000 | 14,35590 | 37,05590 | € 210,21 |
-| 4. ongehuwd | 1,00000 | 18,61400 | 14,35590 | 32,96990 | € 309,13 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 22,70000 | 14,35590 | 37,05590 | € 432,78 |
+| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 22,70000 | 28,71180 | 51,41180 | € 1.412,40 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 22,70000 | 28,71180 | 51,41180 | € 1.181,28 |
+| 2. gehuwd gezin niet aldaar | 1,00000 | 22,70000 | 14,35590 | 37,05590 | € 218,28 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 22,70000 | 14,35590 | 37,05590 | € 218,28 |
+| 4. ongehuwd | 1,00000 | 18,61400 | 14,35590 | 32,96990 | € 321,00 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 22,70000 | 14,35590 | 37,05590 | € 449,40 |
 | **Litouwen** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 21,40000 | 43,55832 | 64,95832 | € 1.360,15 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 21,40000 | 43,55832 | 64,95832 | € 1.137,58 |
-| 2. gehuwd gezin niet aldaar | 1,00000 | 21,40000 | 21,77916 | 43,17916 | € 210,21 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 21,40000 | 21,77916 | 43,17916 | € 210,21 |
-| 4. ongehuwd | 1,00000 | 17,54800 | 21,77916 | 39,32716 | € 309,13 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 21,40000 | 21,77916 | 43,17916 | € 432,78 |
+| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 21,40000 | 43,55832 | 64,95832 | € 1.412,40 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 21,40000 | 43,55832 | 64,95832 | € 1.181,28 |
+| 2. gehuwd gezin niet aldaar | 1,00000 | 21,40000 | 21,77916 | 43,17916 | € 218,28 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 21,40000 | 21,77916 | 43,17916 | € 218,28 |
+| 4. ongehuwd | 1,00000 | 17,54800 | 21,77916 | 39,32716 | € 321,00 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 21,40000 | 21,77916 | 43,17916 | € 449,40 |
 | **Luxemburg** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 10,40000 | 7,75008 | 18,15008 | € 1.360,15 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 10,40000 | 7,75008 | 18,15008 | € 1.137,58 |
-| 2. gehuwd gezin niet aldaar | 1,00000 | 10,40000 | 3,87504 | 14,27504 | € 210,21 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 10,40000 | 3,87504 | 14,27504 | € 210,21 |
-| 4. ongehuwd | 1,00000 | 8,52800 | 3,87504 | 12,40304 | € 309,13 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 10,40000 | 3,87504 | 14,27504 | € 432,78 |
+| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 10,40000 | 7,75008 | 18,15008 | € 1.412,40 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 10,40000 | 7,75008 | 18,15008 | € 1.181,28 |
+| 2. gehuwd gezin niet aldaar | 1,00000 | 10,40000 | 3,87504 | 14,27504 | € 218,28 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 10,40000 | 3,87504 | 14,27504 | € 218,28 |
+| 4. ongehuwd | 1,00000 | 8,52800 | 3,87504 | 12,40304 | € 321,00 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 10,40000 | 3,87504 | 14,27504 | € 449,40 |
 | **Moldavie** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 19,25770 | 65,33490 | 61,90139 | 127,23629 | € 1.360,15 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 19,25770 | 65,33490 | 61,90139 | 127,23629 | € 1.137,58 |
-| 2. gehuwd gezin niet aldaar | 19,25770 | 65,33490 | 30,95069 | 96,28559 | € 210,21 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 19,25770 | 65,33490 | 30,95069 | 96,28559 | € 210,21 |
-| 4. ongehuwd | 19,25770 | 53,57462 | 30,95069 | 84,52531 | € 309,13 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 19,25770 | 65,33490 | 30,95069 | 96,28559 | € 432,78 |
+| 1a. gehuwd gezin aldaar, met kinderen | 19,29290 | 65,03325 | 61,78845 | 126,82170 | € 1.412,40 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 19,29290 | 65,03325 | 61,78845 | 126,82170 | € 1.181,28 |
+| 2. gehuwd gezin niet aldaar | 19,29290 | 65,03325 | 30,89422 | 95,92747 | € 218,28 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 19,29290 | 65,03325 | 30,89422 | 95,92747 | € 218,28 |
+| 4. ongehuwd | 19,29290 | 53,32727 | 30,89422 | 84,22149 | € 321,00 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 19,29290 | 65,03325 | 30,89422 | 95,92747 | € 449,40 |
 | **Noorwegen** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 11,29900 | 24,66555 | 8,75152 | 33,41707 | € 1.360,15 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 11,29900 | 24,66555 | 8,75152 | 33,41707 | € 1.137,58 |
-| 2. gehuwd gezin niet aldaar | 11,29900 | 24,66555 | 4,37576 | 29,04131 | € 210,21 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 11,29900 | 24,66555 | 4,37576 | 29,04131 | € 210,21 |
-| 4. ongehuwd | 11,29900 | 20,22575 | 4,37576 | 24,60151 | € 309,13 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 11,29900 | 24,66555 | 4,37576 | 29,04131 | € 432,78 |
+| 1a. gehuwd gezin aldaar, met kinderen | 11,43100 | 23,22596 | 8,65046 | 31,87642 | € 1.412,40 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 11,43100 | 23,22596 | 8,65046 | 31,87642 | € 1.181,28 |
+| 2. gehuwd gezin niet aldaar | 11,43100 | 23,22596 | 4,32523 | 27,55119 | € 218,28 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 11,43100 | 23,22596 | 4,32523 | 27,55119 | € 218,28 |
+| 4. ongehuwd | 11,43100 | 19,04529 | 4,32523 | 23,37052 | € 321,00 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 11,43100 | 23,22596 | 4,32523 | 27,55119 | € 449,40 |
 | **Noorwegen (Stavanger)** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 11,29900 | 24,66555 | 11,66870 | 36,33425 | € 1.360,15 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 11,29900 | 24,66555 | 11,66870 | 36,33425 | € 1.137,58 |
-| 2. gehuwd gezin niet aldaar | 11,29900 | 24,66555 | 5,83435 | 30,49990 | € 210,21 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 11,29900 | 24,66555 | 5,83435 | 30,49990 | € 210,21 |
-| 4. ongehuwd | 11,29900 | 20,22575 | 5,83435 | 26,06010 | € 309,13 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 11,29900 | 24,66555 | 5,83435 | 30,49990 | € 432,78 |
+| 1a. gehuwd gezin aldaar, met kinderen | 11,43100 | 23,22596 | 11,53395 | 34,75991 | € 1.412,40 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 11,43100 | 23,22596 | 11,53395 | 34,75991 | € 1.181,28 |
+| 2. gehuwd gezin niet aldaar | 11,43100 | 23,22596 | 5,76698 | 28,99294 | € 218,28 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 11,43100 | 23,22596 | 5,76698 | 28,99294 | € 218,28 |
+| 4. ongehuwd | 11,43100 | 19,04529 | 5,76698 | 24,81227 | € 321,00 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 11,43100 | 23,22596 | 5,76698 | 28,99294 | € 449,40 |
 | **Oekraine** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 41,07320 | 17,42328 | 74,18803 | 91,61131 | € 1.360,15 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 41,07320 | 17,42328 | 74,18803 | 91,61131 | € 1.137,58 |
-| 2. gehuwd gezin niet aldaar | 41,07320 | 17,42328 | 37,09402 | 54,51730 | € 210,21 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 41,07320 | 17,42328 | 37,09402 | 54,51730 | € 210,21 |
-| 4. ongehuwd | 41,07320 | 14,28709 | 37,09402 | 51,38111 | € 309,13 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 41,07320 | 17,42328 | 37,09402 | 54,51730 | € 432,78 |
+| 1a. gehuwd gezin aldaar, met kinderen | 41,49270 | 16,23611 | 73,43797 | 89,67408 | € 1.412,40 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 41,49270 | 16,23611 | 73,43797 | 89,67408 | € 1.181,28 |
+| 2. gehuwd gezin niet aldaar | 41,49270 | 16,23611 | 36,71899 | 52,95510 | € 218,28 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 41,49270 | 16,23611 | 36,71899 | 52,95510 | € 218,28 |
+| 4. ongehuwd | 41,49270 | 13,31361 | 36,71899 | 50,03260 | € 321,00 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 41,49270 | 16,23611 | 36,71899 | 52,95510 | € 449,40 |
 | **Oostenrijk** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 25,50000 | 10,76790 | 36,26790 | € 1.360,15 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 25,50000 | 10,76790 | 36,26790 | € 1.137,58 |
-| 2. gehuwd gezin niet aldaar | 1,00000 | 25,50000 | 5,38395 | 30,88395 | € 210,21 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 25,50000 | 5,38395 | 30,88395 | € 210,21 |
-| 4. ongehuwd | 1,00000 | 20,91000 | 5,38395 | 26,29395 | € 309,13 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 25,50000 | 5,38395 | 30,88395 | € 432,78 |
+| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 25,50000 | 10,76790 | 36,26790 | € 1.412,40 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 25,50000 | 10,76790 | 36,26790 | € 1.181,28 |
+| 2. gehuwd gezin niet aldaar | 1,00000 | 25,50000 | 5,38395 | 30,88395 | € 218,28 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 25,50000 | 5,38395 | 30,88395 | € 218,28 |
+| 4. ongehuwd | 1,00000 | 20,91000 | 5,38395 | 26,29395 | € 321,00 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 25,50000 | 5,38395 | 30,88395 | € 449,40 |
 | **Polen** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 4,36675 | 15,13826 | 18,85965 | 33,99791 | € 1.360,15 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 4,36675 | 15,13826 | 18,85965 | 33,99791 | € 1.137,58 |
-| 2. gehuwd gezin niet aldaar | 4,36675 | 15,13826 | 9,42982 | 24,56808 | € 210,21 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 4,36675 | 15,13826 | 9,42982 | 24,56808 | € 210,21 |
-| 4. ongehuwd | 4,36675 | 12,41337 | 9,42982 | 21,84319 | € 309,13 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 4,36675 | 15,13826 | 9,42982 | 24,56808 | € 432,78 |
+| 1a. gehuwd gezin aldaar, met kinderen | 4,31275 | 16,57991 | 19,09579 | 35,67570 | € 1.412,40 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 4,31275 | 16,57991 | 19,09579 | 35,67570 | € 1.181,28 |
+| 2. gehuwd gezin niet aldaar | 4,31275 | 16,57991 | 9,54789 | 26,12780 | € 218,28 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 4,31275 | 16,57991 | 9,54789 | 26,12780 | € 218,28 |
+| 4. ongehuwd | 4,31275 | 13,59552 | 9,54789 | 23,14341 | € 321,00 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 4,31275 | 16,57991 | 9,54789 | 26,12780 | € 449,40 |
 | **Portugal** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 2,90000 | 9,63144 | 12,53144 | € 1.360,15 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 2,90000 | 9,63144 | 12,53144 | € 1.137,58 |
-| 2. gehuwd gezin niet aldaar | 1,00000 | 2,90000 | 4,81572 | 7,71572 | € 210,21 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 2,90000 | 4,81572 | 7,71572 | € 210,21 |
-| 4. ongehuwd | 1,00000 | 2,37800 | 4,81572 | 7,19372 | € 309,13 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 2,90000 | 4,81572 | 7,71572 | € 432,78 |
+| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 2,90000 | 9,63144 | 12,53144 | € 1.412,40 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 2,90000 | 9,63144 | 12,53144 | € 1.181,28 |
+| 2. gehuwd gezin niet aldaar | 1,00000 | 2,90000 | 4,81572 | 7,71572 | € 218,28 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 2,90000 | 4,81572 | 7,71572 | € 218,28 |
+| 4. ongehuwd | 1,00000 | 2,37800 | 4,81572 | 7,19372 | € 321,00 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 2,90000 | 4,81572 | 7,71572 | € 449,40 |
 | **Roemenië** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 4,97730 | 12,40793 | 34,19449 | 46,60242 | € 1.360,15 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 4,97730 | 12,40793 | 34,19449 | 46,60242 | € 1.137,58 |
-| 2. gehuwd gezin niet aldaar | 4,97730 | 12,40793 | 17,09725 | 29,50518 | € 210,21 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 4,97730 | 12,40793 | 17,09725 | 29,50518 | € 210,21 |
-| 4. ongehuwd | 4,97730 | 10,17450 | 17,09725 | 27,27175 | € 309,13 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 4,97730 | 12,40793 | 17,09725 | 29,50518 | € 432,78 |
+| 1a. gehuwd gezin aldaar, met kinderen | 4,96690 | 12,64330 | 34,26609 | 46,90939 | € 1.412,40 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 4,96690 | 12,64330 | 34,26609 | 46,90939 | € 1.181,28 |
+| 2. gehuwd gezin niet aldaar | 4,96690 | 12,64330 | 17,13305 | 29,77635 | € 218,28 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 4,96690 | 12,64330 | 17,13305 | 29,77635 | € 218,28 |
+| 4. ongehuwd | 4,96690 | 10,36750 | 17,13305 | 27,50055 | € 321,00 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 4,96690 | 12,64330 | 17,13305 | 29,77635 | € 449,40 |
 | **Spanje** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 17,50000 | 11,91450 | 29,41450 | € 1.360,15 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 17,50000 | 11,91450 | 29,41450 | € 1.137,58 |
-| 2. gehuwd gezin niet aldaar | 1,00000 | 17,50000 | 5,95725 | 23,45725 | € 210,21 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 17,50000 | 5,95725 | 23,45725 | € 210,21 |
-| 4. ongehuwd | 1,00000 | 14,35000 | 5,95725 | 20,30725 | € 309,13 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 17,50000 | 5,95725 | 23,45725 | € 432,78 |
+| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 17,50000 | 11,91450 | 29,41450 | € 1.412,40 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 17,50000 | 11,91450 | 29,41450 | € 1.181,28 |
+| 2. gehuwd gezin niet aldaar | 1,00000 | 17,50000 | 5,95725 | 23,45725 | € 218,28 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 17,50000 | 5,95725 | 23,45725 | € 218,28 |
+| 4. ongehuwd | 1,00000 | 14,35000 | 5,95725 | 20,30725 | € 321,00 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 17,50000 | 5,95725 | 23,45725 | € 449,40 |
 | **St. Eustatius** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 1,08215 | 26,08733 | 30,48792 | 56,57525 | € 1.607,45 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 1,08215 | 26,08733 | 30,48792 | 56,57525 | € 1.261,23 |
-| 2. gehuwd gezin niet aldaar | 1,08215 | 26,08733 | 15,24396 | 41,33129 | € 346,22 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,08215 | 26,08733 | 15,24396 | 41,33129 | € 346,22 |
-| 4. ongehuwd | 1,08215 | 21,39161 | 15,24396 | 36,63557 | € 346,22 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,08215 | 26,08733 | 15,24396 | 41,33129 | € 469,87 |
+| 1a. gehuwd gezin aldaar, met kinderen | 1,08570 | 25,67505 | 30,38823 | 56,06328 | € 1.669,20 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 1,08570 | 25,67505 | 30,38823 | 56,06328 | € 1.309,68 |
+| 2. gehuwd gezin niet aldaar | 1,08570 | 25,67505 | 15,19411 | 40,86916 | € 359,52 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,08570 | 25,67505 | 15,19411 | 40,86916 | € 359,52 |
+| 4. ongehuwd | 1,08570 | 21,05354 | 15,19411 | 36,24765 | € 359,52 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,08570 | 25,67505 | 15,19411 | 40,86916 | € 487,92 |
 | **St. Maarten** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 1,95710 | 17,25635 | 29,26718 | 46,52353 | € 1.607,45 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 1,95710 | 17,25635 | 29,26718 | 46,52353 | € 1.261,23 |
-| 2. gehuwd gezin niet aldaar | 1,95710 | 17,25635 | 14,63359 | 31,88994 | € 346,22 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,95710 | 17,25635 | 14,63359 | 31,88994 | € 346,22 |
-| 4. ongehuwd | 1,95710 | 14,15021 | 14,63359 | 28,78380 | € 346,22 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,95710 | 17,25635 | 14,63359 | 31,88994 | € 469,87 |
+| 1a. gehuwd gezin aldaar, met kinderen | 1,95716 | 17,25275 | 29,26629 | 46,51904 | € 1.669,20 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 1,95716 | 17,25275 | 29,26629 | 46,51904 | € 1.309,68 |
+| 2. gehuwd gezin niet aldaar | 1,95716 | 17,25275 | 14,63314 | 31,88589 | € 359,52 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,95716 | 17,25275 | 14,63314 | 31,88589 | € 359,52 |
+| 4. ongehuwd | 1,95716 | 14,14726 | 14,63314 | 28,78040 | € 359,52 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,95716 | 17,25275 | 14,63314 | 31,88589 | € 487,92 |
 | **Suriname** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 39,64320 | 21,76161 | 44,63781 | 66,39942 | € 1.607,45 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 39,64320 | 21,76161 | 44,63781 | 66,39942 | € 1.261,23 |
-| 2. gehuwd gezin niet aldaar | 39,64320 | 21,76161 | 22,31890 | 44,08051 | € 346,22 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 39,64320 | 21,76161 | 22,31890 | 44,08051 | € 346,22 |
-| 4. ongehuwd | 39,64320 | 17,84452 | 22,31890 | 40,16342 | € 346,22 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 39,64320 | 21,76161 | 22,31890 | 44,08051 | € 469,87 |
+| 1a. gehuwd gezin aldaar, met kinderen | 38,28340 | 26,08650 | 46,22331 | 72,30981 | € 1.669,20 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 38,28340 | 26,08650 | 46,22331 | 72,30981 | € 1.309,68 |
+| 2. gehuwd gezin niet aldaar | 38,28340 | 26,08650 | 23,11166 | 49,19816 | € 359,52 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 38,28340 | 26,08650 | 23,11166 | 49,19816 | € 359,52 |
+| 4. ongehuwd | 38,28340 | 21,39093 | 23,11166 | 44,50259 | € 359,52 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 38,28340 | 26,08650 | 23,11166 | 49,19816 | € 487,92 |
 | **Tsjechie** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 24,80100 | 33,01399 | 16,60015 | 49,61414 | € 1.360,15 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 24,80100 | 33,01399 | 16,60015 | 49,61414 | € 1.137,58 |
-| 2. gehuwd gezin niet aldaar | 24,80100 | 33,01399 | 8,30007 | 41,31406 | € 210,21 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 24,80100 | 33,01399 | 8,30007 | 41,31406 | € 210,21 |
-| 4. ongehuwd | 24,80100 | 27,07147 | 8,30007 | 35,37154 | € 309,13 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 24,80100 | 33,01399 | 8,30007 | 41,31406 | € 432,78 |
+| 1a. gehuwd gezin aldaar, met kinderen | 25,34800 | 30,14360 | 16,24192 | 46,38552 | € 1.412,40 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 25,34800 | 30,14360 | 16,24192 | 46,38552 | € 1.181,28 |
+| 2. gehuwd gezin niet aldaar | 25,34800 | 30,14360 | 8,12096 | 38,26456 | € 218,28 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 25,34800 | 30,14360 | 8,12096 | 38,26456 | € 218,28 |
+| 4. ongehuwd | 25,34800 | 24,71775 | 8,12096 | 32,83871 | € 321,00 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 25,34800 | 30,14360 | 8,12096 | 38,26456 | € 449,40 |
 | **Turkije** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 32,84245 | 0,00000 | 30,42000 | 30,42000 | € 1.360,15 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 32,84245 | 0,00000 | 30,42000 | 30,42000 | € 1.137,58 |
-| 2. gehuwd gezin niet aldaar | 32,84245 | 0,00000 | 15,21000 | 15,21000 | € 210,21 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 32,84245 | 0,00000 | 15,21000 | 15,21000 | € 210,21 |
-| 4. ongehuwd | 32,84245 | 0,00000 | 15,21000 | 15,21000 | € 309,13 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 32,84245 | 0,00000 | 15,21000 | 15,21000 | € 432,78 |
+| 1a. gehuwd gezin aldaar, met kinderen | 33,81520 | 0,00000 | 30,42000 | 30,42000 | € 1.412,40 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 33,81520 | 0,00000 | 30,42000 | 30,42000 | € 1.181,28 |
+| 2. gehuwd gezin niet aldaar | 33,81520 | 0,00000 | 15,21000 | 15,21000 | € 218,28 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 33,81520 | 0,00000 | 15,21000 | 15,21000 | € 218,28 |
+| 4. ongehuwd | 33,81520 | 0,00000 | 15,21000 | 15,21000 | € 321,00 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 33,81520 | 0,00000 | 15,21000 | 15,21000 | € 449,40 |
 | **Verenigd Koninkrijk** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 0,85225 | 16,51558 | 12,72350 | 29,23908 | € 1.360,15 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 0,85225 | 16,51558 | 12,72350 | 29,23908 | € 1.137,58 |
-| 2. gehuwd gezin niet aldaar | 0,85225 | 16,51558 | 6,36175 | 22,87733 | € 210,21 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 0,85225 | 16,51558 | 6,36175 | 22,87733 | € 210,21 |
-| 4. ongehuwd | 0,85225 | 13,54277 | 6,36175 | 19,90452 | € 309,13 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 0,85225 | 16,51558 | 6,36175 | 22,87733 | € 432,78 |
+| 1a. gehuwd gezin aldaar, met kinderen | 0,85620 | 15,97804 | 12,66480 | 28,64284 | € 1.412,40 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 0,85620 | 15,97804 | 12,66480 | 28,64284 | € 1.181,28 |
+| 2. gehuwd gezin niet aldaar | 0,85620 | 15,97804 | 6,33240 | 22,31044 | € 218,28 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 0,85620 | 15,97804 | 6,33240 | 22,31044 | € 218,28 |
+| 4. ongehuwd | 0,85620 | 13,10199 | 6,33240 | 19,43439 | € 321,00 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 0,85620 | 15,97804 | 6,33240 | 22,31044 | € 449,40 |
 | **Verenigde Staten van Amerika (NY)** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 1,08215 | 27,27496 | 10,92019 | 38,19515 | € 1.607,45 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 1,08215 | 27,27496 | 10,92019 | 38,19515 | € 1.261,23 |
-| 2. gehuwd gezin niet aldaar | 1,08215 | 27,27496 | 5,46010 | 32,73506 | € 346,22 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,08215 | 27,27496 | 5,46010 | 32,73506 | € 346,22 |
-| 4. ongehuwd | 1,08215 | 22,36547 | 5,46010 | 27,82557 | € 346,22 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,08215 | 27,27496 | 5,46010 | 32,73506 | € 469,87 |
+| 1a. gehuwd gezin aldaar, met kinderen | 1,08570 | 26,85880 | 10,88449 | 37,74329 | € 1.669,20 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 1,08570 | 26,85880 | 10,88449 | 37,74329 | € 1.309,68 |
+| 2. gehuwd gezin niet aldaar | 1,08570 | 26,85880 | 5,44224 | 32,30104 | € 359,52 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,08570 | 26,85880 | 5,44224 | 32,30104 | € 359,52 |
+| 4. ongehuwd | 1,08570 | 22,02422 | 5,44224 | 27,46646 | € 359,52 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,08570 | 26,85880 | 5,44224 | 32,30104 | € 487,92 |
 | **Zuid Afrika** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 20,30925 | 0,00000 | 29,64000 | 29,64000 | € 1.607,45 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 20,30925 | 0,00000 | 29,64000 | 29,64000 | € 1.261,23 |
-| 2. gehuwd gezin niet aldaar | 20,30925 | 0,00000 | 14,82000 | 14,82000 | € 346,22 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 20,30925 | 0,00000 | 14,82000 | 14,82000 | € 346,22 |
-| 4. ongehuwd | 20,30925 | 0,00000 | 14,82000 | 14,82000 | € 346,22 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 20,30925 | 0,00000 | 14,82000 | 14,82000 | € 469,87 |
+| 1a. gehuwd gezin aldaar, met kinderen | 20,75045 | 0,00000 | 29,64000 | 29,64000 | € 1.669,20 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 20,75045 | 0,00000 | 29,64000 | 29,64000 | € 1.309,68 |
+| 2. gehuwd gezin niet aldaar | 20,75045 | 0,00000 | 14,82000 | 14,82000 | € 359,52 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 20,75045 | 0,00000 | 14,82000 | 14,82000 | € 359,52 |
+| 4. ongehuwd | 20,75045 | 0,00000 | 14,82000 | 14,82000 | € 359,52 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 20,75045 | 0,00000 | 14,82000 | 14,82000 | € 487,92 |
 | **Zweden** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 11,35350 | 5,42608 | 10,69020 | 16,11628 | € 1.360,15 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 11,35350 | 5,42608 | 10,69020 | 16,11628 | € 1.137,58 |
-| 2. gehuwd gezin niet aldaar | 11,35350 | 5,42608 | 5,34510 | 10,77118 | € 210,21 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 11,35350 | 5,42608 | 5,34510 | 10,77118 | € 210,21 |
-| 4. ongehuwd | 11,35350 | 4,44939 | 5,34510 | 9,79449 | € 309,13 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 11,35350 | 5,42608 | 5,34510 | 10,77118 | € 432,78 |
+| 1a. gehuwd gezin aldaar, met kinderen | 11,17700 | 7,09090 | 10,85902 | 17,94992 | € 1.412,40 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 11,17700 | 7,09090 | 10,85902 | 17,94992 | € 1.181,28 |
+| 2. gehuwd gezin niet aldaar | 11,17700 | 7,09090 | 5,42951 | 12,52041 | € 218,28 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 11,17700 | 7,09090 | 5,42951 | 12,52041 | € 218,28 |
+| 4. ongehuwd | 11,17700 | 5,81454 | 5,42951 | 11,24405 | € 321,00 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 11,17700 | 7,09090 | 5,42951 | 12,52041 | € 449,40 |
 
-| Maand: | feb-24 |   |   |   |   |
+| **Maand:** | **maart 2024** | **maart 2024** | **maart 2024** | **maart 2024** | **maart 2024** |
 | --- | --- | --- | --- | --- | --- |
-| Rijlabels | Actuele koers | % KKC | % Verb.c | % Totaal | Verpl.c |
+| **Rijlabels** | **Actuele koers** | **% KKC** | **% Verb.c** | **% Totaal** | **Verpl.c** |
 | **Aruba** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 1,95710 | 24,07358 | 26,12990 | 50,20348 | € 1.916,58 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 1,95710 | 24,07358 | 26,12990 | 50,20348 | € 1.817,66 |
-| 2. gehuwd gezin niet aldaar | 1,95710 | 24,07358 | 13,06495 | 37,13853 | € 445,14 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,95710 | 24,07358 | 13,06495 | 37,13853 | € 544,06 |
-| 4. ongehuwd | 1,95710 | 19,74033 | 13,06495 | 32,80528 | € 420,41 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,95710 | 24,07358 | 13,06495 | 37,13853 | € 779,00 |
+| 1a. gehuwd gezin aldaar, met kinderen | 1,95716 | 24,06977 | 26,12909 | 50,19886 | € 1.990,20 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 1,95716 | 24,06977 | 26,12909 | 50,19886 | € 1.887,48 |
+| 2. gehuwd gezin niet aldaar | 1,95716 | 24,06977 | 13,06455 | 37,13432 | € 462,24 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,95716 | 24,06977 | 13,06455 | 37,13432 | € 564,96 |
+| 4. ongehuwd | 1,95716 | 19,73722 | 13,06455 | 32,80177 | € 436,56 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,95716 | 24,06977 | 13,06455 | 37,13432 | € 808,92 |
 | **Australië** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 1,63970 | 16,33652 | 15,42622 | 31,76274 | € 1.916,58 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 1,63970 | 16,33652 | 15,42622 | 31,76274 | € 1.817,66 |
-| 2. gehuwd gezin niet aldaar | 1,63970 | 16,33652 | 7,71311 | 24,04963 | € 445,14 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,63970 | 16,33652 | 7,71311 | 24,04963 | € 544,06 |
-| 4. ongehuwd | 1,63970 | 13,39595 | 7,71311 | 21,10906 | € 420,41 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,63970 | 16,33652 | 7,71311 | 24,04963 | € 779,00 |
+| 1a. gehuwd gezin aldaar, met kinderen | 1,65665 | 15,14623 | 15,26839 | 30,41462 | € 1.990,20 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 1,65665 | 15,14623 | 15,26839 | 30,41462 | € 1.887,48 |
+| 2. gehuwd gezin niet aldaar | 1,65665 | 15,14623 | 7,63419 | 22,78042 | € 462,24 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,65665 | 15,14623 | 7,63419 | 22,78042 | € 564,96 |
+| 4. ongehuwd | 1,65665 | 12,41991 | 7,63419 | 20,05410 | € 436,56 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,65665 | 15,14623 | 7,63419 | 22,78042 | € 808,92 |
 | **België** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 21,50000 | 11,37240 | 32,87240 | € 1.483,80 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 21,50000 | 11,37240 | 32,87240 | € 1.483,80 |
-| 2. gehuwd gezin niet aldaar | 1,00000 | 21,50000 | 5,68620 | 27,18620 | € 160,75 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 21,50000 | 5,68620 | 27,18620 | € 234,94 |
-| 4. ongehuwd | 1,00000 | 17,63000 | 5,68620 | 23,31620 | € 358,59 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 21,50000 | 5,68620 | 27,18620 | € 605,89 |
+| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 21,50000 | 11,37240 | 32,87240 | € 1.540,80 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 21,50000 | 11,37240 | 32,87240 | € 1.540,80 |
+| 2. gehuwd gezin niet aldaar | 1,00000 | 21,50000 | 5,68620 | 27,18620 | € 166,92 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 21,50000 | 5,68620 | 27,18620 | € 243,96 |
+| 4. ongehuwd | 1,00000 | 17,63000 | 5,68620 | 23,31620 | € 372,36 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 21,50000 | 5,68620 | 27,18620 | € 629,16 |
 | **Bonaire** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 1,08215 | 34,59872 | 35,69558 | 70,29430 | € 1.916,58 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 1,08215 | 34,59872 | 35,69558 | 70,29430 | € 1.817,66 |
-| 2. gehuwd gezin niet aldaar | 1,08215 | 34,59872 | 17,84779 | 52,44651 | € 445,14 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,08215 | 34,59872 | 17,84779 | 52,44651 | € 544,06 |
-| 4. ongehuwd | 1,08215 | 28,37095 | 17,84779 | 46,21874 | € 420,41 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,08215 | 34,59872 | 17,84779 | 52,44651 | € 779,00 |
+| 1a. gehuwd gezin aldaar, met kinderen | 1,08570 | 34,15861 | 35,57886 | 69,73747 | € 1.990,20 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 1,08570 | 34,15861 | 35,57886 | 69,73747 | € 1.887,48 |
+| 2. gehuwd gezin niet aldaar | 1,08570 | 34,15861 | 17,78943 | 51,94804 | € 462,24 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,08570 | 34,15861 | 17,78943 | 51,94804 | € 564,96 |
+| 4. ongehuwd | 1,08570 | 28,01006 | 17,78943 | 45,79949 | € 436,56 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,08570 | 34,15861 | 17,78943 | 51,94804 | € 808,92 |
 | **Brunei** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 1,45460 | 31,70714 | 48,28384 | 79,99098 | € 1.916,58 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 1,45460 | 31,70714 | 48,28384 | 79,99098 | € 1.817,66 |
-| 2. gehuwd gezin niet aldaar | 1,45460 | 31,70714 | 24,14192 | 55,84906 | € 445,14 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,45460 | 31,70714 | 24,14192 | 55,84906 | € 544,06 |
-| 4. ongehuwd | 1,45460 | 25,99985 | 24,14192 | 50,14177 | € 420,41 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,45460 | 31,70714 | 24,14192 | 55,84906 | € 779,00 |
+| 1a. gehuwd gezin aldaar, met kinderen | 1,45610 | 31,57146 | 48,23410 | 79,80556 | € 1.990,20 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 1,45610 | 31,57146 | 48,23410 | 79,80556 | € 1.887,48 |
+| 2. gehuwd gezin niet aldaar | 1,45610 | 31,57146 | 24,11705 | 55,68851 | € 462,24 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,45610 | 31,57146 | 24,11705 | 55,68851 | € 564,96 |
+| 4. ongehuwd | 1,45610 | 25,88860 | 24,11705 | 50,00565 | € 436,56 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,45610 | 31,57146 | 24,11705 | 55,68851 | € 808,92 |
 | **Canada** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 1,45400 | 17,47593 | 5,49787 | 22,97380 | € 1.916,58 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 1,45400 | 17,47593 | 5,49787 | 22,97380 | € 1.817,66 |
-| 2. gehuwd gezin niet aldaar | 1,45400 | 17,47593 | 2,74894 | 20,22487 | € 445,14 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,45400 | 17,47593 | 2,74894 | 20,22487 | € 544,06 |
-| 4. ongehuwd | 1,45400 | 14,33026 | 2,74894 | 17,07920 | € 420,41 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,45400 | 17,47593 | 2,74894 | 20,22487 | € 779,00 |
+| 1a. gehuwd gezin aldaar, met kinderen | 1,46490 | 16,60182 | 5,45696 | 22,05878 | € 1.990,20 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 1,46490 | 16,60182 | 5,45696 | 22,05878 | € 1.887,48 |
+| 2. gehuwd gezin niet aldaar | 1,46490 | 16,60182 | 2,72848 | 19,33030 | € 462,24 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,46490 | 16,60182 | 2,72848 | 19,33030 | € 564,96 |
+| 4. ongehuwd | 1,46490 | 13,61349 | 2,72848 | 16,34197 | € 436,56 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,46490 | 16,60182 | 2,72848 | 19,33030 | € 808,92 |
 | **Canada (Bagotville)** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 1,45400 | 17,47593 | 15,57731 | 33,05324 | € 1.916,58 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 1,45400 | 17,47593 | 15,57731 | 33,05324 | € 1.817,66 |
-| 2. gehuwd gezin niet aldaar | 1,45400 | 17,47593 | 7,78865 | 25,26458 | € 445,14 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,45400 | 17,47593 | 7,78865 | 25,26458 | € 544,06 |
-| 4. ongehuwd | 1,45400 | 14,33026 | 7,78865 | 22,11891 | € 420,41 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,45400 | 17,47593 | 7,78865 | 25,26458 | € 779,00 |
+| 1a. gehuwd gezin aldaar, met kinderen | 1,46490 | 16,60182 | 15,46140 | 32,06322 | € 1.990,20 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 1,46490 | 16,60182 | 15,46140 | 32,06322 | € 1.887,48 |
+| 2. gehuwd gezin niet aldaar | 1,46490 | 16,60182 | 7,73070 | 24,33252 | € 462,24 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,46490 | 16,60182 | 7,73070 | 24,33252 | € 564,96 |
+| 4. ongehuwd | 1,46490 | 13,61349 | 7,73070 | 21,34419 | € 436,56 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,46490 | 16,60182 | 7,73070 | 24,33252 | € 808,92 |
 | **China** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 7,77005 | 41,32290 | 41,88811 | 83,21101 | € 1.916,58 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 7,77005 | 41,32290 | 41,88811 | 83,21101 | € 1.817,66 |
-| 2. gehuwd gezin niet aldaar | 7,77005 | 41,32290 | 20,94405 | 62,26695 | € 445,14 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 7,77005 | 41,32290 | 20,94405 | 62,26695 | € 544,06 |
-| 4. ongehuwd | 7,77005 | 33,88478 | 20,94405 | 54,82883 | € 420,41 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 7,77005 | 41,32290 | 20,94405 | 62,26695 | € 779,00 |
+| 1a. gehuwd gezin aldaar, met kinderen | 7,81520 | 40,50645 | 41,64611 | 82,15256 | € 1.990,20 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 7,81520 | 40,50645 | 41,64611 | 82,15256 | € 1.887,48 |
+| 2. gehuwd gezin niet aldaar | 7,81520 | 40,50645 | 20,82306 | 61,32951 | € 462,24 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 7,81520 | 40,50645 | 20,82306 | 61,32951 | € 564,96 |
+| 4. ongehuwd | 7,81520 | 33,21529 | 20,82306 | 54,03835 | € 436,56 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 7,81520 | 40,50645 | 20,82306 | 61,32951 | € 808,92 |
 | **Colombia** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 4259,05000 | 3,57944 | 33,93262 | 37,51206 | € 1.916,58 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 4259,05000 | 3,57944 | 33,93262 | 37,51206 | € 1.817,66 |
-| 2. gehuwd gezin niet aldaar | 4259,05000 | 3,57944 | 16,96631 | 20,54575 | € 445,14 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 4259,05000 | 3,57944 | 16,96631 | 20,54575 | € 544,06 |
-| 4. ongehuwd | 4259,05000 | 2,93514 | 16,96631 | 19,90145 | € 420,41 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 4259,05000 | 3,57944 | 16,96631 | 20,54575 | € 779,00 |
+| 1a. gehuwd gezin aldaar, met kinderen | 4283,84000 | 2,98004 | 33,73626 | 36,71630 | € 1.990,20 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 4283,84000 | 2,98004 | 33,73626 | 36,71630 | € 1.887,48 |
+| 2. gehuwd gezin niet aldaar | 4283,84000 | 2,98004 | 16,86813 | 19,84817 | € 462,24 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 4283,84000 | 2,98004 | 16,86813 | 19,84817 | € 564,96 |
+| 4. ongehuwd | 4283,84000 | 2,44363 | 16,86813 | 19,31176 | € 436,56 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 4283,84000 | 2,98004 | 16,86813 | 19,84817 | € 808,92 |
 | **Curaçao** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 1,95710 | 32,35164 | 30,97028 | 63,32192 | € 1.916,58 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 1,95710 | 32,35164 | 30,97028 | 63,32192 | € 1.817,66 |
-| 2. gehuwd gezin niet aldaar | 1,95710 | 32,35164 | 15,48514 | 47,83678 | € 445,14 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,95710 | 32,35164 | 15,48514 | 47,83678 | € 544,06 |
-| 4. ongehuwd | 1,95710 | 26,52835 | 15,48514 | 42,01349 | € 420,41 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,95710 | 32,35164 | 15,48514 | 47,83678 | € 779,00 |
+| 1a. gehuwd gezin aldaar, met kinderen | 1,95716 | 32,34759 | 30,96933 | 63,31692 | € 1.990,20 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 1,95716 | 32,34759 | 30,96933 | 63,31692 | € 1.887,48 |
+| 2. gehuwd gezin niet aldaar | 1,95716 | 32,34759 | 15,48467 | 47,83226 | € 462,24 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,95716 | 32,34759 | 15,48467 | 47,83226 | € 564,96 |
+| 4. ongehuwd | 1,95716 | 26,52502 | 15,48467 | 42,00969 | € 436,56 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,95716 | 32,34759 | 15,48467 | 47,83226 | € 808,92 |
 | **Denemarken** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 7,45385 | 43,91865 | 12,34822 | 56,26687 | € 1.533,26 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 7,45385 | 43,91865 | 12,34822 | 56,26687 | € 1.483,80 |
-| 2. gehuwd gezin niet aldaar | 7,45385 | 43,91865 | 6,17411 | 50,09276 | € 259,67 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 7,45385 | 43,91865 | 6,17411 | 50,09276 | € 333,86 |
-| 4. ongehuwd | 7,45385 | 36,01329 | 6,17411 | 42,18740 | € 358,59 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 7,45385 | 43,91865 | 6,17411 | 50,09276 | € 605,89 |
+| 1a. gehuwd gezin aldaar, met kinderen | 7,45485 | 43,89934 | 12,34656 | 56,24590 | € 1.592,16 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 7,45485 | 43,89934 | 12,34656 | 56,24590 | € 1.540,80 |
+| 2. gehuwd gezin niet aldaar | 7,45485 | 43,89934 | 6,17328 | 50,07262 | € 269,64 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 7,45485 | 43,89934 | 6,17328 | 50,07262 | € 346,68 |
+| 4. ongehuwd | 7,45485 | 35,99746 | 6,17328 | 42,17074 | € 372,36 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 7,45485 | 43,89934 | 6,17328 | 50,07262 | € 629,16 |
 | **Duitsland** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 20,60000 | 9,40680 | 30,00680 | € 1.483,80 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 20,60000 | 9,40680 | 30,00680 | € 1.483,80 |
-| 2. gehuwd gezin niet aldaar | 1,00000 | 20,60000 | 4,70340 | 25,30340 | € 160,75 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 20,60000 | 4,70340 | 25,30340 | € 234,94 |
-| 4. ongehuwd | 1,00000 | 16,89200 | 4,70340 | 21,59540 | € 358,59 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 20,60000 | 4,70340 | 25,30340 | € 605,89 |
+| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 20,60000 | 9,40680 | 30,00680 | € 1.540,80 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 20,60000 | 9,40680 | 30,00680 | € 1.540,80 |
+| 2. gehuwd gezin niet aldaar | 1,00000 | 20,60000 | 4,70340 | 25,30340 | € 166,92 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 20,60000 | 4,70340 | 25,30340 | € 243,96 |
+| 4. ongehuwd | 1,00000 | 16,89200 | 4,70340 | 21,59540 | € 372,36 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 20,60000 | 4,70340 | 25,30340 | € 629,16 |
 | **Estland** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 24,50000 | 29,13300 | 53,63300 | € 1.533,26 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 24,50000 | 29,13300 | 53,63300 | € 1.483,80 |
-| 2. gehuwd gezin niet aldaar | 1,00000 | 24,50000 | 14,56650 | 39,06650 | € 259,67 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 24,50000 | 14,56650 | 39,06650 | € 333,86 |
-| 4. ongehuwd | 1,00000 | 20,09000 | 14,56650 | 34,65650 | € 358,59 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 24,50000 | 14,56650 | 39,06650 | € 605,89 |
+| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 24,50000 | 29,13300 | 53,63300 | € 1.592,16 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 24,50000 | 29,13300 | 53,63300 | € 1.540,80 |
+| 2. gehuwd gezin niet aldaar | 1,00000 | 24,50000 | 14,56650 | 39,06650 | € 269,64 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 24,50000 | 14,56650 | 39,06650 | € 346,68 |
+| 4. ongehuwd | 1,00000 | 20,09000 | 14,56650 | 34,65650 | € 372,36 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 24,50000 | 14,56650 | 39,06650 | € 629,16 |
 | **Finland** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 15,90000 | 9,94422 | 25,84422 | € 1.533,26 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 15,90000 | 9,94422 | 25,84422 | € 1.483,80 |
-| 2. gehuwd gezin niet aldaar | 1,00000 | 15,90000 | 4,97211 | 20,87211 | € 259,67 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 15,90000 | 4,97211 | 20,87211 | € 333,86 |
-| 4. ongehuwd | 1,00000 | 13,03800 | 4,97211 | 18,01011 | € 358,59 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 15,90000 | 4,97211 | 20,87211 | € 605,89 |
+| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 15,90000 | 9,94422 | 25,84422 | € 1.592,16 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 15,90000 | 9,94422 | 25,84422 | € 1.540,80 |
+| 2. gehuwd gezin niet aldaar | 1,00000 | 15,90000 | 4,97211 | 20,87211 | € 269,64 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 15,90000 | 4,97211 | 20,87211 | € 346,68 |
+| 4. ongehuwd | 1,00000 | 13,03800 | 4,97211 | 18,01011 | € 372,36 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 15,90000 | 4,97211 | 20,87211 | € 629,16 |
 | **Frankrijk** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 16,00000 | 9,04800 | 25,04800 | € 1.533,26 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 16,00000 | 9,04800 | 25,04800 | € 1.483,80 |
-| 2. gehuwd gezin niet aldaar | 1,00000 | 16,00000 | 4,52400 | 20,52400 | € 259,67 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 16,00000 | 4,52400 | 20,52400 | € 333,86 |
-| 4. ongehuwd | 1,00000 | 13,12000 | 4,52400 | 17,64400 | € 358,59 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 16,00000 | 4,52400 | 20,52400 | € 605,89 |
+| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 16,00000 | 9,04800 | 25,04800 | € 1.592,16 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 16,00000 | 9,04800 | 25,04800 | € 1.540,80 |
+| 2. gehuwd gezin niet aldaar | 1,00000 | 16,00000 | 4,52400 | 20,52400 | € 269,64 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 16,00000 | 4,52400 | 20,52400 | € 346,68 |
+| 4. ongehuwd | 1,00000 | 13,12000 | 4,52400 | 17,64400 | € 372,36 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 16,00000 | 4,52400 | 20,52400 | € 629,16 |
+| **Frans guyana** |   |   |   |   |   |
+| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 48,70000 | 53,35356 | 102,05356 | € 1.990,20 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 48,70000 | 53,35356 | 102,05356 | € 1.887,48 |
+| 2. gehuwd gezin niet aldaar | 1,00000 | 48,70000 | 26,67678 | 75,37678 | € 462,24 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 48,70000 | 26,67678 | 75,37678 | € 564,96 |
+| 4. ongehuwd | 1,00000 | 39,93400 | 26,67678 | 66,61078 | € 436,56 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 48,70000 | 26,67678 | 75,37678 | € 808,92 |
 | **Griekenland** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 13,90000 | 20,43366 | 34,33366 | € 1.533,26 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 13,90000 | 20,43366 | 34,33366 | € 1.483,80 |
-| 2. gehuwd gezin niet aldaar | 1,00000 | 13,90000 | 10,21683 | 24,11683 | € 259,67 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 13,90000 | 10,21683 | 24,11683 | € 333,86 |
-| 4. ongehuwd | 1,00000 | 11,39800 | 10,21683 | 21,61483 | € 358,59 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 13,90000 | 10,21683 | 24,11683 | € 605,89 |
+| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 13,90000 | 20,43366 | 34,33366 | € 1.592,16 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 13,90000 | 20,43366 | 34,33366 | € 1.540,80 |
+| 2. gehuwd gezin niet aldaar | 1,00000 | 13,90000 | 10,21683 | 24,11683 | € 269,64 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 13,90000 | 10,21683 | 24,11683 | € 346,68 |
+| 4. ongehuwd | 1,00000 | 11,39800 | 10,21683 | 21,61483 | € 372,36 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 13,90000 | 10,21683 | 24,11683 | € 629,16 |
 | **Hongarijë** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 390,00000 | 16,48000 | 20,89651 | 37,37651 | € 1.533,26 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 390,00000 | 16,48000 | 20,89651 | 37,37651 | € 1.483,80 |
-| 2. gehuwd gezin niet aldaar | 390,00000 | 16,48000 | 10,44826 | 26,92826 | € 259,67 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 390,00000 | 16,48000 | 10,44826 | 26,92826 | € 333,86 |
-| 4. ongehuwd | 390,00000 | 13,51360 | 10,44826 | 23,96186 | € 358,59 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 390,00000 | 16,48000 | 10,44826 | 26,92826 | € 605,89 |
+| 1a. gehuwd gezin aldaar, met kinderen | 390,26500 | 16,40091 | 20,88232 | 37,28323 | € 1.592,16 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 390,26500 | 16,40091 | 20,88232 | 37,28323 | € 1.540,80 |
+| 2. gehuwd gezin niet aldaar | 390,26500 | 16,40091 | 10,44116 | 26,84207 | € 269,64 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 390,26500 | 16,40091 | 10,44116 | 26,84207 | € 346,68 |
+| 4. ongehuwd | 390,26500 | 13,44874 | 10,44116 | 23,88990 | € 372,36 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 390,26500 | 16,40091 | 10,44116 | 26,84207 | € 629,16 |
 | **Italië** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 9,80000 | 17,98524 | 27,78524 | € 1.533,26 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 9,80000 | 17,98524 | 27,78524 | € 1.483,80 |
-| 2. gehuwd gezin niet aldaar | 1,00000 | 9,80000 | 8,99262 | 18,79262 | € 259,67 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 9,80000 | 8,99262 | 18,79262 | € 333,86 |
-| 4. ongehuwd | 1,00000 | 8,03600 | 8,99262 | 17,02862 | € 358,59 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 9,80000 | 8,99262 | 18,79262 | € 605,89 |
+| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 9,80000 | 17,98524 | 27,78524 | € 1.592,16 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 9,80000 | 17,98524 | 27,78524 | € 1.540,80 |
+| 2. gehuwd gezin niet aldaar | 1,00000 | 9,80000 | 8,99262 | 18,79262 | € 269,64 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 9,80000 | 8,99262 | 18,79262 | € 346,68 |
+| 4. ongehuwd | 1,00000 | 8,03600 | 8,99262 | 17,02862 | € 372,36 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 9,80000 | 8,99262 | 18,79262 | € 629,16 |
 | **Letland** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 22,70000 | 28,71180 | 51,41180 | € 1.533,26 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 22,70000 | 28,71180 | 51,41180 | € 1.483,80 |
-| 2. gehuwd gezin niet aldaar | 1,00000 | 22,70000 | 14,35590 | 37,05590 | € 259,67 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 22,70000 | 14,35590 | 37,05590 | € 333,86 |
-| 4. ongehuwd | 1,00000 | 18,61400 | 14,35590 | 32,96990 | € 358,59 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 22,70000 | 14,35590 | 37,05590 | € 605,89 |
+| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 22,70000 | 28,71180 | 51,41180 | € 1.592,16 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 22,70000 | 28,71180 | 51,41180 | € 1.540,80 |
+| 2. gehuwd gezin niet aldaar | 1,00000 | 22,70000 | 14,35590 | 37,05590 | € 269,64 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 22,70000 | 14,35590 | 37,05590 | € 346,68 |
+| 4. ongehuwd | 1,00000 | 18,61400 | 14,35590 | 32,96990 | € 372,36 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 22,70000 | 14,35590 | 37,05590 | € 629,16 |
 | **Litouwen** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 21,40000 | 43,55832 | 64,95832 | € 1.533,26 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 21,40000 | 43,55832 | 64,95832 | € 1.483,80 |
-| 2. gehuwd gezin niet aldaar | 1,00000 | 21,40000 | 21,77916 | 43,17916 | € 259,67 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 21,40000 | 21,77916 | 43,17916 | € 333,86 |
-| 4. ongehuwd | 1,00000 | 17,54800 | 21,77916 | 39,32716 | € 358,59 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 21,40000 | 21,77916 | 43,17916 | € 605,89 |
+| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 21,40000 | 43,55832 | 64,95832 | € 1.592,16 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 21,40000 | 43,55832 | 64,95832 | € 1.540,80 |
+| 2. gehuwd gezin niet aldaar | 1,00000 | 21,40000 | 21,77916 | 43,17916 | € 269,64 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 21,40000 | 21,77916 | 43,17916 | € 346,68 |
+| 4. ongehuwd | 1,00000 | 17,54800 | 21,77916 | 39,32716 | € 372,36 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 21,40000 | 21,77916 | 43,17916 | € 629,16 |
 | **Luxemburg** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 10,40000 | 7,75008 | 18,15008 | € 1.533,26 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 10,40000 | 7,75008 | 18,15008 | € 1.483,80 |
-| 2. gehuwd gezin niet aldaar | 1,00000 | 10,40000 | 3,87504 | 14,27504 | € 259,67 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 10,40000 | 3,87504 | 14,27504 | € 333,86 |
-| 4. ongehuwd | 1,00000 | 8,52800 | 3,87504 | 12,40304 | € 358,59 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 10,40000 | 3,87504 | 14,27504 | € 605,89 |
+| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 10,40000 | 7,75008 | 18,15008 | € 1.592,16 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 10,40000 | 7,75008 | 18,15008 | € 1.540,80 |
+| 2. gehuwd gezin niet aldaar | 1,00000 | 10,40000 | 3,87504 | 14,27504 | € 269,64 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 10,40000 | 3,87504 | 14,27504 | € 346,68 |
+| 4. ongehuwd | 1,00000 | 8,52800 | 3,87504 | 12,40304 | € 372,36 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 10,40000 | 3,87504 | 14,27504 | € 629,16 |
 | **Moldavie** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 19,25770 | 65,33490 | 61,90139 | 127,23629 | € 1.533,26 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 19,25770 | 65,33490 | 61,90139 | 127,23629 | € 1.483,80 |
-| 2. gehuwd gezin niet aldaar | 19,25770 | 65,33490 | 30,95069 | 96,28559 | € 259,67 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 19,25770 | 65,33490 | 30,95069 | 96,28559 | € 333,86 |
-| 4. ongehuwd | 19,25770 | 53,57462 | 30,95069 | 84,52531 | € 358,59 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 19,25770 | 65,33490 | 30,95069 | 96,28559 | € 605,89 |
+| 1a. gehuwd gezin aldaar, met kinderen | 19,29290 | 65,03325 | 61,78845 | 126,82170 | € 1.592,16 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 19,29290 | 65,03325 | 61,78845 | 126,82170 | € 1.540,80 |
+| 2. gehuwd gezin niet aldaar | 19,29290 | 65,03325 | 30,89422 | 95,92747 | € 269,64 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 19,29290 | 65,03325 | 30,89422 | 95,92747 | € 346,68 |
+| 4. ongehuwd | 19,29290 | 53,32727 | 30,89422 | 84,22149 | € 372,36 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 19,29290 | 65,03325 | 30,89422 | 95,92747 | € 629,16 |
 | **Noorwegen** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 11,29900 | 24,66555 | 8,75152 | 33,41707 | € 1.533,26 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 11,29900 | 24,66555 | 8,75152 | 33,41707 | € 1.483,80 |
-| 2. gehuwd gezin niet aldaar | 11,29900 | 24,66555 | 4,37576 | 29,04131 | € 259,67 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 11,29900 | 24,66555 | 4,37576 | 29,04131 | € 333,86 |
-| 4. ongehuwd | 11,29900 | 20,22575 | 4,37576 | 24,60151 | € 358,59 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 11,29900 | 24,66555 | 4,37576 | 29,04131 | € 605,89 |
+| 1a. gehuwd gezin aldaar, met kinderen | 11,43100 | 23,22596 | 8,65046 | 31,87642 | € 1.592,16 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 11,43100 | 23,22596 | 8,65046 | 31,87642 | € 1.540,80 |
+| 2. gehuwd gezin niet aldaar | 11,43100 | 23,22596 | 4,32523 | 27,55119 | € 269,64 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 11,43100 | 23,22596 | 4,32523 | 27,55119 | € 346,68 |
+| 4. ongehuwd | 11,43100 | 19,04529 | 4,32523 | 23,37052 | € 372,36 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 11,43100 | 23,22596 | 4,32523 | 27,55119 | € 629,16 |
 | **Noorwegen (Stavanger)** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 11,29900 | 24,66555 | 11,66870 | 36,33425 | € 1.533,26 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 11,29900 | 24,66555 | 11,66870 | 36,33425 | € 1.483,80 |
-| 2. gehuwd gezin niet aldaar | 11,29900 | 24,66555 | 5,83435 | 30,49990 | € 259,67 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 11,29900 | 24,66555 | 5,83435 | 30,49990 | € 333,86 |
-| 4. ongehuwd | 11,29900 | 20,22575 | 5,83435 | 26,06010 | € 358,59 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 11,29900 | 24,66555 | 5,83435 | 30,49990 | € 605,89 |
+| 1a. gehuwd gezin aldaar, met kinderen | 11,43100 | 23,22596 | 11,53395 | 34,75991 | € 1.592,16 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 11,43100 | 23,22596 | 11,53395 | 34,75991 | € 1.540,80 |
+| 2. gehuwd gezin niet aldaar | 11,43100 | 23,22596 | 5,76698 | 28,99294 | € 269,64 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 11,43100 | 23,22596 | 5,76698 | 28,99294 | € 346,68 |
+| 4. ongehuwd | 11,43100 | 19,04529 | 5,76698 | 24,81227 | € 372,36 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 11,43100 | 23,22596 | 5,76698 | 28,99294 | € 629,16 |
 | **Oekraine** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 41,07320 | 17,42328 | 74,18803 | 91,61131 | € 1.533,26 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 41,07320 | 17,42328 | 74,18803 | 91,61131 | € 1.483,80 |
-| 2. gehuwd gezin niet aldaar | 41,07320 | 17,42328 | 37,09402 | 54,51730 | € 259,67 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 41,07320 | 17,42328 | 37,09402 | 54,51730 | € 333,86 |
-| 4. ongehuwd | 41,07320 | 14,28709 | 37,09402 | 51,38111 | € 358,59 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 41,07320 | 17,42328 | 37,09402 | 54,51730 | € 605,89 |
+| 1a. gehuwd gezin aldaar, met kinderen | 41,49270 | 16,23611 | 73,43797 | 89,67408 | € 1.592,16 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 41,49270 | 16,23611 | 73,43797 | 89,67408 | € 1.540,80 |
+| 2. gehuwd gezin niet aldaar | 41,49270 | 16,23611 | 36,71899 | 52,95510 | € 269,64 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 41,49270 | 16,23611 | 36,71899 | 52,95510 | € 346,68 |
+| 4. ongehuwd | 41,49270 | 13,31361 | 36,71899 | 50,03260 | € 372,36 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 41,49270 | 16,23611 | 36,71899 | 52,95510 | € 629,16 |
 | **Oostenrijk** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 25,50000 | 10,76790 | 36,26790 | € 1.533,26 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 25,50000 | 10,76790 | 36,26790 | € 1.483,80 |
-| 2. gehuwd gezin niet aldaar | 1,00000 | 25,50000 | 5,38395 | 30,88395 | € 259,67 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 25,50000 | 5,38395 | 30,88395 | € 333,86 |
-| 4. ongehuwd | 1,00000 | 20,91000 | 5,38395 | 26,29395 | € 358,59 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 25,50000 | 5,38395 | 30,88395 | € 605,89 |
+| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 25,50000 | 10,76790 | 36,26790 | € 1.592,16 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 25,50000 | 10,76790 | 36,26790 | € 1.540,80 |
+| 2. gehuwd gezin niet aldaar | 1,00000 | 25,50000 | 5,38395 | 30,88395 | € 269,64 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 25,50000 | 5,38395 | 30,88395 | € 346,68 |
+| 4. ongehuwd | 1,00000 | 20,91000 | 5,38395 | 26,29395 | € 372,36 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 25,50000 | 5,38395 | 30,88395 | € 629,16 |
 | **Polen** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 4,36675 | 15,13826 | 18,85965 | 33,99791 | € 1.533,26 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 4,36675 | 15,13826 | 18,85965 | 33,99791 | € 1.483,80 |
-| 2. gehuwd gezin niet aldaar | 4,36675 | 15,13826 | 9,42982 | 24,56808 | € 259,67 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 4,36675 | 15,13826 | 9,42982 | 24,56808 | € 333,86 |
-| 4. ongehuwd | 4,36675 | 12,41337 | 9,42982 | 21,84319 | € 358,59 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 4,36675 | 15,13826 | 9,42982 | 24,56808 | € 605,89 |
+| 1a. gehuwd gezin aldaar, met kinderen | 4,31275 | 16,57991 | 19,09579 | 35,67570 | € 1.592,16 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 4,31275 | 16,57991 | 19,09579 | 35,67570 | € 1.540,80 |
+| 2. gehuwd gezin niet aldaar | 4,31275 | 16,57991 | 9,54789 | 26,12780 | € 269,64 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 4,31275 | 16,57991 | 9,54789 | 26,12780 | € 346,68 |
+| 4. ongehuwd | 4,31275 | 13,59552 | 9,54789 | 23,14341 | € 372,36 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 4,31275 | 16,57991 | 9,54789 | 26,12780 | € 629,16 |
 | **Portugal** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 2,90000 | 9,63144 | 12,53144 | € 1.533,26 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 2,90000 | 9,63144 | 12,53144 | € 1.483,80 |
-| 2. gehuwd gezin niet aldaar | 1,00000 | 2,90000 | 4,81572 | 7,71572 | € 259,67 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 2,90000 | 4,81572 | 7,71572 | € 333,86 |
-| 4. ongehuwd | 1,00000 | 2,37800 | 4,81572 | 7,19372 | € 358,59 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 2,90000 | 4,81572 | 7,71572 | € 605,89 |
+| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 2,90000 | 9,63144 | 12,53144 | € 1.592,16 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 2,90000 | 9,63144 | 12,53144 | € 1.540,80 |
+| 2. gehuwd gezin niet aldaar | 1,00000 | 2,90000 | 4,81572 | 7,71572 | € 269,64 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 2,90000 | 4,81572 | 7,71572 | € 346,68 |
+| 4. ongehuwd | 1,00000 | 2,37800 | 4,81572 | 7,19372 | € 372,36 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 2,90000 | 4,81572 | 7,71572 | € 629,16 |
 | **Roemenië** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 4,97730 | 12,40793 | 34,19449 | 46,60242 | € 1.533,26 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 4,97730 | 12,40793 | 34,19449 | 46,60242 | € 1.483,80 |
-| 2. gehuwd gezin niet aldaar | 4,97730 | 12,40793 | 17,09725 | 29,50518 | € 259,67 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 4,97730 | 12,40793 | 17,09725 | 29,50518 | € 333,86 |
-| 4. ongehuwd | 4,97730 | 10,17450 | 17,09725 | 27,27175 | € 358,59 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 4,97730 | 12,40793 | 17,09725 | 29,50518 | € 605,89 |
+| 1a. gehuwd gezin aldaar, met kinderen | 4,96690 | 12,64330 | 34,26609 | 46,90939 | € 1.592,16 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 4,96690 | 12,64330 | 34,26609 | 46,90939 | € 1.540,80 |
+| 2. gehuwd gezin niet aldaar | 4,96690 | 12,64330 | 17,13305 | 29,77635 | € 269,64 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 4,96690 | 12,64330 | 17,13305 | 29,77635 | € 346,68 |
+| 4. ongehuwd | 4,96690 | 10,36750 | 17,13305 | 27,50055 | € 372,36 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 4,96690 | 12,64330 | 17,13305 | 29,77635 | € 629,16 |
 | **Spanje** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 17,50000 | 11,91450 | 29,41450 | € 1.533,26 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 17,50000 | 11,91450 | 29,41450 | € 1.483,80 |
-| 2. gehuwd gezin niet aldaar | 1,00000 | 17,50000 | 5,95725 | 23,45725 | € 259,67 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 17,50000 | 5,95725 | 23,45725 | € 333,86 |
-| 4. ongehuwd | 1,00000 | 14,35000 | 5,95725 | 20,30725 | € 358,59 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 17,50000 | 5,95725 | 23,45725 | € 605,89 |
+| 1a. gehuwd gezin aldaar, met kinderen | 1,00000 | 17,50000 | 11,91450 | 29,41450 | € 1.592,16 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 1,00000 | 17,50000 | 11,91450 | 29,41450 | € 1.540,80 |
+| 2. gehuwd gezin niet aldaar | 1,00000 | 17,50000 | 5,95725 | 23,45725 | € 269,64 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,00000 | 17,50000 | 5,95725 | 23,45725 | € 346,68 |
+| 4. ongehuwd | 1,00000 | 14,35000 | 5,95725 | 20,30725 | € 372,36 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,00000 | 17,50000 | 5,95725 | 23,45725 | € 629,16 |
 | **St. Eustatius** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 1,08215 | 26,08733 | 30,48792 | 56,57525 | € 1.916,58 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 1,08215 | 26,08733 | 30,48792 | 56,57525 | € 1.817,66 |
-| 2. gehuwd gezin niet aldaar | 1,08215 | 26,08733 | 15,24396 | 41,33129 | € 445,14 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,08215 | 26,08733 | 15,24396 | 41,33129 | € 544,06 |
-| 4. ongehuwd | 1,08215 | 21,39161 | 15,24396 | 36,63557 | € 420,41 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,08215 | 26,08733 | 15,24396 | 41,33129 | € 779,00 |
+| 1a. gehuwd gezin aldaar, met kinderen | 1,08570 | 25,67505 | 30,38823 | 56,06328 | € 1.990,20 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 1,08570 | 25,67505 | 30,38823 | 56,06328 | € 1.887,48 |
+| 2. gehuwd gezin niet aldaar | 1,08570 | 25,67505 | 15,19411 | 40,86916 | € 462,24 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,08570 | 25,67505 | 15,19411 | 40,86916 | € 564,96 |
+| 4. ongehuwd | 1,08570 | 21,05354 | 15,19411 | 36,24765 | € 436,56 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,08570 | 25,67505 | 15,19411 | 40,86916 | € 808,92 |
 | **St. Maarten** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 1,95710 | 17,25635 | 29,26718 | 46,52353 | € 1.916,58 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 1,95710 | 17,25635 | 29,26718 | 46,52353 | € 1.817,66 |
-| 2. gehuwd gezin niet aldaar | 1,95710 | 17,25635 | 14,63359 | 31,88994 | € 445,14 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,95710 | 17,25635 | 14,63359 | 31,88994 | € 544,06 |
-| 4. ongehuwd | 1,95710 | 14,15021 | 14,63359 | 28,78380 | € 420,41 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,95710 | 17,25635 | 14,63359 | 31,88994 | € 779,00 |
+| 1a. gehuwd gezin aldaar, met kinderen | 1,95716 | 17,25275 | 29,26629 | 46,51904 | € 1.990,20 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 1,95716 | 17,25275 | 29,26629 | 46,51904 | € 1.887,48 |
+| 2. gehuwd gezin niet aldaar | 1,95716 | 17,25275 | 14,63314 | 31,88589 | € 462,24 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,95716 | 17,25275 | 14,63314 | 31,88589 | € 564,96 |
+| 4. ongehuwd | 1,95716 | 14,14726 | 14,63314 | 28,78040 | € 436,56 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,95716 | 17,25275 | 14,63314 | 31,88589 | € 808,92 |
 | **Suriname** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 39,64320 | 21,76161 | 44,63781 | 66,39942 | € 1.916,58 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 39,64320 | 21,76161 | 44,63781 | 66,39942 | € 1.817,66 |
-| 2. gehuwd gezin niet aldaar | 39,64320 | 21,76161 | 22,31890 | 44,08051 | € 445,14 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 39,64320 | 21,76161 | 22,31890 | 44,08051 | € 544,06 |
-| 4. ongehuwd | 39,64320 | 17,84452 | 22,31890 | 40,16342 | € 420,41 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 39,64320 | 21,76161 | 22,31890 | 44,08051 | € 779,00 |
+| 1a. gehuwd gezin aldaar, met kinderen | 38,28340 | 26,08650 | 46,22331 | 72,30981 | € 1.990,20 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 38,28340 | 26,08650 | 46,22331 | 72,30981 | € 1.887,48 |
+| 2. gehuwd gezin niet aldaar | 38,28340 | 26,08650 | 23,11166 | 49,19816 | € 462,24 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 38,28340 | 26,08650 | 23,11166 | 49,19816 | € 564,96 |
+| 4. ongehuwd | 38,28340 | 21,39093 | 23,11166 | 44,50259 | € 436,56 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 38,28340 | 26,08650 | 23,11166 | 49,19816 | € 808,92 |
 | **Tsjechie** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 24,80100 | 33,01399 | 16,60015 | 49,61414 | € 1.533,26 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 24,80100 | 33,01399 | 16,60015 | 49,61414 | € 1.483,80 |
-| 2. gehuwd gezin niet aldaar | 24,80100 | 33,01399 | 8,30007 | 41,31406 | € 259,67 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 24,80100 | 33,01399 | 8,30007 | 41,31406 | € 333,86 |
-| 4. ongehuwd | 24,80100 | 27,07147 | 8,30007 | 35,37154 | € 358,59 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 24,80100 | 33,01399 | 8,30007 | 41,31406 | € 605,89 |
+| 1a. gehuwd gezin aldaar, met kinderen | 25,34800 | 30,14360 | 16,24192 | 46,38552 | € 1.592,16 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 25,34800 | 30,14360 | 16,24192 | 46,38552 | € 1.540,80 |
+| 2. gehuwd gezin niet aldaar | 25,34800 | 30,14360 | 8,12096 | 38,26456 | € 269,64 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 25,34800 | 30,14360 | 8,12096 | 38,26456 | € 346,68 |
+| 4. ongehuwd | 25,34800 | 24,71775 | 8,12096 | 32,83871 | € 372,36 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 25,34800 | 30,14360 | 8,12096 | 38,26456 | € 629,16 |
 | **Turkije** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 32,84245 | 0,00000 | 30,42000 | 30,42000 | € 1.533,26 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 32,84245 | 0,00000 | 30,42000 | 30,42000 | € 1.483,80 |
-| 2. gehuwd gezin niet aldaar | 32,84245 | 0,00000 | 15,21000 | 15,21000 | € 259,67 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 32,84245 | 0,00000 | 15,21000 | 15,21000 | € 333,86 |
-| 4. ongehuwd | 32,84245 | 0,00000 | 15,21000 | 15,21000 | € 358,59 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 32,84245 | 0,00000 | 15,21000 | 15,21000 | € 605,89 |
+| 1a. gehuwd gezin aldaar, met kinderen | 33,81520 | 0,00000 | 30,42000 | 30,42000 | € 1.592,16 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 33,81520 | 0,00000 | 30,42000 | 30,42000 | € 1.540,80 |
+| 2. gehuwd gezin niet aldaar | 33,81520 | 0,00000 | 15,21000 | 15,21000 | € 269,64 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 33,81520 | 0,00000 | 15,21000 | 15,21000 | € 346,68 |
+| 4. ongehuwd | 33,81520 | 0,00000 | 15,21000 | 15,21000 | € 372,36 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 33,81520 | 0,00000 | 15,21000 | 15,21000 | € 629,16 |
 | **Verenigd Koninkrijk** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 0,85225 | 16,51558 | 12,72350 | 29,23908 | € 1.533,26 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 0,85225 | 16,51558 | 12,72350 | 29,23908 | € 1.483,80 |
-| 2. gehuwd gezin niet aldaar | 0,85225 | 16,51558 | 6,36175 | 22,87733 | € 259,67 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 0,85225 | 16,51558 | 6,36175 | 22,87733 | € 333,86 |
-| 4. ongehuwd | 0,85225 | 13,54277 | 6,36175 | 19,90452 | € 358,59 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 0,85225 | 16,51558 | 6,36175 | 22,87733 | € 605,89 |
+| 1a. gehuwd gezin aldaar, met kinderen | 0,85620 | 15,97804 | 12,66480 | 28,64284 | € 1.592,16 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 0,85620 | 15,97804 | 12,66480 | 28,64284 | € 1.540,80 |
+| 2. gehuwd gezin niet aldaar | 0,85620 | 15,97804 | 6,33240 | 22,31044 | € 269,64 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 0,85620 | 15,97804 | 6,33240 | 22,31044 | € 346,68 |
+| 4. ongehuwd | 0,85620 | 13,10199 | 6,33240 | 19,43439 | € 372,36 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 0,85620 | 15,97804 | 6,33240 | 22,31044 | € 629,16 |
 | **Verenigde Staten van Amerika (NY)** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 1,08215 | 27,27496 | 10,92019 | 38,19515 | € 1.916,58 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 1,08215 | 27,27496 | 10,92019 | 38,19515 | € 1.817,66 |
-| 2. gehuwd gezin niet aldaar | 1,08215 | 27,27496 | 5,46010 | 32,73506 | € 445,14 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,08215 | 27,27496 | 5,46010 | 32,73506 | € 544,06 |
-| 4. ongehuwd | 1,08215 | 22,36547 | 5,46010 | 27,82557 | € 420,41 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,08215 | 27,27496 | 5,46010 | 32,73506 | € 779,00 |
+| 1a. gehuwd gezin aldaar, met kinderen | 1,08570 | 26,85880 | 10,88449 | 37,74329 | € 1.990,20 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 1,08570 | 26,85880 | 10,88449 | 37,74329 | € 1.887,48 |
+| 2. gehuwd gezin niet aldaar | 1,08570 | 26,85880 | 5,44224 | 32,30104 | € 462,24 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 1,08570 | 26,85880 | 5,44224 | 32,30104 | € 564,96 |
+| 4. ongehuwd | 1,08570 | 22,02422 | 5,44224 | 27,46646 | € 436,56 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 1,08570 | 26,85880 | 5,44224 | 32,30104 | € 808,92 |
 | **Zuid Afrika** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 20,30925 | 0,00000 | 29,64000 | 29,64000 | € 1.916,58 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 20,30925 | 0,00000 | 29,64000 | 29,64000 | € 1.817,66 |
-| 2. gehuwd gezin niet aldaar | 20,30925 | 0,00000 | 14,82000 | 14,82000 | € 445,14 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 20,30925 | 0,00000 | 14,82000 | 14,82000 | € 544,06 |
-| 4. ongehuwd | 20,30925 | 0,00000 | 14,82000 | 14,82000 | € 420,41 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 20,30925 | 0,00000 | 14,82000 | 14,82000 | € 779,00 |
+| 1a. gehuwd gezin aldaar, met kinderen | 20,75045 | 0,00000 | 29,64000 | 29,64000 | € 1.990,20 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 20,75045 | 0,00000 | 29,64000 | 29,64000 | € 1.887,48 |
+| 2. gehuwd gezin niet aldaar | 20,75045 | 0,00000 | 14,82000 | 14,82000 | € 462,24 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 20,75045 | 0,00000 | 14,82000 | 14,82000 | € 564,96 |
+| 4. ongehuwd | 20,75045 | 0,00000 | 14,82000 | 14,82000 | € 436,56 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 20,75045 | 0,00000 | 14,82000 | 14,82000 | € 808,92 |
 | **Zweden** |   |   |   |   |   |
-| 1a. gehuwd gezin aldaar, met kinderen | 11,35350 | 5,42608 | 10,69020 | 16,11628 | € 1.533,26 |
-| 1b. gehuwd gezin aldaar, zonder kinderen | 11,35350 | 5,42608 | 10,69020 | 16,11628 | € 1.483,80 |
-| 2. gehuwd gezin niet aldaar | 11,35350 | 5,42608 | 5,34510 | 10,77118 | € 259,67 |
-| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 11,35350 | 5,42608 | 5,34510 | 10,77118 | € 333,86 |
-| 4. ongehuwd | 11,35350 | 4,44939 | 5,34510 | 9,79449 | € 358,59 |
-| 5. ongehuwd en zelfstandig woonachtig aldaar | 11,35350 | 5,42608 | 5,34510 | 10,77118 | € 605,89 |
+| 1a. gehuwd gezin aldaar, met kinderen | 11,17700 | 7,09090 | 10,85902 | 17,94992 | € 1.592,16 |
+| 1b. gehuwd gezin aldaar, zonder kinderen | 11,17700 | 7,09090 | 10,85902 | 17,94992 | € 1.540,80 |
+| 2. gehuwd gezin niet aldaar | 11,17700 | 7,09090 | 5,42951 | 12,52041 | € 269,64 |
+| 3. gehuwd gezin niet aldaar / zelfst. woonachtig aldaar | 11,17700 | 7,09090 | 5,42951 | 12,52041 | € 346,68 |
+| 4. ongehuwd | 11,17700 | 5,81454 | 5,42951 | 11,24405 | € 372,36 |
+| 5. ongehuwd en zelfstandig woonachtig aldaar | 11,17700 | 7,09090 | 5,42951 | 12,52041 | € 629,16 |
 
 | Land | % DT (nov 2010) | koers DT (nov 2010) | koers dec 2010 | koers- factor | % DC (dec 2010) |
 | --- | --- | --- | --- | --- | --- |
@@ -1324,9 +1338,13 @@ Tabel 8 Huisvesting en voeding van defensie (tegemoetkoming kosten voeding indie
 | 16 | ktz | Kol | 16 |
 | 17 | cdr | Bgen/Cdre | 17 |
 
+**Tabel 18**Tegemoetkoming**meerkosten beginperiode**
+
+Bedragen met ingang van**1 januari 2024**
+
 |   | binnen Europa | buiten Europa |
 | --- | --- | --- |
-| Voor de defensieambtenaar die metterwoon gevestigd is in het land van plaatsing | € 6.185,10 | € 11.074,12 |
-| Voor de defensieambtenaar die van rijkswege wordt gehuisvest in het land van plaatsing | € 1.780,56 | € 2.970,63 |
+| Voor de defensieambtenaar die metterwoon gevestigd is in het land van plaatsing | € 6.422,70 | € 11.499,53 |
+| Voor de defensieambtenaar die van rijkswege wordt gehuisvest in het land van plaatsing | € 1.848,96 | € 3.084,75 |
 
 Deze regeling zal worden geplaatst in de bundel Bezoldiging militairen (MP 31-400A) en in de bundel Uitvoering bezoldiging burgerpersoneel defensie (MP 33-310/320). Van deze plaatsing zal mededeling worden gedaan in de Nederlandse Staatscourant.
