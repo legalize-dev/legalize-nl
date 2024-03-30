@@ -4,7 +4,7 @@ identifier: "BWBR0049310"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-03-30"
-last_updated: "2024-01-31"
+last_updated: "2024-03-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049310"
 soort: "AMvB"
@@ -98,9 +98,9 @@ in welke formule voorstelt:
 
 ##### Artikel 2.2. Opvangplaatsen van bijzondere aard
 
-1. Onze Minister neemt in de indicatieve verdeling per gemeente op hoeveel van de aan te bieden opvangplaatsen geschikt moeten zijn voor de opvang van alleenstaande minderjarige vreemdelingen. De totale geraamde landelijke behoefte aan opvangplaatsen voor alleenstaande minderjarige vreemdelingen wordt indicatief over de gemeenten verdeeld op basis van de verdeling als bedoeld in [artikel 2.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049310&hoofdstuk=2&artikel=2.1&z=2024-01-31&g=2024-01-31), waarbij BO in de formule de totale geraamde landelijke behoefte aan opvangplaatsen voor alleenstaande minderjarige vreemdelingen voorstelt. De provinciale opvangopgave van alleenstaande minderjarige vreemdelingen wordt vastgesteld conform het bepaalde in artikel 2.1, tweede lid.
+1. Onze Minister neemt in de indicatieve verdeling per gemeente op hoeveel van de aan te bieden opvangplaatsen geschikt moeten zijn voor de opvang van alleenstaande minderjarige vreemdelingen. De totale geraamde landelijke behoefte aan opvangplaatsen voor alleenstaande minderjarige vreemdelingen wordt indicatief over de gemeenten verdeeld op basis van de verdeling als bedoeld in [artikel 2.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049310&hoofdstuk=2&artikel=2.1&z=2024-03-30&g=2024-03-30), waarbij BO in de formule de totale geraamde landelijke behoefte aan opvangplaatsen voor alleenstaande minderjarige vreemdelingen voorstelt. De provinciale opvangopgave van alleenstaande minderjarige vreemdelingen wordt vastgesteld conform het bepaalde in artikel 2.1, tweede lid.
 
-2. Onze Minister kan uitsluitend in de provinciale opvangopgave opnemen dat wordt voorzien in een aanmeldvoorziening, indien acht is geslagen op een evenwichtige spreiding over het grondgebied van Nederland door rekening te houden met de omvang van de in [artikel 2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049310&hoofdstuk=2&artikel=2.1&z=2024-01-31&g=2024-01-31), bedoelde provinciale opvangopgaven.
+2. Onze Minister kan uitsluitend in de provinciale opvangopgave opnemen dat wordt voorzien in een aanmeldvoorziening, indien acht is geslagen op een evenwichtige spreiding over het grondgebied van Nederland door rekening te houden met de omvang van de in [artikel 2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049310&hoofdstuk=2&artikel=2.1&z=2024-03-30&g=2024-03-30), bedoelde provinciale opvangopgaven.
 
 3. Bij regeling van Onze Minister kunnen nadere regels worden gesteld over de verdeling van opvangplaatsen van bijzondere aard.
 
@@ -140,13 +140,11 @@ in welke formule voorstelt:
 
 Wijzigt de Ambtsinstructie commissaris van de Koning.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ### Hoofdstuk 6. Overgangs- en slotbepalingen
 
 ##### Artikel 6.1. Inwerkingtreding
 
-De [Wet gemeentelijke taak mogelijk maken asielopvangvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0049307) en dit besluit treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst, met uitzondering van [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049310&hoofdstuk=5&artikel=5.1&z=2024-01-31&g=2024-01-31) van dit besluit, dat twee maanden na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst in werking treedt.
+De [Wet gemeentelijke taak mogelijk maken asielopvangvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0049307) en dit besluit treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst, met uitzondering van [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049310&hoofdstuk=5&artikel=5.1&z=2024-03-30&g=2024-03-30) van dit besluit, dat twee maanden na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst in werking treedt.
 
 ##### Artikel 6.2. Citeertitel
 
