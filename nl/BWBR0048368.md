@@ -4,7 +4,7 @@ identifier: "BWBR0048368"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-28"
-last_updated: "2023-07-08"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048368"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- **commissie:** beoordelingscommissie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048368&artikel=2&z=2023-07-08&g=2023-07-08);
+- **commissie:** beoordelingscommissie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048368&artikel=2&z=2024-06-28&g=2024-04-01);
 
 - **DUS-I (Dienst Uitvoering Subsidies aan Instellingen):** uitvoeringsorganisatie van het Ministerie van Volksgezondheid, Welzijn en Sport die verantwoordelijk is voor het secretariaat;
 
