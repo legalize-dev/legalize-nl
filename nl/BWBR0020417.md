@@ -4,7 +4,7 @@ identifier: "BWBR0020417"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-04-01"
-last_updated: "2023-07-20"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020417"
 soort: "AMvB"
@@ -62,11 +62,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2
 
-Een uitgevende instelling als bedoeld in artikel 3, eerste lid, onderdeel 21, van de verordening marktmisbruik en een deelnemer aan een emissierechtenmarkt als bedoeld in artikel 3, eerste lid, onderdeel 20, van de verordening marktmisbruik hoeven slechts op verzoek van de Autoriteit Financiële Markten schriftelijk uiteen te zetten op welke wijze aan de in artikel 17, vierde lid, van de verordening marktmisbruik opgenomen voorwaarden voor uitstel is voldaan.
+Vervallen
 
 ##### Artikel 3
 
-Een uitgevende instelling als bedoeld in artikel 3, eerste lid, onderdeel 21, van de verordening marktmisbruik en een deelnemer aan een emissierechtenmarkt als bedoeld in artikel 3, eerste lid, onderdeel 20, van de verordening marktmisbruik zijn niet gehouden de overeenkomstig artikel 19, eerste lid, van de verordening marktmisbruik aan de Autoriteit Financiële Markten gemelde informatie openbaar te maken als bedoeld in artikel 19, derde lid, van de verordening marktmisbruik.
+Vervallen
 
 ##### Artikel 4
 
@@ -186,7 +186,7 @@ Een onderneming als bedoeld in [artikel 5:68, eerste lid, van de wet](https://we
 
 ##### Artikel 24
 
-1. Een onderneming als bedoeld in het tweede lid beschikt over een gedragscode voor privé-transacties door aan de onderneming verbonden personen die direct of indirect bij de transacties van de onderneming in financiële instrumenten zijn betrokken dan wel anderszins uit hoofde van werk, beroep of functie regelmatig over voorwetenschap beschikken of kunnen beschikken, tenzij de onderneming met toepassing van [artikel 25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=6&paragraaf=6.2&artikel=25&z=2023-07-20&g=2023-07-20), besluit geen personen aan te wijzen als insider als bedoeld in artikel 25. Zij draagt er zorg voor dat de gedragscode bekend is bij ieder wie het aangaat en ziet toe op de naleving ervan.
+1. Een onderneming als bedoeld in het tweede lid beschikt over een gedragscode voor privé-transacties door aan de onderneming verbonden personen die direct of indirect bij de transacties van de onderneming in financiële instrumenten zijn betrokken dan wel anderszins uit hoofde van werk, beroep of functie regelmatig over voorwetenschap beschikken of kunnen beschikken, tenzij de onderneming met toepassing van [artikel 25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=6&paragraaf=6.2&artikel=25&z=2024-04-01&g=2024-04-01), besluit geen personen aan te wijzen als insider als bedoeld in artikel 25. Zij draagt er zorg voor dat de gedragscode bekend is bij ieder wie het aangaat en ziet toe op de naleving ervan.
 
 2. Het eerste lid is van toepassing op:
 
@@ -210,7 +210,7 @@ Een onderneming als bedoeld in [artikel 5:68, eerste lid, van de wet](https://we
 
 ##### Artikel 25
 
-1. De gedragscode, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=6&paragraaf=6.2&artikel=24&z=2023-07-20&g=2023-07-20), bevat regels die gelden voor alle in dat lid bedoelde personen, en aanvullende regels voor insiders.
+1. De gedragscode, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=6&paragraaf=6.2&artikel=24&z=2024-04-01&g=2024-04-01), bevat regels die gelden voor alle in dat lid bedoelde personen, en aanvullende regels voor insiders.
 
 2. Een onderneming wijst als insider aan:
 
@@ -226,15 +226,15 @@ Een onderneming als bedoeld in [artikel 5:68, eerste lid, van de wet](https://we
 
 ##### Artikel 26
 
-De gedragscode, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=6&paragraaf=6.2&artikel=24&z=2023-07-20&g=2023-07-20), bepaalt dat een in dat lid bedoelde persoon iedere vermenging van zakelijke en privé-belangen, respectievelijk de redelijkerwijs voorzienbare schijn daarvan, die te maken heeft met transacties in financiële instrumenten, vermijdt.
+De gedragscode, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=6&paragraaf=6.2&artikel=24&z=2024-04-01&g=2024-04-01), bepaalt dat een in dat lid bedoelde persoon iedere vermenging van zakelijke en privé-belangen, respectievelijk de redelijkerwijs voorzienbare schijn daarvan, die te maken heeft met transacties in financiële instrumenten, vermijdt.
 
 ##### Artikel 27
 
-1. De gedragscode, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=6&paragraaf=6.2&artikel=24&z=2023-07-20&g=2023-07-20), bepaalt dat een insider als bedoeld in [artikel 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=6&paragraaf=6.2&artikel=25&z=2023-07-20&g=2023-07-20):
+1. De gedragscode, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=6&paragraaf=6.2&artikel=24&z=2024-04-01&g=2024-04-01), bepaalt dat een insider als bedoeld in [artikel 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=6&paragraaf=6.2&artikel=25&z=2024-04-01&g=2024-04-01):
 
 - a. door hem verrichte privé-transacties meldt op de in de gedragscode voorgeschreven wijze en met inachtneming van de in de gedragscode opgenomen voorschriften;
 
-- b. naar zijn beste vermogen bevordert dat derden, op wier beleggingen hij invloed uitoefent of kan uitoefenen, de interne toezichthouder, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=6&paragraaf=6.1&artikel=22&z=2023-07-20&g=2023-07-20), op diens verzoek alle informatie verstrekken omtrent enige door hen verrichte of bewerkstelligde privé-transactie.
+- b. naar zijn beste vermogen bevordert dat derden, op wier beleggingen hij invloed uitoefent of kan uitoefenen, de interne toezichthouder, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=6&paragraaf=6.1&artikel=22&z=2024-04-01&g=2024-04-01), op diens verzoek alle informatie verstrekken omtrent enige door hen verrichte of bewerkstelligde privé-transactie.
 
 2. De gedragscode kan bepalen dat melding van transacties in bepaalde categorieën financiële instrumenten, waarvan melding niet bijdraagt aan het doel van de gedragscode, achterwege kan blijven.
 
@@ -250,7 +250,7 @@ Vervallen
 
 ##### Artikel 30
 
-[Artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=6&paragraaf=6.2&artikel=24&z=2023-07-20&g=2023-07-20), is tot de eerste dag van de zevende maand na de datum van inwerkingtreding niet van toepassing op ondernemingen als bedoeld in [artikel 24, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=6&paragraaf=6.2&artikel=24&z=2023-07-20&g=2023-07-20), die op de datum van inwerkingtreding van dit besluit werkzaam zijn en ingevolge [hoofdstuk IVA van de Vrijstellingsregeling Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007777&hoofdstuk=IVA) waren vrijgesteld van [artikel 18a van de Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=18a).
+[Artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=6&paragraaf=6.2&artikel=24&z=2024-04-01&g=2024-04-01), is tot de eerste dag van de zevende maand na de datum van inwerkingtreding niet van toepassing op ondernemingen als bedoeld in [artikel 24, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020417&hoofdstuk=6&paragraaf=6.2&artikel=24&z=2024-04-01&g=2024-04-01), die op de datum van inwerkingtreding van dit besluit werkzaam zijn en ingevolge [hoofdstuk IVA van de Vrijstellingsregeling Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007777&hoofdstuk=IVA) waren vrijgesteld van [artikel 18a van de Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&artikel=18a).
 
 ##### Artikel 31
 
