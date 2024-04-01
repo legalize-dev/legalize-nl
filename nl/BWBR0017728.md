@@ -4,7 +4,7 @@ identifier: "BWBR0017728"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-18"
-last_updated: "2023-12-21"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017728"
 soort: "ministeriele-regeling"
@@ -36,7 +36,7 @@ entry_into_force: "2019-12-11"
 ---
 # Regeling houdende nadere regels met betrekking tot de veiligheid en certificering van in Nederland geregistreerde zeeschepen, alsmede regels met betrekking tot de veiligheid van buitenlandse schepen in Nederlandse wateren (Regeling veiligheid zeeschepen)
 
-Gelet op de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=12), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=22), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=32), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=46),[48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=48),[51](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=51), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=54), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=58) en [65 van het Schepenbesluit 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=65), de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=5), [26e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=26e), en [26f van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=26f) en de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016993&artikel=3), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016993&artikel=7), en [11, tweede lid, van de Wet buitenlandse schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0016993&artikel=11), op [richtlijn nr. 92/29/EEG](31992L0029) van de Raad van de Europese Gemeenschappen van 31 maart 1992 betreffende de minimumvoorschriften inzake veiligheid en gezondheid ter bevordering van een betere medische hulpverlening aan boord van schepen (PbEG L 113), alsmede op de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=1&artikel=1&z=2023-12-21&g=2023-12-21) van deze regeling genoemde Codes, richtlijnen en verordeningen;
+Gelet op de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=12), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=22), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=32), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=46),[48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=48),[51](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=51), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=54), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=58) en [65 van het Schepenbesluit 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=65), de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=5), [26e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=26e), en [26f van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=26f) en de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016993&artikel=3), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016993&artikel=7), en [11, tweede lid, van de Wet buitenlandse schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0016993&artikel=11), op [richtlijn nr. 92/29/EEG](31992L0029) van de Raad van de Europese Gemeenschappen van 31 maart 1992 betreffende de minimumvoorschriften inzake veiligheid en gezondheid ter bevordering van een betere medische hulpverlening aan boord van schepen (PbEG L 113), alsmede op de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=1&artikel=1&z=2024-04-01&g=2024-04-01) van deze regeling genoemde Codes, richtlijnen en verordeningen;
 
 Besluit:
 
@@ -100,7 +100,7 @@ Besluit:
 
 - –. **resolutie A.468(XII)-maatregelen:** bij resolutie A.468(XII) van de Algemene Vergadering van de IMO voorgeschreven maatregelen ter beperking van geluidhinder aan boord van schepen (Code on noise levels on board ships);
 
-- –. **resolutie A.673(16):** de bij resolutie A.673(16) van de Algemene Vergadering van de IMO aangenomen Richtlijnen voor het vervoer en de behandeling van beperkte hoeveelheden gevaarlijke en schadelijke vloeistoffen in bulk door offshore ondersteuningsschepen (Guidelines for the transport and handling of limited amounts of hazardous and noxious liquid substances in bulk on offshore support vessels);
+- –. **resolutie A.1122(30)**: resolutie A.1122(30) van de Algemene Vergadering van de IMO, houdende de Code voor het vervoer en de behandeling van gevaarlijke en schadelijke vloeistoffen in bulk door offshore ondersteuningsschepen (OSV Chemical Code);
 
 - –. **resolutie MSC.235(82):** de bij resolutie MSC.235(82) van de Maritieme Veiligheidscommissie van de IMO aangenomen Richtlijnen voor het ontwerp en de bouw van offshore bevoorradingsschepen (2006) (Guidelines for the design and construction of offshore supply vessels, 2006);
 
@@ -110,11 +110,11 @@ Besluit:
 
 - –. **richtlijn 98/41/EG:** richtlijn nr. 98/41/EG van de Raad van 18 juni 1998 inzake de registratie van de opvarenden van passagiersschepen die vanuit of naar havens in de lidstaten van de Gemeenschap varen (PbEG L 188);
 
-- –. **richtlijn 1999/5/EG:** richtlijn nr. 1999/5/EG van het Europees Parlement en de Raad van de Europese Unie van 9 maart 1999 betreffende radioapparatuur en telecommunicatie-eindapparatuur en de wederzijdse erkenning van hun conformiteit (PbEG L 91);
-
 - –. **richtlijn 2003/25/EG:** richtlijn nr. 2003/25/EG van het Europees Parlement en de Raad van de Europese Unie van 14 april 2003 betreffende specifieke stabiliteitsvereisten voor ro-ro-passagiersschepen (PbEU L 123);
 
 - –. **richtlijn 2009/45/EG:** richtlijn nr. 2009/45/EG van het Europees Parlement en de Raad van de Europese Unie van 6 mei 2009 inzake veiligheidsvoorschriften en -normen voor passagiersschepen (PbEU L 163);
+
+- –. **richtlijn 2014/53/EU**: [richtlijn 2014/53/EU](32014L0053) van het Europees Parlement en de Raad van 16 april 2014 betreffende de harmonisatie van de wetgevingen van de lidstaten inzake het op de markt aanbieden van radioapparatuur en tot intrekking van [Richtlijn 1999/5/EG](31999L0005) (PbEU L 153);
 
 - –. **richtlijn 2014/90/EU:** richtlijn nr. 2014/90/EU van het Europees Parlement en de Raad van de Europese Unie inzake uitrusting van zeeschepen en tot intrekking van richtlijn 96/98/EG van de Raad (PbEU L 257);
 
@@ -182,7 +182,7 @@ Besluit:
 
 5. Als datum waarop een schip is opgeleverd wordt aangemerkt de datum van eerste afgifte van:
 
-- a. de certificaten, bedoeld in de [artikelen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=4&z=2023-12-21&g=2023-12-21);
+- a. de certificaten, bedoeld in de [artikelen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=4&z=2024-04-01&g=2024-04-01);
 
 - b. het nationaal of het internationaal veiligheidscertificaat, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=5) en [6 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=6);
 
@@ -226,7 +226,7 @@ Deze regeling is, tenzij uitdrukkelijk anders bepaald, van toepassing op schepen
 
 ##### Artikel 6. Certificaten op grond van DSC-Code, SPS-Code en SPS-Code 2008 (IMO)
 
-1. Voor een schip ten aanzien waarvan op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=2&artikel=12&z=2023-12-21&g=2023-12-21) is gekozen voor toepassing van de DSC-Code, de SPS-Code of de SPS-Code 2008, is het bij de desbetreffende Code behorende certificaat benodigd. Indien is gekozen voor toepassing van de DSC-Code, is voor het schip tevens de bij die Code behorende exploitatievergunning benodigd.
+1. Voor een schip ten aanzien waarvan op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=2&artikel=12&z=2024-04-01&g=2024-04-01) is gekozen voor toepassing van de DSC-Code, de SPS-Code of de SPS-Code 2008, is het bij de desbetreffende Code behorende certificaat benodigd. Indien is gekozen voor toepassing van de DSC-Code, is voor het schip tevens de bij die Code behorende exploitatievergunning benodigd.
 
 2. Voor schepen als bedoeld in [artikel 6 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=6) treden de in het eerste lid bedoelde certificaten in de plaats van het voor die schepen benodigde nationaal veiligheidscertificaat.
 
@@ -244,7 +244,7 @@ Deze regeling is, tenzij uitdrukkelijk anders bepaald, van toepassing op schepen
 
 ##### Artikel 9. Bij certificaten behorende uitrustingsrapporten, aanhangsels e.d.
 
-De in de [artikelen 3a tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=4&z=2023-12-21&g=2023-12-21) bedoelde certificaten gaan vergezeld van de bij die certificaten behorende uitrustingsrapporten en aanhangsels, alsmede van de in de desbetreffende Codes, resoluties of richtlijnen voorgeschreven stabiliteitsgegevens of andere gegevens met betrekking tot schip of lading.
+De in de [artikelen 3a tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=4&z=2024-04-01&g=2024-04-01) bedoelde certificaten gaan vergezeld van de bij die certificaten behorende uitrustingsrapporten en aanhangsels, alsmede van de in de desbetreffende Codes, resoluties of richtlijnen voorgeschreven stabiliteitsgegevens of andere gegevens met betrekking tot schip of lading.
 
 #### § 2. Onderzoeken
 
@@ -280,7 +280,7 @@ Verplaatsbare offshore booreenheden als bedoeld in de MODU-Code 1979, de MODU-Co
 
 ##### Artikel 14. Tijdstippen van onderzoek
 
-1. De in [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=2&artikel=9a&z=2023-12-21&g=2023-12-21) bedoelde onderzoeken vinden plaats op de volgende tijdstippen:
+1. De in [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=2&artikel=9a&z=2024-04-01&g=2024-04-01) bedoelde onderzoeken vinden plaats op de volgende tijdstippen:
 
 - a. een eerste onderzoek voordat een schip in dienst wordt gesteld;
 
@@ -292,23 +292,23 @@ Verplaatsbare offshore booreenheden als bedoeld in de MODU-Code 1979, de MODU-Co
 
 - e. een onderzoek nadat herstellingen en vernieuwingen aan een schip hebben plaatsgevonden.
 
-2. Voor Caribisch-Nederlandse schepen als bedoeld in [artikel 41b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=4&artikel=41b&z=2023-12-21&g=2023-12-21), vindt het onderzoek, bedoeld in het eerste lid, onderdeel b, plaats tussen de tweede en derde verjaardatum.
+2. Voor Caribisch-Nederlandse schepen als bedoeld in [artikel 41b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=4&artikel=41b&z=2024-04-01&g=2024-04-01), vindt het onderzoek, bedoeld in het eerste lid, onderdeel b, plaats tussen de tweede en derde verjaardatum.
 
-3. De in de [artikelen 9b tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=2&artikel=10&z=2023-12-21&g=2023-12-21) bedoelde onderzoeken vinden plaats op de in de desbetreffende Codes, resoluties en richtlijnen voorgeschreven tijdstippen, mits het hernieuwde onderzoek waaraan een schip in verband met de vernieuwing van een certificaat wordt onderworpen, steeds plaatsvindt in de laatste drie maanden van de geldigheidsduur van het desbetreffende certificaat.
+3. De in de [artikelen 9b tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=2&artikel=10&z=2024-04-01&g=2024-04-01) bedoelde onderzoeken vinden plaats op de in de desbetreffende Codes, resoluties en richtlijnen voorgeschreven tijdstippen, mits het hernieuwde onderzoek waaraan een schip in verband met de vernieuwing van een certificaat wordt onderworpen, steeds plaatsvindt in de laatste drie maanden van de geldigheidsduur van het desbetreffende certificaat.
 
 ##### Artikel 15. Uitvoering onderzoeken door erkende organisaties
 
 1. De onderzoeken, bedoeld in de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=18), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=19) en [19a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=19a), worden uitgevoerd door een daartoe krachtens [artikel 23 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=23) aangewezen organisatie naar keuze van de eigenaar.
 
-2. De onderzoeken waaraan een schip ingevolge de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=14), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=16) en [17 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=17) of de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=2&artikel=11&z=2023-12-21&g=2023-12-21), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=2&artikel=12&z=2023-12-21&g=2023-12-21), [12a](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=2&artikel=12a&z=2023-12-21&g=2023-12-21) en [12c](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=2&artikel=12c&z=2023-12-21&g=2023-12-21) van deze regeling wordt onderworpen, worden voor schepen waarvoor een internationaal veiligheidscertificaat als bedoeld in de [artikelen 5, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=5), of [7 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=7) benodigd is, uitgevoerd door een krachtens [artikel 23 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=23) aangewezen organisatie waar het schip is geklasseerd.
+2. De onderzoeken waaraan een schip ingevolge de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=14), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=16) en [17 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=17) of de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=2&artikel=11&z=2024-04-01&g=2024-04-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=2&artikel=12&z=2024-04-01&g=2024-04-01), [12a](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=2&artikel=12a&z=2024-04-01&g=2024-04-01) en [12c](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=2&artikel=12c&z=2024-04-01&g=2024-04-01) van deze regeling wordt onderworpen, worden voor schepen waarvoor een internationaal veiligheidscertificaat als bedoeld in de [artikelen 5, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=5), of [7 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=7) benodigd is, uitgevoerd door een krachtens [artikel 23 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=23) aangewezen organisatie waar het schip is geklasseerd.
 
-3. De onderzoeken waaraan een schip, niet zijnde een schip als bedoeld in het tweede lid, ingevolge de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=15) of [17 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=17) of de [artikelen 9a tot en met 12d](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=2&artikel=10&z=2023-12-21&g=2023-12-21) van deze regeling wordt onderworpen, worden uitgevoerd door een krachtens [artikel 23 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=23) aangewezen organisatie waar het schip is geklasseerd of, indien het schip niet is geklasseerd, door ambtenaren van de Scheepvaartinspectie.
+3. De onderzoeken waaraan een schip, niet zijnde een schip als bedoeld in het tweede lid, ingevolge de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=15) of [17 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=17) of de [artikelen 9a tot en met 12d](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=2&artikel=10&z=2024-04-01&g=2024-04-01) van deze regeling wordt onderworpen, worden uitgevoerd door een krachtens [artikel 23 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=23) aangewezen organisatie waar het schip is geklasseerd of, indien het schip niet is geklasseerd, door ambtenaren van de Scheepvaartinspectie.
 
 4. Indien krachtens [artikel 23 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=23) voor bepaalde onderzoeken ook andere organisaties dan de in het tweede en derde lid bedoelde organisaties zijn aangewezen, mogen de desbetreffende onderzoeken in afwijking van het tweede en derde lid ook door deze andere organisaties worden uitgevoerd.
 
 ##### Artikel 16. Aantekening van onderzoeken
 
-Van de onderzoeken waaraan een schip ingevolge de [artikelen 9a tot en met 12d](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=2&artikel=10&z=2023-12-21&g=2023-12-21) en [13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=2&artikel=13&z=2023-12-21&g=2023-12-21), tijdens de geldigheidsduur van een certificaat wordt onderworpen, wordt door degene die het onderzoek heeft verricht, aantekening geplaatst op het certificaat.
+Van de onderzoeken waaraan een schip ingevolge de [artikelen 9a tot en met 12d](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=2&artikel=10&z=2024-04-01&g=2024-04-01) en [13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=2&artikel=13&z=2024-04-01&g=2024-04-01), tijdens de geldigheidsduur van een certificaat wordt onderworpen, wordt door degene die het onderzoek heeft verricht, aantekening geplaatst op het certificaat.
 
 #### § 2. Onderzoeken
 
@@ -334,7 +334,7 @@ Van de onderzoeken waaraan een schip ingevolge de [artikelen 9a tot en met 12d](
 
 1. Een passagiersschip waarvoor het veiligheidscertificaat voor passagiersschepen, behorend bij richtlijn 2009/45/EG, benodigd is, voldoet aan de ingevolge de artikelen 6, eerste tot en met derde lid, en vijfde tot en met zevende lid, en 7 van die richtlijn op dat schip toepasselijke eisen.
 
-2. Als zeegebieden van de klassen A, B, C en D als bedoeld in artikel 4, eerste lid, van richtlijn 2009/45/EG worden aangewezen de in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&bijlage=4&z=2023-12-21&g=2023-12-21) bij deze regeling aangegeven zeegebieden. De binnengrens van het zeegebied dat het dichtst bij de kustlijn ligt wordt aangewezen volgens de [Wet grenzen Nederlandse territoriale zee](https://wetten.overheid.nl/jci1.3:c:BWBR0003748).
+2. Als zeegebieden van de klassen A, B, C en D als bedoeld in artikel 4, eerste lid, van richtlijn 2009/45/EG worden aangewezen de in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&bijlage=4&z=2024-04-01&g=2024-04-01) bij deze regeling aangegeven zeegebieden. De binnengrens van het zeegebied dat het dichtst bij de kustlijn ligt wordt aangewezen volgens de [Wet grenzen Nederlandse territoriale zee](https://wetten.overheid.nl/jci1.3:c:BWBR0003748).
 
 3. Aan boord van schepen als bedoeld in het eerste lid, gebouwd op of na 1 oktober 2004, worden met inachtneming van de in bijlage III van richtlijn 2009/45/EG opgenomen richtsnoeren passende maatregelen getroffen voor de veiligheid van en de toegankelijkheid voor personen met verminderde mobiliteit.
 
@@ -342,7 +342,7 @@ Van de onderzoeken waaraan een schip ingevolge de [artikelen 9a tot en met 12d](
 
 ##### Artikel 20. Eisen op grond van bijzondere Codes (IMO, CMOU, MCA)
 
-1. Een schip waarvoor op grond van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=5&z=2023-12-21&g=2023-12-21) of [5e](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=5e&z=2023-12-21&g=2023-12-21) het certificaat, behorende bij de MODU-Code 1979, de MODU-Code 1989, de MODU-Code 2009 of de SCV-Code benodigd is, of ten aanzien waarvan op grond van de [artikelen 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=5b&z=2023-12-21&g=2023-12-21), [5c](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=5c&z=2023-12-21&g=2023-12-21), [5d](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=5d&z=2023-12-21&g=2023-12-21) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=6&z=2023-12-21&g=2023-12-21) voor toepassing van de LY2-Code, de LY3-Code, de CCSS-Code, de SCV-Code, de DSC-Code, de SPS-Code of de SPS-Code 2008 is gekozen, voldoet aan de eisen van de desbetreffende Code.
+1. Een schip waarvoor op grond van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=5&z=2024-04-01&g=2024-04-01) of [5e](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=5e&z=2024-04-01&g=2024-04-01) het certificaat, behorende bij de MODU-Code 1979, de MODU-Code 1989, de MODU-Code 2009 of de SCV-Code benodigd is, of ten aanzien waarvan op grond van de [artikelen 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=5b&z=2024-04-01&g=2024-04-01), [5c](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=5c&z=2024-04-01&g=2024-04-01), [5d](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=5d&z=2024-04-01&g=2024-04-01) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=6&z=2024-04-01&g=2024-04-01) voor toepassing van de LY2-Code, de LY3-Code, de CCSS-Code, de SCV-Code, de DSC-Code, de SPS-Code of de SPS-Code 2008 is gekozen, voldoet aan de eisen van de desbetreffende Code.
 
 2. Indien in een Code als bedoeld in het eerste lid wordt verwezen naar het Uitwateringsverdrag of het SOLAS-verdrag, wordt dat verdrag toegepast met inachtneming van alle op grond van [artikel 71 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=71) toepasselijke wijzigingen van dat verdrag.
 
@@ -354,7 +354,7 @@ Van de onderzoeken waaraan een schip ingevolge de [artikelen 9a tot en met 12d](
 
 1. Een offshore bevoorradingsschip voldoet aan de eisen van resolutie MSC.235(82).
 
-2. Een offshore ondersteuningsschip als bedoeld in resolutie A.673(16), niet zijnde een offshore ondersteuningsschip als bedoeld in voorschrift 1.5.3 van die resolutie, voldoet aan de eisen van voornoemde resolutie.
+2. Een offshore ondersteuningsschip als bedoeld in resolutie A.1122(30) voldoet aan de eisen van voornoemde resolutie.
 
 ##### Artikel 22. Nadere regels betreffende de stabiliteit van schepen (IMO, EU)
 
@@ -364,7 +364,7 @@ Van de onderzoeken waaraan een schip ingevolge de [artikelen 9a tot en met 12d](
 
 3. Ro-ro-passagiersschepen waarvoor een certificaat als bedoeld in artikel 8 van [richtlijn 2003/25/EG](32003L0025) benodigd is, voldoen tevens aan de ingevolge de artikelen 6 en 7 van die richtlijn toepasselijke stabiliteitseisen voor schepen in beschadigde toestand.
 
-4. Op schepen als bedoeld in [artikel 3a, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2023-12-21&g=2023-12-21), gebouwd op of na 1 juli 2010, zijn de op die schepen toepasselijke stabiliteitseisen voor schepen in onbeschadigde toestand van de IS-Code 2008 van overeenkomstige toepassing.
+4. Op schepen als bedoeld in [artikel 3a, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2024-04-01&g=2024-04-01), gebouwd op of na 1 juli 2010, zijn de op die schepen toepasselijke stabiliteitseisen voor schepen in onbeschadigde toestand van de IS-Code 2008 van overeenkomstige toepassing.
 
 5. Dit artikel is niet van toepassing op schepen die overeenkomstig de SCV-Code of de CCSS-Code zijn gecertificeerd.
 
@@ -380,7 +380,7 @@ Van de onderzoeken waaraan een schip ingevolge de [artikelen 9a tot en met 12d](
 
 3. In aanvulling op voorschrift II-1/42.2, onderscheidenlijk II-1/43.2, van het SOLAS-verdrag is de aan boord van een schip aanwezige elektrische noodkrachtbron tevens in staat om gedurende ten minste 36 uur, indien het een passagiersschip betreft, en ten minste 18 uur, indien het een vrachtschip betreft, stroom te leveren ten behoeve van de noodverlichting in kombuizen, eetzalen en andere ruimten voor algemeen gebruik.
 
-4. Op een schip als bedoeld in [artikel 3a, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2023-12-21&g=2023-12-21), is voorschrift II-1/43.2 van het SOLAS-verdrag van overeenkomstige toepassing en is de aan boord aanwezige elektrische noodkrachtbron in staat om gedurende ten minste 6 uur stroom te leveren ten behoeve van de noodverlichting in kombuizen, eetzalen en andere ruimten voor algemeen gebruik.
+4. Op een schip als bedoeld in [artikel 3a, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2024-04-01&g=2024-04-01), is voorschrift II-1/43.2 van het SOLAS-verdrag van overeenkomstige toepassing en is de aan boord aanwezige elektrische noodkrachtbron in staat om gedurende ten minste 6 uur stroom te leveren ten behoeve van de noodverlichting in kombuizen, eetzalen en andere ruimten voor algemeen gebruik.
 
 5. De resolutie A.468(XII)-maatregelen zijn aanwezig aan boord van:
 
@@ -412,7 +412,7 @@ Van de onderzoeken waaraan een schip ingevolge de [artikelen 9a tot en met 12d](
 
 ##### Artikel 25. Medische uitrusting (EU, IMO)
 
-1. Aan boord van een schip is de in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&bijlage=5&z=2023-12-21&g=2023-12-21) bij deze regeling voorgeschreven medische uitrusting met de daarbij behorende handleidingen en controlelijsten aanwezig. De eigenaar van een schip draagt voor eigen rekening zorg voor de levering en de vernieuwing van de medische uitrusting.
+1. Aan boord van een schip is de in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&bijlage=5&z=2024-04-01&g=2024-04-01) bij deze regeling voorgeschreven medische uitrusting met de daarbij behorende handleidingen en controlelijsten aanwezig. De eigenaar van een schip draagt voor eigen rekening zorg voor de levering en de vernieuwing van de medische uitrusting.
 
 2. Aan boord van een schip waarmee gevaarlijke stoffen als bedoeld in hoofdstuk VII van het SOLAS-verdrag worden vervoerd, is een Nederlandstalige uitgave van de bij circulaire MSC/Circ.857 van de Maritieme Veiligheidscommissie van de IMO vastgestelde Medische Eerste Hulp Gids bij ongevallen met gevaarlijke stoffen (**Medical First Aid Guide for use in accidents involving dangerous goods; MFAG**) aanwezig.
 
@@ -420,23 +420,23 @@ Van de onderzoeken waaraan een schip ingevolge de [artikelen 9a tot en met 12d](
 
 4. Het eerste lid is eveneens van toepassing op vissersvaartuigen.
 
-5. In afwijking van het eerste lid is aan boord van schepen als bedoeld in de [artikelen 5d, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=5d&z=2023-12-21&g=2023-12-21), of[5e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=5e&z=2023-12-21&g=2023-12-21), waarmee wordt gevaren in kustwateren of beschutte wateren (**coastal** of **protected** waters), als bedoeld in voorschrift I/2.7 onderscheidenlijk I.2.42 van de SCV-Code, de in bijlage 8 bij die Code voorgeschreven medische uitrusting met de daarbij behorende handleiding aanwezig.
+5. In afwijking van het eerste lid is aan boord van schepen als bedoeld in de [artikelen 5d, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=5d&z=2024-04-01&g=2024-04-01), of[5e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=5e&z=2024-04-01&g=2024-04-01), waarmee wordt gevaren in kustwateren of beschutte wateren (**coastal** of **protected** waters), als bedoeld in voorschrift I/2.7 onderscheidenlijk I.2.42 van de SCV-Code, de in bijlage 8 bij die Code voorgeschreven medische uitrusting met de daarbij behorende handleiding aanwezig.
 
 ##### Artikel 26. Nadere regels in relatie tot benodigde certificaten
 
-1. Een schip waarvoor een internationaal veiligheidscertificaat, een nationaal veiligheidscertificaat of een certificaat als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=5&z=2023-12-21&g=2023-12-21), [5a tot en met 5e](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=5a&z=2023-12-21&g=2023-12-21) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=6&z=2023-12-21&g=2023-12-21) benodigd is, voldoet ter verkrijging van dat certificaat tevens aan de ingevolge de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=1&artikel=21&z=2023-12-21&g=2023-12-21), [22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=1&artikel=22&z=2023-12-21&g=2023-12-21), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=1&artikel=23&z=2023-12-21&g=2023-12-21), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=1&artikel=24&z=2023-12-21&g=2023-12-21) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=1&artikel=25&z=2023-12-21&g=2023-12-21) toepasselijke eisen.
+1. Een schip waarvoor een internationaal veiligheidscertificaat, een nationaal veiligheidscertificaat of een certificaat als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=5&z=2024-04-01&g=2024-04-01), [5a tot en met 5e](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=5a&z=2024-04-01&g=2024-04-01) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=6&z=2024-04-01&g=2024-04-01) benodigd is, voldoet ter verkrijging van dat certificaat tevens aan de ingevolge de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=1&artikel=21&z=2024-04-01&g=2024-04-01), [22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=1&artikel=22&z=2024-04-01&g=2024-04-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=1&artikel=23&z=2024-04-01&g=2024-04-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=1&artikel=24&z=2024-04-01&g=2024-04-01) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=1&artikel=25&z=2024-04-01&g=2024-04-01) toepasselijke eisen.
 
-2. Een schip waarvoor een certificaat als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=5&z=2023-12-21&g=2023-12-21), [5a tot en met 5e](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=5a&z=2023-12-21&g=2023-12-21) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=6&z=2023-12-21&g=2023-12-21) benodigd is, voldoet ter verkrijging van dat certificaat bovendien aan de ingevolge [artikel 40, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=40) toepasselijke eisen van hoofdstuk V van het SOLAS-verdrag.
+2. Een schip waarvoor een certificaat als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=5&z=2024-04-01&g=2024-04-01), [5a tot en met 5e](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=5a&z=2024-04-01&g=2024-04-01) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=6&z=2024-04-01&g=2024-04-01) benodigd is, voldoet ter verkrijging van dat certificaat bovendien aan de ingevolge [artikel 40, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=40) toepasselijke eisen van hoofdstuk V van het SOLAS-verdrag.
 
 ##### Artikel 27. Gelijkwaardige voorzieningen
 
-Het Hoofd van de Scheepvaartinspectie kan, met inachtneming van hetgeen dienaangaande in de op grond van deze regeling toepasselijke Europese richtlijnen, Codes, resoluties en circulaires is bepaald, afwijking toestaan van de in de [artikelen 18a tot en met 24](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=1&artikel=19&z=2023-12-21&g=2023-12-21) bedoelde eisen, indien aan boord van het schip een voorziening wordt getroffen die naar zijn oordeel ten minste gelijkwaardig is aan de in het voorschrift waarvan wordt afgeweken, geëiste voorziening.
+Het Hoofd van de Scheepvaartinspectie kan, met inachtneming van hetgeen dienaangaande in de op grond van deze regeling toepasselijke Europese richtlijnen, Codes, resoluties en circulaires is bepaald, afwijking toestaan van de in de [artikelen 18a tot en met 24](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=1&artikel=19&z=2024-04-01&g=2024-04-01) bedoelde eisen, indien aan boord van het schip een voorziening wordt getroffen die naar zijn oordeel ten minste gelijkwaardig is aan de in het voorschrift waarvan wordt afgeweken, geëiste voorziening.
 
 ##### Artikel 28. Wederzijdse erkenning
 
 1. Dit artikel is van toepassing op schepen die vanuit een scheepsregister in een andere lidstaat van de Europese Unie of een staat die partij is bij de Overeenkomst inzake de Europese Economische Ruimte, zijn overgeschreven naar een register in het Europese deel van Nederland.
 
-2. Met de in de artikelen [20](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=1&artikel=20&z=2023-12-21&g=2023-12-21), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=1&artikel=21&z=2023-12-21&g=2023-12-21), [22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=1&artikel=22&z=2023-12-21&g=2023-12-21), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=1&artikel=23&z=2023-12-21&g=2023-12-21) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=1&artikel=24&z=2023-12-21&g=2023-12-21) bedoelde technische normen of technische eisen worden gelijkgesteld daaraan gelijkwaardige technische normen of technische eisen, vastgesteld door of vanwege een andere lidstaat van de Europese Unie of een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
+2. Met de in de artikelen [20](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=1&artikel=20&z=2024-04-01&g=2024-04-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=1&artikel=21&z=2024-04-01&g=2024-04-01), [22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=1&artikel=22&z=2024-04-01&g=2024-04-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=1&artikel=23&z=2024-04-01&g=2024-04-01) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=1&artikel=24&z=2024-04-01&g=2024-04-01) bedoelde technische normen of technische eisen worden gelijkgesteld daaraan gelijkwaardige technische normen of technische eisen, vastgesteld door of vanwege een andere lidstaat van de Europese Unie of een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
 
 #### § 2. Eisen aan de bedrijfsvoering over schepen
 
@@ -470,7 +470,7 @@ Vervallen
 
 2. Onder uitrusting waarvoor een typegoedkeuring is vereist, wordt mede verstaan scheepsuitrusting als bedoeld in voorschrift V/18.7 van het SOLAS-verdrag.
 
-3. Deze paragraaf is met uitzondering van [artikel 34a](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=3&artikel=34a&z=2023-12-21&g=2023-12-21) niet van toepassing op Caribisch-Nederlandse schepen.
+3. Deze paragraaf is met uitzondering van [artikel 34a](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=3&artikel=34a&z=2024-04-01&g=2024-04-01) niet van toepassing op Caribisch-Nederlandse schepen.
 
 ##### Artikel 33
 
@@ -496,13 +496,13 @@ Vervallen
 
 1. Scheepsuitrusting, niet zijnde uitrusting als bedoeld in [artikel 3 van de Wet scheepsuitrusting 2016](onbekend), is van een door het Hoofd van de Scheepvaartinspectie goedgekeurd type.
 
-2. Het Hoofd van de Scheepvaartinspectie kan in afwijking van [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=3&artikel=33&z=2023-12-21&g=2023-12-21) toestaan dat aan boord van bepaalde categorieën schepen, niet zijnde schepen waarvoor een internationaal veiligheidscertificaat als bedoeld in [artikel 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=5) benodigd is, scheepsuitrusting wordt geplaatst die niet aan de vereisten als bedoeld in [artikel 3, eerste lid, van de Wet scheepsuitrusting 2016](onbekend) voldoet, en voor die uitrusting een typegoedkeuring verlenen, mits zulks zonder gevaar voor die schepen en hun opvarenden mogelijk is.
+2. Het Hoofd van de Scheepvaartinspectie kan in afwijking van [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=3&artikel=33&z=2024-04-01&g=2024-04-01) toestaan dat aan boord van bepaalde categorieën schepen, niet zijnde schepen waarvoor een internationaal veiligheidscertificaat als bedoeld in [artikel 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=5) benodigd is, scheepsuitrusting wordt geplaatst die niet aan de vereisten als bedoeld in [artikel 3, eerste lid, van de Wet scheepsuitrusting 2016](onbekend) voldoet, en voor die uitrusting een typegoedkeuring verlenen, mits zulks zonder gevaar voor die schepen en hun opvarenden mogelijk is.
 
 3. Aan een typegoedkeuring als bedoeld in het eerste of tweede lid kunnen beperkingen met betrekking tot het gebruik van de desbetreffende uitrusting worden verbonden.
 
 ##### Artikel 35. Europese typegoedkeuringen voor R&TTE-apparatuur
 
-In afwijking van de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=3&artikel=33&z=2023-12-21&g=2023-12-21) en [34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=3&artikel=34&z=2023-12-21&g=2023-12-21), mag aan boord van vrachtschepen van minder dan 150 GT waarmee internationale reizen worden ondernomen, en vrachtschepen van minder dan 300 GT waarmee nationale reizen worden ondernomen, tevens apparatuur worden geplaatst die is voorzien van het in bijlage VII van [richtlijn 1999/5/EG](31999L0005) bedoelde CE-overeenstemmingsmerkteken voor radioapparatuur en telecommunicatie-eindapparatuur, mits die apparatuur zodanig is ontworpen dat haar correcte werking in een maritieme omgeving is gegarandeerd.
+In afwijking van de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=3&artikel=33&z=2024-04-01&g=2024-04-01) en [34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=3&artikel=34&z=2024-04-01&g=2024-04-01), mag aan boord van vrachtschepen van minder dan 150 GT waarmee internationale reizen worden ondernomen, en vrachtschepen van minder dan 300 GT waarmee nationale reizen worden ondernomen, tevens apparatuur worden geplaatst die is voorzien van de in de artikelen 19 en 20 van [richtlijn 2014/53/EU](32014L0053) bedoelde CE-markering voor radioapparatuur en telecommunicatie-eindapparatuur, mits die apparatuur zodanig is ontworpen dat haar correcte werking in een maritieme omgeving is gegarandeerd.
 
 ##### Artikel 36. Wederzijdse erkenning
 
@@ -560,7 +560,7 @@ Schepen die niet zijn voorzien van middelen tot werktuiglijke voortstuwing zijn 
 
 - a. de eisen van hoofdstuk V van het SOLAS-verdrag, met uitzondering van voorschrift V/19.2.1.7;
 
-- b. de eisen van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=1&artikel=24&z=2023-12-21&g=2023-12-21), en
+- b. de eisen van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=1&artikel=24&z=2024-04-01&g=2024-04-01), en
 
 - c. indien van toepassing: [artikel 41, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=41).
 
@@ -590,7 +590,7 @@ De bevoegde autoriteiten, bedoeld in de op grond van de hoofdstukken VI, deel Ae
 
 ##### Artikel 44. Nadere regels betreffende het vastzetten van lading (IMO)
 
-1. De Handleiding vastzetten lading, bedoeld in de voorschriften VI/5.6 en VII/5 van het SOLAS-verdrag, voldoet aan de bij circulaire MSC.1/Circ. 1353/Rev.1 van de Maritieme Veiligheidscommissie van de IMO vastgestelde Herziene richtlijnen voor het opstellen van de Handleiding vastzetten lading (**Revised guidelines for the preparation of the Cargo Securing Manual**).
+1. De Handleiding vastzetten lading, bedoeld in de voorschriften VI/5.6 en VII/5 van het SOLAS-verdrag, voldoet aan de bij circulaire MSC.1/Circ. 1353/Rev.2 van de Maritieme Veiligheidscommissie van de IMO vastgestelde Herziene richtlijnen voor het opstellen van de Handleiding vastzetten lading (**Revised guidelines for the preparation of the Cargo Securing Manual**).
 
 2. Op schepen die zijn ingericht voor het vervoer van standaardlading, mag worden volstaan met een verkorte versie van de Handleiding vastzetten lading.
 
@@ -618,7 +618,7 @@ De kapitein van een passagiersschip waarvoor het veiligheidscertificaat voor pas
 
 ##### Artikel 48. Voorschriften voor bijzondere scheepstypen (IMO, CMOU, MCA)
 
-De kapitein van een schip waarvoor op grond van de [artikelen 5e](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=5e&z=2023-12-21&g=2023-12-21), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=6&z=2023-12-21&g=2023-12-21), [6c](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=6c&z=2023-12-21&g=2023-12-21), [6d](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=6d&z=2023-12-21&g=2023-12-21) of [6e](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=6e&z=2023-12-21&g=2023-12-21) het certificaat, behorende bij de SCV-Code, de MODU-Code 1979, de MODU-Code 1989, of de MODU-Code 2009 benodigd is, of ten aanzien waarvan op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=2&artikel=12&z=2023-12-21&g=2023-12-21), [12a](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=2&artikel=12a&z=2023-12-21&g=2023-12-21), [12b](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=2&artikel=12b&z=2023-12-21&g=2023-12-21) of [12c](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=2&artikel=12c&z=2023-12-21&g=2023-12-21) gekozen is voor toepassing van de DSC-Code, de SPS-Code, de SPS-Code 2008, de LY2-Code, de LY3-Code, de CCSS-Code of de SCV-Code, draagt ervoor zorg dat aan boord van het schip de in de desbetreffende Code opgenomen voorschriften en verplichtingen worden nageleefd.
+De kapitein van een schip waarvoor op grond van de [artikelen 5e](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=5e&z=2024-04-01&g=2024-04-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=6&z=2024-04-01&g=2024-04-01), [6c](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=6c&z=2024-04-01&g=2024-04-01), [6d](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=6d&z=2024-04-01&g=2024-04-01) of [6e](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=6e&z=2024-04-01&g=2024-04-01) het certificaat, behorende bij de SCV-Code, de MODU-Code 1979, de MODU-Code 1989, of de MODU-Code 2009 benodigd is, of ten aanzien waarvan op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=2&artikel=12&z=2024-04-01&g=2024-04-01), [12a](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=2&artikel=12a&z=2024-04-01&g=2024-04-01), [12b](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=2&artikel=12b&z=2024-04-01&g=2024-04-01) of [12c](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=2&artikel=12c&z=2024-04-01&g=2024-04-01) gekozen is voor toepassing van de DSC-Code, de SPS-Code, de SPS-Code 2008, de LY2-Code, de LY3-Code, de CCSS-Code of de SCV-Code, draagt ervoor zorg dat aan boord van het schip de in de desbetreffende Code opgenomen voorschriften en verplichtingen worden nageleefd.
 
 ##### Artikel 49. Beheer medische uitrusting (EU)
 
@@ -626,7 +626,7 @@ De kapitein van een schip waarvoor op grond van de [artikelen 5e](https://wetten
 
 2. Indien er sprake is van een medisch spoedgeval waarvoor de noodzakelijke geneesmiddelen, verplegingsartikelen of antidota niet aan boord zijn, is de kapitein verplicht zorg te dragen dat deze zo spoedig mogelijk ter beschikking worden gesteld.
 
-3. De kapitein inspecteert jaarlijks, met inachtneming van hetgeen dienaangaande in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&bijlage=5&z=2023-12-21&g=2023-12-21) bij deze regeling is bepaald, de aan boord van het schip aanwezige medische uitrusting.
+3. De kapitein inspecteert jaarlijks, met inachtneming van hetgeen dienaangaande in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&bijlage=5&z=2024-04-01&g=2024-04-01) bij deze regeling is bepaald, de aan boord van het schip aanwezige medische uitrusting.
 
 4. Dit artikel is eveneens van toepassing op vissersvaartuigen, met dien verstande dat de in het eerste tot en met derde lid bedoelde verplichtingen in dat geval op de schipper van het vaartuig rusten.
 
@@ -648,9 +648,9 @@ De kapitein draagt er zorg voor dat de aan boord aanwezige dagboeken worden bijg
 
 ##### Artikel 53. Uitwatering van baggermaterieel met verminderd vrijboord
 
-1. Baggerschepen waaraan krachtens [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=4&artikel=38&z=2023-12-21&g=2023-12-21) een verminderd vrijboord is toegekend, zijn tijdens het laden, lossen en vervoeren van bagger vrijgesteld van de in het Uitwateringsverdrag opgenomen verplichting om bij de uitwatering de toepasselijke seizoenslastlijnen in acht te nemen, met dien verstande dat het schip geen geringer vrijboord mag hebben dan volgens de voor dat schip vastgestelde baggerlastlijn is toegestaan.
+1. Baggerschepen waaraan krachtens [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=4&artikel=38&z=2024-04-01&g=2024-04-01) een verminderd vrijboord is toegekend, zijn tijdens het laden, lossen en vervoeren van bagger vrijgesteld van de in het Uitwateringsverdrag opgenomen verplichting om bij de uitwatering de toepasselijke seizoenslastlijnen in acht te nemen, met dien verstande dat het schip geen geringer vrijboord mag hebben dan volgens de voor dat schip vastgestelde baggerlastlijn is toegestaan.
 
-2. De kapitein van een schip als bedoeld in het eerste lid draagt er zorg voor dat de in IMO-circulaire nr. 2285, bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=4&artikel=38&z=2023-12-21&g=2023-12-21), opgenomen voorschriften en de in voorkomend geval aan de toekenning van het verminderde vrijboord verbonden beperkingen worden nageleefd.
+2. De kapitein van een schip als bedoeld in het eerste lid draagt er zorg voor dat de in IMO-circulaire nr. 2285, bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=4&artikel=38&z=2024-04-01&g=2024-04-01), opgenomen voorschriften en de in voorkomend geval aan de toekenning van het verminderde vrijboord verbonden beperkingen worden nageleefd.
 
 ##### Artikel 54. Beproeven van stuurinrichting op korte reizen (SOLAS)
 
@@ -660,7 +660,7 @@ Schepen waarmee geregeld korte reizen als bedoeld in voorschrift III/3.22 van he
 
 1. Schepen die niet zijn voorzien van middelen tot werktuiglijke voortstuwing, zijn vrijgesteld van de voorschriften V/26 tot en met V/28 van het SOLAS-verdrag.
 
-2. De [artikelen 64 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=64) en [52](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=5&paragraaf=1&artikel=52&z=2023-12-21&g=2023-12-21) van deze regeling zijn niet van toepassing op schepen als bedoeld in het eerste lid.
+2. De [artikelen 64 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=64) en [52](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=5&paragraaf=1&artikel=52&z=2024-04-01&g=2024-04-01) van deze regeling zijn niet van toepassing op schepen als bedoeld in het eerste lid.
 
 ### Hoofdstuk 5. Verplichtingen van de kapitein
 
@@ -672,7 +672,7 @@ Schepen waarmee geregeld korte reizen als bedoeld in voorschrift III/3.22 van he
 
 ##### Artikel 57. Voorschriften met betrekking tot buitenlandse schepen
 
-1. [Artikel 9, aanhef en eerste lid, onderdeel a, en het tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=9) en de [artikelen 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=4&z=2023-12-21&g=2023-12-21), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=7&z=2023-12-21&g=2023-12-21), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=7a&z=2023-12-21&g=2023-12-21), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=9&z=2023-12-21&g=2023-12-21), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=2&artikel=13&z=2023-12-21&g=2023-12-21), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=1&artikel=19&z=2023-12-21&g=2023-12-21), [22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=1&artikel=22&z=2023-12-21&g=2023-12-21), en [47](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=5&paragraaf=1&artikel=47&z=2023-12-21&g=2023-12-21) zijn van overeenkomstige toepassing op buitenlandse schepen, voor zover met die schepen reizen worden ondernomen van of naar een haven in het Europese deel van Nederland.
+1. [Artikel 9, aanhef en eerste lid, onderdeel a, en het tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=9) en de [artikelen 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=4&z=2024-04-01&g=2024-04-01), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=7&z=2024-04-01&g=2024-04-01), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=7a&z=2024-04-01&g=2024-04-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=9&z=2024-04-01&g=2024-04-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=2&artikel=13&z=2024-04-01&g=2024-04-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=1&artikel=19&z=2024-04-01&g=2024-04-01), [22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=1&artikel=22&z=2024-04-01&g=2024-04-01), en [47](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=5&paragraaf=1&artikel=47&z=2024-04-01&g=2024-04-01) zijn van overeenkomstige toepassing op buitenlandse schepen, voor zover met die schepen reizen worden ondernomen van of naar een haven in het Europese deel van Nederland.
 
 2. Voorts zijn op buitenlandse schepen de [artikelen 40, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=40), en [61, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=61) van overeenkomstige toepassing, voorzover die artikelen betrekking hebben op de voorschriften V/19.2.4 en V/20 van het SOLAS-verdrag.
 
@@ -680,15 +680,15 @@ Schepen waarmee geregeld korte reizen als bedoeld in voorschrift III/3.22 van he
 
 Een op grond van [artikel 5, eerste lid, van de Wet buitenlandse schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0016993&artikel=5) aangewezen toezichthouder is bevoegd een buitenlands schip aan te houden, indien:
 
-- a. het schip niet is voorzien van een ingevolge [artikel 9, eerste lid, aanhef en onderdeel a, en het tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=9), [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=4&z=2023-12-21&g=2023-12-21), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=7&z=2023-12-21&g=2023-12-21) of [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=7a&z=2023-12-21&g=2023-12-21) benodigd certificaat;
+- a. het schip niet is voorzien van een ingevolge [artikel 9, eerste lid, aanhef en onderdeel a, en het tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=9), [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=4&z=2024-04-01&g=2024-04-01), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=7&z=2024-04-01&g=2024-04-01) of [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=7a&z=2024-04-01&g=2024-04-01) benodigd certificaat;
 
-- b. het schip of de bedrijfsvoering over het schip niet voldoet aan de eisen, bedoeld in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=1&artikel=19&z=2023-12-21&g=2023-12-21), [22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=1&artikel=22&z=2023-12-21&g=2023-12-21), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=2&artikel=30&z=2023-12-21&g=2023-12-21) en [57, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=6&artikel=57&z=2023-12-21&g=2023-12-21);
+- b. het schip of de bedrijfsvoering over het schip niet voldoet aan de eisen, bedoeld in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=1&artikel=19&z=2024-04-01&g=2024-04-01), [22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=1&artikel=22&z=2024-04-01&g=2024-04-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=2&artikel=30&z=2024-04-01&g=2024-04-01) en [57, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=6&artikel=57&z=2024-04-01&g=2024-04-01);
 
-- c. aan boord van het schip de voorschriften of verplichtingen, bedoeld in [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=5&paragraaf=1&artikel=47&z=2023-12-21&g=2023-12-21), niet worden nageleefd.
+- c. aan boord van het schip de voorschriften of verplichtingen, bedoeld in [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=5&paragraaf=1&artikel=47&z=2024-04-01&g=2024-04-01), niet worden nageleefd.
 
 ##### Artikel 59. Strafbare feiten
 
-Overtreding van de voorschriften, bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=6&artikel=57&z=2023-12-21&g=2023-12-21), is een strafbaar feit.
+Overtreding van de voorschriften, bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=6&artikel=57&z=2024-04-01&g=2024-04-01), is een strafbaar feit.
 
 ### Hoofdstuk 7. Slotbepalingen
 
@@ -706,11 +706,11 @@ Van de wijze van bekendmaking van de op grond van deze regeling toepasselijke Co
 
 1. Een wijziging van een op grond van deze regeling toepasselijke richtlijn gaat voor de toepassing van deze regeling gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
-2. Uitrusting van een door het Hoofd van de Scheepvaartinspectie goedgekeurd type, waarop als gevolg van de inwerkingtreding van een uitvoeringsverordening scheepsuitrusting de voorschriften van [richtlijn 2014/90](32014L0090)/EU van toepassing zijn geworden, mag in afwijking van [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=3&artikel=33&z=2023-12-21&g=2023-12-21) nog gedurende een termijn van drie jaar, gerekend vanaf die dag van inwerkingtreding aan boord van schepen worden geplaatst, mits zij voor die dag werd vervaardigd en ook de typegoedkeuring voor die dag werd verleend.
+2. Uitrusting van een door het Hoofd van de Scheepvaartinspectie goedgekeurd type, waarop als gevolg van de inwerkingtreding van een uitvoeringsverordening scheepsuitrusting de voorschriften van [richtlijn 2014/90](32014L0090)/EU van toepassing zijn geworden, mag in afwijking van [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=3&artikel=33&z=2024-04-01&g=2024-04-01) nog gedurende een termijn van drie jaar, gerekend vanaf die dag van inwerkingtreding aan boord van schepen worden geplaatst, mits zij voor die dag werd vervaardigd en ook de typegoedkeuring voor die dag werd verleend.
 
 ##### Artikel 63. Inwerkingtreding
 
-Deze regeling treedt in werking op 1 januari 2005, met uitzondering van de [artikelen 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=4&z=2023-12-21&g=2023-12-21), [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=5&z=2023-12-21&g=2023-12-21), en [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=6&z=2023-12-21&g=2023-12-21), die in werking treden op het tijdstip waarop [artikel 6 van het Schepenbesluit 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=6) in werking treedt.
+Deze regeling treedt in werking op 1 januari 2005, met uitzondering van de [artikelen 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=4&z=2024-04-01&g=2024-04-01), [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=5&z=2024-04-01&g=2024-04-01), en [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=6&z=2024-04-01&g=2024-04-01), die in werking treden op het tijdstip waarop [artikel 6 van het Schepenbesluit 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=6) in werking treedt.
 
 ##### Artikel 64. Citeertitel
 
@@ -878,23 +878,23 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 1. Voor een offshore bevoorradingsschip als bedoeld in resolutie MSC.235(82) is het bij die resolutie behorende certificaat benodigd.
 
-2. Voor een offshore ondersteuningsschip als bedoeld in resolutie A.673(16), niet zijnde een offshore ondersteuningsschip als bedoeld in voorschrift 1.5.3 van die resolutie, is het bij die resolutie behorende certificaat benodigd.
+2. Voor een offshore ondersteuningsschip als bedoeld in resolutie A.1122(30) is het bij die resolutie behorende certificaat benodigd.
 
 3. Het certificaat, bedoeld in het tweede lid, treedt in de plaats van het nationaal veiligheidscertificaat.
 
 ##### Artikel 5b. Certificaat van overeenstemming (LY2-Code en LY3-Code)
 
-1. Voor een schip ten aanzien waarvan op grond van [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=2&artikel=12a&z=2023-12-21&g=2023-12-21) is gekozen voor de toepassing van de LY2-Code, die als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&bijlage=2&z=2023-12-21&g=2023-12-21) bij deze regeling is gevoegd, is een certificaat van overeenstemming als bedoeld in de LY2-Code benodigd.
+1. Voor een schip ten aanzien waarvan op grond van [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=2&artikel=12a&z=2024-04-01&g=2024-04-01) is gekozen voor de toepassing van de LY2-Code, die als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&bijlage=2&z=2024-04-01&g=2024-04-01) bij deze regeling is gevoegd, is een certificaat van overeenstemming als bedoeld in de LY2-Code benodigd.
 
-2. Voor een schip ten aanzien waarvan op grond van [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=2&artikel=12a&z=2023-12-21&g=2023-12-21) is gekozen voor de toepassing van de LY3-Code, die als [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&bijlage=7&z=2023-12-21&g=2023-12-21) bij deze regeling is gevoegd, is een certificaat van overeenstemming als bedoeld in de LY3-Code benodigd.
+2. Voor een schip ten aanzien waarvan op grond van [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=2&artikel=12a&z=2024-04-01&g=2024-04-01) is gekozen voor de toepassing van de LY3-Code, die als [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&bijlage=7&z=2024-04-01&g=2024-04-01) bij deze regeling is gevoegd, is een certificaat van overeenstemming als bedoeld in de LY3-Code benodigd.
 
-3. Voor een schip als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=6&z=2023-12-21&g=2023-12-21) van het besluit treedt het certificaat van overeenstemming in de plaats van het nationaal veiligheidscertificaat.
+3. Voor een schip als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=6&z=2024-04-01&g=2024-04-01) van het besluit treedt het certificaat van overeenstemming in de plaats van het nationaal veiligheidscertificaat.
 
 #### § 2. Onderzoeken
 
 ##### Artikel 9a. Onderzoeken van schepen waarvoor een nationaal veiligheidscertificaat benodigd is
 
-1. Een schip als bedoeld in [artikel 3a, eerste lid, onderdeel b, c, e, f of g](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2023-12-21&g=2023-12-21), wordt ter verkrijging van het nationaal veiligheidscertificaat en tijdens de geldigheidsduur daarvan onderworpen aan de volgende onderzoeken:
+1. Een schip als bedoeld in [artikel 3a, eerste lid, onderdeel b, c, e, f of g](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2024-04-01&g=2024-04-01), wordt ter verkrijging van het nationaal veiligheidscertificaat en tijdens de geldigheidsduur daarvan onderworpen aan de volgende onderzoeken:
 
 - a. een eerste onderzoek;
 
@@ -914,7 +914,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 ##### Artikel 9b. Onderzoeken van offshore bevoorradings- en ondersteuningsschepen (IMO)
 
-Een offshore bevoorradingsschip als bedoeld in resolutie MSC.235(82), onderscheidenlijk een offshore ondersteuningsschip als bedoeld in resolutie A.673(16) wordt ter verkrijging van de voor die schepen benodigde certificaten en gedurende de geldigheidsduur daarvan onderworpen aan onderzoeken ter vaststelling dat is voldaan aan de in de resoluties opgenomen richtlijnen.
+Een offshore bevoorradingsschip als bedoeld in resolutie MSC.235(82), onderscheidenlijk een offshore ondersteuningsschip als bedoeld in resolutie A.1122(30) wordt ter verkrijging van de voor die schepen benodigde certificaten en gedurende de geldigheidsduur daarvan onderworpen aan onderzoeken ter vaststelling dat is voldaan aan de in de resoluties opgenomen richtlijnen.
 
 ##### Artikel 12a. Onderzoeken op grond van de LY2-Code en LY3-Code
 
@@ -930,9 +930,9 @@ Een offshore bevoorradingsschip als bedoeld in resolutie MSC.235(82), onderschei
 
 #### § 1. Eisen aan schepen
 
-##### Artikel 18a. Eisen aan schepen als bedoeld in [artikel 3a, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2023-12-21&g=2023-12-21)
+##### Artikel 18a. Eisen aan schepen als bedoeld in [artikel 3a, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2024-04-01&g=2024-04-01)
 
-1. De eisen, bedoeld in paragraaf 1 onderscheidenlijk 2 van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&bijlage=3&z=2023-12-21&g=2023-12-21), zijn van toepassing op schepen als bedoeld in [artikel 3a, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2023-12-21&g=2023-12-21),
+1. De eisen, bedoeld in paragraaf 1 onderscheidenlijk 2 van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&bijlage=3&z=2024-04-01&g=2024-04-01), zijn van toepassing op schepen als bedoeld in [artikel 3a, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2024-04-01&g=2024-04-01),
 
 - a. waarvoor het bouwcontract is afgesloten voor 1 januari 2018; of
 
@@ -940,7 +940,7 @@ Een offshore bevoorradingsschip als bedoeld in resolutie MSC.235(82), onderschei
 
 - c. waarvan de opleverdatum voor 1 januari 2021 ligt.
 
-2. De eisen, bedoeld in paragraaf 1 onderscheidenlijk 2 van [bijlage 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&bijlage=3a&z=2023-12-21&g=2023-12-21), zijn van toepassing op schepen als bedoeld in [artikel 3a, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2023-12-21&g=2023-12-21):
+2. De eisen, bedoeld in paragraaf 1 onderscheidenlijk 2 van [bijlage 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&bijlage=3a&z=2024-04-01&g=2024-04-01), zijn van toepassing op schepen als bedoeld in [artikel 3a, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2024-04-01&g=2024-04-01):
 
 - a. waarvoor het bouwcontract is afgesloten op of na 1 januari 2018, of
 
@@ -948,13 +948,13 @@ Een offshore bevoorradingsschip als bedoeld in resolutie MSC.235(82), onderschei
 
 - c. waarvan de opleverdatum op of na 1 januari 2021 ligt.
 
-##### Artikel 18b. Eisen aan offshoredienstschepen als bedoeld in [artikel 3a, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2023-12-21&g=2023-12-21)
+##### Artikel 18b. Eisen aan offshoredienstschepen als bedoeld in [artikel 3a, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2024-04-01&g=2024-04-01)
 
-De eisen, bedoeld in paragraaf 1 van [bijlage 3c](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&bijlage=3c&z=2023-12-21&g=2023-12-21), zijn van toepassing op schepen als bedoeld in [artikel 3a, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2023-12-21&g=2023-12-21):
+De eisen, bedoeld in paragraaf 1 van [bijlage 3c](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&bijlage=3c&z=2024-04-01&g=2024-04-01), zijn van toepassing op schepen als bedoeld in [artikel 3a, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2024-04-01&g=2024-04-01):
 
 - a. waarvoor het bouwcontract is afgesloten op of na 15 december 2019;
 
-- b. waarvan, bij het ontbreken van een bouwcontract, de bouwdatum als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=1&artikel=2&z=2023-12-21&g=2023-12-21), op of na 15 december 2019 ligt; of
+- b. waarvan, bij het ontbreken van een bouwcontract, de bouwdatum als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=1&artikel=2&z=2024-04-01&g=2024-04-01), op of na 15 december 2019 ligt; of
 
 - c. waarvan de opleverdatum op of na 15 december 2019 ligt.
 
@@ -970,9 +970,9 @@ De eisen, bedoeld in paragraaf 1 van [bijlage 3c](https://wetten.overheid.nl/jci
 
 2. Schepen van 150 GT of meer, doch minder dan 500 GT, die nationale reizen maken, zijn vrijgesteld van de eis voorzien te zijn van een reserve magnetisch kompas opgenomen in voorschrift 19.2.2.1 van hoofdstuk V van het SOLAS-verdrag, mits een tweede kompas vast is opgesteld.
 
-##### Artikel 37b. Vrijstellingen voor schepen als bedoeld in [artikel 3a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2023-12-21&g=2023-12-21)
+##### Artikel 37b. Vrijstellingen voor schepen als bedoeld in [artikel 3a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2024-04-01&g=2024-04-01)
 
-Schepen als bedoeld in [artikel 3a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2023-12-21&g=2023-12-21), zijn vrijgesteld van de eisen van de volgende voorschriften van het SOLAS-verdrag:
+Schepen als bedoeld in [artikel 3a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2024-04-01&g=2024-04-01), zijn vrijgesteld van de eisen van de volgende voorschriften van het SOLAS-verdrag:
 
 - a. met betrekking tot Hoofdstuk II-1:
 
@@ -1188,21 +1188,21 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 ##### Artikel 5c. Certificaten op grond van CCSS-Code (CMOU)
 
-1. Voor vrachtschepen ten aanzien waarvan op grond van [artikel 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=2&artikel=12b&z=2023-12-21&g=2023-12-21) voor toepassing van de CCSS-Code is gekozen, is het bij die Code behorende veiligheidscertificaat benodigd.
+1. Voor vrachtschepen ten aanzien waarvan op grond van [artikel 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=2&artikel=12b&z=2024-04-01&g=2024-04-01) voor toepassing van de CCSS-Code is gekozen, is het bij die Code behorende veiligheidscertificaat benodigd.
 
 2. Het in het eerste lid bedoelde certificaat treedt in de plaats van het nationaal veiligheidscertificaat.
 
 ##### Artikel 5d. Certificaten voor passagiersschepen op grond van SCV-Code (IMO)
 
-1. Voor een passagiersschip waarmee internationale reizen worden ondernomen en ten aanzien waarvan op grond van [artikel 12c](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=2&artikel=12c&z=2023-12-21&g=2023-12-21) voor toepassing van de SCV-Code is gekozen, is tezamen met een veiligheidscertificaat voor passagiersschepen een afschrift van de kennisgeving aan de IMO met betrekking tot de gelijkwaardigheid van de SCV-Code (**notification of equivalency**) benodigd.
+1. Voor een passagiersschip waarmee internationale reizen worden ondernomen en ten aanzien waarvan op grond van [artikel 12c](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=2&artikel=12c&z=2024-04-01&g=2024-04-01) voor toepassing van de SCV-Code is gekozen, is tezamen met een veiligheidscertificaat voor passagiersschepen een afschrift van de kennisgeving aan de IMO met betrekking tot de gelijkwaardigheid van de SCV-Code (**notification of equivalency**) benodigd.
 
-2. Voor een passagiersschip waarmee nationale reizen worden ondernomen, is, indien ten aanzien van dat schip op grond van [artikel 12c](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=2&artikel=12c&z=2023-12-21&g=2023-12-21) voor toepassing van de SCV-Code is gekozen, het certificaat van inspectie, behorend bij de SCV-Code, benodigd.
+2. Voor een passagiersschip waarmee nationale reizen worden ondernomen, is, indien ten aanzien van dat schip op grond van [artikel 12c](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=2&artikel=12c&z=2024-04-01&g=2024-04-01) voor toepassing van de SCV-Code is gekozen, het SCV veiligheidscertificaat, behorend bij de SCV-Code, benodigd.
 
 3. Voor een schip als bedoeld in het tweede lid treedt het certificaat van inspectie, behorend bij de SCV-Code, in de plaats van het nationaal veiligheidscertificaat.
 
 ##### Artikel 5e. Certificaten voor vrachtschepen op grond van SCV-Code (IMO)
 
-1. Voor een vrachtschip van minder dan 24 meter waarmee uitsluitend reizen worden ondernomen in de Caribische handelszone, is het certificaat van inspectie, behorend bij de SCV-Code, benodigd.
+1. Voor een vrachtschip van minder dan 24 meter waarmee uitsluitend reizen worden ondernomen in de Caribische handelszone, is het SCV veiligheidscertificaat, behorend bij de SCV-Code, benodigd.
 
 2. Het in het eerste lid bedoelde certificaat treedt in de plaats van het nationaal veiligheidscertificaat.
 
@@ -1254,7 +1254,7 @@ Een vrachtschip waarvoor het certificaat van inspectie, behorend bij de SCV-Code
 
 ##### Artikel 41b. Vaart rond de eilanden van Caribisch-Nederland
 
-1. Caribisch-Nederlandse schepen die niet buiten de gebiedsbegrenzingen, bedoeld in het tweede lid, worden gebracht zijn vrijgesteld van de bepalingen van de [hoofdstukken 3 tot en met 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=3) en [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&z=2023-12-21&g=2023-12-21) van deze regeling, mits voldaan wordt aan de eisen, bedoeld in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&bijlage=6&z=2023-12-21&g=2023-12-21).
+1. Caribisch-Nederlandse schepen die niet buiten de gebiedsbegrenzingen, bedoeld in het tweede lid, worden gebracht zijn vrijgesteld van de bepalingen van de [hoofdstukken 3 tot en met 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=3) en [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&z=2024-04-01&g=2024-04-01) van deze regeling, mits voldaan wordt aan de eisen, bedoeld in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&bijlage=6&z=2024-04-01&g=2024-04-01).
 
 2. De gebiedsbegrenzingen, bedoeld in het eerste lid zijn:
 
@@ -1278,9 +1278,9 @@ Een vrachtschip waarvoor het certificaat van inspectie, behorend bij de SCV-Code
 
 ##### Artikel 62a. Overgangsrecht voor Caribisch-Nederlandse schepen
 
-1. In afwijking van [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2023-12-21&g=2023-12-21) worden op een Caribisch-Nederlands schip waarvoor op grond van [hoofdstuk 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=6a&z=2023-12-21&g=2023-12-21) een certificaat van deugdelijkheid is afgegeven, de bepalingen van hoofdstuk 6a, zoals dat luidde tot 1 juli 2014, toegepast tot de geldigheidsduur van het certificaat op grond van [artikel 59e](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=6a&artikel=59a&z=2023-12-21&g=2023-12-21) afloopt.
+1. In afwijking van [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2024-04-01&g=2024-04-01) worden op een Caribisch-Nederlands schip waarvoor op grond van [hoofdstuk 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=6a&z=2024-04-01&g=2024-04-01) een certificaat van deugdelijkheid is afgegeven, de bepalingen van hoofdstuk 6a, zoals dat luidde tot 1 juli 2014, toegepast tot de geldigheidsduur van het certificaat op grond van [artikel 59e](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=6a&artikel=59a&z=2024-04-01&g=2024-04-01) afloopt.
 
-2. Een Caribisch-Nederlands schip dat niet buiten de in [artikel 41b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=4&artikel=41b&z=2023-12-21&g=2023-12-21), bedoelde gebiedsbegrenzingen wordt gebracht, is tot 1 september 2016 vrijgesteld van de in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2023-12-21&g=2023-12-21) bedoelde verplichting alsmede de in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&bijlage=6&z=2023-12-21&g=2023-12-21) opgenomen eisen.
+2. Een Caribisch-Nederlands schip dat niet buiten de in [artikel 41b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=4&artikel=41b&z=2024-04-01&g=2024-04-01), bedoelde gebiedsbegrenzingen wordt gebracht, is tot 1 september 2016 vrijgesteld van de in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2024-04-01&g=2024-04-01) bedoelde verplichting alsmede de in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&bijlage=6&z=2024-04-01&g=2024-04-01) opgenomen eisen.
 
 ## Bijlage 1
 
@@ -1332,9 +1332,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 Schepen als bedoeld in [artikel 3a, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2019-12-15&g=2019-12-15), voldoen aan de volgende eisen:
 
-Schepen als bedoeld in [artikel 3a, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2023-12-21&g=2023-12-21), voldoen aan de volgende eisen:
+Schepen als bedoeld in [artikel 3a, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2024-04-01&g=2024-04-01), voldoen aan de volgende eisen:
 
-Schepen bedoeld in [artikel 3a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2023-12-21&g=2023-12-21), voldoen aan de volgende eisen:
+Schepen bedoeld in [artikel 3a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2024-04-01&g=2024-04-01), voldoen aan de volgende eisen:
 
 ## Bijlage 3a. behorende bij [artikel 18a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=1&artikel=18a&z=2023-12-21&g=2023-12-21), van de Regeling veiligheid zeeschepen
 
@@ -1356,7 +1356,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 5. De massa van de ongeladen container, zoals verstrekt door degene die de container aan de verscheper ter beschikking stelt.
 
-6. Bij de bepaling van de massa van een beladen container door berekening worden de bij circulaire MSC/Circ.1475 van de Maritieme Veiligheidscommissie van de IMO vastgestelde ‘**Guidelines regarding the verified gross mass of a container carrying cargo**’ in acht genomen.
+6. Bij de bepaling van de massa van een beladen container door berekening worden de bij circulaire MSC.1/Circ. 1475 van de Maritieme Veiligheidscommissie van de IMO vastgestelde ‘**Guidelines regarding the verified gross mass of a container carrying cargo**’ in acht genomen.
 
 ##### Artikel 44b. Toegestane afwijkingsmarge geverifieerde massa van een beladen container
 
@@ -1400,13 +1400,13 @@ Schepen als bedoeld in [artikel 3a, eerste lid, onderdeel b](https://wetten.over
 
 3. In afwijking van het tweede lid behoeven bij een bemanningssterkte 15 tot en met 24 personen de in de tabellen 1 en 2 genoemde hoeveelheden slechts met vijftig procent te worden vermeerderd. Indien de in de tabellen genoemde hoeveelheid van een middel één bedraagt, behoeft deze hoeveelheid bij een bemanningssterkte 15 tot en met 24 personen niet te worden vermeerderd.
 
-Schepen als bedoeld in [artikel 3a, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2019-12-15&g=2019-12-15), voldoen aan de volgende eisen:
+Schepen met een totaal geïnstalleerd voortstuwingsvermogen van 750 kW of minder, voldoen aan de volgende eisen:
 
-## Bijlage 6. Eisen met betrekking tot de vaart rond de eilanden van Caribisch-Nederland
+## Bijlage 3a. behorende bij [artikel 18a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=1&artikel=18a&z=2024-04-01&g=2024-04-01), van de Regeling veiligheid zeeschepen
 
-### § 2. Eisen voor schepen, bedoeld in [artikel 3a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2023-12-21&g=2023-12-21), van de Regeling veiligheid zeeschepen
+### § 1. Eisen voor schepen, bedoeld in [artikel 3a, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2024-04-01&g=2024-04-01)
 
-Schepen als bedoeld in [artikel 3a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2023-12-21&g=2023-12-21), voldoen aan de volgende eisen:
+Schepen als bedoeld in [artikel 3a, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2024-04-01&g=2024-04-01), voldoen aan de volgende eisen:
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlage, die ter inzage wordt gelegd bij het Ministerie van Verkeer en Waterstaat.
 
@@ -1458,17 +1458,17 @@ Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
 
 ## Bijlage 3a. behorende bij [artikel 18a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=1&artikel=18a&z=2019-07-01&g=2019-07-01), van de Regeling veiligheid zeeschepen
 
-### § 1. Eisen voor schepen, bedoeld in [artikel 3a, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2019-12-15&g=2019-12-15)
+### § 3. Eisen ten aanzien van tijdelijk onbemande machinekamers voor schepen met een lengte van minder dan 24 meter en een totaal geïnstalleerd voortstuwingsvermogen van 750 kW of minder
 
 ### **Artikel 4. Bewaren van de medische uitrusting**
 
 1. De in artikel 2 bedoelde medische uitrusting wordt in daarvoor geschikte kisten of in daarvoor ingerichte kasten of ruimten bewaard.
 
-2. Onder de [Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941) vallende preparaten die deel uitmaken van de medische uitrusting, worden bewaard in een kluis, waarvan de sleutel berust bij de kapitein of bij de schepeling aan wie de kapitein het gebruik en beheer van de medische uitrusting heeft overgedragen.
+Schepen als bedoeld in [artikel 3a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2024-04-01&g=2024-04-01), voldoen aan de volgende eisen:
 
 3. Indien de inspectie uitwijst dat de medische uitrusting van het schip in overeenstemming is met deze bijlage, ondertekent de kapitein de controlelijst en biedt hij deze aan de Scheepvaartinspectie of, indien het onderzoek door een krachtens [artikel 23 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=23) aangewezen rechtspersoon wordt verricht, aan die rechtspersoon ter visering aan.
 
-Hogesnelheidsoffshoredienstschepen als bedoeld in [artikel 3a, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2019-12-15&g=2019-12-15), voldoen aan de eisen van paragraaf 3, onderdelen a tot en met k, met de uitzonderingen:
+Schepen met een totaal geïnstalleerd voortstuwingsvermogen van 750 kW of minder, voldoen aan de volgende eisen:
 
 Hogesnelheidsoffshoredienstschepen als bedoeld in [artikel 3a, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2023-12-21&g=2023-12-21), voldoen aan de eisen van paragraaf 3, onderdelen a tot en met k, met de uitzonderingen:
 
@@ -1476,19 +1476,19 @@ Een hogesnelheidsoffshoredienstschip van minder dan 500 GT en met een lengte van
 
 ## Bijlage 6. Eisen met betrekking tot de vaart rond de eilanden van Caribisch-Nederland
 
-### Bijlage behorend bij [artikel 41b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=4&artikel=41b&z=2018-01-01&g=2018-01-01), van de Regeling veiligheid zeeschepen
+### § 2. Hogesnelheidsoffshoredienstschepen als bedoeld in [artikel 3a, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2024-04-01&g=2024-04-01)
 
-Indien aangetoond kan worden dat een hogesnelheidsoffshoredienstschip, vol beladen en met een snelheid die 90% van de maximale vaarsnelheid tijdens de te ondernemen reizen niet verder dan 4 uur van een toevluchtsoord verwijderd is, dan mogen de eisen die in voorschrift 12.7.3 aan een ‘klasse A’ hogesnelheidspassagiersschip worden toegepast in plaats van de eisen van voorschrift 12.8.2.2. die aan een hogesnelheidsvrachtschip worden gesteld.
+Hogesnelheidsoffshoredienstschepen als bedoeld in [artikel 3a, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2024-04-01&g=2024-04-01), voldoen aan de eisen van paragraaf 3, onderdelen a tot en met k, met de uitzonderingen:
 
 ## Bijlage 7. behorende bij [artikel 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=5b&z=2018-01-01&g=2018-01-01). van de Regeling veiligheid zeeschepen
 
 ### LY3 The Large Commercial Yacht Code
 
-1 In verband met het explosiegevaar dat zuurstof onder druk kan opleveren, geschiedt de berging van de zuurstoffles(sen) op een wijze die passend is, bij voorkeur in de buitenlucht of in een geventileerde ruimte.
+Tijdens reizen waarop meer dan 12 personen worden vervoerd naast de bemanning, worden de te vervoeren hoeveelheden gevaarlijke stoffen beperkt tot de hoeveelheden zoals voorgeschreven in hoofdstuk 7, deel D, afdeling 7.17 van de HSC-Code 2000.
 
 ### Eisen voor schepen bedoeld in [artikel 6f](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=6f&z=2023-12-21&g=2023-12-21)
 
-Schepen als bedoeld in de[artikel 6f](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=6f&z=2023-12-21&g=2023-12-21), voldoen aan de volgende eisen:
+In afwijking van voorschrift 13.14 is het op een hogesnelheidsoffshoredienstschip met een lengte van minder dan 30 meter toegestaan af te zien van een geluidsontvangstinstallatie indien er ramen aanwezig zijn aan de zijkant van de brug of indien het schip beschikt over open brugvleugels.
 
 ### § 1. Algemeen
 
@@ -1496,11 +1496,11 @@ Waar wordt verwezen naar klasse B, C of D worden de zeegebieden bedoeld, genoemd
 
 ‘Administration’ with regard to this Code means the Government of the State whose flag the ship is entitled to fly.
 
-1. Aan boord van een schip zijn de in de tabellen 1 en 2 voorgeschreven geneesmiddelen, verpleeg- en verbandmiddelen, handboeken en overige benodigdheden aanwezig. Voor schepen waarmee gevaarlijke stoffen als bedoeld in hoofdstuk VII, deel A, van het SOLAS-verdrag worden vervoerd en veerboten als bedoeld in artikel 3, tweede lid, van richtlijn 92/29/EEG, kunnen afwijkende hoeveelheden gelden. Deze afwijkende hoeveelheden staan tussen haakjes vermeld.
+Schepen als bedoeld in de[artikel 6f](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=6f&z=2024-04-01&g=2024-04-01), voldoen aan de volgende eisen:
 
 2. De in de kolommen A tot en met E genoemde hoeveelheden gelden voor schepen met een gemonsterde bemanning tot en met 15 personen. Bij een bemanningssterkte van meer dan 15 personen, worden deze hoeveelheden voor elke volgende groep van ten hoogste 15 personen steeds met honderd procent vermeerderd, met dien verstande dat daarbij de in de tabellen vermelde maximumhoeveelheden niet behoeven, en voor de receptplichtige middelen ook niet mogen, worden overschreden.
 
-3. In afwijking van het tweede lid behoeven bij een bemanningssterkte 15 tot en met 24 personen de in de tabellen 1 en 2 genoemde hoeveelheden slechts met vijftig procent te worden vermeerderd. Indien de in de tabellen genoemde hoeveelheid van een middel één bedraagt, behoeft deze hoeveelheid bij een bemanningssterkte 15 tot en met 24 personen niet te worden vermeerderd.
+Waar wordt verwezen naar klasse B, C of D worden de zeegebieden bedoeld, genoemd in artikel 4 van [richtlijn 2009/45/EG](32009L0045).
 
 This Code of Practice has been developed jointly by the United Kingdom, its relevant overseas territories and crown dependencies1Crown Dependencies (Isle of Man, Guernsey and Jersey) and the UK Overseas Territories (Anguilla, Bermuda, British Virgin Islands, Cayman Islands, Falkland Islands, Gibraltar, Montserrat, St Helena and the Turks & Caicos Islands, and international industry representatives.
 
@@ -1528,19 +1528,27 @@ This Code of Practice has been developed jointly by the United Kingdom, its rele
 
 1. De in artikel 2 bedoelde medische uitrusting wordt in daarvoor geschikte kisten of in daarvoor ingerichte kasten of ruimten bewaard.
 
-Een Caribisch-Nederlands schip, als bedoeld in [artikel 41b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=4&artikel=41b&z=2023-12-21&g=2023-12-21), voldoet aan de volgende eisen:
-
 1 De bereiding en aflevering van Metronidazol zetpillen kan op praktische bezwaren stuiten. Volgens informatie van de fabrikant is het mogelijk om vaginale ovules ook rectaal te gebruiken. Ovules (Flagyl) zijn daarom een gelijkwaardig alternatief.
+
+1 In verband met het explosiegevaar dat zuurstof onder druk kan opleveren, geschiedt de berging van de zuurstoffles(sen) op een wijze die passend is, bij voorkeur in de buitenlucht of in een geventileerde ruimte. Extra medicinale zuurstof als beschreven onder II.1.12 is toegestaan en wordt geadviseerd voor alle schepen.
 
 1. De geneesmiddelen en antidota worden afgenomen bij een apotheker, hetgeen moet blijken uit een merk op de verpakking.
 
 Applicable to yachts which are 24 metres and over in load line length, are in commercial use for sport or pleasure, do not carry cargo and do not carry more than 12 passengers.
 
-3. Op de etiketten, aanwezig op de verpakking der middelen zijn zo veel mogelijk naast de Nederlandse, de Latijnse benamingen vermeld, overeenkomstig de nomenclatuur van de Wereld Gezondheids Organisatie.
+Een Caribisch-Nederlands schip, als bedoeld in [artikel 41b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=4&artikel=41b&z=2024-04-01&g=2024-04-01), voldoet aan de volgende eisen:
 
 This Code of Practice has been developed jointly by the United Kingdom, its relevant overseas territories and crown dependencies1Crown Dependencies (Isle of Man, Guernsey and Jersey) and the UK Overseas Territories (Anguilla, Bermuda, British Virgin Islands, Cayman Islands, Falkland Islands, Gibraltar, Montserrat, St Helena and the Turks & Caicos Islands, and international industry representatives.
 
 1. De jaarlijkse inspectie van de medische uitrusting vindt plaats voorafgaand aan de onderzoeken waaraan het schip wordt onderworpen in verband met de voor dat schip benodigde certificaten. De inspectie heeft geen betrekking op de in artikel 3 bedoelde medische uitrusting voor reddingsvlotten.
+
+Applicable to yachts which are 24 metres and over in load line length, are in commercial use for sport or pleasure, do not carry cargo and do not carry more than 12 passengers.
+
+‘Administration’ with regard to this Code means the Government of the State whose flag the ship is entitled to fly.
+
+This Code of Practice has been developed jointly by the United Kingdom, its relevant overseas territories and crown dependencies1Crown Dependencies (Isle of Man, Guernsey and Jersey) and the UK Overseas Territories (Anguilla, Bermuda, British Virgin Islands, Cayman Islands, Falkland Islands, Gibraltar, Montserrat, St Helena and the Turks & Caicos Islands, and international industry representatives.
+
+‘Approved’ in respect to materials or equipment means approved by the Administration or approved by an Administration or organisation which is formally recognised by the Administration.
 
 (Note – where a definition is not contained within this Code, guidance should be taken from meanings given within the International Conventions)
 
@@ -1692,14 +1700,6 @@ When a lower deck is designated as the freeboard deck, that part of the hull whi
 
 ‘Seafarer’ means any person who is employed or engaged or works in any capacity on board a ship. (See National Annex for interpretation)
 
-‘Self-activating smoke signal’ means a signal complying with the requirements of the IMO International Life-Saving Appliances Code.
-
-‘Self-igniting light’ means a light complying with the requirements of the IMO International Life-Saving Appliances Code.
-
-‘Short Range Yacht’ means a vessel under 500GT the keel of which was laid or was at a similar stage of construction prior to the 1st August 2005 or a new vessel constructed on or after that date under 300GT:
-
-‘Similar stage of construction’ means at a stage which:
-
 ### 3. APPLICATION AND INTERPRETATION
 
 ### 3.1. Application
@@ -1710,25 +1710,25 @@ When a lower deck is designated as the freeboard deck, that part of the hull whi
 
 ### 3.3.1 Equivalent standards
 
-‘Standard fire test’ means a test in which specimens of the relevant bulkheads, decks or other constructions are exposed in a test furnace by a specified test method in accordance with the IMO Fire Test Procedures Code.
+‘SLA’ Safe Landing Area. The area bounded by the perimeter line and perimeter lighting. The construction of the OFS and LOS segments (see below) should ensure that the main rotor will not risk conflict with obstacles when the nose of the helicopter is butted-up to, but not projecting over, the perimeter line. Thus the pilot, when landing in unusual circumstances, has confidence that he can touch down provided that all wheels are within the SLA and the nose of the helicopter is not projecting over the nearest perimeter line ahead. However, only correct positioning over the aiming circle (see ‘Aiming Circle’ above) will ensure proper clearance with respect to physical obstacles, provision of ground effect, and provision of adequate passenger access/egress.
 
 ### 3.3.2 Exemptions
 
-‘Superstructure’ has the meaning given in annex I to ICLL.
+‘SOLAS A pack’ means a liferaft emergency pack complying with the requirements of the IMO International Life-Saving Appliances Code.
 
-‘Survival craft’ means a craft capable of sustaining the lives of persons in distress from the time of abandoning the ship.
+‘SOLAS B pack’ means a liferaft emergency pack complying with the requirements of the IMO International Life-Saving Appliances Code.
 
-‘Trainee’
+‘Standard fire test’ means a test in which specimens of the relevant bulkheads, decks or other constructions are exposed in a test furnace by a specified test method in accordance with the IMO Fire Test Procedures Code.
 
 ### 3.3 Equivalent Standards, Exemptions and Existing Vessels
 
 ### 3.3.1 Equivalent standards
 
-The Minimum age of trainees should be an issue for the National Marine Administration and requirements should be as indicated in the National Annex.
+‘Survival craft’ means a craft capable of sustaining the lives of persons in distress from the time of abandoning the ship.
 
 ### 3.3.2 Exemptions
 
-‘Training manual’ with regard to life-saving appliances means a manual complying with the requirements of SOLAS III/Part B – Life Saving Appliances and Arrangements, Regulation 35.
+A trainee **SHOULD**:
 
 ### 4. CONSTRUCTION AND STRENG
 
@@ -1738,7 +1738,7 @@ The Minimum age of trainees should be an issue for the National Marine Administr
 
 ### 3.4. Interpretation
 
-‘Voyage’ includes an excursion.
+‘Training Vessel’ Training Vessel which may be either a sailing or motor vessel, means a vessel which is operated to provide:
 
 ### 3.5 Updating the Code
 
@@ -1750,27 +1750,27 @@ The Minimum age of trainees should be an issue for the National Marine Administr
 
 ### 4.2. Structural Strength
 
-***Note**- the fact that a trainee(s) may contribute towards the cost of their welfare whilst on board should not imply that they are passengers.
+‘Weather deck’ means the uppermost complete weather tight deck fitted as an integral part of the vessel's structure and which is exposed to the sea and weather.
 
 ### 3.1. Application
 
 ### 3.2. Area of Operation
 
-‘Training manual’ with regard to life-saving appliances means a manual complying with the requirements of SOLAS III/Part B – Life Saving Appliances and Arrangements, Regulation 35.
+‘Window’ means a ship's window, being any window, regardless of shape, suitable for installation aboard ships.
 
 ‘Training Vessel’ Training Vessel which may be either a sailing or motor vessel, means a vessel which is operated to provide:
 
-### 4.5.2. Masts and Spars and tanding Rigging
-
-### 3.3.2 Exemptions
-
 ### 3.1. Application
+
+### 3.2. Area of Operation
+
+### 3.3 Equivalent Standards, Exemptions and Existing Vessels
 
 Applications for exemption should be made to the Administration and be supported by justification for the exemption.
 
 ### 3.3 Equivalent Standards, Exemptions and Existing Vessels
 
-### 3.3.3 New and Existing vessels
+### 3.3.2 Exemptions
 
 ### 3.4. Interpretation
 
@@ -1778,25 +1778,25 @@ Applications for exemption should be made to the Administration and be supported
 
 ### 3.5 Updating the Code
 
-### 3. APPLICATION AND INTERPRETATION
+### 3.3.3 New and Existing vessels
+
+### 3.4. Interpretation
+
+### 4.1 General Requirements
+
+### 3.5 Updating the Code
+
+### 4.3. Watertight Bulkheads
 
 ### 4. CONSTRUCTION AND STRENG
 
-### 4.1 General Requirements
+The requirements of the Code will be reviewed and, if necessary revised, by the Administration in consultation with the working group.
 
 ### 4.2. Structural Strength
 
 ### 4.3. Watertight Bulkheads
 
-### 3.5 Updating the Code
-
-The requirements of the Code will be reviewed and, if necessary revised, by the Administration in consultation with the working group.
-
-### 4.5. Rigging on Sailing Vessels
-
-### 4.5.1. General
-
-The granting of exemptions will be limited by the extent to which international conventions allow and should be regarded as exceptiona
+Section 11 of the Code deals with subdivision and damage stability requirements which will determine the number and positioning of watertight bulkheads defined below.
 
 Additionally, where a well is created on each side of the vessel between a superstructure or deckhouse, and the bulwark in way of that superstructure or deck house, the following formula may be used to determine the required freeing port areas on each side of the vessel for the well concerned:
 
@@ -1808,15 +1808,23 @@ Where vessels cannot fully comply with the requirements of this section, equival
 
 For the purposes of this section only, where actual freeboard to the weather deck exceeds that required by ICLL 66 by at least one standard superstructure height, openings on that deck, abaft of the forward quarter, may be assumed to be in position 2. This is to be taken, unless otherwise stated, as defined in ICLL 66.
 
-For vessels up to 75m load line length, a standard superstructure height is to be taken as 1.8m. For vessels over 125m load line length, this is to be taken as 2.3m. Superstructure heights for vessels of intermediate lengths should be obtained by interpolation.
+The strength of all blocks, shackles, rigging screws, cleats and associated fittings and attachment points should exceed the breaking strain of the associated running or standing rigging.
 
-### 5.1. Hatchways and Skylight Hatches
+### 4.5.4. Sails
 
 The strength of all blocks, shackles, rigging screws, cleats and associated fittings and attachment points should exceed the breaking strain of the associated running or standing rigging.
 
-FPREQ = 0.28 x Aw/ B
+For the purposes of this section only, where actual freeboard to the weather deck exceeds that required by ICLL 66 by at least one standard superstructure height, openings on that deck, abaft of the forward quarter, may be assumed to be in position 2. This is to be taken, unless otherwise stated, as defined in ICLL 66.
 
 ### 5. WEATHERTIGHT INTEGRI
+
+### 5.1. Hatchways and Skylight Hatches
+
+### 5.1.1. General Requirements
+
+### 5.1.2. Hatchways Which are Open at Sea
+
+### 5.3. Skylights
 
 ### 5.2. Doorways and Companionways
 
@@ -1826,33 +1834,25 @@ FPREQ = 0.28 x Aw/ B
 
 ### 5.3. Skylights
 
-### 5.4. Portlights
-
-### 5.5. Windows
-
-### 5.6. Ventilators and Exhausts
-
-### 5.7. Air Pipes
-
 For the purposes of this section only, where actual freeboard to the weather deck exceeds that required by ICLL 66 by at least one standard superstructure height, openings on that deck, abaft of the forward quarter, may be assumed to be in position 2. This is to be taken, unless otherwise stated, as defined in ICLL 66.
 
-### 5.9. Materials for Valves and Associated Piping
+### 5.5. Windows
 
 Emergency power should be readily available to supply the required emergency lighting, radio installation and navigation aids for a minimum of 3 hours. As a minimum, the navigation aids to be supplied by emergency power to include GPS, echo sounder and AIS. The emergency power supply should be adequate to also supply any electrical emergency equipment fitted, such as fire pumps, bilge pumps, watertight doors, and rescue boat davit.
 
 Where vessels cannot fully comply with the requirements of this section, equivalent arrangements may be considered by the Administration. Such proposals should take into account the following, although this should not be considered as an exhaustive list:
 
-### 6. WATER FREEING ARRANGEMENTS
+### 5.8. Scuppers, Sea Inlets and Discharges and Other Hull Penetrations
 
-### 6.1. The standards for water freeing arrangements should comply with ICLL as far as it is reasonable and practicable to do so.
+### 5.9. Materials for Valves and Associated Piping
 
-### 5.2. Doorways and Companionways
+### 5.10. General Equivalence
 
 ### 5.2.1 Doorways Located Above the Weather Deck
 
-### 5.2.2. Companion Hatch Openings
+### 6. WATER FREEING ARRANGEMENTS
 
-### 5.3. Skylights
+### 6.1. The standards for water freeing arrangements should comply with ICLL as far as it is reasonable and practicable to do so.
 
 ### 5.4. Portlights
 
@@ -1862,29 +1862,29 @@ Where vessels cannot fully comply with the requirements of this section, equival
 
 ### 6.2. In individual cases, when the Administration considers that the requirements of ICLL cannot be met, the Administration may consider and approve alternative arrangements to achieve adequate safety standards. Freeing arrangements may take account of a reduced permeability and volume of the well, when compared to a full size well.
 
-For Short Range Yachts it is considered that the requirement for freeing port area for a forward or after well may be reduced by a form factor equal to the ratio of (actual area well) divided by (length of well x breadth of well). Dimensions should be taken at half height of the bulwark. This may be reduced by 50% providing it can be shown that the intact stability of the yacht remains acceptable if the well is flooded to any level up to the bulwark height and that area provided will allow the well to drain in less than 3 minutes.
+FPREQ = Freeing port area required
 
 ### 5.9. Materials for Valves and Associated Piping
 
-FPREQ = Freeing port area required
-
-### 7a. MACHINERY – VESSELS OF LESS THAN 500GT
-
 On sailing vessels, where the solid bulwark height does not exceed 150mm, specific freeing ports, as defined above, are not required.
+
+### 6.2. In individual cases, when the Administration considers that the requirements of ICLL cannot be met, the Administration may consider and approve alternative arrangements to achieve adequate safety standards. Freeing arrangements may take account of a reduced permeability and volume of the well, when compared to a full size well.
+
+For Short Range Yachts it is considered that the requirement for freeing port area for a forward or after well may be reduced by a form factor equal to the ratio of (actual area well) divided by (length of well x breadth of well). Dimensions should be taken at half height of the bulwark. This may be reduced by 50% providing it can be shown that the intact stability of the yacht remains acceptable if the well is flooded to any level up to the bulwark height and that area provided will allow the well to drain in less than 3 minutes.
 
 ### 7a.2. Installation
 
 In any case the intention should be to achieve a standard of safety which is at least equivalent to the standard of ICLL.
 
-### 8a. ELECTRICAL INSTALLATIONS -VESSELS OF LESS THAN 500GT
+### 7a. MACHINERY – VESSELS OF LESS THAN 500GT
 
-### 8a.1. Installation
+### 7a.1. General Requirements
 
 Where;
 
-### 8a.3. Batteries
+### 7b. MACHINERY – VESSELS OF 500GT AND OVER
 
-### 7a.2. Installation
+### 8a. ELECTRICAL INSTALLATIONS -VESSELS OF LESS THAN 500GT
 
 On sailing vessels, where the solid bulwark height does not exceed 150mm, specific freeing ports, as defined above, are not required.
 
@@ -1894,11 +1894,19 @@ The emergency source of power should be independent of the main power supply, ex
 
 ### 8b. ELECTRICAL INSTALLATIONS – VESSELS OF 500GT AND OVER
 
+### 8a.4. Emergency Power
+
+Emergency power should be readily available to supply the required emergency lighting, radio installation and navigation aids for a minimum of 3 hours. As a minimum, the navigation aids to be supplied by emergency power to include GPS, echo sounder and AIS. The emergency power supply should be adequate to also supply any electrical emergency equipment fitted, such as fire pumps, bilge pumps, watertight doors, and rescue boat davit.
+
+The emergency source of power should be independent of the main power supply, external to the engine room, and with separate distribution.
+
+### 8b. ELECTRICAL INSTALLATIONS – VESSELS OF 500GT AND OVER
+
 ### 9a. STEERING GEAR – VESSELS OF LESS THAN 500GT
 
-Batteries of a type suitable for marine use and not liable to leakage should be used. Areas in which batteries are stowed should be provided with appropriate ventilation to prevent an accumulation of gas which is emitted from batteries of all types.
+### 9b. STEERING GEAR – VESSELS OF 500GT AND OVER
 
-It should be noted that compliance with the damage stability criteria is not required for vessels that obtain full compliance with the ICLL conditions of assignment.
+### 10a. BILGE PUMPING – VESSELS OF LESS THAN 500GT
 
 ### 10b. BILGE PUMPING – VESSELS OF 500GT AND OVER
 
@@ -1912,35 +1920,27 @@ It should be noted that compliance with the damage stability criteria is not req
 
 ### 11.2.1.1. Monohull Vessels
 
-### 10b. BILGE PUMPING – VESSELS OF 500GT AND OVER
+### 8b. ELECTRICAL INSTALLATIONS – VESSELS OF 500GT AND OVER
 
 ### 11.2.1.2. Monohull Vessels Operating as Short Range Yachts
 
-### 11.1. General
+### 9b. STEERING GEAR – VESSELS OF 500GT AND OVER
 
 ### 11.2.1.3. Multi-hulls
 
-### 8b. ELECTRICAL INSTALLATIONS – VESSELS OF 500GT AND OVER
+### 11.2.1.6. High Speed Vessels
 
 ### 11.2.1.4
 
-### 9b. STEERING GEAR – VESSELS OF 500GT AND OVER
+### 11.2.2. Sailing Vessels
 
 ### 11.2.1.5. Superstructures
 
 ### 11.2.1.6. High Speed Vessels
 
-### 11. STABILITY
+In addition to the criteria above designers and builders should address the following hazards which are known to affect vessels operating in planing modes or those achieving relatively high speeds:
 
 ### 11.2.2. Sailing Vessels
-
-### 11.2.2.1. Monohulls
-
-### 11.2.1. Motor Vessels
-
-If, as a result of immersion of openings in a superstructure, a vessel cannot meet the required standard, those superstructure openings may be ignored and the openings in the weather deck used instead to determine θf. In such cases the GZ curve should be derived without the benefit of the buoyancy of the superstructure.
-
-### 11.2.1.6. High Speed Vessels
 
 In addition to the criteria above designers and builders should address the following hazards which are known to affect vessels operating in planing modes or those achieving relatively high speeds:
 
@@ -1952,23 +1952,31 @@ In addition to the criteria above designers and builders should address the foll
 
 If, as a result of immersion of openings in a superstructure, a vessel cannot meet the required standard, those superstructure openings may be ignored and the openings in the weather deck used instead to determine θf. In such cases the GZ curve should be derived without the benefit of the buoyancy of the superstructure.
 
-### 11.5. Stability Documents
+### 11.3. Damage Stability
 
 ### 12. FREEBOARD
 
 ### 12.1. General
 
-### 12.2. Freeboard Mark and Loading
+### 11.4. Elements of Stability
 
-### 12.3. Datum Draught Marks
+### 11.5. Stability Documents
 
-### 13. LIFE-SAVING APPLIANCES
+### 12. FREEBOARD
 
 All regularly used openings for access and for ventilation should be considered when determining the downflooding angle. No opening regardless of size which may lead to progressive flooding should be immersed at an angle of heel of less than 40°. Air pipes to tanks can, however, be disregarded.
 
 If, as a result of immersion of openings in a superstructure, a vessel cannot meet the required standard, those superstructure openings may be ignored and the openings in the weather deck used instead to determine θf. In such cases the GZ curve should be derived without the benefit of the buoyancy of the superstructure.
 
-### 13.2.1. Lifeboats (Required for vessels over 85m in length)
+### 12.3. Datum Draught Marks
+
+### 13. LIFE-SAVING APPLIANCES
+
+### 13.1. General Requirements
+
+### 13.2. Equipment Carriage Requirements
+
+It should be noted that compliance with the damage stability criteria is not required for vessels that obtain full compliance with the ICLL conditions of assignment.
 
 ### 13.2.2. Liferafts
 
@@ -1976,9 +1984,9 @@ If, as a result of immersion of openings in a superstructure, a vessel cannot me
 
 ### 13.2.3.1. Vessels of 500GT and over
 
-It should be noted that compliance with the damage stability criteria is not required for vessels that obtain full compliance with the ICLL conditions of assignment.
+### 13.2.3.2. Vessels under 500GT
 
-### 13.2.3.3. Short Range Yachts
+In spaces where penetration of oil products is possible, the surface of insulation is to be impervious to oil or oil vapours. Insulation boundaries are to be arranged to avoid immersion in oil spillages.
 
 ### 13.2.4. Lifejackets
 
@@ -1986,53 +1994,45 @@ It should be noted that compliance with the damage stability criteria is not req
 
 ### 13.2.6. Lifebuoys
 
-In spaces where penetration of oil products is possible, the surface of insulation is to be impervious to oil or oil vapours. Insulation boundaries are to be arranged to avoid immersion in oil spillages.
-
-### 12.3. Datum Draught Marks
-
-### 13.2.8. Radar Transponders (SART)
-
-### 13.1. General Requirements
-
 The purpose of this section is to provide means of escape so that persons onboard can safely and swiftly escape to the liferaft embarkation deck. For this purpose, the following functional requirements should be met:
 
 ### 13.2.10. Lighting
 
-### 13.2.11. Life-saving Signals and Rescue Poster
+### 13.2.8. Radar Transponders (SART)
 
 ### 13.2.3. Rescue Boats and Recovery of Persons from the Sea
 
-### 14. FIRE SAFETY
+### 13.2.9. General Alarm
 
 The SART is to be stowed in an easily accessible position so that it can rapidly be placed in any survival craft. Means should be provided in order that it can be mounted in the survival craft at a height of at least 1 metre above sea level.
 
-### 14.2. Miscellaneous
+### 13.2.11. Life-saving Signals and Rescue Poster
 
 ### 14.2.1. Construction and Arrangement of Saunas
 
 Where a fixed fire-extinguishing system not required by this Chapter, is installed, the arrangement is to be to the satisfaction of the Administration.
 
-### 14.2.3. Deep Fat Frying Equipment
+### 14.1. Protection of spaces containing vehicles or craft with fuel in their tanks or lockers storing such fuels
 
-### 13.2.7. EPIRB
+### 14.2. Miscellaneous
 
 For fryers of up to 15 litres cooking oil capacity, the provision of a suitably sized Class F extinguisher (BS7937:2000) together with manual isolation of the electrical power supply is acceptable.
 
 Space heaters, if used, are to be fixed in position and so constructed as to reduce fire risks to a minimum. The design and location of these units is to be such that clothing, curtains or other similar materials cannot be scorched or set on fire by heat from the unit.
 
-### 14a. STRUCTURAL FIRE PROTECTION – VESSELS OF LESS THAN 500GT
+### 14.2.3. Deep Fat Frying Equipment
 
-**Table 14B.2**
+Attention is drawn to the requirements in SOLAS II-2/10.6.4 for fire extinguishing systems for deep fat cooking equipment.
 
-Where a fixed fire-extinguishing system not required by this Chapter, is installed, the arrangement is to be to the satisfaction of the Administration.
+For fryers of up to 15 litres cooking oil capacity, the provision of a suitably sized Class F extinguisher (BS7937:2000) together with manual isolation of the electrical power supply is acceptable.
 
-### 13.2.11. Life-saving Signals and Rescue Poster
+### 14.3. Fire Control Plan(s)
 
 When display space in the wheelhouse is restricted, the 2 sides of a SOLAS No.2 poster (as contained in liferaft equipment packs) may be displayed in lieu of a SOLAS No. 1 poster.
 
-### 14a.2.2. Structural Fire Protection
+### 14a.1. General
 
-### 14a.2.3. Materials
+### 14a.2. Structure
 
 ### 14a.2.4. Surface of Insulation
 
@@ -2044,7 +2044,7 @@ b Where spaces are of the same numerical category and subscript b appears, a bul
 
 Attention is drawn to the requirements in SOLAS II-2/10.6.4 for fire extinguishing systems for deep fat cooking equipment.
 
-The purpose of this section is to provide means of escape so that persons onboard can safely and swiftly escape to the liferaft embarkation deck. For this purpose, the following functional requirements should be met:
+In spaces where penetration of oil products is possible, the surface of insulation is to be impervious to oil or oil vapours. Insulation boundaries are to be arranged to avoid immersion in oil spillages.
 
 e Fire insulation need not be fitted if the machinery space in category (7),in the opinion of the Administration, has little or no fire risk.
 
@@ -2054,17 +2054,17 @@ Notes: To be applied to both tables 1 and 2, as appropriate.
 
 ### 14a.6. Space Heaters
 
-### 14a.3.1. Purpose
+### 14a.3.2. Requirements
 
-### 14a.7. Fixed Fire Detection and Fire-Alarm Systems
+### 14a.4. Ventilation Systems
 
-### 14a.8. Fixed Fire-Extinguishing Systems Not Required by this Section
+### 14a.5. Arrangements for Gaseous Fuel for Domestic Purposes
 
-### 14a.2.3. Materials
+### 14a.6. Space Heaters
 
 ### 14b. STRUCTURAL FIRE PROTECTION – VESSELS OF 500GT AND OVER
 
-### 14b.1. Definitions
+### 14a.7. Fixed Fire Detection and Fire-Alarm Systems
 
 Terms used in this section should have the same meaning as defined in SOLAS, except as defined in Section 14.1 and as follows:
 
@@ -2072,13 +2072,13 @@ Terms used in this section should have the same meaning as defined in SOLAS, exc
 
 Emergency escape breathing devices (EEBD’s) should comply with the Fire Safety Systems Code. At least one spare emergency escape breathing device should be kept onboard.
 
-### 14b.2.9. Windows and Portlights (Also see 5.4 and 5.5)
+### 14b.1. Definitions
 
 ### 14a.3.2. Requirements
 
-The purpose of this section is to detect a fire in the space of origin and to provide for alarm for safe escape and fire-fighting activity. For this purpose, the following functional requirements should be met:
+‘Not readily ignitable’ means that the surface thus described will not continue to burn for more than 20 seconds after removal of a suitable impinging test flame.
 
-### 14a.5. Arrangements for Gaseous Fuel for Domestic Purposes
+### 14b.2. Table 14B.2 is a guide to the major requirements of this Section. The table is intended as a quick reference to the requirements and is not to be used in isolation when designing the fire safety arrangements.
 
 ### 14b.2.3. Main Vertical Zones and Horizontal Zones
 
@@ -2090,17 +2090,17 @@ The purpose of this section is to detect a fire in the space of origin and to pr
 
 a For clarification on which applies, see 14B.2.4 and 14B.2.6.
 
-### 14b. STRUCTURAL FIRE PROTECTION – VESSELS OF 500GT AND OVER
+### 14b.2.4. Bulkheads Within a Main Vertical Zone
 
 c Bulkheads separating the wheelhouse and chartroom from each other may be ‘B-0’ rating.
 
 ### 14b.2.4. Bulkheads Within a Main Vertical Zone
 
-e Fire insulation need not be fitted if the machinery space in category (7),in the opinion of the Administration, has little or no fire risk.
+a For clarification on which applies, see 14B.2.4 and 14B.2.6.
 
 ### 14b.2. Table 14B.2 is a guide to the major requirements of this Section. The table is intended as a quick reference to the requirements and is not to be used in isolation when designing the fire safety arrangements.
 
-For the application of 14B.2.3.1 an asterisk, where appearing in table 2, except for category (9), should be read as ‘A-0’.
+c Bulkheads separating the wheelhouse and chartroom from each other may be ‘B-0’ rating.
 
 ### 14b.2.6. Protection of Stairways and Lifts in Accommodation and Service Spaces
 
@@ -2112,55 +2112,55 @@ For the application of 14B.2.3.1 an asterisk, where appearing in table 2, except
 
 * Where an asterisk appears in the tables, the division is required to be of steel or other equivalent material but is not required to be of ‘A’ class standard.
 
+### 14b.2.7. Openings in ‘A’ Class Divisions
+
+### 14b.2.8. Openings in ‘B’ Class Divisions
+
+### 14b.2.9. Windows and Portlights (Also see 5.4 and 5.5)
+
+### 14b.2.10. Details of Construction
+
 ### 14b.2.11. Restricted Use of Combustible Materials
 
 ### 14b.2.12. Means of Escape
 
-### 14b.2.7. Openings in ‘A’ Class Divisions
-
-### 14b.2.12.6. Emergency Escape Breathing Devices
-
-### 14b.2.9. Windows and Portlights (Also see 5.4 and 5.5)
-
-### 14b.2.13. Ventilation Systems
-
-e Fire insulation need not be fitted if the machinery space in category (7),in the opinion of the Administration, has little or no fire risk.
+The purpose of this section is to provide means of escape so that persons onboard can safely and swiftly escape to the lifeboat and liferaft embarkation deck. For this purpose, the following functional requirements should be met:
 
 The purpose of this section is to detect a fire in the space of origin and to provide for alarm for safe escape and fire-fighting activity. For this purpose, the following functional requirements should be met:
 
-For the application of 14B.2.3.1 an asterisk, where appearing in table 2, except for category (9), should be read as ‘A-0’.
+Emergency escape breathing devices (EEBD’s) should comply with the Fire Safety Systems Code. At least one spare emergency escape breathing device should be kept onboard.
+
+### 14b.2.13. Ventilation Systems
+
+### 14b.2.14. Fixed Fire Detection and Fire Alarm Systems and Automatic Sprinkler, Fire Detection and Fire Alarm Systems
+
+### 14b.2.8. Openings in ‘B’ Class Divisions
+
+### 14b.2.15. Public Address System
 
 ### 14b.2.16. Oil Fuel Arrangements
 
 ### 14b.2.17. Lubricating Oil Arrangements
 
-### 14b.2.8. Openings in ‘B’ Class Divisions
+### 14b.2.12. Means of Escape
 
 ### 14b.2.18. Arrangements for Other Flammable Oils
 
-### 14b.2.10. Details of Construction
+### 14b.2.12.6. Emergency Escape Breathing Devices
 
 ### 14b.2.19. Prohibition of Carriage of Flammable Oils in Forepeak Tanks
 
-### 14b.2.12. Means of Escape
+### 14b.2.13. Ventilation Systems
 
 ### 14b.2.20. Arrangements for Gaseous Fuel for Domestic Purposes
 
-### 14b.2.12.6. Emergency Escape Breathing Devices
+### 15a.1. General Requirements
 
 ### 14b.2.21. Space Heaters
 
-### 14b.2.13. Ventilation Systems
-
-### 15a. FIRE APPLIANCES – VESSELS OF LESS THAN 500GT
-
-### 15a.1. General Requirements
-
-### 15a.2. Specific Requirements
-
 ### 15a.2.1. Provision of Water Jet
 
-### 14b.2.17. Lubricating Oil Arrangements
+### 15a. FIRE APPLIANCES – VESSELS OF LESS THAN 500GT
 
 Arrangements for the storage, distribution and utilisation of oil used in pressure lubrication systems are to be such as to minimise the risk of fire or explosion.
 
@@ -2172,53 +2172,53 @@ Arrangements for the storage, distribution and utilisation of other flammable oi
 
 Oil fuel, lubricating oil and other flammable oils are not to be carried in forepeak tanks.
 
+### 15a.2.3. Fire Main and Hydrants
+
+All vessels should comply with the requirements of SOLAS 74, Chapter II-2, regulation 10. as may be amended, and as appropriate to the vessel and its equipment. For the purpose of the SOLAS regulations, the standards for a cargo ship apply.
+
+### 15a.2.5. Portable Fire Extinguishers for Use in Accommodation and Service Spaces
+
+The location of concealed fire appliances should be clearly marked.
+
 ### 15b. FIRE APPLIANCES – VESSELS OF 500GT AND OVER
 
 All vessels should comply with the requirements of SOLAS 74, Chapter II-2, regulation 10. as may be amended, and as appropriate to the vessel and its equipment. For the purpose of the SOLAS regulations, the standards for a cargo ship apply.
 
-### 14b.2.21. Space Heaters
+### 16.2. Radio Communications: The Global Maritime Distress and Safety System (GMDSS)
 
 The location of concealed fire appliances should be clearly marked.
 
 ### 16. RADIO
 
-Vessels of <150 GT require a radar reflector.
+### 16.1. Application
 
 ### 16.2. Radio Communications: The Global Maritime Distress and Safety System (GMDSS)
 
-All vessels should comply with the requirements of SOLAS 74, Chapter II-2, regulation 10. as may be amended, and as appropriate to the vessel and its equipment. For the purpose of the SOLAS regulations, the standards for a cargo ship apply.
+### 16.3. Radio Installations
 
 ### 16.4. Operational Performance
 
 ### 16.5. Installation
 
-### 16.6. Sources of Energy
+Vessels of >300 GT must be marked externally with the vessel’s IMO number which may be horizontal provided that it is visible from the air.
 
 ### 16.7. Watches
 
-### 16.8. Radio Personnel
+In no case should the standards applied be less than those applied to a vessel of less than 500GT.
 
 ### 16.9. Availability of Equipment
 
-Vessels of >300 GT must be marked externally with the vessel’s IMO number which may be horizontal provided that it is visible from the air.
+As considered appropriate, an adequate heating installation should be provided.
 
 ### 18. NAVIGATIONAL EQUIPMENT AND VISIBILITY FROM WHEELHOUSE
 
-In no case should the standards applied be less than those applied to a vessel of less than 500GT.
-
-### 18.2. Bridge Visibility
-
-As considered appropriate, an adequate heating installation should be provided.
-
-### 19.1. Nautical Publications
-
-### 16.2. Radio Communications: The Global Maritime Distress and Safety System (GMDSS)
+### 18.1. Navigational Equipment
 
 An approved electronic chart display and information system (ECDIS) may be accepted as meeting these chart carriage requirements.
 
-### 16.4. Operational Performance
+### 19. MISCELLANEOUS EQUIPMENT
 
-### 19.2. Measuring Instruments
+### 19.1. Nautical Publications
 
 ### 16.6. Sources of Energy
 
@@ -2234,9 +2234,17 @@ All heavy items of equipment such as ballast, batteries, cooking stove, etc, sho
 
 ### 18.1. Navigational Equipment
 
-### 19.6
+### 19.4. Searchlight
 
 ### 19. MISCELLANEOUS EQUIPMENT
+
+### 19.5
+
+### 20.1. Equipment
+
+### 19.6
+
+### 21. ACCOMMODATION
 
 ### 20. ANCHORS AND CABLES
 
@@ -2250,21 +2258,21 @@ All heavy items of equipment such as ballast, batteries, cooking stove, etc, sho
 
 ### 21.2. Access/Escape Arrangements
 
-### 19.3. Signalling Lamp
+### 19.5
 
 ### 21.3. Lighting
 
-### 19.4. Searchlight
+### 21.6. Hand Holds and Grab Rails
 
 ### 21.4. Heating
 
-### 19.5
+### 21.7. Ventilation
 
 ### 21.5. Food Preparation, Storage and Messing
 
 ### 21.6. Hand Holds and Grab Rails
 
-### 21.3. Lighting
+### 21.10. Toilet Facilities
 
 ### 21.7. Ventilation
 
@@ -2276,11 +2284,11 @@ All heavy items of equipment such as ballast, batteries, cooking stove, etc, sho
 
 ### 21.11. Stowage Facilities for Personal Effects
 
-### 21.2. Access/Escape Arrangements
+### 21a.1. General
 
 ### 21.12. Securing of Heavy Equipment
 
-### 21.3. Lighting
+### 21a.3. Headroom
 
 ### 21a. ACCOMMODATION AND RECREATIONAL FACILITIES – VESSELS OF LESS THAN 200GT CONSTRUCTED ON OR AFTER THE DATE OF ENTRY INTO FORCE OF MLC 2006
 
@@ -2290,7 +2298,7 @@ All heavy items of equipment such as ballast, batteries, cooking stove, etc, sho
 
 ### 21a.3. Headroom
 
-### 21a.4. Ventilation
+Vessels of 3000 GT or more constructed on or after the Maritime Labour Convention, 2006 enters into force should comply with the full requirements of standard A3.1 of the Maritime Labour Convention 2006.
 
 ### 21a.5. Heating and Insulation
 
@@ -2298,7 +2306,7 @@ All heavy items of equipment such as ballast, batteries, cooking stove, etc, sho
 
 ### 21a.7. Water Services and Provision
 
-Vessels of 3000 GT or more constructed on or after the Maritime Labour Convention, 2006 enters into force should comply with the full requirements of standard A3.1 of the Maritime Labour Convention 2006.
+### 21a.8. Galley Facilities and Provision of Food
 
 ### 21a.9. Hand Holds and Grab Rails
 
@@ -2320,7 +2328,7 @@ Vessels of 3000 GT or more constructed on or after the Maritime Labour Conventio
 
 ### 21a.18. Master’s Inspections
 
-### 21b. ACCOMMODATION – VESSELS ≥200GT CONSTRUCTED ON OR AFTER THE DATE OF ENTRY INTO FORCE OF MLC 2006
+The structural strength of any deckhouse or superstructure should comply with the requirements of one of the Classification Societies listed in the National Annex, as appropriate to the vessel and its areas of operation.
 
 ### 21b.1. Introduction
 
@@ -2328,21 +2336,13 @@ Vessels of 3000 GT or more constructed on or after the Maritime Labour Conventio
 
 ### 21b.3. Headroom
 
-The structural strength of any deckhouse or superstructure should comply with the requirements of one of the Classification Societies listed in the National Annex, as appropriate to the vessel and its areas of operation.
+It should be the responsibility of an owner/managing agent/skipper to advise that the following requirements for items of personal clothing should be met:
 
 ### 21b.5. Lighting
 
-### 21b.6. Heating
-
-### 21b.7. Ventilation
-
-It should be the responsibility of an owner/managing agent/skipper to advise that the following requirements for items of personal clothing should be met:
-
-### 21b.8.1. General
-
 Attention is drawn to the IMO Code on Noise Levels on Board Ships, Resolution A.468(XII), published 1982.
 
-### 21b.8.3. Sleeping Accommodation – Equivalent arrangements to the Maritime Labour Convention 2006 for vessels of 200GT and over and less than 500GT.
+### 21b.7. Ventilation
 
 Personnel lift installations should be appropriately designed and constructed, installed and tested by a competent person.
 
@@ -2352,13 +2352,21 @@ Vessels of 3000 GT or more constructed on or after the Maritime Labour Conventio
 
 It should be the responsibility of an owner/managing agent/skipper to advise that the following requirements for items of personal clothing should be met:
 
-### 21b.10. Galley Areas, Food Preparation, Storage, and Provision of Food
+### 21b.8.4. Sleeping Accommodation – Equivalent arrangements to the Maritime Labour Convention 2006 for vessels of 500GT and over and less than 1250GT.
 
 Attention is drawn to the IMO Code on Noise Levels on Board Ships, Resolution A.468(XII), published 1982.
 
-Medical training requirements for members of the complement of the vessel are given in the Manning Section of the National Annex.
+Vessels of 3000 GT or more constructed on or after the Maritime Labour Convention, 2006 enters into force should comply with the full requirements of standard A3.1 of the Maritime Labour Convention 2006.
 
-### 21b.13. Hospital accommodation
+### 21b.9. Mess Rooms
+
+### 21b.10. Galley Areas, Food Preparation, Storage, and Provision of Food
+
+### 21b.11. Water Services
+
+### 21b.12. Sanitary Facilities
+
+Boarding arrangements provided for pilots should have due regard for SOLAS Chapter V, Regulation 23 and IMO Resolution A.889 (21) ‘Pilot transfer arrangements’, International Maritime Pilots’ Association (IMPA) recommendations, or any documents replacing them. Also see National Annex for any national requirements.
 
 ### 21b.14. Laundry Facilities
 
@@ -2366,19 +2374,11 @@ Medical training requirements for members of the complement of the vessel are gi
 
 ### 21b.16. Other Provisions
 
-Boarding arrangements provided for pilots should have due regard for SOLAS Chapter V, Regulation 23 and IMO Resolution A.889 (21) ‘Pilot transfer arrangements’, International Maritime Pilots’ Association (IMPA) recommendations, or any documents replacing them. Also see National Annex for any national requirements.
+### 21b.17. Master’s Inspections
 
 ### 21b.18. Hand Holds and Grab Rails
 
 ### 21b.19. Securing of Heavy Equipment
-
-### 21b.20. Sailing Vessels
-
-### 22. PROTECTION OF PERSONNEL
-
-### 22.1. Deckhouses and Superstructures
-
-### 21b.9. Mess Rooms
 
 Boarding arrangements provided for pilots should have due regard for SOLAS Chapter V, Regulation 23 and IMO Resolution A.889 (21) ‘Pilot transfer arrangements’, International Maritime Pilots’ Association (IMPA) recommendations, or any documents replacing them. Also see National Annex for any national requirements.
 
@@ -2390,11 +2390,11 @@ All sea going commercially operated yachts and sail training vessels of more tha
 
 These guidelines apply to all **‘seafarers employed or engaged in any capacity on board every commercially operated large yacht’**.
 
-### 21b.15. Offices
+### 22.3. Safe Work Aloft, Overside, and on the Bowsprit of Sailing Vessels
 
 Fatigue at sea is a serious safety issue and owners and operators should ensure that all vessels are sufficiently manned to avoid the need to work excessive hours. The owner/operator and the Master are responsible for ensuring, so far as is reasonably practicable, that the Master and all the crew members are properly rested when they begin work and can obtain adequate rest when not on duty.
 
-Personnel lift installations should be appropriately designed and constructed, installed and tested by a competent person.
+It should be the responsibility of an owner/managing agent/skipper to advise that the following requirements for items of personal clothing should be met:
 
 Designs should be submitted at an early stage of construction. Recognised international standards such as BS EN 81 should be considered but the following gives a minimum standard that should be provided:
 
@@ -2404,15 +2404,15 @@ BS EN 81 series – Safety rules for the construction and installation of lifts 
 
 ### 23. MEDICAL STORES
 
-A vessel should carry medical stores as required by the Administration.
+Designs should be submitted at an early stage of construction. Recognised international standards such as BS EN 81 should be considered but the following gives a minimum standard that should be provided:
 
 ### 26.1.6. Minimum Hours of Rest
 
-Designs should be submitted at an early stage of construction. Recognised international standards such as BS EN 81 should be considered but the following gives a minimum standard that should be provided:
+BS EN 81 series – Safety rules for the construction and installation of lifts BS 5655 series – Lifts and service lifts
 
 Reference standards include:
 
-BS EN 81 series – Safety rules for the construction and installation of lifts BS 5655 series – Lifts and service lifts
+A vessel should carry medical stores as required by the Administration.
 
 ### 24.3. Pilot for Vessel
 
@@ -2422,9 +2422,9 @@ Attention is drawn to the IMO Code on Noise Levels on Board Ships, Resolution A.
 
 In allowing any such agreed exception and to ensure that a crew member does not become fatigued, such exceptions should be documented and accompanied by commensurate rest arrangements.
 
-### 25. CLEAN SEAS
+### 24.3. Pilot for Vessel
 
-Designs should be submitted at an early stage of construction. Recognised international standards such as BS EN 81 should be considered but the following gives a minimum standard that should be provided:
+Boarding arrangements provided for pilots should have due regard for SOLAS Chapter V, Regulation 23 and IMO Resolution A.889 (21) ‘Pilot transfer arrangements’, International Maritime Pilots’ Association (IMPA) recommendations, or any documents replacing them. Also see National Annex for any national requirements.
 
 Reference standards include:
 
@@ -2436,25 +2436,25 @@ The underlying principles of safe manning are considered to extend to Large Yach
 
 All sea going commercially operated yachts and sail training vessels of more than 24 metres Load Line Length should carry an appropriate number of qualified Deck and Engineer Officers to ensure a degree of safety at least equivalent to that established by the IMO guidelines.
 
-### 26.1.2. Application and Definitions
+### 26.1.1. Principles of Safe Manning
+
+IMO Resolution A.890(21) adopted on the 25th November 1999 defines the principles of Safe Manning to ensure the safe operation of, and prevention of pollution from, ships to which the Convention applies. Convention 180 of the International Labour Organization(ILO) (Seafarer’s hours of work and the manning of ships) came into force on the 10th January 2003 and applies to all commercially operated vessels.
+
+### 26.1.3. Responsibility
+
+All sea going commercially operated yachts and sail training vessels of more than 24 metres Load Line Length should carry an appropriate number of qualified Deck and Engineer Officers to ensure a degree of safety at least equivalent to that established by the IMO guidelines.
+
+The owner/operator should ensure that the necessary resources are available to man the vessel so that the limits on hours can be observed. The master is responsible for ensuring compliance with the requirements.
 
 These guidelines apply to all **‘seafarers employed or engaged in any capacity on board every commercially operated large yacht’**.
 
 ### 26.1.3. Responsibility
 
-Fatigue at sea is a serious safety issue and owners and operators should ensure that all vessels are sufficiently manned to avoid the need to work excessive hours. The owner/operator and the Master are responsible for ensuring, so far as is reasonably practicable, that the Master and all the crew members are properly rested when they begin work and can obtain adequate rest when not on duty.
+### 25. CLEAN SEAS
 
 The owner/operator should ensure that the necessary resources are available to man the vessel so that the limits on hours can be observed. The master is responsible for ensuring compliance with the requirements.
 
 It is also the responsibility of all seafarers to ensure that they are properly rested when they begin duty on the vessel and that they obtain adequate rest when not on duty.
-
-### 26.1.4. Definition of Hours of Work
-
-### 25. CLEAN SEAS
-
-Situations may arise in which a seafarer may be required to work during scheduled hours of rest. These include emergencies which threaten the safety of the vessel or put life at risk. In these circumstances, the limits may be exceeded provided compensatory arrangements are subsequently made to avoid fatigue.
-
-Where a seafarer’s normal period of rest on board a vessel is disturbed by a callout he/she should have adequate compensatory rest.
 
 The owner/operator should ensure that the necessary resources are available to man the vessel so that the limits on hours can be observed. The master is responsible for ensuring compliance with the requirements.
 
@@ -2468,7 +2468,7 @@ Specific factors to be taken into account in determining the safe manning level 
 
 ### 26.2.4. Guidance on Appropriate Manning Levels
 
-When considering whether an exception is appropriate, the Master should give due regard to the associated duties being considered and in this respect exceptions to persons undertaking watch keeping duties and/or with safety critical duties would not be considered appropriate.
+Hours of rest may be divided into no more than 2 periods; one of which should be at least 6 hours long, and the interval in between should not exceed 14 hours.
 
 ### 26.2.5. Safe Manning Document
 
@@ -2476,13 +2476,21 @@ The owner/operator should ensure that the necessary resources are available to m
 
 ### 26.2.6. Application for a Safe Manning Document
 
-In devising the schedule, operators should take account of factors such as:
+When considering whether an exception is appropriate, the Master should give due regard to the associated duties being considered and in this respect exceptions to persons undertaking watch keeping duties and/or with safety critical duties would not be considered appropriate.
 
-Changes should not be made to the schedule of duties unless they can be justified by substantially altered work patterns or other significant factors.
+In allowing any such agreed exception and to ensure that a crew member does not become fatigued, such exceptions should be documented and accompanied by commensurate rest arrangements.
 
 Where it is known that a vessel engages in an irregular pattern or that working hours are unlikely to be uniform, this can be taken into account when considering the schedule.
 
-It is not necessary to draw up a new schedule of duties for each voyage, so long as it is applicable to the voyage in question and the composition of the crew for whom it was originally intended has not changed.
+The Master should ensure that a schedule of duties is drawn up setting out the hours of work and rest periods for each of the crew. It is recommended that the table or schedule should be in a similar format to that detailed in Annex A of MSN 1767, and show:
+
+In devising the schedule, operators should take account of factors such as:
+
+### 26.1.9. Exceptions for Emergencies
+
+Where it is known that a vessel engages in an irregular pattern or that working hours are unlikely to be uniform, this can be taken into account when considering the schedule.
+
+### 26.1.10. Records
 
 A copy of the schedule should be made available to all members of the crew.
 
@@ -2494,27 +2502,27 @@ Situations may arise in which a seafarer may be required to work during schedule
 
 The master or authorised person is responsible for ensuring that records of hours of rest are maintained for each of the crew serving on the vessel. The records should be completed monthly in arrears. Each record should be endorsed by the master or authorised person and the seafarer. A copy should be retained by the seafarer.
 
-### 26.2.9. Personal Water Craft
+In an emergency, or when unforeseen events occur, changes may be unavoidable. In these cases records should reflect all deviations from the schedule.
 
 All records should be kept for a minimum of 12 months and should be available for inspection by the flag Administration surveyors at any time. Checking the vessel’s records may be carried out by the flag Administration as part of the normal routine of vessel inspection and will include a check that the appropriate schedules are available and records maintained.
 
-### 26.2. SAFE MANNING
-
-Situations may arise in which a seafarer may be required to work during scheduled hours of rest. These include emergencies which threaten the safety of the vessel or put life at risk. In these circumstances, the limits may be exceeded provided compensatory arrangements are subsequently made to avoid fatigue.
-
-An Administration should ensure that all vessels are safely and sufficiently manned in relation to the nature of their operation with the responsibilities placed on companies owning or operating seagoing vessels, to ensure that their vessels are manned with personnel of appropriate grades who have been properly trained and certificated.
-
-The numbers of certificated officers and certificated and non-certificated ratings, must be sufficient to ensure safe and efficient operation of the vessel at all times.
-
 The guidelines place a duty on the owner or operator to provide the master of a vessel with the necessary resources to comply with the manning requirements.
 
-### 26.2.2. Responsibilities of Owners and Operators: General Principles
+### 26.2.1. Introduction
 
 ### 26.2. SAFE MANNING
 
 ### 26.2.3. Establishing Safe Manning Requirements
 
-Specific factors to be taken into account in determining the safe manning level may include:
+The guidelines place a duty on the owner or operator to provide the master of a vessel with the necessary resources to comply with the manning requirements.
+
+### 26.2.2. Responsibilities of Owners and Operators: General Principles
+
+In fulfilling their responsibility to ensure that vessels are safely and sufficiently manned, owners and operators should:
+
+### 26.2.3. Establishing Safe Manning Requirements
+
+### 28. SURVEY, CERTIFICATION, INSPECTION AND MAINTENANCE
 
 ### 26.2.4. Guidance on Appropriate Manning Levels
 
@@ -2522,33 +2530,25 @@ In determining what constitutes a minimum safe manning level, useful guidance ma
 
 ### 26.2.5. Safe Manning Document
 
-### 28. SURVEY, CERTIFICATION, INSPECTION AND MAINTENANCE
-
-### 26.2.6. Application for a Safe Manning Document
-
-Any application for a Safe Manning Document should be made by the owner, or a person authorised to act on their behalf, to the flag Administration of the vessel and include a clear and concise explanation of how:
-
-### 26.2.1. Introduction
-
-When the manning level has been agreed, a Safe Manning Document should be issued for that vessel in a format which complies with the requirements of SOLAS, as amended. It should be retained on board and be available for inspection by an authorised person, whenever required.
+SOLAS requires that vessels over 500GT, excluding pleasure yachts not engaged in trade, carry a Safe Manning Document. Owners and operators of vessels below 500GT, or those above 500GT solely engaged for pleasure, may also choose to hold a Safe Manning Document. This will allow the owner to consider a ‘range and risk’ approach when determining manning levels.
 
 In the event of any change in equipment, construction or use of the vessel, which may affect the safe manning level, the owner or operator should make an application for the issue of a new Safe Manning Document.
 
 ### 28.4. Periodical Surveys
 
-The Administration with which the vessel is registered is obliged to investigate accidents or incidents in accordance with the requirements of International Conventions. Apart from this legal requirement, an Administration investigates such occurrences to demonstrate the effective control and importance they attach to safety at sea.
-
-The owner/operators or managing agent of all seagoing yachts of more than 24 metres Load Line length must ensure that personnel required for the safe operation of the vessel have recent and relevant experience of the type and size of vessel, and the type of operation in which it is engaged. See National Annex.
-
 A proposal should only be approved and Safe Manning Document issued provided the manning level fully satisfies these principles, recommendations and guidelines.
+
+When the manning level has been agreed, a Safe Manning Document should be issued for that vessel in a format which complies with the requirements of SOLAS, as amended. It should be retained on board and be available for inspection by an authorised person, whenever required.
+
+In the event of any change in equipment, construction or use of the vessel, which may affect the safe manning level, the owner or operator should make an application for the issue of a new Safe Manning Document.
 
 ### 28.6. Use of a Classification Society Surveyor to act on the behalf of the Administration
 
-### 26.2.9. Personal Water Craft
+### 26.2.7. Indicative Manning Levels
 
-The operators are reminded that operation of personal watercraft should comply with the applicable legislation of the state in whose waters they are being operated.
+The owner/operators or managing agent of all seagoing yachts of more than 24 metres Load Line length must ensure that personnel required for the safe operation of the vessel have recent and relevant experience of the type and size of vessel, and the type of operation in which it is engaged. See National Annex.
 
-### 27. PASSENGERS
+### 26.2.8. Sailing Vessels
 
 ### 31. INTERNATIONAL SHIP AND PORT FACILITY CODE
 
@@ -2558,13 +2558,13 @@ The operators are reminded that operation of personal watercraft should comply w
 
 With reference to .2 and .3 above, such persons should be included in the crew list required for the vessel, should have received on board familiarisation training as required by STCW, and should not be assigned duties on the muster list.
 
-When the manning level has been agreed, a Safe Manning Document should be issued for that vessel in a format which complies with the requirements of SOLAS, as amended. It should be retained on board and be available for inspection by an authorised person, whenever required.
+No vessel to which the Code applies should carry more than 12 passengers on a voyage or excursion. The following meanings apply:
 
-In the event of any change in equipment, construction or use of the vessel, which may affect the safe manning level, the owner or operator should make an application for the issue of a new Safe Manning Document.
+‘Passenger’ means any person carried in a ship except:
 
-A Safe Manning Document of a vessel may be withdrawn if an owner or operator fails to submit a new proposal where a vessel changes trading area(s), construction, machinery or equipment, or operation and/or method of maintenance have changed, or a vessel persistently fails to comply with the rest hours requirements.
+‘a person employed or engaged in any capacity on board the vessel on the business of the vessel’ may reasonably include:
 
-Vessels are required to be issued with the following certificates, as appropriate.
+With reference to .2 and .3 above, such persons should be included in the crew list required for the vessel, should have received on board familiarisation training as required by STCW, and should not be assigned duties on the muster list.
 
 The owner/operators or managing agent of all seagoing yachts of more than 24 metres Load Line length must ensure that personnel required for the safe operation of the vessel have recent and relevant experience of the type and size of vessel, and the type of operation in which it is engaged. See National Annex.
 
@@ -2572,11 +2572,11 @@ If an owner/managing agent seeks any equivalence to the application of specific 
 
 Depending on the type of rig and level of automation, additional personnel may be required to operate the rig of a sailing vessel.
 
-Professional Yachtsmen's Association Royal Yachting Association
+Vessels are required to be issued with the following certificates, as appropriate.
 
 The operators are reminded that operation of personal watercraft should comply with the applicable legislation of the state in whose waters they are being operated.
 
-An authorised Classification Society is aware of the extent to which responsibility has been delegated to issue Load Line Certificates and Cargo Ship Safety Construction Certificates. International Conventions give specific discretion to an Administration to either make exemptions or accept equivalent equipment or arrangements. The formal agreement between the Administration and an authorised Classification Society governs the relationship between the two parties.
+If an owner/managing agent seeks any equivalence to the application of specific regulations or requirements, formal application must be made to the Administration, demonstrating an equivalent level of safety. The Administration may consider and agree the application.
 
 No vessel to which the Code applies should carry more than 12 passengers on a voyage or excursion. The following meanings apply:
 
@@ -2584,7 +2584,15 @@ An exclusive surveyor from an authorised Classification Society and proposed by 
 
 When a Classification Society surveyor is so appointed, actions taken will be under direct instruction of the Administration. The Administration will provide the appointed surveyor with detailed guidance on the scope of survey and report required.
 
-With reference to .2 and .3 above, such persons should be included in the crew list required for the vessel, should have received on board familiarisation training as required by STCW, and should not be assigned duties on the muster list.
+An authorised Classification Society is aware of the extent to which responsibility has been delegated to issue Load Line Certificates and Cargo Ship Safety Construction Certificates. International Conventions give specific discretion to an Administration to either make exemptions or accept equivalent equipment or arrangements. The formal agreement between the Administration and an authorised Classification Society governs the relationship between the two parties.
+
+The Administration with which the vessel is registered is obliged to investigate accidents or incidents in accordance with the requirements of International Conventions. Apart from this legal requirement, an Administration investigates such occurrences to demonstrate the effective control and importance they attach to safety at sea.
+
+An exclusive surveyor from an authorised Classification Society and proposed by the Society may be appointed from time to time to act on behalf of the Administration in cases when it is impracticable for a surveyor of the Administration to make the visit necessary for the survey.
+
+When a Classification Society surveyor is so appointed, actions taken will be under direct instruction of the Administration. The Administration will provide the appointed surveyor with detailed guidance on the scope of survey and report required.
+
+Vessels are required to be issued with the following certificates, as appropriate.
 
 The Administration with which the vessel is registered is obliged to investigate accidents or incidents in accordance with the requirements of International Conventions. Apart from this legal requirement, an Administration investigates such occurrences to demonstrate the effective control and importance they attach to safety at sea.
 
@@ -2592,27 +2600,19 @@ It is an offence for the vessel's master, skipper or owner not to inform the app
 
 All very serious casualties in accordance with the International Maritime Organization's (IMO) definition should be reported to IMO through the Administration.
 
-Vessels are required to be issued with the following certificates, as appropriate.
+### 29. CREW AGREEMENTS
 
-When a Classification Society surveyor is so appointed, actions taken will be under direct instruction of the Administration. The Administration will provide the appointed surveyor with detailed guidance on the scope of survey and report required.
-
-**29A** **Section 29 may be amended by the introduction of the International Labour Organization’s (ILO) requirements under the Maritime Labour Convention (MLC) 2006.**
-
-The Administration with which the vessel is registered is obliged to investigate accidents or incidents in accordance with the requirements of International Conventions. Apart from this legal requirement, an Administration investigates such occurrences to demonstrate the effective control and importance they attach to safety at sea.
-
-### 31. INTERNATIONAL SHIP AND PORT FACILITY CODE
-
-### 28.5. Use of an Authorised Classification Society
+### 29.1. Crew Agreements should be available on board as required by the Administration.
 
 ### Annex 1. MEMBER’S OF THE STEERING COMMITTEE AND WORKING GROUP RESPONSIBLE FOR THE CODE
 
-### 28.6. Use of a Classification Society Surveyor to act on the behalf of the Administration
+### 30. SAFETY MANAGEMENT
 
-### 3. Cylinders and Attachments
+### 31. INTERNATIONAL SHIP AND PORT FACILITY CODE
 
 ### 30. SAFETY MANAGEMENT
 
-### 28.7. Accident Investigations
+### Annex 1. MEMBER’S OF THE STEERING COMMITTEE AND WORKING GROUP RESPONSIBLE FOR THE CODE
 
 ### Annex 2. SAFETY MANAGEMENT SYSTEM FOR VESSELS UNDER 500GT
 
@@ -2622,33 +2622,13 @@ The Administration with which the vessel is registered is obliged to investigate
 
 ### 29. CREW AGREEMENTS
 
-Oyster Marine Ltd
+Isle Of Man Shipping Registry
 
 ### 4. Fittings and Pipework
 
-UCINA – Italian Marine Industry Association
+Sunseeker International Ltd
 
 ### 31. INTERNATIONAL SHIP AND PORT FACILITY CODE
-
-Azimut / Benetti S.p.A.
-
-Fr. Lurssen Werft GmbH & Co. KG
-
-Feadship Holland
-
-Perini Navi Spa
-
-MYBA
-
-Burness Corlett Three Quays (Southampton) Ltd
-
-### 2. Definitions
-
-RINA UK Ltd
-
-Lloyds Register
-
-Nippon Kaiji Kyokai
 
 Oyster Marine Ltd
 
@@ -2660,27 +2640,47 @@ SYBAss
 
 Azimut / Benetti S.p.A.
 
-### 4. Fittings and Pipework
+Fr. Lurssen Werft GmbH & Co. KG
 
-Feadship Holland
+### 2. Definitions
 
-### 6. Ventilation
+Perini Navi Spa
 
-### 7. Gas Detection
+MYBA
 
 Burness Corlett Three Quays (Southampton) Ltd
 
-### Annex 4. LIST OF CERTIFICATES TO BE ISSUED
+ABS
+
+RINA UK Ltd
+
+Lloyds Register
+
+Nippon Kaiji Kyokai
+
+Azimut / Benetti S.p.A.
+
+### Annex 3. OPEN FLAME GAS INSTALLATIONS
+
+Feadship Holland
+
+### 2. Stowage of Gas Containers
+
+### 3. Cylinders and Attachments
+
+Burness Corlett Three Quays (Southampton) Ltd
+
+### 5. Appliances
 
 1 The Administration retains the right to survey and issue certificates for this item
 
-### Annex 5. UNITED KINGDOM NATIONAL ANNEX
+### 7. Gas Detection
 
 The annex contains requirements and supplementary notes specific to United Kingdom vessels. These are referenced under the same section numbers as they would appear in the main Code text.
 
 SI No.940 The Merchant Shipping (Registration of Submersible Craft) Regulations 1976, as amended.
 
-‘Aviation Inspection Body’ for United Kingdom see Ensign website for a current list of current approved bodies.
+1 The Administration retains the right to survey and issue certificates for this item
 
 ‘Merchant Shipping Notice’, ‘Marine Guidance Notes’ and Marine Information Notes means Notices/Notes described as such and issued by the Maritime and Coastguard Agency; and any reference to a particular Notice/Note includes a reference to any document amending or replacing that Notice/Note which is considered by the Secretary of State to be relevant from time to time and is specified in a Merchant Shipping Notice/Note;
 
@@ -2688,17 +2688,25 @@ SI No.940 The Merchant Shipping (Registration of Submersible Craft) Regulations 
 
 A trainee may only sail on a vessel in which it can reasonably be expected that he or she is physically and mentally capable of safely taking part in the operation of the vessel. There should be specific documented provisions in place to cover the health, safety, and welfare of the trainees. Safety management tools, such as formal safety assessment (FSA) techniques, may be useful when considering the acceptable age of a trainee for a specific vessel, voyage or operating area/condition. Due consideration must also be given to the profile and balance of the crew for each voyage taking into account the age and sex of the trainees. In any event a trainee should not be less than 12 years of age and any person below this age must be considered as a passenger.
 
+‘Aviation Inspection Body’ for United Kingdom see Ensign website for a current list of current approved bodies.
+
+‘Merchant Shipping Notice’, ‘Marine Guidance Notes’ and Marine Information Notes means Notices/Notes described as such and issued by the Maritime and Coastguard Agency; and any reference to a particular Notice/Note includes a reference to any document amending or replacing that Notice/Note which is considered by the Secretary of State to be relevant from time to time and is specified in a Merchant Shipping Notice/Note;
+
+‘Minimum Age of Trainees’
+
+A trainee may only sail on a vessel in which it can reasonably be expected that he or she is physically and mentally capable of safely taking part in the operation of the vessel. There should be specific documented provisions in place to cover the health, safety, and welfare of the trainees. Safety management tools, such as formal safety assessment (FSA) techniques, may be useful when considering the acceptable age of a trainee for a specific vessel, voyage or operating area/condition. Due consideration must also be given to the profile and balance of the crew for each voyage taking into account the age and sex of the trainees. In any event a trainee should not be less than 12 years of age and any person below this age must be considered as a passenger.
+
 ‘pleasure vessel’ has the same meaning as in The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 1998 SI 1998/2771, as amended, as follows:
 
-‘pleasure vessel’ means
+### Annex 4. LIST OF CERTIFICATES TO BE ISSUED
 
-‘Aviation Inspection Body’ for United Kingdom see Ensign website for a current list of current approved bodies.
+Det Norske Veritas
 
 **4.3.1**Classification Societies
 
 American Bureau of Shipping
 
-### Annex 4. LIST OF CERTIFICATES TO BE ISSUED
+Bureau Veritas
 
 Det Norske Veritas
 
@@ -2710,19 +2718,11 @@ Nippon Kaiji Kyokai
 
 Registro Italiano Navale
 
-‘Merchant Shipping Notice’, ‘Marine Guidance Notes’ and Marine Information Notes means Notices/Notes described as such and issued by the Maritime and Coastguard Agency; and any reference to a particular Notice/Note includes a reference to any document amending or replacing that Notice/Note which is considered by the Secretary of State to be relevant from time to time and is specified in a Merchant Shipping Notice/Note;
+### 14.a. Structural Fire Protection – Vessels of Less Than 500GT
 
 **14A.2.3.8 14B.2.11**See MGN 453 – FIRE PROTECTION – Fire Retardant Treatment Treatment for Floor Coverings, Suspended Textile Materials, Upholstery Materials and Bedding Components for use Onboard Vessels Certified Under the MCA Large Commercial Yacht Code.
 
-A trainee may only sail on a vessel in which it can reasonably be expected that he or she is physically and mentally capable of safely taking part in the operation of the vessel. There should be specific documented provisions in place to cover the health, safety, and welfare of the trainees. Safety management tools, such as formal safety assessment (FSA) techniques, may be useful when considering the acceptable age of a trainee for a specific vessel, voyage or operating area/condition. Due consideration must also be given to the profile and balance of the crew for each voyage taking into account the age and sex of the trainees. In any event a trainee should not be less than 12 years of age and any person below this age must be considered as a passenger.
-
-‘pleasure vessel’ has the same meaning as in The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 1998 SI 1998/2771, as amended, as follows:
-
-### 28.1.2. Survey, Certification, Inspection, and Maintenance
-
-Registro Italiano Navale
-
-### 14.a. Structural Fire Protection – Vessels of Less Than 500GT
+### 22. Protection of Personnel
 
 American Bureau of Shipping
 
@@ -2730,13 +2730,13 @@ American Bureau of Shipping
 
 SI No.940 The Merchant Shipping (Registration of Submersible Craft) Regulations 1976, as amended.
 
-SI No.1098 The Merchant Shipping (Submersible Craft Construction and Survey) Regulations 1981.
+Medical stores requirements are contained within MSN 1768 ‘Ship’s Medical Stores’.
 
-### 23. Medical Stores
+### 24.5. Submersible craft
 
-Nippon Kaiji Kyokai
+Registration, construction and operation of submarines are regulated by the following United Kingdom Statutory Instruments:
 
-The IMO MARPOL Convention Annexes relevant to the operation of Large Yachts are implemented by the following United Kingdom Statutory Instruments;
+SI No.940 The Merchant Shipping (Registration of Submersible Craft) Regulations 1976, as amended.
 
 ### 14.a. Structural Fire Protection – Vessels of Less Than 500GT
 
@@ -2748,7 +2748,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 2. Het in het eerste lid bedoelde certificaat treedt in de plaats van het nationaal veiligheidscertificaat.
 
-3. [Artikel 3a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2023-12-21&g=2023-12-21), is van overeenkomstige toepassing.
+3. [Artikel 3a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2024-04-01&g=2024-04-01), is van overeenkomstige toepassing.
 
 ##### Artikel 6b. Certificaat SPS-Code schip dat wordt gebezigd voor het aan boord nemen van drenkelingen van 500 GT of meer
 
@@ -2756,27 +2756,27 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 2. Het in het eerste lid bedoelde certificaat treedt in de plaats van het nationaal veiligheidscertificaat.
 
-3. [Artikel 3a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2023-12-21&g=2023-12-21), is van overeenkomstige toepassing.
+3. [Artikel 3a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2024-04-01&g=2024-04-01), is van overeenkomstige toepassing.
 
 #### § 2. Onderzoeken
 
 ##### Artikel 9c. Onderzoeken van schip dat wordt gebezigd voor het aan boord nemen van drenkelingen
 
-Een schip dat wordt gebezigd voor het aan boord nemen van drenkelingen wordt ter verkrijging van het certificaat, bedoeld in [artikel 6a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=6a&z=2023-12-21&g=2023-12-21), of [artikel 6b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=6b&z=2023-12-21&g=2023-12-21), en gedurende de geldigheidsduur van dat certificaat onderworpen aan de in de SPS-Code 2008 voorgeschreven onderzoeken.
+Een schip dat wordt gebezigd voor het aan boord nemen van drenkelingen wordt ter verkrijging van het certificaat, bedoeld in [artikel 6a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=6a&z=2024-04-01&g=2024-04-01), of [artikel 6b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=6b&z=2024-04-01&g=2024-04-01), en gedurende de geldigheidsduur van dat certificaat onderworpen aan de in de SPS-Code 2008 voorgeschreven onderzoeken.
 
 ##### Artikel 17a. Certificaten op grond van bijzondere Codes en resoluties (IMO, CMOU, MCA)
 
-1. De in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=5&z=2023-12-21&g=2023-12-21), [5a tot en met 5e](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=5a&z=2023-12-21&g=2023-12-21) en [6 tot en met 6e](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=6&z=2023-12-21&g=2023-12-21) bedoelde certificaten hebben, indien zij zijn afgegeven voor een passagiersschip, een geldigheidsduur van een jaar. Indien zij zijn afgegeven voor een vrachtschip, hebben zij een geldigheidsduur van vijf jaren.
+1. De in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=5&z=2024-04-01&g=2024-04-01), [5a tot en met 5e](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=5a&z=2024-04-01&g=2024-04-01) en [6 tot en met 6e](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=6&z=2024-04-01&g=2024-04-01) bedoelde certificaten hebben, indien zij zijn afgegeven voor een passagiersschip, een geldigheidsduur van een jaar. Indien zij zijn afgegeven voor een vrachtschip, hebben zij een geldigheidsduur van vijf jaren.
 
-2. De geldigheidsduur van een certificaat als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=7&z=2023-12-21&g=2023-12-21) is gelijk aan de geldigheidsduur van het internationale veiligheidscertificaat voor passagiersschepen waarmee het wordt gecombineerd.
+2. De geldigheidsduur van een certificaat als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=7&z=2024-04-01&g=2024-04-01) is gelijk aan de geldigheidsduur van het internationale veiligheidscertificaat voor passagiersschepen waarmee het wordt gecombineerd.
 
 3. De [artikelen 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=29), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=30) en [31 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=31) zijn van overeenkomstige toepassing op certificaten als bedoeld in het eerste lid.
 
 ##### Artikel 17b. Geldigheidsduur certificaat schip dat wordt gebezigd voor het aan boord nemen van drenkelingen
 
-1. [Artikel 17a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=3&artikel=17a&z=2023-12-21&g=2023-12-21), is van overeenkomstige toepassing op certificaten als bedoeld in [artikel 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=6a&z=2023-12-21&g=2023-12-21) respectievelijk [artikel 6b](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=6b&z=2023-12-21&g=2023-12-21).
+1. [Artikel 17a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=3&artikel=17a&z=2024-04-01&g=2024-04-01), is van overeenkomstige toepassing op certificaten als bedoeld in [artikel 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=6a&z=2024-04-01&g=2024-04-01) respectievelijk [artikel 6b](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=6b&z=2024-04-01&g=2024-04-01).
 
-2. [Artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=2&artikel=29&z=2023-12-21&g=2023-12-21), van het besluit is van overeenkomstige toepassing op certificaten als bedoeld in het eerste lid.
+2. [Artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=2&artikel=29&z=2024-04-01&g=2024-04-01), van het besluit is van overeenkomstige toepassing op certificaten als bedoeld in het eerste lid.
 
 ### Hoofdstuk 3. Eisen aan schip en bedrijfsvoering
 
@@ -2784,7 +2784,7 @@ Een schip dat wordt gebezigd voor het aan boord nemen van drenkelingen wordt ter
 
 ##### Artikel 20a. Eisen aan schip dat wordt gebezigd voor het aan boord nemen van drenkelingen
 
-1. Een schip dat wordt gebezigd voor het aan boord nemen van drenkelingen met een lengte van minder dan 24 meter voldoet aan de eisen opgenomen in [bijlage 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&bijlage=3b&z=2023-12-21&g=2023-12-21) en aan de eisen opgenomen in de ISM-Code.
+1. Een schip dat wordt gebezigd voor het aan boord nemen van drenkelingen met een lengte van minder dan 24 meter voldoet aan de eisen opgenomen in [bijlage 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&bijlage=3b&z=2024-04-01&g=2024-04-01) en aan de eisen opgenomen in de ISM-Code.
 
 2. Een schip dat wordt gebezigd voor het aan boord nemen van drenkelingen met een lengte van 24 meter of meer voldoet aan de eisen opgenomen in de SPS-Code 2008 en aan de eisen opgenomen in de ISM-code.
 
@@ -2798,7 +2798,7 @@ Een schip dat wordt gebezigd voor het aan boord nemen van drenkelingen wordt ter
 
 ##### Artikel 48a. Voorschriften voor schip dat wordt gebezigd voor het aan boord nemen van drenkelingen
 
-De kapitein van een schip dat wordt gebezigd voor het aan boord nemen van drenkelingen, draagt ervoor zorg dat aan boord van het schip de in [artikel 20a](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=1&artikel=20a&z=2023-12-21&g=2023-12-21) genoemde voorschriften en verplichtingen worden nageleefd.
+De kapitein van een schip dat wordt gebezigd voor het aan boord nemen van drenkelingen, draagt ervoor zorg dat aan boord van het schip de in [artikel 20a](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=1&artikel=20a&z=2024-04-01&g=2024-04-01) genoemde voorschriften en verplichtingen worden nageleefd.
 
 #### § 2. Vrijstellingen
 
@@ -2899,17 +2899,17 @@ Vervallen
 
 Vervallen
 
-### § 1. Offshoredienstschepen als bedoeld in [artikel 3a, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2023-12-21&g=2023-12-21)
+### § 3. Eisen ten aanzien van tijdelijk onbemande machinekamers voor schepen met een lengte van minder dan 24 meter en een totaal geïnstalleerd voortstuwingsvermogen van 750 kW of minder
 
-### **Artikel 6. Jaarlijkse inspectie medische uitrusting**
+### § 1. Offshoredienstschepen als bedoeld in [artikel 3a, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2024-04-01&g=2024-04-01)
 
 Tijdens reizen waarop meer dan 12 personen worden vervoerd naast de bemanning, worden de te vervoeren hoeveelheden gevaarlijke stoffen beperkt tot de hoeveelheden zoals voorgeschreven in hoofdstuk 7, deel D, afdeling 7.17 van de HSC-Code 2000.
 
 In afwijking van voorschrift 13.14 is het op een hogesnelheidsoffshoredienstschip met een lengte van minder dan 30 meter toegestaan af te zien van een geluidsontvangstinstallatie indien er ramen aanwezig zijn aan de zijkant van de brug of indien het schip beschikt over open brugvleugels.
 
-[Artikel 37 van het Besluit zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0012778&artikel=37) is van overeenkomstige toepassing op hogesnelheidsoffshoredienstschepen.
+Een hogesnelheidsoffshoredienstschip als bedoeld in [artikel 6d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=6d&z=2024-04-01&g=2024-04-01), voldoet aan de eisen die de HSC-Code 2000 of de HSC-Code 1994 stelt aan vrachtschepen, met de volgende aanvullingen en uitzonderingen:
 
-1 De brancard heeft een raamwerk met onbuigzame ondersteunende bodem en is zodanig geconstrueerd, dat het gehele lichaam van de patiënt bescherming wordt geboden en kan worden gefixeerd, waarbij rekening is gehouden met de uiteenlopende omstandigheden waaronder de brancard moet kunnen worden gebruikt. De brancard is vervaardigd van brandvertragend materiaal en voorzien van hijsogen en banden ten behoeve van horizontaal en verticaal transport, onder andere door mangaten en vluchtluiken. Op zeilschepen met een lengte van minder dan 24 meter behoeft geen brancard aan boord te zijn.
+Indien aangetoond kan worden dat een hogesnelheidsoffshoredienstschip, vol beladen en met een snelheid die 90% van de maximale vaarsnelheid tijdens de te ondernemen reizen niet verder dan 4 uur van een toevluchtsoord verwijderd is, dan mogen de eisen die in voorschrift 12.7.3 aan een ‘klasse A’ hogesnelheidspassagiersschip worden toegepast in plaats van de eisen van voorschrift 12.8.2.2. die aan een hogesnelheidsvrachtschip worden gesteld.
 
 ## Bijlage 6. Eisen met betrekking tot de vaart rond de eilanden van Caribisch-Nederland
 
@@ -2919,19 +2919,19 @@ In afwijking van voorschrift 13.14 is het op een hogesnelheidsoffshoredienstschi
 
 ### 1. FOREWORD
 
-### Artikel 1. Toepassing op vissersvaartuigen
+### A. Toepassing [richtlijn 2009/45/EG](32009L0045)
+
+‘Self-activating smoke signal’ means a signal complying with the requirements of the IMO International Life-Saving Appliances Code.
+
+‘Self-igniting light’ means a light complying with the requirements of the IMO International Life-Saving Appliances Code.
+
+‘Short Range Yacht’ means a vessel under 500GT the keel of which was laid or was at a similar stage of construction prior to the 1st August 2005 or a new vessel constructed on or after that date under 300GT:
+
+‘Similar stage of construction’ means at a stage which:
 
 In the case of vessels constructed of FRP or GRP this will be considered as the date when more than 5% of the hull resin and reinforcement has been laid.
 
-‘SLA’ Safe Landing Area. The area bounded by the perimeter line and perimeter lighting. The construction of the OFS and LOS segments (see below) should ensure that the main rotor will not risk conflict with obstacles when the nose of the helicopter is butted-up to, but not projecting over, the perimeter line. Thus the pilot, when landing in unusual circumstances, has confidence that he can touch down provided that all wheels are within the SLA and the nose of the helicopter is not projecting over the nearest perimeter line ahead. However, only correct positioning over the aiming circle (see ‘Aiming Circle’ above) will ensure proper clearance with respect to physical obstacles, provision of ground effect, and provision of adequate passenger access/egress.
-
 ‘SOLAS’ means the International Convention of Safety of Life at Sea, 1974, as amended.
-
-‘SOLAS A pack’ means a liferaft emergency pack complying with the requirements of the IMO International Life-Saving Appliances Code.
-
-‘SOLAS B pack’ means a liferaft emergency pack complying with the requirements of the IMO International Life-Saving Appliances Code.
-
-‘Submersible Craft’ means any description of manned mobile submersible apparatus which is designed to maintain some or all of its occupants at or near atmospheric pressure including free, self-propelled, tethered, towed or bottom contact propelled apparatus and atmospheric diving suits. A diving bell is not a submersible craft for the purposes of these Regulations; and ‘diving bell’ means any compression chamber which is capable of being manned and is used or designed for use under the surface of water in supporting human life being a chamber in which any occupant is or may be subjected to a pressure of more than 300 millibars above atmospheric pressure during normal operation;
 
 ### 3. APPLICATION AND INTERPRETATION
 
@@ -2939,47 +2939,47 @@ In the case of vessels constructed of FRP or GRP this will be considered as the 
 
 ### 3.2. Area of Operation
 
-‘Training Vessel’ Training Vessel which may be either a sailing or motor vessel, means a vessel which is operated to provide:
-
-The vessel must be properly and safely manned at all times, both at sea and if necessary in port, by a sufficient number of experienced and competent personnel to ensure that trainees are adequately supervised giving particular consideration to the number, age and sex of the trainees.
-
-‘Weather deck’ means the uppermost complete weather tight deck fitted as an integral part of the vessel's structure and which is exposed to the sea and weather.
-
-### 3. APPLICATION AND INTERPRETATION
+***Note**- the fact that a trainee(s) may contribute towards the cost of their welfare whilst on board should not imply that they are passengers.
 
 The Minimum age of trainees should be an issue for the National Marine Administration and requirements should be as indicated in the National Annex.
 
-### 3.3 Equivalent Standards, Exemptions and Existing Vessels
+All training should be properly organised with clearly detailed objectives and outcomes.
 
-### 3.3.1 Equivalent standards
-
-Exemptions should be granted only by the Administration.
-
-### 3.2. Area of Operation
-
-‘Weather deck’ means the uppermost complete weather tight deck fitted as an integral part of the vessel's structure and which is exposed to the sea and weather.
+### 3. APPLICATION AND INTERPRETATION
 
 ‘Weathertight’ has the meaning given in annex I of ICLL. Weathertight means that in any sea conditions water will not penetrate into the ship.
 
+### 3.3 Equivalent Standards, Exemptions and Existing Vessels
+
+### 3. APPLICATION AND INTERPRETATION
+
+Exemptions should be granted only by the Administration.
+
+### 3.3.1 Equivalent standards
+
+‘Weather deck’ means the uppermost complete weather tight deck fitted as an integral part of the vessel's structure and which is exposed to the sea and weather.
+
+Exemptions should be granted only by the Administration.
+
 The granting of exemptions will be limited by the extent to which international conventions allow and should be regarded as exceptiona
 
-### 4.4. Enclosed Compartments within the Hull and below the Freeboard Deck provided with Access through Openings in the Hull
+### 4.1 General Requirements
 
 ### 4.5.2. Masts and Spars and tanding Rigging
 
-### 4.5.3. Rigging Fittings
+### 4.4. Enclosed Compartments within the Hull and below the Freeboard Deck provided with Access through Openings in the Hull
 
-### 3.4. Interpretation
-
-### 4.5.4. Sails
+### 4.5. Rigging on Sailing Vessels
 
 ### 4.5.1. General
+
+### 4.5.3. Rigging Fittings
 
 ### 4. CONSTRUCTION AND STRENG
 
 In any case the intention should be to achieve a standard of safety which is at least equivalent to the standard of ICLL.
 
-In general, hatches should be kept closed at sea. However, hatchways which may be kept open for access at sea are to be as small as practicable (a maximum of 1 square metre in clear area), and fitted with coamings of at least 300mm in height in positions 1 and 2 Hatchways should be as near to the centreline as practicable, especially on sailing vessels. Covers of hatchways are to be permanently attached to the hatch coamings and, where hinged, the hinges are to be located on the forward side.
+For vessels up to 75m load line length, a standard superstructure height is to be taken as 1.8m. For vessels over 125m load line length, this is to be taken as 2.3m. Superstructure heights for vessels of intermediate lengths should be obtained by interpolation.
 
 For the purposes of this section only, where actual freeboard to the weather deck exceeds that required by ICLL 66 by at least one standard superstructure height, openings on that deck, abaft of the forward quarter, may be assumed to be in position 2. This is to be taken, unless otherwise stated, as defined in ICLL 66.
 
@@ -2991,17 +2991,17 @@ For Short Range Yachts it is considered that the requirement for freeing port ar
 
 The strength of all blocks, shackles, rigging screws, cleats and associated fittings and attachment points should exceed the breaking strain of the associated running or standing rigging.
 
-### 5.8. Scuppers, Sea Inlets and Discharges and Other Hull Penetrations
+### 5.4. Portlights
 
-### 5.10. General Equivalence
+### 5.6. Ventilators and Exhausts
 
-### 5.1.1. General Requirements
+### 5.7. Air Pipes
 
-Additionally, where a well is created on each side of the vessel between a superstructure or deckhouse, and the bulwark in way of that superstructure or deck house, the following formula may be used to determine the required freeing port areas on each side of the vessel for the well concerned:
+Where vessels cannot fully comply with the requirements of this section, equivalent arrangements may be considered by the Administration. Such proposals should take into account the following, although this should not be considered as an exhaustive list:
 
 Where;
 
-FPREQ = Freeing port area required
+In any case the intention should be to achieve a standard of safety which is at least equivalent to the standard of ICLL.
 
 ### 5.8. Scuppers, Sea Inlets and Discharges and Other Hull Penetrations
 
@@ -3009,15 +3009,15 @@ FPREQ = Freeing port area required
 
 ### 7a.1. General Requirements
 
-### 7b. MACHINERY – VESSELS OF 500GT AND OVER
+### 6.3. Recesses
 
 Additionally, where a well is created on each side of the vessel between a superstructure or deckhouse, and the bulwark in way of that superstructure or deck house, the following formula may be used to determine the required freeing port areas on each side of the vessel for the well concerned:
 
 Batteries of a type suitable for marine use and not liable to leakage should be used. Areas in which batteries are stowed should be provided with appropriate ventilation to prevent an accumulation of gas which is emitted from batteries of all types.
 
-### 8a.4. Emergency Power
-
 ### 8a.1. Installation
+
+### 8a.3. Batteries
 
 In addition to the criteria above designers and builders should address the following hazards which are known to affect vessels operating in planing modes or those achieving relatively high speeds:
 
@@ -3037,55 +3037,55 @@ The curves of statical stability for seagoing conditions should meet the followi
 
 ### 11.2.1.1. Monohull Vessels
 
-### 11.2.2.2. Multi-hulls
+### 11.2.2.1. Monohulls
 
-### 11.4. Elements of Stability
+### 11.2.2.2. Multi-hulls
 
 For the purpose of assessing whether the stability criteria are met, GZ curves should be produced for the loading conditions applicable to the operation of the vessel.
 
-The SART is to be stowed in an easily accessible position so that it can rapidly be placed in any survival craft. Means should be provided in order that it can be mounted in the survival craft at a height of at least 1 metre above sea level.
+It should be noted that compliance with the damage stability criteria is not required for vessels that obtain full compliance with the ICLL conditions of assignment.
 
-### 13.2. Equipment Carriage Requirements
+### 12.2. Freeboard Mark and Loading
 
-### 13.2.3.2. Vessels under 500GT
+### 13.2.1. Lifeboats (Required for vessels over 85m in length)
 
 Attention is drawn to the requirements in SOLAS II-2/10.6.4 for fire extinguishing systems for deep fat cooking equipment.
 
 For fryers of up to 15 litres cooking oil capacity, the provision of a suitably sized Class F extinguisher (BS7937:2000) together with manual isolation of the electrical power supply is acceptable.
 
-### 13.2.7. EPIRB
+### 13.2.3.3. Short Range Yachts
 
 The purpose of this section is to contain a fire in the space of origin. For this purpose, the following functional requirements should be met:
 
-### 13.2.9. General Alarm
+### 13.2.7. EPIRB
+
+The SART is to be stowed in an easily accessible position so that it can rapidly be placed in any survival craft. Means should be provided in order that it can be mounted in the survival craft at a height of at least 1 metre above sea level.
+
+### 13.2.10. Lighting
 
 When display space in the wheelhouse is restricted, the 2 sides of a SOLAS No.2 poster (as contained in liferaft equipment packs) may be displayed in lieu of a SOLAS No. 1 poster.
 
-### 14.1. Protection of spaces containing vehicles or craft with fuel in their tanks or lockers storing such fuels
+### 14. FIRE SAFETY
 
-The purpose of this section is to provide means of escape so that persons onboard can safely and swiftly escape to the liferaft embarkation deck. For this purpose, the following functional requirements should be met:
-
-### 14.2.2. Construction and Arrangement of Steam Room
-
-### 14.1. Protection of spaces containing vehicles or craft with fuel in their tanks or lockers storing such fuels
+### 14.2.1. Construction and Arrangement of Saunas
 
 ### 14a.1. General
 
-### 14a.2.1. Forms of construction – Fire divisions
+### 14a. STRUCTURAL FIRE PROTECTION – VESSELS OF LESS THAN 500GT
 
 Terms used in this section should have the same meaning as defined in SOLAS, except as defined in Section 14.1 and as follows:
 
 ‘Not readily ignitable’ means that the surface thus described will not continue to burn for more than 20 seconds after removal of a suitable impinging test flame.
 
-### 14a.3. Means of Escape
+### 14a.2.3. Materials
 
 ### 14a.2.3. Materials
 
-### 14a.3.2. Requirements
+### 14a.2.5. Fuel Arrangements
 
-### 14a.4. Ventilation Systems
+### 14a.3. Means of Escape
 
-a For clarification on which applies, see 14B.2.4 and 14B.2.6.
+The purpose of this section is to provide means of escape so that persons onboard can safely and swiftly escape to the liferaft embarkation deck. For this purpose, the following functional requirements should be met:
 
 Space heaters, if used, are to be fixed in position and so constructed as to reduce fire risks to a minimum. The design and location of these units is to be such that clothing, curtains or other similar materials cannot be scorched or set on fire by heat from the unit.
 
@@ -3095,37 +3095,37 @@ d For the application of 14B.2.3.1, ‘B-O’ and ‘C’, where appearing in ta
 
 Where a fixed fire-extinguishing system not required by this Chapter, is installed, the arrangement is to be to the satisfaction of the Administration.
 
-* Where an asterisk appears in the tables, the division is required to be of steel or other equivalent material but is not required to be of ‘A’ class standard.
+Space heaters, if used, are to be fixed in position and so constructed as to reduce fire risks to a minimum. The design and location of these units is to be such that clothing, curtains or other similar materials cannot be scorched or set on fire by heat from the unit.
 
 In spaces where penetration of oil products is possible, the surface of insulation is to be impervious to oil or oil vapours. Insulation boundaries are to be arranged to avoid immersion in oil spillages.
 
-### 14a.2.5. Fuel Arrangements
+### 14a.8. Fixed Fire-Extinguishing Systems Not Required by this Section
 
-### 14b.2. Table 14B.2 is a guide to the major requirements of this Section. The table is intended as a quick reference to the requirements and is not to be used in isolation when designing the fire safety arrangements.
-
-### 14b.2.1. Structure
-
-‘Not readily ignitable’ means that the surface thus described will not continue to burn for more than 20 seconds after removal of a suitable impinging test flame.
+### 14b. STRUCTURAL FIRE PROTECTION – VESSELS OF 500GT AND OVER
 
 ### 14b.2.1. Structure
+
+**Table 14B.2**
+
+### 14b.2.3. Main Vertical Zones and Horizontal Zones
 
 b Where spaces are of the same numerical category and subscript b appears, a bulkhead or deck of the rating shown in the tables is only required when the adjacent spaces are for a different purpose, e.g in category (9). A galley next to a galley does not require a bulkhead but a galley next to a paint room requires an ‘A-0’ bulkhead.
 
-### 14b.1. Definitions
+### 14b.2.5. Fire Integrity of Bulkheads and Decks
 
 ### 14b.2.5. Fire Integrity of Bulkheads and Decks
 
-* Where an asterisk appears in the tables, the division is required to be of steel or other equivalent material but is not required to be of ‘A’ class standard.
+b Where spaces are of the same numerical category and subscript b appears, a bulkhead or deck of the rating shown in the tables is only required when the adjacent spaces are for a different purpose, e.g in category (9). A galley next to a galley does not require a bulkhead but a galley next to a paint room requires an ‘A-0’ bulkhead.
 
 ### 14b.2.18. Arrangements for Other Flammable Oils
 
-All vessels should comply with the following:
+d For the application of 14B.2.3.1, ‘B-O’ and ‘C’, where appearing in table 1, should be read as ‘A-0’.
 
-The purpose of this section is to contain a fire in the space of origin. For this purpose, the following functional requirements should be met:
+* Where an asterisk appears in the tables, the division is required to be of steel or other equivalent material but is not required to be of ‘A’ class standard.
 
 Notes: To be applied to both tables 1 and 2, as appropriate.
 
-### 14b.2.12. Means of Escape
+### 14b.2.12.6. Emergency Escape Breathing Devices
 
 ### 14b.2.15. Public Address System
 
@@ -3133,17 +3133,17 @@ Arrangements for the storage, distribution and utilisation of other flammable oi
 
 In no case should the standards applied be less than those applied to a vessel of less than 500GT.
 
-Oil fuel, lubricating oil and other flammable oils are not to be carried in forepeak tanks.
+Arrangements for the storage, distribution and utilisation of oil used in pressure lubrication systems are to be such as to minimise the risk of fire or explosion.
+
+### 15a.1. General Requirements
+
+### 15a.2. Specific Requirements
+
+### 15a.2.1. Provision of Water Jet
 
 ### 15a.2.2. Fire Pumps
-
-### 15a.2.3. Fire Main and Hydrants
 
 ### 15a.2.4. Fire Hoses
-
-### 15a.2.6. Fire Extinguishing in Machinery Spaces
-
-### 15a.2.2. Fire Pumps
 
 In no case should the standards applied be less than those applied to a vessel of less than 500GT.
 
@@ -3151,7 +3151,7 @@ Back-up arrangements to meet these functional requirements should be provided wh
 
 ### 16.1. Application
 
-Every vessel should carry a barometer. Every sailing vessel should carry an anemometer and an inclinometer.
+In no case should the standards applied be less than those applied to a vessel of less than 500GT.
 
 ### 16.3. Radio Installations
 
@@ -3161,41 +3161,41 @@ Every vessel should carry an efficient fixed or portable searchlight suitable fo
 
 Vessels of <150 GT require a radar reflector.
 
-### 18.1. Navigational Equipment
+### 16.8. Radio Personnel
 
-### 19. MISCELLANEOUS EQUIPMENT
+### 17. NAVIGATION LIGHTS, SHAPES AND SOUND SIGNALS
 
 An electric lighting system should be installed which is capable of supplying adequate light to all enclosed accommodation and working spaces. The system should be designed and installed in accordance with section 8.
 
-As considered appropriate, an adequate heating installation should be provided.
+An approved electronic chart display and information system (ECDIS) may be accepted as meeting these chart carriage requirements.
 
-### 19.4. Searchlight
+### 19.2. Measuring Instruments
 
-Every vessel should carry an efficient fixed or portable searchlight suitable for man-overboard search and rescue operations.
+Every vessel should carry a barometer. Every sailing vessel should carry an anemometer and an inclinometer.
 
-### 19.5
+### 19.3. Signalling Lamp
 
-Every vessel should carry nautical charts and nautical publications to plan and display the ship’s route for the intended voyage and to plot and monitor positions throughout the voyage.
+Vessels of <150 GT require a radar reflector.
 
-Back-up arrangements to meet these functional requirements should be provided where this function is partly or fully filled by electronic means: this means single ECDIS and paper charts or duplicate ECDIS. Where duplicate ECDIS is provided as the primary means of navigation, officers with responsibility for navigation watch keeping should have received appropriate shore based and ship type-specific training.
+Vessels of >300 GT must be marked externally with the vessel’s IMO number which may be horizontal provided that it is visible from the air.
 
-### 21a.8. Galley Facilities and Provision of Food
+### 21a.4. Ventilation
 
 Vessels of 3000 GT or more constructed on or after the Maritime Labour Convention, 2006 enters into force should comply with the full requirements of standard A3.1 of the Maritime Labour Convention 2006.
 
+### 21b. ACCOMMODATION – VESSELS ≥200GT CONSTRUCTED ON OR AFTER THE DATE OF ENTRY INTO FORCE OF MLC 2006
+
 ### 21b.4. Access/Escape arrangements
 
-### 21b.8. Sleeping Accommodation
-
-### 21b.8.2. Sleeping Accommodation – for vessels up to 3000 GT.
+### 21b.6. Heating
 
 The structural strength of any deckhouse or superstructure should comply with the requirements of one of the Classification Societies listed in the National Annex, as appropriate to the vessel and its areas of operation.
 
-### 21b.8.4. Sleeping Accommodation – Equivalent arrangements to the Maritime Labour Convention 2006 for vessels of 500GT and over and less than 1250GT.
+### 21b.8. Sleeping Accommodation
 
-### 21b.8.5. Sleeping Accommodation – Yachts of 3000 GT or more
+### 21b.8.1. General
 
-### 21b. ACCOMMODATION – VESSELS ≥200GT CONSTRUCTED ON OR AFTER THE DATE OF ENTRY INTO FORCE OF MLC 2006
+### 21b.8.2. Sleeping Accommodation – for vessels up to 3000 GT.
 
 ### 21b.12. Sanitary Facilities
 
@@ -3207,71 +3207,71 @@ Reference standards include:
 
 BS EN 81 series – Safety rules for the construction and installation of lifts BS 5655 series – Lifts and service lifts
 
-### 21b.17. Master’s Inspections
+### 21b.13. Hospital accommodation
 
 A vessel should carry medical stores as required by the Administration.
 
 Medical training requirements for members of the complement of the vessel are given in the Manning Section of the National Annex.
 
-### 22.3. Safe Work Aloft, Overside, and on the Bowsprit of Sailing Vessels
-
-### 22.4. Personal Clothing
-
-### 22.5. Noise
-
-### 22.6. Lifts
-
-Reference standards include:
-
-### 21b.20. Sailing Vessels
-
-Attention is drawn to the IMO Code on Noise Levels on Board Ships, Resolution A.468(XII), published 1982.
+### 22. PROTECTION OF PERSONNEL
 
 ### 22.1. Deckhouses and Superstructures
 
-Medical training requirements for members of the complement of the vessel are given in the Manning Section of the National Annex.
+### 22.2. Bulwarks and Guardrails
 
-### 24.2. Helicopters
+### 22.4. Personal Clothing
 
-It should be the responsibility of an owner/managing agent/skipper to advise that the following requirements for items of personal clothing should be met:
+Attention is drawn to the IMO Code on Noise Levels on Board Ships, Resolution A.468(XII), published 1982.
 
-### 22.5. Noise
-
-### 24.5. Submersible Craft
+### 22.6. Lifts
 
 Personnel lift installations should be appropriately designed and constructed, installed and tested by a competent person.
 
-### 26.1.1. Principles of Safe Manning
+### 22.1. Deckhouses and Superstructures
 
-In devising the schedule, operators should take account of factors such as:
+Reference standards include:
+
+### 24.2. Helicopters
+
+Medical training requirements for members of the complement of the vessel are given in the Manning Section of the National Annex.
+
+### 24. SHORE-SHIP TRANSFER OF PERSONNEL
+
+### 24.2. Helicopters
+
+Personnel lift installations should be appropriately designed and constructed, installed and tested by a competent person.
+
+### 24.5. Submersible Craft
+
+The underlying principles of safe manning are considered to extend to Large Yachts within the context of the Code. In this respect an Administration may choose to adopt these arrangements in full, or modify these arrangements to meet particular operational circumstances.
 
 A copy of the schedule should be made available to all members of the crew.
 
 ### 26.1. HOURS OF WORK
 
-The owner/operator or Master should ensure that the crew are provided with at least the minimum hours of rest. These should not be less than:
-
-### 26.1.7. Exceptions to the Limits on Hours of Rest
-
-The limits defined should as far as practicable be observed. However, an exception maybe considered so long as they are agreed between the Master, crew members and designated person ashore (if applicable), and provided that their health and safety, and the safety of the vessel, is not compromised. Exceptions from the weekly rest period provided for in paragraph 26.1.6 should not be allowed for more than two consecutive weeks. The intervals between two periods of exceptions on board should not be less than twice the duration of the exception.
-
-In allowing any such agreed exception and to ensure that a crew member does not become fatigued, such exceptions should be documented and accompanied by commensurate rest arrangements.
-
-### 26.1.8. Schedule of Duties
-
-The Master should ensure that a schedule of duties is drawn up setting out the hours of work and rest periods for each of the crew. It is recommended that the table or schedule should be in a similar format to that detailed in Annex A of MSN 1767, and show:
-
-### 26.1.4. Definition of Hours of Work
-
-### 26.1.5. On-Call Time
+Hours of work is defined as when a seafarer is at their employers’ disposal and carrying out their duties or activities.
 
 ### 26.1.6. Minimum Hours of Rest
 
 The owner/operator or Master should ensure that the crew are provided with at least the minimum hours of rest. These should not be less than:
 
+It is expected that as far as practicable the Master will arrange for conducting emergency drills such as musters, fire-fighting and abandon vessel drills in a way which minimises the disturbance to rest periods and provide compensatory rest for seafarers whose normal rest is disturbed by call-outs for drills.
+
+### 26.1.7. Exceptions to the Limits on Hours of Rest
+
+The limits defined should as far as practicable be observed. However, an exception maybe considered so long as they are agreed between the Master, crew members and designated person ashore (if applicable), and provided that their health and safety, and the safety of the vessel, is not compromised. Exceptions from the weekly rest period provided for in paragraph 26.1.6 should not be allowed for more than two consecutive weeks. The intervals between two periods of exceptions on board should not be less than twice the duration of the exception.
+
+### 26.1.4. Definition of Hours of Work
+
+### 26.1.8. Schedule of Duties
+
+### 26.1.6. Minimum Hours of Rest
+
+Changes should not be made to the schedule of duties unless they can be justified by substantially altered work patterns or other significant factors.
+
 ### 26.2.6. Application for a Safe Manning Document
 
-It is expected that as far as practicable the Master will arrange for conducting emergency drills such as musters, fire-fighting and abandon vessel drills in a way which minimises the disturbance to rest periods and provide compensatory rest for seafarers whose normal rest is disturbed by call-outs for drills.
+It is not necessary to draw up a new schedule of duties for each voyage, so long as it is applicable to the voyage in question and the composition of the crew for whom it was originally intended has not changed.
 
 In an emergency, or when unforeseen events occur, changes may be unavoidable. In these cases records should reflect all deviations from the schedule.
 
@@ -3281,7 +3281,7 @@ In allowing any such agreed exception and to ensure that a crew member does not 
 
 ### 26.2.8. Sailing Vessels
 
-In fulfilling their responsibility to ensure that vessels are safely and sufficiently manned, owners and operators should:
+An Administration should ensure that all vessels are safely and sufficiently manned in relation to the nature of their operation with the responsibilities placed on companies owning or operating seagoing vessels, to ensure that their vessels are manned with personnel of appropriate grades who have been properly trained and certificated.
 
 Situations may arise in which a seafarer may be required to work during scheduled hours of rest. These include emergencies which threaten the safety of the vessel or put life at risk. In these circumstances, the limits may be exceeded provided compensatory arrangements are subsequently made to avoid fatigue.
 
@@ -3299,11 +3299,11 @@ A proposal should only be approved and Safe Manning Document issued provided the
 
 In the event of any change in equipment, construction or use of the vessel, which may affect the safe manning level, the owner or operator should make an application for the issue of a new Safe Manning Document.
 
-No vessel to which the Code applies should carry more than 12 passengers on a voyage or excursion. The following meanings apply:
+Depending on the type of rig and level of automation, additional personnel may be required to operate the rig of a sailing vessel.
 
-‘a person employed or engaged in any capacity on board the vessel on the business of the vessel’ may reasonably include:
+The operators are reminded that operation of personal watercraft should comply with the applicable legislation of the state in whose waters they are being operated.
 
-### 26.2.9. Personal Water Craft
+### 27. PASSENGERS
 
 ### 28. SURVEY, CERTIFICATION, INSPECTION AND MAINTENANCE
 
@@ -3311,19 +3311,19 @@ No vessel to which the Code applies should carry more than 12 passengers on a vo
 
 ### 26.2.7. Indicative Manning Levels
 
-### 26.2.8. Sailing Vessels
+### 28.1. General
 
 It is an offence for the vessel's master, skipper or owner not to inform the appropriate authority of a reportable accident shortly after it occurs and to provide details so that an assessment of its seriousness can be made quickly. The marine Administration will appoint a suitable surveyor or inspector whenever an investigation is required. The Marine Administration will then receive the Surveyor's or the Inspector's report and will deal with the follow up action.
 
 All vessels of 500GT and over are required to comply with the IMO’s International Ship and Port Facility Security Code.
 
-An authorised Classification Society is aware of the extent to which responsibility has been delegated to issue Load Line Certificates and Cargo Ship Safety Construction Certificates. International Conventions give specific discretion to an Administration to either make exemptions or accept equivalent equipment or arrangements. The formal agreement between the Administration and an authorised Classification Society governs the relationship between the two parties.
+**29A** **Section 29 may be amended by the introduction of the International Labour Organization’s (ILO) requirements under the Maritime Labour Convention (MLC) 2006.**
 
 British Marine Federation Cayman Islands Shipping Registry Maritime and Coastguard Agency
 
 Professional Yachtsmen's Association Royal Yachting Association
 
-Ince & Co LLP
+All vessels of 500GT and over are required to comply with the IMO’s International Ship and Port Facility Security Code.
 
 Hill Dickinson LLP
 
@@ -3349,7 +3349,7 @@ MYBA
 
 ABS
 
-### 2. Definitions
+### Annex 4. LIST OF CERTIFICATES TO BE ISSUED
 
 ### Annex 3. OPEN FLAME GAS INSTALLATIONS
 
@@ -3361,23 +3361,23 @@ MSN 1763 ‘The Merchant Shipping and Fishing Vessels (Safety Signs and Signals)
 
 Medical stores requirements are contained within MSN 1768 ‘Ship’s Medical Stores’.
 
-Registration, construction and operation of submarines are regulated by the following United Kingdom Statutory Instruments:
+MSN 1763 ‘The Merchant Shipping and Fishing Vessels (Safety Signs and Signals) Regulations 2001’ provides details of required safety signs.
 
 ### 24.5. Submersible craft
 
-SI 1996 No. 2154 ‘Merchant Shipping (Prevention of Oil Pollution) Regulations’ as amended.
+SI No.1098 The Merchant Shipping (Submersible Craft Construction and Survey) Regulations 1981.
 
 ### 29. Crew Agreements
 
 SI 2003 No. 1809 ‘Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) Regulations’. Information on these requirements can be found in MGN 387.
 
-SI 2008 No. 2924 ‘Merchant Shipping (Prevention of Air Pollution from Ships) Regulations 2008’. Information on these requirements can be found in MSN 1819, MGN 381, MGN 386, and MGN 400.
+The IMO MARPOL Convention Annexes relevant to the operation of Large Yachts are implemented by the following United Kingdom Statutory Instruments;
 
 ### 25. Clean Seas
 
-The IMO MARPOL Convention Annexes relevant to the operation of Large Yachts are implemented by the following United Kingdom Statutory Instruments;
+SI 2008 No. 3257 ‘Merchant Shipping (Prevention of Pollution by Sewage and Garbage) Regulations’, guidance on which is contained in MSN 1807 and MGN 385.
 
-In addition to unrestricted STCW qualifications, information as to specific qualifications for Large Yachts and Sail Training Vessels are contained within:
+SI 2003 No. 1809 ‘Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) Regulations’. Information on these requirements can be found in MGN 387.
 
 ### 24.5. Submersible craft
 
@@ -3389,7 +3389,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 2. Het in het eerste lid bedoelde certificaat treedt in de plaats van het nationaal veiligheidscertificaat.
 
-3. [Artikel 3a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2023-12-21&g=2023-12-21), is van overeenkomstige toepassing.
+3. [Artikel 3a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2024-04-01&g=2024-04-01), is van overeenkomstige toepassing.
 
 ##### Artikel 6d. Bijzonder certificaat hogesnelheidsoffshoredienstschepen van minder dan 500 GT en met een lengte van 24 meter of meer met ten hoogste 60 personen aan boord
 
@@ -3397,7 +3397,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 2. Het in het eerste lid bedoelde certificaat treedt in de plaats van het nationaal veiligheidscertificaat.
 
-3. [Artikel 3a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2023-12-21&g=2023-12-21), is van overeenkomstige toepassing.
+3. [Artikel 3a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2024-04-01&g=2024-04-01), is van overeenkomstige toepassing.
 
 ##### Artikel 6e. Certificaat (hogesnelheids)offshoredienstschepen van 500 GT of meer
 
@@ -3409,29 +3409,29 @@ Voor een offshoredienstschip of een hogesnelheidsoffshoredienstschip van 500 GT 
 
 2. Het in het eerste lid bedoelde certificaat treedt in de plaats van het nationaal veiligheidscertificaat.
 
-3. [Artikel 3a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2023-12-21&g=2023-12-21), is van overeenkomstige toepassing.
+3. [Artikel 3a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2024-04-01&g=2024-04-01), is van overeenkomstige toepassing.
 
 #### § 2. Onderzoeken
 
 ##### Artikel 9d. Onderzoeken van offshoredienstschepen van minder dan 500 GT en met een lengte van 24 meter of meer
 
-Een offshoredienstschip waarvoor een bijzonder certificaat als bedoeld in [artikel 6c](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=6c&z=2023-12-21&g=2023-12-21) benodigd is, wordt ter verkrijging van de voor dat schip benodigde certificaten en gedurende de geldigheidsduur daarvan onderworpen aan de in [artikel 12, eerste lid, onderdelen b of c, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=2&artikel=12&z=2023-12-21&g=2023-12-21), voorgeschreven onderzoeken.
+Een offshoredienstschip waarvoor een bijzonder certificaat als bedoeld in [artikel 6c](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=6c&z=2024-04-01&g=2024-04-01) benodigd is, wordt ter verkrijging van de voor dat schip benodigde certificaten en gedurende de geldigheidsduur daarvan onderworpen aan de in [artikel 12, eerste lid, onderdelen b of c, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=2&artikel=12&z=2024-04-01&g=2024-04-01), voorgeschreven onderzoeken.
 
 ##### Artikel 9e. onderzoeken van hogesnelheidsoffshoredienstschepen van minder dan 500 gt en met een lengte van 24 meter of meer met ten hoogste 60 personen aan boord
 
-Een hogesnelheidsoffshoredienstschip waarvoor een bijzonder certificaat als bedoeld in [artikel 6d](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=6d&z=2023-12-21&g=2023-12-21) benodigd is, wordt ter verkrijging van de voor dat schip benodigde certificaten en gedurende de geldigheidsduur daarvan onderworpen aan de in [artikel 16 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=16) voorgeschreven onderzoeken.
+Een hogesnelheidsoffshoredienstschip waarvoor een bijzonder certificaat als bedoeld in [artikel 6d](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=6d&z=2024-04-01&g=2024-04-01) benodigd is, wordt ter verkrijging van de voor dat schip benodigde certificaten en gedurende de geldigheidsduur daarvan onderworpen aan de in [artikel 16 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=16) voorgeschreven onderzoeken.
 
 ##### Artikel 9f. Onderzoeken van (hogesnelheids)offshoredienstschepen van 500 GT of meer
 
-Een offshoredienstschip of een hogesnelheidsoffshoredienstschip waarvoor een certificaat als bedoeld in [artikel 6e](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=6e&z=2023-12-21&g=2023-12-21) benodigd is, wordt ter verkrijging van de voor dat schip benodigde certificaten en gedurende de geldigheidsduur daarvan onderworpen aan de in:
+Een offshoredienstschip of een hogesnelheidsoffshoredienstschip waarvoor een certificaat als bedoeld in [artikel 6e](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=6e&z=2024-04-01&g=2024-04-01) benodigd is, wordt ter verkrijging van de voor dat schip benodigde certificaten en gedurende de geldigheidsduur daarvan onderworpen aan de in:
 
-- a. [artikel 12, eerste lid, onderdeel b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=2&artikel=12&z=2023-12-21&g=2023-12-21), en tweede lid, voorgeschreven onderzoeken indien het certificaat wordt afgegeven op grond van de SPS-Code of de SPS-Code 2008; of
+- a. [artikel 12, eerste lid, onderdeel b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=2&artikel=12&z=2024-04-01&g=2024-04-01), en tweede lid, voorgeschreven onderzoeken indien het certificaat wordt afgegeven op grond van de SPS-Code of de SPS-Code 2008; of
 
 - b. [artikel 16 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=16) voorgeschreven onderzoeken indien het certificaat wordt afgegeven op grond van de HSC-Code 1994, of de HSC-Code 2000.
 
 ##### Artikel 9g. Onderzoeken van passagiersschepen kleiner dan 24 meter op nationale reizen
 
-Een passagiersschip kleiner dan 24 meter op nationale reizen wordt ter verkrijging van het certificaat als bedoeld in [artikel 6f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=6f&z=2023-12-21&g=2023-12-21), en gedurende de geldigheidsduur van dat certificaat onderworpen aan de in [bijlage 3d](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&bijlage=3d&z=2023-12-21&g=2023-12-21) bij deze regeling voorgeschreven onderzoeken.
+Een passagiersschip kleiner dan 24 meter op nationale reizen wordt ter verkrijging van het certificaat als bedoeld in [artikel 6f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=6f&z=2024-04-01&g=2024-04-01), en gedurende de geldigheidsduur van dat certificaat onderworpen aan de in [bijlage 3d](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&bijlage=3d&z=2024-04-01&g=2024-04-01) bij deze regeling voorgeschreven onderzoeken.
 
 #### § 3. Afgifte en geldigheid van certificaten
 
@@ -3445,11 +3445,11 @@ Een passagiersschip kleiner dan 24 meter op nationale reizen wordt ter verkrijgi
 
 ##### Artikel 18c. Eisen aan hogesnelheidsoffshoredienstschepen als bedoeld in artikel 3a, eerste lid, onderdeel g
 
-De eisen, bedoeld in paragraaf 2 van [bijlage 3c](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&bijlage=3c&z=2023-12-21&g=2023-12-21), zijn van toepassing op schepen als bedoeld in [artikel 3a, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2023-12-21&g=2023-12-21):
+De eisen, bedoeld in paragraaf 2 van [bijlage 3c](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&bijlage=3c&z=2024-04-01&g=2024-04-01), zijn van toepassing op schepen als bedoeld in [artikel 3a, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2024-04-01&g=2024-04-01):
 
 - a. waarvoor het bouwcontract is afgesloten op of 15 december 2019;
 
-- b. waarvan, bij het ontbreken van een bouwcontract, de bouwdatum als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=1&artikel=2&z=2023-12-21&g=2023-12-21), op of na 15 december 2019 ligt; of
+- b. waarvan, bij het ontbreken van een bouwcontract, de bouwdatum als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=1&artikel=2&z=2024-04-01&g=2024-04-01), op of na 15 december 2019 ligt; of
 
 - c. waarvan de opleverdatum op of na 15 december 2019 ligt.
 
@@ -3459,7 +3459,7 @@ Een offshoredienstschip van minder dan 500 GT en met een lengte van 24 meter of 
 
 ##### Artikel 21b. Bijzondere eisen voor hogesnelheidsoffshoredienstschepen van minder dan 500 GT en met een lengte van 24 meter of meer met ten hoogste 60 personen aan boord
 
-Een hogesnelheidsoffshoredienstschip van minder dan 500 GT en met een lengte van 24 meter of meer ten hoogste 60 personen aan boord, voldoet aan de eisen, bedoeld in paragraaf 3 van [bijlage 3c](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&bijlage=3c&z=2023-12-21&g=2023-12-21).
+Een hogesnelheidsoffshoredienstschip van minder dan 500 GT en met een lengte van 24 meter of meer met ten hoogste 60 personen aan boord, voldoet aan de eisen van de HSC-Code 2000 of de HSC-Code 1994 en aan de eisen bedoeld in paragraaf 3 van [bijlage 3c](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&bijlage=3c&z=2024-04-01&g=2024-04-01).
 
 ##### Artikel 21c. Bijzondere eisen voor (hogesnelheids)offshoredienstschepen van 500 GT of meer
 
@@ -3659,17 +3659,17 @@ Dit onderdeel is nog niet inwerking getreden
 
 ### **Artikel 1. Toepassing op vissersvaartuigen**
 
-1. Deze bijlage is tevens van toepassing op vissersvaartuigen.
+[Artikel 37 van het Besluit zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0012778&artikel=37) is van overeenkomstige toepassing op hogesnelheidsoffshoredienstschepen.
+
+### Eisen voor schepen bedoeld in [artikel 6f](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=6f&z=2024-04-01&g=2024-04-01)
 
 ### § 2. Technische eisen aan het schip
 
-### **Artikel 3. Inhoud medicijnkisten aan boord van reddingsboten e.d.**
-
 ### Artikel 3. Inhoud medicijnkisten aan boord van reddingsboten e.d.
 
-### Artikel 6. Jaarlijkse inspectie medische uitrusting
+### Artikel 2. Benodigde medische uitrusting
 
-### **Artikel 6. Jaarlijkse inspectie medische uitrusting**
+### Artikel 6. Jaarlijkse inspectie medische uitrusting
 
 ## Bijlage 6. Eisen met betrekking tot de vaart rond de eilanden van Caribisch-Nederland
 
@@ -3677,95 +3677,95 @@ Dit onderdeel is nog niet inwerking getreden
 
 ## Bijlage 7. behorende bij [artikel 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=5b&z=2019-12-15&g=2019-12-15). van de Regeling veiligheid zeeschepen
 
-### LY3 The Large Commercial Yacht Code
-
 ### 1. FOREWORD
 
 ### 2. DEFINITIONS
 
-A trainee **SHOULD**:
+### 2. DEFINITIONS
 
-***Note**- the fact that a trainee(s) may contribute towards the cost of their welfare whilst on board should not imply that they are passengers.
+‘Submersible Craft’ means any description of manned mobile submersible apparatus which is designed to maintain some or all of its occupants at or near atmospheric pressure including free, self-propelled, tethered, towed or bottom contact propelled apparatus and atmospheric diving suits. A diving bell is not a submersible craft for the purposes of these Regulations; and ‘diving bell’ means any compression chamber which is capable of being manned and is used or designed for use under the surface of water in supporting human life being a chamber in which any occupant is or may be subjected to a pressure of more than 300 millibars above atmospheric pressure during normal operation;
+
+‘Superstructure’ has the meaning given in annex I to ICLL.
+
+‘Trainee’
 
 Training organisations wishing to operate training vessels carrying more than 12 trainees should comply with the requirements of the National Marine Administration as indicated in the National Annex.
 
-All training should be properly organised with clearly detailed objectives and outcomes.
+‘Training manual’ with regard to life-saving appliances means a manual complying with the requirements of SOLAS III/Part B – Life Saving Appliances and Arrangements, Regulation 35.
+
+The vessel must be properly and safely manned at all times, both at sea and if necessary in port, by a sufficient number of experienced and competent personnel to ensure that trainees are adequately supervised giving particular consideration to the number, age and sex of the trainees.
 
 ‘Two-way VHF radiotelephone set’ means a portable or a fixed VHF installation for survival craft complying with the performance standards adopted by the IMO contained in A.762(18) or any Resolution amending or replacing it which is considered by the Administration to be relevant from time to time.
 
-‘Watertight’ means capable of preventing the passage of water in any direction.
+‘Voyage’ includes an excursion.
 
-‘Weathertight’ has the meaning given in annex I of ICLL. Weathertight means that in any sea conditions water will not penetrate into the ship.
+‘Watertight’ means capable of preventing the passage of water in any direction.
 
 ‘Wheelhouse’ means the control position occupied by the officer of the watch who is responsible for the safe navigation of the vessel.
 
-‘Window’ means a ship's window, being any window, regardless of shape, suitable for installation aboard ships.
-
-Training organisations wishing to operate training vessels carrying more than 12 trainees should comply with the requirements of the National Marine Administration as indicated in the National Annex.
-
 Proposals for the application of alternative standards considered to be at least equivalent to the requirements of the Code should be submitted to the Administration for approval. Equivalence may be achieved by incorporating increased requirements to balance deficiencies and thereby achieve the overall safety standard.
 
-‘Window’ means a ship's window, being any window, regardless of shape, suitable for installation aboard ships.
+The granting of exemptions will be limited by the extent to which international conventions allow and should be regarded as exceptiona
 
 The requirements of the Code will be reviewed and, if necessary revised, by the Administration in consultation with the working group.
 
-Where a question of interpretation of any part of this Code arises which cannot be resolved by a delegated authority and the owner(s)/managing agent(s) for a vessel, a decision on the interpretation may be obtained on written application to the Administration.
+The requirements of the Code will be reviewed and, if necessary revised, by the Administration in consultation with the working group.
 
-### 5. WEATHERTIGHT INTEGRI
+### 4.5.2. Masts and Spars and tanding Rigging
 
 ### 5.1.2. Hatchways Which are Open at Sea
 
-On sailing vessels, where the solid bulwark height does not exceed 150mm, specific freeing ports, as defined above, are not required.
+FPREQ = 0.28 x Aw/ B
 
-Additionally, where a well is created on each side of the vessel between a superstructure or deckhouse, and the bulwark in way of that superstructure or deck house, the following formula may be used to determine the required freeing port areas on each side of the vessel for the well concerned:
+Where;
 
-In considering an individual case, the Administration will take into account the vessels past performance in service and the declared area(s) of operation and any other conditions which restrict the use of the vessel at sea which will be recorded on the load line certificate issued to the vessel. (See section 4.1.3.)
+Aw = Area of well in way of superstructure or deckhouse B = Full beam at deck,
 
 Where vessels cannot fully comply with the requirements of this section, equivalent arrangements may be considered by the Administration. Such proposals should take into account the following, although this should not be considered as an exhaustive list:
 
+### 7a.2. Installation
+
 ### 8a.2. Lighting
-
-### 6.2. In individual cases, when the Administration considers that the requirements of ICLL cannot be met, the Administration may consider and approve alternative arrangements to achieve adequate safety standards. Freeing arrangements may take account of a reduced permeability and volume of the well, when compared to a full size well.
-
-For the purpose of assessing whether the stability criteria are met, GZ curves should be produced for the loading conditions applicable to the operation of the vessel.
 
 Where Short Range Yachts are unable to meet the criteria above, the following criteria may be used:
 
 The curves of statical stability for seagoing conditions should meet the following criteria:
 
+For the purpose of assessing whether the stability criteria are met, GZ curves should be produced for the loading conditions applicable to the operation of the vessel.
+
 All regularly used openings for access and for ventilation should be considered when determining the downflooding angle. No opening regardless of size which may lead to progressive flooding should be immersed at an angle of heel of less than 40°. Air pipes to tanks can, however, be disregarded.
 
-It should be noted that compliance with the damage stability criteria is not required for vessels that obtain full compliance with the ICLL conditions of assignment.
+It might be noted that provided the vessel complies with the requirements of 11.2.2.1.1, 11.2.2.1.2 and 11.2.2.1.3 and is sailed with an angle of heel which is no greater than the’ derived angle of heel', it should be capable of withstanding a wind gust equal to 1.4 times the actual wind velocity (i.e. twice the actual wind pressure) without immersing the’ down-flooding openings', or heeling to an angle greater than 60°.
 
 In addition to the criteria above designers and builders should address the following hazards which are known to affect vessels operating in planing modes or those achieving relatively high speeds:
 
 It should be noted that compliance with the damage stability criteria is not required for vessels that obtain full compliance with the ICLL conditions of assignment.
 
-### 13.1. General Requirements
+### 12.1. General
 
 When display space in the wheelhouse is restricted, the 2 sides of a SOLAS No.2 poster (as contained in liferaft equipment packs) may be displayed in lieu of a SOLAS No. 1 poster.
 
-### 14.3. Fire Control Plan(s)
+### 14.2.2. Construction and Arrangement of Steam Room
 
 ### 14a.2. Structure
 
 The purpose of this section is to contain a fire in the space of origin. For this purpose, the following functional requirements should be met:
 
-### 14.2.1. Construction and Arrangement of Saunas
+### 14a.2.1. Forms of construction – Fire divisions
+
+### 14a.2.4. Surface of Insulation
 
 ### 14a.3.1. Purpose
-
-### 14a.5. Arrangements for Gaseous Fuel for Domestic Purposes
 
 **Table 14B.2**
 
 The purpose of this section is to contain a fire in the space of origin. For this purpose, the following functional requirements should be met:
 
-Notes: To be applied to both tables 1 and 2, as appropriate.
-
-c Bulkheads separating the wheelhouse and chartroom from each other may be ‘B-0’ rating.
+The purpose of this section is to contain a fire in the space of origin. For this purpose, the following functional requirements should be met:
 
 e Fire insulation need not be fitted if the machinery space in category (7),in the opinion of the Administration, has little or no fire risk.
+
+For the application of 14B.2.3.1 an asterisk, where appearing in table 2, except for category (9), should be read as ‘A-0’.
 
 For the application of 14B.2.3.1 an asterisk, where appearing in table 2, except for category (9), should be read as ‘A-0’.
 
@@ -3773,75 +3773,75 @@ For the application of 14B.2.3.1 an asterisk, where appearing in table 2, except
 
 Emergency escape breathing devices (EEBD’s) should comply with the Fire Safety Systems Code. At least one spare emergency escape breathing device should be kept onboard.
 
+Arrangements for the storage, distribution and utilisation of other flammable oils employed under pressure in power transmission systems, control and activating systems and heating systems are to be such as to minimise the risk of fire or explosion.
+
+Oil fuel, lubricating oil and other flammable oils are not to be carried in forepeak tanks.
+
 Where gaseous fuel is used for domestic purposes, the arrangements for the storage, distribution and utilization of the fuel are to be such that, having regard to the hazards of fire and explosion which the use of such fuel may entail, the safety of the vessel and the persons on board is preserved. The installation is to be in accordance with recognised national or international standards and is to meet the requirements contained in 14A.5.
 
 Space heaters, if used, are to be fixed in position and so constructed as to reduce fire risks to a minimum. The design and location of these units is to be such that clothing, curtains or other similar materials cannot be scorched or set on fire by heat from the unit.
 
-The purpose of this section is to detect a fire in the space of origin and to provide for alarm for safe escape and fire-fighting activity. For this purpose, the following functional requirements should be met:
-
-Where gaseous fuel is used for domestic purposes, the arrangements for the storage, distribution and utilization of the fuel are to be such that, having regard to the hazards of fire and explosion which the use of such fuel may entail, the safety of the vessel and the persons on board is preserved. The installation is to be in accordance with recognised national or international standards and is to meet the requirements contained in 14A.5.
-
 At least one jet of water, from a single length of hose, should be able to reach any part of the vessel normally accessible to passengers or crew while the vessel is being navigated and, any store room or any part of a storage compartment when empty.
 
-### 15a.2.4. Fire Hoses
+### 15a.2.6. Fire Extinguishing in Machinery Spaces
 
 The location of concealed fire appliances should be clearly marked.
 
-### 17. NAVIGATION LIGHTS, SHAPES AND SOUND SIGNALS
+### 16.6. Sources of Energy
 
-### 16.3. Radio Installations
+### 18.2. Bridge Visibility
+
+Back-up arrangements to meet these functional requirements should be provided where this function is partly or fully filled by electronic means: this means single ECDIS and paper charts or duplicate ECDIS. Where duplicate ECDIS is provided as the primary means of navigation, officers with responsibility for navigation watch keeping should have received appropriate shore based and ship type-specific training.
 
 Every vessel should carry a daylight signalling lamp, or other means to communicate by light during day and night using an energy source of electrical power not solely dependent upon the ship's power supply. The signalling lamp may be the searchlight required by 19.4.
 
-Vessels of <150 GT require a radar reflector.
-
-Vessels of >300 GT must be marked externally with the vessel’s IMO number which may be horizontal provided that it is visible from the air.
+Every vessel should carry an efficient fixed or portable searchlight suitable for man-overboard search and rescue operations.
 
 Every vessel should carry a barometer. Every sailing vessel should carry an anemometer and an inclinometer.
-
-Refer to 14A.3 and 14B.2.12 for details.
 
 An electric lighting system should be installed which is capable of supplying adequate light to all enclosed accommodation and working spaces. The system should be designed and installed in accordance with section 8.
 
 As considered appropriate, an adequate heating installation should be provided.
 
-Adequate stowage facilities for clothing and personal effects should be provided for every person on board.
+As considered appropriate, an adequate heating installation should be provided.
 
 Adequate stowage facilities for clothing and personal effects should be provided for every person on board.
+
+All heavy items of equipment such as ballast, batteries, cooking stove, etc, should be securely fastened in place. All stowage lockers containing heavy items should have lids or doors which are capable of being securely fastened.
 
 There should be sufficient hand holds and grab rails within the accommodation to allow safe movement around the accommodation at all times. Stairways should be specially considered
 
-### 21b.9. Mess Rooms
+### 21b.8.3. Sleeping Accommodation – Equivalent arrangements to the Maritime Labour Convention 2006 for vessels of 200GT and over and less than 500GT.
 
-### 21b.11. Water Services
+### 21b.8.5. Sleeping Accommodation – Yachts of 3000 GT or more
 
-### 22.2. Bulwarks and Guardrails
+### 21b.20. Sailing Vessels
 
 Attention is drawn to the IMO Code on Noise Levels on Board Ships, Resolution A.468(XII), published 1982.
 
 ### 21b.17. Master’s Inspections
 
-### 21b.18. Hand Holds and Grab Rails
+### 22.5. Noise
+
+### 26. MANNING and PERSONNEL CERTIFICATION
+
+### 24.4. Gangways, Passerelles, and Accommodation Ladders
+
+### 25. CLEAN SEAS
 
 ### 26. MANNING and PERSONNEL CERTIFICATION
 
 ### 26.1. HOURS OF WORK
 
-### 23. MEDICAL STORES
-
-### 24.5. Submersible Craft
-
-### 25. CLEAN SEAS
-
 ### 24.1. Tenders
 
-Hours of work is defined as when a seafarer is at their employers’ disposal and carrying out their duties or activities.
+Fatigue at sea is a serious safety issue and owners and operators should ensure that all vessels are sufficiently manned to avoid the need to work excessive hours. The owner/operator and the Master are responsible for ensuring, so far as is reasonably practicable, that the Master and all the crew members are properly rested when they begin work and can obtain adequate rest when not on duty.
 
 ### 26.1.5. On-Call Time
 
-### 26.1.4. Definition of Hours of Work
+### 26.1.5. On-Call Time
 
-It is expected that as far as practicable the Master will arrange for conducting emergency drills such as musters, fire-fighting and abandon vessel drills in a way which minimises the disturbance to rest periods and provide compensatory rest for seafarers whose normal rest is disturbed by call-outs for drills.
+Where a seafarer’s normal period of rest on board a vessel is disturbed by a callout he/she should have adequate compensatory rest.
 
 ### 26.1.3. Responsibility
 
@@ -3849,73 +3849,81 @@ It is expected that as far as practicable the Master will arrange for conducting
 
 Where it is known that a vessel engages in an irregular pattern or that working hours are unlikely to be uniform, this can be taken into account when considering the schedule.
 
-SOLAS requires that vessels over 500GT, excluding pleasure yachts not engaged in trade, carry a Safe Manning Document. Owners and operators of vessels below 500GT, or those above 500GT solely engaged for pleasure, may also choose to hold a Safe Manning Document. This will allow the owner to consider a ‘range and risk’ approach when determining manning levels.
-
-### 26.2.5. Safe Manning Document
-
-A Safe Manning Document of a vessel may be withdrawn if an owner or operator fails to submit a new proposal where a vessel changes trading area(s), construction, machinery or equipment, or operation and/or method of maintenance have changed, or a vessel persistently fails to comply with the rest hours requirements.
-
-Depending on the type of rig and level of automation, additional personnel may be required to operate the rig of a sailing vessel.
+Specific factors to be taken into account in determining the safe manning level may include:
 
 ### 26.2.6. Application for a Safe Manning Document
 
+Any application for a Safe Manning Document should be made by the owner, or a person authorised to act on their behalf, to the flag Administration of the vessel and include a clear and concise explanation of how:
+
+A Safe Manning Document of a vessel may be withdrawn if an owner or operator fails to submit a new proposal where a vessel changes trading area(s), construction, machinery or equipment, or operation and/or method of maintenance have changed, or a vessel persistently fails to comply with the rest hours requirements.
+
+### 26.2.9. Personal Water Craft
+
 ### 28.1. General
 
-### 28.4. Periodical Surveys
+### 28.2. Initial Survey (including new-building commercial vessels)
 
 ### 28.4.2. Cargo Ship Safety Equipment and Safety Radio Certificates
 
-### 28.5. Use of an Authorised Classification Society
-
-### 28.6. Use of a Classification Society Surveyor to act on the behalf of the Administration
+### 28.3. Equivalents to certain safety regulations
 
 ### 28.4. Periodical Surveys
 
+### 28.5. Use of an Authorised Classification Society
+
 ### 28.7. Accident Investigations
 
-### 28. SURVEY, CERTIFICATION, INSPECTION AND MAINTENANCE
+### 28.6. Use of a Classification Society Surveyor to act on the behalf of the Administration
 
 ### 28.2. Initial Survey (including new-building commercial vessels)
 
 ### 28.7. Accident Investigations
 
-Isle Of Man Shipping Registry
+British Marine Federation Cayman Islands Shipping Registry Maritime and Coastguard Agency
 
-Sunseeker International Ltd
+Ince & Co LLP
+
+Hill Dickinson LLP
+
+BMT Nigel Gee Ltd
 
 Burgess Yachts
 
-British Marine Federation
+Feadship Holland
 
-SYBAss
-
-ABS
-
-### 5. Appliances
-
-### 8. Emergency Action
+### 1. General Information
 
 ### 4. Fittings and Pipework
 
 ### 6. Ventilation
 
-### 1. General Information
+### 8. Emergency Action
 
-‘Minimum Age of Trainees’
+### Annex 5. UNITED KINGDOM NATIONAL ANNEX
 
-### 3. Cylinders and Attachments
+The annex contains requirements and supplementary notes specific to United Kingdom vessels. These are referenced under the same section numbers as they would appear in the main Code text.
+
+### 2. Definitions
 
 ### 5. Appliances
 
-Bureau Veritas
+‘pleasure vessel’ means
 
 ### 3. Application and Interpretation
 
-### 22.5. Noise
+### 23. Medical Stores
 
-SI 2008 No. 3257 ‘Merchant Shipping (Prevention of Pollution by Sewage and Garbage) Regulations’, guidance on which is contained in MSN 1807 and MGN 385.
+SI No.311 The Merchant Shipping (Submersible Craft Operations) Regulations 1987.
 
-MGN 156 ‘Training and Certification Guidance – Part 17 Certificates of Competency or Marine Engine Operator Licences for Service as an Engineer Officer on Commercially and Privately Operated Yachts and Sail Training Vessels’, and;
+SI 2008 No. 2924 ‘Merchant Shipping (Prevention of Air Pollution from Ships) Regulations 2008’. Information on these requirements can be found in MSN 1819, MGN 381, MGN 386, and MGN 400.
+
+**25.4**All yachts should comply with the hull Anti-Fouling System Convention requirements, details of which can be found in MGN 398 and MIN 394.
+
+Vessels over 3000 GT should comply with MSN 1767. Hours of Work, Safe Manning and Watchkeeping revised Provisions from 7 September 2002
+
+In addition to unrestricted STCW qualifications, information as to specific qualifications for Large Yachts and Sail Training Vessels are contained within:
+
+### 26.2.4. Guidance on Appropriate Manning Levels
 
 MSN 1802 ‘Training and Certification Guidance – Part 21 Deck Officer Certificates of Competency For Service on Commercially and Privately Operated Yachts and Sail Training Vessels’.
 
@@ -3923,7 +3931,7 @@ Vessels over 3000 GT should comply with MSN 1767. Hours of Work, Safe Manning an
 
 ’A training organisation wishing to operate UK registered Training Vessel(s) **carrying more than 12 trainees**must register this intention with the Maritime and Coastguard Agency (MCA) including details of:
 
-### 26.2.4. Guidance on Appropriate Manning Levels
+If operating under a Code then the vessel’s Code Certificate of Compliance should be endorsed 'Sail Training Vessel' or ‘Motor Training Vessel’.
 
 Every vessel should have a Risk Assessment and Safety Policy in place. If trainees under the age of 18 are to be carried they should also have a Child Protection policy and appropriate code of conduct to ensure the welfare and well being of the trainees.
 
@@ -3931,31 +3939,23 @@ The registration will only be approved provided the proposal fully satisfies the
 
 A training vessel may carry a combination of passengers and trainees. However, a training vessel operating under a Code of Practice may only carry a maximum of 12 passengers at any time.
 
-SI 2008 No. 3257 ‘Merchant Shipping (Prevention of Pollution by Sewage and Garbage) Regulations’, guidance on which is contained in MSN 1807 and MGN 385.
+The registration will only be approved provided the proposal fully satisfies the recommendations and guidelines outlined above. The MCA may require an owner or operator to amend a proposal if, after evaluation, the proposal is considered inadequate.
 
 The list of UK Certifying Authorities for radio installations is listed in MGN 392. For classed vessels, radio survey is delegated to classification societies.
 
-SI 2008 No. 2924 ‘Merchant Shipping (Prevention of Air Pollution from Ships) Regulations 2008’. Information on these requirements can be found in MSN 1819, MGN 381, MGN 386, and MGN 400.
+### 28.7. Accident Investigation Reporting Regulations
 
 Under ‘The Merchant Shipping (Accident Reporting and Investigation) Regulations’ 2005, SI No. 881, it is a requirement to report accidents and hazardous events to the Department for Transport’s Marine Accident Investigation Branch. Guidance is available in MGN 289 ‘Accident Reporting and Investigation’.
 
-The registration will only be approved provided the proposal fully satisfies the recommendations and guidelines outlined above. The MCA may require an owner or operator to amend a proposal if, after evaluation, the proposal is considered inadequate.
+### 29. Crew Agreements
 
 Crew Agreements should be as detailed in MGN 149 or replacement notice.
-
-### 28.1.2. Survey, Certification, Inspection, and Maintenance
-
-MSN 1802 ‘Training and Certification Guidance – Part 21 Deck Officer Certificates of Competency For Service on Commercially and Privately Operated Yachts and Sail Training Vessels’.
-
-### 28.7. Accident Investigation Reporting Regulations
-
-The content remains the same as in LY2 Edition 2.
 
 ### Annex 7
 
 Every vessel should have a Risk Assessment and Safety Policy in place. If trainees under the age of 18 are to be carried they should also have a Child Protection policy and appropriate code of conduct to ensure the welfare and well being of the trainees.
 
-The registration will only be approved provided the proposal fully satisfies the recommendations and guidelines outlined above. The MCA may require an owner or operator to amend a proposal if, after evaluation, the proposal is considered inadequate.
+For environmental considerations and to minimise the size of LY3, the contents of Annex 6 are available as Amendment 1 to MSN 1792 in a separate Merchant Shipping Notice.
 
 ### Annex 6. TECHNICAL STANDARD FOR HELICOPTER LANDING AREAS
 
@@ -3969,7 +3969,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 ##### Artikel 20b. Eisen aan passagiersschip kleiner dan 24 meter op nationale reizen
 
-Een passagiersschip kleiner dan 24 meter op nationale reizen voldoet aan de eisen opgenomen in [bijlage 3d](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&bijlage=3d&z=2023-12-21&g=2023-12-21).
+Een passagiersschip kleiner dan 24 meter op nationale reizen voldoet aan de eisen opgenomen in [bijlage 3d](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&bijlage=3d&z=2024-04-01&g=2024-04-01).
 
 #### § 3. Toelatingseisen voor scheepsuitrusting
 
@@ -3983,11 +3983,11 @@ Een passagiersschip kleiner dan 24 meter op nationale reizen voldoet aan de eise
 
 ### Hoofdstuk 7. Slotbepalingen
 
-## Bijlage 3. behorende bij [artikel 18a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=1&artikel=18a&z=2023-12-21&g=2023-12-21), van de Regeling veiligheid zeeschepen
+## Bijlage 3. behorende bij [artikel 18a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=1&artikel=18a&z=2024-04-01&g=2024-04-01), van de Regeling veiligheid zeeschepen
 
-### § 1. Eisen voor schepen, bedoeld in [artikel 3a, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2023-12-21&g=2023-12-21)
+### § 1. Eisen voor schepen, bedoeld in [artikel 3a, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2024-04-01&g=2024-04-01)
 
-### § 2. Eisen voor schepen, bedoeld in [artikel 3a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2023-12-21&g=2023-12-21), van de Regeling veiligheid zeeschepen
+### § 2. Eisen voor schepen, bedoeld in [artikel 3a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2024-04-01&g=2024-04-01), van de Regeling veiligheid zeeschepen
 
 ## Bijlage 3c. Eisen aan offshoredienstschepen en hogesnelheidsoffshoredienstschepen van minder dan 500 gt
 
@@ -3995,7 +3995,7 @@ Een passagiersschip kleiner dan 24 meter op nationale reizen voldoet aan de eise
 
 ### § 3. Hogesnelheidsoffshoredienstschepen van minder dan 500 GT en met een lengte van 24 meter of meer met ten hoogste 60 personen aan boord
 
-### B. Invullingen en afwijkingen [richtlijn 2009/45/EG](32009L0045)
+### § 1. Algemeen
 
 ## Bijlage 4. behorende bij [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=1&artikel=19&z=2023-12-21&g=2023-12-21), van de Regeling veiligheid zeeschepen (Zeegebieden A tot en met D, als bedoeld in artikel 4, eerste lid, van Richtlijn nr. 2009/45/EG)
 
@@ -4003,9 +4003,9 @@ Een passagiersschip kleiner dan 24 meter op nationale reizen voldoet aan de eise
 
 ### Artikel 4. Bewaren van de medische uitrusting
 
-### Betekenis van de aanvullende codes
+### Artikel 4. Bewaren van de medische uitrusting
 
-### **Artikel 4. Bewaren van de medische uitrusting**
+### Betekenis van de kolommen in tabellen 1 en 2
 
 ### **Artikel 5. Levering en verpakking van geneesmiddelen en antidota**
 
@@ -4023,9 +4023,9 @@ Een passagiersschip kleiner dan 24 meter op nationale reizen voldoet aan de eise
 
 All training should be properly organised with clearly detailed objectives and outcomes.
 
-The granting of exemptions will be limited by the extent to which international conventions allow and should be regarded as exceptiona
+Proposals for the application of alternative standards considered to be at least equivalent to the requirements of the Code should be submitted to the Administration for approval. Equivalence may be achieved by incorporating increased requirements to balance deficiencies and thereby achieve the overall safety standard.
 
-Where a question of interpretation of any part of this Code arises which cannot be resolved by a delegated authority and the owner(s)/managing agent(s) for a vessel, a decision on the interpretation may be obtained on written application to the Administration.
+Applications for exemption should be made to the Administration and be supported by justification for the exemption.
 
 Section 11 of the Code deals with subdivision and damage stability requirements which will determine the number and positioning of watertight bulkheads defined below.
 
@@ -4033,7 +4033,7 @@ Exemptions should be granted only by the Administration.
 
 Applications for exemption should be made to the Administration and be supported by justification for the exemption.
 
-### 5.1.1. General Requirements
+### 5. WEATHERTIGHT INTEGRI
 
 For vessels up to 75m load line length, a standard superstructure height is to be taken as 1.8m. For vessels over 125m load line length, this is to be taken as 2.3m. Superstructure heights for vessels of intermediate lengths should be obtained by interpolation.
 
@@ -4043,7 +4043,7 @@ FPREQ = 0.28 x Aw/ B
 
 FPREQ = Freeing port area required
 
-In considering an individual case, the Administration will take into account the vessels past performance in service and the declared area(s) of operation and any other conditions which restrict the use of the vessel at sea which will be recorded on the load line certificate issued to the vessel. (See section 4.1.3.)
+Batteries of a type suitable for marine use and not liable to leakage should be used. Areas in which batteries are stowed should be provided with appropriate ventilation to prevent an accumulation of gas which is emitted from batteries of all types.
 
 Where Short Range Yachts are unable to meet the criteria above, the following criteria may be used:
 
@@ -4051,7 +4051,7 @@ The emergency source of power should be independent of the main power supply, ex
 
 It might be noted that provided the vessel complies with the requirements of 11.2.2.1.1, 11.2.2.1.2 and 11.2.2.1.3 and is sailed with an angle of heel which is no greater than the’ derived angle of heel', it should be capable of withstanding a wind gust equal to 1.4 times the actual wind velocity (i.e. twice the actual wind pressure) without immersing the’ down-flooding openings', or heeling to an angle greater than 60°.
 
-Where Short Range Yachts are unable to meet the criteria above, the following criteria may be used:
+All regularly used openings for access and for ventilation should be considered when determining the downflooding angle. No opening regardless of size which may lead to progressive flooding should be immersed at an angle of heel of less than 40°. Air pipes to tanks can, however, be disregarded.
 
 It might be noted that provided the vessel complies with the requirements of 11.2.2.1.1, 11.2.2.1.2 and 11.2.2.1.3 and is sailed with an angle of heel which is no greater than the’ derived angle of heel', it should be capable of withstanding a wind gust equal to 1.4 times the actual wind velocity (i.e. twice the actual wind pressure) without immersing the’ down-flooding openings', or heeling to an angle greater than 60°.
 
@@ -4059,15 +4059,15 @@ The following requirements are applicable to all vessels, other than those opera
 
 The SART is to be stowed in an easily accessible position so that it can rapidly be placed in any survival craft. Means should be provided in order that it can be mounted in the survival craft at a height of at least 1 metre above sea level.
 
-### 14a.2.5. Fuel Arrangements
+### 14a.2.2. Structural Fire Protection
 
-Space heaters, if used, are to be fixed in position and so constructed as to reduce fire risks to a minimum. The design and location of these units is to be such that clothing, curtains or other similar materials cannot be scorched or set on fire by heat from the unit.
+All vessels should comply with the following:
 
-### 14b.2.5. Fire Integrity of Bulkheads and Decks
+### 14b.2.1. Structure
 
-d For the application of 14B.2.3.1, ‘B-O’ and ‘C’, where appearing in table 1, should be read as ‘A-0’.
+Notes: To be applied to both tables 1 and 2, as appropriate.
 
-### 14b.2.10. Details of Construction
+### 14b.2.6. Protection of Stairways and Lifts in Accommodation and Service Spaces
 
 The purpose of this section is to provide means of escape so that persons onboard can safely and swiftly escape to the lifeboat and liferaft embarkation deck. For this purpose, the following functional requirements should be met:
 
@@ -4109,17 +4109,17 @@ Vessels of 3000 GT or more constructed on or after the Maritime Labour Conventio
 
 ### 24. SHORE-SHIP TRANSFER OF PERSONNEL
 
-### 24.1. Tenders
+### 23. MEDICAL STORES
 
 ### 24.3. Pilot for Vessel
 
 ### 24.4. Gangways, Passerelles, and Accommodation Ladders
 
-### 26.1.6. Minimum Hours of Rest
+### 26.1.4. Definition of Hours of Work
 
 ### 26.1.7. Exceptions to the Limits on Hours of Rest
 
-A copy of the schedule should be made available to all members of the crew.
+The numbers of certificated officers and certificated and non-certificated ratings, must be sufficient to ensure safe and efficient operation of the vessel at all times.
 
 ### 26.1.9. Exceptions for Emergencies
 
@@ -4137,7 +4137,7 @@ All records should be kept for a minimum of 12 months and should be available fo
 
 ### 30. SAFETY MANAGEMENT
 
-BMT Nigel Gee Ltd
+Professional Yachtsmen's Association Royal Yachting Association
 
 Lloyds Register
 
@@ -4155,29 +4155,29 @@ Lloyds Register
 
 SI No.311 The Merchant Shipping (Submersible Craft Operations) Regulations 1987.
 
-### 22. Protection of Personnel
+### 25. Clean Seas
 
 ### 22.5. Noise
 
-**25.4**All yachts should comply with the hull Anti-Fouling System Convention requirements, details of which can be found in MGN 398 and MIN 394.
+SI 1996 No. 2154 ‘Merchant Shipping (Prevention of Oil Pollution) Regulations’ as amended.
 
 ### 26.2.4. Guidance on Appropriate Manning Levels
 
-If operating under a Code then the vessel’s Code Certificate of Compliance should be endorsed 'Sail Training Vessel' or ‘Motor Training Vessel’.
+MGN 156 ‘Training and Certification Guidance – Part 17 Certificates of Competency or Marine Engine Operator Licences for Service as an Engineer Officer on Commercially and Privately Operated Yachts and Sail Training Vessels’, and;
 
 ### 25. Clean Seas
 
-### 29. Crew Agreements
+### 28.1.2. Survey, Certification, Inspection, and Maintenance
 
 1Classification Societies, Assigning Authorities and Certifying Authorities for Large Yachts means one of the seven Classification Societies accepted by the Maritime &Coastguard Agency: American Bureau of Shipping. Bureau Veritas, Det Norske Veritas, Germanischer Lloyds, Lloyds Register of Shipping, Nippon Kaiji Kyokai and Registro Italiano Navale
 
 For environmental considerations and to minimise the size of LY3, the contents of Annex 6 are available as Amendment 1 to MSN 1792 in a separate Merchant Shipping Notice.
 
-If operating under a Code then the vessel’s Code Certificate of Compliance should be endorsed 'Sail Training Vessel' or ‘Motor Training Vessel’.
+1Classification Societies, Assigning Authorities and Certifying Authorities for Large Yachts means one of the seven Classification Societies accepted by the Maritime &Coastguard Agency: American Bureau of Shipping. Bureau Veritas, Det Norske Veritas, Germanischer Lloyds, Lloyds Register of Shipping, Nippon Kaiji Kyokai and Registro Italiano Navale
 
-A training vessel may carry a combination of passengers and trainees. However, a training vessel operating under a Code of Practice may only carry a maximum of 12 passengers at any time.
+The content remains the same as in LY2 Edition 2.
 
-### 28.1.2. Survey, Certification, Inspection, and Maintenance
+### Annex 7
 
 Under ‘The Merchant Shipping (Accident Reporting and Investigation) Regulations’ 2005, SI No. 881, it is a requirement to report accidents and hazardous events to the Department for Transport’s Marine Accident Investigation Branch. Guidance is available in MGN 289 ‘Accident Reporting and Investigation’.
 
@@ -4197,15 +4197,15 @@ The content remains the same as in LY2 Edition 2.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlage, die ter inzage wordt gelegd bij het Ministerie van Verkeer en Waterstaat.
 
-### Artikel 2. Benodigde medische uitrusting
+### B. Invullingen en afwijkingen [richtlijn 2009/45/EG](32009L0045)
 
-### Artikel 5. Levering en verpakking van geneesmiddelen en antidota
+### Artikel 1. Toepassing op vissersvaartuigen
 
-### Betekenis van de kolommen in tabellen 1 en 2
+### Artikel 3. Inhoud medicijnkisten aan boord van reddingsboten e.d.
 
 ## Bijlage 6. Eisen met betrekking tot de vaart rond de eilanden van Caribisch-Nederland
 
-### Bijlage behorend bij [artikel 41b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=4&artikel=41b&z=2023-12-21&g=2023-12-21), van de Regeling veiligheid zeeschepen
+### Betekenis van de aanvullende codes
 
 ## Bijlage 7. behorende bij [artikel 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=5b&z=2023-12-21&g=2023-12-21). van de Regeling veiligheid zeeschepen
 
@@ -4213,19 +4213,19 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 ### 1. FOREWORD
 
-### 2. DEFINITIONS
+### LY3 The Large Commercial Yacht Code
 
 In any case the intention should be to achieve a standard of safety which is at least equivalent to the standard of ICLL.
 
 FPREQ = 0.28 x Aw/ B
 
-Aw = Area of well in way of superstructure or deckhouse B = Full beam at deck,
+Additionally, where a well is created on each side of the vessel between a superstructure or deckhouse, and the bulwark in way of that superstructure or deck house, the following formula may be used to determine the required freeing port areas on each side of the vessel for the well concerned:
 
 The curves of statical stability for seagoing conditions should meet the following criteria:
 
 In addition to the criteria above designers and builders should address the following hazards which are known to affect vessels operating in planing modes or those achieving relatively high speeds:
 
-The following requirements are applicable to all vessels, other than those operating as Short Range Yachts. Whilst Short Range Yachts are not required to meet the damage stability criteria defined above, ultimate survivability after minor damage or flooding is recommended.
+If, as a result of immersion of openings in a superstructure, a vessel cannot meet the required standard, those superstructure openings may be ignored and the openings in the weather deck used instead to determine θf. In such cases the GZ curve should be derived without the benefit of the buoyancy of the superstructure.
 
 An approved EPIRB should be installed in an easily accessible position ready to be manually released, capable of being placed in a survival craft and floating free if the vessel sinks. All EPIRBs should be registered with the Administration. EPIRBS are to be tested annually and serviced at not more than five yearly intervals by an approved shore based maintainer.
 
@@ -4233,11 +4233,11 @@ The SART is to be stowed in an easily accessible position so that it can rapidly
 
 Attention is drawn to the requirements in SOLAS II-2/10.6.4 for fire extinguishing systems for deep fat cooking equipment.
 
-‘Not readily ignitable’ means that the surface thus described will not continue to burn for more than 20 seconds after removal of a suitable impinging test flame.
+Where a fixed fire-extinguishing system not required by this Chapter, is installed, the arrangement is to be to the satisfaction of the Administration.
 
-All vessels should comply with the following:
+Terms used in this section should have the same meaning as defined in SOLAS, except as defined in Section 14.1 and as follows:
 
-Arrangements for the storage, distribution and utilisation of oil used in pressure lubrication systems are to be such as to minimise the risk of fire or explosion.
+The purpose of this section is to detect a fire in the space of origin and to provide for alarm for safe escape and fire-fighting activity. For this purpose, the following functional requirements should be met:
 
 At least one jet of water, from a single length of hose, should be able to reach any part of the vessel normally accessible to passengers or crew while the vessel is being navigated and, any store room or any part of a storage compartment when empty.
 
@@ -4245,25 +4245,25 @@ Every vessel should carry nautical charts and nautical publications to plan and 
 
 Back-up arrangements to meet these functional requirements should be provided where this function is partly or fully filled by electronic means: this means single ECDIS and paper charts or duplicate ECDIS. Where duplicate ECDIS is provided as the primary means of navigation, officers with responsibility for navigation watch keeping should have received appropriate shore based and ship type-specific training.
 
-Every vessel should carry a barometer. Every sailing vessel should carry an anemometer and an inclinometer.
+Every vessel should carry nautical charts and nautical publications to plan and display the ship’s route for the intended voyage and to plot and monitor positions throughout the voyage.
 
 Refer to 14A.3 and 14B.2.12 for details.
 
 An electric lighting system should be installed which is capable of supplying adequate light to all enclosed accommodation and working spaces. The system should be designed and installed in accordance with section 8.
 
-As considered appropriate, an adequate heating installation should be provided.
+Refer to 14A.3 and 14B.2.12 for details.
 
 All heavy items of equipment such as ballast, batteries, cooking stove, etc, should be securely fastened in place. All stowage lockers containing heavy items should have lids or doors which are capable of being securely fastened.
 
 The structural strength of any deckhouse or superstructure should comply with the requirements of one of the Classification Societies listed in the National Annex, as appropriate to the vessel and its areas of operation.
 
-It should be the responsibility of an owner/managing agent/skipper to advise that the following requirements for items of personal clothing should be met:
+The structural strength of any deckhouse or superstructure should comply with the requirements of one of the Classification Societies listed in the National Annex, as appropriate to the vessel and its areas of operation.
 
-### 24.4. Gangways, Passerelles, and Accommodation Ladders
+### 24.1. Tenders
 
-### 28.3. Equivalents to certain safety regulations
+### 28. SURVEY, CERTIFICATION, INSPECTION AND MAINTENANCE
 
-### 29. CREW AGREEMENTS
+### 28.7. Accident Investigations
 
 ### Annex 2. SAFETY MANAGEMENT SYSTEM FOR VESSELS UNDER 500GT
 
@@ -4271,7 +4271,7 @@ It should be the responsibility of an owner/managing agent/skipper to advise tha
 
 ### 1. General Information
 
-### 3. Cylinders and Attachments
+### Annex 2. SAFETY MANAGEMENT SYSTEM FOR VESSELS UNDER 500GT
 
 ### 14.a. Structural Fire Protection – Vessels of Less Than 500GT
 
@@ -4279,13 +4279,142 @@ It should be the responsibility of an owner/managing agent/skipper to advise tha
 
 ### 22.5. Noise
 
-### 24.5. Submersible craft
+### 22.5. Noise
 
 ### 25. Clean Seas
 
 ### 28.1.2. Survey, Certification, Inspection, and Maintenance
 
 ### 28.7. Accident Investigation Reporting Regulations
+
+### Annex 6. TECHNICAL STANDARD FOR HELICOPTER LANDING AREAS
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlage, die ter inzage wordt gelegd bij het Ministerie van Verkeer en Waterstaat.
+
+### § 2. Eisen voor schepen, bedoeld in [artikel 3a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=3a&z=2024-04-01&g=2024-04-01), van de Regeling veiligheid zeeschepen
+
+## Bijlage 3b. behorend bij [artikel 20a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=1&artikel=20a&z=2024-04-01&g=2024-04-01), van de Regeling veiligheid zeeschepen
+
+**Eisen aan schip dat wordt gebezigd voor het aan boord nemen van drenkelingen met een lengte van minder dan 24 meter**
+
+- 1. Een schip dat wordt gebezigd voor het aan boord nemen van drenkelingen voldoet aan [bijlage 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&bijlage=3a&z=2024-04-01&g=2024-04-01) met de volgende aanvullingen:
+
+- a. ten aanzien van vrijboord en uitwateringsmerk zijn de eisen van het Uitwateringsverdrag van toepassing;
+
+- b. ten aanzien van de stabiliteit van het schip in onbeschadigde toestand zijn de eisen van de IS-Code 2008 van toepassing.
+
+- 2. Voor het maken van berekeningen voor lekstabiliteit worden de volgende volumepermeabiliteit toegepast: 1 Afhankelijk van het percentage dat de zwaarste eisen oplevert.
+
+| Ruimten | Permeabiliteit (%) |
+| --- | --- |
+| Bestemd voor voorraden | 60 of 95 indien beperkte hoeveelheid voorraden aanwezig is |
+| Ingenomen door verblijven | 95 |
+| Ingenomen door machines | 85 |
+| Bestemd voor vloeistoffen | 0 of 951 |
+
+- 3. Andere cijfers van volumepermeabiliteit kunnen worden gebruikt als deze zijn onderbouwd met berekeningen.
+
+- 4. De lekstabiliteit wordt berekend bij het volledig vervuld raken van één compartiment.
+
+- 5. Voor schepen met één romp en catamarans, niet zijnde schepen als bedoeld in punt 7, wordt als omvang van de beschadiging aangenomen: Indien op een bepaalde plaats een beschadiging van kleinere omvang een gevaarlijkere toestand kan veroorzaken dan wordt deze beschadiging aan de berekeningen ten grondslag gelegd.
+
+- i. langsscheeps: beschadiging tussen waterdichte dwarsschotten;
+
+- ii. dwarsscheeps: beschadiging van kleine omvang tot waterdichte langsschotten;
+
+- iii. verticaal: van de lijn van de onderkant van de spanten naar boven zonder begrenzing.
+
+- 6. Ten aanzien van de vereiste stabiliteit van het schip in de eindtoestand na beschadiging en nadat mogelijke vereffening door overvloeien heeft plaatsgevonden, geldt dat:
+
+- i. de hellingshoek waarbij statisch evenwicht optreedt niet meer dan 7° bedraagt;
+
+- ii. de kromme van armen van statische stabiliteit van het schip in de eindtoestand van vollopen een minimum bereik van 15° voorbij de evenwichtsstand heeft, waarbij de grootste waarde van de arm van statische stabiliteit binnen dat bereik een waarde van niet minder dan 100 mm heeft;
+
+- iii. het oppervlak onder de kromme van restarmen van positieve statische stabiliteit ten minste 0,015 mrad bedraagt, gemeten vanaf de evenwichtshoek;
+
+- iv. de waterlijn in beschadigde toestand niet minder dan 76 mm bedraagt, gemeten van het vrijboorddek.
+
+- 7. Voor schepen met een klein waterlijnoppervlak en met een groot vrijboord in onbeschadigde toestand, zoals catamarans, wordt als omvang van de beschadiging aangenomen: Van een catamaran wordt aangenomen dat een volledige romp beschadigd is, indien de twee rompen volledig onafhankelijk zijn en er geen kruisverbindingen zijn die, indien beschadigd, het andere romp- en natte dekcompartiment zouden vervullen. Van trimarans wordt beschouwd dat zij schade hebben aan vleugel- en middencompartimenten tot aan hartschip.
+
+- i. langsscheeps: 10% van de lengte van het schip waarbij beschadiging is opgetreden langs de gehele scheepslengte tussen waterdichte dwarsschotten welke zijn geplaatst op een onderlinge afstand welke niet minder is dan de langsscheepse omvang van schade in de zijde. Wanneer de afstand tussen twee waterdichte dwarsschotten minder is dan de schadelengte, dan worden voor de lekstabiliteitberekeningen een of meer dwarsschotten genegeerd op een zodanige wijze dat de desbetreffende compartimentlengte gelijk is aan of groter is dan de schadelengte. De bovengenoemde schadelengte wordt niet toegepast binnen de voorpiek- en achterpiekcompartimenten;
+
+- ii. dwarsscheeps: een afstand tot de hartlijn van het schip binnenboord gemeten vanaf de scheepshuid loodrecht op het vlak van kiel en steven ter hoogte van de hoogstgelegen indelingslastlijn;
+
+- iii. verticaal: vanaf de lijn van de onderkant van de spanten naar boven zonder begrenzing.
+
+- 8. Indien op een bepaalde plaats een kleinere beschadiging dan in de gevallen, bedoeld in punt 7,onderdelen i tot en met iii, wordt verondersteld, die een gevaarlijkere toestand zou veroorzaken, dan wordt deze beschadiging aan de berekeningen ten grondslag gelegd.
+
+- 9. Als vorm van een beschadiging wordt een rechthoekig blok aangenomen. Waterdichte compartimenten aan de achterkant van de spiegel die niet deel uitmaken van de romplengte en zich niet uitstrekken tot onder de ontwerpwaterlijn, zoals overhangen en appendages, worden niet in aanmerking genomen bij de beoordeling van de beschadigde lengte.
+
+- 10. Elke schade aan alle voorste compartimenten van elke romp van een schip met meerderde rompen, welke valt binnen 5% van de lengte van het voorste deel van de waterdichte romp, gemeten op het midden van het schip, wordt beoordeeld op lekstabiliteit.
+
+- 11. Ten aanzien van de vereiste stabiliteit van het schip in de eindtoestand na beschadiging en nadat mogelijke vereffening door overvloeien heeft plaatsgevonden, geldt dat: Van het gestelde onder vii kan worden afgeweken indien:
+
+- i. de slagzijhoek waarbij statisch evenwicht optreedt niet meer dan 15° bedraagt;
+
+- ii. voldoende stroeve dekoppervlakken en geschikte vasthoudpunten zoals leuningen langs ontsnappingswegen en toegang tot ontsnappingswegen zijn aangebracht. Daarnaast is aandacht besteed aan de middelen om toegang te krijgen tot de reddingsboten, het instappen en het te water laten;
+
+- iii. de kromme van armen van positieve statische stabiliteit ten minste 20° bedraagt, gemeten vanaf de hellingshoek waarbij statisch evenwicht optreedt tot de hoek waarbij verder vervuld raken van het schip optreedt;
+
+- iv. de maximale waarde van de arm van statische stabiliteit in bereik van positieve statische stabiliteit ten minste 200 mm bedraagt;
+
+- v. het oppervlak onder de kromme van restarmen van positieve statische stabiliteit ten minste 0,045 mrad bedraagt, gemeten vanaf de evenwichtshoek;
+
+- vi. de uiteindelijke waterlijn behorende bij het statisch evenwicht onder het laagste punt van elke opening is gelegen welke niet is afgesloten door een goedgekeurde waterdichte afsluiting. Dit omvat openingen zoals luchtpijpen, luikdeuren, deuren en eventuele andere waterdichte afsluitingen;
+
+- vii. deze beschadiging er niet toe mag leiden dat het schip op een waterlijn van minder dan 76 mm drijft, gemeten van het vrijboorddek;
+
+- –. in het ondergedompelde gedeelte van het vrijboorddek geen opslagruimte voor levensreddende apparaten aanwezig zijn;
+
+- –. in het ondergedompelde gedeelte van het vrijboorddek geen onderdeel van een verzamelplaats, inschepingsplaats of onderdeel van een ontsnappingsroute is, en
+
+- –. niet meer dan 10% van de lengte van de dekrand aan de beschadigde kant onder de waterlijn is en dat negatief vrijboord beperkt is tot maximaal 300 mm, gemeten vanaf de dekrand.
+
+## Bijlage 3c. Eisen aan offshoredienstschepen en hogesnelheidsoffshoredienstschepen van minder dan 500 gt
+
+### § 3. Hogesnelheidsoffshoredienstschepen als bedoeld in [artikel 6d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=6d&z=2024-04-01&g=2024-04-01)
+
+## Bijlage 3d. behorende bij [artikel 20b](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=1&artikel=20b&z=2024-04-01&g=2024-04-01) van de Regeling veiligheid zeeschepen
+
+## Bijlage 4. behorende bij [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=1&artikel=19&z=2024-04-01&g=2024-04-01), van de Regeling veiligheid zeeschepen (Zeegebieden A tot en met D, als bedoeld in artikel 4, eerste lid, van Richtlijn nr. 2009/45/EG)
+
+## Bijlage 5. behorende bij de [artikelen 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=1&artikel=25&z=2024-04-01&g=2024-04-01), en [49, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=5&paragraaf=1&artikel=49&z=2024-04-01&g=2024-04-01), van de Regeling veiligheid zeeschepen
+
+### Artikel 5. Levering en verpakking van geneesmiddelen en antidota
+
+## Bijlage 6. Eisen met betrekking tot de vaart rond de eilanden van Caribisch-Nederland
+
+### Bijlage behorend bij [artikel 41b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=3&paragraaf=4&artikel=41b&z=2024-04-01&g=2024-04-01), van de Regeling veiligheid zeeschepen
+
+## Bijlage 7. behorende bij [artikel 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0017728&hoofdstuk=2&paragraaf=1&artikel=5b&z=2024-04-01&g=2024-04-01). van de Regeling veiligheid zeeschepen
+
+Where a question of interpretation of any part of this Code arises which cannot be resolved by a delegated authority and the owner(s)/managing agent(s) for a vessel, a decision on the interpretation may be obtained on written application to the Administration.
+
+In general, hatches should be kept closed at sea. However, hatchways which may be kept open for access at sea are to be as small as practicable (a maximum of 1 square metre in clear area), and fitted with coamings of at least 300mm in height in positions 1 and 2 Hatchways should be as near to the centreline as practicable, especially on sailing vessels. Covers of hatchways are to be permanently attached to the hatch coamings and, where hinged, the hinges are to be located on the forward side.
+
+In considering an individual case, the Administration will take into account the vessels past performance in service and the declared area(s) of operation and any other conditions which restrict the use of the vessel at sea which will be recorded on the load line certificate issued to the vessel. (See section 4.1.3.)
+
+The following requirements are applicable to all vessels, other than those operating as Short Range Yachts. Whilst Short Range Yachts are not required to meet the damage stability criteria defined above, ultimate survivability after minor damage or flooding is recommended.
+
+An approved EPIRB should be installed in an easily accessible position ready to be manually released, capable of being placed in a survival craft and floating free if the vessel sinks. All EPIRBs should be registered with the Administration. EPIRBS are to be tested annually and serviced at not more than five yearly intervals by an approved shore based maintainer.
+
+The purpose of this section is to contain a fire in the space of origin. For this purpose, the following functional requirements should be met:
+
+At least one jet of water, from a single length of hose, should be able to reach any part of the vessel normally accessible to passengers or crew while the vessel is being navigated and, any store room or any part of a storage compartment when empty.
+
+There should be sufficient hand holds and grab rails within the accommodation to allow safe movement around the accommodation at all times. Stairways should be specially considered
+
+Adequate stowage facilities for clothing and personal effects should be provided for every person on board.
+
+### 26.1.2. Application and Definitions
+
+### 26.2. SAFE MANNING
+
+### 28.4.2. Cargo Ship Safety Equipment and Safety Radio Certificates
+
+### 3. Application and Interpretation
+
+### 26.2.4. Guidance on Appropriate Manning Levels
 
 ### Annex 6. TECHNICAL STANDARD FOR HELICOPTER LANDING AREAS
 
