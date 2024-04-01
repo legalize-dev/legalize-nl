@@ -4,7 +4,7 @@ identifier: "BWBR0037866"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-04-01"
-last_updated: "2024-01-01"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037866"
 soort: "AMvB"
@@ -82,7 +82,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. een gemeentelijk monument of een voorbeschermd gemeentelijk monument als bedoeld in [bijlage I bij het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=I); en
 
-- e. terreinen waar een opgraving door een certificaathouder of een opgraving op grond van [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037866&hoofdstuk=2&artikel=2.1&z=2024-01-01&g=2024-01-01) wordt verricht.
+- e. terreinen waar een opgraving door een certificaathouder of een opgraving op grond van [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037866&hoofdstuk=2&artikel=2.1&z=2024-04-01&g=2024-04-01) wordt verricht.
 
 3. [Artikel 5.10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=5.10) is van overeenkomstige toepassing op de in het eerste lid bedoelde opgravingen.
 
@@ -90,13 +90,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 5. De gemeenteraad kan voor het gehele grondgebied van de gemeente of voor delen daarvan het eerste lid buiten toepassing verklaren.
 
-##### Artikel 2.3. Verenigingen voor amateurarcheologie
+##### Artikel 2.3. Verenigingen voor vrijwilligers in de archeologie in gemeentelijk ingedeeld gebied
 
-1. Het opgravingsverbod in [artikel 5.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=5.1), is niet van toepassing op een opgraving die wordt verricht door een vereniging die het behouden en beoefenen van archeologie als statutair doel heeft.
+1. Het opgravingsverbod in [artikel 5.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=5.1), is niet van toepassing op een opgraving in gemeentelijk ingedeeld gebied die wordt verricht door een vereniging die het behouden en beoefenen van archeologie als statutair doel heeft.
 
 2. De vrijstelling bedoeld in het eerste lid is slechts van toepassing indien:
 
-- a. het terreinen betreft waarvan het college van burgemeester en wethouders of, indien het een gebied betreft dat niet tot het grondgebied van een gemeente behoort, het bevoegd gezag voor een omgevingsvergunning als bedoeld in [artikel 5.1, eerste lid, aanhef en onder b, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1), heeft vastgesteld dat nader archeologisch onderzoek niet is vereist, en
+- a. het terreinen betreft waarvan het college van burgemeester en wethouders heeft vastgesteld dat nader archeologisch onderzoek niet is vereist, en
 
 - b. de vereniging niet in opdracht van een derde handelt.
 
@@ -138,7 +138,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Certificerende instellingen verstrekken certificaten met inachtneming van de richtlijn.
 
-4. Een certificaathouder of instelling als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037866&hoofdstuk=2&artikel=2.1&z=2024-01-01&g=2024-01-01) verricht een opgraving overeenkomstig de richtlijn.
+4. Een certificaathouder of instelling als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037866&hoofdstuk=2&artikel=2.1&z=2024-04-01&g=2024-04-01) verricht een opgraving overeenkomstig de richtlijn.
 
 ##### Artikel 3.2. Aanwijzing certificerende instelling
 
@@ -160,7 +160,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - h. in staat is te voldoen aan rapportage- en informatieverplichtingen op grond van dit besluit, jegens Onze Minister.
 
-2. De aanvraag gaat vergezeld van een bewijs van accreditatie, als bedoeld in verordening EU nr. 765/2008, voor het afgeven van certificaten op basis van de in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037866&hoofdstuk=3&artikel=3.1&z=2024-01-01&g=2024-01-01) genoemde richtlijn.
+2. De aanvraag gaat vergezeld van een bewijs van accreditatie, als bedoeld in verordening EU nr. 765/2008, voor het afgeven van certificaten op basis van de in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037866&hoofdstuk=3&artikel=3.1&z=2024-04-01&g=2024-04-01) genoemde richtlijn.
 
 3. Aan de aanwijzing kunnen nadere voorschriften verbonden worden.
 
@@ -277,5 +277,69 @@ Dit besluit treedt in werking met ingang van 1 juli 2016.
 ##### Artikel 5.2. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit Erfgoedwet archeologie
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 2.5. Verenigingen voor vrijwilligers in de onderwaterarcheologie
+
+1. Onze Minister kan aan een vereniging die het behouden en beoefenen van archeologie als statutair doel heeft, op aanvraag ontheffing verlenen van het verbod, bedoeld in [artikel 5.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=5.1), voor zover het betreft cultureel erfgoed onder water voor een periode van maximaal één jaar.
+
+2. [Artikel 5.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=5.4), en [artikel 5.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=5.6) zijn van overeenkomstige toepassing.
+
+3. De ontheffing ziet slechts op de volgende handelingen:
+
+- a. het meenemen van een archeologische vondst die acuut wordt bedreigd door natuurlijke processen;
+
+- b. het meenemen van een archeologische vondst die dient ter identificatie van het archeologisch monument; of
+
+- c. het verrichten van kleinschalige onderzoekshandelingen met zeer beperkte gevolgen voor de archeologische waarde van het archeologisch monument.
+
+4. De ontheffing is niet van toepassing op:
+
+- a. de gevallen, bedoeld in [artikel 2.2, tweede lid, onder a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0037866&hoofdstuk=2&artikel=2.2&z=2024-04-01&g=2024-04-01);
+
+- b. een wrak van een militair vliegtuig;
+
+- c. een wrak van een oorlogsschip, tenzij
+
+- 1°. de vlaggenstaat hiervoor toestemming heeft verleend; of
+
+- 2°. de vlaggenstaat onbekend is; en
+
+- d. gevallen waarin de vereniging in opdracht van een derde handelt.
+
+5. Onze Minister kan aan een ontheffing voorschriften verbinden.
+
+6. Onze Minister kan de ontheffing intrekken.
+
+7. Bij ministeriële regeling kunnen nadere regels worden gegeven omtrent de aanvraag, wijziging, weigering en intrekking van een ontheffing alsmede ten aanzien van de voorschriften bedoeld in het vijfde lid.
+
+##### Artikel 2.6. Verkrijging van een certificaat
+
+1. Het verbod, bedoeld in [artikel 5.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=5.1), is niet van toepassing op een opgraving die wordt verricht in het kader van het verkrijgen van een certificaat, als bedoeld in artikel 5.1, eerste lid, van de wet.
+
+2. [Artikel 5.4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=5.4), en [artikel 5.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=5.6) zijn van overeenkomstige toepassing.
+
+##### Artikel 2.7. Opgravingen door de Minister van Defensie
+
+1. Het verbod, bedoeld in [artikel 5.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=5.1), is niet van toepassing op een opgraving die door de Minister van Defensie wordt verricht met betrekking tot:
+
+- a. militaire vliegtuigwrakken;
+
+- b. slachtoffers uit de Tweede Wereldoorlog; of
+
+- c. niet-gesprongen explosieven.
+
+2. [Artikel 5.6, eerste en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=5.6) is van overeenkomstige toepassing op een opgraving bedoeld in het eerste lid, aanhef en onderdeel a.
+
+3. De vrijstelling, bedoeld in het eerste lid, aanhef en onderdeel a, is slechts van toepassing indien een archeologische waardering heeft plaatsgevonden.
+
+4. Onze Minister en Onze Ministers van Defensie en van Binnenlandse Zaken en Koninkrijksrelaties stellen een protocol vast over de werkwijze met betrekking tot de archeologische waardering.
+
+### Hoofdstuk 3. Nadere regels rond certificering
+
+### Hoofdstuk 4. Wijziging andere besluiten
+
+### Hoofdstuk 5. Slotbepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
