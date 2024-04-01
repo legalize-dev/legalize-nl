@@ -4,7 +4,7 @@ identifier: "BWBR0045801"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-06-01"
-last_updated: "2023-05-05"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045801"
 soort: "ministeriele-regeling"
@@ -46,6 +46,8 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
+- **CAK:** CAK, genoemd in [artikel 6.1.1, eerste lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=6.1.1);
+
 - **signaal:** signaal als bedoeld in [artikel 10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=10);
 
 - **wet:** [Wet gemeentelijke schuldhulpverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0031331).
@@ -64,7 +66,7 @@ Een signaal kan worden verstrekt nadat de verstrekker:
 
 ##### Artikel 1.3. Monitoring en evaluatie
 
-1. De colleges van burgemeester en wethouders en de schuldeisers, genoemd in [artikelen 2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045801&hoofdstuk=2&artikel=2.1&z=2023-05-05&g=2023-05-05), [2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045801&hoofdstuk=2&artikel=2.2&z=2023-05-05&g=2023-05-05), en [2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045801&hoofdstuk=2&artikel=2.3&z=2023-05-05&g=2023-05-05), dragen zorg voor de monitoring en evaluatie van het verstrekken en ontvangen van het aangewezen signaal voor schuldhulpverlening en rapporteren gezamenlijk daarover aan de Minister binnen drie jaar na inwerkingtreding van deze regeling.
+1. De colleges van burgemeester en wethouders en de schuldeisers, genoemd in [artikelen 2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045801&hoofdstuk=2&artikel=2.1&z=2024-04-01&g=2024-04-01), [2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045801&hoofdstuk=2&artikel=2.2&z=2024-04-01&g=2024-04-01), [2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045801&hoofdstuk=2&artikel=2.3&z=2024-04-01&g=2024-04-01), en [2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045801&hoofdstuk=2&artikel=2.4&z=2024-04-01&g=2024-04-01), dragen zorg voor de monitoring en evaluatie van het verstrekken en ontvangen van het aangewezen signaal voor schuldhulpverlening en rapporteren gezamenlijk daarover aan de Minister binnen drie jaar na inwerkingtreding van deze regeling.
 
 2. De Minister zendt binnen drie maanden na ontvangst van de rapportage bedoeld in het eerste lid aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van de gegevensverstrekking in de praktijk, alsmede een standpunt inzake de voortzetting van deze regeling anders dan als tijdelijk signaal.
 
@@ -86,7 +88,7 @@ Een signaal kan worden verstrekt nadat de verstrekker:
 
 1. Als signaal wordt aangewezen een betalingsachterstand van een inwoner op de hypotheek van een tot bewoning bestemde onroerende zaak.
 
-2. De hypotheekverstrekker Aegon of Rabobank Groep verstrekt aan het college van burgemeester en wethouders van de gemeente Amsterdam, Arnhem, Breda, Hollands Kroon, Nijmegen of Tilburg voor de taak, bedoeld in [artikel 3, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=3):
+2. De hypotheekverstrekker Aegon, Rabobank Groep of Syntrus Achmea Real Estate & Finance verstrekt aan het college van burgemeester en wethouders van de gemeente Amsterdam, Arnhem, Breda, Den Haag, Heerlen, Hollands Kroon, Nijmegen, Rotterdam of Tilburg voor de taak, bedoeld in [artikel 3, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=3):
 
 - a. de contactgegevens van de inwoner; en
 
@@ -117,6 +119,44 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 - b. de geboortedatum van de inwoner; en
 
 - c. de hoogte van de betalingsachterstand.
+
+### Hoofdstuk 3. Slotbepalingen
+
+Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 2.4. Signaal eigen bijdragen [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) en [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917)
+
+1. Als signaal wordt aangewezen:
+
+- a. een betalingsachterstand van een inwoner op de eigen bijdrage voor het gebruik van aangewezen voorzieningen, bedoeld in [artikel 2.1.4, derde lid, van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.1.4), indien:
+
+- 1°. de betalingsachterstand ten minste € 100,– bedraagt; en
+
+- 2°. het een betalingsachterstand betreft van minimaal vijf maanden op de oudste vordering.
+
+- b. een betalingsachterstand van een inwoner op de eigen bijdrage beschermd wonen, bedoeld in [artikel 2.1.4a, zevende lid, van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.1.4a), indien:
+
+- 1°. de betalingsachterstand ten minste € 100,– bedraagt; en
+
+- 2°. het een betalingsachterstand betreft van minimaal twee maanden op de oudste vordering.
+
+- c. een betalingsachterstand van een inwoner op de eigen bijdrage, bedoeld in [artikel 3.2.5 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.2.5), indien:
+
+- d.
+
+- 1°. de betalingsachterstand ten minste € 100,– bedraagt; en
+
+- 2°. het een betalingsachterstand betreft van minimaal twee maanden op de oudste vordering.
+
+2. Het CAK verstrekt aan het college van burgemeester en wethouders van de gemeente Amsterdam, Groningen, Tilburg of Zoetermeer voor de taak, bedoeld in [artikel 3, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=3):
+
+- a. de naam, het adres, de woonplaats en indien beschikbaar het telefoonnummer en het e-mailadres van de inwoner;
+
+- b. het klantnummer van de inwoner bij het CAK;
+
+- c. de geboortedatum van de inwoner; en
+
+- d. de hoogte en het type van de schuld.
 
 ### Hoofdstuk 3. Slotbepalingen
 
