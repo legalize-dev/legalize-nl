@@ -4,7 +4,7 @@ identifier: "BWBR0043770"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-11-12"
-last_updated: "2020-07-02"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043770"
 soort: "ministeriele-regeling"
@@ -60,13 +60,13 @@ Aan het Instituut wordt op het werkterrein van het Instituut volmacht en machtig
 
 ##### Artikel 3
 
-1. In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043770&artikel=2&z=2020-07-02&g=2020-07-02) geldt voor de volgende P&O-aangelegenheden dat deze slechts in overeenstemming met de directeur Bedrijfsvoering van het Ministerie van Economische Zaken en Klimaat kunnen plaatsvinden:
+1. In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043770&artikel=2&z=2020-07-02&g=2024-04-01) geldt voor de volgende P&O-aangelegenheden dat deze slechts in overeenstemming met de directeur Bedrijfsvoering van het Ministerie van Economische Zaken en Klimaat kunnen plaatsvinden:
 
 - a. het opleggen van straffen als bedoeld in hoofdstuk 15 van de CAO Rijk;
 
 - b. het toekennen van financiële tegemoetkomingen op grond van sociaal flankerend beleid.
 
-2. In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043770&artikel=2&z=2020-07-02&g=2020-07-02) geldt de volmacht en de machtiging niet voor de volgende P&O-aangelegenheden:
+2. In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043770&artikel=2&z=2020-07-02&g=2024-04-01) geldt de volmacht en de machtiging niet voor de volgende P&O-aangelegenheden:
 
 - a. de mogelijkheid van hoofdstuk 2 van de CAO Rijk om tijdelijke arbeidsovereenkomsten in zeer bijzondere situaties te sluiten, waarbij wordt afgeweken van hetgeen is geregeld in de CAO Rijk;
 
