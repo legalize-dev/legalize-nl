@@ -4,7 +4,7 @@ identifier: "BWBR0046952"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-04-01"
-last_updated: "2022-08-01"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046952"
 soort: "ministeriele-regeling"
@@ -100,7 +100,7 @@ In deze regeling wordt verstaan onder:
 
 6. Het reglement bevat in ieder geval regels over:
 
-- a. omgang met persoonlijke belangen die deelname aan advisering als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046952&artikel=2&z=2022-08-01&g=2022-08-01), geheel of gedeeltelijk uitsluiten;
+- a. omgang met persoonlijke belangen die deelname aan advisering als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046952&artikel=2&z=2024-04-01&g=2024-04-01), geheel of gedeeltelijk uitsluiten;
 
 - b. beheersmaatregelen voor de voorzitter en de leden van commissie over de omgang met persoonlijke belangen;
 
@@ -122,7 +122,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 7. Verslaglegging en evaluatie
 
-1. De commissie brengt jaarlijks voor 1 april verslag uit aan de ministers van haar werkzaamheden in het voorafgaande kalenderjaar.
+1. De commissie brengt jaarlijks voor 1 juli verslag uit aan de ministers van haar werkzaamheden in het voorafgaande kalenderjaar.
 
 2. In het verslag, bedoeld in het eerste lid, wordt tevens aandacht besteed aan de wijze waarop de commissie haar onafhankelijkheid heeft bewaakt bij de uitvoering van de taak, bedoeld in [artikel 9, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0046840&artikel=9) door inzicht te bieden in de persoonlijke belangen van de voorzitter en de andere commissieleden bij voorstellen en de overwegingen die aan gehele of gedeeltelijke uitsluiting tot deelname aan advisering ten grondslag liggen.
 
@@ -136,7 +136,7 @@ De commissie verstrekt desgevraagd aan de ministers de voor de uitoefening van d
 
 1. Voor zover aan verzoeken als bedoeld in [artikel 2, tweede lid, onderdelen a en b, van het Instellingsbesluit Adviescommissie Nationaal Groeifonds](https://wetten.overheid.nl/jci1.3:c:BWBR0044080&artikel=2), zoals dat luidde voor het tijdstip van inwerkingtreding van deze regeling, gevolg wordt gegeven, wordt hieraan door de adviescommissie op grond van deze regeling gevolg gegeven.
 
-2. De leden van de Adviescommissie Nationaal Groeifonds, genoemd in [artikel 3, vierde lid, van het Instellingsbesluit Adviescommissie Nationaal Groeifonds](https://wetten.overheid.nl/jci1.3:c:BWBR0044080&artikel=3), zoals dat luidde voor het tijdstip van inwerkingtreding van deze regeling, zullen voor de resterende duur van hun benoeming worden benoemd als lid van de commissie. [Artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046952&artikel=3&z=2022-08-01&g=2022-08-01), is van overeenkomstige toepassing.
+2. De leden van de Adviescommissie Nationaal Groeifonds, genoemd in [artikel 3, vierde lid, van het Instellingsbesluit Adviescommissie Nationaal Groeifonds](https://wetten.overheid.nl/jci1.3:c:BWBR0044080&artikel=3), zoals dat luidde voor het tijdstip van inwerkingtreding van deze regeling, zullen voor de resterende duur van hun benoeming worden benoemd als lid van de commissie. [Artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046952&artikel=3&z=2024-04-01&g=2024-04-01), is van overeenkomstige toepassing.
 
 ##### Artikel 10. Intrekking [Instellingsbesluit Adviescommissie Nationaal Groeifonds](https://wetten.overheid.nl/jci1.3:c:BWBR0044080)
 
