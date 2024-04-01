@@ -271,31 +271,3 @@ Onderstaande tabel geeft het aantal uren per week weer, verdeeld naar jaartal.
 | Week 36 – week 52 | 3 | 2 | 3 | 2 | 3 | 2 | 3 | 2 |
 
 Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.
-
-##### Artikel 5a. Tijdelijke vervanging lid regiegroep
-
-1. Een lid als bedoeld in [artikel 5, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0049755&artikel=5&z=2026-04-04&g=2026-04-04), kan bij tijdelijke afwezigheid worden vervangen.
-
-2. Gedurende het tijdvak waarvoor de tijdelijke afwezigheid geldt, neemt het vervangen lid geen deel aan vergaderingen van de regiegroep en ontvangt hij geen vergoeding als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0049755&artikel=11&z=2026-04-04&g=2026-04-04).
-
-3. De Minister benoemt de vervanger als tijdelijk lid van de regiegroep. De benoeming van dit lid vervalt van rechtswege op het tijdstip waarop het vervangen lid zijn werkzaamheden hervat.
-
-4. De programmasecretaris als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049755&artikel=6&z=2026-04-04&g=2026-04-04), registreert het in het vorige lid bedoelde tijdstip, draagt zorg voor het hervatten van de bezoldiging van het vervangen lid en doet hiervan verslag aan de Minister.
-
-5. De [artikelen 5, tweede tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049755&artikel=5&z=2026-04-04&g=2026-04-04), en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0049755&artikel=11&z=2026-04-04&g=2026-04-04) zijn van overeenkomstige toepassing.
-
-6. In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049755&artikel=5&z=2026-04-04&g=2026-04-04), kan de regiegroep gedurende de periode van vervanging van een lid van de regiegroep uit meer dan het in dat lid genoemde aantal leden bestaan.
-
-## Bijlage 1. Vergoeding
-
-Onderstaande tabel geeft het aantal uren per week weer, verdeeld naar jaartal.
-
-|   | 2024 | 2024 | 2025 | 2025 | 2026 | 2026 | 2027 | 2027 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|   | Voorzitter | Experts | Voorzitter | Experts | Voorzitter | Experts | Voorzitter | Experts |
-| Week 01 – week 13 | – | – | 3 | 2 | 3 | 2 | 3 | 2 |
-| Week 14 – week 22 | 6 | – | 3 | 2 | 3 | 2 | 3 | 2 |
-| Week 23 – week 35 | 6 | 4 | 3 | 2 | 3 | 2 | 3 | 2 |
-| Week 36 – week 52 | 3 | 2 | 3 | 2 | 3 | 2 | 3 | 2 |
-
-Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.
