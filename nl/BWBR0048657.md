@@ -4,7 +4,7 @@ identifier: "BWBR0048657"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-11"
-last_updated: "2023-10-01"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048657"
 soort: "ministeriele-regeling"
@@ -78,19 +78,19 @@ In deze regeling wordt verstaan onder:
 
 2. De uitkering, bedoeld in het eerste lid, bedraagt per college in totaal ten hoogste een bedrag van € 5.000.000 inclusief BTW.
 
-3. De specifieke uitkering wordt niet verstrekt voor BTW die is verschuldigd over kosten voor de uitvoering van projecten, bedoeld in het eerste lid, voor zover het bedrag van de BTW in aanmer-king komt voor compensatie op grond van de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817) of voor zover de kosten in aanmerking komen voor aftrek op grond van de [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629).
+3. De specifieke uitkering wordt niet verstrekt voor BTW die is verschuldigd over kosten voor de uitvoering van projecten, bedoeld in het eerste lid, voor zover het bedrag van de BTW in aanmerking komt voor compensatie op grond van de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817) of voor zover de kosten in aanmerking komen voor aftrek op grond van de [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629).
 
 ##### Artikel 3. Uitkeringsplafond
 
-De minister stelt het plafond voor het totaal van de aanvragen voor specifieke uitkeringen vast en doet hiervan mededeling in de Staatscourant.
+Het plafond bedraagt € 74.000.000 inclusief BTW voor de aanvraagperiode genoemd in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048657&artikel=4&z=2024-04-01&g=2024-04-01).
 
 ##### Artikel 4. De aanvraag
 
-1. Een aanvraag voor een specifieke uitkering kan worden ingediend gedurende een door de minister vastgesteld aanvraagtijdvak.
+1. De aanvraagperiode loopt van dinsdag 2 april 2024 9.00 uur tot en met woensdag 15 mei 2024 17.00 uur.
 
 2. Een aanvraag bevat:
 
-- a. een beschrijving van het project en de locatie waarvoor de specifieke uitkering wordt aangevraagd en van de wijze waarop het project voldoet aan de voorwaarden, gesteld in [artikel2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048657&artikel=2&z=2023-10-01&g=2023-10-01);
+- a. een beschrijving van het project en de locatie waarvoor de specifieke uitkering wordt aangevraagd en van de wijze waarop het project voldoet aan de voorwaarden, gesteld in [artikel2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048657&artikel=2&z=2024-04-01&g=2024-04-01);
 
 - b. een beschrijving van de wijze waarop het project wordt uitgevoerd en welke partijen daarbij betrokken zijn, waarbij door middel van te volgen processtappen inzichtelijk wordt gemaakt hoe het project zal worden uitgevoerd;
 
@@ -102,7 +102,7 @@ De minister stelt het plafond voor het totaal van de aanvragen voor specifieke u
 
 - f. een overeenkomst waarin het college, de beoogd investeerder en indien van toepassing de grond- of gebouweigenaar, overeenkomen zich in te spannen om de in de aanvraag opgenomen woonruimten te realiseren; en
 
-- g. indien van toepassing: de bescheiden, genoemd in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048657&artikel=5&z=2023-10-01&g=2023-10-01).
+- g. indien van toepassing: de bescheiden, genoemd in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048657&artikel=5&z=2024-04-01&g=2024-04-01).
 
 3. Een aanvraag wordt ingediend met gebruikmaking van het aanvraagformulier dat door de minister ter beschikking wordt gesteld op de website van de Rijksdienst voor Ondernemend Nederland.
 
@@ -126,25 +126,25 @@ De minister stelt het plafond voor het totaal van de aanvragen voor specifieke u
 
 - d. een aanvraag die voldoet aan de in deze regeling gestelde voorwaarden.
 
-3. Indien het plafond, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048657&artikel=3&z=2023-10-01&g=2023-10-01), is bereikt en meerdere aanvragen op basis van de criteria, bedoeld in het tweede lid, in aanmerking komen voor de subsidie, stelt de minister de onderlinge rangschikking van die aanvragen vast door middel van loting.
+3. Indien het plafond, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048657&artikel=3&z=2024-04-01&g=2024-04-01), is bereikt en meerdere aanvragen op basis van de criteria, bedoeld in het tweede lid, in aanmerking komen voor de subsidie, stelt de minister de onderlinge rangschikking van die aanvragen vast door middel van loting.
 
 ##### Artikel 6. Afwijzingsgronden
 
 De minister wijst een aanvraag om een specifieke uitkering af indien:
 
-- a. de aanvraag geen betrekking heeft op een project als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048657&artikel=2&z=2023-10-01&g=2023-10-01);
+- a. de aanvraag geen betrekking heeft op een project als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048657&artikel=2&z=2024-04-01&g=2024-04-01);
 
 - b. de aanvraag ziet op activiteiten waarvoor op grond van andere regelingen reeds een specifieke uitkering is verstrekt, met uitzondering van de [Bekostigingsregeling opvang ontheemden Oekraïne](https://wetten.overheid.nl/jci1.3:c:BWBR0046732);
 
-- c. het bedrag van de aangevraagde uitkering dusdanig hoog is dat de toekenning ervan leidt tot een overschrijding van het plafond, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048657&artikel=3&z=2023-10-01&g=2023-10-01);
+- c. het bedrag van de aangevraagde uitkering dusdanig hoog is dat de toekenning ervan leidt tot een overschrijding van het plafond, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048657&artikel=3&z=2024-04-01&g=2024-04-01);
 
-- d. toewijzing van de aanvraag wegens onvoorziene omstandigheden niet ten goede zou komen aan projecten als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048657&artikel=2&z=2023-10-01&g=2023-10-01); of
+- d. toewijzing van de aanvraag wegens onvoorziene omstandigheden niet ten goede zou komen aan projecten als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048657&artikel=2&z=2024-04-01&g=2024-04-01); of
 
 - e. voor het project op het moment van de aanvraag reeds begonnen is met de start met de aanleg van de fundering van de flexwoningen van het project of de aanvang van de bouwwerkzaamheden van de transformatiewoningen.
 
 ##### Artikel 7. Verplichtingen
 
-1. Het college meldt aan de minister het moment waarop wordt gestart met de aanleg van de fundering of de aanvang van de bouwwerkzaamheden, bedoeld in [artikel 6, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0048657&artikel=6&z=2023-10-01&g=2023-10-01).
+1. Het college meldt aan de minister het moment waarop wordt gestart met de aanleg van de fundering of de aanvang van de bouwwerkzaamheden, bedoeld in [artikel 6, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0048657&artikel=6&z=2024-04-01&g=2024-04-01).
 
 2. Het college zorgt ervoor dat binnen twaalf maanden na het verlenen van de beschikking het project wordt opgeleverd.
 
@@ -174,18 +174,24 @@ De minister wijst een aanvraag om een specifieke uitkering af indien:
 
 ##### Artikel 9. Bevoorschotting en uitbetaling
 
-1. De minister verleent bij het besluit tot verlening van de specifieke uitkering, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048657&artikel=8&z=2023-10-01&g=2023-10-01), een voorschot van 100% en betaalt dat voorschot in één keer uit.
+1. De minister verleent bij het besluit tot verlening van de specifieke uitkering, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048657&artikel=8&z=2024-04-01&g=2024-04-01), een voorschot van 100% en betaalt dat voorschot in één keer uit.
 
-2. Het moment waarop de uitkering wordt uitbetaald, bedoeld in [artikel 8, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0048657&artikel=8&z=2023-10-01&g=2023-10-01), is het moment waarop wordt gestart met de aanleg van de fundering van de flexwoningen of de aanvang van de bouwwerkzaamheden van de transformatiewoningen.
+2. Het moment waarop de uitkering wordt uitbetaald, bedoeld in [artikel 8, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0048657&artikel=8&z=2024-04-01&g=2024-04-01), is het moment waarop wordt gestart met de aanleg van de fundering van de flexwoningen of de aanvang van de bouwwerkzaamheden van de transformatiewoningen.
 
 ##### Artikel 10. Verantwoording, vaststelling en terugvordering
 
 1. Het college legt verantwoording af over de besteding van de specifieke uitkering op de wijze bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
-2. Indien uit de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), blijkt dat de uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048657&artikel=2&z=2023-10-01&g=2023-10-01), niet volgens de in deze regeling gestelde voorwaarden of niet volledig of onrechtmatig is besteed, kan de uitkering ter hoogte van het niet of onrechtmatig bestede deel door de minister worden teruggevorderd. De minister doet binnen een jaar na ontvangst van de verantwoordingsinformatie mededeling van de terugvordering aan het college.
+2. Indien uit de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), blijkt dat de uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048657&artikel=2&z=2024-04-01&g=2024-04-01), niet volgens de in deze regeling gestelde voorwaarden of niet volledig of onrechtmatig is besteed, kan de uitkering ter hoogte van het niet of onrechtmatig bestede deel door de minister worden teruggevorderd. De minister doet binnen een jaar na ontvangst van de verantwoordingsinformatie mededeling van de terugvordering aan het college.
 
 ##### Artikel 11. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 oktober 2023.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 12
+
+Deze regeling wordt aangehaald als: Meerjarige stimuleringsregeling flex- en transformatiewoningen 2023.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
