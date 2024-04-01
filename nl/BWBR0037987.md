@@ -4,7 +4,7 @@ identifier: "BWBR0037987"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-04-01"
-last_updated: "2024-01-01"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037987"
 soort: "AMvB"
@@ -54,6 +54,8 @@ In dit besluit wordt verstaan onder:
 
 - **afnemer van de bevoegdheidsverklaringsdienst:** een bestuursorgaan dat of een aangewezen organisatie die in het kader van elektronische dienstverlening gebruik maakt van de bevoegdheidsverklaringsdienst;
 
+- **afnemer van de gezagsmodule:** een bestuursorgaan dat of aangewezen organisatie die bij de gezagsmodule een verzoek indient om een gezagsverklaring;
+
 - **afnemer van DigiD en DigiD Machtigen:** een bestuursorgaan dat of aangewezen organisatie die in het kader van elektronische dienstverlening gebruik maakt van DigiD respectievelijk DigiD Machtigen;
 
 - **afnemer van de routeringsvoorziening:** een bestuursorgaan dat of aangewezen organisatie die toegang wil verlenen tot elektronische diensten door middel van een toegelaten of erkend identificatiemiddel of door middel van machtiging;
@@ -62,7 +64,7 @@ In dit besluit wordt verstaan onder:
 
 - **beschikbaarheid:** de mate waarin een informatiesysteem in bedrijf en toegankelijk is op het moment dat een organisatie het nodig heeft;
 
-- **bevoegdheidsverklaring:** een verklaring als bedoeld in [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=3&artikel=7a&z=2024-01-01&g=2024-01-01);
+- **bevoegdheidsverklaring:** een verklaring als bedoeld in [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=3&artikel=7a&z=2024-04-01&g=2024-04-01);
 
 - **bevoegdheidsverklaringsdienst:** de door Onze Minister beheerde voorziening die aan afnemers van de bevoegdheidsverklaringsdienst een bevoegdheidsverklaring afgeeft over de vertegenwoordigingsbevoegdheid van een beoogd vertegenwoordiger;
 
@@ -96,7 +98,7 @@ In dit besluit wordt verstaan onder:
 
 - **gezagsmodule:** de door Onze Minister beheerde module die een gezagsverklaring genereert en verstrekt;
 
-- **gezagsverklaring:** een verklaring als bedoeld in [artikel 7b](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=3&artikel=7b&z=2024-01-01&g=2024-01-01);
+- **gezagsverklaring:** een verklaring als bedoeld in [artikel 7b](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=3&artikel=7b&z=2024-04-01&g=2024-04-01);
 
 - **MijnOverheid:** de voorziening die bereikbaar is via het webadres mijn.overheid.nl voor de dienst voor elektronisch berichtenverkeer de Berichtenbox, en de diensten voor informatieverschaffing Lopende Zaken, Persoonlijke gegevens en Algemene bekendmakingen, mededelingen en kennisgevingen;
 
@@ -176,7 +178,7 @@ Onze Minister verwerkt voor de inrichting, beschikbaarstelling, instandhouding, 
 
 - –. documentnummer van het rijbewijs.
 
-- 9°. gegevens genoemd in [artikel 5d](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=5d&z=2024-01-01&g=2024-01-01) die noodzakelijk zijn voor de elektronische identificatie ter zake van grensoverschrijdende elektronische dienstverlening binnen de Europese Unie welke plaatsvindt door tussenkomst van de eIDAS-voorziening.
+- 9°. gegevens genoemd in [artikel 5d](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=5d&z=2024-04-01&g=2024-04-01) die noodzakelijk zijn voor de elektronische identificatie ter zake van grensoverschrijdende elektronische dienstverlening binnen de Europese Unie welke plaatsvindt door tussenkomst van de eIDAS-voorziening.
 
 - d. over afnemers van DigiD: administratieve gegevens noodzakelijk in verband met het gebruik door de afnemer van DigiD, waaronder de naam van de bevoegde bestuurder van de rechtspersoon die gebruik maakt van DigiD en de naam, de functie, het e-mailadres en het telefoonnummer van contactpersonen bij de betreffende afnemer.
 
@@ -290,7 +292,7 @@ Onze Minister verstrekt aan een afnemer van MijnOverheid:
 
 - b. op verzoek van een afnemer die de Berichtenbox van MijnOverheid als verplicht kanaal voor elektronisch berichtenverkeer heeft aangewezen, informatie of een gebruiker van een MijnOverheid-account waarop de uitvoering van die taak betrekking heeft, zijn account wel of niet in gebruik heeft genomen en het bijbehorende burgerservicenummer;
 
-- c. op verzoek van een afnemer, informatie of voor een gebruiker van MijnOverheid een emailadres of ander kanaal is verwerkt waarop die gebruiker van MijnOverheid notificaties ontvangt als bedoeld in [artikel 4, onderdeel b, subonderdeel 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=4&z=2024-01-01&g=2024-01-01), en het bijbehorende burgerservicenummer;
+- c. op verzoek van een afnemer, informatie of voor een gebruiker van MijnOverheid een emailadres of ander kanaal is verwerkt waarop die gebruiker van MijnOverheid notificaties ontvangt als bedoeld in [artikel 4, onderdeel b, subonderdeel 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=4&z=2024-04-01&g=2024-04-01), en het bijbehorende burgerservicenummer;
 
 - c. op verzoek van een afnemer inlichtingen die benodigd zijn om aflevering van een bericht te kunnen bevestigen;
 
@@ -306,7 +308,7 @@ Onze Minister verstrekt uit het BSN-koppelregister:
 
 ##### Artikel 10. Overige verstrekkingen
 
-Onverminderd het bepaalde in de [artikelen 6 tot en met 9d](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=3&artikel=6&z=2024-01-01&g=2024-01-01), verstrekt Onze Minister geen gegevens over een bezoeker of gebruiker van de in de [artikelen 2 tot en met 5d](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01) genoemde voorzieningen en middelen of de uit onderzoek voortgekomen gegevens, bedoeld in [artikel 5f, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=5f&z=2024-01-01&g=2024-01-01), aan anderen dan de bezoeker of de gebruiker zelf zonder voorafgaande toestemming van de bezoeker of de gebruiker, tenzij:
+Onverminderd het bepaalde in de [artikelen 6 tot en met 9d](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=3&artikel=6&z=2024-04-01&g=2024-04-01), verstrekt Onze Minister geen gegevens over een bezoeker of gebruiker van de in de [artikelen 2 tot en met 5d](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=2&z=2024-04-01&g=2024-04-01) genoemde voorzieningen en middelen of de uit onderzoek voortgekomen gegevens, bedoeld in [artikel 5f, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=5f&z=2024-04-01&g=2024-04-01), aan anderen dan de bezoeker of de gebruiker zelf zonder voorafgaande toestemming van de bezoeker of de gebruiker, tenzij:
 
 - a. het een verstrekking betreft aan een overheidsorgaan of rechtspersoon met een wettelijke taak die noodzakelijk is voor de borging van de beveiliging en betrouwbaarheid van de betreffende voorziening, of
 
@@ -316,65 +318,65 @@ Onverminderd het bepaalde in de [artikelen 6 tot en met 9d](https://wetten.overh
 
 ##### Artikel 11. Bewaartermijnen in verband met DigiD
 
-1. De gegevens over bezoekers van DigiD, bedoeld in [artikel 2, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01), worden maximaal 18 maanden bewaard.
+1. De gegevens over bezoekers van DigiD, bedoeld in [artikel 2, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=2&z=2024-04-01&g=2024-04-01), worden maximaal 18 maanden bewaard.
 
-2. De naam en de noodzakelijke gegevens om deze correct weer te geven, de geboortedatum, de datum van overlijden, de nationaliteit, gegevens om het ingezetenschap of niet-ingezetenschap in de basisregistratie personen vast te kunnen stellen en het adres, bedoeld in [artikel 2, onderdeel c, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01), worden maximaal 6 weken bewaard.
+2. De naam en de noodzakelijke gegevens om deze correct weer te geven, de geboortedatum, de datum van overlijden, de nationaliteit, gegevens om het ingezetenschap of niet-ingezetenschap in de basisregistratie personen vast te kunnen stellen en het adres, bedoeld in [artikel 2, onderdeel c, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=2&z=2024-04-01&g=2024-04-01), worden maximaal 6 weken bewaard.
 
-3. De gebruiksgegevens, bedoeld in [artikel 2, onderdeel c, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01), worden maximaal 5 jaar bewaard, met dien verstande dat de sessiegegevens slechts worden bewaard tot het moment van uitloggen door de gebruiker.
+3. De gebruiksgegevens, bedoeld in [artikel 2, onderdeel c, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=2&z=2024-04-01&g=2024-04-01), worden maximaal 5 jaar bewaard, met dien verstande dat de sessiegegevens slechts worden bewaard tot het moment van uitloggen door de gebruiker.
 
-4. Een nummer dat ter identificatie van een persoon kan worden gebruikt als bedoeld in [artikel 2, onderdeel c, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01), wordt bewaard:
+4. Een nummer dat ter identificatie van een persoon kan worden gebruikt als bedoeld in [artikel 2, onderdeel c, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=2&z=2024-04-01&g=2024-04-01), wordt bewaard:
 
 - a. gedurende het aanvraagproces maximaal 18 maanden, of;
 
 - b. zo lang het bijbehorende DigiD geldig is, en zodra dat niet meer het geval is maximaal 5 jaar.
 
-5. De accountgegevens, bedoeld in [artikel 2, onderdeel c, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01), die nodig zijn voor het actuele gebruik van DigiD, zoals het actuele en historische mobiele of vaste telefoonnummer en e-mailadres, de actuele gebruikersnaam, het actuele wachtwoord, het account-ID, de status van het account, de gekozen documentsoort voor elektronische identificatie en het soort apparaat waarmee op elektronische wijze gecommuniceerd kan worden met het Nederlands paspoort, de Nederlandse identiteitskaart of het Nederlands rijbewijs, de status van het identificatiemiddel worden bewaard zo lang het bijbehorende DigiD geldig is, en zodra dat niet meer het geval is maximaal 5 jaar.
+5. De accountgegevens, bedoeld in [artikel 2, onderdeel c, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=2&z=2024-04-01&g=2024-04-01), die nodig zijn voor het actuele gebruik van DigiD, zoals het actuele en historische mobiele of vaste telefoonnummer en e-mailadres, de actuele gebruikersnaam, het actuele wachtwoord, het account-ID, de status van het account, de gekozen documentsoort voor elektronische identificatie en het soort apparaat waarmee op elektronische wijze gecommuniceerd kan worden met het Nederlands paspoort, de Nederlandse identiteitskaart of het Nederlands rijbewijs, de status van het identificatiemiddel worden bewaard zo lang het bijbehorende DigiD geldig is, en zodra dat niet meer het geval is maximaal 5 jaar.
 
-6. De overige accountgegevens, bedoeld in [artikel 2, onderdeel c, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01), worden maximaal 18 maanden bewaard.
+6. De overige accountgegevens, bedoeld in [artikel 2, onderdeel c, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=2&z=2024-04-01&g=2024-04-01), worden maximaal 18 maanden bewaard.
 
-7. De gegevens die relevant zijn voor de adequate werking van de voorziening, bedoeld in [artikel 2, onderdeel c, onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01), worden bewaard zo lang de gebruiker van DigiD is ingelogd.
+7. De gegevens die relevant zijn voor de adequate werking van de voorziening, bedoeld in [artikel 2, onderdeel c, onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=2&z=2024-04-01&g=2024-04-01), worden bewaard zo lang de gebruiker van DigiD is ingelogd.
 
-8. De gegevens noodzakelijk voor de ondersteuning van de gebruiker en de administratie van DigiD, bedoeld in [artikel 2, onderdeel c, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01), worden bewaard voor de duur van de ondersteuning en daarna maximaal 18 maanden.
+8. De gegevens noodzakelijk voor de ondersteuning van de gebruiker en de administratie van DigiD, bedoeld in [artikel 2, onderdeel c, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=2&z=2024-04-01&g=2024-04-01), worden bewaard voor de duur van de ondersteuning en daarna maximaal 18 maanden.
 
-9. De gegevens afkomstig van de chip van het Nederlands paspoort, het Nederlandse identiteitsbewijs of het Nederlandse rijbewijs, bedoeld in [artikel 2, onderdeel c, onder 7° en 8°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01), worden bewaard zolang de sessie duurt.
+9. De gegevens afkomstig van de chip van het Nederlands paspoort, het Nederlandse identiteitsbewijs of het Nederlandse rijbewijs, bedoeld in [artikel 2, onderdeel c, onder 7° en 8°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=2&z=2024-04-01&g=2024-04-01), worden bewaard zolang de sessie duurt.
 
-10. De eIDAS gegevens, bedoeld in [artikel 2, onderdeel c, onder 9°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01), worden maximaal 2 jaar bewaard, met uitzondering van uniek identificerende nummers, burgerservicenummers en de versleutelde vormen daarvan, welke maximaal vijf jaar worden bewaard.
+10. De eIDAS gegevens, bedoeld in [artikel 2, onderdeel c, onder 9°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=2&z=2024-04-01&g=2024-04-01), worden maximaal 2 jaar bewaard, met uitzondering van uniek identificerende nummers, burgerservicenummers en de versleutelde vormen daarvan, welke maximaal vijf jaar worden bewaard.
 
-11. De gegevens over afnemers van DigiD, bedoeld in [artikel 2, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01), worden bewaard voor de duur van het gebruik door de afnemer van DigiD, en daarna maximaal vijf jaar.
+11. De gegevens over afnemers van DigiD, bedoeld in [artikel 2, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=2&z=2024-04-01&g=2024-04-01), worden bewaard voor de duur van het gebruik door de afnemer van DigiD, en daarna maximaal vijf jaar.
 
 12. Een reservekopie van alle in dit artikel genoemde gegevens wordt maximaal vier maanden bewaard nadat de bewaartermijnen bedoeld in de andere leden van dit artikel zijn verlopen.
 
 ##### Artikel 12. Bewaartermijnen in verband met DigiD Machtigen
 
-1. De gegevens over bezoekers van DigiD Machtigen, bedoeld in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=3&z=2024-01-01&g=2024-01-01), worden maximaal 18 maanden bewaard.
+1. De gegevens over bezoekers van DigiD Machtigen, bedoeld in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=3&z=2024-04-01&g=2024-04-01), worden maximaal 18 maanden bewaard.
 
-2. De naam en de noodzakelijke gegevens om deze correct weer te geven, de reden voor de opschorting van de persoonslijst in de basisregistratie personen, het adres en de geboortedatum, bedoeld in [artikel 3, onderdeel b, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=3&z=2024-01-01&g=2024-01-01), worden maximaal 6 weken bewaard.
+2. De naam en de noodzakelijke gegevens om deze correct weer te geven, de reden voor de opschorting van de persoonslijst in de basisregistratie personen, het adres en de geboortedatum, bedoeld in [artikel 3, onderdeel b, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=3&z=2024-04-01&g=2024-04-01), worden maximaal 6 weken bewaard.
 
-3. De gebruiksgegevens, bedoeld in [artikel 3, onderdeel b, onder 4° en 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=3&z=2024-01-01&g=2024-01-01), worden maximaal 5 jaar bewaard, met dien verstande dat de sessiegegevens slechts worden bewaard tot het moment van uitloggen door de gebruiker van DigiD Machtigen.
+3. De gebruiksgegevens, bedoeld in [artikel 3, onderdeel b, onder 4° en 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=3&z=2024-04-01&g=2024-04-01), worden maximaal 5 jaar bewaard, met dien verstande dat de sessiegegevens slechts worden bewaard tot het moment van uitloggen door de gebruiker van DigiD Machtigen.
 
 4. Het burgerservicenummer of het door de Kamer van Koophandel, genoemd in [artikel 2 van de Wet op de Kamer van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&artikel=2), uniek toegekende nummer aan een onderneming die in Nederland is gevestigd en toebehoort aan een natuurlijke persoon wordt bewaard zo lang de bijbehorende machtigingsaanvraag dan wel machtigingsregistratie niet is beëindigd, en zodra die wel is beëindigd maximaal 5 jaar.
 
-5. De gebruikersgegevens, bedoeld in [artikel 3, onderdeel b, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=3&z=2024-01-01&g=2024-01-01), worden bewaard zo lang machtigingsaanvraag dan wel machtigingsregistratie niet is beëindigd en zodra die wel is beëindigd maximaal 5 jaar.
+5. De gebruikersgegevens, bedoeld in [artikel 3, onderdeel b, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=3&z=2024-04-01&g=2024-04-01), worden bewaard zo lang machtigingsaanvraag dan wel machtigingsregistratie niet is beëindigd en zodra die wel is beëindigd maximaal 5 jaar.
 
-6. De gegevens noodzakelijk voor de ondersteuning van de gebruiker, bedoeld in [artikel 3, onderdeel b, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=3&z=2024-01-01&g=2024-01-01), worden bewaard voor de duur van de ondersteuning en daarna maximaal 18 maanden.
+6. De gegevens noodzakelijk voor de ondersteuning van de gebruiker, bedoeld in [artikel 3, onderdeel b, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=3&z=2024-04-01&g=2024-04-01), worden bewaard voor de duur van de ondersteuning en daarna maximaal 18 maanden.
 
-7. De gegevens over afnemers van DigiD Machtigen, bedoeld in [artikel 3, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=3&z=2024-01-01&g=2024-01-01), worden bewaard voor de duur van het gebruik door de afnemer van DigiD Machtigen, en daarna maximaal vijf jaar.
+7. De gegevens over afnemers van DigiD Machtigen, bedoeld in [artikel 3, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=3&z=2024-04-01&g=2024-04-01), worden bewaard voor de duur van het gebruik door de afnemer van DigiD Machtigen, en daarna maximaal vijf jaar.
 
 8. Een reservekopie van alle in dit artikel genoemde gegevens wordt maximaal vier maanden bewaard.
 
 ##### Artikel 13. Bewaartermijnen in verband met MijnOverheid
 
-1. De gegevens over bezoekers van MijnOverheid, bedoeld in [artikel 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=4&z=2024-01-01&g=2024-01-01), worden maximaal 18 maanden bewaard.
+1. De gegevens over bezoekers van MijnOverheid, bedoeld in [artikel 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=4&z=2024-04-01&g=2024-04-01), worden maximaal 18 maanden bewaard.
 
-2. De gegevens over gebruikers van MijnOverheid, bedoeld in [artikel 4, onderdeel b, onder 4° en 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=4&z=2024-01-01&g=2024-01-01), worden maximaal 5 jaar bewaard, met dien verstande dat sessie cookies slechts worden bewaard tot het moment van uitloggen.
+2. De gegevens over gebruikers van MijnOverheid, bedoeld in [artikel 4, onderdeel b, onder 4° en 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=4&z=2024-04-01&g=2024-04-01), worden maximaal 5 jaar bewaard, met dien verstande dat sessie cookies slechts worden bewaard tot het moment van uitloggen.
 
-3. De gegevens over een gebruiker van MijnOverheid en zijn MijnOverheid-account, bedoeld in [artikel 4, onderdeel b, onder 1°, 2° en 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=4&z=2024-01-01&g=2024-01-01), worden bewaard zolang het bijbehorende MijnOverheid-account bestaat, en zodra het account is opgeheven, maximaal 1 jaar, met uitzondering van gegevens om te bepalen of een natuurlijk persoon kwalificeert als gebruiker van MijnOverheid waarvoor de Berichtenbox beschikbaar moet kunnen zijn, die bewaard blijven voor de duur van het aanmaak- of controleproces.
+3. De gegevens over een gebruiker van MijnOverheid en zijn MijnOverheid-account, bedoeld in [artikel 4, onderdeel b, onder 1°, 2° en 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=4&z=2024-04-01&g=2024-04-01), worden bewaard zolang het bijbehorende MijnOverheid-account bestaat, en zodra het account is opgeheven, maximaal 1 jaar, met uitzondering van gegevens om te bepalen of een natuurlijk persoon kwalificeert als gebruiker van MijnOverheid waarvoor de Berichtenbox beschikbaar moet kunnen zijn, die bewaard blijven voor de duur van het aanmaak- of controleproces.
 
-4. De gegevens noodzakelijk voor de ondersteuning van de gebruiker, bedoeld in [artikel 4, onderdeel b, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=4&z=2024-01-01&g=2024-01-01), worden bewaard voor de duur van de ondersteuning en daarna maximaal 18 maanden.
+4. De gegevens noodzakelijk voor de ondersteuning van de gebruiker, bedoeld in [artikel 4, onderdeel b, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=4&z=2024-04-01&g=2024-04-01), worden bewaard voor de duur van de ondersteuning en daarna maximaal 18 maanden.
 
-5. De gegevens over een gebruiker van MijnOverheid en zijn MijnOverheid-account, bedoeld in [artikel 4, onderdeel b, onder 7° en 8°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=4&z=2024-01-01&g=2024-01-01), worden bewaard zolang het bijbehorende MijnOverheid-account bestaat en zodra het account is opgeheven maximaal 1 jaar.
+5. De gegevens over een gebruiker van MijnOverheid en zijn MijnOverheid-account, bedoeld in [artikel 4, onderdeel b, onder 7° en 8°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=4&z=2024-04-01&g=2024-04-01), worden bewaard zolang het bijbehorende MijnOverheid-account bestaat en zodra het account is opgeheven maximaal 1 jaar.
 
-6. De bewaartermijn van de gegevens over de vertegenwoordigde en de vertegenwoordiger, bedoeld in [artikel 4, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=4&z=2024-01-01&g=2024-01-01), is als volgt:
+6. De bewaartermijn van de gegevens over de vertegenwoordigde en de vertegenwoordiger, bedoeld in [artikel 4, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=4&z=2024-04-01&g=2024-04-01), is als volgt:
 
 - a. de gegevens, bedoeld onder 1° en 2°, blijven bewaard tot het moment van uitloggen;
 
@@ -384,19 +386,19 @@ Onverminderd het bepaalde in de [artikelen 6 tot en met 9d](https://wetten.overh
 
 - d. de gegevens, bedoeld onder 5°, blijven bewaard zo lang het MijnOverheid-account bestaat, en zodra dat account is opgeheven maximaal 1 jaar.
 
-7. Voor de gegevens, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=4&z=2024-01-01&g=2024-01-01), die zijn betrokken bij of relevant zijn voor het onderzoek naar een incident waarbij integriteit, vertrouwelijkheid of beschikbaarheid van het systeem in het geding is, wordt de in het eerste, derde en vierde, en vijfde lid, onderdeel c, genoemde bewaartermijn van 18 maanden of 1 jaar verlengd tot 36 maanden.
+7. Voor de gegevens, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=4&z=2024-04-01&g=2024-04-01), die zijn betrokken bij of relevant zijn voor het onderzoek naar een incident waarbij integriteit, vertrouwelijkheid of beschikbaarheid van het systeem in het geding is, wordt de in het eerste, derde en vierde, en vijfde lid, onderdeel c, genoemde bewaartermijn van 18 maanden of 1 jaar verlengd tot 36 maanden.
 
-8. De gegevens over afnemers van MijnOverheid, bedoeld in [artikel 4, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=4&z=2024-01-01&g=2024-01-01), worden bewaard voor de duur van het gebruik door de afnemer van MijnOverheid, en daarna maximaal vijf jaar.
+8. De gegevens over afnemers van MijnOverheid, bedoeld in [artikel 4, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=4&z=2024-04-01&g=2024-04-01), worden bewaard voor de duur van het gebruik door de afnemer van MijnOverheid, en daarna maximaal vijf jaar.
 
 9. Een reservekopie van alle in dit artikel genoemde gegevens wordt maximaal vier maanden bewaard.
 
 ##### Artikel 14. Bewaartermijnen in verband met het BSN-Koppelregister
 
-De bewaartermijn van de gegevens, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=5&z=2024-01-01&g=2024-01-01), is als volgt:
+De bewaartermijn van de gegevens, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=5&z=2024-04-01&g=2024-04-01), is als volgt:
 
 - a. de naam en de noodzakelijke gegevens om deze correct weer te geven, de geboortedatum, de datum van overlijden, het uniek identificerend nummer en het burgerservicenummer en de versleutelde vorm daarvan worden niet langer bewaard dan nodig is om de gegevens op juistheid te controleren;
 
-- b. het burgerservicenummer in afgeleide vorm en het uniek identificerend nummer in afgeleide vorm ingeval van authenticatie buiten Nederland en binnen de EU, en de gegevens, bedoeld in [artikel 5, onderdeel a, onder 3° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=5&z=2024-01-01&g=2024-01-01), worden bewaard zo lang als de koppeling tussen het toegelaten private of publieke identificatiemiddel of erkende bedrijfs- of organisatiemiddel bestaat en zodra dat niet meer het geval is, maximaal 5 jaar;
+- b. het burgerservicenummer in afgeleide vorm en het uniek identificerend nummer in afgeleide vorm ingeval van authenticatie buiten Nederland en binnen de EU, en de gegevens, bedoeld in [artikel 5, onderdeel a, onder 3° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=5&z=2024-04-01&g=2024-04-01), worden bewaard zo lang als de koppeling tussen het toegelaten private of publieke identificatiemiddel of erkende bedrijfs- of organisatiemiddel bestaat en zodra dat niet meer het geval is, maximaal 5 jaar;
 
 - c. de gegevens over afnemers van de BSN-Koppelregister, bedoeld in artikel 5, onderdeel b, worden bewaard voor de duur van het gebruik van het BSN-Koppelregister en daarna maximaal vijf jaar.
 
@@ -418,7 +420,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 1a. Aanvulling grondslag
 
-De [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=1&artikel=1&z=2024-01-01&g=2024-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=4&z=2024-01-01&g=2024-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=4&artikel=13&z=2024-01-01&g=2024-01-01) van dit besluit berusten mede op [artikel 20, derde lid, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=20).
+De [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=1&artikel=1&z=2024-04-01&g=2024-04-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=4&z=2024-04-01&g=2024-04-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=4&artikel=13&z=2024-04-01&g=2024-04-01) van dit besluit berusten mede op [artikel 20, derde lid, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=20).
 
 ### Hoofdstuk 2. De verwerking van persoonsgegevens
 
@@ -458,7 +460,7 @@ Onze Minister verwerkt voor de inrichting, beschikbaarstelling, instandhouding, 
 
 ##### Artikel 3b. Persoonsgegevens gezagsmodule
 
-Onze Minister verwerkt voor de inrichting, beschikbaarstelling, instandhouding, werking, beveiliging en betrouwbaarheid van de gezagsmodule, voor het opstellen van een verklaring als bedoeld in [artikel 7b, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=3&artikel=7b&z=2024-01-01&g=2024-01-01), de volgende persoonsgegevens over:
+1. Onze Minister verwerkt voor de inrichting, beschikbaarstelling, instandhouding, werking, beveiliging en betrouwbaarheid van de gezagsmodule, voor het opstellen van een verklaring als bedoeld in [artikel 7b, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=3&artikel=7b&z=2024-04-01&g=2024-04-01), de volgende persoonsgegevens over:
 
 - a. de beoogd vertegenwoordiger waarvoor een gezagsverklaring wordt gevraagd:
 
@@ -478,7 +480,7 @@ Onze Minister verwerkt voor de inrichting, beschikbaarstelling, instandhouding, 
 
 - 8. de dienst en de naam van de dienstaanbieder waar de beoogd vertegenwoordiger gebruik van wil maken;
 
-- 9. de aard van de bevoegdheid van de beoogd vertegenwoordiger om te handelen namens de beoogd vertegenwoordigde.
+- 9. de aard van de bevoegdheid van de beoogd vertegenwoordiger om te handelen namens de beoogd vertegenwoordigde;
 
 - b. de huwelijkspartner of geregistreerd partner van de beoogd vertegenwoordiger waarvoor een gezagsverklaring wordt gevraagd:
 
@@ -498,6 +500,36 @@ Onze Minister verwerkt voor de inrichting, beschikbaarstelling, instandhouding, 
 
 - 5. gegevens betreffende de ouderlijk gezagsrelatie tussen de beoogd vertegenwoordiger en de beoogd vertegenwoordigde.
 
+2. Onze Minister verwerkt voor de inrichting, beschikbaarstelling, instandhouding, werking, beveiliging en betrouwbaarheid van de gezagsmodule voor het verstrekken van een verklaring als bedoeld in [artikel 7b, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=3&artikel=7b&z=2024-04-01&g=2024-04-01), de volgende persoonsgegevens over:
+
+- a. de persoon waarop het verzoek ziet:
+
+- 1. de naam en de noodzakelijke gegevens om deze correct weer te geven, de geboortegegevens en de reden voor de opschorting van de verwerking van de gegevens op de persoonslijst in de basisregistratie personen;
+
+- 2. een nummer dat ter identificatie van een persoon kan worden gebruikt of tot een persoon kan worden herleid, waaronder het burgerservicenummer of een versleutelde of afgeleide vorm daarvan of het door de Kamer van Koophandel, bedoeld in [artikel 2 van de Wet op de Kamer van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&artikel=2), uniek toegekende nummer aan een rechtspersoon of een onderneming die in Nederland is gevestigd en toebehoort aan een natuurlijke persoon;
+
+- 3. gegevens over de familierechtelijke betrekkingen van de persoon waarop het verzoek ziet, voor zover deze relevant zijn om ouderlijk gezag vast te stellen;
+
+- 4. gegevens betreffende de inschrijving van de desbetreffende persoon in de Basisregistratie personen, bedoeld in [artikel 1.2 van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.2);
+
+- 5. gegevens betreffende de ouderlijk gezagsrelatie tussen de persoon waarop het verzoek ziet en leden van de familie van die persoon;
+
+- b. een persoon waarmee de persoon waarop het verzoek ziet een ouderlijk gezagsrelatie heeft;
+
+- 1. de naam en de noodzakelijke gegevens om deze correct weer te geven, de geboortegegevens en de reden voor de opschorting van de verwerking van de gegevens op de persoonslijst in de basisregistratie personen;
+
+- 2. een nummer dat ter identificatie van een persoon kan worden gebruikt of tot een persoon kan worden herleid, waaronder het burgerservicenummer of een versleutelde of afgeleide vorm daarvan of het door de Kamer van Koophandel, bedoeld in [artikel 2 van de Wet op de Kamer van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&artikel=2), uniek toegekende nummer aan een rechtspersoon of een onderneming die in Nederland is gevestigd en toebehoort aan een natuurlijke persoon;
+
+- 3. gegevens over de familierechtelijke betrekkingen van de persoon waarop het verzoek ziet, voor zover deze relevant zijn om ouderlijk gezag vast te stellen;
+
+- 4. gegevens betreffende de inschrijving van de desbetreffende persoon in de Basisregistratie personen, bedoeld in [artikel 1.2 van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.2);
+
+- 5. gegevens betreffende eventuele beperkingen van de handelingsbevoegdheid van de desbetreffende persoon;
+
+- 6. gegevens betreffende de ouderlijk gezagsrelatie tussen de desbetreffende persoon en de persoon waarop het verzoek ziet;
+
+- c. afnemers van de gezagsmodule: administratieve gegevens noodzakelijk in verband met het gebruik door de afnemer van de gezagsmodule, waaronder, indien van toepassing, de naam van de bevoegde bestuurder van de rechtspersoon die gebruik maakt van de bevoegdheidsverklaringsdienst en de naam, de functie, het e-mailadres en het telefoonnummer van contactpersonen bij de betreffende afnemer.
+
 ### Hoofdstuk 3. De verstrekking van persoonsgegevens
 
 ##### Artikel 7a. Verstrekkingen in verband met de bevoegdheidsverklaringsdienst
@@ -514,27 +546,39 @@ Onze Minister verstrekt:
 
 ##### Artikel 7b. Verstrekkingen in verband met de gezagsmodule
 
-Onze Minister verstrekt uit de gezagsmodule aan de bevoegdheidsverklaringsdienst, indien sprake is van een ouderlijk gezagsrelatie tussen de beoogd vertegenwoordiger en de beoogd vertegenwoordigde:
+Onze Minister verstrekt uit de gezagsmodule:
+
+- a. aan de bevoegdheidsverklaringsdienst, indien sprake is van een ouderlijk gezagsrelatie tussen de beoogd vertegenwoordiger en de beoogd vertegenwoordigde:
 
 - 1. het burgerservicenummer van de beoogd vertegenwoordiger en de beoogd vertegenwoordigde; en
 
-- 2. een bevestiging van het bestaan van een ouderlijk gezagsrelatie tussen de beoogd vertegenwoordiger en de beoogd vertegenwoordigde.
+- 2. een bevestiging van het bestaan van een ouderlijk gezagsrelatie tussen de beoogd vertegenwoordiger en de beoogd vertegenwoordigde;
+
+- b. op verzoek van een afnemer van de gezagsmodule aan die afnemer:
+
+- 1. een overzicht van de burgerservicenummers van de personen met ouderlijk gezag over de persoon waarop het verzoek ziet;
+
+- 2. een overzicht van de burgerservicenummers van de personen waarover de persoon waarop het verzoek ziet ouderlijk gezag heeft; of
+
+- 3. indien sprake is van een ouderlijk gezagsrelatie tussen de personen waarop het verzoek ziet, een bevestiging van het bestaan van die ouderlijk gezagsrelatie en het soort ouderlijk gezag onder vermelding van de burgerservicenummers van die personen.
 
 ### Hoofdstuk 4. De bewaartermijn van persoonsgegevens
 
 ##### Artikel 12a. Bewaartermijnen in verband met de bevoegdheidsverklaringsdienst
 
-1. De gegevens bedoeld in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=3a&z=2024-01-01&g=2024-01-01) worden niet langer bewaard dan de duur van de sessie.
+1. De gegevens bedoeld in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=3a&z=2024-04-01&g=2024-04-01) worden niet langer bewaard dan de duur van de sessie.
 
-2. In afwijking van het eerste lid worden de gebruiksgegevens, bedoeld in [artikel 3a, onderdeel a, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=3a&z=2024-01-01&g=2024-01-01), maximaal 5 jaar bewaard, met uitzondering van de sessiegegevens, die slechts worden bewaard tot het moment van uitloggen door de gebruiker.
+2. In afwijking van het eerste lid worden de gebruiksgegevens, bedoeld in [artikel 3a, onderdeel a, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=3a&z=2024-04-01&g=2024-04-01), maximaal 5 jaar bewaard, met uitzondering van de sessiegegevens, die slechts worden bewaard tot het moment van uitloggen door de gebruiker.
 
-3. In afwijking van het eerste lid worden de gegevens over afnemers, bedoeld in [artikel 3a, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=3a&z=2024-01-01&g=2024-01-01), bewaard voor de duur van het gebruik door de afnemer, en daarna maximaal vijf jaar.
+3. In afwijking van het eerste lid worden de gegevens over afnemers, bedoeld in [artikel 3a, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=3a&z=2024-04-01&g=2024-04-01), bewaard voor de duur van het gebruik door de afnemer, en daarna maximaal vijf jaar.
 
 ##### Artikel 12b. Bewaartermijnen in verband met de gezagsmodule
 
-1. De gegevens bedoeld in [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=3b&z=2024-01-01&g=2024-01-01) worden niet langer bewaard dan de duur van de sessie.
+1. De gegevens bedoeld in [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=3b&z=2024-04-01&g=2024-04-01) worden niet langer bewaard dan de duur van de sessie.
 
-2. In afwijking van het eerste lid worden de gebruiksgegevens, bedoeld in [artikel 3b, eerste lid, onderdeel a, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=3b&z=2024-01-01&g=2024-01-01), maximaal 5 jaar bewaard, met uitzondering van de sessiegegevens, die slechts worden bewaard tot het moment van uitloggen door de gebruiker.
+2. In afwijking van het eerste lid worden de gebruiksgegevens, bedoeld in [artikel 3b, eerste lid, onderdeel a, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=3b&z=2024-04-01&g=2024-04-01), maximaal 5 jaar bewaard, met uitzondering van de sessiegegevens, die slechts worden bewaard tot het moment van uitloggen door de gebruiker.
+
+3. In afwijking van het eerste lid worden de gegevens over afnemers, bedoeld in [artikel 3b, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=3b&z=2024-04-01&g=2024-04-01), bewaard voor de duur van het gebruik door de afnemer, en daarna maximaal vijf jaar.
 
 ### Hoofdstuk 5. Slotbepalingen
 
@@ -592,13 +636,13 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 5e. Doelbinding
 
-De gegevens als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=3&z=2024-01-01&g=2024-01-01) en [5 tot en met 5d](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=5&z=2024-01-01&g=2024-01-01) worden niet gebruikt voor andere doeleinden dan de goede werking van identificatiemiddelen en de goede en veilige toegang met die middelen of via machtiging tot elektronische dienstverlening.
+De gegevens als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=2&z=2024-04-01&g=2024-04-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=3&z=2024-04-01&g=2024-04-01) en [5 tot en met 5d](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=5&z=2024-04-01&g=2024-04-01) worden niet gebruikt voor andere doeleinden dan de goede werking van identificatiemiddelen en de goede en veilige toegang met die middelen of via machtiging tot elektronische dienstverlening.
 
 ##### Artikel 5f. Persoonsgegevens misbruik en oneigenlijk gebruik
 
 Onze Minister kan de volgende gegevens verwerken, indien dit noodzakelijk is voor het waarborgen van de veilige toegang tot en de werking van de elektronische dienstverlening en het voorkomen van misbruik of oneigenlijk gebruik van de toegang tot elektronische dienstverlening:
 
-- a. de gegevens, bedoeld in de [artikelen 2 tot en met 5d](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01), die verwerkt worden voor de inrichting, beschikbaarstelling, instandhouding, werking, beveiliging en betrouwbaarheid van de voorzieningen van de generieke digitale infrastructuur;
+- a. de gegevens, bedoeld in de [artikelen 2 tot en met 5d](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=2&z=2024-04-01&g=2024-04-01), die verwerkt worden voor de inrichting, beschikbaarstelling, instandhouding, werking, beveiliging en betrouwbaarheid van de voorzieningen van de generieke digitale infrastructuur;
 
 - b. de gegevens en inlichtingen, bedoeld in [artikel 19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&artikel=19), die verstrekt worden door de bestuursorganen en aangewezen organisaties, aanbieders van een toegelaten identificatiemiddel en op grond van [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&artikel=11) erkende middelenuitgevers en diensten;
 
@@ -634,15 +678,15 @@ Onze Minister verstrekt uit de eIDAS-voorziening:
 
 ##### Artikel 14a. Bewaartermijnen in verband met de routeringsvoorziening
 
-De bewaartermijn van de gegevens, bedoeld in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=5a&z=2024-01-01&g=2024-01-01), is als volgt:
+De bewaartermijn van de gegevens, bedoeld in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=5a&z=2024-04-01&g=2024-04-01), is als volgt:
 
-- a. de gegevens, bedoeld in [artikel 5a, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=5a&z=2024-01-01&g=2024-01-01), worden bewaard zolang de gebruiker het identificatiemiddel gebruikt;
+- a. de gegevens, bedoeld in [artikel 5a, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=5a&z=2024-04-01&g=2024-04-01), worden bewaard zolang de gebruiker het identificatiemiddel gebruikt;
 
-- b. een nummer dat ter identificatie kan worden gebruikt als bedoeld in [artikel 5a, onderdeel a, onder 2°, of onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=5a&z=2024-01-01&g=2024-01-01), wordt maximaal 18 maanden na afloop van het authenticatieproces bewaard;
+- b. een nummer dat ter identificatie kan worden gebruikt als bedoeld in [artikel 5a, onderdeel a, onder 2°, of onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=5a&z=2024-04-01&g=2024-04-01), wordt maximaal 18 maanden na afloop van het authenticatieproces bewaard;
 
-- c. de gebruiksgegevens, bedoeld in [artikel 5a, onderdeel a, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=5a&z=2024-01-01&g=2024-01-01), worden maximaal vijf jaar bewaard, met dien verstande dat de sessiegegevens slechts worden bewaard tot het moment van uitloggen door de gebruiker;
+- c. de gebruiksgegevens, bedoeld in [artikel 5a, onderdeel a, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=5a&z=2024-04-01&g=2024-04-01), worden maximaal vijf jaar bewaard, met dien verstande dat de sessiegegevens slechts worden bewaard tot het moment van uitloggen door de gebruiker;
 
-- d. de gegevens over afnemers van de routeringsvoorziening, bedoeld in [artikel 5a, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=5a&z=2024-01-01&g=2024-01-01), worden bewaard voor de duur van het gebruik ervan door de routeringsvoorziening en daarna maximaal vijf jaar.
+- d. de gegevens over afnemers van de routeringsvoorziening, bedoeld in [artikel 5a, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=5a&z=2024-04-01&g=2024-04-01), worden bewaard voor de duur van het gebruik ervan door de routeringsvoorziening en daarna maximaal vijf jaar.
 
 ##### Artikel 14b. Bewaartermijnen in verband met het privaat identificatiemiddel
 
@@ -654,19 +698,19 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 14d. Bewaartermijnen in verband met de eIDAS-voorziening
 
-1. De gegevens, bedoeld in [artikel 5d, eerste lid, onderdelen a en b, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=5d&z=2024-01-01&g=2024-01-01), worden bewaard zolang de gebruiker het identificatiemiddel gebruikt.
+1. De gegevens, bedoeld in [artikel 5d, eerste lid, onderdelen a en b, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=5d&z=2024-04-01&g=2024-04-01), worden bewaard zolang de gebruiker het identificatiemiddel gebruikt.
 
-2. Een nummer dat ter identificatie kan worden gebruikt bedoeld in [artikel 5d, eerste lid, onderdelen c en f](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=5d&z=2024-01-01&g=2024-01-01), worden maximaal 5 jaar bewaard na het laatste gebruik.
+2. Een nummer dat ter identificatie kan worden gebruikt bedoeld in [artikel 5d, eerste lid, onderdelen c en f](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=5d&z=2024-04-01&g=2024-04-01), worden maximaal 5 jaar bewaard na het laatste gebruik.
 
-3. De gebruiksgegevens, bedoeld in [artikel 5d, eerste lid, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=5d&z=2024-01-01&g=2024-01-01), worden maximaal 5 jaar bewaard na het laatste gebruik, met dien verstande dat de sessiegegevens slechts worden bewaard tot het moment van uitloggen door de gebruiker.
+3. De gebruiksgegevens, bedoeld in [artikel 5d, eerste lid, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=5d&z=2024-04-01&g=2024-04-01), worden maximaal 5 jaar bewaard na het laatste gebruik, met dien verstande dat de sessiegegevens slechts worden bewaard tot het moment van uitloggen door de gebruiker.
 
 ##### Artikel 14e. Bewaartermijnen in verband met misbruik en oneigenlijk gebruik generieke digitale infrastructuur
 
-De bewaartermijn van de gegevens, bedoeld in [artikel 5f, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=5f&z=2024-01-01&g=2024-01-01), is maximaal 5 jaar na afloop van de in de [artikelen 11 tot en met 14d](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=4&artikel=11&z=2024-01-01&g=2024-01-01) genoemde bewaartermijnen.
+De bewaartermijn van de gegevens, bedoeld in [artikel 5f, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=5f&z=2024-04-01&g=2024-04-01), is maximaal 5 jaar na afloop van de in de [artikelen 11 tot en met 14d](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=4&artikel=11&z=2024-04-01&g=2024-04-01) genoemde bewaartermijnen.
 
 ##### Artikel 15a. Beveiliging van persoonsgegevens
 
-Teneinde de te verwerken persoonsgegevens te beveiligen en deze te beschermen tegen ongeoorloofde of onrechtmatige verwerking en opzettelijk verlies, vernietiging of beschadiging, neemt de in de [artikelen 2 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01) bedoelde verwerker passende technische, organisatorische en personele maatregelen, waaronder inzake de juiste en veilige bediening en gebruik van informatiesystemen, de toegang tot en de beschikbaarheid en integriteit van informatiesystemen en het herkennen en herstellen van beveiligingsinbreuken.
+Teneinde de te verwerken persoonsgegevens te beveiligen en deze te beschermen tegen ongeoorloofde of onrechtmatige verwerking en opzettelijk verlies, vernietiging of beschadiging, neemt de in de [artikelen 2 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&hoofdstuk=2&artikel=2&z=2024-04-01&g=2024-04-01) bedoelde verwerker passende technische, organisatorische en personele maatregelen, waaronder inzake de juiste en veilige bediening en gebruik van informatiesystemen, de toegang tot en de beschikbaarheid en integriteit van informatiesystemen en het herkennen en herstellen van beveiligingsinbreuken.
 
 ### Hoofdstuk 5. Informatieveiligheid ten aanzien van de toegang tot elektronische dienstverlening
 
