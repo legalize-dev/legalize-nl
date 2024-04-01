@@ -4,7 +4,7 @@ identifier: "BWBR0035000"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-11-15"
-last_updated: "2024-01-01"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035000"
 soort: "ministeriele-regeling"
@@ -64,8 +64,6 @@ In deze regeling wordt verstaan onder:
 
 - **minister:** Minister van Infrastructuur en Waterstaat;
 
-- **overige hoofdspoorwegen:** hoofdspoorwegen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&bijlage=1) en [bijlage 2, onderdeel a, van het Besluit aanwijzing hoofdspoorwegen](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&bijlage=2), voor zover ze niet met name zijn vermeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&bijlage=II&z=2024-01-01&g=2024-01-01);
-
 - **PR-plafond:** plaats als bedoeld in [artikel 14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=14) waar het plaatsgebonden risico maximaal 10-6 per jaar is;
 
 - **RBM II:** softwareprogramma voor de berekening van vervoersrisico’s, getiteld RBM II, versie 2;
@@ -74,17 +72,17 @@ In deze regeling wordt verstaan onder:
 
 - **rekenmethodiek transportrisico’s:** rekenmethodiek voor de vaststelling van risico’s vanwege het vervoer van gevaarlijke stoffen, bestaande uit RBM II en HART;
 
-- **spoorbundel voor het doorgaand verkeer:** geheel van alle naast elkaar liggende sporen, niet zijnde opstelsporen en andere sporen waarmee het spoornetwerk slechts in één rijrichting kan worden bereikt, waarover treinen die rechtdoor rijden hun weg in dezelfde rijrichting kunnen vervolgen;
+- **spoorbundel:**geheel van alle naast elkaar liggende sporen waarover gevaarlijke stoffen kunnen worden vervoerd;
 
 - **verbindingsboog:** rijbaan die bij knooppunten doorgaande rijbanen met elkaar verbindt;
 
-- **wegvak:** gedeelte van een weg als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=1&artikel=2&z=2024-01-01&g=2024-01-01);
+- **wegvak:** gedeelte van een weg als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=1&artikel=2&z=2024-04-01&g=2024-04-01);
 
 - **wet:** [Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606).
 
 ##### Artikel 2
 
-1. De wegen, hoofdspoorwegen en binnenwateren, opgenomen in onderscheidenlijk [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&bijlage=I&z=2024-01-01&g=2024-01-01), [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&bijlage=II&z=2024-01-01&g=2024-01-01) en [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&bijlage=III&z=2024-01-01&g=2024-01-01), zijn de wegen, hoofdspoorwegen en binnenwateren, bedoeld in [artikel 13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=13).
+1. De wegen, hoofdspoorwegen en binnenwateren, opgenomen in onderscheidenlijk [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&bijlage=I&z=2024-04-01&g=2024-04-01), [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&bijlage=II&z=2024-04-01&g=2024-04-01) en [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&bijlage=III&z=2024-04-01&g=2024-04-01), zijn de wegen, hoofdspoorwegen en binnenwateren, bedoeld in [artikel 13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=13).
 
 2. Wegen als bedoeld in het eerste lid zijn onderverdeeld in wegvakken waarvan het begin en einde van het wegvak wordt aangeduid door benoeming van een knooppunt of van een aansluiting. Voor zover het begin of einde van een wegvak wordt aangeduid door een knooppunt, begint of eindigt het betreffende wegvak op het geografische midden van het knooppunt. Voor zover het begin of einde van een wegvak wordt aangeduid door benoeming van een aansluiting, begint of eindigt het betreffende wegvak op het geografische midden van de kruising van de doorgaande rijbaan met de weg waar de afslag op uit komt.
 
@@ -96,7 +94,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Op een weg als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=1&artikel=2&z=2024-01-01&g=2024-01-01), is het referentiepunt gelegen in het midden van de middenberm.
+1. Op een weg als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=1&artikel=2&z=2024-04-01&g=2024-04-01), is het referentiepunt gelegen in het midden van de middenberm.
 
 2. In afwijking van het eerste lid is het referentiepunt gelegen op:
 
@@ -106,33 +104,45 @@ In deze regeling wordt verstaan onder:
 
 - 2°. de middenberm breder is dan 25 meter,
 
-- b. de scheiding van de rijrichtingen, indien het een weg zonder middenberm met twee rijrichtingen betreft.
+- b. de scheiding van de rijrichtingen, indien het een weg zonder middenberm met twee rijrichtingen betreft;
+
+- c. het midden tussen de buitenste randen van het asfalt, indien de doorgaande rijbaan geen buitenste kantstreep heeft.
 
 3. Een verbindingsboog wordt voor het bepalen van de ligging van het referentiepunt aangemerkt als een weg bestemd voor éénrichtingsverkeer.
 
 ##### Artikel 4
 
-Op een hoofdspoorweg als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=1&artikel=2&z=2024-01-01&g=2024-01-01), is het referentiepunt gelegen in het midden tussen de buitenste sporen van de spoorbundel voor het doorgaand verkeer.
+Op een hoofdspoorweg als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=1&artikel=2&z=2024-04-01&g=2024-04-01), is het referentiepunt gelegen in het midden tussen de buitenste spoorstaven van de buitenste sporen waar kan worden vervoerd met gevaarlijke stoffen.
 
 ##### Artikel 5
 
-1. Voor de ligging van de referentiepunten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01), onderscheidenlijk [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=2&artikel=4&z=2024-01-01&g=2024-01-01), is de feitelijke situatie bepalend.
+1. Voor de ligging van de referentiepunten, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=2&artikel=3&z=2024-04-01&g=2024-04-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=2&artikel=4&z=2024-04-01&g=2024-04-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=2&artikel=6&z=2024-04-01&g=2024-04-01), is de feitelijke situatie bepalend.
 
-2. In afwijking van het eerste lid is vanaf de dag van vaststelling van een projectbesluit of een omgevingsplan, de dag waarop een instructieregel als bedoeld in [artikel 2.22](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.22) of [2.24 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.24) wordt gesteld, de dag van verlening van een omgevingsvergunning voor een omgevingsplanactiviteit of de dag waarop een instructie als bedoeld in [artikel 2.33](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.33) of [2.34 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.34) wordt gegeven inhoudende de wijziging van een weg of hoofdspoorweg, de ligging van de weg of van de hoofdspoorweg zoals weergegeven in dat besluit, voor de ligging van de referentiepunten bepalend, totdat de feitelijke situatie overeenstemt met dat besluit.
+2. In afwijking van het eerste lid is vanaf de dag van vaststelling van een projectbesluit of een omgevingsplan, de dag waarop een instructieregel als bedoeld in [artikel 2.22](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.22) of [2.24 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.24) wordt gesteld, de dag van verlening van een omgevingsvergunning voor een omgevingsplanactiviteit of de dag waarop een instructie als bedoeld in [artikel 2.33](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.33) of [2.34 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.34) wordt gegeven inhoudende de wijziging van een weg, hoofdspoorweg of binnenwater, de ligging van de weg, van de hoofdspoorweg of van het binnenwater zoals weergegeven in dat besluit, voor de ligging van de referentiepunten bepalend, totdat de feitelijke situatie overeenstemt met dat besluit.
 
 ##### Artikel 6
 
-1. Op een binnenwater als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=1&artikel=2&z=2024-01-01&g=2024-01-01), zijn de referentiepunten gelegen op de begrenzingslijnen van de vaarweg zoals opgenomen in de legger, bedoeld in [artikel 2.39 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.39).
+1. Op een binnenwater als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=1&artikel=2&z=2024-04-01&g=2024-04-01), wordt het referentiepunt bepaald vanuit de begrenzing van de vaarweg of oever zoals aangegeven in de hierna genoemde bronnen. Daarbij wordt de volgende voorkeursvolgorde gehanteerd:
+
+- a. de overgang van land naar water volgend uit een projectbesluit of een tracébesluit als bedoeld in [artikel 9 van de Tracéwet](https://wetten.overheid.nl/jci1.3:c:BWBR0006147&artikel=9) zoals zij luidde tot 1 januari 2024 en waarop die [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006147) van toepassing is op grond van [artikel 4.44](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&artikel=4.44), [4.45](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&artikel=4.45) of [4.46 van de Invoeringswet Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&artikel=4.46);
+
+- b. de geometrische begrenzing van een vrijwaringsgebied van een rijksvaarweg, bedoeld in [artikel 2.12 van de Omgevingsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&artikel=2.12);
+
+- c. de geometrische begrenzing van een oppervlaktewaterlichaam in beheer bij het Rijk, bedoeld in [artikel 2.2, derde lid, van de Omgevingsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&artikel=2.2);
+
+- d. de kaart “Fairway” uit de Elektronische vaarwegkaarten; of
+
+- e. de kaart “Shoreline construction” uit de Elektronische vaarwegkaarten.
 
 2. In afwijking van het eerste lid zijn de referentiepunten gelegen op:
 
-- a. de Westerschelde met haar mondingen op de begrenzingen van de vaargeulen;
+- a. de Westerschelde met haar mondingen op de begrenzingen van de vaargeulen; en
 
-- b. het Hartelkanaal en het Beerkanaal zoals geometrisch begrensd in artikel 2.2, tweede lid, van de Omgevingsregeling.
+- a. de geometrische begrenzing van een vrijwaringsgebied van een rijksvaarweg, bedoeld in [artikel 2.12 van de Omgevingsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&artikel=2.12);
 
 ##### Artikel 7
 
-1. De ligging van het PR-plafond wordt bepaald door de afstand met betrekking tot het plaatsgebonden risico 10-6 opgenomen in [bijlage I, kolom 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&bijlage=I&z=2024-01-01&g=2024-01-01) voor wegvakken, onderscheidenlijk in [bijlage II, kolom 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&bijlage=II&z=2024-01-01&g=2024-01-01), voor baanvakken, vanaf het betrokken referentiepunt naar weerszijden te meten.
+1. De ligging van het PR-plafond wordt bepaald door de afstand met betrekking tot het plaatsgebonden risico 10-6 opgenomen in [bijlage I, kolom 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&bijlage=I&z=2024-04-01&g=2024-04-01) voor wegvakken, onderscheidenlijk in [bijlage II, kolom 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&bijlage=II&z=2024-04-01&g=2024-04-01), voor baanvakken, vanaf het betrokken referentiepunt naar weerszijden te meten.
 
 2. Het PR-plafond voor een wegvak en een baanvak is gelegen op het referentiepunt indien de te meten afstand nul meter bedraagt.
 
@@ -142,7 +152,7 @@ Op een hoofdspoorweg als bedoeld in [artikel 2, eerste lid](https://wetten.overh
 
 ##### Artikel 8
 
-Indien uit [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&bijlage=I&z=2024-01-01&g=2024-01-01), onderscheidenlijk [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&bijlage=II&z=2024-01-01&g=2024-01-01), blijkt dat er een GR-plafond is, wordt de ligging van dat GR-plafond bepaald overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=2&artikel=7&z=2024-01-01&g=2024-01-01), met dien verstande dat gebruik wordt gemaakt van de afstanden opgenomen in bijlage I, kolom 4, voor wegvakken, onderscheidenlijk in bijlage II, kolommen 5 en 6, voor baanvakken, met betrekking tot het plaatsgebonden risico 10-7 of 10-8.
+Indien uit [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&bijlage=I&z=2024-04-01&g=2024-04-01), onderscheidenlijk [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&bijlage=II&z=2024-04-01&g=2024-04-01), blijkt dat er een GR-plafond is, wordt de ligging van dat GR-plafond bepaald overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=2&artikel=7&z=2024-04-01&g=2024-04-01), met dien verstande dat gebruik wordt gemaakt van de afstanden opgenomen in bijlage I, kolom 4, voor wegvakken, onderscheidenlijk in bijlage II, kolommen 5 en 6, voor baanvakken, met betrekking tot het plaatsgebonden risico 10-7 of 10-8.
 
 #### Paragraaf 3. Onderzoek naar overschrijding risicoplafonds
 
@@ -152,27 +162,27 @@ Deze paragraaf is van toepassing op het onderzoek naar een overschrijding of dre
 
 ##### Artikel 10
 
-1. De beheerder van de hoofdwegen, bedoeld in [artikel 2.19, derde lid, aanhef en onder a, onder 3°, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.19), maakt door middel van tellingen elk jaar de omvang van het vervoer van gevaarlijke stoffen over ten minste één vijfde deel van de wegen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=1&artikel=2&z=2024-01-01&g=2024-01-01), per stofcategorie inzichtelijk op zodanige wijze dat elke vijf jaar tellingen op alle wegen, bedoeld in artikel 2, eerste lid, hebben plaatsgevonden.
+1. De beheerder van de hoofdwegen, bedoeld in [artikel 2.19, derde lid, aanhef en onder a, onder 3°, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.19), maakt door middel van tellingen elk jaar de omvang van het vervoer van gevaarlijke stoffen over ten minste één vijfde deel van de wegen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=1&artikel=2&z=2024-04-01&g=2024-04-01), per stofcategorie inzichtelijk op zodanige wijze dat elke vijf jaar tellingen op alle wegen, bedoeld in artikel 2, eerste lid, hebben plaatsgevonden.
 
-2. De beheerder van de hoofdspoorweginfrastructuur, bedoeld in [artikel 2.19, derde lid, aanhef en onder a, onder 2°, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.19), maakt elk jaar op basis van de gegevens die hij heeft op grond van [artikel 4, eerste lid, van het Besluit spoorverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=4) de omvang van het vervoer van gevaarlijke stoffen over de hoofdspoorwegen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=1&artikel=2&z=2024-01-01&g=2024-01-01) per stofcategorie, alsmede de samenstelling van de treinen waarin deze stoffen worden vervoerd, inzichtelijk.
+2. De beheerder van de hoofdspoorweginfrastructuur, bedoeld in [artikel 1 van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=1), maakt elk jaar de omvang van het vervoer van gevaarlijke stoffen over de hoofdspoorwegen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=1&artikel=2&z=2024-04-01&g=2024-04-01), per stofcategorie, alsmede de samenstelling van de treinen waarin deze stoffen worden vervoerd, inzichtelijk. Daarbij maakt de beheerder gebruik van de krachtens [artikel 15, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=15) te verstrekken gegevens.
 
-3. De beheerder van de hoofdvaarwegen, bedoeld in [artikel 2.19, tweede lid, onder a, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.19), maakt elk jaar de omvang van het vervoer van gevaarlijke stoffen over de binnenwateren, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=1&artikel=2&z=2024-01-01&g=2024-01-01), per stofcategorie inzichtelijk. Daarbij maakt de beheerder gebruik van de ladinggegevens, geregistreerd in het Informatie- en Volgsysteem voor de Scheepvaart, alsmede van de door de Havenbedrijven van Rotterdam en Amsterdam en het Gemeenschappelijk Nautisch Beheer Scheldegebied krachtens [artikel 15, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=15) te verstrekken gegevens.
+3. De beheerder van de hoofdvaarwegen, bedoeld in [artikel 2.19, tweede lid, onder a, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.19), maakt elk jaar de omvang van het vervoer van gevaarlijke stoffen over de binnenwateren, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=1&artikel=2&z=2024-04-01&g=2024-04-01), per stofcategorie inzichtelijk. Daarbij maakt de beheerder gebruik van de ladinggegevens, geregistreerd in het Informatie- en Volgsysteem voor de Scheepvaart, alsmede van de door de Havenbedrijven van Rotterdam en Amsterdam en het Gemeenschappelijk Nautisch Beheer Scheldegebied krachtens [artikel 15, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=15) te verstrekken gegevens.
 
 4. Op verzoek van de minister verhoogt de beheerder de frequentie van het inzichtelijk maken van de omvang van het vervoer van gevaarlijke stoffen over een gedeelte van een weg, hoofdspoorweg of binnenwater en, indien van toepassing, de samenstelling van de treinen, tot hoogstens vier keer per jaar indien dit naar het oordeel van de minister noodzakelijk is ten behoeve van het verkrijgen van tijdig inzicht in een overschrijding of dreigende overschrijding van een risicoplafond.
 
 ##### Artikel 11
 
-1. De beheerders, bedoeld in [artikel 10, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=3&artikel=10&z=2024-01-01&g=2024-01-01), sturen jaarlijks of, in geval toepassing wordt gegeven aan artikel 10, vierde lid, overeenkomstig de desbetreffende frequentie, een rapportage aan de minister, die de gegevens, bedoeld in artikel 10, bevat.
+1. De beheerders, bedoeld in [artikel 10, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=3&artikel=10&z=2024-04-01&g=2024-04-01), sturen jaarlijks of, in geval toepassing wordt gegeven aan artikel 10, vierde lid, overeenkomstig de desbetreffende frequentie, een rapportage aan de minister, die de gegevens, bedoeld in artikel 10, bevat.
 
-2. De beheerders, bedoeld in [artikel 10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=3&artikel=10&z=2024-01-01&g=2024-01-01), voegen bij de rapportage elke vijf jaar een prognose van de ontwikkeling van de omvang en de stromen van het vervoer van gevaarlijke stoffen over de wegen, onderscheidenlijk de hoofdspoorwegen, van de tien jaar volgend op het jaar waarop de rapportage betrekking heeft. De eerste prognose wordt bij de rapportage over 2015 gevoegd.
+2. De beheerders, bedoeld in [artikel 10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=3&artikel=10&z=2024-04-01&g=2024-04-01), voegen bij de rapportage elke vijf jaar een prognose van de ontwikkeling van de omvang en de stromen van het vervoer van gevaarlijke stoffen over de wegen, onderscheidenlijk de hoofdspoorwegen, van de tien jaar volgend op het jaar waarop de rapportage betrekking heeft. De eerste prognose wordt bij de rapportage over 2015 gevoegd.
 
-3. De beheerder, bedoeld in [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=3&artikel=10&z=2024-01-01&g=2024-01-01), voegt bij de rapportage elke tien jaar een prognose van de ontwikkeling van de omvang en de stromen van het vervoer van gevaarlijke stoffen over de binnenwateren van de tien jaar volgend op het jaar waarop de rapportage betrekking heeft. De eerste prognose wordt bij de rapportage over 2015 gevoegd.
+3. De beheerder, bedoeld in [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=3&artikel=10&z=2024-04-01&g=2024-04-01), voegt bij de rapportage elke tien jaar een prognose van de ontwikkeling van de omvang en de stromen van het vervoer van gevaarlijke stoffen over de binnenwateren van de tien jaar volgend op het jaar waarop de rapportage betrekking heeft. De eerste prognose wordt bij de rapportage over 2015 gevoegd.
 
 ##### Artikel 12
 
-1. Op basis van de gegevens, bedoeld in [artikel 10, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=3&artikel=10&z=2024-01-01&g=2024-01-01), maakt de minister een analyse van de te verwachten ontwikkeling van de omvang en de stromen van het vervoer van gevaarlijke stoffen in de drie jaar volgend op het jaar waarop de rapportage, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=3&artikel=11&z=2024-01-01&g=2024-01-01), betrekking heeft.
+1. Op basis van de gegevens, bedoeld in [artikel 10, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=3&artikel=10&z=2024-04-01&g=2024-04-01), maakt de minister een analyse van de te verwachten ontwikkeling van de omvang en de stromen van het vervoer van gevaarlijke stoffen in de drie jaar volgend op het jaar waarop de rapportage, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=3&artikel=11&z=2024-04-01&g=2024-04-01), betrekking heeft.
 
-2. Indien de gegevens, bedoeld in [artikel 10, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=3&artikel=10&z=2024-01-01&g=2024-01-01), de prognose, bedoeld in [artikel 11, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=3&artikel=11&z=2024-01-01&g=2024-01-01), of de analyse, bedoeld in het eerste lid, onvoldoende inzicht bieden om tijdig een overschrijding of dreigende overschrijding van een risicoplafond te signaleren, wordt het risico berekend door de minister.
+2. Indien de gegevens, bedoeld in [artikel 10, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=3&artikel=10&z=2024-04-01&g=2024-04-01), de prognose, bedoeld in [artikel 11, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=3&artikel=11&z=2024-04-01&g=2024-04-01), of de analyse, bedoeld in het eerste lid, onvoldoende inzicht bieden om tijdig een overschrijding of dreigende overschrijding van een risicoplafond te signaleren, wordt het risico berekend door de minister.
 
 3. De berekening van het risico vindt plaats door toepassing van de rekenmethodiek transportrisico’s.
 
@@ -735,514 +745,510 @@ Deze regeling wordt aangehaald als: Regeling basisnet.
 
 ## Bijlage I. Tabel Basisnet weg
 
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Aanwijzing Basisnetroutes | Aanwijzing Basisnetroutes | Risicoplafonds | Risicoplafonds | Brandvoorschriftengebied | Vervallen | Bijzonderheden |
-| Wegvak (nr.) | Naam Basisnetweg (wegnummer: van - tot) | PR plafond | GR plafond |   |   | Tc = tunnelcategorie Wt = wegtype indien afwijkend P-H = parallel- en hoofdrijbaan |
-|   |   | PR 10-6 contour | PR 10-7 contour |   |   | Tc = tunnelcategorie Wt = wegtype indien afwijkend P-H = parallel- en hoofdrijbaan |
-|   |   | (afstand in meters) | (afstand in meters) |   |   | Tc = tunnelcategorie Wt = wegtype indien afwijkend P-H = parallel- en hoofdrijbaan |
-|   | **Rijksweg A1** | **Rijksweg A1** | **Rijksweg A1** | **Rijksweg A1** | **Rijksweg A1** | **Rijksweg A1** |
-| N1 | A1: Knp. Watergraafsmeer - Knp. Diemen | 0 | 82 | JA |   |   |
-| N2 | A1: Knp. Diemen - Knp. Muiderberg | 0 | 82 | JA |   |   |
-| N3 | A1: Knp. Muiderberg - Knp. Eemnes | 0 | 82 | JA |   |   |
-| U1 | A1: Knp. Eemnes - afrit 10 (Soest) | 0 | 82 | JA |   |   |
-| U91 | A1: afrit 10 (Soest) - afrit 12 (Bunschoten) | 0 | 82 | JA |   |   |
-| U81 | A1: afrit 12 (Bunschoten) - afrit 13 (Amersfoort Noord) | 1 |   | JA |   |   |
-| U90 | A1: afrit 13 (Amersfoort Noord) - Knp. Hoevelaken | 3 |   | JA |   |   |
-| G1 | A1: Knp. Hoevelaken - afrit 15 (Barneveld) | 0 | 82 | JA |   |   |
-| G63 | A1: afrit 15 (Barneveld) - afrit 17 (Stroe) | 0 | 82 | JA |   |   |
-| G72 | A1: afrit 17 (Stroe) - afrit 18 (Kootwijk) | 0 | 82 | JA |   |   |
-| G64 | A1: afrit 18 (Kootwijk) - afrit 19 (Hoenderloo) | 0 | 82 | JA |   |   |
-| G71 | A1: afrit 19 (Hoenderloo) - Knp. Beekbergen | 0 | 82 | JA |   |   |
-| G2 | A1: Knp. Beekbergen - afrit 23 (Deventer) | 15 |   | JA |   |   |
-| O2 | A1: afrit 23 (Deventer) - afrit 24 (Deventer Oost) | 12 |   | JA |   |   |
-| O113 | A1: afrit 24 (Deventer Oost) - afrit 26 (Lochem) | 12 |   | JA |   |   |
-| O3 | A1: afrit 26 (Lochem) - afrit 28 (Rijssen) | 1 | 74 | JA |   |   |
-| O76 | A1: afrit 28 (Rijssen) - Knp. Azelo | 1 | 74 | JA |   |   |
-| O4 | A1/A35: Knp. Azelo - Knp. Buren | 1 | 82 | JA |   |   |
-| O5 | A1: Knp. Buren - afrit 30 (Hengelo) | 1 | 74 | JA |   |   |
-| O6 | A1: afrit 30 (Hengelo) - afrit 32 (Oldenzaal) | 1 | 74 | JA |   |   |
-| O7 | A1: afrit 32 (Oldenzaal) - afrit 33 (Oldenzaal Zuid) | 1 | 74 | JA |   |   |
-| O8 | A1: afrit 33 (Oldenzaal Zuid) - Grens Duitsland | 1 | 74 | JA |   |   |
-|   | **Rijksweg A2/N2** | **Rijksweg A2/N2** | **Rijksweg A2/N2** | **Rijksweg A2/N2** | **Rijksweg A2/N2** | **Rijksweg A2/N2** |
-| N4 | A2: Knp. Amstel - Knp. Holendrecht 1 | 0 | 74 | JA |   |   |
-| N5 | A2/A9: Knp. Holendrecht 1 - Knp. Holendrecht 2 | 0 | 74 | JA |   |   |
-| U12 | A2: Knp. Holendrecht 2 - afrit 4 (Vinkeveen) | 0 | 82 | JA |   |   |
-| U13 | A2: afrit 4 (Vinkeveen) - afrit 5 (Breukelen) | 0 | 82 | JA |   |   |
-| U73 | A2: afrit 5 (Breukelen) - afrit 6 (Ring Utrecht Noord) | 0 | 82 | JA |   |   |
-| U14 | A2: afrit 6 (Ring Utrecht Noord) - afrit 7 (Oog in Al) | 0 | 74 | JA |   |   |
-| U88 | A2: afrit 7 (Oog in Al) - Knp. Oudenrijn (incl. Leidsche Rijn tunnel) | 0 | 76 | JA |   | Tc A |
-| U15 | A2: Knp. Oudenrijn - afrit 9 (Nieuwegein) | 0 | 74 | NEE |   |   |
-| U84 | A2: afrit 9 (Nieuwegein) - Knp. Everdingen | 0 | 74 | NEE |   |   |
-| G88 | A2: Knp. Everdingen - afrit 12 (Everdingen) | 0 | 82 | NEE |   |   |
-| G29 | A2: afrit 12 (Everdingen) - Knp. Deil | 0 | 82 | NEE |   |   |
-| B59 | A2: Knp. Deil - afrit 19 (Kerkdriel) | 0 | 88 | NEE |   |   |
-| B107 | A2: afrit 19 (Kerkdriel) - Knp. Empel | 0 | 82 | NEE |   |   |
-| B60 | A2/A59: Knp. Empel - Knp. Hintham | 0 | 82 | NEE |   |   |
-| B61 | A2: Knp. Hintham - afrit 21 (Veghel) | 0 | 83 | NEE |   |   |
-| B105 | A2: afrit 21 (Veghel) - Knp. Vught | 0 | 82 | NEE |   |   |
-| B62 | A2: Knp. Vught - Knp. Ekkersweijer | 0 | 82 | NEE |   |   |
-| B7 | A2/A58: Knp. Ekkersweijer - Knp. Batadorp | 0 | 82 | NEE |   |   |
-| B63 | A2: Knp. Batadorp - afrit 30 (Eindhoven Centrum) | 21 |   | JA |   |   |
-| B106 | A2: afrit 30 (Eindhoven Centrum) - Knp. De Hogt | 26 |   | JA |   |   |
-| B72 | A2/A67: Knp. De Hogt - afrit 33 (Waalre) | 33 |   | JA |   |   |
-| B104 | A2/A67: afrit 33 (Waalre) - Knp. Leenderheide | 43 |   | JA |   |   |
-| B64 | A2: Knp. Leenderheide - afrit 34 (Valkenswaard) | 0 | 82 | JA |   |   |
-| B65 | A2: afrit 34 (Valkenswaard) - afrit 39 (Nederweert) | 0 | 82 | JA |   |   |
-| L38 | A2: afrit 39 (Nederweert) - afrit 40 (Kelpen) | 0 | 82 | JA |   |   |
-| L39 | A2: afrit 40 (Kelpen) - afrit 41 (Grathem) | 0 | 82 | JA |   |   |
-| L40 | A2: afrit 41 (Grathem) - afrit 44 (St. Joost) | 14 |   | JA |   |   |
-| L116 | A2: afrit 44 (St. Joost) - Knp. Het Vonderen | 14 |   | JA |   |   |
-| L41 | A2: Knp. Het Vonderen - afrit 45 (Echt) | 17 |   | JA |   |   |
-| L84 | A2: afrit 45 (Echt) - afrit 47 (Born) | 17 |   | JA |   |   |
-| L85 | A2: afrit 47 (Born) - afrit 48 (Urmond) | 17 |   | JA |   |   |
-| L86 | A2: afrit 48 (Urmond) - Knp. Kerensheide | 0 | 74 | JA |   |   |
-| L42 | A2: Knp. Kerensheide - afrit 50 (Maastricht-Aachen) | 0 | 74 | JA |   |   |
-| L43 | A2: afrit 50 (Maastricht-Aachen) - afrit 51 (Meerssen) | 0 | 74 | JA |   |   |
-| L44 | A2: afrit 51 (Meerssen) - Knp. Kruisdonk | 0 | 9 | JA |   |   |
-| L45 | A2: Knp. Kruisdonk - N2 (Pres. Rooseveltweg / Terblijterweg / Viaductweg) | 0 | 9 | JA |   |   |
-| L46 | N2: Pres. Rooseveltweg / Terblijterweg / Viaductweg - Pres. Rooseveltlaan / Scharnerweg / Wilhelminasingel | 0 | 0 | JA |   | Wt binnen bebouwde kom |
-| L47 | N2: Pres. Rooseveltlaan / Scharnerweg / Wilhelminasingel - Knp. Europaplein | 0 | 0 | JA |   | Wt binnen bebouwde kom |
-| L48 | A2: Knp. Europaplein - afrit 58 (Eijsden) | 0 | 9 | JA |   |   |
-| L92 | A2: afrit 58 (Eijsden) - Grens België | 0 | 9 | JA |   |   |
-|   | **Rijksweg N3** | **Rijksweg N3** | **Rijksweg N3** | **Rijksweg N3** | **Rijksweg N3** | **Rijksweg N3** |
-| Z98 | N3: A15 - Burg. Keijzerweg (Papendrecht) | 32 |   | JA |   | Snelweg met verhoogde ongevalfrequentie |
-| Z115 | N3: Burg. Keijzerweg (Papendrecht) - Baanhoekweg / Merwedestraat (Dordrecht) | 33 |   | JA |   | Snelweg met verhoogde ongevalfrequentie |
-| Z97 | N3: Baanhoekweg / Merwedestraat (Dordrecht) - A16 | 47 |   | JA |   | Snelweg met verhoogde ongevalfrequentie |
-|   | **Rijksweg A4** | **Rijksweg A4** | **Rijksweg A4** | **Rijksweg A4** | **Rijksweg A4** | **Rijksweg A4** |
-| N6 | A4: Knp. De Nieuwe Meer - Knp. Badhoevedorp | 0 | 74 | JA |   |   |
-| N87 | A4: Knp. Badhoevedorp - Knp. De Hoek (incl. Schipholtunnel) | 0 | 74 | JA |   | Tc A |
-| N7 | A4: Knp. De Hoek - afrit 3 (Hoofddorp) | 0 | 74 | JA |   |   |
-| N84 | A4: afrit 3 (Hoofddorp) - afrit 4 (Nieuw Vennep) | 0 | 82 | JA |   |   |
-| N85 | A4: afrit 4 (Nieuw Vennep) - Knp. Burgerveen | 0 | 82 | JA |   |   |
-| Z6 | A4: Knp. Burgerveen - afrit 6a (Zoeterwoude Rijndijk) | 0 | 65 | JA |   |   |
-| Z118 | A4: afrit 6a (Zoeterwoude Rijndijk) - afrit 7 (Zoeterwoude Dorp) | 12 |   | JA |   |   |
-| Z7 | A4: afrit 7 (Zoeterwoude Dorp) - Knp. Prins Clausplein | 13 |   | JA |   |   |
-| Z8 | A4: Knp. Prins Clausplein - Knp. Ypenburg | 23 |   | JA |   |   |
-| Z9 | A4: Knp. Ypenburg - afrit 12 (Den Haag Zuid) | 0 | 9 | NEE |   |   |
-| Z10 | A4: afrit 12 (Den Haag Zuid) - afrit 13 (Den Hoorn) | 0 | 9 | NEE |   |   |
-| Z33 | A4: afrit 13 (Den Hoorn) - afrit 14 (Delft) | 0 | 0 | NEE |   |   |
-| Z46 | A4: Knp. Kethelplein - afrit 16 (Vlaardingen Oost) | 23 |   | JA |   |   |
-| Z11 | A4: afrit 16 (Vlaardingen Oost) - Knp. Benelux (incl. Beneluxtunnel) | 23 |   | JA |   | Tc C |
-| B24 | A4 & N259 = Randweg Noord & Randweg Oost (Bergen op Zoom): Halsterseweg / Randweg Noord / Randweg West - A4 / A58 (knooppunt Zoomland) | 0 | 9 | NEE |   |   |
-| B1 | A4 / A58: Knp. Zoomland - afrit 30 (Hoogerheide) | 25 |   | JA |   |   |
-| B127 | A4 / A58: afrit 30 (Hoogerheide) - Knp. Markiezaat | 30 |   | JA |   |   |
-| B35 | A4: Knp. Markiezaat - Grens België | 22 |   | JA |   |   |
-|   | **Rijksweg A5** | **Rijksweg A5** | **Rijksweg A5** | **Rijksweg A5** | **Rijksweg A5** | **Rijksweg A5** |
-| N90 | A5: Knp. Raasdorp - Knp. De Hoek | 0 | 74 | JA |   |   |
-|   | **Rijksweg A6** | **Rijksweg A6** | **Rijksweg A6** | **Rijksweg A6** | **Rijksweg A6** | **Rijksweg A6** |
-| F1 | A6: Knp. Muiderberg - afrit 3 (Almere Stad West) | 0 | 74 | NEE |   |   |
-| F39 | A6: afrit 3 (Almere Stad West) - afrit 5 (Almere Stad) | 0 | 74 | NEE |   |   |
-| F41 | A6: afrit 5 (Almere Stad) - afrit 6 (Almere Buiten West) | 0 | 74 | NEE |   |   |
-| F56 | A6: afrit 6 (Almere Buiten West) - Knp. Almere | 0 | 74 | NEE |   |   |
-| F42 | A6: Knp. Almere - afrit 8 (Almere Buiten Oost) | 0 | 82 | NEE |   |   |
-| F34 | A6: afrit 8 (Almere Buiten Oost) - afrit 10 (Lelystad) | 0 | 82 | NEE |   |   |
-| F35 | A6: afrit 10 (Lelystad) - afrit 11 (Lelystad Noord) | 0 | 82 | NEE |   |   |
-| F36 | A6: afrit 11 (Lelystad Noord) - afrit 13 (Urk) | 0 | 82 | NEE |   |   |
-| F37 | A6: afrit 13 (Urk) - afrit 14 (Emmeloord) | 0 | 82 | NEE |   |   |
-| F38 | A6: afrit 14 (Emmeloord) - Knp. Emmeloord | 0 | 82 | NEE |   |   |
-| F47 | A6: Knp. Emmeloord - afrit 15 (De Munt) | 0 | 74 | NEE |   |   |
-| F2 | A6: afrit 15 (De Munt) - Knp. Joure | 0 | 74 | NEE |   |   |
-|   | **Rijksweg A7/N7** | **Rijksweg A7/N7** | **Rijksweg A7/N7** | **Rijksweg A7/N7** | **Rijksweg A7/N7** | **Rijksweg A7/N7** |
-| N33 | A7: Knp. Zaandam - afrit 6 (Purmerend Noord) | 0 | 82 | JA |   |   |
-| N34 | A7: afrit 6 (Purmerend Noord) - afrit 7 (Avenhorn) | 0 | 74 | NEE |   |   |
-| N82 | A7: afrit 7 (Avenhorn) - afrit 8 (Hoorn) | 0 | 74 | NEE |   |   |
-| N81 | A7: afrit 8 (Hoorn) - afrit 9 (Hoorn Noord) | 0 | 48 | NEE |   |   |
-| N108 | A7: afrit 9 (Hoorn Noord) - afrit 12 (Middenmeer) | 0 | 48 | NEE |   |   |
-| N35 | A7: afrit 12 (Middenmeer) - afrit 13 (Wieringerwerf) | 0 | 48 | NEE |   |   |
-| N80 | A7: afrit 13 (Wieringerwerf) - afrit 14 (Den Oever) | 0 | 48 | NEE |   |   |
-| Fr30 | A7: afrit 14 (Den Oever) - Knp. Zurich | 0 | 9 | NEE |   |   |
-| Fr6 | A7: Knp. Zurich - N7 (Stadsrondweg Zuid Sneek) | 0 | 9 | NEE |   |   |
-| Fr5 | N7: Stadsrondweg Zuid Sneek | 0 | 9 | NEE |   |   |
-| Fr4 | A7: N7/A7 Sneek - Knp. Joure | 0 | 9 | NEE |   |   |
-| Fr3 | A7: Knp. Joure - Knp. Heerenveen | 0 | 74 | NEE |   |   |
-| Fr2 | A7: Knp. Heerenveen - afrit 29 (De Haven) | 0 | 74 | NEE |   |   |
-| Fr33 | A7: afrit 29 (De Haven) - Knp. Drachten | 0 | 74 | NEE |   |   |
-| Gr1 | A7: Knp. Drachten - afrit 36 (Groningen West) | 0 | 48 | NEE |   |   |
-| Gr31 | A7: afrit 36 (Groningen West) - Knp. Julianaplein | 0 | 48 | NEE |   |   |
-| Gr30 | A7: Knp. Julianaplein - Knp. Europaplein | 12 |   | NEE |   | Wt buiten bebouwde kom |
-| Gr2 | A7: Knp. Europaplein - afrit 44 (Veendam) | 0 | 48 | NEE |   |   |
-| Gr3 | A7: afrit 44 (Veendam) - afrit 45 (Scheemda) | 0 | 9 | NEE |   |   |
-| Gr29 | A7: afrit 45 (Scheemda) - Grens Duitsland | 0 | 9 | NEE |   |   |
-|   | **Rijksweg A8** | **Rijksweg A8** | **Rijksweg A8** | **Rijksweg A8** | **Rijksweg A8** | **Rijksweg A8** |
-| N31 | A8: Knp. Coenplein - afrit 1 (Oostzaan) | 0 | 0 | JA |   |   |
-| N91 | A8: afrit 1 (Oostzaan) - Knp. Zaandam | 0 | 82 | JA |   |   |
-| N99 | A8: Knp. Zaandam - afrit 2 (Zaandijk) | 0 | 48 | NEE |   |   |
-| N32 | A8: afrit 2 (Zaandijk) - N246 | 0 | 48 | NEE |   |   |
-|   | **Rijksweg A9/N9** | **Rijksweg A9/N9** | **Rijksweg A9/N9** | **Rijksweg A9/N9** | **Rijksweg A9/N9** | **Rijksweg A9/N9** |
-| N29 | N9: N250 (De Kooy) - N503 (bij Schagerbrug) | 0 | 0 | NEE |   |   |
-| N28 | N9: N503 (bij Schagerbrug) - Ringweg Alkmaar (Huiswaarderweg) | 0 | 0 | NEE |   |   |
-| N27 | N9: Huiswaarderweg - Vkp. Kooimeer | 0 | 0 | NEE |   |   |
-| N26 | A9: Vkp. Kooimeer - afrit 10 (Castricum) | 0 | 48 | NEE |   |   |
-| N25 | A9: afrit 10 (Castricum) - Knp. Beverwijk | 0 | 48 | NEE |   |   |
-| N8 | A9: Knp. Beverwijk - afrit 8 (Beverwijk) | 0 | 48 | NEE |   |   |
-| N24 | A9: afrit 8 (Beverwijk) - Knp. Velsen (incl. Wijkertunnel) | 0 | 26 | NEE |   | Tc C |
-| N23 | A9: Knp. Velsen - Knp. Rottepolderplein | 0 | 74 | NEE |   |   |
-| N22 | A9: Knp. Rottepolderplein - Knp. Raasdorp | 0 | 82 | JA |   |   |
-| N88 | A9: Knp. Raasdorp - Knp. Badhoevedorp | 0 | 74 | JA |   |   |
-| N86 | A9: Knp. Badhoevedorp - afrit 5 (Amstelveen) | 0 | 74 | JA |   |   |
-| N21 | A9: afrit 5 (Amstelveen) - Knp. Holendrecht 2 | 0 | 74 | JA |   |   |
-|   | A2/A9: Knp. Holendrecht 2 - Knp. Holendrecht 1 |   |   |   |   | Zie wegvak N5 bij Rijksweg A2 |
-| N20 | A9: Knp. Holendrecht 1 - afrit 1 (S113, Gaasperplas) | 0 | 74 | JA |   |   |
-| N107 | A9: afrit 1 (S113, Gaasperplas) - Knp. Diemen | 0 | 74 | JA |   |   |
-|   | **Rijksweg A10** | **Rijksweg A10** | **Rijksweg A10** | **Rijksweg A10** | **Rijksweg A10** | **Rijksweg A10** |
-| N15 | A10: Knp. Coenplein - afrit S101 (Westpoort 2000-3000) (incl. Coentunnel) | 0 | 9 | JA |   | Tc C |
-| N98 | A10: afrit S101 (Westpoort 2000-3000) - afrit S102 (Westpoort 3000-9000) | 0 | 9 | JA |   |   |
-| N14 | A10: afrit S102 (Westpoort 3000-9000) - afrit S103 (Haarlem) | 0 | 32 | JA |   |   |
-| N13 | A10: afrit S103 (Haarlem) - Knp. De Nieuwe Meer | 0 | 72 | JA |   |   |
-| N12 | A10: Knp. De Nieuwe Meer - Knp. Amstel | 0 | 81 | JA |   | P-H |
-| N11 | A10: Knp. Amstel - Knp. Watergraafsmeer | 0 | 69 | JA |   |   |
-| N10 | A10: Knp. Watergraafsmeer - afrit S114 (Zeeburg) | 0 | 70 | JA |   |   |
-| N18 | A10: afrit S114 (Zeeburg) - afrit S115 (Nieuwendam) (incl. Zeeburgertunnel) | 0 | 23 | JA |   | Tc C |
-| N19 | Omleidingsroute Zeeburgertunnel via Zuiderzeeweg | 0 | 66 | NEE |   | Omleidingsroute (Wt binnen bebouwde kom) |
-| N17 | A10: afrit S115 (Nieuwendam) - afrit S116 (Volendam) | 0 | 82 | JA |   |   |
-| N16 | A10: afrit S116 (Volendam) - Knp. Coenplein | 0 | 82 | JA |   |   |
-|   | **Rijksweg N11** | **Rijksweg N11** | **Rijksweg N11** | **Rijksweg N11** | **Rijksweg N11** | **Rijksweg N11** |
-| Z22 | N11: A4 - afrit N209 (Hazerswoude Rijndijk) | 0 | 48 | NEE |   |   |
-| Z119 | N11: afrit N209 (Hazerswoude Rijndijk) - afrit N207 (Alphen aan den Rijn) | 0 | 48 | NEE |   |   |
-| Z21 | N11: afrit N207 (Alphen aan den Rijn) - afrit N458 (Bodegraven) | 0 | 48 | NEE |   |   |
-| Z20 | N11: afrit N458 (Bodegraven) - A12 | 0 | 48 | NEE |   |   |
-|   | **Rijksweg A12** | **Rijksweg A12** | **Rijksweg A12** | **Rijksweg A12** | **Rijksweg A12** | **Rijksweg A12** |
-| Z16b | A12: afrit 3 (Bezuidenhout) - afrit 4 (Voorburg) | 0 | 9 | NEE |   |   |
-| Z16a | A12: afrit 4 (Voorburg) - knp. Prins Clausplein | 0 | 48 | NEE |   |   |
-| Z17 | A12: Knp. Prins Clausplein - afrit 7 (Zoetermeer) | 0 | 48 | NEE |   |   |
-| Z124 | A12: afrit 7 (Zoetermeer) - afrit 9 (Zevenhuizen) | 0 | 48 | NEE |   |   |
-| Z135 | A12: afrit 9 (Zevenhuizen) - Knp. Gouwe | 0 | 48 | NEE |   |   |
-| Z18 | A12: Knp. Gouwe - afrit 11 (Gouda) | 26 |   | JA |   |   |
-| Z137 | A12: afrit 11 (Gouda) - afrit 12a (Bodegraven) | 26 |   | JA |   |   |
-| Z19 | A12: afrit 12a (Bodegraven) - afrit 14 (Woerden) | 26 |   | JA |   |   |
-| U85 | A12: afrit 14 (Woerden) - afrit 15 (De Meern) | 26 |   | JA |   |   |
-| U86 | A12: afrit 15 (De Meern) - Knp. Oudenrijn | 28 |   | JA |   |   |
-| U9 | A12: Knp. Oudenrijn - afrit 18 (Hoograven) | 25 |   | JA |   |   |
-| U93 | A12: afrit 18 (Hoograven) - Knp. Lunetten | 23 |   | JA |   |   |
-| U10 | A12: Knp. Lunetten - afrit 19 (Bunnik) | 0 | 82 | JA |   |   |
-| U94 | A12: afrit 19 (Bunnik) - afrit 20 (Driebergen) | 0 | 82 | JA |   |   |
-| U79 | A12: afrit 20 (Driebergen) - afrit 21 (Maarn) | 0 | 82 | JA |   |   |
-| U80 | A12: afrit 21 (Maarn) - afrit 22 (Maarsbergen) | 0 | 82 | JA |   |   |
-| U11 | A12: afrit 22 (Maarsbergen) - afrit 23 (Veenendaal) | 0 | 82 | JA |   |   |
-| G8 | A12: afrit 23 (Veenendaal) - Knp. Maanderbroek | 0 | 82 | JA |   |   |
-| G66 | A12: Knp. Maanderbroek - afrit 24 (Wageningen) | 0 | 82 | JA |   |   |
-| G9 | A12: afrit 24 (Wageningen) - Knp. Grijsoord | 0 | 82 | JA |   |   |
-| G10 | A12/A50: Knp. Grijsoord - Knp. Waterberg | 21 |   | JA |   |   |
-| G11 | A12: Knp. Waterberg - Knp. Velperbroek | 16 |   | JA |   |   |
-| G12 | A12: Knp. Velperbroek - Knp. Oud-Dijk | 1 | 82 | JA |   |   |
-| G13 | A12: Knp. Oud-Dijk - Grens Duitsland | 1 | 74 | JA |   |   |
-|   | **Rijksweg A13** | **Rijksweg A13** | **Rijksweg A13** | **Rijksweg A13** | **Rijksweg A13** | **Rijksweg A13** |
-| Z29 | A13: Knp. Ypenburg - afrit 9 (Delft) | 17 |   | JA |   |   |
-| Z113 | A13: afrit 9 (Delft) - afrit 10 (Delft Zuid) | 17 |   | JA |   |   |
-| Z30 | A13: afrit 10 (Delft Zuid) - afrit 11 (Berkel en Rodenrijs) | 16 |   | JA |   |   |
-| Z114 | A13: afrit 11 (Berkel en Rodenrijs) - Knp. Kleinpolderplein | 6 |   | JA |   |   |
-|   | **Rijksweg N14** | **Rijksweg N14** | **Rijksweg N14** | **Rijksweg N14** | **Rijksweg N14** | **Rijksweg N14** |
-| Z53 | N14: A4 afrit 8 Leidschendam - N44 Wassenaar (incl. Sytwendetunnel) | 0 | 19 | NEE |   | Tc C (Wt buiten bebouwde kom) |
-|   | **Rijksweg A15/N15** | **Rijksweg A15/N15** | **Rijksweg A15/N15** | **Rijksweg A15/N15** | **Rijksweg A15/N15** | **Rijksweg A15/N15** |
-| Z65 | N15: Maasvlakte - afrit 10 | 16 |   | JA |   |   |
-| Z66 | N15: afrit 10 - afrit 12 (Brielle) | 40 |   | JA |   |   |
-| Z47 | N15: afrit 12 (Brielle) - afrit 13 (Rozenburg) (incl. Thomassentunnel) | 15 |   | JA |   | Tc C |
-| Z148 | A15: omleidingsroute Thomassentunnel | 27 |   | NEE |   | Omleidingsroute |
-| Z126 | N15: afrit 13 (Rozenburg) - afrit 15 (Havens) | 49 |   | JA |   |   |
-| Z67 | A15: afrit 15 (Havens) - afrit 16 (Spijkenisse) | 51 |   | JA |   |   |
-| Z69 | A15: afrit 16 (Spijkenisse) - afrit 17 (Hoogvliet) (incl. Botlektunnel) | 0 | 30 | JA |   | Tc D |
-| Z68 | Omleidingsroute Botlektunnel via Botlekbrug | 72 |   | NEE |   | Omleidingsroute (Wt binnen bebouwde kom) |
-| Z70 | A15: afrit 17 (Hoogvliet) - Knp. Benelux | 74 |   | JA |   |   |
-| Z71 | A15: Knp. Benelux - afrit 18 (Pernis) | 80 |   | JA |   |   |
-| Z72 | A15: afrit 18 (Pernis) - afrit 19 (Rotterdam Charlois) | 80 |   | JA |   |   |
-| Z73 | A15: afrit 19 (Rotterdam Charlois) - Knp. Vaanplein | 80 |   | JA |   |   |
-| Z74 | A15: Knp. Vaanplein - Knp. Ridderkerk Noord | 80 |   | JA |   |   |
-| Z55 | A15/A16: Knp. Ridderkerk Noord - Knp. Ridderkerk Zuid | 66 |   | JA |   |   |
-| Z75 | A15: Knp. Ridderkerk Zuid - afrit 21 (Hendrik Ido Ambacht) | 63 |   | JA |   |   |
-| Z76 | A15: afrit 21 (Hendrik Ido Ambacht) - afrit 22 (Alblasserdam) (incl. Noordtunnel) | 13 |   | JA |   | Tc C |
-| Z77a | Omleidingsroute Noordtunnel in oostelijke richting van A15 afrit 21 tot hm-paal 22.1 op de N915 | 15 |   | NEE |   | Omleidingsroute (Wt binnen bebouwde kom) |
-| Z77b | Omleidingsroute Noordtunnel van A15 afrit 21 tot A15 afrit 22 m.u.v. wegvak Z77a | 93 |   | NEE |   | Omleidingsroute (Wt buiten bebouwde kom) |
-| Z78 | A15: afrit 22 (Alblasserdam) - afrit 23 (Papendrecht/N3) | 68 |   | JA |   |   |
-| Z79 | A15: afrit 23 (Papendrecht/N3) - afrit 27 (Gorinchem) | 46 |   | JA |   |   |
-| Z80 | A15: afrit 27 (Gorinchem) - Knp. Gorinchem | 41 |   | JA |   |   |
-| G14 | A15: Knp. Gorinchem - Knp. Deil | 32 |   | JA |   |   |
-| G15 | A15: Knp. Deil - afrit 33 (Tiel) | 26 |   | JA |   |   |
-| G78 | A15: afrit 33 (Tiel) - afrit 34 (Echteld) | 38 |   | JA |   |   |
-| G16 | A15: afrit 34 (Echteld) - Knp. Valburg | 30 |   | JA |   |   |
-| G17 | A15: Knp. Valburg - Knp. Ressen | 8 |   | JA |   |   |
-|   | **Rijksweg A16** | **Rijksweg A16** | **Rijksweg A16** | **Rijksweg A16** | **Rijksweg A16** | **Rijksweg A16** |
-| Z54 | A16: Knp. Terbregseplein - afrit 25 (Rotterdam Centrum) | 38 |   | JA |   |   |
-| Z134 | A16: afrit 25 (Rotterdam Centrum) - Knp. Ridderkerk Noord | 58 |   | JA |   |   |
-|   | A15/A16: Knp. Ridderkerk Noord - Knp. Ridderkerk Zuid |   |   |   |   | Zie wegvak Z55 bij Rijksweg A15 |
-| Z181 | A16: Knp. Ridderkerk Zuid - afrit 22 (Zwijndrecht) | 26 |   | JA |   |   |
-| Z56 | A16: afrit 22 (Zwijndrecht) - afrit 21 (Dordrecht) (incl. Drechttunnel) | 26 |   | JA |   | Tc C |
-| Z57 | A16: afrit 21 (Dordrecht) - afrit 20 (Randweg Dordrecht) | 22 |   | JA |   |   |
-| Z58 | A16: afrit 20 (Randweg Dordrecht) - Knp. Klaverpolder | 45 |   | JA |   |   |
-| B37 | A16: Knp. Klaverpolder - Knp. Zonzeel | 33 |   | JA |   |   |
-| B38 | A16: Knp. Zonzeel - afrit 17 (Prinsenbeek) | 28 |   | JA |   |   |
-| B39 | A16: afrit 17 (Prinsenbeek) - Knp. Princeville | 33 |   | JA |   |   |
-| B40 | A16/A58: Knp. Princeville - afrit 15 (Rijsbergen) | 26 |   | JA |   |   |
-| B116 | A16/A58: afrit 15 (Rijsbergen) - Knp. Galder | 30 |   | JA |   |   |
-| B108 | A16: Knp. Galder - Grens België | 8 |   | JA |   |   |
-|   | **Rijksweg A17** | **Rijksweg A17** | **Rijksweg A17** | **Rijksweg A17** | **Rijksweg A17** | **Rijksweg A17** |
-| B11 | A17: Knp. Klaverpolder - afrit 26 (Industrie Moerdijk) | 27 |   | JA |   |   |
-| B12 | A17: afrit 26 (Industrie Moerdijk) - afrit 25 (Zevenbergen) | 16 |   | JA |   |   |
-| B100 | A17: afrit 25 (Zevenbergen) - Knp. Noordhoek | 20 |   | JA |   |   |
-| B13 | A17: Knp. Noordhoek - afrit 21 (Roosendaal Noord) | 17 |   | JA |   |   |
-| B99 | A17: afrit 21 (Roosendaal Noord) - Knp. De Stok | 19 |   | JA |   |   |
-|   | **Rijksweg A18/N18** | **Rijksweg A18/N18** | **Rijksweg A18/N18** | **Rijksweg A18/N18** | **Rijksweg A18/N18** | **Rijksweg A18/N18** |
-| G18 | A18: Knp. Oud-Dijk - afrit 4 (Doetinchem Oost) | 0 | 82 | NEE |   |   |
-| G19 | A18: afrit 4 (Doetinchem Oost) - afrit 5 (Varsseveld) | 0 | 82 | NEE |   |   |
-| G20 | N18: afrit 5 (Varsseveld) - afrit N319 (Groenlo) | 0 | 9 | NEE |   |   |
-| G21 | N18: afrit N319 (Groenlo) - afrit N822 (Eibergen) | 0 | 9 | NEE |   |   |
-| G22 | N18: afrit N822 (Eibergen) - afrit N347 (Haaksbergen) | 0 | 9 | NEE |   |   |
-| O35 | N18: afrit N347 (Haaksbergen) - A35 | 0 | 9 | NEE |   |   |
-|   | **Rijksweg A20** | **Rijksweg A20** | **Rijksweg A20** | **Rijksweg A20** | **Rijksweg A20** | **Rijksweg A20** |
-| Z122 | A20: afrit N223 (bij Maasdijk) - afrit 6 (Maasdijk) | 0 | 9 | NEE |   |   |
-| Z48 | A20: afrit 6 (Maasdijk) - Knp. Kethelplein | 0 | 9 | NEE |   |   |
-| Z49 | A20: Knp. Kethelplein - Knp. Kleinpolderplein | 20 |   | JA |   |   |
-| Z50 | A20: Knp. Kleinpolderplein - afrit 14 (Rotterdam Centrum) | 10 |   | JA |   |   |
-| Z125 | A20: afrit 14 (Rotterdam Centrum) - Knp. Terbregseplein | 11 |   | JA |   |   |
-| Z51 | A20: Knp. Terbregseplein - afrit 17 (Nieuwerkerk aan de Yssel) | 32 |   | JA |   |   |
-| Z136 | A20: afrit 17 (Nieuwerkerk aan de Yssel) - Knp. Gouwe | 22 |   | JA |   |   |
-|   | **Rijksweg A22** | **Rijksweg A22** | **Rijksweg A22** | **Rijksweg A22** | **Rijksweg A22** | **Rijksweg A22** |
-| N83 | A22: Knp. Beverwijk - afrit Beverwiijk | 0 | 48 | NEE |   |   |
-| N93 | A22: afrit Beverwiijk - afrit IJmuiden (incl. Velsertunnel) | 0 | 16 | NEE |   | Tc D |
-| N89 | A22: afrit IJmuiden - Knp. Velsen | 0 | 74 | NEE |   |   |
-|   | **Rijksweg A27** | **Rijksweg A27** | **Rijksweg A27** | **Rijksweg A27** | **Rijksweg A27** | **Rijksweg A27** |
-| F3 | A27: Knp. Almere - afrit 36 (Almere Stad) | 0 | 82 | NEE |   |   |
-| F43 | A27: afrit 36 (Almere Stad) - Knp. Eemnes | 0 | 82 | NEE |   |   |
-| N67 | A27: Knp. Eemnes - afrit 33 (Hilversum) | 0 | 82 | JA |   |   |
-| N97 | A27: afrit 33 (Hilversum) - afrit 32 (Bilthoven) | 0 | 82 | JA |   |   |
-| U87 | A27: afrit 32 (Bilthoven) - afrit 31 (Ring Utrecht Noord) | 0 | 82 | JA |   |   |
-| U89 | A27: afrit 31 (Ring Utrecht Noord) - Knp. Rijnsweerd | 0 | 82 | JA |   |   |
-| U6 | A27: Knp. Rijnsweerd - Knp. Lunetten | 23 |   | JA |   |   |
-| U7 | A27: Knp. Lunetten - Knp. Everdingen | 10 |   | JA |   |   |
-| Z128 | A27: Knp. Everdingen - afrit 25 (Noordeloos) | 16 |   | JA |   |   |
-| Z100 | A27: afrit 25 (Noordeloos) - Knp. Gorinchem | 14 |   | JA |   |   |
-| Z99 | A27: Knp. Gorinchem - afrit 24 (Avelingen) | 16 |   | JA |   |   |
-| B41 | A27: afrit 24 (Avelingen) - Knp. Hooipolder | 12 |   | JA |   |   |
-| B134 | A27: Knp. Hooipolder - afrit 19 (Oosterhout) | 0 | 74 | JA |   |   |
-| B42 | A27: afrit 19 (Oosterhout) - afrit 16 (Breda Noord) | 0 | 82 | JA |   |   |
-| B109 | A27: afrit 16 (Breda Noord) - afrit 15 (Breda) | 0 | 82 | JA |   |   |
-| B110 | A27: afrit 15 (Breda) - Knp. Annabosch | 0 | 82 | JA |   |   |
-| B101 | A27/A58: Knp. Annabosch - afrit 14 (Ulvenhout) | 23 |   | JA |   |   |
-| B4 | A27/A58: afrit 14 (Ulvenhout) - Knp. Galder | 24 |   | JA |   |   |
-|   | **Rijksweg A28** | **Rijksweg A28** | **Rijksweg A28** | **Rijksweg A28** | **Rijksweg A28** | **Rijksweg A28** |
-| D5 | A28: Knp. Julianaplein - afrit 36 (Zuidlaren) | 0 | 48 | JA |   |   |
-| D26 | A28: afrit 36 (Zuidlaren) - afrit 34 (Assen Noord) | 0 | 48 | JA |   |   |
-| D4 | A28: afrit 34 (Assen Noord) - afrit 32 (Assen Zuid) | 0 | 74 | JA |   |   |
-| D3 | A28: afrit 32 (Assen Zuid) - afrit 31 (Westerbork) | 0 | 74 | JA |   |   |
-| D31 | A28: afrit 31 (Westerbork) - afrit 27 (Fluitenberg) | 0 | 74 | JA |   |   |
-| D29 | A28: afrit 27 (Fluitenberg) - Knp. Hoogeveen | 0 | 74 | JA |   |   |
-| D2 | A28: Knp. Hoogeveen - Knp. Lankhorst | 0 | 82 | JA |   |   |
-| O111 | A28: Knp. Lankhorst - afrit 22 (Nieuwleusen) | 18 |   | JA |   |   |
-| O12 | A28: afrit 22 (Nieuwleusen) - afrit 21 (Ommen) | 15 |   | JA |   |   |
-| O112 | A28: afrit 21 (Ommen) - afrit 20 (Zwolle Noord) | 13 |   | JA |   |   |
-| O11 | A28: afrit 20 (Zwolle Noord) - afrit 18 (Zwolle-Zuid) | 13 |   | JA |   |   |
-| O114 | A28: afrit 18 (Zwolle-Zuid) - Knp. Hattemerbroek | 13 |   | JA |   |   |
-| G62 | A28: Knp. Hattemerbroek - afrit 13 (Lelystad) | 0 | 82 | JA |   |   |
-| G61 | A28: afrit 13 (Lelystad) - afrit 12 (Ermelo) | 5 |   | JA |   |   |
-| G60 | A28: afrit 12 (Ermelo) - afrit 9 (Nijkerk) | 16 |   | JA |   |   |
-| G31 | A28: afrit 9 (Nijkerk) - Knp. Hoevelaken | 20 |   | JA |   |   |
-| U82 | A28: Knp. Hoevelaken - afrit 6 (Leusden Zuid) | 14 |   | JA |   |   |
-| U2 | A28: afrit 6 (Leusden Zuid) - afrit 5 (Maarn) | 14 |   | JA |   |   |
-| U3 | A28: afrit 5 (Maarn) - afrit 3 (Den Dolder) | 16 |   | JA |   |   |
-| U83 | A28: afrit 3 (Den Dolder) - Knp. Rijnsweerd | 13 |   | JA |   |   |
-|   | **Rijksweg A29** | **Rijksweg A29** | **Rijksweg A29** | **Rijksweg A29** | **Rijksweg A29** | **Rijksweg A29** |
-| Z182 | A29: Knp. Vaanplein - afrit 20 (Barendrecht) | 0 | 0 | JA |   |   |
-| Z88 | A29: afrit 20 (Barendrecht) - afrit 21 (Oud Beijerland) ( incl. Heinenoordtunnel) | 0 | 9 | JA |   | Tc D |
-| Z133 | A29: afrit 21 (Oud Beijerland) - Knp. Hellegatsplein | 0 | 9 | NEE |   |   |
-| B19 | A29/A59: Knp. Hellegatsplein - Knp. Sabina | 0 | 74 | NEE |   |   |
-| B20 | A29: Knp. Sabina - afrit 24 (Dinteloord) | 0 | 9 | NEE |   |   |
-|   | **Rijksweg A30** | **Rijksweg A30** | **Rijksweg A30** | **Rijksweg A30** | **Rijksweg A30** | **Rijksweg A30** |
-| G32 | A30: A1 - afrit 4 (Barneveld Zuid) | 0 | 82 | NEE |   |   |
-| G67 | A30: afrit 4 (Barneveld Zuid) - afrit 2 (Ede) | 0 | 82 | NEE |   |   |
-| G68 | A30: afrit 2 (Ede) - afrit 1 (Industriegebied Ede) | 0 | 82 | NEE |   |   |
-| G85 | A30: afrit 1 (Industriegebied Ede) - Knp. Maanderbroek | 0 | 82 | NEE |   |   |
-|   | **Rijksweg A31/N31** | **Rijksweg A31/N31** | **Rijksweg A31/N31** | **Rijksweg A31/N31** | **Rijksweg A31/N31** | **Rijksweg A31/N31** |
-| Fr8 | A31: Knp. Zurich - afrit 22 (Marssum) | 0 | 9 | NEE |   |   |
-| Fr9 | N31: afrit 22 (Marssum) - afrit N359 (Boksum) | 0 | 9 | NEE |   |   |
-| Fr10 | N31: afrit N359 (Boksum) - A32 (Leeuwarden) | 0 | 9 | NEE |   |   |
-| Fr11 | N31: A32 (Leeuwarden) - afrit N913 (Garijp) | 0 | 9 | NEE |   |   |
-| Fr37 | N31: afrit N913 (Garijp) - afrit N356 (Nijega) | 0 | 9 | NEE |   |   |
-| Fr32 | N31: afrit N356 (Nijega) - afrit N369 (Drachten) | 0 | 48 | NEE |   |   |
-| Fr36 | N31: afrit N369 (Drachten) - Knp. Drachten (A7) | 0 | 48 | NEE |   |   |
-|   | **Rijksweg A32** | **Rijksweg A32** | **Rijksweg A32** | **Rijksweg A32** | **Rijksweg A32** | **Rijksweg A32** |
-| Fr15 | A32: Leeuwarden - Knp. Heerenveen | 0 | 48 | NEE |   |   |
-| Fr31 | A32: Knp. Heerenveen - afrit 8 (Wolvega) | 0 | 48 | NEE |   |   |
-| O18 | A32: afrit 8 (Wolvega) - afrit 7 (Steenwijk Noord) | 0 | 74 | NEE |   |   |
-| O115 | A32: afrit 7 (Steenwijk Noord) - afrit 5 (Steenwijk Zuid) | 0 | 74 | NEE |   |   |
-| O116 | A32: afrit 5 (Steenwijk Zuid) - afrit 4 (Havelte) | 0 | 74 | NEE |   |   |
-| O19 | A32: afrit 4 (Havelte) - Knp. Lankhorst | 0 | 74 | NEE |   |   |
-|   | **Rijksweg N33** | **Rijksweg N33** | **Rijksweg N33** | **Rijksweg N33** | **Rijksweg N33** | **Rijksweg N33** |
-| Gr5 | N33: Eemshaven - afrit N997 (bij Holwierde) | 15 |   | JA |   | Wt buiten bebouwde kom |
-| Gr6 | N33: afrit N997 (bij Holwierde) - afrit N360 (Appingedam) | 15 |   | JA |   | Wt buiten bebouwde kom |
-| Gr7 | N33: afrit N360 (Appingedam) - afrit N362 (bij Opwierde) | 15 |   | JA |   | Wt buiten bebouwde kom |
-| Gr8 | N33: afrit N362 (bij Opwierde) - A7 | 20 |   | JA |   | Wt buiten bebouwde kom |
-| Gr9 | N33: A7 - afrit N366 (Veendam) | 20 |   | JA |   |   |
-| D15 | N33: afrit N366 (Veendam) - N34 (Gieten) | 20 |   | JA |   |   |
-| D14 | N33: N34 (Gieten) - A28 | 15 |   | JA |   |   |
-|   | **Rijksweg N34** | **Rijksweg N34** | **Rijksweg N34** | **Rijksweg N34** | **Rijksweg N34** | **Rijksweg N34** |
-| O95 | N34: N48 (Ommen) - afrit N347 (Ommen) | 0 | 73 | NEE |   | Wt buiten bebouwde kom |
-| O96 | N34: afrit N347 (Ommen) - N36 (bij Rheezerveen) | 0 | 73 | NEE |   | Wt buiten bebouwde kom |
-|   | **Rijksweg A35/N35** | **Rijksweg A35/N35** | **Rijksweg A35/N35** | **Rijksweg A35/N35** | **Rijksweg A35/N35** | **Rijksweg A35/N35** |
-| O59 | N35: (Zwolle) - afrit N348 (Raalte, Ommerweg) | 0 | 47 | NEE |   | Wt buiten bebouwde kom |
-| O62 | N35: N35 / Burg. H. Boersingel (Nijverdal) - afrit N350 (Wierden) | 0 | 47 | NEE |   | Wt buiten bebouwde kom |
-| O13 | N35: N35 / N350 (Wierden) - N35 / N36 (Wierden) | 0 | 73 | NEE |   | Wt buiten bebouwde kom |
-| O1 | N35: N35 / N36 (Wierden) - N35 / N349 (Almelo) | 0 | 73 | NEE |   | Wt buiten bebouwde kom |
-| O28 | A35: afrit N349 (Almelo) - Knp. Azelo | 0 | 48 | NEE |   |   |
-|   | A1/A35: Knp. Azelo - Knp. Buren |   |   |   |   | Zie wegvak O4 op Rijksweg A1 |
-| O22 | A35: Knp. Buren - afrit 28 (Delden) | 0 | 74 | NEE |   |   |
-| O128 | A35: afrit 28 (Delden) - afrit 27 (Ind. Twentekanaal) | 0 | 48 | NEE |   |   |
-| O23 | A35: afrit 27 (Ind. Twentekanaal) - afrit 26 (Enschede West) | 0 | 48 | NEE |   |   |
-| O24 | A35/N35: afrit 26 (Enschede West) - Grens Duitsland | 0 | 48 | NEE |   |   |
-|   | **Rijksweg N36** | **Rijksweg N36** | **Rijksweg N36** | **Rijksweg N36** | **Rijksweg N36** | **Rijksweg N36** |
-| O21 | N36: N48 - N34 (bij Rheezerveen) | 0 | 73 | NEE |   | Wt buiten bebouwde kom |
-| O40 | N36: N34 (bij Rheezerveen) - afrit N341 (Westerhaar-Vriezeveensewijk) | 0 | 73 | NEE |   | Wt buiten bebouwde kom |
-| O39 | N36: afrit N341 (Westerhaar-Vriezeveensewijk) - afrit N748 (Vriezenveen) | 0 | 73 | NEE |   | Wt buiten bebouwde kom |
-| O38 | N36: afrit N748 (Vriezenveen) - N750 (Almelo) | 0 | 73 | NEE |   | Wt buiten bebouwde kom |
-| O32 | N36 : N750 (Almelo) - N35 (Wierden) | 0 | 73 | NEE |   | Wt buiten bebouwde kom |
-|   | **Rijksweg A37/N37** | **Rijksweg A37/N37** | **Rijksweg A37/N37** | **Rijksweg A37/N37** | **Rijksweg A37/N37** | **Rijksweg A37/N37** |
-| D7 | A37: Knp. Hoogeveen - afrit 1 (Hoogeveen Oost) | 0 | 48 | NEE |   |   |
-| D30 | A37: afrit 1 (Hoogeveen Oost) - Knp. Holsloot | 0 | 48 | NEE |   |   |
-| D8 | N37: Knp. Holsloot - afrit N376 (bij Veenoord) | 0 | 48 | NEE |   |   |
-| D28 | N37: afrit N376 (bij Veenoord) - Duitse Grens | 0 | 48 | NEE |   |   |
-|   | **Rijksweg A44 / N44** | **Rijksweg A44 / N44** | **Rijksweg A44 / N44** | **Rijksweg A44 / N44** | **Rijksweg A44 / N44** | **Rijksweg A44 / N44** |
-| N9 | A44: Knp. Burgerveen - afrit 3 (Noordwijkerhout) | 0 | 74 | NEE |   |   |
-| Z1 | A44: afrit 3 (Noordwijkerhout) - afrit 8 (Leiden) | 0 | 74 | NEE |   |   |
-| Z2 | A44: afrit 8 (Leiden) - Wassenaar | 0 | 74 | NEE |   |   |
-| Z4 | N44: Wassenaar - kruising N14 | 0 | 77 | NEE |   | Wt buiten bebouwde kom |
-|   | **Rijksweg N48** | **Rijksweg N48** | **Rijksweg N48** | **Rijksweg N48** | **Rijksweg N48** | **Rijksweg N48** |
-| D6 | N48: Knp. Hoogeveen - afrit N377 (Balkbrug) | 0 | 47 | NEE |   | Wt buiten bebouwde kom |
-| O43/O118 | N48: afrit N377 (Balkbrug) - N34 (Ommen) | 0 | 47 | NEE |   | Wt buiten bebouwde kom |
-|   | **Rijksweg N50/A50** | **Rijksweg N50/A50** | **Rijksweg N50/A50** | **Rijksweg N50/A50** | **Rijksweg N50/A50** | **Rijksweg N50/A50** |
-| F26 | N50: Knp. Emmeloord - afrit N352 (Ens) | 0 | 48 | NEE |   |   |
-| O52 | N50: afrit N352 (Ens) - afrit N307 (Kampen) | 0 | 48 | NEE |   |   |
-| O123 | N50: afrit N307 (Kampen) - afrit N764 (Kampen) | 0 | 48 | NEE |   |   |
-| O124 | N50: afrit N764 (Kampen) - Knp. Hattemerbroek | 0 | 48 | NEE |   |   |
-| G3 | A50: Knp. Hattemerbroek - Knp. Beekbergen | 0 | 74 | JA |   |   |
-| G4 | A50: Knp. Beekbergen - Knp. Waterberg | 11 |   | JA |   |   |
-|   | A12/A50: Knp. Waterberg - Knp. Grijsoord |   |   |   |   | Zie Wegvak G10 op Rijksweg A12 |
-| G5 | A50: Knp. Grijsoord - Knp. Valburg | 9 |   | JA |   |   |
-| G6 | A50: Knp. Valburg - Knp. Ewijk | 18 |   | JA |   |   |
-| G65 | A50: Knp. Ewijk - Knp. Bankhoef | 0 | 74 | JA |   |   |
-| B79 | A50: Knp. Bankhoef - Knp. Paalgraven | 0 | 74 | JA |   |   |
-| B80 | A50: Knp. Paalgraven - afrit 14 (Zeeland) | 0 | 48 | NEE |   |   |
-| B86 | A50: afrit 14 (Zeeland) - afrit 13 (Volkel) | 0 | 48 | NEE |   |   |
-| B139 | A50: afrit 13 (Volkel) - afrit 12 (Veghel Noord) | 0 | 48 | NEE |   |   |
-| B87 | A50: afrit 12 (Veghel Noord) - afrit 11 (Veghel) | 0 | 48 | NEE |   |   |
-| B81 | A50: afrit 11 (Veghel) - afrit 10 (Eerde) | 0 | 48 | NEE |   |   |
-| B132 | A50: afrit 10 (Eerde) - A58 (Eindhoven) | 0 | 48 | NEE |   |   |
-|   | **Rijksweg N57** | **Rijksweg N57** | **Rijksweg N57** | **Rijksweg N57** | **Rijksweg N57** | **Rijksweg N57** |
-| Z89 | N57: A15 - afrit N218 (bij Zwartewaal) | 0 | 83 | NEE |   |   |
-| Z90 | N57: afrit N218 (bij Zwartewaal) - afrit N495 (Nieuwehoorn) | 12 |   | NEE |   | Wt buiten bebouwde kom |
-| Z91 | N57: afrit N495 (Nieuwehoorn) - afrit N215 (Stellendam) | 10 |   | NEE |   | Wt buiten bebouwde kom |
-| Ze11 | N57: afrit N215 (Stellendam) - N59 | 5 |   | NEE |   | Wt buiten bebouwde kom |
-| Ze47 | N57: N59 - afrit N255 (bij Kamperland) | 0 | 73 | NEE |   | Wt buiten bebouwde kom |
-| Ze48 | N57: afrit N255 (bij Kamperland) - afrit N287 (Serooskerke) | 0 | 73 | NEE |   | Wt buiten bebouwde kom |
-| Ze12 | N57: afrit N287 (Serooskerke) - Middelburg | 0 | 73 | NEE |   | Wt buiten bebouwde kom |
-|   | **Rijksweg A58** | **Rijksweg A58** | **Rijksweg A58** | **Rijksweg A58** | **Rijksweg A58** | **Rijksweg A58** |
-| Ze4 | A58: N288 - afrit 39 (Middelburg) | 0 | 0 | NEE |   |   |
-| Ze8 | A58: afrit 39 (Middelburg) - afrit 38 (Arnestein) | 0 | 0 | NEE |   |   |
-| Ze49 | A58: afrit 38 (Arnestein) - afrit 36 (Heinkenszand) | 0 | 0 | JA |   |   |
-| Ze50 | A58: afrit 36 (Heinkenszand) - Knp. De Poel | 5 |   | JA |   |   |
-| Ze9 | A58: Knp. De Poel - afrit 35 ('s Gravenpolder) | 0 | 82 | JA |   |   |
-| Ze51 | A58: afrit 35 ('s Gravenpolder) - afrit 33 (Yerseke) (incl. Vlaketunnel) | 0 | 25 | JA |   | Tc C |
-| Ze43 | Omleidingsroute Vlaketunnel (A58): Oude Rijksweg | 19 |   | NEE |   | Omleidingsroute tunnel (Wt buiten bebouwde kom) |
-| Ze52 | A58: afrit 33 (Yerseke) - afrit 32 (Kruiningen) | 0 | 82 | JA |   |   |
-| Ze10 | A58: afrit 32 (Kruiningen) - Knp. Markiezaat | 0 | 82 | JA |   |   |
-|   | A4/A58: Knp. Markiezaat - Knp. Zoomland |   |   |   |   | Zie wegvakken B1 en B127 op Rijksweg A4 |
-| B2 | A58: Knp. Zoomland - Knp. De Stok | 29 |   | JA |   |   |
-| B3 | A58: Knp. De Stok - afrit 24 (Roosendaal) | 0 | 82 | JA |   |   |
-| B114 | A58: afrit 24 (Roosendaal) - afrit 19 (Industriegebied Vosdonk) | 0 | 82 | JA |   |   |
-| B136 | A58: afrit 19 (Industriegebied Vosdonk) - afrit 18 (Etten-Leur) | 0 | 82 | JA |   |   |
-| B129 | A58: afrit 18 (Etten-Leur) - Knp. Princeville | 0 | 82 | JA |   |   |
-|   | A16/A58 Knp. Princeville - A27/A58 Knp. Annabosch |   |   |   |   | Zie Wegvakken B40 en B116 op Rijksweg A16 en Wegvakken B4 en B101 op Rijksweg A27 |
-| B5 | A58: Knp. Annabosch - afrit 12 (Gilze) | 21 |   | JA |   |   |
-| B113 | A58: afrit 12 (Gilze) - afrit 11 (Goirle) | 23 |   | JA |   |   |
-| B111 | A58: afrit 11 (Goirle) - afrit 10 (Hilvarenbeek) | 24 |   | JA |   |   |
-| B120 | A58: afrit 10 (Hilvarenbeek) - Knp. De Baars | 19 |   | JA |   |   |
-| B6 | A58: Knp. De Baars - afrit 8 (Oirschot) | 16 |   | JA |   |   |
-| B141 | A58: afrit 8 (Oirschot) - Knp. Batadorp | 18 |   | JA |   |   |
-|   | A2/58: Knp. Batadorp - Knp. Ekkersweijer |   |   |   |   | Zie Wegvak B7 op Rijksweg A2 |
-| B8 | A58: Knp. Ekkersweijer - A50 (Eindhoven ) | 0 | 74 | NEE |   |   |
-|   | **Rijksweg N59/A59** | **Rijksweg N59/A59** | **Rijksweg N59/A59** | **Rijksweg N59/A59** | **Rijksweg N59/A59** | **Rijksweg N59/A59** |
-| Ze38 | N59: N57 (Serooskerke) - afrit N256 (Zierikzee) | 0 | 73 | NEE |   | Wt buiten bebouwde kom |
-| Ze39 | N59: afrit N256 (Zierikzee) - Bruinisse | 0 | 73 | NEE |   | Wt buiten bebouwde kom |
-| Ze40 | N59: Bruinisse - afrit N257 (incl. Grevelingendam) | 0 | 73 | NEE |   | Wt buiten bebouwde kom |
-| Z94 | N59: afrit N257 - afrit N215 (Oude-Tonge) | 0 | 73 | NEE |   | Wt buiten bebouwde kom |
-| Z93 | N59: afrit N215 (Oude-Tonge) - Knp. Hellegatsplein | 0 | 73 | NEE |   | Wt buiten bebouwde kom |
-|   | A29/A59: Knp. Hellegatsplein - Knp. Sabina |   |   |   |   | Zie wegvak B19 op Rijksweg A29 |
-| B14 | A59: Knp. Sabina - afrit 24 (Fijnaart) | 0 | 74 | NEE |   |   |
-| B98 | A59: afrit 24 (Fijnaart) - Knp. Noordhoek | 0 | 74 | NEE |   |   |
-| B15 | A59: Knp. Zonzeel - afrit 31 (Terheijden) | 10 |   | NEE |   |   |
-| B102 | A59: afrit 31 (Terheijden) - Knp. Hooipolder | 9 |   | NEE |   |   |
-| B16 | A59: Knp. Hooipolder - afrit 37 (Waalwijk) | 0 | 74 | NEE |   |   |
-| B17 | A59: afrit 37 (Waalwijk) - afrit 42 (Heusden) | 0 | 74 | NEE |   |   |
-| B18 | A59: afrit 42 (Heusden) - Knp. Empel | 0 | 74 | NEE |   |   |
-|   | A2/A59: Knp. Empel - Knp. Hintham |   |   |   |   | Zie Wegvak B60 op Rijksweg A2 |
-| B78 | A59: Knp. Hintham - Knp. Paalgraven | 0 | 74 | NEE |   |   |
-|   | **Rijksweg N61** | **Rijksweg N61** | **Rijksweg N61** | **Rijksweg N61** | **Rijksweg N61** | **Rijksweg N61** |
-| Ze18 | N61: N58 / N61 (Schoondijke) - N61 / N62 (Terneuzen) | 0 | 10 | NEE |   | Wt buiten bebouwde kom |
-| Ze60 | N61: N61 / N62 (Terneuzen) - N61 / N252 (Terneuzen) | 0 | 73 | NEE |   | Wt buiten bebouwde kom |
-| Ze61 | N61: N252 (Terneuzen) - N62 (Terneuzen) | 0 | 73 | NEE |   | Wt buiten bebouwde kom |
-| Ze22 | N61 & N290: N61 / N62 (Terneuzen) - Terhole (N290 / N689) | 0 | 10 | NEE |   | Wt buiten bebouwde kom |
-|   | **Rijksweg N62** | **Rijksweg N62** | **Rijksweg N62** | **Rijksweg N62** | **Rijksweg N62** | **Rijksweg N62** |
-| Ze45 | N62: A58 (Heinkenszand) - N254 (Nieuwdorp) | 0 | 99 | JA |   | Wt buiten bebouwde kom |
-| Ze6 | N62: N254 (Nieuwdorp) - N666 ('s-Heerenhoek) | 0 | 99 | JA |   | Wt buiten bebouwde kom |
-| Ze58 | N62: N666 ('s-Heerenhoek) - N681 (Terneuzen) (incl. Westerscheldetunnel) | 0 | 10 | JA |   | Tc C |
-| Ze59 | N62: N681 (Terneuzen) - N61 (Terneuzen) | 0 | 10 | NEE |   | Wt buiten bebouwde kom |
-| Ze28 | N62: N61 (Terneuzen) - N683 (Westdorpe) | 0 | 10 | NEE |   | Wt buiten bebouwde kom |
-| Ze30 | N62: N683 (Westdorpe) - Grens België | 0 | 10 | NEE |   | Wt buiten bebouwde kom |
-|   | **Rijksweg A65** | **Rijksweg A65** | **Rijksweg A65** | **Rijksweg A65** | **Rijksweg A65** | **Rijksweg A65** |
-| B58 | A65: Knp. Vught - afrit 3 (Tilburg Noord) | 0 | 48 | NEE |   |   |
-| B138 | A65: afrit 3 (Tilburg Noord) - Knp. De Baars | 0 | 48 | NEE |   |   |
-|   | **Rijksweg A67** | **Rijksweg A67** | **Rijksweg A67** | **Rijksweg A67** | **Rijksweg A67** | **Rijksweg A67** |
-| B71 | A67: Grens België - afrit 32 (Eersel) | 28 |   | JA |   |   |
-| B103 | A67: afrit 32 (Eersel) - Knp. De Hogt | 29 |   | JA |   |   |
-|   | A2/A67: Knp. De Hogt - Knp. Leenderheide |   |   |   |   | Zie Wegvakken B72 en B104 op Rijksweg A2 |
-| B73 | A67: Knp. Leenderheide - afrit 35 (Someren) | 29 |   | JA |   |   |
-| B112 | A67: afrit 35 (Someren) - afrit 38 (Helden) | 32 |   | JA |   |   |
-| L5 | A67: afrit 38 (Helden) - afrit 39 (Sevenum) | 26 |   | JA |   |   |
-| L89 | A67: afrit 39 (Sevenum) - Knp. Zaarderheiken | 22 |   | JA |   |   |
-| L6 | A67: Knp. Zaarderheiken - afrit 40 (Velden) | 30 |   | JA |   |   |
-| L90 | A67: afrit 40 (Velden) - afrit 41 (Venlo) | 29 |   | JA |   |   |
-| L91 | A67: afrit 41 (Venlo) - Grens Duitsland | 27 |   | JA |   |   |
-|   | **Rijksweg A73** | **Rijksweg A73** | **Rijksweg A73** | **Rijksweg A73** | **Rijksweg A73** | **Rijksweg A73** |
-| G28 | A73: Knp. Ewijk - Knp. Neerbosch | 13 |   | JA |   |   |
-| G27 | A73: Knp. Neerbosch - afrit 1A (Wijchen) | 13 |   | JA |   |   |
-| G26 | A73: afrit 1A (Wijchen) - afrit 3 (Malden) | 15 |   | JA |   |   |
-| B84 | A73: afrit 3 (Malden) - afrit 5 (Haps) | 10 |   | JA |   |   |
-| B118 | A73: afrit 5 (Haps) - Knp. Rijkevoort | 12 |   | JA |   |   |
-| B85 | A73: Knp. Rijkevoort - afrit 6 (Boxmeer) | 0 | 82 | JA |   |   |
-| B122 | A73: afrit 6 (Boxmeer) - afrit 7 (Vierlingsbeek) | 0 | 82 | JA |   |   |
-| L1 | A73: afrit 7 (Vierlingsbeek) - afrit 9 (Venray) | 1 |   | JA |   |   |
-| L2 | A73: afrit 9 (Venray) - afrit 11 (Horst) | 1 |   | JA |   |   |
-| L87 | A73: afrit 11 (Horst) - afrit 12 (Grubbenvorst) | 6 |   | JA |   |   |
-| L88 | A73: afrit 12 (Grubbenvorst) - Knp. Zaarderheiken | 11 |   | JA |   |   |
-| L104 | A73: Knp. Zaarderheiken - afrit 13 (Venlo West) | 0 | 74 | NEE |   |   |
-| L117 | A73: afrit 13 (Venlo West) - afrit 14 (Maasbree) | 0 | 74 | NEE |   |   |
-| L13 | A73: afrit 14 (Maasbree) - afrit 16 (Venlo-Zuid) | 0 | 74 | NEE |   |   |
-| L14 | A73: afrit 16 (Venlo-Zuid) - afrit 18 (Beesel) | 0 | 74 | NEE |   |   |
-| L37 | A73: afrit 18 (Beesel) - afrit 19 (Roermond) (incl. Swalmentunnel) | 0 | 74 | NEE |   | Tc A |
-| L111 | A73: afrit 19 (Roermond) - afrit 20 (Roermond-Oost) | 0 | 74 | NEE |   |   |
-| L112 | A73: afrit 20 (Roermond-Oost) - afrit 21 (Linne) (incl. Roertunnel) | 0 | 74 | NEE |   | Tc A |
-| L113 | A73: afrit 21 (Linne) - afrit 22 (Maasbree) | 0 | 74 | NEE |   |   |
-| L115 | A73: afrit 22 (Maasbree) - Knp. Het Vonderen | 0 | 74 | NEE |   |   |
-|   | **Rijksweg A76** | **Rijksweg A76** | **Rijksweg A76** | **Rijksweg A76** | **Rijksweg A76** | **Rijksweg A76** |
-| L62 | A76: Grens België - Knp. Kerensheide | 13 |   | JA |   |   |
-| L63 | A76: Knp. Kerensheide - afrit 2 (Geleen) | 14 |   | JA |   |   |
-| L93 | A76: afrit 2 (Geleen) - afrit 5 (Nuth) | 6 |   | JA |   |   |
-| L94 | A76: afrit 5 (Nuth) - Knp. Ten Esschen | 7 |   | JA |   |   |
-| L64 | A76: Knp. Ten Esschen - Knp. Kunderberg | 7 |   | JA |   |   |
-| L65 | A76: Knp. Kunderberg - Knp. Bocholz | 2 |   | JA |   |   |
-| L66 | A76: Knp. Bocholz - grens Duitsland | 3 |   | JA |   |   |
-|   | **Rijksweg A77** | **Rijksweg A77** | **Rijksweg A77** | **Rijksweg A77** | **Rijksweg A77** | **Rijksweg A77** |
-| B97 | A77: Knp. Rijkevoort - afrit 2 (Gennep) | 0 | 82 | NEE |   |   |
-| L8 | A77: afrit 2 (Gennep) - Grens Duitsland | 0 | 82 | NEE |   |   |
-|   | **Rijksweg A79** | **Rijksweg A79** | **Rijksweg A79** | **Rijksweg A79** | **Rijksweg A79** | **Rijksweg A79** |
-| L109 | A79: Knp. Kruisdonk - afrit 1 (Bunde) | 0 | 9 | NEE |   |   |
-| L61 | A79: afrit 1 (Bunde) - afrit 4 (Hulsberg) | 0 | 9 | NEE |   |   |
-| L102 | A79: afrit 4 (Hulsberg) - Knp. Kunderberg | 0 | 9 | NEE |   |   |
-| L67 | A79: Knp. Kunderberg - Keulseweg Heerlen | 0 | 0 | NEE |   |   |
-|   | **Rijksweg N99** | **Rijksweg N99** | **Rijksweg N99** | **Rijksweg N99** | **Rijksweg N99** | **Rijksweg N99** |
-| N30 | N99: N250 (De Kooy) - afrit N249 (van Ewijcksluis) | 0 | 47 | NEE |   | Wt buiten bebouwde kom |
-| N79 | N99: N249 (van Ewijcksluis) - A7 | 0 | 47 | NEE |   | Wt buiten bebouwde kom |
-|   | **Rijksweg A200/N200** | **Rijksweg A200/N200** | **Rijksweg A200/N200** | **Rijksweg A200/N200** | **Rijksweg A200/N200** | **Rijksweg A200/N200** |
-| N96 | N200: Haarlem - Knp. Rottepolderplein | 0 | 9 | JA |   |   |
-| N61 | A200/N200: Knp. Rottepolderplein - A10 | 15 |   | JA |   |   |
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| --- | --- | --- | --- | --- | --- |
+| **Aanwijzing Basisnetroutes** | **Aanwijzing Basisnetroutes** | **Risicoplafonds** | **Risicoplafonds** | **Brandvoorschriftengebied** | **Bijzonderheden** |
+| **Wegvak(nr.)** | **Naam Basisnet(wegnummer: van – tot)** | **PRPlafond** |   |   |   |
+|   |   | **PR 10-6 contour** | **PR 10-7 contour** |   | **Tc= tunnelcategorie; Wt= wegtype indien afwijkend** **P-H = parallel- en hoofdrijbaan** |
+|   |   | **(afstand in meters)** | **(afstand in meters)** |   |   |
+| **Rijksweg A1** | **Rijksweg A1** | **Rijksweg A1** | **Rijksweg A1** | **Rijksweg A1** | **Rijksweg A1** |
+| Nh1 | A1: Knp. Watergraafsmeer – Knp. Diemen | 0 | 82 | JA |   |
+| Nh2 | A1: Knp. Diemen – Knp. Muiderberg | 0 | 82 | JA |   |
+| Nh3 | A1: Knp. Muiderberg – Knp. Eemnes | 0 | 82 | JA |   |
+| U1 | A1: Knp. Eemnes – Afrit 10 (Soest) | 0 | 82 | JA |   |
+| U91 | A1: afrit 10 (Soest) – afrit 12 (Amersfoort West) | 0 | 82 | JA |   |
+| U81 | A1: afrit 12 (Amersfoort West) – afrit 13 (Amersfoort Noord) | 1 |   | JA |   |
+| U90 | A1: afrit 13 (Amersfoort Noord) – Knp. Hoevelaken | 3 |   | JA |   |
+| G1 | A1: Knp. Hoevelaken – afrit 15 (Barneveld) | 0 | 82 | JA |   |
+| G63 | A1: afrit 15 (Barneveld) – afrit 17 (Stroe) |   | 82 | JA |   |
+| G72 | A1: afrit 17 (Stroe) – afrit 18 (Kootwijk) | 0 | 82 | JA |   |
+| G64 | A1: afrit 18 (Kootwijk) – afrit 19 (Hoenderloo) | 0 | 82 | JA |   |
+| G71 | A1: afrit 19 (Hoenderloo) – Knp. Beekbergen | 0 | 82 | JA |   |
+| G2 | A1 Knp. Beekbergen – afrit 23 (Deventer) | 15 |   | JA |   |
+| O2 | A1: afrit 23 (Deventer) – afrit 24 (Deventer Oost) | 12 |   | JA |   |
+| O113 | A1: afrit 24 (Deventer Oost) – afrit 26 (Lochem) | 12 |   | JA |   |
+| O3 | A1: afrit 26 (Lochem) – afrit 28 (Rijssen) | 1 | 74 | JA |   |
+| O76 | A1: afrit 28 (Rijssen) – Knp. Azelo | 1 | 74 | JA |   |
+| O4 | A1/A35: Knp. Azelo – Knp. Buren | 1 | 82 | JA |   |
+| O5 | A1: Knp. Buren – afrit 30 (Hengelo) | 1 | 74 | JA |   |
+| O6 | A1: afrit 30 (Hengelo) – afrit 32 (Oldenzaal) | 1 | 74 | JA |   |
+| O7 | A1: afrit 32 (Oldenzaal) – afrit 33 (Oldenzaal Zuid) | 1 | 74 | JA |   |
+| O8 | A1: afrit 33 (Oldenzaal Zuid) – Grens Duitsland | 1 | 74 | JA |   |
+| **Rijksweg A2/N2** | **Rijksweg A2/N2** | **Rijksweg A2/N2** | **Rijksweg A2/N2** | **Rijksweg A2/N2** | **Rijksweg A2/N2** |
+| Nh4 | A2: Knp. Amstel – Knp. Holendrecht Noord | 0 | 74 | JA |   |
+| Nh5 | A2/A9: Knp. Holendrecht Noord – Knp. Holendrecht Zuid | 0 | 74 | JA |   |
+| U12 | A2: Knp. Holendrecht Zuid – afrit 4 (Vinkeveen) | 0 | 82 | JA |   |
+| U13 | A2: afrit 4 (Vinkeveen) – afrit 5 (Breukelen) | 0 | 82 | JA |   |
+| U73 | A2: afrit 5 (Breukelen) – afrit 6 (Maarssen) | 0 | 82 | JA |   |
+| U14 | A2: afrit 6 (Maarssen) – afrit 7 (Utrecht Leidsche Rijn Centrum) | 0 | 74 | JA |   |
+| U88 | A2: afrit 7 (Utrecht Leidsche Rijn Centrum) – Knp. Oudenrijn (incl. Leidsche Rijn tunnel) | 0 | 76 | JA | Tc A |
+| U15 | A2: Knp. Oudenrijn – afrit 9 (Nieuwegein) | 0 | 74 | NEE |   |
+| U84 | A2: afrit 9 (Nieuwegein) – Knp. Everdingen | 0 | 74 | NEE |   |
+| G88 | A2: Knp. Everdingen – afrit 12 (Everdingen) | 0 | 82 | NEE |   |
+| G29 | A2: afrit 12 (Everdingen) – Knp. Deil | 0 | 82 | NEE |   |
+| B59 | A2: Knp. Deil – afrit 19 (Kerkdriel) | 0 | 82 | NEE |   |
+| B107 | A2: afrit 19 (Kerkdriel) – Knp. Empel | 0 | 82 | NEE |   |
+| B60 | A2/A59: Knp. Empel – Knp. Hintham | 0 | 82 | NEE |   |
+| B61 | A2: Knp. Hintham – afrit 21 (Veghel) | 0 | 83 | NEE |   |
+| B105 | A2: afrit 21 (Veghel) – Knp. Vught | 0 | 82 | NEE |   |
+| B62 | A2: Knp. Vught – Knp. Ekkersweijer | 0 | 82 | NEE |   |
+| B7 | A2: Knp. Ekkersweijer – Knp. Batadorp | 0 | 82 | NEE |   |
+| B63 | A2: Knp. Batadorp – afrit 29 (Eindhoven Airport) | 21 |   | JA |   |
+| B106 | A2: afrit afrit 29 (Eindhoven Airport) – Knp. De Hogt | 26 |   | JA |   |
+| B72 | A2/A67: Knp. De Hogt – afrit 33 (Waalre) | 33 |   | JA |   |
+| B104 | A2/A67: afrit 33 (Waalre) – Knp. Leenderheide | 43 |   | JA |   |
+| B64 | A2: Knp. Leenderheide – afrit 34 (Valkenswaard) | 0 | 82 | JA |   |
+| B65 | A2: afrit 34 (Valkenswaard) – afrit 39 (Nederweert) | 0 | 82 | JA |   |
+| L38 | A2: afrit 39 (Nederweert) – afrit 40 (Kelpen Oler) | 0 | 82 | JA |   |
+| L39 | A2: afrit 40 (Kelpen Oler) – afrit 41 (Grathem) | 0 | 82 | JA |   |
+| L40 | A2: afrit 41 (Grathem) – afrit 44 (Sint Joost) | 14 |   | JA |   |
+| L116 | A2: afrit 44 (Sint Joost) – Knp. Het Vonderen | 14 |   | JA |   |
+| L41 | A2: Knp. Het Vonderen – afrit 45 (Echt) | 17 |   | JA |   |
+| L84 | A2: afrit 45 (Echt) – afrit 47 (Born) | 17 |   | JA |   |
+| L85 | A2: afrit 47 (Born) – afrit 48 (Urmond) | 17 |   | JA |   |
+| L86 | A2: afrit 48 (Urmond) – Knp. Kerensheide | 0 | 74 | JA |   |
+| L42 | A2: Knp. Kerensheide – afrit 50 (Ulestraten) | 0 | 74 | JA |   |
+| L43 | A2: afrit 50 (Ulestraten) – afrit 51 (Meerssen) | 0 | 74 | JA |   |
+| L44 | A2: afrit 51 (Meerssen) – Knp. Kruisdonk | 0 | 9 | JA |   |
+| L45 | A2: Knp. Kruisdonk – afrit 53 (Maastricht Centrum Noord) | 0 | 9 | JA |   |
+| L122 | A2: afrit 53 (Maastricht Centrum Noord) – afrit 54 (Maastricht Centrum Zuid) (incl. Willem Alexandertunnel) | 0 | 48 | JA | Tc A |
+| L48 | A2: afrit 54 (Maastricht Centrum Zuid) – afrit 58 (Eijsden) | 0 | 9 | JA |   |
+| L92 | A2: afrit 58 (Eijsden) – Grens België | 0 | 9 | JA |   |
+| **Rijksweg N3** | **Rijksweg N3** | **Rijksweg N3** | **Rijksweg N3** | **Rijksweg N3** | **Rijksweg N3** |
+| Z98 | N3: N3 / A15 – afrit 1 (Papendrecht) | 32 |   | JA |   |
+| Z115 | N3: afrit 1 (Papendrecht) – afrit 2 (Dordrecht Centrum | 32 |   | JA |   |
+| Z97 | N3 : afrit 2 (Dordrecht Centrum) – N3 / A16 | 47 |   | JA |   |
+| **Rijksweg A4** | **Rijksweg A4** | **Rijksweg A4** | **Rijksweg A4** | **Rijksweg A4** | **Rijksweg A4** |
+| Nh6 | A4: Knp. De Nieuwe Meer – Knp. Badhoevedorp | 0 | 74 | JA |   |
+| Nh87 | A4: Knp. Badhoevedorp – Knp. De Hoek (incl. Schipholtunnel) | 0 | 74 | JA | Tc A |
+| Nh7 | A4: Knp. De Hoek – afrit 3 (Hoofddorp) | 0 | 74 | JA |   |
+| Nh84 | A4: afrit 3 (Hoofddorp) – afrit 4 (Nieuw Vennep) | 0 | 82 | JA |   |
+| Nh85 | A4: afrit 4 (Nieuw Vennep) – Knp. Burgerveen | 0 | 82 | JA |   |
+| Z6 | A4: Knp. Burgerveen – afrit 6a (Zoeterwoude Rijndijk | 0 | 65 | JA |   |
+| Z118 | A4: afrit 6a (Zoeterwoude Rijndijk) – afrit 7 (Zoeterwoude Dorp) | 12 |   | JA |   |
+| Z7 | A4: afrit 7 (Zoeterwoude Dorp) – Knp. Prins Clausplein | 13 |   | JA |   |
+| Z8 | A4 : Knp. Prins Clausplein – Knp. Ypenburg | 23 |   | JA |   |
+| Z9 | A4: Knp. Ypenburg – afrit 12 (Den Haag Zuid) | 0 | 9 | JA |   |
+| Z10 | A4: afrit 12 (Den Haag Zuid) – afrit 13 (Den Hoorn) | 0 | 9 | JA |   |
+| Z33 | A4 : afrit 13 (Den Hoorn) – afrit 14 (Delft) | 0 | 0 | JA |   |
+| Z149 | A4: afrit 14 (Delft) – Knp. Kethelplein (incl. Ketheltunnel) | 0 | 0 | JA | Tc C |
+| Z46 | A4: Knp. Kethelplein – afrit 16 (Vlaardingen Oost) | 23 |   | JA |   |
+| Z11 | A4: afrit 16 (Vlaardingen Oost) – Knp. Benelux (incl. Beneluxtunnel) | 23 |   | JA | Tc C |
+| B20 | A4 : Knp. Sabina – afrit 24 (Dinteloord) | 25 |   | JA |   |
+| B57 | A4 : afrit 24 (Dinteloord) – afrit 25 (Steenbergen) | 25 |   | JA |   |
+| B143 | A4: afrit 25 (Steenbergen) – afrit 26 (Tholen) | 24 |   | JA |   |
+| B93 | A4: afrit 26 (Tholen) – Knp. Zoomland | 24 |   | JA |   |
+| B1 | A4: Knp. Zoomland – afrit 30 (Hoogerheide) | 25 |   | JA |   |
+| B127 | A4: afrit 30 (Hoogerheide) – Knp. Markiezaat | 30 |   | JA |   |
+| B35 | A4: Knp. Markiezaat – Grens België | 22 |   | JA |   |
+| **Rijksweg A5** | **Rijksweg A5** | **Rijksweg A5** | **Rijksweg A5** | **Rijksweg A5** | **Rijksweg A5** |
+| Nh90 | A5: Knp. De Hoek – Knp. Raasdorp | 0 | 74 | JA |   |
+| Nh45 | A5: Knp. Raasdorp – afrit 3 (Amsterdam Westpoort) | 0 | 48 | NEE |   |
+| Nh62 | A5: afrit 3 (Amsterdam Westpoort) – Knp. Coenplein Zuid | 0 | 0 | NEE |   |
+| **Rijksweg A6** | **Rijksweg A6** | **Rijksweg A6** | **Rijksweg A6** | **Rijksweg A6** | **Rijksweg A6** |
+| F1 | A6: Knp. Muiderberg- Knp. Gooimeer | 0 | 74 | NEE |   |
+| F39 | A6: Knp. Gooimeer – afrit 5 (Almere Stad) | 0 | 74 | NEE |   |
+| F41 | A6: afrit 5 (Almere Stad) – afrit 6 (Almere Buiten) | 0 | 74 | NEE |   |
+| F56 | A6: afrit 6 (Almere Buiten) – Knp. Almere | 0 | 74 | NEE |   |
+| F42 | A6: Knp. Almere – afrit 8 (Almere Oostvaarders) | 0 | 82 | NEE |   |
+| F34 | A6: afrit 8 (Almere Oostvaarders) – afrit 10 (Lelystad) | 0 | 82 | NEE |   |
+| F35 | A6: afrit 10 (Lelystad) – afrit 11 (Lelystad Noord) | 0 | 82 | NEE |   |
+| F36 | A6: afrit 11 (Lelystad Noord) – afrit 13 (Urk) | 0 | 82 | NEE |   |
+| F37 | A6: afrit 13 (Urk) – afrit 14 (Emmeloord West) | 0 | 82 | NEE |   |
+| F38 | A6: afrit 14 (Emmeloord West) – Knp. Emmeloord | 0 | 82 | NEE |   |
+| F47 | A6: Knp. Emmeloord – afrit 15 (Emmeloord) | 0 | 74 | NEE |   |
+| F2 | A6: afrit 15 (Emmeloord) – Knp. Joure | 0 | 74 | NEE |   |
+| **Rijksweg A7/N7** | **Rijksweg A7/N7** | **Rijksweg A7/N7** | **Rijksweg A7/N7** | **Rijksweg A7/N7** | **Rijksweg A7/N7** |
+| Nh33 | A7: Knp. Zaandam – afrit 6 (Purmerend Noord) | 0 | 82 | JA |   |
+| Nh34 | A7: afrit 6 (Purmerend Noord) – afrit 7 (Avenhorn) | 0 | 74 | NEE |   |
+| Nh82 | A7: afrit 7 (Avenhorn) – afrit 8 (Hoorn) | 0 | 74 | NEE |   |
+| Nh81 | A7: afrit 8 (Hoorn) – afrit 9 (Hoorn Noord) | 0 | 48 | NEE |   |
+| Nh108 | A7: afrit 9 (Hoorn Noord) – afrit 12 (Middenmeer) | 0 | 48 | NEE |   |
+| Nh35 | A7: afrit 12 (Middenmeer) – afrit 13 (Wieringerwerf) | 0 | 48 | NEE |   |
+| Nh80 | A7: afrit 13 (Wieringerwerf) – afrit 14 (Den Helder) | 0 | 48 | NEE |   |
+| Fr30 | A7: afrit 14 (Den Helder) – Knp. Zurich | 0 | 9 | NEE |   |
+| Fr6 | A7: Knp. Zurich – afrit 20 (Ijlst) | 0 | 9 | NEE |   |
+| Fr5 | N7: afrit 20 (Ijlst) – afrit 22 (Sneek Oost) | 0 | 9 | NEE |   |
+| Fr4 | A7: afrit 22 (Sneek Oost) – Knp. Joure | 0 | 9 | NEE |   |
+| Fr3 | A7: Knp. Joure – Knp. Heerenveen | 0 | 74 | NEE |   |
+| Fr2 | A7: Knp. Heerenveen – afrit 29 (Drachten Centrum) | 0 | 74 | NEE |   |
+| Fr33 | A7: afrit 29 (Drachten Centrum) – Knp. Drachten | 0 | 74 | NEE |   |
+| Gr1 | A7: Knp. Drachten – afrit 36 (Groningen West) | 0 | 48 | NEE |   |
+| Gr31 | A7: afrit 36 (Groningen West) – Knp. Julianaplein | 0 | 48 | NEE |   |
+| Gr30 | A7: Knp. Julianaplein – Knp. Euvelgunne | 12 | 0 | NEE |   |
+| Gr2 | A7: Knp. Euvelgunne – Knp. Zuidbroek | 0 | 48 | NEE |   |
+| Gr3 | A7: Knp. Zuidbroek – afrit 45 (Scheemda) | 0 | 9 | NEE |   |
+| Gr29 | A7: afrit 45 (Scheemda) – Grens Duitsland | 0 | 9 | NEE |   |
+| **Rijksweg A8** | **Rijksweg A8** | **Rijksweg A8** | **Rijksweg A8** | **Rijksweg A8** | **Rijksweg A8** |
+| Nh31 | A8: Knp. Coenplein Noord – afrit 1 (Zaanstad Zuid) | 0 | 0 | JA |   |
+| Nh91 | A8: afrit 1 (Zaanstad Zuid) – Knp. Zaandam | 0 | 82 | JA |   |
+| Nh99 | A8: Knp. Zaandam – afrit 2 (Zaanstad Koog) | 0 | 48 | NEE |   |
+| Nh32 | A8: afrit 2 (Zaanstad Koog) – afrit 4 (Zaanstad Noord) | 0 | 48 | NEE |   |
+| **Rijksweg A9** | **Rijksweg A9** | **Rijksweg A9** | **Rijksweg A9** | **Rijksweg A9** | **Rijksweg A9** |
+| Nh107 | A9: Knp. Diemen – afrit 1 (A'dam Bijlmermeer) | 0 | 74 | JA |   |
+| Nh20 | A9: afrit 1 (A'dam Bijlmermeer) – Knp. Holendrecht Noord (incl. Gaasperdammertunnel) | 0 | 74 | JA | Tc A |
+|   | A2/A9: Knp. Holendrecht Noord – Knp. Holendrecht Zuid |   |   |   | Zie wegvak Nh5 bij Rijksweg A2 |
+| Nh21 | A9: Knp. Holendrecht Zuid – afrit 5 (Amstelveen Stadshart) | 0 | 74 | JA |   |
+| Nh86 | A9: afrit 5 (Amstelveen Stadshart) – Knp. Badhoevedorp | 0 | 74 | JA |   |
+| Nh88 | A9: Knp. Badhoevedorp – Knp. Raasdorp | 0 | 74 | JA |   |
+| Nh22 | A9: Knp. Raasdorp – Knp. Rottepolderplein Noord | 0 | 82 | JA |   |
+| Nh23 | A9: Knp. Rottepolderplein Noord – Knp. Velsen | 0 | 74 | NEE |   |
+| Nh24 | A9: Knp. Velsen – afrit 8 (Beverwijk Oost) (incl. Wijkertunnel) | 0 | 26 | NEE | Tc C |
+| Nh8 | A9: afrit 8 (Beverwijk Oost) – Knp. Beverwijk | 0 | 48 | NEE |   |
+| Nh25 | A9: Knp. Beverwijk – afrit 10 (Uitgeest) | 0 | 48 | NEE |   |
+| Nh26 | A9: afrit 10 (Uitgeest) – Vkp. Kooimeer | 0 | 48 | NEE |   |
+| Nh27 | Nh9: Vkp. Kooimeer – N245 (Alkmaar Noord) | 0 | 0 | NEE |   |
+| Nh28 | N9: N245 (Alkmaar Noord) – N503 (bij Schagerbrug) | 0 | 0 | NEE | Wt buiten bebouwde kom |
+| Nh29 | N9: N503 (bij Schagerbrug) – N250 (De Kooy) | 0 | 0 | NEE | Wt buiten bebouwde kom |
+| **Rijksweg A10** | **Rijksweg A10** | **Rijksweg A10** | **Rijksweg A10** | **Rijksweg A10** | **Rijksweg A10** |
+| Nh15 | A10: Knp. Coenplein Noord – Knp. Coenplein Zuid (incl. Coentunnel) | 0 | 3 | JA | Tc C |
+| Nh14 | A10: Knp. Coenplein Zuid – afrit 3 (Westerpark) | 0 | 32 | JA |   |
+| Nh13 | A10: afrit 3 (Westerpark) – Knp. De Nieuwe Meer | 0 | 72 | JA |   |
+| Nh12 | A10: Knp. De Nieuwe Meer – Knp. Amstel | 0 | 81 | JA | P-H |
+| Nh11 | A10: Knp. Amstel – Knp. Watergraafsmeer | 0 | 69 | JA |   |
+| Nh10 | A10: Knp. Watergraafsmeer – afrit 14 (Zeeburg) | 0 | 70 | JA |   |
+| Nh18 | A10: afrit 14 (Zeeburg) – afrit 15 (Nieuwendam) (incl. Zeeburgertunnel) | 0 | 23 | JA | Tc C |
+| Nh19 | Omleidingsroute Zeeburgertunnel via Zuiderzeeweg | 0 | 66 | NEE | Omleidingsroute (Wt binnen bebouwde kom) |
+| Nh17 | A10: afrit 15 (Nieuwendam) – afrit 16 (Amsterdam Noord) | 0 | 82 | JA |   |
+| Nh16 | A10: afrit 16 (Amsterdam Noord) – Knp. Coenplein Noord | 0 | 82 | JA |   |
+| **Rijksweg N11** | **Rijksweg N11** | **Rijksweg N11** | **Rijksweg N11** | **Rijksweg N11** | **Rijksweg N11** |
+| Z22 | N11: A4 – afrit 7 (Hazerswoude) | 0 | 48 | NEE |   |
+| Z119 | N11: afrit 7 (Hazerswoude) – afrit 10 (Alphen a/d Rijn Oost) | 0 | 48 | NEE |   |
+| Z21 | N11: afrit 10 (Alphen a/d Rijn Oost) – afrit 11 (Bodegraven Centrum) | 0 | 48 | NEE |   |
+| Z20 | N11: afrit 11 (Bodegraven Centrum) – Knp. Bodegraven | 0 | 48 | NEE |   |
+| **Rijksweg A12** | **Rijksweg A12** | **Rijksweg A12** | **Rijksweg A12** | **Rijksweg A12** | **Rijksweg A12** |
+| Z17 | A12: Knp. Prins Clausplein – afrit 7 (Zoetermeer) | 0 | 48 | NEE |   |
+| Z124 | A12: afrit 7 (Zoetermeer) – afrit 9 (Zevenhuizen) | 0 | 48 | NEE |   |
+| Z135 | A12: afrit 9 (Zevenhuizen) – Knp. Gouwe | 0 | 48 | NEE |   |
+| Z18 | A12: Knp. Gouwe – afrit 11 (Gouda) | 26 |   | JA |   |
+| Z137 | A12: afrit 11 (Gouda) – Knp. Bodegraven | 26 |   | JA |   |
+| Z19 | A12: Knp. Bodegraven – afrit 14 (Woerden) | 26 |   | JA |   |
+| U85 | A12: afrit 14 (Woerden) – afrit 15 (De Meern) | 26 |   | JA |   |
+| U86 | A12: afrit 15 (De Meern) – Knp. Oudenrijn | 28 |   | JA |   |
+| U9 | A12: Knp. Oudenrijn – afrit 18 (Utrecht Hoograven) | 25 |   | JA |   |
+| U93 | A12: afrit 18 (Utrecht Hoograven) – Knp. Lunetten | 23 |   | JA |   |
+| U10 | A12: Knp. Lunetten – afrit 19 (Bunnik) | 0 | 82 | JA |   |
+| U94 | A12: afrit 19 (Bunnik) – afrit 20 (Driebergen) | 0 | 82 | JA |   |
+| U79 | A12: afrit 20 (Driebergen) – afrit 21 (Maarn) | 0 | 82 | JA |   |
+| U80 | A12: afrit 21 (Maarn) – afrit 22 (Maarsbergen) | 0 | 82 | JA |   |
+| U11 | A12: afrit 22 (Maarsbergen) – afrit 23a (Veenendaal) | 0 | 82 | JA |   |
+| G8 | A12: afrit 23a (Veenendaal) – Knp. Maanderbroek | 0 | 82 | JA |   |
+| G66 | A12: Knp. Maanderbroek – afrit 24 (Ede) | 0 | 82 | JA |   |
+| G9 | A12: afrit 24 (Ede) – Knp. Grijsoord | 0 | 82 | JA |   |
+| G10 | A12/A50: Knp. Grijsoord – Knp. Waterberg | 21 |   | JA |   |
+| G11 | A12: Knp. Waterberg – Knp. Velperbroek | 16 |   | JA |   |
+| G12 | A12: Knp. Velperbroek – Knp. Oud Dijk | 1 | 82 | JA |   |
+| G13 | A12: Knp. Oud Dijk – Grens Duitsland | 1 | 74 | JA |   |
+| **Rijksweg A13** | **Rijksweg A13** | **Rijksweg A13** | **Rijksweg A13** | **Rijksweg A13** | **Rijksweg A13** |
+| Z29 | A13: Knp. Ypenburg – afrit 9 (Delft) | 17 |   | JA |   |
+| Z113 | A13 : afrit 9 (Delft) – afrit 10 (TU Delft) | 17 |   | JA |   |
+| Z30 | A13 : afrit 10 (TU Delft) – afrit 11 (Rotterdam Airport) | 16 |   | JA |   |
+| Z114 | A13: afrit 11 (Rotterdam Airport) – Knp. Kleinpolderplein | 6 |   | JA |   |
+| **Rijksweg N14** | **Rijksweg N14** | **Rijksweg N14** | **Rijksweg N14** | **Rijksweg N14** | **Rijksweg N14** |
+| Z53 | N14: A4 afrit 8 Leidschendam – N14 / N44 (incl. Sytwendetunnel) | 0 | 19 | NEE | Tc C (Wt binnen bebouwde kom) |
+| **Rijksweg A15/N15** | **Rijksweg A15/N15** | **Rijksweg A15/N15** | **Rijksweg A15/N15** | **Rijksweg A15/N15** | **Rijksweg A15/N15** |
+| Z65 | N15: Knp. Slufter – afrit 8 (Oostvoorne) | 16 |   | JA |   |
+| Z151 | A15: afrit 8 (Oostvoorne) – afrit 10 (Havens 5700-6200) | 16 |   | JA |   |
+| Z66 | A15: afrit 10 (Havens 5700-6200) – afrit 12 (Brielle) | 40 |   | JA |   |
+| Z47 | A15: afrit 12 (Brielle) – afrit 13 (Rozenburg) (incl. Thomassentunnel) | 15 |   | JA | Tc C |
+| Z148 | omleidingsroute A15 Thomassentunnel | 27 |   | NEE | Omleidingsroute (Wt binnen bebouwde kom) |
+| Z126 | A15: afrit 13 (Rozenburg) – afrit 15 (Havens 4100-5200) | 50 |   | JA |   |
+| Z67 | A15: afrit 15 (Havens 4100-5200) – afrit 16 (Spijkenisse) | 54 |   | JA |   |
+| Z69 | A15: afrit 16 (Spijkenisse) – afrit 17 (Hoogvliet) (incl. Botlektunnel) | 0 | 30 | JA | Tc D |
+| Z68 | omleidingsroute Botlektunnel via Botlekbrug | 72 |   | NEE | Omleidingsroute (Wt buiten bebouwde kom) |
+| Z70 | A15: afrit 17 (Hoogvliet) – Knp. Benelux | 74 |   | JA |   |
+| Z71 | A15: Knp. Benelux – afrit 18 (Rotterdam Heijplaat) | 80 |   | JA |   |
+| Z72 | A15: afrit 18 (Rotterdam Heijplaat) – afrit 19 (Rotterdam Charlois) | 80 |   | JA |   |
+| Z73 | A15: afrit 19 (Rotterdam Charlois) – Knp. Vaanplein | 80 |   | JA |   |
+| Z74 | A15: Knp. Vaanplein – Knp. Ridderkerk Noord | 80 |   | JA |   |
+| Z55 | A15/A16: Knp. Ridderkerk Noord – Knp. Ridderkerk Zuid | 66 |   | JA |   |
+| Z75 | A15: Knp. Ridderkerk Zuid – afrit 21 (Hendrik Ido Ambacht) | 63 |   | JA |   |
+| Z76 | A15: afrit 21 (Hendrik Ido Ambacht) – afrit 22 (Alblasserdam) (incl. Noordtunnel) | 13 |   | JA | Tc C |
+| Z77a | Omleidingsroute Noordtunnel in oostelijke richting van A15 afrit 21 tot hm-paal 22.2 op de N915b (zuidzijde) | 15 |   | NEE | Omleidingsroute (Wt binnen bebouwde kom) |
+| Z77b | Omleidingsroute Noordtunnel van A15 afrit 21 tot A15 afrit 22 m.u.v. wegvak Z77a | 93 |   | NEE | Omleidingsroute (Wt buiten bebouwde kom) |
+| Z78 | A15 : afrit 22 (Alblasserdam) – afrit 23 (Dordrecht) | 68 |   | JA |   |
+| Z79 | A15: afrit 23 (Dordrecht) – afrit 27 (Gorinchem) | 46 |   | JA |   |
+| Z80 | A15: afrit 27 (Gorinchem) – Knp. Gorinchem | 41 |   | JA |   |
+| G14 | A15: Knp. Gorinchem – Knp. Deil | 32 |   | JA |   |
+| G15 | A15: Knp. Deil – afrit 33 (Tiel) | 26 |   | JA |   |
+| G78 | A15: afrit 33 (Tiel) – afrit 34 (Echteld) | 38 |   | JA |   |
+| G16 | A15: afrit 34 (Echteld) – Knp. Valburg | 30 |   | JA |   |
+| G17 | A15: Knp. Valburg – Knp. Ressen | 8 |   | JA |   |
+| **Rijksweg A16** | **Rijksweg A16** | **Rijksweg A16** | **Rijksweg A16** | **Rijksweg A16** | **Rijksweg A16** |
+| B108 | A16: Grens België – Knp. Galder | 8 |   | JA |   |
+| B116 | A16/A58: Knp. Galder – afrit 15 (Breda) | 30 |   | JA |   |
+| B40 | A16/A58: afrit 15 (Breda) – Knp. Princeville | 26 |   | JA |   |
+| B39 | A16: Knp. Princeville – afrit 17 (Breda Noord) | 33 |   | JA |   |
+| B38 | A16: afrit 17 (Breda Noord) – Knp. Zonzeel | 28 |   | JA |   |
+| B37 | A16/A59:Knp. Zonzeel – Knp. Klaverpolder | 33 |   | JA |   |
+| Z58 | A16: Knp. Klaverpolder – afrit 20 (Dordrecht) | 45 |   | JA |   |
+| Z57 | A16 : afrit 20 (Dordrecht) – afrit 21 (Dordrecht Centrum) | 22 |   | JA |   |
+| Z56 | A16: afrit 21 (Dordrecht Centrum) – afrit 22 (Zwijndrecht) (incl. Drechttunnel) | 26 |   | JA | Tc C |
+| Z181 | A16:afrit 22 (Zwijndrecht) – Knp. Ridderkerk Zuid | 26 |   | JA |   |
+|   | A15/A16: Knp. Ridderkerk Zuid – Knp. Ridderkerk Noord |   |   |   | Zie A15 |
+| Z134 | A16: Knp. Ridderkerk Noord – afrit 25 (Capelle a/d Ijssel) | 58 |   | JA |   |
+| Z54 | A16: afrit 25 (Capelle a/d Ijssel) – Knp. Terbregseplein | 38 |   | JA |   |
+| **Rijksweg A17** | **Rijksweg A17** | **Rijksweg A17** | **Rijksweg A17** | **Rijksweg A17** | **Rijksweg A17** |
+| B99 | A17: Knp. De Stok – afrit 21 (Oud Gastel Borchwerf) | 19 |   | JA |   |
+| B13 | A17: afrit 21 (Oud Gastel Borchwerf) – Knp. Noordhoek | 17 |   | JA |   |
+| B100 | A17/A59: Knp. Noordhoek – afrit 25 (Zevenbergen) | 20 |   | JA |   |
+| B12 | A17/A59: afrit 25 (Zevenbergen) – afrit 26 (Moerdijk Havens) | 16 |   | JA |   |
+| B11 | A17/A59: afrit 26 (Moerdijk Havens) – Knp. Klaverpolder | 27 |   | JA |   |
+| **Rijksweg A18/N18** | **Rijksweg A18/N18** | **Rijksweg A18/N18** | **Rijksweg A18/N18** | **Rijksweg A18/N18** | **Rijksweg A18/N18** |
+| G18 | A18: Knp. Oud Dijk – afrit 4 (Doetinchem Oost) | 0 | 82 | NEE |   |
+| G19 | A18: afrit 4 (Doetinchem Oost) – A18 / N18 (bij Varsseveld) | 0 | 82 | NEE |   |
+| G20 | N18: A18 / N18 (bij Varsseveld) – afrit 10 (Groenlo) | 0 | 9 | NEE | Wt BuBeKo |
+| G21 | N18: afrit 10 (Groenlo) – afrit 12 (Eibergen) | 0 | 9 | NEE |   |
+| G22 | N18: afrit 12 (Eibergen) – afrit 14 (Haaksbergen) | 0 | 9 | NEE |   |
+| O35 | N18: afrit 14 (Haaksbergen) – A35 | 0 | 9 | NEE |   |
+| **Rijksweg A20** | **Rijksweg A20** | **Rijksweg A20** | **Rijksweg A20** | **Rijksweg A20** | **Rijksweg A20** |
+| Z122 | A20: Westerleeplein – afrit 6 (Maasdijk Oost) | 0 | 9 | NEE |   |
+| Z48 | A20: afrit 6 (Maasdijk Oost) – Knp. Kethelplein | 0 | 9 | NEE |   |
+| Z49 | A20: Knp. Kethelplein – Knp. Kleinpolderplein | 20 |   | JA |   |
+| Z50 | A20: Knp. Kleinpolderplein – afrit 14 (Rotterdam Noord) | 10 |   | JA |   |
+| Z125 | A20: afrit 14 (Rotterdam Noord) – Knp. Terbregseplein | 11 |   | JA |   |
+| Z51 | A20: Knp. Terbregseplein – afrit 17 (Nieuwerkerk aan de Ijssel) | 32 |   | JA |   |
+| Z136 | A20: afrit 17 (Nieuwerkerk aan de Ijssel) – Knp. Gouwe | 22 |   | JA |   |
+| **Rijksweg A22** | **Rijksweg A22** | **Rijksweg A22** | **Rijksweg A22** | **Rijksweg A22** | **Rijksweg A22** |
+| Nh89 | A22: Knp. Velsen – afrit 1 (Ijmuiden) | 0 | 74 | NEE |   |
+| Nh93 | A22: afrit 1 (Ijmuiden) – afrit 2 (Beverwijk) (incl. Velsertunnel) | 0 | 16 | NEE | Tc D |
+| Nh83 | A22: afrit 2 (Beverwijk) – Knp. Beverwijk | 0 | 48 | NEE |   |
+| **Rijksweg A27** | **Rijksweg A27** | **Rijksweg A27** | **Rijksweg A27** | **Rijksweg A27** | **Rijksweg A27** |
+| B110 | A27: Knp. Sint Annabosch – afrit 15 (Breda) | 0 | 82 | JA |   |
+| B109 | A27: afrit 15 (Breda) – afrit 16 (Breda Noord) | 0 | 82 | JA |   |
+| B42 | A27: afrit 16 (Breda Noord) – afrit 19 (Oosterhout) | 0 | 82 | JA |   |
+| B134 | A27: afrit 19 (Oosterhout) – Knp. Hooipolder | 0 | 74 | JA |   |
+| B41 | A27: Knp. Hooipolder – afrit 24 (Industrie Avelingen) | 12 |   | JA |   |
+| Z99 | A27: afrit 24 (Industrie Avelingen) – Knp. Gorinchem | 16 |   | JA |   |
+| Z100 | A27: Knp. Gorinchem – afrit 25 (Noordeloos) | 14 |   | JA |   |
+| Z128 | A27: afrit 25 (Noordeloos) – Knp. Everdingen | 16 |   | JA |   |
+| U7 | A27: Knp. Everdingen – Knp. Lunetten | 10 |   | JA |   |
+| U6 | A27: Knp. Lunetten – Knp. Rijnsweerd | 23 |   | JA |   |
+| U89 | A27: Knp. Rijnsweerd – afrit 31 (Maarssen) | 0 | 82 | JA |   |
+| U87 | A27: afrit 31 (Maarssen) – afrit 32 (Bilthoven) | 0 | 82 | JA |   |
+| Nh97 | A27: afrit 32 (Bilthoven) – afrit 33 (Hilversum) | 0 | 82 | JA |   |
+| Nh67 | A27: afrit 33 (Hilversum) – Knp. Eemnes | 0 | 82 | JA |   |
+| F43 | A27: Knp. Eemnes – afrit 36 (Zeewolde) | 0 | 82 | NEE |   |
+| F3 | A27: afrit 36 (Zeewolde) – Knp. Almere | 0 | 82 | NEE |   |
+| **Rijksweg A28** | **Rijksweg A28** | **Rijksweg A28** | **Rijksweg A28** | **Rijksweg A28** | **Rijksweg A28** |
+| U83 | A28: Knp. Rijnsweerd – afrit 3 (Den Dolder) | 13 |   | JA |   |
+| U3 | A28: afrit 3 (Den Dolder) – afrit 5 (Maarn) | 16 |   | JA |   |
+| U2 | A28: afrit 5 (Maarn) – afrit 6 (Leusden Zuid) | 14 |   | JA |   |
+| U82 | A28: afrit 6 (Leusden Zuid) – Knp. Hoevelaken | 14 |   | JA |   |
+| G31 | A28: Knp. Hoevelaken – afrit 9 (Nijkerk) | 20 |   | JA |   |
+| G60 | A28: afrit 9 (Nijkerk) – afrit 12 (Ermelo) | 16 |   | JA |   |
+| G61 | A28: afrit 12 (Ermelo) – afrit 13 (Harderwijk) | 5 |   | JA |   |
+| G62 | A28: afrit 13 (Harderwijk) – Knp. Hattemerbroek | 0 | 82 | JA |   |
+| O114 | A28: Knp. Hattemerbroek – afrit 18 (Zwolle Zuid) | 13 |   | JA |   |
+| O11 | A28: afrit 18 (Zwolle Zuid) – afrit 20 (Zwolle Noord) | 13 |   | JA |   |
+| O112 | A28: afrit 20 (Zwolle Noord) – afrit 21 (Ommen) | 13 |   | JA |   |
+| O12 | A28: afrit 21 (Ommen) – afrit 22 (Nieuwleusen) | 15 |   | JA |   |
+| O111 | A28: afrit 22 (Nieuwleusen) – Knp. Lankhorst | 18 |   | JA |   |
+| D2 | A28: Knp. Lankhorst – Knp. Hoogeveen | 0 | 82 | JA |   |
+| D29 | A28: Knp. Hoogeveen – afrit 27 (Fluitenberg) | 0 | 74 | JA |   |
+| D31 | A28: afrit 27 (Fluitenberg) – afrit 31 (Westerbork) | 0 | 74 | JA |   |
+| D3 | A28: afrit 31 (Westerbork) – Knp. Assen | 0 | 74 | JA |   |
+| D4 | A28: Knp. Assen – afrit 34 (Assen Noord) | 0 | 74 | JA |   |
+| D26 | A28: afrit 34 (Assen Noord) – Knp. De Punt | 0 | 48 | JA |   |
+| D5 | A28: Knp. De Punt – Knp. Julianaplein | 0 | 48 | JA |   |
+| **Rijksweg A29** | **Rijksweg A29** | **Rijksweg A29** | **Rijksweg A29** | **Rijksweg A29** | **Rijksweg A29** |
+| Z182 | A29: Knp. Vaanplein – afrit 20 (Barendrecht) | 0 | 0 | JA |   |
+| Z88 | A29: afrit 20 (Barendrecht) – afrit 21 (Oud Beijerland) (incl. Heinenoordtunnel) | 0 | 9 | JA | Tc D |
+| Z133 | A29: afrit 21 (Oud Beijerland) – Knp. Hellegatsplein | 0 | 9 | NEE |   |
+| B19 | A4/A29/A59: Knp. Hellegatsplein – Knp. Sabina | 0 | 74 | NEE |   |
+| **Rijksweg A30** | **Rijksweg A30** | **Rijksweg A30** | **Rijksweg A30** | **Rijksweg A30** | **Rijksweg A30** |
+| G85 | A30: Knp. Maanderbroek – afrit 1 (Ede) | 0 | 82 | NEE |   |
+| G68 | A30: afrit 1 (Ede) – afrit 2 (Ede Noord) | 0 | 82 | NEE |   |
+| G67 | A30: afrit 2 (Ede Noord) – afrit 4 (Scherpenzeel) | 0 | 82 | NEE |   |
+| G32 | A30: afrit 4 (Scherpenzeel) – A1 | 0 | 82 | NEE |   |
+| **Rijksweg A31/N31** | **Rijksweg A31/N31** | **Rijksweg A31/N31** | **Rijksweg A31/N31** | **Rijksweg A31/N31** | **Rijksweg A31/N31** |
+| Fr8 | A31: Knp. Zurich – afrit 22 (Marsum) | 0 | 9 | NEE |   |
+| Fr27 | N31: afrit 22 (Marssum) – Knp. Werpsterhoek | 0 | 9 | NEE |   |
+| Fr11 | N31: Knp. Werpsterhoek – afrit 27 (Garijp) | 0 | 9 | NEE |   |
+| Fr37 | N31: afrit 27 (Garijp) – afrit 28 (Nijega) | 0 | 9 | NEE |   |
+| Fr32 | N31: afrit 28 (Nijega) – afrit 29 (Drachten Noord) | 0 | 48 | NEE |   |
+| Fr36 | N31: afrit 29 (Drachten Noord) – Knp. Drachten | 0 | 48 | NEE |   |
+| **Rijksweg A32** | **Rijksweg A32** | **Rijksweg A32** | **Rijksweg A32** | **Rijksweg A32** | **Rijksweg A32** |
+| O19 | A32: Knp. Lankhorst – afrit 4 (Diever) | 0 | 74 | NEE |   |
+| O116 | A32: afrit 4 (Diever) – afrit 5 (Steenwijk Zuid) | 0 | 74 | NEE |   |
+| O115 | A32: afrit 5 (Steenwijk Zuid) – afrit 7 (Steenwijk Noord) | 0 | 74 | NEE |   |
+| O18 | A32: afrit 7 (Steenwijk Noord) – afrit 8 (Wolvega) | 0 | 74 | NEE |   |
+| Fr31 | A32: afrit 8 (Wolvega) – Knp. Heerenveen | 0 | 48 | NEE |   |
+| Fr15 | A32/N32: Knp. Heerenveen – Knp. Werpsterhoek | 0 | 48 | NEE |   |
+| **Rijksweg N33** | **Rijksweg N33** | **Rijksweg N33** | **Rijksweg N33** | **Rijksweg N33** | **Rijksweg N33** |
+| D14 | N33: Knp. Assen – afrit 34 (Gieten) | 15 |   | JA |   |
+| D15 | N33: afrit 34 (Gieten) – afrit 38 (Veendam) | 20 |   | JA |   |
+| Gr9 | N33: afrit 38 (Veendam) – Knp. Zuidbroek | 20 |   | JA |   |
+| Gr8 | N33: Knp. Zuidbroek – afrit N362 (Delfzijl Haven) | 20 |   | JA | Wt buiten bebouwde kom |
+| Gr7 | N33: afrit N362 (Delfzijl Haven) – afrit N360 (Delfzijl) | 15 |   | JA | Wt buiten bebouwde kom |
+| Gr6 | N33: afrit N360 (Delfzijl) – afrit N997 (Holwierde) | 15 |   | JA | Wt buiten bebouwde kom |
+| Gr5 | N33: afrit N997 (Holwierde) – Eemshaven | 15 |   | JA | Wt buiten bebouwde kom |
+| **Rijksweg A35/N35** | **Rijksweg A35/N35** | **Rijksweg A35/N35** | **Rijksweg A35/N35** | **Rijksweg A35/N35** | **Rijksweg A35/N35** |
+| O24b | N35: Grens Duitsland – afrit 25 (Enschede) | 0 | 48 | NEE |   |
+| O24a | A35: afrit 25 (Enschede) – afrit 26 (Enschede West) | 0 | 48 | NEE |   |
+| O23 | A35: afrit 26 (Enschede West) – afrit 27 (Hengelo Zuid) | 0 | 48 | NEE |   |
+| O128 | A35: afrit 27 (Hengelo Zuid) – afrit 28 (Delden) | 0 | 48 | NEE |   |
+| O22 | A35: afrit 28 (Delden) – Knp. Buren | 0 | 74 | NEE |   |
+|   | A1/A35: Knp. Buren – Knp. Azelo |   |   |   | Zie wegvak O4 op Rijksweg A1 |
+| O28 | A35: Knp. Azelo – afrit 30 (Almelo Zuid) | 0 | 48 | NEE |   |
+| O1 | A35: afrit 30 (Almelo Zuid) – afrit 31 (Almelo West | 0 | 73 | NEE | Wt buiten bebouwde kom |
+| **Rijksweg N36** | **Rijksweg N36** | **Rijksweg N36** | **Rijksweg N36** | **Rijksweg N36** | **Rijksweg N36** |
+| O32 | N36: A35 afrit 31 (Almelo West) – afrit 4 (Almelo Noord) | 0 | 73 | NEE | Wt buiten bebouwde kom |
+| O38 | N36: afrit 4 (Almelo Noord) – afrit 5 (Vriezenveen) | 0 | 73 | NEE | Wt buiten bebouwde kom |
+| O39 | N36: afrit 5 ( Vriezenveen) – afrit 6 (Westerhaar) | 0 | 73 | NEE | Wt buiten bebouwde kom |
+| O40 | N36: afrit 6 (Westerhaar) – Vkp. Witte Paal (N34) | 0 | 73 | NEE | Wt buiten bebouwde kom |
+| O21 | N36: Vkp. Witte Paal (N34) – Vkp. Witharen (N48) | 0 | 73 | NEE | Wt buiten bebouwde kom |
+| **Rijksweg A37/N37** | **Rijksweg A37/N37** | **Rijksweg A37/N37** | **Rijksweg A37/N37** | **Rijksweg A37/N37** | **Rijksweg A37/N37** |
+| D7 | A37: Knp. Hoogeveen – afrit 1 (Hoogeveen Oost) | 0 | 48 | NEE |   |
+| D30 | A37: afrit 1 (Hoogeveen Oost) – Knp. Holsloot | 0 | 48 | NEE |   |
+| D8 | A37: Knp. Holsloot – afrit 4 (Veenoord) | 0 | 48 | NEE |   |
+| D28 | A37: afrit 4 (Veenoord) – Duitse Grens | 0 | 48 | NEE |   |
+| **Rijksweg A44/N44** | **Rijksweg A44/N44** | **Rijksweg A44/N44** | **Rijksweg A44/N44** | **Rijksweg A44/N44** | **Rijksweg A44/N44** |
+| Nh9 | A44: Knp. Burgerveen – afrit 3 (Noordwijkerhout) | 0 | 74 | NEE |   |
+| Z1 | A44: afrit 3 (Noordwijkerhout) – afrit 8 (Leiden West) | 0 | 74 | NEE |   |
+| Z2 | A44: afrit 8 (Leiden West) – Wassenaar (Rozenweg) | 0 | 74 | NEE |   |
+| Z4 | N44: Wassenaar (Rozenweg) – N14 / N44 | 0 | 77 | NEE | Wt buiten bebouwde kom |
+| **Rijksweg N48** | **Rijksweg N48** | **Rijksweg N48** | **Rijksweg N48** | **Rijksweg N48** | **Rijksweg N48** |
+| D6 | N48: Knp. Hoogeveen – N48 / N377 (afrit Dedemsvaart) | 0 | 47 | NEE | Wt buiten bebouwde kom |
+| O43 | N48: N48 / N377 (afrit Dedemsvaart) – Vkp. Witharen (N48) | 0 | 47 | NEE | Wt buiten bebouwde kom |
+| **Rijksweg N50/A50** | **Rijksweg N50/A50** | **Rijksweg N50/A50** | **Rijksweg N50/A50** | **Rijksweg N50/A50** | **Rijksweg N50/A50** |
+| B8 | A50: Knp. Ekkersweijer – afrit 7 (Helmond) | 0 | 74 | NEE |   |
+| B132 | A50: afrit 7 (Helmond) – afrit 10 (Eerde) | 0 | 48 | NEE |   |
+| B81 | A50: afrit 10 (Eerde) – afrit 11 (Veghel) | 0 | 48 | NEE |   |
+| B87 | A50: afrit 11 (Veghel) – afrit 12 (Veghel Noord) | 0 | 48 | NEE |   |
+| B139 | A50: afrit 12 (Veghel Noord) – afrit 13 (Volkel) | 0 | 48 | NEE |   |
+| B86 | A50: afrit 13 (Volkel) – afrit 14 (Zeeland) | 0 | 48 | NEE |   |
+| B80 | A50: afrit 14 (Zeeland) – Knp. Paalgraven | 0 | 48 | NEE |   |
+| B79 | A50: Knp. Paalgraven – Knp. Bankhoef | 0 | 74 | JA |   |
+| G65 | A50:Knp. Bankhoef – Knp. Ewijk | 0 | 74 | JA |   |
+| G6 | A50: Knp. Ewijk – Knp. Valburg | 18 |   | JA |   |
+| G5 | A50:Knp. Valburg – Knp. Grijsoord | 9 |   | JA |   |
+|   | A12/A50: Knp. Grijsoord – Knp. Waterberg |   |   |   | Zie A12 |
+| G4 | A50: Knp. Waterberg – Knp. Beekbergen | 11 |   | JA |   |
+| G3 | A50: Knp. Beekbergen – Knp. Hattemerbroek | 0 | 74 | JA |   |
+| O124 | N50: Knp. Hattemerbroek – afrit 31 (Kampen Zuid) | 0 | 48 | NEE |   |
+| O123 | N50: afrit 31 (Kampen Zuid) – afrit 32 (Kampen) | 0 | 48 | NEE |   |
+| O52 | N50: afrit 32 (Kampen) – afrit 33 (Ens) | 0 | 48 | NEE |   |
+| F26 | N50: afrit 33 (Ens) – Knp. Emmeloord | 0 | 48 | NEE |   |
+| **Rijksweg N57** | **Rijksweg N57** | **Rijksweg N57** | **Rijksweg N57** | **Rijksweg N57** | **Rijksweg N57** |
+| Z89 | N57: A15 – afrit N218 (Oostvoorne / Spijkenisse) | 0 | 83 | NEE |   |
+| Z90 | N57: afrit N218 (Oostvoorne / Spijkenisse) – Vkp. Hellevoetsluis (N495) | 12 |   | NEE |   |
+| Z91 | N57: Vkp. Hellevoetsluis (N495) – Vkp. Stellendam (N215) | 10 |   | NEE |   |
+| Ze11 | N57: Vkp. Stellendam (N215) – N59 | 5 |   | NEE | Wt buiten bebouwde kom |
+| Ze47 | N57: N59 – Vkp. De Banjaard (N255) | 0 | 73 | NEE | Wt buiten bebouwde kom |
+| Ze48 | N57: Vkp. De Banjaard (N255) – Vkp. Middelburg Klarenbeek | 0 | 73 | NEE | Wt buiten bebouwde kom |
+| Ze16 | N57: Vkp. Middelburg Klarenbeek – Knp. Arnestein | 0 | 9 | NEE |   |
+| **Rijksweg A58** | **Rijksweg A58** | **Rijksweg A58** | **Rijksweg A58** | **Rijksweg A58** | **Rijksweg A58** |
+| B141 | A58: Knp. Batadorp – afrit 8 (Oirschot) | 18 |   | JA |   |
+| B6 | A58:afrit 8 (Oirschot) – Knp. De Baars | 16 |   | JA |   |
+| B120 | A58: Knp. De Baars – afrit 10 (Tilburg Centrum Oost) | 19 |   | JA |   |
+| B111 | A58: afrit 10 (Tilburg Centrum Oost) – afrit 11 (Tilburg Centrum West) | 24 |   | JA |   |
+| B113 | A58: afrit 11 (Tilburg Centrum West) – afrit 12 (Tilburg Reeshof) | 23 |   | JA |   |
+| B5 | A58: afrit 12 (Tilburg Reeshof) – Knp. Sint Annabosch | 21 |   | JA |   |
+| B101 | A58: Knp. Sint Annabosch – afrit 14 (Ulvenhout) | 23 |   | JA |   |
+| B4 | A58: afrit 14 (Ulvenhout) – Knp. Galder | 24 |   | JA |   |
+|   | A16/A58 Knp. Galder – A16/A58 Knp. Princeville |   |   |   | Zie Wegvakken B40 en B116 op Rijksweg A16 |
+| B129 | A58 : Knp. Princeville – afrit 18 (Etten-Leur) | 0 | 82 | JA |   |
+| B136 | A58 : afrit 18 (Etten-Leur) – afrit 19 (Etten-Leur West) | 0 | 82 | JA |   |
+| B114 | A58: afrit 19 (Etten-Leur West) – afrit 24 (Roosendaal) | 0 | 82 | JA |   |
+| B3 | A58: afrit 24 (Roosendaal) – Knp. De Stok | 0 | 82 | JA |   |
+| B2 | A58: Knp. De Stok – Knp. Zoomland | 29 |   | JA |   |
+|   | A4/A58: Knp. Zoomland – Knp. Markiezaat |   |   |   | Zie A4 |
+| Ze10 | A58: Knp. Markiezaat – afrit 32 (Kruiningen) | 0 | 82 | JA |   |
+| Ze52 | A58: afrit 32 (Kruiningen) – afrit 33 (Yerseke) | 0 | 82 | JA |   |
+| Ze43 | Omleidingsroute Vlaketunnel (A58): Oude Rijksweg | 19 |   | NEE | Omleidingsroute tunnel (Wt buiten bebouwde kom) |
+| Ze51 | A58: afrit 33 (Yerseke) – afrit 35 (Kapelle) (incl. Vlaketunnel) | 0 | 25 | JA | Tc C |
+| Ze9 | A58: afrit 35 (Kapelle) – Knp. De Poel | 0 | 82 | JA |   |
+| Ze50 | A58: Knp. De Poel – Knp. Stelleplas | 5 |   | JA |   |
+| Ze49 | A58: Knp. Stelleplas – Knp. Arnestein | 0 | 0 | JA |   |
+| Ze8 | A58: Knp. Arnestein – afrit 39 (Middelburg Centrum) | 0 | 0 | NEE |   |
+| Ze4 | A58:N288- afrit 39 (Middelburg) | 0 | 0 | NEE |   |
+| **Rijksweg N59/A59** | **Rijksweg N59/A59** | **Rijksweg N59/A59** | **Rijksweg N59/A59** | **Rijksweg N59/A59** | **Rijksweg N59/A59** |
+| Ze38 | N59: N57 (Serooskerke) – afrit N256 (Zierikzee) | 0 | 73 | NEE | Wt buiten bebouwde kom |
+| Ze39 | N59: afrit N256 (Zierikzee) – Vkp. Bruinisse | 0 | 73 | NEE | Wt buiten bebouwde kom |
+| Ze40 | N59: Vkp. Bruinisse – afrit N257 (Philipsdam) (incl. Grevelingendam) | 0 | 73 | NEE | Wt buiten bebouwde kom |
+| Z94 | N59: afrit N257 (Philipsdam) – afrit N215 (Oude-Tonge) | 0 | 73 | NEE | Wt buiten bebouwde kom |
+| Z93 | N59: afrit N215 (Oude-Tonge) – Knp. Hellegatsplein | 0 | 73 | NEE | Wt buiten bebouwde kom |
+|   | A29/A59: Knp. Hellegatsplein – Knp. Sabina |   |   |   | Zie wegvak B19 op Rijksweg A29 |
+| B14 | A59: Knp. Sabina – afrit 24 (Fijnaart) | 0 | 74 | NEE |   |
+| B98 | A59: afrit 24 (Fijnaart) – Knp. Noordhoek | 0 | 74 | NEE |   |
+|   | A17/A59: Knp. Noordhoek – Knp. Klaverpolder |   |   |   | Zie A17 |
+|   | A16/A59: Knp. Klaverpolder – Knp. Zonzeel |   |   |   | Zie A16 |
+| B15 | A59: Knp. Zonzeel – afrit 31 (Terheijden) | 10 |   | NEE |   |
+| B102 | A59: afrit 31 (Terheijden) – Knp. Hooipolder | 9 |   | NEE |   |
+| B16 | A59: Knp. Hooipolder – afrit 37 (Waalwijk) | 0 | 74 | NEE |   |
+| B17 | A59: afrit 37 (Waalwijk) – afrit 42 (Heusden) | 0 | 74 | NEE |   |
+| B18 | A59: afrit 42 (Heusden) – Knp. Empel | 0 | 74 | NEE |   |
+|   | A2/A59: Knp. Empel – Knp. Hintham |   |   |   | Zie Wegvak B60 op Rijksweg A2 |
+| B78 | A59: Knp. Hintham – Knp. Paalgraven | 0 | 74 | NEE |   |
+| **Rijksweg N61** | **Rijksweg N61** | **Rijksweg N61** | **Rijksweg N61** | **Rijksweg N61** | **Rijksweg N61** |
+| Ze60 | N61: N61 / N62 (Terneuzen) – N61 / N686 (Terneuzen) | 0 | 73 | NEE | Omleidingsroute; Wt buiten bebouwde kom |
+| Ze61 | N61: N61 / N686 (Terneuzen) – afrit N290 (Terneuzen) | 0 | 73 | NEE | Omleidingsroute; Wt buiten bebouwde kom |
+| Ze19 | N290: afrit N61 (Terneuzen) – afrit N62 (Terneuzen) | 102 |   | NEE | Omleidingsroute tunnel; Wt buiten bebouwde kom |
+| **Rijksweg N62** | **Rijksweg N62** | **Rijksweg N62** | **Rijksweg N62** | **Rijksweg N62** | **Rijksweg N62** |
+| Ze45 | N62: Knp. Stelleplas – Knp. Drie Klauwen | 0 | 99 | JA |   |
+| Ze6 | N62: Knp. Drie Klauwen – afrit N666 (Borssele) | 0 | 99 | JA |   |
+| Ze58 | N62: afrit N666 (Borssele) – afrit N252 (Terneuzen Havens) (incl. Westerscheldetunnel) | 0 | 10 | JA | Tc C |
+| Ze59 | N62: afrit N252 (Terneuzen Havens) – N61 / N62 (Terneuzen) | 0 | 10 | NEE |   |
+| Ze17 | N62: N61 / N62 (Terneuzen) – afrit N290 (Terneuzen) (incl. Sluiskiltunnel) | 0 | 26 | NEE | Tc C |
+| Ze28 | N62: afrit N290 (Terneuzen) – N683 (Westdorpe) | 0 | 10 | NEE |   |
+| Ze30 | N62: N683 (Westdorpe) – Grens België | 0 | 10 | NEE |   |
+| **Rijksweg A65** | **Rijksweg A65** | **Rijksweg A65** | **Rijksweg A65** | **Rijksweg A65** | **Rijksweg A65** |
+| B58 | A65: Knp. Vught – afrit 3 (Tilburg Noord) | 0 | 48 | NEE |   |
+| B138 | A65: afrit 3 (Tilburg Noord) – Knp. De Baars | 0 | 48 | NEE |   |
+| **Rijksweg A67** | **Rijksweg A67** | **Rijksweg A67** | **Rijksweg A67** | **Rijksweg A67** | **Rijksweg A67** |
+| B71 | A67: Grens België – afrit 30 (Eersel) | 28 |   | JA |   |
+| B103 | A67: afrit 30 (Eersel) – Knp. De Hogt | 29 |   | JA |   |
+|   | A2/A67: Knp. De Hogt – Knp. Leenderheide |   |   |   | Zie Wegvakken B72 en B104 op Rijksweg A2 |
+| B73 | A67: Knp. Leenderheide – afrit 35 (Someren) | 29 |   | JA |   |
+| B112 | A67: afrit 35 (Someren) – afrit 38 (Panningen) | 32 |   | JA |   |
+| L5 | A67: afrit 38 (Panningen) - afrit 39 (Venlo Noordwest) | 26 |   | JA |   |
+| L89 | A67: afrit 39 (Venlo Noordwest) – Knp. Zaarderheiken | 22 |   | JA |   |
+| L6 | A67: Knp. Zaarderheiken – afrit 40 (Velden) | 30 |   | JA |   |
+| L90 | A67: afrit 40 (Velden) – afrit 41 (Venlo) | 29 |   | JA |   |
+| L91 | A67: afrit 41 (Venlo) – Grens Duitsland | 27 |   | JA |   |
+| **Rijksweg A73** | **Rijksweg A73** | **Rijksweg A73** | **Rijksweg A73** | **Rijksweg A73** | **Rijksweg A73** |
+| G28 | A73: Knp. Ewijk – Knp. Neerbosch | 13 |   | JA |   |
+| G27 | A73: Knp. Neerbosch – afrit 1A (Wijchen) | 13 |   | JA |   |
+| G26 | A73: afrit 1A (Wijchen) – afrit 3 (Malden) | 15 |   | JA |   |
+| B84 | A73: afrit 3 (Malden) – afrit 5 (Haps) | 10 |   | JA |   |
+| B118 | A73: afrit 5 (Haps) – Knp. Rijkevoort | 12 |   | JA |   |
+| B85 | A73: Knp. Rijkevoort – afrit 6 (Boxmeer) | 0 | 82 | JA |   |
+| B122 | A73: afrit 6 (Boxmeer) – afrit 7 (Vierlingsbeek) | 0 | 82 | JA |   |
+| L1 | A73: afrit 7 (Vierlingsbeek) – afrit 9 (Venray) | 1 |   | JA |   |
+| L2 | A73: afrit 9 (Venray) – afrit 11 (Horst) | 1 |   | JA |   |
+| L87 | A73: afrit 11 (Horst) – afrit 12 (Grubbenvorst) | 6 |   | JA |   |
+| L88 | A73: afrit 12 (Grubbenvorst) – Knp. Zaarderheiken | 11 |   | JA |   |
+| L104 | A73: Knp. Zaarderheiken – afrit 13 (Venlo West) | 17 |   | JA |   |
+| L117 | A73: afrit 13 (Venlo West) – afrit 14 (Maasbree) | 17 |   | JA |   |
+| L13 | A73: afrit 14 (Maasbree) – afrit 16 (Venlo Zuid) | 17 |   | JA |   |
+| L14 | A73: afrit 16 (Venlo Zuid) – Knp. Tiglia | 17 |   | JA |   |
+| L121 | A73: Knp. Tiglia – afrit 18 (Beesel) | 0 | 74 | NEE |   |
+| L37 | A73: afrit 18 (Beesel) – afrit 19 (Roermond) (incl. Swalmentunnel) | 0 | 74 | NEE | Tc A |
+| L111 | A73: afrit 19 (Roermond) – afrit 20 (Roermond Oost) | 14 |   | JA |   |
+| L112 | A73: afrit 20 (Roermond Oost) – afrit 21 (Linne) (incl. Roertunnel) | 14 |   | JA | Tc A |
+| L113 | A73: afrit 21 (Linne) – afrit 22 (Maasbracht) | 14 |   | JA |   |
+| L115 | A73: afrit 22 (Maasbracht) – Knp. Het Vonderen | 14 |   | JA |   |
+| **Rijksweg A74** | **Rijksweg A74** | **Rijksweg A74** | **Rijksweg A74** | **Rijksweg A74** | **Rijksweg A74** |
+| L119 | A74: knp. Tiglia – Grens Duitsland | 1 | 82 | JA |   |
+| **Rijksweg A76** | **Rijksweg A76** | **Rijksweg A76** | **Rijksweg A76** | **Rijksweg A76** | **Rijksweg A76** |
+| L62 | A76: Grens België – Knp. Kerensheide | 13 |   | JA |   |
+| L63 | A76: Knp. Kerensheide – afrit 2 (Geleen) | 14 |   | JA |   |
+| L93 | A76: afrit 2 (Geleen) – afrit 5 (Nuth) | 6 |   | JA |   |
+| L94 | A76: afrit 5 (Nuth) – Knp. Ten Esschen | 7 |   | JA |   |
+| L64 | A76: Knp. Ten Esschen – Knp. Kunderberg | 7 |   | JA |   |
+| L65 | A76: Knp. Kunderberg – afrit 7 (Simpelveld) | 2 |   | JA |   |
+| L66 | A76: afrit 7 (Simpelveld) – grens Duitsland | 3 |   | JA |   |
+| **Rijksweg A77** | **Rijksweg A77** | **Rijksweg A77** | **Rijksweg A77** | **Rijksweg A77** | **Rijksweg A77** |
+| B97 | A77: Knp. Rijkevoort – afrit 2 (Gennep) | 0 | 82 | NEE |   |
+| L8 | A77: afrit 2 (Gennep) – Grens Duitsland | 0 | 82 | NEE |   |
+| **Rijksweg A79** | **Rijksweg A79** | **Rijksweg A79** | **Rijksweg A79** | **Rijksweg A79** | **Rijksweg A79** |
+| L109 | A79: Knp. Kruisdonk – afrit 1 (Bunde) | 0 | 9 | NEE |   |
+| L61 | A79: afrit 1 (Bunde) – afrit 4 (Hulsberg) | 0 | 9 | NEE |   |
+| L102 | A79: afrit 4 (Hulsberg) – Knp. Kunderberg | 0 | 9 | NEE |   |
+| **Rijksweg N99** | **Rijksweg N99** | **Rijksweg N99** | **Rijksweg N99** | **Rijksweg N99** | **Rijksweg N99** |
+| Nh30 | N99: N250 (De Kooy) – Vkp. Van Ewijcksluis | 0 | 47 | NEE | Wt buiten bebouwde kom |
+| Nh79 | N99: Vkp. Van Ewijcksluis – A7 | 0 | 47 | NEE | Wt buiten bebouwde kom |
 
 **Toelichting tabel:**
 
@@ -1354,6 +1360,1120 @@ Deze regeling berust mede op [artikel 2.24, tweede lid, van de Omgevingswet](htt
 
 ## Bijlage II. Tabel Basisnet spoor
 
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Aanwijzing basisnetroutes** | **Aanwijzing basisnetroutes** | **Aanwijzing basisnetroutes** | **Risicoplafonds** | **Risicoplafonds** | **Risicoplafonds** | **Brandvoorschriftengebied (BVG)** | **Bijzonderheden** | **Bijzonderheden** |
+|   |   |   | **PR-plafonds** | **PR-plafonds** | **PR-plafonds** |   | **Breedtecategorie** | **Overige** |
+| **Begincoördinaten** | **Eindcoördinaten** | **Naam+ trajectnummer** | **PR 10‾⁶** | **PR 10‾⁷** | **PR 10‾⁸** |   | **(afstand in meters)** | **Weerstation** |
+|   |   |   | **(afstand in meters)** | **(afstand in meters)** | **(afstand in meters)** |   |   | **Wisseltoeslag (W)Kopmaken (K)Lage snelheid (L)Veiligheidsmaatregel (V1/V2)** |
+| 40809 : 385096 | 90165 : 394400 | Route 11, Sloehaven – Roosendaal West |   |   |   | Nee |   | Vlissingen |
+| 40809 : 385096 | 40851 : 385197 | A: Sloehaven – Franse Monument | 0 | 133 | 369 |   | 0–24 | W |
+| 40851 : 385197 | 40866 : 385248 | B: | 0 | 132 | 363 |   | 25–49 | W |
+| 40866 : 385248 | 40872 : 385286 | C: | 0 | 133 | 363 |   | 50–74 | W |
+| 40872 : 385286 | 40874 : 385322 | D: | 0 | 134 | 364 |   | 75–99 | W |
+| 40874 : 385322 | 40866 : 385382 | E: | 0 | 136 | 365 |   | 100–124 | W |
+| 40866 : 385382 | 40849 : 385430 | F: | 0 | 138 | 367 |   | 125–149 | W |
+| 40849 : 385430 | 40843 : 385446 | G: | 0 | 136 | 365 |   | 100–124 | W |
+| 40843 : 385446 | 40841 : 385453 | H: | 0 | 138 | 367 |   | 125–149 | W |
+| 40841 : 385453 | 40569 : 385997 | I: | 0 | 136 | 365 |   | 100–124 | W |
+| 40569 : 385997 | 40560 : 386034 | J: | 0 | 134 | 364 |   | 75–99 | W |
+| 40560 : 386034 | 40554 : 386065 | K: | 0 | 133 | 363 |   | 50–74 | W |
+| 40554 : 386065 | 40546 : 386100 | L: | 0 | 132 | 363 |   | 25–49 | W |
+| 40546 : 386100 | 39671 : 387511 | M: | 0 | 133 | 369 |   | 0–24 | W |
+| 39671 : 387511 | 38185 : 391531 | N: | 0 | 62 | 239 |   | 0–24 |   |
+| 38185 : 391531 | 39112 : 391764 | O: | 0 | 133 | 369 |   | 0–24 | W |
+| 39112 : 391764 | 45692 : 391282 | P: Franse Monument – Bergen op Zoom | 0 | 62 | 239 |   | 0–24 |   |
+| 45692 : 391282 | 46764 : 391204 | Q: | 0 | 133 | 369 |   | 0–24 | W |
+| 46764 : 391204 | 50066 : 390985 | R: | 0 | 62 | 239 |   | 0–24 |   |
+| 50066 : 390985 | 50954 : 390972 | S: | 0 | 133 | 369 |   | 0–24 | W |
+| 50954 : 390972 | 51413 : 390977 | T: | 0 | 132 | 363 |   | 25–49 | W |
+| 51413 : 390977 | 51807 : 390975 | U: | 0 | 133 | 369 |   | 0–24 | W |
+|   |   |   |   |   |   |   |   | Woensdrecht |
+| 51807 : 390975 | 60355 : 387582 | V: | 0 | 62 | 239 |   | 0–24 |   |
+| 60355 : 387582 | 62121 : 386488 | W: | 0 | 133 | 369 |   | 0–24 | W |
+| 62121 : 386488 | 69382 : 382193 | X: | 0 | 62 | 239 |   | 0–24 |   |
+| 69382 : 382193 | 70518 : 382309 | Y: | 0 | 133 | 369 |   | 0–24 | W |
+| 70518 : 382309 | 79204 : 388202 | Z: | 0 | 62 | 239 |   | 0–24 |   |
+| 79204 : 388202 | 79526 : 390855 | AA: | 0 | 133 | 369 |   | 0–24 | W |
+| 79526 : 390855 | 79556 : 390889 | AB: Bergen op Zoom – Roosendaal West | 0 | 62 | 239 |   | 0–24 |   |
+| 79556 : 390889 | 80427 : 391335 | AC: | 0 | 133 | 369 |   | 0–24 | W |
+| 80427 : 391335 | 82240 : 391604 | AD: | 0 | 62 | 239 |   | 0–24 |   |
+| 82240 : 391604 | 83229 : 391751 | AE: | 0 | 133 | 369 |   | 0–24 | W |
+| 83229 : 391751 | 89987 : 393889 | AF: | 0 | 62 | 239 |   | 0–24 |   |
+| 89987 : 393889 | 90165 : 394400 | AG: | 0 | 133 | 369 |   | 0–24 | W |
+| 91050 : 395470 | 111159 : 400589 | Route 12, Roosendaal Oost – Breda aansl. |   |   |   | Nee |   | Woensdrecht |
+| 91050 : 395470 | 91307 : 395652 | A: | 0 | 0 | 120 |   | 0–24 | W L |
+| 91307 : 395652 | 91559 : 395696 | B: | 0 | 39 | 210 |   | 0–24 | W |
+| 91559 : 395696 | 91937 : 395672 | C: | 0 | 11 | 159 |   | 0–24 |   |
+| 91937 : 395672 | 92904 : 395927 | D: | 0 | 39 | 210 |   | 0–24 | W |
+| 92904 : 395927 | 100038 : 397830 | E: | 0 | 11 | 159 |   | 0–24 |   |
+| 100038 : 397830 | 101699 : 398272 | F: | 0 | 39 | 210 |   | 0–24 | W |
+| 101699 : 398272 | 105079 : 399568 | G: | 0 | 11 | 159 |   | 0–24 |   |
+|   |   |   |   |   |   |   |   | Gilze–Rijen |
+| 105079 : 399568 | 109727 : 400765 | H: | 0 | 11 | 159 |   | 0–24 |   |
+| 109727 : 400765 | 110734 : 400651 | I: | 0 | 39 | 210 |   | 0–24 | W |
+| 110734 : 400651 | 110912 : 400628 | J: | 0 | 80 | 232 |   | 25–49 | W |
+| 110912 : 400628 | 111159 : 400589 | K: | 0 | 14 | 158 |   | 25–49 |   |
+| 111159 : 400589 | 135660 : 397053 | Route 12, Breda aansl. – Tilburg aansl. |   |   |   | Ja |   | Gilze–Rijen |
+| 111159 : 400589 | 111522 : 400555 | L: | 1 | 18 | 162 |   | 0–24 |   |
+| 111522 : 400555 | 112429 : 400800 | M: | 8 | 57 | 221 |   | 0–24 | W |
+| 112429 : 400800 | 112586 : 400857 | N: | 1 | 56 | 207 |   | 25–49 | W |
+| 112586 : 400857 | 113092 : 400908 | O: | 1 | 59 | 211 |   | 50–74 | W |
+| 113092 : 400908 | 113252 : 400917 | P: | 1 | 56 | 207 |   | 25–49 | W |
+| 113252 : 400917 | 114119 : 400960 | Q: | 8 | 57 | 221 |   | 0–24 | W |
+| 114119 : 400960 | 121320 : 399943 | R: | 1 | 18 | 162 |   | 0–24 |   |
+| 121320 : 399943 | 124175 : 399243 | S: | 8 | 57 | 221 |   | 0–24 | W |
+| 124175 : 399243 | 131219 : 397519 | T: | 1 | 18 | 162 |   | 0–24 |   |
+| 131219 : 397519 | 133781 : 396929 | U: | 8 | 57 | 221 |   | 0–24 | W |
+| 133781 : 396929 | 134296 : 396849 | V: | 1 | 56 | 207 |   | 25–49 | W |
+| 134296 : 396849 | 135660 : 397053 | W: | 8 | 57 | 221 |   | 0–24 | W |
+| 135660 : 397053 | 162895 : 384012 | Route 12, Tilburg aansl. – Eindhoven aansl. |   |   |   | Ja |   | Gilze–Rijen |
+| 135660 : 397053 | 136203 : 397263 | X: Tilburg aansl. – Boxtel | 6 | 38 | 186 |   | 0–24 | W |
+| 136203 : 397263 | 140725 : 398944 | Y: | 1 | 17 | 150 |   | 0–24 |   |
+| 140725 : 398944 | 142609 : 399597 | Z: | 6 | 38 | 186 |   | 0–24 | W |
+| 142609 : 399597 | 146910 : 399899 | AA: | 1 | 17 | 150 |   | 0–24 |   |
+|   |   |   |   |   |   |   |   | Eindhoven |
+| 146910 : 399899 | 149460 : 400060 | AB: | 1 | 17 | 150 |   | 0–24 |   |
+| 149460 : 400060 | 150105 : 399690 | AC: | 6 | 38 | 186 |   | 0–24 | W |
+| 150105 : 399690 | 150145 : 399645 | AD: | 1 | 42 | 183 |   | 25–49 | W |
+| 150145 : 399645 | 150401 : 399369 | AE: | 1 | 50 | 187 |   | 50–74 | W |
+| 150401 : 399369 | 150621 : 399106 | AF: Boxtel – Eindhoven aansl. | 1 | 42 | 183 |   | 25–49 | W |
+| 150621 : 399106 | 150966 : 398519 | AG: | 6 | 38 | 186 |   | 0–24 | W |
+| 150966 : 398519 | 151063 : 398324 | AH: | 1 | 42 | 183 |   | 25–49 | W |
+| 151063 : 398324 | 151406 : 397788 | AI: | 1 | 50 | 187 |   | 50–74 | W |
+| 151406 : 397788 | 151592 : 397458 | AJ: | 1 | 39 | 151 |   | 50–74 |   |
+| 151592 : 397458 | 151596 : 397450 | AK: | 1 | 50 | 187 |   | 50–74 | W |
+| 151596 : 397450 | 151729 : 397189 | AL: | 1 | 42 | 183 |   | 25–49 | W |
+| 151729 : 397189 | 152847 : 395215 | AM: | 6 | 38 | 186 |   | 0–24 | W |
+| 152847 : 395215 | 153930 : 393295 | AN: | 1 | 17 | 150 |   | 0–24 |   |
+| 153930 : 393295 | 154725 : 391922 | AO: | 6 | 38 | 186 |   | 0–24 | W |
+| 154725 : 391922 | 156826 : 388251 | AP: | 1 | 17 | 150 |   | 0–24 |   |
+| 156826 : 388251 | 157547 : 387375 | AQ: | 6 | 38 | 186 |   | 0–24 | W |
+| 157547 : 387375 | 158022 : 386800 | AR: | 1 | 42 | 183 |   | 25–49 | W |
+| 158022 : 386800 | 158677 : 386012 | AS: | 6 | 38 | 186 |   | 0–24 | W |
+| 158677 : 386012 | 159722 : 384743 | AT: | 1 | 17 | 150 |   | 0–24 |   |
+| 159722 : 384743 | 161211 : 383709 | AU: | 6 | 38 | 186 |   | 0–24 | W |
+| 161211 : 383709 | 161308 : 383731 | AV: | 1 | 42 | 183 |   | 25–49 | W |
+| 161308 : 383731 | 161403 : 383762 | AW: | 1 | 50 | 187 |   | 50–74 | W |
+| 161403 : 383762 | 162009 : 383891 | AX: | 1 | 59 | 193 |   | 75–99 | W |
+| 162009 : 383891 | 162526 : 384007 | AY: | 1 | 50 | 187 |   | 50–74 | W |
+| 162526 : 384007 | 162842 : 384016 | AZ: | 1 | 42 | 183 |   | 25–49 | W |
+| 162842 : 384016 | 162895 : 384012 | BA: | 6 | 38 | 186 |   | 0–24 | W |
+| 162895 : 384012 | 209478 : 375425 | Route 12, Eindhoven aansl. – Venlo |   |   |   | Nee |   | Eindhoven |
+| 162895 : 384012 | 163186 : 383996 | BB: | 0 | 0 | 147 |   | 0–24 | W |
+| 163186 : 383996 | 163289 : 384011 | BC: | 0 | 0 | 148 |   | 25–49 | W |
+| 163289 : 384011 | 164002 : 384170 | BD: | 0 | 0 | 147 |   | 0–24 | W |
+| 164002 : 384170 | 172636 : 386849 | BE: | 0 | 0 | 112 |   | 0–24 |   |
+|   |   |   |   |   |   |   |   | Volkel |
+| 172636 : 386849 | 173255 : 387096 | BF: | 0 | 0 | 112 |   | 0–24 |   |
+| 173255 : 387096 | 175528 : 387247 | BG: | 0 | 0 | 147 |   | 0–24 | W |
+| 175528 : 387247 | 182025 : 385523 | BH: | 0 | 0 | 112 |   | 0–24 |   |
+| 182025 : 385523 | 183172 : 385218 | BI: | 0 | 0 | 147 |   | 0–24 | W |
+| 183172 : 385218 | 191849 : 383791 | BJ: | 0 | 0 | 112 |   | 0–24 |   |
+| 191849 : 383791 | 192938 : 383623 | BK: | 0 | 0 | 147 |   | 0–24 | W |
+| 192938 : 383623 | 199603 : 382590 | BL: | 0 | 0 | 112 |   | 0–24 |   |
+| 199603 : 382590 | 201342 : 381538 | BM: | 0 | 0 | 147 |   | 0–24 | W |
+| 201342 : 381538 | 207169 : 377133 | BN: | 0 | 0 | 112 |   | 0–24 |   |
+| 207169 : 377133 | 208410 : 376270 | BO: | 0 | 0 | 147 |   | 0–24 | W |
+| 208410 : 376270 | 208567 : 376113 | BP: | 0 | 0 | 148 |   | 25–49 | W |
+| 208567 : 376113 | 209378 : 375528 | BQ: | 0 | 0 | 147 |   | 0–24 | W |
+| 209378 : 375528 | 209417 : 375490 | BR: | 0 | 0 | 148 |   | 25–49 | W |
+| 209417 : 375490 | 209447 : 375458 | BS: | 0 | 0 | 150 |   | 50–74 | W |
+| 209447 : 375458 | 209478 : 375425 | BT: | 0 | 0 | 153 |   | 75–99 | W |
+| 209478 : 375425 | 210014 : 374689 | Route 12, Venlo – Venlo Oost |   |   |   | Nee |   | Volkel K |
+| 209478 : 375425 | 209683 : 375183 | BU: | 0 | 173 | 332 |   | 100–124 | W |
+| 209683 : 375183 | 209841 : 374991 | BV: | 0 | 179 | 334 |   | 125–149 | W |
+|   |   |   |   |   |   |   |   |   |
+| 209841 : 374991 | 209903 : 374935 | BW: | 0 | 173 | 332 |   | 100–124 | W |
+| 209903 : 374935 | 209954 : 374867 | BX: | 0 | 168 | 331 |   | 75–99 | W |
+| 209954 : 374867 | 209981 : 374814 | BY: | 0 | 164 | 331 |   | 50–74 | W |
+| 209981 : 374814 | 210001 : 374752 | BZ: | 9 | 161 | 330 |   | 25–49 | W |
+| 210001 : 374752 | 210014 : 374689 | CA: | 11 | 161 | 360 |   | 0–24 | W |
+| 210014 : 374689 | 211116 : 372729 | Route 12, Venlo Oost – Kaldenkirchen (D) |   |   |   | Nee |   | Volkel |
+| 210014 : 374689 | 210000 : 373770 | CB: | 0 | 137 | 284 |   | 0–24 | W |
+| 210000 : 373770 | 211116 : 372729 | CC: | 0 | 87 | 198 |   | 0–24 |   |
+| 96995 : 430847 | 96512 : 431785 | Route 30, Barendrecht aansl. – Barendrecht vork 2 |   |   |   | Ja |   | Rotterdam |
+| 96995 : 430847 | 96626 : 431526 | A: | 1 | 16 | 54 |   | 0–24 | W |
+| 96626 : 431526 | 96565 : 431660 | B: | 1 | 30 | 56 |   | 25–49 | W |
+| 96565 : 431660 | 96512 : 431785 | C: | 1 | 16 | 54 |   | 0–24 | W |
+| 96512 : 431785 | 127902 : 464254 | Route 30, Barendrecht vork 2 – Breukelen aansl. |   |   |   | Ja |   | Rotterdam |
+| 96512 : 431785 | 96446 : 431922 | D: Barendrecht vork 2 – Rotterdam Lombardijen | 7 | 21 | 243 |   | 0–24 | W |
+| 96446 : 431922 | 96424 : 431978 | E: | 1 | 34 | 233 |   | 25–49 | W |
+| 96424 : 431978 | 96396 : 432052 | F: | 1 | 45 | 234 |   | 50–74 | W |
+| 96396 : 432052 | 96260 : 432356 | G: | 1 | 56 | 235 |   | 75–99 | W |
+| 96260 : 432356 | 95454 : 433931 | H: Rotterdam – Lombardijen Rotterdam CS | 1 | 45 | 234 |   | 50–74 | W |
+| 95454 : 433931 | 95382 : 434085 | I: | 1 | 34 | 233 |   | 25–49 | W |
+| 95382 : 434085 | 95167 : 434506 | J: | 1 | 45 | 234 |   | 50–74 | W |
+| 95167 : 434506 | 95055 : 434696 | K: | 1 | 34 | 233 |   | 25–49 | W |
+| 95055 : 434696 | 94674 : 435430 | L: | 7 | 21 | 243 |   | 0–24 | W |
+| 94674 : 435430 | 94620 : 435525 | M: | 1 | 34 | 233 |   | 25–49 | W |
+| 94620 : 435525 | 94596 : 435567 | N: | 1 | 28 | 140 |   | 25–49 |   |
+| 94596 : 435567 | 92657 : 437841 | O: | 1 | 15 | 142 |   | 0–24 |   |
+| 92657 : 437841 | 92343 : 437912 | P: | 7 | 21 | 243 |   | 0–24 | W |
+| 92343 : 437912 | 92199 : 437895 | Q: | 1 | 8 | 33 |   | 0–24 | W L |
+| 92199 : 437895 | 92127 : 437885 | R: Rotterdam – CS Rotterdam Blijdorp | 1 | 0 | 40 |   | 25–49 | W L |
+| 92127 : 437885 | 92079 : 437875 | S: | 1 | 0 | 49 |   | 50–74 | W L |
+| 92079 : 437875 | 92028 : 437860 | T: | 1 | 0 | 60 |   | 75–99 | W L |
+| 92028 : 437860 | 91432 : 437683 | U: | 1 | 0 | 71 |   | 100–124 | W |
+| 91432 : 437683 | 91296 : 437663 | V: | 1 | 0 | 60 |   | 75–99 | W |
+| 91296 : 437663 | 91226 : 437656 | W: | 1 | 0 | 49 |   | 50–74 | W |
+| 91226 : 437656 | 91009 : 437645 | X: | 1 | 0 | 60 |   | 75–99 | W |
+| 91009 : 437645 | 90895 : 437637 | Y: | 1 | 0 | 49 |   | 50–74 | W |
+| 90895 : 437637 | 90729 : 437648 | Z: Rotterdam Blijdorp – Gouda | 1 | 45 | 234 |   | 50–74 | W |
+| 90729 : 437648 | 90472 : 437831 | AA: | 1 | 56 | 235 |   | 75–99 | W |
+| 90472 : 437831 | 90443 : 437933 | AB: | 1 | 45 | 234 |   | 50–74 | W |
+| 90443 : 437933 | 90441 : 438037 | AC: | 1 | 34 | 233 |   | 25–49 | W |
+| 90441 : 438037 | 90716 : 439111 | AD: | 7 | 21 | 243 |   | 0–24 | W |
+| 90716 : 439111 | 91551 : 439454 | AE: | 1 | 15 | 142 |   | 0–24 |   |
+| 91551 : 439454 | 92606 : 439674 | AF: | 7 | 21 | 243 |   | 0–24 | W |
+| 92606 : 439674 | 94108 : 439983 | AG: | 1 | 15 | 142 |   | 0–24 |   |
+| 94108 : 439983 | 97049 : 440594 | AH: | 7 | 21 | 243 |   | 0–24 | W |
+| 97049 : 440594 | 102263 : 442393 | AI: | 1 | 15 | 142 |   | 0–24 |   |
+| 102263 : 442393 | 102932 : 443420 | AJ: | 7 | 21 | 243 |   | 0–24 | W |
+| 102932 : 443420 | 104563 : 445957 | AK: | 1 | 15 | 142 |   | 0–24 |   |
+| 104563 : 445957 | 105264 : 447025 | AL: | 7 | 21 | 243 |   | 0–24 | W |
+| 105264 : 447025 | 105405 : 447179 | AM: | 1 | 15 | 142 |   | 0–24 |   |
+| 105405 : 447179 | 106191 : 447789 | AN: | 7 | 21 | 243 |   | 0–24 | W |
+| 106191 : 447789 | 106892 : 447978 | AO: | 1 | 15 | 142 |   | 0–24 |   |
+| 106892 : 447978 | 107797 : 447938 | AP: | 7 | 21 | 243 |   | 0–24 | W |
+| 107797 : 447938 | 108023 : 447923 | AQ: | 1 | 34 | 233 |   | 25–49 | W |
+| 108023 : 447923 | 108298 : 447888 | AR: Gouda – Harmelen aansl. | 1 | 45 | 234 |   | 50–74 | W |
+| 108298 : 447888 | 108434 : 447860 | AS: | 1 | 34 | 233 |   | 25–49 | W |
+| 108434 : 447860 | 109431 : 447747 | AT: | 7 | 21 | 243 |   | 0–24 | W |
+| 109431 : 447747 | 109655 : 447722 | AU: | 1 | 15 | 142 |   | 0–24 |   |
+| 109655 : 447722 | 112214 : 447437 | AV: | 7 | 21 | 243 |   | 0–24 | W |
+| 112214 : 447437 | 114982 : 448653 | AW: | 1 | 15 | 142 |   | 0–24 |   |
+| 114982 : 448653 | 116665 : 449770 | AX: | 7 | 21 | 243 |   | 0–24 | W |
+|   |   |   |   |   |   |   |   | Schiphol |
+| 116665 : 449770 | 117021 : 450007 | AY: | 7 | 21 | 243 |   | 0–24 | W |
+| 117021 : 450007 | 119287 : 452748 | AZ: | 1 | 15 | 142 |   | 0–24 |   |
+| 119287 : 452748 | 120266 : 454401 | BA: | 7 | 21 | 243 |   | 0–24 | W |
+| 120266 : 454401 | 120572 : 454843 | BB: | 1 | 15 | 142 |   | 0–24 |   |
+| 120572 : 454843 | 121068 : 455269 | BC: | 7 | 21 | 243 |   | 0–24 | W |
+| 121068 : 455269 | 121374 : 455438 | BD: | 1 | 34 | 233 |   | 25–49 | W |
+| 121374 : 455438 | 122070 : 455805 | BE: | 7 | 21 | 243 |   | 0–24 | W |
+| 122070 : 455805 | 123987 : 456817 | BF: | 1 | 15 | 142 |   | 0–24 |   |
+| 123987 : 456817 | 124936 : 457313 | BG: | 7 | 21 | 243 |   | 0–24 | W |
+| 124936 : 457313 | 125213 : 457438 | BH: Harmelen aansl. – Breukelen aansl. | 1 | 34 | 233 |   | 25–49 | W |
+| 125213 : 457438 | 125808 : 457901 | BI: | 1 | 28 | 140 |   | 25–49 |   |
+| 125808 : 457901 | 125890 : 458021 | BJ: | 1 | 15 | 142 |   | 0–24 |   |
+| 125890 : 458021 | 126313 : 459164 | BK: | 7 | 21 | 243 |   | 0–24 | W |
+| 126313 : 459164 | 127856 : 463769 | BL: | 1 | 15 | 142 |   | 0–24 |   |
+| 127856 : 463769 | 127902 : 464254 | BM: | 7 | 21 | 243 |   | 0–24 | W |
+| 127902 : 464254 | 124718 : 481053 | Route 30, Breukelen aansl. – Duivendrecht |   |   |   | Ja |   | Schiphol |
+| 127902 : 464254 | 127871 : 464815 | BN: | 1 | 38 | 333 |   | 25–49 | W |
+| 127871 : 464815 | 128056 : 466091 | BO: | 10 | 27 | 344 |   | 0–24 | W |
+| 128056 : 466091 | 127828 : 475308 | BP: | 1 | 17 | 175 |   | 0–24 |   |
+| 127828 : 475308 | 127312 : 476287 | BQ: | 10 | 27 | 344 |   | 0–24 | W |
+| 127312 : 476287 | 127154 : 476577 | BR: | 1 | 17 | 175 |   | 0–24 |   |
+| 127154 : 476577 | 127028 : 476816 | BS: | 10 | 27 | 344 |   | 0–24 | W |
+| 127028 : 476816 | 126642 : 477558 | BT: | 1 | 38 | 333 |   | 25–49 | W |
+| 126642 : 477558 | 126369 : 478053 | BU: | 1 | 31 | 173 |   | 25–49 |   |
+| 126369 : 478053 | 125785 : 479128 | BV: | 1 | 38 | 333 |   | 25–49 | W |
+| 125785 : 479128 | 125687 : 479304 | BW: | 1 | 31 | 173 |   | 25–49 |   |
+| 125687 : 479304 | 125288 : 480026 | BX: | 1 | 38 | 333 |   | 25–49 | W |
+| 125288 : 480026 | 124718 : 481053 | BY: | 1 | 48 | 334 |   | 50–74 | W |
+| 124718 : 481053 | 129296 : 482240 | Route 30, Duivendrecht – Diemen |   |   |   | Ja |   | Schiphol |
+| 124718 : 481053 | 124646 : 481137 | BZ: | 1 | 55 | 235 |   | 75–99 | W |
+| 124646 : 481137 | 124602 : 481186 | CA: | 1 | 66 | 238 |   | 100–124 | W |
+| 124602 : 481186 | 124558 : 481235 | CB: | 1 | 77 | 241 |   | 125–149 | W |
+| 124558 : 481235 | 124508 : 481299 | CC: | 1 | 88 | 245 |   | 150–174 | W |
+| 124508 : 481299 | 124420 : 481479 | CD: | 1 | 99 | 249 |   | 175–199 | W |
+| 124420 : 481479 | 124403 : 481641 | CE: | 1 | 88 | 245 |   | 150–174 | W |
+| 124403 : 481641 | 124423 : 481749 | CF: | 1 | 77 | 241 |   | 125–149 | W |
+| 124423 : 481749 | 124435 : 481782 | CG: | 1 | 66 | 238 |   | 100–124 | W |
+| 124435 : 481782 | 124458 : 481833 | CH: | 1 | 53 | 145 |   | 100–124 |   |
+| 124458 : 481833 | 124467 : 481851 | CI: | 1 | 45 | 143 |   | 75–99 |   |
+| 124467 : 481851 | 124500 : 481901 | CJ: | 1 | 55 | 235 |   | 75–99 | W |
+| 124500 : 481901 | 124554 : 481963 | CK: | 1 | 45 | 234 |   | 50–74 | W |
+| 124554 : 481963 | 124627 : 482026 | CL: | 1 | 34 | 233 |   | 25–49 | W |
+| 124627 : 482026 | 126928 : 483635 | CM: | 6 | 20 | 243 |   | 0–24 | W |
+| 126928 : 483635 | 127258 : 483630 | CN: | 1 | 15 | 142 |   | 0–24 |   |
+| 127258 : 483630 | 128166 : 482972 | CO: | 6 | 20 | 243 |   | 0–24 | W |
+| 128166 : 482972 | 128246 : 482926 | CP: | 1 | 34 | 233 |   | 25–49 | W |
+| 128246 : 482926 | 128313 : 482880 | CQ: | 1 | 28 | 140 |   | 25–49 |   |
+| 128313 : 482880 | 128469 : 482760 | CR: | 1 | 37 | 141 |   | 50–74 |   |
+| 128469 : 482760 | 128631 : 482640 | CS: | 1 | 28 | 140 |   | 25–49 |   |
+| 128631 : 482640 | 128652 : 482626 | CT: | 1 | 34 | 233 |   | 25–49 | W |
+| 128652 : 482626 | 129296 : 482240 | CU: | 6 | 20 | 243 |   | 0–24 | W |
+| 129296 : 482240 | 155600 : 464517 | Route 30, Diemen – Amersfoort Oost |   |   |   | Ja |   | Schiphol |
+| 129296 : 482240 | 129890 : 481860 | CV: Diemen – Weesp | 7 | 21 | 243 |   | 0–24 | W |
+| 129890 : 481860 | 130443 : 481464 | CW: | 1 | 15 | 142 |   | 0–24 |   |
+| 130443 : 481464 | 131343 : 480754 | CX: | 7 | 21 | 243 |   | 0–24 | W |
+| 131343 : 480754 | 131735 : 480399 | CY: | 1 | 34 | 233 |   | 25–49 | W |
+| 131735 : 480399 | 132174 : 479956 | CZ: | 7 | 21 | 243 |   | 0–24 | W |
+| 132174 : 479956 | 133395 : 479356 | DA: Weesp – Hilversum | 1 | 15 | 142 |   | 0–24 |   |
+| 133395 : 479356 | 135052 : 478402 | DB: | 7 | 21 | 243 |   | 0–24 | W |
+| 135052 : 478402 | 138431 : 477960 | DC: | 1 | 15 | 142 |   | 0–24 |   |
+|   |   |   |   |   |   |   |   | Soesterberg |
+| 138431 : 477960 | 139269 : 477119 | DD: | 7 | 21 | 243 |   | 0–24 | W |
+| 139269 : 477119 | 139328 : 476851 | DE: | 1 | 34 | 233 |   | 25–49 | W |
+| 139328 : 476851 | 139584 : 475780 | DF: | 7 | 21 | 243 |   | 0–24 | W |
+| 139584 : 475780 | 139648 : 475507 | DG: | 1 | 15 | 142 |   | 0–24 |   |
+| 139648 : 475507 | 139948 : 474274 | DH: | 7 | 21 | 243 |   | 0–24 | W |
+| 139948 : 474274 | 139976 : 474152 | DI: | 1 | 34 | 233 |   | 25–49 | W |
+| 139976 : 474152 | 140297 : 472735 | DJ: | 7 | 21 | 243 |   | 0–24 | W |
+| 140297 : 472735 | 140563 : 471842 | DK: | 1 | 15 | 142 |   | 0–24 |   |
+| 140563 : 471842 | 140881 : 471107 | DL: | 7 | 21 | 243 |   | 0–24 | W |
+| 140881 : 471107 | 141033 : 470822 | DM: | 1 | 34 | 233 |   | 25–49 | W |
+| 141033 : 470822 | 141072 : 470736 | DN: | 1 | 0 | 40 |   | 25–49 | W L |
+| 141072 : 470736 | 141374 : 470390 | DO: Hilversum – Baarn | 1 | 8 | 33 |   | 0–24 | W L |
+| 141374 : 470390 | 141814 : 470258 | DP: | 7 | 21 | 243 |   | 0–24 | W |
+| 141814 : 470258 | 146704 : 469039 | DQ: | 1 | 15 | 142 |   | 0–24 |   |
+| 146704 : 469039 | 148713 : 467906 | DR: | 7 | 21 | 243 |   | 0–24 | W |
+| 148713 : 467906 | 152289 : 463709 | DS: | 1 | 15 | 142 |   | 0–24 |   |
+| 152289 : 463709 | 152754 : 463181 | DT: Baarn – Amersfoort West | 7 | 21 | 243 |   | 0–24 | W |
+| 152754 : 463181 | 152856 : 463080 | DU: | 1 | 34 | 233 |   | 25–49 | W |
+| 152856 : 463080 | 152934 : 463011 | DV: | 1 | 45 | 234 |   | 50–74 | W |
+| 152934 : 463011 | 153004 : 462967 | DW: | 1 | 56 | 235 |   | 75–99 | W |
+| 153004 : 462967 | 153104 : 462923 | DX: | 1 | 67 | 238 |   | 100–124 | W |
+| 153104 : 462923 | 153237 : 462883 | DY: | 1 | 0 | 81 |   | 125–149 | W L |
+| 153237 : 462883 | 153350 : 462862 | DZ: | 1 | 0 | 71 |   | 100–124 | W L |
+| 153350 : 462862 | 153448 : 462845 | EA: | 1 | 0 | 60 |   | 75–99 | W L |
+| 153448 : 462845 | 153593 : 462824 | EB: Amersfoort West – Amersfoort Oost | 1 | 0 | 49 |   | 50–74 | W L |
+| 153593 : 462824 | 153669 : 462824 | EC: | 1 | 0 | 60 |   | 75–99 | W L |
+| 153669 : 462824 | 153776 : 462829 | ED: | 1 | 0 | 71 |   | 100–124 | W L |
+| 153776 : 462829 | 154117 : 462853 | EE: | 1 | 0 | 60 |   | 75–99 | W L |
+| 154117 : 462853 | 154415 : 462986 | EF: | 1 | 0 | 49 |   | 50–74 | W L |
+| 154415 : 462986 | 154455 : 463028 | EG: | 1 | 0 | 40 |   | 25–49 | W L |
+| 154455 : 463028 | 154546 : 463136 | EH: | 1 | 34 | 233 |   | 25–49 | W |
+| 154546 : 463136 | 155247 : 464051 | EI: | 7 | 21 | 243 |   | 0–24 | W |
+| 155247 : 464051 | 155600 : 464517 | EJ: | 1 | 34 | 233 |   | 25–49 | W |
+| 155600 : 464517 | 207590 : 474798 | Route 30, Amersfoort Oost – Deventer West |   |   |   | Nee |   | Soesterberg |
+| 155600 : 464517 | 155751 : 464660 | EK: Amersfoort Oost – Barneveld aansl. | 0 | 0 | 15 |   | 0–24 | W |
+| 155751 : 464660 | 166056 : 463827 | EL: | 0 | 0 | 12 |   | 0–24 |   |
+|   |   |   |   |   |   |   |   | Deelen |
+| 166056 : 463827 | 168168 : 463803 | EM: | 0 | 0 | 12 |   | 0–24 |   |
+| 168168 : 463803 | 170172 : 463946 | EN: | 0 | 0 | 15 |   | 0–24 | W |
+| 170172 : 463946 | 174378 : 466185 | EO: Barneveld aansl. – Apeldoorn | 0 | 0 | 12 |   | 0–24 |   |
+| 174378 : 466185 | 175459 : 466573 | EP: | 0 | 0 | 15 |   | 0–24 | W |
+| 175459 : 466573 | 175621 : 466627 | EQ: | 0 | 0 | 12 |   | 0–24 |   |
+| 175621 : 466627 | 176641 : 466969 | ER: | 0 | 0 | 15 |   | 0–24 | W |
+| 176641 : 466969 | 192991 : 468205 | ES: | 0 | 0 | 12 |   | 0–24 |   |
+| 192991 : 468205 | 193865 : 468899 | ET: | 0 | 0 | 15 |   | 0–24 | W |
+| 193865 : 468899 | 193889 : 468917 | EU: | 0 | 0 | 12 |   | 0–24 |   |
+| 193889 : 468917 | 194564 : 469194 | EV: | 0 | 0 | 15 |   | 0–24 | W |
+| 194564 : 469194 | 195142 : 469162 | EW: Apeldoorn – Deventer West | 0 | 0 | 28 |   | 25–49 | W |
+| 195142 : 469162 | 196095 : 469292 | EX: | 0 | 0 | 15 |   | 0–24 | W |
+| 196095 : 469292 | 206796 : 474423 | EY: | 0 | 0 | 12 |   | 0–24 |   |
+| 206796 : 474423 | 207590 : 474798 | EZ: | 0 | 0 | 15 |   | 0–24 | W |
+| 207590 : 474798 | 207988 : 474538 | Route 30, Deventer – West Deventer |   |   |   | Nee |   | Deelen |
+| 207590 : 474798 | 207611 : 474787 | FA: | 0 | 9 | 17 |   | 0–24 | W |
+| 207611 : 474787 | 207988 : 474538 | FB: | 0 | 0 | 32 |   | 25–49 | W |
+| 207988 : 474538 | 210200 : 474118 | Route 30, Deventer – Deventer Oost |   |   |   | Nee |   | Deelen K |
+| 207988 : 474538 | 208342 : 474456 | FC: | 0 | 12 | 138 |   | 0–24 | W |
+| 208342 : 474456 | 209014 : 474686 | FD: | 0 | 17 | 135 |   | 25–49 | W |
+| 209014 : 474686 | 210200 : 474118 | FE: | 0 | 12 | 138 |   | 0–24 | W |
+| 210200 : 474118 | 250778 : 475837 | Route 30, Deventer Oost – Hengelo West |   |   |   | Nee |   | Deelen |
+| 210200 : 474118 | 210618 : 473906 | FF: Deventer Oost –Wierden | 0 | 10 | 47 |   | 0–24 | W |
+| 210618 : 473906 | 221906 : 476744 | FG: | 0 | 0 | 18 |   | 0–24 |   |
+| 221906 : 476744 | 231408 : 480664 | FH: | 0 | 0 | 18 |   | 0–24 |   |
+| 231408 : 480664 | 232951 : 481756 | FI: | 0 | 10 | 47 |   | 0–24 | W |
+| 232951 : 481756 | 236178 : 486419 | FJ: | 0 | 0 | 18 |   | 0–24 |   |
+| 236178 : 486419 | 237901 : 486726 | FK: | 0 | 10 | 47 |   | 0–24 | W |
+| 237901 : 486726 | 240183 : 486989 | FL: Wierden – Almelo | 0 | 0 | 18 |   | 0–24 |   |
+| 240183 : 486989 | 240920 : 486704 | FM: Almelo – Hengelo West | 0 | 10 | 47 |   | 0–24 | W |
+| 240920 : 486704 | 241028 : 486617 | FN: | 0 | 0 | 47 |   | 25–49 | W |
+| 241028 : 486617 | 241366 : 486261 | FO: | 0 | 0 | 54 |   | 50–74 | W |
+| 241366 : 486261 | 241431 : 486174 | FP: | 0 | 0 | 47 |   | 25–49 | W |
+| 241431 : 486174 | 241676 : 485536 | FQ: | 0 | 10 | 47 |   | 0–24 | W |
+| 241676 : 485536 | 250207 : 476149 | FR: | 0 | 0 | 18 |   | 0–24 |   |
+| 250207 : 476149 | 250302 : 476024 | FS: | 0 | 10 | 47 |   | 0–24 | W |
+| 250302 : 476024 | 250778 : 475837 | FT: | 0 | 0 | 11 |   | 0–24 | W L |
+| 250778 : 475837 | 251296 : 475756 | Route 30, Hengelo West – Hengelo Oost |   |   |   | Nee |   | Twente K |
+| 250778 : 475837 | 250879 : 475821 | FU: | 0 | 0 | 23 |   | 0–24 | W L |
+| 250879 : 475821 | 251296 : 475756 | FV: | 0 | 0 | 35 |   | 25–49 | W L |
+| 251296 : 475756 | 267719 : 481409 | Route 30, Hengelo Oost – Bad Bentheim (D) |   |   |   | Nee |   | Twente |
+| 251296 : 475756 | 251667 : 475906 | FW: | 0 | 0 | 22 |   | 0–24 | W L |
+| 251667 : 475906 | 252067 : 476166 | FX: | 0 | 15 | 156 |   | 0–24 | W |
+| 252067 : 476166 | 259761 : 480716 | FY: | 0 | 10 | 117 |   | 0–24 |   |
+| 259761 : 480716 | 261798 : 480992 | FZ: | 0 | 15 | 156 |   | 0–24 | W |
+| 261798 : 480992 | 267719 : 481409 | GA: | 0 | 10 | 117 |   | 0–24 |   |
+| 102453 : 426206 | 105737 : 424474 | Route 35, Kijfhoek aansl. Zuid – Dordrecht |   |   |   | Ja |   | Rotterdam |
+| 102453 : 426206 | 103828 : 425266 | A: | 18 | 262 | 1226 |   | 0–24 | W |
+| 103828 : 425266 | 103962 : 425178 | B: | 12 | 162 | 772 |   | 0–24 |   |
+| 103962 : 425178 | 104529 : 424778 | C: | 18 | 262 | 1226 |   | 0–24 | W |
+| 104529 : 424778 | 104740 : 424668 | D: | 31 | 260 | 1226 |   | 25–49 | W |
+| 104740 : 424668 | 104983 : 424616 | E: | 18 | 262 | 1226 |   | 0–24 | W |
+| 104983 : 424616 | 105703 : 424479 | F: | 31 | 260 | 1226 |   | 25–49 | W |
+| 105703 : 424479 | 105737 : 424474 | G: | 18 | 262 | 1226 |   | 0–24 | W |
+| 105737 : 424474 | 104757 : 412055 | Route 35, Dordrecht – Moerdijk racc. aansl. |   |   |   | Ja |   | Rotterdam |
+| 105737 : 424474 | 105921 : 423218 | H: | 17 | 224 | 960 |   | 0–24 | W |
+| 105921 : 423218 | 103473 : 418035 | I: | 11 | 148 | 589 |   | 0–24 |   |
+| 103473 : 418035 | 103129 : 416934 | J: | 17 | 224 | 960 |   | 0–24 | W |
+| 103129 : 416934 | 103566 : 415030 | K: | 11 | 148 | 589 |   | 0–24 |   |
+|   |   |   |   |   |   |   |   | Gilze–Rijen |
+| 103566 : 415030 | 103783 : 414484 | L: | 11 | 148 | 589 |   | 0–24 |   |
+| 103783 : 414484 | 104156 : 413523 | M: | 17 | 224 | 960 |   | 0–24 | W |
+| 104156 : 413523 | 104178 : 413456 | N: | 30 | 221 | 959 |   | 25–49 | W |
+| 104178 : 413456 | 104416 : 412957 | O: | 16 | 146 | 582 |   | 25–49 |   |
+| 104416 : 412957 | 104553 : 412610 | P: | 1 | 148 | 583 |   | 50–74 |   |
+| 104553 : 412610 | 104579 : 412524 | Q: | 16 | 146 | 582 |   | 25–49 |   |
+| 104579 : 412524 | 104598 : 412462 | R: | 30 | 221 | 959 |   | 25–49 | W |
+| 104598 : 412462 | 104757 : 412055 | S: | 17 | 224 | 960 |   | 0–24 | W |
+| 104757 : 412055 | 105031 : 411413 | Route 35, Moerdijk racc. aansl. – Lage Zwaluwe |   |   |   | Ja |   | Gilze–Rijen K |
+| 104757 : 412055 | 104770 : 412026 | T: | 22 | 266 | 1194 |   | 0–24 | W |
+| 104770 : 412026 | 104838 : 411889 | U: | 34 | 262 | 1194 |   | 25–49 | W |
+| 104838 : 411889 | 104958 : 411600 | V: | 44 | 264 | 1194 |   | 50–74 | W |
+| 104958 : 411600 | 105019 : 411446 | W: | 28 | 175 | 747 |   | 50–74 |   |
+| 105019 : 411446 | 105031 : 411413 | X: | 44 | 264 | 1194 |   | 50–74 | W |
+| 105031 : 411413 | 105181 : 410975 | Route 35, Lage Zwaluwe – Zevenbergschenhoek aansl. |   |   |   | Ja |   | Gilze–Rijen |
+| 105031 : 411413 | 105044 : 411371 | Y: | 43 | 262 | 1194 |   | 50–74 | W |
+| 105044 : 411371 | 105076 : 411254 | Z: | 33 | 261 | 1194 |   | 25–49 | W |
+| 105076 : 411254 | 105181 : 410975 | AA: | 21 | 264 | 1194 |   | 0–24 | W |
+| 105181 : 410975 | 91050 : 395470 | Route 35, Zevenbergschenhoek aansl. – Roosendaal Oost |   |   |   | Ja |   | Gilze–Rijen |
+| 105181 : 410975 | 105340 : 410501 | AB: | 18 | 261 | 1194 |   | 0–24 | W |
+| 105340 : 410501 | 101392 : 406411 | AC: | 12 | 168 | 748 |   | 0–24 |   |
+| 101392 : 406411 | 100331 : 404733 | AD: | 18 | 261 | 1194 |   | 0–24 | W |
+| 100331 : 404733 | 96752 : 401080 | AE: | 12 | 168 | 748 |   | 0–24 |   |
+|   |   |   |   |   |   |   |   | Woensdrecht |
+| 96752 : 401080 | 96381 : 400738 | AF: | 12 | 168 | 748 |   | 0–24 |   |
+| 96381 : 400738 | 94897 : 399369 | AG: | 18 | 261 | 1194 |   | 0–24 | W |
+| 94897 : 399369 | 91412 : 395997 | AH: | 12 | 168 | 748 |   | 0–24 |   |
+| 91412 : 395997 | 91333 : 395820 | AI: | 18 | 261 | 1194 |   | 0–24 | W |
+| 91333 : 395820 | 91050 : 395470 | AJ: | 1 | 69 | 291 |   | 0–24 | W L |
+| 91050 : 395470 | 90740 : 395213 | Route 35, Roosendaal Oost – Roosendaal |   |   |   | Ja |   | Woensdrecht |
+| 91050 : 395470 | 90955 : 395386 | AK: | 1 | 89 | 305 |   | 0–24 | W L |
+| 90955 : 395386 | 90864 : 395316 | AL: | 1 | 85 | 300 |   | 25–49 | W L |
+| 90864 : 395316 | 90740 : 395213 | AM: | 1 | 84 | 302 |   | 50–74 | W L |
+| 90740 : 395213 | 90165 : 394400 | Route 35, Roosendaal – Roosendaal West |   |   |   | Ja |   | Woensdrecht K |
+| 90740 : 395213 | 90287 : 394744 | AN: | 1 | 84 | 304 |   | 75–99 | W L |
+| 90287 : 394744 | 90248 : 394662 | AO: | 1 | 84 | 302 |   | 50–74 | W L |
+| 90248 : 394662 | 90206 : 394543 | AP: | 1 | 85 | 300 |   | 25–49 | W L |
+| 90206 : 394543 | 90182 : 394456 | AQ: | 1 | 89 | 305 |   | 0–24 | W L |
+| 90182 : 394456 | 90165 : 394400 | AR: | 21 | 269 | 1210 |   | 0–24 | W |
+| 90165 : 394400 | 89806 : 387096 | Route 35, Roosendaal West – Essen (B) |   |   |   | Ja |   | Woensdrecht |
+| 90165 : 394400 | 89981 : 393847 | AS: | 16 | 244 | 1104 |   | 0–24 | W |
+| 89981 : 393847 | 89806 : 387096 | AT: | 11 | 153 | 687 |   | 0–24 |   |
+| 131954 : 480163 | 202936 : 502069 | Route 40, Weesp – Zwolle |   |   |   | Ja |   | Soesterberg |
+| 131954 : 480163 | 132017 : 480093 | A: Weesp – Hattem | 1 | 15 | 142 |   | 0–24 |   |
+| 132017 : 480093 | 132201 : 479918 | B: | 1 | 28 | 140 |   | 25–49 |   |
+| 132201 : 479918 | 132304 : 479844 | C: | 1 | 37 | 141 |   | 50–74 |   |
+| 132304 : 479844 | 132907 : 479717 | D: | 1 | 28 | 140 |   | 25–49 |   |
+| 132907 : 479717 | 133294 : 479874 | E: | 1 | 15 | 142 |   | 0–24 |   |
+| 133294 : 479874 | 134297 : 480793 | F: | 6 | 20 | 243 |   | 0–24 | W |
+| 134297 : 480793 | 140046 : 485475 | G: | 1 | 15 | 142 |   | 0–24 |   |
+| 140046 : 485475 | 141019 : 486214 | H: | 6 | 20 | 243 |   | 0–24 | W |
+| 141019 : 486214 | 142531 : 487230 | I: | 1 | 15 | 142 |   | 0–24 |   |
+| 142531 : 487230 | 143339 : 487446 | J: | 6 | 20 | 243 |   | 0–24 | W |
+| 143339 : 487446 | 143601 : 487510 | K: | 1 | 34 | 233 |   | 25–49 | W |
+| 143601 : 487510 | 144243 : 487626 | L: | 6 | 20 | 243 |   | 0–24 | W |
+| 144243 : 487626 | 148365 : 490155 | M: | 1 | 15 | 142 |   | 0–24 |   |
+| 148365 : 490155 | 148846 : 490449 | N: | 6 | 20 | 243 |   | 0–24 | W |
+| 148846 : 490449 | 149487 : 490848 | O: | 1 | 34 | 233 |   | 25–49 | W |
+| 149487 : 490848 | 149804 : 491057 | P: | 6 | 20 | 243 |   | 0–24 | W |
+|   |   |   |   |   |   |   |   |   |
+| 149804 : 491057 | 159177 : 498475 | Q: | 1 | 15 | 142 |   | 0–24 |   |
+| 159177 : 498475 | 160051 : 499329 | R: | 6 | 20 | 243 |   | 0–24 | W |
+| 160051 : 499329 | 160862 : 501322 | S: | 1 | 15 | 142 |   | 0–24 |   |
+| 160862 : 501322 | 160753 : 503115 | T: | 6 | 20 | 243 |   | 0–24 | W |
+| 160753 : 503115 | 160975 : 504938 | U: | 1 | 15 | 142 |   | 0–24 |   |
+| 160975 : 504938 | 161508 : 506062 | V: | 6 | 20 | 243 |   | 0–24 | W |
+| 161508 : 506062 | 162615 : 506759 | W: | 1 | 15 | 142 |   | 0–24 |   |
+| 162615 : 506759 | 162906 : 506807 | X: | 1 | 28 | 140 |   | 25–49 |   |
+| 162906 : 506807 | 165298 : 506645 | Y: | 1 | 15 | 142 |   | 0–24 |   |
+| 165298 : 506645 | 167226 : 506743 | Z: | 6 | 20 | 243 |   | 0–24 | W |
+| 167226 : 506743 | 173908 : 506595 | AA: | 1 | 15 | 142 |   | 0–24 |   |
+|   |   |   |   |   |   |   |   | Deelen |
+| 173908 : 506595 | 176714 : 505441 | AB: | 1 | 15 | 142 |   | 0–24 |   |
+| 176714 : 505441 | 178704 : 505041 | AC: | 6 | 20 | 243 |   | 0–24 | W |
+| 178704 : 505041 | 187897 : 504931 | AD: | 1 | 15 | 142 |   | 0–24 |   |
+| 187897 : 504931 | 188977 : 505486 | AE: | 6 | 20 | 243 |   | 0–24 | W |
+| 188977 : 505486 | 191152 : 504695 | AF: | 1 | 15 | 142 |   | 0–24 |   |
+| 191152 : 504695 | 191752 : 503638 | AG: | 6 | 20 | 243 |   | 0–24 | W |
+| 191752 : 503638 | 199922 : 500192 | AH: | 1 | 15 | 142 |   | 0–24 |   |
+| 199922 : 500192 | 200861 : 500528 | AI: Hattem – Zwolle | 6 | 20 | 243 |   | 0–24 | W |
+| 200861 : 500528 | 201453 : 500869 | AJ: | 1 | 15 | 142 |   | 0–24 |   |
+| 201453 : 500869 | 202126 : 502319 | AK: | 6 | 20 | 243 |   | 0–24 | W |
+| 202126 : 502319 | 202366 : 502375 | AL: | 1 | 34 | 233 |   | 25–49 | W |
+| 202366 : 502375 | 202569 : 502289 | AM: | 6 | 20 | 243 |   | 0–24 | W |
+| 202569 : 502289 | 202709 : 502199 | AN: | 1 | 34 | 233 |   | 25–49 | W |
+| 202709 : 502199 | 202936 : 502069 | AO: | 1 | 45 | 234 |   | 50–74 | W |
+| 202936 : 502069 | 203729 : 501595 | Route 40, Zwolle – Zwolle Oost |   |   |   | Ja |   | Deelen K |
+| 202936 : 502069 | 203099 : 501984 | AP: | 1 | 34 | 233 |   | 25–49 | W |
+| 203099 : 501984 | 203383 : 501816 | AQ: | 8 | 21 | 243 |   | 0–24 | W |
+| 203383 : 501816 | 203615 : 501673 | AR: | 1 | 34 | 233 |   | 25–49 | W |
+| 203615 : 501673 | 203729 : 501595 | AS: | 8 | 21 | 243 |   | 0–24 | W |
+| 203729 : 501595 | 206017 : 502288 | Route 40, Zwolle Oost – Herfte aansl. |   |   |   | Ja |   | Deelen |
+| 203729 : 501595 | 204204 : 501408 | AT: | 7 | 21 | 243 |   | 0–24 | W |
+| 204204 : 501408 | 205607 : 501962 | AU: | 1 | 15 | 142 |   | 0–24 |   |
+| 205607 : 501962 | 206017 : 502288 | AV: | 7 | 21 | 243 |   | 0–24 | - |
+| 206017 : 502288 | 237437 : 576872 | Route 40, Herfte – aansl. Haren aansl. |   |   |   | Ja |   | Deelen |
+| 206017 : 502288 | 206619 : 502766 | AW: Herfte aansl. – Meppel | 6 | 20 | 243 |   | 0–24 | - |
+| 206619 : 502766 | 211470 : 510860 | AX: | 1 | 15 | 142 |   | 0–24 |   |
+| 211470 : 510860 | 212017 : 512234 | AY: | 6 | 20 | 243 |   | 0–24 | W |
+| 212017 : 512234 | 212811 : 515447 | AZ: | 1 | 15 | 142 |   | 0–24 |   |
+|   |   |   |   |   |   |   |   | Eelde |
+| 212811 : 515447 | 209707 : 521892 | BA: | 1 | 15 | 142 |   | 0–24 |   |
+| 209707 : 521892 | 209761 : 522730 | BB: | 6 | 20 | 243 |   | 0–24 | W |
+| 209761 : 522730 | 209842 : 523170 | BC: | 1 | 34 | 233 |   | 25–49 | W |
+| 209842 : 523170 | 210201 : 523939 | BD: | 6 | 20 | 243 |   | 0–24 | W |
+| 210201 : 523939 | 216897 : 524447 | BE: Meppel – Onnen | 1 | 15 | 142 |   | 0–24 |   |
+| 216897 : 524447 | 218180 : 524517 | BF: | 6 | 20 | 243 |   | 0–24 | W |
+| 218180 : 524517 | 227550 : 527377 | BG: | 1 | 15 | 142 |   | 0–24 |   |
+| 227550 : 527377 | 228778 : 528614 | BH: | 6 | 20 | 243 |   | 0–24 | W |
+| 228778 : 528614 | 229366 : 531517 | BI: | 1 | 15 | 142 |   | 0–24 |   |
+| 229366 : 531517 | 229566 : 532497 | BJ: | 6 | 20 | 243 |   | 0–24 | W |
+| 229566 : 532497 | 231196 : 540536 | BK: | 1 | 15 | 142 |   | 0–24 |   |
+| 231196 : 540536 | 231565 : 542357 | BL: | 6 | 20 | 243 |   | 0–24 | W |
+| 231565 : 542357 | 234275 : 555718 | BM: | 1 | 15 | 142 |   | 0–24 |   |
+| 234275 : 555718 | 234866 : 557568 | BN: | 6 | 20 | 243 |   | 0–24 | W |
+| 234866 : 557568 | 238349 : 572910 | BO: | 1 | 15 | 142 |   | 0–24 |   |
+| 238349 : 572910 | 238335 : 573722 | BP: | 6 | 20 | 243 |   | 0–24 | W |
+| 238335 : 573722 | 238340 : 573959 | BQ: | 1 | 34 | 233 |   | 25–49 | W |
+| 238340 : 573959 | 238343 : 574274 | BR: | 1 | 45 | 234 |   | 50–74 | W |
+| 238343 : 574274 | 238341 : 574492 | BS: | 1 | 55 | 235 |   | 75–99 | W |
+| 238341 : 574492 | 238227 : 574918 | BT: | 1 | 66 | 237 |   | 100–124 | W |
+| 238227 : 574918 | 238133 : 575137 | BU: | 1 | 55 | 235 |   | 75–99 | W |
+| 238133 : 575137 | 237848 : 575876 | BV: | 1 | 45 | 234 |   | 50–74 | W |
+| 237848 : 575876 | 237797 : 575977 | BW: | 1 | 34 | 233 |   | 25–49 | W |
+| 237797 : 575977 | 237437 : 576872 | BX: Onnen – Haren aansl. | 6 | 20 | 243 |   | 0–24 | W |
+| 237437 : 576872 | 235981 : 579778 | Route 40, Haren aansl –. Groningen Oost |   |   |   | Ja |   | Eelde |
+| 237437 : 576872 | 237211 : 577435 | BY: | 1 | 16 | 53 |   | 0–24 | W |
+| 237211 : 577435 | 236369 : 579418 | BZ: | 1 | 13 | 25 |   | 0–24 |   |
+| 236369 : 579418 | 235981 : 579778 | CA: | 1 | 16 | 53 |   | 0–24 | W |
+| 235981 : 579778 | 231901 : 590184 | Route 40, Groningen Oost – Sauwerd |   |   |   | Ja |   | Eelde |
+| 235981 : 579778 | 234792 : 580678 | CB: Groningen – Oost Groningen | 11 | 22 | 155 |   | 0–24 | W |
+| 234792 : 580678 | 234705 : 580745 | CC: | 5 | 17 | 118 |   | 0–24 |   |
+| 234705 : 580745 | 233866 : 581087 | CD: | 11 | 22 | 155 |   | 0–24 | W |
+| 233866 : 581087 | 233749 : 581066 | CE: | 15 | 36 | 156 |   | 25–49 | W |
+| 233749 : 581066 | 233684 : 581061 | CF: Groningen – Groningen West | 1 | 47 | 159 |   | 50–74 | W |
+| 233684 : 581061 | 233466 : 581067 | CG: | 15 | 36 | 156 |   | 25–49 | W |
+| 233466 : 581067 | 232653 : 581033 | CH: | 11 | 22 | 155 |   | 0–24 | W |
+| 232653 : 581033 | 232518 : 582603 | CI: Groningen – West Sauwerd | 5 | 17 | 118 |   | 0–24 |   |
+| 232518 : 582603 | 233212 : 584191 | CJ: | 11 | 22 | 155 |   | 0–24 | W |
+| 233212 : 584191 | 231882 : 588618 | CK: | 5 | 17 | 118 |   | 0–24 |   |
+| 231882 : 588618 | 231901 : 590184 | CL: | 11 | 22 | 155 |   | 0–24 | W |
+| 231901 : 590184 | 257760 : 595239 | Route 40, Sauwerd – Delfzijl |   |   |   | Ja |   | Eelde |
+| 231901 : 590184 | 232148 : 590662 | CM: | 10 | 21 | 155 |   | 0–24 | W |
+| 232148 : 590662 | 234508 : 591523 | CN: | 1 | 16 | 118 |   | 0–24 |   |
+| 234508 : 591523 | 236022 : 592071 | CO: | 10 | 21 | 155 |   | 0–24 | W |
+| 236022 : 592071 | 241053 : 593894 | CP: | 1 | 16 | 118 |   | 0–24 |   |
+| 241053 : 593894 | 242552 : 594437 | CQ: | 10 | 21 | 155 |   | 0–24 | W |
+| 242552 : 594437 | 244891 : 595175 | CR: | 1 | 16 | 118 |   | 0–24 |   |
+| 244891 : 595175 | 245886 : 595084 | CS: | 10 | 21 | 155 |   | 0–24 | W |
+| 245886 : 595084 | 252261 : 594384 | CT: | 1 | 16 | 118 |   | 0–24 |   |
+| 252261 : 594384 | 253962 : 594401 | CU: | 10 | 21 | 155 |   | 0–24 | W |
+| 253962 : 594401 | 256250 : 595020 | CV: | 1 | 16 | 118 |   | 0–24 |   |
+| 256250 : 595020 | 257390 : 595259 | CW: | 10 | 21 | 155 |   | 0–24 | W |
+| 257390 : 595259 | 257760 : 595239 | CX: | 1 | 11 | 36 |   | 0–24 | W L |
+| 257760 : 595239 | 259695 : 593023 | CY: | 1 | 11 | 36 |   | 0-24 | W L |
+| 185612 : 331747 | 186524 : 332755 | Route 50, Lutterade racc. DSM – Lutterade |   |   |   | Ja |   | Beek |
+| 185612 : 331747 | 185923 : 332121 | A: | 1 | 16 | 166 |   | 0–24 | W L |
+| 185923 : 332121 | 186135 : 332361 | B: | 1 | 0 | 118 |   | 0–24 | L |
+| 186135 : 332361 | 186524 : 332755 | C: | 1 | 16 | 166 |   | 0–24 | W L |
+| 186524 : 332755 | 187804 : 334268 | Route 50, Lutterade – Sittard aansl. |   |   |   | Ja |   | Beek |
+| 186524 : 332755 | 186926 : 333230 | D: | 12 | 149 | 333 |   | 0–24 | W |
+| 186926 : 333230 | 187224 : 333583 | E: | 1 | 111 | 237 |   | 0–24 |   |
+| 187224 : 333583 | 187804 : 334268 | F: | 12 | 149 | 333 |   | 0–24 | W |
+| 187804 : 334268 | 188206 : 335240 | Route 50, Sittard aansl. – Sittard |   |   |   | Ja |   | Beek K |
+| 187804 : 334268 | 187879 : 334368 | G: | 12 | 153 | 338 |   | 0–24 | W |
+| 187879 : 334368 | 188056 : 334700 | H: | 19 | 154 | 319 |   | 25–49 | W |
+| 188056 : 334700 | 188152 : 334959 | I: | 1 | 156 | 320 |   | 50–74 | W |
+| 188152 : 334959 | 188206 : 335240 | J: | 19 | 154 | 319 |   | 25–49 | W |
+| 188206 : 335240 | 197807 : 356894 | Route 50, Sittard – Roermond |   |   |   | Ja |   | Beek |
+| 188206 : 335240 | 188207 : 335295 | K: | 1 | 135 | 258 |   | 25–49 | W |
+| 188207 : 335295 | 188119 : 336190 | L: | 10 | 135 | 274 |   | 0–24 | W |
+| 188119 : 336190 | 188145 : 340539 | M: | 1 | 83 | 195 |   | 0–24 |   |
+| 188145 : 340539 | 189019 : 344083 | N: | 10 | 135 | 274 |   | 0–24 | W |
+| 189019 : 344083 | 191891 : 349487 | O: | 1 | 83 | 195 |   | 0–24 |   |
+| 191891 : 349487 | 193339 : 350933 | P: | 10 | 135 | 274 |   | 0–24 | W |
+| 193339 : 350933 | 194466 : 352048 | Q: | 1 | 83 | 195 |   | 0–24 |   |
+| 194466 : 352048 | 195217 : 352806 | R: | 10 | 135 | 274 |   | 0–24 | W |
+| 195217 : 352806 | 197130 : 354989 | S: | 1 | 83 | 195 |   | 0–24 |   |
+| 197130 : 354989 | 197388 : 355907 | T: | 10 | 135 | 274 |   | 0–24 | W |
+| 197388 : 355907 | 197448 : 356080 | U: | 1 | 135 | 258 |   | 25–49 | W |
+| 197448 : 356080 | 197537 : 356395 | V: | 1 | 136 | 259 |   | 50–74 | W |
+| 197537 : 356395 | 197612 : 356586 | W: | 1 | 135 | 258 |   | 25–49 | W |
+| 197612 : 356586 | 197807 : 356894 | X: | 10 | 135 | 274 |   | 0–24 | W |
+| 197807 : 356894 | 210014 : 374689 | Route 50, Roermond – Venlo Oost |   |   |   | Nee |   | Beek |
+| 197807 : 356894 | 198097 : 357322 | Y: | 0 | 131 | 275 |   | 0–24 | W |
+| 198097 : 357322 | 199209 : 359428 | Z: | 0 | 71 | 193 |   | 0–24 |   |
+| 199209 : 359428 | 199594 : 360350 | AA: | 0 | 131 | 275 |   | 0–24 | W |
+| 199594 : 360350 | 200144 : 361014 | AB: | 0 | 71 | 193 |   | 0–24 |   |
+| 200144 : 361014 | 200898 : 361671 | AC: | 0 | 131 | 275 |   | 0–24 | W |
+| 200898 : 361671 | 202927 : 365580 | AD: | 0 | 71 | 193 |   | 0–24 |   |
+| 202927 : 365580 | 203651 : 366729 | AE: | 0 | 131 | 275 |   | 0–24 | W |
+| 203651 : 366729 | 206856 : 371458 | AF: | 0 | 71 | 193 |   | 0–24 |   |
+| 206856 : 371458 | 208187 : 372869 | AG: | 0 | 131 | 275 |   | 0–24 | W |
+| 208187 : 372869 | 208777 : 373302 | AH: | 0 | 71 | 193 |   | 0–24 |   |
+|   |   |   |   |   |   |   |   | Volkel |
+| 208777 : 373302 | 209871 : 374142 | AI: | 0 | 71 | 193 |   | 0–24 |   |
+| 209871 : 374142 | 210014 : 374689 | AJ: | 0 | 131 | 275 |   | 0–24 | W |
+| 135659 : 397053 | 148322 : 408261 | Route 61, Tilburg aansl. – Vught |   |   |   | Nee |   | Gilze–Rijen |
+| 135659 : 397053 | 136074 : 397432 | A: | 0 | 11 | 122 |   | 0–24 | W |
+| 136074 : 397432 | 136816 : 398867 | B: | 0 | 4 | 29 |   | 0–24 |   |
+| 136816 : 398867 | 137400 : 399967 | C: | 0 | 11 | 122 |   | 0–24 | W |
+| 137400 : 399967 | 147387 : 407395 | D: | 0 | 4 | 29 |   | 0–24 |   |
+| 147387 : 407395 | 148322 : 408261 | E: | 0 | 11 | 122 |   | 0–24 | W |
+| 185423 : 434174 | 187281 : 435036 | Route 62, Elst noordwestboog – Ressen Noord |   |   |   | Nee |   | Deelen |
+| 185423 : 434174 | 186437 : 434349 | A: | 9 | 93 | 410 |   | 0–24 | W |
+| 186437 : 434349 | 187115 : 434522 | B: | 1 | 18 | 260 |   | 0–24 |   |
+| 187115 : 434522 | 187281 : 435036 | C: | 9 | 93 | 410 |   | 0–24 | W |
+| 187281 : 435036 | 211582 : 463864 | Route 62, Ressen Noord – Zutphen Twentekanaal aansl. |   |   |   | Nee |   | Deelen |
+| 187281 : 435036 | 187211 : 436218 | D: Ressen Noord – Arnhem West aansl. | 0 | 13 | 153 |   | 0–24 | W |
+| 187211 : 436218 | 187633 : 443866 | E: | 0 | 6 | 111 |   | 0–24 |   |
+| 187633 : 443866 | 189169 : 444361 | F: | 0 | 13 | 153 |   | 0–24 | W |
+| 189169 : 444361 | 189680 : 444304 | G: Arnhem West aansl. – Arnhem | 0 | 21 | 154 |   | 25–49 | W |
+| 189680 : 444304 | 189745 : 444293 | H: | 0 | 13 | 153 |   | 0–24 | W |
+| 189745 : 444293 | 189963 : 444248 | I: | 0 | 21 | 154 |   | 25–49 | W |
+| 189963 : 444248 | 190102 : 444219 | J: | 0 | 0 | 157 |   | 50–74 | W |
+| 190102 : 444219 | 190371 : 444169 | K: | 0 | 0 | 160 |   | 75–99 | W |
+| 190371 : 444169 | 190453 : 444170 | L: Arnhem – Velperpoort aansl. | 0 | 0 | 157 |   | 50–74 | W |
+| 190453 : 444170 | 190554 : 444179 | M: | 0 | 21 | 154 |   | 25–49 | W |
+| 190554 : 444179 | 191344 : 444280 | N: | 0 | 13 | 153 |   | 0–24 | W |
+| 191344 : 444280 | 191429 : 444265 | O: | 0 | 6 | 111 |   | 0–24 |   |
+| 191429 : 444265 | 192556 : 444099 | P: | 0 | 13 | 153 |   | 0–24 | W |
+| 192556 : 444099 | 203463 : 450279 | Q: Velperpoort aansl. – Zutphen | 0 | 6 | 111 |   | 0–24 |   |
+| 203463 : 450279 | 204588 : 451640 | R: | 0 | 13 | 153 |   | 0–24 | W |
+| 204588 : 451640 | 208792 : 461485 | S: | 0 | 6 | 111 |   | 0–24 |   |
+| 208792 : 461485 | 210089 : 462095 | T: | 0 | 13 | 153 |   | 0–24 | W |
+| 210089 : 462095 | 210524 : 462425 | U: | 0 | 21 | 154 |   | 25–49 | W |
+| 210524 : 462425 | 210535 : 462439 | V: | 0 | 13 | 153 |   | 0–24 | W |
+| 210535 : 462439 | 210637 : 462595 | W: | 0 | 21 | 154 |   | 25–49 | W |
+| 210637 : 462595 | 210738 : 462749 | X: | 0 | 0 | 157 |   | 50–74 | W |
+| 210738 : 462749 | 210773 : 462796 | Y: | 0 | 0 | 160 |   | 75–99 | W |
+| 210773 : 462796 | 210899 : 462942 | Z: Zutphen – Zutphen Twentekanaal aansl. | 0 | 0 | 157 |   | 50–74 | W |
+| 210899 : 462942 | 211016 : 463076 | AA: | 0 | 21 | 154 |   | 25–49 | W |
+| 211016 : 463076 | 211582 : 463864 | AB: | 0 | 13 | 153 |   | 0–24 | W |
+| 211582 : 463864 | 210200 : 474118 | Route 62, Zutphen Twentekanaal aansl. – Deventer Oost |   |   |   | Nee |   | Deelen |
+| 211582 : 463864 | 211774 : 464255 | AC: | 0 | 0 | 45 |   | 0–24 | W |
+| 211774 : 464255 | 210606 : 473594 | AD: | 0 | 0 | 11 |   | 0–24 |   |
+| 210606 : 473594 | 210200 : 474118 | AE: | 0 | 0 | 45 |   | 0–24 | W |
+| 148830 : 412297 | 187281 : 435036 | Route 64, Den Bosch Diezebrug aansl. – Ressen Noord |   |   |   | Nee |   | Volkel |
+| 148830 : 412297 | 149420 : 412556 | A: Den Bosch Diezebrug aansl. – Nijmegen | 0 | 11 | 122 |   | 0–24 | W |
+| 149420 : 412556 | 164192 : 419289 | B: | 0 | 4 | 29 |   | 0–24 |   |
+| 164192 : 419289 | 166893 : 419790 | C: | 0 | 11 | 122 |   | 0–24 | W |
+| 166893 : 419790 | 172646 : 423171 | D: | 0 | 4 | 29 |   | 0–24 |   |
+| 172646 : 423171 | 173494 : 423701 | E: | 0 | 11 | 122 |   | 0–24 | W |
+| 173494 : 423701 | 174135 : 424060 | F: | 0 | 4 | 29 |   | 0–24 |   |
+| 174135 : 424060 | 175121 : 424223 | G: | 0 | 11 | 122 |   | 0–24 | W |
+| 175121 : 424223 | 186568 : 427476 | H: | 0 | 4 | 29 |   | 0–24 |   |
+| 186568 : 427476 | 186941 : 428102 | I: | 0 | 11 | 122 |   | 0–24 | W |
+| 186941 : 428102 | 187172 : 428846 | J: | 0 | 15 | 121 |   | 25–49 | W |
+| 187172 : 428846 | 187380 : 429506 | K: Nijmegen – Ressen aansl. | 0 | 11 | 122 |   | 0–24 | W |
+| 187380 : 429506 | 187379 : 433427 | L: | 0 | 4 | 29 |   | 0–24 |   |
+| 187379 : 433427 | 187318 : 434425 | M: | 0 | 11 | 122 |   | 0–24 | W |
+| 187318 : 434425 | 187315 : 434472 | N: Ressen aansl. – Ressen Noord | 0 | 4 | 29 |   | 0–24 |   |
+| 187315 : 434472 | 187281 : 435036 | O: | 0 | 11 | 122 |   | 0–24 | W |
+| 127902 : 464254 | 147554 : 430097 | Route 71, Breukelen – Betuweroute Meteren |   |   |   | Nee |   | Soesterberg |
+| 127902 : 464254 | 128292 : 463245 | A: Breukelen – Utrecht Noord | 0 | 17 | 53 |   | 25–49 |   |
+| 128292 : 463245 | 130144 : 461500 | B: | 0 | 11 | 55 |   | 0–24 |   |
+| 130144 : 461500 | 132453 : 459285 | C: | 0 | 15 | 145 |   | 0–24 | W |
+| 132453 : 459285 | 134684 : 457177 | D: | 0 | 11 | 55 |   | 0–24 |   |
+| 134684 : 457177 | 135263 : 456591 | E: | 0 | 15 | 145 |   | 0–24 | W |
+| 135263 : 456591 | 135345 : 456529 | F: | 0 | 28 | 142 |   | 25–49 | W |
+| 135345 : 456529 | 135658 : 456339 | G: | 0 | 37 | 144 |   | 50–74 | W |
+| 135658 : 456339 | 135883 : 455958 | H: Utrecht Noord – Lunetten | 0 | 37 | 144 |   | 50–74 | W |
+| 135883 : 455958 | 135919 : 455881 | I: | 0 | 46 | 146 |   | 75–99 | W |
+| 135919 : 455881 | 136089 : 455555 | J: | 0 | 74 | 158 |   | 124–149 | W |
+| 136089 : 455555 | 136283 : 455198 | K: | 0 | 46 | 146 |   | 75–99 | W |
+| 136283 : 455198 | 136441 : 454925 | L: | 0 | 46 | 146 |   | 75–99 | W |
+| 136441 : 454925 | 136537 : 454781 | M: | 0 | 37 | 144 |   | 50–74 | W |
+| 136537 : 454781 | 136607 : 454706 | N: | 0 | 28 | 142 |   | 25–49 | W |
+| 136607 : 454706 | 138486 : 452803 | O: | 0 | 15 | 145 |   | 0–24 | W |
+| 138486 : 452803 | 139367 : 451007 | P: Lunetten – Geldermalsen | 0 | 11 | 55 |   | 0–24 |   |
+| 139367 : 451007 | 139797 : 449958 | Q: | 0 | 15 | 145 |   | 0–24 | W |
+| 139797 : 449958 | 139961 : 449560 | R: | 0 | 11 | 55 |   | 0–24 |   |
+| 139961 : 449560 | 141002 : 446820 | S: | 0 | 15 | 145 |   | 0–24 | W |
+| 141002 : 446820 | 142377 : 442516 | T: | 0 | 11 | 55 |   | 0–24 |   |
+| 142377 : 442516 | 142938 : 441571 | U: | 0 | 15 | 145 |   | 0–24 | W |
+| 142938 : 441571 | 143499 : 440626 | V: | 0 | 11 | 55 |   | 0–24 |   |
+| 143499 : 440626 | 144062 : 439678 | W: | 0 | 15 | 145 |   | 0–24 | W |
+| 144062 : 439678 | 146602 : 434333 | X: | 0 | 11 | 55 |   | 0–24 |   |
+| 146602 : 434333 | 146918 : 433108 | Y: | 0 | 15 | 145 |   | 0–24 | W |
+| 146918 : 433108 | 146946 : 432969 | Z: | 0 | 28 | 142 |   | 25–49 | W |
+| 146946 : 432969 | 147082 : 432449 | AA: | 0 | 37 | 144 |   | 50–74 | W |
+| 147082 : 432449 | 147108 : 432343 | AB: | 0 | 28 | 142 |   | 25–49 | W |
+| 147108 : 432343 | 146774 : 430527 | AC: Geldermalsen – Betuweroute Meteren | 0 | 15 | 145 |   | 0–24 | W |
+| 146774 : 430527 | 146881 : 430301 | AD: | 0 | 11 | 55 |   | 0–24 |   |
+| 146881 : 430301 | 147554 : 430097 | AE: | 0 | 15 | 145 |   | 0–24 | W |
+| 147017 : 431307 | 147554 : 430097 | Route 75, Betuweroute aansl. Noord – Betuweroute Meteren |   |   |   | Nee |   | Soesterberg |
+| 147017 : 431307 | 146708 : 430869 | A: | 0 | 15 | 145 |   | 0–24 | W |
+| 146708 : 430869 | 146914 : 430161 | B: | 0 | 11 | 55 |   | 0–24 |   |
+| 146914 : 430161 | 147554 : 430097 | C: | 0 | 15 | 145 |   | 0–24 | W |
+| 186524 : 332755 | 177289 : 307698 | Route 100, Lutterade – Visé (B) |   |   |   | Nee |   | Beek |
+| 186524 : 332755 | 185930 : 332075 | A: Lutterade – Maastricht | 0 | 0 | 147 |   | 0–24 |   |
+| 185930 : 332075 | 185187 : 331173 | B: | 0 | 14 | 190 |   | 0–24 | W |
+| 185187 : 331173 | 184123 : 329919 | C: | 0 | 0 | 147 |   | 0–24 |   |
+| 184123 : 329919 | 183152 : 328793 | D: | 0 | 14 | 190 |   | 0–24 | W |
+| 183152 : 328793 | 183029 : 328686 | E: | 0 | 22 | 185 |   | 25–49 | W |
+| 183029 : 328686 | 182413 : 328433 | F: | 0 | 14 | 190 |   | 0–24 | W |
+| 182413 : 328433 | 179604 : 322951 | G: | 0 | 0 | 147 |   | 0–24 |   |
+| 179604 : 322951 | 179721 : 321962 | H: | 0 | 14 | 190 |   | 0–24 | W |
+| 179721 : 321962 | 178449 : 320408 | I: | 0 | 0 | 147 |   | 0–24 |   |
+| 178449 : 320408 | 177363 : 318675 | J: | 0 | 14 | 190 |   | 0–24 | W |
+| 177363 : 318675 | 177314 : 318578 | K: | 0 | 22 | 185 |   | 25–49 | W |
+| 177314 : 318578 | 177472 : 317801 | L: Maastricht – Visé (B) | 0 | 0 | 95 |   | 50–74 | W L |
+| 177472 : 317801 | 177485 : 317706 | M: | 0 | 0 | 95 |   | 25–49 | W L |
+| 177485 : 317706 | 177680 : 317283 | N: | 0 | 0 | 97 |   | 0–24 | W L |
+| 177680 : 317283 | 178186 : 316729 | O: | 0 | 14 | 190 |   | 0–24 | W |
+| 178186 : 316729 | 178005 : 309865 | P: | 0 | 0 | 147 |   | 0–24 |   |
+| 178005 : 309865 | 177580 : 308579 | Q: | 0 | 14 | 190 |   | 0–24 | W |
+| 177580 : 308579 | 177289 : 307698 | R: | 0 | 0 | 147 |   | 0–24 |   |
+| 162895 : 384012 | 197807 : 356894 | Route 110, Eindhoven – Roermond |   |   |   | Ja |   | Eindhoven |
+| 162895 : 384012 | 163724 : 383881 | A: Eindhoven – Weert | 5 | 23 | 166 |   | 0–24 | W |
+| 163724 : 383881 | 165648 : 382075 | B: | 1 | 15 | 119 |   | 0–24 |   |
+| 165648 : 382075 | 166274 : 381326 | C: | 5 | 23 | 166 |   | 0–24 | W |
+| 166274 : 381326 | 166411 : 381162 | D: | 1 | 34 | 160 |   | 25–49 | W |
+| 166411 : 381162 | 166754 : 380531 | E: | 5 | 23 | 166 |   | 0–24 | W |
+| 166754 : 380531 | 167847 : 376983 | F: | 1 | 15 | 119 |   | 0–24 |   |
+| 167847 : 376983 | 168720 : 374986 | G: | 5 | 23 | 166 |   | 0–24 | W |
+| 168720 : 374986 | 171580 : 369132 | H: | 1 | 15 | 119 |   | 0–24 |   |
+| 171580 : 369132 | 172115 : 368035 | I: | 5 | 23 | 166 |   | 0–24 | W |
+| 172115 : 368035 | 174997 : 362516 | J: | 1 | 15 | 119 |   | 0–24 |   |
+| 174997 : 362516 | 176277 : 362271 | K: | 5 | 23 | 166 |   | 0–24 | W |
+| 176277 : 362271 | 176374 : 362246 | L: Weert – Roermond | 1 | 34 | 160 |   | 25–49 | W |
+| 176374 : 362246 | 176544 : 362213 | M: | 1 | 44 | 162 |   | 50–74 | W |
+| 176544 : 362213 | 176859 : 362192 | N: | 1 | 55 | 166 |   | 75–99 | W |
+| 176859 : 362192 | 176952 : 362199 | O: | 1 | 44 | 162 |   | 50–74 | W |
+| 176952 : 362199 | 177349 : 362182 | P: | 1 | 34 | 160 |   | 25–49 | W |
+| 177349 : 362182 | 178102 : 362122 | Q: | 5 | 23 | 166 |   | 0–24 | W |
+| 178102 : 362122 | 185184 : 361286 | R: | 1 | 15 | 119 |   | 0–24 |   |
+|   |   |   |   |   |   |   |   | Beek |
+| 185184 : 361286 | 192842 : 360095 | S: | 1 | 15 | 119 |   | 0–24 |   |
+| 192842 : 360095 | 194818 : 359973 | T: | 5 | 23 | 166 |   | 0–24 | W |
+| 194818 : 359973 | 198120 : 357460 | U: | 1 | 15 | 119 |   | 0–24 |   |
+| 198120 : 357460 | 197807 : 356894 | V: | 5 | 23 | 166 |   | 0–24 | W |
+| 105181 : 410975 | 111159 : 400589 | Route 120, Zevenbergschenhoek aansl. – Breda aansl. |   |   |   | Ja |   | Gilze–Rijen |
+| 105181 : 410975 | 105362 : 410508 | A: | 5 | 21 | 157 |   | 0–24 | W |
+| 105362 : 410508 | 107251 : 405947 | B: | 1 | 15 | 98 |   | 0–24 |   |
+| 107251 : 405947 | 107698 : 404885 | C: | 5 | 21 | 157 |   | 0–24 | W |
+| 107698 : 404885 | 111159 : 400589 | D: | 1 | 15 | 98 |   | 0–24 |   |
+| 211582 : 463864 | 243672 : 474595 | Route 130, Zutphen Twentekanaal aansl. – Delden |   |   |   | Nee |   | Deelen |
+| 211582 : 463864 | 211987 : 464204 | A: | 0 | 6 | 111 |   | 0–24 |   |
+| 211987 : 464204 | 212943 : 464487 | B: | 0 | 13 | 153 |   | 0–24 | W |
+| 212943 : 464487 | 218349 : 465155 | C: | 0 | 6 | 111 |   | 0–24 |   |
+| 218349 : 465155 | 220094 : 465106 | D: | 0 | 13 | 153 |   | 0–24 | W |
+| 220094 : 465106 | 225045 : 464977 | E: | 0 | 6 | 111 |   | 0–24 |   |
+| 225045 : 464977 | 225656 : 464861 | F: | 0 | 13 | 153 |   | 0–24 | W |
+| 225656 : 464861 | 226844 : 464869 | G: | 0 | 13 | 153 |   | 0–24 | W |
+| 226844 : 464869 | 231549 : 468410 | H: | 0 | 6 | 111 |   | 0–24 |   |
+| 231549 : 468410 | 232556 : 469249 | I: | 0 | 13 | 153 |   | 0–24 | W |
+| 232556 : 469249 | 236066 : 471986 | J: | 0 | 6 | 111 |   | 0–24 |   |
+| 236066 : 471986 | 237858 : 472073 | K: | 0 | 13 | 153 |   | 0–24 | W |
+| 237858 : 472073 | 243246 : 474335 | L: | 0 | 6 | 111 |   | 0–24 |   |
+| 243246 : 474335 | 243672 : 474595 | M: | 0 | 13 | 153 |   | 0–24 | W |
+| 243672 : 474595 | 250778 : 475837 | Route 130, Delden – Hengelo West |   |   |   | Nee |   | Twente |
+| 243672 : 474595 | 244100 : 474856 | N: | 0 | 13 | 156 |   | 0–24 | W |
+| 244100 : 474856 | 244877 : 475330 | O: | 0 | 6 | 117 |   | 0–24 |   |
+| 244877 : 475330 | 246544 : 475566 | P: | 0 | 13 | 156 |   | 0–24 | W |
+| 246544 : 475566 | 250243 : 475806 | Q: | 0 | 6 | 117 |   | 0–24 |   |
+| 250243 : 475806 | 250778 : 475837 | R: | 0 | 13 | 156 |   | 0–24 | W |
+| 207590 : 474798 | 203729 : 501595 | Route 150, Deventer West – Zwolle Oost |   |   |   | Nee |   | Deelen |
+| 207590 : 474798 | 207076 : 475185 | A: | 0 | 0 | 16 |   | 0–24 | W |
+| 207076 : 475185 | 204736 : 482265 | B: | 0 | 0 | 13 |   | 0–24 |   |
+| 204736 : 482265 | 204728 : 484112 | C: | 0 | 0 | 16 |   | 0–24 | W |
+| 204728 : 484112 | 203948 : 501025 | D: | 0 | 0 | 13 |   | 0–24 |   |
+| 203948 : 501025 | 203729 : 501595 | E: | 0 | 0 | 16 |   | 0–24 | W |
+| 105737 : 424474 | 109152 : 425448 | Route 170, Dordrecht – Industriegebied De Staart |   |   |   | Nee |   | Rotterdam |
+| 105737 : 424474 | 108344 : 423986 | A: | 0 | 18 | 637 |   | 0–24 | W |
+| 108344 : 423986 | 109817 : 424054 | B: | 0 | 12 | 335 |   | 0–24 |   |
+| 109817 : 424054 | 110307 : 424891 | C: | 0 | 18 | 637 |   | 0–24 | W |
+| 110307 : 424891 | 110214 : 425117 | D: | 0 | 12 | 335 |   | 0–24 |   |
+| 110214 : 425117 | 109152 : 425448 | E: | 0 | 18 | 637 |   | 0–24 | W |
+| 44085 : 359140 | 43778 : 360356 | Route 180, Zelzate (B) – Sas van Gent |   |   |   | Nee |   | Vlissingen |
+| 44085 : 359140 | 44029 : 359434 | A: | 0 | 15 | 176 |   | 0–24 |   |
+| 44029 : 359434 | 43778 : 360356 | B: | 0 | 70 | 240 |   | 0–24 | W |
+| 43778 : 360356 | 46085 : 367369 | Route 180, Sas van Gent – Sluiskil aansl. |   |   |   | Nee |   | Vlissingen K |
+| 43778 : 360356 | 43699 : 361401 | C: | 0 | 73 | 250 |   | 0–24 | W |
+| 43699 : 361401 | 43816 : 362113 | D: | 0 | 15 | 181 |   | 0–24 |   |
+| 43816 : 362113 | 44205 : 363031 | E: | 0 | 73 | 250 |   | 0–24 | W |
+| 44205 : 363031 | 46086 : 366859 | F: | 0 | 15 | 181 |   | 0–24 |   |
+| 46086 : 366859 | 46085 : 367369 | G: | 0 | 73 | 250 |   | 0–24 | W |
+| 46085 : 367369 | 44028 : 372891 | Route 180, Sluiskil aansl. – Sluiskil racc. Dow Chemical |   |   |   | Nee |   | Vlissingen |
+| 46085 : 367369 | 44139 : 372523 | H: | 0 | 68 | 235 |   | 0–24 | W |
+| 44139 : 372523 | 44028 : 372891 | I: | 0 | 15 | 174 |   | 0–24 |   |
+| 231901 : 590184 | 246440 : 604647 | Route 190, Sauwerd – Roodeschool |   |   |   | Nee |   | Eelde |
+| 231901 : 590184 | 231909 : 590752 | A: | 0 | 14 | 22 |   | 0–24 | W |
+| 231909 : 590752 | 230772 : 593536 | B: | 0 | 11 | 18 |   | 0–24 |   |
+| 230772 : 593536 | 230385 : 595110 | C: | 0 | 14 | 22 |   | 0–24 | W |
+| 230385 : 595110 | 230271 : 597075 | D: | 0 | 11 | 18 |   | 0–24 |   |
+| 230271 : 597075 | 230443 : 598523 | E: | 0 | 14 | 22 |   | 0–24 | W |
+| 230443 : 598523 | 233055 : 600580 | F: | 0 | 11 | 18 |   | 0–24 |   |
+| 233055 : 600580 | 234017 : 601584 | G: | 0 | 14 | 22 |   | 0–24 | W |
+| 234017 : 601584 | 235549 : 602306 | H: | 0 | 11 | 18 |   | 0–24 |   |
+| 235549 : 602306 | 236947 : 602311 | I: | 0 | 14 | 22 |   | 0–24 | W |
+| 236947 : 602311 | 242906 : 603847 | J: | 0 | 11 | 18 |   | 0–24 |   |
+| 242906 : 603847 | 244272 : 603741 | K: | 0 | 14 | 22 |   | 0–24 | W |
+| 244272 : 603741 | 245328 : 603617 | L: | 0 | 11 | 18 |   | 0–24 |   |
+| 245328 : 603617 | 246440 : 604647 | M: | 0 | 14 | 22 |   | 0–24 | W |
+| 96995 : 430847 | 96214 : 431222 | Route 201, Barendrecht aansl. – Barendrecht vork |   |   |   | Ja |   | Rotterdam V1 |
+| 96995 : 430847 | 96214 : 431222 | A: | 30 | 347 | 1497 |   | 0–24 | W |
+| 96214 : 431222 | 92883 : 430976 | Route 201, Barendrecht vork – Waalhaven Zuid Oost |   |   |   | Ja |   | Rotterdam V1 |
+| 96214 : 431222 | 94766 : 431276 | B: | 30 | 257 | 1070 |   | 0–24 | W |
+| 94766 : 431276 | 94025 : 431201 | C: | 30 | 257 | 1070 |   | 0–24 |   |
+| 94025 : 431201 | 93253 : 431055 | D: | 30 | 257 | 1070 |   | 0–24 | W |
+| 93253 : 431055 | 92883 : 430976 | E: | 37 | 253 | 1070 |   | 25–49 | W |
+| 92883 : 430976 | 88928 : 431942 | Route 201, Waalhaven Zuid Oost – Waalhaven Zuid West |   |   |   | Ja |   | Rotterdam V1 |
+| 92883 : 430976 | 92580 : 430928 | F: Waalhaven Zuid Oost – Waalhaven Zuid | 32 | 228 | 1070 |   | 25–49 | W |
+| 92580 : 430928 | 92391 : 430961 | G: | 30 | 231 | 1071 |   | 0–24 | W |
+| 92391 : 430961 | 91607 : 431454 | H: | 30 | 231 | 1071 |   | 0–24 |   |
+| 91607 : 431454 | 90735 : 431891 | I: | 30 | 231 | 1071 |   | 0–24 | W |
+| 90735 : 431891 | 90638 : 431894 | J: | 32 | 228 | 1070 |   | 25–49 | W |
+| 90638 : 431894 | 90543 : 431879 | K: | 42 | 229 | 1071 |   | 50–74 | W |
+| 90543 : 431879 | 90459 : 431859 | L: | 52 | 230 | 1071 |   | 75–99 | W |
+| 90459 : 431859 | 90400 : 431850 | M: | 63 | 232 | 1071 |   | 100–124 | W |
+| 90400 : 431850 | 89825 : 431826 | N: Waalhaven Zuid – Waalhaven Zuid West | 73 | 235 | 1071 |   | 125–149 | W |
+| 89825 : 431826 | 89744 : 431823 | O: | 63 | 232 | 1071 |   | 100–124 | W |
+| 89744 : 431823 | 89403 : 431849 | P: | 52 | 230 | 1071 |   | 75–99 | W |
+| 89403 : 431849 | 89277 : 431853 | Q: | 42 | 229 | 1071 |   | 50–74 | W |
+| 89277 : 431853 | 89120 : 431881 | R: | 32 | 228 | 1070 |   | 25–49 | W |
+| 89120 : 431881 | 88928 : 431942 | S: | 30 | 231 | 1071 |   | 0–24 | W |
+| 88928 : 431942 | 86769 : 432638 | Route 201, Waalhaven Zuid West – Pernis |   |   |   | Ja |   | Rotterdam V1 |
+| 88928 : 431942 | 86769 : 432638 | T: | 30 | 354 | 1519 |   | 0–24 | W |
+| 86769 : 432638 | 79148 : 431631 | Route 201, Pernis – Botlek |   |   |   | Ja |   | Rotterdam V1 |
+| 86769 : 432638 | 85209 : 432614 | U: | 30 | 364 | 1549 |   | 0–24 | W |
+| 85209 : 432614 | 84512 : 432591 | V: | 39 | 359 | 1549 |   | 25–49 | W |
+| 84512 : 432591 | 83760 : 432470 | W: | 30 | 364 | 1549 |   | 0–24 | W |
+| 83760 : 432470 | 83733 : 432467 | X: | 39 | 359 | 1549 |   | 25–49 | W |
+| 83733 : 432467 | 82691 : 432146 | Y: | 30 | 364 | 1549 |   | 0–24 | W |
+| 82691 : 432146 | 82279 : 432006 | Z: | 30 | 364 | 1549 |   | 0–24 |   |
+| 82279 : 432006 | 80369 : 431734 | AA: | 30 | 364 | 1549 |   | 0–24 | W |
+| 80369 : 431734 | 79920 : 431681 | AB: | 39 | 359 | 1549 |   | 25–49 | W |
+| 79920 : 431681 | 79148 : 431631 | AC: | 30 | 364 | 1549 |   | 0–24 | W |
+| 79148 : 431631 | 74636 : 435411 | Route 201, Botlek – Europoort |   |   |   | Ja |   | Rotterdam V1 |
+| 79148 : 431631 | 77791 : 432018 | AD: | 30 | 351 | 1449 |   | 0–24 | W |
+| 77791 : 432018 | 74636 : 435411 | AE: | 30 | 351 | 1449 |   | 0–24 |   |
+| 74636 : 435411 | 61478 : 440730 | Route 201, Europoort – Maasvlakte |   |   |   | Ja |   | Hoek van Holland V1 |
+| 74636 : 435411 | 73836 : 435935 | AG: | 30 | 340 | 1495 |   | 0–24 |   |
+| 73836 : 435935 | 73073 : 436527 | AH: | 30 | 340 | 1495 |   | 0–24 | W |
+| 73073 : 436527 | 72417 : 437073 | AI: | 39 | 336 | 1494 |   | 25–49 | W |
+| 72417 : 437073 | 71777 : 437676 | AJ: | 30 | 340 | 1495 |   | 0–24 | W |
+| 71777 : 437676 | 71707 : 437809 | AK: | 30 | 340 | 1495 |   | 0–24 |   |
+| 71707 : 437809 | 71196 : 438657 | AL: | 30 | 340 | 1495 |   | 0–24 | W |
+| 71196 : 438657 | 69070 : 439287 | AM: | 30 | 340 | 1495 |   | 0–24 |   |
+| 69070 : 439287 | 67210 : 439937 | AN: | 30 | 340 | 1495 |   | 0–24 | W |
+| 67210 : 439937 | 63189 : 438798 | AO: | 30 | 340 | 1495 |   | 0–24 |   |
+| 63189 : 438798 | 61478 : 440730 | AP: | 30 | 340 | 1495 |   | 0–24 | W |
+| 100368 : 427447 | 147554 : 430097 | Route 202, Kijfhoek – Betuweroute Meteren |   |   |   | Ja |   | Rotterdam V2 |
+| 100368 : 427447 | 100595 : 427290 | A: | 30 | 280 | 1298 |   | 0–24 |   |
+| 100595 : 427290 | 102156 : 426618 | B: | 30 | 280 | 1298 |   | 0–24 | W |
+| 102156 : 426618 | 107655 : 428535 | C: | 30 | 280 | 1298 |   | 0–24 |   |
+| 107655 : 428535 | 108815 : 428033 | D: | 30 | 280 | 1298 |   | 0–24 | W |
+| 108815 : 428033 | 129045 : 428331 | E: | 30 | 280 | 1298 |   | 0–24 |   |
+| 129045 : 428331 | 130203 : 428179 | F: | 30 | 280 | 1298 |   | 0–24 | W |
+| 130203 : 428179 | 130363 : 428156 | G: | 30 | 280 | 1298 |   | 0–24 |   |
+| 130363 : 428156 | 131521 : 428000 | H: | 30 | 280 | 1298 |   | 0–24 | W |
+| 131521 : 428000 | 142006 : 429076 | I: | 30 | 280 | 1298 |   | 0–24 |   |
+|   |   |   |   |   |   |   |   | Soesterberg V2 |
+| 142006 : 429076 | 146535 : 430103 | J: | 30 | 280 | 1298 |   | 0–24 |   |
+| 146535 : 430103 | 147554 : 430097 | K: Verlegde Betuweroute Meteren | 30 | 280 | 1298 |   | 0–24 | W |
+| 147554 : 430097 | 206648 : 435017 | Route 202, Betuweroute Meteren – Emmerich (D) |   |   |   | Ja |   | Soesterberg V2 |
+| 147554 : 430097 | 149263 : 430240 | L: Betuweroute Meteren – Elst noordwestboog | 30 | 284 | 1320 |   | 0–24 | W |
+| 149263 : 430240 | 169821 : 437332 | M: | 30 | 284 | 1320 |   | 0–24 |   |
+|   |   |   |   |   |   |   |   | Deelen V2 |
+| 169821 : 437332 | 170254 : 437322 | N: | 30 | 284 | 1320 |   | 0–24 |   |
+| 170254 : 437322 | 172690 : 437032 | O: | 30 | 284 | 1320 |   | 0–24 | W |
+| 172690 : 437032 | 180256 : 436332 | P: | 30 | 284 | 1320 |   | 0–24 |   |
+| 180256 : 436332 | 181835 : 435357 | Q: | 30 | 284 | 1320 |   | 0–24 | W |
+| 181835 : 435357 | 182057 : 435187 | R: | 38 | 283 | 1320 |   | 25–49 | W |
+| 182057 : 435187 | 182648 : 434888 | S: | 48 | 285 | 1320 |   | 50–74 | W |
+| 182648 : 434888 | 182906 : 434757 | T: | 38 | 283 | 1320 |   | 25–49 | W |
+| 182906 : 434757 | 183994 : 434222 | U: | 48 | 285 | 1320 |   | 50–74 | W |
+| 183994 : 434222 | 184374 : 434133 | V: | 59 | 288 | 1320 |   | 75–99 | W |
+| 184374 : 434133 | 184920 : 434123 | W: | 48 | 285 | 1320 |   | 50–74 | W |
+| 184920 : 434123 | 185243 : 434153 | X: | 38 | 283 | 1320 |   | 25–49 | W |
+| 185243 : 434153 | 187131 : 434452 | Y: | 30 | 284 | 1320 |   | 0–24 | W |
+| 187131 : 434452 | 197651 : 437083 | Z: Elst noordwestboog – Zevenaar | 30 | 284 | 1320 |   | 0–24 |   |
+| 197651 : 437083 | 198852 : 437499 | AA: | 30 | 284 | 1320 |   | 0–24 | W |
+| 198852 : 437499 | 202461 : 437236 | AB: | 30 | 284 | 1320 |   | 0–24 |   |
+| 202461 : 437236 | 205921 : 435600 | AC: Zevenaar – Emmerich (D) | 30 | 284 | 1320 |   | 0–24 | W |
+| 205921 : 435600 | 206648 : 435017 | AD: | 30 | 284 | 1320 |   | 0–24 |   |
+| 102453 : 426206 | 100377 : 427448 | Route 203, Kijfhoek aansl. Zuid – Kijfhoek |   |   |   | Ja |   | Rotterdam |
+| 102453 : 426206 | 102185 : 426369 | A: | 31 | 260 | 1226 |   | 25–49 | W |
+| 102185 : 426369 | 102055 : 426439 | B: | 41 | 261 | 1226 |   | 50–74 | W |
+| 102055 : 426439 | 101933 : 426504 | C: | 51 | 263 | 1226 |   | 75–99 | W |
+| 101933 : 426504 | 101735 : 426588 | D: | 60 | 266 | 1226 |   | 100–124 | W |
+| 101735 : 426588 | 101504 : 426686 | E: | 51 | 263 | 1226 |   | 75–99 | W |
+| 101504 : 426686 | 101389 : 426751 | F: | 41 | 261 | 1226 |   | 50–74 | W |
+| 101389 : 426751 | 101265 : 426825 | G: | 51 | 263 | 1226 |   | 75–99 | W |
+| 101265 : 426825 | 101219 : 426853 | H: | 60 | 266 | 1226 |   | 100–124 | W |
+| 101219 : 426853 | 101184 : 426876 | I: | 69 | 269 | 1226 |   | 125–149 | W |
+| 101184 : 426876 | 101154 : 426897 | J: | 77 | 273 | 1226 |   | 150–174 | W |
+| 101154 : 426897 | 101126 : 426917 | K: | 65 | 277 | 1226 |   | 175–199 | W |
+| 101126 : 426917 | 101097 : 426938 | L: | 65 | 277 | 1226 |   | 200–224 | W |
+| 101097 : 426938 | 101068 : 426961 | M: | 65 | 277 | 1226 |   | 225–249 | W |
+| 101068 : 426961 | 101028 : 426994 | N: | 65 | 277 | 1226 |   | 250–274 | W |
+| 101028 : 426994 | 100377 : 427448 | O: | 65 | 277 | 1226 |   | 275–299 | W |
+| 100377 : 427448 | 96995 : 430847 | Route 203, Kijfhoek – Barendrecht aansl. |   |   |   | Ja |   | Rotterdam V1 |
+| 100377 : 427448 | 100270 : 427527 | P: | 106 | 344 | 1472 |   | 250–274 | W |
+| 100270 : 427527 | 100216 : 427574 | Q: | 106 | 344 | 1472 |   | 225–249 | W |
+| 100216 : 427574 | 100156 : 427629 | R: | 106 | 344 | 1472 |   | 200–224 | W |
+| 100156 : 427629 | 100064 : 427709 | S: | 106 | 344 | 1472 |   | 175–199 | W |
+| 100064 : 427709 | 99960 : 427796 | T: | 93 | 341 | 1472 |   | 150–174 | W |
+| 99960 : 427796 | 99943 : 427807 | U: | 82 | 339 | 1472 |   | 125–149 | W |
+| 99943 : 427807 | 99731 : 427954 | V: | 93 | 341 | 1472 |   | 150–174 | W |
+| 99731 : 427954 | 99436 : 428172 | W: | 82 | 339 | 1472 |   | 125–149 | W |
+| 99436 : 428172 | 99269 : 428302 | X: | 71 | 337 | 1472 |   | 100–124 | W |
+| 99269 : 428302 | 99212 : 428357 | Y: | 59 | 336 | 1472 |   | 75–99 | W |
+| 99212 : 428357 | 99147 : 428417 | Z: | 48 | 335 | 1471 |   | 50–74 | W |
+| 99147 : 428417 | 98881 : 428636 | AA: | 38 | 334 | 1472 |   | 25–49 | W |
+| 98881 : 428636 | 97939 : 429374 | AB: | 30 | 339 | 1472 |   | 0–24 | W |
+| 97939 : 429374 | 97301 : 430275 | AC: | 30 | 339 | 1472 |   | 0–24 |   |
+| 97301 : 430275 | 96995 : 430847 | AD: | 30 | 339 | 1472 |   | 0–24 | W |
+| 92883 : 430976 | 88927 : 431943 | Route 204, Waalhaven Zuid Oost – Waalhaven Zuid West |   |   |   | Ja |   | Rotterdam V1 |
+| 92883 : 430976 | 92681 : 430924 | A: | 30 | 354 | 1519 |   | 0–24 | W |
+| 92681 : 430924 | 92504 : 430893 | B: | 39 | 348 | 1519 |   | 25–49 | W |
+| 92504 : 430893 | 92393 : 430876 | C: | 30 | 354 | 1519 |   | 0–24 | W |
+| 92393 : 430876 | 89392 : 431755 | D: | 30 | 354 | 1519 |   | 0–24 |   |
+| 89392 : 431755 | 88927 : 431943 | E: | 30 | 354 | 1519 |   | 0–24 | W |
+| 62296 : 438651 | 62545 : 444134 | Route 205, Maasvlakte – Yangtzehaven Noord |   |   |   | Ja |   | Hoek van Holland V1 |
+| 62296 : 438651 | 61955 : 438803 | A: | 30 | 337 | 1495 |   | 0–24 | W |
+| 61955 : 438803 | 61847 : 438908 | B: | 39 | 330 | 1494 |   | 25–49 | W |
+| 61847 : 438908 | 61771 : 439104 | C: | 49 | 331 | 1494 |   | 50–74 | W |
+| 61771 : 439104 | 61471 : 439928 | D: | 93 | 338 | 1494 |   | 75–99 | W |
+| 61471 : 439928 | 61449 : 439986 | E: | 49 | 331 | 1494 |   | 50–74 | W |
+| 61449 : 439986 | 60727 : 441437 | F: | 39 | 330 | 1494 |   | 25–49 | W |
+| 60727 : 441437 | 61711 : 444468 | G: | 30 | 337 | 1495 |   | 0–24 | W |
+| 61711 : 444468 | 62545 : 444134 | H: | 39 | 330 | 1494 |   | 25–49 | W |
+| 60971 : 441206 | 62884 : 442380 | Route 206, Maasvlakte Noordwesthoek – Yangtzehaven Zuid |   |   |   | Ja |   | Hoek van Holland V1 |
+| 60971 : 441206 | 62884 : 442380 | A: | 30 | 340 | 1495 |   | 0–24 | W |
+| 98698 : 410807 | 104757 : 412056 | Route 220, Moerdijk racc. – Moerdijk racc. aansl. |   |   |   | Nee |   | Gilze–Rijen |
+| 98698 : 410807 | 98831 : 410313 | A: | 0 | 12 | 150 |   | 0–24 | W |
+| 98831 : 410313 | 99604 : 409082 | B: | 0 | 5 | 104 |   | 0–24 |   |
+| 99604 : 409082 | 101096 : 410046 | C: | 0 | 12 | 150 |   | 0–24 | W |
+| 101096 : 410046 | 104604 : 412532 | D: | 0 | 5 | 104 |   | 0–24 |   |
+| 104604 : 412532 | 104757 : 412056 | E: | 0 | 12 | 150 |   | 0–24 | W |
+| 237437 : 576872 | 238922 : 578369 | Route 250, Haren aansl. – Waterhuizen aansl. |   |   |   | Nee |   | Eelde |
+| 237437 : 576872 | 237344 : 577361 | A: | 0 | 15 | 220 |   | 0–24 | W |
+| 237344 : 577361 | 238393 : 578468 | B: | 0 | 10 | 127 |   | 0–24 |   |
+| 238393 : 578468 | 238922 : 578369 | C: | 0 | 15 | 220 |   | 0–24 | W |
+| 238922 : 578369 | 254497 : 575849 | Route 250, Waterhuizen aansl. – Veendam aansl. |   |   |   | Ja |   | Eelde |
+| 238922 : 578369 | 239480 : 578102 | D: | 10 | 25 | 264 |   | 0–24 | W |
+| 239480 : 578102 | 253139 : 575593 | E: | 1 | 17 | 158 |   | 0–24 |   |
+| 253139 : 575593 | 254497 : 575849 | F: | 10 | 25 | 264 |   | 0–24 | W |
+| 254497 : 575849 | 255303 : 569575 | Route 250, Veendam aansl. – Veendam |   |   |   | Nee |   | Eelde |
+| 254497 : 575849 | 255030 : 575715 | G: | 0 | 15 | 220 |   | 0–24 | W |
+| 255030 : 575715 | 255655 : 573317 | H: | 0 | 10 | 127 |   | 0–24 |   |
+| 255655 : 573317 | 255863 : 572340 | I: | 0 | 15 | 220 |   | 0–24 | W |
+| 255863 : 572340 | 255858 : 572153 | J: | 0 | 10 | 127 |   | 0–24 |   |
+| 255858 : 572153 | 255833 : 571514 | K: | 0 | 15 | 220 |   | 0–24 | W |
+| 255833 : 571514 | 255785 : 570687 | L: | 0 | 27 | 211 |   | 25–49 | W |
+| 255785 : 570687 | 255303 : 569575 | M: | 0 | 15 | 220 |   | 0–24 | W |
+| 120460 : 488918 | 116937 : 491524 | Route 270, Amsterdam Singelgracht – Amsterdam Westhaven |   |   |   | Nee |   | Schiphol |
+| 120460 : 488918 | 120353 : 488984 | A: | 0 | 16 | 145 |   | 0–24 | W |
+| 120353 : 488984 | 120257 : 489034 | B: | 0 | 29 | 142 |   | 25–49 | W |
+|   |   |   |   |   |   |   |   |   |
+| 120257 : 489034 | 120140 : 489082 | C: | 0 | 39 | 144 |   | 50–74 | W |
+| 120140 : 489082 | 120067 : 489114 | D: | 0 | 48 | 146 |   | 75–99 | W |
+| 120067 : 489114 | 119986 : 489145 | E: | 0 | 58 | 148 |   | 100–124 | W |
+| 119986 : 489145 | 119789 : 489239 | F: | 0 | 67 | 151 |   | 125–149 | W |
+| 119789 : 489239 | 119689 : 489306 | G: | 0 | 58 | 148 |   | 100–124 | W |
+| 119689 : 489306 | 119609 : 489379 | H: | 0 | 48 | 146 |   | 75–99 | W |
+| 119609 : 489379 | 119554 : 489435 | I: | 0 | 39 | 144 |   | 50–74 | W |
+| 119554 : 489435 | 119437 : 489563 | J: | 0 | 29 | 142 |   | 25–49 | W |
+| 119437 : 489563 | 117975 : 490695 | K: | 0 | 16 | 145 |   | 0–24 | W |
+| 117975 : 490695 | 117527 : 491014 | L: | 0 | 29 | 142 |   | 25–49 | W |
+| 117527 : 491014 | 116937 : 491524 | M: | 0 | 16 | 145 |   | 0–24 | W |
+| 124718 : 481053 | 120460 : 488918 | Route 280, Duivendrecht – Amsterdam Singelgracht |   |   |   | Nee |   | Schiphol |
+| 124718 : 481053 | 124628 : 481216 | A: Duivendrecht – Amsterdam Muiderpoort | 0 | 39 | 144 |   | 50–74 | W |
+| 124628 : 481216 | 124441 : 481557 | B: | 0 | 29 | 142 |   | 25–49 | W |
+| 124441 : 481557 | 124414 : 481604 | C: | 0 | 16 | 145 |   | 0–24 | W |
+| 124414 : 481604 | 124307 : 481781 | D: | 0 | 29 | 142 |   | 25–49 | W |
+| 124307 : 481781 | 123672 : 482831 | E: | 0 | 21 | 53 |   | 25–49 |   |
+| 123672 : 482831 | 123406 : 483311 | F: | 0 | 0 | 58 |   | 50–74 |   |
+| 123406 : 483311 | 123133 : 483932 | G: | 0 | 21 | 53 |   | 25–49 |   |
+| 123133 : 483932 | 123087 : 484097 | H: | 0 | 12 | 55 |   | 0–24 |   |
+| 123087 : 484097 | 122783 : 485039 | I: | 0 | 16 | 145 |   | 25–49 | W |
+| 122783 : 485039 | 123917 : 486087 | J: | 0 | 16 | 145 |   | 0–24 | W |
+| 123917 : 486087 | 124065 : 486831 | K: | 0 | 16 | 145 |   | 0–24 | W |
+| 124065 : 486831 | 124055 : 487202 | L: Amsterdam Muiderpoort – Amsterdam Singelgracht | 0 | 16 | 145 |   | 25–49 | W |
+| 124055 : 487202 | 123979 : 487336 | M: | 0 | 39 | 144 |   | 50–74 | W |
+| 123979 : 487336 | 123883 : 487424 | N: | 0 | 48 | 146 |   | 75–99 | W |
+| 123883 : 487424 | 123663 : 487527 | O: | 0 | 58 | 148 |   | 100–124 | W |
+| 123663 : 487527 | 123572 : 487561 | P: | 0 | 48 | 146 |   | 75–99 | W |
+| 123572 : 487561 | 123475 : 487597 | Q: | 0 | 39 | 144 |   | 50–74 | W |
+| 123475 : 487597 | 122699 : 487785 | R: | 0 | 29 | 142 |   | 25–49 | W |
+| 122699 : 487785 | 122224 : 487799 | S: | 0 | 29 | 142 |   | 25–49 | W |
+| 122224 : 487799 | 122002 : 487925 | T: | 0 | 39 | 144 |   | 50–74 | W |
+| 122002 : 487925 | 121698 : 488109 | U: | 0 | 48 | 146 |   | 75–99 | W |
+| 121698 : 488109 | 121295 : 488345 | V: | 0 | 39 | 144 |   | 50–74 | W |
+| 121295 : 488345 | 121198 : 488402 | W: | 0 | 39 | 144 |   | 50–74 | W |
+| 121198 : 488402 | 121095 : 488464 | X: | 0 | 29 | 142 |   | 25–49 | W |
+| 121095 : 488464 | 120803 : 488719 | Y: | 0 | 16 | 145 |   | 0–24 | W |
+| 120803 : 488719 | 120596 : 488845 | Z: | 0 | 29 | 142 |   | 25–49 | W |
+| 120596 : 488845 | 120460 : 488918 | AA: | 0 | 16 | 145 |   | 0–24 | W |
+| 49396 : 366329 | 47427 : 369406 | Route 310, Axel aansl. – Terneuzen Zuidzijde aansl. |   |   |   | Nee |   | Vlissingen |
+| 49396 : 366329 | 47461 : 368933 | A: | 0 | 0 | 32 |   | 0–24 |   |
+| 47461 : 368933 | 47427 : 369406 | B: | 0 | 0 | 126 |   | 0–24 | W |
+| 47427 : 369406 | 47214 : 370285 | Route 310, Terneuzen Zuidzijde aansl. – Terneuzen |   |   |   | Nee |   | Vlissingen K |
+| 47427 : 369406 | 47214 : 370285 | C: | 0 | 11 | 222 |   | 0–24 | W |
+| 47427 : 369406 | 46085 : 367363 | Route 315, Terneuzen Zuidzijde aansl. – Sluiskil aansl. |   |   |   | Nee |   | Vlissingen |
+| 47427 : 369406 | 47456 : 368908 | A: | 0 | 0 | 126 |   | 0–24 | W |
+| 47456 : 368908 | 46123 : 367858 | B: | 0 | 0 | 32 |   | 0–24 |   |
+| 46123 : 367858 | 46085 : 367363 | C: | 0 | 0 | 126 |   | 0–24 | W |
+| 175453 : 362354 | 166734 : 362004 | Route 320, Weert – Neerpelt (B) |   |   |   | Ja |   | Eindhoven |
+| 175453 : 362354 | 174965 : 362361 | A: | 5 | 24 | 179 |   | 0–24 | W |
+| 174965 : 362361 | 168691 : 362090 | B: | 1 | 16 | 127 |   | 0–24 |   |
+| 168691 : 362090 | 167691 : 362051 | C: | 5 | 24 | 179 |   | 0–24 | W |
+| 167691 : 362051 | 166734 : 362004 | D: | 1 | 16 | 127 |   | 0–24 |   |
+| 155601 : 464518 | 200404 : 500327 | Route 360, Amersfoort Oost – Hattem |   |   |   | Ja |   | Soesterberg |
+| 155601 : 464518 | 156798 : 465817 | A: Amersfoort Oost – Putten | 6 | 20 | 243 |   | 0–24 | W |
+| 156798 : 465817 | 161556 : 469645 | B: | 1 | 15 | 142 |   | 0–24 |   |
+| 161556 : 469645 | 162451 : 470659 | C: | 6 | 20 | 243 |   | 0–24 | W |
+| 162451 : 470659 | 167315 : 474626 | D: | 1 | 15 | 142 |   | 0–24 |   |
+| 167315 : 474626 | 168884 : 476480 | E: | 6 | 20 | 243 |   | 0–24 | W |
+| 168884 : 476480 | 169642 : 477639 | F: Putten – Hattem | 1 | 15 | 142 |   | 0–24 |   |
+|   |   |   |   |   |   |   |   | Deelen |
+| 169642 : 477639 | 170350 : 483052 | G: | 1 | 15 | 142 |   | 0–24 |   |
+| 170350 : 483052 | 171737 : 483567 | H: | 6 | 20 | 243 |   | 0–24 | W |
+| 171737 : 483567 | 181794 : 486982 | I: | 1 | 15 | 142 |   | 0–24 |   |
+| 181794 : 486982 | 183461 : 487557 | J: | 6 | 20 | 243 |   | 0–24 | W |
+| 183461 : 487557 | 188816 : 490904 | K: | 1 | 15 | 142 |   | 0–24 |   |
+| 188816 : 490904 | 190610 : 492322 | L: | 6 | 20 | 243 |   | 0–24 | W |
+| 190610 : 492322 | 199950 : 500115 | M: | 1 | 15 | 142 |   | 0–24 |   |
+| 199950 : 500115 | 200404 : 500327 | N: | 6 | 20 | 243 |   | 0–24 | W |
+| 206017 : 502288 | 257109 : 535234 | Route 370, Herfte aansl. – Emmen |   |   |   | Nee |   | Twente |
+| 203729 : 501595 | 204204 : 501408 | A-nw-1 | 0 | 0 | 16 |   | 0–24 | W |
+| 204204 : 501408 | 205607 : 501962 | A-nw-2 | 0 | 0 | 16 |   | 0–24 |   |
+| 205607 : 501962 | 206017 : 502288 | A-nw-3 | 0 | 0 | 16 |   | 0–24 |   |
+| 206017 : 502288 | 206546 : 502542 | A: Herfte aansl. – Mariënberg | 0 | 0 | 16 |   | 0–24 | - |
+| 206546 : 502542 | 214146 : 501560 | B: | 0 | 0 | 13 |   | 0–24 |   |
+| 214146 : 501560 | 215083 : 501210 | C: | 0 | 0 | 16 |   | 0–24 | W |
+| 215083 : 501210 | 223928 : 502745 | D: | 0 | 0 | 13 |   | 0–24 |   |
+| 223928 : 502745 | 225547 : 503038 | E: | 0 | 0 | 16 |   | 0–24 | W |
+| 225547 : 503038 | 235071 : 502718 | F: | 0 | 0 | 13 |   | 0–24 |   |
+| 235071 : 502718 | 236531 : 503826 | G: | 0 | 0 | 16 |   | 0–24 | W |
+| 236531 : 503826 | 242003 : 513262 | H: Mariënberg – Coevorden | 0 | 0 | 13 |   | 0–24 |   |
+| 242003 : 513262 | 242692 : 514876 | I: | 0 | 0 | 16 |   | 0–24 | W |
+| 242692 : 514876 | 246195 : 519358 | J: | 0 | 0 | 13 |   | 0–24 |   |
+| 246195 : 519358 | 246551 : 521219 | K: | 0 | 0 | 16 |   | 0–24 | W |
+| 246551 : 521219 | 253346 : 525984 | L: Coevorden – Emmen | 0 | 0 | 13 |   | 0–24 |   |
+| 253346 : 525984 | 254065 : 527784 | M: | 0 | 0 | 16 |   | 0–24 | W |
+| 254065 : 527784 | 255957 : 530626 | N: | 0 | 0 | 13 |   | 0–24 |   |
+|   |   |   |   |   |   |   |   | Eelde |
+| 255957 : 530626 | 256995 : 532502 | O: | 0 | 0 | 13 |   | 0–24 |   |
+| 256995 : 532502 | 257145 : 533490 | P: | 0 | 0 | 16 |   | 0–24 | W |
+| 257145 : 533490 | 257144 : 533983 | Q: | 0 | 0 | 13 |   | 0–24 |   |
+| 257144 : 533983 | 257109 : 535234 | R: | 0 | 0 | 16 |   | 0–24 | W |
+| 187804 : 334267 | 204109 : 321405 | Route 380, Sittard aansl. – Herzogenrath (D) |   |   |   | Nee |   | Beek |
+| 187804 : 334267 | 187641 : 333732 | A: Sittard aansl. – Heerlen | 0 | 0 | 153 |   | 0–24 | W |
+| 187641 : 333732 | 190341 : 326606 | B: | 0 | 0 | 124 |   | 0–24 |   |
+| 190341 : 326606 | 190485 : 325877 | C: | 0 | 0 | 153 |   | 0–24 | W |
+| 190485 : 325877 | 190838 : 325398 | D: | 0 | 0 | 156 |   | 25–49 | W |
+| 190838 : 325398 | 191569 : 324994 | E: | 0 | 0 | 153 |   | 0–24 | W |
+| 191569 : 324994 | 194637 : 323348 | F: | 0 | 0 | 124 |   | 0–24 |   |
+| 194637 : 323348 | 196218 : 322546 | G: | 0 | 0 | 153 |   | 0–24 | W |
+| 196218 : 322546 | 196491 : 322469 | H: | 0 | 0 | 156 |   | 25–49 | W |
+| 196491 : 322469 | 197132 : 322393 | I: | 0 | 0 | 153 |   | 0–24 | W |
+| 197132 : 322393 | 198455 : 322782 | J: | 0 | 0 | 124 |   | 0–24 |   |
+| 198455 : 322782 | 199381 : 323133 | K: Heerlen – Herzogenrath (D) | 0 | 0 | 153 |   | 0–24 | W |
+| 199381 : 323133 | 202815 : 322889 | L: | 0 | 0 | 124 |   | 0–24 |   |
+| 202815 : 322889 | 203867 : 321468 | M: | 0 | 0 | 153 |   | 0–24 | W |
+| 203867 : 321468 | 204109 : 321405 | N: | 0 | 0 | 124 |   | 0–24 |   |
+| 254497 : 575849 | 276858 : 579415 | Route 400, Veendam aansl. – Leer (D) |   |   |   | Ja |   | Eelde |
+| 254497 : 575849 | 255069 : 575904 | A: | 9 | 19 | 144 |   | 0–24 | W |
+| 255069 : 575904 | 260816 : 576964 | B: | 1 | 16 | 101 |   | 0–24 |   |
+| 260816 : 576964 | 262061 : 576011 | C: | 9 | 19 | 144 |   | 0–24 | W |
+| 262061 : 576011 | 264415 : 574017 | D: | 1 | 16 | 101 |   | 0–24 |   |
+| 264415 : 574017 | 266227 : 573691 | E: | 9 | 19 | 144 |   | 0–24 | W |
+| 266227 : 573691 | 275506 : 578705 | F: | 1 | 16 | 101 |   | 0–24 |   |
+| 275506 : 578705 | 276700 : 579354 | G: | 9 | 19 | 144 |   | 0–24 | W |
+| 276700 : 579354 | 276858 : 579415 | H: | 1 | 16 | 101 |   | 0–24 |   |
+| 238922 : 578369 | 235981 : 579778 | Route 420, Groningen Oost – Waterhuizen aansl. |   |   |   | Ja |   | Eelde |
+| 238922 : 578369 | 238432 : 578604 | A: | 9 | 19 | 144 |   | 0–24 | W |
+| 238432 : 578604 | 236430 : 579559 | B: | 1 | 16 | 101 |   | 0–24 |   |
+| 236430 : 579559 | 235981 : 579778 | C: | 9 | 19 | 144 |   | 0–24 | W |
+| 96214 : 431222 | 96163 : 432543 | Route 440, Rotterdam Lombardijen – Barendrecht vork |   |   |   | Nee |   | Rotterdam |
+| 96214 : 431222 | 96509 : 431580 | A: | 0 | 16 | 220 |   | 0–24 | W |
+| 96509 : 431580 | 96334 : 432076 | B: | 0 | 12 | 127 |   | 0–24 |   |
+| 96334 : 432076 | 96163 : 432543 | C: | 0 | 16 | 220 |   | 0–24 | W |
+| 95434 : 431197 | 96512 : 431785 | Route 445, Rotterdam Lombardijen – Barendrecht vork 2 |   |   |   | Nee |   | Rotterdam |
+| 95434 : 431197 | 95898 : 431086 | A: | 0 | 16 | 220 |   | 0–24 | W |
+| 95898 : 431086 | 96618 : 431273 | B: | 0 | 12 | 127 |   | 0–24 |   |
+| 96618 : 431273 | 96512 : 431785 | C: | 0 | 16 | 220 |   | 0–24 | W |
+| 240847 : 486747 | 235583 : 503009 | Route 460, Almelo – Mariënberg |   |   |   | Nee |   | Twente |
+| 240847 : 486747 | 240270 : 487171 | A: | 0 | 0 | 16 |   | 0–24 | W |
+| 240270 : 487171 | 239489 : 488271 | B: | 0 | 0 | 13 |   | 0–24 |   |
+| 239489 : 488271 | 238854 : 489044 | C: | 0 | 0 | 16 |   | 0–24 | W |
+| 238854 : 489044 | 237945 : 490248 | D: | 0 | 0 | 13 |   | 0–24 |   |
+| 237945 : 490248 | 237321 : 491784 | E: | 0 | 0 | 16 |   | 0–24 | W |
+| 237321 : 491784 | 235450 : 496516 | F: | 0 | 0 | 13 |   | 0–24 |   |
+| 235450 : 496516 | 235289 : 498138 | G: | 0 | 0 | 16 |   | 0–24 | W |
+| 235289 : 498138 | 235201 : 502562 | H: | 0 | 0 | 13 |   | 0–24 |   |
+| 235201 : 502562 | 235583 : 503009 | I: | 0 | 0 | 16 |   | 0–24 | W |
+| 123995 : 486643 | 129296 : 482240 | Route 470, Amsterdam Muiderpoort – Diemen |   |   |   | Nee |   | Schiphol |
+| 123995 : 486643 | 124822 : 485285 | A: | 0 | 0 | 15 |   | 0–24 | W |
+| 124822 : 485285 | 126149 : 484368 | B: | 0 | 0 | 12 |   | 0–24 |   |
+| 126149 : 484368 | 127975 : 483120 | C: | 0 | 0 | 15 |   | 0–24 | W |
+| 127975 : 483120 | 128082 : 483044 | D: | 0 | 0 | 27 |   | 25–49 | W |
+| 128082 : 483044 | 128087 : 483040 | E: | 0 | 0 | 19 |   | 25–49 |   |
+| 128087 : 483040 | 128184 : 482974 | F: | 0 | 0 | 0 |   | 50–74 |   |
+| 128184 : 482974 | 128473 : 482761 | G: | 0 | 0 | 0 |   | 75–99 |   |
+| 128473 : 482761 | 128587 : 482676 | H: | 0 | 0 | 0 |   | 50–74 |   |
+| 128587 : 482676 | 128841 : 482509 | I: | 0 | 0 | 19 |   | 25–49 |   |
+| 128841 : 482509 | 129202 : 482294 | J: | 0 | 0 | 27 |   | 25–49 | W |
+| 129202 : 482294 | 129296 : 482240 | K: | 0 | 0 | 15 |   | 0–24 | W |
+| 120460 : 488918 | 113076 : 490340 | Route 480, Amsterdam Singelgracht – Aziëhaven |   |   |   | Nee |   | Schiphol |
+| 120460 : 488918 | 120275 : 489014 | A: | 0 | 15 | 121 |   | 0–24 | W |
+| 120275 : 489014 | 119838 : 489149 | B: | 0 | 29 | 116 |   | 25–49 | W |
+| 119838 : 489149 | 118856 : 489159 | C: | 0 | 15 | 121 |   | 0–24 | W |
+| 118856 : 489159 | 118689 : 489158 | D: | 0 | 12 | 29 |   | 0–24 |   |
+| 118689 : 489158 | 117982 : 489171 | E: | 0 | 15 | 121 |   | 0–24 | W |
+| 117982 : 489171 | 117632 : 489174 | F: | 0 | 29 | 116 |   | 25–49 | W |
+| 117632 : 489174 | 117136 : 489178 | G: | 0 | 20 | 40 |   | 25–49 |   |
+| 117136 : 489178 | 117121 : 489178 | H: | 0 | 29 | 116 |   | 25–49 | W |
+| 117121 : 489178 | 116541 : 489207 | I: | 0 | 38 | 116 |   | 50–74 | W |
+| 116541 : 489207 | 116075 : 489317 | J: | 0 | 29 | 116 |   | 25–49 | W |
+| 116075 : 489317 | 115969 : 489359 | K: | 0 | 38 | 116 |   | 50–74 | W |
+| 115969 : 489359 | 115783 : 489442 | L: | 0 | 29 | 116 |   | 25–49 | W |
+| 115783 : 489442 | 113076 : 490340 | M: | 0 | 15 | 121 |   | 0–24 | W |
+| 232653 : 581033 | 209907 : 523548 | Route 510, Meppel – Leeuwarden – Groningen |   |   |   | Nee |   |   |
+| 232653 : 581033 | 181140 : 578726 | A: | 0 | 0 | 0 |   | 0–24 |   |
+| 181140 : 578726 | 209907 : 523548 | B: | 0 | 0 | 0 |   | 0–24 |   |
+| 135568 : 456399 | 141154 : 470583 | Route 520, Hilversum – Utrecht |   |   |   | Nee |   |   |
+| 135568 : 456399 | 136845 : 457394 | A | 0 | 0 | 0 |   | 0–24 |   |
+| 136845 : 457394 | 137854 : 458282 | B | 0 | 0 | 0 |   | 0–24 |   |
+| 137854 : 458282 | 138209 : 458861 | C | 0 | 0 | 0 |   | 0–24 |   |
+| 138209 : 458861 | 141154 : 470583 | D | 0 | 0 | 0 |   | 0–24 |   |
+| 169066 : 463796 | 174371 : 448921 | Route 530, Amersfoort – Ede |   |   |   | Nee |   |   |
+| 169066 :463796 | 174371 :448921 | A | 0 | 0 | 0 |   | 0–24 |   |
+| 137999 : 453660 | 203675 : 436783 | Route 540, Utrecht – Arnhem – Zevenaar |   |   |   | Nee |   |   |
+| 137999 : 453660 | 160413 : 451491 | A | 0 | 0 | 0 |   | 0–24 |   |
+| 160413 : 451491 | 160932 : 451471 | B | 0 | 0 | 0 |   | 0–24 |   |
+| 160932 : 451471 | 174371 : 448921 | C | 0 | 0 | 0 |   | 0–24 |   |
+| 174371 : 448921 | 188692 : 444387 | D | 0 | 0 | 0 |   | 0–24 |   |
+| 188692 : 444387 | 191994 : 444060 | E | 0 | 0 | 0 |   | 0–24 |   |
+| 191994 : 444060 | 203675 : 436783 | F | 0 | 0 | 0 |   | 0–24 |   |
+| 146954 : 432951 | 110146 : 424435 | Route 550, Dordrecht – Geldermalsen |   |   |   | Nee |   |   |
+| 146954 : 432951 | 110146 : 424435 | A | 0 | 0 | 0 |   | 0–24 |   |
+| 125213 : 457438 | 135371 : 456504 | Route 560, Harmelen – Utrecht |   |   |   | Nee |   |   |
+| 125213 : 457438 | 135371 : 456504 | A | 0 | 0 | 0 |   | 0–24 |   |
+| 144925 : 430152 | 146048 : 428087 | Route 570, Westbogen Meteren |   |   |   | Ja |   |   |
+| 144925 : 430152 | 146048 : 428087 | A | 1 | 17 | 115 |   | 0–24 |   |
+| 147011 : 430101 | 146278 : 429675 | Route 575, Oostbogen Meteren |   |   |   | Ja |   |   |
+| 147011 : 430101 | 146278 : 429675 | A | 0 | 0 | 0 |   | 0–24 |   |
+| 147017 : 431307 | 146048 : 428087 | Route 565, Meteren kruising Betuweroute |   |   |   | Nee |   |   |
+| 147017 : 431307 | 146048 : 428087 | A | 0 | 0 | 0 |   | 0–24 |   |
+| 146048 : 428087 | 148858 : 412371 | Route 580, Meteren - Den Bosch Diezebrug aansl |   |   |   | Ja |   |   |
+| 146048 : 428087 | 146668 :422504 | A: | 3 | 19 | 150 |   |   |   |
+| 146668 :422504 | 148858 : 412371 | B: | 1 | 17 | 131 |   | 0–24 |   |
+| 148858 : 412371 | 150105 : 399690 | Route 580, Diezebrug aansl - Boxtel aansl |   |   |   | Ja |   |   |
+| 148858 : 412371 | 148322 : 408261 | A | 3 | 24 | 153 |   |   |   |
+| 148322 : 408261 | 150105 : 399690 | B | 1 | 17 | 97 |   | 0–24 |   |
+
+Toelichting tabel
+
+| KOLOM | UITLEG | UITLEG | UITLEG |
+| --- | --- | --- | --- |
+| 1,2. | De coördinaten zijn in RDM–coördinaten weergegeven (eenheid is meters). De coördinaten geven alleen informatie over begin– en eindpunten van de trajecten. | De coördinaten zijn in RDM–coördinaten weergegeven (eenheid is meters). De coördinaten geven alleen informatie over begin– en eindpunten van de trajecten. | De coördinaten zijn in RDM–coördinaten weergegeven (eenheid is meters). De coördinaten geven alleen informatie over begin– en eindpunten van de trajecten. |
+| 3. | De routecode van de route, gevolgd door een geografische plaatsaanduiding. Bij de plaatsaanduiding wordt waar relevant gebruik gemaakt van de afkortingen 'racc' voor raccordement en 'aansl' voor aansluiting. Een route is onderverdeeld in trajecten die in volgorde van het beginpunt van de route naar het eindpunt van de route zijn weergegeven. De routecode van de trajecten correspondeert met een serie van trajecten van knoop naar knoop (beginpunt, eindpunt). | De routecode van de route, gevolgd door een geografische plaatsaanduiding. Bij de plaatsaanduiding wordt waar relevant gebruik gemaakt van de afkortingen 'racc' voor raccordement en 'aansl' voor aansluiting. Een route is onderverdeeld in trajecten die in volgorde van het beginpunt van de route naar het eindpunt van de route zijn weergegeven. De routecode van de trajecten correspondeert met een serie van trajecten van knoop naar knoop (beginpunt, eindpunt). | De routecode van de route, gevolgd door een geografische plaatsaanduiding. Bij de plaatsaanduiding wordt waar relevant gebruik gemaakt van de afkortingen 'racc' voor raccordement en 'aansl' voor aansluiting. Een route is onderverdeeld in trajecten die in volgorde van het beginpunt van de route naar het eindpunt van de route zijn weergegeven. De routecode van de trajecten correspondeert met een serie van trajecten van knoop naar knoop (beginpunt, eindpunt). |
+| 4. | Bij een berekende PR 10–6 contour van 0 en de aanwezigheid van een brandvoorschriftengebied (BVG) is de PR 10–6 contour op 1 meter vastgesteld. De afstand wordt gemeten vanaf het midden tussen de buitenste sporen waarover gevaarlijke stoffen kunnen worden vervoerd. | Bij een berekende PR 10–6 contour van 0 en de aanwezigheid van een brandvoorschriftengebied (BVG) is de PR 10–6 contour op 1 meter vastgesteld. De afstand wordt gemeten vanaf het midden tussen de buitenste sporen waarover gevaarlijke stoffen kunnen worden vervoerd. | Bij een berekende PR 10–6 contour van 0 en de aanwezigheid van een brandvoorschriftengebied (BVG) is de PR 10–6 contour op 1 meter vastgesteld. De afstand wordt gemeten vanaf het midden tussen de buitenste sporen waarover gevaarlijke stoffen kunnen worden vervoerd. |
+| 5,6. | De Minister van Infrastructuur en Waterstaat verantwoordt het groepsrisico middels de PR 10–7 en PR 10–8 plafonds van het plaatsgebonden risico. De afstand wordt gemeten vanaf het midden van de doorgaande route. | De Minister van Infrastructuur en Waterstaat verantwoordt het groepsrisico middels de PR 10–7 en PR 10–8 plafonds van het plaatsgebonden risico. De afstand wordt gemeten vanaf het midden van de doorgaande route. | De Minister van Infrastructuur en Waterstaat verantwoordt het groepsrisico middels de PR 10–7 en PR 10–8 plafonds van het plaatsgebonden risico. De afstand wordt gemeten vanaf het midden van de doorgaande route. |
+| 7. | Een JA in kolom 7 betekent dat er een brandvoorschriftengebied van toepassing is. | Een JA in kolom 7 betekent dat er een brandvoorschriftengebied van toepassing is. | Een JA in kolom 7 betekent dat er een brandvoorschriftengebied van toepassing is. |
+| 8 | De breedte van de spoorbundel is een categoriebreedte. De werkelijke spoorbreedte ligt binnen de categoriegrenzen. De rekenbreedte is 9 meter voor de categorie 0–24 en de hoogste waarde voor de overige categorieën. | De breedte van de spoorbundel is een categoriebreedte. De werkelijke spoorbreedte ligt binnen de categoriegrenzen. De rekenbreedte is 9 meter voor de categorie 0–24 en de hoogste waarde voor de overige categorieën. | De breedte van de spoorbundel is een categoriebreedte. De werkelijke spoorbreedte ligt binnen de categoriegrenzen. De rekenbreedte is 9 meter voor de categorie 0–24 en de hoogste waarde voor de overige categorieën. |
+| 9 | Deze kolom geeft de overige bijzonderheden weer. | Deze kolom geeft de overige bijzonderheden weer. | Deze kolom geeft de overige bijzonderheden weer. |
+|   | K: Op deze trajecten is rekening gehouden met kopmaken. Dit verklaart de hogere risicoplafonds ten opzichte van aansluitende trajecten. | K: Op deze trajecten is rekening gehouden met kopmaken. Dit verklaart de hogere risicoplafonds ten opzichte van aansluitende trajecten. | K: Op deze trajecten is rekening gehouden met kopmaken. Dit verklaart de hogere risicoplafonds ten opzichte van aansluitende trajecten. |
+|   | W: Bij trajecten met een W geldt een wisseltoeslag. De wisseltoeslag geldt tot 500 meter vanaf de wissel. De faalkans van een passerende trein wordt hierdoor hoger. | W: Bij trajecten met een W geldt een wisseltoeslag. De wisseltoeslag geldt tot 500 meter vanaf de wissel. De faalkans van een passerende trein wordt hierdoor hoger. | W: Bij trajecten met een W geldt een wisseltoeslag. De wisseltoeslag geldt tot 500 meter vanaf de wissel. De faalkans van een passerende trein wordt hierdoor hoger. |
+|   | L: Lage snelheid. Voor trajecten met een L geldt een lagere faalkans van een passerende trein. | L: Lage snelheid. Voor trajecten met een L geldt een lagere faalkans van een passerende trein. | L: Lage snelheid. Voor trajecten met een L geldt een lagere faalkans van een passerende trein. |
+|   | De plaatsnaam betreft het weerstation dat in de berekeningen wordt gebruikt. | De plaatsnaam betreft het weerstation dat in de berekeningen wordt gebruikt. | De plaatsnaam betreft het weerstation dat in de berekeningen wordt gebruikt. |
+|   | Er is ook een geïndexeerde bijzonderheid: Risicoreductie door extra maatregelen (V**i**). | Er is ook een geïndexeerde bijzonderheid: Risicoreductie door extra maatregelen (V**i**). | Er is ook een geïndexeerde bijzonderheid: Risicoreductie door extra maatregelen (V**i**). |
+|   | Voor de risicoreductie zijn de volgende waarden onderscheiden: | Voor de risicoreductie zijn de volgende waarden onderscheiden: | Voor de risicoreductie zijn de volgende waarden onderscheiden: |
+|   | **V** **i** | **Veiligheidsmaatregel** | **Risicoreductie** |
+|   | V1 | Maatregelen Havenspoorlijn | 40% |
+|   | V2 | Maatregelen Betuweroute | 46% |
+
 **Toelichting tabel:**
 
 ### Bijlage 2. Trajectcodering Zuid-Nederland
@@ -1439,5 +2559,97 @@ Deze regeling berust mede op [artikel 2.24, tweede lid, van de Omgevingswet](htt
 |   | Maas (van Lateraalkanaal tot Kanaal van Sint Adries) |   |   |   |   |   |   |   |   |   |
 |   | Kanaal van Sint Andries |   |   |   |   |   |   |   |   |   |
 |   | Maas-Waalkanaal |   |   |   |   |   |   |   |   |   |
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+## Bijlage III. Tabel Basisnet water
+
+| **Aanwijzing Basisnetroutes** | **PR-plafond** |   |
+| --- | --- | --- |
+| **Zeevaartroutes** | **PR 10-6 Contour** | **Type schepen** |
+| **Corridor Rotterdam - Moerdijk** |   |   |
+| Ingang haven | 0 | Binnenvaartschepen |
+| Ingang haven | 0 | Zeeschepen |
+| Noord-ingang en Nieuwe Waterweg | 0 | Binnenvaartschepen |
+| Noord-ingang en Nieuwe Waterweg | 0 | Zeeschepen |
+| Zuid-ingang | 0 | Binnenvaartschepen |
+| Zuid-ingang | 0 | Zeeschepen |
+| Beerkanaal | 0 | Binnenvaartschepen |
+| Beerkanaal | 0 | Zeeschepen |
+| Calandkanaal | 0 | Binnenvaartschepen |
+| Calandkanaal | 0 | Zeeschepen |
+| Nieuwe Maas (tot kern Pernis) | 0 | Binnenvaartschepen |
+| Nieuwe Maas (tot kern Pernis) | 0 | Zeeschepen |
+| Nieuwe Maas (van kern Pernis tot Delfhavense Schie) | 0 | Binnenvaartschepen |
+| Nieuwe Maas (van kern Pernis tot Delfhavense Schie) | 0 | Zeeschepen |
+| Oude Maas (tot Botlekbrug) | 0 | Binnenvaartschepen |
+| Oude Maas (tot Botlekbrug) | 0 | Zeeschepen |
+| Oude Maas (tot Dordtsche Kil) | 0 | Binnenvaartschepen |
+| Oude Maas (tot Dordtsche Kil) | 0 | Zeeschepen |
+| Dordtsche Kil en Hollandsch Diep (oversteek naar havens Moerdijk) | 0 | Binnenvaartschepen |
+| Dordtsche Kil en Hollandsch Diep (oversteek naar havens Moerdijk) | 0 | Zeeschepen |
+| **Noordzeekanaal (tot Coenhaven)** | 0 | Binnenvaartschepen |
+| **Noordzeekanaal (tot Coenhaven)** | 0 | Zeeschepen |
+| **Westerschelde en haar mondingen** | 0 | Binnenvaartschepen |
+| **Westerschelde en haar mondingen** | 0 | Zeeschepen |
+| Westerschelde tussen zeemonding en haven Vlissingen | 0 | Binnenvaartschepen |
+| Westerschelde tussen zeemonding en haven Vlissingen | 0 | Zeeschepen |
+| Westerschelde tussen haven Vlissingen en Kanaal Gent - Terneuzen | 0 | Binnenvaartschepen |
+| Westerschelde tussen haven Vlissingen en Kanaal Gent - Terneuzen | 0 | Zeeschepen |
+| Westerschelde tussen haven Vlissingen en Kanaal Gent - Terneuzen | 0 | Binnenvaartschepen |
+| Westerschelde tussen haven Vlissingen en Kanaal Gent - Terneuzen | 0 | Zeeschepen |
+| **Kanaal Gent - Terneuzen** | 0 | Binnenvaartschepen |
+| **Kanaal Gent - Terneuzen** | 0 | Zeeschepen |
+|   |   |   |
+| **Binnenvaartroutes** | **PR 10-6 Contour** | **Type schepen** |
+| **Corridor Rotterdam - Duitsland** | 0 | Binnenvaartschepen |
+|   | Hartelkanaal |   |
+|   | Nieuwe Maas (vanaf Delfshavense Schie tot splitsing Noord en Lek) |   |
+|   | Noord |   |
+|   | Oude Maas (vanaf Noord tot Dordtsche Kil) |   |
+|   | Beneden Merwede |   |
+|   | Boven Merwede |   |
+|   | Waal |   |
+|   | Boven Rijn |   |
+| **Corridor Westerschelde - Rijn** | 0 | Binnenvaartschepen |
+|   | Schelde-Rijnkanaal |   |
+|   | Kanaal door Zuid-Beveland |   |
+|   | Oosterschelde (van Kanaal door Zuid-Beveland tot Brabantsche Vaarwater) |   |
+|   | Brabantsche Vaarwater |   |
+|   | Mastgat (ook bekend als Keeten) |   |
+|   | Zijpe |   |
+|   | Krammer |   |
+|   | Volkerak |   |
+|   | Hollandsch Diep |   |
+|   | Nieuwe Merwede |   |
+|   |   |   |
+| **Corridor Amsterdam - Rijn** | 0 | Binnenvaartschepen |
+|   | Het IJ (vanaf Coenhaven tot Oranjesluizen) |   |
+|   | Amsterdam-Rijnkanaal |   |
+|   | Lekkanaal |   |
+|   | Lek (vanaf Lekkanaal tot Nieuwe Maas) |   |
+| **Corridor Amsterdam - Noord-Nederland** | 0 | Binnenvaartschepen |
+|   | IJmeer en Markermeer (vanaf Oranjesluizen tot Houtribsluizen) |   |
+|   | IJsselmeer (vanaf Houtribsluizen tot Prinses Margrietkanaal) |   |
+|   | Prinses Margrietkanaal |   |
+|   | Van Starkenborghkanaal |   |
+|   | Eemskanaal |   |
+| **Corridor Rijn - Oost-Nederland** | 0 | Binnenvaartschepen |
+|   | Pannerdens Kanaal en Nederrijn (tot IJssel) |   |
+|   | Geldersche IJssel |   |
+|   | Keteldiep |   |
+|   | Ketelmeer (vanaf Keteldiep tot IJsselmeer) |   |
+| **Maascorridor** | 0 | Binnenvaartschepen |
+|   | Maas (vanaf Kanaal van Ternaaien tot Julianakanaal) |   |
+|   | Julianakanaal |   |
+|   | Maas (van Julianakanaal tot Lateraalkanaal) |   |
+|   | Lateraalkanaal |   |
+|   | Maas (van Lateraalkanaal tot Kanaal van Sint Andries) |   |
+|   | Kanaal van Sint Andries |   |
+|   | Maas-Waalkanaal |   |
+| **Corridor Nederrijn** | 0 | Binnenvaartschepen |
+|   | Lek tussen Nieuwe maas en Lekkanaal |   |
+|   | Lek tussen Lekkanaal en Amsterdam-Rijnkanaal |   |
+|   | Nederrijn tussen de IJssel en Amsterdam-Rijnkanaal |   |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
