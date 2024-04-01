@@ -4,7 +4,7 @@ identifier: "BWBR0045971"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-04-01"
-last_updated: "2021-12-03"
+last_updated: "2024-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045971"
 soort: "ministeriele-regeling"
@@ -66,7 +66,9 @@ Besluit:
 
 - i. het indienen van een voorstel tot gratieverlening;
 
-- j. overige taken die voortvloeien uit de rol van ketenregisseur als bedoeld in [artikel 1.2 Regeling tenuitvoerlegging strafrechtelijke beslissingen](https://wetten.overheid.nl/jci1.3:c:BWBR0042978&artikel=1:2) en de bijbehorende kerntaken, waaronder in ieder geval wordt begrepen:
+- j. het verstrekken van een ambtshalve opdracht tot reclasseringstoezicht aan een gecertificeerde instelling of reclasseringsinstelling als bedoeld in [artikel 6.3.14, tweede lid, Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:3:14);
+
+- k. overige taken die voortvloeien uit de rol van ketenregisseur als bedoeld in [artikel 1.2 Regeling tenuitvoerlegging strafrechtelijke beslissingen](https://wetten.overheid.nl/jci1.3:c:BWBR0042978&artikel=1:2) en de bijbehorende kerntaken, waaronder in ieder geval wordt begrepen:
 
 - –. het persoonsgericht beoordelen van het advies OM, alsmede het informeren van de uitvoeringsorganisaties over de aanwezigheid van een advies OM, als ook het routeren van een verzoek van de uitvoeringsorganisatie om een (aanvullend) advies van het Openbaar Ministerie;
 
