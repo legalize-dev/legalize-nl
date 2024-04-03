@@ -4,7 +4,7 @@ identifier: "BWBR0049523"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-04-03"
-last_updated: "2024-04-01"
+last_updated: "2024-04-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049523"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit
 
 In dit besluit wordt verstaan onder:
 
-- a. **Commissie:** de Commissie van Deskundigen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049523&artikel=2&z=2024-04-03&g=2024-04-01);
+- a. **Commissie:** de Commissie van Deskundigen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049523&artikel=2&z=2024-04-03&g=2024-04-03);
 
 - b. **Ministerie:** het Ministerie van Volksgezondheid, Welzijn en Sport;
 
