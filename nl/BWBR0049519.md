@@ -4,7 +4,7 @@ identifier: "BWBR0049519"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2026-01-14"
-last_updated: "2023-12-14"
+last_updated: "2024-04-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049519"
 soort: "beleidsregel"
@@ -72,15 +72,15 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 6. Overgangsrecht
 
-Deze beleidsregel is, met uitzondering van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049519&artikel=3&z=2024-04-03&g=2023-12-14) voor zover dat betrekking heeft op de individuele maatwerkbeoordeling, van toepassing op aanvragen waarop op 14 december 2023 nog geen besluit is genomen en op besluiten die op die datum nog niet onherroepelijk zijn.
+Deze beleidsregel is, met uitzondering van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049519&artikel=3&z=2024-04-03&g=2024-04-03) voor zover dat betrekking heeft op de individuele maatwerkbeoordeling, van toepassing op aanvragen waarop op 14 december 2023 nog geen besluit is genomen en op besluiten die op die datum nog niet onherroepelijk zijn.
 
 ##### Artikel 7. Inwerkingtreding
 
-Dit onderdeel is nog niet inwerking getreden
+Deze beleidsregel treedt in werking met ingang van 1 juli 2024, met uitzondering van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049519&artikel=1&z=2024-04-03&g=2024-04-03), [2, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049519&artikel=2&z=2024-04-03&g=2024-04-03), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0049519&artikel=4&z=2024-04-03&g=2024-04-03) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0049519&artikel=6&z=2024-04-03&g=2024-04-03), die in werking treden met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze beleidsregel wordt geplaatst en terugwerken tot en met 14 december 2023.
 
 ##### Artikel 8. Citeertitel
 
-Dit onderdeel is nog niet inwerking getreden
+Deze beleidsregel wordt aangehaald als: Beleidsregel schadeafhandeling Tijdelijke wet Groningen.
 
 Gelet op [artikel 21 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=21), de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=2), en [10, eerste lid, van de Tijdelijke wet Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=10) en [artikel 1a.1, eerste lid, van de Regeling Tijdelijke wet Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&artikel=1a.1);
 
