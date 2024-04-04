@@ -257,9 +257,3 @@ Wijzigt de Kaderregeling subsidies OCW, SZW en VWS.
 Deze regeling wordt aangehaald als: Subsidieregeling topsportevenementen 2024–2028.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 13a. Overgangsbepaling
-
-Op aanvragen tot subsidieverlening die zijn ingediend voor 1 januari 2024, blijft de [Subsidieregeling topsportevenementen 2021–2023](https://wetten.overheid.nl/jci1.3:c:BWBR0044720) van toepassing.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
