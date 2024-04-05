@@ -4,7 +4,7 @@ identifier: "BWBR0049526"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-07-01"
-last_updated: "2024-01-01"
+last_updated: "2024-04-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049526"
 soort: "ministeriele-regeling"
@@ -74,7 +74,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VIII. Inwerkingtreding
 
-Dit onderdeel is nog niet inwerking getreden
+1. Deze regeling treedt in werking met ingang van 1 juli 2024.
+
+2. In afwijking van het eerste lid, treedt [artikel I onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0049526&artikel=I&z=2024-04-05&g=2024-04-05) van deze regeling in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze regeling wordt geplaatst en werkt terug tot en met 1 januari 2024.
 
 Handelende in overeenstemming met de Staatssecretaris van Volksgezondheid, Welzijn en Sport;
 
