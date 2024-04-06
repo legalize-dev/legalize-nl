@@ -4,7 +4,7 @@ identifier: "BWBR0048295"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2023-06-20"
+last_updated: "2024-04-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048295"
 soort: "ministeriele-regeling"
@@ -44,45 +44,69 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **associate degree-opleiding:** opleiding als bedoeld in [artikel 7.3a, tweede lid, onderdeel a, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3a);
+- **aansluitende opleidingsroute:** opleidingsroute van vo, vso of vavo naar mbo en daarna hbo, die voldoet aan de eisen genoemd in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=3&z=2024-04-06&g=2024-04-06);
 
-- **aansluitende opleidingsroute:** opleidingsroute van vo of vavo naar mbo en vervolgens naar een hbo-bacheloropleiding of associate degree-opleiding, bestaande uit op elkaar afgestemde onderwijsprogramma’s als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=3&z=2023-06-20&g=2023-06-20);
+- **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1);
 
 - **DUS-I:** Dienst Uitvoering Subsidies aan Instellingen;
 
-- **hbo-bacheloropleiding:** opleiding als bedoeld in [artikel 7.3a, eerste lid, onderdeel a, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3a);
+- **hbo-opleiding:**
 
-- **hogeschool:** hogeschool als bedoeld in [onderdeel g van de bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend), voor zover zij bekostigde hbo-opleidingen verzorgt;
+- a. hbo-bacheloropleiding als bedoeld in [artikel 7.3a, eerste lid, onderdeel a, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3a); of
 
-- **leerling:** degene die onderwijs volgt aan een vo-school;
+- b. associate degree-opleiding als bedoeld in [artikel 7.3a, tweede lid, onderdeel a, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3a);
 
-- **mbo:** beroepsonderwijs als bedoeld in [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1);
+- **hogeschool:** hogeschool als bedoeld in onderdeel g van de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend), voor zover zij bekostigde hbo-opleidingen verzorgt;
 
-- **mbo-instelling:** instelling als bedoeld in [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1), voor zover zij bekostigde beroepsopleidingen verzorgt;
+- **leerling:** degene die onderwijs volgt aan een school;
+
+- **mbo-opleiding:**
+
+- a. beroepsopleiding als bedoeld in [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1); of
+
+- b. beroepsopleiding als bedoeld in [artikel 1.1.1 van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=1.1.1);
+
+- **mbo-instelling:**
+
+- a. instelling als bedoeld in [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1), voor zover zij bekostigde mbo-opleidingen verzorgt; of
+
+- b. Scholengemeenschap Bonaire, voor zover zij bekostigde mbo-opleidingen verzorgt;
 
 - **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
 
-- **onderwijsinstelling:** hogeschool, mbo-instelling, vo-school of vavo-opleiding;
+- **onderwijsinstelling:** school, vavo-instelling, mbo-instelling of hogeschool;
 
-- **penvoerder:** mbo-instelling die namens een samenwerkingsverband als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=4&z=2023-06-20&g=2023-06-20) de aanvraag indient;
+- **penvoerder:** penvoerder als bedoeld in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=4&z=2024-04-06&g=2024-04-06);
 
-- **samenwerkingsverband:** samenwerkingsverband als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=3&z=2023-06-20&g=2023-06-20);
+- **samenwerkingsverband:** samenwerkingsverband als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=3&z=2024-04-06&g=2024-04-06);
 
-- **sectorkamer:** een indeling van mbo-opleidingen naar voor het bedrijfsleven en beroepsonderwijs relevante categorieën, zoals beschreven door Samenwerkingsorganisatie Beroepsonderwijs Bedrijfsleven (SBB).
+- **school:**
 
-- **student:** degene die onderwijs volgt aan een vavo-opleiding, mbo-instelling of hogeschool.
+- a. school als bedoeld in [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1), voor zover zij bekostigde vo-opleidingen verzorgt; of
+
+- b. school als bedoeld in [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1), voor zover zij bekostigde vso-opleidingen verzorgt;
+
+- **sectorkamer:** sectorkamer als beschreven door de Samenwerkingsorganisatie Beroepsonderwijs Bedrijfsleven en te raadplegen op [https://www.s-bb.nl/organisatie/directie-en-bestuur/overlegtafels/sectorkamers-marktsegmenten/](https://www.s-bb.nl/organisatie/directie-en-bestuur/overlegtafels/sectorkamers-marktsegmenten/), waar de mbo-opleiding onder valt;
+
+- **sectoronderdeel:** onderdeel als bedoeld in [artikel 3.1 van het Uitvoeringsbesluit WHW 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=3.1), waar de hbo-opleiding onder valt;
+
+- **student:** degene die onderwijs volgt aan een vavo-instelling, mbo-instelling of hogeschool;
 
 - **tekortsectoren:** sectoren techniek, woningbouw, zorg, onderwijs, klimaat en energie, veiligheid en kinderopvang;
 
-- **vavo:** voortgezet algemeen volwassenenonderwijs als bedoeld in [artikel 7.3.1, eerste lid, onderdeel a, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1), gericht op het behalen van een diploma havo of mavo als bedoeld in [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.5) respectievelijk [artikel 2.6 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.6);
+- **vavo-opleiding:** opleiding voortgezet algemeen volwassenenonderwijs als bedoeld in [artikel 7.3.1, eerste lid, onderdeel a, van de Wet educatie en beroepsonderwijs,](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1) gericht op het behalen van een diploma havo of mavo als bedoeld in [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.5) respectievelijk [artikel 2.6 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.6);
 
-- **vavo-opleiding:** opleiding verzorgd door mbo-instelling als bedoeld in [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1), voor zover die bekostigde vavo-opleidingen mavo of havo verzorgt;
+- **vavo-instelling:** instelling als bedoeld in [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1), voor zover zij bekostigde vavo-opleidingen verzorgt;
 
-- **vo:** voortgezet onderwijs als bedoeld in [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1), gericht op het behalen van een diploma havo, mavo of vbo als bedoeld in de [artikelen 2.5 tot en met 2.7 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.5);
+- **vo-opleiding:**
 
-- **vo-school:** school als bedoeld in [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1), voor zover die bekostigd havo, mavo en/of vbo verzorgt;
+- a. havo, mavo, vbo of praktijkonderwijs als bedoeld in de [artikelen 2.5 tot en met 2.8 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.5); of
 
-- **voedingsgebieden:** postcodegebieden waarbinnen de studenten of leerlingen van de hbo- en mbo-instellingen van een samenwerkingsverband, onderscheidenlijk de vo- of vavo-scholen van een samenwerkingsverband woonachtig zijn.
+- b. CCSLC, CSEC of CVQ als bedoeld in [artikel 1 van het Besluit Saba Comprehensive School en Gwendoline van Puttenschool BES](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&artikel=1);
+
+- **voedingsgebied:** postcodegebieden waarbinnen de leerlingen of studenten van de onderwijsinstellingen die deel uitmaken van een samenwerkingsverband woonachtig zijn;
+
+- **vso-opleiding:** voortgezet speciaal onderwijs in het uitstroomprofiel vervolgonderwijs als bedoeld in [artikel 14a van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14a), gericht op het behalen van een diploma havo, mavo of vbo als bedoeld in de [artikelen 2.5 tot en met 2.7 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.5).
 
 ##### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
@@ -92,39 +116,53 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 1. De minister kan aan de penvoerder van een samenwerkingsverband subsidie verstrekken voor het ontwikkelen en duurzaam uitvoeren van een aansluitende opleidingsroute voor leerlingen en studenten.
 
-2. Een samenwerkingsverband bestaat ten minste uit één hogeschool, één mbo-instelling en één vo-school of vavo-opleiding die geen onderdeel uitmaakt van de betrokken mbo-instelling.
+2. Een samenwerkingsverband bestaat ten minste uit één school of vavo-instelling, één mbo-instelling en één hogeschool, waarbij de mbo-instelling en de vavo-instelling niet dezelfde instelling zijn.
 
-3. De aansluitende opleidingsroutes, bedoeld in het eerste lid:
+3. De aansluitende opleidingsroute, bedoeld in het eerste lid:
 
-- a. omvatten op elkaar afgestemde onderwijsprogramma’s voor één of meer vo-opleidingen of vavo-opleidingen, één of meer mbo-opleidingen en één of meer hbo-opleidingen;
+- a. omvat qua inhoud en opzet op elkaar afgestemde onderwijsprogramma’s voor één of meer vo-, vso- of vavo-opleidingen, één of meer mbo-opleidingen en één of meer hbo-opleidingen;
 
-- b. leiden op tot beroepen in één of meer tekortsectoren of één of meer sectoren waarvan kan worden aangetoond dat daarvoor een tekort op de arbeidsmarkt is binnen het voedingsgebied van het samenwerkingsverband op basis van betrouwbare en controleerbare bronnen;
+- b. leidt op tot beroepen in één of meer tekortsectoren of één of meer sectoren waarvan kan worden aangetoond dat daarvoor een tekort op de arbeidsmarkt is binnen het voedingsgebied op basis van betrouwbare en controleerbare bronnen;
 
-- c. sluiten inhoudelijk en qua opzet op elkaar aan, waarbij vanaf het vo of vavo al rekening wordt gehouden met mogelijke doorstroom naar een hbo-bacheloropleiding of associate degree-opleiding via het mbo, naast blijvende aandacht voor gediplomeerde uitstroom naar werk;
+- c. houdt vanaf het vo, vso of vavo al rekening met mogelijke doorstroom naar het hbo via het mbo, naast blijvende aandacht voor gediplomeerde uitstroom naar werk;
 
-- d. bevatten gezamenlijke leercontexten of leeromgevingen waarin leerlingen en studenten van de verschillende instellingen nader met elkaar kennismaken, ontdekken hoe vervolgopleidingen zijn of samen praktijk- en onderzoeksopdrachten uitvoeren;
+- d. bevat gezamenlijke leercontexten of leeromgevingen waarin leerlingen en studenten van de verschillende onderwijsinstellingen nader met elkaar kennismaken, ontdekken hoe vervolgopleidingen zijn of samen praktijk- en onderzoeksopdrachten uitvoeren;
 
-- e. bevatten een doorlopende lijn voor loopbaanoriëntatie en -begeleiding, waarbinnen door instellingen waar mogelijk over instellingsgrenzen wordt samengewerkt; en
+- e. bevat een doorlopende lijn voor loopbaanoriëntatie en -begeleiding, waarbinnen door de onderwijsinstellingen waar mogelijk over instellingsgrenzen wordt samengewerkt; en
 
-- f. worden door een door het samenwerkingsverband aangestelde coördinator gecoördineerd, die tevens dient als contactpersoon voor de minister.
+- f. wordt door een door het samenwerkingsverband aangestelde coördinator gecoördineerd, die tevens dient als contactpersoon voor de minister.
 
-4. De deelnemende opleidingen in het samenwerkingsverband, bedoeld in het tweede lid, voldoen in ieder geval aan de volgende vereisten:
+4. De opleidingen, bedoeld in het derde lid, onderdeel a, waarvoor de aansluitende opleidingsroute zal worden ontwikkeld en uitgevoerd, voldoen in ieder geval aan de volgende vereisten:
 
-- a. de gekozen mbo- en hbo-opleidingen leiden op tot beroepen in één of meer tekortsectoren of één of meer sectoren waarvan kan worden aangetoond dat daarvoor een tekort op de arbeidsmarkt is binnen het voedingsgebied van de penvoerder op basis van betrouwbare en controleerbare bronnen;
+- a. zijn inhoudelijk aan elkaar verwant of sluiten anderszins logisch op elkaar aan, blijkend uit doorstroom in de praktijk;
 
-- b. in de mbo-opleiding of mbo-opleidingen zijn in totaal minimaal dertig studenten ingeschreven die afkomstig zijn van één of meer van de van het samenwerkingsverband deel uitmakende vo-scholen of vavo-opleidingen, waarbij er van iedere vo-school of vavo-opleiding ten minste vijf leerlingen of studenten afkomstig zijn;
+- b. de gekozen hbo-opleiding of hbo-opleidingen leiden op tot beroepen in één of meer tekortsectoren of één of meer sectoren waarvan kan worden aangetoond dat daarvoor een tekort op de arbeidsmarkt is binnen het voedingsgebied van de penvoerder op basis van betrouwbare en controleerbare bronnen;
 
-- c. in de hbo-opleiding of hbo-opleidingen zijn minimaal vijftien studenten ingeschreven die afkomstig zijn uit de mbo-instelling die deel uitmaakt van of de mbo-instellingen die deel uitmaken van het samenwerkingsverband, waarbij er van iedere mbo-instelling ten minste vijf studenten afkomstig zijn;
+- c. in de mbo-opleiding of mbo-opleidingen zijn in totaal minimaal dertig studenten ingeschreven die afkomstig zijn van de scholen of vavo-instellingen die deel uitmaken van het samenwerkingsverband, waarbij er van iedere school of vavo-instelling ten minste één leerling of student afkomstig is;
 
-- d. in de mbo-opleiding is sprake van een uitval- en switchpercentage van meer dan 15% van de studenten; en
+- d. in de hbo-opleiding of hbo-opleidingen zijn in totaal minimaal vijftien studenten ingeschreven die afkomstig zijn van de mbo-instellingen die deel uitmaken van het samenwerkingsverband, waarbij er van iedere mbo-instelling ten minste één student afkomstig is;
 
-- e. in de hbo-opleiding sprake is van een uitval- en switchpercentage van meer dan 15% van de studenten.
+- e. in de mbo-opleiding of mbo-opleidingen is sprake van een uitval- en switchpercentage van meer dan 15% van de studenten; en
 
-5. Onder uitval en switch wordt in het vierde lid, onderdelen d en e, verstaan dat een student tijdens het eerste jaar is gestopt met de opleiding of tijdens het eerste jaar is gewisseld naar een opleiding in een andere sectorkamer.
+- f. in de hbo-opleiding of hbo-opleidingen sprake is van een uitval- en switchpercentage van meer dan 15% van de studenten.
 
-6. Voor de aantallen en percentages, bedoeld in het vierde lid, onderdelen b tot en met e, wordt uitgegaan van de bij de minister bekende gegevens op 1 oktober van het jaar voorafgaand aan de aanvraag, die zijn te raadplegen via het aanvraagformulier op [www.dus-i.nl](onbekend).
+5. Onder uitval en switch wordt in het vierde lid, onderdelen e en f, verstaan dat een student tijdens het eerste jaar is gestopt met de opleiding of tijdens het eerste jaar is gewisseld naar een opleiding in een andere sectorkamer of ander sectoronderdeel.
 
-7. De subsidie wordt aangevraagd door, verstrekt aan en verantwoord door de penvoerder. Op de penvoerder rusten alle aan de subsidie verbonden verplichtingen, ongeacht welk bevoegd gezag feitelijk is belast met de uitvoering van de daarop betrekking hebbende werkzaamheden.
+6. In afwijking van het vierde lid:
+
+- a. is het minimale totaalaantal studenten, genoemd in het vierde lid, onderdelen c en d, vijftien in plaats van dertig respectievelijk acht in plaats van vijftien, indien:
+
+- 1°. aan de aan het samenwerkingsverband deelnemende mbo-instellingen per mbo-instelling minder dan 10.000 studenten zijn ingeschreven; en
+
+- 2°. de prognose is dat het aantal studenten aan elk van die mbo-instellingen tot 2037 met minimaal 5% zal afnemen;
+
+- b. is het minimale aantal studenten dat afkomstig is van elke onderwijsinstelling, genoemd in het vierde lid, onderdelen c en d, alsmede het minimale uitval- en switchpercentage, genoemd in het vierde lid, onderdeel e, niet van toepassing op onderwijsinstellingen in Caribisch Nederland.
+
+7. De minister baseert zich voor de beoordeling:
+
+- a. van de aantallen en percentages, bedoeld in het vierde lid, onderdelen c tot en met f, en zesde lid, onderdeel a, onder 1°: op de bij de minister bekende gegevens op 1 oktober van het jaar voorafgaand aan de aanvraag, die zijn te raadplegen op [www.dus-i.nl](http://www.dus-i.nl); en
+
+- b. van de prognose, bedoeld in het zesde lid, onderdeel a, onder 2°: op de bij de minister bekende gegevens op 1 oktober van het jaar voorafgaand aan de aanvraag, die zijn te raadplegen op [https://duo.nl/open_onderwijsdata/middelbaar-beroepsonderwijs/aantal-studenten/studenten-mbo-tellingen-prognoses.jsp](https://duo.nl/open_onderwijsdata/middelbaar-beroepsonderwijs/aantal-studenten/studenten-mbo-tellingen-prognoses.jsp).
 
 ##### Artikel 4. Aanvraag subsidie
 
@@ -132,9 +170,9 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 - a. in het kalenderjaar 2023: gedurende het aanvraagtijdvak van 1 juli 2023 tot en met 15 september 2023, voor subsidieverstrekking in het jaar 2023;
 
-- b. in het kalenderjaar 2024: gedurende een eerste aanvraagtijdvak van 1 mei 2024 tot en met 31 mei 2024 en, indien het subsidieplafond, bedoeld in [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=5&z=2023-06-20&g=2023-06-20), na behandeling van de aanvragen uit het eerste aanvraagtijdvak nog niet is bereikt, gedurende een tweede aanvraagtijdvak van 15 augustus 2024 tot en met 15 september 2024 voor subsidieverstrekking in het jaar 2024; en
+- b. in het kalenderjaar 2024: gedurende een eerste aanvraagtijdvak van 1 mei 2024 tot en met 31 mei 2024 en, indien het subsidieplafond, bedoeld in [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=5&z=2024-04-06&g=2024-04-06), na behandeling van de aanvragen uit het eerste aanvraagtijdvak nog niet is bereikt, gedurende een tweede aanvraagtijdvak van 15 augustus 2024 tot en met 15 september 2024 voor subsidieverstrekking in het jaar 2024; en
 
-- c. in het kalenderjaar 2025: gedurende een eerste aanvraagtijdvak van 1 mei 2025 tot en met 31 mei 2025 en, indien het subsidieplafond, bedoeld in [artikel 5, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=5&z=2023-06-20&g=2023-06-20), na behandeling van de aanvragen uit het eerste aanvraagtijdvak nog niet is bereikt, van 15 augustus 2025 tot en met 15 september 2025 voor subsidieverstrekking in het jaar 2025.
+- c. in het kalenderjaar 2025: gedurende een eerste aanvraagtijdvak van 1 mei 2025 tot en met 31 mei 2025 en, indien het subsidieplafond, bedoeld in [artikel 5, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=5&z=2024-04-06&g=2024-04-06), na behandeling van de aanvragen uit het eerste aanvraagtijdvak nog niet is bereikt, van 15 augustus 2025 tot en met 15 september 2025 voor subsidieverstrekking in het jaar 2025.
 
 2. De minister wijst aanvragen die zijn ingediend buiten de aanvraagtijdvakken, genoemd in het eerste lid, af.
 
@@ -142,9 +180,9 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 - a. een vermelding van de onderwijsinstellingen waaruit het samenwerkingsverband bestaat;
 
-- b. een vermelding van de gekozen opleidingen vo of vavo, mbo en hbo waarvoor de aansluitende opleidingsroute zal worden ontwikkeld en uitgevoerd;
+- b. een vermelding van de gekozen vo-, vso- of vavo-, mbo- en hbo-opleidingen waarvoor de aansluitende opleidingsroute zal worden ontwikkeld en uitgevoerd;
 
-- c. een onderbouwing van de gekozen opleidingen, waaruit blijkt de opleidingsroute voldoet aan het bepaalde in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=3&z=2023-06-20&g=2023-06-20);
+- c. een onderbouwing van de gekozen opleidingen waarvoor de aansluitende opleidingsroute zal worden ontwikkeld en uitgevoerd, waaruit blijkt dat die opleidingen voldoen aan het bepaalde in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=3&z=2024-04-06&g=2024-04-06);
 
 - d. een afschrift van de afspraken die de aan het samenwerkingsverband deelnemende onderwijsinstellingen met elkaar hebben gemaakt, minimaal bestaande uit afspraken over:
 
@@ -154,11 +192,13 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 - 3°. de wijze van informatieverstrekking en verantwoording aan de penvoerder door de overige onderwijsinstellingen binnen het samenwerkingsverband zodat de penvoerder aan de verplichtingen in deze regeling kan voldoen; en
 
-- 4°. het aanstellen van de coördinator, bedoeld in [artikel 3, derde lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=3&z=2023-06-20&g=2023-06-20);
+- 4°. het aanstellen van de coördinator, bedoeld in [artikel 3, derde lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=3&z=2024-04-06&g=2024-04-06);
 
-- e. een beschrijving, aan de hand van eisen, bedoeld in [artikel 3, derde lid, onderdelen c tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=3&z=2023-06-20&g=2023-06-20), van de opbouw en inrichting van de huidige onderwijsprogramma’s van de opleidingen waarvoor de aansluitende opleidingsroute zal worden ontwikkeld.
+- e. een beschrijving, aan de hand van eisen, bedoeld in [artikel 3, derde lid, onderdelen a en c tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=3&z=2024-04-06&g=2024-04-06), van de opbouw en inrichting van de huidige onderwijsprogramma’s van de opleidingen waarvoor de aansluitende opleidingsroute zal worden ontwikkeld.
 
-4. De aanvraag wordt namens het samenwerkingsverband elektronisch ingediend door de penvoerder met behulp van een aanvraagformulier dat beschikbaar wordt gesteld op de website [www.dus-i.nl](onbekend).
+4. De subsidie wordt namens de onderwijsinstellingen in het samenwerkingsverband aangevraagd door, verstrekt aan en verantwoord door de penvoerder. De penvoerder is het bevoegd gezag van een mbo-instelling die deelneemt aan het samenwerkingsverband, niet zijnde Scholengemeenschap Bonaire. Op de penvoerder rusten alle aan de subsidie verbonden verplichtingen, ongeacht welk bevoegd gezag feitelijk is belast met de uitvoering van de daarop betrekking hebbende werkzaamheden.
+
+5. De aanvraag wordt elektronisch ingediend met behulp van een aanvraagformulier dat beschikbaar wordt gesteld op de website [www.dus-i.nl](http://www.dus-i.nl).
 
 ##### Artikel 5. Subsidieplafond, wijze van verdeling beschikbare middelen en subsidiebedrag
 
@@ -186,11 +226,11 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 ##### Artikel 6. Subsidieverplichtingen
 
-1. De penvoerder informeert de minister binnen twee maanden na de vaststelling van de subsidie over wie de coördinator is, bedoeld in [artikel 3, derde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=3&z=2023-06-20&g=2023-06-20).
+1. De penvoerder informeert de minister binnen twee maanden na de vaststelling van de subsidie over wie de coördinator is, bedoeld in [artikel 3, derde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=3&z=2024-04-06&g=2024-04-06).
 
-2. De penvoerder begint binnen één jaar na de vaststelling van de subsidie met uitvoering van de activiteiten en ziet er op toe dat binnen drie jaar na de vaststelling van de subsidie met de uitvoering van de ontwikkelde aansluitende opleidingsroute wordt begonnen. Binnen deze termijn van drie jaar zendt de penvoerder tevens een beschrijving van de opbouw en de inrichting van de onderwijsprogramma’s waarvoor de aansluitende opleidingsroute is ontwikkeld zoals omschreven in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=3&z=2023-06-20&g=2023-06-20), aan de minister.
+2. De penvoerder begint binnen één jaar na de vaststelling van de subsidie met uitvoering van de activiteiten en ziet er op toe dat binnen drie jaar na de vaststelling van de subsidie met de uitvoering van de ontwikkelde aansluitende opleidingsroute wordt begonnen. Binnen deze termijn van drie jaar zendt de penvoerder tevens een beschrijving van de opbouw en de inrichting van de onderwijsprogramma’s waarvoor de aansluitende opleidingsroute is ontwikkeld zoals omschreven in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=3&z=2024-04-06&g=2024-04-06), aan de minister.
 
-3. Onverminderd [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=9&z=2023-06-20&g=2023-06-20) verstrekt de penvoerder namens alle aan het samenwerkingsverband deelnemende onderwijsinstellingen jaarlijks de volgende informatie aan de minister:
+3. Onverminderd [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=9&z=2024-04-06&g=2024-04-06) verstrekt de penvoerder namens alle aan het samenwerkingsverband deelnemende onderwijsinstellingen jaarlijks de volgende informatie aan de minister:
 
 - a. de status van de realisatie en de bijbehorende planning van de aansluitende opleidingsroute;
 
