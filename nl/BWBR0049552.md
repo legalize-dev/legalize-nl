@@ -4,7 +4,7 @@ identifier: "BWBR0049552"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-04-10"
-last_updated: "2023-10-17"
+last_updated: "2024-04-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049552"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ In dit besluit wordt verstaan onder:
 
 - 1. **Medewerker:** degene die als ambtenaar werkzaam is of is geweest bij een van de dienstonderdelen van het Ministerie van Infrastructuur en Waterstaat.
 
-- 2. **Personeelsraadgever IenW:** de persoon bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049552&artikel=2&z=2024-04-10&g=2023-10-17).
+- 2. **Personeelsraadgever IenW:** de persoon bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049552&artikel=2&z=2024-04-10&g=2024-04-10).
 
 ##### Artikel 2
 
