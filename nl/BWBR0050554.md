@@ -4,7 +4,7 @@ identifier: "BWBR0050554"
 country: "nl"
 rank: "wet"
 publication_date: "2025-02-12"
-last_updated: "2024-01-01"
+last_updated: "2024-04-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050554"
 soort: "wet"
@@ -268,7 +268,7 @@ Wijzigt de Wet tot veiling van bepaalde verkooppunten van motorbrandstoffen.
 
 Dit onderdeel is nog niet inwerking getreden
 
-##### Artikel XLI. [Wijzigingswet Woningwet (huurverlaging 2023 voor huurders met lager inkomen)](https://wetten.overheid.nl/jci1.3:c:BWBR0047907)
+##### Artikel XLI. [Wijzigingswet woningwet (huurverlaging 2023 voor huurders met lager inkomen)](https://wetten.overheid.nl/jci1.3:c:BWBR0047907)
 
 Wijzigt de Wijzigingswet Woningwet (huurverlaging 2023 voor huurders met lager inkomen).
 
