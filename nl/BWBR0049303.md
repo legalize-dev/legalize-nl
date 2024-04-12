@@ -4,7 +4,7 @@ identifier: "BWBR0049303"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-01"
-last_updated: "2024-04-01"
+last_updated: "2024-04-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049303"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ Besluit:
 
 Deze regeling wordt aangehaald als: Tijdelijke experimentenregeling nieuwe stembiljetten.
 
-## Bijlage. bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049303&artikel=1&z=2024-04-01&g=2024-04-01) van de Tijdelijke experimentenregeling nieuwe stembiljetten
+## Bijlage. bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049303&artikel=1&z=2024-04-12&g=2024-04-12) van de Tijdelijke experimentenregeling nieuwe stembiljetten
 
 ### Model 3. Stembiljet
 
@@ -112,15 +112,15 @@ Als het stembureau heeft geconstateerd dat een of meer stembiljetten ongeldig zi
 
 In deze tabel wordt het aantal keer dat een stem op de lijsttrekker is uitgebracht door enkel het inkleuren van een stemvakje voor de lijst.
 
-### Model voor de [bijlage bij model N 10–2 van de Kiesregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&bijlage=1) voor een experiment met een nieuw stembiljet: Proces-verbaal van een stembureau (centrale stemopneming)
+### Model voor de [bijlage bij model N 14-1 van de Kiesregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&bijlage=1) voor een experiment met een nieuw stembiljet: Corrigendum bij het proces-verbaal van een stembureau
 
-### Bijlage voor een experiment met een nieuw stembiljet bij model N 10–2: Proces-verbaal van een stembureau (centrale stemopneming)
+### Bijlage voor een experiment met een nieuw stembiljet bij model N 14-1: Corrigendum bij het proces-verbaal van een stembureau
 
-Deze bijlage wordt ingevuld door het stembureau waar een experiment met een nieuw stembiljet plaatsvindt.
+Deze bijlage bij corrigendum verbetert fouten in de bijlage bij het proces-verbaal van een stembureau. De aantallen die in de bijlage van dit corrigendum zijn opgenomen, vervangen de aantallen zoals deze die eerder in de bijlage proces-verbaal van dat stembureau zijn opgenomen.
 
 In deze bijlage wordt door het stembureau verslag gedaan van de reden waarom het stembureau een stembiljet ongeldig heeft verklaard.
 
-De gegevens uit deze bijlage worden gebruikt ten behoeve van de evaluatie van het experiment met een nieuw stembiljet.
+Als het stembureau heeft geconstateerd dat een of meer stembiljetten ongeldig zijn, vult u hieronder in wat de reden is dat de stembiljetten ongeldig zijn verklaard.
 
 Deze bijlage wordt niet ingevoerd in de ondersteunende software verkiezingen, maar maakt wel onderdeel uit van het proces-verbaal. De bijlage wordt dus als onderdeel van het proces-verbaal gepubliceerd.
 
@@ -128,29 +128,13 @@ Deze bijlage wordt niet ingevoerd in de ondersteunende software verkiezingen, ma
 
 Als het stembureau heeft geconstateerd dat een of meer stembiljetten ongeldig zijn, vult u hieronder in wat de reden is dat de stembiljetten ongeldig zijn verklaard.
 
-### Model voor de [bijlage bij model N 14-1 van de Kiesregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&bijlage=1) voor een experiment met een nieuw stembiljet: Corrigendum bij het proces-verbaal van een stembureau
+### Bijlage voor een experiment met een nieuw stembiljet bij model Na 31-1: Proces-verbaal van een gemeentelijk stembureau / stembureau voor het openbaar lichaam (decentrale stemopneming)
 
 ### Bijlage voor een experiment met een nieuw stembiljet bij model N 14-1: Corrigendum bij het proces-verbaal van een stembureau
 
-Deze bijlage bij corrigendum verbetert fouten in de bijlage bij het proces-verbaal van een stembureau. De aantallen die in de bijlage van dit corrigendum zijn opgenomen, vervangen de aantallen zoals deze die eerder in de bijlage proces-verbaal van dat stembureau zijn opgenomen.
-
-### 1. Redenen voor ongeldigheid
-
-Als het stembureau heeft geconstateerd dat een of meer stembiljetten ongeldig zijn, vult u hieronder in wat de reden is dat de stembiljetten ongeldig zijn verklaard.
-
-### 2. Aantal keer dat een kiezer zijn stem heeft uitgebracht door enkel het stemvakje voor een partij aan te kruisen
-
-In deze tabel wordt het aantal keer dat een stem op de lijsttrekker is uitgebracht door enkel het inkleuren van een stemvakje voor de lijst.
-
-### Model voor de [bijlage bij model Na 31-1 van de Kiesregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&bijlage=1) voor een experiment met een nieuw stembiljet: Proces-verbaal van een gemeentelijk stembureau / stembureau voor het openbaar lichaam (decentrale stemopneming)
-
-### Bijlage voor een experiment met een nieuw stembiljet bij model Na 31-1: Proces-verbaal van een gemeentelijk stembureau / stembureau voor het openbaar lichaam (decentrale stemopneming)
-
-Deze bijlage wordt ingevuld door het gemeentelijk stembureau waar een experiment met een nieuw stembiljet plaatsvindt.
-
 In deze bijlage wordt door het gemeentelijk stembureau verslag gedaan van twee onderwerpen:
 
-De gegevens uit deze bijlage worden gebruikt ten behoeve van de evaluatie van het experiment met een nieuw stembiljet.
+### 1. Redenen voor ongeldigheid
 
 Deze bijlage wordt niet ingevoerd in de ondersteunende software verkiezingen, maar maakt wel onderdeel uit van het proces-verbaal. De bijlage wordt dus als onderdeel van het proces-verbaal gepubliceerd.
 
@@ -160,15 +144,31 @@ In onderstaande tabel worden de redenen van ongeldigheid van alle stembureaus in
 
 ### 2. Aantal keer dat een kiezer zijn stem heeft uitgebracht door enkel het stemvakje voor een partij aan te kruisen
 
-In deze tabel wordt het aantal keer genoteerd dat een stem op de lijsttrekker is uitgebracht door enkel het inkleuren van een stemvakje voor de lijst.
-
-### Model voor de [bijlage bij model Na 31-2 van de Kiesregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&bijlage=1) voor een experiment met een nieuw stembiljet: Proces-verbaal van een gemeentelijk stembureau / stembureau voor het openbaar lichaam (centrale stemopneming)
-
-### Bijlage voor een experiment met een nieuw stembiljet bij model Na 31-2: Proces-verbaal van een gemeentelijk stembureau / stembureau voor het openbaar lichaam (centrale stemopneming)
+### Bijlage voor een experiment met een nieuw stembiljet bij model Na 31-1: Proces-verbaal van een gemeentelijk stembureau / stembureau voor het openbaar lichaam (decentrale stemopneming)
 
 Deze bijlage wordt ingevuld door het gemeentelijk stembureau waar een experiment met een nieuw stembiljet plaatsvindt.
 
 In deze bijlage wordt door het gemeentelijk stembureau verslag gedaan van twee onderwerpen:
+
+Deze bijlage wordt ingevuld door het gemeentelijk stembureau waar een experiment met een nieuw stembiljet plaatsvindt.
+
+In deze bijlage wordt door het gemeentelijk stembureau verslag gedaan van twee onderwerpen:
+
+### 1. Redenen voor ongeldigheid
+
+Deze bijlage wordt niet ingevoerd in de ondersteunende software verkiezingen, maar maakt wel onderdeel uit van het proces-verbaal. De bijlage wordt dus als onderdeel van het proces-verbaal gepubliceerd.
+
+### 2. Aantal keer dat een kiezer zijn stem heeft uitgebracht door enkel het stemvakje voor een partij aan te kruisen
+
+In deze tabel wordt het aantal keer dat een stem op de lijsttrekker is uitgebracht door enkel het inkleuren van een stemvakje voor de lijst.
+
+### Model voor de [bijlage bij model Na 31-2 van de Kiesregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&bijlage=1) voor een experiment met een nieuw stembiljet: Proces-verbaal van een gemeentelijk stembureau / stembureau voor het openbaar lichaam (centrale stemopneming)
+
+### Bijlage voor een experiment met een nieuw stembiljet bij model Na 31-2: Uitkomst per stembureau
+
+Deze bijlage wordt ingevuld door het gemeentelijk stembureau waar een experiment met een nieuw stembiljet plaatsvindt.
+
+In deze bijlage wordt door het gemeentelijk stembureau per stembureau verslag gedaan van twee onderwerpen:
 
 De gegevens uit deze bijlage worden gebruikt ten behoeve van de evaluatie van het experiment met een nieuw stembiljet.
 
@@ -176,9 +176,9 @@ Deze bijlage wordt niet ingevoerd in de ondersteunende software verkiezingen, ma
 
 ### 1. Redenen voor ongeldigheid
 
-In onderstaande tabel worden de redenen van ongeldigheid van alle stembureaus in de gemeente genoteerd.
+In deze tabel wordt het aantal keer dat een stem op de lijsttrekker is uitgebracht door enkel het inkleuren van een stemvakje voor de lijst.
 
-### 2. Aantal keer dat een kiezer zijn stem heeft uitgebracht door enkel het stemvakje voor een partij aan te kruisen
+### Model 17. Verzoek tot registratie van een logo
 
 In deze tabel wordt het aantal keer dat een stem op de lijsttrekker is uitgebracht door enkel het inkleuren van een stemvakje voor de lijst.
 
@@ -203,5 +203,31 @@ Als het stembureau heeft geconstateerd dat een of meer stembiljetten ongeldig zi
 In deze tabel wordt het aantal keer dat een stem op de lijsttrekker is uitgebracht door enkel het inkleuren van een stemvakje voor de lijst.
 
 ### Model 17. Verzoek tot registratie van een logo
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### 1. Redenen voor ongeldigheid
+
+### 2. Aantal keer dat een kiezer zijn stem heeft uitgebracht door enkel het stemvakje voor een partij aan te kruisen
+
+In deze tabel wordt het aantal keer dat een stem op de lijsttrekker is uitgebracht door enkel het inkleuren van een stemvakje voor de lijst.
+
+### Model voor de [bijlage bij model Na 31-1 van de Kiesregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&bijlage=1) voor een experiment met een nieuw stembiljet: Proces-verbaal van een gemeentelijk stembureau / stembureau voor het openbaar lichaam (decentrale stemopneming)
+
+Deze bijlage wordt ingevuld door het gemeentelijk stembureau waar een experiment met een nieuw stembiljet plaatsvindt.
+
+De gegevens uit deze bijlage worden gebruikt ten behoeve van de evaluatie van het experiment met een nieuw stembiljet.
+
+In deze tabel wordt het aantal keer genoteerd dat een stem op de lijsttrekker is uitgebracht door enkel het inkleuren van een stemvakje voor de lijst.
+
+### Model voor de [bijlage bij model Na 31-2 van de Kiesregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&bijlage=1) voor een experiment met een nieuw stembiljet: Proces-verbaal van een gemeentelijk stembureau / stembureau voor het openbaar lichaam (centrale stemopneming)
+
+### Bijlage voor een experiment met een nieuw stembiljet bij model Na 31-2: Proces-verbaal van een gemeentelijk stembureau / stembureau voor het openbaar lichaam (centrale stemopneming)
+
+De gegevens uit deze bijlage worden gebruikt ten behoeve van de evaluatie van het experiment met een nieuw stembiljet.
+
+In onderstaande tabel worden de redenen van ongeldigheid van alle stembureaus in de gemeente genoteerd.
+
+Als het (gemeentelijk) stembureau heeft geconstateerd dat een of meer stembiljetten ongeldig zijn, vult u hieronder in wat de reden is dat de stembiljetten ongeldig zijn verklaard.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
