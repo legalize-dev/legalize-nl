@@ -4,7 +4,7 @@ identifier: "BWBR0044858"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-26"
-last_updated: "2024-01-01"
+last_updated: "2024-04-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044858"
 soort: "ministeriele-regeling"
@@ -74,7 +74,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-Het fytosanitair certificaat als bedoeld in artikel 71 van [verordening 2016/2031](32031R2016) voor snijbloemen van Orchidaceae van oorsprong uit Thailand voldoet aan de bijzondere eisen van beschikking 98/109/EG van de Commissie van de Europese Gemeenschappen van 2 februari 1998 tot machtiging van de lidstaten om ten aanzien van Thailand tijdelijk spoedmaatregelen te nemen tegen de verspreiding van Thrips palmi Karny (PbEG 1998, L 27).
+Vervallen
 
 ##### Artikel 4
 
@@ -242,17 +242,17 @@ Vervallen
 
 ##### Artikel 16
 
-1. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=4&z=2024-01-01&g=2024-01-01) vervalt met ingang van 1 juli 2023.
+1. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=4&z=2024-04-13&g=2024-04-13) vervalt met ingang van 1 juli 2023.
 
-2. [Artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=14&z=2024-01-01&g=2024-01-01) vervalt met ingang van 1 augustus 2022.
+2. [Artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=14&z=2024-04-13&g=2024-04-13) vervalt met ingang van 1 augustus 2022.
 
-3. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=11&z=2024-01-01&g=2024-01-01) vervalt met ingang van 1 april 2022.
+3. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=11&z=2024-04-13&g=2024-04-13) vervalt met ingang van 1 april 2022.
 
-4. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=13&z=2024-01-01&g=2024-01-01) vervalt met ingang van 1 april 2023.
+4. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=13&z=2024-04-13&g=2024-04-13) vervalt met ingang van 1 april 2023.
 
-5. [Artikel 6, tiende en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=6&z=2024-01-01&g=2024-01-01), vervalt met ingang van 1 januari 2027.
+5. [Artikel 6, tiende en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=6&z=2024-04-13&g=2024-04-13), vervalt met ingang van 1 januari 2027.
 
-6. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=7&z=2024-01-01&g=2024-01-01) vervalt met ingang van 1 januari 2024.
+6. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=7&z=2024-04-13&g=2024-04-13) vervalt met ingang van 1 januari 2024.
 
 ##### Artikel 17
 
