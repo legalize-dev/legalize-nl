@@ -4,7 +4,7 @@ identifier: "BWBR0047852"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-04-16"
-last_updated: "2023-02-01"
+last_updated: "2024-04-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047852"
 soort: "zbo"
@@ -83,7 +83,7 @@ Het bestuur verstrekt subsidies onder voorwaarden aan producenten van podiumkuns
 
 3. De subsidie onder voorwaarden is uitsluitend bedoeld ten behoeve van nieuwe Nederlandse vrije producties met professionele uitvoerenden.
 
-4. De subsidie onder voorwaarden is uitsluitend bedoeld voor vrije producties, waarmee wordt beoogd een minimumaantal van 22.500 bezoekers te bereiken. In de aanvraag dient aannemelijk te worden gemaakt dat het minimumaantal kan worden gerealiseerd.
+4. De subsidie onder voorwaarden is uitsluitend bedoeld voor vrije producties, waarmee wordt beoogd een minimumaantal van 20.000 bezoekers te bereiken. In de aanvraag dient aannemelijk te worden gemaakt dat het minimumaantal kan worden gerealiseerd.
 
 5. Het bestuur kan besluiten een aanvraag die niet voldoet aan het vereiste uit het vierde lid in behandeling te nemen als sprake is van een beperkt verschil tussen het beoogde bezoekersaantal en het vereiste minimumaantal.
 
@@ -95,7 +95,7 @@ Het bestuur verstrekt subsidies onder voorwaarden aan producenten van podiumkuns
 
 - c. het een productie betreft die niet in Nederland wordt geproduceerd;
 
-- d. er reeds vier aanvragen zijn ingediend door de aanvrager;
+- d. er reeds vier lopende aanvragen zijn ingediend door de aanvrager;
 
 - e. reeds eerder een aanvraag voor de betreffende productie is ingediend, deze door het bestuur is afgewezen en de aanvraag niet wezenlijk is veranderd;
 
@@ -104,6 +104,8 @@ Het bestuur verstrekt subsidies onder voorwaarden aan producenten van podiumkuns
 - g. de aanvrager geen CAO hanteert voor de uitbetaling van betrokkenen of anderszins afspraken heeft gemaakt die de betaling van een wettelijk minimumloon garanderen;
 
 - h. met het verlenen van de subsidie onder voorwaarden onvoldoende wordt bijgedragen aan de doelstelling van de regeling.
+
+7. De subsidie kan worden geweigerd indien de première van de productie, waarvoor subsidie wordt aangevraagd, plaatsvindt binnen zes maanden dan wel later dan twee jaar na de indiendatum.
 
 ##### Artikel 2.3. Inhoud aanvraag
 
@@ -173,7 +175,7 @@ Aanvragen die aan de vereisten in deze regeling voldoen, komen in aanmerking voo
 
 ##### Artikel 4.1. Indienen van de aanvraag
 
-1. De aanvraag wordt digitaal ingediend. De subsidie kan worden geweigerd indien de première van de productie, waarvoor subsidie wordt aangevraagd, plaatsvindt binnen 13 weken na de uiterste indiendatum.
+1. De aanvraag wordt digitaal ingediend.
 
 2. Een aanvraag wordt ingediend met behulp van een door het bestuur opgesteld formulier.
 
