@@ -4,7 +4,7 @@ identifier: "BWBR0047505"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-04-18"
-last_updated: "2023-02-01"
+last_updated: "2024-04-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047505"
 soort: "ministeriele-regeling"
@@ -68,7 +68,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Hoogte van de uitkering
 
-1. De specifieke uitkering bedraagt € 1.200.000 per kalenderjaar, inclusief BTW.
+1. De specifieke uitkering bedraagt 100% van de uitvoeringskosten, doch ten hoogste het in de beschikking vastgestelde bedrag, inclusief BTW.
 
 2. De betaling wordt verminderd met de kosten waarvoor de provincie op grond van de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817) voor compensatie in aanmerking komt.
 
@@ -114,6 +114,6 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 7a. Besteding van de uitkering
 
-Voor zover het bedrag, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047505&artikel=3&z=2023-02-01&g=2023-02-01), bedoeld voor het kalenderjaar 2022, in dat jaar niet volledig is besteed, kan het resterende bedrag in het kalenderjaar 2023 worden besteed.
+Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
