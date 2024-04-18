@@ -4,7 +4,7 @@ identifier: "BWBR0049274"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-04-18"
-last_updated: "2024-04-03"
+last_updated: "2024-04-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049274"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - **minister:** Minister voor Primair en Voortgezet Onderwijs;
 
-- **Programmaraad:** Programmaraad, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049274&artikel=2&z=2024-04-18&g=2024-04-03).
+- **Programmaraad:** Programmaraad, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049274&artikel=2&z=2024-04-18&g=2024-04-18).
 
 ##### Artikel 2. Instelling en taak van de programmaraad
 
@@ -106,7 +106,7 @@ Tot leden van de programmaraad Digitalisering worden benoemd:
 
 - i. mevrouw M. van der Meulen;
 
-- j. de heer M. Cents;
+- j. meneer E. Varkevisser;
 
 - k. mevrouw A. Levie;
 
