@@ -4,7 +4,7 @@ identifier: "BWBR0048766"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-10-26"
-last_updated: "2023-10-24"
+last_updated: "2024-04-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048766"
 soort: "ministeriele-regeling"
@@ -68,7 +68,7 @@ In deze regeling wordt verstaan onder:
 
 - **onderneming:** onderneming als bedoeld in artikel 2, tweede lid, van de [Verordening (EU) nr. 1407/2013](32013R1407) van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun (PbEU 2013, L 352/9);
 
-- **project:** geheel van onderzoeks- en ontwikkelingsactiviteiten dat aansluit bij het doel van deze regeling, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&artikel=3&z=2023-10-24&g=2023-10-24) en waarvoor subsidie wordt gevraagd op grond van deze regeling;
+- **project:** geheel van onderzoeks- en ontwikkelingsactiviteiten dat aansluit bij het doel van deze regeling, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&artikel=3&z=2024-04-23&g=2024-04-23) en waarvoor subsidie wordt gevraagd op grond van deze regeling;
 
 - **technologiedomein:** kennisgebied waarbinnen in het kader van de mogelijke bouw van de Einstein Telescope ontwikkeling en toepassing van innovaties nodig zijn.
 
@@ -108,7 +108,7 @@ De minister kan subsidie verstrekken voor de volgende activiteiten binnen een pr
 
 - e. bijkomende algemene kosten en andere operationele uitgaven, waaronder die voor materiaal, leveranties en dergelijke producten, die rechtstreeks uit het project voortvloeien.
 
-2. Kosten zijn subsidiabele na afloop van de openstellingsperiode van het technologiedomein als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&artikel=8&z=2023-10-24&g=2023-10-24).
+2. Kosten zijn subsidiabele na afloop van de openstellingsperiode van het technologiedomein als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&artikel=8&z=2024-04-23&g=2024-04-23).
 
 3. Kosten zijn uitsluitend subsidiabel als deze aantoonbaar en direct zijn gerelateerd aan de subsidiabele activiteiten en de doelstelling van deze regeling en noodzakelijk voor de uitvoering van het project.
 
@@ -144,7 +144,7 @@ De minister kan subsidie verstrekken voor de volgende activiteiten binnen een pr
 
 1. De aanvrager kan subsidie aanvragen gedurende de openstellingsperiode voor een technologiedomein.
 
-2. Een aanvraag voor subsidie kan uitsluitend worden ingediend gedurende een door de minister opengestelde aanvraagperiode zoals aangekondigd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&bijlage=2&z=2023-10-24&g=2023-10-24). Aanvragen die worden ingediend na afloop van een openstellingsperiode worden afgewezen.
+2. Een aanvraag voor subsidie kan uitsluitend worden ingediend gedurende een door de minister opengestelde aanvraagperiode zoals aangekondigd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&bijlage=2&z=2024-04-23&g=2024-04-23) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&bijlage=4&z=2024-04-23&g=2024-04-23). Aanvragen die worden ingediend na afloop van een openstellingsperiode worden afgewezen.
 
 3. De subsidieaanvraag wordt ingediend met gebruikmaking van het aanvraagformulier dat door de minister beschikbaar is gesteld.
 
@@ -162,7 +162,7 @@ De minister kan subsidie verstrekken voor de volgende activiteiten binnen een pr
 
 - c. de samenwerkende partijen leggen de gemaakte inhoudelijke en financiële afspraken voor de samenwerking in het project schriftelijk vast;
 
-- d. de samenwerkende partijen leggen de gemaakte afspraken voor wat betreft intellectuele-eigendomsrechten vast binnen de kaders zoals aangegeven in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&bijlage=3&z=2023-10-24&g=2023-10-24);
+- d. de samenwerkende partijen leggen de gemaakte afspraken voor wat betreft intellectuele-eigendomsrechten vast binnen de kaders zoals aangegeven in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&bijlage=3&z=2024-04-23&g=2024-04-23);
 
 - e. de samenwerkende partijen machtigen de aanvrager om de subsidie namens hen aan te vragen en (tussentijds) te verantwoorden;
 
@@ -170,7 +170,7 @@ De minister kan subsidie verstrekken voor de volgende activiteiten binnen een pr
 
 ##### Artikel 9. Beoordeling
 
-1. De minister besluit over een subsidieaanvraag, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&artikel=8&z=2023-10-24&g=2023-10-24) aan de hand van de volgende criteria:
+1. De minister besluit over een subsidieaanvraag, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&artikel=8&z=2024-04-23&g=2024-04-23) aan de hand van de volgende criteria:
 
 - a. aansluiting bij het technologiedomein van de openstelling;
 
@@ -180,13 +180,13 @@ De minister kan subsidie verstrekken voor de volgende activiteiten binnen een pr
 
 - d. kwaliteit van het activiteitenplan en de begroting.
 
-2. De beoordelingscriteria zijn uitgewerkt in het beoordelingskader, dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&bijlage=1&z=2023-10-24&g=2023-10-24) bij deze regeling is gevoegd.
+2. De beoordelingscriteria zijn uitgewerkt in het beoordelingskader, dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&bijlage=1&z=2024-04-23&g=2024-04-23) bij deze regeling is gevoegd.
 
 3. Subsidie wordt slechts verleend indien alle criteria tenminste als voldoende worden beoordeeld.
 
 ##### Artikel 10. Rangschikking aanvragen
 
-1. De aanvragen worden gerangschikt volgens de systematiek zoals bedoeld in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&bijlage=1&z=2023-10-24&g=2023-10-24) bij deze regeling.
+1. De aanvragen worden gerangschikt volgens de systematiek zoals bedoeld in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&bijlage=1&z=2024-04-23&g=2024-04-23) bij deze regeling.
 
 2. Indien door toekenning van alle daarvoor in aanmerking komende aanvragen met betrekking tot een bepaald technologiedomein het toepasselijke subsidieplafond zou worden overschreden, kent de minister subsidie toe, op basis van de in het eerste lid bedoelde rangschikking in volgorde van de hoogst gerangschikte aanvragen.
 
@@ -198,13 +198,13 @@ De minister kan subsidie verstrekken voor de volgende activiteiten binnen een pr
 
 - b. Vacuümtechnologie een bedrag van € 2.000.000,00 beschikbaar;
 
-- c. Trillingsdemping een bedrag van € 2.750.000,00 beschikbaar;
+- c. Trillingsdemping een bedrag van € 2.750.000,00 beschikbaar, waarvan € 1.375.000,00 voor Thema A als bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&bijlage=4&z=2024-04-23&g=2024-04-23) en € 1.375.000,00 voor Thema B als bedoeld in bijlage 4;
 
 - d. Optica een bedrag van € 2.500.000,00 beschikbaar; en
 
 - e. Thermische deformaties een bedrag van € 2.250.000,00 beschikbaar.
 
-2. De minister stelt per openstellingsperiode een subsidieplafond vast en werkt de technologiedomeinen per openstelling uit als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&bijlage=2&z=2023-10-24&g=2023-10-24) bij deze regeling die door wijziging van deze regeling aan deze regeling zal worden gevoegd.
+2. De minister stelt per openstellingsperiode een subsidieplafond vast en werkt de technologiedomeinen per openstelling uit als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&bijlage=2&z=2024-04-23&g=2024-04-23) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&bijlage=4&z=2024-04-23&g=2024-04-23) bij deze regeling die door wijziging van deze regeling aan deze regeling zal worden gevoegd.
 
 ##### Artikel 12. Weigeringsgronden
 
@@ -216,7 +216,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 - c. gegronde reden bestaat om aan te nemen dat de te verlenen subsidie niet of in onvoldoende mate zal worden besteed of bijdragen aan het doel waarvoor de subsidie is bedoeld;
 
-- d. een aanvraag inhoudelijk overwegend overlapt met een hoger gerangschikte aanvraag na rangschikking op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&artikel=10&z=2023-10-24&g=2023-10-24).
+- d. een aanvraag inhoudelijk overwegend overlapt met een hoger gerangschikte aanvraag na rangschikking op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&artikel=10&z=2024-04-23&g=2024-04-23).
 
 ##### Artikel 13. Verplichtingen subsidie
 
@@ -312,9 +312,9 @@ Het Limburgs Instituut voor Ontwikkeling en Financiering (LIOF) is belast met de
 
 ### Openstelling Trillingsvrij koelen
 
-De openstellingstermijn, zoals bedoeld in [artikel 8, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&artikel=8&z=2023-10-24&g=2023-10-24) van de R&D regeling technologiedomeinen Einstein Telescope voor het technologiedomein Trillingsvrij koelen loopt vanaf het moment van publicatie van deze R&D regeling tot en met 24 november 2023 om 23:59.
+De openstellingstermijn, zoals bedoeld in [artikel 8, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&artikel=8&z=2024-04-23&g=2024-04-23) van de R&D regeling technologiedomeinen Einstein Telescope voor het technologiedomein Trillingsvrij koelen loopt vanaf het moment van publicatie van deze R&D regeling tot en met 24 november 2023 om 23:59.
 
-Het subsidieplafond, zoals bedoeld in [artikel 11, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&artikel=11&z=2023-10-24&g=2023-10-24) van de R&D regeling technologiedomeinen Einstein Telescope bedraagt € 2.585.000,00
+Het subsidieplafond, zoals bedoeld in [artikel 11, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&artikel=11&z=2024-04-23&g=2024-04-23) van de R&D regeling technologiedomeinen Einstein Telescope bedraagt € 2.585.000,00
 
 ## Bijlage 3. – Kaders intellectueel eigendom in de consortiumovereenkomst
 
@@ -327,3 +327,41 @@ Er wordt vastgelegd welke partij de rol van IP coördinator op zich neemt.
 Tevens worden afspraken gemaakt over i) het eigenaarschap van en toegang tot achtergrondkennis, zijgrondkennis en voorgrondkennis; ii) de kostenverdeling met betrekking tot het creëren en onderhouden van de portfolio van intellectuele-eigendomsrechten; iii) de keuzes die gemaakt zullen worden met betrekking tot de geheimhouding en beveiliging van informatie, alsmede de besluitvorming met betrekking tot het publiceren dan wel patenteren van nieuwe resultaten; iv) beëindiging en overdraagbaarheid van eigenaarschap van intellectuele-eigendomsrechten binnen het consortium; v) het toetreden van nieuwe partijen tot het consortium; vi) geschilbeslechtingsregelingen.
 
 Tenslotte worden er afspraken vastgelegd over het gebruik en exploitatie van voorgrondkennis. Hierbij valt o.a. te denken aan het gebruik voor onderzoeksdoeleinden door (andere) participanten, commercieel gebruik van voorgrondkennis door participanten, en gebruik van voorgrondkennis voor commercieel gebruik door derden.
+
+## Bijlage 4. Openstelling trillingsdemping
+
+**Deze bijlage hoort bij de artikelen 8 en 11 van de R&D regeling technologiedomeinen Einstein Telescope**
+
+De openstellingstermijn, zoals bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&artikel=8&z=2024-04-23&g=2024-04-23) van de R&D-regeling technologiedomeinen Einstein Telescope voor het technologiedomein Trillingsdemping loopt vanaf [22 april 2024] tot en met 31 mei 2024 23:59 uur. Het subsidieplafond, zoals bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&artikel=11&z=2024-04-23&g=2024-04-23) van de R&D-regeling technologiedomeinen Einstein Telescope bedraagt € 2.750.000,00.
+
+- 1. **Introductie** Om de waarnemingsgevoeligheid van de Einstein Telescope (hierna: ET) te kunnen bereiken, moet het grootste deel van het instrument gemaakt zijn van uiterst nauwkeurige componenten, drastisch geïsoleerd van alle storingsbronnen en in het bijzonder van seismische bewegingen. Alleen op die manier kan ruis dusdanig worden verminderd dat het mogelijk is zwaartekrachtgolven te meten. Binnen dit domein staat de ontwikkeling van geavanceerde trillingsisolatiesystemen voor de kern- en hulpoptiek van de ET centraal. Hieronder staat een nadere toelichting.
+
+- 2. **Uitdaging samengevat** Om aan de eisen voor ET-suspensies te voldoen, zijn nieuwe mechanische ontwerpen/configuraties van seismische isolatoren nodig: de ontwikkeling van verbeterde traagheids- en relatieve verplaatsingssensoren, de implementatie van geavanceerde besturingsmethoden en vooruitgang op het gebied van dataconversie-elektronica met lage frequentie en weinig ruis. Voor ET-Low Frequency (hierna: ET-LF) interferometers moeten oplossingen worden bedacht om overtollige trillingen te verminderen die worden doorgegeven via de mechanische interface tussen de cryokoelers en de cryogene stadia van de spiegelophanging.
+
+- 3. **Uitdaging van trillingsisolatie in meer detail** Grondtrillingen zijn een belangrijke bron van ruis in aan de aarde gebonden laserinterferometer-detectoren voor zwaartekrachtgolven. Omgevingsgeluid van seismische aard, veroorzaakt door natuurlijk microseismiek en menselijke activiteiten, zou verplaatsingen van de optica van de interferometers veroorzaken die tien orden van grootte groter zijn dan het effect dat verwacht wordt van gravitatiegolfsignalen. Om deze reden worden seismische isolatiesystemen gebruikt als mechanische interface tussen de omgeving en de optiek van de detector. Seismische isolatoren zijn complexe mechatronische systemen die compatibel zijn met ultrahoog vacuüm (hierna: UHV) en die de volgende hoofdfuncties hebben: langzame grootschalige positionering en uitlijning; onderdrukken van trillingsruis onder de gevoeligheidseisen in de waarnemingsband van de detector (10Hz-10kHz voor interferometers van de huidige generatie zoals LIGO en VIRGO); en het verminderen van de totale RMS-beweging van elk hangend optisch element, in het bijzonder de bijdragen van veerresonanties en oceanische micro-seismische piek. Deze functies worden bereikt door een actief bestuurd platform van zes vrijheidsgraden te combineren met een keten van passieve mechanische filters, waarvan de laatste fase de hangende optiek zelf is. Meerdere besturingslagen, op spiegelniveau en stroomopwaarts langs de keten, worden gebruikt om de uitlijning van de detector te regelen op basis van globale (geleverd door de optische sensoren van de interferometer) en lokale (verplaatsingssensoren) foutsignalen. In de ET stelt de uitbreiding van de waarnemingsband voor zwaartekrachtgolven tot 3 Hz ons voor grote technologische uitdagingen, omdat de prestaties met enkele orden van grootte moeten worden verbeterd ten opzichte van de allernieuwste technieken voor het isoleren van laagfrequente trillingen. De uitdaging wordt verdeeld in twee thema’s: Thema A Geavanceerde verplaatsings- en traagheidssensoren met ultralage ruis voor actieve trillingsonderdrukking Cruciaal, voor het verminderen van overtollige ruis van koppelingen in de besturing van de globale vrijheidsgraden van de interferometer (longitudinale en angulaire uitlijning), is de onderdrukking van residuele RMS-bewegingen van de hoofdoptiek van de detector tot op nanometerniveau. Deze eis heeft te maken met beperkingen in het dynamische bereik van actuatoren en het vermogen van mechanische filters om een dergelijke door controle veroorzaakte ruis buiten de waarnemingsband van de interferometer te houden. De oplossing voor dit probleem vereist een multilaterale aanpak: Thema B Actieve trillingsisolatie en controle-instrumentatie in de cryogene omgeving van ET-LF Drie van de zes interferometers van de ET, de zogenaamde ET-LF's, zullen werken met spiegels die gekoeld zijn tot minder dan 20 K om de prestaties bij lage frequenties te optimaliseren. Dat temperatuurbereik vereist geleidingskoeling, wat betekent dat er een permanente mechanische verbinding (heat-link) tussen de cryokoeler en de laatste stadia van de ophanging, d.w.z. de spiegel en zijn stuurtrap, tot stand moet worden gebracht. Een ideale cryokoeler introduceert geen trillingen die het seismische omgevingsgeluid overschrijden. Dit is op zich echter geen garantie dat de warmteverbinding het restbewegingsniveau van de spiegel niet bederft. De oplossing voor deze complexe uitdaging ligt in de ontwikkeling van thermomechanische verbindingen met zeer lage stijfheid en lage effectieve massa en in de ontwikkeling van actieve trillingsisolatiemethoden, inclusief sensoren en actuatoren, voor de koude kant van de warmteverbinding zelf.
+
+- •. Reductie van de RMS-beweging van het seismische platform: actieve trillingsisolatie is gebaseerd op terugkoppeling en feed-forward ruisonderdrukking op basis van foutsignalen van versnellingsmeters met hoge resolutie; betere prestaties kunnen worden bereikt door de ontwikkeling van laagfrequente (0,01-1Hz) ultralage ruis inertiële rotatiesensoren om kantelvervuiling uit versnellingsmetersignalen te onderdrukken;
+
+- •. Vermindering van de RMS-beweging van de keten van mechanische filters: verbeterde demping van de starre lichaamsmodi van de passieve isolatieketen kan worden bereikt met nieuwe geoptimaliseerde mechanische configuraties met lokale controles op basis van relatieve verplaatsingssensoren met ultralage ruis; en
+
+- •. Verbetering van het dynamische bereik van de feedback actuatoren: vermindering van de krachtinvoer moet gepaard gaan met verbetering van de dynamica van de actuatoren, met name die dichter bij de spiegel.
+
+- 4. **Specifieke doelstelling(en) voor dit domein** Binnen dit domein zijn er twee specifieke uitdagingen waarbij de inbreng van het bedrijfsleven is gewenst. Het budget van deze call wordt gelijk verdeeld over beide onderwerpen. Het beoogde project moet in eerder geval het volgende bevatten: Thema A – € 1.375.000,00 Thema B – € 1.375.000,00
+
+- •. Inertiële rotatiesensoren met ultralage ruis voor actieve kantelisolatie. Om relevant te zijn voor de ET moet het instrument een resolutie bereiken die beter is dan 0,1 nanoradiaal over de gehele frequentieband van 0,01-1Hz, en compatibel zijn met een ultrahoog vacuümomgeving.
+
+- •. Interferometrische relatieve verplaatsingssensoren met ultralage ruis, compatibel met ultrahoog vacuüm, voor lokale demping van starlichaamtrillingsmodi van de passieve seismische dempingstadia. De sensoren moeten een sub-picometerresolutie bereiken geïntegreerd over de 0.1-10Hz frequentieband.
+
+- •. Interferometrische optische verbindingen voor het implementeren van laagfrequente stabilisatie van de relative positie tussen hulpoptica en kernoptica voor ruisonderdrukking door strooilicht. Het systeem moet de afstand kunnen meten tussen objecten die enkele tientallen meters van elkaar verwijderd zijn met een resolutie van één nanometer RMS geïntegreerd over de frequentieband van 0,01-10 Hz.
+
+- •. Cryogeen compatibele, hoog compliante, zeer betrouwbare thermomechanische interfaces voor het verbinden van cryokoeler en spiegelophangingstadia in ET-LF. De interface moet een actief trillingsisolatiesysteem bevatten (met sensoren en actuatoren) om de hoeveelheid geïnjecteerd seismisch geluid te verminderen.
+
+- 5. **Gerelateerde projecten** In een aantal gerelateerde projecten is reeds vooronderzoek gedaan naar deze technologie:
+
+- •. ET Technologies: in dit project werd, met betrekking tot trillingsdemping, gewerkt aan een cryogene compatibele actieve trillingsisolator voor de koude vinger van de cryokoeler in ET-LF; het technologiedemonstratiemodel is gepland om getest te worden in ETpathfinder.
+
+- •. E-TEST: in dit project is een alternatief ontwerp voor het seismische platform bestudeerd en geïmplementeerd in een prototype op ware grootte. Het systeem bestaat uit een actief isolator met zes vrijheidsgraden die een omgekeerde slingertrap ondersteunt om de demping van de microseismische piek door de oceanen te versterken. De besturing van het systeem maakt gebruik van geavanceerde versnellingsmeters en verplaatsingssensoren op basis van laser interferometrische uitlezing. De isolator ondersteunt een cryogene dubbele slingerlading waarvan de tweede trap een dummyoptiek van 100 kg is. Het prototype-experiment E-TEST bevindt zich momenteel in het Centre Spatiale de Liege (hierna: CSL).
+
+- •. ERC OmniSense-project: in dit project wordt een seismometer met zes vrijheidsgraden en laserinterferometrische uitlezing ontwikkeld en gedemonstreerd bij de besturing van een actief trillingsisolatieplatform. Er wordt verwacht dat het nieuwe inertiële detectieconcept aanzienlijke vooruitgang zal brengen in kantelstabilisatie. Het OmniSense-experiment wordt gebouwd op Nikhef, Amsterdam.
+
+- •. ETpathfinder: deze faciliteit in Maastricht is de belangrijkste R&D-infrastructuur voor de ET in de EMR Euregio. Het bestaat uit twee complete interferometers, met cryogene kernoptiek, met hetzelfde complexiteitsniveau als een zwaartekrachtgolfdetector. De spiegels worden opgehangen in ultrahoog vacuüm met behulp van ultramoderne technologie; de infrastructuur zal echter het testen van geavanceerde ophangingsregelingen en nieuw ontwikkelde componenten mogelijk maken.
