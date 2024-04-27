@@ -4,7 +4,7 @@ identifier: "BWBR0038543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-23"
-last_updated: "2024-01-31"
+last_updated: "2024-04-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038543"
 soort: "ministeriele-regeling"
@@ -44,11 +44,11 @@ Besluit:
 
 ##### Artikel 1. Certificaten keuzedelen
 
-Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2024-01-31&g=2024-01-31) bij deze regeling.
+Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2024-04-27&g=2024-04-27) bij deze regeling.
 
 ##### Artikel 2. Certificaat voor beroepsgerichte onderdelen
 
-Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2024-01-31&g=2024-01-31).
+Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2024-04-27&g=2024-04-27).
 
 ##### Artikel 3. Inwerkingtreding
 
@@ -126,7 +126,7 @@ Er is een certificaat verbonden aan de volgende keuzedelen:
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=1&z=2024-01-31&g=2024-01-31)
+## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=1&z=2024-04-27&g=2024-04-27)
 
 | k-code | naam keuzedeel |
 | --- | --- |
@@ -442,10 +442,15 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 | K1432 | Verdieping kraamzorg |
 | K1241 | Verdieping operations voor de procesindustrie, geschikt voor niveau 4 |
 | K0513 | Verpakken van levensmiddelen |
+|   |   |
+| **Certificaten voor keuzedelen vanaf april 2024** | **Certificaten voor keuzedelen vanaf april 2024** |
+| K1352 | Basis cybercriminaliteit en cyberveiligheid |
+| K0287 | Eerstelijns- en ketenzorg |
+| K1376 | Psychiatrie in de VVT |
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=2&z=2024-01-31&g=2024-01-31)
+## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=2&z=2024-04-27&g=2024-04-27)
 
 | c-code | Naam certificaat | crebocode | naam kwalificatie |
 | --- | --- | --- | --- |
@@ -604,6 +609,13 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 | C0153 | Plannen van verpleegkundige zorg | 25655 | Mbo-Verpleegkundige |
 | C0155 | Verpleegkundige ondersteuning en begeleiding | 25655 | Mbo-Verpleegkundige |
 | C0156 | Verpleegtechnisch handelen, niveau 4 | 25655 | Mbo-Verpleegkundige |
+|   |   |   |   |
+| **Certificaat voor beroepsgerichte onderdelen vanaf april 2024** | **Certificaat voor beroepsgerichte onderdelen vanaf april 2024** | **Certificaat voor beroepsgerichte onderdelen vanaf april 2024** | **Certificaat voor beroepsgerichte onderdelen vanaf april 2024** |
+| C0157 | Installeren en in bedrijf stellen van hybride warmtepompen | 25886 | Airco/warmtepompmonteur |
+|   |   |   |   |
+| **Certificaten voor beroepsgerichte onderdelen vanaf 1 augustus 2024** | **Certificaten voor beroepsgerichte onderdelen vanaf 1 augustus 2024** | **Certificaten voor beroepsgerichte onderdelen vanaf 1 augustus 2024** | **Certificaten voor beroepsgerichte onderdelen vanaf 1 augustus 2024** |
+| C0158 | Software testen | 25998 | Software developer |
+| C0159 | Technisch adviseren vastgoedonderhoud | 25946 | Vastgoedadviseur |
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
