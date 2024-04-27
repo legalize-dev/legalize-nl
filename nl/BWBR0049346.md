@@ -4,7 +4,7 @@ identifier: "BWBR0049346"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-04-27"
-last_updated: "2024-02-10"
+last_updated: "2024-04-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049346"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In deze regeling wordt verstaan onder:
 
 - **bevoegd gezag:** bevoegd gezag van een school als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1),[artikel 1 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1), [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1) of [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1);
 
-- **coalitie:** groep van po-, vo- en – indien van toepassing – so-scholen, die uitvoering geven aan de doelstelling, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049346&artikel=3&z=2024-02-10&g=2024-02-10).
+- **coalitie:** groep van po-, vo- en – indien van toepassing – so-scholen, die uitvoering geven aan de doelstelling, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049346&artikel=3&z=2024-04-27&g=2024-04-27).
 
 - **DUS-I:** Dienst Uitvoering Subsidies aan Instellingen;
 
@@ -92,7 +92,7 @@ Deze regeling geldt in aanvulling op de Kaderregeling subsidies OCW, SZW en VWS.
 
 ##### Artikel 5. Subsidieplafond
 
-Voor subsidieverstrekking op grond van deze regeling is in totaal een bedrag van € 54.600.000 beschikbaar.
+Voor subsidieverstrekking op grond van deze regeling is in totaal een bedrag van € 61.200.000 beschikbaar.
 
 ##### Artikel 6. Penvoerderschap
 
@@ -100,7 +100,7 @@ Voor subsidieverstrekking op grond van deze regeling is in totaal een bedrag van
 
 2. Op de penvoerder rusten alle aan de subsidie verbonden verplichtingen, ongeacht welke partij binnen de coalitie feitelijk is belast met de uitvoering van de daarop betrekking hebbende activiteiten.
 
-3. De penvoerder is verantwoordelijk voor het informeren van de bevoegde gezagsorganen van de betrokken scholen in de coalitie over de verplichtingen, bedoeld in [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049346&artikel=11&z=2024-02-10&g=2024-02-10) en [artikel 14, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049346&artikel=14&z=2024-02-10&g=2024-02-10).
+3. De penvoerder is verantwoordelijk voor het informeren van de bevoegde gezagsorganen van de betrokken scholen in de coalitie over de verplichtingen, bedoeld in [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049346&artikel=11&z=2024-04-27&g=2024-04-27) en [artikel 14, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049346&artikel=14&z=2024-04-27&g=2024-04-27).
 
 ##### Artikel 7. Aanvraag
 
@@ -118,7 +118,7 @@ Voor subsidieverstrekking op grond van deze regeling is in totaal een bedrag van
 
 ##### Artikel 8. Inhoud verbindingsplan
 
-1. In het verbindingsplan, bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049346&artikel=3&z=2024-02-10&g=2024-02-10), worden in ieder geval afspraken gemaakt over:
+1. In het verbindingsplan, bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049346&artikel=3&z=2024-04-27&g=2024-04-27), worden in ieder geval afspraken gemaakt over:
 
 - a. de vormgeving en werkzaamheden van een stuurgroep po-vo, die bestaat uit ten minste één afgevaardigde per deelnemende vestiging van de po-, vo- en so-scholen in de coalitie, waarbij deze stuurgroep zich in ieder geval bezighoudt met de uitvoering en het bewaken van de nakoming van de afspraken uit het verbindingsplan;
 
@@ -126,7 +126,7 @@ Voor subsidieverstrekking op grond van deze regeling is in totaal een bedrag van
 
 - c. indien van toepassing, de rol van het samenwerkingsverband bij de uitvoering van de afspraken die in het verbindingsplan zijn opgenomen; en
 
-- d. indien van toepassing, de wijze waarop gebruik wordt gemaakt van externe partijen als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0049346&artikel=12&z=2024-02-10&g=2024-02-10).
+- d. indien van toepassing, de wijze waarop gebruik wordt gemaakt van externe partijen als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0049346&artikel=12&z=2024-04-27&g=2024-04-27).
 
 2. Daarnaast wordt in het verbindingsplan de inzet op ten minste drie van de volgende onderwerpen beschreven:
 
@@ -138,7 +138,7 @@ Voor subsidieverstrekking op grond van deze regeling is in totaal een bedrag van
 
 - d. de wijze waarop leerlingen kennis maken en worden voorbereid op de vaardigheden die ze nodig hebben voor het lesaanbod van de vo-school; of
 
-- e. een ander initiatief dat aantoonbaar bijdraagt aan de doelstelling, bedoeld in [artikel 3 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049346&artikel=3&z=2024-02-10&g=2024-02-10).
+- e. een ander initiatief dat aantoonbaar bijdraagt aan de doelstelling, bedoeld in [artikel 3 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049346&artikel=3&z=2024-04-27&g=2024-04-27).
 
 3. Als onderdeel van de inzet op ten minste drie onderwerpen, bedoeld in het tweede lid, wordt in ieder geval het volgende uitgevoerd:
 
@@ -152,7 +152,7 @@ Voor subsidieverstrekking op grond van deze regeling is in totaal een bedrag van
 
 ##### Artikel 9. Omvang en besteding subsidie
 
-1. Het door een coalitie voor de gehele subsidieperiode te ontvangen subsidiebedrag wordt berekend door het aantal deelnemende po-, vo- en so-scholen in de coalitie met € 60.000 te vermenigvuldigen en door het aantal leerlingen, bedoeld in[artikel 7, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049346&artikel=7&z=2024-02-10&g=2024-02-10), te vermenigvuldigen met € 225. In afwijking van de vorige volzin wordt het subsidiebedrag, indien een po-school deelneemt aan twee coalities, berekend door het aantal leerlingen, bedoeld in artikel 7, tweede lid, onderdeel b, van de betreffende po-school te vermenigvuldigen met € 112,50.
+1. Het door een coalitie voor de gehele subsidieperiode te ontvangen subsidiebedrag wordt berekend door het aantal deelnemende po-, vo- en so-scholen in de coalitie met € 60.000 te vermenigvuldigen en door het aantal leerlingen, bedoeld in[artikel 7, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049346&artikel=7&z=2024-04-27&g=2024-04-27), te vermenigvuldigen met € 225. In afwijking van de vorige volzin wordt het subsidiebedrag, indien een po-school deelneemt aan twee coalities, berekend door het aantal leerlingen, bedoeld in artikel 7, tweede lid, onderdeel b, van de betreffende po-school te vermenigvuldigen met € 112,50.
 
 2. Het subsidiebedrag per aanvraag van een coalitie op Caribisch Nederland wordt omgerekend in US-dollars tegen de vastgestelde wisselkoers bij verstrekking van het voorschot.
 
@@ -160,7 +160,7 @@ Voor subsidieverstrekking op grond van deze regeling is in totaal een bedrag van
 
 ##### Artikel 10. Wijze van verdeling beschikbare middelen
 
-1. Indien het voor subsidieverstrekking beschikbare bedrag, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049346&artikel=5&z=2024-02-10&g=2024-02-10), ontoereikend is om alle daarvoor in aanmerking komende aanvragen toe te wijzen, wordt voorrang verleend aan de aanvragen voor scholen in Caribisch Nederland.
+1. Indien het voor subsidieverstrekking beschikbare bedrag, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049346&artikel=5&z=2024-04-27&g=2024-04-27), ontoereikend is om alle daarvoor in aanmerking komende aanvragen toe te wijzen, wordt voorrang verleend aan de aanvragen voor scholen in Caribisch Nederland.
 
 2. Vervolgens worden de aanvragen gerangschikt op basis van de gemiddelde relatieve achterstandsscore van een coalitie. Daartoe wordt per coalitie eerst afzonderlijk een gemiddelde achterstandsscore voor de po-scholen en voor de vo-scholen vastgesteld. Per sector worden de coalities van hoog naar laag gerangschikt. Scholen voor speciaal basisonderwijs, bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), blijven hierbij buiten beschouwing. De definitieve rangschikking voor een coalitie wordt vervolgens bepaald door het gemiddelde van de posities op de rangschikkingen per sector te berekenen. De aanvragen worden op basis van de definitieve rangschikking van hoog naar laag toegewezen.
 
@@ -168,7 +168,7 @@ Voor subsidieverstrekking op grond van deze regeling is in totaal een bedrag van
 
 - a. voor de berekening van de relatieve achterstandsscore van po-scholen wordt de achterstandsscore gehanteerd zoals vastgesteld door het Centraal Bureau voor de Statistiek, daterend van 1 februari 2023 en gepubliceerd op 16 januari 2024. Met de achterstandsscore zonder drempel en het aantal leerlingen waarmee de achterstandsscore is berekend wordt een relatieve achterstandsscore berekend.
 
-- b. voor de berekening van de relatieve achterstandsscore van vo-scholen wordt de achterstandsscore voor vmbo, havo en vwo dan wel de achterstandsscore voor praktijkonderwijs gehanteerd, zoals vastgesteld door het Centraal Bureau voor de Statistiek, daterend van 1 oktober 2022 en gepubliceerd op 31 januari 2024. Met de achterstandsscore zonder drempel en het aantal leerlingen waarmee de achterstandsscore is berekend wordt een relatieve achterstandsscore berekend.
+- b. voor de berekening van de relatieve achterstandsscore van vo-scholen wordt de achterstandsscore voor vmbo, havo en vwo dan wel de achterstandsscore voor praktijkonderwijs gehanteerd, zoals vastgesteld door het Centraal Bureau voor de Statistiek, daterend van 1 oktober 2022 en gepubliceerd op 7 maart 2024. Met de achterstandsscore zonder drempel en het aantal leerlingen waarmee de achterstandsscore is berekend wordt een relatieve achterstandsscore berekend.
 
 4. Indien een so-school of een school voor speciaal basisonderwijs, bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), onderdeel is van de aanvraag, stijgt de positie van een coalitie op de definitieve rangschikking met tien plaatsen.
 
@@ -176,7 +176,7 @@ Voor subsidieverstrekking op grond van deze regeling is in totaal een bedrag van
 
 ##### Artikel 11. Verplichtingen subsidie
 
-1. De penvoerder zendt voor 1 februari 2025 een verbindingsplan aan DUS-I, dat voldoet aan het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0049346&artikel=8&z=2024-02-10&g=2024-02-10).
+1. De penvoerder zendt voor 1 februari 2025 een verbindingsplan aan DUS-I, dat voldoet aan het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0049346&artikel=8&z=2024-04-27&g=2024-04-27).
 
 2. Indien één of meerdere van de afspraken uit het verbindingsplan niet wordt nageleefd, meldt de penvoerder dit schriftelijk bij DUS-I.
 
@@ -186,11 +186,11 @@ Voor subsidieverstrekking op grond van deze regeling is in totaal een bedrag van
 
 ##### Artikel 12. Inzet externe partijen
 
-In het verbindingsplan wordt opgenomen op welke wijze gebruik gemaakt wordt van externe partijen bij de uitvoering van de afspraken, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0049346&artikel=8&z=2024-02-10&g=2024-02-10).
+In het verbindingsplan wordt opgenomen op welke wijze gebruik gemaakt wordt van externe partijen bij de uitvoering van de afspraken, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0049346&artikel=8&z=2024-04-27&g=2024-04-27).
 
 ##### Artikel 13. Beoordeling en weigeringsgronden
 
-1. De minister meldt de penvoerder uiterlijk op 30 april 2025 of het verbindingsplan, bedoeld in [artikel 3 tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049346&artikel=3&z=2024-02-10&g=2024-02-10), voldoet aan de daaraan gestelde voorwaarden bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0049346&artikel=8&z=2024-02-10&g=2024-02-10).
+1. De minister meldt de penvoerder uiterlijk op 30 april 2025 of het verbindingsplan, bedoeld in [artikel 3 tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049346&artikel=3&z=2024-04-27&g=2024-04-27), voldoet aan de daaraan gestelde voorwaarden bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0049346&artikel=8&z=2024-04-27&g=2024-04-27).
 
 2. Indien het verbindingsplan niet voldoet aan de gestelde voorwaarden wordt eenmaal een termijn van tien dagen geboden om het verbindingsplan aan te passen.
 
@@ -204,7 +204,7 @@ In het verbindingsplan wordt opgenomen op welke wijze gebruik gemaakt wordt van 
 
 3. De verantwoording van de subsidie voor de toepassing van deze regeling in de openbare lichamen Bonaire, Sint-Eustatius en Saba geschiedt overeenkomstig de [Regeling jaarverslaggeving onderwijs BES met model G, onderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031801).
 
-4. De penvoerder toont aan de hand van een activiteitenverslag aan dat de activiteiten waarvoor de subsidie is verstrekt zijn verricht en dat is voldaan aan de aan de subsidie verbonden verplichtingen. Daartoe wordt in ieder geval een beschrijving per schooljaar opgenomen van de vormgeving van de stuurgroep po-vo, de betrokkenheid van ouders en de inzet van externe partijen. Afhankelijk van de keuze die binnen de coalitie is gemaakt, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049346&artikel=8&z=2024-02-10&g=2024-02-10), wordt ook per schooljaar een beschrijving opgenomen van de inzet om de overdracht van leerlingen te versoepelen, de kennismakingsactiviteiten die voor leerlingen en voor docenten zijn georganiseerd en de inzet om vaardigheden te vergroten. Dit activiteitenverslag wordt uiterlijk op 29 oktober 2027 toegezonden aan DUS-I.
+4. De penvoerder toont aan de hand van een activiteitenverslag aan dat de activiteiten waarvoor de subsidie is verstrekt zijn verricht en dat is voldaan aan de aan de subsidie verbonden verplichtingen. Daartoe wordt in ieder geval een beschrijving per schooljaar opgenomen van de vormgeving van de stuurgroep po-vo, de betrokkenheid van ouders en de inzet van externe partijen. Afhankelijk van de keuze die binnen de coalitie is gemaakt, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049346&artikel=8&z=2024-04-27&g=2024-04-27), wordt ook per schooljaar een beschrijving opgenomen van de inzet om de overdracht van leerlingen te versoepelen, de kennismakingsactiviteiten die voor leerlingen en voor docenten zijn georganiseerd en de inzet om vaardigheden te vergroten. Dit activiteitenverslag wordt uiterlijk op 29 oktober 2027 toegezonden aan DUS-I.
 
 5. De minister kan de penvoerder verzoeken om in het kader van een steekproefsgewijze controle aanvullende informatie te verstrekken.
 
