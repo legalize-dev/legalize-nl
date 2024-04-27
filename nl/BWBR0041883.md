@@ -4,7 +4,7 @@ identifier: "BWBR0041883"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-04-27"
-last_updated: "2022-06-28"
+last_updated: "2024-04-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041883"
 soort: "ministeriele-regeling"
@@ -82,7 +82,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4
 
-Aan de onafhankelijke, externe leden van het Audit Committee LNV, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041883&artikel=3&z=2022-06-28&g=2022-06-28), wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 16 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en de arbeidsduurfactor op 0,031.
+Aan de onafhankelijke, externe leden van het Audit Committee LNV, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041883&artikel=3&z=2024-04-27&g=2024-04-27), wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 16 van paragraaf6.3 van de CAO Rijk en de arbeidsduurfactor op 0,031.
 
 ##### Artikel 5
 
