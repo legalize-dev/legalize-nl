@@ -4,7 +4,7 @@ identifier: "BWBR0045063"
 country: "nl"
 rank: "wet"
 publication_date: "2024-04-27"
-last_updated: "2021-05-01"
+last_updated: "2024-04-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045063"
 soort: "wet"
@@ -66,7 +66,7 @@ Wijzigt de Uitvoeringswet huurprijzen woonruimte.
 
 ##### Artikel IIIb
 
-Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties zendt binnen tweeënhalf jaar na inwerkingtreding van de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0045063&artikel=I&z=2021-05-01&g=2021-05-01) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0045063&artikel=II&z=2021-05-01&g=2021-05-01) aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
+Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties zendt binnen tweeënhalf jaar na inwerkingtreding van de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0045063&artikel=I&z=2024-04-27&g=2024-04-27) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0045063&artikel=II&z=2024-04-27&g=2024-04-27) aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
 ##### Artikel IIIc
 
@@ -74,10 +74,16 @@ Wijzigt deze wet.
 
 ##### Artikel IV
 
-Deze wet treedt in werking met ingang van een bij koninklijk besluit te bepalen tijdstip, met uitzondering van de [artikelen IA](https://wetten.overheid.nl/jci1.3:c:BWBR0045063&artikel=Ia&z=2021-05-01&g=2021-05-01) en [IIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0045063&artikel=IIIa&z=2021-05-01&g=2021-05-01) die in werking treden drie jaar na dat tijdstip.
+Deze wet treedt in werking met ingang van een bij koninklijk besluit te bepalen tijdstip, met uitzondering van de [artikelen IA](https://wetten.overheid.nl/jci1.3:c:BWBR0045063&artikel=Ia&z=2024-04-27&g=2024-04-27), [IIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0045063&artikel=IIIa&z=2024-04-27&g=2024-04-27) en [IIIAa](https://wetten.overheid.nl/jci1.3:c:BWBR0045063&artikel=IIIaa&z=2024-04-27&g=2024-04-27) die in werking treden met ingang van 1 mei 2029.
 
 ##### Artikel V
 
 Deze wet wordt aangehaald als: Wet maximering huurprijsverhogingen geliberaliseerde huurovereenkomsten.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel IIIaa
+
+Wijzigt de Wet goed verhuurderschap.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
