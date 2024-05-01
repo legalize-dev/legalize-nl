@@ -4,7 +4,7 @@ identifier: "BWBR0049670"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2024-01-01"
+last_updated: "2024-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049670"
 soort: "wet"
@@ -168,8 +168,20 @@ Wijzigt de Wet voortgezet onderwijs 2020.
 
 ##### Artikel XXIV. Inwerkingtreding
 
-Dit onderdeel is nog niet inwerking getreden
+1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld en kan terugwerken.
+
+2. [Artikel XI, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0049670&artikel=XI&z=2024-05-01&g=2024-05-01), en [artikel XV, onderdeel M](https://wetten.overheid.nl/jci1.3:c:BWBR0049670&artikel=XV&z=2024-05-01&g=2024-05-01), van deze wet treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij worden geplaatst, en werken terug tot en met 1 april 2022.
+
+3. [Artikel XIII, onderdeel W](https://wetten.overheid.nl/jci1.3:c:BWBR0049670&artikel=XIII&z=2024-05-01&g=2024-05-01), en [artikel XXIII, onderdelen L en HH](https://wetten.overheid.nl/jci1.3:c:BWBR0049670&artikel=XXIII&z=2024-05-01&g=2024-05-01), van deze wet treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij worden geplaatst en werken terug tot en met 1 januari 2024.
+
+4. [Artikel XXII](https://wetten.overheid.nl/jci1.3:c:BWBR0049670&artikel=XXII&z=2024-05-01&g=2024-05-01) van deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2023.
 
 ##### Artikel XXV. Citeertitel
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als Reparatiewet OCW met vermelding van het jaartal van het Staatsblad waarin zij zal worden geplaatst.
+
+Alzo Wij in overweging genomen hebben, dat het wenselijk is om op gebundelde wijze diverse wetstechnische en redactionele reparaties aan te brengen in met name de wetten die onder de verantwoordelijkheid vallen van het Ministerie van Onderwijs, Cultuur en Wetenschap;
+
+Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
