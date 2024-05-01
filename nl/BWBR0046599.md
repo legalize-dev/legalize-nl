@@ -4,7 +4,7 @@ identifier: "BWBR0046599"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-05-01"
-last_updated: "2024-01-01"
+last_updated: "2024-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046599"
 soort: "ministeriele-regeling"
@@ -224,7 +224,7 @@ De Minister van Infrastructuur en Waterstaat maakt de gegevens, bedoeld in bijla
 
 - d. niet wordt voldaan aan de voorschriften die in de groenverklaring zijn opgenomen; of
 
-- e. niet wordt voldaan aan [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0046599&hoofdstuk=5&artikel=10&z=2024-01-01&g=2024-01-01).
+- e. niet wordt voldaan aan [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0046599&hoofdstuk=5&artikel=10&z=2024-05-01&g=2024-05-01).
 
 2. Het besluit tot intrekking kan terugwerkende kracht hebben.
 
@@ -260,7 +260,7 @@ Deze regeling treedt in werking met ingang van 1 juni 2022.
 
 Deze regeling wordt aangehaald als: Regeling groenprojecten 2022.
 
-## Bijlage. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046599&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01)
+## Bijlage. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046599&hoofdstuk=2&artikel=2&z=2024-05-01&g=2024-05-01)
 
 ### Projectcategorie 1. Natuur
 
@@ -440,11 +440,11 @@ Categorie 4.1: Opwekken van duurzame energie
 
 Subcategorie 4.1.1: Windturbines
 
-Project omschrijving: opwekken van elektrische energie door middel van een nieuwe windturbine waarbij het project aan de volgende voorwaarden voldoet:
+Projectomschrijving: opwekken van elektrische energie door middel van een windturbine, waarbij het project aan de volgende voorwaarden voldoet:
 
-Projectvermogen: een groenverklaring wordt in ieder geval niet afgegeven op aanvragen voor projecten binnen deze subcategorie indien de steun meer bedraagt dan € 15.000.000 per onderneming per investeringsproject.
+Projectvermogen: een groenverklaring wordt in ieder geval niet afgegeven op aanvragen voor projecten binnen deze subcategorie, indien de steun meer bedraagt dan € 15.000.000 per onderneming per investeringsproject.
 
-Subcategorie 4.1.2: Fotovoltaïsche cellen
+Subcategorie 4.1.2: Fotovoltaïsche panelen
 
 ### Projectcategorie 4. Duurzame energie
 
@@ -460,11 +460,13 @@ Subcategorie: 4.1.4 Warmteopwekkers
 
 Projectomschrijving:
 
-Projectvermogen:
+Aanschaf en installatie van een elektrisch gedreven warmtepomp, bestemd voor het verwarmen van bedrijfsgebouwen of het (collectief) verwarmen van woningen, waarbij een koppeling met een met fossiele brandstoffen gestookte energie-uitrusting is uitgesloten, die voldoet aan de specificaties uit Tabel 2.
+
+**Projectvermogen:**
 
 Binnen het project vallen, voor zover van toepassing, de kosten voor bodemwarmtewisselaar of grondwaterbron, (ijs)buffer, restwarmte-opslagvat en een aansluiting op het verwarmingsnet.
 
-Een groenverklaring wordt in ieder geval niet afgegeven voor projecten binnen deze subcategorie indien de steun meer bedraagt dan € 15.000.000 per onderneming per investeringsproject.
+Een groenverklaring wordt in ieder geval niet afgegeven voor projecten binnen deze subcategorie, indien de steun meer bedraagt dan € 15.000.000 per onderneming per investeringsproject.
 
 Subcategorie 4.1.5: Waterkracht
 
@@ -530,7 +532,7 @@ Projectomschrijving: uitkoppelen bij de bron en het transporteren van afvalwarmt
 
 Projectvermogen: geen bijzonderheden
 
-Subcategorie 4.3.2: Koelen en vriezen
+Categorie 5.1: Nieuwbouw woningen
 
 Categorie 5.1: Nieuwbouw woningen
 
@@ -540,9 +542,9 @@ Projectvermogen: voor een project in deze categorie, genoemd in onderdeel a en o
 
 Categorie 5.2: Herbestemming
 
-Subcategorie 5.2.1: Herbestemming tot woningen
-
 ### Projectcategorie 5. Duurzaam bouwen
+
+Projectomschrijving: door herbestemming van gebouwen zonder woonfunctie realiseren van nieuwe woningen, waarbij, indien hout wordt toegepast, uitsluitend gebruik wordt gemaakt van duurzaam geproduceerd hout en waarvan de energielabelklasse na de herbestemming energielabelklasse A of beter is.
 
 Projectvermogen: voor een groenverklaring komt in aanmerking een bedrag van € 1.250 per vierkante meter bruto vloeroppervlak van het gedeelte van een pand met woonbestemming, tot een maximum van € 125.000 per gerealiseerde woning.
 
@@ -584,7 +586,7 @@ Projectomschrijving:
 
 Projectvermogen: een project als bedoeld in deze categorie, komt voor een groenverklaring in aanmerking maximaal € 450 per vierkante meter bruto vloeroppervlak.
 
-Projectomschrijving:
+Categorie 6.1: Niet-railgebonden duurzame voertuigen
 
 Categorie 6.1: Niet-railgebonden duurzame voertuigen
 
@@ -598,9 +600,9 @@ Projectomschrijving: aanschaf of ombouw (retrofit) van duurzame binnenvaartschep
 
 Projectvermogen: geen bijzonderheden.
 
-Categorie 6.3: Mobiele werktuigen
-
 ### Projectcategorie 6. Duurzame mobiliteit
+
+Projectomschrijving:
 
 Projectvermogen: wanneer het gaat om met de primaire landbouwproductie verband houdende investeringen in materiële of immateriële activa op landbouwbedrijven wordt een aanvraag in deze categorie niet afgegeven indien het bruto-subsidie-equivalent meer bedraagt dan € 600.000 per onderneming per investeringsproject.
 
@@ -628,7 +630,7 @@ Projectomschrijving:
 
 Projectvermogen: het projectvermogen is beperkt tot de kosten voor de aanschaf van het koelsysteem.
 
-Projectomschrijving:
+Categorie 7.1: Retentiegebied
 
 Categorie 7.1: Retentiegebied
 
@@ -642,9 +644,9 @@ Projectomschrijving:
 
 Projectvermogen: een groenverklaring wordt in ieder geval niet afgegeven voor projecten binnen deze categorie indien de steun meer bedraagt dan € 15.000.000 per onderneming per investeringsproject.
 
-Categorie 7.3: Innovatieve koeling van gebouwen
-
 ### Projectcategorie 7. Klimaatadaptatie
+
+Projectomschrijving:
 
 Projectvermogen: een groenverklaring wordt in ieder geval niet afgegeven op aanvragen voor projecten binnen deze categorie indien de steun meer bedraagt dan € 15.000.000 per onderneming per investeringsproject.
 
@@ -659,8 +661,6 @@ Categorie 7.5: Verhogen grondwater in veenweidegebieden
 Projectomschrijving:
 
 Projectvermogen: een groenverklaring wordt in ieder geval niet afgegeven op aanvragen voor projecten binnen deze subcategorie indien de steun meer bedraagt dan € 600.000 per onderneming per investeringsproject.
-
-Projectomschrijving:
 
 Projectvermogen: een groenverklaring wordt in ieder geval niet afgegeven op aanvragen voor projecten binnen deze categorie indien de steun meer bedraagt dan € 15.000.000 per onderneming per investeringsproject.
 
@@ -684,14 +684,22 @@ Projectomschrijving:
 
 ### Projectcategorie 5. Duurzaam bouwen
 
-Projectomschrijving: door herbestemming van gebouwen zonder woonfunctie realiseren van nieuwe woningen, waarbij, indien hout wordt toegepast, uitsluitend gebruik wordt gemaakt van duurzaam geproduceerd hout en waarvan de energielabelklasse na de herbestemming energielabelklasse A of beter is.
+Subcategorie 5.2.1: Herbestemming tot woningen
 
 ### Projectcategorie 6. Duurzame mobiliteit
 
-Projectomschrijving:
+Categorie 6.3: Mobiele werktuigen
 
 ### Projectcategorie 7. Klimaatadaptatie
 
-Projectomschrijving:
+Categorie 7.3: Innovatieve koeling van gebouwen
+
+Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
+
+### Projectcategorie 5. Duurzaam bouwen
+
+### Projectcategorie 6. Duurzame mobiliteit
+
+### Projectcategorie 7. Klimaatadaptatie
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
