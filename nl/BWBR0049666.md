@@ -4,7 +4,7 @@ identifier: "BWBR0049666"
 country: "nl"
 rank: "kb"
 publication_date: "2025-07-10"
-last_updated: "2023-07-22"
+last_updated: "2024-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049666"
 soort: "KB"
@@ -90,7 +90,7 @@ Het adviescollege wordt ingesteld voor de duur van twee jaar en wordt opgeheven 
 
 ##### Artikel 7
 
-Voor de advisering, bedoeld in [artikel 2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0049666&artikel=2&z=2024-05-01&g=2023-07-22), kan het adviescollege kennisnemen van de aanvragen indien noodzakelijk.
+Voor de advisering, bedoeld in [artikel 2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0049666&artikel=2&z=2024-05-01&g=2024-05-01), kan het adviescollege kennisnemen van de aanvragen indien noodzakelijk.
 
 ##### Artikel 8
 
