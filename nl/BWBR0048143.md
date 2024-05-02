@@ -4,7 +4,7 @@ identifier: "BWBR0048143"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-05-02"
-last_updated: "2023-05-11"
+last_updated: "2024-05-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048143"
 soort: "ministeriele-regeling"
@@ -74,21 +74,11 @@ Het doel van deze regeling is het beschikbaar stellen van middelen ten behoeve v
 
 ##### Artikel 5. Te bekostigen activiteiten
 
-De minister verstrekt aan een instelling jaarlijks aanvullende bekostiging ten behoeve van:
-
-- a. het inzetten van extra fte voor LOB;
-
-- b. het vrijmaken van personeel voor:
-
-- 1°. het organiseren van meer en effectieve oriënterende beroeps- of bedrijfsbezoeken, waardoor de student met een breed palet aan werkgevers en beroepen kennis maakt;
-
-- 2°. het begeleiden van studenten tijdens de studie en bij het kiezen van een stageplek en -richting; of
-
-- c. het volgen van een bijscholingscursus of -training om de LOB-deskundigheid van docenten met LOB-taken en loopbaanbegeleiders te verbeteren.
+Vervallen
 
 ##### Artikel 6. Beschikking en betaling
 
-De aanvullende bekostiging, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048143&paragraaf=1&artikel=4&z=2023-05-11&g=2023-05-11), wordt in 2023 ambtshalve uiterlijk in de maand september verstrekt en vervolgens jaarlijks ambtshalve uiterlijk in de maand februari van het kalenderjaar waarop de aanvullende bekostiging betrekking heeft.
+De aanvullende bekostiging, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048143&paragraaf=1&artikel=4&z=2024-05-02&g=2024-05-02), wordt in 2023 ambtshalve uiterlijk in de maand september verstrekt en vervolgens jaarlijks ambtshalve uiterlijk in de maand februari van het kalenderjaar waarop de aanvullende bekostiging betrekking heeft.
 
 ##### Artikel 7. Besteding en verantwoording
 
