@@ -4,7 +4,7 @@ identifier: "BWBR0044993"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-05-04"
-last_updated: "2024-01-01"
+last_updated: "2024-05-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044993"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ BESLUIT:
 
 - **bevoegd gezag:** provincie of gemeente als bedoeld in de [Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994) of gemeente als bedoeld in het [Besluit aanwijzing bevoegdgezaggemeenten Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0011935) zoals die luidden op de dag voor de datum van de inwerkingtreding van de [Aanvullingswet bodem Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043277);
 
-- **buitenproportionele opgave:** buitenproportionele opgave als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044993&paragraaf=2&artikel=5&z=2024-01-01&g=2024-01-01);
+- **buitenproportionele opgave:** buitenproportionele opgave als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044993&paragraaf=2&artikel=5&z=2024-05-04&g=2024-05-04);
 
 - **minister:** Minister van Infrastructuur en Waterstaat;
 
@@ -90,7 +90,7 @@ Het doel van deze regeling is om door middel van het verstrekken van specifieke 
 
 ##### Artikel 6. Aanvraag specifieke uitkering voor buitenproportionele opgaven
 
-1. Een aanvraag als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044993&paragraaf=2&artikel=5&z=2024-01-01&g=2024-01-01), bevat in ieder geval:
+1. Een aanvraag als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044993&paragraaf=2&artikel=5&z=2024-05-04&g=2024-05-04), bevat in ieder geval:
 
 - a. de naam van het bevoegd gezag;
 
@@ -110,23 +110,25 @@ Het doel van deze regeling is om door middel van het verstrekken van specifieke 
 
 ##### Artikel 7. Verdelingsregime
 
-1. De minister verdeelt het beschikbare bedrag, bedoeld in [artikel 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044993&paragraaf=1&artikel=4&z=2024-01-01&g=2024-01-01), na het einde van de aanvraagperiode, bedoeld in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044993&paragraaf=2&artikel=6&z=2024-01-01&g=2024-01-01).
+1. De minister verdeelt het beschikbare bedrag, bedoeld in [artikel 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044993&paragraaf=1&artikel=4&z=2024-05-04&g=2024-05-04), na het einde van de aanvraagperiode, bedoeld in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044993&paragraaf=2&artikel=6&z=2024-05-04&g=2024-05-04).
 
-2. Indien het totaal van de voor honorering in aanmerking komende aanvragen, bedoeld in het eerste lid, meer bedraagt dan het beschikbare bedrag, bedoeld in [artikel 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044993&paragraaf=1&artikel=4&z=2024-01-01&g=2024-01-01), wordt dat bedrag evenredig verdeeld over de desbetreffende aanvragen.
+2. Indien het totaal van de voor honorering in aanmerking komende aanvragen, bedoeld in het eerste lid, meer bedraagt dan het beschikbare bedrag, bedoeld in [artikel 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044993&paragraaf=1&artikel=4&z=2024-05-04&g=2024-05-04), wordt dat bedrag evenredig verdeeld over de desbetreffende aanvragen.
 
-3. Indien het beschikbare bedrag, bedoeld in [artikel 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044993&paragraaf=1&artikel=4&z=2024-01-01&g=2024-01-01), na de verdeling, bedoeld in het eerste lid, niet is uitgeput, kan de minister voor het resterende bedrag een tweede indieningstermijn openstellen. De minister maakt die indieningstermijn en het resterende beschikbare bedrag in de Staatscourant bekend.
+3. Indien het beschikbare bedrag, bedoeld in [artikel 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044993&paragraaf=1&artikel=4&z=2024-05-04&g=2024-05-04), na de verdeling, bedoeld in het eerste lid, niet is uitgeput, kan de minister voor het resterende bedrag een tweede indieningstermijn openstellen. De minister maakt die indieningstermijn en het resterende beschikbare bedrag in de Staatscourant bekend.
 
 4. Het eerste en tweede lid zijn van overeenkomstige toepassing indien een tweede indieningstermijn wordt opengesteld.
 
 ##### Artikel 8. Voorwaarden specifieke uitkering voor buitenproportionele opgaven
 
-1. Het bevoegd gezag, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044993&paragraaf=2&artikel=5&z=2024-01-01&g=2024-01-01), besteedt de specifieke uitkering uitsluitend aan de voorbereiding, begeleiding en uitvoering van de activiteiten zoals opgenomen in het projectplan.
+1. Het bevoegd gezag, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044993&paragraaf=2&artikel=5&z=2024-05-04&g=2024-05-04), besteedt de specifieke uitkering uitsluitend aan de voorbereiding, begeleiding en uitvoering van de activiteiten zoals opgenomen in het projectplan.
 
 2. Een project start in 2021 en heeft een looptijd van ten hoogste drie jaar te rekenen vanaf de datum van de beschikking tot verlening van de specifieke uitkering.
 
+3. In geval van onvoorziene vertraging in de uitvoering mogen in afwijking van het tweede lid de projecten uiterlijk op 31 december 2030 zijn uitgevoerd.
+
 ##### Artikel 9. Verplichting ontvanger specifieke uitkering voor buitenproportionele opgaven
 
-Het bevoegd gezag, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044993&paragraaf=2&artikel=5&z=2024-01-01&g=2024-01-01), verstrekt gedurende de looptijd van het project jaarlijks voor het einde van het kalenderjaar informatie aan de minister over de voortgang van de activiteiten waarvoor de desbetreffende specifieke uitkering is verstrekt.
+Het bevoegd gezag, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044993&paragraaf=2&artikel=5&z=2024-05-04&g=2024-05-04), verstrekt gedurende de looptijd van het project jaarlijks voor het einde van het kalenderjaar informatie aan de minister over de voortgang van de activiteiten waarvoor de desbetreffende specifieke uitkering is verstrekt.
 
 #### § 3. Oude afspraken
 
@@ -136,7 +138,7 @@ De minister kan een specifieke uitkering verlenen aan een bevoegd gezag voor de 
 
 ##### Artikel 11. Aanvraag specifieke uitkering voor oude afspraken
 
-1. Een aanvraag als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0044993&paragraaf=3&artikel=10&z=2024-01-01&g=2024-01-01), bevat in ieder geval:
+1. Een aanvraag als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0044993&paragraaf=3&artikel=10&z=2024-05-04&g=2024-05-04), bevat in ieder geval:
 
 - a. de naam van het bevoegd gezag;
 
@@ -144,17 +146,17 @@ De minister kan een specifieke uitkering verlenen aan een bevoegd gezag voor de 
 
 - c. de datum van de aanvraag; en
 
-- d. een projectplan voor de uitwerking van de beoogde maatregelen voor de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0044993&paragraaf=3&artikel=10&z=2024-01-01&g=2024-01-01) bedoelde sanering. De sanering voldoet aan de voorwaarden, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044993&paragraaf=3&artikel=13&z=2024-01-01&g=2024-01-01) en het doel van de sanering is concreet beschreven en is meetbaar.
+- d. een projectplan voor de uitwerking van de beoogde maatregelen voor de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0044993&paragraaf=3&artikel=10&z=2024-05-04&g=2024-05-04) bedoelde sanering. De sanering voldoet aan de voorwaarden, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044993&paragraaf=3&artikel=13&z=2024-05-04&g=2024-05-04) en het doel van de sanering is concreet beschreven en is meetbaar.
 
 2. De aanvraag kan worden ingediend in de periode van 15 oktober tot en met 31 december 2021.
 
 ##### Artikel 12. Verdelingsregime specifieke uitkering voor oude afspraken
 
-De minister verdeelt het beschikbare bedrag, bedoeld in [artikel 4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044993&paragraaf=1&artikel=4&z=2024-01-01&g=2024-01-01), op volgorde van binnenkomst van de aanvragen.
+De minister verdeelt het beschikbare bedrag, bedoeld in [artikel 4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044993&paragraaf=1&artikel=4&z=2024-05-04&g=2024-05-04), op volgorde van binnenkomst van de aanvragen.
 
 ##### Artikel 13. Voorwaarden specifieke uitkering voor oude afspraken
 
-1. Het bevoegd gezag, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0044993&paragraaf=3&artikel=10&z=2024-01-01&g=2024-01-01), besteedt de specifieke uitkering uitsluitend aan:
+1. Het bevoegd gezag, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0044993&paragraaf=3&artikel=10&z=2024-05-04&g=2024-05-04), besteedt de specifieke uitkering uitsluitend aan:
 
 - a. de instandhouding of voortzetting van een reeds tussen de toenmalige Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en het desbetreffende bevoegd gezag overeengekomen gevalsgerichte aanpak van ernstige bodemverontreiniging;
 
@@ -162,13 +164,15 @@ De minister verdeelt het beschikbare bedrag, bedoeld in [artikel 4, onderdeel b]
 
 - c. het wegnemen van onvoorziene milieu-hygiënische risico’s bij de reeds overeengekomen gevalsgerichte aanpak van ernstige verontreiniging.
 
-2. Een project als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0044993&paragraaf=3&artikel=10&z=2024-01-01&g=2024-01-01) start in 2022 en heeft een looptijd van ten hoogste drie jaar te rekenen vanaf de datum van de beschikking tot verlening van de specifieke uitkering.
+2. Een project als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0044993&paragraaf=3&artikel=10&z=2024-05-04&g=2024-05-04) start in 2022 en heeft een looptijd van ten hoogste drie jaar te rekenen vanaf de datum van de beschikking tot verlening van de specifieke uitkering.
+
+3. In geval van onvoorziene vertraging in de uitvoering mogen in afwijking van het tweede lid de projecten uiterlijk op 31 december 2030 zijn uitgevoerd.
 
 #### § 4. Verstrekken specifieke uitkering
 
 ##### Artikel 14. Periode
 
-Een specifieke uitkering kan worden verleend voor werkzaamheden als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044993&paragraaf=2&artikel=5&z=2024-01-01&g=2024-01-01) die in 2021 zijn gestart mits deze zijn opgenomen in de aanvraag voor de desbetreffende specifieke uitkering en aan de voorwaarden, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0044993&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01) wordt voldaan.
+Een specifieke uitkering kan worden verleend voor werkzaamheden als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044993&paragraaf=2&artikel=5&z=2024-05-04&g=2024-05-04) die in 2021 zijn gestart mits deze zijn opgenomen in de aanvraag voor de desbetreffende specifieke uitkering en aan de voorwaarden, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0044993&paragraaf=2&artikel=8&z=2024-05-04&g=2024-05-04) wordt voldaan.
 
 #### § 5. Bevoorschotting
 
@@ -180,9 +184,9 @@ Gelijktijdig met de beschikking tot verstrekking van een specifieke uitkering al
 
 ##### Artikel 16. Vaststelling specifieke uitkering
 
-1. De minister stelt de specifieke uitkering uiterlijk op 31 december van het jaar waarop de desbetreffende eindverantwoording, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a) is ontvangen vast op het bedrag dat is bepaald in de verlening indien de activiteiten waarvoor de specifieke uitkering is verleend geheel zijn verricht en daarnaast volledig is voldaan aan de voorwaarden, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0044993&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01), respectievelijk [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044993&paragraaf=3&artikel=13&z=2024-01-01&g=2024-01-01), en aan de verplichting, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0044993&paragraaf=2&artikel=9&z=2024-01-01&g=2024-01-01).
+1. De minister stelt de specifieke uitkering uiterlijk op 31 december van het jaar waarop de desbetreffende eindverantwoording, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a) is ontvangen vast op het bedrag dat is bepaald in de verlening indien de activiteiten waarvoor de specifieke uitkering is verleend geheel zijn verricht en daarnaast volledig is voldaan aan de voorwaarden, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0044993&paragraaf=2&artikel=8&z=2024-05-04&g=2024-05-04), respectievelijk [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044993&paragraaf=3&artikel=13&z=2024-05-04&g=2024-05-04), en aan de verplichting, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0044993&paragraaf=2&artikel=9&z=2024-05-04&g=2024-05-04).
 
-2. De minister stelt de specifieke uitkering vast op een lager bedrag dan dat is bepaald in de verleningsbeschikking indien de activiteiten waarvoor de specifieke uitkering is verleend niet of niet geheel hebben plaatsgevonden conform de voorwaarden, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0044993&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01), respectievelijk [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044993&paragraaf=3&artikel=13&z=2024-01-01&g=2024-01-01), en de verplichting, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0044993&paragraaf=2&artikel=9&z=2024-01-01&g=2024-01-01).
+2. De minister stelt de specifieke uitkering vast op een lager bedrag dan dat is bepaald in de verleningsbeschikking indien de activiteiten waarvoor de specifieke uitkering is verleend niet of niet geheel hebben plaatsgevonden conform de voorwaarden, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0044993&paragraaf=2&artikel=8&z=2024-05-04&g=2024-05-04), respectievelijk [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044993&paragraaf=3&artikel=13&z=2024-05-04&g=2024-05-04), en de verplichting, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0044993&paragraaf=2&artikel=9&z=2024-05-04&g=2024-05-04).
 
 #### § 7. Slotbepalingen
 
@@ -194,7 +198,7 @@ Wijzigt deze regeling.
 
 1. Deze regeling treedt in werking met ingang van 1 april 2021. Indien de Staatscourant waarin deze regeling wordt gepubliceerd wordt uitgegeven na 31 maart 2021, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt zij terug tot en met 1 april 2021.
 
-2. Deze regeling vervalt met ingang van1 april 2025, met dien verstande dat zij van toepassing blijft op specifieke uitkeringen die voor die datum zijn verleend dan wel zijn aangevraagd.
+2. Deze regeling vervalt met ingang van 1 januari 2031, met dien verstande dat zij van toepassing blijft op specifieke uitkeringen die voor die datum zijn verleend dan wel zijn aangevraagd.
 
 ##### Artikel 19. Citeertitel
 
