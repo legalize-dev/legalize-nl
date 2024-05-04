@@ -4,7 +4,7 @@ identifier: "BWBR0049659"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-05-04"
-last_updated: "2024-05-01"
+last_updated: "2024-05-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049659"
 soort: "zbo"
@@ -208,9 +208,9 @@ Het Stimuleringsfonds beoordeelt aanvragen op volgorde van binnenkomst.
 
 1. Een aanvraag tot subsidieverlening wordt door het Stimuleringsfonds eerst beoordeeld aan de hand van de volgende drempelcriteria:
 
-- a). het onderzoek wordt tenminste ondersteund door twee journalistieke informatiebronnen, welke deel uitmaken van het samenwerkingsverband, als bedoeld onder [artikel 2.1, lid 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049659&hoofdstuk=2&artikel=2.1&z=2024-05-04&g=2024-05-01); en
+- a). het onderzoek wordt tenminste ondersteund door twee journalistieke informatiebronnen, welke deel uitmaken van het samenwerkingsverband, als bedoeld onder [artikel 2.1, lid 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049659&hoofdstuk=2&artikel=2.1&z=2024-05-04&g=2024-05-04); en
 
-- b). alle voorgestelde onderdelen van het onderzoek zijn uitvoerbaar binnen de maximale termijn, bedoeld in [artikel 1.3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049659&hoofdstuk=1&artikel=1.3&z=2024-05-04&g=2024-05-01).
+- b). alle voorgestelde onderdelen van het onderzoek zijn uitvoerbaar binnen de maximale termijn, bedoeld in [artikel 1.3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049659&hoofdstuk=1&artikel=1.3&z=2024-05-04&g=2024-05-04).
 
 2. Als een aanvraag niet aan de drempelcriteria voldoet, wijst het Stimuleringsfonds de aanvraag af.
 
@@ -274,9 +274,9 @@ Het minimaal te verstrekken subsidiebedrag per aanvraag is 25.000 euro, het maxi
 
 ##### Artikel 5.1. Aanvraag tot vaststelling
 
-1. Een aanvraag tot subsidievaststelling wordt ingediend uiterlijk twee maanden na afloop van de periode, bedoeld in [artikel 1.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049659&hoofdstuk=1&artikel=1.3&z=2024-05-04&g=2024-05-01), dan wel zo veel eerder als dat het onderzoek is afgerond. Dit geschiedt door het invullen en ondertekenen van een door het Stimuleringsfonds vastgesteld aanvraagformulier op de website van het Stimuleringsfonds.
+1. Een aanvraag tot subsidievaststelling wordt ingediend uiterlijk twee maanden na afloop van de periode, bedoeld in [artikel 1.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049659&hoofdstuk=1&artikel=1.3&z=2024-05-04&g=2024-05-04), dan wel zo veel eerder als dat het onderzoek is afgerond. Dit geschiedt door het invullen en ondertekenen van een door het Stimuleringsfonds vastgesteld aanvraagformulier op de website van het Stimuleringsfonds.
 
-2. Een aanvraag tot subsidievaststelling gaat vergezeld van een onderzoeksrapport en een financieel verslag van de aanvrager en daarnaast een reflectieverslag van de bij het onderzoek betrokken journalistieke informatiebronnen, bedoeld in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049659&hoofdstuk=5&artikel=5.2&z=2024-05-04&g=2024-05-01).
+2. Een aanvraag tot subsidievaststelling gaat vergezeld van een onderzoeksrapport en een financieel verslag van de aanvrager en daarnaast een reflectieverslag van de bij het onderzoek betrokken journalistieke informatiebronnen, bedoeld in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049659&hoofdstuk=5&artikel=5.2&z=2024-05-04&g=2024-05-04).
 
 ##### Artikel 5.2. Onderzoeksrapport, financieel verslag en reflectieverslag
 
