@@ -4,7 +4,7 @@ identifier: "BWBR0049656"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-05-04"
-last_updated: "2024-01-01"
+last_updated: "2024-05-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049656"
 soort: "zbo"
@@ -101,7 +101,7 @@ In deze regeling wordt verstaan onder:
 
 3. De ondervolmacht wordt schriftelijk verleend.
 
-4. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049656&paragraaf=1&artikel=2&z=2024-05-04&g=2024-01-01) is van overeenkomstige toepassing op de ondergevolmachtigde.
+4. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049656&paragraaf=1&artikel=2&z=2024-05-04&g=2024-05-04) is van overeenkomstige toepassing op de ondergevolmachtigde.
 
 ##### Artikel 4. Ondertekeningsvolmacht en machtiging
 
@@ -143,7 +143,7 @@ De directie behoudt de bevoegdheid tot de volgende rechtshandelingen:
 
 ##### Artikel 7. Bevoegdheid directieleden
 
-De afzonderlijke directieleden hebben – behoudens het bepaalde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049656&paragraaf=1&artikel=5&z=2024-05-04&g=2024-01-01) – binnen de grenzen van hun portefeuille volmacht ten aanzien van alle bevoegdheden waarover de directie beschikt in het bijzonder:
+De afzonderlijke directieleden hebben – behoudens het bepaalde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049656&paragraaf=1&artikel=5&z=2024-05-04&g=2024-05-04) – binnen de grenzen van hun portefeuille volmacht ten aanzien van alle bevoegdheden waarover de directie beschikt in het bijzonder:
 
 - a. het vaststellen van besluiten die ter advies dan wel instemming zijn voorgelegd aan de OR;
 
@@ -233,7 +233,7 @@ betreffende alle onder het directielid ressorterende medewerkers.
 
 - z. het afnemen van de eed en belofte conform [artikel 5 lid 1 sub a Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=5);
 
-2. De direct leidinggevende is niet bevoegd de volmacht uit te oefenen voor zover dat in strijd is met of overlapt met een handeling die reeds is genomen of waarvan bekend is dat deze zal plaatsvinden op grond van de volmachten genoemd in [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0049656&paragraaf=2&artikel=7&z=2024-05-04&g=2024-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0049656&paragraaf=2&artikel=8&z=2024-05-04&g=2024-01-01).
+2. De direct leidinggevende is niet bevoegd de volmacht uit te oefenen voor zover dat in strijd is met of overlapt met een handeling die reeds is genomen of waarvan bekend is dat deze zal plaatsvinden op grond van de volmachten genoemd in [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0049656&paragraaf=2&artikel=7&z=2024-05-04&g=2024-05-04) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0049656&paragraaf=2&artikel=8&z=2024-05-04&g=2024-05-04).
 
 ##### Artikel 10. Bevoegdheid HR
 
@@ -249,7 +249,7 @@ betreffende alle onder het directielid ressorterende medewerkers.
 
 - –. na 2 jaar arbeidsongeschiktheid.
 
-- d. het ondertekenen van uitgaande brieven, overeenkomsten en/of andere documenten na besluitvorming door de functionarissen bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0049656&paragraaf=2&artikel=7&z=2024-05-04&g=2024-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0049656&paragraaf=2&artikel=8&z=2024-05-04&g=2024-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0049656&paragraaf=2&artikel=9&z=2024-05-04&g=2024-01-01) als dat nodig is voor de praktische uitvoering van de desbetreffende besluitvorming;
+- d. het ondertekenen van uitgaande brieven, overeenkomsten en/of andere documenten na besluitvorming door de functionarissen bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0049656&paragraaf=2&artikel=7&z=2024-05-04&g=2024-05-04), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0049656&paragraaf=2&artikel=8&z=2024-05-04&g=2024-05-04) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0049656&paragraaf=2&artikel=9&z=2024-05-04&g=2024-05-04) als dat nodig is voor de praktische uitvoering van de desbetreffende besluitvorming;
 
 2. De medewerker HR-services heeft volmacht ten aanzien van:
 
