@@ -4,7 +4,7 @@ identifier: "BWBR0028578"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-05-07"
-last_updated: "2024-01-24"
+last_updated: "2024-05-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028578"
 soort: "zbo"
@@ -72,6 +72,8 @@ In dit besluit wordt verstaan onder:
 4. Indien UWV de oproeping verzendt naar een ander adres dan het woonadres dan kan voor het bepalen van de reisafstand naar de plaats van oproeping van dat adres worden uitgegaan.
 
 5. Kosten verbonden aan noodzakelijk gebruik van een veerdienst worden vergoed.
+
+6. In bijzondere situaties kan van het bepaalde in het eerste en tweede lid worden afgeweken. Dit is ter beoordeling van UWV.
 
 ##### Artikel 4. Vergoeding reiskosten bij medische klachten of lichamelijke beperkingen
 
