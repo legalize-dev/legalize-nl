@@ -4,7 +4,7 @@ identifier: "BWBR0049052"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-05-07"
-last_updated: "2023-12-16"
+last_updated: "2024-05-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049052"
 soort: "ministeriele-regeling"
@@ -82,13 +82,13 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 ##### Artikel 4. Subsidieplafond
 
-Voor subsidieverstrekking op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049052&artikel=3&z=2023-12-16&g=2023-12-16) van deze regeling is in totaal:
+Voor subsidieverstrekking op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049052&artikel=3&z=2024-05-07&g=2024-05-07) van deze regeling is in totaal:
 
 - a. € 109.200.000,– beschikbaar voor subsidieverstrekking voor het primair onderwijs, met uitzondering van het speciaal basisonderwijs;
 
 - b. € 34.560.000,– beschikbaar voor subsidieverstrekking voor het voortgezet onderwijs;
 
-- c. € 4.800.000,– beschikbaar voor subsidieverstrekking voor het speciaal onderwijs en voortgezet speciaal onderwijs gezamenlijk; en
+- c. € 10.320.000,– beschikbaar voor subsidieverstrekking voor het speciaal onderwijs en voortgezet speciaal onderwijs gezamenlijk; en
 
 - d. € 4.800.000,– beschikbaar voor het speciaal basisonderwijs.
 
@@ -104,11 +104,11 @@ Voor subsidieverstrekking op grond van [artikel 3](https://wetten.overheid.nl/jc
 
 - d. in het speciaal basisonderwijs € 120.000,– per vestiging.
 
-2. Indien het aantal aanvragen groter is dan het beschikbare bedrag voor een sector als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049052&artikel=4&z=2023-12-16&g=2023-12-16), worden de aanvragen per subsidieplafond als bedoeld in artikel 4, op de volgende wijze gerangschikt van hoog naar laag, waarbij de hoogste score voorrang krijgt boven de laagste score:
+2. Indien het aantal aanvragen groter is dan het beschikbare bedrag voor een sector als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049052&artikel=4&z=2024-05-07&g=2024-05-07), worden de aanvragen per subsidieplafond als bedoeld in artikel 4, op de volgende wijze gerangschikt van hoog naar laag, waarbij de hoogste score voorrang krijgt boven de laagste score:
 
-- a. in het primair onderwijs wordt gekeken naar de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049052&bijlage=1&z=2023-12-16&g=2023-12-16) opgenomen achterstandsscores zonder drempel van de basisscholen als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1). Deze achterstandsscores worden gedeeld door het aantal leerlingen dat op 1 februari 2023 is ingeschreven op de vestiging zoals opgenomen in bijlage 1;
+- a. in het primair onderwijs wordt gekeken naar de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049052&bijlage=1&z=2024-05-07&g=2024-05-07) opgenomen achterstandsscores zonder drempel van de basisscholen als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1). Deze achterstandsscores worden gedeeld door het aantal leerlingen dat op 1 februari 2023 is ingeschreven op de vestiging zoals opgenomen in bijlage 1;
 
-- b. in het voortgezet onderwijs wordt gekeken naar de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049052&bijlage=2&z=2023-12-16&g=2023-12-16) opgenomen achterstandsscores zonder drempel van scholen voor voortgezet onderwijs als bedoeld in [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1). Daarna worden deze achterstandsscores gedeeld door het aantal leerlingen dat per school was ingeschreven op 1 oktober 2021, zoals opgenomen in bijlage 2.
+- b. in het voortgezet onderwijs wordt gekeken naar de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049052&bijlage=2&z=2024-05-07&g=2024-05-07) opgenomen achterstandsscores zonder drempel van scholen voor voortgezet onderwijs als bedoeld in [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1). Daarna worden deze achterstandsscores gedeeld door het aantal leerlingen dat per school was ingeschreven op 1 oktober 2021, zoals opgenomen in bijlage 2.
 
 - c. in het speciaal onderwijs, voortgezet speciaal onderwijs of speciaal en voortgezet speciaal onderwijs bedoeld in [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1) wordt gekeken naar het aandeel leerlingen met een niet-Nederlandse culturele achtergrond als bedoeld in [artikel 1 van het Besluit bekostiging WEC 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&artikel=1) van vestigingen op de teldatum van 1 februari 2023 zoals op 1 oktober 2023 bij de Dienst Uitvoering Onderwijs bekend. Indien een fusie heeft plaatsgevonden na 1 februari 2023, wordt het aandeel leerlingen met een niet-Nederlandse culturele achtergrond van de gefuseerde vestiging berekend met de som van de aantallen van de vestigingen die zijn gefuseerd;
 
@@ -116,7 +116,7 @@ Voor subsidieverstrekking op grond van [artikel 3](https://wetten.overheid.nl/jc
 
 3. Indien niet genoeg middelen resteren om aanvragen met een gelijke rangschikking als bedoeld in de eerste volzin van het tweede lid, te honoreren, dan wordt binnen de groep van de aanvragen met een gelijke rangschikking geloot.
 
-4. Indien na het verstrekken van subsidie op alle in aanmerking komende aanvragen, binnen een subsidieplafond als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049052&artikel=4&z=2023-12-16&g=2023-12-16), nog middelen resteren, worden deze middelen toegevoegd aan de aan de andere subsidieplafonds als bedoeld in artikel 4, naar rato van de hoogte van deze andere subsidieplafonds.
+4. Indien na het verstrekken van subsidie op alle in aanmerking komende aanvragen, binnen een subsidieplafond als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049052&artikel=4&z=2024-05-07&g=2024-05-07), nog middelen resteren, worden deze middelen toegevoegd aan de aan de andere subsidieplafonds als bedoeld in artikel 4, naar rato van de hoogte van deze andere subsidieplafonds.
 
 ##### Artikel 6. Subsidieaanvraag
 
@@ -124,13 +124,13 @@ Voor subsidieverstrekking op grond van [artikel 3](https://wetten.overheid.nl/jc
 
 2. Een aanvraag kan worden ingediend van 8 januari 2024 tot en met 16 februari 2024. Aanvragen die op of na 17 februari 2024 worden ingediend, worden afgewezen.
 
-3. De subsidie wordt aangevraagd met gebruikmaking van het aanvraagformulier dat is bekendgemaakt op [www.dus-i.nl](onbekend). Het bevoegd gezag vult op het formulier de volgende gegevens in:
+3. De subsidie wordt aangevraagd met gebruikmaking van het aanvraagformulier dat is bekendgemaakt op [www.dus-i.nl](http://www.dus-i.nl). Het bevoegd gezag vult op het formulier de volgende gegevens in:
 
 - a. de gegevens van het bevoegd gezag;
 
-- b. de wijze waarop de personele uren, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049052&artikel=3&z=2023-12-16&g=2023-12-16), worden ingezet;
+- b. de wijze waarop de personele uren, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049052&artikel=3&z=2024-05-07&g=2024-05-07), worden ingezet;
 
-- c. de activiteiten waar het bevoegd gezag op gaat inzetten om bij te dragen aan het doel van de brugfunctie, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049052&artikel=3&z=2023-12-16&g=2023-12-16);
+- c. de activiteiten waar het bevoegd gezag op gaat inzetten om bij te dragen aan het doel van de brugfunctie, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049052&artikel=3&z=2024-05-07&g=2024-05-07);
 
 - d. de vragen en signalen waar de brugfunctie zich op zal richten;
 
@@ -144,33 +144,33 @@ Voor subsidieverstrekking op grond van [artikel 3](https://wetten.overheid.nl/jc
 
 1. De subsidieontvanger neemt actief deel aan het monitor- en effectonderzoek dat wordt uitgevoerd gedurende het subsidietraject, en levert tijdig adequate informatie aan ten behoeve van jaarlijkse tussenrapportages in het kader van het monitor- en effectonderzoek.
 
-2. Het bevoegd gezag kan alleen personeel als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049052&artikel=3&z=2023-12-16&g=2023-12-16), inzetten dat in het bezit is van een verklaring omtrent het gedrag, afgegeven op grond van de [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194).
+2. Het bevoegd gezag kan alleen personeel als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049052&artikel=3&z=2024-05-07&g=2024-05-07), inzetten dat in het bezit is van een verklaring omtrent het gedrag, afgegeven op grond van de [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194).
 
 ##### Artikel 8. Verlening en vaststelling
 
-1. Op grond van [artikel 9.1, vierde lid, van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=9.1) wordt een subsidie aan een bevoegd gezag in het primair onderwijs die minder dan € 125.000,– bedraagt direct vastgesteld. Deze subsidie wordt vastgesteld binnen dertien weken na sluiting van de aanvraagperiode, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049052&artikel=6&z=2023-12-16&g=2023-12-16).
+1. Op grond van [artikel 9.1, vierde lid, van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=9.1) wordt een subsidie aan een bevoegd gezag in het primair onderwijs die minder dan € 125.000,– bedraagt direct vastgesteld. Deze subsidie wordt vastgesteld binnen dertien weken na sluiting van de aanvraagperiode, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049052&artikel=6&z=2024-05-07&g=2024-05-07).
 
 2. In afwijking van [artikel 9.1, vierde lid, onderdeel a, van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=9.1) wordt een subsidie aan een bevoegd gezag in het voortgezet onderwijs die € 125.000,– of meer bedraagt binnen 13 weken na sluiting van de aanvraagperiode verleend. De minister stelt de subsidie ambtshalve vast binnen een jaar na indiening van de jaarverslaggeving over het laatste jaar van de activiteitenperiode.
 
 ##### Artikel 9. Betaling en bevoorschotting
 
-1. De minister bepaalt het betaalritme van de subsidies, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049052&artikel=8&z=2023-12-16&g=2023-12-16), in de subsidiebeschikking.
+1. De minister bepaalt het betaalritme van de subsidies, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049052&artikel=8&z=2024-05-07&g=2024-05-07), in de subsidiebeschikking.
 
-2. De minister verstrekt voor de subsidies, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049052&artikel=8&z=2023-12-16&g=2023-12-16), een voorschot van 100%, dat per jaar in gelijke delen wordt uitbetaald.
+2. De minister verstrekt voor de subsidies, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049052&artikel=8&z=2024-05-07&g=2024-05-07), een voorschot van 100%, dat per jaar in gelijke delen wordt uitbetaald.
 
 ##### Artikel 10. Verantwoording
 
 1. De verantwoording van de subsidie geschiedt in de jaarverslaggeving overeenkomstig de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132) met model G, onderdeel 1.
 
-2. Indien de activiteiten waarvoor subsidie is verstrekt in zijn geheel zijn verricht en volledig is voldaan aan de verplichtingen die verbonden zijn aan de verleende subsidie, kan het niet aangewende deel van de subsidie, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0049052&artikel=8&z=2023-12-16&g=2023-12-16) worden besteed aan andere activiteiten waarvoor aan het bevoegd gezag bekostiging wordt verstrekt.
+2. Indien de activiteiten waarvoor subsidie is verstrekt in zijn geheel zijn verricht en volledig is voldaan aan de verplichtingen die verbonden zijn aan de verleende subsidie, kan het niet aangewende deel van de subsidie, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0049052&artikel=8&z=2024-05-07&g=2024-05-07) worden besteed aan andere activiteiten waarvoor aan het bevoegd gezag bekostiging wordt verstrekt.
 
 3. De subsidieontvanger toont op verzoek van de minister aan dat de activiteiten waarvoor subsidie is verstrekt, zijn verricht en dat is voldaan aan de verplichtingen die aan de subsidie verbonden zijn. In dit kader vindt in ieder geval een steekproefsgewijze controle door de minister plaats. Bij de steekproefsgewijze controle toont de subsidieontvanger aan:
 
-- a. dat de subsidie is ingezet voor personele uren als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049052&artikel=3&z=2023-12-16&g=2023-12-16);
+- a. dat de subsidie is ingezet voor personele uren als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049052&artikel=3&z=2024-05-07&g=2024-05-07);
 
-- b. dat de subsidie is ingezet voor activiteiten, gericht op het doel van de brugfunctie, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049052&artikel=3&z=2023-12-16&g=2023-12-16);
+- b. dat de subsidie is ingezet voor activiteiten, gericht op het doel van de brugfunctie, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049052&artikel=3&z=2024-05-07&g=2024-05-07);
 
-- c. welke activiteiten, als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049052&artikel=3&z=2023-12-16&g=2023-12-16), zijn uitgevoerd om bij te dragen aan het doel van de brugfunctie; en
+- c. welke activiteiten, als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049052&artikel=3&z=2024-05-07&g=2024-05-07), zijn uitgevoerd om bij te dragen aan het doel van de brugfunctie; en
 
 - d. dat overleg heeft plaatsgevonden met betrokken gemeenten en samenwerkingsverbanden voordat gestart is met de brugfunctionaris.
 
@@ -184,7 +184,7 @@ Voor subsidieverstrekking op grond van [artikel 3](https://wetten.overheid.nl/jc
 
 Deze regeling wordt aangehaald als: Subsidieregeling brugfunctionaris.
 
-## Bijlage 1. behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049052&artikel=5&z=2023-12-16&g=2023-12-16) van de Subsidieregeling brugfunctionaris
+## Bijlage 1. behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049052&artikel=5&z=2024-05-07&g=2024-05-07) van de Subsidieregeling brugfunctionaris
 
 Voor het primair onderwijs zijn de achterstandsscores zoals die in de bijlagen zijn weergegeven, gebaseerd op de scores die zijn gepubliceerd door het Centraal Bureau voor de Statistiek gepubliceerd op 30 mei 2023.
 
@@ -6303,7 +6303,7 @@ Voor het primair onderwijs zijn de achterstandsscores zoals die in de bijlagen z
 | 31WB00 | 129,08 | 54 |
 | 31WV00 | 27,12 | 39 |
 
-## Bijlage 2. behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049052&artikel=5&z=2023-12-16&g=2023-12-16) van de Subsidieregeling brugfunctionaris
+## Bijlage 2. behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049052&artikel=5&z=2024-05-07&g=2024-05-07) van de Subsidieregeling brugfunctionaris
 
 Voor het voortgezet onderwijs zijn de achterstandsscores zoals die in de bijlagen zijn weergegeven, gebaseerd op de scores die zijn gepubliceerd door het Centraal Bureau voor de Statistiek gepubliceerd op 8 april 2022.
 
