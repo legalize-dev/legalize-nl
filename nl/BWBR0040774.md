@@ -4,7 +4,7 @@ identifier: "BWBR0040774"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-05-08"
-last_updated: "2018-03-30"
+last_updated: "2024-05-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040774"
 soort: "zbo"
@@ -69,7 +69,7 @@ De cliëntenraad heeft tot taak UWV gevraagd en ongevraagd te informeren en te a
 
 1. **Initiatiefrecht**
 
-- a). De cliëntenraad heeft de bevoegdheid alle aangelegenheden die de uitvoering en (de kwaliteit van) de dienstverlening door UWV aan cliënten raken, in de overlegvergadering als bedoeld in [artikel 6 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040774&artikel=6&z=2018-03-30&g=2018-03-30) respectievelijk [7 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040774&artikel=7&z=2018-03-30&g=2018-03-30) met UWV aan de orde te stellen.
+- a). De cliëntenraad heeft de bevoegdheid alle aangelegenheden die de uitvoering en (de kwaliteit van) de dienstverlening door UWV aan cliënten raken, in de overlegvergadering als bedoeld in [artikel 6 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040774&artikel=6&z=2024-05-08&g=2024-05-08) respectievelijk [7 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040774&artikel=7&z=2024-05-08&g=2024-05-08) met UWV aan de orde te stellen.
 
 - b). De cliëntenraad heeft het recht over alle aangelegenheden die de uitvoering en (de kwaliteit van) de dienstverlening door UWV betreffen, verbetervoorstellen te doen.
 
@@ -117,6 +117,8 @@ De cliëntenraad heeft tot taak UWV gevraagd en ongevraagd te informeren en te a
 
 3. De commissie wijst uit haar midden een lid aan dat belast is met de coördinatie van de werkzaamheden van die commissie en dat als contactpersoon van die commissie fungeert richting de cliëntenraad.
 
+4. De gezamenlijke cliëntenraden kunnen na overleg met elkaar en UWV zgn. ‘Brede Werkgroepen’ instellen. De Brede Werkgroep kiest uit haar midden een coördinator, die verantwoordelijk is voor bijeenroepen, agendering en communicatie. Doel van deze zgn. ‘Brede Werkgroepen’ is het samenwerken in multidisciplinaire samenstelling (over de verschillende raden heen) vorm te geven.
+
 ##### Artikel 6. Centrale cliëntenraad
 
 1. Er is een centrale cliëntenraad, die gesprekspartner is van de Raad van Bestuur. De centrale cliëntenraad, bestaat uit 16 leden. De leden van de centrale cliëntenraad dienen in Nederland woonachtig te zijn. Bij de samenstelling van de cliëntenraad wordt gestreefd naar een goede afspiegeling van het cliëntenbestand van UWV.
@@ -137,7 +139,7 @@ De cliëntenraad heeft tot taak UWV gevraagd en ongevraagd te informeren en te a
 
 4. De cliëntenraad overlegt minimaal vier keer per jaar met UWV.
 
-5. De centrale cliëntenraad benoemt uit zijn midden contactpersonen voor elke decentrale cliëntenraad. Deze contactpersonen kunnen de communicatie naar de betreffende decentrale cliëntenraad verzorgen, deelnemen aan de vergaderingen van de betreffende decentrale cliëntenraad en als toehoorder aanwezig zijn bij de overlegvergaderingen als bedoeld in [artikel 7 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040774&artikel=7&z=2018-03-30&g=2018-03-30) van de betreffende decentrale cliëntenraad.
+5. De centrale cliëntenraad benoemt uit zijn midden contactpersonen voor elke decentrale cliëntenraad. Deze contactpersonen kunnen de communicatie naar de betreffende decentrale cliëntenraad verzorgen, deelnemen aan de vergaderingen van de betreffende decentrale cliëntenraad en als toehoorder aanwezig zijn bij de overlegvergaderingen als bedoeld in [artikel 7 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040774&artikel=7&z=2024-05-08&g=2024-05-08) van de betreffende decentrale cliëntenraad.
 
 ##### Artikel 7. Decentrale cliëntenparticipatie
 
@@ -203,7 +205,7 @@ Bij de samenstelling van de cliëntenraad wordt gestreefd naar een goede afspieg
 
 - c. op verzoek van de organisatie die het lid voor benoeming heeft voorgedragen;
 
-- d. op grond van een besluit tot beëindiging van het lidmaatschap van een lid van de cliëntenraad van de Raad van Bestuur op basis van [artikel 10 lid 9](https://wetten.overheid.nl/jci1.3:c:BWBR0040774&artikel=10&z=2018-03-30&g=2018-03-30) van deze regeling;
+- d. op grond van een besluit tot beëindiging van het lidmaatschap van een lid van de cliëntenraad van de Raad van Bestuur op basis van [artikel 10 lid 9](https://wetten.overheid.nl/jci1.3:c:BWBR0040774&artikel=10&z=2024-05-08&g=2024-05-08) van deze regeling;
 
 - e. wegens een afwezigheid van de helft of meer van de vergaderingen van de cliëntenraad op jaarbasis. De cliëntenraad kan unaniem besluiten hiervan af te wijken.
 
@@ -213,15 +215,15 @@ Bij de samenstelling van de cliëntenraad wordt gestreefd naar een goede afspieg
 
 - h. Voor een lid van een decentrale raad, door verhuizing naar een ander district;
 
-- i. wegens het bereiken van de 70 jarige leeftijd;
+- i. vervallen;
 
 - j. wegens overlijden.
 
-2. Indien de meerderheid van de leden van een cliëntenraad van oordeel is dat door toedoen van een lid een vruchtbare samenwerking bij de werkzaamheden van de cliëntenraad ernstig en/of langdurig wordt belemmerd, kan de cliëntenraad de Raad van Bestuur schriftelijk en gemotiveerd verzoeken het lidmaatschap van het desbetreffende lid te beëindigen. De Raad van Bestuur beslist gemotiveerd op dit verzoek en betrekt daarbij het advies van de adviescommissie als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0040774&artikel=10&z=2018-03-30&g=2018-03-30).
+2. Indien de meerderheid van de leden van een cliëntenraad van oordeel is dat door toedoen van een lid een vruchtbare samenwerking bij de werkzaamheden van de cliëntenraad ernstig en/of langdurig wordt belemmerd, kan de cliëntenraad de Raad van Bestuur schriftelijk en gemotiveerd verzoeken het lidmaatschap van het desbetreffende lid te beëindigen. De Raad van Bestuur beslist gemotiveerd op dit verzoek en betrekt daarbij het advies van de adviescommissie als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0040774&artikel=10&z=2024-05-08&g=2024-05-08).
 
 3. Indien toepassing wordt gegeven aan het tweede lid, wordt het betreffende cliëntenraadslid gedurende de procedure van de adviescommissie uitgesloten van alle activiteiten van de cliëntenraad. Daarbij wordt de procedure van de adviescommissie geacht te zijn gestart op het moment dat gestemd is door de cliëntenraad onder de voorwaarde dat binnen 5 werkdagen na stemming door de cliëntenraad het in lid 2 van dit artikel bedoelde schriftelijke verzoek de Raad van Bestuur heeft bereikt.
 
-4. Indien het lidmaatschap van een cliëntenraad op basis van het eerste of tweede lid eindigt, wordt het betreffende lid vervangen door een nieuw te benoemen lid. De benoeming geschiedt met inachtneming van het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040774&artikel=8&z=2018-03-30&g=2018-03-30).
+4. Indien het lidmaatschap van een cliëntenraad op basis van het eerste of tweede lid eindigt, wordt het betreffende lid vervangen door een nieuw te benoemen lid. De benoeming geschiedt met inachtneming van het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040774&artikel=8&z=2024-05-08&g=2024-05-08).
 
 5. Bij voorzien langdurig verzuim van een cliëntenraadslid, kan de belangenorganisatie die het lid heeft voorgedragen, na overleg met UWV voor de duur van het verzuim een vervangend lid afvaardigen. De overige bepalingen in deze regeling met betrekking tot leden van cliëntenraden zijn van overeenkomstige toepassing op een vervangend lid van een cliëntenraad.
 
@@ -229,7 +231,7 @@ Bij de samenstelling van de cliëntenraad wordt gestreefd naar een goede afspieg
 
 1. **Taak**
 
-De adviescommissie heeft tot taak ter zake van een verzoek als bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040774&artikel=9&z=2018-03-30&g=2018-03-30) een advies ten behoeve van de Raad van Bestuur af te geven.
+De adviescommissie heeft tot taak ter zake van een verzoek als bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040774&artikel=9&z=2024-05-08&g=2024-05-08) een advies ten behoeve van de Raad van Bestuur af te geven.
 
 2. **Samenstelling**
 
@@ -239,7 +241,7 @@ De leden van de adviescommissie worden benoemd voor 4 jaar door de Raad van Best
 
 3. **Wraking en verschoning**
 
-Een lid van de adviescommissie kan op verzoek van één of beide partijen worden gewraakt op grond van feiten of omstandigheden die het vormen van een onpartijdig oordeel zouden kunnen bemoeilijken. Een dergelijk verzoek dient te worden gedaan uiterlijk op de zitting waarop het verzoek als bedoeld in [artikel 9 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040774&artikel=9&z=2018-03-30&g=2018-03-30) wordt behandeld. De overige leden van de adviescommissie beslissen op het verzoek om wraking. Bij staking van stemmen wordt het verzoek toegewezen.
+Een lid van de adviescommissie kan op verzoek van één of beide partijen worden gewraakt op grond van feiten of omstandigheden die het vormen van een onpartijdig oordeel zouden kunnen bemoeilijken. Een dergelijk verzoek dient te worden gedaan uiterlijk op de zitting waarop het verzoek als bedoeld in [artikel 9 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040774&artikel=9&z=2024-05-08&g=2024-05-08) wordt behandeld. De overige leden van de adviescommissie beslissen op het verzoek om wraking. Bij staking van stemmen wordt het verzoek toegewezen.
 
 Op grond van feiten of omstandigheden als bedoeld in de eerste volzin kan een lid van de adviescommissie zich ter zake van de behandeling van het verzoek verschonen. Hij is verplicht dit te doen, indien de beide overige leden van de adviescommissie, die aan de behandeling van het verzoek zullen deelnemen, van oordeel zijn dat de bedoelde feiten of omstandigheden zich te zijnen aanzien voordoen.
 
@@ -328,6 +330,8 @@ Indien de cliëntenraad het besluit van de Raad van Bestuur zonder gerechtvaardi
 - c. trainingen op het terrein van onder andere onderhandelingsvaardigheden, vergadertechniek, en voorzitterschap en secretarisrol.
 
 5. Een lid van de cliëntenraad neemt deel aan de door UWV aangeboden scholing tenzij het lid van de cliëntenraad een goede reden heeft om af te zien van deelname. Indien een lid van de cliëntenraad niet wenst deel te nemen aan door UWV aangeboden scholing treedt hij/zij hierover voorafgaand aan de scholing in gesprek met UWV (de adviseur cliëntenparticipatie) samen met de (vice)voorzitter van de betreffende cliëntenraad.
+
+6. Indien een lid voorzieningen nodig heeft om deel te kunnen nemen aan de cliëntenraad, vraagt het lid de betreffende voorziening eerst aan bij de eigen gemeente. Wanneer de betreffende gemeente het lid niet ondersteunt met de benodigde voorziening, kan het raadslid door UWV individueel gefaciliteerd worden als bepaalde voorzieningen nodig zijn om adequaat te kunnen deelnemen aan het overleg. In voorkomende gevallen kan men zich hiervoor melden bij de Adviseur Cliëntenparticipatie.
 
 ##### Artikel 14. Vergoedingen
 
