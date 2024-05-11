@@ -4,7 +4,7 @@ identifier: "BWBR0049689"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-05-11"
-last_updated: "2024-05-01"
+last_updated: "2024-05-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049689"
 soort: "zbo"
@@ -63,7 +63,7 @@ Het doel van deze beleidsregel is om vast te leggen op welke wijze de NZa gebrui
 
 ##### Artikel 3. Reikwijdte
 
-Deze beleidsregel is van toepassing op patiëntengroepsgebonden afstemming zoals omschreven in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049689&artikel=1&z=2024-05-11&g=2024-05-01) van deze beleidsregel voor zover deze afstemming direct ten dienste staat van een of meerdere zorgvormen onder de aanspraken van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450).
+Deze beleidsregel is van toepassing op patiëntengroepsgebonden afstemming zoals omschreven in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049689&artikel=1&z=2024-05-11&g=2024-05-11) van deze beleidsregel voor zover deze afstemming direct ten dienste staat van een of meerdere zorgvormen onder de aanspraken van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450).
 
 ##### Artikel 4. Prestatiebeschrijving
 
@@ -73,7 +73,7 @@ De prestatiebeschrijving kan alleen in rekening worden gebracht indien de zorgaa
 
 ##### Artikel 5. Tariefsoort
 
-Voor de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049689&artikel=4&z=2024-05-11&g=2024-05-01) genoemde prestatiebeschrijving geldt een vrij tarief zoals bedoeld in [artikel 50, eerste lid, onder a, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50).
+Voor de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049689&artikel=4&z=2024-05-11&g=2024-05-11) genoemde prestatiebeschrijving geldt een vrij tarief zoals bedoeld in [artikel 50, eerste lid, onder a, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50).
 
 ##### Artikel 6. Monitoring en evaluatie
 
