@@ -4,7 +4,7 @@ identifier: "BWBR0049472"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-05-15"
-last_updated: "2024-03-20"
+last_updated: "2024-05-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049472"
 soort: "ministeriele-regeling"
@@ -38,13 +38,13 @@ entry_into_force: "2024-03-20"
 
 ##### Artikel 1
 
-Aan de algemeen directeur van het Centraal Justitieel Incassobureau wordt mandaat verleend voor aangelegenheden met betrekking tot het invorderen bij dwangbevel en het executeren van geldvorderingen die voortvloeien uit bestuurlijke sancties die in mandaat door de Inspecteur Generaal van de Rijksinspectie Digitale Infrastructuur of onder deze ressorterende medewerkers zijn opgelegd.
+Aan de algemeen directeur van het Centraal Justitieel Incassobureau wordt mandaat, volmacht en machtiging verleend voor het uitvaardigen van dwangbevelen en de daaruit voortvloeiende uitvoering van executiegeschillen, en voor het treffen van betalingsregelingen die voortvloeien uit bestuurlijke sancties die in mandaat door de Inspecteur-generaal van de Rijksinspectie Digitale Infrastructuur of onder deze ressorterende medewerkers zijn opgelegd.
 
 ##### Artikel 2
 
-1. De algemeen directeur van het Centraal Justitieel Incassobureau kan voor de aan hem op grond van dit besluit toekomende bevoegdheden ondermandaat verlenen aan onder hem ressorterende medewerkers van het Centraal Justitieel Incassobureau.
+1. De algemeen directeur van het Centraal Justitieel Incassobureau kan voor de aan hem op grond van dit besluit toekomende bevoegdheden ondermandaat, volmacht en machtiging verlenen aan onder hem ressorterende medewerkers van het Centraal Justitieel Incassobureau.
 
-2. Het verlenen van ondermandaat alsmede wijziging daarvan, geschiedt schriftelijk en wat de formulering betreft in overeenstemming met de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat.
+2. Het verlenen van ondermandaat, volmacht en machtiging alsmede wijziging daarvan, geschiedt schriftelijk en wat de formulering betreft in overeenstemming met de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat.
 
 ##### Artikel 3
 
