@@ -4,7 +4,7 @@ identifier: "BWBR0049320"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-05-15"
-last_updated: "2024-02-01"
+last_updated: "2024-05-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049320"
 soort: "ministeriele-regeling"
@@ -100,7 +100,7 @@ De in [artikel 2.1 van het Besluit gemeentelijke taak mogelijk maken asielopvang
 
 ##### Artikel 6. Tijdstip van verstrekking van de uitkeringen
 
-1. De uitkeringen, bedoeld in [artikel 9, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049307&artikel=9) worden verstrekt in de eerstvolgende maand juni of november nadat aan de voorwaarden, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049320&hoofdstuk=3&artikel=4&z=2024-02-01&g=2024-02-01), is voldaan.
+1. De uitkeringen, bedoeld in [artikel 9, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049307&artikel=9) worden verstrekt in de eerstvolgende maand juni of november nadat aan de voorwaarden, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049320&hoofdstuk=3&artikel=5&z=2024-05-15&g=2024-05-15), is voldaan.
 
 2. De uitkering bedoeld in [artikel 9, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049307&artikel=9) wordt verstrekt in de eerstvolgende maand juni of november na ommekomst van de periode van twee jaar, bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049307&artikel=2).
 
@@ -110,7 +110,7 @@ De gemeenten en de provincies leggen uiterlijk op 15 juli van het kalenderjaar v
 
 ##### Artikel 8. Procedure vaststelling uitkering
 
-Onze Minister stelt de uitkering vast uiterlijk op 31 december van het jaar waarin de verantwoordingsinformatie, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0049320&hoofdstuk=3&artikel=7&z=2024-02-01&g=2024-02-01), is ontvangen.
+Onze Minister stelt de uitkering vast uiterlijk op 31 december van het jaar waarin de verantwoordingsinformatie, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0049320&hoofdstuk=3&artikel=7&z=2024-05-15&g=2024-05-15), is ontvangen.
 
 ##### Artikel 9. Terugvordering
 
@@ -120,7 +120,7 @@ De uitkering kan worden teruggevorderd indien en voor zover na de beschikbaarste
 
 ##### Artikel 10. Overgangsbepaling
 
-Op de uitkering, bedoeld in [artikel 13, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049307&artikel=13), zijn de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049320&hoofdstuk=3&artikel=4&z=2024-02-01&g=2024-02-01), en [7 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0049320&hoofdstuk=3&artikel=7&z=2024-02-01&g=2024-02-01) van overeenkomstige toepassing.
+Op de uitkering, bedoeld in [artikel 13, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049307&artikel=13), zijn de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049320&hoofdstuk=3&artikel=4&z=2024-05-15&g=2024-05-15), en [7 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0049320&hoofdstuk=3&artikel=7&z=2024-05-15&g=2024-05-15) van overeenkomstige toepassing.
 
 ##### Artikel 11. Inwerkingtreding
 
