@@ -4,7 +4,7 @@ identifier: "BWBR0046343"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-05-15"
-last_updated: "2022-06-10"
+last_updated: "2024-05-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046343"
 soort: "ministeriele-regeling"
@@ -106,7 +106,7 @@ Op deze regeling zijn de [artikelen 3.2, tweede lid](https://wetten.overheid.nl/
 
 - j. het verstrekken van een certificaat van deelname aan deelnemers die een MDT traject hebben afgerond.
 
-3. In aanvulling op het eerste lid kan de minister subsidie verstrekken voor activiteiten die bijdragen aan de opschaling van een MDT-project en het vergroten van het bereik van dat project voor jongeren.
+2. In aanvulling op het eerste lid kan de minister subsidie verstrekken voor activiteiten die bijdragen aan de opschaling van een MDT-project en het vergroten van het bereik van dat project voor jongeren.
 
 ##### Artikel 4. Hoogte van de subsidie
 
@@ -114,7 +114,7 @@ Op deze regeling zijn de [artikelen 3.2, tweede lid](https://wetten.overheid.nl/
 
 - a. een vast bedrag voor elk afgerond MDT-basis-traject, MDT-plus-traject of MDT-extra-traject, berekend aan de hand van het derde lid;
 
-- b. een bedrag voor elk niet afgerond MDT-basis-traject, MDT-plus-traject of MDT extra-traject, dat per traject wordt berekend aan de hand van het vierde lid, met dien verstande dat het bedrag voor alle niet-afgeronde trajecten tezamen niet meer kan bedragen dan 10% van het totaalbedrag, bedoeld in de aanhef.
+- b. een bedrag voor elk niet afgerond MDT-basis-traject, MDT-plus-traject of MDT-extra-traject, waarbij het subsidiebedrag per niet afgerond traject gelijk is aan het bedrag dat voor een corresponderend afgerond traject geldt, met dien verstande dat per trajectvariant ten hoogste 15% van het aantal trajecten, waarvoor ingevolge artikel 11 subsidie is verleend, als niet-afgeronde trajecten voor subsidie in aanmerking kunnen komen.
 
 2. Het subsidiebedrag voor het faciliteren van een MDT-project bedraagt ten minste € 360.000 en ten hoogste € 5.000.000.
 
@@ -122,21 +122,11 @@ Op deze regeling zijn de [artikelen 3.2, tweede lid](https://wetten.overheid.nl/
 
 - a. 95% van de kosten van een vergelijkbaar MDT-traject uit de meest recente verleningsbeschikking van de penvoerder op basis van de subsidieoproep 3, 4a, 4b of 4c van ZonMw betreffende MDT-trajecten, met dien verstande dat dit bedrag niet meer bedraagt dan € 1.700 per MDT-basis-traject en € 3.000 per MDT-plus-traject of MDT-extra-traject;
 
-- b. maximaal 10% verhoging van het bedrag onder a, indien de penvoerder activiteiten uitvoert als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046343&artikel=3&z=2022-06-10&g=2022-06-10); en
+- b. maximaal 10% verhoging van het bedrag onder a, indien de penvoerder activiteiten uitvoert als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046343&artikel=3&z=2024-05-15&g=2024-05-15); en
 
 - c. maximaal 5% verhoging van het bedrag onder a, voor onvoorziene uitgaven.
 
-4. Het bedrag voor een niet afgerond MDT-basis-traject, MDT-plus-traject of MDT-extra-traject, als bedoeld in het eerste lid, onder b, bestaat uit:
-
-- a. indien een intakegesprek heeft plaatsgevonden, 10% van het bedrag van een afgerond MDT-basis-traject, of, indien het niet-afgeronde traject een MDT-plus-traject of MDT-extra-traject betreft, 5% van het bedrag van een afgerond MDT-plustraject of MDT-extratraject, zoals opgenomen in de subsidieverlening;
-
-- b. indien een jongere ten minste 40 uur van een MDT-basis-traject heeft gevolgd, 30% van het bedrag per afgerond MDT-basis-traject, zoals opgenomen in de subsidieverlening;
-
-- c. indien een jongere ten minste 80 uur van een MDT-plus-traject heeft doorlopen, het bedrag van een afgerond MDT-basis-traject, zoals opgenomen in de subsidieverlening;
-
-- d. indien een jongere ten minste 80 uur van een MDT-extra-traject heeft doorlopen, maar onvoldoende kan worden aangetoond dat er intensieve begeleiding heeft plaatsgevonden, het bedrag van een afgerond MDT-basis-traject, zoals opgenomen in de subsidieverlening.
-
-5. Een MDT-traject voor een jongere die reeds twee keer eerder een MDT-traject heeft voltooid, is niet subsidiabel.
+4. Een MDT-traject voor een jongere die reeds twee keer eerder een MDT-traject heeft voltooid, is niet subsidiabel.
 
 ##### Artikel 5. Subsidieplafond en wijze van verdeling
 
@@ -172,7 +162,7 @@ Op deze regeling zijn de [artikelen 3.2, tweede lid](https://wetten.overheid.nl/
 
 2. Op grond van de onderhavige regeling wordt ten hoogste tweemaal subsidie verstrekt aan de penvoerder.
 
-3. Instellingen en gemeenten uit een samenwerkingsverband kunnen bij de aanvraag voor een subsidie voor ten hoogste 5% van het totaalbedrag aangevuld met de 25% cofinanciering, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046343&artikel=4&z=2022-06-10&g=2022-06-10), garant staan voor de cofinanciering, bedoeld in [artikel 9, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046343&artikel=9&z=2022-06-10&g=2022-06-10).
+3. Instellingen en gemeenten uit een samenwerkingsverband kunnen bij de aanvraag voor een subsidie voor ten hoogste 5% van het totaalbedrag aangevuld met de 25% cofinanciering, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046343&artikel=4&z=2024-05-15&g=2024-05-15), garant staan voor de cofinanciering, bedoeld in [artikel 9, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046343&artikel=9&z=2024-05-15&g=2024-05-15).
 
 4. De penvoerder komt uitsluitend voor subsidie in aanmerking, indien hij eerder subsidie heeft ontvangen op basis van de subsidieoproepen 3, 4a, 4b of 4c van ZonMw betreffende MDT-trajecten.
 
@@ -186,9 +176,9 @@ Op deze regeling zijn de [artikelen 3.2, tweede lid](https://wetten.overheid.nl/
 
 1. De penvoerder:
 
-- a. heeft binnen 12 maanden nadat de subsidie is verleend de intentieverklaring, bedoeld in [artikel 7, vierde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0046343&artikel=7&z=2022-06-10&g=2022-06-10), omgezet in een samenwerkingsovereenkomst gesloten met de gemeenten of instellingen uit het samenwerkingsverband;
+- a. heeft binnen 12 maanden nadat de subsidie is verleend de intentieverklaring, bedoeld in [artikel 7, vierde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0046343&artikel=7&z=2024-05-15&g=2024-05-15), omgezet in een samenwerkingsovereenkomst gesloten met de gemeenten of instellingen uit het samenwerkingsverband;
 
-- b. realiseert cofinanciering van ten minste 25% van het totaalbedrag, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046343&artikel=4&z=2022-06-10&g=2022-06-10), waarbij ten minste 10 procentpunt afkomstig is van instellingen of gemeenten uit het samenwerkingsverband die niet direct of indirect op grond van deze regeling subsidie ontvangt;
+- b. realiseert cofinanciering van ten minste 25% van het totaalbedrag, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046343&artikel=4&z=2024-05-15&g=2024-05-15);
 
 - c. verspreidt elk kwartaal een jongerenvragenlijst onder de aan het MDT-project deelnemende jongeren en zorgt voor een respons van meer dan 70%;
 
@@ -212,7 +202,7 @@ Op deze regeling zijn de [artikelen 3.2, tweede lid](https://wetten.overheid.nl/
 
 ##### Artikel 11. Verlening, bevoorschotting en betaling
 
-1. De minister besluit binnen 3 maanden na afloop van de periode, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046343&artikel=7&z=2022-06-10&g=2022-06-10), op de subsidieaanvraag.
+1. De minister besluit binnen 3 maanden na afloop van de periode, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046343&artikel=7&z=2024-05-15&g=2024-05-15), op de subsidieaanvraag.
 
 2. De minister verleent bij het besluit tot subsidieverlening een voorschot van 90%.
 
@@ -220,11 +210,11 @@ Op deze regeling zijn de [artikelen 3.2, tweede lid](https://wetten.overheid.nl/
 
 - a. 60% bij het besluit tot subsidieverlening;
 
-- b. 30% uiterlijk twee maanden na ontvangst van de tweede tussentijdse rapportage, bedoeld in [artikel 9, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0046343&artikel=9&z=2022-06-10&g=2022-06-10).
+- b. 30% uiterlijk twee maanden na ontvangst van de tweede tussentijdse rapportage, bedoeld in [artikel 9, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0046343&artikel=9&z=2024-05-15&g=2024-05-15).
 
 ##### Artikel 12. Verantwoording en vaststelling
 
-In aanvulling op [artikel 7.5 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.5) legt de penvoerder tevens een prestatiebewijs over voor afgeronde MDT-trajecten als bedoeld in [artikel 4, tweede lid, onder a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0046343&artikel=4&z=2022-06-10&g=2022-06-10), en voor niet-afgeronde MDT-trajecten als bedoeld in [artikel 4, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0046343&artikel=4&z=2022-06-10&g=2022-06-10).
+In aanvulling op [artikel 7.5 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.5) legt de penvoerder tevens een prestatiebewijs over voor afgeronde MDT-trajecten als bedoeld in [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0046343&artikel=4&z=2024-05-15&g=2024-05-15), en voor niet-afgeronde MDT-trajecten als bedoeld in [artikel 4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046343&artikel=4&z=2024-05-15&g=2024-05-15).
 
 ##### Artikel 13. Hardheidsclausule
 
@@ -238,7 +228,7 @@ Deze regeling treedt in werking met ingang van 1 april 2022 en vervalt met ingan
 
 Deze regeling wordt aangehaald als: Subsidieregeling 5a – MDT Continueren en opschalen.
 
-## Bijlage. behorende bij [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046343&artikel=10&z=2022-06-10&g=2022-06-10)
+## Bijlage. behorende bij [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046343&artikel=10&z=2024-05-15&g=2024-05-15)
 
 De criteria aan de hand waarvan een subsidieaanvraag beoordeeld wordt, zijn:
 
