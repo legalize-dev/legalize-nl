@@ -301,11 +301,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 Deze regeling wordt aangehaald als: Regeling beheer onroerende zaken Rijk 2024.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 14a. Toezenden afschriften
-
-De Minister van Infrastructuur en Waterstaat zendt een afschrift van een aanvraag om een omgevingsvergunning, een melding en een omgevingsvergunning voor beperkingengebiedactiviteiten met betrekking tot een waterstaatswerk in beheer bij het Rijk, de Noordzee, en een weg in beheer bij het Rijk, bedoeld in [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=6), onderscheidenlijk [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=7), onderscheidenlijk [hoofdstuk 8 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=8), onverwijld aan de Minister van Volkshuisvesting en Ruimtelijke Ordening, voor zover de betreffende vergunningsaanvragen en meldingen betrekking hebben op onroerende zaken die in eigendom zijn van de Staat.
-
-### Hoofdstuk 4. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
