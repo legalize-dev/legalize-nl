@@ -4,7 +4,7 @@ identifier: "BWBR0040475"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-05-15"
-last_updated: "2023-05-23"
+last_updated: "2024-05-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040475"
 soort: "ministeriele-regeling"
@@ -106,9 +106,9 @@ een en ander voor zover deze taak niet bij of krachtens de wet is opgedragen aan
 
 1. Het Rijksvastgoedbedrijf is belast met het materieelbeheer van:
 
-- a. de onroerende zaken die het met het oog op uitvoering van de taken, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040475&artikel=2&z=2023-05-23&g=2023-05-23) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0040475&artikel=7&z=2023-05-23&g=2023-05-23), aanhoudt en in gebruik heeft gegeven;
+- a. de onroerende zaken die het met het oog op uitvoering van de taken, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040475&artikel=2&z=2024-05-15&g=2024-05-15) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0040475&artikel=7&z=2024-05-15&g=2024-05-15), aanhoudt en in gebruik heeft gegeven;
 
-- b. de onroerende zaken die het overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040475&artikel=3&z=2023-05-23&g=2023-05-23) tot gebruik ter beschikking heeft gesteld;
+- b. de onroerende zaken die het overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040475&artikel=3&z=2024-05-15&g=2024-05-15) tot gebruik ter beschikking heeft gesteld;
 
 - c. Park Sorghvliet in Den Haag;
 
@@ -126,7 +126,7 @@ voor zover deze taak niet bij of krachtens wet of in een proces-verbaal aan een 
 
 ##### Artikel 5. Zorg voor architectuur, stedenbouwkundige inpassing, beeldende kunst en duurzaamheid
 
-Het Rijksvastgoedbedrijf is belast met de bevordering en bewaking van de kwaliteit van de architectuur, van de stedenbouwkundige inpassing, van de beeldende kunst en van de duurzaamheid bij de uitvoering van de taken genoemd in de [artikelen 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040475&artikel=2&z=2023-05-23&g=2023-05-23), [3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040475&artikel=3&z=2023-05-23&g=2023-05-23), [4, eerste lid, onderdelen a, b, c, d, e en g, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040475&artikel=4&z=2023-05-23&g=2023-05-23), en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0040475&artikel=7&z=2023-05-23&g=2023-05-23).
+Het Rijksvastgoedbedrijf is belast met de bevordering en bewaking van de kwaliteit van de architectuur, van de stedenbouwkundige inpassing, van de beeldende kunst en van de duurzaamheid bij de uitvoering van de taken genoemd in de [artikelen 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040475&artikel=2&z=2024-05-15&g=2024-05-15), [3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040475&artikel=3&z=2024-05-15&g=2024-05-15), [4, eerste lid, onderdelen a, b, c, d, e en g, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040475&artikel=4&z=2024-05-15&g=2024-05-15), en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0040475&artikel=7&z=2024-05-15&g=2024-05-15).
 
 ##### Artikel 6. Privaatrechtelijk beheer van onroerende zaken
 
@@ -160,9 +160,9 @@ voor zover daarmee niet bij of krachtens de wet een van de andere ministers is b
 
 - e. het onderhouden en in stand houden van onroerende zaken;
 
-- f. de handelingen, bedoeld in [artikel 6, onderdelen a, b, c, en g](https://wetten.overheid.nl/jci1.3:c:BWBR0040475&artikel=6&z=2023-05-23&g=2023-05-23);
+- f. de handelingen, bedoeld in [artikel 6, onderdelen a, b, c en f](https://wetten.overheid.nl/jci1.3:c:BWBR0040475&artikel=6&z=2024-05-15&g=2024-05-15).
 
-2. Het Rijksvastgoedbedrijf is in het kader van het deelnemen in processen ter ondersteuning van de verwezenlijking van nationale beleidsdoelen voor de fysieke leefomgeving, bedoeld in het eerste lid, onder i, aanhef en onder 2°, tevens belast met andere handelingen die voor het welslagen van de wijziging van de toedeling van functies aan locaties en het verzekeren van de realisatie van de nieuwe functie noodzakelijk zijn, daaronder in elk geval begrepen:
+2. Het Rijksvastgoedbedrijf is in het kader van het deelnemen in processen ter ondersteuning van de verwezenlijking van nationale beleidsdoelen voor de fysieke leefomgeving, bedoeld in [artikel 1, onder i, aanhef en onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0040475&artikel=1&z=2024-05-15&g=2024-05-15), tevens belast met andere handelingen die voor het welslagen van de wijziging van de toedeling van functies aan locaties en het verzekeren van de realisatie van de nieuwe functie noodzakelijk zijn, daaronder in elk geval begrepen:
 
 - a. het doen opstellen van ruimtelijke plannen;
 
@@ -186,7 +186,7 @@ Het Rijksvastgoedbedrijf is belast met:
 
 ##### Artikel 9. Dienstverlening aan derden
 
-Het Rijksvastgoedbedrijf is belast met het op verzoek van een van de andere ministers, ondersteunen van organisaties als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040475&artikel=2&z=2023-05-23&g=2023-05-23), bij:
+Het Rijksvastgoedbedrijf is belast met het op verzoek van een van de andere ministers, ondersteunen van organisaties als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040475&artikel=2&z=2024-05-15&g=2024-05-15), bij:
 
 - a. het in eigendom verwerven van onroerende zaken;
 
@@ -212,7 +212,7 @@ indien aan de nadere voorwaarden voor deze dienstverlening, gesteld door de Mini
 
 ##### Artikel 10. Aankoop van vastgoed met oog op doorverkoop aan derden
 
-Het Rijksvastgoedbedrijf is belast met het op verzoek van een van de andere ministers in eigendom verwerven van onroerende zaken of verwerven van appartementsrechten van organisaties als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040475&artikel=2&z=2023-05-23&g=2023-05-23), teneinde deze onroerende zaken of appartementsrechten vervolgens te vervreemden aan derden, indien aan de nadere voorwaarden voor deze verwerving en vervreemding, gesteld door de Minister van Binnenlandse Zaken en Koninkrijksrelaties, is voldaan.
+Het Rijksvastgoedbedrijf is belast met het op verzoek van een van de andere ministers in eigendom verwerven van onroerende zaken of verwerven van appartementsrechten van organisaties als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040475&artikel=2&z=2024-05-15&g=2024-05-15), teneinde deze onroerende zaken of appartementsrechten vervolgens te vervreemden aan derden, indien aan de nadere voorwaarden voor deze verwerving en vervreemding, gesteld door de Minister van Binnenlandse Zaken en Koninkrijksrelaties, is voldaan.
 
 ##### Artikel 11. Overige taken
 
