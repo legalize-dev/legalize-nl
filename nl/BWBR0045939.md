@@ -4,7 +4,7 @@ identifier: "BWBR0045939"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-06"
-last_updated: "2021-12-01"
+last_updated: "2024-05-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045939"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ Besluit:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045939&artikel=2&z=2021-12-01&g=2021-12-01).
+In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045939&artikel=2&z=2024-05-16&g=2024-05-16).
 
 ##### Artikel 2
 
@@ -62,13 +62,13 @@ De personen, werkzaam in de functie van buitengewoon opsporingsambtenaar in dien
 
 ##### Artikel 3
 
-1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein I, Openbare ruimte, zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](onbekend).
+1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein I, Openbare ruimte, II Milieu welzijn en infrastructuur, zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](onbekend).
 
-2. De buitengewoon opsporingsambtenaar is bevoegdheid tot het opsporen van de strafbare feiten behorend in domein II, Milieu, welzijn en infrastructuur, zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](onbekend).
+2. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein II Milieu welzijn en infrastructuur, zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](onbekend).
 
 3. De opsporingsbevoegdheid, bedoeld in het eerste en tweede lid, geldt voor het grondgebied van Nederland, voor zover noodzakelijk voor een goede vervulling van de aan de functie gerelateerde taken.
 
-4. De buitengewoon opsporingsambtenaar vermeldt in zijn processen-verbaal en schriftelijke verslagleggingen het in het eerste lid genoemde domein.
+4. De buitengewoon opsporingsambtenaar vermeldt in zijn processen-verbaal en schriftelijke verslagleggingen het in het eerste lid of tweede lid genoemde domein.
 
 ##### Artikel 4
 
@@ -86,13 +86,13 @@ Op grond van dit besluit kunnen maximaal 10 personen als buitengewoon opsporings
 
 1. De gemeente Hardenberg brengt jaarlijks, voor 1 april, verslag uit over:
 
-- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045939&artikel=2&z=2021-12-01&g=2021-12-01) genoemde functie;
+- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045939&artikel=2&z=2024-05-16&g=2024-05-16) genoemde functie;
 
 - b. de door die buitengewoon opsporingsambtenaren verrichte activiteiten;
 
 - c. de stand van zaken met betrekking tot de opleiding van die buitengewoon opsporingsambtenaren, waarbij in ieder geval wordt aangegeven hoeveel personen in het verslagjaar zijn aangemeld voor het door de Minister voor Rechtsbescherming goedgekeurde examen en hoeveel personen in dat jaar voor dat examen zijn geslaagd.
 
-2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045939&artikel=5&z=2021-12-01&g=2021-12-01) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Justitie en Veiligheid, Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
+2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045939&artikel=5&z=2024-05-16&g=2024-05-16) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Justitie en Veiligheid, Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
 
 ##### Artikel 7
 
