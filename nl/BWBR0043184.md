@@ -4,7 +4,7 @@ identifier: "BWBR0043184"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-11-28"
-last_updated: "2020-01-01"
+last_updated: "2024-05-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043184"
 soort: "ministeriele-regeling"
@@ -64,9 +64,7 @@ De directie FEZ bestaat uit de volgende afdelingen:
 
 - c. de afdeling Voorzieningen en Uitvoering;
 
-- d. de afdeling Verzekeringen en Werk;
-
-- e. het Bedrijfsbureau.
+- d. de afdeling Verzekeringen en Werk.
 
 ##### Artikel 3
 
@@ -100,7 +98,11 @@ Het hoofd van de afdeling Kaderstelling, Control en Evaluatie is verantwoordelij
 
 ##### Artikel 5
 
-1. Het hoofd van de afdeling Voorzieningen en Uitvoering is verantwoordelijk voor het toetsen van beleidsvoorstellen op budgettaire gevolgen en financieel-economische aspecten, het verzorgen van ramingen en het adviseren hierover ten aanzien van beleidsterreinen waarvoor de directeur-generaal Sociale Zekerheid en Integratie verantwoordelijk is.
+1. Het hoofd van de afdeling Voorzieningen en Uitvoering is verantwoordelijk voor het toetsen van beleidsvoorstellen op budgettaire gevolgen en financieel-economische aspecten, het verzorgen van ramingen en het adviseren hierover ten aanzien van:
+
+- a. de beleidsterreinen waarvoor de directeur-generaal Sociale Zekerheid en Integratie verantwoordelijk is, met uitzondering van de beleidsterreinen die binnen dit directoraat-generaal zijn belegd bij de directies Werknemersregelingen en Stelsels & Volksverzekeringen;
+
+- b. de beleidsterreinen waarvoor de programma-directeur-generaal Werk aan Uitvoering verantwoordelijk is.
 
 2. De in het eerste lid genoemde advisering omvat mede advisering aan een bewindspersoon en leden van de Bestuursraad van het ministerie.
 
@@ -110,7 +112,7 @@ Het hoofd van de afdeling Kaderstelling, Control en Evaluatie is verantwoordelij
 
 - a. de beleidsterreinen waarvoor de directeur-generaal Werk verantwoordelijk is;
 
-- b. de beleidsterreinen waarvoor de directeur-generaal Sociale Zekerheid en Integratie verantwoordelijk is, en binnen die dit directoraat-generaal zijn belegd bij de directies Werknemersregelingen en Stelsels & Volksverzekeringen.
+- b. de beleidsterreinen waarvoor de directeur-generaal Sociale Zekerheid en Integratie verantwoordelijk is, en binnen dit directoraat-generaal zijn belegd bij de directies Werknemersregelingen en Stelsels & Volksverzekeringen.
 
 2. De in het eerste lid genoemde advisering omvat mede advisering aan een bewindspersoon en leden van de Bestuursraad van het ministerie.
 
@@ -134,23 +136,7 @@ De verantwoordelijkheid van de hoofden van de afdelingen Kaderstelling, Control 
 
 ##### Artikel 8
 
-Het hoofd van het Bedrijfsbureau is verantwoordelijk voor:
-
-- a. het zorgdragen voor het verrichten van voorkomende beleids-, beheers- en verantwoordingstaken ten behoeve van de planning- en controlcyclus van de directie FEZ zelf en alle interne bedrijfsvoeringsaangelegenheden van de directie FEZ met betrekking tot personeel, informatie, organisatie, financiën, algemene zaken en huisvesting, de zogenoemde PIOFAH-taken;
-
-- b. het adviseren inzake door de directeur Financieel-Economische Zaken te nemen besluiten ten aanzien van directiebrede personele aangelegenheden;
-
-- c. het adviseren van het management met betrekking tot de voorbereiding, ontwikkeling, uitvoering en evaluatie van het beleid over de planning- en controlcyclus en de bedrijfsvoering binnen de directie FEZ zelf;
-
-- d. het zorgdragen voor het beheer van de aan het Bedrijfsbureau toegekende departementale en directiegebonden budgetten;
-
-- e. het verzorgen en uitvoeren van werkzaamheden met een algemeen karakter die voor de directie FEZ van belang zijn.
-
-#### § 3. Bevoegdheden
-
-##### Artikel 9
-
-Aan de hoofden van de afdelingen en het Bedrijfsbureau wordt volmacht en machtiging verleend tot het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op de personeelsaangelegenheden van de eigen organisatorische eenheid, voor zover het betreft:
+Aan de hoofden van de afdelingen wordt volmacht en machtiging verleend tot het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op de personeelsaangelegenheden van de eigen organisatorische eenheid, voor zover het betreft:
 
 - a. het opmaken, niet zijnde vaststellen, van een beoordeling van medewerkers;
 
@@ -160,25 +146,27 @@ Aan de hoofden van de afdelingen en het Bedrijfsbureau wordt volmacht en machtig
 
 - d. kleine beloningen, niet zijnde gratificaties, onder gelijktijdige mededeling daarvan aan de directeur.
 
-##### Artikel 10
+#### § 3. Bevoegdheden
 
-Aan de hoofden van de afdelingen en het Bedrijfsbureau wordt mandaat en machtiging verleend met betrekking tot:
+##### Artikel 9
+
+Aan de hoofden van de afdelingen wordt mandaat en machtiging verleend met betrekking tot:
 
 - a. het afdoen van informatieve brieven, die betrekking hebben op de taken van de eigen organisatorische eenheid;
 
 - b. het paraferen van stukken waar de directie FEZ geen voortouw in heeft, met uitzondering van stukken waarvan gelet op het belang daarvan redelijkerwijs vermoed kan worden dat deze door de directeur Financieel-Economische Zaken afgedaan moeten worden.
 
-##### Artikel 11
+##### Artikel 10
 
 1. Aan het hoofd van de afdeling Kaderstelling, Control en Evaluatie wordt volmacht verleend met betrekking tot:
 
-- a. het ondertekenen van overeenkomsten met het CBS;
+- a. het aangaan van overeenkomsten met het Centraal bureau voor de statistiek met een waarde van ten hoogste € 150.000,– per overeenkomst;
 
-- b. het aangaan van overeenkomsten met betrekking tot de beleidsinformatievoorziening met een waarde van ten hoogte van € 15.000 per overeenkomst.
+- b. het aangaan van overeenkomsten met betrekking tot de beleidsinformatievoorziening met een waarde van ten hoogste van € 150.000,– per overeenkomst.
 
 2. Het hoofd van de afdeling Kaderstelling, Control en Evaluatie kan de bevoegdheid, bedoeld in het eerste lid, onderdeel b, doorverlenen aan de onder hem ressorterende functionarissen.
 
-##### Artikel 12
+##### Artikel 11
 
 Aan het hoofd van het Bedrijfsbureau wordt volmacht verleend tot het verrichten van de volgende privaatrechtelijke rechtshandelingen met een waarde van ten hoogste € 20.000 per overeenkomst:
 
@@ -188,13 +176,21 @@ Aan het hoofd van het Bedrijfsbureau wordt volmacht verleend tot het verrichten 
 
 - c. het aangaan van overeenkomsten met betrekking tot beroeps-, functionerings- en loopbaangerichte cursussen en opleidingen die ingevolge dienstopdracht worden gevolgd.
 
+##### Artikel 12
+
+Aan de hoofden van de afdelingen wordt volmacht verleend tot het aangaan van overeenkomsten met een waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst, voor zover deze overeenkomsten betrekking hebben op de taken die vallen onder hun verantwoordelijkheid.
+
 ##### Artikel 13
 
-Doorverlening van bevoegdheden is slechts toegestaan na voorafgaande schriftelijk toestemming van de directeur Financieel-Economische Zaken.
+Bij afwezigheid of verhindering van de directeur Financieel-Economische Zaken worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door het afdelingshoofd dat is aangewezen als de plaatsvervangende directeur.
 
 ##### Artikel 14
 
-Bij afwezigheid of verhindering van de directeur Financieel-Economische Zaken worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door het afdelingshoofd dat is aangewezen als de plaatsvervangende directeur.
+1. Het [Organisatie-, mandaat- en volmachtbesluit directie Financieel-Economische Zaken 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0033363) wordt ingetrokken.
+
+2. Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 1 januari 2020.
+
+3. Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Financieel-Economische Zaken 2020.
 
 #### § 4. Slotbepalingen
 
@@ -207,7 +203,5 @@ Bij afwezigheid of verhindering van de directeur Financieel-Economische Zaken wo
 3. Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Financieel-Economische Zaken 2020.
 
 #### § 3. Bevoegdheden
-
-#### § 4. Slotbepalingen
 
 #### § 4. Slotbepalingen
