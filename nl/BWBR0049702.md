@@ -4,7 +4,7 @@ identifier: "BWBR0049702"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-05-17"
-last_updated: "2024-01-01"
+last_updated: "2024-05-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049702"
 soort: "ministeriele-regeling"
@@ -78,19 +78,19 @@ Aan het bestuur van de toelatingsorganisatie wordt volmacht verleend voor de uit
 
 ##### Artikel 3
 
-Het op grond van dit besluit verleende mandaat en machtiging ten behoeve van de toelatingsorganisatie omvat mede de bevoegdheid tot het vaststellen, wijzigen of intrekken van beleidsregels met betrekking tot de uitoefening van de bevoegdheden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049702&artikel=2&z=2024-05-17&g=2024-01-01) van dit besluit.
+Het op grond van dit besluit verleende mandaat en machtiging ten behoeve van de toelatingsorganisatie omvat mede de bevoegdheid tot het vaststellen, wijzigen of intrekken van beleidsregels met betrekking tot de uitoefening van de bevoegdheden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049702&artikel=2&z=2024-05-17&g=2024-05-17) van dit besluit.
 
 ##### Artikel 4
 
-1. Aan het bestuur van de toelatingsorganisatie wordt mandaat en machtiging verleend tot het nemen van besluiten en het verrichten van overige handelingen die verband houden met de uitoefening van de bevoegdheden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049702&artikel=2&z=2024-05-17&g=2024-01-01) van dit besluit.
+1. Aan het bestuur van de toelatingsorganisatie wordt mandaat en machtiging verleend tot het nemen van besluiten en het verrichten van overige handelingen die verband houden met de uitoefening van de bevoegdheden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049702&artikel=2&z=2024-05-17&g=2024-05-17) van dit besluit.
 
 2. Aan het bestuur van de toelatingsorganisatie wordt mandaat en machtiging verleend:
 
-- a. om namens de Minister een besluit te nemen op een bezwaarschrift gericht tegen een besluit als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049702&artikel=2&z=2024-05-17&g=2024-01-01);
+- a. om namens de Minister een besluit te nemen op een bezwaarschrift gericht tegen een besluit als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049702&artikel=2&z=2024-05-17&g=2024-05-17);
 
 - b. verweer te voeren, in geval beroep of hoger beroep is ingesteld ter zake van een besluit op bezwaar als bedoeld in onderdeel a;
 
-- c. verweer te voeren, in geval een voorlopige voorziening is ingesteld in het kader van een bezwaar, beroep of hoger beroep ter zake van een besluit als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049702&artikel=2&z=2024-05-17&g=2024-01-01);
+- c. verweer te voeren, in geval een voorlopige voorziening is ingesteld in het kader van een bezwaar, beroep of hoger beroep ter zake van een besluit als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049702&artikel=2&z=2024-05-17&g=2024-05-17);
 
 - d. en om een procesbesluit te nemen ter zake het instellen van beroep, hoger beroep alsmede het indienen van een verzoek om voorlopige voorziening.
 
@@ -102,7 +102,7 @@ Het op grond van dit besluit verleende mandaat en machtiging ten behoeve van de 
 
 ##### Artikel 5. Ondermandaat
 
-1. Het bestuur van de toelatingsorganisatie is bevoegd ten aanzien van de bevoegdheden en taken zoals genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049702&artikel=2&z=2024-05-17&g=2024-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0049702&artikel=4&z=2024-05-17&g=2024-01-01) ondermandaat en machtiging te verlenen aan de onder het bestuur ressorterende functionarissen, die werkzaam zijn voor de organisatie.
+1. Het bestuur van de toelatingsorganisatie is bevoegd ten aanzien van de bevoegdheden en taken zoals genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049702&artikel=2&z=2024-05-17&g=2024-05-17) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0049702&artikel=4&z=2024-05-17&g=2024-05-17) ondermandaat en machtiging te verlenen aan de onder het bestuur ressorterende functionarissen, die werkzaam zijn voor de organisatie.
 
 2. Het verlenen van ondermandaat of machtiging alsmede wijziging daarvan, geschiedt schriftelijk en wat de formulering betreft in overeenstemming met het Mandaatbesluit van de Minister.
 
@@ -154,7 +154,7 @@ Gevolgd door de functieaanduiding van de functionaris die gemachtigd is tot het 
 
 ##### Artikel 8. Aanwijzing toezichthouders
 
-De ambtenaren van de toelatingsorganisatie worden aangewezen als ambtenaren belast met het toezicht op de naleving van het bepaalde bij of krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049702&artikel=2&z=2024-05-17&g=2024-01-01) van dit besluit.
+De ambtenaren van de toelatingsorganisatie worden aangewezen als ambtenaren belast met het toezicht op de naleving van het bepaalde bij of krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049702&artikel=2&z=2024-05-17&g=2024-05-17) van dit besluit.
 
 ##### Artikel 9. Citeertitel, inwerkingtreding en publicatie
 
