@@ -4,7 +4,7 @@ identifier: "BWBR0048465"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-16"
-last_updated: "2024-02-01"
+last_updated: "2024-05-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048465"
 soort: "ministeriele-regeling"
@@ -96,7 +96,7 @@ De minister kan een subsidie verstrekken voor projecten zonder winstoogmerk op h
 
 - d. die in het bezit zijn van een geldige verblijfsvergunning asiel voor bepaalde tijd en die hun verblijfsrecht opzeggen voordat zij Nederland verlaten.
 
-2. In afwijking van het tweede lid zijn uitgesloten vreemdelingen:
+2. In afwijking van het eerste lid zijn uitgesloten vreemdelingen:
 
 - a. die beschikken over voldoende financiële middelen om op eigen gelegenheid uit Nederland te vertrekken;
 
@@ -104,7 +104,7 @@ De minister kan een subsidie verstrekken voor projecten zonder winstoogmerk op h
 
 - c. met een nationaliteit die volgens het geldende terugkeerondersteuningsbeleid is uitgesloten van herintegratieondersteuning;
 
-- d. die onvoldoende medewerking verlenen om zelfstandig terug te keren via het REAN-programma van de Internationale Organisatie voor Migratie of via het JRS-programma van Frontex;
+- d. die zich niet bij de Internationale Organisatie voor Migratie dan wel DT&V heeft ingeschreven voor ondersteuning van het feitelijk vertrek;
 
 - e. van wie het vertrek uit Nederland een doorkruising betekent van een strafrechtelijk vervolgingstraject waar zij bij betrokken zijn;
 
@@ -150,7 +150,7 @@ De subsidie wordt aangevraagd door een in Nederland gevestigde, niet-gouvernemen
 
 1. Een subsidie kan uitsluitend worden verstrekt als de minister de mogelijkheid tot het doen van een aanvraag voor subsidie heeft opengesteld door vaststelling van een subsidieplafond en van een tijdvak voor de indiening van een aanvraag voor subsidie.
 
-2. De mogelijkheid tot het indienen van aanvragen om subsidie bestaat slechts gedurende door de minister vastgestelde aanvraagtijdvakken, zoals genoemd in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048465&hoofdstuk=2&z=2023-08-01&g=2024-02-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0048465&hoofdstuk=3&z=2023-08-01&g=2024-02-01).
+2. De mogelijkheid tot het indienen van aanvragen om subsidie bestaat slechts gedurende door de minister vastgestelde aanvraagtijdvakken, zoals genoemd in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048465&hoofdstuk=2&z=2024-05-18&g=2024-05-18) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0048465&hoofdstuk=3&z=2024-05-18&g=2024-05-18).
 
 3. Het subsidieplafond wordt verdeeld op volgorde van ontvangst van de volledige subsidieaanvragen.
 
@@ -160,17 +160,19 @@ Wanneer meerdere subsidieaanvragen op dezelfde dag zijn ontvangen en verstrekkin
 
 1. Een subsidieaanvraag heeft steeds betrekking op één project.
 
-2. De looptijd van een project bedraagt minimaal twaalf en maximaal vierentwintig maanden.
+2. Een subsidieaanvraag dient per post of per e-mail te worden ingediend.
 
-3. Het project start op zijn vroegst op de datum van ontvangst van de volledige subsidieaanvraag en uiterlijk zes maanden na ontvangst van de volledige subsidieaanvraag.
+3. De looptijd van een project bedraagt minimaal twaalf en maximaal vierentwintig maanden.
 
-4. Als meerdere rechtspersonen in een project samenwerken, kan slechts één van hen de subsidie aanvragen.
+4. Het project start op zijn vroegst op de datum van ontvangst van de volledige subsidieaanvraag en uiterlijk zes maanden na ontvangst van de volledige subsidieaanvraag.
 
-5. Indien het project wordt uitgevoerd door een samenwerkingsverband, wordt bij de subsidieaanvraag een kopie van de ondertekende samenwerkingsverklaring meegezonden.
+5. Als meerdere rechtspersonen in een project samenwerken, kan slechts één van hen de subsidie aanvragen.
 
-6. Als voor een project cofinanciering wordt verkregen van een derde, wordt bij de subsidieaanvraag een ondertekende cofinancieringsverklaring meegezonden. De cofinancieringsverklaring vermeldt het bedrag van de cofinanciering en of het bedrag een absolute bijdrage of een bedrag naar rato van de daadwerkelijk gemaakte kosten betreft.
+6. Indien het project wordt uitgevoerd door een samenwerkingsverband, wordt bij de subsidieaanvraag een kopie van de ondertekende samenwerkingsverklaring meegezonden.
 
-7. De subsidieaanvraag bevat in ieder geval:
+7. Als voor een project cofinanciering wordt verkregen van een derde, wordt bij de subsidieaanvraag een ondertekende cofinancieringsverklaring meegezonden. De cofinancieringsverklaring vermeldt het bedrag van de cofinanciering en of het bedrag een absolute bijdrage of een bedrag naar rato van de daadwerkelijk gemaakte kosten betreft.
+
+8. De subsidieaanvraag bevat in ieder geval:
 
 - a. een projectbeschrijving;
 
@@ -188,9 +190,9 @@ Wanneer meerdere subsidieaanvragen op dezelfde dag zijn ontvangen en verstrekkin
 
 - h. de balans en de resultatenrekening van de subsidieaanvrager van de laatst afgesloten kalendermaand voorafgaand aan de subsidieaanvraag.
 
-8. De projectbeschrijving en begroting worden ingediend onder gebruikmaking van daartoe door de minister beschikbaar gestelde formulieren.
+9. De projectbeschrijving en begroting worden ingediend onder gebruikmaking van daartoe door de minister beschikbaar gestelde formulieren.
 
-9. De projectbeschrijving bevat in ieder geval:
+10. De projectbeschrijving bevat in ieder geval:
 
 - a. een beschrijving van de voorgenomen activiteiten, waaronder de omvang, de doelgroep en de regio waar de activiteiten worden uitgevoerd;
 
@@ -338,7 +340,7 @@ Niet voor subsidiëring komen in aanmerking:
 
 - l. kosten voor woon-werkverkeer, tenzij een cao van toepassing is waarin staat dat medewerkers recht hebben op vergoeding hiervan;
 
-- m. kosten, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048465&hoofdstuk=1&artikel=12&z=2023-08-01&g=2024-02-01), die in Nederland zijn gemaakt en zijn voorgeschoten door een deelnemer;
+- m. kosten, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048465&hoofdstuk=1&artikel=12&z=2024-05-18&g=2024-05-18), die in Nederland zijn gemaakt en zijn voorgeschoten door een deelnemer;
 
 - n. kosten die reeds uit andere nationale of Europese middelen worden gefinancierd zodanig dat de totale financiering van de subsidiabele kosten meer dan 100% bedraagt.
 
@@ -400,7 +402,7 @@ Niet voor subsidiëring komen in aanmerking:
 
 ##### Artikel 18. Specifieke verplichtingen
 
-1. Projecten worden uitgevoerd in nauw overleg met een lokale afdeling van DT&V. De minister geeft aan welke afdeling het aanspreekpunt wordt voor de lokale samenwerking. Nadat subsidie is verstrekt, dient de subsidieontvanger afspraken te maken met deze afdeling over de onderlinge samenwerking. Deze afspraken behelzen onder andere hoe vaak er onderling overleg plaatsvindt over de voortgang van het terugkeertraject van individuele deelnemers, de locaties waar de organisatie actief is en de frequentie van spreekuren of voorlichtingsbijeenkomsten op locaties.
+1. Projecten worden uitgevoerd in nauw overleg met een lokale afdeling van DT&V. Tijdens het startgesprek wordt door de Minister bepaald welke lokale DT&V-afdeling het aanspreekpunt voor de samenwerking is. De subsidieontvanger en de lokale DT&V-afdeling maken afspraken over hoe deze samenwerking wordt vormgegeven.
 
 2. De deelname van iedere individuele deelnemer dient ter verificatie aan de minister te worden voorgelegd via een daarvoor beschikbaar gesteld formulier. Dit formulier vermeldt via welk herintegratieprogramma of netwerk de vreemdeling ondersteuning ontvangt.
 
@@ -408,7 +410,7 @@ De verificatieprocedure staat omschreven in de Handleiding.
 
 3. De deelname van iedere individuele deelnemer aan een project is beperkt tot vier maanden vóór vertrek en twaalf maanden na vertrek. Deze periodes kunnen in overleg met de minister worden verlengd.
 
-4. Deelname aan een project kan voortijdig worden beëindigd door de minister wanneer deelname de gedwongen terugkeer belemmert of omdat er geen uitzicht is op zelfstandig vertrek via het REAN-programma, JRS-programma of het ERSO-netwerk. Er is in beginsel geen uitzicht op vertrek via het REAN-programma, het JRS-programma of het ERSO-netwerk als een deelnemer zich na drie maanden nog niet heeft ingeschreven voor een van deze programma’s of netwerken.
+4. Deelname aan een project kan voortijdig worden beëindigd door de minister wanneer deelname de gedwongen terugkeer belemmert of omdat er geen uitzicht is op zelfstandig vertrek via het REAN-programma, JRS-programma of het ERSO-netwerk. Er is in beginsel geen uitzicht op zelfstandig vertrek als een deelnemer zich niet bij IOM dan wel DT&V heeft ingeschreven voor ondersteuning van het feitelijk vertrek.
 
 5. Indien een vreemdeling niet of niet meer deelneemt aan het project dient de subsidieontvanger de DT&V daarvan onverwijld in kennis te stellen door middel van het door de DT&V beschikbaar gestelde formulier.
 
@@ -468,7 +470,7 @@ Deze uitgaven zijn subsidiabel voor zover zij niet door een ander programma of o
 
 ##### Artikel 21. Aanvraagtijdvak
 
-Subsidieaanvragen met betrekking tot een project voor doelgroep A worden door de minister ontvangen in het aanvraagtijdvak van 1 augustus 2023 tot en met 30 november 2023.
+Subsidieaanvragen met betrekking tot een project voor doelgroep A worden door de minister ontvangen in het aanvraagtijdvak van 1 februari 2024 tot en met 31 juli 2024.
 
 ##### Artikel 22. Subsidieplafond
 
@@ -482,7 +484,7 @@ Het maximale beschikbare bedrag voor het verlenen van subsidie bedraagt voor het
 
 2. Een Nederlandse gemeente die het project meefinanciert dient een door het bevoegde gezag ondertekende co-financieringsverklaring op te stellen.
 
-3. In afwijking van [artikel 9, derde lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0048465&hoofdstuk=1&artikel=9&z=2023-08-01&g=2024-02-01), is het niet noodzakelijk om van medewerkers die tijdelijk werkzaam zijn voor het project, een verklaring omtrent het gedrag in de projectadministratie op te nemen.
+3. In afwijking van [artikel 9, derde lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0048465&hoofdstuk=1&artikel=9&z=2024-05-18&g=2024-05-18), is het niet noodzakelijk om van medewerkers die tijdelijk werkzaam zijn voor het project, een verklaring omtrent het gedrag in de projectadministratie op te nemen.
 
 ##### Artikel 24. Specifieke verplichtingen
 
