@@ -4,7 +4,7 @@ identifier: "BWBR0049211"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-07-04"
-last_updated: "2024-01-11"
+last_updated: "2024-05-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049211"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **Staatssecretaris:** Staatssecretaris van Financiën – Toeslagen en Douane;
 
-- b. **commissie:** de commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049211&artikel=2&z=2024-01-11&g=2024-01-11);
+- b. **commissie:** de commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049211&artikel=2&z=2024-05-23&g=2024-05-23);
 
 - c. **RCM:** risicoclassificatiemodel van toeslagen.
 
@@ -66,7 +66,7 @@ In dit besluit wordt verstaan onder:
 
 1. De commissie bestaat uit een voorzitter en twee andere leden.
 
-2. De benoeming geschiedt voor de duur van de commissie. De commissie houdt op te bestaan zodra zij de adviezen als genoemd in [artikel 2, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0049211&artikel=2&z=2024-01-11&g=2024-01-11) heeft overgedragen aan Dienst Toeslagen.
+2. De benoeming geschiedt voor de duur van de commissie. De commissie houdt op te bestaan zodra zij de adviezen als genoemd in [artikel 2, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0049211&artikel=2&z=2024-05-23&g=2024-05-23) heeft overgedragen aan Dienst Toeslagen.
 
 3. Met ingang van 1 januari 2024 worden voor de duur van de commissie benoemd:
 
@@ -94,7 +94,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 6. Vergoedingen en kosten
 
-1. De voorzitter en andere leden van de commissie hebben recht op een vaste vergoeding per maand. De toepasselijke salarisschaal voor de voorzitter en de andere leden is schaal 18 trede 10 overeenkomstig de salarisschalen zoals deze zijn overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst die is gesloten voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.1[https://www.caorijk.nl/](onbekend) De deeltijdfactor van de voorzitter en de leden is 0,1.
+1. De voorzitter en andere leden van de commissie hebben recht op een vaste vergoeding per maand. De toepasselijke salarisschaal voor de voorzitter en de andere leden is schaal 18 trede 10 overeenkomstig de salarisschalen zoals deze zijn overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst die is gesloten voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.1[https://www.caorijk.nl/](https://www.caorijk.nl/) De deeltijdfactor van de voorzitter en de leden is 0,2.
 
 2. Kosten van de commissie komen voor rekening van de Staatssecretaris, voor zover vooraf door hem goedgekeurd. Onder kosten worden in ieder geval verstaan:
 
@@ -106,7 +106,7 @@ In dit besluit wordt verstaan onder:
 
 1. De commissie verstrekt desgevraagd aan de Staatssecretaris de voor de uitoefening van zijn taak benodigde inlichtingen. De Staatssecretaris kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
 
-2. De (eventuele) adviezen, als genoemd in [artikel 2, tweede lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0049211&artikel=2&z=2024-01-11&g=2024-01-11), worden openbaar gemaakt op het moment van afronding van haar taak.
+2. De (eventuele) adviezen, als genoemd in [artikel 2, tweede lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0049211&artikel=2&z=2024-05-23&g=2024-05-23), worden openbaar gemaakt op het moment van afronding van haar taak.
 
 3. De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden aan het Ministerie van financiën.
 
