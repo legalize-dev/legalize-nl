@@ -4,7 +4,7 @@ identifier: "BWBR0048409"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-26"
-last_updated: "2023-07-18"
+last_updated: "2024-05-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048409"
 soort: "ministeriele-regeling"
@@ -104,31 +104,35 @@ De minister kan aan een bevoegd gezag subsidie verstrekken als tegemoetkoming in
 
 ##### Artikel 5. Aanvraag subsidie
 
-1. Een bevoegd gezag kan per statushouder één aanvraag voor de subsidie indienen, tot een maximum van twee aanvragen per bevoegd gezag. Voor iedere statushouder kan één keer subsidie verstrekt worden.
+1. Een bevoegd gezag kan per statushouder één aanvraag voor de subsidie indienen, tot een maximum van vijf aanvragen per bevoegd gezag. Voor iedere statushouder kan één keer subsidie verstrekt worden.
 
 2. In 2023 kan subsidie worden aangevraagd voor statushouders die na 1 augustus 2023 starten met een ondersteuningsprogramma.
 
 3. Een aanvraag voor de subsidie kan worden ingediend van 15 augustus 2023, 09:00 uur tot en met 15 september 2023, 21:00 uur. Aanvragen die buiten de aanvraagperiode worden ingediend, worden afgewezen.
 
-4. De subsidie wordt aangevraagd met gebruikmaking van het digitale aanvraagformulier dat daartoe op de website van DUS-I beschikbaar is gesteld.
+4. In 2024 kan subsidie worden aangevraagd voor statushouders die gedurende het jaar 2024 starten met een ondersteuningsprogramma.
 
-5. De aanvraag per statushouder gaat vergezeld van een verklaring waarin het bevoegd gezag verklaart dat:
+5. Een aanvraag voor subsidie kan worden ingediend van 3 juni 2024, 09:00 uur tot en met 27 september 2024, 23:59 uur. Aanvragen die buiten de aanvraagperiode worden ingediend, worden afgewezen.
 
-- a. de statushouder beschikt over documenten waaruit blijkt dat de statushouder voldoet aan [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048409&artikel=4&z=2023-07-18&g=2023-07-18);
+6. De subsidie wordt aangevraagd met gebruikmaking van het digitale aanvraagformulier dat daartoe op de website van DUS-I beschikbaar is gesteld.
 
-- b. het opleidingsprogramma voldoet aan [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048409&artikel=4&z=2023-07-18&g=2023-07-18);
+7. De aanvraag per statushouder gaat vergezeld van een verklaring waarin het bevoegd gezag verklaart dat:
 
-- c. de scholings- en begeleidingsovereenkomst voldoet aan [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048409&artikel=4&z=2023-07-18&g=2023-07-18).
+- a. de statushouder beschikt over documenten waaruit blijkt dat de statushouder voldoet aan [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048409&artikel=4&z=2024-05-25&g=2024-05-25);
 
-6. Indien een aanvraag onvolledig is, krijgt de aanvrager onder toepassing van [artikel 4:5, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) tien werkdagen de tijd om de aanvraag aan te vullen.
+- b. het opleidingsprogramma voldoet aan [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048409&artikel=4&z=2024-05-25&g=2024-05-25);
+
+- c. de scholings- en begeleidingsovereenkomst voldoet aan [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048409&artikel=4&z=2024-05-25&g=2024-05-25).
+
+8. Indien een aanvraag onvolledig is, krijgt de aanvrager onder toepassing van [artikel 4:5, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) tien werkdagen de tijd om de aanvraag aan te vullen.
 
 ##### Artikel 6. Subsidieplafond en verdeling
 
-1. Voor het verstrekken van subsidie is voor het kalenderjaar 2023 in totaal een bedrag beschikbaar van ten hoogste € 1.000.000,–.
+1. Voor het verstrekken van subsidie is voor de kalenderjaren 2023 en 2024 jaarlijks een bedrag beschikbaar van ten hoogste € 1.000.000,–.
 
-2. De minister verdeelt het beschikbare bedrag op volgorde van binnenkomst van de aanvragen voor maximaal twee statushouders per bevoegd gezag.
+2. De minister verdeelt het beschikbare bedrag op volgorde van binnenkomst van de aanvragen voor maximaal vijf statushouders per bevoegd gezag.
 
-3. Indien het voor subsidieverstrekking beschikbare bedrag na toepassing van het tweede lid niet is uitgeput, worden de aanvragen in afwijking van het tweede lid verdeeld over een derde aanvraag per bevoegd gezag en vervolgens elke volgende statushouder, tot een maximum van tien aanvragen per bevoegd gezag. Hierbij wordt beslist in volgorde van binnenkomst van de aanvragen.
+3. Indien het voor subsidieverstrekking beschikbare bedrag na toepassing van het tweede lid niet is uitgeput, worden de aanvragen in afwijking van het tweede lid verdeeld over een zesde aanvraag per bevoegd gezag en vervolgens elke volgende statushouder, tot een maximum van tien aanvragen per bevoegd gezag. Hierbij wordt beslist in volgorde van binnenkomst van de aanvragen.
 
 ##### Artikel 7. Subsidiebedrag
 
@@ -146,7 +150,7 @@ In aanvulling op [hoofdstuk 5 van de Kaderregeling](https://wetten.overheid.nl/j
 
 - 2. Indien de statushouder tussentijds stopt met het ondersteuningsprogramma meldt de subsidieontvanger dit aan de minister. In dat geval kan de minister de subsidie lager vaststellen;
 
-- 3. De subsidieontvanger maakt er bij de minister melding van, indien de statushouder het ondersteuningsprogramma voortzet in dienst van een ander bevoegd gezag. In dat geval kan de minister de subsidie lager vaststellen en het resterende subsidiebedrag verstrekken aan het bevoegd gezag waarbij de statushouder het ondersteuningsprogramma voortzet;
+- 3. De subsidieontvanger maakt er bij de minister melding van, indien de statushouder het ondersteuningsprogramma voortzet in dienst van een ander bevoegd gezag. In dat geval kan de subsidieontvanger de subsidie aanwenden om de statushouder het ondersteuningsprogramma te laten voortzetten bij dat andere bevoegd gezag. De minister kan hiertoe een formulier beschikbaar stellen.
 
 - 4. de subsidiabele activiteiten worden uiterlijk binnen twee jaar na de subsidieverstrekking afgerond.
 
@@ -156,7 +160,7 @@ In aanvulling op [hoofdstuk 5 van de Kaderregeling](https://wetten.overheid.nl/j
 
 2. De minister betaalt het gehele subsidiebedrag in één keer.
 
-3. De minister betaalt het subsidiebedrag binnen vier weken na de vaststelling.
+3. De minister bepaalt in de vaststellingsbeschikking de betalingstermijn.
 
 4. Als de activiteiten zijn uitgevoerd en aan de subsidieverplichtingen is voldaan, kan het niet aangewende deel van de subsidie worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt.
 
