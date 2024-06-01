@@ -4,7 +4,7 @@ identifier: "BWBR0049639"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-09-17"
-last_updated: "2024-05-01"
+last_updated: "2024-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049639"
 soort: "ministeriele-regeling"
@@ -44,17 +44,15 @@ Wijzigt de Regeling beheer rijkscollectie en subsidiëring museale instellingen.
 
 Wijzigt de Regeling op het specifiek cultuurbeleid.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel III. Overgangsbepalingen
 
-Dit onderdeel is nog niet inwerking getreden
+[Hoofdstuk 3, paragraaf 2, van de Regeling beheer rijkscollectie en subsidiëring museale instellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3), zoals dit luidde op de dag voorafgaand aan het tijdstip van inwerkingtreding van de [Subsidieregeling culturele basisinfrastructuur 2025–2028](https://wetten.overheid.nl/jci1.3:c:BWBR0048968), blijft van toepassing op de subsidies voor publieksactiviteiten en andere activiteiten die zijn verstrekt op grond van [artikel 3.14 van de Regeling beheer rijkscollectie en subsidiëring museale instellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&artikel=3.14) juncto [artikel 4a van de Wet op het specifiek cultuurbeleid voor de jaren 2021 tot en met 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=4a).
 
 ##### Artikel IV. Inwerkingtreding
 
-1. [Artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0049639&artikel=I&z=2024-05-01&g=2024-05-01), van deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 19 september 2023.
+1. [Artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0049639&artikel=I&z=2024-06-01&g=2024-06-01), van deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 19 september 2023.
 
-2. [Artikel I, onderdelen B, C, D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0049639&artikel=I&z=2024-05-01&g=2024-05-01), treden in werking met ingang van 19 september 2024.
+2. [Artikel I, onderdelen B, C, D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0049639&artikel=I&z=2024-06-01&g=2024-06-01), treden in werking met ingang van 19 september 2024.
 
 Gelet op de [artikelen 7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=7.5) en [7.7, eerste lid, van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=7.7), [artikel 4a van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=4a) en [artikel 4 van het Besluit op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027600&artikel=4);
 
