@@ -4,7 +4,7 @@ identifier: "BWBR0046665"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-06-25"
-last_updated: "2022-05-18"
+last_updated: "2024-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046665"
 soort: "zbo"
@@ -133,7 +133,7 @@ Een aanvraag kan worden gedaan door een rechtspersoon die artistiek en financiee
 
 ##### Artikel 2.5. Verdeling budget productiebijdrage
 
-1. Het bestuur kan, onverminderd het bepaalde in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0046665&paragraaf=2&artikel=2.4&z=2022-05-18&g=2022-05-18), aan een aanvrager een aanvullende productiebijdrage verstrekken voor podia die (co)produceren of bijdragen aan talentontwikkeling.
+1. Het bestuur kan, onverminderd het bepaalde in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0046665&paragraaf=2&artikel=2.4&z=2022-05-18&g=2024-06-01), aan een aanvrager een aanvullende productiebijdrage verstrekken voor podia die (co)produceren of bijdragen aan talentontwikkeling.
 
 2. De adviescommissies dragen per landsdeel een beperkt aantal podia voor dat in aanmerking komt voor een aanvullende productiebijdrage. De adviescommissies doen hun voordracht op basis van een bij de aanvraag ingediend plan waarin de in lid 1 bedoelde (co)producerende rol van het podium of bijdrage aan talentontwikkeling door het podium is toegelicht.
 
