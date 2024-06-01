@@ -4,7 +4,7 @@ identifier: "BWBR0025897"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-01"
-last_updated: "2009-07-01"
+last_updated: "2024-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025897"
 soort: "ministeriele-regeling"
@@ -46,3 +46,9 @@ Besluit:
 2. Aan de andere leden van de Adviescommissie Kredietcommissie wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 16 van [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en de arbeidsduurfactor op 0,17.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
+
+##### Artikel 1
+
+1. Aan de voorzitter van de Adviescommissie Kredietcommissie wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18 van paragraaf 6.3 van de CAO Rijk en de arbeidsduurfactor op 0,085.
+
+2. Aan de andere leden van de Adviescommissie Kredietcommissie wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 16 van paragraaf 6.3 van de CAO Rijk en de arbeidsduurfactor op 0,085.
