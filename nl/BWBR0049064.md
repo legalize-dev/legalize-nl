@@ -4,7 +4,7 @@ identifier: "BWBR0049064"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2024-01-01"
+last_updated: "2024-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049064"
 soort: "ministeriele-regeling"
@@ -114,7 +114,7 @@ In dit hoofdstuk wordt verstaan onder bruidsschat: het tijdelijke deel van het o
 
 In aanvulling op artikel 22.33, eerste lid, onder a en b, van de bruidsschat wordt de omgevingsvergunning ook geweigerd, als voor de locatie waarop de aanvraag betrekking heeft voor de dag van ontvangst van de aanvraag:
 
-- a. een ontwerp van een bestemmingsplan of van een inpassingsplan ter inzage is gelegd en de termijn voor de vaststelling van het bestemmingsplan of inpassingsplan ingevolge [artikel 3.8, eerste lid, onder e, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.8) op het tijdstip van het nemen van de beslissing op de aanvraag niet is overschreden;
+- a. een ontwerp van een bestemmingsplan of van een inpassingsplan ter inzage is gelegd en de termijn voor de vaststelling van het bestemmingsplan of inpassingsplan ingevolge [artikel 3.8, eerste lid, onder d, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.8) op het tijdstip van het nemen van de beslissing op de aanvraag niet is overschreden;
 
 - b. een bestemmingsplan of inpassingsplan is vastgesteld en de termijn voor de bekendmaking van het bestemmingsplan of inpassingsplan na de vaststelling ingevolge [artikel 3.8, derde, vierde of zesde lid, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.8) op het tijdstip van het nemen van de beslissing op de aanvraag niet is overschreden; of
 
@@ -132,7 +132,7 @@ In aanvulling op artikel 22.55 van de bruidsschat is paragraaf 22.3.4 van de bru
 
 In aanvulling op artikel 22.278, eerste lid, onder a en b, van de bruidsschat wordt de omgevingsvergunning ook geweigerd, als voor de locatie waarop de aanvraag betrekking heeft voor de dag van ontvangst van de aanvraag:
 
-- a. een ontwerp van een bestemmingsplan of van een inpassingsplan ter inzage is gelegd en de termijn voor de vaststelling van het bestemmingsplan of inpassingsplan ingevolge [artikel 3.8, eerste lid, onder e, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.8) op het tijdstip van het nemen van de beslissing op de aanvraag niet is overschreden;
+- a. een ontwerp van een bestemmingsplan of van een inpassingsplan ter inzage is gelegd en de termijn voor de vaststelling van het bestemmingsplan of inpassingsplan ingevolge [artikel 3.8, eerste lid, onder d, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.8) op het tijdstip van het nemen van de beslissing op de aanvraag niet is overschreden;
 
 - b. een bestemmingsplan of inpassingsplan is vastgesteld en de termijn voor de bekendmaking van het bestemmingsplan of inpassingsplan na de vaststelling ingevolge [artikel 3.8, derde, vierde of zesde lid, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.8) op het tijdstip van het nemen van de beslissing op de aanvraag niet is overschreden; of
 
@@ -158,7 +158,7 @@ In aanvulling op [artikel 4.2, eerste en vijfde lid, van de Aanvullingswet grond
 
 In aanvulling op [artikel 4.6 van de Aanvullingswet grondeigendom Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043371&artikel=4.6) geldt een lijst der geldelijke regelingen als bedoeld in [artikel 47 van de Wet inrichting landelijk gebied](https://wetten.overheid.nl/jci1.3:c:BWBR0020748&artikel=47) als een besluit geldelijke regelingen als bedoeld in [artikel 12.36 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=12.36).
 
-### Hoofdstuk 6. Aanvullingen op [hoofdstuk 2 van de Aanvullingswet natuur Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0044063&hoofdstuk=2)
+### Hoofdstuk 4. Aanvullingen op [hoofdstuk 3 van de Aanvullingswet geluid Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043247&hoofdstuk=3)
 
 ### Hoofdstuk 7. Slotbepalingen
 
@@ -190,7 +190,7 @@ De aanvullingen en afwijkingen in dit hoofdstuk zijn van overeenkomstige toepass
 
 ### Hoofdstuk 4. Aanvullingen op [hoofdstuk 3 van de Aanvullingswet geluid Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043247&hoofdstuk=3)
 
-### Hoofdstuk 6. Aanvullingen op [hoofdstuk 2 van de Aanvullingswet natuur Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0044063&hoofdstuk=2)
+### Hoofdstuk 4. Aanvullingen op [hoofdstuk 3 van de Aanvullingswet geluid Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043247&hoofdstuk=3)
 
 ### Hoofdstuk 7. Slotbepalingen
 
@@ -207,6 +207,34 @@ In aanvulling op [paragraaf 4.3.5 van de wet](https://wetten.overheid.nl/jci1.3:
 ##### Artikel 1.8a. (aanvulling [artikel 4.106a](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&artikel=4.106a) – overgangsbepaling besluit afzien coördinatie uitvoeringsbesluiten coördinatieregeling provincie of Rijk)
 
 In aanvulling op [artikel 4.106a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&artikel=4.106a) geldt een besluit dat is genomen bij de toepassing van een procedure als bedoeld in [artikel 3.33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.33), of [3.35, eerste lid, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.35) om de voorbereiding en bekendmaking van nader aan te duiden, op aanvraag of ambtshalve te nemen besluiten niet te coördineren, als een besluit om geen toepassing te geven aan [artikel 5.45, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.45).
+
+### Hoofdstuk 2. Aanvullingen op [hoofdstuk 22 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&hoofdstuk=22)
+
+### Hoofdstuk 7. Slotbepalingen
+
+### Hoofdstuk 7. Slotbepalingen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1.3b. (aanvulling [artikel 2.45](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&artikel=2.45) – ontvanger vergoeding overschrijding hoeveelheid emissies)
+
+In afwijking van [artikel 2.45, onder BM, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&artikel=2.45) wordt in [artikel 15.52 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.52) in plaats van Onze Minister gelezen: Onze Minister van Economische Zaken en Klimaat.
+
+### Hoofdstuk 2. Aanvullingen op [hoofdstuk 22 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&hoofdstuk=22)
+
+##### Artikel 2.4a. (aanvulling artikel 22.61a – gegevens en bescheiden voor activiteiten op een industrieterrein waarvoor geluidproductieplafonds zijn vastgesteld)
+
+In aanvulling op artikel 22.61a van de bruidsschat geldt dat artikel ook voor activiteiten die worden verricht op een industrieterrein waarvoor geluidproductieplafonds als omgevingswaarden zijn vastgesteld.
+
+### Hoofdstuk 3. Aanvullingen op [hoofdstuk 3 van de Aanvullingswet bodem Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043277&hoofdstuk=3)
+
+### Hoofdstuk 5. Aanvullingen op [hoofdstuk 4 van de Aanvullingswet grondeigendom Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043371&hoofdstuk=4)
+
+### Hoofdstuk 6. Aanvullingen op [hoofdstuk 2 van de Aanvullingswet natuur Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0044063&hoofdstuk=2)
+
+##### Artikel 7.1a. (vervallen bij inwerkingtreding Energiewet)
+
+[Artikel 1.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0049064&hoofdstuk=1&artikel=1.3a&z=2024-06-01&g=2024-06-01) vervalt indien het bij koninklijke boodschap van 9 juni 2023 ingediende voorstel van wet houdende regels over energiemarkten en energiesystemen (Energiewet) tot wet is of wordt verheven en artikel 3.82 van die wet in werking treedt.
 
 ### Hoofdstuk 2. Aanvullingen op [hoofdstuk 22 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&hoofdstuk=22)
 
