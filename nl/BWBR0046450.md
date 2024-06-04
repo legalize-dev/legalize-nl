@@ -4,7 +4,7 @@ identifier: "BWBR0046450"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-04"
-last_updated: "2022-03-23"
+last_updated: "2024-06-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046450"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-Van aan het hoofd van de sector Juridische Zaken en Wetgevingsbeleid verleende ondermandaat, bedoeld in [artikel 1 van het Ondermandaatbesluit DWJZ Ministerie van Justitie en Veiligheid 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046449&artikel=1), wordt ondermandaat verleend aan de strategisch raadadviseur, belast met wetgevingstoetsing, de strategisch raadsadviseur, belast met de coördinatie van de behandeling van juridische procedures, en de Juridisch Adviseur, werkzaam bij de sector Juridische Zaken en Wetgevingsbeleid.
+Van aan het hoofd van de sector Juridische Zaken en Wetgevingsbeleid verleende ondermandaat, bedoeld in [artikel 1 van het Ondermandaatbesluit DWJZ Ministerie van Justitie en Veiligheid 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046449&artikel=1), wordt ondermandaat verleend aan de strategisch raadadviseur, belast met wetgevingstoetsing, de coördinerend raadadviseur, belast met wetgevingstoetsing, de raadadviseur/strategisch beleidsmedewerker belast met de coördinatie van juridische zaken, en de Juridisch Adviseur, werkzaam bij de sector Juridische Zaken en Wetgevingsbeleid.
 
 ##### Artikel 2
 
