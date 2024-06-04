@@ -4,7 +4,7 @@ identifier: "BWBR0049755"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-04"
-last_updated: "2024-04-01"
+last_updated: "2024-06-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049755"
 soort: "ministeriele-regeling"
@@ -196,11 +196,11 @@ De regiegroep heeft tot taak:
 
 ##### Artikel 8. Programmaplan
 
-1. De regiegroep is verantwoordelijk voor het tijdig opstellen van een vierjarig programmaplan, passend bij de taken zoals benoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049755&artikel=3&z=2024-06-04&g=2024-04-01), waarin de regiegroep haar aanpak voor de periode van 2024 tot en met 2027 beschrijft.
+1. De regiegroep is verantwoordelijk voor het tijdig opstellen van een vierjarig programmaplan, passend bij de taken zoals benoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049755&artikel=3&z=2024-06-04&g=2024-06-04), waarin de regiegroep haar aanpak voor de periode van 2024 tot en met 2027 beschrijft.
 
 2. Het programmaplan is een plan van de regiegroep ter bevordering van sociale veiligheid in het hoger onderwijs en de wetenschap voor de kalenderjaren 2024 tot en met 2027.
 
-3. Het programmaplan beschrijft de doelen en te behalen resultaten en beschrijft hoe de doelen en resultaten bijdragen aan het realiseren van de beleidsdoelen uit de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0049755&artikel=7&z=2024-06-04&g=2024-04-01) aangehaalde ‘Aanpak monitoring en evaluatie van de voortgang op doelen van het onderzoeks- en wetenschapsbeleid’ en beschrijft hoe de voortgang op het behalen van de doelen uit het programmaplan gemonitord gaat worden.
+3. Het programmaplan beschrijft de doelen en te behalen resultaten en beschrijft hoe de doelen en resultaten bijdragen aan het realiseren van de beleidsdoelen uit de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0049755&artikel=7&z=2024-06-04&g=2024-06-04) aangehaalde ‘Aanpak monitoring en evaluatie van de voortgang op doelen van het onderzoeks- en wetenschapsbeleid’ en beschrijft hoe de voortgang op het behalen van de doelen uit het programmaplan gemonitord gaat worden.
 
 4. In het totaal van de doelen en resultaten uit het programmaplan worden de volgende aspecten meegenomen:
 
@@ -240,7 +240,7 @@ De regiegroep heeft tot taak:
 
 ##### Artikel 11. Vergoeding
 
-1. De voorzitter en de onafhankelijke experts ontvangen vanaf het moment van hun benoeming een vaste vergoeding per maand conform [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049755&bijlage=1&z=2024-06-04&g=2024-04-01). De toepasselijke salarisschaal is de hoogste trede van salarisschaal 18 conform de vigerende cao Rijk.
+1. De voorzitter en de onafhankelijke experts ontvangen vanaf het moment van hun benoeming een vaste vergoeding per maand conform [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049755&bijlage=1&z=2024-06-04&g=2024-06-04). De toepasselijke salarisschaal is de hoogste trede van salarisschaal 18 conform de vigerende cao Rijk.
 
 2. De door de convenantpartners voorgedragen leden ontvangen geen vaste vergoeding.
 
