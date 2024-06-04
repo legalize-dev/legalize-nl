@@ -4,7 +4,7 @@ identifier: "BWBV0006839"
 country: "nl"
 rank: "verdrag"
 publication_date: "2024-06-04"
-last_updated: "2008-07-02"
+last_updated: "2024-06-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006839"
 soort: "verdrag"
@@ -52,7 +52,7 @@ Tenzij uit het zinsverband anders volgt, wordt in dit Verdrag verstaan onder:
 
 - „CARICOM”: de Caribische Gemeenschap;
 
-- „CDEMA”: het Caribische Noodhulp Management Agentschap (Caribbean Disaster Emergency Management Agency), opgericht ingevolge [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBV0006839&artikel=II&z=2008-07-02&g=2008-07-02);
+- „CDEMA”: het Caribische Noodhulp Management Agentschap (Caribbean Disaster Emergency Management Agency), opgericht ingevolge [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBV0006839&artikel=II&z=2024-06-04&g=2024-06-04);
 
 - „CDERA”: het Caribisch Agentschap voor Spoedhulp bij Rampen (Caribbean Disaster Emergency Response Agency), een instantie van de Gemeenschap die erkend wordt ingevolge artikel 21 van het Verdrag van Chaguaramas;
 
@@ -64,11 +64,11 @@ Tenzij uit het zinsverband anders volgt, wordt in dit Verdrag verstaan onder:
 
 - „rampenbeheersing”: het ontwikkelen en uitvoeren van regionaal en nationaal beleid om de gevolgen van rampen te voorkomen en te mitigeren;
 
-- „uitvoerend directeur”: de uitvoerend directeur van CDEMA benoemd overeenkomstig [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBV0006839&artikel=VII&z=2008-07-02&g=2008-07-02);
+- „uitvoerend directeur”: de uitvoerend directeur van CDEMA benoemd overeenkomstig [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBV0006839&artikel=VII&z=2024-06-04&g=2024-06-04);
 
-- „fonds”: het fonds voor noodhulp opgericht ingevolge [artikel XXVI](https://wetten.overheid.nl/jci1.3:c:BWBV0006839&artikel=XXVI&z=2008-07-02&g=2008-07-02);
+- „fonds”: het fonds voor noodhulp opgericht ingevolge [artikel XXVI](https://wetten.overheid.nl/jci1.3:c:BWBV0006839&artikel=XXVI&z=2024-06-04&g=2024-06-04);
 
-- „comité van beheer van de raad of MCC”: het comité dat door de raad is ingesteld en benoemd ingevolge [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBV0006839&artikel=VII&z=2008-07-02&g=2008-07-02);
+- „comité van beheer van de raad of MCC”: het comité dat door de raad is ingesteld en benoemd ingevolge [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBV0006839&artikel=VII&z=2024-06-04&g=2024-06-04);
 
 - „nationaal agentschap voor rampenbeheersing”: de overheidsinstantie die verantwoordelijk is voor rampenbeheersing;
 
@@ -80,7 +80,7 @@ Tenzij uit het zinsverband anders volgt, wordt in dit Verdrag verstaan onder:
 
 - „staat”: een niet-politiek onafhankelijk gebied in de Caribische regio;
 
-- „TAC”: het technisch adviescomité bedoeld in [artikel X](https://wetten.overheid.nl/jci1.3:c:BWBV0006839&artikel=X&z=2008-07-02&g=2008-07-02); en
+- „TAC”: het technisch adviescomité bedoeld in [artikel X](https://wetten.overheid.nl/jci1.3:c:BWBV0006839&artikel=X&z=2024-06-04&g=2024-06-04); en
 
 - „Verdrag van Chaguaramas”: het Herziene Verdrag van Chaguaramas tot oprichting van de Caribische Gemeenschap, met inbegrip van de gemeenschappelijke markt en economie van de Caricom, ondertekend te Nassau, Bahama's, op 5 juli 2001.
 
@@ -100,7 +100,7 @@ Het lidmaatschap van CDEMA staat open voor:
 
 - a. de staten en grondgebieden die vermeld staan in de Bijlage; en
 
-- b. andere staten in de Caribische regio die door het MCC uit hoofde van [artikel XXXIX](https://wetten.overheid.nl/jci1.3:c:BWBV0006839&artikel=XXXIX&z=2008-07-02&g=2008-07-02) worden voorgedragen voor lidmaatschap.
+- b. andere staten in de Caribische regio die door het MCC uit hoofde van [artikel XXXIX](https://wetten.overheid.nl/jci1.3:c:BWBV0006839&artikel=XXXIX&z=2024-06-04&g=2024-06-04) worden voorgedragen voor lidmaatschap.
 
 ##### Artikel V. Doelstellingen
 
@@ -318,7 +318,7 @@ De coördinerende eenheid heeft haar hoofdkwartier op de locatie waartoe de raad
 
 ##### Artikel XVI. Subregionale operationele eenheden voor noodhulp
 
-1. Wanneer, ingevolge [artikel VII, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBV0006839&artikel=VII&z=2008-07-02&g=2008-07-02)1)[Red.] Kennelijk wordt hier artikel VIII, onderdeel c bedoeld., de raad subregionale operationele eenheden voor noodhulp heeft aangewezen, hebben deze eenheden de volgende taken:
+1. Wanneer, ingevolge [artikel VII, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBV0006839&artikel=VII&z=2024-06-04&g=2024-06-04)1)[Red.] Kennelijk wordt hier artikel VIII, onderdeel c bedoeld., de raad subregionale operationele eenheden voor noodhulp heeft aangewezen, hebben deze eenheden de volgende taken:
 
 - a. verwerven, bijhouden en actualiseren van uitgebreide informatie over de faciliteiten en diensten die beschikbaar zijn in elk van de deelnemende staten waarvoor zij verantwoordelijkheid dragen;
 
