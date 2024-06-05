@@ -4,7 +4,7 @@ identifier: "BWBR0038113"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-05"
-last_updated: "2024-01-01"
+last_updated: "2024-06-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038113"
 soort: "ministeriele-regeling"
@@ -46,19 +46,19 @@ In deze regeling wordt verstaan onder in-vitrofertilisatie: het tot stand brenge
 
 ##### Artikel 2. Behoefteraming
 
-De omvang van de behoefte aan in-vitrofertilisatie en de wijze waarop in deze behoefte kan worden voorzien, zijn neergelegd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038113&bijlage=1&z=2024-06-05&g=2024-01-01).
+De omvang van de behoefte aan in-vitrofertilisatie en de wijze waarop in deze behoefte kan worden voorzien, zijn neergelegd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038113&bijlage=1&z=2024-06-05&g=2024-06-05).
 
 ##### Artikel 3. Voorwaarden
 
-De voorwaarden die gesteld worden aan een vergunningaanvraag zijn neergelegd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038113&bijlage=2&z=2024-06-05&g=2024-01-01).
+De voorwaarden die gesteld worden aan een vergunningaanvraag zijn neergelegd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038113&bijlage=2&z=2024-06-05&g=2024-06-05).
 
 ##### Artikel 4. Verleningprocedure
 
-De vergunningverleningprocedure is neergelegd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038113&bijlage=2&z=2024-06-05&g=2024-01-01).
+De vergunningverleningprocedure is neergelegd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038113&bijlage=2&z=2024-06-05&g=2024-06-05).
 
 ##### Artikel 5. Voorschriften
 
-De voorschriften behorend bij een vergunning voor in-vitrofertilisatie zijn neergelegd in de beleidsregels in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038113&bijlage=3&z=2024-06-05&g=2024-01-01).
+De voorschriften behorend bij een vergunning voor in-vitrofertilisatie zijn neergelegd in de beleidsregels in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038113&bijlage=3&z=2024-06-05&g=2024-06-05).
 
 ##### Artikel 6. Overgangsrecht
 
@@ -80,9 +80,11 @@ Deze regeling wordt aangehaald als: Planningsbesluit in-vitrofertilisatie 2016.
 
 De omvang van de behoefte van patiënten voor in-vitrofertilisatie voor de periode 2016–2020 is geraamd op 15.000 verrichtingen per jaar. In deze behoefte wordt voorzien door middel van een vergunningstelsel waarbij alleen dat aantal zorginstellingen een vergunning krijgt, dat nodig is om kwalitatief optimaal en met voldoende landelijke spreiding in de vraag naar in-vitrofertilisatie te kunnen voorzien. Op dit moment zijn er 13 vergunningen verleend. Om te bepalen voor hoeveel vergunningen er nu ruimte is en beheerste groei mogelijk te maken, wordt uitgegaan van het gemiddeld aantal verrichtingen per centrum ten tijde van het vorige [planningsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009523). Dit aantal lag afgerond op 960 (~12.500 verrichtingen / 13 vergunning-houders). Inmiddels ligt het aantal verrichtingen op 15.000. Als we deze groei in het aantal IVF-verrichtingen doorvertalen naar het aantal vergunningen resulteert dat in een aantal van ten hoogste (15.000/960 =) 16 af te geven vergunningen.
 
+Met de bestuurlijke fusie van het Academisch Medisch Centrum en het VU Medisch Centrum is het aantal centra niet gewijzigd. De eerder aan beide instellingen verleende vergunningen voor het uitvoeren van de betreffende verrichtingen zijn op naam gesteld van Stichting Amsterdam UMC, geldig voor de locatie AMC respectievelijk locatie VUmc.
+
 ## Bijlage 2
 
-Voordat wordt overgegaan tot vergunningverlening, toont de aanvrager aan dat hij zal kunnen voldoen aan de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038113&bijlage=3&z=2024-06-05&g=2024-01-01) gestelde vergunningvoorschriften. De Minister vraagt daarbij advies van de Inspectie gezondheidszorg en jeugd. Vergunningaanvragen worden behandeld volgens de [Regeling vergunningprocedure bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0009846). Vergunningaanvragen worden behandeld op volgorde van binnenkomst. Nadat het maximum is bereikt, worden de opvolgende aanvragen afgewezen.
+Voordat wordt overgegaan tot vergunningverlening, toont de aanvrager aan dat hij zal kunnen voldoen aan de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038113&bijlage=3&z=2024-06-05&g=2024-06-05) gestelde vergunningvoorschriften. De Minister vraagt daarbij advies van de Inspectie gezondheidszorg en jeugd. Vergunningaanvragen worden behandeld volgens de [Regeling vergunningprocedure bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0009846). Vergunningaanvragen worden behandeld op volgorde van binnenkomst. Nadat het maximum is bereikt, worden de opvolgende aanvragen afgewezen.
 
 ## Bijlage 3
 
@@ -108,4 +110,4 @@ Aan een vergunning voor in-vitrofertilisatie worden in elk geval de volgende voo
 
 - 6. Vergezeld van documenten die dat bewijzen, toont de vergunninghouder aan dat uiterlijk 12 maanden na afgifte van de vergunning gestart is met het uitvoeren van in-vitrofertilisatie.
 
-Deze regeling zal met de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0038113&bijlage=1&z=2024-06-05&g=2024-01-01) en de toelichting in de Staatscourant worden geplaatst.
+Deze regeling zal met de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0038113&bijlage=1&z=2024-06-05&g=2024-06-05) en de toelichting in de Staatscourant worden geplaatst.
