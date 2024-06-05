@@ -4,7 +4,7 @@ identifier: "BWBR0049759"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-05"
-last_updated: "2024-01-01"
+last_updated: "2024-06-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049759"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **archiefbescheiden:** archiefbescheiden als bedoeld in [artikel 1, onderdeel c, onder 1°, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1);
 
-- b. **commissie:** Commissie Beschermde Cultuurgoederen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049759&artikel=2&z=2024-06-05&g=2024-01-01);
+- b. **commissie:** Commissie Beschermde Cultuurgoederen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049759&artikel=2&z=2024-06-05&g=2024-06-05);
 
 - c. **cultuurgoed:** roerende zaak die deel uitmaakt van cultureel erfgoed ([artikel 1.1 Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=1.1));
 
