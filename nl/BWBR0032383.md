@@ -4,7 +4,7 @@ identifier: "BWBR0032383"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-05"
-last_updated: "2024-01-01"
+last_updated: "2024-06-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032383"
 soort: "ministeriele-regeling"
@@ -41,7 +41,7 @@ Besluit:
 
 ##### Artikel 1
 
-Er bestaat behoefte aan maximaal tien centra voor bijzondere perinatologische zorg.
+Er bestaat behoefte aan maximaal negen centra voor bijzondere perinatologische zorg.
 
 ##### Artikel 2
 
@@ -49,7 +49,7 @@ De wijze waarop in de behoefte aan centra voor bijzondere perinatologische zorg 
 
 ##### Artikel 3
 
-Voor het uitvoeren van de verrichtingen als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032383&artikel=1&z=2018-08-01&g=2024-01-01) gelden de voorwaarden zoals aangegeven in de bijlage bij deze regeling.
+Voor het uitvoeren van de verrichtingen als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032383&artikel=1&z=2024-06-05&g=2024-06-05) gelden de voorwaarden zoals aangegeven in de bijlage bij deze regeling.
 
 ##### Artikel 4
 
@@ -95,21 +95,23 @@ De regelgeving voor de neonatale intensive care wordt met het onderhavige planni
 
 De Gezondheidsraad wijst erop dat alles in het werk moet worden gesteld om het huidige capaciteitstekort op te lossen en de capaciteit volledig op de behoefte af te stemmen. Een gedeeltelijke oplossing leidt tot een sub-optimale behandeling van perinatale problemen. Alle middelen dienen te worden gebruikt om de noodzakelijke uitbreiding mogelijk te maken. In dat verband maakt de Gezondheidsraad zich zorgen dat bij de lokale onderhandeling over uitbreiding van de capaciteit het perspectief van een landelijke regie ontbreekt. Daarvoor zou er een meerjarenplan moeten komen, waarin ook het bevorderen van afdoende post-IC HC capaciteit een hoge prioriteit moet krijgen. Ik ben het in deze volstrekt met de Gezondheidsraad eens.
 
-Ik heb met de Vereniging Academische Ziekenhuizen (VAZ) en Zorgverzekeraars Nederland (ZN) afgesproken dat zij gezamenlijk de landelijke regie op zich nemen om de noodzakelijke uitbreiding van IC capaciteit voor pasgeborenen en kinderen op een zo kort mogelijke termijn in de ziekenhuizen te doen realiseren. Ik heb een externe organisatiedeskundige ingeschakeld om als waarnemer namens het departement mede invulling te geven aan die regie. De deskundige (die tevens kinderarts is) zal er aan bijdragen dat het tekort aan IC-plaatsen voor pasgeborenen en ernstig zieke kinderen snel wordt aangepakt en de mogelijkheden van transport van ernstig zieke kinderen worden verbeterd. Daarbij zal hij ook de mogelijkheden van de beide algemene ziekenhuizen waar neonatologie plaatsvindt, uitdrukkelijk betrekken. Ik heb hem in het bijzonder gevraagd om waar nodig ondersteunend en entamerend op te treden en daarbij vooral ook aandacht te geven aan een goede coördinatie en afstemming van de verschillende acties die nodig zijn om de zaken grondig aan te pakken. Het gaat om een totaal-aanpak waarbij alle aspecten betrokken worden. Belangrijke factor daarbij is het opleiden van voldoende medisch en verpleegkundig personeel. Zowel de VAZ als de Nederlandse Vereniging van Ziekenhuizen NVZ (NVZ) hebben in het afgelopen jaar een start gemaakt met een ingrijpende inhaalslag. Die inhaalslag richt zich zowel op een structurele versterking van opleidingen van verpleegkundigen en specialisten als op vergroting van de behandelcapaciteit, in eerste instantie bij de IC's, inclusief neonatologie, maar ook bij bijvoorbeeld OK-faciliteiten. Bij deze aanpak moeten ook de betrokken beroepsgroepen, waaronder de Nederlandse Vereniging voor Kindergeneeskunde en de Nederlandse Vereniging voor Obstetrie en Gynaecologie, betrokken zijn. De organisatiedeskundige dient hierop toe te zien en mij regelmatig verslag te doen van de vorderingen van deze meerjarenaanpak.
+De Gezondheidsraad wijst erop dat alles in het werk moet worden gesteld om het huidige capaciteitstekort op te lossen en de capaciteit volledig op de behoefte af te stemmen. Een gedeeltelijke oplossing leidt tot een sub-optimale behandeling van perinatale problemen. Alle middelen dienen te worden gebruikt om de noodzakelijke uitbreiding mogelijk te maken. In dat verband maakt de Gezondheidsraad zich zorgen dat bij de lokale onderhandeling over uitbreiding van de capaciteit het perspectief van een landelijke regie ontbreekt. Daarvoor zou er een meerjarenplan moeten komen, waarin ook het bevorderen van afdoende post-IC HC capaciteit een hoge prioriteit moet krijgen. Ik ben het in deze volstrekt met de Gezondheidsraad eens.
 
 ### 4. Bekostiging
 
 Eveneens nieuw in dit planningsbesluit is het verband dat gelegd wordt tussen neonatale IC en derdelijns obstetrische zorg en plaatsen voor post-IC HC. In mijn brief aan de voorzitter van de Tweede Kamer d.d. 2 mei 2000 constateer ik dat de ontwikkeling van neonatale intensive care naar centra voor bijzondere perinatologische zorg een goede is. Door de koppeling in dit planningsbesluit wordt hieraan recht gedaan: de neonatale IC wordt niet meer als op zichzelf staande zorg gezien. De relatie tussen de drie typen afdelingen bij de centra voor bijzondere perinatologische zorg is zo duidelijk, dat het gewenst is dat dit in de financiering tot uitdrukking komt. Ik zal het College Tarieven Gezondheidszorg (CTG) verzoeken om de beleidsregels voor neonatale intensive care zodanig te herzien, dat ook een vergoeding plaatsvindt van de hoge kosten voor derdelijns obstetrische zorg en post-IC HC (de post-IC HC kan binnen of buiten het centrum voor bijzondere perinatologische zorg verleend worden) voor zover deze gerelateerd zijn aan de neonatale intensive care. Voor de overige High Care voor pasgeborenen blijft de huidige financiering bestaan en deze zal dus niet onder de nieuwe beleidsregel vallen. Ook de evaluatie van de zorg en de gevolgen van de behandeling op de lange termijn behoren tot de zorgtaak van het centrum en dienen in de nieuwe beleidsregel verdisconteerd te zijn.
 
-Bij het opstellen van deze beleidsregels is een bijdrage van de beroepsverenigingen noodzakelijk omdat duidelijk moet zijn welke kosten voor derdelijns obstetrische zorg en post-IC HC gerelateerd zijn aan de neonatale intensive care en op welke wijze verrekening plaatsvindt voor post-IC HC indien deze opvang niet in het centrum voor bijzondere perinatologische zorg wordt verleend. Op deze wijze kan het centrum voor bijzondere perinatologische zorg ook in financieel opzicht als een geheel beschouwd worden. In het lokaal overleg zullen, net als voor het aantal plaatsen voor neonatale intensive care, afspraken gemaakt moeten worden over het aantal plaatsen voor derdelijns obstetrische zorg en post-IC HC. Voldoende plaatsen voor post-IC HC is van groot belang om doorstroming op de neonatale IC mogelijk te maken.
+Eveneens nieuw in dit planningsbesluit is het verband dat gelegd wordt tussen neonatale IC en derdelijns obstetrische zorg en plaatsen voor post-IC HC. In mijn brief aan de voorzitter van de Tweede Kamer d.d. 2 mei 2000 constateer ik dat de ontwikkeling van neonatale intensive care naar centra voor bijzondere perinatologische zorg een goede is. Door de koppeling in dit planningsbesluit wordt hieraan recht gedaan: de neonatale IC wordt niet meer als op zichzelf staande zorg gezien. De relatie tussen de drie typen afdelingen bij de centra voor bijzondere perinatologische zorg is zo duidelijk, dat het gewenst is dat dit in de financiering tot uitdrukking komt. Ik zal het College Tarieven Gezondheidszorg (CTG) verzoeken om de beleidsregels voor neonatale intensive care zodanig te herzien, dat ook een vergoeding plaatsvindt van de hoge kosten voor derdelijns obstetrische zorg en post-IC HC (de post-IC HC kan binnen of buiten het centrum voor bijzondere perinatologische zorg verleend worden) voor zover deze gerelateerd zijn aan de neonatale intensive care. Voor de overige High Care voor pasgeborenen blijft de huidige financiering bestaan en deze zal dus niet onder de nieuwe beleidsregel vallen. Ook de evaluatie van de zorg en de gevolgen van de behandeling op de lange termijn behoren tot de zorgtaak van het centrum en dienen in de nieuwe beleidsregel verdisconteerd te zijn.
 
 ### 5. Centra
 
 Het gaat om de volgende tien centra voor bijzondere perinatologische zorg:
 
-Elk van de huidige tien centra is in het bezit van een vergunning voor de medische verrichting neonatale intensive care als bedoeld in [artikel 2 van de Wet op de bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&artikel=2). Het centrum voor bijzondere perinatologische zorg van het Leids Universitair Medisch Centrum (LUMC) neemt een opmerkelijke positie in omdat het is verspreid over twee locaties: het LUMC en het Juliana Kinderziekenhuis (JKZ, Stichting Samenwerkende Ziekenhuizen Juliana Kinderziekenhuis/Rode Kruis Ziekenhuis) te Den Haag. Hierdoor zijn er feitelijk 11 centra. Deze situatie is slechts acceptabel indien gewaarborgd is dat het JKZ daadwerkelijk altijd kan terugvallen op het centrum in het LUMC. Garanties dienen aanwezig te zijn dat op beide locaties voldaan wordt aan de randvoorwaarden en kwaliteitseisen om als centrum voor bijzondere perinatologische zorg te functioneren. Ik wil benadrukken dat het centrum in het LUMC/JKZ een uitzonderingspositie bekleedt en dat ik het niet wenselijk acht dat ook in andere ziekenhuizen door middel van vergelijkbare samenwerkingsverbanden afdelingen voor intensive care voor pasgeborenen worden opgezet.
+Het gaat om de volgende negen centra voor bijzondere perinatologische zorg:
 
 ### 6. Uitgangspunten voor uitbreiding
+
+Uitgangspunten voor de beoordeling van initiatieven voor uitbreiding van de opvangmogelijkheden in perinatologische centra dienen te zijn:
 
 Uitgangspunten voor de beoordeling van initiatieven voor uitbreiding van de opvangmogelijkheden in perinatologische centra dienen te zijn:
 
@@ -125,11 +127,11 @@ Samenwerking met buitenlandse instellingen waar bijzondere perinatologische zorg
 
 - De centra dienen ervoor te zorgen dat evaluatie van de zorg en de gevolgen van de behandeling op de lange termijn plaatsvindt.
 
-- De tien centra voor bijzondere perinatologische zorg dienen afspraken over de opvang vast te leggen met de centra voor post-IC HC.
-
-Deze uitgangspunten dienen te worden vastgesteld in het lokaal overleg van de betrokken partijen ter zake.
+- De negen centra voor bijzondere perinatologische zorg dienen afspraken over de opvang vast te leggen met de centra voor post-IC HC.
 
 ### 7. Kwaliteit van perinatologische zorg
+
+Het spreekt voor zich dat de bij het verlenen van bijzondere perinatologische zorg betrokken beroepsgroepen de kwaliteit van de zorg bewaken. In het kader van de [Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173) zijn de centra voor bijzondere perinatologische zorg zelf verantwoordelijk voor het aanbieden van kwalitatief goede en verantwoorde zorg. De Inspectie gezondheidszorg en jeugd heeft hier een controlerende taak. De volgende uitgangspunten acht ik echter van dermate groot belang dat ik ze hier apart noem:
 
 Het spreekt voor zich dat de bij het verlenen van bijzondere perinatologische zorg betrokken beroepsgroepen de kwaliteit van de zorg bewaken. In het kader van de [Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173) zijn de centra voor bijzondere perinatologische zorg zelf verantwoordelijk voor het aanbieden van kwalitatief goede en verantwoorde zorg. De Inspectie gezondheidszorg en jeugd heeft hier een controlerende taak. De volgende uitgangspunten acht ik echter van dermate groot belang dat ik ze hier apart noem:
 
@@ -137,9 +139,35 @@ Het spreekt voor zich dat de bij het verlenen van bijzondere perinatologische zo
 
 - Het centrum is verantwoordelijk voor de zorg in eigen regio en draagt zorg voor verwijzing en zonodig vervoer van patiënten die niet in het centrum in de eigen regio opgevangen kunnen worden. Omdat sprake is van beperkte opvangmogelijkheden, is interregionale samenwerking noodzakelijk om aan alle pasgeborenen adequate zorg te kunnen bieden. Hieronder valt ook het maken van afspraken voor de post-IC HC (binnen en buiten het centrum voor bijzondere perinatologische zorg).
 
-- Landelijke samenwerking op het gebied van onderzoek en gevolgen van behandeling op lange termijn tussen de tien perinatologische centra moet gegarandeerd zijn. Onder meer om effectiviteit van nieuwe behandelingen te onderzoeken alsmede de (langdurige) gevolgen van intensive care bij pasgeborenen. Dit is van groot belang om de onzekerheid over behandelingsgevolgen te minimaliseren.
+- Landelijke samenwerking op het gebied van onderzoek en gevolgen van behandeling op lange termijn tussen de negen perinatologische centra moet gegarandeerd zijn. Onder meer om effectiviteit van nieuwe behandelingen te onderzoeken alsmede de (langdurige) gevolgen van intensive care bij pasgeborenen. Dit is van groot belang om de onzekerheid over behandelingsgevolgen te minimaliseren.
 
-- Landelijk moet er samenwerking zijn die uitmondt in behandelprotocollen die voor alle tien centra gelijk zijn. In de behandelprotocollen moet aandacht zijn voor de wijze waarop de ouders bij de besluitvorming over de behandeling worden betrokken.
+### 8. Realisatie
+
+Met 'Zorg verzekerd' is een aanpak tot stand gebracht op basis van integrale financiële afspraken waarin ruimte zit voor alle soorten van productie-afspraken, dus ook voor WBMV-voorzieningen. Er is derhalve geen afzonderlijk taakstellend WBMV-kader meer. Alleen ten behoeve van een monitoring van de ontwikkelingen worden de WBMV-afspraken nog afzonderlijk bijgehouden. Voor de centra voor bijzondere perinatologische zorg kan dit geschieden middels informatie van de Nederlandse Zorgautoriteit. Voor dit onderwerp wordt bovendien door de VAZ en ZN een landelijke regie gevoerd. Het `boter bij de vis'-principe houdt in dat lokale verzekeraars met de ziekenhuizen productie-afspraken maken over alle zorg die zij voor de verzekerde nodig achten. Afrekening vindt plaats op basis van hetgeen hiervan daadwerkelijk is gerealiseerd. In dit principe wordt ook de WBMV-productie meegenomen.
+
+Deze regeling zal met bijbehorende bijlage en toelichting in de Staatscourant worden geplaatst.
+
+In verband met de bestuurlijke fusie van het Academisch Medisch Centrum en het VU Medisch Centrum voert Stichting Amsterdam UMC het specialisme bijzondere perinatologische zorg uitsluitend nog uit op de locatie AMC. In verband hiermee zijn de eerder aan beide instellingen verleende vergunningen voor het uitvoeren van de betreffende verrichtingen op naam gesteld van Stichting Amsterdam UMC, geldig voor de locatie AMC. Het gaat hier om verplaatsing van zorg zonder gevolgen voor de behandelcapaciteit. Om die reden stel ik de capaciteit bij naar negen centra.
+
+### 3. Aanpak
+
+Ik heb met de Vereniging Academische Ziekenhuizen (VAZ) en Zorgverzekeraars Nederland (ZN) afgesproken dat zij gezamenlijk de landelijke regie op zich nemen om de noodzakelijke uitbreiding van IC capaciteit voor pasgeborenen en kinderen op een zo kort mogelijke termijn in de ziekenhuizen te doen realiseren. Ik heb een externe organisatiedeskundige ingeschakeld om als waarnemer namens het departement mede invulling te geven aan die regie. De deskundige (die tevens kinderarts is) zal er aan bijdragen dat het tekort aan IC-plaatsen voor pasgeborenen en ernstig zieke kinderen snel wordt aangepakt en de mogelijkheden van transport van ernstig zieke kinderen worden verbeterd. Daarbij zal hij ook de mogelijkheden van de beide algemene ziekenhuizen waar neonatologie plaatsvindt, uitdrukkelijk betrekken. Ik heb hem in het bijzonder gevraagd om waar nodig ondersteunend en entamerend op te treden en daarbij vooral ook aandacht te geven aan een goede coördinatie en afstemming van de verschillende acties die nodig zijn om de zaken grondig aan te pakken. Het gaat om een totaal-aanpak waarbij alle aspecten betrokken worden. Belangrijke factor daarbij is het opleiden van voldoende medisch en verpleegkundig personeel. Zowel de VAZ als de Nederlandse Vereniging van Ziekenhuizen NVZ (NVZ) hebben in het afgelopen jaar een start gemaakt met een ingrijpende inhaalslag. Die inhaalslag richt zich zowel op een structurele versterking van opleidingen van verpleegkundigen en specialisten als op vergroting van de behandelcapaciteit, in eerste instantie bij de IC's, inclusief neonatologie, maar ook bij bijvoorbeeld OK-faciliteiten. Bij deze aanpak moeten ook de betrokken beroepsgroepen, waaronder de Nederlandse Vereniging voor Kindergeneeskunde en de Nederlandse Vereniging voor Obstetrie en Gynaecologie, betrokken zijn. De organisatiedeskundige dient hierop toe te zien en mij regelmatig verslag te doen van de vorderingen van deze meerjarenaanpak.
+
+### 4. Bekostiging
+
+Bij het opstellen van deze beleidsregels is een bijdrage van de beroepsverenigingen noodzakelijk omdat duidelijk moet zijn welke kosten voor derdelijns obstetrische zorg en post-IC HC gerelateerd zijn aan de neonatale intensive care en op welke wijze verrekening plaatsvindt voor post-IC HC indien deze opvang niet in het centrum voor bijzondere perinatologische zorg wordt verleend. Op deze wijze kan het centrum voor bijzondere perinatologische zorg ook in financieel opzicht als een geheel beschouwd worden. In het lokaal overleg zullen, net als voor het aantal plaatsen voor neonatale intensive care, afspraken gemaakt moeten worden over het aantal plaatsen voor derdelijns obstetrische zorg en post-IC HC. Voldoende plaatsen voor post-IC HC is van groot belang om doorstroming op de neonatale IC mogelijk te maken.
+
+### 5. Centra
+
+Elk van de negen centra is in het bezit van een vergunning voor de medische verrichting neonatale intensive care als bedoeld in [artikel 2 van de Wet op de bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&artikel=2). Het centrum voor bijzondere perinatologische zorg van het Leids Universitair Medisch Centrum (LUMC) neemt een opmerkelijke positie in omdat het is verspreid over twee locaties: het LUMC en het Juliana Kinderziekenhuis (JKZ, Stichting Samenwerkende Ziekenhuizen Juliana Kinderziekenhuis/Rode Kruis Ziekenhuis) te Den Haag. Hierdoor zijn er feitelijk tien centra. Deze situatie is slechts acceptabel indien gewaarborgd is dat het JKZ daadwerkelijk altijd kan terugvallen op het centrum in het LUMC. Garanties dienen aanwezig te zijn dat op beide locaties voldaan wordt aan de randvoorwaarden en kwaliteitseisen om als centrum voor bijzondere perinatologische zorg te functioneren. Ik wil benadrukken dat het centrum in het LUMC/JKZ een uitzonderingspositie bekleedt en dat ik het niet wenselijk acht dat ook in andere ziekenhuizen door middel van vergelijkbare samenwerkingsverbanden afdelingen voor intensive care voor pasgeborenen worden opgezet.
+
+### 6. Uitgangspunten voor uitbreiding
+
+Deze uitgangspunten dienen te worden vastgesteld in het lokaal overleg van de betrokken partijen ter zake.
+
+### 7. Kwaliteit van perinatologische zorg
+
+- Landelijk moet er samenwerking zijn die uitmondt in behandelprotocollen die voor alle negen centra gelijk zijn. In de behandelprotocollen moet aandacht zijn voor de wijze waarop de ouders bij de besluitvorming over de behandeling worden betrokken.
 
 ### 8. Realisatie
 
