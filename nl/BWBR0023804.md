@@ -4,7 +4,7 @@ identifier: "BWBR0023804"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-05"
-last_updated: "2024-01-01"
+last_updated: "2024-06-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023804"
 soort: "ministeriele-regeling"
@@ -42,11 +42,11 @@ Besluit:
 
 ##### Artikel 1
 
-De omvang van de behoefte aan bijzondere interventies aan het hart, de wijze waarop in deze behoefte kan worden voorzien en de voorschriften waaraan uitvoerende centra moeten voldoen, zijn neergelegd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023804&bijlage=1&z=2024-06-05&g=2024-01-01).
+De omvang van de behoefte aan bijzondere interventies aan het hart, de wijze waarop in deze behoefte kan worden voorzien en de voorschriften waaraan uitvoerende centra moeten voldoen, zijn neergelegd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023804&bijlage=1&z=2024-06-05&g=2024-06-05).
 
 ##### Artikel 2
 
-De gegevens die een instelling bij de aanvraag van een vergunning dient te verstrekken, in aanvulling op de [Regeling vergunningprocedure bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0009846), zijn omschreven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023804&bijlage=2&z=2024-06-05&g=2024-01-01).
+De gegevens die een instelling bij de aanvraag van een vergunning dient te verstrekken, in aanvulling op de [Regeling vergunningprocedure bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0009846), zijn omschreven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023804&bijlage=2&z=2024-06-05&g=2024-06-05).
 
 ##### Artikel 3
 
@@ -68,7 +68,7 @@ Ingevolge [artikel 1, onderdeel e, van de Regeling aanwijzing bijzondere medisch
 
 ### **2. De behoefte en de wijze waarop in de behoefte kan worden voorzien**
 
-### **Hartinterventies bij volwassenen**
+### **2.1.1 Hartinterventies bij volwassenen**
 
 De Gezondheidsraad heeft mij in 2007 geadviseerd over de ‘bijzondere interventies aan het hart’. Het totaal aantal hartchirurgische ingrepen bij volwassenen is gedurende de afgelopen jaren volgens het advies van de Gezondheidsraad gestabiliseerd. De complexiteit van de problemen bij de hartchirurgische patiënten neemt echter toe. In algemene zin wordt aangenomen dat de kwaliteit van zorg positief correleert met het aantal verrichte ingrepen. Gezien de stabilisatie van het aantal ingrepen en de stijging van de complexiteit ligt het in de rede om de huidige concentratie van hartchirurgie voor volwassenen in stand te houden. Deze concentratie wordt in mijn ogen nog onvoldoende gegarandeerd door de beschikbare richtlijnen en kwaliteitseisen van de betrokken beroepsgroepen. Ik ben daarom voornemens om de hartchirurgie voor volwassenen voorlopig onder het regiem van de [WBMV](https://wetten.overheid.nl/jci1.3:c:BWBR0008974) te houden. De huidige situatie, met 17 locaties voor hartchirurgie bij volwassen, biedt in mijn ogen een goede balans tussen concentratie en toegankelijkheid. Er is thans geen sprake van wachttijden. Er is daarom geen behoefte aan extra centra voor hartchirurgie. Ik ben van mening dat de 17 locaties alle zelfstandig aan de gestelde eisen moeten voldoen. Ik ben derhalve voornemens om vergunningen voor hartchirurgie waarbij sprake is van een samenwerking, om te zetten in zelfstandige vergunningen. Dit betekent dat ik Medisch Centrum Leeuwarden en Medisch Centrum Rijnmond Zuid een zelfstandige vergunning zal verlenen, mits zij voldoen aan de in paragraaf 3 gestelde eisen.
 
@@ -82,19 +82,19 @@ Gelet op het bovenstaande ben ik voornemens om het vergunningvereiste voor de PC
 
 ### **Hartinterventies bij kinderen en volwassenen met aangeboren afwijkingen**
 
+De behandelcapaciteit en expertise voor het uitvoeren van bijzondere interventies aan het hart gaat eind 2025 volledig over van de locatie VUmc naar de locatie AMC. Het gaat hier om verplaatsing van zorg zonder gevolgen voor de behandelcapaciteit. Om die reden zal vanaf 1 januari 2026 de capaciteit voor bijzondere hartinterventies bij volwassenen worden bijgesteld naar zestien locaties.
+
+### **2.2 Hartinterventies bij kinderen en volwassenen met aangeboren afwijkingen**
+
+De interventies bij kinderen met een aangeboren hartafwijking en de hoogcomplexe interventies bij volwassenen met een aangeboren hartafwijking nemen in deze regeling een aparte positie in. Het gaat hier om de zorg voor kinderen en volwassen met een aangeboren hartafwijking zoals geclassificeerd in de ICD (International Classification of Diseases). Kinderen zijn daarbij, conform de classificatie, alle patiënten onder de 18 jaar en volwassenen zijn 18 jaar en ouder. Alle operaties en katheterinterventies aan het hart en de grote vaten die nodig zijn bij kinderen met een aangeboren hartafwijking vallen onder deze zorg, bij volwassenen met een aangeboren hartafwijking indien het gaat om de hoogcomplexe interventies. Het is aan de beroepsgroep om te bepalen wanneer sprake is van een hoogcomplexe interventie.
+
 De interventies bij kinderen met een aangeboren hartafwijking en de hoogcomplexe interventies bij volwassenen met een aangeboren hartafwijking betreft zorg voor een relatief kleine groep patiënten met een (vaak zeer) complexe zorgvraag. De behandeling vereist dan ook zeer specialistische kennis, expertise en vaardigheden van de behandelteams.
 
-### **3. De voorschriften waaraan centra moeten voldoen**
+Daarom is het van belang dat deze zorg geconcentreerd is bij een beperkt aantal gespecialiseerde centra, zodat er een goede balans ontstaat tussen de kwaliteit, continuïteit en toegankelijkheid van zorg. Op dit moment zijn er vier centra op vijf locaties voor interventies bij kinderen met een aangeboren hartafwijking en hoogcomplexe interventies bij volwassenen met een aangeboren hartafwijking. De discussie over concentratie van deze interventies kent een lange geschiedenis en er zijn vele adviezen en rapporten hierover geschreven (voor een opsomming wordt verwezen naar de brief aan de Tweede Kamer van 13 februari 2023, Kamerstukken II 31 765, nr. 707, voetnoot 2). Uit die adviezen en rapporten volgt dat er een noodzaak tot (een vorm van) concentratie is omdat er knelpunten met betrekking tot de kwaliteit en continuïteit van de zorg in de nabije toekomst zijn en concentratie een cruciale stap is om de kwaliteit van deze zorg te verbeteren en het risico op vermijdbare sterfgevallen te verminderen. Om tot een structurele en robuuste oplossing te komen, wordt concentratie op twee locaties noodzakelijk geacht. Voor de redenen daartoe wordt verwezen naar de geconsolideerde versie van het voorgenomen besluit, dat als bijlage is gevoegd bij de hiervoor genoemde brief aan de Tweede Kamer van 13 februari 2023. Deze redenen zijn onverkort ook ten grondslag gelegd aan het definitieve besluit. Op basis van zes aspecten, uiteengezet in voornoemd voorgenomen besluit, is afgewogen welke twee van de huidige interventiecentra op het tijdstip van besluitvorming de beste uitgangspositie hebben om de functie van interventiecentrum voor de toekomst te vervullen. Op basis van die afweging kom ik tot het besluit om, met inachtneming van een transitieproces, de interventies te concentreren op de locatie van het Erasmus MC en het UMC Groningen, omdat de combinatie van deze twee locaties leidt tot de meest evenwichtige en optimale toegankelijkheid en bereikbaarheid van zorg voor patiënten met een aangeboren hartafwijkingen in Nederland.
 
 Gelet op het voorgaande bepaal ik dat aan een vergunning als bedoeld in [artikel 2, eerste lid, van de Wet op bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&artikel=2) (Wbmv) die is verleend (of wordt verleend) voor het verrichten van bijzondere interventies aan het hart als bedoeld in [artikel 1, eerste lid, onder e, van de Regeling aanwijzing bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0035311&artikel=1), de beperking wordt verbonden dat deze vergunning zich niet mede uitstrekt tot het verrichten van interventies bij kinderen met een aangeboren hartafwijking en hoogcomplexe interventies bij volwassenen met een aangeboren hartafwijking. Het verrichten van die interventies is uitsluitend voorbehouden aan de instelling die in het bezit is van een vergunning als hiervoor bedoeld en ten aanzien van wie uitdrukkelijk is bepaald dat die vergunning mede strekt tot het verrichten van de betreffende interventies.
 
 Voorts bepaal ik de omvang van de behoefte ten aanzien van de interventies bij kinderen met een aangeboren hartafwijking en de hoogcomplexe interventies bij volwassenen met een aangeboren hartafwijking, met inachtneming van een transitieproces, op twee interventiecentra. In deze behoefte zal, met inachtneming van een transitieproces, worden voorzien door de interventiecentra op de locatie van het Erasmus MC en het UMC Groningen. Ten aanzien van deze twee interventiecentra bepaal ik dus dat de aan hen verleende vergunning voor het verrichten van bijzondere hartinterventies mede strekt tot het verrichten van de betreffende interventies.
-
-Ten aanzien van de andere twee huidige interventiecentra – UMC Utrecht en het samenwerkingsverband tussen het LUMC en het Amsterdam UMC (CAHAL) – bepaal ik dat de aan hen verleende vergunning voor het verrichten van bijzondere hartinterventies mede strekt tot het verrichten van interventies bij kinderen met een aangeboren hartafwijking en de hoogcomplexe interventies bij volwassenen met een aangeboren hartafwijking, doch voor de duur van het transitieproces. De duur van het transitieproces bedraagt in beginsel maximaal 2,5 jaar. De geldigheidsduur van de beperking wordt derhalve bepaald op 2,5 jaar. Na het verstrijken van deze duur – die uitsluitend in het uitzonderlijke geval als dit noodzakelijk is met het oog op een ordentelijke transitie zal worden verlengd – zullen deze instellingen niet langer bevoegd zijn tot het verrichten van de betreffende interventies. Deze instellingen blijven wel bevoegd om interventies uit te voeren bij volwassenen met laag of matig complexe aangeboren hartafwijkingen. Ook controles, poliklinische afspraken, voor- en nazorg en gesprekken over medicatie kunnen plaatsvinden in deze instellingen.
-
-Ten aanzien van de instellingen die op dit moment geen interventiecentrum zijn geldt dat – gelet op het voorgaande – aan de aan hen verleende vergunning voor het verrichten van bijzondere hartinterventies de beperking wordt verbonden dat de vergunning zich niet mede uitstrekt tot het verrichten van interventies bij kinderen met een aangeboren hartafwijking en hoogcomplexe interventies bij volwassenen met een aangeboren hartafwijking. Ook deze instellingen blijven wel bevoegd om interventies uit te voeren bij volwassenen met laag of matig complexe aangeboren hartafwijkingen. Ook controles, poliklinische afspraken, voor- en nazorg en gesprekken over medicatie kunnen plaatsvinden in deze instellingen.
-
-Specifiek voor het UMC Radboud en het Sint Antonius Ziekenhuis geldt dus dat zij bevoegd zijn om de bestaande samenwerking met het Erasmus MC respectievelijk het UMC Utrecht voor het verlenen van bepaalde zorg bij patiënten met een aangeboren hartafwijking voort te zetten.
 
 ## Bijlage 2
 
@@ -118,9 +118,9 @@ Gegevens te verstrekken door instelling bij een aanvraag om een vergunning voor 
 
 Deze regeling zal met de bijbehorende bijlagen en toelichting worden geplaatst in de Staatscourant.
 
-### **Hartinterventies bij kinderen en volwassenen met aangeboren afwijkingen**
+### **2.1.2 Bestuurlijke fusie Amsterdam en bijstelling capaciteit**
 
-De interventies bij kinderen met een aangeboren hartafwijking en de hoogcomplexe interventies bij volwassenen met een aangeboren hartafwijking nemen in deze regeling een aparte positie in. Het gaat hier om de zorg voor kinderen en volwassen met een aangeboren hartafwijking zoals geclassificeerd in de ICD (International Classification of Diseases). Kinderen zijn daarbij, conform de classificatie, alle patiënten onder de 18 jaar en volwassenen zijn 18 jaar en ouder. Alle operaties en katheterinterventies aan het hart en de grote vaten die nodig zijn bij kinderen met een aangeboren hartafwijking vallen onder deze zorg, bij volwassenen met een aangeboren hartafwijking indien het gaat om de hoogcomplexe interventies. Het is aan de beroepsgroep om te bepalen wanneer sprake is van een hoogcomplexe interventie.
+Met de bestuurlijke fusie van het Academisch Medisch Centrum Amsterdam en het VU Medisch Centrum is het aantal van 17 locaties vooralsnog niet gewijzigd. Stichting Amsterdam UMC voert het specialisme openhartchirurgie en bijzondere interventiecardiologie in principe uit op de locatie AMC. De locatie VUmc blijft echter gedurende de transitiefase in gebruik voor (acute) cardiothoracale chirurgie in incidentele gevallen. Uiterlijk 31 december 2025 zullen alle cardiovasculaire zorg en interventies plaatsvinden op de locatie AMC. De eerder aan beide instellingen verleende vergunningen voor het uitvoeren van de betreffende verrichtingen zijn op naam gesteld van Stichting Amsterdam UMC, geldig voor de locatie AMC en tot 31 december 2025 voor locatie VUmc.
 
 ### **3. De voorschriften waaraan centra moeten voldoen**
 
@@ -150,7 +150,41 @@ Deze regeling zal met de bijbehorende bijlagen en toelichting worden geplaatst i
 
 ### **3. De voorschriften waaraan centra moeten voldoen**
 
+Ten aanzien van de instellingen die op dit moment geen interventiecentrum zijn geldt dat – gelet op het voorgaande – aan de aan hen verleende vergunning voor het verrichten van bijzondere hartinterventies de beperking wordt verbonden dat de vergunning zich niet mede uitstrekt tot het verrichten van interventies bij kinderen met een aangeboren hartafwijking en hoogcomplexe interventies bij volwassenen met een aangeboren hartafwijking. Ook deze instellingen blijven wel bevoegd om interventies uit te voeren bij volwassenen met laag of matig complexe aangeboren hartafwijkingen. Ook controles, poliklinische afspraken, voor- en nazorg en gesprekken over medicatie kunnen plaatsvinden in deze instellingen.
+
+Specifiek voor het UMC Radboud en het Sint Antonius Ziekenhuis geldt dus dat zij bevoegd zijn om de bestaande samenwerking met het Erasmus MC respectievelijk het UMC Utrecht voor het verlenen van bepaalde zorg bij patiënten met een aangeboren hartafwijking voort te zetten.
+
+Bij uitspraak van 11 januari 2024 heeft de rechtbank Midden-Nederland (ECLI:NL:RBMNE:2024:51) de besluiten ter uitvoering van de voorgenomen concentratie vernietigd. Bij brief van 21 februari 2024 is de Tweede Kamer hierover geïnformeerd (Kamerstukken II 2023/24, 31 765, nr. 841). In afwachting van verdere stappen blijven de huidige vier centra (op vijf locaties) bevoegd tot het verrichten van de interventies bij kinderen en volwassenen met een aangeboren hartafwijking.
+
+Het verrichten van interventies bij kinderen met een aangeboren hartafwijking en hoogcomplexe interventies bij volwassenen met een aangeboren hartafwijking is – zoals hiervoor is bepaald – uitsluitend voorbehouden aan de instelling die in het bezit is van een vergunning als bedoeld in [artikel 2 Wbmv](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&artikel=2) en ten aanzien van wie uitdrukkelijk is bepaald dat die vergunning mede strekt tot het verrichten van de betreffende interventies. Aan de bevoegdheid om deze interventies te verrichten worden in ieder geval de volgende voorschriften verbonden:
+
 Zoals hierboven besproken, streef ik naar centra waar hartchirurgie, ritmechirurgie en catheterablaties in samenhang worden aangeboden. Uitbreiding van het aantal centra voor hartchirurgie ligt op dit moment niet in de rede. Voor de twee hartchirurgische centra die momenteel niet volledig zelfstandig werken, geldt dat het ene een zelfstandige vergunning kan verkrijgen en dat in de vergunning van het andere centrum de samenwerkingsverplichting zal worden geschrapt, een en ander indien zij aan de eisen voldoen. Voor ritmechirurgie en catheterablaties is een beperkte uitbreiding mogelijk binnen de hartchirurgische centra. De centra moeten voor bovengenoemde aanpassingen van hun vergunning uiteraard wel aantoonbaar voldoen aan de geldende kwaliteitseisen. Ik beschouw de kwaliteitseisen voor hartchirurgie, ritmechirurgie en catheterablaties zoals die zijn genoemd in het advies van de Gezondheidsraad als de standaard.
+
+## Bijlage 2
+
+Gegevens te verstrekken door instelling bij een aanvraag om een vergunning voor het uitvoeren of doen uitvoeren van bijzondere interventies aan het hart, in aanvulling op de [Regeling vergunningprocedure bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0009846), zijn omschreven in bijlage 2.
+
+1. Algemene gegevens van de aanvrager:
+
+- a. Naam van de rechtspersoon, en
+
+- b. Adres.
+
+2. Aangeven in hoeverre en op welke wijze voldaan wordt aan het gestelde in [Bijlage I bij het Planningsbesluit bijzondere interventies aan het hart](https://wetten.overheid.nl/jci1.3:c:BWBR0008447&bijlage=1). Het betreft hier ondermeer de inbedding van de zorg, de implementatie van de professionele kwaliteitseisen, inclusief personele en infrastructurele eisen, indicatiestelling, uitkomsten, doorverwijzing en achtervang.
+
+3. Onderbouwde prognose over het lopende kalenderjaar en de komende vier jaar daarna:
+
+- a. Het jaarlijkse aantal patiënten dat een ingreep zal ondergaan, alsmede het aantal heringrepen;
+
+- b. De wijze waarop binnen drie jaar de minimale aantallen zoals gesteld in (internationale) richtlijnen voor de ingrepen behaald worden.
+
+4. Verklaringen, afspraken, standpunten als aangegeven in het Planningsbesluit bijzondere interventies aan het hart 2008.
+
+Deze regeling zal met de bijbehorende bijlagen en toelichting worden geplaatst in de Staatscourant.
+
+Ten aanzien van de andere twee huidige interventiecentra – UMC Utrecht en het samenwerkingsverband tussen het LUMC en het Amsterdam UMC (CAHAL) – bepaal ik dat de aan hen verleende vergunning voor het verrichten van bijzondere hartinterventies mede strekt tot het verrichten van interventies bij kinderen met een aangeboren hartafwijking en de hoogcomplexe interventies bij volwassenen met een aangeboren hartafwijking, doch voor de duur van het transitieproces. De duur van het transitieproces bedraagt in beginsel maximaal 2,5 jaar. De geldigheidsduur van de beperking wordt derhalve bepaald op 2,5 jaar. Na het verstrijken van deze duur – die uitsluitend in het uitzonderlijke geval als dit noodzakelijk is met het oog op een ordentelijke transitie zal worden verlengd – zullen deze instellingen niet langer bevoegd zijn tot het verrichten van de betreffende interventies. Deze instellingen blijven wel bevoegd om interventies uit te voeren bij volwassenen met laag of matig complexe aangeboren hartafwijkingen. Ook controles, poliklinische afspraken, voor- en nazorg en gesprekken over medicatie kunnen plaatsvinden in deze instellingen.
+
+### **3. De voorschriften waaraan centra moeten voldoen**
 
 In het advies van de Gezondheidsraad wordt geconstateerd dat de ontwikkeling van het kwaliteitssysteem, op basis van de gestelde eisen, voor zowel de hartchirurgie als ritmechirurgie nog niet voltooid is. Ik hecht hier veel waarde aan en wil benadrukken dat de WBMV-status een transparant kwaliteitssysteem vanuit de beroepsgroep niet overbodig maakt. Ik zal daarom de betrokken beroepsgroepen aanzetten tot de ontwikkeling van een volledig en transparant kwaliteitssysteem. De registratie van de uitgevoerde verrichtingen en van de uitkomsten vormt hiervan een onderdeel. De centra moeten jaarlijks hun resultaten openbaar maken. Waar mogelijk dient hierbij te worden aangesloten bij internationale databanken en prestatie-indicatoren van de Inspectie gezondheidszorg en jeugd.
 
