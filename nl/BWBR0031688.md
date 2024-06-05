@@ -4,7 +4,7 @@ identifier: "BWBR0031688"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-05"
-last_updated: "2024-01-01"
+last_updated: "2024-06-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031688"
 soort: "ministeriele-regeling"
@@ -46,11 +46,11 @@ In deze Planningsregeling wordt onder transplantatie van hematopoietische stamce
 
 ##### Artikel 2
 
-De omvang van de behoefte aan het aantal centra waar hematopoietische stamceltransplantaties plaatsvinden en de wijze waarop in deze behoefte kan worden voorzien, zijn neergelegd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031688&bijlage=1&z=2024-06-05&g=2024-01-01).
+De omvang van de behoefte aan het aantal centra waar hematopoietische stamceltransplantaties plaatsvinden en de wijze waarop in deze behoefte kan worden voorzien, zijn neergelegd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031688&bijlage=1&z=2024-06-05&g=2024-06-05).
 
 ##### Artikel 3
 
-De voorschriften behorend bij een vergunning voor hematopoietische stamceltransplantaties zijn neergelegd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031688&bijlage=2&z=2024-06-05&g=2024-01-01).
+De voorschriften behorend bij een vergunning voor hematopoietische stamceltransplantaties zijn neergelegd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031688&bijlage=2&z=2024-06-05&g=2024-06-05).
 
 ##### Artikel 4
 
@@ -76,14 +76,14 @@ Het onderstaande schema geeft een overzicht van de centra voor hematopoietische 
 
 |   | Centra voor hematopoietische stamceltransplantaties | A | B | C | D |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Academisch Medisch Centrum, Amsterdam | x | x | x |   |
+| 1 | Stichting Amsterdam UMC, locatie AMC | x | x | x |   |
 | 2 | Erasmus Medisch Centrum, Rotterdam | x | x | x |   |
 | 3 | Universitair Medisch Centrum Utrecht | x | x | x | x |
 | 4 | UMC St Radboud, Nijmegen | x | x | x | x |
 | 5 | Leids Universitair Medisch Centrum | x | x | x | x |
 | 6 | Universitair Medisch Centrum Groningen | x | x | x |   |
 | 7 | Academisch ziekenhuis Maastricht | x |   | x |   |
-| 8 | VU medisch centrum, Amsterdam | x | x | x |   |
+| 8 | Stichting Amsterdam UMC, locatie VUmc | x | x | x |   |
 | 9 | HagaZiekenhuis, Den Haag | x |   |   |   |
 | 10 | Isala klinieken, Zwolle | x |   |   |   |
 | 11 | NKI-AVL, Amsterdam | x |   |   |   |
@@ -91,6 +91,8 @@ Het onderstaande schema geeft een overzicht van de centra voor hematopoietische 
 | 13 | St. Antonius Ziekenhuis, Nieuwegein | x |   |   |   |
 
 Demografische ontwikkelingen (bevolkingsgroei en leeftijdsopbouw) en ontwikkelingen ten aanzien van de prevalentie van aandoeningen leiden tot de verwachting dat het aantal patiënten dat voor stamceltransplantatie in aanmerking komt, geleidelijk groeit. De benodigde capaciteitsbehoefte wordt echter ook bepaald door ontwikkelingen op het gebied van indicatiestellingen. De kennis over de toepassingsmogelijkheden van stamceltransplantaties neemt momenteel toe, wat vroeg of laat van invloed zal zijn op de indicatiegebieden voor de vier verschillende typen hematopoietische stamceltransplantaties. Een ruimere indicatiestelling zal leiden tot een toename van de behoefte. Daar staat tegenover dat het aantal transplantaties en bijgevolg ook de capaciteitsbehoefte bij de behandeling met stamcellen van solide tumoren afneemt vanwege tegenvallende resultaten. Met geneesmiddelen die op de markt zijn toegelaten, zijn dikwijls betere resultaten te bereiken. Een en ander leidt ertoe dat het aantal en de spreiding van hiervoor genoemde 13 centra over Nederland voor de komende jaren vooralsnog als voldoende kunnen worden beoordeeld.
+
+Met de bestuurlijke fusie van het Academisch Medisch Centrum en het VU Medisch Centrum is het aantal van dertien centra niet gewijzigd. De eerder aan beide instellingen verleende vergunningen voor het uitvoeren van de betreffende verrichtingen zijn op naam gesteld van Stichting Amsterdam UMC, geldig voor de locatie AMC respectievelijk locatie VUmc.
 
 ## Bijlage 2. Voorschriften behorend bij een vergunning
 
