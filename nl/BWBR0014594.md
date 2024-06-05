@@ -4,7 +4,7 @@ identifier: "BWBR0014594"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-05"
-last_updated: "2024-01-01"
+last_updated: "2024-06-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014594"
 soort: "ministeriele-regeling"
@@ -64,7 +64,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 Deze regeling wordt aangehaald als: Planningsbesluit klinisch genetisch onderzoek en erfelijkheidsadvisering.
 
-## Bijlage. bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014594&artikel=3&z=2024-06-05&g=2024-01-01) van het Planningsbesluit Klinisch genetisch onderzoek en erfelijkheidsadvisering
+## Bijlage. bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014594&artikel=3&z=2024-06-05&g=2024-06-05) van het Planningsbesluit Klinisch genetisch onderzoek en erfelijkheidsadvisering
 
 ### 1. Begripsbepaling
 
@@ -84,11 +84,11 @@ De volgende centra hebben thans een vergunning voor het uitvoeren van klinisch g
 
 ### 2.2
 
-In het kader van de integratie van de klinisch genetische centra in de academische ziekenhuizen is voor de Amsterdamse situatie de vergunning die aan de Stichting Klinische Genetica Amsterdam was verleend, omgezet in twee vergunningen, respectievelijk aan het Academisch Medisch Centrum (AMC) en het VU Medisch Centrum. Daarnaast is het toegestaan in het Nederlands Kanker Instituut/Antoni van Leeuwenhoek Ziekenhuis (NKI/AvL) te Amsterdam op basis van een daartoe strekkende samenwerkingsovereenkomst met het AMC klinisch genetisch onderzoek en erfelijkheidsadvisering te verrichten op het gebied van de oncogenetica.
+In deze centra kunnen thans alle vormen van klinisch genetisch onderzoek en erfelijkheidsadvisering worden toegepast, uitgezonderd de preïmplantatie genetische diagnostiek (zie hieronder punt 2.3). Met deze regeling wordt in tegenstelling tot die van 1994, de toepassing van prenataal biochemisch onderzoek en de exploitatie van de benodigde celbank niet meer beperkt tot één centrum.
+
+In het kader van de integratie van de klinisch genetische centra in de academische ziekenhuizen is voor de Amsterdamse situatie de vergunning die aan de Stichting Klinische Genetica Amsterdam was verleend, omgezet in twee vergunningen, respectievelijk aan het Academisch Medisch Centrum (AMC) en het VU Medisch Centrum. Zoals hiervoor is aangegeven, zijn deze vergunningen in verband met de bestuurlijke fusie op naam gesteld van Stichting Amsterdam UMC. Daarnaast is het toegestaan in het Nederlands Kanker Instituut/Antoni van Leeuwenhoek Ziekenhuis (NKI/AvL) te Amsterdam op basis van een daartoe strekkende samenwerkingsovereenkomst met Stichting Amsterdam UMC klinisch genetisch onderzoek en erfelijkheidsadvisering te verrichten op het gebied van de oncogenetica.
 
 Gezien de ontwikkelingen op het gebied van de genetica en de ontwikkeling van de onder 3.5 genoemde netwerkstructuur, is het wenselijk dat alle klinisch genetische centra zo spoedig mogelijk integreren in de academische ziekenhuizen.
-
-In het kader van de integratie van de klinisch genetische centra in de academische ziekenhuizen is voor de Amsterdamse situatie de vergunning die aan de Stichting Klinische Genetica Amsterdam was verleend, omgezet in twee vergunningen, respectievelijk aan het Academisch Medisch Centrum (AMC) en het VU Medisch Centrum. Daarnaast is het toegestaan in het Nederlands Kanker Instituut/Antoni van Leeuwenhoek Ziekenhuis (NKI/AvL) te Amsterdam op basis van een daartoe strekkende samenwerkingsovereenkomst met het AMC klinisch genetisch onderzoek en erfelijkheidsadvisering te verrichten op het gebied van de oncogenetica.
 
 Voor het toepassen van klinisch genetisch onderzoek en erfelijkheidsadvisering gelden de hieronder genoemde voorschriften.
 
@@ -102,11 +102,11 @@ Alle centra die klinisch genetisch onderzoek toepassen, dienen - als onderdeel v
 
 ### 3.1
 
-De toepassing van klinisch genetisch onderzoek en erfelijkheidsadvisering vindt plaats met inachtneming van (landelijke) protocollen, die, evenals de wijzigingen daarvan, worden toegezonden aan de Minister van Volksgezondheid, Welzijn en Sport en aan de Inspectie voor de Gezondheidszorg. Elk protocol dient in overeenstemming te zijn met de kwaliteitseisen die in de rapporten van de Gezondheidsraad zijn geformuleerd en met de door de beroepsgroepen vastgestelde richtlijnen, protocollen en overige kwaliteitseisen. Elk protocol bevat in ieder geval voorschriften of regels met betrekking tot:
+Bij het tot stand brengen van de onder 3.5 genoemde netwerkstructuur dient bijzondere aandacht te worden besteed aan (landelijk afgestemde) registratie van patiëntengegevens en aan het tot stand komen van een landelijk protocol voor het bewaren en eventueel nader gebruik van lichaamsmateriaal. Met het oog op wetenschappelijk onderzoek en evaluatie van de zorg is het van belang dat er een uniforme landelijke registratie van de gegevens van het klinisch genetisch onderzoek en de erfelijkheidsadvisering en een geprotocolleerde opslag en eventueel nader gebruik van lichaamsmateriaal tot stand komt c.q. wordt gebruikt.
 
-### 3.2
+### 3.3
 
-Alle centra die klinisch genetisch onderzoek toepassen, dienen - als onderdeel van een goede zorgverlening - zorg te dragen voor een goede registratie van het aantal onderzoeken en erfelijkheidsadviezen, de indicatiestelling en de bijbehorende follow-up van gegevens. Daarbij dient specifiek aandacht te worden besteed aan de registratie van gegevens betreffende het afnemen van foetaal materiaal, met name de registratie per soort foetaal materiaal (vruchtwaterpunctie, chorionbiopsie en navelstrengpunctie) en het aantal gediagnosticeerde afwijkingen.
+Voor het afnemen van foetaal materiaal en het uitvoeren van geavanceerd ultrageluidsonderzoek naar foetale afwijkingen kan een klinisch genetisch centrum met een of meer ziekenhuizen - bij voorkeur in regionaal verband - samenwerken. Dit geschiedt onder verantwoordelijkheid van het betreffende klinisch genetisch centrum. De samenwerking terzake is in een overeenkomst vastgelegd, die in ieder geval afspraken bevat met betrekking tot:
 
 Vervallen.
 
@@ -116,11 +116,11 @@ De centra voor klinisch genetisch onderzoek en erfelijkheidsadvisering dienen in
 
 ### 3.4
 
-De meer ingewikkelde vormen van genetisch onderzoek en erfelijkheidsadvisering (met inbegrip van het voor- en natraject) kunnen in de centra plaatsvinden en zonodig verder worden ontwikkeld. Daarbij dienen deze centra te bezien in hoeverre met name het minder complexe onderzoek en daaraan verbonden erfelijkheidsadvisering (met voor- en natraject) onder hun verantwoordelijkheid elders kan worden uitgevoerd met behoud van een goede kwaliteit van zorg. De daarvoor in aanmerking komende activiteiten worden dan door andere instellingen en laboratoria op basis van heldere afspraken over verantwoordelijkheden, taken, werkwijze, protocol en indicatiestelling in nauwe samenwerking met de centra uitgevoerd.
+Vanwege hun specifieke deskundigheid zullen de klinisch genetische centra's een belangrijke taak hebben op het gebied van:
 
 ### 3.5
 
-De centra voor klinisch genetisch onderzoek en erfelijkheidsadvisering dienen individueel en gezamenlijk initiatieven te ontplooien om zich te ontwikkelen tot regionale kenniscentra. Dit met het oog op het tot stand brengen van een netwerkstructuur waarvan een van de belangrijkste functies is het bevorderen en bewaken van de kwaliteit van de zorg buiten de klinisch genetische centra. Binnen bedoelde netwerkstructuur nemen de klinisch genetische centra een centrale plaats in. De verantwoordelijkheid voor het functioneren, het kwaliteitsbeleid en de zorgverlening dienen te worden vastgelegd en er kunnen nadere afspraken worden gemaakt over de taakverdeling, consultatie, verwijzing etc. De laboratoria dienen binnen genoemd netwerk deel te nemen aan procedures in het kader van kwaliteitsborging. Bij nieuwe ontwikkelingen of voor zeldzame DNA-tests is een landelijke taakverdeling gewenst.
+De klinisch genetische centra dienen ervoor zorg te dragen dat er voldoende kennis aanwezig is omtrent de laatste stand van de wetenschap. Vanuit deze centra kan vervolgens een verspreiding van de kennis en toepassing van deze technologie plaatsvinden. Genoemde centra dienen hiertoe hun medewerking te verlenen aan voorlichtings- en overige activiteiten, gericht op het verspreiden van kennis en het verdiepen van inzicht in de genetica.
 
 Vanwege hun specifieke deskundigheid zullen de klinisch genetische centra's een belangrijke taak hebben op het gebied van:
 
@@ -136,11 +136,11 @@ Deze regeling zal met de daarbij behorende bijlage en toelichting in de Staatsco
 
 Er is behoefte aan maximaal acht centra waar klinisch genetisch onderzoek en erfelijkheidsadvisering als bedoeld in [artikel 1, onder a, punt 5, van het Besluit aanwijzing bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0022191&artikel=1) wordt uitgeoefend. Met de thans beschikbare centra wordt voor de komende periode voorzien in de behoefte (zie ook 3.5).
 
-In deze centra kunnen thans alle vormen van klinisch genetisch onderzoek en erfelijkheidsadvisering worden toegepast, uitgezonderd de preïmplantatie genetische diagnostiek (zie hieronder punt 2.3). Met deze regeling wordt in tegenstelling tot die van 1994, de toepassing van prenataal biochemisch onderzoek en de exploitatie van de benodigde celbank niet meer beperkt tot één centrum.
+De volgende centra hebben thans een vergunning voor het uitvoeren van klinisch genetisch onderzoek en erfelijkheidsadvisering:
 
 ### 3. Voorschriften waaraan centra die klinisch genetisch onderzoek en erfelijkheidsadvisering toepassen, dienen te voldoen
 
-Bij het tot stand brengen van de onder 3.5 genoemde netwerkstructuur dient bijzondere aandacht te worden besteed aan (landelijk afgestemde) registratie van patiëntengegevens en aan het tot stand komen van een landelijk protocol voor het bewaren en eventueel nader gebruik van lichaamsmateriaal. Met het oog op wetenschappelijk onderzoek en evaluatie van de zorg is het van belang dat er een uniforme landelijke registratie van de gegevens van het klinisch genetisch onderzoek en de erfelijkheidsadvisering en een geprotocolleerde opslag en eventueel nader gebruik van lichaamsmateriaal tot stand komt c.q. wordt gebruikt.
+Alle centra die klinisch genetisch onderzoek toepassen, dienen - als onderdeel van een goede zorgverlening - zorg te dragen voor een goede registratie van het aantal onderzoeken en erfelijkheidsadviezen, de indicatiestelling en de bijbehorende follow-up van gegevens. Daarbij dient specifiek aandacht te worden besteed aan de registratie van gegevens betreffende het afnemen van foetaal materiaal, met name de registratie per soort foetaal materiaal (vruchtwaterpunctie, chorionbiopsie en navelstrengpunctie) en het aantal gediagnosticeerde afwijkingen.
 
 ### 3.3
 
@@ -148,8 +148,30 @@ Voor het afnemen van foetaal materiaal en het uitvoeren van geavanceerd ultragel
 
 ### 3.4
 
-Vanwege hun specifieke deskundigheid zullen de klinisch genetische centra's een belangrijke taak hebben op het gebied van:
+De centra voor klinisch genetisch onderzoek en erfelijkheidsadvisering dienen individueel en gezamenlijk initiatieven te ontplooien om zich te ontwikkelen tot regionale kenniscentra. Dit met het oog op het tot stand brengen van een netwerkstructuur waarvan een van de belangrijkste functies is het bevorderen en bewaken van de kwaliteit van de zorg buiten de klinisch genetische centra. Binnen bedoelde netwerkstructuur nemen de klinisch genetische centra een centrale plaats in. De verantwoordelijkheid voor het functioneren, het kwaliteitsbeleid en de zorgverlening dienen te worden vastgelegd en er kunnen nadere afspraken worden gemaakt over de taakverdeling, consultatie, verwijzing etc. De laboratoria dienen binnen genoemd netwerk deel te nemen aan procedures in het kader van kwaliteitsborging. Bij nieuwe ontwikkelingen of voor zeldzame DNA-tests is een landelijke taakverdeling gewenst.
 
-De klinisch genetische centra dienen ervoor zorg te dragen dat er voldoende kennis aanwezig is omtrent de laatste stand van de wetenschap. Vanuit deze centra kan vervolgens een verspreiding van de kennis en toepassing van deze technologie plaatsvinden. Genoemde centra dienen hiertoe hun medewerking te verlenen aan voorlichtings- en overige activiteiten, gericht op het verspreiden van kennis en het verdiepen van inzicht in de genetica.
+De meer ingewikkelde vormen van genetisch onderzoek en erfelijkheidsadvisering (met inbegrip van het voor- en natraject) kunnen in de centra plaatsvinden en zonodig verder worden ontwikkeld. Daarbij dienen deze centra te bezien in hoeverre met name het minder complexe onderzoek en daaraan verbonden erfelijkheidsadvisering (met voor- en natraject) onder hun verantwoordelijkheid elders kan worden uitgevoerd met behoud van een goede kwaliteit van zorg. De daarvoor in aanmerking komende activiteiten worden dan door andere instellingen en laboratoria op basis van heldere afspraken over verantwoordelijkheden, taken, werkwijze, protocol en indicatiestelling in nauwe samenwerking met de centra uitgevoerd.
+
+Deze regeling zal met de daarbij behorende bijlage en toelichting in de Staatscourant worden geplaatst.
+
+Met de bestuurlijke fusie van het Academisch Medisch Centrum en het VU Medisch Centrum is het aantal van acht centra niet gewijzigd. De eerder aan beide instellingen verleende vergunningen voor het uitvoeren van de betreffende verrichtingen zijn op naam gesteld van Stichting Amsterdam UMC, geldig voor de locatie AMC respectievelijk locatie VUmc.
+
+### 2.2
+
+### 3. Voorschriften waaraan centra die klinisch genetisch onderzoek en erfelijkheidsadvisering toepassen, dienen te voldoen
+
+Voor het toepassen van klinisch genetisch onderzoek en erfelijkheidsadvisering gelden de hieronder genoemde voorschriften.
+
+### 3.1
+
+De toepassing van klinisch genetisch onderzoek en erfelijkheidsadvisering vindt plaats met inachtneming van (landelijke) protocollen, die, evenals de wijzigingen daarvan, worden toegezonden aan de Minister van Volksgezondheid, Welzijn en Sport en aan de Inspectie gezondheidszorg en jeugd. Elk protocol dient in overeenstemming te zijn met de kwaliteitseisen die in de rapporten van de Gezondheidsraad zijn geformuleerd en met de door de beroepsgroepen vastgestelde richtlijnen, protocollen en overige kwaliteitseisen. Elk protocol bevat in ieder geval voorschriften of regels met betrekking tot:
+
+### 3.2
+
+### 3.4
+
+Vervallen.
+
+### 3.5
 
 Deze regeling zal met de daarbij behorende bijlage en toelichting in de Staatscourant worden geplaatst.
