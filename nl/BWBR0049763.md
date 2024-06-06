@@ -4,7 +4,7 @@ identifier: "BWBR0049763"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-06"
-last_updated: "2023-10-18"
+last_updated: "2024-06-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049763"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ In deze regeling wordt verstaan onder:
 
 - a). **minister:** de Minister van Justitie en Veiligheid;
 
-- b). **commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049763&artikel=2&z=2024-06-06&g=2023-10-18).
+- b). **commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049763&artikel=2&z=2024-06-06&g=2024-06-06).
 
 ##### Artikel 2. Instelling en taak
 
