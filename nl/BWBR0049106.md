@@ -4,7 +4,7 @@ identifier: "BWBR0049106"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2024-01-01"
+last_updated: "2024-06-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049106"
 soort: "wet"
@@ -48,17 +48,17 @@ Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met 
 
 De overeenkomstig [artikel 16 van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=16) berekende basishuur wordt:
 
-- a. in 2024 verlaagd met € 34,67;
+- a. in 2024 verlaagd met € 37,72;
 
-- b. in 2025 verlaagd met € 34,09;
+- b. in 2025 verlaagd met € 37,14;
 
-- c. in 2026 verlaagd met € 33,52;
+- c. in 2026 verlaagd met € 36,57;
 
-- d. in 2027 verlaagd met € 32,94;
+- d. in 2027 verlaagd met € 35,99;
 
-- e. in 2028 verlaagd met € 32,36;
+- e. in 2028 verlaagd met € 35,41;
 
-- f. in 2029 en latere jaren verlaagd met € 31,79.
+- f. in 2029 en latere jaren verlaagd met € 34,84.
 
 ##### Artikel 2
 
