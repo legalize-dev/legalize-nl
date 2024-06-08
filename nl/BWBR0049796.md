@@ -4,7 +4,7 @@ identifier: "BWBR0049796"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-06-08"
-last_updated: "2024-01-01"
+last_updated: "2024-06-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049796"
 soort: "zbo"
@@ -82,7 +82,7 @@ Dit onderzoek wordt uitgevoerd in overeenstemming met [Standaard COS 800](onbeke
 
 De accountant hanteert de geldende beroepsvoorschriften, in het bijzonder de [Verordening gedrags- en beroepsregels accountants](https://wetten.overheid.nl/jci1.3:c:BWBR0034635) (VGBA), de [verordening inzake onafhankelijkheid van de accountant bij Assurance opdrachten](https://wetten.overheid.nl/jci1.3:c:BWBR0034652) (ViO) en de relevante [Nadere Voorschriften Controle- en Overige Standaarden](https://wetten.overheid.nl/jci1.3:c:BWBR0049711) (NV COS). Daarnaast hanteert de accountant dit protocol als kader voor zijn werkzaamheden.
 
-Voor het onderzoek naar de getrouwheid en rechtmatigheid van het financieel verslag kiest de accountant een zodanige controleaanpak dat een redelijke mate van zekerheid wordt verkregen dat het financieel verslag een getrouw beeld geeft van de grootte en de samenstelling van het vermogen per 31 december 2024 en van het resultaat over 2024 in overeenstemming met de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) (Wlz) en de [Regeling uitvoeringsverslag en financieel verslag](https://wetten.overheid.nl/jci1.3:c:BWBR0047939) en de in het financieel verslag verantwoorde schaden, bedrijfsopbrengsten en beheerskosten over 2024, in alle van materieel belang zijnde aspecten voldoen aan de eisen van financiële rechtmatigheid in overeenstemming zijn met de in de relevante wet- en regelgeving opgenomen bepalingen zoals limitatief opgesomd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049796&bijlage=1&z=2024-06-08&g=2024-01-01) van het Protocol accountantsonderzoek Wlz-uitvoerders.
+Voor het onderzoek naar de getrouwheid en rechtmatigheid van het financieel verslag kiest de accountant een zodanige controleaanpak dat een redelijke mate van zekerheid wordt verkregen dat het financieel verslag een getrouw beeld geeft van de grootte en de samenstelling van het vermogen per 31 december 2024 en van het resultaat over 2024 in overeenstemming met de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) (Wlz) en de [Regeling uitvoeringsverslag en financieel verslag](https://wetten.overheid.nl/jci1.3:c:BWBR0047939) en de in het financieel verslag verantwoorde schaden, bedrijfsopbrengsten en beheerskosten over 2024, in alle van materieel belang zijnde aspecten voldoen aan de eisen van financiële rechtmatigheid in overeenstemming zijn met de in de relevante wet- en regelgeving opgenomen bepalingen zoals limitatief opgesomd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049796&bijlage=1&z=2024-06-08&g=2024-06-08) van het Protocol accountantsonderzoek Wlz-uitvoerders.
 
 Het wordt aan de accountant overgelaten op welke wijze hij zijn controleaanpak op dit punt inricht, hoe hij zijn controlewerkzaamheden uitvoert en hoe hij op grond daarvan voldoende controle-informatie verkrijgt. Het doel is niet om aan te geven welke werkzaamheden de accountant minimaal dient uit te voeren, dit wordt overgelaten aan zijn professionele oordeelsvorming.
 
@@ -94,7 +94,7 @@ De accountant rapporteert zijn bevindingen in het accountantsverslag en – voor
 
 Het onderzoek van het financieel verslag leidt tot een gecombineerde controleverklaring van de accountant over de getrouwheid en de financiële rechtmatigheid van het financieel verslag van de Wlz-uitvoerder. In deze controleverklaring geeft de accountant aan:
 
-In [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049796&bijlage=2&z=2024-06-08&g=2024-01-01) is een opsomming gegeven van de minimale en specifieke punten die in de controleverklaring moet worden opgenomen.
+In [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049796&bijlage=2&z=2024-06-08&g=2024-06-08) is een opsomming gegeven van de minimale en specifieke punten die in de controleverklaring moet worden opgenomen.
 
 ### 2.2.2. Accountantsverslag
 
@@ -118,7 +118,7 @@ In overeenstemming met [Standaard 720](onbekend) dient de accountant de andere i
 
 ### 3.2. Rechtmatigheid
 
-Rechtmatigheid in algemene zin wil zeggen: in overeenstemming met de relevante wet- en regelgeving, namelijk van hetgeen bij of krachtens de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) en/of de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745) (Wfsv) en/of de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) (Wmg) is geregeld. Wij verwijzen hiervoor naar [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049796&bijlage=1&z=2024-06-08&g=2024-01-01). Een proces (of de uitkomsten daarvan) voldoet wel of niet aan de geldende wet- en regelgeving. In die zin is rechtmatigheid een absoluut begrip. De concrete invulling van het begrip rechtmatigheid is echter afhankelijk van de gekozen normstelling, de aard en reikwijdte van de regelgeving, het soort organisatie en het karakter van het betreffende proces of de uitkomst daarvan. De begripsbepaling van rechtmatigheid is opgenomen in [artikel 1 van de Regeling uitvoeringsverslag en financieel verslag](https://wetten.overheid.nl/jci1.3:c:BWBR0047939&artikel=1). In deze regeling is toegelicht dat de Wlz-uitvoerder in het financieel verslag en de bestuursverklaring de term onrechtmatigheid gebruikt. Vanuit vaktechnisch perspectief hanteert dit protocol hiervoor de term rechtmatigheidsfout.
+Rechtmatigheid in algemene zin wil zeggen: in overeenstemming met de relevante wet- en regelgeving, namelijk van hetgeen bij of krachtens de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) en/of de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745) (Wfsv) en/of de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) (Wmg) is geregeld. Wij verwijzen hiervoor naar [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049796&bijlage=1&z=2024-06-08&g=2024-06-08). Een proces (of de uitkomsten daarvan) voldoet wel of niet aan de geldende wet- en regelgeving. In die zin is rechtmatigheid een absoluut begrip. De concrete invulling van het begrip rechtmatigheid is echter afhankelijk van de gekozen normstelling, de aard en reikwijdte van de regelgeving, het soort organisatie en het karakter van het betreffende proces of de uitkomst daarvan. De begripsbepaling van rechtmatigheid is opgenomen in [artikel 1 van de Regeling uitvoeringsverslag en financieel verslag](https://wetten.overheid.nl/jci1.3:c:BWBR0047939&artikel=1). In deze regeling is toegelicht dat de Wlz-uitvoerder in het financieel verslag en de bestuursverklaring de term onrechtmatigheid gebruikt. Vanuit vaktechnisch perspectief hanteert dit protocol hiervoor de term rechtmatigheidsfout.
 
 ### 3.2.1. Financiële rechtmatigheid
 
@@ -130,7 +130,7 @@ Bij procedurele rechtmatigheid heeft de rechtmatige uitvoering van taken geen fi
 
 ### 3.3. Wet- en regelgeving
 
-De accountant hanteert de begripsomschrijvingen uit de [Regeling uitvoeringsverslag en financieel verslag](https://wetten.overheid.nl/jci1.3:c:BWBR0047939) als uitgangspunt voor het financiële rechtmatigheidsonderzoek dat hij uitvoert. [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049796&bijlage=1&z=2024-06-08&g=2024-01-01). ‘Lijst met circulaires en wet- en regelgeving Wlz’ geeft een limitatieve opsomming van het normenkader voor de rechtmatigheidscontrole door de accountant.
+De accountant hanteert de begripsomschrijvingen uit de [Regeling uitvoeringsverslag en financieel verslag](https://wetten.overheid.nl/jci1.3:c:BWBR0047939) als uitgangspunt voor het financiële rechtmatigheidsonderzoek dat hij uitvoert. [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049796&bijlage=1&z=2024-06-08&g=2024-06-08). ‘Lijst met circulaires en wet- en regelgeving Wlz’ geeft een limitatieve opsomming van het normenkader voor de rechtmatigheidscontrole door de accountant.
 
 ### 3.4. Fouten
 
@@ -200,7 +200,7 @@ De hieronder genoemde verdere toelichting heeft betrekking op het onderzoek naar
 
 ### 4.1. Juiste en volledige afhandeling declaraties Zorg in Natura en pgb
 
-De accountant stelt vast dat de declaraties juist, volledig en rechtmatig zijn verantwoord door de Wlz-uitvoerder, conform de van toepassing zijnde wet- en regelgeving zoals opgenomen in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049796&bijlage=1&z=2024-06-08&g=2024-01-01): Lijst met circulaires en wet- en regelgeving Wlz14Eventuele problemen in de uitvoering van het pgb door de SVB kunnen gevolgen hebben voor de uitvoering van de accountantscontrole. De NZa zal hierover nader in overleg treden met de Wlz-uitvoerders en hun accountants..
+De accountant stelt vast dat de declaraties juist, volledig en rechtmatig zijn verantwoord door de Wlz-uitvoerder, conform de van toepassing zijnde wet- en regelgeving zoals opgenomen in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049796&bijlage=1&z=2024-06-08&g=2024-06-08): Lijst met circulaires en wet- en regelgeving Wlz14Eventuele problemen in de uitvoering van het pgb door de SVB kunnen gevolgen hebben voor de uitvoering van de accountantscontrole. De NZa zal hierover nader in overleg treden met de Wlz-uitvoerders en hun accountants..
 
 De accountant stelt vast dat de Wlz-uitvoerder hiertoe beschikt over een cliëntvolgende administratie, waarin een verband kan worden gelegd tussen de geldige indicatiebesluiten van de Wlz-verzekerden, de in opdracht van Wlz-uitvoerders geleverde zorg en de betalingen aan zorgaanbieders die deze zorg geleverd hebben.
 
