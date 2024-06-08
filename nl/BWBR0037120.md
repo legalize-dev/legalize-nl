@@ -4,7 +4,7 @@ identifier: "BWBR0037120"
 country: "nl"
 rank: "wet"
 publication_date: "2024-06-08"
-last_updated: "2015-11-01"
+last_updated: "2024-06-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037120"
 soort: "wet"
@@ -85,11 +85,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel X
 
-1. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties draagt zorg voor de inrichting, beschikbaarstelling, instandhouding, werking, beveiliging en betrouwbaarheid van voorzieningen voor elektronisch berichtenverkeer en informatieverschaffing alsmede van voorzieningen voor elektronische authenticatie en elektronische registratie van machtigingen.
-
-2. Bij regeling van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties worden regels gesteld met betrekking tot de werking, beveiliging en betrouwbaarheid van de voorzieningen, bedoeld in het eerste lid.
-
-3. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties verwerkt persoonsgegevens, waaronder het burgerservicenummer, bedoeld in [artikel 1, onder b, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1), voor zover dit noodzakelijk is voor de goede vervulling van de taak, bedoeld in het eerste lid. Bij algemene maatregel van bestuur wordt nader bepaald welke persoonsgegevens worden verwerkt, aan wie deze worden verstrekt en hoe lang deze worden bewaard.
+Vervallen
 
 ##### Artikel XI
 
@@ -97,7 +93,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 2. Bij de bepaling van het tijdstip, bedoeld in het eerste lid, kan op grond van [artikel 12 van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=12) worden afgeweken van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=8) en [9 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=9).
 
-3. [Artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0037120&artikel=X&z=2015-11-01&g=2015-11-01) vervalt op een bij koninklijk besluit te bepalen tijdstip.
+3. [Artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0037120&artikel=X&z=2024-06-08&g=2024-06-08) vervalt op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel XII
 
