@@ -4,7 +4,7 @@ identifier: "BWBR0008446"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2024-06-11"
-last_updated: "2013-11-23"
+last_updated: "2024-06-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008446"
 soort: "beleidsregel"
@@ -86,11 +86,11 @@ Indien de Raad van mening is dat voor de voorbereiding van een advies door een v
 
 ##### Artikel 6
 
-De Minister kan over een voorstel als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008446&paragraaf=3&artikel=5&z=2013-11-23&g=2013-11-23) advies vragen aan de benoemingenadviescommissie, met dien verstande dat in het geval het voorstel betrekking heeft op een voorzitter van een commissie, de Minister in elk geval advies vraagt aan de benoemingenadviescommissie.
+De Minister kan over een voorstel als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008446&paragraaf=3&artikel=5&z=2024-06-11&g=2024-06-11) advies vragen aan de benoemingenadviescommissie.
 
 ##### Artikel 7
 
-In een advies als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008446&paragraaf=3&artikel=6&z=2013-11-23&g=2013-11-23) geeft de benoemingenadviescommissie in ieder geval aan of bij het voorstel in voldoende mate rekening is gehouden met het streven naar:
+In een advies als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008446&paragraaf=3&artikel=6&z=2024-06-11&g=2024-06-11) geeft de benoemingenadviescommissie in ieder geval aan of bij het voorstel in voldoende mate rekening is gehouden met het streven naar:
 
 - a. evenredige deelname van vrouwen en personen behorende tot etnische of culturele minderheidsgroepen;
 
