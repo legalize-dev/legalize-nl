@@ -4,7 +4,7 @@ identifier: "BWBR0044518"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-12"
-last_updated: "2020-12-19"
+last_updated: "2024-06-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044518"
 soort: "ministeriele-regeling"
@@ -44,15 +44,15 @@ Besluit:
 
 ##### Artikel 1
 
-1. Het is verboden te handelen in strijd met artikel 3, eerste en tweede lid, artikel 9, eerste lid, en artikel 10 van Verordening (EU) nr. 2020/1998 van de Raad van de Europese Unie van 7 december 2020 betreffende beperkende maatregelen tegen ernstige schendingen van de mensenrechten (PbEU 2020, LI 410).
+1. Het is verboden te handelen in strijd met artikel 3, eerste en tweede lid, artikel 5, lid -1 bis, artikel 9, eerste lid, en artikel 10 van Verordening (EU) nr. 2020/1998 van de Raad van de Europese Unie van 7 december 2020 betreffende beperkende maatregelen tegen ernstige schendingen van de mensenrechten (PbEU 2020, LI 410).
 
-2. Het verbod te handelen in strijd met artikel 3, eerste lid en tweede lid, van Verordening (EU) nr. 2020/1998, geldt niet in gevallen waarin artikel 4, eerste lid, artikel 5, eerste lid, artikel 6, eerste lid, artikel 7, eerste lid, of artikel 8 van Verordening (EU) nr. 2020/1998 van toepassing is.
+2. Het verbod te handelen in strijd met artikel 3, eerste lid en tweede lid, van Verordening (EU) nr. 2020/1998, geldt niet in gevallen waarin artikel 4, eerste lid, artikel 5, lid -1, eerste lid, artikel 6, eerste lid, artikel 7, eerste lid, of artikel 8 van Verordening (EU) nr. 2020/1998 van toepassing is.
 
 ##### Artikel 2
 
-1. De bevoegde autoriteit, bedoeld in artikel 4, eerste lid, artikel 5, eerste lid, artikel 6, eerste lid, artikel 7, eerste lid, artikel 8, eerste lid, en artikel 9, eerste lid, van Verordening (EU) nr. 2020/1998 is de Minister van Financiën voor zover het betreft de vrijgave of beschikbaarstelling van tegoeden of informatie van financiële aard.
+1. De bevoegde autoriteit, bedoeld in artikel 4, eerste lid, artikel 5, eerste lid, lid 1 bis, artikel 6, eerste lid, artikel 7, eerste lid, artikel 8, eerste lid, en artikel 9, eerste lid, van Verordening (EU) nr. 2020/1998 is de Minister van Financiën voor zover het betreft de vrijgave of beschikbaarstelling van tegoeden of informatie van financiële aard.
 
-2. De bevoegde autoriteit, bedoeld in artikel 4, eerste lid, artikel 5, eerste lid, artikel 6, eerste lid, en artikel 7, eerste lid, van Verordening (EU) nr. 2020/1998 is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking voor zover het betreft de vrijgave of beschikbaarstelling van economische middelen of informatie anders dan van financiële aard.
+2. De bevoegde autoriteit, bedoeld in artikel 4, eerste lid, artikel 5, eerste lid, lid 1 bis, artikel 6, eerste lid, en artikel 7, eerste lid, van Verordening (EU) nr. 2020/1998 is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking voor zover het betreft de vrijgave of beschikbaarstelling van economische middelen of informatie anders dan van financiële aard.
 
 ##### Artikel 3
 
