@@ -4,7 +4,7 @@ identifier: "BWBR0049670"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2024-05-01"
+last_updated: "2024-06-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049670"
 soort: "wet"
@@ -65,8 +65,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel V. [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625)
 
 Wijzigt de Wet educatie en beroepsonderwijs.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VI. [Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395)
 
@@ -170,11 +168,11 @@ Wijzigt de Wet voortgezet onderwijs 2020.
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld en kan terugwerken.
 
-2. [Artikel XI, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0049670&artikel=XI&z=2024-05-01&g=2024-05-01), en [artikel XV, onderdeel M](https://wetten.overheid.nl/jci1.3:c:BWBR0049670&artikel=XV&z=2024-05-01&g=2024-05-01), van deze wet treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij worden geplaatst, en werken terug tot en met 1 april 2022.
+2. [Artikel XI, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0049670&artikel=XI&z=2024-06-13&g=2024-06-13), en [artikel XV, onderdeel M](https://wetten.overheid.nl/jci1.3:c:BWBR0049670&artikel=XV&z=2024-06-13&g=2024-06-13), van deze wet treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij worden geplaatst, en werken terug tot en met 1 april 2022.
 
-3. [Artikel XIII, onderdeel W](https://wetten.overheid.nl/jci1.3:c:BWBR0049670&artikel=XIII&z=2024-05-01&g=2024-05-01), en [artikel XXIII, onderdelen L en HH](https://wetten.overheid.nl/jci1.3:c:BWBR0049670&artikel=XXIII&z=2024-05-01&g=2024-05-01), van deze wet treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij worden geplaatst en werken terug tot en met 1 januari 2024.
+3. [Artikel XIII, onderdeel W](https://wetten.overheid.nl/jci1.3:c:BWBR0049670&artikel=XIII&z=2024-06-13&g=2024-06-13), en [artikel XXIII, onderdelen L en HH](https://wetten.overheid.nl/jci1.3:c:BWBR0049670&artikel=XXIII&z=2024-06-13&g=2024-06-13), van deze wet treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij worden geplaatst en werken terug tot en met 1 januari 2024.
 
-4. [Artikel XXII](https://wetten.overheid.nl/jci1.3:c:BWBR0049670&artikel=XXII&z=2024-05-01&g=2024-05-01) van deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2023.
+4. [Artikel XXII](https://wetten.overheid.nl/jci1.3:c:BWBR0049670&artikel=XXII&z=2024-06-13&g=2024-06-13) van deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2023.
 
 ##### Artikel XXV. Citeertitel
 
