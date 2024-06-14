@@ -4,7 +4,7 @@ identifier: "BWBR0049807"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-14"
-last_updated: "2023-10-01"
+last_updated: "2024-06-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049807"
 soort: "ministeriele-regeling"
@@ -116,7 +116,7 @@ Aan de algemeen directeur is voorbehouden:
 
 ##### Artikel 6. Ondermandaat
 
-1. De algemeen directeur kan ondermandaat verlenen aan de onder hem ressorterende functionarissen van Grote Ondernemingen, Midden- en Kleinbedrijf en Particulieren, behoudens de op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049807&artikel=5&z=2024-06-14&g=2023-10-01) van dit besluit aan de algemeen directeur voorbehouden bevoegdheden.
+1. De algemeen directeur kan ondermandaat verlenen aan de onder hem ressorterende functionarissen van Grote Ondernemingen, Midden- en Kleinbedrijf en Particulieren, behoudens de op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049807&artikel=5&z=2024-06-14&g=2024-06-14) van dit besluit aan de algemeen directeur voorbehouden bevoegdheden.
 
 2. In een ondermandaat wordt de omvang ervan aangegeven.
 
