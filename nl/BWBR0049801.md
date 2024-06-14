@@ -4,7 +4,7 @@ identifier: "BWBR0049801"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-14"
-last_updated: "2023-10-01"
+last_updated: "2024-06-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049801"
 soort: "ministeriele-regeling"
@@ -96,7 +96,7 @@ De directeur-generaal is gehouden de minister te informeren met betrekking tot:
 
 ##### Artikel 5. Ondermandaat
 
-1. De directeur-generaal kan ondermandaat verlenen aan de algemeen directeur, behoudens de op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049801&artikel=6&z=2024-06-14&g=2023-10-01) van dit besluit aan de directeur-generaal voorbehouden bevoegdheden.
+1. De directeur-generaal kan ondermandaat verlenen aan de algemeen directeur, behoudens de op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049801&artikel=6&z=2024-06-14&g=2024-06-14) van dit besluit aan de directeur-generaal voorbehouden bevoegdheden.
 
 2. In een ondermandaat wordt de omvang ervan aangegeven.
 
