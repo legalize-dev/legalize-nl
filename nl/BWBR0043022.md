@@ -4,7 +4,7 @@ identifier: "BWBR0043022"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-03"
-last_updated: "2024-05-01"
+last_updated: "2024-06-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043022"
 soort: "ministeriele-regeling"
@@ -78,7 +78,9 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - p. inspecteur: functionaris die als zodanig is aangewezen in [artikel 5 van de Uitvoeringsregeling Belastingdienst 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&artikel=5) en [artikel 1:4 van de Algemene douaneregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&artikel=1:4);
 
-- q. ontvanger: functionaris die als zodanig is aangewezen in [artikel 5 van de Uitvoeringsregeling Belastingdienst 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&artikel=5) en [artikel 1:4 van de Algemene douaneregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&artikel=1:4).
+- q. ontvanger: functionaris die als zodanig is aangewezen in [artikel 5 van de Uitvoeringsregeling Belastingdienst 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&artikel=5) en [artikel 1:4 van de Algemene douaneregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&artikel=1:4);
+
+- r. IG: inspecteur-generaal inspectie belastingen, toeslagen en douane.
 
 ### Hoofdstuk 2. Mandaten en volmachten
 
@@ -98,7 +100,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 ##### Artikel 4. Mandaat aan SG en DG’s
 
-1. Aan de secretaris-generaal wordt mandaat verleend ten aanzien van de tot de verantwoordelijkheid van de bewindspersoon behorende aangelegenheden, met uitzondering van de bevoegdheden als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=11&z=2024-06-15&g=2024-05-01).
+1. Aan de secretaris-generaal wordt mandaat verleend ten aanzien van de tot de verantwoordelijkheid van de bewindspersoon behorende aangelegenheden, met uitzondering van de bevoegdheden als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=11&z=2024-06-15&g=2024-06-15).
 
 2. De SG en DG’s hebben binnen het kader van de jaarplannen en binnen eventueel door de minister of namens de minister door de SG gegeven richtlijnen mandaat ten aanzien van het nemen van besluiten en afdoen van stukken betreffende alle aangelegenheden die behoren tot hun werkterrein tenzij bij wet anders is bepaald of de aard van de bevoegdheid zich daartegen verzet.
 
@@ -120,7 +122,7 @@ gevolgd door de naam en functie van de (onder)gemandateerde.
 
 ##### Artikel 6. Mandaatregister
 
-1. Onderdeel van deze regeling vormt een mandaatregister. Het mandaatregister bevat de namen van de in dit besluit gemandateerde, ondergemandateerde en gevolmachtigde functionarissen.
+1. Onderdeel van deze regeling vormt een mandaatregister. Het mandaatregister bevat de functienamen van de in dit besluit gemandateerde, ondergemandateerde en gevolmachtigde functionarissen.
 
 2. De directeur Juridische Zaken draagt zorg voor het bijhouden en online publiceren van het mandaatregister. Het mandaatregister wordt gepubliceerd op de webpagina van het ministerie van Financiën, te vinden via www.rijksoverheid.nl.
 
@@ -136,7 +138,7 @@ gevolgd door de naam en functie van de (onder)gemandateerde.
 
 1. Het mandaat van de DG met betrekking tot het aangaan van financiële verplichtingen en het doen van uitgaven is beperkt tot het budget dat aan de DG ter beschikking is gesteld op basis van een door de secretaris-generaal en de directeur Financieel-economische Zaken goedgekeurde budgettaire uitwerking van dat deel van de begroting waarvoor het diensthoofd verantwoordelijk is.
 
-2. De SG en DG’s kunnen voor de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=3&artikel=7&z=2024-06-15&g=2024-05-01) genoemde bevoegdheden ondermandaat verlenen aan budgethouders. In een ondermandaat kan een maximumbedrag worden aangegeven.
+2. De SG en DG’s kunnen voor de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=3&artikel=7&z=2024-06-15&g=2024-06-15) genoemde bevoegdheden ondermandaat verlenen aan budgethouders. In een ondermandaat kan een maximumbedrag worden aangegeven.
 
 ##### Artikel 9. Instemming van de directeur FEZ
 
@@ -186,7 +188,7 @@ Onverminderd de overige bepalingen van dit besluit waarin aan de SG mandaat word
 
 - e. het doen van voorstellen omtrent de vaststelling van de topstructuur van het ministerie, tot en met het niveau van directies, en hiermee samenhangend het besluiten tot reorganisaties;
 
-- f. het vaststellen van de formatie, en hiermee samenhangend het besluiten tot reorganisaties van het kernministerie en van de topstructuur van het DGBD, als opgenomen in het [Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045076) als bedoeld in artikel 3, tweede lid, van het Coördinatiebesluit organisatie en bedrijfsvoering 2011, en na gehoord hebbende de bestuursraad;
+- f. het vaststellen van de formatie, en hiermee samenhangend het besluiten tot reorganisaties van het kernministerie en van de topstructuur van het DGBD, als opgenomen in het [Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045076) als bedoeld in [artikel 3, tweede lid, van het Coördinatiebesluit organisatie, bedrijfsvoering en informatiesystemen rijksdienst](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=3), en na gehoord hebbende de bestuursraad;
 
 - g. het aangaan van de arbeidsovereenkomst, het plaatsen en het beëindigen van de arbeidsovereenkomst met ambtenaren in functies behorende tot de topstructuur van het ministerie en de directoraten-generaal, waarbij het aangaan van een arbeidsovereenkomst plaatsvindt na overleg met de bestuursraad;
 
@@ -198,15 +200,15 @@ Onverminderd de overige bepalingen van dit besluit waarin aan de SG mandaat word
 
 ##### Artikel 13. Voorbehouden aan de pSG
 
-Met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=12&z=2024-06-15&g=2024-05-01) is aan de pSG voorbehouden:
+Met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=12&z=2024-06-15&g=2024-06-15) is aan de pSG voorbehouden:
 
 - a. het, na overleg met de bestuursraad, doen van voorstellen omtrent de vaststelling van de organisatie van het kernministerie vanaf het niveau van afdelingen (of daarmee vergelijkbare organisatieonderdelen) en lager, en hiermee samenhangend het besluiten tot reorganisaties;
 
 - b. het vaststellen van de formatie van het DGBD, het DGTSL en het DGD, voor zover het een uitbreiding van de totale formatie betreft;
 
-- c. het – met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=12&z=2024-06-15&g=2024-05-01) – aangaan van de arbeidsovereenkomst, plaatsen en het beëindigen van de arbeidsovereenkomst van ambtenaren in overige leidinggevende functies bij het kernministerie tot het niveau van afdelingshoofden of daarmee gelijk te stellen leidinggevende functies.
+- c. het – met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=12&z=2024-06-15&g=2024-06-15) – aangaan van de arbeidsovereenkomst, plaatsen en het beëindigen van de arbeidsovereenkomst van ambtenaren in overige leidinggevende functies bij het kernministerie tot het niveau van afdelingshoofden of daarmee gelijk te stellen leidinggevende functies.
 
-- d. het – met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=12&z=2024-06-15&g=2024-05-01) – aangaan van de arbeidsovereenkomst, plaatsen en het beëindigen van de arbeidsovereenkomst van ambtenaren werkzaam in functies bij het kernministerie met een bezoldiging van salarisschaal 15 of hoger. Het aangaan van de arbeidsovereenkomst vindt plaats na overleg met de bestuursraad;
+- d. het – met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=12&z=2024-06-15&g=2024-06-15) – aangaan van de arbeidsovereenkomst, plaatsen en het beëindigen van de arbeidsovereenkomst van ambtenaren werkzaam in functies bij het kernministerie met een bezoldiging van salarisschaal 15 of hoger. Het aangaan van de arbeidsovereenkomst vindt plaats na overleg met de bestuursraad;
 
 - e. het toekennen van maatregelen van sociaal flankerend beleid aan functionarissen als bedoeld in de vorige twee onderdelen;
 
@@ -218,37 +220,35 @@ Met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR004302
 
 - i. het vaststellen van regels en beleid(skaders) inzake de bedrijfsvoering, waaronder regels die leiden tot wijzigingen in de rechten of verplichting van ambtenaren, voor zover van toepassing op ambtenaren van het gehele ministerie of het kernministerie;
 
-- j. het ondertekenen van de rijksbrede overeenkomsten in het kader van categoriemanagement, voor zover het de categorieën betreft die ressorteren onder het ministerie;
+- j. het opleggen van ordemaatregelen en straffen aan functionarissen behorende tot de topstructuur van het ministerie en de directoraten-generaal;
 
-- k. het opleggen van ordemaatregelen en straffen aan functionarissen behorende tot de topstructuur van het ministerie en de directoraten-generaal;
+- k. het verzoeken om toestemming aan het UWV tot ontslag wegens bedrijfseconomische redenen;
 
-- l. het verzoeken om toestemming aan het UWV tot ontslag wegens bedrijfseconomische redenen;
+- l. het verzoeken om ontbinding van de arbeidsovereenkomst wegens bedrijfseconomische redenen;
 
-- m. het verzoeken om ontbinding van de arbeidsovereenkomst wegens bedrijfseconomische redenen;
+- m. het verzoeken om ontbinding van de arbeidsovereenkomst wegens gewetensbezwaren/werkweigering;
 
-- n. het verzoeken om ontbinding van de arbeidsovereenkomst wegens gewetensbezwaren/werkweigering;
+- n. het verzoeken om ontbinding van de arbeidsovereenkomst wegens verstoorde arbeidsverhouding;
 
-- o. het verzoeken om ontbinding van de arbeidsovereenkomst wegens verstoorde arbeidsverhouding;
+- o. het verzoeken om ontbinding van de arbeidsovereenkomst wegens verwijtbaar handelen, een dringende reden of wegens wanprestatie;
 
-- p. het verzoeken om ontbinding van de arbeidsovereenkomst wegens verwijtbaar handelen, een dringende reden of wegens wanprestatie;
+- p. het verzoeken van ontbinding van de arbeidsovereenkomst wegens andere omstandigheden die zodanig zijn dat in redelijkheid niet kan worden verwacht dat de arbeidsovereenkomst wordt voortgezet;
 
-- q. het verzoeken van ontbinding van de arbeidsovereenkomst wegens andere omstandigheden die zodanig zijn dat in redelijkheid niet kan worden verwacht dat de arbeidsovereenkomst wordt voortgezet;
+- q. het verzoeken van ontbinding van de arbeidsovereenkomst wegens een combinatie van ontslaggronden, voor zover één van de gronden is voorbehouden aan de pSG;
 
-- r. het verzoeken van ontbinding van de arbeidsovereenkomst wegens een combinatie van ontslaggronden, voor zover één van de gronden is voorbehouden aan de pSG;
+- r. het sluiten van een vaststellingsovereenkomst in verband met het beëindigen van de arbeidsovereenkomst of tewerkstelling bij het ministerie of een wijziging van een reeds afgesloten vaststellingsovereenkomst;
 
-- s. het sluiten van een vaststellingsovereenkomst in verband met het beëindigen van de arbeidsovereenkomst of tewerkstelling bij het ministerie of een wijziging van een reeds afgesloten vaststellingsovereenkomst;
+- s. het beslissen op verzoeken doorwerken na AOW-gerechtigde leeftijd voor functionarissen van het kernministerie;
 
-- t. het beslissen op verzoeken doorwerken na AOW-gerechtigde leeftijd voor functionarissen van het kernministerie;
+- t. alle met cassatie verband houdende beslissingen zowel als eisende partij als verwerende partij met betrekking tot personeelsaangelegenheden;
 
-- u. alle met cassatie verband houdende beslissingen zowel als eisende partij als verwerende partij met betrekking tot personeelsaangelegenheden;
-
-- v. het ten aanzien van onder hem ressorterende medewerkers geven van toestemming op verzoeken om systemen te mogen raadplegen naar aanleiding van vermoedens van niet integer gedrag door medewerkers.
+- u. het ten aanzien van onder hem ressorterende medewerkers geven van toestemming op verzoeken om systemen te mogen raadplegen naar aanleiding van vermoedens van niet integer gedrag door medewerkers.
 
 ##### Artikel 14. Voorbehouden aan de algemene leiding DG, uitgezonderd het DGBD, het DGTSL en het DGD
 
 Met inachtneming van voorgaande artikelen van dit besluit is aan de algemene leiding van een DG, uitgezonderd het DGBD, het DGTSL en het DGD, ten aanzien van onder hen ressorterende medewerkers voorbehouden het nemen van beslissingen:
 
-- a. betreffende de plaatsing, beëindiging van de arbeidsovereenkomst en beloning van medewerkers vanaf schaal 15, behoudens het bepaalde in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=13&z=2024-06-15&g=2024-05-01);
+- a. betreffende de plaatsing, beëindiging van de arbeidsovereenkomst en beloning van medewerkers vanaf schaal 15, behoudens het bepaalde in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=13&z=2024-06-15&g=2024-06-15);
 
 - b. tot het sluiten van een tijdelijke arbeidsovereenkomst in bijzondere situaties;
 
@@ -280,9 +280,9 @@ Met inachtneming van voorgaande artikelen van dit besluit is aan de algemene lei
 
 - b. tot het vaststellen van de formatie, waarbij tot wijzigingen in formatie van functies met salarisschaal 16 en hoger na overleg met de bestuursraad besloten wordt;
 
-- c. tot het – met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=12&z=2024-06-15&g=2024-05-01) – aangaan van de arbeidsovereenkomst, benoemen, plaatsen en beëindigen van de arbeidsovereenkomst van ambtenaren in overige leidinggevende functies tot het niveau van afdelingshoofden of daarmee gelijk te stellen leidinggevende functies;
+- c. tot het – met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=12&z=2024-06-15&g=2024-06-15) – aangaan van de arbeidsovereenkomst, benoemen, plaatsen en beëindigen van de arbeidsovereenkomst van ambtenaren in overige leidinggevende functies tot het niveau van afdelingshoofden of daarmee gelijk te stellen leidinggevende functies;
 
-- d. tot het – met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=12&z=2024-06-15&g=2024-05-01) – aangaan van de arbeidsovereenkomst, benoemen, plaatsen en beëindigen van de arbeidsovereenkomst van ambtenaren in functies met een bezoldiging van salarisschaal 16 of hoger is verbonden. Benoemingen worden afgestemd met de bestuursraad, en over de arbeidsvoorwaarden dient vooraf afstemming met de pSG plaats te vinden.
+- d. tot het – met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=12&z=2024-06-15&g=2024-06-15) – aangaan van de arbeidsovereenkomst, benoemen, plaatsen en beëindigen van de arbeidsovereenkomst van ambtenaren in functies met een bezoldiging van salarisschaal 16 of hoger is verbonden. Benoemingen worden afgestemd met de bestuursraad, en over de arbeidsvoorwaarden dient vooraf afstemming met de pSG plaats te vinden.
 
 - e. tot het sluiten van een tijdelijke arbeidsovereenkomst waarbij wordt afgeweken van de CAO Rijk;
 
@@ -290,7 +290,7 @@ Met inachtneming van voorgaande artikelen van dit besluit is aan de algemene lei
 
 - g. tot het toekennen van maatregelen van sociaal flankerend beleid aan functionarissen als bedoeld in de onderdelen c, d en e van dit artikel.
 
-- h. tot en met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=12&z=2024-06-15&g=2024-05-01) – beloning van ambtenaren in:
+- h. tot en met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=12&z=2024-06-15&g=2024-06-15) – beloning van ambtenaren in:
 
 - i. overige leidinggevende functies tot het niveau van afdelingshoofden of daarmee gelijk te stellen leidinggevende functies, of
 
@@ -310,11 +310,11 @@ Met inachtneming van voorgaande artikelen van dit besluit is aan de algemene lei
 
 ##### Artikel 16. Voorbehouden aan de directeuren en hun plaatsvervangers
 
-1. De directeuren van de in het [Organisatiebesluit Ministerie van Financiën 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043027) genoemde directies en hun plaatsvervangers, uitgezonderd het DGBD, het DGTSL en het DGD, hebben binnen het kader van hun jaarplannen en binnen door de minister of namens de minister door de secretaris-generaal of de algemene leiding van het directoraat-generaal gegeven richtlijnen en behoudens de voorgaande bepalingen volmacht tot het nemen van besluiten en afdoen van stukken betreffende alle aangelegenheden die behoren tot hun beleidsterrein genoemd in het Organisatiebesluit Ministerie van Financiën 2020, tenzij bij wet anders is bepaald of de aard van de bevoegdheid zich daartegen verzet.
+1. De directeuren van de in het [Organisatiebesluit Ministerie van Financiën 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043027) genoemde directies en hun plaatsvervangers, uitgezonderd het DGBD, het DGTSL en het DGD, hebben binnen het kader van hun jaarplannen en binnen door de minister of namens de minister door de secretaris-generaal of de algemene leiding van het directoraat-generaal gegeven richtlijnen en behoudens de voorgaande bepalingen mandaat tot het nemen van besluiten en afdoen van stukken betreffende alle aangelegenheden die behoren tot hun beleidsterrein genoemd in het Organisatiebesluit Ministerie van Financiën 2020, tenzij bij wet anders is bepaald of de aard van de bevoegdheid zich daartegen verzet.
 
 2. De in het eerste lid toegekende mandaten kunnen binnen het kader van hun taken ook worden uitgeoefend door de onder de directeuren ressorterende functionarissen die daartoe worden gemandateerd in het mandaatregister.
 
-3. Onverminderd het eerste lid is de bevoegdheid tot het afdoen van besluiten namens de in het eerste lid gevolmachtigde functionarissen toegekend aan het hoofd en het plaatsvervangend hoofd van de eenheid Organisatie & Personeel van de directie Bedrijfsvoering.
+3. Onverminderd het eerste lid is de bevoegdheid tot het afdoen van besluiten namens de in het eerste lid gevolmachtigde functionarissen toegekend aan de directeur en de plaatsvervangend directeur van de concerndirectie Mens en Organisatie.
 
 4. Aan de in het eerste lid gevolmachtigde functionarissen is voorbehouden het afdoen en ondertekenen van beslissingen aangaande:
 
@@ -348,7 +348,7 @@ Over vraagstukken die van politiek gevoelige of anderszins zwaarwegende aard zij
 
 ##### Artikel 18. Personeelsbeslissingen
 
-Bij het maken van afspraken, afdoen van stukken en ondertekenen van uitgaande brieven met betrekking tot alle personeelsaangelegenheden, bedoeld in de bijlage bij deze regeling, betreffende het kernministerie is advies van het hoofd Eenheid Organisatie en Personeel van de directie Bedrijfsvoering vereist.
+Bij het maken van afspraken, afdoen van stukken en ondertekenen van uitgaande brieven met betrekking tot alle personeelsaangelegenheden, bedoeld in de bijlage bij deze regeling, betreffende het kernministerie is advies van de directeur van de concerndirectie Mens en Organisatie vereist.
 
 ##### Artikel 19. Overige bepalingen
 
@@ -534,9 +534,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - i. het maken van afspraken tot uitbreiding van een arbeidsduur van meer dan 36 uur per week.
 
-4. De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=2&artikel=4&z=2024-06-15&g=2024-05-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=2&artikel=5&z=2024-06-15&g=2024-05-01), [7 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=3&artikel=7&z=2024-06-15&g=2024-05-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=19&z=2024-06-15&g=2024-05-01) worden op de IG van overeenkomstige toepassing verklaard.
+4. De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=2&artikel=4&z=2024-06-15&g=2024-06-15), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=2&artikel=5&z=2024-06-15&g=2024-06-15), [7 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=3&artikel=7&z=2024-06-15&g=2024-06-15) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=19&z=2024-06-15&g=2024-06-15) worden op de IG van overeenkomstige toepassing verklaard.
 
-5. [Artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=18&z=2024-06-15&g=2024-05-01) en de in dat artikel bedoelde bijlage is van overeenkomstige toepassing. De IG hoeft echter geen voorafgaand advies aan de directeur CDMO te vragen als het gaat om de personeelsaangelegenheid **wijziging van de salarisschaal zonder wijziging van de functie**.
+5. [Artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=18&z=2024-06-15&g=2024-06-15) en de in dat artikel bedoelde bijlage is van overeenkomstige toepassing. De IG hoeft echter geen voorafgaand advies aan de directeur CDMO te vragen als het gaat om de personeelsaangelegenheid **wijziging van de salarisschaal zonder wijziging van de functie**.
 
 ### Hoofdstuk 4a. Woo-verzoeken
 
@@ -646,25 +646,23 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 19a. Woo-verzoeken kernministerie
 
-1. Aan de secretaris-generaal, de thesaurier-generaal en de directeuren-generaal van het kernministerie wordt mandaat verleend om te besluiten op Woo-verzoeken die betrekking hebben op informatie die berust bij het kernministerie, voor zover het hun eigen dienstonderdeel betreft. Zij kunnen aan onder hen ressorterende ambtenaren ter zake ondermandaat verlenen.
+1. Aan de secretaris-generaal, de thesaurier-generaal en de directeuren-generaal van het kernministerie wordt mandaat verleend om te besluiten op Woo-verzoeken die betrekking hebben op informatie die berust bij het kernministerie, voor zover het hun eigen dienstonderdeel betreft. Zij kunnen aan onder hen ressorterende ambtenaren ter zake ondermandaat verlenen. Aan de directeur Informatievoorziening en Openbaarmaking en het (plaatsvervangend) afdelingshoofd Openbaarmaking en Transparantie wordt mandaat verleend voor het ondertekenen van correspondentie van procedurele aard aangaande Woo-verzoeken bij het kernministerie. Tevens wordt aan hen mandaat verleend om te besluiten op Woo-verzoeken voor zover het zwaartepunt van een verzoek niet duidelijk bij een dienstonderdeel van het kernministerie ligt of wanneer er geen informatie bij een dienstonderdeel van het kernministerie berust.
 
-2. Aan de secretaris-generaal en het hoofd Openbaarheid van bestuur van de directie Juridische Zaken en, bij diens afwezigheid, de directeur of plaatsvervangend directeur van die directie, wordt mandaat verleend om de tegen de in het eerste lid bedoelde besluiten gerichte bezwaren te behandelen en daarop te beslissen. Beiden kunnen aan onder hen ressorterende ambtenaren ter zake ondermandaat verlenen.
-
-3. Aan de directeur van de directie Juridische Zaken wordt machtiging verleend tot de behandeling van procedures bij de rechtbanken en in hoger beroep bij de Afdeling bestuursrechtspraak van de Raad van State en tot het instellen van hoger beroep ter zake van de Woo-verzoeken bedoeld in het eerste lid. Hij kan aan onder hem ressorterende ambtenaren ter zake ondermachtiging verlenen.
+2. Aan het (plaatsvervangend) afdelingshoofd Openbaarmaking en Transparantie van de concerndirectie Informatievoorziening en Openbaarmaking wordt machtiging verleend tot de behandeling van procedures bij de rechtbanken inzake het niet tijdig beslissen op Woo-verzoeken als bedoeld in het eerste lid.
 
 ##### Artikel 19b. Zwaarwegende of politiek-bestuurlijk gevoelige Woo-verzoeken DGBD, DGTSL en DGD
 
-1. Ten aanzien van informatie die berust binnen het eigen directoraat-generaal, wordt aan de directeuren-generaal van DGBD, DGTSL en DGD mandaat verleend om te besluiten op zwaarwegende of politiek-bestuurlijk gevoelige Woo-verzoeken, tot welke categorie in ieder geval behoren de Woo-verzoeken van vertegenwoordigers van de media, van politieke en maatschappelijke organisaties en van belangengroeperingen. Op zwaarwegende of politiek-bestuurlijk gevoelige Woo-verzoeken wordt beslist namens de Staatssecretaris. De directeur-generaal kan aan onder hem ressorterende ambtenaren ter zake ondermandaat verlenen.
+1. Ten aanzien van informatie die berust binnen het eigen directoraat-generaal, wordt aan de directeuren-generaal van DGBD, DGTSL en DGD mandaat verleend om te besluiten op zwaarwegende of politiek-bestuurlijk gevoelige Woo-verzoeken, tot welke categorie in ieder geval behoren de Woo-verzoeken van vertegenwoordigers van de media, van politieke en maatschappelijke organisaties en van belangengroeperingen. Op zwaarwegende of politiek-bestuurlijk gevoelige Woo-verzoeken wordt beslist namens de Staatssecretaris. De directeur-generaal kan aan onder hem ressorterende ambtenaren ter zake ondermandaat verlenen. Aan de directeur Informatievoorziening en Openbaarmaking en het (plaatsvervangend) afdelingshoofd Openbaarmaking en Transparantie wordt mandaat verleend voor het ondertekenen van correspondentie van procedurele aard bij het DGBD, het DGTSL of het DGD.
 
 2. Op zwaarwegende of politiek-bestuurlijk gevoelige Woo-verzoeken die zijn ingediend bij de inspecteur of de ontvanger wordt overeenkomstig het eerste lid beslist namens de Staatssecretaris.
 
-3. Aan de secretaris-generaal en het hoofd Openbaarheid van bestuur van de directie Juridische Zaken en, bij diens afwezigheid, de directeur of plaatsvervangend directeur van die directie, wordt mandaat verleend om de tegen de in het eerste lid bedoelde besluiten gerichte bezwaren te behandelen en daarop te beslissen. Beiden kunnen aan onder hen ressorterende ambtenaren ter zake ondermandaat verlenen.
+3. Aan de secretaris-generaal, de (plaatsvervangend) directeur en het afdelingshoofd Publiekrecht van de directie Juridische Zaken wordt mandaat verleend om de tegen de in het eerste lid bedoelde besluiten gerichte bezwaren te behandelen en daarop te beslissen. Zij kunnen aan onder hen ressorterende ambtenaren ter zake ondermandaat verlenen.
 
-4. Aan de directeur van de directie Juridische Zaken wordt machtiging verleend tot de behandeling van procedures bij de rechtbanken en in hoger beroep bij de Afdeling bestuursrechtspraak van de Raad van State en tot het instellen van hoger beroep ter zake van de Woo-verzoeken bedoeld in het eerste lid. Hij kan aan onder hem ressorterende ambtenaren ter zake ondermachtiging verlenen.
+4. Aan de directeur van de directie Juridische Zaken wordt machtiging verleend tot de behandeling van procedures bij de rechtbanken en in hoger beroep bij de Afdeling bestuursrechtspraak van de Raad van State en tot het instellen van hoger beroep ter zake van de Woo-verzoeken bedoeld in het eerste lid. Hij kan aan onder hem ressorterende ambtenaren ter zake ondermachtiging verlenen. Aan het (plaatsvervangend) afdelingshoofd Openbaarmaking en Transparantie van de concerndirectie Informatievoorziening en Openbaarmaking wordt machtiging verleend tot de behandeling van procedures bij de rechtbanken inzake het niet tijdig beslissen op Woo-verzoeken als bedoeld in het eerste lid.
 
 ##### Artikel 19c. Overige Woo-verzoeken DGBD, DGTSL en DGD
 
-1. Aan de (algemeen) directeuren van de organisatieonderdelen van het DGBD, het DGTSL en het DGD wordt mandaat verleend om te beslissen op andere Woo-verzoeken betreffende informatie die berust bij het betreffende organisatieonderdeel dan bedoeld in [artikel 19b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4a&artikel=19b&z=2024-06-15&g=2024-05-01). De (algemeen) directeuren kunnen aan onder hen ressorterende ambtenaren ter zake ondermandaat verlenen.
+1. Aan de (algemeen) directeuren van de organisatieonderdelen van het DGBD, het DGTSL en het DGD wordt mandaat verleend om te beslissen op andere Woo-verzoeken betreffende informatie die berust bij het betreffende organisatieonderdeel dan bedoeld in [artikel 19b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4a&artikel=19b&z=2024-06-15&g=2024-06-15). Aan de directeur Bestuurlijke en Politieke Zaken van het DGBD wordt mandaat verleend om te beslissen op Woo-verzoeken betreffende informatie die berust bij een of meerdere organisatieonderdelen van het DGBD. De (algemeen) directeuren kunnen aan onder hen ressorterende ambtenaren ter zake ondermandaat verlenen.
 
 2. Aan de directeuren-generaal van respectievelijk DGBD, DGTSL en DGD wordt mandaat verleend om de tegen de in het eerste lid bedoelde besluiten gerichte bezwaren te behandelen en daarop te beslissen. De directeuren-generaal kunnen aan onder hen ressorterende ambtenaren ter zake ondermandaat verlenen.
 
@@ -674,9 +672,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 19d. Woo-verzoeken ten aanzien van meerdere organisatieonderdelen
 
-1. Indien een Woo-verzoek betrekking heeft op informatie die berust bij meerdere directoraten-generaal of dienstonderdelen van het DGBD, het DGTSL en het DGD, dan is diegene bij wiens directoraat-generaal of organisatieonderdeel van het DGBD, het DGTSL of het DGD het zwaartepunt van het verzoek ligt, bevoegd overeenkomstig de [artikelen 19a tot en met 19c](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4a&artikel=19a&z=2024-06-15&g=2024-05-01). De bevoegdheden worden uitgeoefend in overeenstemming met de directoraten-generaal of dienstonderdelen van het DGBD, het DGTSL en het DGD waar tevens informatie berust waarop het Woo-verzoek betrekking heeft.
+1. Indien een Woo-verzoek betrekking heeft op informatie die berust bij meerdere directoraten-generaal of dienstonderdelen van het DGBD, het DGTSL en het DGD, dan is diegene bij wiens directoraat-generaal of organisatieonderdeel van het DGBD, het DGTSL of het DGD het zwaartepunt van het verzoek ligt, bevoegd overeenkomstig de [artikelen 19a tot en met 19c](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4a&artikel=19a&z=2024-06-15&g=2024-06-15). De bevoegdheden worden uitgeoefend in overeenstemming met de directoraten-generaal of dienstonderdelen van het DGBD, het DGTSL en het DGD waar tevens informatie berust waarop het Woo-verzoek betrekking heeft.
 
 2. Bij welk organisatieonderdeel het zwaartepunt van het verzoek ligt, wordt in onderling overleg tussen de betrokken directoraten-generaal of organisatieonderdelen van het DGBD, het DGTSL en het DGD bepaald.
+
+3. Aan de directeur Informatievoorziening en Openbaarmaking en het (plaatsvervangend) afdelingshoofd Openbaarmaking en Transparantie wordt mandaat verleend om te besluiten op Woo-verzoeken voor zover het zwaartepunt van een verzoek niet duidelijk bij een dienstonderdeel van het kernministerie ligt of wanneer er geen informatie bij een organisatieonderdeel berust.
 
 ### Hoofdstuk 5. Slotbepalingen
 
@@ -730,9 +730,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 5. Slotbepalingen
 
-## Bijlage. als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=18&z=2024-06-15&g=2024-05-01)
+## Bijlage. als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=18&z=2024-06-15&g=2024-06-15)
 
-De personeelsaangelegenheden als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=18&z=2024-06-15&g=2024-05-01) van het Mandaatbesluit Ministerie van Financiën 2020 zijn:
+De personeelsaangelegenheden als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4&artikel=18&z=2024-06-15&g=2024-06-15) van het Mandaatbesluit Ministerie van Financiën 2020 zijn:
 
 - •. stopzetten of opschorten beloning bij ziekte;
 
