@@ -4,7 +4,7 @@ identifier: "BWBR0045003"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-06-15"
-last_updated: "2023-01-17"
+last_updated: "2024-06-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045003"
 soort: "zbo"
@@ -48,7 +48,7 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- **afdelingshoofd:** degene onder wiens directe verantwoordelijkheid de afdeling Nt2, mbo en po (samen Nmp), Vo of Staf valt;
+- **afdelingshoofd:** degene onder wiens directe verantwoordelijkheid de afdeling Nt2, mbo en po (samen nmp), vo of staf valt;
 
 - **college:** het College voor Toetsen en Examens;
 
@@ -62,7 +62,7 @@ In dit besluit wordt verstaan onder:
 
 - **secretaris-directeur:** de directeur als bedoeld in [artikel 5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=5) en [artikel 1, onderdeel h, van het Organisatie en mandaatbesluit OCW 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=1);
 
-- **teamleider:** degene onder wiens directe verantwoordelijkheid het team Bedrijfsvoering of het team Communicatie valt;
+- **teamleider:** degene onder wiens directe verantwoordelijkheid een team valt;
 
 - **vaststellingscommissie:** een vaststellingscommissie van het College voor Toetsen en Examens als bedoeld in [artikel 1 van de Regeling beoordelingsnormen en bijbehorende scores bij centrale examinering mbo (2015)](https://wetten.overheid.nl/jci1.3:c:BWBR0037082&artikel=1);
 
@@ -92,7 +92,7 @@ De organisatie van het bureau van het college wordt vastgesteld overeenkomstig d
 
 - c. stukken gericht aan de Nationale ombudsman en het College voor de rechten van de mens;
 
-- d. beslissingen als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0045003&hoofdstuk=2&artikel=12&z=2023-01-17&g=2023-01-17), en
+- d. beslissingen als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0045003&hoofdstuk=2&artikel=12&z=2024-06-15&g=2024-06-15), en
 
 - e. beslissingen op bezwaar of het indienen van beroepschriften.
 
@@ -148,7 +148,7 @@ De afdelingshoofden en clustermanagers hebben, onverminderd het mandaat aan de v
 
 ##### Artikel 10. Vergaderingen
 
-1. Het college vergadert ten minste vijf maal per jaar en voorts wanneer een van de leden daarom verzoekt.
+1. Het college vergadert ten minste vier maal per jaar en voorts wanneer een van de leden daarom verzoekt.
 
 2. De secretaris-directeur draagt er zorg voor dat uitnodiging, agenda en stukken ten minste twee weken voor de vergadering worden verzonden aan de leden en de plaatsvervangende leden.
 
@@ -188,7 +188,7 @@ De afdelingshoofden en clustermanagers hebben, onverminderd het mandaat aan de v
 
 - c. het jaarverslag, bedoeld in [artikel 18 van de kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18), en
 
-- d. de klachtenprocedure, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0045003&hoofdstuk=3&artikel=17&z=2023-01-17&g=2023-01-17).
+- d. de klachtenprocedure, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0045003&hoofdstuk=3&artikel=17&z=2024-06-15&g=2024-06-15).
 
 2. Het college neemt voorts de volgende beslissingen of verricht de volgende handelingen:
 
@@ -204,7 +204,7 @@ De afdelingshoofden en clustermanagers hebben, onverminderd het mandaat aan de v
 
 ##### Artikel 13. Reikwijdte
 
-De [artikelen 14 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0045003&hoofdstuk=3&artikel=14&z=2023-01-17&g=2023-01-17) zijn van toepassing op de behandeling van de klachten, bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:1).
+De [artikelen 14 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0045003&hoofdstuk=3&artikel=14&z=2024-06-15&g=2024-06-15) zijn van toepassing op de behandeling van de klachten, bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:1).
 
 ##### Artikel 14. Klachtbehandeling
 
@@ -214,7 +214,7 @@ De [artikelen 14 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0045003&
 
 ##### Artikel 15. Klachtafdoening
 
-Een klacht wordt onverlet [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045003&hoofdstuk=1&artikel=8&z=2023-01-17&g=2023-01-17), afgedaan door de secretaris-directeur, tenzij de klacht naar aard of inhoud een zodanig gewicht heeft dat de voorzitter deze behoort af te doen.
+Een klacht wordt onverlet [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045003&hoofdstuk=1&artikel=8&z=2024-06-15&g=2024-06-15), afgedaan door de secretaris-directeur, tenzij de klacht naar aard of inhoud een zodanig gewicht heeft dat de voorzitter deze behoort af te doen.
 
 ##### Artikel 16. Klachtregistratie
 
@@ -230,9 +230,9 @@ Het college stelt een procedure vast voor de behandeling en afdoening van klacht
 
 Met nevenfuncties van een lid die ongewenst zijn voor een goede vervulling van zijn taak, als bedoeld in [artikel 13 van de kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=13), worden in elk geval bedoeld:
 
-- a. bestuurlijke taken bij een organisatie die betrokken is bij de uitvoering van wettelijke taken van het College, en
+- a. bestuurlijke taken bij een organisatie die betrokken is bij de uitvoering van wettelijke taken van het college, en
 
-- b. bestuurlijke verbondenheid aan een organisatie die betrokken is bij de uitvoering van wettelijke taken van het College.
+- b. bestuurlijke verbondenheid aan een organisatie die betrokken is bij de uitvoering van wettelijke taken van het college.
 
 ### Hoofdstuk 5. Slotbepalingen
 
@@ -248,7 +248,7 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit wordt aangehaald als: Bestuursreglement College voor Toetsen en Examens.
 
-## Bijlage. Organisatie van het College voor Toetsen en Examens als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045003&hoofdstuk=1&artikel=3&z=2023-01-17&g=2023-01-17)
+## Bijlage. Organisatie van het College voor Toetsen en Examens als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045003&hoofdstuk=1&artikel=3&z=2024-06-15&g=2024-06-15)
 
 ### Samenstelling College voor Toetsen en Examens
 
@@ -264,7 +264,7 @@ Het CvTE bestaat uit twee inhoudelijke afdelingen waarin alle toetsen en examens
 
 ### Afdelingen
 
-Er zijn drie afdelingshoofden. Ieder van hen is verantwoordelijk voor één afdeling. De afdelingshoofden kunnen elkaar (tijdelijk) vervangen. De afdeling vo is ontstaan uit een samenvoeging van de teams havo/vwo, vmbo en Staatsexamens vo. De afdeling Nmp is ontstaan uit een samenvoeging van de sectorale teams Staatsexamens **N**t2, **m**bo en **p**o. De afdeling Staf is ontstaan uit de samenvoeging van de teams Bestuur & Ondersteuning, Communicatie en Bedrijfsvoering.
+Er zijn drie afdelingshoofden. Ieder van hen is verantwoordelijk voor één afdeling. De afdelingshoofden kunnen elkaar (tijdelijk) vervangen. De afdeling vo is ontstaan uit een samenvoeging van de teams havo/vwo, vmbo en Staatsexamens vo. De afdeling nmp is ontstaan uit een samenvoeging van de sectorale teams Staatsexamens **N**t2, **m**bo en **p**o. De afdeling staf is ontstaan uit de samenvoeging van de teams Bestuur & Ondersteuning, Communicatie en Bedrijfsvoering.
 
 De inhoudelijke afdelingen bestaan uit clusters. Een cluster wordt geleid door een clustermanager, die verantwoordelijk is voor de ontwikkeling van de examens in het cluster en daarnaast voor een of meer thema’s (bv. regelgeving, logistiek of digitalisering) al dan niet georganiseerd in een thematisch werkverband. Een clustermanager stuurt één of meer vaststellings- of vakcommissies aan, voert de regie over de ontwikkeling van (nieuwe) examens en de implementatie van vernieuwingen binnen het eigen cluster van vakken en de examencyclus binnen het eigen cluster.
 
@@ -272,26 +272,32 @@ Daarnaast werken binnen de afdelingen een of meer programmamanagers. De programm
 
 Voor elk van de sectoren (vo, mbo, Nt2 en po) is een cluster-/programmamanager verantwoordelijk voor de normering:
 
-De clustermanagers met de aandachtsgebieden Leerlingen met een beperking en het Caribisch gebied vallen binnen de afdeling vo.
+De clustermanagers met de aandachtsgebieden passend toetsen en examineren vallen binnen de afdelingen vo en nmp. In zowel de afdeling vo als de afdeling nmp werken clustermanagers met het aandachtsgebied Caribisch Nederland.
 
-### Afdeling Staf
+### Afdeling staf
 
-De teamleiders van de teams Bedrijfsvoering en Communicatie vallen rechtstreeks onder het afdelingshoofd Staf en hebben de functionele verantwoordelijkheid voor de medewerkers binnen hun team, eveneens op basis van het [Organisatie- en mandaatbesluit OCW 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023543).
+De teamleiders van de teams HRM en Financiën, Ondersteuning, Digitalisering en Communicatie vallen rechtstreeks onder de secretaris-directeur en hebben de functionele verantwoordelijkheid voor de medewerkers binnen hun team, eveneens op basis van het Organisatie- en mandaatbesluit OCW 2008. De teamleider Communicatie is tevens afdelingshoofd en samen met de teamleider HRM en Financiën, tevens plaatsvervangend afdelingshoofd, personeel verantwoordelijk voor de medewerkers in de stafteams.
 
-Het team Bedrijfsvoering ondersteunt in brede administratieve zin het College, het bureau en de commissiestructuur. Het team verricht taken op het gebied van administratie, financiën, HRM, ICT, inkopen, huisvesting. Het team wordt aangestuurd door de teamleider bedrijfsvoering, die als lijnmanager de secretaris-directeur kan vervangen in P-direkt.
+De teams HRM & Financiën, Ondersteuning en Digitalisering ondersteunen in brede zin het college, het bureau en de commissiestructuur, en verrichten taken op het gebied van administratie, financiën, HRM, ICT, informatiehuishouding, inkopen en huisvesting. Het team Ondersteuning verricht tevens inhoudelijke taken uit het primair proces.
 
-Het team Communicatie is verantwoordelijk voor de (uitvoering van de) algehele, corporate communicatie van het CvTE en voor nieuw te ontwikkelen strategieën, middelen en kanalen. De ontwikkeling en aanpassing van strategieën vindt plaats in afstemming met het MT en waar van toepassing met het College. Het Klantcontactteam maakt onderdeel uit van het team Communicatie. Klantgerichte dienstverlening, klantbeheer en externe betrekkingen vormen de gemeenschappelijke deler. De coördinator Klantcontact stuurt de medewerkers Klantcontact functioneel aan.
+Het team Communicatie is verantwoordelijk voor de (uitvoering van de) algehele corporate communicatie van het CvTE en voor nieuw te ontwikkelen strategieën, middelen en kanalen. De ontwikkeling en aanpassing van strategieën vindt plaats in afstemming met het MT en waar van toepassing met het college. Het Klantcontactteam maakt onderdeel uit van het team Communicatie. Klantgerichte dienstverlening, klantbeheer en externe betrekkingen vormen de gemeenschappelijke deler. De coördinator Klantcontact stuurt de medewerkers Klantcontact functioneel aan.
 
 Het team Bestuur & Ondersteuning valt direct onder aansturing van het afdelingshoofd Staf en richt zich op de ondersteuning van College en directie ten aanzien van juridische advisering, digitalisering en ondersteuning.
 
 ### Organisatie van vaststellings- en vakcommissies
-
-Een belangrijk deel van de bevoegdheden van het College wordt in mandaat uitgevoerd door de medewerkers van het bureau en de commissies waarin medewerkers van het bureau, naast docenten en andere deskundigen, zitting hebben.
 
 Het College stelt verschillende soorten commissies in die onder meer de ontwikkeling van de centrale examens en toetsen Nederlandse taal en rekenen sturen en begeleiden: syllabuscommissies of toetswijzercommissies, en vaststellingscommissies of vakcommissie. Voor ieder van de onderwijssectoren is een commissie ingesteld. De syllabuscommissies of toetswijzercommissies beschrijven in syllabi of toetswijzers hoe de examens en toetsen er de komende jaren uit moeten zien. Deze commissies worden bemenst door docenten en andere experts uit de desbetreffende sectoren op voordracht van bonden of sectorraden. Daarnaast zitten er in verschillende commissies waarnemers uit andere sectoren in de commissies. Toetsdeskundigen van Cito vervullen een adviserende rol voor bovengenoemde commissies. De vaststellingscommissies (voor mbo) en vakcommissies (voor vo) stellen de examens en de toetsen vast en adviseren het College bij de normering ervan.
 
 Een vaststellings- of vakcommissie stelt items (mbo en Nt2) of examens (vo en Nt2) vast voor het betreffende vak. De commissie adviseert over de normering van de centrale examens. Zij adviseert over de constructie-opdracht aan Cito voor de centrale examens en geeft de syllabuscommissie gevraagd en ongevraagd advies over de inhoud van de syllabus in het vo. Voor Nt2 adviseert de commissie tevens over de cesuurbepaling.
 
 Met het instellen van het College voor examens in 2009 ([Wet College voor examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364), Stb.2009, 93), zijn de hoofdtaken van de Centrale examencommissie vaststelling opgaven, staatsexamencommissies VO en Nt2 in opgedragen aan het college. De staatsexamencommissies voor zowel de staatsexamens Nt2 als voor het vo als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025364) zijn toen opgehouden te bestaan. Een deel van de structuur is evenwel behouden. De vaststellingscommissies ingesteld voor het staatsexamen vo, onderscheidenlijk het staatsexamen Nt2, zijn nu verantwoordelijk voor het vaststellen van de opgaven, items en college-examens van de staatsexamens. Zij doen hetzelfde als de (andere) vaststellingscommissie en hebben tevens het mandaat om onder meer te beslissen tot het nemen van maatregelen naar aanleiding van onregelmatigheden. Tevens beoordelen de commissies het werk, stellen zij het resultaat vast en beslissen zij op verzoeken om een afwijkende wijze van examinering.
+
+Met het instellen van het College voor examens in 2009 ([Wet College voor examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364), Stb.2009, 93), zijn de hoofdtaken van de Centrale examencommissie vaststelling opgaven, staatsexamencommissies VO en Nt2 in opgedragen aan het college. De staatsexamencommissies voor zowel de staatsexamens Nt2 als voor het vo als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025364) zijn toen opgehouden te bestaan. Een deel van de structuur is evenwel behouden. De vaststellingscommissies ingesteld voor het staatsexamen vo, onderscheidenlijk het staatsexamen Nt2, zijn nu verantwoordelijk voor het vaststellen van de opgaven, items en college-examens van de staatsexamens. Zij doen hetzelfde als de (andere) vaststellingscommissie en hebben tevens het mandaat om onder meer te beslissen tot het nemen van maatregelen naar aanleiding van onregelmatigheden. Tevens beoordelen de commissies het werk, stellen zij het resultaat vast en beslissen zij op verzoeken om een afwijkende wijze van examinering.
+
+Dit besluit zal met de bijbehorende toelichting in de Staatscourant worden geplaatst.
+
+### Organisatie van vaststellings- en vakcommissies
+
+Een belangrijk deel van de bevoegdheden van het College wordt in mandaat uitgevoerd door de medewerkers van het bureau en de commissies waarin medewerkers van het bureau, naast docenten en andere deskundigen, zitting hebben.
 
 Dit besluit zal met de bijbehorende toelichting in de Staatscourant worden geplaatst.
