@@ -4,7 +4,7 @@ identifier: "BWBR0043027"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-03"
-last_updated: "2024-05-01"
+last_updated: "2024-06-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043027"
 soort: "ministeriele-regeling"
@@ -68,6 +68,14 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - j. **bedrijfsvoering:** onderwerpen op de terreinen van personeel en organisatie, informatievoorziening en ict, inkoop, huisvesting, facilitaire zaken en beveiliging;
 
+- k. **eigenaar:** degene die oog houdt voor stabiliteit en continuïteit van een organisatie en is verantwoordelijk voor het inrichten en faciliteren van de governancestructuur gebaseerd op het rijksbreed toegepaste driehoeksmodel;
+
+- l. **opdrachtnemer:** degene die verantwoordelijk is voor een doelmatige, doeltreffende en rechtmatige uitvoering van (fiscale) wet- en regelgeving en de verantwoording hierover;
+
+- m. **opdrachtgever:** degene die verantwoordelijk is voor een uitvoerbare formulering van de beleidsopdracht, met een zo concreet mogelijke omschrijving van de gewenste beleidsdoelen en resultaatafspraken;
+
+- n. **coördinerend opdrachtgever:** degene die de integrale benadering van beleid en uitvoering bevordert via de coördinatie van de beleid- en opdrachtcyclus in nauwe samenwerking met de opdrachtgever en de opdrachtnemer.
+
 ### Hoofdstuk 2. Algemene leiding
 
 ##### Artikel 2. Missie en taakopdracht
@@ -82,9 +90,17 @@ De algemene leiding hanteert de basiswaarden van het ministerie en draagt zorg v
 
 2. De SG is verantwoordelijk voor de beleidsterreinen van de direct onder hem ressorterende directies en diensten, behorende tot het SG-cluster, voor de samenhang tussen die beleidsterreinen en voor de bijbehorende bedrijfsvoering. De SG geeft leiding aan de onder hem ressorterende directeuren.
 
-3. De SG treft een vervangingsregeling inzake vervanging bij zijn afwezigheid, met inachtneming van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2024-06-15&g=2024-05-01).
+3. De SG is verantwoordelijk voor de volgende organisatieonderdelen binnen het cluster SG:
 
-4. De directeur-generaal Fiscale Zaken vervangt de secretaris-generaal tijdens diens afwezigheid, met inachtneming van de bevoegdheden van de pSG op grond van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2024-06-15&g=2024-05-01).
+- a. de directie Financieel-Economische Zaken;
+
+- b. de directie Algemene Financiële en Economische Politiek.
+
+4. De SG vervult de rol van eigenaar voor de zelfstandige bestuursorganen Autoriteit Financiële Markten (AFM) en De Nederlandsche Bank (DNB).
+
+5. De SG treft een vervangingsregeling inzake vervanging bij zijn afwezigheid, met inachtneming van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2024-06-15&g=2024-06-15).
+
+6. De directeur-generaal Fiscale Zaken vervangt de secretaris-generaal tijdens diens afwezigheid, met inachtneming van de bevoegdheden van de pSG op grond van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2024-06-15&g=2024-06-15).
 
 ##### Artikel 4. De bestuursraad
 
@@ -120,17 +136,9 @@ De algemene leiding hanteert de basiswaarden van het ministerie en draagt zorg v
 
 - a. de integrale ontwikkeling en realisering van de strategische doelstellingen op bedrijfsvoeringgebied voor het kernministerie en de Belastingdienst;
 
-- b. de afstemming van de bedrijfsvoering op het primaire proces van het kernministerie;
+- b. de afstemming van de bedrijfsvoering op het primaire proces van het kernministerie.
 
-- c. het categoriemanagement van de categorieën die ressorteren onder het kernministerie.
-
-2. De pSG is door middel van kaderstelling verantwoordelijk voor de bedrijfsvoering van de Belastingdienst en van de volgende onderdelen die rechtstreeks onder de SG vallen:
-
-- a. de directie Financieel-Economische Zaken;
-
-- b. de directie Algemene Financiële en Economische Politiek.
-
-3. De pSG is verantwoordelijk voor de volgende onderdelen binnen het cluster SG:
+2. De pSG is verantwoordelijk voor de volgende organisatieonderdelen binnen het cluster SG:
 
 - a. de directie Bedrijfsvoering;
 
@@ -144,21 +152,35 @@ De algemene leiding hanteert de basiswaarden van het ministerie en draagt zorg v
 
 - f. de (tijdelijke) programmadirectie Informatie op Orde;
 
-- g. de directie Digitalisering en Informatisering.
+- g. de concerndirectie Informatievoorziening en Openbaarmaking;
 
-4. De pSG is tevens verantwoordelijk voor de bedrijfsvoering van de volgende onderdelen, diensten en zelfstandig bestuursorganen:
+- h. de concerndirectie Mens en Organisatie;
 
-- a. de Waarderingskamer;
+- i. de Auditdienst Rijk;
 
-- b. de Stichting Waarborgfonds Motorverkeer;
+- j. de dienst Domeinen Roerende Zaken.
 
-- c. het Nederlands Bureau der Motorrijtuigverzekeraars;
+3. De pSG vervult de rol van eigenaar voor de volgende organisatieonderdelen binnen het ministerie en uitvoerende- en toezichthoudende organisaties buiten het ministerie:
 
-- d. de Commissie Eindtermen Accountantsopleiding;
+- a. de Belastingdienst;
 
-- e. de Auditdienst Rijk;
+- b. de Commissie Eindtermen Accountantsopleiding (CEA);
 
-- f. de dienst Domeinen Roerende Zaken.
+- c. de Dienst Toeslagen;
+
+- d. de Douane;
+
+- e. het Nederlands Bureau der Motorrijtuigverzekeraars (NBM);
+
+- f. de Stichting administratiekantoor beheer financiële instellingen (NL Financial Investments, NLFI);
+
+- g. het Waarborgfonds Motorverkeer;
+
+- h. de Waarderingskamer.
+
+De verantwoordelijkheid voor de bedrijfsvoering van deze organisaties ligt in beginsel bij genoemde organisaties.
+
+4. De pSG vervult een beheersmatige rol ten aanzien van de Auditdienst Rijk gelet op de positie van de Auditdienst Rijk in het controlebestel.
 
 5. Bij afwezigheid van de SG treedt de pSG op als plaatsvervanger ten aanzien van:
 
@@ -188,13 +210,13 @@ De algemene leiding hanteert de basiswaarden van het ministerie en draagt zorg v
 
 3. Dienstonderdelen van het ministerie verstrekken de dCIO de informatie die noodzakelijk is voor de uitoefening van diens taken.
 
-4. De dCIO wordt ondersteund door de directie Digitalisering en Informatisering.
+4. De dCIO wordt ondersteund door de concerndirectie Informatievoorziening en Openbaarmaking.
 
-5. De directeur Digitalisering en Informatisering is de plaatsvervangend dCIO.
+5. De directeur Informatievoorziening en Openbaarmaking is de plaatsvervangend dCIO.
 
 ##### Artikel 7. Coördinerend Directeur Inkoop (CDI)
 
-1. De directeur Bedrijfsvoering is Coördinerend Directeur Inkoop (CDI) en is verantwoordelijk voor het goed functioneren van het inkoopstelsel binnen het ministerie van Financiën.
+1. De directeur Bedrijfsvoering is Coördinerend Directeur Inkoop (CDI) en is verantwoordelijk voor het goed functioneren van het inkoopstelsel binnen het ministerie van Financiën en het categoriemanagement van de categorieën die ressorteren onder het ministerie.
 
 2. De CDI heeft de volgende hoofdtaken:
 
@@ -232,7 +254,9 @@ De algemene leiding hanteert de basiswaarden van het ministerie en draagt zorg v
 
 - h. een directeur van het SG-cluster, niet zijnde de directeur Bedrijfsvoering;
 
-- i. de directeur Digitalisering en Informatisering.
+- i. de directeur Informatievoorziening en Openbaarmaking;
+
+- j. de directeur concerndirectie Mens en Organisatie.
 
 3. De pSG is voorzitter van het bedrijfsvoeringsberaad.
 
@@ -264,9 +288,9 @@ Het ministerie heeft een hoofdstructuur, bestaande uit de volgende dienstonderde
 
 ##### Artikel 11. Tijdelijke organisatieonderdelen
 
-1. Buiten de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2024-06-15&g=2024-05-01) kan de SG een tijdelijk directoraat-generaal voor grote projecten instellen.
+1. Buiten de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2024-06-15&g=2024-06-15) kan de SG een tijdelijk directoraat-generaal voor grote projecten instellen.
 
-2. Passend binnen de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2024-06-15&g=2024-05-01) kan de SG of de pSG tijdelijke organisatieonderdelen instellen.
+2. Passend binnen de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2024-06-15&g=2024-06-15) kan de SG of de pSG tijdelijke organisatieonderdelen instellen.
 
 3. De SG kan de directeuren-generaal Belastingdienst, Toeslagen en Douane ieder afzonderlijk toestemming verlenen om, met inachtneming van de structuur van respectievelijk het DGBD, het DGTSL en het DGD, en de taken genoemd in het [Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045076), tijdelijke organisatieonderdelen in te stellen.
 
@@ -282,7 +306,7 @@ Het ministerie heeft een hoofdstructuur, bestaande uit de volgende dienstonderde
 
 - b. de directie Bedrijfsvoering;
 
-- c. de BVA-Office;
+- c. het BVA-Office;
 
 - d. de directie Juridische Zaken;
 
@@ -294,7 +318,9 @@ Het ministerie heeft een hoofdstructuur, bestaande uit de volgende dienstonderde
 
 - h. de (tijdelijke) programmadirectie Informatie op Orde;
 
-- i. de directie Digitalisering en Informatisering.
+- i. de concerndirectie Informatievoorziening en Openbaarmaking;
+
+- j. de concerndirectie Mens en Organisatie.
 
 2. Het SG-cluster bestaat tevens uit de volgende Rijksbrede organisatieonderdelen:
 
@@ -358,23 +384,23 @@ De directie AFEP heeft de volgende hoofdtaken:
 
 1. De directie Bedrijfsvoering heeft de volgende hoofdtaken:
 
-- a. zorgdragen voor adequate ondersteuning van het bedrijfsvoeringsproces van het kernministerie en de IBTD integraal en POIFAH-breed;
+- a. zorgdragen voor adequate ondersteuning van het bedrijfsvoeringsproces van het kernministerie en de IBTD integraal op terreinen van inkoop, huisvesting, facilitaire zaken en beveiliging;
 
 - b. het adviseren over en uitvoeren van opdrachten van de Bestuursraad en het bedrijfsvoeringsberaad;
 
 - c. het zorgdragen voor de kaderstelling voor en het toezicht op de uitvoering door de uitvoerende diensten van het ministerie (Belastingdienst, ADR en domeinen);
 
-- d. regie voeren op leverende partijen binnen en buiten de Rijksoverheid.
+- d. regie voeren op leverende partijen binnen en buiten de Rijksoverheid;
+
+- e. het ondertekenen van de rijksbrede overeenkomsten in het kader van categoriemanagement, voor zover het de categorieën betreft die ressorteren onder het ministerie.
 
 2. Onder de directie Bedrijfsvoering ressorteren naast de staf de volgende eenheden en teams:
 
 - a. eenheid Facilitair Huisvesting en Services (FHS);
 
-- b. eenheid Organisatie en Personeel (O&P);
+- b. team Financiën;
 
-- c. team Financiën;
-
-- d. afdeling CDI Office en Categoriemanagement.
+- c. afdeling CDI Office en Categoriemanagement.
 
 3. Het team Financiën en de afdeling CDI Office en Categoriemanagement zijn rechtstreeks geplaatst onder de directeur Bedrijfsvoering.
 
@@ -388,21 +414,7 @@ De directie AFEP heeft de volgende hoofdtaken:
 
 - d. leveren van uiteenlopende bedrijfsvoeringbrede dienstverlening.
 
-5. De eenheid O&P heeft de volgende taken:
-
-- a. interne advisering van de leiding en het management van het departement over de uitvoering van het personeelsmanagement, het personeelsbeleid en de ontwikkeling van de organisatie;
-
-- b. regie voeren op taken en opdrachten op het gebied van organisatie en personeel die zijn belegd bij SSC’s, expertise centrale en in voorkomende gevallen externe partijen;
-
-- c. het uitvoeren van arbeidsjuridische procedures voor alle directies binnen het Ministerie van Financiën;
-
-- d. het vertegenwoordigen van het ministerie in interdepartementale arbeidsjuridische gremia en arbeidsjuridische fora;
-
-- e. het zorgdragen voor een samenhangend, integraal integriteitsbeleid en het initiëren, regisseren en het toezien op een adequate uitvoering van dit beleid binnen het Ministerie van Financiën;
-
-- f. de uitvoering van het personeelsbeheer.
-
-6. Het team Financiën heeft de volgende taken:
+5. Het team Financiën heeft de volgende taken:
 
 - a. financieel advies en business control;
 
@@ -410,7 +422,7 @@ De directie AFEP heeft de volgende hoofdtaken:
 
 - c. uitvoeren en mede ontwikkelen van de DG-Financiële Advies functie, de Planning & Control, Begrotingscyclus en AO/IC van het kernministerie en de IBTD, rekening houdend met de rol van de directie FEZ.
 
-7. De afdeling CDI Office en Categoriemanagement heeft de volgende taken:
+6. De afdeling CDI Office en Categoriemanagement heeft de volgende taken:
 
 - a. beleid op het gebied van inkoop en contractmanagement formuleren en implementeren, waaronder departementaal beleid op het gebied van inkoop als bedoeld in het Taakbesluit CPO Rijk en het Taakbesluit CDI;
 
@@ -420,7 +432,7 @@ De directie AFEP heeft de volgende hoofdtaken:
 
 - d. het bijdragen aan de rijksbrede strategische opdracht vanuit de categorieën waarvan het eigenaarschap is toebedeeld aan het Ministerie van Financiën.
 
-8. De directeur Bedrijfsvoering is tevens Coördinerend Directeur Inkoop (CDI) als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=7&z=2024-06-15&g=2024-05-01). Het afdelingshoofd CDI Office en Categoriemanagement is tevens plaatsvervangend CDI.
+7. De directeur Bedrijfsvoering is tevens Coördinerend Directeur Inkoop (CDI) als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=7&z=2024-06-15&g=2024-06-15). Het afdelingshoofd CDI Office en Categoriemanagement is tevens plaatsvervangend CDI.
 
 ##### Artikel 15. Het Beveiligingsambtenaar-Office (BVA-Office)
 
@@ -434,7 +446,7 @@ De directie AFEP heeft de volgende hoofdtaken:
 
 - iii. beveiligingsbewustzijn.
 
-- b. integriteit en compliance (waaronder vertrouwensfuncties en kwetsbare functies);
+- b. integriteit en compliance (waaronder vertrouwensfuncties en kwetsbare functies), met inbegrip van het tot stand brengen van een insiderregeling voor het Ministerie van Financiën;
 
 - c. privacy;
 
@@ -460,51 +472,49 @@ De directie AFEP heeft de volgende hoofdtaken:
 
 - b. opstellen van overeenkomsten, convenanten en andere wilsuitingen van civielrechtelijke of publiekrechtelijke aard;
 
-- c. voeren en begeleiden van civielrechtelijke en bestuursrechtelijke procedures, met uitzondering van arbeidsjuridische procedures;
+- c. het behandelen van bezwaarschriften, (hoger) beroepschriften en daarmee samenhangende bestuursrechtelijke procedures voor het kernministerie, met uitzondering van arbeidsjuridische procedures;
 
-- d. adviseren over, het ondersteunen van de voorbereiding van besluiten dan wel het besluiten op verzoeken om informatie op grond van de Wet open overheid en het begeleiden dan wel voeren van bestuursrechtelijke procedures inzake Woo-verzoeken als bedoeld in de [artikelen 19a](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&artikel=19a) en [19b van het Mandaatbesluit Ministerie van Financiën 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&artikel=19b);
+- d. vertegenwoordigen van het ministerie in interdepartementale gremia en juridische fora;
 
-- e. vertegenwoordigen van het ministerie in interdepartementale gremia en juridische fora;
+- e. coördineren van de opdrachten aan de Landsadvocaat en andere juridische dienstverleners;
 
-- f. coördineren van de opdrachten aan de Landsadvocaat en andere juridische dienstverleners;
+- f. de (ondersteuning bij de) behandeling van aansprakelijkstellingen, alsmede de (ondersteuning bij de) behandeling en begeleiding van civielrechtelijke procedures, met uitzondering van arbeidsjuridische procedures;
 
-- g. bemiddelen bij juridische geschillen en het voeren van procedures voor alle directies binnen het ministerie van Financiën;
+- g. het voorbereiden van wetgeving op het gebied van de [Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429) en overige wet- en regelgeving voor zover die niet behoort tot het beleidsterrein van DGFZ of de directie Financiële Markten;
 
-- h. het voorbereiden van wetgeving op het gebied van de [Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429) en overige wet- en regelgeving voor zover die niet behoort tot het beleidsterrein van DGFZ of de directie Financiële Markten;
+- h. het voorbereiden van regelgeving op het gebied van het Organisatiebesluit en het Mandaatbesluit van het Ministerie van Financiën en van de directoraten-generaal Belastingdienst, Toeslagen en Douane;
 
-- i. het voorbereiden van regelgeving op het gebied van het Organisatiebesluit en het Mandaatbesluit van het Ministerie van Financiën en van de directoraten-generaal Belastingdienst, Toeslagen en Douane;
+- i. kwaliteitsbewaker van de juridische functie binnen het Ministerie van Financiën.
 
-- j. het zorgdragen voor een Insiderregeling Financiën, in overleg met de Compliance Officer van het BVA-Office en de eenheid O&P van het kernministerie.
-
-2. De directie Juridische Zaken bestaat uit een afdeling Publiekrecht, een afdeling Openbaarheid van bestuur en een afdeling Privaatrecht.
+2. De directie Juridische Zaken bestaat uit een afdeling Publiekrecht en een afdeling Privaatrecht.
 
 ##### Artikel 17. Directie Bestuursondersteuning en Advies (BOA)
 
 1. De directie Bestuursondersteuning en Advies heeft de volgende taken:
 
-- a. secretariële ondersteuning van de politieke leiding, SG, pSG en BOA;
+- a. de politiek-bestuurlijke advisering en ondersteuning van de politieke en ambtelijke top;
 
-- b. zorg dragen voor de logistieke afhandeling van stukken voor politieke leiding, SG, pSG en BOA;
+- b. de coördinatie van de voorbereiding en advisering van de ministerraad (MR), Onderraden, het Secretarissen-Generaal Overleg (SGO) en de bestuursraad;
 
-- c. zorg dragen voor logistieke en restauratieve voorzieningen van de bewindspersonen en ontvangen van hun gasten door de kamerbewaarders;
+- c. het interne en externe parlementaire coördinatiepunt en de parlementaire contactpersoon aangewezen op basis van de Aanwijzingen inzake externe contacten van rijksambtenaren;
 
-- d. protocollaire ondersteuning van de politieke en ambtelijke top, waaronder inkomende en uitgaande bezoeken van bewindspersonen en geschenkenbeleid;
+- d. het Departementaal Crisiscoördinatiecentrum (DCC);
 
-- e. politiek-bestuurlijke advisering van de ambtelijke en politieke top;
+- e. de protocollaire advisering en ondersteuning aan de politieke en ambtelijke leiding, waaronder inkomende en uitgaande bezoeken van de politieke leiding en diens geschenkenbeleid;
 
-- f. eigen dossiers, zoals de governance van AFM en DNB;
+- f. de governance en de benoemingen van de AFM en DNB;
 
-- g. het voeren van het secretariaat van de Bestuursraad en de Ministerstaf;
+- g. de optimalisatie en logistieke afhandeling van de stukken(stroom) voor de ambtelijke en politieke leiding;
 
-- h. de coördinatie van de voorbereiding van de Ministerraad, Onderraden en het SG-overleg;
+- h. de secretariële ondersteuning van de politieke leiding, SG en pSG;
 
-- i. crisiscoördinatie;
+- i. de logistieke en restauratieve voorzieningen van de politieke leiding, SG en pSG, alsook de ontvangst van hun gasten door de kamerbewaarders;
 
-- j. functioneren als parlementair coördinatiepunt, zowel intern als extern;
+- j. het adviseren van de SG en pSG als eigenaar over governance, continuïteit en lange termijn doelstellingen van de uitvoerende en toezichthoudende organisaties van of ressorterend onder het Ministerie van Financiën (eigenaarsperspectief); en
 
-- k. het volgen en monitoren van de stukkenstroom van het departement.
+- k. de departementale coördinatie en voorbereiding van parlementaire enquêtes.
 
-2. De directie Bestuursondersteuning en Advies bestaat uit een afdeling Advies, een afdeling Bestuursondersteuning en Protocol en een afdeling Parlementaire Enquêtes.
+2. De directie Bestuursondersteuning en Advies bestaat uit de afdelingen Advies, Bestuursondersteuning (BO), Eigenaarsadvisering (EA) en de tijdelijke projectafdeling Parlementaire enquêtes (PE).
 
 ##### Artikel 18. Directie Communicatie
 
@@ -518,11 +528,11 @@ De directie Communicatie heeft de volgende taken:
 
 - d. vertegenwoordigt het ministerie, uitgezonderd de IBTD, in externe, interdepartementale en interne gremia in relatie tot woordvoering, voorlichting en communicatie en vervult daarbij een voortrekkersrol in samenwerkingsprocessen en is tevens verantwoordelijk voor de departementsbrede communicatie met het parlement, behalve ten aanzien van de IBTD;
 
-- e. voert de hoofdredactie van de internetsite van het ministerie en van Fintranet, mede in reactie op maatschappelijk relevante ontwikkelingen;
+- e. voert de hoofdredactie van de internetsite van het ministerie, mede in reactie op maatschappelijk relevante ontwikkelingen;
 
-- f. het zorgen voor de regie op de invulling van nieuwe media/sociale media door het analyseren en ontsluiten van informatie voor het departement, het doen van literatuuronderzoek en het functioneel beheer van digitale kranten en functioneel beheer op Rijksportaal;
+- f. het zorgen voor de regie op de invulling van nieuwe media/sociale media door het analyseren en ontsluiten van informatie voor het departement, de bewindspersonen en de SG, het doen van literatuuronderzoek en het functioneel beheer van digitale kranten en functioneel beheer op Rijksportaal;
 
-- g. coördineert het beleid ter zake van uitnodigingen, werkbezoeken en speeches van de politieke leiding en verzorgt de organisatie van conferenties, congressen, seminars, bijeenkomsten en vergaderingen op het niveau van de politieke en ambtelijke leiding en verzorgt de werkzaamheden in verband met het aanvragen van Koninklijke onderscheidingen en protocollaire aangelegenheden en adviseert ter zake.
+- g. coördineert het beleid ter zake van uitnodigingen, werkbezoeken en speeches van de politieke leiding.
 
 ##### Artikel 19. Directie Financieel-Economische Zaken (DFEZ)
 
@@ -536,11 +546,9 @@ De directie Communicatie heeft de volgende taken:
 
 - d. het voorbereiden en (laten) uitvoeren van het departementale beleid op het terrein van de administratieve organisatie en bestuurlijke informatievoorziening (AO/BIV) en diverse andere taken;
 
-- e. het adviseren van de SG en de pSG als eigenaar over continuïteit en lange termijn doelstellingen van de uitvoerende en toezichthoudende organisaties van Financiën (eigenaarsperspectief);
+- e. kaders stellen voor en ontwikkelen van het departementale managementcontrolsysteem waarvan de begrotingscyclus, de departementale planning en controlcyclus en het risicomanagement deel uitmaken;
 
-- f. kaders stellen voor en ontwikkelen van het departementale managementcontrolsysteem waarvan de begrotingscyclus, de departementale planning en controlcyclus en het risicomanagement deel uitmaken;
-
-- g. het indienen van bezwaar en het instellen van beroep inzake belastingaangiften, in overeenstemming met de secretaris-generaal.
+- f. het indienen van bezwaar en het instellen van beroep inzake belastingaangiften, in overeenstemming met de secretaris-generaal.
 
 2. De directie Financieel-Economische Zaken bestaat uit een staf en de volgende afdelingen:
 
@@ -548,9 +556,7 @@ De directie Communicatie heeft de volgende taken:
 
 - b. afdeling Beleidscontrol met als hoofdtaak de toetsing van beleidsvoornemens van DG’s en directies op budgettaire/financiële consequenties, rechtmatigheid, doeltreffendheid en doelmatigheid;
 
-- c. afdeling Eigenaarsadvisering met als hoofdtaak advisering van de SG en de pSG als eigenaar over continuïteit en lange termijn doelstellingen van de uitvoerende en toezichthoudende organisaties van Financiën (eigenaarsperspectief);
-
-- d. afdeling Kaderstelling met als hoofdtaak de vertaling van rijksbrede kaderstelling op het terrein van financiële bedrijfs- en beleidsprocessen naar interne regelgeving.
+- c. afdeling Kaderstelling met als hoofdtaak de vertaling van rijksbrede kaderstelling op het terrein van financiële bedrijfs- en beleidsprocessen naar interne regelgeving.
 
 #### Paragraaf 4.3. Rijksbrede organisatieonderdelen SG-cluster
 
@@ -560,9 +566,9 @@ De directie Communicatie heeft de volgende taken:
 
 - a. het uitvoeren van de bij de [Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429) en het Besluit Auditdienst Rijk opgedragen taken betreffende de controle van de jaarlijkse financiële verantwoording en het onderzoeken van het gevoerde financiële en materieelbeheer van de ministeries;
 
-- b. het in opdracht van de ministeries uitvoeren van vraaggestuurde onderzoeken;
+- b. het in opdracht van de ministeries uitvoeren van gevraagde onderzoeken;
 
-- c. het op basis van de uitkomsten van uitgevoerde onderzoeken doen van aanbevelingen aan het management van de ministeries, in het bijzonder op het gebied van sturen, beheersen, verantwoorden en toezicht;
+- c. het op basis van de uitkomsten van uitgevoerde onderzoeken doen van aanbevelingen aan het management van de ministeries, in het bijzonder op het gebied van sturen, beheersen en verantwoorden;
 
 - d. optreden als auditautoriteit voor het Nederlandse Herstel- en Veerkrachtplan en, in lijn met [EU-verordening 2021/241](32141R2021) en EU-verordening 2-18/1046, bij elk betaalverzoek vanuit Nederland aan de Europese Unie in het kader van het Nederlandse Herstel- en Veerkrachtplan een samenvatting van audits opstellen over de besteding van de Europese middelen voor het uitvoeren van het Herstel- en Veerkrachtplan door de lidstaat Nederland.
 
@@ -638,6 +644,8 @@ De directie Communicatie heeft de volgende taken:
 
 3. De directeur-generaal Belastingdienst geeft leiding aan de onder hem ressorterende directeuren en voorziet daartoe in de nodige ondermandaten van die directeuren zoals geregeld in het [Mandaatbesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045078).
 
+4. De directeur-generaal Belastingdienst vervult de rol van opdrachtnemer in het driehoeksmodel dat van toepassing is.
+
 ##### Artikel 23. Missie en strategie Belastingdienst
 
 Vervallen
@@ -651,6 +659,8 @@ Vervallen
 2. De directeur-generaal Fiscale Zaken heeft een plaatsvervanger die hem bij afwezigheid vervangt.
 
 3. De directeur-generaal Fiscale Zaken geeft leiding aan de onder hem ressorterende directeuren.
+
+4. De directeur-generaal Fiscale Zaken vervult de rol van de (coördinerend) opdrachtgever in het driehoeksmodel dat van toepassing is.
 
 ##### Artikel 25. Structuur DGFZ
 
@@ -698,7 +708,7 @@ Het directoraat-generaal voor Fiscale Zaken:
 
 - a. de afdeling Analyse met als taken:
 
-- i. Verrichten van kwantitatieve en kwalitatieve analyses van het fiscale beleid;
+- i. Verrichten van kwantitatieve en kwalitatieve analyses van het (internationale) fiscale beleid ten behoeve van de heffing en de inning van belastingen, waaronder het beleid met betrekking tot internationale gegevensuitwisselingen;
 
 - ii. In internationaal verband participeren in strategische fiscale verkenningen en vergelijkende beleidsonderzoeken (bijv. OESO);
 
@@ -1388,17 +1398,17 @@ De SG, de DG’s en de IG leggen, aan het eind van het verslagjaar en tussentijd
 
 1. Een voornemen tot aanpassing van de organisatie zoals deze is weergegeven in dit besluit, wordt genomen door de secretaris-generaal, gehoord de bestuursraad.
 
-2. Het hoofd van de eenheid Organisatie en Personeel adviseert de secretaris-generaal alvorens een beslissing omtrent instemming wordt genomen.
+2. De directeur CDMO adviseert de secretaris-generaal alvorens een beslissing omtrent instemming wordt genomen.
 
 ##### Artikel 48. Organisatie- en formatierapport
 
-1. Elk onderdeel dat ressorteert onder de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2024-06-15&g=2024-05-01) genoemde dienstonderdelen ontwerpt en onderhoudt een organisatierapport en een formatierapport.
+1. Elk onderdeel dat ressorteert onder de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2024-06-15&g=2024-06-15) genoemde dienstonderdelen ontwerpt en onderhoudt een organisatierapport en een formatierapport.
 
-2. Voor zover een document als bedoeld in het eerste lid betrekking heeft op een dienstonderdeel, genoemd in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2024-06-15&g=2024-05-01), is de plaatsvervangend secretaris-generaal bevoegd het document namens de bewindspersoon vast te stellen.
+2. Voor zover een document als bedoeld in het eerste lid betrekking heeft op een dienstonderdeel, genoemd in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2024-06-15&g=2024-06-15), is de plaatsvervangend secretaris-generaal bevoegd het document namens de bewindspersoon vast te stellen.
 
 3. Voor zover een document als bedoeld in het eerste lid betrekking heeft op de IBTD is de IG bevoegd het document vast te stellen.
 
-4. Alvorens een document als bedoeld in het eerste lid, kan worden vastgesteld, behoeft dit de instemming van de bestuursraad, indien er sprake is van financiële meeruitgaven of een uitbreiding van de personele formatie. Het hoofd van de eenheid Organisatie & Personeel adviseren de bestuursraad alvorens een beslissing omtrent instemming wordt genomen.
+4. Alvorens een document als bedoeld in het eerste lid, kan worden vastgesteld, behoeft dit de instemming van de bestuursraad, indien er sprake is van financiële meeruitgaven of een uitbreiding van de personele formatie. De directeur CDMO adviseert de bestuursraad alvorens een beslissing omtrent instemming wordt genomen.
 
 5. Het vierde lid is niet van toepassing indien er sprake is van een uitbreiding van de personele formatie van de IBTD, voor zover die uitbreiding past binnen het budget van de IBTD.
 
@@ -1428,6 +1438,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 2. De directeur-generaal Toeslagen geeft leiding aan de onder hem ressorterende directeuren en voorziet daartoe in de nodige ondermandaten van die directeuren zoals geregeld in het [Mandaatbesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045078).
 
+3. De directeur-generaal Toeslagen vervult de rol van opdrachtnemer in het driehoeksmodel dat van toepassing is.
+
 ### Hoofdstuk 5A. Directoraat-generaal toeslagen
 
 ##### Artikel 23b. Directeur-generaal Douane
@@ -1435,6 +1447,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 1. De directeur-generaal Douane is verantwoordelijk voor de taken en verantwoordelijkheden van de organisatieonderdelen genoemd in [artikel 9 van het Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045076&artikel=9).
 
 2. De directeur-generaal Douane geeft leiding aan de onder hem ressorterende directeuren en voorziet daartoe in de nodige ondermandaten van die directeuren zoals geregeld in het [Mandaatbesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045078).
+
+3. De directeur-generaal Douane vervult de rol van opdrachtnemer in het driehoeksmodel dat van toepassing is.
 
 ### Hoofdstuk 5B. Directoraat-generaal douane
 
@@ -1568,11 +1582,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 19b. Directie Digitalisering en Informatisering (D&I)
+##### Artikel 19b. Concerndirectie Informatievoorziening en Openbaarmaking (CDIO)
 
-1. De directie Digitalisering en Informatisering heeft de volgende taken:
+1. De concerndirectie Informatievoorziening en Openbaarmaking heeft de volgende taken:
 
-- a. het uitvoeren van de taken van de dCIO conform [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=6&z=2024-06-15&g=2024-05-01) van dit besluit;
+- a. het uitvoeren van de taken van de dCIO conform [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=6&z=2024-06-15&g=2024-06-15) van dit besluit;
 
 - b. invulling geven aan de rol van de CIO van het kernministerie en [artikel 5, derde lid, van de Regeling Informatiehuishouding Financiën 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046157&artikel=5);
 
@@ -1586,9 +1600,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - g. zorgdragen voor specifieke en gemeenschappelijke ICT-diensten gericht op de ondersteuning van het kernministerie;
 
-- h. adviseren over en besluiten op verzoeken op grond van de Algemene verordening gegevensbescherming (AVG).
+- h. adviseren over en besluiten op verzoeken op grond van de Algemene verordening gegevensbescherming (AVG);
 
-2. De directie Digitalisering en Informatisering bestaat uit een afdeling D&I-beleid en een afdeling D&I-dienstverlening.
+- i. het departementaal formuleren van beleid en stellen van kaders op het gebied van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) en de inlichtingenplicht, als bedoeld in [artikel 68 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=68);
+
+- j. het departementaal adviseren over en het voorbereiden en nemen van besluiten op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754).
+
+2. De concerndirectie Informatievoorziening en Openbaarmaking bestaat uit een afdeling Openbaarmaking en Transparantie, een afdeling Informatiehuishouding, een afdeling Informatiebeleid en een afdeling Dienstverlening.
 
 #### Paragraaf 4.3. Rijksbrede organisatieonderdelen SG-cluster
 
