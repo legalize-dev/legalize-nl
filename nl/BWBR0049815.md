@@ -4,7 +4,7 @@ identifier: "BWBR0049815"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-19"
-last_updated: "2022-07-09"
+last_updated: "2024-06-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049815"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ Aan de algemeen directeur wordt mandaat, volmacht en machtiging verleend tot het
 
 Aan de algemeen directeur wordt:
 
-- a. mandaat verleend tot het beslissen op bezwaarschriften tegen besluiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049815&artikel=2&z=2024-06-19&g=2022-07-09), voor zover het besluit waartegen het bezwaar zich richt, niet door hem in mandaat is genomen;
+- a. mandaat verleend tot het beslissen op bezwaarschriften tegen besluiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049815&artikel=2&z=2024-06-19&g=2024-06-19), voor zover het besluit waartegen het bezwaar zich richt, niet door hem in mandaat is genomen;
 
 - b. machtiging verleend ten aanzien van verweer- en beroepschriften in administratieve procedures, het vertegenwoordigen van de Minister in deze procedures en tot het afdoen van alle stukken en het verrichten van alle feitelijke handelingen die daarop betrekking hebben.
 
