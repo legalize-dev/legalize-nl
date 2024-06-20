@@ -4,7 +4,7 @@ identifier: "BWBR0034295"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-20"
-last_updated: "2013-12-11"
+last_updated: "2024-06-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034295"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **de minister:** de Minister van Economische Zaken;
+- a. **de minister:** de Minister van Economische Zaken en Klimaat;
 
 - b. **commissie:** de Monitoring Commissie Corporate Governance Code.
 
@@ -56,7 +56,7 @@ In dit besluit wordt verstaan onder:
 
 1. Er is een Monitoring Commissie Corporate Governance Code.
 
-2. De commissie heeft tot taak de actualiteit en bruikbaarheid van de op grond van [artikel 391, vijfde lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=391) bij algemene maatregel van bestuur aangewezen gedragscode, de Nederlandse corporate governance code, te bevorderen.
+2. De commissie heeft tot taak de actualiteit en bruikbaarheid van de op grond van [artikel 391a, tweede lid, onderdeel e, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=391a) bij algemene maatregel van bestuur aangewezen gedragscode, de Nederlandse corporate governance code, te bevorderen.
 
 3. De commissie voert haar taak onder meer uit door:
 
@@ -64,17 +64,19 @@ In dit besluit wordt verstaan onder:
 
 - b. zich op de hoogte te stellen van internationale ontwikkelingen en gebruiken op het terrein van corporate governance met het oog op convergentie van nationale codes;
 
-- c. het signaleren van leemtes of onduidelijkheden in de code.
+- c. het signaleren van leemtes en onduidelijkheden in de code of overlap met wet- en regelgeving.
+
+4. De commissie kan de code gemotiveerd herzien.
 
 ##### Artikel 3
 
-De commissie doet ten minste eenmaal per jaar verslag aan de minister en de Ministers van Veiligheid en Justitie en van Financiën van haar bevindingen, vergezeld van commentaar op het gebruik van de gedragscode door vennootschappen en op de toereikendheid van de code aan de maatschappelijke en internationale corporate governance standaarden en praktijken. Het commentaar kan tevens, als richtlijn voor naleving, de visie van de commissie omvatten op de naleving van een of meer voorschriften van de gedragscode.
+De commissie doet ten minste eenmaal per jaar verslag aan de minister en de Ministers voor Rechtsbescherming en van Financiën van haar bevindingen, vergezeld van commentaar op het gebruik van de gedragscode door vennootschappen en op de toereikendheid van de code aan de maatschappelijke en internationale corporate governance standaarden en praktijken. Het commentaar kan tevens, als richtlijn voor naleving, de visie van de commissie omvatten op de naleving van een of meer voorschriften van de gedragscode.
 
 ##### Artikel 4
 
 1. De commissie bestaat uit een voorzitter en ten hoogste zeven andere leden.
 
-2. De voorzitter en de andere leden worden door de minister, in overeenstemming met de Ministers van Veiligheid en Justitie en van Financiën benoemd voor een termijn van vier jaar. De leden zijn herbenoembaar. De voorzitter en de andere leden kunnen door de minister worden geschorst en ontslagen.
+2. De voorzitter en de andere leden worden door de minister, in overeenstemming met de Ministers voor Rechtsbescherming en van Financiën benoemd voor een termijn van vier jaar. De leden zijn herbenoembaar. De voorzitter en de andere leden kunnen door de minister worden geschorst en ontslagen.
 
 3. De voorzitter en de leden worden benoemd op basis van hun deskundigheid en ervaring op het gebied van corporate governance en zijn afkomstig uit het bedrijfsleven, kringen van aandeelhouders, werknemersorganisaties en accountants en de wetenschap.
 
@@ -88,31 +90,21 @@ De commissie doet ten minste eenmaal per jaar verslag aan de minister en de Mini
 
 2. De commissie wordt ondersteund door een secretariaat.
 
-3. Het beheer van de bescheiden betreffende de werkzaamheden van de commissie geschiedt op overeenkomstige wijze als bij het Ministerie van Economische Zaken. De bescheiden worden na beëindiging van de werkzaamheden van de commissie bewaard in het archief van dat ministerie.
+3. Het beheer van de bescheiden betreffende de werkzaamheden van de commissie geschiedt op overeenkomstige wijze als bij het Ministerie van Economische Zaken en Klimaat. De bescheiden worden na beëindiging van de werkzaamheden van de commissie bewaard in het archief van dat ministerie.
 
 4. De commissie verstrekt desgevraagd aan de minister de voor de uitoefening van zijn taak benodigde inlichtingen. De minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de invulling van zijn taak redelijkerwijs nodig is.
 
 ##### Artikel 6
 
-De leden van de commissie ontvangen een vergoeding per vergadering van € 200.
+1. Aan de voorzitter van de commissie wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op het maximum van schaal 18 van paragraaf 6.3 van de CAO Rijk en de arbeidsduurfactor op 0,167 (6/36 uur).
+
+2. Aan de andere leden van de commissie wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op het maximum van schaal 18 van paragraaf 6.3 van de CAO Rijk en de arbeidsduurfactor op 0,111 (4/36 uur).
+
+3. Gastdeskundigen ontvangen per vergadering een vergoeding van 3% van het maximum van salarisschaal 18, zoals overeengekomen in de CAO Rijk.
 
 ##### Artikel 7
 
-Ter gelegenheid van de instelling van de commissie worden voor een periode van vier jaar tot lid van de commissie benoemd:
-
-- a. prof. dr. J.A. van Manen, te Amsterdam, tevens voorzitter;
-
-- b. prof. dr. B.E. Baarsma, te Amsterdam;
-
-- c. drs. E.F. Bos, te Amersfoort;
-
-- d. H.C.J. van den Burg, te Amsterdam;
-
-- e. mr. S. Hepkema, te Wassenaar;
-
-- f. RJ. van de Kraats RA, te Amsterdam;
-
-- g. prof. mr. H.M. Vletter-van Dort, te New York.
+Vervallen
 
 ##### Artikel 8
 
