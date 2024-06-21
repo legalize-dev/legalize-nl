@@ -4,7 +4,7 @@ identifier: "BWBR0049738"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-21"
-last_updated: "2024-05-30"
+last_updated: "2024-06-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049738"
 soort: "ministeriele-regeling"
@@ -36,7 +36,7 @@ entry_into_force: "2024-05-30"
 ---
 # Besluit van de Minister voor Rechtsbescherming van 22 mei 2024 nr. BOACAT2024/051, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Immigratie-en Naturalisatiedienst
 
-Gelezen het verzoek van de directeur-generaal Immigratie-en Naturalisatiedienst van 10 mei 2024 en de adviezen van de hoofdofficier van justitie bij het arrondissementsparket Rotterdam;
+Gelezen het verzoek van de directeur-generaal Immigratie-en Naturalisatiedienst van 10 mei 2024 en de adviezen van de hoofdofficier van justitie bij het Landelijk Parket en de korpschef als bedoeld in[artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27) waaruit blijkt dat de noodzaak tot het wijzigen van het eerder genoemde categoriale besluit aanwezig is;
 
 Gelet op:
 
@@ -54,7 +54,7 @@ Besluit:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049738&artikel=2&z=2024-05-30&g=2024-05-30).
+In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049738&artikel=2&z=2024-06-21&g=2024-06-21).
 
 ##### Artikel 2
 
@@ -74,7 +74,7 @@ Op grond van dit besluit kunnen maximaal 6 personen als buitengewoon opsporingsa
 
 ##### Artikel 5
 
-1. Als toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) is aangewezen de hoofdofficier van justitie bij het arrondissementsparket Rotterdam.
+1. Als toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) is aangewezen de hoofdofficier van justitie bij het Landelijk Parket.
 
 2. Als direct toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) is aangewezen de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27).
 
@@ -82,13 +82,13 @@ Op grond van dit besluit kunnen maximaal 6 personen als buitengewoon opsporingsa
 
 1. De directeur-generaal Immigratie-en Naturalisatiedienst brengt jaarlijks, voor 1 april, verslag uit over:
 
-- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049738&artikel=2&z=2024-05-30&g=2024-05-30) genoemde functie;
+- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049738&artikel=2&z=2024-06-21&g=2024-06-21) genoemde functie;
 
 - b. de door die buitengewoon opsporingsambtenaren verrichte activiteiten;
 
 - c. de stand van zaken met betrekking tot de opleiding van die buitengewoon opsporingsambtenaren, waarbij in ieder geval wordt aangegeven hoeveel personen in het verslagjaar zijn aangemeld voor het door de Minister voor Rechtsbescherming goedgekeurde examen en hoeveel personen in dat jaar voor dat examen zijn geslaagd.
 
-2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049738&artikel=5&z=2024-05-30&g=2024-05-30) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Justitie en Veiligheid, Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
+2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049738&artikel=5&z=2024-06-21&g=2024-06-21) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Justitie en Veiligheid, Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
 
 ##### Artikel 7
 
