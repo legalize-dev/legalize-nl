@@ -4,7 +4,7 @@ identifier: "BWBR0037244"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-06-22"
-last_updated: "2015-12-01"
+last_updated: "2024-06-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037244"
 soort: "AMvB"
@@ -90,21 +90,21 @@ Dit besluit is van toepassing op grote rechtspersonen, op organisaties van openb
 
 ##### Artikel 3
 
-1. De grote rechtspersonen, de organisaties van openbaar belang en de uitgevende instellingen stellen jaarlijks een verslag op over betalingen aan overheden en maken dit verslag openbaar.
+1. De grote rechtspersonen, de organisaties van openbaar belang en de uitgevende instellingen stellen jaarlijks een verslag op over betalingen aan overheden en maken dit verslag openbaar binnen twaalf maanden na afloop van het boekjaar op de wijze als bedoeld in [artikel 394, eerste lid, tweede volzin, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=394).
 
-2. Het eerste lid is niet van toepassing op de grote rechtspersonen, de organisaties van openbaar belang en de uitgevende instellingen waarvan de aan overheden verrichte betalingen zijn opgenomen in een geconsolideerd verslag over betalingen aan overheden dat overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037244&artikel=5&z=2015-12-01&g=2015-12-01) of overeenkomstig het recht van een lidstaat is opgesteld.
+2. Het eerste lid is niet van toepassing op de grote rechtspersonen, de organisaties van openbaar belang en de uitgevende instellingen waarvan de aan overheden verrichte betalingen zijn opgenomen in een geconsolideerd verslag over betalingen aan overheden dat overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037244&artikel=5&z=2024-06-22&g=2024-06-22) of overeenkomstig het recht van een lidstaat is opgesteld.
 
 ##### Artikel 4
 
 1. Een betaling, hetzij afzonderlijk, hetzij in een reeks van samenhangende betalingen, hoeft niet in het verslag te worden vermeld indien deze betaling in een boekjaar minder dan € 100.000 bedraagt.
 
-2. Met betrekking tot de in [artikel 1, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0037244&artikel=1&z=2015-12-01&g=2015-12-01), omschreven activiteiten wordt de onderstaande informatie voor het betrokken boekjaar in het verslag opgenomen:
+2. Met betrekking tot de in [artikel 1, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0037244&artikel=1&z=2024-06-22&g=2024-06-22), omschreven activiteiten wordt de onderstaande informatie voor het betrokken boekjaar in het verslag opgenomen:
 
 - a. het totale bedrag van aan elke overheid gedane betalingen;
 
-- b. het totale bedrag per soort betaling als genoemd in [artikel 1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0037244&artikel=1&z=2015-12-01&g=2015-12-01), die aan elke overheid is gedaan;
+- b. het totale bedrag per soort betaling als genoemd in [artikel 1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0037244&artikel=1&z=2024-06-22&g=2024-06-22), die aan elke overheid is gedaan;
 
-- c. ingeval deze betalingen aan een bepaald project zijn toegewezen, het totale bedrag per soort betaling als genoemd in [artikel 1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0037244&artikel=1&z=2015-12-01&g=2015-12-01), die voor elk dergelijk project is gedaan, en het totale bedrag aan betalingen voor elk dergelijk project.
+- c. ingeval deze betalingen aan een bepaald project zijn toegewezen, het totale bedrag per soort betaling als genoemd in [artikel 1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0037244&artikel=1&z=2024-06-22&g=2024-06-22), die voor elk dergelijk project is gedaan, en het totale bedrag aan betalingen voor elk dergelijk project.
 
 3. De rechtspersonen kunnen betalingen die zij verrichten om te voldoen aan betalingsverplichtingen op het niveau van de entiteit, op entiteitsniveau in plaats van op projectniveau rapporteren.
 
@@ -134,7 +134,7 @@ Deze vrijstellingen gelden enkel wanneer zij tevens ten behoeve van de geconsoli
 
 ##### Artikel 6
 
-De in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037244&artikel=2&z=2015-12-01&g=2015-12-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037244&artikel=5&z=2015-12-01&g=2015-12-01) bedoelde rechtspersonen, organisaties van openbaar belang en uitgevende instellingen die een verslag opstellen en openbaar maken dat voldoet aan de verslagleggingsvereisten van een derde land die overeenkomstig artikel 47 van [richtlijn 2013/34](32013L0034)/EU van het Europees Parlement en van de Raad betreffende de jaarlijkse financiële overzichten, geconsolideerde financiële overzichten en aanverwante verslagen van bepaalde ondernemingsvormen, tot wijziging van [richtlijn 2006/43/EG](32006L0043) van het Europees Parlement en de Raad en tot intrekking van [richtlijnen 78/660/EEG](31978L0660) en [83/349/EEG](31983L0349) van de Raad (PbEU 2013, L 182) als gelijkwaardig aan de vereisten van hoofdstuk 10 van die richtlijn zijn beoordeeld, zijn vrijgesteld van de vereisten van dit besluit, behoudens voor de verplichting om dat verslag bekend te maken als bedoeld in [artikel 392a, tweede lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=392a) en [artikel 5:25e van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25e).
+De in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037244&artikel=2&z=2024-06-22&g=2024-06-22) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037244&artikel=5&z=2024-06-22&g=2024-06-22) bedoelde rechtspersonen, organisaties van openbaar belang en uitgevende instellingen die een verslag opstellen en openbaar maken dat voldoet aan de verslagleggingsvereisten van een derde land die overeenkomstig artikel 47 van [richtlijn 2013/34](32013L0034)/EU van het Europees Parlement en van de Raad betreffende de jaarlijkse financiële overzichten, geconsolideerde financiële overzichten en aanverwante verslagen van bepaalde ondernemingsvormen, tot wijziging van [richtlijn 2006/43/EG](32006L0043) van het Europees Parlement en de Raad en tot intrekking van [richtlijnen 78/660/EEG](31978L0660) en [83/349/EEG](31983L0349) van de Raad (PbEU 2013, L 182) als gelijkwaardig aan de vereisten van hoofdstuk 10 van die richtlijn zijn beoordeeld, zijn vrijgesteld van de vereisten van dit besluit, behoudens voor de verplichting om dat verslag bekend te maken als bedoeld in [artikel 392a, tweede lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=392a) en [artikel 5:25e van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25e).
 
 ##### Artikel 7
 
