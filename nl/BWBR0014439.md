@@ -4,7 +4,7 @@ identifier: "BWBR0014439"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-06-22"
-last_updated: "2017-06-23"
+last_updated: "2024-06-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014439"
 soort: "AMvB"
@@ -64,7 +64,7 @@ In dit besluit en de daarop gebaseerde regeling wordt verstaan onder:
 
 3. Slechts de betrokkene die is aangesteld voor de politietaak, bedoeld in [artikel 2, onderdeel a, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), wordt uitgezonden ten behoeve van het uitvoeren van de politietaak.
 
-4. De duur van de uitzending bedraagt 6 maanden, te verlengen tot ten hoogste een jaar. In bijzondere omstandigheden kan van deze termijnen worden afgeweken.
+4. De duur van de uitzending bedraagt een jaar, te verlengen met ten hoogste een jaar. In bijzondere omstandigheden kan van deze termijnen worden afgeweken.
 
 ##### Artikel 3
 
