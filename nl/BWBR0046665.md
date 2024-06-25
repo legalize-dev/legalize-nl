@@ -4,7 +4,7 @@ identifier: "BWBR0046665"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-06-25"
-last_updated: "2024-06-01"
+last_updated: "2024-06-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046665"
 soort: "zbo"
@@ -61,7 +61,7 @@ Het bestuur verstrekt subsidies aan podia die bijdragen aan een kwalitatief hoog
 
 ##### Artikel 1.3. Subsidieperiode
 
-Subsidie wordt verstrekt voor een periode van twee kalenderjaren.
+Subsidie wordt verstrekt voor een periode van vier jaren.
 
 ##### Artikel 1.4. Subsidieplafonds
 
@@ -133,7 +133,7 @@ Een aanvraag kan worden gedaan door een rechtspersoon die artistiek en financiee
 
 ##### Artikel 2.5. Verdeling budget productiebijdrage
 
-1. Het bestuur kan, onverminderd het bepaalde in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0046665&paragraaf=2&artikel=2.4&z=2022-05-18&g=2024-06-01), aan een aanvrager een aanvullende productiebijdrage verstrekken voor podia die (co)produceren of bijdragen aan talentontwikkeling.
+1. Het bestuur kan, onverminderd het bepaalde in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0046665&paragraaf=2&artikel=2.4&z=2024-06-25&g=2024-06-25), aan een aanvrager een aanvullende productiebijdrage verstrekken voor podia die (co)produceren of bijdragen aan talentontwikkeling.
 
 2. De adviescommissies dragen per landsdeel een beperkt aantal podia voor dat in aanmerking komt voor een aanvullende productiebijdrage. De adviescommissies doen hun voordracht op basis van een bij de aanvraag ingediend plan waarin de in lid 1 bedoelde (co)producerende rol van het podium of bijdrage aan talentontwikkeling door het podium is toegelicht.
 
@@ -141,7 +141,7 @@ Een aanvraag kan worden gedaan door een rechtspersoon die artistiek en financiee
 
 ##### Artikel 2.6. Besluit
 
-Het bestuur informeert de aanvrager binnen 15 weken na de uiterlijke indiendatum schriftelijk over zijn besluit. Als voor de motivering van het besluit wordt verwezen naar een over de aanvraag uitgebracht advies wordt de tekst van het advies aan de aanvrager toegezonden.
+Het bestuur informeert de aanvrager binnen 26 weken na de uiterlijke indiendatum schriftelijk over zijn besluit. Als voor de motivering van het besluit wordt verwezen naar een over de aanvraag uitgebracht advies wordt de tekst van het advies aan de aanvrager toegezonden.
 
 #### Paragraaf 3. Programmeringsbijdrage
 
@@ -201,7 +201,7 @@ Een aanvraag voor de productiebijdrage kan worden ingediend voor (co)producerend
 
 ##### Artikel 4.4. Subsidiehoogte
 
-De subsidiehoogte van de productiebijdrage bedraagt 25.000 euro per jaar.
+De subsidiehoogte van de productiebijdrage bedraagt 29.400 euro per jaar.
 
 #### Paragraaf 5. Verplichtingen en verantwoording
 
@@ -221,7 +221,7 @@ De subsidiehoogte van de productiebijdrage bedraagt 25.000 euro per jaar.
 
 ##### Artikel 5.2. Verantwoording
 
-De subsidieontvanger stuurt binnen 3 maanden na het verstrijken van de in de beschikking opgenomen einddatum een verantwoording in over de verrichte activiteiten waarmee kan worden aangetoond dat de gesubsidieerde activiteiten volgens plan hebben plaatsgevonden.
+De subsidieontvanger stuurt gedurende de periode waarvoor het subsidie is verleend jaarlijks een verantwoording in over de verrichte activiteiten in de daaraan voorafgaande periode. Hiermee kan worden aangetoond dat de gesubsidieerde activiteiten volgens plan hebben plaatsgevonden.
 
 ##### Artikel 5.3. Vaststelling subsidie
 
