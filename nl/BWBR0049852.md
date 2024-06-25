@@ -4,7 +4,7 @@ identifier: "BWBR0049852"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-25"
-last_updated: "2024-01-02"
+last_updated: "2024-06-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049852"
 soort: "ministeriele-regeling"
@@ -40,7 +40,7 @@ besluit:
 
 ##### Artikel 1
 
-In dit besluit, de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0049852&bijlage=1&z=2024-06-25&g=2024-01-02) en daarop berustende bepalingen wordt verstaan onder:
+In dit besluit, de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0049852&bijlage=1&z=2024-06-25&g=2024-06-25) en daarop berustende bepalingen wordt verstaan onder:
 
 - a. **Minister:** de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
@@ -68,7 +68,7 @@ In dit besluit, de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0049852&bij
 
 ##### Artikel 2
 
-Voor de toepassing van dit besluit, de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0049852&bijlage=1&z=2024-06-25&g=2024-01-02) en daarop berustende bepalingen wordt met verlening van mandaat gelijkgesteld de verlening van:
+Voor de toepassing van dit besluit, de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0049852&bijlage=1&z=2024-06-25&g=2024-06-25) en daarop berustende bepalingen wordt met verlening van mandaat gelijkgesteld de verlening van:
 
 - a. volmacht om namens de Minister voor de Staat der Nederlanden privaatrechtelijke rechtshandelingen te verrichten;
 
@@ -100,7 +100,7 @@ Voor de toepassing van dit besluit, de [bijlage](https://wetten.overheid.nl/jci1
 
 ##### Artikel 6
 
-Aan het teamhoofd, afdelingshoofd en bureauhoofd, die, na afstemming met de DG-controller en na goedkeuring van de directeur-generaal, zijn opgenomen in het in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049852&artikel=11&z=2024-06-25&g=2024-01-02), genoemde mandaatregister, wordt mandaat verleend voor het aangaan van financiële verplichtingen en het doen van uitgaven. Dit mandaat is beperkt tot het budget dat aan de organisatorische eenheid waaraan het teamhoofd, afdelingshoofd of bureauhoofd verbonden is, ter beschikking is gesteld op basis van een door de directeur-generaal en de DG-controller goedgekeurde budgettaire uitwerking van dat deel van de begroting waarvoor het unithoofd, onder wie het teamhoofd, afdelingshoofd of bureauhoofd ressorteert, verantwoordelijk is, met een maximum van € 50.000,– per transactie.
+Aan het teamhoofd, afdelingshoofd en bureauhoofd, die, na afstemming met de DG-controller en na goedkeuring van de directeur-generaal, zijn opgenomen in het in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049852&artikel=11&z=2024-06-25&g=2024-06-25), genoemde mandaatregister, wordt mandaat verleend voor het aangaan van financiële verplichtingen en het doen van uitgaven. Dit mandaat is beperkt tot het budget dat aan de organisatorische eenheid waaraan het teamhoofd, afdelingshoofd of bureauhoofd verbonden is, ter beschikking is gesteld op basis van een door de directeur-generaal en de DG-controller goedgekeurde budgettaire uitwerking van dat deel van de begroting waarvoor het unithoofd, onder wie het teamhoofd, afdelingshoofd of bureauhoofd ressorteert, verantwoordelijk is, met een maximum van € 50.000,– per transactie.
 
 ##### Artikel 7
 
@@ -112,9 +112,9 @@ Aan de directeur en het unithoofd wordt mandaat verleend om namens de directeur-
 
 ##### Artikel 9
 
-1. Aan het MT-lid, unithoofd, afdelingshoofd, teamhoofd en bureauhoofd wordt, binnen de daarvoor gestelde financiële en arbeidsjuridische kaders, mandaat verleend voor personele aangelegenheden binnen de organisatorische eenheid waaraan hij of zij leiding geeft, overeenkomstig de bij dit besluit gevoegde [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0049852&bijlage=1&z=2024-06-25&g=2024-01-02).
+1. Aan het MT-lid, unithoofd, afdelingshoofd, teamhoofd en bureauhoofd wordt, binnen de daarvoor gestelde financiële en arbeidsjuridische kaders, mandaat verleend voor personele aangelegenheden binnen de organisatorische eenheid waaraan hij of zij leiding geeft, overeenkomstig de bij dit besluit gevoegde [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0049852&bijlage=1&z=2024-06-25&g=2024-06-25).
 
-2. Aan de coördinator met personeelsverantwoordelijkheid en de leerplekker wordt, binnen de daarvoor gestelde financiële en arbeidsjuridische kaders, mandaat verleend voor personele aangelegenheden binnen de organisatorische eenheid waaraan hij of zij leiding geeft, overeenkomstig de bij dit besluit gevoegde [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0049852&bijlage=1&z=2024-06-25&g=2024-01-02).
+2. Aan de coördinator met personeelsverantwoordelijkheid en de leerplekker wordt, binnen de daarvoor gestelde financiële en arbeidsjuridische kaders, mandaat verleend voor personele aangelegenheden binnen de organisatorische eenheid waaraan hij of zij leiding geeft, overeenkomstig de bij dit besluit gevoegde [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0049852&bijlage=1&z=2024-06-25&g=2024-06-25).
 
 3. Het eerste lid is van overeenkomstige toepassing op het niet aan de directeur-generaal ondergeschikte plaatsvervangend unithoofd en teamhoofd, werkzaam bij het Veiligheidsonderzoekenhuis.
 
