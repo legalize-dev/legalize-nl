@@ -4,7 +4,7 @@ identifier: "BWBR0028909"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2024-06-26"
-last_updated: "2019-07-12"
+last_updated: "2024-06-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028909"
 soort: "beleidsregel"
@@ -132,7 +132,7 @@ Het oordeel van de minister laat onverlet het uiteindelijke oordeel van de civie
 
 Niet voor avv in aanmerking komen cao-bepalingen die onvoldoende rechtswaarborgen voor betrokkenen geven bijvoorbeeld cao-bepalingen over disciplinaire maatregelen die tot een vermindering van loon kunnen leiden zoals boete, schorsing, degradatie, weigering van een periodieke verhoging, indien deze in de cao niet omkleed zijn met procedures en criteria ter waarborging van de rechten van betrokkenen (zoals schriftelijk meedelen van gronden, duur van de maatregel).
 
-Avv van een cao-bepaling die schorsing met vermindering van loon regelt is niet mogelijk, tenzij in de bepaling is aangegeven dat het alleen van toepassing kan zijn op situaties die op zichzelf volgens de wet ook een dringende reden voor ontslag op staande voet opleveren.
+Algemeenverbindendverklaring van een cao-bepaling die schorsing met vermindering van loon regelt is niet mogelijk, tenzij in de bepaling is aangegeven dat het alleen van toepassing kan zijn op situaties waarin het geheel of gedeeltelijk niet verrichten van de arbeid een oorzaak kent die in redelijkheid voor rekening van de werknemer behoort te komen (artikel 7:628 BW).
 
 Cao-bepalingen omtrent controle/toezicht op naleving van in de cao vastgelegde arbeidsvoorwaarden dienen in de vorm van concrete activiteiten in de cao te zijn vastgelegd en behoren tenminste met de volgende waarborgen te zijn omkleed:
 
@@ -240,7 +240,7 @@ Dit toetsingskader geldt vanaf 1 januari 1999.
 
 ### 4.2. Wel of geen cao
 
-Een cao is conform [artikel 1 van de Wet CAO](https://wetten.overheid.nl/jci1.3:c:BWBR0001937&artikel=1) een overeenkomst, aangegaan door één of meer werkgevers, of één of meer verenigingen met volledige rechtsbevoegdheid van werkgevers enerzijds en één of meer verenigingen met volledige rechtsbevoegdheid van werknemers anderzijds, waarbij voornamelijk of uitsluitend arbeidsvoorwaarden worden geregeld die bij arbeidsovereenkomsten in acht moeten worden genomen. In de [Wet CAO](https://wetten.overheid.nl/jci1.3:c:BWBR0001937) heeft het begrip arbeidsvoorwaarden een brede strekking en is niet limitatief afgegrensd. Cao-bepalingen die verband houden met arbeidsvoorziening, werkgelegenheid, arbeidsmarkt, arbeidsverhoudingen, arbeidsomstandigheden, scholing en toepassing van de cao kunnen voor avv in aanmerking komen. Bij de toetsing is een criterium dat de cao-bepaling primair verband moet houden met arbeid.
+Een cao is conform [artikel 1 van de Wet CAO](https://wetten.overheid.nl/jci1.3:c:BWBR0001937&artikel=1) een overeenkomst, aangegaan door één of meer werkgevers, of één of meer verenigingen met volledige rechtsbevoegdheid van werkgevers enerzijds en één of meer verenigingen met volledige rechtsbevoegdheid van werknemers anderzijds, waarbij voornamelijk of uitsluitend arbeidsvoorwaarden worden geregeld die bij arbeidsovereenkomsten in acht moeten worden genomen. In de [Wet CAO](https://wetten.overheid.nl/jci1.3:c:BWBR0001937) heeft het begrip arbeidsvoorwaarden een brede strekking en is niet limitatief afgegrensd. Cao-bepalingen die bijvoorbeeld verband houden met arbeidsvoorziening, werkgelegenheid, arbeidsmarkt, arbeidsverhoudingen, de inzet van flexibele arbeid, arbeidsomstandigheden, scholing, stages en toepassing van de cao kunnen voor een algemeenverbindendverklaring in aanmerking komen. Bij de toetsing is een criterium dat de cao-bepaling primair verband moet houden met arbeid.
 
 ### 4.3. Typen cao-bepalingen die wel c.q. niet voor avv in aanmerking komen
 
