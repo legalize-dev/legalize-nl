@@ -4,7 +4,7 @@ identifier: "BWBR0049626"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2024-04-27"
+last_updated: "2024-06-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049626"
 soort: "ministeriele-regeling"
@@ -48,11 +48,11 @@ In deze regeling wordt verstaan onder:
 
 - **grote onderneming:** onderneming als bedoeld in artikel 2, onderdeel 24, van de algemene groepsvrijstellingsverordening;
 
-- **Human Capital-activiteiten:** activiteiten als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&bijlage=2&z=2024-04-27&g=2024-04-27);
+- **Human Capital-activiteiten:** activiteiten als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&bijlage=2&z=2024-06-26&g=2024-06-26);
 
 - **industrieel onderzoek:** onderzoek als bedoeld in artikel 2, onderdeel 85, van de algemene groepsvrijstellingsverordening;
 
-- **JMDP:** Joint Maritime Digital Platform als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&bijlage=2&z=2024-04-27&g=2024-04-27);
+- **JMDP:** Joint Maritime Digital Platform als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&bijlage=2&z=2024-06-26&g=2024-06-26);
 
 - **Kaderbesluit:** [Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381);
 
@@ -60,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 - **kleine onderneming:** onderneming als bedoeld in artikel 2, onderdeel 2, van de algemene groepsvrijstellingsverordening;
 
-- **Maritiem Masterplan:** plan zoals samengevat opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&bijlage=1&z=2024-04-27&g=2024-04-27);
+- **Maritiem Masterplan:** plan zoals samengevat opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&bijlage=1&z=2024-06-26&g=2024-06-26);
 
 - **middelgrote onderneming:** onderneming als bedoeld in artikel 2, onderdeel 2, van de algemene groepsvrijstellingsverordening;
 
@@ -82,7 +82,7 @@ Deze regeling heeft als doel het stimuleren van activiteiten gericht op het verd
 
 1. De minister kan aan een aanvrager subsidie verstrekken voor O&D-projecten.
 
-2. Een O&D-project bevat een samenhangend geheel van activiteiten die passen binnen de doelstellingen en kaders van het Maritiem Masterplan en valt onder een van de volgende energielijnen, als omschreven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&bijlage=1&z=2024-04-27&g=2024-04-27):
+2. Een O&D-project bevat een samenhangend geheel van activiteiten die passen binnen de doelstellingen en kaders van het Maritiem Masterplan en valt onder een van de volgende energielijnen, als omschreven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&bijlage=1&z=2024-06-26&g=2024-06-26):
 
 - a. Energielijn waterstof;
 
@@ -103,6 +103,14 @@ Deze regeling heeft als doel het stimuleren van activiteiten gericht op het verd
 1. Als subsidiabele kosten komen uitsluitend in aanmerking de kosten, bedoeld in artikel 25, derde lid, van de algemene groepsvrijstellingsverordening.
 
 2. Onder artikel 25, derde lid, onderdeel e, van de algemene groepsvrijstellingsverordening vallen ook meerkosten brandstof en kosten om voor demonstratie noodzakelijke infrastructuur aan te leggen.
+
+3. Als standaardberekeningswijzen voor de berekening van uurtarieven worden gehanteerd:
+
+- a. een berekening op basis van integrale kostensystematiek;
+
+- b. een berekening op basis van kosten per kostendrager vermeerderd met een forfaitair vastgestelde opslag voor indirecte kosten; of
+
+- c. een forfaitair vastgesteld uurtarief voor loonkosten.
 
 ##### Artikel 6. Hoogte subsidie
 
@@ -136,11 +144,11 @@ Deze regeling heeft als doel het stimuleren van activiteiten gericht op het verd
 
 1. Het subsidieplafond bedraagt voor het jaar 2024 ten hoogste € 85 miljoen:
 
-- a. voor de energielijn, bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&artikel=3&z=2024-04-27&g=2024-04-27): € 40 miljoen;
+- a. voor de energielijn, bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&artikel=3&z=2024-06-26&g=2024-06-26): € 40 miljoen;
 
-- b. voor de energielijn, bedoeld in [artikel 3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&artikel=3&z=2024-04-27&g=2024-04-27): € 25 miljoen;
+- b. voor de energielijn, bedoeld in [artikel 3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&artikel=3&z=2024-06-26&g=2024-06-26): € 25 miljoen;
 
-- c. voor de energielijn, bedoeld in [artikel 3, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&artikel=3&z=2024-04-27&g=2024-04-27): € 20 miljoen.
+- c. voor de energielijn, bedoeld in [artikel 3, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&artikel=3&z=2024-06-26&g=2024-06-26): € 20 miljoen.
 
 2. De minister verdeelt het beschikbare bedrag op basis van de volgorde van rangschikking van de aanvragen.
 
@@ -160,7 +168,7 @@ Deze regeling heeft als doel het stimuleren van activiteiten gericht op het verd
 
 - d. de ketensamenwerking en Nederlandse betrokkenheid groter is;
 
-- e. de bijdrage van het project aan de samenwerking binnen het Maritiem Masterplan hoger is conform de beoordelingscriteria in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&bijlage=2&z=2024-04-27&g=2024-04-27), door:
+- e. de bijdrage van het project aan de samenwerking binnen het Maritiem Masterplan hoger is conform de beoordelingscriteria in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&bijlage=2&z=2024-06-26&g=2024-06-26), door:
 
 - i. de bijdrage aan het Joint Maritime Digital Platform; en
 
@@ -170,7 +178,7 @@ Deze regeling heeft als doel het stimuleren van activiteiten gericht op het verd
 
 ##### Artikel 9. Adviescommissie
 
-1. Er is een Adviescommissie O&D-projecten, die tot taak heeft de minister op zijn verzoek te adviseren omtrent de rangschikking en toekenning van punten op basis van de rangschikkingscriteria, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&artikel=8&z=2024-04-27&g=2024-04-27).
+1. Er is een Adviescommissie O&D-projecten, die tot taak heeft de minister op zijn verzoek te adviseren omtrent de rangschikking en toekenning van punten op basis van de rangschikkingscriteria, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&artikel=8&z=2024-06-26&g=2024-06-26).
 
 2. De commissie bestaat uit ten minste 3 en ten hoogste 5 leden.
 
@@ -206,9 +214,9 @@ Onverminderd de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&a
 
 - e. het aantal bij rangschikking toegekende punten in totaal minder is dan 65;
 
-- f. het aantal bij rangschikking toegekende punten aan een van de criteria genoemd in [artikel 8, eerste lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&artikel=8&z=2024-04-27&g=2024-04-27), minder is dan 10.
+- f. het aantal bij rangschikking toegekende punten aan een van de criteria genoemd in [artikel 8, eerste lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&artikel=8&z=2024-06-26&g=2024-06-26), minder is dan 10.
 
-- g. het aantal bij rangschikking toegekende punten aan een van de subonderdelen genoemd in [artikel 8, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&artikel=8&z=2024-04-27&g=2024-04-27), minder is dan 5; of
+- g. het aantal bij rangschikking toegekende punten aan een van de subonderdelen genoemd in [artikel 8, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&artikel=8&z=2024-06-26&g=2024-06-26), minder is dan 5; of
 
 - h. de subsidiabele kosten minder dan € 500.000,– per O&D-project bedragen.
 
@@ -288,13 +296,13 @@ Voor zover de subsidie wordt verleend ten laste van de nog niet door de Staten-G
 
 - a. een omschrijving van de projectresultaten van het O&D-project;
 
-- b. op welke wijze het O&D-project heeft bijgedragen aan het doel, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&artikel=2&z=2024-04-27&g=2024-04-27), en de energielijnen, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&artikel=3&z=2024-04-27&g=2024-04-27).
+- b. op welke wijze het O&D-project heeft bijgedragen aan het doel, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&artikel=2&z=2024-06-26&g=2024-06-26), en de energielijnen, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&artikel=3&z=2024-06-26&g=2024-06-26).
 
 3. Voorafgaand aan de aanvraag tot vaststelling van de subsidie dient de aanvrager bij RVO een verzoek in tot het bepalen van de restwaarde van de innovatieve aandrijflijn.
 
 ##### Artikel 19. Staatssteun
 
-De subsidie voor de subsidiabele activiteiten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&artikel=3&z=2024-04-27&g=2024-04-27) bevat voor zover een O&D-project betrekking heeft op industrieel onderzoek of experimentele ontwikkeling door een onderneming staatssteun en wordt gerechtvaardigd door artikel 25 van de algemene groepsvrijstellingsverordening.
+De subsidie voor de subsidiabele activiteiten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&artikel=3&z=2024-06-26&g=2024-06-26) bevat voor zover een O&D-project betrekking heeft op industrieel onderzoek of experimentele ontwikkeling door een onderneming staatssteun en wordt gerechtvaardigd door artikel 25 van de algemene groepsvrijstellingsverordening.
 
 ##### Artikel 20. Evaluatie
 
@@ -424,13 +432,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 5a. Berekening subsidiabele kosten bij toepassing integrale kostensystematiek
 
-1. Bij het hanteren van uurtarieven die tot stand zijn gekomen met de standaardberekeningswijze bedoeld in [artikel 5, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&artikel=5&z=2024-06-26&g=2024-04-27), worden de directe en indirecte kosten per kostendrager in een tarief per eenheid van deze kostendrager berekend.
+1. Bij het hanteren van uurtarieven die tot stand zijn gekomen met de standaardberekeningswijze bedoeld in [artikel 5, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&artikel=5&z=2024-06-26&g=2024-06-26), worden de directe en indirecte kosten per kostendrager in een tarief per eenheid van deze kostendrager berekend.
 
 2. De subsidiabele kosten worden berekend door het aantal eenheden van de kostendrager te vermenigvuldigen met het ingevolge het eerste lid berekende tarief, vermeerderd met de aan derden betaalde kosten voor zover deze geen deel uitmaken van het ingevolge het eerste lid vastgestelde tarief.
 
 ##### Artikel 5b. Berekening subsidiabele kosten bij toepassing kosten per kostendrager met opslag
 
-1. Bij het hanteren van uurtarieven die tot stand zijn gekomen met de standaardberekeningswijze bedoeld in [artikel 5, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&artikel=5&z=2024-06-26&g=2024-04-27), worden de directe loonkosten per uur vermenigvuldigd met het aantal uren dat direct bij de subsidiabele activiteiten betrokken personen ten behoeve van deze activiteiten hebben gewerkt.
+1. Bij het hanteren van uurtarieven die tot stand zijn gekomen met de standaardberekeningswijze bedoeld in [artikel 5, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&artikel=5&z=2024-06-26&g=2024-06-26), worden de directe loonkosten per uur vermenigvuldigd met het aantal uren dat direct bij de subsidiabele activiteiten betrokken personen ten behoeve van deze activiteiten hebben gewerkt.
 
 2. De subsidiabele kosten worden berekend door het ingevolge het eerste lid berekende bedrag te vermeerderen met:
 
@@ -444,7 +452,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 5c. Berekening met forfaitair uurtarief loonkosten
 
-1. Bij het hanteren van uurtarieven die tot stand zijn gekomen met de standaardberekeningswijze bedoeld in [artikel 5, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&artikel=5&z=2024-06-26&g=2024-04-27), wordt een uurtarief gehanteerd van € 80,– per uur.
+1. Bij het hanteren van uurtarieven die tot stand zijn gekomen met de standaardberekeningswijze bedoeld in [artikel 5, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049626&artikel=5&z=2024-06-26&g=2024-06-26), wordt een uurtarief gehanteerd van € 80,– per uur.
 
 2. De subsidiabele kosten worden berekend door het ingevolge het eerste lid gehanteerde bedrag te vermenigvuldigen met het aantal uren dat de direct bij de subsidiabele activiteiten betrokken personen ten behoeve van deze activiteiten hebben gewerkt en te vermeerderen met:
 
