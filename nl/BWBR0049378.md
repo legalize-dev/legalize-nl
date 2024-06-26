@@ -4,7 +4,7 @@ identifier: "BWBR0049378"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-26"
-last_updated: "2024-03-26"
+last_updated: "2024-06-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049378"
 soort: "ministeriele-regeling"
@@ -102,13 +102,21 @@ Het doel van deze regeling is het stimuleren van de realisatie van walstroomvoor
 
 3. Geen subsidie wordt verstrekt voor een walstroomvoorziening met hoogspanning die, inclusief het ontwerp, de installatie en het testen van de systemen, niet voldoet aan de technische specificaties van norm IEC/ISO/IEEE 80005-1:2019 voor walstroomvoorzieningen.
 
+4. Als standaardberekeningswijzen voor de berekening van uurtarieven worden gehanteerd:
+
+- a. een berekening op basis van integrale kostensystematiek;
+
+- b. een berekening op basis van kosten per kostendrager vermeerderd met een forfaitair vastgestelde opslag voor indirecte kosten; of
+
+- c. een forfaitair vastgesteld uurtarief voor loonkosten.
+
 ##### Artikel 4. Hoogte subsidie
 
 1. De subsidie bedraagt ten hoogste:
 
-- a. 45% van het in het tweede lid bedoelde bedrag voor activiteiten als bedoeld in [artikel 3, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0049378&artikel=3&z=2024-03-26&g=2024-03-26);
+- a. 45% van het in het tweede lid bedoelde bedrag voor activiteiten als bedoeld in [artikel 3, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0049378&artikel=3&z=2024-06-26&g=2024-06-26);
 
-- b. 30% van het in het tweede lid bedoelde bedrag voor activiteiten als bedoeld in [artikel 3, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0049378&artikel=3&z=2024-03-26&g=2024-03-26).
+- b. 30% van het in het tweede lid bedoelde bedrag voor activiteiten als bedoeld in [artikel 3, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0049378&artikel=3&z=2024-06-26&g=2024-06-26).
 
 2. De subsidie wordt berekend over:
 
@@ -120,17 +128,19 @@ Het doel van deze regeling is het stimuleren van de realisatie van walstroomvoor
 
 4. De subsidie wordt verleend met toepassing van artikel 56 ter van de algemene groepsvrijstellingsverordening.
 
+5. Subsidie die door de Commissie van de Europese Unie is verstrekt voor activiteiten als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049378&artikel=3&z=2024-06-26&g=2024-06-26), wordt niet in mindering gebracht op de subsidie waarvoor de aanvrager krachtens deze regeling in aanmerking komt.
+
 ##### Artikel 5. Subsidieplafonds en wijze van verdeling
 
 1. Het subsidieplafond voor deze regeling bedraagt in totaal:
 
-- a. voor activiteiten als bedoeld in [artikel 3, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0049378&artikel=3&z=2024-03-26&g=2024-03-26), € 170.000.000,00.
+- a. voor activiteiten als bedoeld in [artikel 3, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0049378&artikel=3&z=2024-06-26&g=2024-06-26), € 170.000.000,00.
 
-- b. voor activiteiten als bedoeld in [artikel 3, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0049378&artikel=3&z=2024-03-26&g=2024-03-26), € 10.000.000,00.
+- b. voor activiteiten als bedoeld in [artikel 3, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0049378&artikel=3&z=2024-06-26&g=2024-06-26), € 10.000.000,00.
 
-2. Het subsidieplafond voor activiteiten als bedoeld in [artikel 3, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0049378&artikel=3&z=2024-03-26&g=2024-03-26), bedraagt voor 2024 € 150.000.000,00.
+2. Het subsidieplafond voor activiteiten als bedoeld in [artikel 3, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0049378&artikel=3&z=2024-06-26&g=2024-06-26), bedraagt voor 2024 € 150.000.000,00.
 
-3. Het subsidieplafond voor activiteiten als bedoeld in [artikel 3, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0049378&artikel=3&z=2024-03-26&g=2024-03-26), bedraagt voor 2024 € 10.000.000,00.
+3. Het subsidieplafond voor activiteiten als bedoeld in [artikel 3, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0049378&artikel=3&z=2024-06-26&g=2024-06-26), bedraagt voor 2024 € 10.000.000,00.
 
 4. De Minister stelt de hoogte van de subsidieplafonds voor 2025 en 2026 vast voor aanvang van het tijdvak waarvoor deze worden vastgesteld en maakt dit bekend in de Staatscourant.
 
@@ -156,13 +166,13 @@ Het doel van deze regeling is het stimuleren van de realisatie van walstroomvoor
 
 - d. een prognose van de exploitatiewinst, indien de gevraagde subsidie meer dan € 5.500.000,00 bedraagt;
 
-- e. een onderbouwing dat de betreffende terminal voldoet aan de in [artikel 3, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0049378&artikel=3&z=2024-03-26&g=2024-03-26), gestelde voorwaarden indien subsidie wordt aangevraagd voor de activiteiten als bedoeld in dat onderdeel, in de vorm van:
+- e. een onderbouwing dat de betreffende terminal voldoet aan de in [artikel 3, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0049378&artikel=3&z=2024-06-26&g=2024-06-26), gestelde voorwaarden indien subsidie wordt aangevraagd voor de activiteiten als bedoeld in dat onderdeel, in de vorm van:
 
 - 1°. een opgave van het aantal containerzeeschepen, ro-ro-passagiersvaartuigen, hogesnelheidspassagiersvaartuigen of andersoortige passagiersschepen, van meer dan 5.000 brutoton dat de betreffende terminal in de drie kalenderjaren voorafgaand aan de subsidieaanvraag heeft aangedaan; of
 
 - 2°. een opgave van het aantal zeeschepen dat de betreffende terminal in het kalenderjaar voorafgaand aan de subsidieaanvraag heeft aangedaan en een verklaring van de havenbeheerder dat de betreffende terminal in voldoende mate bijdraagt aan het realiseren van walstroomvoorzieningen voor ten minste 90% van de containerzeeschepen, ro-ro-passagiersvaartuigen of hogesnelheidspassagiersvaartuigen of andersoortige passagiersschepen van meer dan 5.000 brutoton die de betreffende zeehaven aandoen.
 
-- f. een opgave van het aantal zeeschepen dat de betreffende terminal in het kalenderjaar voorafgaand aan de subsidieaanvraag heeft aangedaan, indien subsidie wordt gevraagd voor activiteiten als bedoeld in [artikel 3, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0049378&artikel=3&z=2024-03-26&g=2024-03-26).
+- f. een opgave van het aantal zeeschepen dat de betreffende terminal in het kalenderjaar voorafgaand aan de subsidieaanvraag heeft aangedaan, indien subsidie wordt gevraagd voor activiteiten als bedoeld in [artikel 3, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0049378&artikel=3&z=2024-06-26&g=2024-06-26).
 
 - g. een verklaring van de exploitant van de betreffende terminal dat deze instemt met de subsidieaanvraag, indien deze niet de aanvrager is.
 
@@ -176,15 +186,15 @@ Onverminderd de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&
 
 - c. sprake is van een onderneming in moeilijkheden als bedoeld artikel 2, achttiende lid, van de algemene groepsvrijstellingsverordening;
 
-- d. de werkzaamheden aan activiteiten als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049378&artikel=3&z=2024-03-26&g=2024-03-26) reeds zijn aangevangen voordat de aanvraag is ingediend; of
+- d. de werkzaamheden aan activiteiten als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049378&artikel=3&z=2024-06-26&g=2024-06-26) reeds zijn aangevangen voordat de aanvraag is ingediend; of
 
 - e. subsidieverstrekking niet in overeenstemming is met enige andere bepaling in de algemene groepsvrijstellingsverordening.
 
 ##### Artikel 8. Verplichtingen van de subsidieontvanger
 
-1. De activiteiten als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049378&artikel=3&z=2024-03-26&g=2024-03-26) worden binnen 48 maanden na de startdatum afgerond. De startdatum ligt maximaal 6 maanden na de datum van de beschikking tot subsidieverlening.
+1. De activiteiten als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049378&artikel=3&z=2024-06-26&g=2024-06-26) worden binnen 48 maanden na de startdatum afgerond. De startdatum ligt maximaal 6 maanden na de datum van de beschikking tot subsidieverlening.
 
-2. De subsidieontvanger doet gedurende de uitvoering van de activiteiten, onverminderd het bepaalde in [hoofdstuk 8 van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&hoofdstuk=8), middels een jaarrapport en een eindrapport verslag van de voortgang. Het eindrapport geeft de mate aan waarin deze activiteit naar verwachting gaat bijdragen aan het doel van deze regeling in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049378&artikel=2&z=2024-03-26&g=2024-03-26).
+2. De subsidieontvanger doet gedurende de uitvoering van de activiteiten, onverminderd het bepaalde in [hoofdstuk 8 van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&hoofdstuk=8), middels een jaarrapport en een eindrapport verslag van de voortgang. Het eindrapport geeft de mate aan waarin deze activiteit naar verwachting gaat bijdragen aan het doel van deze regeling in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049378&artikel=2&z=2024-06-26&g=2024-06-26).
 
 3. De subsidieontvanger toont aan dat de activiteiten zijn verricht en dat is voldaan aan de aan de subsidie verbonden verplichtingen.
 
@@ -200,7 +210,7 @@ Het voorschot bedraagt ten hoogste 80% van de subsidie waarvan achtereenvolgens 
 
 ##### Artikel 10. Subsidievaststelling
 
-Binnen dertien weken nadat de activiteiten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049378&artikel=3&z=2024-03-26&g=2024-03-26) zijn afgerond, wordt door de subsidieontvanger een aanvraag tot subsidievaststelling ingediend met gebruikmaking van een door de Minister beschikbaar gesteld digitaal formulier dat wordt geplaatst op de website van RVO.
+Binnen dertien weken nadat de activiteiten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049378&artikel=3&z=2024-06-26&g=2024-06-26) zijn afgerond, wordt door de subsidieontvanger een aanvraag tot subsidievaststelling ingediend met gebruikmaking van een door de Minister beschikbaar gesteld digitaal formulier dat wordt geplaatst op de website van RVO.
 
 ##### Artikel 11. Verslag
 
@@ -220,13 +230,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 3a. Berekening subsidiabele kosten bij toepassing integrale kostensystematiek
 
-1. Bij het hanteren van uurtarieven die tot stand zijn gekomen met de standaardberekeningswijze bedoeld in [artikel 3, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049378&artikel=3&z=2024-06-26&g=2024-03-26), worden de directe en indirecte kosten per kostendrager in een tarief per eenheid van deze kostendrager berekend.
+1. Bij het hanteren van uurtarieven die tot stand zijn gekomen met de standaardberekeningswijze bedoeld in [artikel 3, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049378&artikel=3&z=2024-06-26&g=2024-06-26), worden de directe en indirecte kosten per kostendrager in een tarief per eenheid van deze kostendrager berekend.
 
 2. De subsidiabele kosten worden berekend door het aantal eenheden van de kostendrager te vermenigvuldigen met het ingevolge het eerste lid berekende tarief, vermeerderd met de aan derden betaalde kosten voor zover deze geen deel uitmaken van het ingevolge het eerste lid vastgestelde tarief.
 
 ##### Artikel 3b. Berekening subsidiabele kosten bij toepassing kosten per kostendrager met opslag
 
-1. Bij het hanteren van uurtarieven die tot stand zijn gekomen met de standaardberekeningswijze bedoeld in [artikel 3, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049378&artikel=3&z=2024-06-26&g=2024-03-26), worden de directe loonkosten per uur vermenigvuldigd met het aantal uren dat direct bij de subsidiabele activiteiten betrokken personen ten behoeve van deze activiteiten hebben gewerkt.
+1. Bij het hanteren van uurtarieven die tot stand zijn gekomen met de standaardberekeningswijze bedoeld in [artikel 3, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049378&artikel=3&z=2024-06-26&g=2024-06-26), worden de directe loonkosten per uur vermenigvuldigd met het aantal uren dat direct bij de subsidiabele activiteiten betrokken personen ten behoeve van deze activiteiten hebben gewerkt.
 
 2. De subsidiabele kosten worden berekend door het ingevolge het eerste lid berekende bedrag te vermeerderen met:
 
@@ -240,7 +250,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 3c. Berekening met forfaitair uurtarief loonkosten
 
-1. Bij het hanteren van uurtarieven die tot stand zijn gekomen met de standaardberekeningswijze bedoeld in [artikel 3, vierde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049378&artikel=3&z=2024-06-26&g=2024-03-26), wordt een uurtarief gehanteerd van € 80,– per uur.
+1. Bij het hanteren van uurtarieven die tot stand zijn gekomen met de standaardberekeningswijze bedoeld in [artikel 3, vierde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049378&artikel=3&z=2024-06-26&g=2024-06-26), wordt een uurtarief gehanteerd van € 80,– per uur.
 
 2. De subsidiabele kosten worden berekend door het ingevolge het eerste lid gehanteerde bedrag te vermenigvuldigen met het aantal uren dat de direct bij de subsidiabele activiteiten betrokken personen ten behoeve van deze activiteiten hebben gewerkt en te vermeerderen met:
 
