@@ -4,7 +4,7 @@ identifier: "BWBR0048694"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2024-06-26"
-last_updated: "2023-10-06"
+last_updated: "2024-06-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048694"
 soort: "ministeriele-regeling-BES"
@@ -46,7 +46,7 @@ In deze regeling wordt verstaan onder:
 
 - **aanvrager:** openbare lichamen Bonaire, Sint Eustatius of Saba;
 
-- **activiteiten:** activiteiten als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048694&artikel=3&z=2023-10-06&g=2023-10-06);
+- **activiteiten:** activiteiten als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048694&artikel=3&z=2024-06-26&g=2024-06-26);
 
 - **minister:** Minister van Infrastructuur en Waterstaat;
 
@@ -58,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Toepasselijkheid Kaderbesluit subsidies I en M
 
-De [artikelen 4, aanhef en onderdelen a tot en met h en k](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=4), [6, eerste, tweede, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=6), [10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=11), [12, aanhef en onderdelen b tot en met i en k](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=12), [15, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=15), [17, eerste lid, aanhef en onderdelen a, b, c, e en f, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=18), [19, eerste lid, aanhef en onderdelen a en e, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=19), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=20), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=21), [22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=22), [23, eerste, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=23), [24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=24), en [25, eerste lid, van het kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=25) zijn van overeenkomstige toepassing op een bijzondere uitkering die op grond van deze regeling wordt verstrekt.
+De [artikelen 4, aanhef en onderdelen a tot en met h en k](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=4), [6, eerste, tweede, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=6), [10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=11), [12, aanhef en onderdelen b tot en met i en k](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=12), [15, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=15), [17, eerste lid, aanhef en onderdelen a, b, c, e en f, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=18), [19, eerste lid, aanhef en onderdelen a en e, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=19), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=20), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=21), [22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=22), en [23, eerste, derde en vijfde lid, van het kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=23) zijn van overeenkomstige toepassing op een bijzondere uitkering die op grond van deze regeling wordt verstrekt.
 
 ##### Artikel 3. Doel en projecten
 
@@ -70,7 +70,7 @@ De vóór indiening van de aanvraag door de aanvrager gemaakte kosten komen voor
 
 ##### Artikel 5. Plafond
 
-1. Het plafond voor bijzondere uitkeringen voor de activiteiten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048694&artikel=3&z=2023-10-06&g=2023-10-06), bedraagt, inclusief eventueel verschuldigde BTW, voor 2023 € 16.499.000,–.
+1. Het plafond voor bijzondere uitkeringen voor de activiteiten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048694&artikel=3&z=2024-06-26&g=2024-06-26), bedraagt, inclusief eventueel verschuldigde BTW, voor 2023 € 16.499.000,–.
 
 2. De minister stelt de plafonds voor de opvolgende jaren jaarlijks vast en maakt die bekend in de Staatscourant voor aanvang van het tijdvak waarvoor ze worden vastgesteld.
 
@@ -114,13 +114,13 @@ De vóór indiening van de aanvraag door de aanvrager gemaakte kosten komen voor
 
 2. Het voorschot wordt uitgekeerd op basis van een bij de aanvraag tot verlening van een bijzondere uitkering verstrekte gespecificeerde liquiditeitsbegroting.
 
-##### Artikel 10. Aanvraag tot vaststelling
+##### Artikel 10. Verantwoording
 
-1. De aanvraag tot vaststelling van een bijzondere uitkering wordt ingediend binnen 26 weken nadat de projecten waarvoor de bijzonder uitkering is verleend, zijn voltooid.
+1. Het openbaar lichaam zendt informatie ten behoeve van de verantwoording over de uitvoering van de activiteiten uiterlijk 15 juli van het jaar volgend op het begrotingsjaar aan de minister in de vorm van de jaarrekening en het jaarverslag, bedoeld in [artikel 28 van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=28).
 
-2. Het openbaar lichaam toont bij de aanvraag tot vaststelling door middel van een inhoudelijke verantwoording aan dat de activiteiten waarvoor de bijzondere uitkering is verleend, zijn verricht en dat is voldaan aan de daaraan verbonden verplichtingen.
+2. De minister stelt de bijzondere uitkering uiterlijk op 31 december van het kalenderjaar volgend op het kalenderjaar waarin de activiteiten waarvoor de bijzondere uitkering is verleend, volledig zijn uitgevoerd en volledig is voldaan aan de verplichtingen, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048694&artikel=8&z=2024-06-26&g=2024-06-26), ambtshalve vast.
 
-3. Bij de aanvraag tot vaststelling legt het openbaar lichaam een financieel verslag over waarin rekening en verantwoording wordt afgelegd over de aan de projecten verbonden uitgaven en inkomsten. Dit verslag gaat vergezeld van een goedkeurende verklaring van een registeraccountant, accountant administratieconsulent of andere onafhankelijke accountant volgens het bij de beschikking tot verlening van een bijzondere uitkering gevoegde controleprotocol van het Ministerie van Infrastructuur en Waterstaat, waarin wordt verklaard dat de bijzondere uitkering rechtmatig is besteed aan de projecten en dat de aan de bijzondere uitkering verbonden verplichtingen zijn nageleefd.
+3. Indien een beschikking tot subsidievaststelling niet binnen de in het tweede lid genoemde termijn kan worden gegeven, kan deze termijn eenmaal met dertien weken worden verlengd.
 
 ##### Artikel 11. Beschikking tot vaststelling
 
@@ -138,7 +138,7 @@ De vóór indiening van de aanvraag door de aanvrager gemaakte kosten komen voor
 
 3. De minister is bevoegd tot het geheel of gedeeltelijk ambtshalve vaststellen van de bijzondere uitkering indien:
 
-- a. het openbaar lichaam niet tijdig de aanvraag tot vaststelling heeft ingediend, of
+- a. het openbaar lichaam niet tijdig de laatste verantwoording heeft ingediend, of
 
 - b. de beschikking tot verlening van een bijzondere uitkering wordt ingetrokken of ten nadele van het openbaar lichaam wordt gewijzigd.
 
@@ -188,7 +188,7 @@ De vóór indiening van de aanvraag door de aanvrager gemaakte kosten komen voor
 
 1. Het bedrag van de bijzondere uitkering wordt overeenkomstig de vaststelling van de bijzondere uitkering binnen 6 weken na bekendmaking van de beschikking tot vaststelling betaald.
 
-2. De verplichting tot betaling van het bedrag van de bijzondere uitkering of een voorschot wordt opgeschort met ingang van de dag waarop de minister aan het openbaar lichaam schriftelijk kennisgeeft van het ernstige vermoeden dat er grond bestaat om toepassing te geven aan [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0048694&artikel=12&z=2023-10-06&g=2023-10-06) of [13](https://wetten.overheid.nl/jci1.3:c:BWBR0048694&artikel=13&z=2023-10-06&g=2023-10-06), tot en met de dag waarop de beschikking omtrent de intrekking of wijziging is bekendgemaakt of de dag waarop sedert de kennisgeving van het ernstige vermoeden 13 weken zijn verstreken.
+2. De verplichting tot betaling van het bedrag van de bijzondere uitkering of een voorschot wordt opgeschort met ingang van de dag waarop de minister aan het openbaar lichaam schriftelijk kennisgeeft van het ernstige vermoeden dat er grond bestaat om toepassing te geven aan [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0048694&artikel=12&z=2024-06-26&g=2024-06-26) of [13](https://wetten.overheid.nl/jci1.3:c:BWBR0048694&artikel=13&z=2024-06-26&g=2024-06-26), tot en met de dag waarop de beschikking omtrent de intrekking of wijziging is bekendgemaakt of de dag waarop sedert de kennisgeving van het ernstige vermoeden 13 weken zijn verstreken.
 
 ##### Artikel 16. Terugvordering
 
@@ -198,7 +198,7 @@ De vóór indiening van de aanvraag door de aanvrager gemaakte kosten komen voor
 
 3. De Minister kan het terug te vorderen bedrag verrekenen met een aan het openbaar lichaam voor dezelfde activiteiten verstrekte bijzondere uitkering voor een ander tijdvak.
 
-4. Terugvordering van een bedrag of een voorschot vindt niet plaats voor zover na de dag waarop de bijzondere uitkering is vastgesteld, dan wel de handeling, bedoeld in [artikel 13, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0048694&artikel=13&z=2023-10-06&g=2023-10-06), heeft plaatsgevonden, vijf jaren zijn verstreken.
+4. Terugvordering van een bedrag of een voorschot vindt niet plaats voor zover na de dag waarop de bijzondere uitkering is vastgesteld, dan wel de handeling, bedoeld in [artikel 13, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0048694&artikel=13&z=2024-06-26&g=2024-06-26), heeft plaatsgevonden, vijf jaren zijn verstreken.
 
 ##### Artikel 17. Kosten terugvordering
 
