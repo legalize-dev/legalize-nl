@@ -4,7 +4,7 @@ identifier: "BWBR0045308"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-26"
-last_updated: "2021-07-01"
+last_updated: "2024-06-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045308"
 soort: "ministeriele-regeling"
@@ -82,7 +82,7 @@ Het Noordzeeoverleg bestaat uit:
 
 De voorzitter heeft tot taak:
 
-- 1. het voorzitten en begeleiden van het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045308&artikel=2&z=2021-07-01&g=2021-07-01) bedoelde op consensus gerichte overleg;
+- 1. het voorzitten en begeleiden van het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045308&artikel=2&z=2024-06-26&g=2024-06-26) bedoelde op consensus gerichte overleg;
 
 - 2. ervoor zorg te dragen dat er minimaal twee keer per jaar over de samenwerking, voortgang en resultaten van het Noordzeeoverleg wordt gerapporteerd aan de Minister;
 
@@ -98,7 +98,7 @@ Het Noordzeeoverleg stelt zijn eigen werkwijze vast.
 
 ##### Artikel 7. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en vervalt met ingang van 1 januari 2025.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en vervalt met ingang van 1 januari 2031.
 
 ##### Artikel 8. Citeertitel
 
