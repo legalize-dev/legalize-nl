@@ -4,7 +4,7 @@ identifier: "BWBR0049868"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-27"
-last_updated: "2024-03-02"
+last_updated: "2024-06-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049868"
 soort: "ministeriele-regeling"
@@ -64,13 +64,13 @@ Aan de bestuursvoorzitter wordt mandaat verleend tot:
 
 Aan de bestuursvoorzitter wordt machtiging verleend tot:
 
-- a). het verrichten van alle benodigde werkzaamheden ter voorbereiding en uitvoering van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049868&artikel=2&z=2024-06-27&g=2024-03-02) bedoelde besluiten;
+- a). het verrichten van alle benodigde werkzaamheden ter voorbereiding en uitvoering van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049868&artikel=2&z=2024-06-27&g=2024-06-27) bedoelde besluiten;
 
-- b). het voeren van procedures bij de rechter over de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049868&artikel=2&z=2024-06-27&g=2024-03-02) bedoelde besluiten.
+- b). het voeren van procedures bij de rechter over de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049868&artikel=2&z=2024-06-27&g=2024-06-27) bedoelde besluiten.
 
 ##### Artikel 4
 
-1. De bestuursvoorzitter kan met betrekking tot de bevoegdheden, bedoeld in [artikel 2, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0049868&artikel=2&z=2024-06-27&g=2024-03-02), en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049868&artikel=3&z=2024-06-27&g=2024-03-02), ondermandaat en machtiging verlenen aan de manager finance & operations van de stichting Connekt.
+1. De bestuursvoorzitter kan met betrekking tot de bevoegdheden, bedoeld in [artikel 2, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0049868&artikel=2&z=2024-06-27&g=2024-06-27), en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049868&artikel=3&z=2024-06-27&g=2024-06-27), ondermandaat en machtiging verlenen aan de manager finance & operations van de stichting Connekt.
 
 2. Van de verlening van ondermandaat, volmacht en machtiging doet de bestuursvoorzitter schriftelijke mededeling aan de Minister van Infrastructuur en Waterstaat.
 
