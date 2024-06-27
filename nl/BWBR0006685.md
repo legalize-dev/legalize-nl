@@ -4,7 +4,7 @@ identifier: "BWBR0006685"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2024-01-31"
+last_updated: "2024-06-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006685"
 soort: "wet"
@@ -49,13 +49,15 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. Onze Minister: Onze Minister van Veiligheid en Justitie;
 
-- b. COA: het Centraal Orgaan opvang asielzoekers, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=2&z=2024-01-31&g=2024-01-31);
+- b. COA: het Centraal Orgaan opvang asielzoekers, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=2&z=2024-06-27&g=2024-06-27);
 
 - c. Kaderwet: de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495);
 
 - d. opvangcentrum: opvangvoorziening, niet zijnde een woning, hotel of pension, waarin door het COA aan asielzoekers opvang wordt geboden;
 
-- e. opvangvoorziening: een accommodatie waarin door of onder verantwoordelijkheid van het COA onderscheidenlijk door of onder verantwoordelijkheid van het college opvang wordt geboden aan asielzoekers.
+- e. opvangvoorziening: een accommodatie waarin door of onder verantwoordelijkheid van het COA onderscheidenlijk door of onder verantwoordelijkheid van het college opvang wordt geboden aan asielzoekers;
+
+- f. ontheemde: de vreemdeling die tijdelijke bescherming geniet als bedoeld in [artikel 1 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=1), omdat hij onder de reikwijdte valt van Uitvoeringsbesluit (EU) 2022/382 van de Raad van 4 maart 2022 tot vaststelling van het bestaan van een massale toestroom van ontheemden uit Oekraïne in de zin van artikel 5 van [Richtlijn 2001/55/EG](32001L0055), en tot invoering van tijdelijke bescherming naar aanleiding daarvan, of een verlenging daarvan.
 
 #### § 2. Instelling en taken
 
@@ -83,6 +85,8 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Bij regeling van Onze Minister kunnen regels worden gesteld met betrekking tot verstrekkingen aan asielzoekers en andere categorieën vreemdelingen als bedoeld in het tweede lid.
 
+4. Dit artikel is niet van toepassing op ontheemden.
+
 ##### Artikel 3a
 
 1. Het COA bepaalt in welke opvangvoorziening een asielzoeker wordt geplaatst en is bevoegd een asielzoeker naar een andere voorziening over te plaatsen.
@@ -99,7 +103,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 4
 
-Bij de toepassing van [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2024-01-31&g=2024-01-31), doet Onze Minister, voor zover dat gevolgen heeft voor de uitoefening van openbaar gezag door het COA, daarvan mededeling aan beide Kamers der Staten-Generaal.
+Bij de toepassing van [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2024-06-27&g=2024-06-27), doet Onze Minister, voor zover dat gevolgen heeft voor de uitoefening van openbaar gezag door het COA, daarvan mededeling aan beide Kamers der Staten-Generaal.
 
 ##### Artikel 5
 
@@ -135,9 +139,9 @@ Het COA heeft een bestuur.
 
 ##### Artikel 9
 
-1. Het bestuur is belast met de dagelijkse leiding van het COA en draagt zorg voor een goede uitvoering van de taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2024-01-31&g=2024-01-31).
+1. Het bestuur is belast met de dagelijkse leiding van het COA en draagt zorg voor een goede uitvoering van de taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2024-06-27&g=2024-06-27).
 
-2. Een besluit van het bestuur om werkzaamheden, die de uitvoering van taken als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2024-01-31&g=2024-01-31) betreffen, door derden te laten uitvoeren, behoeft voor zover het door Onze Minister aangegeven werkzaamheden betreft zijn goedkeuring.
+2. Een besluit van het bestuur om werkzaamheden, die de uitvoering van taken als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2024-06-27&g=2024-06-27) betreffen, door derden te laten uitvoeren, behoeft voor zover het door Onze Minister aangegeven werkzaamheden betreft zijn goedkeuring.
 
 ##### Artikel 10
 
@@ -326,5 +330,13 @@ Bij regeling van Onze Minister kunnen regels worden gesteld over de eisen waaraa
 #### § 4. Bekostiging en financieel toezicht
 
 #### § 5. Slotbepalingen
+
+Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 21a
+
+1. Met ingang van het tijdstip waarop de [Tijdelijke wet opvang ontheemden Oekraïne](https://wetten.overheid.nl/jci1.3:c:BWBR0049876) vervalt, vervalt onder vervanging van de puntkomma aan het slot van [artikel 1, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=1&artikel=1&z=2024-06-27&g=2024-06-27), door een punt, onderdeel f, en vervalt in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2024-06-27&g=2024-06-27) het vierde lid.
+
+2. Dit artikel vervalt op een bij koninklijk besluit te bepalen tijdstip.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
