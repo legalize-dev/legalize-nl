@@ -4,7 +4,7 @@ identifier: "BWBR0012645"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-06-27"
-last_updated: "2019-07-24"
+last_updated: "2024-06-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012645"
 soort: "AMvB"
@@ -60,7 +60,7 @@ Vervallen
 
 1. De vreemdeling die een tegemoetkoming op grond van [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4) of [5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4) aanvraagt, wordt met een Nederlander gelijkgesteld indien die vreemdeling rechtmatig in Nederland verblijf heeft:
 
-- a. op grond van een verblijfsvergunning voor onbepaalde tijd als bedoeld in [artikel 20 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=20);
+- a. op grond van een verblijfsvergunning als bedoeld in [artikel 8, onder b, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8);
 
 - b. op grond van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 28 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28);
 
@@ -74,17 +74,19 @@ Vervallen
 
 - 2°. verband houdend met tijdelijke humanitaire gronden of hiermee verband houdende niet-tijdelijke humanitaire gronden;
 
-- 3°. als bedoeld in [artikel 3.4, vierde lid, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4) of hiermee verband houdende niet-tijdelijke humanitaire gronden; of
+- 3°. als bedoeld in [artikel 3.4, vierde lid, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4) of hiermee verband houdende niet-tijdelijke humanitaire gronden;
 
-- 4°. verband houdende met afwikkeling nalatenschap oude Vreemdelingenwet als bedoeld in [artikel 3.17a, onderdeel b, van het Voorschrift Vreemdelingen 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012002) of hiermee verband houdende niet-tijdelijke humanitaire gronden.
+- 4°. verband houdende met afwikkeling nalatenschap oude Vreemdelingenwet als bedoeld in [artikel 3.17a, onderdeel b, van het Voorschrift Vreemdelingen 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012002) of hiermee verband houdende niet-tijdelijke humanitaire gronden; of
+
+- 5°. verband houdend met niet-tijdelijke humanitaire gronden die volgt op een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14) die is verleend onder de beperking medische behandeling;
+
+- 6°. verband houdend met niet-tijdelijke humanitaire gronden die als eerste verblijfsvergunning op grond van de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) wordt toegekend.
 
 2. Met een Nederlander wordt mede gelijkgesteld de vreemdeling die in Nederland verblijft en die tegemoetkoming aanvraagt ingevolge:
 
-- a. [hoofdstuk 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4) en ten behoeve van wie of aan wie een tegemoetkoming is verstrekt op grond van [hoofdstuk 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3),
+- a. [hoofdstuk 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4); of
 
-- b. [hoofdstuk 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5) en ten behoeve van wie of aan wie een tegemoetkoming is verstrekt op grond van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=3) of [4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4) of aan wie studiefinanciering is verstrekt ingevolge de [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453), of
-
-- c. [hoofdstuk 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5) en houder is van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), die verleend is onder de beperking verrichten van arbeid.
+- b. [hoofdstuk 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=5) en ten behoeve van wie of aan wie een tegemoetkoming is verstrekt op grond van [hoofdstuk 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4) of aan wie studiefinanciering is verstrekt ingevolge de [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453).
 
 ##### Artikel 4. Verstrekken van inlichtingen
 
@@ -140,7 +142,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 3a. Tegemoetkoming [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4) voor personen bedoeld in [artikel 2.2, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=2.2) en hun familieleden
 
-1. [Artikel 2.2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=2.2) is van toepassing op een persoon die:
+1. [Artikel 2.2, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=2.2) is van toepassing op een persoon die:
 
 - a. een nationaliteit heeft van een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, dan wel van Zwitserland;
 
@@ -156,13 +158,19 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - 4°. familie van een persoon als bedoeld in onderdeel 1° tot en met 3° is.
 
-2. [Artikel 2.2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=2.2) is eveneens van toepassing op familieleden van een persoon als bedoeld in het eerste lid.
+2. [Artikel 2.2, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=2.2) is eveneens van toepassing op een persoon die in Nederland rechtmatig verblijf heeft op grond van:
 
-3. De tegemoetkoming op grond van het eerste lid wordt verstrekt in de vorm van een gift en bestaat uit het bedrag genoemd in [artikel 4.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=4.6) en voor zover het een leerling betreft als bedoeld in [artikel 4.2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=4.2) een bedrag ter grootte van eentwaalfde deel van het bedrag, bedoeld in [artikel 5, tweede lid van de Les- en cursusgeldwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&artikel=5). Onze Minister verrekent het laatstgenoemde bedrag met de verschuldigde onderwijsbijdrage. Voor zover blijkt dat de onderwijsbijdrage reeds aan Onze Minister is betaald, wordt het bedrag door Onze Minister terugbetaald binnen 6 weken na het besluit, bedoeld in [artikel 4.8, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=4.8).
+- a. een verblijfsvergunning als bedoeld in [artikel 3.30b van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.30b); of
 
-4. In afwijking van [artikel 4.10, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=4.10), kan een aanvraag op grond van [artikel 2.2, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=2.2), betrekking hebben op een periode die uiterlijk aanvangt op de eerste dag van de vierde maand voorafgaand aan de maand waarin de aanvraag wordt ingediend.
+- b. een verblijfsvergunning als bedoeld in [artikel 3.33 van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.33).
 
-5. De tegemoetkoming wordt toegekend in één bedrag per schooljaar. Indien de aanspraak gedurende een schooljaar ontstaat bestaat de aanspraak uit ééntwaalfde van het bedrag per schooljaar maal het aantal resterende maanden van dat schooljaar.
+3. [Artikel 2.2, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=2.2) is eveneens van toepassing op familieleden van een persoon als bedoeld in het eerste en tweede lid.
+
+4. De tegemoetkoming op grond van het eerste tot en met derde lid wordt verstrekt in de vorm van een gift en bestaat uit het bedrag genoemd in [artikel 4.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=4.6) en voor zover het een leerling betreft als bedoeld in [artikel 4.2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=4.2) een bedrag ter grootte van eentwaalfde deel van het bedrag, bedoeld in [artikel 5, tweede lid van de Les- en cursusgeldwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&artikel=5). Onze Minister verrekent het laatstgenoemde bedrag met de verschuldigde onderwijsbijdrage. Voor zover blijkt dat de onderwijsbijdrage reeds aan Onze Minister is betaald, wordt het bedrag door Onze Minister terugbetaald binnen 6 weken na het besluit, bedoeld in [artikel 4.8, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=4.8).
+
+5. In afwijking van [artikel 4.10, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=4.10), kan een aanvraag op grond van [artikel 2.2, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=2.2), betrekking hebben op een periode die uiterlijk aanvangt op de eerste dag van de vierde maand voorafgaand aan de maand waarin de aanvraag wordt ingediend.
+
+6. De tegemoetkoming wordt toegekend in één bedrag per schooljaar. Indien de aanspraak gedurende een schooljaar ontstaat bestaat de aanspraak uit ééntwaalfde van het bedrag per schooljaar maal het aantal resterende maanden van dat schooljaar.
 
 ### Hoofdstuk 2. Overgangsrecht
 
@@ -172,7 +180,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-##### Artikel 6a. Tijdelijke afwijking [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=5&z=2019-07-24&g=2019-07-24)
+##### Artikel 6a. Tijdelijke afwijking [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012645&hoofdstuk=1&artikel=5&z=2024-06-27&g=2024-06-27)
 
 Vervallen
 
