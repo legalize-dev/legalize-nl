@@ -4,7 +4,7 @@ identifier: "BWBR0048398"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-16"
-last_updated: "2023-04-19"
+last_updated: "2024-06-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048398"
 soort: "ministeriele-regeling"
@@ -53,13 +53,13 @@ In dit besluit wordt verstaan onder:
 
 - c. **de voorzitter:** de voorzitter van de directie van Kiwa N.V.;
 
-- d. **de Manager Operations:** de Manager Operations van Kiwa Register B.V.;
+- d. **de General Manager:** de General Manager van Kiwa Register B.V.;
 
 - e. **de overeenkomst(en):** Overeenkomsten overdracht taken van de toenmalige Inspectie Verkeer en Waterstaat, thans de Inspectie Leefomgeving en Transport, aan Kiwa N.V., aangegaan tussen de Staat der Nederlanden en Kiwa N.V. d.d.10 juli 2009 en 27 mei 2010.
 
 ##### Artikel 2. Ondermandaat en ondermachtiging
 
-1. Aan de Manager Operations wordt ondermandaat en ondermachtiging verleend ten aanzien van alle bevoegdheden die op grond van het [Besluit Mandaat en Machtiging Kiwa N.V. (I)](https://wetten.overheid.nl/jci1.3:c:BWBR0027827) aan de voorzitter zijn verleend.
+1. Aan de General Manager wordt ondermandaat en ondermachtiging verleend ten aanzien van alle bevoegdheden die op grond van het [Besluit mandaat en machtiging KIWA N.V. (I)](https://wetten.overheid.nl/jci1.3:c:BWBR0027827) aan de voorzitter zijn verleend.
 
 2. Dit besluit laat onverlet de door de voorzitter verleende ondermandaten en ondermachtigingen op grond van [artikel 5 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0035484&artikel=5) van de Staatssecretaris met de titel ‘[Besluit mandaat en machtiging Kiwa N.V. (luchtvaart)](https://wetten.overheid.nl/jci1.3:c:BWBR0035484)’ ten aanzien van alle taken en bevoegdheden die voortvloeien uit de overeenkomst.
 
@@ -83,7 +83,7 @@ gevolgd door de functieaanduiding, de handtekening en de naam van de betrokken f
 
 ##### Artikel 4. Administratie
 
-De Manager Operations voert bij de uitvoering van de aan hem verleende bevoegdheid een ordentelijke en voor de voorzitter transparante administratie.
+De General Manager voert bij de uitvoering van de aan hem verleende bevoegdheid een ordentelijke en voor de voorzitter transparante administratie.
 
 ##### Artikel 5. Inwerkingtreding
 
