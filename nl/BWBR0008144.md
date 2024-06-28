@@ -4,7 +4,7 @@ identifier: "BWBR0008144"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2024-01-01"
+last_updated: "2024-06-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008144"
 soort: "ministeriele-regeling"
@@ -65,7 +65,13 @@ In dit besluit wordt verstaan onder:
 
 - **uitvoeringsverordening 901/2014:** Uitvoeringsverordening (EU) nr. 901/2014 van de Commissie van 18 juli 2014 tot uitvoering van Verordening (EU) nr. 168/2013 van het Europees Parlement en de Raad wat betreft de administratieve voorschriften voor de goedkeuring van en het markttoezicht op twee- of driewielige voertuigen en vierwielers (PbEU 2014, L 249);
 
-- **uitvoeringsverordening 2015/504:** Uitvoeringsverordening (EU) 2015/504 van de Commissie van 11 maart 2015 tot uitvoering van Verordening (EU) nr. 167/2013 van het Europees Parlement en de Raad wat betreft de administratieve voorschriften voor de goedkeuring van en het markttoezicht op landbouw- en bosbouwvoertuigen (PbEU 2015, L 85).
+- **uitvoeringsverordening 2015/504:** Uitvoeringsverordening (EU) 2015/504 van de Commissie van 11 maart 2015 tot uitvoering van Verordening (EU) nr. 167/2013 van het Europees Parlement en de Raad wat betreft de administratieve voorschriften voor de goedkeuring van en het markttoezicht op landbouw- en bosbouwvoertuigen (PbEU 2015, L 85);
+
+- **verordening (EU) 2018/858:** [Verordening (EU) 2018/858](32018R0858) van het Europees Parlement en de Raad van 30 mei 2018 betreffende de goedkeuring van en het markttoezicht op motorvoertuigen en aanhangwagens daarvan en systemen, onderdelen en technische eenheden die voor dergelijke voertuigen zijn bestemd, tot wijziging van [Verordeningen (EG) nr. 715/2007](32007R0715) en [(EG) nr. 595/2009](32009R0595) en tot intrekking van [Richtlijn 2007/46/EG](32007L0046) (PbEU 2018, L 151);
+
+- **richtlijn 2006/1/EG:** [Richtlijn 2006/1/EG](32006L0001) van het Europees Parlement en de Raad van 18 januari 2006 betreffende het gebruik van gehuurde voertuigen zonder bestuurder voor het vervoer van goederen over de weg (PbEU 2006, L 33);
+
+- **uitvoeringsverordening 2016/480:** [Uitvoeringsverordening (EU) 2016/480](32016R0480) van de Commissie van 1 april 2016 tot vaststelling van gemeenschappelijke regels voor de onderlinge koppeling van nationale elektronische registers van wegvervoerondernemingen en tot intrekking van [Verordening (EU) nr. 1213/2010](32010R1213) (PbEU 2016, L 87).
 
 ##### Artikel 1a
 
@@ -143,7 +149,13 @@ Aan de dienst worden de volgende taken opgedragen:
 
 - u. het aanwijzen van een technische dienst voor het uitvoeren van een periodieke herkwalificatie als bedoeld in bijlage 3, artikel 4.1.4, van VN/ECE-reglement 110 en artikel 2 van verordening 406/2010;
 
-- v. het ter uitvoering van artikel 18 van verordening 1071/2009/EG in de hoedanigheid van nationaal contactpunt met andere lidstaten uitwisselen van gegevens over veroordelingen en sancties met betrekking tot ondernemingen en vervoersmanagers in het wegvervoer en de status van geschiktheid van vervoermanagers;
+- v. het ter uitvoering van artikel 18 van [verordening 1071/2009/EG](32009R1071), [uitvoeringsverordening 2016/480](32380R2016) en artikel 3 bis van [richtlijn 2006/1/EG](32006L0001) in de hoedanigheid van nationaal contactpunt nauw samenwerken met andere lidstaten, bieden van snelle wederzijdse bijstand en uitwisselen van:
+
+- 1°. de gegevens, bedoeld in artikel 16, tweede lid, van [verordening 1071/2009/EG](32009R1071);
+
+- 2°. de gegevens ter uitvoering van de functies, bedoeld in bijlage II van [uitvoeringsverordening 2016/480](32380R2016);
+
+- 3°. het registratienummer van een gehuurd voertuig, bedoeld in artikel 3 bis, eerste lid, van [richtlijn 2006/1/EG](32006L0001);
 
 - w. het houden van toezicht op de conformiteit van de productie van motorrijtuigen als bedoeld in [artikel 20b van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=20b);
 
@@ -175,9 +187,9 @@ Aan de dienst worden de volgende taken opgedragen:
 
 ##### Artikel 3. Voorwaarden
 
-1. De dienst mag voor de activiteiten, bedoeld in [artikel 2, onder a tot en met d, j, p tot en met r, t, u, w, z en ee](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2024-01-01&g=2024-01-01), prijzen in rekening brengen.
+1. De dienst mag voor de activiteiten, bedoeld in [artikel 2, onder a tot en met d, j, p tot en met r, t, u, w, z en ee](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2024-06-28&g=2024-06-28), prijzen in rekening brengen.
 
-2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2024-01-01&g=2024-01-01) bedoelde activiteiten en de hiervoor door de dienst in rekening te brengen prijzen dienen te voldoen aan de volgende voorwaarden:
+2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2024-06-28&g=2024-06-28) bedoelde activiteiten en de hiervoor door de dienst in rekening te brengen prijzen dienen te voldoen aan de volgende voorwaarden:
 
 - a. de exploitatie mag niet ten koste gaan van de in [artikel 4b, eerste en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4b), bedoelde taken;
 
