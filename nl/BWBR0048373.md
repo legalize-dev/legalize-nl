@@ -4,7 +4,7 @@ identifier: "BWBR0048373"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-28"
-last_updated: "2024-04-01"
+last_updated: "2024-06-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048373"
 soort: "ministeriele-regeling"
@@ -44,13 +44,13 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- **commissie:** beoordelingscommissie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048373&artikel=2&z=2024-06-28&g=2024-04-01);
+- **commissie:** beoordelingscommissie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048373&artikel=2&z=2024-06-28&g=2024-06-28);
 
 - **DUS-I (Dienst Uitvoering Subsidies aan Instellingen):** uitvoeringsorganisatie van het Ministerie van Volksgezondheid, Welzijn en Sport die verantwoordelijk is voor het secretariaat;
 
-- **groot project:** project als bedoeld in het derde lid van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048373&artikel=3&z=2024-06-28&g=2024-04-01) van de regeling;
+- **groot project:** project als bedoeld in het derde lid van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048373&artikel=3&z=2024-06-28&g=2024-06-28) van de regeling;
 
-- **klein project:** project als bedoeld in het tweede lid van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048373&artikel=3&z=2024-06-28&g=2024-04-01) van de regeling;
+- **klein project:** project als bedoeld in het tweede lid van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048373&artikel=3&z=2024-06-28&g=2024-06-28) van de regeling;
 
 - **kalibreersessie:** gezamenlijke bijeenkomst van de leden van de beoordelingscommissie waarin onderlinge afstemming van de beoordelingscriteria worden besproken en afgestemd met als doel de betrouwbaarheid van de beoordeling te verhogen en de toepasselijke criteria te verduidelijken;
 
@@ -128,13 +128,17 @@ Tot leden van de commissie worden benoemd:
 
 - k. Marjolein ten Hoonte;
 
-- l. Rob Slagmolen;
+- l. Rob Slagboom;
 
 - m. Sjoerd Keijser;
 
-- n. Trudy van Megen;
+- n. Trudy van Megen, tot 1 mei 2024;
 
-- o. Wieger Bakker.
+- o. Wieger Bakker, tot 1 mei 2024;
+
+- p. te rekenen vanaf 8 april 2024: Wilbert Kolkman;
+
+- q. te rekenen vanaf 8 april 2024: Klaas Verschuure.
 
 ##### Artikel 6. Secretariaat
 
