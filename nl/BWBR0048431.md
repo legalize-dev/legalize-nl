@@ -4,7 +4,7 @@ identifier: "BWBR0048431"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-28"
-last_updated: "2024-04-01"
+last_updated: "2024-06-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048431"
 soort: "ministeriele-regeling"
@@ -94,19 +94,33 @@ Van het ingevolge [artikel 1 van het Mandaatbesluit hoofden clusters Ministerie 
 
 ##### Artikel 3. Aanwijzing leidinggevende en doorgeven volmacht en machtiging
 
-1. Als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk, ten aanzien van de onder hun dienstonderdeel ressorterende ambtenaren, worden aangewezen en gevolmachtigd de functionarissen, genoemd in kolom 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048431&bijlage=1&z=2023-07-22&g=2024-04-01) bij dit besluit, voor zover het betreft de uitoefening van de bevoegdheden, vermeld in kolom 2 van die bijlage.
+1. Als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk, ten aanzien van de onder hun dienstonderdeel ressorterende ambtenaren, worden aangewezen en gevolmachtigd de functionarissen, genoemd in kolom 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048431&bijlage=1&z=2024-06-28&g=2024-06-28) bij dit besluit, voor zover het betreft de uitoefening van de bevoegdheden, vermeld in kolom 2 van die bijlage.
 
 2. Als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk, ten aanzien van de onder de afdeling Strategie en Communicatie ressorterende ambtenaren wordt de directeur van de directie Strategie, Kwaliteit en Bedrijfsvoering aangewezen en gevolmachtigd.
 
 ##### Artikel 4. Mandaten en volmachten voor het aangaan van financiële verplichtingen en het doen van uitgaven
 
-Als bevoegd om te beschikken over bedragen voor het aangaan van financiële verplichtingen en voor het verrichten van uitgaven, worden aangewezen de functionarissen, genoemd in kolom 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048431&bijlage=2&z=2023-07-22&g=2024-04-01) bij dit besluit voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage.
+Als bevoegd om te beschikken over bedragen voor het aangaan van financiële verplichtingen en voor het verrichten van uitgaven, worden aangewezen de functionarissen, genoemd in kolom 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048431&bijlage=2&z=2024-06-28&g=2024-06-28) bij dit besluit voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage.
 
 ##### Artikel 5. Mandaat en volmacht hoofdinspecteur-directeur BSH en afdelingsmanager afdeling Handhaving voor handhavingsbesluiten
 
-1. Aan de hoofdinspecteur-directeur BSH wordt ondermandaat, volmacht en machtiging verleend voor het opleggen van een last onder bestuursdwang als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=9) en het opleggen van en het opleggen van een bestuurlijke boete als bedoeld in [artikel 9a van de Wet experiment gesloten coffeeshopketen](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=9a) (Wet EGC).
+1. Van het ingevolge [artikel 6 van het Besluit aanwijzing toezichthouders naleving Wet experiment gesloten coffeeshopketen en het verlenen van mandaat en machtiging voor de uitvoering en handhaving van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043743&artikel=6) en het ingevolge [artikel 2 van het Aanwijzings-mandaatbesluit Inspectie Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0049508&artikel=2) aan de inspecteur-generaal van de Inspectie Justitie en Veiligheid verleende mandaat voor de uitvoering en handhaving van de [Wet kwaliteit incassodienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0046685) wordt ten aanzien van de aangelegenheden die hun dienstonderdeel betreffen ondermandaat verleend aan:
 
-2. Tevens wordt ondermandaat, volmacht en machtiging verleend voor het opleggen van een last onder bestuursdwang als bedoeld in [artikel 9 van de Wet EGC](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=9) aan de afdelingsmanager van de afdeling Handhaving.
+- a. de hoofdinspecteur-directeur van de directie Beschermen, Straffen en Handhaving (BSH);
+
+- b. de manager van de afdeling Handhaving.
+
+2. In afwijking van het bepaalde in het eerste lid is het ondermandaat voor:
+
+- a. het opleggen van een last onder bestuursdwang en het opleggen van een bestuurlijke boete ingevolge de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=9) en [9a van de Wet experiment gesloten coffeeshopketen](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=9a),
+
+- b. het opleggen van een bestuurlijke boete ingevolge [artikel 16 van de Wet kwaliteit incassodienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&artikel=16),
+
+- c. het schorsen van een registratie als bedoeld in [artikel 9 van de Wet kwaliteit incassodienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&artikel=9) en
+
+- d. het doorhalen van een registratie als bedoeld in [artikel 17 van de Wet kwaliteit incassodienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&artikel=17),
+
+voorbehouden aan de hoofdinspecteur-directeur BSH.
 
 ##### Artikel 6. Vervanging
 
@@ -130,11 +144,11 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit wordt aangehaald als Mandaatbesluit Inspectie Justitie en Veiligheid 2023.
 
-## Bijlage 1. behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048431&artikel=3&z=2023-07-22&g=2024-04-01) van het Mandaatbesluit Inspectie Justitie en Veiligheid 2023
+## Bijlage 1. behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048431&artikel=3&z=2024-06-28&g=2024-06-28) van het Mandaatbesluit Inspectie Justitie en Veiligheid 2023
 
-De functionarissen bij wie in kolom 2 de letter A is geplaatst zijn, onverminderd [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048431&artikel=2&z=2023-07-22&g=2024-04-01) van dit besluit, bevoegd tot uitoefening van alle bevoegdheden die in of krachtens de CAO Rijk aan de leidinggevende zijn toegekend.
+De functionarissen bij wie in kolom 2 de letter A is geplaatst zijn, onverminderd [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048431&artikel=2&z=2024-06-28&g=2024-06-28) van dit besluit, bevoegd tot uitoefening van alle bevoegdheden die in of krachtens de CAO Rijk aan de leidinggevende zijn toegekend.
 
-De functionarissen bij wie in kolom 2 de letter B is geplaatst zijn, onverminderd [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048431&artikel=2&z=2023-07-22&g=2024-04-01) van dit besluit bevoegd tot uitoefening van alle bevoegdheden die in of krachtens de CAO Rijk aan de leidinggevende zijn toegekend, met uitzondering van het opleggen van disciplinaire straffen en ordemaatregelen, alsmede het nemen van beslissingen over de toekenning van een persoonsgebonden dienstauto.
+De functionarissen bij wie in kolom 2 de letter B is geplaatst zijn, onverminderd [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048431&artikel=2&z=2024-06-28&g=2024-06-28) van dit besluit bevoegd tot uitoefening van alle bevoegdheden die in of krachtens de CAO Rijk aan de leidinggevende zijn toegekend, met uitzondering van het opleggen van disciplinaire straffen en ordemaatregelen, alsmede het nemen van beslissingen over de toekenning van een persoonsgebonden dienstauto.
 
 |   |   | Kolom 1 | Kolom 2 |
 | --- | --- | --- | --- |
@@ -150,7 +164,7 @@ De functionarissen bij wie in kolom 2 de letter B is geplaatst zijn, onverminder
 | 1.8 |   | manager afdeling Kennis en Kwaliteitscentrum | B |
 | 1.9 |   | manager afdeling Bedrijfsvoering | B |
 
-## Bijlage 2. behorend bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048431&artikel=4&z=2023-07-22&g=2024-04-01) van het Mandaatbesluit Inspectie Justitie en Veiligheid 2023
+## Bijlage 2. behorend bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048431&artikel=4&z=2024-06-28&g=2024-06-28) van het Mandaatbesluit Inspectie Justitie en Veiligheid 2023
 
 De functionarissen genoemd in kolom 1 zijn bevoegd in overeenstemming met [artikel 3.3 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=3.3) tot het aangaan van verplichtingen en het doen van uitgaven.
 
