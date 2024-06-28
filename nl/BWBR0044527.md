@@ -4,7 +4,7 @@ identifier: "BWBR0044527"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-06-28"
-last_updated: "2021-01-01"
+last_updated: "2024-06-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044527"
 soort: "zbo"
@@ -72,7 +72,7 @@ In deze regeling en de hierop te baseren deelregelingen wordt verstaan onder:
 
 - g. **cultureel erfgoed:** alles wat cultuurhistorische waarde heeft en gezamenlijk de materiële en immateriële erfenis vormt van de Nederlandse samenleving. Hiermee worden bijvoorbeeld bedoeld voorwerpen in musea, archeologische vondsten, archieven en/of de daarmee verbonden gebruiken, gewoonten en verhalen, waarbij het moet gaan om een object, traditie of ritueel,
 
-- h. **Kunstpodium:** een organisatie al dan niet met rechtspersoonlijkheid gevestigd in Nederland, zonder collectie, die een publiekstoegankelijk podium biedt voor de presentatie van vernieuwend of experimenteel aanbod van hedendaagse beeldende kunst en tot primair doel heeft hedendaagse beeldende kunst te presenteren waarbij winst niet het primair oogmerk is,
+- h. **Kunstpodium:** een organisatie met rechtspersoonlijkheid gevestigd in Nederland, die een publiekstoegankelijk podium biedt voor de presentatie van vernieuwend of experimenteel aanbod van hedendaagse beeldende kunst, die niet overwegend gericht is op het beheer van een collectie, die de programmering laat plaatsvinden in een fysieke ruimte en tot primair doel heeft hedendaagse beeldende kunst te presenteren zonder verkoopdoel en waarbij winst niet het primair oogmerk is,
 
 - i. **instelling:** een publiek- of privaatrechtelijke rechtspersoon of een platform,
 
@@ -86,7 +86,7 @@ In deze regeling en de hierop te baseren deelregelingen wordt verstaan onder:
 
 - n. **belastbaar inkomen:** het belastbaar inkomen bedoeld in de [Wet op de inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353),
 
-- o. **bevoegd adviesorgaan:** een onder welke benaming dan ook door het bestuur aangewezen adviseur of adviescommissie aan wie is opgedragen aanvragen op grond van een of meer deelregelingen te beoordelen.
+- o. **bevoegd adviesorgaan:** een onder welke benaming dan ook door het bestuur aangewezen interne of externe adviseur of adviescommissie aan wie is opgedragen aanvragen op grond van een of meer deelregelingen te beoordelen. Een interne adviescommissie bestaat uit medewerkers van het Fonds. In een externe adviescommissie hebben leden zitting die geen deel uitmaken van en niet werkzaam zijn onder verantwoordelijkheid van het Fonds.
 
 ### Hoofdstuk II. Doel
 
@@ -158,7 +158,7 @@ In deze regeling en de hierop te baseren deelregelingen wordt verstaan onder:
 
 3. In specifieke gevallen wordt het aantal voordrachten voor het aantal te honoreren aanvragen door het bestuur vastgesteld.
 
-4. De vast te stellen bedragen, percentages of voordrachten bedoeld in het eerste, tweede en derde lid worden aan de aanvragers bekend gemaakt bij het ter beschikking stellen van de aanvraagformulieren, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0044527&hoofdstuk=IV&artikel=10&z=2021-01-01&g=2021-01-01).
+4. De vast te stellen bedragen, percentages of voordrachten bedoeld in het eerste, tweede en derde lid worden aan de aanvragers bekend gemaakt bij het ter beschikking stellen van de aanvraagformulieren, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0044527&hoofdstuk=IV&artikel=10&z=2024-06-28&g=2024-06-28).
 
 ##### Artikel 8
 
@@ -172,7 +172,7 @@ In deze regeling en de hierop te baseren deelregelingen wordt verstaan onder:
 
 1. Subsidie wordt in ieder geval geweigerd:
 
-- •. indien voor de activiteiten waarvoor op grond van deze regeling subsidie wordt aangevraagd, aan de aanvrager subsidie is of zal worden verleend op grond van een andere regeling van het Mondriaan Fonds dan wel op grond van de Regeling op het specifiek cultuurbeleid.
+- •. indien voor de activiteiten waarvoor op grond van deze regeling subsidie wordt aangevraagd, aan de aanvrager subsidie is of zal worden verleend op grond van een andere regeling van het Mondriaan Fonds, op grond van een meerjarige regeling van een Rijkscultuurfonds, op grond van de [Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597) dan wel op grond van de [Regeling beheer rijkscollectie en subsidiëring museale instellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0037533).
 
 - •. voor zover de aanvragende instelling in de aanvraag niet verklaart dat het de Fair Practice Code, Governance Code Cultuur en de Code Diversiteit & Inclusie onderschrijft.
 
@@ -300,7 +300,7 @@ De in dit lid bedoelde subsidie kan niet worden verstrekt voor het volgen van de
 
 ##### Artikel 15. Beslissing en vaststelling subsidies hoger dan € 125.000
 
-1. Subsidies van € 125.000 en meer worden als voorschot uitgekeerd binnen zes weken na de positieve beslissing als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0044527&hoofdstuk=V&artikel=11&z=2021-01-01&g=2021-01-01). In de beschikking tot subsidieverlening wordt de datum vermeld waarop de activiteiten uiterlijk moeten zijn verricht.
+1. Subsidies van € 125.000 en meer worden als voorschot uitgekeerd binnen zes weken na de positieve beslissing als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0044527&hoofdstuk=V&artikel=11&z=2024-06-28&g=2024-06-28). In de beschikking tot subsidieverlening wordt de datum vermeld waarop de activiteiten uiterlijk moeten zijn verricht.
 
 2. Indien de periode van de uitvoering van de activiteiten waarvoor de subsidie wordt verstrekt meer dan 12 maanden bedraagt, kan maximaal één keer per 12 maanden een tussentijds voortgangsverslag worden gevraagd.
 
@@ -312,7 +312,7 @@ De in dit lid bedoelde subsidie kan niet worden verstrekt voor het volgen van de
 
 6. De ontvanger van een in het eerste lid verleende subsidie dient binnen het in de toelichting gestelde aantal maanden na de door het fonds gesubsidieerde periode een verslag over de verrichte werkzaamheden in te dienen, voorzien van deugdelijke visuele documentatie en aan te tonen dat de activiteiten waarvoor de subsidie is verleend zijn verricht en dat is voldaan aan de subsidie verbonden verplichtingen.
 
-7. Degene aan wie een subsidie als bedoeld in het eerste lid van dit artikel is verleend, dient binnen het in de toelichting gestelde aantal maanden na de door het bestuur gesubsidieerde periode een overzicht van de gedane uitgaven en de verkregen inkomsten, zoveel mogelijk gestaafd met bewijsstukken in te dienen. Daarbij kan tevens verzocht worden om een accountantsverklaring over te leggen.
+7. Degene aan wie een subsidie als bedoeld in het eerste lid van dit artikel is verleend, dient binnen het in de toelichting gestelde aantal maanden na de door het bestuur gesubsidieerde periode een overzicht van de gedane uitgaven en de verkregen inkomsten, zoveel mogelijk gestaafd met bewijsstukken in te dienen. Daarbij kan tevens verzocht worden om een goedkeurende accountantsverklaring over te leggen.
 
 8. Indien aannemelijk is dat gesubsidieerde activiteiten niet geheel, niet tijdig of niet volgens alle daaraan verbonden verplichtingen zullen worden of zijn verricht of dat de daadwerkelijke subsidiabele kosten lager zijn dan begroot, kan het bestuur de subsidie verlagen dan wel de toekenning intrekken. Reeds betaalde bedragen inclusief wettelijke rente kunnen worden verrekend dan wel worden teruggevorderd.
 
@@ -340,7 +340,7 @@ De in dit lid bedoelde subsidie kan niet worden verstrekt voor het volgen van de
 
 ##### Artikel 17. Bescherming persoonsgegevens
 
-Het bestuur verstrekt geen vertrouwelijke informatie over een aanvraag aan derden. Het gaat hier om bedrijfs- en fabricagegegevens die door een aanvrager vertrouwelijk aan het fonds zijn medegedeeld of om persoonsgegevens als bedoeld in [hoofdstuk 2, paragraaf 2 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&paragraaf=2), tenzij de verstrekking kennelijk geen inbreuk op de persoonlijke levenssfeer maakt.
+Het bestuur verstrekt geen vertrouwelijke informatie over een aanvraag aan derden. Het gaat hier om bedrijfs- en fabricagegegevens die door een aanvrager vertrouwelijk aan het fonds zijn medegedeeld of om persoonsgegevens als bedoeld in artikel 4 eerste lid van de Algemene verordening gegevensbescherming, tenzij de verstrekking kennelijk geen inbreuk op de persoonlijke levenssfeer maakt.
 
 ##### Artikel 18. Discretionaire bevoegdheid
 
