@@ -4,7 +4,7 @@ identifier: "BWBR0023543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-18"
-last_updated: "2024-01-20"
+last_updated: "2024-06-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023543"
 soort: "ministeriele-regeling"
@@ -174,15 +174,13 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - d. voor zover het niet de enige opleiding in zijn soort betreft, een waarschuwing als bedoeld in de [artikelen 6.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.5), [6.1.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.5b), [6.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.2.3), [6.2.3b](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.2.3b) en [6.3.2 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.3.2) en de [artikelen 6.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=6.2.3), [6.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=6.2.4) en [6.3.1 van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=6.3.1) te geven, of een besluit als bedoeld in de [artikelen 6.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.4), 6.1.5b, [6.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.2.2), 6.2.3b en 6.3.2 van de Wet educatie en beroepsonderwijs en de [artikelen 6.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=6.2.1), 6.2.4 en 6.3.1 van de Wet educatie en beroepsonderwijs BES te nemen;
 
-- e. de bestuurlijke boete op te leggen, bedoeld in [artikel 27 van de Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=27) of [artikel 39 van de Leerplichtwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&artikel=39);
+- e. de bestuurlijke boete op te leggen, bedoeld in [artikel 27 van de Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=27), [artikel 39 van de Leerplichtwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&artikel=39), [artikel 15.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=15.7), en [artikel 15.8 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=15.8), [artikel 11.2, tweede lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=11.2), alsmede, vanaf het moment dat het bij Koninklijke boodschap van 14 april 2023 ingediende voorstel van wet houdende de vaststelling van regels voor het Nederlandse kwalificatieraamwerk voor een leven lang leren (Wet NLQF, Kamerstuk 2023 II 36 341, nr. 2) tot wet is verheven, artikel 4.3 van de Wet NLQF, of
 
-- f. te beslissen op een tegen een besluit als bedoeld in de onderdelen a tot en met e ingediend bezwaarschrift, of
-
-- g. een rapport op te maken als bedoeld in [artikel 5:48 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48) van overtreding van de [artikelen 1.22](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.22), [1.23](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.23), [1.24](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.24) of [15.7 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=15.7).
+- f. te beslissen op een tegen een besluit als bedoeld in de onderdelen a tot en met e ingediend bezwaarschrift.
 
 ##### Artikel 8. Mandaat aan het hoofd van de baten-lastendienst Nationaal Archief
 
-1. Het hoofd van het Nationaal Archief heeft, onverminderd [artikel 4, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2024-01-20&g=2024-01-20), en de mandaatverlening aan de secretaris-generaal en de directeur-generaal, binnen het kader van de managementafspraak mandaat ten aanzien van alle aangelegenheden die verband houden met de taken en verantwoordelijkheden op zijn werkterrein.
+1. Het hoofd van het Nationaal Archief heeft, onverminderd [artikel 4, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2024-06-29&g=2024-06-29), en de mandaatverlening aan de secretaris-generaal en de directeur-generaal, binnen het kader van de managementafspraak mandaat ten aanzien van alle aangelegenheden die verband houden met de taken en verantwoordelijkheden op zijn werkterrein.
 
 2. Het hoofd van het Nationaal Archief is budgethouder voor de hem door de secretaris-generaal toegewezen budgetten.
 
@@ -220,7 +218,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - c. stukken gericht aan de Nationale ombudsman,
 
-- d. het verlenen van mandaat inzake een bevoegdheid, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2024-01-20&g=2024-01-20),
+- d. het verlenen van mandaat inzake een bevoegdheid, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2024-06-29&g=2024-06-29),
 
 - e. de afwikkeling van een gemeld vermoeden van een misstand,
 
@@ -242,7 +240,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - c. de voorlopige buiteninvorderingstelling van vorderingen op derden, het kwijtschelden van vorderingen op derden, het deelnemen in een NV of BV met een financieel belang en het sluiten van huur-, huurkoop- en leaseovereenkomsten, een en ander voor een bedrag tot € 500.000 voor de duur van de overeenkomst.
 
-2. De directeur-generaal DUO is gemandateerd met betrekking tot het nemen van beslissingen op bezwaar- en beroepschriften onverminderd [artikel 7, vierde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=7&z=2024-01-20&g=2024-01-20).
+2. De directeur-generaal DUO is gemandateerd met betrekking tot het nemen van beslissingen op bezwaar- en beroepschriften onverminderd [artikel 7, vierde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=7&z=2024-06-29&g=2024-06-29).
 
 3. De directeur-generaal Hoger Onderwijs, Beroepsonderwijs, Wetenschap en Emancipatie, de directeur-generaal Primair en Voortgezet Onderwijs en de directeur-generaal Cultuur en Media zijn met uitsluiting van anderen, met uitzondering van de secretaris-generaal, gemandateerd met betrekking tot het geven van toestemming voor schatkistbankieren.
 
@@ -262,7 +260,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 4. Onverminderd het eerste tot en met het derde lid hebben direct-leidinggevenden binnen het kader van de managementafspraak mandaat ten aanzien van de personele aangelegenheden die verband houden met de taken en verantwoordelijkheden op hun werkterrein voor zover deze worden afgehandeld via het P-direktportaal.
 
-5. Het bepaalde in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=16&z=2024-01-20&g=2024-01-20) is niet van toepassing op de in het vorige lid genoemde personele aangelegenheden die via het P-direktportaal worden afgehandeld.
+5. Het bepaalde in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=16&z=2024-06-29&g=2024-06-29) is niet van toepassing op de in het vorige lid genoemde personele aangelegenheden die via het P-direktportaal worden afgehandeld.
 
 ##### Artikel 15. Afwezigheid of verhindering
 
@@ -288,7 +286,7 @@ handtekening van de gemandateerde,
 
 naam van de gemandateerde.
 
-2. De gevolmachtigde is gehouden in de ondertekening van stukken inzake personele aangelegenheden als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2024-01-20&g=2024-01-20) zijn vertegenwoordigingsbevoegdheid tot uitdrukking te brengen door opneming van de formule:
+2. De gevolmachtigde is gehouden in de ondertekening van stukken inzake personele aangelegenheden als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2024-06-29&g=2024-06-29) zijn vertegenwoordigingsbevoegdheid tot uitdrukking te brengen door opneming van de formule:
 
 **De Staat der Nederlanden,**
 
@@ -302,7 +300,7 @@ naam van de gemandateerde.
 
 **naam van de gevolmachtigde**
 
-3. De gemandateerde is gehouden in de ondertekening van stukken als bedoeld in [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14a&z=2024-01-20&g=2024-01-20) zijn vertegenwoordigingsbevoegdheid tot uitdrukking te brengen door opneming van de formule:
+3. De gemandateerde is gehouden in de ondertekening van stukken als bedoeld in [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14a&z=2024-06-29&g=2024-06-29) zijn vertegenwoordigingsbevoegdheid tot uitdrukking te brengen door opneming van de formule:
 
 **De minister van Onderwijs, Cultuur en Wetenschap en de minister van Binnenlandse Zaken en Koninkrijksrelaties,**
 
