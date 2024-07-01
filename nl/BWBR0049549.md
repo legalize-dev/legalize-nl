@@ -4,7 +4,7 @@ identifier: "BWBR0049549"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-24"
-last_updated: "2024-05-15"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049549"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **aanpak:** de preventieve aanpak van jeugdcriminaliteit in de gemeente;
 
-- –. **gemeente:** een gemeente als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049549&artikel=2&z=2024-05-15&g=2024-05-15);
+- –. **gemeente:** een gemeente als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049549&artikel=2&z=2025-12-24&g=2024-07-01);
 
 - –. **Ministers:** de Minister van Justitie en Veiligheid en de Minister voor Rechtsbescherming.
 
@@ -98,7 +98,7 @@ In deze regeling wordt verstaan onder:
 
 3. De specifieke uitkering wordt uitsluitend verstrekt voor de hierna volgende activiteiten:
 
-- a. de totstandkoming en uitwerking van een probleemanalyse die voldoet aan de voorwaarden gesteld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049549&artikel=3&z=2024-05-15&g=2024-05-15);
+- a. de totstandkoming en uitwerking van een probleemanalyse die voldoet aan de voorwaarden gesteld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049549&artikel=3&z=2025-12-24&g=2024-07-01);
 
 - b. de programmaondersteuning of de programmacoördinatie dan wel allebei ten behoeve van de aanpak; en
 
@@ -114,9 +114,9 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Nadere voorwaarden
 
-1. De probleemanalyse, bedoeld in [artikel 2, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0049549&artikel=2&z=2024-05-15&g=2024-05-15), wordt met inachtneming van geldende wet- en regelgeving verricht op het gebied van (online) jeugdcriminaliteit, waaronder de trends op dat gebied binnen het lokale en, waar relevant, het regionale domein met als doel de informatiepositie van de gemeente te verbeteren met betrekking tot de specifieke doelgroep in een bepaald gebied en het kennisniveau van betrokken professionals bij de lokale en, waar relevant, de regionale aanpak te vergroten.
+1. De probleemanalyse, bedoeld in [artikel 2, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0049549&artikel=2&z=2025-12-24&g=2024-07-01), wordt met inachtneming van geldende wet- en regelgeving verricht op het gebied van (online) jeugdcriminaliteit, waaronder de trends op dat gebied binnen het lokale en, waar relevant, het regionale domein met als doel de informatiepositie van de gemeente te verbeteren met betrekking tot de specifieke doelgroep in een bepaald gebied en het kennisniveau van betrokken professionals bij de lokale en, waar relevant, de regionale aanpak te vergroten.
 
-2. Voor de activiteiten, bedoeld in [artikel 2, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0049549&artikel=2&z=2024-05-15&g=2024-05-15), wordt gebruik gemaakt van een programmaondersteuner of een programmacoördinator dan wel allebei. Deze personen:
+2. Voor de activiteiten, bedoeld in [artikel 2, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0049549&artikel=2&z=2025-12-24&g=2024-07-01), wordt gebruik gemaakt van een programmaondersteuner of een programmacoördinator dan wel allebei. Deze personen:
 
 - a. fungeren voor betrokken partners en belanghebbenden als aanspreekpunt van de gemeente voor de lokale aanpak; en
 
@@ -208,7 +208,7 @@ De gemeente die een eenmalige specifieke uitkering heeft ontvangen, is verplicht
 
 ##### Artikel 10. Terugvordering
 
-De Ministers kunnen onverschuldigd uitgekeerde bedragen naar aanleiding van een lagere vaststelling van de uitkering als bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049549&artikel=9&z=2024-05-15&g=2024-05-15), terugvorderen.
+De Ministers kunnen onverschuldigd uitgekeerde bedragen naar aanleiding van een lagere vaststelling van de uitkering als bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049549&artikel=9&z=2025-12-24&g=2024-07-01), terugvorderen.
 
 ##### Artikel 11. Inwerkingtreding
 
@@ -219,5 +219,11 @@ De Ministers kunnen onverschuldigd uitgekeerde bedragen naar aanleiding van een 
 ##### Artikel 12. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering ter voorkoming van jeugdcriminaliteit 2024.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 10a. Bestedingstermijn
+
+De gemeente kan een gemotiveerd verzoek indienen tot verlenging van de bestedingstermijn tot uiterlijk 31 december 2026. Verlenging van de bestedingstermijn kan ten hoogste worden verleend tot en met 31 december 2027.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
