@@ -4,7 +4,7 @@ identifier: "BWBR0035779"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2024-01-01"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035779"
 soort: "AMvB"
@@ -106,7 +106,7 @@ Een certificaat of een voorlopig certificaat wordt geschorst of ingetrokken door
 
 [Artikel 10.0, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=10.0) is niet van toepassing op de volgende categorieën van jeugdhulpaanbieders:
 
-- a. jeugdhulpaanbieders als bedoeld in [artikel 4.0.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=4&paragraaf=4.0&artikel=4.0.1&z=2024-01-01&g=2024-01-01);
+- a. jeugdhulpaanbieders als bedoeld in [artikel 4.0.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=4&paragraaf=4.0&artikel=4.0.1&z=2024-07-01&g=2024-07-01);
 
 - b. jeugdhulpaanbieders die binnen de termijn, bedoeld in [artikel 10.0 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=10.0), de gegevens, bedoeld in [artikel 8.3.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=8.3.1), over het jaar 2021 op de krachtens laatstgenoemd artikel bepaalde wijze hebben openbaar gemaakt; en
 
@@ -114,9 +114,9 @@ Een certificaat of een voorlopig certificaat wordt geschorst of ingetrokken door
 
 ##### Artikel 10.2
 
-1. Een jeugdhulpaanbieder stelt het veiligheidsplan, bedoeld in [artikel 6.1.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=6&paragraaf=6.1&artikel=6.1.2&z=2024-01-01&g=2024-01-01), vast binnen zes maanden na het tijdstip van inwerkingtreding van de [Wet rechtspositie gesloten jeugdhulp](https://wetten.overheid.nl/jci1.3:c:BWBR0048243).
+1. Een jeugdhulpaanbieder stelt het veiligheidsplan, bedoeld in [artikel 6.1.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=6&paragraaf=6.1&artikel=6.1.2&z=2024-07-01&g=2024-07-01), vast binnen zes maanden na het tijdstip van inwerkingtreding van de [Wet rechtspositie gesloten jeugdhulp](https://wetten.overheid.nl/jci1.3:c:BWBR0048243).
 
-2. Een jeugdhulpaanbieder voldoet zo spoedig mogelijk, doch in ieder geval binnen zes maanden na het tijdstip van inwerkingtreding van de [Wet rechtspositie gesloten jeugdhulp](https://wetten.overheid.nl/jci1.3:c:BWBR0048243) aan de [artikelen 6.2.5, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=6&paragraaf=6.2&artikel=6.2.5&z=2024-01-01&g=2024-01-01), en [6.2.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=6&paragraaf=6.2&artikel=6.2.6&z=2024-01-01&g=2024-01-01).
+2. Een jeugdhulpaanbieder voldoet zo spoedig mogelijk, doch in ieder geval binnen zes maanden na het tijdstip van inwerkingtreding van de [Wet rechtspositie gesloten jeugdhulp](https://wetten.overheid.nl/jci1.3:c:BWBR0048243) aan de [artikelen 6.2.5, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=6&paragraaf=6.2&artikel=6.2.5&z=2024-07-01&g=2024-07-01), en [6.2.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=6&paragraaf=6.2&artikel=6.2.6&z=2024-07-01&g=2024-07-01).
 
 ##### Artikel 10.3
 
@@ -124,7 +124,7 @@ Vervallen
 
 ##### Artikel 10.4
 
-Een erkenning van een beroepsregister als enig kwaliteitsregister jeugd door Onze Ministers op grond van [artikel 68a, eerste lid, van het Uitvoeringsbesluit Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0017751&artikel=68a), geldt als erkenning op grond van [artikel 5.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2024-01-01&g=2024-01-01), van dit besluit.
+Een erkenning van een beroepsregister als enig kwaliteitsregister jeugd door Onze Ministers op grond van [artikel 68a, eerste lid, van het Uitvoeringsbesluit Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0017751&artikel=68a), geldt als erkenning op grond van [artikel 5.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2024-07-01&g=2024-07-01), van dit besluit.
 
 ##### Artikel 10.5
 
@@ -158,9 +158,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **klager:** degene die een klacht als bedoeld in [artikel 6.5.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=6.5.1) indient;
 
-- –. **kwaliteitsregister jeugd:** door Onze Ministers op grond van [artikel 5.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2024-01-01&g=2024-01-01), erkend register;
+- –. **kwaliteitsregister jeugd:** door Onze Ministers op grond van [artikel 5.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2024-07-01&g=2024-07-01), erkend register;
 
-- –. **registerstichting:** stichting, bedoeld in [artikel 5.2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2024-01-01&g=2024-01-01);
+- –. **registerstichting:** stichting, bedoeld in [artikel 5.2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2024-07-01&g=2024-07-01);
 
 - –. **SBV-Z:** sectorale berichtenvoorziening in de zorg als bedoeld in [artikel 11 van het Besluit gebruik burgerservicenummer in de zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&artikel=11);
 
@@ -244,7 +244,7 @@ Onze Minister van Veiligheid en Justitie ziet toe op de rechtmatige, doeltreffen
 
 ##### Artikel 3.1.5
 
-1. Indien naar het oordeel van Onze Minister van Veiligheid en Justitie de certificerende instelling haar taak niet naar behoren vervult, kan Onze Minister van Veiligheid en Justitie de aanwijzing, bedoeld in [artikel 3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=3&paragraaf=3.1&artikel=3.1.1&z=2024-01-01&g=2024-01-01) intrekken.
+1. Indien naar het oordeel van Onze Minister van Veiligheid en Justitie de certificerende instelling haar taak niet naar behoren vervult, kan Onze Minister van Veiligheid en Justitie de aanwijzing, bedoeld in [artikel 3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=3&paragraaf=3.1&artikel=3.1.1&z=2024-07-01&g=2024-07-01) intrekken.
 
 2. De aanwijzing wordt niet eerder ingetrokken dan nadat de certificerende instelling in de gelegenheid is gesteld om binnen een door Onze Minister van Veiligheid en Justitie te stellen termijn alsnog haar taken naar behoren uit te voeren.
 
@@ -342,7 +342,7 @@ De gecertificeerde instelling beziet zo vaak als noodzakelijk, doch ten minste e
 
 ##### Artikel 5.1.1
 
-1. Indien toepassing is gegeven aan [artikel 5.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2024-01-01&g=2024-01-01), dragen de jeugdhulpaanbieder, de gecertificeerde instelling en het college, voor zover het betreft de toeleiding naar, advisering over, de bepaling en het inzetten van de aangewezen voorziening, er zorg voor dat de taken worden uitgevoerd door of onder verantwoordelijkheid van een geregistreerde professional. De jeugdhulpaanbieder, de gecertificeerde instelling en het college delen de taken toe met inachtneming van de specifieke kennis en vaardigheden van de geregistreerde professional.
+1. Indien toepassing is gegeven aan [artikel 5.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2024-07-01&g=2024-07-01), dragen de jeugdhulpaanbieder, de gecertificeerde instelling en het college, voor zover het betreft de toeleiding naar, advisering over, de bepaling en het inzetten van de aangewezen voorziening, er zorg voor dat de taken worden uitgevoerd door of onder verantwoordelijkheid van een geregistreerde professional. De jeugdhulpaanbieder, de gecertificeerde instelling en het college delen de taken toe met inachtneming van de specifieke kennis en vaardigheden van de geregistreerde professional.
 
 2. In afwijking van het eerste lid kan de jeugdhulpaanbieder, de gecertificeerde instelling of het college anderen dan geregistreerde professionals met de uitvoering van taken belasten indien hij of zij aannemelijk kan maken dat de kwaliteit van de uit te voeren taak daardoor niet nadelig wordt beïnvloed. In afwijking van het eerste lid belast de jeugdhulpaanbieder, de gecertificeerde instelling of het college anderen met die taken, indien dit noodzakelijk is voor de kwaliteit van uit te voeren taak.
 
@@ -350,11 +350,11 @@ De gecertificeerde instelling beziet zo vaak als noodzakelijk, doch ten minste e
 
 ##### Artikel 5.1.2
 
-Indien de mogelijkheid tot registratie in het kwaliteitsregister jeugd wordt uitgebreid naar nieuwe categorieën van beoefenaren van beroepen in het jeugddomein, blijft [artikel 5.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.1&artikel=5.1.1&z=2024-01-01&g=2024-01-01) gedurende een termijn van een jaar buiten toepassing op werktoedelingen waarvan het college voor zover het betreft de toeleiding naar, de advisering over, de bepaling en het inzetten van de aangewezen voorziening, de jeugdhulpaanbieder of de gecertificeerde instelling aannemelijk kan maken dat die toedeling plaatsvindt aan een niet tot die categorie behorende beroepsbeoefenaar, indien die beroepsbeoefenaar reeds bij de aanvang van die periode binnen de betreffende organisatie werkzaam was.
+Indien de mogelijkheid tot registratie in het kwaliteitsregister jeugd wordt uitgebreid naar nieuwe categorieën van beoefenaren van beroepen in het jeugddomein, blijft [artikel 5.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.1&artikel=5.1.1&z=2024-07-01&g=2024-07-01) gedurende een termijn van een jaar buiten toepassing op werktoedelingen waarvan het college voor zover het betreft de toeleiding naar, de advisering over, de bepaling en het inzetten van de aangewezen voorziening, de jeugdhulpaanbieder of de gecertificeerde instelling aannemelijk kan maken dat die toedeling plaatsvindt aan een niet tot die categorie behorende beroepsbeoefenaar, indien die beroepsbeoefenaar reeds bij de aanvang van die periode binnen de betreffende organisatie werkzaam was.
 
 ##### Artikel 5.1.3
 
-Indien de mogelijkheid tot registratie in het kwaliteitsregister jeugd wordt uitgebreid naar nieuwe categorieën van beoefenaren van beroepen in het jeugddomein, kan gedurende een termijn van vijf jaar en drie maanden vanaf het tijdstip van aanvang van die termijn in afwijking van [artikel 5.4.2, eerste lid, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.4&artikel=5.4.2&z=2024-01-01&g=2024-01-01), een tot die categorie behorende beroepsbeoefenaar in het kwaliteitsregister jeugd zijn ingeschreven indien:
+Indien de mogelijkheid tot registratie in het kwaliteitsregister jeugd wordt uitgebreid naar nieuwe categorieën van beoefenaren van beroepen in het jeugddomein, kan gedurende een termijn van vijf jaar en drie maanden vanaf het tijdstip van aanvang van die termijn in afwijking van [artikel 5.4.2, eerste lid, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.4&artikel=5.4.2&z=2024-07-01&g=2024-07-01), een tot die categorie behorende beroepsbeoefenaar in het kwaliteitsregister jeugd zijn ingeschreven indien:
 
 - a. die beroepsbeoefenaar op het tijdstip waarop de termijn aanvangt werkzaam is voor het college voor zover het betreft de toeleiding naar, de advisering over, de bepaling en het inzetten van de aangewezen voorziening, voor de jeugdhulpaanbieder of voor de gecertificeerde instelling in een functie waarvoor scholing is vereist op het niveau van een hogere beroepsopleiding;
 
@@ -362,13 +362,13 @@ Indien de mogelijkheid tot registratie in het kwaliteitsregister jeugd wordt uit
 
 - c. de beroepsbeoefenaar deelneemt aan een scholingstraject dat erop gericht is uiterlijk bij de eerste herregistratie de scholing op het niveau van hoger beroepsonderwijs te voltooien, en
 
-- d. de registerstichting bij de uitvoering van [artikel 5.4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.4&artikel=5.4.4&z=2024-01-01&g=2024-01-01) ervoor zorg draagt dat voor een ieder kenbaar is dat de registratie van de beroepsbeoefenaar valt onder de werking van dit artikel.
+- d. de registerstichting bij de uitvoering van [artikel 5.4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.4&artikel=5.4.4&z=2024-07-01&g=2024-07-01) ervoor zorg draagt dat voor een ieder kenbaar is dat de registratie van de beroepsbeoefenaar valt onder de werking van dit artikel.
 
 ##### Artikel 5.1.4
 
-1. De aanvang van de termijnen, bedoeld in de [artikelen 5.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.1&artikel=5.1.2&z=2024-01-01&g=2024-01-01) en [5.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.1&artikel=5.1.3&z=2024-01-01&g=2024-01-01), wordt bij besluit van Onze Ministers vastgesteld.
+1. De aanvang van de termijnen, bedoeld in de [artikelen 5.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.1&artikel=5.1.2&z=2024-07-01&g=2024-07-01) en [5.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.1&artikel=5.1.3&z=2024-07-01&g=2024-07-01), wordt bij besluit van Onze Ministers vastgesteld.
 
-2. De termijnen, bedoeld in de [artikelen 5.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.1&artikel=5.1.2&z=2024-01-01&g=2024-01-01) en [5.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.1&artikel=5.1.3&z=2024-01-01&g=2024-01-01), kunnen bij besluit van Onze Ministers worden gewijzigd, indien het in het belang van de continuïteit van de werktoedeling noodzakelijk is.
+2. De termijnen, bedoeld in de [artikelen 5.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.1&artikel=5.1.2&z=2024-07-01&g=2024-07-01) en [5.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.1&artikel=5.1.3&z=2024-07-01&g=2024-07-01), kunnen bij besluit van Onze Ministers worden gewijzigd, indien het in het belang van de continuïteit van de werktoedeling noodzakelijk is.
 
 3. De besluiten, bedoeld in het eerste en tweede lid, worden bekend gemaakt in de Staatscourant.
 
@@ -382,11 +382,11 @@ Indien de mogelijkheid tot registratie in het kwaliteitsregister jeugd wordt uit
 
 ##### Artikel 5.2.2
 
-De erkenning, bedoeld in [artikel 5.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2024-01-01&g=2024-01-01), vindt slechts plaats indien het beroepsregister onderscheidenlijk de registerstichting voldoet aan de in de [artikelen 5.3.1 tot en met 5.4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.3&artikel=5.3.1&z=2024-01-01&g=2024-01-01) gestelde voorwaarden.
+De erkenning, bedoeld in [artikel 5.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2024-07-01&g=2024-07-01), vindt slechts plaats indien het beroepsregister onderscheidenlijk de registerstichting voldoet aan de in de [artikelen 5.3.1 tot en met 5.4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.3&artikel=5.3.1&z=2024-07-01&g=2024-07-01) gestelde voorwaarden.
 
 ##### Artikel 5.2.3
 
-1. Onze Ministers kunnen een erkenning als bedoeld in [artikel 5.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2024-01-01&g=2024-01-01), intrekken:
+1. Onze Ministers kunnen een erkenning als bedoeld in [artikel 5.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2024-07-01&g=2024-07-01), intrekken:
 
 - a. indien de registerstichting handelt in strijd met de in dit hoofdstuk neergelegde erkenningsvoorwaarden;
 
@@ -402,13 +402,15 @@ De erkenning, bedoeld in [artikel 5.2.1, eerste lid](https://wetten.overheid.nl/
 
 ##### Artikel 5.3.1
 
-1. De leden van het bestuur van de registerstichting worden benoemd op voordracht van beroepsverenigingen waarbij beroepsbeoefenaren zijn aangesloten die van relevant belang zijn voor de beroepsuitoefening in het jeugddomein.
+1. De statuten van de registerstichting regelen dat het intern toezicht op de registerstichting wordt uitgeoefend door een raad van toezicht bestaande uit vijf leden.
 
-2. De statuten van de registerstichting regelen de mogelijkheid tot aanwijzing van andere beroepsverenigingen van relevant belang voor de beroepsuitoefening in het jeugddomein, die gerechtigd zijn tot een voordracht van leden van het bestuur.
+2. Een van de leden van de raad van toezicht van de registerstichting wordt benoemd op voordracht van beroepsverenigingen waarbij beroepsbeoefenaren zijn aangesloten die van relevant belang zijn voor de beroepsuitoefening in het jeugddomein.
+
+3. De statuten van de registerstichting regelen de mogelijkheid tot aanwijzing van andere beroepsverenigingen van relevant belang voor de beroepsuitoefening in het jeugddomein, die gerechtigd zijn tot een voordracht van een van de leden van de raad van toezicht.
 
 ##### Artikel 5.3.2
 
-De statuten van de registerstichting regelen op afdoende wijze dat de leden van het bestuur, dan wel leden van andere organen van de registerstichting geen functies vervullen die onverenigbaar, strijdig zijn of strijdig kunnen zijn met de belangen of doelstellingen van de registerstichting.
+De statuten van de registerstichting regelen op afdoende wijze dat de leden van het bestuur, de leden van de raad van toezicht, dan wel leden van andere organen van de registerstichting geen functies vervullen die onverenigbaar, strijdig zijn of strijdig kunnen zijn met de belangen of doelstellingen van de registerstichting.
 
 ##### Artikel 5.3.3
 
@@ -418,7 +420,7 @@ De statuten van de registerstichting regelen op afdoende wijze dat de leden van 
 
 - a. de voorwaarden voor registratie en herregistratie;
 
-- b. een aanwijzing als bedoeld in [artikel 5.3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.3&artikel=5.3.1&z=2024-01-01&g=2024-01-01);
+- b. een aanwijzing als bedoeld in [artikel 5.3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.3&artikel=5.3.1&z=2024-07-01&g=2024-07-01);
 
 - c. de samenstelling van de raad van advies.
 
@@ -436,7 +438,7 @@ De statuten van de registerstichting regelen op afdoende wijze dat de leden van 
 
 - c. herregistratie plaatsvindt op voorwaarde dat de betrokkene in de periode, bedoeld onder b, heeft voldaan aan door de registerstichting te stellen eisen van werkervaring en van na- en bijscholing.
 
-2. De registerstichting regelt voorts dat voorafgaand aan de wijziging van de eisen van registratie overleg wordt gevoerd met de beroepsverenigingen, bedoeld in [artikel 5.3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.3&artikel=5.3.1&z=2024-01-01&g=2024-01-01).
+2. De registerstichting regelt voorts dat voorafgaand aan de wijziging van de eisen van registratie overleg wordt gevoerd met de beroepsverenigingen, bedoeld in [artikel 5.3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.3&artikel=5.3.1&z=2024-07-01&g=2024-07-01).
 
 ##### Artikel 5.4.2
 
@@ -458,7 +460,7 @@ De statuten van de registerstichting regelen op afdoende wijze dat de leden van 
 
 ##### Artikel 5.4.4
 
-De registerstichting regelt dat het beroepsregister voor een ieder kosteloos raadpleegbaar is. Zij regelt voorts dat de maatregelen bedoeld in [artikel 5.4.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.4&artikel=5.4.3&z=2024-01-01&g=2024-01-01), gedurende een door haar vast te stellen periode voor het publiek kenbaar zijn. Zij houdt daarbij rekening met de aard van de maatregelen, de verwijtbaarheid van het handelen en het belang van degenen die daarvan kennis kunnen nemen.
+De registerstichting regelt dat het beroepsregister voor een ieder kosteloos raadpleegbaar is. Zij regelt voorts dat de maatregelen bedoeld in [artikel 5.4.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.4&artikel=5.4.3&z=2024-07-01&g=2024-07-01), gedurende een door haar vast te stellen periode voor het publiek kenbaar zijn. Zij houdt daarbij rekening met de aard van de maatregelen, de verwijtbaarheid van het handelen en het belang van degenen die daarvan kennis kunnen nemen.
 
 #### § 5.5. Overige bepalingen
 
@@ -468,7 +470,7 @@ Na de beëindiging van de erkenning verleent de registerstichting alle medewerki
 
 ##### Artikel 5.5.2
 
-1. De registerstichting verstrekt aan Onze Ministers kosteloos op verzoek alle in haar bezit zijnde, op het functioneren van de registerstichting of het kwaliteitsregister jeugd betrekking hebbende informatie die redelijkerwijs noodzakelijk is om te beoordelen of de registerstichting of het kwaliteitsregister jeugd op enig moment voldoet aan de bij dit besluit gestelde eisen, dan wel de informatie die redelijkerwijs noodzakelijk is om ten minste inzicht te krijgen in de aantallen registraties, de aard van de registraties en de ontwikkelingen rond het systeem van normhandhaving, bedoeld in [artikel 5.4.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.4&artikel=5.4.3&z=2024-01-01&g=2024-01-01).
+1. De registerstichting verstrekt aan Onze Ministers kosteloos op verzoek alle in haar bezit zijnde, op het functioneren van de registerstichting of het kwaliteitsregister jeugd betrekking hebbende informatie die redelijkerwijs noodzakelijk is om te beoordelen of de registerstichting of het kwaliteitsregister jeugd op enig moment voldoet aan de bij dit besluit gestelde eisen, dan wel de informatie die redelijkerwijs noodzakelijk is om ten minste inzicht te krijgen in de aantallen registraties, de aard van de registraties en de ontwikkelingen rond het systeem van normhandhaving, bedoeld in [artikel 5.4.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.4&artikel=5.4.3&z=2024-07-01&g=2024-07-01).
 
 2. De registerstichting meldt voorgenomen wijzingen van haar statuten aan Onze Ministers.
 
@@ -484,11 +486,11 @@ Na de beëindiging van de erkenning verleent de registerstichting alle medewerki
 
 - c. de behandeling van personen en instellingen die met de registerstichting in aanraking komen, en
 
-- d. de werkzaamheden, samenhangend met [artikel 5.4.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.4&artikel=5.4.3&z=2024-01-01&g=2024-01-01).
+- d. de werkzaamheden, samenhangend met [artikel 5.4.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.4&artikel=5.4.3&z=2024-07-01&g=2024-07-01).
 
 3. Het jaarverslag geeft tevens cijfermatig inzicht in de gegevens, bedoeld in het tweede lid, onder a, c en d.
 
-4. De registerstichting zendt het jaarverslag voor 1 mei, volgend op het verslagjaar, aan Onze Ministers en de beroepsverenigingen, bedoeld in [artikel 5.3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.3&artikel=5.3.1&z=2024-01-01&g=2024-01-01).
+4. De registerstichting zendt het jaarverslag voor 1 mei, volgend op het verslagjaar, aan Onze Ministers en de beroepsverenigingen, bedoeld in [artikel 5.3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.3&artikel=5.3.1&z=2024-07-01&g=2024-07-01).
 
 5. Het jaarverslag gaat vergezeld van een verklaring van een accountant die is ingeschreven in het register, bedoeld in [artikel 36, eerste lid, van de Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=36). De verklaring:
 
@@ -498,7 +500,7 @@ Na de beëindiging van de erkenning verleent de registerstichting alle medewerki
 
 ##### Artikel 5.5.4
 
-Van de erkenning, bedoeld in [artikel 5.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2024-01-01&g=2024-01-01), en de intrekking van de erkenning, bedoeld in [artikel 5.2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.2&artikel=5.2.3&z=2024-01-01&g=2024-01-01), wordt mededeling gedaan in de Staatscourant.
+Van de erkenning, bedoeld in [artikel 5.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2024-07-01&g=2024-07-01), en de intrekking van de erkenning, bedoeld in [artikel 5.2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=5&paragraaf=5.2&artikel=5.2.3&z=2024-07-01&g=2024-07-01), wordt mededeling gedaan in de Staatscourant.
 
 ### Hoofdstuk 6. Gesloten jeugdhulp bij ernstige opgroei- en opvoedingsproblemen
 
@@ -624,13 +626,13 @@ Als categorieën van instanties als bedoeld in [artikel 7.1.1.2, eerste lid, ond
 
 ##### Artikel 7.2.2
 
-1. Een instantie die behoort tot een van de categorieën, bedoeld in de [artikelen 7.1.1 tot en met 7.1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=7&paragraaf=7.1&artikel=7.1.1&z=2024-01-01&g=2024-01-01) of een functionaris die behoort tot een van de categorieën, bedoeld in [artikel 7.1.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=7&paragraaf=7.1&artikel=7.1.3&z=2024-01-01&g=2024-01-01), of [7.1.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=7&paragraaf=7.1&artikel=7.1.4&z=2024-01-01&g=2024-01-01), draagt zorg voor een zorgvuldig en veilig gebruik van de verwijsindex.
+1. Een instantie die behoort tot een van de categorieën, bedoeld in de [artikelen 7.1.1 tot en met 7.1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=7&paragraaf=7.1&artikel=7.1.1&z=2024-07-01&g=2024-07-01) of een functionaris die behoort tot een van de categorieën, bedoeld in [artikel 7.1.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=7&paragraaf=7.1&artikel=7.1.3&z=2024-07-01&g=2024-07-01), of [7.1.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=7&paragraaf=7.1&artikel=7.1.4&z=2024-07-01&g=2024-07-01), draagt zorg voor een zorgvuldig en veilig gebruik van de verwijsindex.
 
 2. Een instantie of een functionaris wordt vermoed te voldoen aan het bepaalde in het eerste lid als deze voldoet aan de eisen zoals deze zijn uitgegeven door het Nederlands Normalisatie-instituut in de NEN 7510, Medische informatica – Informatiebeveiliging in de zorg – Algemeen.
 
 ##### Artikel 7.2.3
 
-Onze Minister van Volksgezondheid, Welzijn en Sport doet van een wijziging van een norm als bedoeld in [7.2.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=7&paragraaf=7.2&artikel=7.2.1&z=2024-01-01&g=2024-01-01), of [artikel 7.2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=7&paragraaf=7.2&artikel=7.2.2&z=2024-01-01&g=2024-01-01), mededeling in de Staatscourant.
+Onze Minister van Volksgezondheid, Welzijn en Sport doet van een wijziging van een norm als bedoeld in [7.2.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=7&paragraaf=7.2&artikel=7.2.1&z=2024-07-01&g=2024-07-01), of [artikel 7.2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=7&paragraaf=7.2&artikel=7.2.2&z=2024-07-01&g=2024-07-01), mededeling in de Staatscourant.
 
 #### § 7.3. Verwijsindexservicenummer
 
@@ -658,7 +660,7 @@ Onze Minister van Volksgezondheid, Welzijn en Sport doet van een wijziging van e
 
 ##### Artikel 7.4.1.2
 
-Onze Minister van Volksgezondheid, Welzijn en Sport stelt, voor zover mogelijk aan de hand van bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925) gestelde vereisten voor de hoedanigheid van de jeugdhulpaanbieder, vast of de aanvraag, bedoeld in [artikel 7.4.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=7.4.1.1&z=2024-01-01&g=2024-01-01), is gedaan door een jeugdhulpaanbieder.
+Onze Minister van Volksgezondheid, Welzijn en Sport stelt, voor zover mogelijk aan de hand van bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925) gestelde vereisten voor de hoedanigheid van de jeugdhulpaanbieder, vast of de aanvraag, bedoeld in [artikel 7.4.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=7&paragraaf=7.4&sub-paragraaf=7.4.1&artikel=7.4.1.1&z=2024-07-01&g=2024-07-01), is gedaan door een jeugdhulpaanbieder.
 
 ##### Artikel 7.4.1.3
 
@@ -726,7 +728,7 @@ De jeugdhulpaanbieder die is aangesloten op de SBV-Z draagt zorg dat de verbindi
 
 Onze Minister van Volksgezondheid, Welzijn en Sport kan op aanvraag middelen verschaffen waarmee de geautoriseerde toegang kan verkrijgen tot de SBV-Z. De [artikelen 18 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&artikel=18) en [33 van het Besluit gebruik burgerservicenummer in de zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&artikel=33) zijn van overeenkomstige toepassing, met dien verstande dat daarbij onder «geregistreerde» verstaan wordt: geautoriseerde.
 
-#### § 7.5. Beleidsinformatie
+#### § 7.3. Verwijsindexservicenummer
 
 ##### Artikel 7.5.1
 
@@ -778,9 +780,9 @@ Onze Minister van Volksgezondheid, Welzijn en Sport kan op aanvraag middelen ver
 
 ##### Artikel 7.5.4
 
-1. Bij regeling van Onze Ministers wordt voor het structureel verstrekken van de gegevens, genoemd in [artikel 7.5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=7&paragraaf=7.5&artikel=7.5.1&z=2024-01-01&g=2024-01-01), door de instanties genoemd in de [artikelen 7.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=7&paragraaf=7.5&artikel=7.5.2&z=2024-01-01&g=2024-01-01) en [7.5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=7&paragraaf=7.5&artikel=7.5.3&z=2024-01-01&g=2024-01-01), bepaald:
+1. Bij regeling van Onze Ministers wordt voor het structureel verstrekken van de gegevens, genoemd in [artikel 7.5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=7&paragraaf=7.5&artikel=7.5.1&z=2024-07-01&g=2024-07-01), door de instanties genoemd in de [artikelen 7.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=7&paragraaf=7.5&artikel=7.5.2&z=2024-07-01&g=2024-07-01) en [7.5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=7&paragraaf=7.5&artikel=7.5.3&z=2024-07-01&g=2024-07-01), bepaald:
 
-- a. welke gegevens genoemd in [artikel 7.5.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=7&paragraaf=7.5&artikel=7.5.3&z=2024-01-01&g=2024-01-01), worden verstrekt alsmede, voor zover nodig, een nadere omschrijving van deze gegevens;
+- a. welke gegevens genoemd in [artikel 7.5.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=7&paragraaf=7.5&artikel=7.5.3&z=2024-07-01&g=2024-07-01), worden verstrekt alsmede, voor zover nodig, een nadere omschrijving van deze gegevens;
 
 - b. de wijze waarop de gegevens worden verstrekt;
 
@@ -826,7 +828,7 @@ Vervallen
 
 Vervallen
 
-#### § 8.2. Financiële verantwoording
+#### § 7.5. Beleidsinformatie
 
 ##### Artikel 8.2.1
 
@@ -840,9 +842,9 @@ Deze paragraaf wordt verstaan onder «gegevens»: de in [artikel 8.3.2 van de we
 
 ##### Artikel 8.2.3
 
-1. De gegevens, bedoeld in [artikel 8.2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=8&paragraaf=8.2&artikel=8.2.2&z=2024-01-01&g=2024-01-01), worden jaarlijks uiterlijk vijf maanden na het verstrijken van het jaar waarop zij betrekking hebben verstrekt.
+1. De gegevens, bedoeld in [artikel 8.2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=8&paragraaf=8.2&artikel=8.2.2&z=2024-07-01&g=2024-07-01), worden jaarlijks uiterlijk vijf maanden na het verstrijken van het jaar waarop zij betrekking hebben verstrekt.
 
-2. De gegevens, bedoeld in [artikel 8.2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=8&paragraaf=8.2&artikel=8.2.2&z=2024-01-01&g=2024-01-01), worden verstrekt telkens uiterlijk zes maanden na een desbetreffend verzoek van elk van Onze Ministers.
+2. De gegevens, bedoeld in [artikel 8.2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=8&paragraaf=8.2&artikel=8.2.2&z=2024-07-01&g=2024-07-01), worden verstrekt telkens uiterlijk zes maanden na een desbetreffend verzoek van elk van Onze Ministers.
 
 ##### Artikel 8.2.4
 
@@ -1020,7 +1022,7 @@ De meldplicht, bedoeld in [artikel 4.0.1, eerste lid, van de wet](https://wetten
 
 #### Subparagraaf 7.4.2. Toegangsmiddelen SBV-Z
 
-#### § 7.5. Beleidsinformatie
+#### § 7.4. Gebruik burgerservicenummer
 
 ### Hoofdstuk 8. Financiën en verantwoording
 
@@ -1114,7 +1116,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 2. Indien de uitslag van het onderzoek op mogelijk gebruik van gedragsbeïnvloedende middelen duidt, bespreekt de jeugdhulpverantwoordelijke de uitslag met de jeugdige en kan de jeugdige binnen uiterlijk achtenveertig uur na kennisneming van de uitslag verzoeken dat het onderzoek wordt herhaald.
 
-3. Een herhalingsonderzoek als bedoeld in het tweede lid wordt uitgevoerd op de eerder bewaarde urine, bedoeld in [artikel 6.2.10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=6&paragraaf=6.2&artikel=6.2.10&z=2024-01-01&g=2024-01-01). Het eerste lid en artikel 6.2.10, tweede en derde lid, zijn van toepassing.
+3. Een herhalingsonderzoek als bedoeld in het tweede lid wordt uitgevoerd op de eerder bewaarde urine, bedoeld in [artikel 6.2.10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&hoofdstuk=6&paragraaf=6.2&artikel=6.2.10&z=2024-07-01&g=2024-07-01). Het eerste lid en artikel 6.2.10, tweede en derde lid, zijn van toepassing.
 
 4. Indien geen herhalingsonderzoek plaatsvindt, draagt de jeugdhulpaanbieder er zorg voor dat de eerder bewaarde urine wordt vernietigd.
 
@@ -1149,6 +1151,82 @@ Van de klachtencommissie maken in ieder geval deel uit:
 #### § 7.5. Beleidsinformatie
 
 ### Hoofdstuk 8. Financiën en verantwoording
+
+#### § 8.2. Financiële verantwoording
+
+#### § 8.3. Overige bepalingen
+
+### Hoofdstuk 9. Wijziging in andere algemene maatregelen van bestuur
+
+### Hoofdstuk 10. Slotbepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 2.3
+
+1. Bij verordening als bedoeld in [artikel 2.11, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=2.11) wordt aandacht besteed aan de wijze waarop tariefdifferentiatie wordt bevorderd en wordt geregeld dat de prijs voor een dienst ten minste wordt gebaseerd op de volgende kostprijselementen:
+
+- a. kosten van beroepskrachten (cliëntgebonden en niet-cliëntgebonden);
+
+- b. cliëntgebonden kosten anders dan van beroepskrachten;
+
+- c. overheadkosten, en
+
+- d. kosten voor indexering.
+
+2. Bij ministeriële regeling van Onze Ministers kunnen regels worden gesteld over de indexering, bedoeld in het eerste lid, onderdeel d.
+
+3. Een verordening als bedoeld in [artikel 2.11, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=2.11) verplicht het college om bij door hem gecontracteerde of gesubsidieerde aanbieders van preventie, jeugdhulpaanbieders of gecertificeerde instellingen te bedingen dat zij het verlenen van preventie, jeugdhulp, kinderbeschermingsmaatregelen of jeugdreclassering alleen aan derden uitbesteden indien zij die derden daarvoor een reële prijs betalen, die tot stand is gekomen met gebruikmaking van de kostprijselementen, bedoeld in het eerste lid.
+
+4. Het eerste tot en met derde lid gelden voor een subsidie slechts voor zover zij wordt verstrekt voor de daadwerkelijke verlening van preventie, jeugdhulp, kinderbeschermingsmaatregelen of jeugdreclassering aan jeugdigen of hun ouders en met de subsidie wordt beoogd de te subsidiëren diensten volledig te bekostigen.
+
+### Hoofdstuk 3. De certificering
+
+#### § 3.1. De certificerende instelling
+
+#### § 3.2. Het certificaat
+
+### Hoofdstuk 4. Verplichtingen voor jeugdhulpaanbieders, gecertificeerde instellingen en het college
+
+#### § 4.0. Uitzondering op de meldplicht voor jeugdhulpaanbieders
+
+#### § 4.1. De vertrouwenspersoon
+
+#### § 4.2. Uitvoering van kinderbeschermingsmaatregelen en jeugdreclassering door de gecertificeerde instellingen
+
+### Hoofdstuk 5. Professionalisering
+
+#### § 5.1. Geregistreerde professionals
+
+#### § 5.2. Erkenning als kwaliteitsregister jeugd
+
+#### § 5.3. Het bestuur en de organen van de registerstichting
+
+#### § 5.4. Het beroepsregister
+
+#### § 5.5. Overige bepalingen
+
+### Hoofdstuk 6. Gesloten jeugdhulp bij ernstige opgroei- en opvoedingsproblemen
+
+#### § 6.1. Eisen aan gesloten accommodaties
+
+#### § 6.2. Toepassing vrijheidsbeperkende maatregelen
+
+#### § 6.3. Klachtrecht bij vrijheidsbeperkende maatregelen
+
+### Hoofdstuk 7. Verwijsindex en beleidsinformatie
+
+#### § 7.1. Categorieën van instanties en functionarissen
+
+#### § 7.2. Inrichting en beheer van de verwijsindex
+
+#### Subparagraaf 7.4.1. De autorisatielijst
+
+#### Subparagraaf 7.4.2. Toegangsmiddelen SBV-Z
+
+### Hoofdstuk 8. Financiën en verantwoording
+
+#### § 8.1. Ouderbijdrage
 
 #### § 8.2. Financiële verantwoording
 
