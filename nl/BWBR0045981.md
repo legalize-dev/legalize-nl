@@ -4,7 +4,7 @@ identifier: "BWBR0045981"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2024-08-07"
-last_updated: "2022-01-01"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045981"
 soort: "beleidsregel"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-1. De beleidsregel wordt vastgesteld overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045981&bijlage=1&z=2022-01-01&g=2022-01-01) bij deze beleidsregel.
+1. De beleidsregel wordt vastgesteld overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045981&bijlage=1&z=2022-01-01&g=2024-07-01) bij deze beleidsregel.
 
 2. De Autoriteit woningcorporaties, Inspectie Leefomgeving en Transport past op haar werkterrein de beleidsregel toe.
 
