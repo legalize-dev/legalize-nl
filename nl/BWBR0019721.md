@@ -4,7 +4,7 @@ identifier: "BWBR0019721"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-07-01"
-last_updated: "2009-10-31"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019721"
 soort: "ministeriele-regeling"
@@ -50,27 +50,29 @@ functionaris: functionaris van de exploitant van een luchthaven, aangewezen op g
 
 heffingen: heffingen als bedoeld in [titel 8A.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&titeldeel=8A.3);
 
-minister: Minister van Verkeer en Waterstaat;
+minister: Minister van Infrastructuur en Waterstaat;
+
+**vlucht:** verplaatsing van het luchtvaartuig gedurende het tijdsverloop dat het in beweging komt met de bedoeling om op te stijgen, tot het ogenblik dat het weer volledig tot stilstand is gekomen na de landing;
 
 wet: [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555);
 
-winterseizoen: periode van 1 november tot en met 31 maart;
+winterseizoen: periode van de laatste zondag van oktober tot en met de laatste zaterdag van maart;
 
-zomerseizoen: periode van 1 april tot en met 31 oktober.
+zomerseizoen: periode van de laatste zondag van maart tot en met de laatste zaterdag van oktober.
 
 ##### Artikel 2
 
 De functionaris stelt voor elke landing van een luchtvaartuig de geluidsheffing vast:
 
-- a. op basis van de configuratie van het luchtvaartuig, blijkend uit de in overeenstemming met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019721&artikel=3&z=2009-10-31&g=2009-10-31) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0019721&artikel=4&z=2009-10-31&g=2009-10-31) door de eigenaar of houder van het luchtvaarttuig ter beschikking gestelde informatie, dan wel
+- a. op basis van de configuratie van het luchtvaartuig, blijkend uit de in overeenstemming met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019721&artikel=3&z=2024-07-01&g=2024-07-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0019721&artikel=4&z=2024-07-01&g=2024-07-01) door de eigenaar of houder van het luchtvaarttuig ter beschikking gestelde informatie, dan wel
 
 - b. op basis van de maximale geluidsproductie van het desbetreffende vliegtuigtype.
 
 ##### Artikel 3
 
-1. De eigenaar of houder van een luchtvaartuig stelt ter bepaling van de geluidsheffing op basis van de configuratie per luchtvaartuig waarmee hij op een luchthaven landt, een week voor de eerste landing of wijziging van de configuratie, alle gegevens met betrekking tot dat luchtvaartuig en de van toepassing zijnde configuratie, ter beschikking aan de functionaris.
+1. De eigenaar of houder van een luchtvaartuig stelt ter bepaling van de geluidsheffing op basis van de configuratie per luchtvaartuig waarmee hij op een luchthaven landt, uiterlijk één maand voor uitvoering van de vlucht, alle gegevens met betrekking tot dat luchtvaartuig en de van toepassing zijnde configuratie, ter beschikking aan de functionaris.
 
-2. De eigenaar of houder van een luchtvaartuig stelt ter bepaling van de geluidsheffing op basis van de configuratie voor het komende zomer of winterseizoen per luchtvaartuig waarmee hij voornemens is op een luchthaven te landen, uiterlijk 20 maart respectievelijk 20 oktober, alle gegevens met betrekking tot dat luchtvaartuig en de voor het eerstvolgende seizoen van toepassing zijnde configuratie, ter beschikking aan de functionaris.
+2. De eigenaar of houder van een luchtvaartuig stelt ter bepaling van de geluidsheffing op basis van de configuratie voor het komende zomer of winterseizoen per luchtvaartuig waarmee hij voornemens is op een luchthaven te landen, uiterlijk één maand voor uitvoering van de vlucht, alle gegevens met betrekking tot dat luchtvaartuig en de voor het eerstvolgende seizoen van toepassing zijnde configuratie, ter beschikking aan de functionaris.
 
 3. De in het eerste en tweede lid bedoelde gegevens bevatten van het luchtvaartuig in ieder geval:
 
@@ -82,19 +84,21 @@ De functionaris stelt voor elke landing van een luchtvaartuig de geluidsheffing 
 
 - d. het motortype;
 
-- e. de maximale toegelaten startmassa;
+- e. de maximale toegelaten startmassa uitgedrukt in kilogram (kg);
 
-- f. de geluidswaarden.
+- f. de geluidswaarden uitgedrukt in Effective perceived noice in decibels (EPNdB).
 
 4. De eigenaar of houder van een luchtvaartuig toont de juistheid van de benodigde gegevens aan door het verstrekken van fotokopieën van het geluidscertificaat van het luchtvaartuig en indien van toepassing fotokopieën van het geluidstype certificaat, inclusief alle bijlagen van beide certificaten. Indien het niet mogelijk is een geluidscertificaat te verstrekken, of indien niet alle benodigde informatie op het geluidscertificaat is vermeld, dan verstrekt de eigenaar of houder van het luchtvaartuig fotokopieën van de relevante pagina’s van het vlieghandboek.
 
-5. Indien de eigenaar of houder van een luchtvaartuig niet binnen de in het eerste of tweede lid genoemde termijn de in het derde lid bedoelde gegevens ter beschikking heeft gesteld, wordt de geluidsheffing vastgesteld op basis van de maximale geluidsproductie van het desbetreffende vliegtuigtype.
+5. Het geluidscertificaat, bedoeld in het vierde lid, is het afgegeven geluidscertificaat EASA Form 45.
+
+6. Indien de eigenaar of houder van een luchtvaartuig niet binnen de in het eerste of tweede lid genoemde termijn de in het derde lid bedoelde gegevens ter beschikking heeft gesteld, wordt de geluidsheffing vastgesteld op basis van de maximale geluidsproductie van het desbetreffende vliegtuigtype.
 
 ##### Artikel 4
 
 1. De geluidsheffing kan op aanvraag van de eigenaar of houder van een luchtvaartuig ten gevolge van een door de eigenaar of houder van dat luchtvaartuig gewijzigde configuratie opnieuw worden vastgesteld.
 
-2. De aanvraag wordt ingediend bij de functionaris en bevat de in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019721&artikel=3&z=2009-10-31&g=2009-10-31), bedoelde gegevens.
+2. De aanvraag wordt ingediend bij de functionaris en bevat de in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019721&artikel=3&z=2024-07-01&g=2024-07-01), bedoelde gegevens.
 
 ##### Artikel 5
 
@@ -108,71 +112,29 @@ De heffingen worden geheven over een tijdvak van een week.
 
 ##### Artikel 7
 
-De exploitant van een luchthaven draagt uiterlijk drie maanden na afloop van een kalendermaand de in die kalendermaand gefactureerde heffingen af aan de minister.
+De exploitant van een luchthaven draagt uiterlijk een maand na afloop van iedere periode van drie kalendermaanden de in die kalendermaanden gefactureerde heffingen af aan de minister.
 
 ##### Artikel 8
 
-1. Voor de periode van 17 maart 2004 tot de datum van inwerkingtreding van deze regeling verleent de minister op aanvraag restitutie over deze periode als gevolg van het heffen op basis van een geschatte geluidsproductie van het desbetreffende luchtvaartuig.
-
-2. De aanvraag wordt uiterlijk zes weken na inwerkingtreding van deze regeling ingediend bij de minister.
+Vervallen
 
 ##### Artikel 9
 
-1. De formules, bedoeld in [artikel 22 van het Besluit burgerluchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&artikel=22), zijn:
+1. Voor de bepaling van de geluidsproductie met betrekking tot de luchthaven Schiphol en de geluidsproductie met betrekking tot burgerluchthavens van nationale betekenis met luchthavenbesluit, bedoeld in [artikel 22 van het Besluit burgerluchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&artikel=22), wordt gebruikgemaakt van de volgende formule:
 
-- a. voor burgerluchtvaartuigen met een startmassa van meer dan 390 kilogram doch niet meer dan 20 000 kilogram, met uitzondering van burgervliegtuigen met luchtschroefaandrijving met een startgewicht van meer dan 390 kilogram doch niet meer dan 6000 kilogram: 0,20 + 0,04 * M;
+basistarief, bedoeld in [artikel 8a.38, vijfde lid en zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.38), * k.
 
-- b. voor burgerluchtvaartuigen met een startmassa van meer dan 20 000 kilogram, die blijkens een verklaring van het bevoegde gezag van de Staat van registratie van het burgerluchtvaartuig ten minste voldoen aan de in bijlage 16, deel I, van het Verdrag van Chicago (**Trb.** 1973, 109) vastgestelde geluidsnormen: met dien verstande dat het aantal rekeneenheden ten minste op één wordt gesteld;
+2. De factor k, bedoeld in het eerste lid, wordt per geluidsklasse vastgesteld met toepassing van de volgende tabel:
 
-- c. voor burgerluchtvaartuigen met een startmassa van meer dan 20 000 kilogram, andere dan die bedoeld in onderdeel b: k * M2/3, met dien verstande dat het aantal rekeneenheden ten minste op één wordt gesteld.
-
-In de formules stellen voor:
-
-- M:. de maximaal toegelaten startmassa van het burgerluchtvaartuig uitgedrukt in gehele eenheden van 1000 kilogram, waarbij een gedeelte van een eenheid geldt als een gehele eenheid;
-
-- n:. de correctiefactor van geluidcertificatiemeetpunten en meetcondities met toepassing van de in het tweede lid opgenomen tabel;
-
-- Lr:. de som van de geluidsniveaus op de geluidcertificatiemeetpunten;
-
-- k:. de constante, aangegeven per vliegtuigtype en onderscheiden naar klassen van geschatte geluidsniveaus als opgenomen in een overeenkomstig het derde lid vast te stellen tabel.
-
-2. De correctiefactor n wordt vastgesteld met toepassing van de volgende tabel:
-
-|   | A | B | C | D |
-| --- | --- | --- | --- | --- |
-| 4-motorige vliegtuigen | 1,05 | 0,85 | 1,0 | 0,85 |
-| 3-motorige vliegtuigen | 1,25 | 1,0 | 1,0 | 1,0 |
-| 2-motorige vliegtuigen | 1,50 | 1,0 | 1,0 | 1,0 |
-
-Ingedeeld worden:
-
-- a. in kolom A: de luchtvaartuigen als aangegeven in hoofdstuk 2 van Bijlage 16, deel I, van het Verdrag van Chicago;
-
-- b. in kolom B: de luchtvaartuigen als aangegeven in hoofdstuk 3 van Bijlage 16, deel I, van het Verdrag van Chicago;
-
-- c. in kolom C: de ‘stage 2’-luchtvaartuigen als aangegeven in ‘Federal Aviation Regulations, part 36 (Noise Standards: Aircraft Type and Airworthiness Certification)’, met inbegrip van amendment 36-12, in werking getreden op 1 augustus 1981;
-
-- d. in kolom D: de ‘stage 3’-luchtvaartuigen als aangegeven in ‘Federal Aviation Regulations, part 36’ bedoeld in onderdeel c.
-
-3. De constante k, bedoeld in het eerste lid, onderdeel c, wordt per geluidsklasse, als volgt vastgesteld:
-
-| Geluidsklasse | Geluidsniveau | k |
+| Geluidsklasse | Geluidscategorie | k |
 | --- | --- | --- |
-| I | L > Llim + 9dB | 0,95 |
-| II | Llim < L ≤ Llim + 9dB | 0,60 |
-| III | Llim – 9dB < L ≤ Llim | 0,40 |
-| IV | Llim – 18dB < L ≤ Llim – 9dB | 0,25 |
-| V | L ≤ Llim – 18dB | 0,15 |
-
-In de tabel stelt voor:
-
-- L:. de som van de geschatte geluidsniveaus op de geluidcertificatiemeetpunten;
-
-- Llim:. de som van de maximale geluidsniveaus op de geluidcertificatiemeetpunten volgens de formule Llim = 29.88logM + 251.22.
-
-In deze formule stelt voor:
-
-- M:. de maximaal toegelaten startmassa van het burgerluchtvaartuig uitgedrukt in gehele eenheden van 1000 kilogram, waarbij een gedeelte van een eenheid geldt als een gehele eenheid.
+| I | ∆EPNdB > -11 | 1,00 |
+| II | -11 ≥ ∆EPNdB > -15 | 0,60 |
+| III | -15 ≥ ∆EPNdB> -18 | 0,50 |
+| IV | -18 ≥ ∆EPNdB> -21 | 0,45 |
+| V | -21 ≥ ∆EPNdB> -24 | 0,40 |
+| VI | -24 ≥ ∆EPNdB > -27 | 0,35 |
+| VII | ∆EPNdB ≤ -27 | 0,30 |
 
 ##### Artikel 10
 
