@@ -4,7 +4,7 @@ identifier: "BWBR0047082"
 country: "nl"
 rank: "wet"
 publication_date: "2026-03-01"
-last_updated: "2023-01-01"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047082"
 soort: "wet"
@@ -53,7 +53,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 - **dienstaanbieder:** hoofddienstaanbieder of EETS-aanbieder;
 
-- **dienstverleningsovereenkomst:** overeenkomst als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=4&artikel=8&z=2023-01-01&g=2023-01-01);
+- **dienstverleningsovereenkomst:** overeenkomst als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=4&artikel=8&z=2024-07-01&g=2024-07-01);
 
 - **EETS-aanbieder:** EETS-aanbieder als bedoeld in [artikel 1 van de Wet implementatie EETS-richtlijn](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&artikel=1);
 
@@ -77,7 +77,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 - **toegestane maximum massa:** het gewicht van een vrachtwagen vermeerderd met het voor de vrachtwagen toegestane maximum gewicht aan lading;
 
-- **toezichthouder:** degene die is aangewezen op grond van [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=7&artikel=14&z=2023-01-01&g=2023-01-01);
+- **toezichthouder:** degene die is aangewezen op grond van [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=7&artikel=14&z=2024-07-01&g=2024-07-01);
 
 - **Uitvoeringsverordening (EU) 2020/204:** Uitvoerings[verordening (EU) 2020/204](32104R2020) van de Commissie van 28 november 2019 inzake gedetailleerde verplichtingen van aanbieders van de Europese elektronische tolheffingsdienst, de minimuminhoud van de gebiedsverklaring van de Europese elektronische tolheffingsdienst, elektronische interfaces en eisen voor interoperabiliteitsonderdelen, en tot intrekking van Beschikking 2009/750/EG (PbEU 2020, L 43);
 
@@ -85,7 +85,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 - **vrachtwagen:** motorrijtuig als bedoeld in [artikel 1, eerste lid, onder c, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1) of een samenstel van voertuigen bedoeld of gebruikt voor het vervoer over de weg van goederen, waarvan de toegestane maximum massa meer dan 3.500 kilogram is;
 
-- **vrachtwagenheffing:** heffing als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=2&artikel=2&z=2023-01-01&g=2023-01-01);
+- **vrachtwagenheffing:** heffing als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=2&artikel=2&z=2024-07-01&g=2024-07-01);
 
 - **weg:** weg als bedoeld in [artikel 1, eerste lid, onder b, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1);
 
@@ -131,7 +131,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 13. (overtreding)
 
-1. Als overtreding wordt aangemerkt het niet naleven van de [artikelen 4, tweede lid, onder a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=3&artikel=4&z=2023-01-01&g=2023-01-01), of [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=4&artikel=8&z=2023-01-01&g=2023-01-01).
+1. Als overtreding wordt aangemerkt het niet naleven van de [artikelen 4, tweede lid, onder a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=3&artikel=4&z=2024-07-01&g=2024-07-01), of [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=4&artikel=8&z=2024-07-01&g=2024-07-01).
 
 2. Een overtreding als bedoeld in het eerste lid valt onder het begrip niet-betalen van wegentol, bedoeld in [artikel 1 van de Wet implementatie EETS-richtlijn](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&artikel=1).
 
@@ -149,11 +149,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 - 1°. de gegevens, bedoeld in [artikel 32, eerste lid, onder b, Wet implementatie EETS-richtlijn](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&artikel=32);
 
-- 2°. de gegevens over de dienstverleningsovereenkomst en de melding, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=4&artikel=9&z=2023-01-01&g=2023-01-01);
+- 2°. de gegevens over de dienstverleningsovereenkomst en de melding, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=4&artikel=9&z=2024-07-01&g=2024-07-01);
 
-- 3°. de gevallen, bedoeld in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=3&artikel=4&z=2023-01-01&g=2023-01-01);
+- 3°. de gevallen, bedoeld in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=3&artikel=4&z=2024-07-01&g=2024-07-01);
 
-- 4°. de informatie over ontheffingen en vrijstellingen als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=2&artikel=3&z=2023-01-01&g=2023-01-01);
+- 4°. de informatie over ontheffingen en vrijstellingen als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=2&artikel=3&z=2024-07-01&g=2024-07-01);
 
 - b. de vastgelegde gegevens te verwerken.
 
@@ -163,15 +163,15 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 15. (bestuurlijke boete voor een overtreding)
 
-1. Onze Minister kan aan de houder een bestuurlijke boete opleggen voor een overtreding als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=7&artikel=13&z=2023-01-01&g=2023-01-01). Daartoe kan Onze Minister de vastgelegde gegevens, bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=7&artikel=14&z=2023-01-01&g=2023-01-01), verwerken.
+1. Onze Minister kan aan de houder een bestuurlijke boete opleggen voor een overtreding als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=7&artikel=13&z=2024-07-01&g=2024-07-01). Daartoe kan Onze Minister de vastgelegde gegevens, bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=7&artikel=14&z=2024-07-01&g=2024-07-01), verwerken.
 
 2. Het eerste lid is in ieder geval niet van toepassing in een geval als bedoeld in [artikel 28 van de Wet implementatie EETS-richtlijn](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&artikel=28).
 
-3. Voor één feit dat valt onder meerdere omschrijvingen van overtredingen als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=7&artikel=13&z=2023-01-01&g=2023-01-01), kan slechts één bestuurlijke boete worden opgelegd. In dat geval is de ten hoogste op te leggen boete de hoogste boete van de afzonderlijke overtredingen.
+3. Voor één feit dat valt onder meerdere omschrijvingen van overtredingen als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=7&artikel=13&z=2024-07-01&g=2024-07-01), kan slechts één bestuurlijke boete worden opgelegd. In dat geval is de ten hoogste op te leggen boete de hoogste boete van de afzonderlijke overtredingen.
 
 ##### Artikel 16. (hoogte bestuurlijke boete)
 
-1. De op grond van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=7&artikel=15&z=2023-01-01&g=2023-01-01), op te leggen boete bedraagt ten hoogste het bedrag dat is vastgesteld voor de tweede categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
+1. De op grond van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=7&artikel=15&z=2024-07-01&g=2024-07-01), op te leggen boete bedraagt ten hoogste het bedrag dat is vastgesteld voor de tweede categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
 2. De betaling van de bestuurlijke boete geschiedt binnen twee weken nadat de beschikking tot oplegging van de bestuurlijke boete onherroepelijk is geworden.
 
@@ -189,15 +189,15 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 17. (stilhouden en voorlopige maatregelen)
 
-1. Op de eerste vordering van een aangewezen ambtenaar als bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=7&artikel=14&z=2023-01-01&g=2023-01-01), is de bestuurder van een vrachtwagen verplicht die te doen stilhouden.
+1. Op de eerste vordering van een aangewezen ambtenaar als bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=7&artikel=14&z=2024-07-01&g=2024-07-01), is de bestuurder van een vrachtwagen verplicht die te doen stilhouden.
 
-2. Als een vrachtwagen is stilgehouden met toepassing van het eerste lid, kan de bekendmaking van een bestuurlijke boete als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=7&artikel=15&z=2023-01-01&g=2023-01-01) ook plaatsvinden door uitreiking van de beschikking door de aangewezen ambtenaar, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=7&artikel=14&z=2023-01-01&g=2023-01-01), aan de bestuurder als de kentekengegevens van de houder niet zijn te verifiëren. In dat geval geldt dat:
+2. Als een vrachtwagen is stilgehouden met toepassing van het eerste lid, kan de bekendmaking van een bestuurlijke boete als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=7&artikel=15&z=2024-07-01&g=2024-07-01) ook plaatsvinden door uitreiking van de beschikking door de aangewezen ambtenaar, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=7&artikel=14&z=2024-07-01&g=2024-07-01), aan de bestuurder als de kentekengegevens van de houder niet zijn te verifiëren. In dat geval geldt dat:
 
-- a. in afwijking van [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=7&artikel=16&z=2023-01-01&g=2023-01-01), de beschikking onmiddellijk betaald moet worden;
+- a. in afwijking van [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=7&artikel=16&z=2024-07-01&g=2024-07-01), de beschikking onmiddellijk betaald moet worden;
 
-- b. de verhoging van de boete, bedoeld in [artikel 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=7&artikel=16&z=2023-01-01&g=2023-01-01), pas plaatsvindt nadat de bestuurlijke boete binnen twee weken na het onherroepelijk worden daarvan nog niet is betaald.
+- b. de verhoging van de boete, bedoeld in [artikel 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=7&artikel=16&z=2024-07-01&g=2024-07-01), pas plaatsvindt nadat de bestuurlijke boete binnen twee weken na het onherroepelijk worden daarvan nog niet is betaald.
 
-3. De aangewezen ambtenaren, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=7&artikel=14&z=2023-01-01&g=2023-01-01), zijn bevoegd om in het geval, bedoeld in het tweede lid, of in het geval dat de houder geregistreerd staat voor het niet voldoen van een hem eerder opgelegde, onherroepelijke bestuurlijke boete voor een overtreding als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=7&artikel=13&z=2023-01-01&g=2023-01-01), bij wijze van voorlopige maatregel de vrachtwagen naar een door hen aangewezen plaats te doen overbrengen en in bewaring te stellen, dan wel aan de vrachtwagen een mechanisch hulpmiddel te doen aanbrengen, waardoor wordt verhinderd dat de vrachtwagen wordt weggereden. Zij kunnen vorderen dat, voordat de vrachtwagen aan de bestuurder wordt teruggegeven, naast de kosten van overbrenging en bewaring, eveneens het bedrag van de opgelegde bestuurlijke boete zal worden voldaan.
+3. De aangewezen ambtenaren, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=7&artikel=14&z=2024-07-01&g=2024-07-01), zijn bevoegd om in het geval, bedoeld in het tweede lid, of in het geval dat de houder geregistreerd staat voor het niet voldoen van een hem eerder opgelegde, onherroepelijke bestuurlijke boete voor een overtreding als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=7&artikel=13&z=2024-07-01&g=2024-07-01), bij wijze van voorlopige maatregel de vrachtwagen naar een door hen aangewezen plaats te doen overbrengen en in bewaring te stellen, dan wel aan de vrachtwagen een mechanisch hulpmiddel te doen aanbrengen, waardoor wordt verhinderd dat de vrachtwagen wordt weggereden. Zij kunnen vorderen dat, voordat de vrachtwagen aan de bestuurder wordt teruggegeven, naast de kosten van overbrenging en bewaring, eveneens het bedrag van de opgelegde bestuurlijke boete zal worden voldaan.
 
 4. Als twaalf weken na de aanvang van de voorlopige maatregel, bedoeld in het derde lid, de rechthebbende zijn vrachtwagen niet heeft afgehaald, wordt hij geacht zijn recht op de zaak te hebben opgegeven en is Onze Minister bevoegd de vrachtwagen om niet aan een derde in eigendom te doen overdragen, te verkopen of te doen vernietigen.
 
@@ -215,13 +215,13 @@ Onze Minister scheldt de bestuurlijke boete in ieder geval kwijt als degene aan 
 
 ### Hoofdstuk 8. Bezwaar en beroep
 
-##### Artikel 19. (schorsende werking bezwaar en beroep tegen boete ex [art. 15](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=7&artikel=15&z=2023-01-01&g=2023-01-01))
+##### Artikel 19. (schorsende werking bezwaar en beroep tegen boete ex [art. 15](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=7&artikel=15&z=2024-07-01&g=2024-07-01))
 
-Als bezwaar wordt gemaakt of beroep wordt ingesteld tegen de beschikking tot het opleggen van de bestuurlijke boete, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=7&artikel=15&z=2023-01-01&g=2023-01-01), en die beschikking is niet bekendgemaakt met toepassing van [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=7&artikel=17&z=2023-01-01&g=2023-01-01), wordt de werking van die beschikking geschorst totdat die onherroepelijk is.
+Als bezwaar wordt gemaakt of beroep wordt ingesteld tegen de beschikking tot het opleggen van de bestuurlijke boete, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=7&artikel=15&z=2024-07-01&g=2024-07-01), en die beschikking is niet bekendgemaakt met toepassing van [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=7&artikel=17&z=2024-07-01&g=2024-07-01), wordt de werking van die beschikking geschorst totdat die onherroepelijk is.
 
 ##### Artikel 20. (opkomen tegen beschikking die direct is ingevorderd)
 
-Het bezwaar en beroep tegen de beschikking tot het opleggen van een bestuurlijke boete die is bekendgemaakt met toepassing van [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=7&artikel=17&z=2023-01-01&g=2023-01-01), richt zich ook tegen de voorlopige maatregel, bedoeld in artikel 17, derde lid.
+Het bezwaar en beroep tegen de beschikking tot het opleggen van een bestuurlijke boete die is bekendgemaakt met toepassing van [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=7&artikel=17&z=2024-07-01&g=2024-07-01), richt zich ook tegen de voorlopige maatregel, bedoeld in artikel 17, derde lid.
 
 ### Hoofdstuk 9. Gegevensbescherming
 
@@ -288,6 +288,328 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 Deze wet wordt aangehaald als: Wet vrachtwagenheffing.
 
 ## Bijlage. Wegvakken waar de vrachtwagenheffing wordt geheven, behorende bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=2&artikel=2&z=2023-01-01&g=2023-01-01), van de Wet vrachtwagenheffing
+
+| **Categorie** | **Aanduiding** | **Omschrijving (geldt voor beide rijrichtingen, tenzij uitdrukkelijk anders aangegeven)** |
+| --- | --- | --- |
+| Rijksweg | A1 | knooppunt Watergraafsmeer – knooppunt Diemen – knooppunt Muiderberg – knooppunt Eemnes – knooppunt Hoevelaken – Barneveld – knooppunt Beekbergen – knooppunt Azelo |
+|   | A1/A35 | het wegvak tussen knooppunt Azelo en knooppunt Buren is aangegeven als A35 |
+|   | A1 | knooppunt Buren – Duitse grens |
+|   | A2 | knooppunt Amstel – knooppunt Holendrecht – knooppunt Oudenrijn – knooppunt Everdingen – knooppunt Deil – knooppunt Empel – knooppunt Hintham – knooppunt Vught – knooppunt Ekkersweijer – knooppunt Batadorp – knooppunt De Hogt – knooppunt Leenderheide |
+|   | N2 | knooppunt Batadorp – knooppunt Leenderheide |
+|   | A2 | knooppunt Leenderheide – knooppunt Het Vonderen – knooppunt Kerensheide – knooppunt Kruisdonk – aansluiting Maastricht-Centrum Noord-aansluiting Maastricht – Centrum Zuid |
+|   | N2 | aansluiting Maastricht-Centrum Noord – aansluiting Maastricht-Centrum Zuid |
+|   | A2 | aansluiting Maastricht-Centrum Zuid – Belgische grens |
+|   | A4 | knooppunt De Nieuwe Meer – knooppunt Badhoevedorp – knooppunt De Hoek – knooppunt Burgerveen – aansluiting Zoeterwoude-Rijndijk – knooppunt Prins Clausplein – knooppunt Ypenburg – knooppunt Kethelplein – knooppunt Benelux |
+|   | A4/A29 | knooppunt Sabina – knooppunt Zoomland |
+|   | A4/A58 | knooppunt Zoomland – knooppunt Markiezaat |
+|   | A4 | knooppunt Markiezaat – Belgische grens |
+|   | A5 | knooppunt De Hoek – knooppunt Raasdorp – knooppunt Coenplein |
+|   | A6 | knooppunt Muiderberg – knooppunt Almere – knooppunt Emmeloord – knooppunt Joure |
+|   | A7 | Zaandam (vanaf kilometer 4,0) – knooppunt Zaandam – aansluiting Den Oever – knooppunt Zurich – aansluiting IJlst |
+|   | A7 | aansluiting Sneek-Oost – knooppunt Joure |
+|   | A7 | knooppunt Joure – knooppunt Heerenveen – aansluiting Drachten – knooppunt Julianaplein |
+|   | A7 | aansluiting Westerbroek – knooppunt Zuidbroek – Duitse grens |
+|   | A8 | knooppunt Coenplein – knooppunt Zaandam – aansluiting Zaanstad-Noord |
+|   | A9 | knooppunt Diemen – knooppunt Holendrecht – knooppunt Badhoevedorp – knooppunt Raasdorp – knooppunt Rottepolderplein – knooppunt Velsen – knooppunt Beverwijk – knooppunt Kooimeer |
+|   | A10 | knooppunt Coenplein – knooppunt Watergraafsmeer – knooppunt Nieuwe Meer – knooppunt Coenplein |
+|   | N11 | aansluiting Zoeterwoude-Rijndijk – aansluiting A12 Bodegraven |
+|   | A12 | ’s-Gravenhage (vanaf kilometer 3,3) – knooppunt Prins Clausplein – knooppunt Gouwe – knooppunt Bodegraven – knooppunt Oudenrijn – knooppunt Lunetten – knooppunt Maanderbroek – knooppunt Grijsoord |
+|   | A12/A50 | knooppunt Grijsoord – knooppunt Waterberg |
+|   | A12 | knooppunt Waterberg – knooppunt Velperbroek – knooppunt Oud-Dijk – Duitse grens |
+|   | A13 | knooppunt Ypenburg – knooppunt Doenkade – knooppunt Kleinpolderplein tot S113 Rotterdam (spoorovergang) |
+|   | A15 | aansluiting Oostvoorne (vanaf kilometer 25,1) – aansluiting Brielle – knooppunt Benelux – knooppunt Vaanplein – knooppunt Ridderkerk-Noord-knooppunt Ridderkerk-Zuid – aansluiting Papendrecht – knooppunt Gorinchem – knooppunt Deil – knooppunt Valburg – knooppunt Ressen – aansluiting Bemmel (N839) |
+|   | A16 | knooppunt Doenkade – knooppunt Terbregseplein – knooppunt Ridderkerk-Noord – knooppunt Ridderkerk-Zuid – aansluiting N3 – knooppunt Klaverpolder |
+|   | A16/A59 | knooppunt Klaverpolder – knooppunt Zonzeel |
+|   | A16 | knooppunt Zonzeel – knooppunt Princeville |
+|   | A16/A58 | knooppunt Princeville – knooppunt Galder |
+|   | A16 | knooppunt Galder – Belgische grens |
+|   | A17/A59 | knooppunt Klaverpolder – knooppunt Noordhoek |
+|   | A17 | knooppunt Noordhoek – knooppunt De Stok |
+|   | A18 | knooppunt Oud-Dijk – Varsseveld |
+|   | A20 | Aansluiting Westerlee- knooppunt Kethelplein – knooppunt Kleinpolderplein – knooppunt Terbregseplein – knooppunt Gouwe |
+|   | A22 | knooppunt Velsen – knooppunt Beverwijk |
+|   | A27 | knooppunt St.Annabosch – knooppunt Hooipolder – knooppunt Gorinchem – knooppunt Everdingen – knooppunt Lunetten – knooppunt Rijnsweerd – knooppunt Eemnes – knooppunt Almere |
+|   | A28 | Waterlinieweg te Utrecht – knooppunt Rijnsweerd – knooppunt Hoevelaken – knooppunt Hattemerbroek – knooppunt Lankhorst – knooppunt Hoogeveen – knooppunt Assen – knooppunt Julianaplein |
+|   | A29 | knooppunt Vaanplein – knooppunt Hellegatsplein |
+|   | A29/A59 | knooppunt Hellegatsplein – knooppunt Sabina |
+|   | A30 | knooppunt Maanderbroek – aansluiting Barneveld |
+|   | A32 | knooppunt Lankhorst – knooppunt Heerenveen – aansluiting Wirdum |
+|   | A35 | aansluiting Wierden – aansluiting Almelo-West – knooppunt Azelo |
+|   | A35/A1 | knooppunt Azelo – knooppunt Buren |
+|   | A35 | knooppunt Buren – aansluiting Enschede-West – Enschede |
+|   | A37 | knooppunt Hoogeveen – knooppunt Holsloot – Duitse grens |
+|   | A38 | Rotterdamseweg te Ridderkerk – knooppunt Ridderkerk |
+|   | A44 | knooppunt Burgerveen – Wassenaar |
+|   | N44 | Wassenaar – N14 |
+|   | A50 | John F. Kennedylaan te Eindhoven (tot Tempellaan) – aansluiting Ekkersrijt |
+|   | A50 | knooppunt Ekkersweijer – aansluiting Ekkersrijt – knooppunt Paalgraven – knooppunt Bankhoef – knooppunt Ewijk – knooppunt Valburg – knooppunt Grijsoord |
+|   | A50/A12 | het wegvak van knooppunt Grijsoord tot knooppunt Waterberg is aangegeven als A12 |
+|   | A50 | knooppunt Waterberg – knooppunt Beekbergen – knooppunt Hattemerbroek |
+|   | N50 | knooppunt Hattemerbroek – aansluiting Ens |
+|   | N50/A838 | Aansluiting Ens – knooppunt Emmeloord |
+|   | A58 | knooppunt Batadorp – knooppunt De Baars – knooppunt St.Annabosch – knooppunt Galder |
+|   | A58/A16 | het wegvak tussen knooppunt Galder en knooppunt Princeville is aangegeven als A16 |
+|   | A58 | knooppunt Princeville – knooppunt de Stok – knooppunt Zoomland |
+|   | A58/A4 | het wegvak tussen knooppunt Zoomland en knooppunt Markiezaat is aangegeven als A4 |
+|   | A58 | knooppunt Markiezaat – Vlissingen (tot kilometer 171,3) |
+|   | A59/A29 | het wegvak tussen knooppunt Hellegatsplein en knooppunt Sabina is aangegeven als A29 |
+|   | A59 | knooppunt Sabina – knooppunt Noordhoek |
+|   | A59/A16 | Het wegvak tussen knooppunt Klaverpolder en knooppunt Zonzeel is aangegeven als A16 |
+|   | A59/A17 | Het wegvak tussen knooppunt Noordhoek en knooppunt Klaverpolder is aangegeven als A17 |
+|   | A59 | knooppunt Zonzeel – knooppunt Hooipolder – knooppunt Empel |
+|   | A59/A2 | het wegvak tussen knooppunt Empel en knooppunt Hintham is aangegeven als A2 |
+|   | A59 | knooppunt Hintham – knooppunt Paalgraven |
+|   | A65 | knooppunt Vught – Vught |
+|   | N65 | Knooppunt Vught – aansluiting Berkel-Enschot |
+|   | A65 | aansluiting Berkel-Enschot – knooppunt De Baars |
+|   | A67 | Belgische grens – knooppunt De Hogt |
+|   | A67/A2 | het wegvak tussen knooppunt De Hogt en knooppunt Leenderheide dat is aangegeven als A2 |
+|   | A67 | knooppunt Leenderheide – knooppunt Zaarderheiken – Duitse grens |
+|   | A73 | knooppunt Het Vonderen – knooppunt Tiglia – knooppunt Zaarderheiken – knooppunt Rijkevoort – knooppunt Neerbosch – knooppunt Ewijk |
+|   | A73 | knooppunt Neerbosch – Nijmegen (tot kilometer 108,6) |
+|   | A74 | Duitse grens- knooppunt Tiglia |
+|   | A76 | Belgische grens – knooppunt Kerensheide – knooppunt Kunderberg – Duitse grens |
+|   | A77 | knooppunt Rijkevoort – Duitse grens |
+|   | A79 | knooppunt Kruisdonk – knooppunt Kunderberg |
+|   | A200 | aansluiting Halfweg – knooppunt Rottepolderplein – aansluiting Haarlem-Centrum (tot kilometer 11,8) |
+|   | A205 | aansluiting Haarlem – knooppunt Rottepolderplein |
+|   | A208 | aansluiting Velserbroek (vanaf kilometer 7,3) – knooppunt IJmuiden |
+|   | A838 | Het wegvak van aansluiting Ens – knooppunt Emmeloord is aangegeven als N50 |
+|   |   |   |
+|   | A256 | Goes – knooppunt De Poel |
+| Provinciale weg | A325 | Arnhem Nijmeegseplein – knooppunt Ressen |
+|   | A326 | Knooppunt Bankhoef – Palkerplein te Wijchen |
+|   | A348 | Knooppunten Velperbroek – Ellecom |
+|   | N201 | N212 – A2 aansluiting Vinkeveen |
+|   | N201 | A2 aansluiting Vinkeveen – A27 aansluiting Hilversum |
+|   | N207 | A4 aansluiting Burgerveen – A12 aansluiting Gouda (via N452 en N451) |
+|   | N209 | N11 aansluiting Hazerswoude – A12 aansluiting Bleiswijk |
+|   | N209 | A12 aansluiting Bleiswijk – A13 aansluiting Berkel en Rodenrijs |
+|   | N212 | N201 – A12 aansluiting Harmelen (via N198 en N419) |
+|   | N214 | A15 aansluiting Papendrecht – A27 aansluiting Noordeloos |
+|   | N221 | N237 Stichtse Rotonde – A28 aansluiting Maarn |
+|   | N225 | A50 aansluiting Renkum – N781 Diedenweg te Wageningen |
+|   | N230 | A2 aansluiting Maarsen – A27 aansluiting Maarssen |
+|   | N235 | Verzetslaan te Purmerend – N247 Het Schouw |
+|   | N237 | de Berekuil, Waterlinieweg Utrecht – Stichtse Rotonde (N221) |
+|   | N244 | N243 knooppunt Hoorn – N246 |
+|   | N246 | A8 aansluiting Zaanstad-Noord (Coentunnelweg) – N244 Westgraftdijk |
+|   | N247 | N235 Het Schouw – A10 aansluiting Volendam |
+|   | N260 | A58 aansluiting Gilze – N282 |
+|   | N263 | A16 aansluiting Breda – Belgische Grens |
+|   | N268 | A4 aansluiting Dinteloord – A17 aansluiting Roosendaal-Noord |
+|   | N278 | Belgische Grens – Tongerseweg, Prins Bisschopssingel, J.F. Kennedybrug, J.F. Kennedysingel – A2 aansluiting Maastricht – Zuid |
+|   | N279 | A50 aansluiting Veghel – A67 aansluiting Asten |
+|   | N280 | A2 aansluiting Kelpen-Oler – A73 aansluiting Roermond |
+|   | N280 | A73 aansluiting Roermond – Duitse Grens |
+|   | N281 | A76 aansluiting Voerendaal – A76 aansluiting Simpelveld |
+|   | N282 | A27 aansluiting Breda-Noord – N260 |
+|   | N285 | A59 aansluiting Terheijden – A17 aansluiting Zevenbergen |
+|   | N321 | A73 aansluiting Cuijk – N324 Grave |
+|   | N322 | N323 – A50 knooppunt Ewijk |
+|   | N323 | A15 aansluiting Echteld – N322 |
+|   | N324 | A59 aansluiting Oss-Oost – N321 Grave |
+|   | N325 | A12 Knooppunt Velperbroek – A325 Nijmeegseplein Arnhem |
+|   | N401 | A2 aansluiting Breukelen – N212 |
+|   | N470 | A4 aansluiting Delft – A13 aansluiting Delft Zuid |
+|   | N640 | A58 aansluiting Etten-Leur-West (A58) – A17 aansluiting Oudenbosch (via N641) |
+|   | N641 | A17 aansluiting Oudenbosch – N268 Oud Gastel |
+|   | N781 | A12 aansluiting Wageningen – N225 Ritsma Bosweg te Wageningen |
+|   |   |   |
+| Gemeentelijke weg | **Rotterdam** |   |
+|   | Parallelroute A15 Rotterdam (I) | Route in beide rijrichtingen van Aansluiting A15 Havens 5700–6200, Rijnweg tot Moezelweg, Moezelweg van Rijnweg tot Saarweg, Saarweg, Rotonde Saarweg, Calandbrug, Merseyweg, Droespolderweg, Botlekweg van Droespolderweg tot Oude Maasweg, Clydeweg tussen Botlekweg en Botlekweg, Oude Maasweg tussen Botlekweg en Oude Maaspad, Oude Maaspad, Plaatweg tot aansluiting (toerit) A15 Botlekbrug |
+|   | Parallelroute A15 Rotterdam (II) | Route in beide rijrichtingen van aansluiting (toerit) A15 Botlekbrug, Vondelingenweg van kilometer 3.0 (aansluiting 3225–4000) tot Groene Kruisweg |
+|   | Parallelroute A15 Rotterdam (III) | Vondelingenweg tussen kilometer 4,8 en A15 Li 48,9c Vondelingenweg tussen kilometer 4,8 en A15 Re 48,85b |
+|   |   |   |
+|   | **Maastricht** |   |
+|   | Belgische Grens – Aansluiting A2 Maastricht Noord | Route in beide rijrichtingen van de Belgische grens via de Via Regia tot Nobellaan, Nobellaan, Fagotstraat, Frans van de Laarplein, Fort Willemweg, Noorderbrug, Viaductweg tot A2 aansluiting Maastricht – Noord |
+|   | Belgische grens – Noorderbrug | Route in beide rijrichtingen van de Belgische grens via Brusselseweg tot Belvédèrelaan, Belvédèrelaan tot Noorderbrug |
+|   |   |   |
+|   | **’s-Hertogenbosch** |   |
+|   | ’s-Hertogenbosch, Vlijmenseweg – Randweg | A59 aansluiting ’s-Hertogenbosch-West – A65 aansluiting Vught-Centrum |
+|   |   |   |
+|   | **Utrecht** |   |
+|   | Utrecht, Waterlinieweg | Rotonde N237 de Berekuil – A12 aansluiting Houten |
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 7. (betaling zonder beschikking)
+
+Het bedrag van de vrachtwagenheffing wordt betaald zonder dat dit bij beschikking wordt vastgesteld.
+
+##### Artikel 8. (dienstverleningsovereenkomst tussen dienstaanbieder en houder)
+
+1. Dit lid is nog niet in werking getreden.
+
+2. De houder ontvangt een factuur van de dienstaanbieder voor het berekende bedrag van de vrachtwagenheffing, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=3&artikel=6&z=2024-07-01&g=2024-07-01), over een tussen hen overeen te komen termijn en betaalt het bedrag aan de dienstaanbieder. Onverminderd [artikel 20, eerste lid, van de Wet implementatie EETS-richtlijn](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&artikel=20) geldt de betaling van het bedrag van de vrachtwagenheffing door de houder aan de hoofddienstaanbieder als voldoening van de betalingsverplichting van de houder aan Onze Minister.
+
+3. Voor het sluiten van de dienstverleningsovereenkomst worden de bij algemene maatregel van bestuur te bepalen voertuigdocumenten die nodig zijn om het kenteken van de vrachtwagen, de toegestane maximum massa en de euro-emissieklasse vast te stellen, door de houder aan de dienstaanbieder overgelegd om te bepalen welk tarief, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=3&artikel=5&z=2024-07-01&g=2024-07-01), van toepassing is. Als de houder geen voertuigdocumenten kan overleggen, wordt het voertuig geacht een toegestane maximum massa van meer dan 32.000 kg te hebben en wordt het hoogste tarief voor de euro-emissieklasse van het voertuig, bedoeld in artikel 5, eerste lid, gehanteerd. Correctie van de gegevens heeft geen terugwerkende kracht.
+
+4. Om de inning van de vrachtwagenheffing te verzekeren, kan de dienstaanbieder in de dienstverleningsovereenkomst de houder van de vrachtwagen de verplichting opleggen zekerheid te stellen voor de betaling.
+
+5. In de dienstverleningsovereenkomst wordt met het oog op de vrachtwagenheffing in ieder geval het volgende geregeld:
+
+- a. het door de dienstaanbieder verstrekken van boordapparatuur aan de houder en het onderhouden van de functionaliteit daarvan;
+
+- b. het door de dienstaanbieder verzenden van een factuur aan de houder met daarin in ieder geval gespecificeerd het totaalbedrag van de vrachtwagenheffing en het aantal per dag geregistreerde kilometers;
+
+- c. het in ieder geval door middel van girale betaling door de houder kunnen betalen van het bedrag van de vrachtwagenheffing aan de dienstaanbieder;
+
+- d. het beheren door de dienstaanbieder van de klantenrelatie met de houder met inbegrip van een procedure voor klachtenafhandeling;
+
+- e. het uitvoeren en naleven van het beveiligings- en privacybeleid voor het heffingssysteem voor de vrachtwagens;
+
+- f. het verstrekken van een kwitantie door de dienstaanbieder aan de houder nadat het bedrag van de vrachtwagenheffing door de dienstaanbieder is ontvangen; en
+
+- g. een beschrijving van de verplichtingen van de houder, bedoeld in [artikel 4, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=3&artikel=4&z=2024-07-01&g=2024-07-01), in verband met het functioneren van de boordapparatuur.
+
+6. Artikel 2, zesde lid, van Uitvoerings[verordening (EU) 2020/204](32104R2020) is van overeenkomstige toepassing bij het factureren, bedoeld in het vijfde lid, onder b, van de houder door de hoofddienstaanbieder.
+
+##### Artikel 9. (relatie Onze Minister en dienstaanbieder)
+
+1. Als een dienstverleningsovereenkomst is gesloten, opgeschort, of beëindigd, en als de houder een melding heeft gedaan als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=3&artikel=4&z=2024-07-01&g=2024-07-01), geeft de dienstaanbieder dat onmiddellijk door aan Onze Minister. Artikel 2, vierde lid, van Uitvoerings[verordening (EU) 2020/204](32104R2020) is van overeenkomstige toepassing op de gegevensverstrekking door de hoofddienstaanbieder aan de tolheffer.
+
+2. Dit lid is nog niet in werking getreden.
+
+3. Dit lid is nog niet in werking getreden.
+
+4. Onze Minister is bevoegd om de gegevens, bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=7&artikel=14&z=2024-07-01&g=2024-07-01), die met behulp van een technisch hulpmiddel zijn vastgelegd, te verwerken ten behoeve van de verificatie, bedoeld in [artikel 32, eerste lid, onder b, Wet implementatie EETS-richtlijn](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&artikel=32) en de controle, bedoeld in [artikel 12, eerste lid, Wet implementatie EETS-richtlijn](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&artikel=12).
+
+5. Verwerking voor het doel, bedoeld in het vierde lid, kan plaatsvinden door de vastgelegde gegevens door middel van een technisch systeem geautomatiseerd te vergelijken met andere gegevens die voor dit doel zijn verkregen.
+
+##### Artikel 10. (invordering via privaatrecht)
+
+Dit onderdeel is nog niet inwerking getreden
+
+### Hoofdstuk 5. Hoofddienstaanbieder
+
+##### Artikel 11. (verplichtingen hoofddienstaanbieder)
+
+1. De hoofddienstaanbieder, bedoeld in [artikel 1 van de Wet implementatie EETS-richtlijn](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&artikel=1), is verplicht met elke houder die daarom verzoekt, een dienstverleningsovereenkomst te sluiten.
+
+2. De [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&artikel=12), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&artikel=32) en [33 van de Wet implementatie EETS-richtlijn](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&artikel=33) zijn van overeenkomstige toepassing op de hoofddienstaanbieder.
+
+### Hoofdstuk 6. Terugsluis
+
+##### Artikel 12. (meerjarenprogramma)
+
+1. Onze Minister stelt na overleg met de vervoerssector telkens voor een termijn van ten hoogste vijf jaar een meerjarenprogramma voor innovatie en verduurzaming van de vervoerssector vast.
+
+2. De uitvoering van het meerjarenprogramma wordt gefinancierd uit de netto-opbrengsten van de vrachtwagenheffing.
+
+3. In het programma wordt zo gedetailleerd als redelijkerwijs mogelijk is, de verdeling van de middelen ter bevordering van innovatie en verduurzaming van de vervoerssector aangegeven over afzonderlijke projecten, projectpakketten of beleidsterreinen.
+
+4. Het meerjarenprogramma maakt zichtbaar in welke mate de maatregelen efficiënt en effectief bijdragen aan innovatie en verduurzaming van de vervoerssector.
+
+5. Voor afloop van het meerjarenprogramma wordt de werking van het programma geëvalueerd met het oog op de doeltreffendheid en doelmatigheid.
+
+6. Het meerjarenprogramma wordt via elektronische weg bekendgemaakt. Van de bekendmaking wordt mededeling gedaan in de Staatscourant.
+
+7. Onze Minister kan in afwijking van het eerste lid na overleg met de vervoerssector afzien van het vaststellen van een volgend meerjarenprogramma als de evaluatie, bedoeld in het vijfde lid, daartoe aanleiding geeft.
+
+### Hoofdstuk 7. Handhaving
+
+### Hoofdstuk 8. Bezwaar en beroep
+
+### Hoofdstuk 9. Gegevensbescherming
+
+##### Artikel 21. (bescherming persoonsgegevens, gebruikt door Onze Minister)
+
+1. Onze Minister is verwerkingsverantwoordelijke voor de verwerking van de bij algemene maatregel van bestuur aan te wijzen persoonsgegevens en de vastgelegde gegevens, bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=7&artikel=14&z=2024-07-01&g=2024-07-01), die verwerkt worden voor:
+
+- a. de heffing en invordering van de vrachtwagenheffing;
+
+- b. de handhaving van het bepaalde bij of krachtens deze wet.
+
+2. Onze Minister bewaart de persoonsgegevens:
+
+- a. bedoeld in het eerste lid, aanhef en onder a:
+
+- 1°. totdat de termijn, bedoeld in [artikel 3:307, eerste lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=307) is verstreken;
+
+- 2°. niet langer dan zeven werkdagen, voor zover uit de vergelijking van de vastgelegde gegevens met de informatie, bedoeld in het vijfde lid, blijkt dat de heffing op de juiste wijze is berekend door de dienstaanbieder;
+
+- b. bedoeld in het eerste lid, aanhef en onder b:
+
+- 1°. gedurende de termijn, bedoeld in [artikel 5:45 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:45), waarbinnen een bestuurlijke boete kan worden opgelegd;
+
+- 2°. totdat, voor zover van toepassing, een onherroepelijke bestuurlijke boete is betaald; of
+
+- 3°. totdat de termijn van [artikel 4:104 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:104) is verstreken.
+
+3. Als de bestuurlijke boete op grond van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=7&artikel=18&z=2024-07-01&g=2024-07-01) wordt kwijtgescholden, worden de persoonsgegevens in afwijking van het tweede lid, onder b, onmiddellijk verwijderd.
+
+4. De persoonsgegevens, bedoeld in het eerste lid, worden door Onze Minister beschikbaar gesteld voor opname in het register, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=9&artikel=24&z=2024-07-01&g=2024-07-01).
+
+5. De informatie, bedoeld in [artikel 32, eerste lid, onder b, van de Wet implementatie EETS-richtlijn](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&artikel=32) die door de dienstaanbieder wordt verstrekt, wordt door Onze Minister niet langer dan zeven werkdagen bewaard.
+
+6. Dit artikel laat overige wettelijk voorgeschreven bewaartermijnen onverlet.
+
+##### Artikel 22. (bescherming persoonsgegevens, gebruikt door de toezichthouder)
+
+1. De toezichthouder is verwerkingsverantwoordelijke voor de verwerking van de bij algemene maatregel van bestuur aan te wijzen persoonsgegevens en de vastgelegde gegevens, bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=7&artikel=14&z=2024-07-01&g=2024-07-01), die verwerkt worden voor:
+
+- a. het toezicht op de naleving van het bepaalde bij of krachtens deze wet voor zover het de verwerking door of ten behoeve van de toezichthouder betreft;
+
+- b. het uitreiken van een bestuurlijke boete in een geval als bedoeld in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=7&artikel=17&z=2024-07-01&g=2024-07-01);
+
+- c. het informeren van houders van wie geen dienstverleningsovereenkomst is geregistreerd.
+
+2. De toezichthouder bewaart de persoonsgegevens:
+
+- a. bedoeld in het eerste lid, onder a, totdat, voor zover van toepassing, een onherroepelijke bestuurlijke boete is betaald of voor zover het de vastgelegde gegevens in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=7&artikel=14&z=2024-07-01&g=2024-07-01), betreft, niet langer dan zeven werkdagen;
+
+- b. bedoeld in het eerste lid, onder b, gedurende een termijn, bedoeld in [artikel 5:45 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:45), waarbinnen een bestuurlijke boete kan worden opgelegd;
+
+- c. bedoeld in het eerste lid, onder c, gedurende een termijn van maximaal vier weken voor het informeren van de houder van wie geen dienstverleningsovereenkomst is geregistreerd.
+
+3. De persoonsgegevens, bedoeld in het eerste lid, worden door de toezichthouder beschikbaar gesteld voor opname in het register, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=9&artikel=24&z=2024-07-01&g=2024-07-01).
+
+4. Dit artikel laat overige wettelijk voorgeschreven bewaartermijnen onverlet.
+
+##### Artikel 23. (bescherming persoonsgegevens, gebruikt door de dienstaanbieder)
+
+1. Een dienstaanbieder is de verwerkingsverantwoordelijke voor de verwerking van persoonsgegevens voor:
+
+- a. het doorgeven van de gegevens, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=4&artikel=9&z=2024-07-01&g=2024-07-01);
+
+- b. de verlening van diensten als bedoeld in [artikel 8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=4&artikel=8&z=2024-07-01&g=2024-07-01);
+
+- c. de verificatie van de informatie, bedoeld in [artikel 21, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=9&artikel=21&z=2024-07-01&g=2024-07-01).
+
+2. De dienstaanbieder bewaart de persoonsgegevens niet langer dan nodig is voor het verrichten van de diensten, bedoeld in het eerste lid, onder a, b en c.
+
+3. Het is de dienstaanbieder verboden de door hem verwerkte persoonsgegevens voor de vrachtwagenheffing te verstrekken aan een derde, tenzij de houder daarvoor toestemming heeft gegeven.
+
+4. Dit artikel laat overige wettelijk voorgeschreven bewaartermijnen onverlet.
+
+##### Artikel 24. (register)
+
+1. Er is een register voor de vrachtwagenheffing waarin de gegevens worden verwerkt die nodig zijn voor een goede uitvoering van de vrachtwagenheffing.
+
+2. Onze Minister wijst bij besluit de beheerder van het register aan. De beheerder is verwerkingsverantwoordelijke voor het register.
+
+3. De persoonsgegevens uit het register worden uitsluitend gebruikt voor:
+
+- a. de goede uitvoering van het bepaalde bij of krachtens deze wet;
+
+- b. het beschikbaar stellen van gegevens uit het register vrachtwagenheffing aan Onze Minister en de toezichthouder die nodig zijn voor een goede uitoefening van hun taak in het kader van het bepaalde bij of krachtens deze wet.
+
+4. De beheerder bewaart de persoonsgegevens:
+
+- a. gedurende ten hoogste de termijnen, bedoeld in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=9&artikel=21&z=2024-07-01&g=2024-07-01);
+
+- b. gedurende ten hoogste de termijnen, bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=9&artikel=22&z=2024-07-01&g=2024-07-01);
+
+- c. als de respectievelijke bewaartermijnen, bedoeld in onderdeel a of b, van elkaar verschillen en op dezelfde gegevens van toepassing zijn, gedurende de langste termijn.
+
+5. Bij ministeriële regeling kunnen regels worden gesteld over de inrichting en het beheer van het register en de wijze van verstrekking van de in het register te verwerken gegevens.
+
+### Hoofdstuk 10. Wijziging andere wetten
+
+### Hoofdstuk 11. Slotbepalingen
+
+## Bijlage. Wegvakken waar de vrachtwagenheffing wordt geheven, behorende bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&hoofdstuk=2&artikel=2&z=2024-07-01&g=2024-07-01), van de Wet vrachtwagenheffing
 
 | **Categorie** | **Aanduiding** | **Omschrijving (geldt voor beide rijrichtingen, tenzij uitdrukkelijk anders aangegeven)** |
 | --- | --- | --- |
