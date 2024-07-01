@@ -1,0 +1,60 @@
+---
+title: "Besluit wijziging subsidieplafonds categorieën I en III ex Deelregeling meerjarige productiesubsidies Fonds Podiumkunsten 2025–2028 (verdeling flexibele budget en volledige honorering van enkele dossiers)"
+identifier: "BWBR0050063"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-07-01"
+last_updated: "2024-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050063"
+soort: "zbo"
+stam_id: "17189373"
+version_id: "30260942"
+internal_id: "C43340071"
+label_id: "17097234"
+dtd_version: "2.0"
+original_entry_into_force: "2024-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050063/2024-07-01/0"
+intitule_bron: "Stcrt.2024-24865"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-06-24"
+intitule_published: "2024-07-24"
+intitule_in_force: "2024-07-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-24865"
+original_signed_date: "2024-06-24"
+original_published_date: "2024-07-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-24865"
+entry_into_force_date: "2024-07-01"
+jci_1_3: "jci1.3:c:BWBR0050063&z=2024-07-01&g=2024-07-01"
+jci_1_0: "1.0:c:BWBR0050063&g=2024-07-01"
+citeertitel_status: "redactioneel"
+signed_date: "2024-06-24"
+entry_into_force: "2024-07-01"
+---
+# Besluit wijziging subsidieplafonds categorieën I en III ex Deelregeling meerjarige productiesubsidies Fonds Podiumkunsten 2025–2028 (verdeling flexibele budget en volledige honorering van enkele dossiers)
+
+Op basis van [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0048742&artikel=1.4), [artikel 2.4 zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048742&artikel=2.4) en [artikel 2.5 en van de Deelregeling Meerjarige Productiesubsidies Fonds Podiumkunsten 2025–2028](https://wetten.overheid.nl/jci1.3:c:BWBR0048742&artikel=2.5);
+
+Besluit:
+
+Besluit ook gepubliceerd in Stcrt. 2024/23749.
+
+De datum van inwerkingtreding ligt voor de datum van uitgifte.
+
+##### Artikel 1. subsidieplafonds
+
+Voor de periode 2025–2028 zijn per kalenderjaar de volgende bedragen beschikbaar voor het verstrekken van subsidies:
+
+Categorie I: € 8.900.000
+
+Categorie II: € 18.750.000
+
+Categorie III: € 10.459.912
+
+##### Artikel 2. inwerktreding
+
+Dit besluit wordt bekendgemaakt via de website van het Fonds Podiumkunsten en de Staatscourant en treedt in werking met ingang van 1 juli 2024.
+
+Aldus vastgesteld in de vergadering van het bestuur van het Fonds Podiumkunsten,
