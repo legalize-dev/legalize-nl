@@ -4,7 +4,7 @@ identifier: "BWBR0048064"
 country: "nl"
 rank: "wet"
 publication_date: "2025-09-05"
-last_updated: "2023-09-01"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048064"
 soort: "wet"
@@ -49,7 +49,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- –. **Autoriteit:** de autoriteit, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048064&paragraaf=2&artikel=2&z=2023-09-01&g=2023-09-01);
+- –. **Autoriteit:** de autoriteit, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048064&paragraaf=2&artikel=2&z=2024-07-01&g=2024-07-01);
 
 - –. **terroristische inhoud:** een of meer van de soorten materiaal als bedoeld in artikel 2, zevende lid, van de verordening;
 
@@ -73,7 +73,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. De leden van de Autoriteit en de bij besluit van de Autoriteit aangewezen ambtenaren zijn belast met het toezicht op de naleving van de artikelen 3, derde en zesde lid, artikel 4, tweede en zevende lid, artikel 5, eerste, tweede, derde, vijfde en zesde lid, artikelen 6, 7, 10 en 11, artikel 14, vijfde lid, artikel 15, eerste lid en artikel 17 van de verordening.
 
-5. De Autoriteit heeft tevens tot taak het nemen van beslissingen als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0048064&paragraaf=4&artikel=16&z=2023-09-01&g=2023-09-01).
+5. De Autoriteit heeft tevens tot taak het nemen van beslissingen als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0048064&paragraaf=4&artikel=16&z=2024-07-01&g=2024-07-01).
 
 ##### Artikel 3. Inrichting
 
@@ -167,7 +167,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 14. Informatie over klachtprocedure
 
-Een aanbieder van hostingdiensten als bedoeld in artikel 2, eerste lid, van de verordening, die zijn hoofdvestiging in Nederland heeft of waarvan zijn wettelijke vertegenwoordiger zijn verblijf- of vestigingsplaats in Nederland heeft, wijst aanbieders van inhoud die verwijderd is of waartoe de toegang geblokkeerd is ten gevolge van specifieke maatregelen op grond van artikel 5 van de verordening, steeds op de mogelijkheid om een klacht in te dienen als bedoeld in artikel 10 van de verordening, en op de mogelijkheid van geschillenbeslechting door de Autoriteit, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0048064&paragraaf=4&artikel=16&z=2023-09-01&g=2023-09-01).
+Een aanbieder van hostingdiensten als bedoeld in artikel 2, eerste lid, van de verordening, die zijn hoofdvestiging in Nederland heeft of waarvan zijn wettelijke vertegenwoordiger zijn verblijf- of vestigingsplaats in Nederland heeft, wijst aanbieders van inhoud die verwijderd is of waartoe de toegang geblokkeerd is ten gevolge van specifieke maatregelen op grond van artikel 5 van de verordening, steeds op de mogelijkheid om een klacht in te dienen als bedoeld in artikel 10 van de verordening, en op de mogelijkheid van geschillenbeslechting door de Autoriteit, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0048064&paragraaf=4&artikel=16&z=2024-07-01&g=2024-07-01).
 
 ##### Artikel 15. Berichtgeving over klachten
 
@@ -191,7 +191,7 @@ Wijzigt de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.
 
 ##### Artikel 19. Samenloopbepaling Wet bestuursrechtelijke aanpak van online kinderpornografisch materiaal
 
-Wijzigt deze wet en het Wetboek van Strafrecht.
+Vervallen
 
 ##### Artikel 20. Samenloopbepaling Wet modernisering elektronisch bestuurlijk verkeer
 
