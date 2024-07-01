@@ -4,7 +4,7 @@ identifier: "BWBR0040205"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2024-01-01"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040205"
 soort: "AMvB"
@@ -94,7 +94,25 @@ Met betrekking tot het registratieobject grondwatermonitoringput binnen de categ
 
 ##### Artikel 2.5.1
 
-Dit onderdeel is nog niet inwerking getreden
+Met betrekking tot het registratieobject mijnbouwwetvergunning binnen de categorie gebruiksrechten wordt als brondocument aangewezen:
+
+- a. een beschikking conform de [Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168) en de daarop berustende bepalingen tot verlening, wijziging of intrekking van:
+
+- 1°. een opsporingsvergunning,
+
+- 2°. een winningsvergunning,
+
+- 3°. een vergunning voor het opsporen van aardwarmte,
+
+- 4°. een vergunning voor het winnen van aardwarmte,
+
+- 5°. een opslagvergunning, of
+
+- 6°. een vergunning voor het opsporen van CO2-opslagcomplexen, en
+
+- b. een mededeling in de Staatscourant van het vervallen van een onder a genoemde vergunning;
+
+- c. een beschikking als bedoeld in [artikel 146 van het Mijnbouwbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=146) voor een vergunning voor het winnen van kalksteen.
 
 #### § 2. Bodemkwaliteit
 
@@ -118,7 +136,21 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 3.2
 
-Dit onderdeel is nog niet inwerking getreden
+1. Naast de gegevens, bedoeld in [artikel 20, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&artikel=20), bevat de registratie ondergrond over een gebruiksrecht:
+
+- a. de bronhouder van het registratieobject,
+
+- b. voor zover van toepassing, een aanduiding dat de gegevens deel hebben uitgemaakt van de Registratie Data en Informatie Nederlandse Ondergrond of het Bodemkundig Informatie Systeem en als brondocument zijn aangeleverd op grond van [artikel 39, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&artikel=39), en
+
+- c. over het registratieobject mijnbouwwetvergunning:
+
+- 1°. een aanduiding of de beschikking onherroepelijk is,
+
+- 2°. voor zover van toepassing, de datum vanaf wanneer gegevens en monsters als bedoeld in [artikel 116 van het Mijnbouwbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=116) openbaar zijn,
+
+- 3°. voor zover van toepassing, een verwijzing naar een winningsplan als bedoeld in [artikel 34 van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=34) of een opslagplan als bedoeld in [artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=39), in samenhang met [artikel 34 van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=34), het kenmerk van het bijbehorende besluit omtrent instemming met het desbetreffende plan en de datum waarop het besluit omtrent instemming onherroepelijk is.
+
+2. De gegevens, bedoeld in het eerste lid, onderdeel a en onderdeel c, onder 1°, zijn authentieke gegevens.
 
 ##### Artikel 3.3
 
