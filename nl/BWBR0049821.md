@@ -4,7 +4,7 @@ identifier: "BWBR0049821"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-07-01"
-last_updated: "2024-06-19"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049821"
 soort: "zbo"
@@ -51,10 +51,8 @@ De openbaarmaking van de real-time GNSS-data heeft tot doel om hergebruik van de
 
 Wijzigt de Tarievenregeling Kadaster.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel 4
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, met uitzondering van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049821&artikel=3&z=2024-06-19&g=2024-06-19) dat in werking treedt per 1 juli 2024.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, met uitzondering van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049821&artikel=3&z=2024-07-01&g=2024-07-01) dat in werking treedt per 1 juli 2024.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
