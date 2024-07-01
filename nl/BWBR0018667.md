@@ -4,7 +4,7 @@ identifier: "BWBR0018667"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-07-01"
-last_updated: "2015-10-01"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018667"
 soort: "ministeriele-regeling"
@@ -70,21 +70,21 @@ Als getuigschrift als bedoeld in [artikel 82, eerste lid, onderdeel d, van het b
 
 ##### Artikel 3
 
-1. Bij het examen vakbekwaamheid voor het besturen van een taxi wordt tenminste de kennis vastgesteld van de in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018667&bijlage=1&z=2015-10-01&g=2015-10-01) bij deze regeling genoemde onderwerpen.
+1. Bij het examen vakbekwaamheid voor het besturen van een taxi wordt tenminste de kennis vastgesteld van de in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018667&bijlage=1&z=2024-07-01&g=2024-07-01) bij deze regeling genoemde onderwerpen.
 
 2. Het examen bestaat uit een theorie-examen en een praktijkexamen dat uiteen valt in een praktijkexamen voor taxivervoer en een praktijkexamen voor een beperkte taxidienst.
 
 ##### Artikel 4
 
-1. De bestuurder van een auto waarmee taxivervoer wordt verricht, is vrijgesteld van het theorie-examen, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018667&paragraaf=2&artikel=3&z=2015-10-01&g=2015-10-01), indien hij in het bezit is van:
+1. De bestuurder van een auto waarmee taxivervoer wordt verricht, is vrijgesteld van het theorie-examen, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018667&paragraaf=2&artikel=3&z=2024-07-01&g=2024-07-01), indien hij in het bezit is van:
 
 - a. een diploma CCV Taxivervoer, dat is afgegeven vóór 1 augustus 2004, of
 
 - b. een diploma CCV B Beroepspersonenvervoer.
 
-2. De bestuurder van een auto waarmee taxivervoer wordt verricht, is vrijgesteld van het praktijkexamen taxivervoer, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018667&paragraaf=2&artikel=3&z=2015-10-01&g=2015-10-01), indien hij in het bezit is van een vóór 1 augustus 2004 afgegeven CCV certificaat medegebruik vrije tram- en busbanen gemeente Amsterdam dan wel van een geldig certificaat van het nadien afgegeven CCV **praktijkexamen** medegebruik vrije tram- en busbanen gemeente Amsterdam voor de aldaar aangegeven geldigheidsduur.
+2. De bestuurder van een auto waarmee taxivervoer wordt verricht, is vrijgesteld van het praktijkexamen taxivervoer, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018667&paragraaf=2&artikel=3&z=2024-07-01&g=2024-07-01), indien hij in het bezit is van een vóór 1 augustus 2004 afgegeven CCV certificaat medegebruik vrije tram- en busbanen gemeente Amsterdam dan wel van een geldig certificaat van het nadien afgegeven CCV **praktijkexamen** medegebruik vrije tram- en busbanen gemeente Amsterdam voor de aldaar aangegeven geldigheidsduur.
 
-3. De bestuurder van een auto waarmee taxivervoer wordt verricht, is vrijgesteld van zowel het theorie-examen als het praktijkexamen, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018667&paragraaf=2&artikel=3&z=2015-10-01&g=2015-10-01), indien hij in het bezit is van:
+3. De bestuurder van een auto waarmee taxivervoer wordt verricht, is vrijgesteld van zowel het theorie-examen als het praktijkexamen, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018667&paragraaf=2&artikel=3&z=2024-07-01&g=2024-07-01), indien hij in het bezit is van:
 
 - a. het CCV vakdiploma taxichauffeur, dat is afgegeven vóór 1 juli 2005;
 
@@ -142,7 +142,7 @@ De [Regeling chauffeurspas taxivervoer](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 ##### Artikel 15
 
-Degene die een chauffeurspas onder beperkingen of een duplicaat daarvan aanvraagt en in het bezit is van een chauffeurpas als bedoeld in [artikel II, tweede lid, van het Besluit van 2 juni 2004 houdende wijziging van het Besluit personenvervoer 2000 in verband met de invoering van het vereiste van vakbekwaamheid voor de taxibestuurder](https://wetten.overheid.nl/jci1.3:c:BWBR0016801&artikel=II) (Stb. 252) behoeft in afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018667&paragraaf=3&artikel=5&z=2015-10-01&g=2015-10-01) slechts een getuigschrift als bedoeld in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018667&paragraaf=2&artikel=2&z=2015-10-01&g=2015-10-01), van deze regeling te overleggen.
+Degene die een chauffeurspas onder beperkingen of een duplicaat daarvan aanvraagt en in het bezit is van een chauffeurpas als bedoeld in [artikel II, tweede lid, van het Besluit van 2 juni 2004 houdende wijziging van het Besluit personenvervoer 2000 in verband met de invoering van het vereiste van vakbekwaamheid voor de taxibestuurder](https://wetten.overheid.nl/jci1.3:c:BWBR0016801&artikel=II) (Stb. 252) behoeft in afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018667&paragraaf=3&artikel=5&z=2024-07-01&g=2024-07-01) slechts een getuigschrift als bedoeld in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018667&paragraaf=2&artikel=2&z=2024-07-01&g=2024-07-01), van deze regeling te overleggen.
 
 ##### Artikel 16
 
@@ -152,7 +152,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 Deze regeling wordt aangehaald als: Regeling taxibestuurders 2005.
 
-## Bijlage 1. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018667&paragraaf=2&artikel=3&z=2015-10-01&g=2015-10-01) van de Regeling taxibestuurders 2005
+## Bijlage 1. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018667&paragraaf=2&artikel=3&z=2024-07-01&g=2024-07-01) van de Regeling taxibestuurders 2005
 
 Bij het examen vakbekwaamheid voor het besturen van een taxi worden in ieder geval de kennis en vaardigheden vastgesteld van de hiernavolgende onderwerpen.
 
@@ -196,9 +196,9 @@ De kandidaat moet:
 
 ### **X. Klachtenprocedures**
 
-De kandidaat moet kennis hebben van de inhoud en toepassing van de klachtenprocedure waaronder het doel, de functie, de inhoud en de toepassing van de regeling met betrekking tot de afhandeling van klachten.
+De kandidaat moet kennis hebben van de inhoud en toepassing van de klachtenprocedure.
 
-### **XI. Gebruik en toepassing wegenkaart Nederland**
+### **Hoofdstuk XI (Gebruik en toepassing wegenkaart nederland)**
 
 De kandidaat moet:
 
@@ -212,9 +212,9 @@ De kandidaat moet:
 
 De kandidaat moet een economische en milieubewuste rijstijl kunnen toepassen (veilig, comfortabel, vlot en energiezuinig).
 
-### **III. Oplossen van storingen**
+### **Hoofdstuk III (Herkennen van storingen)**
 
-De kandidaat moet kleine storingen aan het voertuig met behulp van informatie op het dashboard (controlelampjes) en het instructieboekje kunnen opsporen en oplossen (zoals het vervangen van een defecte smeltzekering van verlichting, storingen aan mobilofoon, claxon of ruitenwisser, het gebruik van startkabels, het bijvullen van koelvloeistof, het vervangen van defecte gloeilampen, van een (halogeen) koplamp en het vervangen van een defecte band).
+De kandidaat moet met behulp van informatie op het dashboard (controlelampjes) kunnen benoemen wat de storing inhoudt en welke actie benodigd is (onmiddellijk stoppen of doorrijden voor reparatie).
 
 ### **IV. Omgaan met communicatieapparatuur**
 
@@ -242,9 +242,9 @@ De kandidaat moet:
 
 De kandidaat moet een economische en milieubewuste rijstijl kunnen toepassen (veilig, comfortabel, vlot en energiezuinig).
 
-### **III. Herkennen en op oplossen van storingen**
+### **Hoofdstuk III (Herkennen van storingen)**
 
-De kandidaat moet kleine storingen aan het voertuig met behulp van informatie op het dashboard (controlelampjes) en het instructieboekje kunnen herkennen en opsporen en eventueel oplossen al dan niet door middel van inschakeling van de centrale.
+De kandidaat moet met behulp van informatie op het dashboard (controlelampjes) kunnen benoemen wat de storing inhoudt en welke actie benodigd is (onmiddellijk stoppen of doorrijden voor reparatie).
 
 ### **IV. Route**
 
