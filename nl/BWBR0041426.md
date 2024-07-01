@@ -4,7 +4,7 @@ identifier: "BWBR0041426"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-07-01"
-last_updated: "2024-01-01"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041426"
 soort: "AMvB"
@@ -72,7 +72,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2. Aanwijzing van misdrijven
 
-Als misdrijven als bedoeld in de [artikelen 126nba, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126nba), [126uba, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126uba), en [126zpa, eerste lid, onder c, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zpa) worden aangewezen de misdrijven, bedoeld in de [artikelen 98, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=98), [98c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=98c), [131, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=131), [138ab, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=138ab), [138b, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=138b), [138c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=138c), [139c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=139c), [139d, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=139d), [139g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=139g), [140, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=140), [142a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=142a), [160](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=160), [161, aanhef en onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=161), [161bis, aanhef en onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=161bis), [161sexies, aanhef en onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=161sexies), [177, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=177), [179](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=179), [182, eerste en tweede lid, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=182), [197a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=197a), [205, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=205), [225, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=225), [226, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=226), [227, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=227), [231, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=231), [231a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=231a), [232, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=232), [240b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=240b), [247](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=247), [248a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=248a), [248e](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=248e), [285b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=285b), [350a, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=350a), [350c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=350c), [350d](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=350d), [363, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=363) en [420bis, eerste lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=420bis).
+Als misdrijven als bedoeld in de [artikelen 126nba, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126nba), [126uba, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126uba), en [126zpa, eerste lid, onder c, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zpa) worden aangewezen de misdrijven, bedoeld in de [artikelen 98, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=98), [98c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=98c), [131, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=131), [138ab, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=138ab), [138b, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=138b), [138c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=138c), [139c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=139c), [139d, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=139d), [139g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=139g), [140, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=140), [142a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=142a), [160](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=160), [161, aanhef en onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=161), [161bis, aanhef en onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=161bis), [161sexies, aanhef en onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=161sexies), [177, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=177), [179](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=179), [182, eerste en tweede lid, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=182), [197a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=197a), [205, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=205), [225, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=225), [226, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=226), [227, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=227), [231, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=231), [231a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=231a), [232, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=232), [241, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=241), [245, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=245), [251](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=251), [252](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=252), [285b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=285b), [350a, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=350a), [350c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=350c), [350d](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=350d), [363, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=363) en [420bis, eerste lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=420bis).
 
 ### Hoofdstuk 3. Deskundigheid van opsporingsambtenaren
 
@@ -86,9 +86,9 @@ Als misdrijven als bedoeld in de [artikelen 126nba, eerste lid, onder c](https:/
 
 ##### Artikel 4. Incidentele samenwerking
 
-1. In afwijking van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&hoofdstuk=3&artikel=3&z=2024-01-01&g=2024-01-01), kan een op grond van artikel 3, eerste lid, aangewezen opsporingsambtenaar worden belast met de uitvoering van een bevel in een concrete zaak als hij deelnemer is aan een technisch team.
+1. In afwijking van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&hoofdstuk=3&artikel=3&z=2024-07-01&g=2024-07-01), kan een op grond van artikel 3, eerste lid, aangewezen opsporingsambtenaar worden belast met de uitvoering van een bevel in een concrete zaak als hij deelnemer is aan een technisch team.
 
-2. Een op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&hoofdstuk=3&artikel=3&z=2024-01-01&g=2024-01-01), aangewezen opsporingsambtenaar kan door de korpschef worden aangewezen als deelnemer aan een technisch team voor de duur van de uitvoering van het bevel in een concrete zaak, indien hij naar het oordeel van de korpschef beschikt over specifieke kennis en vaardigheden, benodigd voor de uitvoering van dat bevel.
+2. Een op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&hoofdstuk=3&artikel=3&z=2024-07-01&g=2024-07-01), aangewezen opsporingsambtenaar kan door de korpschef worden aangewezen als deelnemer aan een technisch team voor de duur van de uitvoering van het bevel in een concrete zaak, indien hij naar het oordeel van de korpschef beschikt over specifieke kennis en vaardigheden, benodigd voor de uitvoering van dat bevel.
 
 3. Een deelnemer aan een technisch team wordt gedurende de uitvoering van het bevel begeleid door een lid van een technisch team.
 
@@ -110,7 +110,7 @@ Als misdrijven als bedoeld in de [artikelen 126nba, eerste lid, onder c](https:/
 
 ##### Artikel 6. Vaststelling van onregelmatigheden
 
-1. De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&hoofdstuk=4&artikel=5&z=2024-01-01&g=2024-01-01) bedoelde vastlegging van gegevens in logbestanden vindt op zodanige wijze plaats dat zowel tijdens de periode, vermeld in het bevel, waarbinnen aan het bevel uitvoering moet worden gegeven als na afloop daarvan kan worden vastgesteld of een onregelmatigheid heeft plaatsgevonden die van invloed is op de betrouwbaarheid en integriteit van de ter uitvoering van het bevel vastgelegde gegevens op een technische infrastructuur.
+1. De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&hoofdstuk=4&artikel=5&z=2024-07-01&g=2024-07-01) bedoelde vastlegging van gegevens in logbestanden vindt op zodanige wijze plaats dat zowel tijdens de periode, vermeld in het bevel, waarbinnen aan het bevel uitvoering moet worden gegeven als na afloop daarvan kan worden vastgesteld of een onregelmatigheid heeft plaatsgevonden die van invloed is op de betrouwbaarheid en integriteit van de ter uitvoering van het bevel vastgelegde gegevens op een technische infrastructuur.
 
 2. Indien een onregelmatigheid wordt geconstateerd maakt een opsporingsambtenaar van een technisch team daarvan proces-verbaal op, dat aan de officier van justitie wordt gezonden.
 
@@ -160,15 +160,15 @@ Een technisch hulpmiddel voorziet de geregistreerde gegevens van de datum en tij
 
 1. Een technisch hulpmiddel wordt voorafgaand aan het gebruik ervan gekeurd door een keuringsdienst.
 
-2. Een technisch hulpmiddel wordt uitsluitend goedgekeurd indien het voldoet aan de in de [artikelen 8 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&hoofdstuk=5&artikel=8&z=2024-01-01&g=2024-01-01) gestelde eisen.
+2. Een technisch hulpmiddel wordt uitsluitend goedgekeurd indien het voldoet aan de in de [artikelen 8 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&hoofdstuk=5&artikel=8&z=2024-07-01&g=2024-07-01) gestelde eisen.
 
-3. Indien een technisch hulpmiddel of een onderdeel hiervan zodanig wijzigt dat redelijkerwijs kan worden aangenomen dat de werking niet langer voldoet aan de in de [artikelen 8 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&hoofdstuk=5&artikel=8&z=2024-01-01&g=2024-01-01) gestelde eisen, vindt voorafgaand aan het gebruik herkeuring plaats door een keuringsdienst van het gewijzigde technische hulpmiddel of van het gewijzigde onderdeel.
+3. Indien een technisch hulpmiddel of een onderdeel hiervan zodanig wijzigt dat redelijkerwijs kan worden aangenomen dat de werking niet langer voldoet aan de in de [artikelen 8 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&hoofdstuk=5&artikel=8&z=2024-07-01&g=2024-07-01) gestelde eisen, vindt voorafgaand aan het gebruik herkeuring plaats door een keuringsdienst van het gewijzigde technische hulpmiddel of van het gewijzigde onderdeel.
 
 ##### Artikel 15. Uitzonderingen op voorafgaande keuring en herkeuring
 
-1. In afwijking van [artikel 14, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&hoofdstuk=6&artikel=14&z=2024-01-01&g=2024-01-01), kan een technisch hulpmiddel na afloop van het gebruik ervan worden gekeurd of kan na afloop van het gebruik herkeuring plaatsvinden indien de officier van justitie dit heeft bepaald overeenkomstig [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&hoofdstuk=7&artikel=21&z=2024-01-01&g=2024-01-01).
+1. In afwijking van [artikel 14, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&hoofdstuk=6&artikel=14&z=2024-07-01&g=2024-07-01), kan een technisch hulpmiddel na afloop van het gebruik ervan worden gekeurd of kan na afloop van het gebruik herkeuring plaatsvinden indien de officier van justitie dit heeft bepaald overeenkomstig [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&hoofdstuk=7&artikel=21&z=2024-07-01&g=2024-07-01).
 
-2. In afwijking van het eerste lid kan keuring of herkeuring achteraf achterwege blijven, indien de officier van justitie dit heeft bepaald overeenkomstig [artikel 21, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&hoofdstuk=7&artikel=21&z=2024-01-01&g=2024-01-01).
+2. In afwijking van het eerste lid kan keuring of herkeuring achteraf achterwege blijven, indien de officier van justitie dit heeft bepaald overeenkomstig [artikel 21, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&hoofdstuk=7&artikel=21&z=2024-07-01&g=2024-07-01).
 
 ##### Artikel 16. Keuringsdienst
 
@@ -194,7 +194,7 @@ Een technisch hulpmiddel voorziet de geregistreerde gegevens van de datum en tij
 
 3. Het keuringsrapport van een goedgekeurd technisch hulpmiddel vermeldt ten minste:
 
-- a. dat het technische hulpmiddel voldoet aan de [artikel 8 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&hoofdstuk=5&artikel=8&z=2024-01-01&g=2024-01-01) gestelde eisen;
+- a. dat het technische hulpmiddel voldoet aan de [artikel 8 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&hoofdstuk=5&artikel=8&z=2024-07-01&g=2024-07-01) gestelde eisen;
 
 - b. een referentienummer;
 
@@ -202,7 +202,7 @@ Een technisch hulpmiddel voorziet de geregistreerde gegevens van de datum en tij
 
 - d. een aanduiding van de functionaliteit of functionaliteiten van het technische hulpmiddel;
 
-- e. relevante verplichte vervangende waarborgen waarmee voldaan kan worden aan één of meer eisen, bedoeld in de [artikelen 8 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&hoofdstuk=5&artikel=8&z=2024-01-01&g=2024-01-01);
+- e. relevante verplichte vervangende waarborgen waarmee voldaan kan worden aan één of meer eisen, bedoeld in de [artikelen 8 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&hoofdstuk=5&artikel=8&z=2024-07-01&g=2024-07-01);
 
 - f. relevante informatie met betrekking tot de werking van een functionaliteit of functionaliteiten van het technische hulpmiddel;
 
@@ -306,9 +306,9 @@ De keuringsdienst van een onderdeel van de Eenheid landelijke expertise en opera
 
 ##### Artikel 29. Verstrekking en bewerking van vastgelegde gegevens
 
-1. De ter uitvoering van een bevel op een technische infrastructuur vastgelegde gegevens, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&hoofdstuk=7&artikel=27&z=2024-01-01&g=2024-01-01), worden verstrekt aan een opsporingsambtenaar die is belast met het opsporingsonderzoek.
+1. De ter uitvoering van een bevel op een technische infrastructuur vastgelegde gegevens, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&hoofdstuk=7&artikel=27&z=2024-07-01&g=2024-07-01), worden verstrekt aan een opsporingsambtenaar die is belast met het opsporingsonderzoek.
 
-2. Indien het ter uitvoering van het bevel of ten behoeve van het opsporingsonderzoek nodig is om een selectie te maken uit op een technische infrastructuur vastgelegde gegevens, voert een opsporingsambtenaar van een technisch team een bewerking uit met gebruikmaking van een kopie van de op grond van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&hoofdstuk=7&artikel=27&z=2024-01-01&g=2024-01-01) vastgelegde gegevens. De bewerkte gegevens worden verstrekt aan een opsporingsambtenaar die is belast met het opsporingsonderzoek.
+2. Indien het ter uitvoering van het bevel of ten behoeve van het opsporingsonderzoek nodig is om een selectie te maken uit op een technische infrastructuur vastgelegde gegevens, voert een opsporingsambtenaar van een technisch team een bewerking uit met gebruikmaking van een kopie van de op grond van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0041426&hoofdstuk=7&artikel=27&z=2024-07-01&g=2024-07-01) vastgelegde gegevens. De bewerkte gegevens worden verstrekt aan een opsporingsambtenaar die is belast met het opsporingsonderzoek.
 
 3. Bij de selectie van gegevens legt een opsporingsambtenaar van een technisch team de bewerkingen die hebben plaatsgevonden met betrekking tot de kopie van de vastgelegde gegevens vast in een proces-verbaal, dat aan de officier van justitie wordt gezonden.
 
