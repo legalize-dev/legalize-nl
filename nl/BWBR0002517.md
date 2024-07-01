@@ -4,7 +4,7 @@ identifier: "BWBR0002517"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-07-01"
-last_updated: "2024-01-01"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002517"
 soort: "ministeriele-regeling"
@@ -43,7 +43,7 @@ Deze regeling geeft uitvoering aan de [artikelen 4, elfde en twaalfde lid](https
 
 ##### Artikel 1a
 
-De in [artikel 4, elfde lid, van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4) bedoelde verklaring en opgaaf vinden plaats door het toesturen van het hiervoor door de Belastingdienst beschikbaar gestelde formulier en bevatten:
+De in [artikel 4, elfde lid, van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4) bedoelde opgaaf bevat:
 
 - a. de naam, het adres en de staat van vestiging, bedoeld in [artikel 4, tweede lid, van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4), van de opbrengstgerechtigde;
 
@@ -270,7 +270,7 @@ Voor de toepassing van de [artikelen 4a, tweede lid](https://wetten.overheid.nl/
 
 ## Bijlage. behorende bij de Uitvoeringsbeschikking dividendbelasting 1965
 
-De woonlandfactor, bedoeld in [artikel 1bis, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0002517&artikel=1bis&z=2024-01-01&g=2024-01-01), wordt voor andere lidstaten van de Europese Unie, andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland bepaald aan de hand van de volgende tabel:
+De woonlandfactor, bedoeld in [artikel 1bis, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0002517&artikel=1bis&z=2024-07-01&g=2024-07-01), wordt voor andere lidstaten van de Europese Unie, andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland bepaald aan de hand van de volgende tabel:
 
 | Staat | Woonlandfactor |
 | --- | --- |
