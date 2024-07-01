@@ -4,7 +4,7 @@ identifier: "BWBR0008144"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2024-06-28"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008144"
 soort: "ministeriele-regeling"
@@ -181,15 +181,15 @@ Aan de dienst worden de volgende taken opgedragen:
 
 - hh. het innen van de afvalbeheerbijdrage voor autowrakken, bedoeld in [artikel 49, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=49), in naam van de organisatie die gerechtigd is tot de ontvangst van de afvalbeheerbijdrage, tenzij het voertuig wordt ingeschreven op basis van de bevoegdheid, bedoeld in [artikel 6, eerste lid, onderdeel b, van de Regeling erkenning bedrijfsvoorraad](https://wetten.overheid.nl/jci1.3:c:BWBR0007089&artikel=6);
 
-- ii. het tot 5 juli 2024 in de hoedanigheid van technische dienst verrichten van de eerste beoordeling en tests of keuringen in het kader van de activiteitencategorieën A, B, C en D, bedoeld in artikel 68, eerste lid, onder a tot en met d, van [verordening (EU) 2018/858](32758R2018);
+- ii. het tot 1 juli 2029 in de hoedanigheid van technische dienst verrichten van de eerste beoordeling en tests of keuringen in het kader van de activiteitencategorieën A, B en D, bedoeld in artikel 68, eerste lid, onder a, b en d, van [verordening (EU) 2018/858](32018R0858);
 
 - jj. de uitvoering van de taken die betrekking hebben op het plaatsen op een aangevraagd rijbewijs van het publieke identificatiemiddel, bedoeld in [artikel 5, vierde lid, van de Wet digitale overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&artikel=5), de activatie of de intrekking van dat publiek identificatiemiddel, waaronder in ieder geval begrepen het verstrekken van de activatiecode, het deblokkeren van een geblokkeerd publiek identificatiemiddel, het verzenden van brieven aan rijbewijshouders samenhangend met het publieke identificatiemiddel, alsmede het verwerken van hiermee samenhangende gegevens en persoonsgegevens.
 
 ##### Artikel 3. Voorwaarden
 
-1. De dienst mag voor de activiteiten, bedoeld in [artikel 2, onder a tot en met d, j, p tot en met r, t, u, w, z en ee](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2024-06-28&g=2024-06-28), prijzen in rekening brengen.
+1. De dienst mag voor de activiteiten, bedoeld in [artikel 2, onder a tot en met d, j, p tot en met r, t, u, w, z en ee](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2024-07-01&g=2024-07-01), prijzen in rekening brengen.
 
-2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2024-06-28&g=2024-06-28) bedoelde activiteiten en de hiervoor door de dienst in rekening te brengen prijzen dienen te voldoen aan de volgende voorwaarden:
+2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2024-07-01&g=2024-07-01) bedoelde activiteiten en de hiervoor door de dienst in rekening te brengen prijzen dienen te voldoen aan de volgende voorwaarden:
 
 - a. de exploitatie mag niet ten koste gaan van de in [artikel 4b, eerste en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4b), bedoelde taken;
 
