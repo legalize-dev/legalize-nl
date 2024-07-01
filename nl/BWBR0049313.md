@@ -4,7 +4,7 @@ identifier: "BWBR0049313"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-07-01"
-last_updated: "2024-01-31"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049313"
 soort: "AMvB"
@@ -54,25 +54,17 @@ Wijzigt het Besluit Gedragstoezicht financiële ondernemingen Wft.
 
 Wijzigt het Besluit Markttoegang financiële ondernemingen Wft.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel III
 
 Wijzigt het Besluit prudentiële regels Wft.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV
 
 Wijzigt het Besluit financiële markten BES.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel V
 
 Wijzigt het Besluit bestuurlijke boetes financiële sector.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VI
 
@@ -84,36 +76,30 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt het Uitvoeringsbesluit Wwft 2018.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VIII
 
 Wijzigt het Besluit kredietvergoeding.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IX
 
 Wijzigt het Besluit reikwijdtebepalingen Wft.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel X
 
 Wijzigt het Besluit gereglementeerde markten Wft.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XI
 
-Dit onderdeel is nog niet inwerking getreden
+Onze Minister van Financiën zendt binnen drie jaar na de inwerkingtreding van [artikel I, onderdelen H, L en N](https://wetten.overheid.nl/jci1.3:c:BWBR0049313&artikel=I&z=2024-07-01&g=2024-07-01), aan de Staten-Generaal een verslag over de doeltreffendheid en effecten in de praktijk van de [artikelen 61, eerste lid, onderdelen e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=61), [86d, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=86d), en [86i, eerste lid, onderdeel f, en derde lid, van het Besluit Gedragstoezicht financiële ondernemingen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=86i), zoals gewijzigd bij dit besluit.
 
 ##### Artikel XII
 
-Dit besluit treedt in werking met ingang van 1 juli 2024, met uitzondering van [artikel I, onderdelen D en T](https://wetten.overheid.nl/jci1.3:c:BWBR0049313&artikel=I&z=2024-01-31&g=2024-01-31), dat in werking treedt met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst
+Dit besluit treedt in werking met ingang van 1 juli 2024, met uitzondering van [artikel I, onderdelen D en T](https://wetten.overheid.nl/jci1.3:c:BWBR0049313&artikel=I&z=2024-07-01&g=2024-07-01), dat in werking treedt met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst
 
 ##### Artikel XIII
 
 Dit besluit wordt aangehaald als: Wijzigingsbesluit financiële markten 2023.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
