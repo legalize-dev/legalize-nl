@@ -4,7 +4,7 @@ identifier: "BWBR0044649"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-07-01"
-last_updated: "2021-01-01"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044649"
 soort: "zbo"
@@ -60,15 +60,13 @@ In deze beleidsregel wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Het bestuur bepaalt de hoogte van een dwangsom voor overtredingen als bedoeld in [artikel 18.6a van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=18.6a), voor zover het een overtreding betreft bedoeld in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0044649&bijlage=I&z=2021-01-01&g=2021-01-01), in overeenstemming met de in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0044649&bijlage=II&z=2021-01-01&g=2021-01-01) opgenomen indicatie van de hoogte van de dwangsom per overtreding.
+1. Het bestuur bepaalt de hoogte van een dwangsom voor overtredingen als bedoeld in [artikel 18.6a van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=18.6a), voor zover het een overtreding betreft bedoeld in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0044649&bijlage=I&z=2024-07-01&g=2024-07-01), in overeenstemming met de in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0044649&bijlage=II&z=2024-07-01&g=2024-07-01) opgenomen indicatie van de hoogte van de dwangsom per overtreding.
 
-2. Bij het bepalen van de hoogte van een dwangsom voor overtredingen als bedoeld in [artikel 18.6a van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=18.6a), anders dan bedoeld in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0044649&bijlage=I&z=2021-01-01&g=2021-01-01), is [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0044649&bijlage=II&z=2021-01-01&g=2021-01-01) zoveel mogelijk van overeenkomstige toepassing.
+2. Bij het bepalen van de hoogte van een dwangsom voor overtredingen als bedoeld in [artikel 18.6a van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=18.6a), anders dan bedoeld in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0044649&bijlage=I&z=2024-07-01&g=2024-07-01), is [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0044649&bijlage=II&z=2024-07-01&g=2024-07-01) zoveel mogelijk van overeenkomstige toepassing.
 
 ##### Artikel 3
 
-1. Het bestuur van de Nederlandse emissieautoriteit bepaalt de hoogte van een bestuurlijke boete voor overtredingen als bedoeld in [artikel 18.16a, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=18.16a), voor zover het een overtreding betreft bedoeld in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0044649&bijlage=I&z=2021-01-01&g=2021-01-01), in overeenstemming met de formule, bedoeld in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0044649&bijlage=III&z=2021-01-01&g=2021-01-01).
-
-2. Bij het bepalen van de hoogte van een bestuurlijke boete voor overtredingen als bedoeld in [artikel 18.16a, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=18.16a), anders dan bedoeld in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0044649&bijlage=I&z=2021-01-01&g=2021-01-01), is [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0044649&bijlage=III&z=2021-01-01&g=2021-01-01) zoveel mogelijk van overeenkomstige toepassing.
+Vervallen
 
 ##### Artikel 4
 
@@ -78,27 +76,29 @@ Deze beleidsregel treedt in werking met ingang van 1 januari 2021.
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel Nederlandse Emissieautoriteit ETS 2021.
 
-## Bijlage I. behorend bij de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044649&artikel=2&z=2021-01-01&g=2021-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0044649&artikel=3&z=2021-01-01&g=2021-01-01) van de Beleidsregel Nederlandse Emissieautoriteit ETS 2021
+## Bijlage I. behorend bij de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044649&artikel=2&z=2024-07-01&g=2024-07-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0044649&artikel=3&z=2024-07-01&g=2024-07-01) van de Beleidsregel Nederlandse Emissieautoriteit ETS 2021
 
 ### Categorisering overtredingen
 
 In de tabellen I en II is voor de meest waarschijnlijke overtredingen per overtreding de ernstfactor van de overtreding aangegeven.
 
-De ernstfactor bepaalt de indicatieve hoogte van de dwangsombedragen, bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0044649&bijlage=II&z=2021-01-01&g=2021-01-01), en maakt onderdeel uit van de berekening van de boetebedragen, bedoeld in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0044649&bijlage=III&z=2021-01-01&g=2021-01-01).
+De ernstfactor bepaalt de indicatieve hoogte van de dwangsombedragen, bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0044649&bijlage=II&z=2024-07-01&g=2024-07-01), en maakt onderdeel uit van de berekening van de boetebedragen, bedoeld in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0044649&bijlage=III&z=2024-07-01&g=2024-07-01).
 
 Tabel I vermeldt overtredingen met een kwantificeerbaar effect.
 
 Tabel II vermeldt overtredingen zonder kwantificeerbaar effect.
 
-De kwantificeerbaarheid van het effect maakt onderdeel uit van de berekening van de boetebedragen, bedoeld in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0044649&bijlage=III&z=2021-01-01&g=2021-01-01).
+De kwantificeerbaarheid van het effect maakt onderdeel uit van de berekening van de boetebedragen, bedoeld in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0044649&bijlage=III&z=2024-07-01&g=2024-07-01).
 
-## Bijlage II. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044649&artikel=2&z=2021-01-01&g=2021-01-01) van de Beleidsregel Nederlandse Emissieautoriteit ETS 2021
+## Bijlage II. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044649&artikel=2&z=2024-07-01&g=2024-07-01) van de Beleidsregel Nederlandse Emissieautoriteit ETS 2021
 
 ### Hoogte dwangsombedragen
 
-In onderstaande tabel is de indicatieve hoogte van de dwangsom per dag in euro aangegeven per ernstfactor als toegekend in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0044649&bijlage=I&z=2021-01-01&g=2021-01-01) van de Beleidsregel Nederlandse Emissieautoriteit ETS 2021.
+In onderstaande tabel is de indicatieve hoogte van de dwangsom per dag in euro aangegeven per ernstfactor als toegekend in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0044649&bijlage=I&z=2024-07-01&g=2024-07-01) van de Beleidsregel Nederlandse Emissieautoriteit ETS 2021.
 
-## Bijlage III. behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044649&artikel=3&z=2021-01-01&g=2021-01-01) van de Beleidsregel Nederlandse Emissieautoriteit ETS 2021
+## Bijlage III. behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044649&artikel=3&z=2024-07-01&g=2024-07-01) van de Beleidsregel Nederlandse Emissieautoriteit ETS 2021
+
+Vervallen
 
 ### Hoogte boetebedragen
 
@@ -165,5 +165,7 @@ In onderstaande tabel V zijn de omstandigheden en daarvoor geldende correctiefac
 ### 5. Economisch voordeel
 
 Als er sprake is van economisch voordeel dat niet gecorrigeerd kan worden door ambtshalve vaststelling van het emissiecijfer, door aanpassing van de toewijzing van emissierechten of door terugvordering van teveel verleende emissierechten, wordt de boete, onder aftrek van een eventueel nadeel dat rechtstreeks verband houdt met de overtreding, verhoogd met het saldo van het resterende voordeel. Wanneer er geen sprake is van een voordelig saldo is er geen sprake van economisch voordeel.
+
+Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
