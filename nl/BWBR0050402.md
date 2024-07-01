@@ -4,7 +4,7 @@ identifier: "BWBR0050402"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2024-01-01"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050402"
 soort: "AMvB"
@@ -40,8 +40,6 @@ entry_into_force: "2024-11-14"
 
 Wijzigt het Besluit algemene rechtspositie politie.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel II
 
 Wijzigt het Besluit bezoldiging politie.
@@ -71,15 +69,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel VI
 
 Dit onderdeel is nog niet inwerking getreden
-
-Op de voordracht van Onze Minister van Justitie en Veiligheid van 10 september 2024, directie Wetgeving en Juridische Zaken, nr. 5758712;
-
-Gelet op [artikel 47, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=47);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 2 oktober 2024, nr. W16.24.00245/II);
-
-Gezien het nader rapport van Onze Minister van Justitie en Veiligheid van 5 november 2024, nr. 5866356;
-
-Hebben goedgevonden en verstaan:
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
