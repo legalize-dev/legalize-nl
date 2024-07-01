@@ -4,7 +4,7 @@ identifier: "BWBR0048617"
 country: "nl"
 rank: "wet"
 publication_date: "2024-07-01"
-last_updated: "2024-01-01"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048617"
 soort: "wet"
@@ -181,13 +181,13 @@ Wijzigt de Wet elektronische gegevensuitwisseling in de zorg.
 
 ##### Artikel XXV
 
-Indien voor het tijdstip waarop [artikel XIII, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0048617&artikel=XIII&z=2024-01-01&g=2024-01-01), in werking treedt, beroep is ingesteld als bedoeld in [artikel 73 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=73), blijft [artikel 73a van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=73a) van toepassing, zoals dat luidde direct voor de inwerkingtreding van artikel XIII, onderdeel E.
+Indien voor het tijdstip waarop [artikel XIII, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0048617&artikel=XIII&z=2024-07-01&g=2024-07-01), in werking treedt, beroep is ingesteld als bedoeld in [artikel 73 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=73), blijft [artikel 73a van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=73a) van toepassing, zoals dat luidde direct voor de inwerkingtreding van artikel XIII, onderdeel E.
 
 ##### Artikel XXVI
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. De [artikelen V, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0048617&artikel=V&z=2024-01-01&g=2024-01-01), en [XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0048617&artikel=XVI&z=2024-01-01&g=2024-01-01) werken terug tot en met 1 januari 2021.
+2. De [artikelen V, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0048617&artikel=V&z=2024-07-01&g=2024-07-01), en [XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0048617&artikel=XVI&z=2024-07-01&g=2024-07-01) werken terug tot en met 1 januari 2021.
 
 ##### Artikel XXVII
 
