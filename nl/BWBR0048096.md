@@ -4,7 +4,7 @@ identifier: "BWBR0048096"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-07-01"
-last_updated: "2024-01-01"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048096"
 soort: "AMvB"
@@ -53,6 +53,10 @@ Hebben goedgevonden en verstaan:
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **aanwijzing:** aanwijzing van een instelling als bedoeld in [artikel 3.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048095&artikel=3.2);
+
+- **gegevensdienst:** een gestandaardiseerde dienst voor gegevensuitwisseling binnen het gesloten, door Stichting MedMij beheerde netwerk waarin deelnemers met elkaar gegevens kunnen uitwisselen;
+
+- **informatiestandaard:** verzameling van afspraken die ervoor zorgt dat informatie over de zorg van een cliënt op de juiste manier wordt vastgelegd, opgevraagd, gedeeld, uitgewisseld en overgedragen;
 
 - **terhandsteller:** degene die de geneesmiddelen, bedoeld in [artikel 61, eerste lid, onderdelen a en b, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=61) ter hand stelt;
 
@@ -150,11 +154,19 @@ Het versturen van een recept als bedoeld in [artikel 1, eerste lid, onderdeel pp
 
 ##### Artikel 3.1.2. (beschikbaar stellen voor een persoonlijke gezondheidsomgeving)
 
-Dit onderdeel is nog niet inwerking getreden
+1. Een persoonlijke gezondheidsomgeving waar de cliënt gebruik van maakt als bedoeld in artikel 15ea, tweede lid, van de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg, voldoet aan de gegevensdienst Verzamelen Huisartsgegevens, versie 2.0 zoals die is opgenomen in de actuele catalogus van de Stichting MedMij op de website: [https://catalogus.medmij.nl/details/gegevensdienst/49](https://catalogus.medmij.nl/details/gegevensdienst/49) en bijbehorende informatiestandaard die is opgenomen op de website [https://informatiestandaarden.nictiz.nl/wiki/MedMij:V2020.01/OntwerpHuisartsgegevens](https://informatiestandaarden.nictiz.nl/wiki/MedMij:V2020.01/OntwerpHuisartsgegevens) en op de website [https://informatiestandaarden.nictiz.nl/wiki/MedMij:V2020.01/FHIR_GP_Data](https://informatiestandaarden.nictiz.nl/wiki/MedMij:V2020.01/FHIR_GP_Data).
+
+2. Onverminderd het eerste lid kan de militaire ambtenaar in werkelijke dienst als bedoeld in [artikel 1, eerste lid, onderdeel b, van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=1) alleen gebruik maken van een persoonlijke gezondheidsomgeving die aantoonbaar voldoet aan de eisen die de Minister van Defensie stelt in de Algemene beveiligingseisen defensieopdrachten 2019 om gegevens te ontvangen van de militair geneeskundige dienst als bedoeld in [artikel 1, eerste lid, onderdeel f, van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=1).
+
+3. Het voor de cliënt relevante gegeven als bedoeld in [artikel 15ea, tweede lid, van de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&artikel=15ea) is ten minste de medicatieafspraak waarin staat hoe en wanneer een geneesmiddel gebruikt dient te worden.
+
+4. Een informatietechnologieproduct of -dienst dat of die gebruikt wordt voor het beschikbaar stellen van de medicatieafspraak voor een persoonlijke gezondheidsomgeving voldoet aan de gegevensdienst en bijbehorende informatiestandaard, bedoeld in het eerste lid.
+
+5. Bij ministeriële regeling kan de versie van en de daarmee samenhangende nieuwe link naar de gegevensdienst en bijbehorende informatiestandaard en de versie van de Algemene beveiligingseisen defensieopdrachten worden gewijzigd.
 
 ##### Artikel 3.1.3. (uitzondering militaire gezondheidszorg)
 
-Voor militaire gezondheidszorg in de omstandigheden als bedoeld in [artikel 1.6, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048095&artikel=1.6), gelden de [artikelen 3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0048096&hoofdstuk=3&paragraaf=3.1&artikel=3.1.1&z=2024-01-01&g=2024-01-01) en 3.1.2 niet.
+Voor militaire gezondheidszorg in de omstandigheden als bedoeld in [artikel 1.6, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048095&artikel=1.6), gelden de [artikelen 3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0048096&hoofdstuk=3&paragraaf=3.1&artikel=3.1.1&z=2024-07-01&g=2024-07-01) en 3.1.2 niet.
 
 ### Hoofdstuk 4. – Slotbepalingen
 
