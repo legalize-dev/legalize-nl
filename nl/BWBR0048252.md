@@ -4,7 +4,7 @@ identifier: "BWBR0048252"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2024-01-01"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048252"
 soort: "wet"
@@ -145,8 +145,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XVa
 
 Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVI
 
