@@ -4,7 +4,7 @@ identifier: "BWBR0035899"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-07-01"
-last_updated: "2024-02-20"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035899"
 soort: "AMvB"
@@ -144,9 +144,11 @@ Bij regeling van Onze Minister worden regels gegeven voor:
 
 - a. de wijze waarop luchtverkeersdiensten worden verleend;
 
-- b. de wijze waarop de luchtvaarttelecommunicatie wordt verzorgd, en
+- b. de wijze waarop de luchtvaarttelecommunicatie wordt verzorgd;
 
-- c. de wijze waarop het verstrekken van gegevens en luchtvaartinlichtingen tijdens de vlucht wordt verzorgd.
+- c. de wijze waarop het verstrekken van gegevens en luchtvaartinlichtingen tijdens de vlucht wordt verzorgd; en
+
+- d. de wijze waarop diensten voor het ontwerpen van vluchtprocedures worden verleend.
 
 ##### Artikel 7. Luchtverkeersroutes en -procedures
 
@@ -245,6 +247,8 @@ Bij regeling van Onze Minister kunnen regels worden gesteld over het tijdstip wa
 - b. de coördinatie met betrokken militaire eenheden of met verleners van luchtverkeersdiensten in aangrenzende staten.
 
 2. Bij regeling van Onze Minister kunnen regels worden gesteld met betrekking tot de inhoud, het sluiten en de naleving van het vliegplan, bedoeld in deel 4 van de bijlage bij verordening (EU) nr. 923/2012.
+
+3. Bij regeling van Onze Minister kunnen regels worden gesteld met betrekking tot de gevallen waarin geen vliegplan is vereist bij grensoverschrijdende vluchten als bedoeld in deel 4 van de bijlage bij [verordening (EU) nr. 923/2012](32012R0923).
 
 ### Hoofdstuk IV. Vliegvoorschriften
 
@@ -376,7 +380,7 @@ Wijzigt de Regeling Toezicht Luchtvaart.
 
 ##### Artikel 33. Strafbepalingen
 
-Handelen in strijd met het bepaalde bij of krachtens de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=I&artikel=3&z=2024-02-20&g=2024-02-20), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=I&artikel=4&z=2024-02-20&g=2024-02-20), [4a](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=I&artikel=4a&z=2024-02-20&g=2024-02-20), [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=II&artikel=7&z=2024-02-20&g=2024-02-20), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=II&artikel=9&z=2024-02-20&g=2024-02-20), [10, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=III&artikel=10&z=2024-02-20&g=2024-02-20), [11, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=III&artikel=11&z=2024-02-20&g=2024-02-20), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=III&artikel=12&z=2024-02-20&g=2024-02-20), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=III&artikel=13&z=2024-02-20&g=2024-02-20), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=III&artikel=14&z=2024-02-20&g=2024-02-20), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=III&artikel=15&z=2024-02-20&g=2024-02-20), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=III&artikel=16&z=2024-02-20&g=2024-02-20), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=IV&artikel=17&z=2024-02-20&g=2024-02-20), [18, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=IV&artikel=18&z=2024-02-20&g=2024-02-20), [19, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=IV&artikel=19&z=2024-02-20&g=2024-02-20), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=IV&artikel=20&z=2024-02-20&g=2024-02-20), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=IV&artikel=21&z=2024-02-20&g=2024-02-20), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=IV&artikel=22&z=2024-02-20&g=2024-02-20) en [23, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=IV&artikel=23&z=2024-02-20&g=2024-02-20), is een strafbaar feit.
+Handelen in strijd met het bepaalde bij of krachtens de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=I&artikel=3&z=2024-07-01&g=2024-07-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=I&artikel=4&z=2024-07-01&g=2024-07-01), [4a](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=I&artikel=4a&z=2024-07-01&g=2024-07-01), [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=II&artikel=7&z=2024-07-01&g=2024-07-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=II&artikel=9&z=2024-07-01&g=2024-07-01), [10, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=III&artikel=10&z=2024-07-01&g=2024-07-01), [11, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=III&artikel=11&z=2024-07-01&g=2024-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=III&artikel=12&z=2024-07-01&g=2024-07-01), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=III&artikel=13&z=2024-07-01&g=2024-07-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=III&artikel=14&z=2024-07-01&g=2024-07-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=III&artikel=15&z=2024-07-01&g=2024-07-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=III&artikel=16&z=2024-07-01&g=2024-07-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=IV&artikel=17&z=2024-07-01&g=2024-07-01), [18, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=IV&artikel=18&z=2024-07-01&g=2024-07-01), [19, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=IV&artikel=19&z=2024-07-01&g=2024-07-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=IV&artikel=20&z=2024-07-01&g=2024-07-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=IV&artikel=21&z=2024-07-01&g=2024-07-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=IV&artikel=22&z=2024-07-01&g=2024-07-01) en [23, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&hoofdstuk=IV&artikel=23&z=2024-07-01&g=2024-07-01), is een strafbaar feit.
 
 ##### Artikel 34. Overgangsrecht
 
