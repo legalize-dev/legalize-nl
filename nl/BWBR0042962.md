@@ -4,7 +4,7 @@ identifier: "BWBR0042962"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2021-07-01"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042962"
 soort: "AMvB"
@@ -462,7 +462,7 @@ Projectplaatsen voldoen aan de volgende voorwaarden:
 
 1. Indien de reclassering of de raad voor de kinderbescherming de inrichting van een nieuw leerproject overweegt, wordt een voorstel daartoe voorgelegd aan Onze Minister.
 
-2. Van het beoogde project wordt een omschrijving gemaakt. Deze bevat ten minste de in [artikel 3:10, eerste lid, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&hoofdstuk=3&titeldeel=3.2&paragraaf=1&artikel=3:10&z=2021-07-01&g=2021-07-01) bedoelde onderdelen, alsmede de bij het leerproject betrokken organisaties, een gemotiveerde schatting van het aantal deelnemers en een omschrijving van de wijze waarop de werkwijze en de resultaten van het project zullen worden geëvalueerd.
+2. Van het beoogde project wordt een omschrijving gemaakt. Deze bevat ten minste de in [artikel 3:10, eerste lid, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&hoofdstuk=3&titeldeel=3.2&paragraaf=1&artikel=3:10&z=2024-07-01&g=2024-07-01) bedoelde onderdelen, alsmede de bij het leerproject betrokken organisaties, een gemotiveerde schatting van het aantal deelnemers en een omschrijving van de wijze waarop de werkwijze en de resultaten van het project zullen worden geëvalueerd.
 
 3. Onze Minister beslist binnen een maand na de indiening van het voorstel.
 
@@ -484,7 +484,7 @@ Projectplaatsen voldoen aan de volgende voorwaarden:
 
 ##### Artikel 3:14
 
-1. Na ontvangst van de in [artikel 3:13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&hoofdstuk=3&titeldeel=3.2&paragraaf=2&artikel=3:13&z=2021-07-01&g=2021-07-01), bedoelde opdracht roept de uitvoerder taakstraffen de taakgestrafte zo spoedig mogelijk op voor een intakegesprek. Bij een jeugdige taakgestrafte kunnen tevens de ouders of voogd van de taakgestrafte worden opgeroepen.
+1. Na ontvangst van de in [artikel 3:13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&hoofdstuk=3&titeldeel=3.2&paragraaf=2&artikel=3:13&z=2024-07-01&g=2024-07-01), bedoelde opdracht roept de uitvoerder taakstraffen de taakgestrafte zo spoedig mogelijk op voor een intakegesprek. Bij een jeugdige taakgestrafte kunnen tevens de ouders of voogd van de taakgestrafte worden opgeroepen.
 
 2. Wanneer de taakgestrafte niet reageert op de oproep en is vastgesteld dat het daarop vermelde adres niet afwijkt van dat waarop betrokkene staat ingeschreven in de basisregistratie personen, wordt opnieuw een oproep gedaan, vergezeld van de mededeling dat bij niet verschijnen de zaak wordt gezonden aan het openbaar ministerie. Indien op de tweede oproep niet wordt gereageerd, wordt daarvan melding gemaakt aan Onze Minister en het openbaar ministerie.
 
@@ -512,9 +512,9 @@ De uitvoerder taakstraffen houdt toezicht op de verrichtingen van de taakgestraf
 
 - a. de beslissing om in bijzondere gevallen de projectplaats of de aard van de werkzaamheden te wijzigen;
 
-- b. de beslissing, bedoeld in [artikel 3:19](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&hoofdstuk=3&titeldeel=3.2&paragraaf=3&artikel=3:19&z=2021-07-01&g=2021-07-01), tot het geven van een waarschuwing indien de taakstraf niet naar behoren wordt uitgevoerd;
+- b. de beslissing, bedoeld in [artikel 3:19](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&hoofdstuk=3&titeldeel=3.2&paragraaf=3&artikel=3:19&z=2024-07-01&g=2024-07-01), tot het geven van een waarschuwing indien de taakstraf niet naar behoren wordt uitgevoerd;
 
-- c. de beslissing, bedoeld in [artikel 3:20](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&hoofdstuk=3&titeldeel=3.2&paragraaf=3&artikel=3:20&z=2021-07-01&g=2021-07-01), tot opschorting van de tenuitvoerlegging van de taakstraf, met advies aan het openbaar ministerie tot het voortijdig beëindigen van de tenuitvoerlegging van de taakstraf.
+- c. de beslissing, bedoeld in [artikel 3:20](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&hoofdstuk=3&titeldeel=3.2&paragraaf=3&artikel=3:20&z=2024-07-01&g=2024-07-01), tot opschorting van de tenuitvoerlegging van de taakstraf, met advies aan het openbaar ministerie tot het voortijdig beëindigen van de tenuitvoerlegging van de taakstraf.
 
 2. Alvorens een beslissing wordt genomen, wordt de taakgestrafte, zo mogelijk, door de uitvoerder taakstraffen gehoord.
 
@@ -522,7 +522,7 @@ De uitvoerder taakstraffen houdt toezicht op de verrichtingen van de taakgestraf
 
 ##### Artikel 3:18
 
-Bijzondere gevallen als bedoeld in [artikel 3:17, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&hoofdstuk=3&titeldeel=3.2&paragraaf=3&artikel=3:17&z=2021-07-01&g=2021-07-01), kunnen zijn:
+Bijzondere gevallen als bedoeld in [artikel 3:17, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&hoofdstuk=3&titeldeel=3.2&paragraaf=3&artikel=3:17&z=2024-07-01&g=2024-07-01), kunnen zijn:
 
 - a. onvoldoende beschikbaarheid van werk;
 
@@ -596,7 +596,7 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld over:
 
 ##### Artikel 4:1
 
-1. Onze Minister draagt zorg voor de ondersteuning van de bevoegde ambtenaren, bedoeld in [artikel 3.1 van het Besluit OM-afdoening](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&artikel=3.1), alsmede een lichaam of een persoon als bedoeld in [artikel 4.1, onderdeel b, van het Besluit OM-afdoening](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&artikel=4.1), bij hun taken met betrekking tot de betaling van gelden als bedoeld in [artikel 4:5](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&hoofdstuk=4&titeldeel=4.2&artikel=4:5&z=2021-07-01&g=2021-07-01).
+1. Onze Minister draagt zorg voor de ondersteuning van de bevoegde ambtenaren, bedoeld in [artikel 3.1 van het Besluit OM-afdoening](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&artikel=3.1), alsmede een lichaam of een persoon als bedoeld in [artikel 4.1, onderdeel b, van het Besluit OM-afdoening](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&artikel=4.1), bij hun taken met betrekking tot de betaling van gelden als bedoeld in [artikel 4:5](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&hoofdstuk=4&titeldeel=4.2&artikel=4:5&z=2024-07-01&g=2024-07-01).
 
 2. Dit hoofdstuk is niet van toepassing op geldboeten die zijn opgelegd in een strafbeschikking, uitgevaardigd krachtens [artikel 76 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=76) of [artikel 10:15 van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=10:15).
 
@@ -638,11 +638,11 @@ Onze Minister kan bepalen dat de betaling kan geschieden op een door Onze Minist
 
 ##### Artikel 4:6
 
-Indien de bevoegdheid van [artikel 257b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257b) wordt uitgeoefend gedurende de periode dat bijstand wordt verleend op grond van de [artikelen 57](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=57), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=58) of [59 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=59), geschiedt de betaling, bedoeld in [artikel 4:5](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&hoofdstuk=4&titeldeel=4.2&artikel=4:5&z=2021-07-01&g=2021-07-01), op de wijze van de politie, en geschieden de afrekening, verantwoording en controle van de ontvangen gelden door de politie.
+Indien de bevoegdheid van [artikel 257b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257b) wordt uitgeoefend gedurende de periode dat bijstand wordt verleend op grond van de [artikelen 57](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=57), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=58) of [59 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=59), geschiedt de betaling, bedoeld in [artikel 4:5](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&hoofdstuk=4&titeldeel=4.2&artikel=4:5&z=2024-07-01&g=2024-07-01), op de wijze van de politie, en geschieden de afrekening, verantwoording en controle van de ontvangen gelden door de politie.
 
 ##### Artikel 4:7
 
-1. In de gevallen, bedoeld in de [artikelen 4:4](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&hoofdstuk=4&titeldeel=4.2&artikel=4:4&z=2021-07-01&g=2021-07-01) en [4:5](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&hoofdstuk=4&titeldeel=4.2&artikel=4:5&z=2021-07-01&g=2021-07-01), wordt onverwijld een gedagtekend betalingsbewijs verstrekt.
+1. In de gevallen, bedoeld in de [artikelen 4:4](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&hoofdstuk=4&titeldeel=4.2&artikel=4:4&z=2024-07-01&g=2024-07-01) en [4:5](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&hoofdstuk=4&titeldeel=4.2&artikel=4:5&z=2024-07-01&g=2024-07-01), wordt onverwijld een gedagtekend betalingsbewijs verstrekt.
 
 2. In de gevallen, bedoeld in het eerste lid, wordt van de inning aantekening gehouden op de wijze zoals door Onze Minister is aangegeven.
 
@@ -652,11 +652,11 @@ Indien de bevoegdheid van [artikel 257b van de wet](https://wetten.overheid.nl/j
 
 ##### Artikel 4:8
 
-Onze Minister draagt zorg voor de opening van een of meer afzonderlijke bankrekeningen welke bestemd zijn voor de betaling van de in [artikel 4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&hoofdstuk=4&titeldeel=4.2&artikel=4:2&z=2021-07-01&g=2021-07-01) bedoelde bedragen.
+Onze Minister draagt zorg voor de opening van een of meer afzonderlijke bankrekeningen welke bestemd zijn voor de betaling van de in [artikel 4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&hoofdstuk=4&titeldeel=4.2&artikel=4:2&z=2024-07-01&g=2024-07-01) bedoelde bedragen.
 
 ##### Artikel 4:9
 
-1. Het formulier van het in [artikel 4:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&hoofdstuk=4&titeldeel=4.2&artikel=4:7&z=2021-07-01&g=2021-07-01), bedoelde betalingsbewijs, dan wel de eisen waaraan het betalingsbewijs moet voldoen, worden vastgesteld bij ministeriële regeling.
+1. Het formulier van het in [artikel 4:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&hoofdstuk=4&titeldeel=4.2&artikel=4:7&z=2024-07-01&g=2024-07-01), bedoelde betalingsbewijs, dan wel de eisen waaraan het betalingsbewijs moet voldoen, worden vastgesteld bij ministeriële regeling.
 
 2. De ontvangen gelden worden op de door Onze Minister aangegeven wijze overgemaakt op de daartoe bestemde bankrekeningen.
 
@@ -664,7 +664,7 @@ Onze Minister draagt zorg voor de opening van een of meer afzonderlijke bankreke
 
 ##### Artikel 4:10
 
-1. De korpschef doet op de door Onze Minister te bepalen wijze jaarlijks opgave van de uitvoering van de in [artikel 4:9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&hoofdstuk=4&titeldeel=4.3&artikel=4:9&z=2021-07-01&g=2021-07-01), bedoelde voorschriften en van de met het oog op de toepassing van dit besluit verrichte accountantscontrole.
+1. De korpschef doet op de door Onze Minister te bepalen wijze jaarlijks opgave van de uitvoering van de in [artikel 4:9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&hoofdstuk=4&titeldeel=4.3&artikel=4:9&z=2024-07-01&g=2024-07-01), bedoelde voorschriften en van de met het oog op de toepassing van dit besluit verrichte accountantscontrole.
 
 2. Voor de Koninklijke marechaussee en de buitengewoon opsporingsambtenaren wordt de in het eerste lid bedoelde opgave gedaan door de betrokken korpschefs, bedoeld in [artikel 3.1, tweede lid, van het Besluit OM-afdoening](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&artikel=3.1) of het betrokken lichaam of de betrokken persoon, bedoeld in [artikel 4.1, onderdeel b, van het Besluit OM-afdoening](https://wetten.overheid.nl/jci1.3:c:BWBR0022233&artikel=4.1).
 
@@ -696,7 +696,7 @@ De uitlevering van niet in beslag genomen verbeurd verklaarde voorwerpen, geschi
 
 1. Overeenkomstig [artikel 6:4:2, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:2) keert Onze Minister het resterende bedrag van de schadevergoedingsmaatregel uit aan het slachtoffer of de personen genoemd in [artikel 51f, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=51f).
 
-2. Ten aanzien van het uit te keren bedrag geldt een maximum van € 5.000. Dit maximum geldt niet in de gevallen waarin het bedrag wordt uitgekeerd na een veroordeling ter zake van een van de misdrijven als omschreven in de [artikelen 141](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=141), [239 tot en met 253](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=239), [273f](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=273f), [287 tot en met 291](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=287), [300 tot en met 303](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=300), [312](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=312) en [317 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=317).
+2. Ten aanzien van het uit te keren bedrag geldt een maximum van € 5.000. Dit maximum geldt niet in de gevallen waarin het bedrag wordt uitgekeerd na een veroordeling ter zake van een van de misdrijven als omschreven in de [artikelen 141](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=141), [239 tot en met 254ba](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=239), [273f](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=273f), [287 tot en met 291](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=287), [300 tot en met 303](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=300), [312](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=312) en [317 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=317).
 
 ## Titel 4.7. Delegatie
 
@@ -714,7 +714,7 @@ De uitlevering van niet in beslag genomen verbeurd verklaarde voorwerpen, geschi
 
 ##### Artikel 5:1
 
-Ten behoeve van de beoordeling of een gratieverzoek opschortende werking heeft als bedoeld in [artikel 6:7:2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:7:2), wordt als aanvangsdatum van de tenuitvoerlegging van een straf of maatregel aangemerkt de handeling van de bevoegde instantie zoals deze in de [artikelen 5:2 tot en met 5:5](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&hoofdstuk=5&artikel=5:2&z=2021-07-01&g=2021-07-01) nader wordt aangeduid, gericht op de tenuitvoerlegging van de straf of maatregel.
+Ten behoeve van de beoordeling of een gratieverzoek opschortende werking heeft als bedoeld in [artikel 6:7:2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:7:2), wordt als aanvangsdatum van de tenuitvoerlegging van een straf of maatregel aangemerkt de handeling van de bevoegde instantie zoals deze in de [artikelen 5:2 tot en met 5:5](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&hoofdstuk=5&artikel=5:2&z=2024-07-01&g=2024-07-01) nader wordt aangeduid, gericht op de tenuitvoerlegging van de straf of maatregel.
 
 ##### Artikel 5:2
 
