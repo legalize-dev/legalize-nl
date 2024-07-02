@@ -4,7 +4,7 @@ identifier: "BWBR0041998"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-07-02"
-last_updated: "2024-01-01"
+last_updated: "2024-07-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041998"
 soort: "ministeriele-regeling"
@@ -48,27 +48,15 @@ In dit besluit wordt verstaan onder:
 
 - a. **de directeur-generaal:** de directeur-generaal Agro van het Ministerie van Landbouw, Natuur en Voedselkwaliteit;
 
-- b. **de directeuren:** de directeuren van het directoraat-generaal Agro van het Ministerie van Landbouw, Natuur en Voedselkwaliteit;
+- b. **de directeuren:** de directeuren en de programmadirecteuren Toekomst Voedselsysteem van het directoraat-generaal Agro van het Ministerie van Landbouw, Natuur en Voedselkwaliteit;
 
-- c. **de plaatsvervangend directeuren:** de plaatsvervangend directeuren van het directoraat-generaal Agro van het Ministerie van Landbouw, Natuur en Voedselkwaliteit;
+- c. **de MT-leden:** de leden van het managementteam van een directie met uitzondering de directeur;
 
-- d. **het MT DG Agro:** het collectief van onder a en b bedoelde functionarissen;
+- d. **de Chief Veterinary Officer:** de Chief Veterinary Officer van het directoraat-generaal Agro van het Ministerie van Landbouw, Natuur en Voedselkwaliteit;
 
-- e. **de MT-leden:** de leden van het managementteam van een directie met uitzondering van de directeur en de plaatsvervangend directeur;
+- e. **deprogrammadirecteur regieorganisatie GLB:** de programmadirecteur Regieorganisatie gemeenschappelijk landbouwbeleid van het Ministerie van Landbouw, Natuur en Voedselkwaliteit;
 
-- f. **de Chief Veterinary Officer:** de Chief Veterinary Officer van het directoraat-generaal Agro van het Ministerie van Landbouw, Natuur en Voedselkwaliteit;
-
-- g. **de plaatsvervangend Chief Veterinary Officer:** de plaatsvervangend Chief Veterinary Officer van het directoraat-generaal Agro van het Ministerie van Landbouw, Natuur en Voedselkwaliteit;
-
-- h. **programmadirecteur regieorganisatie GLB:** de programmadirecteur Regieorganisatie gemeenschappelijk landbouwbeleid van het Ministerie van Landbouw, Natuur en Voedselkwaliteit;
-
-- i. **de programmadirecteur Realisatie Visie-LNV:** de programmadirecteur Realisatie Visie-LNV van het directoraat-generaal Agro van het Ministerie van Landbouw, Natuur en Voedselkwaliteit;
-
-- j. **de directeur Regiebureau POP:** de directeur van het Regiebureau Plattelandsontwikkelingspro-gramma van het Ministerie van Landbouw, Natuur en Voedselkwaliteit;
-
-- k. **de secretaris van de Raad voor Dierenaangelegenheden:** de secretaris van de Raad voor Dierenaangelegenheden van het directoraat-generaal Agro van het Ministerie van Landbouw, Natuur en Voedselkwaliteit;
-
-- l. **het bedrag:** bedrag inclusief de verschuldigde omzetbelasting (BTW).
+- f. **het bedrag:** het bedrag inclusief de verschuldigde omzetbelasting (BTW).
 
 #### § 2. Taakverdeling tussen de directeur-generaal en de onder hem ressorterende medewerkers
 
@@ -154,7 +142,7 @@ Vervallen
 
 ##### Artikel 9
 
-1. De uit dit besluit voor een (programma)directeur voortvloeiende bevoegdheden gaan in geval van afwezigheid over op zijn plaatsvervanger. Bij afwezigheid van zowel de directeur als zijn plaatsvervanger gaan de uit dit besluit voortvloeiende bevoegdheden over op een door de directeur aangewezen MT-lid van die directie.
+1. De uit dit besluit voor een directeur, de Chief Veterinary Officer of de programmadirecteur Regieorganisatie GLB voortvloeiende bevoegdheden gaan in geval van afwezigheid over op zijn plaatsvervanger. Bij afwezigheid van zowel de directeur als zijn plaatsvervanger gaan de uit dit besluit voortvloeiende bevoegdheden over op een door de directeur aangewezen MT-lid van die directie.
 
 2. De uit dit besluit voor een MT-lid voortvloeiende bevoegdheden gaan in geval van afwezigheid over op een ander MT-lid.
 
@@ -171,5 +159,15 @@ Dit besluit treedt in werking met ingang van de eerste dag na uitgifte van de St
 ##### Artikel 12
 
 Dit besluit wordt aangehaald als: Besluit ondermandaat, volmacht en machtiging voor het directoraat-generaal Agro van het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2019.
+
+Dit besluit zal in de Staatscourant worden geplaatst.
+
+##### Artikel 3a
+
+Aan de directeur Dierlijke Agroketens en Dierenwelzijn wordt ondermandaat en machtiging verleend voor het vaststellen van ministeriële regelingen als bedoeld in [artikel 5.2 van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.2).
+
+#### § 3. Vervanging
+
+#### § 4. Slotbepalingen
 
 Dit besluit zal in de Staatscourant worden geplaatst.
