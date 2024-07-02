@@ -4,7 +4,7 @@ identifier: "BWBR0047829"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-07-02"
-last_updated: "2023-01-28"
+last_updated: "2024-07-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047829"
 soort: "ministeriele-regeling"
@@ -44,13 +44,17 @@ BESLUIT:
 
 ##### Artikel 1
 
-1. Aan de algemeen directeur Rijksdienst voor Ondernemend Nederland wordt mandaat, volmacht en machtiging verleend om namens de Minister van Infrastructuur en Waterstaat besluiten te nemen in het kader van de subsidiëring van het project Digitale Infrastructuur voor Toekomstbestendige Mobiliteit (DITM).
+1. Aan de directeur-generaal Rijksdienst voor Ondernemend Nederland wordt mandaat, volmacht en machtiging verleend om namens de Minister van Infrastructuur en Waterstaat besluiten te nemen in het kader van de subsidiëring van het project Digitale Infrastructuur voor Toekomstbestendige Mobiliteit (DITM).
 
-2. Het mandaat, de volmacht en de machtiging, bedoeld in het eerste lid, hebben mede betrekking op alle benodigde werkzaamheden ter voorbereiding en ter uitvoering van de besluiten, daaronder begrepen het nemen van besluiten op bezwaarschriften, voor zover het besluit waartegen het bezwaar zich richt niet door de algemeen directeur Rijksdienst voor Ondernemend Nederland in mandaat is genomen, en op het voeren van beroepsprocedures.
+2. Het mandaat, de volmacht en de machtiging, bedoeld in het eerste lid, hebben mede betrekking op alle benodigde werkzaamheden ter voorbereiding en ter uitvoering van de besluiten, daaronder begrepen het nemen van besluiten op bezwaarschriften, voor zover het besluit waartegen het bezwaar zich richt niet door de directeur-generaal Rijksdienst voor Ondernemend Nederland in mandaat is genomen, en op het voeren van beroepsprocedures.
 
 ##### Artikel 2
 
-De algemeen directeur Rijksdienst voor Ondernemend Nederland kan met betrekking tot zijn bevoegdheden, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047829&artikel=1&z=2023-01-28&g=2023-01-28), ondermandaat, volmacht en machtiging verlenen aan een of meer onder hem ressorterende functionarissen.
+1. De directeur-generaal Rijksdienst voor Ondernemend Nederland kan met betrekking tot zijn bevoegdheden, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047829&artikel=1&z=2024-07-02&g=2024-07-02), ondermandaat, volmacht en machtiging verlenen aan een of meer onder hem ressorterende functionarissen.
+
+2. De directeur-generaal Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken en Klimaat kan aan de algemeen directeur van het Centraal Justitieel Incassobureau ondermandaat, volmacht en machtiging verlenen voor het uitvaardigen van dwangbevelen en de daaruit voortvloeiende uitvoering van executiegeschillen, en voor het treffen van betalingsregelingen. De directeur-generaal kan de algemeen directeur toestaan ondermandaat, volmacht en machtiging te verlenen aan één of meer onder hem ressorterende functionarissen.
+
+3. Aan de directeur-generaal Rijksdienst voor Ondernemend Nederland wordt mandaat verleend om per geval of in het algemeen instructies, die ook beleidsregels kunnen omvatten, te geven ter zake van de uitoefening van de krachtens het tweede lid aan de algemeen directeur van het Centraal Justitieel Incassobureau toekomende bevoegdheden.
 
 ##### Artikel 3
 
