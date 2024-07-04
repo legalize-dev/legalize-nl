@@ -4,7 +4,7 @@ identifier: "BWBR0049033"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-12-11"
-last_updated: "2023-12-13"
+last_updated: "2024-07-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049033"
 soort: "ministeriele-regeling"
@@ -112,7 +112,7 @@ De minister verstrekt aan de provincie een specifieke uitkering ter bevordering 
 
 - l. Limburg: € 3.839.753.
 
-2. De specifieke uitkering wordt niet verstrekt voor BTW verschuldigd over kosten voor de activiteiten bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049033&artikel=2&z=2023-12-13&g=2023-12-13) voor zover het bedrag van de BTW in aanmerking komt voor compensatie op grond van de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817).
+2. De specifieke uitkering wordt niet verstrekt voor BTW verschuldigd over kosten voor de activiteiten bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049033&artikel=2&z=2024-07-04&g=2024-07-04) voor zover het bedrag van de BTW in aanmerking komt voor compensatie op grond van de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817).
 
 ##### Artikel 4. Wijze van betaling en uitkeringsbeschikking
 
@@ -130,7 +130,7 @@ De minister verstrekt aan de provincie een specifieke uitkering ter bevordering 
 
 ##### Artikel 5. Verplichtingen
 
-1. Gedeputeerde staten besteden het voor die provincie in de derde kolom van de tabel in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0049033&bijlage=I&z=2023-12-13&g=2023-12-13) opgenomen bedrag uiterlijk 31 december 2027 aan:
+1. Gedeputeerde staten besteden het voor die provincie in de derde kolom van de tabel in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0049033&bijlage=I&z=2024-07-04&g=2024-07-04) opgenomen bedrag uiterlijk 31 december 2030 aan:
 
 - a. het adviseren van gemeenten over het soortenmanagementplan;
 
@@ -140,23 +140,25 @@ De minister verstrekt aan de provincie een specifieke uitkering ter bevordering 
 
 - d. het toezichthouden op en handhaven van voorschriften ter bescherming van beschermde diersoorten, in zoverre dit noodzakelijk is voor de uitvoering van de energiebesparende isolatie van de thermische schil van gebouwen in de gebouwde omgeving; of
 
-- e. alle kosten die direct samenhangen met de activiteiten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049033&artikel=2&z=2023-12-13&g=2023-12-13).
+- e. alle kosten die direct samenhangen met de activiteiten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049033&artikel=2&z=2024-07-04&g=2024-07-04).
 
-2. Gedeputeerde staten besteden ten minste zestig procent van het voor die provincie in de derde kolom van de tabel in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0049033&bijlage=I&z=2023-12-13&g=2023-12-13) opgenomen bedrag aan de activiteiten genoemd in het eerste lid, onderdeel c.
+2. Gedeputeerde staten besteden ten minste zestig procent van het voor die provincie in de derde kolom van de tabel in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0049033&bijlage=I&z=2024-07-04&g=2024-07-04) opgenomen bedrag aan de activiteiten genoemd in het eerste lid, onderdeel c.
 
-3. Gedeputeerde staten verstrekken uiterlijk 1 januari 2026 het voor die provincie in de tweede kolom van de tabel in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0049033&bijlage=I&z=2023-12-13&g=2023-12-13) opgenomen bedrag aan een deel van de gemeentes binnen hun provincie ten behoeve van activiteiten die gericht zijn op het voorbereiden, opstellen, implementeren of monitoren van soortenmanagementplannen die ten minste het volledige stedelijk gebied van een gemeente beslaan, op een manier die naar hun oordeel bijdraagt aan een doelmatige versnelling van de isolatie van gebouwen.
+3. Gedeputeerde staten verstrekken uiterlijk 1 juli 2028 het voor die provincie in de tweede kolom van de tabel in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0049033&bijlage=I&z=2024-07-04&g=2024-07-04) opgenomen bedrag aan een deel van de gemeentes binnen hun provincie ten behoeve van activiteiten die gericht zijn op het voorbereiden, opstellen, implementeren of monitoren van soortenmanagementplannen die ten minste het volledige stedelijk gebied van een gemeente beslaan, op een manier die naar hun oordeel bijdraagt aan een doelmatige versnelling van de isolatie van gebouwen.
 
-4. Wanneer gedeputeerde staten op grond van het derde lid een bedrag verstrekken aan een gemeente, dan verstrekken zij het voor die gemeente in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0049033&bijlage=II&z=2023-12-13&g=2023-12-13) opgenomen bedrag.
+4. Het uitvoeren van de activiteiten genoemd in het derde lid, kan plaatsvinden op een wijze waarbij telkens een deel van het stedelijk gebied wordt beslagen, zolang dit erop is gericht dat deze delen gezamenlijk een soortenmanagementplan vormen dat het volledige stedelijk gebied van ten minste één gemeente beslaat, en deze wijze naar oordeel van gedeputeerde staten bijdraagt aan een doelmatige versnelling van de isolatie van gebouwen.
 
-5. In afwijking van het vierde lid en onverminderd het achtste en negende lid, kan aan maximaal één gemeente in een provincie een lager bedrag, dan het voor die gemeente in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0049033&bijlage=II&z=2023-12-13&g=2023-12-13) opgenomen bedrag, worden verstrekt op grond van het derde lid, indien het verstrekken van het voor die gemeente in bijlage II opgenomen bedrag ertoe zou leiden dat gedeputeerde staten in totaal meer zouden verstrekken dan het bedrag opgenomen in de tweede kolom van de tabel in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0049033&bijlage=II&z=2023-12-13&g=2023-12-13).
+5. Wanneer gedeputeerde staten op grond van het derde lid een bedrag verstrekken aan een gemeente, dan verstrekken zij het voor die gemeente in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0049033&bijlage=II&z=2024-07-04&g=2024-07-04) opgenomen bedrag.
 
-6. Middelen die door gedeputeerde staten worden verstrekt aan gemeenten dienen uiterlijk 31 december 2027 door gemeenten te zijn besteed.
+6. In afwijking van het vierde lid en onverminderd het achtste en negende lid, kan aan maximaal één gemeente in een provincie een lager bedrag, dan het voor die gemeente in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0049033&bijlage=II&z=2024-07-04&g=2024-07-04) opgenomen bedrag, worden verstrekt op grond van het derde lid, indien het verstrekken van het voor die gemeente in bijlage II opgenomen bedrag ertoe zou leiden dat gedeputeerde staten in totaal meer zouden verstrekken dan het bedrag opgenomen in de tweede kolom van de tabel in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0049033&bijlage=II&z=2024-07-04&g=2024-07-04).
 
-7. Gedeputeerde staten besteden de specifieke uitkering alleen aan activiteiten die na 1 januari 2021 zijn gestart.
+7. Middelen die door gedeputeerde staten worden verstrekt aan gemeenten dienen uiterlijk 31 december 2030 door gemeenten te zijn besteed.
 
-8. In afwijking van het vierde lid, kunnen gedeputeerde staten een lager bedrag, dan het voor die gemeente in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0049033&bijlage=II&z=2023-12-13&g=2023-12-13) opgenomen bedrag, op grond van het derde lid aan een gemeente verstrekken, indien de op het moment van verstrekking te verwachten werkelijke kosten lager liggen dan het voor die gemeente in bijlage II opgenomen bedrag.
+8. Gedeputeerde staten besteden de specifieke uitkering alleen aan activiteiten die na 1 januari 2021 zijn gestart.
 
-9. Indien gedeputeerde staten op grond van het achtste lid een lager bedrag verstrekken dan het bedrag opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0049033&bijlage=II&z=2023-12-13&g=2023-12-13), dan kunnen zij het verschil tussen het verstrekte bedrag en het voor die gemeente in bijlage II opgenomen bedrag verstrekken aan een andere gemeente, of andere gemeentes, voor activiteiten als bedoeld in het derde lid, op een wijze die naar opvatting van gedeputeerde staten bijdraagt aan een doelmatige versnelling van de isolatie van gebouwen, ook als daarmee in totaal een ander bedrag wordt verstrekt dan het voor die andere gemeente, of andere gemeentes, in bijlage II opgenomen bedrag.
+9. In afwijking van het vierde lid, kunnen gedeputeerde staten een lager bedrag, dan het voor die gemeente in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0049033&bijlage=II&z=2024-07-04&g=2024-07-04) opgenomen bedrag, op grond van het derde lid aan een gemeente verstrekken, indien de op het moment van verstrekking te verwachten werkelijke kosten lager liggen dan het voor die gemeente in bijlage II opgenomen bedrag.
+
+10. Indien gedeputeerde staten op grond van het achtste lid een lager bedrag verstrekken dan het bedrag opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0049033&bijlage=II&z=2024-07-04&g=2024-07-04), dan kunnen zij het verschil tussen het verstrekte bedrag en het voor die gemeente in bijlage II opgenomen bedrag verstrekken aan een andere gemeente, of andere gemeentes, voor activiteiten als bedoeld in het derde lid, op een wijze die naar opvatting van gedeputeerde staten bijdraagt aan een doelmatige versnelling van de isolatie van gebouwen, ook als daarmee in totaal een ander bedrag wordt verstrekt dan het voor die andere gemeente, of andere gemeentes, in bijlage II opgenomen bedrag.
 
 ##### Artikel 6. Informatievoorziening na uitkering
 
@@ -164,7 +166,7 @@ De minister verstrekt aan de provincie een specifieke uitkering ter bevordering 
 
 2. Gedeputeerde staten verlenen op verzoek van de Minister medewerking en verstrekken op verzoek van de Minister informatie ten behoeve van de voortgang en evaluatie van de doelmatigheid en doeltreffendheid van de activiteiten waarvoor de specifieke uitkering is verstrekt.
 
-3. Gedeputeerde staten informeren de Minister, in het jaar dat de provincie de in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049033&artikel=7&z=2023-12-13&g=2023-12-13), bedoelde eindverantwoording aan de Minister heeft verstrekt, over het aantal gemeenten dat de middelen heeft ontvangen voor het opstellen dan wel het uitvoeren van het soortenmanagementplan.
+3. Gedeputeerde staten informeren de Minister, in het jaar dat de provincie de in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049033&artikel=7&z=2024-07-04&g=2024-07-04), bedoelde eindverantwoording aan de Minister heeft verstrekt, over het aantal gemeenten dat de middelen heeft ontvangen voor het opstellen dan wel het uitvoeren van het soortenmanagementplan.
 
 ##### Artikel 7. Verantwoording, terugvordering en vaststelling
 
@@ -182,7 +184,7 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering versnelling natuurinclusief isoleren.
 
-## Bijlage I. met de bedragen als bedoeld in [artikel 5, eerste, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049033&artikel=5&z=2023-12-13&g=2023-12-13)
+## Bijlage I. met de bedragen als bedoeld in [artikel 5, eerste, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049033&artikel=5&z=2024-07-04&g=2024-07-04)
 
 | Provincie | Verdeling middelen ter verstrekking aan gemeenten voor SMP’s (excl. btw) | Verdeling middelen voor ondersteunende taken provincies (excl. btw) | Totale specifieke uitkering per provincie (excl. btw) |
 | --- | --- | --- | --- |
@@ -200,7 +202,7 @@ Deze regeling wordt aangehaald als: Regeling specifieke uitkering versnelling na
 | Zuid-Holland | € 6.173.512 | € 2.463.645 | € 8.637.157 |
 | **Totaal** | € **34.217.182** | € **12.843.436** | € **47.060.618** |
 
-## Bijlage II. met de bedragen als bedoeld in [artikel 5, vierde, vijfde, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049033&artikel=5&z=2023-12-13&g=2023-12-13)
+## Bijlage II. met de bedragen als bedoeld in [artikel 5, vierde, vijfde, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049033&artikel=5&z=2024-07-04&g=2024-07-04)
 
 De bedragen exclusief btw die gemeenten ontvangen, indien zij door de gedeputeerde staten zijn geselecteerd voor een verstrekking:
 
