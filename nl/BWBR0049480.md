@@ -4,7 +4,7 @@ identifier: "BWBR0049480"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-12-17"
-last_updated: "2024-03-21"
+last_updated: "2024-07-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049480"
 soort: "ministeriele-regeling"
@@ -102,9 +102,11 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 1. Een subsidieaanvraag kan worden ingediend:
 
-- a. van 25 maart 2024 tot en met 22 april 2024 voor de schooljaren 2024–2025 en 2025–2026; en
+- a. van 25 maart 2024 tot en met 22 april 2024 voor de schooljaren 2024–2025 en 2025–2026;
 
-- b. van 15 januari 2026 tot en met 17 februari 2026 voor de schooljaren 2026–2027 en 2027–2028.
+- b. van 15 januari 2025 tot en met 17 februari 2025 voor de schooljaren 2025–2026 en 2026–2027; en
+
+- c. van 15 januari 2026 tot en met 17 februari 2026 voor de schooljaren 2026–2027 en 2027–2028.
 
 2. Te laat ingediende aanvragen worden afgewezen.
 
@@ -114,7 +116,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 ##### Artikel 5. Beslistermijn
 
-De subsidie wordt direct vastgesteld binnen 13 weken na sluiting van de aanvraagtermijn, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049480&hoofdstuk=2&paragraaf=1&artikel=4&z=2024-03-21&g=2024-03-21).
+De subsidie wordt direct vastgesteld binnen 13 weken na sluiting van de aanvraagtermijn, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049480&hoofdstuk=2&paragraaf=1&artikel=4&z=2024-07-04&g=2024-07-04).
 
 ##### Artikel 6. Betaling
 
@@ -124,7 +126,7 @@ De minister betaalt het subsidiebedrag in twee gelijke jaarlijkse termijnen.
 
 ##### Artikel 7. Toepassingsbereik
 
-Deze paragraaf is uitsluitend van toepassing op subsidies als bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049480&hoofdstuk=2&paragraaf=1&artikel=3&z=2024-03-21&g=2024-03-21).
+Deze paragraaf is uitsluitend van toepassing op subsidies als bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049480&hoofdstuk=2&paragraaf=1&artikel=3&z=2024-07-04&g=2024-07-04).
 
 ##### Artikel 8. Te subsidiëren activiteiten
 
@@ -164,19 +166,17 @@ Deze paragraaf is uitsluitend van toepassing op subsidies als bedoeld in [artike
 
 1. Voor de subsidieverstrekking op grond van deze paragraaf is voor de schooljaren 2024–2025 en 2025–2026 in totaal een bedrag beschikbaar van € 7.450.000,-.
 
-2. In het geval dat door subsidieverstrekking op grond van deze paragraaf niet alle daarvoor beschikbare middelen worden uitgeput, kan het resterende bedrag geheel of gedeeltelijk worden toegevoegd aan het subsidieplafond, bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049480&hoofdstuk=2&paragraaf=3&artikel=16&z=2024-03-21&g=2024-03-21).
+2. In het geval dat door subsidieverstrekking op grond van deze paragraaf niet alle daarvoor beschikbare middelen worden uitgeput, kan het resterende bedrag geheel of gedeeltelijk worden toegevoegd aan het subsidieplafond, bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049480&hoofdstuk=2&paragraaf=3&artikel=16&z=2024-07-04&g=2024-07-04).
 
 ##### Artikel 11. Subsidieverplichtingen
 
 1. De onderwijsinstelling ontwikkelt het praktijkgerichte vak gedurende twee jaar en biedt het twee jaar aan aan de doelgroep van de licentie waarvoor zij een aanvraag heeft gedaan.
 
-2. Het bevoegd gezag dat de subsidie, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0049480&hoofdstuk=2&paragraaf=2&artikel=8&z=2024-03-21&g=2024-03-21), ontvangt, zendt:
-
-- a. indien het een subsidie betreft als bedoeld in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049480&hoofdstuk=2&paragraaf=1&artikel=4&z=2024-03-21&g=2024-03-21), op uiterlijk 1 oktober 2026 een eindrapportage aan de minister.
+2. Het bevoegd gezag dat de subsidie, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0049480&hoofdstuk=2&paragraaf=2&artikel=8&z=2024-07-04&g=2024-07-04), ontvangt, zendt op uiterlijk 1 oktober 2026 een eindrapportage aan de Minister.
 
 ##### Artikel 12. Besteding en verantwoording
 
-1. Als de activiteiten zijn uitgevoerd en aan de verplichtingen, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0049480&hoofdstuk=2&paragraaf=2&artikel=11&z=2024-03-21&g=2024-03-21), is voldaan, kan het niet aangewende deel van de subsidie worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt.
+1. Als de activiteiten zijn uitgevoerd en aan de verplichtingen, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0049480&hoofdstuk=2&paragraaf=2&artikel=11&z=2024-07-04&g=2024-07-04), is voldaan, kan het niet aangewende deel van de subsidie worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt.
 
 2. De verantwoording van de subsidie geschiedt in de jaarverslaggeving overeenkomstig de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132) met model G, onderdeel 1.
 
@@ -186,7 +186,7 @@ Deze paragraaf is uitsluitend van toepassing op subsidies als bedoeld in [artike
 
 ##### Artikel 13. Toepassingsbereik
 
-Deze paragraaf is uitsluitend van toepassing op subsidies als bedoeld in [artikel 3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049480&hoofdstuk=2&paragraaf=1&artikel=3&z=2024-03-21&g=2024-03-21).
+Deze paragraaf is uitsluitend van toepassing op subsidies als bedoeld in [artikel 3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049480&hoofdstuk=2&paragraaf=1&artikel=3&z=2024-07-04&g=2024-07-04), en [artikel 4, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0049480&hoofdstuk=2&paragraaf=1&artikel=4&z=2024-07-04&g=2024-07-04).
 
 ##### Artikel 14. Te subsidiëren activiteiten overige scholen
 
@@ -222,25 +222,29 @@ Deze paragraaf is uitsluitend van toepassing op subsidies als bedoeld in [artike
 
 ##### Artikel 16. Subsidieplafond en wijze van verdeling van de beschikbare middelen
 
-1. Voor de subsidieverstrekking op grond van deze paragraaf is voor de schooljaren 2024–2025 en 2025–2026 in totaal een bedrag beschikbaar van € 13.550.000,–.
+1. Voor de subsidieverstrekking op grond van deze paragraaf is voor de schooljaren 2024–2025 en 2025–2026 in totaal een bedrag beschikbaar van € 14.688.000,–.
 
-2. In het geval dat het subsidieplafond, bedoeld in het eerste lid, ontoereikend is om alle aanvragen voor de subsidie, bedoeld in [artikel 3, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0049480&hoofdstuk=2&paragraaf=1&artikel=3&z=2024-03-21&g=2024-03-21), toe te wijzen, worden de binnengekomen aanvragen door middel van loting gerangschikt.
+2. In het geval dat het subsidieplafond, bedoeld in het eerste lid, ontoereikend is om alle aanvragen voor de subsidie, bedoeld in [artikel 3, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0049480&hoofdstuk=2&paragraaf=1&artikel=3&z=2024-07-04&g=2024-07-04), toe te wijzen, worden de binnengekomen aanvragen door middel van loting gerangschikt.
 
-3. De subsidiebedragen voor de schooljaren 2026–2027 en 2027–2028 worden op een later moment bekend gemaakt.
+3. In het geval dat het subsidieplafond, bedoeld in het eerste lid, ontoereikend is om alle aanvragen voor de subsidie, bedoeld in [artikel 4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0049480&hoofdstuk=2&paragraaf=1&artikel=4&z=2024-07-04&g=2024-07-04), toe te wijzen, worden de binnengekomen aanvragen door middel van loting gerangschikt, waarbij aanvragen voor elk van de licentiegebonden vakken Bouwen, Wonen & Interieur, Groen, Horeca, Bakkerij & Recreatie, Media, Vormgeving & ICT, Maritiem en Techniek, Mobiliteit & Transport en Produceren, Installeren & Energie voorrang krijgen, met een maximum van 10 plekken per licentiegebonden praktijkgericht vak. In afwijking van [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049480&hoofdstuk=2&paragraaf=2&artikel=11&z=2024-07-04&g=2024-07-04), biedt een onderwijsinstelling waarvan de aanvraag voor een licentiegebonden praktijkgericht vak is toegewezen, dit vak aan vanaf het eerste schooljaar waarvoor zij subsidie krijgt.
+
+4. De subsidiebedragen voor de schooljaren 2026–2027 en 2027–2028 worden op een later moment bekend gemaakt.
 
 ##### Artikel 17. Subsidieverplichtingen
 
-1. De onderwijsinstelling ontwikkelt het praktijkgerichte vak gedurende twee jaren biedt het minimaal één jaar aan aan de doelgroep van de licentie waarvoor zij een aanvraag heeft gedaan.
+1. De onderwijsinstelling ontwikkelt het praktijkgerichte vak gedurende twee jaren en biedt het minimaal één jaar aan aan de doelgroep van de licentie waarvoor zij een aanvraag heeft gedaan.
 
-2. Het bevoegd gezag dat de subsidie, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0049480&hoofdstuk=2&paragraaf=3&artikel=14&z=2024-03-21&g=2024-03-21), ontvangt, zendt:
+2. Het bevoegd gezag dat de subsidie, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0049480&hoofdstuk=2&paragraaf=3&artikel=14&z=2024-07-04&g=2024-07-04), ontvangt, zendt:
 
-- a. indien het een subsidie betreft als bedoeld in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049480&hoofdstuk=2&paragraaf=1&artikel=4&z=2024-03-21&g=2024-03-21), op uiterlijk 1 oktober 2026 een eindrapportage aan de minister;
+- a. indien het een subsidie betreft als bedoeld in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049480&hoofdstuk=2&paragraaf=1&artikel=4&z=2024-07-04&g=2024-07-04), op uiterlijk 1 oktober 2026 een eindrapportage aan de Minister;
 
-- b. indien het een subsidie betreft als bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049480&hoofdstuk=2&paragraaf=1&artikel=4&z=2024-03-21&g=2024-03-21), op uiterlijk 4 oktober 2028 een eindrapportage aan de minister.
+- b. indien het een subsidie betreft als bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049480&hoofdstuk=2&paragraaf=1&artikel=4&z=2024-07-04&g=2024-07-04), op uiterlijk 1 oktober 2027 een eindrapportage aan de Minister; en
+
+- c. indien het een subsidie betreft als bedoeld in [artikel 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049480&hoofdstuk=2&paragraaf=1&artikel=4&z=2024-07-04&g=2024-07-04), op uiterlijk 4 oktober 2028 een eindrapportage aan de Minister.
 
 ##### Artikel 18. Besteding en verantwoording
 
-1. Als de activiteiten zijn uitgevoerd en aan de verplichtingen, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0049480&hoofdstuk=2&paragraaf=3&artikel=17&z=2024-03-21&g=2024-03-21), is voldaan, kan het niet aangewende deel van de subsidie worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt.
+1. Als de activiteiten zijn uitgevoerd en aan de verplichtingen, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0049480&hoofdstuk=2&paragraaf=3&artikel=17&z=2024-07-04&g=2024-07-04), is voldaan, kan het niet aangewende deel van de subsidie worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt.
 
 2. De verantwoording van de subsidie geschiedt in de jaarverslaggeving overeenkomstig de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132) met model G, onderdeel 1.
 
@@ -261,5 +265,21 @@ De minister kan een of meer bepalingen van deze regeling in bijzondere gevallen 
 ##### Artikel 21. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling praktijkgericht vak gl en tl.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 6a. Subsidieplafonds schooljaren 2025–2028
+
+Voor subsidieverstrekking op grond van deze regeling is:
+
+- a. voor de schooljaren 2025–2026 en 2026–2027 in totaal een bedrag beschikbaar van € 10.500.000; en
+
+- b. voor de schooljaren 2026–2027 en 2027–2028 in totaal een bedrag beschikbaar van € 11.638.000.
+
+#### § 2. Subsidie pilotscholen
+
+#### § 3. Subsidie overige scholen
+
+### Hoofdstuk 3. Slotbepalingen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
