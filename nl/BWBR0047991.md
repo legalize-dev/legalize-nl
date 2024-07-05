@@ -4,7 +4,7 @@ identifier: "BWBR0047991"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-27"
-last_updated: "2023-03-25"
+last_updated: "2024-07-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047991"
 soort: "ministeriele-regeling"
@@ -114,9 +114,9 @@ Een specifieke uitkering wordt slechts verleend, als de gemeente aantoont minima
 
 ##### Artikel 6. Hoogte specifieke uitkering
 
-1. De hoogte van een specifieke uitkering als bedoeld in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=4&z=2023-03-25&g=2023-03-25), bedraagt 80 procent van de kosten, met een maximum van € 440.000 inclusief btw.
+1. De hoogte van een specifieke uitkering als bedoeld in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=4&z=2024-07-05&g=2024-07-05), bedraagt 80 procent van de kosten, met een maximum van € 440.000 inclusief btw.
 
-2. De hoogte van een specifieke uitkering als bedoeld in [artikel 4, eerste lid, onderdelen b tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=4&z=2023-03-25&g=2023-03-25), bedraagt 80 procent van de kosten, met een maximum van € 220.000 inclusief btw.
+2. De hoogte van een specifieke uitkering als bedoeld in [artikel 4, eerste lid, onderdelen b tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=4&z=2024-07-05&g=2024-07-05), bedraagt 80 procent van de kosten, met een maximum van € 220.000 inclusief btw.
 
 ##### Artikel 7. Aanvraag voor een specifieke uitkering
 
@@ -128,7 +128,7 @@ Een specifieke uitkering wordt slechts verleend, als de gemeente aantoont minima
 
 - b. gemeenten met minder dan 200.000 inwoners voor maximaal twee activiteiten een aanvraag kunnen indienen.
 
-3. Een aanvraag wordt ingediend door middel van een aanvraagformulier dat ter beschikking wordt gesteld op de website [https://www.dus-i.nl/subsidies](onbekend), en bevat in elk geval een activiteitenplan en een begroting. Ten aanzien van het activiteitenplan en de begroting zijn de [artikelen 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.4) en [3.5 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.5) van overeenkomstige toepassing.
+3. Een aanvraag wordt ingediend door middel van een aanvraagformulier dat ter beschikking wordt gesteld op de website [https://www.dus-i.nl/subsidies](https://www.dus-i.nl/subsidies), en bevat in elk geval een activiteitenplan en een begroting. Ten aanzien van het activiteitenplan en de begroting zijn de [artikelen 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.4) en [3.5 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.5) van overeenkomstige toepassing.
 
 4. Een aanvraag wordt ingediend in de periode:
 
@@ -144,7 +144,7 @@ Een specifieke uitkering wordt slechts verleend, als de gemeente aantoont minima
 
 ##### Artikel 8. Wijze van verdelen beschikbare middelen
 
-1. De minister beslist per aanvraagperiode als bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=7&z=2023-03-25&g=2023-03-25), gelijktijdig op alle aanvragen waarbij verlening van een specifieke uitkering geschiedt op basis van de rangschikking zoals geregeld in dit artikel.
+1. De minister beslist per aanvraagperiode als bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=7&z=2024-07-05&g=2024-07-05), gelijktijdig op alle aanvragen waarbij verlening van een specifieke uitkering geschiedt op basis van de rangschikking zoals geregeld in dit artikel.
 
 2. Een eerste rangschikking vindt als volgt plaats:
 
@@ -168,7 +168,7 @@ Een specifieke uitkering wordt slechts verleend, als de gemeente aantoont minima
 
 ##### Artikel 9. Beslistermijn
 
-Op de aanvragen wordt binnen dertien weken na afloop van de aanvraagperioden, bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=7&z=2023-03-25&g=2023-03-25), beslist.
+Op de aanvragen wordt binnen dertien weken na afloop van de aanvraagperioden, bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=7&z=2024-07-05&g=2024-07-05), beslist.
 
 ##### Artikel 10. Voorschot en betaling
 
@@ -198,7 +198,7 @@ De gemeente legt verantwoording af over de besteding van een specifieke uitkerin
 
 ##### Artikel 13. Vaststelling
 
-1. De minister stelt een specifieke uitkering vast binnen 22 weken na ontvangst van de verantwoording, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=12&z=2023-03-25&g=2023-03-25), over het jaar waarin de activiteiten waarvoor de specifieke uitkering is verleend zijn afgerond.
+1. De minister stelt een specifieke uitkering vast binnen 22 weken na ontvangst van de verantwoording, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=12&z=2024-07-05&g=2024-07-05), over het jaar waarin de activiteiten waarvoor de specifieke uitkering is verleend zijn afgerond.
 
 2. Als de activiteiten waarvoor een specifieke uitkering is verleend geheel zijn uitgevoerd, wordt de specifieke uitkering vastgesteld op het in de verleningsbeschikking genoemde bedrag.
 
@@ -208,7 +208,7 @@ De gemeente legt verantwoording af over de besteding van een specifieke uitkerin
 
 - b. de specifieke uitkering anderszins niet of niet volledig overeenkomstig het doel van deze regeling is besteed; of
 
-- c. niet of niet volledig is voldaan aan de verplichtingen, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=11&z=2023-03-25&g=2023-03-25), of de verantwoording, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=12&z=2023-03-25&g=2023-03-25).
+- c. niet of niet volledig is voldaan aan de verplichtingen, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=11&z=2024-07-05&g=2024-07-05), of de verantwoording, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=12&z=2024-07-05&g=2024-07-05).
 
 4. De minister kan onverschuldigd betaalde specifieke uitkeringen en voorschotten terugvorderen voor zover na de dag waarop de beschikking waarbij de specifieke uitkering is vastgesteld, nog geen vijf jaren zijn verstreken.
 
@@ -216,7 +216,7 @@ De gemeente legt verantwoording af over de besteding van een specifieke uitkerin
 
 ##### Artikel 14. Doel van de subsidie
 
-De minister verleent ambtshalve eenmalige subsidies aan provinciale ondersteuningsinstellingen als tegemoetkoming in de kosten van werkzaamheden die zij verrichten ter ondersteuning bij de uitvoering van activiteiten als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=4&z=2023-03-25&g=2023-03-25).
+De minister verleent ambtshalve eenmalige subsidies aan provinciale ondersteuningsinstellingen als tegemoetkoming in de kosten van werkzaamheden die zij verrichten ter ondersteuning bij de uitvoering van activiteiten als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=4&z=2024-07-05&g=2024-07-05).
 
 ##### Artikel 15. Subsidieplafond en subsidiehoogte
 
@@ -243,7 +243,7 @@ Bij verlening van een subsidie wordt het verleende bedrag in één keer bij wijz
 
 ##### Artikel 17. Verplichtingen
 
-1. [Artikel 11, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=11&z=2023-03-25&g=2023-03-25), is van overeenkomstige toepassing.
+1. [Artikel 11, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=11&z=2024-07-05&g=2024-07-05), is van overeenkomstige toepassing.
 
 2. De subsidieontvanger is verplicht de activiteiten uiterlijk op 31 december 2024 af te ronden.
 
@@ -267,7 +267,7 @@ De minister kan, gelet op het belang dat deze regeling beoogt te beschermen, art
 
 ##### Artikel 21. Inwerkingtreding en vervaldatum
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt op 1 januari 2027.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt op 1 januari 2027, met dien verstande dat zij van toepassing blijft ten aanzien van specifieke uitkeringen en subsidies die voor die datum op grond van deze regeling zijn verstrekt.
 
 ##### Artikel 22. Citeertitel
 
