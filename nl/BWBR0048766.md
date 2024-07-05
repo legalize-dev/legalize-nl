@@ -4,7 +4,7 @@ identifier: "BWBR0048766"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-10-26"
-last_updated: "2024-04-23"
+last_updated: "2024-07-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048766"
 soort: "ministeriele-regeling"
@@ -68,7 +68,7 @@ In deze regeling wordt verstaan onder:
 
 - **onderneming:** onderneming als bedoeld in artikel 2, tweede lid, van de [Verordening (EU) nr. 1407/2013](32013R1407) van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun (PbEU 2013, L 352/9);
 
-- **project:** geheel van onderzoeks- en ontwikkelingsactiviteiten dat aansluit bij het doel van deze regeling, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&artikel=3&z=2024-04-23&g=2024-04-23) en waarvoor subsidie wordt gevraagd op grond van deze regeling;
+- **project:** geheel van onderzoeks- en ontwikkelingsactiviteiten dat aansluit bij het doel van deze regeling, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&artikel=3&z=2024-07-05&g=2024-07-05) en waarvoor subsidie wordt gevraagd op grond van deze regeling;
 
 - **technologiedomein:** kennisgebied waarbinnen in het kader van de mogelijke bouw van de Einstein Telescope ontwikkeling en toepassing van innovaties nodig zijn.
 
@@ -108,7 +108,7 @@ De minister kan subsidie verstrekken voor de volgende activiteiten binnen een pr
 
 - e. bijkomende algemene kosten en andere operationele uitgaven, waaronder die voor materiaal, leveranties en dergelijke producten, die rechtstreeks uit het project voortvloeien.
 
-2. Kosten zijn subsidiabele na afloop van de openstellingsperiode van het technologiedomein als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&artikel=8&z=2024-04-23&g=2024-04-23).
+2. Kosten zijn subsidiabele na afloop van de openstellingsperiode van het technologiedomein als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&artikel=8&z=2024-07-05&g=2024-07-05).
 
 3. Kosten zijn uitsluitend subsidiabel als deze aantoonbaar en direct zijn gerelateerd aan de subsidiabele activiteiten en de doelstelling van deze regeling en noodzakelijk voor de uitvoering van het project.
 
@@ -144,7 +144,7 @@ De minister kan subsidie verstrekken voor de volgende activiteiten binnen een pr
 
 1. De aanvrager kan subsidie aanvragen gedurende de openstellingsperiode voor een technologiedomein.
 
-2. Een aanvraag voor subsidie kan uitsluitend worden ingediend gedurende een door de minister opengestelde aanvraagperiode zoals aangekondigd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&bijlage=2&z=2024-04-23&g=2024-04-23) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&bijlage=4&z=2024-04-23&g=2024-04-23). Aanvragen die worden ingediend na afloop van een openstellingsperiode worden afgewezen.
+2. Een aanvraag voor subsidie kan uitsluitend worden ingediend gedurende een door de minister opengestelde aanvraagperiode zoals aangekondigd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&bijlage=2&z=2024-07-05&g=2024-07-05), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&bijlage=4&z=2024-07-05&g=2024-07-05) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&bijlage=5&z=2024-07-05&g=2024-07-05). Aanvragen die worden ingediend na afloop van een openstellingsperiode worden afgewezen.
 
 3. De subsidieaanvraag wordt ingediend met gebruikmaking van het aanvraagformulier dat door de minister beschikbaar is gesteld.
 
@@ -162,7 +162,7 @@ De minister kan subsidie verstrekken voor de volgende activiteiten binnen een pr
 
 - c. de samenwerkende partijen leggen de gemaakte inhoudelijke en financiële afspraken voor de samenwerking in het project schriftelijk vast;
 
-- d. de samenwerkende partijen leggen de gemaakte afspraken voor wat betreft intellectuele-eigendomsrechten vast binnen de kaders zoals aangegeven in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&bijlage=3&z=2024-04-23&g=2024-04-23);
+- d. de samenwerkende partijen leggen de gemaakte afspraken voor wat betreft intellectuele-eigendomsrechten vast binnen de kaders zoals aangegeven in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&bijlage=3&z=2024-07-05&g=2024-07-05);
 
 - e. de samenwerkende partijen machtigen de aanvrager om de subsidie namens hen aan te vragen en (tussentijds) te verantwoorden;
 
@@ -170,7 +170,7 @@ De minister kan subsidie verstrekken voor de volgende activiteiten binnen een pr
 
 ##### Artikel 9. Beoordeling
 
-1. De minister besluit over een subsidieaanvraag, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&artikel=8&z=2024-04-23&g=2024-04-23) aan de hand van de volgende criteria:
+1. De minister besluit over een subsidieaanvraag, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&artikel=8&z=2024-07-05&g=2024-07-05) aan de hand van de volgende criteria:
 
 - a. aansluiting bij het technologiedomein van de openstelling;
 
@@ -180,13 +180,13 @@ De minister kan subsidie verstrekken voor de volgende activiteiten binnen een pr
 
 - d. kwaliteit van het activiteitenplan en de begroting.
 
-2. De beoordelingscriteria zijn uitgewerkt in het beoordelingskader, dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&bijlage=1&z=2024-04-23&g=2024-04-23) bij deze regeling is gevoegd.
+2. De beoordelingscriteria zijn uitgewerkt in het beoordelingskader, dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&bijlage=1&z=2024-07-05&g=2024-07-05) bij deze regeling is gevoegd.
 
 3. Subsidie wordt slechts verleend indien alle criteria tenminste als voldoende worden beoordeeld.
 
 ##### Artikel 10. Rangschikking aanvragen
 
-1. De aanvragen worden gerangschikt volgens de systematiek zoals bedoeld in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&bijlage=1&z=2024-04-23&g=2024-04-23) bij deze regeling.
+1. De aanvragen worden gerangschikt volgens de systematiek zoals bedoeld in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&bijlage=1&z=2024-07-05&g=2024-07-05) bij deze regeling.
 
 2. Indien door toekenning van alle daarvoor in aanmerking komende aanvragen met betrekking tot een bepaald technologiedomein het toepasselijke subsidieplafond zou worden overschreden, kent de minister subsidie toe, op basis van de in het eerste lid bedoelde rangschikking in volgorde van de hoogst gerangschikte aanvragen.
 
@@ -198,13 +198,13 @@ De minister kan subsidie verstrekken voor de volgende activiteiten binnen een pr
 
 - b. Vacuümtechnologie een bedrag van € 2.000.000,00 beschikbaar;
 
-- c. Trillingsdemping een bedrag van € 2.750.000,00 beschikbaar, waarvan € 1.375.000,00 voor Thema A als bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&bijlage=4&z=2024-04-23&g=2024-04-23) en € 1.375.000,00 voor Thema B als bedoeld in bijlage 4;
+- c. Trillingsdemping een bedrag van € 2.750.000,00 beschikbaar, waarvan € 1.375.000,00 voor Thema A als bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&bijlage=4&z=2024-07-05&g=2024-07-05) en € 1.375.000,00 voor Thema B als bedoeld in bijlage 4;
 
 - d. Optica een bedrag van € 2.500.000,00 beschikbaar; en
 
 - e. Thermische deformaties een bedrag van € 2.250.000,00 beschikbaar.
 
-2. De minister stelt per openstellingsperiode een subsidieplafond vast en werkt de technologiedomeinen per openstelling uit als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&bijlage=2&z=2024-04-23&g=2024-04-23) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&bijlage=4&z=2024-04-23&g=2024-04-23) bij deze regeling die door wijziging van deze regeling aan deze regeling zal worden gevoegd.
+2. De minister stelt per openstellingsperiode een subsidieplafond vast en werkt de technologiedomeinen per openstelling uit als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&bijlage=2&z=2024-07-05&g=2024-07-05), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&bijlage=4&z=2024-07-05&g=2024-07-05) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&bijlage=5&z=2024-07-05&g=2024-07-05) bij deze regeling die door wijziging van deze regeling aan deze regeling zal worden gevoegd.
 
 ##### Artikel 12. Weigeringsgronden
 
@@ -216,7 +216,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 - c. gegronde reden bestaat om aan te nemen dat de te verlenen subsidie niet of in onvoldoende mate zal worden besteed of bijdragen aan het doel waarvoor de subsidie is bedoeld;
 
-- d. een aanvraag inhoudelijk overwegend overlapt met een hoger gerangschikte aanvraag na rangschikking op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&artikel=10&z=2024-04-23&g=2024-04-23).
+- d. een aanvraag inhoudelijk overwegend overlapt met een hoger gerangschikte aanvraag na rangschikking op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&artikel=10&z=2024-07-05&g=2024-07-05).
 
 ##### Artikel 13. Verplichtingen subsidie
 
@@ -312,9 +312,9 @@ Het Limburgs Instituut voor Ontwikkeling en Financiering (LIOF) is belast met de
 
 ### Openstelling Trillingsvrij koelen
 
-De openstellingstermijn, zoals bedoeld in [artikel 8, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&artikel=8&z=2024-04-23&g=2024-04-23) van de R&D regeling technologiedomeinen Einstein Telescope voor het technologiedomein Trillingsvrij koelen loopt vanaf het moment van publicatie van deze R&D regeling tot en met 24 november 2023 om 23:59.
+De openstellingstermijn, zoals bedoeld in [artikel 8, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&artikel=8&z=2024-07-05&g=2024-07-05) van de R&D regeling technologiedomeinen Einstein Telescope voor het technologiedomein Trillingsvrij koelen loopt vanaf het moment van publicatie van deze R&D regeling tot en met 24 november 2023 om 23:59.
 
-Het subsidieplafond, zoals bedoeld in [artikel 11, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&artikel=11&z=2024-04-23&g=2024-04-23) van de R&D regeling technologiedomeinen Einstein Telescope bedraagt € 2.585.000,00
+Het subsidieplafond, zoals bedoeld in [artikel 11, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&artikel=11&z=2024-07-05&g=2024-07-05) van de R&D regeling technologiedomeinen Einstein Telescope bedraagt € 2.585.000,00
 
 ## Bijlage 3. – Kaders intellectueel eigendom in de consortiumovereenkomst
 
@@ -332,7 +332,7 @@ Tenslotte worden er afspraken vastgelegd over het gebruik en exploitatie van voo
 
 **Deze bijlage hoort bij de artikelen 8 en 11 van de R&D regeling technologiedomeinen Einstein Telescope**
 
-De openstellingstermijn, zoals bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&artikel=8&z=2024-04-23&g=2024-04-23) van de R&D-regeling technologiedomeinen Einstein Telescope voor het technologiedomein Trillingsdemping loopt vanaf [22 april 2024] tot en met 31 mei 2024 23:59 uur. Het subsidieplafond, zoals bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&artikel=11&z=2024-04-23&g=2024-04-23) van de R&D-regeling technologiedomeinen Einstein Telescope bedraagt € 2.750.000,00.
+De openstellingstermijn, zoals bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&artikel=8&z=2024-07-05&g=2024-07-05) van de R&D-regeling technologiedomeinen Einstein Telescope voor het technologiedomein Trillingsdemping loopt vanaf [22 april 2024] tot en met 31 mei 2024 23:59 uur. Het subsidieplafond, zoals bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&artikel=11&z=2024-07-05&g=2024-07-05) van de R&D-regeling technologiedomeinen Einstein Telescope bedraagt € 2.750.000,00.
 
 - 1. **Introductie** Om de waarnemingsgevoeligheid van de Einstein Telescope (hierna: ET) te kunnen bereiken, moet het grootste deel van het instrument gemaakt zijn van uiterst nauwkeurige componenten, drastisch geïsoleerd van alle storingsbronnen en in het bijzonder van seismische bewegingen. Alleen op die manier kan ruis dusdanig worden verminderd dat het mogelijk is zwaartekrachtgolven te meten. Binnen dit domein staat de ontwikkeling van geavanceerde trillingsisolatiesystemen voor de kern- en hulpoptiek van de ET centraal. Hieronder staat een nadere toelichting.
 
@@ -365,3 +365,27 @@ De openstellingstermijn, zoals bedoeld in [artikel 8, eerste lid](https://wetten
 - •. ERC OmniSense-project: in dit project wordt een seismometer met zes vrijheidsgraden en laserinterferometrische uitlezing ontwikkeld en gedemonstreerd bij de besturing van een actief trillingsisolatieplatform. Er wordt verwacht dat het nieuwe inertiële detectieconcept aanzienlijke vooruitgang zal brengen in kantelstabilisatie. Het OmniSense-experiment wordt gebouwd op Nikhef, Amsterdam.
 
 - •. ETpathfinder: deze faciliteit in Maastricht is de belangrijkste R&D-infrastructuur voor de ET in de EMR Euregio. Het bestaat uit twee complete interferometers, met cryogene kernoptiek, met hetzelfde complexiteitsniveau als een zwaartekrachtgolfdetector. De spiegels worden opgehangen in ultrahoog vacuüm met behulp van ultramoderne technologie; de infrastructuur zal echter het testen van geavanceerde ophangingsregelingen en nieuw ontwikkelde componenten mogelijk maken.
+
+## Bijlage 5. – Openstelling Optica
+
+**Deze bijlage hoort bij de artikelen 8 en 11 van de R&D-regeling technologiedomeinen Einstein Telescope**
+
+De openstellingstermijn, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&artikel=8&z=2024-07-05&g=2024-07-05), van de R&D-regeling technologiedomeinen Einstein Telescope voor het technologiedomein Optica loopt vanaf 7 juli 2024 tot en met 12 september 2024 om 23:59 uur. Het subsidieplafond, bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&artikel=11&z=2024-07-05&g=2024-07-05), van de R&D-regeling technologiedomeinen Einstein Telescope bedraagt € 2.500.000,00.
+
+- 1. **Introductie** De toekomstige Einstein Telescope (hierna: ET) is een observatorium voor zwaartekrachtgolven dat afhankelijk is van de meting van minieme relatieve lengteverschillen tussen de kilometerslange armen van een laserinterferometer. Optische systemen zijn een cruciaal aspect van ET; de 200 kg super gepolijste spiegels met speciaal geoptimaliseerde coatings aan de uiteinden van de armen dienen als testmassa's; een ultrastabiele laser levert de monochromatische laserstralen die de testmassa's peilen; talloze extra optische systemen en sensoren dienen om het instrument te controleren en te stabiliseren om de signatuur van de passage van een zwaartekrachtgolf door ET te kunnen detecteren als een minuscule 'flikkering' in de fotodetector (fotodiode) die de intensiteit van de samengevoegde laserstralen registreert. Hieronder staat een nadere toelichting.
+
+- 2. **Uitdaging samengevat** Ontwikkelen en interferometrisch testen van grote (10–45 cm diameter) siliciumspiegels met een bulkabsorptie voor 1.550 Newtonmeter (hierna:nm) laserlicht van minder dan een paar delen per miljoen (hierna: ppm) per cm en super gepolijste oppervlakken met een vlakheid van minder dan ±2 nm, een kwadratisch gemiddelde ruwheid van minder dan 100 picometer (hierna: pm). De gepolijste oppervlakken moeten een gemiddelde laserlicht absorptie van minder 50 ppm hebben (waarvan de oorsprong bekend moet zijn) en gecoat zijn met een ruisarme, hoge reflectiviteit coating met een absorptie van minder dan 5 ppm.
+
+- 3. **Uitdaging van optica in meer detail** Een van de unieke eigenschappen van ET is het gebruik van cryogeen gekoelde silicium spiegels om de gevoeligheid voor lage gravitatiegolffrequenties (onder de 20 Hertz (hierna: Hz) aanzienlijk te verbeteren door de thermische ruis in met name de spiegelcoatings en -suspensies te verminderen. Bepaalde types kristallijn silicium, een bekend materiaal uit de halfgeleiderindustrie, zijn ideaal voor dit doel; naast zijn uitstekende mechanische kwaliteitsfactor vertoont silicium een verwaarloosbare thermische uitzettingscoëfficiënt bij temperaturen rond de 120 en onder de 20 Kelvin (hierna: K), en, wat nog belangrijker is, het wordt een uitstekende thermische geleider bij een lage temperatuur. Thermische spiegelvervormingen zullen sterk verminderen in vergelijking met glazen (amorfe siliciumdioxide) spiegels. Wat betreft het kristallijne siliciumsubstraat, of ingot, moet de bulkabsorptie van het laserlicht dat de spiegels verwarmt onder ongeveer 5 ppm/cm worden gehouden om de spiegels, met name bij 20 K, op een stabiele cryogene temperatuur te kunnen houden. Aangezien resterende vrije ladingsdragers de absorptie domineren bij de beoogde golflengten van 1,5 – 2,0 micrometer (hierna:µm), zijn substraten met een hoge weerstand (beter dan 10 kΩcm) vereist. Terwijl float-zone gegroeid silicium de vereiste hoge weerstand bereikt, is het technisch beperkt tot kleinere diameters. Groeiprocessen die grote substraten bereiken met weinig onzuiverheden, zoals magnetisch ondersteunde Czochralsky-processen, moeten verder worden onderzocht. Polijstprocessen die dezelfde specificaties kunnen leveren op siliciumsubstraten moeten onderzocht worden en hun kwaliteit moet bewezen worden door geschikte metrologie, inclusief parameters zoals doorgelaten golffrontvervorming en absorptie op het oppervlak en in de bulk. Met het oog op de verschillende golflengtes en de cryogene temperaturen moeten er geheel nieuwe meerlaagse coatings worden ontwikkeld.
+
+- 4. **Specifieke doelstelling(en) binnen dit domein** Binnen dit domein zijn de volgende specifieke uitdagingen waarbij de inbreng van het bedrijfsleven is gewenst. Ontwikkelen en interferometrisch testen van grote (10–45 cm diameter) siliciumspiegels met een bulkabsorptie voor 1.550 nm laserlicht van minder dan een ppm per cm en super gepolijste oppervlakken met een vlakheid van minder dan ±2 nm en een kwadratisch gemiddelde ruwheid van minder dan 100 pm. Hierbij zijn de volgende elementen van belang:
+
+- •. Het onderzoeken van de correlatie van het polijstproces en de absorptie van de 1.550 nm laserlicht aan de oppervlakte van de spiegels met het doel de absorptie te reduceren.
+
+- •. Het ontwikkelen en testen van nieuwe materialen voor coatings met een hoge reflectiviteit, lage thermische ruis bij een temperatuur van 20 K en een lage absorptie voor 1.550 nm laserlicht.
+
+- 5. **Gerelateerde projecten** In een aantal gerelateerde projecten is reeds vooronderzoek gedaan naar deze technologie:
+
+- •. ETpathfinder: In dit project – tevens de R&D faciliteit voor de Einstein Telescope – kan de opstelling worden geïntegreerd en getest.
+
+- •. LIGO / VIRGO: De polijstspecificaties van het silicium zullen voor de meeste parameters vergelijkbaar zijn met de zeer hoge eisen die momenteel worden gesteld aan amorfe siliciumdioxide voor de LIGO- en Virgo-observatoria. Deze spiegels (ongeveer 40 kg per stuk) worden gepolijst met een kromtestraal van ongeveer 2 km, met een vlakheid van ±2 nm en een ruwheid van minder dan 0,1 nm. Deze precisie wordt bereikt met behulp van elektrolytisch polijsten, beitsen met ionenbundel en corrigerende coatings. De reflectiviteit van deze spiegels is 99,999%, de gemeten bulkabsorptie van de spiegel substraat is minder dan 1 ppm/cm, en de absorptie van de coatings is minder dan 0.5 ppm per coating.
