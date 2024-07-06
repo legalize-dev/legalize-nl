@@ -4,7 +4,7 @@ identifier: "BWBR0049937"
 country: "nl"
 rank: "kb"
 publication_date: "2024-07-06"
-last_updated: "2024-07-02"
+last_updated: "2024-07-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049937"
 soort: "KB"
@@ -52,7 +52,7 @@ De taken van het Ministerie van Sociale Zaken en Werkgelegenheid worden dienover
 
 ##### Artikel 3
 
-De organisatorische, personele en rechtspositionele aspecten van de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049937&artikel=1&z=2024-07-06&g=2024-07-02) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0049937&artikel=2&z=2024-07-06&g=2024-07-02) bedoelde herindeling van departementale taken worden uitgewerkt in overleg tussen Onze Minister van Justitie en Veiligheid, Onze Minister van Sociale Zaken en Werkgelegenheid en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
+De organisatorische, personele en rechtspositionele aspecten van de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049937&artikel=1&z=2024-07-06&g=2024-07-06) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0049937&artikel=2&z=2024-07-06&g=2024-07-06) bedoelde herindeling van departementale taken worden uitgewerkt in overleg tussen Onze Minister van Justitie en Veiligheid, Onze Minister van Sociale Zaken en Werkgelegenheid en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
 ##### Artikel 4
 
@@ -64,7 +64,7 @@ De taken van het Ministerie van Economische Zaken worden dienovereenkomstig gewi
 
 ##### Artikel 6
 
-De organisatorische, personele en rechtspositionele aspecten van de in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049937&artikel=4&z=2024-07-06&g=2024-07-02) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0049937&artikel=5&z=2024-07-06&g=2024-07-02) bedoelde herindeling van departementale taken worden uitgewerkt in overleg tussen Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Economische Zaken.
+De organisatorische, personele en rechtspositionele aspecten van de in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049937&artikel=4&z=2024-07-06&g=2024-07-06) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0049937&artikel=5&z=2024-07-06&g=2024-07-06) bedoelde herindeling van departementale taken worden uitgewerkt in overleg tussen Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Economische Zaken.
 
 ##### Artikel 7
 
