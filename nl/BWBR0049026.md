@@ -4,7 +4,7 @@ identifier: "BWBR0049026"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-16"
-last_updated: "2023-06-01"
+last_updated: "2024-07-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049026"
 soort: "ministeriele-regeling"
@@ -54,99 +54,89 @@ In dit besluit wordt verstaan onder:
 
 2. De overige leden van de commissie zijn:
 
-- a. S.A.H. (Ali) Shah
+- –. A. (Akram) Achahboun
 
-- b. A. (Anass) Boukakar
+- –. B. (Bilal) el Allouchi
 
-- c. B. (Bilal) el Allouchi
+- –. E.G. (Elija) Alvares
 
-- d. B.L. (Boris) Odinot
+- –. C.T. (Chinyere) Aronu
 
-- e. C. (Caroline) Verkerk
+- –. Y. (Youssef) Boutkabout
 
-- f. C.T. (Chinyere) Aronu
+- –. Z. (Zaid) Bakdounes
 
-- g. C.A.G.M. (Corinne) Vellekoop
+- –. A. (Anass) Boukakar
 
-- h. E.S. (Emily) de Laat
+- –. G.G.A. (Gilbert) Vanblarcum
 
-- i. E. (Evelien) Wieringa
+- –. V.E.M. (Valeski) Boor
 
-- j. F.A. (Femke) Soethout
+- –. J. (Joost) Dijkstra
 
-- k. H.A.M. (Hans) Migchielsen
+- –. K. (Kaya) van den Dikkenberg
 
-- l. I. (Irene) de Kort
+- –. N. (Noa) Dunnewind
 
-- m. I. (Isra) Khogali
+- –. P.A.J. (Pieter) Folkeringa
 
-- n. J.J.B. (Jacqueline) van der Velden
+- –. G.E. (Rochelle) Heerema-Richardson
 
-- o. J. (Jan) Faber
+- –. S.H. (Selim) Helmi
 
-- p. J. (Joost) Dijkstra
+- –. I. (Isra) Khogali
 
-- q. J. J. (Josiemar) van der Werp
+- –. M.J. (Marcel) van Kleij
 
-- r. K. (Karen) Klijnhout
+- –. D.C. (Dwight) Krolis
 
-- s. K. (Kaya) van den Dikkenberg
+- –. E.S. (Emily) de Laat
 
-- t. K. (Kirsten) Ottens
+- –. J.Y. (Jessy Yasmeen) Lugo
 
-- u. L. (Lanja) van Wingerden
+- –. A.E.M. (Djela) Breinburg-Maduro
 
-- v. M.J. (Marcel) van Kleij
+- –. S. (Salwa) Ringim Mohammed
 
-- w. M. (Margriet) de Jager
+- –. M. (Mourad) El Moussati
 
-- x. M.S. (Maria) Stortelder
+- –. K. (Kirsten) Ottens
 
-- y. M. (Marije) Andriaansens
+- –. K.J. (Karen) Retera
 
-- z. M. (Marit) Martens-Scheers
+- –. R.B.M.S. (Rhobynn) van Rossen
 
-- aa. M.F.G. (Matthijs) Verbeek
+- –. M. (Marit) Scheers
 
-- bb. M.J.M. (Maud) Stamsnijder
+- –. F.A. (Femke) Soethout
 
-- cc. M.H. (Melle) Zwart
+- –. M.J.M. (Maud) Stamsnijder
 
-- dd. N.D.R (Niels) Zagema
+- –. S. (Sue) van Soest
 
-- ee. N. (Noa) Dunnewind
+- –. P. (Parnav) Sira
 
-- ff. N.F. (Noraly) van Tinteren
+- –. N.F. (Noraly) van Tinteren
 
-- gg. P. (Parnav) Sira
+- –. J.J.B. (Jacqueline) van der Velden
 
-- hh. P. (Patricia) van der Horst – de Ruijter
+- –. C.A.G.M. (Corinne) Vellekoop
 
-- ii. P. (Anna) Versteegh
+- –. M.F.G. (Matthijs) Verbeek
 
-- jj. P.A.J. (Pieter) Folkeringa
+- –. L. (Lanja) van Wingerden
 
-- kk. R.B.M.S. (Rhobynn) van Rossen
+- –. N.D.R (Niels) Zagema
 
-- ll. S. (Salwa) Ringim Mohammed
+- –. M.H. (Melle) Zwart
 
-- mm. S.H. (Selim) Helmi
-
-- nn. S.R. (Sidney) Janssen
-
-- oo. S. (Sue) van Soest
-
-- pp. S. (Susanna) Koppe
-
-- qq. T. (Tessa) Huizing
-
-- rr. Y. (Youssef) Boutkabout
-
-3. De minister benoemt de leden en de voorzitter ten behoeve van de beoordeling van subsidieregeling MDT 2023 voor de periode van 1 juni 2023 tot 1 februari 2024.
+3. De minister benoemt de leden en de voorzitter ten behoeve van de beoordeling van subsidieregeling MDT 2024 voor de periode tot 1 februari 2025.
 
 ##### Artikel 3. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 juni 2023.
+1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 juni 2023.
+
+2. Dit besluit vervalt met ingang van 1 juli 2027.
 
 ##### Artikel 4. Citeertitel
 
