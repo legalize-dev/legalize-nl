@@ -4,7 +4,7 @@ identifier: "BWBR0043412"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-07-10"
-last_updated: "2020-04-25"
+last_updated: "2024-07-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043412"
 soort: "ministeriele-regeling"
@@ -52,11 +52,11 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2. Aanwijzing
 
-Als de rechtspersoon, bedoeld in [artikel 7.15a, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.15a), wordt aangewezen de Stichting Studiekeuze123 die is belast met het vervullen van een niet-economische dienst van algemeen belang op het terrein van het hoger onderwijs. Stichting Studiekeuze123 wordt belast met de uitoefening van de taken, bedoeld in artikel 7.15a, eerste en tweede lid, van de wet.
+Als de rechtspersoon, bedoeld in [artikel 7.15a, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.15a), wordt aangewezen de Stichting Landelijk Centrum Studiekeuze die is belast met het vervullen van een niet-economische dienst van algemeen belang op het terrein van het hoger onderwijs. Stichting Landelijk Centrum Studiekeuze wordt belast met de uitoefening van de taken, bedoeld in artikel 7.15a, eerste en tweede lid, van de wet.
 
 ##### Artikel 3. Verplichtingen
 
-1. Stichting Studiekeuze123 draagt in verband met de uitoefening van haar taken zorg voor:
+1. Stichting Landelijk Centrum Studiekeuze draagt in verband met de uitoefening van haar taken zorg voor:
 
 - a. het kosteloos en zo toegankelijk mogelijk verstrekken van studiekeuze-informatie;
 
@@ -68,9 +68,9 @@ Als de rechtspersoon, bedoeld in [artikel 7.15a, eerste lid van de wet](https://
 
 - e. continue verbetering van de uitoefening van haar taak en de kwaliteit van studiekeuze-informatie.
 
-2. Stichting Studiekeuze123 draagt zorg voor een zorgvuldige uitvoering van haar taken en toezicht daarop, door:
+2. Stichting Landelijk Centrum Studiekeuze draagt zorg voor een zorgvuldige uitvoering van haar taken en toezicht daarop, door:
 
-- a. het instellen van een raad van toezicht die blijkens de statuten deskundig en van het bestuur onafhankelijk toezicht houdt op het bestuur van Stichting Studiekeuze123 en op de algemene gang van zaken;
+- a. het instellen van een raad van toezicht die blijkens de statuten deskundig en van het bestuur onafhankelijk toezicht houdt op het bestuur van Stichting Landelijk Centrum Studiekeuze en op de algemene gang van zaken;
 
 - b. het instellen van een bestuur door de Raad van Toezicht, dat voldoende is toegerust om haar taken naar behoren te kunnen uitoefenen;
 
@@ -78,36 +78,40 @@ Als de rechtspersoon, bedoeld in [artikel 7.15a, eerste lid van de wet](https://
 
 - d. voorafgaand aan beslissingen die van wezenlijke belang zijn voor hogeronderwijsinstellingen en studenten in het hoger onderwijs, dient het bestuur van Studiekeuze123 vertegenwoordigers van het onderwijsveld, zoals de Vereniging Hogescholen, de Vereniging van Nederlandse Universiteiten, het Interstedelijk Studenten Overleg, de Landelijke Studenten Vakbond en de Nederlandse Raad voor Training en Opleiding, in de besluitvorming te consulteren en informeren; en
 
-- e. de wijze van toezicht in de statuten van de Stichting Studiekeuze123 te omschrijven.
+- e. de wijze van toezicht in de statuten van de Stichting Landelijk Centrum Studiekeuze te omschrijven.
 
 ##### Artikel 4. Toezicht en verantwoording
 
-1. Studiekeuze123 is gehouden het Ministerie van Onderwijs, Cultuur en Wetenschap vooraf schriftelijk te consulteren over te nemen besluiten die van wezenlijke invloed zijn op de uitoefening door de rechtspersoon van haar wettelijke taken.
+1. Landelijk Centrum Studiekeuze is gehouden het Ministerie van Onderwijs, Cultuur en Wetenschap vooraf schriftelijk te consulteren over te nemen besluiten die van wezenlijke invloed zijn op de uitoefening door de rechtspersoon van haar wettelijke taken.
 
-2. Studiekeuze123 verstrekt desgevraagd aan Onze Minister voor de uitoefening van zijn taak de benodigde inlichtingen.
+2. Landelijk Centrum Studiekeuze verstrekt desgevraagd aan Onze Minister voor de uitoefening van zijn taak de benodigde inlichtingen.
 
-3. Onze Minister kan Studiekeuze123 aanwijzingen geven met betrekking tot de uitoefening van haar wettelijke taken. De rechtspersoon is gehouden overeenkomstig de aanwijzingen te handelen.
+3. Onze Minister kan Landelijk Centrum Studiekeuze aanwijzingen geven met betrekking tot de uitoefening van haar wettelijke taken. De rechtspersoon is gehouden overeenkomstig de aanwijzingen te handelen.
 
-4. Onze Minister kan slechts een aanwijzing geven indien het bestuur van Studiekeuze123, binnen een door de Raad van Toezicht te bepalen periode, na ontvangst van een voorafgaand advies van de Raad van Toezicht niet opvolgt.
+4. Onze Minister kan slechts een aanwijzing geven indien het bestuur van Landelijk Centrum Studiekeuze, binnen een door de Raad van Toezicht te bepalen periode, na ontvangst van een voorafgaand advies van de Raad van Toezicht niet opvolgt.
 
-5. Onze Minister kan, indien het daartoe gronden aanwezig acht, de boekhouding van Studiekeuze123 laten onderzoeken door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393). De kosten van dit onderzoek komen voor rekening van de rechtspersoon.
+5. Onze Minister kan, indien het daartoe gronden aanwezig acht, de boekhouding van Landelijk Centrum Studiekeuze laten onderzoeken door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393). De kosten van dit onderzoek komen voor rekening van de rechtspersoon.
 
-##### Artikel 6. Intrekking
+##### Artikel 6. Archiefbescheiden
 
-1. Naast de gronden tot intrekking, bedoeld in [artikel 7.15a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.15a), kan Onze Minister de aanwijzing van Stichting Studiekeuze123 in ieder geval intrekken indien Stichting Studiekeuze123 de algemene verplichtingen en voorwaarden omtrent toezicht en verantwoording, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043412&artikel=3&z=2020-04-25&g=2020-04-25) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0043412&artikel=4&z=2020-04-25&g=2020-04-25) van dit besluit, niet naar behoren nakomt. Indien dit zich voordoet, zal Onze Minister in de eerste plaats een waarschuwing geven. Indien deze waarschuwing niet of in onvoldoende mate binnen 4 weken wordt opgevolgd, kan Onze Minister besluiten de aanwijzing in te trekken.
+Stichting Landelijk Centrum Studiekeuze draagt op verzoek van de Minister zo spoedig mogelijk na beëindiging van haar werkzaamheden in het kader van de uitvoering van haar taken of, zo de omstandigheden daartoe aanleiding geven, zoveel eerder, de bescheiden betreffende die werkzaamheden over aan het archief van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
-2. Onze Minister draagt er zorg voor dat uiterlijk vijf jaar na inwerkingtreding van [artikel 7.15a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.15a) en dit besluit de taken van de aangewezen rechtspersoon en de uitvoering hiervan, worden geëvalueerd. Op basis van deze evaluatie kan Onze Minister besluiten het aanwijzingsbesluit te wijzingen of in te trekken.
-
-##### Artikel 7. Archiefbescheiden
-
-Stichting Studiekeuze123 draagt op verzoek van de Minister zo spoedig mogelijk na beëindiging van haar werkzaamheden in het kader van de uitvoering van haar taken of, zo de omstandigheden daartoe aanleiding geven, zoveel eerder, de bescheiden betreffende die werkzaamheden over aan het archief van het Ministerie van Onderwijs, Cultuur en Wetenschap.
-
-##### Artikel 8. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 april 2020. Indien de Staatscourant waarin dit besluit wordt geplaatst, wordt uitgegeven na 1 april 2020, treedt het in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin dit besluit wordt geplaatst.
+
+##### Artikel 8. Citeertitel
+
+Dit besluit wordt aangehaald als: Aanwijzingsbesluit Landelijk Centrum Studiekeuze.
 
 ##### Artikel 9. Citeertitel
 
 Dit besluit wordt aangehaald als: Aanwijzingsbesluit Studiekeuze123.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 5. Intrekking
+
+1. Naast de gronden tot intrekking, bedoeld in [artikel 7.15a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.15a), kan Onze Minister de aanwijzing van Stichting Landelijk Centrum Studiekeuze in ieder geval intrekken indien Stichting Landelijk Centrum Studiekeuze de algemene verplichtingen en voorwaarden omtrent toezicht en verantwoording, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043412&artikel=3&z=2024-07-10&g=2024-07-10) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0043412&artikel=4&z=2024-07-10&g=2024-07-10) van dit besluit, niet naar behoren nakomt. Indien dit zich voordoet, zal Onze Minister in de eerste plaats een waarschuwing geven. Indien deze waarschuwing niet of in onvoldoende mate binnen 4 weken wordt opgevolgd, kan Onze Minister besluiten de aanwijzing in te trekken.
+
+2. Onze Minister draagt er zorg voor dat uiterlijk vijf jaar na inwerkingtreding van [artikel 7.15a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.15a) en dit besluit de taken van de aangewezen rechtspersoon en de uitvoering hiervan, worden geëvalueerd. Op basis van deze evaluatie kan Onze Minister besluiten het aanwijzingsbesluit te wijzingen of in te trekken.
