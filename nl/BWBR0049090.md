@@ -4,7 +4,7 @@ identifier: "BWBR0049090"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-07-10"
-last_updated: "2023-12-23"
+last_updated: "2024-07-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049090"
 soort: "AMvB"
@@ -82,19 +82,13 @@ Wijzigt het Besluit bewijs van verzekering niet-kentekenplichtige motorrijtuigen
 
 Wijzigt het Besluit Markttoegang financiële ondernemingen Wft.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel 9
 
 Wijzigt het Besluit prudentiële regels Wft.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel 10
 
 Wijzigt het Besluit politiegegevens.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 11
 
