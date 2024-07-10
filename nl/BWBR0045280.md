@@ -4,7 +4,7 @@ identifier: "BWBR0045280"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-07-10"
-last_updated: "2022-01-25"
+last_updated: "2024-07-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045280"
 soort: "ministeriele-regeling"
@@ -54,11 +54,15 @@ Besluit:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045280&artikel=2&z=2022-01-25&g=2022-01-25).
+In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045280&artikel=2&z=2024-07-10&g=2024-07-10).
 
 ##### Artikel 2
 
-Als buitengewoon opsporingsambtenaar worden aangewezen de ambtenaren van politie, bedoeld in [artikel 2, onder b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), werkzaam in de functie medewerker assistent Intake en Service en/of medewerker Intake en Service, die hun werkgebied hebben in de regionale eenheid Oost-Brabant.
+Als buitengewoon opsporingsambtenaar worden aangewezen:
+
+- 1. de ambtenaren van politie, bedoeld in [artikel 2, onder b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), werkzaam in de functie medewerker assistent Intake en Service en/of medewerker Intake en Service, die hun werkgebied hebben in de regionale eenheid Oost-Brabant.
+
+- 2. de vrijwillig ambtenaren van politie bedoeld in [artikel 2, onder c, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2) voor zover zij zijn aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie, die hun werkgebied hebben in de regionale eenheid Oost-Brabant.
 
 ##### Artikel 3
 
@@ -82,19 +86,19 @@ Op grond van dit besluit kunnen maximaal 15 personen als buitengewoon opsporings
 
 1. De korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27) brengt jaarlijks, voor 1 april, verslag uit over:
 
-- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in artikel 2 genoemde functie;
+- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045280&artikel=2&z=2024-07-10&g=2024-07-10) genoemde functie;
 
 - b. de door die buitengewoon opsporingsambtenaren verrichte activiteiten;
 
 - c. de stand van zaken met betrekking tot de opleiding van die buitengewoon opsporingsambtenaren, waarbij in ieder geval wordt aangegeven hoeveel personen in het verslagjaar zijn aangemeld voor het door de Minister voor Rechtsbescherming goedgekeurde examen en hoeveel personen in dat jaar voor dat examen zijn geslaagd.
 
-2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045280&artikel=5&z=2022-01-25&g=2022-01-25) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Justitie en Veiligheid, Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
+2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045280&artikel=5&z=2024-07-10&g=2024-07-10) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Justitie en Veiligheid, Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
 
 3. Aan de buitengewoon opsporingsambtenaar wordt op grond van het gestelde in het onderdeel Beperkte opsporingsbevoegdheden van [bijlage H van de Beleidsregels Buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0039766&bijlage=H), ontheffing verleend van het bepaalde in [artikel 16, eerste lid, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=16).
 
 ##### Artikel 7
 
-De op naam gestelde akten van beëdiging en de overige benoemingsbescheiden, afgegeven mede op basis van het in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0045280&artikel=9&z=2022-01-25&g=2022-01-25) genoemde besluit, worden geacht mede te zijn afgegeven op basis van dit besluit.
+De op naam gestelde akten van beëdiging en de overige benoemingsbescheiden, afgegeven mede op basis van het in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0045280&artikel=9&z=2024-07-10&g=2024-07-10) genoemde besluit, worden geacht mede te zijn afgegeven op basis van dit besluit.
 
 Dit artikel brengt geen wijziging in de resterende looptijd van de afgegeven aktes.
 
