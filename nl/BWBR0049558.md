@@ -4,7 +4,7 @@ identifier: "BWBR0049558"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-28"
-last_updated: "2024-04-10"
+last_updated: "2024-07-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049558"
 soort: "ministeriele-regeling"
@@ -118,7 +118,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 ##### Artikel 5. Subsidieplafonds en deelplafonds
 
-1. Voor subsidieverstrekking op aanvragen die in het eerste aanvraagtijdvak, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049558&artikel=4&z=2024-04-10&g=2024-04-10), zijn ingediend, is een bedrag beschikbaar van in totaal € 16.274.000, waarvan:
+1. Voor subsidieverstrekking op aanvragen die in het eerste aanvraagtijdvak, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049558&artikel=4&z=2024-07-10&g=2024-07-10), zijn ingediend, is een bedrag beschikbaar van in totaal € 16.274.000, waarvan:
 
 - a. € 4.805.000, beschikbaar is voor het primair onderwijs en primair onderwijs BES;
 
@@ -126,21 +126,15 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 - c. € 1.555.000, beschikbaar is voor het speciaal onderwijs en het voortgezet speciaal onderwijs.
 
-2. Voor subsidieverstrekking op aanvragen die in het tweede aanvraagtijdvak, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049558&artikel=4&z=2024-04-10&g=2024-04-10), zijn ingediend, is een bedrag beschikbaar van in totaal € 22.812.500, waarvan:
+2. Voor subsidieverstrekking op aanvragen die in het tweede aanvraagtijdvak, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049558&artikel=4&z=2024-07-10&g=2024-07-10), zijn ingediend, is een bedrag beschikbaar van in totaal € 23.432.129, waarvan:
 
-- a. € 8.662.500, beschikbaar is voor het primair onderwijs en primair onderwijs BES, niet zijnde speciaal onderwijs, speciaal basisonderwijs en het voortgezet speciaal onderwijs;
+- a. € 8.897.789 beschikbaar is voor het primair onderwijs en primair onderwijs BES, niet zijnde speciaal onderwijs, speciaal basisonderwijs en het voortgezet speciaal onderwijs;
 
-- b. € 12.350.000, beschikbaar is voor het voortgezet onderwijs; en
+- b. € 12.685.449 beschikbaar is voor het voortgezet onderwijs; en
 
-- c. € 1.800.000, beschikbaar is voor het speciaal onderwijs, speciaal basisonderwijs en het voortgezet speciaal onderwijs.
+- c. € 1.848.891 beschikbaar is voor het speciaal onderwijs, speciaal basisonderwijs en het voortgezet speciaal onderwijs.
 
 3. Indien één of meerdere bedragen, bedoeld in het eerste en tweede lid, niet of niet volledig worden benut, worden de resterende middelen naar rato verdeeld over de andere subsidieplafonds in het betreffende lid.
-
-4. Als de middelen bedoeld in het eerste lid, na toepassing van het derde lid, niet volledig worden benut, kan het resterende bedrag, door wijziging van de desbetreffende subsidieregeling, worden toegevoegd aan het beschikbare budget voor:
-
-- a. het tweede aanvraagtijdvak, bedoeld in het tweede lid; of
-
-- b. de [Subsidieregeling verbetering basisvaardigheden voor scholen 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049554).
 
 ##### Artikel 6. Subsidiebedrag
 
@@ -152,9 +146,9 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 ##### Artikel 7. Wijze van verdeling beschikbare middelen
 
-1. Indien de toewijzing van alle daarvoor in aanmerking komende aanvragen voor een subsidie zou leiden tot overschrijding van een subsidieplafond als bedoeld in [artikel 5, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049558&artikel=5&z=2024-04-10&g=2024-04-10), krijgen de aanvragen met betrekking tot de vestigingen van prioriteitsscholen in Caribisch Nederland voorrang. Indien de toewijzing van alle aanvragen van prioriteitsscholen in Caribisch Nederland zou leiden tot overschrijding van een subsidieplafond als bedoeld in artikel 5, eerste of tweede lid, worden deze aanvragen gerangschikt op volgorde van binnenkomst van de aanvragen.
+1. Indien de toewijzing van alle daarvoor in aanmerking komende aanvragen voor een subsidie zou leiden tot overschrijding van een subsidieplafond als bedoeld in [artikel 5, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049558&artikel=5&z=2024-07-10&g=2024-07-10), krijgen de aanvragen met betrekking tot de vestigingen van prioriteitsscholen in Caribisch Nederland voorrang. Indien de toewijzing van alle aanvragen van prioriteitsscholen in Caribisch Nederland zou leiden tot overschrijding van een subsidieplafond als bedoeld in artikel 5, eerste of tweede lid, worden deze aanvragen gerangschikt op volgorde van binnenkomst van de aanvragen.
 
-2. Vervolgens krijgen aanvragen van prioriteitsscholen met het inspectieoordeel ‘zeer zwak’ voorrang op aanvragen van scholen met het inspectieoordeel ‘onvoldoende’. Indien de toewijzing van alle aanvragen van prioriteitsscholen met het inspectieoordeel ‘zeer zwak’ zou leiden tot overschrijding van een subsidieplafond als bedoeld in [artikel 5, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049558&artikel=5&z=2024-04-10&g=2024-04-10), worden deze aanvragen gerangschikt op volgorde van binnenkomst van de aanvragen.
+2. Vervolgens krijgen aanvragen van prioriteitsscholen met het inspectieoordeel ‘zeer zwak’ voorrang op aanvragen van scholen met het inspectieoordeel ‘onvoldoende’. Indien de toewijzing van alle aanvragen van prioriteitsscholen met het inspectieoordeel ‘zeer zwak’ zou leiden tot overschrijding van een subsidieplafond als bedoeld in [artikel 5, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049558&artikel=5&z=2024-07-10&g=2024-07-10), worden deze aanvragen gerangschikt op volgorde van binnenkomst van de aanvragen.
 
 3. Indien na toepassing van het tweede lid nog middelen resteren, worden de overige aanvragen gerangschikt op volgorde van binnenkomst van de aanvragen.
 
@@ -164,13 +158,13 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 - a. indien aan het bevoegd gezag voor de desbetreffende vestiging eerder subsidie is verstrekt op grond van de [Subsidieregeling verbetering basisvaardigheden in 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0047050) of [2023](https://wetten.overheid.nl/jci1.3:c:BWBR0047996);
 
-- b. indien de kwaliteit van het onderwijs van de desbetreffende schoolvestiging in het primair onderwijs of afdeling in het voortgezet onderwijs door de Inspectie van het Onderwijs bij besluit op de peildatum 1 februari 2024 niet als ‘zeer zwak’ of ‘onvoldoende’ is beoordeeld en voor zover de subsidie is aangevraagd in het eerste tijdvak, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049558&artikel=4&z=2024-04-10&g=2024-04-10);
+- b. indien de kwaliteit van het onderwijs van de desbetreffende schoolvestiging in het primair onderwijs of afdeling in het voortgezet onderwijs door de Inspectie van het Onderwijs bij besluit op de peildatum 1 februari 2024 niet als ‘zeer zwak’ of ‘onvoldoende’ is beoordeeld en voor zover de subsidie is aangevraagd in het eerste tijdvak, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049558&artikel=4&z=2024-07-10&g=2024-07-10);
 
-- c. indien de kwaliteit van het onderwijs van de desbetreffende schoolvestiging in het primair onderwijs of afdeling in het voortgezet onderwijs door de Inspectie van het Onderwijs bij besluit op de peildatum 1 augustus 2024 niet als ‘zeer zwak’ of ‘onvoldoende’ is beoordeeld en voor zover de subsidie is aangevraagd in het tweede tijdvak, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049558&artikel=4&z=2024-04-10&g=2024-04-10).
+- c. indien de kwaliteit van het onderwijs van de desbetreffende schoolvestiging in het primair onderwijs of afdeling in het voortgezet onderwijs door de Inspectie van het Onderwijs bij besluit op de peildatum 1 augustus 2024 niet als ‘zeer zwak’ of ‘onvoldoende’ is beoordeeld en voor zover de subsidie is aangevraagd in het tweede tijdvak, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049558&artikel=4&z=2024-07-10&g=2024-07-10).
 
 ##### Artikel 9. Subsidieverplichtingen
 
-1. In aanvulling op [hoofdstuk 5 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=5) is de subsidieontvanger, voor zover de subsidie is aangevraagd in het eerste tijdvak, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049558&artikel=4&z=2024-04-10&g=2024-04-10), verplicht om:
+1. In aanvulling op [hoofdstuk 5 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=5) is de subsidieontvanger, voor zover de subsidie is aangevraagd in het eerste tijdvak, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049558&artikel=4&z=2024-07-10&g=2024-07-10), verplicht om:
 
 - a. tussen 2 september 2024 en 11 oktober 2024 bij DUS-I een activiteitenplan in te dienen met een omschrijving van de activiteiten die met de subsidie zullen worden uitgevoerd. De aanvrager maakt gebruikt van het formulier dat door DUS-I ter beschikking is gesteld;
 
@@ -186,7 +180,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 - g. uiterlijk acht weken na het verstrijken van de activiteitenperiode een activiteitenverslag in te dienen bij DUS-I.
 
-2. In aanvulling op [hoofdstuk 5 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=5) is de subsidieontvanger, voor zover de subsidie is aangevraagd in het tweede tijdvak, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049558&artikel=4&z=2024-04-10&g=2024-04-10), verplicht om:
+2. In aanvulling op [hoofdstuk 5 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=5) is de subsidieontvanger, voor zover de subsidie is aangevraagd in het tweede tijdvak, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049558&artikel=4&z=2024-07-10&g=2024-07-10), verplicht om:
 
 - a. tussen 6 januari 2025 en 23 februari 2025 bij DUS-I een activiteitenplan in te dienen met een omschrijving van de activiteiten die met de subsidie zullen worden uitgevoerd. De aanvrager maakt gebruikt van het formulier dat door DUS-I ter beschikking is gesteld;
 
