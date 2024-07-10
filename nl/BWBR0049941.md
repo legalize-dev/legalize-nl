@@ -4,7 +4,7 @@ identifier: "BWBR0049941"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-07-10"
-last_updated: "2024-07-01"
+last_updated: "2024-07-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049941"
 soort: "zbo"
@@ -135,7 +135,7 @@ De in deze regeling gehanteerde begrippen hebben dezelfde betekenis als in de [R
 
 - f. het Caribisch deel van het Koninkrijk: de zelfstandige landen Aruba, Curaçao, Sint Maarten en de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-2. De landsdelen zijn leidend in de prioritering van positief beoordeelde voorstellen, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0049941&hoofdstuk=4&artikel=14&z=2024-07-10&g=2024-07-01).
+2. De landsdelen zijn leidend in de prioritering van positief beoordeelde voorstellen, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0049941&hoofdstuk=4&artikel=14&z=2024-07-10&g=2024-07-10).
 
 ##### Artikel 6. Drempelnormen
 
@@ -209,7 +209,7 @@ Een subsidie op grond van deze regeling wordt alleen verstrekt als aan de volgen
 
 3. Aanvragen worden in de Nederlandse of Engelse taal opgesteld.
 
-4. De aanvrager geeft in de aanvraag aan voor welk landsdeel, genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049941&hoofdstuk=2&artikel=5&z=2024-07-10&g=2024-07-01), subsidie wordt aangevraagd. Dit is het landsdeel waar de instelling statutair is gevestigd op het moment dat de aanvraag binnen deze regeling wordt ingediend.
+4. De aanvrager geeft in de aanvraag aan voor welk landsdeel, genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049941&hoofdstuk=2&artikel=5&z=2024-07-10&g=2024-07-10), subsidie wordt aangevraagd. Dit is het landsdeel waar de instelling statutair is gevestigd op het moment dat de aanvraag binnen deze regeling wordt ingediend.
 
 ##### Artikel 10. Inhoud van de aanvraag
 
@@ -261,7 +261,7 @@ Een aanvraag bestaat uit de in dit artikel genoemde onderdelen. Alleen deze docu
 
 ##### Artikel 12. Proces van advisering
 
-1. Getoetst wordt of de aanvraag compleet is en aan de in [artikel 6 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0049941&hoofdstuk=2&artikel=6&z=2024-07-10&g=2024-07-01) gestelde drempelnormen en voorwaarden voldoet.
+1. Getoetst wordt of de aanvraag compleet is en aan de in [artikel 6 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0049941&hoofdstuk=2&artikel=6&z=2024-07-10&g=2024-07-10) gestelde drempelnormen en voorwaarden voldoet.
 
 2. Aanvragen die compleet zijn en daarnaast voldoen aan de drempelnormen en voorwaarden worden ter advisering voorgelegd aan een externe, onafhankelijke adviescommissie.
 
@@ -283,21 +283,21 @@ De adviescommissie hanteert bij de beoordeling van een aanvraag de volgende crit
 
 - d. **de bedrijfsvoering en organisatie:** de bedrijfsvoering en de opzet van de organisatie moeten de instelling in staat stellen om de geplande activiteiten op een verantwoorde en financieel gezonde wijze uit te voeren. Hoe wordt de Fair Practice Code toegepast. Het fonds verwacht een reflectie op de huidige positie ten opzichte van de Fair Practice Code en de ontwikkeling die de instelling hierin voor ogen heeft.
 
-- e. **de consistentie in doel en opzet van de aanvraag:** hierbij worden alle in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0049941&hoofdstuk=3&artikel=10&z=2024-07-10&g=2024-07-01) genoemde onderdelen in onderling verband en samenhang beoordeeld.
+- e. **de consistentie in doel en opzet van de aanvraag:** hierbij worden alle in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0049941&hoofdstuk=3&artikel=10&z=2024-07-10&g=2024-07-10) genoemde onderdelen in onderling verband en samenhang beoordeeld.
 
 ##### Artikel 14. Prioritering & regionale spreiding
 
 De volgende procedure voor prioritering wordt gehanteerd:
 
-- a. de aanvragen worden gerangschikt binnen het door de aanvrager aangegeven landsdeel, op basis van de uitkomst van de scores op de criteria genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0049941&hoofdstuk=4&artikel=13&z=2024-07-10&g=2024-07-01).
+- a. de aanvragen worden gerangschikt binnen het door de aanvrager aangegeven landsdeel, op basis van de uitkomst van de scores op de criteria genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0049941&hoofdstuk=4&artikel=13&z=2024-07-10&g=2024-07-10).
 
-- b. als eerste wordt subsidie verleend aan de twee hoogst gewaardeerde voorstellen binnen elk landsdeel zoals genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049941&hoofdstuk=2&artikel=5&z=2024-07-10&g=2024-07-01). Daarbij geldt dat uitsluitend positief beoordeelde voorstellen in aanmerking komen voor subsidie.
+- b. als eerste wordt subsidie verleend aan de twee hoogst gewaardeerde voorstellen binnen elk landsdeel zoals genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049941&hoofdstuk=2&artikel=5&z=2024-07-10&g=2024-07-10). Daarbij geldt dat uitsluitend positief beoordeelde voorstellen in aanmerking komen voor subsidie.
 
-- c. als de aanvragen bij de toepassing van onderdeel b binnen een landsdeel op basis van de gemiddelde eindscore gelijk eindigen op de ranglijst wordt prioriteit gegeven aan het voorstel dat het hoogst wordt gewaardeerd op criterium a, vervolgens op criterium b, c, d en e, zoals genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0049941&hoofdstuk=4&artikel=13&z=2024-07-10&g=2024-07-01).
+- c. als de aanvragen bij de toepassing van onderdeel b binnen een landsdeel op basis van de gemiddelde eindscore gelijk eindigen op de ranglijst wordt prioriteit gegeven aan het voorstel dat het hoogst wordt gewaardeerd op criterium a, vervolgens op criterium b, c, d en e, zoals genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0049941&hoofdstuk=4&artikel=13&z=2024-07-10&g=2024-07-10).
 
-- d. Het budget dat nog rest na het toepassen van de onderdelen a, b, en c van dit artikel wordt aangewend voor de overige positief beoordeelde aanvragen die binnen de aanvraagperiode zijn ingediend. Deze worden geprioriteerd op basis van de uitkomst van de beoordeling volgens de criteria genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0049941&hoofdstuk=4&artikel=13&z=2024-07-10&g=2024-07-01). Hierbij wordt de verdeling over de landsdelen losgelaten. Het beschikbare bedrag wordt toegekend aan de aanvragers waarvan de aanvraag het hoogst is geplaatst op de ranglijst. Aan de hoogstgeplaatsten wordt de door de adviescommissie geadviseerde bijdrage verleend zolang het totaal daarvan het subsidieplafond niet overschrijdt. Aan de aanvrager bij wie toekenning zou leiden tot overschrijding van het subsidieplafond wordt het bedrag toegekend dat resteert tot aan het subsidieplafond mits dit ten minste 50% van het aangevraagde bedrag is. In het geval het resterende beschikbare bedrag tot aan het subsidieplafond lager is dan 50% van het aangevraagde bedrag, dan wordt de aanvraag afgewezen.
+- d. Het budget dat nog rest na het toepassen van de onderdelen a, b, en c van dit artikel wordt aangewend voor de overige positief beoordeelde aanvragen die binnen de aanvraagperiode zijn ingediend. Deze worden geprioriteerd op basis van de uitkomst van de beoordeling volgens de criteria genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0049941&hoofdstuk=4&artikel=13&z=2024-07-10&g=2024-07-10). Hierbij wordt de verdeling over de landsdelen losgelaten. Het beschikbare bedrag wordt toegekend aan de aanvragers waarvan de aanvraag het hoogst is geplaatst op de ranglijst. Aan de hoogstgeplaatsten wordt de door de adviescommissie geadviseerde bijdrage verleend zolang het totaal daarvan het subsidieplafond niet overschrijdt. Aan de aanvrager bij wie toekenning zou leiden tot overschrijding van het subsidieplafond wordt het bedrag toegekend dat resteert tot aan het subsidieplafond mits dit ten minste 50% van het aangevraagde bedrag is. In het geval het resterende beschikbare bedrag tot aan het subsidieplafond lager is dan 50% van het aangevraagde bedrag, dan wordt de aanvraag afgewezen.
 
-- e. als aanvragen bij de toepassing van onderdeel d op basis van de gemiddelde eindscore gelijk eindigen op de ranglijst en het subsidieplafond wordt met deze aanvragen overschreden, dan wordt prioriteit gegeven aan het voorstel dat het hoogst wordt gewaardeerd op criterium a, vervolgens op criterium b, c, d en e, zoals genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0049941&hoofdstuk=4&artikel=13&z=2024-07-10&g=2024-07-01).
+- e. als aanvragen bij de toepassing van onderdeel d op basis van de gemiddelde eindscore gelijk eindigen op de ranglijst en het subsidieplafond wordt met deze aanvragen overschreden, dan wordt prioriteit gegeven aan het voorstel dat het hoogst wordt gewaardeerd op criterium a, vervolgens op criterium b, c, d en e, zoals genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0049941&hoofdstuk=4&artikel=13&z=2024-07-10&g=2024-07-10).
 
 ##### Artikel 15. Verlening van een subsidie
 
@@ -335,7 +335,7 @@ De volgende procedure voor prioritering wordt gehanteerd:
 
 4. In januari van het tweede kalenderjaar van de subsidieperiode wordt het tweede voorschot overgemaakt, tenzij uit het monitorgesprek blijkt dat de instelling niet langer kan voldoen aan de subsidievoorwaarden.
 
-5. Als de subsidie wordt gewijzigd op grond van [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049941&hoofdstuk=4&artikel=16&z=2024-07-10&g=2024-07-01), wordt de hoogte van de bevoorschotting overeenkomstig de wijziging aangepast.
+5. Als de subsidie wordt gewijzigd op grond van [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049941&hoofdstuk=4&artikel=16&z=2024-07-10&g=2024-07-10), wordt de hoogte van de bevoorschotting overeenkomstig de wijziging aangepast.
 
 ### Hoofdstuk 5. Verplichtingen van de subsidieontvanger
 
@@ -405,7 +405,7 @@ De subsidieontvanger meldt onverwijld aan het bestuur als:
 
 2. In de verklaring, bedoeld in het eerste lid, doet de accountant een uitspraak over de naleving van de subsidiebepalingen door de subsidieontvanger overeenkomstig de controleprotocollen gepubliceerd op de website [https://www.stimuleringsfonds.nl/protocollen](https://www.stimuleringsfonds.nl/protocollen) met gebruikmaking van de daarbij opgenomen modellen voor accountantsverklaringen.
 
-3. Voor het bepalen van de hoogte van het bedrag, genoemd in het eerste lid, wordt gekeken naar de hoogte van het oorspronkelijk toegekende bedrag per kalenderjaar. Als de grens van € 125.000 wordt overschreden door een tussentijdse wijziging van het subsidiebedrag, als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0049941&hoofdstuk=4&artikel=16&z=2024-07-10&g=2024-07-01), is geen accountantsverklaring nodig.
+3. Voor het bepalen van de hoogte van het bedrag, genoemd in het eerste lid, wordt gekeken naar de hoogte van het oorspronkelijk toegekende bedrag per kalenderjaar. Als de grens van € 125.000 wordt overschreden door een tussentijdse wijziging van het subsidiebedrag, als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0049941&hoofdstuk=4&artikel=16&z=2024-07-10&g=2024-07-10), is geen accountantsverklaring nodig.
 
 4. Als een wijziging van het subsidiebedrag zodanig is dat het bestuur een accountantsverklaring noodzakelijk acht, zal de subsidieontvanger hierop terstond van op de hoogte worden gebracht.
 
