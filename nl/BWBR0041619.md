@@ -4,7 +4,7 @@ identifier: "BWBR0041619"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-11"
-last_updated: "2024-02-01"
+last_updated: "2024-07-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041619"
 soort: "ministeriele-regeling"
@@ -80,7 +80,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Te subsidiëren activiteiten in het primair onderwijs
 
-1. De minister kan aan een bevoegd gezag of samenwerkingsverband subsidie verstrekken als tegemoetkoming in de studiekosten en kosten van studieverlof in verband met het volgen van een opleiding tot leraar gedurende een periode van ten hoogste vier jaren door een bij het bevoegd gezag of samenwerkingsverband in dienst zijnde onderwijsassistent of leraarondersteuner die in 2019, 2020, 2021, 2022, 2023, 2024 of 2025 met die opleiding is gestart.
+1. De minister kan aan een bevoegd gezag of samenwerkingsverband subsidie verstrekken als tegemoetkoming in de studiekosten en kosten van studieverlof in verband met het volgen van een opleiding tot leraar gedurende een periode van ten hoogste vier jaren door een bij het bevoegd gezag of samenwerkingsverband in dienst zijnde onderwijsassistent of leraarondersteuner die in 2019, 2020, 2021, 2022, 2023, 2024, 2025 of 2026 met die opleiding is gestart.
 
 2. Het bevoegd gezag of samenwerkingsverband en de onderwijsassistent of leraarondersteuner sluiten een overeenkomst, waarin ten minste is opgenomen:
 
@@ -106,7 +106,7 @@ In deze regeling wordt verstaan onder:
 
 - d. € 16.000.000 voor subsidieverstrekking in het kalenderjaar 2023;
 
-- e. € 9.000.000 per kalenderjaar voor subsidieverstrekking in de kalenderjaren 2024 en 2025.
+- e. € 10.680.000 per kalenderjaar voor subsidieverstrekking in de kalenderjaren 2024, 2025 en 2026.
 
 2. De subsidie bedraagt € 5.000 per onderwijsassistent of leraarondersteuner per schooljaar gedurende maximaal vier jaren.
 
@@ -118,17 +118,17 @@ In deze regeling wordt verstaan onder:
 
 1. De minister verdeelt het beschikbare bedrag in de volgorde van binnenkomst van de aanvragen.
 
-2. De minister verstrekt per bevoegd gezag of samenwerkingsverband voor maximaal drie onderwijsassistenten of leraarondersteuners subsidie.
+2. De minister verstrekt per bevoegd gezag of samenwerkingsverband voor maximaal vijf onderwijsassistenten of leraarondersteuners subsidie.
 
-3. Indien het voor subsidieverstrekking beschikbare bedrag in het betreffende kalenderjaar na toepassing van het eerste en tweede lid niet wordt uitgeput, worden de resterende middelen in afwijking van het tweede lid verdeeld over een vierde aanvraag per bevoegd gezag of samenwerkingsverband. Hierbij wordt beslist in volgorde van binnenkomst van de aanvragen.
+3. Indien het voor subsidieverstrekking beschikbare bedrag in het betreffende kalenderjaar na toepassing van het eerste en tweede lid niet wordt uitgeput, worden de resterende middelen in afwijking van het tweede lid verdeeld over een zesde aanvraag per bevoegd gezag of samenwerkingsverband. Hierbij wordt beslist in volgorde van binnenkomst van de aanvragen.
 
-4. Indien het voor subsidieverstrekking beschikbare bedrag na toepassing van het derde lid op 15 oktober van het betreffende kalenderjaar niet wordt uitgeput, is het derde lid van overeenkomstige toepassing op elke volgende onderwijsassistent of leraarondersteuner tot een maximum van zes onderwijsassistenten of leraarondersteuners per bevoegd gezag of samenwerkingsverband.
+4. Indien het voor subsidieverstrekking beschikbare bedrag na toepassing van het derde lid op 15 oktober van het betreffende kalenderjaar niet wordt uitgeput, is het derde lid van overeenkomstige toepassing op elke volgende onderwijsassistent of leraarondersteuner.
 
-5. Indien het voor subsidieverstrekking beschikbare bedrag na toepassing van het vierde lid niet wordt uitgeput, wordt het resterende bedrag toegevoegd aan het voor dat kalenderjaar vastgestelde subsidiebedrag voor het voortgezet onderwijs, bedoeld in [artikel 8b](https://wetten.overheid.nl/jci1.3:c:BWBR0041619&paragraaf=3&artikel=8b&z=2024-02-01&g=2024-02-01).
+5. Indien het voor subsidieverstrekking beschikbare bedrag na toepassing van het vierde lid niet wordt uitgeput, wordt het resterende bedrag toegevoegd aan het voor dat kalenderjaar vastgestelde subsidiebedrag voor het voortgezet onderwijs, bedoeld in [artikel 8b](https://wetten.overheid.nl/jci1.3:c:BWBR0041619&paragraaf=3&artikel=8b&z=2024-07-11&g=2024-07-11).
 
 6. Indien een aanvraag voor subsidieverstrekking in het jaar 2021 niet kan worden toegewezen omdat het subsidieplafond is bereikt, wordt zij aangemerkt als aanvraag voor subsidieverstrekking in het jaar 2022 en behandeld als ware zij op 16 oktober 2021 ingediend.
 
-7. Indien een aanvraag voor subsidieverstrekking in het jaar 2022, 2023 of 2024 niet kan worden toegewezen omdat het subsidieplafond is bereikt, wordt de aanvraag aangemerkt als aanvraag voor subsidieverstrekking in het daaropvolgende kalenderjaar en behandeld als ware zij ingediend op 1 januari van dat daaropvolgende kalenderjaar.
+7. Indien een aanvraag voor subsidieverstrekking in het jaar 2022, 2023, 2024 of 2025 niet kan worden toegewezen omdat het subsidieplafond is bereikt, wordt de aanvraag aangemerkt als aanvraag voor subsidieverstrekking in het daaropvolgende kalenderjaar en behandeld als ware zij ingediend op 1 januari van dat daaropvolgende kalenderjaar.
 
 ##### Artikel 6. Verplichtingen subsidie
 
@@ -144,7 +144,7 @@ Aan de subsidieontvanger worden de volgende verplichtingen opgelegd:
 
 1. Het bevoegd gezag of samenwerkingsverband dient de aanvraag in met gebruikmaking van het aanvraagformulier dat op de website www.dus-i.nl beschikbaar is gesteld.
 
-2. De subsidieaanvraag kan worden ingediend vanaf het moment waarop de onderwijsassistent of leraarondersteuner is gestart met de opleiding tot leraar, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041619&paragraaf=2&artikel=3&z=2024-02-01&g=2024-02-01):
+2. De subsidieaanvraag kan worden ingediend vanaf het moment waarop de onderwijsassistent of leraarondersteuner is gestart met de opleiding tot leraar, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041619&paragraaf=2&artikel=3&z=2024-07-11&g=2024-07-11):
 
 - a. tot en met 15 oktober 2019, voor subsidieverstrekking in het jaar 2019;
 
@@ -156,15 +156,17 @@ Aan de subsidieontvanger worden de volgende verplichtingen opgelegd:
 
 - e. van 1 januari 2023 tot en met 15 oktober 2023, voor subsidieverstrekking in het jaar 2023;
 
-- f. van 1 januari 2024 tot en met 15 oktober 2024, voor subsidieverstrekking in het jaar 2024; en
+- f. van 1 januari 2024 tot en met 15 oktober 2024, voor subsidieverstrekking in het jaar 2024;
 
-- g. van 1 januari 2025 tot en met 15 oktober 2025, voor subsidieverstrekking in het jaar 2025.
+- g. van 1 januari 2025 tot en met 15 oktober 2025, voor subsidieverstrekking in het jaar 2025;
+
+- h. van 1 januari 2026 tot en met 15 oktober 2026, voor subsidieverstrekking in het jaar 2026.
 
 3. Per onderwijsassistent of leraarondersteuner kan eenmaal per opleiding op grond van deze regeling subsidie worden verstrekt.
 
 4. De subsidie wordt aangevraagd in het kalenderjaar waarin de onderwijsassistent of leraarondersteuner met de opleiding tot leraar is gestart of in het daaropvolgende kalenderjaar. Aanvragen die op een eerder of later tijdstip worden ingediend, worden afgewezen.
 
-5. Het vierde lid is niet van toepassing ten aanzien van aanvragen als bedoeld in [artikel 5, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041619&paragraaf=2&artikel=5&z=2024-02-01&g=2024-02-01), indien de desbetreffende aanvraag aanvankelijk binnen het in het vierde lid bedoelde aanvraagtijdvak werd ingediend.
+5. Het vierde lid is niet van toepassing ten aanzien van aanvragen als bedoeld in [artikel 5, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041619&paragraaf=2&artikel=5&z=2024-07-11&g=2024-07-11), indien de desbetreffende aanvraag aanvankelijk binnen het in het vierde lid bedoelde aanvraagtijdvak werd ingediend.
 
 6. De subsidieaanvraag gaat vergezeld van een afschrift van het inschrijvingsbewijs van de onderwijsassistent of leraarondersteuner voor de opleiding tot leraar, waarin in ieder geval is vermeld:
 
@@ -196,7 +198,9 @@ Aan de subsidieontvanger worden de volgende verplichtingen opgelegd:
 
 - f. in de periode van 1 augustus 2024 tot en met 15 oktober 2024, uiterlijk vóór 18 december 2024 direct vastgesteld;
 
-- g. in de periode van 1 augustus 2025 tot en met 15 oktober 2025, uiterlijk vóór 18 december 2025 direct vastgesteld.
+- g. in de periode van 1 augustus 2025 tot en met 15 oktober 2025, uiterlijk vóór 18 december 2025 direct vastgesteld;
+
+- h. in de periode van 1 augustus 2026 tot en met 15 oktober 2026, uiterlijk vóór 18 december 2026 direct vastgesteld.
 
 ##### Artikel 9. Betaling
 
@@ -226,7 +230,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 11a. Overgangsrecht aanvraagtermijn
 
-[Artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041619&paragraaf=2&artikel=7&z=2024-02-01&g=2024-02-01), is niet van toepassing ten aanzien van aanvragen die aanvankelijk in 2022 of in een eerder jaar werden ingediend.
+[Artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041619&paragraaf=2&artikel=7&z=2024-07-11&g=2024-07-11), is niet van toepassing ten aanzien van aanvragen die aanvankelijk in 2022 of in een eerder jaar werden ingediend.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -238,7 +242,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 8a. Te subsidiëren activiteiten in het voortgezet onderwijs
 
-1. De minister kan aan een bevoegd gezag subsidie verstrekken als tegemoetkoming in de studiekosten en kosten van studieverlof in verband met het volgen van een opleiding tot leraar gedurende een periode van ten hoogste vier jaren door een bij het bevoegd gezag in dienst zijnde onderwijsondersteunend personeelslid die in 2023, 2024 of 2025 met die opleiding is gestart.
+1. De minister kan aan een bevoegd gezag subsidie verstrekken als tegemoetkoming in de studiekosten en kosten van studieverlof in verband met het volgen van een opleiding tot leraar gedurende een periode van ten hoogste vier jaren door een bij het bevoegd gezag in dienst zijnde onderwijsondersteunend personeelslid die in 2023, 2024, 2025 of 2026 met die opleiding is gestart.
 
 2. Het bevoegd gezag en het onderwijsondersteunend personeelslid sluiten een overeenkomst, waarin ten minste is opgenomen:
 
@@ -254,11 +258,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 8b. Subsidieplafond en hoogte subsidie
 
-1. Voor subsidieverstrekking op grond van deze paragraaf is voor de kalenderjaren 2023, 2024 en 2025 jaarlijks een bedrag beschikbaar van ten hoogste € 4.000.000 voor de toegevoegde doelgroep (onderwijsondersteunende personeelsleden in het vo).
+1. Voor subsidieverstrekking op grond van deze paragraaf is voor de kalenderjaren 2024, 2025 en 2026 jaarlijks een bedrag beschikbaar van ten hoogste € 4.720.000 voor de toegevoegde doelgroep (onderwijsondersteunende personeelsleden in het vo).
 
 2. De subsidie bedraagt € 5.000 per onderwijsondersteunend personeelslid per jaar gedurende maximaal vier jaren.
 
-3. Ingeval het voor subsidieverstrekking beschikbare bedrag, bedoeld in het eerste lid niet wordt uitgeput, wordt het resterende bedrag toegevoegd aan het voor dat kalenderjaar vastgestelde subsidieplafond voor het primair onderwijs, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041619&paragraaf=2&artikel=4&z=2024-02-01&g=2024-02-01).
+3. Ingeval het voor subsidieverstrekking beschikbare bedrag, bedoeld in het eerste lid niet wordt uitgeput, wordt het resterende bedrag toegevoegd aan het voor dat kalenderjaar vastgestelde subsidieplafond voor het primair onderwijs, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041619&paragraaf=2&artikel=4&z=2024-07-11&g=2024-07-11).
 
 4. Voor subsidieontvangers op Bonaire, Sint Eustatius of Saba wordt het in het tweede lid bedoelde subsidiebedrag omgerekend in dollars tegen de vastgestelde wisselkoers.
 
@@ -266,7 +270,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. De minister verdeelt het beschikbare bedrag in de volgorde van binnenkomst van aanvragen.
 
-2. Indien een aanvraag voor subsidieverstrekking in het jaar 2023 of 2024 niet kan worden toegewezen omdat het subsidieplafond is bereikt, wordt zij aangemerkt als aanvraag voor subsidievertrekking en behandeld als ware zij ingediend op 1 januari van dat daaropvolgende kalenderjaar.
+2. Indien een aanvraag voor subsidieverstrekking in het jaar 2023, 2024 of 2025 niet kan worden toegewezen omdat het subsidieplafond is bereikt, wordt zij aangemerkt als aanvraag voor subsidievertrekking en behandeld als ware zij ingediend op 1 januari van dat daaropvolgende kalenderjaar.
 
 ##### Artikel 8d. Verplichtingen subsidie
 
@@ -292,9 +296,11 @@ Aan de subsidieontvanger worden de volgende verplichtingen opgelegd:
 
 - c. van 1 januari tot en met 15 oktober 2025, voor subsidieverstrekking in het jaar 2025;
 
+- d. van 1 januari 2026 tot en met 15 oktober 2026, voor subsidieverstrekking in het jaar 2026.
+
 4. Per onderwijsondersteunend personeelslid kan eenmaal per opleiding op grond van deze regeling subsidie worden verstrekt.
 
-5. Het tweede lid, tweede volzin, is niet van toepassing ten aanzien van aanvragen als bedoeld in [artikel 8c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041619&paragraaf=3&artikel=8c&z=2024-02-01&g=2024-02-01), indien de desbetreffende aanvraag aanvankelijk binnen het in het tweede lid eerste volzin bedoelde aanvraagtijdvak werd ingediend.
+5. Het tweede lid, tweede volzin, is niet van toepassing ten aanzien van aanvragen als bedoeld in [artikel 8c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041619&paragraaf=3&artikel=8c&z=2024-07-11&g=2024-07-11), indien de desbetreffende aanvraag aanvankelijk binnen het in het tweede lid eerste volzin bedoelde aanvraagtijdvak werd ingediend.
 
 6. De subsidieaanvraag gaat vergezeld van een afschrift van het inschrijvingsbewijs van de het onderwijsondersteunend personeelslid voor opleiding tot leraar, waarin in ieder geval is vermeld:
 
@@ -318,7 +324,9 @@ Aan de subsidieontvanger worden de volgende verplichtingen opgelegd:
 
 - b. in de periode van 1 augustus 2024 tot en met 15 oktober 2024, uiterlijk vóór 18 december 2024 direct vastgesteld;
 
-- c. in de periode van 1 augustus 2025 tot en met 15 oktober 2025, uiterlijk vóór 18 december 2025 direct vastgesteld.
+- c. in de periode van 1 augustus 2025 tot en met 15 oktober 2025, uiterlijk vóór 18 december 2025 direct vastgesteld;
+
+- d. in de periode van 1 augustus 2026 tot en met 15 oktober 2026, uiterlijk vóór 18 december 2026 direct vastgesteld.
 
 #### § 4. Betaling en verantwoording
 
