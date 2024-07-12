@@ -4,7 +4,7 @@ identifier: "BWBR0046512"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-07-12"
-last_updated: "2022-04-01"
+last_updated: "2024-07-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046512"
 soort: "ministeriele-regeling"
@@ -86,7 +86,7 @@ De Regeringscommissaris heeft de volgende taken:
 
 1. Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt daarbij terug tot en met 1 april 2022.
 
-2. Dit besluit vervalt op 1 juli 2025.
+2. Dit besluit vervalt op 1 januari 2027.
 
 ##### Artikel 6
 
