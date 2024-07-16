@@ -4,7 +4,7 @@ identifier: "BWBR0049497"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-15"
-last_updated: "2024-04-01"
+last_updated: "2024-07-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049497"
 soort: "AMvB"
@@ -296,9 +296,9 @@ Afwikkelingsautoriteit: De Nederlandsche Bank.
 
 ### 1. Bevoegde autoriteit in de zin van de verordening
 
-De Nederlandsche Bank: ten aanzien van de artikelen 9, voor zover het een bank betreft, 39 tot en met 47, 54 tot en met 57 en 59 en 60.
+De Nederlandsche Bank: ten aanzien van de artikelen 9, voor zover het een bank betreft, 22 en 22 bis, 39 tot en met 47 bis, 54 tot en met 57 en 59 en 60.
 
-De Autoriteit Financiële Markten: ten aanzien van de artikelen 3 tot en met 7, 9, voor zover het een andere onderneming dan een bank betreft, 16 tot en met 20, 23, 26 tot en met 38 en 48 tot en met 53.
+De Autoriteit Financiële Markten: ten aanzien van de artikelen 3 tot en met 7 bis, 9, voor zover het een andere onderneming dan een bank betreft, 16 tot en met 20, 22 tot en met 24 bis, 26 tot en met 38 en 48 tot en met 53.
 
 ### 2. Handhaving door middel van last onder dwangsom of bestuurlijke boete
 
@@ -348,19 +348,19 @@ De Nederlandsche Bank.
 
 De Autoriteit Consument en Markt: ten aanzien van de artikelen 3 tot en met 6, 8, eerste en derde tot en met zesde lid, 10 en 11.
 
-De Nederlandsche Bank: ten aanzien van artikel 7.
+De Autoriteit Consument en Markt: ten aanzien van de artikelen 3 tot en met 6, 8, eerste en derde tot en met zesde lid, 10 en 11.
 
-De Autoriteit Financiële Markten: ten aanzien van de artikelen 8, tweede lid, 9 en 12.
+De Nederlandsche Bank: ten aanzien van artikel 7.
 
 ### 2. Handhaving door middel van last onder dwangsom of bestuurlijke boete
 
-### 3. Openbaarmaking bestuurlijke boetes
+### 2. Handhaving door middel van last onder dwangsom of bestuurlijke boete
 
 De bevoegde autoriteit maakt een besluit tot het opleggen van een bestuurlijke boete openbaar, indien de boete is opgelegd wegens overtreding van artikel 8, tweede lid, 9 of 12 van de verordening.
 
 ### 4. Buitengerechtelijke geschillenbeslechting
 
-### 5. Lidstaatoptie artikel 3, tweede lid (maximale afwikkelingsvergoeding)
+### 4. Buitengerechtelijke geschillenbeslechting
 
 De maximale afwikkelingsvergoeding voor een binnenlandse debetkaarttransactie, bedoeld in artikel 3, tweede lid, onderdeel b, eerste volzin, van de verordening, bedraagt € 0,02 per transactie.
 
@@ -382,7 +382,7 @@ De Autoriteit Financiële Markten.
 
 Ten aanzien van de artikelen 4, 13, 14 en 24, derde lid, voor wat betreft de verwijzing naar artikel 4: de Autoriteit Financiële Markten.
 
-Ten aanzien van de overige artikelen: indien de tegenpartij een bank, verzekeraar, herverzekeraar of pensioenfonds is: de Nederlandsche Bank. Indien de tegenpartij geen bank, verzekeraar, herverzekeraar of pensioenfonds is: de Autoriteit Financiële Markten.
+Ten aanzien van de artikelen 4, 13, 14 en 24, derde lid, voor wat betreft de verwijzing naar artikel 4: de Autoriteit Financiële Markten.
 
 ### 2. Handhaving door middel van last onder dwangsom of bestuurlijke boete
 
@@ -416,7 +416,7 @@ De Autoriteit Financiële Markten.
 
 ### 2. Handhaving door middel van last onder dwangsom of bestuurlijke boete
 
-### 3. Openbaarmaking overtredingen
+### 2. Handhaving door middel van last onder dwangsom of bestuurlijke boete
 
 De Autoriteit Financiële Markten kan bij een overtreding van het bij of krachtens de verordening bepaalde de overtreding en de naam van de overtreder door middel van een openbare verklaring openbaar maken.
 
@@ -438,7 +438,7 @@ De Autoriteit Financiële Markten.
 
 De Autoriteit Financiële Markten: ten aanzien van de gehele verordening, met uitzondering van artikel 28.
 
-De Nederlandsche Bank: ten aanzien van artikel 28.
+De Autoriteit Financiële Markten: ten aanzien van de gehele verordening, met uitzondering van artikel 28.
 
 ### 2. Handhaving door middel van last onder dwangsom of bestuurlijke boete
 
@@ -452,7 +452,7 @@ De Autoriteit Financiële Markten.
 
 ### 2. Handhaving door middel van last onder dwangsom of bestuurlijke boete
 
-### 3. Openbaarmaking overtredingen
+### 2. Handhaving door middel van last onder dwangsom of bestuurlijke boete
 
 De Autoriteit Financiële Markten kan bij een overtreding van het bij of krachtens de verordening bepaalde de overtreding en de naam van de overtreder door middel van een openbare verklaring openbaar maken.
 
@@ -466,7 +466,7 @@ De Autoriteit Financiële Markten.
 
 ### 2. Handhaving door middel van last onder dwangsom of bestuurlijke boete
 
-### 3. Openbaarmaking overtredingen
+### 2. Handhaving door middel van last onder dwangsom of bestuurlijke boete
 
 De Autoriteit Financiële Markten kan bij een overtreding van het bij of krachtens de verordening bepaalde de overtreding en de naam van de overtreder door middel van een openbare verklaring openbaar maken.
 
@@ -478,11 +478,11 @@ De Autoriteit Financiële Markten kan bij een overtreding van het bij of krachte
 
 De Nederlandsche Bank, ten aanzien van:
 
-De Autoriteit Financiële Markten, ten aanzien van:
+De Nederlandsche Bank, ten aanzien van:
 
 ### 2. Handhaving door middel van last onder dwangsom of bestuurlijke boete
 
-### 3. Openbaarmaking overtredingen
+### 2. Handhaving door middel van last onder dwangsom of bestuurlijke boete
 
 De bevoegde autoriteit kan bij een overtreding van het bij of krachtens de verordening bepaalde de overtreding en de naam van de overtreder door middel van een openbare verklaring openbaar maken.
 
@@ -508,21 +508,21 @@ De Autoriteit Financiële Markten.
 
 De Autoriteit Financiële Markten: ten aanzien van de gehele verordening, met uitzondering van de artikelen 41, 45, eerste lid, 46, en 49, tweede en derde lid.
 
-De Nederlandsche Bank: ten aanzien van de artikelen 41, 45, eerste lid, 46, en 49, tweede en derde lid.
+De Autoriteit Financiële Markten: ten aanzien van de gehele verordening, met uitzondering van de artikelen 41, 45, eerste lid, 46, en 49, tweede en derde lid.
 
 ### 2. Handhaving door middel van last onder dwangsom of bestuurlijke boete
 
-### 3. Openbaarmaking overtredingen
+### 2. Handhaving door middel van last onder dwangsom of bestuurlijke boete
 
 De bevoegde autoriteit kan bij een overtreding van het bij of krachtens de verordening bepaalde de overtreding en de naam van de overtreder door middel van een openbare verklaring openbaar maken.
+
+### 4. Buitengerechtelijke geschillenbeslechting
 
 ### 4. Buitengerechtelijke geschillenbeslechting
 
 ### 5. Samenwerking bevoegde autoriteiten (portefeuille- en risicobeheer en administratie bij initiële registratie)
 
 ### 6. Samenwerking bevoegde autoriteiten (doorhaling registratie)
-
-### 7. Samenwerking bevoegde autoriteiten (verbieden/beperken van het op de markt brengen of distribueren)
 
 ## Bijlage 28. [Verordening (EU) 2019/2033](32019R2033) (IFR -prudentiële vereisten beleggingsondernemingen)
 
@@ -532,11 +532,11 @@ De bevoegde autoriteit kan bij een overtreding van het bij of krachtens de veror
 
 De Autoriteit Financiële Markten: ten aanzien van de artikelen 48, 51, 52 en 53.
 
-De Nederlandsche Bank: ten aanzien van de gehele verordening, met uitzondering van de artikelen 48, 51, 52 en 53.
+De Autoriteit Financiële Markten: ten aanzien van de artikelen 48, 51, 52 en 53.
 
 ### 2. Handhaving door middel van last onder dwangsom of bestuurlijke boete
 
-### 3. Openbaarmaking overtredingen
+### 2. Handhaving door middel van last onder dwangsom of bestuurlijke boete
 
 De bevoegde autoriteit kan bij een overtreding van het bij of krachtens de verordening bepaalde de overtreding en de naam van de overtreder door middel van een openbare verklaring openbaar maken.
 
@@ -568,11 +568,11 @@ De Autoriteit Financiële Markten.
 
 De Autoriteit Financiële Markten: ten aanzien van de gehele verordening, met uitzondering van artikel 11.
 
-De Nederlandsche Bank: ten aanzien van artikel 11.
+De Autoriteit Financiële Markten: ten aanzien van de gehele verordening, met uitzondering van artikel 11.
 
 ### 2. Handhaving door middel van last onder dwangsom of bestuurlijke boete
 
-### 3. Ontzegging bevoegdheid om bepaalde functies uit te oefenen
+### 2. Handhaving door middel van last onder dwangsom of bestuurlijke boete
 
 De bevoegde autoriteit kan bij overtreding van de artikelen 3 tot en met 8, 9, eerste en tweede lid, 10, 11, 12, eerste, elfde en zestiende lid, 13, tweede lid, 15, tweede en derde lid, 16, eerste en derde lid, 18, eerste en vierde lid, 19 tot en met 22, 23, eerste tot en met veertiende lid, 24, 25, 26, 27, eerste tot en met derde lid, 30, eerste lid, van de verordening aan de overtreder of, indien de overtreding is begaan door een rechtspersoon, de natuurlijke personen die tot de betrokken gedraging opdracht hebben gegeven of daaraan feitelijk leiding hebben gegeven, tijdelijk de bevoegdheid ontzeggen om het beleid te bepalen en leiding te geven bij een crowdfundingdienstverlener als bedoeld in artikel 2, eerste lid, onderdeel e, van de verordening.
 
@@ -594,7 +594,7 @@ Afwikkelingsautoriteit: De Nederlandsche Bank.
 
 ### 2. Handhaving door middel van last onder dwangsom of bestuurlijke boete
 
-### 3. Ontzegging bevoegdheid om bepaalde functies uit te oefenen
+### 2. Handhaving door middel van last onder dwangsom of bestuurlijke boete
 
 De Nederlandsche Bank kan bij overtreding van de artikelen 9, 13 of 70 van de verordening aan de overtreder of, indien de overtreding is begaan door een rechtspersoon, de natuurlijke personen die tot de betrokken gedraging opdracht hebben gegeven of daaraan feitelijk leiding hebben gegeven, tijdelijk de bevoegdheid ontzeggen om het beleid te bepalen en leiding te geven bij een centrale tegenpartij als bedoeld in artikel 2, onderdeel 1, van [Verordening (EU) nr. 648/2012](32012R0648) (EMIR).
 
@@ -612,9 +612,9 @@ De Autoriteit Financiële Markten.
 
 ### 2. Handhaving door middel van last onder dwangsom of bestuurlijke boete
 
-### 3. Buitengerechtelijke geschillenbeslechting
+### 2. Handhaving door middel van last onder dwangsom of bestuurlijke boete
 
-### 4. Lidstaatoptie artikel 10, derde lid (beperken geschillenbeslechting tot consumenten en micro-ondernemingen)
+### 3. Buitengerechtelijke geschillenbeslechting
 
 De buitengerechtelijke klachten- en verhaalprocedures, bedoeld in artikel 10 van de verordening, staan alleen open voor consumenten en micro-ondernemingen als bedoeld in artikel 2, onderdeel 12, van de verordening.
 
@@ -625,6 +625,298 @@ De buitengerechtelijke klachten- en verhaalprocedures, bedoeld in artikel 10 van
 ### 1. Bevoegde autoriteit in de zin van de verordening
 
 De Autoriteit Financiële Markten: ten aanzien van de artikelen 3, 4, 8, 9, 10 en 11, derde en vijfde lid.
+
+De Autoriteit Financiële Markten: ten aanzien van de artikelen 3, 4, 8, 9, 10 en 11, derde en vijfde lid.
+
+### 2. Samenwerking bevoegde autoriteiten (specifieke toestemming verlenen of intrekken, materiële wijzigingen goedkeuren of corrigerende maatregelen eisen)
+
+## Bijlage 35. [Verordening (EU) 2023/2830](32023R2830) (veiling van broeikasgasemissierechten)
+
+**Gedelegeerde verordening (EU) 2023/2830 van de Commissie van 17 oktober 2023 tot aanvulling van Richtlijn 2003/87/EG van het Europees Parlement en de Raad door de vaststelling van regels inzake de tijdstippen, het beheer en andere aspecten van de veiling van broeikasgasemissierechten (PbEU 2023, L 2830)**
+
+### 1. Bevoegde autoriteit in de zin van de verordening
+
+De Autoriteit Financiële Markten, voor zover het betreft de bevoegdheid tot het verlenen van vergunningen als bedoeld in artikel 18, tweede lid, het geheel of gedeeltelijk intrekken van die vergunningen en het toezicht op de naleving en de handhaving van artikel 50, tweede en derde lid.
+
+### 2. Handhaving door middel van last onder dwangsom of bestuurlijke boete
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+1) Artikel 47 bis treedt in werking met ingang van 17 januari 2026. Zie artikel 3 van [Verordening (EU) 2023/2845](32023R2845).
+
+### 3. Openbaarmaking overtredingen
+
+De bevoegde autoriteit kan bij een overtreding van het bij of krachtens de verordening bepaalde de overtreding en de naam van de overtreder door middel van een openbare verklaring openbaar maken.
+
+### 4. Samenwerking bevoegde autoriteiten
+
+## Bijlage 13. [Verordening (EU) nr. 1286/2014](32014R1286) (PRIIPs – beleggingsproducten)
+
+**Verordening (EU) Nr. 1286/2014 van het Europees Parlement en de Raad van 26 november 2014 over essentiële-informatiedocumenten voor verpakte retailbeleggingsproducten en verzekeringsgebaseerde beleggingsproducten (PbEU 2014, L 352)**
+
+### 1. Bevoegde autoriteit in de zin van de verordening
+
+De Autoriteit Financiële Markten.
+
+### 2. Handhaving door middel van last onder dwangsom of bestuurlijke boete
+
+## Bijlage 14. [Verordening (EU) 2015/35](32015R0035) (Gedelegeerde verordening Solvabiliteit II)
+
+**Gedelegeerde verordening (EU) 2015/35 van de Commissie van 10 oktober 2014 tot aanvulling van Richtlijn 2009/138/EG van het Europees Parlement en de Raad betreffende de toegang tot en uitoefening van het verzekerings- en het herverzekeringsbedrijf (Solvabiliteit II) (PbEU 2015, L 12)**
+
+### 1. Bevoegde autoriteit in de zin van de verordening
+
+De Nederlandsche Bank.
+
+### 2. Handhaving door middel van last onder dwangsom of bestuurlijke boete
+
+## Bijlage 15. [Verordening (EU) 2015/63](32015R0063) (RFR – afwikkelingsfonds)
+
+**Gedelegeerde Verordening (EU) 2015/63 van de Commissie van 21 oktober 2014 tot aanvulling van Richtlijn 2014/59/EU van het Europees Parlement en de Raad van wat de vooraf te betalen bijdragen aan afwikkelingsfinancieringsregelingen betreft (PbEU 2015, L 11)**
+
+### 1. Bevoegde autoriteit in de zin van de verordening
+
+De Nederlandsche Bank.
+
+### 2. Handhaving door middel van last onder dwangsom of bestuurlijke boete
+
+## Bijlage 16. [Verordening (EU) 2015/751](32015R0751) (MIF – afwikkelingsvergoedingen voor op kaarten gebaseerde betalingstransacties)
+
+**Verordening (EU) 2015/751 van het Europees Parlement en de Raad van 29 april 2015 betreffende afwikkelingsvergoedingen voor op kaarten gebaseerde betalingstransacties (PbEU 2015, L 123)**
+
+### 1. Bevoegde autoriteit in de zin van de verordening
+
+De Autoriteit Financiële Markten: ten aanzien van de artikelen 8, tweede lid, 9 en 12.
+
+### 3. Openbaarmaking bestuurlijke boetes
+
+De bevoegde autoriteit maakt een besluit tot het opleggen van een bestuurlijke boete openbaar, indien de boete is opgelegd wegens overtreding van artikel 8, tweede lid, 9 of 12 van de verordening.
+
+### 5. Lidstaatoptie artikel 3, tweede lid (maximale afwikkelingsvergoeding)
+
+De maximale afwikkelingsvergoeding voor een binnenlandse debetkaarttransactie, bedoeld in artikel 3, tweede lid, onderdeel b, eerste volzin, van de verordening, bedraagt € 0,02 per transactie.
+
+## Bijlage 17. [Verordening (EU) 2015/760](32015R0760) (ELTIF – Europese langetermijnbeleggingsinstellingen)
+
+**Verordening (EU) 2015/760 van het Europees Parlement en de Raad van 29 april 2015 betreffende Europese langetermijnbeleggingsinstellingen (PbEU 2015, L 123)**
+
+### 1. Bevoegde autoriteit in de zin van de verordening
+
+De Autoriteit Financiële Markten.
+
+### 2. Handhaving door middel van last onder dwangsom of bestuurlijke boete
+
+## Bijlage 18. [Verordening (EU) 2015/2365](32015R2365) (SFTR – effectenfinancieringstransacties)
+
+**Verordening (EU) 2015/2365 van het Europees Parlement en de Raad van 25 november 2015 betreffende de transparantie van effectenfinancieringstransacties en van hergebruik en tot wijziging van Verordening (EU) nr. 648/2012 (PbEU 2015, L 337)**
+
+### 1. Bevoegde autoriteit in de zin van de verordening
+
+Ten aanzien van de overige artikelen: indien de tegenpartij een bank, verzekeraar, herverzekeraar of pensioenfonds is: de Nederlandsche Bank. Indien de tegenpartij geen bank, verzekeraar, herverzekeraar of pensioenfonds is: de Autoriteit Financiële Markten.
+
+### 2. Handhaving door middel van last onder dwangsom of bestuurlijke boete
+
+1 Indien in de kolom «boetecategorie» een bedrag staat, geldt een verhoogd boetemaximum, gelijk aan dat bedrag. Het basisbedrag is dan de helft van het verhoogde boetemaximum.
+
+### 3. Ontzegging bevoegdheid om bepaalde functies uit te oefenen
+
+De bevoegde autoriteit kan bij overtreding van artikel 4, eerste lid, eerste zin, en derde tot en met vijfde lid, of 15, eerste en tweede lid, van de verordening aan de overtreder of, indien de overtreding is begaan door een rechtspersoon, de natuurlijke personen die tot de betrokken gedraging opdracht hebben gegeven of daaraan feitelijk leiding hebben gegeven, tijdelijk de bevoegdheid ontzeggen om bij andere ondernemingen dan die, genoemd in [artikel 1:87, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:87), het beleid te bepalen of leiding te geven.
+
+### 4. Openbaarmaking overtredingen
+
+De bevoegde autoriteit kan bij een overtreding van het bij of krachtens de verordening bepaalde de overtreding en de naam van de overtreder door middel van een openbare verklaring openbaar maken.
+
+## Bijlage 19. [Verordening (EU) 2016/1011](32016R1011) (Benchmarks)
+
+**Verordening (EU) 2016/1011 van het Europees Parlement en de Raad van 8 juni 2016 betreffende indices die worden gebruikt als benchmarks voor financiële instrumenten en financiële overeenkomsten of om de prestatie van beleggingsfondsen te meten en tot wijziging van Richtlijnen 2008/48/EG en 2014/17/EU en Verordening (EU) nr. 596/2014 (PbEU 2016, L 171)**
+
+### 1. Bevoegde autoriteit in de zin van de verordening
+
+De Autoriteit Financiële Markten.
+
+### 2. Handhaving door middel van last onder dwangsom of bestuurlijke boete
+
+## Bijlage 20. [Verordening (EU) 2017/565](32017R0565) (Gedelegeerde verordening markten voor financiële instrumenten 2014 – organisatorische eisen)
+
+**Gedelegeerde verordening (EU) 2017/565 van de Commissie van 25 april 2016 houdende aanvulling van Richtlijn 2014/65/EU van het Europees Parlement en de Raad wat betreft de door beleggingsondernemingen in acht te nemen organisatorische eisen en voorwaarden voor de bedrijfsuitoefening en wat betreft de definitie van begrippen voor de toepassing van genoemde richtlijn (PbEU 2017, L 87)**
+
+### 1. Bevoegde autoriteit in de zin van de verordening
+
+De Autoriteit Financiële Markten.
+
+### 3. Openbaarmaking overtredingen
+
+De Autoriteit Financiële Markten kan bij een overtreding van het bij of krachtens de verordening bepaalde de overtreding en de naam van de overtreder door middel van een openbare verklaring openbaar maken.
+
+## Bijlage 21. [Verordening (EU) 2017/1129](32017R1129) (Prospectus)
+
+**Verordening (EU) 2017/1129 van het Europees Parlement en de Raad van 14 juni 2017 betreffende het prospectus dat moet worden gepubliceerd wanneer effecten aan het publiek worden aangeboden of tot de handel op een gereglementeerde markt worden toegelaten en tot intrekking van Richtlijn 2003/71/EG (PbEU 2017, L 168)**
+
+### 1. Bevoegde autoriteit in de zin van de verordening
+
+De Autoriteit Financiële Markten.
+
+### 2. Handhaving door middel van last onder dwangsom of bestuurlijke boete
+
+## Bijlage 22. [Verordening (EU) 2017/1131](32017R1131) (MMFR – geldmarktfondsen)
+
+**Verordening (EU) 2017/1131 van het Europees Parlement en de Raad van 14 juni 2017 inzake geldmarktfondsen (PbEU 2017, L 169)**
+
+### 1. Bevoegde autoriteit in de zin van de verordening
+
+De Nederlandsche Bank: ten aanzien van artikel 28.
+
+### 2. Handhaving door middel van last onder dwangsom of bestuurlijke boete
+
+## Bijlage 23. [Verordening (EU) 2017/2358](32017R2358) (IDD POG – productontwikkeling en -governance)
+
+**Gedelegeerde verordening (EU) 2017/2358 van de Commissie van 21 september 2017 tot aanvulling van Richtlijn 2016/97/EU van het Europees Parlement en de Raad met betrekking tot vereisten inzake producttoezicht en -governance voor verzekeringsondernemingen en verzekeringsdistributeurs (PbEU 2017, L 341)**
+
+### 1. Bevoegde autoriteit in de zin van de verordening
+
+De Autoriteit Financiële Markten.
+
+### 3. Openbaarmaking overtredingen
+
+De Autoriteit Financiële Markten kan bij een overtreding van het bij of krachtens de verordening bepaalde de overtreding en de naam van de overtreder door middel van een openbare verklaring openbaar maken.
+
+## Bijlage 24. [Verordening (EU) 2017/2359](32017R2359) (IDD COB – verzekeringen met een beleggingscomponent)
+
+**Gedelegeerde verordening (EU) 2017/2359 van de Commissie van 21 september 2017 tot aanvulling van Richtlijn 2016/97/EU van het Europees Parlement en de Raad ten aanzien van informatievereisten en gedragsregels die van toepassing zijn op de distributie van verzekeringsgebaseerde beleggingsproducten (PbEU 2017, L 341)**
+
+### 1. Bevoegde autoriteit in de zin van de verordening
+
+De Autoriteit Financiële Markten.
+
+### 3. Openbaarmaking overtredingen
+
+De Autoriteit Financiële Markten kan bij een overtreding van het bij of krachtens de verordening bepaalde de overtreding en de naam van de overtreder door middel van een openbare verklaring openbaar maken.
+
+## Bijlage 25. [Verordening (EU) 2017/2402](32017R2402) (SECR – securitisaties)
+
+**Verordening (EU) 2017/2402 van het Europees Parlement en de Raad van 12 december 2017 tot vaststelling van een algemeen kader voor securitisatie en tot vaststelling van een specifiek kader voor eenvoudige, transparante en gestandaardiseerde securitisatie, en tot wijziging van de Richtlijnen 2009/65/EG, 2009/138/EG en 2011/61/EU en de Verordeningen (EG) nr. 1060/2009 en (EU) nr. 648/2012 (PbEU 2017, L 347)**
+
+### 1. Bevoegde autoriteit in de zin van de verordening
+
+De Autoriteit Financiële Markten, ten aanzien van:
+
+### 3. Openbaarmaking overtredingen
+
+De bevoegde autoriteit kan bij een overtreding van het bij of krachtens de verordening bepaalde de overtreding en de naam van de overtreder door middel van een openbare verklaring openbaar maken.
+
+### 4. Melding securitisaties
+
+Een melding als bedoeld in artikel 4, tweede alinea, van de verordening kan gedaan worden op de website van de Belastingdienst, [www.belastingdienst.nl](http://www.belastingdienst.nl), onder «Meldpunt securitisatieverordening».
+
+## Bijlage 26. [Verordening (EU) 2019/1156](32019R1156) (grensoverschrijdende distributie ICBE’s)
+
+**Verordening (EU) 2019/1156 van het Europees Parlement en de Raad van 20 juni 2019 betreffende het faciliteren van de grensoverschrijdende distributie van instellingen voor collectieve belegging en houdende wijziging van de Verordeningen (EU) nr. 345/2013, (EU) nr. 346/2013 en (EU) nr. 1286/2014 (PbEU 2019, L 188)**
+
+### 1. Bevoegde autoriteit in de zin van de verordening
+
+De Autoriteit Financiële Markten.
+
+### 2. Handhaving door middel van last onder dwangsom of bestuurlijke boete
+
+## Bijlage 27. [Verordening (EU) 2019/1238](32019R1238) (PEPP – pan-Europees persoonlijk pensioenproduct)
+
+**Verordening (EU) 2019/1238 van het Europees Parlement en de Raad van 20 juni 2019 inzake een pan-Europees persoonlijk pensioenproduct (PEPP) (PbEU 2019, L 198)**
+
+### 1. Bevoegde autoriteit in de zin van de verordening
+
+De Nederlandsche Bank: ten aanzien van de artikelen 41, 45, eerste lid, 46, en 49, tweede en derde lid.
+
+### 3. Openbaarmaking overtredingen
+
+De bevoegde autoriteit kan bij een overtreding van het bij of krachtens de verordening bepaalde de overtreding en de naam van de overtreder door middel van een openbare verklaring openbaar maken.
+
+### 7. Samenwerking bevoegde autoriteiten (verbieden/beperken van het op de markt brengen of distribueren)
+
+## Bijlage 28. [Verordening (EU) 2019/2033](32019R2033) (IFR -prudentiële vereisten beleggingsondernemingen)
+
+**Verordening (EU) nr. 2019/2033 van het Europees Parlement en de Raad van 27 november 2019 betreffende prudentiële vereisten voor beleggingsondernemingen en tot wijziging van Verordeningen (EU) nr. 1093/2010, (EU) nr. 575/2013, (EU) nr. 600/2014 en (EU) nr. 806/2014 (PbEU 2019, L 134)**
+
+### 1. Bevoegde autoriteit in de zin van de verordening
+
+De Nederlandsche Bank: ten aanzien van de gehele verordening, met uitzondering van de artikelen 48, 51, 52 en 53.
+
+### 3. Openbaarmaking overtredingen
+
+De bevoegde autoriteit kan bij een overtreding van het bij of krachtens de verordening bepaalde de overtreding en de naam van de overtreder door middel van een openbare verklaring openbaar maken.
+
+## Bijlage 29. [Verordening (EU) 2019/2088](32019R2088) (SFDR – informatieverschaffing duurzaamheid)
+
+**Verordening (EU) 2019/2088 van het Europees Parlement en de Raad van 27 november 2019 betreffende informatieverschaffing over duurzaamheid in de financiëledienstensector (PbEU 2019, L 317)**
+
+### 1. Bevoegde autoriteit in de zin van de verordening
+
+De Autoriteit Financiële Markten.
+
+### 2. Handhaving door middel van last onder dwangsom of bestuurlijke boete
+
+## Bijlage 30. [Verordening (EU) 2020/852](32020R0852) (Taxonomie – kader duurzame beleggingen)
+
+**Verordening (EU) 2020/852 van het Europees Parlement en de Raad van 18 juni 2020 betreffende de totstandbrenging van een kader ter bevordering van duurzame beleggingen en tot wijziging van Verordening (EU) 2019/2088 (PbEU 2020, L 198)**
+
+### 1. Bevoegde autoriteit in de zin van de verordening
+
+De Autoriteit Financiële Markten.
+
+### 2. Handhaving door middel van last onder dwangsom of bestuurlijke boete
+
+## Bijlage 31. [Verordening (EU) 2020/1503](32020R1503) (CSPR – Crowdfundingdienstverleners voor bedrijven)
+
+**Verordening (EU) 2020/1503 van het Europees Parlement en de Raad van 7 oktober 2020 betreffende Europese crowdfundingdienstverleners voor bedrijven en tot wijziging van Verordening (EU) 2017/1129 en Richtlijn (EU) 2019/1937 (PbEU 2020, L 347)**
+
+### 1. Bevoegde autoriteit in de zin van de verordening
+
+De Nederlandsche Bank: ten aanzien van artikel 11.
+
+### 3. Ontzegging bevoegdheid om bepaalde functies uit te oefenen
+
+De bevoegde autoriteit kan bij overtreding van de artikelen 3 tot en met 8, 9, eerste en tweede lid, 10, 11, 12, eerste, elfde en zestiende lid, 13, tweede lid, 15, tweede en derde lid, 16, eerste en derde lid, 18, eerste en vierde lid, 19 tot en met 22, 23, eerste tot en met veertiende lid, 24, 25, 26, 27, eerste tot en met derde lid, of 30, eerste lid, van de verordening aan de overtreder of, indien de overtreding is begaan door een rechtspersoon, de natuurlijke personen die tot de betrokken gedraging opdracht hebben gegeven of daaraan feitelijk leiding hebben gegeven, tijdelijk de bevoegdheid ontzeggen om het beleid te bepalen en leiding te geven bij een crowdfundingdienstverlener als bedoeld in artikel 2, eerste lid, onderdeel e, van de verordening.
+
+### 4. Openbaarmaking overtredingen
+
+De bevoegde autoriteit kan bij een overtreding van het bij of krachtens de verordening bepaalde de overtreding en de naam van de overtreder door middel van een openbare verklaring openbaar maken.
+
+### 5. Onmiddellijke publicatie
+
+De bevoegde autoriteit maakt op grond van [artikel 1:97, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:97) een besluit tot het opleggen van een bestuurlijke boete ter zake van een in de tabel onder 2 met een «P» aangeduide overtreding zo spoedig mogelijk openbaar.
+
+## Bijlage 32. [Verordening (EU) 2021/23](32021R0023) (CCPRRR – herstel en afwikkeling centrale tegenpartijen)
+
+**Verordening (EU) 2021/23 van het Europees Parlement en de Raad van 16 december 2020 betreffende een kader voor het herstel en de afwikkeling van centrale tegenpartijen en tot wijziging van de Verordeningen (EU) nr. 1095/2010, (EU) nr. 648/2012, (EU) nr. 600/2014, (EU) nr. 806/2014 en (EU) 2015/2365, en de Richtlijnen 2002/47/EG, 2004/25/EG, 2007/36/EG, 2014/59/EU en (EU) 2017/1132 (PbEU 2021, L 22)**
+
+### 1. Bevoegde autoriteit in de zin van de verordening
+
+Afwikkelingsautoriteit: De Nederlandsche Bank.
+
+### 3. Ontzegging bevoegdheid om bepaalde functies uit te oefenen
+
+De Nederlandsche Bank kan bij overtreding van de artikelen 9, 13 of 70 van de verordening aan de overtreder of, indien de overtreding is begaan door een rechtspersoon, de natuurlijke personen die tot de betrokken gedraging opdracht hebben gegeven of daaraan feitelijk leiding hebben gegeven, tijdelijk de bevoegdheid ontzeggen om het beleid te bepalen en leiding te geven bij een centrale tegenpartij als bedoeld in artikel 2, onderdeel 1, van [Verordening (EU) nr. 648/2012](32012R0648) (EMIR).
+
+### 4. Openbaarmaking overtredingen
+
+De Nederlandsche Bank kan bij een overtreding van het bij of krachtens de verordening bepaalde de overtreding en de naam van de overtreder door middel van een openbare verklaring openbaar maken.
+
+## Bijlage 33. [Verordening (EU) 2021/1230](32021R1230) (CBPR – grensoverschrijdende betalingen)
+
+**Verordening (EU) 2021/1230 van het Europees Parlement en de Raad van 14 juli 2021 betreffende grensoverschrijdende betalingen in de Unie (codificatie) (PbEU 2021, L 274)**
+
+### 1. Bevoegde autoriteit in de zin van de verordening
+
+De Autoriteit Financiële Markten.
+
+### 4. Lidstaatoptie artikel 10, derde lid (beperken geschillenbeslechting tot consumenten en micro-ondernemingen)
+
+De buitengerechtelijke klachten- en verhaalprocedures, bedoeld in artikel 10 van de verordening, staan alleen open voor consumenten en micro-ondernemingen als bedoeld in artikel 2, onderdeel 12, van de verordening.
+
+## Bijlage 34. [Verordening (EU) 2022/858](32022R0858) (DLTPRR – DLT pilot regime)
+
+**Verordening (EU) 2022/858 van het Europees Parlement en de Raad van 30 mei 2022 betreffende een proefregeling voor marktinfrastructuren op basis van distributed ledger-technologie, en tot wijziging van Verordeningen (EU) nr. 600/2014 en (EU) nr. 909/2014 en Richtlijn 2014/65/EU (PbEU 2022, L 151)**
+
+### 1. Bevoegde autoriteit in de zin van de verordening
 
 De Autoriteit Financiële Markten of de Nederlandsche Bank: ten aanzien van de artikelen 5 tot en met 7 al naar gelang de uit Bijlage 10, 12 en 28 en, met betrekking tot beleggingsondernemingen en marktexploitanten, de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) voortvloeiende taakverdeling.
 
