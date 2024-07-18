@@ -4,7 +4,7 @@ identifier: "BWBR0041794"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-05"
-last_updated: "2024-07-02"
+last_updated: "2024-07-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041794"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **de minister:** de Minister van Landbouw, Natuur en Voedselkwaliteit;
+- a. **de Minister:** de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur;
 
 - b. **de secretaris-generaal:** de secretaris-generaal van het Ministerie van Landbouw, Natuur en Voedselkwaliteit;
 
@@ -96,7 +96,7 @@ De organisatie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit wordt
 
 - a. beslissingen omtrent politieke beleidswijzigingen en omtrent de uitbreiding of beperking van de bemoeienissen van de minister;
 
-- b. het vaststellen van ministeriële regelingen en beleidsregels, met uitzondering van ministeriële regelingen als bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=4&z=2024-06-01&g=2024-07-02), [artikel 6, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=6&z=2024-06-01&g=2024-07-02), en beleidsregels als bedoeld in artikel 6, zevende lid, en [artikel 24, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=7&sub-paragraaf=7.2&artikel=24&z=2024-06-01&g=2024-07-02);
+- b. het vaststellen van ministeriële regelingen en beleidsregels, met uitzondering van ministeriële regelingen als bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=4&z=2024-07-18&g=2024-07-18), [artikel 6, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=6&z=2024-07-18&g=2024-07-18), en beleidsregels als bedoeld in artikel 6, zevende lid, en [artikel 24, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=7&sub-paragraaf=7.2&artikel=24&z=2024-07-18&g=2024-07-18);
 
 - c. delegatie van bevoegdheden;
 
@@ -120,7 +120,7 @@ De organisatie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit wordt
 
 - g. een adviescollege in de zin van de [Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159);
 
-- h. autoriteiten in binnen- of buitenland, in rang gelijk aan of hoger dan een minister.
+- h. autoriteiten in binnen- of buitenland, in rang gelijk aan of hoger dan een Minister of Staatssecretaris.
 
 #### § 2. Mandaat, volmacht en machtiging aan ondergeschikten
 
@@ -352,7 +352,7 @@ Dit bericht is automatisch gegenereerd en bevat daarom geen handtekening.
 
 ##### Artikel 10
 
-1. De hoofden van dienst kunnen, ieder voor zich, voor hun werkterrein, voor aangelegenheden als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=6&z=2024-06-01&g=2024-07-02), ondermandaat, volmacht en machtiging verlenen aan hun plaatsvervangers, en wat het werkterrein van ondergeschikte organisatieonderdelen of functionarissen betreft, aan de hoofden van die onderdelen en aan die functionarissen en aan hun plaatsvervangers.
+1. De hoofden van dienst kunnen, ieder voor zich, voor hun werkterrein, voor aangelegenheden als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=6&z=2024-07-18&g=2024-07-18), ondermandaat, volmacht en machtiging verlenen aan hun plaatsvervangers, en wat het werkterrein van ondergeschikte organisatieonderdelen of functionarissen betreft, aan de hoofden van die onderdelen en aan die functionarissen en aan hun plaatsvervangers.
 
 2. Voor P&O-aangelegenheden geldt, in afwijking van het eerste lid, dat geen ondermandaat, volmacht en machtiging mag worden verleend voor de volgende aangelegenheden:
 
@@ -394,7 +394,7 @@ Dit bericht is automatisch gegenereerd en bevat daarom geen handtekening.
 
 1. Het verlenen van ondermandaat, volmacht en machtiging alsmede wijziging daarvan, geschiedt schriftelijk en wat de formulering betreft in overeenstemming met de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat.
 
-2. Een afschrift van besluiten inzake ondermandaat, volmacht en machtiging als bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=4&artikel=9&z=2024-06-01&g=2024-07-02) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=4&artikel=10&z=2024-06-01&g=2024-07-02) wordt gezonden aan de secretaris-generaal, de directeur Financieel-Economische Zaken, de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat, de directeur Informatievoorziening en de directeur Mens en Organisatie van het Ministerie van Economische Zaken en Klimaat en de Auditdienst Rijk.
+2. Een afschrift van besluiten inzake ondermandaat, volmacht en machtiging als bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=4&artikel=9&z=2024-07-18&g=2024-07-18) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=4&artikel=10&z=2024-07-18&g=2024-07-18) wordt gezonden aan de secretaris-generaal, de directeur Financieel-Economische Zaken, de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat, de directeur Informatievoorziening en de directeur Mens en Organisatie van het Ministerie van Economische Zaken en Klimaat en de Auditdienst Rijk.
 
 #### § 5. Vervanging
 
@@ -858,7 +858,7 @@ Dit besluit zal met de toelichting en de bijlage in de Staatscourant worden gepl
 
 ##### Artikel 2a
 
-Dit onderdeel is nog niet inwerking getreden
+Het in dit besluit ten aanzien van de Minister bepaalde is van overeenkomstige toepassing voor de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur.
 
 #### § 2. Mandaat, volmacht en machtiging aan ondergeschikten
 
