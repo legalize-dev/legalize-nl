@@ -4,7 +4,7 @@ identifier: "BWBR0046684"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-07-18"
-last_updated: "2022-05-23"
+last_updated: "2024-07-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046684"
 soort: "ministeriele-regeling"
@@ -58,11 +58,13 @@ Besluit:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046684&artikel=2&z=2022-05-23&g=2022-05-23).
+In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046684&artikel=2&z=2024-07-18&g=2024-07-18).
 
 ##### Artikel 2
 
-Als buitengewoon opsporingsambtenaar worden aangewezen de ambtenaren van politie, bedoeld in [artikel 2, onder b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), die hun werkgebied hebben in de regionale eenheid Amsterdam.
+1. Als buitengewoon opsporingsambtenaar worden aangewezen de ambtenaren van politie, bedoeld in [artikel 2, onder b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), die hun werkgebied hebben in de regionale eenheid Amsterdam.
+
+2. Als buitengewoon opsporingsambtenaar worden aangewezen de vrijwillig ambtenaren van politie bedoeld in [artikel 2, onder c, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2) voor zover zij zijn aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie, die hun werkgebied hebben in de regionale eenheid Amsterdam.
 
 ##### Artikel 3
 
@@ -100,7 +102,7 @@ De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste, derde en vierd
 
 ##### Artikel 8
 
-De op naam gestelde akten van beëdiging en de overige benoemingsbescheiden, afgegeven mede op basis van het in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0046684&artikel=9&z=2022-05-23&g=2022-05-23) genoemde besluit, worden geacht mede te zijn afgegeven op basis van dit besluit.
+De op naam gestelde akten van beëdiging en de overige benoemingsbescheiden, afgegeven mede op basis van het in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0046684&artikel=9&z=2024-07-18&g=2024-07-18) genoemde besluit, worden geacht mede te zijn afgegeven op basis van dit besluit.
 
 Dit artikel brengt geen wijziging in de resterende looptijd van de afgegeven aktes.
 
