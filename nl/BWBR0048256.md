@@ -4,7 +4,7 @@ identifier: "BWBR0048256"
 country: "nl"
 rank: "wet"
 publication_date: "2024-07-18"
-last_updated: "2023-09-01"
+last_updated: "2024-07-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048256"
 soort: "wet"
@@ -61,7 +61,7 @@ Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
 
 ##### Artikel V. Inwerkingtreding
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. In dat besluit kan worden bepaald dat [artikel I, onderdeel Y](https://wetten.overheid.nl/jci1.3:c:BWBR0048256&artikel=I&z=2024-07-18&g=2024-07-18), voor zover het betreft [artikel 12.30, derde en zesde lid, van de Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=12.30), terugwerkt tot en met 1 september 2023.
 
 ##### Artikel VI. Citeertitel
 
