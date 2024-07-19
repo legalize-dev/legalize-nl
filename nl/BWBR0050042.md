@@ -4,7 +4,7 @@ identifier: "BWBR0050042"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-07-19"
-last_updated: "2024-01-01"
+last_updated: "2024-07-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050042"
 soort: "zbo"
@@ -64,7 +64,7 @@ Tegen een besluit inzake de behandeling van een klacht over een gedraging van he
 
 ##### Artikel 5
 
-1. Indien een schriftelijke klacht betrekking heeft op een gedraging tegenover de klager en voldoet aan de vereisten van het tweede lid, zijn de [artikelen 6 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0050042&paragraaf=II&artikel=6&z=2024-07-19&g=2024-01-01) van toepassing.
+1. Indien een schriftelijke klacht betrekking heeft op een gedraging tegenover de klager en voldoet aan de vereisten van het tweede lid, zijn de [artikelen 6 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0050042&paragraaf=II&artikel=6&z=2024-07-19&g=2024-07-19) van toepassing.
 
 2. Het klaagschrift wordt ondertekend en bevat ten minste:
 
@@ -78,19 +78,19 @@ Tegen een besluit inzake de behandeling van een klacht over een gedraging van he
 
 ##### Artikel 6
 
-Zodra het COA naar tevredenheid van de klager aan zijn klacht tegemoet is gekomen, vervalt de verplichting de [artikelen 7 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0050042&paragraaf=II&artikel=7&z=2024-07-19&g=2024-01-01) bij de behandeling van de klacht toe te passen.
+Zodra het COA naar tevredenheid van de klager aan zijn klacht tegemoet is gekomen, vervalt de verplichting de [artikelen 7 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0050042&paragraaf=II&artikel=7&z=2024-07-19&g=2024-07-19) bij de behandeling van de klacht toe te passen.
 
 ##### Artikel 7
 
 Het COA zendt een schriftelijke ontvangstbevestiging van de klacht aan de klager.
 
-Klager wordt hierin geïnformeerd over het feit dat een onafhankelijke klachtadviescommissie over de klacht zal adviseren, tenzij [artikel 8 lid 1 en lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050042&paragraaf=II&artikel=8&z=2024-07-19&g=2024-01-01) van toepassing is.
+Klager wordt hierin geïnformeerd over het feit dat een onafhankelijke klachtadviescommissie over de klacht zal adviseren, tenzij [artikel 8 lid 1 en lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050042&paragraaf=II&artikel=8&z=2024-07-19&g=2024-07-19) van toepassing is.
 
 ##### Artikel 8
 
 1. Het COA is niet verplicht de klacht te behandelen indien de klacht betrekking heeft op een gedraging:
 
-- a. waarover reeds eerder een schriftelijke klacht is ingediend en aldus ook met inachtneming van de [artikelen 6 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0050042&paragraaf=II&artikel=6&z=2024-07-19&g=2024-01-01) is afgehandeld;
+- a. waarover reeds eerder een schriftelijke klacht is ingediend en aldus ook met inachtneming van de [artikelen 6 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0050042&paragraaf=II&artikel=6&z=2024-07-19&g=2024-07-19) is afgehandeld;
 
 - b. die langer dan een jaar voor de indiening van de klacht heeft plaatsgevonden;
 
@@ -112,11 +112,11 @@ Aan degene op wiens gedraging de klacht betrekking heeft, wordt een afschrift va
 
 ##### Artikel 10
 
-Het COA zal zich bij de behandeling van een klacht, waarop [artikel 8 lid 1 en lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050042&paragraaf=II&artikel=8&z=2024-07-19&g=2024-01-01) niet van toepassing is, laten adviseren door een onafhankelijke klachtadviescommissie.
+Het COA zal zich bij de behandeling van een klacht, waarop [artikel 8 lid 1 en lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050042&paragraaf=II&artikel=8&z=2024-07-19&g=2024-07-19) niet van toepassing is, laten adviseren door een onafhankelijke klachtadviescommissie.
 
 ##### Artikel 11
 
-1. Het COA zal binnen 3 werkdagen nadat bepaald is dat sprake is van een verplicht te behandelen klacht waarop [artikel 8 lid 1 en lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050042&paragraaf=II&artikel=8&z=2024-07-19&g=2024-01-01) niet van toepassing is, zorgdragen voor toezending van het klaagschrift, alsmede de daarbij meegezonden stukken, aan de leden van de klachtadviescommissie.
+1. Het COA zal binnen 3 werkdagen nadat bepaald is dat sprake is van een verplicht te behandelen klacht waarop [artikel 8 lid 1 en lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050042&paragraaf=II&artikel=8&z=2024-07-19&g=2024-07-19) niet van toepassing is, zorgdragen voor toezending van het klaagschrift, alsmede de daarbij meegezonden stukken, aan de leden van de klachtadviescommissie.
 
 2. Het COA zal zorgdragen voor toezending van de documenten aan de leden van de onafhankelijke klachtadviescommissie die de commissie ten behoeve van de advisering over de klacht nodig acht.
 
