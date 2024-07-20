@@ -4,7 +4,7 @@ identifier: "BWBR0050035"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-07-20"
-last_updated: "2023-05-01"
+last_updated: "2024-07-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050035"
 soort: "AMvB"
@@ -38,7 +38,23 @@ entry_into_force: "2024-07-20"
 
 ##### Artikel 1. Begripsbepalingen
 
-Dit onderdeel is nog niet inwerking getreden
+In dit besluit wordt verstaan onder:
+
+- **Onze Minister:** minister van Binnenlandse Zaken en Koninkrijksrelaties;
+
+- **private regiopartner:** privaatrechtelijke rechtspersoon als bedoeld in [artikel 3 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=3) die partij is bij een Regio Deal;
+
+- **publieke regiopartner:** provincie, gemeente, openbaar lichaam als bedoeld in [artikel 8, eerste lid, van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8), waterschap of een van de openbare lichamen Bonaire Sint-Eustatius of Saba, die partij is bij een Regio Deal;
+
+- **Regio Deal:** convenant dat door Onze Minister en één of meer regiopartners is gesloten om de kwaliteit van leven, wonen en werken van inwoners en ondernemers in een regio te verbeteren
+
+- **regiopartner:** private of publieke regiopartner;
+
+- **regiokassier:** publieke regiopartner, niet zijnde een waterschap, die op grond van de Regio Deal ten behoeve daarvan de taak van kassier vervult of zal vervullen;
+
+- **regionale private financiering:** voor de uitvoeringsactiviteiten van de Regio Deal beschikbaar gestelde financiële bijdragen of bijdragen in natura van een private regiopartner;
+
+- **regionale publieke financiering:** voor de uitvoeringsactiviteiten van de Regio Deal beschikbaar gestelde financiële bijdragen of bijdragen in natura van een publieke regiopartner, niet zijnde een specifieke uitkering, opdracht of subsidie van het Rijk.
 
 ### Hoofdstuk 1. Vierde tranche regio deal
 
@@ -54,7 +70,7 @@ De minister kan een specifieke uitkering verstrekken aan een regiokassier voor a
 
 ##### Artikel 4. Niet in aanmerking komende kosten
 
-1. De specifieke uitkering wordt niet verstrekt voor het bekostigen van de BTW die verschuldigd is over de kosten ten gevolge van de activiteiten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050035&hoofdstuk=1&artikel=2&z=2024-07-20&g=2023-05-01), voor zover het bedrag van de BTW in aanmerking komt voor compensatie op grond van de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817) of aftrek op grond van de [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629).
+1. De specifieke uitkering wordt niet verstrekt voor het bekostigen van de BTW die verschuldigd is over de kosten ten gevolge van de activiteiten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050035&hoofdstuk=1&artikel=2&z=2024-07-20&g=2024-07-20), voor zover het bedrag van de BTW in aanmerking komt voor compensatie op grond van de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817) of aftrek op grond van de [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629).
 
 2. Het bedrag aan compensabele BTW stort de minister in het BTW-compensatiefonds.
 
@@ -102,7 +118,7 @@ De minister kan een specifieke uitkering verstrekken aan een regiokassier voor a
 
 - a. de uitvoeringsactiviteiten waarvoor de specifieke uitkering is verleend, niet of niet volledig hebben plaatsgevonden; of
 
-- b. niet is voldaan aan de voorwaarden, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0050035&hoofdstuk=1&artikel=5&z=2024-07-20&g=2023-05-01), en de verplichtingen, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0050035&hoofdstuk=1&artikel=7&z=2024-07-20&g=2023-05-01).
+- b. niet is voldaan aan de voorwaarden, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0050035&hoofdstuk=1&artikel=5&z=2024-07-20&g=2024-07-20), en de verplichtingen, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0050035&hoofdstuk=1&artikel=7&z=2024-07-20&g=2024-07-20).
 
 4. Indien uit de verantwoordingsinformatie blijkt dat de specifieke uitkering niet, niet volledig of onrechtmatig is besteed, kan de minister de uitkering ter hoogte van het niet of onrechtmatig bestede deel terugvorderen. De minister doet binnen een jaar na ontvangst van de verantwoordingsinformatie mededeling van de terugvordering aan de regiokassier.
 
