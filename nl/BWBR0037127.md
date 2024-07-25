@@ -4,7 +4,7 @@ identifier: "BWBR0037127"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2024-07-01"
+last_updated: "2024-07-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037127"
 soort: "ministeriele-regeling"
@@ -223,5 +223,6 @@ Deze regeling wordt aangehaald als: Regeling elektronisch berichtenverkeer Belas
 | [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) |   | alle berichten in verband met verzoeken tot openbaarmaking | x |   |   |   |
 | Algemene verordening gegevensbescherming | Artikelen 13 en 14 | alle berichten in verband met informatieverstrekking over verwerking van persoonsgegevens van een belastingplichtige of toeslaggerechtigde | x |   |   |   |
 |   | Artikel 15 | verzoeken van een belastingplichtige of toeslaggerechtigde inzake de inzage, aanvulling of verbetering van over die belastingplichtige of toeslaggerechtigde verwerkte persoonsgegevens | x |   |   |   |
+| [Tijdelijke wet inframarginale elektriciteitsheffing](https://wetten.overheid.nl/jci1.3:c:BWBR0050059) |   | alle berichten in verband met de heffing en inning van de inframarginale elektriciteitsheffing | x |   |   |   |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
