@@ -4,7 +4,7 @@ identifier: "BWBR0045702"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-11-15"
-last_updated: "2024-04-01"
+last_updated: "2024-07-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045702"
 soort: "ministeriele-regeling"
@@ -70,13 +70,13 @@ Aan het bestuur van de NEa wordt mandaat verleend voor het verlenen van instemmi
 
 ##### Artikel 4
 
-1. In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045702&paragraaf=2&artikel=3&z=2023-12-29&g=2024-04-01) geldt voor de volgende P&O-aangelegenheden dat deze slechts in overeenstemming met de directeur Bedrijfsvoering van het Ministerie van Economische Zaken en Klimaat kunnen plaatsvinden:
+1. In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045702&paragraaf=2&artikel=3&z=2024-07-25&g=2024-07-25) geldt voor de volgende P&O-aangelegenheden dat deze slechts in overeenstemming met de directeur Bedrijfsvoering van het Ministerie van Economische Zaken en Klimaat kunnen plaatsvinden:
 
 - a. het opleggen van straffen als bedoeld in hoofdstuk 15 van de CAO Rijk;
 
 - b. het toekennen van financiële tegemoetkomingen op grond van sociaal flankerend beleid.
 
-2. In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045702&paragraaf=2&artikel=3&z=2023-12-29&g=2024-04-01) geldt de volmacht en de machtiging niet voor de volgende P&O-aangelegenheden:
+2. In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045702&paragraaf=2&artikel=3&z=2024-07-25&g=2024-07-25) geldt de volmacht en de machtiging niet voor de volgende P&O-aangelegenheden:
 
 - a. de mogelijkheid van hoofdstuk 2 van de CAO Rijk om tijdelijke arbeidsovereenkomsten in zeer bijzondere situaties te sluiten, waarbij wordt afgeweken van hetgeen is geregeld in de CAO Rijk;
 
@@ -126,7 +126,7 @@ namens deze:
 
 (functie)
 
-#### § 5. Overgangs- en slotbepalingen
+#### § 4. Instructies
 
 ##### Artikel 8
 
@@ -149,6 +149,20 @@ Aan het bestuur van de NEa wordt mandaat en machtiging verleend voor het opvrage
 #### § 3. Ondermandaat
 
 #### § 4. Instructies
+
+#### § 5. Overgangs- en slotbepalingen
+
+##### Artikel 8*
+
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 2b
+
+Aan het bestuur van de NEa wordt mandaat en machtiging verleend voor de bevoegdheden vervat in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0050059&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0050059&artikel=15) en [16 van de Tijdelijke wet inframarginale elektriciteitsheffing](https://wetten.overheid.nl/jci1.3:c:BWBR0050059&artikel=16).
+
+#### § 3. Ondermandaat
 
 #### § 5. Overgangs- en slotbepalingen
 
