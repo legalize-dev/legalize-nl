@@ -4,7 +4,7 @@ identifier: "BWBR0046873"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-07-26"
-last_updated: "2023-07-01"
+last_updated: "2024-07-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046873"
 soort: "ministeriele-regeling"
@@ -46,11 +46,11 @@ In deze regeling wordt verstaan onder:
 
 - **aanvraagtijdvak 1:** de periode die twee dagen na de publicatie van de Subsidieregeling IPCEI Health in de Staatscourant aanvangt om 09:00 uur en duurt tot en met 12 augustus 2022, 17:00 uur;
 
-- **algemene groepsvrijstellingsverordening:** Verordening (EU) nummer 651/2014 van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard (PbEU 2014, L 187);
+- **algemene groepsvrijstellingsverordening:** Verordening (EU) nummer 2023/1315 van de Commissie van 23 juni 2023 tot wijziging van [Verordening (EU) nr. 651/2014](32014R0651) waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard (PbEU, 2023, L 167/2);
 
 - **AMR:** antimicrobiële resistentie;
 
-- **directe partner:** een onderneming als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=5&z=2024-07-26&g=2023-07-01);
+- **directe partner:** een onderneming als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=5&z=2024-07-26&g=2024-07-26);
 
 - **eerste industriële toepassing van innovatieve producten of diensten:** activiteiten als bedoeld in paragraaf 3.2.3, onderdelen 23 en 24, van het IPCEI-steunkader;
 
@@ -82,7 +82,7 @@ In deze regeling wordt verstaan onder:
 
 - **haalbaarheidsstudie:** het onderzoek en de analyse van het potentieel van een project, met als doel de besluitvorming te ondersteunen door objectief en rationeel de sterke en de zwakke punten van een project, de kansen en risico's in kaart te brengen, waarbij ook wordt aangegeven welke middelen nodig zijn om het project te kunnen doorvoeren en wat uiteindelijk de slaagkansen zijn;
 
-- **indirecte partner:** een onderneming of onderzoeksorganisatie als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=5&z=2024-07-26&g=2023-07-01);
+- **indirecte partner:** een onderneming of onderzoeksorganisatie als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=5&z=2024-07-26&g=2024-07-26);
 
 - **industrieel onderzoek:** planmatig of kritisch onderzoek dat is gericht op het opdoen van nieuwe kennis en vaardigheden met het oog op de ontwikkeling van nieuwe producten, procedés of diensten, of om bestaande producten, procedés of diensten aanmerkelijk te verbeteren;
 
@@ -100,7 +100,7 @@ In deze regeling wordt verstaan onder:
 
 - **minister:** de Minister van Volksgezondheid, Welzijn en Sport;
 
-- **Nederlands belangrijk project:** deelproject of projectonderdeel als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2023-07-01) van een Europees belangrijk project uitgevoerd door in Nederland gevestigde ondernemingen of in voorkomend geval onderzoeksorganisaties;
+- **Nederlands belangrijk project:** deelproject of projectonderdeel als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2024-07-26) van een Europees belangrijk project uitgevoerd door in Nederland gevestigde ondernemingen of in voorkomend geval onderzoeksorganisaties;
 
 - **Nederlands samenwerkingsverband:** een samenwerkingsverband bestaande uit in Nederland gevestigde ondernemingen en onderzoeksorganisaties dat is opgericht voor de gezamenlijke uitvoering van activiteiten;
 
@@ -126,7 +126,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Toepasselijkheid [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
-Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) niet van toepassing, met uitzondering van [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=5) en [artikel 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=10.1).
+Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) niet van toepassing, met uitzondering van de [artikelen 5.1 tot en met 5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=5.1), [artikel 5.11](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=5.11) en [artikel 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=10.1).
 
 ##### Artikel 3. Subsidieverstrekking
 
@@ -160,7 +160,7 @@ Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.
 
 3. Subsidie wordt enkel verstrekt indien er sprake is van een financieringskloof waardoor de verwezenlijking van het Nederlandse belangrijke project zonder de subsidie onmogelijk of slechts beperkt mogelijk is.
 
-4. Subsidie wordt enkel verstrekt met inachtneming van de opschortende voorwaarden, bedoeld in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=12&z=2024-07-26&g=2023-07-01).
+4. Subsidie wordt enkel verstrekt met inachtneming van de opschortende voorwaarden, bedoeld in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=12&z=2024-07-26&g=2024-07-26).
 
 ##### Artikel 5. Directe en indirecte partner
 
@@ -174,23 +174,23 @@ Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.
 
 2. De subsidie aan een indirecte partner in een Nederlands belangrijk project bedraagt ten hoogste:
 
-- a. 50% van de subsidiabele kosten, voor zover deze betrekking hebben op industrieel onderzoek als bedoeld in [artikel 3, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2023-07-01), door een onderneming;
+- a. 50% van de subsidiabele kosten, voor zover deze betrekking hebben op industrieel onderzoek als bedoeld in [artikel 3, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2024-07-26), door een onderneming;
 
-- b. 25% van de subsidiabele kosten, voor zover deze betrekking hebben op experimentele ontwikkeling als bedoeld in [artikel 3, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2023-07-01), door een onderneming;
+- b. 25% van de subsidiabele kosten, voor zover deze betrekking hebben op experimentele ontwikkeling als bedoeld in [artikel 3, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2024-07-26), door een onderneming;
 
-- c. 50% van de subsidiabele kosten, voor zover deze betrekking hebben op een haalbaarheidsstudie als bedoeld in [artikel 3, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2023-07-01), door een onderneming;
+- c. 50% van de subsidiabele kosten, voor zover deze betrekking hebben op een haalbaarheidsstudie als bedoeld in [artikel 3, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2024-07-26), door een onderneming;
 
-- d. 80% van de subsidiabele kosten, voor zover deze betrekking hebben op niet-economisch industrieel onderzoek, experimentele ontwikkeling of een haalbaarheidsstudie als bedoeld in [artikel 3, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2023-07-01), door een onderzoeksorganisatie;
+- d. 80% van de subsidiabele kosten, voor zover deze betrekking hebben op niet-economisch industrieel onderzoek, experimentele ontwikkeling of een haalbaarheidsstudie als bedoeld in [artikel 3, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2024-07-26), door een onderzoeksorganisatie;
 
-- e. 10% van de subsidiabele kosten, voor zover deze betrekking hebben op investeringen als bedoeld in [artikel 3, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2023-07-01), door een middelgrote onderneming;
+- e. 10% van de subsidiabele kosten, voor zover deze betrekking hebben op investeringen als bedoeld in [artikel 3, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2024-07-26), door een middelgrote onderneming;
 
-- f. 20% van de subsidiabele kosten, voor zover deze betrekking hebben op investeringen als bedoeld in [artikel 3, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2023-07-01), door een kleine onderneming;
+- f. 20% van de subsidiabele kosten, voor zover deze betrekking hebben op investeringen als bedoeld in [artikel 3, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2024-07-26), door een kleine onderneming;
 
-- g. 50% van de subsidiabele kosten, voor zover deze betrekking hebben op de bouw of het upgraden van onderzoeksinfrastructuur als bedoeld in [artikel 3, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2023-07-01), door een onderneming;
+- g. 50% van de subsidiabele kosten, voor zover deze betrekking hebben op de bouw of het upgraden van onderzoeksinfrastructuur als bedoeld in [artikel 3, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2024-07-26), door een onderneming. De steunintensiteit kan tot 60% worden verhoogd indien ten minste twee lidstaten overheidsfinanciering verstrekken, of voor een onderzoeksinfrastructuur die op het niveau van de Unie wordt geëvalueerd en geselecteerd;
 
-- h. 15% van de subsidiabele kosten, voor zover deze betrekking hebben op proces- en organisatie-innovatie als bedoeld in [artikel 3, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2023-07-01), door een grote onderneming;
+- h. 15% van de subsidiabele kosten, voor zover deze betrekking hebben op proces- en organisatie-innovatie als bedoeld in [artikel 3, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2024-07-26), door een grote onderneming;
 
-- i. 50% van de subsidiabele kosten, voor zover deze betrekking hebben op proces- en organisatie-innovatie als bedoeld in [artikel 3, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2023-07-01), door een middelgrote of kleine onderneming.
+- i. 50% van de subsidiabele kosten, voor zover deze betrekking hebben op proces- en organisatie-innovatie als bedoeld in [artikel 3, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2024-07-26), door een middelgrote of kleine onderneming.
 
 3. De percentages, genoemd in het tweede lid, onder a, b en c, worden verhoogd met:
 
@@ -198,7 +198,7 @@ Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.
 
 - b. 20 procentpunten, indien de aanvrager een kleine onderneming is en de subsidiabele kosten worden gemaakt en betaald door deze kleine onderneming.
 
-4. De percentages, genoemd in het tweede lid, onder a en b, kunnen worden verhoogd met 10 procentpunten, indien voldaan wordt aan ten minste één van de voorwaarden, bedoeld in artikel 25, zesde lid, onderdeel b, onder i, aanhef en eerste of tweede streepje, of ii, van de algemene groepsvrijstellingsverordening.
+4. De percentages, genoemd in het tweede lid, onder a en b, kunnen worden verhoogd overeenkomstig hetgeen is bepaald in artikel 25, zesde lid, onderdelen a tot en met d, van de algemene groepsvrijstellingsverordening tot een maximale steunintensiteit van 80% van de in aanmerking komende kosten.
 
 ##### Artikel 7. Subsidiabele kosten
 
@@ -206,15 +206,15 @@ Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.
 
 2. De voor in subsidie in aanmerking komende kosten voor een indirecte partner bestaan uit:
 
-- a. de kosten, bedoeld in artikel 25, derde lid, van de algemene groepsvrijstellingsverordening, voor zover deze betrekking hebben op industrieel onderzoek en experimentele ontwikkeling als bedoeld in [artikel 3, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2023-07-01), door een onderneming;
+- a. de kosten, bedoeld in artikel 25, derde lid, van de algemene groepsvrijstellingsverordening, voor zover deze betrekking hebben op industrieel onderzoek en experimentele ontwikkeling als bedoeld in [artikel 3, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2024-07-26), door een onderneming;
 
-- b. de kosten, bedoeld in artikel 25, vierde lid, van de algemene groepsvrijstellingsverordening, voor zover deze betrekking hebben op een haalbaarheidsstudie als bedoeld in [artikel 3, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2023-07-01), door een onderneming;
+- b. de kosten, bedoeld in artikel 25, vierde lid, van de algemene groepsvrijstellingsverordening, voor zover deze betrekking hebben op een haalbaarheidsstudie als bedoeld in [artikel 3, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2024-07-26), door een onderneming;
 
-- c. de kosten, bedoeld in artikel 17, tweede lid, onderdeel a, van de algemene groepsvrijstellingsverordening, voor zover deze betrekking hebben op investeringen als bedoeld in [artikel 3, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2023-07-01), door een middelgrote of kleine onderneming;
+- c. de kosten, bedoeld in artikel 17, tweede lid, onderdeel a, van de algemene groepsvrijstellingsverordening, voor zover deze betrekking hebben op investeringen als bedoeld in [artikel 3, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2024-07-26), door een middelgrote of kleine onderneming;
 
-- d. de kosten, bedoeld in artikel 26, vijfde lid, van de algemene groepsvrijstellingverordening, voor zover deze betrekking hebben op de bouw of het upgraden van onderzoeksinfrastructuur als bedoeld in [artikel 3, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2023-07-01), door een onderneming;
+- d. de kosten, bedoeld in artikel 26, vijfde lid, van de algemene groepsvrijstellingverordening, voor zover deze betrekking hebben op de bouw of het upgraden van onderzoeksinfrastructuur als bedoeld in [artikel 3, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2024-07-26), door een onderneming;
 
-- e. de kosten, bedoeld in artikel 29, derde lid, van de algemene groepsvrijstellingsverordening, voor zover deze betrekking hebben op proces- en organisatie-innovatie als bedoeld in [artikel 3, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2023-07-01), door een onderneming.
+- e. de kosten, bedoeld in artikel 29, derde lid, van de algemene groepsvrijstellingsverordening, voor zover deze betrekking hebben op proces- en organisatie-innovatie als bedoeld in [artikel 3, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2024-07-26), door een onderneming.
 
 ##### Artikel 8. Subsidieplafond en wijze van verdeling
 
@@ -228,15 +228,15 @@ Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.
 
 - c. € 7.500.000 per subsidieaanvrager, indien de activiteiten bestaan uit:
 
-- 1°. een haalbaarheidsstudie door een onderneming of onderzoeksorganisatie als bedoeld in [artikel 3, tweede lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2023-07-01);
+- 1°. een haalbaarheidsstudie door een onderneming of onderzoeksorganisatie als bedoeld in [artikel 3, tweede lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2024-07-26);
 
-- 2°. het verrichten van investeringen als bedoeld in [artikel 3, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2023-07-01), door een middelgrote of kleine onderneming; of
+- 2°. het verrichten van investeringen als bedoeld in [artikel 3, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2024-07-26), door een middelgrote of kleine onderneming; of
 
-- 3°. proces- en organisatie-innovatie als bedoeld in [artikel 3, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2023-07-01), door een onderneming;
+- 3°. proces- en organisatie-innovatie als bedoeld in [artikel 3, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2024-07-26), door een onderneming;
 
-3. De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aanvragen overeenkomstig de rangschikkingscriteria, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=11&z=2024-07-26&g=2023-07-01).
+3. De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aanvragen overeenkomstig de rangschikkingscriteria, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=11&z=2024-07-26&g=2024-07-26).
 
-4. Indien aan meerdere subsidieaanvragen dezelfde score is toegekend na toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=11&z=2024-07-26&g=2023-07-01), wordt door middel van loting van die aanvragen de definitieve plaats in de rangschikking bepaald.
+4. Indien aan meerdere subsidieaanvragen dezelfde score is toegekend na toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=11&z=2024-07-26&g=2024-07-26), wordt door middel van loting van die aanvragen de definitieve plaats in de rangschikking bepaald.
 
 ##### Artikel 9. Subsidieaanvraag
 
@@ -252,7 +252,7 @@ Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.
 
 - c. kerngegevens over het Nederlandse belangrijke project, die bestaan uit een samenvatting van de projectomschrijving en, voor zover van toepassing, een lijst met deelnemers aan het samenwerkingsverband dat het Nederlandse belangrijke project zal uitvoeren en de activiteiten die iedere deelnemer in het samenwerkingsverband zal verrichten;
 
-- d. gegevens over de grootte van de onderneming, indien de aanvrager aanspraak wil maken op een verhoogd percentage aan subsidie voor een kleine of middelgrote onderneming als bedoeld in [artikel 6, derde lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=6&z=2024-07-26&g=2023-07-01).
+- d. gegevens over de grootte van de onderneming, indien de aanvrager aanspraak wil maken op een verhoogd percentage aan subsidie voor een kleine of middelgrote onderneming als bedoeld in [artikel 6, derde lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=6&z=2024-07-26&g=2024-07-26).
 
 4. De aanvraag gaat vergezeld van:
 
@@ -262,7 +262,7 @@ Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.
 
 - 1°. de omvang van de gevraagde subsidie;
 
-- 2°. de totale kosten van het Nederlandse belangrijke project, inclusief een beschrijving van welk deel van de kosten betrekking heeft op één of meer van de activiteiten als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2023-07-01);
+- 2°. de totale kosten van het Nederlandse belangrijke project, inclusief een beschrijving van welk deel van de kosten betrekking heeft op één of meer van de activiteiten als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2024-07-26);
 
 - 3°. informatie over de wijze waarop de deelnemers in het Europees of Nederlands samenwerkingsverband hun eigen aandeel in de projectkosten van het Nederlandse belangrijke project financieren;
 
@@ -270,11 +270,11 @@ Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.
 
 - 5°. de aanwezige financieringskloof, waaronder mede begrepen informatie over de verwachte opbrengsten gedurende de levensduur van een investering;
 
-- c. een managementsamenvatting en beschrijving hoe het project bijdraagt aan de nationale beleidsprioriteiten, bedoeld in [artikel 11, tweede lid, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=11&z=2024-07-26&g=2023-07-01).
+- c. een managementsamenvatting en beschrijving hoe het project bijdraagt aan de nationale beleidsprioriteiten, bedoeld in [artikel 11, tweede lid, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=11&z=2024-07-26&g=2024-07-26).
 
 - d. een ingevuld prodcom-template;
 
-- e. documenten met daarin een beknopte beschrijving van de projectorganisatie en de kennis, ervaring en capaciteiten van de bij de uitvoering van het Nederlandse belangrijke project betrokken organisaties of personen, voor zover deze relevant zijn voor de toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=11&z=2024-07-26&g=2023-07-01); en
+- e. documenten met daarin een beknopte beschrijving van de projectorganisatie en de kennis, ervaring en capaciteiten van de bij de uitvoering van het Nederlandse belangrijke project betrokken organisaties of personen, voor zover deze relevant zijn voor de toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=11&z=2024-07-26&g=2024-07-26); en
 
 - f. een plan dat betrekking heeft op de wijze waarop de kennisverspreiding plaatsvindt.
 
@@ -366,23 +366,23 @@ De minister beslist afwijzend op een aanvraag voor subsidie indien:
 
 - d. de manier waarop de financiële middelen effectief en efficiënt worden ingezet, hetgeen onder meer kan blijken uit de hoogte van de gevraagde subsidie ten opzichte van andere financiële bijdragen aan het Nederlandse belangrijke project en de verhouding van de inzet van deze financiële middelen tot het beoogde resultaat, mede gelet op het nul-scenario.
 
-5. De minister kent, voor subsidieaanvragen die behoren tot de eerste wave, ten minste één en ten hoogste tien punten toe per onderdeel, als bedoeld in het tweede lid, onder a tot en met c, en het derde lid, onder a tot en met d.
+4. De minister kent, voor subsidieaanvragen die behoren tot de eerste wave, ten minste één en ten hoogste tien punten toe per onderdeel, als bedoeld in het tweede lid, onder a tot en met c, en het derde lid, onder a tot en met d.
 
-6. Een subsidieaanvraag die op een onderdeel minder dan zes punten scoort, wordt afgewezen.
+5. Een subsidieaanvraag die op een onderdeel minder dan zes punten scoort, wordt afgewezen.
 
-7. Het punt dat wordt toegekend aan het onderdeel, bedoeld in het tweede lid, onder a, wordt vermenigvuldigd met 4.
+6. Het punt dat wordt toegekend aan het onderdeel, bedoeld in het tweede lid, onder a, wordt vermenigvuldigd met 4.
 
-8. Het punt dat wordt toegekend aan het onderdeel, bedoeld in het tweede lid, onder b, wordt:
+7. Het punt dat wordt toegekend aan het onderdeel, bedoeld in het tweede lid, onder b, wordt:
 
 - a. vermenigvuldigd met 2 indien het project betrekking heeft op de beleidsdoelstelling, bedoeld in sub 1°; of
 
 - b. vermenigvuldigd met 1,5 indien het project betrekking heeft op de beleidsdoelstelling, bedoeld in sub 2°.
 
-9. De punten die worden toegekend aan de onderdelen, bedoeld in het derde lid, onder c en d, wordt vermenigvuldigd met 2.
+8. De punten die worden toegekend aan de onderdelen, bedoeld in het derde lid, onder c en d, wordt vermenigvuldigd met 2.
 
-10. Na het toepassen van de wegingsfactoren, bedoeld in het zevende, achtste en negende lid, worden de punten die zijn toegekend aan de onderdelen, bedoeld in het tweede lid, onder a tot en met c, en het derde lid, onder a tot en met d, opgeteld.
+9. Na het toepassen van de wegingsfactoren, bedoeld in het zevende, achtste en negende lid, worden de punten die zijn toegekend aan de onderdelen, bedoeld in het tweede lid, onder a tot en met c, en het derde lid, onder a tot en met d, opgeteld.
 
-11. De minister rangschikt de subsidieaanvragen die tot een wave behoren en waarop niet afwijzend is beslist van hoog naar laag aan de hand van het totale puntenaantal dat op grond van de voorgaande leden is toegekend.
+10. De minister rangschikt de subsidieaanvragen die tot een wave behoren en waarop niet afwijzend is beslist van hoog naar laag aan de hand van het totale puntenaantal dat op grond van de voorgaande leden is toegekend.
 
 ##### Artikel 12. Subsidieverlening onder opschortende voorwaarden
 
@@ -394,11 +394,11 @@ De minister beslist afwijzend op een aanvraag voor subsidie indien:
 
 - a. de subsidieaanvrager als directe partner wordt vermeld in het Europese goedkeuringsbesluit of de aan de indirecte partner verstrekte staatssteun op basis van de algemene groepsvrijstellingsverordening wordt gerechtvaardigd; en
 
-- b. er binnen het subsidieplafond en na toepassing van de wijze van verdeling, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=8&z=2024-07-26&g=2023-07-01), voldoende middelen zijn om de subsidie te verlenen.
+- b. er binnen het subsidieplafond en na toepassing van de wijze van verdeling, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=8&z=2024-07-26&g=2024-07-26), voldoende middelen zijn om de subsidie te verlenen.
 
 ##### Artikel 13. Definitieve subsidieverlening
 
-1. De minister neemt binnen dertien weken na publicatie van het laatste Europese goedkeuringsbesluit onder de IPCEI Health dat betrekking heeft op een besluit dat genomen is op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=12&z=2024-07-26&g=2023-07-01), een besluit tot subsidieverlening.
+1. De minister neemt binnen dertien weken na publicatie van het laatste Europese goedkeuringsbesluit onder de IPCEI Health dat betrekking heeft op een besluit dat genomen is op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=12&z=2024-07-26&g=2024-07-26), een besluit tot subsidieverlening.
 
 2. Het besluit tot subsidieverlening, bedoeld in het eerste lid, vermeldt in ieder geval:
 
@@ -460,9 +460,9 @@ De minister beslist afwijzend op een aanvraag voor subsidie indien:
 
 1. Indien in het Nederlandse belangrijke project activiteiten betreffende onderzoek, ontwikkeling en innovatie, de eerste industriële toepassing van innovatieve producten of diensten of infrastructuurprojectactiviteiten door een onderneming worden verricht, worden deze projectactiviteiten door deze onderneming overeenkomstig de in het Europese goedkeuringsbesluit opgenomen verplichtingen uitgevoerd.
 
-2. Indien in het Nederlandse belangrijke project activiteiten betreffende proces- en organisatie-innovatie als bedoeld in [artikel 3, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2023-07-01), worden verricht door een grote onderneming, worden deze projectactiviteiten door de grote onderneming uitgevoerd in daadwerkelijke samenwerking met middelgrote en kleine ondernemingen, die ten minste 30% van de totale subsidiabele kosten dragen.
+2. Indien in het Nederlandse belangrijke project activiteiten betreffende proces- en organisatie-innovatie als bedoeld in [artikel 3, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2024-07-26), worden verricht door een grote onderneming, worden deze projectactiviteiten door de grote onderneming uitgevoerd in daadwerkelijke samenwerking met middelgrote en kleine ondernemingen, die ten minste 30% van de totale subsidiabele kosten dragen.
 
-3. Indien in het Nederlandse belangrijke project activiteiten betreffende de bouw of het upgraden van onderzoeksinfrastructuur als bedoeld in [artikel 3, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2023-07-01), door een onderneming worden verricht:
+3. Indien in het Nederlandse belangrijke project activiteiten betreffende de bouw of het upgraden van onderzoeksinfrastructuur als bedoeld in [artikel 3, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2024-07-26), door een onderneming worden verricht:
 
 - a. worden deze projectactiviteiten door deze onderneming in de boekhouding opgenomen als niet-economische activiteiten; en
 
@@ -478,7 +478,7 @@ De minister beslist afwijzend op een aanvraag voor subsidie indien:
 
 1. Op verzoek van de minister verleent de subsidieontvanger medewerking aan het verspreiden van de resultaten van de op grond van deze titel gesubsidieerde activiteiten.
 
-2. De subsidieontvanger verstrekt gedurende de looptijd van het Nederlandse belangrijke project jaarlijks een voortgangsrapportage en jaarplan ten aanzien van het project die de minister kan gebruiken voor de openbare brede verspreiding van de niet-bedrijfsgevoelige kennis en informatie die met het project worden opgedaan.
+2. De subsidieontvanger verstrekt gedurende de looptijd van het Nederlandse belangrijke project jaarlijks een financieel en inhoudelijke voortgangsrapportage ten aanzien van het project die de minister kan gebruiken voor de openbare brede verspreiding van de niet-bedrijfsgevoelige kennis en informatie die met het project worden opgedaan.
 
 3. De subsidieontvanger maakt de niet bedrijfsgevoelige kennis en informatie die met het project wordt opgedaan na afloop van het project openbaar in een, naar het oordeel van de minister, kwalitatief voldoende verslag.
 
@@ -514,17 +514,17 @@ De minister beslist afwijzend op een aanvraag voor subsidie indien:
 
 ##### Artikel 19. Staatssteun
 
-De subsidie, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2023-07-01), bevat, met uitzondering van niet-economisch industrieel onderzoek, experimentele ontwikkeling of een haalbaarheidsstudie door een onderzoeksorganisatie, staatssteun en wordt gerechtvaardigd door:
+De subsidie, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2024-07-26), bevat, met uitzondering van niet-economisch industrieel onderzoek, experimentele ontwikkeling of een haalbaarheidsstudie door een onderzoeksorganisatie, staatssteun en wordt gerechtvaardigd door:
 
-- a. paragraaf 3.2.3, onderdelen 22, 23, 24 en 25, van het IPCEI-steunkader, voor zover de subsidiabele activiteiten betrekking hebben op onderzoek en ontwikkeling, de eerste industriële toepassing van innovatieve producten of diensten of infrastructuuractiviteiten als bedoeld in [artikel 3, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2023-07-01), door een onderneming;
+- a. paragraaf 3.2.3, onderdelen 22, 23, 24 en 25, van het IPCEI-steunkader, voor zover de subsidiabele activiteiten betrekking hebben op onderzoek en ontwikkeling, de eerste industriële toepassing van innovatieve producten of diensten of infrastructuuractiviteiten als bedoeld in [artikel 3, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2024-07-26), door een onderneming;
 
-- b. artikel 25 van de algemene groepsvrijstellingsverordening, voor zover de subsidiabele activiteiten betrekking hebben op industrieel onderzoek, experimentele ontwikkeling of een haalbaarheidsstudie als bedoeld in [artikel 3, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2023-07-01), door een onderneming;
+- b. artikel 25 van de algemene groepsvrijstellingsverordening, voor zover de subsidiabele activiteiten betrekking hebben op industrieel onderzoek, experimentele ontwikkeling of een haalbaarheidsstudie als bedoeld in [artikel 3, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2024-07-26), door een onderneming;
 
-- c. artikel 17 van de algemene groepsvrijstellingsverordening, voor zover de subsidiabele activiteiten betrekking hebben op investeringen als bedoeld in [artikel 3, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2023-07-01), door een middelgrote of kleine onderneming;
+- c. artikel 17 van de algemene groepsvrijstellingsverordening, voor zover de subsidiabele activiteiten betrekking hebben op investeringen als bedoeld in [artikel 3, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2024-07-26), door een middelgrote of kleine onderneming;
 
-- d. artikel 26 van de algemene groepsvrijstellingsverordening, voor zover de subsidiabele activiteiten betrekking hebben op de bouw of upgrading van onderzoeksinfrastructuur als bedoeld in [artikel 3, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2023-07-01);
+- d. artikel 26 van de algemene groepsvrijstellingsverordening, voor zover de subsidiabele activiteiten betrekking hebben op de bouw of upgrading van onderzoeksinfrastructuur als bedoeld in [artikel 3, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2024-07-26);
 
-- e. artikel 29 van de algemene groepsvrijstellingsverordening, voor zover de subsidiabele activiteiten betrekking hebben op proces- en organisatie innovatie als bedoeld in [artikel 3, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2023-07-01).
+- e. artikel 29 van de algemene groepsvrijstellingsverordening, voor zover de subsidiabele activiteiten betrekking hebben op proces- en organisatie innovatie als bedoeld in [artikel 3, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2024-07-26).
 
 ##### Artikel 20. Hardheidsclausule
 
@@ -534,7 +534,7 @@ De minister kan een of meer bepalingen van deze regeling buiten toepassing laten
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-2. Deze regeling vervalt met ingang van 1 juli 2027, met dien verstande dat deze van toepassing blijft op subsidies die voor die datum zijn verleend.
+2. Deze regeling vervalt met ingang van 1 juli 2029, met dien verstande dat deze van toepassing blijft op subsidies die voor die datum zijn verleend.
 
 ##### Artikel 22. Citeertitel
 
