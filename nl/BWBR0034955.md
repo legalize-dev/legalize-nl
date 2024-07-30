@@ -4,7 +4,7 @@ identifier: "BWBR0034955"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-05"
-last_updated: "2024-07-11"
+last_updated: "2024-07-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034955"
 soort: "ministeriele-regeling"
@@ -66,7 +66,7 @@ Besluit:
 
 5. De bevoegde autoriteit, bedoeld in artikel 2, zevende lid, van Besluit nr. 2014/512/GBVB is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking.
 
-6. De bevoegde autoriteit, bedoeld in artikel 3 quater, zesde lid, lid 6 bis, lid 6 ter, lid 6 quinquies en lid 6 sexies, van [Verordening (EU) nr. 833/2014](32014R0833), is de Minister van Infrastructuur en Waterstaat, de Minister van Financiën, of de Minister van Economische Zaken en Klimaat, elk voor het gebied waartoe hun competenties zich uitstrekken. De bevoegde autoriteit, bedoeld in artikel 3 quater, lid 6 quater, en lid 6 septies, en artikel 11, vierde lid, van [Verordening (EU) nr. 833/2014](32014R0833), is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking of de Minister van Financiën, elk voor het gebied waartoe hun competenties zich uitstrekken. De bevoegde autoriteit, bedoeld in artikel 3 quinquies, lid 1 bis, derde en vijfde lid, artikel 3 sexies bis, vijfde lid, lid 5 bis, lid 5 ter en lid 5 quater, artikel 3 sexies ter, eerste en tweede lid, en vierde tot en met zesde lid, artikel 3 sexies quater, eerste lid en derde tot en met vijfde lid, en artikel 3 terdecies, lid 1 quinquies en vierde lid, van [Verordening (EU) nr. 833/2014](32014R0833), is de Minister van Infrastructuur en Waterstaat.
+6. De bevoegde autoriteit, bedoeld in artikel 3 quater, zesde lid, lid 6 bis, lid 6 ter, lid 6 quinquies en lid 6 sexies, van [Verordening (EU) nr. 833/2014](32014R0833), is de Minister van Infrastructuur en Waterstaat, de Minister van Financiën, of de Minister van Economische Zaken en Klimaat, elk voor het gebied waartoe hun competenties zich uitstrekken. De bevoegde autoriteit, bedoeld in artikel 3 quater, lid 6 quater, en lid 6 septies, en artikel 11, vierde lid, van [Verordening (EU) nr. 833/2014](32014R0833), is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking of de Minister van Financiën, elk voor het gebied waartoe hun competenties zich uitstrekken. De bevoegde autoriteit, bedoeld in artikel 3 quinquies, lid 1 bis, derde en vijfde lid, artikel 3 sexies bis, vijfde lid, lid 5 bis, lid 5 ter en lid 5 quater, artikel 3 sexies ter, eerste en tweede lid, en vierde tot en met zesde lid, artikel 3 sexies quater, eerste lid en derde tot en met vijfde lid, en artikel 3 terdecies, vierde lid, van [Verordening (EU) nr. 833/2014](32014R0833), is de Minister van Infrastructuur en Waterstaat. De bevoegde autoriteit, bedoeld in artikel 3 terdecies, lid 1 quinquies, van [Verordening (EU) nr. 833/2014](32014R0833), is de Nationale en Internationale Wegvervoer Organisatie.
 
 7. De bevoegde autoriteit, bedoeld in artikel 3 bis, derde lid, van [Verordening (EU) nr. 833/2014](32014R0833), is de Minister voor Klimaat en Energie of de Minister van Financiën, elk voor het gebied waartoe hun competenties zich uitstrekken. De bevoegde autoriteit, bedoeld in artikel 3 bis, lid 3 bis, van [Verordening (EU) nr. 833/2014](32014R0833), is de Minister voor Klimaat en Energie. De bevoegde autoriteit, bedoeld in artikel 3 octies, zevende lid, en in artikel 3 decies, lid 3 quater, van [Verordening (EU) nr. 833/2014](32014R0833), is de Minister voor Klimaat en Energie, de Minister van Financiën of de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, elk voor het gebied waartoe hun competenties zich uitstrekken. De bevoegde autoriteit, bedoeld in artikel 3 quaterdecies, elfde lid, artikel 3 quindecies, lid 6 bis, en twaalfde lid, en artikel 3 novodecies, derde, vierde en vijfde lid, van [Verordening (EU) nr. 833/2014](32014R0833), is de Minister voor Klimaat en Energie. De bevoegde autoriteit, bedoeld in artikel 3 quindecies, negende lid, van [Verordening (EU) nr. 833/2014](32014R0833), is de Minister van Financiën of de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, elk voor het gebied waartoe hun competenties zich uitstrekken. De bevoegde autoriteit, bedoeld in artikel 5 bis bis, lid 1 quater, van [Verordening (EU) nr. 833/2014](32014R0833), is de Minister van Economische Zaken en Klimaat. De bevoegde autoriteit, bedoeld in artikel 5 bis bis, lid 3 bis, van [Verordening (EU) nr. 833/2014](32014R0833), is de Minister van Economische Zaken en Klimaat, de Minister van Financiën of de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, elk voor het gebied waartoe hun competenties zich uitstrekken. De bevoegde autoriteit, bedoeld in artikel 5 bis bis, lid 1 quinquies en lid 1 sexies, van [Verordening (EU) nr. 833/2014](32014R0833), is de Minister voor Klimaat en Energie of de Minister van Economische Zaken en Klimaat, elk voor het gebied waartoe hun competenties zich uitstrekken. De bevoegde autoriteit, bedoeld in artikel 5 septdecies, derde lid, van [Verordening (EU) nr. 833/2014](32014R0833), is de Minister voor Klimaat en Energie.
 
@@ -116,7 +116,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1c
 
-Het verbod tot overtreding van artikel 4, eerste lid, onder a en b, tweede lid en de leden 2bis, 2bisbis en 2ter, van Verordening (EU) nr. 833/2014, op grond van [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0034955&artikel=1a&z=2024-07-11&g=2024-07-11) strekt zich tevens uit tot het verlenen van tussenhandeldiensten met betrekking tot goederen en technologie vermeld in de gemeenschappelijke lijst van militaire goederen.
+Het verbod tot overtreding van artikel 4, eerste lid, onder a en b, tweede lid en de leden 2bis, 2bisbis en 2ter, van Verordening (EU) nr. 833/2014, op grond van [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0034955&artikel=1a&z=2024-07-30&g=2024-07-30) strekt zich tevens uit tot het verlenen van tussenhandeldiensten met betrekking tot goederen en technologie vermeld in de gemeenschappelijke lijst van militaire goederen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -229,5 +229,15 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 2. Een aantekening als bedoeld in het eerste lid, wordt in het register opgenomen indien het Octrooicentrum Nederland op eigen gezag deze relatie constateert of informatie ontvangt van Nederlandse of buitenlandse overheidsinstanties dan wel van Nederlandse of buitenlandse van overheidswege aangewezen instanties die belast zijn met het toezicht op de naleving of met de uitvoering van de verdragen, besluiten, aanbevelingen en afspraken, bedoeld in [artikel 2 van de Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=2), die de relatie legt of bevestigt als bedoeld in het eerste lid.
 
 3. Het Octrooicentrum Nederland verwijdert een aantekening als bedoeld in het eerste lid, indien de relatie als bedoeld in het eerste lid, zich niet langer voordoet.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1d
+
+Dit onderdeel is nog niet inwerking getreden
+
+## Bijlage. als bedoeld in [artikel 1d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034955&artikel=1d&z=2024-07-30&g=2024-07-30)
+
+Dit onderdeel is nog niet inwerking getreden
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
