@@ -4,7 +4,7 @@ identifier: "BWBR0020371"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-05"
-last_updated: "2023-08-24"
+last_updated: "2024-07-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020371"
 soort: "ministeriele-regeling"
@@ -46,9 +46,9 @@ Besluit:
 
 ##### Artikel 1
 
-1. Het is verboden te handelen in strijd met artikel 1 bis, eerste lid, artikel 1 ter, eerste lid, artikel 1 ter bis, artikel 1 quater, eerste lid, artikel 1 quinquies, eerste lid, artikel 1 sexies, eerste lid en tweede lid, artikel 1 septies, eerste en tweede lid, artikel 1 octies, eerste lid, en lid 1 bis, artikel 1 nonies, eerste lid, artikel 1 decies, eerste lid, en lid 1 bis, artikel 1 undecies, artikel 1 undecies bis, eerste lid, artikel 1 undecies ter, artikel 1 duodecies, eerste lid, artikel 1 terdecies, eerste lid, artikel 1 quaterdecies, artikel 1 sedecies, eerste lid, artikel 1 septiesdecies, eerste lid, artikel 1 octiesdecies, eerste lid, artikel 1 noviesdecies, eerste lid, artikel 1 vicies, eerste lid, artikel 1 vicies bis, eerste tot en met vierde lid, artikel 1 unvicies, eerste lid, artikel 1 duovicies, eerste lid, artikel 1 quinvicies, eerste lid, artikel 1 sexvicies, eerste lid, artikel 1 septvicies, artikel 1 septvicies bis, eerste lid, artikel 1 septvicies ter, artikel 1 septvicies quater, eerste lid, artikel 2, eerste, tweede en derde lid, artikel 5, artikel 8 ter, eerste lid, en artikel 8 quinquies, eerste lid, van Verordening (EG) nr. 765/2006 van de Raad van de Europese Unie van 18 mei 2006 betreffende beperkende maatregelen met het oog op de situatie in Belarus en de betrokkenheid van Belarus bij de Russische agressie tegen Oekraïne (PbEU, L 134).
+1. Het is verboden te handelen in strijd met artikel 1 bis, eerste lid, artikel 1 ter, eerste lid, artikel 1 ter bis, artikel 1 ter ter, eerste, tweede en derde lid, artikel 1 quater, eerste lid, artikel 1 quinquies, eerste lid, artikel 1 sexies, eerste lid, lid 1 bis en tweede lid, artikel 1 septies, eerste lid, lid 1 bis en tweede lid, artikel 1 septies quinquies, eerste en tweede lid, artikel 1 octies, eerste lid, en lid 1 bis, artikel 1 octies bis, eerste, tweede en derde lid, artikel 1 octies ter, eerste lid, artikel 1 octies quater, eerste en tweede lid, artikel 1 nonies, eerste lid, tweede en vijfde lid, artikel 1 decies, eerste lid, en lid 1 bis, artikel 1 undecies, artikel 1 undecies bis, eerste lid, artikel 1 undecies ter, artikel 1 undecies quater, eerste tot en met vijfde lid, artikel 1 duodecies, eerste lid, artikel 1 terdecies, eerste lid, artikel 1 quaterdecies, artikel 1 sexdecies, eerste lid, artikel 1 septiesdecies, eerste lid, artikel 1 octiesdecies, eerste lid, artikel 1 noviesdecies, eerste lid, artikel 1 noviesdecies bis, eerste en tweede lid, artikel 1 noviesdecies ter, eerste tot en met vierde lid, artikel 1 noviesdecies quater, eerste tot en met derde lid, artikel 1 vicies, eerste lid, en lid 1 bis, artikel 1 vicies bis, eerste lid, lid 1 bis, tweede tot en met vierde lid, artikel 1 unvicies, eerste lid, artikel 1 duovicies, eerste lid, artikel 1 quinvicies, eerste lid, artikel 1 sexvicies, eerste lid, artikel 1 septvicies, artikel 1 septvicies bis, eerste lid, artikel 1 septvicies ter, artikel 1 septvicies quater, eerste lid, lid 1 bis, lid 1 ter, lid 1 quater en lid 1 quinquies, artikel 2, eerste, tweede en derde lid, artikel 5, artikel 8 ter, eerste lid, artikel 8 quinquies, eerste lid, artikel 8 octies, eerste lid, vierde lid tot en met zesde lid, artikel 8 octies bis, eerste en derde lid, artikel 8 decies en artikel 8 undecies, eerste lid, van [Verordening (EG) nr. 765/2006](32006R0765) van de Raad van de Europese Unie van 18 mei 2006 betreffende beperkende maatregelen met het oog op de situatie in Belarus en de betrokkenheid van Belarus bij de Russische agressie tegen Oekraïne (PbEU, L 134).
 
-2. Een verbod als bedoeld in het eerste lid is niet van toepassing in gevallen waarin artikel 1 bis, tweede of derde lid, artikel 1 ter, tweede of derde lid, artikel 1 sexies, derde, vierde, of vijfde lid, artikel 1 septies, derde lid, vierde lid, lid 4 bis, vijfde lid, of lid 5 bis, artikel 1 septies bis, eerste lid, artikel 1 nonies, tweede of vierde lid, artikel 1 undecies bis, tweede lid, artikel 1 duodecies, tweede of derde lid, artikel 1 terdecies, tweede lid, artikel 1 sedecies, tweede lid, artikel 1 septiesdecies, tweede lid, artikel 1 octiesdecies, tweede lid, artikel 1 noviesdecies, tweede lid, artikel 1 vicies, tweede of derde lid, artikel 1 vicies bis, vijfde, zesde, zevende of tiende lid, artikel 1 unvicies, tweede lid, artikel 1 duovicies, tweede of derde lid, artikel 1 tervicies, eerste lid, artikel 1 quatervicies, eerste lid, artikel 1 quinvicies, tweede lid, artikel 1 sexvicies, tweede lid, artikel 1 septvicies bis, tweede lid, artikel 1 septvicies quater, tweede lid, derde of vierde lid, artikel 3, eerste of tweede lid, artikel 3 bis, eerste lid, artikel 4, artikel 4 bis, artikel 4 ter, artikel 8 ter, tweede lid, of artikel 8 quater, eerste lid, van Verordening (EG) nr. 765/2006 van toepassing is.
+2. Een verbod als bedoeld in het eerste lid is niet van toepassing in gevallen waarin artikel 1 bis, tweede of derde lid, artikel 1 ter, tweede of derde lid, artikel 1 ter ter, vierde tot en met vijftiende lid, artikel 1 sexies, derde lid, lid 3 bis, vierde lid, lid 4 bis, of vijfde lid, artikel 1 septies, derde lid, lid 3 bis, vierde lid, lid 4 bis, lid 4 ter, vijfde lid, of lid 5 bis, artikel 1 septies bis, eerste lid, artikel 1 septies quinquies, derde lid, artikel 1 octies bis, vierde, vijfde of zesde lid, artikel 1 octies ter, tweede lid, artikel 1 octies quater, derde of vierde lid, artikel 1 nonies, derde of vierde lid, artikel 1 undecies bis, tweede lid, artikel 1 undecies quater, zesde, zevende, achtste, negende, tiende, elfde, twaalfde, dertiende of viertiende lid, artikel 1 duodecies, tweede of derde lid, artikel 1 terdecies, tweede lid, artikel 1 sexdecies, tweede lid, artikel 1 septiesdecies, tweede lid, artikel 1 octiesdecies, tweede lid, artikel 1 noviesdecies, tweede lid, artikel 1 noviesdecies bis, derde, vierde, vijfde, zesde, zevende, achtste, negende, tiende of elfde lid, artikel 1 noviesdecies ter, vijfde, zesde of zevende lid, artikel 1 noviesdecies quater, vierde of vijfde lid, artikel 1 vicies, tweede, derde of vierde lid, artikel 1 vicies bis, vijfde lid, zesde lid, lid 6 bis, lid 6 ter, zevende lid, lid 7 bis, lid 7 ter of tiende lid, artikel 1 unvicies, tweede lid, artikel 1 unvicies bis, lid 6 bis, lid 6 ter, lid 7 bis en lid 7 ter, artikel 1 duovicies, tweede of derde lid, artikel 1 tervicies, eerste lid, artikel 1 quatervicies, eerste lid, artikel 1 quinvicies, tweede lid, artikel 1 sexvicies, tweede lid, artikel 1 septvicies bis, tweede lid, artikel 1 septvicies quater, tweede lid, lid 2 bis, derde of vierde lid, artikel 3, eerste of tweede lid, artikel 3 bis, eerste lid, artikel 4, artikel 4 bis, artikel 4 ter, artikel 4 quater, artikel 8 ter, tweede lid, artikel 8 quater, eerste lid, artikel 8 quinquies bis, eerste, tweede of derde lid, artikel 8 septies, eerste of vijfde lid, artikel 8 octies, tweedeof derde lid, of artikel 8 octies bis, tweede of vierde lid, van [Verordening (EG) nr. 765/2006](32006R0765) van toepassing is.
 
 ##### Artikel 2
 
@@ -62,17 +62,23 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1a
 
-1. De bevoegde autoriteit, bedoeld in artikel 1 bis, derde lid, en artikel 1 quater, eerste en tweede lid, van Verordening (EG) nr. 765/2006 is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking.
+1. De bevoegde autoriteit, bedoeld in artikel 1 bis, derde lid, artikel 1 quater, eerste en tweede lid, artikel 1 septies, lid 4 ter, artikel 1 undecies quater, twaalfde en veertiende lid, artikel 1 noviesdecies bis, vierde en vijfde lid, artikel 1 vicies bis, lid 6 ter, lid 7 bis en lid 7 ter, en artikel 8 octies, vierde en zesde lid, van [Verordening (EG) nr. 765/2006](32006R0765) is de Minister voor Buitenlandse Handel en Ontwikkelingshulp.
 
-2. De bevoegde autoriteit, bedoeld in artikel 1 ter, tweede lid, artikel 1 quinquies, eerste lid, artikel 1 sexies, derde tot en met achtste lid, artikel 1 septies, derde tot en met achtste lid, artikel 1 septies bis, artikel 1 septies quater, eerste lid, artikel 1 vicies, tweede lid, en artikel 1 vicies bis, zesde en zevende lid, van Verordening (EG) nr. 765/2006 is, voor zover het betreft de verlening van de bedoelde diensten of transacties met betrekking tot technische bijstand of tussenhandeldiensten en informatie of kennisgevingen over deze onderwerpen, de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking en, voor zover het betreft de financiering of financiële bijstand, financiële diensten en informatie of kennisgevingen over deze onderwerpen, de Minister van Financiën.
+2. De bevoegde autoriteit, bedoeld in artikel 1 ter, tweede lid, artikel 1 ter ter, achtste lid, negende lid, twaalfde lid, dertiende lid, en veertiende lid, artikel 1 quinquies, eerste lid, artikel 1 sexies, derde tot en met achtste lid, artikel 1 septies, derde tot en met achtste lid, artikel 1 septies bis, eerste en derde lid, artikel 1 septies quater, eerste lid, artikel 1 octies quater, vierde lid, artikel 1 noviesdecies bis, elfde lid, artikel 1 vicies, tweede en vierde lid, en artikel 1 vicies bis, zesde lid, lid 6 bis en zevende lid, van [Verordening (EG) nr. 765/2006](32006R0765) is, voor zover het betreft de verlening van de bedoelde diensten of transacties met betrekking tot technische bijstand of tussenhandeldiensten en informatie of kennisgevingen over deze onderwerpen, de Minister voor Buitenlandse Handel en Ontwikkelingshulp en, voor zover het betreft de financiering of financiële bijstand, financiële diensten en informatie of kennisgevingen over deze onderwerpen, de Minister van Financiën.
 
-3. De bevoegde autoriteit, bedoeld in artikel 3, eerste en tweede lid, artikel 3 bis, eerste lid, artikel 4 bis, artikel 4ter en artikel 5, van [Verordening (EG) nr. 765/2006](32006R0765) is, voor zover het betreft de vrijgave en de beschikbaarstelling van economische middelen, de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, de Minister voor Volkshuisvesting en Ruimtelijke Ordening, de Minister van Onderwijs, Cultuur en Wetenschap en de Minister van Economische Zaken en Klimaat voor zover het betreft de vrijgave of beschikbaarstelling van economische middelen of informatie anders dan van financiële aard en elk voor het gebied waartoe hun competenties zich uitstrekken.
+2a. De bevoegde autoriteit, bedoeld in artikel 1 ter ter, tiende en vijftiende lid, artikel 1 undecies quater, dertiende lid, en artikel 1 noviesdecies bis, tiende lid, van [Verordening (EG) nr. 765/2006](32006R0765) is de Minister voor Buitenlandse Handel en Ontwikkelingshulp, de Minister van Financiën of de Minister van Klimaat en Groene Groei, elk voor het gebied waartoe hun competenties zich uitstrekken. De bevoegde autoriteit, bedoeld in artikel 1 octies ter, tweede lid, van [Verordening (EG) nr. 765/2006](32006R0765) is de Minister van Financiën of de Minister van Klimaat en Groene Groei, elk voor het gebied waartoe hun competenties zich uitstrekken. De bevoegde autoriteit, bedoeld in artikel 1 undecies quater, elfde lid, van [Verordening (EG) nr. 765/2006](32006R0765) is de Minister voor Buitenlandse Handel en Ontwikkelingshulp of de Minister van Economische Zaken, elk voor het gebied waartoe hun competenties zich uitstrekken. De bevoegde autoriteit, bedoeld in artikel 4 quater van [Verordening (EG) nr. 765/2006](32006R0765) is de Minister voor Buitenlandse Handel en Ontwikkelingshulp, de Minister van Economische Zaken of de Minister van Financiën, elk voor het gebied waartoe hun competenties zich uitstrekken.
+
+3. De bevoegde autoriteit, bedoeld in artikel 3, eerste en tweede lid, artikel 3 bis, eerste lid, artikel 4 bis, artikel 4ter en artikel 5, van [Verordening (EG) nr. 765/2006](32006R0765) is, voor zover het betreft de vrijgave en de beschikbaarstelling van economische middelen, de Minister voor Buitenlandse Handel en Ontwikkelingshulp, de Minister van Volkshuisvesting en Ruimtelijke Ordening, de Minister van Onderwijs, Cultuur en Wetenschap en de Minister van Economische Zaken voor zover het betreft de vrijgave of beschikbaarstelling van economische middelen of informatie anders dan van financiële aard en elk voor het gebied waartoe hun competenties zich uitstrekken.
 
 4. De bevoegde autoriteit, bedoeld in artikel 1 undecies bis, tweede lid, artikel 1 duodecies, derde lid, artikel 1 tervicies, eerste lid, artikel 1 quatervicies, eerste lid, artikel 3, eerste en tweede lid, artikel 3 bis, eerste lid, artikel 4 bis, en artikel 4 ter, van Verordening (EG) nr. 765/2006, is de Minister van Financiën voor zover het betreft financieringen, financiële bijstand, financiële diensten of transacties en informatie of kennisgevingen over deze onderwerpen. De bevoegde autoriteit, bedoeld in artikel 1 septvicies van Verordening (EG) nr. 765/2006, is de Minister van Financiën, met dien verstande dat kredietinstellingen de informatie, bedoeld in artikel 1 septvicies, onder a en b, van Verordening (EG) nr. 765/2006, verstrekken aan De Nederlandsche Bank. De Nederlandsche Bank is ten behoeve van de uitvoering van voornoemd artikel 1 septvicies bevoegd de ontvangen informatie aan de Minister van Financiën te verstrekken.
 
 5. De bevoegde autoriteit, bedoeld in artikel 5, eerste lid, van Verordening (EG) nr. 765/2006 is de Minister van Financiën.
 
-6. De bevoegde autoriteit, bedoeld in artikel 8 quater, eerste lid, en artikel 1 septvicies quarter, vierde lid, van Verordening (EG) nr. 765/2006 is de Minister van Infrastructuur en Waterstaat.
+6. De bevoegde autoriteit, bedoeld in artikel 1 septvicies quarter, vierde lid, en artikel 8 quater, eerste lid, van [Verordening (EG) nr. 765/2006](32006R0765) is de Minister van Infrastructuur en Waterstaat. De bevoegde autoriteit, bedoeld in artikel 1 septvicies quarter, lid 1 quinquies, is de Nationale en Internationale Wegvervoer Organisatie.
+
+7. De bevoegde autoriteit, bedoeld in artikel 8 quinquies bis, eerste lid, van [Verordening (EG) nr. 765/2006](32006R0765) is de Minister voor Buitenlandse Handel en Ontwikkelingshulp, de Minister van Economische Zaken, de Minister van Klimaat en Groene Groei of de Minister van Financiën, elk voor het gebied waartoe hun competenties zich uitstrekken. De bevoegde autoriteit, bedoeld in artikel 8 quinquies bis, tweede lid, van [Verordening (EG) nr. 765/2006](32006R0765) is de Minister voor Buitenlandse Handel en Ontwikkelingshulp of de Minister van Economische Zaken, elk voor het gebied waartoe hun competenties zich uitstrekken. De bevoegde autoriteit, bedoeld in artikel 8 quinquies bis, derde lid, van [Verordening (EG) nr. 765/2006](32006R0765) is de Minister van Buitenlandse Zaken, de Minister voor Buitenlandse Handel en Ontwikkelingshulp, de Minister van Economische Zaken, de Minister van Klimaat en Groene Groei of de Minister van Financiën, elk voor het gebied waartoe hun competenties zich uitstrekken.
+
+8. De bevoegde autoriteit, bedoeld in artikel 1 octies bis, zesde lid, artikel 1 noviesdecies ter, zevende lid, en artikel 1 noviesdecies quater, vijfde lid, van [Verordening (EG) nr. 765/2006](32006R0765) is de Minister van Onderwijs, Cultuur en Wetenschap.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -80,7 +86,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de [Uitvoeringsregeling strategische goederen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030610), dan wel onderdelen daarvan, direct of indirect te verkopen of te leveren aan, door of uit te voeren naar, over te dragen aan, daaronder begrepen over te brengen naar, entiteiten of personen in Belarus of voor gebruik in of ten behoeve van Belarus, ongeacht het land van oorsprong.
 
-2. Het eerste lid is niet van toepassing met vooraf verleende ontheffing van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking op:
+2. Het eerste lid is niet van toepassing met vooraf verleende ontheffing van de Minister voor Buitenlandse Handel en Ontwikkelingshulp op:
 
 - a. de verkoop, levering, overdracht of uitvoer van niet-dodelijke militaire uitrusting die uitsluitend bestemd is voor humanitaire of beschermende doeleinden, voor programma’s voor institutionele opbouw of voor crisisbeheersingsoperaties van de Verenigde Naties en de Europese Unie;
 
@@ -102,11 +108,31 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1ab
 
-Dit onderdeel is nog niet inwerking getreden
+1. De Minister die het aangaat is of zelfstandige bestuursorganen als bedoeld in [artikel 1 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=1) zijn, onverminderd de bepalingen terzake in bindende besluiten van organen van de Europese Unie of andere volkenrechtelijke organisaties, in afwijking van [artikel 10g van de Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10g) bevoegd om gegevens of inlichtingen verkregen bij de vervulling van de hem bij of krachtens enig wettelijk voorschrift opgedragen taken, te verstrekken aan Nederlandse of buitenlandse overheidsinstanties dan wel aan Nederlandse of buitenlandse van overheidswege aangewezen instanties die belast zijn met het toezicht op de naleving of met de uitvoering van de verdragen, besluiten, aanbevelingen en afspraken, bedoeld in [artikel 2 van de Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=2), tenzij:
+
+- a. het doel waarvoor de gegevens of inlichtingen zullen worden gebruikt onvoldoende bepaald is;
+
+- b. de verstrekking van de gegevens of inlichtingen zich niet zou verdragen met de Nederlandse wet of de openbare orde;
+
+- c. de vertrouwelijkheid van de gegevens of inlichtingen niet in voldoende mate is gewaarborgd;
+
+- d. de verstrekking van de gegevens of inlichtingen redelijkerwijs in strijd is of zou kunnen komen met de belangen die de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296) beoogt te beschermen; of
+
+- e. onvoldoende is gewaarborgd dat de gegevens of inlichtingen niet zullen worden gebruikt voor een ander doel dan waarvoor deze worden verstrekt.
+
+2. De bevoegde autoriteiten, bedoeld in artikel 8 sexies, vierde lid, en artikel 8 undecies, eerste lid, van [Verordening (EG) nr. 765/2006](32006R0765) zijn:
+
+- a. alle bevoegde autoriteiten die zijn aangewezen bij of krachtens de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296);
+
+- b. alle toezichthouders en toezichthoudende ambtenaren die bij of krachtens de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296) belast zijn met het toezicht op de naleving van [Verordening (EG) nr. 765/2006](32006R0765);
+
+- c. of de bij of krachtens de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296) gestelde voorschriften; of
+
+- d. alle autoriteiten of beheerders van registers die bij of krachtens de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296) belast zijn met de uitvoering van [Verordening (EG) nr. 765/2006](32006R0765).
 
 ##### Artikel 1ac
 
-1. De Minister van Economische Zaken en Klimaat en de partijen, bedoeld in het derde tot en met zesde lid, verwerken slechts persoonsgegevens voor zover dit noodzakelijk is voor het overeenkomstig de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296) uitvoeren en toezien op de naleving van sancties, bedoeld in [artikel 2 van de Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=2).
+1. De Minister van Economische Zaken en de partijen, bedoeld in het derde tot en met zesde lid, verwerken slechts persoonsgegevens voor zover dit noodzakelijk is voor het overeenkomstig de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296) uitvoeren en toezien op de naleving van sancties, bedoeld in [artikel 2 van de Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=2).
 
 2. De verwerking van persoonsgegevens, bedoeld in het eerste lid, is toegestaan voor zover dit noodzakelijk is voor het:
 
@@ -116,7 +142,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 - c. toepassen van in de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296), verdragen of bindende besluiten van volkenrechtelijke organisaties vastgelegde informatieverplichtingen;
 
-3. . De Minister van Economische Zaken en Klimaat maakt voor de uitvoering bij of krachtens de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296), naast gegevens die door de personen, entiteiten en lichamen bij of krachtens de Sanctiewet 1977, of ingevolge verdragen of bindende besluiten van volkenrechtelijke organisaties worden aangeleverd of waarnaar wordt verwezen, gebruik van gegevens die afkomstig zijn uit:
+3. De Minister van Economische Zaken maakt voor de uitvoering bij of krachtens de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296), naast gegevens die door de personen, entiteiten en lichamen bij of krachtens de Sanctiewet 1977, of ingevolge verdragen of bindende besluiten van volkenrechtelijke organisaties worden aangeleverd of waarnaar wordt verwezen, gebruik van gegevens die afkomstig zijn uit:
 
 - a. het handelsregister;
 
@@ -128,9 +154,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 - e. openbare informatie.
 
-4. De volgende bestuursorganen, diensten, toezichthouders of andere personen, verstrekken desgevraagd alle informatie aan de Minister van Economische Zaken en Klimaat die noodzakelijk is voor de uitvoering van die wet:
+4. De volgende bestuursorganen, diensten, toezichthouders of andere personen, verstrekken desgevraagd alle informatie aan de Minister van Economische Zaken die noodzakelijk is voor de uitvoering van die wet:
 
-- a. De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, voor zover het gegevens betreft die verwerkt worden in het kader van de [Wet strategische diensten](https://wetten.overheid.nl/jci1.3:c:BWBR0030545) en het [Besluit strategische goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024139);
+- a. De Minister voor Buitenlandse Handel en Ontwikkelingshulp, voor zover het gegevens betreft die verwerkt worden in het kader van de [Wet strategische diensten](https://wetten.overheid.nl/jci1.3:c:BWBR0030545) en het [Besluit strategische goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024139);
 
 - b. De Minister van Financiën, voor zover het gegevens betreft die verwerkt worden door de Belastingdienst;
 
@@ -142,17 +168,17 @@ Dit onderdeel is nog niet inwerking getreden
 
 - f. de Stichting Autoriteit Financiële Markten voor zover het betreft informatie ingevolge haar taken bij of krachtens de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296);
 
-5. De Minister van Economische Zaken en Klimaat kan voor zover dit noodzakelijk is voor de uitvoering van de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296), voorts de Minister van Binnenlandse Zaken en Koninkrijksrelaties verzoeken om mededeling als bedoeld in [artikel 8, tweede lid, onderdeel f, van de Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=8) te doen of de Minister van Defensie verzoeken om mededeling als bedoeld in [artikel 10, tweede lid, onderdeel g, van de Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=10) te doen.
+5. De Minister van Economische Zaken kan voor zover dit noodzakelijk is voor de uitvoering van de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296), voorts de Minister van Binnenlandse Zaken en Koninkrijksrelaties verzoeken om mededeling als bedoeld in [artikel 8, tweede lid, onderdeel f, van de Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=8) te doen of de Minister van Defensie verzoeken om mededeling als bedoeld in [artikel 10, tweede lid, onderdeel g, van de Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=10) te doen.
 
 6. Vervallen.
 
-7. Voor zover de gegevens die de personen, entiteiten en lichamen hebben aangeleverd en de verzameling of verstrekking, bedoeld in het derde tot en met vijfde lid, niet de benodigde gegevens heeft opgeleverd, verstrekken de personen, entiteiten en lichamen desgevraagd alle informatie aan de Minister van Economische Zaken en Klimaat die noodzakelijk is voor de uitvoering van de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296), verdragen of bindende besluiten van volkenrechtelijke organisaties.
+7. Voor zover de gegevens die de personen, entiteiten en lichamen hebben aangeleverd en de verzameling of verstrekking, bedoeld in het derde tot en met vijfde lid, niet de benodigde gegevens heeft opgeleverd, verstrekken de personen, entiteiten en lichamen desgevraagd alle informatie aan de Minister van Economische Zaken die noodzakelijk is voor de uitvoering van de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296), verdragen of bindende besluiten van volkenrechtelijke organisaties.
 
 8. Vervallen.
 
 9. De gegevensverstrekking ingevolge het derde lid, onder c, en het vierde tot en met achtste lid, geschiedt kosteloos.
 
-10. De Minister van Economische Zaken en Klimaat is verwerkingsverantwoordelijke voor de verwerking van persoonsgegevens in het kader van dit artikel.
+10. De Minister van Economische Zaken is verwerkingsverantwoordelijke voor de verwerking van persoonsgegevens in het kader van dit artikel.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
