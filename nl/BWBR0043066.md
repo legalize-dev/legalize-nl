@@ -4,7 +4,7 @@ identifier: "BWBR0043066"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-09-27"
-last_updated: "2023-10-05"
+last_updated: "2024-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043066"
 soort: "ministeriele-regeling"
@@ -46,17 +46,17 @@ Besluit:
 
 In bijlage A bij deze regeling wordt geregeld:
 
-- a. De wijze waarop de beoordeling van de leerresultaten, bedoeld in [artikel 10a, derde lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=10a) tot stand komt, bedoeld in [artikel 2.2, onderdeel a, van het Inrichtingsbesluit WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0046350&artikel=2.2), in deel 1 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=A&z=2023-10-05&g=2023-10-05).
+- a. De wijze waarop de beoordeling van de leerresultaten, bedoeld in [artikel 10a, derde lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=10a) tot stand komt, bedoeld in [artikel 2.2, onderdeel a, van het Inrichtingsbesluit WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0046350&artikel=2.2), in deel 1 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=A&z=2023-10-05&g=2024-08-01).
 
-- b. De wijze waarop en omstandigheden waarin bij kleine scholen de leerresultaten worden gewogen, bedoeld in [artikel 2.2, onderdeel b, van het Inrichtingsbesluit WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0046350&artikel=2.2), in deel 2 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=A&z=2023-10-05&g=2023-10-05).
+- b. De wijze waarop en omstandigheden waarin bij kleine scholen de leerresultaten worden gewogen, bedoeld in [artikel 2.2, onderdeel b, van het Inrichtingsbesluit WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0046350&artikel=2.2), in deel 2 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=A&z=2023-10-05&g=2024-08-01).
 
-- c. De wijze van correctie van de meting voor schoolkenmerken en individuele kenmerken van leerlingen, bedoeld in [artikel 2.2, onderdeel c, van het Inrichtingsbesluit WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0046350&artikel=2.2), in deel 3 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=A&z=2023-10-05&g=2023-10-05).
+- c. De wijze van correctie van de meting voor schoolkenmerken en individuele kenmerken van leerlingen, bedoeld in [artikel 2.2, onderdeel c, van het Inrichtingsbesluit WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0046350&artikel=2.2), in deel 3 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=A&z=2023-10-05&g=2024-08-01).
 
-- d. De normering waarop de inspectie het oordeel voldoende dan wel onvoldoende leerresultaat baseert, bedoeld in [artikel 2.2, onderdeel d, van het Inrichtingsbesluit WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0046350&artikel=2.2), in deel 4 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=A&z=2023-10-05&g=2023-10-05).
+- d. De normering waarop de inspectie het oordeel voldoende dan wel onvoldoende leerresultaat baseert, bedoeld in [artikel 2.2, onderdeel d, van het Inrichtingsbesluit WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0046350&artikel=2.2), in deel 4 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=A&z=2023-10-05&g=2024-08-01).
 
 ##### Artikel 2. Meting onmogelijk of gegevens incompleet
 
-[Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=B&z=2023-10-05&g=2023-10-05) regelt de wijze waarop de inspectie het aanvullend onderzoek, bedoeld in [artikel 2.4 van het Inrichtingsbesluit WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0046350&artikel=2.4), verricht.
+[Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=B&z=2023-10-05&g=2024-08-01) regelt de wijze waarop de inspectie het aanvullend onderzoek, bedoeld in [artikel 2.4 van het Inrichtingsbesluit WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0046350&artikel=2.4), verricht.
 
 ##### Artikel 3. Omhangbepaling
 
