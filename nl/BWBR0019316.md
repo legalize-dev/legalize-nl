@@ -4,7 +4,7 @@ identifier: "BWBR0019316"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2024-01-01"
+last_updated: "2024-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019316"
 soort: "AMvB"
@@ -38,7 +38,7 @@ entry_into_force: "2019-07-01"
 
 Op de voordracht van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 6 april 2005, nr. MJZ2005029056, Directie Juridische Zaken, Afdeling Wetgeving, gedaan mede namens de Staatssecretaris van Sociale Zaken en Werkgelegenheid en in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport, Onze Minister van Verkeer en Waterstaat en Onze Minister van Economische Zaken;
 
-Gelet op artikel 7 van [richtlijn nr. 87/217/EEG](31987L0217) van de Raad van 19 maart 1987 inzake voorkoming en vermindering van verontreiniging van het milieu door asbest (PbEG L 85), artikel 1, onderdelen 11, 13 en 14, voor zover het betreft artikel 12 ter, van [richtlijn nr. 2003/18/EG](32003L0018) van het Europees Parlement en de Raad van 27 maart 2003 (PbEU L 97) tot wijziging van [richtlijn nr. 83/477/EEG](31983L0477) van de Raad betreffende de bescherming van werknemers tegen de risico’s van blootstelling van asbest op het werk, de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=24), [35, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=35), en [39, derde lid, van de Wet milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=39), de [artikelen 8, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=8), juncto [8, tweede lid, onderdelen d en h](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=8), en [120 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=120) voorzover het betreft [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&paragraaf=4&artikel=10&z=2024-01-01&g=2024-01-01), alsmede de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=16), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=20), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=21), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=22), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=23) en [33, tweede lid, van de Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=33) voorzover het betreft [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&paragraaf=4&artikel=12&z=2024-01-01&g=2024-01-01) en [artikel 8.44, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.44) voorzover het betreft [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&paragraaf=4&artikel=13&z=2024-01-01&g=2024-01-01);
+Gelet op artikel 7 van [richtlijn nr. 87/217/EEG](31987L0217) van de Raad van 19 maart 1987 inzake voorkoming en vermindering van verontreiniging van het milieu door asbest (PbEG L 85), artikel 1, onderdelen 11, 13 en 14, voor zover het betreft artikel 12 ter, van [richtlijn nr. 2003/18/EG](32003L0018) van het Europees Parlement en de Raad van 27 maart 2003 (PbEU L 97) tot wijziging van [richtlijn nr. 83/477/EEG](31983L0477) van de Raad betreffende de bescherming van werknemers tegen de risico’s van blootstelling van asbest op het werk, de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=24), [35, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=35), en [39, derde lid, van de Wet milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=39), de [artikelen 8, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=8), juncto [8, tweede lid, onderdelen d en h](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=8), en [120 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=120) voorzover het betreft [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&paragraaf=4&artikel=10&z=2024-08-01&g=2024-08-01), alsmede de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=16), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=20), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=21), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=22), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=23) en [33, tweede lid, van de Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=33) voorzover het betreft [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&paragraaf=4&artikel=12&z=2024-08-01&g=2024-08-01) en [artikel 8.44, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.44) voorzover het betreft [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&paragraaf=4&artikel=13&z=2024-08-01&g=2024-08-01);
 
 De Raad van State gehoord (advies van 14 juli 2005, nr. W08.05.0120/V);
 
@@ -116,25 +116,35 @@ draagt er zorg voor dat voor het object eerst een asbestinventarisatie wordt ver
 
 ##### Artikel 4
 
-1. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01) is niet van toepassing op:
+1. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&paragraaf=2&artikel=3&z=2024-08-01&g=2024-08-01) is niet van toepassing op:
 
 - a. werkzaamheden die worden uitgevoerd in of aan objecten, niet zijnde zeeschepen als bedoeld in [artikel 8:2, eerste lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=2), die op of na 1 januari 1994 zijn gebouwd dan wel vervaardigd;
 
 - b. het geheel of gedeeltelijk verwijderen van rem- en frictiematerialen;
 
-- c. wegen als bedoeld in het [Besluit asbestwegen milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0011619).
+- c. het als een geheel verwijderen van verwarmingstoestellen;
 
-2. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01) is voorts niet van toepassing op het in de uitoefening van een beroep of bedrijf geheel of gedeeltelijk:
+- d. wegen als bedoeld in het [Besluit asbestwegen milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0011619).
+
+2. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&paragraaf=2&artikel=3&z=2024-08-01&g=2024-08-01) is voorts niet van toepassing op het in de uitoefening van een beroep of bedrijf geheel of gedeeltelijk:
 
 - a. verwijderen van pakkingen uit verbrandingsmotoren;
 
-- b. verwijderen van pakkingen uit procesinstallaties onderscheidelijk verwarmingstoestellen met een nominaal vermogen dat lager is dan 2250 kilowatt.
+- b. verwijderen van pakkingen uit procesinstallaties of onderdelen van procesinstallaties, inclusief aan- en afvoerende leidingen;
 
-3. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01) is voorts niet van toepassing op het anders dan in de uitoefening van een beroep of bedrijf in zijn geheel verwijderen van geschroefde, asbesthoudende platen waarin de asbestvezels hechtgebonden zijn, niet zijnde dakleien, of asbesthoudende vloertegels of niet-gelijmde, asbesthoudende vloerbedekking uit een vaartuig, voor zover het vaartuig niet in het kader van de uitoefening van een beroep of bedrijf wordt gebruikt of bedoeld is voor gebruik in dat kader en de oppervlakte van de te verwijderen asbesthoudende platen, vloertegels of vloerbedekking in totaal maximaal vijfendertig vierkante meter bedraagt.
+- c. verwijderen van pakkingen uit verwarmingstoestellen met een nominaal vermogen dat lager is dan 2.250 kilowatt;
+
+- d. verwijderen van gas- en elektrotechnische componenten die aanwezig zijn in:
+
+- 1°. het gastransportnet, bedoeld in [artikel 1, eerste lid, onderdeel d, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=1), door of vanwege de netbeheerder, aangewezen krachtens [artikel 2, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=2), of [5 van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=5); of
+
+- 2°. het net, bedoeld in [artikel 1, eerste lid, onderdeel i, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=1), door of vanwege de netbeheerder, aangewezen op grond van [artikel 10, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=10), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=13), of [14 van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=14).
+
+3. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&paragraaf=2&artikel=3&z=2024-08-01&g=2024-08-01) is voorts niet van toepassing op het anders dan in de uitoefening van een beroep of bedrijf in zijn geheel verwijderen van geschroefde, asbesthoudende platen waarin de asbestvezels hechtgebonden zijn, niet zijnde dakleien, of asbesthoudende vloertegels of niet-gelijmde, asbesthoudende vloerbedekking uit een vaartuig, voor zover het vaartuig niet in het kader van de uitoefening van een beroep of bedrijf wordt gebruikt of bedoeld is voor gebruik in dat kader en de oppervlakte van de te verwijderen asbesthoudende platen, vloertegels of vloerbedekking in totaal maximaal vijfendertig vierkante meter bedraagt.
 
 ##### Artikel 5
 
-Degene die een handeling doet verrichten waarop [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01) van toepassing is, verstrekt, voordat de handeling wordt verricht, een afschrift van het asbestinventarisatierapport aan degene die de handeling verricht.
+Degene die een handeling doet verrichten waarop [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&paragraaf=2&artikel=3&z=2024-08-01&g=2024-08-01) van toepassing is, verstrekt, voordat de handeling wordt verricht, een afschrift van het asbestinventarisatierapport aan degene die de handeling verricht.
 
 #### § 3. Asbestverwijdering
 
@@ -148,7 +158,7 @@ Degene die een handeling doet verrichten waarop [artikel 3](https://wetten.overh
 
 - c. het opruimen van asbest dat of asbesthoudende producten die ten gevolge van een incident is of zijn vrijgekomen.
 
-2. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&paragraaf=2&artikel=4&z=2024-01-01&g=2024-01-01) is, met uitzondering van het eerste lid onder a, van overeenkomstige toepassing.
+2. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&paragraaf=2&artikel=4&z=2024-08-01&g=2024-08-01) is, met uitzondering van het eerste lid onder a, van overeenkomstige toepassing.
 
 3. Het is verboden een handeling als bedoeld in het eerste lid te doen verrichten in strijd met het bepaalde in het eerste lid in verbinding met het tweede lid.
 
@@ -172,27 +182,27 @@ Degene die anders dan in de uitoefening van een beroep of bedrijf asbest of een 
 
 ##### Artikel 8
 
-1. Degene die anders dan in de uitoefening van een beroep of bedrijf een handeling als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&paragraaf=3&artikel=7&z=2024-01-01&g=2024-01-01) verricht, doet dat op een zodanige wijze dat gevaren voor mens en milieu die door zodanige handelingen kunnen ontstaan, worden voorkomen.
+1. Degene die anders dan in de uitoefening van een beroep of bedrijf een handeling als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&paragraaf=3&artikel=7&z=2024-08-01&g=2024-08-01) verricht, doet dat op een zodanige wijze dat gevaren voor mens en milieu die door zodanige handelingen kunnen ontstaan, worden voorkomen.
 
 2. Bij regeling van Onze Minister kunnen met het oog op het voorkomen van gevaren voor mens en milieu regels worden gegeven die ten minste bij het verrichten van zodanige handelingen in acht worden genomen.
 
 ##### Artikel 9
 
-1. Degene die in een binnenruimte een handeling doet verrichten waarop [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&paragraaf=3&artikel=6&z=2024-01-01&g=2024-01-01), van toepassing is, draagt er zorg voor dat direct na het verrichten van die handeling een eindbeoordeling wordt uitgevoerd overeenkomstig het bepaalde bij of krachtens de [artikelen 4.51a, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.51a), en [4.53c van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.53c).
+1. Degene die in een binnenruimte een handeling doet verrichten als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&paragraaf=3&artikel=6&z=2024-08-01&g=2024-08-01), draagt er zorg voor dat direct na het verrichten van die handeling een eindbeoordeling wordt uitgevoerd overeenkomstig het bepaalde bij of krachtens de [artikelen 4.51a, eerste, tweede, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.51a), en [4.53c van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.53c).
 
-2. Degene die in de buitenlucht een handeling doet verrichten waarop [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&paragraaf=3&artikel=6&z=2024-01-01&g=2024-01-01), van toepassing is, draagt er zorg voor dat direct na het verrichten van die handeling een visuele inspectie wordt uitgevoerd overeenkomstig het bepaalde bij of krachtens [4.51a, derde en vijfde lid, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.51a).
+2. Degene die in de buitenlucht een handeling doet verrichten waarop [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&paragraaf=3&artikel=6&z=2024-08-01&g=2024-08-01), van toepassing is, draagt er zorg voor dat direct na het verrichten van die handeling een visuele inspectie wordt uitgevoerd overeenkomstig het bepaalde bij of krachtens [4.51a, derde, vierde en zesde lid van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.51a).
 
 3. Het bedrijf dat de eindbeoordeling dan wel de visuele inspectie als bedoeld in het eerste lid, onderscheidenlijk tweede lid, heeft uitgevoerd, voert het eindresultaat binnen twee weken nadat de eindbeoordeling is verricht, in het LAVS in.
 
-4. Het is verboden andere werkzaamheden in een binnenruimte te verrichten of te doen verrichten met betrekking tot een object ten aanzien waarvan een handeling als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&paragraaf=3&artikel=6&z=2024-01-01&g=2024-01-01), is verricht, zolang niet een eindbeoordeling als bedoeld in het eerste lid is uitgevoerd of indien uit de eindbeoordeling, bedoeld in het eerste lid, volgt dat er op de plaats van de handeling nog visueel waarneembaar asbest aanwezig is of de concentratie asbestvezels in de lucht, bedoeld in de [artikelen 4.51a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.51a), en [4.53c van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.53c) wordt overschreden.
+4. Het is verboden andere werkzaamheden in een binnenruimte te verrichten of te doen verrichten met betrekking tot een object ten aanzien waarvan een handeling als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&paragraaf=3&artikel=6&z=2024-08-01&g=2024-08-01), is verricht, zolang niet een eindbeoordeling als bedoeld in het eerste lid is uitgevoerd of indien uit de eindbeoordeling, bedoeld in het eerste lid, volgt dat het te verwijderen asbest op de plaats van de handeling nog visueel waarneembaar is of de concentratie asbestvezels in de lucht, bedoeld in de [artikelen 4.51a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.51a), en [4.53c van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.53c) wordt overschreden.
 
-5. Het is verboden andere werkzaamheden in de buitenlucht te verrichten of te doen verrichten met betrekking tot een object ten aanzien waarvan een handeling als bedoeld in [artikel 6, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&paragraaf=3&artikel=6&z=2024-01-01&g=2024-01-01), is verricht of op de plaats waar een handeling als bedoeld in [artikel 6, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&paragraaf=3&artikel=6&z=2024-01-01&g=2024-01-01), is verricht, zolang niet een visuele inspectie als bedoeld in het tweede lid is uitgevoerd of indien uit de visuele inspectie, bedoeld in het tweede lid, volgt dat er op de plaats van de handeling nog visueel waarneembaar asbest aanwezig is.
+5. Het is verboden andere werkzaamheden in de buitenlucht te verrichten of te doen verrichten met betrekking tot een object ten aanzien waarvan een handeling als bedoeld in [artikel 6, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&paragraaf=3&artikel=6&z=2024-08-01&g=2024-08-01), is verricht of op de plaats waar een handeling als bedoeld in [artikel 6, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&paragraaf=3&artikel=6&z=2024-08-01&g=2024-08-01), is verricht, zolang niet een visuele inspectie als bedoeld in het tweede lid is uitgevoerd of indien uit de visuele inspectie, bedoeld in het tweede lid, volgt dat het te verwijderen asbest op de plaats van de handeling nog visueel waarneembaar is.
 
 #### § 4. Het LAVS
 
 ##### Artikel 10
 
-1. De LAVS-beheerder draagt er zorg voor dat de gegevens en bescheiden over asbestsaneringsprojecten die in het LAVS zijn ingevoerd, onverwijld ter beschikking worden gesteld van de instanties waarvoor de gegevens en bescheiden op grond van [artikel 13, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&paragraaf=4&artikel=13&z=2024-01-01&g=2024-01-01), toegankelijk zijn.
+1. De LAVS-beheerder draagt er zorg voor dat de gegevens en bescheiden over asbestsaneringsprojecten die in het LAVS zijn ingevoerd, onverwijld ter beschikking worden gesteld van de instanties waarvoor de gegevens en bescheiden op grond van [artikel 13, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&paragraaf=4&artikel=13&z=2024-08-01&g=2024-08-01), toegankelijk zijn.
 
 2. De LAVS-beheerder draagt er zorg voor dat degene die verplicht is gegevens en bescheiden over een asbestsaneringsproject te verstrekken of in het LAVS in te voeren, ter voldoening aan die verplichting gebruik kan maken van gegevens en bescheiden die al in het LAVS zijn ingevoerd zonder deze opnieuw te hoeven invoeren.
 
@@ -208,7 +218,7 @@ Degene die anders dan in de uitoefening van een beroep of bedrijf asbest of een 
 
 4. De LAVS-beheerder draagt er zorg voor dat de gegevens en bescheiden die in het LAVS zijn ingevoerd, na de invoering niet worden gewijzigd, tenzij hij daartoe verplicht is op grond van artikel 5, eerste lid, aanhef en onder d, of artikel 16 van de algemene verordening gegevensbescherming of indien een verzoek is gedaan voor een wijziging die gelet op de doelstellingen van het desbetreffende voorschrift van ondergeschikt belang is. In aanvulling op eerder ingevoerde onjuiste of onvolledige gegevens en bescheiden kunnen, mede ter uitvoering van genoemde bepalingen, alsnog de juiste of volledige gegevens en bescheiden in het LAVS worden ingevoerd.
 
-5. De LAVS-beheerder kan de mogelijkheid bieden dat de instanties en bedrijven die op grond van [artikel 13, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&paragraaf=4&artikel=13&z=2024-01-01&g=2024-01-01), toegang tot het LAVS hebben, andere gegevens en bescheiden met betrekking tot het asbestsaneringsproject in het LAVS invoeren, voor zover die gegevens en bescheiden de persoonlijke levenssfeer van een persoon op wie zij betrekking hebben, niet kunnen schaden.
+5. De LAVS-beheerder kan de mogelijkheid bieden dat de instanties en bedrijven die op grond van [artikel 13, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&paragraaf=4&artikel=13&z=2024-08-01&g=2024-08-01), toegang tot het LAVS hebben, andere gegevens en bescheiden met betrekking tot het asbestsaneringsproject in het LAVS invoeren, voor zover die gegevens en bescheiden de persoonlijke levenssfeer van een persoon op wie zij betrekking hebben, niet kunnen schaden.
 
 #### § 6. Wijzigingen [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498)
 
@@ -258,7 +268,7 @@ Degene die anders dan in de uitoefening van een beroep of bedrijf asbest of een 
 
 1. De gegevens en bescheiden die in het LAVS zijn opgenomen, worden bewaard totdat het LAVS is opgeheven.
 
-2. De LAVS-beheerder kan ten behoeve van de goede werking van het LAVS gegevens en bescheiden die in het LAVS zijn opgenomen, verwijderen overeenkomstig bij ministeriële regeling gestelde regels indien de gegevens en bescheiden voor degenen die op grond van [artikel 13, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&paragraaf=4&artikel=13&z=2024-01-01&g=2024-01-01), toegang tot het LAVS hebben, redelijkerwijs niet meer van belang zijn om te kunnen raadplegen.
+2. De LAVS-beheerder kan ten behoeve van de goede werking van het LAVS gegevens en bescheiden die in het LAVS zijn opgenomen, verwijderen overeenkomstig bij ministeriële regeling gestelde regels indien de gegevens en bescheiden voor degenen die op grond van [artikel 13, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019316&paragraaf=4&artikel=13&z=2024-08-01&g=2024-08-01), toegang tot het LAVS hebben, redelijkerwijs niet meer van belang zijn om te kunnen raadplegen.
 
 #### § 6. Slotbepalingen
 
