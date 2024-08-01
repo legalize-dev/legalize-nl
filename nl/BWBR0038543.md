@@ -4,7 +4,7 @@ identifier: "BWBR0038543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-23"
-last_updated: "2024-04-27"
+last_updated: "2024-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038543"
 soort: "ministeriele-regeling"
@@ -44,11 +44,11 @@ Besluit:
 
 ##### Artikel 1. Certificaten keuzedelen
 
-Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2024-04-27&g=2024-04-27) bij deze regeling.
+Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2024-08-01&g=2024-08-01) bij deze regeling.
 
 ##### Artikel 2. Certificaat voor beroepsgerichte onderdelen
 
-Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2024-04-27&g=2024-04-27).
+Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2024-08-01&g=2024-08-01).
 
 ##### Artikel 3. Inwerkingtreding
 
@@ -126,7 +126,7 @@ Er is een certificaat verbonden aan de volgende keuzedelen:
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=1&z=2024-04-27&g=2024-04-27)
+## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=1&z=2024-08-01&g=2024-08-01)
 
 | k-code | naam keuzedeel |
 | --- | --- |
@@ -447,12 +447,16 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 | K1352 | Basis cybercriminaliteit en cyberveiligheid |
 | K0287 | Eerstelijns- en ketenzorg |
 | K1376 | Psychiatrie in de VVT |
+|   |   |
+| **Certificaten voor keuzedelen vanaf augustus 2024** | **Certificaten voor keuzedelen vanaf augustus 2024** |
+| K1430 | Service en informatie in de bibliotheek |
+| K0644 | Verdieping Cytopathologie |
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=2&z=2024-04-27&g=2024-04-27)
+## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=2&z=2024-08-01&g=2024-08-01)
 
-| c-code | Naam certificaat | crebocode | naam kwalificatie |
+| c-code | Naam certificaat | opleidingscode | naam kwalificatie |
 | --- | --- | --- | --- |
 |   |   |   |   |
 | **Certificaten voor beroepsgerichte onderdelen vanaf 1 april 2019** | **Certificaten voor beroepsgerichte onderdelen vanaf 1 april 2019** | **Certificaten voor beroepsgerichte onderdelen vanaf 1 april 2019** | **Certificaten voor beroepsgerichte onderdelen vanaf 1 april 2019** |
@@ -616,6 +620,19 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 | **Certificaten voor beroepsgerichte onderdelen vanaf 1 augustus 2024** | **Certificaten voor beroepsgerichte onderdelen vanaf 1 augustus 2024** | **Certificaten voor beroepsgerichte onderdelen vanaf 1 augustus 2024** | **Certificaten voor beroepsgerichte onderdelen vanaf 1 augustus 2024** |
 | C0158 | Software testen | 25998 | Software developer |
 | C0159 | Technisch adviseren vastgoedonderhoud | 25946 | Vastgoedadviseur |
+|   |   |   |   |
+| **Certificaten voor beroepsgerichte onderdelen vanaf augustus 2024** | **Certificaten voor beroepsgerichte onderdelen vanaf augustus 2024** | **Certificaten voor beroepsgerichte onderdelen vanaf augustus 2024** | **Certificaten voor beroepsgerichte onderdelen vanaf augustus 2024** |
+| C0160 | Assisteren bij activiteiten in zorg en welzijn | 25960 | Helpende Zorg en Welzijn |
+| C0161 | Basisvaardigheden werkvoorbereiding Technische installaties (Versie 2) | 25124 | Werkvoorbereider installaties |
+| C0162 | Beheersen voedingsproductie | 25978 | Vakbekwaam medewerker voeding, technologie en techniek |
+| C0163 | Individuele basiszorg verlenen (Versie 2) | 25960 | Helpende Zorg en Welzijn |
+| C0164 | Ondersteunen bij wonen en voeding | 25960 | Helpende Zorg en Welzijn |
+| C0165 | Ondersteuning thuis (Versie 2) | 25960 | Helpende Zorg en Welzijn |
+| C0166 | Planmatig werken in zorg en welzijn | 25960 | Helpende Zorg en Welzijn |
+| C0167 | Uitvoeren voedingsproductie | 25977 | Medewerker voeding, technologie en techniek |
+| C0168 | Verzorgen van varkens (Versie 2) | 25986 | Vakbekwaam medewerker veehouderij |
+| C0169 | Voedselveiligheid in de productieketen – basis (Versie 2) | 25977 | Medewerker voeding, technologie en techniek |
+| C0170 | Voedselveiligheid in de productieketen – verdieping (Versie 2) | 25978 | Vakbekwaam medewerker voeding, technologie en techniek |
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
