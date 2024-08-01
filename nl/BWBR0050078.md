@@ -4,7 +4,7 @@ identifier: "BWBR0050078"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-08-01"
-last_updated: "2024-05-09"
+last_updated: "2024-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050078"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ Van het ingevolge [artikel 1, onderdeel b, van het Mandaatbesluit DGRR Ministeri
 
 ##### Artikel 2
 
-De in [artikel 1, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0050078&artikel=1&z=2024-08-01&g=2024-05-09), genoemde functionarissen wordt toegestaan elkaar volledig te vervangen. Zij treden daarbij in elkaars bevoegdheden.
+De in [artikel 1, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0050078&artikel=1&z=2024-08-01&g=2024-08-01), genoemde functionarissen wordt toegestaan elkaar volledig te vervangen. Zij treden daarbij in elkaars bevoegdheden.
 
 ##### Artikel 3
 
