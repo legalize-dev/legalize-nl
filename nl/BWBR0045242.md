@@ -4,7 +4,7 @@ identifier: "BWBR0045242"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2024-08-01"
-last_updated: "2022-08-01"
+last_updated: "2024-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045242"
 soort: "beleidsregel"
@@ -62,11 +62,13 @@ In deze beleidsregel wordt verstaan onder:
 
 - **Leerling:** leerling als bedoeld in [artikel 6.7 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.7);
 
-- **Minister:** Minister voor Basis- en Voortgezet Onderwijs en Media;
+- **Minister:** Minister voor Primair en Voortgezet Onderwijs;
 
 - **onderbouw internationaal georiënteerd voortgezet onderwijs:** IB MYP of een cursus die gericht is op het behalen van het IGCSE of beide;
 
 - **school:** een uit de openbare kas bekostigde school als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
+
+- **voedingsgebied:** gebied dat bestaat uit viercijferige postcodegebieden die geheel of gedeeltelijk zijn gelegen binnen een straal van 15 kilometer van de vestiging van de school die in aanmerking wil komen voor bekostiging van de cursussen internationaal georiënteerd voorgezet onderwijs of die reeds in aanmerking is gebracht van de bekostiging voor de cursussen internationaal georiënteerd voortgezet onderwijs;
 
 - **wet:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
@@ -82,25 +84,31 @@ In deze beleidsregel wordt verstaan onder:
 
 1. Het bevoegd gezag van een school dat in aanmerking wil komen voor bekostiging van de cursussen internationaal georiënteerd voortgezet onderwijs, dient daartoe een aanvraag in bij de Minister voor 1 november van het jaar voorafgaand aan het schooljaar waarvoor de bekostiging wordt gevraagd.
 
-2. De aanvraag vermeldt de vestiging van de school waaraan het bevoegd gezag de cursussen internationaal georiënteerd voortgezet onderwijs wil gaan aanbieden en gaat vergezeld van een prognose waaruit blijkt dat de cursussen IB MYP en IB DP of IB MYP en IB CP zodra deze in alle leerjaren worden aangeboden, door ten minste 120 leerlingen zullen worden gevolgd, die voldoen aan de toelatingseisen als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045242&hoofdstuk=3&artikel=9&z=2022-08-01&g=2022-08-01).
+2. De aanvraag vermeldt de vestiging van de school waaraan het bevoegd gezag de cursussen internationaal georiënteerd voortgezet onderwijs wil gaan aanbieden en gaat vergezeld van een prognose waaruit blijkt dat de cursussen IB MYP en IB DP of IB MYP en IB CP zodra deze in alle leerjaren worden aangeboden, door ten minste 120 leerlingen zullen worden gevolgd, die voldoen aan de toelatingseisen als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045242&hoofdstuk=3&artikel=9&z=2024-08-01&g=2024-08-01).
 
 3. De prognose heeft betrekking op het verwachte aantal leerlingen:
 
 - a. in het zesde en tiende schooljaar na de datum van de aanvraag, bedoeld in het eerste lid;
 
-- b. die wonen binnen een redelijke afstand van de vestiging van de school waar de cursussen internationaal georiënteerd voortgezet onderwijs zullen worden aangeboden.
+- b. die wonen in het voedingsgebied van de vestiging van de school waar de cursussen internationaal georiënteerd voortgezet onderwijs zullen worden aangeboden;
 
-4. De prognose heeft geen betrekking op leerlingen die binnen een redelijke afstand van een andere school wonen waar zij internationaal georiënteerd voortgezet onderwijs kunnen volgen en waar voldoende plaatsruimte beschikbaar is, of op leerlingen die buiten het Nederlandse grondgebied wonen.
+- c. die de cursussen zullen volgen waarvoor de aanvraag wordt gedaan.
+
+4. De prognose heeft geen betrekking op leerlingen die in het voedingsgebied van een andere school wonen waar zij internationaal georiënteerd voortgezet onderwijs kunnen volgen en waar voldoende plaatsruimte beschikbaar is, of op leerlingen die buiten het Nederlandse grondgebied wonen.
 
 5. Het afschrift van de aanvraag, bedoeld in het eerste lid, en de prognose, bedoeld in het derde lid, worden door het bevoegd gezag overgelegd aan het college van burgemeester en wethouders van de gemeente waarin de cursussen internationaal georiënteerd voortgezet onderwijs zullen worden aangeboden. Het college kan op basis van deze documenten binnen vier weken een advies aan de Minister uitbrengen over de behoefte aan uitbreiding van het aanbod aan cursussen internationaal georiënteerd voortgezet onderwijs in de regio.
 
 6. Indien het bevoegd gezag van een school die voor bekostiging van cursussen internationaal georiënteerd voortgezet onderwijs in aanmerking is gebracht, het aanbod van cursussen internationaal georiënteerd voortgezet onderwijs aan die school wil uitbreiden, volstaat een schriftelijke mededeling aan de Minister. Het bevoegd gezag:
 
-- a. doet deze mededeling uiterlijk 1 mei voorafgaand aan het schooljaar waarin met de nieuwe cursus internationaal georiënteerd voortgezet onderwijs wordt gestart; en
+- a. doet deze mededeling uiterlijk 1 mei voorafgaand aan het schooljaar waarin met de nieuwe cursus internationaal georiënteerd voortgezet onderwijs wordt gestart;
 
-- b. vermeldt hierin met welke cursus het aanbod wordt uitgebreid, de datum waarop met de desbetreffende cursus zal worden gestart alsmede de vestiging waar deze cursus zal worden aangeboden.
+- b. vermeldt hierin met welke cursus het aanbod wordt uitgebreid, de datum waarop met de desbetreffende cursus zal worden gestart alsmede de vestiging waar deze cursus zal worden aangeboden; en
+
+- c. dient bij een uitbreiding naar een andere vestiging, de melding te vergezellen van een positief advies van alle bevoegde gezagen van scholen die al in aanmerking zijn gebracht voor de bekostiging van cursussen internationaal georiënteerd voortgezet onderwijs uit het voedingsgebied en de colleges van burgemeester en wethouders van de gemeenten binnen het voedingsgebied.
 
 7. De aanvraag, bedoeld in het eerste lid, en de mededeling, bedoeld in het zesde lid, worden gestuurd aan het Ministerie van Onderwijs, Cultuur en Wetenschap, directie Voortgezet Onderwijs, Postbus 16375, 2500 BJ Den Haag.
+
+8. Indien het bevoegd gezag van een school die reeds voor bekostiging van cursussen internationaal georiënteerd voortgezet onderwijs in aanmerking is gebracht, wil splitsen als bedoeld in [artikel 4.2., derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.2), dan kan deze bekostiging meegenomen worden in de splitsing van de school. Hiertoe maakt het bevoegd gezag aannemelijk dat op 1 januari van het elfde jaar na indiening van de aanvraag de afdelingen voor internationaal georiënteerd voortgezet onderwijs die na splitsing ontstaan, zullen worden bezocht door ten minste 120 leerlingen.
 
 ##### Artikel 4. Beoordeling aanvraag en aanvang bekostiging
 
@@ -110,9 +118,9 @@ In deze beleidsregel wordt verstaan onder:
 
 - b. dit past binnen het uitgangspunt van een evenwichtige landelijke spreiding van het internationaal georiënteerd voortgezet onderwijs; en
 
-- c. op basis van de prognose, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045242&hoofdstuk=2&artikel=3&z=2022-08-01&g=2022-08-01), en, voor zover van toepassing, het advies van de desbetreffende gemeente, bedoeld in artikel 3, vijfde lid, redelijkerwijs kan worden aangenomen dat de cursussen internationaal georiënteerd voortgezet onderwijs gezamenlijk binnen zes schooljaren zullen worden bezocht door ten minste 120 leerlingen als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045242&hoofdstuk=3&artikel=9&z=2022-08-01&g=2022-08-01).
+- c. op basis van de prognose, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045242&hoofdstuk=2&artikel=3&z=2024-08-01&g=2024-08-01), en, voor zover van toepassing, het advies van de desbetreffende gemeente, bedoeld in artikel 3, vijfde lid, redelijkerwijs kan worden aangenomen dat de cursussen internationaal georiënteerd voortgezet onderwijs gezamenlijk binnen zes schooljaren zullen worden bezocht door ten minste 120 leerlingen als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045242&hoofdstuk=3&artikel=9&z=2024-08-01&g=2024-08-01).
 
-2. De Minister besluit voor 1 februari daaropvolgend op de aanvraag als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045242&hoofdstuk=2&artikel=3&z=2022-08-01&g=2022-08-01).
+2. De Minister besluit voor 1 februari daaropvolgend op de aanvraag als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045242&hoofdstuk=2&artikel=3&z=2024-08-01&g=2024-08-01).
 
 3. Indien cursussen internationaal georiënteerd voortgezet onderwijs voor bekostiging in aanmerking zijn gebracht, meldt het bevoegd gezag uiterlijk op 1 mei welke cursus of cursussen op 1 augustus daaropvolgend van start gaat respectievelijk gaan. Binnen twee maanden na die melding verstrekt de Minister een bekostigingsbeschikking aan het bevoegd gezag van de school.
 
@@ -126,7 +134,7 @@ Het bevoegd gezag van een school voorziet in zowel een onderbouw als een bovenbo
 
 1. Een cursus internationaal georiënteerd voortgezet onderwijs wordt per kalenderjaar bekostigd. [Artikel 2, tweede lid, onderdeel a, van de Regeling bekostiging vo-scholen en samenwerkingsverbanden](https://wetten.overheid.nl/jci1.3:c:BWBR0045605&artikel=2) is van overeenkomstige toepassing op de leerlingen die ingeschreven staan aan een cursus internationaal georiënteerd voortgezet onderwijs.
 
-2. In aanvulling op de bekostiging als bedoeld in het eerste lid, stelt de Minister voor leerlingen, bedoeld in [artikel 9, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045242&hoofdstuk=3&artikel=9&z=2022-08-01&g=2022-08-01), een aanvullende bekostiging vast. Deze aanvullende bekostiging wordt niet verstrekt voor de leerlingen bedoeld in artikel 9, zesde en zevende lid.
+2. In aanvulling op de bekostiging als bedoeld in het eerste lid, stelt de Minister voor leerlingen, bedoeld in [artikel 9, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045242&hoofdstuk=3&artikel=9&z=2024-08-01&g=2024-08-01), een aanvullende bekostiging vast. Deze aanvullende bekostiging wordt niet verstrekt voor de leerlingen bedoeld in artikel 9, zesde en zevende lid.
 
 ##### Artikel 7. Inhouding van de bekostiging
 
@@ -140,7 +148,7 @@ Het bevoegd gezag van een school voorziet in zowel een onderbouw als een bovenbo
 
 2. Wanneer de cursussen internationaal georiënteerd voortgezet onderwijs nog niet in alle leerjaren worden aangeboden, wordt de bekostiging beëindigd indien de cursussen gedurende twee achtereenvolgende schooljaren in enig leerjaar dat al werd aangeboden, door minder dan twaalf leerlingen worden gevolgd.
 
-3. Bij de berekening van het aantal leerlingen, bedoeld in het eerste en tweede lid, wordt 1 oktober als peildatum gehanteerd en worden slechts leerlingen als bedoeld in [artikel 9, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045242&hoofdstuk=3&artikel=9&z=2022-08-01&g=2022-08-01), meegenomen.
+3. Bij de berekening van het aantal leerlingen, bedoeld in het eerste en tweede lid, wordt 1 oktober als peildatum gehanteerd en worden slechts leerlingen als bedoeld in [artikel 9, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045242&hoofdstuk=3&artikel=9&z=2024-08-01&g=2024-08-01), meegenomen.
 
 4. Het bevoegd gezag van de school wordt voor 1 mei voorafgaand aan het schooljaar van het beëindigen van de bekostiging door de Minister op de hoogte gesteld.
 
@@ -216,7 +224,7 @@ Ten aanzien van de voorwaardelijke bevordering, de schorsing en de verwijdering 
 
 - a. proeven af te leggen voor het IB MYP Certificate of deelcertificaten daarvan dan wel examen af te leggen voor het IGSCE of voor deelcertificaten daarvan;
 
-- b. na het behalen van het IB MYP Certificate of het IGCSE het onderwijs te vervolgen in het eerste leerjaar van de bovenbouw internationaal georiënteerd voortgezet onderwijs; en
+- b. om het onderwijs te vervolgen in de bovenbouw internationaal georiënteerd voortgezet onderwijs; en
 
 - c. tussentijds, na ieder cursusjaar, het onderwijs te vervolgen in het voorbereidend wetenschappelijk onderwijs, het hoger algemeen voortgezet onderwijs of het middelbaar algemeen voortgezet onderwijs in de eigen school of een andere school.
 
@@ -240,7 +248,7 @@ Ten aanzien van de voorwaardelijke bevordering, de schorsing en de verwijdering 
 
 4. Voor het afnemen van de examens is toestemming vereist van de International Baccalaureate Organisation te Genève.
 
-5. Voor een leerling die de Nederlandse nationaliteit als enige nationaliteit bezit, is het afleggen van het examen in het vak Nederlands verplicht. Indien deze leerling tot een cursus internationaal georiënteerd voortgezet onderwijs is toegelaten op grond van [artikel 9, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045242&hoofdstuk=3&artikel=9&z=2022-08-01&g=2022-08-01), legt de leerling het examen in het vak Nederlands af op het betreffende niveau.
+5. Voor een leerling die de Nederlandse nationaliteit als enige nationaliteit bezit, is het afleggen van het examen in het vak Nederlands verplicht. Indien deze leerling tot een cursus internationaal georiënteerd voortgezet onderwijs is toegelaten op grond van [artikel 9, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045242&hoofdstuk=3&artikel=9&z=2024-08-01&g=2024-08-01), legt de leerling het examen in het vak Nederlands af op het betreffende niveau.
 
 6. De [artikelen 2.61, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.61), [2.63, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.63) en [2.64, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.64) en de [artikelen 3.54](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=3.54), [3.58](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=3.58) en [3.59 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=3.59) zijn van overeenkomstige toepassing.
 
