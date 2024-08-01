@@ -4,7 +4,7 @@ identifier: "BWBR0011400"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2023-08-01"
+last_updated: "2024-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011400"
 soort: "AMvB"
@@ -52,9 +52,9 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-**cursist**: degene die een opleiding volgt als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2023-08-01&g=2023-08-01),
+**cursist**: degene die een opleiding volgt als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2024-08-01&g=2024-08-01),
 
-**cursusgeld:**krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2023-08-01&g=2023-08-01) vastgesteld bedrag,
+**cursusgeld:**krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2024-08-01&g=2024-08-01) vastgesteld bedrag,
 
 **cursusgeldplichtige**: cursist of indien deze minderjarig is, de wettelijke vertegenwoordiger,
 
@@ -142,7 +142,7 @@ Voor een leerling die na 31 oktober van een schooljaar wordt ingeschreven aan ee
 
 - a. het met goed gevolg hebben afgerond van de opleiding,
 
-- b. de inschrijving voor een cursus als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2023-08-01&g=2023-08-01), mits die inschrijving plaatsvindt in het desbetreffende schooljaar,
+- b. de inschrijving voor een cursus als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2024-08-01&g=2024-08-01), mits die inschrijving plaatsvindt in het desbetreffende schooljaar,
 
 - c. overlijden of ernstige ziekte van de leerling, of
 
@@ -168,9 +168,9 @@ De dagscholen verstrekken Onze minister gegevens omtrent de inschrijving op een 
 
 4. Inschrijving geschiedt niet dan nadat:
 
-- a. het cursusgeld is voldaan, tenzij [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=13&z=2023-08-01&g=2023-08-01) van toepassing is, of
+- a. het cursusgeld is voldaan, tenzij [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=13&z=2024-08-01&g=2024-08-01) van toepassing is, of
 
-- b. een betalingsregeling als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=11&z=2023-08-01&g=2023-08-01) is getroffen.
+- b. een betalingsregeling als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=11&z=2024-08-01&g=2024-08-01) is getroffen.
 
 ##### Artikel 10. Beëindiging inschrijving
 
@@ -186,13 +186,13 @@ Het bevoegd gezag beëindigt de inschrijving van de cursist op aanvraag van de c
 
 - b. het bij de inschrijving treffen van een regeling inzake de betaling van het cursusgeld tussen het bevoegd gezag en de cursusgeldplichtige alsmede de naleving door de cursusgeldplichtige, of
 
-- c. schriftelijke vaststelling bij de inschrijving door of namens het bevoegd gezag dat op de cursusgeldplichtige [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=13&z=2023-08-01&g=2023-08-01) van toepassing is.
+- c. schriftelijke vaststelling bij de inschrijving door of namens het bevoegd gezag dat op de cursusgeldplichtige [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=13&z=2024-08-01&g=2024-08-01) van toepassing is.
 
 3. De laatste termijn van het cursusgeld wordt in ieder geval betaald binnen 4 maanden na aanvang van de cursus, en uiterlijk voor het einde van de cursus.
 
 4. Indien een cursist in een cursusjaar bij dezelfde instelling voor meerdere cursussen staat ingeschreven, is het cursusgeld van de cursus met het hoogste cursusgeldtarief verschuldigd.
 
-5. De cursusgeldplichtige verstrekt aan het bevoegd gezag bewijsstukken voor de aanspraak op terugbetaling van cursusgeld als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=14&z=2023-08-01&g=2023-08-01).
+5. De cursusgeldplichtige verstrekt aan het bevoegd gezag bewijsstukken voor de aanspraak op terugbetaling van cursusgeld als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=14&z=2024-08-01&g=2024-08-01).
 
 ##### Artikel 12. Vermindering cursusgeld
 
@@ -240,21 +240,13 @@ Voor een cursist die in de loop van het cursusjaar wordt ingeschreven, wordt het
 
 ##### Artikel 16. Afwijking cursusgeldtarieven
 
-Indien de aard van het onderwijs, de cursusduur, het aantal lessen of de doelgroep van de cursus daartoe aanleiding geeft, kunnen bij ministeriële regeling de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2023-08-01&g=2023-08-01) genoemde cursusgeldtarieven worden verlaagd.
+Indien de aard van het onderwijs, de cursusduur, het aantal lessen of de doelgroep van de cursus daartoe aanleiding geeft, kunnen bij ministeriële regeling de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2024-08-01&g=2024-08-01) genoemde cursusgeldtarieven worden verlaagd.
 
 ### Hoofdstuk 4. Slot- en overgangsbepalingen
 
 ##### Artikel 17. Tarieven lesgeld en cursusgeld 2023–2024 in verband met overgang naar nieuwe indexatiesystematiek
 
-1. Het lesgeld, bedoeld in [artikel 5, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&artikel=5), bedraagt voor het cursusjaar 2023–2024 € 1.357.
-
-2. Het cursusgeld, bedoeld in [artikel 6, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&artikel=6), bedraagt voor de volgende categorieën cursussen voor het cursusjaar 2023–2024:
-
-- a. voor opleidingen beroepsonderwijs voor zover het betreft de assistent-opleiding, de entreeopleiding en de basisberoepsopleiding: € 270;
-
-- b. voor opleidingen beroepsonderwijs voor zover het betreft de vakopleiding, de middenkaderopleiding en de specialistenopleiding: € 654;
-
-- c. voor opleidingen voortgezet algemeen volwassenenonderwijs, gericht op het behalen van een diploma als bedoeld in de [artikelen 2.4 tot en met 2.6 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.4), of onderdelen van dat diploma: € 0,86 voor elke 45 minuten onderwijs, berekend op basis van het normatieve aantal minuten onderwijs per jaar van de opleiding waarvoor inschrijving heeft plaatsgevonden.
+Vervallen
 
 ##### Artikel 18. Intrekking Uitvoeringsbesluit Les- en cursusgeldwet
 
