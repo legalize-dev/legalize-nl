@@ -4,7 +4,7 @@ identifier: "BWBR0049293"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-08-01"
-last_updated: "2024-02-01"
+last_updated: "2024-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049293"
 soort: "zbo"
@@ -46,7 +46,7 @@ besluit:
 
 In deze subsidieregeling wordt verstaan onder:
 
-- a. **advocaat:** de advocaat die op basis van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049293&hoofdstuk=III&artikel=6&z=2024-02-01&g=2024-02-01) van deze regeling is toegelaten tot deze subsidieregeling;
+- a. **advocaat:** de advocaat die op basis van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049293&hoofdstuk=III&artikel=6&z=2024-08-01&g=2024-08-01) van deze regeling is toegelaten tot deze subsidieregeling;
 
 - b. **afdeling advies van het Huis voor klokkenluiders:** de afdeling advies, bedoeld in [artikel 1 Wbk](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=1);
 
@@ -60,7 +60,7 @@ In deze subsidieregeling wordt verstaan onder:
 
 - g. **mediation:** mediation als bedoeld in [artikel 1 Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=1) in een geschil tussen de rechtzoekende en zijn (voormalige) werkgever of opdrachtgever dat is ontstaan naar aanleiding van een melding van een vermoeden van een misstand;
 
-- h. **mediator:** de mediator die op basis van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0049293&hoofdstuk=III&artikel=7&z=2024-02-01&g=2024-02-01) van deze regeling is toegelaten tot deze subsidieregeling;
+- h. **mediator:** de mediator die op basis van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0049293&hoofdstuk=III&artikel=7&z=2024-08-01&g=2024-08-01) van deze regeling is toegelaten tot deze subsidieregeling;
 
 - i. **misstand:** een misstand als bedoeld in [artikel 1 Wbk](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=1);
 
@@ -96,7 +96,7 @@ Voor zover in deze regeling geen afwijkende regeling wordt getroffen of bepaling
 
 ##### Artikel 4. De vergoedingen voor rechtsbijstandsverlening en mediation
 
-1. Voor de rechtsbijstand aan de rechtzoekende zoals bedoeld in deze regeling waarbij sprake is van een doorverwijzing als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0049293&hoofdstuk=IV&artikel=9&z=2024-02-01&g=2024-02-01), wordt aan een advocaat, in afwijking van de bijlage bij het Bvr, een vergoeding van **22** punten toegekend ter zake van het verlenen van rechtsbijstand in:
+1. Voor de rechtsbijstand aan de rechtzoekende zoals bedoeld in deze regeling waarbij sprake is van een doorverwijzing als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0049293&hoofdstuk=IV&artikel=9&z=2024-08-01&g=2024-08-01), wordt aan een advocaat, in afwijking van de bijlage bij het Bvr, een vergoeding van **22** punten toegekend ter zake van het verlenen van rechtsbijstand in:
 
 - a. een procedure bij benadeling als bedoeld in de [artikelen 17e](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=17e) en [17ea Wbk](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=17ea);
 
@@ -104,9 +104,9 @@ Voor zover in deze regeling geen afwijkende regeling wordt getroffen of bepaling
 
 - c. een strafzaak waarbij de rechtzoekende verdachte is van of getuige is bij een overtreding of misdrijf die rechtstreeks verband houdt met een melding van een vermoeden van een misstand.
 
-2. [Artikel 5, tweede lid, Bvr](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=5) is niet van toepassing indien een procedure tussentijds is beëindigd, mits een bewijs dat de procedure aanhangig is gemaakt als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0049293&hoofdstuk=IV&artikel=12&z=2024-02-01&g=2024-02-01) aan het bestuur kan worden overlegd.
+2. [Artikel 5, tweede lid, Bvr](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=5) is niet van toepassing indien een procedure tussentijds is beëindigd, mits een bewijs dat de procedure aanhangig is gemaakt als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0049293&hoofdstuk=IV&artikel=12&z=2024-08-01&g=2024-08-01) aan het bestuur kan worden overlegd.
 
-3. Voor de mediation aan de rechtzoekende zoals bedoeld in deze regeling waarbij sprake is van een doorverwijzing als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0049293&hoofdstuk=IV&artikel=9&z=2024-02-01&g=2024-02-01), wordt aan een mediator een vergoeding van **10** punten toegekend voor mediation bij benadeling als bedoeld in de [artikelen 17e](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=17e) en [17ea Wbk](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=17ea) of aansprakelijkheidstelling als bedoeld in [artikel 17f Wbk](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=17f).
+3. Voor de mediation aan de rechtzoekende zoals bedoeld in deze regeling waarbij sprake is van een doorverwijzing als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0049293&hoofdstuk=IV&artikel=9&z=2024-08-01&g=2024-08-01), wordt aan een mediator een vergoeding van **10** punten toegekend voor mediation bij benadeling als bedoeld in de [artikelen 17e](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=17e) en [17ea Wbk](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=17ea) of aansprakelijkheidstelling als bedoeld in [artikel 17f Wbk](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=17f).
 
 ##### Artikel 5. Kosteloze rechtsbijstand en mediation voor de rechtzoekende
 
@@ -118,19 +118,21 @@ Voor zover in deze regeling geen afwijkende regeling wordt getroffen of bepaling
 
 ##### Artikel 6. Voorwaarden tot deelname voor advocaten
 
-1. De regeling is van toepassing op advocaten die voldoen aan de voorwaarde in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049293&hoofdstuk=III&artikel=8&z=2024-02-01&g=2024-02-01), en de in de bijlage onder I genoemde deelnamecriteria.
+1. De regeling is van toepassing op advocaten die voldoen aan de voorwaarde in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049293&hoofdstuk=III&artikel=8&z=2024-08-01&g=2024-08-01), en de in de bijlage onder I genoemde deelnamecriteria.
 
 2. Advocaten kunnen een gemotiveerd verzoek tot deelname indienen bij het bestuur.
 
 ##### Artikel 7. Voorwaarden tot deelname voor mediators
 
-1. De regeling is van toepassing op mediators die voldoen aan de voorwaarde, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049293&hoofdstuk=III&artikel=8&z=2024-02-01&g=2024-02-01), en de in de bijlage onder II genoemde deelnamecriteria.
+1. De regeling is van toepassing op mediators die voldoen aan de voorwaarde, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049293&hoofdstuk=III&artikel=8&z=2024-08-01&g=2024-08-01), en de in de bijlage onder II genoemde deelnamecriteria.
 
 2. Mediators kunnen een gemotiveerd verzoek tot deelname indienen bij het bestuur.
 
 ##### Artikel 8. Online-training
 
-Dit onderdeel is nog niet inwerking getreden
+1. Ten behoeve van de verlening van rechtsbijstand en mediation wordt een kosteloze online-training aangeboden door de Raad voor Rechtsbijstand.
+
+2. De advocaat of mediator dient bij zijn verzoek om deelname aan de regeling de online-training met succes te hebben afgerond.
 
 ### Hoofdstuk IV. Aanvraag rechtsbijstand en mediation
 
@@ -140,7 +142,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 2. Een doorverwijzing als bedoeld in het eerste lid, wordt door de afdeling advies van het Huis voor klokkenluiders alleen gegeven aan een rechtzoekende indien naar haar oordeel sprake is van een redelijk vermoeden van een misstand en bevat:
 
-- a. een motivering voor de doorverwijzing ten behoeve van rechtsbijstand of mediation voor een of meer specifieke procedures als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049293&hoofdstuk=II&artikel=4&z=2024-02-01&g=2024-02-01), dan wel situaties als bedoeld in artikel 4, derde lid, en
+- a. een motivering voor de doorverwijzing ten behoeve van rechtsbijstand of mediation voor een of meer specifieke procedures als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049293&hoofdstuk=II&artikel=4&z=2024-08-01&g=2024-08-01), dan wel situaties als bedoeld in artikel 4, derde lid, en
 
 - b. in geval van mediation de naam van de werkgever.
 
@@ -148,17 +150,17 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 10. Matching advocaat of mediator
 
-1. Op basis van de gegevens in het formulier, bedoeld in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049293&hoofdstuk=IV&artikel=9&z=2024-02-01&g=2024-02-01), matcht het bestuur een aan de regeling deelnemende advocaat, respectievelijk mediator, door de rechtzoekende een keuze te geven uit door het bestuur voorgestelde advocaten, respectievelijk mediators.
+1. Op basis van de gegevens in het formulier, bedoeld in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049293&hoofdstuk=IV&artikel=9&z=2024-08-01&g=2024-08-01), matcht het bestuur een aan de regeling deelnemende advocaat, respectievelijk mediator, door de rechtzoekende een keuze te geven uit door het bestuur voorgestelde advocaten, respectievelijk mediators.
 
-2. In afwijking van het eerste lid, kan de rechtzoekende, die beschikt over een doorverwijzing als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049293&hoofdstuk=IV&artikel=9&z=2024-02-01&g=2024-02-01), de keuze maken voor een andere advocaat dan wel mediator, die aan de regeling deelneemt.
+2. In afwijking van het eerste lid, kan de rechtzoekende, die beschikt over een doorverwijzing als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049293&hoofdstuk=IV&artikel=9&z=2024-08-01&g=2024-08-01), de keuze maken voor een andere advocaat dan wel mediator, die aan de regeling deelneemt.
 
 ##### Artikel 11. Aanvraag toevoeging
 
-De advocaat of mediator dient voor de werkzaamheden, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049293&hoofdstuk=II&artikel=4&z=2024-02-01&g=2024-02-01), een aanvraag voor toevoeging in bij het bestuur. Voor deze aanvraag voor rechtsbijstand of mediation gebruikt de advocaat respectievelijk de mediator een gestandaardiseerd aanvraagformulier van het bestuur, en voegt hierbij een toelichting op het rechtsprobleem waarop de betreffende aanvraag voor rechtsbijstand of mediation ziet, de noodzaak ervan en waarom deze verband houdt met de melding of de mogelijke benadeling als gevolg van de melding als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049293&hoofdstuk=II&artikel=4&z=2024-02-01&g=2024-02-01).
+De advocaat of mediator dient voor de werkzaamheden, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049293&hoofdstuk=II&artikel=4&z=2024-08-01&g=2024-08-01), een aanvraag voor toevoeging in bij het bestuur. Voor deze aanvraag voor rechtsbijstand of mediation gebruikt de advocaat respectievelijk de mediator een gestandaardiseerd aanvraagformulier van het bestuur, en voegt hierbij een toelichting op het rechtsprobleem waarop de betreffende aanvraag voor rechtsbijstand of mediation ziet, de noodzaak ervan en waarom deze verband houdt met de melding of de mogelijke benadeling als gevolg van de melding als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049293&hoofdstuk=II&artikel=4&z=2024-08-01&g=2024-08-01).
 
 ##### Artikel 12. Aanvraag van de vergoeding
 
-Binnen zes maanden na afronding van de werkzaamheden die in het kader van deze regeling worden vergoed, vraagt de toegevoegde advocaat of mediator de vergoeding aan met het formulier ‘Aanvraag vergoeding rechtsbijstand of mediation Wbk’. Bij dit formulier voegt de advocaat respectievelijk mediator, indien van toepassing en afhankelijk van de wijze waarop de procedure is beëindigd, de uitspraak, de beslissing of het proces-verbaal. Daarbij stuurt de advocaat of mediator een specificatie van de met die rechtsbijstandverlening gemoeide tijdsbesteding overeenkomstig door het bestuur gestelde regels en het vastgestelde tijdregistratieformulier. In geval van tussentijdse beëindiging als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049293&hoofdstuk=II&artikel=4&z=2024-02-01&g=2024-02-01), voegt de advocaat bij dit formulier de dagvaarding of het verzoekschrift.
+Binnen zes maanden na afronding van de werkzaamheden die in het kader van deze regeling worden vergoed, vraagt de toegevoegde advocaat of mediator de vergoeding aan met het formulier ‘Aanvraag vergoeding rechtsbijstand of mediation Wbk’. Bij dit formulier voegt de advocaat respectievelijk mediator, indien van toepassing en afhankelijk van de wijze waarop de procedure is beëindigd, de uitspraak, de beslissing of het proces-verbaal. Daarbij stuurt de advocaat of mediator een specificatie van de met die rechtsbijstandverlening gemoeide tijdsbesteding overeenkomstig door het bestuur gestelde regels en het vastgestelde tijdregistratieformulier. In geval van tussentijdse beëindiging als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049293&hoofdstuk=II&artikel=4&z=2024-08-01&g=2024-08-01), voegt de advocaat bij dit formulier de dagvaarding of het verzoekschrift.
 
 ### Hoofdstuk V. Overige bepalingen
 
@@ -166,7 +168,7 @@ Binnen zes maanden na afronding van de werkzaamheden die in het kader van deze r
 
 1. Voor de meting van onder meer de tijdsbesteding voor de verrichte werkzaamheden zal het Kenniscentrum van de Raad voor Rechtsbijstand in opdracht van het bestuur een monitor opzetten.
 
-2. Het aantal punten voor de vergoeding van rechtsbijstand, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049293&hoofdstuk=II&artikel=4&z=2024-02-01&g=2024-02-01), en voor mediation, bedoeld in artikel 4, derde lid, kan naar aanleiding van de uitkomsten van de monitor na een verzoek van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en goedkeuring van de Minister voor Rechtsbescherming worden bijgesteld.
+2. Het aantal punten voor de vergoeding van rechtsbijstand, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049293&hoofdstuk=II&artikel=4&z=2024-08-01&g=2024-08-01), en voor mediation, bedoeld in artikel 4, derde lid, kan naar aanleiding van de uitkomsten van de monitor na een verzoek van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en goedkeuring van de Minister voor Rechtsbescherming worden bijgesteld.
 
 3. In opdracht van de Minister van Binnenlandse Zaken en Koninkrijksrelaties vindt twee jaar na inwerkingtreding van deze regeling een evaluatie plaats naar de doeltreffendheid en effecten van deze regeling.
 
@@ -174,9 +176,9 @@ Binnen zes maanden na afronding van de werkzaamheden die in het kader van deze r
 
 ##### Artikel 14. Overgangsbepaling
 
-1. Indien namens de rechtzoekende voorafgaand aan inwerkingtreding van deze regeling al een toevoeging is verleend in een procedure als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049293&hoofdstuk=II&artikel=4&z=2024-02-01&g=2024-02-01), of voor mediation als bedoeld in artikel 4, derde lid, onder oplegging van een eigen bijdrage, maar de rechtsbijstand of mediation overeenkomstig [artikel 28, eerste lid, aanhef en onder a, Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=28) niet reeds feitelijk is verleend en voldaan wordt aan de voorwaarden voor toevoeging in deze regeling, kan de advocaat of mediator vragen om wijziging van die toevoeging, zodat overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049293&hoofdstuk=II&artikel=5&z=2024-02-01&g=2024-02-01) geen eigen bijdrage wordt opgelegd.
+1. Indien namens de rechtzoekende voorafgaand aan inwerkingtreding van deze regeling al een toevoeging is verleend in een procedure als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049293&hoofdstuk=II&artikel=4&z=2024-08-01&g=2024-08-01), of voor mediation als bedoeld in artikel 4, derde lid, onder oplegging van een eigen bijdrage, maar de rechtsbijstand of mediation overeenkomstig [artikel 28, eerste lid, aanhef en onder a, Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=28) niet reeds feitelijk is verleend en voldaan wordt aan de voorwaarden voor toevoeging in deze regeling, kan de advocaat of mediator vragen om wijziging van die toevoeging, zodat overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049293&hoofdstuk=II&artikel=5&z=2024-08-01&g=2024-08-01) geen eigen bijdrage wordt opgelegd.
 
-2. Indien de advocaat of mediator voorafgaand aan inwerkingtreding van deze regeling met de rechtzoekende afspraken heeft gemaakt over betaling van de kosten voor rechtsbijstand in een procedure als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049293&hoofdstuk=II&artikel=4&z=2024-02-01&g=2024-02-01), of in mediation als bedoeld in artikel 4, derde lid, maar de rechtsbijstand of mediation overeenkomstig [artikel 28, eerste lid, aanhef en onder a, Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=28) niet reeds feitelijk is verleend en voldaan wordt aan de voorwaarden voor toevoeging in deze regeling, kan alsnog rechtsbijstand of mediation op grond van deze regeling worden aangevraagd. De beleidsregels van de Raad bij tussentijds aangevangen rechtsbijstand zijn van overeenkomstige toepassing.
+2. Indien de advocaat of mediator voorafgaand aan inwerkingtreding van deze regeling met de rechtzoekende afspraken heeft gemaakt over betaling van de kosten voor rechtsbijstand in een procedure als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049293&hoofdstuk=II&artikel=4&z=2024-08-01&g=2024-08-01), of in mediation als bedoeld in artikel 4, derde lid, maar de rechtsbijstand of mediation overeenkomstig [artikel 28, eerste lid, aanhef en onder a, Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=28) niet reeds feitelijk is verleend en voldaan wordt aan de voorwaarden voor toevoeging in deze regeling, kan alsnog rechtsbijstand of mediation op grond van deze regeling worden aangevraagd. De beleidsregels van de Raad bij tussentijds aangevangen rechtsbijstand zijn van overeenkomstige toepassing.
 
 ##### Artikel 15. Citeertitel
 
@@ -184,7 +186,7 @@ Deze regeling wordt aangehaald als: Subsidieregeling rechtsbijstand en mediation
 
 ##### Artikel 16. Inwerkingtreding
 
-1. Deze regeling treedt in werking op 1 februari 2024, met uitzondering van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0049293&hoofdstuk=III&artikel=8&z=2024-02-01&g=2024-02-01) dat op 1 augustus 2024 in werking treedt.
+1. Deze regeling treedt in werking op 1 februari 2024, met uitzondering van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0049293&hoofdstuk=III&artikel=8&z=2024-08-01&g=2024-08-01) dat op 1 augustus 2024 in werking treedt.
 
 2. Deze regeling vervalt op 1 februari 2028, met dien verstande dat de regeling van toepassing blijft op toevoegingen die door de Raad voor deze datum op grond van deze regeling zijn verleend.
 
