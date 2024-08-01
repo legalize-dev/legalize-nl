@@ -4,7 +4,7 @@ identifier: "BWBR0048409"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-26"
-last_updated: "2024-05-25"
+last_updated: "2024-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048409"
 soort: "ministeriele-regeling"
@@ -46,9 +46,9 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **beroep van leraar:** beroep van leraar als bedoeld in [artikel 7.8 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.8);
+- **beroep van leraar:** beroep van leraar als bedoeld in[artikel 31a van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=31a), [artikel 31a van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=31a) of [artikel 7.8 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.8);
 
-- **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1.1 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
+- **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1 van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1) of [artikel 1.1 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
 
 - **Kaderregeling:** [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603);
 
@@ -56,7 +56,9 @@ In deze regeling wordt verstaan onder:
 
 - **Nuffic:** stichting als bedoeld in [artikel 3a van de Wet subsidiëring landelijke onderwijsondersteunende activiteiten 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=3a);
 
-- **ondersteuningsprogramma:** het geheel van opleiding en begeleiding die de statushouder volgt ter voorbereiding op een onderwijsgevende functie in het Nederlands voortgezet onderwijs of ter voorbereiding op een lerarenopleiding;
+- **Oekraïense ontheemde:** persoon als bedoeld in artikel 2, eerste lid, van het Uitvoeringsbesluit (EU) 2022/382 van de Raad van 4 maart 2022 tot vaststelling van het bestaan van een massale toestroom van ontheemden uit Oekraïne in de zin van artikel 5 van [Richtlijn 2001/55/EG](32001L0055), en tot invoering van tijdelijke bescherming naar aanleiding daarvan (PbEU 2022, L 71);
+
+- **ondersteuningsprogramma:** het geheel van opleiding en begeleiding die de statushouder of Oekraïense ontheemde volgt ter voorbereiding op een onderwijsgevende functie in het Nederlands voortgezet onderwijs of ter voorbereiding op een lerarenopleiding;
 
 - **opleidingsaanbieder:** door de minister erkend opleidingsinstituut dat door de Nederlands-Vlaamse Accreditatieorganisatie geaccrediteerde opleidingen verzorgt, of een aanbieder van een programma dat ten minste onderwijs in Nederlands als tweede taal, vaktaal, pedagogiek, didactiek en de Nederlandse onderwijscultuur bevat;
 
@@ -66,6 +68,10 @@ In deze regeling wordt verstaan onder:
 
 - **voortgezet onderwijs:** onderwijs dat gegeven wordt op een school voor voortgezet onderwijs als bedoeld in [artikel 1.4 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.4).
 
+- **WEC:** [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549);
+
+- **WPO:** [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420);
+
 - **WVO 2020:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
 ##### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
@@ -74,17 +80,17 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 ##### Artikel 3. Doel van de regeling en te subsidiëren activiteiten
 
-De minister kan aan een bevoegd gezag subsidie verstrekken als tegemoetkoming in de opleidings- en begeleidingskosten die een school maakt voor het bieden van een ondersteuningsprogramma aan een statushouder in de toeleiding naar het beroep van leraar.
+De minister kan aan een bevoegd gezag subsidie verstrekken als tegemoetkoming in de opleidings- en begeleidingskosten die een school maakt voor het bieden van een ondersteuningsprogramma aan een statushouder of Oekraïense ontheemde in de toeleiding naar het beroep van leraar.
 
 ##### Artikel 4. Subsidievoorwaarden
 
-1. De regeling staat open voor statushouders met:
+1. De regeling staat open voor statushouders of Oekraïense ontheemden met:
 
 - a. een buitenlandse lesbevoegdheid die is verkregen met een diploma dat door Nuffic ten minste gelijk gewaardeerd is aan een Nederlands hoger onderwijsdiploma, of;
 
 - b. een buitenlands getuigschrift Engelse taal, Frans taal, wiskunde, natuurkunde, scheikunde, informatica of techniek dat door Nuffic tenminste gelijk gewaardeerd is aan een Nederlands hoger onderwijsdiploma.
 
-2. Een bevoegd gezag komt in aanmerking voor subsidie ten behoeve van een statushouder indien de desbetreffende statushouder:
+2. Een bevoegd gezag komt in aanmerking voor subsidie ten behoeve van een statushouder of Oekraïense ontheemde indien de desbetreffende statushouder of Oekraïense ontheemde:
 
 - a. 18 jaar of ouder is;
 
@@ -94,49 +100,59 @@ De minister kan aan een bevoegd gezag subsidie verstrekken als tegemoetkoming in
 
 3. Het opleidingsprogramma van de opleidingsaanbieder heeft ten minste een looptijd van één jaar en ten hoogste twee jaar en het programma omvat in elk geval een module Nederlands als tweede taal van tenminste 120 uur, vaktaal, pedagogiek, vakdidactiek en de aspecten van de Nederlandse onderwijscultuur.
 
-4. Het bevoegd gezag sluit met de statushouder en de opleidingsaanbieder een scholings- en begeleidingsovereenkomst af die in ieder geval het volgende bevat:
+4. Het bevoegd gezag sluit met de statushouder of Oekraïense ontheemde en de opleidingsaanbieder een scholings- en begeleidingsovereenkomst af die in ieder geval het volgende bevat:
 
-- a. opleidingsafspraken: een opleidingsprogramma dat door een opleidingsaanbieder aan de statushouder wordt aangeboden;
+- a. opleidingsafspraken: een opleidingsprogramma dat door een opleidingsaanbieder aan de statushouder of Oekraïense ontheemde wordt aangeboden;
 
-- b. begeleidingsafspraken: afspraken omtrent de persoonlijke begeleiding en ondersteuning van de statushouder gedurende het ondersteuningsprogramma via het inwerken, coachen, intervisie of andere vormen van ondersteuning door een interne begeleider namens het bevoegd gezag; en
+- b. begeleidingsafspraken: afspraken omtrent de persoonlijke begeleiding en ondersteuning van de statushouder of Oekraïense ontheemde gedurende het ondersteuningsprogramma via het inwerken, coachen, intervisie of andere vormen van ondersteuning door een interne begeleider namens het bevoegd gezag; en
 
-- c. afspraken over het doel waar de statushouder naartoe werkt tijdens het ondersteuningsprogramma, zijnde een vervolgopleiding en/of een baan in het onderwijs.
+- c. afspraken over het doel waar de statushouder of Oekraïense ontheemde naartoe werkt tijdens het ondersteuningsprogramma, zijnde een vervolgopleiding en/of een baan in het onderwijs.
 
 ##### Artikel 5. Aanvraag subsidie
 
-1. Een bevoegd gezag kan per statushouder één aanvraag voor de subsidie indienen, tot een maximum van vijf aanvragen per bevoegd gezag. Voor iedere statushouder kan één keer subsidie verstrekt worden.
+1. Een bevoegd gezag kan per statushouder of Oekraïense ontheemde één aanvraag voor de subsidie indienen, tot een maximum van vijf aanvragen per bevoegd gezag. Voor iedere statushouder of Oekraïense ontheemde kan één keer subsidie verstrekt worden.
 
 2. In 2023 kan subsidie worden aangevraagd voor statushouders die na 1 augustus 2023 starten met een ondersteuningsprogramma.
 
-3. Een aanvraag voor de subsidie kan worden ingediend van 15 augustus 2023, 09:00 uur tot en met 15 september 2023, 21:00 uur. Aanvragen die buiten de aanvraagperiode worden ingediend, worden afgewezen.
+3. Een aanvraag voor de subsidie voor een school in het voortgezet onderwijs kan worden ingediend van 15 augustus 2023, 09:00 uur tot en met 15 september 2023, 21:00 uur. Aanvragen die buiten de aanvraagperiode worden ingediend, worden afgewezen.
 
-4. In 2024 kan subsidie worden aangevraagd voor statushouders die gedurende het jaar 2024 starten met een ondersteuningsprogramma.
+4. In 2024 kan subsidie worden aangevraagd voor statushouders of Oekraïense ontheemden die gedurende het jaar 2024 starten met een ondersteuningsprogramma.
 
 5. Een aanvraag voor subsidie kan worden ingediend van 3 juni 2024, 09:00 uur tot en met 27 september 2024, 23:59 uur. Aanvragen die buiten de aanvraagperiode worden ingediend, worden afgewezen.
 
+5a. In afwijking van artikel 5, vijfde lid, kan een aanvraag voor subsidie voor een school in het primair onderwijs worden ingediend van 1 augustus 2024, 09:00 uur tot en met 27 september 2024, 21:00 uur. Aanvragen die buiten de aanvraagperiode worden ingediend, worden afgewezen.
+
 6. De subsidie wordt aangevraagd met gebruikmaking van het digitale aanvraagformulier dat daartoe op de website van DUS-I beschikbaar is gesteld.
 
-7. De aanvraag per statushouder gaat vergezeld van een verklaring waarin het bevoegd gezag verklaart dat:
+7. De aanvraag per statushouder of Oekraïense ontheemde gaat vergezeld van een verklaring waarin het bevoegd gezag verklaart dat:
 
-- a. de statushouder beschikt over documenten waaruit blijkt dat de statushouder voldoet aan [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048409&artikel=4&z=2024-05-25&g=2024-05-25);
+- a. de statushouder of Oekraïense ontheemde beschikt over documenten waaruit blijkt dat de statushouder of Oekraïense ontheemde voldoet aan [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048409&artikel=4&z=2024-08-01&g=2024-08-01);
 
-- b. het opleidingsprogramma voldoet aan [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048409&artikel=4&z=2024-05-25&g=2024-05-25);
+- b. het opleidingsprogramma voldoet aan [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048409&artikel=4&z=2024-08-01&g=2024-08-01);
 
-- c. de scholings- en begeleidingsovereenkomst voldoet aan [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048409&artikel=4&z=2024-05-25&g=2024-05-25).
+- c. de scholings- en begeleidingsovereenkomst voldoet aan [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048409&artikel=4&z=2024-08-01&g=2024-08-01).
 
 8. Indien een aanvraag onvolledig is, krijgt de aanvrager onder toepassing van [artikel 4:5, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) tien werkdagen de tijd om de aanvraag aan te vullen.
 
 ##### Artikel 6. Subsidieplafond en verdeling
 
-1. Voor het verstrekken van subsidie is voor de kalenderjaren 2023 en 2024 jaarlijks een bedrag beschikbaar van ten hoogste € 1.000.000,–.
+1. Voor het verstrekken van subsidie is voor het kalenderjaar 2023 in totaal een bedrag beschikbaar van ten hoogste € 1.000.000,–.
 
-2. De minister verdeelt het beschikbare bedrag op volgorde van binnenkomst van de aanvragen voor maximaal vijf statushouders per bevoegd gezag.
+2. Voor het verstrekken van subsidie in het kalenderjaar 2024 is in totaal een bedrag beschikbaar van ten hoogste € 1.750.000,–. Van dit bedrag is in 2024 een bedrag van:
 
-3. Indien het voor subsidieverstrekking beschikbare bedrag na toepassing van het tweede lid niet is uitgeput, worden de aanvragen in afwijking van het tweede lid verdeeld over een zesde aanvraag per bevoegd gezag en vervolgens elke volgende statushouder, tot een maximum van tien aanvragen per bevoegd gezag. Hierbij wordt beslist in volgorde van binnenkomst van de aanvragen.
+- a. € 1.000.000,– beschikbaar voor scholen als bedoeld in [artikel 1.1 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1); en
+
+- b. € 750.000,– beschikbaar voor scholen als bedoeld in [artikel 1 van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1) en [artikel 1 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1).
+
+3. De minister verdeelt het beschikbare bedrag op volgorde van binnenkomst van de aanvragen voor maximaal vijf statushouders of Oekraïense ontheemden per bevoegd gezag.
+
+4. Indien het desbetreffende voor subsidieverstrekking beschikbare bedrag na toepassing van het derde lid niet is uitgeput, worden de aanvragen in afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048409&artikel=5&z=2024-08-01&g=2024-08-01) verdeeld over een zesde aanvraag per bevoegd gezag en vervolgens elke volgende statushouder of Oekraïense ontheemde, tot een maximum van tien aanvragen per bevoegd gezag. Hierbij wordt beslist in volgorde van binnenkomst van de aanvragen.
+
+5. Indien na toepassing van het vierde lid het beschikbare bedrag, bedoeld in het tweede lid, onderdeel a, nog niet is uitgeput, wordt het resterende bedrag toegevoegd aan het beschikbare bedrag, bedoeld in het tweede lid, onderdeel b. Indien na toepassing van het vierde lid het beschikbare bedrag, bedoeld in het tweede lid, onderdeel b, nog niet is uitgeput, wordt het resterende bedrag toegevoegd aan het beschikbare bedrag, bedoeld in het tweede lid, onderdeel a. Bij de verdeling van een ingevolge de eerste of tweede volzin toegevoegd budget, zijn het derde en vierde lid van overeenkomstige toepassing.
 
 ##### Artikel 7. Subsidiebedrag
 
-De subsidie bedraagt € 10.000,– per statushouder.
+De subsidie bedraagt € 10.000,– per statushouder of Oekraïense ontheemde.
 
 ##### Artikel 8. Afwijzingsgrond
 
@@ -146,11 +162,11 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 In aanvulling op [hoofdstuk 5 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=5) worden de volgende verplichtingen opgelegd aan de subsidieontvanger:
 
-- 1. De subsidieontvanger informeert de minister wanneer de statushouder het ondersteuningsprogramma heeft afgerond;
+- 1. De subsidieontvanger informeert de minister wanneer de statushouder of Oekraïense ontheemde het ondersteuningsprogramma heeft afgerond;
 
-- 2. Indien de statushouder tussentijds stopt met het ondersteuningsprogramma meldt de subsidieontvanger dit aan de minister. In dat geval kan de minister de subsidie lager vaststellen;
+- 2. Indien de statushouder of Oekraïense ontheemde tussentijds stopt met het ondersteuningsprogramma meldt de subsidieontvanger dit aan de minister. In dat geval kan de minister de subsidie lager vaststellen;
 
-- 3. De subsidieontvanger maakt er bij de minister melding van, indien de statushouder het ondersteuningsprogramma voortzet in dienst van een ander bevoegd gezag. In dat geval kan de subsidieontvanger de subsidie aanwenden om de statushouder het ondersteuningsprogramma te laten voortzetten bij dat andere bevoegd gezag. De minister kan hiertoe een formulier beschikbaar stellen.
+- 3. De subsidieontvanger maakt er bij de minister melding van, indien de statushouder of Oekraïense ontheemde het ondersteuningsprogramma voortzet in dienst van een ander bevoegd gezag. In dat geval kan de subsidieontvanger de subsidie aanwenden om de statushouder of Oekraïense ontheemde het ondersteuningsprogramma te laten voortzetten bij dat andere bevoegd gezag. De minister kan hiertoe een formulier beschikbaar stellen.
 
 - 4. de subsidiabele activiteiten worden uiterlijk binnen twee jaar na de subsidieverstrekking afgerond.
 
@@ -180,6 +196,6 @@ De minister kan één of meer bepalingen van deze regeling buiten toepassing lat
 
 ##### Artikel 13. Citeertitel
 
-Deze regeling wordt aangehaald als: Subsidieregeling Statushouders en de stap naar de klas.
+Deze regeling wordt aangehaald als: Subsidieregeling Statushouders en Oekraïense ontheemden en de stap naar de klas.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
