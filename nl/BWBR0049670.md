@@ -4,7 +4,7 @@ identifier: "BWBR0049670"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2024-07-01"
+last_updated: "2024-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049670"
 soort: "wet"
@@ -42,8 +42,6 @@ entry_into_force: "2024-05-01"
 
 Wijzigt de Algemene wet bestuursrecht.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel II. [Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947)
 
 Wijzigt de Ambtenarenwet 2017.
@@ -54,13 +52,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Politiewet 2012.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IV. [Wet college voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364)
 
 Wijzigt de Wet College voor toetsen en examens.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel V. [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625)
 
@@ -70,19 +64,13 @@ Wijzigt de Wet educatie en beroepsonderwijs.
 
 Wijzigt de Wet educatie en beroepsonderwijs BES.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VII. [Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017)
 
 Wijzigt de Wet kinderopvang.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VIII. [Wet medezeggenschap op scholen](https://wetten.overheid.nl/jci1.3:c:BWBR0020685)
 
 Wijzigt de Wet medezeggenschap op scholen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IX. [Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249)
 
@@ -91,8 +79,6 @@ Wijzigt de Wet normering topinkomens.
 ##### Artikel X. [Wet op belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002740)
 
 Wijzigt de Wet op belastingen van rechtsverkeer.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XI. [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549)
 
@@ -110,8 +96,6 @@ Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
 
 Wijzigt de Wet op het onderwijstoezicht.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XV. [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420)
 
 Wijzigt de Wet op het primair onderwijs.
@@ -120,37 +104,25 @@ Wijzigt de Wet op het primair onderwijs.
 
 Wijzigt de Wet open overheid.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVII. [Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280)
 
 Wijzigt de Wet primair onderwijs BES.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVIII. [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453)
 
 Wijzigt de Wet studiefinanciering 2000.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XIX. [Wet studiefinanciering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028393)
 
 Wijzigt de Wet studiefinanciering BES.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XX. [Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438)
 
 Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXI. [Wet tijdelijke onderwijsvoorzieningen bij massale toestroom van ontheemden](https://wetten.overheid.nl/jci1.3:c:BWBR0046911)
 
 Wijzigt de Wet tijdelijke onderwijsvoorzieningen bij massale toestroom van ontheemden.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXII. [Wet van 9 februari 2022 tot wijziging van een aantal onderwijswetten in verband met aanpassingen op het gebied van de doorstroom van het basisonderwijs naar het voortgezet onderwijs en wijziging van de stelselinrichting van doorstroomtoetsen en toetsen verbonden aan leerling- en onderwijsvolgsystemen in het basisonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0046751) (STB. 2022, 135)
 
@@ -164,11 +136,11 @@ Wijzigt de Wet voortgezet onderwijs 2020.
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld en kan terugwerken.
 
-2. [Artikel XI, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0049670&artikel=XI&z=2024-07-01&g=2024-07-01), en [artikel XV, onderdeel M](https://wetten.overheid.nl/jci1.3:c:BWBR0049670&artikel=XV&z=2024-07-01&g=2024-07-01), van deze wet treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij worden geplaatst, en werken terug tot en met 1 april 2022.
+2. [Artikel XI, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0049670&artikel=XI&z=2024-08-01&g=2024-08-01), en [artikel XV, onderdeel M](https://wetten.overheid.nl/jci1.3:c:BWBR0049670&artikel=XV&z=2024-08-01&g=2024-08-01), van deze wet treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij worden geplaatst, en werken terug tot en met 1 april 2022.
 
-3. [Artikel XIII, onderdeel W](https://wetten.overheid.nl/jci1.3:c:BWBR0049670&artikel=XIII&z=2024-07-01&g=2024-07-01), en [artikel XXIII, onderdelen L en HH](https://wetten.overheid.nl/jci1.3:c:BWBR0049670&artikel=XXIII&z=2024-07-01&g=2024-07-01), van deze wet treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij worden geplaatst en werken terug tot en met 1 januari 2024.
+3. [Artikel XIII, onderdeel W](https://wetten.overheid.nl/jci1.3:c:BWBR0049670&artikel=XIII&z=2024-08-01&g=2024-08-01), en [artikel XXIII, onderdelen L en HH](https://wetten.overheid.nl/jci1.3:c:BWBR0049670&artikel=XXIII&z=2024-08-01&g=2024-08-01), van deze wet treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij worden geplaatst en werken terug tot en met 1 januari 2024.
 
-4. [Artikel XXII](https://wetten.overheid.nl/jci1.3:c:BWBR0049670&artikel=XXII&z=2024-07-01&g=2024-07-01) van deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2023.
+4. [Artikel XXII](https://wetten.overheid.nl/jci1.3:c:BWBR0049670&artikel=XXII&z=2024-08-01&g=2024-08-01) van deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2023.
 
 ##### Artikel XXV. Citeertitel
 
