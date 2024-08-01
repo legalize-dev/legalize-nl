@@ -4,7 +4,7 @@ identifier: "BWBR0050093"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-01"
-last_updated: "2024-06-25"
+last_updated: "2024-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050093"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 - –. **certificerende instelling:** de certificerende instelling, bedoeld in [artikel 3.4, eerste lid, van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=3.4);
 
-- –. **KMI:** het Keurmerkinstituut, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050093&artikel=2&z=2024-08-01&g=2024-06-25);
+- –. **KMI:** het Keurmerkinstituut, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050093&artikel=2&z=2024-08-01&g=2024-08-01);
 
 - –. **Staatssecretaris:** de Staatssecretaris van Justitie en Veiligheid.
 
@@ -58,7 +58,7 @@ Het Keurmerkinstituut B.V., gevestigd te Zoetermeer, wordt aangewezen als certif
 
 ##### Artikel 3
 
-Onverminderd [artikel 3.1.5 van het Besluit Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&artikel=3.1.5) kan de aanwijzing in ieder geval worden ingetrokken indien KMI niet voldoet aan de bij of krachtens de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925) gestelde voorschriften of de voorwaarden, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050093&artikel=4&z=2024-08-01&g=2024-06-25), of zich dusdanig gewijzigde omstandigheden voordoen die ertoe leiden dat er onvoldoende grondslag is om de aanwijzing voort te zetten.
+Onverminderd [artikel 3.1.5 van het Besluit Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&artikel=3.1.5) kan de aanwijzing in ieder geval worden ingetrokken indien KMI niet voldoet aan de bij of krachtens de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925) gestelde voorschriften of de voorwaarden, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050093&artikel=4&z=2024-08-01&g=2024-08-01), of zich dusdanig gewijzigde omstandigheden voordoen die ertoe leiden dat er onvoldoende grondslag is om de aanwijzing voort te zetten.
 
 ##### Artikel 4
 
