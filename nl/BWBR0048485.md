@@ -162,19 +162,3 @@ Zowel de eerste afname als de herkansing van de flexibele digitale centrale exam
 Zowel de eerste afname als de herkansing van de centraal schriftelijke en praktische examens in de beroepsgerichte profielvakken vinden tijdens de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048485&bijlage=1&z=2024-08-01&g=2024-08-01) vermelde afnameperiode plaats. Herkansing van de centraal schriftelijke en praktische examens in de beroepsgerichte vakken in de gemengde leerweg kan pas vanaf de datum van de bekendmaking van de normering van de algemene vakken vmbo plaatsvinden.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-### Dinsdag 17 juni
-
-### Donderdag 19 juni – afname op staatsexamenlocaties – aangewezen vakken
-
-De aangewezen vakken worden afgenomen door het College voor Toetsen en Examens. Meer informatie hierover is te vinden in [hoofdstuk 11](https://www.examenblad.nl/2025/onderwerpen/septembermededeling#par-11) van de Septembermededeling.
-
-### Donderdag 19 juni – afname op de scholen
-
-### Vrijdag 20 juni
-
-### Maandag 23 juni
-
-### Dinsdag 24 juni
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
