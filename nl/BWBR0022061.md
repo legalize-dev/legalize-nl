@@ -4,7 +4,7 @@ identifier: "BWBR0022061"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-02-12"
-last_updated: "2024-01-11"
+last_updated: "2024-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022061"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 ##### Artikel 1. Vaststelling examenprogramma’s v.w.o en h.a.v.o.
 
-De examenprogramma’s v.w.o. en h.a.v.o. worden vastgesteld zoals aangegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&bijlage=1&z=2024-01-11&g=2024-01-11) bij deze regeling.
+De examenprogramma’s v.w.o. en h.a.v.o. worden vastgesteld zoals aangegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&bijlage=1&z=2024-01-11&g=2024-08-01) bij deze regeling.
 
 ##### Artikel 2. Vaststelling examenprogramma’s vmbo
 
@@ -156,7 +156,7 @@ Deze regeling wordt aangehaald als: Regeling examenprogramma’s voortgezet onde
 
 Deze regeling wordt aangehaald als: Regeling examenprogramma’s voortgezet onderwijs.
 
-## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=1&z=2024-01-11&g=2024-01-11) van de Regeling examenprogramma’s voortgezet onderwijs
+## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=1&z=2024-01-11&g=2024-08-01) van de Regeling examenprogramma’s voortgezet onderwijs
 
 ## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=1&z=2016-08-01&g=2016-08-01) van de Regeling examenprogramma’s voortgezet onderwijs
 
@@ -6776,7 +6776,7 @@ Het eindexamen bestaat uit het schoolexamen.
 
 Het examenprogramma bestaat uit de volgende domeinen:
 
-## Bijlage 2. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=2&z=2024-01-11&g=2024-01-11) van de Regeling examenprogramma’s voortgezet onderwijs
+## Bijlage 2. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=2&z=2024-01-11&g=2024-08-01) van de Regeling examenprogramma’s voortgezet onderwijs
 
 ## Bijlage 3. Loopbaanoriëntatie en -ontwikkeling in de theoretische leerweg van het vmbo
 
