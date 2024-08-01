@@ -4,7 +4,7 @@ identifier: "BWBR0040310"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-01"
-last_updated: "2023-08-01"
+last_updated: "2024-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040310"
 soort: "ministeriele-regeling"
@@ -100,21 +100,16 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Deze regeling wordt aangehaald als: Regeling aanvullende eisen toelating middelbaar beroepsonderwijs.
 
-## Bijlage. behorende bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040310&artikel=2&z=2023-08-01&g=2023-08-01), van de Regeling aanvullende eisen toelating middelbaar beroepsonderwijs
+## Bijlage. behorende bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040310&artikel=2&z=2024-08-01&g=2024-08-01), van de Regeling aanvullende eisen toelating middelbaar beroepsonderwijs
 
 | Crebo | Opleiding | Grond voor aanvullende eis |
 | --- | --- | --- |
-| 25076 | Medewerker Uurwerktechniek niveau 3 | Fijne oog-handcoördinatie |
-| 25077 | Uurwerktechnicus niveau 4 | Fijne oog-handcoördinatie |
 | 25519 | Schipper-machinist beperkt werkgebied niveau 2 | Fysieke geschiktheid (medische keuring) |
 | 25548 | Creatief vakman niveau 4 | Creatieve en artistieke aanleg |
 | 25599 | Aankomend medewerker grondoptreden niveau 2 | Fysieke en psychische geschiktheid |
 | 25600 | Aankomend onderofficier grondoptreden niveau 3 | Fysieke en psychische geschiktheid |
 | 25601 | Aankomend medewerker maritiem niveau 2 | Fysieke en psychische geschiktheid |
 | 25602 | Aankomend onderofficier maritiem niveau 3 | Fysieke en psychische geschiktheid |
-| 25610 | Matroos Binnenvaart niveau 2 | Fysieke geschiktheid (medische keuring) |
-| 25611 | Schipper binnenvaart niveau 3 | Fysieke geschiktheid (medische keuring) |
-| 25612 | Kapitein binnenvaart niveau 4 | Fysieke geschiktheid (medische keuring) |
 | 25613 | Machinist railvervoer niveau 3 | Fysieke en psychische geschiktheid |
 | 25630 | Allround Medewerker Optiek niveau 3 | Fijne oog-handcoördinatie |
 | 25631 | Opticien niveau 4 | Fijne oog-handcoördinatie |
@@ -153,5 +148,12 @@ Deze regeling wordt aangehaald als: Regeling aanvullende eisen toelating middelb
 | 25912 | Trainer-coach/Instructeur | Benodigde praktische bedrevenheid in bewegingsactiviteit |
 | 25908 | Sport- en bewegingsleider | Benodigde praktische bedrevenheid in bewegingsactiviteit |
 | 25917 | Instructeur paardensport en -houderij | Benodigde praktische bedrevenheid in bewegingsactiviteit |
+| 25962 | Allround uurwerktechnicus | Fijne oog-handcoördinatie |
+| 25963 | Uurwerktechnisch designer | Fijne oog-handcoördinatie |
+| 25964 | Uurwerktechnisch luxury specialist | Fijne oog-handcoördinatie |
+| 25965 | Uurwerktechnisch restauratiespecialist | Fijne oog-handcoördinatie |
+| 25970 | Matroos binnenvaart | Fysieke geschiktheid (medische keuring) |
+| 25971 | Schipper binnenvaart | Fysieke geschiktheid (medische keuring) |
+| 25972 | Kapitein binnenvaart | Fysieke geschiktheid (medische keuring) |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
