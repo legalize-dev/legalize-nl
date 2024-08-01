@@ -4,7 +4,7 @@ identifier: "BWBR0048579"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-28"
-last_updated: "2023-08-30"
+last_updated: "2024-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048579"
 soort: "ministeriele-regeling"
@@ -42,41 +42,41 @@ Besluit:
 
 ##### Artikel 1. Vaststelling erkende opleidingscodetabel vo en vso
 
-1. De opleidingscodes voor de telling van leerlingen in het voortgezet onderwijs op 1 oktober worden in [bijlage Ia](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=Ia&z=2023-08-30&g=2023-08-30) vastgesteld.
+1. De opleidingscodes voor de telling van leerlingen in het voortgezet onderwijs op 1 oktober worden in [bijlage Ia](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=Ia&z=2023-08-30&g=2024-08-01) vastgesteld.
 
-2. De opleidingscodes voor de telling van leerlingen in het voorgezet speciaal onderwijs op 1 februari worden in [bijlage Ib](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=Ib&z=2023-08-30&g=2023-08-30) vastgesteld.
+2. De opleidingscodes voor de telling van leerlingen in het voorgezet speciaal onderwijs op 1 februari worden in [bijlage Ib](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=Ib&z=2023-08-30&g=2024-08-01) vastgesteld.
 
 ##### Artikel 2. Vaststelling erkende opleidingscodetabel vo Caribisch Nederland
 
-De opleidingscodes voor de telling van leerlingen in het voortgezet onderwijs in Caribisch Nederland op 1 oktober worden in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=II&z=2023-08-30&g=2023-08-30) vastgesteld.
+De opleidingscodes voor de telling van leerlingen in het voortgezet onderwijs in Caribisch Nederland op 1 oktober worden in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=II&z=2023-08-30&g=2024-08-01) vastgesteld.
 
 ##### Artikel 3. Vaststelling erkende opleidingscodetabel staatsexamens vo en staatsexamens vo BES
 
-1. De opleidingscodes voor kandidaten die het staatsexamen vo doen worden in [bijlage Ia](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=Ia&z=2023-08-30&g=2023-08-30) vastgesteld.
+1. De opleidingscodes voor kandidaten die het staatsexamen vo doen worden in [bijlage Ia](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=Ia&z=2023-08-30&g=2024-08-01) vastgesteld.
 
-2. De opleidingscodes voor kandidaten die het staatsexamen vo doen zonder profiel worden in [bijlage IIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=IIIa&z=2023-08-30&g=2023-08-30) vastgesteld.
+2. De opleidingscodes voor kandidaten die het staatsexamen vo doen zonder profiel worden in [bijlage IIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=IIIa&z=2023-08-30&g=2024-08-01) vastgesteld.
 
-3. De opleidingscodes voor kandidaten die het staatsexamen vo doen op grond van de regelgeving zoals die gold op 31 juli 2016 en in aanmerking komen voor een sectordiploma, worden in [bijlage IIIb](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=IIIb&z=2023-08-30&g=2023-08-30) vastgesteld.
+3. De opleidingscodes voor kandidaten die het staatsexamen vo doen op grond van de regelgeving zoals die gold op 31 juli 2016 en in aanmerking komen voor een sectordiploma, worden in [bijlage IIIb](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=IIIb&z=2023-08-30&g=2024-08-01) vastgesteld.
 
-4. De opleidingscodes voor kandidaten in Caribisch Nederland die het staatsexamen vo BES doen, worden in [bijlage IIIc](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=IIIc&z=2023-08-30&g=2023-08-30) vastgesteld.
+4. De opleidingscodes voor kandidaten in Caribisch Nederland die het staatsexamen vo BES doen, worden in [bijlage IIIc](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=IIIc&z=2023-08-30&g=2024-08-01) vastgesteld.
 
 ##### Artikel 4. Vaststelling erkende opleidingscodetabel staatsexamens Nederlands als tweede taal (Nt2)
 
-De opleidingscodes voor de verwerking van behaalde examenresultaten en waardedocumenten van het staatsexamen Nederlands als tweede taal, bedoeld in het [Staatsexamenbesluit Nederlands als tweede taal](https://wetten.overheid.nl/jci1.3:c:BWBR0006192), worden in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=IV&z=2023-08-30&g=2023-08-30)vastgesteld.
+De opleidingscodes voor de verwerking van behaalde examenresultaten en waardedocumenten van het staatsexamen Nederlands als tweede taal, bedoeld in het [Staatsexamenbesluit Nederlands als tweede taal](https://wetten.overheid.nl/jci1.3:c:BWBR0006192), worden in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=IV&z=2023-08-30&g=2024-08-01)vastgesteld.
 
 ##### Artikel 5. Vaststelling opleidingencodetabel vavo
 
-De opleidingscodes betreffende het voortgezet algemeen volwassenenonderwijs voor regionale opleidingscentra als bedoeld in [artikel 1.3.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.1), worden in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=V&z=2023-08-30&g=2023-08-30) vastgesteld.
+De opleidingscodes betreffende het voortgezet algemeen volwassenenonderwijs voor regionale opleidingscentra als bedoeld in [artikel 1.3.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.1), worden in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=V&z=2023-08-30&g=2024-08-01) vastgesteld.
 
 ##### Artikel 6. Vaststelling vakcodetabel vo, vso en volwasseneneducatie
 
-De vakcodes voor scholen voor voortgezet onderwijs en voortgezet speciaal onderwijs als bedoeld in [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1), en voor instellingen als bedoeld in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) of de [Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395), voor zover het betreft de daaraan verzorgde opleidingen voortgezet algemeen volwassenenonderwijs, worden in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=VI&z=2023-08-30&g=2023-08-30) vastgesteld.
+De vakcodes voor scholen voor voortgezet onderwijs en voortgezet speciaal onderwijs als bedoeld in [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1), en voor instellingen als bedoeld in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) of de [Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395), voor zover het betreft de daaraan verzorgde opleidingen voortgezet algemeen volwassenenonderwijs, worden in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=VI&z=2023-08-30&g=2024-08-01) vastgesteld.
 
 ##### Artikel 7. Vaststelling generieke examenonderdelencodetabel mbo en vakcodes staatsexamens Nederlands als tweede taal (Nt2)
 
-1. De examenonderdelencodes voor instellingen als bedoeld in [artikel 1.1.1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1), en [artikel 1.4.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.4.1) betreffende het beroepsonderwijs worden in [bijlage VIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=VIIa&z=2023-08-30&g=2023-08-30) vastgesteld.
+1. De examenonderdelencodes voor instellingen als bedoeld in [artikel 1.1.1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1), en [artikel 1.4.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.4.1) betreffende het beroepsonderwijs worden in [bijlage VIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=VIIa&z=2023-08-30&g=2024-08-01) vastgesteld.
 
-2. De examenonderdelencodes voor het College voor toetsen en examens, bedoeld in [artikel 1 van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=1), betreffende het staatsexamen Nederlands als tweede taal, bedoeld in het [Staatsexamenbesluit Nederlands als tweede taa](https://wetten.overheid.nl/jci1.3:c:BWBR0006192)l, worden in [bijlage VIIb](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=VIIb&z=2023-08-30&g=2023-08-30) vastgesteld.
+2. De examenonderdelencodes voor het College voor toetsen en examens, bedoeld in [artikel 1 van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=1), betreffende het staatsexamen Nederlands als tweede taal, bedoeld in het [Staatsexamenbesluit Nederlands als tweede taa](https://wetten.overheid.nl/jci1.3:c:BWBR0006192)l, worden in [bijlage VIIb](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=VIIb&z=2023-08-30&g=2024-08-01) vastgesteld.
 
 ##### Artikel 8. Intrekking
 
@@ -90,19 +90,19 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Deze regeling wordt aangehaald als: Regeling codetabellen vo, vso en mbo.
 
-## Bijlage Ia. Behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&artikel=1&z=2023-08-30&g=2023-08-30) van de Regeling codetabellen vo en mbo
+## Bijlage Ia. Behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&artikel=1&z=2023-08-30&g=2024-08-01) van de Regeling codetabellen vo en mbo
 
 ### Technische toelichting bijlage Ia
 
 In de bijlage worden specifieke erkende opleidingscodes opgenomen voor de combinatieklassen van de kaderberoepsgerichte en theoretische leerwegen in de onderbouw van het voortgezet onderwijs. De code 0028 is bedoeld voor de reguliere leerlingen. De code 0047 voor leerlingen met een lwoo-indicatie.
 
-## Bijlage Ib. Behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&artikel=1&z=2023-08-30&g=2023-08-30) van de Regeling codetabellen vo en mbo
+## Bijlage Ib. Behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&artikel=1&z=2023-08-30&g=2024-08-01) van de Regeling codetabellen vo en mbo
 
 ### Technische toelichting bijlage Ib
 
 In de bijlage wordt een specifieke erkende opleidingscode (0028) opgenomen voor de combinatieklassen van de kaderberoepsgerichte en theoretische leerwegen in de onderbouw van het voortgezet speciaal onderwijs.
 
-## Bijlage II. Behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&artikel=2&z=2023-08-30&g=2023-08-30) van de Regeling codetabellen vo en mbo
+## Bijlage II. Behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&artikel=2&z=2023-08-30&g=2024-08-01) van de Regeling codetabellen vo en mbo
 
 | Registratiecode | Korte omschrijving | Jaar1 | Jaar2 | Jaar3 | Jaar4 | Jaar5 | Jaar6 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -216,7 +216,7 @@ In de bijlage wordt een specifieke erkende opleidingscode (0028) opgenomen voor 
 | 0950 | Carribean secundary education certificate |   |   |   | 4 | 5 |   |
 | 0951 | Carribean Advanced Proficiency Examination |   |   |   |   |   | 6en7 |
 
-## Bijlage IIIa. Behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&artikel=3&z=2023-08-30&g=2023-08-30) van de Regeling codetabellen vo en mbo
+## Bijlage IIIa. Behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&artikel=3&z=2023-08-30&g=2024-08-01) van de Regeling codetabellen vo en mbo
 
 | Registratiecode | Omschrjving | Jaar1 | Jaar2 | Jaar3 | Jaar4 | Jaar5 | Jaar6 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -228,7 +228,7 @@ In de bijlage wordt een specifieke erkende opleidingscode (0028) opgenomen voor 
 | 0086 | VMBO KB zonder profiel |   |   |   | 4 |   |   |
 | 0087 | VMBO BB zonder profiel |   |   |   | 4 |   |   |
 
-## Bijlage IIIb. Behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&artikel=3&z=2023-08-30&g=2023-08-30) van de Regeling codetabellen vo en mbo
+## Bijlage IIIb. Behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&artikel=3&z=2023-08-30&g=2024-08-01) van de Regeling codetabellen vo en mbo
 
 | Registratiecode | Naam | jaar 1 | jaar 2 | jaar 3 | jaar 4 | jaar 5 | jaar 6 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -249,7 +249,7 @@ In de bijlage wordt een specifieke erkende opleidingscode (0028) opgenomen voor 
 | 5043 | VMBO TL Economie |   |   |   | 4 |   |   |
 | 5044 | VMBO TL Landbouw |   |   |   | 4 |   |   |
 
-## Bijlage IIIc. Behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&artikel=3&z=2023-08-30&g=2023-08-30) van de Regeling codetabellen vo en mbo
+## Bijlage IIIc. Behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&artikel=3&z=2023-08-30&g=2024-08-01) van de Regeling codetabellen vo en mbo
 
 | Registratiecode | Korte Omschrijving | Jaar1 | Jaar2 | Jaar3 | Jaar4 | Jaar5 | Jaar6 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -273,14 +273,14 @@ In de bijlage wordt een specifieke erkende opleidingscode (0028) opgenomen voor 
 | 0472 | MAVO/Theor Lw-Profiel Economie |   |   | 3 | 4 |   |   |
 | 0473 | MAVO/Theor Lw-Profiel Groen |   |   | 3 | 4 |   |   |
 
-## Bijlage IV. Behorende bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&artikel=4&z=2023-08-30&g=2023-08-30) van de Regeling codetabellen vo en mbo
+## Bijlage IV. Behorende bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&artikel=4&z=2023-08-30&g=2024-08-01) van de Regeling codetabellen vo en mbo
 
 | erkende opleidingscode | naam |
 | --- | --- |
 | 0088 | Nederlands als 2e taal B1 |
 | 0089 | Nederlands als 2e taal B2 |
 
-## Bijlage V. Behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&artikel=5&z=2023-08-30&g=2023-08-30) van de Regeling codetabellen vo en mbo
+## Bijlage V. Behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&artikel=5&z=2023-08-30&g=2024-08-01) van de Regeling codetabellen vo en mbo
 
 | Code | Korte Omschrijving |
 | --- | --- |
@@ -321,11 +321,11 @@ In de bijlage wordt een specifieke erkende opleidingscode (0028) opgenomen voor 
 | 5453 | VAVO MAVO/Theor Lw-Profiel Groen |
 | 5490 | VAVO MAVO/theorethische leerweg-vmbo voorexamenklas |
 
-## Bijlage VI. Behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&artikel=6&z=2023-08-30&g=2023-08-30) van de Regeling codetabellen vo en mbo
+## Bijlage VI. Behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&artikel=6&z=2023-08-30&g=2024-08-01) van de Regeling codetabellen vo en mbo
 
 ### Vakcodetabel vo, vso en vavo
 
-## Bijlage VIIa. Behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&artikel=6&z=2023-08-30&g=2023-08-30) van de Regeling codetabellen vo en mbo
+## Bijlage VIIa. Behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&artikel=6&z=2023-08-30&g=2024-08-01) van de Regeling codetabellen vo en mbo
 
 | examenonderdeel | code |
 | --- | --- |
@@ -346,7 +346,7 @@ In de bijlage wordt een specifieke erkende opleidingscode (0028) opgenomen voor 
 | rekenen MBO 3 | 3028 |
 | rekenen MBO 4 | 3029 |
 
-## Bijlage VIIb. Behorende bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&artikel=7&z=2023-08-30&g=2023-08-30) van de Regeling codetabellen vo en mbo
+## Bijlage VIIb. Behorende bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&artikel=7&z=2023-08-30&g=2024-08-01) van de Regeling codetabellen vo en mbo
 
 | examenonderdeel | code |
 | --- | --- |
@@ -359,4 +359,4 @@ In de bijlage wordt een specifieke erkende opleidingscode (0028) opgenomen voor 
 | luisteren B2 | 3025 |
 | schrijven B2 | 3026 |
 
-Deze regeling zal met [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=Ia&z=2023-08-30&g=2023-08-30) en toelichting in de Staatscourant worden geplaatst.
+Deze regeling zal met [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=Ia&z=2023-08-30&g=2024-08-01) en toelichting in de Staatscourant worden geplaatst.
