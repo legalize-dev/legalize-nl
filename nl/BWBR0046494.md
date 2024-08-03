@@ -4,7 +4,7 @@ identifier: "BWBR0046494"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-03"
-last_updated: "2022-11-23"
+last_updated: "2024-08-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046494"
 soort: "ministeriele-regeling"
@@ -62,25 +62,25 @@ Voor subsidieverlening op grond van [artikel 7.2, eerste lid, onderdeel c, van d
 
 4. Voor aanvragen voor subsidie in volgende openstellingen van het Subsidieprogramma Support International Business 2022–2026 gelden nader bekend te maken openstellingsperiodes.
 
-5. Aanvragen voor subsidies in het kader van het Subsidieprogramma Support International Business 2022–2026 worden ingediend aan de hand van een door de minister beschikbaar gesteld formulier en voorzien van de op het aanvraagformulier gevraagde bescheiden.1Zie [www.rvo.nl/sib](onbekend).
+5. Aanvragen voor subsidies in het kader van het Subsidieprogramma Support International Business 2022–2026 worden ingediend aan de hand van een door de minister beschikbaar gesteld formulier en voorzien van de op het aanvraagformulier gevraagde bescheiden.1Zie [www.rvo.nl/sib](http://www.rvo.nl/sib).
 
 ##### Artikel 3
 
-1. Voor subsidieverlening in het kader van het Subsidieprogramma Support International Business 2022–2026 geldt voor de periode vanaf inwerkingtreding van dit besluit tot en met 31 december 2026 voor aanvragen bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046494&artikel=2&z=2022-11-23&g=2022-11-23), een subsidieplafond van € 1.385.000.
+1. Voor subsidieverlening in het kader van het Subsidieprogramma Support International Business 2022–2026 geldt voor de periode vanaf inwerkingtreding van dit besluit tot en met 31 december 2026 voor aanvragen bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046494&artikel=2&z=2024-08-03&g=2024-08-03), een subsidieplafond van € 1.385.000.
 
 2. Voor subsidieverlening in het kader van het Subsidieprogramma Support International Business 2022–2026 geldt voor de periode vanaf inwerkingtreding van dit besluit tot en met 31 december 2026 voor
 
-- a. aanvragen bedoeld in [artikel 2, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046494&artikel=2&z=2022-11-23&g=2022-11-23), een subsidieplafond van € 200.000;
+- a. aanvragen bedoeld in [artikel 2, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046494&artikel=2&z=2024-08-03&g=2024-08-03), een subsidieplafond van € 200.000;
 
-- b. aanvragen bedoeld in [artikel 2, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046494&artikel=2&z=2022-11-23&g=2022-11-23), een subsidieplafond van € 200.000;
+- b. aanvragen bedoeld in [artikel 2, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046494&artikel=2&z=2024-08-03&g=2024-08-03), een subsidieplafond van € 200.000;
 
-- c. aanvragen bedoeld in [artikel 2, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046494&artikel=2&z=2022-11-23&g=2022-11-23), een subsidieplafond van € 200.000;
+- c. aanvragen bedoeld in [artikel 2, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046494&artikel=2&z=2024-08-03&g=2024-08-03), een subsidieplafond van € 200.000;
 
 met dien verstande dat indien na de periodes genoemd in de onderdelen a en b een deel van het daar bedoelde subsidieplafond resteert, dit beschikbaar is voor aanvragen in de eerstvolgende periode.
 
-3. Indien na toepassing van het eerste lid middelen van het daar bedoelde subsidieplafond resteren, zijn deze beschikbaar voor aanvragen bedoeld in [artikel 2, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046494&artikel=2&z=2022-11-23&g=2022-11-23), en indien na toepassing van het tweede lid, onderdeel c, middelen van het daar bedoelde subsidieplafond resteren, is dit beschikbaar voor aanvragen bedoeld in het eerste lid.
+3. Indien na toepassing van het eerste lid middelen van het daar bedoelde subsidieplafond resteren, zijn deze beschikbaar voor aanvragen bedoeld in [artikel 2, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046494&artikel=2&z=2024-08-03&g=2024-08-03), en indien na toepassing van het tweede lid, onderdeel c, middelen van het daar bedoelde subsidieplafond resteren, is dit beschikbaar voor aanvragen bedoeld in het eerste lid.
 
-4. Voor subsidieverlening in het kader van het Subsidieprogramma Support International Business 2022–2026 gelden voor aanvragen bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046494&artikel=2&z=2022-11-23&g=2022-11-23), nader bekend te maken subsidieplafonds.
+4. Voor subsidieverlening in het kader van het Subsidieprogramma Support International Business 2022–2026 gelden voor aanvragen bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046494&artikel=2&z=2024-08-03&g=2024-08-03), nader bekend te maken subsidieplafonds.
 
 ##### Artikel 4
 
@@ -98,7 +98,7 @@ De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking (hierna: de mi
 
 Het gaat hierbij om Nederlandse MKB-ondernemingen die structureel internationaal willen ondernemen in een doelland. Met structureel wordt bedoeld het op een constante en planmatige wijze vormgeven van de export van de eigen goederen en/of diensten. Het gaat om zelfgeproduceerde of zelfontwikkelde goederen en/of diensten en niet om ingekochte goederen en/of diensten die worden doorverkocht.
 
-De minister heeft besloten hiertoe met het Subsidieprogramma Support International Business 2022–2026 (hierna: SIB) een financiële bijdrage te leveren. Met SIB wordt een bijdrage geleverd aan de uitvoering van de SDG-agenda2[https://www.rijksoverheid.nl/onderwerpen/ontwikkelingssamenwerking/internationale-afspraken-ontwikkelingssamenwerking/global-goals-werelddoelen-voor-duurzame-ontwikkeling](onbekend).
+De minister heeft besloten hiertoe met het Subsidieprogramma Support International Business 2022–2026 (hierna: SIB) een financiële bijdrage te leveren. Met SIB wordt een bijdrage geleverd aan de uitvoering van de SDG-agenda2[https://www.rijksoverheid.nl/onderwerpen/ontwikkelingssamenwerking/internationale-afspraken-ontwikkelingssamenwerking/global-goals-werelddoelen-voor-duurzame-ontwikkeling](https://www.rijksoverheid.nl/onderwerpen/ontwikkelingssamenwerking/internationale-afspraken-ontwikkelingssamenwerking/global-goals-werelddoelen-voor-duurzame-ontwikkeling).
 
 In verband met de situatie in Oekraïne en Rusland welke steeds meer raakt aan internationaal opererende Nederlandse MKB-ondernemingen heeft de minister besloten om het voor deze groep Nederlandse MKB-ondernemers mogelijk te maken om coaching, hulp en advies te verkrijgen voor het inrichten van benodigde activiteiten om de internationale business (eventueel op afstand) draaiende te houden of te (her)ontwikkelen daar waar zij zijn getroffen. Hiertoe geldt paragraaf 4.4.6. van SIB.
 
@@ -218,7 +218,7 @@ Slechts één MKB-onderneming in een groep of deel uitmakend van een fiscale een
 
 De aanvraag bevat:
 
-De aanvraag voor subsidie wordt ingediend met gebruikmaking van een daartoe op [www.rvo.nl/sib](onbekend) beschikbaar gesteld middel en voorzien van de daarin genoemde bijlagen waarvoor modellen beschikbaar worden gesteld door RVO.
+De aanvraag voor subsidie wordt ingediend met gebruikmaking van een daartoe op [www.rvo.nl/sib](http://www.rvo.nl/sib) beschikbaar gesteld middel en voorzien van de daarin genoemde bijlagen waarvoor modellen beschikbaar worden gesteld door RVO.
 
 ### 6.2. Herstelperiode
 
@@ -294,7 +294,7 @@ Voor het bepalen van de kosten die in aanmerking kunnen worden genomen bij het b
 
 Een aanvrager kan niet binnen 2 jaar 2 keer in aanmerking komen voor subsidie voor dezelfde subsidiabele activiteit voor hetzelfde doelland, met uitzondering van de subsidiabele activiteit onder paragraaf **4.4.1. Deelname aan een (digitale) handelsmissie of collectieve beursinzending in het buitenland en 4.4.2 Zelfstandige deelname aan een buitenlandse (digitale) vakbeurs**, waarvoor een maximum van 2 subsidies voor dezelfde missie en/of vakbeurs in opvolgende jaren geldt.
 
-Tevens moet de aanvrager verklaren op de hoogte te zijn en te zullen handelen naar de OESO richtlijnen4[www.oesorichtlijnen.nl](onbekend). Ook dient de aanvrager op de hoogte te zijn van de FMO-uitsluitingslijst5[www.fmo.nl/exclusion-list](onbekend) en geen activiteiten uit te voeren die op deze lijst benoemd staan. In aanvulling hierop gelden ook de IFC Performance Standards.
+Tevens moet de aanvrager verklaren op de hoogte te zijn en te zullen handelen naar de OESO richtlijnen4[www.oesorichtlijnen.nl](http://www.oesorichtlijnen.nl). Ook dient de aanvrager op de hoogte te zijn van de FMO-uitsluitingslijst5[www.fmo.nl/exclusion-list](http://www.fmo.nl/exclusion-list) en geen activiteiten uit te voeren die op deze lijst benoemd staan. In aanvulling hierop gelden ook de IFC Performance Standards.
 
 ### 6.2. Herstelperiode
 
