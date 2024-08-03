@@ -4,7 +4,7 @@ identifier: "BWBR0035210"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-08-03"
-last_updated: "2023-11-01"
+last_updated: "2024-08-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035210"
 soort: "ministeriele-regeling"
@@ -160,9 +160,9 @@ Door middel van deze mogelijkheid kan er vanuit DGGF borg gestaan worden voor ee
 
 Indien een garantie of lening aan een onderneming of een lening aan een financier niet onder marktconforme voorwaarden of onder de voorwaarden van de Algemene groepsvrijstellingsverordening kan worden verstrekt, kunnen de voorwaarden van de De-minimis verordening toegepast worden. Dit kan door de lening- en garantievoorwaarden of de rente/premiekorting als uitgangspunt te nemen.
 
-Voor een lening geldt dan dat voor de lening zekerheden zijn gesteld van ten minste 50% van de lening en het een lening betreft van ofwel maximaal € 1.000.000 (of maximaal € 500.000 voor ondernemingen die in het goederenvervoer over de weg actief zijn) met een looptijd van maximaal vijf jaar ofwel maximaal € 500.000 (of maximaal € 250.000 voor ondernemingen die in het goederenvervoer over de weg actief zijn) met een looptijd van maximaal tien jaar (artikel 4, derde lid, onderdeel b, van de De-minimisverordening).
+Voor een lening geldt dan dat voor de lening zekerheden zijn gesteld van ten minste 50% van de lening en het een lening betreft van ofwel maximaal € 1.500.000 met een looptijd van maximaal vijf jaar ofwel maximaal € 750.000 (artikel 4, derde lid, onderdeel b, van de De-minimisverordening).
 
-Voor een garantie geldt dan dat de garantie niet meer dan 80% van de onderliggende lening bedraagt en ofwel het garantiebedrag maximaal € 1.500.000 bedraagt (of maximaal € 750.000 bedraagt voor ondernemingen die in het goederenvervoer over de weg actief zijn) en de garantie een looptijd van maximaal vijf jaar heeft, ofwel het garantiebedrag maximaal € 750.000 bedraagt (of maximaal € 375.000 voor ondernemingen die in het goederenvervoer over de weg actief zijn) en de garantie een looptijd van maximaal tien jaar heeft (artikel 4, zesde lid, onderdeel b, van de De-minimisverordening).
+Voor een garantie geldt dan dat de garantie niet meer dan 80% van de onderliggende lening bedraagt en ofwel het garantiebedrag maximaal € 2.250.000 bedraagt en de garantie een looptijd van maximaal vijf jaar heeft, ofwel het garantiebedrag maximaal € 1.125.000 en de garantie een looptijd van maximaal tien jaar heeft (artikel 4, zesde lid, onderdeel b, van de De-minimisverordening).
 
 ### 4.1. Commerciële haalbaarheid
 
@@ -546,7 +546,7 @@ De minister kan op aanvraag van een onderneming een subsidie in de vorm van leni
 
 ### Hoofdstuk 4. Hoofdstuk Criteria
 
-Op basis van het verschil tussen de marktconforme rente/premie en de gewenste rente/premie wordt de de-minimissteun bepaald (artikel 4, tweede lid, van de De-minimisverordening). Dit wordt berekend aan de hand van de Mededeling van de Commissie over de herziening van de methode waarmee de referentie- en verdisconteringspercentages worden vastgesteld (PB C 14 van 19 januari 2008, p. 6) danwel de Mededeling van de Commissie betreffende de toepassing van de artikelen 87 en 88 van het EG-Verdrag op staatssteun in de vorm van garanties (PB C 155 van 20 juni 2008, p. 10).
+Op basis van het verschil tussen de marktconforme rente/premie en de gewenste rente/premie wordt de de-minimissteun bepaald (artikel 4, derde lid, onder c en artikel 4, zesde lid, onder c van de De-minimisverordening). Dit wordt berekend aan de hand van de Mededeling van de Commissie over de herziening van de methode waarmee de referentie- en verdisconteringspercentages worden vastgesteld (PB C 14 van 19 januari 2008, p. 6) dan wel de Mededeling van de Commissie betreffende de toepassing van de artikelen 87 en 88 van het EG-Verdrag op staatssteun in de vorm van garanties (PB C 155 van 20 juni 2008, p. 10).
 
 ### 4.1.1. Lening aan een onderneming
 
