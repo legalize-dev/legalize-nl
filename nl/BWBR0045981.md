@@ -4,7 +4,7 @@ identifier: "BWBR0045981"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2024-08-07"
-last_updated: "2024-07-01"
+last_updated: "2024-08-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045981"
 soort: "beleidsregel"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-1. De beleidsregel wordt vastgesteld overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045981&bijlage=1&z=2022-01-01&g=2024-07-01) bij deze beleidsregel.
+1. De beleidsregel wordt vastgesteld overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045981&bijlage=1&z=2024-08-07&g=2024-08-07) bij deze beleidsregel.
 
 2. De Autoriteit woningcorporaties, Inspectie Leefomgeving en Transport past op haar werkterrein de beleidsregel toe.
 
@@ -56,6 +56,6 @@ Deze beleidsregel wordt aangehaald als: Beleidsregel Autoriteit woningcorporatie
 
 ## Bijlage 1
 
-Gepubliceerd op https://www.ilent.nl/onderwerpen/publicaties-cijfers-en-wetgeving-autoriteit-woningcorporaties/wet-en-regelgeving/beleidsregels-autoriteit-woningcorporaties.
+https://www.ilent.nl/onderwerpen/publicaties-cijfers-en-wetgeving-autoriteit-woningcorporaties/documenten/leefomgeving-en-wonen/autoriteit-woningcorporaties/publicaties-cijfers-en-wetgeving/publicaties/beleidsregels-autoriteit-woningcorporaties.
 
 Deze beleidsregel wordt met de toelichting in de Staatscourant geplaatst.
