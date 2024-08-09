@@ -4,7 +4,7 @@ identifier: "BWBR0034802"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-08-09"
-last_updated: "2014-02-12"
+last_updated: "2024-08-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034802"
 soort: "zbo"
@@ -53,7 +53,7 @@ In dit besluit wordt verstaan onder:
 
 - 4. **binnen-de-reikwijdte:** dat wat naar zijn aard en/of inhoud redelijkerwijs binnen het doel en voorwerp van het onderzoek kan vallen;
 
-- 5. **binnen-de-reikwijdte dataset:** dataset die binnen-de-reikwijdte is voordat de ‘ACM Werkwijze geheimhoudingsprivilege advocaat 2014’ en het onderstaande [artikel 2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034802&artikel=2.3&z=2014-02-12&g=2014-02-12), is toegepast;
+- 5. **binnen-de-reikwijdte dataset:** dataset die tot stand komt na het aan de hand van zoektermen digitaal doorzoeken van de dataset die is veilig gesteld;
 
 - 6. **dataset:** een verzameling gegevens;
 
@@ -63,7 +63,7 @@ In dit besluit wordt verstaan onder:
 
 - 9. **moment van ter inzage verlening:** moment waarop inzage wordt verleend als bedoeld in [artikel 5:49, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:49);
 
-- 10. **onderzoeksdataset:** dataset die binnen-de-reikwijdte is nadat de ‘ACM Werkwijze geheimhoudingsprivilege advocaat 2014’ en het onderstaande [artikel 2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034802&artikel=2.3&z=2014-02-12&g=2014-02-12), is toegepast;
+- 10. **onderzoeksdataset:** dataset die binnen-de-reikwijdte is nadat de ‘ACM Werkwijze geheimhoudingsprivilege advocaat 2014’ en het onderstaande [artikel 2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034802&artikel=2.3&z=2024-08-09&g=2024-08-09), is toegepast;
 
 - 11. **toezichthoudend ambtenaar:** degene die als zodanig op grond van het ‘[Besluit aanwijzing toezichthouders ACM](https://wetten.overheid.nl/jci1.3:c:BWBR0033227)’ is aangewezen;
 
