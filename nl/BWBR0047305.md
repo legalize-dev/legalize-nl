@@ -4,7 +4,7 @@ identifier: "BWBR0047305"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-08-12"
-last_updated: "2023-10-31"
+last_updated: "2024-08-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047305"
 soort: "zbo"
@@ -243,7 +243,7 @@ Er zijn in totaal 5 normklassen, elk met een ondergrens en een bovengrens.
 
 Per normklasse wordt een normbedrag per uur berekend, waarbij rekening is gehouden met de werkgeverslasten. Een afwezig personeelslid wordt naar aanleiding van het salaris ingedeeld in de bij dat salaris behorende normklasse. De bekostiging wordt vervolgens berekend door het normbedrag te vermenigvuldigen met het aantal uren dat het afwezige personeelslid is vervangen, tot maximaal het aantal uren afwezigheid.
 
-Op grond van [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0047305&hoofdstuk=6&z=2023-10-31&g=2023-10-31) van het reglement, kan een eigenrisicodrager er voor kiezen om gebruik te maken van één van de financiële varianten die door het Vervangingsfonds worden aangeboden.
+Op grond van [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0047305&hoofdstuk=6&z=2024-08-12&g=2024-08-12) van het reglement, kan een eigenrisicodrager er voor kiezen om gebruik te maken van één van de financiële varianten die door het Vervangingsfonds worden aangeboden.
 
 ### Bekostiging bij een zieke vervanger
 
@@ -415,7 +415,7 @@ Het bestandsformaat van de gegevenslevering is het XML-formaat (Extensive Markup
 
 ### § 5. Gegevenstabellen
 
-Indien een bevoegd gezag een bonus-malus verhouding heeft van meer dan 1,5, is voor het deel daarboven geen malus verschuldigd. De berekening en werking van de bonus-malus verhouding is opgenomen in de ‘Werkwijze bonus-malus regeling’, opgenomen als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047305&bijlage=2&z=2023-10-31&g=2023-10-31) in dit reglement.
+Indien een bevoegd gezag een bonus-malus verhouding heeft van meer dan 1,5, is voor het deel daarboven geen malus verschuldigd. De berekening en werking van de bonus-malus verhouding is opgenomen in de ‘Werkwijze bonus-malus regeling’, opgenomen als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047305&bijlage=2&z=2024-08-12&g=2024-08-12) in dit reglement.
 
 ### Artikel 12. Voorwaarden voor bekostiging
 
@@ -427,11 +427,11 @@ Vervanging kan plaatsvinden op basis van:
 
 ### Artikel 14. Bekostiging
 
-Indien is voldaan aan [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0047305&hoofdstuk=4&artikel=12&z=2023-10-31&g=2023-10-31) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0047305&hoofdstuk=4&artikel=13&z=2023-10-31&g=2023-10-31), dan vindt bekostiging plaats met inachtneming van dit artikel.
+Indien is voldaan aan [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0047305&hoofdstuk=4&artikel=12&z=2024-08-12&g=2024-08-12) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0047305&hoofdstuk=4&artikel=13&z=2024-08-12&g=2024-08-12), dan vindt bekostiging plaats met inachtneming van dit artikel.
 
 ### Artikel 20. Algemene voorwaarden voor bekostiging financiële varianten
 
-Een bevoegd gezag dat gebruik maakt van een financiële variant, komt voor bekostiging in aanmerking indien is voldaan aan [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0047305&hoofdstuk=4&artikel=12&z=2023-10-31&g=2023-10-31), met uitzondering van lid 7, onder a, [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0047305&hoofdstuk=4&artikel=13&z=2023-10-31&g=2023-10-31) en aan de voorwaarden van dit artikel.
+Een bevoegd gezag dat gebruik maakt van een financiële variant, komt voor bekostiging in aanmerking indien is voldaan aan [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0047305&hoofdstuk=4&artikel=12&z=2024-08-12&g=2024-08-12), met uitzondering van lid 7, onder a, [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0047305&hoofdstuk=4&artikel=13&z=2024-08-12&g=2024-08-12) en aan de voorwaarden van dit artikel.
 
 ### Artikel 23. Subsidies
 
@@ -638,9 +638,9 @@ De bekostiging van de wegens ziekte afwezige vervanger wordt dan door het Vervan
 
 ## Bijlage 4. Werkwijze vervangingspools
 
-Op grond van [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047305&hoofdstuk=5&z=2023-10-31&g=2023-10-31) van dit reglement, kunnen bevoegd gezagsorganen bij het Vervangingsfonds een vervangingspool aanvragen.
+Op grond van [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047305&hoofdstuk=5&z=2024-08-12&g=2024-08-12) van dit reglement, kunnen bevoegd gezagsorganen bij het Vervangingsfonds een vervangingspool aanvragen.
 
-Bij vervangingspools wordt er een andere bekostigingssystematiek gehanteerd dan bij de reguliere bekostiging. Er wordt gewerkt met een systeem van bevoorschotting en terugvordering. Voor inzetverantwoordingen die tijdig door het Vervangingsfonds zijn ontvangen, wordt een voorschot uitgekeerd. Dit voorschot wordt berekend conform de formule in [artikel 16, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047305&hoofdstuk=5&artikel=16&z=2023-10-31&g=2023-10-31). Het normbedrag is hierbij gebaseerd op het salaris van de poolmedewerker en niet op het salaris van de afwezige. Voor personeelsleden die in een vervangingspool zijn geplaatst en vallen onder de reikwijdte van de CAO Bestuurders Funderend Onderwijs 2022 geldt, dat het normbedrag altijd normklasse 5 bedraagt.
+Bij vervangingspools wordt er een andere bekostigingssystematiek gehanteerd dan bij de reguliere bekostiging. Er wordt gewerkt met een systeem van bevoorschotting en terugvordering. Voor inzetverantwoordingen die tijdig door het Vervangingsfonds zijn ontvangen, wordt een voorschot uitgekeerd. Dit voorschot wordt berekend conform de formule in [artikel 16, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047305&hoofdstuk=5&artikel=16&z=2024-08-12&g=2024-08-12). Het normbedrag is hierbij gebaseerd op het salaris van de poolmedewerker en niet op het salaris van de afwezige. Voor personeelsleden die in een vervangingspool zijn geplaatst en vallen onder de reikwijdte van de CAO Bestuurders Funderend Onderwijs 2022 geldt, dat het normbedrag altijd normklasse 5 bedraagt.
 
 Het bevoegd gezag dient de inzetverantwoording van de in de vervangingspool geplaatste personeelsleden in via ‘MijnVf’. De uiterste datum waarop het Vervangingsfonds de inzetverantwoordingen over het kalenderjaar moet hebben ontvangen is 1 september van het jaar, volgend op het jaar waarop de inzetverantwoording betrekking heeft. Indien het Vervangingsfonds een inzetverantwoording na deze datum heeft ontvangen, dan komt de maand waarop deze inzetverantwoording betrekking heeft niet voor bekostiging in aanmerking.
 
