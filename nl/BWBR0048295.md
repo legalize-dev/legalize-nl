@@ -4,7 +4,7 @@ identifier: "BWBR0048295"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2024-04-06"
+last_updated: "2024-08-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048295"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **aansluitende opleidingsroute:** opleidingsroute van vo, vso of vavo naar mbo en daarna hbo, die voldoet aan de eisen genoemd in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=3&z=2024-04-06&g=2024-04-06);
+- **aansluitende opleidingsroute:** opleidingsroute van vo, vso of vavo naar mbo en daarna hbo, die voldoet aan de eisen genoemd in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=3&z=2024-08-14&g=2024-08-14);
 
 - **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1);
 
@@ -76,9 +76,9 @@ In deze regeling wordt verstaan onder:
 
 - **onderwijsinstelling:** school, vavo-instelling, mbo-instelling of hogeschool;
 
-- **penvoerder:** penvoerder als bedoeld in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=4&z=2024-04-06&g=2024-04-06);
+- **penvoerder:** penvoerder als bedoeld in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=4&z=2024-08-14&g=2024-08-14);
 
-- **samenwerkingsverband:** samenwerkingsverband als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=3&z=2024-04-06&g=2024-04-06);
+- **samenwerkingsverband:** samenwerkingsverband als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=3&z=2024-08-14&g=2024-08-14);
 
 - **school:**
 
@@ -170,9 +170,9 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 - a. in het kalenderjaar 2023: gedurende het aanvraagtijdvak van 1 juli 2023 tot en met 15 september 2023, voor subsidieverstrekking in het jaar 2023;
 
-- b. in het kalenderjaar 2024: gedurende een eerste aanvraagtijdvak van 1 mei 2024 tot en met 31 mei 2024 en, indien het subsidieplafond, bedoeld in [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=5&z=2024-04-06&g=2024-04-06), na behandeling van de aanvragen uit het eerste aanvraagtijdvak nog niet is bereikt, gedurende een tweede aanvraagtijdvak van 15 augustus 2024 tot en met 15 september 2024 voor subsidieverstrekking in het jaar 2024; en
+- b. in het kalenderjaar 2024: gedurende een eerste aanvraagtijdvak van 1 mei 2024 tot en met 31 mei 2024 en, indien het subsidieplafond, bedoeld in [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=5&z=2024-08-14&g=2024-08-14), na behandeling van de aanvragen uit het eerste aanvraagtijdvak nog niet is bereikt, gedurende een tweede aanvraagtijdvak van 15 augustus 2024 tot en met 15 september 2024 voor subsidieverstrekking in het jaar 2024; en
 
-- c. in het kalenderjaar 2025: gedurende een eerste aanvraagtijdvak van 1 mei 2025 tot en met 31 mei 2025 en, indien het subsidieplafond, bedoeld in [artikel 5, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=5&z=2024-04-06&g=2024-04-06), na behandeling van de aanvragen uit het eerste aanvraagtijdvak nog niet is bereikt, van 15 augustus 2025 tot en met 15 september 2025 voor subsidieverstrekking in het jaar 2025.
+- c. in het kalenderjaar 2025: gedurende een eerste aanvraagtijdvak van 1 mei 2025 tot en met 31 mei 2025 en, indien het subsidieplafond, bedoeld in [artikel 5, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=5&z=2024-08-14&g=2024-08-14), na behandeling van de aanvragen uit het eerste aanvraagtijdvak nog niet is bereikt, van 15 augustus 2025 tot en met 15 september 2025 voor subsidieverstrekking in het jaar 2025.
 
 2. De minister wijst aanvragen die zijn ingediend buiten de aanvraagtijdvakken, genoemd in het eerste lid, af.
 
@@ -182,7 +182,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 - b. een vermelding van de gekozen vo-, vso- of vavo-, mbo- en hbo-opleidingen waarvoor de aansluitende opleidingsroute zal worden ontwikkeld en uitgevoerd;
 
-- c. een onderbouwing van de gekozen opleidingen waarvoor de aansluitende opleidingsroute zal worden ontwikkeld en uitgevoerd, waaruit blijkt dat die opleidingen voldoen aan het bepaalde in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=3&z=2024-04-06&g=2024-04-06);
+- c. een onderbouwing van de gekozen opleidingen waarvoor de aansluitende opleidingsroute zal worden ontwikkeld en uitgevoerd, waaruit blijkt dat die opleidingen voldoen aan het bepaalde in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=3&z=2024-08-14&g=2024-08-14);
 
 - d. een afschrift van de afspraken die de aan het samenwerkingsverband deelnemende onderwijsinstellingen met elkaar hebben gemaakt, minimaal bestaande uit afspraken over:
 
@@ -192,9 +192,9 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 - 3°. de wijze van informatieverstrekking en verantwoording aan de penvoerder door de overige onderwijsinstellingen binnen het samenwerkingsverband zodat de penvoerder aan de verplichtingen in deze regeling kan voldoen; en
 
-- 4°. het aanstellen van de coördinator, bedoeld in [artikel 3, derde lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=3&z=2024-04-06&g=2024-04-06);
+- 4°. het aanstellen van de coördinator, bedoeld in [artikel 3, derde lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=3&z=2024-08-14&g=2024-08-14);
 
-- e. een beschrijving, aan de hand van eisen, bedoeld in [artikel 3, derde lid, onderdelen a en c tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=3&z=2024-04-06&g=2024-04-06), van de opbouw en inrichting van de huidige onderwijsprogramma’s van de opleidingen waarvoor de aansluitende opleidingsroute zal worden ontwikkeld.
+- e. een beschrijving, aan de hand van eisen, bedoeld in [artikel 3, derde lid, onderdelen a en c tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=3&z=2024-08-14&g=2024-08-14), van de opbouw en inrichting van de huidige onderwijsprogramma’s van de opleidingen waarvoor de aansluitende opleidingsroute zal worden ontwikkeld.
 
 4. De subsidie wordt namens de onderwijsinstellingen in het samenwerkingsverband aangevraagd door, verstrekt aan en verantwoord door de penvoerder. De penvoerder is het bevoegd gezag van een mbo-instelling die deelneemt aan het samenwerkingsverband, niet zijnde Scholengemeenschap Bonaire. Op de penvoerder rusten alle aan de subsidie verbonden verplichtingen, ongeacht welk bevoegd gezag feitelijk is belast met de uitvoering van de daarop betrekking hebbende werkzaamheden.
 
@@ -206,9 +206,9 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 - a. in het kalenderjaar 2023 een bedrag van € 49,14 miljoen beschikbaar;
 
-- b. in het kalenderjaar 2024 een bedrag van € 50,40 miljoen beschikbaar; en
+- b. in het kalenderjaar 2024 een bedrag van € 32,76 miljoen beschikbaar; en
 
-- c. in het kalenderjaar 2025 een bedrag van € 50,40 miljoen beschikbaar.
+- c. in het kalenderjaar 2025 een bedrag van € 39,06 miljoen beschikbaar.
 
 2. Indien het voor subsidieverstrekking beschikbare bedrag voor 2023 ontoereikend is om alle daarvoor in aanmerking komende aanvragen voor één aansluitende opleidingsroute te kunnen toewijzen, verdeelt de minister het beschikbare bedrag op volgorde van binnenkomst van de aanvragen.
 
@@ -226,11 +226,19 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 ##### Artikel 6. Subsidieverplichtingen
 
-1. De penvoerder informeert de minister binnen twee maanden na de vaststelling van de subsidie over wie de coördinator is, bedoeld in [artikel 3, derde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=3&z=2024-04-06&g=2024-04-06).
+1. De penvoerder informeert de minister binnen twee maanden na de vaststelling van de subsidie over wie de coördinator is, bedoeld in [artikel 3, derde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=3&z=2024-08-14&g=2024-08-14).
 
-2. De penvoerder begint binnen één jaar na de vaststelling van de subsidie met uitvoering van de activiteiten en ziet er op toe dat binnen drie jaar na de vaststelling van de subsidie met de uitvoering van de ontwikkelde aansluitende opleidingsroute wordt begonnen. Binnen deze termijn van drie jaar zendt de penvoerder tevens een beschrijving van de opbouw en de inrichting van de onderwijsprogramma’s waarvoor de aansluitende opleidingsroute is ontwikkeld zoals omschreven in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=3&z=2024-04-06&g=2024-04-06), aan de minister.
+2. Binnen drie jaar na de vaststelling van de subsidie:
 
-3. Onverminderd [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=9&z=2024-04-06&g=2024-04-06) verstrekt de penvoerder namens alle aan het samenwerkingsverband deelnemende onderwijsinstellingen jaarlijks de volgende informatie aan de minister:
+- a. ontwikkelt de penvoerder de aansluitende opleidingsroute;
+
+- b. begint de penvoerder met de uitvoering van de aansluitende opleidingsroute; en
+
+- c. zendt de penvoerder een beschrijving van de opbouw en de inrichting van de onderwijsprogramma’s waarvoor de aansluitende opleidingsroute is ontwikkeld aan de Minister.
+
+3. De penvoerder begint binnen één jaar na de vaststelling van de subsidie met uitvoering van de activiteiten.
+
+4. Onverminderd [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=9&z=2024-08-14&g=2024-08-14) verstrekt de penvoerder namens alle aan het samenwerkingsverband deelnemende onderwijsinstellingen jaarlijks de volgende informatie aan de minister:
 
 - a. de status van de realisatie en de bijbehorende planning van de aansluitende opleidingsroute;
 
@@ -240,7 +248,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 - d. een overzicht van eventueel aanvullend benodigde acties om de doelen te bereiken.
 
-4. De penvoerder verstrekt de informatie, bedoeld in het derde lid:
+5. De penvoerder verstrekt de informatie, bedoeld in het derde lid:
 
 - a. binnen zes weken vóór het verstrijken van een jaar na vaststelling van de subsidie;
 
@@ -248,13 +256,13 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 - c. binnen zes weken vóór het verstrijken van drie jaar na vaststelling van de subsidie, waarbij de beschrijving van de voortgang en eventueel aanvullend benodigde acties, bedoeld in het derde lid, onderdelen c en d, betrekking heeft op de uitvoering en verduurzaming van de aansluitende opleidingsroute na afloop van de subsidieperiode.
 
-5. De penvoerder werkt mee aan:
+6. De penvoerder werkt mee aan:
 
 - a. onderzoek dat de totstandkoming, inhoud en opbouw van de aansluitende opleidingsroutes in kaart brengt; en
 
 - b. kennisdeling en andere activiteiten rondom aansluitende opleidingsroutes die gedurende en na de subsidieperiode door de minister worden georganiseerd.
 
-6. De penvoerder is verantwoordelijk voor alle aan de subsidie verbonden verplichtingen, ongeacht welke van de onderwijsinstellingen binnen het samenwerkingsverband feitelijk is belast met de uitvoering van de daarop betrekking hebbende werkzaamheden.
+7. De penvoerder is verantwoordelijk voor alle aan de subsidie verbonden verplichtingen, ongeacht welke van de onderwijsinstellingen binnen het samenwerkingsverband feitelijk is belast met de uitvoering van de daarop betrekking hebbende werkzaamheden.
 
 ##### Artikel 7. Besteding subsidie
 
