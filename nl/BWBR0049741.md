@@ -4,7 +4,7 @@ identifier: "BWBR0049741"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-08-14"
-last_updated: "2024-08-07"
+last_updated: "2024-08-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049741"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ Besluit:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049741&artikel=2&z=2024-08-07&g=2024-08-07).
+In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049741&artikel=2&z=2024-08-14&g=2024-08-14).
 
 ##### Artikel 2
 
@@ -82,17 +82,21 @@ Op grond van dit besluit kunnen maximaal 50 personen als buitengewoon opsporings
 
 1. De directeur Kustwacht brengt jaarlijks, voor 1 april, verslag uit over:
 
-- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049741&artikel=2&z=2024-08-07&g=2024-08-07) genoemde functie;
+- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049741&artikel=2&z=2024-08-14&g=2024-08-14) genoemde functie;
 
 - b. de door die buitengewoon opsporingsambtenaren verrichte activiteiten;
 
 - c. de stand van zaken met betrekking tot de opleiding van die buitengewoon opsporingsambtenaren, waarbij in ieder geval wordt aangegeven hoeveel personen in het verslagjaar zijn aangemeld voor het door de Minister voor Rechtsbescherming goedgekeurde examen en hoeveel personen in dat jaar voor dat examen zijn geslaagd.
 
-2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049741&artikel=5&z=2024-08-07&g=2024-08-07) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Justitie en Veiligheid, Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
+2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049741&artikel=5&z=2024-08-14&g=2024-08-14) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Veiligheid en Justitie, dienst Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
+
+3.
+
+Aan de buitengewoon opsporingsambtenaar wordt op grond van het gestelde in het onderdeel Beperkte opsporingsbevoegdheden van [bijlage H bij de Beleidsregels Buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0039766&bijlage=H), ontheffing verleend van het bepaalde in [artikel 16, eerste lid, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=16), voor de praktijk examenonderdelen.
 
 ##### Artikel 7
 
-De op naam gestelde akten van beëdiging en de overige benoemingsbescheiden, afgegeven mede op basis van het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0049741&artikel=8&z=2024-08-07&g=2024-08-07) genoemde besluit, worden geacht mede te zijn afgegeven op basis van dit besluit.
+De op naam gestelde akten van beëdiging en de overige benoemingsbescheiden, afgegeven mede op basis van het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0049741&artikel=8&z=2024-08-14&g=2024-08-14) genoemde besluit, worden geacht mede te zijn afgegeven op basis van dit besluit.
 
 Dit artikel brengt geen wijziging in de resterende looptijd van de afgegeven aktes.
 
