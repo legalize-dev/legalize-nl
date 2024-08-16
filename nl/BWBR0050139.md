@@ -4,7 +4,7 @@ identifier: "BWBR0050139"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-08-16"
-last_updated: "2024-05-01"
+last_updated: "2024-08-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050139"
 soort: "ministeriele-regeling"
@@ -120,7 +120,7 @@ Tenzij anders is bepaald, omvat de verlening van ondermandaat mede de verlening 
 
 ##### Artikel 5. Ondermandaat
 
-1. De ondergemandateerden in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050139&artikel=3&z=2024-08-16&g=2024-05-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0050139&artikel=4&z=2024-08-16&g=2024-05-01) kunnen de aan hen ondergemandateerde bevoegdheden, afzonderlijk van elkaar, ondermandateren.
+1. De ondergemandateerden in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050139&artikel=3&z=2024-08-16&g=2024-08-16) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0050139&artikel=4&z=2024-08-16&g=2024-08-16) kunnen de aan hen ondergemandateerde bevoegdheden, afzonderlijk van elkaar, ondermandateren.
 
 2. De ondergemandateerde kan het ondermandaat slechts ondermandateren aan ondergeschikte medewerkers die de ondergemandateerde geschikt acht tot het uitvoeren van de werkzaamheden die verband houden met de uitvoering van de [artikelen 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=3.13) en [4.1 tot en met 4.4 van de Wht](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=4.1).
 
