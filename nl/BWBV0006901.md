@@ -4,7 +4,7 @@ identifier: "BWBV0006901"
 country: "nl"
 rank: "verdrag"
 publication_date: "2024-08-22"
-last_updated: "2021-01-27"
+last_updated: "2024-08-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006901"
 soort: "verdrag"
@@ -82,7 +82,7 @@ Het doel van de Organisatie is het bijeenbrengen van overheden en organisaties d
 
 ##### Artikel 4. Taken
 
-Teneinde het doel en de doelstellingen die in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006901&artikel=3&z=2021-01-27&g=2021-01-27) zijn vervat te verwezenlijken, heeft de Organisatie de volgende taken:
+Teneinde het doel en de doelstellingen die in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006901&artikel=3&z=2024-08-22&g=2024-08-22) zijn vervat te verwezenlijken, heeft de Organisatie de volgende taken:
 
 - a. Ontwikkelen en bekendmaken van niet-dwingende normen, aanbevelingen, richtsnoeren, handleidingen en andere toepasselijke documenten;
 
@@ -144,7 +144,7 @@ Teneinde het doel en de doelstellingen die in [artikel 3](https://wetten.overhei
 
 - c. Beoordeelt het Algemeen Reglement en het Financieel Reglement van de Organisatie en keurt deze goed;
 
-- d. Kiest, in overeenstemming met [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006901&artikel=8&z=2021-01-27&g=2021-01-27), de Raad uit de Lidstaten anders dan de Lidstaten die het voorzitterschap of vicevoorzitterschap bekleden;
+- d. Kiest, in overeenstemming met [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006901&artikel=8&z=2024-08-22&g=2024-08-22), de Raad uit de Lidstaten anders dan de Lidstaten die het voorzitterschap of vicevoorzitterschap bekleden;
 
 - e. Kiest de Secretaris-Generaal uit onderdanen van de Lidstaten in overeenstemming met het Algemeen Reglement;
 
@@ -234,7 +234,7 @@ Teneinde het doel en de doelstellingen die in [artikel 3](https://wetten.overhei
 
 3. De Secretaris-Generaal is verantwoordelijk voor het dagelijks bestuur van de Organisatie, met inachtneming van de aanwijzingen van de Algemene Vergadering of de Raad.
 
-4. De Secretaris-Generaal is verantwoordelijk voor het sluiten van overeenkomsten met Staten en internationale organisaties, onder voorbehoud van goedkeuring van de Algemene Vergadering in overeenstemming met [artikel 7.7.m](https://wetten.overheid.nl/jci1.3:c:BWBV0006901&artikel=7&z=2021-01-27&g=2021-01-27).
+4. De Secretaris-Generaal is verantwoordelijk voor het sluiten van overeenkomsten met Staten en internationale organisaties, onder voorbehoud van goedkeuring van de Algemene Vergadering in overeenstemming met [artikel 7.7.m](https://wetten.overheid.nl/jci1.3:c:BWBV0006901&artikel=7&z=2024-08-22&g=2024-08-22).
 
 5. Het personeel van het Secretariaat wordt in overeenstemming met het personeelsreglement benoemd door de Secretaris-Generaal volgens de door hem bepaalde voorwaarden en uit te voeren taken.
 
@@ -264,7 +264,7 @@ Teneinde het doel en de doelstellingen die in [artikel 3](https://wetten.overhei
 
 2. Wanneer besluiten van de Algemene Vergadering of de Raad niet bij consensus kunnen worden aangenomen, worden zij aangenomen door een tweederdemeerderheid van de Lidstaten die aanwezig zijn en hun stem uitbrengen in een geheime stemming.
 
-3. Alleen Lidstaten hebben stemrecht. Elke Lidstaat heeft een stem, uitgezonderd zoals omschreven in [artikel 13.4](https://wetten.overheid.nl/jci1.3:c:BWBV0006901&artikel=13&z=2021-01-27&g=2021-01-27).
+3. Alleen Lidstaten hebben stemrecht. Elke Lidstaat heeft een stem, uitgezonderd zoals omschreven in [artikel 13.4](https://wetten.overheid.nl/jci1.3:c:BWBV0006901&artikel=13&z=2024-08-22&g=2024-08-22).
 
 4. De verkiezing van de voorzitter, vicevoorzitter en Secretaris-Generaal vindt plaats bij geheime stemming met een gewone meerderheid van de Lidstaten die aanwezig zijn en hun stem uitbrengen in overeenstemming met het Algemeen Reglement.
 
@@ -284,7 +284,7 @@ De officiële talen van de Organisatie zijn het Arabisch, het Chinees, het Engel
 
 - c. donaties, legaten, subsidies, giften en andere bronnen die door de Raad op aanbeveling van de Secretaris-Generaal zijn goedgekeurd.
 
-2. Elke Lidstaat betaalt contributie en elk Geassocieerde Lid en elk Geaffilieerd Lid betaalt jaarlijks lidmaatschapsgeld aan de Organisatie ter hoogte van het bedrag dat in overeenstemming met [artikel 7.7.g](https://wetten.overheid.nl/jci1.3:c:BWBV0006901&artikel=7&z=2021-01-27&g=2021-01-27) is vastgesteld. De contributie wordt voor elke Lidstaat vastgesteld op hetzelfde bedrag.
+2. Elke Lidstaat betaalt contributie en elk Geassocieerde Lid en elk Geaffilieerd Lid betaalt jaarlijks lidmaatschapsgeld aan de Organisatie ter hoogte van het bedrag dat in overeenstemming met [artikel 7.7.g](https://wetten.overheid.nl/jci1.3:c:BWBV0006901&artikel=7&z=2024-08-22&g=2024-08-22) is vastgesteld. De contributie wordt voor elke Lidstaat vastgesteld op hetzelfde bedrag.
 
 3. De contributies van Lidstaten en de lidmaatschapsgelden van Geassocieerde Leden en Geaffilieerde Leden zijn verschuldigd en dienen te worden betaald in overeenstemming met het Financieel Reglement.
 
@@ -318,7 +318,7 @@ De officiële talen van de Organisatie zijn het Arabisch, het Chinees, het Engel
 
 5. De wijziging treedt voor alle Lidstaten in werking zes maanden nadat de schriftelijke kennisgevingen van aanvaarding door twee derde van de Lidstaten door de Depositaris zijn ontvangen, uitgezonderd voor een Lidstaat die de Depositaris vóór de inwerkingtreding van deze wijziging ervan in kennis heeft gesteld dat de wijziging voor die Lidstaat uitsluitend in werking treedt na kennisgeving van aanvaarding op een later tijdstip.
 
-6. Niettegenstaande het vijfde lid kan de Algemene Vergadering bij consensus besluiten dat de wijziging voor alle Lidstaten in werking treedt zes maanden nadat de schriftelijke kennisgevingen van aanvaarding door twee derde van de Lidstaten door de Depositaris zijn ontvangen. Indien binnen deze termijn van zes maanden een Lidstaat een kennisgeving van terugtrekking uit de Organisatie doet vanwege een wijziging, treedt de opzegging, niettegenstaande [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0006901&artikel=21&z=2021-01-27&g=2021-01-27), in werking op de datum waarop deze wijziging in werking treedt.
+6. Niettegenstaande het vijfde lid kan de Algemene Vergadering bij consensus besluiten dat de wijziging voor alle Lidstaten in werking treedt zes maanden nadat de schriftelijke kennisgevingen van aanvaarding door twee derde van de Lidstaten door de Depositaris zijn ontvangen. Indien binnen deze termijn van zes maanden een Lidstaat een kennisgeving van terugtrekking uit de Organisatie doet vanwege een wijziging, treedt de opzegging, niettegenstaande [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0006901&artikel=21&z=2024-08-22&g=2024-08-22), in werking op de datum waarop deze wijziging in werking treedt.
 
 7. De Depositaris stelt de Lidstaten en de Secretaris-Generaal in kennis van de inwerkingtreding van de wijziging, onder vermelding van de datum van de inwerkingtreding ervan.
 
