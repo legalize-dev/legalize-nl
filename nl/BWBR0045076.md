@@ -4,7 +4,7 @@ identifier: "BWBR0045076"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-03"
-last_updated: "2024-01-03"
+last_updated: "2024-08-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045076"
 soort: "ministeriele-regeling"
@@ -138,7 +138,9 @@ Het DGBD bestaat uit de volgende organisatieonderdelen:
 
 - vi. de SSO Organisatie en Personeel;
 
-- vii. Switch.
+- vii. Switch;
+
+- e. de tijdelijke programmadirectie Buitengewone Zaken Blauw.
 
 ##### Artikel 5. Overlegstructuur DGBD
 
@@ -196,9 +198,9 @@ Het Directoraat-Generaal Toeslagen bestaat uit de volgende organisatieonderdelen
 
 - c. de directie Strategie, Recht & Beleid;
 
-- d. de directie Bedrijfsvoering;
+- d. de directie Mensen, Middelen & Communicatie;
 
-- e. de directie Ketenregie;
+- e. de directie Informatiestromen & Digitale Ontwikkeling;
 
 - f. de directie Control & Risk;
 
@@ -300,7 +302,7 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 7a. Directie Toeslagen
 
-1. De directie Toeslagen staat onder leiding van een directeur.
+1. De directie Toeslagen staat onder leiding van een algemeen directeur.
 
 2. De directie Toeslagen heeft de volgende hoofdtaken:
 
@@ -314,25 +316,35 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 - e. in samenspraak met het directoraat-generaal Belastingdienst/FIOD en Functioneel Parket signalen van oneigenlijk gebruik en misbruik in de strafrechtketen brengen.
 
-3. De directie Toeslagen bestaat uit de volgende afdelingen:
+3. De directie Toeslagen bestaat uit de volgende subdirecties1In het O&F-rapport genoemd: Directie Interactie en Dienstverlening resp. Directie Operatie en afdelingen:
 
-- a. de afdeling Vaktechniek, die onder leiding staat van een afdelingshoofd en die is onderverdeeld in teams, die elk onder leiding staat van een teamleider;
+- a. de Afdeling Vaktechniek en Directieondersteuning, die onder leiding staat van een afdelingshoofd en die is onderverdeeld in teams, die elk onder leiding staat van een teamleider;
 
-- b. de afdeling Handhaving & Toezicht, die onder leiding staat van een afdelingshoofd en die is onderverdeeld in teams, die elk onder leiding staat van een teamleider;
+- b. de Afdeling Support, die onder leiding staat van een afdelingshoofd en die is onderverdeeld in teams, die elk onder leiding staat van een teamleider, en het Programmamanagementbureau;
 
-- c. de afdeling Uitvoeringsregie, die onder leiding staat van een afdelingshoofd en die is onderverdeeld in teams, die elk onder leiding staat van een teamleider;
+- c. de subdirectie Interactie en Dienstverlening, die onder leiding staat van een directeur en die bestaat uit de volgende afdelingen:
 
-- d. de afdeling Bezwaar, die onder leiding staat van een afdelingshoofd en die is onderverdeeld in teams, die elk onder leiding staat van een teamleider;
+- i. de afdeling Burgerinteractie & Dienstverlening, die onder leiding staat van een afdelingshoofd en die is onderverdeeld in teams, die elk onder leiding staat van een teamleider;
 
-- e. de afdeling Burgerinteractie & Dienstverlening, die onder leiding staat van een afdelingshoofd en die is onderverdeeld in teams, die elk onder leiding staat van een teamleider;
+- ii. de afdeling Digitaal, die onder leiding staat van een afdelingshoofd;
 
-- f. de afdeling Informatiebeheer, Data & Analytics, die onder leiding staat van een afdelingshoofd en die is onderverdeeld in teams, die elk onder leiding staat van een teamleider;
+- iii. de afdeling Telefonie, die onder leiding staat van een afdelingshoofd en die is onderverdeeld in teams, die elk onder leiding staat van een teamleider;
 
-- g. de afdeling Uitval/Uitworp, die onder leiding staat van een afdelingshoofd en die is onderverdeeld in teams, die elk onder leiding staat van een teamleider;
+- d. de subdirectie Operatie, die onder leiding staat van een directeur en die bestaat uit de volgende afdelingen:
 
-- h. de afdeling Organisatie & Personeel, die onder leiding staat van een afdelingshoofd en die is onderverdeeld in teams, die elk onder leiding staat van een teamleider.
+- i. de afdeling Operatieregie, die onder leiding staat van een afdelingshoofd en die is onderverdeeld in teams, die elk onder leiding staat van een teamleider;
 
-4. Het afdelingshoofd bedoeld in het derde lid, onderdeel h, vervult tevens de rol van plaatsvervangend algemeen directeur.
+- ii. de afdeling Uitval/Uitworp, die onder leiding staat van een afdelingshoofd en die is onderverdeeld in teams, die elk onder leiding staat van een teamleider;
+
+- iii. de afdeling Massaal Proces, die onder leiding staat van een afdelingshoofd en die is onderverdeeld in teams, die elk onder leiding staat van een teamleider;
+
+- iv. de afdeling Toezicht, die onder leiding staat van een afdelingshoofd en die is onderverdeeld in teams, die elk onder leiding staat van een teamleider;
+
+- v. de afdeling Bezwaar & Beroep, die onder leiding staat van een afdelingshoofd en die is onderverdeeld in teams, die elk onder leiding staat van een teamleider;
+
+- vi. de afdeling Vraag & Objectadministratie, die onder leiding staat van een afdelingshoofd en die is onderverdeeld in teams, die elk onder leiding staat van een teamleider.
+
+4. Een van de directeuren, bedoeld in het derde lid, vervult tevens de rol van plaatsvervangend algemeen directeur.
 
 ##### Artikel 7b. Directie Uitvoeringsorganisatie Herstel Toeslagen
 
@@ -384,71 +396,65 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 3. De directie Strategie, Recht & Beleid bestaat uit de volgende afdelingen:
 
-- a. de afdeling Beleid, politiek en strategie, dat onder leiding staat van een afdelingshoofd;
+- a. de afdeling Strategie, Toekomst & Herstel, dat onder leiding staat van een afdelingshoofd;
 
-- b. de afdeling Juridische zaken en vaktechniek, dat onder leiding staat van een afdelingshoofd.
+- b. de afdeling Juridische Zaken en Vaktechniek, dat onder leiding staat van een afdelingshoofd;
 
-4. Een van de afdelingshoofden vervult tevens de rol van plaatsvervangend directeur. Binnen de afdelingen vervult de Coördinerend specialistisch adviseur de rol van plaatsvervangend afdelingshoofd.
+- c. de afdeling Uitvoeringsbeleid, dat onder leiding staat van een afdelingshoofd.
 
-##### Artikel 7d. Directie Bedrijfsvoering
+4. Een van de afdelingshoofden, bedoeld in het derde lid, vervult tevens de rol van plaatsvervangend directeur.
 
-1. De directie Bedrijfsvoering staat onder leiding van een directeur.
+##### Artikel 7d. Directie Mensen, Middelen & Communicatie
 
-2. De directie Bedrijfsvoering:
+1. De directie Mensen, Middelen & Communicatie staat onder leiding van een directeur.
 
-- a. ondersteunt de directeur-generaal bij alle verantwoordelijkheden op het vlak van bedrijfsvoering om zo bij te dragen aan het realiseren van de inrichtings-, uitvoerings- en ontwikkelopgave van het directoraat-generaal; en
+2. De directie Mensen, Middelen & Communicatie:
+
+- a. ondersteunt de directeur-generaal Toeslagen bij alle verantwoordelijkheden op het vlak van bedrijfsvoering om zo bij te dragen aan het realiseren van de inrichtings-, uitvoerings- en ontwikkelopgave van het directoraat-generaal Toeslagen; en
 
 - b. is daartoe kaderstellend en ondersteunend en heeft daarbij de volgende taakgebieden:
 
-- –. Human Resources;
+- i. Personeel;
 
-- –. Organisatieontwikkeling;
+- ii. Organisatieontwikkeling;
 
-- –. Communicatie;
+- iii. Communicatie;
 
-- –. Huisvesting;
+- iv. Huisvesting;
 
-- –. Informatiehuishouding;
+- v. Informatiehuishouding en informatiebeheer;
 
-- –. Veiligheid;
+- vi. Integrale veiligheid;
 
-- –. P&C en interne beheersing;
+- vii. Planning & Control, HR-control/formatiebeheer en interne beheersing;
 
-- –. Inkoop.
+- viii. Inkoop.
 
-3. De directie Bedrijfsvoering bestaat uit de volgende teams:
+3. De directie Mensen, Middelen & Communicatie bestaat uit de volgende afdelingen:
 
-- a. het team HR/OO, dat onder leiding staat van een teamleider;
+- a. de afdeling Mensen, die onder leiding staat van een afdelingshoofd en is onderverdeeld in een aantal clusters, waarvan cluster HR Advies en Realisatie onder leiding staat van een manager, tevens plaatsvervangend afdelingshoofd;
 
-- b. het team Communicatie, dat onder leiding staat van een teamleider;
+- b. de afdeling Middelen, die onder leiding staat van een afdelingshoofd en is onderverdeeld in een aantal clusters, waarvan cluster Bedrijfsvoering onder leiding staat van een manager, tevens plaatsvervangend afdelingshoofd;
 
-- c. het team Bedrijfsvoering, dat onder leiding staat van een teamleider.
+- c. de afdeling Communicatie, die onder leiding staat van een afdelingshoofd en is onderverdeeld in een aantal clusters, die elk onder leiding staat van een manager, waarvan één tevens de rol heeft van plaatsvervangend afdelingshoofd.
 
-##### Artikel 7e. Directie Ketenregie
+4. Het afdelingshoofd Mensen, bedoeld in het derde lid, onderdeel a, vervult tevens de rol van plaatsvervangend directeur.
 
-1. De directie Ketenregie staat onder leiding van een directeur.
+5. De managers, bedoeld in het derde lid, worden in hun mandaat gelijkgesteld aan teamleiders in de zin van het [Mandaatbesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045078).
 
-2. De directie Ketenregie:
+##### Artikel 7e. Directie Informatiestromen & Digitale Ontwikkeling
 
-- a. is verantwoordelijk voor het geheel van de massale Toeslagenprocessen en de IV-ondersteuning van de volledige Toeslagenketen;
+1. De directie Informatiestromen & Digitale Ontwikkeling staat onder leiding van een directeur.
 
-- b. waarborgt een effectieve uitvoering en de IV-ondersteuning van de keten(samenwerking) Toeslagen;
+2. De directie Informatiestromen & Digitale Ontwikkeling heeft de taken behorende bij de CIO-Office.
 
-- c. draagt zorg voor de planning, sturing, beheersing en monitoring van de massale processen;
+3. De directie Informatiestromen & Digitale Ontwikkeling bestaat uit de volgende teams:
 
-- d. heeft de taken behorende bij de CIO-Office.
+- a. het team Change, dat onder leiding staat van een manager;
 
-3. De directie Ketenregie bestaat uit de volgende teams die alle worden aangestuurd door de ketenmanager:
+- b. het team CIO Office, dat onder leiding staat van een manager.
 
-- a. het team Running the business;
-
-- b. het team Changing the business;
-
-- c. het team Verantwoording en beheersing;
-
-- d. het team Kaderstelling c.q. visievorming (CIO Office).
-
-4. De ketenmanager vervult tevens de rol van plaatsvervangend directeur.
+4. Een van de managers, bedoeld in het derde lid, vervult tevens de rol van plaatsvervangend directeur.
 
 ##### Artikel 7f. Directie Control & Risk
 
@@ -502,15 +508,23 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. Het Bureau DG staat onder leiding van een afdelingshoofd.
 
-2. De Coördinerend Bestuursadviseur vervult tevens de rol van plaatsvervangend afdelingshoofd.
-
-3. Het Bureau DG heeft de volgende hoofdtaken:
+2. Het Bureau DG heeft de volgende hoofdtaken:
 
 - a. Bestuursadvisering;
 
-- b. Procescoördinatie;
+- b. Procescoördinatie- en organisatie;
 
 - c. Bestuursondersteuning.
+
+3. Het Bureau DG bestaat uit de volgende clusters:
+
+- a. het cluster Toeslagen Regulier, dat onder leiding staat van het afdelingshoofd;
+
+- b. het cluster Toeslagen Herstel, dat onder leiding staat van een teamleider.
+
+4. De teamleider, bedoeld in het derde lid, onderdeel b, vervult tevens de rol van plaatsvervangend afdelingshoofd.
+
+5. Het afdelingshoofd, bedoeld in het eerste en derde lid, onderdeel a, wordt in het mandaat gelijkgesteld aan een afdelingshoofd in de zin van het [Mandaatbesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045078).
 
 ### Hoofdstuk 5. Directoraat-Generaal Douane (DGD)
 
