@@ -4,7 +4,7 @@ identifier: "BWBR0049315"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-08-28"
-last_updated: "2024-01-31"
+last_updated: "2024-08-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049315"
 soort: "ministeriele-regeling"
@@ -60,7 +60,7 @@ Besluit:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049315&artikel=2&z=2024-01-31&g=2024-01-31).
+In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049315&artikel=2&z=2024-08-28&g=2024-08-28).
 
 ##### Artikel 2
 
@@ -76,7 +76,7 @@ De personen, werkzaam in de functie van buitengewoon opsporingsambtenaar openbar
 
 ##### Artikel 4
 
-Op grond van dit besluit kunnen maximaal 6 personen als buitengewoon opsporingsambtenaar worden beëdigd.
+Op grond van dit besluit kunnen maximaal 10 personen als buitengewoon opsporingsambtenaar worden beëdigd.
 
 ##### Artikel 5
 
@@ -92,13 +92,13 @@ De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste, derde en vierd
 
 1. De gemeente Coevorden brengt jaarlijks, voor 1 april, verslag uit over:
 
-- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049315&artikel=2&z=2024-01-31&g=2024-01-31) genoemde functie;
+- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049315&artikel=2&z=2024-08-28&g=2024-08-28) genoemde functie;
 
 - b. de door die buitengewoon opsporingsambtenaren verrichte activiteiten;
 
 - c. de stand van zaken met betrekking tot de opleiding van die buitengewoon opsporingsambtenaren, waarbij in ieder geval wordt aangegeven hoeveel personen in het verslagjaar zijn aangemeld voor het door de Minister voor Rechtsbescherming goedgekeurde examen en hoeveel personen in dat jaar voor dat examen zijn geslaagd.
 
-2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049315&artikel=5&z=2024-01-31&g=2024-01-31) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Justitie en Veiligheid,
+2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049315&artikel=5&z=2024-08-28&g=2024-08-28) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Justitie en Veiligheid,
 
 ##### Artikel 8
 
