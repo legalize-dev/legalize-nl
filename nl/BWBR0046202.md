@@ -4,7 +4,7 @@ identifier: "BWBR0046202"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2025-07-09"
-last_updated: "2022-07-09"
+last_updated: "2024-08-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046202"
 soort: "beleidsregel"
@@ -46,17 +46,17 @@ De beleidsregel inzake het subsidiëren van de Kickstart Medicatieoverdracht wor
 
 ##### Artikel 2. Subsidieplafond
 
-1. Voor de subsidieverlening op grond van dit besluit is een totaalbedrag van € 27.500.000 beschikbaar.
+1. Voor de subsidieverlening op grond van dit besluit is een totaalbedrag van € 28.300.000 beschikbaar.
 
 2. De Minister verdeelt het beschikbare bedrag na onderlinge weging van de aanvragen, overeenkomstig de bijlage bij dit besluit.
 
 ##### Artikel 3. Inwerkingtreding en vervaldatum
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en vervalt met ingang van 30 september 2024.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en vervalt met ingang van 31 december 2025.
 
 ##### Artikel 4. Citeertitel
 
-Dit besluit zal worden aangehaald als: Besluit vaststelling beleidsregel subsidiëring Kickstart Medicatieoverdracht 2022.
+Dit besluit zal worden aangehaald als: Besluit vaststelling beleidsregel subsidiëring Kickstart Medicatieoverdracht 2022–2025.
 
 ## Bijlage. Beleidsregel inzake het subsidiëren van de kickstart medicatieoverdracht
 
@@ -122,17 +122,17 @@ Voor goede zorgverlening is (digitale) informatie-uitwisseling tussen patiënt e
 
 het bijhouden van een actueel medicatieoverzicht en een goede overdracht van medicatiegegevens. Om dit te kunnen realiseren zijn aanpassingen in ICT-systemen en werkprocessen noodzakelijk.
 
-In dat kader is de Richtlijn ‘Overdracht van medicatiegegevens in de keten’ recentelijk vernieuwd (hierna: de richtlijn1Zie: [https://www.zorginzicht.nl/kwaliteitsinstrumenten/medicatieoverdracht](onbekend).). Deze richtlijn heeft tot doel om medicatieproblemen zo veel als mogelijk te voorkomen, administratieve lasten te verminderen en de ontsluiting van patiëntgegevens in een Persoonlijke Gezondheidsomgeving (PGO) te verbeteren. De richtlijn is als kwaliteitsstandaard medicatieoverdracht opgenomen in het Register van het Zorginstituut, inclusief een implementatieplan. Bij deze richtlijn horen drie informatiestandaarden, namelijk: Medicatieproces92Zie: [https://www.nictiz.nl/informatiestandaard-medicatieproces/](onbekend) (MP9), Lab2zorg en Contra-indicatie en Overgevoeligheden3De informatiestandaarden Lab2zorg en Contra-indicatie en overgevoeligheden zijn nog in ontwikkeling. De Kickstart richt zich alleen op MP9. MP9 richt zicht op de overdracht van medicatiegegevens in de keten zodat actuele en complete medicatieoverzichten en toedienlijsten kunnen worden opgesteld voor patiënten/cliënten.
+In dat kader is de Richtlijn ‘Overdracht van medicatiegegevens in de keten’ recentelijk vernieuwd (hierna: de richtlijn1Zie: [https://www.zorginzicht.nl/kwaliteitsinstrumenten/medicatieoverdracht](https://www.zorginzicht.nl/kwaliteitsinstrumenten/medicatieoverdracht).). Deze richtlijn heeft tot doel om medicatieproblemen zo veel als mogelijk te voorkomen, administratieve lasten te verminderen en de ontsluiting van patiëntgegevens in een Persoonlijke Gezondheidsomgeving (PGO) te verbeteren. De richtlijn is als kwaliteitsstandaard medicatieoverdracht opgenomen in het Register van het Zorginstituut, inclusief een implementatieplan. Bij deze richtlijn horen drie informatiestandaarden, namelijk: Medicatieproces92Zie: [https://www.nictiz.nl/informatiestandaard-medicatieproces/](https://www.nictiz.nl/informatiestandaard-medicatieproces/) (MP9), Lab2zorg en Contra-indicatie en Overgevoeligheden3De informatiestandaarden Lab2zorg en Contra-indicatie en overgevoeligheden zijn nog in ontwikkeling. De Kickstart richt zich alleen op MP9. MP9 richt zicht op de overdracht van medicatiegegevens in de keten zodat actuele en complete medicatieoverzichten en toedienlijsten kunnen worden opgesteld voor patiënten/cliënten.
 
 De komende jaren worden de richtlijn en de drie informatiestandaarden zorgbreed geïmplementeerd in de zorgprocessen en -informatiesystemen. Daarbij zijn 10 sectoren4Het gaat hier om de volgende sectoren: Patiënt en cliënt; Geestelijke gezondheidszorg verslavingszorg en forensische zorg; Gehandicaptenzorg; Huisartsenzorg; Medisch specialistische zorg; Mondzorg; Openbare farmacie; Publieke gezondheid; Trombosezorg; Wijkverpleging en verpleeghuiszorg. betrokken met meer dan 16.000 zorgaanbieders en 75 softwareleveranciers. Patiënten en cliënten zijn specifiek vertegenwoordigd in een van deze sectoren; de sector Patiënt en cliënt.
 
-In 2020 is het Programma Medicatieoverdracht (hierna: het Programma) gestart, dat sectoren, leveranciers en regio’s voorbereidt op en ondersteunt bij de bovengenoemde implementatie. De landelijke begeleiding van dit Programma is ondergebracht bij Nictiz.5[https://www.nictiz.nl/programmas/medicatieoverdracht/](onbekend) Door het maken van afspraken, het samenwerken en het aanpassen van procedures zal uiteindelijk ketensamenwerking op het gebied van medicatieoverdracht mogelijk worden gemaakt. Behalve alle ketenpartners, doen Patiëntenfederatie Nederland, de Vereniging van Zorgaanbieders voor Zorgcommunicatie (VZVZ), het Ministerie van Volksgezondheid, Welzijn en Sport (VWS) en Zorgverzekeraars Nederland (ZN) eveneens mee aan het Programma.
+In 2020 is het Programma Medicatieoverdracht (hierna: het Programma) gestart, dat sectoren, leveranciers en regio’s voorbereidt op en ondersteunt bij de bovengenoemde implementatie. De landelijke begeleiding van dit Programma is ondergebracht bij Nictiz.5[https://www.nictiz.nl/programmas/medicatieoverdracht/](https://www.nictiz.nl/programmas/medicatieoverdracht/) Door het maken van afspraken, het samenwerken en het aanpassen van procedures zal uiteindelijk ketensamenwerking op het gebied van medicatieoverdracht mogelijk worden gemaakt. Behalve alle ketenpartners, doen Patiëntenfederatie Nederland, de Vereniging van Zorgaanbieders voor Zorgcommunicatie (VZVZ), het Ministerie van Volksgezondheid, Welzijn en Sport (VWS) en Zorgverzekeraars Nederland (ZN) eveneens mee aan het Programma.
 
 Voordat in de praktijk breed gebruik gemaakt kan worden van een informatiestandaard wordt deze uitgebreid getest en getoetst. Het Programma organiseert en begeleidt deze technische en praktijktesten van de informatiestandaard en de eerste begeleide uitrol. Na een eerste praktijktest in de regio Amsterdam van MP9 heeft het Programma geconcludeerd dat, om de informatiestandaard in de praktijk te kunnen beproeven, de ICT-systemen grondig moeten worden herzien. Daarvoor is echter een forse investering nodig. De Kickstart Medicatieoverdracht is opgezet om zorgaanbieders en ICT-leveranciers te ondersteunen om deze eerste stap te zetten.
 
 ### 1.3. Beoogd resultaat Kickstart Medicatieoverdracht
 
-Middels de Kickstart Medicatieoverdracht zal worden aangetoond dat MP9 in combinatie met de richtlijn werkt in de praktijk. Daarbij horen de volgende activiteiten: het aanpassen van informatiesystemen aan MP9 en de richtlijn, het testen ervan en een eerste begeleide uitrol van de systemen en de werkprocessen van de deelnemers aan het samenwerkingsverband zoals beschreven in de stappen 0 en 3 t/m 6 van het 10-stappenplan uit het Programmaplan Medicatieoverdracht.6Zie de stappen 0 en 3 t/m 6 uit het 10-stappenplan van het Programmaplan Medicatieoverdracht (zie [https://www.samenvoormedicatieoverdracht.nl/stappenplan-sectoren/](onbekend)) De implementatie van MP9 binnen de Kickstart bestaat uit het aanpassen van ICT systemen en werkprocessen van zorgaanbieders en het ontsluiten van informatie naar patiënten middels een PGO.
+Middels de Kickstart Medicatieoverdracht zal worden aangetoond dat MP9 in combinatie met de richtlijn werkt in de praktijk. Daarbij horen de volgende activiteiten: het aanpassen van informatiesystemen aan MP9 en de richtlijn, het testen ervan en een eerste begeleide uitrol van de systemen en de werkprocessen van de deelnemers aan het samenwerkingsverband zoals beschreven in de stappen 0 en 3 t/m 6 van het 10-stappenplan uit het Programmaplan Medicatieoverdracht.6Zie de stappen 0 en 3 t/m 6 uit het 10-stappenplan van het Programmaplan Medicatieoverdracht (zie [https://www.samenvoormedicatieoverdracht.nl/stappenplan-sectoren/](https://www.samenvoormedicatieoverdracht.nl/stappenplan-sectoren/)) De implementatie van MP9 binnen de Kickstart bestaat uit het aanpassen van ICT systemen en werkprocessen van zorgaanbieders en het ontsluiten van informatie naar patiënten middels een PGO.
 
 Het Programma heeft de kaders voor de uitvoering van de Kickstart Medicatieoverdracht uitgewerkt in het Plan van aanpak Kickstart Medicatieoverdracht. De deelnemers aan het samenwerkingsverband die aan de Kickstart Medicatieoverdracht deelnemen committeren en conformeren zich aan het Plan van aanpak Kickstart en de daarin genoemde stappen en de planning van de Kickstart Medicatieoverdracht.
 
@@ -158,7 +158,7 @@ In paragraaf 2.2 van deze Beleidsregel wordt ingegaan op de activiteiten die in 
 
 ### 2.2. Beoogde activiteiten
 
-De activiteiten in het kader van de Kickstart Medicatieoverdracht die voor subsidie in aanmerking komen worden uitgevoerd conform de uitwerking en de planning in het onder paragraaf 1.3 genoemde Plan van aanpak Kickstart. Aan een samenwerkingsverband kan hiervoor subsidie worden verstrekt voor de periode van 15 april 2022 tot en met 30 september 2024.
+De activiteiten in het kader van de Kickstart Medicatieoverdracht die voor subsidie in aanmerking komen worden uitgevoerd conform de uitwerking en de planning in het onder paragraaf 1.3 genoemde Plan van aanpak Kickstart. Aan een samenwerkingsverband kan hiervoor subsidie worden verstrekt voor de periode van 15 april 2022 tot en met 31 december 2025.
 
 Concreet gaat het om de volgende vier door samenwerkingsverbanden uit te voeren activiteiten om te komen tot de realisatie van de stappen 0 en 3 t/m 6 uit het Programma Medicatieoverdracht. Deze vier activiteiten dienen alle vier in de subsidieaanvraag naar voren te komen.
 
@@ -178,7 +178,7 @@ Hierbij geldt:
 
 B. aanvullende deelactiviteiten specifiek voor de Kickstart: 1. aanvullend projectmanagement, 2. aanvullende projectondersteuning, 3. begeleiding bouw, proof of concepts, praktijktesten, 1e begeleide uitrol en evaluatie en 4. aansluiting/ontsluiting.
 
-Ten aanzien van de kosten die een zorgaanbieder maakt voor activiteit 2, de implementatie van MP9 in combinatie met de richtlijn in de werkprocessen zullen alleen redelijke, gemaximeerde kosten worden vergoed, die bovendien de maximale compensatie van een DAEB de-minimis niet mogen overschrijden. Het gaat daarbij om een bedrag van maximaal € 500.000 over drie opeenvolgende belastingjaren. Ten behoeve van activiteit 2 wordt een uitvoeringsovereenkomst gesloten, namelijk de DAEB de-minimisovereenkomst met bijbehorende verklaring DAEB de-minimissteun. Dit wordt in paragraaf 2.5 over staatssteun verder toegelicht.
+Ten aanzien van de kosten die een zorgaanbieder maakt voor activiteit 2, de implementatie van MP9 in combinatie met de richtlijn in de werkprocessen zullen alleen redelijke, gemaximeerde kosten worden vergoed, die bovendien de maximale compensatie van een DAEB de-minimis niet mogen overschrijden. Het gaat daarbij om een bedrag van maximaal € 750.000 over drie opeenvolgende belastingjaren. Ten behoeve van activiteit 2 wordt een uitvoeringsovereenkomst gesloten, namelijk de DAEB de-minimisovereenkomst met bijbehorende verklaring DAEB de-minimissteun. Dit wordt in paragraaf 2.5 over staatssteun verder toegelicht.
 
 Voor een maximum van te vergoeden kosten wordt verwezen naar de bedragen als genoemd in bijlage 2 van deze Beleidsregel.
 
@@ -222,11 +222,11 @@ Bij die aanpassingen (van de ICT-systemen) gelden de volgende eisen:
 
 Van belang is dat een subsidiemaatregel geen ongeoorloofde staatssteun oplevert. Artikel 107, eerste lid, van het Verdrag betreffende de werking van de Europese Unie (VWEU) merkt steunmaatregelen van de staten of in welke vorm ook met staatsmiddelen bekostigd, die de mededinging door begunstiging van bepaalde ondernemingen of bepaalde producties vervalsen of dreigen te vervalsen, aan als onverenigbaar met de interne markt, voor zover deze steun het handelsverkeer tussen de lidstaten ongunstig beïnvloedt. Met andere woorden, overheden mogen ondernemingen niet financieel begunstigen als daardoor de concurrentie kan worden vervalst en de handel tussen EU-lidstaten kan worden beïnvloed. Een van de toetsingscriteria hiervoor betreft de vraag of sprake is van een onderneming die een economische activiteit verricht. Op basis van de activiteiten zoals genoemd in paragraaf 2.2. kan hierover het volgende worden gezegd.
 
-**Activiteit 1** – het aanpassen van de ICT-systemen – is een economische activiteit. Subsidie voor deze activiteit dient volledig marktconform te worden besteed aan de ICT-leveranciers. Indien de inhuur van de ICT-leveranciers voor de gesubsidieerde activiteiten door middel van een open, transparante en non-discriminatoire procedure en tegen marktconforme tarieven geschiedt, is er geen sprake van staatssteun aan de ICT-leveranciers. Dezelfde redenatie gaat op voor **activiteit 4,**activiteiten rondom de organisatie van het samenwerkingsverband. Voor de organisatie van het samenwerkingsverband wordt namelijk gebruik gemaakt van een externe projectleider die op basis van een marktconform tarief zal worden ingehuurd. Mogelijk zijn er voor activiteit 4 kosten die niet marktconform kunnen worden besteed. In dat geval geldt dat deze kosten worden aangemerkt als de-minimissteun9Op basis van de reguliere de-minimisverordening kan de overheid over een periode van drie belastingjaren tot € 200.000 aan steun aan een onderneming verstrekken, zonder dat sprake is van staatssteun.. Dit betekent dat deze kosten mee worden genomen in de-minimisruimte van de penvoerder van het samenwerkingsverband. Ingevolge de regels van de-minimis zijn dergelijke kosten gemaximeerd op een bedrag van € 200.000 over drie belastingjaren en zal de penvoerder een de-minimisverklaring moeten overleggen, zoals bedoeld in paragraaf 4.2, voordat er kan worden overgegaan tot subsidieverlening.
+**Activiteit 1** – het aanpassen van de ICT-systemen – is een economische activiteit. Subsidie voor deze activiteit dient volledig marktconform te worden besteed aan de ICT-leveranciers. Indien de inhuur van de ICT-leveranciers voor de gesubsidieerde activiteiten door middel van een open, transparante en non-discriminatoire procedure en tegen marktconforme tarieven geschiedt, is er geen sprake van staatssteun aan de ICT-leveranciers. Dezelfde redenatie gaat op voor **activiteit 4,**activiteiten rondom de organisatie van het samenwerkingsverband. Voor de organisatie van het samenwerkingsverband wordt namelijk gebruik gemaakt van een externe projectleider die op basis van een marktconform tarief zal worden ingehuurd. Mogelijk zijn er voor activiteit 4 kosten die niet marktconform kunnen worden besteed. In dat geval geldt dat deze kosten worden aangemerkt als de-minimissteun9Op basis van de reguliere de-minimisverordening kan de overheid over een periode van drie belastingjaren tot € 300.000 aan steun aan een onderneming verstrekken, zonder dat sprake is van staatssteun.. Dit betekent dat deze kosten mee worden genomen in de-minimisruimte van de penvoerder van het samenwerkingsverband. Ingevolge de regels van de-minimis zijn dergelijke kosten gemaximeerd op een bedrag van € 300.000 over drie belastingjaren en zal de penvoerder een de-minimisverklaring moeten overleggen, zoals bedoeld in paragraaf 4.2, voordat er kan worden overgegaan tot subsidieverlening.
 
-Voor het deel van de subsidie dat ziet op implementatie-ondersteuning – **activiteit 2 –**zal de individuele zorgaanbieder aan het samenwerkingsverband belast worden met het verrichten van een zogenaamde dienst van algemeen economisch belang (DAEB). Hiertoe zal met de verschillende zorgaanbieders een DAEB de-minimis overeenkomst inclusief een verklaring DAEB de-minimissteun worden gesloten. Het gaat hier namelijk om economische activiteiten die het algemeen belang dienen en die de markt, zonder overheidsoptreden, niet of niet onder dezelfde voorwaarden inzake objectieve kwaliteit, veiligheid, betaalbaarheid, gelijke behandeling of algemene toegang zou verrichten. Subsidie voor activiteit 2 is ingevolge de regels van de DAEB de-minimis gemaximeerd op een bedrag van € 500.000 over drie belastingjaren per zorgaanbieder. De penvoerder zal, voordat er kan worden overgegaan tot subsidieverlening, een DAEB de-minimis overeenkomst inclusief een verklaring DAEB de-minimissteun van de zorgaanbieder moeten overleggen, zoals bedoeld in paragraaf 4.2.
+Voor het deel van de subsidie dat ziet op implementatie-ondersteuning – **activiteit 2 –**zal de individuele zorgaanbieder aan het samenwerkingsverband belast worden met het verrichten van een zogenaamde dienst van algemeen economisch belang (DAEB). Hiertoe zal met de verschillende zorgaanbieders een DAEB de-minimis overeenkomst inclusief een verklaring DAEB de-minimissteun worden gesloten. Het gaat hier namelijk om economische activiteiten die het algemeen belang dienen en die de markt, zonder overheidsoptreden, niet of niet onder dezelfde voorwaarden inzake objectieve kwaliteit, veiligheid, betaalbaarheid, gelijke behandeling of algemene toegang zou verrichten. Subsidie voor activiteit 2 is ingevolge de regels van de DAEB de-minimis gemaximeerd op een bedrag van € 750.000 over drie belastingjaren per zorgaanbieder. De penvoerder zal, voordat er kan worden overgegaan tot subsidieverlening, een DAEB de-minimis overeenkomst inclusief een verklaring DAEB de-minimissteun van de zorgaanbieder moeten overleggen, zoals bedoeld in paragraaf 4.2.
 
-In het geval een zorgaanbieder ook als penvoerder optreedt binnen het samenwerkingsverband moet de de-minimissteun worden gecumuleerd met de DAEB de-minimissteun. Een voorbeeld om te verduidelijken: indien een zorgaanbieder, zijnde de penvoerder, € 200.000 van zijn de-minimisruimte gebruikt voor activiteit 4 (activiteiten rondom de organisatie van het samenwerkingsverband), blijft er een bedrag van € 300.000 over als DAEB de-minimissteun voor activiteit 2 (De implementatie van MP9 in combinatie met de richtlijn in de werkprocessen van de zorgaanbieder).
+In het geval een zorgaanbieder ook als penvoerder optreedt binnen het samenwerkingsverband moet de de-minimissteun worden gecumuleerd met de DAEB de-minimissteun. Een voorbeeld om te verduidelijken: indien een zorgaanbieder, zijnde de penvoerder, € 200.000 van zijn de-minimisruimte gebruikt voor activiteit 4 (activiteiten rondom de organisatie van het samenwerkingsverband), blijft er een bedrag van € 450.000 over als DAEB de-minimissteun voor activiteit 2 (De implementatie van MP9 in combinatie met de richtlijn in de werkprocessen van de zorgaanbieder).
 
 **Activiteit 3** – kennisdeling – is een niet-economische activiteit, waardoor subsidie voor deze activiteit geen staatssteun vormt. Hierbij gaat het om het delen van kennis met andere geïnteresseerde partijen (zoals andere samenwerkingsverbanden, leveranciers en sectoren) met als doel het profiteren van elkaars ervaringen en kennis.
 
@@ -236,19 +236,19 @@ Indien het voorgaande in acht wordt genomen bij de subsidieverstrekking levert d
 
 ### 3.1. Subsidieplafond en wijze van verdeling
 
-Voor de Beleidsregel is voor de periode van 15 april 2022 tot en met 30 september 2024 een bedrag van maximaal € 27,5 miljoen beschikbaar.
+Voor de Beleidsregel is voor de periode van 15 april 2022 tot en met 31 december 2025 een bedrag van maximaal € 28.300.000 beschikbaar.
 
 De Minister van VWS kan subsidie verstrekken voor de activiteiten die worden genoemd in paragraaf 2.2. De subsidie aan de penvoerder ten behoeve van het samenwerkingsverband bedraagt niet meer dan een door de Minister van VWS vast te stellen bedrag, overeenkomstig een door de Minister van VWS goed te keuren activiteitenplan en begroting.
 
 Ten aanzien van de kosten voor ICT geldt dat alleen een redelijke en gemaximeerde (marktconforme) vergoeding subsidiabel is voor de noodzakelijke aanpassingen en bouw van de ICT-voorziening. Voor maximale vergoedingen die worden gehanteerd wordt verwezen naar de bedragen als genoemd in bijlage 1. Overige kosten zoals kosten voor beheer en onderhoud, migratiekosten of licentiekosten zullen niet worden vergoed. Verder wordt aan een samenwerkingsverband geen subsidie verstrekt indien zij voor dezelfde activiteiten reeds eerder subsidie heeft ontvangen. Redelijke kosten zijn kosten die binnen de maximale bedragen per post vallen en een onderbouwing kennen die door het Programma van een positief advies is voorzien.
 
-Ten aanzien van de kosten die een zorgaanbieder maakt voor de implementatie van de richtlijn en MP9 geldt dat alleen redelijke en gemaximeerde kosten subsidiabel zijn, die bovendien de DAEB-de-minimis ruimte niet mogen overschrijden. Subsidie voor deze activiteit is ingevolge de regels van de DAEB de-minimis gemaximeerd op een bedrag van € 500.000 over drie belastingjaren per zorgaanbieder. Voor maximale vergoedingen die worden gehanteerd wordt verwezen naar de bedragen als genoemd in bijlage 2. Deze bedragen zijn gebaseerd op de systematiek die is gehanteerd in de sectorale BIA’s. Redelijke kosten zijn kosten die binnen de maximale bedragen per post vallen en een onderbouwing kennen die door het Programma van een positief advies is voorzien.
+Ten aanzien van de kosten die een zorgaanbieder maakt voor de implementatie van de richtlijn en MP9 geldt dat alleen redelijke en gemaximeerde kosten subsidiabel zijn, die bovendien de DAEB-de-minimis ruimte niet mogen overschrijden. Subsidie voor deze activiteit is ingevolge de regels van de DAEB de-minimis gemaximeerd op een bedrag van € 750.000 over drie belastingjaren per zorgaanbieder. Voor maximale vergoedingen die worden gehanteerd wordt verwezen naar de bedragen als genoemd in bijlage 2. Deze bedragen zijn gebaseerd op de systematiek die is gehanteerd in de sectorale BIA’s. Redelijke kosten zijn kosten die binnen de maximale bedragen per post vallen en een onderbouwing kennen die door het Programma van een positief advies is voorzien.
 
-Het samenwerkingsverband maakt in het activiteitenplan en in de begroting **per sector en zorgaanbieder** inzichtelijk welke activiteiten en bijbehorende financiering worden voorzien. Voor de activiteiten die voor de sector Openbare farmacie worden aangevraagd is een bedrag van maximaal € 7,5 miljoen beschikbaar voor de ingediende subsidieaanvragen. Voor de activiteiten die voor de overige sectoren en de penvoerder worden aangevraagd is een bedrag van maximaal € 20 miljoen beschikbaar voor de ingediende subsidieaanvragen.
+Het samenwerkingsverband maakt in het activiteitenplan en in de begroting **per sector en zorgaanbieder** inzichtelijk welke activiteiten en bijbehorende financiering worden voorzien. Voor de activiteiten die voor de sector Openbare farmacie worden aangevraagd is een bedrag van maximaal € 7,5 miljoen beschikbaar voor de ingediende subsidieaanvragen. Voor de activiteiten die voor de overige sectoren en de penvoerder worden aangevraagd is een bedrag van maximaal € 20.800.000 beschikbaar voor de ingediende subsidieaanvragen.
 
 De ontvangen aanvragen worden eerst getoetst aan de subsidievoorwaarden als bedoeld in paragraaf 2.3. Pas als aan deze subsidievoorwaarden wordt voldaan, kan een samenwerkingsverband voor subsidiëring in aanmerking komen. Vervolgens wordt getoetst of het subsidiebedrag van alle aanvragen gezamenlijk:
 
-Aanvragen die aan de voorwaarden voldoen komen in beginsel voor subsidie in aanmerking, totdat het subsidieplafond van € 27,5 miljoen en het toegespitste bedrag voor Openbare farmacie dan wel voor de overige sectoren en de penvoerder wordt bereikt. Indien daarvan sprake is, zullen de aanvragen onderling worden gewogen.
+Aanvragen die aan de voorwaarden voldoen komen in beginsel voor subsidie in aanmerking, totdat het subsidieplafond van € 28.300.000 en het toegespitste bedrag voor Openbare farmacie dan wel voor de overige sectoren en de penvoerder wordt bereikt. Indien daarvan sprake is, zullen de aanvragen onderling worden gewogen.
 
 De aanvragen zullen dan worden beoordeeld en gerangschikt naar geschiktheid aan de hand van de wegingscriteria uitgezet in paragraaf 3.2. Daarna zal subsidie worden verleend aan de aanvraag of aanvragen die het best scoren op de wegingscriteria. Het Ministerie van VWS zal bij deze beoordeling aan de hand van de wegingscriteria advies inwinnen van het Programma.
 
@@ -296,7 +296,7 @@ De situatie kan zich voordoen dat met het toewijzen van de op 15 april 2022 inge
 
 De aanvraag gaat vergezeld van een activiteitenplan en een begroting, overeenkomstig [artikel 3.3 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.3). In het activiteitenplan wordt tevens uiteengezet op welke wijze aan de voorwaarden wordt voldaan. Daarbij worden de volgende documenten meegezonden:
 
-Voor bovengenoemde formulieren en documenten zijn formats opgenomen op de website van DUS-I: [www.dus-i.nl/subsidies/kickstart-medicatieoverdracht](onbekend).
+Voor bovengenoemde formulieren en documenten zijn formats opgenomen op de website van DUS-I: [www.dus-i.nl/subsidies/kickstart-medicatieoverdracht](http://www.dus-i.nl/subsidies/kickstart-medicatieoverdracht).
 
 Indien een ICT-leverancier bij meerdere samenwerkingsverbanden betrokken is bij de Kickstart Medicatieoverdracht wordt daarvan expliciet melding gemaakt door de penvoerder bij het Ministerie van VWS. Dit kan door een e-mail te sturen naar: kickstartmedicatieoverdracht@minvws.nl.
 
@@ -320,7 +320,13 @@ Dit leidt tot de volgende administratieve lasten:
 
 Het Adviescollege toetsing regeldruk (ATR) heeft het dossier (ATR-2109) niet geselecteerd voor een formeel advies, omdat de gevolgen voor de regeldruk toereikend in beeld zijn gebracht.
 
-### Bijlage 1. Maximale vergoedingen voor de kosten van ICT
+### 4.5. Herziening subsidie in 2024
+
+Een subsidieaanvrager die uiterlijk 15 september 2022 een subsidieaanvraag heeft ingediend, als bedoeld in paragraaf 4.2, kan een aanvraag tot herziening van de subsidieverlening indienen. Deze herziening kan worden ingediend met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst tot en met 30 september 2024. Voor de herziening van de subsidieverlening wordt een vastgesteld formulier gebruikt. Daarbij moeten de volgende documenten worden aangeleverd:
+
+Met de herziening tot subsidieverlening kan aanvullende subsidie worden aangevraagd voor activiteiten 2 en 4. Het gaat hierbij om de implementatie van MP9 in combinatie met de richtlijn in de werkprocessen van de zorgaanbieders en activiteiten rondom de organisatie van het samenwerkingsverband). Deze activiteiten zijn omschreven in paragraaf 2.2. Er kan voor maximaal € 400.000 subsidie worden verstrekt verdeeld over activiteiten 2 en 4. Deze activiteiten moeten uiterlijk 31 december 2025 zijn afgerond.
+
+Persoonlijke gezondheidsomgeving (PGO) Dienstverlener in het persoonsdomein (DVP) € 75.000
 
 De onderhavige bijlage bevat de maximale vergoedingen voor de kosten die gemoeid zijn met het implementeren van MP9 in de ICT-systemen die door de zorgaanbieders in het samenwerkingsverband worden gebruikt. Alle genoemde bedragen zijn maximale bedragen, exclusief BTW en afgerond.
 
@@ -338,13 +344,13 @@ Voor elke deelnemende ICT-leverancier gelden de volgende maximale aanvullende ve
 
 Voor ondersteuning in begeleiding van de zorgaanbieders tijdens labtesten, praktijktesten en de eerste begeleide uitrol een vergoeding van:
 
-Voor ondersteuning in begeleiding van de zorgaanbieders tijdens labtesten, praktijktesten en de eerste begeleide uitrol een vergoeding van:
+### Bijlage 2. Maximale vergoedingen voor de penvoerder van het samenwerkingsverband en de zorgaanbieders
 
 Voor elke ICT-leverancier:
 
 Voor de activiteit kennisdeling € 25.000 (beleidskader paragraaf 2.2 activiteit 3).
 
-### Bijlage 2. Maximale vergoedingen voor de penvoerder van het samenwerkingsverband en de zorgaanbieders
+De penvoerder van het samenwerkingsverband komt in aanmerking voor de volgende maximale vergoedingen:
 
 De onderhavige bijlage bevat de maximale vergoedingen voor de kosten die een zorgaanbieder maakt voor de implementatie van MP9 in combinatie met de richtlijn in de werkprocessen. Alle genoemde bedragen zijn maximale bedragen, exclusief BTW en afgerond.
 
@@ -402,15 +408,25 @@ Gehandicaptenzorg: 700 medewerkers
 
 Voor elke deelnemende zorgaanbieder gelden de volgende maximale aanvullende vergoedingsbedragen specifiek voor de Kickstart:
 
-Voor de deelactiviteiten B.1. aanvullend projectmanagement, B.2. aanvullende projectondersteuning en B.3. begeleiding bouw, proof of concept, praktijktesten, eerste begeleide uitrol, evaluatie tezamen in totaal € 110.000;
+Voor de deelactiviteiten B.1. aanvullend projectmanagement, B.2. aanvullende projectondersteuning en B.3. begeleiding bouw, proof of concept, praktijktesten, eerste begeleide uitrol, evaluatie tezamen in totaal € 510.000;
 
 B.4. Aansluiting/ontsluiting
+
+### Bijlage 3. Puntentelling bij de wegingscriteria als bedoeld in 3.2. van de Beleidsregel
+
+Dit besluit zal in de Staatscourant worden geplaatst.
+
+### Bijlage 1. Maximale vergoedingen voor de kosten van ICT
+
+Voor ondersteuning in begeleiding van de zorgaanbieders tijdens labtesten, praktijktesten en de eerste begeleide uitrol een vergoeding van:
+
+### Bijlage 2. Maximale vergoedingen voor de penvoerder van het samenwerkingsverband en de zorgaanbieders
 
 Voor activiteiten en middelen ten bate van aansluiting/ontsluiting
 
 Voor de activiteit kennisdeling € 25.000 (beleidskader paragraaf 2.2 activiteit 3).
 
-In aanvulling op al het bovenstaande is er een DAEB de-minimisverordening van € 500.000 van toepassing voor de vergoeding aan een zorgaanbieder.
+In aanvulling op al het bovenstaande is er een DAEB de-minimisverordening van € 750.000 van toepassing voor de vergoeding aan een zorgaanbieder.
 
 ### Bijlage 3. Puntentelling bij de wegingscriteria als bedoeld in 3.2. van de Beleidsregel
 
