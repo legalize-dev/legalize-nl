@@ -4,7 +4,7 @@ identifier: "BWBR0047538"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-08-30"
-last_updated: "2023-01-01"
+last_updated: "2024-08-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047538"
 soort: "ministeriele-regeling"
@@ -144,15 +144,15 @@ Aan de CIO wordt mandaat, volmacht en machtiging verleend voor aangelegenheden o
 
 ##### Artikel 7
 
-1. Aan de coördinerend jurist, belast met de werkzaamheden behorend bij het cluster Advies, Interventies en Wet open overheid, wordt mandaat, volmacht en machtiging verleend voor het nemen van primaire sanctiebesluiten en het nemen van primaire besluiten op verzoeken ingevolge de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754).
+1. Aan de coördinerend jurist, belast met de werkzaamheden behorend bij het cluster Interventies en Wet open overheid, wordt mandaat, volmacht en machtiging verleend voor het nemen van primaire sanctiebesluiten en het nemen van primaire besluiten op verzoeken ingevolge de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754).
 
-2. Aan de coördinerend jurist belast met de werkzaamheden behorend bij het cluster Bezwaar en Beroep wordt volmacht en machtiging verleend voor
+2. Aan de coördinerend jurist belast met de werkzaamheden behorend bij het cluster Bezwaar en Beroep wordt volmacht en machtiging verleend voor:
 
-- a. het voorbereiden van besluiten op bezwaar en
+- a. de voorbereiding van besluiten op bezwaar, waaronder het ondertekenen van uitnodigingen voor hoorzittingen en het opstellen van concept besluiten op bezwaar; en
 
-- b. het voorbereiden van verweerschriften en beroepschriften.
+- b. het voorbereiden en ondertekenen van processuele brieven zoals verweerschriften, beroepschriften, en daarmee samenhangende correspondentie met rechterlijke instanties.
 
-3. De teammanager Juridische Zaken kan met betrekking tot de besluiten, als bedoeld onder a en b van het vorige lid, geen instructies geven aan de coördinerend jurist als bedoeld in het eerste lid.
+3. De teammanager Juridische Zaken kan met betrekking tot de besluiten als bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047538&paragraaf=1&artikel=6&z=2024-08-30&g=2024-08-30), geen instructies geven aan de coördinerend jurist als bedoeld in het eerste lid.
 
 ##### Artikel 8
 
