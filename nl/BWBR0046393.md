@@ -4,7 +4,7 @@ identifier: "BWBR0046393"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-01"
-last_updated: "2024-06-07"
+last_updated: "2024-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046393"
 soort: "ministeriele-regeling"
@@ -66,15 +66,15 @@ Van het ingevolge [artikel 1 van het Mandaatbesluit hoofden taakorganisaties Min
 
 ##### Artikel 2
 
-Als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk ten aanzien van de onder hen ressorterende functionarissen, wordt aangewezen en volmacht verleend aan de functionarissen, genoemd in de [kolommen A en B van bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046393&bijlage=1&z=2024-06-07&g=2024-06-07) bij dit besluit, voor zover het betreft de uitoefening van de bevoegdheden vermeld in kolom D van die bijlage.
+Als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk ten aanzien van de onder hen ressorterende functionarissen, wordt aangewezen en volmacht verleend aan de functionarissen, genoemd in de [kolommen A en B van bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046393&bijlage=1&z=2024-09-01&g=2024-09-01) bij dit besluit, voor zover het betreft de uitoefening van de bevoegdheden vermeld in kolom D van die bijlage.
 
 ##### Artikel 3
 
-Als bevoegd om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven, worden aangewezen de functionarissen, genoemd in [kolommen A en B van bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046393&bijlage=1&z=2024-06-07&g=2024-06-07) bij dit besluit voor zover het betreft de bedragen, genoemd in kolom E van die bijlage.
+Als bevoegd om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven, worden aangewezen de functionarissen, genoemd in [kolommen A en B van bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046393&bijlage=1&z=2024-09-01&g=2024-09-01) bij dit besluit voor zover het betreft de bedragen, genoemd in kolom E van die bijlage.
 
 ##### Artikel 4
 
-Als bevoegd om besluiten te nemen bij of krachtens de [Vreemdelingenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823), de [Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738), de [Wet vaststellingsprocedure staatloosheid](https://wetten.overheid.nl/jci1.3:c:BWBR0048458) en de [Wet toelating en uitzetting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571), alsmede daaraan gerelateerde besluiten op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754), de Algemene Verordening Gegevensbescherming en de [Uitvoeringswet Algemene Verordening Gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940), verzoeken om schadevergoeding, en de behandeling van klachten worden aangewezen de functionarissen genoemd in [kolommen A en B van bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046393&bijlage=1&z=2024-06-07&g=2024-06-07) bij dit besluit en de onder hen ressorterende functionarissen voor zover het betreft de rechtshandelingen, genoemd in de kolommen F, G en H van bijlage 1.
+Als bevoegd om besluiten te nemen bij of krachtens de [Vreemdelingenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823), de [Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738), de [Wet vaststellingsprocedure staatloosheid](https://wetten.overheid.nl/jci1.3:c:BWBR0048458) en de [Wet toelating en uitzetting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571), alsmede daaraan gerelateerde besluiten op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754), de Algemene Verordening Gegevensbescherming en de [Uitvoeringswet Algemene Verordening Gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940), verzoeken om schadevergoeding, en de behandeling van klachten worden aangewezen de functionarissen genoemd in [kolommen A en B van bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046393&bijlage=1&z=2024-09-01&g=2024-09-01) bij dit besluit en de onder hen ressorterende functionarissen voor zover het betreft de rechtshandelingen, genoemd in de kolommen F, G en H van bijlage 1.
 
 ##### Artikel 5
 
@@ -148,9 +148,9 @@ Als bevoegd om besluiten te nemen bij of krachtens de [Wet toelating en uitzetti
 
 3. Bij verhindering of afwezigheid van het hoofd Bestuurszaken treedt het plaatsvervangend hoofd Bestuurszaken in alle facetten als hoofd op.
 
-4. De in [artikel 1, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0046393&artikel=1&z=2024-06-07&g=2024-06-07) genoemde functionarissen wordt toegestaan elkaar volledig te vervangen. Zij treden daarbij in elkaars, in artikel 1 genoemde bevoegdheden.
+4. De in [artikel 1, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0046393&artikel=1&z=2024-09-01&g=2024-09-01) genoemde functionarissen wordt toegestaan elkaar volledig te vervangen. Zij treden daarbij in elkaars, in artikel 1 genoemde bevoegdheden.
 
-5. De in [artikel 1, onder c tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0046393&artikel=1&z=2024-06-07&g=2024-06-07) genoemde functionarissen wordt toegestaan elkaar volledig te vervangen. Zij treden daarbij in elkaars, in artikel 1 genoemde bevoegdheden.
+5. De in [artikel 1, onder c tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0046393&artikel=1&z=2024-09-01&g=2024-09-01) genoemde functionarissen wordt toegestaan elkaar volledig te vervangen. Zij treden daarbij in elkaars, in artikel 1 genoemde bevoegdheden.
 
 ##### Artikel 8
 
@@ -166,9 +166,9 @@ Dit besluit wordt aangehaald als: Mandaatbesluit IND Ministerie van Justitie en 
 
 ## Bijlage 1
 
-|   | A | B | C | D | E | F | G | H |
+|   | **A** | **B** | **C** | **D** | **E** | **F** | **G** | **H** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Regel | OE omschrijving | Functie omschrijving | Manager of niet | P-volmacht | F-mandaat | Algemeen mandaat | Wet toelating en uitzetting BES | Procesvertegenwoordiging |
+| **Regel** | **OE omschrijving** | **Functie omschrijving** | **Manager of niet** | **P-volmacht** | **F-mandaat** | **Algemeen mandaat** | **Wet toelating en uitzetting BES** | **Procesvertegenwoordiging** |
 | Regel 1 | IND | Directeur-generaal | Leidinggevende formatie | A | Geen maximum |   |   |   |
 | Regel 2 | IND | Topmanager schaal 17 – Plv DG IND Uitvoering | Leidinggevende formatie | A | Geen maximum |   |   |   |
 | Regel 3 | IND | Topmanager schaal 17 – Plv DG IND SBJZ | Leidinggevende formatie | A | Geen maximum |   |   |   |
@@ -266,7 +266,7 @@ Dit besluit wordt aangehaald als: Mandaatbesluit IND Ministerie van Justitie en 
 | Regel 95 | IND/A&B/PT/PT02 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
 | Regel 96 | IND/A&B/PT/PT03 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
 | Regel 97 | IND/A&B/PT/PT04 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 98 | IND/A&B/KCT | Manager schaal 13 | Leidinggevende formatie | – | € 50.000,00 | x |   |   |
+| Regel 98 | IND/A&B/KCT | Manager schaal 13 | Leidinggevende formatie | - | € 50.000,00 | x |   |   |
 | Regel 99 | IND/A&B/BOA/BOA | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
 | Regel 100 | IND/A&B/BOA/BOA01 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
 | Regel 101 | IND/A&B/BOA/BOA02 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
@@ -516,25 +516,27 @@ Dit besluit wordt aangehaald als: Mandaatbesluit IND Ministerie van Justitie en 
 | Regel 345 | IND/IV/PH/PL02 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
 | Regel 346 | IND/IV/PH/AO01 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
 | Regel 347 | IND/IV/PH/AO02 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 348 | IND/IV/PH/A&K | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 349 | IND/IV/CTB | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
-| Regel 350 | IND/IV/CTB/TB | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 351 | IND/IV/CTB/S&C | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 352 | IND/IV/CTB/S&I01 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 353 | IND/IV/CTB/S&I02 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 354 | IND/IV/CTB/S&I03 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 355 | IND/IV/CTB/SM | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 356 | IND/IV/DD | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
-| Regel 357 | IND/IV/DD/DEC | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 358 | IND/IV/DD/DD | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 348 | IND/IV/PH/AO03 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 349 | IND/IV/PH/A&K | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 350 | IND/IV/CTB | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
+| Regel 351 | IND/IV/CTB/TB | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 352 | IND/IV/CTB/S&C | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 353 | IND/IV/CTB/S&I01 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 354 | IND/IV/CTB/S&I02 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 355 | IND/IV/CTB/S&I03 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 356 | IND/IV/CTB/SM | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 357 | IND/IV/CTB/INF | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 358 | IND/IV/DD | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
+| Regel 359 | IND/IV/DD/DEC | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 360 | IND/IV/DD/DD | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 ## Bijlage 1
 
-|   | A | B | C | D | E | F | G | H |
+|   | **A** | **B** | **C** | **D** | **E** | **F** | **G** | **H** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Regel | OE omschrijving | Functie omschrijving | Manager of niet | P-volmacht | F-mandaat | Algemeen mandaat | Wet toelating en uitzetting BES | Procesvertegenwoordiging |
+| **Regel** | **OE omschrijving** | **Functie omschrijving** | **Manager of niet** | **P-volmacht** | **F-mandaat** | **Algemeen mandaat** | **Wet toelating en uitzetting BES** | **Procesvertegenwoordiging** |
 | Regel 1 | IND | Directeur-generaal | Leidinggevende formatie | A | Geen maximum |   |   |   |
 | Regel 2 | IND | Topmanager schaal 17 – Plv DG IND Uitvoering | Leidinggevende formatie | A | Geen maximum |   |   |   |
 | Regel 3 | IND | Topmanager schaal 17 – Plv DG IND SBJZ | Leidinggevende formatie | A | Geen maximum |   |   |   |
@@ -632,7 +634,7 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 | Regel 95 | IND/A&B/PT/PT02 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
 | Regel 96 | IND/A&B/PT/PT03 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
 | Regel 97 | IND/A&B/PT/PT04 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 98 | IND/A&B/KCT | Manager schaal 13 | Leidinggevende formatie | – | € 50.000,00 | x |   |   |
+| Regel 98 | IND/A&B/KCT | Manager schaal 13 | Leidinggevende formatie | - | € 50.000,00 | x |   |   |
 | Regel 99 | IND/A&B/BOA/BOA | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
 | Regel 100 | IND/A&B/BOA/BOA01 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
 | Regel 101 | IND/A&B/BOA/BOA02 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
@@ -882,16 +884,18 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 | Regel 345 | IND/IV/PH/PL02 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
 | Regel 346 | IND/IV/PH/AO01 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
 | Regel 347 | IND/IV/PH/AO02 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 348 | IND/IV/PH/A&K | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 349 | IND/IV/CTB | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
-| Regel 350 | IND/IV/CTB/TB | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 351 | IND/IV/CTB/S&C | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 352 | IND/IV/CTB/S&I01 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 353 | IND/IV/CTB/S&I02 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 354 | IND/IV/CTB/S&I03 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 355 | IND/IV/CTB/SM | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 356 | IND/IV/DD | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
-| Regel 357 | IND/IV/DD/DEC | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 358 | IND/IV/DD/DD | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 348 | IND/IV/PH/AO03 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 349 | IND/IV/PH/A&K | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 350 | IND/IV/CTB | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
+| Regel 351 | IND/IV/CTB/TB | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 352 | IND/IV/CTB/S&C | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 353 | IND/IV/CTB/S&I01 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 354 | IND/IV/CTB/S&I02 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 355 | IND/IV/CTB/S&I03 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 356 | IND/IV/CTB/SM | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 357 | IND/IV/CTB/INF | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 358 | IND/IV/DD | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
+| Regel 359 | IND/IV/DD/DEC | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 360 | IND/IV/DD/DD | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
