@@ -4,7 +4,7 @@ identifier: "BWBR0048941"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-10-12"
-last_updated: "2023-11-25"
+last_updated: "2024-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048941"
 soort: "ministeriele-regeling"
@@ -96,7 +96,7 @@ De volgende besluiten worden ingetrokken:
 
 ##### Artikel 6
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt ten aanzien van [artikel 2, aanhef en onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0048941&artikel=2&z=2023-11-25&g=2023-11-25), terug tot 14 december 2019.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt ten aanzien van [artikel 2, aanhef en onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0048941&artikel=2&z=2023-11-25&g=2024-09-01), terug tot 14 december 2019.
 
 ##### Artikel 7
 
