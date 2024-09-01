@@ -4,7 +4,7 @@ identifier: "BWBR0049711"
 country: "nl"
 rank: "pbo"
 publication_date: "2026-01-01"
-last_updated: "2024-04-25"
+last_updated: "2024-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049711"
 soort: "pbo"
@@ -21384,623 +21384,39 @@ De accountant kan Standaard 3400, **Onderzoek van toekomstgerichte financiële i
 
 Aangelegenheden die geschikt kunnen zijn om te communiceren met de verantwoordelijke partij, de evalueerder, de opdrachtgever of anderen omvatten fraude of vermoede fraude en mogelijke tendentie bij het opstellen van de informatie over de duurzaamheidsverslaggeving.
 
-### 3850N. Assurance- en overige opdrachten met betrekking tot prospectussen
+### Standaard 3850N. Assurance- en aan assurance verwante opdrachten met betrekking tot prospectussen
 
-**1**
+(Zie Par. 12–13)
 
-Deze Standaard behandelt assurance- en overige opdrachten die de accountant uitvoert met betrekking tot prospectussen, opgesteld voor effectentransacties, die geheel of gedeeltelijk onder de Nederlandse wet- en regelgeving en/of onder de wet- en regelgeving van de Europese Unie vallen.
+(Zie Par. 15)
 
-Deze Standaard kan ook toegepast worden bij opdrachten met betrekking tot prospectussen, opgesteld voor effectentransacties die niet onder de Nederlandse wet- en regelgeving en/of de wet- en regelgeving van de Europese Unie vallen.
+(Zie Par. 16–19)
 
-Deze Standaard is niet van toepassing op opdrachten voor prospectussen, opgesteld voor effectentransacties in de Verenigde Staten van Amerika.
+(Zie Par. 20–26)
 
-**2**
+(Zie Par. 27–33)
 
-Afhankelijk van de aard van de effectentransactie waarvoor een prospectus wordt opgesteld en afhankelijk van de jurisdictie waaronder het prospectus valt, gelden vereisten voor de inhoud van een prospectus. Vereisten hebben onder andere betrekking op de financiële informatie van de uitgevende entiteit die in het prospectus opgenomen moet worden. Op basis van de vereisten, kan de uitgevende entiteit de volgende financiële informatie in een prospectus opnemen:
+(Zie Par. 34–38)
 
-**3**
+(Zie Par. 39–40)
 
-Het management van de uitgevende entiteit is verantwoordelijk voor het opstellen en de inhoud van het prospectus in overeenstemming met vereisten die gelden in de jurisdictie(s) waar de effectentransactie plaatsvindt.
+(Zie Par. 41–42)
 
-**4**
+(Zie Par. 43–45)
 
-De accountant dient op grond van de NV COS aan deze Standaard en andere toepasselijke Standaarden te voldoen bij het uitvoeren van assurance- en/of overige opdrachten met betrekking tot een prospectus, opgesteld voor een effectentransactie die geheel of gedeeltelijk onder de Nederlandse wet- en regelgeving en/of de wet- en regelgeving van de Europese Unie valt.
+(Zie Par. 45–46)
 
-**5**
+(Zie Par. 47)
 
-Van de accountant is vereist om Standaard 3000A of Standaard 3000D en deze Standaard na te leven bij het uitvoeren van een assurance-opdracht met betrekking tot prospectussen. Deze Standaard vult Standaard 3000A of 3000D aan maar is geen vervanging daarvan en zet uiteen hoe Standaard 3000A of 3000D moeten worden toegepast bij een assurance-opdracht met betrekking tot prospectussen.
+(Zie Par. 48–52)
 
-**6**
+(Zie Par. 53–56)
 
-Standaard 3420 behandelt assurance-opdrachten met een redelijke mate van zekerheid die door een accountant worden uitgevoerd om te rapporteren over het opstellen van pro forma financiële informatie door de uitgevende entiteit die in een prospectus is opgenomen. Deze opdrachten worden niet in deze Standaard behandeld, maar hiervoor wordt verwezen naar Standaard 3420.
+(Zie Par. 59–61)
 
-**7**
+(Zie Par. 62)
 
 Het naleven van deze Standaard vereist, onder andere, dat de accountant de vereisten naleeft van de:
-
-**8**
-
-Voor de ingangsdatum wordt verwezen naar de slotbepalingen.
-
-**9**
-
-De doelstellingen van de accountant zijn, afhankelijk van de specifieke opdracht van de accountant:
-
-**10**
-
-In het kader van deze Standaard hebben de volgende termen de hierna weergegeven betekenissen:
-
-**10A**
-
-De paragrafen 12 en 12A van Standaard 3000A zijn van overeenkomstige toepassing, voor zover in deze Standaard niet anders is bepaald.
-
-**11**
-
-Voorafgaand aan aanvaarding van een opdracht onder deze Standaard, dient de accountant voor zover relevant:
-
-**12**
-
-De opdrachtbevestiging, waarin de werkzaamheden worden beschreven, dient tenminste aan de uitgevende entiteit te worden geadresseerd. (Zie Par. A5, A6 en A7)
-
-**13**
-
-Indien de accountant zich gedurende de opdracht bewust wordt van een geïdentificeerde of vermoede fraude of niet-naleving van wet- of regelgeving, dient de accountant:
-
-**14**
-
-De accountant dient van het management een bevestigingsbrief te ontvangen met dezelfde datum als de rapportage van de accountant. De accountant dient een aanvullende bevestigingsbrief te verkrijgen voor iedere aanvullende rapportage van de accountant (bijvoorbeeld voor een ‘bring-down letter’).
-
-De accountant hanteert hierbij Standaard 580**Schriftelijke bevestigingen**, waarbij de bevestigingsbrief in het kader van deze Standaard, indien van toepassing, specifiek gemaakt wordt voor bevestigingen inzake:
-
-**15**
-
-De documenten ter onderbouwing van de uitkomsten van de werkzaamheden dienen zodanig te worden opgesteld dat ze aantonen dat invulling is gegeven aan hetgeen aan werkzaamheden is overeengekomen en een basis vormen voor datgene wat wordt gerapporteerd.
-
-**16**
-
-Indien de uitgevende entiteit de accountant schriftelijke toestemming vraagt om controleverklaring(en) en/of beoordelingsverklaring(en) en/of onderzoeksrapport(en) in een prospectus op te nemen, dient de accountant te overwegen of hij deze toestemming kan geven. De toestemmingsbrief van de accountant wordt ook wel een ‘consent letter’ genoemd.
-
-**17**
-
-Voordat een accountant toestemming geeft voor opname van zijn controleverklaring(en) en/of beoordelingsverklaring(en) in een prospectus moet hij:
-
-Indien de accountant van mening is dat het prospectus informatie bevat die misleidend is of in strijd is met de financiële overzichten en/of financiële informatie en de daarbij behorende controle- en of beoordelingsverklaring, dan moet hij toestemming tot openbaarmaking weigeren totdat het prospectus op passende wijze is aangepast of de uitgevende entiteit heeft aangetoond dat zijn bevindingen ongegrond zijn.
-
-Wanneer de accountant tijdens de uitvoering van zijn opdracht informatie verkrijgt waarvan hij van mening is dat deze moet worden vermeld in het prospectus, aangezien deze informatie volgens hem materieel is voor het doel van het prospectus of de voorgestelde transactie, dan moet hij zijn bevindingen met het management van de uitgevende entiteit bespreken en op grond daarvan de consequenties voor zijn rapportage bepalen.
-
-**18**
-
-Wanneer de accountant toestemming geeft voor opname van een reeds verstrekte controle- en/of beoordelingsverklaring, moet hij controlewerkzaamheden met betrekking tot gebeurtenissen na de einddatum van de verslagperiode uitvoeren in overeenstemming met de paragrafen 6 en 7 van Standaard 560 voor de periode tussen de oorspronkelijke datum van zijn verklaring en de datum van het prospectus. (Zie Par. A9 en A10)
-
-**19**
-
-Een accountant kan alleen een comfort letter verstrekken wanneer deze de managementinformatie of financiële overzichten van de uitgevende entiteit heeft beoordeeld of gecontroleerd. (Zie Par. A11)
-
-**20**
-
-De accountant verstrekt geen comfort letter in het geval van een voorwaardelijke ‘underwriting agreement’. (Zie Par. A12)
-
-**21**
-
-De accountant dient met de uitgevende entiteit en de begeleidende bank overeenstemming te bereiken over de werkzaamheden die in verband met de effectentransactie worden uitgevoerd en waarover de accountant in de comfort letter rapporteert. (Zie Par. A13 en A14)
-
-**22**
-
-Indien de opdrachtbevestiging niet door de begeleidende bank wordt ondertekend, dient het dossier van de accountant een vastlegging te bevatten over de afstemming die de accountant met de begeleidende bank heeft gehad over de inhoud van de comfort letter. (Zie Par. A14)
-
-**23**
-
-Vanwege de doelstelling van de comfort letter wordt benadrukt dat de accountant een comfort letter, naast aan de uitgevende entiteit, alleen dient uit te brengen en te adresseren aan die partijen die om aansprakelijkheidsredenen een due diligence onderzoek uitvoeren op de inhoud van het prospectus (bijvoorbeeld aan de begeleidende bank bij een door hem getekende underwriting agreement) of die een opdrachtbevestiging hebben getekend. De begeleidende bank voert onder meer een due diligence onderzoek uit ten aanzien van de status van de uitgevende entiteit en de juistheid en volledigheid van de in het prospectus opgenomen informatie en mededelingen in het licht van de vereisten voor de aanbieding van effecten. (Zie Par. A15, A16, A17, A18, A19, A20, A21 en A22)
-
-**24**
-
-Wanneer de accountant geen goedkeurende controleverklaring bij een of meerdere financiële overzichten die in het prospectus zijn opgenomen, heeft verstrekt (bijvoorbeeld een verklaring met beperking of een paragraaf ter benadrukking van bepaalde aangelegenheden), gaat de accountant na welke gevolgen dit heeft voor in de comfort letter vermelde werkzaamheden en zijn rapportage hierover, waaronder de werkzaamheden en rapportage over wijzigingen in gespecificeerde posten in de veranderingsperiode. (Zie Par. 25 e.v.)
-
-**25**
-
-De veranderingsperiode verwijst naar de periode na de laatste dag van de afgesloten periode die is gecontroleerd of beoordeeld door de accountant en strekt zich veelal uit tot drie tot vijf werkdagen voor de datum van de comfort letter (cut-off date). In het algemeen splitst een veranderingsperiode zich in een periode waarvoor de entiteit managementinformatie beschikbaar heeft en een periode na de laatste managementinformatie tot aan de cut-off date van de comfort letter. (Zie Par. A23, A24, A25 en A26)
-
-**26**
-
-Indien sinds de datum van de laatste gecontroleerde financiële overzichten de entiteit een verandering in grondslagen voor financiële verslaggeving heeft toegepast of een correctie heeft opgenomen voor fouten in de voorgaande periode in de managementinformatie, dient de accountant: (Zie Par. A25)
-
-**27**
-
-Indien van toepassing, dient de accountant de laatste managementinformatie te lezen en om inlichtingen te verzoeken bij het management met betrekking tot deze managementinformatie. De werkzaamheden die de accountant overweegt omvatten:
-
-**28**
-
-Indien van toepassing, dient de accountant in een comfort letter alleen te rapporteren over wijzigingen in gespecificeerde posten, opgenomen in de balans en/of winst- en verliesrekening en de toelichting daarop in de financiële overzichten gedurende de veranderingsperiode die hij heeft beoordeeld of gecontroleerd. Hierdoor kan er geen onduidelijkheid bij de geadresseerdenontstaan. (Zie Par. A26, A27 en A28)
-
-**29**
-
-De accountant dient zijn werkzaamheden die worden uitgevoerd voor het deel van de veranderingsperiode na de laatste beschikbare managementinformatie tot aan de cut-off date van de comfort letter, noodzakelijkerwijs te beperken tot het lezen van notulen en verzoeken om inlichtingen bij het management.
-
-**30**
-
-De accountant dient alleen een beperkte mate van zekerheid te verstrekken over wijzigingen in gespecificeerde als er minder dan 135 dagen zijn verstreken sinds de einddatum van de periode waar de laatste controle of beoordeling betrekking op had. Als er meer dan 135 dagen zijn verstreken, zijn alleen overeengekomen specifieke werkzaamheden mogelijk. (Zie Par. A29 en A30)
-
-**31**
-
-Wanneer een accountant in de comfort letter over stijgingen en dalingen in gespecificeerde posten van de balans en winst- en verliesrekening rapporteert, is het voor de vergelijkbaarheid van posten en interpretatie van de stijging of daling in deze posten van belang dat de tussentijdse, niet gecontroleerde of beoordeelde en aan de financiële administratie ontleende cijfers op basis van dezelfde grondslagen voor financiële verslaggeving in de financiële administratie zijn verwerkt als in het financieel overzicht ten opzichte waarvan de vergelijking plaatsvindt. Wanneer de uitgevende entiteit per een bepaalde datum nieuwe verslaggevingsstandaarden heeft geïmplementeerd, dan rapporteert de accountant dit in de comfort letter. In de bevestiging van het management wordt tevens aan de accountant bevestigd dat per deze datum andere verslaggevingsstandaarden zijn geïmplementeerd.
-
-**32**
-
-Bij het rapporteren over stijgingen of dalingen in gespecificeerde posten in de veranderingsperiode wordt geen grenswaarde voor materialiteit toegepast. Elke verandering (stijging of daling) in de veranderingsperiode moet gerapporteerd worden in de comfort letter. (Zie Par. A31, A32 en A33)
-
-**33**
-
-Voor de rapportage over de stijgingen en dalingen in gespecificeerde posten in de comfort letter, kan de begeleidende bank verzoeken om grenswaarden te gebruiken. De grenswaarden moeten bepaald worden door de begeleidende bank omdat het aan de begeleidende bank en zijn juridisch adviseurs is of een stijging of daling van materieel belang is voor zijn doel. De accountant accepteert alleen grenswaarden die redelijk zijn in het licht van de algemene doelstelling van de comfort letter. Grenswaarden moeten kwantitatief van aard zijn en niet kwalitatief of subjectief. Termen zoals ‘significant’ of ‘van materieel belang’ worden niet gehanteerd. (Zie Par. A34 en A35)
-
-**34**
-
-De accountant dient alleen te rapporteren in de comfort letter over de informatie in het prospectus waarvoor zijn deskundigheid relevant is. (Zie Par. A36)
-
-**35**
-
-De accountant dient in zijn comfort letter uitsluitend te rapporteren over in het prospectus opgenomen informatie wanneer die informatie ontleend is aan de administratie en die onderworpen is aan hetzelfde niveau van interne beheersing van de uitgevende entiteit voor zover relevant voor het opstellen van financiële overzichten. De accountant dient bovendien kennis te hebben van het systeem voor interne beheersing voor zover relevant voor het opstellen van financiële informatie.
-
-**36**
-
-De accountant beperkt zich tot het rapporteren van feitelijke bevindingen. De accountant dient op grond van paragraaf 35 alleen op de volgende informatie werkzaamheden uit te voeren en hierover te rapporteren: (Zie Par. A37 en A38)
-
-**37**
-
-De accountant dient de afzonderlijke getallen in de opstellingen, analyses en schema’s van het management aan te sluiten met de onderliggende administratie van de uitgevende entiteit.
-
-**38**
-
-De accountant rapporteert primair over aansluitingen van in een prospectus opgenomen informatie wanneer voor de periode waar de financiële informatie betrekking op heeft, ook de financiële verantwoording in het prospectus is opgenomen (integraal dan wel via verwijzing) en de accountant deze financiële verantwoording heeft beoordeeld of gecontroleerd. (Zie Par. A39)
-
-**39**
-
-Een accountant kan, in de periode na balansdatum maar voordat een controleverklaring wordt verstrekt, gevraagd worden om ten behoeve van een comfort letter werkzaamheden uit te voeren met betrekking tot informatie in de veranderingsperiode na deze balansdatum.
-
-Voordat de accountant overweegt om op deze informatie werkzaamheden uit te voeren, dient de accountant de omstandigheden van de entiteit te beschouwen zoals de interne beheersingsomgeving, geschiedenis van controle-aanpassingen, voorwaardelijke gebeurtenissen (inclusief de waarschijnlijkheid van oplossing voordat de financiële overzichten uitgebracht worden) en de aard van de activiteiten. In aanvulling hierop is de status van de controlewerkzaamheden (inclusief documentatie) een belangrijke factor bij het analyseren of er over deze informatie kan worden gerapporteerd.
-
-**40**
-
-De accountant kan alleen over deze informatie rapporteren als het onwaarschijnlijk is dat de informatie zal afwijken van de financiële overzichten waarover de accountant op een later moment een verklaring zal verstrekken. (Zie Par. A40)
-
-**41**
-
-De bepaling of de jaareinde controlewerkzaamheden zijn gevorderd tot een punt waarbij de waarschijnlijkheid dat de tussentijdse financiële informatie (4e kwartaal) of jaareinde financiële overzichten zullen wijzigen, klein is, vereist een hoge mate van professionele oordeelsvorming en overwegingen dienen derhalve gedocumenteerd te worden. Indicatoren dat de controlewerkzaamheden dat punt hebben bereikt omvatten tenminste:
-
-**42**
-
-Een comfort letter bevat de volgende onderdelen:
-
-**43**
-
-Om te voldoen aan de van toepassing zijnde wet- en regelgeving kan de uitgevende entiteit nieuwe financiële overzichten opstellen voor opname in het prospectus. De accountant moet hierbij een nieuwe controleverklaring verstrekken. (Zie Par. A43–A44)
-
-**44**
-
-De accountant voert controlewerkzaamheden uit, in overeenstemming met de controle- en overige standaarden om hem in staat te stellen een oordeel te formuleren of, voor de doeleinden van het prospectus, de financiële overzichten een getrouw beeld geven van de grootte en samenstelling van het vermogen, van het resultaat en de kasstromen van de uitgevende entiteit.
-
-**45**
-
-Een accountant die de opdracht heeft aanvaard een controleverklaring te verstrekken bij de nieuwe financiële overzichten, moet toereikende controle-informatie verkrijgen en moet daarbij:
-
-**46**
-
-De accountant dient voldoende kennis te krijgen van de winstprognose, zodat hij het risico dat deze niet op de juiste wijze is opgesteld, kan identificeren en beoordelen. Zodoende is hij in staat om werkzaamheden te plannen en uit te voeren, zodat toereikende controle-informatie wordt verkregen. (Zie Par. A45, A46, A47, A48, A49, A50, A51, A52, A53, A54 en A55)
-
-**47**
-
-De accountant dient, indien de entiteit regelmatig winstprognoses opstelt, te analyseren in welke mate eerdere prognoses aansloten bij de uiteindelijke resultaten en eventuele afwijkingen te analyseren.
-
-**48**
-
-De accountant dient de materialiteit te bepalen bij het plannen van de werkzaamheden en te gebruiken bij het evalueren van zijn bevindingen voor het af te geven assurance-rapport. (Zie Par. A56)
-
-**49**
-
-Om een conclusie te trekken of een winstprognose op de juiste wijze is opgesteld, dient de accountant informatie te verkrijgen dat de prognose geen afwijking van materieel belang bevat. Hij doet dat door:
-
-**50**
-
-De accountant dient de plannen, strategieën en risicoanalyses van de entiteit met de opsteller van de winstprognose te bespreken. Hij dient verder de ondersteunende documentatie te onderzoeken en vast te stellen of die documenten aansluiten bij de bedrijfsanalyse.
-
-**51**
-
-Indien de financiële informatie afhankelijk is van de plannen van het management dient de accountant hieromtrent een bevestiging van het management te ontvangen.
-
-**52**
-
-De accountant dient van de opstellers van de winstprognose details te ontvangen aangaande die veronderstellingen die voor de opstelling van de winstprognose van materieel belang zijn.
-
-**53**
-
-Er kan een breed scala aan redelijke veronderstellingen zijn waarop een winstprognose kan worden gebaseerd. Het is niet aan de accountant om te beoordelen of de keuze van redelijke veronderstellingen in die specifieke situatie juist is. De accountant dient echter wel:
-
-**54**
-
-Bij het controleren van de opstelling van de winstprognose dient de accountant te overwegen of er kasstroomoverzichten en balansen moeten worden gebruikt om te toetsen of er sprake is van omissies en inconsistenties in de winstprognose. Als er geen kasstroomoverzichten en balansen beschikbaar zijn terwijl de accountant na overleg met het management meent dat deze in de gegeven omstandigheden wel noodzakelijk zijn, dient hij te overwegen welke gevolgen dit heeft voor de uitvoering van zijn assurance-opdracht.
-
-**55**
-
-Bij het evalueren van de uitgangspunten voor het opstellen van in de winstprognose verwerkte historische financiële informatie dient de accountant:
-
-**56**
-
-Indien historische financiële informatie is gecontroleerd of beoordeeld, dient de accountant de reikwijdte van de uitgevoerde controle- of beoordelingswerkzaamheden te evalueren.
-
-**57**
-
-Om te evalueren of niet gecontroleerde of beoordeelde historische financiële informatie in de winstprognose acceptabel is, dient de accountant: (Zie Par. A59)
-
-**58**
-
-Indien de accountant vaststelt dat hij via de hierboven bedoelde werkzaamheden niet voldoende informatie kan verkrijgen die bevestigt dat de financiële informatie voor het reeds verstreken deel van de prognoseperiode een redelijke basis vormt om in de winstprognose te worden opgenomen, dient hij zijn bevindingen met het management van de entiteit te bespreken.
-
-**59**
-
-De accountant dient de grondslagen voor financiële verslaggeving die bij het opstellen van de winstprognose zijn gebruikt te vergelijken met de grondslagen die zijn gebruikt bij de meest recente historische financiële informatie in het prospectus en te beoordelen of deze consistent zijn en met betrekking tot de winstprognose hun toepasselijkheid hebben behouden.
-
-**60**
-
-Indien de winstprognose betrekking heeft op een startende entiteit (zonder financiële historie) dient de accountant te onderzoeken of de gekozen grondslagen voor financiële verslaggeving geschikt zijn.
-
-**61**
-
-De accountant dient te overwegen of er aanwijzingen zijn dat:
-
-**62**
-
-Indien de accountant kennis heeft van één of meer van voornoemde aanwijzingen, dient hij deze zaken te onderzoeken, waaronder het bespreken met de verantwoordelijken voor de winstprognose en te overwegen of hij in staat is een positieve conclusie te formuleren in zijn assurance-rapport.
-
-**63**
-
-Indien een winstprognose aan een sterke mate van onzekerheid onderhevig is, voeren de opstellers een gevoeligheidsanalyse uit. De accountant dient de toereikendheid van de toelichting vast te stellen. De accountant betrekt daarom deze analyse in zijn beoordeling. Deze analyse richt zich in het bijzonder op de veronderstellingen waarvan men meent dat ze het meest onzeker zijn en/of de grootste afwijkingen ten aanzien van de prognose teweeg kunnen brengen.
-
-**64**
-
-Het onderzoeksrapport inzake een onderzoek van toekomstgerichte financiële informatie dient de volgende elementen te bevatten:
-
-**65**
-
-De accountant dient te overwegen of de winstprognose past in het beeld van het prospectus alvorens hij zijn toestemming geeft om zijn rapportage met betrekking tot de winstprognose in het prospectus op te nemen.
-
-**66**
-
-Via de bestuurdersverklaring betreffende het werkkapitaal verklaart de entiteit dat het werkkapitaal naar haar oordeel toereikend is om aan haar huidige behoeften te voldoen of – indien dat niet het geval is – geeft zij aan hoe zij in het benodigde extra werkkapitaal denkt te voorzien (doorgaans ‘verklaring betreffende het werkkapitaal’ genoemd). De Prospectusrichtlijn schrijft voor dat in sommige gevallen in het prospectus een verklaring van de entiteit betreffende het werkkapitaal wordt opgenomen. Met werkkapitaal wordt bedoeld: het vermogen van de uitgevende entiteit om te beschikken over kasgeld en overige vlottende activa teneinde aan haar schulden te voldoen zodra deze betaalbaar worden. Als onderdeel van het due diligence onderzoek door de begeleidende bank, kan de accountant verzocht worden over deze ´bestuurdersverklaring betreffende het werkkapitaal´ te rapporteren.
-
-**67**
-
-De accountant dient de van toepassing zijnde criteria te beoordelen op toepasbaarheid ten behoeve van het evalueren of het toetsen van de bestuurdersverklaring betreffende het werkkapitaal. Toepasbare criteria vertonen de volgende kenmerken1009Voor een meer uitgebreide beschrijving zie paragraaf 44 van het Stramien voor Assurance-opdrachten.:
-
-**68**
-
-De accountant dient de werkzaamheden uit te voeren en de verkregen informatie als basis voor het rapport te gebruiken (Zie Par. A64).
-
-**69**
-
-De werkzaamheden die in een opdracht met betrekking tot de analyse van de werkkapitaal-behoefte van de uitgevende entiteit worden toegepast, bestaan, voor zover relevant, uit een analyse van en commentaar op:
-
-**70**
-
-Het rapport omtrent de werkkapitaalbehoefte van de uitgevende entiteit dient te bevatten:
-
-(Zie Par. 11 en 12)
-
-**A1**
-
-De [VGBA](https://wetten.overheid.nl/jci1.3:c:BWBR0034635) vereist dat de accountant gepaste professionele kennis en vaardigheid onderhoudt, met inbegrip van bewustzijn en begrip van relevante, technische, professionele en bedrijfsontwikkelingen om deskundige professionele dienstverlening te kunnen verlenen. In de context van deze vereiste van de VGBA omvatten relevante capaciteiten en competentie om de opdracht uit te voeren tevens aangelegenheden zoals de volgende:
-
-**A2**
-
-In Standaard 3850N worden assurance- en overige opdrachten met betrekking tot prospectussen behandeld. Wanneer de accountant een assurance-opdracht uitvoert, is onafhankelijkheid vereist. Op basis van de op de opdracht van toepassing zijnde onafhankelijkheidsvereisten, toetst de accountant of de opdracht die hij uitvoert op basis van deze Standaard kwalificeert als een assurance-opdracht om vast te stellen of onafhankelijkheid vereist is.
-
-**A3**
-
-Met betrekking tot bepaalde assurance-opdrachten (en winstprognoses) schrijft de Prospectusrichtlijn een specifieke formulering van de conclusie voor. De accountant moet deze formulering voorafgaand aan het aanvaarden van de opdracht met de uitgevende entiteit bespreken. Wanneer op basis van deze bespreking wordt geconcludeerd dat de formulering van het af te geven assurance-rapport niet kan voldoen aan de eisen van de Prospectusrichtlijn, bestaat er geen rationeel doel voor deze opdracht en wordt deze niet aanvaard.
-
-**A4**
-
-Een opdracht overeenkomstig deze Standaard wordt vanuit het uitgangspunt uitgevoerd dat de verantwoordelijke partij heeft erkend en begrepen dat zij de verantwoordelijkheden heeft die in paragraaf 11 uiteen worden gezet. In sommige rechtsgebieden kunnen dergelijke verantwoordelijkheden in de relevante wet- of regelgeving zijn gespecificeerd. In andere rechtsgebieden kan er weinig of geen wettelijke of regelgevende bepaling van dergelijke verantwoordelijkheden bestaan.
-
-Derhalve is dit uitgangspunt essentieel voor het uitvoeren van de opdracht. Om misverstanden te voorkomen, wordt met de verantwoordelijke partij overeengekomen dat zij erkent dat zij dergelijke verantwoordelijkheden heeft, en deze ook begrijpt, als onderdeel van het overeenkomen en vastleggen van de voorwaarden van de opdracht.
-
-**A5**
-
-In de opdrachtbevestiging kan ook de begeleidende bank opgenomen worden als geadresseerde.
-
-**A6**
-
-De accountant stuurt de uitgevende entiteit en – indien van toepassing – de begeleidende bank een concept opdrachtbevestiging en eventueel als bijlage een concept-comfort letter. Deze concept opdrachtbevestiging wordt in definitieve vorm uitgebracht na overleg met de uitgevende entiteit en – indien van toepassing – de begeleidende bank.
-
-**A7**
-
-Alleen de begeleidende bank kan bepalen welke werkzaamheden voor zijn doeleinden volstaan. De accountant kan de begeleidende bank als uitgangspunt een standaardmodel voor een comfort letter verstrekken, wanneer de begeleidende bank geen geadresseerde is van de opdrachtbevestiging.
-
-(Zie Par. 14)
-
-**A8**
-
-De volgende voorbeeldbevestigingen in het kader van de comfort letter kunnen opgenomen worden in de bevestigingsbrief:
-
-(Zie Par. 18)
-
-**A9**
-
-Voor de controlewerkzaamheden met betrekking tot gebeurtenissen na de einddatum van de verslagperiode kan een voorgaande accountant de opvolgende accountant verzoeken deze werkzaamheden uit te voeren. De opvolgende accountant rapporteert over deze werkzaamheden uitsluitend aan de voorgaande accountant en eventueel aan het management van de uitgevende entiteit.
-
-**A10**
-
-Indien de financiële overzichten een fout bevatten, geeft de accountant alleen toestemming voor openbaarmaking van zijn controleverklaring bij de financiële overzichten als een fout in de financiële overzichten adequaat is toegelicht in het prospectus. De accountant trekt zijn toestemming schriftelijk in om de controleverklaring bij de financiële overzichten openbaar te maken, wanneer deze financiële overzichten in ernstige mate tekortschieten in het geven van het vereiste inzicht. De accountant geeft ook geen toestemming meer om zijn controleverklaring bij deze financiële overzichten in een prospectus op te nemen omdat hij wil voorkomen dat op de foutieve financiële overzichten gesteund zal worden.
-
-Wanneer het bestuur over de tekortkoming in de financiële overzichten heeft bericht volgens [artikel 2:362 lid 6 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=362) en een mededeling heeft geplaatst bij het kantoor van het handelsregister, kan de accountant wel toestemming geven de controleverklaring bij de financiële overzichten in het prospectus op te nemen, wanneer tevens zijn verklaring in het prospectus wordt opgenomen als bedoeld in artikel 2:362 lid 6. De accountant geeft daarvoor dan ook weer toestemming zijn controleverklaring bij de financiële overzichten openbaar te maken.
-
-De accountant zal zowel bij fouten waarbij het inzicht de jaarrekening in ernstige mate tekortschiet als bij een materiële fout (waarbij het inzicht in de jaarrekening tekortschiet), aandringen op foutherstel.
-
-(Zie Par. 19, 20, 21, 22, 23 en 24)
-
-**A11**
-
-De accountant kan voor doeleinden van de comfort letter financiële informatie van de uitgevende entiteit beoordelen of controleren. Hierbij verstrekt de accountant geen verklaring tenzij de uitgevende entiteit ten behoeve van een prospectus nieuwe financiële overzichten opstelt om te voldoen aan de Prospectusrichtlijn en de accountant hierbij een controleverklaring moet verstrekken.
-
-**A12**
-
-De accountant kan verzocht worden om een comfort letter uit te brengen wanneer de verkopende partijen en de begeleidende bank een voorwaardelijke underwriting agreement aangaan die getekend wordt op de datum van het concept prospectus. Een ‘voorwaardelijke underwriting agreement’ omvat in het algemeen een clausule waarin wordt overeengekomen dat de voorwaarden alleen effectief zijn bij de executie van een prijsbijlage, waarvan wordt verwacht dat deze beschikbaar is na distributie van het concept prospectus (bijv. na afronding van de daarbij behorende ‘roadshow’). Het tekenen van een voorwaardelijke underwriting agreement is niet voldoende voor de accountant om een comfort letter uit te brengen over het concept prospectus, tenzij ook de begeleidende bank een opdrachtbevestiging heeft getekend. De gerelateerde aansprakelijkheid voor de begeleidende bank hoort alleen bij het tijdstip dat een definitieve (niet voorwaardelijke) underwriting agreement is getekend. In de praktijk kan dit voor een transactie plaatsvinden wanneer de transactie geprijsd wordt en de begeleidende bank zich heeft gecommitteerd aan de transactie of op de dag dat een prospectus gedateerd wordt.
-
-**A13**
-
-Voordat de entiteit het (concept) prospectus publiceert, overweegt de accountant de volgende planningswerkzaamheden:
-
-**A14**
-
-De werkzaamheden die de accountant uitvoert, moeten duidelijk worden omschreven in de (concept) comfort letter zodat er geen misverstand kan bestaan over de basis waarop de accountant zijn bevindingen rapporteert. De accountant stemt de concept comfort letter met de begeleidende bank af zodat de begeleidende bank kan nagaan of de nog uit te voeren en reeds uitgevoerde werkzaamheden gezamenlijk volstaan voor zijn due diligence onderzoek.
-
-**A15**
-
-De activiteiten die de begeleidende bank de accountant vraagt uit te voeren, zijn wat hun reikwijdte betreft beperkter dan de activiteiten die de begeleidende bank wordt geacht uit te voeren in de context van zijn onderzoeksplicht.
-
-**A16**
-
-De accountant adresseert de comfort letter aan de begeleidende bank en (ter informatie) aan de uitgevende entiteit. Dit zijn de partijen die de underwriting agreement tekenen.
-
-**A17**
-
-Een comfort letter wordt naast de uitgevende entiteit niet geadresseerd of verstrekt aan iemand anders dan de begeleidende bank of vertegenwoordiger van de begeleidende bank (met uitzondering dat de concepttekst ook met de juridisch adviseurs van alle betrokken partijen kan worden afgestemd). De uitgevende entiteit wordt beschouwd als een geadresseerde die de comfort letter (ter informatie) verkrijgt en geen verzoekende partij is. De distributieparagraaf van de comfort letter beschrijft het doel van de comfort letter en de verspreidingskring en deze wijst er op dat de comfort letter ter informatie van de geadresseerden is en om de begeleidende bank te assisteren bij het uitvoeren en documenteren van zijn due diligence onderzoek naar de gang van zaken van de entiteit.
-
-**A18**
-
-De accountant kan verzocht worden om een nieuwe begeleidende bank die is toegevoegd aan de groep van begeleidende banken (veelal bij een transactie onder een programma waar bij de update van het prospectus van het programma de begeleidende bank niet een van de begeleidende banken is geweest die partij van de underwriting agreement was), op te nemen als geadresseerde van een eerder uitgebrachte comfort letter. De accountant kan de uitgevende entiteit toestemming geven om de eerder uitgebrachte comfort letter te sturen naar de nieuwe begeleidende bank, mits deze de underwriting agreement met de uitgevende entiteit heeft ondertekend (of als de nieuwe begeleidende bank een opdrachtbevestiging heeft ondertekend) en de accountant hiervan een afschrift heeft ontvangen.
-
-**A19**
-
-De accountant kan verzocht worden om werkzaamheden uit te voeren betreffende informatie opgenomen in een prijsbijlage. Dit is een apart document los van het prospectus dat vaak een kapitalisatietabel en andere informatie bevat. De accountant kan comfort geven over informatie opgenomen in een prijsbijlage nadat de daarop betrekking hebbende underwriting agreement getekend is en aan de andere voorwaarden van deze Standaard is voldaan, bijvoorbeeld het alleen verrichten van werkzaamheden die zijn beperkt tot zaken waarvoor de deskundigheid van de accountant relevant is.
-
-**A20**
-
-Als de accountant wordt verzocht om een comfort letter uit te brengen vóór het ondertekenen van de underwriting agreement (bijvoorbeeld in samenhang met het publiceren van een concept prospectus), kan de accountant de begeleidende bank een concept comfort letter verschaffen.
-
-**A21**
-
-De begeleidende bank zal een ‘redelijk onderzoek’ uitvoeren. De begeleidende bank voert een ‘redelijk onderzoek’ uit als basis om te veronderstellen (en dit ook heeft gedaan) dat de informatie in het prospectus juist en volledig is.
-
-Dit ‘redelijk onderzoek’ is algemeen bekend als due diligence onderzoek. Vanwege de significante hoeveelheid aan financiële informatie in een prospectus en de expertise van de accountant bij deze financiële informatie, vraagt de begeleidende bank de accountant van de uitgevende entiteit veelal om over deze informatie te rapporteren. De accountant rapporteert de uitkomsten van de met de begeleidende bank afgesproken overeengekomen specifieke werkzaamheden op vergelijkbare wijze als in een rapport van feitelijke bevindingen. De accountant is niet verantwoordelijk voor het bepalen van de reikwijdte van de uit te voeren werkzaamheden.
-
-**A22**
-
-Als onderdeel van het due diligence onderzoek door de begeleidende bank, kan de accountant het verzoek krijgen om over de controle van de financiële overzichten of over de uitgevende entiteit bevraagd te worden in een overleg met de begeleidende bank dat veelal telefonisch plaatsvindt. Het is geen verplichting om deel te nemen aan een dergelijk overleg maar wanneer de accountant besluit deel te nemen, volgen hieronder een aantal mogelijke aandachtspunten:
-
-(Zie Par. 25, 26, 27, 28, 29, 30 en 31)
-
-**A23**
-
-Voordat de accountant over de managementinformatie rapporteert, dient hij vast te stellen dat deze is opgesteld in overeenstemming met de verslaggevingsgrondslagen welke zijn gehanteerd in het laatste door de accountant gecontroleerde of beoordeelde financieel overzicht. Verschillen kunnen voortkomen uit het ontbreken van boekingen omtrent:
-
-Wanneer de accountant wordt verzocht om te rapporteren over de verandering in gespecificeerde posten, maar wanneer de managementinformatie niet is opgesteld overeenkomstig de verslaggevingsstandaarden welke zijn gehanteerd in het laatste door de accountant gecontroleerde of beoordeelde financieel overzicht, dient hij dit verzoek zorgvuldig te overwegen. In dit geval is het van belang dat de begeleidende bank deze beperkingen in reikwijdte begrijpt. Wanneer de accountant in deze situatie akkoord gaat met het rapporteren over de verandering in gespecificeerde posten, moet de accountant in de comfort letter aangeven dat het management van de uitgevende entiteit heeft bevestigd dat de managementinformatie is gebaseerd op afwijkende grondslagen ten opzichte van het laatste door de accountant gecontroleerde of beoordeelde financieel overzicht. Deze afwijkingen dienen in de comfort letter te worden vermeld tezamen met het feit dat de resultaten van de uitgevoerde werkzaamheden moeten worden gezien in de context van deze afwijkende grondslagen.
-
-**A24**
-
-Als onderdeel van de opdrachtbevestiging en het afstemmingsproces inzake de comfort letter wordt ten behoeve van de comfort letter een datum bepaald tot waar de accountant de gevraagde werkzaamheden uitvoert: de cut-off date van de comfort letter.
-
-De cut-off date van de comfort letter ligt een aantal (veelal drie tot vijf) werkdagen vóór de datering van de comfort letter. Deze periode geeft de uitgevende entiteit de gelegenheid om informatie te verzamelen en de accountant de gelegenheid om de informatie te onderzoeken. De accountant komt de cut-off date van de comfort letter overeen met de begeleidende bank en met de uitgevende entiteit.
-
-**A25**
-
-De cut-off date van de comfort letter is in beginsel niet gelijk aan de datum waarvoor tussentijdse en door het management goedgekeurde financiële informatie beschikbaar is. In deze omstandigheden kan het voor het management onmogelijk zijn om bevestigingen te geven over stijgingen en dalingen in gespecificeerde posten in dit deel van de veranderingsperiode. Wanneer het management geen bevestigingen kan doen, rapporteert de accountant niet over dit deel van de veranderingsperiode (de datum na de periode waarvoor tussentijdse en door het management goedgekeurde financiële informatie beschikbaar is tot en met de cut-off date) in de comfort letter.
-
-**A26**
-
-De uitgevende entiteit kan andere beknopte/ samenvattende informatie tot haar beschikking hebben, die het management voorziet van cijfers (anders dan tussentijdse en door het management goedgekeurde financiële informatie). Deze cijfers kunnen het management in staat stellen positieve bevestigingen aan de accountant te geven over stijgingen en dalingen van de gespecificeerde posten in de financiële overzichten op de cut-off date van de comfort letter. Alleen indien de accountant bepaalt dat deze informatie zodanig geschikt is om redelijkerwijs deze bevestigingen te ondersteunen, kan de accountant over de stijgingen en dalingen in de gespecificeerde posten in dit deel van de veranderingsperiode rapporteren.
-
-**A27**
-
-In de afwezigheid van een periodeafsluiting is het in beginsel niet mogelijk voor het management om bevestigingen te geven met betrekking tot elementen van vlottende activa, eigen vermogen, netto omzet of netto resultaat (totaal of per aandeel) en daarom rapporteert de accountant in beginsel niet over deze elementen in de comfort letter.
-
-**A28**
-
-De accountant zorgt ervoor dat er geen misverstanden bestaan over welke gespecificeerde posten hij in de comfort letter rapporteert door in de comfort letter voor deze posten aan te sluiten op de benaming van posten in de financiële overzichten.
-
-**A29**
-
-Zo lang als de cut-off date van de comfort letter binnen de 135-dagen periode is, kan de comfort letter voorbij de 135-dagen periode gedateerd worden en kan de accountant overgaan tot het verstrekken van een beperkte mate van zekerheid met betrekking tot veranderingen in de posten van de financiële overzichten tot de cut-off date van de comfort letter. De datum van de comfort letter zal normaal gesproken echter niet verder dan drie tot vijf werkdagen na de cut-off date van de comfort letter liggen.
-
-**A30**
-
-Mocht in het kader van de gevraagde beperkte mate van zekerheid de accountant overgaan tot het beoordelen van een financieel overzicht waarvan de datum niet verder dan 135 dagen verwijderd ligt van de datum van de comfort letter, dan kan volstaan worden met het uitvoeren van de werkzaamheden in overeenstemming met de paragrafen 12–35 van Standaard 2410.
-
-(Zie Par. 32 en 33)
-
-**A31**
-
-Binnen de 135-dagen periode kan de accountant als volgt rapporteren: Op basis van deze verzoeken om inlichtingen en het lezen van de notulen zoals beschreven in paragraaf X, is ons niets gebleken op basis waarvan wij zouden moeten concluderen dat er een dergelijke verandering, toename of afname was [behalve in alle gevallen voor veranderingen, toenames of afnames die in het prospectus zijn toegelicht, hebben plaatsgevonden of kunnen plaatsvinden]/[en behalve dat ...].
-
-**A32**
-
-Buiten de 135-dagen periode rapporteert de accountant als volgt: De functionarissen van de entiteit die verantwoordelijkheid hebben voor verslaggevingsaangelegenheden hebben het volgende bevestigd: er is geen dergelijke verandering, toename of afname [behalve in alle gevallen voor veranderingen, toenames of afnames die in het prospectus zijn toegelicht, hebben plaatsgevonden of kunnen plaatsvinden]/[en behalve dat ...].
-
-**A33**
-
-In aanvulling op de tekstuele toelichting in paragraaf A31 en A32 kunnen de uitzonderingen als volgt worden gerapporteerd:
-
-‘... behalve dat de volgende veranderingen, stijgingen en dalingen uit de managementinformatie blijken:
-
-De accountant geeft in de comfort letter geen uitleg van de verandering, toename of afname. Veranderingen, toenames of afnames zijn toe te schrijven aan vele factoren en het bepalen van de reden van de veranderingen, toenames of afnames kan subjectief zijn.
-
-**A34**
-
-Zonder vastomlijnde (financieel economische) definitie van wat bedoeld wordt met bijvoorbeeld een ‘ongunstige ontwikkeling’, verstrekt de accountant geen zekerheid met betrekking tot de afwezigheid van deze ‘ongunstige ontwikkeling’.
-
-De accountant rapporteert bijvoorbeeld alleen over een ‘stijging of daling van (meer dan) 5%’ of ‘een toe- of afname van (meer dan) EUR 1.000’.
-
-**A35**
-
-Hieronder volgt een voorbeeldtekst voor het gebruik van grenswaarden in het deel van de veranderingsperiode waarvoor geen tussentijdse financiële informatie beschikbaar is (voor het deel van de veranderingsperiode waarvoor tussentijdse financiële informatie beschikbaar is, kan de accountant op vergelijkbare wijze rapporteren):
-
-Wij hebben om inlichtingen verzocht bij bepaalde functionarissen van de entiteit die verantwoordelijkheid hebben voor verslaggevingsaangelegenheden over de vraag of:
-
-(Zie Par. 34, 35, 36, 37 en 38)
-
-**A36**
-
-De accountant beperkt zich tot zaken waarvoor zijn deskundigheid relevant is. Voorbeelden waarover de accountant niet rapporteert zijn over wie aandelen houdt (waaronder inbegrepen economische eigendom), de oppervlakte van de faciliteiten of de gehuurde ruimte, het aantal werknemers en de aantallen werknemers per klasse (behalve als het gaat om specifieke salarisperioden en specifieke salarisrekeningen), orderportefeuille of activa van derden onder beheer.
-
-**A37**
-
-In het algemeen zal de accountant de resultaten van het uitvoeren van de werkzaamheden tot uitdrukking brengen in termen van overeenstemming tussen de vergeleken elementen. Bijvoorbeeld ‘wij hebben de bedragen weergegeven als [beschrijven] vergeleken met bedragen weergegeven in de daarop betrekking hebbende [beschrijven] en hebben geconstateerd dat zij in overeenstemming waren’.
-
-Termen zonder vastomlijnde betekenis (bijvoorbeeld ‘algemene beoordeling’, ‘beperkte beoordeling’, ‘afstemmen’, ‘checken’, ‘test’, ‘overeengekomen’ of ‘herberekend’) worden bij de beschrijving van de werkzaamheden niet gebruikt, tenzij de werkzaamheden bedoeld onder deze noemers in de comfort letter beschreven staan.
-
-**A38**
-
-De accountant kan in bepaalde gevallen over de volgende additionele financiële informatie opgenomen in een prospectus rapporteren:
-
-**A39**
-
-Een accountant kan verzocht worden te rapporteren over financiële informatie, welke rechtstreeks ontleend is aan de door de voorgaande accountant gecontroleerde financiële overzichten. De opvolgende accountant kan alleen rapporteren over de vergelijkende cijfers in een financieel overzicht waarover de opvolgende accountant heeft gerapporteerd.
-
-(Zie Par. 39, 40 en 41)
-
-**A40**
-
-Indien de controle van het financieel overzicht niet afgerond is op de datum van de comfort letter, overweegt de accountant om werkzaamheden uit te voeren betreffende de veranderingsperiode tot jaareinde, alleen als de jaareinde controlewerkzaamheden zijn gevorderd tot een punt dat de waarschijnlijkheid dat de financiële informatie of overzichten zullen wijzigen klein is;
-
-Indien niet voldaan wordt aan de bovenstaande voorwaarde, overweegt de accountant om te rapporteren tot een interim periode van het afgelopen jaar.
-
-(Zie Par. 42)
-
-**A41**
-
-Ter verkrijging van een basis voor zijn bevindingen in de comfort letter, verwijst de accountant in de inleiding van die comfort letter naar zijn controle- en/of beoordelingsverklaring met betrekking tot de volledige set van financiële overzichten zoals die in het prospectus is opgenomen. Wanneer het oordeel van de controleverklaring aangepast is of er een paragraaf ter benadrukking van bepaalde aangelegenheden is opgenomen, vermeldt de accountant dat in de paragraaf van de comfort letter waarin hij over zijn verklaring rapporteert en neemt hierbij de tekst op van de bevindingenparagraaf of de paragraaf ter benadrukking van bepaalde aangelegenheden.
-
-**A42**
-
-Wanneer de accountant op een latere datum dan het prospectus (bijvoorbeeld op de sluitingsdatum van de transactie) een aanvullende comfort letter (een zogenaamde ‘bring-down letter’) uitbrengt, dient hij in deze aanvullende comfort letter te vermelden dat de werkzaamheden zijn uitgevoerd tot en met de cut-off date van deze aanvullende comfort letter.
-
-(Zie Par. 43)
-
-**A43**
-
-Bij nieuwe financiële overzichten voor het prospectus kan worden gedacht aan financiële overzichten die opgesteld worden in overeenstemming met International Financial Reporting Standards goedgekeurd door de Europese Unie, waar bestaande financiële overzichten voor algemene doeleinden in overeenstemming met [titel 9 Boek 2 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) zijn opgesteld. Deze nieuwe financiële overzichten worden voor het prospectus opgesteld en niet voor algemene doeleinden.
-
-**A44**
-
-Ook wanneer de financiële historie van de uitgevende entiteit complex is en geen gecontroleerde financiële overzichten van de uitgevende entiteit beschikbaar zijn en dit leidt tot opname van nieuwe financiële overzichten in het prospectus, verplicht de Prospectusrichtlijn een controleverklaring op te nemen. In bepaalde situaties, waaronder:
-
-kan het opstellen van financiële overzichten betekenen dat deze informatie in gecombineerde -in plaats van geconsolideerde- vorm wordt opgesteld om invulling te geven aan de vereiste dat de financiële overzichten voor de doeleinden van het prospectus een getrouw beeld geven.
-
-(Zie Par. 46 en 47)
-
-**A45**
-
-De Prospectusrichtlijn schrijft een specifieke formulering van de oordeelsparagraaf in het assurance-rapport voor. De paragrafen 46–65 van deze Standaard stellen vereisten vast en geven toelichtingen aan de accountant die een opdracht heeft inzake een winstprognose die overeenkomstig de bepalingen van de Prospectusrichtlijn in een prospectus is opgenomen.
-
-**A46**
-
-In een winstprognose kan historische financiële informatie zijn opgenomen met betrekking tot een verstreken periode. Bijvoorbeeld, in een prognose die op 15 oktober 20XX is opgesteld aangaande de winst over het jaar eindigend op 31 december 20XX kunnen de resultaten voor de periode van zes maanden eindigend op 30 juni 20XX zoals opgenomen in de halfjaarlijkse rapportage van de uitgevende entiteit en de bedragen die uit de managementrapportage van het bestuur over de maanden juli en augustus zijn overgenomen.
-
-**A47**
-
-Met een winstverwachting wordt bedoeld: historische financiële informatie over een financiële periode die is afgesloten, maar waarover nog geen resultaten zijn gepubliceerd. Dit in tegenstelling tot de winstprognose welke toeziet op een nog niet afgesloten financiële periode.
-
-**A48**
-
-De vereisten voor ‘winstprognoses’ zijn onverkort van toepassing op (vergelijkbare) opstellingen of uitingen die een uitspraak doen over toekomstige resultaten maar bijvoorbeeld onder de titel ‘winstraming’.
-
-**A49**
-
-Een winstprognose is inherent onzeker, aangezien gebeurtenissen en omstandigheden niet per se op de voorspelde manier optreden of in het geheel niet zijn voorzien of omdat het management ander beleid ontwikkelt. Een winstprognose bevat toelichtingen, zoals b.v. de veronderstellingen onder welke deze is opgesteld, die de beoogde gebruikers helpen te begrijpen welke aspecten onzeker zijn.
-
-**A50**
-
-Een winstprognose is gewoonlijk op veronderstellingen gebaseerd die zijn afgeleid van de verwachte effecten van toekomstige gebeurtenissen en activiteiten. Deze veronderstellingen vormen een essentieel element van winstprognoses. Daarom vereist de regelgeving dat de veronderstellingen die van materieel belang kunnen zijn voor het uitkomen van de prognose worden toegelicht, inclusief de veronderstellingen die verband houden met zaken waarop het bestuur invloed of controle kan uitoefenen.
-
-**A51**
-
-De mate waarin een winstprognose materieel afwijkt van het werkelijke resultaat is afhankelijk van de specifieke omstandigheden die bij de winstprognose een rol spelen. De duur van de periode waarop de prognose betrekking heeft is slechts één factor en niet noodzakelijkerwijs de belangrijkste. Bijvoorbeeld, een reeds lang bestaande entiteit kan de resultaten van het volgende jaar mogelijk met meer zekerheid voorspellen, met name als zij in een stabiele omgeving opereert, dan een nieuwe entiteit of een reeds lang bestaande entiteit die besluit nieuwe activiteiten te ontplooien.
-
-**A52**
-
-De kennis van de accountant van winstprognoses omvat onder meer:
-
-**A53**
-
-De accountant verkrijgt kennis van de winstprognose door overleg met het management van de entiteit en door de relevante ondersteunende documentatie door te nemen. De accountant zal met name vaststellen of dit een nieuwe winstprognose is, dan wel een eerder opgestelde prognose die mogelijk geactualiseerd moet worden. In een opstartsituatie of wanneer een reeds bestaande entiteit nieuwe activiteiten ontplooit, zal het begrip van de accountant met betrekking tot de voorgenomen activiteiten beperkt zijn tot algemene kennis van de sector en begrip van de door de entiteit uitgevoerde bedrijfsanalyse.
-
-**A54**
-
-Om te kunnen rapporteren over de juiste opstelling van een winstprognose zal in het algemeen begrip worden verkregen van de door de entiteit gebruikte systemen en procedures voor de financiële verslaggeving, het opstellen van de begroting en het maken van voorspellingen. De accountant overlegt met de opstellers van een winstprognose hoe deze tot stand is gekomen.
-
-Specifieke onderwerpen hierbij zijn:
-
-**A55**
-
-Analyse van eerdere prognoses en aansluiting bij de uiteindelijke resultaten helpt bij het verkrijgen van kennis van de activiteiten van de entiteit en kan verder nuttig zijn bij het identificeren van de risicogebieden.
-
-(Zie Par. 48)
-
-**A56**
-
-Een winstprognose zal onder andere geen afwijking van materieel belang mogen bevatten. In de context van het opstellen van een winstprognose worden onder andere de volgende zaken als afwijking aangemerkt:
-
-(Zie Par. 49, 50, 51, 52, 53 en 54)
-
-**A57**
-
-In de meeste gevallen zullen niet alle veronderstellingen die de winstprognose ondersteunen worden toegelicht. De reden hiervoor is dat alleen die veronderstellingen die voor het begrip van de winstprognose materieel zijn op grond van de Prospectusrichtlijn in het prospectus moeten worden toegelicht.
-
-**A58**
-
-Teneinde vast te stellen dat de gehanteerde veronderstellingen aansluiten met de bedrijfsanalyse en te evalueren hoe eventuele historische financiële informatie in de prognose is verwerkt, overweegt de accountant de volgende werkzaamheden uit te voeren:
-
-(Zie Par. 55, 56, 57 en 58)
-
-**A59**
-
-Het is van belang dat de accountant bij het onderzoeken van in een winstprognose opgenomen historische financiële informatie begrijpt op welke wijze zulke informatie in de prognose is opgenomen. Indien er voor prospectieve financiële informatie en historische informatie verschillende systemen en procedures worden gebruikt, bestaat er een risico dat zich inconsistenties voordoen en dat deze inconsistenties kunnen leiden tot fouten van materieel belang bij het opstellen van de winstprognose.
-
-(Zie Par. 61, 62 en 63)
-
-**A60**
-
-De keuze van presentatie en toelichtingen en de nadruk op bepaalde cijfers kunnen mede bepalend zijn voor de manier waarop de winstprognose zal worden geïnterpreteerd. De accountant beoordeelt of dit aansluit bij het doel waarvoor de prognose is opgesteld.
-
-**A61**
-
-Bij het evalueren van de winstprognose zal de accountant overwegen of de bestanddelen van de winstprognose op een duidelijke wijze zijn omschreven. Bijvoorbeeld, indien een winstprognose wordt gepresenteerd als één bedrag voor de winst vóór belastingen, en dit wordt bereikt door de opname van een niet terugkerende eenmalige opbrengst uit de verkoop van een vast actief, zal worden nagegaan of nadere toelichting is opgenomen teneinde de winstprognose begrijpelijk te maken.
-
-**A62**
-
-De accountant zal nagaan of de mate van inherente onzekerheid waaraan de informatie onderhevig is, voldoende is toegelicht.
-
-**A63**
-
-De accountant zal de wijze waarop een winstprognose in het prospectus wordt gepresenteerd, beoordelen.
-
-(Zie Par. 68)
-
-**A64**
-
-Voor de vereisten voor rapportering betreffende het werkkapitaal aan een specifieke gebruikersgroep wordt verwezen naar Standaard 5500N**Transactiegerelateerde adviesdiensten**. Een dergelijke opdracht kan ook onder Standaard 5500N worden uitgevoerd.
-
-Voor voorbeelden van de rapportages die onder Standaard 3850N verstrekt kunnen worden, wordt verwezen naar NBA-voorbeeldteksten op [www.nba.nl/Voorbeeldteksten](http://www.nba.nl/Voorbeeldteksten).
-
-### 3900N. Accountantsopdracht bij de NOW-regelingen – Assurance
 
 **1**
 
@@ -22584,7 +22000,7 @@ In de definitie van een ‘opdracht met een beperkte mate van zekerheid’ in pa
 
 In deze Standaard wordt het zekerheidsniveau dat de accountant behaalt als de accountant **‘het opdrachtrisico als basis voor de conclusie terugbrengt tot een niveau dat aanvaardbaar is rekening houdend met de omstandigheden van de opdracht’** uit de definitie aangeduid als ‘In het kader van de NOW-aanvraag tot vaststelling aanvaardbare beperkte mate van zekerheid’. (Zie Par. 10)
 
-**A11**
+### 3900N. Accountantsopdracht bij de NOW-regelingen – Assurance
 
 Hoewel de accountant zich bij een opdracht tot het verkrijgen van een in het kader van de NOW-aanvraag tot vaststelling aanvaardbare beperkte mate van zekerheid realiseert dat er vaak geen redelijke mate van zekerheid zal kunnen worden verkregen, worden de risicoanalyse, planning en uitvoering ingestoken alsof het een opdracht tot het verkrijgen van een redelijke mate van zekerheid is.
 
@@ -23110,7 +22526,7 @@ Omdat de vereisten over de verantwoordelijkheden van de accountant met betrekkin
 
 1 Zoals opgenomen in de [Nadere Voorschriften controle- en overige standaarden](https://wetten.overheid.nl/jci1.3:c:BWBR0035120), gepubliceerd in Staatscourant 2022, 32525.
 
-### 3950N. Assurance-opdrachten inzake het voldoen aan de criteria voor het opstellen van een digitaal verantwoordingsdocument
+Accountantsafdelingen zijn organisatieonderdelen waar accountants werkzaam zijn als intern accountant of als overheidsaccountant.
 
 **1**
 
@@ -23694,7 +23110,7 @@ Standaard 600 is van toepassing op controleopdrachten en niet op deze opdrachten
 
 Organisaties kunnen gebruik maken van een service organisatie om hun digitaal verantwoordingsdocument op te stellen. Deze service organisaties kunnen een Standaard 3402 rapport laten opstellen over hun processen. Gezien het feit dat het bij het opstellen van een digitaal verantwoordingsdocument veelal niet om een gestructureerd proces gaat, de inbreng van de onderzochte organisatie groot is en het onderzoek van het digitale document veelal in belangrijke mate geautomatiseerd zal plaatsvinden zal de toegevoegde waarde van een Standaard 3402 rapportage veelal beperkt zijn. (Zie Par. 53)
 
-**A39**
+### 3950N. Assurance-opdrachten inzake het voldoen aan de criteria voor het opstellen van een digitaal verantwoordingsdocument
 
 Standaard 402 is van toepassing op controle opdrachten en niet op deze opdrachten. Dat neemt niet weg dat Standaard 402 de accountant kan helpen om invulling te geven aan de vereiste. (Zie Par. 53)
 
@@ -23772,9 +23188,9 @@ Als onderdeel van de verkregen assurance-informatie kunnen ook standaard rapport
 
 Bij een samenvallende opdracht kan de accountant er voor kiezen de opdrachtdocumentatie van beide opdrachten in één dossier op te nemen. (Zie Par. 89)
 
-### 4000–4699. Aan assurance verwante opdrachten
+Indien de opdrachtpartner informatie verkrijgt die ertoe zou hebben geleid dat de accountantseenheid de opdracht zou hebben geweigerd als die informatie eerder beschikbaar zou zijn geweest, dient de opdrachtpartner deze informatie onmiddellijk aan de accountantseenheid mee te delen, zodat de accountantseenheid en de opdrachtpartner de noodzakelijke maatregelen kunnen nemen.
 
-### 4400. Opdrachten tot het verrichten van overeengekomen specifieke werkzaamheden
+**20**
 
 **1**
 
@@ -24242,7 +23658,7 @@ Documentatie van de aard, timing en omvang van de uitgevoerde overeengekomen spe
 
 **In onderstaand schema worden de kenmerken van een opdracht tot het verrichten van overeengekomen specifieke werkzaamheden verduidelijkt door deze te vergelijken met een assurance-opdracht.**
 
-### 4410. Samenstellingsopdrachten
+**A30**
 
 **1**
 
@@ -24356,9 +23772,9 @@ De accountant dient, voorafgaand aan het uitvoeren van de opdracht, de overeenge
 
 **26**
 
-Voor doorlopende samenstellingsopdrachten dient de accountant te evalueren of omstandigheden, waaronder veranderingen in de oordeelsvormingen van de accountantseenheid over een cliëntrelatie of de opdracht, vereisen dat de opdrachtvoorwaarden moeten worden herzien. Ook evalueert de accountant of het nodig is om het management te herinneren aan de bestaande opdrachtvoorwaarden. (Zie Par. A45)
+### 4000–4699. Aan assurance verwante opdrachten
 
-**27**
+### 4400. Opdrachten tot het verrichten van overeengekomen specifieke werkzaamheden
 
 De accountant dient met het management of de met governance belaste personen, in voorkomend geval, tijdens de samenstellingsopdracht tijdig aangelegenheden betreffende de samenstellingsopdracht te communiceren. Dit betreft de aangelegenheden die, op grond van professionele oordeelsvorming van de accountant, belangrijk genoeg zijn om de aandacht van het management of de met governance belaste personen, in voorkomend geval, te verdienen. (Zie Par. A46 en A47)
 
@@ -24826,7 +24242,7 @@ In wet- of regelgeving kan worden gespecificeerd aan wie de samenstellingsverkla
 
 Indien de historische financiële informatie is opgesteld door gebruik te maken van een stelsel inzake financiële verslaggeving voor bijzondere doeleinden, is het onder deze standaard vereist dat de samenstellingsverklaring de aandacht van de lezers van de verklaring vestigt op het stelsel inzake financiële verslaggeving voor bijzondere doeleinden dat in de historische financiële informatie wordt gebruikt. Tevens is het vereist om te vermelden dat de historische financiële informatie derhalve mogelijk niet geschikt is voor andere doeleinden. Dit kan worden aangevuld door een additionele clausule die de verspreiding of het gebruik, of beide, van de samenstellingsverklaring aan alleen de beoogde gebruikers beperkt.
 
-**A66**
+### 4410. Samenstellingsopdrachten
 
 Historische financiële informatie die is opgesteld voor een bepaald doel kan door andere partijen dan de beoogde gebruikers worden verkregen die de informatie zouden willen gebruiken voor andere doeleinden dan die waarvoor de informatie bedoeld was. Zo kan een regelgever of toezichthouder van bepaalde entiteiten vereisen dat zij financiële overzichten verschaffen die zijn opgesteld door gebruik te maken van een stelsel inzake financiële verslaggeving voor bijzondere doeleinden, en dat die financiële overzichten openbaar zijn. Het feit dat die financiële overzichten ook beschikbaar zijn voor andere partijen dan de beoogde gebruikers houdt niet in dat deze financiële overzichten dan financiële overzichten voor algemene doeleinden zouden worden. De vermeldingen van de accountant die moeten worden opgenomen in de samenstellingsverklaring zijn noodzakelijk om de aandacht van de lezers te vestigen op het feit dat de financiële overzichten zijn opgesteld onder een stelsel inzake financiële verslaggeving voor bijzondere doeleinden en derhalve mogelijk niet geschikt zijn voor andere doeleinden.
 
@@ -24852,7 +24268,7 @@ Het proces dat binnen de entiteit bestaat voor het vaststellen van de historisch
 
 Voo**r voorbeeldteksten van samenstellingsverklaringen wordt verwezen naar NBA-voorbeeldteksten op**[www.nba.nl/Voorbeeldteksten](http://www.nba.nl/Voorbeeldteksten)
 
-### 4415N. Accountantsopdracht bij de NOW-regelingen – Aan assurance verwant
+Het management kan een accountant verzoeken om te ondersteunen bij het opstellen en presenteren van historische financiële informatie van een entiteit. Voor gebruikers van historische financiële informatie is de waarde van een samenstellingsopdracht, in overeenstemming met deze standaard, gelegen in het toepassen van de deskundigheid van de accountant op het gebied van administratieve verwerking en financiële verslaggeving. Daarnaast leeft de accountant gedrags- en beroepsregels na, waaronder relevante ethische voorschriften, en communiceert hij duidelijk over de aard en omvang van zijn betrokkenheid bij de samengestelde historische financiële informatie. (Zie Par. A12, A13, A14 en A15)
 
 **1**
 
@@ -25307,6 +24723,590 @@ De verklaring van de groepsaccountant kan gebruikt worden ten aanzien van:
 **A26**
 
 Indien sprake is van bevindingen inzake de specifieke aspecten van de loonsom verwacht de gebruiker dat de aanvrager alle fouten herstelt door middel van een correctie in de loonaangifte en/of nabetaling van de nettolonen aan de werknemers. (Zie Par. 34)
+
+**A27**
+
+De gebruikers van de aan assurance verwante NOW-opdracht gaan ervan uit dat indien de accountant een samenstellingsverklaring heeft afgegeven de aanvrager alle bekende correcties heeft doorgevoerd. Indien dit niet het geval is kan er ook geen samenstellingsverklaring verstrekt worden door de accountant.
+
+Het is aan de werkgever om een keuze te maken of de werkgever gehoor wil geven aan het moreel appèl of de werkgever gebruik wil maken van de regeling en de eventuele gevolgen daarvan af te wegen. Uitgangspunt is dat de werkgever verantwoording aflegt over de wijze waarop aan de subsidievoorwaarden wordt voldaan.
+
+De accountant toetst niet het moreel appèl. Wel onderzoekt de accountant conform het accountantsprotocol of de entiteit zich aan de voorwaarden van de regeling heeft gehouden, of dat de entiteit onrechtmatig subsidie claimt. (Zie Par. 36)
+
+**A27a**
+
+Bij een gecombineerde opdracht hoeven niet alle bekende afwijkingen per afzonderlijke NOW-verantwoordingsperiode te worden gecorrigeerd. Relevant zijn afwijkingen die gevolgen hebben voor de totale NOW-subsidie over de gecombineerde NOW-verantwoordingsperiodes.
+
+**Voorbeeld:** Bij een gecombineerde opdracht van NOW 3.1 en NOW 3.2 blijkt dat een afwijking in periode 3.1 vervolgens wordt opgeheven in 3.2 van de gecombineerde opdracht. Dit wordt dan niet gezien als een relevante fout zo lang dit geen gevolgen heeft voor de totale NOW-subsidie van periode 3.1 en 3.2. Een dergelijke fout hoeft daarom niet te leiden tot een aanpassing van de samen te stellen NOW-aanvraag tot vaststelling. (Zie Par. 36)
+
+**A28**
+
+Wanneer de accountant zaken ziet die kunnen wijzen op fraude of niet-naleving van de NOW-regeling dan zal de accountant dit bespreken met het management en verzoeken om informatie. Hieruit kan blijken dat het vermoeden ongegrond was. Het kan ook nodig zijn dat het management een vermoede fraude of niet-naleving van de NOW-regeling laat onderzoeken om hier duidelijkheid over te krijgen. Als het vermoeden gegrond is, dringt de accountant aan op maatregelen om de geïdentificeerde fraude of niet-naleving van de NOW-regeling te redresseren en stelt de benodigde aanpassingen aan de NOW-aanvraag tot vaststelling voor. In deze situatie informeert de accountant de met governance (toezicht) belaste personen.
+
+Indien het management het vermoeden niet kan weerleggen en bovendien weigert de fraude te onderzoeken, te redresseren of herhaling daarvan te voorkomen, zal de accountant (onder vermelding van reden) de opdracht teruggeven. In dat geval informeert de accountant zowel het management als de met governance (toezicht) belaste personen hierover.
+
+**Wwft**
+
+Een accountant kan bij de cliënt te maken krijgen met ongebruikelijke transacties waarbij het in bepaalde gevallen wettelijk verplicht is om deze te melden bij de FIU-Nederland in overeenstemming met de voorschriften in de Wwft.
+
+Zie voor de nadere eisen omtrent de Wwft en het doen van een melding NBA-handreiking 1124, **Richtsnoeren voor de interpretatie van Wwft.**
+
+**NV NOCLAR**
+
+Als de accountant het noodzakelijk vindt in het algemeen belang, neemt de accountant zelf maatregelen die vanuit de positie van de accountant redelijkerwijs mogelijk zijn. Bijvoorbeeld zelf een melding doen bij het UWV (als bevoegde instantie voor de NOW) als de cliënt bij of krachtens wet daartoe verplicht is, maar dit nalaat. Verder informeert de accountant eventuele andere eindverantwoordelijke accountants voor wie deze informatie van belang is bij de uitvoering van hun opdracht voor de cliënt, als de accountant weet dat zij ook bij de cliënt opdrachten uitvoeren en hierover niet door de cliënt zelf zijn geïnformeerd. Daarnaast maakt de accountant een vastlegging in lijn met [artikel 21 van de VGBA](https://wetten.overheid.nl/jci1.3:c:BWBR0034635&artikel=21). (Zie Par. 38)
+
+**A29**
+
+Het management kan de verantwoordelijkheid voor de NOW-aanvraag tot vaststelling alleen nemen als het management deze begrijpt en het daarmee eens is. Dus licht de accountant de NOW-aanvraag tot vaststelling waar nodig toe. (Zie Par. 39)
+
+**A29a**
+
+De accountant kan bij een gecombineerde opdracht in één keer een erkenning van het management vragen voor meerdere NOW-aanvragen tot vaststelling. (Zie Par. 39)
+
+**A30**
+
+De accountant kan hiervoor gebruik maken van de voorbeeldteksten van de NBA in het kader van deze NOW-regeling. (Zie Par. 39)
+
+**A31**
+
+De documentatie moet zodanig zijn dat een ervaren accountant met kennis van de branche waarin de entiteit opereert en met kennis van de NOW in staat is om te beoordelen of het onderzoek goed is uitgevoerd.
+
+Het is niet nodig om zaken te documenteren die ook anderszins uit het dossier blijken. Het is dus niet nodig om op te schrijven dat werkzaamheden zijn uitgevoerd als dit blijkt uit de verkregen onderzoeksinformatie of uit de afwerking van het werkprogramma. (Zie Par. 40)
+
+**A32**
+
+Een geschikte termijn waarbinnen de samenstelling van het definitieve opdrachtdossier moet worden afgerond, is in het algemeen een termijn van niet meer dan 2 maanden na de datum van de samenstellingsverklaring.
+
+Met het administratieve proces van het samenstellen wordt niet gedoeld op het verrichten van administratieve diensten voor de cliënt of het samenstellen van de NOW-aanvraag tot vaststelling maar op werkzaamheden om het dossier te ordenen. (Zie Par. 41)
+
+**A32a**
+
+Bij bepaalde secties in het dossier van een samengevoegde opdracht kan het zijn dat er aanvullingen plaatsvinden naar aanleiding van elke NOW-rapportage. Bijvoorbeeld bij een wijziging in de samenstelling van de NOW-groep in een latere NOW-periode (zie Par. 25 over het inzicht van de accountant/kennis over de entiteit). Een dergelijke aanpassing is niet strijdig met de vereiste om de documentatie met betrekking tot de werkzaamheden voor een bepaalde periode tijdig af te ronden. Uiteraard moet de informatie die voor een bepaalde periode relevant was, wel beschikbaar blijven. (Zie Par. 41)
+
+**A32b**
+
+Dit kan van toepassing zijn op NOW-verantwoordingsperiodes vanaf NOW3.
+
+Een rapportage bij een gecombineerde opdracht kan pas plaatsvinden nadat alle werkzaamheden zijn afgerond bij de betreffende NOW-verantwoordingsperiodes.
+
+Ondanks dat sprake is van een gecombineerde opdracht, moeten werkgevers wel per NOW-verantwoordingsperiode een NOW-aanvraag tot vaststelling indienen. Ook de gezamenlijke samenstellingsverklaring wordt per verantwoordingsperiode aan het UWV aangeleverd. In de samenstellingsverklaring wordt een link gelegd tussen de NOW-verantwoordingsperiode die in de aanvraag tot vaststelling wordt genoemd en het object van onderzoek wat betrekking heeft op meerdere NOW-verantwoordingsperiodes. (Zie Par. 42a)
+
+**A33**
+
+De formats van de verklaring van de accountants worden opgenomen op de websites [www.uwv.nl](http://www.uwv.nl/), [www.wetten.nl](http://www.rijksoverheid.nl/) en [www.nba.nl](http://www.nba.nl/). Het hanteren van dit format is van belang voor de verwerking bij het UWV voor de vaststelling van de definitieve aanvraag. (Zie Par. 43)
+
+De accountant legt vast hoe de samengestelde historische financiële informatie aansluit op de onderliggende vastleggingen, documenten, uitleg en andere informatie die door het management zijn verschaft ten behoeve van de samenstellingsopdracht. Hij kan hierbij bijvoorbeeld een schema bijhouden dat de aansluiting laat zien van de rekeningsaldi in het grootboek van de entiteit met de samengestelde historische financiële informatie, inclusief aanpassingen via journaalposten of andere aanpassingen in de historische financiële informatie die de accountant met het management in de loop van de opdracht is overeengekomen.
+
+**1**
+
+Deze standaard behandelt de verantwoordelijkheden van de accountant:
+
+**2**
+
+Deze Standaard kan alleen worden toegepast als het accountantsprotocol behorende bij de subsidieregeling een aan assurance verwante opdracht rechtvaardigt en de opdracht voldoet aan het gestelde in paragraaf 4. (Zie Par. A1)
+
+**3**
+
+Als een accountantseenheid een opdracht uitvoert volgens deze Standaard gelden de [Nadere voorschriften kwaliteitssystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0038869) (NVKS) op het niveau van de accountantseenheid. In deze Standaard is een bepaling over kwaliteitsbeheersing op het niveau van de afzonderlijke opdracht opgenomen.
+
+**4**
+
+De opdracht bestaat uit het samenstellen van de subsidieverantwoording inclusief het uitvoeren van aanvullende werkzaamheden zoals deze zijn beschreven in het accountantsprotocol. Er wordt geen assurance verstrekt aan zowel de entiteit die de subsidieverantwoording indient als aan de subsidieverstrekker.
+
+Bij een samenstellingsopdracht gaat de accountant uit van de informatie die de accountant krijgt van het management tenzij de accountant zich ervan bewust wordt dat deze niet compleet, niet nauwkeurig of anderszins onbevredigend is.
+
+In dat geval bespreekt de accountant dit met het management en vraagt om aanvullende of gecorrigeerde informatie. Als de accountant deze informatie niet krijgt, dan geeft de accountant de opdracht terug. De accountant geeft derhalve geen samenstellingsverklaring af als er op grond van de uitvoering van de opdracht aanwijzingen zijn verkregen dat de rapportage afwijkingen bevat.
+
+Bij deze Standaard worden daarenboven aanvullende werkzaamheden verricht die zijn genoemd in het accountantsprotocol waardoor de subsidieverstrekker de subsidieverantwoording kan vaststellen. Daardoor zal een accountant zich eerder bewust worden van informatie die niet compleet, niet nauwkeurig of anderszins onbevredigend is. (Zie Par. A2)
+
+**5**
+
+Het management blijft verantwoordelijk voor de subsidieverantwoording en voor de basis waarop deze is opgesteld en gepresenteerd. Die verantwoordelijkheid omvat:
+
+**6**
+
+Deze Standaard legt het management of de met governance belaste personen geen verantwoordelijkheden op of doet geen afbreuk aan wet- en regelgeving die deze verantwoordelijkheden bepalen. Het uitgangspunt voor een opdracht die overeenkomstig deze Standaard wordt uitgevoerd, is dat het management of, in voorkomend geval, de met governance belaste personen bepaalde verantwoordelijkheden hebben aanvaard die fundamenteel zijn voor de uitvoering van de samenstellingsopdracht.
+
+**7**
+
+Deze Standaard bevat vereisten die de accountant in staat stellen om de vermelde doelstelling van de opdracht te behalen. Deze vereisten worden uitgedrukt door gebruik te maken van het hulpwerkwoord ‘dienen’ (in: ‘iets dienen te doen’). (Zie Par. A3)
+
+**8**
+
+Daarnaast bevat deze Standaard inleidende teksten, definities en toepassingsgerichte en overige verklarende teksten die de relevante context bieden voor een goed inzicht in de Standaard. (Zie Par. A4)
+
+**9**
+
+De uitleg in de toepassingsgerichte en overige verklarende teksten heeft niet de status van een vereiste, wel is deze relevant voor de correcte toepassing van de vereisten. (Zie Par. A5)
+
+**10**
+
+De accountant mag ervan uit gaan dat alle relevante vereisten in het kader van een aan assurance verwante opdracht bij een subsidieregeling in deze Standaard zijn opgenomen. (Zie Par. A6 en A7)
+
+**11**
+
+Voor de ingangsdatum wordt verwezen naar de slotbepalingen.
+
+**12**
+
+Het doel van de accountant bij het verrichten van een aan assurance verwante opdracht bij een subsidieregeling onder deze Standaard is:
+
+**13**
+
+### 4415N. Accountantsopdracht bij de NOW-regelingen – Aan assurance verwant
+
+**13a**
+
+De paragrafen 17 en 17A van Standaard 4410 zijn van overeenkomstige toepassing, voor zover in deze Standaard en de subsidieregeling (inclusief de toelichting) niet anders is bepaald.
+
+**14**
+
+De accountant dient inzicht te hebben in de gehele tekst van deze Standaard, inclusief de toepassingsgerichte en overige verklarende teksten, om de doelstellingen te begrijpen en de vereisten naar behoren toe te passen. (Zie Par. A8)
+
+**15**
+
+De accountant dient te voldoen aan alle vereisten van deze Standaard, tenzij een bepaalde vereiste niet relevant is, bijvoorbeeld omdat de betreffende omstandigheden niet van toepassing zijn op de opdracht.
+
+**16**
+
+De accountant dient geen naleving van deze Standaard te vermelden tenzij de accountant alle vereisten van deze Standaard heeft nageleefd die voor de aan assurance verwante opdracht bij een subsidieregeling relevant zijn.
+
+**17**
+
+De accountant dient de relevante ethische voorschriften van de [VGBA](https://wetten.overheid.nl/jci1.3:c:BWBR0034635) na te leven. (Zie Par. A9 – A10)
+
+**18**
+
+De accountant dient de opdracht met een professioneel-kritische instelling uit te voeren. (Zie Par. A11)
+
+**19**
+
+De accountant dient bij de opdracht professionele oordeelsvorming toe te passen. (Zie Par. A12)
+
+**20**
+
+De opdrachtpartner dient:
+
+**21**
+
+De opdrachtpartner dient verantwoordelijkheid te nemen voor: (Zie Par. A16)
+
+**22**
+
+De accountant dient na te gaan of de werkzaamheden uit het accountantsprotocol uitvoerbaar zijn en relevant in het kader van de opdracht. (Zie Par. A17)
+
+**23**
+
+De accountant dient na te gaan of de cliënt geaccepteerd kan worden dan wel of de cliëntrelatie gecontinueerd kan worden in overeenstemming met het kwaliteitssysteem van de accountantseenheid. (Zie Par. A18, A19 en A20)
+
+**24**
+
+De accountant dient de opdracht niet te aanvaarden tenzij de accountant de opdrachtvoorwaarden met het management, of een andere opdrachtgevende partij, overeen is gekomen, inclusief:
+
+**25**
+
+De accountant dient, voorafgaand aan het uitvoeren van de opdracht, de overeengekomen opdrachtvoorwaarden schriftelijk in een opdrachtbevestiging of andere overeenkomst vast te leggen.
+
+**26**
+
+De accountant dient tijdig belangrijke aangelegenheden met betrekking tot de subsidieverantwoording te bespreken met het management.
+
+**27**
+
+De accountant dient kennis te verwerven over de entiteit die relevant is voor het samenstellen van de subsidieverantwoording en de aanvullende werkzaamheden bij de subsidieverantwoording. De accountant dient daarbij onder andere aandacht te besteden aan de voor de subsidieverantwoording van belang zijnde:
+
+(Zie Par. A22)
+
+**28**
+
+Bij het uitvoeren van de aanvullende werkzaamheden dient de accountant kennis te nemen van de daaraan gestelde eisen in het accountantsprotocol en past de accountant dit toe bij het uitvoeren van de opdracht.
+
+**29**
+
+De aanvullende werkzaamheden zijn minder omvangrijk dan die tijdens een assurance-opdracht worden uitgevoerd. Deze bestaan bijvoorbeeld uit het onderzoeken van de grootste posten, ongebruikelijke posten en deelwaarnemingen. De accountant dient op basis van professionele oordeelsvorming de omvang van deze werkzaamheden te bepalen.
+
+**30**
+
+De accountant dient na te gaan of de uitkomsten van de extra werkzaamheden (bijvoorbeeld als gevolg van geconstateerde afwijkingen in het onderzoek) aanleiding geven om meer werkzaamheden uit te voeren om het gevolg van de fout te kunnen bepalen.
+
+**31**
+
+De accountant dient de subsidieverantwoording samen te stellen door gebruik te maken van:
+
+**32**
+
+Als de accountant in de loop van het samenstellen van de subsidieverantwoording ondersteuning voor significante oordeelsvormingen heeft geboden, dient de accountant deze te bespreken met het management of, in voorkomend geval, de met governance belaste personen.
+
+**33**
+
+Voorafgaand aan de afronding van de samenstellingsopdracht dient de accountant de samengestelde subsidieverantwoording te lezen in het licht van het inzicht van de accountant in de activiteiten van de entiteit en de subsidieregeling.
+
+**34**
+
+Indien de accountant zich gedurende de samenstellingsopdracht ervan bewust wordt dat de door het management verschafte vastleggingen, documenten, uitleg of overige informatie, inclusief significante oordeelsvormingen, niet compleet, niet nauwkeurig of anderszins onbevredigend zijn – waaronder geïdentificeerde of vermoede fraude of niet-naleving van de subsidieregeling – dient de accountant dat onder de aandacht van het management te brengen. De accountant dient ook om de aanvullende of gecorrigeerde informatie te verzoeken en hiervoor aanvullende werkzaamheden te verrichten. De accountant dringt waar nodig aan op adequate opvolging van geïdentificeerde of vermoede fraude of niet-naleving van de subsidieregeling.
+
+**35**
+
+Indien de accountant niet in staat is om de opdracht te voltooien omdat het management geen vastleggingen, documenten, uitleg of overige informatie, inclusief significante oordeelsvormingen, verschaft zoals was verzocht, dan dient de accountant de opdracht terug te geven. Dit is ook het geval als het management geen adequate opvolging geeft aan geïdentificeerde of vermoede fraude of niet-naleving van de subsidieregeling.
+
+De accountant dient ook het management en de met governance belaste personen in te lichten over de redenen voor teruggave.
+
+**36**
+
+Indien de accountant zich er tijdens het verloop van de opdracht van bewust wordt dat:
+
+dan dient de accountant de geschikte aanpassingen aan het management voor te stellen. De accountant dringt waar nodig aan op adequate opvolging van geïdentificeerde of vermoede fraude of niet-naleving van de subsidieregeling.
+
+**37**
+
+Indien het management weigert, of het de accountant niet toestaat de voorgestelde aanpassingen aan de samengestelde subsidieverantwoording aan te brengen, dient de accountant de opdracht terug te geven. Dit is ook het geval als het management geen adequate opvolging geeft aan geïdentificeerde of vermoede fraude of niet-naleving van de subsidieregeling.
+
+De accountant dient ook het management en de met governance belaste personen in te lichten over de redenen voor de teruggave.
+
+**38**
+
+Als er sprake is van geïdentificeerde of vermoede fraude of niet-naleving van de subsidieregeling dan dient de accountant na te gaan of er aanvullende zaken moeten worden gedaan op grond van andere wet – en regelgeving zoals de Wwft of de NV NOCLAR. (Zie Par. A24)
+
+**39**
+
+De accountant dient een erkenning van het management te verkrijgen dat het de verantwoordelijkheid heeft genomen voor de definitieve versie van de subsidieverantwoording. (Zie Par. A25)
+
+**40**
+
+De accountant dient het volgende in het dossier op te nemen: (Zie Par. A26)
+
+**41**
+
+De accountant dient de opdrachtdocumentatie samen te voegen in een opdrachtdossier en het administratieve proces van het samenstellen van het definitieve opdrachtdossier tijdig na de datum van de samenstellingsverklaring te voltooien. (Zie Par. A27)
+
+**42**
+
+Een belangrijk doel van de samenstellingsverklaring is het duidelijk communiceren van de aard van de werkzaamheden en de rol en de verantwoordelijkheden van de accountant tijdens de opdracht. De samenstellingsverklaring is geen middel om een oordeel of een conclusie over de subsidieverantwoording tot uitdrukking te brengen, in welke vorm dan ook.
+
+**43**
+
+De samenstellingsverklaring die wordt uitgebracht dient schriftelijk te zijn en dient ten minste de volgende elementen te omvatten:
+
+**44**
+
+Ook indien op grond van de subsidieregeling of het accountantsprotocol van de accountant wordt vereist dat de accountant zich houdt aan een specifieke opmaak of formulering in de samenstellingsverklaring, mag de samenstellingsverklaring slechts naar deze Standaard verwijzen als de samenstellingsverklaring ten minste elk van de in paragraaf 43 opgenomen elementen bevat. (Zie Par. A28)
+
+**45**
+
+De accountant dient de verklaring te dateren op de datum waarop de accountant de samenstellingsopdracht overeenkomstig deze Standaard heeft voltooid.
+
+**A1**
+
+Het is de verantwoordelijkheid van de subsidieverstrekker om in het accountantsprotocol in voldoende detail te beschrijven in welke situaties een aan assurance verwante opdracht volstaat. (Zie Par. 2)
+
+**A2**
+
+De accountant neemt bij het toepassen van deze Standaard kennis van de subsidieregeling en het bijbehorende accountantsprotocol en past dit toe bij het uitvoeren van de opdracht. (Zie Par. 4)
+
+**A3**
+
+De terminologie deze paragraaf is gebaseerd op die van de overige standaarden in de NV COS waar deze Standaard onderdeel van uitmaakt.
+
+Vereisten beschrijven op hoofdlijnen de werkzaamheden die de accountant bij een opdracht moet uitvoeren. (Zie Par. 7)
+
+**A4**
+
+In de inleidende teksten wordt een inleiding gegeven op het doel van een standaard en worden de randvoorwaarden geschetst voor de uitvoering.
+
+In de definities wordt uitgelegd wat wordt bedoeld met bepaalde in de Standaard gebruikte begrippen. (Zie Par. 8)
+
+**A5**
+
+Toepassingsgerichte teksten en overige verklarende teksten leggen uit waarom bepaalde werkzaamheden worden vereist en hoe de werkzaamheden kunnen worden ingevuld in een bepaalde situatie. (Zie Par. 9)
+
+**A6**
+
+Voor de goede toepassing van de vereisten moeten deze gelezen worden in de context van het accountantsprotocol. (Zie Par. 10)
+
+**A7**
+
+Het kan een accountant helpen om bij het uitvoeren van de opdracht gebruik te maken van de informatie in andere standaarden zoals Standaard 240 of 4410. Daarmee wordt niet beoogd om de vereisten van deze Standaarden van toepassing te verklaren op deze Standaard. (Zie Par. 10)
+
+**A8**
+
+Uit de vereisten in deze Standaard blijkt dat om tot een goede toepassing te komen deze Standaard gelezen moet worden in samenhang met het accountantsprotocol welke is opgesteld door het de subsidieverstrekker. (Zie Par. 14)
+
+**A9**
+
+De accountant heeft de verantwoordelijkheid te handelen in het algemeen belang door het naleven van de fundamentele beginselen van de beroepsethiek. De [Verordening gedrags- en beroepsregels accountants](https://wetten.overheid.nl/jci1.3:c:BWBR0034635) (VGBA) legt de volgende fundamentele beginselen van de beroepsethiek vast die accountants naleven bij het uitvoeren van professionele diensten en verschaft een conceptueel raamwerk voor de toepassing. Die fundamentele beginselen zijn:
+
+Bij het naleven van de [VGBA](https://wetten.overheid.nl/jci1.3:c:BWBR0034635) is het vereist dat bedreigingen van de relevante fundamentele beginselen worden geïdentificeerd en hierop op passende wijze wordt gereageerd. (Zie Par. 17)
+
+**A10**
+
+Omdat het een aan assurance verwante opdracht betreft is de [Verordening inzake de Onafhankelijkheid](https://wetten.overheid.nl/jci1.3:c:BWBR0034652) (ViO) hier niet van toepassing. (Zie Par. 17)
+
+**A11**
+
+De accountant gebruikt een professioneel-kritische instelling onder meer bij de aanvullende werkzaamheden op de van het management ontvangen informatie. (Zie Par. 18)
+
+Dit houdt onder meer in dat de accountant alert is op:
+
+**A12**
+
+De accountant gebruikt professionele oordeelsvorming bij het maken van diverse afwegingen tijdens het uitvoeren van de opdracht. Daartoe gebruikt de accountant de kennis, ervaring en relevante training in de context van de Standaard en ethische beginselen. (Zie Par. 19)
+
+Dit houdt onder meer in:
+
+**A13**
+
+Bij subsidies van de rijksoverheid boven de 125.000 euro wordt veelal een controleverklaring gevraagd. In dat geval moet de accountant onafhankelijk zijn. Bij de totstandkoming van de standaarden bij de NOW-regeling is geconstateerd dat onafhankelijkheid niet noodzakelijk was als een aanvullende eis bij een aan assurance verwante opdracht.
+
+Dat neemt niet weg dat gezien het belang van de covid-19 gerelateerde subsidies voor de continuïteit van organisaties, een bedreiging van de objectiviteit van de accountant reëel aanwezig is. In dat kader is er in deze Standaard voor gekozen om een opdrachtgerichte kwaliteitsbeoordeling (OKB) voor te schrijven dan wel een maatregel die minstens zo effectief is. (Zie Par. 20)
+
+**A14**
+
+De kwaliteitsbepaler bepaalt in het kader van het kwaliteitsstelsel van de accountantseenheid de wijze waarop deze OKB-vorm krijgt. De [NVKS](https://wetten.overheid.nl/jci1.3:c:BWBR0038869) is hier vormvrij in.
+
+De opdrachtgerichte kwaliteitsbeoordelaar laat de diepgang van de werkzaamheden afhangen van de aard en omvang van de opdracht. Desgewenst kan bij de OKB ook nagegaan worden of de opdracht vakbekwaam en zorgvuldig is uitgevoerd. (Zie Par. 20)
+
+**A15**
+
+De accountant kan bij het toepassen van andere maatregelen steunen op procedures die de accountantseenheid geïmplementeerd heeft in het eigen kwaliteitssysteem, mits de accountant heeft vastgesteld dat deze maatregelen borgen dat de accountant objectief de opdracht uitvoert. (Zie Par. 20)
+
+**A16**
+
+Bij het nemen van verantwoordelijkheid voor de algehele kwaliteit van elke opdracht wordt door de handelingen van de opdrachtpartner en passende signalen aan de andere leden van het opdrachtteam het belang van het bereiken van kwaliteit van de opdracht benadrukt door het volgende: (Zie Par. 21)
+
+**A17**
+
+De uitvoerbaarheid en relevantie van de werkzaamheden blijkt gewoonlijk uit een beoordeling door de Werkgroep Controleprotocollen (COPRO) van de NBA. COPRO beoordeelt of het accountantsprotocol uitvoerbaar is voor de accountant aan de hand van de Schrijfwijzer Accountantsprotocollen. De uitkomst van deze beoordeling door COPRO is opgenomen op de website van de NBA onder [https://www.nba.nl/themas/controleprotocollen/controleprotocollen/](https://www.nba.nl/themas/controleprotocollen/controleprotocollen/). Bij twijfel kan contact worden opgenomen met de NBA. (Zie Par. 22)
+
+**A18**
+
+De accountant besteedt hierbij onder andere aandacht aan de Wwft.
+
+Wanneer de accountant nog niet eerder een cliëntrelatie had met de opdrachtgever kan collegiaal overleg noodzakelijk zijn. Bijvoorbeeld met de accountant die eerder de jaarrekening heeft samengesteld bij dezelfde cliënt, maar geen aan assurance verwante opdracht in het kader van de subsidieregeling wil of kan uitvoeren. Op grond van [artikel 15a van de VGBA](https://wetten.overheid.nl/jci1.3:c:BWBR0034635&artikel=15a) kan het verplicht zijn om collegiaal overleg te voeren.
+
+Ook als collegiaal overleg niet is verplicht, is het bij nieuwe cliënten verstandig om bij de vorige dienstverlener na te gaan of deze informatie heeft die de accountant kan helpen bij de afweging over het aanvaarden van de opdracht. (Zie Par. 23)
+
+**A19**
+
+Een attentiepunt bij de opdrachtaanvaarding is de situatie dat eerder een collega-accountant de aan assurance verwante opdracht bij de subsidieregeling heeft teruggeven omdat de collega-accountant deze opdracht niet in overeenstemming met de Standaard kon afronden
+
+Een risico is dat de accountant hiervan niet op de hoogte is. Dit speelt vooral in de situatie waarin geen sprake is van een ‘vaste’ accountant met een doorlopende opdracht zoals voor het samenstellen van de jaarrekening. Op grond van [artikel 15a van de VGBA](https://wetten.overheid.nl/jci1.3:c:BWBR0034635&artikel=15a) kan het verplicht zijn om collegiaal overleg te voeren.
+
+Daarnaast heeft een accountant de volgende mogelijkheden om te onderzoeken of een opdracht door een collega accountant is teruggegeven:
+
+**A20**
+
+Door het uitvoeren van een aan assurance verwante opdracht bij een subsidieregeling, kan een bedreiging ontstaan van de onafhankelijkheid van de accountant bij een assurance-opdracht ten opzichte van het assurance-object, de verantwoordelijke entiteit of persoon. Dit zal met name spelen als beide opdrachten (samenloop van dienstverlening) betrekking hebben op hetzelfde object van onderzoek.
+
+Als een accountant zowel een jaarrekening controleert als een aan assurance verwante opdracht bij een subsidieregeling uitvoert bij dezelfde entiteit, kan dit eventueel leiden tot een bedreiging voor de onafhankelijkheid van de accountant die de jaarrekening controleert. Dit kan tot gevolg hebben dat die jaarrekeningcontrole niet kan worden uitgevoerd.
+
+Denk hierbij bijvoorbeeld aan de situatie dat de accountant managementbeslissingen zou nemen bij het samenstellen van de subsidieverantwoording en de subsidie later weer moet controleren in het kader van de jaarrekeningcontrole.
+
+Het is dan ook verstandig dergelijke bedreigingen te onderkennen voordat bij een entiteit waar normaal een vrijwillige controle wordt uitgevoerd door dezelfde accountant een aan assurance verwante opdracht wordt geaccepteerd. (Zie Par. 23)
+
+**A21**
+
+Een samenstellingsverklaring van de accountant bij de subsidieverantwoording is geen garantie voor het toekennen van de subsidie door de subsidieverstrekker. Het is mogelijk dat de subsidieverstrekker andere informatie ter beschikking heeft dan de accountant op grond waarvan de subsidieverstrekker besluit om (nog) niet tot het toekennen van de subsidie over te gaan of om deze gewijzigd toe te kennen. (Zie Par. 24)
+
+**A22**
+
+De accountant kan gebruik maken van kennis die de accountant bij eerdere contacten, waaronder eerdere opdrachten, met de cliënt heeft verkregen, als de accountant vaststelt dat deze kennis nog relevant is. De accountant gaat na wat voor de subsidieregeling relevant is. De accountant gaat na wat voor de subsidieregeling relevant is, bijvoorbeeld de structuur van de groep waar de entiteit onderdeel van uitmaakt. (Zie Par. 27)
+
+**A23**
+
+Waar van toepassing houdt de accountant rekening met hetgeen in het accountantsprotocol is opgenomen over het begrip materialiteit. (Zie Par. 36)
+
+**A24**
+
+Wanneer de accountant zaken ziet die kunnen wijzen op fraude of niet-naleving van de subsidieregeling dan zal de accountant dit bespreken met het management en verzoeken om informatie. Hieruit kan blijken dat het vermoeden ongegrond was. Het kan ook nodig zijn dat het management een vermoede fraude of niet-naleving van de subsidieregeling laat onderzoeken om hier duidelijkheid over te krijgen. Als het vermoeden gegrond is, dringt de accountant aan op maatregelen om de geïdentificeerde fraude of niet-naleving van de subsidieregeling te redresseren en stelt de benodigde aanpassingen aan de subsidieverantwoording voor. In deze situatie informeert de accountant de met governance (toezicht) belaste personen.
+
+Indien het management het vermoeden niet kan weerleggen en bovendien weigert de fraude te onderzoeken, te redresseren of herhaling daarvan te voorkomen, zal de accountant (onder vermelding van reden) de opdracht teruggeven. In dat geval informeert de accountant zowel het management als de met governance (toezicht) belaste personen hierover.
+
+Een accountant kan bij de cliënt te maken krijgen met ongebruikelijke transacties waarbij het in bepaalde gevallen wettelijk verplicht is om deze te melden bij de FIU-Nederland in overeenstemming met de voorschriften in de Wwft.
+
+Zie voor de nadere eisen omtrent de Wwft en het doen van een melding NBA-handreiking 1124, **Richtsnoeren voor de interpretatie van Wwft.**
+
+De NV NOCLAR vraagt van accountants dat zij bij niet naleving van wet- en regelgeving eerst de organisatie aanzetten om het gedrag te verbeteren. Pas als de organisatie niet voldoende doet om de gevolgen te redresseren en om herhaling te voorkomen kan het komen tot een melding bij de bevoegde instanties. Dit overigens niet voordat de organisatie op de hoogte is gebracht van het feit dat de accountant tot een melding wil overgaan. Een dergelijke melding vindt plaats als de accountant meent dat dit in het maatschappelijk belang noodzakelijk is. Zo is mogelijk een melding nodig als een accountant naar aanleiding van een discussie over een mogelijke fraude of niet naleving middels een tussentijdse opzegging ontheven wordt van de opdracht. De bevoegde instanties (meldpunt) kunnen blijken uit de subsidieregeling.
+
+Verder informeert de accountant eventuele andere eindverantwoordelijke accountants voor wie deze informatie van belang is bij de uitvoering van hun opdracht voor de cliënt, als de accountant weet dat zij ook bij de cliënt opdrachten uitvoeren en hierover niet door de cliënt zelf zijn geïnformeerd. Daarnaast maakt de accountant een vastlegging in lijn met [artikel 21 van de VGBA](https://wetten.overheid.nl/jci1.3:c:BWBR0034635&artikel=21). (Zie Par. 38)
+
+**A25**
+
+Het management kan de verantwoordelijkheid voor de subsidieverantwoording alleen nemen als het management deze begrijpt en het daarmee eens is. Dus licht de accountant de subsidieverantwoording waar nodig toe. (Zie Par. 39)
+
+**A26**
+
+De documentatie moet zodanig zijn dat een ervaren accountant met kennis van de branche waarin de entiteit opereert en met kennis van de subsidieregeling in staat is om te beoordelen of het onderzoek goed is uitgevoerd.
+
+Het is niet nodig om zaken te documenteren die ook anderszins uit het dossier blijken. Het is dus niet nodig om op te schrijven dat werkzaamheden zijn uitgevoerd als dit blijkt uit de verkregen onderzoeksinformatie of uit de afwerking van het werkprogramma. (Zie Par. 40)
+
+**A27**
+
+Een geschikte termijn waarbinnen de samenstelling van het definitieve opdrachtdossier moet worden afgerond, is in het algemeen een termijn van niet meer dan 2 maanden na de datum van de samenstellingsverklaring.
+
+Met het administratieve proces van het samenstellen wordt niet gedoeld op het verrichten van administratieve diensten voor de cliënt of het samenstellen van de subsidieverantwoording maar op werkzaamheden om het dossier te ordenen. (Zie Par. 41)
+
+**A28**
+
+Het is mogelijk dat in het accountantsprotocol een format voor de samenstellingsverklaring bij een subsidieverantwoording is opgenomen of dat dit op andere wijze door de subsidieverstrekker is gepubliceerd naar aanleiding van het accountantsprotocol. (Zie Par. 43)
+
+Een NOW-groep wijkt af van een jaarrekeninggroep. Een jaarrekeninggroep wordt in Nederland veelal gevormd op basis van [artikel 24b Boek 2 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b). Voor de NOW moet daarnaast worden gekeken naar dochtermaatschappijen en daaraan gelijkgestelde vennootschappen op grond van [artikel 24a Boek 2 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24a).
+
+Maar niet alle entiteiten die onderdeel zijn van de groep op grond van [artikel 24a](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24a) en [24b Boek 2 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b) zijn onderdeel van de NOW-groep. Internationale entiteiten die geen Nederlands SV-loon betalen zijn namelijk geen onderdeel van de NOW-groep. (Zie Par. 11e)
+
+**1**
+
+Deze Standaard heeft ten doel grondslagen en essentiële werkzaamheden vast te stellen en aanwijzingen te geven omtrent de vaktechnische verantwoordelijkheid van de beroepsbeoefenaar ten aanzien van de uitvoering van een opdracht tot het verlenen van transactiegerelateerde adviesdiensten.
+
+**2**
+
+Bij opdrachten tot het verlenen van transactiegerelateerde adviesdiensten levert de beroepsbeoefenaar adviesdiensten met betrekking tot een voorgenomen transactie van een opdrachtgever, in het algemeen met een derde partij. Voorbeelden van transacties zijn: kapitaalmarkttransacties, uitgifte/verkoop of koop van aandelen, overname of verkoop van ondernemingen of onderdelen daarvan, het verstrekken of ontvangen van financieringen, herfinancieringen, securisaties, fusies, allianties en soortgelijke activiteiten.
+
+**3**
+
+Transactiegerelateerde adviesdiensten zijn geen assurance-opdrachten en geen aan assurance verwante opdrachten. Informatie verkregen ten behoeve van het adviesproces wordt niet gecontroleerd of beoordeeld als bedoeld in het Stramien voor Assurance-opdrachten.
+
+**4**
+
+De opdracht tot uitvoering van een transactiegerelateerde adviesdienst kan samenlopen met werkzaamheden met een assurance-karakter als bedoeld in het Stramien voor Assurance-opdrachten. **In de opdrachtbevestiging en in de schriftelijke rapportage dient de accountant werkzaamheden met een assurance-karakter duidelijk te scheiden van adviesdiensten.** In de opdrachtbrief door ten minste gebruik te maken van afzonderlijke paragrafen en in de rapportage door het gebruik van afzonderlijke secties.
+
+**5**
+
+Een opdracht tot het verlenen van transactiegerelateerde adviesdiensten kan elementen bevatten die voldoen aan de definitie van assurance-opdrachten, maar hoeft daarmee niet te voldoen aan de vereisten van de Standaarden zolang voor de oordelen, standpunten of uitspraken waaraan een gebruiker zekerheid zou kunnen ontlenen, elk van de onderstaande punten geldt:
+
+**6**
+
+Bij opdrachten tot het verlenen van transactiegerelateerde adviesdiensten maakt de beroepsbeoefenaar gebruik van zijn vaktechnische vaardigheden, opleiding, ervaring, kennis van het adviesproces en zijn waarnemingen tijdens de door hem uitgevoerde adviesdiensten.
+
+**7**
+
+Het adviesproces is een analytisch proces, dat bestaat uit (een combinatie van) activiteiten onder andere met betrekking tot:
+
+**7A**
+
+De definities in de Standaarden 000N t/m 800 zijn van overeenkomstige toepassing, voor zover in deze Standaard niet anders is bepaald.
+
+**8**
+
+Het primaire doel van een opdracht tot het verlenen van transactiegerelateerde adviesdiensten is het ondersteunen van de geautoriseerde gebruiker bij aspecten van het besluitvormingsproces inzake een voorgenomen transactie. Met de opdrachtgever kunnen ook andere transactie-ondersteunende diensten worden overeengekomen.
+
+**9**
+
+Voorbeelden van transactiegerelateerde adviesdiensten zijn:
+
+Een transactiegerelateerde adviesopdracht omvat niet een oordeel over de vraag of een voorgenomen transactie voldoet aan de door geautoriseerde gebruikers gestelde criteria, of de beslissing om al dan niet een transactie voort te zetten. De verantwoordelijkheid voor deze afwegingen berust uitsluitend bij de geautoriseerde gebruikers.
+
+**10**
+
+**Indien een cliënt, waarvoor de accountantspraktijk de wettelijke controle van de financiële overzichten uitvoert, tevens een opdracht verstrekt tot het verlenen van transactiegerelateerde adviesdiensten, dient deze laatstgenoemde opdracht eerst te worden geaccepteerd na overleg met de voor de wettelijke controle verantwoordelijke accountant.**
+
+**11**
+
+**De beroepsbeoefenaar dient de opdracht tot het verlenen van een transactiegerelateerde adviesdienst in overeenstemming met deze Standaard en met de overeengekomen voorwaarden van de opdracht uit te voeren.** De reikwijdte van de te verrichten werkzaamheden kan tijdens de uitvoering ervan worden aangepast conform de paragrafen 20 en 25 van deze Standaard.
+
+**12**
+
+**De beroepsbeoefenaar dient te voldoen aan de regelgeving zoals opgenomen in de Verordening gedrags- en beroepsregels accountants (VGBA).** De hierin opgenomen regels stellen eisen aan de accountant ten aanzien van:
+
+**13**
+
+Bij het verlenen van transactiegerelateerde adviesdiensten vertegenwoordigt de beroepsbeoefenaar het bijzondere belang van de cliënt tenzij het tegendeel uitdrukkelijk wordt vermeld. Ondanks het vertegenwoordigen van een bijzonder belang blijft de eis van objectiviteit (Zie [artikel 11 VGBA](https://wetten.overheid.nl/jci1.3:c:BWBR0034635&artikel=11)) onverkort van kracht.
+
+**14**
+
+Het bijzondere belang van een verkrijgende partij (koper, financier) is tegengesteld aan het belang van de aandeelhouders van de doelonderneming (‘target’). Als gevolg van reeds eerder of simultaan door de beroepsbeoefenaar in opdracht van target uitgevoerde werkzaamheden kan met betrekking tot de beroepsbeoefenaar belast met de transactiegerelateerde dienstverlening ten behoeve van koper, de schijn van beperking van de onafhankelijkheid ontstaan: ‘conflicterend belang’. Het verlenen van transactiegerelateerde adviesdiensten is in de situatie van schijn van conflicterende belangen alleen toegestaan met instemming van betrokken partijen. Indien deze instemming wordt verkregen, overweegt de beroepsbeoefenaar de toepassing van de waarborgen in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0034635&artikel=16).
+
+**15**
+
+Indien meerdere partijen afzonderlijk een potentiële verkrijging van de doelonderneming (‘target’) overwegen bestaat tussen de potentiële verkrijgende partijen onderling een concurrerend belang.
+
+Indien de beroepsbeoefenaar meerdere cliënten vertegenwoordigt, die een concurrerend belang hebben, draagt de beroepsbeoefenaar zorg voor adequate waarborgen om de bedreigingen daarvan tot een aanvaardbaar niveau terug te brengen. Deze bestaan ten minste uit:
+
+**16**
+
+De beroepsbeoefenaar overweegt de noodzaak van toepassing van onder andere de volgende nadere waarborgen:
+
+**17**
+
+**De beroepsbeoefenaar dient met de opdrachtgever overeenstemming te bereiken over de doelstelling van de te verrichten werkzaamheden en de opdrachtvoorwaarden.** Veelal bestaat vooraf onduidelijkheid ten aanzien van de aard, detaillering en kwaliteit van de ter beschikking gestelde informatie. De omschrijving van de uit te voeren adviesdiensten kan derhalve globaal van aard zijn.
+
+**18**
+
+**De overeenstemming dient schriftelijk te worden vastgelegd.** Het is in het belang zowel van de opdrachtgever als van de beroepsbeoefenaar dat de beroepsbeoefenaar de opdrachtgever een bevestiging met de belangrijkste voorwaarden van de opdracht doet toekomen. De opdrachtbevestiging beoogt misverstanden te voorkomen over de doelstelling en de reikwijdte van de opdracht, de omvang van de verantwoordelijkheid van de beroepsbeoefenaar en de wijze van rapportering.
+
+**19**
+
+**De onderwerpen die in de opdrachtbevestiging worden opgenomen dienen minimaal de volgende elementen te bevatten:**
+
+**20**
+
+Gedurende de dienstverlening of op grond van de resultaten daarvan kan de opdrachtgever verzoeken om aanvullende informatie of ondersteuning. **Belangrijke veranderingen in de oorspronkelijke aard en omvang van de opdracht gedurende het onderzoek dienen schriftelijk te worden vastgelegd in een gewijzigde of aanvullende opdrachtbevestiging of in de rapportage.** Het is aan de opdrachtgever en andere gebruikers (Zie Par. 27) om de toereikendheid van de overeengekomen werkzaamheden te beoordelen.
+
+**21**
+
+De **beroepsbeoefenaar dient de adviesdiensten zodanig te plannen dat de opdracht effectief wordt uitgevoerd.**
+
+**22**
+
+**De beroepsbeoefenaar dient datgene vast te leggen wat van belang is om aan te tonen dat de opdracht is verricht in overeenstemming met deze Standaard en met de voorwaarden van de opdracht.**
+
+**23**
+
+De inhoud van het (eventuele) rapport en alle over de dienstverlening gevoerde correspondentie vormen een wezenlijk onderdeel van de vastlegging van de werkzaamheden.
+
+**24**
+
+Het dossier wordt zodanig opgebouwd dat een beroepsbeoefenaar met ervaring op het gebied van transactiegerelateerde dienstverlening, die niet bij de opdracht betrokken is geweest, de zorgvuldigheid van de uitvoering van de adviesopdracht kan beoordelen. Adviezen gebaseerd op ervaring met transacties, kennis van relevante markten en risicofactoren in het algemeen behoeven geen gedetailleerde documentatie.
+
+**25**
+
+De beroepsbeoefenaar voert de overeengekomen werkzaamheden uit rekening houdend met eventuele aanpassingen conform paragraaf 20.
+
+De beroepsbeoefenaar licht de cliënt tijdig in indien uitvoering van deze werkzaamheden niet mogelijk blijkt.
+
+De beroepsbeoefenaar voert op basis van zijn kennis en ervaring, waar mogelijk in overleg met de opdrachtgever, die werkzaamheden uit die naar zijn oordeel het door de opdrachtgever met de opdracht beoogde doel op effectieve wijze benaderen.
+
+**26**
+
+Gedurende de uitvoering van een adviesopdracht kan de beroepsbeoefenaar zowel schriftelijk als mondeling rapporteren en adviseren. De samenvatting van mondelinge adviezen worden in het dossier vastgelegd. Met name bij transacties waarvan het niet waarschijnlijk is dat die succesvol worden afgerond kan, in overleg met de opdrachtgever, worden besloten schriftelijke rapportages achterwege te laten. Ook lenen bepaalde vormen van adviesdiensten, zoals het opzetten van een dataroom, zich niet voor schriftelijke rapportages. **Voordat schriftelijk wordt gerapporteerd, dient een geaccordeerde opdrachtbevestiging van de opdrachtgever te zijn ontvangen.**
+
+**27**
+
+**Bij de schriftelijke rapportage dient de beroepsbeoefenaar de rapportage inzake een adviesopdracht op duidelijke wijze te onderscheiden van een assurance-rapport.** Om gebruikers niet in verwarring te brengen zal in een rapport dat geen assurance-rapport is bijvoorbeeld worden vermeden:
+
+**28**
+
+**Teneinde de gebruikers in staat te stellen de aard en omvang van de uitgevoerde adviesdiensten te beoordelen, dient, ingeval een schriftelijk rapport wordt uitgebracht, dit rapport mede te bevatten:**
+
+**29**
+
+Het is de verantwoordelijkheid van de geautoriseerde gebruikers om te beoordelen of de uitgevoerde adviesdiensten in het perspectief van het geheel van hen ter beschikking staande informatie en hun risicoperceptie aan de door hen te stellen eisen voldoen en, indien gewenst, aanvullend onderzoek (te doen) uitvoeren. **De beroepsbeoefenaar dient zich te onthouden van een dergelijk oordeel.**
+
+**30**
+
+**Het is de beroepsbeoefenaar slechts toegestaan op verzoek van de opdrachtgever inzage in het rapport te verschaffen aan andere gebruikers, indien vooraf de voorwaarden voor inzage (waaronder in ieder geval begrepen een beperking van verdere verspreiding) met de opdrachtgever en met de andere gebruikers zijn overeengekomen en de gebruikers inzicht is gegeven in de omvang van de uitgevoerde adviesdiensten.**
+
+Relevant zijn afwijkingen die gevolgen hebben voor de NOW-subsidie. Als bij een gecombineerde opdracht bijvoorbeeld blijkt dat een afwijking in een NOW-verantwoordingsperiode vervolgens wordt opgeheven in een andere NOW-verantwoordingsperiode van de gecombineerde opdracht, dan wordt dit niet gezien als een relevante fout voor de subsidie. Dit hoeft daarom niet te leiden tot meer aanvullende werkzaamheden. (Zie Par. 27a en 28)
+
+Met uitzondering van Standaard 700 mogen de NV COS zoals deze golden op 31 december 2021 worden toegepast op opdrachten:
+
+Op een controle van een organisatie niet zijnde een organisatie van openbaar belang die betrekking heeft op een rapporteringsperiode die eindigt voor 15 december 2022 is de toepassing van paragraaf 29B van Standaard 700 niet verplicht.
+
+Op een controle die betrekking heeft op een rapporteringsperiode die eindigt voor 15 december 2022 is de toepassing van paragraaf 29A van Standaard 700 niet verplicht.
+
+De [NV COS](https://wetten.overheid.nl/jci1.3:c:BWBR0046309) zoals deze golden op 31 december 2022 mogen worden toegepast op opdrachten:
+
+Met uitzondering van [Standaard 4400N](onbekend) mogen de NV COS zoals deze golden op 31 december 2023 worden toegepast op opdrachten:
+
+[Standaard 4400N](onbekend) zoals deze luidde op 31 december 2023 is van toepassing op een opdracht:
+
+[Standaard 3850N](onbekend) zoals deze luidde op 24 april 2024 is van toepassing op een opdracht:
+
+De [NV COS](https://wetten.overheid.nl/jci1.3:c:BWBR0046309), zoals gepubliceerd in Staatscourant 2022, 32525 en [Standaard 4400](onbekend) zoals gepubliceerd in Staatscourant 2023, 32820 worden ingetrokken.
+
+Deze NV COS treden in werking op 1 januari 2024. Indien de Staatscourant waarin deze NV COS bekend worden gemaakt, verschijnt na 1 januari 2024, treden deze NV COS inwerking op de dag na publicatie in de Staatscourant.
+
+Deze nadere voorschriften worden aangehaald als: Nadere voorschriften controle- en overige Standaarden, bij afkorting NV COS.
+
+De voorzitter
 
 **A27**
 
@@ -25889,3 +25889,35 @@ Deze NV COS treden in werking op 1 januari 2024. Indien de Staatscourant waarin 
 Deze nadere voorschriften worden aangehaald als: Nadere voorschriften controle- en overige Standaarden, bij afkorting NV COS.
 
 De voorzitter
+
+### 3900N. Accountantsopdracht bij de NOW-regelingen – Assurance
+
+**A11**
+
+### 3950N. Assurance-opdrachten inzake het voldoen aan de criteria voor het opstellen van een digitaal verantwoordingsdocument
+
+**A39**
+
+### 4000–4699. Aan assurance verwante opdrachten
+
+### 4400. Opdrachten tot het verrichten van overeengekomen specifieke werkzaamheden
+
+### 4410. Samenstellingsopdrachten
+
+Voor doorlopende samenstellingsopdrachten dient de accountant te evalueren of omstandigheden, waaronder veranderingen in de oordeelsvormingen van de accountantseenheid over een cliëntrelatie of de opdracht, vereisen dat de opdrachtvoorwaarden moeten worden herzien. Ook evalueert de accountant of het nodig is om het management te herinneren aan de bestaande opdrachtvoorwaarden. (Zie Par. A45)
+
+**27**
+
+**A66**
+
+### 4415N. Accountantsopdracht bij de NOW-regelingen – Aan assurance verwant
+
+### 4416N. Aan assurance verwante opdracht bij een Covid-19 gerelateerde subsidieregeling
+
+Voor de definities en begrippen uit de regeling wordt verwezen naar de subsidieregeling (inclusief de toelichting).
+
+### 5000–5699. Overige opdrachten
+
+### 5500N. Transactiegerelateerde adviesdiensten
+
+### Slotbepalingen NV COS
