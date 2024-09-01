@@ -4,7 +4,7 @@ identifier: "BWBR0035791"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-24"
-last_updated: "2024-02-01"
+last_updated: "2024-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035791"
 soort: "ministeriele-regeling"
@@ -300,7 +300,7 @@ Een evenement is in principe kortdurend en vindt doorgaans lokaal plaats. Hierbi
 
 ### 8.6. Buitengewone omstandigheden
 
-Evenementenomroep (in de FM band) is geregeld door middel van voetnoot HOL003.
+Evenementenomroep is geregeld door middel van voetnoot HOL003.
 
 ### 8.5. Testinstellingen
 
@@ -448,11 +448,11 @@ A passive radiocommunication service in which space crafts or other objects in s
 
 Hieronder treft u de lijst van alle ITU-voetnoten met daarbij de betekenis uit de ITU Radio Regulations.
 
-The following ITU footnotes are relevant for the Dutch Frequency Plan. These footnotes are taken from Article 5 of the Radio Regulations, as amended at WRC-07 and WRC-12. Additional information can be obtained from the ITU ([http://www.itu.int/pub/R-REG-RR/en](onbekend))
+The following ITU footnotes are relevant for the Dutch Frequency Plan. These footnotes are taken from Article 5 of the Radio Regulations, as amended at WRC-07 and WRC-12. Additional information can be obtained from the ITU ([http://www.itu.int/pub/R-REG-RR/en](http://www.itu.int/pub/R-REG-RR/en))
 
 Bij een NFP-bestemming is in een band een ITU-voetnoot vermeld indien:
 
-De Radio Regulations zijn gratis beschikbaar en te downloaden op de ITU-site: ([http://www.itu.int/pub/R-REG-RR/en](onbekend))
+De Radio Regulations zijn gratis beschikbaar en te downloaden op de ITU-site: ([http://www.itu.int/pub/R-REG-RR/en](http://www.itu.int/pub/R-REG-RR/en))
 
 **5.1** In all documents of the Union where the terms **allocation**, **allotment** and **assignment** are to be used, they shall have the meaning given them in Nos. **1.16** to **1.18**, the terms used in the six working languages being as follows:
 
@@ -1572,7 +1572,7 @@ In buitengewone omstandigheden – dat wil zeggen bij grote rampen, in tijden va
 
 ### 9. korte handleiding voor interpretatie van de frequentietabel
 
-Het is gebruikelijk dat deze testen worden uitgevoerd in een speciaal aangepaste afgeschermde ruimte. Buiten deze ruimte is niets meer van het signaal te merken en interferenties of verstoringen kunnen hier bij niet optreden. Het is echter niet mogelijk om apparatuur die vast is geïnstalleerd of die te groot is, in een afgeschermde ruimte te testen. Voor deze testen moeten dus frequenties worden gebruikt waarvoor in beginsel een vergunning vereist is. Het gaat naar verwachting slechts om enkele vergunningen per jaar, met name ten behoeve van zogenaamde Notified Bodies die zijn aangemeld onder de EMC-richtlijn ([RICHTLIJN 2014/30/EU](onbekend) VAN HET EUROPEES PARLEMENT EN DE RAAD van 26 februari 2014 betreffende de harmonisatie van de wetgevingen van de lidstaten inzake elektromagnetische compatibiliteit (herschikking), Pb EU L 96/79 van 29.3.2014) of door de Raad van Accreditatie voor EMC geaccrediteerde testinstellingen. Deze vergunningen zullen naar verwachting worden verleend voor een periode van 5 jaar. In een enkel geval zal ook aan een ander een vergunning kunnen worden afgegeven voor de duur van de test, meestal voor een korte periode en hooguit een paar dagen. In de vergunningsvoorschriften zal worden opgenomen dat geen ontoelaatbare storingen of belemmeringen mogen worden veroorzaakt.
+Het is gebruikelijk dat deze testen worden uitgevoerd in een speciaal aangepaste afgeschermde ruimte. Buiten deze ruimte is niets meer van het signaal te merken en interferenties of verstoringen kunnen hier bij niet optreden. Het is echter niet mogelijk om apparatuur die vast is geïnstalleerd of die te groot is, in een afgeschermde ruimte te testen. Voor deze testen moeten dus frequenties worden gebruikt waarvoor in beginsel een vergunning vereist is. Het gaat naar verwachting slechts om enkele vergunningen per jaar, met name ten behoeve van zogenaamde Notified Bodies die zijn aangemeld onder de EMC-richtlijn ([RICHTLIJN 2014/30/EU](https://eur-lex.europa.eu/legal-content/NL/TXT/PDF/?uri=CELEX:32014L0030&from=RO) VAN HET EUROPEES PARLEMENT EN DE RAAD van 26 februari 2014 betreffende de harmonisatie van de wetgevingen van de lidstaten inzake elektromagnetische compatibiliteit (herschikking), Pb EU L 96/79 van 29.3.2014) of door de Raad van Accreditatie voor EMC geaccrediteerde testinstellingen. Deze vergunningen zullen naar verwachting worden verleend voor een periode van 5 jaar. In een enkel geval zal ook aan een ander een vergunning kunnen worden afgegeven voor de duur van de test, meestal voor een korte periode en hooguit een paar dagen. In de vergunningsvoorschriften zal worden opgenomen dat geen ontoelaatbare storingen of belemmeringen mogen worden veroorzaakt.
 
 ### 8.6. Buitengewone omstandigheden
 
@@ -2532,7 +2532,7 @@ Onder strikte voorwaarden medegebruik door SRD voor inductieve systemen op Non I
 
 Is vervallen m.i.v. NFP2014.
 
-De volgende frequentieblokken, met uitzondering waar deze frequentieblokken in de gearceerde/ingekleurde dekkingsgebieden in tabel en afbeelding in nationale voetnoot HOL007B zijn opgenomen, vormen onderwerp van studie:
+Vervallen.
 
 Omroep als bedoeld in [artikel 6.9 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=6.9) ten behoeve van een evenement of bedrijfsondersteunende dienst met een zendbereik dat beperkt is tot de locatie waarop het evenement plaatsvindt dan wel de locatie waarop het bedrijf zijn activiteiten uitoefent.
 
@@ -2552,15 +2552,7 @@ Vervallen.
 
 Vervallen.
 
-Tot en met 31 augustus 2024 zijn de frequentieblokken in de onderstaande tabel en afbeelding bestemd voor digitale radio-omroep.
-
-1 De frequentieblokken 6B en 8A zijn vanaf 1 september 2022 beschikbaar voor digitale radio in laag 6.
-
-2 De frequentieblokken 6C en 8D zijn van 1 juni 2022 tot 1 september 2022 tijdelijk bestemd voor digitale radio in laag 6.
-
-Naar aanleiding van de internationale coördinatie is het mogelijk dat voor een aantal ingekleurde geografische gebieden in de bovenstaande tabel de kanaalnummers van het frequentieblok gewijzigd worden.
-
-In afwijking van hetgeen voor commerciële omroep in de kolom ‘Verdeelmechanisme’ van de in hoofdstuk 10 opgenomen Frequentietabel wordt bepaald, worden de in de ingekleurde geografische gebieden genoemde frequentieblokken ten behoeve van de tijdelijke verdeling op volgorde van binnenkomst verleend.
+Vervallen.
 
 Vervallen.
 
@@ -2580,15 +2572,15 @@ Bestemming voor GNSS-repeaters voor de hoofdcategorie zakelijk gebruik is ingepe
 
 tot bedrijven die GNSS toepassingen ontwerpen, testen, inbouwen of onderhouden.
 
-### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
+CGC’s dienen integraal onderdeel uit te maken van een satellietsysteem en dienen onder controle te staan van het satellietcapaciteits- en netwerkbeheersmechanisme.
 
 De band van 24,25 GHz tot 26,65 GHz is op NIB-basis mede bestemd voor kortbereikradarapparatuur in motorvoertuigen voor zover typegoedkeuring van het voertuig voor 1 januari 2018 is verleend. Zie verder [Regeling gebruik van frequentieruimte zonder vergunning en zonder meldingsplicht 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036378).
 
 Het verdeelmechanisme voor commerciële telecommunicatiedienstverlening aan derden is verdeling op afroep. Het betreft de gebruiksrechten op de banddelen 453,26875 – 454,76875 MHz 463,26875 – 464,76875 MHz en vanaf 1 juli 2035 ook de banddelen 451,76875 – 453,26875 MHz en 461,76875 – 463,26875 MHz.
 
-Verklaring van in de Nationale Frequentietabel gebruikte afkortingen en begrippen, anders dan ITU diensten25Uitleg over de begrippen kan ook worden gevonden op www.telecomabc.nl en tevens in het Nationaal Frequentieregister (NFR), zie http://www.agentschaptelecom.nl/onderwerpen/frequentiemanagement/nationaal-frequentieregister. / **Explanation of abbreviations and notions as used in the frequency table, other than ITU radio services.**
+tot bedrijven die GNSS toepassingen ontwerpen, testen, inbouwen of onderhouden.
 
-Verklaring van in de Nationale Frequentietabel gebruikte afkortingen en begrippen, anders dan ITU diensten25Uitleg over de begrippen kan ook worden gevonden op www.telecomabc.nl en tevens in het Nationaal Frequentieregister (NFR), zie http://www.agentschaptelecom.nl/onderwerpen/frequentiemanagement/nationaal-frequentieregister. / **Explanation of abbreviations and notions as used in the frequency table, other than ITU radio services.**
+### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
 
 **AIS –**Automatic Identification System
 
@@ -2788,15 +2780,15 @@ Vaste verbindingen worden ook wel straalverbindingen genoemd. Hierbij wordt gebr
 
 **VOR** – **VHF Omnidirectional Radio range** / Navigatiesysteem voor de luchtvaart.
 
-### Annex 5, Summary of this Dutch Frequency Plan
+**VSAT**
 
 **Very small aperture terminal.**Een klein satellietgrondstation, vaak draagbaar, op een vaste plaats of verplaatsbaar, dat draadloos in verbinding staat met een communicatiesatelliet.
 
 **WRC –** **World Radio Conference**
 
-This Dutch frequency plan, edition 2014 (NFP2014) is a fully revised decree document of the last National Frequency Plan, edition 2005 (NFP2005). More limited changes of the frequency table have been published, on an average half-yearly basis, as interim changes since the NFP2005.
+**VOR** – **VHF Omnidirectional Radio range** / Navigatiesysteem voor de luchtvaart.
 
-This Dutch frequency plan, edition 2014 (NFP2014) is a fully revised decree document of the last National Frequency Plan, edition 2005 (NFP2005). More limited changes of the frequency table have been published, on an average half-yearly basis, as interim changes since the NFP2005.
+### Annex 5, Summary of this Dutch Frequency Plan
 
 The main part of this decree is the frequency table (chapter 10). It contains an overview of present allocations, assignments and designations in the Netherlands. The chapters preceding the table provide an introduction, an explanation and background.
 
@@ -2856,13 +2848,21 @@ Postbus 20401
 
 2500 EK Den Haag
 
+Telefoon (070) 379 89 11
+
+Internet http://www.rijksoverheid.nl/frequentiebeleid
+
+Email: frequenties@minez.nl
+
+2500 EK Den Haag
+
 Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
 
-CGC’s dienen integraal onderdeel uit te maken van een satellietsysteem en dienen onder controle te staan van het satellietcapaciteits- en netwerkbeheersmechanisme.
+Verklaring van in de Nationale Frequentietabel gebruikte afkortingen en begrippen, anders dan ITU diensten25Uitleg over de begrippen kan ook worden gevonden op www.telecomabc.nl en tevens in het Nationaal Frequentieregister (NFR), zie http://www.agentschaptelecom.nl/onderwerpen/frequentiemanagement/nationaal-frequentieregister. / **Explanation of abbreviations and notions as used in the frequency table, other than ITU radio services.**
 
 ### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
 
-**VSAT**
+This Dutch frequency plan, edition 2014 (NFP2014) is a fully revised decree document of the last National Frequency Plan, edition 2005 (NFP2005). More limited changes of the frequency table have been published, on an average half-yearly basis, as interim changes since the NFP2005.
 
 ### Annex 5, Summary of this Dutch Frequency Plan
 
@@ -2883,5 +2883,11 @@ Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrok
 ### Annex 5, Summary of this Dutch Frequency Plan
 
 Email: frequenties@minez.nl
+
+Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
+
+### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
+
+### Annex 5, Summary of this Dutch Frequency Plan
 
 Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
