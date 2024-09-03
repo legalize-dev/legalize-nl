@@ -4,7 +4,7 @@ identifier: "BWBR0012681"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-08"
-last_updated: "2023-12-02"
+last_updated: "2024-09-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012681"
 soort: "ministeriele-regeling"
@@ -168,6 +168,8 @@ Als gespen behorende bij de Herinneringsmedaille Internationale Missies worden i
 
 - 11°. de operatie NATO Mission Iraq ‘NMI’, voor zover deelname heeft plaatsgehad in Irak vanaf 15 juni 2018: NAVO OPERATIES;
 
+- 12°. de Very High Readiness Joint Task Force (Maritime) ‘VJTF(M)’ voor zover de deelname heeft plaatsgevonden in de zeegebieden van Europa, waarbij wordt afgeweken van de eis dat de inzet een aaneengesloten periode betreft, vanaf 24 februari 2022;
+
 - ee. voor deelname aan operaties van de Europese Unie:
 
 - 1°. de EU politiemissie ‘EUPOL-Kinshasa’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de Democratische Republiek Congo vanaf maart 2005;
@@ -218,6 +220,8 @@ Als gespen behorende bij de Herinneringsmedaille Internationale Missies worden i
 
 - 24°. de EU missie ‘EUAM Irak’, voor zover deze deelname heeft plaatsgehad in Irak, vanaf 18 december 2018: EU-OPERATIES;
 
+- 25°. de EU-operatie ‘EUNAVFOR ASPIDES’ voor zover deze deelname heeft plaatsgehad in de zeegebieden van de Rode Zee, Golf van Aden en de Westelijke Indische Oceaan ten noorden van 5 graden Noorderbreedte, van 29 april 2024 tot 23 augustus 2024;
+
 - ff. voor deelname aan operaties van de Organisatie voor Veiligheid en Samenwerking in Europa:
 
 - 1°. de OVSE missie Kosovo Police Service School vanaf september 2001;
@@ -255,6 +259,10 @@ Als gespen behorende bij de Herinneringsmedaille Internationale Missies worden i
 - 13°. de missie Combined Air Operations Center ‘CAOC’, voor zover deze deelname heeft plaatsgehad in Qatar, vanaf 1 december 2020;
 
 - 14°. het Joint Operations Command Advisory Team ‘(J)OCAT’, voor zover deze deelname heeft plaatsgehad in Irak, vanaf 1 januari 2021: MULTINATIONALE OPERATIES;
+
+- 15°. Combined Maritime Forces (CMF) te Bahrein ‘CMF’ voor zover deze deelname heeft plaatsgehad te Bahrein vanaf 1 januari 2022;
+
+- 16°. de missie PACIFIC ARCHER 2024 voor zover deze deelname heeft plaatsgehad in de Rode Zee, Golf van Aden en de Westelijke Indische Oceaan ten noorden van 5 graden Noorderbreedte van 26 maart 2024 tot 26 april 2024 of in de Zuid-Chinese Zee en de Straat van Taiwan in de periode van 12 mei tot en met 9 juni 2024, waarbij wordt afgeweken van de eis dat de inzet een aaneengesloten periode betreft;
 
 - hh. voor deelname aan SSR operaties van Nederland:
 
