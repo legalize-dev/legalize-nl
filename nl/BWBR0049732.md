@@ -4,7 +4,7 @@ identifier: "BWBR0049732"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-29"
-last_updated: "2024-04-22"
+last_updated: "2024-09-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049732"
 soort: "ministeriele-regeling"
@@ -70,7 +70,7 @@ Het beheer van de bescheiden betreffende de werkzaamheden van de speciaal gezant
 
 ##### Artikel 7
 
-Aan de speciaal gezant wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op het maximum van schaal 18 van paragraaf 6.3 van de CAO Rijk en de arbeidsduurfactor op 0,555.
+Van 1 september 2024 tot en met 20 december 2024 wordt aan de speciaal gezant nationaal versterkingsplan van microchip-talent een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18 van paragraaf 6.3 van de CAO Rijk en de arbeidsduurfactor op 0,222.
 
 ##### Artikel 8
 
