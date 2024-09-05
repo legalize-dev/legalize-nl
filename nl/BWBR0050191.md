@@ -4,7 +4,7 @@ identifier: "BWBR0050191"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-12-25"
-last_updated: "2024-09-01"
+last_updated: "2024-09-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050191"
 soort: "ministeriele-regeling"
@@ -68,7 +68,7 @@ De datum van inwerkingtreding in de publicatie ligt voor de datum van uitgifte.
 
 - d. Unit Bedrijfsvoering.
 
-2. Elke eenheid bestaat uit een aantal afdelingen; elke afdeling kan uit een of meer teams bestaan. De indeling is vermeld in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050191&bijlage=1&z=2024-09-05&g=2024-09-01).
+2. Elke eenheid bestaat uit een aantal afdelingen; elke afdeling kan uit een of meer teams bestaan. De indeling is vermeld in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050191&bijlage=1&z=2024-09-05&g=2024-09-05).
 
 3. De afdelingen worden geleid door een **afdelingshoofd** (functietitel: afdelingsmanager); de teams worden geleid door een **teamleider** (functietitel: teammanager). Enkele teams hebben geen teamleider, maar worden direct door het afdelingshoofd aangestuurd.
 
@@ -106,7 +106,7 @@ De lijst met bestelgemachtigden wordt bijgehouden in het financiële of inkoopsy
 
 ##### Artikel 6. Verkoopmandaat
 
-1. Voor het nemen van besluiten tot het aangaan van verbintenissen tot het leveren van bestaande diensten door RvIHH aan bestaande klanten en het ondertekenen van desbetreffende stukken heeft, binnen de grenzen van het financiële mandaat, ondermandaat: de manager van de in [artikel 2 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050191&artikel=2&z=2024-09-05&g=2024-09-01) genoemde organisatie-eenheden en de daarbinnen opererende afdelingshoofden en teammanagers voor wat betreft de eigen organisatie-eenheid.
+1. Voor het nemen van besluiten tot het aangaan van verbintenissen tot het leveren van bestaande diensten door RvIHH aan bestaande klanten en het ondertekenen van desbetreffende stukken heeft, binnen de grenzen van het financiële mandaat, ondermandaat: de manager van de in [artikel 2 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050191&artikel=2&z=2024-09-05&g=2024-09-05) genoemde organisatie-eenheden en de daarbinnen opererende afdelingshoofden en teammanagers voor wat betreft de eigen organisatie-eenheid.
 
 2. Nieuwe dienstverleningsafspraken boven de € 5 miljoen worden voorgelegd aan de (plaatsvervangend) directeur-generaal VBR en boven de € 10 miljoen aan de secretaris-generaal.
 
