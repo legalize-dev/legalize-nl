@@ -4,7 +4,7 @@ identifier: "BWBR0048350"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-22"
-last_updated: "2024-07-01"
+last_updated: "2024-09-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048350"
 soort: "ministeriele-regeling"
@@ -112,7 +112,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3.1
 
-1. De Minister kan een vergoeding als bedoeld in [artikel 13ia, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13ia) verstrekken, indien de eigenaar en de opdrachtnemer de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&bijlage=1&z=2024-07-01&g=2024-07-01) opgenomen modelbepalingen beoordelingsfase hebben overgenomen in hun overeenkomst.
+1. De Minister kan een vergoeding als bedoeld in [artikel 13ia, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13ia) verstrekken, indien de eigenaar en de opdrachtnemer de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&bijlage=1&z=2024-09-05&g=2024-09-05) opgenomen modelbepalingen beoordelingsfase hebben overgenomen in hun overeenkomst.
 
 2. De Minister betaalt de vergoeding aan de opdrachtnemer die de kosten in rekening brengt bij de eigenaar op basis van door de eigenaar aan de Minister overgelegde facturen of andere bewijsstukken of aan de eigenaar voor die kosten die de eigenaar al heeft voldaan aan de opdrachtnemer.
 
@@ -120,7 +120,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3.2
 
-De opdrachtnemer, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=3&artikel=3.1&z=2024-07-01&g=2024-07-01), heeft blijkens een opgave van referentieprojecten aantoonbare ervaring met het uitvoeren van seismische en constructieve berekeningen van gebouwen overeenkomstig de krachtens [artikel 13h van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13h) gestelde regels over de beoordeling van gebouwen en beschikt over een ISO 9001:2015 of daarmee vergelijkbaar certificaat.
+De opdrachtnemer, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=3&artikel=3.1&z=2024-09-05&g=2024-09-05), heeft blijkens een opgave van referentieprojecten aantoonbare ervaring met het uitvoeren van seismische en constructieve berekeningen van gebouwen overeenkomstig de krachtens [artikel 13h van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13h) gestelde regels over de beoordeling van gebouwen en beschikt over een ISO 9001:2015 of daarmee vergelijkbaar certificaat.
 
 ##### Artikel 3.3
 
@@ -136,7 +136,7 @@ De opdrachtnemer, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:B
 
 4. Indien de eigenaar een projectmatige aanpak toepast, kunnen de standaardbedragen en de offertes of bewijsstukken betrekking hebben op meerdere gebouwen binnen het project.
 
-5. Op het tweede lid zijn de [artikelen 8a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.1&z=2024-07-01&g=2024-07-01), [8a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.2&z=2024-07-01&g=2024-07-01), [8a.4](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.4&z=2024-07-01&g=2024-07-01) en [8a.5](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.5&z=2024-07-01&g=2024-07-01) van overeenkomstige toepassing, met dien verstande dat waar in de genoemde artikelen wordt gesproken over ‘het Instituut of de Minister’ dit gelezen moet worden als ‘de Minister’, dat in artikel 8a.4, eerste lid, voor ‘[artikel 8a.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.3&z=2024-07-01&g=2024-07-01)’ gelezen moet worden ‘artikel 3.3, tweede lid’ en dat in artikel 8a.5, eerste lid, voor ‘artikel 8a.3’ gelezen moet worden ‘artikel 3.3, tweede lid’.
+5. Op het tweede lid zijn de [artikelen 8a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.1&z=2024-09-05&g=2024-09-05), [8a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.2&z=2024-09-05&g=2024-09-05), [8a.4](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.4&z=2024-09-05&g=2024-09-05) en [8a.5](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.5&z=2024-09-05&g=2024-09-05) van overeenkomstige toepassing, met dien verstande dat waar in de genoemde artikelen wordt gesproken over ‘het Instituut of de Minister’ dit gelezen moet worden als ‘de Minister’, dat in artikel 8a.4, eerste lid, voor ‘[artikel 8a.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.3&z=2024-09-05&g=2024-09-05)’ gelezen moet worden ‘artikel 3.3, tweede lid’ en dat in artikel 8a.5, eerste lid, voor ‘artikel 8a.3’ gelezen moet worden ‘artikel 3.3, tweede lid’.
 
 ##### Artikel 3.4
 
@@ -148,7 +148,7 @@ De opdrachtnemer, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:B
 
 ##### Artikel 4.1
 
-1. De Minister kan een vergoeding als bedoeld in [artikel 13ib, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13ib) verstrekken indien de eigenaar en de opdrachtnemer de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&bijlage=1&z=2024-07-01&g=2024-07-01) opgenomen modelbepalingen ontwerpfase hebben overgenomen in hun overeenkomst.
+1. De Minister kan een vergoeding als bedoeld in [artikel 13ib, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13ib) verstrekken indien de eigenaar en de opdrachtnemer de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&bijlage=1&z=2024-09-05&g=2024-09-05) opgenomen modelbepalingen ontwerpfase hebben overgenomen in hun overeenkomst.
 
 2. Indien de eigenaar een toegelaten instelling is, is hij vrijgesteld van het gebruik van de modelbepalingen ontwerpfase.
 
@@ -174,7 +174,7 @@ De opdrachtnemer, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:B
 
 - d. andere kosten waarvan de Minister op verzoek van de eigenaar voorafgaand aan het maken van die kosten heeft geoordeeld dat deze noodzakelijk zijn voor de voorbereiding van de versterkingsmaatregelen.
 
-2. Op het eerste lid, onderdeel c, zijn de [artikelen 8a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.1&z=2024-07-01&g=2024-07-01), [8a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.2&z=2024-07-01&g=2024-07-01), [8a.4](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.4&z=2024-07-01&g=2024-07-01) en [8a.5](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.5&z=2024-07-01&g=2024-07-01) van overeenkomstige toepassing, met dien verstande dat waar in de genoemde artikelen wordt gesproken over ‘het Instituut of de Minister’ dit gelezen moet worden als ‘de Minister’, dat in artikel 8a.4, eerste lid, voor ‘[artikel 8a.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.3&z=2024-07-01&g=2024-07-01)’ gelezen moet worden ‘artikel 4.2, onderdeel c’ en dat in artikel 8a.5, eerste lid, voor ‘artikel 8a.3’ gelezen moet worden ‘artikel 4.2, onderdeel c’.
+2. Op het eerste lid, onderdeel c, zijn de [artikelen 8a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.1&z=2024-09-05&g=2024-09-05), [8a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.2&z=2024-09-05&g=2024-09-05), [8a.4](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.4&z=2024-09-05&g=2024-09-05) en [8a.5](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.5&z=2024-09-05&g=2024-09-05) van overeenkomstige toepassing, met dien verstande dat waar in de genoemde artikelen wordt gesproken over ‘het Instituut of de Minister’ dit gelezen moet worden als ‘de Minister’, dat in artikel 8a.4, eerste lid, voor ‘[artikel 8a.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.3&z=2024-09-05&g=2024-09-05)’ gelezen moet worden ‘artikel 4.2, onderdeel c’ en dat in artikel 8a.5, eerste lid, voor ‘artikel 8a.3’ gelezen moet worden ‘artikel 4.2, onderdeel c’.
 
 ##### Artikel 4.3
 
@@ -194,7 +194,7 @@ De opdrachtnemer, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:B
 
 ##### Artikel 5.1
 
-1. De Minister kan een budget als bedoeld in [artikel 10g, eerste lid, onderdeel b, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&artikel=10g), verstrekken indien de eigenaar en de opdrachtnemer de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&bijlage=1&z=2024-07-01&g=2024-07-01) opgenomen modelbepalingen uitvoeringsfase hebben overgenomen in hun overeenkomst.
+1. De Minister kan een budget als bedoeld in [artikel 10g, eerste lid, onderdeel b, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&artikel=10g), verstrekken indien de eigenaar en de opdrachtnemer de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&bijlage=1&z=2024-09-05&g=2024-09-05) opgenomen modelbepalingen uitvoeringsfase hebben overgenomen in hun overeenkomst.
 
 2. Indien de eigenaar een toegelaten instelling is, is hij vrijgesteld van het gebruik van de modelbepalingen uitvoeringsfase.
 
@@ -224,13 +224,13 @@ De opdrachtnemer, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:B
 
 6. Indien de eigenaar, niet zijnde een toegelaten instelling, bij het in eigen beheer uitvoeren van de versterkingsmaatregelen een bouwkundig of financieel adviseur inschakelt omvat het budget ook een vergoeding in de vorm van een aanspraak voor die inschakeling ter hoogte van € 2.055 berekend op basis van 15 arbeidsuren tegen een uurtarief van € 137.
 
-7. Op het zesde lid zijn de [artikelen 8a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.1&z=2024-07-01&g=2024-07-01), [8a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.2&z=2024-07-01&g=2024-07-01), [8a.4](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.4&z=2024-07-01&g=2024-07-01) en [8a.5](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.5&z=2024-07-01&g=2024-07-01) van overeenkomstige toepassing, met dien verstande dat waar in de genoemde artikelen wordt gesproken over ‘het Instituut of de Minister’ dit gelezen moet worden als ‘de Minister’, dat in artikel 8a.4, eerste lid, voor ‘[artikel 8a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.3&z=2024-07-01&g=2024-07-01)’ gelezen moet worden ‘artikel 5.2, zesde lid’ en dat in artikel 8a.5, eerste lid, voor ‘artikel 8a.3’ gelezen moet worden ‘artikel 5.2, zesde lid’.
+7. Op het zesde lid zijn de [artikelen 8a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.1&z=2024-09-05&g=2024-09-05), [8a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.2&z=2024-09-05&g=2024-09-05), [8a.4](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.4&z=2024-09-05&g=2024-09-05) en [8a.5](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.5&z=2024-09-05&g=2024-09-05) van overeenkomstige toepassing, met dien verstande dat waar in de genoemde artikelen wordt gesproken over ‘het Instituut of de Minister’ dit gelezen moet worden als ‘de Minister’, dat in artikel 8a.4, eerste lid, voor ‘[artikel 8a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.3&z=2024-09-05&g=2024-09-05)’ gelezen moet worden ‘artikel 5.2, zesde lid’ en dat in artikel 8a.5, eerste lid, voor ‘artikel 8a.3’ gelezen moet worden ‘artikel 5.2, zesde lid’.
 
 ##### Artikel 5.3
 
 1. Het budget wordt vastgesteld op basis van door de eigenaar overgelegde offertes van derden of andere bewijsstukken, voor zover die offertes en bewijsstukken zijn gebaseerd op bedrijfseconomische grondslagen en normen die in het maatschappelijk verkeer als aanvaardbaar worden beschouwd.
 
-2. Indien het budget op een hoger bedrag is vastgesteld dan de door de Minister op basis van [artikel 5.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=5&artikel=5.1&z=2024-07-01&g=2024-07-01), betaalde kosten, vervalt de aanspraak van de eigenaar op het resterende bedrag van het budget.
+2. Indien het budget op een hoger bedrag is vastgesteld dan de door de Minister op basis van [artikel 5.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=5&artikel=5.1&z=2024-09-05&g=2024-09-05), betaalde kosten, vervalt de aanspraak van de eigenaar op het resterende bedrag van het budget.
 
 3. Indien de eigenaar een projectmatige aanpak toepast kunnen de op grond van het eerste lid overgelegde facturen of andere bewijsstukken betrekking hebben op meerdere gebouwen binnen het project.
 
@@ -252,7 +252,7 @@ De Minister kan bepalen dat het budget mag worden overschreden met een in het ve
 
 - a. een uitvoeringsontwerp, inclusief kostenraming;
 
-- b. een verklaring van de opdrachtnemer, bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=4&artikel=4.1&z=2024-07-01&g=2024-07-01), dat het gebouw na uitvoering van de maatregelen aan de veiligheidsnorm voldoet;
+- b. een verklaring van de opdrachtnemer, bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=4&artikel=4.1&z=2024-09-05&g=2024-09-05), dat het gebouw na uitvoering van de maatregelen aan de veiligheidsnorm voldoet;
 
 - c. een overdracht van zijn vordering tot vergoeding van schade op de exploitant ter zake van de kosten van de versterkingsmaatregelen, bedoeld in [artikel 13i, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13i);
 
@@ -272,7 +272,7 @@ De Minister kan bepalen dat het budget mag worden overschreden met een in het ve
 
 1. Een eigenaar komt in aanmerking voor vergoeding van de schade die optreedt ten gevolge van de uitvoering van de versterkingsmaatregelen als bedoeld in [artikel 10g, eerste lid, onderdeel c, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&artikel=10g) indien de schade op verzoek van de eigenaar niet door de Minister in natura wordt hersteld.
 
-2. Een rechtmatige gebruiker, niet zijnde de eigenaar, komt niet in aanmerking voor vergoeding van de schade die een direct gevolg is van de voorbereiding of uitvoering van de versterkingsmaatregelen als bedoeld in [artikel 13m, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13m) indien hij de rechtmatige gebruiker is van een gebouw van een toegelaten instelling.
+2. Een rechtmatige gebruiker, niet zijnde de eigenaar, komt niet in aanmerking voor vergoeding van de schade die een direct gevolg is van de voorbereiding of uitvoering van de versterkingsmaatregelen als bedoeld in [artikel 13m, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13m) indien hij de rechtmatige gebruiker is van een gebouw van een toegelaten instelling, tenzij de vergoeding betrekking heeft op compensatie voor ongemak, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&bijlage=2&z=2024-09-05&g=2024-09-05), tabel 2.2, eerste rij.
 
 3. Een rechtmatige gebruiker, niet zijnde de eigenaar, van een gebouw van een toegelaten instelling komt in aanmerking voor vergoeding van schade door het verlies van een voorziening die aard- en nagelvast verbonden is met dat gebouw of een bij dat gebouw behorende buitenruimte indien:
 
@@ -306,7 +306,7 @@ De Minister kan bepalen dat het budget mag worden overschreden met een in het ve
 
 ##### Artikel 7.2
 
-1. De vergoeding wordt vastgesteld op basis van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&bijlage=2&z=2024-07-01&g=2024-07-01) opgenomen standaardbedragen, de overgelegde offertes van derden of andere bewijsstukken, voor zover die offertes en bewijsstukken zijn gebaseerd op bedrijfseconomische grondslagen en normen die in het maatschappelijk verkeer als aanvaardbaar worden beschouwd, of door middel van het door de Minister gehanteerde rekenmodel.
+1. De vergoeding wordt vastgesteld op basis van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&bijlage=2&z=2024-09-05&g=2024-09-05) opgenomen standaardbedragen, de overgelegde offertes van derden of andere bewijsstukken, voor zover die offertes en bewijsstukken zijn gebaseerd op bedrijfseconomische grondslagen en normen die in het maatschappelijk verkeer als aanvaardbaar worden beschouwd, of door middel van het door de Minister gehanteerde rekenmodel.
 
 2. Indien de vergoeding niet overeenkomstig het eerste lid kan worden vastgesteld, stelt de Minister een onafhankelijk adviseur als bedoeld in [artikel 3:5, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:5) aan die een advies uitbrengt over de hoogte van de vergoeding.
 
@@ -320,7 +320,7 @@ De Minister kan bepalen dat het budget mag worden overschreden met een in het ve
 
 ##### Artikel 7.3
 
-Indien de schade, bedoeld in [artikel 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=7&artikel=7.1&z=2024-07-01&g=2024-07-01), niet kwantificeerbaar is op het tijdstip waarop het versterkingsbesluit genomen wordt, kan de Minister de hoogte van de vergoeding voor de schade opnemen in een apart besluit dat wordt genomen nadat het versterkingsbesluit is vastgesteld.
+Indien de schade, bedoeld in [artikel 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=7&artikel=7.1&z=2024-09-05&g=2024-09-05), niet kwantificeerbaar is op het tijdstip waarop het versterkingsbesluit genomen wordt, kan de Minister de hoogte van de vergoeding voor de schade opnemen in een apart besluit dat wordt genomen nadat het versterkingsbesluit is vastgesteld.
 
 ##### Artikel 7.4
 
@@ -364,11 +364,11 @@ Het tijdstip, bedoeld in [artikel 22b, vierde lid, van de wet](https://wetten.ov
 
 ##### Artikel 10.1
 
-De opname op locatie van een mogelijk aan een typologie toe te delen gebouw vindt plaats aan de hand van de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&bijlage=3&z=2024-07-01&g=2024-07-01) opgenomen checklist.
+De opname op locatie van een mogelijk aan een typologie toe te delen gebouw vindt plaats aan de hand van de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&bijlage=3&z=2024-09-05&g=2024-09-05) opgenomen checklist.
 
 ##### Artikel 10.2
 
-Als typologieën worden de in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&bijlage=4&z=2024-07-01&g=2024-07-01) opgenomen typologieën vastgesteld.
+Als typologieën worden de in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&bijlage=4&z=2024-09-05&g=2024-09-05) opgenomen typologieën vastgesteld.
 
 ##### Artikel 10.3
 
@@ -390,29 +390,29 @@ Een gebouw wordt niet toegedeeld aan een typologie als bedoeld in [artikel 10f, 
 
 ##### Artikel 10.4
 
-De beoordeling van een aan een typologie toegedeeld gebouw aan de hand van de typologie, de ontwerpdatum, locatie en afmetingen van het gebouw en de NPR 9998, bedoeld in [artikel 10f, eerste lid, onderdeel a, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&artikel=10f), vindt plaats met de in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&bijlage=5&z=2024-07-01&g=2024-07-01) opgenomen vlekkentabel die bij die typologie hoort, met inachtneming van de in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&bijlage=7&z=2024-07-01&g=2024-07-01) opgenomen voorwaarden.
+De beoordeling van een aan een typologie toegedeeld gebouw aan de hand van de typologie, de ontwerpdatum, locatie en afmetingen van het gebouw en de NPR 9998, bedoeld in [artikel 10f, eerste lid, onderdeel a, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&artikel=10f), vindt plaats met de in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&bijlage=5&z=2024-09-05&g=2024-09-05) opgenomen vlekkentabel die bij die typologie hoort, met inachtneming van de in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&bijlage=7&z=2024-09-05&g=2024-09-05) opgenomen voorwaarden.
 
 ##### Artikel 10.5
 
-De beoordeling van een aan een typologie toegedeeld gebouw aan de hand van de typologie en de locatie, bedoeld in [artikel 10f, eerste lid, onderdeel b, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&artikel=10f), vindt plaats met de in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&bijlage=6&z=2024-07-01&g=2024-07-01) opgenomen vlekkenkaart die bij die typologie hoort.
+De beoordeling van een aan een typologie toegedeeld gebouw aan de hand van de typologie en de locatie, bedoeld in [artikel 10f, eerste lid, onderdeel b, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&artikel=10f), vindt plaats met de in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&bijlage=6&z=2024-09-05&g=2024-09-05) opgenomen vlekkenkaart die bij die typologie hoort.
 
 ##### Artikel 10.6
 
-De individuele beoordeling van een gebouw volgens de NPR 9998, bedoeld in [artikel 10f, eerste lid, onderdeel c, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&artikel=10f), vindt plaats met inachtneming van de in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&bijlage=7&z=2024-07-01&g=2024-07-01) opgenomen voorwaarden.
+De individuele beoordeling van een gebouw volgens de NPR 9998, bedoeld in [artikel 10f, eerste lid, onderdeel c, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&artikel=10f), vindt plaats met inachtneming van de in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&bijlage=7&z=2024-09-05&g=2024-09-05) opgenomen voorwaarden.
 
 ##### Artikel 10.7
 
-1. De bepaling welke soort maatregelen nodig is volgens de NPR 9998 voor een aan een typologie toegedeeld gebouw waarvoor aan de hand van de typologie, de ontwerpdatum, locatie en afmetingen van het gebouw en de NPR 9998 is vastgesteld dat het niet aan de veiligheidsnorm voldoet, vindt plaats met de in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&bijlage=5&z=2024-07-01&g=2024-07-01) opgenomen vlekkentabel die bij die typologie hoort met inachtneming van de in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&bijlage=8&z=2024-07-01&g=2024-07-01) opgenomen voorwaarden.
+1. De bepaling welke soort maatregelen nodig is volgens de NPR 9998 voor een aan een typologie toegedeeld gebouw waarvoor aan de hand van de typologie, de ontwerpdatum, locatie en afmetingen van het gebouw en de NPR 9998 is vastgesteld dat het niet aan de veiligheidsnorm voldoet, vindt plaats met de in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&bijlage=5&z=2024-09-05&g=2024-09-05) opgenomen vlekkentabel die bij die typologie hoort met inachtneming van de in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&bijlage=8&z=2024-09-05&g=2024-09-05) opgenomen voorwaarden.
 
-2. De bepaling welke soort maatregelen nodig is volgens de NPR 9998 aan de hand van de typologie en de locatie voor een aan een typologie toebedeeld gebouw waarvan aan de hand van de typologie en de locatie is vastgesteld dat het niet aan de veiligheidsnorm voldoet, vindt plaats met de in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&bijlage=6&z=2024-07-01&g=2024-07-01) opgenomen vlekkenkaart die bij die typologie hoort met inachtneming van de in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&bijlage=8&z=2024-07-01&g=2024-07-01) opgenomen voorwaarden.
+2. De bepaling welke soort maatregelen nodig is volgens de NPR 9998 aan de hand van de typologie en de locatie voor een aan een typologie toebedeeld gebouw waarvan aan de hand van de typologie en de locatie is vastgesteld dat het niet aan de veiligheidsnorm voldoet, vindt plaats met de in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&bijlage=6&z=2024-09-05&g=2024-09-05) opgenomen vlekkenkaart die bij die typologie hoort met inachtneming van de in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&bijlage=8&z=2024-09-05&g=2024-09-05) opgenomen voorwaarden.
 
-3. De bepaling welke soort maatregelen nodig is volgens de NPR 9998 voor een voor een individueel beoordeeld gebouw dat niet aan de veiligheidsnorm voldoet, vindt plaats met inachtneming van de in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&bijlage=8&z=2024-07-01&g=2024-07-01) opgenomen voorwaarden.
+3. De bepaling welke soort maatregelen nodig is volgens de NPR 9998 voor een voor een individueel beoordeeld gebouw dat niet aan de veiligheidsnorm voldoet, vindt plaats met inachtneming van de in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&bijlage=8&z=2024-09-05&g=2024-09-05) opgenomen voorwaarden.
 
 ##### Artikel 10.8
 
 Als de te hanteren versie van de NPR 9998, bedoeld in [artikel 10f, vijfde lid, aanhef, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&artikel=10f), wordt de NPR 9998:2020 aangewezen.
 
-#### § 11. Hoogte financiële middelen duurzaam herstel
+#### § 9. Herbeoordeling
 
 ##### Artikel 11.1
 
@@ -432,7 +432,7 @@ De hoogte van de financiële middelen voor de uitgaven van het Instituut inzake 
 
 ##### Artikel 12.2
 
-Indien een subsidie, vergoeding of tegemoetkoming is verstrekt op basis van een in [artikel 12.4](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=12&artikel=12.4&z=2024-07-01&g=2024-07-01) genoemde ministeriële regeling of beleidsregel, wordt voor dezelfde activiteit geen vergoeding verstrekt op basis van deze regeling.
+Indien een subsidie, vergoeding of tegemoetkoming is verstrekt op basis van een in [artikel 12.4](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=12&artikel=12.4&z=2024-09-05&g=2024-09-05) genoemde ministeriële regeling of beleidsregel of op basis van een overeenkomst die is gesloten voor 1 juli 2023, wordt voor dezelfde activiteit geen vergoeding verstrekt op basis van deze regeling.
 
 ##### Artikel 12.3
 
@@ -494,9 +494,9 @@ De volgende voorwaarde voor de garanties wordt ten minste opgenomen in de overee
 
 Voor de opdracht tot beoordeling en de uitvoering daarvan worden in ieder geval de volgende voorwaarde opgenomen in de overeenkomst tussen de opdrachtgever en de opdrachtnemer:
 
-De volgende voorwaarden, betreffende aansprakelijkheid en verzekering, worden ten minste opgenomen in de overeenkomst tussen de opdrachtgever en de opdrachtnemer:
+Voor de opdracht tot beoordeling en de uitvoering daarvan worden in ieder geval de volgende voorwaarde opgenomen in de overeenkomst tussen de opdrachtgever en de opdrachtnemer:
 
-De volgende voorwaarde voor de verzekering wordt ten minste opgenomen in de overeenkomst tussen de opdrachtgever en de opdrachtnemer:
+De volgende voorwaarden, betreffende aansprakelijkheid en verzekering, worden ten minste opgenomen in de overeenkomst tussen de opdrachtgever en de opdrachtnemer:
 
 De volgende voorwaarde, betreffende het rechtskarakter van de overeenkomst en de toepasselijke voorwaarden wordt ten minste opgenomen in de overeenkomst tussen opdrachtgever en opdrachtnemer:
 
@@ -686,11 +686,13 @@ Onderstaande checklist is de basis voor de opname van een gebouw dat mogelijk on
 
 ## Bijlage 5. Vlekkentabellen, behorende bij [artikel 10.4](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=10&artikel=10.4&z=2023-07-01&g=2023-07-01)
 
-De volgende voorwaarde, betreffende de aansprakelijkheid en verzekering, wordt ten minste opgenomen in de overeenkomst tussen de opdrachtgever en de opdrachtnemer:
+De volgende voorwaarden, betreffende de ontwerpwerkzaamheden, worden ten minste opgenomen in de overeenkomst tussen de opdrachtgever en de opdrachtnemer:
 
 ### Onderdeel 5a. Stappen bij toepassen vlekkentabellen
 
-Stel vast of het te beoordelen gebouw zich bevindt in een bebouwde of in een onbebouwde omgeving. Er is sprake van een bebouwde omgeving als in een straal van 500 meter rondom het gebouw 10% of meer van de oppervlakte bebouwd is met gebouwen met een hoogte van 7 meter of meer. Wanneer dit niet het geval is, dan spreekt men van een onbebouwde omgeving.
+De volgende voorwaarde, betreffende de geschilbeslechting, wordt ten minste opgenomen in de overeenkomst tussen de opdrachtgever en de opdrachtnemer:
+
+De volgende voorwaarden, betreffende het rechtskarakter van de overeenkomst en de toepasselijke voorwaarden, worden ten minste opgenomen in de overeenkomst tussen de opdrachtgever en de opdrachtnemer:
 
 De volgende voorwaarden, betreffende het rechtskarakter van de overeenkomst en de toepasselijke voorwaarden, worden ten minste opgenomen in de overeenkomst tussen de opdrachtgever en de opdrachtnemer:
 
@@ -708,8 +710,6 @@ De volgende voorwaarde voor de verzekering wordt ten minste opgenomen in de over
 
 De volgende voorwaarden voor de geschilbeslechting worden ten minste opgenomen in de overeenkomst tussen de opdrachtgever en de opdrachtnemer:
 
-Als sprake is van een gebouw in een onbebouwde omgeving, dan is tabel 5.5, 5.6, 5.7 of 5.8 van toepassing. Bepaal met de vastgestelde breedte van de gebouw welke van deze vlekkentabellen moet worden gebruikt:
-
 Ligt de breedte van een gebouw tussen de genoemde breedtes van 10, 20, 30 en 40 meter in (een gebouw is bijvoorbeeld 15 meter breed), dan moet tussen de twee vlekkentabellen moet worden geïnterpoleerd. Dit komt aan de orde in stap 4.
 
 Ga verder met stap 4.
@@ -718,13 +718,13 @@ Zoek de vlekkentabel op die van toepassing op het gebouw aan de hand van de vast
 
 Deze bijlage ziet op de beoordeling of wordt voldaan aan de veiligheidsnorm voor een aan een typologie toegedeeld gebouw aan de hand van de typologie, de ontwerpdatum, locatie en afmetingen van het gebouw, de toegepaste ontwerpnorm – indien bekend – en de NPR 9998, bedoeld in [artikel 10f, eerste lid, onderdeel a, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&artikel=10f). Deze bijlage bevat daartoe vlekkentabellen (onderdeel 5b van deze bijlage) en een toelichting daarop in de vorm van een aantal te doorlopen stappen (onderdeel 5a van deze bijlage).
 
-Is het getal in de cel in normaal lettertype, dan voldoet het gebouw aan de veiligheidsnorm, ongeacht het getal in de desbetreffende cel. De seismische weerstand is vergeleken met de aardbevingsbelasting hoog genoeg. De aardbevingsbelasting hoeft niet te worden berekend. Er zijn geen maatregelen nodig.
+Deze bijlage ziet op de beoordeling of wordt voldaan aan de veiligheidsnorm voor een aan een typologie toegedeeld gebouw aan de hand van de typologie, de ontwerpdatum, locatie en afmetingen van het gebouw, de toegepaste ontwerpnorm – indien bekend – en de NPR 9998, bedoeld in [artikel 10f, eerste lid, onderdeel a, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&artikel=10f). Deze bijlage bevat daartoe vlekkentabellen (onderdeel 5b van deze bijlage) en een toelichting daarop in de vorm van een aantal te doorlopen stappen (onderdeel 5a van deze bijlage).
+
+Stel vast of het te beoordelen gebouw zich bevindt in een bebouwde of in een onbebouwde omgeving. Er is sprake van een bebouwde omgeving als in een straal van 500 meter rondom het gebouw 10% of meer van de oppervlakte bebouwd is met gebouwen met een hoogte van 7 meter of meer. Wanneer dit niet het geval is, dan spreekt men van een onbebouwde omgeving.
 
 Stel vast of het te beoordelen gebouw zich bevindt in een bebouwde of in een onbebouwde omgeving. Er is sprake van een bebouwde omgeving als in een straal van 500 meter rondom het gebouw 10% of meer van de oppervlakte bebouwd is met gebouwen met een hoogte van 7 meter of meer. Wanneer dit niet het geval is, dan spreekt men van een onbebouwde omgeving.
 
 Als er sprake is van een bebouwde omgeving, ga verder met stap 1A.
-
-Als er sprake is van een onbebouwde omgeving, ga verder met stap 2.
 
 ### Onderdeel 5b. Vlekkentabellen
 
@@ -849,7 +849,7 @@ Bij het indienen van een aanvraag voor de vergoeding, bedoeld in [artikel 13n, v
 
 ##### Artikel 8a.4
 
-1. Indien het aantal arbeidsuren, genoemd in [artikel 8a.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.3&z=2024-07-01&g=2024-07-01), ontoereikend blijkt door de complexiteit van het te leveren bouwkundig advies of financieel advies, kan de eigenaar een aanvraag tot vergoeding van aanvullende arbeidsuren doen.
+1. Indien het aantal arbeidsuren, genoemd in [artikel 8a.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.3&z=2024-09-05&g=2024-09-05), ontoereikend blijkt door de complexiteit van het te leveren bouwkundig advies of financieel advies, kan de eigenaar een aanvraag tot vergoeding van aanvullende arbeidsuren doen.
 
 2. Bij het indienen van de aanvraag, bedoeld in het eerste lid, overlegt de eigenaar een raming en onderbouwing van de verwachte aanvullende benodigde arbeidsuren voor het bouwkundig advies of het financieel advies aan de Minister of het Instituut.
 
@@ -857,7 +857,7 @@ Bij het indienen van een aanvraag voor de vergoeding, bedoeld in [artikel 13n, v
 
 ##### Artikel 8a.5
 
-1. Het Instituut of de Minister betaalt de vergoeding aan degene die de kosten voor het leveren van bouwkundig advies of financieel advies bij de eigenaar in rekening brengt, op basis van een gespecificeerde factuur. De vergoeding bedraagt niet meer dan de hoogte van de aanspraak, bedoeld in [artikel 8a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.3&z=2024-07-01&g=2024-07-01), eventueel verhoogd op grond van [artikel 8a.4](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.4&z=2024-07-01&g=2024-07-01).
+1. Het Instituut of de Minister betaalt de vergoeding aan degene die de kosten voor het leveren van bouwkundig advies of financieel advies bij de eigenaar in rekening brengt, op basis van een gespecificeerde factuur. De vergoeding bedraagt niet meer dan de hoogte van de aanspraak, bedoeld in [artikel 8a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.3&z=2024-09-05&g=2024-09-05), eventueel verhoogd op grond van [artikel 8a.4](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.4&z=2024-09-05&g=2024-09-05).
 
 2. De factuur, op basis waarvan de vergoeding betaald wordt, is voorzien van een handtekening van de eigenaar. De eigenaar verklaart hiermee akkoord te zijn met de arbeidsuren die de adviseur heeft gefactureerd.
 
@@ -893,13 +893,13 @@ De volgende voorwaarden, betreffende aansprakelijkheid en verzekering, worden te
 
 ### C. Modelbepalingen uitvoeringsfase, behorende bij [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=5&artikel=5.1&z=2023-07-08&g=2023-07-08)
 
+De volgende voorwaarden, betreffende de opdracht tot het opstellen van een definitief ontwerp of uitvoeringsgereed ontwerp, worden ten minste opgenomen in de overeenkomst tussen de opdrachtgever en de opdrachtnemer:
+
 De volgende voorwaarden, betreffende het honorarium ontwerpwerkzaamheden, worden ten minste opgenomen in de overeenkomst tussen de opdrachtgever en de opdrachtnemer:
 
 De volgende voorwaarde, betreffende de contractdocumenten, wordt ten minste opgenomen in de overeenkomst tussen de opdrachtgever en de opdrachtnemer:
 
-De volgende voorwaarden, betreffende de ontwerpwerkzaamheden, worden ten minste opgenomen in de overeenkomst tussen de opdrachtgever en de opdrachtnemer:
-
-De volgende voorwaarde, betreffende de geschilbeslechting, wordt ten minste opgenomen in de overeenkomst tussen de opdrachtgever en de opdrachtnemer:
+De volgende voorwaarde, betreffende de aansprakelijkheid en verzekering, wordt ten minste opgenomen in de overeenkomst tussen de opdrachtgever en de opdrachtnemer:
 
 ## Bijlage 2. Standaardbedragen vergoeding uitvoering beoordelingsfase in eigen beheer en vergoeding schade, behorende bij de [artikelen 3.3, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=3&artikel=3.3&z=2023-07-08&g=2023-07-08), en [7.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=7&artikel=7.2&z=2023-07-08&g=2023-07-08)
 
@@ -1089,6 +1089,8 @@ Onderstaande checklist is de basis voor de opname van een gebouw dat mogelijk on
 
 ### Onderdeel 5a. Stappen bij toepassen vlekkentabellen
 
+Als er sprake is van een onbebouwde omgeving, ga verder met stap 2.
+
 Kijk of er constructieve ontwerpberekeningen beschikbaar zijn voor het gebouw.
 
 Als uit de constructieve ontwerpberekeningen blijkt dat er in de ontwerpberekeningen rekening is gehouden met een onbebouwde omgeving, dan wordt van onbebouwde omgeving uitgegaan. Mochten er geen constructieve ontwerpberekeningen beschikbaar zijn, dan wordt de uitkomst bebouwde omgeving uit stap 1, niet bijgesteld. Ga verder met stap 2.
@@ -1105,8 +1107,6 @@ Als sprake is van een gebouw in een onbebouwde omgeving, dan is tabel 5.5, 5.6, 
 
 Ligt de breedte van een gebouw tussen de genoemde breedtes van 10, 20, 30 en 40 meter in (een gebouw is bijvoorbeeld 15 meter breed), dan moet tussen de twee vlekkentabellen moet worden geïnterpoleerd. Dit komt aan de orde in stap 4.
 
-Ga verder met stap 4.
-
 ## Bijlage 6. Vlekkenkaarten, behorende bij de [artikelen 10.5](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=10&artikel=10.5&z=2023-07-08&g=2023-07-08) en [10.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=10&artikel=10.7&z=2023-07-08&g=2023-07-08), van deze regeling
 
 ### B. Vlekkenkaart, behorende bij typologie Metselwerk2
@@ -1117,15 +1117,15 @@ Ga verder met stap 4.
 
 ### Onderdeel 5b. Vlekkentabellen
 
-### F. Vlekkenkaart, behorende bij typologie Metselwerk-D
+### Onderdeel 5b. Vlekkentabellen
+
+### A. Vlekkenkaart, behorende bij typologie Metselwerk1
 
 ### A. Vlekkenkaart, behorende bij typologie Metselwerk1
 
 ### B. Vlekkenkaart, behorende bij typologie Metselwerk2
 
 ### C. Vlekkenkaart, behorende bij typologie Metselwerk5
-
-### D. Vlekkenkaart, behorende bij typologie Metselwerk6
 
 ## Bijlage 7. Voorwaarden voor individuele beoordeling van een gebouw volgens de NPR 9998, behorende bij [artikel 10.6](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=10&artikel=10.6&z=2023-07-08&g=2023-07-08) van deze regeling
 
@@ -1266,7 +1266,7 @@ Het Instituut verzoekt een door de Minister benoemde onafhankelijk adviseur om a
 
 ### B. Modelbepalingen ontwerpfase, behorende bij [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=4&artikel=4.1&z=2024-07-01&g=2024-07-01)
 
-De volgende voorwaarden, betreffende de opdracht tot het opstellen van een definitief ontwerp of uitvoeringsgereed ontwerp, worden ten minste opgenomen in de overeenkomst tussen de opdrachtgever en de opdrachtnemer:
+De volgende voorwaarde, betreffende het rechtskarakter van de overeenkomst en de toepasselijke voorwaarden wordt ten minste opgenomen in de overeenkomst tussen opdrachtgever en opdrachtnemer:
 
 ### C. Modelbepalingen uitvoeringsfase, behorende bij [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=5&artikel=5.1&z=2024-07-01&g=2024-07-01)
 
@@ -1298,7 +1298,36 @@ De volgende voorwaarden, betreffende de opdracht tot het opstellen van een defin
 | Vergoeding voor **extra af te leggen kilometers** woon-werkverkeer vergeleken met de huidige reisafstand | € 0,28 per kilometer |
 | Vergoeding voor **verhuizing** | Eenpersoonshuishouden € 1.400,00 Tweepersoonshuishouden € 1.660,00 Huishouden met drie personen of meer € 2.740,00 |
 
-## Bijlage 3. Checklist voor opname van een mogelijk aan een typologie toe te delen gebouw, behorende bij [artikel 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=10&artikel=10.1&z=2024-07-01&g=2024-07-01) van deze regeling
+## Bijlage 2. Standaardbedragen vergoeding uitvoering beoordelingsfase in eigen beheer en vergoeding schade, behorende bij de [artikelen 3.3, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=3&artikel=3.3&z=2024-09-05&g=2024-09-05), en [7.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=7&artikel=7.2&z=2024-09-05&g=2024-09-05)
+
+| Soort gebouw | Standaardbedrag, inclusief BTW, per adres | Standaardbedrag, inclusief BTW, per adres | Standaardbedrag, inclusief BTW, per adres |
+| --- | --- | --- | --- |
+| Soort gebouw | Beoordelingsmethode MRS1 | Beoordelingsmethode met NLPO2 | Beoordelingsmethode NLTH(A)3 |
+| Twee-onder-één-kap | € 10.000 | € 22.000 | € 30.000 |
+| Vrijstaand | € 20.000 | € 37.000 | € 42.000 |
+| Agrarisch bedrijf | € 45.000 | € 60.000 | € 85.000 |
+
+1 MRS: Modale-responsspectrumberekening als bedoeld in de NPR 9998:2020
+
+2 NLPO: Niet-lineaire push-over-berekening als bedoeld in de NPR 9998:2020
+
+3 NLTH: Niet-lineair(e) tijdsdomein(berekening als bedoeld in de NPR 9998:2020
+
+| Aard van de vergoeding | Standaardbedrag, standaarduurtarief of standaardvergoeding, inclusief BTW |
+| --- | --- |
+| **Compensatie voor ongemak** voor de tijd die een eigenaar of bewoner moet vrijmaken voor de opname en beoordeling van zijn gebouw en de uitvoering van de versterkingsmaatregelen aan dat gebouw | Voor overlast door de opname en beoordeling van een gebouw: € 30,00, voor overlast wanneer een bureaustudie nodig is; € 296,00, voor overlast door de opname op locatie; € 414,00, voor overlast door een opname waarbij extra werkzaamheden nodig zijn om deze uit te voeren. Voor overlast door de uitvoering van de versterkingsmaatregelen: € 710 |
+| Vergoeding **voor externe opslag voor goederen** indien noodzakelijk tijdens versterking | Eenpersoonshuishouden € 165,00 per maand Tweepersoonshuishouden € 190,00 per maand Huishouden met drie personen of meer € 250,00 per maand. |
+| Vergoeding voor het verlies van **zelf aangebrachte voorzieningen** door een rechtmatige gebruiker | € 3.000,00 of op verzoek van de huurder het bedrag zoals door een taxateur bepaald |
+| Vergoeding voor **externe overnachting** | € 115,00 per nacht voor 1 of 2 personen |
+| Vergoeding voor het **zelf regelen van tijdelijke huisvesting** | € 3.000,00 per maand |
+| Vergoeding voor de kosten voor het **verbruik van gas, water en elektra door de aannemer**, als deze kosten niet vergoed worden via het versterkingsbudget | € 22,00 per dag |
+| Vergoeding voor de **schoonmaak** bij oplevering na versterking | € 175,00 |
+| Tijdelijke **kantoorruimte** (geen praktijk- of behandelruimte) | Binnen de stad Groningen; € 177,00 per m2 per jaar. Buiten de stad Groningen: € 130,00 per m2 per jaar. |
+| Vergoeding voor **extra af te leggen kilometers** woon-werkverkeer vergeleken met de huidige reisafstand | € 0,28 per kilometer |
+| Vergoeding voor **verhuizing** | Eenpersoonshuishouden € 1.400,00 Tweepersoonshuishouden € 1.660,00 Huishouden met drie personen of meer € 2.740,00 |
+| Vergoeding voor **eigen tijd** van een eigenaar of een rechtmatig gebruiker, niet zijnde de eigenaar, van een woning waarover vanaf 25 april 2023 een versterkingsbesluit of een besluit, als bedoeld in [artikel 13i, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13i), is genomen of wordt genomen | € 2.500,00 |
+
+## Bijlage 3. Checklist voor opname van een mogelijk aan een typologie toe te delen gebouw, behorende bij [artikel 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=10&artikel=10.1&z=2024-09-05&g=2024-09-05) van deze regeling
 
 Onderstaande checklist is de basis voor de opname van een gebouw dat mogelijk onder een typologie valt. De checklist bestaat uit zes onderdelen. Tabel 3.1 betreft aspecten die in de opname altijd aan bod moeten komen, voor alle gebouwen die naar verwachting aan een typologie kunnen worden toegedeeld. Tabel 3.2 ziet op aspecten in de opname van gebouwen die naar verwachting in de typologie STAAL-A vallen. Tabel 3.3 gaat over aspecten in de opname van gebouwen met metselwerk als materiaal van de constructie. De tabellen 3.4 en 3.5 zien op het vaststellen van scheurvorming voor gebouwen met metselwerk als materiaal van de constructie. Tot slot ziet tabel 3.6 op de onderdelen die mogelijk een uitsluitingsgrond kunnen vormen zodat het gebouw niet aan de betreffende typologie kan worden toegedeeld.
 
@@ -1333,19 +1362,19 @@ Onderstaande checklist is de basis voor de opname van een gebouw dat mogelijk on
 
 | Schadecategorie | Schadeklasse | Omschrijving | Scheurwijdte (metselwerk) | Karakterisering schadebeeld | Relatieve hoekverdraaiing (ter indicatie) | Opmerkingen |
 | --- | --- | --- | --- | --- | --- | --- |
-|   | 0 | Verwaarloosbaar | < 0,1 mm | Haarscheurtjes | < 1:16.00 – 1:500 | De schade is geen uitsluitingsgrond als bedoeld in [artikel 10.3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=10&artikel=10.3&z=2024-07-01&g=2024-07-01) |
-| Esthetisch | 1 | Zeer licht | 0,1 tot 1 mm | Enige scheurvorming in metselwerk. Kleine scheuren, meestal beperkt tot pleisterwerk, die eenvoudig kunnen worden weggewerkt | 1:1.600 – 1:300 | De schade is geen uitsluitingsgrond als bedoeld in [artikel 10.3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=10&artikel=10.3&z=2024-07-01&g=2024-07-01) |
-| Esthetisch | 2 | Licht | 1 tot 5 mm | Scheuren kunnen aan de buitenzijde zichtbaar zijn en kunnen tot vochtdoorslag leiden. Deuren en ramen klemmen dicht, geringe scheurvorming, kan eenvoudig hersteld worden. | 1:1.600 – 1:300 | De schade is geen uitsluitingsgrond als bedoeld in [artikel 10.3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=10&artikel=10.3&z=2024-07-01&g=2024-07-01) |
-| Functioneel | 3 | Matig | 5 tot 15 mm, of meerdere scheuren >3 mm | Deuren en ramen klemmen. Mogelijke schade aan nutsaansluitingen. Vochtdoorslag mogelijk. Scheuren zijn zodanig dat metselwerk dient te worden hersteld. | 1:1.600 – 1:100 | De schade is geen uitsluitingsgrond als bedoeld in [artikel 10.3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=10&artikel=10.3&z=2024-07-01&g=2024-07-01). Het gebouw kan niet typologisch worden beoordeeld. |
-| Functioneel | 4 | Ernstig | 15 tot 25 mm, ook afhankelijk van het aantal scheuren | Bruikbaarheid en toegankelijkheid ernstig aangetast. Voelbare scheefstand. Herstel vergt vervanging van muurdelen en andere constructieve elementen. | 1:1.600 – 1:100 | De schade is geen uitsluitingsgrond als bedoeld in [artikel 10.3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=10&artikel=10.3&z=2024-07-01&g=2024-07-01). Het gebouw kan niet typologisch worden beoordeeld. |
-| Constructief | 5 | Zeer ernstig | >25 mm, hangt van aantal af | Instortingsgevaar. Volledige renovatie noodzakelijk | >1:300 | De schade is geen uitsluitingsgrond als bedoeld in [artikel 10.3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=10&artikel=10.3&z=2024-07-01&g=2024-07-01). Het gebouw kan niet typologisch worden beoordeeld. |
+|   | 0 | Verwaarloosbaar | < 0,1 mm | Haarscheurtjes | < 1:16.00 – 1:500 | De schade is geen uitsluitingsgrond als bedoeld in [artikel 10.3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=10&artikel=10.3&z=2024-09-05&g=2024-09-05) |
+| Esthetisch | 1 | Zeer licht | 0,1 tot 1 mm | Enige scheurvorming in metselwerk. Kleine scheuren, meestal beperkt tot pleisterwerk, die eenvoudig kunnen worden weggewerkt | 1:1.600 – 1:300 | De schade is geen uitsluitingsgrond als bedoeld in [artikel 10.3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=10&artikel=10.3&z=2024-09-05&g=2024-09-05) |
+| Esthetisch | 2 | Licht | 1 tot 5 mm | Scheuren kunnen aan de buitenzijde zichtbaar zijn en kunnen tot vochtdoorslag leiden. Deuren en ramen klemmen dicht, geringe scheurvorming, kan eenvoudig hersteld worden. | 1:1.600 – 1:300 | De schade is geen uitsluitingsgrond als bedoeld in [artikel 10.3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=10&artikel=10.3&z=2024-09-05&g=2024-09-05) |
+| Functioneel | 3 | Matig | 5 tot 15 mm, of meerdere scheuren >3 mm | Deuren en ramen klemmen. Mogelijke schade aan nutsaansluitingen. Vochtdoorslag mogelijk. Scheuren zijn zodanig dat metselwerk dient te worden hersteld. | 1:1.600 – 1:100 | De schade is geen uitsluitingsgrond als bedoeld in [artikel 10.3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=10&artikel=10.3&z=2024-09-05&g=2024-09-05). Het gebouw kan niet typologisch worden beoordeeld. |
+| Functioneel | 4 | Ernstig | 15 tot 25 mm, ook afhankelijk van het aantal scheuren | Bruikbaarheid en toegankelijkheid ernstig aangetast. Voelbare scheefstand. Herstel vergt vervanging van muurdelen en andere constructieve elementen. | 1:1.600 – 1:100 | De schade is geen uitsluitingsgrond als bedoeld in [artikel 10.3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=10&artikel=10.3&z=2024-09-05&g=2024-09-05). Het gebouw kan niet typologisch worden beoordeeld. |
+| Constructief | 5 | Zeer ernstig | >25 mm, hangt van aantal af | Instortingsgevaar. Volledige renovatie noodzakelijk | >1:300 | De schade is geen uitsluitingsgrond als bedoeld in [artikel 10.3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=10&artikel=10.3&z=2024-09-05&g=2024-09-05). Het gebouw kan niet typologisch worden beoordeeld. |
 
 | Aspect | Keuze | Opmerkingen |
 | --- | --- | --- |
 | Combinatie van aspecten uit de tabellen 3.1 en 3.2 leidt niet tot typologietoedeling | Combinatie van aspecten benoemen |   |
-| Er is sprake van één of meer uitsluitingsgronden zoals omschreven in [artikel 10.3](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=10&artikel=10.3&z=2024-07-01&g=2024-07-01) | Uitsluitingsgrond benoemen | Bij enkele uitsluitingsgronden is wegnemen van deze grond voldoende om alsnog tot toedeling te komen |
+| Er is sprake van één of meer uitsluitingsgronden zoals omschreven in [artikel 10.3](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=10&artikel=10.3&z=2024-09-05&g=2024-09-05) | Uitsluitingsgrond benoemen | Bij enkele uitsluitingsgronden is wegnemen van deze grond voldoende om alsnog tot toedeling te komen |
 
-## Bijlage 4. Vaststelling typologieën, behorende bij [artikel 10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=10&artikel=10.2&z=2024-07-01&g=2024-07-01) van deze regeling
+## Bijlage 4. Vaststelling typologieën, behorende bij [artikel 10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=10&artikel=10.2&z=2024-09-05&g=2024-09-05) van deze regeling
 
 | Materiaal constructie (richting X) | Staal |
 | --- | --- |
@@ -1456,9 +1485,17 @@ Onderstaande checklist is de basis voor de opname van een gebouw dat mogelijk on
 | Aantal bouwlagen | Een of twee bouwlagen, plus eventueel een zolder |
 | Vrijstaand of (seriematig) geschakeld | Vrijstaand of geschakelde, seriematige bouw |
 
-## Bijlage 5. Vlekkentabellen, behorende bij [artikel 10.4](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=10&artikel=10.4&z=2024-07-01&g=2024-07-01)
+| Materiaal constructie (richting X) | Hout |
+| --- | --- |
+| Constructiesysteem (richting X) | Raamwerk en/of schijfwerking |
+| Materiaal constructie (richting Y) | Hout |
+| Constructiesysteem (richting Y) | Raamwerk en/of schijfwerking |
+| Aantal bouwlagen | Eén bouwlaag |
+| Vrijstaand of (seriematig) geschakeld | Vrijstaand |
 
 ### Onderdeel 5a. Stappen bij toepassen vlekkentabellen
+
+Ga verder met stap 4.
 
 Zoek de vlekkentabel op die van toepassing op het gebouw aan de hand van de vastgestelde breedte van het gebouw, of het gebouw in een bebouwde of onbebouwde omgeving ligt en eventueel of TGB 1972 of een latere windbelastingsnorm is toegepast bij het ontwerp.
 
@@ -1470,9 +1507,9 @@ Als sprake is van een getal in de cel in normaal lettertype, kan het voorkomen d
 
 Zoals bij stap 3 is aangegeven, wordt voor de betreffende waarden geïnterpoleerd **tussen** de tabellen als de breedte van een gebouw **tussen** de genoemde breedtes van 10, 20, 30 en 40 meter in ligt. Zo wordt bij een hal van 15 meter breed in een bebouwde omgeving geïnterpoleerd tussen de tabellen 5.1 en 5.2 voor de betreffende waarden. Hierbij is het lettertype van de cellen niet relevant; het gaat alleen om de waarden in de cellen (de getallen).
 
-Als de geïnterpoleerde waarde groter is dan of gelijk is aan 0,50, dan voldoet het gebouw aan de veiligheidsnorm.
-
 ## Bijlage 6. Vlekkenkaarten, behorende bij de [artikelen 10.5](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=10&artikel=10.5&z=2024-07-01&g=2024-07-01) en [10.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=10&artikel=10.7&z=2024-07-01&g=2024-07-01), van deze regeling
+
+### D. Vlekkenkaart, behorende bij typologie Metselwerk6
 
 ### E. Vlekkenkaart, behorende bij typologie Metselwerk7
 
@@ -1483,8 +1520,6 @@ Als de geïnterpoleerde waarde groter is dan of gelijk is aan 0,50, dan voldoet 
 ### H. Vlekkenkaart, behorende bij typologie Beton1b
 
 ### I. Vlekkenkaart, behorende bij typologie Beton1c
-
-### J. Vlekkenkaart, behorende bij typologie Prefab1
 
 ## Bijlage 7. Voorwaarden voor individuele beoordeling van een gebouw volgens de NPR 9998, behorende bij [artikel 10.6](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=10&artikel=10.6&z=2024-07-01&g=2024-07-01) van deze regeling
 
@@ -1518,6 +1553,95 @@ De individuele beoordeling (inclusief de opname op locatie, bedoeld in [artikel 
 ## Bijlage 8. Voorwaarden bepaling maatregelen, behorende bij [artikel 10.7](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=10&artikel=10.7&z=2024-07-01&g=2024-07-01) van deze regeling
 
 De bepaling welke soort maatregelen nodig is, bedoeld in [artikel 10.7](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=10&artikel=10.7&z=2024-07-01&g=2024-07-01), vindt plaats met inachtneming van de volgende voorwaarden:
+
+- 1. Er wordt gebruik gemaakt van de standaardmaatregelen met, voor zover mogelijk de bijbehorende kostenramingen, die zijn opgenomen in de Groninger Maatregelen catalogus die als webtool beschikbaar is gesteld op [www.maatregelencatalogus.nl](http://www.maatregelencatalogus.nl).
+
+- 2. Details van maatregelen worden aangevuld met een detailberekening die is gebaseerd op de maximale op te nemen kracht om te kunnen voldoen aan de veiligheidsnorm.
+
+- 3. Er wordt rekening mee gehouden of een gebouw is aangewezen als:
+
+- a. gemeentelijk monument bij verordening op grond van [artikel 3.16 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=3.16) of [artikel 149 Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=149);
+
+- b. gemeentelijk beschermd stads- of dorpsgezicht in een bestemmingsplan, bedoeld in [artikel 3.1 van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.1);
+
+- c. karakteristiek of beeldbepalend pand in een bestemmingsplan, bedoeld in [artikel 3.1 van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.1);
+
+- d. rijksmonument op grond van [artikel 3.1 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=3.1);
+
+- e. rijksbeschermd stads- of dorpsgezicht op grond van de [Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521) en opgenomen in een bestemmingsplan, bedoeld in [artikel 3.1 van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.1).
+
+- 4. Alleen herstel van verzwakte delen van de constructie dat nodig is om ervoor te zorgen dat het gebouw kan voldoen aan de veiligheidsnorm, wordt meegenomen als onderdeel van de versterkingsmaatregelen.
+
+- 5. In het versterkingsadvies wordt duidelijk aangeven welke maatregelen nodig zijn voor herstel van verzwakte constructies en welke versterkingsmaatregelen nodig zijn voor het voldoen aan de veiligheidsnorm. Daarbij wordt gebruik gemaakt van de Groninger Maatregelencatalogus.
+
+- 6. Er wordt gebruik gemaakt van die rekenmethode die past bij het gebouw, waarbij een toename van detail van analyse plaatsvindt in die mate waarin dat nodig is om tot efficiënte versterkingsmaatregelen te komen.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 8a.7
+
+1. De [artikelen 8a.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.1&z=2024-09-05&g=2024-09-05), [8a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.2&z=2024-09-05&g=2024-09-05), [8a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.3&z=2024-09-05&g=2024-09-05), [8a.4](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.4&z=2024-09-05&g=2024-09-05) en [8a.5](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=8a&artikel=8a.5&z=2024-09-05&g=2024-09-05) zijn van overeenkomstige toepassing op de rechtmatige gebruiker van een gebouw niet zijnde de eigenaar voor de kosten die hij maakt voor financieel advies, met dien verstande dat waar in de genoemde artikelen wordt gesproken over ‘eigenaar’ dit gelezen moet worden als ‘rechtmatige gebruiker van een gebouw niet zijnde de eigenaar’ en waar wordt gesproken over ‘[artikel 13n, vierde of vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13n)’ dit gelezen moet worden als ‘[artikel 13m, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13m)’.
+
+2. [Artikel 7.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=7&artikel=7.1&z=2024-09-05&g=2024-09-05), is niet van toepassing op het eerste lid.
+
+#### § 10. Beoordeling veiligheid en bepalen maatregelen versterking
+
+#### § 11. Hoogte financiële middelen duurzaam herstel en oplossen knelpunten
+
+#### § 12. Overgangsrecht en slotbepalingen
+
+## Bijlage 1. Modelbepalingen beoordelingsfase, ontwerpfase en uitvoeringsfase, behorende bij de [artikelen 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=3&artikel=3.1&z=2024-09-05&g=2024-09-05), [4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=4&artikel=4.1&z=2024-09-05&g=2024-09-05), en [5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=5&artikel=5.1&z=2024-09-05&g=2024-09-05)
+
+### A. Modelbepalingen beoordelingsfase, behorende bij [artikel 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=3&artikel=3.1&z=2024-09-05&g=2024-09-05)
+
+### B. Modelbepalingen ontwerpfase, behorende bij [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=4&artikel=4.1&z=2024-09-05&g=2024-09-05)
+
+### C. Modelbepalingen uitvoeringsfase, behorende bij [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=5&artikel=5.1&z=2024-09-05&g=2024-09-05)
+
+## Bijlage 5. Vlekkentabellen, behorende bij [artikel 10.4](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=10&artikel=10.4&z=2024-09-05&g=2024-09-05)
+
+### Onderdeel 5a. Stappen bij toepassen vlekkentabellen
+
+Als de geïnterpoleerde waarde groter is dan of gelijk is aan 0,50, dan voldoet het gebouw aan de veiligheidsnorm.
+
+## Bijlage 6. Vlekkenkaarten, behorende bij de [artikelen 10.5](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=10&artikel=10.5&z=2024-09-05&g=2024-09-05) en [10.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=10&artikel=10.7&z=2024-09-05&g=2024-09-05), van deze regeling
+
+### J. Vlekkenkaart, behorende bij typologie Prefab1
+
+### K. Vlekkenkaart, behorende bij typologie Hout1
+
+## Bijlage 7. Voorwaarden voor individuele beoordeling van een gebouw volgens de NPR 9998, behorende bij [artikel 10.6](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=10&artikel=10.6&z=2024-09-05&g=2024-09-05) van deze regeling
+
+De individuele beoordeling (inclusief de opname op locatie, bedoeld in [artikel 10f, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&artikel=10f)) van een gebouw volgens de NPR 9998 vindt plaats met inachtneming van de volgende voorwaarden:
+
+- 1. Indien voor de locatie van het gebouw onvoldoende relevante grondgegevens beschikbaar zijn, wordt aanvullend grondonderzoek uitgevoerd.
+
+- 2. Indien dit nodig is voor het beoordelen of een gebouw voldoet aan de veiligheidsnorm vindt uitgebreid onderzoek naar en beoordeling van de fundering plaats conform de NEN 8707+C1:2020. Hierbij moet de scheefstand / de relatieve rotatie van het gebouw ten opzichte van het maaiveld in acht worden genomen. Hierbij kan waarbij gebruik worden gemaakt van onderstaande tabel:
+
+| Situatie | Noodzaak tot onderzoek en beoordeling fundering met NEN 8707+C1:2020 |
+| --- | --- |
+| Fundering na 1985 en geen constructieve schade bovengronds of scheefstand/relatieve rotatie >1:75 | Geen beoordeling NEN 8707+C1:2020 nodig |
+| Fundering na 1985 en wel constructieve schade bovengronds of scheefstand/relatieve rotatie >1:75 | Beoordeling volgens NEN 8707 +C1:2020 nodig (berekening) |
+| Fundering voor 1985 en wel constructieve schade bovengronds of scheefstand/relatieve rotatie >1:75 | Beoordeling volgens NEN8707 +C1:2020 nodig (berekening) |
+| Fundering voor 1985 en geen constructieve schade bovengronds: – Meting scheefstand/relatieve rotatie < 10 mm/m (1/100) en geen aanzienlijke toename te verwachten – Meting scheefstand/relatieve rotatie >10 maar < 13 mm/m en/of enige toename te verwachten – Meting scheefstand/relatieve rotatie > 13 mm/m en/of aanzienlijke toename te verwachten | Geen beoordeling NEN 8707+C1:2020 nodig Onder voorbehoud geen beoordeling NEN 8707 +C1:2020 nodig; vaststellen met zakkingsmeting Beoordeling volgens NEN 8707 +C1:2020 nodig (berekening) |
+
+- 3. In geval van scheuren in metselwerk wordt voor het bepalen of sprake is van constructieve schade gebruik gemaakt van de schadeklasse, opgenomen in de tabel met overzicht van schadeklassen, opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&bijlage=3&z=2024-09-05&g=2024-09-05), waarbij schades vanaf schadeklasse 3 (scheuren met een wijdte tussen 5 en 15 mm of meerdere scheuren met een wijdte van 3 mm of groter) in ieder geval gezien worden als constructieve schade.
+
+- 4. Bij het bepalen van de aanwezigheid van constructieve schade bovengronds wordt de schade beoordeeld met inachtneming van het totaalbeeld van scheuren en verzakkingen het gehele scheur- en zakkingspatroon en de mogelijke onderliggende oorzaken (bijvoorbeeld de staat van de fundering).
+
+- 5. Delen van gebouwen die niet voor verblijf van mensen zijn bedoeld (zoals bijgebouwen, schuren en garages) worden in de beoordeling meegenomen, indien deze gebouwdelen in gevolgklasse CC1b, bedoeld in tabel 2.1, van de NPR 9998 vallen.
+
+- 6. Indien dit nodig is om te beoordelen of een gebouw voldoet aan de veiligheidsnorm worden niet-seismische, constructieve elementen van het gebouw in de beoordeling meegenomen.
+
+- 7. Verzwakte delen van de constructie (boven- en ondergronds) worden in de beoordeling meegenomen, in de tijdens opname vastgestelde technische staat, en vervolgens op de voor seismische beoordeling benodigde wijze gemodelleerd.
+
+- 8. Er wordt gebruik gemaakt van die rekenmethode die past bij het gebouw, waarbij voldoende toename van detail van analyse plaatsvindt om daadwerkelijk te kunnen bepalen dat een gebouw aan de veiligheidsnorm voldoet. Indien uit de meest gedetailleerde berekening blijkt dat een gebouw niet aan de veiligheidsnorm voldoet, worden maatregelen bepaald.
+
+- 9. Voor het opstellen van het versterkingsadvies wordt gebruik gemaakt van een model dat door de Minister beschikbaar is gesteld op [www.nationaalcoordinatorgroningen.nl](http://www.nationaalcoordinatorgroningen.nl).
+
+## Bijlage 8. Voorwaarden bepaling maatregelen, behorende bij [artikel 10.7](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=10&artikel=10.7&z=2024-09-05&g=2024-09-05) van deze regeling
+
+De bepaling welke soort maatregelen nodig is, bedoeld in [artikel 10.7](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&paragraaf=10&artikel=10.7&z=2024-09-05&g=2024-09-05), vindt plaats met inachtneming van de volgende voorwaarden:
 
 - 1. Er wordt gebruik gemaakt van de standaardmaatregelen met, voor zover mogelijk de bijbehorende kostenramingen, die zijn opgenomen in de Groninger Maatregelen catalogus die als webtool beschikbaar is gesteld op [www.maatregelencatalogus.nl](http://www.maatregelencatalogus.nl).
 
