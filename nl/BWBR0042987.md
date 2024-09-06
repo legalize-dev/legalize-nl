@@ -4,7 +4,7 @@ identifier: "BWBR0042987"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-25"
-last_updated: "2024-03-27"
+last_updated: "2024-09-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042987"
 soort: "ministeriele-regeling"
@@ -50,6 +50,8 @@ Besluit:
 4. In verband met de hulpverlening bij de evacuatie van non-combattanten uit Soedan in de periode 19 april 2023 tot en met 5 juni 2023, wordt de gesp ‘Soedan 2023’ ingesteld.
 
 5. In verband met de hulpverlening bij de leniging van de nood van slachtoffers van de aardbeving in Turkije in de periode 10 februari 2023 tot en met 25 februari 2023 wordt de gesp ‘Turkije 2023’ ingesteld.
+
+6. In verband met de hulpverlening bestaande uit het bijdragen aan voedseloperaties, het uitvoeren van evacuatievluchten, airdroppen van hulpgoederen en het leveren van sociaal-medische en geestelijke opvang op het grondgebied van en in het luchtruim boven Israël, Palestijnse Gebieden, Libanon, Jordanië en Egypte en op de Middellandse Zee vanaf 7 oktober 2023, wordt de gesp ‘MIDDEN-OOSTEN 2023 2024’ ingesteld.
 
 ##### Artikel 2
 
