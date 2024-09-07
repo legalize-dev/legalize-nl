@@ -4,7 +4,7 @@ identifier: "BWBR0048439"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-25"
-last_updated: "2023-09-01"
+last_updated: "2024-09-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048439"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 - −. **inspecteur:** de directeur-generaal Douane;
 
-- −. **Minister:** de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking;
+- −. **Minister:** de Minister voor Buitenlandse Handel en Ontwikkelingshulp;
 
 - −. **uitvoer:** uitvoer als bedoeld in artikel 2, onderdeel 2, van de Verordening producten voor tweeërlei gebruik;
 
@@ -62,7 +62,7 @@ Het is verboden zonder vergunning van de Minister geavanceerde productieapparatu
 
 ##### Artikel 3
 
-1. Een aanvraag voor een vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048439&artikel=2&z=2023-09-01&g=2023-09-01) wordt gedaan door de exporteur en ingediend bij de inspecteur.
+1. Een aanvraag voor een vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048439&artikel=2&z=2024-09-07&g=2024-09-07) wordt gedaan door de exporteur en ingediend bij de inspecteur.
 
 2. De aanvraag bevat in ieder geval:
 
@@ -76,13 +76,13 @@ Het is verboden zonder vergunning van de Minister geavanceerde productieapparatu
 
 ##### Artikel 4
 
-1. Aan een vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048439&artikel=2&z=2023-09-01&g=2023-09-01) kunnen voorwaarden en voorschriften worden verbonden.
+1. Aan een vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048439&artikel=2&z=2024-09-07&g=2024-09-07) kunnen voorwaarden en voorschriften worden verbonden.
 
-2. Een vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048439&artikel=2&z=2023-09-01&g=2023-09-01) kan onder beperkingen worden verleend.
+2. Een vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048439&artikel=2&z=2024-09-07&g=2024-09-07) kan onder beperkingen worden verleend.
 
 ##### Artikel 5
 
-Een vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048439&artikel=2&z=2023-09-01&g=2023-09-01) kan in ieder geval ingetrokken worden als:
+Een vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048439&artikel=2&z=2024-09-07&g=2024-09-07) kan in ieder geval ingetrokken worden als:
 
 - a. de vergunning is verstrekt op grond van onjuiste of onvolledige gegevens;
 
@@ -98,18 +98,24 @@ Deze regeling treedt in werking met ingang van 1 september 2023.
 
 Deze regeling wordt aangehaald als: Regeling geavanceerde productieapparatuur voor halfgeleiders.
 
-## Bijlage. behorende bij de Regeling voor geavanceerde productieapparatuur voor halfgeleiders
+## Bijlage. behorende bij de Regeling geavanceerde productieapparatuur voor halfgeleiders
 
-Productieapparatuur, programmatuur en technologie voor halfgeleiderelementen of materialen, niet gecontroleerd onder 3B001, 3D001, 3D002 en 3E001 van bijlage I bij de Verordening producten voor tweeërlei gebruik, als hieronder, en speciaal ontworpen onderdelen en toebehoren daarvoor:
+Algemene noten, acroniemen, afkortingen en definities in bijlage I behorende bij de Verordening producten voor tweeërlei gebruik zijn van overeenkomstige toepassing op deze bijlage.
 
-| 3B001.l | EUV pellicles |
+‘Productieapparatuur’, ‘programmatuur’ en ‘technologie’ voor halfgeleiderelementen of materialen, niet gecontroleerd onder 3B001, 3D001, 3D002 en 3E001 van bijlage I bij de Verordening producten voor tweeërlei gebruik, als hieronder, en speciaal ontworpen onderdelen en toebehoren daarvoor:
+
+| 3B801.a.4 | Apparatuur ontworpen voor epitaxiale groei van silicium (Si), koolstof-gedoteerd silicium, siliciumgermanium (SiGe), of koolstof-gedoteerd SiGe met alle van de volgende eigenschappen: a. Meerdere kamers en middelen voor hoog-vacuüm (minder dan of gelijk aan 0.01 Pa) of een inerte atmosfeer (partiele water en zuurstof druk van minder dan 0.01 Pa) te handhaven tussen processtappen; b. Tenminste één voorbehandelingskamer ontworpen voor oppervlaktevoorbereidingen bedoeld om de oppervlakte van wafers te reinigen; en c. Epitaxiale afzettingswerktemperatuur van 685 °C of lager. |
 | --- | --- |
-| 3B001.m | Productieapparatuur voor EUV pellicles |
-| 3B001.f.4 | Lithografische apparatuur, als hieronder: a. repeteerapparatuur (‹step and repeat› (‹direct step on wafer›) apparatuur of ‹step and scan› (scanner) apparatuur) voor uitrichten en belichten ten behoeve van het bewerken van wafers, waarbij gebruik wordt gemaakt van foto-optische of röntgenmethoden, met één of beide van de volgende eigenschappen: 1. golflengte van de lichtbron korter dan 193 nm, of 2. golflengte van de lichtbron gelijk aan of groter dan 193 nm: a. in staat om patronen te produceren met een ‹minimum resolvable feature size› (MRF) van 45 nm of minder; en b. een maximale ‹dedicated chuck overlay› (DCO) waarde kleiner dan of gelijk aan 1.50 nm. ****Technische noot:**** **1. De ‹minimum resolvable feature size› (MRF) wordt berekend volgens de volgende formule:** **waarbij de K-factor = 0,25** **(MRF) is zelfde als resolutie.** **2. DCO is de mate van accuraatheid van uitlijning van een nieuw patroon op een bestaand patroon belicht op een wafer door hetzelfde lithografische systeem.** |
-| 3B001.d.12 | Apparatuur voor atomaire-lagen-afzetting (ALD) van ‘uittreearbeid’ metalen a. met alle van de volgende eigenschappen: 1. Meer dan één metaalbron waarvan één is ontwikkeld voor een aluminium (AI) uitgangsstof (‹precusor›); en 2. Uitgangsstofvat ontworpen voor temperaturen hoger dan 45 °C; en b. Ontworpen voor afzetting van ‘uittreearbeid’ metalen met alle van de volgende eigenschappen: 1. Afzetting van titanium aluminium carbide (TiAlC); en 2. De mogelijkheid tot een ‘uittreearbeid’ hoger dan 4.0eV. ****Technische noot:**** **1. ‘**uittreearbeid **metaal’ is een materiaal dat de drempelspanning van een transistor reguleert.** |
-| 3B001.a.4 | Apparatuur ontworpen voor epitaxiale groei van silicium (Si), koolstof-gedoteerd silicium, siliciumgermanium (SiGe), of koolstof-gedoteerd SiGe a. met alle van de volgende eigenschappen: 1. Meerdere kamers en middelen voor hoog-vacuüm (minder dan of gelijk aan 0.01 Pa) of een inerte atmosfeer (water en zuurstof partieeldruk minder dan 0.01 Pa) te handhaven tussen processtappen; 2. Tenminste één voorbehandelingskamer ontworpen voor oppervlaktevoorbereidingen bedoeld om de oppervlakte van wafers te reinigen; **en** 3. Epitaxiale afzettingswerktemperatuur van 685 °C of lager. |
-| 3B001.d.19 | Apparatuur ontworpen voor het middels void-vrije-plasma versterkt afzetten van een laag diëlektricum met lage-κ zonder leegtes in ruimten van minder dan 25 nm breed met een diepte/hoogte verhouding (‹aspect ratio, AR›) gelijk aan of groter dan 1:1 tussen metalen lijnen met een diëlektrische constante lager dan 3.3 |
-| 3D007 | Programmatuur speciaal ontworpen voor de ontwikkeling, de productie of het gebruik van de apparatuur die is vermeld in deze regeling onder post 3B001.l, 3B001.m, 3B001.f.4, 3B001.d.12, 3B001.a.4 of 3B001.d.19. |
-| 3E005 | Technologie die noodzakelijk is voor de ontwikkeling, productie of het gebruik van apparatuur, vermeld in deze regeling onder post 3B001.l, 3B001.m, 3B001.f.4, 3B001.d.12, 3B001.a.4 of 3B001.d.19. |
+| 3B801.d.1 | Apparatuur voor atomaire-lagen-afzetting (ALD) van ‘uittreearbeid’ metalen met alle van de volgende eigenschappen: a. Meer dan één metaalbron waarvan één functioneert als een aluminium (AI) uitgangsstof (‹precusor›); b. Uitgangsstofvat ontworpen voor temperaturen hoger dan 30 °C; en c. Ontworpen voor afzetting van ‘uittreearbeid’ metalen met alle van de volgende eigenschappen: 1. Afzetting van titanium aluminium carbide (TiAlC); en 2. De mogelijkheid tot een ‘uittreearbeid’ hoger dan 4.0eV. ****Technische noot:**** **1. ‘uittreearbeid metaal’ is een materiaal dat de drempelspanning van een transistor reguleert.** |
+| 3B801.d.2 | Apparatuur ontworpen voor het middels void-vrije-plasma versterkt afzetten van een laag met een dilectrische constante lager dan 3.3, in ‘gaten’ met een ‘diepte/hoogteverhouding’ (<aspect ratio>) gelijk of groter dan 1:1 en een wijdte van minder dan 25 nm. ****Technische noten:**** **1. ‘Gaten’ is de ruimte tussen de metalen lijnen.** **2. ‘Diepte/hoogteverhouding’ is de verhouding tussen de hoogte en diepte van het gat tussen de metalen lijnen.** |
+| 3B801.f.5 | Lithografische apparatuur, als hieronder: Repeteerapparatuur (‹step and repeat› (‹direct step on wafer›) apparatuur of ‹step and scan› (scanner) apparatuur) voor uitrichten en belichten ten behoeve van het bewerken van wafers, waarbij gebruik wordt gemaakt van foto-optische of röntgenmethoden, met alle van de volgende eigenschappen: a. een golflengte van de lichtbron gelijk aan of groter dan 193 nm; b. in staat om patronen te produceren met een ‹minimum resolvable feature size› (MRF) van 45 nm of minder; en c. een maximale ‹dedicated chuck overlay› (DCO) waarde kleiner dan of gelijk aan 1.50 nm. ****Technische noten:**** **1. De ‹minimum resolvable feature size› (MRF) wordt berekend volgens de volgende formule:** **waarbij de K-factor = 0,25** **(MRF) is zelfde als resolutie.** **2. DCO is de mate van accuraatheid van uitlijning van een nieuw patroon op een bestaand patroon belicht op een wafer door hetzelfde lithografische systeem.** |
+| 3B801.f.6 | Lithografische apparatuur, als hieronder: Repeteerapparatuur (‹step and repeat› (‹direct step on wafer›) apparatuur of ‹step and scan› (scanner) apparatuur) voor uitrichten en belichten ten behoeve van het bewerken van wafers, waarbij gebruik wordt gemaakt van foto-optische of röntgenmethoden, met alle van de volgende eigenschappen: a. een golflengte van de lichtbron gelijk aan of groter dan 193 nm; b. in staat om patronen te produceren met een ‹minimum resolvable feature size› (MRF) van 45 nm of minder; en c. een maximale ‹dedicated chuck overlay› (DCO) waarde hoger dan 1.50 nm en kleiner dan of gelijk aan 2.40 nm. ****Technische noten:**** **1. De ‹minimum resolvable feature size› (MRF) wordt berekend volgens de volgende formule:** **waarbij de K-factor = 0,25** **(MRF) is zelfde als resolutie.** **2. DCO is de mate van accuraatheid van uitlijning van een nieuw patroon op een bestaand patroon belicht op een wafer door hetzelfde lithografische systeem.** |
+| 3B801.l | EUV pellicles |
+| 3D805 | ‘Programmatuur’ speciaal ontworpen voor de ‘ontwikkeling’, de ‘productie’ of het ‘gebruik’ van de apparatuur die is vermeld in deze regeling onder post 3B801.f.5. |
+| 3D806 | ‘Programmatuur’ speciaal ontworpen voor de ‘ontwikkeling’, de ‘productie’ of het ‘gebruik’ van de apparatuur die is vermeld in deze regeling onder post 3B801.f.6. |
+| 3D807 | ‘Programmatuur’ speciaal ontworpen voor de ‘ontwikkeling’, de ‘productie’ of het ‘gebruik’ van de apparatuur die is vermeld in deze regeling onder post 3B801.a.4, 3B801.d.1, 3B801.d.2 of 3B801.l. |
+| 3E805 | ‘Technologie’ die ‘noodzakelijk’ is voor de ‘ontwikkeling’, ‘productie’ of het ‘gebruik’ van apparatuur, vermeld in deze regeling onder post 3B801.f.5. |
+| 3E806 | ‘Technologie’ die ‘noodzakelijk’ is voor de ‘ontwikkeling’, ‘productie’ of het ‘gebruik’ van apparatuur, vermeld in deze regeling onder post 3B801.f.6. |
+| 3E807 | ‘Technologie’ die ‘noodzakelijk’ is voor de ‘ontwikkeling’, ‘productie’ of het ‘gebruik’ van apparatuur, vermeld in deze regeling onder post 3B801.a.4, 3B801.d.1, 3B801.d.2 of 3B801.l. |
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
