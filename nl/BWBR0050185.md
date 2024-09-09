@@ -61,5 +61,3 @@ Dit besluit wordt aangehaald als: Besluit toestemming inzage archiefbescheiden B
 ### Audiovisuele middelen
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
