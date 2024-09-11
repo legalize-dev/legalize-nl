@@ -4,7 +4,7 @@ identifier: "BWBR0048436"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-09-11"
-last_updated: "2023-07-25"
+last_updated: "2024-09-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048436"
 soort: "ministeriele-regeling"
@@ -64,25 +64,25 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4
 
-1. De leden worden door de Ministers geselecteerd op basis van gewogen loting.
+1. De Ministers dragen zorg voor de selectie van deelnemers van het Burgerforum. Zij streven naar een representatieve samenstelling daarvan.
 
-2. Voor de loting komt, onverminderd het derde lid, iedereen in aanmerking die:
+2. Onverminderd het derde lid, komt voor selectie in aanmerking degene die:
 
-- a. kiesgerechtigd is voor de Tweede Kamer der Staten-Generaal, of
+- a. de Nederlandse nationaliteit bezit;
 
-- b. binnen twee jaar na het tijdstip waarop dit besluit in werking treedt kiesgerechtigd zal zijn voor de Tweede Kamer der Staten-Generaal en op dat tijdstip over de Nederlandse nationaliteit beschikt.
+- b. ingezetene is van een provincie;
 
-3. Als lid van het Burgerforum kunnen niet worden geselecteerd:
+- c. de leeftijd van zestien jaren heeft bereikt; en
 
-- a. leden van de Staten-Generaal;
+- d. niet bij rechterlijke uitspraak van het kiesrecht is ontzet.
 
-- b. Ministers, en
+3. Niet als deelnemer van het Burgerforum kan worden geselecteerd:
 
-- c. staatssecretarissen.
+- a. een Minister;
 
-4. Het lidmaatschap van het Burgerforum kan op eigen verzoek van een lid of wegens ongeschiktheid, onbekwaamheid of op andere zwaarwegende gronden worden beëindigd door de Ministers.
+- b. een Staatssecretaris;
 
-5. Bij tussentijds vertrek van een lid als bedoeld in het vierde lid kunnen de Ministers een ander lid selecteren conform het eerste, tweede en derde lid.
+- c. een lid van de Staten-Generaal.
 
 ##### Artikel 5
 
@@ -120,7 +120,7 @@ Het Burgerforum kan zich ter uitoefening van zijn taak laten bijstaan door exper
 
 ##### Artikel 10
 
-1. Het Burgerforum biedt het antwoord op de vraag zoals bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048436&artikel=3&z=2023-07-25&g=2023-07-25), aan de Ministers aan in een eindrapport.
+1. Het Burgerforum biedt het antwoord op de vraag zoals bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048436&artikel=3&z=2024-09-11&g=2024-09-11), aan de Ministers aan in een eindrapport.
 
 2. De Ministers brengen uiterlijk zes maanden na het verschijnen van het eindrapport van het Burgerforum een met redenen omklede reactie uit op het eindrapport.
 
@@ -134,10 +134,18 @@ De archiefbescheiden van het Burgerforum worden na opheffing, of zo de omstandig
 
 1. Dit besluit treedt in werking met ingang van de dag na uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-2. Dit besluit vervalt een jaar nadat het eindrapport, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048436&artikel=10&z=2023-07-25&g=2023-07-25), is uitgebracht.
+2. Dit besluit vervalt een jaar nadat het eindrapport, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048436&artikel=10&z=2024-09-11&g=2024-09-11), is uitgebracht.
 
 ##### Artikel 13
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Burgerforum klimaat- en energiebeleid.
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 4a
+
+1. Deelname aan het Burgerforum kan op eigen verzoek van een deelnemer of wegens ongeschiktheid, onbekwaamheid of op andere zwaarwegende gronden worden beëindigd door de Ministers.
+
+2. Bij een tussentijdse beëindiging van de deelname kunnen de Ministers tot de selectie van een nieuw lid overgaan.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
