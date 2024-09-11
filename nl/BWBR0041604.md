@@ -4,7 +4,7 @@ identifier: "BWBR0041604"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2023-07-01"
+last_updated: "2024-09-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041604"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ Vervallen
 
 ##### Artikel 2
 
-Als overheidsorgaan als bedoeld in [artikel 125a, tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=125a) wordt aangewezen het Waarborgfonds Motorverkeer, bedoeld in [artikel 23, eerste lid, van de Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=23), ten behoeve van de schadeafwikkeling en het verhaal van uitgekeerde schadevergoedingen bedoeld in de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=25) respectievelijk [27](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=27) van die wet.
+Als overheidsorgaan als bedoeld in [artikel 125a, tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=125a) wordt aangewezen het Waarborgfonds Motorverkeer, bedoeld in [artikel 23, eerste lid, van de Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=23), ten behoeve van de schadeafwikkeling en het verhaal van uitgekeerde schadevergoedingen bedoeld in de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=25), [26a tot en met 26c](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=26a), en [27 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=27).
 
 #### § 3. Te verstrekken gegevens
 
