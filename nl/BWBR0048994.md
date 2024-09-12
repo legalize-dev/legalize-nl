@@ -4,7 +4,7 @@ identifier: "BWBR0048994"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-09-12"
-last_updated: "2023-07-02"
+last_updated: "2024-09-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048994"
 soort: "ministeriele-regeling"
@@ -50,21 +50,23 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2. Instelling en taak
 
-1. Er is een commissie die tot taak heeft de minister te adviseren over de benoeming van leden van de Adviesraad voor wetenschap, technologie en innovatie, kortweg AWTI.
+1. Er is een commissie die tot taak heeft de minister te adviseren over de benoeming van de voorzitter en leden van de Adviesraad voor wetenschap, technologie en innovatie, kortweg AWTI.
 
-2. De commissie doet voor 1 februari 2024 aan de minister een benoemingsvoorstel, uitgaande van de gewenste samenstelling van de AWTI en op basis van de profielschets. De commissie neemt daarbij het relevante wettelijke kader in acht.
+2. De commissie neemt daarbij het relevante wettelijke kader in acht.
 
 ##### Artikel 3. Leden
 
 1. Tot de leden van de commissie worden benoemd:
 
-- a. mevrouw Ada van der Veer, tevens voorzitter;
+- a. de heer prof. dr. ir. W. van Saarloos, tevens voorzitter;
 
-- b. de heer Amandus Lundqvist; en
+- b. mevrouw prof. dr. P.A. Dykstra;
 
-- c. de heer prof. dr. Rob Hamer.
+- c. de heer prof. dr. M.A. Ikram.
 
-2. Bij het ontstaan van tussentijdse vacatures in de commissie benoemt de minister nieuwe leden.
+2. Bij het ontstaan van vacatures in de commissie benoemt de minister nieuwe leden.
+
+3. Bij het ontstaan van vacatures bij de AWTI kan de minister de samenstelling van de commissie gedeeltelijk of geheel wijzigen.
 
 ##### Artikel 4. Werkwijze en vergoeding
 
@@ -88,7 +90,7 @@ De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden d
 
 ##### Artikel 7. Instellingsduur
 
-De commissie wordt opgeheven na het uitbrengen van het advies.
+Vervallen
 
 ##### Artikel 8. Inwerkingtreding
 
