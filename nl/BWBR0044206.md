@@ -4,7 +4,7 @@ identifier: "BWBR0044206"
 country: "nl"
 rank: "reglement"
 publication_date: "2024-09-12"
-last_updated: "2020-09-22"
+last_updated: "2024-09-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044206"
 soort: "reglement"
@@ -42,7 +42,7 @@ Het doel van de gedragscode is om de kenbaarheid van de integriteitsregels en de
 
 ##### Reikwijdte
 
-Deze gedragscode ziet op al het handelen in het ambt van Kamerlid, waaronder tevens wordt begrepen gedragingen die het gezag of de waardigheid van de Kamer in ernstige mate schaden.
+Vervallen
 
 ##### Gedragsregels
 
@@ -55,5 +55,3 @@ Het Kamerlid is zich ervan bewust dat hij een publiek ambt uitoefent dat rechten
 - 3. Het Kamerlid voldoet aan de registratieverplichtingen die het ambt hem oplegt.
 
 - 4. Het Kamerlid gebruikt in het ambt verkregen informatie niet voor persoonlijke belangen en waarborgt, indien van toepassing, het vertrouwelijke karakter ervan.
-
-- 5. Het Kamerlid handelt conform de regels van de Kamer.
