@@ -4,7 +4,7 @@ identifier: "BWBR0044207"
 country: "nl"
 rank: "reglement"
 publication_date: "2024-09-12"
-last_updated: "2021-04-01"
+last_updated: "2024-09-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044207"
 soort: "reglement"
@@ -48,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 - c. Gedragscode: de [Gedragscode Leden van de Tweede Kamer der Staten-Generaal](https://wetten.overheid.nl/jci1.3:c:BWBR0044206)
 
-### Hoofdstuk 2. Het College
+### Hoofdstuk 1a. De adviseur
 
 ##### Artikel 2. Samenstelling en benoeming
 
@@ -60,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Taak
 
-Het College heeft tot taak klachten aangaande overtreding van de [Gedragscode](https://wetten.overheid.nl/jci1.3:c:BWBR0044206) door Kamerleden te behandelen.
+Het College heeft tot taak meldingen aangaande overtreding van de [Gedragscode](https://wetten.overheid.nl/jci1.3:c:BWBR0044206) door Kamerleden te behandelen.
 
 ##### Artikel 4. Jaarverslag
 
@@ -78,31 +78,31 @@ Het College heeft tot taak klachten aangaande overtreding van de [Gedragscode](h
 
 ### Hoofdstuk 3. Klachtprocedure
 
-##### Artikel 6. Klachten
+##### Artikel 6. Meldingen
 
-1. Een ieder kan een klacht aangaande overtreding van de [Gedragscode](https://wetten.overheid.nl/jci1.3:c:BWBR0044206) aanbrengen.
+1. Een ieder kan een melding aangaande overtreding van de [Gedragscode](https://wetten.overheid.nl/jci1.3:c:BWBR0044206) aanbrengen.
 
-2. Een klacht wordt schriftelijk aangebracht en bevat ten minste de naam en het postadres van de klager, de naam van het Kamerlid op wie de klacht ziet en de feiten die tot het doen van de klacht hebben geleid.
+2. Een melding wordt schriftelijk aangebracht en bevat ten minste de naam en het postadres van de melder, de naam van het Kamerlid op wie de melding ziet en de feiten die tot het doen van de melding hebben geleid.
 
-3. Het College kan besluiten een klacht niet in behandeling te nemen wanneer het deze kennelijk ongegrond acht, wanneer niet is voldaan aan de vereisten, bedoeld in het tweede lid, of wanneer eenzelfde klacht door verschillende klagers is gedaan. De klager wordt hierover geïnformeerd.
+3. Het College kan besluiten een melding niet in behandeling te nemen wanneer het deze kennelijk ongegrond acht, wanneer niet is voldaan aan de vereisten, bedoeld in het tweede lid, of wanneer eenzelfde melding door verschillende melders is gedaan. De melder wordt hierover geïnformeerd.
 
-4. Een klacht die ziet op een mogelijke overtreding waarbij in het Reglement van Orde op andere wijze in het toezicht is voorzien, wordt niet in behandeling genomen door het College.
+4. Een melding die ziet op een mogelijke overtreding waarbij in het Reglement van Orde op andere wijze in het toezicht is voorzien, wordt niet in behandeling genomen door het College.
 
-5. Een klacht die ziet op een mogelijk strafbaar feit, niet zijnde een ambtsmisdrijf, wordt niet in behandeling genomen door het College. Na overleg met de klager kan de klacht worden doorgezonden aan het openbaar ministerie.
+5. Een melding die ziet op een mogelijk strafbaar feit, niet zijnde een ambtsmisdrijf, wordt niet in behandeling genomen door het College. Na overleg met de melder kan de melding worden doorgezonden aan het openbaar ministerie.
 
-##### Artikel 7. Klachtafhandeling
+##### Artikel 7. Afhandeling van een melding
 
-1. Het College informeert een Kamerlid wanneer een klacht over hem in behandeling wordt genomen.
+1. Het College informeert een Kamerlid wanneer een melding over hem in behandeling wordt genomen.
 
 2. Het College verzoekt het Kamerlid om informatie. Het Kamerlid verleent medewerking aan dat verzoek
 
-3. Het College kan na het beoordelen van de ontvangen informatie en andere feiten en omstandigheden die het van belang acht, besluiten dat de klacht niet nader onderzocht wordt. Het Kamerlid en de klager worden hierover geïnformeerd. Het College kan hierbij een aanbeveling doen aan het Kamerlid.
+3. Het College kan na het beoordelen van de ontvangen informatie en andere feiten en omstandigheden die het van belang acht, besluiten dat de melding niet nader onderzocht wordt. Het Kamerlid en de melder worden hierover geïnformeerd. Het College kan hierbij een aanbeveling doen aan het Kamerlid.
 
-##### Artikel 8. Onderzoek naar klacht
+##### Artikel 8. Onderzoek naar de melding
 
-1. Het College kan na ontvangst van de informatie, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044207&hoofdstuk=3&artikel=7&z=2021-04-01&g=2021-04-01), en na het beoordelen van andere feiten en omstandigheden die het van belang acht, besluiten een onderzoek in te stellen naar de klacht.
+1. Het College kan na ontvangst van de informatie, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044207&hoofdstuk=3&artikel=7&z=2024-09-12&g=2024-09-12), en na het beoordelen van andere feiten en omstandigheden die het van belang acht, besluiten een onderzoek in te stellen naar de melding.
 
-2. Indien de klacht een kwestie betreft waarover de Adviseur eerder advies aan het betrokken Kamerlid heeft uitgebracht en dit advies is opgevolgd, kan het College slechts gemotiveerd besluiten tot een onderzoek.
+2. Indien de melding een kwestie betreft waarover de Adviseur eerder advies aan het betrokken Kamerlid heeft uitgebracht en dit advies is opgevolgd, kan het College slechts gemotiveerd besluiten tot een onderzoek.
 
 3. Indien het College besluit een onderzoek in te stellen, brengt de Adviseur aan het betreffende Kamerlid over dezelfde kwestie geen advies meer uit.
 
@@ -118,19 +118,23 @@ Het College heeft tot taak klachten aangaande overtreding van de [Gedragscode](h
 
 2. Het Presidium maakt de rapportage uiterlijk vier weken na de toezending ervan openbaar, voor zover het College heeft bepaald dat deze openbaar kan worden.
 
+3. Nadat het Presidium de rapportage openbaar heeft gemaakt, zendt het College de rapportage aan de melder, met uitzondering van de delen die op grond van het eerste lid vertrouwelijk blijven.
+
 ### Hoofdstuk 4. Beroep
 
 ##### Artikel 10. Beroepsmogelijkheid
 
-1. Het Kamerlid op wie de rapportage, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0044207&hoofdstuk=3&artikel=9&z=2021-04-01&g=2021-04-01), betrekking heeft, kan binnen twee weken na ontvangst van de rapportage beroep instellen bij de Kamer. In dat geval maakt het Presidium de rapportage niet openbaar.
+1. Het Kamerlid op wie de rapportage, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0044207&hoofdstuk=3&artikel=9&z=2024-09-12&g=2024-09-12), betrekking heeft, kan binnen twee weken na ontvangst van de rapportage beroep instellen bij de Kamer. In dat geval maakt het Presidium de rapportage niet openbaar.
 
-2. De Kamer stelt, op voordracht van het Presidium, een tijdelijk college van beroep in. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044207&hoofdstuk=2&artikel=2&z=2021-04-01&g=2021-04-01) is van overeenkomstige toepassing.
+2. De Kamer stelt, op voordracht van het Presidium, een tijdelijk college van beroep in. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044207&hoofdstuk=2&artikel=2&z=2024-09-12&g=2024-09-12) is van overeenkomstige toepassing.
 
 3. Het tijdelijk college van beroep heeft tot taak om met inachtneming van de rapportage en de relevante feiten en omstandigheden te beoordelen of het College redelijkerwijs tot haar oordeel heeft kunnen komen.
 
 4. Het tijdelijk college van beroep zendt haar schriftelijke oordeel aan het Presidium en aan het Kamerlid die het betreft. Na de toezending is het tijdelijke college van beroep opgeheven.
 
 5. Het Presidium maakt het oordeel onverwijld na de toezending ervan openbaar tezamen met de rapportage.
+
+6. [Artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044207&hoofdstuk=3&artikel=9&z=2024-09-12&g=2024-09-12), is van overeenkomstige toepassing.
 
 ### Hoofdstuk 5. Sanctionering
 
@@ -142,23 +146,25 @@ De volgende sancties kunnen worden opgelegd bij overtreding van de [gedragscode]
 
 - b. een berisping, waaronder wordt begrepen een openbare brief van het Presidium gericht aan een Kamerlid waarin de handeling die tot een overtreding heeft geleid, wordt afgekeurd;
 
-- c. een schorsing, waaronder wordt begrepen het uitsluiten van een Kamerlid voor de duur van ten hoogste een maand van het deelnemen aan plenaire vergaderingen, behoudens stemmingen, aan commissievergaderingen of aan andere activiteiten die door of namens de Kamer worden gehouden.
+- c. een schorsing, waaronder wordt begrepen het uitsluiten van een Kamerlid voor de duur van ten hoogste een maand van het deelnemen aan plenaire vergaderingen, behoudens stemmingen, aan commissievergaderingen, aan andere activiteiten die door of namens de Kamer worden gehouden of een combinatie van deze vergaderingen en activiteiten;
+
+- d. een voorwaardelijke schorsing, waaronder wordt begrepen een schorsing als bedoeld in onderdeel c, die van kracht wordt op het moment dat een aanwijzing als bedoeld in onderdeel a binnen een door het College te bepalen periode niet is opgevolgd.
 
 ##### Artikel 12. Voorstel voor sanctionering door de Kamer
 
-Indien een rapportage als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0044207&hoofdstuk=3&artikel=9&z=2021-04-01&g=2021-04-01) een overtreding van de [gedragscode](https://wetten.overheid.nl/jci1.3:c:BWBR0044206) vaststelt waarbij een sanctie als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0044207&hoofdstuk=5&artikel=11&z=2021-04-01&g=2021-04-01) wordt aanbevolen, zendt het Presidium tegelijkertijd met de openbaarmaking van de rapportage een brief aan de Kamer met een voorstel tot het opleggen van de door het College aanbevolen sanctie.
+Indien een rapportage als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0044207&hoofdstuk=3&artikel=9&z=2024-09-12&g=2024-09-12) een overtreding van de [gedragscode](https://wetten.overheid.nl/jci1.3:c:BWBR0044206) vaststelt waarbij een sanctie als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0044207&hoofdstuk=5&artikel=11&z=2024-09-12&g=2024-09-12) wordt aanbevolen, zendt het Presidium tegelijkertijd met de openbaarmaking van de rapportage een brief aan de Kamer met een voorstel tot het opleggen van de door het College aanbevolen sanctie.
 
 ##### Artikel 13. Besluit Kamer
 
-De Kamer besluit zonder beraadslaging over het voorstel van het Presidium, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0044207&hoofdstuk=5&artikel=12&z=2021-04-01&g=2021-04-01). Indien de Kamer besluit tot het opleggen van een sanctie, wordt deze de dag na het Kamerbesluit ten uitvoer gelegd.
+De Kamer besluit zonder beraadslaging over het voorstel van het Presidium, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0044207&hoofdstuk=5&artikel=12&z=2024-09-12&g=2024-09-12). Indien de Kamer besluit tot het opleggen van een sanctie, wordt deze de dag na het Kamerbesluit ten uitvoer gelegd.
 
 ##### Artikel 14. Geen beroep
 
-Van de beslissingen ingevolge [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044207&hoofdstuk=5&artikel=13&z=2021-04-01&g=2021-04-01) is beroep op de Kamer niet toegelaten.
+Van de beslissingen ingevolge [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044207&hoofdstuk=5&artikel=13&z=2024-09-12&g=2024-09-12) is beroep op de Kamer niet toegelaten.
 
 ##### Artikel 15. Herziening
 
-Het Presidium kan voorstellen aan de Kamer doen voor herziening van de [Gedragscode](https://wetten.overheid.nl/jci1.3:c:BWBR0044206) en de toelichting daarop. De Presidium kan tevens voorstellen doen voor herziening van deze regeling. Het Presidium betrekt daarbij de jaarverslagen van de Adviseur en het College.
+Het Presidium kan voorstellen aan de Kamer doen voor herziening van de [Gedragscode](https://wetten.overheid.nl/jci1.3:c:BWBR0044206) en de toelichting daarop. Het Presidium kan tevens voorstellen doen voor herziening van deze regeling. Het Presidium betrekt daarbij de jaarverslagen van de Adviseur en het College.
 
 ##### Artikel 16. Toepassing regeling
 
