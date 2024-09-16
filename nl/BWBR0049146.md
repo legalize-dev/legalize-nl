@@ -4,7 +4,7 @@ identifier: "BWBR0049146"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-09-16"
-last_updated: "2024-02-09"
+last_updated: "2024-09-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049146"
 soort: "zbo"
@@ -47,7 +47,7 @@ Het subsidieplafond van het [Reglement Stimuleringsmaatregel Filmproductie in Ne
 
 ##### Artikel II
 
-Het subsidieplafond van het [Reglement Stimuleringsmaatregel Filmproductie in Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0047791) voor high end series voor het kalenderjaar 2024 is € 12.000.000,– (zegge: twaalf miljoen euro). (€ 4.000.000,– (zegge: vier miljoen euro) per aanvraagronde).
+Het subsidieplafond van het [Reglement Stimuleringsmaatregel Filmproductie in Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0047791) voor high end series voor het kalenderjaar 2024 is € 12.000.000,– (zegge: twaalf miljoen euro). (€ 4.000.000,– (zegge: vier miljoen euro) per aanvraagronde). Voor de aanvraagronde van augustus 2024 is het subsidieplafond voor high end series eenmalig verhoogd naar € 6 miljoen euro.
 
 ##### Artikel III
 
