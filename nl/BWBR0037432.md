@@ -4,7 +4,7 @@ identifier: "BWBR0037432"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-11"
-last_updated: "2024-07-02"
+last_updated: "2024-09-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037432"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. **directeur-generaal:** de directeur-generaal Sociale Zekerheid en Integratie;
 
-- b. **directie:** een van de organisatieonderdelen, genoemd in [artikel 2, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=2&artikel=2&z=2024-09-19&g=2024-07-02);
+- b. **directie:** een van de organisatieonderdelen, genoemd in [artikel 2, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=2&artikel=2&z=2024-09-19&g=2024-09-19);
 
 - c. **directeur:** een functionaris die leiding geeft aan een directie;
 
@@ -142,9 +142,9 @@ De directie Werknemersregelingen is verantwoordelijk voor:
 
 - e. het coördineren van het door het ministerie te voeren beleid inzake Bonaire, Sint Eustatius en Saba;
 
-- f. het zorgdragen voor de uitvoeringstaken van de minister op Bonaire, Sint Eustatius en Saba, waaronder mede begrepen het nemen van besluiten en het behandelen van bezwaar- en beroepszaken die betrekking hebben op deze besluiten;
+- f. het zorgdragen voor de uitvoeringstaken van de bewindspersoon op Bonaire, Sint Eustatius en Saba, waaronder mede begrepen het nemen van besluiten en het behandelen van bezwaar- en beroepszaken die betrekking hebben op deze besluiten;
 
-- g. het namens de minister optreden als opdrachtgever voor de RCN;
+- g. het namens de bewindspersoon optreden als opdrachtgever voor de RCN;
 
 - h. de beleidsmatige aspecten rondom het Europees Globaliseringsfonds.
 
@@ -174,17 +174,15 @@ De directie Stelsel en Volksverzekeringen is verantwoordelijk voor:
 
 De directie Samenleving en Integratie is verantwoordelijk voor:
 
-- a. het zorgdragen voor beleid ten behoeve van de inburgering in het binnen- en buitenland, mede op basis van monitoring en evaluatie;
+- a. het ontwikkelen van beleid gericht op het omgaan met diversiteit in de samenleving, het tegengaan van sociale spanningen en het uitvoering geven aan de preventieve maatregelen in het kader van de aanpak jihadisme;
 
-- b. het ontwikkelen van beleid gericht op het omgaan met diversiteit in de samenleving, het tegengaan van sociale spanningen en het uitvoering geven aan de preventieve maatregelen in het kader van de aanpak jihadisme;
+- b. het ontwikkelen van beleid tegen rassendiscriminatie (inclusief antisemitisme en islamofobie) in Nederland;
 
-- c. het ontwikkelen van beleid tegen rassendiscriminatie (inclusief antisemitisme en islamofobie) in Nederland;
+- c. de visievorming, het vergaren en verspreiden van kennis en het monitoren van het integratieproces, ter ondersteuning van het beleid zoals geformuleerd in de Agenda integratie;
 
-- d. de visievorming, het vergaren en verspreiden van kennis en het monitoren van het integratieproces, ter ondersteuning van het beleid zoals geformuleerd in de Agenda integratie;
+- d. het versterken van het bereik van regulier beleid voor migrantengroepen op het terrein van de arbeidsmarkt (waaronder jeugdwerkloosheid), het onderwijs, de zorg en criminaliteit, met name daar waar een generieke aanpak onvoldoende effectief is;
 
-- e. het versterken van het bereik van regulier beleid voor migrantengroepen op het terrein van de arbeidsmarkt (waaronder jeugdwerkloosheid), het onderwijs, de zorg en criminaliteit, met name daar waar een generieke aanpak onvoldoende effectief is;
-
-- f. het vorm geven aan vormen van dialoog met maatschappelijke organisaties.
+- e. het vorm geven aan vormen van dialoog met maatschappelijke organisaties.
 
 ##### Artikel 8
 
@@ -192,7 +190,7 @@ Vervallen
 
 ##### Artikel 9
 
-1. De afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI is ten behoeve van de directeur-generaal en de onder de directeur-generaal ressorterende organisatieonderdelen, genoemd in [artikel 2, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=2&artikel=2&z=2024-09-19&g=2024-07-02), verantwoordelijk voor:
+1. De afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI is ten behoeve van de directeur-generaal en de onder de directeur-generaal ressorterende organisatieonderdelen, genoemd in [artikel 2, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=2&artikel=2&z=2024-09-19&g=2024-09-19), verantwoordelijk voor:
 
 - a. alle interne bedrijfsvoeringsprocessen, waaronder de management-, administratieve-, personele- en financiële ondersteuning, automatisering en huisvesting;
 
@@ -220,7 +218,7 @@ Vervallen
 
 2. Aan elke directeur wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten over, het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op:
 
-- a. de in [artikel 3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=3&artikel=3&z=2024-09-19&g=2024-07-02), genoemde personeelsaangelegenheden;
+- a. de in [artikel 3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=3&artikel=3&z=2024-09-19&g=2024-09-19), genoemde personeelsaangelegenheden;
 
 - b. de behandeling van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:1), voor zover deze klachten betrekking hebben op gedragingen van de onder elk van hen ressorterende functionarissen.
 
@@ -232,7 +230,7 @@ Vervallen
 
 ##### Artikel 11
 
-1. [Artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=4&artikel=10&z=2024-09-19&g=2024-07-02) is van overeenkomstige toepassing op de bevoegdheden van het hoofd van de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI, voor zover zij verband houden met de verantwoordelijkheden ten behoeve van de eigen afdeling.
+1. [Artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=4&artikel=10&z=2024-09-19&g=2024-09-19) is van overeenkomstige toepassing op de bevoegdheden van het hoofd van de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI, voor zover zij verband houden met de verantwoordelijkheden ten behoeve van de eigen afdeling.
 
 2. In afwijking van het eerste lid wordt aan het hoofd van de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI mandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken voor zover zij verband houden met de verantwoordelijkheden ten behoeve van de directeur-generaal en de directeuren.
 
@@ -242,7 +240,7 @@ Vervallen
 
 ##### Artikel 12
 
-In aanvulling op [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=4&artikel=10&z=2024-09-19&g=2024-07-02), wordt aan de directeur van de directie Stelsel en Volksverzekeringen mandaat verleend tot het verlenen van subsidies en rijksvergoedingen ter zake van wetten en regelingen waarvan de uitvoering is opgedragen aan de Sociale verzekeringsbank, voor zover het wetten en regelingen betreft op het werkterrein van de directie Samenleving en Integratie, de directie Werknemersregelingen en de directie Participatie en Decentrale Voorzieningen.
+In aanvulling op [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=4&artikel=10&z=2024-09-19&g=2024-09-19), wordt aan de directeur van de directie Stelsel en Volksverzekeringen mandaat verleend tot het verlenen van subsidies en rijksvergoedingen ter zake van wetten en regelingen waarvan de uitvoering is opgedragen aan de Sociale verzekeringsbank, voor zover het wetten en regelingen betreft op het werkterrein van de directie Samenleving en Integratie, de directie Werknemersregelingen en de directie Participatie en Decentrale Voorzieningen.
 
 #### § 5. Slotbepalingen
 
@@ -268,7 +266,7 @@ In aanvulling op [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 1. Het [Organisatie-, mandaat- en volmachtbesluit directeur-generaal Participatie en Inkomenswaarborg 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024972) wordt ingetrokken.
 
-2. Na de inwerkingtreding van deze regeling berusten de volgende regelingen die genomen zijn krachtens de [artikelen 3, eerste lid, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0024972&artikel=3), en [10, van het Organisatie-, mandaat- en volmachtbesluit directeur-generaal Participatie en Inkomenswaarborg 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024972&artikel=10) op de [artikelen 3, eerste lid, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=3&artikel=3&z=2024-09-19&g=2024-07-02), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=4&artikel=10&z=2024-09-19&g=2024-07-02) van deze regeling:
+2. Na de inwerkingtreding van deze regeling berusten de volgende regelingen die genomen zijn krachtens de [artikelen 3, eerste lid, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0024972&artikel=3), en [10, van het Organisatie-, mandaat- en volmachtbesluit directeur-generaal Participatie en Inkomenswaarborg 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024972&artikel=10) op de [artikelen 3, eerste lid, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=3&artikel=3&z=2024-09-19&g=2024-09-19), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=4&artikel=10&z=2024-09-19&g=2024-09-19) van deze regeling:
 
 - a. het [Organisatie-, mandaat- en volmachtbesluit Re-integratie en Participatie 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024987);
 
@@ -278,7 +276,7 @@ In aanvulling op [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 - d. het [Organisatie-, mandaat- en volmachtbesluit I&S 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034841).
 
-3. Na de inwerkingtreding van deze regeling berust het [Organisatie-, mandaat- en volmachtbesluit afdeling BSB-P&I 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034688) dat genomen is krachtens de [artikelen 3, eerste lid, aanhef en onderdeel k, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024972&artikel=3), en [10, van het Organisatie-, mandaat- en volmachtbesluit directeur-generaal Participatie en Inkomenswaarborg 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024972&artikel=10) op de [artikelen 3, eerste lid, aanhef en onderdeel k, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=3&artikel=3&z=2024-09-19&g=2024-07-02), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=4&artikel=10&z=2024-09-19&g=2024-07-02) van deze regeling.
+3. Na de inwerkingtreding van deze regeling berust het [Organisatie-, mandaat- en volmachtbesluit afdeling BSB-P&I 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034688) dat genomen is krachtens de [artikelen 3, eerste lid, aanhef en onderdeel k, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024972&artikel=3), en [10, van het Organisatie-, mandaat- en volmachtbesluit directeur-generaal Participatie en Inkomenswaarborg 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024972&artikel=10) op de [artikelen 3, eerste lid, aanhef en onderdeel k, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=3&artikel=3&z=2024-09-19&g=2024-09-19), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=4&artikel=10&z=2024-09-19&g=2024-09-19) van deze regeling.
 
 4. Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 mei 2015.
 
