@@ -4,7 +4,7 @@ identifier: "BWBR0048761"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-10-23"
-last_updated: "2023-12-21"
+last_updated: "2024-09-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048761"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- **commissie:** beoordelingscommissie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048761&artikel=2&z=2023-12-21&g=2023-12-21);
+- **commissie:** beoordelingscommissie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048761&artikel=2&z=2024-09-19&g=2024-09-19);
 
 - **DUS-I:** Dienst Uitvoering Subsidies aan Instellingen;
 
@@ -62,11 +62,11 @@ In dit besluit wordt verstaan onder:
 
 3. De commissie heeft tot taak de minister te adviseren over:
 
-- a. de subsidieaanvragen, bedoeld in [artikel 3 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&artikel=3) op basis van het beoordelingskader dat is opgenomen in de [bijlage van de regeling](onbekend);
+- a. de subsidieaanvragen, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&artikel=3) en [14a van de regeling](onbekend) op basis van de beoordelingskaders die zijn opgenomen in de bijlagen van de [regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0048594);
 
-- b. de rangschikking van de subsidieaanvragen die voldoen aan de criteria in het beoordelingskader, bedoeld onder a, volgens de voorschriften, bedoeld in [artikel 10, vierde lid van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&artikel=10).
+- b. de rangschikking van de subsidieaanvragen die voldoen aan de criteria in het beoordelingskader, bedoeld onder a, volgens de voorschriften, bedoeld in de [artikelen 10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&artikel=10), en [14f, tweede en derde lid van de regeling](onbekend).
 
-4. Voor de taken, bedoeld in het derde lid, adviseert de commissie de minister binnen 16 weken na afloop van de aanvraagperiode, bedoeld in de [artikelen 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&artikel=12), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&artikel=13), en [14, eerste lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&artikel=14).
+4. Voor de taken, bedoeld in het derde lid, adviseert de commissie de minister binnen 16 weken na afloop van de aanvraagperiode, bedoeld in de [artikelen 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&artikel=12), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&artikel=13), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&artikel=14), en [14h van de regeling](onbekend).
 
 ##### Artikel 3. Samenstelling, benoeming en ontslag
 
@@ -130,11 +130,11 @@ De commissie verstrekt aan de minister desgevraagd de door hem gewenste inlichti
 
 2. De vergoeding van de overige leden bedraagt € 325,00 euro per dagdeel.
 
-3. Een commissielid ontvangt de volgende vergoeding voor het beoordelen van een subsidieaanvraag als bedoeld in [artikel 10 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&artikel=10):
+3. Een commissielid ontvangt de volgende vergoeding voor het beoordelen van een subsidieaanvraag als bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&artikel=10) en [14f van de regeling](onbekend):
 
 - 1°. één dagdeel voor het bijwonen van de introductiebijeenkomst;
 
-- 2°. per aanvraagronde maximaal vijf dagdelen voor de individuele beoordeling van de subsidieaanvragen als bedoeld in [artikel 10 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&artikel=10); en
+- 2°. per aanvraagronde maximaal tien dagdelen voor de individuele beoordeling van de subsidieaanvragen als bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048594&artikel=10) en [14f van de regeling](onbekend); en
 
 - 3°. per aanvraagperiode maximaal twee dagdelen voor het uitbrengen van advies aan de minister.
 
