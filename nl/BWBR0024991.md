@@ -4,7 +4,7 @@ identifier: "BWBR0024991"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-11"
-last_updated: "2024-09-01"
+last_updated: "2024-09-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024991"
 soort: "ministeriele-regeling"
@@ -46,9 +46,9 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **bewindspersoon:** de Minister van Sociale Zaken en Werkgelegenheid of de Minister voor Armoedebeleid, Participatie en Pensioenen, afhankelijk van wie het aangaat;
+- a. **bewindspersoon:** de Minister van Sociale Zaken en Werkgelegenheid of de Staatsecretaris van Sociale Zaken en Werkgelegenheid, afhankelijk van wie het aangaat;
 
-- b. **directie:** een van de organisatieonderdelen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=2&artikel=2&z=2024-09-19&g=2024-09-01);
+- b. **directie:** een van de organisatieonderdelen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=2&artikel=2&z=2024-09-19&g=2024-09-19);
 
 - c. **directeur:** een functionaris die leiding geeft aan een directie;
 
@@ -64,7 +64,9 @@ Onder de secretaris-generaal ressorteren:
 
 - b. de directie Financieel Economische Zaken;
 
-- c. de directie Wetgeving, Bestuurlijke en Juridische Aangelegenheden.
+- c. de directie Wetgeving, Bestuurlijke en Juridische Aangelegenheden;
+
+- d. de directie Bestuursondersteuning.
 
 #### § 3. Verantwoordelijkheden
 
@@ -82,7 +84,7 @@ Onder de secretaris-generaal ressorteren:
 
 - e. de personeelsaangelegenheden van de onder elk van hen ressorterende functionarissen, met inbegrip van de uitvoering van het arbeidsomstandigheden- en ziekteverzuimbeleid, voor zover dit niet is voorbehouden aan de secretaris-generaal;
 
-- f. het zorgdragen voor de administratieve en financiële afhandeling van de uitvoering van de eigen personeelsaangelegenheden, voor zover deze niet is opgedragen aan anderen zoals de directie Bedrijfsvoering en de Stichting Pensioenfonds ABP;
+- f. het zorgdragen voor de administratieve en financiële afhandeling van de uitvoering van de eigen personeelsaangelegenheden, voor zover deze niet is opgedragen aan anderen zoals de directie Organisatie, Bedrijfsvoering en Personeel en de Stichting Pensioenfonds ABP;
 
 - g. het op orde hebben van de administratieve organisatie en informatiebeveiliging;
 
@@ -96,7 +98,7 @@ Onder de secretaris-generaal ressorteren:
 
 - l. de behandeling van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:1) voor zover deze betrekking hebben op gedragingen van de onder hen ressorterende functionarissen;
 
-- m. het dynamisch archiefbeheer van zijn directie, te weten postbehandeling, registratie, voortgang- en afdoeningsbewaking, dossierbeheer, informatievoorziening, selectie, vernietiging en overdracht aan de directie Bedrijfsvoering, alsmede het opstellen, vaststellen en onderhouden van het ordeningsplan van de directie;
+- m. het dynamisch archiefbeheer van zijn directie, te weten postbehandeling, registratie, voortgang- en afdoeningsbewaking, dossierbeheer, informatievoorziening, selectie, vernietiging en overdracht aan de directie Organisatie, Bedrijfsvoering en Personeel, alsmede het opstellen, vaststellen en onderhouden van het ordeningsplan van de directie;
 
 - n. het materieel beheer overeenkomstig de [Regeling materieelbeheer rijksoverheid 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019767) en de [Regeling materieelbeheer museale voorwerpen](https://wetten.overheid.nl/jci1.3:c:BWBR0020583).
 
@@ -142,7 +144,7 @@ De directie Financieel Economische Zaken is verantwoordelijk voor:
 
 - d. het adviseren over en behandelen van bestuurlijke aangelegenheden op het terrein van het ministerie;
 
-- e. het adviseren over en behandelen van juridische vraagstukken op het terrein van het ministerie, waaronder aangelegenheden met betrekking tot de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754), en bezwaar- en beroepszaken met inbegrip van het nemen van een beslissing op een bezwaarschrift, voor zover deze niet onder de verantwoordelijkheid van de directie Bedrijfsvoering, de Nederlandse Arbeidsinspectie en het Expertisecentrum arbeidsjuridisch van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties vallen en met uitzondering van het nemen van een beslissing op een beroepschrift;
+- e. het adviseren over en behandelen van juridische vraagstukken op het terrein van het ministerie, waaronder aangelegenheden met betrekking tot de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754), en bezwaar- en beroepszaken met inbegrip van het nemen van een beslissing op een bezwaarschrift, voor zover deze niet onder de verantwoordelijkheid van de directie Organisatie, Bedrijfsvoering en Personeel, de Nederlandse Arbeidsinspectie en het Expertisecentrum arbeidsjuridisch van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties vallen en met uitzondering van het nemen van een beslissing op een beroepschrift;
 
 - f. het bijdragen aan de totstandkoming en implementatie van internationale verdragen respectievelijk regelingen, het toetsen van nationale (ontwerp)regelgeving aan het internationale recht en het behandelen van internationale procedures.
 
@@ -152,11 +154,11 @@ De directie Financieel Economische Zaken is verantwoordelijk voor:
 
 ##### Artikel 9
 
-1. Elk van de directeuren is bevoegd om namens een bewindspersoon besluiten te nemen, overeenkomsten aan te gaan en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met de taken en verantwoordelijkheden van zijn directie, tenzij deze zijn voorbehouden aan een bewindspersoon, de secretaris-generaal of de plaatsvervangend secretaris-generaal, dan wel ingevolge [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=4&artikel=10&z=2024-09-19&g=2024-09-01) onder de bevoegdheid van een andere directeur vallen.
+1. Elk van de directeuren is bevoegd om namens een bewindspersoon besluiten te nemen, overeenkomsten aan te gaan en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met de taken en verantwoordelijkheden van zijn directie, tenzij deze zijn voorbehouden aan een bewindspersoon, de secretaris-generaal of de plaatsvervangend secretaris-generaal, dan wel ingevolge [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=4&artikel=10&z=2024-09-19&g=2024-09-19) onder de bevoegdheid van een andere directeur vallen.
 
 2. Aan elke directeur wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten over, het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op:
 
-- a. de in [artikel 3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=3&artikel=3&z=2024-09-19&g=2024-09-01), genoemde personeelsaangelegenheden;
+- a. de in [artikel 3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=3&artikel=3&z=2024-09-19&g=2024-09-19), genoemde personeelsaangelegenheden;
 
 - b. de behandeling van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:1), voor zover deze klachten betrekking hebben op gedragingen van de onder elk van hen ressorterende functionarissen.
 
@@ -190,7 +192,11 @@ De directie Financieel Economische Zaken is verantwoordelijk voor:
 
 2. De directeur Communicatie is, in afwijking van [artikel 15, tweede lid, van het Organisatie-, mandaat- en volmachtbesluit SZW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&artikel=15), voorts bevoegd tot het ondertekenen van brieven ter beantwoording van persoonlijke brieven gericht aan de bewindspersoon.
 
-3. De directeur Financieel Economische Zaken is bevoegd tot het aangaan van overeenkomsten met het Centraal bureau voor de statistiek alsmede overeenkomsten met betrekking tot meerjarige, structurele beleidsinformatievoorziening die het verzamelen, bewerken en leveren van beleidsinformatie betreffen, voor zover deze informatie primair bedoeld is voor ramingen en verdeelmodellen, dan wel verband houdt met verplichtingen die voortvloeien uit de Regeling Prestatiegegevens en Evaluatieonderzoek Rijksoverheid zoals opgenomen in het Handboek Financiële Informatie en Administratie Rijksoverheid of met verplichtingen die voortvloeien uit internationale verdragen.
+3. De directeur Financieel Economische Zaken is bevoegd tot het aangaan van:
+
+- a. overeenkomsten met het Centraal bureau voor de statistiek met een waarde van ten hoogste € 1.000.000,–; en
+
+- b. overeenkomsten met betrekking tot meerjarige, structurele beleidsinformatievoorziening die het verzamelen, bewerken en leveren van beleidsinformatie betreffen, voor zover deze informatie primair bedoeld is voor ramingen en verdeelmodellen, dan wel verband houdt met verplichtingen die voortvloeien uit de Regeling Prestatiegegevens en Evaluatieonderzoek Rijksoverheid zoals opgenomen in het Handboek Financiële Informatie en Administratie Rijksoverheid of met verplichtingen die voortvloeien uit internationale verdragen.
 
 4. De directeur Financieel Economische Zaken is voorts bevoegd tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op de voorlopige buiteninvorderingstelling van vorderingen op derden, de definitieve buiteninvorderingstelling van vorderingen op derden en de kwijtschelding van vorderingen op derden van ten hoogste € 1.000.000,–.
 
@@ -198,7 +204,7 @@ De directie Financieel Economische Zaken is verantwoordelijk voor:
 
 6. De directeur Wetgeving, Bestuurlijke en Juridische Aangelegenheden is voorts bevoegd tot het nemen van dwangsombesluiten die verband houden met het niet tijdig afdoen van een bezwaarschrift.
 
-7. De directeur Wetgeving, Bestuurlijke en Juridische Aangelegenheden is voorts bevoegd tot het ondertekenen van de beslissing op een bezwaarschrift, met uitzondering van de in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=3&artikel=8&z=2024-09-19&g=2024-09-01), bedoelde gevallen.
+7. De directeur Wetgeving, Bestuurlijke en Juridische Aangelegenheden is voorts bevoegd tot het ondertekenen van de beslissing op een bezwaarschrift, met uitzondering van de in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=3&artikel=8&z=2024-09-19&g=2024-09-19), bedoelde gevallen.
 
 8. De directeur Wetgeving, Bestuurlijke en Juridische Aangelegenheden is voorts bevoegd om:
 
@@ -209,6 +215,8 @@ De directie Financieel Economische Zaken is verantwoordelijk voor:
 - c. het onder a en b bedoelde oordeel ter kennis te brengen van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Buitenlandse Zaken.
 
 9. De directeur Wetgeving, Bestuurlijke en Juridische Aangelegenheden is voorts bevoegd tot het ondertekenen van een beslissing op een verzoek om informatie op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754).
+
+10. De directeur Bestuursondersteuning is bevoegd om overeenkomsten met betrekking tot incidentele beleidsinformatie, met uitzondering van overeenkomsten met het Centraal bureau voor de statistiek, aan te gaan tot een waarde van € 500.000,– per overeenkomst inclusief BTW.
 
 #### § 5. Slotbepalingen
 
@@ -232,7 +240,7 @@ De directie Financieel Economische Zaken is verantwoordelijk voor:
 
 ##### Artikel 12
 
-Na de inwerkingtreding van deze regeling berusten de volgende regelingen die genomen zijn krachtens de [artikelen 3, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0016199&artikel=3), en [11 van het Organisatie-, mandaat- en volmachtbesluit SZW 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016199&artikel=11) op de [artikelen 3, eerste lid, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=3&artikel=3&z=2024-09-19&g=2024-09-01), en [11 van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=5&artikel=11&z=2024-09-19&g=2024-09-01):
+Na de inwerkingtreding van deze regeling berusten de volgende regelingen die genomen zijn krachtens de [artikelen 3, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0016199&artikel=3), en [11 van het Organisatie-, mandaat- en volmachtbesluit SZW 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016199&artikel=11) op de [artikelen 3, eerste lid, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=3&artikel=3&z=2024-09-19&g=2024-09-19), en [11 van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=5&artikel=11&z=2024-09-19&g=2024-09-19):
 
 - a. het [Organisatie-, mandaat- en volmachtbesluit BSG SZW 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016367);
 
