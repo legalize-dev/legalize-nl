@@ -4,7 +4,7 @@ identifier: "BWBR0039687"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-09-20"
-last_updated: "2022-07-01"
+last_updated: "2024-09-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039687"
 soort: "ministeriele-regeling"
@@ -92,7 +92,7 @@ Voor het verrichten van een onderzoek van speeksel als bedoeld in [artikel 8, ee
 
 2. Voor de bloedafname, bedoeld in het eerste lid, worden de volgende hulpmiddelen voorgeschreven:
 
-- a. twee buisjes elk met een inhoud van 5 milliliter die ten minste 4 milligram per milliliter inhoud van de buis natriumfluoride bevatten en voldoende heparinenatrium voor antistolling van het bloed;
+- a. twee glazen buizen elk met een inhoud van 5 milliliter die ten minste 4 milligram per milliliter inhoud van de buis natriumfluoride bevatten en voldoende heparinenatrium voor antistolling van het bloed of twee plastic buizen elk met een inhoud van 4 milliliter die ten minste 2 milligram per milliliter inhoud van de buis natriumfluoride bevatten en voldoende kaliumoxalaat voor antistolling van het bloed;
 
 - b. een universeel systeem voor bloedafname dat voorzien is van een prikbeschermer na bloedafname;
 
@@ -114,15 +114,15 @@ Voor het verrichten van een onderzoek van speeksel als bedoeld in [artikel 8, ee
 
 ##### Artikel 7
 
-1. De methode voor de uitvoering van een bloedonderzoek als bedoeld in [artikel 1, onder b, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=1) voldoet aan de eisen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&bijlage=1&z=2022-07-01&g=2022-07-01) bij deze regeling.
+1. De methode voor de uitvoering van een bloedonderzoek als bedoeld in [artikel 1, onder b, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=1) voldoet aan de eisen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&bijlage=1&z=2024-09-20&g=2024-09-20) bij deze regeling.
 
-2. De methode voor de uitvoering van een aanvullend bloedonderzoek als bedoeld in [artikel 1, onder c, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=1) voldoet aan de eisen, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&bijlage=2&z=2022-07-01&g=2022-07-01) bij deze regeling.
+2. De methode voor de uitvoering van een aanvullend bloedonderzoek als bedoeld in [artikel 1, onder c, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=1) voldoet aan de eisen, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&bijlage=2&z=2024-09-20&g=2024-09-20) bij deze regeling.
 
 ##### Artikel 8
 
 1. Het verschuldigde bedrag voor de bloedafname, bedoeld in [artikel 11, derde lid, onder b, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=11), ten behoeve van een tegenonderzoek bedraagt € 78 indien het afnemen van het bloed door een arts of verpleegkundige geschiedt in de periode van 8.00 uur tot 18.00 uur en € 102 indien het afnemen geschiedt in de periode van 18.00 uur tot 8.00 uur of in de periode van 18.00 uur vrijdagavond tot 8.00 uur maandagochtend.
 
-2. Voor de verzending van het buisje met bloed bestemd voor het tegenonderzoek naar het gehalte van alcohol en naar het gehalte van een of meer van de in [artikel 2 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=2) aangewezen stoffen of een andere stof als bedoeld in [artikel 8, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=8) zijn de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&bijlage=3&z=2022-07-01&g=2022-07-01) opgenomen kosten verschuldigd.
+2. Voor de verzending van het buisje met bloed bestemd voor het tegenonderzoek naar het gehalte van alcohol en naar het gehalte van een of meer van de in [artikel 2 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=2) aangewezen stoffen of een andere stof als bedoeld in [artikel 8, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=8) zijn de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&bijlage=3&z=2024-09-20&g=2024-09-20) opgenomen kosten verschuldigd.
 
 ##### Artikel 9
 
@@ -196,7 +196,7 @@ Deze regeling wordt aangehaald als: Regeling alcohol, drugs en geneesmiddelen in
 
 - •. Het rapport van het tegenonderzoek licht toe in hoeverre de conclusie van dat onderzoek overeenkomt met de conclusie van het initiële onderzoek.
 
-## Bijlage 1. behorende bij [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&artikel=7&z=2022-07-01&g=2022-07-01)
+## Bijlage 1. behorende bij [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&artikel=7&z=2024-09-20&g=2024-09-20)
 
 **De eisen aan de methode met behulp waarvan bloedonderzoek als bedoeld in artikel 1, onder b, van het Besluit wordt verricht:**
 
@@ -294,7 +294,7 @@ Een minimaal aantal van 20 waarnemingen op CRM is nodig om de intra-laboratorium
 
 - •. Er wordt bij het rapporteren van het eindresultaat geen rekening gehouden met medicinaal gebruik van de aangewezen stoffen, bedoeld in [artikel 2 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=2).
 
-## Bijlage 2. behorende bij [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&artikel=7&z=2022-07-01&g=2022-07-01)
+## Bijlage 2. behorende bij [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&artikel=7&z=2024-09-20&g=2024-09-20)
 
 **De eisen aan de methode met behulp waarvan een aanvullend bloedonderzoek als bedoeld in artikel 1, onder c, van het Besluit wordt verricht:**
 
@@ -320,7 +320,7 @@ De regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Als ambtenaren als bedoeld in [artikel 163, vijfde en zevende lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=163), [artikel 28a, zesde, negende en tiende lid, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=28a), [artikel 89, vijfde, achtste en negende lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=89), [artikel 48, vijfde, achtste en negende lid, van de Wet lokaal spoor](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=48) en [artikel 11.6, vijfde, achtste en negende lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=11.6) worden aangewezen de ambtenaren van politie die in schaal 8 of hoger zijn benoemd.
 
-## Bijlage 3. behorende bij artikel bij [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&artikel=8&z=2022-07-01&g=2022-07-01)
+## Bijlage 3. behorende bij artikel bij [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039687&artikel=8&z=2024-09-20&g=2024-09-20)
 
 ### Verzending naar een laboratorium buiten Nederland
 
