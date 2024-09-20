@@ -4,7 +4,7 @@ identifier: "BWBR0050213"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-09-20"
-last_updated: "2024-08-01"
+last_updated: "2024-09-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050213"
 soort: "zbo"
@@ -126,7 +126,7 @@ Een subsidie kan worden verstrekt voor een periode van maximaal 11 maanden voor 
 
 ##### Artikel 2.1. Subsidieaanvrager
 
-1. Subsidie kan uitsluitend worden aangevraagd door nieuwsorganisaties als bedoeld in [artikel 1.1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0050213&hoofdstuk=1&artikel=1.1&z=2024-09-20&g=2024-08-01).
+1. Subsidie kan uitsluitend worden aangevraagd door nieuwsorganisaties als bedoeld in [artikel 1.1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0050213&hoofdstuk=1&artikel=1.1&z=2024-09-20&g=2024-09-20).
 
 2. Een nieuwsorganisatie kan op grond van deze regeling slechts één keer subsidie aanvragen.
 
@@ -152,7 +152,7 @@ Een subsidie kan worden verstrekt voor een periode van maximaal 11 maanden voor 
 
 - h). Indien aanwezig de meest recente jaarrekening en het meest recente jaarverslag.
 
-2. Een aanvraag wordt alleen in behandeling genomen als deze volledig is. Het Stimuleringsfonds beoordeelt binnen een week na indiening van de aanvraag de volledigheid daarvan. In voorkomend geval krijgt de aanvrager bericht over ontbrekende gegevens, met de uitnodiging om de ontbrekende gegevens alsnog binnen één week aan te leveren, maar in elk geval voor het einde van de periode als genoemd in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0050213&hoofdstuk=2&artikel=2.3&z=2024-09-20&g=2024-08-01), aan te leveren. Blijft tijdige en volledige aanlevering van de gegevens uit, dan wordt de aanvraag buiten behandeling gesteld.
+2. Een aanvraag wordt alleen in behandeling genomen als deze volledig is. Het Stimuleringsfonds beoordeelt binnen een week na indiening van de aanvraag de volledigheid daarvan. In voorkomend geval krijgt de aanvrager bericht over ontbrekende gegevens, met de uitnodiging om de ontbrekende gegevens alsnog binnen één week aan te leveren, maar in elk geval voor het einde van de periode als genoemd in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0050213&hoofdstuk=2&artikel=2.3&z=2024-09-20&g=2024-09-20), aan te leveren. Blijft tijdige en volledige aanlevering van de gegevens uit, dan wordt de aanvraag buiten behandeling gesteld.
 
 ##### Artikel 2.3. Termijn aanvraag
 
@@ -168,7 +168,7 @@ Het voor subsidie beschikbare bedrag wordt verdeeld op basis van een rangschikki
 
 1. Aanvragen worden door het Stimuleringsfonds eerst beoordeeld aan de hand van het volgende drempelcriterium:
 
-- a. De aanvrager voldoet aan [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050213&hoofdstuk=2&artikel=2.1&z=2024-09-20&g=2024-08-01).
+- a. De aanvrager voldoet aan [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050213&hoofdstuk=2&artikel=2.1&z=2024-09-20&g=2024-09-20).
 
 2. Als een aanvraag niet aan het drempelcriterium voldoet, wijst het Stimuleringsfonds de aanvraag af.
 
@@ -192,9 +192,9 @@ Het voor subsidie beschikbare bedrag wordt verdeeld op basis van een rangschikki
 
 2. De adviescommissie hanteert het Reglement Adviescommissies Stimuleringsfonds voor de Journalistiek. Hierbij geldt de versie zoals gepubliceerd op de website van het Stimuleringsfonds op het moment van indienen: [www.svdj.nl/adviseurs](https://svdp.sharepoint.com/sites/SVDJPijlers/Pijlers/Algemeen/4.%20Verdieping/2022/Regeling%202022-23/www.svdj.nl/adviseurs).
 
-3. De adviescommissie beoordeelt de aanvragen aan de hand van de inhoudelijke criteria van [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0050213&hoofdstuk=3&artikel=3.3&z=2024-09-20&g=2024-08-01).
+3. De adviescommissie beoordeelt de aanvragen aan de hand van de inhoudelijke criteria van [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0050213&hoofdstuk=3&artikel=3.3&z=2024-09-20&g=2024-09-20).
 
-4. De adviescommissie weegt bij de beoordeling van de inhoudelijke criteria van [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0050213&hoofdstuk=3&artikel=3.3&z=2024-09-20&g=2024-08-01) mee in welke ontwikkelingsfase de aanvrager zich bevindt.
+4. De adviescommissie weegt bij de beoordeling van de inhoudelijke criteria van [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0050213&hoofdstuk=3&artikel=3.3&z=2024-09-20&g=2024-09-20) mee in welke ontwikkelingsfase de aanvrager zich bevindt.
 
 5. Bij beoordeling op de inhoudelijke criteria ‘Redactionele leiding’, ‘Visie’ en ‘Duurzaamheid’ wordt het oordeel door de adviescommissie vertaald in een waardering per criterium. Hierbij wordt gewerkt met een systeem waarin deze waardering wordt omgezet in een cijfer. Zowel de waardering als het cijfer staan op zichzelf; aanvragen worden niet direct met elkaar vergeleken.
 
@@ -230,7 +230,7 @@ Het voor subsidie beschikbare bedrag wordt verdeeld op basis van een rangschikki
 
 ##### Artikel 3.5. Besluit
 
-Het Stimuleringsfonds beslist binnen 12 weken na afloop van de periode, bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0050213&hoofdstuk=2&artikel=2.3&z=2024-09-20&g=2024-08-01) en maakt het besluit bekend aan de aanvrager.
+Het Stimuleringsfonds beslist binnen 12 weken na afloop van de periode, bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0050213&hoofdstuk=2&artikel=2.3&z=2024-09-20&g=2024-09-20) en maakt het besluit bekend aan de aanvrager.
 
 ##### Artikel 3.6. Subsidiehoogte
 
@@ -270,7 +270,7 @@ Bij een subsidieverlening wordt het verleende subsidiebedrag bij wijze van voors
 
 1. Een aanvraag tot subsidievaststelling wordt uiterlijk 28 februari 2026 ingediend.
 
-2. De aanvraag tot subsidievaststelling gaat vergezeld van een inhoudelijk verslag en een financieel verslag als bedoeld in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0050213&hoofdstuk=5&artikel=5.2&z=2024-09-20&g=2024-08-01).
+2. De aanvraag tot subsidievaststelling gaat vergezeld van een inhoudelijk verslag en een financieel verslag als bedoeld in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0050213&hoofdstuk=5&artikel=5.2&z=2024-09-20&g=2024-09-20).
 
 ##### Artikel 5.2. Inhoudelijk verslag en financieel verslag
 
