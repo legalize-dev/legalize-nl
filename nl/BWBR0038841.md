@@ -4,7 +4,7 @@ identifier: "BWBR0038841"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-09-20"
-last_updated: "2022-07-01"
+last_updated: "2024-09-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038841"
 soort: "ministeriele-regeling"
@@ -82,7 +82,7 @@ In deze regeling wordt verstaan onder:
 
 1. Voor de bloedafname ten behoeve van het bloedonderzoek, bedoeld in [artikel 13, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&artikel=13) worden de volgende hulpmiddelen voorgeschreven:
 
-- a. twee buisjes elk met een inhoud van 5 milliliter, die ten minste 4 milligram per milliliter inhoud van de buis natriumfluoride bevatten, alsmede voldoende heparinenatrium voor antistolling van het bloed;
+- a. twee glazen buizen elk met een inhoud van 5 milliliter die ten minste 4 milligram per milliliter inhoud van de buis natriumfluoride bevatten en voldoende heparinenatrium voor antistolling van het bloed of twee plastic buizen elk met een inhoud van 4 milliliter die ten minste 2 milligram per milliliter inhoud van de buis natriumfluoride bevatten en voldoende kaliumoxalaat voor antistolling van het bloed;
 
 - b. een universeel bloedafname systeem, voorzien van een prikbeschermer na bloedafname;
 
@@ -114,7 +114,7 @@ De methode voor de uitvoering van bloedonderzoek voor het bepalen van het gehalt
 
 1. Het verschuldigde bedrag voor de bloedafname, bedoeld in [artikel 12, derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&artikel=12) ten behoeve van een tegenonderzoek bedraagt € 78,– indien het afnemen van bloed door een arts of verpleegkundige geschiedt in de periode van 8.00 uur tot 18.00 uur en €102,– indien het afnemen geschiedt in de periode 18.00 uur ’s avonds tot 08.00 uur ’s ochtends of in de periode van 18.00 uur vrijdagavond tot 08.00 uur maandagochtend.
 
-2. Voor de verzending van het buisje met bloed bestemd voor het tegenonderzoek naar het gehalte van alcohol en naar het gehalte van een of meer van de in [artikel 3 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&artikel=3) aangewezen stoffen zijn de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038841&bijlage=2&z=2022-07-01&g=2022-07-01) opgenomen kosten verschuldigd.
+2. Voor de verzending van het buisje met bloed bestemd voor het tegenonderzoek naar het gehalte van alcohol en naar het gehalte van een of meer van de in [artikel 3 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&artikel=3) aangewezen stoffen zijn de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038841&bijlage=2&z=2024-09-20&g=2024-09-20) opgenomen kosten verschuldigd.
 
 ##### Artikel 7
 
@@ -185,7 +185,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Voor het verrichten van een onderzoek van speeksel als bedoeld in [artikel 9, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=9), worden het type Securetec DrugWipe 5S en tot 1 maart 2023 tevens het type Dräger DrugCheck® 3000 als speekseltesters aangewezen.
 
-## Bijlage 1. behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038841&artikel=5&z=2022-07-01&g=2022-07-01) van de Regeling middelenonderzoek bij geweldplegers
+## Bijlage 1. behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038841&artikel=5&z=2024-09-20&g=2024-09-20) van de Regeling middelenonderzoek bij geweldplegers
 
 Bij bloedonderzoek naar het bepalen van het gehalte van alcohol of een of meer van de middelen bedoeld in [artikel 3 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&artikel=3), wordt aan de volgende eisen voldaan:
 
@@ -268,7 +268,7 @@ Een minimaal aantal van 20 waarnemingen op CRM is nodig om de intra-laboratorium
 
 - •. Er wordt bij het rapporteren van de resultaten geen rekening gehouden met medicinaal gebruik van de middelen, bedoeld in [artikel 3 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&artikel=3).
 
-## Bijlage 2. behorende bij artikel bij [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038841&artikel=6&z=2022-07-01&g=2022-07-01)
+## Bijlage 2. behorende bij artikel bij [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038841&artikel=6&z=2024-09-20&g=2024-09-20)
 
 |   | Tegenonderzoek naar gehalte van alcohol in bloed | Tegenonderzoek naar gehalte van de in artikel 3 van het Besluit aangewezen stoffen |
 | --- | --- | --- |
