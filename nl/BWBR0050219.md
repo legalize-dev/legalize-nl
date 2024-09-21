@@ -4,7 +4,7 @@ identifier: "BWBR0050219"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2024-09-21"
-last_updated: "2024-09-11"
+last_updated: "2024-09-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050219"
 soort: "beleidsregel"
@@ -45,7 +45,7 @@ Als gemeenten verdwijnen door samenvoeging met een andere gemeente in het kader 
 
 Dit besluit bevat mijn beleid voor de toepassing van [artikel 14ba Wet Vpb 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14ba) bij de samenvoeging van gemeenten en sluit aan bij mijn beleid voor de fiscale begeleiding van de juridische fusie.1Zoals aangekondigd bij de parlementaire behandeling van artikel 14ba Wet Vpb 1969 (Kamerstukken II 2015/16, 34 305, nr. 3, p. 32).
 
-In paragrafen 2 tot en met 6 wordt onder andere ingegaan op de voorwaarden die in het algemeen worden gesteld bij de toepassing van [artikel 14ba, derde lid, Wet Vpb 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14ba) met betrekking tot samenvoeging van gemeenten in het kader van een bestuurlijke herindeling. Deze voorwaarden zijn opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050219&bijlage=1&z=2024-09-21&g=2024-09-11) van dit besluit. Met nadruk wordt erop gewezen dat het algemene karakter van de voorwaarden meebrengt dat de voorwaarden worden gewijzigd of aangevuld al naar gelang de bijzondere omstandigheden van het geval. In paragraaf 7 wordt een algemene toestemming verleend aan de inspecteur tot het afdoen van bepaalde verzoeken om toepassing van artikel 14ba, derde lid, Wet Vpb 1969. Paragraaf 7 bevat verder instructies voor de afdoening van verzoeken die wel en die niet onder de algemene toestemming vallen. In paragraaf 8 is het beleid opgenomen voor te laat ingediende verzoeken om toepassing van artikel 14ba, derde lid, Wet Vpb 1969. In paragraaf 9 is tot slot de inwerkingtreding geregeld van dit besluit. De goedkeuringen opgenomen in dit besluit zijn gebaseerd op de bevoegdheid die aan mij is verleend in de zin van [artikel 63 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63).
+In paragrafen 2 tot en met 6 wordt onder andere ingegaan op de voorwaarden die in het algemeen worden gesteld bij de toepassing van [artikel 14ba, derde lid, Wet Vpb 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14ba) met betrekking tot samenvoeging van gemeenten in het kader van een bestuurlijke herindeling. Deze voorwaarden zijn opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050219&bijlage=1&z=2024-09-21&g=2024-09-21) van dit besluit. Met nadruk wordt erop gewezen dat het algemene karakter van de voorwaarden meebrengt dat de voorwaarden worden gewijzigd of aangevuld al naar gelang de bijzondere omstandigheden van het geval. In paragraaf 7 wordt een algemene toestemming verleend aan de inspecteur tot het afdoen van bepaalde verzoeken om toepassing van artikel 14ba, derde lid, Wet Vpb 1969. Paragraaf 7 bevat verder instructies voor de afdoening van verzoeken die wel en die niet onder de algemene toestemming vallen. In paragraaf 8 is het beleid opgenomen voor te laat ingediende verzoeken om toepassing van artikel 14ba, derde lid, Wet Vpb 1969. In paragraaf 9 is tot slot de inwerkingtreding geregeld van dit besluit. De goedkeuringen opgenomen in dit besluit zijn gebaseerd op de bevoegdheid die aan mij is verleend in de zin van [artikel 63 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63).
 
 Voor de volledigheid wijs ik er tot slot op dat [artikel 14ba Wet Vpb 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14ba) niet alleen ziet op samenvoeging van gemeenten door bestuurlijke herindeling, maar ook op splitsing van gemeenten door bestuurlijke herindeling, op bestuurlijke herindeling van provincies of waterschappen en op herschikking van ministeries. Dit beleidsbesluit heeft echter, zoals hiervoor vermeld, alleen betrekking op samenvoeging van gemeenten door bestuurlijke herindeling. Zodra voldoende ervaring is opgedaan met deze andere varianten zal ook met betrekking tot die andere varianten een beleidspublicatie worden overwogen.
 
@@ -99,7 +99,7 @@ Bij een bestuurlijke herindeling gaat zonder goedkeurende regeling ook de mogeli
 
 ### 6. Toelichting op de voorwaarden
 
-Zoals vermeld in paragraaf 2 is het buiten aanmerking laten van de winst in bepaalde gevallen alleen mogelijk onder door mij te stellen voorwaarden. [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050219&bijlage=1&z=2024-09-21&g=2024-09-11) bij dit besluit bevat de voorwaarden die door mij in het algemeen hierbij worden gesteld. Hierna wordt een toelichting gegeven op deze voorwaarden.
+Zoals vermeld in paragraaf 2 is het buiten aanmerking laten van de winst in bepaalde gevallen alleen mogelijk onder door mij te stellen voorwaarden. [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050219&bijlage=1&z=2024-09-21&g=2024-09-21) bij dit besluit bevat de voorwaarden die door mij in het algemeen hierbij worden gesteld. Hierna wordt een toelichting gegeven op deze voorwaarden.
 
 Als vermogen door de bestuurlijke herindeling verdwijnt of het bereik van de vennootschapsbelasting verlaat, kan de vennootschapsbelasting niet worden doorgeschoven en is heffing niet verzekerd. De fiscale faciliteit is dan alleen mogelijk door middel van [artikel 14ba, derde lid, Wet Vpb 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14ba). Hierbij verzekert voorwaarde 1 de heffing door te verplichten tot belaste herwaardering van het vermogen waarop de belastingclaim met de bestuurlijke herindeling vervalt. Hierna volgt een toelichting op de werking van deze voorwaarde.
 
@@ -155,7 +155,7 @@ Ik verleen de inspecteurs een algemene toestemming om namens mij te beslissen op
 
 ### 7.3. Afdoening verzoeken die onder de algemene toestemming vallen; te stellen voorwaarden
 
-In de gevallen waarin de inspecteur op grond van de algemene toestemming het verzoek toewijst, doet hij dit onder het stellen van de voorwaarden zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050219&bijlage=1&z=2024-09-21&g=2024-09-11) van dit besluit.
+In de gevallen waarin de inspecteur op grond van de algemene toestemming het verzoek toewijst, doet hij dit onder het stellen van de voorwaarden zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050219&bijlage=1&z=2024-09-21&g=2024-09-21) van dit besluit.
 
 ### 7.4. Verzoeken die niet onder de algemene toestemming vallen
 
@@ -179,7 +179,7 @@ Om in aanmerking te komen voor de goedkeuring moet de verkrijgende partij, voor 
 
 ### 8.4. Toestemming aan de inspecteur
 
-Als wordt voldaan aan de in paragraaf 8.2, onder a en b, genoemde vereisten, verleen ik de inspecteur toestemming om een goedkeuring te verlenen, onder het stellen van de voorwaarden zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050219&bijlage=2&z=2024-09-21&g=2024-09-11) van dit besluit. In het geval een verzoek om toepassing van [artikel 14ba, derde lid, Wet Vpb 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14ba) te laat is ingediend, neemt de inspecteur – voordat hij het verzoek afwijst – contact op met de indiener(s) van het verzoek en vraagt of de indiener gebruik wenst te maken van de in deze paragraaf getroffen goedkeurende regeling.
+Als wordt voldaan aan de in paragraaf 8.2, onder a en b, genoemde vereisten, verleen ik de inspecteur toestemming om een goedkeuring te verlenen, onder het stellen van de voorwaarden zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050219&bijlage=2&z=2024-09-21&g=2024-09-21) van dit besluit. In het geval een verzoek om toepassing van [artikel 14ba, derde lid, Wet Vpb 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14ba) te laat is ingediend, neemt de inspecteur – voordat hij het verzoek afwijst – contact op met de indiener(s) van het verzoek en vraagt of de indiener gebruik wenst te maken van de in deze paragraaf getroffen goedkeurende regeling.
 
 ### 9. Inwerkingtreding
 
