@@ -4,7 +4,7 @@ identifier: "BWBR0044751"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-09-27"
-last_updated: "2024-01-01"
+last_updated: "2024-09-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044751"
 soort: "ministeriele-regeling"
@@ -46,7 +46,13 @@ Besluit:
 
 - a. Voor de periode van 1 januari 2020 tot en met 31 december 2020: € 312,37;
 
-- b. Met ingang van 1 januari 2021: € 322,83.
+- b. Voor de periode van 1 januari 2021 tot en met 31 december 2021: € 322,83;
+
+- c. Voor de periode van 1 januari 2022 tot en met 31 december 2022: € 329,29;
+
+- d. Voor de periode van 1 januari 2023 tot en met 31 december 2023: € 338,33;
+
+- e. Met ingang van 1 januari 2024: € 351,85.
 
 2. Indien de piketdienst van de rechter-commissaris in strafzaken of piketofficier een deel van de week duurt, wordt het vaste bedrag aan pikettoelage op weekbasis naar evenredigheid toegekend.
 
@@ -56,7 +62,7 @@ Het vaste bedrag aan pikettoelage op weekbasis wordt jaarlijks per 1 januari ge�
 
 ##### Artikel 3
 
-1. In aanvulling op het vaste bedrag aan pikettoelage op weekbasis als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044751&artikel=1&z=2021-01-29&g=2024-01-01), ontvangt de rechterlijk ambtenaar een bedrag voor de tijdens onderstaande uren daadwerkelijk verrichte piketwerkzaamheden, bestaande uit een percentage van het normbedrag als genoemd in [artikel 2, eerste lid, van de Regeling toeslag rechterlijke ambtenaren avonduren, zaterdagen, zondag en feestdagen](https://wetten.overheid.nl/jci1.3:c:BWBR0038425&artikel=2) per gewerkt uur, namelijk:
+1. In aanvulling op het vaste bedrag aan pikettoelage op weekbasis als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044751&artikel=1&z=2024-09-27&g=2024-09-27), ontvangt de rechterlijk ambtenaar een bedrag voor de tijdens onderstaande uren daadwerkelijk verrichte piketwerkzaamheden, bestaande uit een percentage van het normbedrag als genoemd in [artikel 2, eerste lid, van de Regeling toeslag rechterlijke ambtenaren avonduren, zaterdagen, zondag en feestdagen](https://wetten.overheid.nl/jci1.3:c:BWBR0038425&artikel=2) per gewerkt uur, namelijk:
 
 - a. 20% voor de uren op maandag tot en met vrijdag tussen 18.00 en 22.00 uur;
 
@@ -76,7 +82,7 @@ De [Regeling pikettoelage rechterlijke ambtenaren](https://wetten.overheid.nl/jc
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot 1 januari 2020.
 
-2. In afwijking van het vorige lid werkt [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044751&artikel=3&z=2021-01-29&g=2024-01-01) terug tot 1 juli 2020.
+2. In afwijking van het vorige lid werkt [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044751&artikel=3&z=2024-09-27&g=2024-09-27) terug tot 1 juli 2020.
 
 ##### Artikel 6
 
