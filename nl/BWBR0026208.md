@@ -4,7 +4,7 @@ identifier: "BWBR0026208"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-09-27"
-last_updated: "2010-07-28"
+last_updated: "2024-09-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026208"
 soort: "ministeriele-regeling"
@@ -44,13 +44,13 @@ Besluit:
 
 Aan het bestuur van de raad voor rechtsbijstand wordt mandaat verleend tot:
 
-- a. het nemen van besluiten met betrekking tot het verlenen van subsidie als bedoeld in [artikel 48c van de wet Justitie-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008121&artikel=48c);
+- a. het nemen van besluiten met betrekking tot het verlenen van subsidie ten behoeve van het optreden als bewindvoerder als bedoeld in [artikel 287, derde lid, van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=287), of ten behoeve van activiteiten ter ondersteuning van bewindvoerders als bedoeld in artikel 287, derde lid, van de Faillissementswet;
 
 - b. het vaststellen van beleidsregels met betrekking tot de onder a verleende bevoegdheid.
 
 ##### Artikel 2
 
-Het bestuur van de raad voor rechtsbijstand kan van het aan hem bij [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0026208&artikel=1&z=2010-07-28&g=2010-07-28), verleende mandaat ondermandaat verlenen aan één of meer onder deze raad ressorterende functionarissen.
+Het bestuur van de raad voor rechtsbijstand kan van het aan hem bij [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0026208&artikel=1&z=2024-09-27&g=2024-09-27), verleende mandaat ondermandaat verlenen aan één of meer onder deze raad ressorterende functionarissen.
 
 ##### Artikel 3
 
@@ -67,5 +67,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 ##### Artikel 5
 
 Dit besluit wordt aangehaald als: Regeling verlening mandaat raad voor rechtsbijstand betreffende verlenen van subsidies en vaststellen van beleidsregels dienaangaande.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 6
+
+Deze regeling berust mede op de [artikelen 2, eerste lid en onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0044954&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0044954&artikel=3) en [4 van de Kaderwet overige JenV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0044954&artikel=4) en [artikel 5 van het Besluit vergoeding bewindvoerder schuldsanering](https://wetten.overheid.nl/jci1.3:c:BWBR0033711&artikel=5).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
