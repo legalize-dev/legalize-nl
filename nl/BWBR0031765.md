@@ -4,7 +4,7 @@ identifier: "BWBR0031765"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-09-27"
-last_updated: "2024-01-01"
+last_updated: "2024-09-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031765"
 soort: "ministeriele-regeling"
@@ -42,11 +42,11 @@ Besluit:
 
 ##### Artikel 1
 
-De bedragen van de algemene onkostenvergoeding worden jaarlijks geïndexeerd op basis van de afgeleide consumentenprijsindex, waarbij de bedragen worden afgerond naar de eerstvolgende euro.
+De bedragen van de algemene onkostenvergoeding worden jaarlijks per 1 januari geïndexeerd op basis van de afgeleide consumentenprijsindex, waarbij de bedragen worden afgerond naar de eerstvolgende euro.
 
 ##### Artikel 2
 
-De indexering van de algemene onkostenvergoeding wordt met terugwerkende kracht tot en met 1 januari van het betreffende kalenderjaar toegepast.
+Vervallen
 
 ##### Artikel 3
 
@@ -200,20 +200,20 @@ De onkostenvergoeding voor het jaar 2008 bedraagt:
 
 Deze regeling zal met toelichting en bijlagen in de Staatscourant worden geplaatst.
 
-## Bijlage. als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&artikel=3&z=2021-01-23&g=2024-01-01) van de Regeling algemene onkostenvergoeding rechterlijke ambtenaren
+## Bijlage. als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&artikel=3&z=2024-09-27&g=2024-09-27) van de Regeling algemene onkostenvergoeding rechterlijke ambtenaren
 
-| Functie | Totaal | Togavergoeding | Vakliteratuur | Kleine consumpties | Representatie |
+| Functie | Totaal | Toga- vergoeding | Vakliteratuur | Kleine consumpties | Representatie |
 | --- | --- | --- | --- | --- | --- |
-| president Hoge Raad procureur-generaal Hoge Raad | **€ 5.354** | € 100 | € 984 | € 146 | € 4.124 |
-| procureurs-generaal die het College van PG’s vormen | **€ 5.190** | € 100 | € 984 | € 146 | € 3.960 |
-| plaatsvervangend procureur-generaal bij de Hoge Raad | **€ 2.993** | € 100 | € 984 | € 146 | € 1.763 |
-| landelijk hoofdadvocaat-generaal hoofdadvocaat-generaal hoofdofficier van justitie | **€ 2.830** | € 100 | € 817 | € 146 | € 1.767 |
-| plaatsvervangend hoofdofficier van justitie | **€ 2.163** | € 100 | € 984 | € 146 | € 933 |
-| vice-president van de Hoge Raad senior raadsheer gerechtshof senior raadsheer Centrale Raad van Beroep senior raadsheer College van Beroep voor het Bedrijfsleven **cvp-senior bij de gerechtshoven, CRvB en CBb (overgangsregeling)** | **€ 1.997** | € 100 | € 984 | € 146 | € 767 |
-| senior rechter A senior rechter advocaat-generaal Hoge Raad senior advocaat generaal ressortsparket advocaat-generaal ressortsparket **cvp-senior bij de rechtbanken (overgangsregeling)** | **€ 1.830** | € 100 | € 817 | € 146 | € 767 |
-| senior officier van justitie A senior officier van justitie officier van justitie substituut-officier van justitie officier enkelvoudige zaken | **€ 1.666** | € 100 | € 817 | € 146 | € 603 |
-| raadsheer Hoge Raad raadsheer gerechtshof rechter raadsheer Centrale Raad van Beroep raadsheer College van Beroep voor het Bedrijfsleven (senior) gerechtsauditeur, tevens raadsheer-plaatsvervanger in een gerechtshof waarbij hij is aangesteld (senior) gerechtsauditeur, tevens rechter-plaatsvervanger in een rechtbank waarbij hij is aangesteld | **€ 1.502** | € 100 | € 984 | € 146 | € 272 |
-| griffier (+ substituut-griffier) Hoge Raad | **€ 840** | – | € 417 | € 146 | € 277 |
-| (senior) gerechtsauditeur rechter in opleiding officier in opleiding | **€ 604** | – | € 458 | € 146 | – |
+| president Hoge Raad procureur-generaal Hoge Raad | **€ 6.346** | € 119 | € 1.167 | € 174 | € 4.886 |
+| procureurs-generaal die het College van PG’s vormen | **€ 6.152** | € 119 | € 1.167 | € 174 | € 4.692 |
+| plaatsvervangend procureur-generaal bij de Hoge Raad | **€ 3.547** | € 119 | € 1.167 | € 174 | € 2.087 |
+| landelijk hoofdadvocaat-generaal hoofdadvocaat-generaal hoofdofficier van justitie | **€ 3.355** | € 119 | € 969 | € 174 | € 2.093 |
+| plaatsvervangend hoofdofficier van justitie | **€ 2.564** | € 119 | € 1.167 | € 174 | € 1.104 |
+| vice-president van de Hoge Raad senior raadsheer gerechtshof senior raadsheer Centrale Raad van Beroep senior raadsheer College van Beroep voor het Bedrijfsleven **cvp-senior bij de gerechtshoven, CRvB en CBb (overgangsregeling)** | **€ 2.368** | € 119 | € 1.167 | € 174 | € 908 |
+| senior rechter A senior rechter advocaat-generaal Hoge Raad senior advocaat generaal ressortsparket advocaat-generaal ressortsparket **cvp-senior bij de rechtbanken (overgangsregeling)** | **€ 2.171** | € 119 | € 969 | € 174 | € 909 |
+| senior officier van justitie A senior officier van justitie officier van justitie substituut-officier van justitie officier enkelvoudige zaken | **€ 1.976** | € 119 | € 969 | € 174 | € 714 |
+| raadsheer Hoge Raad raadsheer gerechtshof rechter raadsheer Centrale Raad van Beroep raadsheer College van Beroep voor het Bedrijfsleven (senior) gerechtsauditeur, tevens raadsheer-plaatsvervanger in een gerechtshof waarbij hij is aangesteld (senior) gerechtsauditeur, tevens rechter-plaatsvervanger in een rechtbank waarbij hij is aangesteld | **€ 1.781** | € 119 | € 1.167 | € 174 | € 321 |
+| griffier (+ substituut-griffier) Hoge Raad | **€ 996** | – | € 495 | € 174 | € 327 |
+| (senior) gerechtsauditeur rechter in opleiding officier in opleiding | **€ 717** | – | € 543 | € 174 | – |
 
 Deze regeling zal met toelichting en bijlagen in de Staatscourant worden geplaatst.
