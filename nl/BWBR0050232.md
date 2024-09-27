@@ -4,7 +4,7 @@ identifier: "BWBR0050232"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-09-27"
-last_updated: "2024-01-02"
+last_updated: "2024-09-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050232"
 soort: "ministeriele-regeling"
@@ -108,17 +108,17 @@ In dit besluit wordt verstaan onder:
 
 4. De minister kan een erkenning van een afgegeven kwaliteitsverklaring schorsen of intrekken als deze niet meer voldoet aan het bepaalde in het tweede lid.
 
-5. De minister kan het aanwijzen van een instituut schorsen of intrekken als deze niet meer voldoet aan het bepaalde in het [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=2&artikel=2&z=2024-09-27&g=2024-01-02).
+5. De minister kan het aanwijzen van een instituut schorsen of intrekken als deze niet meer voldoet aan het bepaalde in het [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=2&artikel=2&z=2024-09-27&g=2024-09-27).
 
-6. Voor de uitvoering van de bevoegdheden als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=2&artikel=2&z=2024-09-27&g=2024-01-02) en het [eerste en tweede lid van artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=3&artikel=3&z=2024-09-27&g=2024-01-02), maakt de minister gebruik van een aanwijzingskader dat bekend is gemaakt op [www.officielebekendmakingen.nl](http://www.officielebekendmakingen.nl) en op de website van de toelatingsorganisatie is gepubliceerd.
+6. Voor de uitvoering van de bevoegdheden als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=2&artikel=2&z=2024-09-27&g=2024-09-27) en het [eerste en tweede lid van artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=3&artikel=3&z=2024-09-27&g=2024-09-27), maakt de minister gebruik van een aanwijzingskader dat bekend is gemaakt op [www.officielebekendmakingen.nl](http://www.officielebekendmakingen.nl) en op de website van de toelatingsorganisatie is gepubliceerd.
 
 ##### Artikel 4. Openbaar register
 
-1. De minister houdt een openbaar register bij van de beoordelingsrichtlijnen binnen het stelsel, die voldoen aan [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=3&artikel=3&z=2024-09-27&g=2024-01-02).
+1. De minister houdt een openbaar register bij van de beoordelingsrichtlijnen binnen het stelsel, die voldoen aan [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=3&artikel=3&z=2024-09-27&g=2024-09-27).
 
-2. De minister houdt een openbaar register bij van de aangewezen instituten en van de erkende kwaliteitsverklaringen, bedoeld in [artikel 2.15 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=2.15), die voldoen aan [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=3&artikel=3&z=2024-09-27&g=2024-01-02).
+2. De minister houdt een openbaar register bij van de aangewezen instituten en van de erkende kwaliteitsverklaringen, bedoeld in [artikel 2.15 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=2.15), die voldoen aan [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=3&artikel=3&z=2024-09-27&g=2024-09-27).
 
-3. Bij zwaarwegende signalen omtrent de betrouwbaarheid van een kwaliteitsverklaring van de in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=3&artikel=3&z=2024-09-27&g=2024-01-02), bedoelde criteria, kan de minister een onderzoek gelasten en de publicatie van die kwaliteitsverklaring voor een periode van maximaal twee maanden opschorten.
+3. Bij zwaarwegende signalen omtrent de betrouwbaarheid van een kwaliteitsverklaring van de in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=3&artikel=3&z=2024-09-27&g=2024-09-27), bedoelde criteria, kan de minister een onderzoek gelasten en de publicatie van die kwaliteitsverklaring voor een periode van maximaal twee maanden opschorten.
 
 4. Voor het goed functioneren van het stelsel van kwaliteitsverklaringen licht de minister het betreffende aangewezen instituut en de Raad voor Accreditatie in over de zwaarwegende signalen, het onderzoek en over de opschorting van de publicatie als bedoeld in het derde lid.
 
@@ -128,11 +128,11 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 5. Financiering
 
-1. Voor de aanwijzing, bedoeld in [artikel 2, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=2&artikel=2&z=2024-09-27&g=2024-01-02), is het instituut vergoeding verschuldigd aan de minister.
+1. Voor de aanwijzing, bedoeld in [artikel 2, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=2&artikel=2&z=2024-09-27&g=2024-09-27), is het instituut vergoeding verschuldigd aan de minister.
 
-2. Voor de werkzaamheden, bedoeld in de [artikelen 3, eerste](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=3&artikel=3&z=2024-09-27&g=2024-01-02) en [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=3&artikel=4&z=2024-09-27&g=2024-01-02), is de schemabeheerder een vergoeding verschuldigd aan de minister.
+2. Voor de werkzaamheden, bedoeld in de [artikelen 3, eerste](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=3&artikel=3&z=2024-09-27&g=2024-09-27) en [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=3&artikel=4&z=2024-09-27&g=2024-09-27), is de schemabeheerder een vergoeding verschuldigd aan de minister.
 
-3. Voor de werkzaamheden, bedoeld in de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=3&artikel=3&z=2024-09-27&g=2024-01-02), en [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=3&artikel=4&z=2024-09-27&g=2024-01-02), is het aangewezen instituut een vergoeding verschuldigd aan de minister.
+3. Voor de werkzaamheden, bedoeld in de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=3&artikel=3&z=2024-09-27&g=2024-09-27), en [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=3&artikel=4&z=2024-09-27&g=2024-09-27), is het aangewezen instituut een vergoeding verschuldigd aan de minister.
 
 4. De tarieven voor de vergoedingen, bedoeld in het eerste en tweede lid, worden bekend gemaakt op [www.officielebekendmakingen.nl](http://www.officielebekendmakingen.nl) en zijn te vinden op de website van de toelatingsorganisatie.
 
@@ -142,35 +142,35 @@ In dit besluit wordt verstaan onder:
 
 Aan het bestuur van de toelatingsorganisatie wordt mandaat en machtiging verleend om namens de minister de volgende bevoegdheden uit te oefenen en de taken uit te voeren:
 
-- a. het aanwijzen van een instituut, schorsen of intrekken van deze aanwijzing, bedoeld in de [artikelen 1, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=1&artikel=1&z=2024-09-27&g=2024-01-02), en [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=3&artikel=3&z=2024-09-27&g=2024-01-02);
+- a. het aanwijzen van een instituut, schorsen of intrekken van deze aanwijzing, bedoeld in de [artikelen 1, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=1&artikel=1&z=2024-09-27&g=2024-09-27), en [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=3&artikel=3&z=2024-09-27&g=2024-09-27);
 
-- b. het stellen van voorwaarden, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=2&artikel=2&z=2024-09-27&g=2024-01-02);
+- b. het stellen van voorwaarden, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=2&artikel=2&z=2024-09-27&g=2024-09-27);
 
-- c. het aanwijzen, schorsen of intrekken van een beoordelingsrichtlijn als bedoeld in [artikel 3, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=3&artikel=3&z=2024-09-27&g=2024-01-02);
+- c. het aanwijzen, schorsen of intrekken van een beoordelingsrichtlijn als bedoeld in [artikel 3, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=3&artikel=3&z=2024-09-27&g=2024-09-27);
 
-- d. het beoordelen, erkennen, schorsen of intrekken van kwaliteitsverklaringen als bedoeld in [artikel 3, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=3&artikel=3&z=2024-09-27&g=2024-01-02);
+- d. het beoordelen, erkennen, schorsen of intrekken van kwaliteitsverklaringen als bedoeld in [artikel 3, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=3&artikel=3&z=2024-09-27&g=2024-09-27);
 
-- e. het vaststellen en bekendmaken van het aanwijzingskader als bedoeld in [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=3&artikel=3&z=2024-09-27&g=2024-01-02);
+- e. het vaststellen en bekendmaken van het aanwijzingskader als bedoeld in [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=3&artikel=3&z=2024-09-27&g=2024-09-27);
 
-- f. het bijhouden en zorgdragen voor de bekendmaking van de aangewezen beoordelingsrichtlijnen, aangewezen instituten en erkende kwaliteitsverklaringen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=3&artikel=4&z=2024-09-27&g=2024-01-02); en
+- f. het bijhouden en zorgdragen voor de bekendmaking van de aangewezen beoordelingsrichtlijnen, aangewezen instituten en erkende kwaliteitsverklaringen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=3&artikel=4&z=2024-09-27&g=2024-09-27); en
 
-- g. het innen van een vergoeding en het bekend maken van de tarieven als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=3&artikel=5&z=2024-09-27&g=2024-01-02).
+- g. het innen van een vergoeding en het bekend maken van de tarieven als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=3&artikel=5&z=2024-09-27&g=2024-09-27).
 
 ##### Artikel 7. Beleidsregels
 
-Het op grond van dit besluit verleende mandaat en machtiging ten behoeve van het bestuur van de toelatingsorganisatie omvat mede de bevoegdheid tot het vaststellen, wijzigen of intrekken van beleidsregels met betrekking tot de uitoefening van de bevoegdheden, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=4&artikel=6&z=2024-09-27&g=2024-01-02).
+Het op grond van dit besluit verleende mandaat en machtiging ten behoeve van het bestuur van de toelatingsorganisatie omvat mede de bevoegdheid tot het vaststellen, wijzigen of intrekken van beleidsregels met betrekking tot de uitoefening van de bevoegdheden, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=4&artikel=6&z=2024-09-27&g=2024-09-27).
 
 ##### Artikel 8. Nemen van besluiten
 
-1. Aan het bestuur van de toelatingsorganisatie wordt mandaat en machtiging verleend tot het nemen van besluiten en het verrichten van overige handelingen die verband houden met de uitoefening van de bevoegdheden, bedoeld in [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=4&artikel=6&z=2024-09-27&g=2024-01-02) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=4&artikel=7&z=2024-09-27&g=2024-01-02).
+1. Aan het bestuur van de toelatingsorganisatie wordt mandaat en machtiging verleend tot het nemen van besluiten en het verrichten van overige handelingen die verband houden met de uitoefening van de bevoegdheden, bedoeld in [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=4&artikel=6&z=2024-09-27&g=2024-09-27) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=4&artikel=7&z=2024-09-27&g=2024-09-27).
 
 2. Aan het bestuur van de toelatingsorganisatie wordt mandaat en machtiging verleend:
 
-- a. om namens de minister een besluit te nemen op een bezwaarschrift gericht tegen een besluit als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=4&artikel=6&z=2024-09-27&g=2024-01-02);
+- a. om namens de minister een besluit te nemen op een bezwaarschrift gericht tegen een besluit als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=4&artikel=6&z=2024-09-27&g=2024-09-27);
 
-- b. verweer te voeren, in geval beroep of hoger beroep is ingesteld ter zake van een besluit op bezwaar als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=4&artikel=6&z=2024-09-27&g=2024-01-02);
+- b. verweer te voeren, in geval beroep of hoger beroep is ingesteld ter zake van een besluit op bezwaar als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=4&artikel=6&z=2024-09-27&g=2024-09-27);
 
-- c. verweer te voeren in geval een voorlopige voorziening is ingesteld in het kader van een bezwaar, beroep of hoger beroep ter zake van een besluit als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=4&artikel=6&z=2024-09-27&g=2024-01-02); en
+- c. verweer te voeren in geval een voorlopige voorziening is ingesteld in het kader van een bezwaar, beroep of hoger beroep ter zake van een besluit als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=4&artikel=6&z=2024-09-27&g=2024-09-27); en
 
 - d. een procesbesluit te nemen in het instellen van beroep, hoger beroep alsmede het indienen van een verzoek om voorlopige voorziening.
 
@@ -180,7 +180,7 @@ Het op grond van dit besluit verleende mandaat en machtiging ten behoeve van het
 
 ##### Artikel 9. Ondermandaat
 
-1. Het bestuur van de toelatingsorganisatie is bevoegd ten aanzien van de bevoegdheden en taken zoals genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=4&artikel=6&z=2024-09-27&g=2024-01-02) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=4&artikel=8&z=2024-09-27&g=2024-01-02) ondermandaat en machtiging te verlenen aan de onder het bestuur ressorterende ambtenaren, die werkzaam zijn voor de organisatie.
+1. Het bestuur van de toelatingsorganisatie is bevoegd ten aanzien van de bevoegdheden en taken zoals genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=4&artikel=6&z=2024-09-27&g=2024-09-27) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=4&artikel=8&z=2024-09-27&g=2024-09-27) ondermandaat en machtiging te verlenen aan de onder het bestuur ressorterende ambtenaren, die werkzaam zijn voor de organisatie.
 
 2. Het verlenen van ondermandaat of machtiging alsmede wijziging daarvan, geschiedt schriftelijk en wat de formulering betreft in overeenstemming met het mandaatbesluit van het Ministerie van Volkshuisvesting en Ruimtelijke Ordening.
 
@@ -214,13 +214,13 @@ Gevolgd door de functieaanduiding van de functionaris die gemachtigd is tot het 
 
 ##### Artikel 11. Aanwijzing toezichthouders
 
-De ambtenaren van de toelatingsorganisatie worden aangewezen als ambtenaren belast met het toezicht op de naleving van het bepaalde bij of krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=4&artikel=6&z=2024-09-27&g=2024-01-02).
+De ambtenaren van de toelatingsorganisatie worden aangewezen als ambtenaren belast met het toezicht op de naleving van het bepaalde bij of krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=4&artikel=6&z=2024-09-27&g=2024-09-27).
 
 ### Hoofdstuk 6. Slotbepalingen
 
 ##### Artikel 12. Informatieverstrekking
 
-1. Het bestuur van de toelatingsorganisatie stelt jaarlijks voor 15 maart een jaarverslag op over de bevindingen van de in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=4&artikel=6&z=2024-09-27&g=2024-01-02), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=4&artikel=7&z=2024-09-27&g=2024-01-02) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=4&artikel=8&z=2024-09-27&g=2024-01-02) genoemde gemandateerde taken en bevoegdheden en de rechtmatigheid en doeltreffendheid van de hieruit voortvloeiende werkzaamheden in het afgelopen kalenderjaar.
+1. Het bestuur van de toelatingsorganisatie stelt jaarlijks voor 15 maart een jaarverslag op over de bevindingen van de in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=4&artikel=6&z=2024-09-27&g=2024-09-27), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=4&artikel=7&z=2024-09-27&g=2024-09-27) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=4&artikel=8&z=2024-09-27&g=2024-09-27) genoemde gemandateerde taken en bevoegdheden en de rechtmatigheid en doeltreffendheid van de hieruit voortvloeiende werkzaamheden in het afgelopen kalenderjaar.
 
 2. Het bestuur van de toelatingsorganisatie informeert de minister over zwaarwegende en politiek-bestuurlijk gevoelige omstandigheden en gebeurtenissen die betrekking hebben op de gemandateerde bevoegdheden.
 
@@ -234,7 +234,7 @@ Kwaliteitsverklaringen afgegeven onder
 
 - –. het [Besluit uitvoering, mandaat en machtiging inzake het erkend stelsel](https://wetten.overheid.nl/jci1.3:c:BWBR0046698) (versie april 2022),
 
-zijn kwaliteitsverklaringen als bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=2&z=2024-09-27&g=2024-01-02).
+zijn kwaliteitsverklaringen als bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050232&hoofdstuk=2&z=2024-09-27&g=2024-09-27).
 
 ##### Artikel 14
 
