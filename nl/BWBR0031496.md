@@ -4,7 +4,7 @@ identifier: "BWBR0031496"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-06"
-last_updated: "2023-11-01"
+last_updated: "2024-09-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031496"
 soort: "ministeriele-regeling"
@@ -60,7 +60,7 @@ Besluit:
 
 1. Het is verboden te handelen in strijd met artikel 1 bis, artikel 1 ter, eerste lid, artikel 1 quater, eerste lid, artikel 2 en artikel 9, eerste lid, van Verordening (EU) nr. 359/2011 van de Raad van de Europese Unie van 12 april 2011 betreffende beperkende maatregelen tegen bepaalde personen, entiteiten en lichamen, in verband met de situatie in Iran (Pb L 100).
 
-2. Een verbod, bedoeld in het eerste lid, geldt niet indien artikel 4, eerste lid, artikel 5, eerste lid, artikel 6 of artikel 7 van Verordening (EU) nr. 359/2011 van toepassing is.
+2. Een verbod, bedoeld in het eerste lid, geldt niet indien artikel 4, eerste lid, artikel 5, eerste lid, artikel 6, artikel 7 of artikel 7 bis, eerste of tweede lid, van [Verordening (EU) nr. 359/2011](32011R0359) van toepassing is.
 
 ##### Artikel 3
 
@@ -82,7 +82,7 @@ Besluit:
 
 9. De bevoegde autoriteit, bedoeld in artikel 4, eerste lid, artikel 5, eerste lid, en artikel 7 van Verordening (EU) nr. 359/2011 is, wat betreft de beschikbaarstelling van economische middelen de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking.
 
-10. De bevoegde autoriteiten, bedoeld in artikel 9, eerste lid, van Verordening (EU) nr. 359/2011 zijn, elk voor het gebied waartoe hun competenties zich uitstrekt:
+10. De bevoegde autoriteiten, bedoeld in artikel 7 bis, tweede en derde lid, en artikel 9, eerste lid, van [Verordening (EU) nr. 359/2011](32011R0359) zijn, elk voor het gebied waartoe hun competenties zich uitstrekt:
 
 - –. de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking;
 
