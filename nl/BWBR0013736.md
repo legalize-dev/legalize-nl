@@ -4,7 +4,7 @@ identifier: "BWBR0013736"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-08"
-last_updated: "2019-11-20"
+last_updated: "2024-09-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013736"
 soort: "ministeriele-regeling"
@@ -47,11 +47,13 @@ Besluit:
 
 1. Het is verboden te handelen in strijd met de artikelen 2, eerste en tweede lid, 3 en 4 van [Verordening (EG) nr. 2580/2001](32001R2580) van de Raad van de Europese Unie van 27 december 2001 inzake specifieke beperkende maatregelen tegen bepaalde personen en entiteiten met het oog op de strijd tegen het terrorisme (PbEG L 344).
 
-2. Het verbod te handelen in strijd met artikel 2 van [Verordening (EG) nr. 2580/2001](32001R2580) is niet van toepassing in geval toepassing is gegeven aan de artikelen 5 of 6 van de verordening.
+2. Het verbod te handelen in strijd met artikel 2 van [Verordening (EG) nr. 2580/2001](32001R2580) is niet van toepassing in geval toepassing is gegeven aan artikel 5 of artikel 6, eerste lid, tweede lid, derde lid of vierde lid van de verordening.
 
 3. De bevoegde autoriteit, bedoeld in artikel 3, tweede lid, van [Verordening (EG) 2580/2001](32001R2580) is, afhankelijk van de aard van de informatie, de Minister van Financiën dan wel de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking.
 
-De bevoegde autoriteit, bedoeld in de artikelen 4 en 5 van [Verordening (EG) 2580/2001](32001R2580), is de Minister van Financiën. De bevoegde autoriteit, bedoeld in artikel 6 van [Verordening (EG) 2580/2001](32001R2580), is de Minister van Financiën dan wel de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking elk voor het gebied waartoe hun competentie zich uitstrekt.
+4. De bevoegde autoriteit, bedoeld in de artikelen 4 en 5 van [Verordening (EG) 2580/2001](32001R2580), is de Minister van Financiën, met dien verstande dat instellingen als bedoeld in [artikel 10, tweede lid, onder a, c, e tot en met j, l en m, van de Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10) de informatie, bedoeld in artikel 4, eerste lid, van [Verordening (EG) 2580/2001](32001R2580) verstrekken aan De Nederlandsche Bank en instellingen als bedoeld in artikel 10, tweede lid, onder b, d en k, van de Sanctiewet 1977 de informatie, bedoeld in artikel 4, eerste lid, van [Verordening (EG) 2580/2001](32001R2580) verstrekken aan de Autoriteit Financiële Markten. De Nederlandsche Bank en de Autoriteit Financiële Markten zijn ten behoeve van de uitvoering van voornoemd artikel 4 bevoegd de ontvangen informatie aan de Minister van Financiën te verstrekken.
+
+5. De bevoegde autoriteit, bedoeld in artikel 6, eerste lid, tweede lid, vierde lid en vijfde lid, van [Verordening (EG) 2580/2001](32001R2580), is de Minister van Financiën dan wel de Minister voor Buitenlandse Handel en Ontwikkelingshulp elk voor het gebied waartoe hun competentie zich uitstrekt.
 
 ##### Artikel 2
 
