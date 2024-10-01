@@ -4,7 +4,7 @@ identifier: "BWBR0025605"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-10-01"
-last_updated: "2020-12-15"
+last_updated: "2024-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025605"
 soort: "ministeriele-regeling"
@@ -54,11 +54,11 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Voor de opname van een aantekening in een van de registers op basis van [artikel 8, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) is een periodiek registratie certificaat vereist waaruit blijkt dat betrokkene beschikt over de voor het betrokken beroep benodigde kerncompetenties, genoemd in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=4&z=2020-12-15&g=2020-12-15), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=5&z=2020-12-15&g=2020-12-15), [6a tot en met 6f](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=6a&z=2020-12-15&g=2020-12-15). Het periodiek registratie certificaat is op het moment van het indienen van de aanvrage voor opname van een aantekening in een van de registers op basis van artikel 8, tweede lid, onderdeel b, van de wet, niet ouder dan twee jaar.
+1. Voor de opname van een aantekening in een van de registers op basis van [artikel 8, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) is een periodiek registratie certificaat vereist waaruit blijkt dat betrokkene beschikt over de voor het betrokken beroep benodigde kerncompetenties, genoemd in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=4&z=2024-10-01&g=2024-10-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=5&z=2024-10-01&g=2024-10-01), [6a tot en met 6h](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=6a&z=2024-10-01&g=2024-10-01). Het periodiek registratie certificaat is op het moment van het indienen van de aanvrage voor opname van een aantekening in een van de registers op basis van artikel 8, tweede lid, onderdeel b, van de wet, niet ouder dan twee jaar.
 
-2. Het periodiek registratie certificaat wordt verstrekt door een onderwijsinstelling die opleidingen verzorgt die leiden tot een getuigschrift dat recht geeft op inschrijving in het register van fysiotherapeut, verloskundige, verpleegkundige, arts, tandarts, apotheker, gezondheidszorgpsycholoog, psychotherapeut of physician assistant. Het periodiek registratie certificaat wordt verstrekt indien blijkt dat de beroepsbeoefenaar beschikt over alle voor het betrokken beroep benodigde kerncompetenties, genoemd in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=4&z=2020-12-15&g=2020-12-15), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=5&z=2020-12-15&g=2020-12-15), [6a tot en met 6e](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=6a&z=2020-12-15&g=2020-12-15), op het niveau van de initiële opleiding die recht geeft op inschrijving in een van de hiervoor genoemde registers.
+2. Het periodiek registratie certificaat wordt verstrekt door een onderwijsinstelling die opleidingen verzorgt die leiden tot een getuigschrift dat recht geeft op inschrijving in het register van fysiotherapeut, verloskundige, verpleegkundige, arts, tandarts, apotheker, gezondheidszorgpsycholoog, psychotherapeut physician assistant, orthopedagoog-generalist of klinisch technoloog. Het periodiek registratie certificaat wordt verstrekt indien blijkt dat de beroepsbeoefenaar beschikt over alle voor het betrokken beroep benodigde kerncompetenties, genoemd in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=4&z=2024-10-01&g=2024-10-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=5&z=2024-10-01&g=2024-10-01), [6a tot en met 6h](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=6a&z=2024-10-01&g=2024-10-01), op het niveau van de initiële opleiding die recht geeft op inschrijving in een van de hiervoor genoemde registers.
 
-3. De te volgen scholing houdt verband met het beroep waarvoor een aantekening in het register wordt aangevraagd en is gericht op het verwerven van kennis, inzicht en vaardigheden in de kerncompetenties, genoemd in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=4&z=2020-12-15&g=2020-12-15), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=5&z=2020-12-15&g=2020-12-15), [6a tot en met 6f](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=6a&z=2020-12-15&g=2020-12-15).
+3. De te volgen scholing houdt verband met het beroep waarvoor een aantekening in het register wordt aangevraagd en is gericht op het verwerven van kennis, inzicht en vaardigheden in de kerncompetenties, genoemd in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=4&z=2024-10-01&g=2024-10-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=5&z=2024-10-01&g=2024-10-01), [6a tot en met 6h](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=6a&z=2024-10-01&g=2024-10-01).
 
 4. Bij de aanvraag tot opneming in het register van een aantekening van de datum bedoeld in [artikel 8, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) overlegt betrokkene het periodiek registratie certificaat, dat tenminste gegevens bevat met betrekking tot:
 
@@ -86,7 +86,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4
 
-1. Voor het beroep van fysiotherapeut gelden de volgende kerncompetenties en kernvaardigheden:
+Voor het beroep van fysiotherapeut gelden de volgende kerncompetenties en kernvaardigheden:
 
 - a. De fysiotherapeut brengt op basis van een hulpvraag, op methodische wijze, de dreigende en bestaande gezondheidsproblemen in kaart en relateert deze aan het bewegen en bewegend participeren van de cliënt. Op basis van de resultaten van een eerste screening van de hulpvraag of van de gezondheidsproblemen van de cliënt en de bevindingen gedaan bij fysiotherapeutisch onderzoek neemt de fysiotherapeut in samenspraak met de cliënt, besluiten over de in te stellen behandeling, dan wel geeft hij advies of verwijst hij de cliënt.
 
@@ -169,6 +169,14 @@ De verloskundige stelt een behandelplan op, bespreekt dat met de vrouw en consul
 - b. [artikel 5, tweede en derde lid, van het Besluit psychotherapeut](https://wetten.overheid.nl/jci1.3:c:BWBR0009466&artikel=5), voor zover het onderwijs wordt gegeven aan een universiteit, die opleidingen verzorgt die leiden tot een getuigschrift van een opleiding als bedoeld in artikel 5, eerste lid, van het Besluit psychotherapeut.
 
 9. Als werkzaamheden die worden gelijkgesteld met werkzaamheden op het gebied van de beroepsuitoefening van physician assistant wordt aangewezen het verzorgen van onderwijs dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in de competenties genoemd in [artikel 5 van het Besluit opleidingseisen en deskundigheidsgebied physician assistant](https://wetten.overheid.nl/jci1.3:c:BWBR0040886&artikel=5) en voor zover het onderwijs wordt gegeven aan een onderwijsinstelling die opleidingen verzorgt die leiden tot een getuigschrift dat recht geeft op inschrijving in het register van physician assistant, bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3).
+
+10. Als werkzaamheden die worden gelijkgesteld met werkzaamheden op het gebied van de beroepsuitoefening van orthopedagoog-generalist wordt aangewezen het verzorgen van onderwijs dat gericht is op het verwerven van kennis van en inzicht en vaardigheden in de competenties als bedoeld in:
+
+- a. de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042645&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0042645&artikel=4) en [5 van het Besluit opleidingseisen orthopedagoog-generalist](https://wetten.overheid.nl/jci1.3:c:BWBR0042645&artikel=5), voor zover het onderwijs wordt gegeven aan een onderwijsinstelling die opleidingen verzorgt die leiden tot een getuigschrift dat recht geeft op inschrijving in het register van orthopedagogen-generalist, bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3);
+
+- b. [artikel 6, tweede en derde lid, van het Besluit opleidingseisen orthopedagoog-generalist](https://wetten.overheid.nl/jci1.3:c:BWBR0042645&artikel=6), voor zover het onderwijs wordt gegeven aan een universiteit, die opleidingen verzorgt die leiden tot een getuigschrift van een opleiding als bedoeld in artikel 6, eerste lid, van het Besluit opleidingseisen orthopedagoog-generalist.
+
+11. Als werkzaamheden die worden gelijkgesteld met werkzaamheden op het gebied van de beroepsuitoefening van klinisch technoloog wordt aangewezen het verzorgen van onderwijs dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in de competenties genoemd in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043300&artikel=3) en [4 van het Besluit opleidingseisen en deskundigheidsgebied klinisch technoloog](https://wetten.overheid.nl/jci1.3:c:BWBR0043300&artikel=4), voor zover het onderwijs wordt gegeven aan een onderwijsinstelling die opleidingen verzorgt die leiden tot een getuigschrift dat recht geeft op inschrijving in het register van klinisch technologen, bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3).
 
 ##### Artikel 8
 
@@ -339,5 +347,53 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 - c. handelt de physician assistant conform de geldende medische en ethische standaarden, richtlijnen en binnen de grenzen van de eigen deskundigheid; en
 
 - d. betrekt de physician assistant de persoonlijke omstandigheden en voorkeuren van de cliënt en houdt de physician assistant rekening met de fysieke en emotionele belastbaarheid van de cliënt.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 6g
+
+1. Voor het beroep van orthopedagoog-generalist gelden de volgende kerncompetenties en kernvaardigheden:
+
+- a. het uitvoeren of interpreteren van anamnese en diagnostisch orthopedagogisch onderzoek en aan de hand daarvan stellen van een diagnose of indicatie;
+
+- b. het opstellen van een passend behandelings- of begeleidingsplan in samenspraak met de cliënt en diegenen die betrokken zijn bij de opvoeding en ontwikkeling van de cliënt;
+
+- c. het zelfstandig uitvoeren en evalueren van orthopedagogische behandeling en begeleiding ten aanzien van:
+
+- 1°. kinderen en jeugdigen en diegenen die betrokken zijn bij hun opvoeding en ontwikkeling; en
+
+- 2°. volwassenen met een orthopedagogische zorgvraag en diegenen die betrokken zijn bij hun begeleiding en ontwikkeling;
+
+- d. het coördineren van de behandelingen of aansturen van andere disciplines bij de diagnostiek en de behandelingen.
+
+2. De in het eerste lid, onderdeel a, genoemde kerncompetenties en kernvaardigheden worden zodanig ingericht dat de orthopedagoog-generalist in staat is om een compleet diagnostisch beeld te vormen door middel van dialogische, systeemgerichte en veranderingsgerichte diagnostiek resulterend in beslissingen over interventies.
+
+3. De in het eerste lid, onderdeel b, genoemde kerncompetenties en kernvaardigheden worden zodanig ingericht dat de orthopedagoog-generalist in staat is om in samenspraak met de cliënt en diegenen die betrokken zijn bij de opvoeding en ontwikkeling van de cliënt een passend behandelings- of begeleidingsplan op te stellen, dat periodiek wordt geëvalueerd en indien nodig tussentijds aangepast.
+
+4. De in het eerste lid, onderdeel c, genoemde kerncompetenties en kernvaardigheden worden zodanig ingericht dat de orthopedagoog-generalist in staat is om orthopedagogische begeleiding en behandelingen op een systematische en methodische wijze uit te voeren.
+
+5. De in het eerste lid, onderdeel d, genoemde kerncompetenties en kernvaardigheden worden zodanig ingericht dat de orthopedagoog-generalist in staat is om leerkrachten en zorg- en hulpverleners die betrokken zijn bij het opstellen en evalueren van een behandelings- of begeleidingsplan van een cliënt te begeleiden, aan te sturen of te ondersteunen.
+
+##### Artikel 6h
+
+1. Voor het beroep van klinisch technoloog gelden de volgende kerncompetenties en kernvaardigheden:
+
+- a. het diagnostisch onderzoeken en beoordelen van een cliënt en het op basis van de verkregen gegevens opstellen van een behandelplan;
+
+- b. het uitvoeren van het behandelplan, begeleiden van een cliënt en het verrichten van gangbare en complexe technisch-medische handelingen;
+
+- c. het stellen van indicaties en het herkennen van complicaties van gangbare en complexe technisch-medische handelingen en verrichtingen en het daarop anticiperen;
+
+- d. het verwijzen naar, consulteren van en samenwerken met artsen en met andere gezondheidszorgmedewerkers;
+
+- e. het evalueren en vastleggen van technisch-geneeskundige zorg.
+
+2. De in het eerste lid, onderdeel a tot en met c, genoemde kerncompetenties en kernvaardigheden worden zodanig ingericht dat de klinisch technoloog in staat is om, in samenwerking met de cliënt en, indien nodig, andere zorgverleners, een probleemanalyse te maken en een differentiaal diagnose of behandelplan op te stellen op basis van verkregen gegevens binnen het eigen deskundigheidsgebied.
+
+3. De in het eerste lid, onderdeel a tot en met c, genoemde kerncompetenties en kernvaardigheden worden zodanig ingericht dat de klinisch technoloog in staat is om in samenwerking met de cliënt en andere zorgverleners de diagnostische of therapeutische handelingen te verrichten en naar de laatste stand van kennis zorg te verlenen. Hierbij betrekt de klinisch technoloog in zijn rol als technisch-medisch deskundige waar mogelijk het beschikbare wetenschappelijke kennis. De klinisch technoloog is in staat tot het verrichten van handelingen waartoe de klinisch technoloog op grond van [artikel 36 van de Wet BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=36) bevoegd is.
+
+4. De in het eerste lid, onderdeel a tot en met c en e, genoemde kerncompetenties en kernvaardigheden worden zodanig ingericht dat de klinisch technoloog in staat is om de effecten van zorginterventies op de gezondheidstoestand van de cliënt te evalueren en het behandelplan zodanig bij te stellen dat optimale resultaten bereikt kunnen worden.
+
+5. De in het eerste lid, onderdeel d en e, genoemde kerncompetenties en kernvaardigheden worden zodanig ingericht dat de klinisch technoloog in staat is om een diagnose of behandelplan te bespreken met de cliënt, de familie of andere zorgverleners, en het behandelplan uit te voeren. Hierbij houdt de klinisch technoloog rekening met de fysieke en emotionele belastbaarheid van de cliënt.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
