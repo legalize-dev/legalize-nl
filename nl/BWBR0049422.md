@@ -4,7 +4,7 @@ identifier: "BWBR0049422"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-10-01"
-last_updated: "2024-04-01"
+last_updated: "2024-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049422"
 soort: "AMvB"
@@ -78,7 +78,7 @@ De vakbekwaamheid bedoeld in [artikel 13, eerste lid, van de wet](https://wetten
 
 3. De personen, bedoeld in het eerste en tweede lid, nemen jaarlijks deel aan:
 
-- a. een of meer cursussen gericht op het actueel houden van de kennis en vaardigheden als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049422&paragraaf=2&artikel=2.1&z=2024-04-01&g=2024-04-01);
+- a. een of meer cursussen gericht op het actueel houden van de kennis en vaardigheden als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049422&paragraaf=2&artikel=2.1&z=2024-10-01&g=2024-10-01);
 
 - b. een bijeenkomst waarin de maatschappelijke normen die onderdeel vormen van de vakbekwaamheid worden besproken met andere personen, bedoeld in het eerste en het tweede lid.
 
@@ -88,11 +88,11 @@ De vakbekwaamheid bedoeld in [artikel 13, eerste lid, van de wet](https://wetten
 
 1. De incassodienstverlener draagt er zorg voor dat alle onder diens verantwoordelijkheid werkzame incassomedewerkers en operationeel leidinggevenden de nodige kennis hebben over wat naar maatschappelijke normen betamelijk is bij de uitoefening van buitengerechtelijke incassowerkzaamheden.
 
-2. De incassodienstverlener draagt ten minste twee keer per jaar zorg voor een bijeenkomst waarin de maatschappelijke normen, bedoeld in [artikel 2.2, derde lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0049422&paragraaf=2&artikel=2.2&z=2024-04-01&g=2024-04-01), worden besproken. Alle onder diens verantwoordelijkheid werkzame incassomedewerkers en operationeel leidinggevenden worden in de gelegenheid gesteld om aan een van deze bijeenkomsten deel te nemen.
+2. De incassodienstverlener draagt ten minste twee keer per jaar zorg voor een bijeenkomst waarin de maatschappelijke normen, bedoeld in [artikel 2.2, derde lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0049422&paragraaf=2&artikel=2.2&z=2024-10-01&g=2024-10-01), worden besproken. Alle onder diens verantwoordelijkheid werkzame incassomedewerkers en operationeel leidinggevenden worden in de gelegenheid gesteld om aan een van deze bijeenkomsten deel te nemen.
 
 ##### Artikel 2.4. Uitzondering advocaten en gerechtsdeurwaarders
 
-De [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049422&paragraaf=2&artikel=2.1&z=2024-04-01&g=2024-04-01) en [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049422&paragraaf=2&artikel=2.2&z=2024-04-01&g=2024-04-01) zijn niet van toepassing op:
+De [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049422&paragraaf=2&artikel=2.1&z=2024-10-01&g=2024-10-01) en [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049422&paragraaf=2&artikel=2.2&z=2024-10-01&g=2024-10-01) zijn niet van toepassing op:
 
 - a. een gerechtsdeurwaarder, waarnemend gerechtsdeurwaarder, kandidaat-gerechtsdeurwaarder en toegevoegd gerechtsdeurwaarder, die krachtens de [Gerechtsdeurwaarderswet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197) bevoegd is ambtshandelingen te verrichten;
 
@@ -100,7 +100,7 @@ De [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049422&paragraaf=2&a
 
 ##### Artikel 2.5. Ministeriële regeling
 
-Bij ministeriële regeling kunnen nadere regels worden gesteld over de invulling van de vakbekwaamheid als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049422&paragraaf=2&artikel=2.1&z=2024-04-01&g=2024-04-01).
+Bij ministeriële regeling kunnen nadere regels worden gesteld over de invulling van de vakbekwaamheid als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049422&paragraaf=2&artikel=2.1&z=2024-10-01&g=2024-10-01).
 
 #### Paragraaf 3. Inzichtelijkheid vordering
 
@@ -202,7 +202,7 @@ De incassodienstverlener heeft per schuldenaar inzicht in het aantal vorderingen
 
 ##### Artikel 7.2. Hernieuwde inschrijving
 
-1. Het tarief als bedoeld in [artikel 7.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049422&paragraaf=7&artikel=7.1&z=2024-04-01&g=2024-04-01), is niet verschuldigd voor een aanvraag tot het opheffen van een schorsing als bedoeld in [artikel 9, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&artikel=9).
+1. Het tarief als bedoeld in [artikel 7.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049422&paragraaf=7&artikel=7.1&z=2024-10-01&g=2024-10-01), is niet verschuldigd voor een aanvraag tot het opheffen van een schorsing als bedoeld in [artikel 9, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&artikel=9).
 
 2. Een inschrijving die geschorst is, geldt niet als onderbroken.
 
@@ -234,19 +234,17 @@ Het tarief voor de doorberekening van de kosten van het toezicht, bedoeld in [ar
 
 Wijzigt het Besluit vergoeding voor buitengerechtelijke incassokosten.
 
-Dit onderdeel is nog niet inwerking getreden
-
 #### Paragraaf 10. Overgangsrecht
 
 ##### Artikel 10.1. Overgangsrecht opleiding en cursus
 
-[Artikel 2.2, eerste tot en met het derde lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0049422&paragraaf=2&artikel=2.2&z=2024-04-01&g=2024-04-01), is gedurende een jaar na inwerkingtreding van dit besluit niet van toepassing op incassomedewerkers, operationeel leidinggevenden en zelfstandigen zonder personeel, indien zij voor het tijdstip van inwerkingtreding van dit besluit buitengerechtelijke incassowerkzaamheden verrichtten of aanboden of daaraan leiding gaven en dit sindsdien onafgebroken hebben voortgezet.
+[Artikel 2.2, eerste tot en met het derde lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0049422&paragraaf=2&artikel=2.2&z=2024-10-01&g=2024-10-01), is gedurende een jaar na inwerkingtreding van dit besluit niet van toepassing op incassomedewerkers, operationeel leidinggevenden en zelfstandigen zonder personeel, indien zij voor het tijdstip van inwerkingtreding van dit besluit buitengerechtelijke incassowerkzaamheden verrichtten of aanboden of daaraan leiding gaven en dit sindsdien onafgebroken hebben voortgezet.
 
 #### Paragraaf 11. Slotbepalingen
 
 ##### Artikel 11.1. Inwerkingtreding
 
-De Wet van 11 mei 2022, houdende regels met betrekking tot de private buitengerechtelijke incassodienstverlening en wijziging van Boek 6 van het Burgerlijk Wetboek in verband met de aanpassing van de cumulatieregeling voor buitengerechtelijke incassokosten ([Wet kwaliteit incassodienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0046685)) (Staatsblad 2022, 186) treedt in werking met ingang van 1 april 2024, met uitzondering van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&artikel=18), dat in werking treedt met ingang van 1 oktober 2026, en [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&artikel=21), dat in werking treedt met ingang van 1 oktober 2024. Dit besluit treedt in werking met ingang van 1 april 2024, met uitzondering van [artikel 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049422&paragraaf=9&artikel=9.1&z=2024-04-01&g=2024-04-01), dat met ingang van 1 oktober 2024 in werking treedt.
+De Wet van 11 mei 2022, houdende regels met betrekking tot de private buitengerechtelijke incassodienstverlening en wijziging van Boek 6 van het Burgerlijk Wetboek in verband met de aanpassing van de cumulatieregeling voor buitengerechtelijke incassokosten ([Wet kwaliteit incassodienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0046685)) (Staatsblad 2022, 186) treedt in werking met ingang van 1 april 2024, met uitzondering van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&artikel=18), dat in werking treedt met ingang van 1 oktober 2026, en [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&artikel=21), dat in werking treedt met ingang van 1 oktober 2024. Dit besluit treedt in werking met ingang van 1 april 2024, met uitzondering van [artikel 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049422&paragraaf=9&artikel=9.1&z=2024-10-01&g=2024-10-01), dat met ingang van 1 oktober 2024 in werking treedt.
 
 ##### Artikel 11.2. Citeertitel
 
