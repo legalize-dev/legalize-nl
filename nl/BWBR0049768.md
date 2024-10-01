@@ -4,7 +4,7 @@ identifier: "BWBR0049768"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-10-01"
-last_updated: "2024-06-03"
+last_updated: "2024-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049768"
 soort: "zbo"
@@ -226,7 +226,7 @@ Onder personen die werkzaam zijn bij een vergunninghouder en die zijn belast met
 
 - c. een relevante opleiding hebben van mbo-niveau of hoger; en
 
-- d. hun persoonlijke kennis en ervaring als bedoeld onder a en b zodanig kunnen inzetten en overdragen aan anderen dat zij in ieder geval voldoen aan het bepaalde in [artikel 3.1.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049768&paragraaf=3.1&artikel=3.1.7&z=2024-06-03&g=2024-06-03).
+- d. hun persoonlijke kennis en ervaring als bedoeld onder a en b zodanig kunnen inzetten en overdragen aan anderen dat zij in ieder geval voldoen aan het bepaalde in [artikel 3.1.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049768&paragraaf=3.1&artikel=3.1.7&z=2024-10-01&g=2024-10-01).
 
 2. De raad van bestuur kan gegevens en bescheiden opvragen bij de vergunninghouder ten behoeve van het vaststellen van de deskundigheid en geschiktheid van de in het eerste lid genoemde ervaringsdeskundigen.
 
@@ -238,7 +238,7 @@ Onder personen die werkzaam zijn bij een vergunninghouder en die zijn belast met
 
 ##### Artikel 3.1.6. Trainers
 
-1. Onder trainers die aantoonbaar gespecialiseerd zijn in verslavingspreventie als bedoeld in [artikel 10, derde lid, van de Regeling werving, reclame en verslavingspreventie kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&artikel=10), verstaat de raad van bestuur in ieder geval personen als bedoeld in [artikel 3.1.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049768&paragraaf=3.1&artikel=3.1.3&z=2024-06-03&g=2024-06-03).
+1. Onder trainers die aantoonbaar gespecialiseerd zijn in verslavingspreventie als bedoeld in [artikel 10, derde lid, van de Regeling werving, reclame en verslavingspreventie kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&artikel=10), verstaat de raad van bestuur in ieder geval personen als bedoeld in [artikel 3.1.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049768&paragraaf=3.1&artikel=3.1.3&z=2024-10-01&g=2024-10-01).
 
 2. De raad van bestuur kan gegevens en bescheiden opvragen bij de vergunninghouder ten behoeve van het vaststellen van de specialisatie van de in het eerste lid genoemde trainers.
 
@@ -252,7 +252,7 @@ Onder personen die werkzaam zijn bij een vergunninghouder en die zijn belast met
 
 De aansluiting op het Nederlandse stelsel van verslavingszorg, als bedoeld in [artikel 7, eerste lid, van het Besluit werving, reclame en verslavingspreventie kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=7), is onvoldoende geborgd indien het verslavingspreventiebeleid van de vergunninghouder of de uitvoering daarvan niet of onvoldoende aansluit bij de in Nederland aangeboden hulp of de behoeften van spelers in Nederland. Daarvan is in ieder geval sprake als de vergunninghouder:
 
-- a. het advies als bedoeld in [artikel 3.1.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049768&paragraaf=3.1&artikel=3.1.7&z=2024-06-03&g=2024-06-03), niet heeft overgenomen of daarvan is afgeweken zonder afdoende motivering;
+- a. het advies als bedoeld in [artikel 3.1.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049768&paragraaf=3.1&artikel=3.1.7&z=2024-10-01&g=2024-10-01), niet heeft overgenomen of daarvan is afgeweken zonder afdoende motivering;
 
 - b. de in [artikel 8, eerste lid, van het Besluit werving, reclame en verslavingspreventie kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=8), bedoelde informatie niet op passende, duidelijke en begrijpelijke wijze verstrekt aan de consument;
 
@@ -348,7 +348,7 @@ Onverminderd het bepaalde in [artikel 14 van de Regeling werving, reclame en ver
 
 - iv. wanneer en door wie de risicoanalyses zijn uitgevoerd;
 
-- b. adviezen van deskundigen op het gebied van verslavingszorg en ervaringsdeskundigen als bedoeld in [artikel 3.1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0049768&paragraaf=3.1&artikel=3.1.7&z=2024-06-03&g=2024-06-03), die zijn opgesteld in de periode waarover wordt gerapporteerd;
+- b. adviezen van deskundigen op het gebied van verslavingszorg en ervaringsdeskundigen als bedoeld in [artikel 3.1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0049768&paragraaf=3.1&artikel=3.1.7&z=2024-10-01&g=2024-10-01), die zijn opgesteld in de periode waarover wordt gerapporteerd;
 
 - c. de redenen om eventueel af te wijken van de onder b genoemde adviezen; en
 
@@ -368,27 +368,95 @@ Onverminderd het bepaalde in [artikel 14 van de Regeling werving, reclame en ver
 
 - c. de geregistreerde gegevens eenvoudig kan combineren om de interactie en samenhang tussen die gegevens te kunnen analyseren als bedoeld in het eerste lid.
 
-4. Dit lid is nog niet in werking getreden.
+4. Aan het vroegtijdig kunnen onderkennen van onmatige deelneming aan kansspelen of een risico op kansspelverslaving, als bedoeld in [artikel 13, derde lid, van het Besluit werving, reclame en verslavingspreventie kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=13), is in ieder geval voldaan als de vergunninghouder een signaal of een redelijk vermoeden zo snel mogelijk en in ieder geval binnen een uur nadat de relevante feiten en omstandigheden zich aan hem hebben voorgedaan kan onderkennen.
 
-5. Dit lid is nog niet in werking getreden.
+5. De raad van bestuur kan bij het houden van toezicht op en handhaven van de zorgplicht als bedoeld in [artikel 4a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=4a) en daarmee samenhangende wet- en regelgeving in ieder geval als signaal betrekken dat de speler:
 
-6. Dit lid is nog niet in werking getreden.
+- a. niet langer de financiële gevolgen van zijn speelgedrag kan dragen;
 
-7. Dit lid is nog niet in werking getreden.
+- b. overmatig probeert zijn verliezen terug te verdienen;
+
+- c. dringend of herhaaldelijk klaagt over niet of te weinig winnen;
+
+- d. dringend of herhaaldelijk verzoekt om bonussen;
+
+- e. een creditcard of e-wallet gebruikt voor een storting op de speelrekening;
+
+- f. meerdere betaalmethoden gebruikt voor een storting op de speelrekening;
+
+- g. op voor de speler ongebruikelijke tijdstippen deelneemt, waarbij met name wordt gelet op deelname in de nachtelijke uren (van 00.00 tot 06.00 uur);
+
+- h. binnen een etmaal in totaal langer dan zes uur deelneemt;
+
+- i. aanmerkelijk vaker deelneemt dan andere spelers bij de vergunninghouder;
+
+- j. speelgedrag vertoont dat negatieve persoonlijke, sociale of maatschappelijke gevolgen veroorzaakt;
+
+- k. negatieve persoonlijke, sociale of maatschappelijke gevolgen van zijn speelgedrag ontkent, vermijdt of negeert; of
+
+- l. een signaal probeert te verhullen of een interventiemaatregel probeert te ontduiken of omzeilen.
+
+6. Onder een signaal dat de speler niet langer de financiële gevolgen van zijn speelgedrag kan dragen, als bedoeld in het vijfde lid, onder a, verstaat de raad van bestuur in ieder geval dat de speler:
+
+- a. geen geld kan opnemen van zijn bankrekening vanwege onvoldoende saldo;
+
+- b. geen storting op de speelrekening kan verrichten vanwege onvoldoende saldo;
+
+- c. geen parkeervergoeding, taxirit of openbaar vervoer kan betalen;
+
+- d. geldproblemen, leningen of andere negatieve financiële gevolgen van zijn speelgedrag ontkent, vermijdt of negeert;
+
+- e. in een kalendermaand:
+
+- i. netto-stortingen verricht van in totaal meer dan het recreatief te besteden deel van zijn maandelijkse netto-inkomen; of anders
+
+- ii. netto-stortingen verricht van in totaal 30% of meer van zijn maandelijkse netto-inkomen; of anders
+
+- iii. netto-stortingen verricht van in totaal meer dan € 300,– als de speler jongvolwassen is; of anders
+
+- iv. netto-stortingen verricht van in totaal meer dan € 700,–;
+
+- f. meer dan 30% van zijn liquide gelden aanwendt voor deelneming aan kansspelen;
+
+- g. andere bezittingen dan onder f aanwendt voor deelneming aan kansspelen;
+
+- h. zijn leefstijl financieel niet kan onderhouden;
+
+- i. is of risico loopt te worden onderworpen aan een dwanginvordering;
+
+- j. schuldsanering heeft aangevraagd of doorloopt; of
+
+- k. (anderszins) in financiële nood verkeert.
+
+7. Onder negatieve persoonlijke, sociale of maatschappelijke gevolgen als bedoeld in het vijfde lid, onder j, verstaat de raad van bestuur in ieder geval:
+
+- a. problemen bij of beëindiging van werk of studie van de speler;
+
+- b. benadeling van het gezin of het overige deel van de sociale omgeving van de speler;
+
+- c. (het ontstaan van kosten vanwege) een behandeling voor kansspelverslaving voor de speler;
+
+- d. (het ontstaan van kosten vanwege) criminaliteit door de speler, waaronder in ieder geval diefstal, verduistering of fraude; of
+
+- e. lichamelijke, psychische of sociale klachten bij de speler, waaronder angst, verdriet, woede, slaapproblemen, vermoeidheid, sociale isolatie, paranoïde denkbeelden, bijgelovige denkbeelden, stress of verwaarlozing.
 
 8. Onverminderd de bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469) gestelde eisen over onder andere het registreren en analyseren van speelgedrag en signalen, acht de raad van bestuur het in overeenstemming met [artikel 4a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=4a), dat een vergunninghouder niet proactief op zoek gaat naar signalen als daar geen wettelijke verplichting en redelijkerwijs ook geen andere aanleiding voor is.
 
-9. Dit lid is nog niet in werking getreden.
+9. De raad van bestuur past het vijfde lid, onder e en f, en het zesde lid, onder b en e, niet toe op speelcasino’s en speelautomatenhallen.
 
-10. Dit lid is nog niet in werking getreden.
+10. De raad van bestuur geeft geen toepassing aan een bepaling in het vierde, vijfde, zesde of zevende lid als de vergunninghouder afdoende kan verantwoorden waarom hij daarvan is afgeweken.
 
 ##### Artikel 3.1.13. Interventies in het speelgedrag
 
 1. Onverminderd het bepaalde bij of krachtens [artikel 27ja](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27ja), [artikel 30v](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30v) en [artikel 31m van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31m), verstaat de raad van bestuur onder een passende interventiemaatregel als bedoeld in [artikel 19, eerste lid, van de Regeling werving, reclame en verslavingspreventie kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&artikel=19), in ieder geval dat de vergunninghouder de zwaarte van zijn interventiemaatregelen afstemt op de ernst van de signalen en dat hij onverwijld intensievere maatregelen treft als de genomen interventiemaatregelen niet of onvoldoende tot het beoogde resultaat leiden.
 
-2. Dit lid is nog niet in werking getreden.
+2. Volgens de raad van bestuur is in ieder geval sprake van een passende interventiemaatregel om onmatige deelneming en kansspelverslaving zoveel mogelijk te voorkomen als bedoeld in [artikel 18, eerste lid, van het Besluit werving, reclame en verslavingspreventie kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=18), als:
 
-3. Dit lid is nog niet in werking getreden.
+- a. de online aanbieder bij een signaal als bedoeld in [artikel 3.1.12, zesde lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0049768&paragraaf=3.1&artikel=3.1.12&z=2024-10-01&g=2024-10-01), onverwijld nadere stortingen op de speelrekening van de speler blokkeert voor de resterende duur van die kalendermaand of totdat aannemelijk is dat de speler de financiële gevolgen van zijn speelgedrag kan dragen;
+
+- b. de vergunninghouder onverwijld en in ieder geval binnen een uur nadat hij een redelijk vermoeden als bedoeld in [artikelen 27ja, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27ja), [30v, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30v), en [31m, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31m), moet hebben, deelname aan zijn kansspelen door de speler blokkeert totdat de vergunninghouder heeft vastgesteld dat van een redelijk vermoeden geen sprake is.
+
+3. De raad van bestuur geeft geen toepassing aan een bepaling in het tweede lid als de vergunninghouder afdoende kan verantwoorden waarom hij daarvan is afgeweken.
 
 ##### Artikel 3.1.14. Persoonlijk onderhoud
 
@@ -480,7 +548,7 @@ Onder een rapportage van de vergunninghouder als bedoeld in [artikel 11, tweede 
 
 ##### Artikel 4.1. Inwerkingtreding
 
-Deze beleidsregel treedt in werking met ingang van 3 juni 2024, met uitzondering van de [artikelen 3.1.12, vierde, vijfde, zesde, zevende, negende en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049768&paragraaf=3.1&artikel=3.1.12&z=2024-06-03&g=2024-06-03), en [3.1.13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049768&paragraaf=3.1&artikel=3.1.13&z=2024-06-03&g=2024-06-03), die in werking treden op 1 oktober 2024.
+Deze beleidsregel treedt in werking met ingang van 3 juni 2024, met uitzondering van de [artikelen 3.1.12, vierde, vijfde, zesde, zevende, negende en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049768&paragraaf=3.1&artikel=3.1.12&z=2024-10-01&g=2024-10-01), en [3.1.13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049768&paragraaf=3.1&artikel=3.1.13&z=2024-10-01&g=2024-10-01), die in werking treden op 1 oktober 2024.
 
 ##### Artikel 4.2
 
