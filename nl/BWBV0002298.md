@@ -4,7 +4,7 @@ identifier: "BWBV0002298"
 country: "nl"
 rank: "verdrag"
 publication_date: "2024-10-01"
-last_updated: "1987-03-12"
+last_updated: "2024-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0002298"
 soort: "verdrag"
@@ -233,13 +233,13 @@ De Maatschappij heeft een Raad van Bestuur, een Raad van Bewindvoerders, een Voo
 
 - (ii). gezien de uiteenlopende structuur van deelneming en samenstelling, de in (c)(iii) hieronder bedoelde lid-landen volgens de tussen genoemde lid-landen overeengekomen roulatieregeling, hun eigen vertegenwoordigers aanwijzen voor de hun toekomende posten in de Raad van Bewindvoerders van de Maatschappij, wanneer zij niet naar behoren vertegenwoordigd zouden kunnen zijn door Bewindvoerders of plaatsvervangers van de Bank.
 
-- (c). De Raad van Bewindvoerders van de Maatschappij is als volgt samengesteld: De procedure voor de verkiezing van de Bewindvoerders wordt vervat in de door de Raad van Bestuur met een meerderheid van ten minste twee derde van de stemmen van de leden aan te nemen Voorschriften. Er kan één bijkomende Bewindvoerder worden gekozen door de bestuurders voor de lid-landen genoemd in (iii) hierboven, op de voorwaarden en binnen de termijn bij genoemde Voorschriften te bepalen, en in het geval aan zulke voorwaarden niet zou zijn voldaan, door de Bestuurders voor de in ontwikkeling zijnde regionale lid-landen, overeenkomstig de bepalingen van genoemde Voorschriften. Iedere Bewindvoerder wijst een plaatsvervangende Bewindvoerder aan met volledige bevoegdheid voor hem op te treden, wanneer hij niet aanwezig is.
+- (c). De Raad van Bewindvoerders van de Maatschappij is als volgt samengesteld: De procedure voor de verkiezing van de Bewindvoerders wordt vervat in de door de Raad van Bestuur met een meerderheid van ten minste twee derde van de stemmen van de leden aan te nemen Voorschriften. Elke Bewindvoerder kan een plaatsvervanger aanwijzen die de volledige bevoegdheid heeft om voor hem op te treden wanneer hij niet aanwezig is.
 
 - (i). één Bewindvoerder wordt benoemd door het lid-land dat het grootste aantal aandelen in de Maatschappij bezit;
 
-- (ii). negen Bewindvoerders worden gekozen door de bestuurders voor de in ontwikkeling zijnde regionale lid-landen;
+- (ii). negen Bewindvoerders worden gekozen door de Bestuurders voor de in ontwikkeling zijnde regionale lid-landen;
 
-- (iii). twee Bewindvoerders worden gekozen door de bestuurders voor de overige lid-landen.
+- (iii). vier Bewindvoerders worden gekozen door de Bestuurders voor de overige lid-landen.
 
 - (d). Een Bewindvoerder kan niet tegelijkertijd optreden als bestuurder van de Maatschappij.
 
