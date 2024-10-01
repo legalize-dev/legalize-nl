@@ -4,7 +4,7 @@ identifier: "BWBR0044380"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-17"
-last_updated: "2023-10-04"
+last_updated: "2024-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044380"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **minister:** de Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. **commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044380&artikel=2&z=2023-10-04&g=2023-10-04).
+- b. **commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044380&artikel=2&z=2024-11-01&g=2024-10-01).
 
 ##### Artikel 2. Instelling en taak
 
