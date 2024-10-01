@@ -4,7 +4,7 @@ identifier: "BWBR0050617"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2023-11-16"
+last_updated: "2024-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050617"
 soort: "wet"
@@ -47,8 +47,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel II
 
 Wijzigt de Wet op de loonbelasting 1964.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III
 
