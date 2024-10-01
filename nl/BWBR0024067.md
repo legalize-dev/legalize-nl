@@ -4,7 +4,7 @@ identifier: "BWBR0024067"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2022-12-15"
+last_updated: "2024-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024067"
 soort: "AMvB"
@@ -128,11 +128,11 @@ Hebben goedgevonden en verstaan:
 
 - a. de bestuurder van een publiekrechtelijke rechtspersoon;
 
-- b. de bestuurder van een rechtspersoon, bedoeld in [artikelen 24 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.4&artikel=24&z=2022-12-15&g=2022-12-15);
+- b. de bestuurder van een rechtspersoon, bedoeld in [artikelen 24 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.4&artikel=24&z=2024-10-01&g=2024-10-01);
 
-- c. de beheerder in Nederland, bedoeld in [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.4&artikel=24&z=2022-12-15&g=2022-12-15), [25, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.4&artikel=25&z=2022-12-15&g=2022-12-15), en [26, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.4&artikel=26&z=2022-12-15&g=2022-12-15);
+- c. de beheerder in Nederland, bedoeld in [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.4&artikel=24&z=2024-10-01&g=2024-10-01), [25, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.4&artikel=25&z=2024-10-01&g=2024-10-01), en [26, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.4&artikel=26&z=2024-10-01&g=2024-10-01);
 
-- d. de bewindvoerder, bedoeld in [artikel 37, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=6&artikel=37&z=2022-12-15&g=2022-12-15).
+- d. de bewindvoerder, bedoeld in [artikel 37, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=6&artikel=37&z=2024-10-01&g=2024-10-01).
 
 2. Tot het doen van een opgave ter inschrijving van de volgende gegevens is verplicht:
 
@@ -140,11 +140,11 @@ Hebben goedgevonden en verstaan:
 
 - b. betreffende de aankondigingen ingevolge de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368), hij die met de bekendmaking ervan in de Staatscourant is belast;
 
-- c. betreffende het bedrag van het geplaatste kapitaal, bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.2&artikel=22&z=2022-12-15&g=2022-12-15), en [25, derde lid onderdeel c en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.4&artikel=25&z=2022-12-15&g=2022-12-15), de houder van het register, bedoeld in [artikel 1:107 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:107), indien de daartoe verplichte personen een melding hebben gedaan op grond van [artikel 5:34 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:34);
+- c. betreffende het bedrag van het geplaatste kapitaal, bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.2&artikel=22&z=2024-10-01&g=2024-10-01), en [25, derde lid onderdeel c en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.4&artikel=25&z=2024-10-01&g=2024-10-01), de houder van het register, bedoeld in [artikel 1:107 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:107), indien de daartoe verplichte personen een melding hebben gedaan op grond van [artikel 5:34 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:34);
 
-- d. betreffende de ontbinding van een vennootschap of rechtspersoon en betreffende de voltooiing van de vereffening van een Europees economisch samenwerkingsverband of van een vennootschap of rechtspersoon als bedoeld in de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.4&artikel=24&z=2022-12-15&g=2022-12-15), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.4&artikel=25&z=2022-12-15&g=2022-12-15) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.4&artikel=26&z=2022-12-15&g=2022-12-15), de vereffenaar van een ontbonden vennootschap of rechtspersoon;
+- d. betreffende de ontbinding van een vennootschap of rechtspersoon en betreffende de voltooiing van de vereffening van een Europees economisch samenwerkingsverband of van een vennootschap of rechtspersoon als bedoeld in de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.4&artikel=24&z=2024-10-01&g=2024-10-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.4&artikel=25&z=2024-10-01&g=2024-10-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.4&artikel=26&z=2024-10-01&g=2024-10-01), de vereffenaar van een ontbonden vennootschap of rechtspersoon;
 
-- e. betreffende een uitspraak als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=6&artikel=37&z=2022-12-15&g=2022-12-15) en [39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=6&artikel=39&z=2022-12-15&g=2022-12-15), de griffier van het rechtscollege dat de uitspraak heeft gedaan.
+- e. betreffende een uitspraak als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=6&artikel=37&z=2024-10-01&g=2024-10-01) en [39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=6&artikel=39&z=2024-10-01&g=2024-10-01), de griffier van het rechtscollege dat de uitspraak heeft gedaan.
 
 ##### Artikel 7
 
@@ -170,7 +170,7 @@ Bij de opgave ter inschrijving van een Europese naamloze vennootschap, een Europ
 
 2. De Kamer vermeldt zo mogelijk de datum waarop de wijziging is ingegaan indien tot wijziging wordt besloten op grond van de [artikelen 34 tot en met 36 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=34).
 
-3. In het handelsregister wordt, indien een gegeven geen derdenwerking heeft ingevolge [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=7&artikel=50&z=2022-12-15&g=2022-12-15), een aantekening opgenomen dat het gegeven geen derdenwerking heeft.
+3. In het handelsregister wordt, indien een gegeven geen derdenwerking heeft ingevolge [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=7&artikel=50&z=2024-10-01&g=2024-10-01), een aantekening opgenomen dat het gegeven geen derdenwerking heeft.
 
 ##### Artikel 10
 
@@ -216,7 +216,7 @@ In het handelsregister kunnen gegevens over gevolmachtigden van een rechtspersoo
 
 - a. het bezoekadres;
 
-- b. het telefoonnummer, het faxnummer, het e-mailadres en het internetadres;
+- b. het telefoonnummer, het e-mailadres en het internetadres;
 
 - c. de naam van de berichtenbox van het centraal loket, bedoeld in [artikel 5, eerste lid, onderdeel a, onder 2° van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=5).
 
@@ -246,7 +246,7 @@ In het handelsregister worden over een vennootschap onder firma, een commanditai
 
 ##### Artikel 18
 
-In het handelsregister worden over een commanditaire vennootschap, naast de gegevens van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.2&artikel=17&z=2022-12-15&g=2022-12-15), opgenomen:
+In het handelsregister worden over een commanditaire vennootschap, naast de gegevens van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.2&artikel=17&z=2024-10-01&g=2024-10-01), opgenomen:
 
 - a. het aantal commanditaire vennoten;
 
@@ -324,7 +324,7 @@ In het handelsregister worden over een rederij opgenomen:
 
 ##### Artikel 24
 
-1. Indien een in Nederland gevestigde onderneming of een in Nederland gelegen nevenvestiging van een buiten Nederland gevestigde onderneming toebehoort aan een vennootschap als bedoeld in [richtlijn 68/151/EEG](31968L0151), opgericht naar het recht van een andere staat dan Nederland en die staat partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, zijn de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=3&artikel=15&z=2022-12-15&g=2022-12-15), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.2&artikel=22&z=2022-12-15&g=2022-12-15) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.3&artikel=23&z=2022-12-15&g=2022-12-15) niet van toepassing.
+1. Indien een in Nederland gevestigde onderneming of een in Nederland gelegen nevenvestiging van een buiten Nederland gevestigde onderneming toebehoort aan een vennootschap als bedoeld in [richtlijn 68/151/EEG](31968L0151), opgericht naar het recht van een andere staat dan Nederland en die staat partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, zijn de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=3&artikel=15&z=2024-10-01&g=2024-10-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.2&artikel=22&z=2024-10-01&g=2024-10-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.3&artikel=23&z=2024-10-01&g=2024-10-01) niet van toepassing.
 
 2. In het handelsregister wordt over een vennootschap als bedoeld in het eerste lid opgenomen, de persoonlijke gegevens van iedere bestuurder en commissaris, de datum waarop hij in en uit functie is getreden en of hij bevoegd is de vennootschap alleen of handelend met een of meer anderen te vertegenwoordigen.
 
@@ -336,7 +336,7 @@ In het handelsregister worden over een rederij opgenomen:
 
 ##### Artikel 25
 
-1. Indien een in Nederland gevestigde onderneming of een in Nederland gelegen nevenvestiging van een buiten Nederland gevestigde onderneming toebehoort aan een vennootschap opgericht naar het recht van een staat die geen partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, met een rechtsvorm die vergelijkbaar is met een vennootschap als bedoeld in [richtlijn 68/151/EEG](31968L0151), zijn de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=3&artikel=15&z=2022-12-15&g=2022-12-15), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.2&artikel=22&z=2022-12-15&g=2022-12-15) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.3&artikel=23&z=2022-12-15&g=2022-12-15) niet van toepassing.
+1. Indien een in Nederland gevestigde onderneming of een in Nederland gelegen nevenvestiging van een buiten Nederland gevestigde onderneming toebehoort aan een vennootschap opgericht naar het recht van een staat die geen partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, met een rechtsvorm die vergelijkbaar is met een vennootschap als bedoeld in [richtlijn 68/151/EEG](31968L0151), zijn de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=3&artikel=15&z=2024-10-01&g=2024-10-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.2&artikel=22&z=2024-10-01&g=2024-10-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.3&artikel=23&z=2024-10-01&g=2024-10-01) niet van toepassing.
 
 2. In het handelsregister worden over een vennootschap als bedoeld in het eerste lid opgenomen:
 
@@ -354,11 +354,11 @@ In het handelsregister worden over een rederij opgenomen:
 
 4. In aanvulling op de opgave, bedoeld in het derde lid, onder c, kunnen in het handelsregister tussentijds wijzigingen van het ingeschreven kapitaal worden opgegeven.
 
-5. [Artikel 24, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.4&artikel=24&z=2022-12-15&g=2022-12-15), zijn van overeenkomstige toepassing.
+5. [Artikel 24, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.4&artikel=24&z=2024-10-01&g=2024-10-01), zijn van overeenkomstige toepassing.
 
 ##### Artikel 26
 
-1. Indien een in Nederland gevestigde onderneming of een in Nederland gelegen nevenvestiging van een buiten Nederland gevestigde onderneming toebehoort aan een vennootschap of rechtspersoon opgericht naar het recht van een ander land dan Nederland, niet zijnde een vennootschap als bedoeld in de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.4&artikel=24&z=2022-12-15&g=2022-12-15) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.4&artikel=25&z=2022-12-15&g=2022-12-15), zijn de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=3&artikel=15&z=2022-12-15&g=2022-12-15) en [18 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.2&artikel=18&z=2022-12-15&g=2022-12-15) niet van toepassing.
+1. Indien een in Nederland gevestigde onderneming of een in Nederland gelegen nevenvestiging van een buiten Nederland gevestigde onderneming toebehoort aan een vennootschap of rechtspersoon opgericht naar het recht van een ander land dan Nederland, niet zijnde een vennootschap als bedoeld in de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.4&artikel=24&z=2024-10-01&g=2024-10-01) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.4&artikel=25&z=2024-10-01&g=2024-10-01), zijn de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=3&artikel=15&z=2024-10-01&g=2024-10-01) en [18 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.2&artikel=18&z=2024-10-01&g=2024-10-01) niet van toepassing.
 
 2. In het handelsregister worden over de in het eerste lid bedoelde vennootschap of rechtspersoon opgenomen:
 
@@ -372,13 +372,13 @@ In het handelsregister worden over een rederij opgenomen:
 
 - b. de persoonlijke gegevens van de bij de onderneming of de hoofdnederzetting werkzame beheerder of een andere dergelijke gevolmachtigde, zijn functie, de datum waarop hij bij de onderneming of de hoofdnederzetting als zodanig in en uit functie is getreden en de inhoud van zijn volmacht.
 
-4. [Artikel 24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.4&artikel=24&z=2022-12-15&g=2022-12-15), voor zover het een rechtspersoon betreft, en vijfde lid, zijn van overeenkomstige toepassing.
+4. [Artikel 24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.4&artikel=24&z=2024-10-01&g=2024-10-01), voor zover het een rechtspersoon betreft, en vijfde lid, zijn van overeenkomstige toepassing.
 
 5. In afwijking van het tweede lid, onderdeel a, worden over een rechtspersoon met meer dan 20 vennoten, niet de in dat lid genoemde gegevens opgenomen over de vennoten die niet aan de Nederlandse vestiging van de rechtspersoon zijn verbonden.
 
 ##### Artikel 27
 
-1. In geval van wijziging van de oprichtingsovereenkomst van een Europees economisch samenwerkingsverband en van de statuten van een rechtspersoon als bedoeld in de [artikelen 24 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.4&artikel=24&z=2022-12-15&g=2022-12-15) wordt gedeponeerd:
+1. In geval van wijziging van de oprichtingsovereenkomst van een Europees economisch samenwerkingsverband en van de statuten van een rechtspersoon als bedoeld in de [artikelen 24 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.4&artikel=24&z=2024-10-01&g=2024-10-01) wordt gedeponeerd:
 
 - a. een authentiek afschrift van de notariële akte die van de wijziging is opgemaakt of, indien van de wijziging geen notariële akte is opgemaakt, een door een opgaveplichtige gewaarmerkt afschrift van de wijziging;
 
@@ -428,13 +428,13 @@ In het handelsregister worden over een vereniging van eigenaars opgenomen:
 
 - a. het post- en bezoekadres;
 
-- b. het telefoonnummer, het faxnummer, het e-mailadres en het internetadres.
+- b. het telefoonnummer, het e-mailadres en het internetadres.
 
-2. In het handelsregister worden over een kerkgenootschap, als bedoeld in [artikel 8, eerste dan wel tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=3&artikel=8&z=2022-12-15&g=2022-12-15), opgenomen:
+2. In het handelsregister worden over een kerkgenootschap, als bedoeld in [artikel 8, eerste dan wel tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=3&artikel=8&z=2024-10-01&g=2024-10-01), opgenomen:
 
 - a. het post- en bezoekadres;
 
-- b. het telefoonnummer, het faxnummer, het e-mailadres en het internetadres;
+- b. het telefoonnummer, het e-mailadres en het internetadres;
 
 3. Als gegevens, als bedoeld in [artikel 17, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=17) worden voor kerkgenootschappen en lichamen, in de zin van [artikel 2 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=2) aangewezen:
 
@@ -452,7 +452,7 @@ In het handelsregister worden over een vereniging van eigenaars opgenomen:
 
 - b. het post- en bezoekadres;
 
-- c. het telefoonnummer, het faxnummer, het e-mailadres en het internetadres;
+- c. het telefoonnummer, het e-mailadres en het internetadres;
 
 - d. de gegevens, genoemd in het derde lid.
 
@@ -488,7 +488,7 @@ In het handelsregister worden over een onderneming die toebehoort aan een publie
 
 In het handelsregister worden over een vestiging opgenomen:
 
-- a. het telefoonnummer, het faxnummer, het e-mailadres en het internetadres;
+- a. het telefoonnummer, het e-mailadres en het internetadres;
 
 - b. een korte aanduiding van de uitgeoefende activiteit of activiteiten.
 
@@ -532,9 +532,9 @@ In het handelsregister worden opgenomen:
 
 1. In het handelsregister wordt de ontbinding van een vennootschap of rechtspersoon opgenomen, onder vermelding van datum van de ontbinding, de persoonlijke gegevens, de bevoegdheid van ieder der vereffenaars en de datum waarop hij vereffenaar is geworden.
 
-2. Indien de ontbinding een vennootschap betreft als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.4&artikel=24&z=2022-12-15&g=2022-12-15) worden in het handelsregister opgenomen de bevoegdheden van de vereffenaars, indien die in het land waar de vennootschap is gevestigd openbaar gemaakt moeten worden. Indien de ontbinding een vennootschap of rechtspersoon als bedoeld in de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.4&artikel=25&z=2022-12-15&g=2022-12-15) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.4&artikel=26&z=2022-12-15&g=2022-12-15) betreft, worden mede opgenomen de bevoegdheden van de vereffenaars.
+2. Indien de ontbinding een vennootschap betreft als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.4&artikel=24&z=2024-10-01&g=2024-10-01) worden in het handelsregister opgenomen de bevoegdheden van de vereffenaars, indien die in het land waar de vennootschap is gevestigd openbaar gemaakt moeten worden. Indien de ontbinding een vennootschap of rechtspersoon als bedoeld in de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.4&artikel=25&z=2024-10-01&g=2024-10-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.4&artikel=26&z=2024-10-01&g=2024-10-01) betreft, worden mede opgenomen de bevoegdheden van de vereffenaars.
 
-3. De voltooiing van de vereffening van een Europees economisch samenwerkingsverband of van een vennootschap of rechtspersoon als bedoeld in de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.4&artikel=24&z=2022-12-15&g=2022-12-15), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.4&artikel=25&z=2022-12-15&g=2022-12-15) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.4&artikel=26&z=2022-12-15&g=2022-12-15), wordt in het handelsregister opgenomen.
+3. De voltooiing van de vereffening van een Europees economisch samenwerkingsverband of van een vennootschap of rechtspersoon als bedoeld in de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.4&artikel=24&z=2024-10-01&g=2024-10-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.4&artikel=25&z=2024-10-01&g=2024-10-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.4&artikel=26&z=2024-10-01&g=2024-10-01), wordt in het handelsregister opgenomen.
 
 ##### Artikel 41
 
@@ -596,7 +596,7 @@ De Kamer informeert het bestuursorgaan dat een melding heeft gedaan over:
 
 ##### Artikel 48
 
-Als gegevens als bedoeld in [artikel 38, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=38) worden de in [artikel 15a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=15a) en de in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&z=2022-12-15&g=2022-12-15) genoemde gegevens aangewezen.
+Als gegevens als bedoeld in [artikel 38, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=38) worden de in [artikel 15a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=15a) en de in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&z=2024-10-01&g=2024-10-01) genoemde gegevens aangewezen.
 
 ##### Artikel 49
 
@@ -608,7 +608,7 @@ Indien bij rechterlijke uitspraak hetgeen in het handelsregister is opgenomen ge
 
 Als gegevens bedoeld in [artikel 25, vierde lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=25), worden alle gegevens aangewezen over een onderneming of rechtspersoon die voor het eerst is opgenomen in het handelsregister zonder een opgave door een daartoe bevoegd persoon, zolang de handtekening van degene die tot het doen van opgave verplicht is, niet in het handelsregister is opgenomen.
 
-### Hoofdstuk 8. Verstrekking van gegevens
+### Hoofdstuk 6. Wijzigen van opgenomen gegevens
 
 ##### Artikel 51
 
@@ -616,7 +616,11 @@ Als gegevens bedoeld in [artikel 25, vierde lid, onderdeel c, van de wet](https:
 
 2. Het eerste lid is niet van toepassing op het adres van een bewaarder van boeken en bescheiden, als bedoeld in [artikel 24, derde lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24).
 
-3. Het bezoekadres van een onderneming of een rechtspersoon kan op verzoek van die onderneming of rechtspersoon worden afgeschermd tegen inzage, indien:
+3. Het bezoekadres van een onderneming als bedoeld in [artikel 5, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=5) wordt op verzoek van degene aan wie de onderneming toebehoort, afgeschermd tegen inzage, indien die onderneming beschikt over een openbaar postadres.
+
+4. Dit lid is nog niet in werking getreden.
+
+5. Het bezoekadres van een onderneming of een rechtspersoon kan op verzoek van die onderneming of rechtspersoon worden afgeschermd tegen inzage, indien:
 
 - a. er sprake is van een dreiging die afscherming noodzakelijk maakt gelet op de veiligheid van een of meer personen;
 
@@ -628,7 +632,7 @@ Als gegevens bedoeld in [artikel 25, vierde lid, onderdeel c, van de wet](https:
 
 - e. verzoeker een correspondentieadres opgeeft in aanvulling op het afgeschermde bezoekadres.
 
-4. Daarnaast kan het bezoekadres van een onderneming of een rechtspersoon, niet zijnde een kapitaalvennootschap, op verzoek van die onderneming of rechtspersoon ook worden afgeschermd, indien:
+6. Daarnaast kan het bezoekadres van een onderneming of een rechtspersoon, niet zijnde een kapitaalvennootschap, op verzoek van die onderneming of rechtspersoon ook worden afgeschermd, indien:
 
 - a. het bezoekadres gelijk is aan het woonadres;
 
@@ -638,7 +642,7 @@ Als gegevens bedoeld in [artikel 25, vierde lid, onderdeel c, van de wet](https:
 
 De onderdelen b tot en met e van het derde lid zijn van overeenkomstige toepassing.
 
-5. Het eerste, derde en vierde lid zijn niet van toepassing op de inzage door bestuursorganen als bedoeld in [artikel 1:1, eerste lid, onderdeel a, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:1), advocaten, deurwaarders, notarissen en de organisaties, bedoeld in [artikel 28, vierde lid, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=28).
+7. Het eerste, derde, vierde, vijfde en zesde lid zijn niet van toepassing op de inzage door bestuursorganen als bedoeld in [artikel 1:1, eerste lid, onderdeel a, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:1), advocaten, deurwaarders, notarissen en de instanties, genoemd in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=8&artikel=53&z=2024-10-01&g=2024-10-01).
 
 ##### Artikel 52
 
@@ -646,15 +650,49 @@ De onderdelen b tot en met e van het derde lid zijn van overeenkomstige toepassi
 
 - a. de Europese coöperatieve vennootschap;
 
-- b. de vennootschappen, bedoeld in [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.4&artikel=24&z=2022-12-15&g=2022-12-15) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.4&artikel=25&z=2022-12-15&g=2022-12-15);
+- b. de vennootschappen, bedoeld in [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.4&artikel=24&z=2024-10-01&g=2024-10-01) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.4&artikel=25&z=2024-10-01&g=2024-10-01);
 
-- c. de vennootschappen bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.2&artikel=17&z=2022-12-15&g=2022-12-15), voor zover de niet-commanditaire vennoten daarvan kapitaalvennootschappen naar buitenlands recht zijn.
+- c. de vennootschappen bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.2&artikel=17&z=2024-10-01&g=2024-10-01), voor zover de niet-commanditaire vennoten daarvan kapitaalvennootschappen naar buitenlands recht zijn.
 
 2. Als gegevens en bescheiden, bedoeld in [artikel 24, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=24), worden aangewezen, alle gegevens ten aanzien waarvan geen publicatieplicht geldt op grond van een bindend besluit van de Raad van de Europese Unie of de Europese Commissie.
 
 ##### Artikel 53
 
-Wijzigt dit besluit.
+Als bestuursorgaan of rechtspersoon met een overheidstaak als bedoeld in [artikel 28, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=28) wordt aangewezen:
+
+- a. Onze Minister van Justitie en Veiligheid ten behoeve van de taak, bedoeld in [artikel 2, eerste lid, van de Wet controle op rechtspersonen](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&artikel=2) of ten behoeve van de uitvoering van de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823);
+
+- b. een officier van justitie ten behoeve van de opsporing van strafbare feiten;
+
+- c. de rijksbelastingdienst voor de uitvoering van zijn wettelijke taken;
+
+- d. het Uitvoeringsinstituut werknemersverzekeringen of de Sociale verzekeringsbank, bedoeld in de [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060), of Onze Minister van Sociale Zaken en Werkgelegenheid voor de uitvoering van aan hen bij of krachtens wet opgedragen taken;
+
+- e. het college van burgemeester en wethouders voor de uitvoering van de [Wet gemeentelijke schulphulpverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0031331), de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044) en de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163);
+
+- f. het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur ten behoeve van het geven van een advies als bedoeld in [artikel 9 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=9) en een bestuursorgaan als bedoeld in [artikel 1:1, eerste lid, onderdeel a, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:1) of rechtspersoon met een overheidstaak als bedoeld in artikel 1, eerste lid, van die wet, in het geval waarin hij bevoegd is tot toepassing van de [Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798);
+
+- g. de Autoriteit Consument en Markt voor de uitvoering van haar wettelijke taken;
+
+- h. de raad van bestuur van de Autoriteit Financiële Markten voor de uitvoering van zijn wettelijke taken;
+
+- i. Onze verantwoordelijke Minister, bedoeld in de [Uitvoeringswet screeningsverordening buitenlandse directe investeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0044449), indien deze op grond van [artikel 4, tweede lid, onderdeel a, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044449&artikel=4) gebruik maakt van gegevens uit het handelsregister;
+
+- j. Onze Minister van Sociale Zaken en Werkgelegenheid en de colleges van burgemeester en wethouders voor hun taak, bedoeld in [artikel 1.47a van de Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.47a);
+
+- k. de Nederlandse Zorgautoriteit voor de uitvoering van haar wettelijke taken;
+
+- l. de Inspectie Gezondheidszorg en Jeugd voor de uitvoering van haar wettelijke taken;
+
+- m. de Kansspelautoriteit voor de uitvoering van haar taken bij de uitoefening van het verlenen van en het houden van toezicht op vergunningen voor kansspelen en de handhaving daarvan, bedoeld in [artikel 33b van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33b);
+
+- n. het Landelijk Bureau Inning Onderhoudsbijdragen voor de uitvoering van zijn taken, bedoeld in [artikel 2, derde en vierde lid, van de Wet Landelijk Bureau Inning Onderhoudsbijdrage](https://wetten.overheid.nl/jci1.3:c:BWBR0007292&artikel=2);
+
+- o. de Nederlandsche Bank voor de uitvoering van zijn wettelijke taken;
+
+- p. Onze Minister van Landbouw, Natuur en Voedselkwaliteit voor de uitvoering van zijn taken op grond van de [Kaderwet EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919) in samenhang met artikel 9, tweede lid, van [Verordening (EU) nr. 1307/2013](32013R1307) tot vaststelling van voorschriften voor rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid en tot intrekking van [Verordening (EG) nr. 637/2008](32008R0637) van de Raad en [Verordening (EG) nr. 73/2009](32009R0073) van de Raad;
+
+- q. de notaris voor de uitoefening van de wettelijke werkzaamheden, bedoeld in [artikel 2, eerste lid, van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=2).
 
 ### Hoofdstuk 8. Verstrekking van gegevens
 
@@ -670,7 +708,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 11a
 
-1. Een onderneming zonder vestiging in Nederland kan worden ingeschreven in het handelsregister, indien de activiteiten van de onderneming in Nederland zelfstandig zouden kwalificeren als een onderneming in de zin van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=1&artikel=2&z=2022-12-15&g=2022-12-15).
+1. Een onderneming zonder vestiging in Nederland kan worden ingeschreven in het handelsregister, indien de activiteiten van de onderneming in Nederland zelfstandig zouden kwalificeren als een onderneming in de zin van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=1&artikel=2&z=2024-10-01&g=2024-10-01).
 
 2. In het handelsregister wordt over een onderneming zonder vestiging in Nederland het adres opgenomen waarop degene aan wie de onderneming toebehoort fysiek bereikbaar is.
 
@@ -736,7 +774,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk 7. Uitzondering derdenwerking
 
-### Hoofdstuk 9. Slotartikelen
+### Hoofdstuk 8. Verstrekking van gegevens
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
@@ -752,7 +790,7 @@ In het handelsregister wordt over een pensioenfonds als bedoeld in [artikel 1 va
 
 ### Hoofdstuk 5. Gegevens uit andere basisregisters afkomstig
 
-### Hoofdstuk 6. Wijzigen van opgenomen gegevens
+### Hoofdstuk 5. Gegevens uit andere basisregisters afkomstig
 
 ### Hoofdstuk 7. Uitzondering derdenwerking
 
@@ -812,7 +850,7 @@ Als bevoegde autoriteiten, bedoeld in [artikel 28, tweede lid, van de wet](https
 
 ##### Artikel 51b
 
-1. De gegevens, bedoeld in [artikel 15a, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=15a), kunnen op verzoek van de uiteindelijk belanghebbende worden afgeschermd tegen inzage door anderen dan de Financiële inlichtingen eenheid, de bevoegde autoriteiten, bedoeld in [artikel 51a](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=8&artikel=51a&z=2022-12-15&g=2022-12-15), banken en andere financiële ondernemingen, bedoeld in [artikel 1a, tweede en derde lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1a), en natuurlijke personen, bedoeld in artikel 1a, vierde lid, onderdeel d, van de Wet ter voorkoming van witwassen en financieren van terrorisme.
+1. De gegevens, bedoeld in [artikel 15a, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=15a), kunnen op verzoek van de uiteindelijk belanghebbende worden afgeschermd tegen inzage door anderen dan de Financiële inlichtingen eenheid, de bevoegde autoriteiten, bedoeld in [artikel 51a](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=8&artikel=51a&z=2024-10-01&g=2024-10-01), banken en andere financiële ondernemingen, bedoeld in [artikel 1a, tweede en derde lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1a), en natuurlijke personen, bedoeld in artikel 1a, vierde lid, onderdeel d, van de Wet ter voorkoming van witwassen en financieren van terrorisme.
 
 2. Een verzoek tot afscherming wordt alleen toegekend indien:
 
@@ -835,6 +873,56 @@ Als bevoegde autoriteiten, bedoeld in [artikel 28, tweede lid, van de wet](https
 ##### Artikel 51c
 
 De gegevens en afschriften, bedoeld in [artikel 15a, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=15a), kunnen tot tien jaar na uitschrijving van de juridische entiteit uit het handelsregister worden ingezien.
+
+### Hoofdstuk 9. Slotartikelen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 41a
+
+1. Over een persoon ten aanzien van wie krachtens een uitspraak als bedoeld in [artikel 29, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=29) of [artikel 106b, derde lid, van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=106b), een bestuursverbod geldt, worden bij het handelsregister de volgende gegevens opgenomen:
+
+- a. het burgerservicenummer, bedoeld in [artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1), indien dat is toegekend;
+
+- b. de naam;
+
+- c. de geboortedatum;
+
+- d. de geboorteplaats en het geboorteland;
+
+- e. het adres;
+
+- f. de datum van aanvang en beëindiging van het bestuursverbod;
+
+- g. het gegeven, genoemd in [artikel 9, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=9), of [artikel 13, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=13) en het gegeven, genoemd in [artikel 12, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=12) over de in de uitspraak genoemde rechtspersoon of rechtspersonen; en
+
+- h. de datum, het zaaknummer en de vindplaats van de uitspraak, bedoeld in [artikel 29, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=29) en [artikel 106b, derde lid, van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=106b).
+
+2. Tot het doen van een opgave ter inschrijving van de beschikbare gegevens, bedoeld in het eerste lid, is verplicht de griffier, bedoeld in [artikel 29, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=29) en [artikel 106b, derde lid, van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=106b). De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=2&artikel=3&z=2024-10-01&g=2024-10-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=2&artikel=4&z=2024-10-01&g=2024-10-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=2&artikel=5&z=2024-10-01&g=2024-10-01) zijn van overeenkomstige toepassing.
+
+3. De in het eerste lid, onderdelen b, d, f en h, genoemde gegevens en het geboortejaar kunnen door eenieder worden ingezien door publicatie in een openbaar raadpleegbaar register, zolang het bestuursverbod geldt.
+
+#### § 7. Ondersteunende gegevens
+
+### Hoofdstuk 7. Uitzondering derdenwerking
+
+##### Artikel 53a
+
+Als bestuursorgaan of rechtspersoon met een overheidstaak als bedoeld in [artikel 29, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=29) wordt aangewezen:
+
+- a. Onze Minister van Justitie en Veiligheid ten behoeve van de taak, bedoeld in [artikel 2, eerste lid, van de Wet controle op rechtspersonen](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&artikel=2);
+
+- b. de rijksbelastingdienst voor de uitvoering van zijn wettelijke taken;
+
+- c. een officier van justitie ten behoeve van de opsporing van strafbare feiten;
+
+- d. de raad van bestuur van de Autoriteit Financiële Markten voor de uitvoering van zijn wettelijke taken;
+
+- e. de Autoriteit Consument en Markt voor de uitvoering van haar wettelijke taken;
+
+- f. de Nederlandsche Bank voor de uitvoering van zijn wettelijke taken;
+
+- g. het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur ten behoeve van het geven van een advies als bedoeld in [artikel 9 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=9).
 
 ### Hoofdstuk 9. Slotartikelen
 
