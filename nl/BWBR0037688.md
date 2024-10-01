@@ -4,7 +4,7 @@ identifier: "BWBR0037688"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2023-10-01"
+last_updated: "2024-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037688"
 soort: "ministeriele-regeling"
@@ -60,19 +60,19 @@ Voor de toepassing van deze regeling wordt verstaan onder:
 
 ##### Artikel 2. (hoogte toltarief)
 
-1. Het toltarief voor de Blankenburgverbinding bedraagt, uitgaande van het prijspeil in 2013:
+1. Het toltarief voor de Blankenburgverbinding bedraagt:
 
-- a. voor voertuigen met een maximaal toegestaan gewicht van 3.500 kg: € 1,18;
+- a. voor voertuigen met een maximaal toegestaan gewicht van 3.500 kg of voor emissievrije voertuigen met een maximaal toegestaan gewicht van 4.250 kg: € 1,51;
 
-- b. voor voertuigen met een maximaal toegestaan gewicht van meer dan 3.500 kg: € 7,11.
+- b. voor voertuigen met een maximaal toegestaan gewicht van meer dan 3.500 kg, uitgezonderd emissievrije voertuigen als bedoeld onder a: € 9,13.
 
-2. Het toltarief voor de ViA15 bedraagt, uitgaande van het prijspeil in 2013:
+2. Het toltarief voor de ViA15 bedraagt:
 
-- a. voor voertuigen met een maximaal toegestaan gewicht van 3.500 kg: € 1,18;
+- a. voor voertuigen met een maximaal toegestaan gewicht van 3.500 kg of voor emissievrije voertuigen met een maximaal toegestaan gewicht van 4.250 kg: € 1,51;
 
-- b. voor voertuigen met een maximaal toegestaan gewicht van meer dan 3.500 kg: € 7,11.
+- b. voor voertuigen met een maximaal toegestaan gewicht van meer dan 3.500 kg, uitgezonderd emissievrije voertuigen als bedoeld onder a: € 9,13.
 
-3. Het toltarief wordt jaarlijks geïndexeerd met de door het CBP geraamde Index Bruto Overheidsinvesteringen.
+3. Het toltarief wordt jaarlijks geïndexeerd met de door het Centraal Planbureau geraamde Index Bruto Overheidsinvesteringen.
 
 4. De Minister maakt voorafgaand aan de openstelling van de Blankenburgverbinding respectievelijk de ViA15 en vervolgens jaarlijks het geïndexeerde toltarief, bedoeld in het derde lid, bekend in de Staatscourant.
 
