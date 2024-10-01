@@ -4,7 +4,7 @@ identifier: "BWBR0047193"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2025-08-09"
-last_updated: "2023-04-22"
+last_updated: "2024-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047193"
 soort: "beleidsregel"
@@ -62,7 +62,7 @@ In deze beleidsregel wordt verstaan onder:
 
 ##### Artikel 2. (doelgroep en reikwijdte)
 
-Deze beleidsregel is van toepassing op belastingplichtige of inhoudingsplichtige organisaties die online belastingaangifte moeten doen via Mijn Belastingdienst Zakelijk. Om deze organisaties in staat te stellen kosteloos aan hun aangifteverplichting te voldoen, bevat deze beleidsregel een compensatieregeling voor de aanschafkosten van het Belastingdienst EH3-inlogmiddel ([hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047193&hoofdstuk=2&z=2023-04-22&g=2023-04-22)). Voor organisaties die niet kunnen beschikken over dit inlogmiddel, is voorzien in een compensatieregeling voor onvermijdelijke andere kosten ([hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047193&hoofdstuk=3&z=2023-04-22&g=2023-04-22)).
+Deze beleidsregel is van toepassing op belastingplichtige of inhoudingsplichtige organisaties die online belastingaangifte moeten doen via Mijn Belastingdienst Zakelijk. Om deze organisaties in staat te stellen kosteloos aan hun aangifteverplichting te voldoen, bevat deze beleidsregel een compensatieregeling voor de aanschafkosten van het Belastingdienst EH3-inlogmiddel ([hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047193&hoofdstuk=2&z=2023-04-22&g=2024-10-01)). Voor organisaties die niet kunnen beschikken over dit inlogmiddel, is voorzien in een compensatieregeling voor onvermijdelijke andere kosten ([hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047193&hoofdstuk=3&z=2023-04-22&g=2024-10-01)).
 
 ### Hoofdstuk 2. Compensatie belastingdienst eh3-inlogmiddel
 
@@ -111,7 +111,7 @@ Deze beleidsregel is van toepassing op belastingplichtige of inhoudingsplichtige
 
 3. De in het tweede lid bedoelde compensatie is bedoeld als tegemoetkoming in de kosten die belanghebbende redelijkerwijs moet maken om aan zijn aangifteverplichting te kunnen voldoen en gaat ervan uit dat deze kosten regelmatig over de jaren zijn verdeeld. Het kan echter voorkomen dat in een jaar een stapeling van kosten optreedt doordat het gebruik van een softwarepakket voor meerdere jaren vooruit is gefactureerd of doordat – bijvoorbeeld wegens eerder verleend uitstel – in één jaar meerdere aangiften worden ingediend door een intermediair. Tegenover deze stapeling van kosten staan doorgaans één of meer andere jaren waarin vrijwel geen kosten worden gemaakt.
 
-Het in het tweede lid bedoelde maximum is niet altijd toereikend om na een stapeling van kosten een redelijke compensatie te bieden. Daarom kan een compensatie, die hoger is dan het in het tweede lid genoemde maximum, worden toegekend indien aanvrager de in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047193&hoofdstuk=3&artikel=5&z=2023-04-22&g=2023-04-22), genoemde kosten heeft gemaakt voor het doen van meerdere belastingaangiftes in het kalenderjaar of voor het aanschaffen van een gebruikerslicentie om in meerdere kalenderjaren belastingaangifte te doen via een softwarepakket. Het in het tweede lid genoemde maximum wordt in dat geval verhoogd met het maximum van het kalenderjaar of de kalenderjaren waarin de kosten bij een gelijkmatige verdeling van de kosten over de jaren zouden neerslaan en voor zover in die jaren geen aanspraak is of zal worden gemaakt op een compensatie.
+Het in het tweede lid bedoelde maximum is niet altijd toereikend om na een stapeling van kosten een redelijke compensatie te bieden. Daarom kan een compensatie, die hoger is dan het in het tweede lid genoemde maximum, worden toegekend indien aanvrager de in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047193&hoofdstuk=3&artikel=5&z=2023-04-22&g=2024-10-01), genoemde kosten heeft gemaakt voor het doen van meerdere belastingaangiftes in het kalenderjaar of voor het aanschaffen van een gebruikerslicentie om in meerdere kalenderjaren belastingaangifte te doen via een softwarepakket. Het in het tweede lid genoemde maximum wordt in dat geval verhoogd met het maximum van het kalenderjaar of de kalenderjaren waarin de kosten bij een gelijkmatige verdeling van de kosten over de jaren zouden neerslaan en voor zover in die jaren geen aanspraak is of zal worden gemaakt op een compensatie.
 
 ##### Artikel 7. (aanvraag en over te leggen informatie)
 
@@ -141,9 +141,9 @@ Op de aanvraag wordt beslist binnen acht weken na ontvangst. Indien niet binnen 
 
 ##### Artikel 9. (toekenning en uitbetaling)
 
-1. De in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047193&hoofdstuk=2&z=2023-04-22&g=2023-04-22) bedoelde vergoeding wordt toegekend door de Staatssecretaris Koninkrijksrelaties en Digitalisering en, namens deze, uitbetaald door de Rijksdienst voor Ondernemend Nederland.
+1. De in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047193&hoofdstuk=2&z=2023-04-22&g=2024-10-01) bedoelde vergoeding wordt toegekend door de Staatssecretaris Koninkrijksrelaties en Digitalisering en, namens deze, uitbetaald door de Rijksdienst voor Ondernemend Nederland.
 
-2. De in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047193&hoofdstuk=3&z=2023-04-22&g=2023-04-22) bedoelde vergoeding wordt toegekend door de Staatssecretaris van Financiën – Fiscaliteit en Belastingdienst en, namens deze, uitbetaald door de ontvanger van de Belastingdienst.
+2. De in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047193&hoofdstuk=3&z=2023-04-22&g=2024-10-01) bedoelde vergoeding wordt toegekend door de Staatssecretaris van Financiën – Fiscaliteit en Belastingdienst en, namens deze, uitbetaald door de ontvanger van de Belastingdienst.
 
 ##### Artikel 10. (Ingetrokken regeling)
 
@@ -193,9 +193,9 @@ Deze beleidsregel zal met toelichting in de Staatscourant worden geplaatst.
 
 In deze beleidsregel wordt verstaan onder:
 
-- **aanvrager:** de belastingplichtige of inhoudingsplichtige organisatie of buitenlandse natuurlijke persoon, die verzoekt om compensatie voor de kosten van het Belastingdienst EH3-inlogmiddel of noodzakelijke andere kosten als bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047193&hoofdstuk=2&z=2023-04-22&g=2023-04-22) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0047193&hoofdstuk=3&z=2023-04-22&g=2023-04-22) van deze beleidsregel;
+- **aanvrager:** de belastingplichtige of inhoudingsplichtige organisatie of buitenlandse natuurlijke persoon, die verzoekt om compensatie voor de kosten van het Belastingdienst EH3-inlogmiddel of noodzakelijke andere kosten als bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047193&hoofdstuk=2&z=2023-04-22&g=2024-10-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0047193&hoofdstuk=3&z=2023-04-22&g=2024-10-01) van deze beleidsregel;
 
-- **Belastingdienst EH3-inlogmiddel:** een door een erkende leverancier aangeboden elektronisch middel dat uitsluitend gebruikt kan worden om in te loggen bij de Belastingdienst en voor het aanvragen van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047193&hoofdstuk=2&artikel=3&z=2023-04-22&g=2023-04-22) bedoelde compensatie;
+- **Belastingdienst EH3-inlogmiddel:** een door een erkende leverancier aangeboden elektronisch middel dat uitsluitend gebruikt kan worden om in te loggen bij de Belastingdienst en voor het aanvragen van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047193&hoofdstuk=2&artikel=3&z=2023-04-22&g=2024-10-01) bedoelde compensatie;
 
 - **eHerkenning:** een authenticatiesysteem waarmee een organisatie toegang kan krijgen tot elektronische diensten van (overheids) organisaties;
 
