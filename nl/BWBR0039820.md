@@ -4,7 +4,7 @@ identifier: "BWBR0039820"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-04-01"
-last_updated: "2022-12-10"
+last_updated: "2024-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039820"
 soort: "zbo"
@@ -150,7 +150,7 @@ Bij het vaststellen van de vergoeding uit hoofde van het depositogarantiestelsel
 
 - b. het totale gegarandeerde bedrag per depositohouder niet hoger kan zijn dan het totale saldo van de tegoeden die de depositohouder bij de bank aanhoudt.
 
-3. In het geval van doorstorting van een deposito als bedoeld in het eerste lid naar een andere rekening, vangt de beschermingstermijn van drie maanden, als bedoeld in [artikel 29.02, vierde lid van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.02), aan op de datum van storting op de oorspronkelijke rekening.
+3. In het geval van doorstorting van een deposito als bedoeld in het eerste lid naar een andere rekening, vangt de beschermingstermijn als bedoeld in [artikel 29.02, vierde lid van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.02), aan op de datum van storting op de oorspronkelijke rekening.
 
 4. Ten behoeve van het onderzoek naar het bestaan van een tijdelijk hoog deposito, kan DNB een depositohouder verzoeken om aanvullende informatie te verstrekken die samenhangt met het tijdelijk hoog deposito.
 
