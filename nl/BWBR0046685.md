@@ -4,7 +4,7 @@ identifier: "BWBR0046685"
 country: "nl"
 rank: "wet"
 publication_date: "2024-10-01"
-last_updated: "2024-04-01"
+last_updated: "2024-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046685"
 soort: "wet"
@@ -63,7 +63,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **Onze Minister:** Onze Minister voor Rechtsbescherming;
 
-- **register:** het register, genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=3&z=2024-04-01&g=2024-04-01);
+- **register:** het register, genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=3&z=2024-10-01&g=2024-10-01);
 
 - **tableau:** het tableau, genoemd in [artikel 1 van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=1);
 
@@ -95,13 +95,13 @@ Deze wet heeft uitsluitend betrekking op buitengerechtelijke incassowerkzaamhede
 
 - d. de naam en voornaam of voornamen van de bestuurders;
 
-- e. een wijziging als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=8&z=2024-04-01&g=2024-04-01);
+- e. een wijziging als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=8&z=2024-10-01&g=2024-10-01);
 
-- f. een bestuurlijke sanctie als bedoeld in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=15&z=2024-04-01&g=2024-04-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=16&z=2024-04-01&g=2024-04-01), met een aanduiding indien een besluit hiertoe nog niet onherroepelijk is;
+- f. een bestuurlijke sanctie als bedoeld in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=15&z=2024-10-01&g=2024-10-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=16&z=2024-10-01&g=2024-10-01), met een aanduiding indien een besluit hiertoe nog niet onherroepelijk is;
 
-- g. een schorsing en een opheffing van een schorsing als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=9&z=2024-04-01&g=2024-04-01), met een aanduiding indien een besluit hiertoe nog niet onherroepelijk is;
+- g. een schorsing en een opheffing van een schorsing als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=9&z=2024-10-01&g=2024-10-01), met een aanduiding indien een besluit hiertoe nog niet onherroepelijk is;
 
-- h. een doorhaling van een registratie als bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=10&z=2024-04-01&g=2024-04-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=17&z=2024-04-01&g=2024-04-01), met een aanduiding indien een besluit hiertoe nog niet onherroepelijk is;
+- h. een doorhaling van een registratie als bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=10&z=2024-10-01&g=2024-10-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=17&z=2024-10-01&g=2024-10-01), met een aanduiding indien een besluit hiertoe nog niet onherroepelijk is;
 
 - i. het vervallen van een registratie, bedoeld in het vijfde lid.
 
@@ -117,7 +117,7 @@ Deze wet heeft uitsluitend betrekking op buitengerechtelijke incassowerkzaamhede
 
 - c. na een doorhaling krachtens een besluit dat nog niet onherroepelijk is, van de mededeling dat en de datum waarop in het register is opgenomen dat een registratie is doorgehaald, met de aanduiding dat een besluit hiertoe nog niet onherroepelijk is.
 
-6. Een registratie vervalt, indien de kosten die krachtens [artikel 20, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=6&artikel=20&z=2024-04-01&g=2024-04-01), ten laste worden gebracht, niet of niet tijdig zijn voldaan.
+6. Een registratie vervalt, indien de kosten die krachtens [artikel 20, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=6&artikel=20&z=2024-10-01&g=2024-10-01), ten laste worden gebracht, niet of niet tijdig zijn voldaan.
 
 7. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over het eerste tot en met vijfde lid.
 
@@ -135,9 +135,9 @@ Deze wet heeft uitsluitend betrekking op buitengerechtelijke incassowerkzaamhede
 
 1. Bij de aanvraag tot de inschrijving in het register verstrekt degene die buitengerechtelijke incassowerkzaamheden wenst te verrichten of aan te bieden:
 
-- a. een uiteenzetting hoe ervoor wordt gezorgd dat zal worden voldaan aan de bij of krachtens de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=11&z=2024-04-01&g=2024-04-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=12&z=2024-04-01&g=2024-04-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=13&z=2024-04-01&g=2024-04-01) gestelde regels;
+- a. een uiteenzetting hoe ervoor wordt gezorgd dat zal worden voldaan aan de bij of krachtens de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=11&z=2024-10-01&g=2024-10-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=12&z=2024-10-01&g=2024-10-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=13&z=2024-10-01&g=2024-10-01) gestelde regels;
 
-- b. gegevens over de gronden, bedoeld in [artikel 6, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=6&z=2024-04-01&g=2024-04-01), en [artikel 7, eerste lid, onderdelen b tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=7&z=2024-04-01&g=2024-04-01);
+- b. gegevens over de gronden, bedoeld in [artikel 6, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=6&z=2024-10-01&g=2024-10-01), en [artikel 7, eerste lid, onderdelen b tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=7&z=2024-10-01&g=2024-10-01);
 
 - c. de naam of namen waaronder hij buitengerechtelijke incassowerkzaamheden wenst te verrichten of aan te bieden, indien en voor zover deze niet reeds volgen uit het handelsregister;
 
@@ -159,17 +159,17 @@ Deze wet heeft uitsluitend betrekking op buitengerechtelijke incassowerkzaamhede
 
 - b. de registratie van de aanvrager of van een verrichter of aanbieder van buitengerechtelijke incassowerkzaamheden waarbij de aanvrager of een bestuurder van de aanvrager is betrokken, is geschorst;
 
-- c. een krachtens [artikel 10, aanhef en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=10&z=2024-04-01&g=2024-04-01), of [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=17&z=2024-04-01&g=2024-04-01) genomen besluit tot doorhaling van de registratie van de aanvrager of van een verrichter of aanbieder van buitengerechtelijke incassowerkzaamheden waarbij de aanvrager of een bestuurder van de aanvrager is betrokken, niet onherroepelijk is;
+- c. een krachtens [artikel 10, aanhef en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=10&z=2024-10-01&g=2024-10-01), of [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=17&z=2024-10-01&g=2024-10-01) genomen besluit tot doorhaling van de registratie van de aanvrager of van een verrichter of aanbieder van buitengerechtelijke incassowerkzaamheden waarbij de aanvrager of een bestuurder van de aanvrager is betrokken, niet onherroepelijk is;
 
-- d. de kosten die krachtens [artikel 20, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=6&artikel=20&z=2024-04-01&g=2024-04-01), ten laste worden gebracht, niet zijn voldaan.
+- d. de kosten die krachtens [artikel 20, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=6&artikel=20&z=2024-10-01&g=2024-10-01), ten laste worden gebracht, niet zijn voldaan.
 
-2. De termijn, genoemd in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=5&z=2024-04-01&g=2024-04-01), wordt in ieder geval opgeschort tot de dag waarop een in het eerste lid bedoelde omstandigheid zich niet langer voordoet en de aanvrager heeft verzocht de aanvraag verder in behandeling te nemen.
+2. De termijn, genoemd in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=5&z=2024-10-01&g=2024-10-01), wordt in ieder geval opgeschort tot de dag waarop een in het eerste lid bedoelde omstandigheid zich niet langer voordoet en de aanvrager heeft verzocht de aanvraag verder in behandeling te nemen.
 
 ##### Artikel 7. Weigering
 
 1. Onze Minister weigert de inschrijving in het register, indien:
 
-- a. gelet op de voornemens van de aanvrager en de antecedenten van de aanvrager en, voor zover van toepassing, de bestuurders, naar redelijke verwachting niet zal worden voldaan aan een bij of krachtens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=11&z=2024-04-01&g=2024-04-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=12&z=2024-04-01&g=2024-04-01) of [13](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=13&z=2024-04-01&g=2024-04-01) gestelde regel of overigens niet zal worden gehandeld in overeenstemming met hetgeen van een goede verrichter of aanbieder van buitengerechtelijke incassowerkzaamheden in het maatschappelijk verkeer mag worden verwacht;
+- a. gelet op de voornemens van de aanvrager en de antecedenten van de aanvrager en, voor zover van toepassing, de bestuurders, naar redelijke verwachting niet zal worden voldaan aan een bij of krachtens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=11&z=2024-10-01&g=2024-10-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=12&z=2024-10-01&g=2024-10-01) of [13](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=13&z=2024-10-01&g=2024-10-01) gestelde regel of overigens niet zal worden gehandeld in overeenstemming met hetgeen van een goede verrichter of aanbieder van buitengerechtelijke incassowerkzaamheden in het maatschappelijk verkeer mag worden verwacht;
 
 - b. de aanvrager of een bestuurder ingevolge een onherroepelijke rechterlijke uitspraak onder curatele is gesteld, in staat van faillissement is verklaard, ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, hij surseance van betaling heeft verkregen, dan wel wegens schulden is gegijzeld;
 
@@ -179,7 +179,7 @@ Deze wet heeft uitsluitend betrekking op buitengerechtelijke incassowerkzaamhede
 
 - e. de aanvrager of een bestuurder ingevolge een onherroepelijke rechterlijke uitspraak is ontzet van het recht om buitengerechtelijke incassowerkzaamheden te verrichten of aan te bieden op grond van [artikel 28, eerste lid, onderdeel 5°, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=28) of [artikel 7, onderdeel a, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=7);
 
-- f. de registratie van de aanvrager of van een verrichter of aanbieder van buitengerechtelijke incassowerkzaamheden waarbij de aanvrager of een bestuurder van de aanvrager is betrokken, binnen de laatste vijf jaar, terug te rekenen vanaf de datum van de aanvraag tot inschrijving in het register, onherroepelijk is doorgehaald op grond van [artikel 10, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=10&z=2024-04-01&g=2024-04-01), of [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=17&z=2024-04-01&g=2024-04-01), tenzij naar oordeel van Onze Minister aannemelijk is gemaakt dat de aanvrager of bestuurder ter zake geen verwijt treft.
+- f. de registratie van de aanvrager of van een verrichter of aanbieder van buitengerechtelijke incassowerkzaamheden waarbij de aanvrager of een bestuurder van de aanvrager is betrokken, binnen de laatste vijf jaar, terug te rekenen vanaf de datum van de aanvraag tot inschrijving in het register, onherroepelijk is doorgehaald op grond van [artikel 10, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=10&z=2024-10-01&g=2024-10-01), of [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=17&z=2024-10-01&g=2024-10-01), tenzij naar oordeel van Onze Minister aannemelijk is gemaakt dat de aanvrager of bestuurder ter zake geen verwijt treft.
 
 2. Het eerste lid, onderdeel a, is niet van toepassing, indien de aanvrager is ingeschreven in een register of aan de aanvrager een vergunning is afgegeven in een andere lidstaat van de Europese Unie dan wel een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, en die een beschermingsniveau biedt dat ten minste gelijkwaardig is aan het niveau dat met de bij en krachtens deze wet gestelde regels wordt nagestreefd.
 
@@ -189,11 +189,11 @@ Deze wet heeft uitsluitend betrekking op buitengerechtelijke incassowerkzaamhede
 
 - a. ter toevoeging of verwijdering van een naam waaronder buitengerechtelijke incassowerkzaamheden worden verricht of aangeboden;
 
-- b. met betrekking tot contactgegevens als bedoeld in [artikel 3, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=3&z=2024-04-01&g=2024-04-01);
+- b. met betrekking tot contactgegevens als bedoeld in [artikel 3, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=3&z=2024-10-01&g=2024-10-01);
 
 - c. ter toevoeging of verwijdering van een bestuurder.
 
-2. [Artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=5&z=2024-04-01&g=2024-04-01) is van overeenkomstige toepassing. De [artikelen 6, eerste lid, aanhef en onderdelen a tot en met c, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=6&z=2024-04-01&g=2024-04-01), en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=7&z=2024-04-01&g=2024-04-01) zijn daarnaast van overeenkomstige toepassing, indien de aanvraag een registratie te wijzigen, een toevoeging betreft als bedoeld in het eerste lid, onderdeel a of c.
+2. [Artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=5&z=2024-10-01&g=2024-10-01) is van overeenkomstige toepassing. De [artikelen 6, eerste lid, aanhef en onderdelen a tot en met c, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=6&z=2024-10-01&g=2024-10-01), en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=7&z=2024-10-01&g=2024-10-01) zijn daarnaast van overeenkomstige toepassing, indien de aanvraag een registratie te wijzigen, een toevoeging betreft als bedoeld in het eerste lid, onderdeel a of c.
 
 ##### Artikel 9. Schorsing
 
@@ -217,11 +217,11 @@ Deze wet heeft uitsluitend betrekking op buitengerechtelijke incassowerkzaamhede
 
 - a. niet is voldaan aan een vordering als bedoeld in [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20);
 
-- b. hij zijn voornemen kenbaar heeft gemaakt een registratie door te halen krachtens [artikel 10, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=10&z=2024-04-01&g=2024-04-01), en dat voornemen niet is ingetrokken of heeft geleid tot een besluit;
+- b. hij zijn voornemen kenbaar heeft gemaakt een registratie door te halen krachtens [artikel 10, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=10&z=2024-10-01&g=2024-10-01), en dat voornemen niet is ingetrokken of heeft geleid tot een besluit;
 
-- c. hij zijn voornemen kenbaar heeft gemaakt een registratie door te halen krachtens [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=17&z=2024-04-01&g=2024-04-01) en dat voornemen niet is ingetrokken of heeft geleid tot een besluit.
+- c. hij zijn voornemen kenbaar heeft gemaakt een registratie door te halen krachtens [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=17&z=2024-10-01&g=2024-10-01) en dat voornemen niet is ingetrokken of heeft geleid tot een besluit.
 
-4. Onze Minister kan de schorsing van de registratie opheffen op aanvraag van de verrichter of aanbieder van buitengerechtelijke incassowerkzaamheden. [Artikel 5, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=5&z=2024-04-01&g=2024-04-01), is van overeenkomstige toepassing.
+4. Onze Minister kan de schorsing van de registratie opheffen op aanvraag van de verrichter of aanbieder van buitengerechtelijke incassowerkzaamheden. [Artikel 5, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=5&z=2024-10-01&g=2024-10-01), is van overeenkomstige toepassing.
 
 ##### Artikel 10. Doorhaling
 
@@ -233,7 +233,7 @@ Deze wet heeft uitsluitend betrekking op buitengerechtelijke incassowerkzaamhede
 
 - c. de gegevens of bescheiden die zijn verstrekt voor de inschrijving in het register of de wijziging van een registratie naar zijn oordeel zodanig onjuist of onvolledig blijken, dat op de aanvraag een andere beslissing zou zijn genomen, als bij de beoordeling daarvan de juiste gegevens of bescheiden volledig bekend waren geweest.
 
-2. In het geval, bedoeld in het eerste lid, onderdeel a, is [Artikel 5, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=5&z=2024-04-01&g=2024-04-01), van overeenkomstige toepassing.
+2. In het geval, bedoeld in het eerste lid, onderdeel a, is [Artikel 5, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=5&z=2024-10-01&g=2024-10-01), van overeenkomstige toepassing.
 
 ### Hoofdstuk 3. Uitvoering van de buitengerechtelijke incassowerkzaamheden en het personeel
 
@@ -243,11 +243,11 @@ Deze wet heeft uitsluitend betrekking op buitengerechtelijke incassowerkzaamhede
 
 - a. onder een naam en met vermelding van het registratiekenmerk die staan vermeld in het register;
 
-- b. onder een naam waarmee een persoon als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=4&z=2024-04-01&g=2024-04-01), staat ingeschreven in het gerechtsdeurwaardersregister, onderscheidenlijk op het tableau of, voor zover het een advocaat als bedoeld in [artikel 16b van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=16b) betreft, met een vermelding als bedoeld in [artikel 16c van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=16c).
+- b. onder een naam waarmee een persoon als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=4&z=2024-10-01&g=2024-10-01), staat ingeschreven in het gerechtsdeurwaardersregister, onderscheidenlijk op het tableau of, voor zover het een advocaat als bedoeld in [artikel 16b van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=16b) betreft, met een vermelding als bedoeld in [artikel 16c van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=16c).
 
 2. Buitengerechtelijke incassowerkzaamheden worden slechts verricht of aangeboden, indien:
 
-- a. de contactgegevens die krachtens [artikel 3, tweede lid, aanhef en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=3&z=2024-04-01&g=2024-04-01), zijn opgenomen in het register, in overeenstemming zijn met de feitelijke situatie;
+- a. de contactgegevens die krachtens [artikel 3, tweede lid, aanhef en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=3&z=2024-10-01&g=2024-10-01), zijn opgenomen in het register, in overeenstemming zijn met de feitelijke situatie;
 
 - b. de plaats van vestiging die is opgenomen in het gerechtsdeurwaardersregister, onderscheidenlijk de contactgegevens die zijn verwerkt op het tableau, in overeenstemming zijn met de feitelijke situatie.
 
@@ -281,19 +281,19 @@ Deze wet heeft uitsluitend betrekking op buitengerechtelijke incassowerkzaamhede
 
 2. In afwijking van het eerste lid:
 
-- a. zijn de personen, bedoeld in [artikel 30a van de Gerechtsdeurwaarderswet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=30a), belast met het toezicht op de naleving van de bij of krachtens deze wet gestelde regels, indien een persoon als bedoeld in [artikel 4, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=4&z=2024-04-01&g=2024-04-01), van deze wet buitengerechtelijke incassowerkzaamheden verricht of aanbiedt;
+- a. zijn de personen, bedoeld in [artikel 30a van de Gerechtsdeurwaarderswet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=30a), belast met het toezicht op de naleving van de bij of krachtens deze wet gestelde regels, indien een persoon als bedoeld in [artikel 4, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=4&z=2024-10-01&g=2024-10-01), van deze wet buitengerechtelijke incassowerkzaamheden verricht of aanbiedt;
 
-- b. is de deken belast met het toezicht op de naleving van de bij of krachtens deze wet gestelde regels, indien een persoon als bedoeld in [artikel 4, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=4&z=2024-04-01&g=2024-04-01), buitengerechtelijke incassowerkzaamheden verricht of aanbiedt.
+- b. is de deken belast met het toezicht op de naleving van de bij of krachtens deze wet gestelde regels, indien een persoon als bedoeld in [artikel 4, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=4&z=2024-10-01&g=2024-10-01), buitengerechtelijke incassowerkzaamheden verricht of aanbiedt.
 
 3. [Artikel 45a, tweede lid, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=45a) is van overeenkomstige toepassing op het toezicht op de naleving door de deken, bedoeld in het tweede lid, onderdeel b.
 
 ##### Artikel 15. Last onder dwangsom
 
-1. Onze Minister is bevoegd tot oplegging van een last onder dwangsom ter handhaving van het bepaalde bij of krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=4&z=2024-04-01&g=2024-04-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=11&z=2024-04-01&g=2024-04-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=12&z=2024-04-01&g=2024-04-01) of [13](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=13&z=2024-04-01&g=2024-04-01).
+1. Onze Minister is bevoegd tot oplegging van een last onder dwangsom ter handhaving van het bepaalde bij of krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=4&z=2024-10-01&g=2024-10-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=11&z=2024-10-01&g=2024-10-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=12&z=2024-10-01&g=2024-10-01) of [13](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=13&z=2024-10-01&g=2024-10-01).
 
 2. In afwijking van het eerste lid:
 
-- a. is het Bureau Financieel Toezicht bevoegd ten aanzien van een persoon als bedoeld in [artikel 4, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=4&z=2024-04-01&g=2024-04-01), die buitengerechtelijke incassowerkzaamheden verricht of aanbiedt;
+- a. is het Bureau Financieel Toezicht bevoegd ten aanzien van een persoon als bedoeld in [artikel 4, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=4&z=2024-10-01&g=2024-10-01), die buitengerechtelijke incassowerkzaamheden verricht of aanbiedt;
 
 - b. is de deken bevoegd ten aanzien van een persoon als bedoeld in artikel 4, tweede lid, onderdeel b, die buitengerechtelijke incassowerkzaamheden verricht of aanbiedt.
 
@@ -301,17 +301,17 @@ Deze wet heeft uitsluitend betrekking op buitengerechtelijke incassowerkzaamhede
 
 1. Onze Minister kan aan de overtreder een bestuurlijke boete opleggen in geval van overtreding van:
 
-- a. het bepaalde bij of krachtens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=11&z=2024-04-01&g=2024-04-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=12&z=2024-04-01&g=2024-04-01) of [13](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=13&z=2024-04-01&g=2024-04-01);
+- a. het bepaalde bij of krachtens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=11&z=2024-10-01&g=2024-10-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=12&z=2024-10-01&g=2024-10-01) of [13](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=13&z=2024-10-01&g=2024-10-01);
 
 - b. [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20).
 
-2. [Artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=15&z=2024-04-01&g=2024-04-01), is van overeenkomstige toepassing.
+2. [Artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=15&z=2024-10-01&g=2024-10-01), is van overeenkomstige toepassing.
 
 3. De bestuurlijke boete bedraagt:
 
-- a. in geval van overtreding van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=11&z=2024-04-01&g=2024-04-01), ten hoogste het bedrag dat is vastgesteld voor de eerste categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23);
+- a. in geval van overtreding van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=11&z=2024-10-01&g=2024-10-01), ten hoogste het bedrag dat is vastgesteld voor de eerste categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23);
 
-- b. in geval van overtreding van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=12&z=2024-04-01&g=2024-04-01), ten hoogste het bedrag dat is vastgesteld voor de tweede categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23);
+- b. in geval van overtreding van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=12&z=2024-10-01&g=2024-10-01), ten hoogste het bedrag dat is vastgesteld voor de tweede categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23);
 
 - c. in geval van overtreding van het bepaalde krachtens artikel 13, ten hoogste het bedrag dat is vastgesteld voor de derde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23);
 
@@ -331,7 +331,7 @@ Deze wet heeft uitsluitend betrekking op buitengerechtelijke incassowerkzaamhede
 
 Onze Minister haalt een registratie door, indien:
 
-- a. de verrichter of aanbieder van buitengerechtelijke incassowerkzaamheden naar het oordeel van Onze Minister in ernstige mate niet voldoet aan de bij of krachtens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=11&z=2024-04-01&g=2024-04-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=12&z=2024-04-01&g=2024-04-01) of [13](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=13&z=2024-04-01&g=2024-04-01) gestelde regels;
+- a. de verrichter of aanbieder van buitengerechtelijke incassowerkzaamheden naar het oordeel van Onze Minister in ernstige mate niet voldoet aan de bij of krachtens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=11&z=2024-10-01&g=2024-10-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=12&z=2024-10-01&g=2024-10-01) of [13](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=13&z=2024-10-01&g=2024-10-01) gestelde regels;
 
 - b. zich bij het verrichten of aanbieden van buitengerechtelijke incassowerkzaamheden feiten hebben voorgedaan waardoor naar het oordeel van Onze Minister in ernstige mate niet is gehandeld in overeenstemming met hetgeen van een goede verrichter of aanbieder van buitengerechtelijke incassowerkzaamheden in het maatschappelijk verkeer mag worden verwacht.
 
@@ -343,15 +343,15 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 19. Relatie tussen verschillende toezichthouders
 
-1. Indien een toezichthouder als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=14&z=2024-04-01&g=2024-04-01) in de uitoefening van zijn bediening kennis krijgt van een gedraging die een overtreding is van het bepaalde bij of krachtens de [Wet handhaving consumentenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0020586) of de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368), brengt hij dit onverwijld onder de aandacht van de Autoriteit Consument en Markt, onderscheidenlijk een krachtens besluit van de Stichting Autoriteit Financiële Markten met toezicht belaste persoon.
+1. Indien een toezichthouder als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=14&z=2024-10-01&g=2024-10-01) in de uitoefening van zijn bediening kennis krijgt van een gedraging die een overtreding is van het bepaalde bij of krachtens de [Wet handhaving consumentenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0020586) of de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368), brengt hij dit onverwijld onder de aandacht van de Autoriteit Consument en Markt, onderscheidenlijk een krachtens besluit van de Stichting Autoriteit Financiële Markten met toezicht belaste persoon.
 
 2. Indien de Autoriteit Consument en Markt of een krachtens besluit van de Stichting Autoriteit Financiële Markten met toezicht belaste persoon in de uitoefening van zijn bediening kennis krijgt van een gedraging die een overtreding is van het bepaalde bij of krachtens deze wet, brengt hij dit onverwijld onder de aandacht van:
 
-- a. een ambtenaar als bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=14&z=2024-04-01&g=2024-04-01);
+- a. een ambtenaar als bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=14&z=2024-10-01&g=2024-10-01);
 
-- b. een persoon als bedoeld in [artikel 30a van de Gerechtsdeurwaarderswet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=30a), indien de overtreding is begaan door een persoon als bedoeld in [artikel 4, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=4&z=2024-04-01&g=2024-04-01);
+- b. een persoon als bedoeld in [artikel 30a van de Gerechtsdeurwaarderswet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=30a), indien de overtreding is begaan door een persoon als bedoeld in [artikel 4, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=4&z=2024-10-01&g=2024-10-01);
 
-- c. de deken, indien de overtreding is begaan door een persoon als bedoeld in [artikel 4, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=4&z=2024-04-01&g=2024-04-01).
+- c. de deken, indien de overtreding is begaan door een persoon als bedoeld in [artikel 4, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=4&z=2024-10-01&g=2024-10-01).
 
 3. Onze Minister, het Bureau Financieel Toezicht, de deken, de Autoriteit Consument en Markt en de Stichting Autoriteit Financiële Markten maken afspraken die worden vastgelegd in een samenwerkingsprotocol en die in ieder geval betrekking hebben op effectief en doelmatig toezicht op de naleving door verrichters en aanbieders van buitengerechtelijke incassowerkzaamheden van de bij of krachtens de onderscheiden wetten gestelde regels en de effectieve en doelmatige handhaving daarvan.
 
@@ -359,7 +359,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 5. Er kunnen ten behoeve van een goede vervulling van hun bij of krachtens de wet gegeven taak wederzijds gegevens of inlichtingen worden verstrekt, die ten aanzien van een verrichter of aanbieder van buitengerechtelijke incassowerkzaamheden zijn verkregen:
 
-- a. bij de uitvoering van een bij of krachtens deze wet gegeven taak, door een toezichthouder als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=14&z=2024-04-01&g=2024-04-01) of door Onze Minister;
+- a. bij de uitvoering van een bij of krachtens deze wet gegeven taak, door een toezichthouder als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=14&z=2024-10-01&g=2024-10-01) of door Onze Minister;
 
 - b. bij de uitvoering van een bij of krachtens de [Wet handhaving consumentenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0020586) gegeven taak, door de Autoriteit Consument en Markt, de Stichting Autoriteit Financiële Markten of een krachtens haar besluit met toezicht belaste persoon;
 
@@ -381,9 +381,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 1. De kosten die samenhangen met de uitvoering van deze wet, worden door Onze Minister tegen een door hem vastgesteld tarief ten laste gebracht van:
 
-- a. de in het register ingeschreven verrichters en aanbieders van buitengerechtelijke incassowerkzaamheden, voor zover het de uitvoering betreft van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=3&z=2024-04-01&g=2024-04-01), [8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=8&z=2024-04-01&g=2024-04-01), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=14&z=2024-04-01&g=2024-04-01), [15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=15&z=2024-04-01&g=2024-04-01), [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=16&z=2024-04-01&g=2024-04-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=17&z=2024-04-01&g=2024-04-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=5&artikel=19&z=2024-04-01&g=2024-04-01);
+- a. de in het register ingeschreven verrichters en aanbieders van buitengerechtelijke incassowerkzaamheden, voor zover het de uitvoering betreft van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=3&z=2024-10-01&g=2024-10-01), [8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=8&z=2024-10-01&g=2024-10-01), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=14&z=2024-10-01&g=2024-10-01), [15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=15&z=2024-10-01&g=2024-10-01), [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=16&z=2024-10-01&g=2024-10-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=17&z=2024-10-01&g=2024-10-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=5&artikel=19&z=2024-10-01&g=2024-10-01);
 
-- b. de verrichter of aanbieder van buitengerechtelijke incassowerkzaamheden die de aanvraag doet, voor zover het de uitvoering betreft van de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=5&z=2024-04-01&g=2024-04-01).
+- b. de verrichter of aanbieder van buitengerechtelijke incassowerkzaamheden die de aanvraag doet, voor zover het de uitvoering betreft van de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=5&z=2024-10-01&g=2024-10-01).
 
 2. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de hoogte van het tarief en de heffing.
 
@@ -392,8 +392,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel 21. [Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289) (cumulatie incassokosten)
 
 Wijzigt Burgerlijk Wetboek Boek 6.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 22. [Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093)
 
@@ -423,9 +421,9 @@ Wijzigt deze wet.
 
 ##### Artikel 28. Overgangsrecht registratie
 
-1. De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=4&z=2024-04-01&g=2024-04-01), [11, eerste lid, aanhef en onderdeel a, en tweede lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=11&z=2024-04-01&g=2024-04-01), en [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=12&z=2024-04-01&g=2024-04-01), zijn gedurende een jaar na inwerkingtreding van deze wet niet van toepassing op degene die voor het tijdstip van inwerkingtreding van deze wet buitengerechtelijke incassowerkzaamheden verrichtte of aanbood en sindsdien onafgebroken heeft voortgezet. Indien binnen deze periode een aanvraag als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=5&z=2024-04-01&g=2024-04-01) is gedaan, geldt de vorige zin tot het tijdstip waarop op de aanvraag is beslist.
+1. De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=4&z=2024-10-01&g=2024-10-01), [11, eerste lid, aanhef en onderdeel a, en tweede lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=11&z=2024-10-01&g=2024-10-01), en [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=3&artikel=12&z=2024-10-01&g=2024-10-01), zijn gedurende een jaar na inwerkingtreding van deze wet niet van toepassing op degene die voor het tijdstip van inwerkingtreding van deze wet buitengerechtelijke incassowerkzaamheden verrichtte of aanbood en sindsdien onafgebroken heeft voortgezet. Indien binnen deze periode een aanvraag als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=5&z=2024-10-01&g=2024-10-01) is gedaan, geldt de vorige zin tot het tijdstip waarop op de aanvraag is beslist.
 
-2. Indien gedurende de periode, genoemd in het eerste lid, eerste zin, een beslissing op een aanvraag als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=5&z=2024-04-01&g=2024-04-01) niet binnen de termijn, genoemd in artikel 5, derde lid, eerste zin, kan worden gegeven, deelt Onze Minister dit binnen deze termijn aan de aanvrager mede en noemt Onze Minister een termijn van ten hoogste dertien weken waarbinnen Onze Minister beslist.
+2. Indien gedurende de periode, genoemd in het eerste lid, eerste zin, een beslissing op een aanvraag als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&hoofdstuk=2&artikel=5&z=2024-10-01&g=2024-10-01) niet binnen de termijn, genoemd in artikel 5, derde lid, eerste zin, kan worden gegeven, deelt Onze Minister dit binnen deze termijn aan de aanvrager mede en noemt Onze Minister een termijn van ten hoogste dertien weken waarbinnen Onze Minister beslist.
 
 ##### Artikel 29. Evaluatie
 
