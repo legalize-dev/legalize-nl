@@ -4,7 +4,7 @@ identifier: "BWBR0046589"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2024-01-01"
+last_updated: "2024-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046589"
 soort: "ministeriele-regeling"
@@ -150,7 +150,11 @@ De Minister kan, overeenkomstig het bepaalde bij deze regeling, aan een aanvrage
 
 - b. voor het jaar 2023 € 57.400.000;
 
-- c. voor het jaar 2024 € 45.000.000.
+- c. voor het jaar 2024:
+
+- i. € 45.000.000 voor aanvragen gedaan in de periode bedoeld in [artikel 2.2, tweede lid, onderdeel c, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=2&artikel=2.2&z=2024-10-01&g=2024-10-01),
+
+- ii. € 22.228.000 voor aanvragen gedaan in de periode bedoeld in [artikel 2.2, tweede lid, onderdeel c, onder ii](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=2&artikel=2.2&z=2024-10-01&g=2024-10-01).
 
 2. De Minister stelt het subsidieplafond vast voor de jaren na 2024 en geeft hiervan kennis in de Staatscourant voor aanvang van het kalenderjaar waarvoor het betreffende subsidieplafond wordt vastgesteld.
 
@@ -186,7 +190,11 @@ Voor de subsidieverlening moet zijn voldaan aan de volgende voorwaarden:
 
 - b. in 2023 van 4 april 2023, 9.00 uur tot en met 29 december 2023, 12.00 uur;
 
-- c. in 2024 van 26 maart 2024, 9.00 uur tot en met 24 mei 2024, 12.00 uur;
+- c. in 2024:
+
+- i. van 26 maart 2024, 9.00 uur tot en met 24 mei 2024, 12.00 uur;
+
+- ii. van 1 oktober 2024, 9.00 uur tot en met 8 oktober 2024, 12.00 uur;
 
 - d. in 2025 van 28 januari 2025, 9.00 uur tot en met 31 maart 2025, 12.00 uur;
 
@@ -200,7 +208,7 @@ Voor de subsidieverlening moet zijn voldaan aan de volgende voorwaarden:
 
 5. Indien een aanvrager op een werkdag meerdere aanvragen indient, of indien meerdere aanvragers die tot eenzelfde groep behoren op een werkdag een aanvraag indienen, neemt de Minister uitsluitend de eerst ingediende aanvraag in behandeling.
 
-6. Na bekendmaking van het bereiken van het subsidieplafond als bedoeld in [artikel 1.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=1&artikel=1.5&z=2024-01-01&g=2024-01-01), kan in afwijking van het tweede lid, geen aanvraag meer worden ingediend.
+6. Na bekendmaking van het bereiken van het subsidieplafond als bedoeld in [artikel 1.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=1&artikel=1.5&z=2024-10-01&g=2024-10-01), kan in afwijking van het tweede lid, geen aanvraag meer worden ingediend.
 
 ##### Artikel 2.3. Gegevensverstrekking aanvraag subsidieverlening
 
@@ -274,9 +282,9 @@ Na vaststelling van de subsidie vindt de betaling van het resterende subsidiebed
 
 ##### Artikel 2.10. Gewijzigde vaststelling en terugvordering
 
-1. Indien niet is voldaan aan het bepaalde in [artikel 3.2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=3&artikel=3.2&z=2024-01-01&g=2024-01-01), kan de Minister, onverminderd het bepaalde in de [artikelen 4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57), besluiten de vaststelling van de subsidie te wijzigen en het onverschuldigd betaalde deel van de subsidie terug te vorderen.
+1. Indien niet is voldaan aan het bepaalde in [artikel 3.2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=3&artikel=3.2&z=2024-10-01&g=2024-10-01), kan de Minister, onverminderd het bepaalde in de [artikelen 4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57), besluiten de vaststelling van de subsidie te wijzigen en het onverschuldigd betaalde deel van de subsidie terug te vorderen.
 
-2. Het terug te vorderen bedrag wordt bepaald door de subsidie te verminderen met 1/48e van het verstrekte subsidiebedrag vermenigvuldigd met het aantal volledige maanden waarin niet is voldaan aan de verplichting, bedoeld in [artikel 3.2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=3&artikel=3.2&z=2024-01-01&g=2024-01-01).
+2. Het terug te vorderen bedrag wordt bepaald door de subsidie te verminderen met 1/48e van het verstrekte subsidiebedrag vermenigvuldigd met het aantal volledige maanden waarin niet is voldaan aan de verplichting, bedoeld in [artikel 3.2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=3&artikel=3.2&z=2024-10-01&g=2024-10-01).
 
 ### Hoofdstuk 3. Verplichtingen
 
