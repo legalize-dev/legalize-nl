@@ -4,7 +4,7 @@ identifier: "BWBR0033613"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-10-01"
-last_updated: "2022-06-30"
+last_updated: "2024-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033613"
 soort: "ministeriele-regeling"
@@ -48,17 +48,25 @@ Treedt in werking op het tijdstip waarop het Besluit werving, reclame en verslav
 
 In deze regeling wordt verstaan onder:
 
-- a. **aanvullende cursus:** cursus als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&hoofdstuk=3&paragraaf=1&artikel=9&z=2022-06-30&g=2022-06-30);
+- **aanmelding:** aanmelding als bedoeld in [artikel 1.1 van het Besluit kansspelen op afstand](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=1.1);
 
-- b. **basiscursus:** cursus als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&hoofdstuk=3&paragraaf=1&artikel=8&z=2022-06-30&g=2022-06-30);
+- **aanvullende cursus:** cursus als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&hoofdstuk=3&paragraaf=1&artikel=9&z=2024-10-01&g=2024-10-01);
 
-- c. **besluit:** het [Besluit werving, reclame en verslavingspreventie kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0033412);
+- **afmelding:** beëindiging van de aanmelding;
 
-- d. **jongvolwassenen:** jongvolwassenen als bedoeld in [artikel 2, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=2);
+- **basiscursus:** cursus als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&hoofdstuk=3&paragraaf=1&artikel=8&z=2024-10-01&g=2024-10-01);
 
-- e. **sponsoring:** verstrekken van financiële of andere bijdragen als tegenprestatie voor het neutraal vermelden of vertonen van de naam, merk, beeldmerk of enig ander onderscheidend teken van de vergunninghouder;
+- **besluit:** het [Besluit werving, reclame en verslavingspreventie kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0033412);
 
-- f. **verslavingspreventiebeleid:** verslavingspreventiebeleid als bedoeld in [artikel 7, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=7).
+- **jongvolwassenen:** jongvolwassenen als bedoeld in [artikel 2, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=2);
+
+- **sponsoring:** verstrekken van financiële of andere bijdragen als tegenprestatie voor het neutraal vermelden of vertonen van de naam, merk, beeldmerk of enig ander onderscheidend teken van de vergunninghouder;
+
+- **stortingslimiet:** grenzen van het speelgedrag van de speler als bedoeld in [artikel 4.14, tweede lid, aanhef en onder b, van het Besluit kansspelen op afstand](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=4.14);
+
+- **verslavingspreventiebeleid:** verslavingspreventiebeleid als bedoeld in [artikel 7, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=7);
+
+- **verslavingspreventie-opgeleid personeel:** personen als bedoeld in [artikel 6, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=6).
 
 #### Paragraaf 2. Wervings- en reclameactiviteiten
 
@@ -80,7 +88,7 @@ In deze regeling wordt verstaan onder:
 
 - e. Het aantal nieuwe inschrijvingen in het recht van verzet-bestand;
 
-- f. Het aantal aanmeldingen aangeleverd aan het Bel-me-niet-register als bedoeld in [artikel 11.7 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11.7);
+- f. Het aantal meldingen aangeleverd aan het Bel-me-niet-register als bedoeld in [artikel 11.7 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11.7);
 
 - g. Het aantal bonussen dat de vergunninghouder heeft uitgekeerd en de totale waarde van deze bonussen uitgedrukt in euro’s.
 
@@ -140,29 +148,31 @@ In deze regeling wordt verstaan onder:
 
 7. De raad van bestuur kan beleidsregels vaststellen met betrekking tot de toepassing van het derde lid.
 
-##### Artikel 5. Verbod op reclame bij informatie inzake verslavingspreventie
+##### Artikel 5. Verbod op reclame, bonussen en andere zaken bij informatie inzake verslavingspreventie en spelersprofiel
 
 1. De houder van een vergunning tot het organiseren van een speelcasino, tot het aanwezig hebben van een of meer kansspelautomaten in een speelautomatenhal of tot het organiseren van kansspelen op afstand draagt er zorg voor dat de informatie en voorzieningen, bedoeld in [artikel 8, eerste en tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=8), geen reclame bevatten.
 
-2. De houder van een vergunning tot het organiseren van kansspelen op afstand draagt er tevens zorg voor dat:
+2. Het is de houder van een vergunning tot het organiseren van kansspelen op afstand niet toegestaan om:
 
-- a. de informatie die de speler ontvangt over de grenzen van zijn speelgedrag als bedoeld in [artikel 4.14, eerste lid, van het Besluit kansspelen op afstand](onbekend) geen reclame bevat;
+- a. de informatie over het spelersprofiel, bedoeld in [artikel 3.23 van de Regeling kansspelen op afstand](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&artikel=3.23); en
 
-- b. de ruimte van de spelersinterface waar de speler de grenzen van zijn speelgedrag kan aangeven of wijzigen geen reclame bevat.
+- b. het gedeelte van de spelersinterface waar het spelersprofiel kan worden ingevuld of gewijzigd;
+
+te voorzien van enige vorm van werving of reclame, waaronder het aanbieden van bonussen, noch op enige andere wijze visueel of auditief vorm te geven dan strikt noodzakelijk is voor het verstrekken van informatie over het spelersprofiel onderscheidenlijk het bieden van de gelegenheid om het spelersprofiel in te vullen of te wijzigen.
 
 ##### Artikel 6. Verbod op bonussen na interventies
 
 1. De houder van een vergunning tot het organiseren van een speelcasino, tot het aanwezig hebben van een of meer kansspelautomaten in een speelautomatenhal of tot het organiseren van kansspelen op afstand biedt de speler geen bonus aan vanaf het moment dat:
 
-- a. hij jegens die speler een interventiemaatregel heeft getroffen als bedoeld in [artikel 18, eerste lid, onder a of b, of tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&hoofdstuk=3&paragraaf=4&artikel=18&z=2022-06-30&g=2022-06-30), tot 30 dagen zijn verstreken na dat moment;
+- a. hij jegens die speler een interventiemaatregel heeft getroffen als bedoeld in [artikel 18, eerste lid, onder a of b, of tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&hoofdstuk=3&paragraaf=4&artikel=18&z=2024-10-01&g=2024-10-01), tot 30 dagen zijn verstreken na dat moment;
 
-- b. hij jegens die speler een interventiemaatregel heeft getroffen als bedoeld in [artikel 18, eerste lid, onder c, of tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&hoofdstuk=3&paragraaf=4&artikel=18&z=2022-06-30&g=2022-06-30), tot 60 dagen zijn verstreken na dat moment;
+- b. hij jegens die speler een interventiemaatregel heeft getroffen als bedoeld in [artikel 18, eerste lid, onder c, of tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&hoofdstuk=3&paragraaf=4&artikel=18&z=2024-10-01&g=2024-10-01), tot 60 dagen zijn verstreken na dat moment;
 
-- c. hij jegens die speler een interventiemaatregel heeft getroffen als bedoeld in [artikel 18, eerste lid, onder d, of tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&hoofdstuk=3&paragraaf=4&artikel=18&z=2022-06-30&g=2022-06-30), tot 60 dagen zijn verstreken na de afloop van de daaruit voortvloeiende toegangsbeperking;
+- c. hij jegens die speler een interventiemaatregel heeft getroffen als bedoeld in [artikel 18, eerste lid, onder d, of tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&hoofdstuk=3&paragraaf=4&artikel=18&z=2024-10-01&g=2024-10-01), tot 60 dagen zijn verstreken na de afloop van de daaruit voortvloeiende toegangsbeperking;
 
-- d. hij jegens die speler een interventiemaatregel heeft getroffen als bedoeld in [artikel 18, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&hoofdstuk=3&paragraaf=4&artikel=18&z=2022-06-30&g=2022-06-30), tot 90 dagen zijn verstreken na dat moment;
+- d. hij jegens die speler een interventiemaatregel heeft getroffen als bedoeld in [artikel 18, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&hoofdstuk=3&paragraaf=4&artikel=18&z=2024-10-01&g=2024-10-01), tot 90 dagen zijn verstreken na dat moment;
 
-- e. hij jegens die speler een interventiemaatregel heeft getroffen als bedoeld in [artikel 18, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&hoofdstuk=3&paragraaf=4&artikel=18&z=2022-06-30&g=2022-06-30), tot 90 dagen zijn verstreken na de afloop van de daaruit voortvloeiende uitsluiting;
+- e. hij jegens die speler een interventiemaatregel heeft getroffen als bedoeld in [artikel 18, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&hoofdstuk=3&paragraaf=4&artikel=18&z=2024-10-01&g=2024-10-01), tot 90 dagen zijn verstreken na de afloop van de daaruit voortvloeiende uitsluiting;
 
 - f. hij die speler tot tijdelijke uitsluiting heeft geadviseerd als bedoeld in [artikel 27ja, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27ja), [30v, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30v), of [31m, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31m), tot twaalf maanden zijn verstreken na dat moment;
 
@@ -180,13 +190,13 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 7. Kennis en inzicht
 
-Vergunninghouders dragen er zorg voor dat personen als bedoeld in [artikel 6, eerste en tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=6) te allen tijde beschikken over kennis en inzicht met betrekking tot de binnen zijn onderneming beschikbare maatregelen en voorzieningen ter voorkoming van kansspelverslaving en de uitvoering daarvan.
+De vergunninghouder draagt er zorg voor dat personen als bedoeld in [artikel 6, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=6) en verslavingspreventie-opgeleid personeel te allen tijde beschikken over kennis en inzicht met betrekking tot de binnen zijn onderneming beschikbare maatregelen en voorzieningen ter voorkoming van kansspelverslaving en de uitvoering daarvan.
 
 #### Paragraaf 4. Slotbepalingen
 
 ##### Artikel 8. Basiscursus verslavingspreventie
 
-1. De houder van een vergunning tot het organiseren van een speelcasino, tot het aanwezig hebben van een of meer kansspelautomaten in een speelautomatenhal, of tot het organiseren van kansspelen op afstand draagt er zorg voor dat personen als bedoeld in [artikel 6, eerste en tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=6) met goed gevolg een basiscursus verslavingspreventie voltooien, voordat zij werkzaamheden verrichten ter exploitatie van de vergunning.
+1. De houder van een vergunning tot het organiseren van een speelcasino, tot het aanwezig hebben van een of meer kansspelautomaten in een speelautomatenhal, of tot het organiseren van kansspelen op afstand draagt er zorg voor dat personen als bedoeld in [artikel 6, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=6) en verslavingspreventie-opgeleid personeel met goed gevolg een basiscursus verslavingspreventie voltooien, voordat zij werkzaamheden verrichten ter exploitatie van de vergunning.
 
 2. De inhoud van de basiscursus is afgestemd op de functie van de persoon binnen de onderneming van de vergunninghouder en diens rol en verantwoordelijkheden in relatie tot het verslavingspreventiebeleid van de vergunninghouder. De cursus bestaat in ieder geval uit de volgende onderdelen:
 
@@ -198,11 +208,11 @@ Vergunninghouders dragen er zorg voor dat personen als bedoeld in [artikel 6, ee
 
 - d. de maatregelen die kunnen worden geboden door verslavingszorg of met zelfhulp.
 
-3. De vergunninghouder draagt er zorg voor dat de personen, bedoeld in het eerste lid, telkens voor het einde van een termijn van drie jaar na deelname aan de vorige basiscursus met goed gevolg deelnemen aan een herhalingscursus.
+3. De vergunninghouder draagt er zorg voor dat de personen als bedoeld in [artikel 6, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=6) en verslavingspreventie-opgeleid personeel, telkens voor het einde van een termijn van drie jaar na deelname aan de vorige basiscursus met goed gevolg deelnemen aan een herhalingscursus.
 
 ##### Artikel 9. Aanvullende cursus verslavingspreventie
 
-1. De houder van een vergunning tot het organiseren van een speelcasino, tot het aanwezig hebben van een of meer kansspelautomaten in een speelautomatenhal, of tot het organiseren van kansspelen op afstand draagt er zorg voor dat personen als bedoeld in [artikel 6, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=6) tevens met goed gevolg een aanvullende cursus verslavingspreventie voltooien.
+1. De houder van een vergunning tot het organiseren van een speelcasino, tot het aanwezig hebben van een of meer kansspelautomaten in een speelautomatenhal, of tot het organiseren van kansspelen op afstand draagt er zorg voor dat verslavingspreventie-opgeleid personeel tevens met goed gevolg een aanvullende cursus verslavingspreventie voltooit.
 
 2. De inhoud van de aanvullende cursus is te allen tijde afgestemd op de functie van de persoon binnen de onderneming van de vergunninghouder en diens rol en verantwoordelijkheden in relatie tot het verslavingspreventiebeleid van de vergunninghouder. De cursus bestaat in ieder geval uit de volgende onderdelen:
 
@@ -224,7 +234,7 @@ Vergunninghouders dragen er zorg voor dat personen als bedoeld in [artikel 6, ee
 
 - i. kennis over wanneer het gepast is om een speler door te geleiden naar verslavingszorg, anonieme hulp of middelen van zelfhulp.
 
-3. De vergunninghouder draagt er zorg voor dat de personen, bedoeld in het eerste lid, telkens voor het einde van een termijn van drie jaar na deelname aan de vorige aanvullende cursus met goed gevolg deelnemen aan een herhalingscursus. Daarbij wordt, voor zover van toepassing, in het bijzonder aandacht besteed aan:
+3. De vergunninghouder draagt er zorg voor dat verslavingspreventie-opgeleid personeel, telkens voor het einde van een termijn van drie jaar na deelname aan de vorige aanvullende cursus met goed gevolg deelneemt aan een herhalingscursus. Daarbij wordt, voor zover van toepassing, in het bijzonder aandacht besteed aan:
 
 - a. de aanpassingen van het verslavingspreventiebeleid van de vergunninghouder;
 
@@ -276,7 +286,7 @@ Het verslavingspreventiebeleid van de houder van een vergunning tot het organise
 
 - d. de verstrekking van de informatie, bedoeld in [artikel 8, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=8);
 
-- e. de samenstelling van de informatie, bedoeld in [artikel 8, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=8), overeenkomstig [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&hoofdstuk=3&paragraaf=3&artikel=16&z=2022-06-30&g=2022-06-30) van deze regeling;
+- e. de samenstelling van de informatie, bedoeld in [artikel 8, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=8), overeenkomstig [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&hoofdstuk=3&paragraaf=3&artikel=16&z=2024-10-01&g=2024-10-01) van deze regeling;
 
 - f. de analyse, bedoeld in de [artikelen 27ja](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27ja), [30v](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30v) en [31m van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31m), en in ieder geval:
 
@@ -294,7 +304,7 @@ Het verslavingspreventiebeleid van de houder van een vergunning tot het organise
 
 - i. de wijze waarop de vergunninghouder voorkomt dat wervings- en reclameactiviteiten gericht zijn op maatschappelijk kwetsbare groepen van personen als bedoeld in [artikel 2, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=2) en jongvolwassenen;
 
-- j. de onderbouwing van de periode waarbinnen de speler geen bonus wordt aangeboden ter uitvoering van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&hoofdstuk=2&artikel=6&z=2022-06-30&g=2022-06-30), van deze regeling.
+- j. de onderbouwing van de periode waarbinnen de speler geen bonus wordt aangeboden ter uitvoering van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&hoofdstuk=2&artikel=6&z=2024-10-01&g=2024-10-01), van deze regeling.
 
 ##### Artikel 13. Kwaliteitsmanagementsysteem verslavingspreventiebeleid
 
@@ -322,7 +332,7 @@ Het verslavingspreventiebeleid van de houder van een vergunning tot het organise
 
 - c. de uitkomsten van de risico-analyse, bedoeld in [artikel 7, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=7), en de maatregelen en voorzieningen die naar aanleiding van die risico-analyse zijn getroffen;
 
-- d. de beoordeling, bedoeld in [artikel 13, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&hoofdstuk=3&paragraaf=2&artikel=13&z=2022-06-30&g=2022-06-30), en de wijzigingen die naar aanleiding van die beoordeling zijn doorgevoerd in het verslavingspreventiebeleid van de vergunninghouder;
+- d. de beoordeling, bedoeld in [artikel 13, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&hoofdstuk=3&paragraaf=2&artikel=13&z=2024-10-01&g=2024-10-01), en de wijzigingen die naar aanleiding van die beoordeling zijn doorgevoerd in het verslavingspreventiebeleid van de vergunninghouder;
 
 - e. andere wijzigingen die zijn doorgevoerd in het verslavingspreventiebeleid.
 
@@ -334,7 +344,13 @@ Het verslavingspreventiebeleid van de houder van een vergunning tot het organise
 
 ##### Artikel 15. Informatie via de spelersinterface
 
-De houder van een vergunning tot het organiseren van kansspelen op afstand bericht de speler in ieder geval op duidelijke wijze middels de spelersinterface over de grenzen van zijn speelgedrag als bedoeld in [artikel 4.14, eerste lid, van het Besluit kansspelen op afstand](onbekend) op het moment waarop de speler zich aanmeldt, zich afmeldt of van spel wisselt.
+De houder van een vergunning tot het organiseren van kansspelen op afstand bericht de speler in ieder geval op duidelijke en begrijpelijke wijze middels de spelersinterface over:
+
+- a. de grenzen van diens speelgedrag, bedoeld in [artikel 4.14, eerste lid, van het Besluit kansspelen op afstand](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=4.14) op het moment van aanmelding en afmelding door de speler, alsmede op het moment waarop hij een spel aanvangt;
+
+- b. het bereiken of overschrijden van 50% van een grens als bedoeld in [artikel 4.14, tweede lid, aanhef en onder a of b, van het Besluit kansspelen op afstand](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=4.14) op het moment waarop daarvan sprake is;
+
+- c. hoeveel tijd is verstreken sinds de aanvang van het eerste spel na zijn aanmelding telkens op het moment dat dertig minuten verstrijken tot het moment van zijn afmelding.
 
 ##### Artikel 16. Informatie over verslavingspreventie
 
@@ -346,7 +362,7 @@ De houder van een vergunning tot het organiseren van kansspelen op afstand beric
 
 ##### Artikel 17. Interne en externe signalen
 
-Als interne of externe signalen, bedoeld in [artikel 13, eerste lid, onder a, van het besluit](onbekend), worden in ieder geval beschouwd:
+1. Als interne of externe signalen, bedoeld in [artikel 13, eerste lid, onder a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=13), worden in ieder geval beschouwd:
 
 - a. hoge of toenemende speelfrequentie;
 
@@ -358,11 +374,29 @@ Als interne of externe signalen, bedoeld in [artikel 13, eerste lid, onder a, va
 
 - e. uitingen van frustratie of ongemak;
 
-- f. afwijkingen in het patroon van speeltijdstippen.
+- f. afwijkingen in het patroon van speeltijdstippen;
+
+- g. instellen of ingesteld hebben van een hoge stortingslimiet.
+
+2. Met betrekking tot jongvolwassenen wordt onder een hoge stortingslimiet als bedoeld in het eerste lid, onder g, verstaan een stortingslimiet met een bedrag dat gelijk is aan of meer is dan:
+
+- a. € 150 per maand;
+
+- b. € 37,50 per week bij het ontbreken van een stortingslimiet per maand;
+
+- c. € 5,35 per dag bij het ontbreken van een stortingslimiet per maand en per week.
+
+3. Met betrekking tot personen in de leeftijdscategorie van 24 jaar of ouder wordt onder een hoge stortingslimiet als bedoeld in het eerste lid, onder g, verstaan een stortingslimiet met een bedrag dat gelijk is aan of meer is dan:
+
+- a. € 350 per maand;
+
+- b. € 87,50 per week bij het ontbreken van een stortingslimiet per maand;
+
+- c. € 12,50 per dag bij het ontbreken van een stortingslimiet per maand en per week.
 
 ##### Artikel 18. Interventiemaatregelen
 
-1. Voor de toepassing van [artikel 18, eerste lid, van het besluit](onbekend) draagt de houder van een vergunning tot het organiseren van een speelcasino, tot het aanwezig hebben van een of meer kansspelautomaten in een speelautomatenhal of tot het organiseren van kansspelen op afstand, er zorg voor dat hij in staat is in ieder geval de volgende interventiemaatregelen toe te passen:
+1. Voor de toepassing van [artikel 18, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=18) draagt de houder van een vergunning tot het organiseren van een speelcasino, tot het aanwezig hebben van een of meer kansspelautomaten in een speelautomatenhal of tot het organiseren van kansspelen op afstand, er zorg voor dat hij in staat is in ieder geval de volgende interventiemaatregelen toe te passen:
 
 - a. de speler middels een gesprek inzicht geven in diens speelgedrag en hem daarbij in het bijzonder wijzen op gesignaleerd onmatig of risicovol speelgedrag;
 
@@ -382,11 +416,13 @@ Als interne of externe signalen, bedoeld in [artikel 13, eerste lid, onder a, va
 
 - b. de speler adviseren om gebruik te maken van de mogelijkheid om zich voor bepaalde duur of gedurende bepaalde tijdstippen uit te sluiten van deelname aan één of meerdere door de vergunninghouder georganiseerde kansspelen of spelsoorten;
 
-- c. de speler zonder diens instemming voor bepaalde duur of gedurende bepaalde tijdstippen uitsluiten van deelname aan één of meerdere door de vergunninghouder georganiseerde kansspelen of spelsoorten.
+- c. de speler zonder diens instemming voor bepaalde duur of gedurende bepaalde tijdstippen uitsluiten van deelname aan één of meerdere door de vergunninghouder georganiseerde kansspelen of spelsoorten;
+
+- d. de aanmelding van de speler zonder diens instemming beëindigen.
 
 ##### Artikel 19. De toepassing van interventiemaatregelen
 
-1. Van een passende interventiemaatregel als bedoeld in [artikel 18, eerste lid, van het besluit](onbekend) is slechts sprake, indien die maatregel ten minste is afgestemd op:
+1. Van een passende interventiemaatregel als bedoeld in [artikel 18, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=18) is slechts sprake, indien die maatregel ten minste is afgestemd op:
 
 - a. de leeftijd van de speler;
 
@@ -398,7 +434,11 @@ Als interne of externe signalen, bedoeld in [artikel 13, eerste lid, onder a, va
 
 2. De vergunninghouder betrekt bij de keuze voor de toepassing van een interventiemaatregel of de gelijktijdige dan wel opeenvolgende toepassing van meerdere interventiemaatregelen de noodzakelijkheid, doelmatigheid en de proportionaliteit daarvan.
 
-3. De houder van een vergunning tot het organiseren van kansspelen op afstand treft de interventiemaatregel, bedoeld in [artikel 18, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&hoofdstuk=3&paragraaf=4&artikel=18&z=2022-06-30&g=2022-06-30), in ieder geval op het moment waarop de speler een grens als bedoeld in [artikel 4.14, tweede lid, onder a of b, van het Besluit kansspelen op afstand](onbekend) bereikt of overschrijdt.
+3. Indien de speler tijdens een kansspel op afstand een grens als bedoeld in [artikel 4.14, tweede lid, aanhef en onder a, van het Besluit kansspelen op afstand](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=4.14) bereikt of overschrijdt, treft de houder van een vergunning tot het organiseren van kansspelen op afstand in ieder geval achtereenvolgens:
+
+- a. de interventiemaatregel, bedoeld in [artikel 18, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&hoofdstuk=3&paragraaf=4&artikel=18&z=2024-10-01&g=2024-10-01), op het moment waarop de speler de grens bereikt of overschrijdt; en
+
+- b. de interventiemaatregel, bedoeld in [artikel 18, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&hoofdstuk=3&paragraaf=4&artikel=18&z=2024-10-01&g=2024-10-01), op het moment van de eerstvolgende mogelijkheid om in te zetten dan wel bij afloop van het kansspel.
 
 4. De vergunninghouder geeft de speler bij de toepassing van iedere interventiemaatregel op duidelijke en begrijpelijke wijze toelichting over de aanleiding daartoe.
 
@@ -470,7 +510,7 @@ De houder van een vergunning tot het organiseren van een speelcasino, tot het aa
 
 ##### Artikel 26. De beveiliging van persoonsgegevens
 
-1. Het informatiebeveiligingssysteem van de houder van een vergunning tot het organiseren van een speelcasino of tot het aanwezig hebben van een of meer kansspelautomaten in een speelautomatenhal, bedoeld in [artikel 20, vijfde lid, van het besluit](onbekend), voldoet ten minste aan de vereisten genoemd in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&bijlage=A&z=2022-06-30&g=2022-06-30) bij deze regeling.
+1. Het informatiebeveiligingssysteem van de houder van een vergunning tot het organiseren van een speelcasino of tot het aanwezig hebben van een of meer kansspelautomaten in een speelautomatenhal, bedoeld in [artikel 20, vijfde lid, van het besluit](onbekend), voldoet ten minste aan de vereisten genoemd in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&bijlage=A&z=2024-10-01&g=2024-10-01) bij deze regeling.
 
 2. De raad van bestuur draagt zorg voor het ontwikkelen, het toepassen en het onderhouden van een informatiebeveiligingssysteem ter zake de verwerking van persoonsgegevens dat voldoet aan het normenkader Baseline Informatiebeveiliging Overheid.
 
@@ -478,13 +518,13 @@ De houder van een vergunning tot het organiseren van een speelcasino, tot het aa
 
 ##### Artikel 27. Grondslag
 
-Deze regeling berust mede op de [artikelen 2a, eerste lid, onder b](onbekend), [3a, derde lid](onbekend), [6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=6), [7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=7), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=10), [11, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=11), [16](onbekend), [18, vierde lid](onbekend), [19, derde lid](onbekend), [20, vijfde en achtste lid](onbekend), [21, derde lid](onbekend), [22, zesde lid](onbekend), [24, derde lid](onbekend), [25, tweede lid, van het besluit](onbekend).
+Deze regeling berust mede op de [artikelen 2a, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=2a), [3a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=3a), [6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=6), [7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=7), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=10), [11, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=11), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=16), [18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=18), [19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=19), [20, vijfde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=20), [21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=21), [22, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=22), [24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=24), [25, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=25) en [artikel 4.24 van het Besluit kansspelen op afstand](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=4.24).
 
 ##### Artikel 28. Citeertitel
 
 Deze Regeling wordt aangehaald als: Regeling werving, reclame en verslavingspreventie kansspelen.
 
-## Bijlage A. behorend bij [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&hoofdstuk=3&paragraaf=7&artikel=26&z=2022-06-30&g=2022-06-30) van de Regeling werving, reclame en verslavingspreventie kansspelen
+## Bijlage A. behorend bij [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&hoofdstuk=3&paragraaf=7&artikel=26&z=2024-10-01&g=2024-10-01) van de Regeling werving, reclame en verslavingspreventie kansspelen
 
 | Beheersaspect | Beheersdoel | Beheer |
 | --- | --- | --- |
