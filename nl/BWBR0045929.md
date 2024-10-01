@@ -4,7 +4,7 @@ identifier: "BWBR0045929"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-10-01"
-last_updated: "2022-10-19"
+last_updated: "2024-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045929"
 soort: "ministeriele-regeling"
@@ -48,29 +48,29 @@ In deze regeling wordt verstaan onder:
 
 - **algemene groepsvrijstellingsverordening:** [Verordening (EU) 651/2014](32014R0651) van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard (PbEU 2014, L 187);
 
-- **bouwkosten:** alle kosten van de investeringen in materiële en immateriële activa die direct raken aan de bouw van de ontmoetingsruimte, waaronder niet wordt verstaan kosten voor aanschaf of gebruik van de bouwgrond van de ontmoetingsruimte, en de kosten voor de arbeid voor constructie van de ontmoetingsruimte, met dien verstande dat, indien sprake is van een aanvrager als bedoeld in [artikel 4, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045929&hoofdstuk=2&artikel=4&z=2022-10-19&g=2022-10-19), de arbeid door een derde wordt verricht tegen marktconforme voorwaarden, blijkend uit een aanbestedingsprocedure of een vergelijk van minstens drie onderhandse offertes aan relevante partijen;
+- **bouwkosten:** alle kosten van de investeringen in materiële en immateriële activa die direct raken aan de bouw van de ontmoetingsruimte, waaronder niet wordt verstaan kosten voor aanschaf of gebruik van de bouwgrond van de ontmoetingsruimte, en de kosten voor de arbeid voor constructie van de ontmoetingsruimte, met dien verstande dat, indien sprake is van een aanvrager als bedoeld in [artikel 4, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045929&hoofdstuk=2&artikel=4&z=2024-10-01&g=2024-10-01), de arbeid door een derde wordt verricht tegen marktconforme voorwaarden, blijkend uit een aanbestedingsprocedure of een vergelijk van minstens drie onderhandse offertes aan relevante partijen;
 
 - **bouwplan:** door één of meer bij de bouw betrokken partijen opgesteld dossier, waarin staat wat er gebouwd zal worden, op welke locatie, welke partijen hierbij betrokken zijn, en wat de planning is voor de bouw, inclusief de aanvangs- en einddatum;
 
 - **exploitatieplan:** : door één of meer eigenaren van de geclusterde woonvorm opgesteld plan waarin staat hoe de exploitatie van de ontmoetingsruimte zal plaatsvinden gedurende de vijf jaren na de opleveringsdatum daarvan, inclusief de wijze waarop een exploitant zal worden gevonden en een overzicht van de verwachte kosten en opbrengsten van exploitatie;
 
-- **geclusterde woonvorm:** vijf of meer woongelegenheden als bedoeld in [artikel 1 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1) gelegen in Nederland, die fysiek verbonden zijn, dan wel zich in elkaars directe nabijheid bevinden, en waarvan:
+- **geclusterde woonvorm:** vijf of meer zelfstandige woningen als bedoeld in [artikel 234 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=234), die fysiek verbonden zijn, dan wel zich in elkaars directe nabijheid bevinden, die gelegen zijn in Nederland en waarvan:
 
-- a. van de huurwoningen bij oplevering van de ontmoetingsruimte minimaal 75% wordt verhuurd tegen een huurprijs van niet meer dan € 1.000 per maand;
+- a. indien sprake is van huurwoningen, minimaal 75% bij de oplevering van de ontmoetingsruimte wordt verhuurd tegen een huurprijs van niet meer dan het bedrag behorende bij een kwaliteit van een woonruimte van 186 punten, bedoeld in [Bijlage I bij de Uitvoeringsregeling huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=I);
 
-- b. bij nieuwbouw van de koopwoningen bij verkoop minimaal 75% een verkoopprijs heeft van maximaal 1,25 maal het bedrag van de Nationale Hypotheek Garantie, bedoeld in [artikel 3, eerste lid, van de Wet bevordering eigenwoningbezit](https://wetten.overheid.nl/jci1.3:c:BWBR0011919&artikel=3); of
+- b. indien sprake is van nieuwbouw, minimaal 75% bij de verkoop een verkoopprijs heeft van maximaal 1,25 maal het bedrag van de Nationale Hypotheek Garantie, bedoeld in [artikel 3, eerste lid, van de Wet bevordering eigenwoningbezit](https://wetten.overheid.nl/jci1.3:c:BWBR0011919&artikel=3); of
 
-- c. bij bestaande bouw van de koopwoningen bij indiening van de aanvraag voor de subsidie minimaal 75% een WOZ-waarde heeft van maximaal 1,25 maal het bedrag van de Nationale Hypotheek Garantie, bedoeld in [artikel 3, eerste lid, van de Wet bevordering eigenwoningbezit](https://wetten.overheid.nl/jci1.3:c:BWBR0011919&artikel=3);
+- c. indien sprake is van bestaande bouw, minimaal 75% bij de indiening van de aanvraag voor de subsidie een WOZ-waarde heeft van maximaal 1,25 maal het bedrag van de Nationale Hypotheek Garantie, bedoeld in [artikel 3, eerste lid, van de Wet bevordering eigenwoningbezit](https://wetten.overheid.nl/jci1.3:c:BWBR0011919&artikel=3);
 
 - **Kaderbesluit:** [Kaderbesluit BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0033530);
 
-- **Minister:** Minister voor Volkshuisvesting en Ruimtelijke Ordening;
+- **Minister:** Minister van Volkshuisvesting en Ruimtelijke Ordening;
 
 - **ontmoetingsruimte:** ruimte die fysiek verbonden is aan een geclusterde woonvorm, dan wel zich op maximaal 100 meter daarvandaan bevindt, die in ieder geval toegankelijk is voor bewoners van die geclusterde woonvorm, die geëxploiteerd wordt door een organisatie die verbonden is met de geclusterde woonvorm, en die primair een sociale functie voor haar bewoners heeft;
 
 - **ouderen:** mensen van 55 jaar en ouder;
 
-- **verkeersruimte:** ruimte als bedoeld in [artikel 1.1, eerste lid, van het Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461&artikel=1.1).
+- **verkeersruimte:** ruimte als bedoeld in [Bijlage I, onder A, van het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=I).
 
 ##### Artikel 2. Doel van de regeling
 
@@ -104,7 +104,7 @@ Een subsidie als bedoeld in deze regeling kan staatssteun bevatten en gerechtvaa
 
 - d. de brutovloeroppervlakte van de ontmoetingsruimte;
 
-- e. het aantal woongelegenheden dat de geclusterde woonruimte vormt;
+- e. het aantal zelfstandige woonruimten dat de geclusterde woonvorm vormt;
 
 - f. een begroting voor de bouwkosten van de ontmoetingsruimte;
 
@@ -126,7 +126,9 @@ Een subsidie als bedoeld in deze regeling kan staatssteun bevatten en gerechtvaa
 
 2. Het subsidieplafond voor 2023 bedraagt € 26.000.000.
 
-3. De Minister verdeelt het beschikbare bedrag op volgorde van binnenkomst van de aanvragen.
+3. Het subsidieplafond behorende bij de aanvraagperiode, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045929&hoofdstuk=2&artikel=6&z=2024-10-01&g=2024-10-01), bedraagt € 23.000.000.
+
+4. De Minister verdeelt het beschikbare bedrag op volgorde van binnenkomst van de aanvragen.
 
 ##### Artikel 6. Aanvraagperiode en wijze van indienen
 
@@ -134,7 +136,9 @@ Een subsidie als bedoeld in deze regeling kan staatssteun bevatten en gerechtvaa
 
 2. De Minister stelt de aanvraagperiode voor 2023 vast en maakt dit bekend in de Staatscourant uiterlijk twee weken voor de aanvang van het tijdvak waarvoor de aanvraagperiode wordt vastgesteld.
 
-3. Een aanvraag voor een subsidie wordt ingediend met gebruikmaking van een digitaal formulier dat door de Minister beschikbaar is gesteld op de website van de Rijksdienst voor Ondernemend Nederland.
+3. In 2024 en 2025 kan een aanvraag voor een subsidie worden ingediend met ingang van 14 oktober 2024 tot en met 19 september 2025.
+
+4. Een aanvraag voor een subsidie wordt ingediend met gebruikmaking van een digitaal formulier dat door de Minister beschikbaar is gesteld op de website van de Rijksdienst voor Ondernemend Nederland.
 
 ##### Artikel 7. Subsidiabele kosten
 
@@ -154,41 +158,49 @@ Een subsidie als bedoeld in deze regeling kan staatssteun bevatten en gerechtvaa
 
 1. De subsidieontvanger is verplicht:
 
-- a. de bouw van de ontmoetingsruimte te voltooien op de wijze beschreven in het bouwplan, bedoeld in [artikel 4, derde lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0045929&hoofdstuk=2&artikel=4&z=2022-10-19&g=2022-10-19);
+- a. de bouw van de ontmoetingsruimte te voltooien op de wijze beschreven in het bouwplan, bedoeld in [artikel 4, derde lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0045929&hoofdstuk=2&artikel=4&z=2024-10-01&g=2024-10-01);
 
-- b. aan te vangen met de bouw van de ontmoetingsruimte binnen drie jaar na de datum van verlening van de subsidie;
+- b. uiterlijk op 30 september 2026:
 
-- c. de bouw van de ontmoetingsruimte te voltooien binnen zeven jaar na de datum van verlening van de subsidie;
+- 1°. de benodigde en onherroepelijke omgevingsvergunning voor de bouw van de ontmoetingsruimte te overleggen; of
 
-- d. de Minister te informeren wanneer de bouw van de ontmoetingsruimte is voltooid, op de in de verleningsbeschikking aangegeven wijze;
+- 2°. indien voor de bouw van de ontmoetingsruimte geen omgevingsvergunning is vereist, een tweezijdig getekende overeenkomst tussen de opdrachtnemer van en opdrachtgever voor de bouw van de ontmoetingsruimte te overleggen;
 
-- e. gedurende de vijf jaren na de datum van oplevering van de ontmoetingsruimte:
+- c. aan te vangen met de bouw van de ontmoetingsruimte binnen drie jaar na de datum van verlening van de subsidie;
 
-- 1°. te borgen dat de ontmoetingsruimte conform het aangeleverde exploitatieplan wordt gebruikt als ontmoetingsruimte voor bewoners van de geclusterde woonvorm en, indien er sprake is van een aanvrager als bedoeld in [artikel 4, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045929&hoofdstuk=2&artikel=4&z=2022-10-19&g=2022-10-19), voor anderen;
+- d. de bouw van de ontmoetingsruimte te voltooien binnen zeven jaar na de datum van verlening van de subsidie;
 
-- 2°. de ontmoetingsruimte op open, transparante en niet-discriminerende basis, als bedoeld in artikel 56, derde lid, van de algemene groepsvrijstellingsverordening, beschikbaar te stellen aan de bewoners van de bijhorende geclusterde woonruimte en, indien er sprake is van een aanvrager als bedoeld in [artikel 4, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045929&hoofdstuk=2&artikel=4&z=2022-10-19&g=2022-10-19), voor anderen;
+- e. de Minister te informeren wanneer de bouw van de ontmoetingsruimte is voltooid, op de in de verleningsbeschikking aangegeven wijze;
+
+- f. gedurende de vijf jaren na de datum van oplevering van de ontmoetingsruimte:
+
+- 1°. te borgen dat de ontmoetingsruimte conform het aangeleverde exploitatieplan wordt gebruikt als ontmoetingsruimte voor bewoners van de geclusterde woonvorm en, indien er sprake is van een aanvrager als bedoeld in [artikel 4, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045929&hoofdstuk=2&artikel=4&z=2024-10-01&g=2024-10-01), voor anderen;
+
+- 2°. de ontmoetingsruimte op open, transparante en niet-discriminerende basis, als bedoeld in artikel 56, derde lid, van de algemene groepsvrijstellingsverordening, beschikbaar te stellen aan de bewoners van de bijhorende geclusterde woonruimte en, indien er sprake is van een aanvrager als bedoeld in [artikel 4, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045929&hoofdstuk=2&artikel=4&z=2024-10-01&g=2024-10-01), voor anderen;
 
 - 3°. de ontmoetingsruimte bij gebruik of verkoop minimaal tegen een marktconforme prijs aan te bieden, als bedoeld in artikel 56, derde lid, van de algemene groepsvrijstellingsverordening;
 
 - 4°. indien er sprake is van verkoop van die ontmoetingsruimte, de Minister te melden tegen welke prijs, aan welke partij en per welke datum deze verkocht wordt, en hoe ook na verkoop voldaan kan blijven worden aan de subsidieverplichtingen; en
 
-- 5°. indien er sprake is van een aanvrager als bedoeld in [artikel 4, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045929&hoofdstuk=2&artikel=4&z=2022-10-19&g=2022-10-19):
+- 5°. indien er sprake is van een aanvrager als bedoeld in [artikel 4, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045929&hoofdstuk=2&artikel=4&z=2024-10-01&g=2024-10-01):
 
 - 1. geen nettowinst te maken op de exploitatie van de ontmoetingsruimte; en
 
 - 2. iedere concessie of iedere andere vorm van toewijzing aan een derde om de ontmoetingsruimte te exploiteren, op open, transparante en niet-discriminerende basis plaats te laten vinden, rekening houdende met de geldende aanbestedingsregels, als bedoeld in artikel 56, vierde lid, van de algemene groepsvrijstellingsverordening, door minstens drie onderhandse offertes aan te vragen aan relevante partijen of de exploitatie aan te besteden; en
 
-- f. indien er sprake is van een aanvrager als bedoeld in [artikel 4, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045929&hoofdstuk=2&artikel=4&z=2022-10-19&g=2022-10-19), de in het kader van de subsidieverlening gevoerde administratie te bewaren tot tien belastingjaren na de datum van de beschikking tot subsidievaststelling.
+- g. indien er sprake is van een aanvrager als bedoeld in [artikel 4, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045929&hoofdstuk=2&artikel=4&z=2024-10-01&g=2024-10-01), de in het kader van de subsidieverlening gevoerde administratie te bewaren tot tien belastingjaren na de datum van de beschikking tot subsidievaststelling.
 
-2. Indien de bouw van de ontmoetingsruimte buiten de schuld van de subsidieontvanger niet mogelijk is binnen de termijnen, genoemd onder b en c, kan de Minister die termijnen op schriftelijk en gemotiveerd verzoek van de subsidieontvanger eenmalig met ten hoogste één jaar verlengen.
+2. Indien de bouw van de ontmoetingsruimte of het overleggen van de onherroepelijke omgevingsvergunning of tweezijdig getekende overeenkomst tussen opdrachtnemer en opdrachtgever voor de bouw van de ontmoetingsruimte buiten de schuld van de subsidieontvanger niet mogelijk is binnen de termijnen, genoemd onder b, c en d, kan de Minister die termijnen op schriftelijk en gemotiveerd verzoek van de subsidieontvanger eenmalig met ten hoogste één jaar verlengen.
 
 ##### Artikel 9. Afwijzingsgronden
 
 1. De Minister wijst de aanvraag voor een subsidie af, indien:
 
-- a. de te bouwen ontmoetingsruimte primair op de buurt gericht is in plaats van op de bewoners van de geclusterde woonvorm; of
+- a. de te bouwen ontmoetingsruimte primair op de buurt gericht is in plaats van op de bewoners van de geclusterde woonvorm;
 
-- b. er sprake is van een onderneming in moeilijkheden als bedoeld in artikel 2, achttiende lid, van de algemene groepsvrijstellingsverordening of een onderneming ten aanzien waarvan een bevel tot terugvordering van steun uitstaat als bedoeld in artikel 1, vierde lid, onder a, van de algemene groepsvrijstellingsverordening.
+- b. er sprake is van een onderneming in moeilijkheden als bedoeld in artikel 2, achttiende lid, van de algemene groepsvrijstellingsverordening of een onderneming ten aanzien waarvan een bevel tot terugvordering van steun uitstaat als bedoeld in artikel 1, vierde lid, onder a, van de algemene groepsvrijstellingsverordening; of
+
+- c. de aanvraag dezelfde inhoud of strekking heeft als een aanvraag die in het verleden heeft geleid tot subsidieverlening op basis van deze regeling, maar die op een later moment door de subsidieontvanger is ingetrokken.
 
 2. De Minister wijst de aanvraag voor een subsidie gedeeltelijk af, indien:
 
@@ -200,9 +212,9 @@ Een subsidie als bedoeld in deze regeling kan staatssteun bevatten en gerechtvaa
 
 1. Op subsidieverleningen op grond van deze regeling is [artikel 18, tweede en derde lid, van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=18) van toepassing.
 
-2. De Minister verstrekt de subsidieontvanger uiterlijk binnen acht weken na ontvangst van een kopie van de benodigde en onherroepelijke omgevingsvergunning voor de bouw van de ontmoetingsruimte een voorschot van 90% van het subsidiebedrag.
+2. De Minister verstrekt de subsidieontvanger uiterlijk binnen acht weken na ontvangst van een kopie van de benodigde en onherroepelijke omgevingsvergunning voor de bouw van de ontmoetingsruimte, maar niet eerder dan januari 2026, een voorschot van 90% van het subsidiebedrag.
 
-3. Indien voor de bouw van de ontmoetingsruimte geen omgevingsvergunning is vereist, verstrekt de Minister uiterlijk binnen acht weken na ontvangst van een kopie van een tweezijdig getekende overeenkomst tussen de opdrachtnemer van en opdrachtgever voor de bouw van de ontmoetingsruimte een voorschot van 90% van het subsidiebedrag.
+3. Indien voor de bouw van de ontmoetingsruimte geen omgevingsvergunning is vereist, verstrekt de Minister uiterlijk binnen acht weken na ontvangst van een kopie van een tweezijdig getekende overeenkomst tussen de opdrachtnemer van en opdrachtgever voor de bouw van de ontmoetingsruimte, maar niet eerder dan januari 2026, een voorschot van 90% van het subsidiebedrag.
 
 4. Indien het voorschot van het subsidiebedrag niet binnen de in het tweede of derde lid bedoelde termijn kan worden verstrekt, kan deze termijn eenmaal met acht weken worden verlengd.
 
@@ -212,7 +224,7 @@ Een subsidie als bedoeld in deze regeling kan staatssteun bevatten en gerechtvaa
 
 - a. uit hoeveel m² de gebouwde ontmoetingsruimte bestaat en uit hoeveel woonruimten de bijbehorende geclusterde woonvorm bestaat;
 
-- b. dat is of zal worden voldaan aan de subsidieverplichtingen uit [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045929&hoofdstuk=2&artikel=8&z=2022-10-19&g=2022-10-19); en
+- b. dat is of zal worden voldaan aan de subsidieverplichtingen uit [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045929&hoofdstuk=2&artikel=8&z=2024-10-01&g=2024-10-01); en
 
 - c. wat de definitieve bouwkosten van de ontmoetingsruimte bedragen.
 
@@ -227,5 +239,11 @@ Deze regeling treedt in werking op 1 januari 2022 en vervalt op 1 januari 2027, 
 ##### Artikel 12. Citeertitel
 
 Deze regeling wordt aangehaald als: Stimuleringsregeling ontmoetingsruimten in ouderenhuisvesting.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 11a. Overgangsrecht
+
+Op reeds verleende subsidies zijn de bepalingen uit deze regeling van toepassing, zoals deze golden op het tijdstip van verlening van de subsidie.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
