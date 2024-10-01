@@ -4,7 +4,7 @@ identifier: "BWBV0006881"
 country: "nl"
 rank: "verdrag"
 publication_date: "2024-10-01"
-last_updated: "2020-09-17"
+last_updated: "2024-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006881"
 soort: "verdrag"
@@ -56,7 +56,7 @@ Zijn het volgende overeengekomen:
 
 - d. „relevante organisatie”: elke organisatie die betrokken is bij de toepassing van dit Verdrag, met inbegrip van onder meer de bevolkingsregisters, belastingautoriteiten, kadasterregisters, kamers van koophandel, politie, gevangeniswezen, immigratiediensten en databases;
 
-- e. „uitkering”: elke ouderdomsuitkering ingevolge de wetgeving zoals omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006881&artikel=2&z=2020-09-17&g=2020-09-17);
+- e. „uitkering”: elke ouderdomsuitkering ingevolge de wetgeving zoals omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006881&artikel=2&z=2024-10-01&g=2024-10-01);
 
 - f. „uitkeringsgerechtigde”: een persoon die een wettelijke ouderdomsuitkering aanvraagt of recht heeft op een wettelijke ouderdomsuitkering;
 
@@ -68,7 +68,7 @@ Zijn het volgende overeengekomen:
 
 1. Dit Verdrag is van toepassing op socialezekerheidswetgeving inzake:
 
-- a. voor Nederland: ouderdomspensioenen en, uitsluitend voor de toepassing van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006881&artikel=7&z=2020-09-17&g=2020-09-17), [9](https://wetten.overheid.nl/jci1.3:c:BWBV0006881&artikel=9&z=2020-09-17&g=2020-09-17) en [13](https://wetten.overheid.nl/jci1.3:c:BWBV0006881&artikel=13&z=2020-09-17&g=2020-09-17), ook sociale bijstand;
+- a. voor Nederland: ouderdomspensioenen en, uitsluitend voor de toepassing van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006881&artikel=7&z=2024-10-01&g=2024-10-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBV0006881&artikel=9&z=2024-10-01&g=2024-10-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBV0006881&artikel=13&z=2024-10-01&g=2024-10-01), ook sociale bijstand;
 
 - b. voor de Republiek Kosovo: wettelijke uitkeringen ingevolge pensioenuitkeringen.
 
@@ -164,7 +164,7 @@ De bevoegde organen van beide verdragsluitende partijen zullen door middel van a
 
 2. Het Verdrag treedt in werking op de eerste dag van de vierde maand na de datum van de laatste kennisgeving.
 
-3. [Het eerste lid van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006881&artikel=4&z=2020-09-17&g=2020-09-17) van dit Verdrag treedt met terugwerkende kracht in werking vanaf 1 januari 2020.
+3. [Het eerste lid van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006881&artikel=4&z=2024-10-01&g=2024-10-01) van dit Verdrag treedt met terugwerkende kracht in werking vanaf 1 januari 2020.
 
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed this Agreement.
 
