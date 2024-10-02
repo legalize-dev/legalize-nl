@@ -4,7 +4,7 @@ identifier: "BWBR0047833"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-10-02"
-last_updated: "2023-11-01"
+last_updated: "2024-10-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047833"
 soort: "ministeriele-regeling"
@@ -112,7 +112,7 @@ De kandidaat ambtenaar in opleiding of de kandidaat vrijwillige ambtenaar in opl
 
 5. De kosten van het geschiktheidsonderzoek komen ten laste van het bevoegd gezag.
 
-6. De kosten van een herbeoordeling als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0047833&hoofdstuk=5&artikel=14&z=2023-11-01&g=2023-11-01), een herkansing als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0047833&hoofdstuk=5&artikel=15&z=2023-11-01&g=2023-11-01) of een herkeuring als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0047833&hoofdstuk=5&artikel=16&z=2023-11-01&g=2023-11-01) komen ten laste van het bevoegd gezag, met uitzondering van de reiskosten.
+6. De kosten van een herbeoordeling als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0047833&hoofdstuk=5&artikel=14&z=2024-10-02&g=2024-10-02), een herkansing als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0047833&hoofdstuk=5&artikel=15&z=2024-10-02&g=2024-10-02) of een herkeuring als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0047833&hoofdstuk=5&artikel=16&z=2024-10-02&g=2024-10-02) komen ten laste van het bevoegd gezag, met uitzondering van de reiskosten.
 
 ### Hoofdstuk 2. Mentale geschiktheid
 
@@ -124,7 +124,7 @@ De kandidaat ambtenaar in opleiding of de kandidaat vrijwillige ambtenaar in opl
 
 3. Indien de kandidaat aspirant en de kandidaat vrijwilliger-aspirant tenminste een diploma heeft dat toegang geeft tot een politieopleiding op het kwalificatieniveau NLQF 5, NLQF 6 of NLQF 7 wordt de taalvaardigheid zonder meer als voldoende beoordeeld, tenzij het een buitenlands diploma betreft.
 
-4. Indien de kandidaat ambtenaar in opleiding of de kandidaat vrijwillige ambtenaar in opleiding na het voltooien van de politieopleiding wordt geplaatst in een functie waarvoor een hbo of wo werk- en denkniveau geldt wordt de taalvaardigheid zonder meer als voldoende beoordeeld, tenzij het werk- en denkniveau van de kandidaat, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047833&hoofdstuk=1&artikel=5&z=2023-11-01&g=2023-11-01), enkel berust op een buitenlands diploma.
+4. Indien de kandidaat ambtenaar in opleiding of de kandidaat vrijwillige ambtenaar in opleiding na het voltooien van de politieopleiding wordt geplaatst in een functie waarvoor een hbo of wo werk- en denkniveau geldt wordt de taalvaardigheid zonder meer als voldoende beoordeeld, tenzij het werk- en denkniveau van de kandidaat, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047833&hoofdstuk=1&artikel=5&z=2024-10-02&g=2024-10-02), enkel berust op een buitenlands diploma.
 
 5. In andere gevallen wordt de taalvaardigheid beoordeeld aan de hand van een Nederlandse taaltoets, waarbij de kandidaat aan taalvaardigheidsniveau B1 dient te voldoen.
 
@@ -160,7 +160,7 @@ De kandidaat ambtenaar in opleiding of de kandidaat vrijwillige ambtenaar in opl
 
 - c. een praktijksimulatie.
 
-4. De psycholoog maakt een afweging van de scores op de drie genoemde onderdelen en vormt zich een eindoordeel over de kandidaat, uitgedrukt in scores op de voor de functie en opleidingsniveau relevante competenties, opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047833&bijlage=1&z=2023-11-01&g=2023-11-01).
+4. De psycholoog maakt een afweging van de scores op de drie genoemde onderdelen en vormt zich een eindoordeel over de kandidaat, uitgedrukt in scores op de voor de functie en opleidingsniveau relevante competenties, opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047833&bijlage=1&z=2024-10-02&g=2024-10-02).
 
 5. De competenties worden beoordeeld op een 5-puntsschaal.
 
@@ -176,7 +176,7 @@ De kandidaat ambtenaar in opleiding of de kandidaat vrijwillige ambtenaar in opl
 
 - a. de vereiste minimale somscores, genoemd in het zesde lid, niet worden behaald;
 
-- b. de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047833&bijlage=1&z=2023-11-01&g=2023-11-01) genoemde minimale score per competentie niet wordt behaald.
+- b. de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047833&bijlage=1&z=2024-10-02&g=2024-10-02) genoemde minimale score per competentie niet wordt behaald.
 
 8. De kandidaat ambtenaar in opleiding en de kandidaat vrijwillige ambtenaar wordt enkel op de competentie stressbestendigheid getoetst.
 
@@ -196,13 +196,13 @@ De kandidaat ambtenaar in opleiding of de kandidaat vrijwillige ambtenaar in opl
 
 2. De fysiek motorische capaciteiten van een kandidaat worden beoordeeld aan de hand van een fysiek motorisch onderzoek.
 
-3. In het fysiek motorisch onderzoek moet de kandidaat een circuit met hindernissen afleggen binnen de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047833&bijlage=2&z=2023-11-01&g=2023-11-01) genoemde minimale normtijd, gerelateerd aan de leeftijd en het geslacht van de kandidaat. Het circuit bestaat uit onderdelen die zijn uitgezet in een binnenruimte en zijn gebaseerd op de achtervolging te voet, het onder controle brengen van een verdachte en het handmatig verplaatsen van zware objecten.
+3. In het fysiek motorisch onderzoek moet de kandidaat een circuit met hindernissen afleggen binnen de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047833&bijlage=2&z=2024-10-02&g=2024-10-02) genoemde minimale normtijd, gerelateerd aan de leeftijd en het geslacht van de kandidaat. Het circuit bestaat uit onderdelen die zijn uitgezet in een binnenruimte en zijn gebaseerd op de achtervolging te voet, het onder controle brengen van een verdachte en het handmatig verplaatsen van zware objecten.
 
 ### Hoofdstuk 4. Medische geschiktheid
 
 ##### Artikel 11. Medisch onderzoek
 
-1. Nadat alle overige beoordelingen van de geschiktheid van de kandidaat hebben plaatsgevonden en het bevoegd gezag op grond daarvan voornemens is de kandidaat aan te stellen, worden de kandidaat aspirant of de kandidaat vrijwilliger-aspirant door het bevoegd gezag onderworpen aan een medisch onderzoek met inachtneming van de eisen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047833&bijlage=3&z=2023-11-01&g=2023-11-01) bij deze regeling.
+1. Nadat alle overige beoordelingen van de geschiktheid van de kandidaat hebben plaatsgevonden en het bevoegd gezag op grond daarvan voornemens is de kandidaat aan te stellen, worden de kandidaat aspirant of de kandidaat vrijwilliger-aspirant door het bevoegd gezag onderworpen aan een medisch onderzoek met inachtneming van de eisen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047833&bijlage=3&z=2024-10-02&g=2024-10-02) bij deze regeling.
 
 2. De inhoud van het medisch onderzoek wordt afgestemd op de overige onderdelen van het reeds doorlopen geschiktheidsonderzoek.
 
@@ -220,11 +220,11 @@ De kandidaat ambtenaar in opleiding of de kandidaat vrijwillige ambtenaar in opl
 
 3. Indien de uitslag van het geschiktheidsonderzoek onvoldoende is, blijft deze uitslag drie maanden gelden.
 
-4. In afwijking van het derde lid blijft een onvoldoende uitslag op het psychologische profiel van de kandidaat een jaar gelden.
+4. In afwijking van het derde lid blijft een onvoldoende uitslag op het psychologische profiel van de kandidaat een jaar gelden, waarbij de bewaartermijn van het onderliggende dossier twee jaar bedraagt.
 
 ##### Artikel 13. Herbeoordeling psychologisch onderzoek
 
-1. De kandidaat waarvan de uitslag van het psychologisch onderzoek, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047833&hoofdstuk=2&artikel=9&z=2023-11-01&g=2023-11-01), onvoldoende is, kan verzoeken om een toelichtend gesprek met de psycholoog onder wiens verantwoordelijkheid het desbetreffende onderzoek heeft plaatsgevonden. Binnen twee weken na dit verzoek vindt dit gesprek plaats.
+1. De kandidaat waarvan de uitslag van het psychologisch onderzoek, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047833&hoofdstuk=2&artikel=9&z=2024-10-02&g=2024-10-02), onvoldoende is, kan verzoeken om een toelichtend gesprek met de psycholoog onder wiens verantwoordelijkheid het desbetreffende onderzoek heeft plaatsgevonden. Binnen twee weken na dit verzoek vindt dit gesprek plaats.
 
 2. Indien de kandidaat van mening is dat er bij het onderzoek fouten zijn gemaakt in de procedure of dat er sprake is van feitelijke onjuistheden, kan de kandidaat een met redenen omkleed verzoek doen om de resultaten van het psychologisch onderzoek en het verloop van de procedure opnieuw te laten beoordelen.
 
@@ -236,7 +236,7 @@ De kandidaat ambtenaar in opleiding of de kandidaat vrijwillige ambtenaar in opl
 
 ##### Artikel 14. Herkansing fysiek motorisch onderzoek
 
-1. Indien de uitslag van het fysiek motorisch onderzoek onvoldoende is, kan het bevoegd gezag de kandidaat binnen twee weken na de mededeling, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047833&hoofdstuk=5&artikel=12&z=2023-11-01&g=2023-11-01), uitnodigen opnieuw een fysiek motorisch onderzoek te ondergaan.
+1. Indien de uitslag van het fysiek motorisch onderzoek onvoldoende is, kan het bevoegd gezag de kandidaat binnen twee weken na de mededeling, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047833&hoofdstuk=5&artikel=12&z=2024-10-02&g=2024-10-02), uitnodigen opnieuw een fysiek motorisch onderzoek te ondergaan.
 
 2. Dit tweede fysiek motorisch onderzoek vindt binnen drie maanden na de mededeling plaats.
 
@@ -246,7 +246,7 @@ De kandidaat ambtenaar in opleiding of de kandidaat vrijwillige ambtenaar in opl
 
 1. Als aan de uitslag van het medisch onderzoek een negatieve gevolgtrekking dan wel een positieve gevolgtrekking onder bepaalde bedenkingen wordt verbonden, heeft de kandidaat recht op een herkeuring.
 
-2. De kandidaat maakt de wens tot een herkeuring binnen twee weken na de mededeling in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047833&hoofdstuk=5&artikel=12&z=2023-11-01&g=2023-11-01), met redenen omkleed aan het bevoegd gezag kenbaar.
+2. De kandidaat maakt de wens tot een herkeuring binnen twee weken na de mededeling in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047833&hoofdstuk=5&artikel=12&z=2024-10-02&g=2024-10-02), met redenen omkleed aan het bevoegd gezag kenbaar.
 
 3. Ingeval van herkeuring wordt de door het bevoegd gezag te nemen beslissing ten aanzien van de aanstelling uitgesteld totdat de uitslag van de herkeuring aan het bevoegd gezag is meegedeeld.
 
