@@ -4,7 +4,7 @@ identifier: "BWBR0017434"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-10-03"
-last_updated: "2024-03-14"
+last_updated: "2024-10-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017434"
 soort: "ministeriele-regeling"
@@ -55,7 +55,19 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 Dit besluit wordt aangehaald als: Besluit Rode lijsten flora en fauna.
 
-## Bijlage. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017434&artikel=1&z=2024-03-14&g=2024-03-14) van het Besluit Rode lijsten flora en fauna
+## Bijlage. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017434&artikel=1&z=2024-10-03&g=2024-10-03) van het Besluit Rode lijsten flora en fauna
+
+| **Ernstig Bedreigd** |   |
+| --- | --- |
+| Salamandra salamandra ssp. terrestris | Vuursalamander |
+|   |   |
+| **Kwetsbaar** |   |
+| Alytes obstetricans ssp. obstetricans | Vroedmeesterpad |
+| Bombina variegata ssp. variegata | Geelbuikvuurpad |
+| Hyla arborea | Boomkikker |
+| Lissotriton helveticus ssp. helveticus | Vinpootsalamander |
+| Pelobates fuscus | Knoflookpad |
+| Triturus cristatus | Kamsalamander |
 
 | **Verdwenen uit Nederland** |   |
 | --- | --- |
@@ -456,6 +468,16 @@ Dit besluit wordt aangehaald als: Besluit Rode lijsten flora en fauna.
 | Xanthoparmelia tinctina | Kogelschildmos |
 | Zwackhia viridis | Okerbruin schriftmos |
 
+| **Kwetsbaar** |   |
+| --- | --- |
+| Coronella austriaca ssp. austriaca | Gladde slang |
+| Natrix helvetica ssp. helvetica | Ringslang |
+| Podarcis muralis ssp. brongniardii | Muurhagedis |
+| Vipera berus ssp. berus | Adder |
+|   |   |
+| **Gevoelig** |   |
+| Zootoca vivipara ssp. vivipara | Levendbarende hagedis |
+
 | **Verdwenen uit Nederland** |   |
 | --- | --- |
 | Kleine hoefijzerneus | **Rhinolophus hipposideros hipposideros** |
@@ -481,5 +503,162 @@ Dit besluit wordt aangehaald als: Besluit Rode lijsten flora en fauna.
 | Konijn | **Oryctolagus cunniculus** |
 | Tweekleurige vleermuis | **Vespertilio murinus murinus** |
 | Wezel | **Mustela nivalis vulgaris** |
+
+| **Verdwenen uit Nederland** |   |
+| --- | --- |
+| Blera fallax | Roodkapje |
+| Chalcosyrphus femoratus | Grote rooddijbladloper |
+| Cheilosia griseiventris | Grijs gitje |
+| Cheilosia pubera | Nagelkruidgitje |
+| Cheilosia vicina | Wipneusgitje |
+| Chrysogaster rondanii | Breedkopdoflijfje |
+| Dasysyrphus friuliensis | Kommawimperzweefvlieg |
+| Eristalis alpina | Alpenbijvlieg |
+| Eristalis cryptarum | Roodpootbijvlieg |
+| Eristalis jugorum | Snuitbijvlieg |
+| Eristalis rupium | Bergbijvlieg |
+| Eumerus flavitarsis | Gevlekte bollenzweefvlieg |
+| Leucozona glaucia | Doorzichtig-gele melkzweefvlieg |
+| Leucozona inopinata | Zwarthaarmelkzweefvlieg |
+| Melangyna compositarum | Zomerelfje |
+| Merodon moenium | Kegelnarcisvlieg |
+| Neoascia unifasciata | Limburgse korsetzweefvlieg |
+| Paragus testaceus | Rode kalkkrieltje |
+| Paragus tibialis | Piemelkrieltje |
+| Parasyrphus macularis | Groot gevlekt roetneusje |
+| Pelecocera scaevoides | Gele heidedwerg |
+| Pipizella zeneggenensis | Berglangsprietplatbek |
+| Platycheirus sticticus | Woudplatvoetje |
+| Platycheirus tarsalis | Bergplatvoetje |
+| Psarus abdominalis | Vermiljoenzweefvlieg |
+| Sericomyia bombiformis | Grote fophommel |
+| Sphaerophoria potentillae | Hoogveenlanglijf |
+| Spilomyia manicata | Behaarde wespvlieg |
+| Xylota ignava | Grote rode bladloper |
+| Xylota jakutorum | Bloembladloper |
+|   |   |
+| **Ernstig bedreigd** |   |
+| Anasimyia lunulata | Zoenwaterzweefvlieg |
+| Cheilosia antiqua | Primulagitje |
+| Cheilosia nigripes | Zwartpootgitje |
+| Chrysogaster cemiteriorum | Geelvleugeldoflijfje |
+| Dasysyrphus hilaris | Geelsnoetwimperzweefvlieg |
+| Dasysyrphus pinastri | Zwartsprietwimperzweefvlieg |
+| Doros profuges | Knotszweefvlieg |
+| Eristalis anthophorina | Friese bijvlieg |
+| Eumerus sogdianus | Duistere bollenzweefvlieg |
+| Eupeodes nitens | Golvende kommazweefvlieg |
+| Leucozona laternaria | Donkere melkzweefvlieg |
+| Melangyna barbifrons | Vroeg elfje |
+| Parasyrphus nigritarsis | Haantjesbandzweefvlieg |
+| Parasyrphus relictus | Ringpootroetneusje |
+| Pipiza austriaca | Knobbeldijplatbek |
+| Pipiza quadrimaculata | Korte platbek |
+| Platycheirus immarginatus | Kustplatvoetje |
+| Platycheirus parmatus | Limburgs platvoetje |
+| Sphaerophoria fatarum | Kleine gevlekte langlijf |
+| Sphaerophoria loewi | Zilte langlijf |
+|   |   |
+| **Bedreigd** |   |
+| Chalcosyrphus valgus | Kleine rooddijbladloper |
+| Cheilosia barbata | Ongeschoren gitje |
+| Cheilosia latifrons | Bruin gitje |
+| Cheilosia longula | Heidegitje |
+| Cheilosia mutabilis | Slank gitje |
+| Cheilosia uviformis | Zilverkopgitje |
+| Cheilosia velutina | Fluwelen gitje |
+| Chrysotoxum arcuatum | Bolle fopwesp |
+| Chrysotoxum octomaculatum | Heidefopwesp |
+| Eriozona syrphoides | Bontzweefvlieg |
+| Eumerus sabulonum | Duinbollenzweefvlieg |
+| Melanogaster aerosa | Zomers doflijfje |
+| Meligramma guttata | Spiegelelfje |
+| Neoascia geniculata | Kortsprietkorsetzweefvlieg |
+| Neocnemodon verrucula | Wilgenplatbek |
+| Neocnemodon vitripennis | Gespoorde platbek |
+| Parasyrphus lineola | Zwartpootroetneusje |
+| Parasyrphus malinellus | Glimmend roetneusje |
+| Pelecocera lusitanica | Duinheidedwerg |
+| Pipiza fasciata | Vliegerplatbek |
+| Platycheirus manicatus | Snuitplatvoetje |
+| Riponnensia splendens | Grote Limburgse glimmer |
+| Sericomyia lappona | Donkere veenzweefvlieg |
+| Sericomyia superbiens | Gele fophommel |
+| Sphegina clunipes | Gewone bronzweefvlieg |
+| Trichopsomyia flavitarsis | Kleinvlekplatbek |
+| Trichopsomyia lucida | Grootvlekplatbek |
+| Xylota florum | Grote grijze bladloper |
+| Xylota meigeniana | Berookte bladloper |
+| Xylota tarda | Kleine rode bladloper |
+|   |   |
+| **Kwetsbaar** |   |
+| Anasimyia interpuncta | Bokserwaterzweefvlieg |
+| Cheilosia chrysocoma | Vosrood gitje |
+| Cheilosia fraterna | Moerasgitje |
+| Cheilosia scutellata | Paddestoelgitje |
+| Chrysotoxum vernale | Streepfopwesp |
+| Dasysyrphus neovenustus | Zwartbandwimperzweefvlieg |
+| Epistrophe flava | Brede bandzweefvlieg |
+| Lejogaster tarsata | Moerasglimlijfje |
+| Lejops vittatus | Heenzweefvlieg |
+| Leucozona lucorum | Withaarmelkzweefvlieg |
+| Mallota fuciformis | Hommelmallota |
+| Melangyna umbellatarum | Melkelfje |
+| Melanogaster nuda | Kaal doflijfje |
+| Meliscaeva cinctella | Stomp elfje |
+| Microdon analis | Bosknikspriet |
+| Microdon major | Grote knikspriet |
+| Neocnemodon pubescens | Donkerhaarplatbek |
+| Orthonevra geniculata | Vroege glimmer |
+| Parhelophilus consimilis | Veenfluweelzweefvlieg |
+| Pipiza luteitarsis | Slanke platbek |
+| Platycheirus scambus | Moerasplatvoetje |
+| Pyrophaena granditarsa | Klompvoetje |
+| Triglyphus primus | Kortlijfplatbek |
+| Xylota abiens | Kleine grijze bladloper |
+|   |   |
+| **Gevoelig** |   |
+| Brachyopa dorsata | Verborgen sapzweefvlieg |
+| Brachyopa panzeri | Roodbruine sapzweefvlieg |
+| Brachyopa vittata | Grote sapzweefvlieg |
+| Callicera aenea | Gele glanszweefvlieg |
+| Callicera aurata | Gouden glanszweefvlieg |
+| Chalcosyrphus eunotus | Gestreepte molmzweefvlieg |
+| Cheilosia aerea | Toortsgitje |
+| Cheilosia chloris | Moesdistelgitje |
+| Cheilosia frontalis | Dotterbloemgitje |
+| Cheilosia lasiopa | Weegbreegitje |
+| Cheilosia lenis | Limburgs bosgitje |
+| Cheilosia luteicornis | Sparrengitje |
+| Cheilosia ranunculi | Zuidelijk weidegitje |
+| Cheilosia rufipes | Truffelgitje |
+| Cheilosia vulpina | Klitgitje |
+| Dasysyrphus lenensis | Lena’s wimperzweefvlieg |
+| Dasysyrphus pauxillus | Donkere wimperzweefvlieg |
+| Dasysyrphus tricinctus | Geelbandwimperzweefvlieg |
+| Epistrophe cryptica | Geelborstelbandzweefvlieg |
+| Epistrophe diaphana | Zuidelijke bandzweefvlieg |
+| Epistrophe ochrostoma | Breedkopbandzweefvlieg |
+| Eristalis abusiva | Kustbijvlieg |
+| Eumerus ornatus | Grootoogbollenzweefvlieg |
+| Eumerus tricolor | Kalkbollenzweefvlieg |
+| Ferdinandea ruficornis | Roodsprietkopermantel |
+| Lejogaster metallina | Gewoon glimlijfje |
+| Mallota cimbiciformis | Bijmallota |
+| Microdon devius | Kalkknikspriet |
+| Myolepta vara | Zwarte myolepta |
+| Neoascia annexa | Breedbandkorsetzweefvlieg |
+| Neoascia podagrica | Gewone korsetzweefvlieg |
+| Platycheirus aurolateralis | Duister schaduwplatvoetje |
+| Platycheirus clypeatus | Gewoon platvoetje |
+| Platycheirus peltatus | Scheefvlekplatvoetje |
+| Pocota personata | Pocota |
+| Portevinia maculata | Daslookgitje |
+| Psilota exilistyla | Spichtige spitsbek |
+| Rhingia rostrata | Rode snuitvlieg |
+| Sphegina nigra | Roodsprietbronzweefvlieg |
+| Sphegina verecunda | Kleine bronzweefvlieg |
+| Trichopsomyia joratensis | Verborgen platbek |
+| Xanthogramma laetum | Wimpercitroenzweefvlieg |
 
 Dit besluit zal, met uitzondering van de bijlage, met de toelichting in de Staatscourant worden geplaatst. De bijlage zal ter inzage worden gelegd in de bibliotheek van het Ministerie van Landbouw, Natuur en Voedselkwaliteit.
