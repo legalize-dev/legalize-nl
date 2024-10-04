@@ -4,7 +4,7 @@ identifier: "BWBR0048597"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-10-04"
-last_updated: "2023-09-05"
+last_updated: "2024-10-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048597"
 soort: "ministeriele-regeling"
@@ -54,11 +54,11 @@ In deze regeling wordt verstaan onder:
 
 - b. instellingsbestuur als bedoeld [artikel 1.1 onderdeel j, van de Wet op het hoger onderwijs en wetenschappelijk onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1) van een instelling die een of meer lerarenopleidingen verzorgt;
 
-- **beoordelingsgerichte peer review:** peer review uitgevoerd door de commissie beoordelingsgerichte peer review die gericht is op de beoordeling van de basiskwaliteit van de aspirant-opleidingsschool, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=4&artikel=22&z=2023-09-05&g=2023-09-05);
+- **beoordelingsgerichte peer review:** peer review uitgevoerd door de commissie beoordelingsgerichte peer review die gericht is op de beoordeling van de basiskwaliteit van de aspirant-opleidingsschool, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=4&artikel=22&z=2024-10-04&g=2024-10-04);
 
 - **beroepsgroep:** vertegenwoordiger of vertegenwoordigers van vak- en beroepsorganisaties van onderwijspersoneel;
 
-- **commissie beoordelingsgerichte peer review:** commissie beoordelingsgerichte peer review als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=4&artikel=25&z=2023-09-05&g=2023-09-05);
+- **commissie beoordelingsgerichte peer review:** commissie beoordelingsgerichte peer review als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=4&artikel=25&z=2024-10-04&g=2024-10-04);
 
 - **DUO:** Dienst Uitvoering Onderwijs;
 
@@ -88,7 +88,7 @@ In deze regeling wordt verstaan onder:
 
 - **opleidingsschool:** partnerschap, niet zijnde een aspirant-opleidingsschool, tussen één of meer scholen voor primair onderwijs, voortgezet onderwijs, middelbaar beroepsonderwijs en één of meer lerarenopleidingen die in gezamenlijkheid toekomstige leraren op de werkplek opleiden;
 
-- **personeelsomvang:** totale personeelsomvang uitgedrukt in fte op de peildatum 1 oktober 2022 van de vestigingen voor primair onderwijs en 1 oktober 2022 van de vestigingen voor voortgezet onderwijs in de regio, zoals vastgesteld met behulp van de in het kader van de aanvraagprocedure via [www.dus-i.nl](onbekend) beschikbaar gestelde rekentool;
+- **personeelsomvang:** totale personeelsomvang uitgedrukt in fte op de peildatum 1 oktober 2022 van de vestigingen voor primair onderwijs en 1 oktober 2022 van de vestigingen voor voortgezet onderwijs in de regio, zoals vastgesteld met behulp van de in het kader van de aanvraagprocedure via [www.dus-i.nl](http://www.dus-i.nl) beschikbaar gestelde rekentool;
 
 - **personeelstekort:** bestaand of toekomstig tekort aan voldoende onderwijzend, onderwijsondersteunend of leidinggevend personeel op de vestigingen voor primair onderwijs, voortgezet onderwijs of middelbaar beroepsonderwijs in de regio;
 
@@ -120,23 +120,23 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 ##### Artikel 3. Doel van de regeling en te subsidiëren activiteiten
 
-1. De minister kan aan een bevoegd gezag voor de periode van 1 januari 2024 tot en met 31 december 2024 subsidie verstrekken als tegemoetkoming voor de uitvoering van activiteiten als bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=2&artikel=5&z=2023-09-05&g=2023-09-05), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=3&artikel=12&z=2023-09-05&g=2023-09-05) of [19](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=4&artikel=19&z=2023-09-05&g=2023-09-05).
+1. De minister kan aan een bevoegd gezag voor de periode van 1 januari 2024 tot en met 31 december 2024 subsidie verstrekken als tegemoetkoming voor de uitvoering van activiteiten als bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=2&artikel=5&z=2024-10-04&g=2024-10-04), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=3&artikel=12&z=2024-10-04&g=2024-10-04) of [19](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=4&artikel=19&z=2024-10-04&g=2024-10-04).
 
-2. De minister kan geen subsidie verstrekken voor de uitvoering van zowel activiteiten als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=2&artikel=5&z=2023-09-05&g=2023-09-05), als activiteiten als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=3&artikel=12&z=2023-09-05&g=2023-09-05) of [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=4&artikel=19&z=2023-09-05&g=2023-09-05).
+2. De minister kan geen subsidie verstrekken voor de uitvoering van zowel activiteiten als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=2&artikel=5&z=2024-10-04&g=2024-10-04), als activiteiten als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=3&artikel=12&z=2024-10-04&g=2024-10-04) of [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=4&artikel=19&z=2024-10-04&g=2024-10-04).
 
 ##### Artikel 4. Subsidieplafond en verdeling
 
 1. Voor subsidieverstrekking op grond van deze regeling is voor de periode van 1 januari 2024 tot en met 31 december 2024 in totaal een bedrag beschikbaar van € 90.951.000.
 
-2. Het beschikbare bedrag voor deze regeling wordt eerst aangewend voor de aanvragen voor activiteiten als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=2&artikel=5&z=2023-09-05&g=2023-09-05). Vervolgens worden de resterende middelen evenredig verdeeld over aanvragen voor activiteiten als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=3&artikel=12&z=2023-09-05&g=2023-09-05) en aanvragen voor activiteiten als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=4&artikel=19&z=2023-09-05&g=2023-09-05).
+2. Het beschikbare bedrag voor deze regeling wordt eerst aangewend voor de aanvragen voor activiteiten als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=2&artikel=5&z=2024-10-04&g=2024-10-04). Vervolgens worden de resterende middelen evenredig verdeeld over aanvragen voor activiteiten als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=3&artikel=12&z=2024-10-04&g=2024-10-04) en aanvragen voor activiteiten als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=4&artikel=19&z=2024-10-04&g=2024-10-04).
 
-3. Indien het bedrag, bedoeld in het eerste lid, ontoereikend is om alle daarvoor in aanmerking komende aanvragen te kunnen toewijzen, worden de subsidiebedragen naar beneden bijgesteld als bedoeld in [artikel 13, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=3&artikel=13&z=2023-09-05&g=2023-09-05), en als bedoeld in [artikel 20, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=4&artikel=20&z=2023-09-05&g=2023-09-05).
+3. Indien het bedrag, bedoeld in het eerste lid, ontoereikend is om alle daarvoor in aanmerking komende aanvragen te kunnen toewijzen, worden de subsidiebedragen naar beneden bijgesteld als bedoeld in [artikel 13, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=3&artikel=13&z=2024-10-04&g=2024-10-04), en als bedoeld in [artikel 20, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=4&artikel=20&z=2024-10-04&g=2024-10-04).
 
 ### Hoofdstuk 2. Subsidie onderwijsregio’s
 
 ##### Artikel 5. Activiteiten onderwijsregio
 
-1. De minister kan op grond van dit hoofdstuk voor de periode van 1 januari 2024 tot en met 31 december 2024 subsidie verstrekken aan een penvoerder als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=2&artikel=11&z=2023-09-05&g=2023-09-05) als tegemoetkoming voor de uitvoering van een plan van aanpak als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=2&artikel=9&z=2023-09-05&g=2023-09-05) gericht op de samenwerking tussen schoolbesturen, lerarenopleidingen en beroepsgroep in de onderwijsregio om te zorgen voor voldoende goed opgeleid onderwijspersoneel.
+1. De minister kan op grond van dit hoofdstuk voor de periode van 1 januari 2024 tot en met 31 december 2024 subsidie verstrekken aan een penvoerder als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=2&artikel=11&z=2024-10-04&g=2024-10-04) als tegemoetkoming voor de uitvoering van een plan van aanpak als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=2&artikel=9&z=2024-10-04&g=2024-10-04) gericht op de samenwerking tussen schoolbesturen, lerarenopleidingen en beroepsgroep in de onderwijsregio om te zorgen voor voldoende goed opgeleid onderwijspersoneel.
 
 2. Een aanvraag kan worden ingediend voor een onderwijsregio.
 
@@ -148,7 +148,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 1. De subsidie die op grond van dit hoofdstuk kan worden aangevraagd en verstrekt aan een onderwijsregio bestaat uit:
 
-- a. een subsidiebedrag voor de ontwikkeling en totstandkoming van een onderwijsregio en de uitvoering van het plan van aanpak, waarbij de maximale hoogte van het aan te vragen en te verstrekken bedrag is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&bijlage=1&z=2023-09-05&g=2023-09-05) van deze regeling;
+- a. een subsidiebedrag voor de ontwikkeling en totstandkoming van een onderwijsregio en de uitvoering van het plan van aanpak, waarbij de maximale hoogte van het aan te vragen en te verstrekken bedrag is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&bijlage=1&z=2024-10-04&g=2024-10-04) van deze regeling;
 
 - b. voor een sectoroverstijgende onderwijsregio bestaat het maximale subsidiebedrag uit de som van de uit het eerste lid, onderdeel a voortvloeiende maximale subsidiebedragen voor de afzonderlijke sectoren.
 
@@ -160,11 +160,13 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 2. Het bedrag, bedoeld in het eerste lid, onderdeel d, wordt vermenigvuldigd met het aantal studenten en zij-instromers dat in schooljaar 2022–2023 is opgeleid op de vestigingen van de opleidingsscholen en aspirant-opleidingsscholen binnen de desbetreffende onderwijsregio.
 
-3. Voor een aspirant-opleidingsschool die in 2022 is gestart als aspirant-opleidingsschool wordt in afwijking van het eerste lid, onderdeel d, voor het jaar 2024 vijf twaalfde deel van het in dat onderdeel bedoelde bedrag per student en zij-instromer toegekend.
+3. In afwijking van het tweede lid wordt het bedrag, bedoeld in het eerste lid, onderdeel d, voor een aspirant-opleidingsschool die in 2022 is gestart als aspirant-opleidingsschool vermenigvuldigd met het aantal studenten en zij-instromers dat in het schooljaar 2023–2024 is opgeleid op de vestigingen van de aspirant-opleidingsschool binnen de desbetreffende onderwijsregio.
 
-4. Indien een of meerdere mbo-instellingen deelnemen aan een sectoroverstijgende onderwijsregio en het aantal mbo-studenten lager is dan 15.000, dan wordt, in afwijking van het eerste lid, onderdeel a, en [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&bijlage=1&z=2023-09-05&g=2023-09-05), voor de sector mbo een bedrag van € 115.000 in aanmerking genomen.
+4. Voor een aspirant-opleidingsschool die in 2022 is gestart als aspirant-opleidingsschool wordt in afwijking van het eerste lid, onderdeel d, voor het jaar 2024 vijf twaalfde deel van het in dat onderdeel bedoelde bedrag per student en zij-instromer toegekend.
 
-5. Indien het bedrag, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=1&artikel=4&z=2023-09-05&g=2023-09-05) ontoereikend is om alle daarvoor in aanmerking komende aanvragen op grond van dit hoofdstuk te kunnen toewijzen, worden de subsidiebedragen, bedoeld in het eerste lid, onderdeel a, per aanvraag evenredig naar beneden bijgesteld.
+5. Indien een of meerdere mbo-instellingen deelnemen aan een sectoroverstijgende onderwijsregio en het aantal mbo-studenten lager is dan 15.000, dan wordt, in afwijking van het eerste lid, onderdeel a, en [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&bijlage=1&z=2024-10-04&g=2024-10-04), voor de sector mbo een bedrag van € 115.000 in aanmerking genomen.
+
+6. Indien het bedrag, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=1&artikel=4&z=2024-10-04&g=2024-10-04) ontoereikend is om alle daarvoor in aanmerking komende aanvragen op grond van dit hoofdstuk te kunnen toewijzen, worden de subsidiebedragen, bedoeld in het eerste lid, onderdeel a, per aanvraag evenredig naar beneden bijgesteld.
 
 ##### Artikel 7. Aanvraag subsidie onderwijsregio
 
@@ -190,7 +192,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 - e. een opgave van het aantal studenten en zij-instromers dat in schooljaar 2022–2023 is opgeleid op de vestigingen van opleidingsscholen en aspirant-opleidingsscholen binnen een onderwijsregio;
 
-4. Indien een vestiging deel uitmaakt van meerdere aanvragen als bedoeld in [artikel 8, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=2&artikel=8&z=2023-09-05&g=2023-09-05), dan neemt DUS-I contact op met de betreffende penvoerders om te bepalen in welke aanvraag de vestiging deelneemt.
+4. Indien een vestiging deel uitmaakt van meerdere aanvragen als bedoeld in [artikel 8, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=2&artikel=8&z=2024-10-04&g=2024-10-04), dan neemt DUS-I contact op met de betreffende penvoerders om te bepalen in welke aanvraag de vestiging deelneemt.
 
 5. De aanvraag wordt medeondertekend door alle bevoegde gezagsorganen die betrokken zijn bij de aanvraag. Hiermee verklaren zij gezamenlijk het plan van aanpak uit te zullen voeren. Zij verklaren bovendien dat alle gegevens die noodzakelijk zijn voor de verantwoording door de penvoerder onderwijsregio van de besteding van de subsidie op verzoek aan de penvoerder onderwijsregio worden verstrekt.
 
@@ -264,7 +266,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 1. Een bevoegd gezag dat deelneemt aan de onderwijsregio treedt namens de andere bevoegde gezagsorganen in de regio op als penvoerder van de onderwijsregio.
 
-2. De subsidie, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=2&artikel=5&z=2023-09-05&g=2023-09-05), wordt aangevraagd door, verstrekt aan en verantwoord door de penvoerder van de onderwijsregio.
+2. De subsidie, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=2&artikel=5&z=2024-10-04&g=2024-10-04), wordt aangevraagd door, verstrekt aan en verantwoord door de penvoerder van de onderwijsregio.
 
 3. De penvoerder van de onderwijsregio is verantwoordelijk voor alle aan de subsidie verbonden verplichtingen, ongeacht welke van de deelnemende partijen feitelijk is belast met de uitvoering van de daarop betrekking hebbende werkzaamheden.
 
@@ -272,7 +274,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 ##### Artikel 12. Activiteiten RAP-regio
 
-1. De minister kan op grond van dit hoofdstuk voor de periode van 1 januari 2024 tot en met 31 december 2024 subsidie verstrekken aan een penvoerder van een RAP-regio als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=3&artikel=18&z=2023-09-05&g=2023-09-05) als tegemoetkoming voor de uitvoering van activiteiten als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=3&artikel=16&z=2023-09-05&g=2023-09-05) gericht op de bestaande of te verwachten kwantitatieve en kwalitatieve tekorten in de personeelsvoorziening.
+1. De minister kan op grond van dit hoofdstuk voor de periode van 1 januari 2024 tot en met 31 december 2024 subsidie verstrekken aan een penvoerder van een RAP-regio als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=3&artikel=18&z=2024-10-04&g=2024-10-04) als tegemoetkoming voor de uitvoering van activiteiten als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=3&artikel=16&z=2024-10-04&g=2024-10-04) gericht op de bestaande of te verwachten kwantitatieve en kwalitatieve tekorten in de personeelsvoorziening.
 
 2. Voor een RAP-regio wordt uitgegaan van de op grond van de [Subsidieregeling regionale aanpak personeelstekort onderwijs 2020 en 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0042894) gevormde RAP-regio’s, zoals die luidde op 14 april 2023.
 
@@ -284,7 +286,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 ##### Artikel 13. Subsidiebedrag RAP-regio
 
-1. De subsidie die op grond van dit hoofdstuk kan worden aangevraagd en verstrekt, bedraagt per RAP-regio ten hoogste het bedrag dat is opgenomen in de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&bijlage=2&z=2023-09-05&g=2023-09-05) bij deze regeling opgenomen tabel.
+1. De subsidie die op grond van dit hoofdstuk kan worden aangevraagd en verstrekt, bedraagt per RAP-regio ten hoogste het bedrag dat is opgenomen in de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&bijlage=2&z=2024-10-04&g=2024-10-04) bij deze regeling opgenomen tabel.
 
 2. Indien in de aanvraag om subsidie op grond van dit hoofdstuk geen instelling voor middelbaar beroepsonderwijs meer deelneemt aan de RAP-regio, dan wordt het maximale subsidiebedrag verlaagd met 23 procent.
 
@@ -292,11 +294,11 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 4. Indien in de aanvraag om subsidie op grond van dit hoofdstuk een aantal schoolbesturen niet meer deelneemt aan de RAP-regio en de personeelsomvang van de resterende deelnemende vestigingen lager is dan 400 fte voor een RAP-regio primair onderwijs of lager is dan 600 fte voor een RAP-regio voortgezet onderwijs, dan is het niet mogelijk om subsidie aan te vragen.
 
-5. Indien het bedrag, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=1&artikel=4&z=2023-09-05&g=2023-09-05), ontoereikend is om alle daarvoor in aanmerking komende aanvragen op grond van dit hoofdstuk te kunnen toewijzen, worden de subsidiebedragen naar rato naar beneden vastgesteld.
+5. Indien het bedrag, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=1&artikel=4&z=2024-10-04&g=2024-10-04), ontoereikend is om alle daarvoor in aanmerking komende aanvragen op grond van dit hoofdstuk te kunnen toewijzen, worden de subsidiebedragen naar rato naar beneden vastgesteld.
 
 ##### Artikel 14. Per RAP-regio maximaal één toekenning
 
-1. Een penvoerder van een RAP-regio kan alleen een aanvraag op grond van dit hoofdstuk indienen voor een RAP-regio zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&bijlage=2&z=2023-09-05&g=2023-09-05).
+1. Een penvoerder van een RAP-regio kan alleen een aanvraag op grond van dit hoofdstuk indienen voor een RAP-regio zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&bijlage=2&z=2024-10-04&g=2024-10-04).
 
 2. Per RAP-regio kan maximaal één subsidieaanvraag worden toegekend voor de sector primair onderwijs en maximaal één subsidieaanvraag voor de sector voortgezet onderwijs met eventueel de sector middelbaar beroepsonderwijs. Dit geldt ook in het geval van een sectoroverstijgende aanvraag.
 
@@ -310,7 +312,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 2. Een aanvraag voor subsidie kan worden ingediend van 2 oktober 09:00 uur 2023 tot en met 31 oktober 2023 16:00 uur. Aanvragen die worden ingediend na 31 oktober 2023 16:00 uur worden afgewezen.
 
-3. De subsidie wordt aangevraagd met gebruikmaking van het digitale aanvraagformulier dat daartoe op de website van de DUS-I beschikbaar wordt gesteld en, indien [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=3&artikel=12&z=2023-09-05&g=2023-09-05), van toepassing is de daarbij behorende rekentool ter vaststelling van de besturen en de personeelsomvang van de vestigingen in de regio, die daartoe via de website van de Dienst Uitvoering Subsidies aan Instellingen beschikbaar worden gesteld.
+3. De subsidie wordt aangevraagd met gebruikmaking van het digitale aanvraagformulier dat daartoe op de website van de DUS-I beschikbaar wordt gesteld en, indien [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=3&artikel=12&z=2024-10-04&g=2024-10-04), van toepassing is de daarbij behorende rekentool ter vaststelling van de besturen en de personeelsomvang van de vestigingen in de regio, die daartoe via de website van de Dienst Uitvoering Subsidies aan Instellingen beschikbaar worden gesteld.
 
 4. Een aanvraag voor subsidie gaat vergezeld van:
 
@@ -368,7 +370,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 ##### Artikel 19. Activiteiten opleidingsschool
 
-1. De minister kan voor de periode 1 januari 2024 tot en met 31 december 2024 subsidie verstrekken aan een penvoerder als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=4&artikel=24&z=2023-09-05&g=2023-09-05) als tegemoetkoming in:
+1. De minister kan voor de periode 1 januari 2024 tot en met 31 december 2024 subsidie verstrekken aan een penvoerder als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=4&artikel=24&z=2024-10-04&g=2024-10-04) als tegemoetkoming in:
 
 - a. de kosten van het in gezamenlijkheid opleiden van toekomstige leraren op de werkplek;
 
@@ -388,13 +390,15 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 2. Het bedrag, bedoeld in het eerste lid, onderdeel b, wordt berekend door het aantal studenten en zij-instromers dat in schooljaar 2022–2023 is opgeleid op de vestigingen van de opleidingsschool of aspirant-opleidingsschool te vermenigvuldigen met € 955.
 
-3. De aspirant-opleidingsschool die in 2022 is gestart als aspirant-opleidingsschool komt slechts in aanmerking voor vijf twaalfde deel van het subsidiebedrag, bedoeld in het eerste en tweede lid, voor het jaar 2024.
+3. In afwijking van het tweede lid wordt het bedrag, bedoeld in het eerste lid, onderdeel b, voor een aspirant-opleidingsschool die in 2022 is gestart als aspirant-opleidingsschool vermenigvuldigd met het aantal studenten en zij-instromers dat in het schooljaar 2023–2024 is opgeleid op de vestigingen van de aspirant-opleidingsschool binnen de desbetreffende onderwijsregio.
 
-4. Indien in de aanvraag om subsidie op grond van dit hoofdstuk een aantal vestigingen niet meer deelneemt aan de opleidingsschool of aspirant-opleidingsschool en het aantal studenten en zij-instromers tussen de 30 en 60 is in het schooljaar 2022–2023, dan wordt het maximale subsidiebedrag, bedoeld in het eerste lid, onderdeel a, € 60.000.
+4. De aspirant-opleidingsschool die in 2022 is gestart als aspirant-opleidingsschool komt slechts in aanmerking voor vijf twaalfde deel van het subsidiebedrag, bedoeld in het eerste en tweede lid, voor het jaar 2024.
 
-5. Indien in de aanvraag om subsidie op grond van dit hoofdstuk een aantal vestigingen niet meer deelneemt aan de opleidingsschool of aspirant-opleidingsschool en het aantal studenten en zij-instromers lager is dan 30 in schooljaar 2022–2023, dan vervalt het subsidiebedrag in het eerste lid, onderdeel a.
+5. Indien in de aanvraag om subsidie op grond van dit hoofdstuk een aantal vestigingen niet meer deelneemt aan de opleidingsschool of aspirant-opleidingsschool en het aantal studenten en zij-instromers tussen de 30 en 60 is in het schooljaar 2022–2023, dan wordt het maximale subsidiebedrag, bedoeld in het eerste lid, onderdeel a, € 60.000.
 
-6. Indien het bedrag, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=1&artikel=4&z=2023-09-05&g=2023-09-05), ontoereikend is om alle daarvoor in aanmerking komende aanvragen op grond van dit hoofdstuk te kunnen toewijzen, ontvangt een opleidingsschool of aspirant-opleidingsschool eerst het subsidiebedrag, bedoeld in het eerste lid, onderdeel b. Vervolgens verdeelt de minister het resterende bedrag voor het subsidiebedrag, bedoeld in het eerste lid, onderdeel a, evenredig over de ingediende aanvragen, zodanig dat elke opleidingsschool of aspirant-opleidingsschool een gelijk bedrag ontvangt, met uitzondering van de opleidingsscholen en aspirant-opleidingsscholen, bedoeld in het vierde lid.
+6. Indien in de aanvraag om subsidie op grond van dit hoofdstuk een aantal vestigingen niet meer deelneemt aan de opleidingsschool of aspirant-opleidingsschool en het aantal studenten en zij-instromers lager is dan 30 in schooljaar 2022–2023, dan vervalt het subsidiebedrag in het eerste lid, onderdeel a.
+
+6. Indien het bedrag, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=1&artikel=4&z=2024-10-04&g=2024-10-04), ontoereikend is om alle daarvoor in aanmerking komende aanvragen op grond van dit hoofdstuk te kunnen toewijzen, ontvangt een opleidingsschool of aspirant-opleidingsschool eerst het subsidiebedrag, bedoeld in het eerste lid, onderdeel b. Vervolgens verdeelt de minister het resterende bedrag voor het subsidiebedrag, bedoeld in het eerste lid, onderdeel a, evenredig over de ingediende aanvragen, zodanig dat elke opleidingsschool of aspirant-opleidingsschool een gelijk bedrag ontvangt, met uitzondering van de opleidingsscholen en aspirant-opleidingsscholen, bedoeld in het vierde lid.
 
 ##### Artikel 21. Aanvraag subsidie opleidingsschool
 
@@ -476,7 +480,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 ##### Artikel 26. Verlening, vaststelling en verantwoording
 
-1. In afwijking van [artikel 9.1, vierde lid, van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=9.1) wordt de subsidie aan de penvoerder, als bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=2&z=2023-09-05&g=2023-09-05), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=3&z=2023-09-05&g=2023-09-05) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=4&z=2023-09-05&g=2023-09-05), binnen 13 weken na sluiting van de aanvraagperiode verleend. De minister verstrekt een voorschot van 100%, dat in één keer wordt uitbetaald.
+1. In afwijking van [artikel 9.1, vierde lid, van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=9.1) wordt de subsidie aan de penvoerder, als bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=2&z=2024-10-04&g=2024-10-04), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=3&z=2024-10-04&g=2024-10-04) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=4&z=2024-10-04&g=2024-10-04), binnen 13 weken na sluiting van de aanvraagperiode verleend. De minister verstrekt een voorschot van 100%, dat in één keer wordt uitbetaald.
 
 2. De verantwoording van de subsidie geschiedt in de jaarverslaggeving overeenkomstig de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132), onderscheidenlijk de [Regeling jaarverslaggeving onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0031801), met model G, onderdeel 1, zoals bedoeld in richtlijn 660 van de Raad voor de Jaarverslaggeving.
 
@@ -502,7 +506,7 @@ De minister kan deze regeling in bijzondere gevallen buiten toepassing verklaren
 
 Deze regeling wordt aangehaald als: Subsidieregeling Onderwijsregio’s.
 
-## Bijlage 1. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=2&artikel=6&z=2023-09-05&g=2023-09-05) van de Subsidieregeling Onderwijsregio’s
+## Bijlage 1. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=2&artikel=6&z=2024-10-04&g=2024-10-04) van de Subsidieregeling Onderwijsregio’s
 
 De subsidiebedragen worden volgens de onderstaande tabellen bepaald op basis van aantal leerlingen en of mbo-studenten van de deelnemende vestigingen in de onderwijsregio. In het geval van een sectoroverstijgende aanvraag worden de bedragen bij elkaar opgeteld. Voor de landelijke onderwijsregio voor het groen onderwijs is het maximale aan te vragen en te verstrekken bedrag vastgesteld op € 425.000.
 
@@ -512,7 +516,7 @@ De subsidiebedragen worden volgens de onderstaande tabellen bepaald op basis van
 | Maximale subsidiebedrag deelnemende vestigingen voortgezet onderwijs | € 350.000 | € 475.000 | € 650.000 | € 950.000 | € 1.250.000 | € 1.550.000 |
 | Maximale subsidiebedrag deelnemende vestigingen middelbaar beroepsonderwijs | € 227.500 | € 308.750 | € 422.500 | € 617.500 | € 812.500 | € 1.007.500 |
 
-## Bijlage 2. behorende bij [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=3&artikel=13&z=2023-09-05&g=2023-09-05) van de Subsidieregeling Onderwijsregio’s
+## Bijlage 2. behorende bij [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0048597&hoofdstuk=3&artikel=13&z=2024-10-04&g=2024-10-04) van de Subsidieregeling Onderwijsregio’s
 
 | Refe-rentie | Sector | Regio | Maximale subsidie RAP-regio 2024 |
 | --- | --- | --- | --- |
