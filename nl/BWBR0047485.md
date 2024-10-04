@@ -4,7 +4,7 @@ identifier: "BWBR0047485"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-10-04"
-last_updated: "2023-05-23"
+last_updated: "2024-10-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047485"
 soort: "ministeriele-regeling"
@@ -66,9 +66,17 @@ In deze regeling wordt verstaan onder:
 
 2. Aanvragen die na 31 juli 2023 worden ingediend, worden niet in behandeling genomen.
 
-##### Artikel 4. Wijziging [Regeling register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0043632)
+##### Artikel 4. Verwerking persoonsgegevens
 
-Wijzigt de Regeling register onderwijsdeelnemers.
+1. Het bevoegd gezag, het samenwerkingsverband, de gemeente, het zorgkantoor of de zorgverzekeraar en de jeugdhulp- of zorgaanbieder verstrekken op verzoek aan Onze Minister voor het monitor- en evaluatie onderzoek, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0047473&artikel=11), de e-mailadressen van ouders, leerlingen, onderwijspersoneel, zorgpersoneel, zorgaanbieders en gemeenteambtenaren, evenals een vermelding tot welke hiervoor genoemde categorie personen de persoon behoort waarvan het e-mailadres wordt verstrekt.
+
+2. De in het eerste lid bedoelde gegevens worden:
+
+- a. voor geen andere doeleinden verwerkt dan het monitor- en evaluatie onderzoek, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0047473&artikel=11); en
+
+- b. niet langer bewaard dan noodzakelijk is voor de uitvoering van het monitor- en evaluatie onderzoek, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0047473&artikel=11).
+
+3. In het verslag op basis van het monitor- en evaluatie onderzoek, bedoeld in [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0047473&artikel=11), worden geen tot de persoon herleidbare gegevens opgenomen.
 
 ##### Artikel 5. Inwerkingtreding
 
