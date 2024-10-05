@@ -4,7 +4,7 @@ identifier: "BWBR0043210"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-10-05"
-last_updated: "2022-08-01"
+last_updated: "2024-10-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043210"
 soort: "ministeriele-regeling"
@@ -66,6 +66,8 @@ De [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c
 
 2. Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) weigert de minister subsidieverlening aan een aanvrager, indien deze van de minister al een tegemoetkoming in het collegegeld ontvangt of heeft ontvangen voor het volgen van de tweede lerarenopleiding.
 
+3. In afwijking van het eerste lid kan de Minister voor het studiejaar 2025–2026 alleen subsidie verstrekken aan aanvragers die voor het studiejaar 2024–2025 een subsidie hebben toegekend gekregen voor het vervolg van de lerarenopleiding die zij in 2024–2025 zijn gestart.
+
 ##### Artikel 4. Subsidieaanvraag
 
 1. Voor het eerste en het tweede studiejaar kan afzonderlijk subsidie worden aangevraagd met gebruikmaking van het daarvoor bestemde aanvraagformulier dat wordt bekendgemaakt op de website van DUO.
@@ -110,7 +112,7 @@ De minister kan een of meer bepalingen van deze regeling buiten toepassing laten
 
 1. Deze regeling treedt in werking met ingang van 1 oktober 2020.
 
-2. Deze regeling vervalt met ingang van 1 oktober 2025.
+2. Deze regeling vervalt met ingang van 1 oktober 2026.
 
 ##### Artikel 11. Citeertitel
 
