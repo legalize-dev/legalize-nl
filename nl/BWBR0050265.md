@@ -4,7 +4,7 @@ identifier: "BWBR0050265"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-10-08"
-last_updated: "2024-01-01"
+last_updated: "2024-10-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050265"
 soort: "ministeriele-regeling"
@@ -86,13 +86,13 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4
 
-Indien de aanvraag zoals bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050265&paragraaf=2&artikel=3&z=2024-10-08&g=2024-01-01), van deze regeling, niet volledig is ingediend, wordt de aanvrager met toepassing van [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) in de gelegenheid gesteld binnen twee weken alsnog de aanvraag aan te vullen.
+Indien de aanvraag zoals bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050265&paragraaf=2&artikel=3&z=2024-10-08&g=2024-10-08), van deze regeling, niet volledig is ingediend, wordt de aanvrager met toepassing van [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) in de gelegenheid gesteld binnen twee weken alsnog de aanvraag aan te vullen.
 
 #### § 3. Subsidiabele kosten
 
 ##### Artikel 5
 
-1. Voor de subsidie als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050265&paragraaf=1&artikel=2&z=2024-10-08&g=2024-01-01), komen in aanmerking de in redelijkheid gemaakte kosten:
+1. Voor de subsidie als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050265&paragraaf=1&artikel=2&z=2024-10-08&g=2024-10-08), komen in aanmerking de in redelijkheid gemaakte kosten:
 
 - a. voor capaciteitsuitbreiding door indienstneming van nieuwe groene boa’s;
 
@@ -104,7 +104,7 @@ Indien de aanvraag zoals bedoeld in [artikel 3, tweede lid](https://wetten.overh
 
 - e. die gemaakt zijn ten behoeve van de uitvoering van de functie van boa’s.
 
-2. Voor de subsidie als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050265&paragraaf=1&artikel=2&z=2024-10-08&g=2024-01-01), komen in aanmerking de gemaakte kosten:
+2. Voor de subsidie als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050265&paragraaf=1&artikel=2&z=2024-10-08&g=2024-10-08), komen in aanmerking de gemaakte kosten:
 
 - a. voor capaciteitsuitbreiding door het aannemen van nieuwe vrijwillige groene boa’s;
 
@@ -124,7 +124,7 @@ Niet in aanmerking voor subsidie komen de kosten:
 
 - b. die zijn gemaakt na 31 december van het kalenderjaar waarvoor subsidie wordt aangevraagd;
 
-- c. waarvoor reeds aan de werkgever subsidie is verstrekt door een bestuursorgaan of de Europese Commissie voor het geheel of een gedeelte van de kosten zoals omschreven in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0050265&paragraaf=3&artikel=5&z=2024-10-08&g=2024-01-01). In dat geval wordt slechts een zodanig bedrag aan subsidie verstrekt dat het totale bedrag aan subsidies niet meer bedraagt dan maximaal 100 procent van de werkelijk gemaakte kosten.
+- c. waarvoor reeds aan de werkgever subsidie is verstrekt door een bestuursorgaan of de Europese Commissie voor het geheel of een gedeelte van de kosten zoals omschreven in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0050265&paragraaf=3&artikel=5&z=2024-10-08&g=2024-10-08). In dat geval wordt slechts een zodanig bedrag aan subsidie verstrekt dat het totale bedrag aan subsidies niet meer bedraagt dan maximaal 100 procent van de werkelijk gemaakte kosten.
 
 #### § 4. Subsidieplafond en verdeelsystematiek
 
@@ -150,7 +150,7 @@ Niet in aanmerking voor subsidie komen de kosten:
 
 3. Indien de verleende subsidie tussen de € 25.000 en € 125.000 bedraagt, wordt een aanvraag tot subsidievaststelling uiterlijk op 1 april volgend op het kalenderjaar waarvoor de subsidie is toegekend, met gebruikmaking van het daartoe beschikbaar gestelde formulier, ingediend bij de minister. De minister stelt de subsidie vast binnen 22 weken na ontvangst van de aanvraag, dan wel binnen 22 weken nadat de termijn voor het indienen van de aanvraag tot vaststelling is verstreken.
 
-4. Indien de verleende subsidie € 125.000 of meer bedraagt, wordt een aanvraag tot subsidievaststelling uiterlijk op 1 juli volgend op het kalenderjaar waarvoor de subsidie is toegekend, met gebruikmaking van het daartoe beschikbaar gestelde formulier zoals bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050265&paragraaf=2&artikel=3&z=2024-10-08&g=2024-01-01), van deze regeling, ingediend bij de minister. De minister stelt de subsidie vast binnen 22 weken na ontvangst van de aanvraag, dan wel binnen 22 weken nadat de termijn voor het indienen van de aanvraag tot vaststelling is verstreken.
+4. Indien de verleende subsidie € 125.000 of meer bedraagt, wordt een aanvraag tot subsidievaststelling uiterlijk op 1 juli volgend op het kalenderjaar waarvoor de subsidie is toegekend, met gebruikmaking van het daartoe beschikbaar gestelde formulier zoals bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050265&paragraaf=2&artikel=3&z=2024-10-08&g=2024-10-08), van deze regeling, ingediend bij de minister. De minister stelt de subsidie vast binnen 22 weken na ontvangst van de aanvraag, dan wel binnen 22 weken nadat de termijn voor het indienen van de aanvraag tot vaststelling is verstreken.
 
 5. De aanvraag tot subsidievaststelling bevat:
 
