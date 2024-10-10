@@ -4,7 +4,7 @@ identifier: "BWBR0048571"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-05-28"
-last_updated: "2023-12-01"
+last_updated: "2024-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048571"
 soort: "ministeriele-regeling"
@@ -74,9 +74,9 @@ Deze regeling heeft tot doel om de ontvangers en de deelnemers aan de betreffend
 
 - a. voor het jaar 2023: € 9.254.404;
 
-- b. voor het jaar 2024: € 19.555.987;
+- b. voor het jaar 2024: € 31.819.687;
 
-- c. voor het jaar 2025: € 10.892.413.
+- c. voor het jaar 2025: € 16.932.413.
 
 Deze beschikbare bedragen zijn inclusief omzetbelasting.
 
@@ -126,7 +126,7 @@ De ontvangers en de andere decentrale overheden van een samenwerkingsregio legge
 
 ##### Artikel 8. Vaststelling
 
-De minister stelt de specifieke uitkering vast uiterlijk op 31 december van het jaar waarin de laatste verantwoording, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048571&artikel=7&z=2023-12-01&g=2023-12-01), heeft plaatsgevonden.
+De minister stelt de specifieke uitkering vast uiterlijk op 31 december van het jaar waarin de laatste verantwoording, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048571&artikel=7&z=2024-10-10&g=2024-10-10), heeft plaatsgevonden.
 
 ##### Artikel 9. Evaluatieverslag
 
@@ -175,17 +175,17 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - f. het bankrekeningnummer waarop de specifieke uitkering dient te worden gestort.
 
-## Bijlage, behorend bij [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048571&artikel=4&z=2023-12-01&g=2023-12-01)
+## Bijlage, behorend bij [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048571&artikel=4&z=2024-10-10&g=2024-10-10)
 
-Maximale bedragen per ontvanger, inclusief omzetbelasting, als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048571&artikel=4&z=2023-12-01&g=2023-12-01)
+Maximale bedragen per ontvanger, inclusief omzetbelasting, als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048571&artikel=4&z=2024-10-10&g=2024-10-10)
 
 | Ontvanger | 2023 | 2024 | 2025 |
 | --- | --- | --- | --- |
-| Provincie Noord-Holland | € 1.656.266 | € 2.861.100 | € 2.080.000 |
-| Provincie Fryslân | € 1.825.933 | € 3.353.200 | € 2.080.000 |
-| Provincie Zeeland | € 1.841.312 | € 3.332.300 | € 492.413 |
-| Provincie Gelderland | € 2.063.873 | € 3.109.739 | € 2.080.000 |
-| Provincie Noord-Brabant | € 1.076.425 | € 4.549.648 | € 2.080.000 |
-| Gemeente Utrecht | € 790.595 | € 2.350.000 | € 2.080.000 |
+| Provincie Noord-Holland | € 1.656.266 | € 4.906.600 | € 3.080.000 |
+| Provincie Fryslân | € 1.825.933 | € 5.398.700 | € 3.080.000 |
+| Provincie Zeeland | € 1.841.312 | € 5.368.500 | € 1.492.413 |
+| Provincie Gelderland | € 2.063.873 | € 5.155.239 | € 3.080.000 |
+| Provincie Noord-Brabant | € 1.076.425 | € 6.595.148 | € 3.080.000 |
+| Gemeente Utrecht | € 750.595 | € 4.395.500 | € 3.120.000 |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
