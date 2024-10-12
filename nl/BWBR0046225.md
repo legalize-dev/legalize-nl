@@ -4,7 +4,7 @@ identifier: "BWBR0046225"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-02-06"
-last_updated: "2024-09-01"
+last_updated: "2024-10-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046225"
 soort: "ministeriele-regeling"
@@ -154,11 +154,13 @@ entry_into_force: "2022-01-22"
 
 ##### Artikel 4
 
-Aan de Chief Nature and Environment Officer, Chief Veterinary Inspector, de Chief Food Safety Officer, de Director National Plant Protection Organisation, de senior inspecteurs bij de divisie Veterinair en Import en de afdeling Certificeren op afstand, de inspecteurs van de afdeling Dier, de inspecteurs van de afdeling Plant, vis, EU en natuur en de liaison agressie en geweld wordt, ieder voor zich, ondermandaat en machtiging verleend voor aangelegenheden op hun werkterrein.
+Aan de Chief Nature and Environment Officer, Chief Veterinary Inspector, de Chief Food Safety Officer, de Director National Plant Protection Organisation, de inspecteurs bij de afdeling Import, bij de afdeling Exportcertificering op locatie, bij de afdeling Toezicht Pluimvee en bij de afdeling Toezicht Roodvlees, de senior inspecteurs bij de afdeling Exportcertificering op afstand, de inspecteurs van de afdeling Dier, de inspecteurs van de afdeling Plant, vis, EU en natuur en de liaison agressie en geweld wordt, ieder voor zich, ondermandaat en machtiging verleend voor aangelegenheden op hun werkterrein.
 
 ##### Artikel 5
 
-Aan de directeur Strategie, het divisiehoofd Juridische zaken en de teamleiders Bezwaar en Beroep wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor het behandelen van bezwaar- en beroepschriften, waaronder begrepen het nemen van beslissingen op bezwaarschriften en het instellen en het voeren van beroep, hoger beroep en voorlopige voorziening procedures.
+1. Aan de directeur Strategie, het divisiehoofd Juridische Zaken en de teamleiders Bezwaar en Beroep wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor het nemen van beslissingen op bezwaarschriften, het instellen en intrekken van hoger beroep, het aantekenen van verzet en het aanvragen van voorlopige voorzieningen, alsmede het intrekken hiervan.
+
+2. Aan de directeur Strategie, het divisiehoofd Juridische Zaken, de teamleiders Bezwaar en Beroep en de juristen Bezwaar en Beroep, wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor het behandelen van bezwaar-, beroep- en hoger beroepschriften, verzetschriften en verzoeken om voorlopige voorzieningen, waaronder het indienen van verweerschriften en vertegenwoordiging op zitting.
 
 ##### Artikel 6
 
@@ -182,7 +184,7 @@ In dit besluit wordt verstaan onder:
 
 - b. **de plaatsvervangend inspecteur-generaal:** de plaatsvervangend inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit;
 
-- c. **de directeuren:** de directeur Strategie, de directeur Handhaven, de directeur Keuren en de directeur Interne Organisatie, de directeur Bureau Risicobeoordeling & Onderzoek, de directeur Inlichtingen & Opsporingsdienst van de Nederlandse Voedsel- en Warenautoriteit;
+- c. **de directeuren:** de directeur Strategie, de directeur Handhaven, de directeur Slachttoezicht, de directeur Handelstoezicht en de directeur Interne Organisatie, de directeur Bureau Risicobeoordeling & Onderzoek, de directeur Inlichtingen & Opsporingsdienst van de Nederlandse Voedsel- en Warenautoriteit;
 
 - d. **de plaatsvervangend directeur Interne Organisatie:** de plaatsvervangend directeur Interne Organisatie van de Nederlandse Voedsel- en Warenautoriteit;
 
@@ -202,15 +204,19 @@ In dit besluit wordt verstaan onder:
 
 - l. **de teamleiders Bezwaar en Beroep:** de teamleiders van team Bezwaar en Beroep 1 en van team Bezwaar en Beroep 2, van de divisie Juridische zaken, directie Strategie, van de Nederlandse Voedsel- en Warenautoriteit;
 
-- m. **de inspecteurs van de afdeling Dier:** de inspecteurs van de afdeling Dier van de divisie Inspectie, directie Handhaven van de Nederlandse Voedsel- en Warenautoriteit;
+- m. **de juristen Bezwaar en Beroep:** de juristen van team Bezwaar en Beroep 1 en van team Bezwaar en Beroep 2, van de divisie Juridische Zaken, directie Strategie, van de Nederlandse Voedsel- en Warenautoriteit;
 
-- n. **de inspecteurs van de afdeling Plant, vis, EU en natuur:** de inspecteurs van de afdeling Plant, vis, EU en natuur van de divisie Inspectie, directie Handhaven van de Nederlandse Voedsel- en Warenautoriteit;
+- n. **de inspecteurs van de afdeling Dier:** de inspecteurs van de afdeling Dier van de divisie Inspectie, directie Handhaven van de Nederlandse Voedsel- en Warenautoriteit;
 
-- o. **de senior inspecteurs bij de divisie Veterinair en Import en de afdeling Certificeren op afstand:** senior inspecteurs bij de divisie Veterinair en Import en de afdeling Certificeren op afstand die toezichthoudend dierenarts, dan wel senior toezichthoudend dierenarts zijn;
+- o. **de inspecteurs van de afdeling Plant, vis, EU en natuur:** de inspecteurs van de afdeling Plant, vis, EU en natuur van de divisie Inspectie, directie Handhaven van de Nederlandse Voedsel- en Warenautoriteit;
 
-- p. **de liaison agressie en geweld:** de liaison agressie en geweld van de Nederlandse Voedsel- en Warenautoriteit;
+- p. **de inspecteurs bij de afdeling Import, bij de afdeling Exportcertificering op locatie, bij de afdeling Toezicht Pluimvee en bij de afdeling toezicht Roodvlees:** de inspecteurs en senior inspecteurs bij de afdeling Import bij de directie Handelstoezicht, bij de afdeling Exportcertificering op locatie bij de directie Handelstoezicht, bij de afdeling Toezicht Pluimvee bij de directie Slachttoezicht en bij de afdeling Toezicht Roodvlees bij de directie Slachttoezicht;
 
-- q. **CJIB:** Centraal Justitieel Incassobureau als bedoeld in [artikel 2, derde lid, onderdeel b, onder 1° van het Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=2).
+- q. **de senior inspecteurs bij de afdeling Exportcertificering op afstand:** de senior inspecteurs bij de afdeling Exportcertificering op afstand bij de directie Handelstoezicht die toezichthoudend dierenarts, dan wel senior toezichthoudend dierenarts zijn;
+
+- r. **de liaison agressie en geweld:** de liaison agressie en geweld van de Nederlandse Voedsel- en Warenautoriteit;
+
+- s. **CJIB:** Centraal Justitieel Incassobureau als bedoeld in [artikel 2, derde lid, onderdeel b, onder 1° van het Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=2).
 
 #### § 2. Taakverdeling
 
@@ -222,7 +228,9 @@ In dit besluit wordt verstaan onder:
 
 2. De uit dit besluit voor de directeur Strategie voortvloeiende bevoegdheden gaan ingeval van afwezigheid over op zijn plaatsvervanger.
 
-3. De uit dit besluit voor de Chief Nature and Environment Officer de Chief Veterinary Inspector, de Chief Food Safety Officer, de Director National Plant Protection Organisation voortvloeiende bevoegdheden gaan in geval van afwezigheid, ieder voor zich, over op zijn plaatsvervanger, zijnde één van de in dit lid genoemde functionarissen.
+3. De uit dit besluit voor de directeur Handelstoezicht en de directeur Slachttoezicht, voortvloeiende bevoegdheden gaan in geval van afwezigheid, ieder voor zich, over op zijn plaatsvervanger, zijnde de andere in dit lid genoemde functionaris.
+
+4. De uit dit besluit voor de Chief Nature and Environment Officer de Chief Veterinary Inspector, de Chief Food Safety Officer, de Director National Plant Protection Organisation voortvloeiende bevoegdheden gaan in geval van afwezigheid, ieder voor zich, over op zijn plaatsvervanger, zijnde één van de in dit lid genoemde functionarissen.
 
 #### § 4. Slotbepalingen
 
@@ -236,7 +244,7 @@ Het [Besluit ondermandaat, volmacht en machtiging van de inspecteur-generaal van
 
 ##### Artikel 10
 
-Dit besluit treedt in werking met ingang van de dag na de datum van publicatie in de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 juli 2020, en werkt ten aanzien van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046225&paragraaf=2&artikel=3&z=2024-10-12&g=2024-09-01) terug tot 1 januari 2019.
+Dit besluit treedt in werking met ingang van de dag na de datum van publicatie in de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 juli 2020, en werkt ten aanzien van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046225&paragraaf=2&artikel=3&z=2024-10-12&g=2024-10-12) terug tot 1 januari 2019.
 
 ##### Artikel 11
 
