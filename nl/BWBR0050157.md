@@ -4,7 +4,7 @@ identifier: "BWBR0050157"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-10-12"
-last_updated: "2024-08-20"
+last_updated: "2024-10-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050157"
 soort: "ministeriele-regeling"
@@ -46,9 +46,9 @@ In dit besluit wordt onder regeling de [Subsidieregeling grootschalige productie
 
 ##### Artikel 2. Subsidieplafond en aanvraagperiode 2024
 
-1. Het subsidieplafond voor het verlenen van subsidie voor de realisatie van een waterstofproductie-installatie en de productie van volledig hernieuwbare waterstof met die waterstofproductie-installatie op grond van [artikel 2.1, derde lid van de regeling](onbekend), die wordt aangevraagd in de periode van 15 oktober 2024, 9:00 uur, tot en met 31 oktober 2024, 17:00 uur, wordt vastgesteld op € 998.330.000.
+1. Het subsidieplafond voor het verlenen van subsidie voor de realisatie van een waterstofproductie-installatie en de productie van volledig hernieuwbare waterstof met die waterstofproductie-installatie op grond van [artikel 2.1, derde lid van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0050156&artikel=2.1), die wordt aangevraagd in de periode van 15 oktober 2024, 9:00 uur, tot en met 28 november 2024, 17:00 uur, wordt vastgesteld op € 998.330.000.
 
-2. Het percentage dat ten hoogste per subsidieontvanger kan worden verstrekt, bedoeld in [artikel 2.1, derde lid, van de regeling](onbekend), is 50 procent van het subsidieplafond, bedoeld in het eerste lid.
+2. Het percentage dat ten hoogste per subsidieontvanger kan worden verstrekt, bedoeld in [artikel 2.1, derde lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0050156&artikel=2.1), is 50 procent van het subsidieplafond, bedoeld in het eerste lid.
 
 ##### Artikel 3. Vaststelling voorlopig correctiebedrag 2024
 
@@ -62,7 +62,7 @@ Het voorlopige correctiebedrag, bedoeld in [artikel 6.13, vierde lid, van de reg
 
 ##### Artikel 4. Vaststelling ondergrens correctiebedrag 2024
 
-De ondergrens van het correctiebedrag per kg waterstof, bedoeld in [artikel 3.11, tweede lid, van de regeling](onbekend), wordt voor aanvragen als bedoeld in [artikel 2.1 van de regeling](onbekend) die zijn ingediend in de periode, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050157&artikel=2&z=2024-08-20&g=2024-08-20), en voor de toepassing van de [artikelen 6.5](onbekend), [6.12, derde lid](onbekend), en [6.13, derde lid, van de regeling](onbekend) voor subsidies die zijn verstrekt naar aanleiding van de hiervoor bedoelde aanvragen in de hiervoor bedoelde periode, vastgesteld op € 1,7997/kg waterstof.
+De ondergrens van het correctiebedrag per kg waterstof, bedoeld in [artikel 3.11, tweede lid, van de regeling](onbekend), wordt voor aanvragen als bedoeld in [artikel 2.1 van de regeling](onbekend) die zijn ingediend in de periode, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050157&artikel=2&z=2024-10-12&g=2024-10-12), en voor de toepassing van de [artikelen 6.5](onbekend), [6.12, derde lid](onbekend), en [6.13, derde lid, van de regeling](onbekend) voor subsidies die zijn verstrekt naar aanleiding van de hiervoor bedoelde aanvragen in de hiervoor bedoelde periode, vastgesteld op € 1,7997/kg waterstof.
 
 ##### Artikel 5. Inwerkingtreding
 
