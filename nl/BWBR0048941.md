@@ -4,7 +4,7 @@ identifier: "BWBR0048941"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-10-12"
-last_updated: "2024-09-01"
+last_updated: "2024-10-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048941"
 soort: "ministeriele-regeling"
@@ -50,15 +50,17 @@ In dit besluit wordt verstaan onder:
 
 - e. **de teamleiders van de Divisie Juridische Zaken:** de teamleiders van de teams van de Divisie Juridische Zaken, directie Strategie, van de Nederlandse Voedsel-en Warenautoriteit;
 
-- f. **de inspecteurs van de afdeling Importkeuring:** de assistent- inspecteurs, de inspecteurs, de senior inspecteurs, bij de afdeling Importkeuring bij de Divisie Veterinair en Import, directie Keuren, van de Nederlandse Voedsel- en Warenautoriteit;
+- f. **de inspecteurs van de afdeling Import:** de assistent- inspecteurs, de inspecteurs, de senior inspecteurs, bij de afdeling Import bij de directie Handelstoezicht, van de Nederlandse Voedsel- en Warenautoriteit;
 
-- g. **het COKZ:** de stichting Controle Orgaan Kwaliteits Zaken;
+- g. **de medewerkers bij de afdeling Exportcertificering op afstand:** de senior inspecteurs en overige certificerende functionarissen bij de afdeling Exportcertificering op afstand bij de directie Handelstoezicht;
 
-- h. **verordening (EG) 853/2004:** [Verordening (EG) nr. 853/2004](32004R0853) van het Europees parlement en de Raad van 29 april 2004 houdende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (PbEU 2004, L 139);
+- h. **het COKZ:** de stichting Controle Orgaan Kwaliteits Zaken;
 
-- i. **de inspecteurs van de afdeling Consument:** de inspecteurs en senior inspecteurs van de afdeling Consument van de Divisie Inspectie, directie Handhaven, van de Nederlandse Voedsel- en Warenautoriteit;
+- i. **verordening (EG) 853/2004:** [Verordening (EG) nr. 853/2004](32004R0853) van het Europees parlement en de Raad van 29 april 2004 houdende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (PbEU 2004, L 139);
 
-- j. **de Minister:** de Minister van Volksgezondheid, Welzijn en Sport of de Minister voor Langdurige Zorg en Sport.
+- j. **de inspecteurs van de afdeling Consument:** de inspecteurs en senior inspecteurs van de afdeling Consument van de Divisie Inspectie, directie Handhaven, van de Nederlandse Voedsel- en Warenautoriteit;
+
+- k. **de Minister:** de Minister van Volksgezondheid, Welzijn en Sport.
 
 ##### Artikel 2
 
@@ -70,7 +72,9 @@ In dit besluit wordt verstaan onder:
 
 - c. de teamleiders van de divisie Juridische Zaken;
 
-- d. de inspecteurs van de afdeling Importkeuring.
+- d. de inspecteurs van de afdeling Import;
+
+- e. de medewerkers bij de afdeling Exportcertificering op afstand.
 
 2. De uit dit besluit voor de Chief Food Safety Officer, de Chief Product Safety Officer en de Chief Veterinary Inspector voortvloeiende bevoegdheden gaan in geval van afwezigheid, ieder voor zich, over op zijn plaatsvervanger, zijnde één van de in dit lid genoemde functionarissen.
 
@@ -96,7 +100,7 @@ De volgende besluiten worden ingetrokken:
 
 ##### Artikel 6
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt ten aanzien van [artikel 2, aanhef en onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0048941&artikel=2&z=2023-11-25&g=2024-09-01), terug tot 14 december 2019.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt ten aanzien van [artikel 2, aanhef en onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0048941&artikel=2&z=2024-10-12&g=2024-10-12), terug tot 14 december 2019.
 
 ##### Artikel 7
 
