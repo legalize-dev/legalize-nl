@@ -4,7 +4,7 @@ identifier: "BWBR0049026"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-16"
-last_updated: "2024-07-09"
+last_updated: "2024-10-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049026"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ In dit besluit wordt verstaan onder:
 
 - –. B. (Bilal) el Allouchi
 
-- –. E.G. (Elija) Alvares
+- –. E.G. (Elijah) Alvares
 
 - –. C.T. (Chinyere) Aronu
 
@@ -78,6 +78,8 @@ In dit besluit wordt verstaan onder:
 
 - –. N. (Noa) Dunnewind
 
+- –. J. (Jan) Faber, vanaf 1 juni 2024
+
 - –. P.A.J. (Pieter) Folkeringa
 
 - –. G.E. (Rochelle) Heerema-Richardson
@@ -96,9 +98,13 @@ In dit besluit wordt verstaan onder:
 
 - –. A.E.M. (Djela) Breinburg-Maduro
 
+- –. H.A.M (Hans) Migchielsen, vanaf 1 juni 2024
+
 - –. S. (Salwa) Ringim Mohammed
 
 - –. M. (Mourad) El Moussati
+
+- –. B.L. (Boris) Odinot, vanaf 1 juni 2024
 
 - –. K. (Kirsten) Ottens
 
@@ -107,6 +113,8 @@ In dit besluit wordt verstaan onder:
 - –. R.B.M.S. (Rhobynn) van Rossen
 
 - –. M. (Marit) Scheers
+
+- –. S.A.H (Ali) Shah, vanaf 1 juni 2024
 
 - –. F.A. (Femke) Soethout
 
@@ -118,11 +126,15 @@ In dit besluit wordt verstaan onder:
 
 - –. N.F. (Noraly) van Tinteren
 
-- –. J.J.B. (Jacqueline) van der Velden
+- –. J.J.B. (Jacqueline) van der Velden, tot 17 juni 2024
 
 - –. C.A.G.M. (Corinne) Vellekoop
 
 - –. M.F.G. (Matthijs) Verbeek
+
+- –. P. (Anna) Versteegh, vanaf 1 juni 2024
+
+- –. E. (Evelien) Wieringa, vanaf 1 juni 2024
 
 - –. L. (Lanja) van Wingerden
 
