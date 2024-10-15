@@ -4,7 +4,7 @@ identifier: "BWBR0036773"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-10-17"
-last_updated: "2023-07-22"
+last_updated: "2024-10-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036773"
 soort: "zbo"
@@ -160,9 +160,9 @@ Het bestuur verstrekt subsidies voor het verlenen van een opdracht tot het verva
 
 1. Een subsidie kan worden aangevraagd door een instelling die een compositie of libretto wil laten vervaardigen.
 
-2. Een aanvrager kan voor maximaal drie werken per jaar een aanvraag indienen. Een niet-gehonoreerde aanvraag mag eenmaal opnieuw worden ingediend mits aan de andere vereisten wordt voldaan.
+2. Een aanvrager kan voor maximaal drie werken per jaar een aanvraag indienen.
 
-3. Een aanvraag kan niet worden ingediend als de instelling op het moment van indienen reeds subsidie ontvangt voor het verstrekken van een reeks opdrachten als bedoeld in [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036773&paragraaf=4&z=2023-07-22&g=2023-07-22).
+3. Een aanvraag kan niet worden ingediend als de instelling op het moment van indienen reeds subsidie ontvangt voor het verstrekken van een reeks opdrachten als bedoeld in [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036773&paragraaf=4&z=2024-10-15&g=2024-10-15).
 
 ##### Artikel 3.3. Subsidieaanvraag
 
