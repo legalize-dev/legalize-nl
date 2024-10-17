@@ -4,7 +4,7 @@ identifier: "BWBR0022396"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-10-17"
-last_updated: "2018-10-01"
+last_updated: "2024-10-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022396"
 soort: "ministeriele-regeling"
@@ -52,6 +52,8 @@ Vervallen
 
 - –. De Biesbosch;
 
+- –. Drentsche Aa;
+
 - –. Drents-Friese Wold;
 
 - –. Duinen van Texel;
@@ -62,13 +64,9 @@ Vervallen
 
 - –. Lauwersmeer;
 
-- –. De Loonse en Drunense Duinen;
-
 - –. De Maasduinen;
 
 - –. De Meinweg;
-
-- –. Nationaal beek- en esdorpenlandschap Drentsche Aa;
 
 - –. Nieuw Land;
 
@@ -81,6 +79,8 @@ Vervallen
 - –. Utrechtse Heuvelrug;
 
 - –. Weerribben-Wieden;
+
+- –. Van Gogh;
 
 - –. Zuid-Kennemerland.
 
@@ -134,39 +134,7 @@ Vervallen
 
 ##### Artikel 13
 
-De volgende regelingen worden ingetrokken:
-
-- a. [Besluit aanwijzing nationaal park De Alde Feanen](https://wetten.overheid.nl/jci1.3:c:BWBR0019744);
-
-- b. [Besluit aanwijzing nationaal park De Biesbosch](https://wetten.overheid.nl/jci1.3:c:BWBR0006508);
-
-- c. [Regeling aanwijzing nationaal park Drents-Friese Wold;](https://wetten.overheid.nl/jci1.3:c:BWBR0011550)
-
-- d. [Regeling aanwijzing nationaal park Duinen van Texel](https://wetten.overheid.nl/jci1.3:c:BWBR0013644);
-
-- e. [Regeling aanwijzing nationaal park Dwingelderveld](https://wetten.overheid.nl/jci1.3:c:BWBR0005168);
-
-- f. [Regeling aanwijzing nationaal park de Groote Peel](https://wetten.overheid.nl/jci1.3:c:BWBR0006031);
-
-- g. [Regeling aanwijzing nationaal park De Hamert](https://wetten.overheid.nl/jci1.3:c:BWBR0008300);
-
-- h. [Besluit aanwijzing nationaal park Lauwersmeer](https://wetten.overheid.nl/jci1.3:c:BWBR0015857);
-
-- i. [Regeling aanwijzing nationaal park De Loonse en Drunense Duinen](https://wetten.overheid.nl/jci1.3:c:BWBR0013557);
-
-- j. [Regeling aanwijzing nationaal park De Meinweg](https://wetten.overheid.nl/jci1.3:c:BWBR0007423);
-
-- k. [Regeling aanwijzing nationaal park Nationaal beek- en esdorpenlandschap Drentsche Aal.](https://wetten.overheid.nl/jci1.3:c:BWBR0014354);
-
-- l. [Regeling aanwijzing nationaal park Oosterschelde](https://wetten.overheid.nl/jci1.3:c:BWBR0013675);
-
-- m. [Regeling aanwijzing nationaal park Sallandse Heuvelrug](https://wetten.overheid.nl/jci1.3:c:BWBR0017297);
-
-- n. [Regeling aanwijzing nationaal park Schiermonnikoog](https://wetten.overheid.nl/jci1.3:c:BWBR0004588);
-
-- o. [Regeling aanwijzing nationaal park Utrechtse Heuvelrug](https://wetten.overheid.nl/jci1.3:c:BWBR0015721);
-
-- p. [Regeling aanwijzing nationaal park Zuid-Kennemerland](https://wetten.overheid.nl/jci1.3:c:BWBR0007654).
+Vervallen
 
 ##### Artikel 14
 
@@ -178,7 +146,7 @@ Deze regeling wordt aangehaald als: Regeling aanwijzing nationale parken.
 
 ## Bijlage
 
-## Bijlage 2
+## Bijlage
 
 Bijlage, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022396&paragraaf=1&artikel=1&z=2009-01-01&g=2009-01-01), [artikel 5, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0022396&paragraaf=2&artikel=5&z=2009-01-01&g=2009-01-01), en [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022396&paragraaf=2&artikel=8&z=2009-01-01&g=2009-01-01), van de regeling.
 
@@ -329,5 +297,17 @@ Aangewezen per 1 september 2007
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022396&bijlage=1&z=2007-09-01&g=2007-09-01) die ter inzage wordt gelegd bij het Ministerie van Landbouw, Natuur en Voedselkwaliteit, Bezuidenhoutseweg 73 in ’s-Gravenhage.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022396&bijlage=1&z=2009-01-01&g=2009-01-01) die ter inzage wordt gelegd bij het Ministerie van Landbouw, Natuur en Voedselkwaliteit, Bezuidenhoutseweg 73 in ’s-Gravenhage.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van bijlage 1 die ter inzage wordt gelegd bij het Ministerie van Landbouw, Natuur en Voedselkwaliteit, Bezuidenhoutseweg 73 in ’s-Gravenhage.
+
+##### Artikel 1a
+
+Dit besluit berust op [artikel 2.44, derde lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.44).
+
+#### § 2. Het overlegorgaan
+
+#### § 3. Nationaal park in oprichting
+
+#### § 4. Slotbepalingen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van bijlage 1 die ter inzage wordt gelegd bij het Ministerie van Landbouw, Natuur en Voedselkwaliteit, Bezuidenhoutseweg 73 in ’s-Gravenhage.
