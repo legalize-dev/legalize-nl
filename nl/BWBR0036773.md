@@ -4,7 +4,7 @@ identifier: "BWBR0036773"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-10-17"
-last_updated: "2024-10-15"
+last_updated: "2024-10-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036773"
 soort: "zbo"
@@ -114,41 +114,41 @@ Het bestuur kan, onverminderd het bepaalde in [artikel 4:35 van de Algemene wet 
 
 - h). als de aanvraag niet voldoet aan het bepaalde in deze regeling.
 
-#### Paragraaf 2. : Werkbijdrage muziekauteur
+#### Paragraaf 2. : Ontwikkelbeurs muziekauteur
 
 ##### Artikel 2.1. Doel
 
-Het bestuur verstrekt een werkbijdrage muziekauteur aan muziekauteurs die willen investeren in de artistieke kwaliteit van hun werkpraktijk om zo de ontwikkeling binnen de podiumkunsten te stimuleren.
+Het bestuur verstrekt een ontwikkelbeurs aan muziekauteurs die willen investeren in de artistieke ontwikkeling van hun werkpraktijk. De uitkomst daarvan in de vorm van nieuwe composities moet leiden tot een artistieke verdieping of verbreding van de praktijk van de muziekauteur. Daarbij draagt de uitkomst bij aan een verrijking van het bredere muziekveld.
 
 ##### Artikel 2.2. Aanvrager
 
-1. Een werkbijdrage muziekauteur kan worden aangevraagd door een muziekauteur die aantoonbaar geïntegreerd is in de professionele podiumkunstpraktijk in Nederland.
+1. Een ontwikkelbeurs muziekauteur kan worden aangevraagd door een muziekauteur die als zodanig ten minste twee jaar actief en aantoonbaar geïntegreerd is in de professionele podiumkunstpraktijk in Nederland.
 
-2. Een aanvrager mag op het moment van indiening van de aanvraag geen kunstvakopleiding volgen.
+2. Een aanvrager mag op het moment van de uiterste indiendatum van een aanvraagronde geen kunstvakopleiding volgen.
 
-3. Een aanvrager kan maximaal een keer per jaar een werkbijdrage muziekauteur ontvangen.
+3. Een aanvrager kan maximaal een keer per kalenderjaar een aanvraag indienen.
+
+4. Een aanvrager kan maximaal een keer per twee kalenderjaren een ontwikkelbeurs muziekauteur toegekend krijgen.
 
 ##### Artikel 2.3. Subsidieaanvraag
 
-1. Een aanvraag heeft betrekking op een werkplan van een muziekauteur die nieuw werk wil ontwikkelen.
+1. Een aanvraag heeft betrekking op een ontwikkelingstraject van de muziekauteur met een looptijd van maximaal twee jaar en nieuw werk als resultaat.
 
-2. De werkbijdrage muziekauteur is een tegemoetkoming in de investering van tijd, materialen en diensten van derden en kan gebruikt worden voor kosten die verband houden met de ontwikkeling van nieuw werk.
+2. De ontwikkelbeurs muziekauteur wordt gebruikt voor de investering van tijd, materialen en mogelijke diensten van derden die direct verband houden met het ontwikkelingstraject en het realiseren van nieuw werk.
 
 ##### Artikel 2.4. Beoordeling
 
-Aanvragen worden beoordeeld aan de hand van de volgende criteria:
+1. Aanvragen worden beoordeeld aan de hand van de volgende criteria:
 
-- a. bijdrage die het plan levert aan de artistieke werkpraktijk van de aanvrager;
+- a. De bijdrage die het plan levert aan de ontwikkeling van de artistieke werkpraktijk van de aanvrager;
 
-- b. ondernemende houding van de aanvrager;
+- b. De betekenis van het resultaat van de activiteiten voor de podiumkunsten.
 
-- c. betekenis van het resultaat van de activiteiten voor de podiumkunsten in Nederland.
+2. Aanvullend kan in de beoordeling worden gekeken naar de bijdrage die aanvragen leveren aan de pluriformiteit van het podiumkunstenaanbod in Nederland.
 
 ##### Artikel 2.5. Hoogte subsidie
 
-1. Een werkbijdrage muziekauteur wordt verstrekt op basis van de omvang van de werkzaamheden.
-
-2. Het bestuur kan bepalen dat een subsidie nooit meer bedraagt dan een bepaald bedrag.
+Het bestuur kan bepalen dat de ontwikkelbeurs muziekauteur nooit meer bedraagt dan een bepaald bedrag.
 
 #### Paragraaf 3. : Subsidie voor het verlenen van een opdracht compositie en libretto
 
@@ -162,7 +162,7 @@ Het bestuur verstrekt subsidies voor het verlenen van een opdracht tot het verva
 
 2. Een aanvrager kan voor maximaal drie werken per jaar een aanvraag indienen.
 
-3. Een aanvraag kan niet worden ingediend als de instelling op het moment van indienen reeds subsidie ontvangt voor het verstrekken van een reeks opdrachten als bedoeld in [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036773&paragraaf=4&z=2024-10-15&g=2024-10-15).
+3. Een aanvraag kan niet worden ingediend als de instelling op het moment van indienen reeds subsidie ontvangt voor het verstrekken van een reeks opdrachten als bedoeld in [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036773&paragraaf=4&z=2024-10-17&g=2024-10-17).
 
 ##### Artikel 3.3. Subsidieaanvraag
 
