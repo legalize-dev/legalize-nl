@@ -4,7 +4,7 @@ identifier: "BWBR0048864"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-10-19"
-last_updated: "2023-12-01"
+last_updated: "2024-10-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048864"
 soort: "ministeriele-regeling"
@@ -70,31 +70,31 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Hoogte van de specifieke uitkering
 
-1. De hoogte van de specifieke uitkering bedraagt € 350.000 voor de:
+1. De hoogte van de specifieke uitkering bedraagt voor de:
 
-- a. gemeente Amsterdam ten behoeve van het NOVEX-gebied Verstedelijkingsgebied Metropoolregio Amsterdam;
+- a. gemeente Amsterdam: € 425.000 ten behoeve van het NOVEX-gebied Verstedelijkingsgebied Metropoolregio Amsterdam;
 
-- b. gemeente Utrecht ten behoeve van het NOVEX-gebied Verstedelijkingsgebied Utrecht-Amersfoort;
+- b. gemeente Utrecht: € 425.000 ten behoeve van het NOVEX-gebied Verstedelijkingsgebied Utrecht-Amersfoort;
 
-- c. provincie Gelderland ten behoeve van het NOVEX-gebied Gebied Arnhem-Nijmegen-Foodvalley;
+- c. provincie Gelderland: € 575.000 ten behoeve van het NOVEX-gebied Gebied Arnhem-Nijmegen-Foodvalley;
 
-- d. provincie Noord-Brabant ten behoeve van het NOVEX-gebied Stedelijk Brabant;
+- d. provincie Noord-Brabant: € 425.000 ten behoeve van het NOVEX-gebied Stedelijk Brabant;
 
-- e. provincie Noord-Holland ten behoeve van het NOVEX-gebied Regio Schiphol;
+- e. provincie Noord-Holland: € 425.000 ten behoeve van het NOVEX-gebied Regio Schiphol;
 
-- f. provincie Zuid-Holland ten behoeve van het NOVEX-gebied Verstedelijkingsgebied Zuidelijke Randstad.
+- f. provincie Zuid-Holland: € 425.000 ten behoeve van het NOVEX-gebied Verstedelijkingsgebied Zuidelijke Randstad;
 
-2. De hoogte van de specifieke uitkering, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048864&artikel=2&z=2023-12-01&g=2023-12-01), bedraagt € 500.000 voor de provincie Groningen, waarvan:
+- g. provincie Groningen: € 650.000, waarvan:
 
-- a. € 150.000 ten behoeve van het NOVEX-gebied Lelylijn; en
+- 1°. € 225.000 ten behoeve van het NOVEX-gebied Lelylijn; en
 
-- b. € 350.000 ten behoeve van het NOVEX-gebied Verstedelijkingsgebied Groningen-Assen.
+- 2°. € 425.000 ten behoeve van het NOVEX-gebied Verstedelijkingsgebied Groningen-Assen.
 
 ##### Artikel 4. Voorwaarden
 
 1. Alleen activiteiten die zijn uitgevoerd met ingang van 1 januari 2022 komen in aanmerking voor een specifieke uitkering.
 
-2. De aangewezen gemeenten en provincies besteden elk het volledige bedrag van de ontvangen specifieke uitkering uiterlijk op 31 december 2026 aan het doel en de activiteiten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048864&artikel=2&z=2023-12-01&g=2023-12-01).
+2. De aangewezen gemeenten en provincies besteden elk het volledige bedrag van de ontvangen specifieke uitkering uiterlijk op 31 december 2026 aan het doel en de activiteiten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048864&artikel=2&z=2024-10-19&g=2024-10-19).
 
 ##### Artikel 5. Voorschot
 
@@ -106,7 +106,7 @@ De aangewezen gemeenten en provincies leggen verantwoording af over de besteding
 
 ##### Artikel 7. Terugvordering
 
-1. Als uit de eindverantwoordingsinformatie blijkt dat de specifieke uitkering onrechtmatig is besteed gelet op het doel en de activiteiten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048864&artikel=2&z=2023-12-01&g=2023-12-01), of onvolledig is besteed binnen de daartoe gestelde termijn, kan dit ter hoogte van het niet of onrechtmatig bestede deel door de Minister worden teruggevorderd.
+1. Als uit de eindverantwoordingsinformatie blijkt dat de specifieke uitkering onrechtmatig is besteed gelet op het doel en de activiteiten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048864&artikel=2&z=2024-10-19&g=2024-10-19), of onvolledig is besteed binnen de daartoe gestelde termijn, kan dit ter hoogte van het niet of onrechtmatig bestede deel door de Minister worden teruggevorderd.
 
 2. De Minister doet binnen een jaar na ontvangst van de eindverantwoordingsinformatie mededeling van de terugvordering aan de ontvanger van de specifieke uitkering.
 
