@@ -4,7 +4,7 @@ identifier: "BWBR0008023"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2024-10-01"
+last_updated: "2024-10-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008023"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ Deze regeling treedt in werking met ingang van 1 juni 1996.
 
 Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 
-## Bijlage. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008023&artikel=1&z=2024-10-01&g=2024-10-01) van de Regeling maximumprijzen geneesmiddelen
+## Bijlage. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008023&artikel=1&z=2024-10-19&g=2024-10-19) van de Regeling maximumprijzen geneesmiddelen
 
 | **Productgroep** |   |   |   | **Maximumprijs** |
 | --- | --- | --- | --- | --- |
@@ -3156,7 +3156,6 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | **Productgroep** |   |   |   | **Maximumprijs** |
 | DABIGATRAN-110-MG-CAPSULE | DABIGATRAN-110-MG-CAPSULE |   |   | 0,743741 per stuk |
 | **Registratienummer** |   | **Artikelnaam** |   |   |
-| EU/1/22/1665/026 |   | Dabigatran etexilaat accord capsule 110mg |   |   |
 | 127298 |   | Dabigatran etexilaat sandoz capsule 110mg |   |   |
 | EU/1/08/442/006 |   | Pradaxa capsule 110mg |   |   |
 | EU/1/08/442/007 |   | Pradaxa capsule 110mg |   |   |
@@ -3171,7 +3170,6 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | **Productgroep** |   |   |   | **Maximumprijs** |
 | DABIGATRAN-150-MG-CAPSULE | DABIGATRAN-150-MG-CAPSULE |   |   | 0,743741 per stuk |
 | **Registratienummer** |   | **Artikelnaam** |   |   |
-| EU/1/22/1665/027 |   | Dabigatran etexilaat accord capsule 150mg |   |   |
 | 127299 |   | Dabigatran etexilaat sandoz capsule 150mg |   |   |
 | EU/1/08/442/011 |   | Pradaxa capsule 150mg |   |   |
 | EU/1/08/442/013 |   | Pradaxa capsule 150mg |   |   |
@@ -3205,7 +3203,6 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | **Productgroep** |   |   |   | **Maximumprijs** |
 | DABIGATRAN-75-MG-CAPSULE * | DABIGATRAN-75-MG-CAPSULE * |   |   | 0,852188 per stuk |
 | **Registratienummer** |   | **Artikelnaam** |   |   |
-| EU/1/22/1665/025 |   | Dabigatran etexilaat accord capsule 75mg |   |   |
 | 127297 |   | Dabigatran etexilaat sandoz capsule 75mg |   |   |
 | EU/1/08/442/002 |   | Pradaxa capsule 75mg |   |   |
 | EU/1/08/442/003 |   | Pradaxa capsule 75mg |   |   |
@@ -7661,7 +7658,6 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | **Productgroep** |   |   |   | **Maximumprijs** |
 | KETOCONAZOLE-20-MG/G-SHAMPOO | KETOCONAZOLE-20-MG/G-SHAMPOO | KETOCONAZOLE-20-MG/G-SHAMPOO |   | 0,070464 per ml |
 | **Registratienummer** |   | **Artikelnaam** |   |   |
-| 30871 |   | Ketoconazol double-e pharma shampoo 20mg/g |   |   |
 | 130248//30871 |   | Ketoconazol erc shampoo 20mg/g |   |   |
 | 131548//30871 |   | Ketoconazol medcor shampoo 20mg/g |   |   |
 |   |   |   |   |   |
