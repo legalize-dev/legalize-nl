@@ -4,7 +4,7 @@ identifier: "BWBR0038543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-23"
-last_updated: "2024-08-01"
+last_updated: "2024-10-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038543"
 soort: "ministeriele-regeling"
@@ -44,11 +44,11 @@ Besluit:
 
 ##### Artikel 1. Certificaten keuzedelen
 
-Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2024-08-01&g=2024-08-01) bij deze regeling.
+Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2024-10-19&g=2024-10-19) bij deze regeling.
 
 ##### Artikel 2. Certificaat voor beroepsgerichte onderdelen
 
-Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2024-08-01&g=2024-08-01).
+Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2024-10-19&g=2024-10-19).
 
 ##### Artikel 3. Inwerkingtreding
 
@@ -126,7 +126,7 @@ Er is een certificaat verbonden aan de volgende keuzedelen:
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=1&z=2024-08-01&g=2024-08-01)
+## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=1&z=2024-10-19&g=2024-10-19)
 
 | k-code | naam keuzedeel |
 | --- | --- |
@@ -451,10 +451,13 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 | **Certificaten voor keuzedelen vanaf augustus 2024** | **Certificaten voor keuzedelen vanaf augustus 2024** |
 | K1430 | Service en informatie in de bibliotheek |
 | K0644 | Verdieping Cytopathologie |
+|   |   |
+| **Certificaat voor keuzedelen vanaf oktober 2024** | **Certificaat voor keuzedelen vanaf oktober 2024** |
+| K1383 | Bewegend kind |
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=2&z=2024-08-01&g=2024-08-01)
+## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=2&z=2024-10-19&g=2024-10-19)
 
 | c-code | Naam certificaat | opleidingscode | naam kwalificatie |
 | --- | --- | --- | --- |
@@ -633,6 +636,12 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 | C0168 | Verzorgen van varkens (Versie 2) | 25986 | Vakbekwaam medewerker veehouderij |
 | C0169 | Voedselveiligheid in de productieketen – basis (Versie 2) | 25977 | Medewerker voeding, technologie en techniek |
 | C0170 | Voedselveiligheid in de productieketen – verdieping (Versie 2) | 25978 | Vakbekwaam medewerker voeding, technologie en techniek |
+|   |   |   |   |
+| **Certificaten voor beroepsgerichte onderdelen vanaf oktober 2024** | **Certificaten voor beroepsgerichte onderdelen vanaf oktober 2024** | **Certificaten voor beroepsgerichte onderdelen vanaf oktober 2024** | **Certificaten voor beroepsgerichte onderdelen vanaf oktober 2024** |
+| C0171 | (Ver)maken van kleding | 25689 | Basismedewerker fashion |
+| C0173 | Bewaken en optimaliseren versproductieproces | 25567 | Allround medewerker versindustrie |
+| C0174 | Leidinggeven in de versindustrie | 25566 | Productieleider versindustrie |
+| C0176 | Specialisatie dekvloeren | 25943 | Dekvloerenlegger |
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
