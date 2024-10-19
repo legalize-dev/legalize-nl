@@ -4,7 +4,7 @@ identifier: "BWBR0048130"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-10-19"
-last_updated: "2023-05-06"
+last_updated: "2024-10-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048130"
 soort: "zbo"
@@ -53,7 +53,7 @@ In deze beleidsregels wordt verstaan onder:
 
 - c. **gerechtigde:** persoon als bedoeld in [artikel 69, eerste, zeventiende of achttiende lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=69) die woont op het grondgebied van een van de lidstaten van de Europese Unie, een staat die partij is bij de overeenkomst betreffende de Europese Economische Ruimte, het Verenigd Koninkrijk of Zwitserland;
 
-- d. **polis:** restitutiepolis die de Onderlinge Waarborgmaatschappij Centrale Zorgverzekeraars Groep U.A. aanbiedt als een zorgverzekering, bedoeld in [artikel 1, onderdeel d, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1);
+- d. **polis:** zorgvariatiepolis die de Onderlinge Waarborgmaatschappij Centrale Zorgverzekeraars Groep U.A. aanbiedt als een zorgverzekering, bedoeld in [artikel 1, onderdeel d, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1);
 
 - e. **orgaan van de verblijfplaats:** orgaan van de verblijfplaats als bedoeld in artikel 1, onderdeel r, van de basisverordening;
 
@@ -81,7 +81,7 @@ Deze beleidsregels zijn van toepassing op het toekennen door het CAK van een ver
 
 3. Het CAK kent de vergoeding op grond van artikel 25, zesde lid, van de toepassingsverordening toe overeenkomstig het vierde lid aan een gerechtigde indien een gerechtigde akkoord gaat met vaststelling van deze wijze van de vergoeding.
 
-4. De vergoeding is gelijk aan de werkelijke kosten van de verleende zorg bij verblijf tot ten hoogste het bedrag dat overeenkomstig de polis zou zijn vergoed indien de zorg in Nederland zou zijn verleend, met dien verstande dat het verplicht eigen risico niet in mindering wordt gebracht op dat bedrag.
+4. De vergoeding is gelijk aan de werkelijke kosten van de verleende zorg bij tijdelijk verblijf tot ten hoogste het bedrag dat overeenkomstig de polis zou zijn vergoed indien de zorg in Nederland zou zijn verleend, met dien verstande dat het verplicht eigen risico als bedoeld in [artikel 19 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=19) niet in mindering wordt gebracht op dat bedrag en dat het bepaalde in [artikel 13, derde lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=13) evenmin wordt toegepast.
 
 5. Het CAK vraagt de Onderlinge Waarborgmaatschappij Centrale Zorgverzekeraars Groep U.A. advies over het bedrag dat overeenkomstig de polis zou zijn vergoed indien de zorg in Nederland zou zijn verleend.
 
@@ -93,7 +93,7 @@ Deze beleidsregels zijn van toepassing op het toekennen door het CAK van een ver
 
 - b. de kosten die het CAK op grond van artikel 26, zevende lid, van de toepassingsverordening verplicht is te vergoeden aan het orgaan van de verblijfplaats of aan de gerechtigde zelf, lager zijn dan het bedrag dat overeenkomstig de polis zou zijn vergoed indien de zorg in Nederland zou zijn verleend.
 
-2. [Artikel 3, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048130&artikel=3&z=2023-05-06&g=2023-05-06), is van overeenkomstige toepassing.
+2. [Artikel 3, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048130&artikel=3&z=2024-10-19&g=2024-10-19), is van overeenkomstige toepassing.
 
 ##### Artikel 5. Indienen declaraties
 
