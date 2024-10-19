@@ -4,7 +4,7 @@ identifier: "BWBR0045931"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-10-19"
-last_updated: "2022-12-03"
+last_updated: "2024-10-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045931"
 soort: "ministeriele-regeling"
@@ -68,23 +68,23 @@ De minister verstrekt een specifieke uitkering aan de aangewezen provincies ten 
 
 3. De specifieke uitkering, bedoeld in het eerste lid, bedraagt voor de:
 
-- a. provincie Noord-Holland: € 318.182 ten behoeve van het NOVI-gebied Amsterdam Noordzeekanaalgebied;
+- a. provincie Noord-Holland: € 443.182 ten behoeve van het NOVI-gebied Amsterdam Noordzeekanaalgebied;
 
-- b. provincie Utrecht: € 413.223 ten behoeve van het NOVI-gebied Het Groene Hart;
+- b. provincie Utrecht: € 638.223 ten behoeve van het NOVI-gebied Het Groene Hart;
 
-- c. provincie Limburg: € 801.653, waarvan:
+- c. provincie Limburg: € 1.101.653, waarvan:
 
-- 1°. € 289.256 ten behoeve van het NOVI-gebied Zuid-Limburg; en
+- 1°. € 364.256 ten behoeve van het NOVI-gebied Zuid-Limburg; en
 
-- 2°. € 512.397 ten behoeve van het NOVI-gebied De Peel;
+- 2°. € 737.397 ten behoeve van het NOVI-gebied De Peel;
 
-- d. provincie Zeeland: € 289.256 ten behoeve van het NOVI-gebied North Sea Port District;
+- d. provincie Zeeland: € 364.256 ten behoeve van het NOVI-gebied North Sea Port District;
 
-- e. provincie Zuid-Holland: € 289.256 ten behoeve van het NOVI-gebied Haventransitie Rotterdam;
+- e. provincie Zuid-Holland: € 364.256 ten behoeve van het NOVI-gebied Haventransitie Rotterdam;
 
-- f. provincie Groningen: € 289.256 ten behoeve van het NOVI-gebied Groningen; en
+- f. provincie Groningen: € 364.256 ten behoeve van het NOVI-gebied Groningen; en
 
-- g. provincie Overijssel: € 318.182 ten behoeve van het NOVI-gebied regio Zwolle.
+- g. provincie Overijssel: € 393.182 ten behoeve van het NOVI-gebied regio Zwolle.
 
 4. De specifieke uitkering wordt niet verstrekt voor BTW verschuldigd over kosten voor de uitvoering van projecten en werkzaamheden, bedoeld in het eerste lid, voor zover het bedrag van de BTW in aanmerking komt voor compensatie op grond van de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817) of voor zover de kosten in aanmerking komen voor aftrek op grond van de [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629).
 
@@ -92,7 +92,7 @@ De minister verstrekt een specifieke uitkering aan de aangewezen provincies ten 
 
 1. Alleen activiteiten die zijn uitgevoerd met ingang van 1 juli 2020 komen in aanmerking voor een specifieke uitkering.
 
-2. De provincie besteedt de specifieke uitkering volledig uiterlijk op 31 december 2025 aan de activiteiten waarvoor deze is verstrekt.
+2. De provincie besteedt de specifieke uitkering volledig uiterlijk op 31 december 2026 aan de activiteiten waarvoor deze is verstrekt.
 
 ##### Artikel 5. Wijze van betaling
 
