@@ -4,7 +4,7 @@ identifier: "BWBR0050315"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-10-22"
-last_updated: "2024-07-01"
+last_updated: "2024-10-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050315"
 soort: "zbo"
@@ -105,7 +105,7 @@ In dit bestuursreglement wordt verstaan onder:
 
 7. De leden van het directieberaad kunnen punten agenderen die op hun beleidsterrein liggen.
 
-8. Alvorens regelingen worden vastgesteld, waaronder de regelingen van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0050315&artikel=5&z=2024-10-22&g=2024-07-01) worden ze besproken in het directieberaad.
+8. Alvorens regelingen worden vastgesteld, waaronder de regelingen van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0050315&artikel=5&z=2024-10-22&g=2024-10-22) worden ze besproken in het directieberaad.
 
 9. De secretaris stelt, met instemming van de directeur-generaal, de agenda samen en draagt zorg voor de rondzending van de uitnodigingen, de agenda en overige voor de vergadering bestemde stukken.
 
@@ -245,7 +245,7 @@ In dit bestuursreglement wordt verstaan onder:
 
 - d. een lijst van de genomen beslissingen en actiepunten.
 
-4. Van de advisering over de punten genoemd in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050315&artikel=10&z=2024-10-22&g=2024-07-01), van dit bestuursreglement doet de raad van advies melding in zijn verslag als onderdeel van het jaarverslag van het CBS alsmede over andere punten waarover hij heeft geadviseerd.
+4. Van de advisering over de punten genoemd in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050315&artikel=10&z=2024-10-22&g=2024-10-22), van dit bestuursreglement doet de raad van advies melding in zijn verslag als onderdeel van het jaarverslag van het CBS alsmede over andere punten waarover hij heeft geadviseerd.
 
 5. De directeur-generaal stelt het jaarverslag als bedoeld in [artikel 53 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=53), vast na het advies van de raad van advies daarover.
 
@@ -283,9 +283,9 @@ In dit bestuursreglement wordt verstaan onder:
 
 7. De raad van advies stelt in elk geval een Audit Comité en een Commissie ICT in.
 
-8. De [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0050315&artikel=8&z=2024-10-22&g=2024-07-01), [9, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050315&artikel=9&z=2024-10-22&g=2024-07-01), [artikel 12, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050315&artikel=12&z=2024-10-22&g=2024-07-01) en [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0050315&artikel=13&z=2024-10-22&g=2024-07-01) van dit bestuursreglement zijn van overeenkomstige toepassing op de werkwijze van de adviescommissies, met dien verstande dat voorzitter en leden van de adviescommissies worden benoemd door de directeur-generaal op voordracht van de raad van advies.
+8. De [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0050315&artikel=8&z=2024-10-22&g=2024-10-22), [9, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050315&artikel=9&z=2024-10-22&g=2024-10-22), [artikel 12, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050315&artikel=12&z=2024-10-22&g=2024-10-22) en [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0050315&artikel=13&z=2024-10-22&g=2024-10-22) van dit bestuursreglement zijn van overeenkomstige toepassing op de werkwijze van de adviescommissies, met dien verstande dat voorzitter en leden van de adviescommissies worden benoemd door de directeur-generaal op voordracht van de raad van advies.
 
-9. [Artikel 11, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050315&artikel=11&z=2024-10-22&g=2024-07-01) van dit bestuursreglement is van toepassing op het Audit Comité.
+9. [Artikel 11, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050315&artikel=11&z=2024-10-22&g=2024-10-22) van dit bestuursreglement is van toepassing op het Audit Comité.
 
 ##### Artikel 16. Taakomschrijving
 
