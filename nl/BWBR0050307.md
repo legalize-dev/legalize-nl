@@ -4,7 +4,7 @@ identifier: "BWBR0050307"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-10-23"
-last_updated: "2024-01-02"
+last_updated: "2024-10-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050307"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. **commissie:** Opvolgingscommissie Dansen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050307&artikel=2&z=2024-10-23&g=2024-01-02);
+- b. **commissie:** Opvolgingscommissie Dansen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050307&artikel=2&z=2024-10-23&g=2024-10-23);
 
 - c. **ministerie:** Ministerie van Onderwijs, Cultuur en Wetenschap;
 
@@ -108,7 +108,7 @@ In dit besluit wordt verstaan onder:
 
 1. De voorzitter en de andere leden worden in een separaat benoemingsbesluit door de minister benoemd, dat in de Staatscourant zal worden gepubliceerd.
 
-2. Voorafgaand aan hun benoeming vullen alle (kandidaat)leden een belangenverklaring in, conform het model dat is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050307&bijlage=1&z=2024-10-23&g=2024-01-02) bij dit besluit.
+2. Voorafgaand aan hun benoeming vullen alle (kandidaat)leden een belangenverklaring in, conform het model dat is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050307&bijlage=1&z=2024-10-23&g=2024-10-23) bij dit besluit.
 
 ##### Artikel 5. Instellingsdatum
 
@@ -136,7 +136,7 @@ In dit besluit wordt verstaan onder:
 
 1. De commissie is bevoegd zich voor het inwinnen van inlichtingen rechtstreeks te wenden tot personen en instellingen en hen te verzoeken die medewerking te verlenen die redelijkerwijs nodig is voor de uitvoering van het onderzoek.
 
-2. De dg’s verlenen de commissie de verlangde medewerking en toegang tot alle informatie die zij nodig heeft met inachtneming van het in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0050307&artikel=7&z=2024-10-23&g=2024-01-02), eerste lid, bedoelde protocol.
+2. De dg’s verlenen de commissie de verlangde medewerking en toegang tot alle informatie die zij nodig heeft met inachtneming van het in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0050307&artikel=7&z=2024-10-23&g=2024-10-23), eerste lid, bedoelde protocol.
 
 3. Medewerkers van de ministeries zijn verplicht om de leden van de commissie de verlangde medewerking te verlenen, voor zover deze samenhangt met hun ambtelijke taak.
 
