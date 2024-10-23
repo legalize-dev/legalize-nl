@@ -4,7 +4,7 @@ identifier: "BWBR0050306"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-10-23"
-last_updated: "2024-01-02"
+last_updated: "2024-10-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050306"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. **commissie:** Ethische Commissie Dansen, zoals bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050306&artikel=2&z=2024-10-23&g=2024-01-02);
+- b. **commissie:** Ethische Commissie Dansen, zoals bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050306&artikel=2&z=2024-10-23&g=2024-10-23);
 
 - c. **ministerie:** Ministerie van Onderwijs, Cultuur en Wetenschap;
 
@@ -104,7 +104,7 @@ In dit besluit wordt verstaan onder:
 
 - b. M. Hoogsteyns te Badhoevedorp; A.C.P. Houterman te Amsterdam; C.S.A. van Rozendaal-Sengers te Haarlem.
 
-2. De leden vullen, alvorens tot lid te worden benoemd, een belangenverklaring in, conform het model zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050306&bijlage=1&z=2024-10-23&g=2024-01-02) bij dit besluit.
+2. De leden vullen, alvorens tot lid te worden benoemd, een belangenverklaring in, conform het model zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050306&bijlage=1&z=2024-10-23&g=2024-10-23) bij dit besluit.
 
 ##### Artikel 5. Instellingsdatum
 
