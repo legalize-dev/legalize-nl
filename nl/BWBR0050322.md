@@ -4,7 +4,7 @@ identifier: "BWBR0050322"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-10-25"
-last_updated: "2024-07-17"
+last_updated: "2024-10-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050322"
 soort: "zbo"
@@ -152,7 +152,7 @@ Deze regeling is van toepassing op het aanvragen, beoordelen en verstrekken van 
 
 - c. de periode waarbinnen een subsidieaanvraag kan worden ingediend;
 
-- d. eventuele wijzigingen van de bandbreedtes voor de kosten als bedoeld in [artikel 1.6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050322&hoofdstuk=1&artikel=1.6&z=2024-10-25&g=2024-07-17);
+- d. eventuele wijzigingen van de bandbreedtes voor de kosten als bedoeld in [artikel 1.6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050322&hoofdstuk=1&artikel=1.6&z=2024-10-25&g=2024-10-25);
 
 - e. eventuele aanvullende vereisten of weigeringsgronden; en
 
@@ -162,7 +162,7 @@ Deze regeling is van toepassing op het aanvragen, beoordelen en verstrekken van 
 
 ##### Artikel 2.2. Subsidieaanvrager
 
-Subsidie kan uitsluitend worden aangevraagd door een onderzoeksinstelling, als bedoeld in [artikel 1.1, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0050322&hoofdstuk=1&artikel=1.1&z=2024-10-25&g=2024-07-17).
+Subsidie kan uitsluitend worden aangevraagd door een onderzoeksinstelling, als bedoeld in [artikel 1.1, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0050322&hoofdstuk=1&artikel=1.1&z=2024-10-25&g=2024-10-25).
 
 ##### Artikel 2.3. Subsidieaanvraag
 
@@ -190,7 +190,7 @@ Subsidie kan uitsluitend worden aangevraagd door een onderzoeksinstelling, als b
 
 3. Een aanvraag wordt alleen in behandeling genomen als deze volledig is. Het Stimuleringsfonds beoordeelt binnen een week na indiening van de aanvraag de volledigheid daarvan. Over eventuele ontbrekende gegevens krijgt de aanvrager bericht, met de uitnodiging om deze alsnog binnen één week aan te leveren. Blijft tijdige en volledige aanlevering van de gegevens uit, dan wordt de betreffende aanvraag buiten behandeling gesteld.
 
-4. Een subsidieaanvrager, zoals bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0050322&hoofdstuk=2&artikel=2.2&z=2024-10-25&g=2024-07-17), kan niet meer dan één subsidieaanvraag per thematische oproep indienen.
+4. Een subsidieaanvrager, zoals bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0050322&hoofdstuk=2&artikel=2.2&z=2024-10-25&g=2024-10-25), kan niet meer dan één subsidieaanvraag per thematische oproep indienen.
 
 ##### Artikel 2.4. Aanvraagtermijn
 
@@ -206,7 +206,7 @@ Het voor subsidie beschikbare bedrag wordt verdeeld op basis van een rangschikki
 
 1. Een aanvraag tot subsidieverlening wordt door het Stimuleringsfonds eerst beoordeeld aan de hand van het volgende drempelcriterium:
 
-- a). alle voorgestelde onderdelen van het onderzoek zijn uitvoerbaar binnen de maximale termijn, bedoeld in [artikel 1.4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0050322&hoofdstuk=1&artikel=1.4&z=2024-10-25&g=2024-07-17).
+- a). alle voorgestelde onderdelen van het onderzoek zijn uitvoerbaar binnen de maximale termijn, bedoeld in [artikel 1.4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0050322&hoofdstuk=1&artikel=1.4&z=2024-10-25&g=2024-10-25).
 
 2. Als een aanvraag niet aan de drempelcriteria voldoet, wijst het Stimuleringsfonds de aanvraag af.
 
@@ -236,11 +236,11 @@ Alleen indien het drempelcriterium positief wordt beoordeeld, wordt een aanvraag
 
 6. Indien meerdere aanvragen dezelfde score hebben gehaald, dan worden deze gelijk geëindigde aanvragen als volgt gerangschikt:
 
-- i. op basis van de toegekende score op het criterium ‘onderzoeksvraag en -methode(n)', bedoeld in [artikel 3.3., tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050322&hoofdstuk=3&artikel=3.3&z=2024-10-25&g=2024-07-17);
+- i. op basis van de toegekende score op het criterium ‘onderzoeksvraag en -methode(n)', bedoeld in [artikel 3.3., tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050322&hoofdstuk=3&artikel=3.3&z=2024-10-25&g=2024-10-25);
 
-- ii. de alsdan gelijk beoordeelde aanvragen op basis van de toegekende score op het criterium ‘teamsamenstelling’, bedoeld in [artikel 3.3., derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050322&hoofdstuk=3&artikel=3.3&z=2024-10-25&g=2024-07-17);
+- ii. de alsdan gelijk beoordeelde aanvragen op basis van de toegekende score op het criterium ‘teamsamenstelling’, bedoeld in [artikel 3.3., derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050322&hoofdstuk=3&artikel=3.3&z=2024-10-25&g=2024-10-25);
 
-- iii. de alsdan gelijk beoordeelde aanvragen op basis van de toegekende score op het criterium ‘onderzoeksresultaten’, bedoeld in [artikel 3.3., vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050322&hoofdstuk=3&artikel=3.3&z=2024-10-25&g=2024-07-17);
+- iii. de alsdan gelijk beoordeelde aanvragen op basis van de toegekende score op het criterium ‘onderzoeksresultaten’, bedoeld in [artikel 3.3., vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050322&hoofdstuk=3&artikel=3.3&z=2024-10-25&g=2024-10-25);
 
 - iv. de alsdan gelijk beoordeelde aanvragen op basis van loting door een notaris.
 
@@ -284,7 +284,7 @@ De subsidieontvanger verleent het Stimuleringsfonds een alomvattend, eeuwigduren
 
 1. Een aanvraag tot subsidievaststelling wordt ingediend uiterlijk twee maanden na afloop van de uitvoering van het onderzoek. Dit geschiedt door het invullen en ondertekenen van een door het Stimuleringsfonds vastgesteld aanvraagformulier op de website van het Stimuleringsfonds.
 
-2. Een aanvraag tot subsidievaststelling gaat vergezeld van een onderzoeksrapport, een activiteitenverslag en een financieel verslag van de aanvrager, bedoeld in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0050322&hoofdstuk=5&artikel=5.2&z=2024-10-25&g=2024-07-17).
+2. Een aanvraag tot subsidievaststelling gaat vergezeld van een onderzoeksrapport, een activiteitenverslag en een financieel verslag van de aanvrager, bedoeld in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0050322&hoofdstuk=5&artikel=5.2&z=2024-10-25&g=2024-10-25).
 
 ##### Artikel 5.2. Activiteitenverslag en financieel verslag
 
