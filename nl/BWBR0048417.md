@@ -4,7 +4,7 @@ identifier: "BWBR0048417"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-25"
-last_updated: "2024-10-01"
+last_updated: "2024-10-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048417"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ In dit besluit wordt verstaan onder:
 
 - e. **de DG’s:** de directeur-generaal Belastingdienst, de directeur-generaal Toeslagen, de directeur-generaal Douane, de directeur-generaal Rijksbegroting, de directeur-generaal Fiscale Zaken en de thesaurier-generaal van het Ministerie van Financiën;
 
-- f. **de commissie:** de Commissie sociale veiligheid en integriteit Financiën, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048417&artikel=2&z=2023-07-20&g=2024-10-01);
+- f. **de commissie:** de Commissie sociale veiligheid en integriteit Financiën, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048417&artikel=2&z=2024-10-26&g=2024-10-26);
 
 - g. **betrokkene:** een medewerker, voormalig medewerker, stagiair, vrijwilliger, oproepkracht, gedetacheerde dan wel een persoon die individueel of als groep anderszins arbeid verricht of heeft verricht bij het Ministerie;
 
@@ -101,14 +101,6 @@ In dit besluit wordt verstaan onder:
 5. Benoeming vindt niet plaats voordat de SG overeenstemming heeft bereikt met de Centrales van Overheidspersoneel en de Departementale Ondernemingsraad Financiën over de benoeming van de leden.
 
 6. De Centrales van Overheidspersoneel en de Departementale Ondernemingsraad Financiën kunnen leden voor benoeming voordragen.
-
-7. Met ingang van 1 oktober 2020 zijn tot lid van de commissie benoemd:
-
-- a. drs. A.M.C (Angelien) Eijsink;
-
-- b. prof. dr. P. (Paul) Schnabel;
-
-- c. prof. dr. Z. (Zeger) van der Wal.
 
 ##### Artikel 4. Ondersteuning
 
