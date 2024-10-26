@@ -4,7 +4,7 @@ identifier: "BWBR0050331"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-10-26"
-last_updated: "2024-09-01"
+last_updated: "2024-10-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050331"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ Aan de algemeen directeur wordt mandaat en volmacht verleend tot:
 
 Aan de algemeen directeur wordt machtiging verleend tot:
 
-- a. het verrichten van alle handelingen ter voorbereiding op en ter uitvoering van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050331&artikel=2&z=2024-10-26&g=2024-09-01) bedoelde besluiten en overeenkomsten;
+- a. het verrichten van alle handelingen ter voorbereiding op en ter uitvoering van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050331&artikel=2&z=2024-10-26&g=2024-10-26) bedoelde besluiten en overeenkomsten;
 
 - b. het verwerken van (persoons)gegevens, waaronder het BSN, voor zover dat noodzakelijk is ter uitvoering van de [Beleidsregel financiële nood als gevolg van de wateroverlast in juli 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0049967). Nadere afsprakenkader rondom verwerken persoonsgegevens zijn opgenomen in verwerkersovereenkomst;
 
@@ -64,7 +64,7 @@ Aan de algemeen directeur wordt machtiging verleend tot:
 
 ##### Artikel 4
 
-- a. De algemeen directeur is, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050331&artikel=2&z=2024-10-26&g=2024-09-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0050331&artikel=3&z=2024-10-26&g=2024-09-01), bevoegd tot het verlenen van ondermandaat, volmacht en machtiging aan een of meer onder hem ressorterende functionarissen en tot het verlenen van machtiging aan medewerkers van de Kredietbank Limburg voor alle voorbereidingshandelingen ten behoeve van besluiten in het kader van de uitvoering van de [Beleidsregel financiële nood als gevolg van de wateroverlast in juli 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0049967) en in overeenstemming met het Afsprakenkader.
+- a. De algemeen directeur is, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050331&artikel=2&z=2024-10-26&g=2024-10-26) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0050331&artikel=3&z=2024-10-26&g=2024-10-26), bevoegd tot het verlenen van ondermandaat, volmacht en machtiging aan een of meer onder hem ressorterende functionarissen en tot het verlenen van machtiging aan medewerkers van de Kredietbank Limburg voor alle voorbereidingshandelingen ten behoeve van besluiten in het kader van de uitvoering van de [Beleidsregel financiële nood als gevolg van de wateroverlast in juli 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0049967) en in overeenstemming met het Afsprakenkader.
 
 - b. Degene die krachtens ondermandaat handelt, handelt in overeenstemming met hetgeen in de [Beleidsregel financiële nood als gevolg van de wateroverlast in juli 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0049967) is bepaald.
 
