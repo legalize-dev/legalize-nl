@@ -4,7 +4,7 @@ identifier: "BWBR0050328"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-10-26"
-last_updated: "2024-01-02"
+last_updated: "2024-10-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050328"
 soort: "ministeriele-regeling"
@@ -68,13 +68,13 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-Aan de inspecteur-generaal wordt mandaat en machtiging verleend voor het behandelen van bezwaarschriften, beroepschriften en hoger beroepschriften en het voeren van procedures bij de rechter over de op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050328&artikel=2&z=2024-10-26&g=2024-01-02) genomen besluiten.
+Aan de inspecteur-generaal wordt mandaat en machtiging verleend voor het behandelen van bezwaarschriften, beroepschriften en hoger beroepschriften en het voeren van procedures bij de rechter over de op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050328&artikel=2&z=2024-10-26&g=2024-10-26) genomen besluiten.
 
 ##### Artikel 4
 
-1. De inspecteur-generaal kan voor de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050328&artikel=2&z=2024-10-26&g=2024-01-02) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0050328&artikel=3&z=2024-10-26&g=2024-01-02) bedoelde aangelegenheden ondermandaat en machtiging verlenen aan onder hem ressorterende functionarissen.
+1. De inspecteur-generaal kan voor de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050328&artikel=2&z=2024-10-26&g=2024-10-26) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0050328&artikel=3&z=2024-10-26&g=2024-10-26) bedoelde aangelegenheden ondermandaat en machtiging verlenen aan onder hem ressorterende functionarissen.
 
-2. De inspecteur-generaal kan de volmacht, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050328&artikel=2&z=2024-10-26&g=2024-01-02), verlenen aan onder hem ressorterende functionarissen.
+2. De inspecteur-generaal kan de volmacht, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050328&artikel=2&z=2024-10-26&g=2024-10-26), verlenen aan onder hem ressorterende functionarissen.
 
 3. Het verlenen van volmacht, ondermandaat of machtiging alsmede wijziging daarvan, geschiedt schriftelijk.
 
@@ -100,7 +100,7 @@ De ambtenaren van de Inspectie Leefomgeving en Transport, met uitzondering van h
 
 ##### Artikel 7
 
-De inspecteur-generaal is niet bevoegd om zelfstandig verzoeken in het kader van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754), de [Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372) of de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468), voor zover die verband houden met de uitvoering van de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050328&artikel=2&z=2024-10-26&g=2024-01-02), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0050328&artikel=3&z=2024-10-26&g=2024-01-02) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0050328&artikel=6&z=2024-10-26&g=2024-01-02) van dit besluit bedoelde taken namens de minister af te doen. Dergelijke zaken worden door de inspecteur-generaal inhoudelijk voorbereid en ter afdoening, door tussenkomst van de Directie Constitutionele Zaken en Wetgeving van het ministerie, aan de directeur generaal volkshuisvestiging en bouwen van het ministerie onderscheidenlijk de minister voorgelegd.
+De inspecteur-generaal is niet bevoegd om zelfstandig verzoeken in het kader van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754), de [Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372) of de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468), voor zover die verband houden met de uitvoering van de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050328&artikel=2&z=2024-10-26&g=2024-10-26), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0050328&artikel=3&z=2024-10-26&g=2024-10-26) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0050328&artikel=6&z=2024-10-26&g=2024-10-26) van dit besluit bedoelde taken namens de minister af te doen. Dergelijke zaken worden door de inspecteur-generaal inhoudelijk voorbereid en ter afdoening, door tussenkomst van de Directie Constitutionele Zaken en Wetgeving van het ministerie, aan de directeur generaal volkshuisvestiging en bouwen van het ministerie onderscheidenlijk de minister voorgelegd.
 
 ##### Artikel 8
 
