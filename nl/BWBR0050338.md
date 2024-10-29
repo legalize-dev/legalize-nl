@@ -4,7 +4,7 @@ identifier: "BWBR0050338"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-01-27"
-last_updated: "2023-02-01"
+last_updated: "2024-10-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050338"
 soort: "zbo"
@@ -48,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 - **bestuur:** de voorzitter en de plaatsvervangend voorzitter van de ANVS;
 
-- **directeur:** directeur als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050338&hoofdstuk=2&artikel=2&z=2024-10-29&g=2023-02-01);
+- **directeur:** directeur als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050338&hoofdstuk=2&artikel=2&z=2024-10-29&g=2024-10-29);
 
 - **inspecteur:** ambtenaar als bedoeld in [artikel 1, eerste lid, van het Besluit aanwijzing ANVS-toezichthouders Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0039897&artikel=1);
 
@@ -60,7 +60,7 @@ In dit besluit wordt verstaan onder:
 
 - **RIVM:** Rijksinstituut voor Volksgezondheid en Milieu;
 
-- **teamleider:** teamleider als bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050338&hoofdstuk=2&artikel=3&z=2024-10-29&g=2023-02-01).
+- **teamleider:** teamleider als bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050338&hoofdstuk=2&artikel=3&z=2024-10-29&g=2024-10-29).
 
 ### Hoofdstuk 2. Organisatiestructuur
 
@@ -232,7 +232,7 @@ Elk van de directeuren is binnen de ANVS-organisatie verantwoordelijk voor het v
 
 ### Hoofdstuk 4. Mandaat, ondermandaat, volmacht en machtiging
 
-### Hoofdstuk 5. Slotbepalingen
+### Hoofdstuk 4. Mandaat, ondermandaat, volmacht en machtiging
 
 Gelet op de [artikelen 10:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), [10:9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:9), [10:11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:11), en [10:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:12), de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039796&artikel=3) en [6 van het Besluit mandaat, volmacht en machtiging ANVS](https://wetten.overheid.nl/jci1.3:c:BWBR0039796&artikel=6) en [artikel 3 van het Bestuursreglement ANVS](https://wetten.overheid.nl/jci1.3:c:BWBR0039984&artikel=3);
 
