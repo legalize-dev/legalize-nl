@@ -4,7 +4,7 @@ identifier: "BWBR0004191"
 country: "nl"
 rank: "wet"
 publication_date: "2024-10-29"
-last_updated: "2024-07-01"
+last_updated: "2024-10-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004191"
 soort: "wet"
@@ -52,9 +52,9 @@ In deze wet wordt verstaan onder:
 
 - a. Onze Minister: Onze Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. organisatie: de organisatie, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=I&artikel=2&z=2024-07-01&g=2024-07-01);
+- b. organisatie: de organisatie, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=I&artikel=2&z=2024-10-29&g=2024-10-29);
 
-- c. instellingsplan: instellingsplan, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=2&artikel=18&z=2024-07-01&g=2024-07-01).
+- c. instellingsplan: instellingsplan, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=2&artikel=18&z=2024-10-29&g=2024-10-29).
 
 ##### Artikel 2. Nederlandse organisatie voor wetenschappelijk onderzoek (NWO)
 
@@ -140,7 +140,7 @@ De organisatie heeft een raad van bestuur, een raad van toezicht en vier domeinb
 
 ##### Artikel 11. Raad van toezicht: taak
 
-1. De raad van toezicht staat de raad van bestuur met raad ter zijde en geeft desgevraagd of uit eigen beweging advies over het beleid van de raad van bestuur. Bij de vervulling van zijn taak richt de raad zich naar het belang van de organisatie en neemt daarbij de doelstelling van de organisatie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=I&artikel=3&z=2024-07-01&g=2024-07-01), als uitgangspunt.
+1. De raad van toezicht staat de raad van bestuur met raad ter zijde en geeft desgevraagd of uit eigen beweging advies over het beleid van de raad van bestuur. Bij de vervulling van zijn taak richt de raad zich naar het belang van de organisatie en neemt daarbij de doelstelling van de organisatie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=I&artikel=3&z=2024-10-29&g=2024-10-29), als uitgangspunt.
 
 2. De raad van toezicht stelt een reglement vast betreffende zijn werkwijze waarin in ieder geval in het bijzonder aandacht is voor:
 
@@ -274,9 +274,11 @@ Vervallen
 
 Onverminderd [artikel 35 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=35) kan Onze Minister, indien uitgaven zijn geschied in strijd met het bepaalde bij of krachtens de wet, dan wel indien werkzaamheden ten behoeve waarvan de rijksbijdrage is verleend, niet behoorlijk zijn uitgevoerd of de rijksbijdrage ondoelmatig is aangewend, bepalen dat de daarmee gemoeide bedragen in mindering worden gebracht op de rijksbijdrage. Hij maakt dit binnen een jaar na ontvangst van de jaarrekening bekend aan het algemeen bestuur.
 
-##### Artikel 27. Voorschriften begroting, bestuursverslag en jaarrekening
+##### Artikel 27. Voorschriften begroting, bestuursverslag, jaarrekening en accountantsprotocol
 
-Bij ministeriële regeling kunnen voorschriften worden vastgesteld voor de inrichting van de begroting, het bestuursverslag en de jaarrekening.
+1. Bij ministeriële regeling kunnen voorschriften worden vastgesteld voor de inrichting van de begroting, het bestuursverslag en de jaarrekening.
+
+2. Bij ministeriële regeling worden voorschriften vastgesteld voor de inrichting van het accountantsprotocol.
 
 ### Hoofdstuk IV. Schorsing en vernietiging van besluiten; taakverwaarlozingsregeling
 
@@ -358,7 +360,7 @@ Vervallen
 
 ##### Artikel 45. Overgangsrecht eerste benoemingen raad van bestuur en domeinvoorzitters
 
-In afwijking van [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=II&artikel=5&z=2024-07-01&g=2024-07-01), en [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=II&artikel=13&z=2024-07-01&g=2024-07-01), vindt de benoeming van de eerste leden van de raad van bestuur en de voorzitters van de domeinbesturen plaats op basis van openbaar gemaakte functieprofielen en laat Onze Minister zich adviseren door een benoemingsadviescommissie.
+In afwijking van [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=II&artikel=5&z=2024-10-29&g=2024-10-29), en [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=II&artikel=13&z=2024-10-29&g=2024-10-29), vindt de benoeming van de eerste leden van de raad van bestuur en de voorzitters van de domeinbesturen plaats op basis van openbaar gemaakte functieprofielen en laat Onze Minister zich adviseren door een benoemingsadviescommissie.
 
 ##### Artikel 46. Inwerkingtreding
 
@@ -478,7 +480,7 @@ Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius 
 
 ### Hoofdstuk III. Planning, financiële bepalingen, verslag en rekening
 
-#### § 4. Voorschriften inrichting begroting en jaarrekening
+#### § 4. Voorschriften inrichting begroting, bestuursverslag, jaarrekening en accountantsprotocol
 
 ### Hoofdstuk V. Slot- en overgangsbepalingen
 
