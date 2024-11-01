@@ -4,7 +4,7 @@ identifier: "BWBR0045229"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-03-05"
-last_updated: "2021-06-04"
+last_updated: "2024-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045229"
 soort: "zbo"
@@ -73,15 +73,15 @@ In deze bevoegdhedenregeling gelden de begripsbepalingen zoals opgenomen in [art
 
 1. Bovengenoemde bevoegdheden van het domein zijn van overeenkomstige toepassing op regieorganen, zoals bedoeld in [artikel 5 van het Bestuursreglement NWO](onbekend). In dat geval kan voor ‘domeinbestuur’ worden gelezen het bestuur van het regieorgaan en voor ‘domeindirecteur’ kan worden gelezen de directeur van het regieorgaan.
 
-### 4. NWA KIC
+### 4. Thematische Programma’s
 
-### 4.1. NWA KIC: budgethouderschap en budgetverantwoordelijkheid
+### 4.1. Thematische Programma’s: budgethouderschap en budgetverantwoordelijkheid
 
-### 4.2. NWA KIC: dagelijkse leiding en verantwoording
+### 4.2. Thematische Programma’s: dagelijkse leiding en verantwoording
 
-### 4.3. NWA KIC: wijzigingsverzoeken
+### 4.3. Thematische Programma’s: wijzigingsverzoeken
 
-### 4.4. NWA KIC: subsidiebesluiten
+### 4.4. Thematische Programma’s: subsidiebesluiten
 
 ### 5. Afdeling bedrijfsvoering
 
