@@ -4,7 +4,7 @@ identifier: "BWBR0050402"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2024-07-01"
+last_updated: "2024-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050402"
 soort: "AMvB"
@@ -64,7 +64,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Bij ministeriële regeling worden regels gesteld over de eindejaarsuitkering en de vakantie-uitkering over het kalenderjaar 2024 in verband met de overgang naar een individueel keuzebudget.
 
 ##### Artikel VI
 
