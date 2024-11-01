@@ -4,7 +4,7 @@ identifier: "BWBR0039319"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-28"
-last_updated: "2024-03-29"
+last_updated: "2024-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039319"
 soort: "ministeriele-regeling"
@@ -60,6 +60,8 @@ In deze regeling wordt verstaan onder:
 
 - –. **educatie:** educatie als bedoeld in [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1), en [artikel 1.1.1 van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=1.1.1).
 
+- –. **eenheid van leeruitkomsten:** onderwijseenheid waarin een samenhangend geheel van kennis, inzicht en vaardigheden is opgenomen die een student op een leerwegonafhankelijke wijze kan verwerven en waarvan de beheersing op een leerwegonafhankelijke wijze kan worden aangetoond;
+
 - –. **hoger beroepsonderwijs:** hoger beroepsonderwijs als bedoeld in [artikel 1.1 van de Wet op het hoger beroepsonderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1);
 
 - –. **intern begeleider:** degene met een coördinerende, begeleidende en innoverende taken met betrekking tot leerlingen in het basisonderwijs;
@@ -82,9 +84,9 @@ In deze regeling wordt verstaan onder:
 
 - –. **studiepunten:** studiepunten als bedoeld in [artikel 7.4, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.4);
 
-- –. **subsidie voor studiekosten:** subsidie, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=1&artikel=3&z=2024-03-29&g=2024-03-29);
+- –. **subsidie voor studiekosten:** subsidie, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=1&artikel=3&z=2024-11-01&g=2024-11-01);
 
-- –. **subsidie voor studieverlof:** subsidie, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=1&artikel=3&z=2024-03-29&g=2024-03-29);
+- –. **subsidie voor studieverlof:** subsidie, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=1&artikel=3&z=2024-11-01&g=2024-11-01);
 
 - –. **zorgcoördinator:** degene met een coördinerende, begeleidende en innoverende taak met betrekking tot zorgleerlingen in het voortgezet onderwijs.
 
@@ -142,7 +144,9 @@ De [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c
 
 8. Voor het studiejaar 2024–2025 is een bedrag van € 64.837.000,– beschikbaar voor verstrekking van subsidies op grond van deze regeling.
 
-9. De subsidieplafonds voor de studiejaren 2025-2026, 2026-2027 en 2027-2028 worden jaarlijks vastgesteld en gepubliceerd in de Staatscourant.
+9. Voor het studiejaar 2025–2026 is een bedrag van € 65.887.000 beschikbaar voor verstrekking van subsidies op grond van deze regeling.
+
+10. De subsidieplafonds voor de studiejaren 2026-2027 en 2027-2028 worden jaarlijks vastgesteld en gepubliceerd in de Staatscourant.
 
 ##### Artikel 5. Begrotingsvoorwaarde
 
@@ -156,7 +160,7 @@ In geval van het niet vervullen van de voorwaarde, bedoeld in [art. 1.4 van de K
 
 - b. bij subsidieverstrekking in 2021 vervolgens voorrang wordt verleend aan aanvragers die in 2020 een afwijzing ontvingen vanwege dreigende overschrijding van het subsidieplafond in 2020;
 
-- c. bij de subsidieverstrekking in 2022 vervolgens voorrang wordt verleend aan aanvragers aan wie niet eerder op grond van deze regeling subsidie werd verstrekt, die een afwijzing ontvingen vanwege de overschrijding van het subsidieplafond in 2021 en vervolgens uiterlijk op 1 november 2021 hebben afgezien van een subsidie als bedoeld in [artikel 26a](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=4&artikel=26a&z=2024-03-29&g=2024-03-29); en
+- c. bij de subsidieverstrekking in 2022 vervolgens voorrang wordt verleend aan aanvragers aan wie niet eerder op grond van deze regeling subsidie werd verstrekt, die een afwijzing ontvingen vanwege de overschrijding van het subsidieplafond in 2021 en vervolgens uiterlijk op 1 november 2021 hebben afgezien van een subsidie als bedoeld in [artikel 26a](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=4&artikel=26a&z=2024-11-01&g=2024-11-01); en
 
 - d. bij de subsidieverstrekking in 2024 vervolgens voorrang wordt verleend aan aanvragers die in 2023 een afwijzing ontvingen vanwege dreigende overschrijding van het subsidieplafond in 2023.
 
@@ -244,7 +248,17 @@ In geval van het niet vervullen van de voorwaarde, bedoeld in [art. 1.4 van de K
 
 - d. € 12.037.000 is beschikbaar voor opleidingen van leraren werkzaam in het hoger beroepsonderwijs.
 
-11. Indien een van de budgetten niet volledig wordt benut, wordt het restbedrag naar evenredigheid verdeeld over de overige doelgroepen.
+11. De verdeling van het beschikbare bedrag voor het studiejaar 2025–2026 over de verschillende doelgroepen geschiedt als volgt:
+
+- a. € 16.950.000 is beschikbaar voor opleidingen van leraren werkzaam in het basisonderwijs, het speciaal onderwijs en het voorgezet speciaal onderwijs;
+
+- b. € 28.700.000 is beschikbaar voor opleidingen van leraren werkzaam in het voortgezet onderwijs;
+
+- c. € 8.790.000 is beschikbaar voor opleidingen van leraren werkzaam in het beroepsonderwijs en educatie; en
+
+- d. € 11.447.000 is beschikbaar voor opleidingen van leraren werkzaam in het hoger beroepsonderwijs.
+
+12. Indien een van de budgetten niet volledig wordt benut, wordt het restbedrag naar evenredigheid verdeeld over de overige doelgroepen.
 
 ##### Artikel 7. Subsidieaanvraag studiekosten
 
@@ -260,7 +274,7 @@ In geval van het niet vervullen van de voorwaarde, bedoeld in [art. 1.4 van de K
 
 ##### Artikel 9. Termijn indiening aanvraag
 
-Subsidieaanvragen kunnen jaarlijks worden ingediend vanaf 1 april 18:00 uur tot en met 15 mei 23:59 uur, voorafgaand aan het studiejaar waarvoor subsidie wordt aangevraagd.
+Subsidieaanvragen kunnen jaarlijks worden ingediend vanaf 1 februari 18:00 uur tot en met 15 maart 23:59 uur, voorafgaand aan het studiejaar waarvoor subsidie wordt aangevraagd.
 
 ##### Artikel 10. Weigeringsgrond
 
@@ -268,7 +282,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 ##### Artikel 11. Beslistermijn
 
-De minister besluit binnen acht weken na het sluiten van de aanvraagtermijn, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=1&artikel=9&z=2024-03-29&g=2024-03-29).
+De minister besluit binnen dertien weken na het sluiten van de aanvraagtermijn, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=1&artikel=9&z=2024-11-01&g=2024-11-01).
 
 ##### Artikel 12. Betaling
 
@@ -324,7 +338,7 @@ De subsidie voor studiekosten bedraagt de som van een vergoeding voor:
 
 ##### Artikel 16. Terugvordering collegegeld
 
-Als het daadwerkelijk betaalde bedrag aan collegegeld lager is dan de verstrekte subsidie voor de kosten van collegegeld, kan de minister de subsidie voor de kosten van collegegeld, en naar rato de subsidie voor de kosten van studiemiddelen en reiskosten, terugvorderen, onverminderd [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=1&artikel=13&z=2024-03-29&g=2024-03-29).
+Als het daadwerkelijk betaalde bedrag aan collegegeld lager is dan de verstrekte subsidie voor de kosten van collegegeld, kan de minister de subsidie voor de kosten van collegegeld, en naar rato de subsidie voor de kosten van studiemiddelen en reiskosten, terugvorderen, onverminderd [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=1&artikel=13&z=2024-11-01&g=2024-11-01).
 
 ##### Artikel 17. Subsidieverplichting
 
@@ -342,7 +356,7 @@ De subsidie voor studiekosten wordt ambtshalve vastgesteld binnen 22 weken na af
 
 - a. een document waaruit blijkt dat hij collegegeld heeft betaald; en
 
-- b. een bewijsstuk waaruit blijkt dat hij ten minste vijftien studiepunten heeft behaald, dan wel een verklaring waarin staat dat leeruitkomsten zijn behaald bij een onderwijsinstelling die deelneemt aan het experiment leeruitkomsten ter waarde van in totaal ten minste vijftien studiepunten.
+- b. een bewijsstuk waaruit blijkt dat hij ten minste vijftien studiepunten heeft behaald, dan wel een verklaring van een opleiding die werkt met eenheden van leeruitkomsten waaruit blijkt dat eenheden van leeruitkomsten zijn behaald ter waarde van in totaal ten minste vijftien studiepunten.
 
 2. Ten aanzien van de subsidies die voor het studiejaar 2019–2020 of 2020–2021 zijn verstrekt toont de leraar, in afwijking van het eerste lid, op verzoek van de minister aan dat hij voldoet aan de subsidiecriteria en de subsidieverplichtingen door het overleggen van:
 
@@ -424,7 +438,7 @@ De [Tijdelijke regeling lerarenbeurs voor scholing](https://wetten.overheid.nl/j
 
 ##### Artikel 29. Inwerkingtreding en horizonbepaling
 
-1. Deze regeling treedt in werking met ingang van 1 april 2017 met uitzondering van [artikel 27, onderdeel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=4&artikel=27&z=2024-03-29&g=2024-03-29), dat in werking treedt met ingang van 1 juli 2017.
+1. Deze regeling treedt in werking met ingang van 1 april 2017 met uitzondering van [artikel 27, onderdeel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=4&artikel=27&z=2024-11-01&g=2024-11-01), dat in werking treedt met ingang van 1 juli 2017.
 
 2. Deze regeling vervalt met ingang van 1 april 2028.
 
@@ -448,7 +462,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 26a. Aanvullend subsidiebedrag studiejaar 2021–2022
 
-1. In aanvulling op [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=1&artikel=4&z=2024-03-29&g=2024-03-29), is voor het studiejaar 2021–2022 een aanvullend bedrag van € 16.000.000 beschikbaar voor het verstrekken van subsidie aan aanvragers wiens aanvragen in 2021 uitsluitend zijn afgewezen wegens de dreigende overschrijding van het in dat lid bedoelde subsidieplafond.
+1. In aanvulling op [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=1&artikel=4&z=2024-11-01&g=2024-11-01), is voor het studiejaar 2021–2022 een aanvullend bedrag van € 16.000.000 beschikbaar voor het verstrekken van subsidie aan aanvragers wiens aanvragen in 2021 uitsluitend zijn afgewezen wegens de dreigende overschrijding van het in dat lid bedoelde subsidieplafond.
 
 2. Van dit bedrag is:
 
@@ -462,7 +476,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 3. De minister verstrekt de subsidie, bedoeld in het eerste lid, ambtshalve.
 
-4. In afwijking van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=1&artikel=11&z=2024-03-29&g=2024-03-29) verstrekt de minister de subsidie uiterlijk op 31 augustus 2021.
+4. In afwijking van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0039319&hoofdstuk=1&artikel=11&z=2024-11-01&g=2024-11-01) verstrekt de minister de subsidie uiterlijk op 31 augustus 2021.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
