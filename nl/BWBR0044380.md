@@ -4,7 +4,7 @@ identifier: "BWBR0044380"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-17"
-last_updated: "2024-10-01"
+last_updated: "2024-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044380"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **minister:** de Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. **commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044380&artikel=2&z=2024-11-01&g=2024-10-01).
+- b. **commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044380&artikel=2&z=2024-11-01&g=2024-11-01).
 
 ##### Artikel 2. Instelling en taak
 
@@ -131,6 +131,26 @@ In dit besluit wordt verstaan onder:
 - a. Naznin Musa te Rotterdam;
 
 - b. Assamaual Saidi Rabah te Amstelveen.
+
+11. Te rekenen vanaf 1 oktober 2024 worden voor een periode van 2 jaar tot lid van de commissie herbenoemd:
+
+- a. prof. dr. Susan Legêne te Utrecht;
+
+- b. Milly Kock MSc te Voorhout;
+
+- c. dr. Claartje Vinkenburg te Amsterdam.
+
+12. Te rekenen vanaf 1 oktober 2024 worden voor een periode van 2 jaar tot lid van de commissie benoemd:
+
+- a. dr. Steven Arisz te Amsterdam;
+
+- b. Elijah Alvares BA te Amsterdam.
+
+13. Te rekenen vanaf 1 oktober 2024 worden voor een periode van 1 jaar tot studentlid van de commissie benoemd:
+
+- a. Alihan Uzun BSc te Hendrik-Ido-Ambacht;
+
+- b. Akram Achahboun te Den Haag.
 
 ##### Artikel 5. Instellingsduur
 
