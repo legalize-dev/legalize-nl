@@ -4,7 +4,7 @@ identifier: "BWBV0005911"
 country: "nl"
 rank: "verdrag"
 publication_date: "2024-11-01"
-last_updated: "2012-06-26"
+last_updated: "2024-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005911"
 soort: "verdrag"
@@ -200,7 +200,7 @@ De partijen bevestigen opnieuw de bestaande rechten en verplichtingen die zij in
 
 2. Daar waar deze overeenkomst voorziet in specifieke en afzonderlijke verbintenissen ten aanzien van een lidstaat van de Europese Unie of een van de overeenkomstsluitende Andeslanden, geldt de overeenkomst voor dat specifieke land of die specifieke landen al naargelang wat van toepassing is.
 
-3. Overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=I&hoofdstuk=2&artikel=7&z=2012-06-26&g=2012-06-26) betekenen „een andere partij” of „de andere partijen” voor de overeenkomstsluitende Andeslanden „de EU”, daar waar deze termen in deze overeenkomst worden gebruikt.
+3. Overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=I&hoofdstuk=2&artikel=7&z=2024-11-01&g=2024-11-01) betekenen „een andere partij” of „de andere partijen” voor de overeenkomstsluitende Andeslanden „de EU”, daar waar deze termen in deze overeenkomst worden gebruikt.
 
 ##### Artikel 7. Economische en handelsbetrekkingen die onder deze overeenkomst vallen
 
@@ -212,9 +212,9 @@ De partijen bevestigen opnieuw de bestaande rechten en verplichtingen die zij in
 
 1. Elke partij is verantwoordelijk voor de naleving van alle bepalingen van deze overeenkomst en neemt alle noodzakelijke maatregelen om ervoor te zorgen dat wordt voldaan aan de daaruit voortvloeiende verplichtingen; dat betekent onder meer dat wordt toegezien op de naleving van deze bepalingen door centrale, regionale of lagere overheden en instanties, alsook door niet-gouvernementele organisaties wanneer zij bevoegdheden uitoefenen die bedoelde overheden en instanties aan hen hebben gedelegeerd2)Onder „centrale, regionale of lagere overheden en instanties” vallen alle autoriteiten en bestuursniveaus van de partijen..
 
-2. Wanneer een partij van oordeel is dat een andere partij niet heeft voldaan aan de verplichtingen die voor haar uit deze overeenkomst voortvloeien, heeft bedoelde partij als enige rechtsmiddel de procedure voor geschillenbeslechting die in [titel XII](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&z=2012-06-26&g=2012-06-26) (Geschillenbeslechting) is vastgesteld, en is zij gebonden aan het resultaat daarvan.
+2. Wanneer een partij van oordeel is dat een andere partij niet heeft voldaan aan de verplichtingen die voor haar uit deze overeenkomst voortvloeien, heeft bedoelde partij als enige rechtsmiddel de procedure voor geschillenbeslechting die in [titel XII](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&z=2024-11-01&g=2024-11-01) (Geschillenbeslechting) is vastgesteld, en is zij gebonden aan het resultaat daarvan.
 
-3. Onverminderd de bestaande mechanismen voor politieke dialoog tussen de partijen, kan elke partij bij schending door een andere partij van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=I&hoofdstuk=1&artikel=1&z=2012-06-26&g=2012-06-26) en [2](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=I&hoofdstuk=1&artikel=2&z=2012-06-26&g=2012-06-26) van deze overeenkomst bedoelde essentiële elementen, onmiddellijk passende maatregelen in overeenstemming met het internationale recht nemen. Die andere partij kan om een spoedeisende vergadering vragen waarbij de betrokken partijen binnen 15 dagen voor een grondig onderzoek van de situatie bijeenkomen om een aanvaardbare oplossing te vinden. De maatregelen moeten in verhouding staan tot de schending. Voorrang wordt gegeven aan maatregelen die de werking van deze overeenkomst het minst verstoren. De maatregelen worden ingetrokken zodra de redenen waarom zij zijn genomen, niet meer bestaan.
+3. Onverminderd de bestaande mechanismen voor politieke dialoog tussen de partijen, kan elke partij bij schending door een andere partij van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=I&hoofdstuk=1&artikel=1&z=2024-11-01&g=2024-11-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=I&hoofdstuk=1&artikel=2&z=2024-11-01&g=2024-11-01) van deze overeenkomst bedoelde essentiële elementen, onmiddellijk passende maatregelen in overeenstemming met het internationale recht nemen. Die andere partij kan om een spoedeisende vergadering vragen waarbij de betrokken partijen binnen 15 dagen voor een grondig onderzoek van de situatie bijeenkomen om een aanvaardbare oplossing te vinden. De maatregelen moeten in verhouding staan tot de schending. Voorrang wordt gegeven aan maatregelen die de werking van deze overeenkomst het minst verstoren. De maatregelen worden ingetrokken zodra de redenen waarom zij zijn genomen, niet meer bestaan.
 
 ##### Artikel 9. Geografisch toepassingsgebied
 
@@ -232,7 +232,7 @@ De partijen bevestigen opnieuw de bestaande rechten en verplichtingen die zij in
 
 4. De partijen zijn zich ervan bewust dat de overeenkomstsluitende Andeslanden in hun onderlinge betrekkingen gehouden zijn aan het stelsel van wettelijke regels van de Andesgemeenschap, overeenkomstig Besluit 598 van de Andesgemeenschap.
 
-5. Gezien het streven van de partijen om te komen tot een associatie tussen de twee regio’s, waarbij alle landen van de Andesgemeenschap partij bij deze overeenkomst zullen worden, zal het Handelscomité de relevante bepalingen, in het bijzonder dit artikel en [artikel 105](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=6&artikel=105&z=2012-06-26&g=2012-06-26), te zijner tijd opnieuw onderzoeken om deze aan te passen aan de nieuwe situatie en regionale-integratieprocessen te ondersteunen.
+5. Gezien het streven van de partijen om te komen tot een associatie tussen de twee regio’s, waarbij alle landen van de Andesgemeenschap partij bij deze overeenkomst zullen worden, zal het Handelscomité de relevante bepalingen, in het bijzonder dit artikel en [artikel 105](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=6&artikel=105&z=2024-11-01&g=2024-11-01), te zijner tijd opnieuw onderzoeken om deze aan te passen aan de nieuwe situatie en regionale-integratieprocessen te ondersteunen.
 
 ### HOOFDSTUK 3. ALGEMENE DEFINITIES
 
@@ -242,7 +242,7 @@ Voor de toepassing van deze overeenkomst wordt verstaan onder:
 
 - –. „dagen”: kalenderdagen, inclusief weekenden en vakantiedagen;
 
-- –. „goed van een partij” of „product van een partij”: binnenlandse producten als bedoeld in de [GATT 1994](onbekend) of andere door de partijen overeengekomen goederen of producten, waaronder begrepen goederen of producten van oorsprong uit die partij, zoals omschreven in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=1&afdeling=1&artikel=19&z=2012-06-26&g=2012-06-26);
+- –. „goed van een partij” of „product van een partij”: binnenlandse producten als bedoeld in de [GATT 1994](onbekend) of andere door de partijen overeengekomen goederen of producten, waaronder begrepen goederen of producten van oorsprong uit die partij, zoals omschreven in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=1&afdeling=1&artikel=19&z=2024-11-01&g=2024-11-01);
 
 - –. „rechtspersoon”: elke juridische eenheid, naar toepasselijk recht opgericht of anderszins georganiseerd, met winst- of andere oogmerken, ongeacht of zij eigendom van particulieren of van de overheid is, met inbegrip van alle vennootschappen, trusts, maatschappen, joint ventures, eenmanszaken of verenigingen;
 
@@ -280,13 +280,13 @@ Wanneer een ander overeenkomstsluitend Andesland blijk geeft van belangstelling 
 
 - d. beoordeelt en neemt besluiten overeenkomstig deze overeenkomst over elk onderwerp dat de krachtens deze overeenkomst opgerichte gespecialiseerde organen naar hem doorverwijzen;
 
-- e. ziet toe op de toepassing van [artikel 105](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=6&artikel=105&z=2012-06-26&g=2012-06-26);
+- e. ziet toe op de toepassing van [artikel 105](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=6&artikel=105&z=2024-11-01&g=2024-11-01);
 
 - f. ziet toe op de verdere ontwikkeling van deze overeenkomst;
 
-- g. zoekt naar de meest geschikte manier om moeilijkheden in verband met kwesties die onder deze overeenkomst vallen, te voorkomen of op te lossen, onverminderd de in [titel XII](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&z=2012-06-26&g=2012-06-26) (Geschillenbeslechting) toegekende rechten en andere bepalingen van deze overeenkomst;
+- g. zoekt naar de meest geschikte manier om moeilijkheden in verband met kwesties die onder deze overeenkomst vallen, te voorkomen of op te lossen, onverminderd de in [titel XII](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&z=2024-11-01&g=2024-11-01) (Geschillenbeslechting) toegekende rechten en andere bepalingen van deze overeenkomst;
 
-- h. stelt tijdens zijn eerste vergadering het in [artikel 315](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=4&artikel=315&z=2012-06-26&g=2012-06-26) bedoelde reglement van orde vast, alsook de in hetzelfde artikel genoemde gedragscode voor scheidsrechters;
+- h. stelt tijdens zijn eerste vergadering het in [artikel 315](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=4&artikel=315&z=2024-11-01&g=2024-11-01) bedoelde reglement van orde vast, alsook de in hetzelfde artikel genoemde gedragscode voor scheidsrechters;
 
 - i. stelt de beloning en onkostenvergoeding voor de scheidsrechters vast;
 
@@ -304,7 +304,7 @@ Wanneer een ander overeenkomstsluitend Andesland blijk geeft van belangstelling 
 
 - d. zich buigen over eventuele wijzigingen in de bepalingen van deze overeenkomst, die afhankelijk zijn van de voltooiing van de interne wettelijke procedures van elke partij;
 
-- e. de bepalingen van deze overeenkomst interpreteren4)Interpretaties van het Handelscomité worden niet als wijzigingen beschouwd.. Krachtens [titel XII](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&z=2012-06-26&g=2012-06-26) (Geschillenbeslechting) ingestelde arbitragepanels houden rekening met deze interpretaties;
+- e. de bepalingen van deze overeenkomst interpreteren4)Interpretaties van het Handelscomité worden niet als wijzigingen beschouwd.. Krachtens [titel XII](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&z=2024-11-01&g=2024-11-01) (Geschillenbeslechting) ingestelde arbitragepanels houden rekening met deze interpretaties;
 
 - f. in het kader van de uitoefening van zijn taken andere maatregelen nemen wanneer de partijen dat overeenkomen;
 
@@ -336,7 +336,7 @@ Elke partij legt de in dit punt bedoelde wijzigingen in overeenstemming met haar
 
 2. De besluiten van het Handelscomité zijn bindend voor de partijen, die de nodige maatregelen treffen voor de uitvoering ervan.
 
-3. In de gevallen als bedoeld in [artikel 12, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=II&artikel=12&z=2012-06-26&g=2012-06-26), worden de besluiten vastgesteld door de EU en het desbetreffende overeenkomstsluitende Andesland en hebben deze besluiten, mits de rechten en verplichtingen van een ander overeenkomstsluitend Andesland hierbij onverlet blijven, uitsluitend rechtsgevolgen voor die partijen.
+3. In de gevallen als bedoeld in [artikel 12, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=II&artikel=12&z=2024-11-01&g=2024-11-01), worden de besluiten vastgesteld door de EU en het desbetreffende overeenkomstsluitende Andesland en hebben deze besluiten, mits de rechten en verplichtingen van een ander overeenkomstsluitend Andesland hierbij onverlet blijven, uitsluitend rechtsgevolgen voor die partijen.
 
 ##### Artikel 15. Gespecialiseerde organen
 
@@ -438,7 +438,7 @@ De indeling van de handelsgoederen waarop deze overeenkomst van toepassing is, g
 
 4. Indien een partij daarom vraagt, treden de partijen in overleg om te overwegen of douanerechten eventueel sneller en in ruimere mate kunnen worden afgeschaft dan is vastgesteld in bijlage I (Lijsten inzake tariefafschaffing).
 
-5. Wanneer het Handelscomité in overeenstemming met [artikel 13, lid 2, onder g)](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=II&artikel=13&z=2012-06-26&g=2012-06-26), besluit de afschaffing van douanerechten te versnellen of uit te breiden, komt dat besluit in de plaats van de douanerechten of afbouwcategorieën die overeenkomstig bijlage I (Lijsten inzake tariefafschaffing) zijn vastgesteld.
+5. Wanneer het Handelscomité in overeenstemming met [artikel 13, lid 2, onder g)](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=II&artikel=13&z=2024-11-01&g=2024-11-01), besluit de afschaffing van douanerechten te versnellen of uit te breiden, komt dat besluit in de plaats van de douanerechten of afbouwcategorieën die overeenkomstig bijlage I (Lijsten inzake tariefafschaffing) zijn vastgesteld.
 
 6. Tenzij in deze overeenkomst anders is bepaald, mogen de partijen douanerechten die in bijlage I (Lijsten inzake tariefafschaffing) als basisrecht zijn vastgesteld, niet verhogen en mogen zij evenmin nieuwe douanerechten vaststellen voor goederen van oorsprong uit een andere partij.
 
@@ -446,7 +446,7 @@ De indeling van de handelsgoederen waarop deze overeenkomst van toepassing is, g
 
 - a. na een eenzijdige verlaging te verhogen tot het niveau dat in bijlage I (Lijsten inzake tariefafschaffing) voor het desbetreffende jaar is vastgesteld; of
 
-- b. te handhaven of te verhogen in overeenstemming met het [WTO-Memorandum van overeenstemming inzake de regels en procedures betreffende de beslechting van geschillen](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&bijlage=2), hierna het „DSU” genoemd, of [titel XII](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&z=2012-06-26&g=2012-06-26) (Geschillenbeslechting).
+- b. te handhaven of te verhogen in overeenstemming met het [WTO-Memorandum van overeenstemming inzake de regels en procedures betreffende de beslechting van geschillen](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&bijlage=2), hierna het „DSU” genoemd, of [titel XII](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&z=2024-11-01&g=2024-11-01) (Geschillenbeslechting).
 
 ### AFDELING 3. NIET-TARIFAIRE MAATREGELEN
 
@@ -464,7 +464,7 @@ De partijen stellen of handhaven geen verbod of beperking op de invoer van een g
 
 ##### Artikel 25. Uitvoerrechten en -belastingen
 
-Tenzij in deze overeenkomst anders is bepaald, mogen de partijen geen rechten of belastingen vaststellen of handhaven ter zake van de uitvoer van goederen naar het grondgebied van een andere partij, andere dan interne heffingen die worden opgelegd conform [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=1&afdeling=1&artikel=21&z=2012-06-26&g=2012-06-26).
+Tenzij in deze overeenkomst anders is bepaald, mogen de partijen geen rechten of belastingen vaststellen of handhaven ter zake van de uitvoer van goederen naar het grondgebied van een andere partij, andere dan interne heffingen die worden opgelegd conform [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=1&afdeling=1&artikel=21&z=2024-11-01&g=2024-11-01).
 
 ##### Artikel 26. Procedures voor in- en uitvoervergunningen
 
@@ -484,7 +484,7 @@ Tenzij in deze overeenkomst anders is bepaald, mogen de partijen geen rechten of
 
 4. De partijen zien er met name op toe dat staatshandelsondernemingen bij hun aan- en verkopen, en steeds wanneer zij een bevoegdheid uitoefenen, waaronder een eventuele wettelijke of constitutionele bevoegdheid, die een partij op centraal of lager niveau aan deze ondernemingen heeft gedelegeerd, voldoen aan de verplichtingen die de partijen in deze overeenkomst aangaan.
 
-5. De bepalingen van dit artikel laten de rechten en verplichtingen die voor partijen voortvloeien uit [titel VI](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VI&z=2012-06-26&g=2012-06-26) (Overheidsopdrachten) onverlet.
+5. De bepalingen van dit artikel laten de rechten en verplichtingen die voor partijen voortvloeien uit [titel VI](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VI&z=2024-11-01&g=2024-11-01) (Overheidsopdrachten) onverlet.
 
 6. In de context van de kennisgeving die de partijen ingevolge artikel XVII van de GATT 1994 verrichten, streeft een partij wie om aanvullende informatie is verzocht over het effect van staatshandelsondernemingen op de bilaterale handel, naar maximale transparantie in haar reactie op een dergelijk informatieverzoek, voor zover de verzoekende partij die informatie nodig heeft om te kunnen bepalen of de staatshandelsondernemingen voldoen aan de toepasselijke verplichtingen van deze overeenkomst, overeenkomstig de bepalingen van artikel XVII, lid 4, onder d), van de GATT 1994 betreffende vertrouwelijke informatie.
 
@@ -496,7 +496,7 @@ Deze afdeling is van toepassing op de maatregelen die de partijen vaststellen of
 
 ##### Artikel 29. Landbouwvrijwaringsmaatregelen
 
-1. In afwijking van het bepaalde in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=1&afdeling=2&artikel=22&z=2012-06-26&g=2012-06-26) mag een partij ten aanzien van landbouwproducten van oorsprong die zijn opgenomen in haar lijst in bijlage IV (Landbouwvrijwaringsmaatregelen) een landbouwvrijwaringsmaatregel in de vorm van aanvullende invoerrechten toepassen, mits is voldaan aan de voorwaarden van dit artikel. Het tarief van een aanvullend invoerrecht of van enig ander douanerecht op bedoelde producten bedraagt ten hoogste het laagste van de volgende rechten:
+1. In afwijking van het bepaalde in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=1&afdeling=2&artikel=22&z=2024-11-01&g=2024-11-01) mag een partij ten aanzien van landbouwproducten van oorsprong die zijn opgenomen in haar lijst in bijlage IV (Landbouwvrijwaringsmaatregelen) een landbouwvrijwaringsmaatregel in de vorm van aanvullende invoerrechten toepassen, mits is voldaan aan de voorwaarden van dit artikel. Het tarief van een aanvullend invoerrecht of van enig ander douanerecht op bedoelde producten bedraagt ten hoogste het laagste van de volgende rechten:
 
 - a. het toegepaste meestbegunstigingsrecht; of
 
@@ -508,7 +508,7 @@ Deze afdeling is van toepassing op de maatregelen die de partijen vaststellen of
 
 4. Geen van partijen mag met betrekking tot hetzelfde product tegelijkertijd een landbouwvrijwaringsmaatregel krachtens dit artikel en een van de volgende maatregelen toepassen:
 
-- a. een vrijwaringsmaatregel krachtens het bepaalde in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=2&z=2012-06-26&g=2012-06-26) (Handelsmaatregelen); of
+- a. een vrijwaringsmaatregel krachtens het bepaalde in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=2&z=2024-11-01&g=2024-11-01) (Handelsmaatregelen); of
 
 - b. een maatregel als bedoeld in artikel XIX van de GATT 1994 en de [vrijwaringsovereenkomst](onbekend).
 
@@ -556,13 +556,13 @@ Tenzij in deze overeenkomst anders is bepaald, mag de EU het invoerprijssysteem 
 
 2. De partijen beheren de tariefcontingenten voor de invoer van landbouwproducten op basis van het beginsel dat wie het eerst komt, het eerst maalt.
 
-3. Op verzoek van een partij van uitvoer treedt een partij van invoer met de partij van uitvoer in overleg over het beheer van de tariefcontingenten van de partij van invoer. Dit overleg komt in de plaats van het in [artikel 301](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=2&artikel=301&z=2012-06-26&g=2012-06-26) bedoelde overleg, mits het beantwoordt aan de vereisten van lid 9 van dat artikel.
+3. Op verzoek van een partij van uitvoer treedt een partij van invoer met de partij van uitvoer in overleg over het beheer van de tariefcontingenten van de partij van invoer. Dit overleg komt in de plaats van het in [artikel 301](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=2&artikel=301&z=2024-11-01&g=2024-11-01) bedoelde overleg, mits het beantwoordt aan de vereisten van lid 9 van dat artikel.
 
 ### AFDELING 5. HANDELWIJZE BIJ ADMINISTRATIEVE FOUTEN
 
 ##### Artikel 34. Handelwijze bij administratieve fouten
 
-Indien de bevoegde autoriteiten van een partij bij het beheer van de preferentiële uitvoerregeling een fout hebben gemaakt, met name bij de toepassing van de bepalingen van bijlage II (Definitie van het begrip „producten van oorsprong” en methoden van administratieve samenwerking), en deze fout gevolgen heeft voor de invoerrechten, kan elke partij die met deze gevolgen wordt geconfronteerd, het Handelscomité verzoeken na te gaan of passende maatregelen kunnen worden genomen om de situatie op te lossen, nadat de betrokken partijen eerst binnen het in [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=3&artikel=68&z=2012-06-26&g=2012-06-26) beschreven subcomité Douane, handelsbevordering en oorsprongsregels, de technische aspecten van de kwestie hebben besproken. Het besluit van het Handelscomité over passende maatregelen wordt bij consensus van de betrokken partijen vastgesteld.
+Indien de bevoegde autoriteiten van een partij bij het beheer van de preferentiële uitvoerregeling een fout hebben gemaakt, met name bij de toepassing van de bepalingen van bijlage II (Definitie van het begrip „producten van oorsprong” en methoden van administratieve samenwerking), en deze fout gevolgen heeft voor de invoerrechten, kan elke partij die met deze gevolgen wordt geconfronteerd, het Handelscomité verzoeken na te gaan of passende maatregelen kunnen worden genomen om de situatie op te lossen, nadat de betrokken partijen eerst binnen het in [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=3&artikel=68&z=2024-11-01&g=2024-11-01) beschreven subcomité Douane, handelsbevordering en oorsprongsregels, de technische aspecten van de kwestie hebben besproken. Het besluit van het Handelscomité over passende maatregelen wordt bij consensus van de betrokken partijen vastgesteld.
 
 ### AFDELING 6. SUBCOMITÉS
 
@@ -588,11 +588,11 @@ Indien de bevoegde autoriteiten van een partij bij het beheer van de preferenti�
 
 2. Het subcomité Landbouw heeft de volgende taken:
 
-- a. toezicht op en bevorderen van de samenwerking bij de uitvoering en het beheer van [afdeling 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=1&afdeling=4&z=2012-06-26&g=2012-06-26), teneinde de handel in landbouwproducten tussen de partijen te bevorderen;
+- a. toezicht op en bevorderen van de samenwerking bij de uitvoering en het beheer van [afdeling 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=1&afdeling=4&z=2024-11-01&g=2024-11-01), teneinde de handel in landbouwproducten tussen de partijen te bevorderen;
 
 - b. wegnemen van ongerechtvaardigde belemmeringen in de handel in landbouwproducten tussen de partijen;
 
-- c. beraadslagen over kwesties in verband met [afdeling 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=1&afdeling=4&z=2012-06-26&g=2012-06-26), in overleg met andere relevante subcomités, werkgroepen of andere gespecialiseerde organen die krachtens deze overeenkomst zijn opgericht;
+- c. beraadslagen over kwesties in verband met [afdeling 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=1&afdeling=4&z=2024-11-01&g=2024-11-01), in overleg met andere relevante subcomités, werkgroepen of andere gespecialiseerde organen die krachtens deze overeenkomst zijn opgericht;
 
 - d. evalueren van de ontwikkeling van de handel in landbouwproducten tussen de partijen en van de gevolgen van deze overeenkomst voor de landbouwsector van elke partij, alsook de werking van de instrumenten waarin deze overeenkomst voorziet, en het doen van aanbevelingen aan het Handelscomité over passende acties;
 
@@ -650,7 +650,7 @@ Niettegenstaande hun rechten uit hoofde van de antidumping- en subsidieovereenko
 
 ##### Artikel 42. Uitsluiting van de procedure voor geschillenbeslechting
 
-[Titel XII](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&z=2012-06-26&g=2012-06-26) (Geschillenbeslechting) is niet van toepassing op deze afdeling.
+[Titel XII](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&z=2024-11-01&g=2024-11-01) (Geschillenbeslechting) is niet van toepassing op deze afdeling.
 
 ### AFDELING 2. MULTILATERALE VRIJWARINGSMAATREGELEN
 
@@ -660,13 +660,13 @@ Elke partij behoudt de rechten en verplichtingen die voortvloeien uit artikel XI
 
 ##### Artikel 44. Transparantie
 
-In afwijking van het bepaalde in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=2&afdeling=2&artikel=43&z=2012-06-26&g=2012-06-26) geeft een partij die een vrijwaringsonderzoek opent of voornemens is vrijwaringsmaatregelen te treffen, op verzoek van een andere partij onmiddellijk ad hoc schriftelijk kennis van alle relevante informatie, met inbegrip van, voor zover van toepassing, informatie over de start van het onderzoek en de voorlopige en definitieve vaststelling van de feiten.
+In afwijking van het bepaalde in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=2&afdeling=2&artikel=43&z=2024-11-01&g=2024-11-01) geeft een partij die een vrijwaringsonderzoek opent of voornemens is vrijwaringsmaatregelen te treffen, op verzoek van een andere partij onmiddellijk ad hoc schriftelijk kennis van alle relevante informatie, met inbegrip van, voor zover van toepassing, informatie over de start van het onderzoek en de voorlopige en definitieve vaststelling van de feiten.
 
 ##### Artikel 45. Niet-gelijktijdige toepassing van vrijwaringsmaatregelen
 
 De partijen mogen met betrekking tot hetzelfde product niet tegelijkertijd toepassen:
 
-- a. een bilaterale vrijwaringsmaatregel overeenkomstig [afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=2&afdeling=3&z=2012-06-26&g=2012-06-26) (Bilaterale vrijwaringsmaatregelen) van dit hoofdstuk; en
+- a. een bilaterale vrijwaringsmaatregel overeenkomstig [afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=2&afdeling=3&z=2024-11-01&g=2024-11-01) (Bilaterale vrijwaringsmaatregelen) van dit hoofdstuk; en
 
 - b. een maatregel als bedoeld in artikel XIX van de GATT 1994 en de [vrijwaringsovereenkomst](onbekend).
 
@@ -684,13 +684,13 @@ De partijen mogen met betrekking tot hetzelfde product niet tegelijkertijd toepa
 
 ##### Artikel 47. Uitsluiting van de procedure voor geschillenbeslechting
 
-[Titel XII](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&z=2012-06-26&g=2012-06-26) (Geschillenbeslechting) is niet van toepassing op deze afdeling, met uitzondering van [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=2&afdeling=2&artikel=45&z=2012-06-26&g=2012-06-26).
+[Titel XII](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&z=2024-11-01&g=2024-11-01) (Geschillenbeslechting) is niet van toepassing op deze afdeling, met uitzondering van [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=2&afdeling=2&artikel=45&z=2024-11-01&g=2024-11-01).
 
 ### AFDELING 3. BILATERALE VRIJWARINGSMAATREGELEN
 
 ##### Artikel 48. Toepassing van bilaterale vrijwaringsmaatregelen
 
-1. Niettegenstaande het bepaalde in [afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=2&afdeling=2&z=2012-06-26&g=2012-06-26) (Multilaterale vrijwaringsmaatregelen) mag de partij van invoer onder de in deze afdeling vervatte voorwaarden en volgens de in deze afdeling neergelegde procedures passende maatregelen vaststellen, indien als gevolg van concessies uit hoofde van deze overeenkomst een product van oorsprong uit een partij in dermate toegenomen hoeveelheden – in absolute zin of in verhouding tot de binnenlandse productie – en onder zodanige voorwaarden op het grondgebied van een andere partij wordt ingevoerd dat binnenlandse producenten die soortgelijke of rechtstreeks concurrerende producten vervaardigen, daarvan ernstige schade ondervinden of dreigen te ondervinden(9a)Voor de toepassing van dit artikel wordt ten aanzien van Ecuador ernstige schade of een dreiging van ernstige schade voor de binnenlandse producenten ook opgevat als ernstige schade of een dreiging van ernstige schade voor een opkomende industrie..
+1. Niettegenstaande het bepaalde in [afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=2&afdeling=2&z=2024-11-01&g=2024-11-01) (Multilaterale vrijwaringsmaatregelen) mag de partij van invoer onder de in deze afdeling vervatte voorwaarden en volgens de in deze afdeling neergelegde procedures passende maatregelen vaststellen, indien als gevolg van concessies uit hoofde van deze overeenkomst een product van oorsprong uit een partij in dermate toegenomen hoeveelheden – in absolute zin of in verhouding tot de binnenlandse productie – en onder zodanige voorwaarden op het grondgebied van een andere partij wordt ingevoerd dat binnenlandse producenten die soortgelijke of rechtstreeks concurrerende producten vervaardigen, daarvan ernstige schade ondervinden of dreigen te ondervinden(9a)Voor de toepassing van dit artikel wordt ten aanzien van Ecuador ernstige schade of een dreiging van ernstige schade voor de binnenlandse producenten ook opgevat als ernstige schade of een dreiging van ernstige schade voor een opkomende industrie..
 
 2. Een partij mag alleen tijdens de overgangsperiode bilaterale vrijwaringsmaatregelen toepassen10)De overgangsperiode is een periode van tien jaar gerekend vanaf de datum van inwerkingtreding van deze overeenkomst. Voor producten ten aanzien waarvan de lijst in bijlage I (Lijsten inzake tariefafschaffing) van de partij die de maatregel toepast, voorziet in een tariefafschaffingsperiode van tien jaar of meer, bedraagt de overgangsperiode de in die lijst voor dat product opgenomen tariefafschaffingsperiode plus drie jaar..
 
@@ -698,7 +698,7 @@ De partijen mogen met betrekking tot hetzelfde product niet tegelijkertijd toepa
 
 1. Een partij stelt de betrokken partij van uitvoer onmiddellijk in kennis van de opening van een onderzoek en de toepassing van voorlopige en definitieve maatregelen.
 
-2. Wanneer een partij meent dat er sprake is van de in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=2&afdeling=3&artikel=48&z=2012-06-26&g=2012-06-26) genoemde omstandigheden en derhalve toepassing of verlenging van een definitieve maatregel gerechtvaardigd is, stelt zij de benadeelde partij in de gelegenheid met haar overeenkomstig de wetgeving van elke partij overleg te plegen, teneinde de beschikbare informatie te onderzoeken, van gedachten te wisselen over de toepassing of verlenging van de maatregel en een wederzijds bevredigende oplossing te vinden.
+2. Wanneer een partij meent dat er sprake is van de in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=2&afdeling=3&artikel=48&z=2024-11-01&g=2024-11-01) genoemde omstandigheden en derhalve toepassing of verlenging van een definitieve maatregel gerechtvaardigd is, stelt zij de benadeelde partij in de gelegenheid met haar overeenkomstig de wetgeving van elke partij overleg te plegen, teneinde de beschikbare informatie te onderzoeken, van gedachten te wisselen over de toepassing of verlenging van de maatregel en een wederzijds bevredigende oplossing te vinden.
 
 3. Het in lid 2 bedoelde overleg begint binnen 15 dagen nadat de benadeelde partij van de onderzoeksautoriteit de uitnodiging voor overleg heeft ontvangen.
 
@@ -708,7 +708,7 @@ De partijen mogen met betrekking tot hetzelfde product niet tegelijkertijd toepa
 
 ##### Artikel 50. Soorten maatregelen
 
-Wanneer een partij van invoer krachtens [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=2&afdeling=3&artikel=48&z=2012-06-26&g=2012-06-26) een bilaterale vrijwaringsmaatregel toepast, kan deze uit een of meer van de volgende maatregelen bestaan:
+Wanneer een partij van invoer krachtens [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=2&afdeling=3&artikel=48&z=2024-11-01&g=2024-11-01) een bilaterale vrijwaringsmaatregel toepast, kan deze uit een of meer van de volgende maatregelen bestaan:
 
 - a. opschorting van de verdere verlaging van het douanerecht voor het betrokken product overeenkomstig de lijst van die partij in bijlage I (Lijsten inzake tariefafschaffing), of
 
@@ -728,11 +728,11 @@ Wanneer een partij van invoer krachtens [artikel 48](https://wetten.overheid.nl/
 
 1. De partijen mogen een bilaterale vrijwaringsmaatregel slechts toepassen met inachtneming van de volgende beperkingen:
 
-- a. de maatregel mag alleen worden toegepast voor zover en zo lang zij noodzakelijk is om ernstige schade als bedoeld in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=2&afdeling=3&artikel=48&z=2012-06-26&g=2012-06-26) te voorkomen of te herstellen;
+- a. de maatregel mag alleen worden toegepast voor zover en zo lang zij noodzakelijk is om ernstige schade als bedoeld in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=2&afdeling=3&artikel=48&z=2024-11-01&g=2024-11-01) te voorkomen of te herstellen;
 
 - b. de maatregel mag niet langer duren dan twee jaar, welke termijn bij uitzondering met twee jaar kan worden verlengd indien: De totale toepassingsduur van een vrijwaringsmaatregel, inclusief de aanvankelijke toepassingsduur en een eventuele verlenging, bedraagt niet meer dan vier jaar.
 
-- i. de bevoegde instanties van de partij van invoer overeenkomstig de toepasselijke procedures van [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=2&afdeling=3&artikel=51&z=2012-06-26&g=2012-06-26) bepalen dat de maatregel noodzakelijk blijft om ernstige schade als bedoeld in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=2&afdeling=3&artikel=48&z=2012-06-26&g=2012-06-26) te voorkomen of te herstellen; en
+- i. de bevoegde instanties van de partij van invoer overeenkomstig de toepasselijke procedures van [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=2&afdeling=3&artikel=51&z=2024-11-01&g=2024-11-01) bepalen dat de maatregel noodzakelijk blijft om ernstige schade als bedoeld in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=2&afdeling=3&artikel=48&z=2024-11-01&g=2024-11-01) te voorkomen of te herstellen; en
 
 - ii. er bewijzen zijn voor aanpassing van de binnenlandse bedrijfstak.
 
@@ -740,11 +740,11 @@ Wanneer een partij van invoer krachtens [artikel 48](https://wetten.overheid.nl/
 
 ##### Artikel 53. Voorlopige maatregelen
 
-1. In kritieke omstandigheden, wanneer uitstel moeilijk te herstellen schade zou veroorzaken, mag een partij een voorlopige bilaterale vrijwaringsmaatregel toepassen nadat voorlopig is vastgesteld dat er duidelijke bewijzen zijn voor een toename van de invoer van een product van oorsprong uit de partij van uitvoer als gevolg van de verlaging of afschaffing van rechten krachtens bijlage I (Lijsten inzake tariefafschaffing) en dat deze invoer ernstige schade veroorzaakt of dreigt te veroorzaken als bedoeld in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=2&afdeling=3&artikel=48&z=2012-06-26&g=2012-06-26).
+1. In kritieke omstandigheden, wanneer uitstel moeilijk te herstellen schade zou veroorzaken, mag een partij een voorlopige bilaterale vrijwaringsmaatregel toepassen nadat voorlopig is vastgesteld dat er duidelijke bewijzen zijn voor een toename van de invoer van een product van oorsprong uit de partij van uitvoer als gevolg van de verlaging of afschaffing van rechten krachtens bijlage I (Lijsten inzake tariefafschaffing) en dat deze invoer ernstige schade veroorzaakt of dreigt te veroorzaken als bedoeld in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=2&afdeling=3&artikel=48&z=2024-11-01&g=2024-11-01).
 
-2. Een voorlopige maatregel duurt niet langer dan tweehonderd dagen, gedurende welke periode de partij die de maatregel toepast aan de voorschriften van de [artikelen 49](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=2&afdeling=3&artikel=49&z=2012-06-26&g=2012-06-26) en [51, leden 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=2&afdeling=3&artikel=51&z=2012-06-26&g=2012-06-26), moet voldoen.
+2. Een voorlopige maatregel duurt niet langer dan tweehonderd dagen, gedurende welke periode de partij die de maatregel toepast aan de voorschriften van de [artikelen 49](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=2&afdeling=3&artikel=49&z=2024-11-01&g=2024-11-01) en [51, leden 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=2&afdeling=3&artikel=51&z=2024-11-01&g=2024-11-01), moet voldoen.
 
-3. De partij in kwestie betaalt krachtens lid 1 toegepaste tariefverhogingen onverwijld terug wanneer het onderzoek niet uitwijst dat aan de vereisten van [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=2&afdeling=3&artikel=48&z=2012-06-26&g=2012-06-26) is voldaan. De duur van een voorlopige maatregel wordt meegerekend bij de in [artikel 52, lid 1, onder b)](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=2&afdeling=3&artikel=52&z=2012-06-26&g=2012-06-26), bedoelde termijn.
+3. De partij in kwestie betaalt krachtens lid 1 toegepaste tariefverhogingen onverwijld terug wanneer het onderzoek niet uitwijst dat aan de vereisten van [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=2&afdeling=3&artikel=48&z=2024-11-01&g=2024-11-01) is voldaan. De duur van een voorlopige maatregel wordt meegerekend bij de in [artikel 52, lid 1, onder b)](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=2&afdeling=3&artikel=52&z=2024-11-01&g=2024-11-01), bedoelde termijn.
 
 ##### Artikel 54. Compensatie
 
@@ -892,7 +892,7 @@ De [Overeenkomst inzake de toepassing van artikel VII van GATT 1994](onbekend), 
 
 - c. het bevorderen van coördinatie tussen verwante diensten.
 
-3. Samenwerking tussen douaneautoriteiten bij de handhaving van intellectuele-eigendomsrechten gebeurt overeenkomstig het bepaalde in [titel VII](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VII&z=2012-06-26&g=2012-06-26) (Intellectuele eigendom).
+3. Samenwerking tussen douaneautoriteiten bij de handhaving van intellectuele-eigendomsrechten gebeurt overeenkomstig het bepaalde in [titel VII](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VII&z=2024-11-01&g=2024-11-01) (Intellectuele eigendom).
 
 ##### Artikel 67. Wederzijdse bijstand
 
@@ -940,9 +940,9 @@ De partijen verlenen elkaar administratieve bijstand in douanezaken overeenkomst
 
 ##### ARTIKEL 70. Uitvoering
 
-„1. [Artikel 59, lid 2, onder f)](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=3&artikel=59&z=2012-06-26&g=2012-06-26), en [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=3&artikel=60&z=2012-06-26&g=2012-06-26) zijn in Peru van toepassing twee jaar na de inwerkingtreding van deze overeenkomst.
+„1. [Artikel 59, lid 2, onder f)](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=3&artikel=59&z=2024-11-01&g=2024-11-01), en [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=3&artikel=60&z=2024-11-01&g=2024-11-01) zijn in Peru van toepassing twee jaar na de inwerkingtreding van deze overeenkomst.
 
-2. [Artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=3&artikel=60&z=2012-06-26&g=2012-06-26), met uitzondering van de bepalingen met betrekking tot bindende informatie vooraf inzake tariefindeling, en [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=3&artikel=62&z=2012-06-26&g=2012-06-26) zijn in Ecuador van toepassing twee jaar na de inwerkingtreding van het protocol van toetreding tot deze overeenkomst, om rekening te houden met de toetreding van Ecuador.
+2. [Artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=3&artikel=60&z=2024-11-01&g=2024-11-01), met uitzondering van de bepalingen met betrekking tot bindende informatie vooraf inzake tariefindeling, en [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=3&artikel=62&z=2024-11-01&g=2024-11-01) zijn in Ecuador van toepassing twee jaar na de inwerkingtreding van het protocol van toetreding tot deze overeenkomst, om rekening te houden met de toetreding van Ecuador.
 
 ### HOOFDSTUK 4. TECHNISCHE HANDELSBELEMMERINGEN
 
@@ -1148,7 +1148,7 @@ De partijen erkennen het belang van handelsgerelateerde technische bijstand en c
 
 - g. faciliteren, waar nodig, van de dialoog en samenwerking tussen regelgevers, overeenkomstig het bepaalde in dit hoofdstuk;
 
-- h. opstellen, ingevolge [artikel 75, lid 1, onder b)](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=4&artikel=75&z=2012-06-26&g=2012-06-26), van dit hoofdstuk, van een regelmatig te herzien werkprogramma betreffende kwesties die voor de partijen van wederzijds belang zijn;
+- h. opstellen, ingevolge [artikel 75, lid 1, onder b)](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=4&artikel=75&z=2024-11-01&g=2024-11-01), van dit hoofdstuk, van een regelmatig te herzien werkprogramma betreffende kwesties die voor de partijen van wederzijds belang zijn;
 
 - i. onderzoeken van alle andere kwesties in verband met dit hoofdstuk die kunnen bijdragen aan het toegankelijker maken van de markten van de partijen;
 
@@ -1160,7 +1160,7 @@ De partijen erkennen het belang van handelsgerelateerde technische bijstand en c
 
 3. Ten behoeve van de uitvoering van dit hoofdstuk is de vertegenwoordiger van elke partij in het subcomité verantwoordelijk voor de coördinatie met centrale en lokale overheidsinstellingen, niet-gouvernementele instellingen en andere relevante personen op het grondgebied van die partij, en nodigt hij deze instellingen en personen op verzoek van een andere partij uit om de vergaderingen van het subcomité bij te wonen. De vertegenwoordigers van de partijen maken melding van alle kwesties die verband houden met dit hoofdstuk.
 
-4. Tenzij de partijen anders overeenkomen, is overleg als bedoeld in lid 2, onder e), overleg krachtens [artikel 301](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=2&artikel=301&z=2012-06-26&g=2012-06-26), mits aan de voorwaarden van lid 9 van dat artikel is voldaan.
+4. Tenzij de partijen anders overeenkomen, is overleg als bedoeld in lid 2, onder e), overleg krachtens [artikel 301](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=2&artikel=301&z=2024-11-01&g=2024-11-01), mits aan de voorwaarden van lid 9 van dat artikel is voldaan.
 
 5. Het subcomité kan ook vergaderen wanneer behalve de EU maar een van de overeenkomstsluitende Andeslanden deelneemt, als het punt dat op de agenda staat uitsluitend betrekking heeft op de bilaterale betrekkingen tussen de EU en dat Andesland. Wanneer een ander overeenkomstsluitend Andesland blijk geeft van belangstelling voor de kwestie die tijdens bedoelde vergadering wordt besproken, mag het aan de vergadering deelnemen als de EU en het overeenkomstsluitende Andesland dat primair bij de kwestie betrokken is, daarvoor vooraf toestemming hebben gegeven.
 
@@ -1312,7 +1312,7 @@ Het subcomité Sanitaire en fytosanitaire maatregelen kan gelijkwaardigheidsbepa
 
 1. Elke partij stelt de andere partijen binnen twee werkdagen schriftelijk in kennis van ernstige of aanzienlijke gezondheidsrisico’s voor mensen, dieren of planten, waaronder begrepen noodsituaties in de levensmiddelensector.
 
-2. De in lid 1 bedoelde kennisgeving wordt gedaan aan de contactpunten die staan vermeld in de lijst in aanhangsel 4 van bijlage VI (Sanitaire en fytosanitaire maatregelen). Wanneer er wijzigingen zijn met betrekking tot het contactpunt, stellen de partijen elkaar overeenkomstig [artikel 96](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=5&artikel=96&z=2012-06-26&g=2012-06-26) daarvan in kennis. De schriftelijke kennisgeving als bedoeld in lid 1 wordt per post, fax of e-mail gedaan.
+2. De in lid 1 bedoelde kennisgeving wordt gedaan aan de contactpunten die staan vermeld in de lijst in aanhangsel 4 van bijlage VI (Sanitaire en fytosanitaire maatregelen). Wanneer er wijzigingen zijn met betrekking tot het contactpunt, stellen de partijen elkaar overeenkomstig [artikel 96](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=5&artikel=96&z=2024-11-01&g=2024-11-01) daarvan in kennis. De schriftelijke kennisgeving als bedoeld in lid 1 wordt per post, fax of e-mail gedaan.
 
 3. Wanneer een partij zich ernstig zorgen maakt over mogelijke gezondheidsrisico’s voor mensen, dieren en planten van producten die tussen de partijen worden verhandeld, mag een partij de partij van uitvoer verzoeken om overleg hierover. Dit overleg vindt zo spoedig mogelijk plaats. Elke partij streeft ernaar om bij dit overleg alle informatie te verstrekken die nodig is om een verstoring van de handel te voorkomen.
 
@@ -1324,11 +1324,11 @@ Het subcomité Sanitaire en fytosanitaire maatregelen kan gelijkwaardigheidsbepa
 
 2. De partij die krachtens lid 1 maatregelen neemt, stelt de andere partijen daar zo spoedig mogelijk van in kennis, maar in ieder geval niet later dan één werkdag nadat de maatregel is vastgesteld. De andere partijen mogen vragen om informatie over de sanitaire situatie van de partij die de maatregel neemt, alsook om informatie over de maatregel zelf. Zodra de gevraagde informatie beschikbaar is, wordt deze verstrekt door de partij die de maatregel neemt.
 
-3. Op verzoek van een partij, en overeenkomstig de bepalingen van [artikel 97](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=5&artikel=97&z=2012-06-26&g=2012-06-26), treden de partijen in overleg over de situatie; dit overleg vindt plaats binnen vijftien werkdagen na ontvangst van het daartoe strekkende verzoek. Doel van het overleg is het voorkomen van onnodige handelsverstoringen. Tijdens het overleg kan worden gesproken over alternatieve maatregelen of manieren voor het faciliteren van de uitvoering van de maatregelen.
+3. Op verzoek van een partij, en overeenkomstig de bepalingen van [artikel 97](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=5&artikel=97&z=2024-11-01&g=2024-11-01), treden de partijen in overleg over de situatie; dit overleg vindt plaats binnen vijftien werkdagen na ontvangst van het daartoe strekkende verzoek. Doel van het overleg is het voorkomen van onnodige handelsverstoringen. Tijdens het overleg kan worden gesproken over alternatieve maatregelen of manieren voor het faciliteren van de uitvoering van de maatregelen.
 
 ##### Artikel 99. Alternatieve maatregelen
 
-1. Op verzoek van een partij van uitvoer, en met betrekking tot maatregelen van de partij van invoer die gevolgen voor de handel hebben (zoals het vaststellen van specifieke drempels voor additieven, reststoffen en verontreinigende stoffen), treden de betrokken partijen overeenkomstig [artikel 97](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=5&artikel=97&z=2012-06-26&g=2012-06-26) in overleg over aanvullende invoervoorwaarden of alternatieve maatregelen door de partij van invoer. Deze aanvullende invoervoorwaarden of alternatieve maatregelen kunnen, voor zover van toepassing, worden gebaseerd op internationale normen of op maatregelen van de partij van uitvoer die eenzelfde niveau van bescherming bieden als die van de partij van invoer. [Artikel 95](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=5&artikel=95&z=2012-06-26&g=2012-06-26) is niet op deze maatregelen van toepassing.
+1. Op verzoek van een partij van uitvoer, en met betrekking tot maatregelen van de partij van invoer die gevolgen voor de handel hebben (zoals het vaststellen van specifieke drempels voor additieven, reststoffen en verontreinigende stoffen), treden de betrokken partijen overeenkomstig [artikel 97](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=5&artikel=97&z=2024-11-01&g=2024-11-01) in overleg over aanvullende invoervoorwaarden of alternatieve maatregelen door de partij van invoer. Deze aanvullende invoervoorwaarden of alternatieve maatregelen kunnen, voor zover van toepassing, worden gebaseerd op internationale normen of op maatregelen van de partij van uitvoer die eenzelfde niveau van bescherming bieden als die van de partij van invoer. [Artikel 95](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=5&artikel=95&z=2024-11-01&g=2024-11-01) is niet op deze maatregelen van toepassing.
 
 2. Op verzoek van de partij van invoer verstrekt een partij van uitvoer alle volgens de wetgeving van de partij van invoer vereiste informatie, inclusief de resultaten van haar officiële laboratoria en andere wetenschappelijke informatie, voor beoordeling door de geschikte wetenschappelijke instellingen. Indien overeenstemming wordt bereikt, neemt de partij van invoer de wettelijke of bestuurlijke maatregelen om de invoer op basis van die overeenstemming toe te laten.
 
@@ -1340,15 +1340,15 @@ Ingevolge [artikel 10 van de SPS-overeenkomst](https://wetten.overheid.nl/jci1.3
 
 - a. alternatieve invoervoorwaarden door de partij van invoer, en/of
 
-- b. technische bijstand overeenkomstig [artikel 101](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=5&artikel=101&z=2012-06-26&g=2012-06-26), en/of
+- b. technische bijstand overeenkomstig [artikel 101](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=5&artikel=101&z=2024-11-01&g=2024-11-01), en/of
 
 - c. een overgangsperiode van zes maanden, die bij uitzondering met nog eens zes maanden kan worden verlengd.
 
 ##### Artikel 101. Technische bijstand en versterken van de handelscapaciteit
 
-1. Overeenkomstig de bepalingen van [titel XIII](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XIII&z=2012-06-26&g=2012-06-26) (Technische bijstand en opbouw van handelscapaciteit) komen de partijen overeen nauwer samen te werken om bij te dragen aan de uitvoering van dit hoofdstuk en dit optimaal te benutten, teneinde zo gunstig mogelijke resultaten te behalen, de handelsmogelijkheden uit te breiden en voor de partijen zo groot mogelijke voordelen te behalen op het terrein van de volksgezondheid, de gezondheid van dieren en planten en de voedselveiligheid. Deze samenwerking wordt ontwikkeld binnen het wettelijk en institutioneel kader voor de samenwerkingsbetrekkingen tussen de partijen.
+1. Overeenkomstig de bepalingen van [titel XIII](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XIII&z=2024-11-01&g=2024-11-01) (Technische bijstand en opbouw van handelscapaciteit) komen de partijen overeen nauwer samen te werken om bij te dragen aan de uitvoering van dit hoofdstuk en dit optimaal te benutten, teneinde zo gunstig mogelijke resultaten te behalen, de handelsmogelijkheden uit te breiden en voor de partijen zo groot mogelijke voordelen te behalen op het terrein van de volksgezondheid, de gezondheid van dieren en planten en de voedselveiligheid. Deze samenwerking wordt ontwikkeld binnen het wettelijk en institutioneel kader voor de samenwerkingsbetrekkingen tussen de partijen.
 
-2. Voor het realiseren van deze doelstellingen komen de partijen overeen bijzonder belang te hechten aan de door het subcomité Sanitaire en fytosanitaire maatregelen vastgestelde samenwerkingsbehoeften en informatie daarover uit te wisselen, zoals bepaald in [titel XIII](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XIII&z=2012-06-26&g=2012-06-26) (Technische bijstand en opbouw van handelscapaciteit). Dit subcomité kan de genoemde behoeften ook herzien.
+2. Voor het realiseren van deze doelstellingen komen de partijen overeen bijzonder belang te hechten aan de door het subcomité Sanitaire en fytosanitaire maatregelen vastgestelde samenwerkingsbehoeften en informatie daarover uit te wisselen, zoals bepaald in [titel XIII](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XIII&z=2024-11-01&g=2024-11-01) (Technische bijstand en opbouw van handelscapaciteit). Dit subcomité kan de genoemde behoeften ook herzien.
 
 ##### Artikel 102. Samenwerking op het gebied van dierenwelzijn
 
@@ -1370,9 +1370,9 @@ Het subcomité Sanitaire en fytosanitaire maatregelen bevordert de samenwerking 
 
 - d. in kaart brengen van samenwerkingsbehoeften;
 
-- e. voeren van het in [artikel 104](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=5&artikel=104&z=2012-06-26&g=2012-06-26) bedoelde overleg voor het beslechten van geschillen die voortvloeien uit dit hoofdstuk;
+- e. voeren van het in [artikel 104](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=5&artikel=104&z=2024-11-01&g=2024-11-01) bedoelde overleg voor het beslechten van geschillen die voortvloeien uit dit hoofdstuk;
 
-- f. voeren van het in [artikel 100](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=5&artikel=100&z=2012-06-26&g=2012-06-26) bedoelde overleg over bijzondere en afwijkende behandeling;
+- f. voeren van het in [artikel 100](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=5&artikel=100&z=2024-11-01&g=2024-11-01) bedoelde overleg over bijzondere en afwijkende behandeling;
 
 - g. verrichten van andere door de partijen overeengekomen taken.
 
@@ -1382,7 +1382,7 @@ Het subcomité Sanitaire en fytosanitaire maatregelen bevordert de samenwerking 
 
 1. Wanneer een partij van mening is dat een sanitaire of fytosanitaire maatregel van een andere partij in strijd is of kan zijn met verplichtingen die voortvloeien uit dit hoofdstuk, of dat een andere partij een onder dit hoofdstuk vallende verplichting met betrekking tot een sanitaire of fytosanitaire maatregel heeft geschonden, kan zij om technisch overleg in het subcomité Sanitaire en fytosanitaire maatregelen verzoeken. De in aanhangsel 1 van bijlage VI (Sanitaire en fytosanitaire maatregelen) vermelde bevoegde instanties faciliteren dit overleg.
 
-2. Tenzij door de partijen bij een geschil anders is overeengekomen, geldt dat wanneer een geschil overeenkomstig lid 1 onderwerp is geweest van overleg in het subcomité Sanitaire en fytosanitaire maatregelen, dat overleg in de plaats komt van het in [artikel 301](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=2&artikel=301&z=2012-06-26&g=2012-06-26) bedoelde overleg, mits het voldoet aan de voorwaarden van lid 9 van dat artikel. Overleg in het subcomité Sanitaire en fytosanitaire maatregelen wordt dertig dagen na de datum van indiening van het verzoek geacht te zijn afgesloten, tenzij de overlegvoerende partijen besluiten het overleg voort te zetten. Dit overleg kan worden gehouden via videoconferentie of via enig ander door de overlegvoerende partijen overeengekomen technologisch middel.
+2. Tenzij door de partijen bij een geschil anders is overeengekomen, geldt dat wanneer een geschil overeenkomstig lid 1 onderwerp is geweest van overleg in het subcomité Sanitaire en fytosanitaire maatregelen, dat overleg in de plaats komt van het in [artikel 301](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=2&artikel=301&z=2024-11-01&g=2024-11-01) bedoelde overleg, mits het voldoet aan de voorwaarden van lid 9 van dat artikel. Overleg in het subcomité Sanitaire en fytosanitaire maatregelen wordt dertig dagen na de datum van indiening van het verzoek geacht te zijn afgesloten, tenzij de overlegvoerende partijen besluiten het overleg voort te zetten. Dit overleg kan worden gehouden via videoconferentie of via enig ander door de overlegvoerende partijen overeengekomen technologisch middel.
 
 ### HOOFDSTUK 6
 
@@ -1392,9 +1392,9 @@ Het subcomité Sanitaire en fytosanitaire maatregelen bevordert de samenwerking 
 
 - a. geldt voor producten van oorsprong uit een overeenkomstsluitend Andesland vrij verkeer van goederen binnen het grondgebied van de Europese Unie, onder de voorwaarden die in het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) voor het vrije verkeer van goederen van oorsprong uit derde landen zijn neergelegd;
 
-- b. behandelen de overeenkomstsluitende Andeslanden elkaar met betrekking tot het goederenverkeer niet minder gunstig dan dat zij de EU ingevolge deze overeenkomst behandelen, behoudens de bepalingen van de Andean Subregional Integration Agreement, hierna de „Overeenkomst van Cartagena” genoemd. Deze verplichting is niet onderworpen aan het bepaalde in [titel XII](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&z=2012-06-26&g=2012-06-26) (Geschillenbeslechting);
+- b. behandelen de overeenkomstsluitende Andeslanden elkaar met betrekking tot het goederenverkeer niet minder gunstig dan dat zij de EU ingevolge deze overeenkomst behandelen, behoudens de bepalingen van de Andean Subregional Integration Agreement, hierna de „Overeenkomst van Cartagena” genoemd. Deze verplichting is niet onderworpen aan het bepaalde in [titel XII](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&z=2024-11-01&g=2024-11-01) (Geschillenbeslechting);
 
-- c. doen de overeenkomstsluitende Andeslanden, met inachtneming van het bepaalde in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=I&hoofdstuk=2&artikel=10&z=2012-06-26&g=2012-06-26), hun best om het verkeer van goederen van oorsprong uit de Europese Unie tussen hun grondgebieden te vergemakkelijken en dubbele procedures en controles te voorkomen.
+- c. doen de overeenkomstsluitende Andeslanden, met inachtneming van het bepaalde in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=I&hoofdstuk=2&artikel=10&z=2024-11-01&g=2024-11-01), hun best om het verkeer van goederen van oorsprong uit de Europese Unie tussen hun grondgebieden te vergemakkelijken en dubbele procedures en controles te voorkomen.
 
 2. Afgezien van lid 1 geldt het volgende:
 
@@ -1416,7 +1416,7 @@ Het subcomité Sanitaire en fytosanitaire maatregelen bevordert de samenwerking 
 
 ### HOOFDSTUK 7. UITZONDERINGEN
 
-##### Artikel 106. Uitzonderingen op [titel III](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&z=2012-06-26&g=2012-06-26) (Handel in goederen)
+##### Artikel 106. Uitzonderingen op [titel III](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&z=2024-11-01&g=2024-11-01) (Handel in goederen)
 
 1. Mits maatregelen niet zodanig worden toegepast dat zij een middel tot willekeurige of ongerechtvaardigde discriminatie tussen de partijen vormen in gelijke omstandigheden, of een verkapte beperking van de handel in goederen tussen de partijen, wordt niets in deze overeenkomst uitgelegd als beletsel voor het vaststellen of handhaven door een partij van maatregelen die:
 
@@ -1426,7 +1426,7 @@ Het subcomité Sanitaire en fytosanitaire maatregelen bevordert de samenwerking 
 
 - c. verband houden met de in- of uitvoer van goud of zilver;
 
-- d. noodzakelijk zijn voor de handhaving van wet- of regelgeving die niet strijdig is met deze overeenkomst, met inbegrip van maatregelen voor de handhaving van douanevoorschriften, de handhaving van monopolies waarvan de werking in overeenstemming is met [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=1&afdeling=3&artikel=27&z=2012-06-26&g=2012-06-26), de bescherming van intellectuele-eigendomsrechten en de voorkoming van misleidende praktijken;
+- d. noodzakelijk zijn voor de handhaving van wet- of regelgeving die niet strijdig is met deze overeenkomst, met inbegrip van maatregelen voor de handhaving van douanevoorschriften, de handhaving van monopolies waarvan de werking in overeenstemming is met [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=1&afdeling=3&artikel=27&z=2024-11-01&g=2024-11-01), de bescherming van intellectuele-eigendomsrechten en de voorkoming van misleidende praktijken;
 
 - e. betrekking hebben op de voortbrengselen van gevangenisarbeid;
 
@@ -1496,7 +1496,7 @@ Voor zover noodzakelijk en gerechtvaardigd kan het Handelscomité een werkgroep 
 
 - b. doen van voorstellen voor richtsnoeren en strategieën waarmee de overeenkomstsluitende Andeslanden zichzelf tot een „veilige haven” voor persoonsgegevens kunnen maken. De werkgroep stelt daarvoor een samenwerkingsagenda met prioriteiten vast, vooral met betrekking tot de homologatieprocessen van gegevensbeschermingssystemen;
 
-- c. zoeken van de noodzakelijke mechanismen voor aspecten die onder [artikel 162](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=6&artikel=162&z=2012-06-26&g=2012-06-26) vallen;
+- c. zoeken van de noodzakelijke mechanismen voor aspecten die onder [artikel 162](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=6&artikel=162&z=2024-11-01&g=2024-11-01) vallen;
 
 - d. doen van aanbevelingen voor hulpmechanismen voor micro-ondernemingen en KMO’s die problemen ondervinden bij het gebruik van elektronische handel;
 
@@ -1674,7 +1674,7 @@ De sectoren waarvoor elke partij ingevolge dit hoofdstuk verbintenissen aangaat,
 
 ##### Artikel 122. Toepassingsgebied
 
-Dit hoofdstuk is van toepassing op maatregelen van een partij betreffende de toegang tot en het tijdelijke verblijf op haar grondgebied van stafpersoneel, afgestudeerde stagiairs, verkopers van zakelijke diensten, dienstverleners op contractbasis, beoefenaars van een vrij beroep en kortetermijnbezoekers voor zaken, overeenkomstig [artikel 107, lid 6](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=1&artikel=107&z=2012-06-26&g=2012-06-26).
+Dit hoofdstuk is van toepassing op maatregelen van een partij betreffende de toegang tot en het tijdelijke verblijf op haar grondgebied van stafpersoneel, afgestudeerde stagiairs, verkopers van zakelijke diensten, dienstverleners op contractbasis, beoefenaars van een vrij beroep en kortetermijnbezoekers voor zaken, overeenkomstig [artikel 107, lid 6](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=1&artikel=107&z=2024-11-01&g=2024-11-01).
 
 ##### Artikel 123. Definities
 
@@ -1708,13 +1708,13 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder:
 
 ##### Artikel 124. Stafpersoneel en afgestudeerde stagiairs
 
-1. Voor elke sector waarvoor overeenkomstig [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=2&z=2012-06-26&g=2012-06-26) (Vestiging) van deze titel verbintenissen worden aangegaan, en behoudens eventuele in bijlage VII (Lijst van verbintenissen inzake vestiging) of aanhangsel 1 van bijlage IX (Voorbehouden betreffende de tijdelijke aanwezigheid van natuurlijke personen voor zaken) vermelde voorbehouden, staat elke partij investeerders van een andere partij toe in hun vestiging natuurlijke personen van die andere partij te werk te stellen, mits die werknemers stafpersoneel of afgestudeerde stagiairs als gedefinieerd in [artikel 123](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=4&artikel=123&z=2012-06-26&g=2012-06-26) zijn. De duur van het tijdelijke verblijf van stafpersoneel en afgestudeerde stagiairs bedraagt ten hoogste drie jaar(35)Voor Colombia en Ecuador bedraagt de maximale verblijfsduur voor binnen de onderneming overgeplaatste personen twee jaar, welke termijn met een jaar kan worden verlengd. Voor Peru is de maximale duur van de arbeidsovereenkomst drie jaar. De maximale verblijfsduur voor binnen de onderneming overgeplaatste personen is echter één jaar, welke termijn kan worden verlengd als de voorwaarden waaronder de verblijfsvergunning is verstrekt nog steeds worden vervuld. voor binnen een onderneming overgeplaatste personen, ten hoogste negentig dagen binnen een periode van twaalf maanden voor zakelijke bezoekers, en ten hoogste één jaar voor afgestudeerde stagiairs.
+1. Voor elke sector waarvoor overeenkomstig [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=2&z=2024-11-01&g=2024-11-01) (Vestiging) van deze titel verbintenissen worden aangegaan, en behoudens eventuele in bijlage VII (Lijst van verbintenissen inzake vestiging) of aanhangsel 1 van bijlage IX (Voorbehouden betreffende de tijdelijke aanwezigheid van natuurlijke personen voor zaken) vermelde voorbehouden, staat elke partij investeerders van een andere partij toe in hun vestiging natuurlijke personen van die andere partij te werk te stellen, mits die werknemers stafpersoneel of afgestudeerde stagiairs als gedefinieerd in [artikel 123](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=4&artikel=123&z=2024-11-01&g=2024-11-01) zijn. De duur van het tijdelijke verblijf van stafpersoneel en afgestudeerde stagiairs bedraagt ten hoogste drie jaar(35)Voor Colombia en Ecuador bedraagt de maximale verblijfsduur voor binnen de onderneming overgeplaatste personen twee jaar, welke termijn met een jaar kan worden verlengd. Voor Peru is de maximale duur van de arbeidsovereenkomst drie jaar. De maximale verblijfsduur voor binnen de onderneming overgeplaatste personen is echter één jaar, welke termijn kan worden verlengd als de voorwaarden waaronder de verblijfsvergunning is verstrekt nog steeds worden vervuld. voor binnen een onderneming overgeplaatste personen, ten hoogste negentig dagen binnen een periode van twaalf maanden voor zakelijke bezoekers, en ten hoogste één jaar voor afgestudeerde stagiairs.
 
-2. Voor elke sector waarvoor overeenkomstig [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=2&z=2012-06-26&g=2012-06-26) (Vestiging) van deze titel verbintenissen worden aangegaan, worden de volgende maatregelen door de partijen noch op basis van een regionale onderverdeling, noch voor het gehele grondgebied gehandhaafd of vastgesteld, tenzij in aanhangsel 1 van bijlage IX (Voorbehouden betreffende de tijdelijke aanwezigheid van natuurlijke personen voor zaken) anders is bepaald: discriminatoire beperkingen en beperkingen van het totale aantal natuurlijke personen dat een investeerder als stafpersoneel of afgestudeerde stagiair naar een bepaalde sector mag overplaatsen, in de vorm van numerieke quota of de eis van een onderzoek naar de economische behoefte.
+2. Voor elke sector waarvoor overeenkomstig [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=2&z=2024-11-01&g=2024-11-01) (Vestiging) van deze titel verbintenissen worden aangegaan, worden de volgende maatregelen door de partijen noch op basis van een regionale onderverdeling, noch voor het gehele grondgebied gehandhaafd of vastgesteld, tenzij in aanhangsel 1 van bijlage IX (Voorbehouden betreffende de tijdelijke aanwezigheid van natuurlijke personen voor zaken) anders is bepaald: discriminatoire beperkingen en beperkingen van het totale aantal natuurlijke personen dat een investeerder als stafpersoneel of afgestudeerde stagiair naar een bepaalde sector mag overplaatsen, in de vorm van numerieke quota of de eis van een onderzoek naar de economische behoefte.
 
 ##### Artikel 125. Verkopers van zakelijke diensten
 
-Voor elke sector waarvoor overeenkomstig [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=2&z=2012-06-26&g=2012-06-26) (Vestiging) of [3](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=3&z=2012-06-26&g=2012-06-26) (Grensoverschrijdende dienstverlening) verbintenissen worden aangegaan, en behoudens eventuele in de bijlagen VII (Lijst van verbintenissen inzake vestiging) en VIII (Lijst van verbintenissen inzake grensoverschrijdende dienstverlening) vermelde voorbehouden, staat elke partij de toegang tot haar grondgebied en het tijdelijke verblijf aldaar van verkopers van zakelijke diensten toe voor maximaal negentig dagen binnen een periode van twaalf maanden.
+Voor elke sector waarvoor overeenkomstig [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=2&z=2024-11-01&g=2024-11-01) (Vestiging) of [3](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=3&z=2024-11-01&g=2024-11-01) (Grensoverschrijdende dienstverlening) verbintenissen worden aangegaan, en behoudens eventuele in de bijlagen VII (Lijst van verbintenissen inzake vestiging) en VIII (Lijst van verbintenissen inzake grensoverschrijdende dienstverlening) vermelde voorbehouden, staat elke partij de toegang tot haar grondgebied en het tijdelijke verblijf aldaar van verkopers van zakelijke diensten toe voor maximaal negentig dagen binnen een periode van twaalf maanden.
 
 ##### Artikel 126. Dienstverleners op contractbasis
 
@@ -2006,7 +2006,7 @@ mits bedoelde tijdelijke bezoekers:
 
 ##### Artikel 132. Afspraak over diensten in verband met computers
 
-Voor zover de handel in diensten in verband met computers in overeenstemming met de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=2&z=2012-06-26&g=2012-06-26) (Vestiging), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=3&z=2012-06-26&g=2012-06-26) (Grensoverschrijdende dienstverlening) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=4&z=2012-06-26&g=2012-06-26) (Tijdelijke aanwezigheid van natuurlijke personen voor zaken) is geliberaliseerd, onderschrijven de partijen de onder a), b) en c) neergelegde afspraak:
+Voor zover de handel in diensten in verband met computers in overeenstemming met de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=2&z=2024-11-01&g=2024-11-01) (Vestiging), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=3&z=2024-11-01&g=2024-11-01) (Grensoverschrijdende dienstverlening) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=4&z=2024-11-01&g=2024-11-01) (Tijdelijke aanwezigheid van natuurlijke personen voor zaken) is geliberaliseerd, onderschrijven de partijen de onder a), b) en c) neergelegde afspraak:
 
 - a. de code CPC 84, die wordt gebruikt voor het beschrijven van diensten in verband met computers, heeft betrekking op de basisfuncties voor alle diensten in verband met computers: computerprogramma’s, gedefinieerd als de instructies waardoor computers kunnen werken en met elkaar kunnen communiceren (met inbegrip van de ontwikkeling en implementatie ervan), gegevensverwerking en -opslag, en aanverwante diensten, zoals het geven van adviezen en opleidingen aan het personeel van klanten. Technologische ontwikkelingen hebben geleid tot een toename van het aanbod van deze diensten als een pakket verwante diensten die alle of een deel van deze basisfuncties kunnen omvatten. Zo bestaan diensten als web- of domeinhosting, datamining en gridcomputing allemaal uit een combinatie van basisfuncties van diensten in verband met computers;
 
@@ -2028,11 +2028,11 @@ Voor zover de handel in diensten in verband met computers in overeenstemming met
 
 ##### Artikel 133. Toepassingsgebied
 
-Deze afdeling bevat de beginselen van het regelgevingskader voor alle post- en koeriersdiensten waarvoor in overeenstemming met de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=2&z=2012-06-26&g=2012-06-26) (Vestiging), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=3&z=2012-06-26&g=2012-06-26) (Grensoverschrijdende dienstverlening) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=4&z=2012-06-26&g=2012-06-26) (Tijdelijke aanwezigheid van natuurlijke personen voor zaken) verbintenissen zijn aangegaan.
+Deze afdeling bevat de beginselen van het regelgevingskader voor alle post- en koeriersdiensten waarvoor in overeenstemming met de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=2&z=2024-11-01&g=2024-11-01) (Vestiging), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=3&z=2024-11-01&g=2024-11-01) (Grensoverschrijdende dienstverlening) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=4&z=2024-11-01&g=2024-11-01) (Tijdelijke aanwezigheid van natuurlijke personen voor zaken) verbintenissen zijn aangegaan.
 
 ##### Artikel 134. Definities
 
-Voor de toepassing van deze afdeling en van de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=2&z=2012-06-26&g=2012-06-26) (Vestiging), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=3&z=2012-06-26&g=2012-06-26) (Grensoverschrijdende dienstverlening) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=4&z=2012-06-26&g=2012-06-26) (Tijdelijke aanwezigheid van natuurlijke personen voor zaken) wordt verstaan onder:
+Voor de toepassing van deze afdeling en van de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=2&z=2024-11-01&g=2024-11-01) (Vestiging), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=3&z=2024-11-01&g=2024-11-01) (Grensoverschrijdende dienstverlening) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=4&z=2024-11-01&g=2024-11-01) (Tijdelijke aanwezigheid van natuurlijke personen voor zaken) wordt verstaan onder:
 
 - –. „individuele vergunning”: een vergunning, concessie of toestemming die door een regelgevende instantie aan een individuele dienstverlener wordt gegeven en die nodig is om een bepaalde dienst te verlenen;
 
@@ -2040,7 +2040,7 @@ Voor de toepassing van deze afdeling en van de [hoofdstukken 2](https://wetten.o
 
 ##### Artikel 135. Voorkoming van concurrentiebeperkende praktijken bij post- en koeriersdiensten
 
-Overeenkomstig de bepalingen van [titel VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VIII&z=2012-06-26&g=2012-06-26) (Mededinging) worden door elke partij passende maatregelen ingevoerd dan wel gehandhaafd om te voorkomen dat dienstverleners die, alleen of samen met andere dienstverleners, de voorwaarden voor deelneming (wat prijs en aanbod betreft) in de desbetreffende markt voor post- en koeriersdiensten door het gebruik van hun marktpositie wezenlijk kunnen beïnvloeden, concurrentiebeperkende praktijken gaan toepassen of voortzetten.
+Overeenkomstig de bepalingen van [titel VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VIII&z=2024-11-01&g=2024-11-01) (Mededinging) worden door elke partij passende maatregelen ingevoerd dan wel gehandhaafd om te voorkomen dat dienstverleners die, alleen of samen met andere dienstverleners, de voorwaarden voor deelneming (wat prijs en aanbod betreft) in de desbetreffende markt voor post- en koeriersdiensten door het gebruik van hun marktpositie wezenlijk kunnen beïnvloeden, concurrentiebeperkende praktijken gaan toepassen of voortzetten.
 
 ##### Artikel 136. Universele dienst
 
@@ -2088,7 +2088,7 @@ Voor de toepassing van deze afdeling wordt verstaan onder:
 
 ##### Artikel 141. Concurrentiewaarborgen ten aanzien van grote leveranciers
 
-Overeenkomstig de bepalingen van [titel VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VIII&z=2012-06-26&g=2012-06-26) (Mededinging) stelt elke partij passende maatregelen vast, of handhaaft zij bestaande maatregelen, om te voorkomen dat leveranciers die alleen of samen met andere leveranciers een grote leverancier zijn, concurrentiebeperkende praktijken gaan toepassen of voortzetten. In dit verband wordt onder concurrentiebeperkende praktijken met name het volgende verstaan:
+Overeenkomstig de bepalingen van [titel VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VIII&z=2024-11-01&g=2024-11-01) (Mededinging) stelt elke partij passende maatregelen vast, of handhaaft zij bestaande maatregelen, om te voorkomen dat leveranciers die alleen of samen met andere leveranciers een grote leverancier zijn, concurrentiebeperkende praktijken gaan toepassen of voortzetten. In dit verband wordt onder concurrentiebeperkende praktijken met name het volgende verstaan:
 
 - a. het op concurrentiebeperkende wijze toepassen van kruissubsidiëring of het uithollen van de marges van concurrenten48)De toevoeging „het uithollen van de marges van concurrenten” geldt alleen voor de EU.;
 
@@ -2176,7 +2176,7 @@ Overeenkomstig de bepalingen van [titel VIII](https://wetten.overheid.nl/jci1.3:
 
 5. Elke partij schrijft voor dat grote leveranciers hun interconnectieovereenkomsten of referentieoffertes voor interconnectie, algemeen bekend moeten maken.
 
-6. Elke partij ziet erop toe dat een dienstverlener die om interconnectie met een grote leverancier verzoekt, te allen tijde, dan wel na een algemeen bekendgemaakte redelijke termijn, een beroep kan doen op een onafhankelijke intern orgaan, zoals de in [artikel 143](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=5&afdeling=4&artikel=143&z=2012-06-26&g=2012-06-26) bedoelde regelgevende instantie, om geschillen over de voorwaarden en tarieven voor interconnectie binnen een redelijke periode te beslechten.
+6. Elke partij ziet erop toe dat een dienstverlener die om interconnectie met een grote leverancier verzoekt, te allen tijde, dan wel na een algemeen bekendgemaakte redelijke termijn, een beroep kan doen op een onafhankelijke intern orgaan, zoals de in [artikel 143](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=5&afdeling=4&artikel=143&z=2024-11-01&g=2024-11-01) bedoelde regelgevende instantie, om geschillen over de voorwaarden en tarieven voor interconnectie binnen een redelijke periode te beslechten.
 
 ##### Artikel 146. Schaarse middelen
 
@@ -2212,11 +2212,11 @@ Elke partij waarborgt het vertrouwelijke karakter van het telecommunicatieverkee
 
 ##### Artikel 151. Toepassingsgebied
 
-Deze afdeling bevat de beginselen van het regelgevingskader voor alle financiële diensten waarvoor in overeenstemming met de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=2&z=2012-06-26&g=2012-06-26) (Vestiging), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=3&z=2012-06-26&g=2012-06-26) (Grensoverschrijdende dienstverlening) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=4&z=2012-06-26&g=2012-06-26) (Tijdelijke aanwezigheid van natuurlijke personen voor zaken) van deze titel verbintenissen zijn aangegaan. Deze afdeling is van toepassing op maatregelen die gevolgen hebben voor het verlenen van financiële diensten52)Voor de toepassing van deze afdeling wordt onder het verlenen van een financiële dienst verstaan het verlenen van een dienst als gedefinieerd in artikel 108..
+Deze afdeling bevat de beginselen van het regelgevingskader voor alle financiële diensten waarvoor in overeenstemming met de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=2&z=2024-11-01&g=2024-11-01) (Vestiging), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=3&z=2024-11-01&g=2024-11-01) (Grensoverschrijdende dienstverlening) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=4&z=2024-11-01&g=2024-11-01) (Tijdelijke aanwezigheid van natuurlijke personen voor zaken) van deze titel verbintenissen zijn aangegaan. Deze afdeling is van toepassing op maatregelen die gevolgen hebben voor het verlenen van financiële diensten52)Voor de toepassing van deze afdeling wordt onder het verlenen van een financiële dienst verstaan het verlenen van een dienst als gedefinieerd in artikel 108..
 
 ##### Artikel 152. Definities
 
-Voor de toepassing van dit hoofdstuk en de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=2&z=2012-06-26&g=2012-06-26) (Vestiging), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=3&z=2012-06-26&g=2012-06-26) (Grensoverschrijdende dienstverlening) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=4&z=2012-06-26&g=2012-06-26) (Tijdelijke aanwezigheid van natuurlijke personen voor zaken) van deze titel:
+Voor de toepassing van dit hoofdstuk en de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=2&z=2024-11-01&g=2024-11-01) (Vestiging), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=3&z=2024-11-01&g=2024-11-01) (Grensoverschrijdende dienstverlening) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=4&z=2024-11-01&g=2024-11-01) (Tijdelijke aanwezigheid van natuurlijke personen voor zaken) van deze titel:
 
 - –. onder „financiële dienst” verstaan: elke dienst van financiële aard die wordt aangeboden door een financiële dienstverlener van een partij. Financiële diensten omvatten alle verzekeringen en aanverwante diensten en bankdiensten en andere financiële diensten (behalve verzekeringen). Financiële diensten omvatten de volgende activiteiten:
 
@@ -2282,9 +2282,9 @@ Voor de toepassing van dit hoofdstuk en de [hoofdstukken 2](https://wetten.overh
 
 - b. een particuliere instantie, wanneer deze taken vervult die normaliter door een centrale bank of monetaire autoriteit worden vervuld;
 
-- –. wordt onder „zelfregulerende organisatie” verstaan: elk niet-gouvernementeel orgaan, met inbegrip van effecten- of termijnbeurzen of -markten, verrekenkantoren of andere organisaties of verenigingen die eigen of aan hun gedelegeerde regelgevings- of toezichtbevoegdheden ten aanzien van verleners van financiële diensten uitoefenen; een zelfregulerende organisatie wordt niet geacht een aangewezen monopolie in de zin van [titel VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VIII&z=2012-06-26&g=2012-06-26) (Mededinging) te zijn;
+- –. wordt onder „zelfregulerende organisatie” verstaan: elk niet-gouvernementeel orgaan, met inbegrip van effecten- of termijnbeurzen of -markten, verrekenkantoren of andere organisaties of verenigingen die eigen of aan hun gedelegeerde regelgevings- of toezichtbevoegdheden ten aanzien van verleners van financiële diensten uitoefenen; een zelfregulerende organisatie wordt niet geacht een aangewezen monopolie in de zin van [titel VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VIII&z=2024-11-01&g=2024-11-01) (Mededinging) te zijn;
 
-- –. omvatten „diensten verleend in het kader van de uitoefening van overheidsgezag”: voor de toepassing van [artikel 108](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=1&artikel=108&z=2012-06-26&g=2012-06-26) ook: geldt voor de toepassing van de definitie in [artikel 108](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=1&artikel=108&z=2012-06-26&g=2012-06-26) van „diensten verleend in het kader van de uitoefening van overheidsgezag” dat wanneer een partij toestaat dat een onder b) of c) genoemde activiteit door haar financiële dienstverleners in concurrentie met een openbare instantie of een financiële dienstverlener wordt verricht, deze activiteit onder de definitie van diensten in artikel 108 valt.
+- –. omvatten „diensten verleend in het kader van de uitoefening van overheidsgezag”: voor de toepassing van [artikel 108](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=1&artikel=108&z=2024-11-01&g=2024-11-01) ook: geldt voor de toepassing van de definitie in [artikel 108](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=1&artikel=108&z=2024-11-01&g=2024-11-01) van „diensten verleend in het kader van de uitoefening van overheidsgezag” dat wanneer een partij toestaat dat een onder b) of c) genoemde activiteit door haar financiële dienstverleners in concurrentie met een openbare instantie of een financiële dienstverlener wordt verricht, deze activiteit onder de definitie van diensten in artikel 108 valt.
 
 - a. activiteiten van een centrale bank, monetaire autoriteit of andere openbare instantie voor de uitvoering van het monetaire of wisselkoersbeleid;
 
@@ -2306,7 +2306,7 @@ ziet die partij erop toe dat die entiteiten nationale behandeling toekennen aan 
 
 ##### Artikel 154. Prudentiële uitzonderingsbepaling
 
-1. Niettegenstaande andere bepalingen van deze titel of [titel V](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=V&z=2012-06-26&g=2012-06-26) (Lopende betalingen en kapitaalverkeer) kan een partij om prudentiële redenen(52a)De uitdrukking „prudentiële redenen” kan het handhaven van de veiligheid, degelijkheid, integriteit of financiële verantwoordelijkheid van individuele verleners van financiële diensten omvatten. maatregelen vaststellen of handhaven, zoals:
+1. Niettegenstaande andere bepalingen van deze titel of [titel V](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=V&z=2024-11-01&g=2024-11-01) (Lopende betalingen en kapitaalverkeer) kan een partij om prudentiële redenen(52a)De uitdrukking „prudentiële redenen” kan het handhaven van de veiligheid, degelijkheid, integriteit of financiële verantwoordelijkheid van individuele verleners van financiële diensten omvatten. maatregelen vaststellen of handhaven, zoals:
 
 - a. de bescherming van investeerders, spaarders, polishouders of personen aan wie een financiële dienstverlener een fiduciair recht verschuldigd is;
 
@@ -2362,7 +2362,7 @@ Elke partij staat op haar grondgebied gevestigde financiële dienstverleners van
 
 ##### Artikel 160. Toepassingsgebied en beginselen
 
-1. Deze afdeling bevat de beginselen voor het internationaal zeevervoer waarvoor in overeenstemming met de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=2&z=2012-06-26&g=2012-06-26) (Vestiging), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=3&z=2012-06-26&g=2012-06-26) (Grensoverschrijdende dienstverlening) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=4&z=2012-06-26&g=2012-06-26) (Tijdelijke aanwezigheid van natuurlijke personen voor zaken) van deze titel verbintenissen zijn aangegaan.
+1. Deze afdeling bevat de beginselen voor het internationaal zeevervoer waarvoor in overeenstemming met de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=2&z=2024-11-01&g=2024-11-01) (Vestiging), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=3&z=2024-11-01&g=2024-11-01) (Grensoverschrijdende dienstverlening) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=4&z=2024-11-01&g=2024-11-01) (Tijdelijke aanwezigheid van natuurlijke personen voor zaken) van deze titel verbintenissen zijn aangegaan.
 
 2. Gezien het huidige niveau van de liberalisering tussen de partijen op het gebied van het internationale zeevervoer:
 
@@ -2382,7 +2382,7 @@ Elke partij staat op haar grondgebied gevestigde financiële dienstverleners van
 
 ##### Artikel 161. Definities
 
-Voor de toepassing van deze afdeling en de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=2&z=2012-06-26&g=2012-06-26) (Vestiging), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=3&z=2012-06-26&g=2012-06-26) (Grensoverschrijdende dienstverlening) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=4&z=2012-06-26&g=2012-06-26) (Tijdelijke aanwezigheid van natuurlijke personen voor zaken) van deze titel:
+Voor de toepassing van deze afdeling en de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=2&z=2024-11-01&g=2024-11-01) (Vestiging), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=3&z=2024-11-01&g=2024-11-01) (Grensoverschrijdende dienstverlening) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=4&z=2024-11-01&g=2024-11-01) (Tijdelijke aanwezigheid van natuurlijke personen voor zaken) van deze titel:
 
 - –. wordt onder „diensten in verband met de opslag van containers” verstaan: de opslag van containers op haventerreinen of verder landinwaarts, om ze te laden of te lossen, te repareren en gereed te maken voor verscheping;
 
@@ -2414,7 +2414,7 @@ Voor de toepassing van deze afdeling en de [hoofdstukken 2](https://wetten.overh
 
 2. De partijen zijn het erover eens dat de ontwikkeling van elektronische handel in overeenstemming moet zijn met de internationale normen inzake gegevensbescherming, zodat de gebruikers vertrouwen in elektronische handel hebben.
 
-3. Leveringen via elektronische middelen worden geacht leveringen van diensten in de zin van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=3&z=2012-06-26&g=2012-06-26) (Grensoverschrijdende dienstverlening) te zijn, waarover geen douanerechten zijn verschuldigd.
+3. Leveringen via elektronische middelen worden geacht leveringen van diensten in de zin van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=3&z=2024-11-01&g=2024-11-01) (Grensoverschrijdende dienstverlening) te zijn, waarover geen douanerechten zijn verschuldigd.
 
 ##### Artikel 163. Regelgevingsaspecten van elektronische handel
 
@@ -2458,7 +2458,7 @@ De partijen streven ernaar, voor zover mogelijk en binnen hun respectieve bevoeg
 
 ##### Artikel 167. Algemene uitzonderingen
 
-1. Mits maatregelen niet zodanig worden toegepast dat zij een middel tot willekeurige of ongerechtvaardigde discriminatie tussen de partijen of een verkapte beperking van het recht van vestiging of van grensoverschrijdende dienstverlening vormen, wordt niets in deze titel en [titel V](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=V&z=2012-06-26&g=2012-06-26) (Lopende betalingen en kapitaalverkeer) uitgelegd als beletsel voor het vaststellen of toepassen door een partij van maatregelen die:
+1. Mits maatregelen niet zodanig worden toegepast dat zij een middel tot willekeurige of ongerechtvaardigde discriminatie tussen de partijen of een verkapte beperking van het recht van vestiging of van grensoverschrijdende dienstverlening vormen, wordt niets in deze titel en [titel V](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=V&z=2024-11-01&g=2024-11-01) (Lopende betalingen en kapitaalverkeer) uitgelegd als beletsel voor het vaststellen of toepassen door een partij van maatregelen die:
 
 - a. noodzakelijk zijn voor het beschermen van de openbare veiligheid of de openbare zeden of voor het handhaven van de openbare orde54)Op de uitzondering betreffende de openbare orde kan slechts een beroep worden gedaan bij een daadwerkelijke en voldoende ernstige bedreiging van fundamentele maatschappelijke belangen.;
 
@@ -2468,7 +2468,7 @@ De partijen streven ernaar, voor zover mogelijk en binnen hun respectieve bevoeg
 
 - d. noodzakelijk zijn voor de bescherming van nationaal artistiek, historisch of archeologisch erfgoed;
 
-- e. noodzakelijk zijn voor de handhaving van wet- of regelgeving die niet in strijd is met de bepalingen van deze titel en [titel V](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=V&z=2012-06-26&g=2012-06-26) (Lopende betalingen en kapitaalverkeer)(55)Voor de duidelijkheid: in het geval van Peru en Ecuador wordt de tenuitvoerlegging van maatregelen die een geldelijke overmaking verhinderen door het op billijke en niet-discriminatoire wijze en te goeder trouw toepassen van Peruviaanse respectievelijk Ecuadoraanse wetten betreffende:a)faillissement, insolventie of de bescherming van de rechten van schuldeisers;b)de uitgifte van en de handel in effecten, futures, opties of derivaten;c)strafbare feiten;d)financiële verslaglegging of registratie van overdrachten, wanneer die registratie nodig is ter ondersteuning van met de rechtshandhaving of financiële regelgeving belaste instanties; ofe)waarborgen dat wordt voldaan aan beschikkingen of uitspraken in gerechtelijke of administratieve procedures,niet geacht in strijd te zijn met de bepalingen van deze titel en titel V (Lopende betalingen en kapitaalverkeer)., met inbegrip van wet- of regelgeving betreffende:
+- e. noodzakelijk zijn voor de handhaving van wet- of regelgeving die niet in strijd is met de bepalingen van deze titel en [titel V](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=V&z=2024-11-01&g=2024-11-01) (Lopende betalingen en kapitaalverkeer)(55)Voor de duidelijkheid: in het geval van Peru en Ecuador wordt de tenuitvoerlegging van maatregelen die een geldelijke overmaking verhinderen door het op billijke en niet-discriminatoire wijze en te goeder trouw toepassen van Peruviaanse respectievelijk Ecuadoraanse wetten betreffende:a)faillissement, insolventie of de bescherming van de rechten van schuldeisers;b)de uitgifte van en de handel in effecten, futures, opties of derivaten;c)strafbare feiten;d)financiële verslaglegging of registratie van overdrachten, wanneer die registratie nodig is ter ondersteuning van met de rechtshandhaving of financiële regelgeving belaste instanties; ofe)waarborgen dat wordt voldaan aan beschikkingen of uitspraken in gerechtelijke of administratieve procedures,niet geacht in strijd te zijn met de bepalingen van deze titel en titel V (Lopende betalingen en kapitaalverkeer)., met inbegrip van wet- of regelgeving betreffende:
 
 - i. het voorkómen van misleidende of frauduleuze praktijken of middelen om de gevolgen van niet-nakoming van contracten te compenseren,
 
@@ -2476,7 +2476,7 @@ De partijen streven ernaar, voor zover mogelijk en binnen hun respectieve bevoeg
 
 - iii. veiligheid.
 
-2. De bepalingen van deze titel, de bijlagen VII (Lijst van verbintenissen inzake vestiging) en VIII (Lijst van verbintenissen inzake grensoverschrijdende dienstverlening) en [titel V](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=V&z=2012-06-26&g=2012-06-26) (Lopende betalingen en kapitaalverkeer) zijn niet van toepassing op de respectieve socialezekerheidsstelsels van de partijen of op activiteiten op het grondgebied van een partij die verband houden, al was het maar incidenteel, met de uitoefening van overheidsgezag.
+2. De bepalingen van deze titel, de bijlagen VII (Lijst van verbintenissen inzake vestiging) en VIII (Lijst van verbintenissen inzake grensoverschrijdende dienstverlening) en [titel V](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=V&z=2024-11-01&g=2024-11-01) (Lopende betalingen en kapitaalverkeer) zijn niet van toepassing op de respectieve socialezekerheidsstelsels van de partijen of op activiteiten op het grondgebied van een partij die verband houden, al was het maar incidenteel, met de uitoefening van overheidsgezag.
 
 ## TITEL V. LOPENDE BETALINGEN EN KAPITAALVERKEER
 
@@ -2486,7 +2486,7 @@ De partijen verbinden zich ertoe om overeenkomstig de bepalingen van artikel VII
 
 ##### Artikel 169. Kapitaalrekening
 
-Wat de verrichtingen op de kapitaalrekening en financiële rekening van de betalingsbalans betreft, verbinden de partijen zich ertoe om na de inwerkingtreding van deze overeenkomst geen beperkingen te stellen aan het vrije kapitaalverkeer met betrekking tot directe investeringen56)Voor de duidelijkheid: onder directe investeringen vallen geen kredieten voor buitenlandse handel, beleggingen in effecten overeenkomstig de interne wetgeving, staatsschulden en daaraan gerelateerde kredieten. in rechtspersonen die volgens het recht van het gastland zijn opgericht en investeringen en andere transacties die overeenkomstig de bepalingen van [titel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&z=2012-06-26&g=2012-06-26) (Handel in diensten, vestiging en elektronische handel)57)Voor de duidelijkheid: het bepaalde in hoofdstuk 7 (Uitzonderingen) in titel IV (Handel in diensten, vestiging en elektronische handel) is ook op deze titel van toepassing. worden verricht, alsook met betrekking tot de liquidatie en repatriëring van deze investeringen en de opbrengsten daarvan.
+Wat de verrichtingen op de kapitaalrekening en financiële rekening van de betalingsbalans betreft, verbinden de partijen zich ertoe om na de inwerkingtreding van deze overeenkomst geen beperkingen te stellen aan het vrije kapitaalverkeer met betrekking tot directe investeringen56)Voor de duidelijkheid: onder directe investeringen vallen geen kredieten voor buitenlandse handel, beleggingen in effecten overeenkomstig de interne wetgeving, staatsschulden en daaraan gerelateerde kredieten. in rechtspersonen die volgens het recht van het gastland zijn opgericht en investeringen en andere transacties die overeenkomstig de bepalingen van [titel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&z=2024-11-01&g=2024-11-01) (Handel in diensten, vestiging en elektronische handel)57)Voor de duidelijkheid: het bepaalde in hoofdstuk 7 (Uitzonderingen) in titel IV (Handel in diensten, vestiging en elektronische handel) is ook op deze titel van toepassing. worden verricht, alsook met betrekking tot de liquidatie en repatriëring van deze investeringen en de opbrengsten daarvan.
 
 ##### Artikel 170. Vrijwaringsmaatregelen
 
@@ -2558,7 +2558,7 @@ Voor de toepassing van deze titel wordt verstaan onder:
 
 - b. zij worden door middel van een contract aangeschaft, waaronder koop-, huurkoop-, lease- of huurcontracten, met of zonder koopoptie, BOT-contracten en concessieovereenkomsten voor openbare werken;
 
-- c. zij hebben op het moment van publicatie van het bericht van aanbesteding overeenkomstig [artikel 176](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VI&artikel=176&z=2012-06-26&g=2012-06-26), een waarde die gelijk is aan of hoger is dan de toepasselijke drempelwaarde die voor elke partij in aanhangsel 1 van bijlage XII (Overheidsopdrachten) is gespecificeerd;
+- c. zij hebben op het moment van publicatie van het bericht van aanbesteding overeenkomstig [artikel 176](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VI&artikel=176&z=2024-11-01&g=2024-11-01), een waarde die gelijk is aan of hoger is dan de toepasselijke drempelwaarde die voor elke partij in aanhangsel 1 van bijlage XII (Overheidsopdrachten) is gespecificeerd;
 
 - d. zij worden aangeschaft door een aanbestedende dienst;
 
@@ -2602,7 +2602,7 @@ Voor de toepassing van deze titel wordt verstaan onder:
 
 - g. in subsectie 7, algemene aantekeningen.
 
-5. Wanneer een aanbestedende dienst voor onder deze titel vallende overheidsopdrachten van personen die niet vallen onder aanhangsel 1 van bijlage XII (Overheidsopdrachten) van een partij, verlangt dat zij bij het plaatsen van opdrachten bepaalde voorschriften in acht nemen, is [artikel 175](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VI&artikel=175&z=2012-06-26&g=2012-06-26) van overeenkomstige toepassing op die voorschriften.
+5. Wanneer een aanbestedende dienst voor onder deze titel vallende overheidsopdrachten van personen die niet vallen onder aanhangsel 1 van bijlage XII (Overheidsopdrachten) van een partij, verlangt dat zij bij het plaatsen van opdrachten bepaalde voorschriften in acht nemen, is [artikel 175](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VI&artikel=175&z=2024-11-01&g=2024-11-01) van overeenkomstige toepassing op die voorschriften.
 
 6. Bij het ramen van de waarde van een overheidsopdracht om te bepalen of deze onder deze titel valt, splitst een aanbestedende dienst die opdracht niet in afzonderlijke opdrachten, noch kiest of gebruikt hij een bijzondere methode van om de waarde van de opdracht te ramen, teneinde deze geheel of gedeeltelijk buiten het toepassingsgebied van deze titel te laten vallen.
 
@@ -2670,13 +2670,13 @@ Mits maatregelen niet zodanig worden toegepast dat zij een middel tot willekeuri
 
 - c. vermeldt in aanhangsel 2 van bijlage XII (Overheidsopdrachten) de elektronische of gedrukte media waarin zij de onder a) gespecificeerde informatie publiceert;
 
-- d. vermeldt in aanhangsel 3 van bijlage XII (Overheidsopdrachten) de elektronische of gedrukte media waarin zij de ingevolge dit artikel, [artikel 177](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VI&artikel=177&z=2012-06-26&g=2012-06-26), [artikel 180, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VI&artikel=180&z=2012-06-26&g=2012-06-26), en [artikel 188, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VI&artikel=188&z=2012-06-26&g=2012-06-26), vereiste berichten publiceert.
+- d. vermeldt in aanhangsel 3 van bijlage XII (Overheidsopdrachten) de elektronische of gedrukte media waarin zij de ingevolge dit artikel, [artikel 177](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VI&artikel=177&z=2024-11-01&g=2024-11-01), [artikel 180, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VI&artikel=180&z=2024-11-01&g=2024-11-01), en [artikel 188, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VI&artikel=188&z=2024-11-01&g=2024-11-01), vereiste berichten publiceert.
 
 2. Elke partij stelt de andere partijen onverwijld in kennis van wijzigingen van de in aanhangsel 2 en 3 van bijlage XII (Overheidsopdrachten) door haar vermelde informatie.
 
 ##### Artikel 177. Publicatie van berichten
 
-1. Voor elke onder deze titel vallende overheidsopdracht publiceert de aanbestedende dienst, behalve in de omstandigheden beschreven in [artikel 185](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VI&artikel=185&z=2012-06-26&g=2012-06-26), een bericht van aanbesteding in de media daarvoor, die staan vermeld in aanhangsel 3 van bijlage XII (Overheidsopdrachten). In elk van die berichten staat de in aanhangsel 4 van bijlage XII (Overheidsopdrachten) gespecificeerde informatie. De berichten zijn langs elektronische weg kosteloos beschikbaar via één toegangspunt.
+1. Voor elke onder deze titel vallende overheidsopdracht publiceert de aanbestedende dienst, behalve in de omstandigheden beschreven in [artikel 185](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VI&artikel=185&z=2024-11-01&g=2024-11-01), een bericht van aanbesteding in de media daarvoor, die staan vermeld in aanhangsel 3 van bijlage XII (Overheidsopdrachten). In elk van die berichten staat de in aanhangsel 4 van bijlage XII (Overheidsopdrachten) gespecificeerde informatie. De berichten zijn langs elektronische weg kosteloos beschikbaar via één toegangspunt.
 
 2. Elke partij moedigt haar aanbestedende diensten aan de aanbestedingsplannen zo vroeg mogelijk in het begrotingsjaar aan te kondigen. De aankondiging dient het onderwerp van de overheidsopdracht en de geplande datum van publicatie van het bericht van aanbesteding te bevatten.
 
@@ -2776,7 +2776,7 @@ Een aanbestedende dienst geeft, overeenkomstig zijn eigen redelijke behoeften, l
 
 ##### Artikel 185. Onderhandse aanbesteding
 
-Een aanbestedende dienst mag alleen in onderstaande situaties gebruikmaken van een onderhandse aanbesteding en besluiten de artikelen 177 tot en met 180, 182 tot en met 184, [186](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VI&artikel=186&z=2012-06-26&g=2012-06-26) en [187](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VI&artikel=187&z=2012-06-26&g=2012-06-26) niet toe te passen:
+Een aanbestedende dienst mag alleen in onderstaande situaties gebruikmaken van een onderhandse aanbesteding en besluiten de artikelen 177 tot en met 180, 182 tot en met 184, [186](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VI&artikel=186&z=2024-11-01&g=2024-11-01) en [187](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VI&artikel=187&z=2024-11-01&g=2024-11-01) niet toe te passen:
 
 - a. wanneer mits de vereisten van het aanbestedingsdossier niet wezenlijk worden gewijzigd;
 
@@ -2828,7 +2828,7 @@ Wanneer een aanbestedende dienst een onder deze titel vallende opdracht wil aanb
 
 ##### Artikel 188. Transparantie op het gebied van overheidsopdrachten
 
-1. Een aanbestedende dienst stelt de deelnemende leveranciers onverwijld in kennis van besluiten aangaande de gunning van een opdracht en doet dat desgevraagd schriftelijk. Behoudens het bepaalde in [artikel 189, leden 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VI&artikel=189&z=2012-06-26&g=2012-06-26), stelt een aanbestedende dienst een afgewezen leverancier op diens verzoek in kennis van de redenen voor de afwijzing en van de relatieve voordelen van de gekozen inschrijving.
+1. Een aanbestedende dienst stelt de deelnemende leveranciers onverwijld in kennis van besluiten aangaande de gunning van een opdracht en doet dat desgevraagd schriftelijk. Behoudens het bepaalde in [artikel 189, leden 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VI&artikel=189&z=2024-11-01&g=2024-11-01), stelt een aanbestedende dienst een afgewezen leverancier op diens verzoek in kennis van de redenen voor de afwijzing en van de relatieve voordelen van de gekozen inschrijving.
 
 2. Uiterlijk 72 dagen na de gunning van een onder deze titel vallende opdracht publiceert de aanbestedende dienst in het daarvoor geschikte gedrukte of elektronische medium dat staat vermeld in aanhangsel 2 van bijlage XII (Overheidsopdrachten), een gunningsbericht met daarin ten minste de in aanhangsel 7 van bijlage XII (Overheidsopdrachten) gespecificeerde informatie. Wanneer alleen gebruik wordt gemaakt van een elektronisch medium, moet de informatie gedurende een redelijke termijn gemakkelijk toegankelijk blijven.
 
@@ -2902,7 +2902,7 @@ in verband met bedoelde opdracht.
 
 - c. de voorgestelde wijziging betrekking heeft op een dienst waarover de partij daadwerkelijk haar zeggenschap of invloed heeft beëindigd, zoals bedoeld in lid 2, onder b),
 
-moet die andere partij binnen dertig dagen na ontvangst van de in lid 1 bedoelde kennisgeving schriftelijk bezwaar maken, zo niet wordt zij geacht, ook voor de toepassing van [titel XII](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&z=2012-06-26&g=2012-06-26) (Geschillenbeslechting), met de aanpassing of voorgestelde wijziging in te stemmen.
+moet die andere partij binnen dertig dagen na ontvangst van de in lid 1 bedoelde kennisgeving schriftelijk bezwaar maken, zo niet wordt zij geacht, ook voor de toepassing van [titel XII](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&z=2024-11-01&g=2024-11-01) (Geschillenbeslechting), met de aanpassing of voorgestelde wijziging in te stemmen.
 
 4. Wanneer de partijen binnen het Handelscomité tot overeenstemming komen over een voorgestelde wijziging, rectificatie of kleine aanpassing en ook wanneer een partij niet overeenkomstig het bepaalde in lid 3 binnen dertig dagen bezwaar heeft gemaakt, wordt de desbetreffende bijlage onverwijld door de partijen gewijzigd.
 
@@ -2944,7 +2944,7 @@ moet die andere partij binnen dertig dagen na ontvangst van de in lid 1 bedoelde
 
 - b. evalueren en begeleiden van de samenwerkingsactiviteiten die de partijen voorleggen;
 
-- c. overwegen van verdere onderhandelingen voor het verruimen van het toepassingsgebied van deze titel onverminderd [artikel 191, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VI&artikel=191&z=2012-06-26&g=2012-06-26).
+- c. overwegen van verdere onderhandelingen voor het verruimen van het toepassingsgebied van deze titel onverminderd [artikel 191, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VI&artikel=191&z=2024-11-01&g=2024-11-01).
 
 3. Het subcomité Overheidsopdrachten komt op verzoek van een partij bijeen op een door de partijen overeengekomen plaats en datum en brengt schriftelijk verslag uit van zijn vergaderingen.
 
@@ -3044,7 +3044,7 @@ Het staat elke partij vrij om, behoudens het bepaalde in de [TRIPs-overeenkomst]
 
 9. De partijen zullen ernaar streven de uitwisseling van informatie over octrooiaanvragen en verleende octrooien met betrekking tot genetische hulpbronnen en daarmee samenhangende traditionele kennis te vergemakkelijken, zodat dergelijke informatie bij het inhoudelijke onderzoek, met name bij het bepalen van de stand van de techniek, in aanmerking kan worden genomen.
 
-10. Behoudens het bepaalde in [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VII&hoofdstuk=6&z=2012-06-26&g=2012-06-26) (Samenwerking) van deze titel zullen de partijen op onderling overeengekomen voorwaarden samenwerken op het gebied van de opleiding van octrooionderzoekers in het beoordelen van octrooiaanvragen die betrekking hebben op genetische hulpbronnen en daarmee samenhangende traditionele kennis.
+10. Behoudens het bepaalde in [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VII&hoofdstuk=6&z=2024-11-01&g=2024-11-01) (Samenwerking) van deze titel zullen de partijen op onderling overeengekomen voorwaarden samenwerken op het gebied van de opleiding van octrooionderzoekers in het beoordelen van octrooiaanvragen die betrekking hebben op genetische hulpbronnen en daarmee samenhangende traditionele kennis.
 
 11. De partijen erkennen dat gegevensbanken of digitale bibliotheken die relevante informatie bevatten, nuttige hulpmiddelen zijn voor onderzoek naar de octrooieerbaarheid van uitvindingen met betrekking tot genetische hulpbronnen en daarmee samenhangende traditionele kennis.
 
@@ -3094,7 +3094,7 @@ Met betrekking tot de erkenning en bescherming van geografische aanduidingen die
 
 - b. geografische aanduidingen van een partij die door een andere partij moeten worden beschermd, vallen uitsluitend onder deze titel indien ze in het land van oorsprong als zodanig worden erkend en vermeld staan;
 
-- c. elke partij beschermt vanaf de inwerkingtreding van deze overeenkomst in overeenstemming met de in [artikel 208](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VII&hoofdstuk=3&afdeling=2&artikel=208&z=2012-06-26&g=2012-06-26) bedoelde procedures geografische aanduidingen voor landbouwproducten en levensmiddelen, wijnen, gedistilleerde dranken en gearomatiseerde wijnen die worden genoemd in aanhangsel 1 van bijlage XIII (Lijsten van geografische aanduidingen);
+- c. elke partij beschermt vanaf de inwerkingtreding van deze overeenkomst in overeenstemming met de in [artikel 208](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VII&hoofdstuk=3&afdeling=2&artikel=208&z=2024-11-01&g=2024-11-01) bedoelde procedures geografische aanduidingen voor landbouwproducten en levensmiddelen, wijnen, gedistilleerde dranken en gearomatiseerde wijnen die worden genoemd in aanhangsel 1 van bijlage XIII (Lijsten van geografische aanduidingen);
 
 - d. geografische aanduidingen voor producten andere dan landbouwproducten en levensmiddelen, wijnen, gedistilleerde dranken en gearomatiseerde wijnen die worden genoemd in aanhangsel 1 van bijlage XIII (Lijsten van geografische aanduidingen) kunnen worden beschermd overeenkomstig de wet- en regelgeving die in elke partij van toepassing is. De partijen erkennen dat de geografische aanduidingen in aanhangsel 2 van bijlage XIII (Lijsten van geografische aanduidingen) worden beschermd als geografische aanduidingen in het land van oorsprong;
 
@@ -3114,7 +3114,7 @@ Met betrekking tot de erkenning en bescherming van geografische aanduidingen die
 
 ##### Artikel 209. Toevoeging van nieuwe geografische aanduidingen
 
-1. De partijen komen overeen dat nieuwe geografische aanduidingen kunnen worden toegevoegd aan aanhangsel 1 van bijlage XIII (Lijsten van geografische aanduidingen) nadat de bezwaarprocedure is afgerond en nadat de geografische aanduidingen zoals bedoeld in [artikel 208](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VII&hoofdstuk=3&afdeling=2&artikel=208&z=2012-06-26&g=2012-06-26) zijn onderzocht.
+1. De partijen komen overeen dat nieuwe geografische aanduidingen kunnen worden toegevoegd aan aanhangsel 1 van bijlage XIII (Lijsten van geografische aanduidingen) nadat de bezwaarprocedure is afgerond en nadat de geografische aanduidingen zoals bedoeld in [artikel 208](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VII&hoofdstuk=3&afdeling=2&artikel=208&z=2024-11-01&g=2024-11-01) zijn onderzocht.
 
 2. Een partij die een nieuwe geografische aanduiding wenst toe te voegen aan haar lijst in aanhangsel 1 van bijlage XIII (Lijsten van geografische aanduidingen) dient binnen het kader van het subcomité Intellectuele eigendom bij een andere partij een verzoek daartoe in.
 
@@ -3122,7 +3122,7 @@ Met betrekking tot de erkenning en bescherming van geografische aanduidingen die
 
 ##### Artikel 210. Toepassingsgebied van de bescherming van geografische aanduidingen
 
-1. De geografische aanduidingen van een partij in aanhangsel 1 van bijlage XIII (Lijsten van geografische aanduidingen), en de aanduidingen die krachtens [artikel 209](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VII&hoofdstuk=3&afdeling=2&artikel=209&z=2012-06-26&g=2012-06-26) zijn toegevoegd, worden door een andere partij ten minste beschermd tegen:
+1. De geografische aanduidingen van een partij in aanhangsel 1 van bijlage XIII (Lijsten van geografische aanduidingen), en de aanduidingen die krachtens [artikel 209](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VII&hoofdstuk=3&afdeling=2&artikel=209&z=2024-11-01&g=2024-11-01) zijn toegevoegd, worden door een andere partij ten minste beschermd tegen:
 
 - a. commercieel gebruik van een dergelijke beschermde geografische aanduiding:
 
@@ -3144,7 +3144,7 @@ Met betrekking tot de erkenning en bescherming van geografische aanduidingen die
 
 ##### Artikel 211. Relatie met handelsmerken
 
-1. De partijen weigeren de registratie of zorgen voor nietigverklaring van een handelsmerk dat overeenkomt met een van de in [artikel 210, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VII&hoofdstuk=3&afdeling=2&artikel=210&z=2012-06-26&g=2012-06-26), bedoelde situaties met betrekking tot een beschermde geografische aanduiding voor identieke of soortgelijke producten, mits een aanvraag om het handelsmerk te registreren wordt ingediend na de datum van het verzoek om bescherming van de geografische aanduiding op hun grondgebied.
+1. De partijen weigeren de registratie of zorgen voor nietigverklaring van een handelsmerk dat overeenkomt met een van de in [artikel 210, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VII&hoofdstuk=3&afdeling=2&artikel=210&z=2024-11-01&g=2024-11-01), bedoelde situaties met betrekking tot een beschermde geografische aanduiding voor identieke of soortgelijke producten, mits een aanvraag om het handelsmerk te registreren wordt ingediend na de datum van het verzoek om bescherming van de geografische aanduiding op hun grondgebied.
 
 2. Behoudens de in haar interne wetgeving vastgelegde redenen op grond waarvan de bescherming van geografische aanduidingen kan worden geweigerd, is geen enkele partij verplicht een geografische aanduiding te beschermen wanneer die bescherming in het licht van een bekend handelsmerk consumenten kan misleiden ten aanzien van de werkelijke identiteit van het product.
 
@@ -3324,7 +3324,7 @@ Het voorwerp van bescherming door een modelrecht kan bescherming genieten kracht
 
 5. Met betrekking tot chemische producten voor de landbouw kunnen de partijen voorzien in procedures waarmee het mogelijk wordt om te verwijzen naar de niet openbaar gemaakte informatie over veiligheid en doeltreffendheid met betrekking tot tests en onderzoeken waarbij gewervelde dieren betrokken zijn. Gedurende de periode van bescherming compenseert degene die geïnteresseerd is in het gebruik van dergelijke informatie de houder van de beschermde informatie. De kosten van die compensatie worden op eerlijke, billijke, transparante en niet-discriminatoire wijze bepaald. Het recht op deze compensatie geldt zolang de bescherming van de niet openbaar gemaakte informatie over veiligheid en doeltreffendheid duurt.
 
-6. Overeenkomstig de bepalingen van [artikel 197, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VII&hoofdstuk=1&artikel=197&z=2012-06-26&g=2012-06-26), belet de in dit artikel bedoelde bescherming een partij niet om maatregelen te treffen als reactie op het misbruik van intellectuele-eigendomsrechten of praktijken die de handel onredelijk belemmeren.
+6. Overeenkomstig de bepalingen van [artikel 197, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VII&hoofdstuk=1&artikel=197&z=2024-11-01&g=2024-11-01), belet de in dit artikel bedoelde bescherming een partij niet om maatregelen te treffen als reactie op het misbruik van intellectuele-eigendomsrechten of praktijken die de handel onredelijk belemmeren.
 
 ### AFDELING 7. KWEKERSRECHTEN
 
@@ -3346,7 +3346,7 @@ De partijen werken samen om de bescherming van kwekersrechten op basis van het [
 
 ##### Artikel 234
 
-1. Onverminderd de rechten en verplichtingen krachtens de [TRIPs-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&bijlage=IC), en met name [deel III](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&deel=III) hiervan, voorziet elke partij in maatregelen, procedures en rechtsmiddelen zoals vastgesteld in dit hoofdstuk, die noodzakelijk zijn om de handhaving van de intellectuele-eigendomsrechten, zoals gedefinieerd in [artikel 196, lid 5, onder a) tot en met i)](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VII&hoofdstuk=1&artikel=196&z=2012-06-26&g=2012-06-26), te waarborgen.
+1. Onverminderd de rechten en verplichtingen krachtens de [TRIPs-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&bijlage=IC), en met name [deel III](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&deel=III) hiervan, voorziet elke partij in maatregelen, procedures en rechtsmiddelen zoals vastgesteld in dit hoofdstuk, die noodzakelijk zijn om de handhaving van de intellectuele-eigendomsrechten, zoals gedefinieerd in [artikel 196, lid 5, onder a) tot en met i)](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VII&hoofdstuk=1&artikel=196&z=2024-11-01&g=2024-11-01), te waarborgen.
 
 2. Het bepaalde in dit hoofdstuk bevat maatregelen, procedures en rechtsmiddelen die snel, doeltreffend en evenredig zijn en verdere inbreuken ontmoedigen, en wordt zodanig toegepast dat het scheppen van belemmeringen voor rechtmatig handelsverkeer wordt vermeden en dat wordt voorzien in waarborgen tegen misbruik van deze procedures.
 
@@ -3358,7 +3358,7 @@ De partijen werken samen om de bescherming van kwekersrechten op basis van het [
 
 ##### Artikel 235
 
-De [artikelen 237](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VII&hoofdstuk=4&afdeling=2&artikel=237&z=2012-06-26&g=2012-06-26), [239](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VII&hoofdstuk=4&afdeling=2&artikel=239&z=2012-06-26&g=2012-06-26) en [240](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VII&hoofdstuk=4&afdeling=2&artikel=240&z=2012-06-26&g=2012-06-26) zijn van toepassing met betrekking tot handelingen op commerciële schaal; indien dat volgens hun interne wetgeving is toegestaan, kunnen de partijen de in deze artikelen bedoelde maatregelen ook op andere handelingen toepassen.
+De [artikelen 237](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VII&hoofdstuk=4&afdeling=2&artikel=237&z=2024-11-01&g=2024-11-01), [239](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VII&hoofdstuk=4&afdeling=2&artikel=239&z=2024-11-01&g=2024-11-01) en [240](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VII&hoofdstuk=4&afdeling=2&artikel=240&z=2024-11-01&g=2024-11-01) zijn van toepassing met betrekking tot handelingen op commerciële schaal; indien dat volgens hun interne wetgeving is toegestaan, kunnen de partijen de in deze artikelen bedoelde maatregelen ook op andere handelingen toepassen.
 
 ##### Artikel 236. Rechthebbenden
 
@@ -3428,7 +3428,7 @@ Onverminderd de bepalingen van [artikel 44, lid 2, van de TRIPs-overeenkomst](ht
 
 ##### Artikel 243. Alternatieve maatregelen
 
-Elke partij kan overeenkomstig haar interne wetgeving bepalen dat de bevoegde rechterlijke instanties, in voorkomend geval en op verzoek van degene aan wie de in [artikel 241](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VII&hoofdstuk=4&afdeling=2&artikel=241&z=2012-06-26&g=2012-06-26) en/of [242](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VII&hoofdstuk=4&afdeling=2&artikel=242&z=2012-06-26&g=2012-06-26) vastgelegde maatregelen kunnen worden opgelegd, kunnen gelasten dat aan de benadeelde partij een geldelijke schadeloosstelling wordt betaald in plaats van toepassing van de maatregelen van artikel 241 en/of 242, indien de betrokkene zonder opzet en zonder nalatigheid heeft gehandeld, indien uitvoering van de maatregelen hem onevenredige schade zou berokkenen en indien geldelijke schadeloosstelling van de benadeelde partij redelijkerwijs bevredigend lijkt.
+Elke partij kan overeenkomstig haar interne wetgeving bepalen dat de bevoegde rechterlijke instanties, in voorkomend geval en op verzoek van degene aan wie de in [artikel 241](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VII&hoofdstuk=4&afdeling=2&artikel=241&z=2024-11-01&g=2024-11-01) en/of [242](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VII&hoofdstuk=4&afdeling=2&artikel=242&z=2024-11-01&g=2024-11-01) vastgelegde maatregelen kunnen worden opgelegd, kunnen gelasten dat aan de benadeelde partij een geldelijke schadeloosstelling wordt betaald in plaats van toepassing van de maatregelen van artikel 241 en/of 242, indien de betrokkene zonder opzet en zonder nalatigheid heeft gehandeld, indien uitvoering van de maatregelen hem onevenredige schade zou berokkenen en indien geldelijke schadeloosstelling van de benadeelde partij redelijkerwijs bevredigend lijkt.
 
 ##### Artikel 244. Damages
 
@@ -3518,7 +3518,7 @@ De partijen erkennen dat de diensten van intermediairs door derden voor inbreuk 
 
 ##### Artikel 254. Geen algemene toezichtverplichting
 
-1. Een partij legt de aanbieders van diensten geen algemene verplichting op om bij het aanbieden van de in de [artikelen 251](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VII&hoofdstuk=4&afdeling=3&artikel=251&z=2012-06-26&g=2012-06-26), [252](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VII&hoofdstuk=4&afdeling=3&artikel=252&z=2012-06-26&g=2012-06-26) en [253](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VII&hoofdstuk=4&afdeling=3&artikel=253&z=2012-06-26&g=2012-06-26) bedoelde diensten toezicht te houden op de informatie die zij doorgeven of opslaan, noch om actief te gaan zoeken naar feiten of omstandigheden die op onwettige activiteiten duiden.
+1. Een partij legt de aanbieders van diensten geen algemene verplichting op om bij het aanbieden van de in de [artikelen 251](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VII&hoofdstuk=4&afdeling=3&artikel=251&z=2024-11-01&g=2024-11-01), [252](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VII&hoofdstuk=4&afdeling=3&artikel=252&z=2024-11-01&g=2024-11-01) en [253](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VII&hoofdstuk=4&afdeling=3&artikel=253&z=2024-11-01&g=2024-11-01) bedoelde diensten toezicht te houden op de informatie die zij doorgeven of opslaan, noch om actief te gaan zoeken naar feiten of omstandigheden die op onwettige activiteiten duiden.
 
 2. De partijen kunnen aanbieders van diensten verplichten om de bevoegde overheidsinstanties onverwijld in kennis te stellen van vermeende onwettige activiteiten of informatie van de afnemers van hun dienst of om de bevoegde instanties op hun verzoek informatie te verstrekken die kan dienen tot de identificatie van afnemers van hun dienst waarmee zij een opslagovereenkomst hebben.
 
@@ -3558,7 +3558,7 @@ De partijen erkennen dat de diensten van intermediairs door derden voor inbreuk 
 
 1. De partijen komen overeen samen te werken ter ondersteuning van de tenuitvoerlegging van de verbintenissen en verplichtingen uit hoofde van deze titel.
 
-2. Onverminderd het bepaalde in [titel XIII](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XIII&z=2012-06-26&g=2012-06-26) (Technische bijstand en opbouw van handelscapaciteit) omvatten de samenwerkingsgebieden onder meer de volgende activiteiten:
+2. Onverminderd het bepaalde in [titel XIII](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XIII&z=2024-11-01&g=2024-11-01) (Technische bijstand en opbouw van handelscapaciteit) omvatten de samenwerkingsgebieden onder meer de volgende activiteiten:
 
 - a. uitwisseling van informatie over het rechtskader met betrekking tot intellectuele-eigendomsrechten en de regels om deze te beschermen en te handhaven, alsmede uitwisseling van ervaringen tussen de EU en elk overeenkomstsluitend Andesland met betrekking tot de vooruitgang op wetgevingsgebied;
 
@@ -3576,7 +3576,7 @@ De partijen erkennen dat de diensten van intermediairs door derden voor inbreuk 
 
 1. De partijen richten een subcomité Intellectuele eigendom op voor het toezicht op de tenuitvoerlegging van het bepaalde in deze titel. Het subcomité komt ten minste één keer per jaar bijeen, tenzij de partijen anders overeenkomen. Deze bijeenkomsten kunnen via alle overeengekomen middelen plaatsvinden.
 
-2. Het subcomité Intellectuele eigendom neemt haar besluiten bij consensus. Het kan haar eigen reglement van orde vaststellen. Het subcomité Intellectuele eigendom is verantwoordelijk voor het beoordelen van de in [artikel 209](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VII&hoofdstuk=3&afdeling=2&artikel=209&z=2012-06-26&g=2012-06-26) bedoelde informatie en voor het voorstellen van wijzigingen van aanhangsel 1 van bijlage XIII (Lijsten van geografische aanduidingen) betreffende geografische aanduidingen aan het Handelscomité.
+2. Het subcomité Intellectuele eigendom neemt haar besluiten bij consensus. Het kan haar eigen reglement van orde vaststellen. Het subcomité Intellectuele eigendom is verantwoordelijk voor het beoordelen van de in [artikel 209](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VII&hoofdstuk=3&afdeling=2&artikel=209&z=2024-11-01&g=2024-11-01) bedoelde informatie en voor het voorstellen van wijzigingen van aanhangsel 1 van bijlage XIII (Lijsten van geografische aanduidingen) betreffende geografische aanduidingen aan het Handelscomité.
 
 ## TITEL VIII. MEDEDINGING
 
@@ -3590,7 +3590,7 @@ De partijen erkennen dat de diensten van intermediairs door derden voor inbreuk 
 
 - b). voor Colombia, Ecuador en Peru, de volgende wetgeving, indien van toepassing:
 
-- i). interne wetgeving inzake mededinging(76a)Voor Ecuador, artikel 336 van de Constitución de la República del Ecuador (grondwet van Ecuador), waarin de verplichting van de staat om te zorgen voor transparantie en efficiëntie op de markten en concurrentie te bevorderen, is vastgesteld, en de Ley Orgánica de Regulación y control del poder de Mercado (organieke wet betreffende de regulering van en controle op de marktkrachten). die overeenkomstig [artikel 260](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VIII&artikel=260&z=2012-06-26&g=2012-06-26) wordt vastgesteld of gehandhaafd, en de uitvoeringsverordeningen en wijzigingen daarvan; en/of
+- i). interne wetgeving inzake mededinging(76a)Voor Ecuador, artikel 336 van de Constitución de la República del Ecuador (grondwet van Ecuador), waarin de verplichting van de staat om te zorgen voor transparantie en efficiëntie op de markten en concurrentie te bevorderen, is vastgesteld, en de Ley Orgánica de Regulación y control del poder de Mercado (organieke wet betreffende de regulering van en controle op de marktkrachten). die overeenkomstig [artikel 260](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VIII&artikel=260&z=2024-11-01&g=2024-11-01) wordt vastgesteld of gehandhaafd, en de uitvoeringsverordeningen en wijzigingen daarvan; en/of
 
 - ii). wetgeving van de Andesgemeenschap die in Colombia, Ecuador of Peru van toepassing is, en de uitvoeringsverordeningen en wijzigingen daarvan;
 
@@ -3614,13 +3614,13 @@ De partijen erkennen dat de diensten van intermediairs door derden voor inbreuk 
 
 - c. concentraties tussen ondernemingen die aanzienlijke hinder veroorzaken voor een doeltreffende mededinging, in het bijzonder als gevolg van de totstandbrenging of versterking van een machtspositie overeenkomstig hun respectieve mededingingswetgeving.
 
-3. De partijen erkennen het belang van samenwerking en coördinatie tussen hun respectieve mededingingsautoriteiten, teneinde een doeltreffend mededingingsbeleid en een efficiënte rechtshandhaving te bevorderen; daartoe behoren ook kennisgevingen op grond van [artikel 262](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VIII&artikel=262&z=2012-06-26&g=2012-06-26), overleg, uitwisseling van informatie, technische bijstand en bevordering van mededinging.
+3. De partijen erkennen het belang van samenwerking en coördinatie tussen hun respectieve mededingingsautoriteiten, teneinde een doeltreffend mededingingsbeleid en een efficiënte rechtshandhaving te bevorderen; daartoe behoren ook kennisgevingen op grond van [artikel 262](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VIII&artikel=262&z=2024-11-01&g=2024-11-01), overleg, uitwisseling van informatie, technische bijstand en bevordering van mededinging.
 
 4. De partijen ondersteunen en bevorderen maatregelen om de mededinging in hun respectieve jurisdicties overeenkomstig de doelstellingen van deze overeenkomst te versterken.
 
 ##### Artikel 260. Mededingingswetgeving, mededingingsautoriteiten en mededingingsbeleid
 
-1. Elke partij handhaaft mededingingswetgeving ter bestrijding van de in [artikel 259, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VIII&artikel=259&z=2012-06-26&g=2012-06-26), genoemde praktijken en neemt passende maatregelen met betrekking daartoe.
+1. Elke partij handhaaft mededingingswetgeving ter bestrijding van de in [artikel 259, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VIII&artikel=259&z=2024-11-01&g=2024-11-01), genoemde praktijken en neemt passende maatregelen met betrekking daartoe.
 
 2. Elke partij richt mededingingsautoriteiten op of handhaaft deze, die verantwoordelijk en toereikend uitgerust zijn voor een doeltreffende handhaving van hun respectieve mededingingswetgeving.
 
@@ -3638,7 +3638,7 @@ De partijen erkennen dat de diensten van intermediairs door derden voor inbreuk 
 
 4. Wanneer mededingingsautoriteiten krachtens dit artikel informatie uitwisselen, houden ze rekening met de door hun respectieve wetgeving opgelegde beperkingen.
 
-5. Indien een partij van mening is dat een op het grondgebied van een andere partij verrichte met de mededinging strijdige praktijk, zoals gedefinieerd in [artikel 259, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VIII&artikel=259&z=2012-06-26&g=2012-06-26), een negatief gevolg heeft op het grondgebied van beide partijen of voor de handelsbetrekkingen tussen die partijen, kan die partij verzoeken dat die andere partij de in haar wetgeving vastgelegde handhavingsmaatregelen inleidt.
+5. Indien een partij van mening is dat een op het grondgebied van een andere partij verrichte met de mededinging strijdige praktijk, zoals gedefinieerd in [artikel 259, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VIII&artikel=259&z=2024-11-01&g=2024-11-01), een negatief gevolg heeft op het grondgebied van beide partijen of voor de handelsbetrekkingen tussen die partijen, kan die partij verzoeken dat die andere partij de in haar wetgeving vastgelegde handhavingsmaatregelen inleidt.
 
 6. De mededingingsautoriteiten kunnen de samenwerking in overeenstemming met hun belangen en capaciteit verder door middel van passende middelen of instrumenten versterken.
 
@@ -3670,7 +3670,7 @@ De partijen erkennen dat de diensten van intermediairs door derden voor inbreuk 
 
 ##### Artikel 266. Geschillenbeslechting
 
-Geen van de partijen kan een beroep doen op de beslechting van geschillen uit hoofde van [titel XII](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&z=2012-06-26&g=2012-06-26) (Geschillenbeslechting) voor kwesties die in het kader deze titel naar voren komen.
+Geen van de partijen kan een beroep doen op de beslechting van geschillen uit hoofde van [titel XII](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&z=2024-11-01&g=2024-11-01) (Geschillenbeslechting) voor kwesties die in het kader deze titel naar voren komen.
 
 ## TITEL IX. HANDEL EN DUURZAME ONTWIKKELING
 
@@ -3682,7 +3682,7 @@ Geen van de partijen kan een beroep doen op de beslechting van geschillen uit ho
 
 - a. bevordering van dialoog en samenwerking tussen de partijen om de tenuitvoerlegging van deze titel te vergemakkelijken en beleid en praktijk op het gebied van handel, arbeid en milieu nauwer op elkaar af te stemmen;
 
-- b. betere naleving van de arbeids- en milieuwetgeving van elke partij, alsmede van de verbintenissen uit hoofde van de in de [artikelen 269](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IX&artikel=269&z=2012-06-26&g=2012-06-26) en [270](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IX&artikel=270&z=2012-06-26&g=2012-06-26) genoemde internationale afspraken en overeenkomsten, als belangrijk factor om de bijdrage van de handel aan duurzame ontwikkeling te vergroten;
+- b. betere naleving van de arbeids- en milieuwetgeving van elke partij, alsmede van de verbintenissen uit hoofde van de in de [artikelen 269](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IX&artikel=269&z=2024-11-01&g=2024-11-01) en [270](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IX&artikel=270&z=2024-11-01&g=2024-11-01) genoemde internationale afspraken en overeenkomsten, als belangrijk factor om de bijdrage van de handel aan duurzame ontwikkeling te vergroten;
 
 - c. grotere rol van de handel en het handelsbeleid bij het bevorderen van het behoud en het duurzame gebruik van biologische diversiteit en natuurlijke hulpbronnen, en bij het verminderen van verontreiniging overeenkomstig het doel van duurzame ontwikkeling;
 
@@ -3698,7 +3698,7 @@ Geen van de partijen kan een beroep doen op de beslechting van geschillen uit ho
 
 ##### Artikel 268. Regelgevingsrecht en beschermingsniveaus
 
-De partijen erkennen het soevereine recht van elke partij om in overeenstemming met de in de [artikelen 269](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IX&artikel=269&z=2012-06-26&g=2012-06-26) en [270](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IX&artikel=270&z=2012-06-26&g=2012-06-26) bedoelde internationaal erkende normen en overeenkomsten eigen intern beleid en eigen prioriteiten inzake duurzame ontwikkeling, alsmede eigen niveaus van milieu- en arbeidsbescherming vast te stellen, en om hiertoe dienovereenkomstig wet- en regelgeving en beleid aan te nemen of te wijzigen; elke partij streeft ernaar te waarborgen dat haar wetgeving en beleid ter zake een hoog niveau van milieu- en arbeidsbescherming bieden en stimuleren.
+De partijen erkennen het soevereine recht van elke partij om in overeenstemming met de in de [artikelen 269](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IX&artikel=269&z=2024-11-01&g=2024-11-01) en [270](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IX&artikel=270&z=2024-11-01&g=2024-11-01) bedoelde internationaal erkende normen en overeenkomsten eigen intern beleid en eigen prioriteiten inzake duurzame ontwikkeling, alsmede eigen niveaus van milieu- en arbeidsbescherming vast te stellen, en om hiertoe dienovereenkomstig wet- en regelgeving en beleid aan te nemen of te wijzigen; elke partij streeft ernaar te waarborgen dat haar wetgeving en beleid ter zake een hoog niveau van milieu- en arbeidsbescherming bieden en stimuleren.
 
 ##### Artikel 269. Multilaterale arbeidsnormen en -overeenkomsten
 
@@ -3824,9 +3824,9 @@ Elke partij verbindt zich ertoe het effect van de tenuitvoerlegging van deze ove
 
 2. De partijen richten een subcomité Handel en duurzame ontwikkeling op. Het subcomité Handel en duurzame ontwikkeling bestaat uit vertegenwoordigers op hoog niveau uit de diensten van elke partij, die verantwoordelijk zijn voor arbeid, milieu- en handelszaken.
 
-3. In afwijking van lid 2 komt het subcomité Handel en duurzame ontwikkeling in zittingen met alleen de EU en een van de overeenkomstsluitende Andeslanden bijeen wanneer het onderwerp uitsluitend op de bilaterale betrekkingen tussen de EU en dat overeenkomstsluitende Andesland betrekking heeft, inclusief aangelegenheden die in het kader van het overleg op regeringsniveau van [artikel 283](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IX&artikel=283&z=2012-06-26&g=2012-06-26) en de groep van deskundigen van [artikel 284](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IX&artikel=284&z=2012-06-26&g=2012-06-26) worden behandeld.
+3. In afwijking van lid 2 komt het subcomité Handel en duurzame ontwikkeling in zittingen met alleen de EU en een van de overeenkomstsluitende Andeslanden bijeen wanneer het onderwerp uitsluitend op de bilaterale betrekkingen tussen de EU en dat overeenkomstsluitende Andesland betrekking heeft, inclusief aangelegenheden die in het kader van het overleg op regeringsniveau van [artikel 283](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IX&artikel=283&z=2024-11-01&g=2024-11-01) en de groep van deskundigen van [artikel 284](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IX&artikel=284&z=2024-11-01&g=2024-11-01) worden behandeld.
 
-4. Het subcomité Handel en duurzame ontwikkeling komt binnen het eerste jaar na de datum van inwerkingtreding van deze overeenkomst bijeen, en vervolgens wanneer nodig, om toezicht te houden op de tenuitvoerlegging van deze titel, met inbegrip van de in [artikel 286](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IX&artikel=286&z=2012-06-26&g=2012-06-26) bedoelde samenwerkingsactiviteiten, en om kwesties van gemeenschappelijk belang met betrekking tot deze titel te bespreken. Het subcomité stelt haar reglement van orde vast en neemt besluiten bij consensus.
+4. Het subcomité Handel en duurzame ontwikkeling komt binnen het eerste jaar na de datum van inwerkingtreding van deze overeenkomst bijeen, en vervolgens wanneer nodig, om toezicht te houden op de tenuitvoerlegging van deze titel, met inbegrip van de in [artikel 286](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IX&artikel=286&z=2024-11-01&g=2024-11-01) bedoelde samenwerkingsactiviteiten, en om kwesties van gemeenschappelijk belang met betrekking tot deze titel te bespreken. Het subcomité stelt haar reglement van orde vast en neemt besluiten bij consensus.
 
 5. Het werk van het subcomité Handel en duurzame ontwikkeling is gebaseerd op dialoog, doeltreffende samenwerking, bevordering van verbintenissen en initiatieven krachtens deze titel en het streven naar wederzijds bevredigende oplossingen voor problemen die zich voordoen.
 
@@ -3836,7 +3836,7 @@ Elke partij verbindt zich ertoe het effect van de tenuitvoerlegging van deze ove
 
 - b. aanbevelingen doen aan het Handelscomité voor een goede tenuitvoerlegging en een optimaal gebruik van deze titel, wanneer het dit dienstig acht;
 
-- c. aanwijzen van samenwerkingsgebieden en verifiëren of de samenwerking doeltreffend wordt uitgevoerd, onverminderd [artikel 326](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XIII&artikel=326&z=2012-06-26&g=2012-06-26);
+- c. aanwijzen van samenwerkingsgebieden en verifiëren of de samenwerking doeltreffend wordt uitgevoerd, onverminderd [artikel 326](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XIII&artikel=326&z=2024-11-01&g=2024-11-01);
 
 - d. het effect van de tenuitvoerlegging van deze overeenkomst op arbeid en milieu beoordelen, wanneer het dit dienstig acht;
 
@@ -3850,15 +3850,15 @@ Elke partij raadpleegt interne commissies of groepen voor arbeid en milieu of du
 
 ##### Artikel 282. Dialoog met het maatschappelijk middenveld
 
-1. Behoudens [artikel 280, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IX&artikel=280&z=2012-06-26&g=2012-06-26), komt het subcomité Handel en duurzame ontwikkeling, tenzij anders overeengekomen door de partijen, eenmaal per jaar bijeen met organisaties uit het maatschappelijke middenveld en met het publiek in het algemeen, teneinde aangelegenheden met betrekking tot de tenuitvoerlegging van deze titel te bespreken. De partijen bereiken uiterlijk een jaar na de datum van inwerkingtreding van deze overeenkomst overeenstemming over de procedure voor dergelijke bijeenkomsten met het maatschappelijke middenveld.
+1. Behoudens [artikel 280, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IX&artikel=280&z=2024-11-01&g=2024-11-01), komt het subcomité Handel en duurzame ontwikkeling, tenzij anders overeengekomen door de partijen, eenmaal per jaar bijeen met organisaties uit het maatschappelijke middenveld en met het publiek in het algemeen, teneinde aangelegenheden met betrekking tot de tenuitvoerlegging van deze titel te bespreken. De partijen bereiken uiterlijk een jaar na de datum van inwerkingtreding van deze overeenkomst overeenstemming over de procedure voor dergelijke bijeenkomsten met het maatschappelijke middenveld.
 
-2. Teneinde een evenwichtige vertegenwoordiging van de belangen ter zake te bevorderen, bieden de partijen alle belanghebbenden op de in [artikel 281](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IX&artikel=281&z=2012-06-26&g=2012-06-26) bedoelde gebieden gelegenheid om aan deze bijeenkomsten deel te nemen. De samenvattingen van deze bijeenkomsten worden openbaar gemaakt.
+2. Teneinde een evenwichtige vertegenwoordiging van de belangen ter zake te bevorderen, bieden de partijen alle belanghebbenden op de in [artikel 281](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IX&artikel=281&z=2024-11-01&g=2024-11-01) bedoelde gebieden gelegenheid om aan deze bijeenkomsten deel te nemen. De samenvattingen van deze bijeenkomsten worden openbaar gemaakt.
 
 ##### Artikel 283. Overleg op regeringsniveau82)De partijen die aan het in deze titel bedoelde overleg op regeringsniveau deelnemen, hierna „overleggende partij” of „overleggende partijen” genoemd, zijn de Europese Unie enerzijds en een overeenkomstsluitend Andesland anderzijds. Een overeenkomstsluitend Andesland mag een ander overeenkomstsluitend Andesland niet om overleg verzoeken.
 
 1. Een partij kan een andere partij om overleg verzoeken over elke aangelegenheid van wederzijds belang die voortvloeit uit deze titel, door bij het contactpunt van die partij een schriftelijk verzoek hiertoe in te dienen. De aangezochte partij geeft snel antwoord op het verzoek.
 
-2. De overleggende partijen stellen alles in het werk om de aangelegenheid op een wederzijds bevredigende wijze op te lossen door middel van dialoog en overleg. Waar van toepassing en onder voorbehoud van hun beider instemming, winnen zij informatie of standpunten in van elke persoon, organisatie of orgaan die aan het onderzoek van de desbetreffende aangelegenheid kan bijdragen, met inbegrip van de internationale organisaties of organen van de in de [artikelen 269](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IX&artikel=269&z=2012-06-26&g=2012-06-26) en [270](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IX&artikel=270&z=2012-06-26&g=2012-06-26) genoemde overeenkomsten.
+2. De overleggende partijen stellen alles in het werk om de aangelegenheid op een wederzijds bevredigende wijze op te lossen door middel van dialoog en overleg. Waar van toepassing en onder voorbehoud van hun beider instemming, winnen zij informatie of standpunten in van elke persoon, organisatie of orgaan die aan het onderzoek van de desbetreffende aangelegenheid kan bijdragen, met inbegrip van de internationale organisaties of organen van de in de [artikelen 269](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IX&artikel=269&z=2024-11-01&g=2024-11-01) en [270](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IX&artikel=270&z=2024-11-01&g=2024-11-01) genoemde overeenkomsten.
 
 3. Indien een overleggende partij van oordeel is dat de aangelegenheid verder moet worden besproken, kan zij door middel van een schriftelijk verzoek bij het contactpunt van de andere overleggende partij vragen dat het subcomité Handel en duurzame ontwikkeling bijeenkomt om over de aangelegenheid te beraadslagen. Het subcomité Handel en duurzame ontwikkeling komt onverwijld bijeen en probeert overeenstemming over een oplossing van de aangelegenheid te bereiken. Tenzij het subcomité anders besluit, worden de conclusies openbaar gemaakt.
 
@@ -3866,7 +3866,7 @@ Elke partij raadpleegt interne commissies of groepen voor arbeid en milieu of du
 
 ##### Artikel 284. Groep van deskundigen
 
-1. Tenzij de overleggende partijen anders overeenkomen, kan een overleggende partij na afloop van 90 dagen na de indiening van een verzoek om overleg, verzoeken dat een groep van deskundigen wordt bijeengeroepen om een aangelegenheid die tijdens het overleg op regeringsniveau krachtens [artikel 283](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IX&artikel=283&z=2012-06-26&g=2012-06-26) niet op bevredigende wijze werd opgelost, te onderzoeken.
+1. Tenzij de overleggende partijen anders overeenkomen, kan een overleggende partij na afloop van 90 dagen na de indiening van een verzoek om overleg, verzoeken dat een groep van deskundigen wordt bijeengeroepen om een aangelegenheid die tijdens het overleg op regeringsniveau krachtens [artikel 283](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IX&artikel=283&z=2024-11-01&g=2024-11-01) niet op bevredigende wijze werd opgelost, te onderzoeken.
 
 2. De groep van deskundigen die overeenkomstig de procedures van de leden 3 en 4 wordt geselecteerd, bepaalt of een partij aan haar verplichtingen krachtens deze titel heeft voldaan.
 
@@ -3874,7 +3874,7 @@ Elke partij raadpleegt interne commissies of groepen voor arbeid en milieu of du
 
 4. Elke partij bij een procedure83)Onder een „partij bij een procedure” wordt verstaan een overleggende partij die deelneemt aan een procedure bij een groep van deskundigen. selecteert binnen 30 dagen na de ontvangst van het verzoek om oprichting van een groep van deskundigen een deskundige uit de lijst van deskundigen. De partijen bij de procedure kunnen, wanneer zij dat nodig achten, overeenkomen om deskundigen te benoemen die niet op de lijst voor de groep van deskundigen staan. Indien een partij bij de procedure verzuimt haar deskundige binnen die periode te selecteren, selecteert de andere partij bij de procedure uit de lijst van deskundigen een onderdaan van de partij die verzuimd heeft een deskundige te selecteren. De twee geselecteerde deskundigen bereiken overeenstemming over een voorzitter, die geen onderdaan van een van de partijen bij de procedure mag zijn. In geval van onenigheid wordt de voorzitter door loting aangewezen. De groep van deskundigen wordt binnen 40 dagen na de datum van ontvangst van het verzoek om oprichting samengesteld.
 
-5. De partijen bij de procedure kunnen bij de groep van deskundigen stukken indienen. De groep van deskundigen kan schriftelijke stukken of andere informatie opvragen en ontvangen van organisaties, instellingen en personen met relevante informatie of gespecialiseerde kennis, inclusief schriftelijke stukken of informatie van de relevante internationale organisaties en organen, inzake aangelegenheden betreffende de in de [artikelen 269](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IX&artikel=269&z=2012-06-26&g=2012-06-26) en [270](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IX&artikel=270&z=2012-06-26&g=2012-06-26) genoemde internationale verdragen en overeenkomsten.
+5. De partijen bij de procedure kunnen bij de groep van deskundigen stukken indienen. De groep van deskundigen kan schriftelijke stukken of andere informatie opvragen en ontvangen van organisaties, instellingen en personen met relevante informatie of gespecialiseerde kennis, inclusief schriftelijke stukken of informatie van de relevante internationale organisaties en organen, inzake aangelegenheden betreffende de in de [artikelen 269](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IX&artikel=269&z=2024-11-01&g=2024-11-01) en [270](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IX&artikel=270&z=2024-11-01&g=2024-11-01) genoemde internationale verdragen en overeenkomsten.
 
 6. Bij de inwerkingtreding van deze overeenkomst dienen de partijen bij het Handelscomité een reglement van orde voor de groep van deskundigen in, dat tijdens zijn eerste vergadering wordt aangenomen.
 
@@ -3888,11 +3888,11 @@ Elke partij raadpleegt interne commissies of groepen voor arbeid en milieu of du
 
 4. De partij bij de procedure stelt het subcomité Handel en duurzame ontwikkeling in kennis van haar voornemens met betrekking tot de aanbevelingen van de groep van deskundigen, met inbegrip van een actieplan om de aanbevelingen uit te voeren. Het subcomité Handel en duurzame ontwikkeling houdt toezicht op de tenuitvoerlegging van de maatregelen die door die partij zijn vastgesteld.
 
-5. [Titel XII](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&z=2012-06-26&g=2012-06-26) (Geschillenbeslechting) is niet op deze titel van toepassing.
+5. [Titel XII](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&z=2024-11-01&g=2024-11-01) (Geschillenbeslechting) is niet op deze titel van toepassing.
 
 ##### Artikel 286. Samenwerking bij handel en duurzame ontwikkeling
 
-Rekening houdend met de op samenwerking gebaseerde aanpak van deze titel en met het bepaalde in [titel XIII](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XIII&z=2012-06-26&g=2012-06-26) (Technische bijstand en opbouw van handelscapaciteit) erkennen de partijen het belang van samenwerkingsactiviteiten die bijdragen aan de tenuitvoerlegging en het betere gebruik van deze titel, en met name aan de verbetering van beleid en praktijk met betrekking tot arbeids- en milieubescherming, als bedoeld in deze titel. Die samenwerkingsactiviteiten moeten activiteiten op gebieden van wederzijds belang omvatten, zoals:
+Rekening houdend met de op samenwerking gebaseerde aanpak van deze titel en met het bepaalde in [titel XIII](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XIII&z=2024-11-01&g=2024-11-01) (Technische bijstand en opbouw van handelscapaciteit) erkennen de partijen het belang van samenwerkingsactiviteiten die bijdragen aan de tenuitvoerlegging en het betere gebruik van deze titel, en met name aan de verbetering van beleid en praktijk met betrekking tot arbeids- en milieubescherming, als bedoeld in deze titel. Die samenwerkingsactiviteiten moeten activiteiten op gebieden van wederzijds belang omvatten, zoals:
 
 - a. activiteiten met betrekking tot de beoordeling van het effect van deze overeenkomst op milieu en arbeid, inclusief activiteiten om de methoden en indicatoren voor die beoordeling te verbeteren;
 
@@ -3944,7 +3944,7 @@ Geen enkele bepaling van deze overeenkomst verplicht een partij tot verstrekking
 
 ##### Artikel 291. Administratieve procedures
 
-Elke partij beheert alle in [artikel 288, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=X&artikel=288&z=2012-06-26&g=2012-06-26), bedoelde algemene maatregelen op consequente, onpartijdige en redelijke wijze. Hiertoe ziet elke partij erop toe dat zij in specifieke gevallen bij de toepassing van die maatregelen op bepaalde personen, goederen of diensten van een andere partij:
+Elke partij beheert alle in [artikel 288, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=X&artikel=288&z=2024-11-01&g=2024-11-01), bedoelde algemene maatregelen op consequente, onpartijdige en redelijke wijze. Hiertoe ziet elke partij erop toe dat zij in specifieke gevallen bij de toepassing van die maatregelen op bepaalde personen, goederen of diensten van een andere partij:
 
 - a. personen voor wie een procedure rechtstreeks gevolgen heeft, waar mogelijk en overeenkomstig haar interne wetgeving, redelijke tijd vooraf in kennis stelt van de inleiding van een procedure, met daarbij een beschrijving van de aard van de procedure, een verklaring over de juridische instantie waar de procedure wordt ingeleid en een algemene beschrijving van de aangelegenheden waarover het geschil gaat;
 
@@ -3976,7 +3976,7 @@ Elke partij beheert alle in [artikel 288, lid 1](https://wetten.overheid.nl/jci1
 
 5. De partijen komen overeen om op verzoek van een partij informatie uit te wisselen over aangelegenheden met betrekking tot de handel in diensten en binnen een jaar na de inwerkingtreding van deze overeenkomst voor het eerst hierover van gedachten te wisselen.
 
-6. Dit artikel valt niet onder [titel XII](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&z=2012-06-26&g=2012-06-26) (Geschillenbeslechting).
+6. Dit artikel valt niet onder [titel XII](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&z=2024-11-01&g=2024-11-01) (Geschillenbeslechting).
 
 ##### Artikel 294. Specifieke regels
 
@@ -4062,13 +4062,13 @@ Voor de toepassing van deze titel wordt verstaan onder „partij bij het geschil
 
 ##### Artikel 301. Overleg
 
-1. De partijen streven ernaar elk geschil over een in [artikel 299](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=1&artikel=299&z=2012-06-26&g=2012-06-26) bedoelde aangelegenheid op te lossen door te goeder trouw overleg te plegen om tot een onderling overeengekomen oplossing te komen.
+1. De partijen streven ernaar elk geschil over een in [artikel 299](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=1&artikel=299&z=2024-11-01&g=2024-11-01) bedoelde aangelegenheid op te lossen door te goeder trouw overleg te plegen om tot een onderling overeengekomen oplossing te komen.
 
 2. Een partij verzoekt een andere partij schriftelijk om overleg, met kopie aan het Handelscomité, waarbij zij aangeeft om welke maatregel het gaat en wat de rechtsgrond voor de klacht is.
 
 3. De partij tot wie het verzoek om overleg gericht is, beantwoordt dit verzoek binnen tien dagen na ontvangst ervan, met kopie aan het Handelscomité. In dringende gevallen wordt die periode tot vijf dagen verkort.
 
-4. De partijen bij het geschil kunnen overeenkomen het overleg krachtens dit artikel achterwege te laten en rechtstreeks over te gaan tot de arbitragepanelprocedure van [artikel 302](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=3&artikel=302&z=2012-06-26&g=2012-06-26). Een dergelijk besluit wordt uiterlijk vijf dagen voor het verzoek om instelling van een arbitragepanel schriftelijk medegedeeld aan het Handelscomité.
+4. De partijen bij het geschil kunnen overeenkomen het overleg krachtens dit artikel achterwege te laten en rechtstreeks over te gaan tot de arbitragepanelprocedure van [artikel 302](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=3&artikel=302&z=2024-11-01&g=2024-11-01). Een dergelijk besluit wordt uiterlijk vijf dagen voor het verzoek om instelling van een arbitragepanel schriftelijk medegedeeld aan het Handelscomité.
 
 5. Tenzij de partijen bij het overleg anders overeenkomen, wordt het overleg binnen dertig dagen na de datum van ontvangst van het verzoek door de partij tot wie het verzoek gericht is, gehouden en wordt het na deze periode geacht te zijn afgesloten; het vindt plaats op het grondgebied van de partij tot wie het verzoek gericht is. Met instemming van de partijen bij het geschil kan het overleg plaatsvinden via elk beschikbaar technologisch hulpmiddel. Het overleg en alle tijdens het overleg verstrekte informatie zijn vertrouwelijk.
 
@@ -4080,7 +4080,7 @@ Voor de toepassing van deze titel wordt verstaan onder „partij bij het geschil
 
 9. Tenzij anders overeengekomen door de partijen bij het overleg kan, wanneer binnen een krachtens deze overeenkomst opgericht subcomité over een geschil overleg is gevoerd, dat overleg het overleg krachtens dit artikel vervangen, mits de desbetreffende maatregel en de rechtsgrond van de klacht tijdens dat overleg naar behoren zijn vastgesteld. Tenzij anders overeengekomen door de partijen bij het overleg, wordt overleg dat in een subcomité wordt gevoerd, binnen dertig dagen na de datum van ontvangst van het verzoek om overleg door de partij tot wie het verzoek gericht is, geacht te zijn afgesloten.
 
-10. Binnen vijf dagen na de datum van ontvangst van het verzoek om overleg, kan een partij die geen partij bij het overleg is, en die een belang heeft bij de aangelegenheid waarover overleg wordt gevoerd, de partijen bij het overleg schriftelijk om deelname aan het overleg verzoeken, met kopie aan het Handelscomité. Mits geen van de partijen bij het overleg dit verzoek afwijst, kan die partij als derde aan het overleg deelnemen overeenkomstig het ingevolge [artikel 315](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=4&artikel=315&z=2012-06-26&g=2012-06-26) vastgestelde reglement van orde, hierna het „reglement van orde” genoemd.
+10. Binnen vijf dagen na de datum van ontvangst van het verzoek om overleg, kan een partij die geen partij bij het overleg is, en die een belang heeft bij de aangelegenheid waarover overleg wordt gevoerd, de partijen bij het overleg schriftelijk om deelname aan het overleg verzoeken, met kopie aan het Handelscomité. Mits geen van de partijen bij het overleg dit verzoek afwijst, kan die partij als derde aan het overleg deelnemen overeenkomstig het ingevolge [artikel 315](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=4&artikel=315&z=2024-11-01&g=2024-11-01) vastgestelde reglement van orde, hierna het „reglement van orde” genoemd.
 
 ### HOOFDSTUK 3. PROCEDURES VOOR DE GESCHILLENBESLECHTING
 
@@ -4088,13 +4088,13 @@ Voor de toepassing van deze titel wordt verstaan onder „partij bij het geschil
 
 1. De klagende partij kan verzoeken om de instelling van een arbitragepanel indien:
 
-- a. de partij waartegen de klacht gericht is niet overeenkomstig [artikel 301, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=2&artikel=301&z=2012-06-26&g=2012-06-26), op het verzoek om overleg antwoordt;
+- a. de partij waartegen de klacht gericht is niet overeenkomstig [artikel 301, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=2&artikel=301&z=2024-11-01&g=2024-11-01), op het verzoek om overleg antwoordt;
 
-- b. er geen overleg wordt gevoerd binnen de in [artikel 301, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=2&artikel=301&z=2012-06-26&g=2012-06-26), of, al naar gelang het geval, lid 6, vastgestelde termijn;
+- b. er geen overleg wordt gevoerd binnen de in [artikel 301, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=2&artikel=301&z=2024-11-01&g=2024-11-01), of, al naar gelang het geval, lid 6, vastgestelde termijn;
 
 - c. de partijen bij het overleg er niet in zijn geslaagd het geschil door overleg op te lossen; of
 
-- d. de partijen bij het geschil overeenkomstig [artikel 301, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=2&artikel=301&z=2012-06-26&g=2012-06-26), zijn overeengekomen geen overleg te voeren.
+- d. de partijen bij het geschil overeenkomstig [artikel 301, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=2&artikel=301&z=2024-11-01&g=2024-11-01), zijn overeengekomen geen overleg te voeren.
 
 2. Het verzoek om instelling van een arbitragepanel wordt schriftelijk gedaan bij de partij waartegen de klacht gericht is en bij het Handelscomité. De klagende partij vermeldt in haar verzoek de specifieke maatregel die in het geding is en legt uit waarom die maatregel een inbreuk is op de bepalingen van deze overeenkomst, waarbij duidelijk de rechtsgrond voor de klacht wordt aangegeven.
 
@@ -4106,13 +4106,13 @@ Voor de toepassing van deze titel wordt verstaan onder „partij bij het geschil
 
 1. Een arbitragepanel bestaat uit drie scheidsrechters.
 
-2. Binnen twaalf dagen na de datum van ontvangst van het verzoek om instelling van een arbitragepanel door de partij waartegen de klacht gericht is, kan elke partij bij het geschil een scheidsrechter aanwijzen uit de kandidaten die door de partijen zijn voorgesteld voor de overeenkomstig [artikel 304](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=3&artikel=304&z=2012-06-26&g=2012-06-26) vastgestelde lijst. Indien een van de partijen bij het geschil geen scheidsrechter heeft aangewezen, wordt de scheidsrechter op verzoek van de andere partij bij het geschil via loting door de voorzitter van het Handelscomité of diens afgevaardigde geselecteerd uit de kandidaten die door die partij bij het geschil is voorgesteld voor de lijst van scheidsrechters.
+2. Binnen twaalf dagen na de datum van ontvangst van het verzoek om instelling van een arbitragepanel door de partij waartegen de klacht gericht is, kan elke partij bij het geschil een scheidsrechter aanwijzen uit de kandidaten die door de partijen zijn voorgesteld voor de overeenkomstig [artikel 304](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=3&artikel=304&z=2024-11-01&g=2024-11-01) vastgestelde lijst. Indien een van de partijen bij het geschil geen scheidsrechter heeft aangewezen, wordt de scheidsrechter op verzoek van de andere partij bij het geschil via loting door de voorzitter van het Handelscomité of diens afgevaardigde geselecteerd uit de kandidaten die door die partij bij het geschil is voorgesteld voor de lijst van scheidsrechters.
 
 3. Tenzij de partijen bij het geschil binnen de in lid 2 vastgestelde periode en op verzoek van een van de partijen bij het geschil overeenstemming bereiken over de voorzitter van het arbitragepanel, selecteert de voorzitter van het Handelscomité of diens vertegenwoordiger door middel van loting de voorzitter van het arbitragepanel uit de kandidaten die hiervoor zijn geselecteerd in de lijst van scheidsrechters.
 
-4. De voorzitter van het Handelscomité of diens vertegenwoordiger selecteert de scheidsrechters binnen vijf dagen na ontvangst van een overeenkomstig lid 2 of, al naar gelang het geval, lid 3, ingediend verzoek door middel van loting uit de overeenkomstig [artikel 304](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=3&artikel=304&z=2012-06-26&g=2012-06-26) vastgestelde lijst.
+4. De voorzitter van het Handelscomité of diens vertegenwoordiger selecteert de scheidsrechters binnen vijf dagen na ontvangst van een overeenkomstig lid 2 of, al naar gelang het geval, lid 3, ingediend verzoek door middel van loting uit de overeenkomstig [artikel 304](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=3&artikel=304&z=2024-11-01&g=2024-11-01) vastgestelde lijst.
 
-5. Niettegenstaande het bepaalde in de leden 2 tot en met 4 kunnen de partijen bij het geschil, met wederzijdse instemming en binnen tien dagen na de datum van ontvangst van het verzoek door de partij waartegen de klacht gericht is, scheidsrechters selecteren die niet in de lijst van scheidsrechters zijn opgenomen maar die voldoen aan de vereisten van [artikel 304, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=3&artikel=304&z=2012-06-26&g=2012-06-26).
+5. Niettegenstaande het bepaalde in de leden 2 tot en met 4 kunnen de partijen bij het geschil, met wederzijdse instemming en binnen tien dagen na de datum van ontvangst van het verzoek door de partij waartegen de klacht gericht is, scheidsrechters selecteren die niet in de lijst van scheidsrechters zijn opgenomen maar die voldoen aan de vereisten van [artikel 304, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=3&artikel=304&z=2024-11-01&g=2024-11-01).
 
 6. De datum van instelling van het arbitragepanel is de datum waarop alle aangewezen scheidsrechters overeenkomstig het reglement van orde hun aanvaarding hebben bevestigd.
 
@@ -4120,17 +4120,17 @@ Voor de toepassing van deze titel wordt verstaan onder „partij bij het geschil
 
 1. Tijdens zijn eerste vergadering stelt het Handelscomité een lijst van 30 personen op die bereid en geschikt zijn om als scheidsrechter op te treden. Elke partij stelt vijf personen voor die als scheidsrechter kunnen optreden. De partijen kiezen in onderling overleg bovendien tien personen die geen onderdaan87)Voor de toepassing van deze titel wordt onder „onderdaan” verstaan een natuurlijk persoon die de nationaliteit van een lidstaat van de Europese Unie of een overeenkomstsluitend Andesland heeft, of die een vaste verblijfplaats heeft in een lidstaat van de Europese Unie of in een overeenkomstsluitend Andesland. van een van de partijen zijn en die als voorzitter van het arbitragepanel kunnen optreden.
 
-2. Het Handelscomité zorgt ervoor dat de overeenkomstig lid 1 vastgestelde lijst altijd volledig is. In elk geval kan de lijst overeenkomstig [artikel 303](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=3&artikel=303&z=2012-06-26&g=2012-06-26) worden gebruikt, ook als zij niet volledig is.
+2. Het Handelscomité zorgt ervoor dat de overeenkomstig lid 1 vastgestelde lijst altijd volledig is. In elk geval kan de lijst overeenkomstig [artikel 303](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=3&artikel=303&z=2024-11-01&g=2024-11-01) worden gebruikt, ook als zij niet volledig is.
 
 3. De scheidsrechters hebben gespecialiseerde kennis of ervaring op het gebied van recht, internationale handel of geschillenbeslechting krachtens internationale handelsovereenkomsten. Ze zijn onafhankelijk, onpartijdig, hebben geen directe of indirecte banden met een van de partijen, en krijgen geen instructies van een partij of van een organisatie. De scheidsrechters leven de overeenkomstig deze titel vastgestelde gedragscode na, hierna de „gedragscode” genoemd.
 
-4. Het Handelscomité stelt bovendien extra lijsten op van 15 personen met sectortypische ervaring over specifieke onderwerpen die onder deze overeenkomst vallen. Hiertoe wijst elke partij drie personen aan die als scheidsrechter kunnen optreden. De partijen selecteren in onderling overleg drie kandidaten die geen onderdaan zijn van een van de partijen en als voorzitter van het arbitragepanel kunnen optreden. Elke partij bij het geschil kan ervoor kiezen om haar scheidsrechter aan te wijzen uit degenen die door een van de partijen voor een sectorspecifieke lijst zijn voorgesteld. Wanneer voor de in [artikel 303, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=3&artikel=303&z=2012-06-26&g=2012-06-26), vastgestelde selectieprocedure wordt gekozen, kan de voorzitter van het Handelscomité of diens vertegenwoordiger met instemming van de partijen bij het geschil gebruikmaken van een sectorspecifieke lijst.
+4. Het Handelscomité stelt bovendien extra lijsten op van 15 personen met sectortypische ervaring over specifieke onderwerpen die onder deze overeenkomst vallen. Hiertoe wijst elke partij drie personen aan die als scheidsrechter kunnen optreden. De partijen selecteren in onderling overleg drie kandidaten die geen onderdaan zijn van een van de partijen en als voorzitter van het arbitragepanel kunnen optreden. Elke partij bij het geschil kan ervoor kiezen om haar scheidsrechter aan te wijzen uit degenen die door een van de partijen voor een sectorspecifieke lijst zijn voorgesteld. Wanneer voor de in [artikel 303, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=3&artikel=303&z=2024-11-01&g=2024-11-01), vastgestelde selectieprocedure wordt gekozen, kan de voorzitter van het Handelscomité of diens vertegenwoordiger met instemming van de partijen bij het geschil gebruikmaken van een sectorspecifieke lijst.
 
 ##### Artikel 305. Bezwaar, verwijdering en vervanging
 
 1. Elke partij bij het geschil kan bezwaar maken tegen een scheidsrechter in geval van gerechtvaardigde twijfel over diens naleving van de gedragscode. Het besluit over het bezwaar tegen of de verwijdering van een scheidsrechter wordt genomen volgens het reglement van orde.
 
-2. Indien een scheidrechter niet aan de procedures kan deelnemen of ontslag neemt of moet worden vervangen, wordt zijn vervanger overeenkomstig [artikel 303](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=3&artikel=303&z=2012-06-26&g=2012-06-26) gekozen.
+2. Indien een scheidrechter niet aan de procedures kan deelnemen of ontslag neemt of moet worden vervangen, wordt zijn vervanger overeenkomstig [artikel 303](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=3&artikel=303&z=2024-11-01&g=2024-11-01) gekozen.
 
 ##### Artikel 306. Consolidatie van arbitrageprocedures
 
@@ -4156,35 +4156,35 @@ Wanneer meer dan een partij met betrekking tot dezelfde maatregel en op basis va
 
 3. Bij een verschil van mening tussen de partijen bij het geschil over de inhoud van een dergelijke kennisgeving, kan de klagende partij het arbitragepanel dat de uitspraak heeft gedaan, verzoeken om vast te stellen of de krachtens lid 2, onder a), voorgestelde maatregel in overeenstemming met deze overeenkomst is, of de termijn voor naleving van de uitspraak redelijk is en/of of het compensatieaanbod kennelijk onevenredig is. De uitspraak wordt binnen 45 dagen na de indiening van het verzoek gedaan.
 
-4. Wanneer het oorspronkelijke arbitragepanel, of een of meer van zijn leden, niet kan of kunnen bijeenkomen, is de in [artikel 303](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=3&artikel=303&z=2012-06-26&g=2012-06-26) vastgestelde procedure van toepassing. De uitspraak moet binnen 45 dagen vanaf de datum waarop het nieuwe arbitragepanel is ingesteld, worden bekendgemaakt.
+4. Wanneer het oorspronkelijke arbitragepanel, of een of meer van zijn leden, niet kan of kunnen bijeenkomen, is de in [artikel 303](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=3&artikel=303&z=2024-11-01&g=2024-11-01) vastgestelde procedure van toepassing. De uitspraak moet binnen 45 dagen vanaf de datum waarop het nieuwe arbitragepanel is ingesteld, worden bekendgemaakt.
 
 5. De in lid 2, onder b), genoemde redelijke termijn kan door de partijen bij het geschil in onderling overleg worden verlengd.
 
 ##### Artikel 309. Onderzoek van maatregelen getroffen tot naleving van de uitspraak van het arbitragepanel
 
-1. De partij waartegen de klacht gericht is, stelt de klagende partij en het Handelscomité vóór het verstrijken van de overeenkomstig [artikel 308, lid 2, onder b), en lid 3 of 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=3&artikel=308&z=2012-06-26&g=2012-06-26), vastgestelde redelijke termijn in kennis van maatregelen die zijn getroffen om een eind te maken aan de niet-naleving van haar verplichtingen krachtens deze overeenkomst.
+1. De partij waartegen de klacht gericht is, stelt de klagende partij en het Handelscomité vóór het verstrijken van de overeenkomstig [artikel 308, lid 2, onder b), en lid 3 of 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=3&artikel=308&z=2024-11-01&g=2024-11-01), vastgestelde redelijke termijn in kennis van maatregelen die zijn getroffen om een eind te maken aan de niet-naleving van haar verplichtingen krachtens deze overeenkomst.
 
-2. Indien de maatregelen waarvan de partij waartegen de klacht gericht is overeenkomstig lid 1 heeft kennisgegeven niet gelijk zijn aan de maatregelen waarvan die partij overeenkomstig [artikel 308, lid 2, onder a)](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=3&artikel=308&z=2012-06-26&g=2012-06-26), eerder heeft kennisgegeven, of wanneer de klagende partij krachtens artikel 308, lid 3, om arbitrage heeft verzocht en de maatregelen waarvan krachtens lid 1 is kennisgegeven niet gelijk zijn aan de maatregelen waarvan het arbitragepanel heeft vastgesteld dat zij in overeenstemming met deze overeenkomst zijn, en bij verschil van mening tussen de partijen bij het geschil over het bestaan van de maatregelen waarvan is kennisgegeven of over hun verenigbaarheid met deze overeenkomst, kan de klagende partij het oorspronkelijke arbitragepanel schriftelijk verzoeken hierover uitspraak te doen. In dit verzoek worden de specifieke maatregelen in kwestie genoemd en wordt uitgelegd in welke mate zij niet in overeenstemming met deze overeenkomst zijn. Het arbitragepanel geeft binnen dertig vanaf de datum van ontvangst van het verzoek kennis zijn uitspraak.
+2. Indien de maatregelen waarvan de partij waartegen de klacht gericht is overeenkomstig lid 1 heeft kennisgegeven niet gelijk zijn aan de maatregelen waarvan die partij overeenkomstig [artikel 308, lid 2, onder a)](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=3&artikel=308&z=2024-11-01&g=2024-11-01), eerder heeft kennisgegeven, of wanneer de klagende partij krachtens artikel 308, lid 3, om arbitrage heeft verzocht en de maatregelen waarvan krachtens lid 1 is kennisgegeven niet gelijk zijn aan de maatregelen waarvan het arbitragepanel heeft vastgesteld dat zij in overeenstemming met deze overeenkomst zijn, en bij verschil van mening tussen de partijen bij het geschil over het bestaan van de maatregelen waarvan is kennisgegeven of over hun verenigbaarheid met deze overeenkomst, kan de klagende partij het oorspronkelijke arbitragepanel schriftelijk verzoeken hierover uitspraak te doen. In dit verzoek worden de specifieke maatregelen in kwestie genoemd en wordt uitgelegd in welke mate zij niet in overeenstemming met deze overeenkomst zijn. Het arbitragepanel geeft binnen dertig vanaf de datum van ontvangst van het verzoek kennis zijn uitspraak.
 
-3. Wanneer het oorspronkelijke arbitragepanel, of een of meer van zijn leden, niet beschikbaar is of zijn, zijn de procedures van [artikel 303](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=3&artikel=303&z=2012-06-26&g=2012-06-26) van toepassing. De uitspraak wordt binnen 30 dagen vanaf de datum van instelling van het nieuwe arbitragepanel gedaan.
+3. Wanneer het oorspronkelijke arbitragepanel, of een of meer van zijn leden, niet beschikbaar is of zijn, zijn de procedures van [artikel 303](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=3&artikel=303&z=2024-11-01&g=2024-11-01) van toepassing. De uitspraak wordt binnen 30 dagen vanaf de datum van instelling van het nieuwe arbitragepanel gedaan.
 
 ##### Artikel 310. Tijdelijke maatregelen bij niet-naleving
 
-1. Indien de partij waartegen de klacht gericht is vóór het verstrijken van de redelijke termijn geen kennisgeeft van het vaststellen van maatregelen om de uitspraak van het arbitragepanel na te leven, of wanneer het arbitragepanel overeenkomstig [artikel 309, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=3&artikel=309&z=2012-06-26&g=2012-06-26), besluit dat een maatregel waarvan is kennisgegeven niet in overeenstemming is met deze overeenkomst, kan de klagende partij:
+1. Indien de partij waartegen de klacht gericht is vóór het verstrijken van de redelijke termijn geen kennisgeeft van het vaststellen van maatregelen om de uitspraak van het arbitragepanel na te leven, of wanneer het arbitragepanel overeenkomstig [artikel 309, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=3&artikel=309&z=2024-11-01&g=2024-11-01), besluit dat een maatregel waarvan is kennisgegeven niet in overeenstemming is met deze overeenkomst, kan de klagende partij:
 
 - a. de partij waartegen de klacht gericht is, verzoeken om een compensatie wegens niet-naleving, hetzij in de vorm van verlenging van de tijdelijke compensatie, hetzij in de vorm van een andere compensatie; of
 
-- b. de partij waartegen de klacht gericht is en het Handelscomité in kennis stellen van haar voornemen de concessies die voortvloeien uit een in [artikel 299](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=1&artikel=299&z=2012-06-26&g=2012-06-26) bedoelde bepaling op te schorten in een mate die overeenkomt met de mate waarin de schending de voordelen voor de klagende partij tenietdoet of beperkt.
+- b. de partij waartegen de klacht gericht is en het Handelscomité in kennis stellen van haar voornemen de concessies die voortvloeien uit een in [artikel 299](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=1&artikel=299&z=2024-11-01&g=2024-11-01) bedoelde bepaling op te schorten in een mate die overeenkomt met de mate waarin de schending de voordelen voor de klagende partij tenietdoet of beperkt.
 
-2. Indien twintig dagen na het verstrijken van de redelijke termijn, of na de uitspraak van het arbitragepanel dat de maatregel waarvan krachtens [artikel 311, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=3&artikel=311&z=2012-06-26&g=2012-06-26), is kennisgegeven niet in overeenstemming is met deze overeenkomst, de partijen bij het geschil het niet eens kunnen worden over compensatie krachtens lid 1, onder a), kan de klagende partij de partij waartegen de klacht gericht is en het Handelscomité in kennis stellen van haar voornemen om de voordelen die voortvloeien uit een in [artikel 299](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=1&artikel=299&z=2012-06-26&g=2012-06-26) bedoelde bepaling op te schorten in een mate die overeenkomt met de mate waarin de schending de voordelen voor de klagende partij tenietdoet of beperkt.
+2. Indien twintig dagen na het verstrijken van de redelijke termijn, of na de uitspraak van het arbitragepanel dat de maatregel waarvan krachtens [artikel 311, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=3&artikel=311&z=2024-11-01&g=2024-11-01), is kennisgegeven niet in overeenstemming is met deze overeenkomst, de partijen bij het geschil het niet eens kunnen worden over compensatie krachtens lid 1, onder a), kan de klagende partij de partij waartegen de klacht gericht is en het Handelscomité in kennis stellen van haar voornemen om de voordelen die voortvloeien uit een in [artikel 299](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=1&artikel=299&z=2024-11-01&g=2024-11-01) bedoelde bepaling op te schorten in een mate die overeenkomt met de mate waarin de schending de voordelen voor de klagende partij tenietdoet of beperkt.
 
-3. Indien de partij waartegen de klacht gericht is de ingevolge [artikel 308](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=3&artikel=308&z=2012-06-26&g=2012-06-26) vastgestelde tijdelijke compensatie niet binnen een redelijke termijn88)Voor de duidelijkheid: de partij waartegen de klacht gericht is, wordt alleen geacht de tijdelijke compensatie niet binnen een redelijke termijn ten uitvoer te hebben gelegd wanneer zij haar interne procedure tot tenuitvoerlegging van de compensatie niet binnen een redelijke termijn inleidt, of wanneer die interne procedure leidt tot een besluit dat met de tenuitvoerlegging van tijdelijke compensatie in strijd is. ten uitvoer legt, kan de klagende partij de partij waartegen de klacht gericht is en het Handelscomité in kennis stellen van haar voornemen om de voordelen die voortvloeien uit een in [artikel 299](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=1&artikel=299&z=2012-06-26&g=2012-06-26) bedoelde bepaling op te schorten in een mate die overeenkomt met de tijdelijke compensatie, totdat de tijdelijke compensatie ten uitvoer is gelegd of, indien dat eerder is, de partij waartegen de klacht gericht is een maatregel tot naleving heeft vastgesteld.
+3. Indien de partij waartegen de klacht gericht is de ingevolge [artikel 308](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=3&artikel=308&z=2024-11-01&g=2024-11-01) vastgestelde tijdelijke compensatie niet binnen een redelijke termijn88)Voor de duidelijkheid: de partij waartegen de klacht gericht is, wordt alleen geacht de tijdelijke compensatie niet binnen een redelijke termijn ten uitvoer te hebben gelegd wanneer zij haar interne procedure tot tenuitvoerlegging van de compensatie niet binnen een redelijke termijn inleidt, of wanneer die interne procedure leidt tot een besluit dat met de tenuitvoerlegging van tijdelijke compensatie in strijd is. ten uitvoer legt, kan de klagende partij de partij waartegen de klacht gericht is en het Handelscomité in kennis stellen van haar voornemen om de voordelen die voortvloeien uit een in [artikel 299](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=1&artikel=299&z=2024-11-01&g=2024-11-01) bedoelde bepaling op te schorten in een mate die overeenkomt met de tijdelijke compensatie, totdat de tijdelijke compensatie ten uitvoer is gelegd of, indien dat eerder is, de partij waartegen de klacht gericht is een maatregel tot naleving heeft vastgesteld.
 
 4. Wanneer de klagende partij in overeenstemming met lid 2 of 3 kennisgeeft van haar voornemen om de voordelen op te schorten, kan zij die opschorting tien dagen na de kennisgeving toepassen, tenzij de partij waartegen de klacht gericht is ingevolge lid 5 om arbitrage verzoekt.
 
 5. Indien de partij waartegen de klacht gericht is, meent dat de mate van opschorting waarvan is kennisgegeven, niet overeenkomt met de mate waarin de schending de voordelen voor de andere partij tenietdoet of beperkt, kan zij het oorspronkelijke arbitragepanel schriftelijk verzoeken hierover uitspraak te doen. De klagende partij en het Handelscomité worden voor het verstrijken van de in lid 4 bedoelde termijn van tien dagen van dit verzoek in kennis gesteld. Het oorspronkelijke arbitragepanel stelt de partijen bij het geschil en het Handelscomité binnen dertig dagen na de datum van ontvangst van het verzoek door het arbitragepanel in kennis van haar uitspraak over de mate waarin de voordelen worden opgeschort. De voordelen worden niet opgeschort totdat het oorspronkelijke arbitragepanel de partijen bij het geschil in kennis heeft gesteld van haar uitspraak; een eventuele opschorting is in overeenstemming met die uitspraak.
 
-6. Wanneer het oorspronkelijke arbitragepanel, of een of meer van zijn leden, niet beschikbaar is of zijn, zijn de procedures van [artikel 303](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=3&artikel=303&z=2012-06-26&g=2012-06-26) van toepassing. De uitspraak wordt binnen 45 dagen vanaf de datum van instelling van het nieuwe arbitragepanel gedaan.
+6. Wanneer het oorspronkelijke arbitragepanel, of een of meer van zijn leden, niet beschikbaar is of zijn, zijn de procedures van [artikel 303](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=3&artikel=303&z=2024-11-01&g=2024-11-01) van toepassing. De uitspraak wordt binnen 45 dagen vanaf de datum van instelling van het nieuwe arbitragepanel gedaan.
 
 7. De compensatie of de opschorting van voordelen krachtens dit artikel is tijdelijk en ontslaat de partij waartegen de klacht gericht is niet van haar verplichting om de uitspraak na te leven. Deze maatregelen zijn uitsluitend van toepassing totdat een maatregel waarvan is vastgesteld dat zij niet in overeenstemming met deze overeenkomst is, is ingetrokken of gewijzigd zodat de bepalingen van deze overeenkomst worden nageleefd, of totdat de partijen bij het geschil tot een onderling overeengekomen oplossing zijn gekomen.
 
@@ -4194,7 +4194,7 @@ Wanneer meer dan een partij met betrekking tot dezelfde maatregel en op basis va
 
 2. Indien de partijen bij een geschil het binnen dertig dagen na de datum van de in lid 1 bedoelde kennisgeving niet eens kunnen worden over de verenigbaarheid van de maatregel waarvan is kennisgegeven met de bepalingen van deze overeenkomst, staat het elk van hen vrij een schriftelijk verzoek in te dienen bij het oorspronkelijke arbitragepanel om hierover uitspraak te doen. De partij waartegen de klacht gericht is en het Handelscomité worden tegelijkertijd van dit verzoek in kennis gesteld. De partijen bij het geschil en het Handelscomité worden binnen 45 dagen vanaf de datum van een dergelijk verzoek van de uitspraak van het arbitragepanel in kennis gesteld. Indien het arbitragepanel besluit dat de maatregel tot naleving verenigbaar is met de bepalingen van deze overeenkomst, wordt de opschorting van voordelen beëindigd.
 
-3. Wanneer het oorspronkelijke arbitragepanel, of een of meer van zijn leden, niet beschikbaar is of zijn, zijn de procedures van [artikel 303](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=3&artikel=303&z=2012-06-26&g=2012-06-26) van toepassing. Binnen 45 dagen vanaf de datum van instelling van een nieuw arbitragepanel wordt van de uitspraak kennisgegeven.
+3. Wanneer het oorspronkelijke arbitragepanel, of een of meer van zijn leden, niet beschikbaar is of zijn, zijn de procedures van [artikel 303](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=3&artikel=303&z=2024-11-01&g=2024-11-01) van toepassing. Binnen 45 dagen vanaf de datum van instelling van een nieuw arbitragepanel wordt van de uitspraak kennisgegeven.
 
 4. Indien na de in lid 2 bedoelde termijn van dertig dagen geen van de partijen bij het geschil het oorspronkelijke arbitragepanel heeft verzocht om uitspraak te doen over de consistentie van de maatregel waarvan krachtens lid 1 is kennisgegeven, en de klagende partij niet heeft voldaan aan haar verplichting om de opschorting van voordelen te beëindigen, kan de partij waartegen de klacht gericht is voordelen opschorten in een mate die overeenkomt met die die wordt toegepast door de klagende partij, zolang die partij voordelen blijft opschorten.
 
@@ -4202,11 +4202,11 @@ Wanneer meer dan een partij met betrekking tot dezelfde maatregel en op basis va
 
 1. Binnen tien dagen na de kennisgeving van een uitspraak kan een partij bij het geschil bij het arbitragepanel, met kopie aan de andere partij bij het geschil en het Handelscomité, een schriftelijk verzoek indienen om verduidelijking van specifieke aspecten van elke vaststelling of aanbeveling in die uitspraak die door die partij als dubbelzinnig worden beschouwd, met inbegrip van aspecten die betrekking hebben op de naleving. De andere partij bij het geschil kan bij het arbitragepanel opmerkingen over een dergelijk verzoek indienen, met kopie aan de partij die het oorspronkelijke verzoek om verduidelijking heeft ingediend. Het arbitragepanel antwoordt op dit verzoek binnen tien dagen na ontvangst ervan.
 
-2. Het indienen van een verzoek krachtens lid 1 heeft geen invloed op de in [artikel 308](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=3&artikel=308&z=2012-06-26&g=2012-06-26) bedoelde termijnen.
+2. Het indienen van een verzoek krachtens lid 1 heeft geen invloed op de in [artikel 308](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=3&artikel=308&z=2024-11-01&g=2024-11-01) bedoelde termijnen.
 
 ##### Artikel 313. Opschorting en beëindiging van een arbitrageprocedure
 
-1. De partijen bij het geschil kunnen te allen tijde afspreken om de werkzaamheden van het arbitragepanel gedurende maximaal 12 maanden vanaf de datum van een dergelijke afspraak op te schorten. De partijen bij het geschil stellen de voorzitter van het arbitragepanel schriftelijk van deze afspraak in kennis, met kopie aan het Handelscomité. In geval van een dergelijke opschorting worden de in [artikel 307](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=3&artikel=307&z=2012-06-26&g=2012-06-26) vastgestelde termijnen verlengd met de tijd waarvoor de werkzaamheden worden opgeschort.
+1. De partijen bij het geschil kunnen te allen tijde afspreken om de werkzaamheden van het arbitragepanel gedurende maximaal 12 maanden vanaf de datum van een dergelijke afspraak op te schorten. De partijen bij het geschil stellen de voorzitter van het arbitragepanel schriftelijk van deze afspraak in kennis, met kopie aan het Handelscomité. In geval van een dergelijke opschorting worden de in [artikel 307](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=3&artikel=307&z=2024-11-01&g=2024-11-01) vastgestelde termijnen verlengd met de tijd waarvoor de werkzaamheden worden opgeschort.
 
 2. Indien de werkzaamheden van het arbitragepanel langer dan 12 maanden zijn opgeschort, verstrijkt in elk geval de bevoegdheid van het arbitragepanel, tenzij de partijen bij het geschil anders overeenkomen. Indien de bevoegdheid van het arbitragepanel verstrijkt, belet niets in dit artikel een partij om een andere arbitrageprocedure over hetzelfde onderwerp in te leiden.
 
@@ -4232,7 +4232,7 @@ De partijen bij het geschil kunnen te allen tijde overeenstemming bereiken over 
 
 ##### Artikel 317. Interpretatieregels
 
-Arbitragepanels leggen de in [artikel 299](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=1&artikel=299&z=2012-06-26&g=2012-06-26) bedoelde bepalingen uit volgens de gebruikelijke regels voor de interpretatie van internationaal publiekrecht, die zijn opgenomen in het [Verdrag van Wenen inzake het verdragenrecht](https://wetten.overheid.nl/jci1.3:c:BWBV0003441) van 23 mei 1969. De uitspraken van arbitragepanels kunnen de rechten en verplichtingen uit hoofde van de in artikel 299 bedoelde bepalingen niet verruimen of beperken.
+Arbitragepanels leggen de in [artikel 299](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=1&artikel=299&z=2024-11-01&g=2024-11-01) bedoelde bepalingen uit volgens de gebruikelijke regels voor de interpretatie van internationaal publiekrecht, die zijn opgenomen in het [Verdrag van Wenen inzake het verdragenrecht](https://wetten.overheid.nl/jci1.3:c:BWBV0003441) van 23 mei 1969. De uitspraken van arbitragepanels kunnen de rechten en verplichtingen uit hoofde van de in artikel 299 bedoelde bepalingen niet verruimen of beperken.
 
 ##### Artikel 318. Besluiten en uitspraken van het arbitragepanel
 
@@ -4248,7 +4248,7 @@ Arbitragepanels leggen de in [artikel 299](https://wetten.overheid.nl/jci1.3:c:B
 
 1. De bepalingen in deze titel laten de rechten en verplichtingen van de partijen uit hoofde van de [WTO-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160), met inbegrip van de inleiding van geschillenbeslechtingsprocedures, onverlet.
 
-2. Geschillen betreffende dezelfde maatregel die voortvloeien uit deze overeenkomst en uit hoofde van de [WTO-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160), kunnen naar keuze van de klagende partij worden beslecht overeenkomstig deze titel of overeenkomstig het [WTO-memorandum van overeenstemming inzake de beslechting van geschillen](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&bijlage=2), hierna het „DSU” genoemd. Wanneer een partij echter ingevolge [artikel 6 van het DSU](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=6) om de instelling van een panel of ingevolge [artikel 303](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=3&artikel=303&z=2012-06-26&g=2012-06-26) van deze overeenkomst om de instelling van een arbitragepanel heeft verzocht, mag zij geen andere procedure over dezelfde aangelegenheid in het andere forum inleiden, behalve wanneer het bevoegde orgaan in het gekozen forum om procedurele of bevoegdheidsredenen geen inhoudelijk besluit over de aangelegenheid heeft genomen.
+2. Geschillen betreffende dezelfde maatregel die voortvloeien uit deze overeenkomst en uit hoofde van de [WTO-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160), kunnen naar keuze van de klagende partij worden beslecht overeenkomstig deze titel of overeenkomstig het [WTO-memorandum van overeenstemming inzake de beslechting van geschillen](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&bijlage=2), hierna het „DSU” genoemd. Wanneer een partij echter ingevolge [artikel 6 van het DSU](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=6) om de instelling van een panel of ingevolge [artikel 303](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=3&artikel=303&z=2024-11-01&g=2024-11-01) van deze overeenkomst om de instelling van een arbitragepanel heeft verzocht, mag zij geen andere procedure over dezelfde aangelegenheid in het andere forum inleiden, behalve wanneer het bevoegde orgaan in het gekozen forum om procedurele of bevoegdheidsredenen geen inhoudelijk besluit over de aangelegenheid heeft genomen.
 
 3. De partijen zijn het erover eens dat twee of meer geschillen dezelfde aangelegenheid betreffen wanneer bij het geschil dezelfde partijen betrokken zijn en dit geschil dezelfde maatregel en dezelfde materiële schending betreft.
 
@@ -4266,11 +4266,11 @@ Het Handelscomité kan besluiten het reglement van orde en de gedragscode te wij
 
 ##### Artikel 322. Bemiddelingsmechanisme
 
-Overeenkomstig bijlage XIV (Bemiddelingsmechanisme voor niet-tarifaire maatregelen) kan elke partij een andere partij verzoeken om aan een bemiddelingsprocedure deel te nemen met betrekking tot een niet-tarifaire maatregel van de partij tot wie het verzoek gericht is betreffende een aangelegenheid die onder [titel III](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&z=2012-06-26&g=2012-06-26) (Handel in goederen) valt en waarvan de verzoekende partij van mening is dat deze de handel nadelig beïnvloedt.
+Overeenkomstig bijlage XIV (Bemiddelingsmechanisme voor niet-tarifaire maatregelen) kan elke partij een andere partij verzoeken om aan een bemiddelingsprocedure deel te nemen met betrekking tot een niet-tarifaire maatregel van de partij tot wie het verzoek gericht is betreffende een aangelegenheid die onder [titel III](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&z=2024-11-01&g=2024-11-01) (Handel in goederen) valt en waarvan de verzoekende partij van mening is dat deze de handel nadelig beïnvloedt.
 
 ##### Artikel 323. Goede diensten, conciliatie en bemiddeling
 
-1. In afwijking van [artikel 322](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=4&artikel=322&z=2012-06-26&g=2012-06-26) kunnen de partijen te allen tijde besluiten om als alternatieve methode van geschillenbeslechting gebruik te maken van goede diensten, conciliatie en bemiddeling.
+1. In afwijking van [artikel 322](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=4&artikel=322&z=2024-11-01&g=2024-11-01) kunnen de partijen te allen tijde besluiten om als alternatieve methode van geschillenbeslechting gebruik te maken van goede diensten, conciliatie en bemiddeling.
 
 2. De in lid 1 genoemde alternatieve methoden van geschillenbeslechting worden toegepast overeenkomstig door de betrokken partijen overeengekomen procedures.
 
@@ -4306,7 +4306,7 @@ Overeenkomstig bijlage XIV (Bemiddelingsmechanisme voor niet-tarifaire maatregel
 
 1. De partijen hechten in het bijzonder belang aan de follow-up van de samenwerkingsmaatregelen die zijn getroffen om bij te dragen aan een optimale tenuitvoerlegging en een optimale benutting van de voordelen van deze overeenkomst.
 
-2. Het Handelscomité verzorgt de follow-up en biedt zo nodig stimulansen en richtsnoeren met betrekking tot de belangrijkste aspecten van de samenwerking in het kader van de in [artikel 324, leden 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XIII&artikel=324&z=2012-06-26&g=2012-06-26), genoemde doelstellingen.
+2. Het Handelscomité verzorgt de follow-up en biedt zo nodig stimulansen en richtsnoeren met betrekking tot de belangrijkste aspecten van de samenwerking in het kader van de in [artikel 324, leden 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XIII&artikel=324&z=2024-11-01&g=2024-11-01), genoemde doelstellingen.
 
 3. Het Handelscomité kan aanbevelingen doen aan de bevoegde instanties van elke partij die voor het programmeren en uitvoeren van de samenwerking verantwoordelijk zijn.
 
@@ -4346,7 +4346,7 @@ De bijlagen, aanhangsels, verklaringen en voetnoten bij deze overeenkomst maken 
 
 ##### Artikel 330. Inwerkingtreding
 
-1. Elke partij stelt alle andere partijen en de in [artikel 332](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=4&artikel=322&z=2012-06-26&g=2012-06-26) genoemde depositaris schriftelijk in kennis van de voltooiing van haar interne procedures die nodig zijn om deze overeenkomst in werking te doen treden.
+1. Elke partij stelt alle andere partijen en de in [artikel 332](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=4&artikel=322&z=2024-11-01&g=2024-11-01) genoemde depositaris schriftelijk in kennis van de voltooiing van haar interne procedures die nodig zijn om deze overeenkomst in werking te doen treden.
 
 2. Deze overeenkomst treedt tussen de EU en elk overeenkomstsluitend Andesland in werking op de eerste dag van de maand na de ontvangst door de depositaris van de laatste van de in lid 1 bedoelde kennisgevingen door de EU en het desbetreffende overeenkomstsluitende Andesland, tenzij de partijen een andere datum zijn overeengekomen.
 
@@ -4374,7 +4374,7 @@ De partijen zijn het erover eens dat elke bepaling van de [WTO-overeenkomst](htt
 
 1. De partijen kunnen schriftelijk overeenkomen deze overeenkomst te wijzigen.
 
-2. Elke wijziging treedt in werking en vormt, mutatis mutandis, een integrerend onderdeel van deze overeenkomst volgens de in [artikel 330](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XIV&artikel=330&z=2012-06-26&g=2012-06-26) vastgestelde voorwaarden.
+2. Elke wijziging treedt in werking en vormt, mutatis mutandis, een integrerend onderdeel van deze overeenkomst volgens de in [artikel 330](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XIV&artikel=330&z=2024-11-01&g=2024-11-01) vastgestelde voorwaarden.
 
 3. De partijen kunnen de door deze overeenkomst aangegane verbintenissen verder ontwikkelen, of het toepassingsgebied ervan uitbreiden, door wijzigingen van deze overeenkomst overeen te komen of door overeenkomsten te sluiten over specifieke sectoren of activiteiten, rekening houdend met de bij de tenuitvoerlegging ervan opgedane ervaringen.
 
