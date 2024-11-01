@@ -4,7 +4,7 @@ identifier: "BWBR0045754"
 country: "nl"
 rank: "wet"
 publication_date: "2026-02-20"
-last_updated: "2024-10-01"
+last_updated: "2024-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045754"
 soort: "wet"
@@ -56,13 +56,13 @@ Eenieder heeft recht op toegang tot publieke informatie zonder daartoe een belan
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- **document:** een door een orgaan, persoon of college als bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=2&artikel=2.2&z=2024-10-01&g=2024-10-01), opgemaakt of ontvangen schriftelijk stuk of ander geheel van vastgelegde gegevens dat naar zijn aard verband houdt met de publieke taak van dat orgaan, die persoon of dat college;
+- **document:** een door een orgaan, persoon of college als bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=2&artikel=2.2&z=2024-11-01&g=2024-11-01), opgemaakt of ontvangen schriftelijk stuk of ander geheel van vastgelegde gegevens dat naar zijn aard verband houdt met de publieke taak van dat orgaan, die persoon of dat college;
 
 - **milieu-informatie:** hetgeen daaronder wordt verstaan in [artikel 19.1a van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=19.1a);
 
 - **Onze Minister:** Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- **publieke informatie:** informatie neergelegd in documenten die berusten bij een orgaan, persoon of college als bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=2&artikel=2.2&z=2024-10-01&g=2024-10-01), of informatie die krachtens artikel 2.3 door een bestuursorgaan kan worden gevorderd.
+- **publieke informatie:** informatie neergelegd in documenten die berusten bij een orgaan, persoon of college als bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=2&artikel=2.2&z=2024-11-01&g=2024-11-01), of informatie die krachtens artikel 2.3 door een bestuursorgaan kan worden gevorderd.
 
 ##### Artikel 2.2. Reikwijdte
 
@@ -112,7 +112,7 @@ Bij de toepassing van deze wet wordt uitgegaan van het algemeen belang van openb
 
 ##### Artikel 3.1. Actieve openbaarmaking als inspanningsverplichting
 
-1. Het bestuursorgaan dat het rechtstreeks aangaat, maakt bij de uitvoering van zijn taak uit eigen beweging de bij het bestuursorgaan berustende informatie neergelegd in documenten voor eenieder openbaar, indien dit zonder onevenredige inspanning of kosten redelijkerwijs mogelijk is, behoudens voor zover de [artikelen 5.1, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.1&z=2024-10-01&g=2024-10-01), en [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.2&z=2024-10-01&g=2024-10-01) aan openbaarmaking in de weg staan of met de openbaarmaking geen redelijk belang wordt gediend. Deze informatie betreft in ieder geval informatie over het beleid, inclusief de voorbereiding, uitvoering, naleving, handhaving en evaluatie.
+1. Het bestuursorgaan dat het rechtstreeks aangaat, maakt bij de uitvoering van zijn taak uit eigen beweging de bij het bestuursorgaan berustende informatie neergelegd in documenten voor eenieder openbaar, indien dit zonder onevenredige inspanning of kosten redelijkerwijs mogelijk is, behoudens voor zover de [artikelen 5.1, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.1&z=2024-11-01&g=2024-11-01), en [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.2&z=2024-11-01&g=2024-11-01) aan openbaarmaking in de weg staan of met de openbaarmaking geen redelijk belang wordt gediend. Deze informatie betreft in ieder geval informatie over het beleid, inclusief de voorbereiding, uitvoering, naleving, handhaving en evaluatie.
 
 2. Het bestuursorgaan doet bij een gedeeltelijke niet-openbaarmaking hiervan mededeling gelijktijdig met de openbaarmaking.
 
@@ -122,9 +122,43 @@ Bij de toepassing van deze wet wordt uitgegaan van het algemeen belang van openb
 
 ##### Artikel 3.3. Actieve openbaarmaking van categorieën informatie
 
-1. Dit lid is nog niet in werking getreden.
+1. Een bestuursorgaan maakt in ieder geval uit eigen beweging openbaar:
 
-2. Dit lid is nog niet in werking getreden.
+- a. wetten en andere algemeen verbindende voorschriften;
+
+- b. overige besluiten van algemene strekking;
+
+- c. dit onderdeel is nog niet in werking getreden;
+
+- d. inzicht in zijn organisatie en werkwijze, waaronder de taken en bevoegdheden van de organisatieonderdelen;
+
+- e. de bereikbaarheid van het bestuursorgaan en zijn organisatieonderdelen en de wijze waarop een verzoek om informatie kan worden ingediend.
+
+2. Behoudens voor zover de [artikelen 5.1, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.1&z=2024-11-01&g=2024-11-01), en [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.2&z=2024-11-01&g=2024-11-01) daaraan in de weg staan, maakt het bestuursorgaan voorts uit eigen beweging openbaar:
+
+- a. dit onderdeel is nog niet in werking getreden;
+
+- b. vergaderstukken en verslagen van de Kamers en de verenigde vergadering der Staten-Generaal en hun commissies, tenzij deze betrekking hebben op door de regering vertrouwelijk aan de Staten-Generaal verstrekte informatie;
+
+- c. dit onderdeel is nog niet in werking getreden;
+
+- d. dit onderdeel is nog niet in werking getreden;
+
+- e. dit onderdeel is nog niet in werking getreden;
+
+- f. dit onderdeel is nog niet in werking getreden;
+
+- g. dit onderdeel is nog niet in werking getreden;
+
+- h. dit onderdeel is nog niet in werking getreden;
+
+- i. dit onderdeel is nog niet in werking getreden;
+
+- j. dit onderdeel is nog niet in werking getreden;
+
+- k. dit onderdeel is nog niet in werking getreden;
+
+- l. dit onderdeel is nog niet in werking getreden.
 
 3. Op voordracht van Onze Minister kan bij algemene maatregel van bestuur worden bepaald dat:
 
@@ -170,7 +204,7 @@ Bij de toepassing van deze wet wordt uitgegaan van het algemeen belang van openb
 
 ##### Artikel 3.3a. Actieve openbaarmaking in de vorm van overzichten
 
-1. Een bestuursorgaan kan in plaats van door openbaarmaking overeenkomstig [artikel 3.3, tweede lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=3&artikel=3.3&z=2024-10-01&g=2024-10-01), de informatie over beschikkingen inzake subsidies aan anderen dan natuurlijke personen openbaar maken in een voor personen elektronisch raadpleegbaar overzicht, waarbij, voor zover de informatie in de beschikking is opgenomen en de [artikelen 5.1, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.1&z=2024-10-01&g=2024-10-01), en [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.2&z=2024-10-01&g=2024-10-01) niet aan openbaarmaking in de weg staan, in ieder geval openbaar wordt gemaakt:
+1. Een bestuursorgaan kan in plaats van door openbaarmaking overeenkomstig [artikel 3.3, tweede lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=3&artikel=3.3&z=2024-11-01&g=2024-11-01), de informatie over beschikkingen inzake subsidies aan anderen dan natuurlijke personen openbaar maken in een voor personen elektronisch raadpleegbaar overzicht, waarbij, voor zover de informatie in de beschikking is opgenomen en de [artikelen 5.1, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.1&z=2024-11-01&g=2024-11-01), en [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.2&z=2024-11-01&g=2024-11-01) niet aan openbaarmaking in de weg staan, in ieder geval openbaar wordt gemaakt:
 
 - a. de grondslag van de subsidie;
 
@@ -184,7 +218,7 @@ Bij de toepassing van deze wet wordt uitgegaan van het algemeen belang van openb
 
 - f. de dagtekening van de beschikking.
 
-2. Een bestuursorgaan kan in plaats van door openbaarmaking overeenkomstig [artikel 3.3, tweede lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=3&artikel=3.3&z=2024-10-01&g=2024-10-01), de informatie over andere beschikkingen dan beschikkingen inzake subsidies openbaar maken in een voor personen elektronisch raadpleegbaar overzicht, waarbij, voor zover de informatie in de beschikking is opgenomen en de [artikelen 5.1, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.1&z=2024-10-01&g=2024-10-01), en [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.2&z=2024-10-01&g=2024-10-01) niet aan openbaarmaking in de weg staan, in ieder geval openbaar wordt gemaakt:
+2. Een bestuursorgaan kan in plaats van door openbaarmaking overeenkomstig [artikel 3.3, tweede lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=3&artikel=3.3&z=2024-11-01&g=2024-11-01), de informatie over andere beschikkingen dan beschikkingen inzake subsidies openbaar maken in een voor personen elektronisch raadpleegbaar overzicht, waarbij, voor zover de informatie in de beschikking is opgenomen en de [artikelen 5.1, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.1&z=2024-11-01&g=2024-11-01), en [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.2&z=2024-11-01&g=2024-11-01) niet aan openbaarmaking in de weg staan, in ieder geval openbaar wordt gemaakt:
 
 - a. de grondslag van de beschikking;
 
@@ -196,7 +230,7 @@ Bij de toepassing van deze wet wordt uitgegaan van het algemeen belang van openb
 
 - e. de dagtekening van de beschikking.
 
-3. Een bestuursorgaan kan in plaats van door openbaarmaking overeenkomstig [artikel 3.3, tweede lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=3&artikel=3.3&z=2024-10-01&g=2024-10-01), de informatie over schriftelijke oordelen in klachtprocedures openbaar maken in een voor personen elektronisch raadpleegbaar overzicht, waarbij, voor zover de informatie in het oordeel is opgenomen en de [artikelen 5.1, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.1&z=2024-10-01&g=2024-10-01), en [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.2&z=2024-10-01&g=2024-10-01) niet aan openbaarmaking in de weg staan, in ieder geval openbaar wordt gemaakt:
+3. Een bestuursorgaan kan in plaats van door openbaarmaking overeenkomstig [artikel 3.3, tweede lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=3&artikel=3.3&z=2024-11-01&g=2024-11-01), de informatie over schriftelijke oordelen in klachtprocedures openbaar maken in een voor personen elektronisch raadpleegbaar overzicht, waarbij, voor zover de informatie in het oordeel is opgenomen en de [artikelen 5.1, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.1&z=2024-11-01&g=2024-11-01), en [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.2&z=2024-11-01&g=2024-11-01) niet aan openbaarmaking in de weg staan, in ieder geval openbaar wordt gemaakt:
 
 - a. de datum van ontvangst van de klacht;
 
@@ -222,11 +256,11 @@ Bij de toepassing van deze wet wordt uitgegaan van het algemeen belang van openb
 
 ##### Artikel 3.3b
 
-De openbaarmaking van de in de [artikelen 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=3&artikel=3.3&z=2024-10-01&g=2024-10-01) en [3.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=3&artikel=3.3a&z=2024-10-01&g=2024-10-01) genoemde documenten geschiedt elektronisch op een algemeen toegankelijke wijze door middel van een door Onze Minister in stand gehouden digitale infrastructuur. Deze infrastructuur is beschikbaar voor de openbaarmaking van andere documenten.
+De openbaarmaking van de in de [artikelen 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=3&artikel=3.3&z=2024-11-01&g=2024-11-01) en [3.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=3&artikel=3.3a&z=2024-11-01&g=2024-11-01) genoemde documenten geschiedt elektronisch op een algemeen toegankelijke wijze door middel van een door Onze Minister in stand gehouden digitale infrastructuur. Deze infrastructuur is beschikbaar voor de openbaarmaking van andere documenten.
 
 ##### Artikel 3.4. Openbaarheid bij zwaarwegend algemeen belang
 
-In afwijking van de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.1&z=2024-10-01&g=2024-10-01) en [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.2&z=2024-10-01&g=2024-10-01) kan een bestuursorgaan informatie uit eigen beweging openbaar maken, wanneer een ander zwaarwegend algemeen belang, daaronder begrepen het belang van openbare veiligheid, de volksgezondheid of het milieu of de bescherming van de democratische rechtsorde, dat in een concreet geval vergt.
+In afwijking van de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.1&z=2024-11-01&g=2024-11-01) en [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.2&z=2024-11-01&g=2024-11-01) kan een bestuursorgaan informatie uit eigen beweging openbaar maken, wanneer een ander zwaarwegend algemeen belang, daaronder begrepen het belang van openbare veiligheid, de volksgezondheid of het milieu of de bescherming van de democratische rechtsorde, dat in een concreet geval vergt.
 
 ##### Artikel 3.5. Openbaarheidsparagraaf
 
@@ -248,7 +282,7 @@ Een bestuursorgaan besteedt in de jaarlijkse begroting dan wel de jaarlijkse beg
 
 6. Het bestuursorgaan kan besluiten een verzoek niet te behandelen, indien de verzoeker niet meewerkt aan een verzoek tot precisering als bedoeld het vijfde lid. In afwijking van [artikel 4:5, vierde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) wordt het besluit om het verzoek niet te behandelen aan de verzoeker bekendgemaakt binnen twee weken nadat het verzoek is gepreciseerd of nadat de daarvoor gestelde termijn ongebruikt is verstreken.
 
-7. Een verzoek om informatie wordt ingewilligd met inachtneming van het bepaalde in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&z=2024-10-01&g=2024-10-01).
+7. Een verzoek om informatie wordt ingewilligd met inachtneming van het bepaalde in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&z=2024-11-01&g=2024-11-01).
 
 ##### Artikel 4.1a. Borgen behoud documenten
 
@@ -260,11 +294,11 @@ Het bestuursorgaan waarborgt het behoud van de documenten waarop een door hem on
 
 2. Indien het verzoek betrekking heeft op informatie die op grond van enig wettelijk voorschrift bij het bestuursorgaan had behoren te berusten, vordert het bestuursorgaan de gevraagde informatie van degene die over de informatie beschikt. Degene die over de gevraagde informatie beschikt, verstrekt deze per omgaande aan het bestuursorgaan.
 
-3. Voor zover een verzoek als bedoeld in [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=4&artikel=4.1&z=2024-10-01&g=2024-10-01), dat is gericht aan een der Kamers of de verenigde vergadering der Staten-Generaal, betrekking heeft op informatie die door de regering vertrouwelijk aan de Staten-Generaal is verstrekt, zendt de Kamer of de verenigde vergadering het verzoek ter behandeling door aan Onze Minister of Onze Ministers die deze informatie vertrouwelijk heeft of hebben verstrekt.
+3. Voor zover een verzoek als bedoeld in [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=4&artikel=4.1&z=2024-11-01&g=2024-11-01), dat is gericht aan een der Kamers of de verenigde vergadering der Staten-Generaal, betrekking heeft op informatie die door de regering vertrouwelijk aan de Staten-Generaal is verstrekt, zendt de Kamer of de verenigde vergadering het verzoek ter behandeling door aan Onze Minister of Onze Ministers die deze informatie vertrouwelijk heeft of hebben verstrekt.
 
 ##### Artikel 4.2a. Overleg tussen bestuursorgaan en verzoeker
 
-Indien een voldoende gespecificeerd verzoek zodanig omvangrijk is dat niet binnen de termijn van [artikel 4.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=4&artikel=4.4&z=2024-10-01&g=2024-10-01), kan worden beslist, treedt het bestuursorgaan voor het einde van die termijn in overleg met de verzoeker over de prioritering van de afhandeling van het verzoek. Het bestuursorgaan verstrekt de gevraagde documenten zo veel mogelijk in de door de verzoeker gewenste volgorde.
+Indien een voldoende gespecificeerd verzoek zodanig omvangrijk is dat niet binnen de termijn van [artikel 4.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=4&artikel=4.4&z=2024-11-01&g=2024-11-01), kan worden beslist, treedt het bestuursorgaan voor het einde van die termijn in overleg met de verzoeker over de prioritering van de afhandeling van het verzoek. Het bestuursorgaan verstrekt de gevraagde documenten zo veel mogelijk in de door de verzoeker gewenste volgorde.
 
 ##### Artikel 4.3. Beslissing
 
@@ -276,7 +310,7 @@ Indien een voldoende gespecificeerd verzoek zodanig omvangrijk is dat niet binne
 
 - b. de verzoeker bij gehele of gedeeltelijke afwijzing van het mondelinge verzoek verzoekt om een schriftelijk besluit;
 
-- c. de gevraagde informatie slechts wordt verstrekt aan de verzoeker overeenkomstig [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.5&z=2024-10-01&g=2024-10-01), [artikel 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.6&z=2024-10-01&g=2024-10-01) of [artikel 5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.7&z=2024-10-01&g=2024-10-01) en aan de verstrekking voorwaarden worden verbonden; of
+- c. de gevraagde informatie slechts wordt verstrekt aan de verzoeker overeenkomstig [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.5&z=2024-11-01&g=2024-11-01), [artikel 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.6&z=2024-11-01&g=2024-11-01) of [artikel 5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.7&z=2024-11-01&g=2024-11-01) en aan de verstrekking voorwaarden worden verbonden; of
 
 - d. de gevraagde informatie betrekking heeft op of afkomstig is van derden, tenzij deze hebben verklaard aan een schriftelijk besluit geen behoefte te hebben.
 
@@ -298,7 +332,7 @@ Indien een voldoende gespecificeerd verzoek zodanig omvangrijk is dat niet binne
 
 ##### Artikel 4.5. Verstrekking
 
-1. Het bestuursorgaan verstrekt de informatie in de door verzoeker verzochte vorm of, indien dit redelijkerwijs niet gevergd kan worden, met inachtneming van het bepaalde in [artikel 2.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=2&artikel=2.4&z=2024-10-01&g=2024-10-01).
+1. Het bestuursorgaan verstrekt de informatie in de door verzoeker verzochte vorm of, indien dit redelijkerwijs niet gevergd kan worden, met inachtneming van het bepaalde in [artikel 2.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=2&artikel=2.4&z=2024-11-01&g=2024-11-01).
 
 2. Indien de informatie reeds in een voor de verzoeker gemakkelijk toegankelijke vorm voor het publiek beschikbaar is, wijst het bestuursorgaan de verzoeker daarop.
 
@@ -368,53 +402,53 @@ Ter beantwoording van vragen over de beschikbaarheid van publieke informatie wij
 
 ##### Artikel 5.3. Informatie ouder dan vijf jaar
 
-Bij een verzoek om informatie die ouder is dan vijf jaar motiveert het bestuursorgaan bij een weigering van die informatie waarom de in [artikel 5.1, tweede of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.1&z=2024-10-01&g=2024-10-01), of [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.2&z=2024-10-01&g=2024-10-01) bedoelde belangen ondanks het tijdsverloop zwaarder wegen dan het algemeen belang van openbaarheid.
+Bij een verzoek om informatie die ouder is dan vijf jaar motiveert het bestuursorgaan bij een weigering van die informatie waarom de in [artikel 5.1, tweede of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.1&z=2024-11-01&g=2024-11-01), of [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.2&z=2024-11-01&g=2024-11-01) bedoelde belangen ondanks het tijdsverloop zwaarder wegen dan het algemeen belang van openbaarheid.
 
 ##### Artikel 5.4. Formatie
 
-In afwijking van de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.1&z=2024-10-01&g=2024-10-01) en [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.2&z=2024-10-01&g=2024-10-01) is informatie die berust bij de formateur of de informateur, dan wel informatie die door een bestuursorgaan aan de formateur of de informateur is gezonden niet openbaar totdat de formatie is afgerond.
+In afwijking van de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.1&z=2024-11-01&g=2024-11-01) en [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.2&z=2024-11-01&g=2024-11-01) is informatie die berust bij de formateur of de informateur, dan wel informatie die door een bestuursorgaan aan de formateur of de informateur is gezonden niet openbaar totdat de formatie is afgerond.
 
 ##### Artikel 5.4a. Ondersteuning Kamerleden, statenleden en raadsleden
 
-1. In afwijking van de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.1&z=2024-10-01&g=2024-10-01) en [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.2&z=2024-10-01&g=2024-10-01) is niet openbaar de informatie betreffende de ondersteuning van individuele leden van de Eerste Kamer of de Tweede Kamer der Staten-Generaal, provinciale staten of de gemeenteraad door ambtenaren werkzaam bij de Eerste Kamer of de Tweede Kamer, de griffie van provinciale staten of de griffie van de gemeenteraad.
+1. In afwijking van de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.1&z=2024-11-01&g=2024-11-01) en [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.2&z=2024-11-01&g=2024-11-01) is niet openbaar de informatie betreffende de ondersteuning van individuele leden van de Eerste Kamer of de Tweede Kamer der Staten-Generaal, provinciale staten of de gemeenteraad door ambtenaren werkzaam bij de Eerste Kamer of de Tweede Kamer, de griffie van provinciale staten of de griffie van de gemeenteraad.
 
-2. In afwijking van [artikel 5.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.2&z=2024-10-01&g=2024-10-01), wordt met betrekking tot informatie die aan individuele Kamerleden wordt verstrekt onder persoonlijke beleidsopvattingen verstaan ambtelijke adviezen, visies, standpunten en overwegingen ten behoeve van intern beraad.
+2. In afwijking van [artikel 5.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.2&z=2024-11-01&g=2024-11-01), wordt met betrekking tot informatie die aan individuele Kamerleden wordt verstrekt onder persoonlijke beleidsopvattingen verstaan ambtelijke adviezen, visies, standpunten en overwegingen ten behoeve van intern beraad.
 
 ##### Artikel 5.5. Verstrekking van informatie die de verzoeker betreft
 
-1. Onverminderd het elders bij wet bepaalde, verstrekt een bestuursorgaan iedere natuurlijke of rechtspersoon op diens verzoek de op de verzoeker betrekking hebbende in documenten neergelegde informatie, tenzij een in [artikel 5.1, eerste lid, onderdelen a, b en c, alsmede d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.1&z=2024-10-01&g=2024-10-01), voor zover betrekking hebbend op derden, genoemd belang aan de orde is of een in artikel 5.1, tweede of vijfde lid, of [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.2&z=2024-10-01&g=2024-10-01) genoemd belang zwaarder weegt dan het belang van de verzoeker bij toegang tot op hem betrekking hebbende informatie. De verzoeker vermeldt bij zijn verzoek de aangelegenheid of het daarop betrekking hebbende document, waarover hij informatie wenst te ontvangen.
+1. Onverminderd het elders bij wet bepaalde, verstrekt een bestuursorgaan iedere natuurlijke of rechtspersoon op diens verzoek de op de verzoeker betrekking hebbende in documenten neergelegde informatie, tenzij een in [artikel 5.1, eerste lid, onderdelen a, b en c, alsmede d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.1&z=2024-11-01&g=2024-11-01), voor zover betrekking hebbend op derden, genoemd belang aan de orde is of een in artikel 5.1, tweede of vijfde lid, of [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.2&z=2024-11-01&g=2024-11-01) genoemd belang zwaarder weegt dan het belang van de verzoeker bij toegang tot op hem betrekking hebbende informatie. De verzoeker vermeldt bij zijn verzoek de aangelegenheid of het daarop betrekking hebbende document, waarover hij informatie wenst te ontvangen.
 
 2. Het eerste lid is van overeenkomstige toepassing op een verzoek met betrekking tot gegevens ten aanzien van een overleden echtgenoot, geregistreerd partner, kind of ouder van de verzoeker, tenzij een schriftelijke wilsverklaring van de overledene aan de verstrekking in de weg staat.
 
 3. Het bestuursorgaan draagt zorg voor een deugdelijke vaststelling van de identiteit van de verzoeker.
 
-4. Het bestuursorgaan kan aan de verstrekking voorwaarden verbinden ter bescherming van een van de belangen, genoemd in de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.1&z=2024-10-01&g=2024-10-01) en [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.2&z=2024-10-01&g=2024-10-01), tenzij de gevraagde informatie met toepassing van de artikelen 5.1 en 5.2 openbaar voor eenieder zou zijn.
+4. Het bestuursorgaan kan aan de verstrekking voorwaarden verbinden ter bescherming van een van de belangen, genoemd in de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.1&z=2024-11-01&g=2024-11-01) en [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.2&z=2024-11-01&g=2024-11-01), tenzij de gevraagde informatie met toepassing van de artikelen 5.1 en 5.2 openbaar voor eenieder zou zijn.
 
 ##### Artikel 5.6. Verstrekking van niet-openbare informatie wegens klemmende redenen
 
-1. Het bestuursorgaan kan, in geval informatie ingevolge de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.1&z=2024-10-01&g=2024-10-01) en [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.2&z=2024-10-01&g=2024-10-01) niet openbaar gemaakt kan worden, besluiten de informatie uitsluitend aan de verzoeker te verstrekken, indien er klemmende redenen zijn om de verzoeker niettegenstaande de toepasselijke uitzonderingsgrond of -gronden de gevraagde informatie niet te onthouden.
+1. Het bestuursorgaan kan, in geval informatie ingevolge de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.1&z=2024-11-01&g=2024-11-01) en [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.2&z=2024-11-01&g=2024-11-01) niet openbaar gemaakt kan worden, besluiten de informatie uitsluitend aan de verzoeker te verstrekken, indien er klemmende redenen zijn om de verzoeker niettegenstaande de toepasselijke uitzonderingsgrond of -gronden de gevraagde informatie niet te onthouden.
 
 2. Het eerste lid vindt slechts toepassing voor zover dit niet in strijd is met een toepasselijke geheimhoudingsplicht.
 
-3. Het bestuursorgaan kan aan de verstrekking voorwaarden verbinden ter bescherming van een van de belangen, genoemd in de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.1&z=2024-10-01&g=2024-10-01) en [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.2&z=2024-10-01&g=2024-10-01).
+3. Het bestuursorgaan kan aan de verstrekking voorwaarden verbinden ter bescherming van een van de belangen, genoemd in de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.1&z=2024-11-01&g=2024-11-01) en [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.2&z=2024-11-01&g=2024-11-01).
 
 ##### Artikel 5.7. Toegang tot niet-openbare informatie ten behoeve van onderzoek
 
 1. Een bestuursorgaan kan ten behoeve van historisch, statistisch, wetenschappelijk of journalistiek onderzoek toegang bieden tot informatie:
 
-- a. die ingevolge de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.1&z=2024-10-01&g=2024-10-01) en [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.2&z=2024-10-01&g=2024-10-01) niet openbaar gemaakt kan worden; of
+- a. die ingevolge de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.1&z=2024-11-01&g=2024-11-01) en [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.2&z=2024-11-01&g=2024-11-01) niet openbaar gemaakt kan worden; of
 
-- b. waarvan de vaststelling of deze informatie ingevolge de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.1&z=2024-10-01&g=2024-10-01) en [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.2&z=2024-10-01&g=2024-10-01) openbaar gemaakt kan worden een onevenredige inspanning vergt.
+- b. waarvan de vaststelling of deze informatie ingevolge de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.1&z=2024-11-01&g=2024-11-01) en [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.2&z=2024-11-01&g=2024-11-01) openbaar gemaakt kan worden een onevenredige inspanning vergt.
 
 2. Het bestuursorgaan kan aan het verlenen van toegang voorwaarden verbinden.
 
-3. De toegang tot informatie overeenkomstig het eerste lid wordt in ieder geval verleend onder de voorwaarde dat degene aan wie toegang wordt verleend, de verkregen informatie niet verder verspreidt zonder voorafgaand besluit van het bestuursorgaan waarin de informatie met toepassing van de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.1&z=2024-10-01&g=2024-10-01) en [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.2&z=2024-10-01&g=2024-10-01) openbaar gemaakt wordt.
+3. De toegang tot informatie overeenkomstig het eerste lid wordt in ieder geval verleend onder de voorwaarde dat degene aan wie toegang wordt verleend, de verkregen informatie niet verder verspreidt zonder voorafgaand besluit van het bestuursorgaan waarin de informatie met toepassing van de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.1&z=2024-11-01&g=2024-11-01) en [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.2&z=2024-11-01&g=2024-11-01) openbaar gemaakt wordt.
 
 ### Hoofdstuk 6. Digitale informatiehuishouding
 
 ##### Artikel 6.1. Doel
 
-Het bestuursorgaan treft maatregelen ten behoeve van het duurzaam toegankelijk maken van de digitale documenten, bedoeld in [artikel 2.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=2&artikel=2.4&z=2024-10-01&g=2024-10-01).
+Het bestuursorgaan treft maatregelen ten behoeve van het duurzaam toegankelijk maken van de digitale documenten, bedoeld in [artikel 2.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=2&artikel=2.4&z=2024-11-01&g=2024-11-01).
 
 ##### Artikel 6.2. Meerjarenplan
 
@@ -422,7 +456,7 @@ Het bestuursorgaan treft maatregelen ten behoeve van het duurzaam toegankelijk m
 
 2. Het meerjarenplan bevat langetermijndoelen voor de verbetering van de wijze waarop digitale documenten worden vervaardigd, geordend, bewaard, vernietigd en ontsloten alsmede de stappen die daartoe op korte termijn worden gezet.
 
-3. Het meerjarenplan voorziet in stappen waarmee wordt bereikt dat eenieder zo veel mogelijk inzicht kan hebben in de aanwezigheid van publieke informatie bij een orgaan, persoon of college als bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=2&artikel=2.2&z=2024-10-01&g=2024-10-01).
+3. Het meerjarenplan voorziet in stappen waarmee wordt bereikt dat eenieder zo veel mogelijk inzicht kan hebben in de aanwezigheid van publieke informatie bij een orgaan, persoon of college als bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=2&artikel=2.2&z=2024-11-01&g=2024-11-01).
 
 4. Onze Minister, in overeenstemming met Onze Minister van Onderwijs, Cultuur en Wetenschap, vult het meerjarenplan aan met de nodige maatregelen tot de digitale overheidsinformatie voldoende duurzaam toegankelijk is.
 
@@ -460,7 +494,7 @@ Het bestuursorgaan treft maatregelen ten behoeve van het duurzaam toegankelijk m
 
 ##### Artikel 7.3. Bemiddeling
 
-1. Alvorens een advies als bedoeld in [artikel 7.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=7&artikel=7.2&z=2024-10-01&g=2024-10-01), uit te brengen, bemiddelt het college tussen het bestuursorgaan en de klager. Het bestuursorgaan werkt aan de bemiddeling mee.
+1. Alvorens een advies als bedoeld in [artikel 7.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=7&artikel=7.2&z=2024-11-01&g=2024-11-01), uit te brengen, bemiddelt het college tussen het bestuursorgaan en de klager. Het bestuursorgaan werkt aan de bemiddeling mee.
 
 2. Indien de klacht mede betrekking heeft op een besluit op grond van deze wet waartegen bezwaar open staat, wordt de termijn voor het indienen van bezwaar, bedoeld in [artikel 6:7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:7), opgeschort tot het college advies heeft uitgebracht, dan wel aan de klager en het bestuursorgaan heeft bericht dat geen advies zal worden uitgebracht. De opschorting van de bezwaartermijn vangt aan met ingang van de dag nadat de klager de klacht aan het college heeft gezonden.
 
@@ -482,7 +516,7 @@ Een bestuursorgaan verstrekt desgevraagd het college alle gegevens die het nodig
 
 ##### Artikel 8.1. Strafbepaling
 
-1. Overtreding van een voorwaarde die op grond van [artikel 5.5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.5&z=2024-10-01&g=2024-10-01), [5.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.6&z=2024-10-01&g=2024-10-01), of [artikel 5.7, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.7&z=2024-10-01&g=2024-10-01), aan een verstrekking is verbonden, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie.
+1. Overtreding van een voorwaarde die op grond van [artikel 5.5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.5&z=2024-11-01&g=2024-11-01), [5.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.6&z=2024-11-01&g=2024-11-01), of [artikel 5.7, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.7&z=2024-11-01&g=2024-11-01), aan een verstrekking is verbonden, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie.
 
 2. Het in het eerste lid strafbaar gestelde feit is een misdrijf.
 
@@ -506,7 +540,7 @@ Een bestuursorgaan verstrekt desgevraagd het college alle gegevens die het nodig
 
 ##### Artikel 8.5. Last onder dwangsom
 
-Het bestuursorgaan is bevoegd tot oplegging van een last onder dwangsom ter handhaving van [artikel 4.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=4&artikel=4.2&z=2024-10-01&g=2024-10-01).
+Het bestuursorgaan is bevoegd tot oplegging van een last onder dwangsom ter handhaving van [artikel 4.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=4&artikel=4.2&z=2024-11-01&g=2024-11-01).
 
 ##### Artikel 8.6. Kosten
 
@@ -522,7 +556,7 @@ Op voordracht van Onze Minister kunnen bij of krachtens algemene maatregel van b
 
 ##### Artikel 8.8. Verhouding met andere wetten
 
-De [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=3&artikel=3.1&z=2024-10-01&g=2024-10-01), [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=3&artikel=3.3&z=2024-10-01&g=2024-10-01), [4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=4&artikel=4.1&z=2024-10-01&g=2024-10-01), [5.1, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.1&z=2024-10-01&g=2024-10-01), en [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.2&z=2024-10-01&g=2024-10-01) zijn niet van toepassing op informatie waarvoor een bepaling geldt die is opgenomen in de bijlage bij deze wet.
+De [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=3&artikel=3.1&z=2024-11-01&g=2024-11-01), [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=3&artikel=3.3&z=2024-11-01&g=2024-11-01), [4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=4&artikel=4.1&z=2024-11-01&g=2024-11-01), [5.1, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.1&z=2024-11-01&g=2024-11-01), en [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.2&z=2024-11-01&g=2024-11-01) zijn niet van toepassing op informatie waarvoor een bepaling geldt die is opgenomen in de bijlage bij deze wet.
 
 ##### Artikel 8.9. Evaluatiebepaling
 
@@ -776,21 +810,21 @@ De [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR000525
 
 ##### Artikel 10.2. Overgangsrecht actieve openbaarmaking
 
-1. Bij tijdelijke regeling van Onze Minister wordt bepaald welke onderdelen van [artikel 3.3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=3&artikel=3.3&z=2024-10-01&g=2024-10-01), niet van toepassing zijn op in die regeling aangewezen bestuursorganen voor een in die regeling bepaalde periode.
+1. Bij tijdelijke regeling van Onze Minister wordt bepaald welke onderdelen van [artikel 3.3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=3&artikel=3.3&z=2024-11-01&g=2024-11-01), niet van toepassing zijn op in die regeling aangewezen bestuursorganen voor een in die regeling bepaalde periode.
 
 2. Bij tijdelijke regeling van Onze Minister kan worden bepaald dat:
 
-- a. voor in die regeling aangewezen bestuursorganen voor een in die regeling bepaalde periode in afwijking van [artikel 3.3, vierde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=3&artikel=3.3&z=2024-10-01&g=2024-10-01), bij in die regeling aangewezen onderdelen van artikel 3.3, eerste en tweede lid, een andere periode geldt waarbinnen de openbaarmaking plaatsvindt, of
+- a. voor in die regeling aangewezen bestuursorganen voor een in die regeling bepaalde periode in afwijking van [artikel 3.3, vierde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=3&artikel=3.3&z=2024-11-01&g=2024-11-01), bij in die regeling aangewezen onderdelen van artikel 3.3, eerste en tweede lid, een andere periode geldt waarbinnen de openbaarmaking plaatsvindt, of
 
-- b. voor in die regeling aangewezen bestuursorganen voor een in die regeling bepaalde periode het in die regeling aangewezen type beschikkingen als bedoeld in [artikel 3.3, tweede lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=3&artikel=3.3&z=2024-10-01&g=2024-10-01), de verplichting tot openbaarmaking reeds geldt of nog niet van toepassing is.
+- b. voor in die regeling aangewezen bestuursorganen voor een in die regeling bepaalde periode het in die regeling aangewezen type beschikkingen als bedoeld in [artikel 3.3, tweede lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=3&artikel=3.3&z=2024-11-01&g=2024-11-01), de verplichting tot openbaarmaking reeds geldt of nog niet van toepassing is.
 
 ##### Artikel 10.2a. Overgangsrecht bestaande documenten
 
-De in [artikel 3.3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=3&artikel=3.3&z=2024-10-01&g=2024-10-01), opgenomen verplichting tot openbaarmaking geldt niet voor documenten die zijn vastgesteld of ontvangen voordat deze verplichting op het bestuursorgaan waarbij de documenten berusten, van toepassing is geworden.
+De in [artikel 3.3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=3&artikel=3.3&z=2024-11-01&g=2024-11-01), opgenomen verplichting tot openbaarmaking geldt niet voor documenten die zijn vastgesteld of ontvangen voordat deze verplichting op het bestuursorgaan waarbij de documenten berusten, van toepassing is geworden.
 
 ##### Artikel 10.2b. Overgangsrecht adviezen Raad van State
 
-1. Zolang [artikel 3.3, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=3&artikel=3.3&z=2024-10-01&g=2024-10-01), niet in werking is getreden, draagt de Afdeling advisering van de Raad van State zorg voor de openbaarmaking van:
+1. Zolang [artikel 3.3, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=3&artikel=3.3&z=2024-11-01&g=2024-11-01), niet in werking is getreden, draagt de Afdeling advisering van de Raad van State zorg voor de openbaarmaking van:
 
 - a. adviezen van de Afdeling advisering, door Ons gevraagd;
 
@@ -798,21 +832,21 @@ De in [artikel 3.3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BW
 
 - c. voorlichting in aangelegenheden van wetgeving en bestuur als bedoeld in [artikel 21a van de Wet op de Raad van State](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&artikel=21a).
 
-2. [Artikel 3.3 vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=3&artikel=3.3&z=2024-10-01&g=2024-10-01), is van toepassing, tenzij Onze Minister die het rechtstreeks aangaat heeft verzocht om toepassing van artikel 3.3, vijfde lid, onderdeel a.
+2. [Artikel 3.3 vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=3&artikel=3.3&z=2024-11-01&g=2024-11-01), is van toepassing, tenzij Onze Minister die het rechtstreeks aangaat heeft verzocht om toepassing van artikel 3.3, vijfde lid, onderdeel a.
 
 ##### Artikel 10.2c. Overgangsrecht DNB en AFM
 
-Gedurende drie jaar na de inwerkingtreding van [artikel 9.74](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=9&artikel=9.74&z=2024-10-01&g=2024-10-01) blijft [artikel 1, aanhef en onderdelen b en c, van het Besluit bestuursorganen WNo en Wob](https://wetten.overheid.nl/jci1.3:c:BWBR0009896&artikel=1), zoals dat luidde op het tijdstip onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van artikel 9.74, van overeenkomstige toepassing op verzoeken om informatie die op dat tijdstip berust bij de Nederlandsche Bank N.V. of de Stichting Autoriteit Financiële Markten.
+Gedurende drie jaar na de inwerkingtreding van [artikel 9.74](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=9&artikel=9.74&z=2024-11-01&g=2024-11-01) blijft [artikel 1, aanhef en onderdelen b en c, van het Besluit bestuursorganen WNo en Wob](https://wetten.overheid.nl/jci1.3:c:BWBR0009896&artikel=1), zoals dat luidde op het tijdstip onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van artikel 9.74, van overeenkomstige toepassing op verzoeken om informatie die op dat tijdstip berust bij de Nederlandsche Bank N.V. of de Stichting Autoriteit Financiële Markten.
 
-##### Artikel 10.2d. Samenloop [artikel 10.2b](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=10&artikel=10.2b&z=2024-10-01&g=2024-10-01) en Rijkswet Koninkrijksgeschillen
+##### Artikel 10.2d. Samenloop [artikel 10.2b](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=10&artikel=10.2b&z=2024-11-01&g=2024-11-01) en Rijkswet Koninkrijksgeschillen
 
 Wijzigt deze wet.
 
-##### Artikel 10.2f. Vervallen [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=6&z=2024-10-01&g=2024-10-01)
+##### Artikel 10.2f. Vervallen [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=6&z=2024-11-01&g=2024-11-01)
 
-1. [Hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=6&z=2024-10-01&g=2024-10-01) vervalt bij koninklijk besluit, met dien verstande dat de voordracht voor dat koninklijk besluit niet eerder gedaan wordt dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.
+1. [Hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=6&z=2024-11-01&g=2024-11-01) vervalt bij koninklijk besluit, met dien verstande dat de voordracht voor dat koninklijk besluit niet eerder gedaan wordt dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.
 
-2. Met ingang van het tijdstip waarop [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=6&z=2024-10-01&g=2024-10-01) vervalt, komt [artikel 7.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=7&artikel=7.2&z=2024-10-01&g=2024-10-01), als volgt te luiden:
+2. Met ingang van het tijdstip waarop [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=6&z=2024-11-01&g=2024-11-01) vervalt, komt [artikel 7.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=7&artikel=7.2&z=2024-11-01&g=2024-11-01), als volgt te luiden:
 
 2. Het college adviseert Onze Minister over de stand van de informatiehuishouding in het bestuur en de toegang tot de publieke informatie.
 
@@ -822,17 +856,17 @@ Wijzigt deze wet.
 
 ##### Artikel 10.3. Inwerkingtreding
 
-1. Deze wet treedt, met uitzondering van [artikel 3.3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=3&artikel=3.3&z=2024-10-01&g=2024-10-01), in werking met ingang van de eerste dag van de zevende kalendermaand na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
+1. Deze wet treedt, met uitzondering van [artikel 3.3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=3&artikel=3.3&z=2024-11-01&g=2024-11-01), in werking met ingang van de eerste dag van de zevende kalendermaand na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 
-2. [Artikel 3.3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=3&artikel=3.3&z=2024-10-01&g=2024-10-01), treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor onderdelen daarvan verschillend kan worden vastgesteld.
+2. [Artikel 3.3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=3&artikel=3.3&z=2024-11-01&g=2024-11-01), treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor onderdelen daarvan verschillend kan worden vastgesteld.
 
 ##### Artikel 10.4. Citeertitel
 
 Deze wet wordt aangehaald als: Wet open overheid.
 
-## Bijlage. bij [artikel 8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=8&artikel=8.8&z=2024-10-01&g=2024-10-01) van de Wet open overheid
+## Bijlage. bij [artikel 8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=8&artikel=8.8&z=2024-11-01&g=2024-11-01) van de Wet open overheid
 
-De [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=3&artikel=3.1&z=2024-10-01&g=2024-10-01), [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=3&artikel=3.3&z=2024-10-01&g=2024-10-01), [4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=4&artikel=4.1&z=2024-10-01&g=2024-10-01), [5.1, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.1&z=2024-10-01&g=2024-10-01), en [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.2&z=2024-10-01&g=2024-10-01) van de Wet open overheid zijn niet van toepassing voor zover de volgende bepalingen gelden.
+De [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=3&artikel=3.1&z=2024-11-01&g=2024-11-01), [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=3&artikel=3.3&z=2024-11-01&g=2024-11-01), [4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=4&artikel=4.1&z=2024-11-01&g=2024-11-01), [5.1, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.1&z=2024-11-01&g=2024-11-01), en [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.2&z=2024-11-01&g=2024-11-01) van de Wet open overheid zijn niet van toepassing voor zover de volgende bepalingen gelden.
 
 - •. [Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203): de [artikelen 2.53, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=2.53), voor zover openbaarmaking van informatie schade zou toebrengen aan de gerechtvaardigde economische belangen van een onderneming, [2.57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=2.57), voor zover het door de ondernemer als vertrouwelijk aangemerkte informatie betreft, 2.57, tweede lid, voor zover de informatie kan worden gebruikt om de mededinging te vervalsen, [2.138, onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=2.138), en [2.163](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=2.163)
 
@@ -986,7 +1020,7 @@ De [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=3&a
 
 - •. [Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800): [artikel 6, vierde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=6)
 
-- •. Wet open overheid: de [artikelen 3.3, vijfde lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=3&artikel=3.3&z=2024-10-01&g=2024-10-01), [4.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=4&artikel=4.2&z=2024-10-01&g=2024-10-01), [5.4a](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.4a&z=2024-10-01&g=2024-10-01) en [7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=7&artikel=7.5&z=2024-10-01&g=2024-10-01), voor zover de documenten berusten bij het Adviescollege openbaarheid en informatiehuishouding
+- •. Wet open overheid: de [artikelen 3.3, vijfde lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=3&artikel=3.3&z=2024-11-01&g=2024-11-01), [4.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=4&artikel=4.2&z=2024-11-01&g=2024-11-01), [5.4a](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.4a&z=2024-11-01&g=2024-11-01) en [7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=7&artikel=7.5&z=2024-11-01&g=2024-11-01), voor zover de documenten berusten bij het Adviescollege openbaarheid en informatiehuishouding
 
 - •. [Wet opneming buitenlandse kinderen ter adoptie](https://wetten.overheid.nl/jci1.3:c:BWBR0004447): de [artikelen 17e](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&artikel=17e) en [17f](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&artikel=17f)
 
