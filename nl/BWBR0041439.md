@@ -4,7 +4,7 @@ identifier: "BWBR0041439"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-05"
-last_updated: "2023-08-15"
+last_updated: "2024-11-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041439"
 soort: "wet"
@@ -51,13 +51,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **antidopingorganisatie:** organisatie als bedoeld in artikel 2, onderdeel 2, van het op 19 oktober 2005 tot stand gekomen Internationaal verdrag tegen doping in de sport (**Trb.** 2006, 194);
 
-- **Beoordelingscommissie dopingzaken:** de Beoordelingscommissie dopingzaken, genoemd in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&hoofdstuk=3&afdeling=3.1&artikel=14&z=2023-08-15&g=2023-08-15);
+- **Beoordelingscommissie dopingzaken:** de Beoordelingscommissie dopingzaken, genoemd in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&hoofdstuk=3&afdeling=3.1&artikel=14&z=2024-11-06&g=2024-11-06);
 
 - **betrokkene:** hetgeen daaronder wordt verstaan in artikel 4 van de Algemene verordening gegevensbescherming;
 
 - **dispensatie:** ontheffing voor het gebruik voor therapeutische doeleinden van een bij of krachtens een dopingreglement verboden stof of methode;
 
-- **Dopingautoriteit:** autoriteit, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&hoofdstuk=2&artikel=4&z=2023-08-15&g=2023-08-15);
+- **Dopingautoriteit:** autoriteit, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&hoofdstuk=2&artikel=4&z=2024-11-06&g=2024-11-06);
 
 - **dopingcontroleproces:** proces tot vaststelling van een mogelijke overtreding van een dopingreglement;
 
@@ -75,13 +75,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **sportorganisatie:** nationaal georganiseerd verband van sporters dat rechtspersoonlijkheid bezit, alsmede een koepelorganisatie van dergelijke verbanden;
 
-- **topsportgroep:** ingevolge [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&hoofdstuk=2&artikel=6&z=2023-08-15&g=2023-08-15), door de Dopingautoriteit aangewezen groep van sporters die vanwege het niveau van sportbeoefening een verhoogd risico lopen op overtreding van een dopingreglement;
+- **topsportgroep:** ingevolge [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&hoofdstuk=2&artikel=6&z=2024-11-06&g=2024-11-06), door de Dopingautoriteit aangewezen groep van sporters die vanwege het niveau van sportbeoefening een verhoogd risico lopen op overtreding van een dopingreglement;
 
 - **verblijfsgegeven:** persoonsgegeven met betrekking tot de verblijfplaats van een sporter op gevraagde data en aangegeven tijdstippen, alsmede zijn contactgegevens;
 
 - **Wereld Anti-Doping Agentschap:** stichting die op 10 november 1999 werd opgericht en die tot doel heeft de strijd tegen het gebruik van doping in de sport te bevorderen en te coördineren op internationaal niveau;
 
-- **Wereld Anti-Doping Code:** door het Wereld Anti-Doping Agentschap vastgestelde document dat de basis vormt voor dopingreglementen en het mondiale antidopingbeleid en dat ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&hoofdstuk=1&artikel=3&z=2023-08-15&g=2023-08-15) is bekendgemaakt.
+- **Wereld Anti-Doping Code:** door het Wereld Anti-Doping Agentschap vastgestelde document dat de basis vormt voor dopingreglementen en het mondiale antidopingbeleid en dat ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&hoofdstuk=1&artikel=3&z=2024-11-06&g=2024-11-06) is bekendgemaakt.
 
 ##### Artikel 2. Algemene regels voor sporters
 
@@ -173,7 +173,7 @@ De kosten van de Dopingautoriteit worden bestreden uit de rijksbegroting, inkoms
 
 ##### Artikel 10. Tarifering
 
-1. De kosten die samenhangen met het verrichten van de werkzaamheden, bedoeld in [artikel 5, eerste lid, onderdelen b en e](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&hoofdstuk=2&artikel=5&z=2023-08-15&g=2023-08-15), kunnen ten laste worden gebracht van degene ten behoeve van wie deze werkzaamheden worden verricht.
+1. De kosten die samenhangen met het verrichten van de werkzaamheden, bedoeld in [artikel 5, eerste lid, onderdelen b en e](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&hoofdstuk=2&artikel=5&z=2024-11-06&g=2024-11-06), kunnen ten laste worden gebracht van degene ten behoeve van wie deze werkzaamheden worden verricht.
 
 2. Bij ministeriële regeling kan worden bepaald op welke wijze de betrokkenheid van een of meer door Onze Minister aangewezen sportorganisaties wordt gewaarborgd bij de totstandkoming van tarieven als bedoeld in het eerste lid.
 
@@ -209,11 +209,11 @@ De kosten van de Dopingautoriteit worden bestreden uit de rijksbegroting, inkoms
 
 ##### Artikel 13. Overige bepalingen over de verwerking van persoonsgegevens
 
-1. De gegevensverwerkingen, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&hoofdstuk=2&artikel=6&z=2023-08-15&g=2023-08-15), vinden uitsluitend plaats voor zover dat noodzakelijk is voor de uitvoering van het dopingcontroleproces.
+1. De gegevensverwerkingen, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&hoofdstuk=2&artikel=6&z=2024-11-06&g=2024-11-06), vinden uitsluitend plaats voor zover dat noodzakelijk is voor de uitvoering van het dopingcontroleproces.
 
-2. De Dopingautoriteit is verantwoordelijke als bedoeld in artikel 4 van de Algemene verordening gegevensbescherming, voor de gegevensverwerkingen, bedoeld in [artikel 6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&hoofdstuk=2&artikel=6&z=2023-08-15&g=2023-08-15).
+2. De Dopingautoriteit is verantwoordelijke als bedoeld in artikel 4 van de Algemene verordening gegevensbescherming, voor de gegevensverwerkingen, bedoeld in [artikel 6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&hoofdstuk=2&artikel=6&z=2024-11-06&g=2024-11-06).
 
-3. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld ten aanzien van de gegevensverwerkingen, bedoeld in [artikel 6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&hoofdstuk=2&artikel=6&z=2023-08-15&g=2023-08-15), en de gegevensverstrekking, bedoeld in [artikel 12, tweede lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&hoofdstuk=2&artikel=12&z=2023-08-15&g=2023-08-15).
+3. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld ten aanzien van de gegevensverwerkingen, bedoeld in [artikel 6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&hoofdstuk=2&artikel=6&z=2024-11-06&g=2024-11-06), en de gegevensverstrekking, bedoeld in [artikel 12, tweede lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&hoofdstuk=2&artikel=12&z=2024-11-06&g=2024-11-06).
 
 ##### Artikel 13a. Evaluatiebepaling
 
@@ -227,7 +227,7 @@ Onze Minister van Volksgezondheid, Welzijn en Sport zendt binnen vier jaar na de
 
 ##### Artikel 15. Taken
 
-1. De Beoordelingscommissie dopingzaken is als beroepsorgaan belast met het beroep tegen besluiten van de Dopingautoriteit die genomen worden ter uitvoering van [artikel 5, eerste lid, onder a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&hoofdstuk=2&artikel=5&z=2023-08-15&g=2023-08-15) voor zover ingevolge de Wereld Anti-Doping Code of internationale standaarden die besluiten appellabel zijn, tenzij ingevolge de Wereld Anti-Doping Code of internationale standaarden het Hof van Arbitrage voor Sport:
+1. De Beoordelingscommissie dopingzaken is als beroepsorgaan belast met het beroep tegen besluiten van de Dopingautoriteit die genomen worden ter uitvoering van [artikel 5, eerste lid, onder a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&hoofdstuk=2&artikel=5&z=2024-11-06&g=2024-11-06) voor zover ingevolge de Wereld Anti-Doping Code of internationale standaarden die besluiten appellabel zijn, tenzij ingevolge de Wereld Anti-Doping Code of internationale standaarden het Hof van Arbitrage voor Sport:
 
 - 1°. exclusief bevoegd is om te oordelen over het besluit, of
 
@@ -241,7 +241,7 @@ Onze Minister van Volksgezondheid, Welzijn en Sport zendt binnen vier jaar na de
 
 5. De Beoordelingscommissie dopingzaken neemt bij de uitvoering van de taak, bedoeld in het eerste lid, in elk geval de Wereld Anti-Doping Code en internationale standaarden in acht.
 
-6. Ter uitvoering van de taak, bedoeld in het eerste lid, maakt de Beoordelingscommissie dopingzaken gebruik van een panel van experts als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&hoofdstuk=3&afdeling=3.1&artikel=17&z=2023-08-15&g=2023-08-15), niet zijnde leden als bedoeld in de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495).
+6. Ter uitvoering van de taak, bedoeld in het eerste lid, maakt de Beoordelingscommissie dopingzaken gebruik van een panel van experts als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&hoofdstuk=3&afdeling=3.1&artikel=17&z=2024-11-06&g=2024-11-06), niet zijnde leden als bedoeld in de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495).
 
 ##### Artikel 16. Inrichting en benoeming leden en secretaris
 
@@ -265,7 +265,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 17. Panel van experts dat ingezet wordt voor het uitvoeren van de taak
 
-1. Onze Minister benoemt, schorst en ontslaat de personen die onderdeel zijn van een panel van experts en ingezet worden voor het uitvoeren van de taak, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&hoofdstuk=3&afdeling=3.1&artikel=15&z=2023-08-15&g=2023-08-15).
+1. Onze Minister benoemt, schorst en ontslaat de personen die onderdeel zijn van een panel van experts en ingezet worden voor het uitvoeren van de taak, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&hoofdstuk=3&afdeling=3.1&artikel=15&z=2024-11-06&g=2024-11-06).
 
 2. Personen als bedoeld in het eerste lid worden benoemd voor een periode van ten minste 2 jaar.
 
@@ -279,7 +279,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 18. Vergoeding
 
-1. De Beoordelingscommissie dopingzaken kan een vergoeding toekennen aan de personen die onderdeel zijn van het panel van experts, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&hoofdstuk=3&afdeling=3.1&artikel=17&z=2023-08-15&g=2023-08-15), en ingezet worden voor het uitvoeren van de taak, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&hoofdstuk=3&afdeling=3.1&artikel=15&z=2023-08-15&g=2023-08-15).
+1. De Beoordelingscommissie dopingzaken kan een vergoeding toekennen aan de personen die onderdeel zijn van het panel van experts, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&hoofdstuk=3&afdeling=3.1&artikel=17&z=2024-11-06&g=2024-11-06), en ingezet worden voor het uitvoeren van de taak, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&hoofdstuk=3&afdeling=3.1&artikel=15&z=2024-11-06&g=2024-11-06).
 
 2. De vergoeding, bedoeld in het eerste lid, kan in ieder geval zien op reis- en verblijfkosten.
 
@@ -315,7 +315,7 @@ Het beroep schorst niet de werking van het besluit op waartegen het is gericht, 
 
 1. [Artikel 7:19](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:19) en [artikel 7:20, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:20), zijn niet van toepassing.
 
-2. Het horen geschiedt door de personen die onderdeel zijn van het panel van experts, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&hoofdstuk=3&afdeling=3.1&artikel=17&z=2023-08-15&g=2023-08-15), en ingezet worden voor het uitvoeren van de taak, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&hoofdstuk=3&afdeling=3.1&artikel=15&z=2023-08-15&g=2023-08-15).
+2. Het horen geschiedt door de personen die onderdeel zijn van het panel van experts, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&hoofdstuk=3&afdeling=3.1&artikel=17&z=2024-11-06&g=2024-11-06), en ingezet worden voor het uitvoeren van de taak, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&hoofdstuk=3&afdeling=3.1&artikel=15&z=2024-11-06&g=2024-11-06).
 
 3. De Beoordelingscommissie dopingzaken kan personen, anders dan belanghebbenden en anders dan de getuigen en deskundigen bedoeld in [artikel 7:22, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:22), in de gelegenheid stellen om te worden gehoord.
 
@@ -323,11 +323,11 @@ Het beroep schorst niet de werking van het besluit op waartegen het is gericht, 
 
 1. De Beoordelingscommissie dopingzaken beslist of het horen in het openbaar plaatsvindt.
 
-2. Belanghebbenden en personen als bedoeld in [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&hoofdstuk=3&afdeling=3.3&artikel=24&z=2023-08-15&g=2023-08-15), worden in elkaars aanwezigheid gehoord.
+2. Belanghebbenden en personen als bedoeld in [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&hoofdstuk=3&afdeling=3.3&artikel=24&z=2024-11-06&g=2024-11-06), worden in elkaars aanwezigheid gehoord.
 
-3. Ambtshalve of op aanvraag kunnen belanghebbenden en personen als bedoeld in [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&hoofdstuk=3&afdeling=3.3&artikel=24&z=2023-08-15&g=2023-08-15), afzonderlijk worden gehoord, als aannemelijk is dat gezamenlijk horen een zorgvuldige behandeling zal belemmeren of dat tijdens het horen feiten of omstandigheden bekend zullen worden waarvan geheimhouding om gewichtige redenen is geboden.
+3. Ambtshalve of op aanvraag kunnen belanghebbenden en personen als bedoeld in [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&hoofdstuk=3&afdeling=3.3&artikel=24&z=2024-11-06&g=2024-11-06), afzonderlijk worden gehoord, als aannemelijk is dat gezamenlijk horen een zorgvuldige behandeling zal belemmeren of dat tijdens het horen feiten of omstandigheden bekend zullen worden waarvan geheimhouding om gewichtige redenen is geboden.
 
-4. Wanneer belanghebbenden en personen als bedoeld in [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&hoofdstuk=3&afdeling=3.3&artikel=24&z=2023-08-15&g=2023-08-15), afzonderlijk zijn gehoord, worden belanghebbenden op de hoogte gesteld van het verhandelde tijdens het horen buiten zijn aanwezigheid.
+4. Wanneer belanghebbenden en personen als bedoeld in [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041439&hoofdstuk=3&afdeling=3.3&artikel=24&z=2024-11-06&g=2024-11-06), afzonderlijk zijn gehoord, worden belanghebbenden op de hoogte gesteld van het verhandelde tijdens het horen buiten zijn aanwezigheid.
 
 5. De Beoordelingscommissie dopingzaken kan, al dan niet op verzoek van een der belanghebbenden, toepassing van het vierde lid achterwege laten, voor zover geheimhouding om gewichtige redenen is geboden. Van toepassing van deze bepaling wordt mededeling gedaan.
 
@@ -355,7 +355,7 @@ Onze Minister van Volksgezondheid, Welzijn en Sport zendt binnen vier jaar na de
 
 ##### Artikel 29. Overgangsrecht
 
-Na inwerkingtreding van artikel I van de Wet van xxxx19 april 2023 tot wijziging van de Wet uitvoering antidopingbeleid houdende instelling van de Beoordelingscommissie dopingzaken (Stb. xxxx, xxx)(Stb. 2023, 143), worden de bij de Bezwaarcommissie nationaal Dopingreglement lopende procedures tegen besluiten van de Dopingautoriteit voor zover ingevolge de Wereld Anti-Doping Code of internationale standaarden die beslissingen appellabel zijn, bedoeld in het Reglement bezwaarcommissie nationaal dopingreglement van 1 november 2021, overgedragen aan de Beoordelingscommissie dopingzaken. De Beoordelingscommissie dopingzaken beoordeelt en verricht de afhandeling van deze procedures in overeenstemming met het bepaalde in deze wet, zoals die luidt na inwerkingtreding van dat artikel.
+Na inwerkingtreding van artikel I van de Wet van 19 april 2023 tot wijziging van de Wet uitvoering antidopingbeleid houdende instelling van de Beoordelingscommissie dopingzaken (Stb. 2023, 143), worden de bij de Bezwaarcommissie nationaal Dopingreglement lopende procedures tegen besluiten van de Dopingautoriteit voor zover ingevolge de Wereld Anti-Doping Code of internationale standaarden die beslissingen appellabel zijn, bedoeld in het Reglement bezwaarcommissie nationaal dopingreglement van 1 november 2021, overgedragen aan de Beoordelingscommissie dopingzaken. De Beoordelingscommissie dopingzaken beoordeelt en verricht de afhandeling van deze procedures in overeenstemming met het bepaalde in deze wet, zoals die luidt na inwerkingtreding van dat artikel.
 
 ##### Artikel 30. Inwerkingtreding
 
