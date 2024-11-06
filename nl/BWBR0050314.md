@@ -4,7 +4,7 @@ identifier: "BWBR0050314"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2024-01-01"
+last_updated: "2024-11-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050314"
 soort: "wet"
@@ -47,19 +47,13 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Jeugdwet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IIa
 
 Wijzigt de Opiumwet 1960 BES.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel III
 
 Wijzigt de Tabaks- en rookwarenwet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IIIa
 
@@ -68,8 +62,6 @@ Wijzigt de Wet afbreking zwangerschap.
 ##### Artikel IV
 
 Wijzigt de Wet afbreking zwangerschap.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IVa
 
@@ -86,8 +78,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel VI
 
 Wijzigt de Wet medische hulpmiddelen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VII
 
@@ -123,13 +113,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Wet uitvoering antidopingbeleid.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IX
 
 Wijzigt de Zorgverzekeringswet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel X
 
@@ -141,13 +127,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Verzamelwet VWS 2018.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XII
 
 Wijzigt de Verzamelwet VWS 2020.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIII
 
@@ -183,24 +165,32 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Wet langdurige zorg.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XIX
 
 Wijzigt de Wet op de zorgtoeslag.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XX
 
 Wijzigt de Algemene wet inkomensafhankelijke regelingen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXI
 
-Dit onderdeel is nog niet inwerking getreden
+1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+
+2. Indien artikel IIIA na 1 januari 2024 in werking treedt, werkt dat artikel terug tot en met 1 januari 2024.
 
 ##### Artikel XXII
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Verzamelwet VWS 2023.
+
+Allen die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het wenselijk is om in een aantal wetten op het terrein van het Ministerie van Volksgezondheid, Welzijn en Sport wijzigingen en correcties van wetstechnische of anderszins beperkte aard aan te brengen;
+
+Zo is het, dat Wij, de Afdeling advisering van Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+##### Artikel VIIIa*
+
+Wijzigt de Wet publieke gezondheid.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
