@@ -4,7 +4,7 @@ identifier: "BWBR0047307"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-11-06"
-last_updated: "2022-10-18"
+last_updated: "2024-11-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047307"
 soort: "ministeriele-regeling"
@@ -42,19 +42,23 @@ Gelet op:
 
 [artikel 142, eerste lid, aanhef en onder b en derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
 
+[artikel 7, negende lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7);
+
+[artikel 55b van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=55b);
+
 [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36), en [artikel 41, tweede lid, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=41);
 
 [artikel 17, eerste lid, aanhef en onder 2, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=17);
 
-de [Regeling domeinlijsten buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0041447);
+de [regeling domeinlijsten buitengewoon opsporingsambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0041447);
 
-de [Beleidsregels Buitengewoon Opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0039766).
+de [Beleidsregels buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0039766).
 
 Besluit:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047307&artikel=2&z=2022-10-18&g=2022-10-18).
+In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047307&artikel=2&z=2024-11-06&g=2024-11-06).
 
 ##### Artikel 2
 
@@ -70,7 +74,9 @@ De personen, werkzaam in de functie van medewerker handhaving in dienst van geme
 
 ##### Artikel 4
 
-Op grond van dit besluit kunnen maximaal 5 personen als buitengewoon opsporingsambtenaar worden beëdigd.
+1. Op grond van dit besluit kunnen maximaal 5 personen als buitengewoon opsporingsambtenaar worden beëdigd.
+
+2. De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste, derde en vierde lid (vervoersfouillering), van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) omschreven bevoegdheden uitoefenen en daarbij gebruikmaken van het vrijheidsbeperkend middel handboeien.
 
 ##### Artikel 5
 
@@ -82,13 +88,13 @@ Op grond van dit besluit kunnen maximaal 5 personen als buitengewoon opsporingsa
 
 1. De gemeente Waddinxveen brengt jaarlijks, voor 1 april, verslag uit over:
 
-- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047307&artikel=2&z=2022-10-18&g=2022-10-18) genoemde functie;
+- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047307&artikel=2&z=2024-11-06&g=2024-11-06) genoemde functie;
 
 - b. de door die buitengewoon opsporingsambtenaren verrichte activiteiten;
 
 - c. de stand van zaken met betrekking tot de opleiding van die buitengewoon opsporingsambtenaren, waarbij in ieder geval wordt aangegeven hoeveel personen in het verslagjaar zijn aangemeld voor het door de Minister voor Rechtsbescherming goedgekeurde examen en hoeveel personen in dat jaar voor dat examen zijn geslaagd.
 
-2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047307&artikel=5&z=2022-10-18&g=2022-10-18) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Justitie en Veiligheid, Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
+2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047307&artikel=5&z=2024-11-06&g=2024-11-06) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Justitie en Veiligheid, Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
 
 ##### Artikel 7
 
