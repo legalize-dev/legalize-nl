@@ -4,7 +4,7 @@ identifier: "BWBR0050373"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-11-06"
-last_updated: "2024-09-20"
+last_updated: "2024-11-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050373"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ de [artikelen 10.1 tot en met 10.12 van de Algemene wet bestuursrecht](https://w
 
 Besluit:
 
-Mandaat te verlenen aan de onder hem ressorterende functionarissen ([artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050373&artikel=1&z=2024-11-06&g=2024-09-20)) voor de onder [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050373&artikel=2&z=2024-11-06&g=2024-09-20) genoemde bevoegdheid.
+Mandaat te verlenen aan de onder hem ressorterende functionarissen ([artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050373&artikel=1&z=2024-11-06&g=2024-11-06)) voor de onder [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050373&artikel=2&z=2024-11-06&g=2024-11-06) genoemde bevoegdheid.
 
 Treedt in werking met ingang van de datum van toewijzing van de taak aan het CJIB in het Organisatiebesluit Ministerie van Justitie en Veiligheid.
 
