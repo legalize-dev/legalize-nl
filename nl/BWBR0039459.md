@@ -4,7 +4,7 @@ identifier: "BWBR0039459"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-14"
-last_updated: "2023-11-16"
+last_updated: "2024-11-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039459"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 - **lerarenopleiding:** bachelor- of masteropleiding die leidt tot het verkrijgen van een bevoegdheid om les te geven in het primair onderwijs of in het voortgezet onderwijs;
 
-- **minister:** Minister van Onderwijs, Cultuur en Wetenschap of Minister voor Primair en Voortgezet Onderwijs;
+- **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
 
 - **zij-instromer:**
 
@@ -84,7 +84,7 @@ In deze regeling wordt verstaan onder:
 
 - f. het in het kader van scholing en begeleiding volgen door de zij-instromer van een door de minister aangewezen verdiepend trainingsprogramma.
 
-2. Met uitzondering van het bedrag, bedoeld in [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039459&artikel=4&z=2023-11-16&g=2023-11-16), wordt geen subsidie verstrekt aan het bevoegd gezag, indien:
+2. Met uitzondering van het bedrag, bedoeld in [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039459&artikel=4&z=2024-11-06&g=2024-11-06), wordt geen subsidie verstrekt aan het bevoegd gezag, indien:
 
 - a. de betreffende zij-instromer staat ingeschreven als student aan een lerarenopleiding;
 
@@ -108,11 +108,11 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 - b. het kalenderjaar 2023 een bedrag beschikbaar van ten hoogste € 58.480.000,–;
 
-- c. de kalenderjaren 2024 en 2025 een bedrag beschikbaar van ten hoogste € 54.240.000,–.
+- c. de kalenderjaren 2024, 2025, 2026, 2027 en 2028 een bedrag beschikbaar van ten hoogste € 54.240.000,–.
 
 2. De minister verdeelt het beschikbare bedrag op volgorde van binnenkomst van de aanvragen.
 
-3. Indien het subsidieplafond, bedoeld in [artikel 1.4, eerste lid, van de Regeling subsidie korte scholingstrajecten vo](https://wetten.overheid.nl/jci1.3:c:BWBR0039979&artikel=1.4) of [artikel 4, lid 1a, van de Subsidieregeling instructeursbeurs mbo](https://wetten.overheid.nl/jci1.3:c:BWBR0042462&artikel=4) niet volledig wordt benut, wordt het resterende bedrag door de minister in de Staatscourant bekend gemaakt. Dit resterende bedrag wordt toegevoegd aan het voor subsidieverstrekking beschikbare bedrag, bedoeld in het eerste lid, voor het desbetreffende kalenderjaar, met dien verstande dat bij de verdeling van een resterend bedrag, afkomstig uit de Subsidieregeling instructeursbeurs mbo voorrang wordt verleend aan aanvragen die betrekking hebben op zij-instroom in het middelbaar beroepsonderwijs.
+3. Indien het subsidieplafond, bedoeld [artikel 4, lid 1a, van de Subsidieregeling instructeursbeurs mbo](https://wetten.overheid.nl/jci1.3:c:BWBR0042462&artikel=4) niet volledig wordt benut, wordt het resterende bedrag door de minister in de Staatscourant bekend gemaakt. Dit resterende bedrag wordt toegevoegd aan het voor subsidieverstrekking beschikbare bedrag, bedoeld in het eerste lid, voor het desbetreffende kalenderjaar, met dien verstande dat bij de verdeling van een resterend bedrag, afkomstig uit de Subsidieregeling instructeursbeurs mbo voorrang wordt verleend aan aanvragen die betrekking hebben op zij-instroom in het middelbaar beroepsonderwijs.
 
 ##### Artikel 5. Bedrag zij-instroomsubsidie
 
@@ -124,7 +124,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 1. Het bevoegd gezag dient de aanvraag in met gebruikmaking van het aanvraagformulier dat op de website van de Dienst Uitvoering Onderwijs beschikbaar wordt gesteld.
 
-2. Een subsidieaanvraag kan worden ingediend vanaf het moment waarop de scholing, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039459&artikel=2&z=2023-11-16&g=2023-11-16), is aangevangen tot en met 15 oktober van het daaropvolgende kalenderjaar.
+2. Een subsidieaanvraag kan worden ingediend vanaf het moment waarop de scholing, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039459&artikel=2&z=2024-11-06&g=2024-11-06), is aangevangen tot en met 15 oktober van het daaropvolgende kalenderjaar.
 
 ##### Artikel 7. Subsidieverstrekking, betaling en besteding
 
@@ -132,7 +132,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 2. In afwijking van het eerste lid wordt de subsidie uiterlijk vóór 1 maart van het daaropvolgende kalenderjaar direct vastgesteld, indien:
 
-- a. het plafond, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039459&artikel=4&z=2023-11-16&g=2023-11-16), is bereikt vóór 16 oktober van het betreffende kalenderjaar; of
+- a. het plafond, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039459&artikel=4&z=2024-11-06&g=2024-11-06), is bereikt vóór 16 oktober van het betreffende kalenderjaar; of
 
 - b. de aanvraag is ingediend in de periode van 16 oktober tot en met 31 december van het kalenderjaar waarin de scholing is aangevangen.
 
@@ -160,7 +160,7 @@ Wijzigt de Regeling lerarenbeurs voor scholing, zij-instroom en bewegingsonderwi
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-2. Deze regeling vervalt met ingang van 1 januari 2026.
+2. Deze regeling vervalt met ingang van 1 januari 2029.
 
 ##### Artikel 12. Citeertitel
 
@@ -168,7 +168,7 @@ Deze regeling wordt aangehaald als: Regeling subsidie zij-instroom.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage I. behorend bij [artikel 4, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0039459&artikel=4&z=2023-11-16&g=2023-11-16), opleidingen bèta en techniek in het mbo
+## Bijlage I. behorend bij [artikel 4, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0039459&artikel=4&z=2024-11-06&g=2024-11-06), opleidingen bèta en techniek in het mbo
 
 Vervallen
 
