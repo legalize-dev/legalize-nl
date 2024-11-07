@@ -4,7 +4,7 @@ identifier: "BWBR0037039"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-11-07"
-last_updated: "2015-10-01"
+last_updated: "2024-11-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037039"
 soort: "ministeriele-regeling"
@@ -47,9 +47,9 @@ In deze regeling wordt verstaan onder:
 
 - b. **informatieobjecten:** archiefbescheiden als bedoeld in [artikel 1, onder c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1);
 
-- c. **Hoofddirecteur Bedrijfsvoering:** Hoofddirecteur Bedrijfsvoering als bedoeld in de [artikelen 1 onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0034157&artikel=1) en [7 onder g van het Algemeen Organisatiebesluit Defensie 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034157&artikel=7);
+- c. **Chief Information Officer:** Chief Information Officer als bedoeld in [artikel 1, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0044746&artikel=1), en [artikel 8 van het Algemeen organisatiebesluit Defensie 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044746&artikel=8);
 
-- d. **defensieonderdeel:** de Koninklijke Marine, de Koninklijke Landmacht, de Koninklijke Luchtmacht, de Koninklijke Marechaussee, het Commando DienstenCentrum, de Defensie Materieel Organisatie dan wel de Bestuursstaf;
+- d. **defensieonderdeel:** de Koninklijke Marine, de Koninklijke Landmacht, de Koninklijke Luchtmacht, de Koninklijke Marechaussee, het Defensie Ondersteuningscommando, het Commando Materieel en IT dan wel de Bestuursstaf;
 
 - e. **Minister:** Minister van Defensie;
 
@@ -87,23 +87,23 @@ In deze regeling wordt verstaan onder:
 
 2. De plaatsvervangend Secretaris-Generaal en de commandanten van de defensieonderdelen:
 
-- a. verstrekken de Hoofddirecteur Bedrijfsvoering en de Directeur Joint Informatievoorzieningscommando volledige gegevens over de verblijfplaats van de door het defensieonderdeel beheerde informatieobjecten, de staat waarin de informatieobjecten verkeren en over de wijze waarop de zorg voor de informatieobjecten wordt vormgegeven;
+- a. verstrekken de Chief Information Officer en de Directeur Joint Informatievoorzieningscommando volledige gegevens over de verblijfplaats van de door het defensieonderdeel beheerde informatieobjecten, de staat waarin de informatieobjecten verkeren en over de wijze waarop de zorg voor de informatieobjecten wordt vormgegeven;
 
 - b. verlenen de Directeur Joint Informatievoorzieningscommando toegang tot ruimten waarin zich informatieobjecten bevinden die niet onder zijn beheer staan en toegang tot digitale opslag van informatieobjecten, ten behoeve van archiefonderzoek namens de Secretaris-Generaal of namens de Algemene Rijksarchivaris;
 
-- c. oefenen de bevoegdheid uit, genoemd in [artikel 8, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037039&artikel=8&z=2015-10-01&g=2015-10-01).
+- c. oefenen de bevoegdheid uit, genoemd in [artikel 8, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037039&artikel=8&z=2024-11-07&g=2024-11-07).
 
-##### Artikel 4. Hoofddirecteur Bedrijfsvoering
+##### Artikel 4. Chief Information Officer
 
-1. De Hoofddirecteur Bedrijfsvoering is belast met:
+1. De Chief Information Officer is belast met:
 
 - a. het ontwikkelen, controleren en evalueren van defensiebrede kaders, normen en standaarden op het gebied van informatiebeheer en het overdragen daarvan op de defensieonderdelen;
 
 - b. het ontwikkelen en controleren van een kwaliteitszorgsysteem voor informatiebeheer als onderdeel van het generieke kwaliteitssysteem defensie;
 
-- c. het coördineren van de totstandkoming van het Besluit beperking openbaarheid als bedoeld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037039&artikel=2&z=2015-10-01&g=2015-10-01).
+- c. het coördineren van de totstandkoming van het Besluit beperking openbaarheid als bedoeld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037039&artikel=2&z=2024-11-07&g=2024-11-07).
 
-2. Naast de bevoegdheden die samenhangen met de taken, genoemd in het eerste lid, is de Directeur Bedrijfsvoering bevoegd tot:
+2. Naast de bevoegdheden die samenhangen met de taken, genoemd in het eerste lid, is de Chief Information Officer bevoegd tot:
 
 - a. het nemen van een besluit tot vernietiging van informatieobjecten;
 
@@ -113,7 +113,7 @@ In deze regeling wordt verstaan onder:
 
 De Directeur van het Joint Informatievoorzieningscommando is ten aanzien van het informatiebeheer belast met:
 
-- a. het adviseren van de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037039&artikel=2&z=2015-10-01&g=2015-10-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037039&artikel=3&z=2015-10-01&g=2015-10-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0037039&artikel=4&z=2015-10-01&g=2015-10-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0037039&artikel=9&z=2015-10-01&g=2015-10-01) genoemde functionarissen;
+- a. het adviseren van de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037039&artikel=2&z=2024-11-07&g=2024-11-07), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037039&artikel=3&z=2024-11-07&g=2024-11-07), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0037039&artikel=4&z=2024-11-07&g=2024-11-07) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0037039&artikel=9&z=2024-11-07&g=2024-11-07) genoemde functionarissen;
 
 - b. het opstellen van uitvoeringsvoorschriften;
 
@@ -131,11 +131,11 @@ De Directeur van het Joint Informatievoorzieningscommando is ten aanzien van het
 
 - i. het overbrengen naar een archiefbewaarplaats van de voor blijvende bewaring in aanmerking komende informatieobjecten in goede, geordende en toegankelijke staat en het opstellen van een verklaring van overbrenging ter zake;
 
-- j. het opstellen van het Besluit beperking openbaarheid, dat voortvloeit uit het gestelde in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037039&artikel=2&z=2015-10-01&g=2015-10-01), en [artikel 4, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0037039&artikel=4&z=2015-10-01&g=2015-10-01).
+- j. het opstellen van het Besluit beperking openbaarheid, dat voortvloeit uit het gestelde in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037039&artikel=2&z=2024-11-07&g=2024-11-07), en [artikel 4, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0037039&artikel=4&z=2024-11-07&g=2024-11-07).
 
 ##### Artikel 6. Hoofd Informatiebeheer
 
-De Directeur van het Joint Informatievoorzieningscommando verleent het mandaat, de volmacht en de machtiging ter uitvoering van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037039&artikel=5&z=2015-10-01&g=2015-10-01) genoemde taken, door aan het Hoofd Informatiebeheer.
+De Directeur van het Joint Informatievoorzieningscommando verleent het mandaat, de volmacht en de machtiging ter uitvoering van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037039&artikel=5&z=2024-11-07&g=2024-11-07) genoemde taken, door aan het Hoofd Informatiebeheer.
 
 ##### Artikel 7. Het (Hoofd) Dynamisch Informatiebeheer
 
@@ -143,9 +143,9 @@ De Directeur van het Joint Informatievoorzieningscommando verleent het mandaat, 
 
 2. Het Hoofd Dynamisch Informatiebeheer:
 
-- a. voert mede de vernietiging van informatieobjecten uit als bedoeld in [artikel 4, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037039&artikel=4&z=2015-10-01&g=2015-10-01), en maakt ter zake een verklaring van vernietiging op;
+- a. voert mede de vernietiging van informatieobjecten uit als bedoeld in [artikel 4, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037039&artikel=4&z=2024-11-07&g=2024-11-07), en maakt ter zake een verklaring van vernietiging op;
 
-- b. voert mede de digitale vervanging uit als bedoeld in [artikel 4, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0037039&artikel=4&z=2015-10-01&g=2015-10-01), en maakt ter zake een verklaring van vervanging op.
+- b. voert mede de digitale vervanging uit als bedoeld in [artikel 4, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0037039&artikel=4&z=2024-11-07&g=2024-11-07), en maakt ter zake een verklaring van vervanging op.
 
 3. Het Hoofd Dynamisch Informatiebeheer legt ten aanzien van zijn verantwoordelijkheid voor de taken, genoemd in dit artikel, verantwoording af aan het Hoofd Informatiebeheer.
 
@@ -155,9 +155,9 @@ De Directeur van het Joint Informatievoorzieningscommando verleent het mandaat, 
 
 2. Het Hoofd Semi-statisch Informatiebeheer:
 
-- a. voert mede de vernietiging van informatieobjecten uit als bedoeld in [artikel 4, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037039&artikel=4&z=2015-10-01&g=2015-10-01) en maakt ter zake een verklaring van vernietiging op;
+- a. voert mede de vernietiging van informatieobjecten uit als bedoeld in [artikel 4, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037039&artikel=4&z=2024-11-07&g=2024-11-07) en maakt ter zake een verklaring van vernietiging op;
 
-- b. voert mede de digitale vervanging uit als bedoeld in [artikel 4, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0037039&artikel=4&z=2015-10-01&g=2015-10-01), en maakt ter zake een verklaring van vervanging op.
+- b. voert mede de digitale vervanging uit als bedoeld in [artikel 4, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0037039&artikel=4&z=2024-11-07&g=2024-11-07), en maakt ter zake een verklaring van vervanging op.
 
 3. In afwijking van het tweede lid:
 
