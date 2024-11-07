@@ -4,7 +4,7 @@ identifier: "BWBR0048959"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-11-07"
-last_updated: "2023-11-28"
+last_updated: "2024-11-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048959"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- –. **bestuursovereenkomst nitraat:** voor het jaar 2023 voortgezette aanpak van de bestuursovereenkomst ‘Aanvullende aanpak nitraatuitspoeling uit agrarische bedrijfsvoering in specifieke grondwaterbeschermingsgebieden’ van 12 december 2017, bijlage 7a bij het Zesde Nederlandse actieprogramma betreffende de Nitraatrichtlijn (2018–2021) (bijlage bij Kamerstukken II 2017/18, 33 037, nr. 250);
+- –. **bestuursovereenkomst nitraat:** voor de jaren 2023, 2024 en 2025 voortgezette aanpak van de bestuursovereenkomst ‘Aanvullende aanpak nitraatuitspoeling uit agrarische bedrijfsvoering in specifieke grondwaterbeschermingsgebieden’ van 12 december 2017, bijlage 7a bij het Zesde Nederlandse actieprogramma betreffende de Nitraatrichtlijn (2018–2021) (bijlage bij Kamerstukken II 2017/18, 33 037, nr. 250);
 
 - –. **minister:** Minister van Landbouw, Natuur en Voedselkwaliteit;
 
@@ -52,9 +52,9 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. specifieke uitkering
 
-1. De minister verstrekt een specifieke uitkering aan de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048959&artikel=3&z=2023-11-28&g=2023-11-28), genoemde provincies voor het uitvoering geven aan de bestuursovereenkomst nitraat zolang deze nog niet in het Nationaal Programma Landelijk Gebied is ingebed.
+1. De minister verstrekt een specifieke uitkering aan de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048959&artikel=3&z=2024-11-07&g=2024-11-07), genoemde provincies voor het uitvoering geven aan de bestuursovereenkomst nitraat zolang deze nog niet in het Nationaal Programma Landelijk Gebied is ingebed.
 
-2. De specifieke uitkering wordt verstrekt voor kosten die zijn of worden gemaakt in de periode 1 januari 2023 tot en met 31 december 2023.
+2. De specifieke uitkering wordt verstrekt voor kosten die zijn of worden gemaakt in de periode 1 januari 2023 tot en met 31 december 2025.
 
 3. De specifieke uitkering wordt niet verstrekt voor kosten:
 
@@ -66,25 +66,25 @@ In deze regeling wordt verstaan onder:
 
 1. De specifieke uitkering bedraagt voor de provincie:
 
-- a. Drenthe, ten hoogste € 480.000, inclusief btw.
+- a. Drenthe: ten hoogste € 576.364, inclusief btw.
 
-- b. Overijssel, ten hoogste € 816.000, inclusief btw.
+- b. Overijssel: ten hoogste € 986.490, inclusief btw.
 
-- c. Gelderland, ten hoogste € 516.000, inclusief btw.
+- c. Gelderland: ten hoogste € 619.776, inclusief btw.
 
-- d. Noord-Brabant, ten hoogste € 600.000, inclusief btw.
+- d. Noord Brabant: ten hoogste € 726.014, inclusief btw.
 
-- e. Limburg, ten hoogste € 1.188.000, inclusief btw.
+- e. Limburg: ten hoogste € 1.390.162, inclusief btw.
 
-2. De betaling wordt verminderd met de hoogte van de btw waarvoor de provincie op grond van de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817) voor compensatie in aanmerking komt, zijnde voor de provincie:
+2. De betaling wordt verminderd met de hoogte van de btw waarvoor de provincie op grond van de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817) voor compensatie in aanmerking komt, zijnde voor de provincies:
 
-- a. Drenthe € 83.306.
+- a. Drenthe € 100.030.
 
-- b. Overijssel € 141.620.
+- b. Overijssel € 171.209.
 
-- c. Gelderland € 89.554.
+- c. Gelderland € 107.565.
 
-- d. Noord-Brabant € 104.132.
+- d. Noord Brabant € 126.002.
 
 - e. Limburg € 0.
 
