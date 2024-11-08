@@ -4,7 +4,7 @@ identifier: "BWBR0049073"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-11-08"
-last_updated: "2024-01-01"
+last_updated: "2024-11-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049073"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ Aanvragen voor subsidie in de derde openstelling van het Subsidieprogramma Suppo
 
 ##### Artikel 2
 
-Voor subsidieverlening in het kader van de derde openstelling van het Subsidieprogramma Support International Business 2022-2026 geldt voor de periode vanaf inwerkingtreding van dit besluit tot en met 31 december 2026 een subsidieplafond van € 3 miljoen.
+Voor subsidieverlening in het kader van de derde openstelling van het Subsidieprogramma Support International Business 2022-2026 geldt voor de periode vanaf inwerkingtreding van dit besluit tot en met 31 december 2026 een subsidieplafond van € 3,5 miljoen.
 
 ##### Artikel 3
 
