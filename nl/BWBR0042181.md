@@ -4,7 +4,7 @@ identifier: "BWBR0042181"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-03-27"
-last_updated: "2024-06-01"
+last_updated: "2024-11-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042181"
 soort: "ministeriele-regeling"
@@ -48,21 +48,23 @@ Besluit:
 
 - b. de directeur Cybersecurity, Weerbaarheid Statelijke Dreigingen en Economische Veiligheid;
 
-- c. de directeur Nationale Crisisbeheersing en Bewaken en Beveiligen;
+- c. de directeur Nationale Crisisbeheersing;
 
 - d. de directeur Strategie, Analyse Nationale Veiligheid en Bedrijfsvoering;
 
-- e. de secretaris van de Cyber Security Raad.
+- e. de directeur Bewaken en Beveiligen;
+
+- f. de secretaris van de Cyber Security Raad.
 
 2. Van het ingevolge [artikel 1 van het Mandaatbesluit hoofden clusters Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041688&artikel=1) aan de Nationaal Coördinator Terrorismebestrijding en Veiligheid verleende ondermandaat wordt ten aanzien van de aangelegenheden bedoeld in [artikel 5, tweede lid, onderdeel a, van het Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=5), ondermandaat verleend aan de directeur Wetgeving en Juridische Zaken.
 
 ##### Artikel 2
 
-Als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk, ten aanzien van de onder hun dienstonderdeel ressorterende ambtenaren, worden aangewezen de functionarissen, genoemd in kolom 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042181&bijlage=1&z=2024-02-07&g=2024-06-01) bij dit besluit, voor zover het betreft de uitoefening van de bevoegdheden, vermeld in kolom 2 van die bijlage.
+Als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk, ten aanzien van de onder hun dienstonderdeel ressorterende ambtenaren, worden aangewezen de functionarissen, genoemd in kolom 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042181&bijlage=1&z=2024-11-09&g=2024-11-09) bij dit besluit, voor zover het betreft de uitoefening van de bevoegdheden, vermeld in kolom 2 van die bijlage.
 
 ##### Artikel 3
 
-Als bevoegd om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven, worden aangewezen de functionarissen, genoemd in kolom 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042181&bijlage=2&z=2024-02-07&g=2024-06-01) bij dit besluit voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage.
+Als bevoegd om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven, worden aangewezen de functionarissen, genoemd in kolom 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042181&bijlage=2&z=2024-11-09&g=2024-11-09) bij dit besluit voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage.
 
 ##### Artikel 4
 
@@ -74,7 +76,7 @@ Aan de Nationaal Coördinator Terrorismebestrijding en Veiligheid blijft voorbeh
 
 ##### Artikel 5
 
-1. De in [artikel 1, eerste lid, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0042181&artikel=1&z=2024-02-07&g=2024-06-01), genoemde functionarissen wordt toegestaan elkaar volledig te vervangen. Zij treden daarbij in elkaars in artikel 1, eerste lid, genoemde bevoegdheden.
+1. De in [artikel 1, eerste lid, onder a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0042181&artikel=1&z=2024-11-09&g=2024-11-09), genoemde functionarissen wordt toegestaan elkaar volledig te vervangen. Zij treden daarbij in elkaars in artikel 1, eerste lid, genoemde bevoegdheden.
 
 2. De Nationaal Coördinator Terrorismebestrijding en Veiligheid wordt bij afwezigheid of verhindering vervangen door de plaatsvervangend Nationaal Coördinator Terrorismebestrijding en Veiligheid. Bij afwezigheid of verhindering van de Nationaal Coördinator Terrorismebestrijding en Veiligheid en de plaatsvervangend Nationaal Coördinator Terrorismebestrijding en Veiligheid worden zij vervangen door de directeuren, in volgorde van benoeming.
 
@@ -90,15 +92,15 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte in 
 
 Dit besluit wordt aangehaald als: Mandaatbesluit NCTV Ministerie van Justitie en Veiligheid 2019.
 
-## Bijlage 1. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042181&artikel=2&z=2024-02-07&g=2024-06-01) van het Mandaatbesluit NCTV Ministerie van Justitie en Veiligheid 2019
+## Bijlage 1. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042181&artikel=2&z=2024-11-09&g=2024-11-09) van het Mandaatbesluit NCTV Ministerie van Justitie en Veiligheid 2019
 
-De functionarissen bij wie in kolom 2 de letter A is geplaatst zijn, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042181&artikel=4&z=2024-02-07&g=2024-06-01) van dit besluit, bevoegd tot uitoefening van alle bevoegdheden die in of krachtens de CAO Rijk aan de leidinggevende zijn toegekend.
+De functionarissen bij wie in kolom 2 de letter A is geplaatst zijn, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042181&artikel=4&z=2024-11-09&g=2024-11-09) van dit besluit, bevoegd tot uitoefening van alle bevoegdheden die in of krachtens de CAO Rijk aan de leidinggevende zijn toegekend.
 
-De functionarissen bij wie in kolom 2 de letter B is geplaatst zijn, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042181&artikel=4&z=2024-02-07&g=2024-06-01) van dit besluit, bevoegd tot uitoefening van alle bevoegdheden die in of krachtens de CAO Rijk aan de leidinggevende zijn toegekend, met uitzondering van de bevoegdheden tot het aangaan of beëindigen van een arbeidsovereenkomst, het bevorderen naar een hogere salarisschaal en het opleggen van disciplinaire straffen en ordemaatregelen, alsmede het nemen van beslissingen over de toekenning van een persoonsgebonden dienstauto.
+De functionarissen bij wie in kolom 2 de letter B is geplaatst zijn, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042181&artikel=4&z=2024-11-09&g=2024-11-09) van dit besluit, bevoegd tot uitoefening van alle bevoegdheden die in of krachtens de CAO Rijk aan de leidinggevende zijn toegekend, met uitzondering van de bevoegdheden tot het aangaan of beëindigen van een arbeidsovereenkomst, bevorderen naar een hogere salarisschaal en het opleggen van disciplinaire straffen en ordemaatregelen, alsmede het nemen van beslissingen over de toekenning van een persoonsgebonden dienstauto.
 
 |   |   | kolom 1 | kolom 2 |
 | --- | --- | --- | --- |
-|   |   | **aangewezen functionarissen** |   |
+|   |   | aangewezen functionarissen |   |
 | 1 | Nationaal Coördinator Terrorismebestrijding en Veiligheid | Nationaal Coördinator Terrorismebestrijding en Veiligheid | A |
 | 1a |   | plaatsvervangend Nationaal Coördinator Terrorismebestrijding en Veiligheid | A |
 | 1.1 |   | directeur Contraterrorisme en Beveiliging Burgerluchtvaart | A |
@@ -106,32 +108,33 @@ De functionarissen bij wie in kolom 2 de letter B is geplaatst zijn, onverminder
 | 1.1.2 |   | hoofd Afdeling Contraterrorisme 2 | B |
 | 1.1.2.1 |   | plaatsvervangend hoofd Afdeling Contraterrorisme 2 | B |
 | 1.1.3 |   | hoofd Afdeling Beveiliging Burgerluchtvaart | B |
-| 1.2 |   | directeur Cybersecurity, Weerbaarheid Statelijke Dreigingen en Economische Veiligheid | A |
+| 1.2 |   | directeur Cyber Security, Weerbaarheid Statelijke Dreigingen en Economische Veiligheid | A |
 | 1.2.1 |   | hoofd Afdeling Weerbaarheid Statelijke Dreigingen en Economische Veiligheid | B |
 | 1.2.2 |   | hoofd Afdeling Cybersecurity | B |
-| 1.3 |   | directeur Nationale Crisisbeheersing en Bewaken en Beveiligen | A |
-| 1.3.1 |   | hoofd Afdeling Coördinatie Bewaken en Beveiligen | B |
-| 1.3.1.1 |   | plaatsvervangend hoofd Afdeling Coördinatie Bewaken en Beveiligen | B |
-| 1.3.2 |   | hoofd Nationaal Crisiscentrum | B |
-| 1.3.3 |   | hoofd Afdeling Communicatie | B |
-| 1.4 |   | directeur Strategie, Analyse Nationale Veiligheid en Bedrijfsvoering | A |
-| 1.4.1 |   | hoofd Afdeling Strategie, Staf en Juridische zaken | B |
-| 1.4.1.1 |   | plaatsvervangend hoofd Afdeling Strategie, Staf en Juridische zaken | B |
-| 1.4.2 |   | hoofd Afdeling Analyse Nationale Veiligheid | B |
-| 1.4.2.1 |   | plaatsvervangend hoofd Afdeling Analyse Nationale Veiligheid | B |
-| 1.4.3 |   | hoofd Afdeling Bedrijfsvoering | B |
-| 1.4.4 |   | decaan NCTV Academie | B |
-| 1.5 |   | secretaris Cyber Security Raad | B |
+| 1.3 |   | directeur Nationale Crisisbeheersing | A |
+| 1.3.1 |   | hoofd Nationaal Crisis Centrum | B |
+| 1.3.2 |   | hoofd Afdeling Communicatie | B |
+| 1.4 |   | directeur Bewaken en Beveiligen | A |
+| 1.4.1 |   | hoofd Afdeling Coördinatie Bewaken en Beveiligen | B |
+| 1.4.1.1 |   | plaatsvervangend hoofd Coördinatie Bewaken en Beveiligen | B |
+| 1.5 |   | directeur Strategie, Analyse Nationale Veiligheid en Bedrijfsvoering | A |
+| 1.5.1 |   | hoofd Afdeling Strategie, Staf en Juridische zaken | B |
+| 1.5.1.1 |   | plaatsvervangend hoofd Afdeling Strategie, Staf en Juridische zaken | B |
+| 1.5.2 |   | hoofd Afdeling Analyse Nationale Veiligheid | B |
+| 1.5.2.1 |   | plaatsvervangend hoofd Afdeling Analyse Nationale Veiligheid | B |
+| 1.5.3 |   | hoofd Afdeling Bedrijfsvoering | B |
+| 1.5.4 |   | decaan NCTV Academie | B |
+| 1.6 |   | secretaris Cyber Security Raad | B |
 
-## Bijlage 2. behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042181&artikel=3&z=2024-02-07&g=2024-06-01) van het Mandaatbesluit NCTV Ministerie van Justitie en Veiligheid 2019
+## Bijlage 2. behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042181&artikel=3&z=2024-11-09&g=2024-11-09) van het Mandaatbesluit NCTV Ministerie van Justitie en Veiligheid 2019
 
-De functionarissen genoemd in kolom 1 zijn bevoegd in overeenstemming met [artikel 3.3 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=3.3) tot het aangaan van verplichtingen en het doen van uitgaven.
+De functionarissen genoemd in kolom 1 zijn bevoegd in overeenstemming met[artikel 3.3 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=3.3) tot het aangaan van verplichtingen en het doen van uitgaven.
 
 Indien in kolom 2 EA is opgenomen wordt geduid op een bedrag ter hoogte van de Europese aanbestedingsgrens voor de leveringen en diensten voor de centrale overheid dat het maximumbedrag is waarvoor de functionaris telkens een verplichting of uitgave mag doen. Indien in kolom 2 geen verwijzing naar EA is opgenomen, geldt geen maximumbedrag.
 
 |   |   | kolom 1 | kolom 2 |
 | --- | --- | --- | --- |
-|   |   | **aangewezen functionarissen** |   |
+|   |   | aangewezen functionarissen |   |
 | 1 | Nationaal Coördinator Terrorismebestrijding en Veiligheid | Nationaal Coördinator Terrorismebestrijding en Veiligheid |   |
 | 1a |   | plaatsvervangend Nationaal Coördinator Terrorismebestrijding en Veiligheid |   |
 | 1.1 |   | directeur Contraterrorisme en Beveiliging Burgerluchtvaart | EA |
@@ -139,21 +142,22 @@ Indien in kolom 2 EA is opgenomen wordt geduid op een bedrag ter hoogte van de E
 | 1.1.2 |   | hoofd Afdeling Contraterrorisme 2 | EA |
 | 1.1.2.1 |   | plaatsvervangend hoofd Afdeling Contraterrorisme 2 | EA |
 | 1.1.3 |   | hoofd Afdeling Beveiliging Burgerluchtvaart | EA |
-| 1.2 |   | directeur Cybersecurity, Weerbaarheid Statelijke Dreigingen en Economische Veiligheid | EA |
+| 1.2 |   | directeur Cyber Security, Weerbaarheid Statelijke Dreigingen en Economische Veiligheid | EA |
 | 1.2.1 |   | hoofd Afdeling Weerbaarheid Statelijke Dreigingen en Economische Veiligheid | EA |
 | 1.2.2 |   | hoofd Afdeling Cybersecurity | EA |
-| 1.3 |   | directeur Nationale Crisisbeheersing en Bewaken en Beveiligen | EA |
-| 1.3.1 |   | hoofd Afdeling Coördinatie Bewaken en Beveiligen | EA |
-| 1.3.1.1 |   | plaatsvervangend hoofd Afdeling Coördinatie Bewaken en Beveiligen | EA |
-| 1.3.2 |   | hoofd Nationaal Crisiscentrum | EA |
-| 1.3.3 |   | hoofd Afdeling Communicatie | EA |
-| 1.4 |   | directeur Strategie, Analyse Nationale Veiligheid en Bedrijfsvoering | EA |
-| 1.4.1 |   | hoofd Afdeling Strategie, Staf en Juridische zaken | EA |
-| 1.4.1.1 |   | plaatsvervangend hoofd Afdeling Strategie, Staf en Juridische zaken | EA |
-| 1.4.2 |   | hoofd Afdeling Analyse Nationale Veiligheid | EA |
-| 1.4.2.1 |   | plaatsvervangend hoofd Afdeling Analyse Nationale Veiligheid | EA |
-| 1.4.3 |   | hoofd Afdeling Bedrijfsvoering | EA |
-| 1.4.4 |   | decaan NCTV Academie | EA |
-| 1.5 |   | secretaris Cyber Security Raad | EA |
+| 1.3 |   | directeur Nationale Crisisbeheersing | EA |
+| 1.3.1 |   | hoofd Nationaal Crisis Centrum | EA |
+| 1.3.2 |   | hoofd Afdeling Communicatie | EA |
+| 1.4 |   | directeur Bewaken en Beveiligen | EA |
+| 1.4.1 |   | hoofd afdeling Coördinatie Bewaken en Beveiligen | EA |
+| 1.4.1.1 |   | plaatsvervangend hoofd Coördinatie Bewaken en Beveiligen | EA |
+| 1.5 |   | directeur Strategie, Analyse Nationale Veiligheid en Bedrijfsvoering | EA |
+| 1.5.1 |   | hoofd Afdeling Strategie, Staf en Juridische zaken | EA |
+| 1.5.1.1 |   | plaatsvervangend hoofd Afdeling Strategie, Staf en Juridische zaken | EA |
+| 1.5.2 |   | hoofd Afdeling Analyse Nationale Veiligheid | EA |
+| 1.5.2.1 |   | plaatsvervangend hoofd Afdeling Analyse Nationale Veiligheid | EA |
+| 1.5.3 |   | hoofd Afdeling Bedrijfsvoering | EA |
+| 1.5.4 |   | decaan NCTV Academie | EA |
+| 1.6 |   | secretaris Cyber Security Raad | EA |
 
 Dit besluit zal met toelichting in de Staatscourant wordt geplaatst.
