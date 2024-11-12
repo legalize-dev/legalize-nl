@@ -4,7 +4,7 @@ identifier: "BWBR0033132"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-11-12"
-last_updated: "2024-04-01"
+last_updated: "2024-11-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033132"
 soort: "ministeriele-regeling"
@@ -84,21 +84,21 @@ Aan de ACM wordt op het werkterrein van de ACM volmacht en machtiging verleend v
 
 ##### Artikel 5
 
-Aan de ACM wordt mandaat en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen besluiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033132&artikel=2&z=2024-11-12&g=2024-04-01), waaronder het nemen van beslissingen op bezwaarschriften en het instellen van (hoger) beroep.
+Aan de ACM wordt mandaat en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen besluiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033132&artikel=2&z=2024-11-12&g=2024-11-12), waaronder het nemen van beslissingen op bezwaarschriften en het instellen van (hoger) beroep.
 
 ##### Artikel 6
 
-1. Voor de volgende P&O-aangelegenheden geldt dat deze slechts in overeenstemming met de directeur Bedrijfsvoering van het Ministerie van Economische Zaken en Klimaat kunnen plaatsvinden:
+1. Voor de volgende P&O-aangelegenheden geldt dat deze slechts in overeenstemming met de plaatsvervangend secretaris-generaal van het Ministerie van Economische Zaken en Klimaat kunnen plaatsvinden:
 
-- 1°. het opleggen van straffen als bedoeld in hoofdstuk 15 van de CAO Rijk;
+- 1°. het opleggen van straffen als bedoeld in hoofdstuk 15 van de CAO Rijk, aan medewerkers voor wie salarisschaal 1 tot en met 14 geldt;
 
 - 2°. het toekennen van financiële tegemoetkomingen op grond van sociaal flankerend beleid.
 
-2. In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033132&artikel=4&z=2024-11-12&g=2024-04-01) geldt het mandaat, de volmacht en de machtiging niet voor de volgende P&O-aangelegenheden:
+2. In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033132&artikel=4&z=2024-11-12&g=2024-11-12) geldt het mandaat, de volmacht en de machtiging niet voor de volgende P&O-aangelegenheden:
 
-- a. beslissingen op bezwaarschriften inzake personeelsaangelegenheden;
+- a. vervallen;
 
-- b. het aangaan van een arbeidsovereenkomst voor bepaalde tijd met en het inlenen op basis van een uitzend- of detacheringsovereenkomst dan wel op basis van een overeenkomst van opdracht van een persoon die de AOW-leeftijd heeft bereikt;
+- b. vervallen;
 
 - c. het met wederzijds goedvinden beëindigen van een arbeidsovereenkomst, voor zover dit gepaard gaat met een financiële regeling waarin een geldelijke tegemoetkoming wordt verstrekt, anders of hoger dan die, bedoeld in [artikel 7:673, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=673), en [7:671b, achtste lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=671b);
 
@@ -106,7 +106,7 @@ Aan de ACM wordt mandaat en machtiging verleend voor het behandelen van bezwaar-
 
 - 1°. het aanbieden en het beëindigen van een arbeidsovereenkomst voor onbepaalde of bepaalde tijd met betrekking tot ambtenaren werkzaam bij de directie bedrijfsvoering van de ACM;
 
-- 2°. het verlenen van langdurend bijzonder verlof ten behoeve van het vervullen van een functie bij een internationaalrechtelijke volkenrechtelijke organisatie, bedoeld in hoofdstuk 4 van de CAO Rijk ten behoeve van ambtenaren werkzaam bij de directie bedrijfsvoering van de ACM;
+- 2°. vervallen;
 
 - 3°. het opleggen van straffen als bedoeld in hoofdstuk 15 van de CAO Rijk;
 
@@ -124,13 +124,13 @@ Aan de ACM wordt mandaat en machtiging verleend voor het behandelen van bezwaar-
 
 ##### Artikel 7
 
-1. De ACM kan voor de in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033132&artikel=2&z=2024-11-12&g=2024-04-01) bedoelde aangelegenheden aan een afzonderlijk lid van de ACM slechts ondermandaat, volmacht en machtiging verlenen indien niet gewacht kan worden op een besluit van de ACM.
+1. De ACM kan voor de in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033132&artikel=2&z=2024-11-12&g=2024-11-12) bedoelde aangelegenheden aan een afzonderlijk lid van de ACM slechts ondermandaat, volmacht en machtiging verlenen indien niet gewacht kan worden op een besluit van de ACM.
 
-2. De ACM kan mandaat, volmacht en machtiging verlenen voor de in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033132&artikel=2&z=2024-11-12&g=2024-04-01) bedoelde aangelegenheden aan een afzonderlijk lid van de ACM voor de schriftelijke afdoening en ondertekening van stukken die voortvloeien uit de door de ACM genomen besluiten.
+2. De ACM kan mandaat, volmacht en machtiging verlenen voor de in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033132&artikel=2&z=2024-11-12&g=2024-11-12) bedoelde aangelegenheden aan een afzonderlijk lid van de ACM voor de schriftelijke afdoening en ondertekening van stukken die voortvloeien uit de door de ACM genomen besluiten.
 
-3. De ACM kan voor de in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033132&artikel=2&z=2024-11-12&g=2024-04-01) bedoelde aangelegenheden ondermandaat, volmacht en machtiging verlenen aan de ambtenaren werkzaam voor zijn organisatie.
+3. De ACM kan voor de in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033132&artikel=2&z=2024-11-12&g=2024-11-12) bedoelde aangelegenheden ondermandaat, volmacht en machtiging verlenen aan de ambtenaren werkzaam voor zijn organisatie.
 
-4. De ACM kan voorts voor de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033132&artikel=6&z=2024-11-12&g=2024-04-01) bedoelde P&O-aangelegenheden aan de ambtenaren werkzaam voor zijn organisatie ondermandaat, volmacht en machtiging verlenen.
+4. De ACM kan voorts voor de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033132&artikel=6&z=2024-11-12&g=2024-11-12) bedoelde P&O-aangelegenheden aan de ambtenaren werkzaam voor zijn organisatie ondermandaat, volmacht en machtiging verlenen.
 
 ##### Artikel 8
 
