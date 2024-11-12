@@ -4,7 +4,7 @@ identifier: "BWBR0043770"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-11-12"
-last_updated: "2024-04-01"
+last_updated: "2024-11-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043770"
 soort: "ministeriele-regeling"
@@ -60,17 +60,17 @@ Aan het Instituut wordt op het werkterrein van het Instituut volmacht en machtig
 
 ##### Artikel 3
 
-1. In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043770&artikel=2&z=2020-07-02&g=2024-04-01) geldt voor de volgende P&O-aangelegenheden dat deze slechts in overeenstemming met de directeur Bedrijfsvoering van het Ministerie van Economische Zaken en Klimaat kunnen plaatsvinden:
+1. In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043770&artikel=2&z=2024-11-12&g=2024-11-12) geldt voor de volgende P&O-aangelegenheden dat deze slechts in overeenstemming met de plaatsvervangend secretaris-generaal van het Ministerie van Economische Zaken en Klimaat kunnen plaatsvinden:
 
-- a. het opleggen van straffen als bedoeld in hoofdstuk 15 van de CAO Rijk;
+- a. het opleggen van straffen als bedoeld in hoofdstuk 15 van de CAO Rijk, aan medewerkers voor wie salarisschaal 1 tot en met 14 geldt;
 
 - b. het toekennen van financiële tegemoetkomingen op grond van sociaal flankerend beleid.
 
-2. In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043770&artikel=2&z=2020-07-02&g=2024-04-01) geldt de volmacht en de machtiging niet voor de volgende P&O-aangelegenheden:
+2. In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043770&artikel=2&z=2024-11-12&g=2024-11-12) geldt de volmacht en de machtiging niet voor de volgende P&O-aangelegenheden:
 
 - a. de mogelijkheid van hoofdstuk 2 van de CAO Rijk om tijdelijke arbeidsovereenkomsten in zeer bijzondere situaties te sluiten, waarbij wordt afgeweken van hetgeen is geregeld in de CAO Rijk;
 
-- b. het aangaan van een arbeidsovereenkomst voor bepaalde tijd met en het inlenen op basis van een uitzend- of detacheringsovereenkomst dan wel op basis van een overeenkomst van opdracht van een persoon die de AOW-leeftijd heeft bereikt;
+- b. vervallen;
 
 - c. het met wederzijds goedvinden beëindigen van een arbeidsovereenkomst, voor zover dit gepaard gaat met een financiële regeling waarin een geldelijke tegemoetkoming wordt verstrekt, anders of hoger dan die, bedoeld in [artikel 7:673, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=673), en [7:671b, achtste lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=671b);
 
