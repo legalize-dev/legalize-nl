@@ -4,7 +4,7 @@ identifier: "BWBR0049203"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2024-01-09"
+last_updated: "2024-11-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049203"
 soort: "ministeriele-regeling"
@@ -56,15 +56,15 @@ In deze regeling wordt verstaan onder:
 
 - e. **regionaal openbaar lichaam:** een openbaar lichaam als bedoeld in [artikel 8, eerste lid, van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8), die namens de deelnemende gemeenten de taken ten behoeve van de coördinatie van de eerste opvang van ontheemden uit Oekraïne uitvoert;
 
-- f. **minister:** de Minister van Justitie en Veiligheid;
+- f. **minister:** de Minister van Asiel en Migratie.
 
 ##### Artikel 2. Verstrekking van een specifieke uitkering
 
 1. De Minister kan een specifieke uitkering verstrekken aan een regionaal openbaar lichaam, een provincie of een gemeente, die namens meerdere gemeenten, die tot het territoriale gebied van één of meerdere veiligheidsregio’s binnen één provincie behoren, de operationele coördinatie en eerste opvang van ontheemden uit Oekraïne uitvoert.
 
-2. De Minister verstrekt de specifieke uitkering ter bekostiging van de werkelijk gemaakte kosten, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049203&artikel=5&z=2024-01-09&g=2024-01-09), ten behoeve van coördinatie en eerste opvang ontheemden uit Oekraïne.
+2. De Minister verstrekt de specifieke uitkering ter bekostiging van de werkelijk gemaakte kosten, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049203&artikel=5&z=2024-11-14&g=2024-11-14), ten behoeve van coördinatie en eerste opvang ontheemden uit Oekraïne.
 
-3. De specifieke uitkering wordt verstrekt voor de periode van 1 januari 2024 tot en met 31 december 2024.
+3. De specifieke uitkering wordt verstrekt voor de periode van 1 januari 2024 tot en met 31 december 2025.
 
 4. De specifieke uitkering wordt op aanvraag verstrekt.
 
@@ -80,7 +80,7 @@ In deze regeling wordt verstaan onder:
 
 - c. een begroting van de totale kosten voor het boekjaar waarop de aanvraag betrekking heeft, uitgesplitst naar kostencategorieën, waaronder in elk geval de kosten van regie, coördinatie van de spreiding van ontheemden, communicatie, zorgkosten en materiële uitgaven.
 
-2. Een aanvraag voor de periode van 1 januari 2024, of een later moment vanaf welk de werkzaamheden worden uitgevoerd, tot en met 31 december 2024, dient vóór 1 oktober van het betreffende boekjaar te worden gedaan.
+2. Een aanvraag voor de periode van 1 januari 2024, of een later moment vanaf welk de werkzaamheden worden uitgevoerd, tot en met 31 december 2024, dient vóór 1 oktober 2024 te worden gedaan. Een aanvraag voor de periode van 1 januari 2025 tot en met 31 december 2025, dient vóór 1 oktober 2025 te worden gedaan.
 
 3. In afwijking van het tweede lid kan de Minister een aanvraag ingediend op of na 1 oktober van het betreffende boekjaar, maar vóór 1 mei van het daaropvolgende boekjaar toekennen, indien er sprake is van:
 
@@ -106,37 +106,37 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 5. Voor vergoeding in aanmerking komende kosten
 
-1. De specifieke uitkering wordt alleen verstrekt ter bekostiging van de in een periode als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049203&artikel=2&z=2024-01-09&g=2024-01-09), gemaakte kosten, inclusief btw door:
+1. De specifieke uitkering wordt alleen verstrekt ter bekostiging van de in een periode als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049203&artikel=2&z=2024-11-14&g=2024-11-14), gemaakte kosten door:
 
 - a. het regionaal openbaar lichaam, de provincie en gemeente, voor kosten gemaakt ten behoeve van coördinatie en eerste opvang, voor zover deze niet reeds op een andere wijze voor vergoeding in aanmerking komen;
 
 - b. een gemeentelijke gezondheidsdienst en een geneeskundige hulpverleningsorganisatie ten behoeve van zorg aan ontheemden in de eerste opvang en opvang, voor zover deze niet reeds op een andere wijze voor vergoeding in aanmerking komen.
 
-2. Een gemeente declareert de kosten, bedoeld in het eerste lid, onder a, bij het regionaal openbaar lichaam, dat deze kosten vervolgens opvoert in de aanvraag.
+2. Een gemeente, provincie of veiligheidsregio declareert de kosten, bedoeld in het eerste lid, onder a, bij het regionaal openbaar lichaam, dat deze kosten vervolgens opvoert in de aanvraag.
 
-3. Een gemeentelijke gezondheidsdienst en de geneeskundige hulpverleningsorganisatie declareren de kosten, bedoeld in het eerste lid, onder b, bij het regionaal openbaar lichaam, dat deze kosten vervolgens opvoert in de aanvraag.
+3. Een gemeentelijke gezondheidsdienst, de geneeskundige hulpverleningsorganisatie of een ander gemeentelijk samenwerkingsverband declareren de kosten, bedoeld in het eerste lid, onder b, bij het regionaal openbaar lichaam, dat deze kosten vervolgens opvoert in de aanvraag.
 
 4. Er wordt geen specifieke uitkering krachtens deze regeling verstrekt voor:
 
 - a. kosten van jeugdgezondheidszorg;
 
-- b. kosten van activiteiten waarvoor op grond van de [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629) recht op aftrek van omzetbelasting bestaat, dan wel recht bestaat op compensatie op grond van de [Wet op het btw-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817).
+- b. btw waarvoor op grond van de [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629) recht op aftrek van omzetbelasting bestaat, dan wel recht bestaat op compensatie op grond van de [Wet op het btw-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817).
 
 ##### Artikel 6. Verantwoording
 
-1. Het regionaal openbaar lichaam, de provincie of de gemeente, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049203&artikel=2&z=2024-01-09&g=2024-01-09), legt uiterlijk 15 juli van het jaar dat volgt op het jaar van besteding verantwoording af over de besteding van de specifieke uitkering.
+1. Het regionaal openbaar lichaam, de provincie of de gemeente, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049203&artikel=2&z=2024-11-14&g=2024-11-14), legt uiterlijk 15 juli van het jaar dat volgt op het jaar van besteding verantwoording af over de besteding van de specifieke uitkering.
 
 2. Daar waar sprake is van overdracht van middelen naar een medeoverheid is SiSa tussen medeoverheden van toepassing conform [artikel 17a, tweede lid van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
 ##### Artikel 7. Procedure tot vaststelling van de specifieke uitkering
 
-1. De Minister stelt uiterlijk op 31 december van het jaar dat volgt op het jaar van verlening, de specifieke uitkering vast.
+1. Nadat de minister de verantwoordingsinformatie, als bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), heeft ontvangen van de Minister van Binnenlandse Zaken en Koninkrijksrelaties, stelt de minister de uitkering binnen 22 weken vast.
 
 2. De Minister kan de specifieke uitkering lager vaststellen:
 
 - a. voor zover er geen (volledige) of onjuiste verantwoordingsinformatie is verstrekt;
 
-- b. indien de verantwoordingsinformatie na de datum, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049203&artikel=6&z=2024-01-09&g=2024-01-09), is ontvangen;
+- b. indien de verantwoordingsinformatie na de datum, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049203&artikel=6&z=2024-11-14&g=2024-11-14), is ontvangen;
 
 - c. voor zover de specifieke uitkering niet rechtmatig is besteed;
 
