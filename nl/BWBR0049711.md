@@ -4,7 +4,7 @@ identifier: "BWBR0049711"
 country: "nl"
 rank: "pbo"
 publication_date: "2026-01-01"
-last_updated: "2024-09-01"
+last_updated: "2024-11-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049711"
 soort: "pbo"
@@ -708,7 +708,7 @@ Indien de accountant concludeert dat aanvullende uiteenzetting in de controlever
 
 **A1**
 
-De in Nederland geldende wet- en regelgeving inzake kwaliteitsmanagement45De in Nederland geldende wet- en regelgeving op het gebied van kwaliteitsmanagement omvat de Wet toezicht accountantsorganisaties, het Besluit toezicht accountantsorganisaties, de Verordening accountantsorganisaties en de Nadere Voorschriften Kwaliteitssystemen. behandelt de verantwoordelijkheden van de accountantseenheid met betrekking tot het aanvaarden en continueren van cliëntrelaties en specifieke opdrachten. De verantwoordelijkheden van de accountant met betrekking tot ethische voorschriften, waaronder onafhankelijkheidsvoorschriften, in de context van de aanvaarding van een controleopdracht en voor zover zij onder de zeggenschap van de accountant vallen, worden behandeld in Standaard 22046Standaard 220, paragrafen 16–21.. Deze Standaard behandelt die aangelegenheden (of randvoorwaarden) die onder de zeggenschap van de entiteit vallen en waarover het management en de accountant overeenstemming dienen te bereiken.
+De in Nederland geldende wet- en regelgeving inzake kwaliteitsmanagement45De in Nederland geldende wet- en regelgeving op het gebied van kwaliteitsmanagement omvat de Wet toezicht accountantsorganisaties, het Besluit toezicht accountantsorganisaties, de Verordening accountantsorganisaties en de Nadere Voorschriften Kwaliteitssystemen. behandelt de verantwoordelijkheden van de accountantseenheid met betrekking tot het aanvaarden en continueren van cliëntrelaties en specifieke opdrachten. De verantwoordelijkheden van de accountant met betrekking tot relevante ethische voorschriften, waaronder onafhankelijkheidsvoorschriften, in de context van de aanvaarding van een controleopdracht en voor zover zij onder de zeggenschap van de accountant vallen, worden behandeld in Standaard 22046Standaard 220, paragrafen 16–21.. Deze Standaard behandelt die aangelegenheden (of randvoorwaarden) die onder de zeggenschap van de entiteit vallen en waarover het management en de accountant overeenstemming dienen te bereiken.
 
 (Zie Par. 6(a))
 
@@ -1888,7 +1888,7 @@ Standaard 315 vereist dat een bespreking tussen de leden van het opdrachtteam wo
 
 **17**
 
-Bij de uitvoering van risico-inschattingswerkzaamheden en daarmee verband houdende werkzaamheden gericht op het verwerven van inzicht in de entiteit en haar omgeving, het van toepassing zijnde stelsel inzake financiële verslaggeving en haar systeem van interne beheersing, zoals op grond van Standaard 315 wordt vereist, dient de accountant de in de paragrafen 23–43 genoemde werkzaamheden uit te voeren teneinde informatie te verkrijgen voor gebruik bij het identificeren van de risico's op een afwijking van materieel belang die het gevolg is van fraude.
+Bij de uitvoering van risico-inschattingswerkzaamheden en daarmee verband houdende werkzaamheden gericht op het verwerven van inzicht in de entiteit en haar omgeving, het van toepassing zijnde stelsel inzake financiële verslaggeving en haar systeem van interne beheersing, zoals op grond van Standaard 315 wordt vereist, dient de accountant de in de paragrafen 18–25 genoemde werkzaamheden uit te voeren teneinde informatie te verkrijgen voor gebruik bij het identificeren van de risico's op een afwijking van materieel belang die het gevolg is van fraude.
 
 **18**
 
@@ -2172,7 +2172,7 @@ De risico's op fraude bij de verantwoording van opbrengsten kunnen in sommige en
 
 Het is mogelijk dat de veronderstelling dat bij de verantwoording van opbrengsten frauderisico's bestaan wordt weerlegd. De accountant kan bijvoorbeeld tot de conclusie komen dat er met betrekking tot de verantwoording van opbrengsten geen risico bestaat op een afwijking van materieel belang die het gevolg is van fraude als er sprake is van één soort van eenvoudige opbrengstgenererende transacties, bijvoorbeeld de huuropbrengst voor één bepaald onroerend goed.
 
-(Zie Par. 27)
+(Zie Par. 28)
 
 **A32**
 
@@ -14912,7 +14912,7 @@ De accountant verkrijgt zo nodig aanvullende bevestigingen van het bestuur omtre
 
 **41A**
 
-****Indien de accountant bij de beoordelingsopdracht van tussentijdse financiële overzichten aanwijzingen van fraude en/of onwettig handelen ontdekt, dient hij met betrekking tot deze aanwijzingen te handelen overeenkomstig hetgeen is voorgeschreven in Standaard 240 ‘De verantwoordelijkheid van de accountant met betrekking tot fraude in het kader van een controle van financiële overzichten’ en Standaard 250 ‘Het in overweging nemen van de wet- en regelgeving bij een controle van financiële overzichten’ te handelen.** De accountant houdt hierbij rekening met de aard en reikwijdte van de opdracht.**
+**Indien de accountant bij de beoordelingsopdracht van tussentijdse financiële overzichten aanwijzingen van fraude en/of onwettig handelen ontdekt, dient hij met betrekking tot deze aanwijzingen te handelen overeenkomstig hetgeen is voorgeschreven in Standaard 240 ‘De verantwoordelijkheid van de accountant met betrekking tot fraude in het kader van een controle van financiële overzichten’ en Standaard 250 ‘Het in aanmerking nemen van de wet- en regelgeving bij een controle van financiële overzichten’.**De accountant houdt hierbij rekening met de aard en reikwijdte van de opdracht.
 
 **42**
 
