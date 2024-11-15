@@ -4,7 +4,7 @@ identifier: "BWBR0048308"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2024-07-01"
+last_updated: "2024-11-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048308"
 soort: "ministeriele-regeling"
@@ -88,7 +88,7 @@ Vervallen
 
 ##### Artikel 5. Dienst van algemeen economisch belang
 
-De activiteiten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048308&artikel=3&z=2024-07-01&g=2024-07-01), worden aangewezen als dienst van algemeen economisch belang, met de uitvoering waarvan wordt belast de GGD die daarvoor een uitkering ontvangt.
+De GGD wordt voor het uitvoeren van de activiteiten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048308&artikel=3&z=2024-11-15&g=2024-11-15), belast met een dienst van algemeen economisch belang.
 
 ##### Artikel 6. Dubbelfinanciering
 
@@ -96,7 +96,7 @@ Er wordt geen uitkering verstrekt aan een GGD voor activiteiten waarvoor hij al 
 
 ##### Artikel 7. Aanvraag, verlening en bevoorschotting
 
-1. De Minister verleent de uitkering, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048308&artikel=3&z=2024-07-01&g=2024-07-01), ambtshalve uiterlijk 1 september 2024.
+1. De Minister verleent de uitkering, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048308&artikel=3&z=2024-11-15&g=2024-11-15), ambtshalve uiterlijk 1 september 2024.
 
 2. Het besluit tot verlening vermeldt in elk geval voor welke activiteiten de uitkering wordt verleend, het bedrag van de uitkering, de periode waarvoor de uitkering wordt verleend en de wijze waarop de verantwoording plaatsvindt.
 
@@ -108,7 +108,7 @@ Er wordt geen uitkering verstrekt aan een GGD voor activiteiten waarvoor hij al 
 
 2. Onverminderd het eerste lid informeert de GGD de Minister op verzoek over de voortgang van de activiteiten en de daaraan verbonden kosten waarvoor een uitkering is verleend.
 
-3. Indien de GGD de infrastructuur die specifiek voor COVID-19-vaccinaties is opgebouwd, inzet voor activiteiten als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048308&artikel=3&z=2024-07-01&g=2024-07-01), doet de GGD hiervan onverwijld schriftelijk mededeling aan de Minister.
+3. Indien de GGD de infrastructuur die specifiek voor COVID-19-vaccinaties is opgebouwd, inzet voor activiteiten als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048308&artikel=3&z=2024-11-15&g=2024-11-15), doet de GGD hiervan onverwijld schriftelijk mededeling aan de Minister.
 
 4. De GGD draagt er zorg voor:
 
@@ -120,11 +120,11 @@ Er wordt geen uitkering verstrekt aan een GGD voor activiteiten waarvoor hij al 
 
 1. De GGD legt verantwoording af over de besteding van de uitkering op de wijze als bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
-2. Indien de GGD de infrastructuur die specifiek voor COVID-19-vaccinaties is opgebouwd, inzet voor activiteiten als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048308&artikel=3&z=2024-07-01&g=2024-07-01), rekent de GGD de aan de infrastructuur verbonden kosten naar verhouding toe aan deze andere inzet.
+2. Indien de GGD de infrastructuur die specifiek voor COVID-19-vaccinaties is opgebouwd, inzet voor activiteiten als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048308&artikel=3&z=2024-11-15&g=2024-11-15), rekent de GGD de aan de infrastructuur verbonden kosten naar verhouding toe aan deze andere inzet.
 
 ##### Artikel 10. Vaststelling en terugvordering
 
-1. De Minister besluit uiterlijk 37 weken na ontvangst van de informatie ten behoeve van de verantwoording, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048308&artikel=9&z=2024-07-01&g=2024-07-01), over de vaststelling van de uitkering.
+1. De Minister besluit uiterlijk 37 weken na ontvangst van de informatie ten behoeve van de verantwoording, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048308&artikel=9&z=2024-11-15&g=2024-11-15), over de vaststelling van de uitkering.
 
 2. Indien de activiteiten waarvoor de uitkering is verleend zijn uitgevoerd en daarnaast volledig is voldaan aan de verplichtingen die verbonden zijn aan de uitkering, wordt de uitkering vastgesteld op het bedrag dat bestaat uit de gerealiseerde kosten, tot ten hoogste het in de verleningsbeschikking genoemde bedrag.
 
@@ -146,9 +146,9 @@ Deze regeling wordt aangehaald als: Regeling specifieke uitkering COVID-19-vacci
 
 ## Bijlage. Tabel met het maximale uitkeringsbedrag per GGD voor de periode van 1 juli 2024 tot en met 31 december 2024
 
-(bijlage als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048308&artikel=3&z=2024-07-01&g=2024-07-01)).
+(bijlage als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048308&artikel=3&z=2024-11-15&g=2024-11-15)).
 
-Onderstaand is een lijst opgenomen waarin de GGD’en staan en het maximale uitkeringsbedrag dat zij kunnen ontvangen op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048308&artikel=3&z=2024-07-01&g=2024-07-01), voor de periode 1 juli 2024 tot en met 31 december 2024.
+Onderstaand is een lijst opgenomen waarin de GGD’en staan en het maximale uitkeringsbedrag dat zij kunnen ontvangen op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048308&artikel=3&z=2024-11-15&g=2024-11-15), voor de periode 1 juli 2024 tot en met 31 december 2024.
 
 De bedragen zijn per GGD gebaseerd op door hen ingediende en met het Ministerie van Volksgezondheid, Welzijn en Sport afgestemde begrotingen. Aan de hand van een door het RIVM bepaald landelijk gemiddeld aantal (q) vaccinaties per week zijn de begrotingen opgesteld voor:
 
