@@ -4,7 +4,7 @@ identifier: "BWBR0012288"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-04"
-last_updated: "2024-07-25"
+last_updated: "2024-11-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012288"
 soort: "circulaire"
@@ -3731,13 +3731,13 @@ De IND neemt in ieder geval aan dat een binnenlands beschermingsalternatief aanw
 
 Geen bijzonderheden.
 
-### 5.4.1. Ernstige schade in de zin van artikel 29, eerste lid, onder b, onderdeel 1° en 2°, Vw als bedoeld in paragraaf C2/3.3.2 Vc
+### 5.4.1. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, onderdeel 1° en 2°, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) als bedoeld in paragraaf C2/3.3.2 Vc
 
 Geen bijzonderheden.
 
-### 5.4.2. Ernstige schade in de zin van artikel 29, eerste lid, aanhef en onder b, onderdeel 3°, Vw als bedoeld in paragraaf C2/3.3.3 Vc
+### 5.4.2. Ernstige schade in de zin van [artikel 29, eerste lid, aanhef en onder b, onderdeel 3°, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) als bedoeld in paragraaf C2/3.3.3 Vc
 
-De IND neemt in ieder geval aan dat een binnenlands beschermingsalternatief aanwezig is in het hoofdgebied van Azerbeidzjan:
+Geen bijzonderheden.
 
 ### 5.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
@@ -4605,7 +4605,7 @@ Geen bijzonderheden.
 
 De IND merkt voor Belarus de volgende groepen vreemdelingen aan als risicoprofiel:
 
-De IND beoordeelt aan de hand van [paragraaf B8/6](onbekend) Vc of adequate opvang voor amv’s aanwezig is.
+De IND beoordeelt aan de hand van [paragraaf B8/6 Vc](onbekend) of adequate opvang voor amv’s aanwezig is.
 
 ### 6.4.1.1. Systematische blootstelling in de zin van paragraaf C2/3.3.2.1 Vc
 
