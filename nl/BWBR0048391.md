@@ -4,7 +4,7 @@ identifier: "BWBR0048391"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-11-16"
-last_updated: "2024-01-01"
+last_updated: "2024-11-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048391"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 - **huurcommissie:** huurcommissie, bedoeld in [artikel 3a Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a);
 
-- **huurprijscheck:** berekeningswijze waarmee de maximale kale huurprijs van een woonruimte kan worden berekend, opgesteld door de huurcommissie en vindbaar op [https://www.huurcommissie.nl/huurcommissie-helpt/huurprijscheck-zelfstandige-woonruimte](onbekend) of [https://www.huurcommissie.nl/huurcommissie-helpt/huurprijscheck-onzelfstandige-woonruimte](onbekend);
+- **huurprijscheck:** berekeningswijze waarmee de maximale kale huurprijs van een woonruimte kan worden berekend, opgesteld door de huurcommissie en vindbaar op [https://www.huurcommissie.nl/huurcommissie-helpt/huurprijscheck-zelfstandige-woonruimte](https://www.huurcommissie.nl/huurcommissie-helpt/huurprijscheck-zelfstandige-woonruimte) of [https://www.huurcommissie.nl/huurcommissie-helpt/huurprijscheck-onzelfstandige-woonruimte](https://www.huurcommissie.nl/huurcommissie-helpt/huurprijscheck-onzelfstandige-woonruimte);
 
 - **jongere:** persoon met een leeftijd vanaf 18 tot en met 30 jaar;
 
@@ -96,7 +96,7 @@ Op deze regeling is [artikel 10.1 van de Kaderregeling](https://wetten.overheid.
 
 - b. voor activiteiten, bedoeld in het eerste lid, onder b, € 70 per uur voor de begeleiding van de jongere tot ten hoogste 4 uur per jongere per maand; en
 
-- c. maximaal € 1.000.000 per verhuurder per periode bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048391&artikel=6&z=2024-01-01&g=2024-01-01).
+- c. maximaal € 1.000.000 per verhuurder per periode bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048391&artikel=6&z=2024-11-16&g=2024-11-16).
 
 ##### Artikel 4. Wijze van subsidieverstrekking
 
@@ -106,15 +106,15 @@ Op deze regeling is [artikel 10.1 van de Kaderregeling](https://wetten.overheid.
 
 ##### Artikel 5. Staatssteun
 
-1. De uitvoering van de activiteiten, zoals genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048391&artikel=3&z=2024-01-01&g=2024-01-01), worden aangewezen als een DAEB.
+1. De uitvoering van de activiteiten, zoals genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048391&artikel=3&z=2024-11-16&g=2024-11-16), worden aangewezen als een DAEB.
 
 2. Subsidie wordt uitsluitend verstrekt indien de subsidieaanvrager met de Staat een overeenkomst sluit waarbij de Staat hem belast met en hij zich verplicht tot het verrichten van de DAEB, bedoeld in het eerste lid.
 
 ##### Artikel 6. Subsidievoorwaarden
 
-1. Subsidie wordt enkel verstrekt aan een verhuurder die op 1 januari van het jaar van het indienen van een aanvraag tot subsidieverlening in het handelsregister stond ingeschreven met een hoofd- of nevenactiviteit met een bijhorende SBI-code die in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048391&bijlage=1&z=2024-01-01&g=2024-01-01) is opgenomen.
+1. Subsidie wordt enkel verstrekt aan een verhuurder die op 1 januari van het jaar van het indienen van een aanvraag tot subsidieverlening in het handelsregister stond ingeschreven met een hoofd- of nevenactiviteit met een bijhorende SBI-code die in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048391&bijlage=1&z=2024-11-16&g=2024-11-16) is opgenomen.
 
-2. De periode voor het uitvoeren van de subsidiabele activiteiten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048391&artikel=3&z=2024-01-01&g=2024-01-01):
+2. De periode voor het uitvoeren van de subsidiabele activiteiten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048391&artikel=3&z=2024-11-16&g=2024-11-16):
 
 - a. wordt door de verhuurder beoogd uiterlijk aan te vangen binnen drie maanden na het besluit tot subsidieverlening; en
 
@@ -144,7 +144,7 @@ Op deze regeling is [artikel 10.1 van de Kaderregeling](https://wetten.overheid.
 
 - 5°. dat de jongere een bijdrage zal leveren aan de cohesie en sociale interactie in de geclusterde woonvorm bestemd voor ouderen en daarbij wordt begeleid door een begeleider.
 
-4. Subsidie wordt enkel verstrekt voor activiteiten, bedoeld in [artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0048391&artikel=3&z=2024-01-01&g=2024-01-01), voor een begeleider die:
+4. Subsidie wordt enkel verstrekt voor activiteiten, bedoeld in [artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0048391&artikel=3&z=2024-11-16&g=2024-11-16), voor een begeleider die:
 
 - a. een op gedrag en maatschappij of zorg en welzijn gerichte middenkaderopleiding of een specialistenopleiding als bedoeld in [artikel 7.2.2, eerste lid, onder d en e, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) met goed gevolg heeft afgesloten en ten bewijze daarvan een diploma als bedoeld in [artikel 7.4.6, eerste lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.6) heeft ontvangen; of
 
@@ -154,45 +154,29 @@ Op deze regeling is [artikel 10.1 van de Kaderregeling](https://wetten.overheid.
 
 6. Subsidie wordt enkel opnieuw verstrekt aan een verhuurder na afloop van de periode, bedoeld in het tweede lid, van de reeds aan die verhuurder op grond van deze regeling verstrekte subsidie.
 
-##### Artikel 7. Subsidieplafond
+##### Artikel 7
 
-1. Het subsidieplafond bestaat uit het bedrag van de subsidies gezamenlijk dat ten laste van enig kalenderjaar wordt of zal worden uitbetaald op basis van een verlening of vaststelling van een subsidie en wordt in aanmerking genomen voor alle jaren waarop de uitbetaling van een te verstrekken subsidie betrekking heeft.
+1. Het subsidieplafond bedraagt voor het jaar 2025 € 1.000.000,–.
 
-2. Het subsidieplafond bedraagt voor het jaar 2023 € 3.920.000,–.
-
-3. Het subsidieplafond bedraagt voor het jaar 2024 € 7.840.000,–.
-
-4. Het subsidieplafond bedraagt voor het jaar 2025 € 11.600.000,–.
-
-5. Het subsidieplafond bedraagt voor het jaar 2026 € 15.800.000,–.
-
-6. Het subsidieplafond bedraagt voor het jaar 2027 € 18.000.000,–.
-
-7. Het subsidieplafond bedraagt voor het jaar 2028 € 5.900.000,–.
-
-8. Het subsidieplafond bedraagt voor het jaar 2029 € 7.900.000,–.
-
-9. Het subsidieplafond bedraagt voor het jaar 2030 € 9.000.000,–.
-
-10. De Minister verdeelt het ingevolge het subsidieplafond beschikbare bedrag op volgorde van binnenkomst van de aanvragen, met dien verstande dat wanneer de aanvrager krachtens [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvraag is aangevuld als datum van ontvangst geldt.
+2. De Minister verdeelt het ingevolge het subsidieplafond beschikbare bedrag op volgorde van binnenkomst van de aanvragen, met dien verstande dat wanneer de aanvrager krachtens [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvraag is aangevuld als datum van ontvangst geldt.
 
 ##### Artikel 8. Aanvraag tot subsidieverlening
 
 1. Een aanvraag tot subsidieverlening voor het kalenderjaar 2023 kan worden ingediend van 17 juli 2023 om 9.00 uur tot en met 15 september 2023 om 16.00 uur.
 
-2. Een aanvraag tot subsidieverlening voor subsidiabele activiteiten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048391&artikel=3&z=2024-01-01&g=2024-01-01), die aanvangen in het kalenderjaar 2024 kan worden ingediend van 2 januari 2024 om 9.00 uur tot en met 31 mei 2024 om 16.00 uur.
+2. Een aanvraag tot subsidieverlening voor subsidiabele activiteiten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048391&artikel=3&z=2024-11-16&g=2024-11-16), die aanvangen in het kalenderjaar 2024 kan worden ingediend van 2 januari 2024 om 9.00 uur tot en met 31 mei 2024 om 16.00 uur.
 
-3. Een aanvraag tot subsidieverlening voor subsidiabele activiteiten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048391&artikel=3&z=2024-01-01&g=2024-01-01), die aanvangen in het kalenderjaar 2025, 2026 of 2027 kan worden ingediend van 18 november om 9.00 uur voorafgaand aan het betreffende jaar tot en met 30 april om 16.00 uur van het betreffende jaar.
+3. Een aanvraag tot subsidieverlening voor subsidiabele activiteiten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048391&artikel=3&z=2024-11-16&g=2024-11-16), die aanvangen in het kalenderjaar 2025 kan worden ingediend van 18 november 2024 om 09.00 uur tot en met 30 april 2025 om 16.00 uur.
 
 4. Voor de aanvraag, de verklaringen van de verhuurder, bedoeld in het vierde lid en de begroting, wordt een door de minister vastgesteld formulier gebruikt.
 
 5. Bij de aanvraag verklaart de verhuurder in een activiteitenplan:
 
-- a. dat deze voldoet aan de voorwaarden, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048391&artikel=6&z=2024-01-01&g=2024-01-01);
+- a. dat deze voldoet aan de voorwaarden, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048391&artikel=6&z=2024-11-16&g=2024-11-16);
 
-- b. ingeval van activiteiten bedoeld in [artikel 3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0048391&artikel=3&z=2024-01-01&g=2024-01-01), op welke wijze de jongere bijdraagt aan de cohesie en sociale interactie; en
+- b. ingeval van activiteiten bedoeld in [artikel 3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0048391&artikel=3&z=2024-11-16&g=2024-11-16), op welke wijze de jongere bijdraagt aan de cohesie en sociale interactie; en
 
-- c. ingeval van activiteiten bedoeld in [artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0048391&artikel=3&z=2024-01-01&g=2024-01-01), een toelichting op welke wijze de begeleider aan de voorwaarden, bedoeld in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048391&artikel=6&z=2024-01-01&g=2024-01-01), voldoet en op welke wijze de jongere wordt begeleid.
+- c. ingeval van activiteiten bedoeld in [artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0048391&artikel=3&z=2024-11-16&g=2024-11-16), een toelichting op welke wijze de begeleider aan de voorwaarden, bedoeld in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048391&artikel=6&z=2024-11-16&g=2024-11-16), voldoet en op welke wijze de jongere wordt begeleid.
 
 6. In aanvulling op [artikel 3.3 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.3) gaat de aanvraag vergezeld van:
 
@@ -200,7 +184,7 @@ Op deze regeling is [artikel 10.1 van de Kaderregeling](https://wetten.overheid.
 
 - b. het document dat het resultaat is van een ingevulde huurprijscheck van de woonruimte, per woonruimte;
 
-- c. een door de minister vastgestelde ondertekende overeenkomst voor het vestigen van een dienst van algemeen economisch belang, als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048391&artikel=5&z=2024-01-01&g=2024-01-01); en
+- c. een door de minister vastgestelde ondertekende overeenkomst voor het vestigen van een dienst van algemeen economisch belang, als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048391&artikel=5&z=2024-11-16&g=2024-11-16); en
 
 - d. een door de minister vastgestelde DAEB de-minimisverklaring.
 
@@ -216,7 +200,7 @@ Op deze regeling is [artikel 10.1 van de Kaderregeling](https://wetten.overheid.
 
 - a. bij minder dan drie maanden leegstand:
 
-- 1°. indien een verleende subsidie minder dan € 25.000 bedraagt, uiterlijk op de laatste dag van de periode, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048391&artikel=6&z=2024-01-01&g=2024-01-01); of
+- 1°. indien een verleende subsidie minder dan € 25.000 bedraagt, uiterlijk op de laatste dag van de periode, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048391&artikel=6&z=2024-11-16&g=2024-11-16); of
 
 - 2°. indien een verleende subsidie € 25.000 of meer bedraagt ten tijde van de aanvraag tot subsidievaststelling;
 
@@ -226,7 +210,7 @@ Op deze regeling is [artikel 10.1 van de Kaderregeling](https://wetten.overheid.
 
 ##### Artikel 11. Aanvraag tot subsidievaststelling
 
-Indien een verleende subsidie € 25.000 of meer bedraagt vraagt de verhuurder vaststelling van de subsidie aan binnen 22 weken na de datum, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048391&artikel=6&z=2024-01-01&g=2024-01-01).
+Indien een verleende subsidie € 25.000 of meer bedraagt vraagt de verhuurder vaststelling van de subsidie aan binnen 22 weken na de datum, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048391&artikel=6&z=2024-11-16&g=2024-11-16).
 
 ##### Artikel 12. Hardheidsclausule
 
@@ -240,7 +224,7 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte i
 
 Deze regeling wordt aangehaald als: Subsidieregeling intergenerationeel wonen.
 
-## Bijlage 1. SBI-codes als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048391&artikel=5&z=2024-01-01&g=2024-01-01)
+## Bijlage 1. SBI-codes als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048391&artikel=5&z=2024-11-16&g=2024-11-16)
 
 | Omschrijving activiteit | SBI-code |
 | --- | --- |
