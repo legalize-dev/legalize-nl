@@ -4,7 +4,7 @@ identifier: "BWBR0040421"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-11-20"
-last_updated: "2017-12-22"
+last_updated: "2024-11-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040421"
 soort: "ministeriele-regeling"
@@ -60,7 +60,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-1. De commissie brengt zowel gevraagd als ongevraagd schriftelijk advies uit aan de Minister over de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040421&artikel=2&z=2017-12-22&g=2017-12-22) genoemde zaken.
+1. De commissie brengt zowel gevraagd als ongevraagd schriftelijk advies uit aan de Minister over de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040421&artikel=2&z=2024-11-20&g=2024-11-20) genoemde zaken.
 
 2. De commissie brengt uiterlijk binnen drie maanden na het beëindigen van een dierziektecrisis een schriftelijk eindrapport uit aan de Minister over de gehele crisisperiode.
 
@@ -84,11 +84,11 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 6
 
-1. De voorzitter van de commissie ontvangt een vergoeding per vergadering van € 362.
+1. Aan de voorzitter van de Welzijnscommissie Dierziekten wordt een vaste vergoeding per vergadering toegekend ter hoogte van 130% van 3% van het maximum van salarisschaal 18 van paragraaf 6.3 van de CAO Rijk.
 
-2. De andere leden van de commissie ontvangen een vergoeding per vergadering van € 279.
+2. Aan de andere leden van de Welzijnscommissie Dierziekten wordt een vaste vergoeding per vergadering toegekend ter hoogte van 3% van het maximum van salarisschaal 18 van paragraaf 6.3 van de CAO Rijk.
 
-3. Een gastdeskundige ontvangt een vergoeding per vergadering van € 279.
+3. Aan de gastdeskundige van de Welzijnscommissie Dierziekten wordt een vaste vergoeding per vergadering toegekend ter hoogte van 3% van het maximum van salarisschaal 18 van paragraaf 6.3 van de CAO Rijk.
 
 ##### Artikel 7
 
