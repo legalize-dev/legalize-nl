@@ -4,7 +4,7 @@ identifier: "BWBR0035514"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-11-22"
-last_updated: "2014-09-05"
+last_updated: "2024-11-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035514"
 soort: "ministeriele-regeling"
@@ -41,13 +41,11 @@ Besluit
 
 ##### Artikel 1
 
-1. De digitale vervanging heeft betrekking op alle archiefbescheiden van het ministerie, die:
+De digitale vervanging heeft betrekking op alle archiefbescheiden van het ministerie die:
 
-- a. deel uitmaken van de werkprocessen van de bewindspersonen van het ministerie en die, op grond van de geldende selectielijsten voor de daaronder ressorterende organisatieonderdelen, voor vernietiging dan wel voor permanente bewaring in aanmerking komen; en
+- a. deel uitmaken van de werkprocessen van de bewindspersonen van het ministerie en die, op grond van de geldende selectielijsten voor de daaronder ressorterende organisatieonderdelen, voor vernietiging dan wel voor permanente bewaring in aanmerking komen;
 
-- b. die zijn ontvangen en opgemaakt in de periode 2003–2014; dan wel
-
-- c. die zullen worden ontvangen en opgemaakt in de periode tot en met tien jaar na de inwerkingtreding van dit besluit.
+- b. zijn ontvangen of opgemaakt voorafgaand aan de inwerkingtreding van dit besluit en die worden ontvangen of opgemaakt in de periode tot en met tien jaar na inwerkingtreding van dit besluit.
 
 ##### Artikel 2
 
