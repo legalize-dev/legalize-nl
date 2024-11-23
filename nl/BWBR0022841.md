@@ -4,7 +4,7 @@ identifier: "BWBR0022841"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2024-01-01"
+last_updated: "2024-11-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022841"
 soort: "ministeriele-regeling"
@@ -74,7 +74,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **netwerk palliatieve zorg:** netwerk ten behoeve van de versterking van de onderlinge samenwerking tussen de bij de palliatieve terminale zorg betrokken organisaties en personen;
 
-- –. **netwerkregio:** de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2024-01-01&g=2024-01-01) bij de desbetreffende instelling genoemde gemeenten;
+- –. **netwerkregio:** de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2024-11-23&g=2024-11-23) bij de desbetreffende instelling genoemde gemeenten;
 
 - –. **referentieperiode:** het aantal aaneengesloten jaren dat de instelling tot en met 31 december van het voorgaande kalenderjaar voorafgaand aan het boekjaar waarvoor de instellingssubsidie wordt verstrekt palliatieve terminale zorg door vrijwilligers heeft verleend, met dien verstande dat:
 
@@ -82,7 +82,7 @@ In deze regeling wordt verstaan onder:
 
 - 2°. indien de zorg minder dan 1 jaar is verleend, de referentieperiode 1 jaar bedraagt;
 
-- –. **regio voor geestelijke verzorging thuis:** de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=2&z=2024-01-01&g=2024-01-01) bij de desbetreffende instelling genoemde gemeenten;
+- –. **regio voor geestelijke verzorging thuis:** de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=2&z=2024-11-23&g=2024-11-23) bij de desbetreffende instelling genoemde gemeenten;
 
 - –. **rouw- en verliesbegeleiding thuis:** professionele begeleiding, hulpverlening en advisering bij verliesverwerking binnen de kinderpalliatieve zorg in de thuissituatie en bij kinderen met een palliatieve naaste;
 
@@ -122,7 +122,7 @@ Deze regeling is van toepassing op het verstrekken van:
 
 ##### Artikel 4
 
-1. De minister kan bij het verstrekken van een instellingssubsidie verplichtingen opleggen die strekken tot verwezenlijking van het doel van de instellingssubsidie, bedoeld in [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=1&artikel=1a&z=2024-01-01&g=2024-01-01).
+1. De minister kan bij het verstrekken van een instellingssubsidie verplichtingen opleggen die strekken tot verwezenlijking van het doel van de instellingssubsidie, bedoeld in [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=1&artikel=1a&z=2024-11-23&g=2024-11-23).
 
 2. Rechten en verplichtingen die voortvloeien uit de verstrekking van de instellingssubsidie kunnen door de ontvanger van de instellingssubsidie uitsluitend na toestemming van de minister worden overgedragen.
 
@@ -132,7 +132,7 @@ Deze regeling is van toepassing op het verstrekken van:
 
 ##### Artikel 5
 
-De [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) is niet van toepassing op de subsidies, bedoeld in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&z=2024-01-01&g=2024-01-01).
+De [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) is niet van toepassing op de subsidies, bedoeld in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&z=2024-11-23&g=2024-11-23).
 
 ##### Artikel 6
 
@@ -150,7 +150,7 @@ De instellingssubsidie bedraagt per cliënt ten hoogste:
 
 ##### Artikel 7
 
-1. De instellingssubsidie wordt berekend door het totaal beschikbare subsidieplafond, zoals opgenomen in de hierna volgende tabel, zodanig te verdelen onder de instellingen waaraan de instellingssubsidie wordt verstrekt dat elke instelling per cliënt hetzelfde percentage van het desbetreffende maximumbedrag, genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.1&artikel=6&z=2024-01-01&g=2024-01-01) ontvangt.
+1. De instellingssubsidie wordt berekend door het totaal beschikbare subsidieplafond, zoals opgenomen in de hierna volgende tabel, zodanig te verdelen onder de instellingen waaraan de instellingssubsidie wordt verstrekt dat elke instelling per cliënt hetzelfde percentage van het desbetreffende maximumbedrag, genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.1&artikel=6&z=2024-11-23&g=2024-11-23) ontvangt.
 
 | Kalenderjaar | Totaal beschikbare subsidieplafond |
 | --- | --- |
@@ -158,9 +158,9 @@ De instellingssubsidie bedraagt per cliënt ten hoogste:
 | 2025 | € 31.861.000 |
 | 2026 | € 32.249.000 |
 
-2. Bij de berekening van de instellingssubsidie wordt het aantal cliënten van de instelling bepaald door het gemiddeld aantal cliënten per jaar in de referentieperiode. Indien meerdere malen dezelfde palliatieve terminale zorg, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.1&artikel=6&z=2024-01-01&g=2024-01-01), is verleend aan een cliënt, wordt deze voor de bepaling van het aantal cliënten voor één cliënt gerekend.
+2. Bij de berekening van de instellingssubsidie wordt het aantal cliënten van de instelling bepaald door het gemiddeld aantal cliënten per jaar in de referentieperiode. Indien meerdere malen dezelfde palliatieve terminale zorg, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.1&artikel=6&z=2024-11-23&g=2024-11-23), is verleend aan een cliënt, wordt deze voor de bepaling van het aantal cliënten voor één cliënt gerekend.
 
-3. In afwijking van het tweede lid telt een cliënt aan wie meerdere vormen van palliatieve terminale zorg, als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.1&artikel=6&z=2024-01-01&g=2024-01-01), is verleend, voor de bepaling van het aantal cliënten mee als één cliënt per vorm van palliatieve terminale zorg door vrijwilligers.
+3. In afwijking van het tweede lid telt een cliënt aan wie meerdere vormen van palliatieve terminale zorg, als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.1&artikel=6&z=2024-11-23&g=2024-11-23), is verleend, voor de bepaling van het aantal cliënten mee als één cliënt per vorm van palliatieve terminale zorg door vrijwilligers.
 
 #### Paragraaf 2.2. Palliatieve terminale zorg in een bijna-thuis-huis
 
@@ -210,7 +210,7 @@ Vervallen
 
 - b. een onderbouwde opgave van de gemiddelde verblijfsduur van een persoon in een bijna-thuis-huis of in een high care hospice;
 
-- c. een beschrijving van de wijze waarop de instelling participeert in het netwerk palliatieve zorg in de betreffende netwerkregio, als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.4&artikel=18&z=2024-01-01&g=2024-01-01);
+- c. een beschrijving van de wijze waarop de instelling participeert in het netwerk palliatieve zorg in de betreffende netwerkregio, als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.4&artikel=18&z=2024-11-23&g=2024-11-23);
 
 - d. een beschrijving van de wijze waarop de deskundigheid en inzet van vrijwilligers wordt bevorderd en gewaarborgd.
 
@@ -224,7 +224,7 @@ Vervallen
 
 ##### Artikel 17
 
-1. De minister geeft op de aanvraag van een instellingssubsidie voor palliatieve terminale zorg door vrijwilligers binnen 13 weken na afloop van de aanvraagtermijn, genoemd in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.4&artikel=14&z=2024-01-01&g=2024-01-01) een beschikking tot vaststelling van de instellingssubsidie.
+1. De minister geeft op de aanvraag van een instellingssubsidie voor palliatieve terminale zorg door vrijwilligers binnen 13 weken na afloop van de aanvraagtermijn, genoemd in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.4&artikel=14&z=2024-11-23&g=2024-11-23) een beschikking tot vaststelling van de instellingssubsidie.
 
 2. Indien de aanvrager niet heeft voldaan aan enig wettelijk voorschrift voor het in behandeling nemen van de aanvraag of indien de verstrekte gegevens en bescheiden onvoldoende zijn voor de beoordeling van de aanvraag of de voorbereiding van de beschikking stelt de minister de aanvrager in de gelegenheid de aanvraag binnen vier weken aan te vullen. De minister besluit de aanvraag niet te behandelen indien de aanvraag binnen die termijn niet of niet voldoende is aangevuld.
 
@@ -248,11 +248,11 @@ De ontvanger van een instellingssubsidie voor palliatieve terminale zorg door vr
 
 ##### Artikel 21
 
-De minister kan jaarlijks aan een in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2024-01-01&g=2024-01-01) genoemde instelling op aanvraag een instellingssubsidie verstrekken voor de coördinatie van een netwerk palliatieve zorg of een netwerk integrale kindzorg.
+De minister kan jaarlijks aan een in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2024-11-23&g=2024-11-23) genoemde instelling op aanvraag een instellingssubsidie verstrekken voor de coördinatie van een netwerk palliatieve zorg of een netwerk integrale kindzorg.
 
 ##### Artikel 22
 
-1. De instellingssubsidie voor de coördinatie van een netwerk palliatieve zorg of een netwerk integrale kindzorg bedraagt ten hoogste het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2024-01-01&g=2024-01-01) bij de desbetreffende instelling en het desbetreffende jaar genoemde bedrag.
+1. De instellingssubsidie voor de coördinatie van een netwerk palliatieve zorg of een netwerk integrale kindzorg bedraagt ten hoogste het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2024-11-23&g=2024-11-23) bij de desbetreffende instelling en het desbetreffende jaar genoemde bedrag.
 
 2. De minister kan het bedrag van de instellingssubsidie voor de coördinatie van een netwerk palliatieve zorg of een netwerk integrale kindzorg bijstellen in geval van een wijziging van de netwerkregio of het netwerk integrale kindzorg.
 
@@ -266,7 +266,7 @@ De minister kan jaarlijks aan een in [bijlage 1](https://wetten.overheid.nl/jci1
 
 2. Voor de aanvraag tot verlening wordt een door de Minister vastgesteld formulier gebruikt.
 
-3. [Artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.4&artikel=17&z=2024-01-01&g=2024-01-01), is van overeenkomstige toepassing.
+3. [Artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.4&artikel=17&z=2024-11-23&g=2024-11-23), is van overeenkomstige toepassing.
 
 4. [Artikel 10.1, eerste lid, van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=10.1) is niet van toepassing op een instellingssubsidie voor de coördinatie van een netwerk palliatieve zorg of een netwerk integrale kindzorg.
 
@@ -298,7 +298,7 @@ Vervallen
 
 De ontvanger van de instellingssubsidie voor de coördinatie van een netwerk palliatieve zorg draagt er zorg voor dat:
 
-- a. de coördinatie alle gemeenten omvat, vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2024-01-01&g=2024-01-01) in de netwerkregio van de desbetreffende instelling;
+- a. de coördinatie alle gemeenten omvat, vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2024-11-23&g=2024-11-23) in de netwerkregio van de desbetreffende instelling;
 
 - b. aan een netwerk palliatieve zorg de instellingen en personen deelnemen die beroepsmatig betrokken zijn bij het verlenen van palliatieve zorg in de netwerkregio;
 
@@ -308,15 +308,15 @@ De ontvanger van de instellingssubsidie voor de coördinatie van een netwerk pal
 
 ##### Artikel 29
 
-1. De minister kan jaarlijks aan een in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=2&z=2024-01-01&g=2024-01-01) genoemde instelling op aanvraag een instellingssubsidie verstrekken voor het in de regio voor geestelijke verzorging thuis zorgdragen voor de inzet van en de betaling aan geestelijk verzorgers en de daarmee samenhangende coördinerende activiteiten, ten behoeve van meerderjarige palliatieve patiënten en hun naasten en mensen van 50 jaar en ouder.
+1. De minister kan jaarlijks aan een in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=2&z=2024-11-23&g=2024-11-23) genoemde instelling op aanvraag een instellingssubsidie verstrekken voor het in de regio voor geestelijke verzorging thuis zorgdragen voor de inzet van en de betaling aan geestelijk verzorgers en de daarmee samenhangende coördinerende activiteiten, ten behoeve van meerderjarige palliatieve patiënten en hun naasten en mensen van 50 jaar en ouder.
 
-2. De minister kan jaarlijks aan een in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=2&z=2024-01-01&g=2024-01-01) genoemde instelling op aanvraag een instellingssubsidie verstrekken voor het in de regio van een netwerk integrale kindzorg zorgdragen voor de inzet van en de betaling aan rouw- en verliesbegeleiders en geestelijk verzorgers en de daarmee samenhangende coördinerende activiteiten, ten behoeve van ernstig zieke kinderen en hun naasten en het zorgdragen voor de betaling aan rouw- en verliesbegeleiders ten behoeve van kinderen met een volwassen naaste die palliatieve patiënt is.
+2. De minister kan jaarlijks aan een in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=2&z=2024-11-23&g=2024-11-23) genoemde instelling op aanvraag een instellingssubsidie verstrekken voor het in de regio van een netwerk integrale kindzorg zorgdragen voor de inzet van en de betaling aan rouw- en verliesbegeleiders en geestelijk verzorgers en de daarmee samenhangende coördinerende activiteiten, ten behoeve van ernstig zieke kinderen en hun naasten en het zorgdragen voor de betaling aan rouw- en verliesbegeleiders ten behoeve van kinderen met een volwassen naaste die palliatieve patiënt is.
 
 3. Het zorgdragen voor de inzet van en de betaling aan geestelijke verzorgers en verlies- en rouwbegeleiders als bedoeld in het eerste en tweede lid wordt aangewezen als dienst van algemeen economisch belang als bedoeld in artikel 106, tweede lid, van het Verdrag betreffende werking van de Europese Unie.
 
 ##### Artikel 30
 
-1. De instellingssubsidie voor de inzet van geestelijke verzorgers in de regio voor geestelijke verzorging thuis of de inzet van verlies- en rouwbegeleiders en geestelijk verzorgers thuis in de regio van een netwerk integrale kindzorg bedraagt ten hoogste het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=2&z=2024-01-01&g=2024-01-01) bij de desbetreffende instelling en het desbetreffende jaar genoemde bedrag.
+1. De instellingssubsidie voor de inzet van geestelijke verzorgers in de regio voor geestelijke verzorging thuis of de inzet van verlies- en rouwbegeleiders en geestelijk verzorgers thuis in de regio van een netwerk integrale kindzorg bedraagt ten hoogste het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=2&z=2024-11-23&g=2024-11-23) bij de desbetreffende instelling en het desbetreffende jaar genoemde bedrag.
 
 2. De minister kan het bedrag van de instellingssubsidie bijstellen in geval van een wijziging van de netwerkregio of de regio van een netwerk integrale kindzorg.
 
@@ -326,17 +326,17 @@ De ontvanger van de instellingssubsidie voor de coördinatie van een netwerk pal
 
 ##### Artikel 31
 
-Van het bedrag, bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=4&artikel=30&z=2024-01-01&g=2024-01-01), mag 22,7 procent per aanvragende organisatie worden ingezet voor de kosten die door de aanvragende organisatie zelf wordt gemaakt voor het opzetten en operationaliseren van de benodigde infrastructuur, zoals de uitvoeringskosten van facturering, voor het zorgdragen voor de inzet van geestelijk verzorgers en verlies- en rouwbegeleiders en voor de coördinerende activiteiten.
+Van het bedrag, bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=4&artikel=30&z=2024-11-23&g=2024-11-23), mag 22,7 procent per aanvragende organisatie worden ingezet voor de kosten die door de aanvragende organisatie zelf wordt gemaakt voor het opzetten en operationaliseren van de benodigde infrastructuur, zoals de uitvoeringskosten van facturering, voor het zorgdragen voor de inzet van geestelijk verzorgers en verlies- en rouwbegeleiders en voor de coördinerende activiteiten.
 
 ##### Artikel 32
 
 1. De aanvraag tot verlening van een instellingssubsidie voor de inzet van geestelijke verzorgers of verlies- en rouwbegeleiders wordt uiterlijk 1 oktober in het jaar voorafgaande aan het boekjaar waarvoor de subsidie wordt aangevraagd, ontvangen.
 
-2. Voor de aanvraag tot verlening wordt een door de minister vastgesteld formulier gebruikt, welke vergezeld gaat van een met de Staat gesloten overeenkomst waarbij de Staat de instelling belast met en haar verplicht tot het verrichten van de dienst van algemeen economisch belang, bedoeld in [artikel 29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=4&artikel=29&z=2024-01-01&g=2024-01-01).
+2. Voor de aanvraag tot verlening wordt een door de minister vastgesteld formulier gebruikt, welke vergezeld gaat van een met de Staat gesloten overeenkomst waarbij de Staat de instelling belast met en haar verplicht tot het verrichten van de dienst van algemeen economisch belang, bedoeld in [artikel 29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=4&artikel=29&z=2024-11-23&g=2024-11-23).
 
-3. De aanvraag gaat vergezeld van een verklaring als bedoeld in artikel 6 van de Verordening (EU) nr. 1407/2013 van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun (PbEU 2013, L352), een zogenoemde de-minimisverklaring, voor het deel van de subsidie dat ingezet wordt voor de activiteiten, bedoeld in [artikel 29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=4&artikel=29&z=2024-01-01&g=2024-01-01).
+3. De aanvraag gaat vergezeld van een verklaring als bedoeld in artikel 6 van de Verordening (EU) nr. 1407/2013 van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun (PbEU 2013, L352), een zogenoemde de-minimisverklaring, voor het deel van de subsidie dat ingezet wordt voor de activiteiten, bedoeld in [artikel 29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=4&artikel=29&z=2024-11-23&g=2024-11-23).
 
-4. [Artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.4&artikel=17&z=2024-01-01&g=2024-01-01), en de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.4&artikel=18&z=2024-01-01&g=2024-01-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.4&artikel=19&z=2024-01-01&g=2024-01-01) zijn van overeenkomstige toepassing.
+4. [Artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.4&artikel=17&z=2024-11-23&g=2024-11-23), en de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.4&artikel=18&z=2024-11-23&g=2024-11-23) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.4&artikel=19&z=2024-11-23&g=2024-11-23) zijn van overeenkomstige toepassing.
 
 5. [Artikel 10.1, eerste lid, van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=10.1) is niet van toepassing op een instellingssubsidie voor de inzet van geestelijke verzorgers of verlies- en rouwbegeleiders in de netwerkregio’s.
 
@@ -1096,7 +1096,7 @@ Vervallen
 
 De ontvanger van de instellingssubsidie voor de coördinatie van een netwerk integrale kindzorg draagt er zorg voor dat:
 
-- a. de coördinatie de regio omvat, vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2024-01-01&g=2024-01-01);
+- a. de coördinatie de regio omvat, vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2024-11-23&g=2024-11-23);
 
 - b. aan een netwerk integrale kindzorg de instellingen en personen deelnemen die beroepsmatig betrokken zijn bij het verlenen van integrale kindzorg;
 
@@ -1204,6 +1204,6 @@ De ontvanger van de instellingssubsidie voor de coördinatie van een netwerk int
 | RCvL Zuidwest Nederland | Stichting Bravis Ziekenhuis | Bergen op Zoom, Borsele, Brielle, Goeree-Overflakkee, Goes, Halderberge, Hellevoetsluis, Hoeksche Waard, Hulst, Kapelle, Middelburg, Nissewaard, Noord-Beveland, Reimerswaal, Roosendaal, Rozenburg, Rucphen, Schouwen-Duiveland, Sluis, Stadsgewest Breda Steenbergen, Terneuzen, Tholen, Veere, Vlissingen, Westvoorne en Woensdrecht | 636.366 |
 | Zuid-Holland Noord | Stichting Transmuraal Netwerk Zuid-Holland Noord | Alphen aan den Rijn (incl. Boskoop), Hillegom, Kaag en Braassem, Katwijk, Leiden, Leiderdorp, Lisse, Nieuwkoop, Noordwijk, Oegstgeest, Teylingen, Voorschoten en Zoeterwoude | 222.694 |
 | **Rouw- en verliesbegeleiding en geestelijke verzorging thuis in de kinderpalliatieve zorg** | **Rouw- en verliesbegeleiding en geestelijke verzorging thuis in de kinderpalliatieve zorg** | **Rouw- en verliesbegeleiding en geestelijke verzorging thuis in de kinderpalliatieve zorg** |   |
-| Stichting Kenniscentrum Kinderpalliatieve Zorg | Stichting Kenniscentrum Kinderpalliatieve Zorg |   | 350.000 |
+| Stichting Kenniscentrum Kinderpalliatieve Zorg | Stichting Kenniscentrum Kinderpalliatieve Zorg |   | 422.150 |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
