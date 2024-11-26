@@ -4,7 +4,7 @@ identifier: "BWBR0028402"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2024-11-26"
-last_updated: "2019-07-25"
+last_updated: "2024-11-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028402"
 soort: "beleidsregel"
@@ -50,7 +50,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - a. **wet:** [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682);
 
-- b. **minister:** Minister van Onderwijs, Cultuur en Wetenschap en, voor zover het betreft het onderwijs op het gebied van landbouw en natuurlijke omgeving, Minister van Landbouw, Natuur en Voedselkwaliteit;
+- b. **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
 
 - c. **accreditatieorgaan:** Nederlands-Vlaamse Accreditatie Organisatie, bedoeld in artikel 1 van het op 3 september 2003 te Den Haag totstandgekomen Verdrag tussen het Koninkrijk der Nederlanden en de Vlaamse Gemeenschap van België inzake de accreditatie van opleidingen binnen het Nederlandse en Vlaamse hoger onderwijs (Trb. 2003, 167);
 
@@ -76,7 +76,7 @@ Deze beleidsregel heeft betrekking op:
 
 - c. de gegevens en bescheiden die de minister voor de beslissing op de aanvraag nodig heeft; en
 
-- d. de interpretatie van [artikel 1.12, derde lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.12).
+- d. de interpretatie van [artikel 1.12, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.12).
 
 #### § 3. Het verlenen van toestemming
 
@@ -86,7 +86,7 @@ Deze beleidsregel heeft betrekking op:
 
 - a. de financiële en bestuurlijke continuïteit van de aanvrager alsmede de kwaliteit van het door de aanvrager te verzorgen onderwijs in voldoende mate zijn gewaarborgd en
 
-- b. de naleving door de aanvrager van de wettelijke voorschriften inzake de kwaliteitszorg, de registratie, het onderwijs, de examens en de vooropleidingseisen in voldoende mate is gewaarborgd.
+- b. de naleving door de aanvrager van de wettelijke voorschriften inzake de persoonlijke ontplooiing van de studenten en hun maatschappelijk verantwoordelijkheidsbesef, de kwaliteitszorg, de registratie, het onderwijs, de examens , de vooropleidingseisen, het gebruik van het persoonsgebonden nummer, het verstrekken aan de Minister van de nodige inlichtingen omtrent de rechtspersoon en het voeren van de naam universiteit en hogeschool en het verlenen van graden en titels in voldoende mate is gewaarborgd.
 
 2. De minister verleent, na advies van de commissie van advies, genoemd in [artikel 6.11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.11), geen toestemming indien de naleving van [artikel 1.3, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.3), onvoldoende is gewaarborgd.
 
@@ -94,25 +94,11 @@ Deze beleidsregel heeft betrekking op:
 
 - a. de aanvrager is een rechtspersoon met volledige rechtsbevoegdheid;
 
-- b. het accreditatieorgaan heeft met betrekking tot de opleiding waarop de aanvraag betrekking heeft, een positief besluit als bedoeld in [artikel 5a.10a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=5a.10a) genomen;
+- b. het accreditatieorgaan heeft met betrekking tot de opleiding waarop de aanvraag betrekking heeft een positief besluit genomen over de verzwaarde toets nieuwe opleiding, bedoeld in [artikel 5.3, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=5.3).
 
-- c. de aanvrager heeft ten tijde van de aanvraag het volledige curriculum van de opleiding waarop de aanvraag betrekking heeft, ten minste één maal recent in Nederland verzorgd op de wijze, bedoeld in het derde lid, en
+4. Ingeval van een aanvraag van een rechtspersoon met volledige rechtsbevoegdheid niet zijnde een rechtspersoon voor hoger onderwijs als bedoeld in [artikel 1.1, onderdeel aa, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1), die een geaccrediteerde opleiding overgedragen krijgt van een rechtspersoon voor hoger onderwijs, is de voorwaarde, bedoeld in het derde lid, onderdeel b, niet van toepassing.
 
-- d. studenten hebben de opleiding waarop de aanvraag betrekking heeft, recent afgerond.
-
-4. Het verzorgen van het volledige curriculum van de opleiding, bedoeld in het tweede lid, onder c, houdt in ieder geval het volgende in:
-
-- a. elk studiejaar uit het curriculum van de opleiding is ten minste één maal verzorgd;
-
-- b. de opleiding voldoet aan ten minste de wettelijke studielast;
-
-- c. de aanvrager verzorgt ten minste zelf de kern van het curriculum van de opleiding. Dat houdt in ieder geval in, dat de aanvrager ten minste de propedeutische fase en de afstudeerrichting van het curriculum van de opleiding zelf verzorgt en dat niet meer dan een derde van het totale curriculum, inclusief stages en afstudeerprojecten, ter verzorging aan derden wordt uitbesteed;
-
-- d. de personen die de opleiding verzorgen zijn bij de aanvrager in dienst of anderszins op zodanige wijze met de aanvrager verbonden, dat de opleiding wordt verzorgd overeenkomstig de wensen en regelingen van de aanvrager;
-
-- e. de opleiding is geen gezamenlijke opleiding als bedoeld in [artikel 7.3c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3c).
-
-5. Bij overdracht zijn de voorwaarden, bedoeld in het tweede lid, onder b en c, niet van toepassing, indien de aanvrager een rechtspersoon is aan wie een andere rechtspersoon voor hoger onderwijs een geaccrediteerde opleiding wil overdragen.
+5. Het derde lid, onderdeel a, is van overeenkomstige toepassing op de beoordeling van de continuïteit van de rechtspersoon, bedoeld in [artikel 6.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.10).
 
 #### § 4. Benodigde gegevens en bescheiden
 
@@ -120,9 +106,9 @@ Deze beleidsregel heeft betrekking op:
 
 1. Voor een beslissing op de aanvraag zijn in ieder geval de volgende gegevens en bescheiden nodig:
 
-- a. een document waarin onderbouwd wordt uiteengezet dat wordt voldaan aan de eisen en voorwaarden van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028402&paragraaf=3&artikel=3&z=2019-07-25&g=2019-07-25);
+- a. een document waarin onderbouwd wordt uiteengezet dat wordt voldaan aan de eisen en voorwaarden van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028402&paragraaf=3&artikel=3&z=2024-11-26&g=2024-11-26);
 
-- b. indien vereist op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028402&paragraaf=3&artikel=3&z=2019-07-25&g=2019-07-25), een positief besluit als bedoeld in [artikel 5a.10a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=5a.10a);
+- b. indien vereist op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028402&paragraaf=3&artikel=3&z=2024-11-26&g=2024-11-26), een positief besluit over de verzwaarde toets nieuwe opleiding, bedoeld in [artikel 5.3, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=5.3);
 
 - c. de notariële oprichtingsakte van de rechtspersoon;
 
@@ -140,11 +126,11 @@ Deze beleidsregel heeft betrekking op:
 
 - j. uittreksels uit het Handelsregister van de Kamer van Koophandel van het lopende kalenderjaar en de twee kalenderjaren daarvóór;
 
-- k. een door de accountant goedgekeurde jaarrekening van de voorgaande twee boekjaren;
+- k. jaarrekeningen van de voorgaande twee boekjaren voorzien van een controleverklaring van een accountant;
 
 - l. het jaarverslag van de voorgaande twee boekjaren;
 
-- m. de begroting van het lopende boekjaar en een meerjarenraming voor de komende drie jaren; en
+- m. de begroting van het lopende boekjaar en een meerjarenbegroting voor de komende drie jaren; en
 
 - n. een overzicht van de gegevens bedoeld in [artikel 6.13, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13).
 
@@ -162,33 +148,41 @@ De minister neemt binnen 16 weken nadat een aanvraag is ingediend, een besluit.
 
 ##### Artikel 6
 
-1. De minister kan besluiten dat aan een opleiding of aan alle opleidingen verzorgd door een rechtspersoon voor hoger onderwijs, het recht om graden te verlenen wordt ontnomen, indien:
+1. De Minister kan besluiten dat aan een opleiding of aan alle opleidingen verzorgd door een rechtspersoon voor hoger onderwijs, het recht om graden te verlenen wordt ontnomen, indien:
 
-- a. niet of niet meer wordt voldaan aan hetgeen bij of krachtens de wet is bepaald ten aanzien van de kwaliteitszorg, de registratie, het onderwijs, de examens of de vooropleidingseisen, of
+- a. niet of niet meer wordt voldaan aan hetgeen bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) is bepaald ten aanzien van:
 
-- b. de financiële of bestuurlijke continuïteit van de rechtspersoon naar het oordeel van de minister niet langer is gewaarborgd, waardoor onvoldoende waarborgen bestaan dat kan worden voldaan aan hetgeen bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) is bepaald ten aanzien van de kwaliteitszorg, de registratie, het onderwijs, de examens of de vooropleidingseisen.
+- 1°. de persoonlijke ontplooiing van de studenten en de bevordering van hun maatschappelijk verantwoordelijkheidsbesef;
 
-2. De minister kan, na advies van de commissie van advies, genoemd in [artikel 6.11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.11), besluiten dat aan een opleiding of aan alle opleidingen verzorgd door een rechtspersoon voor hoger onderwijs, het recht om graden te verlenen wordt ontnomen, indien de naleving van [artikel 1.3, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.3) niet of niet langer is gewaarborgd.
+- 2°. de kwaliteitszorg;
+
+- 3°. de registratie, het onderwijs, en de examens;
+
+- 4°. de vooropleidingseisen;
+
+- 5°. het gebruik van het persoonsgebonden nummer;
+
+- 6°. het verstrekken aan de Minister van de nodige inlichtingen omtrent de rechtspersoon; of
+
+- b. de financiële of bestuurlijke continuïteit van de rechtspersoon naar het oordeel van de Minister niet of niet langer is gewaarborgd.
+
+2. De Minister neemt niet eerder een besluit als bedoeld in het eerste lid, onderdeel a, onder 1°, dan nadat advies is verkregen van de commissie van advies, bedoeld in [artikel 6.11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.11).
 
 #### § 7. Interpretatie van [artikel 1.12, derde lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.12)
 
 ##### Artikel 7
 
-Onder ‘de nodige inlichtingen’, bedoeld in [artikel 1.12, derde lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.12), worden in ieder geval begrepen: informatie over wijzigingen in de eigendomsverhoudingen, de financiële soliditeit of de bestuursstructuur van de rechtspersoon alsmede alle wijzigingen van de gegevens betreffende de rechtspersoon bij de Kamer van Koophandel.
+De inlichtingen, bedoeld in [artikel 1.12, derde lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.12), worden opgenomen in het jaarlijkse verslag omtrent de werkzaamheden van de rechtspersoon, bedoeld in artikel 1.12, derde lid, tweede volzin, van de wet.
 
 #### § 8. Overgangs- en slotbepalingen
 
 ##### Artikel 8
 
-1. Ten aanzien van aanvragen die na 1 september 2010 bij de minister worden ingediend en zijn voorzien van een op het ‘Protocol aanwijzingsprocedure, toelichting op de werkwijze’ gebaseerd positief oordeel van het accreditatieorgaan, beoordeelt de minister de voorwaarde bedoeld in [artikel 3, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0028402&paragraaf=3&artikel=3&z=2019-07-25&g=2019-07-25), met in achtneming van genoemd protocol.
-
-2. Indien de minister een positief besluit neemt ten aanzien van een aanvraag als bedoeld in het eerste lid, wordt de toestemming verleend onder de beperking dat binnen een bij dat besluit te bepalen termijn ten behoeve van nadere advisering van de minister door de inspectie zal worden onderzocht of voor dat deel van het curriculum dat eerder nog niet werd verzorgd wordt voldaan aan de eisen ten aanzien van de kwaliteitszorg, de registratie, het onderwijs en de examens, alsmede de vooropleidingseisen.
-
-3. In andere overgangssituaties dan bedoeld in het eerste lid, bepaalt de minister per geval welke eisen op grond van deze beleidsregel redelijkerwijs aan de aanvrager kunnen worden gesteld.
+Vervallen
 
 ##### Artikel 9
 
-Wijzigt deze beleidsregel.
+Vervallen
 
 ##### Artikel 10
 
@@ -197,5 +191,35 @@ Onder gelijktijdige intrekking van de Beleidsregel aanwijzing instellingen voor 
 ##### Artikel 11
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel bevoegdheid graadverlening hoger onderwijs.
+
+Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 3a
+
+1. Onverminderd [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028402&paragraaf=3&artikel=3&z=2024-11-26&g=2024-11-26), stelt de Minister voor de beoordeling van de continuïteit van de rechtspersoon, bedoeld in [artikel 6.9, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.9), in ieder geval vast of de aanvrager ten minste de kern van het curriculum van de opleiding waarop de aanvraag betrekking heeft zelf verzorgt. Dit houdt ten minste in:
+
+- a. het zelf verzorgen van de propedeutische fase van de opleiding, bedoeld in [artikel 7.8, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.8) of, indien die fase niet is ingesteld, de eerste periode in een associate degree-opleiding of een bacheloropleiding in het wetenschappelijk onderwijs met een studielast van 60 studiepunten;
+
+- b. het zelf verzorgen van de afstudeerrichting;
+
+- c. dat niet meer dan een derde van het totale curriculum ter verzorging aan derden wordt uitbesteed;
+
+- d. dat de personen die de opleiding verzorgen bij de aanvrager in dienst zijn of anderszins op zodanige wijze met de aanvrager verbonden zijn dat de opleiding wordt verzorgd overeenkomstig de wensen en regelingen van de aanvrager.
+
+2. Het eerste lid is van overeenkomstige toepassing op de beoordeling van de continuïteit van de rechtspersoon, bedoeld in [artikel 6.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.10).
+
+#### § 4. Benodigde gegevens en bescheiden
+
+#### § 5. Beslistermijn
+
+#### § 6. Ontneming van rechten
+
+#### § 7. Interpretatie van [artikel 1.12, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.12)
+
+#### § 8. Overgangs- en slotbepalingen
+
+##### Artikel 7a
+
+Op aanvragen die voor het tijdstip van inwerkingtreding van dit artikel zijn ingediend blijft deze beleidsregel, zoals deze luidde onmiddellijk voorafgaand aan het genoemde tijdstip van inwerkingtreding, van toepassing.
 
 Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
