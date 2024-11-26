@@ -4,7 +4,7 @@ identifier: "BWBR0043213"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-24"
-last_updated: "2024-06-20"
+last_updated: "2024-11-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043213"
 soort: "ministeriele-regeling"
@@ -80,15 +80,11 @@ Voor de toepassing van [artikel 3.11, tweede lid, van de wet](https://wetten.ove
 
 Voor de uitzending via de FM-band van radioprogramma’s, andere dan bedoeld in [artikel 7, eerste lid, van de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=7), door één rechtspersoon, worden ten hoogste drie FM-frequenties of samenstellen van FM-frequenties gebruikt of verworven.
 
-##### Artikel 5. Maximum niet-landelijke FM-omroep
+##### Artikel 5. Maximum niet-landelijke omroep
 
-1. Voor de uitzending via de FM-band van radioprogramma’s als bedoeld in [artikel 7, eerste lid, van de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=7), door één rechtspersoon, wordt ten hoogste een hoeveelheid frequentieruimte gebruikt of verworven:
+1. Voor de uitzending via de FM-band van radioprogramma’s als bedoeld in [artikel 7, eerste lid, van de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=7), door één rechtspersoon, wordt ten hoogste een hoeveelheid frequentieruimte gebruikt of verworven waarvan het demografisch bereik van de desbetreffende FM-frequenties of samenstellen van FM-frequenties tezamen niet meer bedraagt dan 30 procent.
 
-- a. waarvan het demografisch bereik van de desbetreffende FM-frequenties of samenstellen van FM-frequenties tezamen niet meer bedraagt dan 30 procent, en
-
-- b. waarbij er geen sprake is van een combinatie als bedoeld in [bijlage 2a van de Regeling aanvraag en vergelijkende toets vergunningen commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014741&bijlage=2a) en [bijlage 2 van de Regeling aanvraag en vergelijkende toets vergunningen commerciële radio-omroep 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022818&bijlage=2) en, voor zover het betreft de kavels B2, B11 en B26, [bijlage 2a van de Regeling vervolg verdeling frequenties commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0015414&bijlage=2a), waarbij het demografisch bereik van de kleinste FM-frequentie of samenstel van FM-frequenties voor 35 procent of meer valt binnen het demografisch bereik van de andere FM-frequentie of samenstel van FM-frequenties, dan wel, indien dit percentage lager is dan 35 procent, meer dan 100.000 inwoners binnen het demografisch bereik van beide FM-frequenties of samenstellen van FM-frequenties vallen.
-
-2. Het eerste lid, onderdeel b, geldt niet voor combinaties die mede bestaan uit frequenties of samenstellen van frequenties die met toepassing van de [Regeling aanvraag- en veilingprocedure voor vergunningen kavels B27 en B31](https://wetten.overheid.nl/jci1.3:c:BWBR0038511) zijn verdeeld of voor combinaties die mede bestaan uit frequenties of samenstellen van frequenties die na inwerkingtreding van die regeling zijn verdeeld overeenkomstig [artikel 3.10 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10).
+2. Het demografisch bereik van in bijlage 14, tabel 2, genoemde allotments waarin één rechtspersoon vergunningen verwerft of gebruikt, bedraagt tezamen niet meer dan 50 procent.
 
 ##### Artikel 6. Inwerkingtreding
 
@@ -108,15 +104,15 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 3a. Scheiding commerciële radio-omroepmarkten
 
-Eén rechtspersoon gebruikt of verwerft slechts frequentieruimte uit één van de categorieën, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043213&bijlage=1&z=2024-06-20&g=2024-06-20).
+Eén rechtspersoon gebruikt of verwerft slechts frequentieruimte uit één van de categorieën, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043213&bijlage=1&z=2024-11-26&g=2024-11-26).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 3b. Overgangsrecht scheiding commerciële radio-markten
 
-[Artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0043213&artikel=3a&z=2024-06-20&g=2024-06-20), zoals dat luidde vóór inwerkingtreding van de [Regeling aanvraag- en veilingprocedure digitale radio-omroep DAB laag 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049835) blijft van toepassing op frequentieruimte die door een rechtspersoon is verkregen of werd gebruikt vóór inwerkingtreding van de Regeling aanvraag- en veilingprocedure digitale radio-omroep DAB laag 6.
+[Artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0043213&artikel=3a&z=2024-11-26&g=2024-11-26), zoals dat luidde vóór inwerkingtreding van de [Regeling aanvraag- en veilingprocedure digitale radio-omroep DAB laag 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049835) blijft van toepassing op frequentieruimte die door een rechtspersoon is verkregen of werd gebruikt vóór inwerkingtreding van de Regeling aanvraag- en veilingprocedure digitale radio-omroep DAB laag 6.
 
-## Bijlage 1. als bedoeld in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0043213&artikel=3a&z=2024-06-20&g=2024-06-20)
+## Bijlage 1. als bedoeld in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0043213&artikel=3a&z=2024-11-26&g=2024-11-26)
 
 | Vergunningen voor landelijke commerciële radio radio-omroep |
 | --- |
@@ -137,53 +133,42 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 | Vergunningen voor niet-landelijke commerciële radio-omroep |
 | --- |
 | **Pakketten FM en DAB-vergunningen in laag 4** |
-| FM-vergunning B01 met daaraan gekoppeld een DAB-vergunning in allotment 8B |
-| FM-vergunning B02 met daaraan gekoppeld een DAB-vergunning in allotment 8B |
-| FM-vergunning B03 met daaraan gekoppeld een DAB-vergunning in allotment 8B |
-| FM-vergunning B04 met daaraan gekoppeld een DAB-vergunning in allotment 8B |
-| FM-vergunning B05 met daaraan gekoppeld een DAB-vergunning in allotment 8B |
-| FM-vergunning B06 met daaraan gekoppeld een DAB-vergunning in allotment 5B |
-| FM-vergunning B07 met daaraan gekoppeld een DAB-vergunning in allotment 5B |
-| FM-vergunning B08 met daaraan gekoppeld een DAB-vergunning in allotment 5B |
-| FM-vergunning B09 met daaraan gekoppeld een DAB-vergunning in allotment 12B |
-| FM-vergunning B10 met daaraan gekoppeld een DAB-vergunning in allotment 5A |
-| FM-vergunning B11 met daaraan gekoppeld een DAB-vergunning in allotment 5A |
-| FM-vergunning B12 met daaraan gekoppeld een DAB-vergunning in allotment 5A |
-| FM-vergunning B13 met daaraan gekoppeld een DAB-vergunning in allotment 7C-N |
-| FM-vergunning B14 met daaraan gekoppeld een DAB-vergunning in allotment 7C-N |
-| FM-vergunning B15 met daaraan gekoppeld een DAB-vergunning in allotment 7C-N |
-| FM-vergunning B16 met daaraan gekoppeld een DAB-vergunning in allotment 5A |
-| FM-vergunning B17 met daaraan gekoppeld een DAB-vergunning in allotment 6A |
-| FM-vergunning B18 met daaraan gekoppeld een DAB-vergunning in allotment 6A |
-| FM-vergunning B19 met daaraan gekoppeld een DAB-vergunning in allotment 6A |
-| FM-vergunning B20 met daaraan gekoppeld een DAB-vergunning in allotment 12B |
-| FM-vergunning B21 met daaraan gekoppeld een DAB-vergunning in allotment 7C-Z |
-| FM-vergunning B22 met daaraan gekoppeld een DAB-vergunning in allotment 7C-Z |
-| FM-vergunning B23 met daaraan gekoppeld een DAB-vergunning in allotment 7C-Z |
-| FM-vergunning B24 met daaraan gekoppeld een DAB-vergunning in allotment 5B |
-| FM-vergunning B25 met daaraan gekoppeld een DAB-vergunning in allotment 7C-Z |
-| FM-vergunning B26 met daaraan gekoppeld een DAB-vergunning in allotment 7C-N |
-| FM-vergunning B27 met daaraan gekoppeld een DAB-vergunning in allotment 5A |
-| FM-vergunning B28 met daaraan gekoppeld een DAB-vergunning in allotment 6A |
-| FM-vergunning B29 met daaraan gekoppeld een DAB-vergunning in allotment 6A |
-| FM-vergunning B30 met daaraan gekoppeld een DAB-vergunning in allotment 12B |
-| FM-vergunning B31 met daaraan gekoppeld een DAB-vergunning in allotment 7C-Z |
-| FM-vergunning B32 met daaraan gekoppeld een DAB-vergunning in allotment 12B |
-| FM-vergunning B33 met daaraan gekoppeld een DAB-vergunning in allotment 8B |
-| FM-vergunning B34 met daaraan gekoppeld een DAB-vergunning in allotment 7C-N |
-| FM-vergunning B35 met daaraan gekoppeld een DAB-vergunning in allotment 5A |
-| FM-vergunning B36 met daaraan gekoppeld een DAB-vergunning in allotment 12B |
-| FM-vergunning B37 met daaraan gekoppeld een DAB-vergunning in allotment 7C-N |
-| FM-vergunning B38 met daaraan gekoppeld een DAB-vergunning in allotment 7C-Z |
+| Pakket NLCO1 bestaande uit een FM-vergunning voor kavel B01 en een DAB-vergunning in allotment 8B |
+| Pakket NLCO2 bestaande uit een FM-vergunning voor kavel B02 en een DAB-vergunning in allotment 8B |
+| Pakket NLCO3 bestaande uit een FM-vergunning voor kavel B03 en een DAB-vergunning in allotment 8B |
+| Pakket NLCO4 bestaande uit een FM-vergunning voor kavel B04 en een DAB-vergunning in allotment 8B |
+| Pakket NLCO5 bestaande uit een FM-vergunning voor kavel B05 en een DAB-vergunning in allotment 8B |
+| Pakket NLCO6 bestaande uit een FM-vergunning voor kavel B06 en een DAB-vergunning in allotment 5B |
+| Pakket NLCO7 bestaande uit een FM-vergunning voor kavel B07 en een DAB-vergunning in allotment 5B |
+| Pakket NLCO8 bestaande uit een FM-vergunning voor kavel B08 en een DAB-vergunning in allotment 5B |
+| Pakket NLCO9 bestaande uit een FM-vergunning voor kavel B09 en een DAB-vergunning in allotment 12B |
+| Pakket NLCO10 bestaande uit een FM-vergunning voor kavel B10 en een DAB-vergunning in allotment 5A |
+| Pakket NLCO11 bestaande uit een FM-vergunning voor kavel B11 en een DAB-vergunning in allotment 5A |
+| Pakket NLCO12 bestaande uit een FM-vergunning voor kavel B12 en een DAB-vergunning in allotment 5A |
+| Pakket NLCO13 bestaande uit een FM-vergunning voor kavel B13 en een DAB-vergunning in allotment 7C-N |
+| Pakket NLCO14 bestaande uit een FM-vergunning voor kavel B14 en een DAB-vergunning in allotment 7C-N |
+| Pakket NLCO15 bestaande uit een FM-vergunning voor kavel B15 en een DAB-vergunning in allotment 7C-N |
+| Pakket NLCO16 bestaande uit een FM-vergunning voor kavel B16 en een DAB-vergunning in allotment 5A |
+| Pakket NLCO17 bestaande uit een FM-vergunning voor kavel B17 en een DAB-vergunning in allotment 6A |
+| Pakket NLCO18 bestaande uit een FM-vergunning voor kavel B18 en een DAB-vergunning in allotment 6A |
+| Pakket NLCO19 bestaande uit een FM-vergunning voor kavel B19 en een DAB-vergunning in allotment 6A |
+| Pakket NLCO20 bestaande uit een FM-vergunning voor kavel B20 en een DAB-vergunning in allotment 12B |
+| Pakket NLCO21 bestaande uit een FM-vergunning voor kavel B21 en een DAB-vergunning in allotment 7C-Z |
+| Pakket NLCO22 bestaande uit een FM-vergunning voor kavel B22 en een DAB-vergunning in allotment 7C-Z |
+| Pakket NLCO23 bestaande uit een FM-vergunning voor kavel B23 en een DAB-vergunning in allotment 7C-Z |
+| Pakket NLCO24 bestaande uit een FM-vergunning voor kavel B24 en een DAB-vergunning in allotment 5B |
+| Pakket NLCO25 bestaande uit een FM-vergunning voor kavel B25 en een DAB-vergunning in allotment 7C-Z |
+| Pakket NLCO26 bestaande uit een FM-vergunning voor kavel B26 en een DAB-vergunning in allotment 7C-N |
+| Pakket NLCO27 bestaande uit een FM-vergunning voor kavel B27 en een DAB-vergunning in allotment 7C-Z |
 |   |
-| **DAB-only-vergunningen in Laag 4** |
-| DAB-only vergunningen in allotment 5A |
-| DAB-only vergunningen in allotment 5B |
-| DAB-only vergunningen in allotment 6A |
-| DAB-only vergunningen in allotment 7C-N |
-| DAB-only vergunningen in allotment 7C-Z |
-| DAB-only vergunningen in allotment 8B |
-| DAB-only vergunningen in allotment 12B |
+| **DAB-only-vergunningen in laag 4** |
+| DAB-only-vergunningen in allotment 5A |
+| DAB-only-vergunningen in allotment 5B |
+| DAB-only-vergunningen in allotment 6A |
+| DAB-only-vergunningen in allotment 7C-N |
+| DAB-only-vergunningen in allotment 7C-Z |
+| DAB-only-vergunningen in allotment 8B |
+| DAB-only-vergunningen in allotment 12B |
 
 | Vergunningen voor commerciële lokale radio-omroep |
 | --- |
