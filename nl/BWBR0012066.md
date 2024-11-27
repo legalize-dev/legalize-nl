@@ -4,7 +4,7 @@ identifier: "BWBR0012066"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2024-07-01"
+last_updated: "2024-11-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012066"
 soort: "AMvB"
@@ -196,9 +196,9 @@ verminderd met:
 
 - g. de waardedaling van de aandelen of winstbewijzen bij de belastingplichtige in de periode dat hij niet in Nederland belastingplichtig was, voor zover blijkt dat de waardedaling in die periode is ontstaan.
 
-Ingeval aan de in de eerste volzin lid bedoelde verkrijging meerdere vervreemdingen vooraf zijn gegaan ter zake waarvan conserverende belastingaanslagen zijn opgelegd waarvan het uitstel van betaling nog loopt, wordt voor de toepassing van de eerste volzin als uitgangspunt genomen de overdrachtsprijs waarvan is uitgegaan voor de laatste vervreemding en worden vervolgens met overeenkomstige toepassing van [artikel 15a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=4&artikel=15a&z=2025-01-01&g=2024-07-01), de verminderingen en vermeerderingen van de eerste volzin toegepast.
+Ingeval aan de in de eerste volzin lid bedoelde verkrijging meerdere vervreemdingen vooraf zijn gegaan ter zake waarvan conserverende belastingaanslagen zijn opgelegd waarvan het uitstel van betaling nog loopt, wordt voor de toepassing van de eerste volzin als uitgangspunt genomen de overdrachtsprijs waarvan is uitgegaan voor de laatste vervreemding en worden vervolgens met overeenkomstige toepassing van [artikel 15a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=4&artikel=15a&z=2024-01-01&g=2024-11-27), de verminderingen en vermeerderingen van de eerste volzin toegepast.
 
-[Artikel 15a, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=4&artikel=15a&z=2025-01-01&g=2024-07-01), is van overeenkomstige toepassing.
+[Artikel 15a, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=4&artikel=15a&z=2024-01-01&g=2024-11-27), is van overeenkomstige toepassing.
 
 11. Indien de belastingplichtige een aanmerkelijk belang in een vennootschap heeft die middellijk of onmiddellijk aandelen in of winstbewijzen van een in Nederland gevestigde vennootschap heeft en deze aandelen of winstbewijzen, al dan niet rechtstreeks, zijn verkregen van de belastingplichtige bij wie die aandelen of winstbewijzen tot een aanmerkelijk belang behoorden, wordt de verkrijgingsprijs volgens [artikel 4.21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.21) van het eerstbedoelde aanmerkelijk belang verminderd met een bedrag, waarbij deze vermindering kan leiden tot een negatieve verkrijgingsprijs; de vermindering is gelijk aan het bedrag waarmee op het tijdstip van bedoelde verkrijging door de vennootschap de waarde in het economische verkeer van de door de vennootschap van de belastingplichtige verkregen aandelen of winstbewijzen de verkrijgingsprijs volgens artikel 4.21 van de wet van de belastingplichtige van die aandelen of winstbewijzen overtreft. De eerste volzin is niet van toepassing voorzover in Nederland inkomstenbelasting of in een ander land naar het inkomen geheven belasting is betaald over de waardeaangroei van laatstgenoemde aandelen of winstbewijzen die naar Nederlandse maatstaven redelijk is. Voor de berekening van de in het slot van de eerste volzin bedoelde vermindering, wordt de verkrijgingsprijs van de door de belastingplichtige aan de vennootschap vervreemde aandelen of winstbewijzen vermeerderd met de waardeaangroei, bedoeld in het derde lid, tot op het tijdstip van de in het slot van de in de eerste volzin bedoelde verkrijging door die vennootschap onderscheidenlijk verminderd met de waardedaling als bedoeld in het vierde lid tot op het tijdstip van die verkrijging.
 
@@ -210,7 +210,7 @@ Onder natuurterreinen als bedoeld in [artikel 5.7 van de wet](https://wetten.ove
 
 ##### Artikel 18. Waardering; waardering genotsrechten
 
-1. De waarde van een genotsrecht als bedoeld in [artikel 5.22, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.22) wordt gesteld op het overeenkomstig [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=5&artikel=19&z=2025-01-01&g=2024-07-01) tot kapitaal gebrachte bedrag van de jaarlijkse voordelen uit de gerechtigdheid.
+1. De waarde van een genotsrecht als bedoeld in [artikel 5.22, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.22) wordt gesteld op het overeenkomstig [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=5&artikel=19&z=2024-01-01&g=2024-11-27) tot kapitaal gebrachte bedrag van de jaarlijkse voordelen uit de gerechtigdheid.
 
 2. Voor de toepassing van het eerste lid worden de jaarlijkse voordelen gesteld op 4% van de waarde van hetgeen aan het genotsrecht is onderworpen, naar het tijdstip waarop de waardering van het genotsrecht plaatsvindt.
 
@@ -457,9 +457,9 @@ Vervallen
 
 - 2°. de in rekening gebrachte pensioenpremie over het kalenderjaar;
 
-- 3°. de deeltijdfactor, bedoeld in [artikel 11c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=3&artikel=11c&z=2025-01-01&g=2024-07-01);
+- 3°. de deeltijdfactor, bedoeld in [artikel 11c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=3&artikel=11c&z=2024-01-01&g=2024-11-27);
 
-- 4°. de omstandigheid dat het pensioengevend inkomen van de belastingplichtige is bepaald met toepassing van [artikel 11c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=3&artikel=11c&z=2025-01-01&g=2024-07-01);
+- 4°. de omstandigheid dat het pensioengevend inkomen van de belastingplichtige is bepaald met toepassing van [artikel 11c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=3&artikel=11c&z=2024-01-01&g=2024-11-27);
 
 - 5°. indien in het kalenderjaar zich een omstandigheid voordoet als bedoeld in [artikel 3.135, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.135): de omstandigheid die zich heeft voorgedaan en de met toepassing van [artikel 3.137 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.137) bepaalde waarde in het economische verkeer van de aanspraak;
 
@@ -511,7 +511,7 @@ Vervallen
 
 ##### Artikel 24
 
-[Artikel 11a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=3&artikel=11a&z=2025-01-01&g=2024-07-01), is van overeenkomstige toepassing op een overdracht in het kalenderjaar 2001 waarop [hoofdstuk 2, artikel I, onderdeel Db, van de Invoeringswet Wet inkomstenbelasting 2001](onbekend) van toepassing is mits zowel door de ondernemer als degene die de onderneming voortzet, bij de aangifte van de ondernemer is verzocht om toepassing van dat onderdeel.
+[Artikel 11a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=3&artikel=11a&z=2024-01-01&g=2024-11-27), is van overeenkomstige toepassing op een overdracht in het kalenderjaar 2001 waarop [hoofdstuk 2, artikel I, onderdeel Db, van de Invoeringswet Wet inkomstenbelasting 2001](onbekend) van toepassing is mits zowel door de ondernemer als degene die de onderneming voortzet, bij de aangifte van de ondernemer is verzocht om toepassing van dat onderdeel.
 
 ##### Artikel 25. Overgangsrecht inzake aanmerkelijk belang
 
@@ -545,9 +545,9 @@ Vervallen
 
 ##### Artikel 25a. Experimenteerbepaling zelfstandigen
 
-1. [Artikel 1a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=1&artikel=1a&z=2025-01-01&g=2024-07-01), is van overeenkomstige toepassing op de beëindiging van deelname aan een pensioenregeling als bedoeld in [artikel 150a van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=150a).
+1. [Artikel 1a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=1&artikel=1a&z=2024-01-01&g=2024-11-27), is van overeenkomstige toepassing op de beëindiging van deelname aan een pensioenregeling als bedoeld in [artikel 150a van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=150a).
 
-2. [Artikel 11e](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=3&artikel=11e&z=2025-01-01&g=2024-07-01) is van overeenkomstige toepassing op de deelname aan een pensioenregeling als bedoeld in [artikel 150a van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=150a), met dien verstande dat dit alleen geldt voor het eerste jaar van deelname.
+2. [Artikel 11e](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=3&artikel=11e&z=2024-01-01&g=2024-11-27) is van overeenkomstige toepassing op de deelname aan een pensioenregeling als bedoeld in [artikel 150a van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=150a), met dien verstande dat dit alleen geldt voor het eerste jaar van deelname.
 
 ##### Artikel 26. Inwerkingtreding
 
@@ -609,7 +609,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. De aanwijzing kan eveneens plaatsvinden indien de in het tweede lid bedoelde zekerheid niet door de onderneming of instelling maar door de belastingplichtige wordt gesteld, waarbij de belastingplichtige tevens de mogelijkheid heeft zekerheid te stellen door middel van verpanding van de aanspraken op het tegoed van een lijfrenterekening, onderscheidenlijk van de aanspraken op de waarde van een lijfrentebeleggingsrecht aan de ontvanger, mits de onderneming of instelling instemt met deze verpanding.
 
-4. [Artikel 14, vijfde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=3&artikel=14&z=2025-01-01&g=2024-07-01), is van overeenkomstige toepassing.
+4. [Artikel 14, vijfde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=3&artikel=14&z=2024-01-01&g=2024-11-27), is van overeenkomstige toepassing.
 
 ### Hoofdstuk 4. Heffingsgrondslag bij aanmerkelijk belang ([Hoofdstuk 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4))
 
@@ -722,7 +722,7 @@ verminderd met:
 
 ##### Artikel 17b. Waardering woningen; correctie voor erfpachtcanon
 
-De waarde van een erfpachtcanon als bedoeld in [artikel 5.20, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.20) wordt gesteld op het zeventienvoud van het jaarlijkse bedrag. In afwijking van de eerste volzin wordt het deel van een erfpachtcanon dat kan worden toegerekend aan een verhuurde woning als bedoeld in [artikel 17a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=5&artikel=17a&z=2025-01-01&g=2024-07-01), gesteld op het twintigvoud van het jaarlijkse bedrag. De toerekening van de erfpachtcanon, bedoeld in de vorige volzin, geschiedt naar rato van de, met inachtneming van artikel 17a, vierde lid, berekende, WOZ-waarden van de te onderscheiden zelfstandige onderdelen van het gebouwd eigendom waarop de erfpachtcanon betrekking heeft.
+De waarde van een erfpachtcanon als bedoeld in [artikel 5.20, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.20) wordt gesteld op het zeventienvoud van het jaarlijkse bedrag. In afwijking van de eerste volzin wordt het deel van een erfpachtcanon dat kan worden toegerekend aan een verhuurde woning als bedoeld in [artikel 17a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=5&artikel=17a&z=2024-01-01&g=2024-11-27), gesteld op het twintigvoud van het jaarlijkse bedrag. De toerekening van de erfpachtcanon, bedoeld in de vorige volzin, geschiedt naar rato van de, met inachtneming van artikel 17a, vierde lid, berekende, WOZ-waarden van de te onderscheiden zelfstandige onderdelen van het gebouwd eigendom waarop de erfpachtcanon betrekking heeft.
 
 ### Hoofdstuk 9. Overgangs- en slotbepalingen ([Hoofdstuk 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=11))
 
@@ -890,7 +890,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 5. De inspecteur kan de administratieplichtige de mogelijkheid bieden de gegevens en inlichtingen in afwijking van het vierde lid gedurende het kalenderjaar waarop de gegevens en inlichtingen betrekking hebben te verstrekken.
 
-6. [Artikel 22, zesde lid, aanhef en onderdelen a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=8&artikel=22&z=2025-01-01&g=2024-07-01), is van overeenkomstige toepassing.
+6. [Artikel 22, zesde lid, aanhef en onderdelen a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=8&artikel=22&z=2024-01-01&g=2024-11-27), is van overeenkomstige toepassing.
 
 ### Hoofdstuk 9. Overgangs- en slotbepalingen ([Hoofdstuk 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=11))
 
@@ -898,13 +898,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 25b. Overgangsrecht vrijwillige voortzetting
 
-In afwijking van [artikel 1a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=1&artikel=1a&z=2025-01-01&g=2024-07-01), geldt voor de toepassing van artikel 1a, eerste lid, onderdeel a, een termijn van vijftien jaar indien de arbeidsverhouding op grond waarvan de deelneming aan een pensioenregeling als bedoeld in [artikel 1.7, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.7), was verplicht, is geëindigd voor het tijdstip van inwerkingtreding van de Wet toekomst pensioenen en voor zover gedurende de periode van vrijwillige voortzetting winst uit onderneming wordt genoten als bedoeld in [artikel 3.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.8).
+In afwijking van [artikel 1a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=1&artikel=1a&z=2024-01-01&g=2024-11-27), geldt voor de toepassing van artikel 1a, eerste lid, onderdeel a, een termijn van vijftien jaar indien de arbeidsverhouding op grond waarvan de deelneming aan een pensioenregeling als bedoeld in [artikel 1.7, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.7), was verplicht, is geëindigd voor het tijdstip van inwerkingtreding van de Wet toekomst pensioenen en voor zover gedurende de periode van vrijwillige voortzetting winst uit onderneming wordt genoten als bedoeld in [artikel 3.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.8).
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 ##### Artikel 15bis. Vaststelling gezamenlijk maximumbedrag bij aanvang partnerschap
 
-Indien het partnerschap in de loop van het kalenderjaar is aangevangen, wordt het gezamenlijke maximumbedrag, bedoeld in [artikel 4.14a, derde lid, tweede zin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.14a), gesteld op het bedrag genoemd in artikel 4.14a, tweede lid, van de wet, vermeerderd met de bedragen die bij de belastingplichtige of zijn partner over een eerdere periode in aanmerking zijn genomen als fictief regulier voordeel als bedoeld in artikel 4.14a, eerste lid, van de wet. Indien de belastingplichtige of zijn partner in het kalenderjaar waarin het partnerschap aanvangt eerder een partnerschap heeft gehad, is voor de toepassing van de eerste zin [artikel 15ter](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=4&artikel=15ter&z=2025-01-01&g=2024-07-01) van overeenkomstige toepassing.
+Indien het partnerschap in de loop van het kalenderjaar is aangevangen, wordt het gezamenlijke maximumbedrag, bedoeld in [artikel 4.14a, derde lid, tweede zin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.14a), gesteld op het bedrag genoemd in artikel 4.14a, tweede lid, van de wet, vermeerderd met de bedragen die bij de belastingplichtige of zijn partner over een eerdere periode in aanmerking zijn genomen als fictief regulier voordeel als bedoeld in artikel 4.14a, eerste lid, van de wet. Indien de belastingplichtige of zijn partner in het kalenderjaar waarin het partnerschap aanvangt eerder een partnerschap heeft gehad, is voor de toepassing van de eerste zin [artikel 15ter](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=4&artikel=15ter&z=2024-01-01&g=2024-11-27) van overeenkomstige toepassing.
 
 ##### Artikel 15ter. Vaststelling individueel maximumbedrag bij einde partnerschap
 
