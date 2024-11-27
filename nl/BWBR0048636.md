@@ -4,7 +4,7 @@ identifier: "BWBR0048636"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-11-27"
-last_updated: "2023-11-25"
+last_updated: "2024-11-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048636"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ Voor subsidieverlening op grond van [artikel 5.1](https://wetten.overheid.nl/jci
 
 4. Aanvragen voor subsidie in de derde openstelling van het Subsidieprogramma Orange Corners Innovation Fund 2024–2030 zijn gericht op de doellocaties Bangladesh, Centraal Irak, de Koerdische Regio in Irak, Mali, Burundi, Zuid-Soedan, Soedan en Tunesië en worden ingediend van 6 mei 2024 tot en met 17 juni 2024, 12:00 uur ’s middags Nederlandse tijd.
 
-5. Aanvragen voor subsidies in het kader van het Subsidieprogramma Orange Corners Innovation Fund 2024–2030 worden ingediend aan de hand van een door de Minister beschikbaar gesteld formulier en voorzien van de op het aanvraagformulier gevraagde bescheiden1[www.rvo.nl/ocif](onbekend).
+5. Aanvragen voor subsidies in het kader van het Subsidieprogramma Orange Corners Innovation Fund 2024–2030 worden ingediend aan de hand van een door de Minister beschikbaar gesteld formulier en voorzien van de op het aanvraagformulier gevraagde bescheiden1[www.rvo.nl/ocif](http://www.rvo.nl/ocif).
 
 ##### Artikel 3
 
@@ -66,7 +66,7 @@ Voor subsidieverlening op grond van [artikel 5.1](https://wetten.overheid.nl/jci
 
 ##### Artikel 4
 
-De verdeling van de subsidieplafonds bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048636&artikel=3&z=2023-11-25&g=2023-11-25), vindt plaats op grond van een beoordeling overeenkomstig de maatstaven die in de bijlage bij dit besluit zijn neergelegd, met dien verstande dat uit alle aanvragen die voldoen aan de maatstaven, de aanvragen die het beste voldoen aan die maatstaven het eerst voor subsidieverlening in aanmerking komen.
+De verdeling van de subsidieplafonds bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048636&artikel=3&z=2024-11-27&g=2024-11-27), vindt plaats op grond van een beoordeling overeenkomstig de maatstaven die in de bijlage bij dit besluit zijn neergelegd, met dien verstande dat uit alle aanvragen die voldoen aan de maatstaven, de aanvragen die het beste voldoen aan die maatstaven het eerst voor subsidieverlening in aanmerking komen.
 
 ##### Artikel 5
 
@@ -76,13 +76,13 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 ### 1. Achtergrond
 
-Nederland wil graag bijdragen aan het versnellen van duurzame (economische) ontwikkeling en werkgelegenheid door het stimuleren van ondernemerschap over de gehele wereld, met een bijzondere focus op jongeren in ontwikkelingslanden. Jeugdwerkgelegenheid en jong ondernemerschap zijn bijzondere prioriteiten in het ontwikkelingsbeleid van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking (hierna de Minister)2[www.rijksoverheid.nl/documenten/beleidsnotas/2022/06/24/beleidsnotitie-buitenlandse-handel-en-ontwikkelingssamenwerking](onbekend) en de zogeheten ‘Youth at Heart’3[www.youthatheart.nl](onbekend) strategie. Jonge ondernemers hebben de kracht en vindingrijkheid om concrete oplossingen voor lokale maatschappelijke uitdagingen te ontwikkelen. Dit kan werkgelegenheid en innovatie stimuleren. Dit wordt ook erkend in resolutie 73/225 ('Entrepreneurship for sustainable development')4[https://digitallibrary.un.org/record/1660776](onbekend), aangenomen door de Algemene Vergadering van de Verenigde Naties op 20 december 2018, die de centrale rol van ondernemerschap binnen duurzame ontwikkeling benadrukt en erkent dat ondernemerschap duurzame economische groei bevordert via onder meer de creatie van eerlijke en waardige banen, duurzame landbouw en het stimuleren van innovatie.
+Nederland wil graag bijdragen aan het versnellen van duurzame (economische) ontwikkeling en werkgelegenheid door het stimuleren van ondernemerschap over de gehele wereld, met een bijzondere focus op jongeren in ontwikkelingslanden. Jeugdwerkgelegenheid en jong ondernemerschap zijn bijzondere prioriteiten in het ontwikkelingsbeleid van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking (hierna de Minister)2[www.rijksoverheid.nl/documenten/beleidsnotas/2022/06/24/beleidsnotitie-buitenlandse-handel-en-ontwikkelingssamenwerking](http://www.rijksoverheid.nl/documenten/beleidsnotas/2022/06/24/beleidsnotitie-buitenlandse-handel-en-ontwikkelingssamenwerking) en de zogeheten ‘Youth at Heart’3[www.youthatheart.nl](http://www.youthatheart.nl) strategie. Jonge ondernemers hebben de kracht en vindingrijkheid om concrete oplossingen voor lokale maatschappelijke uitdagingen te ontwikkelen. Dit kan werkgelegenheid en innovatie stimuleren. Dit wordt ook erkend in resolutie 73/225 ('Entrepreneurship for sustainable development')4[https://digitallibrary.un.org/record/1660776](https://digitallibrary.un.org/record/1660776), aangenomen door de Algemene Vergadering van de Verenigde Naties op 20 december 2018, die de centrale rol van ondernemerschap binnen duurzame ontwikkeling benadrukt en erkent dat ondernemerschap duurzame economische groei bevordert via onder meer de creatie van eerlijke en waardige banen, duurzame landbouw en het stimuleren van innovatie.
 
 Startups in Afrika, het Midden-Oosten en Azië hebben ondersteuning nodig op zowel kennis- als financieringsgebied, om innovaties te ontwikkelen en op te schalen. Met name in de pre-commerciële fase van een innovatietraject (Ideation, Research and Development, en Proof of Concept), waarin het idee getest en een prototype ontwikkeld wordt, is beperkt financiering aanwezig. Vaak is het voor ondernemers in ontwikkelingslanden onmogelijk om het voor deze fase benodigde kapitaal aan te trekken. Dit komt mede door het onaantrekkelijke risicoprofiel en de hoge rente op leningen bij lokale banken. In deze fase moeten ondernemingen worden ondersteund om de zogenoemde pioneer gap te overbruggen om vervolgens te kunnen groeien.
 
 Gezien de ruime ervaring van Nederland op het gebied van ondernemerschap, is Nederland goed gepositioneerd om deze uitdagingen te helpen aanpakken en jonge ondernemers te ondersteunen in het opzetten en laten groeien van hun eigen onderneming.
 
-Daarom heeft de Minister, als aanvulling op het bestaande Orange Corners incubatie-/acceleratiecomponent (OCIAC)5[https://orangecorners.com](onbekend) dat jonge ondernemers toegang geeft tot trainingen, netwerken en faciliteiten om hun onderneming te starten of op te schalen, het subsidieprogramma Orange Corners Innovation Fund (hierna: subsidieprogramma) gelanceerd. Orange Corners Innovation Fund is als pilot gestart in 2019 en is sinds 2021 een subsidieprogramma. Gebleken is dat het verstrekken van vroege financiering tegen soepele voorwaarden leidt tot groei van ondernemingen en een toename van banen. Deze positieve impact maakt dat de Minister dit initiatief wil voortzetten. Hierbij wordt gebruik gemaakt van de geleerde lessen gedurende de afgelopen jaren: Er zal meer aandacht gegeven worden aan het verbeteren van de investment readiness van deelnemende ondernemingen en het verkrijgen van (commerciële) vervolgfinanciering.
+Daarom heeft de Minister, als aanvulling op het bestaande Orange Corners incubatie-/acceleratiecomponent (OCIAC)5[https://orangecorners.com](https://orangecorners.com) dat jonge ondernemers toegang geeft tot trainingen, netwerken en faciliteiten om hun onderneming te starten of op te schalen, het subsidieprogramma Orange Corners Innovation Fund (hierna: subsidieprogramma) gelanceerd. Orange Corners Innovation Fund is als pilot gestart in 2019 en is sinds 2021 een subsidieprogramma. Gebleken is dat het verstrekken van vroege financiering tegen soepele voorwaarden leidt tot groei van ondernemingen en een toename van banen. Deze positieve impact maakt dat de Minister dit initiatief wil voortzetten. Hierbij wordt gebruik gemaakt van de geleerde lessen gedurende de afgelopen jaren: Er zal meer aandacht gegeven worden aan het verbeteren van de investment readiness van deelnemende ondernemingen en het verkrijgen van (commerciële) vervolgfinanciering.
 
 Het subsidieprogramma richt zich op de ondersteuning van startups die zich in de eerste fase van een innovatietraject bevinden. De ondersteuning zal plaatsvinden in de landen waar een OCIAC actief is en in Tunesië. Per doellocatie zal op basis van specifieke wensen en behoeften maatwerk voor de deelnemende startups worden geleverd.
 
@@ -108,13 +108,19 @@ Op de lange termijn heeft het subsidieprogramma als doel om jonge ondernemers in
 
 Het subsidieprogramma is gericht op financiering van activiteiten in Ivoorkust, Ghana, Marokko, Nigeria, Senegal, Centraal Irak, de Koerdische Regio in Irak, Soedan en Mozambique. En in de nieuwe doellocaties Algerije, Angola, Bangladesh, Burundi, Democratische Republiek Congo, Egypte, Jordanië, Mali, de Palestijnse Gebieden, Tunesië, Zuid-Afrika en Zuid-Soedan.
 
-Op de website van OCIAC6[https://orangecorners.com](onbekend) is meer informatie te vinden over de specifieke regio’s in de doellocaties.
+Op de website van OCIAC6[https://orangecorners.com](https://orangecorners.com) is meer informatie te vinden over de specifieke regio’s in de doellocaties.
 
-De uiteindelijke doelgroep in deze doellocaties zijn startups met een innovatief ondernemingsplan7OECD definitie van innovatie binnen ondernemingen beschreven in de Oslo Manual 2018 zie [https://www.oecd.org/science/oslo-manual-2018-9789264304604-en.htm](onbekend) die, bij voorkeur, deel hebben genomen aan een onderdeel van het OCIAC. Alle via het subsidieprogramma ondersteunde activiteiten dienen bij te dragen aan het verbeteren van het lokale ondernemerschapsklimaat.
+De uiteindelijke doelgroep in deze doellocaties zijn startups met een innovatief ondernemingsplan7OECD definitie van innovatie binnen ondernemingen beschreven in de Oslo Manual 2018 zie [https://www.oecd.org/science/oslo-manual-2018-9789264304604-en.htm](https://www.oecd.org/science/oslo-manual-2018-9789264304604-en.htm) die, bij voorkeur, deel hebben genomen aan een onderdeel van het OCIAC. Alle via het subsidieprogramma ondersteunde activiteiten dienen bij te dragen aan het verbeteren van het lokale ondernemerschapsklimaat.
 
 ### 4.3. Wie kunnen in aanmerking komen voor een subsidie
 
-Voor subsidie in het kader van het subsidieprogramma kunnen in aanmerking komen een lokale onderneming of een lokale maatschappelijke organisatie. De volgende eisen worden gesteld aan de aanvrager.
+Voor subsidie in het kader van het subsidieprogramma kunnen in aanmerking komen:
+
+Indien er sprake is van een samenwerkingsverband dan geldt:
+
+Een internationale onderneming onderscheidt zich van een lokale onderneming door:
+
+### 4.4. Adviestraject
 
 De aanvrager:
 
@@ -122,11 +128,11 @@ Ten aanzien van de aanvrager die in het kader van het subsidieprogramma subsidie
 
 ### 4.4. Adviestraject
 
-Voordat een aanvraag voor subsidie kan worden ingediend dient een verplicht adviestraject te worden doorlopen aan de hand van een daartoe ingediende quick scan9Zie [www.rvo.nl/ocif](onbekend). Het adviestraject eindigt met een advies van een RVO-adviseur. De uitkomst van het adviestraject is niet bindend. Het staat de aanvrager vrij om na het advies wel of niet een subsidieaanvraag in te dienen. Als de aanvrager vervolgens besluit om een aanvraag in te dienen, is en blijft het de verantwoordelijkheid van de aanvrager om aan te tonen dat aan de vereisten om voor subsidie in aanmerking te komen is voldaan.
+Voordat een aanvraag voor subsidie kan worden ingediend dient een verplicht adviestraject te worden doorlopen aan de hand van een daartoe ingediende quick scan9Zie [www.rvo.nl/ocif](http://www.rvo.nl/ocif). Het adviestraject eindigt met een advies van een RVO-adviseur. De uitkomst van het adviestraject is niet bindend. Het staat de aanvrager vrij om na het advies wel of niet een subsidieaanvraag in te dienen. Als de aanvrager vervolgens besluit om een aanvraag in te dienen, is en blijft het de verantwoordelijkheid van de aanvrager om aan te tonen dat aan de vereisten om voor subsidie in aanmerking te komen is voldaan.
 
 Aangezien met de verwerking van een verzoek om een quick scan drie weken is gemoeid, kunnen quick scans niet later worden ingediend dan drie weken voor sluiting van de aanvraagtermijn van een openstelling.
 
-### 4.5. Subsidiabele activiteiten
+Track II-activiteiten betreffen verdere ondersteuning van de meest veelbelovende ondernemingen die bij voorkeur de activiteiten uit Track I hebben doorlopen. Deze ondernemingen worden geselecteerd tijdens een of meerdere selectiedagen. Deze ondernemingen krijgen toegang tot een groter kapitaal. Het kapitaal kan opgebouwd worden uit een deel lening (al dan niet rentedragend) en/of een gift. De opbouw van het kapitaal is afhankelijk van de lokale context maar mag niet hoger zijn dan € 50.000,– per individuele ondernemer. Het kapitaal zal aan de ondernemer uitgekeerd worden in verschillende tranches op basis van vooraf afgestemde Key Performance Indicators (KPI’s). De subsidieaanvrager ontwikkelt hiervoor een uitvoeringsplan en selectieproces.
 
 Voor een subsidie in het kader van het subsidieprogramma komen de volgende activiteiten in aanmerking.
 
@@ -134,25 +140,25 @@ Track I-activiteiten betreffen ondersteuning van deelnemers aan het OCIAC (incub
 
 Track II-activiteiten betreffen verdere ondersteuning van de meest veelbelovende ondernemingen die bij voorkeur de activiteiten uit Track I hebben doorlopen. Deze ondernemingen worden geselecteerd tijdens een of meerdere selectiedagen. Deze ondernemingen krijgen toegang tot een groter kapitaal. Het kapitaal kan opgebouwd worden uit een deel lening (al dan niet rentedragend) en/of een gift. De opbouw van het kapitaal is afhankelijk van de lokale context maar mag niet hoger zijn dan € 50.000,– per individuele ondernemer. Het kapitaal zal aan de ondernemer uitgekeerd worden in verschillende tranches op basis van vooraf afgestemde Key Performance Indicators (KPI’s). De subsidieaanvrager ontwikkelt hiervoor een uitvoeringsplan en selectieproces.
 
-In de praktijk blijkt dat ondanks deelname aan incubatie- of acceleratieprogramma’s de geselecteerde ondernemers nog altijd niet in staat zijn om te voldoen aan alle eisen voor een commerciële lening. Door middel van additionele training, coaching en mentoring kan de investment readiness worden vergroot. Deze technische assistentie zal gebaseerd worden op een needs assessment en afgestemd moeten worden met het OCIAC.
-
-Een aantal jonge ondernemers zal vervolgfinanciering nodig hebben om de onderneming verder te laten groeien. Er kunnen daarom activiteiten worden georganiseerd om ondernemers in contact te brengen met (internationale) investeerders. Dit kunnen bijvoorbeeld angel investeerders zijn, Venture Capital funds, commerciële banken of andere relevante partijen. Daarbij zal zoveel mogelijk aansluiting worden gezocht met andere programma’s en fondsen die worden gefinancierd door de Nederlandse overheid. Daarnaast ligt er een kans om de toegang tot markten te verbeteren door jonge ondernemers uit verschillende doellocaties actief met elkaar in contact te brengen.
-
-In ieder geval niet subsidiabel zijn activiteiten waarvoor reeds rechtstreeks een subsidie of bijdrage ten laste van de begroting van het Ministerie van Buitenlandse Zaken wordt ontvangen.
-
 ### 4.6. Looptijd van de activiteiten
 
-De activiteiten waarvoor subsidie wordt gevraagd moeten een looptijd hebben van minimaal 6 jaar en uiterlijk op 31 december 2030 afgerond zijn. De activiteiten moeten starten binnen 4 maanden na subsidieverlening en dienen zoveel mogelijk parallel te lopen aan de uitvoer van het OCIAC in de doellocatie.
+Een aantal jonge ondernemers zal vervolgfinanciering nodig hebben om de onderneming verder te laten groeien. Er kunnen daarom activiteiten worden georganiseerd om ondernemers in contact te brengen met (internationale) investeerders. Dit kunnen bijvoorbeeld angel investeerders zijn, Venture Capital funds, commerciële banken of andere relevante partijen. Daarbij zal zoveel mogelijk aansluiting worden gezocht met andere programma’s en fondsen die worden gefinancierd door de Nederlandse overheid. Daarnaast ligt er een kans om de toegang tot markten te verbeteren door jonge ondernemers uit verschillende doellocaties actief met elkaar in contact te brengen.
 
 ### 4.7. Omvang van de subsidie
 
 De subsidie bedraagt per aanvraag maximaal 95% van de subsidiabele kosten tot een maximum van € 2.200.000. De omvang van de aangevraagde subsidie is niet lager dan € 1.800.000.
 
+De activiteiten waarvoor subsidie wordt gevraagd moeten een looptijd hebben van minimaal 6 jaar en uiterlijk op 31 december 2030 afgerond zijn. De activiteiten moeten starten binnen 4 maanden na subsidieverlening en dienen zoveel mogelijk parallel te lopen aan de uitvoer van het OCIAC in de doellocatie.
+
+### 4.7. Omvang van de subsidie
+
+### 5.1. Uitgangspunten
+
 Het voorgaande betekent dat de eigen bijdrage minimaal 5% van de subsidiabele kosten moet zijn. Dit kan na afloop van de looptijd van de activiteiten verrekend worden met (een deel) van de terugbetaalde leningen in Track II (zie paragraaf 5.1).
 
 ### 5. Subsidiabele kosten
 
-### 5.1. Uitgangspunten
+Subsidiabele kosten zijn de volgende door de aanvrager zelf te maken kosten:
 
 Voor het bepalen van (de omvang van) de kosten die in aanmerking kunnen worden genomen bij het bepalen van de hoogte van de te verlenen subsidie gelden de volgende uitgangspunten:
 
@@ -160,23 +166,23 @@ Voor het bepalen van (de omvang van) de kosten die in aanmerking kunnen worden g
 
 Subsidiabele kosten zijn de volgende door de aanvrager zelf te maken kosten:
 
-Waarbij voor het soort activiteiten zoals opgenomen in paragraaf 4.5 in het bijzonder geldt:
+### 6. Aanvraag
 
 ### 5.3. Niet-subsidiabele kosten
 
 Niet subsidiabel zijn in ieder geval de volgende kosten:
 
-### 6. Aanvraag
-
-### 6.1. Vereisten
-
-Voordat de aanvrager in het kader van het subsidieprogramma een aanvraag doet, dient deze een advies van RVO te hebben verkregen zoals beschreven in paragraaf 4.4 (advies naar aanleiding van ‘quick scan’).
-
 De aanvraag wordt ingediend in de Engelse taal met gebruikmaking van een daartoe op de website van RVO beschikbaar gesteld formulier en voorzien van de daarin genoemde bijlagen waarvoor modellen beschikbaar worden gesteld door RVO11[https://english.rvo.nl/subsidies-programmes/orange-corners-training-programmes](onbekend).
 
 De aanvraag bevat in ieder geval:
 
-Tevens moet de aanvrager verklaren op de hoogte te zijn en te zullen handelen naar de OESO richtlijnen13[www.oesorichtlijnen.nl](onbekend). Ook dient de aanvrager op de hoogte te zijn van de FMO-uitsluitingslijst en geen activiteiten uit te voeren die op deze lijst benoemd staan14[www.fmo.nl/exclusion-list](onbekend). In aanvulling hierop gelden ook de IFC Performance Standards. De aanvrager dient te verklaren van deze richtlijnen op de hoogte te zijn en deze te onderschrijven. De aanvrager dient feiten of omstandigheden die wijzen op het schenden van deze richtlijnen onverwijld te melden bij RVO. De aanvrager moet open staan voor verbetering als dat wordt geïdentificeerd.
+Voordat de aanvrager in het kader van het subsidieprogramma een aanvraag doet, dient deze een advies van RVO te hebben verkregen zoals beschreven in paragraaf 4.4 (advies naar aanleiding van ‘quick scan’).
+
+### 6.2. Herstelperiode
+
+De aanvraag bevat in ieder geval:
+
+Tevens moet de aanvrager verklaren op de hoogte te zijn en te zullen handelen naar de OESO richtlijnen13[www.oesorichtlijnen.nl](http://www.oesorichtlijnen.nl). Ook dient de aanvrager op de hoogte te zijn van de FMO-uitsluitingslijst en geen activiteiten uit te voeren die op deze lijst benoemd staan14[www.fmo.nl/exclusion-list](http://www.fmo.nl/exclusion-list). In aanvulling hierop gelden ook de IFC Performance Standards. De aanvrager dient te verklaren van deze richtlijnen op de hoogte te zijn en deze te onderschrijven. De aanvrager dient feiten of omstandigheden die wijzen op het schenden van deze richtlijnen onverwijld te melden bij RVO. De aanvrager moet open staan voor verbetering als dat wordt geïdentificeerd.
 
 ### 6.2. Herstelperiode
 
@@ -184,7 +190,7 @@ In het kader van de aanvraagprocedure wordt met nadruk gewezen op [artikel 7, de
 
 Kortheidshalve verwijzen naar andere onderdelen van de aanvraag, websites of bijlagen is niet voldoende, tenzij in de aanvraagdocumenten uitdrukkelijk is aangegeven dat daarmee (geheel of gedeeltelijk) kan worden volstaan. Indien onderdelen van de aanvraagdocumenten niet worden ingevuld loopt de aanvrager het risico op afwijzing van de aanvraag.
 
-### 7. Beoordeling en verdeling beschikbare middelen
+De volgende criteria zijn van toepassing, waarbij per set van criteria het maximale aantal te behalen punten is aangegeven:
 
 De bepalingen van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537), het [Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039) en de [Subsidieregeling Ministerie van Buitenlandse Zaken 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019366) zijn onverkort van toepassing op de beoordeling van aanvragen en de uiteindelijke subsidieverstrekking in het kader van het subsidieprogramma. De aanvragen worden beoordeeld met inachtneming van deze regelgeving en overeenkomstig de maatstaven die in het subsidieprogramma zijn neergelegd.
 
@@ -194,15 +200,9 @@ De volgende criteria zijn van toepassing, waarbij per set van criteria het maxim
 
 De mate waarin de aanvrager beschikt over de volgende ervaring of competenties:
 
-In aanvulling op de randvoorwaarde dat de aanvrager moet voldoen aan de OESO-richtlijnen:
-
-Ter ondersteuning van de beoordeling kan RVO verificatieactiviteiten uitvoeren ter controle van de in de aanvraag gemaakte aannames en stellingnames. Een referentieonderzoek kan hier deel van uitmaken. Tevens kan door verificatie informatie die nodig is voor een goede beoordeling van de kwaliteit van de aanvraag verzameld worden.
-
-RVO kan tijdens de inhoudelijke beoordeling ook advies inwinnen bij externe experts. De Ambassades van het Koninkrijk der Nederlanden worden altijd gevraagd deel te nemen aan de beoordeling van de aanvragen, in het bijzonder de factoren betreffende de aansluiting van de aanvragen op hun beleid en de inbedding in de lokale context.
-
 ### 8. Afwijzingsgronden
 
-Naast het bepaalde in [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) wordt een aanvraag voor subsidie afgewezen als er niet voldaan wordt aan het bepaalde in het subsidieprogramma of indien het beschikbare subsidiebudget ontoereikend is.
+Ter ondersteuning van de beoordeling kan RVO verificatieactiviteiten uitvoeren ter controle van de in de aanvraag gemaakte aannames en stellingnames. Een referentieonderzoek kan hier deel van uitmaken. Tevens kan door verificatie informatie die nodig is voor een goede beoordeling van de kwaliteit van de aanvraag verzameld worden.
 
 ### 9. Toezicht
 
@@ -212,17 +212,63 @@ RVO zal een steekproefsgewijze controle uitvoeren op het correcte gebruik van de
 
 Aan de subsidieverlening worden verplichtingen verbonden, die worden opgenomen in de beschikking.
 
+RVO zal een steekproefsgewijze controle uitvoeren op het correcte gebruik van de subsidie waarbij op grond van de afgegeven beschikkingen wordt gecontroleerd op rechtmatigheid en doelmatigheid.
+
+In de beschikking zal ook een inceptie periode van drie maanden worden opgenomen. Deze periode dient om de samenwerking met de subsidieontvanger van het OCIAC af te stemmen en waar nodig elementen aan te passen om duplicatie te voorkomen en synergie te waarborgen. Aan het eind van deze drie maanden levert de subsidieontvanger een, met de OCIAC subsidieontvanger, afgestemd plan van aanpak op voor de uitvoering van de activiteiten.
+
+Aan de subsidieverlening worden verplichtingen verbonden, die worden opgenomen in de beschikking.
+
 In de beschikking zal in ieder geval een meldingsplicht worden opgenomen. De subsidieontvanger heeft de plicht om aan RVO te melden wanneer hij niet (geheel) aan de verplichtingen van de subsidie kan voldoen en/of de activiteiten waarvoor subsidie is verleend niet (geheel) kan uitvoeren. Ook zal een verplichting worden opgenomen dat de subsidieontvanger en de eerste wezenlijke toeleverancier geen gebruik maken van kinderarbeid en/of dwangarbeid15elke vorm van arbeid die de Internationale Arbeidsorganisatie beoogt te verhinderen met het Verdrag betreffende den gedwongen of verplichten arbeid, 1930 (C29), het Verdrag betreffende de afschaffing van gedwongen arbeid, 1957 (C 105), het Verdrag betreffende de minimumleeftijd, 1973.. De subsidieontvanger dient eventuele feiten of omstandigheden die wijzen op kinder- of dwangarbeid bij deze organisaties eveneens onverwijld te melden bij RVO.
 
 In de beschikking zal ook een inceptie periode van drie maanden worden opgenomen. Deze periode dient om de samenwerking met de subsidieontvanger van het OCIAC af te stemmen en waar nodig elementen aan te passen om duplicatie te voorkomen en synergie te waarborgen. Aan het eind van deze drie maanden levert de subsidieontvanger een, met de OCIAC subsidieontvanger, afgestemd plan van aanpak op voor de uitvoering van de activiteiten.
 
 In de rapportageverplichting zal onder meer worden opgenomen dat de subsidieontvanger halverwege en na afloop van de periode van subsidiabele activiteiten een controle door een onafhankelijke externe accountant dient te laten uitvoeren.
 
-De subsidieontvanger zal ook worden gevraagd om een jaar na afloop van de activiteiten een rapportage op te leveren over de voortgang van de ondersteunde ondernemers. Deze rapportage zal door de RVO worden gebruikt om de duurzaamheid van het subsidieprogramma te onderzoeken.
+### 11. Administratieve lasten
 
 Omdat er grote waarde wordt gehecht aan adaptief programmeren hebben de subsidieontvangers de mogelijkheid om gedurende de looptijd van de activiteiten het plan van aanpak aan te passen indien er nieuwe inzichten of situaties voordoen. De subsidieontvanger zal deze inzichten beschrijven in het jaarlijkse rapport en een wijzigingsverzoek indienen wanneer zij elementen willen aanpassen.
 
-Verder kan in de beschikking worden opgenomen dat het de verantwoordelijkheid van de subsidieontvanger is om zich er van te verzekeren dat de organisaties of personen met wie men wil samenwerken geen organisaties en/of personen zijn die op de internationale EU- en VN- sanctielijsten staan16[www.rijksoverheid.nl/onderwerpen/internationale-sancties/beleid-voor-internationale-sancties](onbekend). Deze zijn namelijk uitgesloten van financiering. Deze verplichting zal in voorkomend geval zo worden vormgegeven dat de subsidieontvanger haar moet laten doorwerken in afspraken met derden.
+Dit besluit zal met de bijlage in de Staatscourant worden geplaatst.
+
+De volgende eisen worden gesteld aan de aanvrager.
+
+### 4.5. Subsidiabele activiteiten
+
+In de praktijk blijkt dat ondanks deelname aan incubatie- of acceleratieprogramma’s de geselecteerde ondernemers nog altijd niet in staat zijn om te voldoen aan alle eisen voor een commerciële lening. Door middel van additionele training, coaching en mentoring kan de investment readiness worden vergroot. Deze technische assistentie zal gebaseerd worden op een needs assessment en afgestemd moeten worden met het OCIAC.
+
+In ieder geval niet subsidiabel zijn activiteiten waarvoor reeds rechtstreeks een subsidie of bijdrage ten laste van de begroting van het Ministerie van Buitenlandse Zaken wordt ontvangen.
+
+### 4.6. Looptijd van de activiteiten
+
+De subsidie bedraagt per aanvraag maximaal 95% van de subsidiabele kosten tot een maximum van € 2.200.000. De omvang van de aangevraagde subsidie is niet lager dan € 1.800.000.
+
+### 5.1. Uitgangspunten
+
+Waarbij voor het soort activiteiten zoals opgenomen in paragraaf 4.5 in het bijzonder geldt:
+
+### 6. Aanvraag
+
+### 6.1. Vereisten
+
+De aanvraag wordt ingediend in de Engelse taal met gebruikmaking van een daartoe op de website van RVO beschikbaar gesteld formulier en voorzien van de daarin genoemde bijlagen waarvoor modellen beschikbaar worden gesteld door RVO11[https://english.rvo.nl/subsidies-programmes/orange-corners-training-programmes](https://english.rvo.nl/subsidies-programmes/orange-corners-training-programmes).
+
+### 7. Beoordeling en verdeling beschikbare middelen
+
+In aanvulling op de randvoorwaarde dat de aanvrager moet voldoen aan de OESO-richtlijnen:
+
+RVO kan tijdens de inhoudelijke beoordeling ook advies inwinnen bij externe experts. De Ambassades van het Koninkrijk der Nederlanden worden altijd gevraagd deel te nemen aan de beoordeling van de aanvragen, in het bijzonder de factoren betreffende de aansluiting van de aanvragen op hun beleid en de inbedding in de lokale context.
+
+### 8. Afwijzingsgronden
+
+Naast het bepaalde in [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) wordt een aanvraag voor subsidie afgewezen als er niet voldaan wordt aan het bepaalde in het subsidieprogramma of indien het beschikbare subsidiebudget ontoereikend is.
+
+### 9. Toezicht
+
+### 10. Verplichtingen
+
+De subsidieontvanger zal ook worden gevraagd om een jaar na afloop van de activiteiten een rapportage op te leveren over de voortgang van de ondersteunde ondernemers. Deze rapportage zal door de RVO worden gebruikt om de duurzaamheid van het subsidieprogramma te onderzoeken.
+
+Verder kan in de beschikking worden opgenomen dat het de verantwoordelijkheid van de subsidieontvanger is om zich er van te verzekeren dat de organisaties of personen met wie men wil samenwerken geen organisaties en/of personen zijn die op de internationale EU- en VN- sanctielijsten staan16[www.rijksoverheid.nl/onderwerpen/internationale-sancties/beleid-voor-internationale-sancties](http://www.rijksoverheid.nl/onderwerpen/internationale-sancties/beleid-voor-internationale-sancties). Deze zijn namelijk uitgesloten van financiering. Deze verplichting zal in voorkomend geval zo worden vormgegeven dat de subsidieontvanger haar moet laten doorwerken in afspraken met derden.
 
 ### 11. Administratieve lasten
 
