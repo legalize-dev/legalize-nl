@@ -4,7 +4,7 @@ identifier: "BWBR0050461"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-11-27"
-last_updated: "2024-01-01"
+last_updated: "2024-11-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050461"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Voor het jaar 2024 is voor de beheerskosten Wlz van de Wlz-uitvoerders en de Soc
 
 ##### Artikel 2
 
-Van het bedrag, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050461&artikel=1&z=2024-11-27&g=2024-01-01), is € 3,276 miljoen bestemd voor de taken, bedoeld in [artikel 4.2.4, tweede lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4), en € 1,297 miljoen voor de overige bij of krachtens die [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) geregelde taken van Wlz-uitvoerders.
+Van het bedrag, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050461&artikel=1&z=2024-11-27&g=2024-11-27), is € 3,276 miljoen bestemd voor de taken, bedoeld in [artikel 4.2.4, tweede lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4), en € 1,297 miljoen voor de overige bij of krachtens die [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) geregelde taken van Wlz-uitvoerders.
 
 ##### Artikel 3
 
