@@ -4,7 +4,7 @@ identifier: "BWBR0046679"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-11-27"
-last_updated: "2022-09-02"
+last_updated: "2024-11-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046679"
 soort: "ministeriele-regeling"
@@ -58,11 +58,11 @@ Besluit:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046679&artikel=2&z=2022-09-02&g=2022-09-02).
+In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046679&artikel=2&z=2024-11-27&g=2024-11-27).
 
 ##### Artikel 2
 
-De personen, werkzaam in de functie van integraal toezichthouder of operationeel leidinggevende in dienst van de gemeente Nijmegen, zijn aangewezen als buitengewoon opsporingsambtenaar.
+De personen, werkzaam in de functie van integraal toezichthouder, operationeel leidinggevende, centralist BOA-meldkamer/observant RTC cameratoezicht OOV in dienst van de gemeente Nijmegen, zijn aangewezen als buitengewoon opsporingsambtenaar.
 
 ##### Artikel 3
 
@@ -84,23 +84,23 @@ Op grond van dit besluit kunnen maximaal 110 personen als buitengewoon opsporing
 
 ##### Artikel 6
 
-De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste, derde en vierde (vervoersfouillering) lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) omschreven bevoegdheden uitoefenen met gebruikmaking van handboeien.
+De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste, derde en vierde (vervoersfouillering) lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) omschreven bevoegdheden uitoefenen met gebruikmaking van handboeien. Dit artikel is niet van toepassing van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046679&artikel=2&z=2024-11-27&g=2024-11-27) genoemde functies van centralist BOA- meldkamer/observant RTC cameratoezicht OOV.
 
 ##### Artikel 7
 
 1. De gemeente Nijmegen brengt jaarlijks, voor 1 april, verslag uit over:
 
-- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046679&artikel=2&z=2022-09-02&g=2022-09-02) genoemde functie;
+- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046679&artikel=2&z=2024-11-27&g=2024-11-27) genoemde functie;
 
 - b. de door die buitengewoon opsporingsambtenaren verrichte activiteiten;
 
 - c. de stand van zaken met betrekking tot de opleiding van die buitengewoon opsporingsambtenaren, waarbij in ieder geval wordt aangegeven hoeveel personen in het verslagjaar zijn aangemeld voor het door de Minister voor Rechtsbescherming goedgekeurde examen en hoeveel personen in dat jaar voor dat examen zijn geslaagd.
 
-2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046679&artikel=5&z=2022-09-02&g=2022-09-02) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Justitie en Veiligheid, Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
+2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046679&artikel=5&z=2024-11-27&g=2024-11-27) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Justitie en Veiligheid, Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
 
 ##### Artikel 8
 
-De op naam gestelde akten van beëdiging en de overige benoemingsbescheiden, afgegeven mede op basis van het in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0046679&artikel=9&z=2022-09-02&g=2022-09-02) genoemde besluit, worden geacht mede te zijn afgegeven op basis van dit besluit.
+De op naam gestelde akten van beëdiging en de overige benoemingsbescheiden, afgegeven mede op basis van het in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0046679&artikel=9&z=2024-11-27&g=2024-11-27) genoemde besluit, worden geacht mede te zijn afgegeven op basis van dit besluit.
 
 Dit artikel brengt geen wijziging in de resterende looptijd van de afgegeven aktes.
 
