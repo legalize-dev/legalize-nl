@@ -4,7 +4,7 @@ identifier: "BWBR0043184"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-11-28"
-last_updated: "2024-05-17"
+last_updated: "2024-11-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043184"
 soort: "ministeriele-regeling"
@@ -168,21 +168,19 @@ Aan de hoofden van de afdelingen wordt mandaat en machtiging verleend met betrek
 
 ##### Artikel 11
 
-Aan het hoofd van het Bedrijfsbureau wordt volmacht verleend tot het verrichten van de volgende privaatrechtelijke rechtshandelingen met een waarde van ten hoogste € 20.000 per overeenkomst:
-
-- a. het aangaan van koop-, huur- en leaseovereenkomsten;
-
-- b. het aangaan van overeenkomsten voor het inhuren van personeel voor de uitvoering van werkzaamheden die onder directe verantwoordelijkheid van het departementale management worden verricht;
-
-- c. het aangaan van overeenkomsten met betrekking tot beroeps-, functionerings- en loopbaangerichte cursussen en opleidingen die ingevolge dienstopdracht worden gevolgd.
+Aan de hoofden van de afdelingen wordt volmacht verleend tot het aangaan van overeenkomsten met een waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst, voor zover deze overeenkomsten betrekking hebben op de taken die vallen onder hun verantwoordelijkheid.
 
 ##### Artikel 12
 
-Aan de hoofden van de afdelingen wordt volmacht verleend tot het aangaan van overeenkomsten met een waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst, voor zover deze overeenkomsten betrekking hebben op de taken die vallen onder hun verantwoordelijkheid.
+Bij afwezigheid of verhindering van de directeur Financieel-Economische Zaken worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door het afdelingshoofd dat is aangewezen als de plaatsvervangende directeur.
 
 ##### Artikel 13
 
-Bij afwezigheid of verhindering van de directeur Financieel-Economische Zaken worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door het afdelingshoofd dat is aangewezen als de plaatsvervangende directeur.
+1. Het [Organisatie-, mandaat- en volmachtbesluit directie Financieel-Economische Zaken 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0033363) wordt ingetrokken.
+
+2. Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 1 januari 2020.
+
+3. Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Financieel-Economische Zaken 2020.
 
 ##### Artikel 14
 
@@ -203,5 +201,7 @@ Bij afwezigheid of verhindering van de directeur Financieel-Economische Zaken wo
 3. Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Financieel-Economische Zaken 2020.
 
 #### § 3. Bevoegdheden
+
+#### § 4. Slotbepalingen
 
 #### § 4. Slotbepalingen
