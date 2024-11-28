@@ -4,7 +4,7 @@ identifier: "BWBR0038619"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-11-28"
-last_updated: "2024-01-01"
+last_updated: "2024-11-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038619"
 soort: "ministeriele-regeling"
@@ -49,9 +49,9 @@ In deze regeling wordt verstaan onder:
 
 - a. **defensieambtenaar:** de militair als bedoeld in [artikel 1, eerste lid onderdeel c onder 1 het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=1) die op of na 1 oktober 2016 in werkelijke dienst is of de ambtenaar die op of na 1 oktober 2016 in burgerlijke openbare dienst is bij het Ministerie van Defensie als bedoeld in [artikel 1 van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=1);
 
-- b. **bronnen:** de aanspraken, genoemd in[artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038619&artikel=4&z=2021-03-04&g=2024-01-01);
+- b. **bronnen:** de aanspraken, genoemd in[artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038619&artikel=4&z=2024-11-28&g=2024-11-28);
 
-- c. **doelen:** de bestedingsmogelijkheden, genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038619&artikel=5&z=2021-03-04&g=2024-01-01).
+- c. **doelen:** de bestedingsmogelijkheden, genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038619&artikel=5&z=2024-11-28&g=2024-11-28).
 
 ##### Artikel 2. Aanvraag
 
@@ -75,13 +75,15 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4. Bronnen
 
-1. De defensieambtenaar kan een aanvraag indienen om één of meer van de volgende aanspraken uit te ruilen voor een onbelast bedrag voor één of meer in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038619&artikel=5&z=2021-03-04&g=2024-01-01) genoemde doelen:
+1. De defensieambtenaar kan een aanvraag indienen om één of meer van de volgende aanspraken uit te ruilen voor een onbelast bedrag voor één of meer in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038619&artikel=5&z=2024-11-28&g=2024-11-28) genoemde doelen:
 
-- a. de eindejaarsuitkering, mits deze wordt ingezet voor het doel, genoemd in [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0038619&artikel=5&z=2021-03-04&g=2024-01-01);
+- a. de eindejaarsuitkering, mits deze wordt ingezet voor het doel, genoemd in [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0038619&artikel=5&z=2024-11-28&g=2024-11-28);
 
 - b. maximaal 15% van het jaarsalaris;
 
-- c. de vakantie-uitkering.
+- c. de vakantie-uitkering;
+
+- d. een eenmalig bedrag ter waarde van € 1.000 netto in het jaar 2024.
 
 2. De geldswaarde van de bron op het moment van de aanvraag, genoemd in het eerste lid, wordt voor de eindejaarsuitkering en de vakantie-uitkering bepaald aan de hand van de cumulatief opgebouwde aanspraak en voor het jaarsalaris aan de hand van het in dat kalenderjaar ontvangen salaris plus het voor de rest van het kalenderjaar geprognotiseerde salaris.
 
@@ -91,25 +93,45 @@ In deze regeling wordt verstaan onder:
 
 1. Voor zover de geldende fiscale bepalingen dit mogelijk maken, worden de onderstaande bestedingsmogelijkheden als doelen aangemerkt:
 
-- a. het verschil per jaar of per maand tussen de tegemoetkoming in de kosten van het reizen met eigen vervoer voor woon- werkverkeer en het fiscaal maximum van € 0,19 per kilometer;
+- a. het verschil per jaar of per maand tussen de tegemoetkoming in de kosten van het reizen met eigen vervoer voor woon- werkverkeer en het fiscaal maximum van € 0,23 per kilometer;
 
 - b. een fiets voor persoonlijk gebruik, inclusief fietsaccessoires en een fietsverzekering;
 
-- c. een computer mede te gebruiken voor werk of studie, inclusief computeraccessoires en een computerverzekering.
+- c. een computer mede te gebruiken voor werk of studie, inclusief computeraccessoires en een computerverzekering;
 
-2. Voor de in het eerste lid, onder b en c, genoemde bestedingsmogelijkheden gelden de volgende voorwaarden:
+- d. de vakbondscontributie voor het jaar 2024;
+
+- e. een accu of andere onderdelen voor een elektrische fiets;
+
+- f. een declaratie voor de materiële verduurzaming van de eigen (huur)woning voor de in tabel 1 genoemde maatregelen en voor de onder b en c genoemde bestedingsmogelijkheden.
+
+2. Voor de in het eerste lid, onder b, c en e genoemde bestedingsmogelijkheden gelden de volgende voorwaarden:
 
 - a. de defensieambtenaar is ten minste 6 maanden in werkelijke dienst;
 
-- b. in het kalenderjaar en de twee voorgaande kalenderjaren is aan hem geen onbelast bedrag ter zake van de aanschaf van een fiets of computer betaald;
+- b. in het kalenderjaar en de twee voorgaande kalenderjaren is aan de defensieambtenaar geen onbelast bedrag ter zake van de aanschaf van een accu of andere onderdelen voor een elektrische fiets betaald;
 
-- c. de aanschaf wordt gedaan in hetzelfde kalenderjaar als de aanvraag;
+- c. in het kalenderjaar en de vier voorgaande kalenderjaren is aan de defensieambtenaar geen onbelast bedrag ter zake van de aanschaf van een fiets of computer betaald;
 
-- d. de defensieambtenaar legt bij de aanvraag op naam gestelde bewijsstukken over waaruit blijkt dat de kosten voor deze bestedingsmogelijkheden daadwerkelijk in het betreffende kalenderjaar zijn gemaakt bij een reguliere detailhandel;
+- d. de aanschaf wordt gedaan in hetzelfde kalenderjaar als de aanvraag;
 
-- e. de defensieambtenaar schenkt noch verkoopt de fiets of computer binnen twee jaar na aanschaf.
+- e. de defensieambtenaar legt bij de aanvraag op naam gestelde bewijsstukken over waaruit blijkt dat de kosten voor deze bestedingsmogelijkheden daadwerkelijk in het betreffende kalenderjaar zijn gemaakt bij een reguliere detailhandel;
 
-3. Het maximumbedrag waarvoor een aanvraag voor de in het eerste lid, onder b en c, bedoelde bestedingsmogelijkheden kan worden ingediend, bedraagt in totaal € 750.
+- f. de defensieambtenaar schenkt noch verkoopt de fiets of computer binnen twee jaar na aanschaf;
+
+- g. het maximum bedrag waarvoor een aanvraag voor de aanschaf van een fiets of computer kan worden ingediend, bedraagt in totaal € 1.500;
+
+- h. het maximum bedrag waarvoor een aanvraag voor de aanschaf van een accu of andere onderdelen voor een elektrische fiets worden ingediend, bedraagt in totaal € 500.
+
+3. Voor de in het eerste lid, onder f, genoemde bestedingsmogelijkheid gelden de volgende voorwaarden:
+
+- a. de aanschaf wordt gedaan in hetzelfde kalenderjaar als de aanvraag;
+
+- b. de defensieambtenaar legt bij de aanvraag op naam gestelde bewijsstukken over waaruit blijkt dat de kosten voor deze bestedingsmogelijkheden daadwerkelijk in het betreffende kalenderjaar zijn gemaakt bij een reguliere detailhandel;
+
+- c. het maximum bedrag waarvoor een aanvraag kan worden ingediend, bedraagt in totaal € 1.000 netto.
+
+4. Indien het bedrag, genoemd in [artikel 4, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0038619&artikel=4&z=2024-11-28&g=2024-11-28), deels of volledig wordt gebruikt voor de in het eerste lid onder b en c genoemde bestedingsmogelijkheden gelden uitsluitend de voorwaarden, genoemd in het derde lid.
 
 ##### Artikel 6. Verhaal, verrekening of uitbetaling
 
