@@ -4,7 +4,7 @@ identifier: "BWBR0050469"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-11-28"
-last_updated: "2024-07-01"
+last_updated: "2024-11-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050469"
 soort: "ministeriele-regeling"
@@ -68,7 +68,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 ##### Artikel 4. Overige Woo-verzoeken
 
-1. Aan de programmadirecteur Herstelbeleid en Parlementaire Zaken van het tijdelijke programmadirectoraat-generaal Herstel wordt mandaat verleend om te beslissen op andere Woo- verzoeken betreffende informatie die berust bij het betreffende organisatieonderdeel dan bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050469&artikel=3&z=2024-11-28&g=2024-07-01). De programmadirecteur Herstelbeleid en Parlementaire Zaken kan aan onder hem ressorterende ambtenaren ter zake ondermandaat verlenen.
+1. Aan de programmadirecteur Herstelbeleid en Parlementaire Zaken van het tijdelijke programmadirectoraat-generaal Herstel wordt mandaat verleend om te beslissen op andere Woo- verzoeken betreffende informatie die berust bij het betreffende organisatieonderdeel dan bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050469&artikel=3&z=2024-11-28&g=2024-11-28). De programmadirecteur Herstelbeleid en Parlementaire Zaken kan aan onder hem ressorterende ambtenaren ter zake ondermandaat verlenen.
 
 2. Aan de directeur-generaal Herstelbeleid van het tijdelijke programmadirectoraat-generaal Herstel wordt mandaat verleend om de tegen de in het eerste lid bedoelde besluiten gerichte bezwaren te behandelen en daarop te beslissen. De directeur-generaal Herstelbeleid kan aan onder hem ressorterende ambtenaren ter zake ondermandaat verlenen.
 
