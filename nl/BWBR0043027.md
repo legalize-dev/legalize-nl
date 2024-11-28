@@ -4,7 +4,7 @@ identifier: "BWBR0043027"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-03"
-last_updated: "2024-10-01"
+last_updated: "2024-11-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043027"
 soort: "ministeriele-regeling"
@@ -98,9 +98,11 @@ De algemene leiding hanteert de basiswaarden van het ministerie en draagt zorg v
 
 4. De SG vervult de rol van eigenaar voor de zelfstandige bestuursorganen Autoriteit Financiële Markten (AFM) en De Nederlandsche Bank (DNB).
 
-5. De SG treft een vervangingsregeling inzake vervanging bij zijn afwezigheid, met inachtneming van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2025-06-21&g=2024-10-01).
+5. Bij afwezigheid van de secretaris-generaal treedt als plaatsvervanger op:
 
-6. De directeur-generaal Fiscale Zaken vervangt de secretaris-generaal tijdens diens afwezigheid, met inachtneming van de bevoegdheden van de pSG op grond van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2025-06-21&g=2024-10-01).
+- a. de thesaurier-generaal ten aanzien van de ambtelijke leiding op het terrein van het beleid van het directoraat-generaal Fiscale Zaken, het directoraat-generaal Rijksbegroting, de Generale Thesaurie, de directie Financieel-Economische Zaken en de directie Algemene Financiële en Economische Politiek;
+
+- b. de plaatsvervangend secretaris-generaal voor de overige verantwoordelijkheden.
 
 ##### Artikel 4. De bestuursraad
 
@@ -182,15 +184,9 @@ De verantwoordelijkheid voor de bedrijfsvoering van deze organisaties ligt in be
 
 4. De pSG vervult een beheersmatige rol ten aanzien van de Auditdienst Rijk gelet op de positie van de Auditdienst Rijk in het controlebestel.
 
-5. Bij afwezigheid van de SG treedt de pSG op als plaatsvervanger ten aanzien van:
+5. De pSG draagt zorg voor de voorbereiding van de overleggen tussen bestuurder en de medezeggenschap en tussen bestuurder en de vakbonden.
 
-- a. de eigenaarsrol van de SG;
-
-- b. het voorzitterschap van de overleggen met de medezeggenschap en de vakbonden.
-
-6. De pSG draagt zorg voor de voorbereiding van de overleggen tussen bestuurder en de medezeggenschap en tussen bestuurder en de vakbonden.
-
-7. De pSG vertegenwoordigt het kernministerie in interdepartementaal overleg.
+6. De pSG vertegenwoordigt het kernministerie in interdepartementaal overleg.
 
 ##### Artikel 6. Departementaal Chief Information Officer (dCIO)
 
@@ -232,33 +228,35 @@ De verantwoordelijkheid voor de bedrijfsvoering van deze organisaties ligt in be
 
 3. De CDI wordt ondersteund door een CDI Office.
 
-##### Artikel 8. De bedrijfsvoeringsraad
+##### Artikel 8. De bestuursraad bedrijfsvoering
 
-1. Er is een bedrijfsvoeringsberaad.
+1. Er is een bestuursraad bedrijfsvoering.
 
-2. De volgende functionarissen voeren in het bedrijfsvoeringsberaad regelmatig collegiaal overleg over beleidsvoorstellen met betrekking tot de departementale bedrijfsvoering:
+2. De volgende functionarissen voeren in de bestuursraad bedrijfsvoering regelmatig overleg over beleidsvoorstellen met betrekking tot de departementale bedrijfsvoering:
 
 - a. de pSG;
 
-- b. de plaatsvervangend directeur-generaal Belastingdienst;
+- b. een plaatsvervangend directeur-generaal Belastingdienst;
 
-- c. de plaatsvervangend directeur-generaal voor Fiscale Zaken;
+- c. de plaatsvervangend directeur-generaal Toeslagen;
 
-- d. de plaatsvervangend directeur-generaal van de Rijksbegroting;
+- d. de plaatsvervangend directeur-generaal Douane;
 
-- e. een directeur of de Agent van de Generale Thesaurie;
+- e. de plaatsvervangend directeur-generaal voor Fiscale Zaken;
 
-- f. de directeur Financieel-Economische Zaken;
+- f. de plaatsvervangend directeur-generaal van de Rijksbegroting;
 
-- g. de directeur Bedrijfsvoering;
+- g. de plaatsvervangend thesaurier-generaal;
 
-- h. een directeur van het SG-cluster, niet zijnde de directeur Bedrijfsvoering;
+- h. de directeur Financieel-Economische Zaken;
 
-- i. de directeur Informatievoorziening en Openbaarmaking;
+- i. de directeur Bestuursondersteuning en Advies;
 
-- j. de directeur concerndirectie Mens en Organisatie.
+- j. de algemeen directeur Auditdienst Rijk.
 
-3. De pSG is voorzitter van het bedrijfsvoeringsberaad.
+3. De pSG is voorzitter van de bestuursraad bedrijfsvoering.
+
+4. De pSG beslist welke bespreekpunten worden geagendeerd in de bestuursraad, gehoord hebbende de bestuursraad bedrijfsvoering.
 
 ##### Artikel 9. Overleg met bewindspersonen
 
@@ -288,9 +286,9 @@ Het ministerie heeft een hoofdstructuur, bestaande uit de volgende dienstonderde
 
 ##### Artikel 11. Tijdelijke organisatieonderdelen
 
-1. Buiten de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2025-06-21&g=2024-10-01) kan de SG een tijdelijk directoraat-generaal voor grote projecten instellen.
+1. Buiten de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2024-11-28&g=2024-11-28) kan de SG een tijdelijk directoraat-generaal voor grote projecten instellen.
 
-2. Passend binnen de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2025-06-21&g=2024-10-01) kan de SG of de pSG tijdelijke organisatieonderdelen instellen.
+2. Passend binnen de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2024-11-28&g=2024-11-28) kan de SG of de pSG tijdelijke organisatieonderdelen instellen.
 
 3. De SG kan de directeuren-generaal Belastingdienst, Toeslagen en Douane ieder afzonderlijk toestemming verlenen om, met inachtneming van de structuur van respectievelijk het DGBD, het DGTSL en het DGD, en de taken genoemd in het [Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045076), tijdelijke organisatieonderdelen in te stellen.
 
@@ -386,7 +384,7 @@ De directie AFEP heeft de volgende hoofdtaken:
 
 - a. zorgdragen voor adequate ondersteuning van het bedrijfsvoeringsproces van het kernministerie en de IBTD integraal op terreinen van inkoop, huisvesting, facilitaire zaken en beveiliging;
 
-- b. het adviseren over en uitvoeren van opdrachten van de Bestuursraad en het bedrijfsvoeringsberaad;
+- b. het adviseren over en uitvoeren van opdrachten van de Bestuursraad en de bestuursraad bedrijfsvoering;
 
 - c. het zorgdragen voor de kaderstelling voor en het toezicht op de uitvoering door de uitvoerende diensten van het ministerie (Belastingdienst, ADR en domeinen);
 
@@ -432,7 +430,7 @@ De directie AFEP heeft de volgende hoofdtaken:
 
 - d. het bijdragen aan de rijksbrede strategische opdracht vanuit de categorieën waarvan het eigenaarschap is toebedeeld aan het Ministerie van Financiën.
 
-7. De directeur Bedrijfsvoering is tevens Coördinerend Directeur Inkoop (CDI) als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=7&z=2025-06-21&g=2024-10-01). Het afdelingshoofd CDI Office en Categoriemanagement is tevens plaatsvervangend CDI.
+7. De directeur Bedrijfsvoering is tevens Coördinerend Directeur Inkoop (CDI) als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=7&z=2024-11-28&g=2024-11-28). Het afdelingshoofd CDI Office en Categoriemanagement is tevens plaatsvervangend CDI.
 
 ##### Artikel 15. Het Beveiligingsambtenaar-Office (BVA-Office)
 
@@ -1206,29 +1204,47 @@ De Generale Thesaurie:
 
 2. Het Agentschap van de Generale Thesaurie is onderverdeeld in de volgende organisatieonderdelen:
 
-- a. de afdeling Cashmanagement en Kapitaalmarktoperaties (CMK) met als taken:
+- a. de afdeling Cashmanagement en Kapitaalmarktoperaties (CMK), met als taken:
 
-- i. Is belast met het afsluiten van financiële transacties op de geld- en kapitaalmarkt, waaronder het plaatsen van staatsleningen en schatkistpapier en het afsluiten van valutatermijncontracten;
+- i. Is belast met het afsluiten van financiële transacties op de geld- en kapitaalmarkt, waaronder het plaatsen van staatsleningen en schatkistpapier en het afsluiten van transacties om risico’s af te dekken;
 
-- ii. Onderhoudt relatie met banken inzake hun rol in het proces van plaatsing van staatsleningen, het schatkistbankieren en van het betalingsverkeer;
+- ii. Is verantwoordelijk voor de publicaties van het Agentschap, de website van het Agentschap en onderhoudt de communicatie en relatie met marktpartijen inzake plaatsing van staatsleningen en schatkistpapier;
 
-- iii. Koopt betaaldiensten in voor de gehele rijksoverheid;
+- iii. Koopt betaaldiensten in voor de gehele Rijksoverheid;
 
-- iv. Voert coördinatie over de inrichting van het betalingsverkeer van de rijksoverheid en onderhoudt de relatie hierover met de banken;
+- iv. Voert coördinatie over de inrichting van het betalingsverkeer van de Rijksoverheid en onderhoudt de relatie hierover met de banken en betaaldienstverleners;
 
-- v. Voert het accountmanagement uit van de deelnemers aan het schatkistbankieren en onderhoudt de relatie met de vakdepartementen.
+- v. Voert het accountmanagement uit van de deelnemers aan het schatkistbankieren en onderhoudt de relatie met de vakdepartementen en de banken;
 
-- b. de afdeling Beleid & Risico Staatsschuld & Schatkist (BRS) met als taken:
+- vi. Maakt beleid en richtlijnen ten aanzien van de financiering van de staatsschuld, het cashmanagement, het schatkistbankieren en de betaalinfrastructuur, binnen de gestelde (beleids)kaders.
 
-- i. Ontwikkelt, adviseert en rapporteert ten aanzien van het financieringsbeleid en het risicomanagement;
+- b. de afdeling Strategie, Risicomanagement en Control (SRC), met als taken:
 
-- ii. Geeft beleidsmatig vorm aan het schatkistbankieren en maakt beleid gericht op een doelmatige inrichting van de betaalinfrastructuur;
+- i. Draagt zorg voor de advisering, (beleids)kaders en de naleving hiervan op het gebied van de financiering van de staatsschuld, het cashmanagement, het schatkistbankieren en het betalingsverkeer, inclusief het daarvoor benodigde analyse en onderzoek;
 
-- iii. Is verantwoordelijk voor de publicaties van het Agentschap en de website van het Agentschap;
+- ii. Initieert, organiseert en coördineert periodieke evaluatieonderzoeken en andere evaluaties op de beleidsterreinen van het Agentschap;
 
-- iv. Behandelt en adviseert over juridische vraagstukken voortvloeiende uit de taken van het Agentschap, incl. zaken met betrekking tot naoorlogs rechtsherstel;
+- iii. Bereidt deelname voor door het Agentschap aan internationale gremia (zoals het Economic and Financial Committee's Sub-Committee on EU Sovereign Debt Markets (ESDM) en Organisation for Economic Cooperation and Development (OECD));
 
-- v. Is verantwoordelijk voor het beheer van mandaten en (voor zover niet extern belegd) voor de uitvoering van de compliancefunctie van het Agentschap, waarbij zij tevens tot taak heeft partijen waarmee het Agentschap samenwerkt te screenen op integriteit, als onderdeel waarvan persoonsgegevens, waaronder strafrechtelijke persoonsgegevens, kunnen worden verwerkt wanneer dat noodzakelijk is.
+- iv. Behandelt en adviseert over juridische vraagstukken voortvloeiende uit de taken van het Agentschap, inclusief zaken met betrekking tot naoorlogs rechtsherstel;
+
+- v. Is verantwoordelijk voor het beheer van mandaten en (voor zover niet extern belegd) voor de uitvoering van de compliancefunctie van het Agentschap, waarbij zij tevens tot taak heeft partijen waarmee het Agentschap samenwerkt te screenen op integriteit, als onderdeel waarvan persoonsgegevens, waaronder strafrechtelijke persoonsgegevens, kunnen worden verwerkt wanneer dat noodzakelijk is;
+
+- vi. Ontwikkelt beleid voor en adviseert over het financieel, operationeel en integriteitsrisicomanagement;
+
+- vii. Rapporteert over en beheerst de financiële, operationele en integriteitsrisico’s;
+
+- viii. Adviseert over de bedrijfsvoering van het Agentschap;
+
+- ix. Vervult de controlfunctie en is verantwoordelijk voor de planning- en controlcyclus;
+
+- x. Is betrokken bij de begrotingsvoorbereiding en -uitvoering van artikel 11 en 12 van begroting IX (Nationale Schuld en Kasbeheer);
+
+- xi. Is verantwoordelijk voor de financiële administratie en legt via het Jaarverslag verantwoording af;
+
+- xii. Is verantwoordelijk voor de administratieve organisatie en interne controle;
+
+- xiii. Is verantwoordelijk voor het samenstellen van de periodieke managementinformatie en verschillende periodieke rapportages voor stakeholders binnen en buiten het Ministerie van Financiën.
 
 - c. de afdeling Staatsschuld- en Schatkistbeheer (SSB), met als taken:
 
@@ -1238,49 +1254,37 @@ De Generale Thesaurie:
 
 - iii. Draagt zorg voor het voorbereiden van emissies en verzorgt de financiële en administratieve afwikkeling hiervan en van de in het kader van de saldoregulering afgesloten geldmarkttransacties;
 
-- iv. Draagt zorg voor prognosticeren van de inkomsten en uitgaven van het rijk en bewaakt in een continue proces dat de schatkiststand bij het einde van de dag tussen de daartoe aangegeven bandbreedte sluit, beheert het schatkistsaldo bij DNB en het kas- en het saldobeheer bij de overige banken voor de rijksoverheid;
+- iv. Draagt zorg voor prognosticeren van de inkomsten en uitgaven van het Rijk en bewaakt in een continue proces dat de schatkiststand bij het einde van de dag tussen de daartoe aangegeven bandbreedte sluit, beheert het schatkistsaldo bij DNB en het kas- en het saldobeheer bij de overige banken voor de Rijksoverheid;
 
 - v. Draagt zorg voor de registratie en de daaruit voortvloeiende rechten en verplichtingen die voortkomen uit het schatkistbankieren en regelt nieuwe deelnemers in;
 
 - vi. Is verantwoordelijk voor het beheer en de administratie van de garantstelling voor de uitgifte van middellang schuldpapier van banken;
 
-- vii. Vervult de traditionele Mid-Office functie van het Agentschap bestaande uit onder andere de controle op de uitvoering van transacties door de afdeling CMK en de bewaking van limieten, waarbij zij tevens tot taak heeft partijen waarmee het Agentschap samenwerkt te screenen op integriteit, als onderdeel waarvan persoonsgegevens, waaronder strafrechtelijke persoonsgegevens, kunnen worden verwerkt wanneer dat noodzakelijk is.
+- vii. Vervult de traditionele Mid-Office functie van het Agentschap bestaande uit onder andere de controle op de uitvoering van transacties door de afdeling CMK en de bewaking van limieten, waarbij zij tevens tot taak heeft partijen waarmee het Agentschap samenwerkt te screenen op integriteit, als onderdeel waarvan persoonsgegevens, waaronder strafrechtelijke persoonsgegevens, kunnen worden verwerkt wanneer dat noodzakelijk is;
 
-- d. de afdeling Control, Accounting en Rapportage (CAR), met als taken:
+- viii. Maakt beleid en richtlijnen ten aanzien van het uitvoeren van de werkzaamheden als bedoeld in de subonderdelen i. tot en met vii., waaronder de afwikkeling van financiële transacties en raming van de schatkiststand, binnen de gestelde (beleids)kaders.
 
-- i. Is verantwoordelijk voor de planning- en controlcyclus;
+- d. de afdeling Informatievoorziening en Data (IVD), met als taken:
 
-- ii. Is betrokken bij de begrotingsvoorbereiding en -uitvoering van artikel 11 en 12 van begroting IX (Nationale Schuld en Kasbeheer);
+- i. Beheert de static data van het Agentschap;
 
-- iii. Is verantwoordelijk voor de financiële administratie en legt via het Jaarverslag verantwoording af;
+- ii. Beheert de autorisaties van gebruikers in Agentschap-specifieke applicaties;
 
-- iv. Adviseert ten aanzien van de bedrijfsvoering van het Agentschap, signaleert en rapporteert over (de beheersing van) operationele risico’s;
+- iii. Is verantwoordelijk voor het functioneel inrichten van Agentschap-specifieke applicaties, waaronder het testmanagement en het beheer en onderhoud van de vereisten van deze applicaties;
 
-- v. Vervult de controlfunctie;
+- iv. Ondersteunt gebruikers bij het gebruik van Agentschap-specifieke applicaties;
 
-- vi. Is verantwoordelijk voor de administratieve organisatie en interne controle, en signaleert/rapporteert over de naleving van de gestelde risicokaders;
+- v. Adviseert over ontwikkelingen en innovaties ten aanzien van Agentschap- specifieke applicaties;
 
-- vii. Is verantwoordelijk voor het samenstellen van de periodieke managementinformatie, waaronder rapportages over de prestaties uit hoofde van renterisicomanagement;
+- vi. Bereidt ICT-beleid voor en voert dit uit en adviseert over ICT-gerelateerde vraagstukken en projecten van het Agentschap;
 
-- viii. Is verantwoordelijk voor de periodieke rapportages aan FEZ van het ministerie van Financiën;
+- vii. Waarborgt de kwaliteit van de informatiesystemen;
 
-- ix. Initieert, organiseert en coördineert beleidsdoorlichtingen en andere evaluaties op de beleidsterreinen van het Agentschap;
+- viii. Bewaakt de beschikbaarheid, integriteit en vertrouwelijkheid van Agentschap- specifieke applicaties;
 
-- x. Beheert de static data van het Agentschap;
+- ix. Is verantwoordelijk voor de domeinarchitectuur van het Agentschap;
 
-- xi. Beheert de autorisaties van gebruikers in Agentschap specifieke applicaties;
-
-- xii. Is verantwoordelijk voor het functioneel inrichten van Agentschap-specifieke applicaties;
-
-- xiii. Ondersteunt gebruikers bij het gebruik van Agentschap-specifieke applicaties;
-
-- xiv. Adviseert over ontwikkelingen ten aanzien van Agentschap specifieke applicaties;
-
-- xv. Bereidt ICT-beleid voor en voert dit uit;
-
-- xvi. Waarborgt de kwaliteit van de informatiesystemen;
-
-- xvii. Bewaakt de beschikbaarheid, integriteit en vertrouwelijkheid van Agentschap specifieke applicaties.
+- x. Is verantwoordelijk voor het data- en informatiemanagement van het Agentschap.
 
 ##### Artikel 40. Directie Buitenlandse Financiële Betrekkingen
 
@@ -1402,9 +1406,9 @@ De SG, de DG’s en de IG leggen, aan het eind van het verslagjaar en tussentijd
 
 ##### Artikel 48. Organisatie- en formatierapport
 
-1. Elk onderdeel dat ressorteert onder de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2025-06-21&g=2024-10-01) genoemde dienstonderdelen ontwerpt en onderhoudt een organisatierapport en een formatierapport.
+1. Elk onderdeel dat ressorteert onder de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2024-11-28&g=2024-11-28) genoemde dienstonderdelen ontwerpt en onderhoudt een organisatierapport en een formatierapport.
 
-2. Voor zover een document als bedoeld in het eerste lid betrekking heeft op een dienstonderdeel, genoemd in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2025-06-21&g=2024-10-01), is de plaatsvervangend secretaris-generaal bevoegd het document namens de bewindspersoon vast te stellen.
+2. Voor zover een document als bedoeld in het eerste lid betrekking heeft op een dienstonderdeel, genoemd in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2024-11-28&g=2024-11-28), is de plaatsvervangend secretaris-generaal bevoegd het document namens de bewindspersoon vast te stellen.
 
 3. Voor zover een document als bedoeld in het eerste lid betrekking heeft op de IBTD is de IG bevoegd het document vast te stellen.
 
@@ -1586,7 +1590,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. De concerndirectie Informatievoorziening en Openbaarmaking heeft de volgende taken:
 
-- a. het uitvoeren van de taken van de dCIO conform [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=6&z=2025-06-21&g=2024-10-01) van dit besluit;
+- a. het uitvoeren van de taken van de dCIO conform [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=6&z=2024-11-28&g=2024-11-28) van dit besluit;
 
 - b. invulling geven aan de rol van de CIO van het kernministerie en [artikel 5, derde lid, van de Regeling Informatiehuishouding Financiën 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046157&artikel=5);
 
