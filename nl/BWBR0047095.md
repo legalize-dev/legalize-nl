@@ -4,7 +4,7 @@ identifier: "BWBR0047095"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-12-25"
-last_updated: "2022-09-01"
+last_updated: "2024-11-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047095"
 soort: "zbo"
@@ -44,7 +44,7 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- –. **Verordening (EG) nr. 1/2003:** [Verordening (EG) nr. 1/2003](onbekend) van de Raad van de Europese Unie van 16 december 2002 betreffende de uitvoering van de mededingingsregels van de artikelen 81 en 82 van het Verdrag ([PbEG 2003, L 001](onbekend)).
+- –. **Verordening (EG) nr. 1/2003:** [Verordening (EG) nr. 1/2003](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:02003R0001-20090701) van de Raad van de Europese Unie van 16 december 2002 betreffende de uitvoering van de mededingingsregels van de artikelen 81 en 82 van het Verdrag ([PbEG 2003, L 001](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32003R0001)).
 
 ##### Artikel 2
 
@@ -66,21 +66,25 @@ De ambtenaren werkzaam bij de Autoriteit Consument en Markt worden aangewezen al
 
 - h. [Artikel 15.1, derde lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=15.1);
 
-- i. [Artikel 8, van de Uitvoeringswet EU-zeehavenverordening](https://wetten.overheid.nl/jci1.3:c:BWBR0044856&artikel=8);
+- i. [Artikel 2 lid 6 van de Uitvoeringswet datagovernanceverordening](https://wetten.overheid.nl/jci1.3:c:BWBR0050415&artikel=2);
 
-- j. [Artikel 15 van de Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=15);
+- j. [Artikel 8, van de Uitvoeringswet EU-zeehavenverordening](https://wetten.overheid.nl/jci1.3:c:BWBR0044856&artikel=8);
 
-- k. [Artikel 2.2 van de Wet handhaving consumentenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&artikel=2.2);
+- k. [Artikel 15 van de Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=15);
 
-- l. [Artikel 8, eerste lid, van de Wet implementatie EU-richtlijn hernieuwbare energie voor garanties van oorsprong](https://wetten.overheid.nl/jci1.3:c:BWBR0046743&artikel=8);
+- l. [Artikel 2.2 van de Wet handhaving consumentenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&artikel=2.2);
 
-- m. [Artikel 11.14a van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=11.14a);
+- m. [Artikel 8, eerste lid, van de Wet implementatie EU-richtlijn hernieuwbare energie voor garanties van oorsprong](https://wetten.overheid.nl/jci1.3:c:BWBR0046743&artikel=8);
 
-- n. [Artikel 7, tweede lid, van de Wet oneerlijke handelspraktijken landbouw- en voedselvoorzieningsketen](https://wetten.overheid.nl/jci1.3:c:BWBR0045048&artikel=7);
+- n. [Artikel 11.14a van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=11.14a);
 
-- o. [Artikel 87, vijfde lid, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=87);
+- o. [Artikel 7, tweede lid, van de Wet oneerlijke handelspraktijken landbouw- en voedselvoorzieningsketen](https://wetten.overheid.nl/jci1.3:c:BWBR0045048&artikel=7);
 
-- p. [Artikel 19 van de Wet uitvoering EU-handelingen energie-efficiëntie](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&artikel=19),
+- p. [Artikel 87, vijfde lid, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=87);
+
+- q. [Artikel 3 van de Wet publiek toezicht en handhaving verordening bevordering billijkheid en transparantie voor zakelijke gebruikers van onlinetussenhandelsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0050295&artikel=3);
+
+- r. [Artikel 19 van de Wet uitvoering EU-handelingen energie-efficiëntie](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&artikel=19),
 
 alsmede belast met het toezicht op de naleving van Europese verordeningen als bedoeld in artikel 288 van het Verdrag betreffende de werking van de Europese Unie, voor zover dat toezicht is opgedragen aan de Autoriteit Consument en Markt.
 
@@ -112,9 +116,9 @@ De ambtenaren werkzaam bij de Autoriteit Consument en Markt worden aangewezen al
 
 De ambtenaren werkzaam bij de Autoriteit Consument en Markt worden aangewezen als functionarissen als bedoeld in:
 
-- a. artikel 20, vijfde lid, van de [Verordening (EG) nr. 1/2003](onbekend), belast met het verlenen van bijstand aan door de Europese Commissie gemachtigde functionarissen en andere begeleidende personen;
+- a. artikel 20, vijfde lid, van de [Verordening (EG) nr. 1/2003](https://eur-lex.europa.eu/legal-content/NL/ALL/?uri=CELEX%3A32003R0001), belast met het verlenen van bijstand aan door de Europese Commissie gemachtigde functionarissen en andere begeleidende personen;
 
-- b. artikel 22, tweede lid, van de [Verordening (EG) nr. 1/2003](onbekend), belast met het verrichten van een inspectie op verzoek van de Europese Commissie of andere mededingingsautoriteiten.
+- b. artikel 22, tweede lid, van de [Verordening (EG) nr. 1/2003](https://eur-lex.europa.eu/legal-content/NL/ALL/?uri=CELEX%3A32003R0001), belast met het verrichten van een inspectie op verzoek van de Europese Commissie of andere mededingingsautoriteiten.
 
 ##### Artikel 7
 
