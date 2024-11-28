@@ -4,7 +4,7 @@ identifier: "BWBR0050471"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-11-28"
-last_updated: "2023-10-01"
+last_updated: "2024-11-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050471"
 soort: "zbo"
@@ -39,17 +39,13 @@ Gelet op [artikel 4:23, derde lid onder a van de Algemene wet Bestuursrecht](htt
 
 Besluit:
 
-De terugwerkende kracht betreft verzoeken ex de artikelen 1:266 juncto 1:267 BW.
-
-De terugwerkende kracht betreft verzoeken ex artikel 1:265b.
-
 ### Hoofdstuk I. Algemeen
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
-- a. **advocaat:** de advocaat die op basis van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050471&hoofdstuk=II&artikel=3&z=2024-11-28&g=2023-10-01) van deze beleidsregel is toegelaten tot de pilot;
+- a. **advocaat:** de advocaat die op basis van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050471&hoofdstuk=II&artikel=3&z=2024-11-28&g=2024-11-28) van deze beleidsregel is toegelaten tot de pilot;
 
 - b. **beleidsregel:** tijdelijke beleidsregel pilot kosteloze rechtsbijstand procedures in eerste aanleg met betrekking tot (spoed)uithuisplaatsing van de minderjarige ex [artikel 1:265b BW](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=265b) en gezagsbeëindiging ex de [artikelen 1:266](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=266) juncto [1:267 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=267);
 
@@ -77,7 +73,7 @@ In deze beleidsregel wordt verstaan onder:
 
 ##### Artikel 2. Doel
 
-Deze tijdelijke beleidsregel heeft tot doel om tijdens de pilot begunstigend beleid in afwijking van [artikel 43, eerste en tweede lid, Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=43) te voeren door adequate en kosteloze gefinancierde rechtsbijstand te bieden aan de rechtzoekende als bedoeld in [artikel 1 onder i en j](https://wetten.overheid.nl/jci1.3:c:BWBR0050471&hoofdstuk=I&artikel=1&z=2024-11-28&g=2023-10-01).
+Deze tijdelijke beleidsregel heeft tot doel om tijdens de pilot begunstigend beleid in afwijking van [artikel 43, eerste en tweede lid, Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=43) te voeren door adequate en kosteloze gefinancierde rechtsbijstand te bieden aan de rechtzoekende als bedoeld in [artikel 1 onder i en j](https://wetten.overheid.nl/jci1.3:c:BWBR0050471&hoofdstuk=I&artikel=1&z=2024-11-28&g=2024-11-28).
 
 ### Hoofdstuk II. Voorwaarden
 
@@ -99,9 +95,9 @@ De regeling is van toepassing op advocaten die bij de Raad staan ingeschreven vo
 
 5. Indien de rechtzoekende aangeeft geen advocaat te wensen, dan wijst de rechtbank geen advocaat aan in het kader van deze beleidsregel.
 
-6. Indien namens de rechtzoekende al een toevoeging is verleend onder oplegging van een eigen bijdrage en overeenkomstig de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050471&hoofdstuk=V&artikel=6&z=2024-11-28&g=2023-10-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0050471&hoofdstuk=V&artikel=8&z=2024-11-28&g=2023-10-01) van deze beleidsregel rechtsbijstand op grond van deze beleidsregel onder de werking van de beleidsregel blijkt te vallen en de rechtsbijstand overeenkomstig [artikel 28, eerste lid aanhef en onder a, Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=28) nog niet reeds feitelijk is verleend, kan de advocaat vragen om wijziging van die toevoeging zodat overeenkomstig het derde lid geen eigen bijdrage wordt opgelegd.
+6. Indien namens de rechtzoekende al een toevoeging is verleend onder oplegging van een eigen bijdrage en overeenkomstig de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050471&hoofdstuk=V&artikel=6&z=2024-11-28&g=2024-11-28) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0050471&hoofdstuk=V&artikel=8&z=2024-11-28&g=2024-11-28) van deze beleidsregel rechtsbijstand op grond van deze beleidsregel onder de werking van de beleidsregel blijkt te vallen en de rechtsbijstand overeenkomstig [artikel 28, eerste lid aanhef en onder a, Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=28) nog niet reeds feitelijk is verleend, kan de advocaat vragen om wijziging van die toevoeging zodat overeenkomstig het derde lid geen eigen bijdrage wordt opgelegd.
 
-7. Indien de advocaat met de rechtzoekende afspraken heeft gemaakt over betaling van de kosten voor rechtsbijstand en overeenkomstig de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050471&hoofdstuk=V&artikel=6&z=2024-11-28&g=2023-10-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0050471&hoofdstuk=V&artikel=8&z=2024-11-28&g=2023-10-01) van deze beleidsregel die rechtsbijstand onder de werking van de beleidsregel blijkt te vallen en de rechtsbijstand overeenkomstig [artikel 28, eerste lid aanhef en onder a, Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=28) nog niet reeds feitelijk is verleend, kan alsnog rechtsbijstand op grond van de beleidsregel worden aangevraagd. De vergoeding op grond van het [Bvr](https://wetten.overheid.nl/jci1.3:c:BWBR0011018) kan na beëindiging van de rechtsbijstand door de advocaat vervolgens worden aangevraagd onder het vereiste dat die vergoeding dan in de plaats treedt van de gemaakte afspraken.
+7. Indien de advocaat met de rechtzoekende afspraken heeft gemaakt over betaling van de kosten voor rechtsbijstand en overeenkomstig de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050471&hoofdstuk=V&artikel=6&z=2024-11-28&g=2024-11-28) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0050471&hoofdstuk=V&artikel=8&z=2024-11-28&g=2024-11-28) van deze beleidsregel die rechtsbijstand onder de werking van de beleidsregel blijkt te vallen en de rechtsbijstand overeenkomstig [artikel 28, eerste lid aanhef en onder a, Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=28) nog niet reeds feitelijk is verleend, kan alsnog rechtsbijstand op grond van de beleidsregel worden aangevraagd. De vergoeding op grond van het [Bvr](https://wetten.overheid.nl/jci1.3:c:BWBR0011018) kan na beëindiging van de rechtsbijstand door de advocaat vervolgens worden aangevraagd onder het vereiste dat die vergoeding dan in de plaats treedt van de gemaakte afspraken.
 
 ### Hoofdstuk IV. De vergoedingen
 
