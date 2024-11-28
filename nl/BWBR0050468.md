@@ -4,7 +4,7 @@ identifier: "BWBR0050468"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-11-28"
-last_updated: "2022-01-01"
+last_updated: "2024-11-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050468"
 soort: "zbo"
@@ -47,7 +47,7 @@ de volgende subsidieregeling vast te stellen.
 
 In deze subsidieregeling wordt verstaan onder:
 
-- a. **advocaat:** de advocaat die op basis van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0050468&hoofdstuk=IV&artikel=5&z=2024-11-28&g=2022-01-01) van deze regeling is toegelaten tot deze subsidieregeling;
+- a. **advocaat:** de advocaat die op basis van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0050468&hoofdstuk=IV&artikel=5&z=2024-11-28&g=2024-11-28) van deze regeling is toegelaten tot deze subsidieregeling;
 
 - b. **bestuur:** het bestuur van de raad, als bedoeld in [artikel 3 van de Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=3);
 
@@ -69,7 +69,7 @@ In deze subsidieregeling wordt verstaan onder:
 
 ##### Artikel 2. Doel
 
-Deze regeling heeft tot doel adequate en kosteloze gefinancierde rechtsbijstand te bieden aan de rechtzoekende als bedoeld in [artikel 1 onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0050468&hoofdstuk=I&artikel=1&z=2024-11-28&g=2022-01-01).
+Deze regeling heeft tot doel adequate en kosteloze gefinancierde rechtsbijstand te bieden aan de rechtzoekende als bedoeld in [artikel 1 onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0050468&hoofdstuk=I&artikel=1&z=2024-11-28&g=2024-11-28).
 
 ### Hoofdstuk II. De vergoedingen
 
@@ -127,11 +127,11 @@ Deze regeling heeft tot doel adequate en kosteloze gefinancierde rechtsbijstand 
 
 4. Indien de rechtzoekende aangeeft dat hij een aan de regeling deelnemende voorkeursadvocaat wenst, voegt het bestuur – in afwijking van het in lid 3 van dit artikel gestelde – die advocaat toe.
 
-5. Indien de rechtzoekende aangeeft dat hij op het moment van inwerkingtreding van deze regeling reeds rechtsbijstand van een advocaat heeft in het kader van de herstelregelingen kinderopvangtoeslag en die ook dan wel waarvan een kantoorgenoot voldoet aan de deelnamecriteria van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050468&hoofdstuk=III&artikel=4&z=2024-11-28&g=2022-01-01) van de regeling, voegt het bestuur deze advocaat dan wel de kantoorgenoot toe.
+5. Indien de rechtzoekende aangeeft dat hij op het moment van inwerkingtreding van deze regeling reeds rechtsbijstand van een advocaat heeft in het kader van de herstelregelingen kinderopvangtoeslag en die ook dan wel waarvan een kantoorgenoot voldoet aan de deelnamecriteria van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050468&hoofdstuk=III&artikel=4&z=2024-11-28&g=2024-11-28) van de regeling, voegt het bestuur deze advocaat dan wel de kantoorgenoot toe.
 
-6. Indien namens de rechtzoekende al een toevoeging is verleend kan de advocaat vragen om wijziging van die toevoeging zodat overeenkomstig [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050468&hoofdstuk=II&artikel=3&z=2024-11-28&g=2022-01-01) van de regeling geen eigen bijdrage wordt opgelegd.
+6. Indien namens de rechtzoekende al een toevoeging is verleend kan de advocaat vragen om wijziging van die toevoeging zodat overeenkomstig [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050468&hoofdstuk=II&artikel=3&z=2024-11-28&g=2024-11-28) van de regeling geen eigen bijdrage wordt opgelegd.
 
-7. Indien de advocaat voor inwerkingtreding van de regeling met de rechtzoekende afspraken heeft gemaakt over betaling van de kosten voor rechtsbijstand en overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0050468&hoofdstuk=V&artikel=8&z=2024-11-28&g=2022-01-01) van de regeling die rechtsbijstand onder de werking van de regeling blijkt te vallen, kan alsnog rechtsbijstand op grond van dit artikel worden aangevraagd. De vergoeding als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050468&hoofdstuk=II&artikel=3&z=2024-11-28&g=2022-01-01) van de regeling kan door de advocaat vervolgens worden aangevraagd onder het vereiste dat die vergoeding dan in de plaats treedt van de gemaakte afspraken.
+7. Indien de advocaat voor inwerkingtreding van de regeling met de rechtzoekende afspraken heeft gemaakt over betaling van de kosten voor rechtsbijstand en overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0050468&hoofdstuk=V&artikel=8&z=2024-11-28&g=2024-11-28) van de regeling die rechtsbijstand onder de werking van de regeling blijkt te vallen, kan alsnog rechtsbijstand op grond van dit artikel worden aangevraagd. De vergoeding als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050468&hoofdstuk=II&artikel=3&z=2024-11-28&g=2024-11-28) van de regeling kan door de advocaat vervolgens worden aangevraagd onder het vereiste dat die vergoeding dan in de plaats treedt van de gemaakte afspraken.
 
 ##### Artikel 6. Aanvraag van de vergoeding
 
