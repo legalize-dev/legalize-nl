@@ -4,7 +4,7 @@ identifier: "BWBR0035883"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-11-30"
-last_updated: "2023-08-01"
+last_updated: "2024-11-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035883"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 - b. **doorstroomtoets:** doorstroomtoets als bedoeld in [artikel 45b, derde lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=45b),
 
-- c. **subsidieontvanger:** rechtspersoon die een eindtoets uitgeeft waarvan het gebruik op grond van [artikel 9b, achtste lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9b) is toegestaan,
+- c. **subsidieontvanger:** rechtspersoon die een doorstroomtoets uitgeeft waarvan het gebruik op grond van [artikel 45b, derde lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=45b) is toegestaan,
 
 - d. **school:** school als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1) en [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1),
 
@@ -96,19 +96,19 @@ In deze regeling wordt verstaan onder:
 
 - b. een verklaring van de subsidieontvanger dat de onderliggende gegevens van de opgave als bedoeld onder a en de aanmeldingen voor het verstrekken van de doorstroomtoets van de betreffende schoolbesturen in de administratie aanwezig zijn en desgevraagd opgeleverd kunnen worden, en
 
-- c. een verklaring van de subsidieontvanger dat deze voldoet aan de voorwaarden bedoeld in [artikel 2, eerste lid, onder a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=2&z=2023-08-01&g=2023-08-01), en zal voldoen aan de voorwaarden bedoeld in artikel 2, eerste lid, onder c en e.
+- c. een verklaring van de subsidieontvanger dat deze voldoet aan de voorwaarden bedoeld in [artikel 2, eerste lid, onder a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=2&z=2024-11-30&g=2024-11-30), en zal voldoen aan de voorwaarden bedoeld in artikel 2, eerste lid, onder c en e.
 
 2. De subsidieontvanger maakt bij de aanvraag bedoeld in het eerste lid gebruik van het standaardformulier gepubliceerd op de website van DUS-I.
 
 3. Aanvragen die op of na 16 december van het schooljaar waarin de doorstroomtoets wordt aangeboden bij DUS-I binnenkomen worden afgewezen.
 
-4. De minister beslist uiterlijk binnen 6 weken na het sluiten van de aanvraagtermijn op de aanvraag tot subsidieverlening.
+4. De minister beslist uiterlijk binnen 9 weken na het sluiten van de aanvraagtermijn op de aanvraag tot subsidieverlening.
 
 ##### Artikel 5. Subsidieverplichtingen
 
-1. De subsidieontvanger dient jaarlijks de doorstroomtoets van de desbetreffende jaargang in bij de onafhankelijke commissie, bedoeld in [artikel 9 van het Toetsbesluit PO](https://wetten.overheid.nl/jci1.3:c:BWBR0035216&artikel=9), voor 1 augustus van het schooljaar waarin de toets wordt afgenomen.
+1. De subsidieontvanger dient jaarlijks de doorstroomtoets van de desbetreffende jaargang in bij het College voor Toetsen en Examens, bedoeld in [artikel 9 van het Toetsbesluit PO](https://wetten.overheid.nl/jci1.3:c:BWBR0035216&artikel=9), voor 1 augustus van het schooljaar waarin de toets wordt afgenomen.
 
-2. Ten behoeve van de vaststelling van de subsidie als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=6&z=2023-08-01&g=2023-08-01) dient de subsidieontvanger jaarlijks voor 1 augustus een opgave in van het aantal leerlingen dat in het desbetreffende jaar heeft deelgenomen aan de doorstroomtoets onderverdeeld naar instellingscode van de school die de toets heeft afgenomen. De onderliggende gegevens van deze opgave zijn aanwezig in de administratie en kunnen desgevraagd worden geleverd.
+2. Ten behoeve van de vaststelling van de subsidie als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=6&z=2024-11-30&g=2024-11-30) dient de subsidieontvanger jaarlijks voor 1 augustus een opgave in van het aantal leerlingen dat in het desbetreffende jaar heeft deelgenomen aan de doorstroomtoets onderverdeeld naar instellingscode van de school die de toets heeft afgenomen. De onderliggende gegevens van deze opgave zijn aanwezig in de administratie en kunnen desgevraagd worden geleverd.
 
 3. De subsidieontvanger verstrekt aan de minister alle inlichtingen die deze nodig acht ten behoeve van een goede uitvoering en naleving van deze regeling.
 
@@ -116,13 +116,13 @@ In deze regeling wordt verstaan onder:
 
 1. De subsidieontvanger ontvangt het totale subsidiebedrag in één keer bij wijze van voorschot voor 1 maart van het jaar van de subsidieaanvraag.
 
-2. Het voorschot wordt vastgesteld op basis van de opgave van het aantal leerlingen als bedoeld in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=4&z=2023-08-01&g=2023-08-01), en het vaste en variabele bedrag als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=3&z=2023-08-01&g=2023-08-01).
+2. Het voorschot wordt vastgesteld op basis van de opgave van het aantal leerlingen als bedoeld in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=4&z=2024-11-30&g=2024-11-30), en het vaste en variabele bedrag als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=3&z=2024-11-30&g=2024-11-30).
 
 3. Het subsidiebedrag wordt jaarlijks voor 1 oktober vastgesteld op basis van de opgave van het feitelijk aantal leerlingen dat in het desbetreffende jaar heeft deelgenomen aan de doorstroomtoets.
 
 ##### Artikel 7. Verantwoording
 
-De subsidieontvanger verantwoordt de subsidieverlening aan de hand van een prestatieverklaring, die bestaat uit de opgave, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=6&z=2023-08-01&g=2023-08-01).
+De subsidieontvanger verantwoordt de subsidieverlening aan de hand van een prestatieverklaring, die bestaat uit de opgave, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=6&z=2024-11-30&g=2024-11-30).
 
 ##### Artikel 8. Begrotingsvoorbehoud
 
@@ -138,7 +138,7 @@ De minister kan een of meer bepalingen van deze regeling buiten toepassing laten
 
 ##### Artikel 11. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2015 en vervalt op 1 januari 2025.
+Deze regeling treedt in werking met ingang van 1 januari 2015 en vervalt op 1 januari 2029.
 
 ##### Artikel 12. Citeertitel
 
@@ -154,6 +154,6 @@ Deze regeling wordt met de toelichting in de Staatscourant geplaatst.
 
 ##### Artikel 10a. Afwijking berekening subsidiebedrag 2020 in verband met COVID-19
 
-In 2020 vindt de vaststelling van het subsidiebedrag, in afwijking van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=6&z=2023-08-01&g=2023-08-01), plaats op basis van de opgave van het aantal leerlingen, bedoeld in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=4&z=2023-08-01&g=2023-08-01).
+In 2020 vindt de vaststelling van het subsidiebedrag, in afwijking van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=6&z=2024-11-30&g=2024-11-30), plaats op basis van de opgave van het aantal leerlingen, bedoeld in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=4&z=2024-11-30&g=2024-11-30).
 
 Deze regeling wordt met de toelichting in de Staatscourant geplaatst.
