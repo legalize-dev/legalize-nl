@@ -4,7 +4,7 @@ identifier: "BWBR0048464"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-01"
-last_updated: "2024-08-01"
+last_updated: "2024-11-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048464"
 soort: "ministeriele-regeling"
@@ -60,7 +60,7 @@ Dit besluit wordt aangehaald als: Beleidsregel advieskader nieuwe scholen 2023.
 
 ## Bijlage. Advieskader nieuwe scholen voor een kwaliteitstoets op aanvragen van nieuwe scholen voor basisonderwijs en voortgezet onderwijs
 
-Geldig per 1 augustus 2023
+Geldig per 1 augustus 2024
 
 **Inhoud**
 
