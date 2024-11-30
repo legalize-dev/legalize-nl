@@ -4,7 +4,7 @@ identifier: "BWBR0049888"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-11-30"
-last_updated: "2024-07-01"
+last_updated: "2024-11-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049888"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- **commissie:** adviescommissie STOZ, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049888&artikel=2&z=2024-07-01&g=2024-07-01);
+- **commissie:** adviescommissie STOZ, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049888&artikel=2&z=2024-11-30&g=2024-11-30);
 
 - **minister:** Minister van Volksgezondheid, Welzijn en Sport;
 
@@ -98,9 +98,9 @@ De commissie wordt ingesteld met ingang van 1 juli 2024 en wordt opgeheven per 1
 
 1. De voorzitter en de andere leden van de commissie ontvangen een vergoeding per vergadering overeenkomstig [artikel 2 van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=2).
 
-2. De voorzitter ontvangt een vergoeding per vergadering van € 360,63.
+2. De voorzitter ontvangt een vergoeding per vergadering van € 468,82.
 
-3. De andere leden ontvangen een vergoeding per vergadering van € 277,41.
+3. De andere leden ontvangen een vergoeding per vergadering van € 360,63.
 
 ##### Artikel 9. Kosten van de commissie
 
