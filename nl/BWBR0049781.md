@@ -4,7 +4,7 @@ identifier: "BWBR0049781"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-06-13"
-last_updated: "2024-06-11"
+last_updated: "2024-11-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049781"
 soort: "ministeriele-regeling"
@@ -52,11 +52,11 @@ In deze regeling wordt verstaan onder:
 
 - b. instellingsbestuur als bedoeld in [artikel 1.1, onderdeel j, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1), van een instelling die een of meer lerarenopleidingen verzorgt;
 
-- **beoordelingsgerichte peer review:** peer review uitgevoerd door de commissie beoordelingsgerichte peer review die gericht is op de beoordeling van de basiskwaliteit van de aspirant-opleidingsschool als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0049781&artikel=11&z=2024-06-11&g=2024-06-11);
+- **beoordelingsgerichte peer review:** peer review uitgevoerd door de commissie beoordelingsgerichte peer review die gericht is op de beoordeling van de basiskwaliteit van de aspirant-opleidingsschool als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0049781&artikel=11&z=2024-11-30&g=2024-11-30);
 
 - **beroepsgroep:** vertegenwoordiger of vertegenwoordigers van vak- en beroepsorganisaties van onderwijspersoneel;
 
-- **commissie beoordelingsgerichte peer review:** commissie beoordelingsgerichte peer review als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0049781&artikel=12&z=2024-06-11&g=2024-06-11);
+- **commissie beoordelingsgerichte peer review:** commissie beoordelingsgerichte peer review als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0049781&artikel=12&z=2024-11-30&g=2024-11-30);
 
 - **DUS-I:** Dienst Uitvoering Subsidies aan Instellingen;
 
@@ -74,11 +74,11 @@ In deze regeling wordt verstaan onder:
 
 - **middelbaar beroepsonderwijs:** beroepsonderwijs als bedoeld in [artikel 1.1.1 van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1);
 
-- **minister:** Minister van Onderwijs, Cultuur en Wetenschap of de Minister voor Primair en Voortgezet Onderwijs;
+- **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
 
 - **onderwijspersoneel:** leraren, directeuren en onderwijsondersteunend personeel als bedoeld in [artikel 29 van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=29), leraren, directeuren, rectoren of overig personeel als bedoeld in [artikel 7.2 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.2) of personeel als bedoeld in [artikel 1.1.1 van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1);
 
-- **onderwijsregio:** onderwijsregio die voldoet aan de eisen, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0049781&artikel=7&z=2024-06-11&g=2024-06-11);
+- **onderwijsregio:** onderwijsregio die voldoet aan de eisen, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0049781&artikel=7&z=2024-11-30&g=2024-11-30);
 
 - **ontwikkelingsgerichte peer review:** peer review georganiseerd door een opleidingsschool die is gericht op kwaliteitsontwikkeling en kwaliteitsborging met gebruikmaking van het Kwaliteitskader Samen Opleiden en Inductie dat op de website van DUS-I is gepubliceerd;
 
@@ -86,7 +86,7 @@ In deze regeling wordt verstaan onder:
 
 - **schooljaar:** het tijdvak van 1 augustus tot en met 31 juli daaraanvolgend;
 
-- **penvoerder:** penvoerder als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0049781&artikel=10&z=2024-06-11&g=2024-06-11);
+- **penvoerder:** penvoerder als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0049781&artikel=10&z=2024-11-30&g=2024-11-30);
 
 - **personeelstekort:** bestaand of toekomstig tekort aan voldoende onderwijspersoneel op de vestigingen voor primair onderwijs, voortgezet onderwijs of middelbaar beroepsonderwijs in de regio;
 
@@ -130,11 +130,11 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 ##### Artikel 3. Subsidieplafond
 
-Voor subsidieverstrekking op grond van deze regeling is voor de periode van 1 januari 2025 tot en met 31 december 2025 in totaal een bedrag beschikbaar van € 152.042.000,-.
+Voor subsidieverstrekking op grond van deze regeling is voor de periode van 1 januari 2025 tot en met 31 december 2025 in totaal een bedrag beschikbaar van € 214.100.000,–.
 
 ##### Artikel 4. Activiteiten onderwijsregio
 
-1. De Minister kan voor de periode van 1 januari 2025 tot en met 31 december 2025 subsidie verstrekken aan een penvoerder als tegemoetkoming in de kosten voor de uitvoering van een plan van aanpak als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0049781&artikel=8&z=2024-06-11&g=2024-06-11), gericht op de samenwerking tussen schoolbesturen, lerarenopleidingen en de beroepsgroep in de onderwijsregio om te zorgen voor voldoende en goed opgeleid onderwijspersoneel.
+1. De Minister kan voor de periode van 1 januari 2025 tot en met 31 december 2025 subsidie verstrekken aan een penvoerder als tegemoetkoming in de kosten voor de uitvoering van een plan van aanpak als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0049781&artikel=8&z=2024-11-30&g=2024-11-30), gericht op de samenwerking tussen schoolbesturen, lerarenopleidingen en de beroepsgroep in de onderwijsregio om te zorgen voor voldoende en goed opgeleid onderwijspersoneel.
 
 2. Een aanvraag kan worden ingediend voor een enkele onderwijsregio.
 
@@ -144,19 +144,19 @@ Voor subsidieverstrekking op grond van deze regeling is voor de periode van 1 ja
 
 1. Het door een penvoerder aan te vragen subsidiebedrag bestaat uit:
 
-- a. een bedrag opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049781&bijlage=1&z=2024-06-11&g=2024-06-11) van deze regeling vermenigvuldigd met het aantal leerlingen en mbo-studenten op de teldatum in de onderwijsregio; en
+- a. een bedrag opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049781&bijlage=1&z=2024-11-30&g=2024-11-30) van deze regeling vermenigvuldigd met het aantal leerlingen en mbo-studenten op de teldatum in de onderwijsregio; en
 
 - b. een bedrag van € 1.250 per student of zij-instromer voor de begeleiding van studenten en zij-instromers die hun opleiding op de werkplek volgen binnen een opleidingsschool of aspirant-opleidingsschool.
 
 2. Indien sprake is van een sectoroverstijgende onderwijsregio, kan de penvoerder een aanvullend bedrag aanvragen van:
 
-- a. € 75.000 voor een sectoroverstijgende onderwijsregio, die bestaat uit twee sectoren en waarbij de sectoren voldoen aan de eisen, bedoeld in [artikel 7, zevende, achtste of negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049781&artikel=7&z=2024-06-11&g=2024-06-11); of
+- a. € 75.000 voor een sectoroverstijgende onderwijsregio, die bestaat uit twee sectoren en waarbij de sectoren voldoen aan de eisen, bedoeld in [artikel 7, zevende, achtste of negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049781&artikel=7&z=2024-11-30&g=2024-11-30); of
 
-- b. € 150.000 voor een sectoroverstijgende onderwijsregio, die bestaat uit drie sectoren en waarbij de sectoren voldoen aan de eisen, bedoeld in [artikel 7, zevende, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049781&artikel=7&z=2024-06-11&g=2024-06-11).
+- b. € 150.000 voor een sectoroverstijgende onderwijsregio, die bestaat uit drie sectoren en waarbij de sectoren voldoen aan de eisen, bedoeld in [artikel 7, zevende, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049781&artikel=7&z=2024-11-30&g=2024-11-30).
 
 3. Het bedrag, bedoeld in het eerste lid, onderdeel b, wordt vermenigvuldigd met het aantal studenten en zij-instromers dat in het schooljaar 2023-2024 is opgeleid op de vestigingen van de opleidingsscholen en aspirant-opleidingsscholen binnen de desbetreffende onderwijsregio.
 
-4. Indien het bedrag, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049781&artikel=3&z=2024-06-11&g=2024-06-11), ontoereikend is om alle daarvoor in aanmerking komende aanvragen te kunnen toewijzen, worden de subsidiebedragen, bedoeld in het eerste lid, onderdeel a en b, per aanvraag evenredig naar beneden bijgesteld.
+4. Indien het bedrag, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049781&artikel=3&z=2024-11-30&g=2024-11-30), ontoereikend is om alle daarvoor in aanmerking komende aanvragen te kunnen toewijzen, worden de subsidiebedragen, bedoeld in het eerste lid, onderdeel a en b, per aanvraag evenredig naar beneden bijgesteld.
 
 ##### Artikel 6. Aanvraag subsidie onderwijsregio
 
@@ -170,7 +170,7 @@ Voor subsidieverstrekking op grond van deze regeling is voor de periode van 1 ja
 
 5. Een aanvraag voor subsidie gaat vergezeld van:
 
-- a. een plan van aanpak als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0049781&artikel=8&z=2024-06-11&g=2024-06-11);
+- a. een plan van aanpak als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0049781&artikel=8&z=2024-11-30&g=2024-11-30);
 
 - b. de aanbevelingen van de Realisatie-Eenheid op de vorming of doorontwikkeling van de onderwijsregio en de gestelde ambities;
 
@@ -236,7 +236,7 @@ Voor subsidieverstrekking op grond van deze regeling is voor de periode van 1 ja
 
 - c. de uitwerking van de ambitie om 100% van de studenten en zij-instromers op te leiden binnen opleidingsscholen binnen de onderwijsregio die werken conform het Kwaliteitskader Samen Opleiden en Inductie als bedoeld in [artikel 1 van de Regeling tegemoetkoming kosten opleidingsscholen 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042461&artikel=1), zoals die luidde op 25 april 2023;
 
-- d. de organisatie van de ontwikkelingsgerichte peer review. Deze organisatie geldt alleen voor opleidingsscholen waarvan in kalenderjaar 2025 de ontwikkelingsgerichte peer review dient plaats te vinden. De ontwikkelingsgerichte peer review vindt plaats door een onafhankelijk panel bestaande uit vertegenwoordigers van ten minste twee andere opleidingsscholen. Het rapport van de ontwikkelingsgerichte peer review wordt opgenomen in de rapportage, bedoeld in [artikel 9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049781&artikel=9&z=2024-06-11&g=2024-06-11);
+- d. de organisatie van de ontwikkelingsgerichte peer review. Deze organisatie geldt alleen voor opleidingsscholen waarvan in kalenderjaar 2025 de ontwikkelingsgerichte peer review dient plaats te vinden. De ontwikkelingsgerichte peer review vindt plaats door een onafhankelijk panel bestaande uit vertegenwoordigers van ten minste twee andere opleidingsscholen. Het rapport van de ontwikkelingsgerichte peer review wordt opgenomen in de rapportage, bedoeld in [artikel 9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049781&artikel=9&z=2024-11-30&g=2024-11-30);
 
 - e. de activiteiten ten behoeve van deelname aan de beoordelingsgerichte peer review. Deze deelname geldt alleen voor de aspirant-opleidingsscholen die in 2021 zijn gestart, als aspirant-opleidingsschool en voor de aspirant-opleidingsscholen die in 2023 als onvoldoende zijn beoordeeld door de Minister;
 
@@ -272,7 +272,7 @@ Voor subsidieverstrekking op grond van deze regeling is voor de periode van 1 ja
 
 3. De penvoerder is ervoor verantwoordelijk dat de deelnemende partijen aan de aanvraag op verzoek van de Minister of de Realisatie-Eenheid actief meewerken aan kennisdelingsactiviteiten.
 
-4. De penvoerder is ervoor verantwoordelijk dat een afvaardiging van de deelnemende partijen aan de aanvraag in 2025 twee keer een gesprek voert met de Realisatie-Eenheid waarvan één bestuurlijk gesprek in het najaar, over opvolging van de aanbevelingen van de Realisatie-Eenheid, als bedoeld in [artikel 6, vijfde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049781&artikel=6&z=2024-06-11&g=2024-06-11), de voortgang, de behaalde resultaten en de genomen maatregelen uit het plan van aanpak inclusief de begroting.
+4. De penvoerder is ervoor verantwoordelijk dat een afvaardiging van de deelnemende partijen aan de aanvraag in 2025 twee keer een gesprek voert met de Realisatie-Eenheid waarvan één bestuurlijk gesprek in het najaar, over opvolging van de aanbevelingen van de Realisatie-Eenheid, als bedoeld in [artikel 6, vijfde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049781&artikel=6&z=2024-11-30&g=2024-11-30), de voortgang, de behaalde resultaten en de genomen maatregelen uit het plan van aanpak inclusief de begroting.
 
 5. Over de geboekte resultaten en de opvolging van de aanbevelingen van de Realisatie-Eenheid dient de penvoerder uiterlijk op 14 februari 2026 een rapportage in. In de rapportage zijn een terugblik op de activiteiten in 2025 door de penvoerder en aandachtspunten voor 2026 door de Realisatie-Eenheid opgenomen. Dit geschiedt met gebruikmaking van het format dat daartoe door DUS-I beschikbaar wordt gesteld. De rapportage wordt openbaar gemaakt met inachtneming van de voorschriften uit de Algemene verordening gegevensbescherming.
 
@@ -286,7 +286,7 @@ Voor subsidieverstrekking op grond van deze regeling is voor de periode van 1 ja
 
 1. Eén bevoegd gezag dat deelneemt aan de onderwijsregio treedt namens de andere bevoegde gezagsorganen in de regio op als penvoerder.
 
-2. De subsidie, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049781&artikel=4&z=2024-06-11&g=2024-06-11), wordt aangevraagd door, verstrekt aan en verantwoord door de penvoerder.
+2. De subsidie, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049781&artikel=4&z=2024-11-30&g=2024-11-30), wordt aangevraagd door, verstrekt aan en verantwoord door de penvoerder.
 
 3. De penvoerder is verantwoordelijk voor alle aan de subsidie verbonden verplichtingen, ongeacht welke van de deelnemende partijen feitelijk is belast met de uitvoering van de daarop betrekking hebbende werkzaamheden.
 
@@ -324,7 +324,7 @@ Voor subsidieverstrekking op grond van deze regeling is voor de periode van 1 ja
 
 2. De verantwoording van de subsidie geschiedt in de jaarverslaggeving overeenkomstig de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132) met model G, onderdeel 1.
 
-3. De subsidie wordt binnen één jaar na indiening van de jaarverslaggeving over het kalenderjaar 2025 en beoordeling van de rapportage, bedoeld in [artikel 9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049781&artikel=9&z=2024-06-11&g=2024-06-11), vastgesteld.
+3. De subsidie wordt binnen één jaar na indiening van de jaarverslaggeving over het kalenderjaar 2025 en beoordeling van de rapportage, bedoeld in [artikel 9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049781&artikel=9&z=2024-11-30&g=2024-11-30), vastgesteld.
 
 4. Indien de activiteiten waarvoor de subsidie is verleend zijn verricht en is voldaan aan de verplichtingen die verbonden zijn aan de verleende subsidie, wordt de subsidie vastgesteld op het bedrag waarvan de hoogte door de Minister bij de verlening is genoemd.
 
@@ -344,7 +344,7 @@ De Minister kan deze regeling in bijzondere gevallen buiten toepassing verklaren
 
 Deze regeling wordt aangehaald als: Subsidieregeling Landelijk dekkend netwerk onderwijsregio’s.
 
-## Bijlage 1. Behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049781&artikel=5&z=2024-06-11&g=2024-06-11) van de Subsidieregeling Landelijk dekkend netwerk onderwijsregio’s
+## Bijlage 1. Behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049781&artikel=5&z=2024-11-30&g=2024-11-30) van de Subsidieregeling Landelijk dekkend netwerk onderwijsregio’s
 
 De subsidiebedragen worden volgens de onderstaande tabel bepaald op basis van aantal leerlingen en of mbo-studenten van de deelnemende vestigingen in de onderwijsregio.
 
