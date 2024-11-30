@@ -4,7 +4,7 @@ identifier: "BWBR0042578"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-03-06"
-last_updated: "2022-12-08"
+last_updated: "2024-11-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042578"
 soort: "zbo"
@@ -74,19 +74,19 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 1:2. - Toepassingsbereik van deze regeling
 
-1. Voor de toepassing van [Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&hoofdstuk=2&z=2022-12-08&g=2022-12-08) van deze regeling wordt onder instelling verstaan:
+1. Voor de toepassing van [Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&hoofdstuk=2&z=2024-11-30&g=2024-11-30) van deze regeling wordt onder instelling verstaan:
 
 - a. een bank, als bedoeld in [artikel 1:1 van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), met zetel in Nederland;
 
 - b. een beleggingsonderneming onder de verordening kapitaalvereisten als bedoeld in [artikel 1:1 van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
 
-2. Voor de toepassing van [Hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&hoofdstuk=3&z=2022-12-08&g=2022-12-08) van deze regeling wordt onder instelling verstaan:
+2. Voor de toepassing van [Hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&hoofdstuk=3&z=2024-11-30&g=2024-11-30) van deze regeling wordt onder instelling verstaan:
 
 - a. een bank, als bedoeld in [artikel 1:1 van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), met zetel in Nederland die niet is aangemerkt als belangrijke kredietinstelling overeenkomstig artikel 6 lid 4 van de SSM Verordening; of
 
 - b. een beleggingsonderneming onder de verordening kapitaalvereisten als bedoeld in [artikel 1:1 van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
 
-3. [Hoofstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&hoofdstuk=3&z=2022-12-08&g=2022-12-08) van deze regeling is van overeenkomstige toepassing op clearinginstellingen met zetel in Nederland en op clearinginstellingen met zetel in een niet-aangewezen staat die hun bedrijf uitoefenen vanuit in Nederland gelegen bijkantoren, tenzij de aard van de bepaling of de systematiek van deze regeling deze overeenkomstige toepassing uitsluit.
+3. [Hoofstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&hoofdstuk=3&z=2024-11-30&g=2024-11-30) van deze regeling is van overeenkomstige toepassing op clearinginstellingen met zetel in Nederland en op clearinginstellingen met zetel in een niet-aangewezen staat die hun bedrijf uitoefenen vanuit in Nederland gelegen bijkantoren, tenzij de aard van de bepaling of de systematiek van deze regeling deze overeenkomstige toepassing uitsluit.
 
 ##### Artikel 1:3. - Aanwijzing gemeenschappelijke regelingen met openbaar lichaam
 
@@ -148,7 +148,7 @@ Instellingen passen met betrekking tot de in artikel 178, lid 1, onderdeel b) va
 
 - f). de in artikel 400, lid 2, onderdeel i) van de CRR opgesomde vrijstellingen, tot het maximaal toegestane bedrag.
 
-2. Instellingen beoordelen of is voldaan aan de in artikel 400, lid 3 van de CRR gestelde voorwaarden, alsook aan de [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&bijlage=I&z=2022-12-08&g=2022-12-08) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&bijlage=II&z=2022-12-08&g=2022-12-08), voor zover van toepassing op de specifieke blootstelling. DNB kan te allen tijde deze beoordeling verifiëren en daartoe van instellingen verlangen dat zij de in bijlage I of II bedoelde documentatie indienen.
+2. Instellingen beoordelen of is voldaan aan de in artikel 400, lid 3 van de CRR gestelde voorwaarden, alsook aan de [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&bijlage=I&z=2024-11-30&g=2024-11-30) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&bijlage=II&z=2024-11-30&g=2024-11-30), voor zover van toepassing op de specifieke blootstelling. DNB kan te allen tijde deze beoordeling verifiëren en daartoe van instellingen verlangen dat zij de in bijlage I of II bedoelde documentatie indienen.
 
 ##### Artikel 3:5. – Identificatie van de belangrijke beursindexen van een lidstaat of een derde land
 
@@ -314,7 +314,7 @@ Van de aldus berekende risicogewichten voor de individuele blootstellingen wordt
 
 3. Lid 1 van dit artikel is niet van toepassing op leningen voor zover deze geheel of gedeeltelijk gedekt zijn door de Stichting Waarborgfonds Eigen Woningen.
 
-4. Dit artikel vervalt per 1 december 2024.
+4. Dit artikel vervalt per 1 december 2026.
 
 ### Hoofdstuk 3. Microprudentiële opties en discreties
 
@@ -324,13 +324,13 @@ Van de aldus berekende risicogewichten voor de individuele blootstellingen wordt
 
 **Voorwaarden voor de beoordeling van een vrijstelling van de limiet voor grote blootstellingen, overeenkomstig artikel 400, lid 2, onderdeel c) van de CRR en artikel 3:4 van deze regeling.**
 
-- 1. Deze bijlage is van toepassing op vrijstellingen van de limiet voor grote blootstellingen krachtens [artikel 3:4](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&hoofdstuk=3&artikel=3:4&z=2022-12-08&g=2022-12-08) van deze regeling. Voor de toepassing van artikel 3:4 van deze regeling worden de in bijlage I bij Uitvoeringsbesluit 2014/908/EU van de Commissie1Uitvoeringsbesluit 2014/908/EU van de Commissie van 12 december 2014 betreffende de gelijkwaardigheid van de toezicht- en reguleringsvereisten van bepaalde derde landen en grondgebieden ten behoeve van de behandeling van blootstellingen overeenkomstig [Verordening (EU) nr. 575/2013](32013R0575) van het Europees Parlement en de Raad.[https://eur-lex.europa.eu/legal-content/NL/TXT/?qid=1566563706168&uri=CELEX:02014D0908-20190421](onbekend) opgevoerde derde landen als equivalent beschouwd.
+- 1. Deze bijlage is van toepassing op vrijstellingen van de limiet voor grote blootstellingen krachtens [artikel 3:4](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&hoofdstuk=3&artikel=3:4&z=2024-11-30&g=2024-11-30) van deze regeling. Voor de toepassing van artikel 3:4 van deze regeling worden de in bijlage I bij Uitvoeringsbesluit 2014/908/EU van de Commissie1Uitvoeringsbesluit 2014/908/EU van de Commissie van 12 december 2014 betreffende de gelijkwaardigheid van de toezicht- en reguleringsvereisten van bepaalde derde landen en grondgebieden ten behoeve van de behandeling van blootstellingen overeenkomstig [Verordening (EU) nr. 575/2013](32013R0575) van het Europees Parlement en de Raad.[https://eur-lex.europa.eu/legal-content/NL/TXT/?qid=1566563706168&uri=CELEX:02014D0908-20190421](https://eur-lex.europa.eu/legal-content/NL/TXT/?qid=1566563706168&uri=CELEX:02014D0908-20190421) opgevoerde derde landen als equivalent beschouwd.
 
 - 2. Instellingen nemen de volgende criteria in acht om te beoordelen of een in artikel 400, lid 2, onderdeel c), van de CRR bedoelde blootstelling voldoet aan de voorwaarden voor een vrijstelling van de limiet voor grote blootstellingen, zulks overeenkomstig artikel 400, lid 3 van de CRR:
 
 - a). Teneinde te beoordelen of de specifieke aard van de blootstelling, de tegenpartij, of de relatie tussen de instelling en de tegenpartij, het blootstellingsrisico elimineert of reduceert, zoals bedoeld in artikel 400, lid 3, onderdeel a) van de CRR, moeten instellingen nagaan of:
 
-- i). aan de in artikel 113, lid 6, onderdelen b), c) en e) van de CRR bedoelde voorwaarden is voldaan, en met name of de tegenpartij onderworpen is aan dezelfde risicobeoordelings-, waarderings- en controleprocedures als de instelling, en of de IT-systemen geïntegreerd zijn, of ten minste, volledig op elkaar zijn afgestemd. Daarnaast moeten zij nagaan of er sprake is van enige bestaande of verwachte materiële praktische of juridische belemmering die de tijdige terugbetaling van de blootstelling door de tegenpartij aan de instelling zou belemmeren, afgezien van een herstel- of een afwikkelingssituatie waarin de in [Richtlijn 2014/59](32014L0059)/EU van het Europees Parlement en de Raad2[Richtlijn 2014/59](32014L0059)/EU van het Europees Parlement en de Raad van 15 mei 2014 betreffende de totstandbrenging van een kader voor het herstel en de afwikkeling van kredietinstellingen en beleggingsondernemingen en tot wijziging van [Richtlijn 82/891/EEG](31982L0891) van de Raad en de [Richtlijnen 2001/24/EG](32001L0024), [2002/47/EG](32002L0047), [2004/25/EG](32004L0025), [2005/56/EG](32005L0056), [2007/36/EG](32007L0036), [2011/35](32011L0035)/EU, [2012/30](32012L0030)/EU en [2013/36](32013L0036)/EU en de Verordeningen (EU) [nr. 1093/2010](32993L2010) en (EU) [nr. 648/2012](32548L2012) van het Europees Parlement en de Raad.[https://eur-lex.europa.eu/legal-content/NL/TXT/?qid=1566563803411&uri=CELEX:02014L0059-20190627](onbekend) bedoelde beperkingen toegepast moeten worden;
+- i). aan de in artikel 113, lid 6, onderdelen b), c) en e) van de CRR bedoelde voorwaarden is voldaan, en met name of de tegenpartij onderworpen is aan dezelfde risicobeoordelings-, waarderings- en controleprocedures als de instelling, en of de IT-systemen geïntegreerd zijn, of ten minste, volledig op elkaar zijn afgestemd. Daarnaast moeten zij nagaan of er sprake is van enige bestaande of verwachte materiële praktische of juridische belemmering die de tijdige terugbetaling van de blootstelling door de tegenpartij aan de instelling zou belemmeren, afgezien van een herstel- of een afwikkelingssituatie waarin de in [Richtlijn 2014/59](32014L0059)/EU van het Europees Parlement en de Raad2[Richtlijn 2014/59](32014L0059)/EU van het Europees Parlement en de Raad van 15 mei 2014 betreffende de totstandbrenging van een kader voor het herstel en de afwikkeling van kredietinstellingen en beleggingsondernemingen en tot wijziging van [Richtlijn 82/891/EEG](31982L0891) van de Raad en de [Richtlijnen 2001/24/EG](32001L0024), [2002/47/EG](32002L0047), [2004/25/EG](32004L0025), [2005/56/EG](32005L0056), [2007/36/EG](32007L0036), [2011/35](32011L0035)/EU, [2012/30](32012L0030)/EU en [2013/36](32013L0036)/EU en de Verordeningen (EU) [nr. 1093/2010](32993L2010) en (EU) [nr. 648/2012](32548L2012) van het Europees Parlement en de Raad.[https://eur-lex.europa.eu/legal-content/NL/TXT/?qid=1566563803411&uri=CELEX:02014L0059-20190627](https://eur-lex.europa.eu/legal-content/NL/TXT/?qid=1566563803411&uri=CELEX:02014L0059-20190627) bedoelde beperkingen toegepast moeten worden;
 
 - ii). de intragroepblootstellingen worden gerechtvaardigd door de groepsfinancieringsstructuren -strategie;
 
@@ -392,7 +392,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - a). teneinde te beoordelen of de specifieke aard van de blootstelling, het regionale of centrale orgaan, of de relatie tussen de instelling en het regionale of centrale orgaan het blootstellingsrisico elimineert of reduceert, zoals bedoeld in artikel 400, lid 3, onderdeel a) van de CRR, moeten instellingen nagaan of:
 
-- i). er sprake is van enige bestaande of verwachte materiële praktische of juridische belemmering die de tijdige terugbetaling van de blootstelling door de tegenpartij aan de instelling zou belemmeren, afgezien van een herstel- of een afwikkelingssituatie waarin de in [Richtlijn 2014/59](32014L0059)/EU van het Europees Parlement en de Raad3[Richtlijn 2014/59](32014L0059)/EU van het Europees Parlement en de Raad van 15 mei 2014 betreffende de totstandbrenging van een kader voor het herstel en de afwikkeling van kredietinstellingen en beleggingsondernemingen en tot wijziging van [Richtlijn 82/891/EEG](31982L0891) van de Raad en de [Richtlijnen 2001/24/EG](32001L0024), [2002/47/EG](32002L0047), [2004/25/EG](32004L0025), [2005/56/EG](32005L0056), [2007/36/EG](32007L0036), [2011/35](32011L0035)/EU, [2012/30](32012L0030)/EU en [2013/36](32013L0036)/EU en de Verordeningen (EU) [nr. 1093/2010](32993L2010) en (EU) [nr. 648/2012](32548L2012), van het Europees Parlement en de Raad.[https://eur-lex.europa.eu/legal-content/NL/TXT/?qid=1566563803411&uri=CELEX:02014L0059-20190627](onbekend) bedoelde beperkingen moeten worden toegepast;
+- i). er sprake is van enige bestaande of verwachte materiële praktische of juridische belemmering die de tijdige terugbetaling van de blootstelling door de tegenpartij aan de instelling zou belemmeren, afgezien van een herstel- of een afwikkelingssituatie waarin de in [Richtlijn 2014/59](32014L0059)/EU van het Europees Parlement en de Raad3[Richtlijn 2014/59](32014L0059)/EU van het Europees Parlement en de Raad van 15 mei 2014 betreffende de totstandbrenging van een kader voor het herstel en de afwikkeling van kredietinstellingen en beleggingsondernemingen en tot wijziging van [Richtlijn 82/891/EEG](31982L0891) van de Raad en de [Richtlijnen 2001/24/EG](32001L0024), [2002/47/EG](32002L0047), [2004/25/EG](32004L0025), [2005/56/EG](32005L0056), [2007/36/EG](32007L0036), [2011/35](32011L0035)/EU, [2012/30](32012L0030)/EU en [2013/36](32013L0036)/EU en de Verordeningen (EU) [nr. 1093/2010](32993L2010) en (EU) [nr. 648/2012](32548L2012), van het Europees Parlement en de Raad.[https://eur-lex.europa.eu/legal-content/NL/TXT/?qid=1566563803411&uri=CELEX:02014L0059-20190627](https://eur-lex.europa.eu/legal-content/NL/TXT/?qid=1566563803411&uri=CELEX:02014L0059-20190627) bedoelde beperkingen moeten worden toegepast;
 
 - ii). de voorgestelde blootstellingen stroken met de normale bedrijfsvoering en het bedrijfsmodel van de instelling of worden gerechtvaardigd door de netwerkfinancieringsstructuur;
 
