@@ -4,7 +4,7 @@ identifier: "BWBR0050475"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-18"
-last_updated: "2024-01-01"
+last_updated: "2024-11-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050475"
 soort: "ministeriele-regeling"
@@ -58,19 +58,19 @@ De Minister verstrekt een specifieke uitkering aan de Rijksontvangers ten behoev
 
 1. Voor de specifieke uitkering is per kalenderjaar een bedrag van in totaal € 943.750,– inclusief BTW, beschikbaar.
 
-2. Het bedrag, genoemd in het eerste lid, wordt jaarlijks uiterlijk 31 januari ter beschikking gesteld aan de Rijksontvangers overeenkomstig de verdeling, bedoeld in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0050475&bijlage=I&z=2024-11-30&g=2024-01-01) bij deze regeling.
+2. Het bedrag, genoemd in het eerste lid, wordt jaarlijks uiterlijk 31 januari ter beschikking gesteld aan de Rijksontvangers overeenkomstig de verdeling, bedoeld in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0050475&bijlage=I&z=2024-11-30&g=2024-11-30) bij deze regeling.
 
 3. De wijze van betaling aan de Rijksontvanger wordt opgenomen in de toekenningsbeschikking.
 
 ##### Artikel 4. Verplichtingen Rijksontvanger
 
-1. De Rijksontvanger draagt zorg voor de uitbetaling van het bedrag, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050475&artikel=3&z=2024-11-30&g=2024-01-01), aan de onder hem ressorterende GrensInfoPunten.
+1. De Rijksontvanger draagt zorg voor de uitbetaling van het bedrag, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050475&artikel=3&z=2024-11-30&g=2024-11-30), aan de onder hem ressorterende GrensInfoPunten.
 
 2. De Rijksontvanger kan geen aanvullende inhoudelijke eisen aan de uitbetaling van de Rijksbijdrage verbinden.
 
 ##### Artikel 5. Reserveringsregeling
 
-Indien in een kalenderjaar de uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050475&artikel=2&z=2024-11-30&g=2024-01-01), niet volledig is besteed, kan de Rijksontvanger het niet bestede bedrag tot maximaal 100% van de toekende uitkering (in dat kalenderjaar) reserveren voor besteding als bedoeld in artikel 2, in het daaropvolgende kalenderjaar.
+Indien in een kalenderjaar de uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050475&artikel=2&z=2024-11-30&g=2024-11-30), niet volledig is besteed, kan de Rijksontvanger het niet bestede bedrag tot maximaal 100% van de toekende uitkering (in dat kalenderjaar) reserveren voor besteding als bedoeld in artikel 2, in het daaropvolgende kalenderjaar.
 
 ##### Artikel 6. Verantwoording en vaststelling
 
@@ -80,7 +80,7 @@ Indien in een kalenderjaar de uitkering, bedoeld in [artikel 2](https://wetten.o
 
 3. Indien de uitvoering van deze regeling volledig of gedeeltelijk door de Rijksontvanger aan het bestuur van een medeoverheid is opgedragen, kan voor de vaststelling van de specifieke uitkering de informatie, bedoeld in [art. 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), mede in aanmerking worden genomen die de medeoverheid heeft verstrekt over het jaar waarop de vaststelling betrekking heeft.
 
-4. Indien uit de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), blijkt dat de uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050475&artikel=2&z=2024-11-30&g=2024-01-01), niet volledig door de Rijksontvanger is besteed, kan de uitkering ter hoogte van het niet-bestede deel door de Minister teruggevorderd worden van de Rijksontvanger rekening houdend met de reserveringsregeling, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0050475&artikel=5&z=2024-11-30&g=2024-01-01).
+4. Indien uit de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), blijkt dat de uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050475&artikel=2&z=2024-11-30&g=2024-11-30), niet volledig door de Rijksontvanger is besteed, kan de uitkering ter hoogte van het niet-bestede deel door de Minister teruggevorderd worden van de Rijksontvanger rekening houdend met de reserveringsregeling, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0050475&artikel=5&z=2024-11-30&g=2024-11-30).
 
 5. De Minister doet binnen een jaar na ontvangst van de verantwoordingsinformatie mededeling van de vaststelling aan de Rijksontvanger.
 
@@ -100,7 +100,7 @@ Deze regeling treedt in werking met ingang van de dag na datum van uitgifte van 
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering GIPS.
 
-## Bijlage I. Verdeling specifieke uitkering (bijlage behorende bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050475&artikel=3&z=2024-11-30&g=2024-01-01))
+## Bijlage I. Verdeling specifieke uitkering (bijlage behorende bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050475&artikel=3&z=2024-11-30&g=2024-11-30))
 
 | **GIP** | **Rijksontvanger** | **Bijdrage SZW1** |
 | --- | --- | --- |
