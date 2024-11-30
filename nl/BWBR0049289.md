@@ -4,7 +4,7 @@ identifier: "BWBR0049289"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-11-30"
-last_updated: "2024-02-01"
+last_updated: "2024-11-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049289"
 soort: "ministeriele-regeling"
@@ -86,21 +86,21 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Hoogte en plafond
 
-1. De Minister kan in totaal ten hoogste € 23.664.420 aan specifieke uitkeringen aan provincies verstrekken voor het doel, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=2&artikel=2&z=2024-02-01&g=2024-02-01), verminderd met het bedrag aan compensabele BTW.
+1. De Minister kan in totaal ten hoogste € 32.644.420 aan specifieke uitkeringen aan provincies verstrekken voor het doel, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=2&artikel=2&z=2024-11-30&g=2024-11-30), verminderd met het bedrag aan compensabele BTW.
 
-2. Het totaal aan specifieke uitkeringen bedraagt ten hoogste het per provincie genoemde bedrag in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&bijlage=I&z=2024-02-01&g=2024-02-01), verminderd met het bedrag aan compensabele BTW.
+2. Het totaal aan specifieke uitkeringen bedraagt ten hoogste het per provincie genoemde bedrag in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&bijlage=I&z=2024-11-30&g=2024-11-30), verminderd met het bedrag aan compensabele BTW.
 
 3. Het bedrag aan compensabele BTW stort de Minister in het BTW compensatiefonds.
 
 ##### Artikel 4. Aanvraag
 
-1. Een specifieke uitkering als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=2&artikel=2&z=2024-02-01&g=2024-02-01) kan door de provincie worden aangevraagd van 15 februari 2024 vanaf 12.00 uur tot en met 15 maart 2024 tot 12.00 uur, dan wel zoveel eerder indien het plafond is bereikt.
+1. Een specifieke uitkering als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=2&artikel=2&z=2024-11-30&g=2024-11-30) kan door de provincie worden aangevraagd van 15 februari 2024 vanaf 12.00 uur tot en met 15 maart 2024 tot 12.00 uur, dan wel zoveel eerder indien het plafond is bereikt.
 
 2. Een aanvraag bevat in ieder geval:
 
-- a. een omschrijving van de activiteiten waarvoor de specifieke uitkering wordt aangevraagd en de wijze waarop de activiteiten bijdragen aan het doel, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=2&artikel=2&z=2024-02-01&g=2024-02-01);
+- a. een omschrijving van de activiteiten waarvoor de specifieke uitkering wordt aangevraagd en de wijze waarop de activiteiten bijdragen aan het doel, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=2&artikel=2&z=2024-11-30&g=2024-11-30);
 
-- b. een omschrijving op welke wijze wordt voldaan aan de beoordelingscriteria, bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&bijlage=II&z=2024-02-01&g=2024-02-01);
+- b. een omschrijving op welke wijze wordt voldaan aan de beoordelingscriteria, bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&bijlage=II&z=2024-11-30&g=2024-11-30);
 
 - c. een omschrijving van het provinciaal duurzaamheids- en energiebeleid voor de gebouwde omgeving, inclusief een aanpak voor de kleine en micro mkb-ondernemingen;
 
@@ -118,39 +118,39 @@ In deze regeling wordt verstaan onder:
 
 - j. een begroting van de activiteiten waarvoor een specifieke uitkering wordt aangevraagd, inclusief de compensabele BTW, waarbij de provincie onderscheid maakt tussen de advieskosten voor de kleine en micro mkb-onderneming en de kosten voor het opzetten van de organisatie van het programma; en
 
-- k. een omschrijving van de mate waarin de provincie stimuleert dat de kleine en micro mkb-onderneming een eigen bijdrage betaalt ten behoeve van het ontzorgingsprogramma, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=2&artikel=2&z=2024-02-01&g=2024-02-01).
+- k. een omschrijving van de mate waarin de provincie stimuleert dat de kleine en micro mkb-onderneming een eigen bijdrage betaalt ten behoeve van het ontzorgingsprogramma, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=2&artikel=2&z=2024-11-30&g=2024-11-30).
 
 3. Een aanvraag wordt ingediend met gebruikmaking van het aanvraagformulier dat door de Minister ter beschikking is gesteld op de website van de Rijksdienst voor Ondernemend Nederland.
 
 ##### Artikel 5. Weigeringsgronden
 
-1. Een aanvraag voor een specifieke uitkering als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=2&artikel=4&z=2024-02-01&g=2024-02-01) wordt geheel of gedeeltelijk afgewezen:
+1. Een aanvraag voor een specifieke uitkering als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=2&artikel=4&z=2024-11-30&g=2024-11-30) wordt geheel of gedeeltelijk afgewezen:
 
-- a. voor zover de in de aanvraag genoemde activiteit niet onder [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=2&artikel=2&z=2024-02-01&g=2024-02-01), valt;
+- a. voor zover de in de aanvraag genoemde activiteit niet onder [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=2&artikel=2&z=2024-11-30&g=2024-11-30), valt;
 
 - b. indien sprake is van een onvolledige aanvraag;
 
-- c. indien het plafond, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=2&artikel=3&z=2024-02-01&g=2024-02-01), is bereikt;
+- c. indien het plafond, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=2&artikel=3&z=2024-11-30&g=2024-11-30), is bereikt;
 
-- d. indien de aanvraag onvoldoende informatie bevat om te toetsen aan de beoordelingscriteria, bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&bijlage=II&z=2024-02-01&g=2024-02-01); of
+- d. indien de aanvraag onvoldoende informatie bevat om te toetsen aan de beoordelingscriteria, bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&bijlage=II&z=2024-11-30&g=2024-11-30); of
 
-- e. indien de aanvraag minder dan 60 punten scoort op grond van de beoordelingscriteria, bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&bijlage=II&z=2024-02-01&g=2024-02-01).
+- e. indien de aanvraag minder dan 60 punten scoort op grond van de beoordelingscriteria, bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&bijlage=II&z=2024-11-30&g=2024-11-30).
 
-2. Er wordt geen specifieke uitkering verstrekt voor de activiteiten, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=2&artikel=2&z=2024-02-01&g=2024-02-01), voor zover die op andere wijze worden gesubsidieerd of gefinancierd.
+2. Er wordt geen specifieke uitkering verstrekt voor de activiteiten, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=2&artikel=2&z=2024-11-30&g=2024-11-30), voor zover die op andere wijze worden gesubsidieerd of gefinancierd.
 
 ##### Artikel 6. Verstrekking
 
-Indien een specifieke uitkering als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=2&artikel=2&z=2024-02-01&g=2024-02-01) wordt verstrekt, vermeldt de beschikking in
+Indien een specifieke uitkering als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=2&artikel=2&z=2024-11-30&g=2024-11-30) wordt verstrekt, vermeldt de beschikking in
 
 ieder geval:
 
 - a. een beschrijving van de activiteiten waaraan de specifieke uitkering moet worden besteed;
 
-- b. het bedrag van de specifieke uitkering, met een maximum zoals bedoeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&bijlage=I&z=2024-02-01&g=2024-02-01).
+- b. het bedrag van de specifieke uitkering, met een maximum zoals bedoeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&bijlage=I&z=2024-11-30&g=2024-11-30).
 
 ##### Artikel 7. Verplichtingen
 
-1. De ontvanger van de specifieke uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=2&artikel=2&z=2024-02-01&g=2024-02-01), is verplicht om:
+1. De ontvanger van de specifieke uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=2&artikel=2&z=2024-11-30&g=2024-11-30), is verplicht om:
 
 - a. de activiteiten waarvoor een specifieke uitkering is verstrekt geheel uit te voeren tussen 1 mei 2024 en 1 mei 2027; en
 
@@ -158,9 +158,9 @@ ieder geval:
 
 2. Indien de afronding van de activiteiten niet voor de datum, bedoeld in het eerste lid, onderdeel a, buiten de schuld van de ontvanger van de specifieke uitkering mogelijk is, kan de Minister die termijn op schriftelijk en gemotiveerd verzoek van de ontvanger eenmaal met ten hoogste een jaar verlengen.
 
-3. De ontvanger van de specifieke uitkering mag deze alleen besteden ten behoeve van een kleine en micro mkb-onderneming die eigenaar is van het bedrijfsmatig vastgoed waarin zij is gevestigd of waarbij de eigenaar van het bedrijfsmatig vastgoed ingestemd heeft met de activiteiten, bedoeld in [artikel 2, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=2&artikel=2&z=2024-02-01&g=2024-02-01).
+3. De ontvanger van de specifieke uitkering mag deze alleen besteden ten behoeve van een kleine en micro mkb-onderneming die eigenaar is van het bedrijfsmatig vastgoed waarin zij is gevestigd of waarbij de eigenaar van het bedrijfsmatig vastgoed ingestemd heeft met de activiteiten, bedoeld in [artikel 2, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=2&artikel=2&z=2024-11-30&g=2024-11-30).
 
-4. Indien de kleine en micro mkb-onderneming aan de energiebesparingsplicht ter verduurzaming van het energiegebruik voor gebouwgebonden maatregelen, bedoeld in [3.84 van het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=3.84) moet voldoen, dient zij eerst de hieraan verbonden informatieplicht, bedoeld in [artikel 3.84a van dat Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=3.84a) te hebben uitgevoerd of indien sprake is van een energiebesparingsplicht voor procesgebonden maatregelen, bedoeld in [artikel 5.15 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=5.15), dient zij eerst de hieraan verbonden informatie- en onderzoeksplicht, bedoeld in [artikel 5.15a van dat Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=5.15a), te hebben uitgevoerd, voordat kan worden begonnen met de activiteiten, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=2&artikel=2&z=2024-02-01&g=2024-02-01), van deze regeling.
+4. Indien de kleine en micro mkb-onderneming aan de energiebesparingsplicht ter verduurzaming van het energiegebruik voor gebouwgebonden maatregelen, bedoeld in [3.84 van het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=3.84) moet voldoen, dient zij eerst de hieraan verbonden informatieplicht, bedoeld in [artikel 3.84a van dat Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=3.84a) te hebben uitgevoerd of indien sprake is van een energiebesparingsplicht voor procesgebonden maatregelen, bedoeld in [artikel 5.15 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=5.15), dient zij eerst de hieraan verbonden informatie- en onderzoeksplicht, bedoeld in [artikel 5.15a van dat Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=5.15a), te hebben uitgevoerd, voordat kan worden begonnen met de activiteiten, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=2&artikel=2&z=2024-11-30&g=2024-11-30), van deze regeling.
 
 5. Op verzoek van de Minister informeert de ontvanger van de specifieke uitkering aan hem over de voortgang van de activiteiten waarvoor de specifieke uitkering is verstrekt.
 
@@ -170,13 +170,13 @@ ieder geval:
 
 ##### Artikel 8. Voorschot
 
-De Minister verleent een voorschot van 100% van de specifieke uitkering, bedoeld in [artikel 6, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=2&artikel=6&z=2024-02-01&g=2024-02-01), en betaalt dat in één keer uit.
+De Minister verleent een voorschot van 100% van de specifieke uitkering, bedoeld in [artikel 6, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=2&artikel=6&z=2024-11-30&g=2024-11-30), en betaalt dat in één keer uit.
 
 ##### Artikel 9. Verantwoording en terugvordering
 
-1. De provincies leggen verantwoording af over de besteding van de ontvangen specifieke uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=2&artikel=2&z=2024-02-01&g=2024-02-01), op de wijze bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
+1. De provincies leggen verantwoording af over de besteding van de ontvangen specifieke uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=2&artikel=2&z=2024-11-30&g=2024-11-30), op de wijze bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
-2. Als uit de eindverantwoordingsinformatie blijkt dat de specifieke uitkering onrechtmatig is besteed gelet op het doel en de activiteiten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=2&artikel=2&z=2024-02-01&g=2024-02-01), of onvolledig is besteed binnen de daartoe gestelde termijn, kan de uitkering ter hoogte van het niet of onrechtmatig bestede deel door de Minister lager worden vastgesteld en worden teruggevorderd.
+2. Als uit de eindverantwoordingsinformatie blijkt dat de specifieke uitkering onrechtmatig is besteed gelet op het doel en de activiteiten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=2&artikel=2&z=2024-11-30&g=2024-11-30), of onvolledig is besteed binnen de daartoe gestelde termijn, kan de uitkering ter hoogte van het niet of onrechtmatig bestede deel door de Minister lager worden vastgesteld en worden teruggevorderd.
 
 3. De Minister doet binnen een jaar na ontvangst van de eindverantwoordingsinformatie mededeling van de terugvordering aan de ontvanger van de specifieke uitkering.
 
@@ -204,23 +204,23 @@ De Minister verleent een voorschot van 100% van de specifieke uitkering, bedoeld
 
 ##### Artikel 11. Hoogte en plafond
 
-1. De Minister kan in totaal ten hoogste € 22.220.000 aan specifieke uitkeringen aan provincies verstrekken voor het doel, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=3&artikel=10&z=2024-02-01&g=2024-02-01), verminderd met het bedrag aan compensabele BTW.
+1. De Minister kan in totaal ten hoogste € 22.220.000 aan specifieke uitkeringen aan provincies verstrekken voor het doel, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=3&artikel=10&z=2024-11-30&g=2024-11-30), verminderd met het bedrag aan compensabele BTW.
 
-2. Het totaal aan specifieke uitkeringen bedraagt ten hoogste het per provincie genoemde bedrag in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&bijlage=III&z=2024-02-01&g=2024-02-01), verminderd met het bedrag aan compensabele BTW.
+2. Het totaal aan specifieke uitkeringen bedraagt ten hoogste het per provincie genoemde bedrag in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&bijlage=III&z=2024-11-30&g=2024-11-30), verminderd met het bedrag aan compensabele BTW.
 
 3. Het bedrag aan compensabele BTW stort de Minister in het BTW compensatiefonds.
 
 ##### Artikel 12. Aanvraag
 
-1. Een specifieke uitkering als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=3&artikel=10&z=2024-02-01&g=2024-02-01) kan door de provincie worden aangevraagd van 15 februari 2024 vanaf 12.00 uur tot en met 15 maart 2024 tot 12.00 uur, dan wel zoveel eerder indien het plafond is bereikt.
+1. Een specifieke uitkering als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=3&artikel=10&z=2024-11-30&g=2024-11-30) kan door de provincie worden aangevraagd van 15 februari 2024 vanaf 12.00 uur tot en met 15 maart 2024 tot 12.00 uur, dan wel zoveel eerder indien het plafond is bereikt.
 
 2. Een aanvraag bevat in ieder geval:
 
-- a. een omschrijving van de activiteiten waarvoor de specifieke uitkering wordt aangevraagd en de wijze waarop de activiteiten bijdragen aan het doel, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=3&artikel=10&z=2024-02-01&g=2024-02-01);
+- a. een omschrijving van de activiteiten waarvoor de specifieke uitkering wordt aangevraagd en de wijze waarop de activiteiten bijdragen aan het doel, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=3&artikel=10&z=2024-11-30&g=2024-11-30);
 
 - b. het beoogde aantal bedrijventerreinen dat gefaciliteerd wordt met de voorgenomen activiteiten;
 
-- c. een omschrijving op welke wijze wordt voldaan aan de beoordelingscriteria, bedoeld in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&bijlage=IV&z=2024-02-01&g=2024-02-01);
+- c. een omschrijving op welke wijze wordt voldaan aan de beoordelingscriteria, bedoeld in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&bijlage=IV&z=2024-11-30&g=2024-11-30);
 
 - d. een omschrijving van het provinciaal duurzaamheidsbeleid voor de gebouwde omgeving en bedrijventerreinenbeleid;
 
@@ -238,33 +238,33 @@ De Minister verleent een voorschot van 100% van de specifieke uitkering, bedoeld
 
 ##### Artikel 13. Weigeringsgronden
 
-1. Een aanvraag voor een specifieke uitkering als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=3&artikel=12&z=2024-02-01&g=2024-02-01) wordt geheel of gedeeltelijk afgewezen:
+1. Een aanvraag voor een specifieke uitkering als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=3&artikel=12&z=2024-11-30&g=2024-11-30) wordt geheel of gedeeltelijk afgewezen:
 
-- a. voor zover de in de aanvraag genoemde activiteit niet onder [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=3&artikel=10&z=2024-02-01&g=2024-02-01), valt;
+- a. voor zover de in de aanvraag genoemde activiteit niet onder [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=3&artikel=10&z=2024-11-30&g=2024-11-30), valt;
 
 - b. indien sprake is van een onvolledige aanvraag;
 
-- c. indien het plafond, bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=3&artikel=11&z=2024-02-01&g=2024-02-01), is bereikt;
+- c. indien het plafond, bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=3&artikel=11&z=2024-11-30&g=2024-11-30), is bereikt;
 
-- d. indien de aanvraag onvoldoende informatie bevat om te toetsen aan de beoordelingscriteria, bedoeld in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&bijlage=IV&z=2024-02-01&g=2024-02-01); of
+- d. indien de aanvraag onvoldoende informatie bevat om te toetsen aan de beoordelingscriteria, bedoeld in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&bijlage=IV&z=2024-11-30&g=2024-11-30); of
 
-- e. indien de aanvraag minder dan 60 punten scoort op grond van de beoordelingscriteria, bedoeld in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&bijlage=IV&z=2024-02-01&g=2024-02-01).
+- e. indien de aanvraag minder dan 60 punten scoort op grond van de beoordelingscriteria, bedoeld in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&bijlage=IV&z=2024-11-30&g=2024-11-30).
 
-2. Er wordt geen specifieke uitkering verstrekt voor activiteiten, bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=3&artikel=10&z=2024-02-01&g=2024-02-01), voor zover die op andere wijze zijn gesubsidieerd of gefinancierd.
+2. Er wordt geen specifieke uitkering verstrekt voor activiteiten, bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=3&artikel=10&z=2024-11-30&g=2024-11-30), voor zover die op andere wijze zijn gesubsidieerd of gefinancierd.
 
 ##### Artikel 14. Verstrekking
 
-Indien een specifieke uitkering als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=3&artikel=10&z=2024-02-01&g=2024-02-01) wordt verstrekt, vermeldt de beschikking in
+Indien een specifieke uitkering als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=3&artikel=10&z=2024-11-30&g=2024-11-30) wordt verstrekt, vermeldt de beschikking in
 
 ieder geval:
 
 - a. een beschrijving van de activiteiten waaraan de specifieke uitkering moet worden besteed; en
 
-- b. het bedrag van de specifieke uitkering, met een maximum zoals bedoeld in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&bijlage=III&z=2024-02-01&g=2024-02-01).
+- b. het bedrag van de specifieke uitkering, met een maximum zoals bedoeld in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&bijlage=III&z=2024-11-30&g=2024-11-30).
 
 ##### Artikel 15. Verplichtingen
 
-1. De ontvanger van de specifieke uitkering, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=3&artikel=10&z=2024-02-01&g=2024-02-01), is verplicht om:
+1. De ontvanger van de specifieke uitkering, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=3&artikel=10&z=2024-11-30&g=2024-11-30), is verplicht om:
 
 - a. de activiteiten waarvoor een specifieke uitkering is verstrekt geheel uit te voeren tussen 1 mei 2024 en 1 mei 2027; en
 
@@ -280,13 +280,13 @@ ieder geval:
 
 ##### Artikel 16. Voorschot
 
-De Minister verleent een voorschot van 100% van de specifieke uitkering, bedoeld in [artikel 14, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=3&artikel=14&z=2024-02-01&g=2024-02-01), en betaalt dat in één keer uit.
+De Minister verleent een voorschot van 100% van de specifieke uitkering, bedoeld in [artikel 14, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=3&artikel=14&z=2024-11-30&g=2024-11-30), en betaalt dat in één keer uit.
 
 ##### Artikel 17. Verantwoording en terugvordering
 
-1. De provincies leggen verantwoording af over de besteding van de ontvangen specifieke uitkering, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=3&artikel=10&z=2024-02-01&g=2024-02-01), op de wijze bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
+1. De provincies leggen verantwoording af over de besteding van de ontvangen specifieke uitkering, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=3&artikel=10&z=2024-11-30&g=2024-11-30), op de wijze bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
-2. Als uit de eindverantwoordingsinformatie blijkt dat de specifieke uitkering onrechtmatig is besteed gelet op het doel en de activiteiten, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=3&artikel=10&z=2024-02-01&g=2024-02-01), of onvolledig is besteed binnen de daartoe gestelde termijn, kan de uitkering ter hoogte van het niet of onrechtmatig bestede deel door de Minister worden teruggevorderd.
+2. Als uit de eindverantwoordingsinformatie blijkt dat de specifieke uitkering onrechtmatig is besteed gelet op het doel en de activiteiten, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=3&artikel=10&z=2024-11-30&g=2024-11-30), of onvolledig is besteed binnen de daartoe gestelde termijn, kan de uitkering ter hoogte van het niet of onrechtmatig bestede deel door de Minister worden teruggevorderd.
 
 3. De Minister doet binnen een jaar na ontvangst van de eindverantwoordingsinformatie mededeling van de terugvordering aan de ontvanger van de specifieke uitkering.
 
@@ -302,21 +302,21 @@ Deze regeling wordt aangehaald als: Regeling specifieke uitkering ontzorgingspro
 
 ## Bijlage I. Hoogte totaal aan specifieke uitkeringen per provincie ten behoeve van het ontzorgingsprogramma verduurzaming kleine en micro mkb-ondernemingen
 
-| Provincies | Aantal inwoners | Percentage | Maximaal bedrag per provincie (euro) | Beoogde doelstelling met betrekking tot het aantal kleine en micro mkb-ondernemingen |
-| --- | --- | --- | --- | --- |
-| **Zuid-Holland** | 3.753.944 | 21,3% | 4.035.553 | 1.041 |
-| **Noord-Holland** | 2.909.827 | 16,5% | 3.274.273 | 832 |
-| **Noord-Brabant** | 2.592.874 | 14,7% | 2.988.424 | 754 |
-| **Gelderland** | 2.110.472 | 12,0% | 2.553.362 | 634 |
-| **Utrecht** | 1.369.873 | 7,8% | 1.885.441 | 451 |
-| **Overijssel** | 1.171.910 | 6,7% | 1.706.905 | 402 |
-| **Limburg** | 1.118.302 | 6,4% | 1.658.558 | 389 |
-| **Fryslân** | 654.019 | 3,7% | 1.239.837 | 274 |
-| **Groningen** | 590.170 | 3,4% | 1.182.254 | 258 |
-| **Drenthe** | 497.743 | 2,8% | 1.098.897 | 236 |
-| **Zeeland** | 386.767 | 2,2% | 998.812 | 208 |
-| **Flevoland** | 434.771 | 2,5% | 1.042.104 | 220 |
-| **Totaal** | 17.590.672 | 100% | 23.664.420 | 5.700 |
+| Provincies | Aantal inwoners | Percentage | Oorspronkelijk bedrag | Oorspronkelijke doelstelling | Maximaal aanvullend bedrag per provincie (euro) | Beoogde aanvullende doelstelling met betrekking tot het aantal kleine en micro mkb-ondernemingen |
+| --- | --- | --- | --- | --- | --- | --- |
+| Zuid-Holland | 3.753.944 | 21,30% | € 4.035.553 | 1.041 | 1.761.400 | 383 |
+| Noord-Holland | 2.909.827 | 16,50% | € 3.274.273 | 832 | 1.387.000 | 297 |
+| Noord-Brabant | 2.592.874 | 14,70% | € 2.988.424 | 754 | 1.246.600 | 265 |
+| Gelderland | 2.110.472 | 12,00% | € 2.553.362 | 634 | 1.036.000 | 216 |
+| Utrecht | 1.369.873 | 7,80% | € 1.885.441 | 451 | 708.400 | 140 |
+| Overijssel | 1.171.910 | 6,70% | € 1.706.905 | 402 | 622.600 | 121 |
+| Limburg | 1.118.302 | 6,40% | € 1.658.558 | 389 | 599.200 | 115 |
+| Fryslân | 654.019 | 3,70% | € 1.239.837 | 274 | 388.600 | 67 |
+| Groningen | 590.170 | 3,40% | € 1.182.254 | 258 | 365.200 | 61 |
+| Drenthe | 497.743 | 2,80% | € 1.098.897 | 236 | 318.400 | 50 |
+| Zeeland | 386.767 | 2,20% | € 998.812 | 208 | 271.600 | 40 |
+| Flevoland | 434.771 | 2,50% | € 1.042.104 | 220 | 295.000 | 45 |
+| Totaal | 17.590.672 | 100,00% | € 23.664.420 | 5.700 | 9.000.000 | 1.800 |
 
 ## Bijlage II. Beoordelingscriteria specifieke uitkering ten behoeve van het ontzorgingsprogramma verduurzaming kleine en micro mkb-ondernemingen
 
