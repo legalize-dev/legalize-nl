@@ -4,7 +4,7 @@ identifier: "BWBR0048026"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2024-01-01"
+last_updated: "2024-11-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048026"
 soort: "AMvB"
@@ -108,7 +108,7 @@ Het is verboden attractie- of speeltoestellen te vervaardigen, te verhandelen, t
 
 1. De fabrikant draagt er zorg voor dat attractie- en speeltoestellen zodanig zijn ontworpen en vervaardigd, zodanige eigenschappen hebben en van zodanige opschriften zijn voorzien, dat zij bij redelijkerwijs te verwachten gebruik geen gevaar opleveren voor de veiligheid of de gezondheid van de mens.
 
-2. De fabrikant draagt er zorg voor dat attractie- en speeltoestellen voldoen aan de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&bijlage=I&z=2024-01-01&g=2024-01-01) genoemde voorschriften.
+2. De fabrikant draagt er zorg voor dat attractie- en speeltoestellen voldoen aan de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&bijlage=I&z=2024-11-30&g=2024-11-30) genoemde voorschriften.
 
 3. De importeur draagt er zorg voor dat de fabrikant die niet in Nederland is gevestigd, het eerste en tweede lid in acht neemt.
 
@@ -116,7 +116,7 @@ Het is verboden attractie- of speeltoestellen te vervaardigen, te verhandelen, t
 
 1. Bij ministeriële regeling kunnen normen worden aangewezen en nadere voorschriften worden gesteld voor attractie- en speeltoestellen.
 
-2. Attractie- en speeltoestellen die voldoen aan de normen, bedoeld in het eerste lid, worden vermoed te voldoen aan [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&paragraaf=3&artikel=5&z=2024-01-01&g=2024-01-01).
+2. Attractie- en speeltoestellen die voldoen aan de normen, bedoeld in het eerste lid, worden vermoed te voldoen aan [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&paragraaf=3&artikel=5&z=2024-11-30&g=2024-11-30).
 
 ##### Artikel 7
 
@@ -138,7 +138,7 @@ Het is verboden attractie- of speeltoestellen te vervaardigen, te verhandelen, t
 
 ##### Artikel 8
 
-1. De fabrikant stelt voor attractie- en speeltoestellen een technisch constructiedossier op met inachtneming van [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&bijlage=II&z=2024-01-01&g=2024-01-01).
+1. De fabrikant stelt voor attractie- en speeltoestellen een technisch constructiedossier op met inachtneming van [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&bijlage=II&z=2024-11-30&g=2024-11-30).
 
 2. De fabrikant of, indien van toepassing, diens gemachtigde bewaart het technisch constructiedossier, bedoeld in het eerste lid, en de keuringsrapportage van de eerste keuring gedurende de technische levensduur van een attractietoestel en houdt het ter beschikking van een aangewezen instelling en de Nederlandse Voedsel- en Warenautoriteit.
 
@@ -146,7 +146,7 @@ Het is verboden attractie- of speeltoestellen te vervaardigen, te verhandelen, t
 
 4. Het tweede en derde lid zijn van overeenkomstige toepassing op speeltoestellen, met dien verstande dat de bewaartermijn, bedoeld in het tweede lid, beperkt is tot twintig jaar na de laatste productie van het speeltoestel.
 
-5. Degene die een attractie- of speeltoestel rechtstreeks betrekt van een in het buitenland gevestigde leverancier, met een ander voornemen dan om het in de handel te brengen, bedingt, indien het toestel niet vergezeld gaat van een technisch constructiedossier, contractueel dat de leverancier een technisch constructiedossier, overeenkomstig [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&bijlage=II&z=2024-01-01&g=2024-01-01), ter beschikking houdt van een aangewezen instelling, met inachtneming van de in het tweede en vierde lid genoemde termijnen.
+5. Degene die een attractie- of speeltoestel rechtstreeks betrekt van een in het buitenland gevestigde leverancier, met een ander voornemen dan om het in de handel te brengen, bedingt, indien het toestel niet vergezeld gaat van een technisch constructiedossier, contractueel dat de leverancier een technisch constructiedossier, overeenkomstig [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&bijlage=II&z=2024-11-30&g=2024-11-30), ter beschikking houdt van een aangewezen instelling, met inachtneming van de in het tweede en vierde lid genoemde termijnen.
 
 6. Bij ministeriële regeling kunnen eisen worden gesteld aan de keuringsrapportage, bedoeld in het tweede lid.
 
@@ -174,7 +174,7 @@ Het is verboden attractie- of speeltoestellen te vervaardigen, te verhandelen, t
 
 4. Indien het attractie- of speeltoestel alleen ter plaatse kan worden gekeurd, vanwege plaatsgebonden veiligheidsaspecten, dient de fabrikant, de importeur, de verhuurder dan wel de beheerder de aanvraag van een eerste keuring van dat toestel in bij slechts één aangewezen instelling.
 
-5. De aanvraag van een periodieke keuring als bedoeld in [artikel 9, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&paragraaf=4&artikel=9&z=2024-01-01&g=2024-01-01), wordt ingediend door de verhuurder dan wel de beheerder, bij slechts één aangewezen instelling.
+5. De aanvraag van een periodieke keuring als bedoeld in [artikel 9, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&paragraaf=4&artikel=9&z=2024-11-30&g=2024-11-30), wordt ingediend door de verhuurder dan wel de beheerder, bij slechts één aangewezen instelling.
 
 6. De aanvraag van een keuring omvat:
 
@@ -182,7 +182,7 @@ Het is verboden attractie- of speeltoestellen te vervaardigen, te verhandelen, t
 
 - b. het bouwjaar en het type- en serienummer;
 
-- c. het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&paragraaf=3&artikel=8&z=2024-01-01&g=2024-01-01) genoemde technisch constructiedossier, indien van toepassing, of de naam en adres van de fabrikant of, indien van toepassing, de importeur, bedoeld in artikel 8, derde lid, waar het technisch constructiedossier beschikbaar is voor de aangewezen instelling; en
+- c. het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&paragraaf=3&artikel=8&z=2024-11-30&g=2024-11-30) genoemde technisch constructiedossier, indien van toepassing, of de naam en adres van de fabrikant of, indien van toepassing, de importeur, bedoeld in artikel 8, derde lid, waar het technisch constructiedossier beschikbaar is voor de aangewezen instelling; en
 
 - d. de opgave van de plaats waar het attractie- of speeltoestel kan worden gekeurd.
 
@@ -190,19 +190,19 @@ Het is verboden attractie- of speeltoestellen te vervaardigen, te verhandelen, t
 
 ##### Artikel 11
 
-1. De aangewezen instelling onderzoekt bij een keuring het attractie- of speeltoestel, onderzoekt bij de eerste keuring of het technisch constructiedossier is vervaardigd overeenkomstig [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&bijlage=II&z=2024-01-01&g=2024-01-01) en beoordeelt bij de eerste keuring of het attractie- of speeltoestel is vervaardigd en ontworpen overeenkomstig het technisch constructiedossier en [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&bijlage=I&z=2024-01-01&g=2024-01-01).
+1. De aangewezen instelling onderzoekt bij een keuring het attractie- of speeltoestel, onderzoekt bij de eerste keuring of het technisch constructiedossier is vervaardigd overeenkomstig [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&bijlage=II&z=2024-11-30&g=2024-11-30) en beoordeelt bij de eerste keuring of het attractie- of speeltoestel is vervaardigd en ontworpen overeenkomstig het technisch constructiedossier en [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&bijlage=I&z=2024-11-30&g=2024-11-30).
 
 2. Bij de tweede en volgende keuringen van attractie- en speeltoestellen hoeft geen beoordeling van het technisch constructiedossier plaats te vinden.
 
 3. In afwijking van het tweede lid kan het technisch constructiedossier van een speeltoestel en een attractietoestel van een eenvoudig ontwerp die overeenkomstig het goedgekeurde, typekenmerkende monster zijn vervaardigd, volgens bij ministeriële regeling te stellen voorschriften, periodiek opnieuw beoordeeld worden door de aangewezen instelling.
 
-4. De aangewezen instelling onderzoekt bij een keuring of de eventuele toepassing van normen, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&paragraaf=3&artikel=6&z=2024-01-01&g=2024-01-01), correct is gebeurd en voert passende onderzoeken en proeven uit om te onderzoeken of het attractie- of speeltoestel overeenstemt met de daarop betrekking hebbende veiligheids- en gezondheidsvoorschriften.
+4. De aangewezen instelling onderzoekt bij een keuring of de eventuele toepassing van normen, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&paragraaf=3&artikel=6&z=2024-11-30&g=2024-11-30), correct is gebeurd en voert passende onderzoeken en proeven uit om te onderzoeken of het attractie- of speeltoestel overeenstemt met de daarop betrekking hebbende veiligheids- en gezondheidsvoorschriften.
 
 ##### Artikel 12
 
-1. Nadat een keuring heeft plaatsgevonden wordt voor een attractie- of speeltoestel een certificaat van goedkeuring afgegeven door de aangewezen instelling, indien dat toestel naar het oordeel van de aangewezen instelling voldoet aan de in de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&paragraaf=3&artikel=5&z=2024-01-01&g=2024-01-01) en [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&paragraaf=3&artikel=8&z=2024-01-01&g=2024-01-01), gestelde voorschriften.
+1. Nadat een keuring heeft plaatsgevonden wordt voor een attractie- of speeltoestel een certificaat van goedkeuring afgegeven door de aangewezen instelling, indien dat toestel naar het oordeel van de aangewezen instelling voldoet aan de in de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&paragraaf=3&artikel=5&z=2024-11-30&g=2024-11-30) en [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&paragraaf=3&artikel=8&z=2024-11-30&g=2024-11-30), gestelde voorschriften.
 
-2. Bij toepassing van [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&paragraaf=4&artikel=9&z=2024-01-01&g=2024-01-01), wordt ieder attractie- of speeltoestel dat overeenkomstig het goedgekeurde, typekenmerkende monster is vervaardigd zonder nadere keuring onverwijld van een merk van goedkeuring voorzien door de fabrikant dan wel importeur.
+2. Bij toepassing van [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&paragraaf=4&artikel=9&z=2024-11-30&g=2024-11-30), wordt ieder attractie- of speeltoestel dat overeenkomstig het goedgekeurde, typekenmerkende monster is vervaardigd zonder nadere keuring onverwijld van een merk van goedkeuring voorzien door de fabrikant dan wel importeur.
 
 3. De aangewezen instelling draagt er zorg voor dat attractietoestellen die niet overeenkomstig een goedgekeurd, typekenmerkende monster zijn vervaardigd en waarvoor een certificaat van goedkeuring is afgegeven, onverwijld voorzien worden van een merk van goedkeuring.
 
@@ -226,7 +226,7 @@ De aangewezen instelling stelt bij attractie- en speeltoestellen de voor het vei
 
 3. De aangewezen instelling beoordeelt de in het eerste of tweede lid bedoelde wijziging of reparatie op effecten voor de veiligheid of gezondheid van personen en stelt de fabrikant, importeur, verhuurder dan wel beheerder, bedoeld in het eerste of tweede lid, op de hoogte van het oordeel.
 
-4. Indien het oordeel luidt dat de in het eerste of tweede lid bedoelde wijziging of reparatie de veiligheid of gezondheid van personen negatief kan beïnvloeden, vervalt de geldigheid van het betreffende certificaat van goedkeuring en dient degene die de aangewezen instelling in kennis heeft gesteld, overeenkomstig [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&paragraaf=4&artikel=10&z=2024-01-01&g=2024-01-01) een nieuwe aanvraag in van een keuring van het attractie- of speeltoestel.
+4. Indien het oordeel luidt dat de in het eerste of tweede lid bedoelde wijziging of reparatie de veiligheid of gezondheid van personen negatief kan beïnvloeden, vervalt de geldigheid van het betreffende certificaat van goedkeuring en dient degene die de aangewezen instelling in kennis heeft gesteld, overeenkomstig [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&paragraaf=4&artikel=10&z=2024-11-30&g=2024-11-30) een nieuwe aanvraag in van een keuring van het attractie- of speeltoestel.
 
 5. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het verlenen van een certificaat van goedkeuring na de keuring, bedoeld in het vierde lid, van attractie- of speeltoestellen die overeenkomstig het goedgekeurde, het typekenmerkende monster zijn vervaardigd.
 
@@ -248,13 +248,13 @@ De verhuurder dan wel de beheerder beschikt over een geldig, bij het attractie- 
 
 Alvorens een attractie- of speeltoestel te verhandelen, ziet de distributeur dan wel de importeur erop toe dat:
 
-- a. indien van toepassing, het toestel voorzien is van een uniek registratienummer, bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&paragraaf=3&artikel=7&z=2024-01-01&g=2024-01-01);
+- a. indien van toepassing, het toestel voorzien is van een uniek registratienummer, bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&paragraaf=3&artikel=7&z=2024-11-30&g=2024-11-30);
 
 - b. indien van toepassing, voor het toestel een geldig certificaat van goedkeuring is afgegeven;
 
 - c. het toestel voorzien is van een technisch constructiedossier; en
 
-- d. het toestel vergezeld gaat van een Nederlandse gebruiksaanwijzing, bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&paragraaf=5&artikel=16&z=2024-01-01&g=2024-01-01).
+- d. het toestel vergezeld gaat van een Nederlandse gebruiksaanwijzing, bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&paragraaf=5&artikel=16&z=2024-11-30&g=2024-11-30).
 
 ##### Artikel 19
 
@@ -268,7 +268,7 @@ Alvorens een attractie- of speeltoestel te verhandelen, ziet de distributeur dan
 
 ##### Artikel 20
 
-De beheerder dan wel de verhuurder bewaart de documenten bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&paragraaf=4&artikel=13&z=2024-01-01&g=2024-01-01) die voor het attractie- of speeltoestel tijdens de eerste keuring zijn afgegeven gedurende de levensduur van het toestel. Documenten voor de daaropvolgende keuringen worden tenminste bewaard tot keuringsdocumenten van de volgende keuring afgegeven zijn.
+De beheerder dan wel de verhuurder bewaart de documenten bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&paragraaf=4&artikel=13&z=2024-11-30&g=2024-11-30) die voor het attractie- of speeltoestel tijdens de eerste keuring zijn afgegeven gedurende de levensduur van het toestel. Documenten voor de daaropvolgende keuringen worden tenminste bewaard tot keuringsdocumenten van de volgende keuring afgegeven zijn.
 
 ##### Artikel 21
 
@@ -280,7 +280,7 @@ De verhuurder, huurder dan wel de beheerder van een attractie- of speeltoestel d
 
 ##### Artikel 22
 
-[Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&paragraaf=2&artikel=4&z=2024-01-01&g=2024-01-01) is niet van toepassing op het tentoonstellen en demonstreren op beurzen, exposities en bij demonstraties van attractie- en speeltoestellen die niet in overeenstemming zijn met dit besluit, mits op een zichtbaar bord is aangegeven dat de betrokken toestellen niet in overeenstemming met dit besluit zijn, en dat zij niet in het verkeer mogen worden gebracht voordat ze door de fabrikant of importeur in overeenstemming met dit besluit zijn gebracht. Bij demonstraties zijn alle passende veiligheidsmaatregelen genomen om de veiligheid en gezondheid van de mens te waarborgen.
+[Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&paragraaf=2&artikel=4&z=2024-11-30&g=2024-11-30) is niet van toepassing op het tentoonstellen en demonstreren op beurzen, exposities en bij demonstraties van attractie- en speeltoestellen die niet in overeenstemming zijn met dit besluit, mits op een zichtbaar bord is aangegeven dat de betrokken toestellen niet in overeenstemming met dit besluit zijn, en dat zij niet in het verkeer mogen worden gebracht voordat ze door de fabrikant of importeur in overeenstemming met dit besluit zijn gebracht. Bij demonstraties zijn alle passende veiligheidsmaatregelen genomen om de veiligheid en gezondheid van de mens te waarborgen.
 
 ##### Artikel 23
 
@@ -324,11 +324,11 @@ De instelling verstrekt jaarlijks aan Onze Minister een afschrift van de polis v
 
 1. Indien een wijziging plaatsvindt in de gegevens op grond waarvan de instelling is aangewezen, doet de instelling hiervan terstond mededeling aan Onze Minister.
 
-2. Indien een instelling voornemens is een of meer van de taken waarvoor zij is aangewezen, te beëindigen, doet de instelling hiervan terstond mededeling aan Onze Minister en de certificaathouders. In dat geval worden door de instelling de gegevens, bedoeld in [artikel 24, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&paragraaf=6&artikel=24&z=2024-01-01&g=2024-01-01), overgedragen aan de Nederlandse Voedsel- en Warenautoriteit dan wel, na toestemming van Onze Minister en de certificaathouders, een andere instelling die voor dezelfde taken is aangewezen.
+2. Indien een instelling voornemens is een of meer van de taken waarvoor zij is aangewezen, te beëindigen, doet de instelling hiervan terstond mededeling aan Onze Minister en de certificaathouders. In dat geval worden door de instelling de gegevens, bedoeld in [artikel 24, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&paragraaf=6&artikel=24&z=2024-11-30&g=2024-11-30), overgedragen aan de Nederlandse Voedsel- en Warenautoriteit dan wel, na toestemming van Onze Minister en de certificaathouders, een andere instelling die voor dezelfde taken is aangewezen.
 
 ##### Artikel 27
 
-1. Een aanvraag om aanwijzing gaat vergezeld van het bewijs dat is voldaan aan de criteria, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&paragraaf=6&artikel=24&z=2024-01-01&g=2024-01-01), dan wel van een verklaring waaruit de bereidheid blijkt om voor eigen rekening een onderzoek naar het voldoen aan deze criteria te ondergaan.
+1. Een aanvraag om aanwijzing gaat vergezeld van het bewijs dat is voldaan aan de criteria, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&paragraaf=6&artikel=24&z=2024-11-30&g=2024-11-30), dan wel van een verklaring waaruit de bereidheid blijkt om voor eigen rekening een onderzoek naar het voldoen aan deze criteria te ondergaan.
 
 2. Een aanvraag tot aanwijzing kan worden geweigerd en een aanwijzing kan worden geschorst, gewijzigd of ingetrokken, indien niet of niet volledig is voldaan aan de bij de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969) of bij of krachtens dit besluit gestelde voorschriften.
 
@@ -372,7 +372,7 @@ Een certificaat afgegeven op grond van [artikel 19d van het Warenwetbesluit attr
 
 ##### Artikel 32
 
-De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&paragraaf=3&artikel=7&z=2024-01-01&g=2024-01-01), [8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&paragraaf=3&artikel=8&z=2024-01-01&g=2024-01-01), [9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&paragraaf=4&artikel=9&z=2024-01-01&g=2024-01-01), en [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&paragraaf=5&artikel=16&z=2024-01-01&g=2024-01-01), zijn niet van toepassing op speeltoestellen die reeds in gebruik waren op het tijdstip van inwerkingtreding van het Warenwetbesluit attractie- en speeltoestellen 2023.
+De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&paragraaf=3&artikel=7&z=2024-11-30&g=2024-11-30), [8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&paragraaf=3&artikel=8&z=2024-11-30&g=2024-11-30), [9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&paragraaf=4&artikel=9&z=2024-11-30&g=2024-11-30), en [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&paragraaf=5&artikel=16&z=2024-11-30&g=2024-11-30), zijn niet van toepassing op speeltoestellen die reeds in gebruik waren op het tijdstip van inwerkingtreding van het Warenwetbesluit attractie- en speeltoestellen.
 
 ##### Artikel 33
 
@@ -490,6 +490,6 @@ Het technisch constructiedossier dient in ieder geval te bestaan uit:
 
 - g. ingeval het gaat om het typekenmerkend monster: de interne bepalingen die worden toegepast bij de productie van meerdere toestellen of voor de veiligheid regelmatig te vervangen essentiële onderdelen, ter handhaving van de overeenstemming met het, het typekenmerkend monster;
 
-- h. een exemplaar van de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&paragraaf=5&artikel=16&z=2024-01-01&g=2024-01-01) van dit besluit bedoelde gebruiksaanwijzing en andere verstrekte informatie.
+- h. een exemplaar van de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&paragraaf=5&artikel=16&z=2024-11-30&g=2024-11-30) van dit besluit bedoelde gebruiksaanwijzing en andere verstrekte informatie.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
