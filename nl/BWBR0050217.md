@@ -4,7 +4,7 @@ identifier: "BWBR0050217"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-03-12"
-last_updated: "2024-09-24"
+last_updated: "2024-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050217"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- **adviescommissie:** adviescommissie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050217&artikel=2&z=2024-09-24&g=2024-09-24);
+- **adviescommissie:** adviescommissie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050217&artikel=2&z=2024-09-24&g=2024-12-01);
 
 - **beoordelingsmoment:** de uiterlijke datum waarop de uitwerkingen van activiteitenplannen of het indienen van verantwoordingsverslagen zoals bedoeld in [artikel 1.10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&artikel=1.10) en [artikel 1.11, eerste lid, onder b van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&artikel=1.11) moeten worden ingediend dat wordt beoordeeld door de adviescommissie;
 
@@ -187,5 +187,25 @@ De adviescommissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamh
 ##### Artikel 14. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit adviescommissie techniek- en technologieonderwijs in het funderend onderwijs.
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.
+
+##### Artikel 3a. Taak van de adviescommissie [regeling Techkwadraat](https://wetten.overheid.nl/jci1.3:c:BWBR0050458)
+
+1. De adviescommissie heeft met betrekking tot de [regeling Techkwadraat](https://wetten.overheid.nl/jci1.3:c:BWBR0050458) tot taak:
+
+- a. het beoordelen van het ingediende activiteitenplan, de regiovisie en de sluitende meerjarenbegroting als bedoeld in [artikel 1.8, tweede lid, onderdelen a en c, van de regeling Techkwadraat](https://wetten.overheid.nl/jci1.3:c:BWBR0050458&artikel=1.8) aan de hand van het beoordelingskader dat is opgenomen als [Bijlage 1 bij de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&bijlage=1), en het adviseren van de minister hierover;
+
+- b. het adviseren van de minister over de ingediende activiteitenplan, regiovisie, en sluitende meerjarenbegroting, en dat advies te voorzien van een draagkrachtige motivering;
+
+- c. het adviseren van de minister op significante koerswijzigingen binnen het ingediende activiteitenplan;
+
+- d. het op verzoek van de minister adviseren van de penvoerder over de voortgangsrapportage, bedoeld in [artikel 1.13 van de regeling Techkwadraat](https://wetten.overheid.nl/jci1.3:c:BWBR0050458&artikel=1.13);
+
+- e. het op verzoek van de minister adviseren van de penvoerder over het eindverslag, zoals bedoeld in [artikel 1.12, eerste lid, onderdeel c, van de regeling Techkwadraat](https://wetten.overheid.nl/jci1.3:c:BWBR0050458&artikel=1.12);
+
+- f. het op verzoek van de minister reflecteren op de tussenrapportages en de eindevaluatie van het onderzoeksconsortium dat de regionale planvorming en de uitvoering van die plannen monitort en evalueert.
+
+2. Voor de taken, bedoeld in het eerste lid onderdeel a, adviseert de adviescommissie de minister binnen 13 weken na afloop van elke indienperiode als bedoeld in [artikel 1.8, derde lid, van de regeling Techkwadraat](https://wetten.overheid.nl/jci1.3:c:BWBR0050458&artikel=1.8).
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.
