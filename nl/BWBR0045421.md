@@ -4,7 +4,7 @@ identifier: "BWBR0045421"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-12-03"
-last_updated: "2024-09-30"
+last_updated: "2024-12-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045421"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **minister:** Minister voor Basis- en Voortgezet Onderwijs en Media;
 
-- b. **expertgroep:** Wetenschappelijke Expertgroep Nationaal Programma Onderwijs, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045421&artikel=2&z=2024-12-03&g=2024-09-30).
+- b. **expertgroep:** Wetenschappelijke Expertgroep Nationaal Programma Onderwijs, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045421&artikel=2&z=2024-12-03&g=2024-12-03).
 
 ##### Artikel 2. Instelling en taken
 
@@ -82,7 +82,7 @@ Voor de duur van de expertgroep worden tot lid van de expertgroep benoemd:
 
 - c. mevrouw J. Bolhaar;
 
-- d. mevrouw E. Crone;
+- d. mevrouw A.C.K. Van Duijvenvoorde;
 
 - e. mevrouw C. Finkenauer; en
 
