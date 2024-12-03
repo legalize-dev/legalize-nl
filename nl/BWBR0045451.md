@@ -4,7 +4,7 @@ identifier: "BWBR0045451"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-12-03"
-last_updated: "2024-05-08"
+last_updated: "2024-12-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045451"
 soort: "ministeriele-regeling"
@@ -72,7 +72,9 @@ Aan de Dienst Wegverkeer wordt mandaat en machtiging verleend tot het nemen van 
 
 - g. het vaststellen van een waarnemingsplan als bedoeld in [artikel 3, eerste lid, van het Besluit tijdelijke tolheffing Blankenburgverbinding en ViA15](https://wetten.overheid.nl/jci1.3:c:BWBR0048667&artikel=3);
 
-- h. het verwerken van de persoonsgegevens ten behoeve van de uitvoering van de hiervoor genoemde taken.
+- h. het faciliteren van de uitoefening van de rechten van de betrokkene als bedoeld in artikel 12, tweede lid, van de Algemene verordening gegevensbescherming;
+
+- i. het verwerken van de persoonsgegevens ten behoeve van de uitvoering van de hiervoor genoemde taken.
 
 ##### Artikel 3. (privaatrechtelijke rechtshandelingen en feitelijke handelingen)
 
@@ -82,15 +84,15 @@ Aan de Dienst Wegverkeer wordt mandaat en machtiging verleend tot het nemen van 
 
 ##### Artikel 4. (bezwaar- en beroepschriften)
 
-Aan de Dienst Wegverkeer wordt mandaat en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen besluiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045451&artikel=2&z=2024-05-08&g=2024-05-08), waaronder het nemen van beslissingen op bezwaarschriften en het instellen en behandelen van (hoger) beroep en namens de Minister in rechte op te treden.
+Aan de Dienst Wegverkeer wordt mandaat en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen besluiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045451&artikel=2&z=2024-12-03&g=2024-12-03), waaronder het nemen van beslissingen op bezwaarschriften en het instellen en behandelen van (hoger) beroep en namens de Minister in rechte op te treden.
 
 ##### Artikel 5. (ondermandaat)
 
-1. De Dienst Wegverkeer kan de aan hem gemandateerde bevoegdheden, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045451&artikel=2&z=2024-05-08&g=2024-05-08) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0045451&artikel=4&z=2024-05-08&g=2024-05-08), in ondermandaat verlenen aan een ambtenaar werkzaam voor zijn organisatie.
+1. De Dienst Wegverkeer kan de aan hem gemandateerde bevoegdheden, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045451&artikel=2&z=2024-12-03&g=2024-12-03) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0045451&artikel=4&z=2024-12-03&g=2024-12-03), in ondermandaat verlenen aan een ambtenaar werkzaam voor zijn organisatie.
 
 2. Tenzij anders is bepaald omvat de verlening van ondermandaat mede de bevoegdheid tot het beslissen op bezwaar.
 
-3. Het eerste lid is van overeenkomstige toepassing op volmacht en machtiging als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045451&artikel=3&z=2024-05-08&g=2024-05-08).
+3. Het eerste lid is van overeenkomstige toepassing op volmacht en machtiging als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045451&artikel=3&z=2024-12-03&g=2024-12-03).
 
 ##### Artikel 6. (voorbehouden bevoegdheden secretaris-generaal)
 
@@ -98,9 +100,9 @@ Aan de secretaris-generaal is de bevoegdheid voorbehouden tot het doen van de me
 
 ##### Artikel 7. (mandaat en ondermandaat beslissen op bezwaar)
 
-1. In afwijking van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045451&artikel=4&z=2024-05-08&g=2024-05-08) en [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045451&artikel=5&z=2024-05-08&g=2024-05-08), mag de beslissing op bezwaar niet in mandaat of ondermandaat worden genomen door de degene die het besluit waartegen het bezwaar is gericht, heeft genomen.
+1. In afwijking van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045451&artikel=4&z=2024-12-03&g=2024-12-03) en [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045451&artikel=5&z=2024-12-03&g=2024-12-03), mag de beslissing op bezwaar niet in mandaat of ondermandaat worden genomen door de degene die het besluit waartegen het bezwaar is gericht, heeft genomen.
 
-2. In afwijking van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045451&artikel=5&z=2024-05-08&g=2024-05-08), mag de beslissing op bezwaar niet in ondermandaat worden genomen door degene die in de hiërarchische verhoudingen ressorteert onder degene die het besluit waartegen het bezwaar zich richt, heeft genomen.
+2. In afwijking van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045451&artikel=5&z=2024-12-03&g=2024-12-03), mag de beslissing op bezwaar niet in ondermandaat worden genomen door degene die in de hiërarchische verhoudingen ressorteert onder degene die het besluit waartegen het bezwaar zich richt, heeft genomen.
 
 ##### Artikel 8. (kaders uitoefening bevoegdheden)
 
