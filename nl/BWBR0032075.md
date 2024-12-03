@@ -4,7 +4,7 @@ identifier: "BWBR0032075"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-19"
-last_updated: "2024-11-08"
+last_updated: "2024-12-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032075"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ In deze regeling wordt verstaan onder:
 
 - d. **inspectierapport:** rapport dat de technische of fysieke staat van een rijksmonument of zelfstandig onderdeel beschrijft, en dat is opgesteld door een ter zake deskundige persoon of instantie,
 
-- e. **instandhoudingsplan:** plan als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.2&artikel=10&z=2024-11-08&g=2024-11-08),
+- e. **instandhoudingsplan:** plan als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.2&artikel=10&z=2024-12-03&g=2024-12-03),
 
 - f. **kerkelijk dienstgebouw in kerkelijk gebruik:** rijksmonument of zelfstandig onderdeel dat functioneel bij een gebouw hoort dat in oorsprong uitsluitend of voor een overwegend deel is vervaardigd voor het gezamenlijk belijden van de godsdienst of levensovertuiging, vanwege het rechtstreeks met die gezamenlijke belijdenis in dat gebouw verbonden huidige gebruik,
 
@@ -64,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 - i. **minister:** Minister van Onderwijs, Cultuur en Wetenschap,
 
-- j. **professionele organisatie voor monumentenbehoud:** aangewezen organisatie als bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=3&artikel=30&z=2024-11-08&g=2024-11-08),
+- j. **professionele organisatie voor monumentenbehoud:** aangewezen organisatie als bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=3&artikel=30&z=2024-12-03&g=2024-12-03),
 
 - k. **werelderfgoed:** gebied dat door UNESCO is aangewezen als werelderfgoed op grond van de Overeenkomst inzake de bescherming van het cultureel en natuurlijk erfgoed van de wereld (Parijs, 16 november 1972),
 
@@ -138,7 +138,7 @@ Een aanvraag kan elektronisch of op papier worden ingediend. Elektronische aanvr
 
 2. In een aanvraagformulier kunnen de volgende bescheiden worden gevraagd:
 
-- a. een instandhoudingsplan of een meerjarenbegroting als bedoeld in [artikel 10, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.2&artikel=10&z=2024-11-08&g=2024-11-08),
+- a. een instandhoudingsplan of een meerjarenbegroting als bedoeld in [artikel 10, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.2&artikel=10&z=2024-12-03&g=2024-12-03),
 
 - b. een actueel inspectierapport en, indien niet in het inspectierapport opgenomen, een of meer actuele overzichts- en detailfoto’s die een duidelijke indruk geven van het rijksmonument of zelfstandig onderdeel en zijn gebreken,
 
@@ -164,7 +164,7 @@ Een aanvraag kan elektronisch of op papier worden ingediend. Elektronische aanvr
 
 3. De Minister kan voor de beoordeling van een aanvraag nadere gegevens opvragen bij een eigenaar, om na te gaan of:
 
-- a. een vrijstelling voor de vennootschapsbelasting als bedoeld in [artikel 13, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.3&artikel=13&z=2024-11-08&g=2024-11-08), van toepassing is; of
+- a. een vrijstelling voor de vennootschapsbelasting als bedoeld in [artikel 13, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.3&artikel=13&z=2024-12-03&g=2024-12-03), van toepassing is; of
 
 - b. de eigenaar de kosten van activiteiten als bedoeld in artikel 2 voor het desbetreffende rijksmonument of zelfstandig onderdeel in aftrek zou kunnen brengen op hetzij de winst uit onderneming, bedoeld in [afdeling 3.2 van de Wet op de inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=3.2), hetzij het belastbaar resultaat uit overige werkzaamheden, bedoeld in [afdeling 3.4 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=3.4).
 
@@ -172,13 +172,13 @@ Een aanvraag kan elektronisch of op papier worden ingediend. Elektronische aanvr
 
 ##### Artikel 9. In te dienen bescheiden door professionele organisaties voor monumentenbehoud
 
-1. In afwijking van [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2024-11-08&g=2024-11-08), gaat een aanvraag van een professionele organisatie voor monumentenbehoud slechts vergezeld van een meerjarenbegroting op basis van een door de minister vastgesteld model.
+1. In afwijking van [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2024-12-03&g=2024-12-03), gaat een aanvraag van een professionele organisatie voor monumentenbehoud slechts vergezeld van een meerjarenbegroting op basis van een door de minister vastgesteld model.
 
 2. De meerjarenbegroting bevat per rijksmonument of zelfstandig onderdeel:
 
 - a. het rijksmonumentnummer,
 
-- b. de totale begrote subsidiabele kosten als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2024-11-08&g=2024-11-08), waarbij deze kosten, indien het een archeologisch rijksmonument betreft, in voorkomend geval worden gesplitst naar kosten van normaal onderhoud en kosten van incidenteel onderhoud of conservering,
+- b. de totale begrote subsidiabele kosten als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2024-12-03&g=2024-12-03), waarbij deze kosten, indien het een archeologisch rijksmonument betreft, in voorkomend geval worden gesplitst naar kosten van normaal onderhoud en kosten van incidenteel onderhoud of conservering,
 
 - c. voor zover het een zelfstandig onderdeel betreft, een omschrijving van dat onderdeel waarbij het te onderscheiden is van andere zelfstandige onderdelen van het desbetreffende rijksmonument, en
 
@@ -222,7 +222,7 @@ De minister beslist jaarlijks voor 1 september gelijktijdig op de in het desbetr
 
 - g. voor zover aan de aanvrager voor het rijksmonument of zelfstandig onderdeel waarvoor subsidie wordt gevraagd, in de vijf kalenderjaren voorafgaand aan het jaar van de aanvraag subsidie is verleend op grond van deze regeling,
 
-- h. indien de aanvraag wordt ingediend buiten de termijn, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2024-11-08&g=2024-11-08), of
+- h. indien de aanvraag wordt ingediend buiten de termijn, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2024-12-03&g=2024-12-03), of
 
 - i. indien de subsidiabele kosten van een aanvraag die betrekking heeft op een archeologisch rijksmonument minder dan € 3000 bedragen of minder dan € 6000 bedragen indien de aanvraag betrekking heeft op een ander rijksmonument.
 
@@ -234,19 +234,19 @@ De minister beslist jaarlijks voor 1 september gelijktijdig op de in het desbetr
 
 ##### Artikel 13. Subsidiebedrag
 
-1. Het subsidiebedrag dat wordt verleend, bedraagt 80 procent van de subsidiabele kosten voor archeologische rijksmonumenten als bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2024-11-08&g=2024-11-08), en 60 procent van de subsidiabele kosten voor groene monumenten en overige rijksmonumenten als bedoeld in artikel 3, eerste lid, onderdeel b, onderscheidenlijk onderdeel c, met toepassing van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2024-11-08&g=2024-11-08).
+1. Het subsidiebedrag dat wordt verleend, bedraagt 80 procent van de subsidiabele kosten voor archeologische rijksmonumenten als bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2024-12-03&g=2024-12-03), en 50 procent van de subsidiabele kosten voor groene monumenten en overige rijksmonumenten als bedoeld in artikel 3, eerste lid, onderdeel b, onderscheidenlijk onderdeel c, met toepassing van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2024-12-03&g=2024-12-03).
 
-2. In afwijking van het eerste lid bedraagt het subsidiebedrag 60 procent van de subsidiabele kosten voor archeologische rijksmonumenten en 40 procent van de subsidiabele kosten voor groene monumenten en overige rijksmonumenten, met toepassing van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2024-11-08&g=2024-11-08), indien de eigenaar op het moment van indiening van de aanvraag:
+2. In afwijking van het eerste lid bedraagt het subsidiebedrag 60 procent van de subsidiabele kosten voor archeologische rijksmonumenten en 30 procent van de subsidiabele kosten voor groene monumenten en overige rijksmonumenten, met toepassing van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2024-12-03&g=2024-12-03), indien de eigenaar op het moment van indiening van de aanvraag:
 
 - a. belastingplichtig is als bedoeld in de [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672), met dien verstande dat dit onderdeel niet van toepassing is indien de eigenaar uit hoofde van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=6), [6a](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=6a) of [6b van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=6b) van de vennootschapsbelasting is vrijgesteld, hetgeen kan worden vastgesteld aan de hand van gegevens over het laatste boekjaar, voorafgaand aan het moment van aanvraag, waarvan de jaarrekening is vastgesteld en indien van toepassing de belastingaangifte is ingediend; of
 
-- b. de kosten van activiteiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2024-11-08&g=2024-11-08) voor het desbetreffende rijksmonument of zelfstandig onderdeel in aftrek zou kunnen brengen op hetzij de winst uit onderneming, bedoeld in [afdeling 3.2 van de Wet op de inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.2), hetzij het belastbaar resultaat uit overige werkzaamheden, bedoeld in [afdeling 3.4 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.4).
+- b. de kosten van activiteiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2024-12-03&g=2024-12-03) voor het desbetreffende rijksmonument of zelfstandig onderdeel in aftrek zou kunnen brengen op hetzij de winst uit onderneming, bedoeld in [afdeling 3.2 van de Wet op de inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.2), hetzij het belastbaar resultaat uit overige werkzaamheden, bedoeld in [afdeling 3.4 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.4).
 
 3. Het tweede lid is niet van toepassing indien de eigenaar een professionele organisatie voor monumentenbehoud is.
 
 ##### Artikel 14. Verdeelcriteria
 
-1. Indien in enig jaar een subsidieplafond als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2024-11-08&g=2024-11-08) niet hoog genoeg is om alle aanvragen ten laste van het desbetreffende beschikbare bedrag te honoreren, wordt op die aanvragen in de volgende volgorde beslist:
+1. Indien in enig jaar een subsidieplafond als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2024-12-03&g=2024-12-03) niet hoog genoeg is om alle aanvragen ten laste van het desbetreffende beschikbare bedrag te honoreren, wordt op die aanvragen in de volgende volgorde beslist:
 
 - a. aanvragen, voor zover die rijksmonumenten of zelfstandige onderdelen omvatten die deel uit maken van een werelderfgoed,
 
@@ -260,9 +260,9 @@ De minister beslist jaarlijks voor 1 september gelijktijdig op de in het desbetr
 
 - b. 25 procent van het budget voor aanvragen, voor zover deze rijksmonumenten of zelfstandige onderdelen betreffen met een hogere herbouwwaarde onderscheidenlijk meer subsidiabele kosten dan in onderdeel a.
 
-3. Indien bij toepassing van het eerste lid het subsidieplafond wordt overschreden door subsidieverlening aan alle aanvragen in het eerste lid, onderdeel a, b of c, wordt op de aanvragen in het desbetreffende onderdeel beslist in volgorde van totale begrote kosten uit de aanvraag, waarbij een aanvraag met lagere totale begrote kosten voorrang krijgt. Bij aanvragen van professionele organisaties voor monumentenbehoud worden de rijksmonumenten en zelfstandige onderdelen uit de ingediende overzichten, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2024-11-08&g=2024-11-08), in volgorde van begrote kosten gezet en voor de toepassing van dit lid elk afzonderlijk als aanvraag beschouwd.
+3. Indien bij toepassing van het eerste lid het subsidieplafond wordt overschreden door subsidieverlening aan alle aanvragen in het eerste lid, onderdeel a, b of c, wordt op de aanvragen in het desbetreffende onderdeel beslist in volgorde van totale begrote kosten uit de aanvraag, waarbij een aanvraag met lagere totale begrote kosten voorrang krijgt. Bij aanvragen van professionele organisaties voor monumentenbehoud worden de rijksmonumenten en zelfstandige onderdelen uit de ingediende overzichten, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2024-12-03&g=2024-12-03), in volgorde van begrote kosten gezet en voor de toepassing van dit lid elk afzonderlijk als aanvraag beschouwd.
 
-4. Indien bij toepassing van het tweede lid binnen één van de deelbudgetten, bedoeld in het tweede lid, onderdelen a en b, na toewijzing van alle daarvoor in aanmerking komende aanvragen, nog middelen resteren, worden deze middelen eerst aangewend voor alle daarvoor in aanmerking komende aanvragen ten laste van het andere deelbudget, alvorens [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2024-11-08&g=2024-11-08), wordt toegepast.
+4. Indien bij toepassing van het tweede lid binnen één van de deelbudgetten, bedoeld in het tweede lid, onderdelen a en b, na toewijzing van alle daarvoor in aanmerking komende aanvragen, nog middelen resteren, worden deze middelen eerst aangewend voor alle daarvoor in aanmerking komende aanvragen ten laste van het andere deelbudget, alvorens [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2024-12-03&g=2024-12-03), wordt toegepast.
 
 ##### Artikel 15. Bevoorschotting
 
@@ -278,13 +278,13 @@ De minister beslist jaarlijks voor 1 september gelijktijdig op de in het desbetr
 
 ##### Artikel 16. Bijzondere bepalingen voor professionele organisaties voor monumentenbehoud
 
-1. Een professionele organisatie voor monumentenbehoud kan de subsidie aanwenden voor uitvoering van subsidiabele werkzaamheden aan alle rijksmonumenten en zelfstandige onderdelen uit het overzicht, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2024-11-08&g=2024-11-08), waarvoor subsidie is verleend.
+1. Een professionele organisatie voor monumentenbehoud kan de subsidie aanwenden voor uitvoering van subsidiabele werkzaamheden aan alle rijksmonumenten en zelfstandige onderdelen uit het overzicht, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2024-12-03&g=2024-12-03), waarvoor subsidie is verleend.
 
-2. Na een aanvraag als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2024-11-08&g=2024-11-08) en onverminderd [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2024-11-08&g=2024-11-08) kan de Minister er mee instemmen dat een professionele organisatie voor monumentenbehoud een overzicht als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2024-11-08&g=2024-11-08) ten behoeve waarvan subsidie is verleend met ingang van het opvolgende kalenderjaar uitbreidt met andere rijksmonumenten of zelfstandige onderdelen die geen onderdeel uitmaken van dat overzicht. In dat geval wijzigt de Minister de beschikking tot subsidieverlening en verhoogt hij de verleende subsidie naar rato van het aantal resterende kalenderjaren van het overzicht. De verhoging is gelijk aan de subsidiabele kosten voor de toe te voegen rijksmonumenten of zelfstandige onderdelen, vermenigvuldigd met het voor het overzicht geldende subsidiepercentage, met dien verstande dat:
+2. Na een aanvraag als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2024-12-03&g=2024-12-03) en onverminderd [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2024-12-03&g=2024-12-03) kan de Minister er mee instemmen dat een professionele organisatie voor monumentenbehoud een overzicht als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2024-12-03&g=2024-12-03) ten behoeve waarvan subsidie is verleend met ingang van het opvolgende kalenderjaar uitbreidt met andere rijksmonumenten of zelfstandige onderdelen die geen onderdeel uitmaken van dat overzicht. In dat geval wijzigt de Minister de beschikking tot subsidieverlening en verhoogt hij de verleende subsidie naar rato van het aantal resterende kalenderjaren van het overzicht. De verhoging is gelijk aan de subsidiabele kosten voor de toe te voegen rijksmonumenten of zelfstandige onderdelen, vermenigvuldigd met het voor het overzicht geldende subsidiepercentage, met dien verstande dat:
 
 - a. voor molens de subsidiabele kosten maximaal € 12.083,33 bedragen, vermenigvuldigd met het aantal resterende kalenderjaren van het overzicht; en
 
-- b. voor overige rijksmonumenten of zelfstandige onderdelen als bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2024-11-08&g=2024-11-08), de subsidiabele kosten maximaal 0,5 procent van de herbouwwaarde bedragen, vermenigvuldigd met het aantal resterende kalenderjaren van het overzicht.
+- b. voor overige rijksmonumenten of zelfstandige onderdelen als bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2024-12-03&g=2024-12-03), de subsidiabele kosten maximaal 0,5 procent van de herbouwwaarde bedragen, vermenigvuldigd met het aantal resterende kalenderjaren van het overzicht.
 
 #### § 2.4. **Verplichtingen van de subsidieontvanger**
 
@@ -384,9 +384,9 @@ Onverminderd [artikel 4:46 van de Algemene wet bestuursrecht](https://wetten.ove
 
 ##### Artikel 28. Eigendomsoverdracht
 
-1. Indien de subsidieontvanger de eigendom of een ander zakelijk recht van een rijksmonument of een zelfstandig onderdeel overdraagt aan een derde, dient de subsidieontvanger binnen drie maanden na de overdracht een aanvraag tot vaststelling van de subsidie in bij de minister. De [artikelen 23 tot en met 27](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.5&artikel=23&z=2024-11-08&g=2024-11-08) zijn van overeenkomstige toepassing.
+1. Indien de subsidieontvanger de eigendom of een ander zakelijk recht van een rijksmonument of een zelfstandig onderdeel overdraagt aan een derde, dient de subsidieontvanger binnen drie maanden na de overdracht een aanvraag tot vaststelling van de subsidie in bij de minister. De [artikelen 23 tot en met 27](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.5&artikel=23&z=2024-12-03&g=2024-12-03) zijn van overeenkomstige toepassing.
 
-2. Na de vaststelling, bedoeld in het eerste lid, kan de minister op verzoek van de eigenaar aan wie de eigendom of het zakelijk recht is overgedragen, aan die eigenaar subsidie verstrekken ten behoeve van de afronding van het instandhoudingsplan. [Artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2024-11-08&g=2024-11-08) is niet van toepassing.
+2. Na de vaststelling, bedoeld in het eerste lid, kan de minister op verzoek van de eigenaar aan wie de eigendom of het zakelijk recht is overgedragen, aan die eigenaar subsidie verstrekken ten behoeve van de afronding van het instandhoudingsplan. [Artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2024-12-03&g=2024-12-03) is niet van toepassing.
 
 ##### Artikel 29. Terugvordering
 
@@ -420,7 +420,7 @@ Onverminderd [artikel 4:46 van de Algemene wet bestuursrecht](https://wetten.ove
 
 - e. ten minste de helft van het aantal rijksmonumenten en zelfstandige onderdelen waarvan de organisatie eigenaar is in goede staat is.
 
-2. Indien een aanvrager een vermelding als bedoeld in [artikel 30, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=3&artikel=30&z=2024-11-08&g=2024-11-08), wenst, toont deze aan dat het in stand houden van monumenten een hoofdactiviteit van de organisatie is, hetgeen onder meer kan blijken uit de feitelijke activiteiten van de organisatie.
+2. Indien een aanvrager een vermelding als bedoeld in [artikel 30, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=3&artikel=30&z=2024-12-03&g=2024-12-03), wenst, toont deze aan dat het in stand houden van monumenten een hoofdactiviteit van de organisatie is, hetgeen onder meer kan blijken uit de feitelijke activiteiten van de organisatie.
 
 ##### Artikel 32. Aanvraag
 
@@ -914,7 +914,7 @@ De [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c
 
 1. De Minister kan subsidie verstrekken voor het uitvoeren van een verduurzamingsonderzoek voor een rijksmonument of zelfstandig onderdeel.
 
-2. De Minister verstrekt een subsidie voor een verduurzamingsonderzoek uitsluitend als aanvulling op een subsidie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2024-11-08&g=2024-11-08).
+2. De Minister verstrekt een subsidie voor een verduurzamingsonderzoek uitsluitend als aanvulling op een subsidie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2024-12-03&g=2024-12-03).
 
 ##### Artikel 29c. Subsidieplafonds en verdeelcriteria
 
@@ -930,25 +930,25 @@ De [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c
 
 2. Indien een beschikbaar bedrag als bedoeld in het eerste lid, onderdelen a, b, of c, niet geheel wordt verstrekt, wordt het resterende bedrag toegevoegd aan het subsidieplafond voor het daaropvolgende kalenderjaar.
 
-3. De verdeling van de subsidie vindt plaats in dezelfde volgorde als die waarin op grond van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2024-11-08&g=2024-11-08) op de aanvragen wordt beslist.
+3. De verdeling van de subsidie vindt plaats in dezelfde volgorde als die waarin op grond van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2024-12-03&g=2024-12-03) op de aanvragen wordt beslist.
 
 ##### Artikel 29d. Subsidiabele kosten
 
-1. Subsidiabel zijn de kosten van een verduurzamingsonderzoek dat voldoet aan de eisen, bedoeld in [artikel 29g](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2a&artikel=29g&z=2024-11-08&g=2024-11-08). Voor de subsidieverlening wordt een vast bedrag van € 4.000,- aan subsidiabele kosten in aanmerking genomen.
+1. Subsidiabel zijn de kosten van een verduurzamingsonderzoek dat voldoet aan de eisen, bedoeld in [artikel 29g](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2a&artikel=29g&z=2024-12-03&g=2024-12-03). Voor de subsidieverlening wordt een vast bedrag van € 4.000,- aan subsidiabele kosten in aanmerking genomen.
 
-2. Indien de eigenaar die subsidie aanvraagt voor een verduurzamingsonderzoek, niet beschikt over een rapport over de monumentale waarden van het rijksmonument als bedoeld in [artikel 29g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2a&artikel=29g&z=2024-11-08&g=2024-11-08), dan kan hij in de meerjarenbegroting, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.2&artikel=10&z=2024-11-08&g=2024-11-08), onder b, ook de kosten van het doen opstellen van een dergelijk rapport opnemen. Deze kosten zijn in dat geval subsidiabel in het kader van de aanvraag voor een subsidie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2024-11-08&g=2024-11-08), ongeacht of de subsidie voor het verduurzamingsonderzoek wordt toegekend.
+2. Indien de eigenaar die subsidie aanvraagt voor een verduurzamingsonderzoek, niet beschikt over een rapport over de monumentale waarden van het rijksmonument als bedoeld in [artikel 29g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2a&artikel=29g&z=2024-12-03&g=2024-12-03), dan kan hij in de meerjarenbegroting, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.2&artikel=10&z=2024-12-03&g=2024-12-03), onder b, ook de kosten van het doen opstellen van een dergelijk rapport opnemen. Deze kosten zijn in dat geval subsidiabel in het kader van de aanvraag voor een subsidie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2024-12-03&g=2024-12-03), ongeacht of de subsidie voor het verduurzamingsonderzoek wordt toegekend.
 
 3. Ten aanzien van het verduurzamingsonderzoek en het rapport over de monumentale waarden van het rijksmonument is hoofdstuk 1.1, onderdeel f, van de bijlage bij deze regeling niet van toepassing, met dien verstande dat een verduurzamingsonderzoek uitsluitend voor subsidie in aanmerking komt, indien het onderzoek nog niet is afgerond op het moment van de subsidieaanvraag.
 
 ##### Artikel 29e. Subsidiebedrag
 
-Ten aanzien van het percentage van de subsidiabele kosten, waarvoor subsidie wordt verstrekt, is [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.3&artikel=13&z=2024-11-08&g=2024-11-08) van overeenkomstige toepassing.
+Ten aanzien van het percentage van de subsidiabele kosten, waarvoor subsidie wordt verstrekt, is [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.3&artikel=13&z=2024-12-03&g=2024-12-03) van overeenkomstige toepassing.
 
 ##### Artikel 29f. Subsidieaanvraag
 
-1. Een aanvraag om subsidie voor een verduurzamingsonderzoek kan uitsluitend tezamen worden gedaan met de aanvraag voor een subsidie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2024-11-08&g=2024-11-08).
+1. Een aanvraag om subsidie voor een verduurzamingsonderzoek kan uitsluitend tezamen worden gedaan met de aanvraag voor een subsidie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2024-12-03&g=2024-12-03).
 
-2. De aanvraag om subsidie voor een verduurzamingsonderzoek wordt op dezelfde manier gedaan als de aanvraag voor een subsidie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2024-11-08&g=2024-11-08). [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2024-11-08&g=2024-11-08) is daarbij van overeenkomstige toepassing.
+2. De aanvraag om subsidie voor een verduurzamingsonderzoek wordt op dezelfde manier gedaan als de aanvraag voor een subsidie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2024-12-03&g=2024-12-03). [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2024-12-03&g=2024-12-03) is daarbij van overeenkomstige toepassing.
 
 ##### Artikel 29g. Eisen verduurzamingsonderzoek
 
@@ -958,25 +958,25 @@ Ten aanzien van het percentage van de subsidiabele kosten, waarvoor subsidie wor
 
 ##### Artikel 29h. Subsidieverplichtingen
 
-1. [Artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.4&artikel=17&z=2024-11-08&g=2024-11-08) is van overeenkomstige toepassing op een subsidie die op grond van dit hoofdstuk is verstrekt.
+1. [Artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.4&artikel=17&z=2024-12-03&g=2024-12-03) is van overeenkomstige toepassing op een subsidie die op grond van dit hoofdstuk is verstrekt.
 
 2. De eigenaar zendt een afschrift van het verduurzamingsrapport binnen vier weken na voltooiing van het verduurzamingsonderzoek aan de Minister.
 
 ##### Artikel 29i. Verlening en weigeringsgrond
 
-1. De Minister beslist op de aanvraag om subsidie voor een verduurzamingsonderzoek, gelijktijdig met de aanvraag voor de subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2024-11-08&g=2024-11-08), voor het desbetreffende rijksmonument of het zelfstandige onderdeel. De subsidie wordt als één totaalbedrag verleend.
+1. De Minister beslist op de aanvraag om subsidie voor een verduurzamingsonderzoek, gelijktijdig met de aanvraag voor de subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2024-12-03&g=2024-12-03), voor het desbetreffende rijksmonument of het zelfstandige onderdeel. De subsidie wordt als één totaalbedrag verleend.
 
 2. Onverminderd [artikel 7.6 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=7.6) wordt een aanvraag om subsidie voor een verduurzamingsonderzoek in ieder geval geweigerd, voor zover aan de eigenaar voor het verduurzamingsonderzoek reeds uit anderen hoofde rijkssubsidie is verstrekt.
 
 ##### Artikel 29j. Verantwoording en vaststelling
 
-1. De eigenaar verantwoordt de subsidie voor het verduurzamingsonderzoek als onderdeel van de verantwoording van de subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2024-11-08&g=2024-11-08), voor het desbetreffende rijksmonument of het zelfstandige onderdeel. Voor het toe te passen verantwoordingsregime, genoemd in de [artikelen 23 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.5&artikel=23&z=2024-11-08&g=2024-11-08), alsmede voor de toepassing van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.5&artikel=26&z=2024-11-08&g=2024-11-08), worden het subsidiebedrag dat uit hoofde van artikel 2 wordt verstrekt en het bedrag van de subsidie voor het verduurzamingsonderzoek als één totaalbedrag in aanmerking genomen.
+1. De eigenaar verantwoordt de subsidie voor het verduurzamingsonderzoek als onderdeel van de verantwoording van de subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2024-12-03&g=2024-12-03), voor het desbetreffende rijksmonument of het zelfstandige onderdeel. Voor het toe te passen verantwoordingsregime, genoemd in de [artikelen 23 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.5&artikel=23&z=2024-12-03&g=2024-12-03), alsmede voor de toepassing van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.5&artikel=26&z=2024-12-03&g=2024-12-03), worden het subsidiebedrag dat uit hoofde van artikel 2 wordt verstrekt en het bedrag van de subsidie voor het verduurzamingsonderzoek als één totaalbedrag in aanmerking genomen.
 
-2. De artikelen [27 tot en met 29](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.5&artikel=27&z=2024-11-08&g=2024-11-08) zijn van overeenkomstige toepassing.
+2. De artikelen [27 tot en met 29](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.5&artikel=27&z=2024-12-03&g=2024-12-03) zijn van overeenkomstige toepassing.
 
 ##### Artikel 29k. Bevoorschotting
 
-[Artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.3&artikel=15&z=2024-11-08&g=2024-11-08) is van overeenkomstige toepassing op een subsidie die op grond van dit hoofdstuk is verstrekt, met dien verstande dat voor de toepassing van dat artikel het subsidiebedrag dat uit hoofde van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2024-11-08&g=2024-11-08) wordt verstrekt en het bedrag van de subsidie voor het verduurzamingsonderzoek als één totaalbedrag in aanmerking worden genomen.
+[Artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.3&artikel=15&z=2024-12-03&g=2024-12-03) is van overeenkomstige toepassing op een subsidie die op grond van dit hoofdstuk is verstrekt, met dien verstande dat voor de toepassing van dat artikel het subsidiebedrag dat uit hoofde van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2024-12-03&g=2024-12-03) wordt verstrekt en het bedrag van de subsidie voor het verduurzamingsonderzoek als één totaalbedrag in aanmerking worden genomen.
 
 ### Hoofdstuk 4. Slotbepalingen
 
@@ -1032,15 +1032,15 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 42h. Aanpassing subsidieplafond 2024
 
-1. In 2024 wordt aan het budget voor groene monumenten, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2024-11-08&g=2024-11-08), een bedrag van € 5,2 miljoen toegevoegd.
+1. In 2024 wordt aan het budget voor groene monumenten, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2024-12-03&g=2024-12-03), een bedrag van € 5,2 miljoen toegevoegd.
 
-2. In 2024 wordt na toepassing van [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2024-11-08&g=2024-11-08):
+2. In 2024 wordt na toepassing van [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2024-12-03&g=2024-12-03):
 
-- a. aan het budget voor overige rijksmonumenten, bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2024-11-08&g=2024-11-08), met een herbouwwaarde van minder dan € 8,3 miljoen, een bedrag van € 10 miljoen toegevoegd; en
+- a. aan het budget voor overige rijksmonumenten, bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2024-12-03&g=2024-12-03), met een herbouwwaarde van minder dan € 8,3 miljoen, een bedrag van € 10 miljoen toegevoegd; en
 
-- b. aan het budget voor overige rijksmonumenten, bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2024-11-08&g=2024-11-08), met een herbouwwaarde van € 8,3 miljoen of meer, een bedrag van € 10 miljoen toegevoegd.
+- b. aan het budget voor overige rijksmonumenten, bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2024-12-03&g=2024-12-03), met een herbouwwaarde van € 8,3 miljoen of meer, een bedrag van € 10 miljoen toegevoegd.
 
-3. Indien in 2024 na toepassing van [artikel 14, eerste lid, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2024-11-08&g=2024-11-08), geen middelen meer beschikbaar zijn, is het tweede lid van overeenkomstige toepassing.
+3. Indien in 2024 na toepassing van [artikel 14, eerste lid, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2024-12-03&g=2024-12-03), geen middelen meer beschikbaar zijn, is het tweede lid van overeenkomstige toepassing.
 
 ## Bijlage. als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2023-11-22&g=2024-01-01) van de Subsidieregeling instandhouding monumenten
 
@@ -1056,15 +1056,15 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 3a. Verhoging subsidieplafonds monumenten met hoge subsidiabele kosten of hoge herbouwwaarde
 
-1. Na toepassing van [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2024-11-08&g=2024-11-08), wordt:
+1. Na toepassing van [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2024-12-03&g=2024-12-03), wordt:
 
-- a. aan het budget voor groene monumenten, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2024-11-08&g=2024-11-08), met € 250.000,– of meer aan subsidiabele kosten, een bedrag van € 1 miljoen toegevoegd, en
+- a. aan het budget voor groene monumenten, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2024-12-03&g=2024-12-03), met € 250.000,– of meer aan subsidiabele kosten, een bedrag van € 1 miljoen toegevoegd, en
 
-- b. aan het budget voor overige rijksmonumenten, bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2024-11-08&g=2024-11-08), met een herbouwwaarde van € 8,3 miljoen of meer, een bedrag van € 3 miljoen toegevoegd.
+- b. aan het budget voor overige rijksmonumenten, bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2024-12-03&g=2024-12-03), met een herbouwwaarde van € 8,3 miljoen of meer, een bedrag van € 3 miljoen toegevoegd.
 
 2. Indien een beschikbaar bedrag als bedoeld in het eerste lid, onderdeel a of b, in enig jaar niet volledig wordt verleend, wordt het resterende bedrag toegevoegd aan het bedrag dat op grond van desbetreffende onderdeel voor het daaropvolgende jaar beschikbaar is.
 
-3. Indien in enig jaar na toepassing van [artikel 14, eerste lid, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2024-11-08&g=2024-11-08), geen middelen meer beschikbaar zijn, is het eerste lid van overeenkomstige toepassing.
+3. Indien in enig jaar na toepassing van [artikel 14, eerste lid, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2024-12-03&g=2024-12-03), geen middelen meer beschikbaar zijn, is het eerste lid van overeenkomstige toepassing.
 
 #### § 2.2. **Aanvraag**
 
@@ -1078,15 +1078,15 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 42i. Aanpassing subsidieplafond 2025
 
-1. In 2025 wordt na toepassing van [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2024-11-08&g=2024-11-08):
+1. In 2025 wordt na toepassing van [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2024-12-03&g=2024-12-03):
 
-- a. aan het budget voor overige rijksmonumenten, bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2024-11-08&g=2024-11-08), met een herbouwwaarde van minder dan € 8,3 miljoen, een bedrag van € 10 miljoen toegevoegd; en
+- a. aan het budget voor overige rijksmonumenten, bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2024-12-03&g=2024-12-03), met een herbouwwaarde van minder dan € 8,3 miljoen, een bedrag van € 10 miljoen toegevoegd; en
 
-- b. aan het budget voor overige rijksmonumenten, bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2024-11-08&g=2024-11-08), met een herbouwwaarde van € 8,3 miljoen of meer, een bedrag van € 10 miljoen toegevoegd.
+- b. aan het budget voor overige rijksmonumenten, bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2024-12-03&g=2024-12-03), met een herbouwwaarde van € 8,3 miljoen of meer, een bedrag van € 10 miljoen toegevoegd.
 
-2. Indien in 2025 na toepassing van [artikel 14, eerste lid, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2024-11-08&g=2024-11-08), geen middelen meer beschikbaar zijn, is het eerste lid van overeenkomstige toepassing.
+2. Indien in 2025 na toepassing van [artikel 14, eerste lid, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2024-12-03&g=2024-12-03), geen middelen meer beschikbaar zijn, is het eerste lid van overeenkomstige toepassing.
 
-## Bijlage. als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2024-11-08&g=2024-11-08) van de Subsidieregeling instandhouding monumenten
+## Bijlage. als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2024-12-03&g=2024-12-03) van de Subsidieregeling instandhouding monumenten
 
 ### 3. Tabel voor de berekening van de toeslag voor het vervaardigen van aanvullende stukken (niet van toepassing op normaal onderhoud als bedoeld in de Sim)
 
