@@ -4,7 +4,7 @@ identifier: "BWBR0050119"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-12"
-last_updated: "2024-08-07"
+last_updated: "2024-12-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050119"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ Voor subsidieverlening op grond van de [artikelen 5.1](https://wetten.overheid.n
 
 ##### Artikel 3
 
-1. Voor subsidieverlening in het kader van het Subsidieprogramma Verantwoord ondernemen geldt, voor aanvragen als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050119&artikel=2&z=2024-08-07&g=2024-08-07), voor de periode vanaf inwerkingtreding van dit besluit tot en met 31 december 2027, een totaal subsidieplafond van € 4.249.144, onderverdeeld in de volgende subsidieplafonds:
+1. Voor subsidieverlening in het kader van het Subsidieprogramma Verantwoord ondernemen geldt, voor aanvragen als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050119&artikel=2&z=2024-12-03&g=2024-12-03), voor de periode vanaf inwerkingtreding van dit besluit tot en met 31 december 2027, een totaal subsidieplafond van € 4.249.144, onderverdeeld in de volgende subsidieplafonds:
 
 - a. € 3.186.858 voor aanvragen waarbij alleen mkb-ondernemingen2Het gaat hierbij om een onderneming behorende tot de bedrijfssector als omschreven in Aanbeveling 2003/361/EG van de Commissie van 6 mei 2003, Pb 2003 L 124/36, betreffende de definitie van kleine, middelgrote en micro-ondernemingen, uitgezonderd lokale ondernemingen in het doelland, onderdeel zijn van het samenwerkingsverband, en die niet eerder op grond van dit subsidieprogramma of op grond van het subsidieprogramma Social Sustainability Fund een subsidie hebben ontvangen;
 
@@ -68,7 +68,7 @@ Voor subsidieverlening op grond van de [artikelen 5.1](https://wetten.overheid.n
 
 4. Indien na toepassing van het eerste lid een deel van het subsidieplafond resteert, wordt dit toegevoegd aan het subsidieplafond voor de daaropvolgende openstelling.
 
-5. Voor subsidieverlening in het kader van het Subsidieprogramma Verantwoord Ondernemen gelden voor aanvragen als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050119&artikel=2&z=2024-08-07&g=2024-08-07), nader bekend te maken subsidieplafonds.
+5. Voor subsidieverlening in het kader van het Subsidieprogramma Verantwoord Ondernemen gelden voor aanvragen als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050119&artikel=2&z=2024-12-03&g=2024-12-03), nader bekend te maken subsidieplafonds.
 
 ##### Artikel 4
 
