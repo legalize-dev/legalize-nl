@@ -4,7 +4,7 @@ identifier: "BWBR0050494"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-06"
-last_updated: "2024-10-01"
+last_updated: "2024-12-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050494"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **minister:** Minister van Justitie en Veiligheid;
 
-- b. **adviesorgaan:** het adviesorgaan zoals bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050494&artikel=2&z=2024-12-04&g=2024-10-01).
+- b. **adviesorgaan:** het adviesorgaan zoals bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050494&artikel=2&z=2024-12-04&g=2024-12-04).
 
 ##### Artikel 2. Instelling en taak
 
