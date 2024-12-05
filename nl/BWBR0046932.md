@@ -4,7 +4,7 @@ identifier: "BWBR0046932"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-05-03"
-last_updated: "2024-06-29"
+last_updated: "2024-12-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046932"
 soort: "ministeriele-regeling"
@@ -45,7 +45,7 @@ In deze regeling wordt verstaan onder:
 
 - **college:** college van burgemeester en wethouders;
 
-- **minister:** Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- **minister:** Minister van Volkshuisvesting en Ruimtelijke Ordening;
 
 - **woonruimte:** ruimte die ter bewoning voor verhuur wordt aangeboden tegen een prijs:
 
@@ -85,7 +85,7 @@ In deze regeling wordt verstaan onder:
 
 2. Een aanvraag bevat:
 
-- a. een beschrijving van het project en de locatie waarvoor de specifieke uitkering wordt aangevraagd en van de wijze waarop het project voldoet aan de voorwaarden, gesteld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046932&artikel=2&z=2024-06-29&g=2024-06-29);
+- a. een beschrijving van het project en de locatie waarvoor de specifieke uitkering wordt aangevraagd en van de wijze waarop het project voldoet aan de voorwaarden, gesteld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046932&artikel=2&z=2024-12-05&g=2024-12-05);
 
 - b. een beschrijving van de wijze waarop het project wordt uitgevoerd en welke partijen daarbij betrokken zijn, waarbij middels processtappen inzichtelijk wordt gemaakt hoe het project uitgevoerd zal worden;
 
@@ -99,9 +99,9 @@ In deze regeling wordt verstaan onder:
 
 3. Een aanvraag wordt ingediend met gebruikmaking van het aanvraagformulier dat door de minister ter beschikking is gesteld op de website van de Rijksdienst voor Ondernemend Nederland.
 
-4. Indien een aanvraag onvolledig is en niet al bij voorbaat duidelijk is dat deze na herstel zou moeten worden afgewezen omdat het plafond, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046932&artikel=3&z=2024-06-29&g=2024-06-29), anders wordt overschreden, biedt de minister de mogelijkheid om dit verzuim binnen een redelijke termijn te herstellen.
+4. Indien een aanvraag onvolledig is en niet al bij voorbaat duidelijk is dat deze na herstel zou moeten worden afgewezen omdat het plafond, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046932&artikel=3&z=2024-12-05&g=2024-12-05), anders wordt overschreden, biedt de minister de mogelijkheid om dit verzuim binnen een redelijke termijn te herstellen.
 
-5. De minister kan, indien de binnengekomen aanvragen cumulatief het plafond, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046932&artikel=3&z=2024-06-29&g=2024-06-29), reeds overschrijden, de aanvraagperiode, bedoeld in het eerste lid, vroegtijdig beëindigen, zulks in afwijking van de in de bijlage genoemde aanvraagperiode.
+5. De minister kan, indien de binnengekomen aanvragen cumulatief het plafond, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046932&artikel=3&z=2024-12-05&g=2024-12-05), reeds overschrijden, de aanvraagperiode, bedoeld in het eerste lid, vroegtijdig beëindigen, zulks in afwijking van de in de bijlage genoemde aanvraagperiode.
 
 6. De minister kan, in aanvulling op het gestelde in het tweede lid, aanvullende bescheiden vragen voor het indienen van een aanvraag die hij nodig acht voor het beoordelen van de aanvraag of het monitoren van de effecten van deze regeling.
 
@@ -117,7 +117,7 @@ In deze regeling wordt verstaan onder:
 
 - c. een aanvraag met minder dan 25% onzelfstandige woonruimten voor studenten.
 
-3. Indien het plafond, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046932&artikel=3&z=2024-06-29&g=2024-06-29), is bereikt en meerdere aanvragen op basis van de criteria, bedoeld in het tweede lid, in aanmerking komen voor de subsidie, stelt de minister de onderlinge rangschikking van die aanvragen vast door middel van loting.
+3. Indien het plafond, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046932&artikel=3&z=2024-12-05&g=2024-12-05), is bereikt en meerdere aanvragen op basis van de criteria, bedoeld in het tweede lid, in aanmerking komen voor de subsidie, stelt de minister de onderlinge rangschikking van die aanvragen vast door middel van loting.
 
 ##### Artikel 6. Verplichtingen
 
@@ -141,13 +141,13 @@ In deze regeling wordt verstaan onder:
 
 - a. de aanvraag niet voldoet aan de in deze regeling gestelde regels;
 
-- b. het bedrag van de aangevraagde uitkering dusdanig hoog is dat de toekenning ervan leidt tot een overschrijding van het plafond, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046932&artikel=3&z=2024-06-29&g=2024-06-29);
+- b. het bedrag van de aangevraagde uitkering dusdanig hoog is dat de toekenning ervan leidt tot een overschrijding van het plafond, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046932&artikel=3&z=2024-12-05&g=2024-12-05);
 
-- c. toewijzing van de aanvraag wegens onvoorziene omstandigheden niet ten goede zou komen aan projecten als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046932&artikel=2&z=2024-06-29&g=2024-06-29); of
+- c. toewijzing van de aanvraag wegens onvoorziene omstandigheden niet ten goede zou komen aan projecten als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046932&artikel=2&z=2024-12-05&g=2024-12-05); of
 
 - d. toewijzing van de aanvragen volgens de rangschikking zou leiden tot een bovenmatige concentratie van de toewijzingen in een of enkele regio’s.
 
-2. De minister kan een aanvraag voor een specifieke uitkering gedeeltelijk afwijzen, voor zover de volledige toekenning zou leiden tot een overschrijding van het plafond, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046932&artikel=3&z=2024-06-29&g=2024-06-29).
+2. De minister kan een aanvraag voor een specifieke uitkering gedeeltelijk afwijzen, voor zover de volledige toekenning zou leiden tot een overschrijding van het plafond, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046932&artikel=3&z=2024-12-05&g=2024-12-05).
 
 3. De minister kan een aanvraag voor een specifieke uitkering afwijzen indien de aanvraag ziet op activiteiten waarvoor op grond van andere regelingen reeds een specifieke uitkering is verstrekt.
 
@@ -167,7 +167,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 9. Bevoorschotting en uitbetaling
 
-De minister verleent bij het besluit tot verlening van de specifieke uitkering, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046932&artikel=8&z=2024-06-29&g=2024-06-29), een voorschot van 100% en betaalt dat voorschot in één keer uit.
+De minister verleent bij het besluit tot verlening van de specifieke uitkering, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046932&artikel=8&z=2024-12-05&g=2024-12-05), een voorschot van 100% en betaalt dat voorschot in één keer uit.
 
 ##### Artikel 10. Verantwoording, vaststelling, wijziging en terugvordering
 
@@ -175,7 +175,7 @@ De minister verleent bij het besluit tot verlening van de specifieke uitkering, 
 
 2. Het college kan een wijzigingsaanvraag indienen voor een vervangend project wanneer één of meerdere projecten waarvoor de uitkering is verstrekt niet kan worden uitgevoerd. Het vervangende project dient minimaal dezelfde hoeveelheid woonruimten te realiseren als met het niet uitgevoerde project beoogd was.
 
-3. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046932&artikel=4&z=2024-06-29&g=2024-06-29), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0046932&artikel=6&z=2024-06-29&g=2024-06-29), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0046932&artikel=7&z=2024-06-29&g=2024-06-29), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0046932&artikel=8&z=2024-06-29&g=2024-06-29) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0046932&artikel=9&z=2024-06-29&g=2024-06-29) en het verder bepaalde in dit artikel is op deze wijzigingsaanvraag van overeenkomstige toepassing.
+3. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046932&artikel=4&z=2024-12-05&g=2024-12-05), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0046932&artikel=6&z=2024-12-05&g=2024-12-05), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0046932&artikel=7&z=2024-12-05&g=2024-12-05), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0046932&artikel=8&z=2024-12-05&g=2024-12-05) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0046932&artikel=9&z=2024-12-05&g=2024-12-05) en het verder bepaalde in dit artikel is op deze wijzigingsaanvraag van overeenkomstige toepassing.
 
 4. Indien uit de verantwoordingsinformatie blijkt dat de uitkering niet volledig of onrechtmatig is besteed, kan de minister de uitkering ter hoogte van het niet of onrechtmatig bestede deel terugvorderen. De minister doet binnen een jaar na ontvangst van de verantwoordingsinformatie mededeling van de terugvordering aan de ontvanger.
 
@@ -187,12 +187,12 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Deze regeling wordt aangehaald als: Meerjarige regeling specifieke uitkeringen voor huisvesting aandachtsgroepen.
 
-## Bijlage. bij de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046932&artikel=2&z=2024-06-29&g=2024-06-29), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046932&artikel=3&z=2024-06-29&g=2024-06-29), en [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046932&artikel=4&z=2024-06-29&g=2024-06-29)
+## Bijlage. bij de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046932&artikel=2&z=2024-12-05&g=2024-12-05), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046932&artikel=3&z=2024-12-05&g=2024-12-05), en [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046932&artikel=4&z=2024-12-05&g=2024-12-05)
 
-- 1. Het bedrag per woonruimte, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046932&artikel=2&z=2024-06-29&g=2024-06-29), bedraagt ten hoogste € 8.500 inclusief BTW-compensatie per te realiseren woonruimte.
+- 1. Het bedrag per woonruimte, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046932&artikel=2&z=2024-12-05&g=2024-12-05), bedraagt ten hoogste € 8.500 inclusief BTW-compensatie per te realiseren woonruimte.
 
-- 2. Het uitkeringsplafond, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046932&artikel=3&z=2024-06-29&g=2024-06-29), bedraagt € 20.000.000, met dien verstande dat per gemeente in totaal ten hoogste een bedrag van € 3.000.000 wordt verstrekt.
+- 2. Het uitkeringsplafond, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046932&artikel=3&z=2024-12-05&g=2024-12-05), bedraagt € 31.560.000, met dien verstande dat per gemeente in totaal ten hoogste een bedrag van € 3.000.000 wordt verstrekt.
 
-- 3. De aanvraagperiode, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046932&artikel=4&z=2024-06-29&g=2024-06-29), loopt van 26 augustus 2024, 09:00 uur tot 4 oktober 2024, 17:00 uur.
+- 3. De aanvraagperiode, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046932&artikel=4&z=2024-12-05&g=2024-12-05), loopt van 26 augustus 2024, 09:00 uur tot 4 oktober 2024, 17:00 uur.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
