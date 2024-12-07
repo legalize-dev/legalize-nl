@@ -4,7 +4,7 @@ identifier: "BWBR0028148"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-20"
-last_updated: "2024-06-05"
+last_updated: "2024-12-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028148"
 soort: "ministeriele-regeling"
@@ -294,14 +294,14 @@ Vervallen
 | Global Sustainability Science | 56987 | Universiteit Utrecht | Leraar Aardrijkskunde |
 | Human Geography and Planning | 50974 | Rijksuniversiteit Groningen | Leraar Aardrijkskunde |
 | International Land and Water Management2 | 50100 | Wageningen University | Leraar Aardrijkskunde |
-| Landschapsarchitectuur en ruimtelijke planning3 | 56848 | Wageningen University | Leraar Aardrijkskunde |
+| Landschapsarchitectuur en ruimtelijke planning2 | 56848 | Wageningen University | Leraar Aardrijkskunde |
 | Sociale Geografie en Planologie | 56838 | Rijksuniversiteit Groningen, Universiteit Utrecht, Universiteit van Amsterdam | Leraar Aardrijkskunde |
-| Soil, Water, Athmosphere4 | 56968 | Wageningen University | Leraar Aardrijkskunde |
+| Soil, Water, Athmosphere2 | 56968 | Wageningen University | Leraar Aardrijkskunde |
 | Technische Planologie | 56194 | Rijksuniversiteit Groningen | Leraar Aardrijkskunde |
 | Arabische Taal en Cultuur | 56040 | Universiteit van Amsterdam | Leraar Arabisch |
-| Midden-Oostenstudies: Arabisch | 56098 | Universiteit Leiden | Leraar Arabisch |
+| Midden-Oostenstudies: Arabisch | 56098 | Universiteit Leiden, Rijksuniversiteit Groningen3 | Leraar Arabisch |
 | Fiscale Economie | 56402 | Universiteit Maastricht | Leraar Bedrijfseconomie |
-| Animal Sciences (leertraject onderwijsbevoegdheid Biologie)5 | 56849 | Wageningen University | Leraar Biologie |
+| Animal Sciences (leertraject onderwijsbevoegdheid Biologie)4 | 56849 | Wageningen University | Leraar Biologie |
 | Bèta-gamma (Afstudeerrichting Biologie) | 50250 | Universiteit van Amsterdam | Leraar Biologie |
 | Bèta-gamma (Afstudeerrichting Biomedische Wetenschappen) | 50250 | Universiteit van Amsterdam | Leraar Biologie |
 | Bèta-gamma (Afstudeerrichting Neurobiologie) | 50250 | Universiteit van Amsterdam | Leraar Biologie |
@@ -309,10 +309,10 @@ Vervallen
 | Biology | 59325 | Radboud Universiteit Nijmegen | Leraar Biologie |
 | Biomedical Sciences | 59324 | Vrije Universiteit Amsterdam | Leraar Biologie |
 | Biomedische Wetenschappen | 56990 | Universiteit Leiden, Universiteit Utrecht, Universiteit Maastricht, Universiteit van Amsterdam, Radboud Universiteit Nijmegen | Leraar Biologie |
-| Gezondheid en Leven6 | 50509 | Vrije Universiteit Amsterdam | Leraar Biologie |
+| Gezondheid en Leven5 | 50509 | Vrije Universiteit Amsterdam | Leraar Biologie |
 | Gezondheidswetenschappen | 56553 | Universiteit Maastricht | Leraar Biologie |
 | Liberal Arts and Sciences (Specialisatie ‘Science Program’) | 50393 | Universiteit Maastricht | Leraar Biologie |
-| Plantenwetenschappen (leertraject onderwijs bevoegdheid Biologie)7 | 56835 | Wageningen University | Leraar Biologie |
+| Plantenwetenschappen (leertraject onderwijs bevoegdheid Biologie)6 | 56835 | Wageningen University | Leraar Biologie |
 | Psychobiologie | 50014 | Universiteit van Amsterdam | Leraar Biologie |
 | Chinastudies | 56818 | Universiteit Leiden | Leraar Chinees |
 | Duitse Taal en Cultuur (afstudeerrichting Duits) | 56805 | Universiteit Leiden, Universiteit Utrecht, Universiteit van Amsterdam, Radboud Universiteit Nijmegen | Leraar Duits |
@@ -362,7 +362,7 @@ Vervallen
 | Computing Science | 59326 | Radboud Universiteit Nijmegen | Leraar Informatica |
 | Creative Technology | 50447 | Universiteit Twente | Leraar Informatica |
 | Data Science & Artificial Intelligence | 50300 | Universiteit Maastricht | Leraar Informatica |
-| Data Science (joint degree)8 | 55018 | Tilburg University, Technische Universiteit Eindhoven | Leraar Informatica |
+| Data Science (joint degree)7 | 55018 | Tilburg University, Technische Universiteit Eindhoven | Leraar Informatica |
 | Data Science and Knowledge Engineering | 50300 | Universiteit Maastricht | Leraar Informatica |
 | Electrical Engineering | 56953 | Technische Universiteit Delft, Technische Universiteit Eindhoven, Universiteit Twente | Leraar Informatica |
 | Informatica | 56978 | Universiteit Leiden, Rijksuniversiteit Groningen, Universiteit Utrecht, Universiteit van Amsterdam | Leraar Informatica |
@@ -372,6 +372,7 @@ Vervallen
 | Technical Computer Science | 59335 | Universiteit Twente | Leraar Informatica |
 | Technische Informatica | 56964 | Technische Universiteit Delft, Technische Universiteit Eindhoven, Universiteit Twente | Leraar Informatica |
 | Technische Wiskunde | 56965 | Technische Universiteit Delft | Leraar Informatica |
+| Europese Talen en Culturen (afstudeerrichting Italiaans) | 56124 | Rijksuniversiteit Groningen | Leraar Italiaans |
 | Italiaanse Taal en Cultuur | 56809 | Universiteit Leiden, Universiteit Utrecht, Universiteit van Amsterdam | Leraar Italiaans |
 | Kunstgeschiedenis | 56824 | Universiteit Leiden, Rijksuniversiteit Groningen, Universiteit Utrecht, Universiteit van Amsterdam, Radboud Universiteit Nijmegen | Leraar Kunstvakken-I en Kunstvakken-II |
 | Latijnse Taal en Cultuur | 56816 | Universiteit van Amsterdam | Leraar Latijn en KCV |
@@ -384,6 +385,7 @@ Vervallen
 | Bestuurskunde | 56627 | Universiteit Leiden, Erasmus Universiteit Rotterdam, Radboud Universiteit Nijmegen, Tilburg University | Leraar Maatschappijleer |
 | Communicatiewetenschap | 56615 | Universiteit Twente, Universiteit van Amsterdam, Vrije Universiteit Amsterdam, Radboud Universiteit Nijmegen | Leraar Maatschappijleer |
 | Culturele Antropologie en Ontwikkelingssociologie | 50035 | Universiteit Leiden, Universiteit Utrecht, Universiteit van Amsterdam, Vrije Universiteit Amsterdam, Radboud Universiteit Nijmegen | Leraar Maatschappijleer |
+| Interdisciplinaire Sociale Wetenschap | 56631 | Universiteit Utrecht, Universiteit van Amsterdam | Leraar Maatschappijleer |
 | Management, Society and Technology | 56654 | Universiteit Twente | Leraar Maatschappijleer |
 | Politicologie | 56606 | Universiteit Leiden, Universiteit van Amsterdam, Vrije Universiteit Amsterdam, Radboud Universiteit Nijmegen | Leraar Maatschappijleer |
 | Sociologie | 56601 | Rijksuniversiteit Groningen, Universiteit Utrecht, Erasmus Universiteit Rotterdam, Universiteit van Amsterdam, Vrije Universiteit Amsterdam, Radboud Universiteit Nijmegen, Tilburg University | Leraar Maatschappijleer |
@@ -429,6 +431,7 @@ Vervallen
 | Communicatie- en Informatiewetenschappen | 56826 | Tilburg University | Leraar Nederlands |
 | Algemene Cultuurwetenschappen (specialisatie Nederlandse taal en cultuur) | 56823 | Tilburg University, Open Universiteit | Leraar Nederlands |
 | Nederlandse Taal en Cultuur | 56804 | Universiteit Leiden, Rijksuniversiteit Groningen, Universiteit Utrecht, Universiteit van Amsterdam, Radboud Universiteit Nijmegen | Leraar Nederlands |
+| Europese Talen en Culturen (afstudeerrichting Russisch) | 56124 | Rijksuniversiteit Groningen | Leraar Russisch |
 | Russische Studies | 50855 | Universiteit Leiden | Leraar Russisch |
 | Slavische Talen en Culturen (afstudeerrichting Russisch) | 56813 | Universiteit Leiden, Universiteit van Amsterdam | Leraar Russisch |
 | Advanced Technology | 50002 | Universiteit Twente | Leraar Scheikunde |
@@ -458,21 +461,21 @@ Vervallen
 | Romaanse Talen en Culturen (afstudeerrichting Spaans) | 56074 | Radboud Universiteit Nijmegen | Leraar Spaans |
 | Spaanse Taal en Cultuur | 56810 | Universiteit Utrecht, Universiteit van Amsterdam | Leraar Spaans |
 | Taal- en Cultuurstudies (afstudeerrichting Spaans) | 56801 | Universiteit Utrecht | Leraar Spaans |
-| Advanced Technology | 50002 | Universiteit Twente | Leraar Techniek |
-| Biomedische Technologie | 56226 | Universiteit Twente | Leraar Techniek |
-| Bouwkunde | 56951 | Technische Universiteit Delft, Technische Universiteit Eindhoven | Leraar Techniek |
-| Civil Engineering | 50352 | Universiteit Twente | Leraar Techniek |
-| Civiele Techniek | 56952 | Technische Universiteit Delft, Universiteit Twente | Leraar Techniek |
-| Creative Technology | 50447 | Universiteit Twente | Leraar Techniek |
-| Electrical Engineering | 56953 | Technische Universiteit Delft, Technische Universiteit Eindhoven, Universiteit Twente | Leraar Techniek |
-| Industrial Design | 50441 | Technische Universiteit Eindhoven | Leraar Techniek |
-| Industrial Design Engineering | 50975 | Universiteit Twente | Leraar Techniek |
-| Industrieel Ontwerpen | 56955 | Technische Universiteit Delft, Universiteit Twente | Leraar Techniek |
-| Luchtvaart- en Ruimtevaarttechniek | 56956 | Technische Universiteit Delft | Leraar Techniek |
-| Maritieme Techniek | 56957 | Technische Universiteit Delft | Leraar Techniek |
-| Mechanical Engineering | 50439 | Universiteit Twente | Leraar Techniek |
-| Technische Natuurkunde | 56962 | Technische Universiteit Delft, Technische Universiteit Eindhoven, Universiteit Twente | Leraar Techniek |
-| Werktuigbouwkunde | 56966 | Technische Universiteit Delft, Technische Universiteit Eindhoven, Universiteit Twente | Leraar Techniek |
+| Advanced Technology | 50002 | Universiteit Twente | Leraar Techniek en Onderzoek & Ontwerpen |
+| Biomedische Technologie | 56226 | Universiteit Twente | Leraar Techniek en Onderzoek & Ontwerpen |
+| Bouwkunde | 56951 | Technische Universiteit Delft, Technische Universiteit Eindhoven | Leraar Techniek en Onderzoek & Ontwerpen |
+| Civil Engineering | 50352 | Universiteit Twente | Leraar Techniek en Onderzoek & Ontwerpen |
+| Civiele Techniek | 56952 | Technische Universiteit Delft, Universiteit Twente | Leraar Techniek en Onderzoek & Ontwerpen |
+| Creative Technology | 50447 | Universiteit Twente | Leraar Techniek en Onderzoek & Ontwerpen |
+| Electrical Engineering | 56953 | Technische Universiteit Delft, Technische Universiteit Eindhoven, Universiteit Twente | Leraar Techniek en Onderzoek & Ontwerpen |
+| Industrial Design | 50441 | Technische Universiteit Eindhoven | Leraar Techniek en Onderzoek & Ontwerpen |
+| Industrial Design Engineering | 50975 | Universiteit Twente | Leraar Techniek en Onderzoek & Ontwerpen |
+| Industrieel Ontwerpen | 56955 | Technische Universiteit Delft, Universiteit Twente | Leraar Techniek en Onderzoek & Ontwerpen |
+| Luchtvaart- en Ruimtevaarttechniek | 56956 | Technische Universiteit Delft | Leraar Techniek en Onderzoek & Ontwerpen |
+| Maritieme Techniek | 56957 | Technische Universiteit Delft | Leraar Techniek en Onderzoek & Ontwerpen |
+| Mechanical Engineering | 50439 | Universiteit Twente | Leraar Techniek en Onderzoek & Ontwerpen |
+| Technische Natuurkunde | 56962 | Technische Universiteit Delft, Technische Universiteit Eindhoven, Universiteit Twente | Leraar Techniek en Onderzoek & Ontwerpen |
+| Werktuigbouwkunde | 56966 | Technische Universiteit Delft, Technische Universiteit Eindhoven, Universiteit Twente | Leraar Techniek en Onderzoek & Ontwerpen |
 | Actuariële Wetenschappen | 56411 | Universiteit van Amsterdam | Leraar Wiskunde |
 | Advanced Technology | 50002 | Universiteit Twente | Leraar Wiskunde |
 | Applied Mathematics | 59336 | Universiteit Twente | Leraar Wiskunde |
@@ -513,16 +516,14 @@ Vervallen
 
 2 Het onderdeel Human Geography (6EC) dient onderdeel te zijn van de bacheloropleiding.
 
-3 Het onderdeel Human Geography (6EC) dient onderdeel te zijn van de bacheloropleiding.
+3 Het buitenlandprogramma (30EC) dient onderdeel te zijn van de bacheloropleiding.
 
-4 Het onderdeel Human Geography (6EC) dient onderdeel te zijn van de bacheloropleiding.
+4 Dit leertraject is een specifiek samengesteld programma binnen de BSc-opleiding Animal Sciences, voorgelegd aan en goedgekeurd door de examencommissie Levenwetenschappen van Wageningen University en gericht op het voorbereiden van de student op een baan als leerkracht in de Biologie.
 
-5 Dit leertraject is een specifiek samengesteld programma binnen de Bsc-opleiding Animal Sciences, voorgelegd aan en goedgekeurd door de examencommissie Levenwetenschappen van Wageningen University en gericht op het voorbereiden van de student op een baan als leerkracht in de Biologie.
+5 Met specialisatie Biomedische wetenschappen (BMW) en keuzevak Humane evolutie.
 
-6 Met specialisatie Biomedische wetenschappen (BMW) en keuzevak Humane evolutie.
+6 Dit leertraject is een specifiek samengesteld programma binnen de BSc-opleiding Plantenwetenschappen, voorgelegd aan en goedgekeurd door de examencommissie Levenwetenschappen van Wageningen University en gericht op het voorbereiden van de student op een baan als leerkracht in de Biologie.
 
-7 Dit leertraject is een specifiek samengesteld programma binnen de Bsc-opleiding Plantenwetenschappen, voorgelegd aan en goedgekeurd door de examencommissie Levenwetenschappen van Wageningen University en gericht op het voorbereiden van de student op een baan als leerkracht in de Biologie.
-
-8 De vakken Computer Systems, Computer Networks en Security en Data management for data analytics dienen onderdeel te zijn van de bacheloropleiding.
+7 De vakken Computer Systems, Computer Networks en Security en Data management for data analytics dienen onderdeel te zijn van de bacheloropleiding.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
