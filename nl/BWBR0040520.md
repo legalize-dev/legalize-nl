@@ -4,7 +4,7 @@ identifier: "BWBR0040520"
 country: "nl"
 rank: "rijkswet"
 publication_date: "2025-05-03"
-last_updated: "2018-05-01"
+last_updated: "2024-12-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040520"
 soort: "rijkswet"
@@ -64,7 +64,7 @@ Op gelijke voet als waarop Onze Minister consulaire bescherming verleent aan Ned
 
 ##### Artikel 3
 
-[Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040520&artikel=2&z=2018-05-01&g=2018-05-01) vindt geen toepassing in gevallen waarin:
+[Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040520&artikel=2&z=2018-05-01&g=2024-12-08) vindt geen toepassing in gevallen waarin:
 
 - a. de lidstaat waarvan betrokkene de nationaliteit draagt te kennen geeft dat deze voor consulaire bescherming zorg zal dragen, of
 
@@ -78,7 +78,7 @@ Op gelijke voet als waarop Onze Minister consulaire bescherming verleent aan Ned
 
 ##### Artikel 5
 
-1. Voor het verlenen van consulaire bescherming op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040520&artikel=2&z=2018-05-01&g=2018-05-01) is de krachtens de [Rijkswet op de consulaire tarieven](https://wetten.overheid.nl/jci1.3:c:BWBR0013618) verschuldigde vergoeding verschuldigd, op gelijke voet als waarop Onze Minister dergelijke kosten in rekening brengt aan Nederlanders.
+1. Voor het verlenen van consulaire bescherming op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040520&artikel=2&z=2018-05-01&g=2024-12-08) is de krachtens de [Rijkswet op de consulaire tarieven](https://wetten.overheid.nl/jci1.3:c:BWBR0013618) verschuldigde vergoeding verschuldigd, op gelijke voet als waarop Onze Minister dergelijke kosten in rekening brengt aan Nederlanders.
 
 2. Onze Minister kan de vergoeding, bedoeld in het eerste lid, in rekening brengen bij de lidstaat waarvan de betrokken EU-burger de nationaliteit draagt.
 
@@ -93,5 +93,53 @@ Deze rijkswet treedt in werking op 1 mei 2018.
 ##### Artikel 7
 
 Deze rijkswet wordt aangehaald als: Rijkswet consulaire bescherming EU-burgers.
+
+Lasten en bevelen dat deze in het Staatsblad, in het Afkondigingsblad van Aruba, in het Publicatieblad van Curaçao en in het Afkondigingsblad van Sint Maarten zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+### Hoofdstuk 1. Algemene bepaling
+
+### Hoofdstuk 2. Consulaire bescherming EU-burgers
+
+### Hoofdstuk 3. EU-noodreisdocument
+
+##### Artikel 5a
+
+Onze Minister geeft een EU-noodreisdocument af aan andere EU-burgers dan Nederlanders en hun familieleden volgens de regels gesteld in dit hoofdstuk.
+
+##### Artikel 5b
+
+1. Onze Minister geeft op aanvraag een EU-noodreisdocument af aan andere EU-burgers dan Nederlanders en hun familieleden als:
+
+- a. de lidstaat waarvan die EU-burger de nationaliteit draagt niet vertegenwoordigd is in een derde land of de vertegenwoordiging van die lidstaat niet in staat is om een EU-noodreisdocument af te geven, en
+
+- b. het paspoort of reisdocument van die EU-burger of zijn familielid verloren, gestolen of vernietigd is, of om een andere reden niet binnen een redelijke termijn kan worden verkregen.
+
+2. Onze Minister geeft een EU-noodreisdocument alleen af aan een familielid die geen EU-burger is en die een EU-burger in een derde land vergezelt als dat familielid legaal in een lidstaat verblijft, onverminderd de toepasselijke visumvereisten op grond van [Verordening (EU) 2018/1806](32018R1806) en artikel 5, tweede lid, van [Richtlijn 2004/38/EG](32004L0038).
+
+##### Artikel 5c
+
+1. Onze Minister geeft een EU-noodreisdocument zo spoedig mogelijk af, maar uiterlijk zeven werkdagen na ontvangst van de aanvraag.
+
+2. Van de afgiftetermijn kan alleen worden afgeweken in gemotiveerde gevallen. Onze Minister stelt de aanvrager daarvan in kennis.
+
+##### Artikel 5d
+
+1. Een EU-noodreisdocument heeft de tijdelijke en territoriale geldigheid als vereist is voor de reis waarvoor het EU-noodreisdocument wordt verstrekt.
+
+2. De geldigheidsduur van een EU-noodreisdocument bedraagt niet meer dan vijftien dagen, tenzij zich uitzonderlijke omstandigheden voordoen.
+
+##### Artikel 5e
+
+Onze Minister stelt de aanvrager in kennis in het geval de lidstaat waarvan de aanvrager de nationaliteit draagt te kennen geeft dat deze voor consulaire bescherming zorg zal dragen, bedoeld in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040520&hoofdstuk=2&artikel=3&z=2025-05-03&g=2024-12-08 jci1.3:c:BWBR0040520&artikel=3&z=2025-05-03&g=2024-12-08).
+
+##### Artikel 5f
+
+1. De persoonsgegevens die voor een aanvraag van een EU-noodreisdocument worden verkregen, worden alleen gebruikt voor verificatie van de identiteit van de aanvrager, het drukken van de uniforme EU-NRD-sticker, bedoeld in bijlage II van [Richtlijn (EU) 2019/997](32019L0997), en het faciliteren van de reis van de aanvrager.
+
+2. De persoonsgegevens van andere EU-burgers dan Nederlanders en hun familieleden die een EU-noodreisdocument hebben aangevraagd, worden na 180 dagen gewist.
+
+3. De persoonsgegevens van Nederlanders die een EU-noodreisdocument van een andere EU-lidstaat hebben ontvangen, worden na twee jaar gewist.
+
+### Hoofdstuk 4. Slotbepalingen
 
 Lasten en bevelen dat deze in het Staatsblad, in het Afkondigingsblad van Aruba, in het Publicatieblad van Curaçao en in het Afkondigingsblad van Sint Maarten zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
