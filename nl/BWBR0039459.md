@@ -4,7 +4,7 @@ identifier: "BWBR0039459"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-14"
-last_updated: "2024-11-06"
+last_updated: "2024-12-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039459"
 soort: "ministeriele-regeling"
@@ -84,7 +84,7 @@ In deze regeling wordt verstaan onder:
 
 - f. het in het kader van scholing en begeleiding volgen door de zij-instromer van een door de minister aangewezen verdiepend trainingsprogramma.
 
-2. Met uitzondering van het bedrag, bedoeld in [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039459&artikel=4&z=2024-11-06&g=2024-11-06), wordt geen subsidie verstrekt aan het bevoegd gezag, indien:
+2. Met uitzondering van het bedrag, bedoeld in [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039459&artikel=4&z=2024-12-11&g=2024-12-11), wordt geen subsidie verstrekt aan het bevoegd gezag, indien:
 
 - a. de betreffende zij-instromer staat ingeschreven als student aan een lerarenopleiding;
 
@@ -108,7 +108,9 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 - b. het kalenderjaar 2023 een bedrag beschikbaar van ten hoogste € 58.480.000,–;
 
-- c. de kalenderjaren 2024, 2025, 2026, 2027 en 2028 een bedrag beschikbaar van ten hoogste € 54.240.000,–.
+- c. het kalenderjaar 2024 een bedrag beschikbaar van ten hoogste € 57.250.000,–;
+
+- d. de kalenderjaren 2025, 2026, 2027 en 2028 jaarlijks een bedrag beschikbaar van ten hoogste € 54.240.000,–.
 
 2. De minister verdeelt het beschikbare bedrag op volgorde van binnenkomst van de aanvragen.
 
@@ -116,15 +118,13 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 ##### Artikel 5. Bedrag zij-instroomsubsidie
 
-1. De subsidie bedraagt ten hoogste € 25.000 per zij-instromer.
-
-2. Het bedrag, genoemd in het eerste lid, is van overeenkomstige toepassing op aanvragen die zijn ingediend in de periode van 16 oktober 2022 tot en met 31 december 2022.
+De subsidie bedraagt ten hoogste € 25.000 per zij-instromer.
 
 ##### Artikel 6. Aanvraag zij-instroomsubsidie
 
 1. Het bevoegd gezag dient de aanvraag in met gebruikmaking van het aanvraagformulier dat op de website van de Dienst Uitvoering Onderwijs beschikbaar wordt gesteld.
 
-2. Een subsidieaanvraag kan worden ingediend vanaf het moment waarop de scholing, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039459&artikel=2&z=2024-11-06&g=2024-11-06), is aangevangen tot en met 15 oktober van het daaropvolgende kalenderjaar.
+2. Een subsidieaanvraag kan worden ingediend vanaf het moment waarop de scholing, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039459&artikel=2&z=2024-12-11&g=2024-12-11), is aangevangen tot en met 15 oktober van het daaropvolgende kalenderjaar.
 
 ##### Artikel 7. Subsidieverstrekking, betaling en besteding
 
@@ -132,7 +132,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 2. In afwijking van het eerste lid wordt de subsidie uiterlijk vóór 1 maart van het daaropvolgende kalenderjaar direct vastgesteld, indien:
 
-- a. het plafond, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039459&artikel=4&z=2024-11-06&g=2024-11-06), is bereikt vóór 16 oktober van het betreffende kalenderjaar; of
+- a. het plafond, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039459&artikel=4&z=2024-12-11&g=2024-12-11), is bereikt vóór 16 oktober van het betreffende kalenderjaar; of
 
 - b. de aanvraag is ingediend in de periode van 16 oktober tot en met 31 december van het kalenderjaar waarin de scholing is aangevangen.
 
@@ -168,7 +168,7 @@ Deze regeling wordt aangehaald als: Regeling subsidie zij-instroom.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage I. behorend bij [artikel 4, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0039459&artikel=4&z=2024-11-06&g=2024-11-06), opleidingen bèta en techniek in het mbo
+## Bijlage I. behorend bij [artikel 4, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0039459&artikel=4&z=2024-12-11&g=2024-12-11), opleidingen bèta en techniek in het mbo
 
 Vervallen
 
