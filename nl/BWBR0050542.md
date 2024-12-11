@@ -4,7 +4,7 @@ identifier: "BWBR0050542"
 country: "nl"
 rank: "wet"
 publication_date: "2024-12-11"
-last_updated: "2022-03-04"
+last_updated: "2024-12-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050542"
 soort: "wet"
@@ -54,6 +54,6 @@ Onze Minister van Sociale Zaken en Werkgelegenheid zendt binnen achttien maanden
 
 ##### Artikel II
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en werkt terug tot en met 4 maart 2022, met uitzondering van [artikel I, onderdelen B, D en G](https://wetten.overheid.nl/jci1.3:c:BWBR0050542&artikel=I&z=2024-12-11&g=2022-03-04), dat in werking treedt op een bij koninklijk besluit te bepalen tijdstip.
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en werkt terug tot en met 4 maart 2022, met uitzondering van [artikel I, onderdelen B, D en G](https://wetten.overheid.nl/jci1.3:c:BWBR0050542&artikel=I&z=2024-12-11&g=2024-12-11), dat in werking treedt op een bij koninklijk besluit te bepalen tijdstip.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
