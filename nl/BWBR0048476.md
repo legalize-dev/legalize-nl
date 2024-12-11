@@ -4,7 +4,7 @@ identifier: "BWBR0048476"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-12-11"
-last_updated: "2023-11-06"
+last_updated: "2024-12-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048476"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ Besluit:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048476&artikel=2&z=2023-11-06&g=2023-11-06).
+In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048476&artikel=2&z=2024-12-11&g=2024-12-11).
 
 ##### Artikel 2
 
@@ -84,13 +84,13 @@ Op grond van dit besluit kunnen maximaal 30 personen als buitengewoon opsporings
 
 ##### Artikel 6
 
-De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste, derde lid en vierde lid (vervoersfouillering), van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) omschreven bevoegdheden uitoefenen met gebruikmaking van vrijheidsbeperkend middel handboeien.
+De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste, derde en vierde lid (vervoersfouillering), van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) omschreven bevoegdheden uitoefenen met gebruikmaking van het vrijheidsbeperkend middel handboeien en het geweldsmiddel korte wapenstok. De gebruikmaking van het geweldsmiddel korte wapenstok wordt toegekend tot 2 december 2026, onder de randvoorwaarden zoals gesteld op basis van [artikel 29 Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=29) in het gezamenlijke advies van de toezichthouders. Hiertoe vindt op basis van [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=40) en [41 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=41) regulier overleg plaats.
 
 ##### Artikel 7
 
 1. De gemeente Hoorn brengt jaarlijks, voor 1 april, verslag uit over:
 
-- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048476&artikel=2&z=2023-11-06&g=2023-11-06) genoemde functie;
+- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048476&artikel=2&z=2024-12-11&g=2024-12-11) genoemde functie;
 
 - b. de door die buitengewoon opsporingsambtenaren verrichte activiteiten;
 
@@ -100,7 +100,7 @@ De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste, derde lid en v
 
 ##### Artikel 8
 
-De op naam gestelde akten van beëdiging en de overige benoemingsbescheiden, afgegeven mede op basis van het in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0048476&artikel=9&z=2023-11-06&g=2023-11-06) genoemde besluit, worden geacht mede te zijn afgegeven op basis van dit besluit.
+De op naam gestelde akten van beëdiging en de overige benoemingsbescheiden, afgegeven mede op basis van het in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0048476&artikel=9&z=2024-12-11&g=2024-12-11) genoemde besluit, worden geacht mede te zijn afgegeven op basis van dit besluit.
 
 Dit artikel brengt geen wijziging in de resterende looptijd van de afgegeven aktes.
 
