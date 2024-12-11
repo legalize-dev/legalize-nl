@@ -4,7 +4,7 @@ identifier: "BWBR0006612"
 country: "nl"
 rank: "wet"
 publication_date: "2024-12-11"
-last_updated: "2020-01-01"
+last_updated: "2024-12-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006612"
 soort: "wet"
@@ -115,7 +115,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. De militair behorende tot het beroepspersoneel van de krijgsmacht die tot het lidmaatschap van de Eerste Kamer der Staten-Generaal is toegelaten, is van rechtswege op non-activiteit gesteld.
 
-2. Degene die een in [artikel 1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006612&artikel=1&z=2020-01-01&g=2020-01-01), of [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006612&artikel=2&z=2020-01-01&g=2020-01-01), bedoeld ambt bekleedt en tot het lidmaatschap van de Eerste Kamer der Staten-Generaal is toegelaten, is van rechtswege op non-activiteit gesteld.
+2. Degene die een in [artikel 1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006612&artikel=1&z=2024-12-11&g=2024-12-11), of [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006612&artikel=2&z=2024-12-11&g=2024-12-11), bedoeld ambt bekleedt en tot het lidmaatschap van de Eerste Kamer der Staten-Generaal is toegelaten, is van rechtswege op non-activiteit gesteld.
 
 3. Degene die op non-activiteit is gesteld, is van het ogenblik af dat hij is toegelaten, ontheven van de waarneming van het ambt, zulks, voor zover de ambtsbetrekking niet eerder eindigt, tot op het ogenblik, waarop hij, nadat hij heeft opgehouden lid te zijn, in actieve dienst wordt hersteld.
 
@@ -123,15 +123,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 5. De militair behorende tot het reserve-personeel van de krijgsmacht, de dienstplichtige militair en de tewerkgestelde erkend gewetensbezwaarde is van het ogenblik dat hij tot het lidmaatschap van de Eerste Kamer der Staten-Generaal is toegelaten en voorzolang hij dat lidmaatschap uitoefent, van rechtswege met groot verlof.
 
-6. Degene die een in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006612&artikel=1&z=2020-01-01&g=2020-01-01), bedoeld ambt bekleedt en die tot het lidmaatschap van de Tweede Kamer der Staten-Generaal of het Europees Parlement is toegelaten, wordt in verband daarmee eervol ontslag verleend met ingang van de dag van zijn toelating, dan wel op zijn verzoek met ingang van die dag tijdelijk ontheven van de waarneming van zijn ambt.
+6. Degene die een in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006612&artikel=1&z=2024-12-11&g=2024-12-11), bedoeld ambt bekleedt en die tot het lidmaatschap van de Tweede Kamer der Staten-Generaal of het Europees Parlement is toegelaten, wordt in verband daarmee eervol ontslag verleend met ingang van de dag van zijn toelating, dan wel op zijn verzoek met ingang van die dag tijdelijk ontheven van de waarneming van zijn ambt.
 
-7. De arbeidsovereenkomst van degene die een in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006612&artikel=1&z=2020-01-01&g=2020-01-01), bedoeld ambt bekleedt en die tot het lidmaatschap van de Tweede Kamer der Staten-Generaal of het Europees Parlement is toegelaten, eindigt in verband daarmee van rechtswege met ingang van de dag van die toelating, tenzij betrokkene voor die dag verzoekt om met ingang van die dag tijdelijk te worden ontheven van de waarneming van zijn ambt.
+7. De arbeidsovereenkomst van degene die een in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006612&artikel=1&z=2024-12-11&g=2024-12-11), bedoeld ambt bekleedt en die tot het lidmaatschap van de Tweede Kamer der Staten-Generaal of het Europees Parlement is toegelaten, eindigt in verband daarmee van rechtswege met ingang van de dag van die toelating, tenzij betrokkene voor die dag verzoekt om met ingang van die dag tijdelijk te worden ontheven van de waarneming van zijn ambt.
 
 ##### Artikel 4
 
 1. Tijdens de non-activiteit wordt, onverminderd het bepaalde in de volgende artikelen, door de betrokkene een non-activiteitswedde genoten ten bedrage van de helft der laatstelijk door hem in zijn ambt genoten loon of bezoldiging.
 
-2. Onder laatstelijk in zijn ambt genoten loon wordt verstaan het loon als bedoeld in [artikel 6, eerste lid, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=6) en, in afwijking van onderdeel a van dat lid, de vakantiebijslag als bedoeld in [artikel 15, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=15). Onder laatstelijk in zijn ambt genoten bezoldiging wordt verstaan de bezoldiging, bedoeld in [artikel 48a, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=48a), in [artikel 1, eerste lid, onderdeel d, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=1) of in artikel 10, eerste lid, van de Wet ambtenaren defensie.
+2. Onder laatstelijk in zijn ambt genoten loon wordt verstaan het loon als bedoeld in [artikel 6, eerste lid, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=6) en, in afwijking van onderdeel a van dat lid, de vakantiebijslag als bedoeld in [artikel 15, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=15). Onder laatstelijk in zijn ambt genoten bezoldiging wordt verstaan de bezoldiging, bedoeld in [artikel 44a, eerste lid, van de Politiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=44a), de bezoldiging, bedoeld in [artikel 10, eerste lid, van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=10), of de bezoldiging, bedoeld in [artikel 1, eerste lid, onderdeel d, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=1), vermeerderd met de vakantie-uitkering.
 
 3. Indien in het laatstgenoten loon of de laatstelijk genoten bezoldiging, als omschreven in het tweede lid, uit anderen hoofde dan wegens het toekennen van een periodieke verhoging van het salaris, wijziging zou zijn gekomen, wanneer de betrokkene op dat loon of die bezoldiging in actieve dienst zou zijn gebleven, geldt vanaf de datum, waarop die wijziging in werking zou zijn getreden, het aldus gewijzigde bedrag als laatstelijk in zijn ambt genoten loon of bezoldiging.
 
@@ -147,13 +147,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 6
 
-Indien de op non-activiteit gestelde uit het ambt een ontslag, dat aanspraak geeft op wachtgeld, wordt verleend, worden voor de toepassing van de desbetreffende bepalingen inkomsten als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006612&artikel=5&z=2020-01-01&g=2020-01-01) beschouwd als inkomsten, genoten uit of in verband met arbeid of bedrijf na het ontslag ter hand genomen.
+Indien de op non-activiteit gestelde uit het ambt een ontslag, dat aanspraak geeft op wachtgeld, wordt verleend, worden voor de toepassing van de desbetreffende bepalingen inkomsten als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006612&artikel=5&z=2024-12-11&g=2024-12-11) beschouwd als inkomsten, genoten uit of in verband met arbeid of bedrijf na het ontslag ter hand genomen.
 
 ##### Artikel 7
 
 1. Bij het einde van het lidmaatschap wordt degene die op non-activiteit was gesteld, voor zoveel zulks naar het oordeel van de overheidswerkgever of het bevoegd gezag mogelijk is, in actieve dienst hersteld.
 
-2. Is herstel in actieve dienst niet mogelijk, dan wordt aan de ambtenaar, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006612&artikel=2&z=2020-01-01&g=2020-01-01), eervol ontslag verleend. Als gevolg van het eervol ontslag, is geen sprake van verwijtbare werkloosheid in de zin van [artikel 24 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24). Inkomsten, als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006612&artikel=6&z=2020-01-01&g=2020-01-01), worden beschouwd als inkomsten genoten uit of in verband met arbeid of bedrijf na het ontslag ter hand genomen.
+2. Is herstel in actieve dienst niet mogelijk, dan wordt aan de ambtenaar, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006612&artikel=2&z=2024-12-11&g=2024-12-11), eervol ontslag verleend. Als gevolg van het eervol ontslag, is geen sprake van verwijtbare werkloosheid in de zin van [artikel 24 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24). Inkomsten, als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006612&artikel=6&z=2024-12-11&g=2024-12-11), worden beschouwd als inkomsten genoten uit of in verband met arbeid of bedrijf na het ontslag ter hand genomen.
 
 ##### Artikel 8
 
