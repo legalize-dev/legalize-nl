@@ -4,7 +4,7 @@ identifier: "BWBR0050554"
 country: "nl"
 rank: "wet"
 publication_date: "2025-02-12"
-last_updated: "2024-04-10"
+last_updated: "2024-12-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050554"
 soort: "wet"
@@ -300,8 +300,34 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XLV. Inwerkingtreding
 
-Dit onderdeel is nog niet inwerking getreden
+1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+
+2. In afwijking van het eerste lid, treden de [artikelen I, onderdelen A, C, E, F, G, I en K](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=I&z=2024-12-11&g=2024-12-11), [X, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=X&z=2024-12-11&g=2024-12-11), [XI](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=XI&z=2024-12-11&g=2024-12-11), [XV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=XV&z=2024-12-11&g=2024-12-11), [XXI, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=XXI&z=2024-12-11&g=2024-12-11) en [XXII](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=XXII&z=2024-12-11&g=2024-12-11) in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, en werkt ten aanzien van:
+
+- a. [artikel I, onderdelen A, C, E, F, G, I en K](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=I&z=2024-12-11&g=2024-12-11), terug tot en met 1 juli 2022;
+
+- b. [artikel X, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=X&z=2024-12-11&g=2024-12-11), en [artikel XXI, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=XXI&z=2024-12-11&g=2024-12-11), terug tot en met 1 januari 2023;
+
+- c. [artikel XI, onderdelen A en C](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=XI&z=2024-12-11&g=2024-12-11), terug tot en met 1 januari 2021;
+
+- d. [artikel XV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=XV&z=2024-12-11&g=2024-12-11), terug tot 1 april 2023;
+
+- e. [artikel XXII](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=XXII&z=2024-12-11&g=2024-12-11) terug tot en met 1 januari 2020.
+
+3. In afwijking van het eerste lid, treden de [artikelen V, onderdelen D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=V&z=2024-12-11&g=2024-12-11), [X, onderdelen C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=X&z=2024-12-11&g=2024-12-11), en [XIV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=XIV&z=2024-12-11&g=2024-12-11), in werking op 1 januari 2024. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 31 december 2023, treden zij in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en werken zij terug tot en met het tijdstip, bedoeld in de eerste volzin.
+
+4. In afwijking van het eerste lid, treedt [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=II&z=2024-12-11&g=2024-12-11) in werking op het tijdstip waarop [artikel I, onderdeel Ra, van de Wet aanpassing Appa en enkele andere wetten 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045388&artikel=I) in werking treedt. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na het tijdstip, bedoeld in de eerste volzin, treedt [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=II&z=2024-12-11&g=2024-12-11) in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt het terug tot en met het tijdstip, bedoeld in de eerste volzin.
+
+5. In afwijking van het eerste lid, treedt [artikel XXI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=XXII&z=2024-12-11&g=2024-12-11), in werking op het tijdstip waarop het bepaalde in [artikel 16, derde lid, van de Wet herstel voorzieningen Sint Eustatius](https://wetten.overheid.nl/jci1.3:c:BWBR0043889&artikel=16) in werking treedt. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na het tijdstip, bedoeld in de eerste volzin, treedt [artikel XXI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0050554&artikel=XXII&z=2024-12-11&g=2024-12-11), in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt het terug tot en met het tijdstip, bedoeld in de eerste volzin.
 
 ##### Artikel XLVI. Citeertitel
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Verzamelwet BZK, met vermelding van het jaartal van het Staatsblad waarin zij zal worden geplaatst.
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo wij in overweging genomen hebben, dat het wenselijk is om enige gebreken van ondergeschikte aard in diverse wetten hoofdzakelijk op het terrein van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties te herstellen;
+
+Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
