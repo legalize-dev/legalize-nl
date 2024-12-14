@@ -4,7 +4,7 @@ identifier: "BWBR0034045"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-12-14"
-last_updated: "2013-10-20"
+last_updated: "2024-12-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034045"
 soort: "ministeriele-regeling"
@@ -93,21 +93,23 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. De indiening van de klacht
 
-1). De klager dient de klacht schriftelijk, gemotiveerd en voorzien van een datum en handtekening, in bij de Raad voor Rechtsbijstand. De contactgegevens staan vermeld in de toelichting bij deze klachtenregeling.
+1. De klager dient de klacht schriftelijk, gemotiveerd en voorzien van een datum en handtekening, in bij de Raad voor Rechtsbijstand. De contactgegevens staan vermeld in de toelichting bij deze klachtenregeling.
 
-2). De klacht wordt niet in behandeling genomen wanneer de klager niet eerst de klachtenprocedure van de bewindvoerderorganisatie, waar de bewindvoerder werkzaam is, aantoonbaar heeft gevolgd.
+2. Om in behandeling genomen te kunnen worden, moet de klacht aan de volgende eisen voldoen:
 
-3). De klacht wordt in beginsel niet in behandeling genomen als deze betrekking heeft op het handelen of nalaten van de bewindvoerder dat zich meer dan een jaar vóór de indiening van de klacht aan de klager heeft geopenbaard, tenzij bijzondere omstandigheden (die klager dient te stellen en aan te tonen) nopen tot het hanteren van een langere termijn.
+- a). De klager heeft de klachtenprocedure van de bewindvoerderorganisatie, waar de bewindvoerder werkzaam is, aantoonbaar gevolgd.
 
-4). De klacht wordt niet in behandeling genomen als deze betrekking heeft op de inhoudelijke behandeling van een wettelijke schuldsaneringsregeling, waarin de regeling van [artikel 317 van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=317) (behandeling van klachten door de rechter-commissaris) voorziet.
+- b). De klacht is uiterlijk binnen drie maanden na datum eindvonnis bij de bewindvoerdersorganisatie ingediend, en vervolgens uiterlijk binnen één maand na afronding van die procedure (datum reactie op klacht) bij de Raad voor Rechtsbijstand.
+
+- c). De klacht is gebaseerd op de Gedragscode. De klacht heeft uitdrukkelijk geen betrekking op de inhoudelijke behandeling van de wettelijke schuldsaneringsregeling, waarin de regeling van [artikel 317 van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=317) (behandeling van klachten door de rechter-commissaris) voorziet.
 
 ##### Artikel 3. De ontvangstbevestiging en behandeling van de klacht
 
-1). De secretaris bevestigt zo spoedig mogelijk schriftelijk de ontvangst van de klacht aan de klager en maakt daarbij melding van het verloop van de verdere procedure. Wanneer de klacht niet volledig is of anderszins niet voldoet aan de voorwaarden van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034045&paragraaf=2&artikel=2&z=2013-10-20&g=2013-10-20), stelt de secretaris de klager in de gelegenheid om het verzuim te herstellen. De klager wordt daartoe een termijn van ten hoogste vier weken gesteld. In evidente gevallen kan de secretaris de klacht direct niet-ontvankelijk verklaren.
+1). De secretaris bevestigt zo spoedig mogelijk schriftelijk de ontvangst van de klacht aan de klager en maakt daarbij melding van het verloop van de verdere procedure. Wanneer de klacht niet volledig is of anderszins niet voldoet aan de voorwaarden van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034045&paragraaf=2&artikel=2&z=2024-12-14&g=2024-12-14), stelt de secretaris de klager in de gelegenheid om het verzuim te herstellen. De klager wordt daartoe een termijn van ten hoogste vier weken gesteld. In evidente gevallen kan de secretaris de klacht direct niet-ontvankelijk verklaren.
 
 2). Indien de klager de klacht niet de binnen de gestelde termijn completeert wordt de klacht niet-ontvankelijk verklaard.
 
-3). Wanneer de klacht voldoet aan de voorwaarden als gesteld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034045&paragraaf=2&artikel=2&z=2013-10-20&g=2013-10-20), stuurt de secretaris deze ter advisering naar de klachtenadviescommissie.
+3). Wanneer de klacht voldoet aan de voorwaarden als gesteld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034045&paragraaf=2&artikel=2&z=2024-12-14&g=2024-12-14), stuurt de secretaris deze ter advisering naar de klachtenadviescommissie.
 
 4). Tezelfdertijd wordt een afschrift van de klacht gezonden naar de bewindvoerder, over wie de klacht is ingediend.
 
@@ -117,7 +119,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4. Onderzoek door de klachtenadviescommissie
 
-1). In geval van toepassing van [artikel 3 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034045&paragraaf=2&artikel=3&z=2013-10-20&g=2013-10-20) van deze regeling, ontvangen de leden van de klachtenadviescommissie van de secretaris alle ingediende en ter zake doende gegevens.
+1). In geval van toepassing van [artikel 3 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034045&paragraaf=2&artikel=3&z=2024-12-14&g=2024-12-14) van deze regeling, ontvangen de leden van de klachtenadviescommissie van de secretaris alle ingediende en ter zake doende gegevens.
 
 2). Wanneer de leden van de klachtenadviescommissie dat noodzakelijk achten voor het uitbrengen van hun advies, worden de bewindvoerder en de klager, alsmede eventuele getuigen, in de gelegenheid gesteld hun standpunt schriftelijk of tijdens een hoorzitting voor de commissie mondeling toe te lichten. Indien een partij van deze gelegenheid geen gebruik wenst te maken, meldt deze dat schriftelijk bij de secretaris.
 
