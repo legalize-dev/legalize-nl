@@ -4,7 +4,7 @@ identifier: "BWBR0048413"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2024-12-04"
+last_updated: "2024-12-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048413"
 soort: "wet"
@@ -47,9 +47,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel II
 
-1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen en onderdelen daarvan verschillend kan worden vastgesteld, met dien verstande dat [artikel I, onderdelen A, onder 2, DD, onder 1, 3 en 5, EE, onder 1, 3 en 5, en CCC, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048413&artikel=I&z=2024-12-04&g=2024-12-04), terugwerkt tot en met 5 november 2022.
+1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen en onderdelen daarvan verschillend kan worden vastgesteld, met dien verstande dat [artikel I, onderdelen A, onder 2, DD, onder 1, 3 en 5, EE, onder 1, 3 en 5, en CCC, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048413&artikel=I&z=2024-12-14&g=2024-12-14), terugwerkt tot en met 5 november 2022.
 
-2. In het besluit, bedoeld in het eerste lid, kan worden bepaald dat [artikel I, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0048413&artikel=I&z=2024-12-04&g=2024-12-04), van deze wet terugwerkt tot en met 1 oktober 2023.
+2. In het besluit, bedoeld in het eerste lid, kan worden bepaald dat [artikel I, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0048413&artikel=I&z=2024-12-14&g=2024-12-14), van deze wet terugwerkt tot en met 1 oktober 2023.
 
 ##### Artikel III
 
