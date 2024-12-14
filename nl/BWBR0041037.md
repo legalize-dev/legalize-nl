@@ -4,7 +4,7 @@ identifier: "BWBR0041037"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-12-14"
-last_updated: "2018-06-19"
+last_updated: "2024-12-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041037"
 soort: "ministeriele-regeling"
@@ -42,23 +42,25 @@ Besluiten:
 
 ##### Artikel 1
 
-1. Aan de algemeen directeur van de Rijksdienst voor Ondernemend Nederland wordt mandaat, volmacht en machtiging verleend om namens de Minister van Buitenlandse Zaken of de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking besluiten te nemen, rechtshandelingen te verrichten en de daartoe benodigde voorbereidingshandelingen en daarmee samenhangende werkzaamheden te verrichten met het oog op:
+1. Aan de directeur-generaal Rijksdienst voor Ondernemend Nederland wordt mandaat, volmacht en machtiging verleend om namens de Minister van Buitenlandse Zaken of de Minister voor Buitenlandse Handel en Ontwikkelingshulp besluiten te nemen, rechtshandelingen te verrichten en de daartoe benodigde voorbereidingshandelingen en daarmee samenhangende werkzaamheden te verrichten met het oog op:
 
 - –. de toepassing van de [Subsidieregeling Ministerie van Buitenlandse Zaken 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019366), daaronder begrepen het sluiten van uitvoeringsovereenkomsten bij subsidies;
 
 - –. het ten laste van de begrotingsmiddelen van vertegenwoordigingen van het Koninkrijk der Nederlanden buiten de Europese Unie sluiten van bijdrageovereenkomsten met het oog op het verstrekken van financiële middelen aan organisaties gevestigd buiten de Europese Unie, anders dan als betaling voor aan de vertegenwoordiging geleverde goederen of diensten;
 
-- –. het sluiten van memoranda of understanding en het sluiten van arrangements met internationale organisaties of overheidsorganen in andere landen met het oog op of verband houdend met de verstrekking van financiële middelen, gericht op de realisering van beleidsdoelstellingen op het gebied van buitenlandse handel en ontwikkelingssamenwerking of van buitenlandse zaken;
+- –. het sluiten van memoranda of understanding en het sluiten van arrangements met internationale organisaties of overheidsorganen in andere landen met het oog op of verband houdend met de verstrekking van financiële middelen, gericht op de realisering van beleidsdoelstellingen op het gebied van buitenlandse handel en ontwikkelingshulp of van buitenlandse zaken;
 
-- –. het verlenen van assistentie aan en het sluiten van convenanten of overeenkomsten met bedrijven en maatschappelijke organisaties, gericht op de realisering van beleidsdoelstellingen op het gebied van buitenlandse handel en ontwikkelingssamenwerking of van buitenlandse zaken;
+- –. het verlenen van assistentie aan en het sluiten van convenanten, het uitvoeren van aanbestedingsprocedures waaronder het sluiten van overeenkomsten en het verrichten van feitelijke handelingen die daarmee verband houden, gericht op de realisering van beleidsdoelstellingen op het gebied van buitenlandse handel en ontwikkelingshulp of van buitenlandse zaken;
 
-- –. de toepassing van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) voor zover samenhangend met de vorenbedoelde besluiten en (rechts)handelingen.
+- –. de toepassing van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) voor zover samenhangend met de vorenbedoelde besluiten en (rechts)handelingen.
 
-2. De op grond van het eerste lid verleende bevoegdheden strekken zich mede uit tot het nemen van besluiten op bezwaarschriften voor zover het besluit waartegen het bezwaar zich richt niet door de algemeen directeur van de Rijksdienst voor Ondernemend Nederland in mandaat is genomen, en tot het voeren van beroepsprocedures over de krachtens die bevoegdheden genomen besluiten.
+2. De op grond van het eerste lid verleende bevoegdheden strekken zich mede uit tot het nemen van besluiten op bezwaarschriften voor zover het besluit waartegen het bezwaar zich richt niet door de directeur-generaal Rijksdienst voor Ondernemend Nederland in mandaat is genomen, en tot het voeren van beroepsprocedures over de krachtens die bevoegdheden genomen besluiten.
 
 ##### Artikel 2
 
-De algemeen directeur van de Rijksdienst voor Ondernemend Nederland kan met betrekking tot zijn bevoegdheden, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041037&artikel=1&z=2018-06-19&g=2018-06-19), ondermandaat, volmacht en machtiging verlenen aan één of meer onder hem ressorterende functionarissen.
+De directeur-generaal Rijksdienst voor Ondernemend Nederland kan met betrekking tot zijn bevoegdheden, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041037&artikel=1&z=2024-12-14&g=2024-12-14), ondermandaat, volmacht en machtiging verlenen aan één of meer onder hem ressorterende functionarissen.
+
+De directeur-generaal Rijksdienst voor Ondernemend Nederland kan volmacht en machtiging verlenen aan functionarissen van het Inkoop Uitvoering Centrum EZ in geval deze functionarissen in het kader van overheidsopdrachten, assistentie verlenen aan en overeenkomsten sluiten met ondernemingen en maatschappelijke organisaties, gericht op de realisering van beleidsdoelstellingen op het gebied van buitenlandse handel en ontwikkelingshulp of van buitenlandse zaken.
 
 ##### Artikel 3
 
@@ -66,7 +68,7 @@ Het [Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerki
 
 ##### Artikel 4
 
-Ondermandaatbesluiten, volmachten en machtigingen die zijn vastgesteld op grond van het besluit, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041037&artikel=3&z=2018-06-19&g=2018-06-19), gelden als besluiten inzake mandaat, volmacht en machtiging op grond van dit besluit.
+Ondermandaatbesluiten, volmachten en machtigingen die zijn vastgesteld op grond van het besluit, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041037&artikel=3&z=2024-12-14&g=2024-12-14), gelden als besluiten inzake mandaat, volmacht en machtiging op grond van dit besluit.
 
 ##### Artikel 5
 
