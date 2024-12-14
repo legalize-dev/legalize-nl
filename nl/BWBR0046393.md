@@ -4,7 +4,7 @@ identifier: "BWBR0046393"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-01"
-last_updated: "2024-12-01"
+last_updated: "2024-12-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046393"
 soort: "ministeriele-regeling"
@@ -66,15 +66,15 @@ Van het ingevolge [artikel 1 van het Mandaatbesluit hoofden taakorganisaties Min
 
 ##### Artikel 2
 
-Als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk ten aanzien van de onder hen ressorterende functionarissen, wordt aangewezen en volmacht verleend aan de functionarissen, genoemd in de [kolommen A en B van bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046393&bijlage=1&z=2024-11-15&g=2024-12-01) bij dit besluit, voor zover het betreft de uitoefening van de bevoegdheden vermeld in kolom D van die bijlage.
+Als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk ten aanzien van de onder hen ressorterende functionarissen, wordt aangewezen en volmacht verleend aan de functionarissen, genoemd in de [kolommen A en B van bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046393&bijlage=1&z=2024-12-14&g=2024-12-14) bij dit besluit, voor zover het betreft de uitoefening van de bevoegdheden vermeld in kolom D van die bijlage.
 
 ##### Artikel 3
 
-Als bevoegd om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven, worden aangewezen de functionarissen, genoemd in [kolommen A en B van bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046393&bijlage=1&z=2024-11-15&g=2024-12-01) bij dit besluit voor zover het betreft de bedragen, genoemd in kolom E van die bijlage.
+Als bevoegd om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven, worden aangewezen de functionarissen, genoemd in [kolommen A en B van bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046393&bijlage=1&z=2024-12-14&g=2024-12-14) bij dit besluit voor zover het betreft de bedragen, genoemd in kolom E van die bijlage.
 
 ##### Artikel 4
 
-Als bevoegd om besluiten te nemen bij of krachtens de [Vreemdelingenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823), de [Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738), de [Wet vaststellingsprocedure staatloosheid](https://wetten.overheid.nl/jci1.3:c:BWBR0048458) en de [Wet toelating en uitzetting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571), alsmede daaraan gerelateerde besluiten op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754), de Algemene Verordening Gegevensbescherming en de [Uitvoeringswet Algemene Verordening Gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940), verzoeken om schadevergoeding, en de behandeling van klachten worden aangewezen de functionarissen genoemd in [kolommen A en B van bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046393&bijlage=1&z=2024-11-15&g=2024-12-01) bij dit besluit en de onder hen ressorterende functionarissen voor zover het betreft de rechtshandelingen, genoemd in de kolommen F, G en H van bijlage 1.
+Als bevoegd om besluiten te nemen bij of krachtens de [Vreemdelingenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823), de [Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738), de [Wet vaststellingsprocedure staatloosheid](https://wetten.overheid.nl/jci1.3:c:BWBR0048458) en de [Wet toelating en uitzetting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571), alsmede daaraan gerelateerde besluiten op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754), de Algemene Verordening Gegevensbescherming en de [Uitvoeringswet Algemene Verordening Gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940), verzoeken om schadevergoeding, en de behandeling van klachten worden aangewezen de functionarissen genoemd in [kolommen A en B van bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046393&bijlage=1&z=2024-12-14&g=2024-12-14) bij dit besluit en de onder hen ressorterende functionarissen voor zover het betreft de rechtshandelingen, genoemd in de kolommen F, G en H van bijlage 1.
 
 ##### Artikel 5
 
@@ -148,9 +148,9 @@ Als bevoegd om besluiten te nemen bij of krachtens de [Wet toelating en uitzetti
 
 3. Bij verhindering of afwezigheid van het hoofd Bestuurszaken treedt het plaatsvervangend hoofd Bestuurszaken in alle facetten als hoofd op.
 
-4. De in [artikel 1, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0046393&artikel=1&z=2024-11-15&g=2024-12-01) genoemde functionarissen wordt toegestaan elkaar volledig te vervangen. Zij treden daarbij in elkaars, in artikel 1 genoemde bevoegdheden.
+4. De in [artikel 1, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0046393&artikel=1&z=2024-12-14&g=2024-12-14) genoemde functionarissen wordt toegestaan elkaar volledig te vervangen. Zij treden daarbij in elkaars, in artikel 1 genoemde bevoegdheden.
 
-5. De in [artikel 1, onder c tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0046393&artikel=1&z=2024-11-15&g=2024-12-01) genoemde functionarissen wordt toegestaan elkaar volledig te vervangen. Zij treden daarbij in elkaars, in artikel 1 genoemde bevoegdheden.
+5. De in [artikel 1, onder c tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0046393&artikel=1&z=2024-12-14&g=2024-12-14) genoemde functionarissen wordt toegestaan elkaar volledig te vervangen. Zij treden daarbij in elkaars, in artikel 1 genoemde bevoegdheden.
 
 ##### Artikel 8
 
@@ -166,8 +166,9 @@ Dit besluit wordt aangehaald als: Mandaatbesluit IND Ministerie van Justitie en 
 
 ## Bijlage 1
 
-| Regel | OE omschrijving | Functie omschrijving | Manager of niet | P-volmacht | F-mandaat | Algemeen mandaat | Wet toelating en uitzetting BES | Procesvertegenwoordiging |
+|   | A | B | C | D | E | F | G | H |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Regel | OE omschrijving | Functie omschrijving | Manager of niet | P-volmacht | F-mandaat | Algemeen mandaat | Wet toelating en uitzetting BES | Procesvertegenwoordiging |
 | Regel 1 | IND | Directeur-generaal | Leidinggevende formatie | A | Geen maximum |   |   |   |
 | Regel 2 | IND | Topmanager schaal 17 – Plv DG IND Uitvoering | Leidinggevende formatie | A | Geen maximum |   |   |   |
 | Regel 3 | IND | Topmanager schaal 17 – Plv DG IND SBJZ | Leidinggevende formatie | A | Geen maximum |   |   |   |
@@ -398,153 +399,157 @@ Dit besluit wordt aangehaald als: Mandaatbesluit IND Ministerie van Justitie en 
 | Regel 228 | IND/DV/PZ/Toek01 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
 | Regel 229 | IND/DV/PZ/Toek02 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
 | Regel 230 | IND/DV/KE | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
-| Regel 231 | IND/DV/KE/TI1 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 232 | IND/DV/KE/TI2 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 233 | IND/DV/KE/LDRV | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 234 | IND/DV/KE/LDRV/DRV1 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 235 | IND/DV/KE/LDRV/DRV2 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 236 | IND/DV/KE/LDRV/DRV3 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 237 | IND/DV/KE/LDRV/DRV4 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 238 | IND/DV/KE/LDRV/DRV5 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 239 | IND/DV/KE/LDRV/DRV6 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 240 | IND/DV/KE/LDRV/DRV7 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 241 | IND/DV/KE/LDRV/DRV8 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 242 | IND/DV/KE/LDRV/DRV9 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 243 | IND/DV/KE/LDRV/DRV10 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 244 | IND/DV/KE/K&C2 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 245 | IND/DV/KE/K&C3 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 246 | IND/DV/KE/K&C4 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 247 | IND/DV/KE/LDRV/TOPO-T01 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 248 | IND/DV/I&S | Manager schaal 15 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
-| Regel 249 | IND/DV/EX | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
-| Regel 250 | IND/DV/EX/BMA | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 251 | IND/DV/EX/TOELT01 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 252 | IND/DV/EX/TOELT02 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 253 | IND/DV/EX/BDOC01 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 254 | IND/DV/EX/BDOC02 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 255 | IND/DV/EX/BDOC03 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 256 | IND/DV/EX/BDOC04 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 257 | IND/DV/HH | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
-| Regel 258 | IND/DV/HH/HGK | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 259 | IND/DV/HH/HILO | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 260 | IND/DV/HH/HIK | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 261 | IND/DV/HH/HTO | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 262 | IND/DV/HH/ZB | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 263 | IND/DV/HH/ZRM | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 264 | IND/DV/HH/TDT | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 265 | IND/DV/CO | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
-| Regel 266 | IND/DV/CO/CA | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 267 | IND/DV/CO/NR | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 268 | IND/JZ | Topmanager schaal 17 | Leidinggevende formatie | A | € 300.000,00 | x |   | x |
-| Regel 269 | IND/JZ/STAF | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   | x |
-| Regel 270 | IND/JZ/STAF/TS | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
-| Regel 271 | IND/JZ/STAF/VT | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 272 | IND/JZ/AFDA | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   | x |
-| Regel 273 | IND/JZ/AFDB | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   | x |
-| Regel 274 | IND/JZ/AFDC | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   | x |
-| Regel 275 | IND/JZ/ST | Manager schaal 15 | Leidinggevende formatie | A | € 100.000,00 | x |   | x |
-| Regel 276 | IND/JZ/ST/RV | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
-| Regel 277 | IND/JZ/ST/AOB | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
-| Regel 278 | IND/JZ/ST/NVS | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
-| Regel 279 | IND/JZ/ST/POBJ | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
-| Regel 280 | IND/JZ/AFDB/GT1DH | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
-| Regel 281 | IND/JZ/AFDB/GT2DH | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
-| Regel 282 | IND/JZ/AFDB/GT3DH | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
-| Regel 283 | IND/JZ/AFDB/GT4DH | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
-| Regel 284 | IND/JZ/AFDB/GT5DH | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
-| Regel 285 | IND/JZ/AFDB/GT16DH | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | X |   | x |
-| Regel 286 | IND/JZ/AFDB/DJO | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | X |   | x |
-| Regel 287 | IND/JZ/AFDC/GT6DB | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
-| Regel 288 | IND/JZ/AFDC/GT7DB | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
-| Regel 289 | IND/JZ/AFDC/GT8DB | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
-| Regel 290 | IND/JZ/AFDC/GT9DB | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
-| Regel 291 | IND/JZ/AFDC/GT10DB | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
-| Regel 292 | IND/JZ/AFDA/GT11ZW | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
-| Regel 293 | IND/JZ/AFDA/GT12ZW | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
-| Regel 294 | IND/JZ/AFDA/GT13ZW | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
-| Regel 295 | IND/JZ/AFDA/GT14ZW | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
-| Regel 296 | IND/JZ/AFDA/GT15ZW | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
-| Regel 297 | IND/JZ/AFDB/GT18DH | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
-| Regel 298 | IND/JZ/OT | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   | x |
-| Regel 299 | IND/JZ/OT/OT-T01 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
-| Regel 300 | IND/JZ/JZTF | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   | x |
-| Regel 301 | IND/JZ/JZTF/JZTF-T01 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
-| Regel 302 | IND/SUA | Topmanager schaal 17 | Leidinggevende formatie | A | € 300.000,00 | x |   |   |
-| Regel 303 | IND/SUA/NV | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
-| Regel 304 | IND/SUA/O&A | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
-| Regel 305 | IND/SUA/ARVN | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
-| Regel 306 | IND/SUA/AAEB | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
-| Regel 307 | IND/SUA/STA | Manager schaal 15 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
-| Regel 308 | IND/BV | Topmanager schaal 16 | Leidinggevende formatie | A | € 300.000,00 | x |   |   |
-| Regel 309 | IND/BV/STAF |   |   |   |   |   |   |   |
-| Regel 310 | IND/BV/STAF/TS | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 311 | IND/BV/HR | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
-| Regel 312 | IND/BV/HR/PTGV | Manager schaal 14 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 313 | IND/BV/HR/TBIOB | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 314 | IND/BV/HR/TBL&O | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 315 | IND/BV/HR/MIT | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 316 | IND/BV/HR/HRA | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 317 | IND/BV/HR/WSO | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 318 | IND/BV/HR/WSO-T2 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 319 | IND/BV/HR/AOM | Operationeel Manager schaal 10 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 320 | IND/BV/HR/IAC | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 321 | IND/BV/HR/IAC-T2 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 322 | IND/BV/VWNW/T1 | Senior Adviseur Bedrijfsvoering schaal11 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 323 | IND/BV/FBI | Manager schaal 15 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
-| Regel 324 | IND/BV/FBI/CONTROL | Manager schaal 14 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 325 | IND/BV/FBI/CONCERN | Manager schaal 14 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 326 | IND/BV/FBI/BIC | Manager schaal 14 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 327 | IND/BV/FBI/TeamVIC | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 328 | IND/BV/FBI/ISD | Manager schaal 14 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 329 | IND/BV/FAC | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
-| Regel 330 | IND/BV/FAC/FK&R | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 331 | IND/BV/FAC/IUCVK | Manager schaal 13 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
-| Regel 332 | IND/BV/FAC/VHWHA | Operationeel Manager schaal 10 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 333 | IND/BV/FAC/VHWHO | Operationeel Manager schaal 10 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 334 | IND/BV/FAC/NTA | Operationeel Manager schaal 11 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 335 | IND/BV/FAC/NZW | Operationeel Manager schaal 10 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 336 | IND/BV/FAC/ZDB | Operationeel Manager schaal 11 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 337 | IND/BV/FAC/ZZE | Operationeel Manager schaal 10 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 338 | IND/BV/FAC/HV | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 339 | IND/BV/EC | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
-| Regel 340 | IND/BV/EC/Lean-T1 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 341 | IND/BV/IA | Manager schaal 14 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 342 | IND/HD/BZ | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 343 | IND/HD/BZ | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
-| Regel 344 | IND/IV | Topmanager schaal 17 | Leidinggevende formatie | A | € 300.000,00 | x |   |   |
-| Regel 345 | IND/IV/S&R | Manager schaal 15 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
-| Regel 346 | IND/IV/S&R/TSR | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 347 | IND/IV/S&R/STAF | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 348 | IND/IV/PH | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
-| Regel 349 | IND/IV/PH/ACC | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 350 | IND/IV/PH/BA01 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 351 | IND/IV/PH/BA02 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 352 | IND/IV/PH/TST | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 353 | IND/IV/PH/ARCH | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 354 | IND/IV/PH/PL01 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 355 | IND/IV/PH/PL02 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 356 | IND/IV/PH/AO01 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 357 | IND/IV/PH/AO02 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 358 | IND/IV/PH/AO03 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 359 | IND/IV/PH/A&K | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 360 | IND/IV/CTB | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
-| Regel 361 | IND/IV/CTB/TB | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 362 | IND/IV/CTB/S&C | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 363 | IND/IV/CTB/S&I01 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 364 | IND/IV/CTB/S&I02 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 365 | IND/IV/CTB/S&I03 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 366 | IND/IV/CTB/SM | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 367 | IND/IV/CTB/INF | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 368 | IND/IV/DD | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
-| Regel 369 | IND/IV/DD/DEC | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 370 | IND/IV/DD/DD | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 231 | IND/DV/KE/LDRV | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 232 | IND/DV/KE/LDRV/DRV1 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 233 | IND/DV/KE/LDRV/DRV2 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 234 | IND/DV/KE/LDRV/DRV3 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 235 | IND/DV/KE/LDRV/DRV4 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 236 | IND/DV/KE/LDRV/DRV6 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 237 | IND/DV/KE/LDRV/DRV7 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 238 | IND/DV/KE/LDRV/TOPO-T01 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 239 | IND/DV/KE/LK&C | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 240 | IND/DV/KE/LK&C/TK&C02 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 241 | IND/DV/KE/LK&C/TK&C03 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 242 | IND/DV/KE/LK&C/TK&C04 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 243 | IND/DV/KE/LK&C/TDRV05 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 244 | IND/DV/KE/LK&C/TDRV08 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 245 | IND/DV/KE/LK&C/TDRV09 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 246 | IND/DV/KE/LK&C/TDRV10 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 247 | IND/DV/KE/LK&C/TFLEX01 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 248 | IND/DV/KE/LT&I | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 249 | IND/DV/KE/LT&I/TT&I01 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 250 | IND/DV/KE/LT&I/TT&I02 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 251 | IND/DV/I&S | Manager schaal 15 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
+| Regel 252 | IND/DV/EX | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
+| Regel 253 | IND/DV/EX/BMA | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 254 | IND/DV/EX/TOELT01 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 255 | IND/DV/EX/TOELT02 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 256 | IND/DV/EX/BDOC01 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 257 | IND/DV/EX/BDOC02 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 258 | IND/DV/EX/BDOC03 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 259 | IND/DV/EX/BDOC04 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 260 | IND/DV/HH | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
+| Regel 261 | IND/DV/HH/HGK | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 262 | IND/DV/HH/HILO | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 263 | IND/DV/HH/HIK | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 264 | IND/DV/HH/HTO | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 265 | IND/DV/HH/ZB | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 266 | IND/DV/HH/ZRM | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 267 | IND/DV/HH/TDT | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 268 | IND/DV/CO | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
+| Regel 269 | IND/DV/CO/CA | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 270 | IND/DV/CO/NR | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 271 | IND/JZ | Topmanager schaal 17 | Leidinggevende formatie | A | € 300.000,00 | x |   | x |
+| Regel 272 | IND/JZ/STAF | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   | x |
+| Regel 273 | IND/JZ/STAF/TS | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
+| Regel 274 | IND/JZ/STAF/VT | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 275 | IND/JZ/AFDA | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   | x |
+| Regel 276 | IND/JZ/AFDB | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   | x |
+| Regel 277 | IND/JZ/AFDC | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   | x |
+| Regel 278 | IND/JZ/ST | Manager schaal 15 | Leidinggevende formatie | A | € 100.000,00 | x |   | x |
+| Regel 279 | IND/JZ/ST/RV | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
+| Regel 280 | IND/JZ/ST/AOB | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
+| Regel 281 | IND/JZ/ST/NVS | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
+| Regel 282 | IND/JZ/ST/POBJ | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
+| Regel 283 | IND/JZ/AFDB/GT1DH | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
+| Regel 284 | IND/JZ/AFDB/GT2DH | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
+| Regel 285 | IND/JZ/AFDB/GT3DH | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
+| Regel 286 | IND/JZ/AFDB/GT4DH | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
+| Regel 287 | IND/JZ/AFDB/GT5DH | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
+| Regel 288 | IND/JZ/AFDB/GT16DH | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | X |   | x |
+| Regel 289 | IND/JZ/AFDB/DJO | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | X |   | x |
+| Regel 290 | IND/JZ/AFDC/GT6DB | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
+| Regel 291 | IND/JZ/AFDC/GT7DB | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
+| Regel 292 | IND/JZ/AFDC/GT8DB | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
+| Regel 293 | IND/JZ/AFDC/GT9DB | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
+| Regel 294 | IND/JZ/AFDC/GT10DB | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
+| Regel 295 | IND/JZ/AFDA/GT11ZW | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
+| Regel 296 | IND/JZ/AFDA/GT12ZW | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
+| Regel 297 | IND/JZ/AFDA/GT13ZW | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
+| Regel 298 | IND/JZ/AFDA/GT14ZW | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
+| Regel 299 | IND/JZ/AFDA/GT15ZW | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
+| Regel 300 | IND/JZ/AFDB/GT18DH | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
+| Regel 301 | IND/JZ/OT | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   | x |
+| Regel 302 | IND/JZ/OT/OT-T01 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
+| Regel 303 | IND/JZ/JZTF | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   | x |
+| Regel 304 | IND/JZ/JZTF/JZTF-T01 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
+| Regel 305 | IND/SUA | Topmanager schaal 17 | Leidinggevende formatie | A | € 300.000,00 | x |   |   |
+| Regel 306 | IND/SUA/NV | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
+| Regel 307 | IND/SUA/O&A | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
+| Regel 308 | IND/SUA/ARVN | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
+| Regel 309 | IND/SUA/AAEB | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
+| Regel 310 | IND/SUA/STA | Manager schaal 15 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
+| Regel 311 | IND/BV | Topmanager schaal 16 | Leidinggevende formatie | A | € 300.000,00 | x |   |   |
+| Regel 312 | IND/BV/STAF |   |   |   |   |   |   |   |
+| Regel 313 | IND/BV/STAF/TS | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 314 | IND/BV/HR | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
+| Regel 315 | IND/BV/HR/PTGV | Manager schaal 14 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 316 | IND/BV/HR/TBIOB | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 317 | IND/BV/HR/TBL&O | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 318 | IND/BV/HR/MIT | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 319 | IND/BV/HR/HRA | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 320 | IND/BV/HR/WSO | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 321 | IND/BV/HR/WSO-T2 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 322 | IND/BV/HR/AOM | Operationeel Manager schaal 10 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 323 | IND/BV/HR/IAC | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 324 | IND/BV/HR/IAC-T2 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 325 | IND/BV/VWNW/T1 | Senior Adviseur Bedrijfsvoering schaal11 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 326 | IND/BV/FBI | Manager schaal 15 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
+| Regel 327 | IND/BV/FBI/CONTROL | Manager schaal 14 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 328 | IND/BV/FBI/CONCERN | Manager schaal 14 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 329 | IND/BV/FBI/BIC | Manager schaal 14 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 330 | IND/BV/FBI/TeamVIC | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 331 | IND/BV/FBI/ISD | Manager schaal 14 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 332 | IND/BV/FAC | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
+| Regel 333 | IND/BV/FAC/FK&R | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 334 | IND/BV/FAC/IUCVK | Manager schaal 13 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
+| Regel 335 | IND/BV/FAC/VHWHA | Operationeel Manager schaal 10 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 336 | IND/BV/FAC/VHWHO | Operationeel Manager schaal 10 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 337 | IND/BV/FAC/NTA | Operationeel Manager schaal 11 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 338 | IND/BV/FAC/NZW | Operationeel Manager schaal 10 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 339 | IND/BV/FAC/ZDB | Operationeel Manager schaal 11 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 340 | IND/BV/FAC/ZZE | Operationeel Manager schaal 10 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 341 | IND/BV/FAC/HV | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 342 | IND/BV/EC | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
+| Regel 343 | IND/BV/EC/Lean-T1 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 344 | IND/BV/IA | Manager schaal 14 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 345 | IND/HD/BZ | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 346 | IND/HD/BZ | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
+| Regel 347 | IND/IV | Topmanager schaal 17 | Leidinggevende formatie | A | € 300.000,00 | x |   |   |
+| Regel 348 | IND/IV/S&R | Manager schaal 15 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
+| Regel 349 | IND/IV/S&R/TSR | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 350 | IND/IV/S&R/STAF | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 351 | IND/IV/PH | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
+| Regel 352 | IND/IV/PH/ACC | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 353 | IND/IV/PH/BA01 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 354 | IND/IV/PH/BA02 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 355 | IND/IV/PH/TST | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 356 | IND/IV/PH/ARCH | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 357 | IND/IV/PH/PL01 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 358 | IND/IV/PH/PL02 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 359 | IND/IV/PH/AO01 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 360 | IND/IV/PH/AO02 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 361 | IND/IV/PH/AO03 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 362 | IND/IV/PH/A&K | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 363 | IND/IV/CTB | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
+| Regel 364 | IND/IV/CTB/TB | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 365 | IND/IV/CTB/S&C | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 366 | IND/IV/CTB/S&I01 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 367 | IND/IV/CTB/S&I02 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 368 | IND/IV/CTB/S&I03 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 369 | IND/IV/CTB/SM | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 370 | IND/IV/CTB/INF | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 371 | IND/IV/DD | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
+| Regel 372 | IND/IV/DD/DEC | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 373 | IND/IV/DD/DD | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 ## Bijlage 1
 
-| Regel | OE omschrijving | Functie omschrijving | Manager of niet | P-volmacht | F-mandaat | Algemeen mandaat | Wet toelating en uitzetting BES | Procesvertegenwoordiging |
+|   | A | B | C | D | E | F | G | H |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Regel | OE omschrijving | Functie omschrijving | Manager of niet | P-volmacht | F-mandaat | Algemeen mandaat | Wet toelating en uitzetting BES | Procesvertegenwoordiging |
 | Regel 1 | IND | Directeur-generaal | Leidinggevende formatie | A | Geen maximum |   |   |   |
 | Regel 2 | IND | Topmanager schaal 17 – Plv DG IND Uitvoering | Leidinggevende formatie | A | Geen maximum |   |   |   |
 | Regel 3 | IND | Topmanager schaal 17 – Plv DG IND SBJZ | Leidinggevende formatie | A | Geen maximum |   |   |   |
@@ -775,145 +780,148 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 | Regel 228 | IND/DV/PZ/Toek01 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
 | Regel 229 | IND/DV/PZ/Toek02 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
 | Regel 230 | IND/DV/KE | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
-| Regel 231 | IND/DV/KE/TI1 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 232 | IND/DV/KE/TI2 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 233 | IND/DV/KE/LDRV | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 234 | IND/DV/KE/LDRV/DRV1 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 235 | IND/DV/KE/LDRV/DRV2 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 236 | IND/DV/KE/LDRV/DRV3 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 237 | IND/DV/KE/LDRV/DRV4 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 238 | IND/DV/KE/LDRV/DRV5 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 239 | IND/DV/KE/LDRV/DRV6 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 240 | IND/DV/KE/LDRV/DRV7 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 241 | IND/DV/KE/LDRV/DRV8 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 242 | IND/DV/KE/LDRV/DRV9 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 243 | IND/DV/KE/LDRV/DRV10 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 244 | IND/DV/KE/K&C2 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 245 | IND/DV/KE/K&C3 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 246 | IND/DV/KE/K&C4 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 247 | IND/DV/KE/LDRV/TOPO-T01 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 248 | IND/DV/I&S | Manager schaal 15 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
-| Regel 249 | IND/DV/EX | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
-| Regel 250 | IND/DV/EX/BMA | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 251 | IND/DV/EX/TOELT01 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 252 | IND/DV/EX/TOELT02 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 253 | IND/DV/EX/BDOC01 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 254 | IND/DV/EX/BDOC02 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 255 | IND/DV/EX/BDOC03 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 256 | IND/DV/EX/BDOC04 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 257 | IND/DV/HH | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
-| Regel 258 | IND/DV/HH/HGK | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 259 | IND/DV/HH/HILO | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 260 | IND/DV/HH/HIK | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 261 | IND/DV/HH/HTO | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 262 | IND/DV/HH/ZB | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 263 | IND/DV/HH/ZRM | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 264 | IND/DV/HH/TDT | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 265 | IND/DV/CO | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
-| Regel 266 | IND/DV/CO/CA | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 267 | IND/DV/CO/NR | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 268 | IND/JZ | Topmanager schaal 17 | Leidinggevende formatie | A | € 300.000,00 | x |   | x |
-| Regel 269 | IND/JZ/STAF | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   | x |
-| Regel 270 | IND/JZ/STAF/TS | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
-| Regel 271 | IND/JZ/STAF/VT | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 272 | IND/JZ/AFDA | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   | x |
-| Regel 273 | IND/JZ/AFDB | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   | x |
-| Regel 274 | IND/JZ/AFDC | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   | x |
-| Regel 275 | IND/JZ/ST | Manager schaal 15 | Leidinggevende formatie | A | € 100.000,00 | x |   | x |
-| Regel 276 | IND/JZ/ST/RV | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
-| Regel 277 | IND/JZ/ST/AOB | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
-| Regel 278 | IND/JZ/ST/NVS | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
-| Regel 279 | IND/JZ/ST/POBJ | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
-| Regel 280 | IND/JZ/AFDB/GT1DH | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
-| Regel 281 | IND/JZ/AFDB/GT2DH | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
-| Regel 282 | IND/JZ/AFDB/GT3DH | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
-| Regel 283 | IND/JZ/AFDB/GT4DH | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
-| Regel 284 | IND/JZ/AFDB/GT5DH | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
-| Regel 285 | IND/JZ/AFDB/GT16DH | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | X |   | x |
-| Regel 286 | IND/JZ/AFDB/DJO | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | X |   | x |
-| Regel 287 | IND/JZ/AFDC/GT6DB | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
-| Regel 288 | IND/JZ/AFDC/GT7DB | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
-| Regel 289 | IND/JZ/AFDC/GT8DB | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
-| Regel 290 | IND/JZ/AFDC/GT9DB | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
-| Regel 291 | IND/JZ/AFDC/GT10DB | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
-| Regel 292 | IND/JZ/AFDA/GT11ZW | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
-| Regel 293 | IND/JZ/AFDA/GT12ZW | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
-| Regel 294 | IND/JZ/AFDA/GT13ZW | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
-| Regel 295 | IND/JZ/AFDA/GT14ZW | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
-| Regel 296 | IND/JZ/AFDA/GT15ZW | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
-| Regel 297 | IND/JZ/AFDB/GT18DH | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
-| Regel 298 | IND/JZ/OT | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   | x |
-| Regel 299 | IND/JZ/OT/OT-T01 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
-| Regel 300 | IND/JZ/JZTF | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   | x |
-| Regel 301 | IND/JZ/JZTF/JZTF-T01 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
-| Regel 302 | IND/SUA | Topmanager schaal 17 | Leidinggevende formatie | A | € 300.000,00 | x |   |   |
-| Regel 303 | IND/SUA/NV | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
-| Regel 304 | IND/SUA/O&A | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
-| Regel 305 | IND/SUA/ARVN | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
-| Regel 306 | IND/SUA/AAEB | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
-| Regel 307 | IND/SUA/STA | Manager schaal 15 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
-| Regel 308 | IND/BV | Topmanager schaal 16 | Leidinggevende formatie | A | € 300.000,00 | x |   |   |
-| Regel 309 | IND/BV/STAF |   |   |   |   |   |   |   |
-| Regel 310 | IND/BV/STAF/TS | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 311 | IND/BV/HR | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
-| Regel 312 | IND/BV/HR/PTGV | Manager schaal 14 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 313 | IND/BV/HR/TBIOB | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 314 | IND/BV/HR/TBL&O | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 315 | IND/BV/HR/MIT | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 316 | IND/BV/HR/HRA | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 317 | IND/BV/HR/WSO | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 318 | IND/BV/HR/WSO-T2 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 319 | IND/BV/HR/AOM | Operationeel Manager schaal 10 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 320 | IND/BV/HR/IAC | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 321 | IND/BV/HR/IAC-T2 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 322 | IND/BV/VWNW/T1 | Senior Adviseur Bedrijfsvoering schaal11 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 323 | IND/BV/FBI | Manager schaal 15 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
-| Regel 324 | IND/BV/FBI/CONTROL | Manager schaal 14 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 325 | IND/BV/FBI/CONCERN | Manager schaal 14 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 326 | IND/BV/FBI/BIC | Manager schaal 14 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 327 | IND/BV/FBI/TeamVIC | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 328 | IND/BV/FBI/ISD | Manager schaal 14 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 329 | IND/BV/FAC | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
-| Regel 330 | IND/BV/FAC/FK&R | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 331 | IND/BV/FAC/IUCVK | Manager schaal 13 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
-| Regel 332 | IND/BV/FAC/VHWHA | Operationeel Manager schaal 10 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 333 | IND/BV/FAC/VHWHO | Operationeel Manager schaal 10 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 334 | IND/BV/FAC/NTA | Operationeel Manager schaal 11 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 335 | IND/BV/FAC/NZW | Operationeel Manager schaal 10 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 336 | IND/BV/FAC/ZDB | Operationeel Manager schaal 11 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 337 | IND/BV/FAC/ZZE | Operationeel Manager schaal 10 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 338 | IND/BV/FAC/HV | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 339 | IND/BV/EC | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
-| Regel 340 | IND/BV/EC/Lean-T1 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 341 | IND/BV/IA | Manager schaal 14 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 342 | IND/HD/BZ | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 343 | IND/HD/BZ | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
-| Regel 344 | IND/IV | Topmanager schaal 17 | Leidinggevende formatie | A | € 300.000,00 | x |   |   |
-| Regel 345 | IND/IV/S&R | Manager schaal 15 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
-| Regel 346 | IND/IV/S&R/TSR | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 347 | IND/IV/S&R/STAF | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 348 | IND/IV/PH | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
-| Regel 349 | IND/IV/PH/ACC | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 350 | IND/IV/PH/BA01 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 351 | IND/IV/PH/BA02 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 352 | IND/IV/PH/TST | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 353 | IND/IV/PH/ARCH | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 354 | IND/IV/PH/PL01 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 355 | IND/IV/PH/PL02 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 356 | IND/IV/PH/AO01 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 357 | IND/IV/PH/AO02 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 358 | IND/IV/PH/AO03 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 359 | IND/IV/PH/A&K | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 360 | IND/IV/CTB | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
-| Regel 361 | IND/IV/CTB/TB | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 362 | IND/IV/CTB/S&C | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 363 | IND/IV/CTB/S&I01 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 364 | IND/IV/CTB/S&I02 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 365 | IND/IV/CTB/S&I03 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 366 | IND/IV/CTB/SM | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 367 | IND/IV/CTB/INF | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 368 | IND/IV/DD | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
-| Regel 369 | IND/IV/DD/DEC | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
-| Regel 370 | IND/IV/DD/DD | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 231 | IND/DV/KE/LDRV | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 232 | IND/DV/KE/LDRV/DRV1 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 233 | IND/DV/KE/LDRV/DRV2 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 234 | IND/DV/KE/LDRV/DRV3 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 235 | IND/DV/KE/LDRV/DRV4 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 236 | IND/DV/KE/LDRV/DRV6 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 237 | IND/DV/KE/LDRV/DRV7 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 238 | IND/DV/KE/LDRV/TOPO-T01 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 239 | IND/DV/KE/LK&C | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 240 | IND/DV/KE/LK&C/TK&C02 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 241 | IND/DV/KE/LK&C/TK&C03 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 242 | IND/DV/KE/LK&C/TK&C04 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 243 | IND/DV/KE/LK&C/TDRV05 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 244 | IND/DV/KE/LK&C/TDRV08 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 245 | IND/DV/KE/LK&C/TDRV09 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 246 | IND/DV/KE/LK&C/TDRV10 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 247 | IND/DV/KE/LK&C/TFLEX01 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 248 | IND/DV/KE/LT&I | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 249 | IND/DV/KE/LT&I/TT&I01 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 250 | IND/DV/KE/LT&I/TT&I02 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 251 | IND/DV/I&S | Manager schaal 15 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
+| Regel 252 | IND/DV/EX | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
+| Regel 253 | IND/DV/EX/BMA | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 254 | IND/DV/EX/TOELT01 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 255 | IND/DV/EX/TOELT02 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 256 | IND/DV/EX/BDOC01 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 257 | IND/DV/EX/BDOC02 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 258 | IND/DV/EX/BDOC03 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 259 | IND/DV/EX/BDOC04 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 260 | IND/DV/HH | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
+| Regel 261 | IND/DV/HH/HGK | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 262 | IND/DV/HH/HILO | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 263 | IND/DV/HH/HIK | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 264 | IND/DV/HH/HTO | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 265 | IND/DV/HH/ZB | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 266 | IND/DV/HH/ZRM | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 267 | IND/DV/HH/TDT | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 268 | IND/DV/CO | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
+| Regel 269 | IND/DV/CO/CA | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 270 | IND/DV/CO/NR | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 271 | IND/JZ | Topmanager schaal 17 | Leidinggevende formatie | A | € 300.000,00 | x |   | x |
+| Regel 272 | IND/JZ/STAF | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   | x |
+| Regel 273 | IND/JZ/STAF/TS | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
+| Regel 274 | IND/JZ/STAF/VT | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 275 | IND/JZ/AFDA | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   | x |
+| Regel 276 | IND/JZ/AFDB | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   | x |
+| Regel 277 | IND/JZ/AFDC | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   | x |
+| Regel 278 | IND/JZ/ST | Manager schaal 15 | Leidinggevende formatie | A | € 100.000,00 | x |   | x |
+| Regel 279 | IND/JZ/ST/RV | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
+| Regel 280 | IND/JZ/ST/AOB | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
+| Regel 281 | IND/JZ/ST/NVS | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
+| Regel 282 | IND/JZ/ST/POBJ | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
+| Regel 283 | IND/JZ/AFDB/GT1DH | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
+| Regel 284 | IND/JZ/AFDB/GT2DH | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
+| Regel 285 | IND/JZ/AFDB/GT3DH | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
+| Regel 286 | IND/JZ/AFDB/GT4DH | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
+| Regel 287 | IND/JZ/AFDB/GT5DH | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
+| Regel 288 | IND/JZ/AFDB/GT16DH | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | X |   | x |
+| Regel 289 | IND/JZ/AFDB/DJO | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | X |   | x |
+| Regel 290 | IND/JZ/AFDC/GT6DB | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
+| Regel 291 | IND/JZ/AFDC/GT7DB | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
+| Regel 292 | IND/JZ/AFDC/GT8DB | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
+| Regel 293 | IND/JZ/AFDC/GT9DB | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
+| Regel 294 | IND/JZ/AFDC/GT10DB | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
+| Regel 295 | IND/JZ/AFDA/GT11ZW | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
+| Regel 296 | IND/JZ/AFDA/GT12ZW | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
+| Regel 297 | IND/JZ/AFDA/GT13ZW | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
+| Regel 298 | IND/JZ/AFDA/GT14ZW | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
+| Regel 299 | IND/JZ/AFDA/GT15ZW | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
+| Regel 300 | IND/JZ/AFDB/GT18DH | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
+| Regel 301 | IND/JZ/OT | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   | x |
+| Regel 302 | IND/JZ/OT/OT-T01 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
+| Regel 303 | IND/JZ/JZTF | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   | x |
+| Regel 304 | IND/JZ/JZTF/JZTF-T01 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   | x |
+| Regel 305 | IND/SUA | Topmanager schaal 17 | Leidinggevende formatie | A | € 300.000,00 | x |   |   |
+| Regel 306 | IND/SUA/NV | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
+| Regel 307 | IND/SUA/O&A | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
+| Regel 308 | IND/SUA/ARVN | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
+| Regel 309 | IND/SUA/AAEB | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
+| Regel 310 | IND/SUA/STA | Manager schaal 15 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
+| Regel 311 | IND/BV | Topmanager schaal 16 | Leidinggevende formatie | A | € 300.000,00 | x |   |   |
+| Regel 312 | IND/BV/STAF |   |   |   |   |   |   |   |
+| Regel 313 | IND/BV/STAF/TS | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 314 | IND/BV/HR | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
+| Regel 315 | IND/BV/HR/PTGV | Manager schaal 14 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 316 | IND/BV/HR/TBIOB | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 317 | IND/BV/HR/TBL&O | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 318 | IND/BV/HR/MIT | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 319 | IND/BV/HR/HRA | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 320 | IND/BV/HR/WSO | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 321 | IND/BV/HR/WSO-T2 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 322 | IND/BV/HR/AOM | Operationeel Manager schaal 10 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 323 | IND/BV/HR/IAC | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 324 | IND/BV/HR/IAC-T2 | Manager schaal 12 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 325 | IND/BV/VWNW/T1 | Senior Adviseur Bedrijfsvoering schaal11 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 326 | IND/BV/FBI | Manager schaal 15 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
+| Regel 327 | IND/BV/FBI/CONTROL | Manager schaal 14 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 328 | IND/BV/FBI/CONCERN | Manager schaal 14 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 329 | IND/BV/FBI/BIC | Manager schaal 14 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 330 | IND/BV/FBI/TeamVIC | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 331 | IND/BV/FBI/ISD | Manager schaal 14 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 332 | IND/BV/FAC | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
+| Regel 333 | IND/BV/FAC/FK&R | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 334 | IND/BV/FAC/IUCVK | Manager schaal 13 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
+| Regel 335 | IND/BV/FAC/VHWHA | Operationeel Manager schaal 10 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 336 | IND/BV/FAC/VHWHO | Operationeel Manager schaal 10 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 337 | IND/BV/FAC/NTA | Operationeel Manager schaal 11 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 338 | IND/BV/FAC/NZW | Operationeel Manager schaal 10 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 339 | IND/BV/FAC/ZDB | Operationeel Manager schaal 11 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 340 | IND/BV/FAC/ZZE | Operationeel Manager schaal 10 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 341 | IND/BV/FAC/HV | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 342 | IND/BV/EC | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
+| Regel 343 | IND/BV/EC/Lean-T1 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 344 | IND/BV/IA | Manager schaal 14 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 345 | IND/HD/BZ | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 346 | IND/HD/BZ | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
+| Regel 347 | IND/IV | Topmanager schaal 17 | Leidinggevende formatie | A | € 300.000,00 | x |   |   |
+| Regel 348 | IND/IV/S&R | Manager schaal 15 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
+| Regel 349 | IND/IV/S&R/TSR | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 350 | IND/IV/S&R/STAF | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 351 | IND/IV/PH | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
+| Regel 352 | IND/IV/PH/ACC | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 353 | IND/IV/PH/BA01 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 354 | IND/IV/PH/BA02 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 355 | IND/IV/PH/TST | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 356 | IND/IV/PH/ARCH | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 357 | IND/IV/PH/PL01 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 358 | IND/IV/PH/PL02 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 359 | IND/IV/PH/AO01 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 360 | IND/IV/PH/AO02 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 361 | IND/IV/PH/AO03 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 362 | IND/IV/PH/A&K | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 363 | IND/IV/CTB | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
+| Regel 364 | IND/IV/CTB/TB | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 365 | IND/IV/CTB/S&C | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 366 | IND/IV/CTB/S&I01 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 367 | IND/IV/CTB/S&I02 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 368 | IND/IV/CTB/S&I03 | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 369 | IND/IV/CTB/SM | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 370 | IND/IV/CTB/INF | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 371 | IND/IV/DD | Manager schaal 14 | Leidinggevende formatie | A | € 100.000,00 | x |   |   |
+| Regel 372 | IND/IV/DD/DEC | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
+| Regel 373 | IND/IV/DD/DD | Manager schaal 13 | Leidinggevende formatie | B | € 50.000,00 | x |   |   |
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
