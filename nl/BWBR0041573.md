@@ -4,7 +4,7 @@ identifier: "BWBR0041573"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-18"
-last_updated: "2024-01-01"
+last_updated: "2024-12-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041573"
 soort: "ministeriele-regeling"
@@ -76,7 +76,7 @@ Indien op grond van deze regeling of het [besluit](https://wetten.overheid.nl/jc
 
 ##### Artikel 3.2. Verhuiskosten burgemeester en wethouders
 
-1. De vergoeding van verhuiskosten, bedoeld in de [artikelen 3.2.7, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.2.7) en de vergoeding van de kosten voor verhuizing in verband met ontslag of niet-herbenoeming, bedoeld in artikel 3.2.7, vierde lid, van het besluit betreft:
+1. De vergoeding van verhuiskosten, bedoeld in [artikel 3.2.7, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.2.7), en de vergoeding van de kosten voor verhuizing in verband met ontslag of niet-herbenoeming, bedoeld in artikel 3.2.7, vierde lid, van het besluit betreft:
 
 - a. de vergoeding van de werkelijke kosten voor het transport van de inboedel van de betrokkene en zijn gezinsleden naar de nieuwe woning, waaronder begrepen de kosten van het in- en uitpakken van die inboedel, en
 
@@ -86,11 +86,11 @@ Indien op grond van deze regeling of het [besluit](https://wetten.overheid.nl/jc
 
 ##### Artikel 3.3. Vergoeding kosten tijdelijke huisvesting burgemeester en wethouders
 
-1. De vergoeding voor tijdelijke huisvesting, bedoeld in de [artikelen 3.2.7, tweede lid, onder a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.2.7), bedraagt per maand het bedrag van de gemaakte kosten voor tijdelijke huisvesting, doch ten hoogste 18% van de bezoldiging van de burgemeester of de wethouder bedoeld in [artikel 3.2.1, eerste onderscheidenlijk derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.2.1).
+1. De vergoeding voor tijdelijke huisvesting, bedoeld in [artikel 3.2.7, tweede lid, onder a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.2.7), bedraagt per maand het bedrag van de gemaakte kosten voor tijdelijke huisvesting, doch ten hoogste 18% van de bezoldiging van de burgemeester of de wethouder bedoeld in [artikel 3.2.1, eerste onderscheidenlijk derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.2.1).
 
 2. In de gemaakte kosten, bedoeld in het eerste lid, zijn begrepen de kosten voor energie en water, maar niet de kosten voor overige diensten of zaken.
 
-3. De reiskosten voor één bezoek per week aan de woning waar de burgemeester of de wethouder ten tijde van de benoeming woonde, bedoeld in [artikel 3.2.7, tweede lid, onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.2.7) worden met overeenkomstige toepassing van [artikel 3.6, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=3&artikel=3.6&z=2024-01-01&g=2024-01-01), vergoed.
+3. De reiskosten voor één bezoek per week aan de woning waar de burgemeester of de wethouder ten tijde van de benoeming woonde, bedoeld in [artikel 3.2.7, tweede lid, onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.2.7) worden met overeenkomstige toepassing van [artikel 3.6, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=3&artikel=3.6&z=2024-12-14&g=2024-12-14), vergoed.
 
 ##### Artikel 3.4. Tegemoetkoming kosten dubbele woonlasten burgemeester en wethouders
 
@@ -112,7 +112,7 @@ Indien op grond van deze regeling of het [besluit](https://wetten.overheid.nl/jc
 
 - b. de woning waar betrokkene ten tijde van zijn benoeming woonde, voor een ieder kenbaar te koop staat en er, nadat eventuele huurinkomsten uit die woning in mindering zijn gebracht op de rente over de schulden ter verwerving van die woning, een bedrag resteert dat voor zijn rekening komt.
 
-5. Indien de burgemeester of de wethouder een tegemoetkoming in de kosten voor dubbele woonlasten ontvangt, worden met overeenkomstige toepassing van [artikel 3.6, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=3&artikel=3.6&z=2024-01-01&g=2024-01-01), de reiskosten voor één bezoek per week aan de woning waarin hij ten tijde van zijn benoeming woonde vergoed.
+5. Indien de burgemeester of de wethouder een tegemoetkoming in de kosten voor dubbele woonlasten ontvangt, worden met overeenkomstige toepassing van [artikel 3.6, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=3&artikel=3.6&z=2024-12-14&g=2024-12-14), de reiskosten voor één bezoek per week aan de woning waarin hij ten tijde van zijn benoeming woonde vergoed.
 
 ##### Artikel 3.5. Ter beschikking gestelde woning burgemeester en wethouders
 
@@ -146,7 +146,7 @@ Indien op grond van deze regeling of het [besluit](https://wetten.overheid.nl/jc
 
 ##### Artikel 3.7. Bijzondere bepalingen reiskostenvergoeding burgemeester
 
-1. Indien de burgemeester voor de uitoefening van zijn functie voor vervoer met een bestemming binnen de gemeente, anders dan voor woon-werkverkeer, regelmatig gebruik maakt van de eigen personenauto, kan hem voor dat vervoer op zijn verzoek in plaats van de vergoeding, bedoeld in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=3&artikel=3.6&z=2024-01-01&g=2024-01-01), een vaste vergoeding worden toegekend.
+1. Indien de burgemeester voor de uitoefening van zijn functie voor vervoer met een bestemming binnen de gemeente, anders dan voor woon-werkverkeer, regelmatig gebruik maakt van de eigen personenauto, kan hem voor dat vervoer op zijn verzoek in plaats van de vergoeding, bedoeld in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=3&artikel=3.6&z=2024-12-14&g=2024-12-14), een vaste vergoeding worden toegekend.
 
 2. De vaste vergoeding, bedoeld in het eerste lid, bedraagt per maand:
 
@@ -204,7 +204,7 @@ Indien op grond van deze regeling of het [besluit](https://wetten.overheid.nl/jc
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2019.
 
-2. In afwijking van het eerste lid, treden de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=2&z=2024-01-01&g=2024-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=4&z=2024-01-01&g=2024-01-01) en de [artikelen 5.1, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=5&artikel=5.1&z=2024-01-01&g=2024-01-01), en [5.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=5&artikel=5.2&z=2024-01-01&g=2024-01-01), in werking met ingang van 28 maart 2019.
+2. In afwijking van het eerste lid, treden de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=2&z=2024-12-14&g=2024-12-14) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=4&z=2024-12-14&g=2024-12-14) en de [artikelen 5.1, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=5&artikel=5.1&z=2024-12-14&g=2024-12-14), en [5.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=5&artikel=5.2&z=2024-12-14&g=2024-12-14), in werking met ingang van 28 maart 2019.
 
 ##### Artikel 5.4. Citeertitel
 
@@ -240,15 +240,15 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2.3. Vergoeding kosten tijdelijke huisvesting commissaris en gedeputeerden
 
-1. De vergoeding voor tijdelijke huisvesting, bedoeld in de [artikelen 2.2.7, tweede lid, onder a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=2.2.7), bedraagt per maand het bedrag van de gemaakte kosten voor tijdelijke huisvesting, doch ten hoogste 18% van de bezoldiging van de commissaris of de gedeputeerde, bedoeld in [artikel 2.2.1, eerste onderscheidenlijk tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=2.2.1).
+1. De vergoeding voor tijdelijke huisvesting, bedoeld in [artikel 2.2.7, tweede lid, onder a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=2.2.7), bedraagt per maand het bedrag van de gemaakte kosten voor tijdelijke huisvesting, doch ten hoogste 18% van de bezoldiging van de commissaris of de gedeputeerde, bedoeld in [artikel 2.2.1, eerste onderscheidenlijk tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=2.2.1).
 
 2. In de gemaakte kosten, bedoeld in het eerste lid, zijn begrepen de kosten voor energie en water, maar niet de kosten voor overige diensten of zaken.
 
-3. De reiskosten voor één bezoek per week aan de woning waar de commissaris of de gedeputeerde ten tijde van de benoeming woonde, bedoeld in de [artikelen 2.2.7, tweede lid, onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=2.2.7) worden met overeenkomstige toepassing van [artikel 2.6, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=2&artikel=2.6&z=2024-01-01&g=2024-01-01), vergoed.
+3. De reiskosten voor één bezoek per week aan de woning waar de commissaris of de gedeputeerde ten tijde van de benoeming woonde, bedoeld in [artikel 2.2.7, tweede lid, onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=2.2.7), worden met overeenkomstige toepassing van [artikel 2.6, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=2&artikel=2.6&z=2024-12-14&g=2024-12-14), vergoed.
 
 ##### Artikel 2.4. Tegemoetkoming kosten dubbele woonlasten commissaris en gedeputeerden
 
-1. De tegemoetkoming in de kosten van dubbele woonlasten, bedoeld in de [artikelen 2.2.7, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=2.2.7), bestaat uit het bedrag van de gemaakte kosten van huisvesting en bedraagt ten hoogste 18% van de bezoldiging van de commissaris of de gedeputeerde, bedoeld in [artikel 2.2.1, eerste onderscheidenlijk tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=2.2.1).
+1. De tegemoetkoming in de kosten van dubbele woonlasten, bedoeld in [artikel 2.2.7, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=2.2.7), bestaat uit het bedrag van de gemaakte kosten van huisvesting en bedraagt ten hoogste 18% van de bezoldiging van de commissaris of de gedeputeerde, bedoeld in [artikel 2.2.1, eerste onderscheidenlijk tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=2.2.1).
 
 2. Onder de gemaakte kosten van huisvesting, bedoeld in het eerste lid, worden verstaan:
 
@@ -266,7 +266,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - b. de woning waar betrokkene ten tijde van zijn benoeming woonde, voor een ieder kenbaar te koop staat en er, nadat eventuele huurinkomsten uit die woning in mindering zijn gebracht op de rente over de schulden ter verwerving van die woning, een bedrag resteert dat voor zijn rekening komt.
 
-5. Indien de commissaris of de gedeputeerde een tegemoetkoming in de kosten voor dubbele woonlasten ontvangt, worden met overeenkomstige toepassing van [artikel 2.6, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=2&artikel=2.6&z=2024-01-01&g=2024-01-01), de reiskosten voor één bezoek per week aan de woning waarin hij ten tijde van zijn benoeming woonde vergoed.
+5. Indien de commissaris of de gedeputeerde een tegemoetkoming in de kosten voor dubbele woonlasten ontvangt, worden met overeenkomstige toepassing van [artikel 2.6, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=2&artikel=2.6&z=2024-12-14&g=2024-12-14), de reiskosten voor één bezoek per week aan de woning waarin hij ten tijde van zijn benoeming woonde vergoed.
 
 ##### Artikel 2.5. Ter beschikking gestelde woning commissaris en gedeputeerden
 
@@ -338,7 +338,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 4.2. Verhuiskosten voorzitter
 
-1. De vergoeding van verhuiskosten, bedoeld in de [artikelen 4.2.7, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=4.2.7) betreft:
+1. De vergoeding van verhuiskosten, bedoeld in [artikel 4.2.7, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=4.2.7), betreft:
 
 - a. de vergoeding van de werkelijke kosten voor het transport van de inboedel van de betrokkene en zijn gezinsleden naar de nieuwe woning, waaronder begrepen de kosten van het in- en uitpakken van die inboedel, en
 
@@ -348,11 +348,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 4.3. Vergoeding kosten tijdelijke huisvesting voorzitter en leden dagelijks bestuur
 
-1. De vergoeding voor de kosten van tijdelijke huisvesting, bedoeld in de [artikelen 4.2.7, tweede lid, onder a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=4.2.7), bedraagt per maand het bedrag van de gemaakte kosten voor tijdelijke huisvesting, doch ten hoogste 18% van de bezoldiging, bedoeld in [artikel 4.2.1, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=4.2.1).
+1. De vergoeding voor de kosten van tijdelijke huisvesting, bedoeld in [artikel 4.2.7, tweede lid, onder a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=4.2.7), bedraagt per maand het bedrag van de gemaakte kosten voor tijdelijke huisvesting, doch ten hoogste 18% van de bezoldiging, bedoeld in [artikel 4.2.1, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=4.2.1).
 
 2. In de gemaakte kosten, bedoeld in het eerste lid, zijn begrepen de kosten voor energie en water, maar niet de kosten voor overige diensten of zaken.
 
-3. De reiskosten voor één bezoek per week aan de woning waar de voorzitter ten tijde van de benoeming woonde, bedoeld in [artikel 4.2.7, tweede lid, onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=4.2.7), worden met overeenkomstige toepassing van [artikel 4.6, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=4&artikel=4.6&z=2024-01-01&g=2024-01-01), vergoed.
+3. De reiskosten voor één bezoek per week aan de woning waar de voorzitter ten tijde van de benoeming woonde, bedoeld in [artikel 4.2.7, tweede lid, onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=4.2.7), worden met overeenkomstige toepassing van [artikel 4.6, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=4&artikel=4.6&z=2024-12-14&g=2024-12-14), vergoed.
 
 ##### Artikel 4.4. Tegemoetkoming kosten dubbele woonlasten voorzitter
 
@@ -374,7 +374,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - b. de woning waar betrokkene ten tijde van zijn benoeming woonde, voor een ieder kenbaar te koop staat en er, nadat eventuele huurinkomsten uit die woning in mindering zijn gebracht op de rente over de schulden ter verwerving van die woning, een bedrag resteert dat voor zijn rekening komt.
 
-5. Indien de voorzitter een tegemoetkoming in de kosten voor dubbele woonlasten ontvangt, worden met overeenkomstige toepassing van [artikel 4.6, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=4&artikel=4.6&z=2024-01-01&g=2024-01-01), de reiskosten voor één bezoek per week aan de woning waarin hij ten tijde van zijn benoeming woonde vergoed.
+5. Indien de voorzitter een tegemoetkoming in de kosten voor dubbele woonlasten ontvangt, worden met overeenkomstige toepassing van [artikel 4.6, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&hoofdstuk=4&artikel=4.6&z=2024-12-14&g=2024-12-14), de reiskosten voor één bezoek per week aan de woning waarin hij ten tijde van zijn benoeming woonde vergoed.
 
 ##### Artikel 4.5. Ter beschikking gestelde woning voorzitter
 
@@ -466,7 +466,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - a. een dreigingsanalyse, met voor zover redelijkerwijs mogelijk informatie over de lokale veiligheidsrisico’s en overige relevante omstandigheden; en
 
-- b. een beoordeling van de veiligheidsrisico’s in en om de woonplek, van de commissaris of de gedeputeerde.
+- b. een beoordeling van de veiligheidsrisico’s in en om de woonplek, van de burgemeester of wethouder.
 
 5. De burgemeester of wethouder kan slechts aanspraak maken op de verstrekking van beveiligingsmaatregelen:
 
@@ -490,9 +490,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 4. Het beveiligingsadvies, wordt vastgesteld door de beveiligingsautoriteit van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties en schrijft de beveiligingsmaatregelen voor die passend zijn gezien:
 
-- c. een dreigingsanalyse, met voor zover redelijkerwijs mogelijk informatie over de lokale veiligheidsrisico’s en overige relevante omstandigheden; en
+- a. een dreigingsanalyse, met voor zover redelijkerwijs mogelijk informatie over de lokale veiligheidsrisico’s en overige relevante omstandigheden; en
 
-- d. een beoordeling van de veiligheidsrisico’s in en om de woonplek, van de commissaris of de gedeputeerde.
+- b. een beoordeling van de veiligheidsrisico’s in en om de woonplek, van de voorzitter of het lid van het dagelijks bestuur.
 
 5. De voorzitter of het lid van het dagelijks bestuur kan slechts aanspraak maken op de verstrekking van beveiligingsmaatregelen:
 
