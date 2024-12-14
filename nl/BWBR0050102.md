@@ -4,7 +4,7 @@ identifier: "BWBR0050102"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-12-14"
-last_updated: "2024-07-25"
+last_updated: "2024-12-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050102"
 soort: "ministeriele-regeling"
@@ -72,7 +72,7 @@ Besluit:
 
 - g. het Procesbureau Ketenregie.
 
-2. De programmadirectie Herstelbeleid en Parlementaire Zaken en het team Schulden staan ieder onder leiding van een programmadirecteur.
+2. De programmadirectie Herstelbeleid en Parlementaire Zaken staat onder leiding van een programmadirecteur en het team Schulden staat onder leiding van zowel een programmadirecteur als een programmamanager.
 
 3. De teams Herstelbeleid en Parlementaire Zaken staan onder leiding van het afdelingshoofd Herstelbeleid en Parlementaire Zaken.
 
@@ -157,6 +157,8 @@ de directeur-generaal Herstelbeleid.
 1. De directeur-generaal Herstelbeleid is hoofdbudgethouder voor het aan hem toegewezen budget.
 
 2. De directeur-generaal Herstelbeleid is bevoegd verplichtingen – met financiële consequenties – aan te gaan binnen zijn budget en binnen het kader van het tijdelijke programmadirectoraat-generaal.
+
+3. De directeur-generaal Herstelbeleid kan voor de in het eerste en tweede lid genoemde bevoegdheden ondermandaat verlenen aan budgethouders. In het ondermandaat kan een maximumbedrag worden aangegeven.
 
 ##### Artikel 6. Vervangingsregeling
 
