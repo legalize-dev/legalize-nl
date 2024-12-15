@@ -4,7 +4,7 @@ identifier: "BWBR0050185"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-12-15"
-last_updated: "2024-09-09"
+last_updated: "2024-12-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050185"
 soort: "ministeriele-regeling"
@@ -52,12 +52,14 @@ Dit besluit treedt in werking met ingang van 9 september 2024.
 
 Dit besluit wordt aangehaald als: Besluit toestemming inzage archiefbescheiden Bijlmerramp.
 
-## Bijlage. als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050185&artikel=1&z=2024-09-09&g=2024-09-09) van het Besluit toestemming inzage archiefbescheiden Bijlmerramp
+## Bijlage. als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050185&artikel=1&z=2024-12-15&g=2024-12-15) van het Besluit toestemming inzage archiefbescheiden Bijlmerramp
 
 ### Inventarisnummers uit de Inventaris van de archieven van de Raad voor de Luchtvaart en het Bureau Vooronderzoek Ongevallen en Incidenten van de Rijksluchtvaartdienst, 1924–1998 (2000) toegang 2.16.107 met toestemming tot inzage:
 
-1 Ondernummering Map inventarisnummers 2032-2112 **Stukken betreffende het ongeval met de 4X-AXG Boeing 747 op 4 oktober 1992 te Amsterdam (Bijlmerramp) 1992–1998**
+1 Ondernummering Map inventarisnummers 2032-2112 **Stukken betreffende het ongeval met de 4X-AXG Boeing 747 op 4 oktober 1992 te Amsterdam (Bijlmerramp) 1992–1998.**
 
 ### Audiovisuele middelen
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
