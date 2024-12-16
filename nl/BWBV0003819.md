@@ -4,7 +4,7 @@ identifier: "BWBV0003819"
 country: "nl"
 rank: "verdrag"
 publication_date: "2024-12-16"
-last_updated: "2024-04-01"
+last_updated: "2024-12-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003819"
 soort: "verdrag"
@@ -132,9 +132,9 @@ In het bij dit Verdrag gevoegde Protocol inzake voorrechten en immuniteiten word
 
 - f. hij oefent het leidinggevend gezag over het personeel uit;
 
-- g. behoudens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=III&artikel=11&z=2024-04-01&g=2024-04-01) benoemt hij het personeel en besluit over hun bevordering;
+- g. behoudens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=III&artikel=11&z=2024-12-16&g=2024-12-16) benoemt hij het personeel en besluit over hun bevordering;
 
-- h. hij oefent tuchtrechtelijk toezicht uit op de andere dan de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=III&artikel=11&z=2024-04-01&g=2024-04-01) bedoelde werknemers en hij kan de Raad van Bestuur voorstellen doen inzake disciplinaire maatregelen jegens personeel, bedoeld in artikel 11, tweede en derde lid;
+- h. hij oefent tuchtrechtelijk toezicht uit op de andere dan de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=III&artikel=11&z=2024-12-16&g=2024-12-16) bedoelde werknemers en hij kan de Raad van Bestuur voorstellen doen inzake disciplinaire maatregelen jegens personeel, bedoeld in artikel 11, tweede en derde lid;
 
 - i. hij kan zijn taken en bevoegdheden delegeren.
 
@@ -252,11 +252,11 @@ De afdelingen voor het nieuwheidsonderzoek zijn bevoegd tot het opstellen van de
 
 1. De Grote Kamer van beroep is bevoegd tot:
 
-- a. het beslissen over rechtsvragen die haar door de kamers van beroep worden voorgelegd ingevolge [artikel 112](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VI&artikel=112&z=2024-04-01&g=2024-04-01);
+- a. het beslissen over rechtsvragen die haar door de kamers van beroep worden voorgelegd ingevolge [artikel 112](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VI&artikel=112&z=2024-12-16&g=2024-12-16);
 
-- b. het uitbrengen van adviezen over rechtsvragen die haar door de President van het Europees Octrooibureau worden voorgelegd ingevolge [artikel 112](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VI&artikel=112&z=2024-04-01&g=2024-04-01);
+- b. het uitbrengen van adviezen over rechtsvragen die haar door de President van het Europees Octrooibureau worden voorgelegd ingevolge [artikel 112](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VI&artikel=112&z=2024-12-16&g=2024-12-16);
 
-- c. het beslissen over verzoeken om herziening van beslissingen van de kamers van beroep ingevolge [artikel 112a](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VI&artikel=112a&z=2024-04-01&g=2024-04-01).
+- c. het beslissen over verzoeken om herziening van beslissingen van de kamers van beroep ingevolge [artikel 112a](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VI&artikel=112a&z=2024-12-16&g=2024-12-16).
 
 2. Bij procedures ingevolge het eerste lid, onderdelen a en b, bestaat de Grote Kamer van beroep uit vijf rechtsgeleerde leden en twee technisch geschoolde leden. Bij procedures ingevolge het eerste lid, onderdeel c, bestaat de Grote Kamer van beroep uit drie of vijf leden zoals vastgelegd in het Uitvoeringsreglement. In alle procedures berust het voorzitterschap bij een rechtsgeleerd lid.
 
@@ -344,7 +344,7 @@ Het Europees Octrooibureau stelt de Raad van Bestuur en de door de Raad in het l
 
 - a. de in dit Verdrag vastgestelde termijnen;
 
-- b. de [delen II tot en met VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=III&artikel=18&z=2024-04-01&g=2024-04-01) en [deel X](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=X&z=2024-04-01&g=2024-04-01) van dit Verdrag, teneinde deze op een lijn te brengen met een internationaal verdrag inzake octrooien of regelgeving van de Europese Gemeenschap inzake octrooien;
+- b. de [delen II tot en met VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=III&artikel=18&z=2024-12-16&g=2024-12-16) en [deel X](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=X&z=2024-12-16&g=2024-12-16) van dit Verdrag, teneinde deze op een lijn te brengen met een internationaal verdrag inzake octrooien of regelgeving van de Europese Gemeenschap inzake octrooien;
 
 - c. het Uitvoeringsreglement.
 
@@ -360,7 +360,7 @@ Het Europees Octrooibureau stelt de Raad van Bestuur en de door de Raad in het l
 
 - e. zijn Reglement van Orde.
 
-3. Niettegenstaande het bepaalde in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=III&artikel=18&z=2024-04-01&g=2024-04-01), is de Raad van Bestuur bevoegd op grond van opgedane ervaringen te besluiten dat in bepaalde gevallen de onderzoeksafdelingen slechts uit één technisch geschoolde onderzoeker bestaan. Een dergelijk besluit kan herroepen worden.
+3. Niettegenstaande het bepaalde in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=III&artikel=18&z=2024-12-16&g=2024-12-16), is de Raad van Bestuur bevoegd op grond van opgedane ervaringen te besluiten dat in bepaalde gevallen de onderzoeksafdelingen slechts uit één technisch geschoolde onderzoeker bestaan. Een dergelijk besluit kan herroepen worden.
 
 4. De Raad van Bestuur is bevoegd de President van het Europees Octrooibureau te machtigen tot het onderhandelen over en, met zijn goedkeuring, tot het namens de Europese Octrooiorganisatie sluiten van overeenkomsten met Staten, met intergouvernementele organisaties, alsmede met documentatiecentra die in het leven zijn geroepen op grond van met deze organisaties gesloten overeenkomsten.
 
@@ -374,15 +374,15 @@ Het Europees Octrooibureau stelt de Raad van Bestuur en de door de Raad in het l
 
 1. Alleen de Verdragsluitende Staten hebben stemrecht in de Raad van Bestuur.
 
-2. Elke Verdragsluitende Staat beschikt over één stem, onverminderd de toepassing van het bepaalde in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=IV&artikel=36&z=2024-04-01&g=2024-04-01).
+2. Elke Verdragsluitende Staat beschikt over één stem, onverminderd de toepassing van het bepaalde in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=IV&artikel=36&z=2024-12-16&g=2024-12-16).
 
 ##### Artikel 35. Wijze van stemmen
 
 1. Besluiten anders dan die bedoeld in het tweede en derde lid neemt de Raad van Bestuur met een gewone meerderheid van stemmen uitgebracht door de vertegenwoordigde en hun stem uitbrengende Verdragsluitende Staten.
 
-2. Een meerderheid van drie vierde van de stemmen van de vertegenwoordigde en hun stem uitbrengende Verdragsluitende Staten is vereist voor de besluiten die de Raad van Bestuur bevoegd is te nemen ingevolge [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=II&artikel=7&z=2024-04-01&g=2024-04-01), [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=III&artikel=11&z=2024-04-01&g=2024-04-01), [artikel 33, eerste lid, onderdelen a en c, en het tweede tot en met het vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=IV&artikel=33&z=2024-04-01&g=2024-04-01), [artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=V&artikel=39&z=2024-04-01&g=2024-04-01), [artikel 40, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=V&artikel=40&z=2024-04-01&g=2024-04-01), [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=V&artikel=46&z=2024-04-01&g=2024-04-01), [artikel 134a](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=III&artikel=134a&z=2024-04-01&g=2024-04-01), [artikel 149a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IX&artikel=149a&z=2024-04-01&g=2024-04-01), [artikel 152](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=X&artikel=152&z=2024-04-01&g=2024-04-01), [artikel 153, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=X&artikel=153&z=2024-04-01&g=2024-04-01), [artikel 166](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=XII&artikel=166&z=2024-04-01&g=2024-04-01) en [artikel 172](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=XII&artikel=172&z=2024-04-01&g=2024-04-01).
+2. Een meerderheid van drie vierde van de stemmen van de vertegenwoordigde en hun stem uitbrengende Verdragsluitende Staten is vereist voor de besluiten die de Raad van Bestuur bevoegd is te nemen ingevolge [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=II&artikel=7&z=2024-12-16&g=2024-12-16), [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=III&artikel=11&z=2024-12-16&g=2024-12-16), [artikel 33, eerste lid, onderdelen a en c, en het tweede tot en met het vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=IV&artikel=33&z=2024-12-16&g=2024-12-16), [artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=V&artikel=39&z=2024-12-16&g=2024-12-16), [artikel 40, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=V&artikel=40&z=2024-12-16&g=2024-12-16), [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=V&artikel=46&z=2024-12-16&g=2024-12-16), [artikel 134a](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=III&artikel=134a&z=2024-12-16&g=2024-12-16), [artikel 149a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IX&artikel=149a&z=2024-12-16&g=2024-12-16), [artikel 152](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=X&artikel=152&z=2024-12-16&g=2024-12-16), [artikel 153, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=X&artikel=153&z=2024-12-16&g=2024-12-16), [artikel 166](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=XII&artikel=166&z=2024-12-16&g=2024-12-16) en [artikel 172](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=XII&artikel=172&z=2024-12-16&g=2024-12-16).
 
-3. Eenparigheid van stemmen van de Verdragsluitende Staten is vereist voor de besluiten die de Raad van Bestuur bevoegd is te nemen ingevolge [artikel 33, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=IV&artikel=33&z=2024-04-01&g=2024-04-01). De Raad van Bestuur neemt deze besluiten alleen wanneer alle Verdragsluitende Staten vertegenwoordigd zijn. Een besluit genomen ingevolge artikel 33, eerste lid, onderdeel b, wordt niet van kracht indien een Verdragsluitende Staat binnen twaalf maanden na de datum van het besluit verklaart dat hij niet wenst te worden gebonden door dat besluit.
+3. Eenparigheid van stemmen van de Verdragsluitende Staten is vereist voor de besluiten die de Raad van Bestuur bevoegd is te nemen ingevolge [artikel 33, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=IV&artikel=33&z=2024-12-16&g=2024-12-16). De Raad van Bestuur neemt deze besluiten alleen wanneer alle Verdragsluitende Staten vertegenwoordigd zijn. Een besluit genomen ingevolge artikel 33, eerste lid, onderdeel b, wordt niet van kracht indien een Verdragsluitende Staat binnen twaalf maanden na de datum van het besluit verklaart dat hij niet wenst te worden gebonden door dat besluit.
 
 4. Onthouding geldt niet als stem.
 
@@ -392,7 +392,7 @@ Het Europees Octrooibureau stelt de Raad van Bestuur en de door de Raad in het l
 
 2. Het aantal stemmen waarover elke Verdragsluitende Staat beschikt bij een tweede stemming, wordt als volgt berekend:
 
-- a. het voor elke Verdragsluitende Staat vastgestelde percentage, voortvloeiend uit de in [artikel 40, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=V&artikel=40&z=2024-04-01&g=2024-04-01), bedoelde verdeelsleutel voor de bijzondere financiële bijdragen, wordt vermenigvuldigd met het aantal Verdragsluitende Staten en gedeeld door vijf;
+- a. het voor elke Verdragsluitende Staat vastgestelde percentage, voortvloeiend uit de in [artikel 40, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=V&artikel=40&z=2024-12-16&g=2024-12-16), bedoelde verdeelsleutel voor de bijzondere financiële bijdragen, wordt vermenigvuldigd met het aantal Verdragsluitende Staten en gedeeld door vijf;
 
 - b. het aldus berekende aantal stemmen wordt naar boven tot een geheel getal afgerond;
 
@@ -412,7 +412,7 @@ De begroting van de Organisatie wordt gefinancierd:
 
 - c. zo nodig uit bijzondere financiële bijdragen van de Verdragsluitende Staten;
 
-- d. in voorkomend geval uit de in [artikel 146](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IX&artikel=146&z=2024-04-01&g=2024-04-01) bedoelde inkomsten;
+- d. in voorkomend geval uit de in [artikel 146](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IX&artikel=146&z=2024-12-16&g=2024-12-16) bedoelde inkomsten;
 
 - e. in voorkomend geval en alleen voor zaken, door leningen van derden met grond of gebouwen als zekerheid;
 
@@ -438,7 +438,7 @@ De eigen middelen van de Organisatie omvatten:
 
 ##### Artikel 40. Hoogte van de taksen en betalingen – Bijzondere financiële bijdragen
 
-1. De hoogte van de taksen, bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=V&artikel=38&z=2024-04-01&g=2024-04-01), en het percentage bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=V&artikel=39&z=2024-04-01&g=2024-04-01), dient zodanig te worden vastgesteld dat de daaruit voortvloeiende inkomsten volstaan voor een sluitende begroting van de Organisatie.
+1. De hoogte van de taksen, bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=V&artikel=38&z=2024-12-16&g=2024-12-16), en het percentage bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=V&artikel=39&z=2024-12-16&g=2024-12-16), dient zodanig te worden vastgesteld dat de daaruit voortvloeiende inkomsten volstaan voor een sluitende begroting van de Organisatie.
 
 2. Indien de Organisatie echter niet in staat is de begroting sluitend te maken op de wijze als bedoeld in het eerste lid, betalen de Verdragsluitende Staten aan de Organisatie bijzondere financiële bijdragen waarvan de hoogte door de Raad van Bestuur wordt vastgesteld voor het desbetreffende begrotingsjaar.
 
@@ -462,7 +462,7 @@ De bedragen die dienen te worden betaald door de Staten waarin meer dan 25.000 o
 
 1. Op verzoek van de President van het Europees Octrooibureau verstrekken de Verdragsluitende Staten de Organisatie voorschotten op hun betalingen en bijdragen tot een door de Raad van Bestuur vastgesteld bedrag. Deze voorschotten worden voor de Verdragsluitende Staten bepaald in verhouding tot de bedragen die deze Verdragsluitende Staten voor het desbetreffende begrotingsjaar verschuldigd zijn.
 
-2. [Artikel 39, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=V&artikel=39&z=2024-04-01&g=2024-04-01), is van overeenkomstige toepassing op de voorschotten.
+2. [Artikel 39, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=V&artikel=39&z=2024-12-16&g=2024-12-16), is van overeenkomstige toepassing op de voorschotten.
 
 ##### Artikel 42. Begroting
 
@@ -500,9 +500,9 @@ Het begrotingsjaar loopt van 1 januari tot en met 31 december.
 
 2. De Raad van Bestuur kan, evenwel met inachtneming van de overige in het eerste lid vastgestelde voorwaarden, machtiging verlenen voor uitgaven die een twaalfde deel te boven gaan.
 
-3. De betalingen bedoeld in [artikel 37, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=V&artikel=37&z=2024-04-01&g=2024-04-01), zullen voorshands worden verricht overeenkomstig [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=V&artikel=39&z=2024-04-01&g=2024-04-01) op basis van het begrotingsjaar voorafgaande aan dat waarop de ontwerpbegroting betrekking heeft.
+3. De betalingen bedoeld in [artikel 37, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=V&artikel=37&z=2024-12-16&g=2024-12-16), zullen voorshands worden verricht overeenkomstig [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=V&artikel=39&z=2024-12-16&g=2024-12-16) op basis van het begrotingsjaar voorafgaande aan dat waarop de ontwerpbegroting betrekking heeft.
 
-4. Elke maand betalen de Verdragsluitende Staten, als voorschot en overeenkomstig de in [artikel 40, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=V&artikel=40&z=2024-04-01&g=2024-04-01), bedoelde verdeelsleutel, de bijzondere financiële bijdragen voor zover dit nodig is om aan het eerste en tweede lid van dit artikel uitvoering te geven. Artikel 39, vierde lid, is op deze bijdragen van overeenkomstige toepassing.
+4. Elke maand betalen de Verdragsluitende Staten, als voorschot en overeenkomstig de in [artikel 40, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=V&artikel=40&z=2024-12-16&g=2024-12-16), bedoelde verdeelsleutel, de bijzondere financiële bijdragen voor zover dit nodig is om aan het eerste en tweede lid van dit artikel uitvoering te geven. Artikel 39, vierde lid, is op deze bijdragen van overeenkomstige toepassing.
 
 ##### Artikel 48. Uitvoering van de begroting
 
@@ -526,13 +526,13 @@ In het Financieel Reglement zijn met name vastgelegd:
 
 - a. de voorschriften voor het opstellen en uitvoeren van de begroting alsmede voor de wijze waarop rekening en verantwoording dienen te worden afgelegd;
 
-- b. de wijze waarop de betalingen en de bijdragen bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=37&z=2024-04-01&g=2024-04-01) en de voorschotten bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=V&artikel=41&z=2024-04-01&g=2024-04-01) door de Verdragsluitende Staten aan de Organisatie ter beschikking dienen te worden gesteld;
+- b. de wijze waarop de betalingen en de bijdragen bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=37&z=2024-12-16&g=2024-12-16) en de voorschotten bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=V&artikel=41&z=2024-12-16&g=2024-12-16) door de Verdragsluitende Staten aan de Organisatie ter beschikking dienen te worden gesteld;
 
 - c. de voorschriften betreffende de verantwoordelijkheden van de met betalingen en met de boekhouding belaste ambtenaren alsmede het op hen uit te oefenen toezicht;
 
-- d. de rentevoet bedoeld in de [artikelen 39](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=V&artikel=39&z=2024-04-01&g=2024-04-01), [40](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=V&artikel=47&z=2024-04-01&g=2024-04-01) en [47](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IX&artikel=146&z=2024-04-01&g=2024-04-01);
+- d. de rentevoet bedoeld in de [artikelen 39](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=V&artikel=39&z=2024-12-16&g=2024-12-16), [40](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=V&artikel=47&z=2024-12-16&g=2024-12-16) en [47](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IX&artikel=146&z=2024-12-16&g=2024-12-16);
 
-- e. de wijze waarop de ingevolge [artikel 146](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IX&artikel=146&z=2024-04-01&g=2024-04-01) te betalen bijdragen berekend dienen te worden;
+- e. de wijze waarop de ingevolge [artikel 146](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IX&artikel=146&z=2024-12-16&g=2024-12-16) te betalen bijdragen berekend dienen te worden;
 
 - f. de samenstelling en de taken van een Commissie voor de begroting en de financiën, die door de Raad van Bestuur dient te worden ingesteld;
 
@@ -586,13 +586,13 @@ Europese octrooien worden niet verleend voor:
 
 3. Als behorend tot de stand van de techniek wordt tevens aangemerkt de inhoud van Europese octrooiaanvragen, zoals die zijn ingediend, waarvan de datum van indiening gelegen is vóór de in het tweede lid genoemde datum en die op of na die datum zijn gepubliceerd.
 
-4. Het tweede en derde lid sluiten de octrooieerbaarheid van stoffen of mengsels, behorend tot de stand van de techniek, voor toepassing bij een in [artikel 53, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=I&artikel=53&z=2024-04-01&g=2024-04-01), bedoelde methode niet uit, mits de toepassing ervan bij een dergelijke methode niet behoort tot de stand van de techniek.
+4. Het tweede en derde lid sluiten de octrooieerbaarheid van stoffen of mengsels, behorend tot de stand van de techniek, voor toepassing bij een in [artikel 53, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=I&artikel=53&z=2024-12-16&g=2024-12-16), bedoelde methode niet uit, mits de toepassing ervan bij een dergelijke methode niet behoort tot de stand van de techniek.
 
-5. Het tweede en derde lid sluiten voorts niet de octrooieerbaarheid uit van stoffen of mengsels als bedoeld in het vierde lid voor een specifieke toepassing in een werkwijze bedoeld in [artikel 53, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=I&artikel=53&z=2024-04-01&g=2024-04-01), mits die toepassing niet tot de stand van de techniek behoort.
+5. Het tweede en derde lid sluiten voorts niet de octrooieerbaarheid uit van stoffen of mengsels als bedoeld in het vierde lid voor een specifieke toepassing in een werkwijze bedoeld in [artikel 53, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=I&artikel=53&z=2024-12-16&g=2024-12-16), mits die toepassing niet tot de stand van de techniek behoort.
 
 ##### Artikel 55. Niet-schadende openbare bekendheid
 
-1. Voor de toepassing van [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=I&artikel=54&z=2024-04-01&g=2024-04-01) blijft een openbaarmaking van de uitvinding buiten beschouwing indien deze niet eerder is geschied dan zes maanden voor de indiening van de Europese octrooiaanvrage en indien deze direct of indirect het gevolg is van:
+1. Voor de toepassing van [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=I&artikel=54&z=2024-12-16&g=2024-12-16) blijft een openbaarmaking van de uitvinding buiten beschouwing indien deze niet eerder is geschied dan zes maanden voor de indiening van de Europese octrooiaanvrage en indien deze direct of indirect het gevolg is van:
 
 - a. een kennelijk misbruik ten opzichte van de aanvrager of diens rechtsvoorganger, of
 
@@ -654,7 +654,7 @@ De uitvinder heeft tegenover de aanvrager of de houder van het Europees octrooi 
 
 - b. indien het onderwerp van het Europees octrooi een product of een werkwijze voor de vervaardiging van een product dan wel een gebruik van een product is, waarvoor een bij de wet vereiste procedure voor de verkrijging van een overheidsvergunning dient te worden doorlopen alvorens het in die Staat op de markt kan worden gebracht.
 
-3. Het tweede lid is van overeenkomstige toepassing op Europese octrooien die gezamenlijk voor een groep Verdragsluitende Staten zijn verleend overeenkomstig [artikel 142](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IX&artikel=142&z=2024-04-01&g=2024-04-01).
+3. Het tweede lid is van overeenkomstige toepassing op Europese octrooien die gezamenlijk voor een groep Verdragsluitende Staten zijn verleend overeenkomstig [artikel 142](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IX&artikel=142&z=2024-12-16&g=2024-12-16).
 
 4. Een Verdragsluitende Staat die ingevolge het tweede lid, onderdeel b, de mogelijkheid biedt voor verlenging van de looptijd of overeenkomstige bescherming, kan, in overeenstemming met een met de Organisatie gesloten overeenkomst, taken samenhangend met de toepassing van de desbetreffende bepalingen overdragen aan het Europees Octrooibureau.
 
@@ -694,7 +694,7 @@ Een Europese octrooiaanvrage, waaraan een datum van indiening is toegekend, is i
 
 ##### Artikel 68. Werking van de herroeping of de beperking van het Europees octrooi
 
-De Europese octrooiaanvrage alsmede het daarop verleende Europese octrooi worden geacht van de aanvang af niet de in de [artikelen 64](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=III&artikel=64&z=2024-04-01&g=2024-04-01) en [67](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=III&artikel=67&z=2024-04-01&g=2024-04-01) bedoelde werking te hebben gehad naar gelang het octrooi is herroepen of beperkt tijdens een oppositie-, beperkings- of nietigheidsprocedure.
+De Europese octrooiaanvrage alsmede het daarop verleende Europese octrooi worden geacht van de aanvang af niet de in de [artikelen 64](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=III&artikel=64&z=2024-12-16&g=2024-12-16) en [67](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=III&artikel=67&z=2024-12-16&g=2024-12-16) bedoelde werking te hebben gehad naar gelang het octrooi is herroepen of beperkt tijdens een oppositie-, beperkings- of nietigheidsprocedure.
 
 ##### Artikel 69. Beschermingsomvang
 
@@ -712,7 +712,7 @@ De Europese octrooiaanvrage alsmede het daarop verleende Europese octrooi worden
 
 4. Elke Verdragsluitende Staat die ingevolge het derde lid een voorschrift vaststelt:
 
-- a. moet de aanvrager of de houder van het octrooi toestaan een verbeterde vertaling van de Europese octrooiaanvrage of van het Europees octrooi in te dienen. Deze verbeterde vertaling heeft geen rechtskracht zolang de door de Verdragsluitende Staat ingevolge [artikel 65, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=III&artikel=65&z=2024-04-01&g=2024-04-01), of [artikel 67, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=III&artikel=70&z=2024-04-01&g=2024-04-01), vastgestelde voorwaarden niet vervuld zijn;
+- a. moet de aanvrager of de houder van het octrooi toestaan een verbeterde vertaling van de Europese octrooiaanvrage of van het Europees octrooi in te dienen. Deze verbeterde vertaling heeft geen rechtskracht zolang de door de Verdragsluitende Staat ingevolge [artikel 65, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=III&artikel=65&z=2024-12-16&g=2024-12-16), of [artikel 67, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=III&artikel=70&z=2024-12-16&g=2024-12-16), vastgestelde voorwaarden niet vervuld zijn;
 
 - b. kan bepalen dat degene die in die Staat te goeder trouw een uitvinding heeft toegepast of doeltreffende en serieuze voorbereidingen voor toepassing ervan heeft getroffen, zonder dat die toepassing een inbreuk vormt op de aanvrage of op het octrooi in de oorspronkelijke vertaling, met deze toepassing in of voor zijn bedrijf kosteloos mag doorgaan nadat de verbeterde vertaling van kracht is geworden.
 
@@ -814,7 +814,7 @@ De conclusies beschrijven het onderwerp waarvoor bescherming wordt gevraagd. Zij
 
 ##### Artikel 85. Uittreksel
 
-Het uittreksel is alleen bedoeld als technische informatie; het kan niet in aanmerking komen voor enig ander doel, in het bijzonder niet voor de uitlegging van de omvang van de gevraagde bescherming of voor de toepassing van [artikel 54, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=I&artikel=54&z=2024-04-01&g=2024-04-01).
+Het uittreksel is alleen bedoeld als technische informatie; het kan niet in aanmerking komen voor enig ander doel, in het bijzonder niet voor de uitlegging van de omvang van de gevraagde bescherming of voor de toepassing van [artikel 54, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=I&artikel=54&z=2024-12-16&g=2024-12-16).
 
 ##### Artikel 86. Jaartaksen voor de Europese octrooiaanvrage
 
@@ -854,7 +854,7 @@ een aanvrage heeft ingediend voor een octrooi, een gebruiksmodel of een gebruiks
 
 ##### Artikel 89. Werking van het recht van voorrang
 
-Het recht van voorrang heeft ten gevolge dat de voorrangsdatum wordt beschouwd als de datum van indiening van de Europese octrooiaanvrage voor de toepassing van [artikel 54, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=I&artikel=54&z=2024-04-01&g=2024-04-01), en [artikel 60, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=II&artikel=60&z=2024-04-01&g=2024-04-01).
+Het recht van voorrang heeft ten gevolge dat de voorrangsdatum wordt beschouwd als de datum van indiening van de Europese octrooiaanvrage voor de toepassing van [artikel 54, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=I&artikel=54&z=2024-12-16&g=2024-12-16), en [artikel 60, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=II&artikel=60&z=2024-12-16&g=2024-12-16).
 
 ## DEEL VIERDE. PROCEDURE TOT AAN DE VERLENING
 
@@ -876,7 +876,7 @@ Vervallen
 
 ##### Artikel 92. Opstelling van het verslag van het Europees nieuwheidsonderzoek
 
-Het Europees Octrooibureau stelt, in overeenstemming met het [Uitvoeringsreglement](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=II&artikel=60&z=2024-04-01&g=2024-04-01), op basis van de conclusies en naar behoren rekening houdend met de beschrijving en eventuele tekeningen, een verslag van het Europees nieuwheidsonderzoek op en publiceert het.
+Het Europees Octrooibureau stelt, in overeenstemming met het [Uitvoeringsreglement](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=II&artikel=60&z=2024-12-16&g=2024-12-16), op basis van de conclusies en naar behoren rekening houdend met de beschrijving en eventuele tekeningen, een verslag van het Europees nieuwheidsonderzoek op en publiceert het.
 
 ##### Artikel 93. Publicatie van de Europese octrooiaanvrage
 
@@ -894,7 +894,7 @@ Het Europees Octrooibureau stelt, in overeenstemming met het [Uitvoeringsregleme
 
 2. Indien het verzoek om onderzoek niet tijdig is gedaan, wordt de aanvrage geacht te zijn ingetrokken.
 
-3. Indien bij het onderzoek blijkt dat de aanvrage of de uitvinding waarop zij betrekking heeft, niet voldoet aan de vereisten van dit Verdrag, verzoekt de onderzoeksafdeling de aanvrager, zo dikwijls als nodig, zijn zienswijze in te dienen en, overeenkomstig de bepalingen van [artikel 123, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=I&artikel=123&z=2024-04-01&g=2024-04-01), de aanvrage te wijzigen.
+3. Indien bij het onderzoek blijkt dat de aanvrage of de uitvinding waarop zij betrekking heeft, niet voldoet aan de vereisten van dit Verdrag, verzoekt de onderzoeksafdeling de aanvrager, zo dikwijls als nodig, zijn zienswijze in te dienen en, overeenkomstig de bepalingen van [artikel 123, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=I&artikel=123&z=2024-12-16&g=2024-12-16), de aanvrage te wijzigen.
 
 4. Indien de aanvrager niet tijdig reageert op een mededeling van de onderzoeksafdeling, wordt de aanvrage geacht te zijn ingetrokken.
 
@@ -922,13 +922,13 @@ Het Europees Octrooibureau publiceert het Europees octrooischrift zo spoedig mog
 
 ##### Artikel 99. Oppositie
 
-1. Binnen negen maanden na de datum waarop de vermelding van de verlening van het Europees octrooi is gepubliceerd in het Europees Octrooiblad, kan een ieder bij het Europees Octrooibureau oppositie instellen tegen dat octrooi, in overeenstemming met het [Uitvoeringsreglement](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=I&artikel=118&z=2024-04-01&g=2024-04-01). De oppositie wordt eerst geacht te zijn ingesteld nadat de taks voor de oppositie is betaald.
+1. Binnen negen maanden na de datum waarop de vermelding van de verlening van het Europees octrooi is gepubliceerd in het Europees Octrooiblad, kan een ieder bij het Europees Octrooibureau oppositie instellen tegen dat octrooi, in overeenstemming met het [Uitvoeringsreglement](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=I&artikel=118&z=2024-12-16&g=2024-12-16). De oppositie wordt eerst geacht te zijn ingesteld nadat de taks voor de oppositie is betaald.
 
 2. De oppositie geldt voor het Europees octrooi in alle Verdragsluitende Staten waarin het werking heeft.
 
 3. De opposanten zijn, evenals de octrooihouder, partij in de oppositieprocedure.
 
-4. Indien iemand bewijst dat hij in plaats van de vorige octrooihouder, op grond van een in kracht van gewijsde gegaan vonnis, in een Verdragsluitende Staat is ingeschreven in het octrooiregister, treedt hij, op zijn verzoek, voor deze Staat in de plaats van de vorige octrooihouder. Niettegenstaande het bepaalde in [artikel 118](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=I&artikel=118&z=2024-04-01&g=2024-04-01) worden de vorige octrooihouder en de persoon die het verzoek heeft gedaan, niet beschouwd als medehouders, tenzij beiden hierom verzoeken.
+4. Indien iemand bewijst dat hij in plaats van de vorige octrooihouder, op grond van een in kracht van gewijsde gegaan vonnis, in een Verdragsluitende Staat is ingeschreven in het octrooiregister, treedt hij, op zijn verzoek, voor deze Staat in de plaats van de vorige octrooihouder. Niettegenstaande het bepaalde in [artikel 118](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=I&artikel=118&z=2024-12-16&g=2024-12-16) worden de vorige octrooihouder en de persoon die het verzoek heeft gedaan, niet beschouwd als medehouders, tenzij beiden hierom verzoeken.
 
 ##### Artikel 100. Gronden voor oppositie
 
@@ -938,11 +938,11 @@ De oppositie kan slechts op de volgende gronden worden ingesteld:
 
 - b. het Europees octrooi openbaart de uitvinding niet zodanig duidelijk en volledig dat zij door de vakman kan worden toegepast;
 
-- c. het onderwerp van het Europees octrooi wordt niet gedekt door de inhoud van de aanvrage zoals die is ingediend, of door de inhoud van de eerdere aanvrage zoals die is ingediend, indien het octrooi is verleend op een afgesplitste aanvrage of op een overeenkomstig [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=II&artikel=61&z=2024-04-01&g=2024-04-01) ingediende nieuwe aanvrage.
+- c. het onderwerp van het Europees octrooi wordt niet gedekt door de inhoud van de aanvrage zoals die is ingediend, of door de inhoud van de eerdere aanvrage zoals die is ingediend, indien het octrooi is verleend op een afgesplitste aanvrage of op een overeenkomstig [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=II&artikel=61&z=2024-12-16&g=2024-12-16) ingediende nieuwe aanvrage.
 
 ##### Artikel 101. Onderzoek van de oppositie – Herroeping of instandhouding van het Europees octrooi
 
-1. Indien de opposant ontvankelijk is, onderzoekt de oppositieafdeling, in overeenstemming met het Uitvoeringsreglement, of ten minste een van de in [artikel 100](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=V&artikel=100&z=2024-04-01&g=2024-04-01) genoemde gronden voor oppositie zich verzet tegen het in stand blijven van het Europees octrooi. Tijdens dit onderzoek verzoekt de oppositieafdeling zo dikwijls als nodig partijen te reageren op mededelingen die zij tot hen heeft gericht of op mededelingen van andere partijen.
+1. Indien de opposant ontvankelijk is, onderzoekt de oppositieafdeling, in overeenstemming met het Uitvoeringsreglement, of ten minste een van de in [artikel 100](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=V&artikel=100&z=2024-12-16&g=2024-12-16) genoemde gronden voor oppositie zich verzet tegen het in stand blijven van het Europees octrooi. Tijdens dit onderzoek verzoekt de oppositieafdeling zo dikwijls als nodig partijen te reageren op mededelingen die zij tot hen heeft gericht of op mededelingen van andere partijen.
 
 2. Indien de oppositieafdeling van oordeel is dat ten minste een grond voor oppositie zich verzet tegen het in stand blijven van het Europees octrooi, herroept zij het octrooi. Is dat niet het geval dan wijst zij de oppositie af.
 
@@ -1100,7 +1100,7 @@ Het Uitvoeringsreglement bepaalt:
 
 3. Indien het verzoek wordt ingewilligd, worden de rechtsgevolgen van het verzuim van de termijn geacht niet te zijn ingetreden.
 
-4. Verdere behandeling is uitgesloten in geval van de termijnen genoemd in [artikel 87, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=II&artikel=87&z=2024-04-01&g=2024-04-01), [artikel 108](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VI&hoofdstuk=II&artikel=108&z=2024-04-01&g=2024-04-01) en [artikel 112a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VI&artikel=112a&z=2024-04-01&g=2024-04-01), alsmede de termijnen voor verzoeken om verdere behandeling of herstel in de vorige toestand. Het Uitvoeringsreglement kan verdere behandeling voor andere termijnen uitsluiten.
+4. Verdere behandeling is uitgesloten in geval van de termijnen genoemd in [artikel 87, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=II&artikel=87&z=2024-12-16&g=2024-12-16), [artikel 108](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VI&hoofdstuk=II&artikel=108&z=2024-12-16&g=2024-12-16) en [artikel 112a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VI&artikel=112a&z=2024-12-16&g=2024-12-16), alsmede de termijnen voor verzoeken om verdere behandeling of herstel in de vorige toestand. Het Uitvoeringsreglement kan verdere behandeling voor andere termijnen uitsluiten.
 
 ##### Artikel 122. Herstel in de vorige toestand
 
@@ -1150,7 +1150,7 @@ Het Europees Octrooibureau houdt een Europees Octrooiregister bij waarin de in h
 
 2. Degene die bewijst dat de aanvrager zich tegenover hem heeft beroepen op zijn Europese octrooiaanvrage, kan het dossier inzien voordat deze aanvrage is gepubliceerd en zonder toestemming van de aanvrager.
 
-3. Wanneer een afgesplitste Europese aanvrage of een nieuwe Europese octrooiaanvrage, ingediend op grond van [artikel 61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=II&artikel=61&z=2024-04-01&g=2024-04-01), is gepubliceerd, kan een ieder het dossier van de eerdere aanvrage inzien voordat deze aanvrage is gepubliceerd en zonder toestemming van de aanvrager.
+3. Wanneer een afgesplitste Europese aanvrage of een nieuwe Europese octrooiaanvrage, ingediend op grond van [artikel 61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=II&artikel=61&z=2024-12-16&g=2024-12-16), is gepubliceerd, kan een ieder het dossier van de eerdere aanvrage inzien voordat deze aanvrage is gepubliceerd en zonder toestemming van de aanvrager.
 
 4. Na de publicatie van de Europese octrooiaanvrage kunnen, behoudens de in het Uitvoeringsreglement gestelde beperkingen, de dossiers van die aanvrage en van het daarop verleende octrooi op verzoek worden ingezien.
 
@@ -1176,11 +1176,11 @@ Het Europees Octrooibureau publiceert regelmatig:
 
 - c. elke andere organisatie.
 
-3. Het verstrekken van gegevens ingevolge het eerste lid en het tweede lid, onderdelen a en b, is niet onderworpen aan de in [artikel 128](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=II&artikel=128&z=2024-04-01&g=2024-04-01) vervatte beperkingen. De Raad van Bestuur kan besluiten dat het verstrekken van gegevens ingevolge het tweede lid, onderdeel c, niet onderworpen is aan die beperkingen, mits de betrokken organisatie de verstrekte gegevens als vertrouwelijk behandelt tot aan de datum waarop de Europese octrooiaanvrage is gepubliceerd.
+3. Het verstrekken van gegevens ingevolge het eerste lid en het tweede lid, onderdelen a en b, is niet onderworpen aan de in [artikel 128](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=II&artikel=128&z=2024-12-16&g=2024-12-16) vervatte beperkingen. De Raad van Bestuur kan besluiten dat het verstrekken van gegevens ingevolge het tweede lid, onderdeel c, niet onderworpen is aan die beperkingen, mits de betrokken organisatie de verstrekte gegevens als vertrouwelijk behandelt tot aan de datum waarop de Europese octrooiaanvrage is gepubliceerd.
 
 ##### Artikel 131. Ambtelijke en juridische samenwerking
 
-1. Tenzij in dit Verdrag of in de nationale wetgevingen anders is bepaald, dienen het Europees Octrooibureau en de gerechtelijke of andere bevoegde instanties van de Verdragsluitende Staten elkaar op verzoek wederzijds bijstand te verlenen door elkaar gegevens te verstrekken of inzage in dossiers te geven. Wanneer het Europees Octrooibureau inzage van dossiers verleent aan de gerechtelijke instanties, Openbare Ministeries of centrale diensten voor de industriële eigendom is dit niet onderworpen aan de in [artikel 128](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=II&artikel=128&z=2024-04-01&g=2024-04-01) bedoelde beperkingen.
+1. Tenzij in dit Verdrag of in de nationale wetgevingen anders is bepaald, dienen het Europees Octrooibureau en de gerechtelijke of andere bevoegde instanties van de Verdragsluitende Staten elkaar op verzoek wederzijds bijstand te verlenen door elkaar gegevens te verstrekken of inzage in dossiers te geven. Wanneer het Europees Octrooibureau inzage van dossiers verleent aan de gerechtelijke instanties, Openbare Ministeries of centrale diensten voor de industriële eigendom is dit niet onderworpen aan de in [artikel 128](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=II&artikel=128&z=2024-12-16&g=2024-12-16) bedoelde beperkingen.
 
 2. De gerechtelijke of andere bevoegde instanties van de Verdragsluitende Staten gaan voor het Europees Octrooibureau, op diens rogatoire commissie, en voor zover hun bevoegdheden zulks toelaten, over tot maatregelen voor het verkrijgen van bewijs en tot andere gerechtelijke handelingen.
 
@@ -1244,7 +1244,7 @@ Het Europees Octrooibureau publiceert regelmatig:
 
 1. De centrale dienst voor de industriële eigendom van een aangewezen Verdragsluitende Staat stelt de procedure tot verlening van een nationaal octrooi in op verzoek van de aanvrager of van de houder van een Europees octrooi in de volgende gevallen:
 
-- a. indien de Europese octrooiaanvrage wordt geacht te zijn ingetrokken ingevolge [artikel 77, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=77&z=2024-04-01&g=2024-04-01);
+- a. indien de Europese octrooiaanvrage wordt geacht te zijn ingetrokken ingevolge [artikel 77, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=77&z=2024-12-16&g=2024-12-16);
 
 - b. in de andere door de nationale wetgeving bepaalde gevallen waarin op grond van dit Verdrag de Europese octrooiaanvrage is afgewezen, ingetrokken of wordt geacht te zijn ingetrokken of het Europees octrooi herroepen is.
 
@@ -1260,7 +1260,7 @@ Vervallen
 
 ##### Artikel 137. Vormvoorschriften voor de omzetting
 
-1. Een Europese octrooiaanvrage die is doorgezonden in overeenstemming met [artikel 135, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VIII&hoofdstuk=I&artikel=135&z=2024-04-01&g=2024-04-01), mag niet onderworpen worden aan vormvoorschriften van het nationale recht die afwijken van of een aanvulling betekenen op de in dit Verdrag vastgestelde bepalingen.
+1. Een Europese octrooiaanvrage die is doorgezonden in overeenstemming met [artikel 135, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VIII&hoofdstuk=I&artikel=135&z=2024-12-16&g=2024-12-16), mag niet onderworpen worden aan vormvoorschriften van het nationale recht die afwijken van of een aanvulling betekenen op de in dit Verdrag vastgestelde bepalingen.
 
 2. De centrale dienst voor de industriële eigendom waarnaar de Europese octrooiaanvrage is doorgezonden, kan eisen dat de aanvrager binnen een termijn van ten minste twee maanden:
 
@@ -1278,11 +1278,11 @@ Vervallen
 
 - b. het Europees octrooi de uitvinding niet zodanig duidelijk en volledig openbaart, dat zij door de vakman kan worden toegepast;
 
-- c. het onderwerp van het Europees octrooi niet gedekt wordt door de inhoud van de aanvrage zoals die is ingediend of, indien het octrooi is verleend op een afgesplitste aanvrage of op een nieuwe aanvrage die is ingediend overeenkomstig [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=II&artikel=61&z=2024-04-01&g=2024-04-01), niet gedekt wordt door de inhoud van de eerdere aanvrage zoals die is ingediend;
+- c. het onderwerp van het Europees octrooi niet gedekt wordt door de inhoud van de aanvrage zoals die is ingediend of, indien het octrooi is verleend op een afgesplitste aanvrage of op een nieuwe aanvrage die is ingediend overeenkomstig [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=II&artikel=61&z=2024-12-16&g=2024-12-16), niet gedekt wordt door de inhoud van de eerdere aanvrage zoals die is ingediend;
 
 - d. de beschermingsomvang van het Europees octrooi is uitgebreid; of
 
-- e. de houder van het Europees octrooi niet de rechthebbende op het octrooi is ingevolge [artikel 60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=II&artikel=60&z=2024-04-01&g=2024-04-01).
+- e. de houder van het Europees octrooi niet de rechthebbende op het octrooi is ingevolge [artikel 60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=II&artikel=60&z=2024-12-16&g=2024-12-16).
 
 2. Indien de nietigheidsgronden het Europees octrooi slechts gedeeltelijk aantasten, wordt het octrooi beperkt door een dienovereenkomstige wijziging van de conclusies en gedeeltelijk nietig verklaard.
 
@@ -1300,11 +1300,11 @@ Vervallen
 
 ##### Artikel 140. Nationale gebruiksmodellen en gebruikscertificaten
 
-De [artikelen 66](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=III&artikel=66&z=2024-04-01&g=2024-04-01), [124](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=I&artikel=124&z=2024-04-01&g=2024-04-01), [135](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VIII&hoofdstuk=I&artikel=135&z=2024-04-01&g=2024-04-01), [137](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VIII&hoofdstuk=I&artikel=137&z=2024-04-01&g=2024-04-01) en [139](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VIII&hoofdstuk=II&artikel=139&z=2024-04-01&g=2024-04-01) zijn van toepassing op gebruiksmodellen en gebruikscertificaten alsmede op aanvragen voor gebruiksmodellen en gebruikscertificaten die zijn ingeschreven of gedeponeerd in de Verdragsluitende Staten waar de wetgeving in deze vormen van bescherming voorziet.
+De [artikelen 66](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=III&artikel=66&z=2024-12-16&g=2024-12-16), [124](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=I&artikel=124&z=2024-12-16&g=2024-12-16), [135](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VIII&hoofdstuk=I&artikel=135&z=2024-12-16&g=2024-12-16), [137](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VIII&hoofdstuk=I&artikel=137&z=2024-12-16&g=2024-12-16) en [139](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VIII&hoofdstuk=II&artikel=139&z=2024-12-16&g=2024-12-16) zijn van toepassing op gebruiksmodellen en gebruikscertificaten alsmede op aanvragen voor gebruiksmodellen en gebruikscertificaten die zijn ingeschreven of gedeponeerd in de Verdragsluitende Staten waar de wetgeving in deze vormen van bescherming voorziet.
 
 ##### Artikel 141. Jaartaksen voor Europees octrooien
 
-1. De jaartaksen voor het Europees octrooi kunnen slechts worden geheven voor de jaren volgende op het jaar bedoeld in [artikel 86, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=86&z=2024-04-01&g=2024-04-01).
+1. De jaartaksen voor het Europees octrooi kunnen slechts worden geheven voor de jaren volgende op het jaar bedoeld in [artikel 86, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=86&z=2024-12-16&g=2024-12-16).
 
 2. Indien de jaartaksen verschuldigd zijn binnen twee maanden nadat de vermelding van de verlening van het Europees octrooi in het Europees Octrooiblad is gepubliceerd, worden deze jaartaksen geacht rechtsgeldig te zijn betaald als zij binnen die termijn zijn betaald. Een onder nationale wetgeving voorziene verhoging van de taksen wordt niet geheven.
 
@@ -1320,25 +1320,25 @@ De [artikelen 66](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofds
 
 1. De groep Verdragsluitende Staten kan het Europees Octrooibureau aanvullende taken opdragen.
 
-2. Ter uitvoering van die aanvullende taken kunnen binnen het Europees Octrooibureau voor de tot die groep behorende Staten gemeenschappelijke bijzondere organen worden ingesteld. De leiding van deze bijzondere organen berust bij de President van het Europees Octrooibureau; [artikel 10, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=III&artikel=10&z=2024-04-01&g=2024-04-01), is van overeenkomstige toepassing.
+2. Ter uitvoering van die aanvullende taken kunnen binnen het Europees Octrooibureau voor de tot die groep behorende Staten gemeenschappelijke bijzondere organen worden ingesteld. De leiding van deze bijzondere organen berust bij de President van het Europees Octrooibureau; [artikel 10, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=III&artikel=10&z=2024-12-16&g=2024-12-16), is van overeenkomstige toepassing.
 
 ##### Artikel 144. Vertegenwoordiging voor de bijzondere organen
 
-De groep Verdragsluitende Staten kan een bijzondere regeling vaststellen voor de vertegenwoordiging van partijen voor de organen bedoeld in [artikel 143, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IX&artikel=143&z=2024-04-01&g=2024-04-01).
+De groep Verdragsluitende Staten kan een bijzondere regeling vaststellen voor de vertegenwoordiging van partijen voor de organen bedoeld in [artikel 143, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IX&artikel=143&z=2024-12-16&g=2024-12-16).
 
 ##### Artikel 145. Beperkte Commissie van de Raad van Bestuur
 
-1. De groep Verdragsluitende Staten kan een Beperkte Commissie van de Raad van Bestuur instellen voor toezicht op de werkzaamheden van de ingevolge [artikel 143, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IX&artikel=143&z=2024-04-01&g=2024-04-01), ingestelde bijzondere organen; het Europees Octrooibureau stelt deze Commissie het personeel, de accommodatie en het materiaal ter beschikking, dat voor de uitvoering van haar taak benodigd is. De President van het Europees Octrooibureau dient ten overstaan van de Beperkte Commissie van de Raad van Bestuur verantwoording af te leggen voor de werkzaamheden van de bijzondere organen.
+1. De groep Verdragsluitende Staten kan een Beperkte Commissie van de Raad van Bestuur instellen voor toezicht op de werkzaamheden van de ingevolge [artikel 143, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IX&artikel=143&z=2024-12-16&g=2024-12-16), ingestelde bijzondere organen; het Europees Octrooibureau stelt deze Commissie het personeel, de accommodatie en het materiaal ter beschikking, dat voor de uitvoering van haar taak benodigd is. De President van het Europees Octrooibureau dient ten overstaan van de Beperkte Commissie van de Raad van Bestuur verantwoording af te leggen voor de werkzaamheden van de bijzondere organen.
 
 2. De samenstelling, de bevoegdheden en de werkzaamheden van de Beperkte Commissie worden bepaald door de groep Verdragsluitende Staten.
 
 ##### Artikel 146. Dekking van de kosten voor het uitvoeren van de bijzondere taken
 
-Indien aan het Europees Octrooibureau aanvullende taken zijn opgedragen op grond van[artikel 143](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IX&artikel=143&z=2024-04-01&g=2024-04-01), komen de kosten die voor de Organisatie zijn ontstaan in verband met de uitvoering van die taken ten laste van de groep Verdragsluitende Staten. Indien binnen het Europees Octrooibureau bijzondere organen zijn ingesteld voor de uitvoering van die aanvullende taken, komen de voor deze organen te maken kosten met betrekking tot personeel, accommodatie en materiaal voor rekening van de groep Verdragsluitende Staten. De [artikelen 39, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=V&artikel=39&z=2024-04-01&g=2024-04-01), [41](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=V&artikel=41&z=2024-04-01&g=2024-04-01) en [47](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=II&artikel=47&z=2024-04-01&g=2024-04-01) zijn van overeenkomstige toepassing.
+Indien aan het Europees Octrooibureau aanvullende taken zijn opgedragen op grond van[artikel 143](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IX&artikel=143&z=2024-12-16&g=2024-12-16), komen de kosten die voor de Organisatie zijn ontstaan in verband met de uitvoering van die taken ten laste van de groep Verdragsluitende Staten. Indien binnen het Europees Octrooibureau bijzondere organen zijn ingesteld voor de uitvoering van die aanvullende taken, komen de voor deze organen te maken kosten met betrekking tot personeel, accommodatie en materiaal voor rekening van de groep Verdragsluitende Staten. De [artikelen 39, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=V&artikel=39&z=2024-12-16&g=2024-12-16), [41](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=V&artikel=41&z=2024-12-16&g=2024-12-16) en [47](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=II&artikel=47&z=2024-12-16&g=2024-12-16) zijn van overeenkomstige toepassing.
 
 ##### Artikel 147. Betalingen van jaartaksen voor eenheidsoctrooien
 
-Indien de groep Verdragsluitende Staten voor de jaartaksen een eenheidstarief heeft vastgesteld, wordt het percentage, bedoeld in [artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=V&artikel=39&z=2024-04-01&g=2024-04-01), berekend aan de hand van dit eenheidstarief; het in artikel 39, eerste lid, bedoelde minimumbedrag is eveneens het minimumbedrag voor het eenheidsoctrooi. Artikel 39, derde en vierde lid, is van overeenkomstige toepassing.
+Indien de groep Verdragsluitende Staten voor de jaartaksen een eenheidstarief heeft vastgesteld, wordt het percentage, bedoeld in [artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=V&artikel=39&z=2024-12-16&g=2024-12-16), berekend aan de hand van dit eenheidstarief; het in artikel 39, eerste lid, bedoelde minimumbedrag is eveneens het minimumbedrag voor het eenheidsoctrooi. Artikel 39, derde en vierde lid, is van overeenkomstige toepassing.
 
 ##### Artikel 148. De Europese Octrooiaanvrage als deel van het vermogen
 
@@ -1350,7 +1350,7 @@ Indien de groep Verdragsluitende Staten voor de jaartaksen een eenheidstarief he
 
 1. De groep Verdragsluitende Staten kan bepalen dat deze Staten slechts gezamenlijk kunnen worden aangewezen en dat de aanwijzing van een of meer Staten van deze groep geldt als aanwijzing van al deze Staten.
 
-2. Wanneer het Europees Octrooibureau optreedt als aangewezen bureau in de zin van [artikel 153, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=X&artikel=153&z=2024-04-01&g=2024-04-01), is het voorgaande lid van toepassing indien de aanvrager in de internationale aanvrage heeft medegedeeld dat hij een Europees octrooi wenst voor een of meer aangewezen Staten van de groep. Deze bepaling is eveneens van toepassing, indien de aanvrager in de internationale aanvrage een van de Verdragsluitende Staten heeft aangewezen die tot deze groep behoort, waarvan de nationale wetgeving bepaalt dat een aanwijzing van die Staat de gevolgen heeft van een aanvrage om een Europees octrooi.
+2. Wanneer het Europees Octrooibureau optreedt als aangewezen bureau in de zin van [artikel 153, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=X&artikel=153&z=2024-12-16&g=2024-12-16), is het voorgaande lid van toepassing indien de aanvrager in de internationale aanvrage heeft medegedeeld dat hij een Europees octrooi wenst voor een of meer aangewezen Staten van de groep. Deze bepaling is eveneens van toepassing, indien de aanvrager in de internationale aanvrage een van de Verdragsluitende Staten heeft aangewezen die tot deze groep behoort, waarvan de nationale wetgeving bepaalt dat een aanwijzing van die Staat de gevolgen heeft van een aanvrage om een Europees octrooi.
 
 ## DEEL TIENDE. INTERNATIONALE AANVRAGE IN DE ZIN VAN HET VERDRAG TOT SAMENWERKING INZAKE OCTROOIEN
 
@@ -1362,7 +1362,7 @@ Indien de groep Verdragsluitende Staten voor de jaartaksen een eenheidstarief he
 
 ##### Artikel 151. Het Europees Octrooibureau als ontvangend bureau
 
-Het Europees Octrooibureau treedt op als ontvangend bureau in de zin van het [PCT](onbekend) in overeenstemming met het Uitvoeringsreglement. [Artikel 75, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=75&z=2024-04-01&g=2024-04-01), is van toepassing.
+Het Europees Octrooibureau treedt op als ontvangend bureau in de zin van het [PCT](onbekend) in overeenstemming met het Uitvoeringsreglement. [Artikel 75, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=75&z=2024-12-16&g=2024-12-16), is van toepassing.
 
 ##### Artikel 152. Het Europees Octrooibureau als Instantie voor Internationaal Nieuwheidsonderzoek of Instantie voor Internationale Voorlopige Beoordeling
 
@@ -1380,9 +1380,9 @@ Het Europees Octrooibureau treedt op als Instantie voor Internationaal Nieuwheid
 
 3. De internationale publicatie van een Euro-PCT-aanvrage in een officiële taal van het Europees Octrooibureau vervangt de publicatie van de Europese octrooiaanvrage en wordt vermeld in het Europees Octrooiblad.
 
-4. Indien de Euro-PCT-aanvrage in een andere taal gepubliceerd is, dient een vertaling in een van de officiële talen te worden ingediend bij het Europees Octrooibureau die deze zal publiceren. Behoudens [artikel 67, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=III&artikel=67&z=2024-04-01&g=2024-04-01), treedt de voorlopige bescherming, bedoeld in artikel 67, eerste en tweede lid, pas in vanaf de datum van deze publicatie.
+4. Indien de Euro-PCT-aanvrage in een andere taal gepubliceerd is, dient een vertaling in een van de officiële talen te worden ingediend bij het Europees Octrooibureau die deze zal publiceren. Behoudens [artikel 67, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=III&artikel=67&z=2024-12-16&g=2024-12-16), treedt de voorlopige bescherming, bedoeld in artikel 67, eerste en tweede lid, pas in vanaf de datum van deze publicatie.
 
-5. De Euro-PCT-aanvrage wordt behandeld als een Europese octrooiaanvrage en geldt als behorend tot de stand van de techniek in de zin van [artikel 54, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=I&artikel=54&z=2024-04-01&g=2024-04-01), indien aan de in het derde of vierde lid en in het Uitvoeringsreglement vastgestelde voorwaarden is voldaan.
+5. De Euro-PCT-aanvrage wordt behandeld als een Europese octrooiaanvrage en geldt als behorend tot de stand van de techniek in de zin van [artikel 54, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=I&artikel=54&z=2024-12-16&g=2024-12-16), indien aan de in het derde of vierde lid en in het Uitvoeringsreglement vastgestelde voorwaarden is voldaan.
 
 6. Het verslag van het internationaal nieuwheidsonderzoek dat is opgesteld ten aanzien van een Euro-PCT-aanvrage of de vervangende verklaring ervan en hun internationale publicatie, treden in de plaats van het verslag van het Europees nieuwheidsonderzoek en de vermelding van de publicatie ervan in het Europees Octrooiblad.
 
@@ -1448,11 +1448,11 @@ Vervallen
 
 1. Dit Verdrag staat open voor toetreding door:
 
-- a. de Staten bedoeld in [artikel 165, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=XII&artikel=165&z=2024-04-01&g=2024-04-01);
+- a. de Staten bedoeld in [artikel 165, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=XII&artikel=165&z=2024-12-16&g=2024-12-16);
 
 - b. elke andere Europese Staat op uitnodiging van de Raad van Bestuur.
 
-2. Elke Staat die partij is geweest bij dit Verdrag en die ingevolge [artikel 172, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=XII&artikel=172&z=2024-04-01&g=2024-04-01), geen partij meer is, kan opnieuw partij bij dit Verdrag worden door toetreding.
+2. Elke Staat die partij is geweest bij dit Verdrag en die ingevolge [artikel 172, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=XII&artikel=172&z=2024-12-16&g=2024-12-16), geen partij meer is, kan opnieuw partij bij dit Verdrag worden door toetreding.
 
 3. De akten van toetreding worden nedergelegd bij de Regering van de Bondsrepubliek Duitsland.
 
@@ -1478,7 +1478,7 @@ Vervallen
 
 1. Elke Staat die dit Verdrag bekrachtigt of hiertoe toetreedt nadat het in werking is getreden, betaalt aan de Organisatie een aanvangsbijdrage die niet wordt terugbetaald.
 
-2. De aanvangsbijdrage is gelijk aan vijf procent van het bedrag dat voor de desbetreffende Staat wordt gevonden door de in [artikel 40, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=V&artikel=40&z=2024-04-01&g=2024-04-01), bedoelde verdeelsleutel voor de bijzondere financiële bijdragen, zoals die geldt op de datum waarop de bekrachtiging of de toetreding van die Staat van kracht wordt, toe te passen op het totale bedrag van de bijzondere financiële bijdragen die de andere Verdragsluitende Staten verschuldigd waren voor de begrotingsjaren voorafgaand aan de bedoelde datum.
+2. De aanvangsbijdrage is gelijk aan vijf procent van het bedrag dat voor de desbetreffende Staat wordt gevonden door de in [artikel 40, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=V&artikel=40&z=2024-12-16&g=2024-12-16), bedoelde verdeelsleutel voor de bijzondere financiële bijdragen, zoals die geldt op de datum waarop de bekrachtiging of de toetreding van die Staat van kracht wordt, toe te passen op het totale bedrag van de bijzondere financiële bijdragen die de andere Verdragsluitende Staten verschuldigd waren voor de begrotingsjaren voorafgaand aan de bedoelde datum.
 
 3. Indien voor het begrotingsjaar dat onmiddellijk voorafgaat aan de datum bedoeld in het tweede lid, geen bijzondere financiële bijdragen zijn geheven, geldt als de in het tweede lid bedoelde verdeelsleutel de verdeelsleutel, die voor de desbetreffende Staat van toepassing zou zijn geweest voor het laatste begrotingsjaar waarvoor wel bijzondere financiële bijdragen zijn geheven.
 
@@ -1508,7 +1508,7 @@ Elke Verdragsluitende Staat kan dit Verdrag te allen tijde opzeggen. De opzeggin
 
 ##### Artikel 175. Handhaving van verworven rechten
 
-1. Wanneer een Staat ophoudt partij te zijn bij dit Verdrag ingevolge [artikel 172, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=XII&artikel=172&z=2024-04-01&g=2024-04-01), of [artikel 174](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=XII&artikel=174&z=2024-04-01&g=2024-04-01), worden de op grond van dit Verdrag inmiddels verworven rechten niet aangetast.
+1. Wanneer een Staat ophoudt partij te zijn bij dit Verdrag ingevolge [artikel 172, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=XII&artikel=172&z=2024-12-16&g=2024-12-16), of [artikel 174](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=XII&artikel=174&z=2024-12-16&g=2024-12-16), worden de op grond van dit Verdrag inmiddels verworven rechten niet aangetast.
 
 2. De Europese octrooiaanvragen die op het tijdstip waarop een aangewezen Staat ophoudt Partij te zijn bij het Verdrag aanhangig zijn, worden ten aanzien van die Staat door het Europees Octrooibureau verder behandeld alsof het Verdrag, zoals dat na die datum van kracht is, voor die Staat van toepassing zou zijn.
 
@@ -1518,9 +1518,9 @@ Elke Verdragsluitende Staat kan dit Verdrag te allen tijde opzeggen. De opzeggin
 
 ##### Artikel 176. Financiële rechten en verplichtingen van een voormalige Verdragsluitende Staat
 
-1. Elke Staat die ingevolge artikel 172, vierde lid, of [artikel 174](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=XII&artikel=174&z=2024-04-01&g=2024-04-01) niet langer partij is bij dit Verdrag, ontvangt van de Organisatie de bijzondere financiële bijdragen die hij betaald heeft ingevolge [artikel 40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=V&artikel=40&z=2024-04-01&g=2024-04-01), niet eerder terug dan de datum waarop en onder de voorwaarden waaronder de Organisatie de bijzondere financiële bijdragen terugbetaalt die haar zijn betaald door andere Staten tijdens hetzelfde begrotingsjaar.
+1. Elke Staat die ingevolge artikel 172, vierde lid, of [artikel 174](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=XII&artikel=174&z=2024-12-16&g=2024-12-16) niet langer partij is bij dit Verdrag, ontvangt van de Organisatie de bijzondere financiële bijdragen die hij betaald heeft ingevolge [artikel 40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=V&artikel=40&z=2024-12-16&g=2024-12-16), niet eerder terug dan de datum waarop en onder de voorwaarden waaronder de Organisatie de bijzondere financiële bijdragen terugbetaalt die haar zijn betaald door andere Staten tijdens hetzelfde begrotingsjaar.
 
-2. De in het eerste lid bedoelde Staat is, zelfs wanneer hij niet langer partij is bij dit Verdrag, gehouden tot betaling van het in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=V&artikel=39&z=2024-04-01&g=2024-04-01) aangegeven deel van de jaartaksen met betrekking tot Europese octrooien die van kracht blijven in die Staat tegen het tarief dat gold op de datum waarop hij niet langer partij was bij dit Verdrag.
+2. De in het eerste lid bedoelde Staat is, zelfs wanneer hij niet langer partij is bij dit Verdrag, gehouden tot betaling van het in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=V&artikel=39&z=2024-12-16&g=2024-12-16) aangegeven deel van de jaartaksen met betrekking tot Europese octrooien die van kracht blijven in die Staat tegen het tarief dat gold op de datum waarop hij niet langer partij was bij dit Verdrag.
 
 ##### Artikel 177. Talen van het Verdrag
 
@@ -1536,9 +1536,9 @@ Elke Verdragsluitende Staat kan dit Verdrag te allen tijde opzeggen. De opzeggin
 
 - a. de nederlegging van elke akte van bekrachtiging of van toetreding;
 
-- b. elke verklaring of mededeling ontvangen op grond van [artikel 168](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=XII&artikel=168&z=2024-04-01&g=2024-04-01);
+- b. elke verklaring of mededeling ontvangen op grond van [artikel 168](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=XII&artikel=168&z=2024-12-16&g=2024-12-16);
 
-- c. elke opzegging ontvangen op grond van [artikel 174](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=XII&artikel=174&z=2024-04-01&g=2024-04-01) en van de datum waarop de opzegging van kracht wordt.
+- c. elke opzegging ontvangen op grond van [artikel 174](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=XII&artikel=174&z=2024-12-16&g=2024-12-16) en van de datum waarop de opzegging van kracht wordt.
 
 3. De Regering van de Bondsrepubliek Duitsland laat dit Verdrag registreren bij het Secretariaat van de Verenigde Naties.
 
@@ -2238,7 +2238,7 @@ Regel 49, eerste en tweede lid, is van overeenkomstige toepassing op het nieuwe 
 
 ##### Regel 62a. Aanvragen met meerdere onafhankelijke conclusies
 
-1. Indien het Europees Octrooibureau oordeelt dat de ingediende conclusies niet voldoen aan [regel 43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=II&artikel=43&z=2024-04-01&g=2024-04-01), verzoekt het de aanvrager binnen een termijn van twee maanden de conclusies aan te geven die voldoen aan regel 43, tweede lid, op basis waarvan het nieuwheidsonderzoek dient te worden verricht. Indien de aanvrager nalaat dit tijdig aan te geven, wordt het nieuwheidsonderzoek uitgevoerd op basis van de eerste conclusie van elke categorie.
+1. Indien het Europees Octrooibureau oordeelt dat de ingediende conclusies niet voldoen aan [regel 43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=II&artikel=43&z=2024-12-16&g=2024-12-16), verzoekt het de aanvrager binnen een termijn van twee maanden de conclusies aan te geven die voldoen aan regel 43, tweede lid, op basis waarvan het nieuwheidsonderzoek dient te worden verricht. Indien de aanvrager nalaat dit tijdig aan te geven, wordt het nieuwheidsonderzoek uitgevoerd op basis van de eerste conclusie van elke categorie.
 
 2. De onderzoeksafdeling verzoekt de aanvrager de conclusies tot het onderzochte onderwerp te beperken, tenzij zij vaststelt dat het bezwaar bedoeld in het eerste lid ongegrond was.
 
@@ -3046,7 +3046,7 @@ Indien het Europees octrooi is beperkt ingevolge artikel 105b, tweede lid, publi
 
 2. Het verzoek kan alleen worden ingediend op de gronden dat:
 
-- a. een lid van de kamer van beroep in strijd met [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=III&artikel=24&z=2024-04-01&g=2024-04-01), deelnam aan de beslissing of ondanks het feit dat hij was uitgesloten op grond van een beslissing ingevolge artikel 24, vierde lid;
+- a. een lid van de kamer van beroep in strijd met [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=III&artikel=24&z=2024-12-16&g=2024-12-16), deelnam aan de beslissing of ondanks het feit dat hij was uitgesloten op grond van een beslissing ingevolge artikel 24, vierde lid;
 
 - b. de kamer van beroep een persoon omvatte die niet was benoemd als lid van de kamers van beroep;
 
@@ -3136,7 +3136,7 @@ In een schriftelijke procedure voor het Europees Octrooibureau is voldaan aan de
 
 ##### Regel 3. Taal in schriftelijke procedures
 
-1. In een schriftelijke procedure voor het Europees Octrooibureau kan elke partij elke officiële taal van het Europees Octrooibureau gebruiken. De in [artikel 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=III&artikel=14&z=2024-04-01&g=2024-04-01), bedoelde vertaling kan worden ingediend in elke officiële taal van het Europees Octrooibureau.
+1. In een schriftelijke procedure voor het Europees Octrooibureau kan elke partij elke officiële taal van het Europees Octrooibureau gebruiken. De in [artikel 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=III&artikel=14&z=2024-12-16&g=2024-12-16), bedoelde vertaling kan worden ingediend in elke officiële taal van het Europees Octrooibureau.
 
 2. Wijzigingen van de Europese octrooiaanvrage of het Europees octrooi dienen in de procestaal te worden ingediend.
 
@@ -3162,13 +3162,13 @@ Indien de vertaling van een stuk is vereist, kan het Europees Octrooibureau eise
 
 ##### Regel 6. Indiening van vertalingen
 
-1. De vertaling bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=III&artikel=14&z=2024-04-01&g=2024-04-01), dient te worden ingediend binnen twee maanden na de indiening van de Europese octrooiaanvrage.
+1. De vertaling bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=III&artikel=14&z=2024-12-16&g=2024-12-16), dient te worden ingediend binnen twee maanden na de indiening van de Europese octrooiaanvrage.
 
-2. De vertaling bedoeld in [artikel 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=III&artikel=14&z=2024-04-01&g=2024-04-01), dient te worden ingediend binnen een maand na de indiening van het stuk. Dit is eveneens van toepassing op verzoeken ingevolge [artikel 105a](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=V&artikel=105a&z=2024-04-01&g=2024-04-01). Indien dit stuk een bezwaarschrift, een beroepschrift, een memorie met de gronden van het beroep of een verzoek om herziening is, kan de vertaling worden ingediend binnen de oppositie- of beroepstermijn, de termijn voor de indiening van de memorie met de gronden van het beroep of de termijn voor het verzoek om herziening, indien deze termijn later verstrijkt.
+2. De vertaling bedoeld in [artikel 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=III&artikel=14&z=2024-12-16&g=2024-12-16), dient te worden ingediend binnen een maand na de indiening van het stuk. Dit is eveneens van toepassing op verzoeken ingevolge [artikel 105a](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=V&artikel=105a&z=2024-12-16&g=2024-12-16). Indien dit stuk een bezwaarschrift, een beroepschrift, een memorie met de gronden van het beroep of een verzoek om herziening is, kan de vertaling worden ingediend binnen de oppositie- of beroepstermijn, de termijn voor de indiening van de memorie met de gronden van het beroep of de termijn voor het verzoek om herziening, indien deze termijn later verstrijkt.
 
 ##### Regel 7. Rechtskracht van de vertaling van de Europese octrooiaanvrage
 
-Tenzij het tegendeel wordt bewezen, gaat het Europees Octrooibureau, bij het bepalen of het onderwerp van de Europese octrooiaanvrage of van het Europees octrooi gedekt wordt door de inhoud van de aanvrage zoals die is ingediend, er vanuit dat de ingevolge [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=III&artikel=14&z=2024-04-01&g=2024-04-01), of [regel 40, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=40&z=2024-04-01&g=2024-04-01), ingediende vertaling in overeenstemming is met de oorspronkelijke tekst van de aanvrage.
+Tenzij het tegendeel wordt bewezen, gaat het Europees Octrooibureau, bij het bepalen of het onderwerp van de Europese octrooiaanvrage of van het Europees octrooi gedekt wordt door de inhoud van de aanvrage zoals die is ingediend, er vanuit dat de ingevolge [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=III&artikel=14&z=2024-12-16&g=2024-12-16), of [regel 40, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=40&z=2024-12-16&g=2024-12-16), ingediende vertaling in overeenstemming is met de oorspronkelijke tekst van de aanvrage.
 
 ### AFDELING 1. ALGEMENE BEPALINGEN
 
@@ -5132,9 +5132,9 @@ Het Europees Octrooibureau stelt tegelijk met het opstellen van het verslag van 
 
 ##### Regel 70a. Reactie op het uitgebreide verslag van het europees nieuwheidsonderzoek
 
-1. In de opinie die het verslag van het Europees nieuwheidsonderzoek vergezelt, stelt het Europees Octrooibureau de aanvrager in de gelegenheid te reageren op het uitgebreide verslag van het Europees nieuwheidsonderzoek en verzoekt hem, in voorkomend geval, binnen de in [regel 70, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=III&artikel=70&z=2024-04-01&g=2024-04-01), bedoelde termijn de gebreken genoemd in de opinie die het verslag van het Europees nieuwheidsonderzoek vergezelt, op te heffen en de beschrijving, conclusies en tekeningen te wijzigen.
+1. In de opinie die het verslag van het Europees nieuwheidsonderzoek vergezelt, stelt het Europees Octrooibureau de aanvrager in de gelegenheid te reageren op het uitgebreide verslag van het Europees nieuwheidsonderzoek en verzoekt hem, in voorkomend geval, binnen de in [regel 70, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=III&artikel=70&z=2024-12-16&g=2024-12-16), bedoelde termijn de gebreken genoemd in de opinie die het verslag van het Europees nieuwheidsonderzoek vergezelt, op te heffen en de beschrijving, conclusies en tekeningen te wijzigen.
 
-2. In het geval bedoeld in [regel 70, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=III&artikel=70&z=2024-04-01&g=2024-04-01), of indien naar aanleiding van een Euro-PCT-aanvrage een aanvullend verslag van het Europees nieuwheidsonderzoek is opgesteld, stelt het Europees Octrooibureau de aanvrager in de gelegenheid te reageren op het uitgebreide verslag van het Europees nieuwheidsonderzoek en verzoekt hem, in voorkomend geval, binnen de termijn waarbinnen hij moet aangeven of hij de aanvrage wenst voort te zetten de eventuele gebreken genoemd in de opinie die het verslag van het Europees nieuwheidsonderzoek vergezelt, op te heffen en de beschrijving, conclusies en tekeningen te wijzigen.
+2. In het geval bedoeld in [regel 70, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=III&artikel=70&z=2024-12-16&g=2024-12-16), of indien naar aanleiding van een Euro-PCT-aanvrage een aanvullend verslag van het Europees nieuwheidsonderzoek is opgesteld, stelt het Europees Octrooibureau de aanvrager in de gelegenheid te reageren op het uitgebreide verslag van het Europees nieuwheidsonderzoek en verzoekt hem, in voorkomend geval, binnen de termijn waarbinnen hij moet aangeven of hij de aanvrage wenst voort te zetten de eventuele gebreken genoemd in de opinie die het verslag van het Europees nieuwheidsonderzoek vergezelt, op te heffen en de beschrijving, conclusies en tekeningen te wijzigen.
 
 3. Indien de aanvrager geen gehoor geeft aan of niet reageert op de verzoeken overeenkomstig het eerste of tweede lid, wordt de aanvrage geacht te zijn ingetrokken.
 
@@ -6308,7 +6308,7 @@ DONE at Munich this fifth day of October one thousand nine hundred and seventy-t
 
 ##### Regel 70b. Verzoek om een afschrift van de uitkomsten van het nieuwheidsonderzoek
 
-1. Indien het Europees Octrooibureau, op het tijdstip waarop de onderzoeksafdeling de verantwoordelijkheid overneemt, vaststelt dat de aanvrager een afschrift bedoeld in [regel 141, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VIII&hoofdstuk=III&artikel=141&z=2024-04-01&g=2024-04-01), niet heeft ingediend of geacht wordt niet naar behoren overeenkomstig regel 141, tweede lid, te hebben ingediend, verzoekt het de aanvrager binnen een termijn van twee maanden het afschrift of een verklaring dat hij niet beschikt over de uitkomsten van het onderzoek bedoeld in regel 141, eerste lid, in te dienen.
+1. Indien het Europees Octrooibureau, op het tijdstip waarop de onderzoeksafdeling de verantwoordelijkheid overneemt, vaststelt dat de aanvrager een afschrift bedoeld in [regel 141, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VIII&hoofdstuk=III&artikel=141&z=2024-12-16&g=2024-12-16), niet heeft ingediend of geacht wordt niet naar behoren overeenkomstig regel 141, tweede lid, te hebben ingediend, verzoekt het de aanvrager binnen een termijn van twee maanden het afschrift of een verklaring dat hij niet beschikt over de uitkomsten van het onderzoek bedoeld in regel 141, eerste lid, in te dienen.
 
 2. Indien de aanvrager niet tijdig gevolg geeft aan het verzoek overeenkomstig het eerste lid, wordt de Europese octrooiaanvrage geacht te zijn ingetrokken.
 
@@ -7424,11 +7424,11 @@ DONE at Munich this fifth day of October one thousand nine hundred and seventy-t
 
 2. Tot de beslissing tot verlening van het Europese octrooi kan de onderzoeksafdeling de onderzoekprocedure te allen tijde hervatten.
 
-3. Indien de aanwijzingstaks na de mededeling bedoeld in [regel 71, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=IV&artikel=71&z=2024-04-01&g=2024-04-01), is verschuldigd, wordt de vermelding van de verlening van het Europees octrooi pas gepubliceerd nadat de aanwijzingstaks is betaald. De aanvrager wordt daarvan in kennis gesteld.
+3. Indien de aanwijzingstaks na de mededeling bedoeld in [regel 71, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=IV&artikel=71&z=2024-12-16&g=2024-12-16), is verschuldigd, wordt de vermelding van de verlening van het Europees octrooi pas gepubliceerd nadat de aanwijzingstaks is betaald. De aanvrager wordt daarvan in kennis gesteld.
 
-4. Indien een jaartaks na de mededeling bedoeld in [regel 71, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=IV&artikel=71&z=2024-04-01&g=2024-04-01), en voor de eerstvolgende mogelijke datum van publicatie van de verlening van het Europees octrooi is verschuldigd, wordt de vermelding pas gepubliceerd nadat de jaartaks is betaald. De aanvrager wordt daarvan in kennis gesteld.
+4. Indien een jaartaks na de mededeling bedoeld in [regel 71, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=IV&artikel=71&z=2024-12-16&g=2024-12-16), en voor de eerstvolgende mogelijke datum van publicatie van de verlening van het Europees octrooi is verschuldigd, wordt de vermelding pas gepubliceerd nadat de jaartaks is betaald. De aanvrager wordt daarvan in kennis gesteld.
 
-5. Indien de aanvrager, naar aanleiding van een verzoek overeenkomstig [regel 71, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=IV&artikel=71&z=2024-04-01&g=2024-04-01), de taks voor verlening en publicatie of de conclusietaksen reeds heeft betaald, wordt het betaalde bedrag in mindering gebracht indien een dergelijk verzoek opnieuw wordt gedaan.
+5. Indien de aanvrager, naar aanleiding van een verzoek overeenkomstig [regel 71, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=IV&artikel=71&z=2024-12-16&g=2024-12-16), de taks voor verlening en publicatie of de conclusietaksen reeds heeft betaald, wordt het betaalde bedrag in mindering gebracht indien een dergelijk verzoek opnieuw wordt gedaan.
 
 6. Indien de Europese octrooiaanvrage wordt afgewezen, ingetrokken voorafgaand aan de kennisgeving van de beslissing tot verlening van een Europees octrooi of op dat tijdstip wordt geacht te zijn ingetrokken, wordt de taks voor verlening en publicatie terugbetaald.
 
@@ -8566,13 +8566,13 @@ DONE at Munich this fifth day of October one thousand nine hundred and seventy-t
 
 ##### Regel 12a. Organisatie en leiding van de Kamers van Beroep Eenheid en President van de kamers van beroep
 
-1. De kamers van beroep en de Grote Kamer van beroep, met inbegrip van hun griffies en ondersteunende diensten, worden samengebracht in een afzonderlijk organisatieonderdeel (de „Kamers van Beroep Eenheid”) en wordt geleid door de President van de kamers van beroep. De voorzitter van de Grote Kamer van beroep oefent de functie President van de kamers van beroep uit. De President van de kamers van beroep wordt door de Raad van Bestuur benoemd op gezamenlijk voorstel van de ingevolge [Regel 12c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=II&afdeling=2&artikel=12c&z=2024-04-01&g=2024-04-01), ingestelde Commissie en de President van het Europees Octrooibureau. Bij afwezigheid of verhindering van de President van de kamers van beroep, neemt één van de leden van de Grote Kamer van beroep zijn plaats in, in overeenstemming met de door de Raad van Bestuur vastgestelde procedure.
+1. De kamers van beroep en de Grote Kamer van beroep, met inbegrip van hun griffies en ondersteunende diensten, worden samengebracht in een afzonderlijk organisatieonderdeel (de „Kamers van Beroep Eenheid”) en wordt geleid door de President van de kamers van beroep. De voorzitter van de Grote Kamer van beroep oefent de functie President van de kamers van beroep uit. De President van de kamers van beroep wordt door de Raad van Bestuur benoemd op gezamenlijk voorstel van de ingevolge [Regel 12c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=II&afdeling=2&artikel=12c&z=2024-12-16&g=2024-12-16), ingestelde Commissie en de President van het Europees Octrooibureau. Bij afwezigheid of verhindering van de President van de kamers van beroep, neemt één van de leden van de Grote Kamer van beroep zijn plaats in, in overeenstemming met de door de Raad van Bestuur vastgestelde procedure.
 
 2. De President van de kamers van beroep geeft leiding aan de Kamers van Beroep Eenheid en heeft daartoe de aan hem door de President van het Europees Octrooibureau gedelegeerde taken en bevoegdheden. In de uitoefening van de aan hem gedelegeerde taken en bevoegdheden is de President van de kamers van beroep uitsluitend verantwoording verschuldigd aan de Raad van Bestuur en is hij onderworpen aan het hiërarchisch en disciplinair toezicht daarvan.
 
-3. Onverminderd [artikel 10, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=III&artikel=10&z=2024-04-01&g=2024-04-01), en [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=V&artikel=46&z=2024-04-01&g=2024-04-01), stelt de President van de kamers van beroep een onderbouwd begrotingsvoorstel op voor de Kamers van Beroep Eenheid. Dit voorstel wordt bestudeerd door en besproken met de relevante afdelingen van het Europees Octrooibureau en door de President van de kamers van beroep voor advies voorgelegd aan de ingevolge [Regel 12c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=II&afdeling=2&artikel=12c&z=2024-04-01&g=2024-04-01), ingestelde Commissie, voordat het naar de President van het Europees Octrooibureau wordt verzonden om in aanmerking te worden genomen voor de jaarlijkse ontwerpbegroting. De President van het Europees Octrooibureau voorziet de President van de kamers van beroep van de benodigde middelen, zoals vervat in de aangenomen begroting.
+3. Onverminderd [artikel 10, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=III&artikel=10&z=2024-12-16&g=2024-12-16), en [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=V&artikel=46&z=2024-12-16&g=2024-12-16), stelt de President van de kamers van beroep een onderbouwd begrotingsvoorstel op voor de Kamers van Beroep Eenheid. Dit voorstel wordt bestudeerd door en besproken met de relevante afdelingen van het Europees Octrooibureau en door de President van de kamers van beroep voor advies voorgelegd aan de ingevolge [Regel 12c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=II&afdeling=2&artikel=12c&z=2024-12-16&g=2024-12-16), ingestelde Commissie, voordat het naar de President van het Europees Octrooibureau wordt verzonden om in aanmerking te worden genomen voor de jaarlijkse ontwerpbegroting. De President van het Europees Octrooibureau voorziet de President van de kamers van beroep van de benodigde middelen, zoals vervat in de aangenomen begroting.
 
-4. De President van het Europees Octrooibureau stelt de in [Regel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=II&afdeling=1&artikel=9&z=2024-04-01&g=2024-04-01), genoemde diensten ter beschikking van de President van de kamers van beroep, voor zover noodzakelijk en binnen de grenzen van de aangenomen begroting.
+4. De President van het Europees Octrooibureau stelt de in [Regel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=II&afdeling=1&artikel=9&z=2024-12-16&g=2024-12-16), genoemde diensten ter beschikking van de President van de kamers van beroep, voor zover noodzakelijk en binnen de grenzen van de aangenomen begroting.
 
 ##### Regel 12b. Presidium van de kamers van beroep en taakverdeling tussen de kamers van beroep
 
@@ -8584,7 +8584,7 @@ DONE at Munich this fifth day of October one thousand nine hundred and seventy-t
 
 - a. stelt het reglement voor de verkiezing en aanwijzing van zijn leden vast;
 
-- b. stelt, onverminderd de regelingen die in overeenstemming met [artikel 10, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=III&artikel=10&z=2024-04-01&g=2024-04-01), en [artikel 33, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=IV&artikel=33&z=2024-04-01&g=2024-04-01), zijn aangenomen, een gedragscode voor de leden en voorzitters van de kamers van beroep en van de Grote Kamer van beroep vast, die door de Raad van Bestuur dient te worden goedgekeurd;
+- b. stelt, onverminderd de regelingen die in overeenstemming met [artikel 10, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=III&artikel=10&z=2024-12-16&g=2024-12-16), en [artikel 33, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=IV&artikel=33&z=2024-12-16&g=2024-12-16), zijn aangenomen, een gedragscode voor de leden en voorzitters van de kamers van beroep en van de Grote Kamer van beroep vast, die door de Raad van Bestuur dient te worden goedgekeurd;
 
 - c. adviseert de President van de kamers van beroep over voorstellen tot wijziging van het reglement voor de procesvoering van de kamers van beroep en van de Grote Kamer van beroep;
 
@@ -8594,11 +8594,11 @@ DONE at Munich this fifth day of October one thousand nine hundred and seventy-t
 
 5. Het Presidium kan slechts rechtsgeldig beslissen indien ten minste vijf van zijn leden aanwezig zijn, onder wie in elk geval de President van de kamers van beroep of diens plaatsvervanger, alsmede de voorzitters van twee kamers van beroep. Indien het de taken genoemd in het vierde lid betreft, dienen negen leden aanwezig te zijn, onder wie in elk geval de President van de kamers van beroep of diens plaatsvervanger, alsmede de voorzitters van drie kamers van beroep. Besluiten worden genomen bij meerderheid van stemmen; indien de stemmen staken, geeft de stem van de voorzitter of diens plaatsvervanger de doorslag. Onthouding geldt niet als stem.
 
-6. De Raad van Bestuur kan aan de kamers van beroep bevoegdheden verlenen op grond van [artikel 134a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=III&artikel=134a&z=2024-04-01&g=2024-04-01).
+6. De Raad van Bestuur kan aan de kamers van beroep bevoegdheden verlenen op grond van [artikel 134a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=III&artikel=134a&z=2024-12-16&g=2024-12-16).
 
 ##### Regel 12c. Commissie Kamers van Beroep en procedure voor de aanneming van de reglementen voor de procesvoering van de kamers van beroep en van de Grote Kamer van beroep
 
-1. De Raad van Bestuur stelt een commissie in (de „Commissie Kamers van Beroep”) om hem en de President van de kamers van beroep te adviseren over de Kamers van Beroep Eenheid in het algemeen en om de reglementen voor de procesvoering van de kamers van beroep en van de Grote Kamer van beroep aan te nemen. De Commissie bestaat uit zes leden die door de Raad van Bestuur worden benoemd, van wie drie afkomstig zijn van de delegaties van de Verdragsluitende Staten in de zin van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=IV&artikel=26&z=2024-04-01&g=2024-04-01), en drie zittende of voormalige rechters zijn van internationale of Europese gerechtelijke instanties of van de nationale gerechtelijke instanties van de Verdragsluitende Staten. De President van het Europees Octrooibureau en de President van de kamers van beroep hebben het recht de bijeenkomsten van de Commissie bij te wonen. Nadere details, met name wat betreft de samenstelling van de Commissie, plaatsvervangende leden, werkafspraken en taken bij het adviseren van de Kamers van Beroep Eenheid, worden door de Raad van Bestuur bepaald in het besluit tot oprichting van de Commissie Kamers van Beroep.
+1. De Raad van Bestuur stelt een commissie in (de „Commissie Kamers van Beroep”) om hem en de President van de kamers van beroep te adviseren over de Kamers van Beroep Eenheid in het algemeen en om de reglementen voor de procesvoering van de kamers van beroep en van de Grote Kamer van beroep aan te nemen. De Commissie bestaat uit zes leden die door de Raad van Bestuur worden benoemd, van wie drie afkomstig zijn van de delegaties van de Verdragsluitende Staten in de zin van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=IV&artikel=26&z=2024-12-16&g=2024-12-16), en drie zittende of voormalige rechters zijn van internationale of Europese gerechtelijke instanties of van de nationale gerechtelijke instanties van de Verdragsluitende Staten. De President van het Europees Octrooibureau en de President van de kamers van beroep hebben het recht de bijeenkomsten van de Commissie bij te wonen. Nadere details, met name wat betreft de samenstelling van de Commissie, plaatsvervangende leden, werkafspraken en taken bij het adviseren van de Kamers van Beroep Eenheid, worden door de Raad van Bestuur bepaald in het besluit tot oprichting van de Commissie Kamers van Beroep.
 
 2. Op voorstel van de President van de kamers van beroep en nadat de President van het Europees Octrooibureau in de gelegenheid is gesteld commentaar te leveren, neemt de ingevolge het eerste lid ingestelde Commissie de reglementen voor de procesvoering van de kamers van beroep en van de Grote Kamer van beroep aan.
 
@@ -8606,9 +8606,9 @@ DONE at Munich this fifth day of October one thousand nine hundred and seventy-t
 
 1. De voorzitter van de Grote Kamer van beroep zal bij zijn benoeming tevens worden benoemd als rechtsgeleerd lid van de kamers van beroep.
 
-2. Na delegatie door de President van het Europees Octrooibureau oefent de President van de kamers van beroep het recht uit de leden, met inbegrip van de voorzitters, van de kamers van beroep en de leden van de Grote Kamer van beroep voor te dragen voor benoeming door de Raad van Bestuur, alsmede het recht te worden geraadpleegd over hun herbenoeming ([artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=III&artikel=11&z=2024-04-01&g=2024-04-01)) en over de benoeming en herbenoeming van externe rechtsgeleerde leden (artikel 11, vijfde lid).
+2. Na delegatie door de President van het Europees Octrooibureau oefent de President van de kamers van beroep het recht uit de leden, met inbegrip van de voorzitters, van de kamers van beroep en de leden van de Grote Kamer van beroep voor te dragen voor benoeming door de Raad van Bestuur, alsmede het recht te worden geraadpleegd over hun herbenoeming ([artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=III&artikel=11&z=2024-12-16&g=2024-12-16)) en over de benoeming en herbenoeming van externe rechtsgeleerde leden (artikel 11, vijfde lid).
 
-3. De President van de kamers van beroep oefent het recht uit te worden geraadpleegd bij herbenoemingen, zoals vervat in het tweede lid, door bij de Raad van Bestuur een met redenen omkleed oordeel, met inbegrip van een evaluatie van het functioneren van het betreffende lid of de betreffende voorzitter, in te dienen. De criteria voor de evaluatie van het functioneren worden door de President van de kamers van beroep vastgesteld in overleg met de ingevolge [Regel 12c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=II&afdeling=2&artikel=12c&z=2024-04-01&g=2024-04-01), ingestelde Commissie. Onder voorbehoud van een positief oordeel en een positieve evaluatie van het functioneren, en met inachtneming van het aantal posten ingevolge [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=III&artikel=11&z=2024-04-01&g=2024-04-01), dat beschikbaar is in de aangenomen begroting voor de Kamers van Beroep Eenheid, worden de leden, met inbegrip van de voorzitters, van de kamers van beroep en de leden van de Grote Kamer van beroep, herbenoemd aan het einde van hun termijn van vijf jaar voorzien in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=III&artikel=23&z=2024-04-01&g=2024-04-01).
+3. De President van de kamers van beroep oefent het recht uit te worden geraadpleegd bij herbenoemingen, zoals vervat in het tweede lid, door bij de Raad van Bestuur een met redenen omkleed oordeel, met inbegrip van een evaluatie van het functioneren van het betreffende lid of de betreffende voorzitter, in te dienen. De criteria voor de evaluatie van het functioneren worden door de President van de kamers van beroep vastgesteld in overleg met de ingevolge [Regel 12c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=II&afdeling=2&artikel=12c&z=2024-12-16&g=2024-12-16), ingestelde Commissie. Onder voorbehoud van een positief oordeel en een positieve evaluatie van het functioneren, en met inachtneming van het aantal posten ingevolge [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=III&artikel=11&z=2024-12-16&g=2024-12-16), dat beschikbaar is in de aangenomen begroting voor de Kamers van Beroep Eenheid, worden de leden, met inbegrip van de voorzitters, van de kamers van beroep en de leden van de Grote Kamer van beroep, herbenoemd aan het einde van hun termijn van vijf jaar voorzien in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=III&artikel=23&z=2024-12-16&g=2024-12-16).
 
 ##### Regel 13. Taakverdeling voor de Grote Kamer van beroep
 
@@ -10422,17 +10422,17 @@ DONE at Munich this fifth day of October one thousand nine hundred and seventy-t
 
 ##### Regel 56a. Abusievelijk ingediende stukken van de aanvrage of delen
 
-1. Indien bij het onderzoek bedoeld in [artikel 90, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&artikel=90&z=2024-04-01&g=2024-04-01), blijkt dat de beschrijving, de conclusies of de tekeningen, of delen van deze stukken van de aanvrage abusievelijk lijken te zijn ingediend, verzoekt het Europees Octrooibureau de aanvrager de juiste stukken van de aanvrage of delen binnen twee maanden in te dienen. De aanvrager kan zich niet beroepen op het uitblijven van een dergelijke uitnodiging.
+1. Indien bij het onderzoek bedoeld in [artikel 90, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&artikel=90&z=2024-12-16&g=2024-12-16), blijkt dat de beschrijving, de conclusies of de tekeningen, of delen van deze stukken van de aanvrage abusievelijk lijken te zijn ingediend, verzoekt het Europees Octrooibureau de aanvrager de juiste stukken van de aanvrage of delen binnen twee maanden in te dienen. De aanvrager kan zich niet beroepen op het uitblijven van een dergelijke uitnodiging.
 
 2. Indien de in het eerste lid bedoelde juiste stukken van de aanvrage of delen worden ingediend op of vóór de datum van indiening om aldus de aanvrage te verbeteren, worden deze juiste stukken van de aanvrage of delen opgenomen in de aanvrage en worden de abusievelijk ingediende stukken van de aanvrage of delen geacht niet te zijn ingediend. Het Europees Octrooibureau stelt de aanvrager daarvan in kennis.
 
-3. Indien de juiste stukken van de aanvrage of delen bedoeld in het eerste lid worden ingediend na de datum van indiening, maar binnen twee maanden na de datum van indiening, of indien een verzoek gedaan ingevolge het eerste lid of ingevolge [regel 56, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=I&artikel=56&z=2024-04-01&g=2024-04-01), binnen twee maanden na dat verzoek wordt ingediend, wordt de datum van indiening van de aanvrage gewijzigd in de datum waarop de juiste stukken van de aanvrage of delen zijn ingediend. De juiste stukken van de aanvrage of delen worden opgenomen in de aanvrage en de abusievelijk ingediende stukken van de aanvrage of delen worden geacht niet te zijn ingediend. Het Europees Octrooibureau stelt de aanvrager daarvan in kennis.
+3. Indien de juiste stukken van de aanvrage of delen bedoeld in het eerste lid worden ingediend na de datum van indiening, maar binnen twee maanden na de datum van indiening, of indien een verzoek gedaan ingevolge het eerste lid of ingevolge [regel 56, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=I&artikel=56&z=2024-12-16&g=2024-12-16), binnen twee maanden na dat verzoek wordt ingediend, wordt de datum van indiening van de aanvrage gewijzigd in de datum waarop de juiste stukken van de aanvrage of delen zijn ingediend. De juiste stukken van de aanvrage of delen worden opgenomen in de aanvrage en de abusievelijk ingediende stukken van de aanvrage of delen worden geacht niet te zijn ingediend. Het Europees Octrooibureau stelt de aanvrager daarvan in kennis.
 
-4. Indien de juiste stukken van de aanvrage of delen binnen de termijn overeenkomstig het derde lid zijn ingediend en voor de aanvrage een beroep op voorrang van een eerdere aanvrage wordt gedaan op de datum waarop aan de vereisten vervat in [regel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=40&z=2024-04-01&g=2024-04-01), is voldaan, blijft de datum van indiening de datum waarop aan de vereisten vervat in regel 40, eerste lid, is voldaan, mits de juiste stukken van de aanvrage of delen volledig zijn vervat in de eerdere aanvrage, wanneer de aanvrager binnen de termijn overeenkomstig het derde lid, daarom verzoekt en het volgende indient:
+4. Indien de juiste stukken van de aanvrage of delen binnen de termijn overeenkomstig het derde lid zijn ingediend en voor de aanvrage een beroep op voorrang van een eerdere aanvrage wordt gedaan op de datum waarop aan de vereisten vervat in [regel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=40&z=2024-12-16&g=2024-12-16), is voldaan, blijft de datum van indiening de datum waarop aan de vereisten vervat in regel 40, eerste lid, is voldaan, mits de juiste stukken van de aanvrage of delen volledig zijn vervat in de eerdere aanvrage, wanneer de aanvrager binnen de termijn overeenkomstig het derde lid, daarom verzoekt en het volgende indient:
 
-- a. een afschrift van de eerdere aanvrage, tenzij het Europees Octrooibureau overeenkomstig [regel 53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=IV&artikel=53&z=2024-04-01&g=2024-04-01), beschikt over een dergelijk afschrift;
+- a. een afschrift van de eerdere aanvrage, tenzij het Europees Octrooibureau overeenkomstig [regel 53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=IV&artikel=53&z=2024-12-16&g=2024-12-16), beschikt over een dergelijk afschrift;
 
-- b. indien de eerdere aanvrage niet in een officiële taal van het Europees Octrooibureau is gesteld, een vertaling daarvan in een van deze talen, tenzij het Europees Octrooibureau overeenkomstig [regel 53, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=IV&artikel=53&z=2024-04-01&g=2024-04-01), over een dergelijk afschrift beschikt; en
+- b. indien de eerdere aanvrage niet in een officiële taal van het Europees Octrooibureau is gesteld, een vertaling daarvan in een van deze talen, tenzij het Europees Octrooibureau overeenkomstig [regel 53, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=IV&artikel=53&z=2024-12-16&g=2024-12-16), over een dergelijk afschrift beschikt; en
 
 - c. een vermelding waar de juiste stukken van de aanvrage of delen volledig zijn opgenomen in de eerdere aanvrage en, indien van toepassing, in de vertaling ervan.
 
@@ -11772,7 +11772,7 @@ DONE at Munich this fifth day of October one thousand nine hundred and seventy-t
 
 ##### Regel 7a. Vermindering van taksen
 
-1. Indien een persoon bedoeld in [artikel 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=III&artikel=14&z=2024-04-01&g=2024-04-01), een Europese octrooiaanvrage of een verzoek om onderzoek indient in een taal die volgens die bepaling is toegestaan, wordt de indieningstaks of de taks voor het onderzoek verminderd in overeenstemming met het Taksenreglement.
+1. Indien een persoon bedoeld in [artikel 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=III&artikel=14&z=2024-12-16&g=2024-12-16), een Europese octrooiaanvrage of een verzoek om onderzoek indient in een taal die volgens die bepaling is toegestaan, wordt de indieningstaks of de taks voor het onderzoek verminderd in overeenstemming met het Taksenreglement.
 
 2. De in het eerste lid bedoelde vermindering van taksen is beschikbaar voor:
 
@@ -11784,7 +11784,7 @@ DONE at Munich this fifth day of October one thousand nine hundred and seventy-t
 
 - d. non-profitorganisaties, universiteiten of publieke organisaties voor onderzoek.
 
-3. Wanneer een micro-onderneming, natuurlijke persoon, non-profitorganisatie, universiteit of publieke organisatie voor onderzoek een Europese octrooiaanvrage indient, of, ter zake van een internationale aanvrage, de in [regel 159](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IX&artikel=159&z=2024-04-01&g=2024-04-01) bedoelde handelingen verricht, worden de volgende taksen verminderd in overeenstemming met het Taksenreglement:
+3. Wanneer een micro-onderneming, natuurlijke persoon, non-profitorganisatie, universiteit of publieke organisatie voor onderzoek een Europese octrooiaanvrage indient, of, ter zake van een internationale aanvrage, de in [regel 159](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IX&artikel=159&z=2024-12-16&g=2024-12-16) bedoelde handelingen verricht, worden de volgende taksen verminderd in overeenstemming met het Taksenreglement:
 
 - a. indieningstaks;
 
@@ -11812,7 +11812,7 @@ De relevante datum voor eerdere aanvragen is de datum van indiening in het geval
 
 ##### Regel 7b. Verklaring inzake het in aanmerking komen voor een vermindering van taksen
 
-1. Aanvragers die in aanmerking willen komen voor een vermindering van taksen uit hoofde van [regel 7a, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=I&artikel=7a&z=2024-04-01&g=2024-04-01), verklaren uiterlijk op het moment dat de eerste verminderde betaling wordt verricht, dat zij een persoon zijn in de zin van regel 7a, tweede of derde lid.
+1. Aanvragers die in aanmerking willen komen voor een vermindering van taksen uit hoofde van [regel 7a, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=I&artikel=7a&z=2024-12-16&g=2024-12-16), verklaren uiterlijk op het moment dat de eerste verminderde betaling wordt verricht, dat zij een persoon zijn in de zin van regel 7a, tweede of derde lid.
 
 2. Aanvragers stellen het Europees Octrooibureau in kennis van elke verandering van status die van invloed is op het in aanmerking komen voor een vermindering van taksen uiterlijk op het moment waarop de betreffende taks wordt betaald.
 
@@ -11830,19 +11830,19 @@ Het Europees Octrooibureau gebruikt de classificatie bedoeld in artikel 1 van de
 
 ##### Regel 9. Bestuursstructuur van het Europees Octrooibureau
 
-1. Het Europees Octrooibureau wordt bestuurlijk in directoraten-generaal onderverdeeld, waaraan de in [artikel 15, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=III&artikel=15&z=2024-04-01&g=2024-04-01), genoemde organen, alsmede de diensten voor de behandeling van juridische aangelegenheden en de interne administratie van het bureau worden toegewezen.
+1. Het Europees Octrooibureau wordt bestuurlijk in directoraten-generaal onderverdeeld, waaraan de in [artikel 15, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=III&artikel=15&z=2024-12-16&g=2024-12-16), genoemde organen, alsmede de diensten voor de behandeling van juridische aangelegenheden en de interne administratie van het bureau worden toegewezen.
 
 2. Elk directoraat-generaal wordt geleid door een Vicepresident. De benoeming van een Vicepresident aan het hoofd van een directoraat-generaal wordt genomen door de Raad van Bestuur, nadat de President van het Europees Octrooibureau is geraadpleegd.
 
 ##### Regel 10. Bevoegdheid van de aanvraagafdeling en de onderzoeksafdeling
 
-1. De aanvraagafdeling is bevoegd tot het onderzoek van een Europese octrooiaanvrage bij indiening en tot het onderzoek op vormvereisten, tot het tijdstip waarop de onderzoeksafdeling bevoegd wordt tot het onderzoek van een Europese octrooiaanvrage ingevolge [artikel 94, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&artikel=94&z=2024-04-01&g=2024-04-01).
+1. De aanvraagafdeling is bevoegd tot het onderzoek van een Europese octrooiaanvrage bij indiening en tot het onderzoek op vormvereisten, tot het tijdstip waarop de onderzoeksafdeling bevoegd wordt tot het onderzoek van een Europese octrooiaanvrage ingevolge [artikel 94, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&artikel=94&z=2024-12-16&g=2024-12-16).
 
-2. Onverminderd het derde en vierde lid is de onderzoeksafdeling vanaf het tijdstip waarop een verzoek om onderzoek is ingediend bevoegd tot het onderzoek van een Europese octrooiaanvrage ingevolge [artikel 94, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&artikel=94&z=2024-04-01&g=2024-04-01).
+2. Onverminderd het derde en vierde lid is de onderzoeksafdeling vanaf het tijdstip waarop een verzoek om onderzoek is ingediend bevoegd tot het onderzoek van een Europese octrooiaanvrage ingevolge [artikel 94, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&artikel=94&z=2024-12-16&g=2024-12-16).
 
-3. Indien een verzoek om onderzoek is ingediend voordat het verslag van het Europees nieuwheidsonderzoek aan de aanvrager is toegezonden, is de onderzoeksafdeling, onverminderd het vierde lid, bevoegd vanaf het tijdstip waarop het Europees Octrooibureau de verklaring ingevolge [regel 70, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=III&artikel=70&z=2024-04-01&g=2024-04-01) ontvangt.
+3. Indien een verzoek om onderzoek is ingediend voordat het verslag van het Europees nieuwheidsonderzoek aan de aanvrager is toegezonden, is de onderzoeksafdeling, onverminderd het vierde lid, bevoegd vanaf het tijdstip waarop het Europees Octrooibureau de verklaring ingevolge [regel 70, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=III&artikel=70&z=2024-12-16&g=2024-12-16) ontvangt.
 
-4. Indien een verzoek om onderzoek is ingediend voordat het verslag van het Europees nieuwheidsonderzoek aan de aanvrager is toegezonden en indien de aanvrager afstand heeft gedaan van het recht ingevolge [regel 70, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=III&artikel=70&z=2024-04-01&g=2024-04-01), is de onderzoeksafdeling bevoegd vanaf het tijdstip waarop het verslag van het nieuwheidsonderzoek aan de aanvrager wordt toegezonden.
+4. Indien een verzoek om onderzoek is ingediend voordat het verslag van het Europees nieuwheidsonderzoek aan de aanvrager is toegezonden en indien de aanvrager afstand heeft gedaan van het recht ingevolge [regel 70, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=III&artikel=70&z=2024-12-16&g=2024-12-16), is de onderzoeksafdeling bevoegd vanaf het tijdstip waarop het verslag van het nieuwheidsonderzoek aan de aanvrager wordt toegezonden.
 
 ##### Regel 11. Taakverdeling over de organen in de eerste aanleg
 
@@ -11856,7 +11856,7 @@ Het Europees Octrooibureau gebruikt de classificatie bedoeld in artikel 1 van de
 
 ##### Regel 13. Taakverdeling voor de Grote Kamer van beroep
 
-Voorafgaand aan het begin van elk zittingsjaar wijzen de leden van de Grote Kamer van beroep, benoemd ingevolge [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=III&artikel=11&z=2024-04-01&g=2024-04-01), de gewone en de plaatsvervangende leden van de Grote Kamer van beroep aan voor procedures ingevolge [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=III&artikel=22&z=2024-04-01&g=2024-04-01), onderdelen a en b, alsmede de gewone en plaatsvervangende leden voor procedures ingevolge artikel 22, eerste lid, onderdeel c. Beslissingen kunnen uitsluitend worden genomen indien ten minste vijf leden aanwezig zijn, onder wie de voorzitter van de Grote Kamer van beroep of diens plaatsvervanger; indien de stemmen staken, geeft de stem van de voorzitter of diens plaatsvervanger de doorslag. Onthouding geldt niet als stem.
+Voorafgaand aan het begin van elk zittingsjaar wijzen de leden van de Grote Kamer van beroep, benoemd ingevolge [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=III&artikel=11&z=2024-12-16&g=2024-12-16), de gewone en de plaatsvervangende leden van de Grote Kamer van beroep aan voor procedures ingevolge [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=III&artikel=22&z=2024-12-16&g=2024-12-16), onderdelen a en b, alsmede de gewone en plaatsvervangende leden voor procedures ingevolge artikel 22, eerste lid, onderdeel c. Beslissingen kunnen uitsluitend worden genomen indien ten minste vijf leden aanwezig zijn, onder wie de voorzitter van de Grote Kamer van beroep of diens plaatsvervanger; indien de stemmen staken, geeft de stem van de voorzitter of diens plaatsvervanger de doorslag. Onthouding geldt niet als stem.
 
 ## DEEL II. UITVOERINGSBEPALINGEN VAN DEEL II VAN HET VERDRAG
 
@@ -11864,9 +11864,9 @@ Voorafgaand aan het begin van elk zittingsjaar wijzen de leden van de Grote Kame
 
 ##### Regel 14. Schorsing van de procedure
 
-1. Indien een derde bewijs overlegt dat hij een procedure heeft aangespannen tegen de aanvrager om een beslissing in de zin van [artikel 61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=II&artikel=61&z=2024-04-01&g=2024-04-01), te verkrijgen, wordt de verleningsprocedure geschorst, tenzij de derde het Europees Octrooibureau schriftelijk mededeelt dat hij instemt met de voortzetting van deze procedure. Deze instemming is onherroepelijk. De verleningsprocedure wordt evenwel niet geschorst voordat de Europese octrooiaanvrage is gepubliceerd.
+1. Indien een derde bewijs overlegt dat hij een procedure heeft aangespannen tegen de aanvrager om een beslissing in de zin van [artikel 61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=II&artikel=61&z=2024-12-16&g=2024-12-16), te verkrijgen, wordt de verleningsprocedure geschorst, tenzij de derde het Europees Octrooibureau schriftelijk mededeelt dat hij instemt met de voortzetting van deze procedure. Deze instemming is onherroepelijk. De verleningsprocedure wordt evenwel niet geschorst voordat de Europese octrooiaanvrage is gepubliceerd.
 
-2. Indien het bewijs is geleverd dat een in kracht van gewijsde gegane beslissing is genomen in de zin van[artikel 61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=II&artikel=61&z=2024-04-01&g=2024-04-01), deelt het Europees Octrooibureau de aanvrager en eventuele andere partijen mede dat de verleningsprocedure zal worden hervat vanaf de in de mededeling vermelde datum, tenzij overeenkomstig artikel 61, eerste lid, onderdeel b, een nieuwe Europese octrooiaanvrage is ingediend voor alle aangewezen Verdragsluitende Staten. Indien de beslissing ten gunste van de derde is uitgesproken, mag de procedure niet eerder worden hervat dan drie maanden nadat de beslissing in kracht van gewijsde is gegaan, tenzij de derde heeft verzocht om hervatting van de verleningsprocedure.
+2. Indien het bewijs is geleverd dat een in kracht van gewijsde gegane beslissing is genomen in de zin van[artikel 61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=II&artikel=61&z=2024-12-16&g=2024-12-16), deelt het Europees Octrooibureau de aanvrager en eventuele andere partijen mede dat de verleningsprocedure zal worden hervat vanaf de in de mededeling vermelde datum, tenzij overeenkomstig artikel 61, eerste lid, onderdeel b, een nieuwe Europese octrooiaanvrage is ingediend voor alle aangewezen Verdragsluitende Staten. Indien de beslissing ten gunste van de derde is uitgesproken, mag de procedure niet eerder worden hervat dan drie maanden nadat de beslissing in kracht van gewijsde is gegaan, tenzij de derde heeft verzocht om hervatting van de verleningsprocedure.
 
 3. Bij zijn beslissing tot schorsing van de procedure of daarna kan het Europees Octrooibureau een datum vaststellen waarop het de verleningsprocedure wil hervatten, ongeacht het stadium waarin de ingevolge het eerste lid ingestelde, nationale procedure zich bevindt. Het deelt deze datum mede aan de derde, de aanvrager en eventuele andere partijen. Indien voor deze datum geen bewijs is geleverd van een in kracht van gewijsde gegane beslissing, kan het Europees Octrooibureau de procedure hervatten.
 
@@ -11874,11 +11874,11 @@ Voorafgaand aan het begin van elk zittingsjaar wijzen de leden van de Grote Kame
 
 ##### Regel 15. Beperking van intrekkingen
 
-Vanaf de dag waarop een derde het bewijs levert dat hij een nationale procedure heeft aangespannen ingevolge [regel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=III&artikel=14&z=2024-04-01&g=2024-04-01), tot de dag waarop de verleningsprocedure wordt hervat, kan noch de Europese octrooiaanvrage noch de aanwijzing van een Verdragsluitende Staat worden ingetrokken.
+Vanaf de dag waarop een derde het bewijs levert dat hij een nationale procedure heeft aangespannen ingevolge [regel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=III&artikel=14&z=2024-12-16&g=2024-12-16), tot de dag waarop de verleningsprocedure wordt hervat, kan noch de Europese octrooiaanvrage noch de aanwijzing van een Verdragsluitende Staat worden ingetrokken.
 
 ##### Regel 16. Procedure bedoeld in artikel 61, eerste lid
 
-1. Een persoon die recht heeft op de verlening van het Europees octrooi kan uitsluitend aanspraak maken op de rechtsmiddelen bedoeld in [artikel 61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=II&artikel=61&z=2024-04-01&g=2024-04-01), mits:
+1. Een persoon die recht heeft op de verlening van het Europees octrooi kan uitsluitend aanspraak maken op de rechtsmiddelen bedoeld in [artikel 61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=II&artikel=61&z=2024-12-16&g=2024-12-16), mits:
 
 - a. hij dit doet uiterlijk drie maanden nadat de beslissing tot erkenning van zijn recht in kracht van gewijsde is gegaan, en
 
@@ -11888,15 +11888,15 @@ Vanaf de dag waarop een derde het bewijs levert dat hij een nationale procedure 
 
 ##### Regel 17. Indiening van een nieuwe Europese octrooiaanvrage door de daartoe gerechtigde persoon
 
-1. Indien de persoon, aan wie bij een in kracht van gewijsde gegane beslissing het recht op verlening van het Europees octrooi is toegewezen, een nieuwe Europese octrooiaanvrage indient overeenkomstig [artikel 61, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=II&artikel=61&z=2024-04-01&g=2024-04-01), wordt de oorspronkelijke Europese octrooiaanvrage geacht te zijn ingetrokken op de dag van indiening van de nieuwe aanvrage met betrekking tot de daarin aangewezen Verdragsluitende Staten waarin de beslissing is genomen of wordt erkend of dient te worden erkend op grond van het Protocol inzake erkenning.
+1. Indien de persoon, aan wie bij een in kracht van gewijsde gegane beslissing het recht op verlening van het Europees octrooi is toegewezen, een nieuwe Europese octrooiaanvrage indient overeenkomstig [artikel 61, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=II&artikel=61&z=2024-12-16&g=2024-12-16), wordt de oorspronkelijke Europese octrooiaanvrage geacht te zijn ingetrokken op de dag van indiening van de nieuwe aanvrage met betrekking tot de daarin aangewezen Verdragsluitende Staten waarin de beslissing is genomen of wordt erkend of dient te worden erkend op grond van het Protocol inzake erkenning.
 
 2. De indieningstaks en de taks voor het nieuwheidsonderzoek dienen binnen een maand na de indiening van de nieuwe aanvrage te worden betaald. Indien de indieningstaks of de taks voor het nieuwheidsonderzoek niet tijdig wordt betaald, wordt de aanvrage geacht te zijn ingetrokken.
 
-3. De aanwijzingstaks dient binnen zes maanden na de datum waarop in het Europees Octrooiblad melding wordt gemaakt van de publicatie van het verslag van het Europees nieuwheidsonderzoek ter zake van de nieuwe aanvrage, te worden betaald. [Regel 39, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=39&z=2024-04-01&g=2024-04-01), is van toepassing.
+3. De aanwijzingstaks dient binnen zes maanden na de datum waarop in het Europees Octrooiblad melding wordt gemaakt van de publicatie van het verslag van het Europees nieuwheidsonderzoek ter zake van de nieuwe aanvrage, te worden betaald. [Regel 39, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=39&z=2024-12-16&g=2024-12-16), is van toepassing.
 
 ##### Regel 18. Gedeeltelijke overgang van het recht op het Europees octrooi
 
-1. Indien bij een in kracht van gewijsde gegane beslissing het recht op verlening van het Europees octrooi slechts voor een gedeelte van het onderwerp waarop de oorspronkelijke Europese octrooiaanvrage betrekking heeft, is toegewezen aan een derde, zijn [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=II&artikel=61&z=2024-04-01&g=2024-04-01) en de [regels 16](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=I&artikel=16&z=2024-04-01&g=2024-04-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=I&artikel=17&z=2024-04-01&g=2024-04-01) op het desbetreffende gedeelte van toepassing.
+1. Indien bij een in kracht van gewijsde gegane beslissing het recht op verlening van het Europees octrooi slechts voor een gedeelte van het onderwerp waarop de oorspronkelijke Europese octrooiaanvrage betrekking heeft, is toegewezen aan een derde, zijn [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=II&artikel=61&z=2024-12-16&g=2024-12-16) en de [regels 16](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=I&artikel=16&z=2024-12-16&g=2024-12-16) en [17](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=I&artikel=17&z=2024-12-16&g=2024-12-16) op het desbetreffende gedeelte van toepassing.
 
 2. Indien noodzakelijk bevat de oorspronkelijke Europese octrooiaanvrage voor de aangewezen Verdragsluitende Staten waarin de beslissing is genomen of wordt erkend of op grond van het Protocol inzake erkenning dient te worden erkend, andere conclusies, beschrijving en tekeningen dan die voor de overige aangewezen Verdragsluitende Staten.
 
@@ -11904,7 +11904,7 @@ Vanaf de dag waarop een derde het bewijs levert dat hij een nationale procedure 
 
 ##### Regel 19. Aanwijzing van de uitvinder
 
-1. In het verzoek om verlening van het Europees octrooi dient de uitvinder te worden aangewezen. Indien de aanvrager echter niet de uitvinder of niet de enige uitvinder is, dient de aanwijzing te geschieden in een afzonderlijk document. In de aanwijzing dienen de naam, de voornamen en het land en de woonplaats van de uitvinder, de in [artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=V&hoofdstuk=I&artikel=81&z=2024-04-01&g=2024-04-01) bedoelde verklaring en de handtekening van de aanvrager of van diens gemachtigde te zijn opgenomen.
+1. In het verzoek om verlening van het Europees octrooi dient de uitvinder te worden aangewezen. Indien de aanvrager echter niet de uitvinder of niet de enige uitvinder is, dient de aanwijzing te geschieden in een afzonderlijk document. In de aanwijzing dienen de naam, de voornamen en het land en de woonplaats van de uitvinder, de in [artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=V&hoofdstuk=I&artikel=81&z=2024-12-16&g=2024-12-16) bedoelde verklaring en de handtekening van de aanvrager of van diens gemachtigde te zijn opgenomen.
 
 2. Het Europees Octrooibureau controleert niet de juistheid van de aanwijzing van de uitvinder.
 
@@ -11934,7 +11934,7 @@ Vanaf de dag waarop een derde het bewijs levert dat hij een nationale procedure 
 
 1. Regel 22, eerste en tweede lid, is van overeenkomstige toepassing op de inschrijving van de verlening of de overgang van een licentie, alsmede op de inschrijving van de vestiging of de overgang van een beperkt recht op een Europese octrooiaanvrage en van de gedwongen uitwinning van een dergelijke aanvrage.
 
-2. De inschrijvingen bedoeld in het eerste lid worden op verzoek doorgehaald, op basis van stukken waaruit blijkt dat het recht is vervallen of een schriftelijke verklaring waarbij de houder van het recht ermee instemt dat de inschrijving wordt doorgehaald. [Regel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=III&artikel=22&z=2024-04-01&g=2024-04-01), is van overeenkomstige toepassing.
+2. De inschrijvingen bedoeld in het eerste lid worden op verzoek doorgehaald, op basis van stukken waaruit blijkt dat het recht is vervallen of een schriftelijke verklaring waarbij de houder van het recht ermee instemt dat de inschrijving wordt doorgehaald. [Regel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=III&artikel=22&z=2024-12-16&g=2024-12-16), is van overeenkomstige toepassing.
 
 ##### Regel 24. Bijzondere vermeldingen bij de inschrijving van een licentie
 
@@ -11946,7 +11946,7 @@ Een licentie op een Europese octrooiaanvrage wordt ingeschreven
 
 ##### Regel 25. Tentoonstellingsbewijzen
 
-De aanvrager dient binnen vier maanden na de indiening van de Europese octrooiaanvrage het in [artikel 55, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=I&artikel=55&z=2024-04-01&g=2024-04-01), bedoelde bewijsstuk over te leggen:
+De aanvrager dient binnen vier maanden na de indiening van de Europese octrooiaanvrage het in [artikel 55, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=I&artikel=55&z=2024-12-16&g=2024-12-16), bedoelde bewijsstuk over te leggen:
 
 - a. dat tijdens de tentoonstelling is afgegeven door de autoriteit, verantwoordelijk voor de bescherming van de industriële eigendom op die tentoonstelling;
 
@@ -11984,7 +11984,7 @@ Biotechnologische uitvindingen zijn tevens octrooieerbaar indien zij betrekking 
 
 - a. biologisch materiaal welke met behulp van een technische werkwijze uit zijn natuurlijke milieu wordt geïsoleerd of wordt verkregen, ook wanneer het in de natuur reeds voorhanden is;
 
-- b. onverminderd [regel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=V&artikel=28&z=2024-04-01&g=2024-04-01), planten of dieren als de uitvoerbaarheid van die uitvinding zich technisch gezien niet beperkt tot een bepaald planten- of dierenras;
+- b. onverminderd [regel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=V&artikel=28&z=2024-12-16&g=2024-12-16), planten of dieren als de uitvoerbaarheid van die uitvinding zich technisch gezien niet beperkt tot een bepaald planten- of dierenras;
 
 - c. een microbiologische of andere technische werkwijze of op een met behulp van deze werkwijzen verkregen voortbrengsel, niet zijnde een planten- of dierenras.
 
@@ -12000,7 +12000,7 @@ Biotechnologische uitvindingen zijn tevens octrooieerbaar indien zij betrekking 
 
 - d. werkwijzen tot wijziging van de genetische identiteit van dieren die deze mogelijk doen lijden zonder aanzienlijk medisch nut voor mens of dier op te leveren, alsmede de dieren die uit dergelijke werkwijzen zijn verkregen.
 
-2. Ingevolge [artikel 53, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=IV&artikel=53&z=2024-04-01&g=2024-04-01), worden Europese octrooien niet verleend voor uitsluitend door een wezenlijk biologische werkwijze verkregen planten of dieren.
+2. Ingevolge [artikel 53, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=IV&artikel=53&z=2024-12-16&g=2024-12-16), worden Europese octrooien niet verleend voor uitsluitend door een wezenlijk biologische werkwijze verkregen planten of dieren.
 
 ##### Regel 29. Het menselijk lichaam en delen ervan
 
@@ -12020,7 +12020,7 @@ Biotechnologische uitvindingen zijn tevens octrooieerbaar indien zij betrekking 
 
 ##### Regel 31. Depot van biologisch materiaal
 
-1. Indien een uitvinding gepaard gaat met het gebruik van of betrekking heeft op biologisch materiaal dat niet openbaar toegankelijk is en in de Europese octrooiaanvrage niet zodanig kan worden beschreven dat de uitvinding aan de hand daarvan door de vakman kan worden toegepast, wordt de uitvinding uitsluitend als openbaar gemaakt beschouwd overeenkomstig [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=83&z=2024-04-01&g=2024-04-01), indien:
+1. Indien een uitvinding gepaard gaat met het gebruik van of betrekking heeft op biologisch materiaal dat niet openbaar toegankelijk is en in de Europese octrooiaanvrage niet zodanig kan worden beschreven dat de uitvinding aan de hand daarvan door de vakman kan worden toegepast, wordt de uitvinding uitsluitend als openbaar gemaakt beschouwd overeenkomstig [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=83&z=2024-12-16&g=2024-12-16), indien:
 
 - a. uiterlijk op de datum van indiening van de aanvrage een monster van het biologisch materiaal is gedeponeerd bij een erkende depositaris onder dezelfde voorwaarden als neergelegd in het [Verdrag van Boedapest inzake de internationale erkenning van het depot van micro-organismen ten dienste van de octrooiverlening](onbekend) van 28 april 1977;
 
@@ -12028,15 +12028,15 @@ Biotechnologische uitvindingen zijn tevens octrooieerbaar indien zij betrekking 
 
 - c. de depositaris en het toegangsnummer van het gedeponeerde biologische materiaal vermeld zijn in de aanvrage, en
 
-- d. indien het biologisch materiaal gedeponeerd is door een andere persoon dan de aanvrager, de naam en het adres van de bewaargever in de aanvrage zijn vermeld en een document is ingediend bij het Europees Octrooibureau, waaruit blijkt dat de bewaargever de aanvrager gemachtigd heeft om in de aanvrage te verwijzen naar het gedeponeerde biologische materiaal en onvoorwaardelijk en onherroepelijk heeft toegestemd dat het gedeponeerde materiaal overeenkomstig [regel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=V&artikel=33&z=2024-04-01&g=2024-04-01) openbaar toegankelijk wordt gemaakt.
+- d. indien het biologisch materiaal gedeponeerd is door een andere persoon dan de aanvrager, de naam en het adres van de bewaargever in de aanvrage zijn vermeld en een document is ingediend bij het Europees Octrooibureau, waaruit blijkt dat de bewaargever de aanvrager gemachtigd heeft om in de aanvrage te verwijzen naar het gedeponeerde biologische materiaal en onvoorwaardelijk en onherroepelijk heeft toegestemd dat het gedeponeerde materiaal overeenkomstig [regel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=V&artikel=33&z=2024-12-16&g=2024-12-16) openbaar toegankelijk wordt gemaakt.
 
 2. De in het eerste lid, onderdelen c en d, bedoelde gegevens kunnen worden overgelegd:
 
 - a. binnen zestien maanden na de datum van indiening van de aanvrage, of, indien een beroep op voorrang is gedaan, na de voorrangsdatum, waarbij deze termijn geacht wordt in acht te zijn genomen indien de gegevens zijn overgelegd voor de voltooiing van de technische voorbereidingen ten behoeve van publicatie van de Europese octrooiaanvrage;
 
-- b. tot de datum van indiening van een verzoek ingevolge [artikel 93, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&artikel=93&z=2024-04-01&g=2024-04-01);
+- b. tot de datum van indiening van een verzoek ingevolge [artikel 93, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&artikel=93&z=2024-12-16&g=2024-12-16);
 
-- c. binnen een maand nadat het Europees Octrooibureau de aanvrager heeft medegedeeld dat er recht is op inzage van het dossier ingevolge [artikel 128, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=II&artikel=128&z=2024-04-01&g=2024-04-01). De termijn die als eerste afloopt is van toepassing. Door het verstrekken van deze gegevens wordt de aanvrager geacht onvoorwaardelijk en onherroepelijk te hebben toegestemd dat het gedeponeerde biologische materiaal overeenkomstig [regel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=V&artikel=33&z=2024-04-01&g=2024-04-01) openbaar toegankelijk wordt gemaakt.
+- c. binnen een maand nadat het Europees Octrooibureau de aanvrager heeft medegedeeld dat er recht is op inzage van het dossier ingevolge [artikel 128, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=II&artikel=128&z=2024-12-16&g=2024-12-16). De termijn die als eerste afloopt is van toepassing. Door het verstrekken van deze gegevens wordt de aanvrager geacht onvoorwaardelijk en onherroepelijk te hebben toegestemd dat het gedeponeerde biologische materiaal overeenkomstig [regel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=V&artikel=33&z=2024-12-16&g=2024-12-16) openbaar toegankelijk wordt gemaakt.
 
 ##### Regel 32. Deskundigenoplossing
 
@@ -12056,7 +12056,7 @@ De aanwijzing dient tevens vergezeld te gaan van een verklaring van de deskundig
 
 ##### Regel 33. Toegang tot biologisch materiaal
 
-1. Overeenkomstig [regel 31](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=V&artikel=31&z=2024-04-01&g=2024-04-01) gedeponeerd biologisch materiaal is voor een ieder op verzoek toegankelijk vanaf de datum van publicatie van de Europese octrooiaanvrage en voor die datum voor een ieder die ingevolge [artikel 128, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=IV&artikel=128&z=2024-04-01&g=2024-04-01), recht heeft op inzage in het dossier. Onverminderd [regel 32](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=V&artikel=32&z=2024-04-01&g=2024-04-01) geschiedt de toegang door afgifte van een monster van het gedeponeerde biologisch materiaal aan de verzoeker.
+1. Overeenkomstig [regel 31](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=V&artikel=31&z=2024-12-16&g=2024-12-16) gedeponeerd biologisch materiaal is voor een ieder op verzoek toegankelijk vanaf de datum van publicatie van de Europese octrooiaanvrage en voor die datum voor een ieder die ingevolge [artikel 128, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=IV&artikel=128&z=2024-12-16&g=2024-12-16), recht heeft op inzage in het dossier. Onverminderd [regel 32](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=V&artikel=32&z=2024-12-16&g=2024-12-16) geschiedt de toegang door afgifte van een monster van het gedeponeerde biologisch materiaal aan de verzoeker.
 
 2. Deze afgifte geschiedt uitsluitend indien de verzoeker zich jegens de aanvrager of houder van het octrooi heeft verplicht het biologisch materiaal of daarvan afgeleid biologisch materiaal niet ter beschikking van derden te stellen en het uitsluitend voor experimentele doeleinden te gebruiken, totdat de octrooiaanvrage is afgewezen, ingetrokken of geacht wordt te zijn ingetrokken of totdat het Europees octrooi in alle aangewezen staten is vervallen, tenzij de aanvrager of eigenaar van het octrooi uitdrukkelijk afstand doet van een dergelijke verplichting.
 
@@ -12064,15 +12064,15 @@ De verplichting het biologisch materiaal uitsluitend voor experimentele doeleind
 
 3. In het tweede lid wordt onder afgeleid biologisch materiaal elk materiaal verstaan dat nog de eigenschappen van het gedeponeerde materiaal bezit die essentieel zijn voor de toepassing van de uitvinding. De verplichting bedoeld in het tweede lid vormt geen beletsel voor het deponeren van afgeleid biologisch materiaal indien dat noodzakelijk is binnen een octrooiprocedure.
 
-4. Het in het eerste lid bedoelde verzoek wordt bij het Europees Octrooibureau ingediend met behulp van een door het bureau erkend formulier. Het Europees Octrooibureau verklaart op het formulier, dat een Europese octrooiaanvrage is ingediend waarin verwezen wordt naar het depot van het biologisch materiaal en dat de verzoeker of de ingevolge [regel 32](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=IV&artikel=32&z=2024-04-01&g=2024-04-01) door hem aangewezen deskundige recht heeft op de afgifte van een monster van dat materiaal. Na verlening van het Europees octrooi wordt het verzoek eveneens bij het Europees Octrooibureau ingediend.
+4. Het in het eerste lid bedoelde verzoek wordt bij het Europees Octrooibureau ingediend met behulp van een door het bureau erkend formulier. Het Europees Octrooibureau verklaart op het formulier, dat een Europese octrooiaanvrage is ingediend waarin verwezen wordt naar het depot van het biologisch materiaal en dat de verzoeker of de ingevolge [regel 32](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=IV&artikel=32&z=2024-12-16&g=2024-12-16) door hem aangewezen deskundige recht heeft op de afgifte van een monster van dat materiaal. Na verlening van het Europees octrooi wordt het verzoek eveneens bij het Europees Octrooibureau ingediend.
 
 5. Het Europees Octrooibureau zendt een afschrift van het verzoek tezamen met de in het vierde lid genoemde verklaring aan de depositaris en aan de aanvrager of de houder van het octrooi.
 
-6. Het Europees Octrooibureau publiceert in het Publicatieblad de lijst van depositarissen die voor de toepassing van de [regels 31](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=IV&artikel=31&z=2024-04-01&g=2024-04-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=V&artikel=33&z=2024-04-01&g=2024-04-01) en [34](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=V&artikel=34&z=2024-04-01&g=2024-04-01) zijn erkend.
+6. Het Europees Octrooibureau publiceert in het Publicatieblad de lijst van depositarissen die voor de toepassing van de [regels 31](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=IV&artikel=31&z=2024-12-16&g=2024-12-16), [33](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=V&artikel=33&z=2024-12-16&g=2024-12-16) en [34](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=V&artikel=34&z=2024-12-16&g=2024-12-16) zijn erkend.
 
 ##### Regel 34. Nieuw depot van biologisch materiaal
 
-Indien biologisch materiaal dat is gedeponeerd overeenkomstig [regel 31](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=V&artikel=31&z=2024-04-01&g=2024-04-01) ophoudt beschikbaar te zijn bij de depositaris, wordt de onderbreking van de toegang geacht niet te hebben plaatsgevonden indien een nieuw depot van dat materiaal bij een erkende depositaris onder dezelfde voorwaarden als neergelegd in het [Verdrag van Boedapest inzake de internationale erkenning van het depot van micro-organismen ten dienste van de octrooiverlening](onbekend) van 28 april 1977 wordt verricht en een afschrift van het door deze instantie afgegeven ontvangstbewijs van depot binnen vier maanden na de datum van het nieuwe depot aan het Europees Octrooibureau is toegezonden onder vermelding van het nummer van de Europese octrooiaanvrage of van het Europees octrooi.
+Indien biologisch materiaal dat is gedeponeerd overeenkomstig [regel 31](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=V&artikel=31&z=2024-12-16&g=2024-12-16) ophoudt beschikbaar te zijn bij de depositaris, wordt de onderbreking van de toegang geacht niet te hebben plaatsgevonden indien een nieuw depot van dat materiaal bij een erkende depositaris onder dezelfde voorwaarden als neergelegd in het [Verdrag van Boedapest inzake de internationale erkenning van het depot van micro-organismen ten dienste van de octrooiverlening](onbekend) van 28 april 1977 wordt verricht en een afschrift van het door deze instantie afgegeven ontvangstbewijs van depot binnen vier maanden na de datum van het nieuwe depot aan het Europees Octrooibureau is toegezonden onder vermelding van het nummer van de Europese octrooiaanvrage of van het Europees octrooi.
 
 ## DEEL III. UITVOERINGSBEPALINGEN VAN DEEL III VAN HET VERDRAG
 
@@ -12096,7 +12096,9 @@ Indien biologisch materiaal dat is gedeponeerd overeenkomstig [regel 31](https:/
 
 3. De indieningstaks en de taks voor het nieuwheidsonderzoek dienen binnen een maand na indiening van de afgesplitste aanvrage te worden betaald. Indien de indieningstaks of de taks voor het nieuwheidsonderzoek niet tijdig is betaald, wordt de aanvrage geacht te zijn ingetrokken.
 
-4. De aanwijzingstaks dient binnen zes maanden na de datum waarop in het Europees Octrooiblad melding wordt gemaakt van de publicatie van het verslag van het Europees nieuwheidsonderzoek ter zake van de afgesplitste aanvrage, te worden betaald. [Regel 39, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=39&z=2024-04-01&g=2024-04-01), is van toepassing.
+4. De aanwijzingstaks dient binnen zes maanden na de datum waarop in het Europees Octrooiblad melding wordt gemaakt van de publicatie van het verslag van het Europees nieuwheidsonderzoek ter zake van de afgesplitste aanvrage, te worden betaald. [Regel 39, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=39&z=2024-12-16&g=2024-12-16), is van toepassing.
+
+5. [Regel 39, lid 2a](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=39&z=2024-12-16&g=2024-12-16), is van toepassing.
 
 ##### Regel 37. Doorzending van Europese octrooiaanvragen
 
@@ -12114,17 +12116,19 @@ Indien biologisch materiaal dat is gedeponeerd overeenkomstig [regel 31](https:/
 
 2. Het Taksenreglement kan in een aanvullende taks als onderdeel van de indieningstaks voorzien, indien de aanvrage meer dan 35 pagina’s omvat.
 
-3. De aanvullende taks bedoeld in het tweede lid dient binnen een maand na de indiening van de Europese octrooiaanvrage of binnen een maand na de indiening van de eerste set conclusies of binnen een maand na de indiening van het gewaarmerkte afschrift bedoeld in [regel 40, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=40&z=2024-04-01&g=2024-04-01), al naargelang welke termijn het laatst verstrijkt, te worden betaald.
+3. De aanvullende taks bedoeld in het tweede lid dient binnen een maand na de indiening van de Europese octrooiaanvrage of binnen een maand na de indiening van de eerste set conclusies of binnen een maand na de indiening van het gewaarmerkte afschrift bedoeld in [regel 40, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=40&z=2024-12-16&g=2024-12-16), al naargelang welke termijn het laatst verstrijkt, te worden betaald.
 
 4. Het Taksenreglement kan in een aanvullende taks als onderdeel van de indieningstaks voorzien, indien het een afgesplitste aanvrage betreft die is ingediend ter zake van een eerdere aanvrage die zelf een afgesplitste aanvrage is.
 
-##### Regel 39. Aanwijzingstaksen
+##### Regel 39. Aanwijzingstaksen en fictie van intrekking
 
 1. De aanwijzingstaks dient binnen zes maanden na de datum waarop in het Europees Octrooiblad melding wordt gemaakt van de publicatie van het verslag van het Europees nieuwheidsonderzoek, te worden betaald.
 
 2. Indien de aanwijzingstaks niet tijdig is betaald of indien de aanwijzingen van alle Verdragsluitende Staten zijn ingetrokken, wordt de Europese octrooiaanvrage geacht te zijn ingetrokken.
 
-3. Onverminderd [regel 37, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=37&z=2024-04-01&g=2024-04-01), wordt de aanwijzingstaks niet terugbetaald.
+2a. Gelet op artikel 5 vicies, derde lid, van de gewijzigde [Verordening (EU) Nr. 833/2014](32014R0833) wordt, wanneer de verzoeker of een van de verzoekers een Russisch onderdaan, een in Rusland verblijvende natuurlijke persoon of een in Rusland gevestigde rechtspersoon, entiteit of lichaam is, de aanwijzing van de Verdragsluitende Staten die lidstaten van de Europese Unie zijn, geacht te zijn ingetrokken. Deze bepaling is niet van toepassing op onderdanen van een Verdragsluitende Staat of op natuurlijke personen die in het bezit zijn van een permanente of tijdelijke verblijfsvergunning in een van de Verdragsluitende Staten.
+
+3. Onverminderd [regel 37, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=37&z=2024-12-16&g=2024-12-16), wordt de aanwijzingstaks niet terugbetaald.
 
 ##### Regel 40. Datum van indiening
 
@@ -12138,7 +12142,7 @@ Indien biologisch materiaal dat is gedeponeerd overeenkomstig [regel 31](https:/
 
 2. Bij een verwijzing naar een eerder ingediende aanvrage overeenkomstig het eerste lid, onderdeel c, dienen de datum van indiening, het nummer van die aanvrage en het bureau waar deze werd ingediend te worden vermeld. In deze verwijzing dient te worden aangegeven dat het de beschrijving en eventuele tekeningen vervangt.
 
-3. Indien de aanvrage een verwijzing overeenkomstig het tweede lid bevat, dient binnen twee maanden na de indiening van de aanvrage een gewaarmerkt afschrift van de eerder ingediende aanvrage te worden ingediend. Indien de eerder ingediende aanvrage niet gesteld is in een officiële taal van het Europees Octrooibureau, dient binnen dezelfde termijn een vertaling ervan in een van deze talen te worden ingediend. [Regel 53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=IV&artikel=53&z=2024-04-01&g=2024-04-01), is van overeenkomstige toepassing.
+3. Indien de aanvrage een verwijzing overeenkomstig het tweede lid bevat, dient binnen twee maanden na de indiening van de aanvrage een gewaarmerkt afschrift van de eerder ingediende aanvrage te worden ingediend. Indien de eerder ingediende aanvrage niet gesteld is in een officiële taal van het Europees Octrooibureau, dient binnen dezelfde termijn een vertaling ervan in een van deze talen te worden ingediend. [Regel 53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=IV&artikel=53&z=2024-12-16&g=2024-12-16), is van overeenkomstige toepassing.
 
 ### HOOFDSTUK II. BEPALINGEN BETREFFENDE DE AANVRAGE
 
@@ -12158,7 +12162,7 @@ Indien biologisch materiaal dat is gedeponeerd overeenkomstig [regel 31](https:/
 
 - e. in voorkomend geval de aanduiding dat de aanvrage een afgesplitste aanvrage betreft, alsmede het nummer van de eerdere Europese octrooiaanvrage;
 
-- f. in gevallen als bedoeld in [artikel 61, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=II&artikel=61&z=2024-04-01&g=2024-04-01), het nummer van de oorspronkelijke Europese octrooiaanvrage;
+- f. in gevallen als bedoeld in [artikel 61, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=II&artikel=61&z=2024-12-16&g=2024-12-16), het nummer van de oorspronkelijke Europese octrooiaanvrage;
 
 - g. indien een beroep wordt gedaan op de voorrang van een eerdere aanvrage, een daartoe strekkende verklaring, waarin de datum van die aanvrage en de Staat worden vermeld, waarin of waarvoor die eerdere aanvrage is ingediend;
 
@@ -12196,7 +12200,7 @@ Indien biologisch materiaal dat is gedeponeerd overeenkomstig [regel 31](https:/
 
 - b. een kenmerkend deel dat met de woorden „daardoor gekenmerkt” of „met het kenmerk dat” begint en de technische kenmerken benoemt waarvoor, tezamen met de onder onderdeel a genoemde kenmerken, bescherming wordt verlangd.
 
-2. Onverminderd [artikel 82](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=82&z=2024-04-01&g=2024-04-01) kan een Europese octrooiaanvrage meer dan een onafhankelijke conclusie van dezelfde categorie (voortbrengsel, werkwijze, inrichting of gebruik) bevatten, uitsluitend indien het onderwerp van de aanvrage betrekking heeft op:
+2. Onverminderd [artikel 82](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=82&z=2024-12-16&g=2024-12-16) kan een Europese octrooiaanvrage meer dan een onafhankelijke conclusie van dezelfde categorie (voortbrengsel, werkwijze, inrichting of gebruik) bevatten, uitsluitend indien het onderwerp van de aanvrage betrekking heeft op:
 
 - a. een veelvoud van met elkaar samenhangende voortbrengselen,
 
@@ -12216,7 +12220,7 @@ Indien biologisch materiaal dat is gedeponeerd overeenkomstig [regel 31](https:/
 
 ##### Regel 44. Eenheid van uitvinding
 
-1. Indien in een Europese octrooiaanvrage voor een groep van uitvindingen octrooi wordt verlangd, is aan het in [artikel 82](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=82&z=2024-04-01&g=2024-04-01) gestelde vereiste van eenheid van uitvinding slechts voldaan wanneer er tussen die uitvindingen een technische samenhang bestaat die in één of meer identieke of overeenkomstige bijzondere technische kenmerken tot uitdrukking komt. Onder het begrip „bijzondere technische kenmerken” worden die technische kenmerken verstaan die bepalend zijn voor de bijdrage die elk van de geclaimde uitvindingen, als geheel beschouwd, levert aan de stand van de techniek.
+1. Indien in een Europese octrooiaanvrage voor een groep van uitvindingen octrooi wordt verlangd, is aan het in [artikel 82](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=82&z=2024-12-16&g=2024-12-16) gestelde vereiste van eenheid van uitvinding slechts voldaan wanneer er tussen die uitvindingen een technische samenhang bestaat die in één of meer identieke of overeenkomstige bijzondere technische kenmerken tot uitdrukking komt. Onder het begrip „bijzondere technische kenmerken” worden die technische kenmerken verstaan die bepalend zijn voor de bijdrage die elk van de geclaimde uitvindingen, als geheel beschouwd, levert aan de stand van de techniek.
 
 2. Voor het bepalen of een groep van uitvindingen zodanig onderling is verbonden dat deze op een enkele algemene uitvindingsgedachte berusten, doet het niet ter zake of de uitvindingen zijn neergelegd in afzonderlijke conclusies dan wel als varianten in een enkele conclusie.
 
@@ -12260,13 +12264,13 @@ Vervallen
 
 ##### Regel 49. Indiening van de stukken van de aanvrage
 
-1. Vertalingen ingediend ingevolge [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=III&artikel=14&z=2024-04-01&g=2024-04-01), of [regel 40, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=40&z=2024-04-01&g=2024-04-01), worden als stukken van de Europese octrooiaanvrage beschouwd.
+1. Vertalingen ingediend ingevolge [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=III&artikel=14&z=2024-12-16&g=2024-12-16), of [regel 40, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=40&z=2024-12-16&g=2024-12-16), worden als stukken van de Europese octrooiaanvrage beschouwd.
 
 2. De President van het Europees Octrooibureau bepaalt de vormvereisten voor indiening van stukken die tot de aanvrage behoren.
 
 ##### Regel 50. Naderhand ingediende documenten
 
-1. [Regels 42](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=II&artikel=42&z=2024-04-01&g=2024-04-01), [43](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=II&artikel=43&z=2024-04-01&g=2024-04-01) en 47 tot en met 49 zijn op de documenten die in de plaats komen van de stukken van de Europese octrooiaanvrage van toepassing. [Regel 49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=II&artikel=49&z=2024-04-01&g=2024-04-01), is ook van toepassing op de in [regel 71](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=IV&artikel=71&z=2024-04-01&g=2024-04-01) bedoelde vertaling van de conclusies.
+1. [Regels 42](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=II&artikel=42&z=2024-12-16&g=2024-12-16), [43](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=II&artikel=43&z=2024-12-16&g=2024-12-16) en 47 tot en met 49 zijn op de documenten die in de plaats komen van de stukken van de Europese octrooiaanvrage van toepassing. [Regel 49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=II&artikel=49&z=2024-12-16&g=2024-12-16), is ook van toepassing op de in [regel 71](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=IV&artikel=71&z=2024-12-16&g=2024-12-16) bedoelde vertaling van de conclusies.
 
 2. De President van het Europees Octrooibureau bepaalt de vormvereisten voor indiening van alle andere stukken dan die tot de aanvrage behoren.
 
@@ -12276,33 +12280,33 @@ Vervallen
 
 1. De jaartaks voor een Europese octrooiaanvrage dient telkens voor het komende jaar te worden betaald op de laatste dag van de maand die overeenkomt met de maand waarin de datum van indiening van de Europese octrooiaanvrage valt. De jaartaks voor het derde jaar kan niet eerder dan zes maanden voor de vervaldatum ervan rechtsgeldig worden betaald. Alle overige jaartaksen kunnen niet eerder dan drie maanden voor de vervaldatum ervan rechtsgeldig worden betaald.
 
-2. Indien de jaartaks niet ingevolge het eerste lid op de vervaldatum is betaald, kan de taks alsnog binnen zes maanden na deze datum worden voldaan, mits binnen diezelfde termijn tevens een toeslag wordt betaald. Het in [artikel 86, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=86&z=2024-04-01&g=2024-04-01), vervatte rechtsgevolg treedt in na het verstrijken van de termijn van zes maanden.
+2. Indien de jaartaks niet ingevolge het eerste lid op de vervaldatum is betaald, kan de taks alsnog binnen zes maanden na deze datum worden voldaan, mits binnen diezelfde termijn tevens een toeslag wordt betaald. Het in [artikel 86, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=86&z=2024-12-16&g=2024-12-16), vervatte rechtsgevolg treedt in na het verstrijken van de termijn van zes maanden.
 
 3. De jaartaksen die verschuldigd zijn voor een eerdere aanvrage tot aan de datum waarop een afgesplitste octrooiaanvrage wordt ingediend, dienen eveneens te worden betaald voor de afgesplitste aanvrage en zijn verschuldigd wanneer laatstgenoemde aanvrage wordt ingediend. Deze taksen en alle jaartaksen die vervallen binnen vier maanden na de indiening van de afgesplitste octrooiaanvrage kunnen zonder toeslag binnen die termijn worden betaald. Het tweede lid is van toepassing.
 
-4. Indien een Europese octrooiaanvrage is afgewezen of geacht wordt te zijn ingetrokken vanwege de overschrijding van een termijn, en indien de aanvrager overeenkomstig [artikel 122](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=I&artikel=122&z=2024-04-01&g=2024-04-01) in zijn rechten is hersteld,
+4. Indien een Europese octrooiaanvrage is afgewezen of geacht wordt te zijn ingetrokken vanwege de overschrijding van een termijn, en indien de aanvrager overeenkomstig [artikel 122](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=I&artikel=122&z=2024-12-16&g=2024-12-16) in zijn rechten is hersteld,
 
 - a. is een jaartaks, die ingevolge het eerste lid verschuldigd zou zijn geweest in het tijdvak vanaf de datum waarop het verlies van recht ontstond tot en met de datum van de kennisgeving van de beslissing tot herstel in de vorige toestand, op laatstgenoemde datum verschuldigd. Deze taks en een eventueel binnen vier maanden vanaf deze datum verschuldigde jaartaks kunnen alsnog binnen vier maanden na die datum worden voldaan zonder toeslag. Het tweede lid is van toepassing.
 
 - b. kan een jaartaks, die op de datum waarop het verlies van recht ontstond reeds verschuldigd was, maar de in het tweede lid voorziene termijn nog niet verstreken was, alsnog binnen zes maanden na de datum van de kennisgeving van de beslissing tot herstel in de vorige toestand worden voldaan, mits ook de toeslag bedoeld in het tweede lid binnen die termijn wordt voldaan.
 
-5. Indien de Grote Kamer van beroep krachtens [artikel 112a, vijfde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VI&artikel=112a&z=2024-04-01&g=2024-04-01), de procedure heropent bij de kamer van beroep
+5. Indien de Grote Kamer van beroep krachtens [artikel 112a, vijfde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VI&artikel=112a&z=2024-12-16&g=2024-12-16), de procedure heropent bij de kamer van beroep
 
 - a. is een jaartaks die ingevolge het eerste lid in het tijdvak beginnend op de datum waarop de beslissing van de kamer van beroep naar aanleiding van het verzoek om herziening is genomen tot en met de datum van de kennisgeving van de beslissing van de Grote Kamer van beroep tot heropening van de procedure voor de kamer van beroep verschuldigd zou zijn, pas op laatstgenoemde datum verschuldigd. Deze taks en een eventueel binnen vier maanden vanaf laatstgenoemde datum verschuldigde jaartaks kunnen binnen vier maanden na die laatstgenoemde datum alsnog zonder toeslag worden voldaan. Het tweede lid is van toepassing.
 
 - b. kan een jaartaks die op de datum van de beslissing van de kamer van beroep reeds verschuldigd was, maar de in het tweede lid voorziene termijn nog niet verstreken is, alsnog worden voldaan binnen zes maanden na de datum van de kennisgeving van de beslissing van de Grote Kamer van beroep tot heropening van de procedure voor de kamer van beroep, mits ook de toeslag bedoeld in het tweede lid binnen die termijn wordt voldaan.
 
-6. De jaartaks voor een nieuwe Europese octrooiaanvrage, ingediend overeenkomstig [artikel 61, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=II&artikel=61&z=2024-04-01&g=2024-04-01), behoeft niet te worden betaald voor het jaar waarin die aanvrage is ingediend noch voor de voorafgaande jaren.
+6. De jaartaks voor een nieuwe Europese octrooiaanvrage, ingediend overeenkomstig [artikel 61, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=II&artikel=61&z=2024-12-16&g=2024-12-16), behoeft niet te worden betaald voor het jaar waarin die aanvrage is ingediend noch voor de voorafgaande jaren.
 
 ##### Regel 52. Verklaring van voorrang
 
-1. In de verklaring van voorrang, bedoeld in [artikel 88, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=II&artikel=88&z=2024-04-01&g=2024-04-01), dienen de datum van de eerdere aanvrage, de Staat die partij is bij het Verdrag van Parijs of het lid van de Wereldhandelsorganisatie waarin of waarvoor die aanvrage is ingediend en het dossiernummer te worden vermeld. In het geval bedoeld in [artikel 87, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=II&artikel=87&z=2024-04-01&g=2024-04-01), is de eerste volzin van overeenkomstige toepassing.
+1. In de verklaring van voorrang, bedoeld in [artikel 88, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=II&artikel=88&z=2024-12-16&g=2024-12-16), dienen de datum van de eerdere aanvrage, de Staat die partij is bij het Verdrag van Parijs of het lid van de Wereldhandelsorganisatie waarin of waarvoor die aanvrage is ingediend en het dossiernummer te worden vermeld. In het geval bedoeld in [artikel 87, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=II&artikel=87&z=2024-12-16&g=2024-12-16), is de eerste volzin van overeenkomstige toepassing.
 
 2. De verklaring van voorrang wordt bij voorkeur tezamen met de Europese octrooiaanvrage ingediend. Zij kan nog binnen zestien maanden na de oudst ingeroepen voorrangsdatum worden ingediend.
 
 3. De aanvrager kan de verklaring van voorrang corrigeren binnen zestien maanden na de oudst ingeroepen voorrangsdatum of, indien de correctie zou leiden tot wijziging van de als oudst ingeroepen voorrangsdatum, binnen zestien maanden na de gecorrigeerde oudste voorrangsdatum, naar gelang van welke termijn van zestien maanden het eerst verstrijkt, mits deze correctie binnen vier maanden na de datum van indiening die aan de Europese octrooiaanvrage is toegekend wordt overgelegd.
 
-4. Na indiening van een verzoek krachtens [artikel 93, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=V&hoofdstuk=II&artikel=93&z=2024-04-01&g=2024-04-01), is indiening of correctie van een verklaring van voorrang niet meer mogelijk.
+4. Na indiening van een verzoek krachtens [artikel 93, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=V&hoofdstuk=II&artikel=93&z=2024-12-16&g=2024-12-16), is indiening of correctie van een verklaring van voorrang niet meer mogelijk.
 
 5. De gegevens van de verklaring van voorrang worden in de gepubliceerde Europese octrooiaanvrage en in het Europees octrooischrift vermeld.
 
@@ -12328,15 +12332,15 @@ Indien bij het onderzoek bedoeld in artikel 90, eerste lid, blijkt dat de aanvra
 
 ##### Regel 56. Ontbrekende delen van de beschrijving of ontbrekende tekeningen
 
-1. Indien bij het onderzoek bedoeld in [artikel 90, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&artikel=90&z=2024-04-01&g=2024-04-01), blijkt dat delen van de beschrijving of tekeningen, waarnaar in de beschrijving of in de conclusies verwezen wordt, lijken te ontbreken, verzoekt het Europees Octrooibureau de aanvrager de ontbrekende delen binnen twee maanden in te dienen. De aanvrager kan zich niet beroepen op het niet versturen van een dergelijk verzoek.
+1. Indien bij het onderzoek bedoeld in [artikel 90, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&artikel=90&z=2024-12-16&g=2024-12-16), blijkt dat delen van de beschrijving of tekeningen, waarnaar in de beschrijving of in de conclusies verwezen wordt, lijken te ontbreken, verzoekt het Europees Octrooibureau de aanvrager de ontbrekende delen binnen twee maanden in te dienen. De aanvrager kan zich niet beroepen op het niet versturen van een dergelijk verzoek.
 
-2. Indien ontbrekende delen van de beschrijving of ontbrekende tekeningen worden ingediend na de datum van indiening, maar binnen twee maanden na de datum van indiening, of indien een verzoek is gedaan ingevolge het eerste lid of ingevolge [regel 56a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=I&artikel=56a&z=2024-04-01&g=2024-04-01), binnen twee maanden na dat verzoek, wordt de datum van indiening van de aanvrage gewijzigd in de datum waarop de ontbrekende delen van de beschrijving of de ontbrekende tekeningen zijn ingediend. Het Europees Octrooibureau stelt de aanvrager daarvan in kennis.
+2. Indien ontbrekende delen van de beschrijving of ontbrekende tekeningen worden ingediend na de datum van indiening, maar binnen twee maanden na de datum van indiening, of indien een verzoek is gedaan ingevolge het eerste lid of ingevolge [regel 56a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=I&artikel=56a&z=2024-12-16&g=2024-12-16), binnen twee maanden na dat verzoek, wordt de datum van indiening van de aanvrage gewijzigd in de datum waarop de ontbrekende delen van de beschrijving of de ontbrekende tekeningen zijn ingediend. Het Europees Octrooibureau stelt de aanvrager daarvan in kennis.
 
-3. Indien de ontbrekende delen van de beschrijving of de ontbrekende tekeningen binnen de termijn overeenkomstig het tweede lid zijn ingediend en de aanvrage de voorrang van een eerdere aanvrage inroept op de datum waarop aan de vereisten vervat in regel 40, eerste lid, is voldaan, blijft de datum van indiening de datum waarop aan de vereisten vervat in [regel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=40&z=2024-04-01&g=2024-04-01), is voldaan, mits de ontbrekende delen van de beschrijving of de ontbrekende tekeningen volledig zijn vervat in de eerdere aanvrage, wanneer de aanvrager binnen de termijn overeenkomstig het tweede lid daarom verzoekt en het volgende indient:
+3. Indien de ontbrekende delen van de beschrijving of de ontbrekende tekeningen binnen de termijn overeenkomstig het tweede lid zijn ingediend en de aanvrage de voorrang van een eerdere aanvrage inroept op de datum waarop aan de vereisten vervat in regel 40, eerste lid, is voldaan, blijft de datum van indiening de datum waarop aan de vereisten vervat in [regel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=40&z=2024-12-16&g=2024-12-16), is voldaan, mits de ontbrekende delen van de beschrijving of de ontbrekende tekeningen volledig zijn vervat in de eerdere aanvrage, wanneer de aanvrager binnen de termijn overeenkomstig het tweede lid daarom verzoekt en het volgende indient:
 
-- a. een afschrift van de eerdere aanvrage, tenzij het Europees Octrooibureau overeenkomstig [regel 53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=IV&artikel=53&z=2024-04-01&g=2024-04-01), over een dergelijk afschrift beschikt;
+- a. een afschrift van de eerdere aanvrage, tenzij het Europees Octrooibureau overeenkomstig [regel 53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=IV&artikel=53&z=2024-12-16&g=2024-12-16), over een dergelijk afschrift beschikt;
 
-- b. indien de eerdere aanvrage niet in een officiële taal van het Europees Octrooibureau is gesteld, een vertaling daarvan in een van deze talen, tenzij het Europees Octrooibureau overeenkomstig [regel 53, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=IV&artikel=53&z=2024-04-01&g=2024-04-01), over een dergelijk afschrift beschikt; en
+- b. indien de eerdere aanvrage niet in een officiële taal van het Europees Octrooibureau is gesteld, een vertaling daarvan in een van deze talen, tenzij het Europees Octrooibureau overeenkomstig [regel 53, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=IV&artikel=53&z=2024-12-16&g=2024-12-16), over een dergelijk afschrift beschikt; en
 
 - c. een vermelding waar de ontbrekende delen van de beschrijving of de ontbrekende tekeningen volledig zijn opgenomen in de eerdere aanvrage en, indien van toepassing, in de vertaling ervan.
 
@@ -12352,41 +12356,41 @@ Indien bij het onderzoek bedoeld in artikel 90, eerste lid, blijkt dat de aanvra
 
 ##### Regel 57. Onderzoek op vormgebreken
 
-Indien aan een Europese octrooiaanvrage een datum van indiening is toegekend, onderzoekt het Europees Octrooibureau overeenkomstig [artikel 90, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&artikel=90&z=2024-04-01&g=2024-04-01), of:
+Indien aan een Europese octrooiaanvrage een datum van indiening is toegekend, onderzoekt het Europees Octrooibureau overeenkomstig [artikel 90, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&artikel=90&z=2024-12-16&g=2024-12-16), of:
 
-- a. tijdig een ingevolge [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=III&artikel=14&z=2024-04-01&g=2024-04-01), [regel 36, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=36&z=2024-04-01&g=2024-04-01), of [regel 40, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=40&z=2024-04-01&g=2024-04-01), vereiste vertaling van de aanvrage is ingediend;
+- a. tijdig een ingevolge [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=III&artikel=14&z=2024-12-16&g=2024-12-16), [regel 36, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=36&z=2024-12-16&g=2024-12-16), of [regel 40, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=40&z=2024-12-16&g=2024-12-16), vereiste vertaling van de aanvrage is ingediend;
 
-- b. het verzoek om verlening van een Europees octrooi aan de vereisten van [regel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=II&artikel=41&z=2024-04-01&g=2024-04-01) voldoet;
+- b. het verzoek om verlening van een Europees octrooi aan de vereisten van [regel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=II&artikel=41&z=2024-12-16&g=2024-12-16) voldoet;
 
-- c. de aanvrage een of meer conclusies overeenkomstig [artikel 78, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=78&z=2024-04-01&g=2024-04-01), omvat of een verwijzing naar een eerder ingediende aanvrage overeenkomstig [regel 40, eerste lid, onderdeel c, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=40&z=2024-04-01&g=2024-04-01), waaruit blijkt dat deze tevens de conclusies vervangt;
+- c. de aanvrage een of meer conclusies overeenkomstig [artikel 78, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=78&z=2024-12-16&g=2024-12-16), omvat of een verwijzing naar een eerder ingediende aanvrage overeenkomstig [regel 40, eerste lid, onderdeel c, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=40&z=2024-12-16&g=2024-12-16), waaruit blijkt dat deze tevens de conclusies vervangt;
 
-- d. de aanvrage een uittreksel overeenkomstig [artikel 78, eerste lid, onderdeel e, omvat](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=78&z=2024-04-01&g=2024-04-01);
+- d. de aanvrage een uittreksel overeenkomstig [artikel 78, eerste lid, onderdeel e, omvat](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=78&z=2024-12-16&g=2024-12-16);
 
-- e. de indieningstaks en de taks voor het nieuwheidsonderzoek overeenkomstig [regel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=I&artikel=17&z=2024-04-01&g=2024-04-01), [regel 36, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=36&z=2024-04-01&g=2024-04-01), of [regel 38](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=38&z=2024-04-01&g=2024-04-01) zijn betaald;
+- e. de indieningstaks en de taks voor het nieuwheidsonderzoek overeenkomstig [regel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=I&artikel=17&z=2024-12-16&g=2024-12-16), [regel 36, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=36&z=2024-12-16&g=2024-12-16), of [regel 38](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=38&z=2024-12-16&g=2024-12-16) zijn betaald;
 
-- f. de aanwijzing van de uitvinder overeenkomstig [regel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=II&artikel=19&z=2024-04-01&g=2024-04-01), is geschied;
+- f. de aanwijzing van de uitvinder overeenkomstig [regel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=II&artikel=19&z=2024-12-16&g=2024-12-16), is geschied;
 
-- g. indien van toepassing, aan de vereisten vervat in de [regels 52](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=IV&artikel=52&z=2024-04-01&g=2024-04-01) en [53](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=IV&artikel=53&z=2024-04-01&g=2024-04-01) voor een beroep op voorrang is voldaan;
+- g. indien van toepassing, aan de vereisten vervat in de [regels 52](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=IV&artikel=52&z=2024-12-16&g=2024-12-16) en [53](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=IV&artikel=53&z=2024-12-16&g=2024-12-16) voor een beroep op voorrang is voldaan;
 
-- h. indien van toepassing, aan de vereisten van [artikel 133, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=V&artikel=133&z=2024-04-01&g=2024-04-01), is voldaan;
+- h. indien van toepassing, aan de vereisten van [artikel 133, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=V&artikel=133&z=2024-12-16&g=2024-12-16), is voldaan;
 
-- i. de aanvrage voldoet aan de vormvereisten vervat in [regel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=II&artikel=49&z=2024-04-01&g=2024-04-01), en de van toepassing zijnde vormvereisten voorgeschreven door de President van het Europees Octrooibureau ingevolge regel 49, tweede lid;
+- i. de aanvrage voldoet aan de vormvereisten vervat in [regel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=II&artikel=49&z=2024-12-16&g=2024-12-16), en de van toepassing zijnde vormvereisten voorgeschreven door de President van het Europees Octrooibureau ingevolge regel 49, tweede lid;
 
-- j. de aanvrage voldoet aan de vereisten vervat in [regel 30](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=V&artikel=30&z=2024-04-01&g=2024-04-01).
+- j. de aanvrage voldoet aan de vereisten vervat in [regel 30](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=V&artikel=30&z=2024-12-16&g=2024-12-16).
 
 ##### Regel 58. Opheffen van gebreken in de stukken van de aanvrage
 
-Indien de Europese octrooiaanvrage niet voldoet aan de vereisten van [regel 57, onderdelen a tot en met d, h en i](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=I&artikel=57&z=2024-04-01&g=2024-04-01), deelt het Europees Octrooibureau de aanvrager dit mede en verzoekt hem deze gebreken binnen twee maanden op te heffen. De beschrijving, de conclusies en de tekeningen mogen slechts worden gewijzigd voor zover nodig om de gebreken op te heffen.
+Indien de Europese octrooiaanvrage niet voldoet aan de vereisten van [regel 57, onderdelen a tot en met d, h en i](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=I&artikel=57&z=2024-12-16&g=2024-12-16), deelt het Europees Octrooibureau de aanvrager dit mede en verzoekt hem deze gebreken binnen twee maanden op te heffen. De beschrijving, de conclusies en de tekeningen mogen slechts worden gewijzigd voor zover nodig om de gebreken op te heffen.
 
 ##### Regel 59. Gebreken bij beroep op voorrang
 
-Indien het dossiernummer van de eerdere aanvrage overeenkomstig [regel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=IV&artikel=52&z=2024-04-01&g=2024-04-01), of het afschrift van die aanvrage overeenkomstig [regel 53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=IV&artikel=53&z=2024-04-01&g=2024-04-01), niet tijdig zijn ingediend, deelt het Europees Octrooibureau de aanvrager dit mede en verzoekt hem deze binnen een te stellen termijn alsnog in te dienen.
+Indien het dossiernummer van de eerdere aanvrage overeenkomstig [regel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=IV&artikel=52&z=2024-12-16&g=2024-12-16), of het afschrift van die aanvrage overeenkomstig [regel 53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=IV&artikel=53&z=2024-12-16&g=2024-12-16), niet tijdig zijn ingediend, deelt het Europees Octrooibureau de aanvrager dit mede en verzoekt hem deze binnen een te stellen termijn alsnog in te dienen.
 
 ##### Regel 60. Latere aanwijzing van de uitvinder
 
-1. Indien de aanwijzing van de uitvinder niet overeenkomstig [regel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=II&artikel=19&z=2024-04-01&g=2024-04-01) is geschied, deelt het Europees Octrooibureau de aanvrager mede dat de Europese octrooiaanvrage wordt afgewezen, tenzij de aanwijzing alsnog binnen zestien maanden na de datum van indiening van de aanvrage of, indien een beroep op voorrang is gedaan, na de voorrangsdatum geschiedt, waarbij deze termijn geacht wordt in acht te zijn genomen indien de informatie wordt verstrekt voordat de technische voorbereidingen voor de publicatie van de Europese octrooiaanvrage zijn afgerond.
+1. Indien de aanwijzing van de uitvinder niet overeenkomstig [regel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=II&artikel=19&z=2024-12-16&g=2024-12-16) is geschied, deelt het Europees Octrooibureau de aanvrager mede dat de Europese octrooiaanvrage wordt afgewezen, tenzij de aanwijzing alsnog binnen zestien maanden na de datum van indiening van de aanvrage of, indien een beroep op voorrang is gedaan, na de voorrangsdatum geschiedt, waarbij deze termijn geacht wordt in acht te zijn genomen indien de informatie wordt verstrekt voordat de technische voorbereidingen voor de publicatie van de Europese octrooiaanvrage zijn afgerond.
 
-2. Indien het een afgesplitste aanvrage betreft of een nieuwe octrooiaanvrage in de zin van [artikel 61, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=II&artikel=62&z=2024-04-01&g=2024-04-01), en de aanwijzing van de uitvinder niet is geschied overeenkomstig [regel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=II&artikel=19&z=2024-04-01&g=2024-04-01), verzoekt het Europees Octrooibureau de aanvrager de uitvinder binnen een te stellen termijn alsnog aan te wijzen.
+2. Indien het een afgesplitste aanvrage betreft of een nieuwe octrooiaanvrage in de zin van [artikel 61, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=II&artikel=62&z=2024-12-16&g=2024-12-16), en de aanwijzing van de uitvinder niet is geschied overeenkomstig [regel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=II&artikel=19&z=2024-12-16&g=2024-12-16), verzoekt het Europees Octrooibureau de aanvrager de uitvinder binnen een te stellen termijn alsnog aan te wijzen.
 
 ### HOOFDSTUK II. VERSLAG VAN HET EUROPEES NIEUWHEIDSONDERZOEK
 
@@ -12406,7 +12410,7 @@ Indien het dossiernummer van de eerdere aanvrage overeenkomstig [regel 52, eerst
 
 ##### Regel 62. Uitgebreid verslag van het Europees nieuwheidsonderzoek
 
-1. Het verslag van het Europees nieuwheidsonderzoek gaat vergezeld van een opinie of de aanvrage en de uitvinding waarop zij betrekking heeft, lijkt te voldoen aan de vereisten van het Verdrag, tenzij een mededeling overeenkomstig [regel 71, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=IV&artikel=71&z=2024-04-01&g=2024-04-01), kan worden verstuurd.
+1. Het verslag van het Europees nieuwheidsonderzoek gaat vergezeld van een opinie of de aanvrage en de uitvinding waarop zij betrekking heeft, lijkt te voldoen aan de vereisten van het Verdrag, tenzij een mededeling overeenkomstig [regel 71, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=IV&artikel=71&z=2024-12-16&g=2024-12-16), kan worden verstuurd.
 
 2. De opinie bedoeld in het eerste lid wordt niet tezamen met het verslag van het nieuwheidsonderzoek gepubliceerd.
 
@@ -12448,13 +12452,13 @@ Het Europees Octrooibureau stelt tegelijk met het opstellen van het verslag van 
 
 3. De aangewezen Verdragsluitende Staten dienen in de gepubliceerde Europese octrooiaanvrage te worden vermeld.
 
-4. Indien de conclusies niet op de datum van indiening van de aanvrage waren ingediend, wordt dit bij de publicatie van de aanvrage vermeld. Indien voor de voltooiing van de technische voorbereidingen ten behoeve van de publicatie van de aanvrage, de conclusies overeenkomstig [regel 137, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=VI&artikel=137&z=2024-04-01&g=2024-04-01), zijn gewijzigd, worden naast de oorspronkelijk ingediende conclusies ook de nieuwe of gewijzigde conclusies in de publicatie opgenomen.
+4. Indien de conclusies niet op de datum van indiening van de aanvrage waren ingediend, wordt dit bij de publicatie van de aanvrage vermeld. Indien voor de voltooiing van de technische voorbereidingen ten behoeve van de publicatie van de aanvrage, de conclusies overeenkomstig [regel 137, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=VI&artikel=137&z=2024-12-16&g=2024-12-16), zijn gewijzigd, worden naast de oorspronkelijk ingediende conclusies ook de nieuwe of gewijzigde conclusies in de publicatie opgenomen.
 
 ##### Regel 69. Mededelingen betreffende de publicatie
 
-1. Het Europees Octrooibureau deelt de aanvrager de datum mede waarop in het Europees Octrooiblad melding wordt gemaakt van de publicatie van het verslag van het Europees nieuwheidsonderzoek en vestigt daarbij de aandacht van de aanvrager op [regel 70, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=III&artikel=70&z=2024-04-01&g=2024-04-01), [artikel 94, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&artikel=94&z=2024-04-01&g=2024-04-01), en [regel 70a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=IV&artikel=70a&z=2024-04-01&g=2024-04-01).
+1. Het Europees Octrooibureau deelt de aanvrager de datum mede waarop in het Europees Octrooiblad melding wordt gemaakt van de publicatie van het verslag van het Europees nieuwheidsonderzoek en vestigt daarbij de aandacht van de aanvrager op [regel 70, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=III&artikel=70&z=2024-12-16&g=2024-12-16), [artikel 94, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&artikel=94&z=2024-12-16&g=2024-12-16), en [regel 70a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=IV&artikel=70a&z=2024-12-16&g=2024-12-16).
 
-2. Indien in de mededeling bedoeld in het eerste lid een latere datum van publicatie dan de daadwerkelijke datum van publicatie wordt vermeld, is die latere datum voor de termijnen bedoeld in [regel 70, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=III&artikel=70&z=2024-04-01&g=2024-04-01), en [regel 70a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=IV&artikel=70a&z=2024-04-01&g=2024-04-01), bepalend, tenzij hier duidelijk sprake is van een fout.
+2. Indien in de mededeling bedoeld in het eerste lid een latere datum van publicatie dan de daadwerkelijke datum van publicatie wordt vermeld, is die latere datum voor de termijnen bedoeld in [regel 70, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=III&artikel=70&z=2024-12-16&g=2024-12-16), en [regel 70a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=IV&artikel=70a&z=2024-12-16&g=2024-12-16), bepalend, tenzij hier duidelijk sprake is van een fout.
 
 ##### Regel 70. Verzoek om onderzoek
 
@@ -12510,19 +12514,19 @@ Oppositie kan ook worden ingesteld wanneer in alle aangewezen Verdragsluitende S
 
 2. Het bezwaarschrift dient te bevatten:
 
-- a. gegevens van de opposant zoals bepaald in [regel 41, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=V&artikel=41&z=2024-04-01&g=2024-04-01);
+- a. gegevens van de opposant zoals bepaald in [regel 41, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=V&artikel=41&z=2024-12-16&g=2024-12-16);
 
 - b. het nummer van het Europees octrooi waartegen de oppositie wordt ingesteld alsmede de naam van de octrooihouder en de titel van de uitvinding;
 
 - c. een verklaring, waaruit blijkt in welke omvang er tegen het Europees octrooi bezwaar bestaat, en waarin de gronden waarop de oppositie is gebaseerd, alsmede de feiten en de bewijsmiddelen ter ondersteuning van deze gronden, worden aangegeven;
 
-- d. indien de opposant een gemachtigde heeft aangewezen, de gegevens bepaald in [regel 41, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=V&artikel=41&z=2024-04-01&g=2024-04-01).
+- d. indien de opposant een gemachtigde heeft aangewezen, de gegevens bepaald in [regel 41, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=V&artikel=41&z=2024-12-16&g=2024-12-16).
 
 3. Deel III van het Uitvoeringsreglement is van overeenkomstige toepassing op het bezwaarschrift.
 
 ##### Regel 77. Verwerping van de oppositie wegens niet-ontvankelijkheid
 
-1. Indien de oppositieafdeling vaststelt dat de oppositie niet voldoet aan [artikel 99, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=V&artikel=99&z=2024-04-01&g=2024-04-01), of [regel 76, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=76&z=2024-04-01&g=2024-04-01), of dat het octrooi waartegen oppositie is ingesteld onvoldoende is aangeduid, verwerpt zij de oppositie als niet-ontvankelijk, tenzij deze gebreken voor het verstrijken van de termijn voor oppositie zijn opgeheven.
+1. Indien de oppositieafdeling vaststelt dat de oppositie niet voldoet aan [artikel 99, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=V&artikel=99&z=2024-12-16&g=2024-12-16), of [regel 76, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=76&z=2024-12-16&g=2024-12-16), of dat het octrooi waartegen oppositie is ingesteld onvoldoende is aangeduid, verwerpt zij de oppositie als niet-ontvankelijk, tenzij deze gebreken voor het verstrijken van de termijn voor oppositie zijn opgeheven.
 
 2. Indien de oppositieafdeling vaststelt dat de oppositie niet voldoet aan andere bepalingen dan in het eerste lid bedoeld, deelt zij dit mede aan de opposant en verzoekt hem de vastgestelde gebreken op te heffen binnen een te stellen termijn. Indien de gebreken niet tijdig zijn opgeheven, verwerpt de oppositieafdeling de oppositie als niet-ontvankelijk.
 
@@ -12530,9 +12534,9 @@ Oppositie kan ook worden ingesteld wanneer in alle aangewezen Verdragsluitende S
 
 ##### Regel 78. Procedure indien de houder van het octrooi niet-gerechtigd is
 
-1. Indien een derde tijdens de oppositieprocedure of gedurende de oppositietermijn bewijs overlegt dat hij een procedure heeft ingesteld tegen de houder van het Europees octrooi om een beslissing in de zin van [artikel 61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=II&artikel=61&z=2024-04-01&g=2024-04-01), te verkrijgen, wordt de oppositieprocedure geschorst, tenzij de derde het Europees Octrooibureau schriftelijk mededeelt dat hij instemt met de voortzetting van deze procedure. Deze toestemming is onherroepelijk. De procedure wordt evenwel niet geschorst voordat dat oppositieafdeling de opposant ontvankelijk heeft verklaard. [Regel 14, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=I&artikel=14&z=2024-04-01&g=2024-04-01), is van overeenkomstige toepassing.
+1. Indien een derde tijdens de oppositieprocedure of gedurende de oppositietermijn bewijs overlegt dat hij een procedure heeft ingesteld tegen de houder van het Europees octrooi om een beslissing in de zin van [artikel 61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=II&artikel=61&z=2024-12-16&g=2024-12-16), te verkrijgen, wordt de oppositieprocedure geschorst, tenzij de derde het Europees Octrooibureau schriftelijk mededeelt dat hij instemt met de voortzetting van deze procedure. Deze toestemming is onherroepelijk. De procedure wordt evenwel niet geschorst voordat dat oppositieafdeling de opposant ontvankelijk heeft verklaard. [Regel 14, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=I&artikel=14&z=2024-12-16&g=2024-12-16), is van overeenkomstige toepassing.
 
-2. Indien een derde in overeenstemming met [artikel 99, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=V&artikel=99&z=2024-04-01&g=2024-04-01), voor een of meer aangewezen Verdragsluitende Staten in de plaats is getreden van de vorige octrooihouder, kan het in de oppositieprocedure in stand gehouden Europees octrooi voor deze Staten andere conclusies, beschrijving en tekeningen bevatten dan die voor de overige aangewezen Staten.
+2. Indien een derde in overeenstemming met [artikel 99, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=V&artikel=99&z=2024-12-16&g=2024-12-16), voor een of meer aangewezen Verdragsluitende Staten in de plaats is getreden van de vorige octrooihouder, kan het in de oppositieprocedure in stand gehouden Europees octrooi voor deze Staten andere conclusies, beschrijving en tekeningen bevatten dan die voor de overige aangewezen Staten.
 
 ##### Regel 79. Voorbereidingen van het onderzoek van de oppositie
 
@@ -12542,25 +12546,25 @@ Oppositie kan ook worden ingesteld wanneer in alle aangewezen Verdragsluitende S
 
 3. De oppositieafdeling deelt de door de octrooihouder ingediende zienswijze en wijzigingen mede aan de andere partijen en nodigt hen uit om binnen een te stellen termijn hierop te reageren, indien zij dit opportuun achten.
 
-4. In het geval van tussenkomst ingevolge [artikel 105](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=V&artikel=105&z=2024-04-01&g=2024-04-01), kan de oppositieafdeling van toepassing van het eerste tot en met derde lid afzien.
+4. In het geval van tussenkomst ingevolge [artikel 105](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=V&artikel=105&z=2024-12-16&g=2024-12-16), kan de oppositieafdeling van toepassing van het eerste tot en met derde lid afzien.
 
 ##### Regel 80. Wijziging van het Europees octrooi
 
-Onverminderd [regel 138](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=VI&artikel=138&z=2024-04-01&g=2024-04-01) kunnen de beschrijving, de conclusies en de tekeningen worden gewijzigd, mits de wijzigingen door een grond voor oppositie bedoeld in [artikel 100](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=V&artikel=100&z=2024-04-01&g=2024-04-01) worden ingegeven, ook wanneer de opposant zich niet op die grond heeft beroepen.
+Onverminderd [regel 138](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=VI&artikel=138&z=2024-12-16&g=2024-12-16) kunnen de beschrijving, de conclusies en de tekeningen worden gewijzigd, mits de wijzigingen door een grond voor oppositie bedoeld in [artikel 100](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=V&artikel=100&z=2024-12-16&g=2024-12-16) worden ingegeven, ook wanneer de opposant zich niet op die grond heeft beroepen.
 
 ##### Regel 81. Onderzoek van de oppositie
 
-1. De oppositieafdeling onderzoekt de gronden voor oppositie waarop de opposant zich beroept in de verklaring bedoeld in [regel 76, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=V&hoofdstuk=I&artikel=76&z=2024-04-01&g=2024-04-01). De oppositieafdeling kan ambtshalve ook gronden voor oppositie waarop de opposant zich niet beroept onderzoeken, indien deze zich verzetten tegen het in stand blijven van het Europees octrooi.
+1. De oppositieafdeling onderzoekt de gronden voor oppositie waarop de opposant zich beroept in de verklaring bedoeld in [regel 76, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=V&hoofdstuk=I&artikel=76&z=2024-12-16&g=2024-12-16). De oppositieafdeling kan ambtshalve ook gronden voor oppositie waarop de opposant zich niet beroept onderzoeken, indien deze zich verzetten tegen het in stand blijven van het Europees octrooi.
 
-2. Mededelingen overeenkomstig [artikel 101, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=V&artikel=101&z=2024-04-01&g=2024-04-01), en alle antwoorden daarop worden aan alle partijen verzonden. Indien de oppositieafdeling dit wenselijk acht, nodigt zij alle partijen uit om binnen een te stellen termijn te reageren.
+2. Mededelingen overeenkomstig [artikel 101, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=V&artikel=101&z=2024-12-16&g=2024-12-16), en alle antwoorden daarop worden aan alle partijen verzonden. Indien de oppositieafdeling dit wenselijk acht, nodigt zij alle partijen uit om binnen een te stellen termijn te reageren.
 
-3. In elke mededeling overeenkomstig [artikel 101, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=V&artikel=101&z=2024-04-01&g=2024-04-01), dient de houder van het Europees octrooi, indien nodig, in de gelegenheid te worden gesteld om voor zover noodzakelijk de beschrijving, de conclusies en de tekeningen te wijzigen. De mededeling dient, indien nodig, gemotiveerd te zijn en de gronden te bevatten die zich tegen het in stand blijven van het Europees octrooi verzetten.
+3. In elke mededeling overeenkomstig [artikel 101, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=V&artikel=101&z=2024-12-16&g=2024-12-16), dient de houder van het Europees octrooi, indien nodig, in de gelegenheid te worden gesteld om voor zover noodzakelijk de beschrijving, de conclusies en de tekeningen te wijzigen. De mededeling dient, indien nodig, gemotiveerd te zijn en de gronden te bevatten die zich tegen het in stand blijven van het Europees octrooi verzetten.
 
 ##### Regel 82. Instandhouding van het Europees octrooi in gewijzigde vorm
 
 1. Alvorens te beslissen het Europees octrooi in gewijzigde vorm in stand te houden, deelt de oppositieafdeling de partijen de tekst van het octrooi mede, waarmee zij voornemens is het octrooi in stand te houden en nodigt zij hen uit binnen twee maanden hun zienswijzen in te dienen indien zij niet instemmen met de voorgestelde tekst.
 
-2. Indien een partij niet instemt met de door de oppositieafdeling medegedeelde tekst, kan de oppositieprocedure worden voortgezet. In het tegengestelde geval verzoekt de oppositieafdeling na het verstrijken van de in het eerste lid bedoelde termijn de houder van het Europees octrooi binnen een termijn van drie maanden een vertaling van de gewijzigde conclusies in te dienen in de officiële talen van het Europees Octrooibureau die niet de procestaal zijn. Indien in mondelinge procedures besluiten ingevolge [artikel 106, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VI&artikel=106&z=2024-04-01&g=2024-04-01), of [artikel 111, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VI&artikel=111&z=2024-04-01&g=2024-04-01), zijn gebaseerd op stukken die niet voldoen aan de van toepassing zijnde vormvereisten van de President van het Europees Octrooibureau ingevolge [voorschrift 49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=II&artikel=49&z=2024-04-01&g=2024-04-01), wordt de houder van het octrooi uitgenodigd binnen de termijn van drie maanden de gewijzigde tekst in te dienen in een vorm die voldoet aan deze vormvereisten.
+2. Indien een partij niet instemt met de door de oppositieafdeling medegedeelde tekst, kan de oppositieprocedure worden voortgezet. In het tegengestelde geval verzoekt de oppositieafdeling na het verstrijken van de in het eerste lid bedoelde termijn de houder van het Europees octrooi binnen een termijn van drie maanden een vertaling van de gewijzigde conclusies in te dienen in de officiële talen van het Europees Octrooibureau die niet de procestaal zijn. Indien in mondelinge procedures besluiten ingevolge [artikel 106, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VI&artikel=106&z=2024-12-16&g=2024-12-16), of [artikel 111, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VI&artikel=111&z=2024-12-16&g=2024-12-16), zijn gebaseerd op stukken die niet voldoen aan de van toepassing zijnde vormvereisten van de President van het Europees Octrooibureau ingevolge [voorschrift 49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=II&artikel=49&z=2024-12-16&g=2024-12-16), wordt de houder van het octrooi uitgenodigd binnen de termijn van drie maanden de gewijzigde tekst in te dienen in een vorm die voldoet aan deze vormvereisten.
 
 3. Indien de op grond van het tweede lid vereiste handelingen niet tijdig zijn verricht, kunnen zij alsnog worden verricht binnen twee maanden na een mededeling dat de voorgeschreven termijn niet in acht is genomen. In het tegengestelde geval wordt het octrooi herroepen.
 
@@ -12578,7 +12582,7 @@ Documenten waarnaar een partij bij een oppositieprocedure verwijst, dienen tezam
 
 ##### Regel 85. Overgang van het Europees octrooi
 
-[Regel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=III&artikel=22&z=2024-04-01&g=2024-04-01) is van toepassing op iedere overgang van het Europees octrooi gedurende de termijn voor oppositie of gedurende de oppositieprocedure.
+[Regel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=III&artikel=22&z=2024-12-16&g=2024-12-16) is van toepassing op iedere overgang van het Europees octrooi gedurende de termijn voor oppositie of gedurende de oppositieprocedure.
 
 ##### Regel 86. Stukken in de oppositieprocedure
 
@@ -12586,7 +12590,7 @@ Deel III van het Uitvoeringsreglement is van overeenkomstige toepassing op stukk
 
 ##### Regel 87. Inhoud en vorm van het nieuwe Europese octrooischrift
 
-Het nieuwe Europese octrooischrift bevat de beschrijving, de conclusies en de tekeningen zoals gewijzigd. [Regel 73, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=V&artikel=73&z=2024-04-01&g=2024-04-01), en [regel 74](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=V&artikel=74&z=2024-04-01&g=2024-04-01) zijn van toepassing.
+Het nieuwe Europese octrooischrift bevat de beschrijving, de conclusies en de tekeningen zoals gewijzigd. [Regel 73, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=V&artikel=73&z=2024-12-16&g=2024-12-16), en [regel 74](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=V&artikel=74&z=2024-12-16&g=2024-12-16) zijn van toepassing.
 
 ##### Regel 88. Kosten
 
@@ -12600,27 +12604,27 @@ Het nieuwe Europese octrooischrift bevat de beschrijving, de conclusies en de te
 
 ##### Regel 89. Tussenkomst van de vermeende inbreukmaker
 
-1. De verklaring van tussenkomst dient binnen drie maanden na de datum waarop de procedure bedoeld in [artikel 105](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=V&artikel=105&z=2024-04-01&g=2024-04-01) is ingesteld te worden ingediend.
+1. De verklaring van tussenkomst dient binnen drie maanden na de datum waarop de procedure bedoeld in [artikel 105](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=V&artikel=105&z=2024-12-16&g=2024-12-16) is ingesteld te worden ingediend.
 
-2. De verklaring van tussenkomst dient schriftelijk te worden ingediend en met redenen te zijn omkleed; [regels 76](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=V&hoofdstuk=I&artikel=76&z=2024-04-01&g=2024-04-01) en [77](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=V&hoofdstuk=I&artikel=77&z=2024-04-01&g=2024-04-01) zijn van overeenkomstige toepassing. De kennisgeving van tussenkomst wordt pas geacht te zijn ingediend na betaling van de taks voor de oppositie.
+2. De verklaring van tussenkomst dient schriftelijk te worden ingediend en met redenen te zijn omkleed; [regels 76](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=V&hoofdstuk=I&artikel=76&z=2024-12-16&g=2024-12-16) en [77](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=V&hoofdstuk=I&artikel=77&z=2024-12-16&g=2024-12-16) zijn van overeenkomstige toepassing. De kennisgeving van tussenkomst wordt pas geacht te zijn ingediend na betaling van de taks voor de oppositie.
 
 ### HOOFDSTUK II. PROCEDURE TOT BEPERKING OF HERROEPING
 
 ##### Regel 90. Voorwerp van de procedure
 
-Het voorwerp van een procedure tot beperking of herroeping bedoeld in [artikel 105a](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=V&artikel=105a&z=2024-04-01&g=2024-04-01) is het Europees octrooi zoals verleend of zoals gewijzigd in een oppositieprocedure of een procedure tot beperking voor het Europees Octrooibureau.
+Het voorwerp van een procedure tot beperking of herroeping bedoeld in [artikel 105a](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=V&artikel=105a&z=2024-12-16&g=2024-12-16) is het Europees octrooi zoals verleend of zoals gewijzigd in een oppositieprocedure of een procedure tot beperking voor het Europees Octrooibureau.
 
 ##### Regel 91. Bevoegdheid ten aanzien van de procedure
 
-Over verzoeken om beperking of herroeping van het Europees octrooi overeenkomstig [artikel 105a](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=V&artikel=105a&z=2024-04-01&g=2024-04-01) beslist de onderzoeksafdeling. [Artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=III&artikel=18&z=2024-04-01&g=2024-04-01), is van overeenkomstige toepassing.
+Over verzoeken om beperking of herroeping van het Europees octrooi overeenkomstig [artikel 105a](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=V&artikel=105a&z=2024-12-16&g=2024-12-16) beslist de onderzoeksafdeling. [Artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=III&artikel=18&z=2024-12-16&g=2024-12-16), is van overeenkomstige toepassing.
 
 ##### Regel 92. Vereisten ten aanzien van het verzoek
 
-1. Het verzoek om beperking of herroeping van een Europees octrooi wordt schriftelijk in een van de officiële talen van het Europees Octrooibureau ingediend. Het verzoek kan eveneens in een officiële taal van een Verdragsluitende Staat worden ingediend, mits binnen de termijn omschreven in [regel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=I&artikel=6&z=2024-04-01&g=2024-04-01), een vertaling in een van de officiële talen van het Europees Octrooibureau wordt ingediend. Deel III van het Uitvoeringsreglement is van overeenkomstige toepassing op stukken ingediend tijdens procedures tot beperking of herroeping.
+1. Het verzoek om beperking of herroeping van een Europees octrooi wordt schriftelijk in een van de officiële talen van het Europees Octrooibureau ingediend. Het verzoek kan eveneens in een officiële taal van een Verdragsluitende Staat worden ingediend, mits binnen de termijn omschreven in [regel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=I&artikel=6&z=2024-12-16&g=2024-12-16), een vertaling in een van de officiële talen van het Europees Octrooibureau wordt ingediend. Deel III van het Uitvoeringsreglement is van overeenkomstige toepassing op stukken ingediend tijdens procedures tot beperking of herroeping.
 
 2. Het verzoek dient te bevatten:
 
-- a. gegevens van de houder van het Europees octrooi die het verzoek indient (de verzoeker) zoals bepaald in [regel 41, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=II&artikel=41&z=2024-04-01&g=2024-04-01), alsmede een vermelding van de Verdragsluitende Staten waarvoor de verzoeker de houder van het octrooi is;
+- a. gegevens van de houder van het Europees octrooi die het verzoek indient (de verzoeker) zoals bepaald in [regel 41, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=II&artikel=41&z=2024-12-16&g=2024-12-16), alsmede een vermelding van de Verdragsluitende Staten waarvoor de verzoeker de houder van het octrooi is;
 
 - b. het nummer van het octrooi ter zake waarvan om beperking of herroeping wordt verzocht en een lijst van de Verdragsluitende Staten waar het octrooi rechtsgeldig is geworden;
 
@@ -12628,31 +12632,31 @@ Over verzoeken om beperking of herroeping van het Europees octrooi overeenkomsti
 
 - d. indien om beperking van het octrooi wordt verzocht, de volledige tekst van de gewijzigde conclusies, en in voorkomend geval, van de gewijzigde beschrijving en tekeningen;
 
-- e. indien de verzoeker een gemachtigde heeft aangewezen, de gegevens genoemd in [regel 41, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=II&artikel=41&z=2024-04-01&g=2024-04-01).
+- e. indien de verzoeker een gemachtigde heeft aangewezen, de gegevens genoemd in [regel 41, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=II&artikel=41&z=2024-12-16&g=2024-12-16).
 
 ##### Regel 93. Voorrang van oppositieprocedure
 
 1. Het verzoek om beperking of herroeping wordt geacht niet te zijn ingediend, indien op het tijdstip van de indiening van het verzoek een oppositieprocedure met betrekking tot het octrooi aanhangig is.
 
-2. Indien op het tijdstip van het instellen van oppositie tegen een Europees octrooi ter zake van dat octrooi een beperkingsprocedure aanhangig is, beëindigt de onderzoeksafdeling de beperkingsprocedure en gelast de terugbetaling van de beperkingstaks. Terugbetaling wordt eveneens gelast van de taks bedoeld in [regel 95, derde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=V&hoofdstuk=II&artikel=95&z=2024-04-01&g=2024-04-01), indien de verzoeker deze taks reeds heeft betaald.
+2. Indien op het tijdstip van het instellen van oppositie tegen een Europees octrooi ter zake van dat octrooi een beperkingsprocedure aanhangig is, beëindigt de onderzoeksafdeling de beperkingsprocedure en gelast de terugbetaling van de beperkingstaks. Terugbetaling wordt eveneens gelast van de taks bedoeld in [regel 95, derde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=V&hoofdstuk=II&artikel=95&z=2024-12-16&g=2024-12-16), indien de verzoeker deze taks reeds heeft betaald.
 
 ##### Regel 94. Verwerping van het verzoek wegens niet-ontvankelijkheid
 
-Indien de onderzoeksafdeling vaststelt dat het verzoek om beperking of herroeping niet voldoet aan de vereisten van [regel 92](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=V&hoofdstuk=II&artikel=92&z=2024-04-01&g=2024-04-01), nodigt zij de verzoeker uit de geconstateerde gebreken binnen een te stellen termijn op te heffen. Indien de gebreken niet tijdig zijn opgeheven, verwerpt de onderzoeksafdeling het verzoek wegens niet-ontvankelijkheid.
+Indien de onderzoeksafdeling vaststelt dat het verzoek om beperking of herroeping niet voldoet aan de vereisten van [regel 92](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=V&hoofdstuk=II&artikel=92&z=2024-12-16&g=2024-12-16), nodigt zij de verzoeker uit de geconstateerde gebreken binnen een te stellen termijn op te heffen. Indien de gebreken niet tijdig zijn opgeheven, verwerpt de onderzoeksafdeling het verzoek wegens niet-ontvankelijkheid.
 
 ##### Regel 95. Beslissing op het verzoek
 
 1. Indien een verzoek om herroeping ontvankelijk is, herroept de onderzoeksafdeling het octrooi en deelt dit mede aan de verzoeker.
 
-2. Indien een verzoek om beperking ontvankelijk is, onderzoekt de onderzoeksafdeling of de gewijzigde conclusies een beperking vormen ten opzichte van de conclusies zoals verleend of gewijzigd tijdens een oppositie- of beperkingsprocedure en aan [artikel 84](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=84&z=2024-04-01&g=2024-04-01) en [artikel 123, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=I&artikel=123&z=2024-04-01&g=2024-04-01), voldoen. Indien het verzoek niet aan deze vereisten voldoet, stelt de onderzoeksafdeling de verzoeker eenmaal in de gelegenheid de geconstateerde gebreken op te heffen en de conclusies en, indien van toepassing, de beschrijving en tekeningen binnen een te stellen termijn te wijzigen.
+2. Indien een verzoek om beperking ontvankelijk is, onderzoekt de onderzoeksafdeling of de gewijzigde conclusies een beperking vormen ten opzichte van de conclusies zoals verleend of gewijzigd tijdens een oppositie- of beperkingsprocedure en aan [artikel 84](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=84&z=2024-12-16&g=2024-12-16) en [artikel 123, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=I&artikel=123&z=2024-12-16&g=2024-12-16), voldoen. Indien het verzoek niet aan deze vereisten voldoet, stelt de onderzoeksafdeling de verzoeker eenmaal in de gelegenheid de geconstateerde gebreken op te heffen en de conclusies en, indien van toepassing, de beschrijving en tekeningen binnen een te stellen termijn te wijzigen.
 
-3. Indien een verzoek om beperking ingevolge het tweede lid kan worden ingewilligd, deelt de onderzoeksafdeling dit mede aan de verzoeker en nodigt hem uit binnen een termijn van drie maanden een vertaling van de gewijzigde conclusies in de officiële talen van het Europees Octrooibureau die niet de procestaal zijn, in te dienen; [regel 82, derde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=V&hoofdstuk=I&artikel=82&z=2024-04-01&g=2024-04-01), is van overeenkomstige toepassing. Indien de verzoeker deze handelingen tijdig verricht, beperkt de onderzoeksafdeling het octrooi.
+3. Indien een verzoek om beperking ingevolge het tweede lid kan worden ingewilligd, deelt de onderzoeksafdeling dit mede aan de verzoeker en nodigt hem uit binnen een termijn van drie maanden een vertaling van de gewijzigde conclusies in de officiële talen van het Europees Octrooibureau die niet de procestaal zijn, in te dienen; [regel 82, derde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=V&hoofdstuk=I&artikel=82&z=2024-12-16&g=2024-12-16), is van overeenkomstige toepassing. Indien de verzoeker deze handelingen tijdig verricht, beperkt de onderzoeksafdeling het octrooi.
 
 4. Indien de verzoeker niet tijdig reageert op de overeenkomstig het tweede lid gedane mededeling of indien het verzoek om beperking niet kan worden ingewilligd of indien de verzoeker nalaat de ingevolge het derde lid vereiste handelingen tijdig te verrichten, wijst de onderzoeksafdeling het verzoek af.
 
 ##### Regel 96. Inhoud en vorm van het gewijzigde Europese octrooischrift
 
-Het gewijzigde Europese octrooischrift bevat de beschrijving, de conclusies en de tekeningen zoals gewijzigd. [Regel 73, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=V&artikel=73&z=2024-04-01&g=2024-04-01), en [regel 74](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=V&artikel=74&z=2024-04-01&g=2024-04-01) zijn van toepassing.
+Het gewijzigde Europese octrooischrift bevat de beschrijving, de conclusies en de tekeningen zoals gewijzigd. [Regel 73, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=V&artikel=73&z=2024-12-16&g=2024-12-16), en [regel 74](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=V&artikel=74&z=2024-12-16&g=2024-12-16) zijn van toepassing.
 
 ## DEEL VI. UITVOERINGSBEPALINGEN VAN DEEL VI VAN HET VERDRAG
 
@@ -12670,7 +12674,7 @@ Tegen de beslissing van een oppositieafdeling kan ook beroep worden ingesteld wa
 
 1. Het beroepschrift dient te bevatten:
 
-- a. de naam en het adres van de appellant zoals bepaald in [regel 41, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=II&artikel=41&z=2024-04-01&g=2024-04-01);
+- a. de naam en het adres van de appellant zoals bepaald in [regel 41, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=II&artikel=41&z=2024-12-16&g=2024-12-16);
 
 - b. de vermelding van de bestreden beslissing; en
 
@@ -12690,9 +12694,9 @@ Tegen de beslissing van een oppositieafdeling kan ook beroep worden ingesteld wa
 
 ##### Regel 101. Verwerping van het beroep wegens niet-ontvankelijkheid
 
-1. Indien het beroep niet voldoet aan de artikelen 106 tot en met 108, [regel 97](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VI&hoofdstuk=I&artikel=97&z=2024-04-01&g=2024-04-01) of [regel 99, eerste lid, onderdeel b of c, of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VI&hoofdstuk=I&artikel=99&z=2024-04-01&g=2024-04-01), verwerpt de kamer van beroep het beroep wegens niet-ontvankelijkheid, tenzij de gebreken zijn opgeheven voordat de desbetreffende termijn ingevolge artikel 108 is verstreken.
+1. Indien het beroep niet voldoet aan de artikelen 106 tot en met 108, [regel 97](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VI&hoofdstuk=I&artikel=97&z=2024-12-16&g=2024-12-16) of [regel 99, eerste lid, onderdeel b of c, of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VI&hoofdstuk=I&artikel=99&z=2024-12-16&g=2024-12-16), verwerpt de kamer van beroep het beroep wegens niet-ontvankelijkheid, tenzij de gebreken zijn opgeheven voordat de desbetreffende termijn ingevolge artikel 108 is verstreken.
 
-2. Indien de kamer van beroep vaststelt dat het beroep niet voldoet aan [regel 99, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VI&hoofdstuk=I&artikel=99&z=2024-04-01&g=2024-04-01), deelt zij dit aan de appellant mede en nodigt hem uit de geconstateerde gebreken binnen een te stellen termijn op te heffen. Indien de gebreken niet tijdig zijn opgeheven, verwerpt de kamer van beroep het beroep wegens niet-ontvankelijkheid.
+2. Indien de kamer van beroep vaststelt dat het beroep niet voldoet aan [regel 99, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VI&hoofdstuk=I&artikel=99&z=2024-12-16&g=2024-12-16), deelt zij dit aan de appellant mede en nodigt hem uit de geconstateerde gebreken binnen een te stellen termijn op te heffen. Indien de gebreken niet tijdig zijn opgeheven, verwerpt de kamer van beroep het beroep wegens niet-ontvankelijkheid.
 
 ##### Regel 102. Vorm van de beslissing van de kamer van beroep
 
@@ -12748,9 +12752,9 @@ De beslissing wordt door de voorzitter van de kamer van beroep en door de bevoeg
 
 ##### Regel 104. Overige fundamentele procedurele tekortkomingen
 
-Een fundamentele procedurele tekortkoming in de zin van [artikel 112a, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VI&artikel=112a&z=2024-04-01&g=2024-04-01), kan zich hebben voorgedaan indien de kamer van beroep,
+Een fundamentele procedurele tekortkoming in de zin van [artikel 112a, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VI&artikel=112a&z=2024-12-16&g=2024-12-16), kan zich hebben voorgedaan indien de kamer van beroep,
 
-- a. in strijd met [artikel 116](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=I&artikel=116&z=2024-04-01&g=2024-04-01) heeft verzuimd een mondelinge procedure te organiseren ondanks het verzoek van de verzoeker, of
+- a. in strijd met [artikel 116](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=I&artikel=116&z=2024-12-16&g=2024-12-16) heeft verzuimd een mondelinge procedure te organiseren ondanks het verzoek van de verzoeker, of
 
 - b. op het beroep heeft beslist zonder te beslissen over een voor die beslissing relevant verzoek.
 
@@ -12760,13 +12764,13 @@ Een verzoek om herziening kan worden gebaseerd op artikel 112a, tweede lid, onde
 
 ##### Regel 106. Verplichting tot het maken van bezwaar
 
-Een verzoek ingevolge [artikel 112a, tweede lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VI&artikel=112a&z=2024-04-01&g=2024-04-01), is uitsluitend ontvankelijk, indien tijdens de beroepsprocedure ter zake van de procedurele tekortkoming bezwaar is gemaakt en door de kamer van beroep is afgewezen, tenzij tijdens de beroepsprocedure geen bezwaar kon worden gemaakt.
+Een verzoek ingevolge [artikel 112a, tweede lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VI&artikel=112a&z=2024-12-16&g=2024-12-16), is uitsluitend ontvankelijk, indien tijdens de beroepsprocedure ter zake van de procedurele tekortkoming bezwaar is gemaakt en door de kamer van beroep is afgewezen, tenzij tijdens de beroepsprocedure geen bezwaar kon worden gemaakt.
 
 ##### Regel 107. Inhoud van het verzoek om herziening
 
 1. Het verzoek dient te bevatten:
 
-- a. de naam en het adres van de verzoeker zoals voorzien in [regel 41, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=V&artikel=41&z=2024-04-01&g=2024-04-01);
+- a. de naam en het adres van de verzoeker zoals voorzien in [regel 41, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=V&artikel=41&z=2024-12-16&g=2024-12-16);
 
 - b. een aanduiding van de beslissing die dient te worden herzien.
 
@@ -12776,15 +12780,15 @@ Een verzoek ingevolge [artikel 112a, tweede lid, onderdelen a tot en met d](http
 
 ##### Regel 108. Onderzoek van het verzoek
 
-1. Indien het verzoek niet voldoet aan [artikel 112a, eerste, tweede of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VI&artikel=112a&z=2024-04-01&g=2024-04-01), [regel 106](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VI&hoofdstuk=II&artikel=106&z=2024-04-01&g=2024-04-01) of [regel 107, eerste lid, onderdeel b, of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VI&hoofdstuk=II&artikel=107&z=2024-04-01&g=2024-04-01), verwerpt de Grote Kamer van beroep het verzoek wegens niet-ontvankelijkheid, tenzij de gebreken zijn opgeheven voor het verstrijken van de desbetreffende termijn ingevolge artikel 112a, vierde lid.
+1. Indien het verzoek niet voldoet aan [artikel 112a, eerste, tweede of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VI&artikel=112a&z=2024-12-16&g=2024-12-16), [regel 106](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VI&hoofdstuk=II&artikel=106&z=2024-12-16&g=2024-12-16) of [regel 107, eerste lid, onderdeel b, of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VI&hoofdstuk=II&artikel=107&z=2024-12-16&g=2024-12-16), verwerpt de Grote Kamer van beroep het verzoek wegens niet-ontvankelijkheid, tenzij de gebreken zijn opgeheven voor het verstrijken van de desbetreffende termijn ingevolge artikel 112a, vierde lid.
 
-2. Indien de Grote Kamer van beroep vaststelt dat het verzoek niet aan [regel 107, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VI&hoofdstuk=II&artikel=107&z=2024-04-01&g=2024-04-01), voldoet, deelt zij dit mede aan de verzoeker en nodigt hem uit de vastgestelde gebreken binnen een te stellen termijn op te heffen. Indien de gebreken niet tijdig worden opgeheven, verwerpt de Grote Kamer van beroep het verzoek wegens niet-ontvankelijkheid.
+2. Indien de Grote Kamer van beroep vaststelt dat het verzoek niet aan [regel 107, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VI&hoofdstuk=II&artikel=107&z=2024-12-16&g=2024-12-16), voldoet, deelt zij dit mede aan de verzoeker en nodigt hem uit de vastgestelde gebreken binnen een te stellen termijn op te heffen. Indien de gebreken niet tijdig worden opgeheven, verwerpt de Grote Kamer van beroep het verzoek wegens niet-ontvankelijkheid.
 
-3. Indien het verzoek gegrond is, maakt de Grote Kamer van beroep de beslissing van de kamer van beroep ongedaan en gelast de heropening van de procedure voor de ingevolge [regel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=II&afdeling=2&artikel=12a&z=2024-04-01&g=2024-04-01), verantwoordelijke kamer van beroep. De Grote Kamer van beroep kan gelasten dat leden van de kamer van beroep die hebben meegewerkt aan de ongedaan gemaakte beslissing worden vervangen.
+3. Indien het verzoek gegrond is, maakt de Grote Kamer van beroep de beslissing van de kamer van beroep ongedaan en gelast de heropening van de procedure voor de ingevolge [regel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=II&afdeling=2&artikel=12a&z=2024-12-16&g=2024-12-16), verantwoordelijke kamer van beroep. De Grote Kamer van beroep kan gelasten dat leden van de kamer van beroep die hebben meegewerkt aan de ongedaan gemaakte beslissing worden vervangen.
 
 ##### Regel 109. Procedure voor de behandeling van verzoeken om herziening
 
-1. Voor procedures ingevolge [artikel 112a](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VI&artikel=112a&z=2024-04-01&g=2024-04-01) zijn de bepalingen voor procedures voor de kamers van beroep van toepassing, tenzij anders is bepaald. [Regel 115, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=III&artikel=115&z=2024-04-01&g=2024-04-01), [regel 118, tweede lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=III&artikel=118&z=2024-04-01&g=2024-04-01), en [regel 132, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=V&artikel=132&z=2024-04-01&g=2024-04-01), zijn niet van toepassing. De Grote Kamer van beroep kan een termijn vaststellen die afwijkt van regel 4, eerste lid, eerste volzin.
+1. Voor procedures ingevolge [artikel 112a](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VI&artikel=112a&z=2024-12-16&g=2024-12-16) zijn de bepalingen voor procedures voor de kamers van beroep van toepassing, tenzij anders is bepaald. [Regel 115, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=III&artikel=115&z=2024-12-16&g=2024-12-16), [regel 118, tweede lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=III&artikel=118&z=2024-12-16&g=2024-12-16), en [regel 132, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=V&artikel=132&z=2024-12-16&g=2024-12-16), zijn niet van toepassing. De Grote Kamer van beroep kan een termijn vaststellen die afwijkt van regel 4, eerste lid, eerste volzin.
 
 2. De Grote Kamer van beroep
 
@@ -12828,13 +12832,13 @@ De Grote Kamer van beroep gelast de terugbetaling van de taks voor een verzoek o
 
 ##### Regel 115. Oproep tot verschijnen in een mondelinge procedure
 
-1. In de oproep aan de partijen tot verschijnen in een mondelinge procedure overeenkomstig [artikel 116](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=I&artikel=116&z=2024-04-01&g=2024-04-01) wordt op het tweede lid van deze regel gewezen. De oproep wordt ten minste twee maanden van tevoren gedaan, tenzij de partijen met een kortere termijn instemmen.
+1. In de oproep aan de partijen tot verschijnen in een mondelinge procedure overeenkomstig [artikel 116](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=I&artikel=116&z=2024-12-16&g=2024-12-16) wordt op het tweede lid van deze regel gewezen. De oproep wordt ten minste twee maanden van tevoren gedaan, tenzij de partijen met een kortere termijn instemmen.
 
 2. Indien een partij, die overeenkomstig de voorschriften is opgeroepen om te verschijnen in een mondelinge procedure voor het Europees Octrooibureau, niet is verschenen, kan de procedure in haar afwezigheid worden voortgezet.
 
 ##### Regel 116. Voorbereiding van de mondelinge procedure
 
-1. Bij de oproep wijst het Europees Octrooibureau op de punten die naar zijn mening ten behoeve van de te nemen beslissing dienen te worden besproken. Tegelijkertijd wordt een einddatum vastgesteld voor het indienen van schriftelijke opmerkingen ter voorbereiding van de mondelinge procedure. [Regel 132](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=II&artikel=132&z=2024-04-01&g=2024-04-01) is niet van toepassing. Na die datum overgelegde nieuwe feiten en bewijzen behoeven niet in aanmerking te worden genomen, tenzij ze toegelaten zijn wegens verandering van het onderwerp van de procedure.
+1. Bij de oproep wijst het Europees Octrooibureau op de punten die naar zijn mening ten behoeve van de te nemen beslissing dienen te worden besproken. Tegelijkertijd wordt een einddatum vastgesteld voor het indienen van schriftelijke opmerkingen ter voorbereiding van de mondelinge procedure. [Regel 132](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=II&artikel=132&z=2024-12-16&g=2024-12-16) is niet van toepassing. Na die datum overgelegde nieuwe feiten en bewijzen behoeven niet in aanmerking te worden genomen, tenzij ze toegelaten zijn wegens verandering van het onderwerp van de procedure.
 
 2. Indien de aanvrager of houder van het octrooi in kennis is gesteld van de gronden die de verlening of instandhouding van het octrooi beletten, kan hij worden uitgenodigd om voor de datum omschreven in het eerste lid, tweede volzin, stukken in te dienen die voldoen aan de vereisten van het Verdrag. Het eerste lid, derde en vierde volzin, is van overeenkomstige toepassing.
 
@@ -12848,13 +12852,13 @@ Indien het Europees Octrooibureau het noodzakelijk acht partijen, getuigen of de
 
 2. Een oproep tot verschijnen aan een partij, getuige of deskundige wordt ten minste twee maanden van tevoren gedaan, tenzij zij met een kortere termijn instemmen. De oproep dient te bevatten:
 
-- a. een uittreksel van de beslissing ingevolge [regel 117](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=I&artikel=117&z=2024-04-01&g=2024-04-01), waarin de datum, het tijdstip en de plaats waar het gelaste onderzoek zal plaatsvinden worden aangegeven, waarbij wordt vermeld of dit per videoconferentie zal worden uitgevoerd, alsmede de feiten waarover partijen, getuigen of deskundigen zullen worden gehoord;
+- a. een uittreksel van de beslissing ingevolge [regel 117](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=I&artikel=117&z=2024-12-16&g=2024-12-16), waarin de datum, het tijdstip en de plaats waar het gelaste onderzoek zal plaatsvinden worden aangegeven, waarbij wordt vermeld of dit per videoconferentie zal worden uitgevoerd, alsmede de feiten waarover partijen, getuigen of deskundigen zullen worden gehoord;
 
-- b. de namen van de partijen alsmede de rechten die de getuigen en de deskundigen kunnen inroepen op grond van [regel 122, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=I&artikel=122&z=2024-04-01&g=2024-04-01);
+- b. de namen van de partijen alsmede de rechten die de getuigen en de deskundigen kunnen inroepen op grond van [regel 122, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=I&artikel=122&z=2024-12-16&g=2024-12-16);
 
 - c. een aanduiding dat een partij, getuige of deskundige die opgeroepen is te verschijnen voor het Europees Octrooibureau in zijn kantoorruimtes, op zijn verzoek, per videoconferentie kan worden gehoord;
 
-- d. een aanduiding dat iedere partij, getuige of deskundige overeenkomstig [regel 120](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=I&artikel=120&z=2024-04-01&g=2024-04-01) kan verzoeken te worden gehoord door de bevoegde gerechtelijke instanties van het land waar hij woont, alsmede een verzoek het Europees Octrooibureau binnen een te stellen termijn te laten weten of hij bereid is voor het Europees Octrooibureau te verschijnen.
+- d. een aanduiding dat iedere partij, getuige of deskundige overeenkomstig [regel 120](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=I&artikel=120&z=2024-12-16&g=2024-12-16) kan verzoeken te worden gehoord door de bevoegde gerechtelijke instanties van het land waar hij woont, alsmede een verzoek het Europees Octrooibureau binnen een te stellen termijn te laten weten of hij bereid is voor het Europees Octrooibureau te verschijnen.
 
 ##### Regel 119. Tenuitvoerlegging van het verkrijgen van bewijs voor het Europees Octrooibureau
 
@@ -12866,9 +12870,9 @@ Indien het Europees Octrooibureau het noodzakelijk acht partijen, getuigen of de
 
 ##### Regel 120. Horen door een bevoegde nationale gerechtelijke instantie
 
-1. Een partij, getuige of deskundige die is opgeroepen voor het Europees Octrooibureau kan het Europees Octrooibureau verzoeken om te worden gehoord door een bevoegde gerechtelijke instantie in het land waar hij woont. Indien hierom wordt verzocht of indien binnen de in de oproep gestelde termijn geen antwoord wordt ontvangen, kan het Europees Octrooibureau in overeenstemming met [artikel 131, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=II&artikel=131&z=2024-04-01&g=2024-04-01), de bevoegde gerechtelijke instantie verzoeken de betrokkene te horen.
+1. Een partij, getuige of deskundige die is opgeroepen voor het Europees Octrooibureau kan het Europees Octrooibureau verzoeken om te worden gehoord door een bevoegde gerechtelijke instantie in het land waar hij woont. Indien hierom wordt verzocht of indien binnen de in de oproep gestelde termijn geen antwoord wordt ontvangen, kan het Europees Octrooibureau in overeenstemming met [artikel 131, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=II&artikel=131&z=2024-12-16&g=2024-12-16), de bevoegde gerechtelijke instantie verzoeken de betrokkene te horen.
 
-2. Indien het Europees Octrooibureau het opnieuw horen van een door hem gehoorde partij, getuige of deskundige onder ede of op een gelijkelijk bindende wijze wenselijk acht, kan het overeenkomstig [artikel 131, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=II&artikel=131&z=2024-04-01&g=2024-04-01), de bevoegde gerechtelijke instantie in het land waar de betrokkene woont hierom verzoeken.
+2. Indien het Europees Octrooibureau het opnieuw horen van een door hem gehoorde partij, getuige of deskundige onder ede of op een gelijkelijk bindende wijze wenselijk acht, kan het overeenkomstig [artikel 131, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=II&artikel=131&z=2024-12-16&g=2024-12-16), de bevoegde gerechtelijke instantie in het land waar de betrokkene woont hierom verzoeken.
 
 3. Indien het Europees Octrooibureau een bevoegde gerechtelijke instantie verzoekt een verklaring af te nemen, kan het de gerechtelijke instantie verzoeken de verklaring onder ede of op een gelijkelijk bindende wijze af te nemen en een lid van het desbetreffende orgaan toe te staan daarbij aanwezig te zijn en de partij, getuige of deskundige, hetzij via de instantie, hetzij rechtstreeks, vragen te stellen.
 
@@ -12884,7 +12888,7 @@ Indien het Europees Octrooibureau het noodzakelijk acht partijen, getuigen of de
 
 - c. de namen van de partijen bij de procedure;
 
-- d. een aanduiding van de rechten waarop hij op grond van [regel 122, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=III&artikel=122&z=2024-04-01&g=2024-04-01) aanspraak kan maken.
+- d. een aanduiding van de rechten waarop hij op grond van [regel 122, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=III&artikel=122&z=2024-12-16&g=2024-12-16) aanspraak kan maken.
 
 3. Een afschrift van het schriftelijk advies wordt aan de partijen verstrekt.
 
@@ -12934,13 +12938,13 @@ Indien het Europees Octrooibureau het noodzakelijk acht partijen, getuigen of de
 
 2. Kennisgeving wordt gedaan:
 
-- a. per post overeenkomstig [regel 126](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=IV&artikel=126&z=2024-04-01&g=2024-04-01);
+- a. per post overeenkomstig [regel 126](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=IV&artikel=126&z=2024-12-16&g=2024-12-16);
 
-- b. met behulp van elektronische communicatie overeenkomstig [regel 127](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=IV&artikel=127&z=2024-04-01&g=2024-04-01);
+- b. met behulp van elektronische communicatie overeenkomstig [regel 127](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=IV&artikel=127&z=2024-12-16&g=2024-12-16);
 
-- c. door overhandiging ten kantore van het Europees Octrooibureau overeenkomstig [regel 128](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=IV&artikel=128&z=2024-04-01&g=2024-04-01); of
+- c. door overhandiging ten kantore van het Europees Octrooibureau overeenkomstig [regel 128](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=IV&artikel=128&z=2024-12-16&g=2024-12-16); of
 
-- d. door openbare kennisgeving overeenkomstig [regel 129](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=IV&artikel=129&z=2024-04-01&g=2024-04-01).
+- d. door openbare kennisgeving overeenkomstig [regel 129](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=IV&artikel=129&z=2024-12-16&g=2024-12-16).
 
 3. De kennisgeving door tussenkomst van de centrale dienst voor de industriële eigendom van een Verdragsluitende Staat wordt gedaan overeenkomstig de wetgeving die van toepassing is op die dienst bij de nationale procedures.
 
@@ -12950,7 +12954,7 @@ Indien het Europees Octrooibureau het noodzakelijk acht partijen, getuigen of de
 
 1. Alle kennisgevingen per post geschieden per aangetekende brief.
 
-2. Wanneer de kennisgeving overeenkomstig het eerste lid is gedaan, wordt deze geacht door de geadresseerde te zijn ontvangen op de datum die op de kennisgeving staat vermeld, tenzij het stuk de geadresseerde niet heeft bereikt. In geval van een geschil over de aflevering van het stuk dient het Europees Octrooibureau te bewijzen dat het stuk is aangekomen en de datum vast te stellen waarop het stuk aan de geadresseerde is overhandigd. Indien het Europees Octrooibureau vaststelt dat het stuk meer dan zeven dagen na de op de kennisgeving vermelde datum aan de geadresseerde is overhandigd, wordt de datum van verstrijken van een tijdvak waarvoor de veronderstelde ontvangst van het stuk geldt als een van belang zijnde gebeurtenis ingevolge [regel 131, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=V&artikel=131&z=2024-04-01&g=2024-04-01), verlengt met het aantal dagen waarmee de zeven dagen zijn overschreden.
+2. Wanneer de kennisgeving overeenkomstig het eerste lid is gedaan, wordt deze geacht door de geadresseerde te zijn ontvangen op de datum die op de kennisgeving staat vermeld, tenzij het stuk de geadresseerde niet heeft bereikt. In geval van een geschil over de aflevering van het stuk dient het Europees Octrooibureau te bewijzen dat het stuk is aangekomen en de datum vast te stellen waarop het stuk aan de geadresseerde is overhandigd. Indien het Europees Octrooibureau vaststelt dat het stuk meer dan zeven dagen na de op de kennisgeving vermelde datum aan de geadresseerde is overhandigd, wordt de datum van verstrijken van een tijdvak waarvoor de veronderstelde ontvangst van het stuk geldt als een van belang zijnde gebeurtenis ingevolge [regel 131, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=V&artikel=131&z=2024-12-16&g=2024-12-16), verlengt met het aantal dagen waarmee de zeven dagen zijn overschreden.
 
 3. Kennisgeving overeenkomstig het eerste lid wordt geacht te zijn gedaan, zelfs indien de brief is geweigerd.
 
@@ -12960,7 +12964,7 @@ Indien het Europees Octrooibureau het noodzakelijk acht partijen, getuigen of de
 
 1. De kennisgeving kan met behulp van door de President van het Europees Octrooibureau vast te stellen elektronische communicatiemiddelen en onder door hem vast te stellen voorwaarden worden gedaan.
 
-2. Wanneer de kennisgeving met behulp van elektronische communicatie is gedaan, wordt het elektronische stuk geacht door de geadresseerde te zijn ontvangen op de datum die op de kennisgeving staat vermeld, tenzij het stuk zijn bestemming niet heeft bereikt. In geval van een geschil over de aflevering van het elektronische stuk dient het Europees Octrooibureau te bewijzen dat het stuk is aangekomen en de datum vast te stellen waarop het stuk zijn bestemming heeft bereikt. Indien het Europees Octrooibureau vaststelt dat het stuk meer dan zeven dagen na de op de kennisgeving vermelde datum aan de geadresseerde is overhandigd, wordt de datum van verstrijken van een tijdvak waarvoor de veronderstelde ontvangst van het stuk geldt als een van belang zijnde gebeurtenis ingevolge [regel 131, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=V&artikel=131&z=2024-04-01&g=2024-04-01), verlengt met het aantal dagen waarmee de zeven dagen zijn overschreden.
+2. Wanneer de kennisgeving met behulp van elektronische communicatie is gedaan, wordt het elektronische stuk geacht door de geadresseerde te zijn ontvangen op de datum die op de kennisgeving staat vermeld, tenzij het stuk zijn bestemming niet heeft bereikt. In geval van een geschil over de aflevering van het elektronische stuk dient het Europees Octrooibureau te bewijzen dat het stuk is aangekomen en de datum vast te stellen waarop het stuk zijn bestemming heeft bereikt. Indien het Europees Octrooibureau vaststelt dat het stuk meer dan zeven dagen na de op de kennisgeving vermelde datum aan de geadresseerde is overhandigd, wordt de datum van verstrijken van een tijdvak waarvoor de veronderstelde ontvangst van het stuk geldt als een van belang zijnde gebeurtenis ingevolge [regel 131, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=V&artikel=131&z=2024-12-16&g=2024-12-16), verlengt met het aantal dagen waarmee de zeven dagen zijn overschreden.
 
 ##### Regel 128. Kennisgeving door rechtstreekse overhandiging
 
@@ -13002,15 +13006,15 @@ De kennisgeving kan ten kantore van het Europees Octrooibureau worden gedaan doo
 
 1. Een stuk dat door het Europees Octrooibureau te laat is ontvangen, wordt geacht op tijd te zijn ontvangen, indien het tijdig voor het verstrijken van de termijn, overeenkomstig de door de President van het Europees Octrooibureau vastgestelde voorwaarden, is afgeleverd bij een erkende postdienst, tenzij het stuk later dan drie maanden na het verstrijken van de termijn is ontvangen.
 
-2. Het eerste lid is van overeenkomstige toepassing op elke termijn waarin in overeenstemming met [artikel 75, eerste lid, onderdeel b, of tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=75&z=2024-04-01&g=2024-04-01), handelingen plaatsvinden voor de bevoegde instantie.
+2. Het eerste lid is van overeenkomstige toepassing op elke termijn waarin in overeenstemming met [artikel 75, eerste lid, onderdeel b, of tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=75&z=2024-12-16&g=2024-12-16), handelingen plaatsvinden voor de bevoegde instantie.
 
 ##### Regel 134. Verlenging van termijnen
 
-1. Indien een termijn op een dag afloopt waarop een van de kantoren van het Europees Octrooibureau, waar men ingevolge [regel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=35&z=2024-04-01&g=2024-04-01), een octrooiaanvrage kan indienen, niet geopend is voor het in ontvangst nemen van stukken, of op een dag waarop om andere redenen dan bedoeld in het tweede lid daar geen postbestellingen plaatsvinden, wordt de termijn verlengd tot de eerstvolgende dag waarop alle kantoren waar men een octrooiaanvrage kan indienen, geopend zijn voor het in ontvangst nemen van stukken en waarop postbestellingen plaatsvinden. De eerste volzin is van overeenkomstige toepassing indien stukken, ingediend met behulp van een van de ingevolge regel 2, eerste lid, door de President van het Europees Octrooibureau toegestane elektronische communicatiemiddelen, niet ontvangen kunnen worden.
+1. Indien een termijn op een dag afloopt waarop een van de kantoren van het Europees Octrooibureau, waar men ingevolge [regel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=35&z=2024-12-16&g=2024-12-16), een octrooiaanvrage kan indienen, niet geopend is voor het in ontvangst nemen van stukken, of op een dag waarop om andere redenen dan bedoeld in het tweede lid daar geen postbestellingen plaatsvinden, wordt de termijn verlengd tot de eerstvolgende dag waarop alle kantoren waar men een octrooiaanvrage kan indienen, geopend zijn voor het in ontvangst nemen van stukken en waarop postbestellingen plaatsvinden. De eerste volzin is van overeenkomstige toepassing indien stukken, ingediend met behulp van een van de ingevolge regel 2, eerste lid, door de President van het Europees Octrooibureau toegestane elektronische communicatiemiddelen, niet ontvangen kunnen worden.
 
-2. Indien een termijn op een dag afloopt waarop de postbestelling of verzending van post in een Verdragsluitende Staat algemeen was verstoord, wordt voor de partijen die hun woonplaats of zetel in die Staat hebben of die gemachtigden hebben aangewezen die hun kantoor hebben in die Staat, de termijn verlengd tot de eerstvolgende dag na deze periode van verstoring. Indien de desbetreffende Staat de Staat is waar het Europees Octrooibureau gevestigd is, is deze bepaling van toepassing op alle partijen en hun gemachtigden. Dit lid is van overeenkomstige toepassing op de termijn bedoeld in [regel 37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=37&z=2024-04-01&g=2024-04-01).
+2. Indien een termijn op een dag afloopt waarop de postbestelling of verzending van post in een Verdragsluitende Staat algemeen was verstoord, wordt voor de partijen die hun woonplaats of zetel in die Staat hebben of die gemachtigden hebben aangewezen die hun kantoor hebben in die Staat, de termijn verlengd tot de eerstvolgende dag na deze periode van verstoring. Indien de desbetreffende Staat de Staat is waar het Europees Octrooibureau gevestigd is, is deze bepaling van toepassing op alle partijen en hun gemachtigden. Dit lid is van overeenkomstige toepassing op de termijn bedoeld in [regel 37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=37&z=2024-12-16&g=2024-12-16).
 
-3. Het eerste en tweede lid zijn van overeenkomstige toepassing wanneer handelingen worden verricht voor de in [artikel 75, eerste lid, onderdeel b, of tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=V&hoofdstuk=I&artikel=75&z=2024-04-01&g=2024-04-01), bedoelde bevoegde instantie.
+3. Het eerste en tweede lid zijn van overeenkomstige toepassing wanneer handelingen worden verricht voor de in [artikel 75, eerste lid, onderdeel b, of tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=V&hoofdstuk=I&artikel=75&z=2024-12-16&g=2024-12-16), bedoelde bevoegde instantie.
 
 4. De datum van de aanvang en van het einde van een verstoring zoals bedoeld in het tweede lid, wordt door het Europees Octrooibureau bekendgemaakt.
 
@@ -13018,15 +13022,15 @@ De kennisgeving kan ten kantore van het Europees Octrooibureau worden gedaan doo
 
 ##### Regel 135. Verdere behandeling
 
-1. Verdere behandeling ingevolge [artikel 121, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=I&artikel=121&z=2024-04-01&g=2024-04-01), wordt verzocht door betaling van de voorgeschreven taks binnen twee maanden na de mededeling betreffende het verzuim een termijn in acht te nemen of een verlies van recht. De nagelaten handeling dient binnen de termijn voor het indienen van het verzoek te worden voltooid.
+1. Verdere behandeling ingevolge [artikel 121, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=I&artikel=121&z=2024-12-16&g=2024-12-16), wordt verzocht door betaling van de voorgeschreven taks binnen twee maanden na de mededeling betreffende het verzuim een termijn in acht te nemen of een verlies van recht. De nagelaten handeling dient binnen de termijn voor het indienen van het verzoek te worden voltooid.
 
-2. Verdere behandeling is uitgesloten ter zake van de termijnen bedoeld in [artikel 121, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=I&artikel=121&z=2024-04-01&g=2024-04-01), en de termijnen ingevolge [regel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=I&artikel=6&z=2024-04-01&g=2024-04-01), [regel 16, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=I&artikel=16&z=2024-04-01&g=2024-04-01), [regel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=V&artikel=31&z=2024-04-01&g=2024-04-01), [regel 36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=36&z=2024-04-01&g=2024-04-01), [regel 40, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=40&z=2024-04-01&g=2024-04-01), [regel 51, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=III&artikel=51&z=2024-04-01&g=2024-04-01), [regel 52, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=IV&artikel=52&z=2024-04-01&g=2024-04-01), [regels 55](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=I&artikel=55&z=2024-04-01&g=2024-04-01), [56](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=I&artikel=56&z=2024-04-01&g=2024-04-01), [regel 56a, eerste lid en derde tot en met het zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=I&artikel=56a&z=2024-04-01&g=2024-04-01), [regels 58](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=I&artikel=58&z=2024-04-01&g=2024-04-01), [59](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=I&artikel=59&z=2024-04-01&g=2024-04-01), [62a](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=II&artikel=62a&z=2024-04-01&g=2024-04-01), [63](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=II&artikel=63&z=2024-04-01&g=2024-04-01), [64](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=II&artikel=64&z=2024-04-01&g=2024-04-01), [regel 112, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=I&artikel=112&z=2024-04-01&g=2024-04-01) en [regel 164, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IX&artikel=164&z=2024-04-01&g=2024-04-01).
+2. Verdere behandeling is uitgesloten ter zake van de termijnen bedoeld in [artikel 121, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=I&artikel=121&z=2024-12-16&g=2024-12-16), en de termijnen ingevolge [regel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=I&artikel=6&z=2024-12-16&g=2024-12-16), [regel 16, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=I&artikel=16&z=2024-12-16&g=2024-12-16), [regel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=V&artikel=31&z=2024-12-16&g=2024-12-16), [regel 36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=36&z=2024-12-16&g=2024-12-16), [regel 40, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=40&z=2024-12-16&g=2024-12-16), [regel 51, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=III&artikel=51&z=2024-12-16&g=2024-12-16), [regel 52, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=IV&artikel=52&z=2024-12-16&g=2024-12-16), [regels 55](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=I&artikel=55&z=2024-12-16&g=2024-12-16), [56](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=I&artikel=56&z=2024-12-16&g=2024-12-16), [regel 56a, eerste lid en derde tot en met het zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=I&artikel=56a&z=2024-12-16&g=2024-12-16), [regels 58](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=I&artikel=58&z=2024-12-16&g=2024-12-16), [59](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=I&artikel=59&z=2024-12-16&g=2024-12-16), [62a](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=II&artikel=62a&z=2024-12-16&g=2024-12-16), [63](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=II&artikel=63&z=2024-12-16&g=2024-12-16), [64](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=II&artikel=64&z=2024-12-16&g=2024-12-16), [regel 112, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=I&artikel=112&z=2024-12-16&g=2024-12-16) en [regel 164, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IX&artikel=164&z=2024-12-16&g=2024-12-16).
 
 3. Het orgaan dat bevoegd is ter zake van de nagelaten handeling beslist op het verzoek om verdere behandeling.
 
 ##### Regel 136. Herstel in de vorige toestand
 
-1. Het verzoek om herstel in de vorige toestand ingevolge [artikel 122, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=I&artikel=122&z=2024-04-01&g=2024-04-01), dient binnen twee maanden na het wegnemen van de oorzaak voor het niet in acht nemen van de termijn, doch uiterlijk binnen een jaar na het verstrijken van de niet in acht genomen termijn, schriftelijk te worden ingediend. Een verzoek om herstel in de vorige toestand ter zake van de in [artikel 87, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=II&artikel=87&z=2024-04-01&g=2024-04-01), en in [artikel 112a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VI&artikel=112a&z=2024-04-01&g=2024-04-01), omschreven termijnen dient echter binnen twee maanden na het verstrijken van die termijn te worden ingediend. Het verzoek om herstel in de vorige toestand wordt geacht eerst te zijn ingediend na betaling van de voorgeschreven taks.
+1. Het verzoek om herstel in de vorige toestand ingevolge [artikel 122, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=I&artikel=122&z=2024-12-16&g=2024-12-16), dient binnen twee maanden na het wegnemen van de oorzaak voor het niet in acht nemen van de termijn, doch uiterlijk binnen een jaar na het verstrijken van de niet in acht genomen termijn, schriftelijk te worden ingediend. Een verzoek om herstel in de vorige toestand ter zake van de in [artikel 87, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=II&artikel=87&z=2024-12-16&g=2024-12-16), en in [artikel 112a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VI&artikel=112a&z=2024-12-16&g=2024-12-16), omschreven termijnen dient echter binnen twee maanden na het verstrijken van die termijn te worden ingediend. Het verzoek om herstel in de vorige toestand wordt geacht eerst te zijn ingediend na betaling van de voorgeschreven taks.
 
 2. In het verzoek worden de gronden vermeld, alsmede de feiten waarop het gebaseerd is. De nagelaten handeling dient binnen de desbetreffende termijn voor het indienen van het verzoek overeenkomstig het eerste lid te worden voltooid.
 
@@ -13038,17 +13042,17 @@ De kennisgeving kan ten kantore van het Europees Octrooibureau worden gedaan doo
 
 1. De aanvrager kan de beschrijving, de conclusies of de tekeningen van een Europese octrooiaanvrage niet wijzigen voordat hij het verslag van het Europees nieuwheidsonderzoek heeft ontvangen, tenzij anders is bepaald.
 
-2. Tezamen met eventuele reacties, verbeteringen of wijzigingen naar aanleiding van mededelingen van het Europees Octrooibureau uit hoofde van [regel 70a, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=IV&artikel=70a&z=2024-04-01&g=2024-04-01), of [regel 161, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IX&artikel=161&z=2024-04-01&g=2024-04-01), kan de aanvrager uit eigen beweging de beschrijving, de conclusies en de tekeningen wijzigen.
+2. Tezamen met eventuele reacties, verbeteringen of wijzigingen naar aanleiding van mededelingen van het Europees Octrooibureau uit hoofde van [regel 70a, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=IV&artikel=70a&z=2024-12-16&g=2024-12-16), of [regel 161, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IX&artikel=161&z=2024-12-16&g=2024-12-16), kan de aanvrager uit eigen beweging de beschrijving, de conclusies en de tekeningen wijzigen.
 
 3. Voor verdere wijzigingen is de toestemming van de onderzoeksafdeling vereist.
 
 4. Bij het indienen van de wijzigingen bedoeld in het eerste tot en met derde lid, benoemt de aanvrager deze en vermeldt de basis ervoor in de aanvrage zoals oorspronkelijk ingediend. Indien de onderzoeksafdeling vaststelt dat niet aan deze eisen is voldaan, kan zij verzoeken om dit gebrek binnen een termijn van een maand op te heffen.
 
-5. Gewijzigde conclusies mogen geen betrekking hebben op niet-onderzochte onderwerpen die niet met de uitvinding of groep van uitvindingen waarop de conclusies oorspronkelijk betrekking hadden zodanig onderling zijn verbonden, dat ze op een enkele algemene uitvindingsgedachte berusten. Evenmin mogen zij betrekking hebben op niet-onderzochte onderwerpen in overeenstemming met [regel 62a](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=II&artikel=62a&z=2024-04-01&g=2024-04-01) of [regel 63](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=II&artikel=63&z=2024-04-01&g=2024-04-01).
+5. Gewijzigde conclusies mogen geen betrekking hebben op niet-onderzochte onderwerpen die niet met de uitvinding of groep van uitvindingen waarop de conclusies oorspronkelijk betrekking hadden zodanig onderling zijn verbonden, dat ze op een enkele algemene uitvindingsgedachte berusten. Evenmin mogen zij betrekking hebben op niet-onderzochte onderwerpen in overeenstemming met [regel 62a](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=II&artikel=62a&z=2024-12-16&g=2024-12-16) of [regel 63](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=II&artikel=63&z=2024-12-16&g=2024-12-16).
 
 ##### Regel 138. Uiteenlopende conclusies, beschrijvingen en tekeningen voor verschillende Staten
 
-Indien het Europees Octrooibureau in kennis wordt gesteld van het bestaan van een ouder recht overeenkomstig [artikel 139, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VIII&hoofdstuk=II&artikel=139&z=2024-04-01&g=2024-04-01), kan de Europese octrooiaanvrage of het Europees octrooi voor die Staat of Staten andere conclusies bevatten, en waar aangewezen beschrijvingen en tekeningen, dan die voor de overige aangewezen Staten.
+Indien het Europees Octrooibureau in kennis wordt gesteld van het bestaan van een ouder recht overeenkomstig [artikel 139, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VIII&hoofdstuk=II&artikel=139&z=2024-12-16&g=2024-12-16), kan de Europese octrooiaanvrage of het Europees octrooi voor die Staat of Staten andere conclusies bevatten, en waar aangewezen beschrijvingen en tekeningen, dan die voor de overige aangewezen Staten.
 
 ##### Regel 139. Verbetering van fouten in bij het Europees Octrooibureau ingediende stukken
 
@@ -13060,17 +13064,17 @@ In de beslissingen van het Europees Octrooibureau kunnen uitsluitend taal- en sc
 
 ##### Regel 141. Inlichtingen over de stand van de techniek
 
-1. Een aanvrager die beroep doet op een recht van voorrang in de zin van [artikel 87](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=II&artikel=87&z=2024-04-01&g=2024-04-01), dient een afschrift in van de uitkomsten van elk nieuwheidsonderzoek verricht door de instantie waar de eerdere aanvrage is ingediend tezamen met de Europese octrooiaanvrage, in het geval van een Euro-PCT-aanvrage zodra deze in de Europese fase komt, of onverwijld nadat deze uitkomsten hem ter beschikking zijn gesteld.
+1. Een aanvrager die beroep doet op een recht van voorrang in de zin van [artikel 87](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=II&artikel=87&z=2024-12-16&g=2024-12-16), dient een afschrift in van de uitkomsten van elk nieuwheidsonderzoek verricht door de instantie waar de eerdere aanvrage is ingediend tezamen met de Europese octrooiaanvrage, in het geval van een Euro-PCT-aanvrage zodra deze in de Europese fase komt, of onverwijld nadat deze uitkomsten hem ter beschikking zijn gesteld.
 
 2. Het in het eerste lid bedoelde afschrift wordt geacht naar behoren te zijn ingediend, indien het beschikbaar is voor het Europees Octrooibureau en kan worden toegevoegd aan het dossier van de Europese octrooiaanvrage overeenkomstig de door de President van het Europees Octrooibureau vastgestelde voorwaarden.
 
-3. Onverminderd het eerste en tweede lid, kan het Europees Octrooibureau de aanvrager uitnodigen binnen een termijn van twee maanden inlichtingen te verstrekken over de stand van de techniek in de zin van [artikel 124, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=I&artikel=124&z=2024-04-01&g=2024-04-01).
+3. Onverminderd het eerste en tweede lid, kan het Europees Octrooibureau de aanvrager uitnodigen binnen een termijn van twee maanden inlichtingen te verstrekken over de stand van de techniek in de zin van [artikel 124, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=I&artikel=124&z=2024-12-16&g=2024-12-16).
 
 ##### Regel 142. Onderbreking van de procedure
 
 1. De procedure voor het Europees Octrooibureau wordt onderbroken:
 
-- a. in geval van overlijden of handelingsonbekwaamheid, hetzij van de aanvrager of de houder van het Europees octrooi, hetzij van de persoon die ingevolge het nationale recht bevoegd is deze te vertegenwoordigen. Echter, indien deze gebeurtenissen geen invloed hebben op de bevoegdheid van de overeenkomstig [artikel 134](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=III&artikel=134&z=2024-04-01&g=2024-04-01) aangewezen gemachtigde, wordt de procedure slechts op verzoek van de gemachtigde onderbroken;
+- a. in geval van overlijden of handelingsonbekwaamheid, hetzij van de aanvrager of de houder van het Europees octrooi, hetzij van de persoon die ingevolge het nationale recht bevoegd is deze te vertegenwoordigen. Echter, indien deze gebeurtenissen geen invloed hebben op de bevoegdheid van de overeenkomstig [artikel 134](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=III&artikel=134&z=2024-12-16&g=2024-12-16) aangewezen gemachtigde, wordt de procedure slechts op verzoek van de gemachtigde onderbroken;
 
 - b. indien de aanvrager of de houder van het octrooi vanwege een op zijn vermogen gerichte procedure op juridische gronden de procedure niet kan voortzetten;
 
@@ -13080,7 +13084,7 @@ In de beslissingen van het Europees Octrooibureau kunnen uitsluitend taal- en sc
 
 3. In het geval bedoeld in het eerste lid, onderdeel c, wordt de procedure hervat wanneer het Europees Octrooibureau is verwittigd van de aanwijzing van een nieuwe gemachtigde van de aanvrager of wanneer het Bureau de andere partijen heeft kennisgegeven van de aanwijzing van een nieuwe gemachtigde van de houder van het octrooi. Indien het Europees Octrooibureau binnen drie maanden na het begin van de onderbreking van de procedure geen bericht heeft ontvangen inzake de aanwijzing van een nieuwe gemachtigde, deelt het aan de aanvrager of aan de houder van het octrooi mede:
 
-- a. in het geval bedoeld in [artikel 133, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=III&artikel=133&z=2024-04-01&g=2024-04-01), dat de Europese octrooiaanvrage wordt geacht te zijn ingetrokken of dat het Europees octrooi herroepen wordt, indien de aanwijzing niet binnen twee maanden na deze mededeling wordt ingediend; of
+- a. in het geval bedoeld in [artikel 133, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=III&artikel=133&z=2024-12-16&g=2024-12-16), dat de Europese octrooiaanvrage wordt geacht te zijn ingetrokken of dat het Europees octrooi herroepen wordt, indien de aanwijzing niet binnen twee maanden na deze mededeling wordt ingediend; of
 
 - b. in de overige gevallen, dat de procedure met de aanvrager of met de houder van het octrooi zal worden hervat op de datum van de kennisgeving van deze mededeling.
 
@@ -13100,17 +13104,17 @@ In de beslissingen van het Europees Octrooibureau kunnen uitsluitend taal- en sc
 
 - e. de aangewezen Verdragsluitende Staten;
 
-- f. gegevens van de aanvrager of de houder van het octrooi zoals voorzien in [regel 41, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=II&artikel=41&z=2024-04-01&g=2024-04-01);
+- f. gegevens van de aanvrager of de houder van het octrooi zoals voorzien in [regel 41, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=II&artikel=41&z=2024-12-16&g=2024-12-16);
 
-- g. achternaam, voornamen en land en woonplaats van de door de aanvrager of de houder van het octrooi aangewezen uitvinder, tenzij deze ingevolge [regel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=II&artikel=20&z=2024-04-01&g=2024-04-01), afstand heeft gedaan van het recht om als zodanig te worden vermeld;
+- g. achternaam, voornamen en land en woonplaats van de door de aanvrager of de houder van het octrooi aangewezen uitvinder, tenzij deze ingevolge [regel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=II&artikel=20&z=2024-12-16&g=2024-12-16), afstand heeft gedaan van het recht om als zodanig te worden vermeld;
 
-- h. gegevens van de gemachtigde van de aanvrager of houder van het octrooi, zoals voorzien in [regel 41, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=II&artikel=41&z=2024-04-01&g=2024-04-01); indien er meer dan een gemachtigde is, uitsluitend de gegevens van de eerstgenoemde gemachtigde, gevolgd door de woorden „en anderen” en in het geval van een samenwerkingsverband bedoeld in [regel 152, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=XI&artikel=152&z=2024-04-01&g=2024-04-01), uitsluitend de naam en het adres van het samenwerkingsverband;
+- h. gegevens van de gemachtigde van de aanvrager of houder van het octrooi, zoals voorzien in [regel 41, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=II&artikel=41&z=2024-12-16&g=2024-12-16); indien er meer dan een gemachtigde is, uitsluitend de gegevens van de eerstgenoemde gemachtigde, gevolgd door de woorden „en anderen” en in het geval van een samenwerkingsverband bedoeld in [regel 152, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=XI&artikel=152&z=2024-12-16&g=2024-12-16), uitsluitend de naam en het adres van het samenwerkingsverband;
 
 - i. gegevens betreffende voorrang (datum, Staat en dossiernummer van de eerdere aanvrage);
 
 - j. in geval van afsplitsing van de aanvrage, de nummers van alle afgesplitste aanvragen;
 
-- k. indien het een afgesplitste aanvrage of een nieuwe aanvrage ingediend ingevolge [artikel 61, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=II&artikel=61&z=2024-04-01&g=2024-04-01), betreft, de gegevens bedoeld in de onderdelen a, b en i met betrekking tot de eerdere aanvrage;
+- k. indien het een afgesplitste aanvrage of een nieuwe aanvrage ingediend ingevolge [artikel 61, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=II&artikel=61&z=2024-12-16&g=2024-12-16), betreft, de gegevens bedoeld in de onderdelen a, b en i met betrekking tot de eerdere aanvrage;
 
 - l. datum van publicatie van de aanvrage en, indien van toepassing, de datum van de afzonderlijke publicatie van het verslag van het Europees nieuwheidsonderzoek;
 
@@ -13126,13 +13130,13 @@ In de beslissingen van het Europees Octrooibureau kunnen uitsluitend taal- en sc
 
 - r. datum en strekking van de beslissing op de oppositie;
 
-- s. data van schorsing en hervatting van de procedure in de gevallen bedoeld in de [regels 14](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=I&artikel=14&z=2024-04-01&g=2024-04-01) en [78](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=V&hoofdstuk=I&artikel=78&z=2024-04-01&g=2024-04-01);
+- s. data van schorsing en hervatting van de procedure in de gevallen bedoeld in de [regels 14](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=I&artikel=14&z=2024-12-16&g=2024-12-16) en [78](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=V&hoofdstuk=I&artikel=78&z=2024-12-16&g=2024-12-16);
 
-- t. data van onderbreking en hervatting van de procedure in het geval bedoeld in [regel 142](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=VIII&artikel=142&z=2024-04-01&g=2024-04-01);
+- t. data van onderbreking en hervatting van de procedure in het geval bedoeld in [regel 142](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=VIII&artikel=142&z=2024-12-16&g=2024-12-16);
 
 - u. datum van herstel in de vorige toestand indien een inschrijving ingevolge onderdeel n of r heeft plaatsgevonden;
 
-- v. indiening van een verzoek tot omzetting ingevolge [artikel 135, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=V&artikel=135&z=2024-04-01&g=2024-04-01);
+- v. indiening van een verzoek tot omzetting ingevolge [artikel 135, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=V&artikel=135&z=2024-12-16&g=2024-12-16);
 
 - w. de vestiging van rechten op de aanvrage of het Europees octrooi en de overgang van deze rechten, voor zover dit Uitvoeringsreglement bepaalt dat dit wordt ingeschreven;
 
@@ -13144,13 +13148,13 @@ In de beslissingen van het Europees Octrooibureau kunnen uitsluitend taal- en sc
 
 ##### Regel 144. Delen van het dossier die niet voor inzage beschikbaar zijn
 
-Ingevolge [artikel 128, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=II&artikel=128&z=2024-04-01&g=2024-04-01), zijn de volgende delen van het dossier niet voor inzage beschikbaar:
+Ingevolge [artikel 128, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=II&artikel=128&z=2024-12-16&g=2024-12-16), zijn de volgende delen van het dossier niet voor inzage beschikbaar:
 
 - a. de stukken die betrekking hebben op de uitsluiting of wraking van de leden van de kamers van beroep of de Grote Kamer van beroep;
 
 - b. ontwerp-beslissingen, aantekeningen en alle overige stukken ter voorbereiding van beslissingen en kennisgevingen, die niet aan de partijen zijn medegedeeld;
 
-- c. de aanwijzing van de uitvinder indien deze ingevolge [regel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=II&artikel=20&z=2024-04-01&g=2024-04-01), afstand heeft gedaan van het recht om als zodanig te worden vermeld;
+- c. de aanwijzing van de uitvinder indien deze ingevolge [regel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=II&artikel=20&z=2024-12-16&g=2024-12-16), afstand heeft gedaan van het recht om als zodanig te worden vermeld;
 
 - d. elk ander stuk dat door de President van het Europees Octrooibureau van inzage wordt uitgesloten, omdat het doel van informatie voor het publiek over de Europese octrooiaanvrage of het Europees octrooi niet gediend wordt met inzage.
 
@@ -13162,7 +13166,7 @@ Ingevolge [artikel 128, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003
 
 ##### Regel 146. Verstrekking van gegevens uit de dossiers
 
-Onverminderd de beperkingen vervat in [artikel 128, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=II&artikel=128&z=2024-04-01&g=2024-04-01), en in [regel 144](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=IX&artikel=144&z=2024-04-01&g=2024-04-01), kan het Europees Octrooibureau, op verzoek, gegevens verstrekken ter zake van een dossier met betrekking tot een Europese octrooiaanvrage of een Europees octrooi. Het Europees Octrooibureau kan evenwel verwijzen naar de mogelijkheid van inzage van het dossier, indien het dit passend acht gelet op de hoeveelheid te verstrekken gegevens.
+Onverminderd de beperkingen vervat in [artikel 128, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=II&artikel=128&z=2024-12-16&g=2024-12-16), en in [regel 144](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=IX&artikel=144&z=2024-12-16&g=2024-12-16), kan het Europees Octrooibureau, op verzoek, gegevens verstrekken ter zake van een dossier met betrekking tot een Europese octrooiaanvrage of een Europees octrooi. Het Europees Octrooibureau kan evenwel verwijzen naar de mogelijkheid van inzage van het dossier, indien het dit passend acht gelet op de hoeveelheid te verstrekken gegevens.
 
 ##### Regel 147. Aanleggen, bijhouden en bewaren van dossiers
 
@@ -13180,9 +13184,9 @@ Onverminderd de beperkingen vervat in [artikel 128, eerste tot en met vierde lid
 
 - b. het octrooi door het Europees Octrooibureau is herroepen; of
 
-- c. het octrooi of de desbetreffende bescherming ingevolge [artikel 63, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=III&artikel=63&z=2024-04-01&g=2024-04-01), in de laatste van de aangewezen Staten is verstreken.
+- c. het octrooi of de desbetreffende bescherming ingevolge [artikel 63, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=III&artikel=63&z=2024-12-16&g=2024-12-16), in de laatste van de aangewezen Staten is verstreken.
 
-5. Onverminderd het vierde lid worden dossiers met betrekking tot aanvragen die hebben geleid tot afgesplitste aanvragen ingevolge [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=76&z=2024-04-01&g=2024-04-01) of tot nieuwe aanvragen ingevolge [artikel 61, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=II&artikel=61&z=2024-04-01&g=2024-04-01), bewaard gedurende ten minste dezelfde tijdsduur als de dossiers die op deze laatstgenoemde aanvragen betrekking hebben. Hetzelfde geldt voor dossiers die betrekking hebben op daaruit voortvloeiende Europese octrooien.
+5. Onverminderd het vierde lid worden dossiers met betrekking tot aanvragen die hebben geleid tot afgesplitste aanvragen ingevolge [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=76&z=2024-12-16&g=2024-12-16) of tot nieuwe aanvragen ingevolge [artikel 61, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=II&artikel=61&z=2024-12-16&g=2024-12-16), bewaard gedurende ten minste dezelfde tijdsduur als de dossiers die op deze laatstgenoemde aanvragen betrekking hebben. Hetzelfde geldt voor dossiers die betrekking hebben op daaruit voortvloeiende Europese octrooien.
 
 ### HOOFDSTUK X. JURIDISCHE EN ADMINISTRATIEVE SAMENWERKING
 
@@ -13194,11 +13198,11 @@ Onverminderd de beperkingen vervat in [artikel 128, eerste tot en met vierde lid
 
 ##### Regel 149. Inzage van dossiers door gerechtelijke instanties en autoriteiten van de Verdragsluitende Staten of door hun tussenkomst
 
-1. Inzage van de dossiers van Europese octrooiaanvragen of van Europese octrooien door gerechtelijke instanties of autoriteiten van de Verdragsluitende Staten geschiedt aan de hand van de originele stukken of aan de hand van afschriften daarvan; [regel 145](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=IX&artikel=145&z=2024-04-01&g=2024-04-01) is niet van toepassing.
+1. Inzage van de dossiers van Europese octrooiaanvragen of van Europese octrooien door gerechtelijke instanties of autoriteiten van de Verdragsluitende Staten geschiedt aan de hand van de originele stukken of aan de hand van afschriften daarvan; [regel 145](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=IX&artikel=145&z=2024-12-16&g=2024-12-16) is niet van toepassing.
 
-2. De gerechtelijke instanties en de openbare ministeries van de Verdragsluitende Staten kunnen, tijdens de voor hen gevoerde procedure, aan derden inzage geven in de dossiers of afschriften daarvan die het Europees Octrooibureau hen heeft toegezonden. Dit geschiedt overeenkomstig het bepaalde in [artikel 128](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=II&artikel=128&z=2024-04-01&g=2024-04-01) en hiervoor is geen taks verschuldigd.
+2. De gerechtelijke instanties en de openbare ministeries van de Verdragsluitende Staten kunnen, tijdens de voor hen gevoerde procedure, aan derden inzage geven in de dossiers of afschriften daarvan die het Europees Octrooibureau hen heeft toegezonden. Dit geschiedt overeenkomstig het bepaalde in [artikel 128](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=II&artikel=128&z=2024-12-16&g=2024-12-16) en hiervoor is geen taks verschuldigd.
 
-3. Wanneer het Europees Octrooibureau de dossiers doorzendt, vermeldt het hierbij onder welke beperkingen ingevolge [artikel 128, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=II&artikel=128&z=2024-04-01&g=2024-04-01), het dossier aan derden ter inzage mag worden gegeven.
+3. Wanneer het Europees Octrooibureau de dossiers doorzendt, vermeldt het hierbij onder welke beperkingen ingevolge [artikel 128, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=II&artikel=128&z=2024-12-16&g=2024-12-16), het dossier aan derden ter inzage mag worden gegeven.
 
 ##### Regel 150. Procedure bij rogatoire commissies
 
@@ -13232,13 +13236,13 @@ Onverminderd de beperkingen vervat in [artikel 128, eerste tot en met vierde lid
 
 2. Indien een gemachtigde nalaat een dergelijke volmacht in te dienen, verzoekt het Europees Octrooibureau hem dat binnen een te stellen termijn te doen. De volmacht kan betrekking hebben op een of meer Europese octrooiaanvragen of Europese octrooien.
 
-3. Indien niet voldaan is aan de vereisten van [artikel 133, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=III&artikel=133&z=2024-04-01&g=2024-04-01), wordt voor het benoemen van een gemachtigde en het indienen van de volmacht dezelfde termijn vastgesteld.
+3. Indien niet voldaan is aan de vereisten van [artikel 133, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=III&artikel=133&z=2024-12-16&g=2024-12-16), wordt voor het benoemen van een gemachtigde en het indienen van de volmacht dezelfde termijn vastgesteld.
 
 4. Een algemene volmacht op grond waarvan een gemachtigde wordt gemachtigd om op te treden in alle octrooizaken van een partij kan worden ingediend.
 
 5. De President van het Europees Octrooibureau kan de vorm en inhoud vaststellen van:
 
-- a. een volmacht ter zake van de vertegenwoordiging van personen ingevolge [artikel 133, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=III&artikel=133&z=2024-04-01&g=2024-04-01);
+- a. een volmacht ter zake van de vertegenwoordiging van personen ingevolge [artikel 133, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=III&artikel=133&z=2024-12-16&g=2024-12-16);
 
 - b. een algemene volmacht.
 
@@ -13256,7 +13260,7 @@ Onverminderd de beperkingen vervat in [artikel 128, eerste tot en met vierde lid
 
 ##### Regel 153. Bescherming van het beroepsgeheim
 
-1. Indien van een erkende gemachtigde in deze hoedanigheid advies is gevraagd, is alle communicatie tussen de erkende gemachtigde en diens cliënt of een derde, waarop [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=I&artikel=2&z=2024-04-01&g=2024-04-01) van de disciplinaire voorschriften voor erkende gemachtigden van toepassing is, blijvend gevrijwaard van bekendmaking in procedures voor het Europees Octrooibureau, tenzij de cliënt daarvan uitdrukkelijk afstand heeft gedaan.
+1. Indien van een erkende gemachtigde in deze hoedanigheid advies is gevraagd, is alle communicatie tussen de erkende gemachtigde en diens cliënt of een derde, waarop [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=I&hoofdstuk=I&artikel=2&z=2024-12-16&g=2024-12-16) van de disciplinaire voorschriften voor erkende gemachtigden van toepassing is, blijvend gevrijwaard van bekendmaking in procedures voor het Europees Octrooibureau, tenzij de cliënt daarvan uitdrukkelijk afstand heeft gedaan.
 
 2. Deze vrijwaring van bekendmaking is in het bijzonder van toepassing op elke mededeling die of elk stuk dat betrekking heeft op:
 
@@ -13274,15 +13278,15 @@ Onverminderd de beperkingen vervat in [artikel 128, eerste tot en met vierde lid
 
 - b. de datum van inschrijving voor leden die op de lijst zijn ingeschreven na 1 januari van het jaar waarvoor de contributie verschuldigd is.
 
-2. Onverminderd op grond van [artikel 134a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=III&artikel=134a&z=2024-04-01&g=2024-04-01), genomen disciplinaire maatregelen, kan de inschrijving van een erkende gemachtigde slechts ambtshalve worden doorgehaald:
+2. Onverminderd op grond van [artikel 134a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=III&artikel=134a&z=2024-12-16&g=2024-12-16), genomen disciplinaire maatregelen, kan de inschrijving van een erkende gemachtigde slechts ambtshalve worden doorgehaald:
 
 - a. in geval van overlijden of handelingsonbekwaamheid;
 
-- b. indien hij niet meer de nationaliteit van een Verdragsluitende Staat bezit, tenzij hem een ontheffing is verleend op grond van [artikel 134, zevende lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=III&artikel=134&z=2024-04-01&g=2024-04-01);
+- b. indien hij niet meer de nationaliteit van een Verdragsluitende Staat bezit, tenzij hem een ontheffing is verleend op grond van [artikel 134, zevende lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=III&artikel=134&z=2024-12-16&g=2024-12-16);
 
 - c. indien zijn kantoor of zijn plaats van zijn tewerkstelling zich niet meer op het grondgebied van een van de Verdragsluitende Staten bevindt.
 
-3. Een ieder, wiens inschrijving op de lijst van erkende gemachtigden ingevolge [artikel 134, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=III&artikel=134&z=2024-04-01&g=2024-04-01), is doorgehaald, wordt op verzoek opnieuw ingeschreven op die lijst indien de redenen voor de doorhaling niet meer bestaan.
+3. Een ieder, wiens inschrijving op de lijst van erkende gemachtigden ingevolge [artikel 134, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=III&artikel=134&z=2024-12-16&g=2024-12-16), is doorgehaald, wordt op verzoek opnieuw ingeschreven op die lijst indien de redenen voor de doorhaling niet meer bestaan.
 
 ##### Regel 155. Indiening en verzending van het verzoek tot omzetting
 
@@ -13294,7 +13298,7 @@ Onverminderd de beperkingen vervat in [artikel 128, eerste tot en met vierde lid
 
 ##### Regel 156. Informatie aan het publiek in geval van omzetting
 
-1. De stukken die overeenkomstig [regel 155, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VIII&artikel=155&z=2024-04-01&g=2024-04-01), zijn gevoegd bij het verzoek tot omzetting, worden door de centrale dienst voor de industriële eigendom beschikbaar gesteld aan het publiek onder dezelfde voorwaarden en binnen dezelfde grenzen als de stukken die betrekking hebben op de nationale procedure.
+1. De stukken die overeenkomstig [regel 155, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VIII&artikel=155&z=2024-12-16&g=2024-12-16), zijn gevoegd bij het verzoek tot omzetting, worden door de centrale dienst voor de industriële eigendom beschikbaar gesteld aan het publiek onder dezelfde voorwaarden en binnen dezelfde grenzen als de stukken die betrekking hebben op de nationale procedure.
 
 2. Het octrooischrift van het nationale octrooi dat voortvloeit uit de omzetting van een Europese octrooiaanvrage dient melding te maken van deze aanvrage.
 
@@ -13302,7 +13306,7 @@ Onverminderd de beperkingen vervat in [artikel 128, eerste tot en met vierde lid
 
 ##### Regel 157. Het Europees Octrooibureau als ontvangend bureau
 
-1. Het Europees Octrooibureau is bevoegd op te treden als ontvangend bureau in de zin van het PCT, indien de aanvrager inwoner of onderdaan is van een Verdragsluitende Staat bij dit Verdrag en bij het PCT. Indien de aanvrager het Europees Octrooibureau kiest als ontvangend bureau, wordt de internationale aanvrage onverminderd het derde lid rechtstreeks bij het Europees Octrooibureau ingediend. [Artikel 75, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=75&z=2024-04-01&g=2024-04-01), is van overeenkomstige toepassing.
+1. Het Europees Octrooibureau is bevoegd op te treden als ontvangend bureau in de zin van het PCT, indien de aanvrager inwoner of onderdaan is van een Verdragsluitende Staat bij dit Verdrag en bij het PCT. Indien de aanvrager het Europees Octrooibureau kiest als ontvangend bureau, wordt de internationale aanvrage onverminderd het derde lid rechtstreeks bij het Europees Octrooibureau ingediend. [Artikel 75, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=75&z=2024-12-16&g=2024-12-16), is van overeenkomstige toepassing.
 
 2. Indien het Europees Octrooibureau als ontvangend bureau op grond van het PCT optreedt, wordt de internationale aanvrage in de Duitse, de Engelse of de Franse taal ingediend. De President van het Europees Octrooibureau kan bepalen dat van de internationale aanvrage en elk stuk dat daarmee verband houdt, meer dan een afschrift wordt ingediend.
 
@@ -13320,31 +13324,33 @@ Onverminderd de beperkingen vervat in [artikel 128, eerste tot en met vierde lid
 
 ##### Regel 159. Het Europees Octrooibureau als aangewezen of gekozen bureau – Vereisten voor ingaan van de Europese fase
 
-1. Ter zake van een internationale aanvrage ingevolge [artikel 153](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=X&artikel=153&z=2024-04-01&g=2024-04-01) dient de aanvrager binnen eenendertig maanden na de datum van indiening van de aanvrage, of indien een beroep op voorrang is gedaan, vanaf de voorrangsdatum, het volgende te verrichten:
+1. Ter zake van een internationale aanvrage ingevolge [artikel 153](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=X&artikel=153&z=2024-12-16&g=2024-12-16) dient de aanvrager binnen eenendertig maanden na de datum van indiening van de aanvrage, of indien een beroep op voorrang is gedaan, vanaf de voorrangsdatum, het volgende te verrichten:
 
-- a. indien van toepassing, het verschaffen van de ingevolge [artikel 153, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=X&artikel=153&z=2024-04-01&g=2024-04-01), vereiste vertaling van de internationale aanvrage;
+- a. indien van toepassing, het verschaffen van de ingevolge [artikel 153, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=X&artikel=153&z=2024-12-16&g=2024-12-16), vereiste vertaling van de internationale aanvrage;
 
 - b. aangeven op welke stukken de Europese verleningsprocedure dient te worden gebaseerd, de oorspronkelijk ingediende of de gewijzigde stukken;
 
-- c. betalen van de indieningstaks voorzien in [artikel 78, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=78&z=2024-04-01&g=2024-04-01);
+- c. betalen van de indieningstaks voorzien in [artikel 78, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=78&z=2024-12-16&g=2024-12-16);
 
-- d. betalen van de aanwijzingstaks, indien de termijn bedoeld in [regel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=39&z=2024-04-01&g=2024-04-01), eerder is verstreken;
+- d. betalen van de aanwijzingstaks, indien de termijn bedoeld in [regel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=39&z=2024-12-16&g=2024-12-16), eerder is verstreken;
 
 - e. betalen van de taks voor het nieuwheidsonderzoek, indien een aanvullend verslag van het Europees nieuwheidsonderzoek dient te worden opgesteld;
 
-- f. indienen van het in [artikel 94](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&artikel=94&z=2024-04-01&g=2024-04-01) voorziene verzoek om onderzoek, indien de termijn ingevolge [regel 70, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=III&artikel=70&z=2024-04-01&g=2024-04-01), eerder is verstreken;
+- f. indienen van het in [artikel 94](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&artikel=94&z=2024-12-16&g=2024-12-16) voorziene verzoek om onderzoek, indien de termijn ingevolge [regel 70, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=III&artikel=70&z=2024-12-16&g=2024-12-16), eerder is verstreken;
 
-- g. betalen van de in [artikel 86, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=86&z=2024-04-01&g=2024-04-01), voorziene jaartaks voor het derde jaar, indien de taks eerder verschuldigd is ingevolge [regel 51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=III&artikel=51&z=2024-04-01&g=2024-04-01);
+- g. betalen van de in [artikel 86, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=86&z=2024-12-16&g=2024-12-16), voorziene jaartaks voor het derde jaar, indien de taks eerder verschuldigd is ingevolge [regel 51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=III&artikel=51&z=2024-12-16&g=2024-12-16);
 
-- h. indien van toepassing, het indienen van het tentoonstellingsbewijs als bedoeld in [artikel 55, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=I&artikel=55&z=2024-04-01&g=2024-04-01), en [regel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=IV&artikel=25&z=2024-04-01&g=2024-04-01).
+- h. indien van toepassing, het indienen van het tentoonstellingsbewijs als bedoeld in [artikel 55, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=I&artikel=55&z=2024-12-16&g=2024-12-16), en [regel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=IV&artikel=25&z=2024-12-16&g=2024-12-16).
 
 2. Tot het nemen van beslissingen namens het Europees Octrooibureau ingevolge [artikel 25, tweede lid, onderdeel a, van het PCT](https://wetten.overheid.nl/jci1.3:c:BWBV0004680&artikel=25) zijn de onderzoeksafdelingen bevoegd.
 
-##### Regel 160. Gevolgen van niet-naleving van bepaalde vereisten
+##### Regel 160. Gevolgen van niet-naleving van bepaalde vereisten en fictie van intrekking
 
 1. Indien de vertaling van de internationale aanvrage of het verzoek om onderzoek niet tijdig wordt ingediend, of indien de indieningstaks, de taks voor het nieuwheidsonderzoek of de aanwijzingstaks niet tijdig wordt betaald, wordt de Europese octrooiaanvrage geacht te zijn ingetrokken.
 
-2. Indien het Europees Octrooibureau vaststelt dat de aanvrage geacht wordt te zijn ingetrokken ingevolge het eerste lid, deelt het dit mede aan de aanvrager. [Regel 112, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=I&artikel=112&z=2024-04-01&g=2024-04-01), is van overeenkomstige toepassing.
+2. Indien het Europees Octrooibureau vaststelt dat de aanvrage geacht wordt te zijn ingetrokken ingevolge het eerste lid, deelt het dit mede aan de aanvrager. [Regel 112, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=I&artikel=112&z=2024-12-16&g=2024-12-16), is van overeenkomstige toepassing.
+
+3. Zodra een Euro-PCT-aanvrage in de Europese fase komt, wordt de aanwijzing van de Verdragsluitende Staten die lidstaten van de Europese Unie zijn, geacht te zijn ingetrokken in overeenstemming met [regel 39, lid 2a](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=39&z=2024-12-16&g=2024-12-16).
 
 ##### Regel 161. Wijziging van de aanvrage
 
@@ -13354,9 +13360,9 @@ Onverminderd de beperkingen vervat in [artikel 128, eerste tot en met vierde lid
 
 ##### Regel 162. Conclusies waarvoor taksen dienen te worden betaald
 
-1. Indien de stukken van de aanvrage waarop de Europese verleningsprocedure dient te worden gebaseerd meer dan vijftien conclusies bevatten, dient binnen de termijn bedoeld in [regel 159, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IX&artikel=159&z=2024-04-01&g=2024-04-01), voor de zestiende en iedere daaropvolgende conclusie een conclusietaks te worden betaald zoals vervat in het Taksenreglement.
+1. Indien de stukken van de aanvrage waarop de Europese verleningsprocedure dient te worden gebaseerd meer dan vijftien conclusies bevatten, dient binnen de termijn bedoeld in [regel 159, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IX&artikel=159&z=2024-12-16&g=2024-12-16), voor de zestiende en iedere daaropvolgende conclusie een conclusietaks te worden betaald zoals vervat in het Taksenreglement.
 
-2. Indien de conclusietaksen niet tijdig zijn voldaan, kunnen zij alsnog worden betaald binnen de termijn ingevolge [regel 161, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IX&artikel=161&z=2024-04-01&g=2024-04-01), naargelang van het geval. Indien binnen deze termijn gewijzigde conclusies worden ingediend, worden de verschuldigde conclusietaksen berekend op basis van deze gewijzigde conclusies en moeten binnen deze termijn worden betaald.
+2. Indien de conclusietaksen niet tijdig zijn voldaan, kunnen zij alsnog worden betaald binnen de termijn ingevolge [regel 161, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IX&artikel=161&z=2024-12-16&g=2024-12-16), naargelang van het geval. Indien binnen deze termijn gewijzigde conclusies worden ingediend, worden de verschuldigde conclusietaksen berekend op basis van deze gewijzigde conclusies en moeten binnen deze termijn worden betaald.
 
 3. Binnen de termijn bedoeld in het eerste lid betaalde conclusietaksen boven de overeenkomstig het tweede lid, tweede volzin, verschuldigde taksen worden terugbetaald.
 
@@ -13364,15 +13370,15 @@ Onverminderd de beperkingen vervat in [artikel 128, eerste tot en met vierde lid
 
 ##### Regel 163. Onderzoek van bepaalde vormvereisten door het Europees Octrooibureau
 
-1. Indien de aanwijzing van de uitvinder ingevolge [regel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=II&artikel=19&z=2024-04-01&g=2024-04-01), niet binnen de termijn ingevolge [regel 159, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IX&artikel=159&z=2024-04-01&g=2024-04-01), is geschied, verzoekt het Europees Octrooibureau de aanvrager de aanwijzing binnen twee maanden te verrichten.
+1. Indien de aanwijzing van de uitvinder ingevolge [regel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=II&artikel=19&z=2024-12-16&g=2024-12-16), niet binnen de termijn ingevolge [regel 159, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IX&artikel=159&z=2024-12-16&g=2024-12-16), is geschied, verzoekt het Europees Octrooibureau de aanvrager de aanwijzing binnen twee maanden te verrichten.
 
-2. Indien een beroep op de voorrang van een eerdere aanvrage wordt gedaan en het dossiernummer van de eerdere aanvrage of een afschrift daarvan zoals voorzien in [regel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=IV&artikel=52&z=2024-04-01&g=2024-04-01), en [regel 53](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=IV&artikel=53&z=2024-04-01&g=2024-04-01) binnen de termijn bedoeld in [regel 159, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IX&artikel=159&z=2024-04-01&g=2024-04-01), niet is ingediend, verzoekt het Europees Octrooibureau de aanvrager dat nummer of afschrift binnen twee maanden te verstrekken. [Regel 53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=IV&artikel=53&z=2024-04-01&g=2024-04-01), is van toepassing.
+2. Indien een beroep op de voorrang van een eerdere aanvrage wordt gedaan en het dossiernummer van de eerdere aanvrage of een afschrift daarvan zoals voorzien in [regel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=IV&artikel=52&z=2024-12-16&g=2024-12-16), en [regel 53](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=IV&artikel=53&z=2024-12-16&g=2024-12-16) binnen de termijn bedoeld in [regel 159, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IX&artikel=159&z=2024-12-16&g=2024-12-16), niet is ingediend, verzoekt het Europees Octrooibureau de aanvrager dat nummer of afschrift binnen twee maanden te verstrekken. [Regel 53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=IV&artikel=53&z=2024-12-16&g=2024-12-16), is van toepassing.
 
-3. Indien na het verstrijken van de termijn ingevolge [regel 159, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IX&artikel=159&z=2024-04-01&g=2024-04-01), geen sequentie-opsomming die voldoet aan de normen voorzien in de Administratieve Instructies bij het PCT beschikbaar is voor het Europees Octrooibureau, wordt de aanvrager verzocht binnen twee maanden een sequentie-opsomming in te dienen die voldoet aan de regels vastgesteld door de President van het Europees Octrooibureau. [Regel 30, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=V&artikel=30&z=2024-04-01&g=2024-04-01), is van overeenkomstige toepassing.
+3. Indien na het verstrijken van de termijn ingevolge [regel 159, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IX&artikel=159&z=2024-12-16&g=2024-12-16), geen sequentie-opsomming die voldoet aan de normen voorzien in de Administratieve Instructies bij het PCT beschikbaar is voor het Europees Octrooibureau, wordt de aanvrager verzocht binnen twee maanden een sequentie-opsomming in te dienen die voldoet aan de regels vastgesteld door de President van het Europees Octrooibureau. [Regel 30, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=V&artikel=30&z=2024-12-16&g=2024-12-16), is van overeenkomstige toepassing.
 
-4. Indien na het verstrijken van de termijn ingevolge [regel 159, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IX&artikel=159&z=2024-04-01&g=2024-04-01), het adres, de nationaliteit of de Staat waarin een aanvrager woont of zijn zetel heeft, ontbreekt, verzoekt het Europees Octrooibureau de aanvrager deze gegevens binnen twee maanden te verstrekken.
+4. Indien na het verstrijken van de termijn ingevolge [regel 159, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IX&artikel=159&z=2024-12-16&g=2024-12-16), het adres, de nationaliteit of de Staat waarin een aanvrager woont of zijn zetel heeft, ontbreekt, verzoekt het Europees Octrooibureau de aanvrager deze gegevens binnen twee maanden te verstrekken.
 
-5. Indien na het verstrijken van de termijn ingevolge [regel 159, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IX&artikel=159&z=2024-04-01&g=2024-04-01), niet is voldaan aan de vereisten van [artikel 133, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=III&artikel=133&z=2024-04-01&g=2024-04-01), verzoekt het Europees Octrooibureau de aanvrager binnen twee maanden een erkende gemachtigde te benoemen.
+5. Indien na het verstrijken van de termijn ingevolge [regel 159, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IX&artikel=159&z=2024-12-16&g=2024-12-16), niet is voldaan aan de vereisten van [artikel 133, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=VII&hoofdstuk=III&artikel=133&z=2024-12-16&g=2024-12-16), verzoekt het Europees Octrooibureau de aanvrager binnen twee maanden een erkende gemachtigde te benoemen.
 
 6. Indien de in het eerste, vierde of vijfde lid geconstateerde gebreken niet tijdig zijn opgeheven, wordt de Europese octrooiaanvrage afgewezen. Indien het ingevolge het tweede lid geconstateerde gebrek niet tijdig wordt opgeheven, gaat het recht van voorrang voor de aanvrage verloren.
 
@@ -13380,27 +13386,27 @@ Onverminderd de beperkingen vervat in [artikel 128, eerste tot en met vierde lid
 
 1. Indien het Europees Octrooibureau meent dat de stukken van de aanvrage, die als basis voor het aanvullend Europees nieuwheidsonderzoek moeten dienen, niet voldoen aan het vereiste van eenheid van uitvinding:
 
-- a. stelt het bureau een gedeeltelijk aanvullend verslag van het nieuwheidsonderzoek op voor die delen van de aanvrage die betrekking hebben op de uitvinding, of op de groep van uitvindingen in de zin van [artikel 82](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=82&z=2024-04-01&g=2024-04-01), die als eerste in de conclusies wordt genoemd;
+- a. stelt het bureau een gedeeltelijk aanvullend verslag van het nieuwheidsonderzoek op voor die delen van de aanvrage die betrekking hebben op de uitvinding, of op de groep van uitvindingen in de zin van [artikel 82](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=82&z=2024-12-16&g=2024-12-16), die als eerste in de conclusies wordt genoemd;
 
 - b. deelt het bureau de aanvrager mee, dat indien het aanvullend verslag van het Europees nieuwheidsonderzoek de andere uitvindingen dient te bestrijken, voor elke betrokken uitvinding een volgende taks voor nieuwheidsonderzoek dient te worden betaald binnen een termijn van twee maanden; en
 
 - c. stelt het bureau het aanvullend verslag van het Europees nieuwheidsonderzoek op voor die delen van de aanvrage die betrekking hebben op de uitvindingen waarvoor taksen voor het nieuwheidsonderzoek zijn betaald.
 
-2. Indien van een aanvullend verslag van een Europees nieuwheidsonderzoek wordt afgezien en de onderzoeksafdeling meent dat in de stukken van de aanvrage die als basis voor onderzoek moeten dienen, een uitvinding of groep van uitvindingen in de zin van [artikel 82](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=82&z=2024-04-01&g=2024-04-01), waar bescherming voor wordt gevraagd, niet is onderzocht door het Europees Octrooibureau in zijn hoedanigheid van instantie voor het internationaal nieuwheidsonderzoek of van voor het aanvullende internationale nieuwheidsonderzoek aangezochte instantie:
+2. Indien van een aanvullend verslag van een Europees nieuwheidsonderzoek wordt afgezien en de onderzoeksafdeling meent dat in de stukken van de aanvrage die als basis voor onderzoek moeten dienen, een uitvinding of groep van uitvindingen in de zin van [artikel 82](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=82&z=2024-12-16&g=2024-12-16), waar bescherming voor wordt gevraagd, niet is onderzocht door het Europees Octrooibureau in zijn hoedanigheid van instantie voor het internationaal nieuwheidsonderzoek of van voor het aanvullende internationale nieuwheidsonderzoek aangezochte instantie:
 
 - a. deelt de onderzoeksafdeling de aanvrager mee, dat er een nieuwheidsonderzoek wordt uitgevoerd ter zake van iedere uitvinding waarvoor binnen een termijn van twee maanden een taks voor nieuwheidsonderzoek wordt betaald;
 
 - b. maakt de onderzoeksafdeling de resultaten bekend van elk nieuwheidsonderzoek dat is uitgevoerd in overeenstemming met onderdeel a, tezamen met:
 
-- –. een mededeling ingevolge [artikel 94, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&artikel=94&z=2024-04-01&g=2024-04-01), en [regel 71, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=IV&artikel=71&z=2024-04-01&g=2024-04-01), waarin de aanvrager in de gelegenheid wordt gesteld te reageren op deze resultaten en de beschrijving, de conclusies en de tekeningen te wijzigen, of
+- –. een mededeling ingevolge [artikel 94, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&artikel=94&z=2024-12-16&g=2024-12-16), en [regel 71, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=IV&artikel=71&z=2024-12-16&g=2024-12-16), waarin de aanvrager in de gelegenheid wordt gesteld te reageren op deze resultaten en de beschrijving, de conclusies en de tekeningen te wijzigen, of
 
-- –. een mededeling ingevolge [regel 71, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=IV&artikel=71&z=2024-04-01&g=2024-04-01), en
+- –. een mededeling ingevolge [regel 71, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=IV&artikel=71&z=2024-12-16&g=2024-12-16), en
 
-- c. indien van toepassing, nodigt de onderzoeksafdeling in de mededeling die ingevolge onderdeel b is uitgegaan, de aanvrager uit de aanvrage te beperken tot één uitvinding, of groep van uitvindingen in de zin van [artikel 82](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=82&z=2024-04-01&g=2024-04-01), waarvoor een verslag van het nieuwheidsonderzoek is opgesteld door het Europees Octrooibureau in zijn hoedanigheid van Instantie voor Internationaal Nieuwheidsonderzoek of van voor het aanvullende internationale nieuwheidsonderzoek aangezochte instantie, of waarvoor een nieuwheidsonderzoek is uitgevoerd in overeenstemming met de in onderdeel a bedoelde procedure.
+- c. indien van toepassing, nodigt de onderzoeksafdeling in de mededeling die ingevolge onderdeel b is uitgegaan, de aanvrager uit de aanvrage te beperken tot één uitvinding, of groep van uitvindingen in de zin van [artikel 82](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=III&hoofdstuk=I&artikel=82&z=2024-12-16&g=2024-12-16), waarvoor een verslag van het nieuwheidsonderzoek is opgesteld door het Europees Octrooibureau in zijn hoedanigheid van Instantie voor Internationaal Nieuwheidsonderzoek of van voor het aanvullende internationale nieuwheidsonderzoek aangezochte instantie, of waarvoor een nieuwheidsonderzoek is uitgevoerd in overeenstemming met de in onderdeel a bedoelde procedure.
 
-3. In de procedure ingevolge het tweede lid, onderdeel a, zijn de [regels 62a](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=II&artikel=62a&z=2024-04-01&g=2024-04-01) en [63](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=II&artikel=63&z=2024-04-01&g=2024-04-01) van overeenkomstige toepassing.
+3. In de procedure ingevolge het tweede lid, onderdeel a, zijn de [regels 62a](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=II&artikel=62a&z=2024-12-16&g=2024-12-16) en [63](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=II&artikel=63&z=2024-12-16&g=2024-12-16) van overeenkomstige toepassing.
 
-4. [Regel 62](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=II&artikel=62&z=2024-04-01&g=2024-04-01) en [regel 70, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=III&artikel=70&z=2024-04-01&g=2024-04-01), zijn niet van toepassing op de resultaten van een nieuwheidsonderzoek dat is uitgevoerd in overeenstemming met het tweede lid.
+4. [Regel 62](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=II&artikel=62&z=2024-12-16&g=2024-12-16) en [regel 70, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=IV&hoofdstuk=III&artikel=70&z=2024-12-16&g=2024-12-16), zijn niet van toepassing op de resultaten van een nieuwheidsonderzoek dat is uitgevoerd in overeenstemming met het tweede lid.
 
 5. Een ingevolge het eerste of tweede lid betaalde taks voor nieuwheidsonderzoek wordt terugbetaald, indien de aanvrager daarom verzoekt en de onderzoeksafdeling vaststelt dat de in het eerste lid, onderdeel b, of tweede lid, onderdeel a, bedoelde mededeling niet gerechtvaardigd was.
 
@@ -13416,19 +13422,19 @@ Een Euro-PCT-aanvrage wordt geacht tot de stand van de techniek in de zin van ar
 
 (2). In de zin van dit Protocol worden met de rechterlijke instanties gelijkgesteld de autoriteiten die volgens het nationale recht van een Verdragsluitende Staat bevoegd zijn te beslissen over rechtsvorderingen als in het eerste lid bedoeld. De Verdragsluitende Staten delen het Europees Octrooibureau mede aan welke autoriteiten een dergelijke bevoegdheid is verleend; het Europees Octrooibureau doet hiervan mededeling aan de andere Verdragsluitende Staten.
 
-(3). In de zin van dit Protocol wordt onder de Verdragsluitende Staten verstaan de Staten die Partij zijn bij het Verdrag en die de toepassing van dit Protocol niet hebben uitgesloten op grond van [artikel 167 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=XII&artikel=167&z=2024-04-01&g=2024-04-01).
+(3). In de zin van dit Protocol wordt onder de Verdragsluitende Staten verstaan de Staten die Partij zijn bij het Verdrag en die de toepassing van dit Protocol niet hebben uitgesloten op grond van [artikel 167 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=XII&artikel=167&z=2024-12-16&g=2024-12-16).
 
 ##### Artikel 2
 
-Behoudens het bepaalde in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&afdeling=I&artikel=4&z=2024-04-01&g=2024-04-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&afdeling=I&artikel=5&z=2024-04-01&g=2024-04-01), wordt een rechtsvordering tegen de aanvrager van een Europees octrooi, die zijn woonplaats of zetel heeft in een van de Verdragsluitende Staten, ingesteld door de rechterlijke instanties van bedoelde Verdragsluitende Staat.
+Behoudens het bepaalde in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&afdeling=I&artikel=4&z=2024-12-16&g=2024-12-16) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&afdeling=I&artikel=5&z=2024-12-16&g=2024-12-16), wordt een rechtsvordering tegen de aanvrager van een Europees octrooi, die zijn woonplaats of zetel heeft in een van de Verdragsluitende Staten, ingesteld door de rechterlijke instanties van bedoelde Verdragsluitende Staat.
 
 ##### Artikel 3
 
-Behoudens het bepaalde in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&afdeling=I&artikel=4&z=2024-04-01&g=2024-04-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&afdeling=I&artikel=5&z=2024-04-01&g=2024-04-01) zijn, indien de aanvrager van een Europees octrooi noch zijn woonplaats noch zijn zetel in een van de Verdragsluitende Staten heeft en indien de persoon die de aanspraak op verlening van het Europees octrooi doet gelden zijn woonplaats of zetel wel in een van de Verdragsluitende Staten heeft, alleen de rechterlijke instanties van laatstbedoelde Staat bevoegd.
+Behoudens het bepaalde in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&afdeling=I&artikel=4&z=2024-12-16&g=2024-12-16) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&afdeling=I&artikel=5&z=2024-12-16&g=2024-12-16) zijn, indien de aanvrager van een Europees octrooi noch zijn woonplaats noch zijn zetel in een van de Verdragsluitende Staten heeft en indien de persoon die de aanspraak op verlening van het Europees octrooi doet gelden zijn woonplaats of zetel wel in een van de Verdragsluitende Staten heeft, alleen de rechterlijke instanties van laatstbedoelde Staat bevoegd.
 
 ##### Artikel 4
 
-Indien de Europese octrooiaanvrage een uitvinding van een werknemer betreft, zijn voor rechtsvorderingen, waar de werkgever en de werknemer tegenover elkaar staan, behoudens het bepaalde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&afdeling=I&artikel=5&z=2024-04-01&g=2024-04-01), alleen de rechterlijke instanties van die Verdragsluitende Staat bevoegd, volgens het recht waarvan het recht op het Europees octrooi wordt bepaald overeenkomstig [artikel 60, eerste lid, tweede volzin, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=II&artikel=60&z=2024-04-01&g=2024-04-01).
+Indien de Europese octrooiaanvrage een uitvinding van een werknemer betreft, zijn voor rechtsvorderingen, waar de werkgever en de werknemer tegenover elkaar staan, behoudens het bepaalde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&afdeling=I&artikel=5&z=2024-12-16&g=2024-12-16), alleen de rechterlijke instanties van die Verdragsluitende Staat bevoegd, volgens het recht waarvan het recht op het Europees octrooi wordt bepaald overeenkomstig [artikel 60, eerste lid, tweede volzin, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=II&artikel=60&z=2024-12-16&g=2024-12-16).
 
 ##### Artikel 5
 
@@ -13438,11 +13444,11 @@ Indien de Europese octrooiaanvrage een uitvinding van een werknemer betreft, zij
 
 ##### Artikel 6
 
-Voor de gevallen waarin de artikelen 2 tot en met 4 en [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&afdeling=I&artikel=5&z=2024-04-01&g=2024-04-01), niet van toepassing zijn, zijn alleen de rechterlijke instanties van de Duitse Bondsrepubliek bevoegd.
+Voor de gevallen waarin de artikelen 2 tot en met 4 en [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&afdeling=I&artikel=5&z=2024-12-16&g=2024-12-16), niet van toepassing zijn, zijn alleen de rechterlijke instanties van de Duitse Bondsrepubliek bevoegd.
 
 ##### Artikel 7
 
-De rechterlijke instanties van de Verdragsluitende Staten, waarvoor rechtsvorderingen als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&afdeling=I&artikel=1&z=2024-04-01&g=2024-04-01) aanhangig worden gemaakt, toetsen ambtshalve of zij bevoegd zijn overeenkomstig de artikelen 2 tot en met 6.
+De rechterlijke instanties van de Verdragsluitende Staten, waarvoor rechtsvorderingen als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&afdeling=I&artikel=1&z=2024-12-16&g=2024-12-16) aanhangig worden gemaakt, toetsen ambtshalve of zij bevoegd zijn overeenkomstig de artikelen 2 tot en met 6.
 
 ##### Artikel 8
 
@@ -13454,13 +13460,13 @@ De rechterlijke instanties van de Verdragsluitende Staten, waarvoor rechtsvorder
 
 ##### Artikel 9
 
-(1). Behoudens het bepaalde in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&afdeling=II&artikel=11&z=2024-04-01&g=2024-04-01), worden de in kracht van gewijsde gegane beslissingen, die zijn gegeven in een Verdragsluitende Staat ten aanzien van de aanspraak op verlening van het Europees octrooi voor een of meer in de Europese octrooiaanvrage aangewezen Staten in de overige Verdragsluitende Staten erkend zonder vorm van proces.
+(1). Behoudens het bepaalde in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&afdeling=II&artikel=11&z=2024-12-16&g=2024-12-16), worden de in kracht van gewijsde gegane beslissingen, die zijn gegeven in een Verdragsluitende Staat ten aanzien van de aanspraak op verlening van het Europees octrooi voor een of meer in de Europese octrooiaanvrage aangewezen Staten in de overige Verdragsluitende Staten erkend zonder vorm van proces.
 
 (2). De bevoegdheid van de rechterlijke instantie waarvan de beslissing moet worden erkend en de rechtsgeldigheid van die beslissing mag niet worden aangevochten.
 
 ##### Artikel 10
 
-[Artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&afdeling=II&artikel=9&z=2024-04-01&g=2024-04-01), is niet van toepassing indien:
+[Artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&afdeling=II&artikel=9&z=2024-12-16&g=2024-12-16), is niet van toepassing indien:
 
 - a). de aanvrager van een Europees octrooi, die voor een rechterlijke instantie is gedaagd en niet is verschenen, bewijst dat het stuk dat het geding inleidt hem niet regelmatig en zo tijdig als met het oog op zijn verdediging nodig was, is betekend, of
 
@@ -13492,7 +13498,7 @@ Het archief van de Organisatie alsmede de documenten die haar toebehoren of die 
 
 - b). met betrekking tot een door derden ingediende civiele rechtsvordering ter zake van schade, die voortvloeit uit een ongeval dat is veroorzaakt door een aan de Organisatie toebehorend of namens haar gebruikt motorvoertuig, of met betrekking tot een verkeersovertreding waarbij een zodanig voertuig is betrokken;
 
-- c). met betrekking tot de tenuitvoerlegging van een ingevolge [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&artikel=23&z=2024-04-01&g=2024-04-01) gedane scheidsrechterlijke uitspraak.
+- c). met betrekking tot de tenuitvoerlegging van een ingevolge [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&artikel=23&z=2024-12-16&g=2024-12-16) gedane scheidsrechterlijke uitspraak.
 
 2. Eigendommen en activa van de Organisatie, ongeacht waar deze zich bevinden, zijn vrij van vordering, inbeslagneming, onteigening en beslaglegging.
 
@@ -13514,11 +13520,11 @@ Goederen die door de Organisatie worden ingevoerd of uitgevoerd voor het verrich
 
 ##### Artikel 6
 
-Geen vrijstelling op grond van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&artikel=4&z=2024-04-01&g=2024-04-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&artikel=5&z=2024-04-01&g=2024-04-01) wordt verleend ten aanzien van goederen die worden aangekocht en ingevoerd ten gerieve van de personeelsleden van het Europees Octrooibureau persoonlijk.
+Geen vrijstelling op grond van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&artikel=4&z=2024-12-16&g=2024-12-16) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&artikel=5&z=2024-12-16&g=2024-12-16) wordt verleend ten aanzien van goederen die worden aangekocht en ingevoerd ten gerieve van de personeelsleden van het Europees Octrooibureau persoonlijk.
 
 ##### Artikel 7
 
-1. Aan de Organisatie toebehorende goederen die zijn verworven of ingevoerd overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&artikel=4&z=2024-04-01&g=2024-04-01) of [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&artikel=5&z=2024-04-01&g=2024-04-01), mogen uitsluitend worden verkocht of weggegeven overeenkomstig de voorwaarden vastgesteld door de Verdragsluitende Staten die de vrijstellingen hebben verleend.
+1. Aan de Organisatie toebehorende goederen die zijn verworven of ingevoerd overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&artikel=4&z=2024-12-16&g=2024-12-16) of [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&artikel=5&z=2024-12-16&g=2024-12-16), mogen uitsluitend worden verkocht of weggegeven overeenkomstig de voorwaarden vastgesteld door de Verdragsluitende Staten die de vrijstellingen hebben verleend.
 
 2. De overdracht van goederen en het verlenen van diensten tussen de verschillende gebouwen van de Organisatie zijn vrij van alle heffingen of beperkingen; in voorkomende gevallen nemen de Verdragsluitende Staten alle passende maatregelen om het met deze heffingen gemoeide bedrag terug te betalen of de betrokkenen van de verplichting tot betaling daarvan te ontheffen, of om deze beperkingen op te heffen.
 
@@ -13560,7 +13566,7 @@ De Lid-Staten nemen alle gepaste maatregelen waardoor het binnenkomen, het verbl
 
 ##### Artikel 13
 
-1. Behoudens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&artikel=6&z=2024-04-01&g=2024-04-01) geniet de Voorzitter van het Europees Octrooibureau de voorrechten en immuniteiten die zijn toegekend aan diplomatieke functionarissen krachtens het [Verdrag van Wenen inzake diplomatiek verkeer](https://wetten.overheid.nl/jci1.3:c:BWBV0004345) van 18 april 1961.
+1. Behoudens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&artikel=6&z=2024-12-16&g=2024-12-16) geniet de Voorzitter van het Europees Octrooibureau de voorrechten en immuniteiten die zijn toegekend aan diplomatieke functionarissen krachtens het [Verdrag van Wenen inzake diplomatiek verkeer](https://wetten.overheid.nl/jci1.3:c:BWBV0004345) van 18 april 1961.
 
 2. De vrijstelling van rechtsvordering geldt echter niet in geval van een door de Voorzitter van het Europees Octrooibureau begane verkeersovertreding of in geval van schade veroorzaakt door een motorvoertuig dat hem toebehoort of dat door hem werd bestuurd.
 
@@ -13656,7 +13662,7 @@ De Organisatie kan, bij besluit van de Raad van Bestuur, met een of meer Verdrag
 
 ##### Artikel 1. Algemene beginselen
 
-[Artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=III&artikel=69&z=2024-04-01&g=2024-04-01) mag niet worden uitgelegd als zou de beschermingsomvang van het Europees octrooi strikt worden bepaald door de letterlijke tekst van de conclusies en als zouden de beschrijving en de tekeningen slechts mogen dienen om de onduidelijkheden, die in de conclusies zouden kunnen voorkomen, op te heffen. Artikel 69 mag evenmin worden uitgelegd als zouden de conclusies alleen als richtlijn dienen en als zou de beschermingsomvang zich ook uitstrekken tot hetgeen de octrooihouder, naar het oordeel van de vakman die de beschrijving en de tekeningen bestudeert, heeft willen beschermen. De uitleg dient daarentegen tussen deze twee uitersten het midden te houden, waarbij zowel een billijke bescherming aan de octrooihouder als een redelijke mate van rechtszekerheid aan derden wordt geboden.
+[Artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&deel=II&hoofdstuk=III&artikel=69&z=2024-12-16&g=2024-12-16) mag niet worden uitgelegd als zou de beschermingsomvang van het Europees octrooi strikt worden bepaald door de letterlijke tekst van de conclusies en als zouden de beschrijving en de tekeningen slechts mogen dienen om de onduidelijkheden, die in de conclusies zouden kunnen voorkomen, op te heffen. Artikel 69 mag evenmin worden uitgelegd als zouden de conclusies alleen als richtlijn dienen en als zou de beschermingsomvang zich ook uitstrekken tot hetgeen de octrooihouder, naar het oordeel van de vakman die de beschrijving en de tekeningen bestudeert, heeft willen beschermen. De uitleg dient daarentegen tussen deze twee uitersten het midden te houden, waarbij zowel een billijke bescherming aan de octrooihouder als een redelijke mate van rechtszekerheid aan derden wordt geboden.
 
 ##### Artikel 2. Equivalenten
 
