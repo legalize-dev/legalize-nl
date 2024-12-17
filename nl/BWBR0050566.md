@@ -4,7 +4,7 @@ identifier: "BWBR0050566"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-12-17"
-last_updated: "2021-01-01"
+last_updated: "2024-12-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050566"
 soort: "ministeriele-regeling"
@@ -38,7 +38,7 @@ entry_into_force: "2024-12-17"
 
 Handelende in overeenstemming met de directeur-generaal Belastingdienst;
 
-Mede namens de directeur toeslagen en de directeur van de tijdelijke uitvoeringsorganisatie herstel toeslagen voor respectievelijk [artikelen 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050566&artikel=5&z=2024-12-17&g=2021-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0050566&artikel=6&z=2024-12-17&g=2021-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0050566&artikel=7&z=2024-12-17&g=2021-01-01) van dit besluit;
+Mede namens de directeur toeslagen en de directeur van de tijdelijke uitvoeringsorganisatie herstel toeslagen voor respectievelijk [artikelen 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050566&artikel=5&z=2024-12-17&g=2024-12-17), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0050566&artikel=6&z=2024-12-17&g=2024-12-17) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0050566&artikel=7&z=2024-12-17&g=2024-12-17) van dit besluit;
 
 Gelet op de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), [10:4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4), [10:9](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:9) en [10:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:12), [artikel 11, tweede lid, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=11), [hoofdstuk 4 van Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045076&hoofdstuk=4) en [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&artikel=4) en [artikel 27, eerste lid, van de Uitvoeringsregeling Belastingdienst 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&artikel=27);
 
@@ -102,7 +102,7 @@ Tenzij anders is bepaald, omvat de verlening van mandaat of ondermandaat mede de
 
 ##### Artikel 6. Mandaat DTSL
 
-1. Aan de medewerkers van DTSL wordt, behoudens voor zover anders aangegeven, mandaat verleend ten aanzien van de uitoefening van de bevoegdheden en handelingen zoals die vermeld staan op de bij dit besluit behorende mandaatlijst, opgenomen als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050566&bijlage=1&z=2024-12-17&g=2021-01-01).
+1. Aan de medewerkers van DTSL wordt, behoudens voor zover anders aangegeven, mandaat verleend ten aanzien van de uitoefening van de bevoegdheden en handelingen zoals die vermeld staan op de bij dit besluit behorende mandaatlijst, opgenomen als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050566&bijlage=1&z=2024-12-17&g=2024-12-17).
 
 2. Het mandaat houdt tevens het nemen van besluiten op grond van de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) die hieraan gerelateerd zijn.
 
@@ -110,7 +110,7 @@ Tenzij anders is bepaald, omvat de verlening van mandaat of ondermandaat mede de
 
 ##### Artikel 7. Mandaat UHT
 
-1. Aan de medewerkers van UHT wordt, behoudens voor zover anders aangegeven, mandaat verleend ten aanzien van de uitoefening van de bevoegdheden en handelingen zoals die vermeld staan op de bij dit besluit behorende mandaatlijst, opgenomen als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050566&bijlage=2&z=2024-12-17&g=2021-01-01).
+1. Aan de medewerkers van UHT wordt, behoudens voor zover anders aangegeven, mandaat verleend ten aanzien van de uitoefening van de bevoegdheden en handelingen zoals die vermeld staan op de bij dit besluit behorende mandaatlijst, opgenomen als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050566&bijlage=2&z=2024-12-17&g=2024-12-17).
 
 2. Het mandaat omvat tevens het nemen van besluiten op grond van de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) die gerelateerd zijn.
 
@@ -166,7 +166,7 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit wordt aangehaald als: Besluit mandaatverlening, volmacht en machtiging Dienst Toeslagen 2024.
 
-## Bijlage 1. Mandaatlijst DTSL behorende bij [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050566&artikel=6&z=2024-12-17&g=2021-01-01), van het Besluit mandaatverlening, volmacht en machtiging Dienst Toeslagen 2024
+## Bijlage 1. Mandaatlijst DTSL behorende bij [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050566&artikel=6&z=2024-12-17&g=2024-12-17), van het Besluit mandaatverlening, volmacht en machtiging Dienst Toeslagen 2024
 
 | Bevoegdheid | Bevoegde functionarissen |
 | --- | --- |
@@ -186,7 +186,7 @@ Dit besluit wordt aangehaald als: Besluit mandaatverlening, volmacht en machtigi
 | Het informeren van betrokkenen die betrokken zijn bij een datalek | Afdelingshoofd Support en afdelingshoofd Vaktechniek en Directieondersteuning |
 | Overige zaken in het kader van de Algemene verordening gegevensbescherming binnen het werkterrein van DTSL | Afdelingshoofd Support en afdelingshoofd Vaktechniek en Directieondersteuning |
 
-## Bijlage 2. Mandaatlijst UHT behorende bij [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050566&artikel=7&z=2024-12-17&g=2021-01-01), van het Besluit mandaatverlening, volmacht en machtiging Dienst Toeslagen 2024
+## Bijlage 2. Mandaatlijst UHT behorende bij [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050566&artikel=7&z=2024-12-17&g=2024-12-17), van het Besluit mandaatverlening, volmacht en machtiging Dienst Toeslagen 2024
 
 | Bevoegdheid | Bevoegde medewerkers |
 | --- | --- |
