@@ -4,7 +4,7 @@ identifier: "BWBR0047686"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-04"
-last_updated: "2024-05-08"
+last_updated: "2024-12-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047686"
 soort: "ministeriele-regeling"
@@ -72,15 +72,15 @@ Aan de Dienst Wegverkeer wordt voor de uitvoering van werkzaamheden van de Minis
 
 ##### Artikel 4. (bezwaar- en beroepschriften)
 
-Aan de Dienst Wegverkeer wordt mandaat en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen besluiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047686&artikel=2&z=2024-05-08&g=2024-05-08), waaronder het nemen van beslissingen op bezwaarschriften en het instellen en behandelen van (hoger) beroep en namens de Minister in rechte op te treden.
+Aan de Dienst Wegverkeer wordt mandaat en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen besluiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047686&artikel=2&z=2024-12-18&g=2024-12-18), waaronder het nemen van beslissingen op bezwaarschriften en het instellen en behandelen van (hoger) beroep en namens de Minister in rechte op te treden.
 
 ##### Artikel 5. (ondermandaat)
 
-1. De Dienst Wegverkeer kan de aan hem gemandateerde bevoegdheden, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047686&artikel=2&z=2024-05-08&g=2024-05-08) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0047686&artikel=4&z=2024-05-08&g=2024-05-08), in ondermandaat verlenen aan een functionaris werkzaam voor zijn organisatie.
+1. De Dienst Wegverkeer kan de aan hem gemandateerde bevoegdheden, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047686&artikel=2&z=2024-12-18&g=2024-12-18) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0047686&artikel=4&z=2024-12-18&g=2024-12-18), in ondermandaat verlenen aan een functionaris werkzaam voor zijn organisatie.
 
 2. Tenzij anders is bepaald omvat de verlening van ondermandaat mede de bevoegdheid tot het beslissen op bezwaar.
 
-3. Het eerste lid is van overeenkomstige toepassing op volmacht en machtiging als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047686&artikel=3&z=2024-05-08&g=2024-05-08).
+3. Het eerste lid is van overeenkomstige toepassing op volmacht en machtiging als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047686&artikel=3&z=2024-12-18&g=2024-12-18).
 
 ##### Artikel 6. (voorbehouden bevoegdheden secretaris-generaal)
 
@@ -88,9 +88,9 @@ Aan de secretaris-generaal is de bevoegdheid voorbehouden tot het doen van de me
 
 ##### Artikel 7. (mandaat en ondermandaat beslissen op bezwaar)
 
-1. In afwijking van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047686&artikel=4&z=2024-05-08&g=2024-05-08) en [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047686&artikel=5&z=2024-05-08&g=2024-05-08), mag de beslissing op bezwaar niet in mandaat of ondermandaat worden genomen door de degene die het besluit waartegen het bezwaar is gericht, heeft genomen.
+1. In afwijking van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047686&artikel=4&z=2024-12-18&g=2024-12-18) en [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047686&artikel=5&z=2024-12-18&g=2024-12-18), mag de beslissing op bezwaar niet in mandaat of ondermandaat worden genomen door de degene die het besluit waartegen het bezwaar is gericht, heeft genomen.
 
-2. In afwijking van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047686&artikel=5&z=2024-05-08&g=2024-05-08), mag de beslissing op bezwaar niet in ondermandaat worden genomen door degene die in de hiërarchische verhoudingen ressorteert onder degene die het besluit waartegen het bezwaar zich richt, heeft genomen.
+2. In afwijking van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047686&artikel=5&z=2024-12-18&g=2024-12-18), mag de beslissing op bezwaar niet in ondermandaat worden genomen door degene die in de hiërarchische verhoudingen ressorteert onder degene die het besluit waartegen het bezwaar zich richt, heeft genomen.
 
 ##### Artikel 8. (kaders uitoefening bevoegdheden)
 
@@ -120,11 +120,11 @@ In het register, bedoeld in [artikel 31 van het Organisatie- en mandaatbesluit I
 
 ##### Artikel 11. (wijze van ondertekening)
 
-1. Het in een document vastleggen van een besluit, met uitzondering van een besluit als bedoeld in artikel 2, aanhef en onder b, een privaatrechtelijke rechtshandeling of een andere handeling, geschiedt op briefpapier van het ministerie met het hoofd:
+1. Het in een document vastleggen van een besluit, met uitzondering van een besluit als bedoeld in [artikel 2, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0047686&artikel=2&z=2024-12-18&g=2024-12-18), een privaatrechtelijke rechtshandeling of een andere handeling, geschiedt op briefpapier van de Dienst Wegverkeer met het hoofd:
 
-MINISTERIE VAN INFRASTRUCTUUR EN WATERSTAAT.
+RDW.
 
-2. In geval van mandaat, dan wel ondermandaat, met uitzondering van een besluit als bedoeld in artikel 2, aanhef en onder b, luidt de ondertekening als volgt:
+2. In geval van mandaat, dan wel ondermandaat, met uitzondering van een besluit als bedoeld in [artikel 2, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0047686&artikel=2&z=2024-12-18&g=2024-12-18), luidt de ondertekening als volgt:
 
 DE MINISTER VAN INFRASTRUCTUUR EN WATERSTAAT,
 
@@ -132,7 +132,7 @@ namens deze,
 
 (gevolgd door de aanduiding van de (onder)gemandateerde functionaris).
 
-3. Het krachtens mandaat, dan wel ondermandaat, met uitzondering van een besluit als bedoeld in artikel 2, aanhef en onder b, ondertekenen van automatisch gegenereerde stukken geschiedt als volgt:
+3. Het krachtens mandaat, dan wel ondermandaat, met uitzondering van een besluit als bedoeld in [artikel 2, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0047686&artikel=2&z=2024-12-18&g=2024-12-18), ondertekenen van automatisch gegenereerde stukken geschiedt als volgt:
 
 DE MINISTER VAN INFRASTRUCTUUR EN WATERSTAAT,
 
