@@ -4,7 +4,7 @@ identifier: "BWBR0050570"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2024-01-01"
+last_updated: "2024-12-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050570"
 soort: "wet"
@@ -156,11 +156,13 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XX. Inwerkingtreding
 
-Dit onderdeel is nog niet inwerking getreden
+1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+
+2. In afwijking van het eerste lid, treden [onderdelen A en B van de artikelen XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0050570&artikel=XIII&z=2024-12-18&g=2024-12-18) en [XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0050570&artikel=XIV&z=2024-12-18&g=2024-12-18) van deze wet in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werken terug tot en met 1 januari 2024.
 
 ##### Artikel XXI. Citeertitel
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Verzamelwet SZW 2025.
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
