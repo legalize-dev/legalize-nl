@@ -4,7 +4,7 @@ identifier: "BWBR0045864"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-15"
-last_updated: "2024-11-15"
+last_updated: "2024-12-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045864"
 soort: "ministeriele-regeling"
@@ -102,13 +102,13 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4. Uitkering en besteding van de uitkering
 
-1. De specifieke uitkering wordt, behoudens een eenmalig voorschot als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=5&z=2024-11-15&g=2024-11-15), voor de eerste maal in het verantwoordingsjaar 2021 en voorts gedurende de looptijd van deze regeling in ieder kalenderjaar op basis van de gemeentelijke verantwoordingsgegevens, aan gemeenten verstrekt.
+1. De specifieke uitkering wordt, behoudens een eenmalig voorschot als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=5&z=2024-12-21&g=2024-12-21), voor de eerste maal in het verantwoordingsjaar 2021 en voorts gedurende de looptijd van deze regeling in ieder kalenderjaar op basis van de gemeentelijke verantwoordingsgegevens, aan gemeenten verstrekt.
 
 2. Het college waaraan de uitkering ten behoeve van de brede ondersteuning is gedaan, kan hiervoor tot 1 januari 2027 nieuwe verplichtingen aangaan.
 
 ##### Artikel 5. Voorschot
 
-1. De Minister verstrekt en betaalt in 2021 aan gemeenten een voorschot van in totaal € 12 miljoen inclusief btw overeenkomstig de bij deze regeling behorende bijlage. Op het in 2020 verstrekte en betaalde voorschot van € 11 miljoen is het overgangsrecht van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=9&z=2024-11-15&g=2024-11-15) van toepassing.
+1. De Minister verstrekt en betaalt in 2021 aan gemeenten een voorschot van in totaal € 12 miljoen inclusief btw overeenkomstig de bij deze regeling behorende bijlage. Op het in 2020 verstrekte en betaalde voorschot van € 11 miljoen is het overgangsrecht van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=9&z=2024-12-21&g=2024-12-21) van toepassing.
 
 2. De hoogte van het voorschot per gemeente is gebaseerd op de in de gemeente woonplaats hebbende aantallen van (potentieel) gedupeerden naar de stand van 7 oktober 2021.
 
@@ -118,33 +118,33 @@ In deze regeling wordt verstaan onder:
 
 1. Het college legt aan de Minister verantwoording af over de besteding van de specifieke uitkering op de wijze zoals is bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a). Het college kan deze verantwoording tot 1 januari 2030 bij de Minister doen.
 
-2. Bij de verantwoording van de activiteiten, genoemd in [artikel 3, eerste lid, aanhef en onder a, b, d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=3&z=2024-11-15&g=2024-11-15), kan het college de daadwerkelijke kosten of de daarvoor gestelde normbedragen verantwoorden. De normbedragen, met uitzondering van het normbedrag, genoemd in het vierde lid, onder d van dit artikel, worden eenmalig opgegeven voor de looptijd van deze regeling.
+2. Bij de verantwoording van de activiteiten, genoemd in [artikel 3, eerste lid, aanhef en onder a, b, d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=3&z=2024-12-21&g=2024-12-21), kan het college de daadwerkelijke kosten of de daarvoor gestelde normbedragen verantwoorden. De normbedragen, met uitzondering van het normbedrag, genoemd in het vierde lid, onder d van dit artikel, worden eenmalig opgegeven voor de looptijd van deze regeling.
 
-3. De wijze van verantwoorden van het college als bedoeld in het tweede lid is onherroepelijk en geldt voor de gehele looptijd van deze regeling, met dien verstande dat het college dat heeft gekozen voor verantwoording via de systematiek van normbedragen, eenmalig de mogelijkheid heeft om dit te wijzigen naar de systematiek van werkelijke kosten. Deze wijziging geldt alsdan voor alle activiteiten genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=3&z=2024-11-15&g=2024-11-15), met uitzondering van het bepaalde in onderdeel c van dat artikel.
+3. De wijze van verantwoorden van het college als bedoeld in het tweede lid is onherroepelijk en geldt voor de gehele looptijd van deze regeling, met dien verstande dat het college dat heeft gekozen voor verantwoording via de systematiek van normbedragen, eenmalig de mogelijkheid heeft om dit te wijzigen naar de systematiek van werkelijke kosten. Deze wijziging geldt alsdan voor alle activiteiten genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=3&z=2024-12-21&g=2024-12-21), met uitzondering van het bepaalde in onderdeel c van dat artikel.
 
-4. Voor de activiteiten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=3&z=2024-11-15&g=2024-11-15), worden de volgende normbedragen gehanteerd:
+4. Voor de activiteiten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=3&z=2024-12-21&g=2024-12-21), worden de volgende normbedragen gehanteerd:
 
-- a. voor het eerste contact, registratie en inventarisatie van hulpvragen als bedoeld in [artikel 3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=3&z=2024-11-15&g=2024-11-15): € 380,– per gezin;
+- a. voor het eerste contact, registratie en inventarisatie van hulpvragen als bedoeld in [artikel 3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=3&z=2024-12-21&g=2024-12-21): € 391,– per gezin;
 
-- b. voor het opstellen van een plan van aanpak als bedoeld in [artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=3&z=2024-11-15&g=2024-11-15): € 3.468,– per potentieel gedupeerde of persoon, genoemd in [artikel 2.21 Wht](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.21);
+- b. voor het opstellen van een plan van aanpak als bedoeld in [artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=3&z=2024-12-21&g=2024-12-21): € 3.569,– per potentieel gedupeerde of persoon, genoemd in [artikel 2.21 Wht](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.21);
 
-- c. voor de nazorg, bedoeld in [artikel 3, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=3&z=2024-11-15&g=2024-11-15): € 1.795,– per plan van aanpak;
+- c. voor de nazorg, bedoeld in [artikel 3, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=3&z=2024-12-21&g=2024-12-21): € 1.847,– per plan van aanpak;
 
-- d. voor een driegesprek als bedoeld in [artikel 3, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=3&z=2024-11-15&g=2024-11-15): € 400,– per gesprek.
+- d. voor een driegesprek als bedoeld in [artikel 3, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=3&z=2024-12-21&g=2024-12-21): € 412,– per gesprek.
 
-5. De normbedragen genoemd in het vierde lid en in [artikel 3, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=3&z=2024-11-15&g=2024-11-15), worden jaarlijks verhoogd met de loon- en prijsbijstelling conform de begrotingssystematiek van de Rijksbegroting.
+5. De normbedragen genoemd in het vierde lid en in het zevende lid, worden jaarlijks verhoogd met de loon- en prijsbijstelling conform de begrotingssystematiek van de Rijksbegroting.
 
-6. Bij de verantwoording van de activiteiten genoemd in [artikel 3, eerste lid, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=3&z=2024-11-15&g=2024-11-15), voeren de gemeenten de daadwerkelijk gemaakte kosten op voor de financiële verantwoording met dien verstande dat de kosten voor de sanering van schulden als bedoeld in [artikel 3, eerste lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=3&z=2024-11-15&g=2024-11-15), niet meer bedragen dan € 10.000,–. Het college kan besluiten een hoger bedrag dan € 10.000 te verantwoorden.
+6. Bij de verantwoording van de activiteiten genoemd in [artikel 3, eerste lid, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=3&z=2024-12-21&g=2024-12-21), voeren de gemeenten de daadwerkelijk gemaakte kosten op voor de financiële verantwoording met dien verstande dat de kosten voor de sanering van schulden als bedoeld in [artikel 3, eerste lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=3&z=2024-12-21&g=2024-12-21), niet meer bedragen dan € 10.000,–. Het college kan besluiten een hoger bedrag dan € 10.000 te verantwoorden.
 
-7. Bij de verantwoording van de activiteiten genoemd in [artikel 3, eerste lid, aanhef en onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=3&z=2024-11-15&g=2024-11-15)., heeft het college de keuze om hetzij de daadwerkelijke kosten dan wel het daarvoor gestelde normbedrag te verantwoorden. Het college geeft het normbedrag jaarlijks op. Deze opgave is, behoudens de eenmalige wijziging als bedoeld in het derde lid, onherroepelijk en geldt voor de gehele looptijd van deze regeling. De volgende normbedragen worden gehanteerd, afhankelijk van het aantal (potentieel) gedupeerden, dat een gemeente heeft en bij de Uitvoeringsorganisatie Herstel Toeslagen bekend is voor het jaar waarin de gemeente het normbedrag opvoert:
+7. Bij de verantwoording van de activiteiten genoemd in [artikel 3, eerste lid, aanhef en onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=3&z=2024-12-21&g=2024-12-21)., heeft het college de keuze om hetzij de daadwerkelijke kosten dan wel het daarvoor gestelde normbedrag te verantwoorden. Het college geeft het normbedrag jaarlijks op. Deze opgave is, behoudens de eenmalige wijziging als bedoeld in het derde lid, onherroepelijk en geldt voor de gehele looptijd van deze regeling. De volgende normbedragen worden gehanteerd, afhankelijk van het aantal (potentieel) gedupeerden, dat een gemeente heeft en bij de Uitvoeringsorganisatie Herstel Toeslagen bekend is voor het jaar waarin de gemeente het normbedrag opvoert:
 
-tot 50 (potentieel) gedupeerden: € 12.000;
+tot 50 (potentieel) gedupeerden: € 12.348,–;
 
-vanaf 50 tot 100 (potentieel) gedupeerden: € 48.000;
+vanaf 50 tot 100 (potentieel) gedupeerden: € 49.392,–;
 
-vanaf 100 tot 1.000 (potentieel) gedupeerden: € 120.000;
+vanaf 100 tot 1.000 (potentieel) gedupeerden: € 123.480,–;
 
-vanaf 1.000 (potentieel) gedupeerden: € 250.000.
+vanaf 1.000 (potentieel) gedupeerden: € 257.250,–.
 
 8. In afwijking van het zevende lid mag het college de daadwerkelijke inrichtings- en coördinatiekosten verantwoorden indien deze het aantoonbaar gevolg zijn van het onder de werking van deze regeling brengen van kinderen, pleegkinderen of voormalig pleegkinderen die in aanmerking komen voor een tegemoetkoming als bedoeld in [artikel 2.12 van de Wht](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.12).
 
@@ -156,13 +156,13 @@ vanaf 1.000 (potentieel) gedupeerden: € 250.000.
 
 ##### Artikel 7. Vaststelling en terugvordering
 
-1. De Minister stelt de uitkering, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=4&z=2024-11-15&g=2024-11-15), vast binnen een jaar na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
+1. De Minister stelt de uitkering, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=4&z=2024-12-21&g=2024-12-21), vast binnen een jaar na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
-2. De kosten, genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=6&z=2024-11-15&g=2024-11-15), worden bij de vaststelling buiten aanmerking gelaten indien deze kosten blijkens het verslag van bevindingen, bedoeld in [artikel 213, vierde lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=213), dat deel uitmaakt van de informatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), als fout of onzeker worden aangemerkt.
+2. De kosten, genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=6&z=2024-12-21&g=2024-12-21), worden bij de vaststelling buiten aanmerking gelaten indien deze kosten blijkens het verslag van bevindingen, bedoeld in [artikel 213, vierde lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=213), dat deel uitmaakt van de informatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), als fout of onzeker worden aangemerkt.
 
 3. Indien de toepassing van het tweede lid naar het oordeel van de Minister leidt tot een onbillijkheid van overwegende aard kan de Minister de kosten die als fout of onzeker worden aangemerkt, in afwijking van het tweede lid, geheel of gedeeltelijk bij de vaststelling buiten aanmerking laten.
 
-4. Indien de verantwoordingsinformatie, bedoeld in het eerste lid, niet binnen achttien maanden na het kalenderjaar waarop het betrekking heeft door de Minister is ontvangen, stelt de Minister de uitkering, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=4&z=2024-11-15&g=2024-11-15), ambtshalve vast.
+4. Indien de verantwoordingsinformatie, bedoeld in het eerste lid, niet binnen achttien maanden na het kalenderjaar waarop het betrekking heeft door de Minister is ontvangen, stelt de Minister de uitkering, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=4&z=2024-12-21&g=2024-12-21), ambtshalve vast.
 
 5. Bij de toepassing van dit artikel wordt uitgegaan van de gegevens waarvan de Minister kennis heeft op 30 september van het jaar, volgend op het verantwoordingsjaar, met dien verstande dat gegevens die de gemeente op verzoek van de Minister op een latere datum verstrekt mede in aanmerking worden genomen.
 
@@ -553,7 +553,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Vervallen
 
-## Bijlage. Aan gemeenten te verstrekken voorschot als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=5&z=2024-11-15&g=2024-11-15)
+## Bijlage. Aan gemeenten te verstrekken voorschot als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=5&z=2024-12-21&g=2024-12-21)
 
 | Gemeente | Aantal gedupeerden | Bedrag totaal (in euro) | Waarvan door het BTW-compensatiefonds (in euro) | Waarvan op grond van de Regeling (in euro) |
 | --- | --- | --- | --- | --- |
