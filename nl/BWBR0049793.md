@@ -4,7 +4,7 @@ identifier: "BWBR0049793"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-12"
-last_updated: "2024-07-23"
+last_updated: "2024-12-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049793"
 soort: "ministeriele-regeling"
@@ -46,11 +46,11 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **directe uitvoeringskosten:** apparaatskosten van de provincie of andere betrokken decentrale overheden die samenhangen met de regievoering van voorbereiding en uitvoering van maatregelen waarvoor op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049793&paragraaf=3&artikel=5&z=2024-07-23&g=2024-07-23) een uitkering kan worden verstrekt en direct zijn toe te rekenen aan die maatregelen;
+- **directe uitvoeringskosten:** apparaatskosten van de provincie of andere betrokken decentrale overheden die samenhangen met de regievoering van voorbereiding en uitvoering van maatregelen waarvoor op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049793&paragraaf=3&artikel=5&z=2024-12-24&g=2024-12-24) een uitkering kan worden verstrekt en direct zijn toe te rekenen aan die maatregelen;
 
-- **gebiedsgerichte aanpak:** gebiedsgerichte aanpak als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049793&paragraaf=3&artikel=5&z=2024-07-23&g=2024-07-23);
+- **gebiedsgerichte aanpak:** gebiedsgerichte aanpak als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049793&paragraaf=3&artikel=5&z=2024-12-24&g=2024-12-24);
 
-- **indirecte uitvoeringskosten:** apparaatskosten van de provincie die samenhangen met de gebiedsgerichte aanpak, maar niet direct zijn toe te rekenen aan de gebiedsprocessen en maatregelen waarvoor op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049793&paragraaf=3&artikel=5&z=2024-07-23&g=2024-07-23) een uitkering kan worden verstrekt;
+- **indirecte uitvoeringskosten:** apparaatskosten van de provincie die samenhangen met de gebiedsgerichte aanpak, maar niet direct zijn toe te rekenen aan de gebiedsprocessen en maatregelen waarvoor op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049793&paragraaf=3&artikel=5&z=2024-12-24&g=2024-12-24) een uitkering kan worden verstrekt;
 
 - **kaderrichtlijn water:** [Richtlijn 2000/60/EG](32000L0060) van het Europees Parlement en de Raad van 23 oktober 2000 tot vaststelling van een kader voor communautaire maatregelen betreffende het waterbeleid;
 
@@ -116,23 +116,23 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 6. Uitkeringsplafond en beschikbaar budget
 
-1. Het uitkeringsplafond bedraagt € 1.541.091.274, inclusief de omzetbelasting waarvoor de provincie op grond van de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817) voor compensatie in aanmerking komt.
+1. Het uitkeringsplafond bedraagt € 1.586.590.274, inclusief de omzetbelasting waarvoor de provincie op grond van de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817) voor compensatie in aanmerking komt.
 
 2. Het beschikbare budget, inclusief de in het eerste lid bedoelde omzetbelasting, bedraagt per provincie:
 
-| Drenthe | € 269.897.285 |
+| **Drenthe** | € 269.897.285 |
 | --- | --- |
-| Flevoland | € 12.855.000 |
-| Fryslân | € 179.862.000 |
-| Gelderland | € 32.700.000 |
-| Groningen | € 59.992.730 |
-| Limburg | € 55.000.000 |
-| Noord-Brabant | € 231.200.000 |
-| Noord-Holland | € 20.786.000 |
-| Overijssel | € 233.710.694 |
-| Utrecht | € 249.487.565 |
-| Zeeland | € 7.350.000 |
-| Zuid-Holland | € 188.250.000 |
+| **Flevoland** | € 16.188.000 |
+| **Fryslân** | € 179.862.000 |
+| **Gelderland** | € 32.700.000 |
+| **Groningen** | € 59.992.730 |
+| **Limburg** | € 55.000.000 |
+| **Noord-Brabant** | € 231.200.000 |
+| **Noord-Holland** | € 41.869.000 |
+| **Overijssel** | € 233.710.694 |
+| **Utrecht** | € 249.487.565 |
+| **Zeeland** | € 28.433.000 |
+| **Zuid-Holland** | € 188.250.000 |
 
 ##### Artikel 7. Aanvraag
 
@@ -148,6 +148,8 @@ In deze regeling wordt verstaan onder:
 
 4. Bij de toepassing van het tweede lid, onder b, hanteert de provincie de raming in het centraal economisch plan van het Centraal Planbureau.
 
+5. Een aanvraag voor het extra budget dat voor de provincies Flevoland, Noord-Holland en Zeeland beschikbaar is gesteld bij de Regeling van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur, nr. WJZ/86195654, tot wijziging van de Regeling provinciale maatregelen landelijk gebied (tweede verhoging budget) kan worden ingediend tot 1 september 2025.
+
 ##### Artikel 8. Beslistermijn, verlening en voorschot
 
 1. De minister geeft binnen acht weken na het indienen van de aanvraag een beschikking omtrent verlening van de uitkering.
@@ -160,7 +162,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 9. Verplichtingen
 
-1. De provincie spant zich ervoor in de uitkering zodanig aan te wenden dat de meest doelmatige en doeltreffende bijdrage wordt geleverd aan de doelen, genoemd in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049793&paragraaf=3&artikel=5&z=2024-07-23&g=2024-07-23).
+1. De provincie spant zich ervoor in de uitkering zodanig aan te wenden dat de meest doelmatige en doeltreffende bijdrage wordt geleverd aan de doelen, genoemd in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049793&paragraaf=3&artikel=5&z=2024-12-24&g=2024-12-24).
 
 2. De provincie neemt bij de besteding van de uitkering het Unierecht met betrekking tot mededinging, aanbesteding en staatssteun in acht.
 
@@ -202,7 +204,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 12. Verantwoording en vaststelling
 
-1. De provincie legt verantwoording af over de besteding van de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049793&paragraaf=2&artikel=2&z=2024-07-23&g=2024-07-23) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0049793&paragraaf=3&artikel=5&z=2024-07-23&g=2024-07-23) bedoelde uitkeringen op de wijze, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
+1. De provincie legt verantwoording af over de besteding van de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049793&paragraaf=2&artikel=2&z=2024-12-24&g=2024-12-24) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0049793&paragraaf=3&artikel=5&z=2024-12-24&g=2024-12-24) bedoelde uitkeringen op de wijze, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
 2. Voor zover de provincie een uitkering heeft verstrekt aan een gemeente, legt die gemeente verantwoording af over de besteding van de uitkering met toepassing van [artikel 17a, tweede lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
