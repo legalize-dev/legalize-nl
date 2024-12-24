@@ -4,7 +4,7 @@ identifier: "BWBR0034955"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-05"
-last_updated: "2024-08-01"
+last_updated: "2024-12-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034955"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ Besluit:
 
 1. Het is verboden te handelen in strijd met artikel 2, artikel 8, eerste lid, lid 1 bis, lid 1 ter, derde volzin, lid 1 quater, en artikel 9, eerste en tweede lid, van [Verordening 269/2014](32014R0269) van de Raad van de Europese Unie van 17 maart 2014 betreffende beperkende maatregelen met betrekking tot acties die de territoriale integriteit, soevereiniteit en onafhankelijkheid van Oekraïne ondermijnen of bedreigen (Pb 2014, L78).
 
-2. Het verbod te handelen in strijd met artikel 2 van [Verordening 269/2014](32014R0269), geldt niet in gevallen waarin artikel 2 bis, eerste of tweede lid, artikel 4, eerste lid, artikel 5, eerste lid, artikel 5 bis, eerste lid, artikel 5 ter, eerste lid, artikel 6, eerste lid, artikel 6 bis, eerste lid, artikel 6 ter, eerste lid, tweede lid, lid 2 bis, lid 2 ter, lid 2 quater, lid 2 quinquies, derde lid, vierde lid, vijfde lid, lid 5 bis, lid 5 bis bis, lid 5 ter, lid 5 quater, lid 5 quinquies, lid 5 sexies, lid 5 septies, lid 5 octies, lid 5 nonies of lid 5 decies, artikel 6 quater, artikel 6 quinquies, eerste lid, artikel 6 sexies, eerste lid of lid 1 bis, artikel 6 septies, artikel 7 of artikel 9, vijfde lid, van [Verordening 269/2014](32014R0269) van toepassing is.
+2. Het verbod te handelen in strijd met artikel 2 van [Verordening 269/2014](32014R0269), geldt niet in gevallen waarin artikel 2 bis, eerste of tweede lid, artikel 4, eerste lid, artikel 5, eerste lid, artikel 5 bis, eerste lid, artikel 5 ter, eerste lid, artikel 6, eerste lid, artikel 6 bis, eerste lid, artikel 6 ter, eerste lid, tweede lid, lid 2 bis, lid 2 ter, lid 2 quater, lid 2 quinquies, derde lid, vierde lid, vijfde lid, lid 5 bis, lid 5 bis bis, lid 5 ter, lid 5 quater, lid 5 quinquies, lid 5 sexies, lid 5 septies, lid 5 octies, lid 5 nonies, lid 5 decies of lid 5 undecies, artikel 6 quater, artikel 6 quinquies, eerste lid, artikel 6 sexies, eerste lid of lid 1 bis, artikel 6 septies, artikel 7 of artikel 9, vijfde lid, van [Verordening 269/2014](32014R0269) van toepassing is.
 
 ##### Artikel 2
 
@@ -118,7 +118,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1c
 
-Het verbod tot overtreding van artikel 4, eerste lid, onder a en b, tweede lid en de leden 2bis, 2bisbis en 2ter, van Verordening (EU) nr. 833/2014, op grond van [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0034955&artikel=1a&z=2024-08-01&g=2024-08-01) strekt zich tevens uit tot het verlenen van tussenhandeldiensten met betrekking tot goederen en technologie vermeld in de gemeenschappelijke lijst van militaire goederen.
+Het verbod tot overtreding van artikel 4, eerste lid, onder a en b, tweede lid en de leden 2bis, 2bisbis en 2ter, van Verordening (EU) nr. 833/2014, op grond van [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0034955&artikel=1a&z=2024-12-24&g=2024-12-24) strekt zich tevens uit tot het verlenen van tussenhandeldiensten met betrekking tot goederen en technologie vermeld in de gemeenschappelijke lijst van militaire goederen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -236,7 +236,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1d
 
-1. Gelet op [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0034955&artikel=1a&z=2024-08-01&g=2024-08-01) van deze regeling en het daarin opgenomen verbod om te handelen in strijd met artikel 2, tweede lid, artikel 2 bis, tweede lid, en artikel 3 quater, vierde lid, van [Verordening (EU) nr. 833/2014](32014R0833), is het verboden om zonder ontheffing van de Minister van Onderwijs, Cultuur en Wetenschap gespecialiseerde kennis te verstrekken aan personen over de in de bij deze regeling behorende bijlage vermelde gebieden van onderwijs en onderzoek.
+1. Gelet op [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0034955&artikel=1a&z=2024-12-24&g=2024-12-24) van deze regeling en het daarin opgenomen verbod om te handelen in strijd met artikel 2, tweede lid, artikel 2 bis, tweede lid, en artikel 3 quater, vierde lid, van [Verordening (EU) nr. 833/2014](32014R0833), is het verboden om zonder ontheffing van de Minister van Onderwijs, Cultuur en Wetenschap gespecialiseerde kennis te verstrekken aan personen over de in de bij deze regeling behorende bijlage vermelde gebieden van onderwijs en onderzoek.
 
 2. Het eerste lid strekt zich niet uit tot de verstrekking van kennis in het kader van bacheloropleidingen en associate degree-opleidingen als bedoeld in [artikel 7.3a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3a).
 
@@ -246,7 +246,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 5. Voor zover deze noodzakelijk zijn voor een doelmatige en doeltreffende uitvoering van de taak bedoeld in het derde lid, kunnen bijzondere persoonsgegevens worden verwerkt.
 
-## Bijlage. als bedoeld in [artikel 1d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034955&artikel=1d&z=2024-08-01&g=2024-08-01)
+## Bijlage. als bedoeld in [artikel 1d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034955&artikel=1d&z=2024-12-24&g=2024-12-24)
 
 - −. geavanceerde natuurkunde
 
