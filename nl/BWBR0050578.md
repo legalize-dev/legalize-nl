@@ -4,7 +4,7 @@ identifier: "BWBR0050578"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-12-24"
-last_updated: "2024-10-01"
+last_updated: "2024-12-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050578"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ Gelet op [artikel 3, eerste lid, onder a, en vijfde lid, onder a, van het Mandaa
 
 1. Ondermandaat wordt verleend voor het beschikken over bedragen voor het aangaan van verplichtingen en het verrichten van uitgaven, in overeenstemming met [artikel 3.3 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=3.3).
 
-2. De in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050578&artikel=1&z=2024-12-24&g=2024-10-01) genoemde ambtenaar is met betrekking tot de medewerkers binnen de directie Project-, Programma- en Adviescentrum (PPAC) die werkzaam zijn ten behoeve van het Programma de JenV-brede Werkagenda, bevoegd tot uitoefening van alle bevoegdheden die in of krachtens de CAO Rijk aan de leidinggevende zijn toegekend, met uitzondering van de bevoegdheden tot het aangaan van een arbeidsovereenkomst, bevorderen naar een hogere salarisschaal, het opleggen van disciplinaire straffen en ordemaatregelen, beëindigen van een arbeidsovereenkomst, alsmede het nemen van beslissingen over de toekenning van een persoonsgebonden dienstauto.
+2. De in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050578&artikel=1&z=2024-12-24&g=2024-12-24) genoemde ambtenaar is met betrekking tot de medewerkers binnen de directie Project-, Programma- en Adviescentrum (PPAC) die werkzaam zijn ten behoeve van het Programma de JenV-brede Werkagenda, bevoegd tot uitoefening van alle bevoegdheden die in of krachtens de CAO Rijk aan de leidinggevende zijn toegekend, met uitzondering van de bevoegdheden tot het aangaan van een arbeidsovereenkomst, bevorderen naar een hogere salarisschaal, het opleggen van disciplinaire straffen en ordemaatregelen, beëindigen van een arbeidsovereenkomst, alsmede het nemen van beslissingen over de toekenning van een persoonsgebonden dienstauto.
 
 ##### Artikel 3
 
