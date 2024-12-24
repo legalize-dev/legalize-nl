@@ -4,7 +4,7 @@ identifier: "BWBR0046957"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-11"
-last_updated: "2023-11-30"
+last_updated: "2024-12-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046957"
 soort: "ministeriele-regeling"
@@ -44,19 +44,19 @@ BESLUIT:
 
 In deze regeling wordt verstaan onder:
 
-- **aanvrager:** regiocoördinator, waterschap als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046957&artikel=7&z=2023-11-30&g=2023-11-30), of, in het geval van zoetwaterregio Rivierengebied, waterschap Rivierenland;
+- **aanvrager:** regiocoördinator, waterschap als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046957&artikel=7&z=2024-12-24&g=2024-12-24), of, in het geval van zoetwaterregio Rivierengebied, waterschap Rivierenland;
 
-- **alternatieve maatregel:** maatregel die door de Minister is vastgesteld als alternatief voor een maatregel opgenomen in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0046957&bijlage=A&z=2023-11-30&g=2023-11-30) bij deze regeling;
+- **alternatieve maatregel:** maatregel die door de Minister is vastgesteld als alternatief voor een maatregel opgenomen in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0046957&bijlage=A&z=2024-12-24&g=2024-12-24) bij deze regeling;
 
-- **innovatieve pilot:** maatregel die als zodanig is aangemerkt in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0046957&bijlage=A&z=2023-11-30&g=2023-11-30) bij de regeling of bij de vaststelling van een alternatieve maatregel;
+- **innovatieve pilot:** maatregel die als zodanig is aangemerkt in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0046957&bijlage=A&z=2024-12-24&g=2024-12-24) bij de regeling of bij de vaststelling van een alternatieve maatregel;
 
 - **Minister:** Minister van Infrastructuur en Waterstaat;
 
-- **regiocoördinator:** aangewezen provincie als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046957&artikel=7&z=2023-11-30&g=2023-11-30);
+- **regiocoördinator:** aangewezen provincie als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046957&artikel=7&z=2024-12-24&g=2024-12-24);
 
 - **rijksbijdrage:** specifieke uitkering dan wel subsidie op grond van deze regeling;
 
-- **zoetwaterregio:** een van de zes onderscheiden zoetwaterregio’s als opgenomen op de kaart in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0046957&bijlage=B&z=2023-11-30&g=2023-11-30).
+- **zoetwaterregio:** een van de zes onderscheiden zoetwaterregio’s als opgenomen op de kaart in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0046957&bijlage=B&z=2024-12-24&g=2024-12-24).
 
 ##### Artikel 2. Doel
 
@@ -66,7 +66,7 @@ Deze regeling heeft tot doel het stimuleren en faciliteren van het nemen van maa
 
 1. De Minister kan een rijksbijdrage verstrekken voor de kosten van het uitvoeren van:
 
-- a. een maatregel die is opgenomen in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0046957&bijlage=A&z=2023-11-30&g=2023-11-30) bij deze regeling; of
+- a. een maatregel die is opgenomen in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0046957&bijlage=A&z=2024-12-24&g=2024-12-24) bij deze regeling; of
 
 - b. een alternatieve maatregel.
 
@@ -76,7 +76,7 @@ Deze regeling heeft tot doel het stimuleren en faciliteren van het nemen van maa
 
 Op grond van deze regeling wordt geen rijksbijdrage verstrekt voor:
 
-- a. kosten van regulier beheer en onderhoud of achterstallig onderhoud tenzij een maatregel als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046957&artikel=3&z=2023-11-30&g=2023-11-30), innovatie of kostenbesparing van regulier beheer of onderhoud betreft;
+- a. kosten van regulier beheer en onderhoud of achterstallig onderhoud tenzij een maatregel als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046957&artikel=3&z=2024-12-24&g=2024-12-24), innovatie of kostenbesparing van regulier beheer of onderhoud betreft;
 
 - b. kosten van personeel van de eigen organisatie;
 
@@ -88,13 +88,13 @@ Op grond van deze regeling wordt geen rijksbijdrage verstrekt voor:
 
 ##### Artikel 5. Plafond en wijze van verdelen
 
-1. Het rijksbijdrageplafond bedraagt € 181.148.000,-.
+1. Het rijksbijdrageplafond bedraagt € 182.188.000,–.
 
 2. De toekenning van de beschikbare gelden vindt plaats op basis van de volgorde van binnenkomst van de aanvragen.
 
 ##### Artikel 6. Hoogte rijksbijdrage
 
-1. In [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0046957&bijlage=A&z=2023-11-30&g=2023-11-30) bij deze regeling zijn per maatregel de geraamde totale kosten per zoetwaterregio aangegeven.
+1. In [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0046957&bijlage=A&z=2024-12-24&g=2024-12-24) bij deze regeling zijn per maatregel de geraamde totale kosten per zoetwaterregio aangegeven.
 
 2. De geraamde totale kosten van een alternatieve maatregel worden door de Minister bepaald gelijktijdig met de vaststelling van die maatregel door de Minister.
 
@@ -106,7 +106,7 @@ Op grond van deze regeling wordt geen rijksbijdrage verstrekt voor:
 
 - 1°. effect heeft in meer dan één zoetwaterregio; of
 
-- 2°. bijdraagt aan de klimaatbestendigheid van de zoetwatervoorziening van het samenhangend geheel van een of meer oppervlaktewaterlichamen die zijn aangewezen in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0046957&bijlage=C&z=2023-11-30&g=2023-11-30) bij deze regeling, met bijbehorende bergingsgebieden, waterkeringen en ondersteunende kunstwerken; of
+- 2°. bijdraagt aan de klimaatbestendigheid van de zoetwatervoorziening van het samenhangend geheel van een of meer oppervlaktewaterlichamen die zijn aangewezen in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0046957&bijlage=C&z=2024-12-24&g=2024-12-24) bij deze regeling, met bijbehorende bergingsgebieden, waterkeringen en ondersteunende kunstwerken; of
 
 - c. 50% van de geraamde totale kosten, bij een innovatieve pilot.
 
@@ -116,7 +116,7 @@ Op grond van deze regeling wordt geen rijksbijdrage verstrekt voor:
 
 1. Per zoetwaterregio, met uitzondering van de zoetwaterregio Rivierengebied, wordt door provincies en waterschappen in die regio, ten minste één provincie aangewezen als regiocoördinator.
 
-2. De regiocoördinator kan in zijn plaats voor een maatregel als bedoeld in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0046957&bijlage=A&z=2023-11-30&g=2023-11-30) of een alternatieve maatregel de taken van een regiocoördinator aan een waterschap overdragen, mits dat waterschap daarmee instemt.
+2. De regiocoördinator kan in zijn plaats voor een maatregel als bedoeld in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0046957&bijlage=A&z=2024-12-24&g=2024-12-24) of een alternatieve maatregel de taken van een regiocoördinator aan een waterschap overdragen, mits dat waterschap daarmee instemt.
 
 ##### Artikel 8. Aanvraag
 
@@ -158,9 +158,9 @@ Op grond van deze regeling wordt geen rijksbijdrage verstrekt voor:
 
 ##### Artikel 10. Voorschot
 
-1. Bij een rijksbijdrage van in totaal minder dan € 25.000, inclusief de btw-component, verstrekt de Minister bij het besluit tot verlening, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046957&artikel=8&z=2023-11-30&g=2023-11-30), een voorschot van 100%.
+1. Bij een rijksbijdrage van in totaal minder dan € 25.000, inclusief de btw-component, verstrekt de Minister bij het besluit tot verlening, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046957&artikel=8&z=2024-12-24&g=2024-12-24), een voorschot van 100%.
 
-2. Bij een rijksbijdrage, inclusief de btw-component, van in totaal ten minste € 25.000 verstrekt de Minister bij het besluit tot verlening, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046957&artikel=8&z=2023-11-30&g=2023-11-30), een voorschot van ten hoogste 80% van de rijksbijdrage overeenkomstig het in het besluit opgegeven kasritme.
+2. Bij een rijksbijdrage, inclusief de btw-component, van in totaal ten minste € 25.000 verstrekt de Minister bij het besluit tot verlening, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046957&artikel=8&z=2024-12-24&g=2024-12-24), een voorschot van ten hoogste 80% van de rijksbijdrage overeenkomstig het in het besluit opgegeven kasritme.
 
 3. De Minister verleent op verzoek van de aanvrager een extra voorschot van ten hoogste 20% van de rijksbijdrage voor de afronding van een maatregel.
 
@@ -218,9 +218,9 @@ Op grond van deze regeling wordt geen rijksbijdrage verstrekt voor:
 
 ##### Artikel 14. Vaststelling
 
-1. De Minister stelt de rijksbijdrage ambtshalve vast, uiterlijk op 31 december van het tweede kalenderjaar dat volgt op het kalenderjaar waarin de maatregelen, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046957&artikel=3&z=2023-11-30&g=2023-11-30), volledig zijn uitgevoerd en volledig is voldaan aan de verplichtingen, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046957&artikel=12&z=2023-11-30&g=2023-11-30).
+1. De Minister stelt de rijksbijdrage ambtshalve vast, uiterlijk op 31 december van het tweede kalenderjaar dat volgt op het kalenderjaar waarin de maatregelen, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046957&artikel=3&z=2024-12-24&g=2024-12-24), volledig zijn uitgevoerd en volledig is voldaan aan de verplichtingen, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046957&artikel=12&z=2024-12-24&g=2024-12-24).
 
-2. De vaststelling vindt plaats op basis van de verantwoordingsinformatie, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0046957&artikel=13&z=2023-11-30&g=2023-11-30).
+2. De vaststelling vindt plaats op basis van de verantwoordingsinformatie, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0046957&artikel=13&z=2024-12-24&g=2024-12-24).
 
 ##### Artikel 15. Evaluatie
 
@@ -244,7 +244,7 @@ In deze bijlage zijn per zoetwaterregio voor de maatregelen de geraamde totale k
 
 De zoetwaterregio Noord-Nederland kent een laag deel en een hoog deel.
 
-### West Nederland
+### West-Nederland
 
 ### Zuidwestelijke Delta
 
