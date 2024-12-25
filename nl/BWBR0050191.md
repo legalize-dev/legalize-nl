@@ -4,7 +4,7 @@ identifier: "BWBR0050191"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-12-25"
-last_updated: "2024-11-13"
+last_updated: "2024-12-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050191"
 soort: "ministeriele-regeling"
@@ -68,7 +68,7 @@ De datum van inwerkingtreding in de publicatie ligt voor de datum van uitgifte.
 
 - d. Unit Bedrijfsvoering.
 
-2. Elke eenheid bestaat uit een aantal afdelingen; elke afdeling kan uit een of meer teams bestaan. De indeling is vermeld in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050191&bijlage=1&z=2024-11-13&g=2024-11-13).
+2. Elke eenheid bestaat uit een aantal afdelingen; elke afdeling kan uit een of meer teams bestaan. De indeling is vermeld in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050191&bijlage=1&z=2024-12-25&g=2024-12-25).
 
 3. De afdelingen worden geleid door een **afdelingshoofd** (functietitel: afdelingsmanager); de teams worden geleid door een **teamleider** (functietitel: teammanager). Enkele teams hebben geen teamleider, maar worden direct door het afdelingshoofd aangestuurd.
 
@@ -106,7 +106,7 @@ De lijst met bestelgemachtigden wordt bijgehouden in het financiële of inkoopsy
 
 ##### Artikel 6. Verkoopmandaat
 
-1. Voor het nemen van besluiten tot het aangaan van verbintenissen tot het leveren van bestaande diensten door RvIHH aan bestaande klanten en het ondertekenen van desbetreffende stukken heeft, binnen de grenzen van het financiële mandaat, ondermandaat: de manager van de in [artikel 2 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050191&artikel=2&z=2024-11-13&g=2024-11-13) genoemde organisatie-eenheden en de daarbinnen opererende afdelingshoofden en teammanagers voor wat betreft de eigen organisatie-eenheid.
+1. Voor het nemen van besluiten tot het aangaan van verbintenissen tot het leveren van bestaande diensten door RvIHH aan bestaande klanten en het ondertekenen van desbetreffende stukken heeft, binnen de grenzen van het financiële mandaat, ondermandaat: de manager van de in [artikel 2 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050191&artikel=2&z=2024-12-25&g=2024-12-25) genoemde organisatie-eenheden en de daarbinnen opererende afdelingshoofden en teammanagers voor wat betreft de eigen organisatie-eenheid.
 
 2. Nieuwe dienstverleningsafspraken boven de € 5 miljoen worden voorgelegd aan de (plaatsvervangend) directeur-generaal VBR en boven de € 10 miljoen aan de secretaris-generaal.
 
@@ -236,13 +236,13 @@ Dit besluit wordt aangehaald als: **Mandaatbesluit RvIHH 2024**.
 
 ## Bijlage 2. Vastgesteld (Onder)mandaat personele aangelegenheden Rijksorganisatie voor Informatiehuishouding (RvIHH) + rollen – d.d. 2024
 
-| **Vastgesteld (Onder)mandaat personele aangelegenheden Rijksorganisatie voor Informatiehuishouding (RvIHH) + rollen – d.d. 2024** |   |   |   |   |   |   | **Disclaimer: Voor financieel mandaat geldt een aparte regeling** |
+| Vastgesteld (Onder)mandaat personele aangelegenheden Rijksorganisatie voor Informatiehuishouding (RvIHH) + rollen – d.d. 2024 |   |   |   |   |   |   | Disclaimer: Voor financieel mandaat geldt een aparte regeling |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Personele aangeledenheden** | **wet- en regelgeving** | **SG** | **directeur (algemeen directeur)** | **manager OE (unit-manager (CFO, CInO, COO, CIO))** | **Afdelings** **hoofd** **(afdelings** **manager)** | **teamleider** **(team** **manager)** | **Opmerkingen** |
+| Personele aangeledenheden | wet- en regelgeving | SG | directeur (algemeen directeur) | manager OE (unit-manager (CFO,CInO, COO, CIO)) | Afdelings hoofd (afdelings manager) | teamleider (team manager) | Opmerkingen |
 | **Organisatie en formatie** |   |   |   |   |   |   | X = eindverantwoordelijke/mandaathouder O = uitvoerende manager t = tekenbevoegdheid voor ovk's |
 | Het vaststellen van de formatie | [Mandaatbesluit BZK 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048593) | X |   |   |   |   |   |
 | Vaststellen van capaciteitsplannen binnen het vastgesteld formatief kader | [Mandaatbesluit BZK 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048593) |   | X |   |   |   |   |
-| Optreden als bestuurder in de zin van de WOR | [Mandaatbesluit BZK 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048593) |   | X |   |   |   |   |
+| Optreden als bestuurder in de zin van de [WOR](https://wetten.overheid.nl/jci1.3:c:BWBR0002747) | [Mandaatbesluit BZK 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048593) |   | X |   |   |   |   |
 | Het vaststellen van functie(her)waardering | [Mandaatbesluit BZK 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048593) |   | X |   |   |   | Topformatie valt onder bevoegdheid SG |
 | Inhuur extern personeel | Conform financieel ondermandaat |   | X | X | O |   |   |
 | Toekennen representatievergoeding | §11.3 CAO Rijk | X | O |   |   |   |   |
@@ -252,7 +252,7 @@ Dit besluit wordt aangehaald als: **Mandaatbesluit RvIHH 2024**.
 | Vaststellen verslag van een plannings- en functioneringsgesprek | §12.1 CAO Rijk |   | X | X | X | X |   |
 | Beoordeling vaststellen / optreden als beoordelingsautoriteit | §12.2 CAO Rijk |   | X | X | X | O | * minimaal 1 niveau hoger dan opsteller beoordeling |
 | **Aannemen personeel en ontslag** |   |   |   |   |   |   |   |
-| Afnemen van de eed/belofte | [Mandaatbesluit BZK 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048593) |   | X | X |   |   |   |
+| Afnemen van de eed/belofte | [Mandaatbesluit BZK 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048593) |   | X |   |   |   |   |
 | Het sluiten van een arbeidsovereenkomst (bepaalde tijd/onbepaalde tijd) | §2.1/2.2 CAO Rijk |   | X / t | O | O | O | Uitzondering voor topformatie/MD-doelgroep |
 | Voeren van arbeidsvoorwaardengesprek en daarbij doen van een loonvoorstel binnen salarisschaal, inclusief bevestiging van aanbod arbeidsvoorwaarden aan kandidaat | § 6.1/6.2 CAO Rijk |   | X | X | X | X | Afstemming vooraf met mandaathouder en advies HRM |
 | Het wijzigen van de aard van de arbeidsovereenkomst (bijv verlengen of omzetten naar onbepaalde tijd) | §2.1/2.2 CAO Rijk |   | X | O | O | O |   |
@@ -289,7 +289,7 @@ Dit besluit wordt aangehaald als: **Mandaatbesluit RvIHH 2024**.
 | Toekennen/wijzigen opname vakantie/verlof -uren | §4.1 CAO Rijk |   | X | X | X | X |   |
 | Toekennen opname verlof tijdens ziekte | §4.1 CAO Rijk |   | X | X | X | X |   |
 | Het vaststellen van een afbouwplan verlof | §4.1 CAO Rijk |   | X | X | X | X |   |
-| het wijzigen van de vervaltermijn van wettelijke vakantieuren | §4.1 CAO Rijk |   | X | X | X | O | altijd met HRM advies |
+| het wijzigen van de vervaltermijn van wettleijke vakantieuren | §4.1 CAO Rijk |   | X | X | X | O | altijd met HRM advies |
 | Het verlenen van kortdurend bijzonder verlof – CAO gelieerd (o.a. bijzondere gebeurtenissen) | § 4.3 / 4.9 CAO Rijk |   | X | X | X | X |   |
 | Het verlenen van langdurend bijzonder verlof | §4.3 / 5 CAO Rijk |   | X | X | O | O |   |
 | Het verlenen van onbetaald verlof | § 4.3 CAO Rijk |   | X | X | O | O |   |
@@ -325,7 +325,7 @@ Dit besluit wordt aangehaald als: **Mandaatbesluit RvIHH 2024**.
 | **Personele regelingen** |   |   |   |   |   |   |   |
 | Beoordelen arbeidsomstandigheden (inclusief thuiswerkplek) | [Arbowet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346) / arbocatalogus Rijk |   | X | X | X | X | Altijd met voorafgaand advies Tactisch Preventiemedewerker |
 | Het toekennen/afkeuren van aanvragen gebruik IKB-budget | §9.1 CAO Rijk |   | X | X | X | X | Bij afkeuren advies HRM |
-| Besluit tot verbod verrichten van nevenwerkzaamheden | [art. 7:653a BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=653a) / Gedragscode Integriteit Rijk en [Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947) |   | X |   |   |   | Let op! Sinds 1 aug. 2022 is een verbod op verrichten van nevenwerkzaamheden verboden, tenzij daar objectieve redenen voor zijn ([art. 7:653a BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=653a)). Voor verbod altijd in overleg met HRM Advies |
+| Besluit tot verbod verrichten van nevenwerkzaamheden | [art. 7:653a BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=653a) / Gedragscode Integriteit Rijk en [Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947) |   | X |   |   |   | Let op! Sinds 1 aug. 2022 is een verbod op verrichten van nevenwerkzaamheden verboden, tenzij daar objectieve redenen voor zijn ([art. 7:653a BW)](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=653a). Voor verbod altijd in overleg met HRM Advies |
 | **Reizen en vergoedingen** |   |   |   |   |   |   |   |
 | Het toekennen van de pensionkostenvergoeding en verhuiskostenvergoeding | §11.5 CAO Rijk |   | X | X | O | O |   |
 | Het goedkeuren/afkeuren van reisdeclaraties | §10.1 CAO Rijk |   | X | X | X | X |   |
@@ -334,7 +334,6 @@ Dit besluit wordt aangehaald als: **Mandaatbesluit RvIHH 2024**.
 | Het toekennen vergoeding dienstreizen buitenland | §10.3 CAO Rijk |   | X | X | O | O |   |
 | Beslissen over gebruik dienstauto | §10.4 CAO Rijk |   | X |   |   |   |   |
 | Het toekennen van de hoge tegemoetkoming woon-werkverkeer | §10.1 CAO Rijk |   | X | X | O | O |   |
-|   |   |   |   |   |   |   |   |
 | **Overige vergoedingen** |   |   |   |   |   |   |   |
 | Het toekennen van een maaltijdvergoeding bij overwerk | §11.1 CAO Rijk |   | X | X | X | X |   |
 | Het toekennen van een thuiswerkvergoeding en voorzieningen thuiswerkplek en/of verduurzaming woning | §25.6 CAO Rijk |   | X | X | X | X |   |
@@ -351,7 +350,7 @@ Dit besluit wordt aangehaald als: **Mandaatbesluit RvIHH 2024**.
 | Aanvragen van veiligheidsonderzoeken (Hoofdstuk C Personeelsreglement BZK) |   |   | X | X | O | O | aanvragen verlopen via BVA-rol RvIHH |
 | Stage overeenkomsten & verlengingen |   |   | X / t | X | O | O |   |
 |   |   |   |   |   |   |   |   |
-| ****Proces van afstemming:**** |   |   |   |   |   |   |   |
+| **Proces van afstemming:** |   |   |   |   |   |   |   |
 | In P-direkt kan de laagste manager veel van bovenstaande handelingen verrichten, dit is echter niet hetzelfde als ook daadwerkelijk mandaat. Voor die handelingen/aanvragen/verzoeken waarover de direct leidinggevende niet zelf kan beslissen, dient ****vooraf afstemming**** te zijn (via de hierarische lijn) met de functionaris die bevoegd is om hierover te beslissen, in voorkomende gevallen met voorafgaand HRM advies. De uitvoering en communicatie richting medewerker volgt daarna via de direct leidinggevende. In het portaal wordt melding gemaakt namens wie (functienaam) de handeling wordt verricht. | In P-direkt kan de laagste manager veel van bovenstaande handelingen verrichten, dit is echter niet hetzelfde als ook daadwerkelijk mandaat. Voor die handelingen/aanvragen/verzoeken waarover de direct leidinggevende niet zelf kan beslissen, dient ****vooraf afstemming**** te zijn (via de hierarische lijn) met de functionaris die bevoegd is om hierover te beslissen, in voorkomende gevallen met voorafgaand HRM advies. De uitvoering en communicatie richting medewerker volgt daarna via de direct leidinggevende. In het portaal wordt melding gemaakt namens wie (functienaam) de handeling wordt verricht. | In P-direkt kan de laagste manager veel van bovenstaande handelingen verrichten, dit is echter niet hetzelfde als ook daadwerkelijk mandaat. Voor die handelingen/aanvragen/verzoeken waarover de direct leidinggevende niet zelf kan beslissen, dient ****vooraf afstemming**** te zijn (via de hierarische lijn) met de functionaris die bevoegd is om hierover te beslissen, in voorkomende gevallen met voorafgaand HRM advies. De uitvoering en communicatie richting medewerker volgt daarna via de direct leidinggevende. In het portaal wordt melding gemaakt namens wie (functienaam) de handeling wordt verricht. | In P-direkt kan de laagste manager veel van bovenstaande handelingen verrichten, dit is echter niet hetzelfde als ook daadwerkelijk mandaat. Voor die handelingen/aanvragen/verzoeken waarover de direct leidinggevende niet zelf kan beslissen, dient ****vooraf afstemming**** te zijn (via de hierarische lijn) met de functionaris die bevoegd is om hierover te beslissen, in voorkomende gevallen met voorafgaand HRM advies. De uitvoering en communicatie richting medewerker volgt daarna via de direct leidinggevende. In het portaal wordt melding gemaakt namens wie (functienaam) de handeling wordt verricht. | In P-direkt kan de laagste manager veel van bovenstaande handelingen verrichten, dit is echter niet hetzelfde als ook daadwerkelijk mandaat. Voor die handelingen/aanvragen/verzoeken waarover de direct leidinggevende niet zelf kan beslissen, dient ****vooraf afstemming**** te zijn (via de hierarische lijn) met de functionaris die bevoegd is om hierover te beslissen, in voorkomende gevallen met voorafgaand HRM advies. De uitvoering en communicatie richting medewerker volgt daarna via de direct leidinggevende. In het portaal wordt melding gemaakt namens wie (functienaam) de handeling wordt verricht. | In P-direkt kan de laagste manager veel van bovenstaande handelingen verrichten, dit is echter niet hetzelfde als ook daadwerkelijk mandaat. Voor die handelingen/aanvragen/verzoeken waarover de direct leidinggevende niet zelf kan beslissen, dient ****vooraf afstemming**** te zijn (via de hierarische lijn) met de functionaris die bevoegd is om hierover te beslissen, in voorkomende gevallen met voorafgaand HRM advies. De uitvoering en communicatie richting medewerker volgt daarna via de direct leidinggevende. In het portaal wordt melding gemaakt namens wie (functienaam) de handeling wordt verricht. | In P-direkt kan de laagste manager veel van bovenstaande handelingen verrichten, dit is echter niet hetzelfde als ook daadwerkelijk mandaat. Voor die handelingen/aanvragen/verzoeken waarover de direct leidinggevende niet zelf kan beslissen, dient ****vooraf afstemming**** te zijn (via de hierarische lijn) met de functionaris die bevoegd is om hierover te beslissen, in voorkomende gevallen met voorafgaand HRM advies. De uitvoering en communicatie richting medewerker volgt daarna via de direct leidinggevende. In het portaal wordt melding gemaakt namens wie (functienaam) de handeling wordt verricht. |   |
 |   |   |   |   |   |   |   |   |
 | NB: Een beslissing dient genomen te worden door de daartoe bevoegde manager. Een beslissing moet zorgvuldig zijn voorbereid (onderzoek, hoorplicht en evenredigheid qua belangen werknemer / organisatie), goed gemotiveerd (en begrijpelijk) en binnen een redelijke termijn worden genomen, zonder vooringenomenheid of partijdigheid. Daarbij geldt dat in gelijke gevallen sprake is van een gelijke behandeling. | NB: Een beslissing dient genomen te worden door de daartoe bevoegde manager. Een beslissing moet zorgvuldig zijn voorbereid (onderzoek, hoorplicht en evenredigheid qua belangen werknemer / organisatie), goed gemotiveerd (en begrijpelijk) en binnen een redelijke termijn worden genomen, zonder vooringenomenheid of partijdigheid. Daarbij geldt dat in gelijke gevallen sprake is van een gelijke behandeling. | NB: Een beslissing dient genomen te worden door de daartoe bevoegde manager. Een beslissing moet zorgvuldig zijn voorbereid (onderzoek, hoorplicht en evenredigheid qua belangen werknemer / organisatie), goed gemotiveerd (en begrijpelijk) en binnen een redelijke termijn worden genomen, zonder vooringenomenheid of partijdigheid. Daarbij geldt dat in gelijke gevallen sprake is van een gelijke behandeling. | NB: Een beslissing dient genomen te worden door de daartoe bevoegde manager. Een beslissing moet zorgvuldig zijn voorbereid (onderzoek, hoorplicht en evenredigheid qua belangen werknemer / organisatie), goed gemotiveerd (en begrijpelijk) en binnen een redelijke termijn worden genomen, zonder vooringenomenheid of partijdigheid. Daarbij geldt dat in gelijke gevallen sprake is van een gelijke behandeling. | NB: Een beslissing dient genomen te worden door de daartoe bevoegde manager. Een beslissing moet zorgvuldig zijn voorbereid (onderzoek, hoorplicht en evenredigheid qua belangen werknemer / organisatie), goed gemotiveerd (en begrijpelijk) en binnen een redelijke termijn worden genomen, zonder vooringenomenheid of partijdigheid. Daarbij geldt dat in gelijke gevallen sprake is van een gelijke behandeling. | NB: Een beslissing dient genomen te worden door de daartoe bevoegde manager. Een beslissing moet zorgvuldig zijn voorbereid (onderzoek, hoorplicht en evenredigheid qua belangen werknemer / organisatie), goed gemotiveerd (en begrijpelijk) en binnen een redelijke termijn worden genomen, zonder vooringenomenheid of partijdigheid. Daarbij geldt dat in gelijke gevallen sprake is van een gelijke behandeling. | NB: Een beslissing dient genomen te worden door de daartoe bevoegde manager. Een beslissing moet zorgvuldig zijn voorbereid (onderzoek, hoorplicht en evenredigheid qua belangen werknemer / organisatie), goed gemotiveerd (en begrijpelijk) en binnen een redelijke termijn worden genomen, zonder vooringenomenheid of partijdigheid. Daarbij geldt dat in gelijke gevallen sprake is van een gelijke behandeling. |   |
