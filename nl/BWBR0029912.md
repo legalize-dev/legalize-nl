@@ -4,7 +4,7 @@ identifier: "BWBR0029912"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-12-28"
-last_updated: "2019-12-28"
+last_updated: "2024-12-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029912"
 soort: "AMvB"
@@ -48,19 +48,19 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-De schadevergoeding die de vervoerder mogelijkerwijs is verschuldigd uit hoofde van [artikel 1359 van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1359) is beperkt tot een bedrag van 22 rekeneenheden per kilogram, zulks behoudens het bepaalde in artikel 1359 van Boek 8 van het Burgerlijk Wetboek.
+De schadevergoeding die de vervoerder mogelijkerwijs is verschuldigd uit hoofde van [artikel 1359 van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1359) is beperkt tot een bedrag van 26 rekeneenheden per kilogram, zulks behoudens het bepaalde in artikel 1359 van Boek 8 van het Burgerlijk Wetboek.
 
 ##### Artikel 2
 
-1. De schadevergoeding die de vervoerder mogelijkerwijs is verschuldigd uit hoofde van [artikel 1399, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1399), juncto [artikel 1393 van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1393) is beperkt tot 128.821 rekeneenheden per reiziger.
+1. De schadevergoeding die de vervoerder mogelijkerwijs is verschuldigd uit hoofde van [artikel 1399, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1399), juncto [artikel 1393 van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1393) is beperkt tot 151.880 rekeneenheden per reiziger.
 
-2. De schadevergoeding die de vervoerder mogelijkerwijs is verschuldigd uit hoofde van [artikel 1399, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1399), juncto [artikel 1393 van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1393) is beperkt tot een bedrag van 128.821 rekeneenheden per reiziger, zulks behoudens het bepaalde in artikel 1399 van Boek 8 van het Burgerlijk Wetboek.
+2. De schadevergoeding die de vervoerder mogelijkerwijs is verschuldigd uit hoofde van [artikel 1399, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1399), juncto [artikel 1393 van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1393) is beperkt tot een bedrag van 151.880 rekeneenheden per reiziger, zulks behoudens het bepaalde in artikel 1399 van Boek 8 van het Burgerlijk Wetboek.
 
 ##### Artikel 3
 
-1. De schadevergoeding die de vervoerder mogelijkerwijs is verschuldigd uit hoofde van [artikel 1400, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1400), juncto [artikel 1396 van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1396) is beperkt tot een bedrag van 5.346 rekeneenheden per reiziger.
+1. De schadevergoeding die de vervoerder mogelijkerwijs is verschuldigd uit hoofde van [artikel 1400, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1400), juncto [artikel 1396 van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1396) is beperkt tot een bedrag van 6.303 rekeneenheden per reiziger.
 
-2. De schadevergoeding die de vervoerder mogelijkerwijs is verschuldigd uit hoofde van [artikel 1400, tweede lid, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1400) is beperkt tot een bedrag van 1.288 rekeneenheden per reiziger, zulks behoudens het bepaalde in artikel 1400 van Boek 8 van het Burgerlijk Wetboek.
+2. De schadevergoeding die de vervoerder mogelijkerwijs is verschuldigd uit hoofde van [artikel 1400, tweede lid, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1400) is beperkt tot een bedrag van 1.519 rekeneenheden per reiziger, zulks behoudens het bepaalde in artikel 1400 van Boek 8 van het Burgerlijk Wetboek.
 
 ##### Artikel 4
 
