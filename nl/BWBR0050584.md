@@ -4,7 +4,7 @@ identifier: "BWBR0050584"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2023-12-31"
+last_updated: "2024-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050584"
 soort: "AMvB"
@@ -324,7 +324,7 @@ E: de totale acute belastinglast van de hoofdentiteit of groepsentiteit-belangho
 
 F: de binnenlandse acute belastinglast van de hoofdentiteit of groepsentiteit-belanghouder waarbij de acute belastinglast met betrekking tot het buitenlandse broninkomen buiten beschouwing blijft;
 
-G: de betrokken belasting die is geheven overeenkomstig een geaggregeerde belastingregeling voor buitenlandse gecontroleerde lichamen als bedoeld in [artikel 6, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050584&hoofdstuk=3&artikel=6&z=2026-01-01&g=2023-12-31).
+G: de betrokken belasting die is geheven overeenkomstig een geaggregeerde belastingregeling voor buitenlandse gecontroleerde lichamen als bedoeld in [artikel 6, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050584&hoofdstuk=3&artikel=6&z=2026-01-01&g=2024-12-31).
 
 3. De allocatiesleutel van een vaste inrichting of entiteit voor de toerekening van betrokken belastingen wordt berekend volgens de formule:
 
