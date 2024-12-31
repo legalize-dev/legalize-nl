@@ -4,7 +4,7 @@ identifier: "BWBR0021921"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-13"
-last_updated: "2022-09-27"
+last_updated: "2024-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021921"
 soort: "ministeriele-regeling"
@@ -59,6 +59,8 @@ EN 581-1:2006 Buitenmeubelen – Zitmeubelen en tafels voor gebruik op campings,
 EN 716-1:2017+AC:2019 Meubelen – Kinderledikanten en opvouwbare kinderbedjes voor huishoudelijk gebruik – Deel 1: Veiligheidsvoorschriften
 
 EN 913:2018 Turntoestellen – Algemene veiligheidseisen en beproevingsmethoden
+
+EN 913:2018+A1:2021 Turntoestellen – Algemene veiligheidseisen en beproevingsmethoden
 
 EN 914:2020 Turntoestellen – Bruggen met gelijke liggers en bruggen met ongelijke liggers – Eisen en beproevingsmethoden inclusief veiligheid
 
@@ -130,6 +132,10 @@ EN 12491:2001 Schermvliegtuigen – Noodparachutes – Veiligheidseisen en bepro
 
 EN 12655:1998 Turntoestellen – Ringentoestellen – Functionele en veiligheidseisen, beproevingsmethoden
 
+EN 12790-1:2023 Artikelen voor zuigelingen en peuters – Wipstoeltjes – Deel 1: Wipstoeltjes voor kinderen tot het moment waarop zij rechtop beginnen te zitten
+
+EN 12790-2:2023 Artikelen voor zuigelingen en peuters – Wipstoeltjes – Deel 2: Wipstoeltjes voor kinderen tot het moment waarop zij rechtop beginnen te staan
+
 EN ISO 12863:2010 Standaardbeproevingsmethode voor bepaling van het ontstekend vermogen van sigaretten (ISO 12863:2010) EN ISO 12863:2010/AC:20 11 EN ISO 12863:2010/A1:2016
 
 EN 13120:2009+A1:2014 Aan de binnenzijde geplaatste zonneschermen – Prestatie-eisen inclusief veiligheid
@@ -150,6 +156,8 @@ EN 14059:2002 Decoratieve olielampen – Veiligheidseisen en beproevingsmethoden
 
 EN 14344:2004 Artikelen voor zuigelingen en peuters – Kinderzitjes voor de fiets – Veiligheidseisen en beproevingsmethoden
 
+EN 14344:2022 Artikelen voor zuigelingen en peuters – Kinderzitjes voor de fiets – Veiligheidseisen en beproevingsmethoden
+
 EN 14350-1:2004 Artikelen voor zuigelingen en peuters – Drinkgerei – Deel 1: Algemene en mechanische eisen en beproevingsmethoden
 
 EN 14682:2014 Veiligheid van kinderkleding – Koorden en treksluitingen van kinderkleding – Specificaties
@@ -168,9 +176,13 @@ EN 16434:2014 Aan de binnenzijde geplaatste zonneschermen – Bescherming tegen 
 
 EN 16890:2017 Kindermeubilair – Matrassen voor kinderbedden en wiegen – Veiligheidseisen en beproevingsmethoden
 
+EN 16890:2017+A1:2021 Kindermeubilair – Matrassen voor kinderbedden en wiegen – Veiligheidseisen en beproevingsmethoden
+
 EN 17022:2018 Kinderartikelen – Badhulpmiddelen – Veiligheidseisen en beproevingsmethoden
 
 EN 17072:2018 Kinderartikelen – Babybadjes en standaarden – Veiligheidseisen en beproevingsmethoden
+
+EN 17191:2021 Kindermeubilair – Zitstoelen voor kinderen – Veiligheidseisen en beproevingsmethoden
 
 EN ISO 20957-1:2013 Vast opgestelde trainingsapparatuur – Deel 1: Algemene veiligheidseisen en beproevingsmethoden (ISO 20957- 1:2013)
 
@@ -197,6 +209,8 @@ EN ISO 25649-5:2017 Opblaasbare vrijetijdsartikelen voor gebruik op en in het wa
 EN ISO 25649-6:2017 Opblaasbare vrijetijdsartikelen voor gebruik op en in het water – Deel 6: Aanvullende bijzondere eisen voor Klasse D toestellen (ISO 25649-6:2017)
 
 EN ISO 25649-7:2017 Opblaasbare vrijetijdsartikelen voor gebruik op en in het water – Deel 7: Aanvullende bijzondere eisen en beproevingsmethoden voor klasse E toestellen (ISO 25649-7:2017)
+
+EN 50689:2021 Veiligheid van laserproducten – Speciale vereisten voor laserproducten voor consumenten
 
 EN IEC 62368-1:2020 Audio/video, informatietechnologie- en communicatietechnologieapparatuur – Deel 1: Veiligheidsvoorschriften EN IEC 62368-1:2020/A11:2020. Deze aangewezen norm heeft alleen betrekking op de punten 3.3.19 ‘Geluidsblootstelling’ en 10.6 ‘Bescherming tegen akoestische energiebronnen’ van EN IEC 62368-1:2020/A11:2020
 
