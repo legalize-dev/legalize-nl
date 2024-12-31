@@ -4,7 +4,7 @@ identifier: "BWBR0044755"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-12-31"
-last_updated: "2021-01-15"
+last_updated: "2024-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044755"
 soort: "zbo"
@@ -134,7 +134,7 @@ Het Letterenfonds beoogt met verlening van een subsidie voor een project op gron
 
 - h. voor zover de aanvrager in de aanvraag niet verklaart dat hij de Fair Practice Code, Governance Code Cultuur en de Code Diversiteit& Inclusie onderschrijft en dat hij aansluit bij bestaande afspraken over honorering en de sociale dialoog tussen werkgevers-opdrachtgevers en werknemers-opdrachtnemers.
 
-3. De subsidieontvanger van een vierjarige subsidie op grond van de [Regeling meerjarige subsidies Nederlands Letterenfonds 2021–2024](https://wetten.overheid.nl/jci1.3:c:BWBR0042933) komt niet in aanmerking voor een subsidie op grond van deze regeling ten aanzien van projecten die plaatsvinden in de kalenderjaren 2021 en 2022. Wel kan de subsidieontvanger ten aanzien van projecten die plaatsvinden in 2023 en 2024 subsidie aanvragen op grond van deze regeling voor een bedrag van maximaal € 20.000,- per jaar en uitsluitend indien het project waarvoor subsidie wordt aangevraagd duidelijk is afgebakend van de activiteiten die naar het oordeel van het bestuur reeds worden gesubsidieerd op grond van de Regeling meerjarige subsidies Nederlands Letterenfonds 2021–2024.
+3. De subsidieontvanger van een vierjarige subsidie op grond van de [Regeling vierjarige subsidies literaire organisaties Nederlands Letterenfonds 2025–2028](https://wetten.overheid.nl/jci1.3:c:BWBR0048979) of de [Regeling vierjarige subsidies literair-educatieve organisaties 2025–2028](https://wetten.overheid.nl/jci1.3:c:BWBR0048974) komt niet in aanmerking voor een subsidie op grond van deze regeling ten aanzien van projecten die plaatsvinden in de kalenderjaren 2025 en 2026. Wel kan de subsidieontvanger ten aanzien van projecten die plaatsvinden in 2027 en 2028 subsidie aanvragen op grond van deze regeling voor een bedrag van maximaal € 20.000,– per jaar en uitsluitend indien het project waarvoor subsidie wordt aangevraagd duidelijk is afgebakend van de activiteiten die naar het oordeel van het bestuur reeds worden gesubsidieerd op grond van de Regeling vierjarige subsidies literaire organisaties Nederlands Letterenfonds 2025–2028 of de Regeling vierjarige subsidies literair-educatieve organisaties 2025-2028.
 
 ##### Artikel 5. Beoordelingscriteria
 
@@ -166,7 +166,7 @@ Het Letterenfonds beoogt met verlening van een subsidie voor een project op gron
 
 1. Aanvragen die in aanmerking komen voor een inhoudelijke beoordeling worden voor advies voorgelegd aan de adviescommissie.
 
-2. De adviescommissie beoordeelt de aanvragen op basis van de beoordelingscriteria genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0044755&paragraaf=1&artikel=5&z=2021-01-15&g=2021-01-15) en adviseert over al dan niet toewijzing van de aanvragen.
+2. De adviescommissie beoordeelt de aanvragen op basis van de beoordelingscriteria genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0044755&paragraaf=1&artikel=5&z=2024-12-31&g=2024-12-31) en adviseert over al dan niet toewijzing van de aanvragen.
 
 ##### Artikel 7. Hoogte subsidiebedrag en subsidieplafond
 
