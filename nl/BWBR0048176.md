@@ -4,7 +4,7 @@ identifier: "BWBR0048176"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-28"
-last_updated: "2023-05-23"
+last_updated: "2024-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048176"
 soort: "ministeriele-regeling"
@@ -104,9 +104,13 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 - e. voor het opzetten of intensiveren van een samenwerking met het hoger beroepsonderwijs ten behoeve van het opbouwen en onderwijzen van een of meerdere concept-examenprogramma’s.
 
+3. In afwijking van het eerste lid heeft de toestemming van de Minister om deel te nemen aan de pilot met de praktijkroute havo-Educatie, uitsluitend betrekking op de schooljaren 2023/2024 en 2024/2025.
+
+4. In afwijking van het tweede lid kan de Minister voor de praktijkroute havo-Educatie uitsluitend subsidie verstrekken in de kalenderjaren 2023 en 2024.
+
 ##### Artikel 4. Aanvraag subsidie
 
-1. Een bevoegd gezag kan per vestiging een aanvraag indienen voor de activiteiten, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048176&artikel=3&z=2023-05-23&g=2023-05-23).
+1. Een bevoegd gezag kan per vestiging een aanvraag indienen voor de activiteiten, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048176&artikel=3&z=2024-12-31&g=2024-12-31).
 
 2. Een aanvraag voor de subsidie kan worden ingediend van:
 
@@ -158,9 +162,9 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 ##### Artikel 6. Wijze van verdeling beschikbare middelen
 
-1. Indien de toewijzing van alle daarvoor in aanmerking komende aanvragen voor een subsidie zou leiden tot overschrijding van het subsidieplafond, bedoeld in [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048176&artikel=5&z=2023-05-23&g=2023-05-23), krijgen de aanvragen van de vestigingen van scholen die reeds toestemming hebben gekregen van de minister om vanaf 2022 of 2023 deel te nemen aan het doorontwikkeltraject voorrang.
+1. Indien de toewijzing van alle daarvoor in aanmerking komende aanvragen voor een subsidie zou leiden tot overschrijding van het subsidieplafond, bedoeld in [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048176&artikel=5&z=2024-12-31&g=2024-12-31), krijgen de aanvragen van de vestigingen van scholen die reeds toestemming hebben gekregen van de minister om vanaf 2022 of 2023 deel te nemen aan het doorontwikkeltraject voorrang.
 
-2. Indien de toewijzing van alle daarvoor in aanmerking komende aanvragen voor een subsidie zou leiden tot overschrijding van een subsidieplafond als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048176&artikel=5&z=2023-05-23&g=2023-05-23), worden de aanvragen, in voorkomend geval na toepassing van het eerste lid, door middel van loting gerangschikt. Scholen krijgen volgens de rangschikking subsidie toegekend tot het subsidieplafond is bereikt.
+2. Indien de toewijzing van alle daarvoor in aanmerking komende aanvragen voor een subsidie zou leiden tot overschrijding van een subsidieplafond als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048176&artikel=5&z=2024-12-31&g=2024-12-31), worden de aanvragen, in voorkomend geval na toepassing van het eerste lid, door middel van loting gerangschikt. Scholen krijgen volgens de rangschikking subsidie toegekend tot het subsidieplafond is bereikt.
 
 ##### Artikel 7. Subsidieverplichtingen
 
@@ -170,7 +174,9 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 - b. stelt minimaal twee docenten en op verzoek leerlingen in de gelegenheid om deel te nemen aan de activiteiten die gedurende het doorontwikkeltraject of de pilot met de praktijkroute havo-Educatie in het kader van monitoring en kennisdeling worden georganiseerd.
 
-2. De activiteiten, genoemd in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048176&artikel=3&z=2023-05-23&g=2023-05-23), waarvoor subsidie is verstrekt worden uiterlijk in schooljaar 2027/2028 afgerond.
+2. De activiteiten, genoemd in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048176&artikel=3&z=2024-12-31&g=2024-12-31), waarvoor subsidie is verstrekt worden uiterlijk in schooljaar 2027/2028 afgerond.
+
+3. In afwijking van het eerste lid worden aan de subsidieontvanger die toestemming heeft gekregen om de pilot praktijkroute havo-Educatie aan te bieden de subsidieverplichtingen, bedoeld in het eerste lid, uitsluitend opgelegd tot en met schooljaar 2024/2025.
 
 ##### Artikel 8. Verstrekking, besteding en verantwoording
 
