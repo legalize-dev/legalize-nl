@@ -4,7 +4,7 @@ identifier: "BWBR0049119"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2024-12-31"
-last_updated: "2024-01-01"
+last_updated: "2024-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049119"
 soort: "wet-BES"
@@ -52,8 +52,6 @@ Wijzigt de Belastingwet BES.
 
 Wijzigt de Belastingwet BES.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel III
 
 Wijzigt de Wet inkomstenbelasting BES.
@@ -74,15 +72,15 @@ Wijzigt de Douane- en Accijnswet BES.
 
 1. Deze wet treedt in werking met ingang van 1 januari 2024, met dien verstande dat:
 
-- a. [artikel I, onderdeel Y, subonderdeel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049119&artikel=I&z=2024-01-01&g=2024-01-01), terugwerkt tot en met 1 juli 2012;
+- a. [artikel I, onderdeel Y, subonderdeel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049119&artikel=I&z=2024-12-31&g=2024-12-31), terugwerkt tot en met 1 juli 2012;
 
-- b. [artikel III, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0049119&artikel=III&z=2024-01-01&g=2024-01-01), terugwerkt tot en met 1 januari 2023;
+- b. [artikel III, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0049119&artikel=III&z=2024-12-31&g=2024-12-31), terugwerkt tot en met 1 januari 2023;
 
-- c. [artikel IV, onderdeel D, en artikel V, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0049119&artikel=IV&z=2024-01-01&g=2024-01-01), terugwerken tot en met 1 januari 2011;
+- c. [artikel IV, onderdeel D, en artikel V, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0049119&artikel=IV&z=2024-12-31&g=2024-12-31), terugwerken tot en met 1 januari 2011;
 
-2. In afwijking van het eerste lid treedt [artikel I, onderdeel P](https://wetten.overheid.nl/jci1.3:c:BWBR0049119&artikel=I&z=2024-01-01&g=2024-01-01), in werking met ingang van 31 december 2023 en vindt dat onderdeel voor het eerst toepassing met betrekking tot verslagjaren als bedoeld in [artikel 1.2, eerste lid, van de Wet minimumbelasting 2024](onbekend) die aanvangen op of na 31 december 2023.
+2. In afwijking van het eerste lid treedt [artikel I, onderdeel P](https://wetten.overheid.nl/jci1.3:c:BWBR0049119&artikel=I&z=2024-12-31&g=2024-12-31), in werking met ingang van 31 december 2023 en vindt dat onderdeel voor het eerst toepassing met betrekking tot verslagjaren als bedoeld in [artikel 1.2, eerste lid, van de Wet minimumbelasting 2024](onbekend) die aanvangen op of na 31 december 2023.
 
-3. In afwijking van het eerste lid treedt [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0049119&artikel=II&z=2024-01-01&g=2024-01-01) in werking met ingang van 31 december 2024 en vindt dat artikel voor het eerst toepassing met betrekking tot verslagjaren als bedoeld in [artikel 1.2, eerste lid, van de Wet minimumbelasting 2024](onbekend) die aanvangen op of na 31 december 2024.
+3. In afwijking van het eerste lid treedt [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0049119&artikel=II&z=2024-12-31&g=2024-12-31) in werking met ingang van 31 december 2024 en vindt dat artikel voor het eerst toepassing met betrekking tot verslagjaren als bedoeld in [artikel 1.2, eerste lid, van de Wet minimumbelasting 2024](onbekend) die aanvangen op of na 31 december 2024.
 
 ##### Artikel VII
 
