@@ -4,7 +4,7 @@ identifier: "BWBR0046566"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-13"
-last_updated: "2024-01-01"
+last_updated: "2024-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046566"
 soort: "ministeriele-regeling"
@@ -42,13 +42,13 @@ Besluit:
 
 ##### Artikel 1
 
-1. Voor de verstrekking van de alliantiesubsidies, bedoeld in [artikel 2.1 van de Subsidieregeling gender- en LHBTI+-gelijkheid 2022–2027](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&artikel=2.1), is voor de kalenderjaren 2023 tot en met 2027 in totaal € 46.714.032,– beschikbaar.
+1. Voor de verstrekking van de alliantiesubsidies, bedoeld in [artikel 2.1 van de Subsidieregeling gender- en LHBTI+-gelijkheid 2022–2027](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&artikel=2.1), is voor de kalenderjaren 2023 tot en met 2027 in totaal € 48.690.186,– beschikbaar.
 
-2. Voor de verstrekking van de archiefsubsidies, bedoeld in [artikel 3.1 van de Subsidieregeling gender- en LHBTI+-gelijkheid 2022–2027](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&artikel=3.1), is voor de kalenderjaren 2023 tot en met 2027 in totaal € 19.286.006,– beschikbaar.
+2. Voor de verstrekking van de archiefsubsidies, bedoeld in [artikel 3.1 van de Subsidieregeling gender- en LHBTI+-gelijkheid 2022–2027](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&artikel=3.1), is voor de kalenderjaren 2023 tot en met 2027 in totaal € 20.101.866,44 beschikbaar.
 
 ##### Artikel 2
 
-Indien de toewijzing van alle daarvoor in aanmerking komende aanvragen voor subsidie als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&artikel=2.1) en [artikel 3.1 van de Subsidieregeling gender- en LHBTI+-gelijkheid 2022–2027](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&artikel=3.1) zou leiden tot een overschrijding van het subsidieplafond, verdeelt de Minister het beschikbare bedrag, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046566&artikel=1&z=2023-09-30&g=2024-01-01), naar evenredigheid over de toe te wijzen subsidieaanvragen.
+Indien de toewijzing van alle daarvoor in aanmerking komende aanvragen voor subsidie als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&artikel=2.1) en [artikel 3.1 van de Subsidieregeling gender- en LHBTI+-gelijkheid 2022–2027](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&artikel=3.1) zou leiden tot een overschrijding van het subsidieplafond, verdeelt de Minister het beschikbare bedrag, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046566&artikel=1&z=2024-12-31&g=2024-12-31), naar evenredigheid over de toe te wijzen subsidieaanvragen.
 
 ##### Artikel 3
 
