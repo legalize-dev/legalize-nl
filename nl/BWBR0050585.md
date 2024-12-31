@@ -4,7 +4,7 @@ identifier: "BWBR0050585"
 country: "nl"
 rank: "wet"
 publication_date: "2024-12-31"
-last_updated: "2023-12-31"
+last_updated: "2024-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050585"
 soort: "wet"
@@ -44,11 +44,15 @@ Wijzigt de Wet minimumbelasting 2024.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet treedt in werking met ingang van 31 december 2024, met dien verstande dat:
+
+- a. [artikel I, onderdelen A, B, C, D, onder 1 en 3, E, F, G, H, I, K, onder 1 tot en met 4 en onder 6, L, N, O, P, Q, R, S, T, Ta, U en V](https://wetten.overheid.nl/jci1.3:c:BWBR0050585&artikel=I&z=2024-12-31&g=2024-12-31), terugwerkt tot en met 31 december 2023 en voor het eerst toepassing vindt met betrekking tot verslagjaren die aanvangen op of na 31 december 2023;
+
+- b. [artikel I, onderdeel D, onder 2, onderdeel J, onderdeel K, onder 5, en onderdeel M](https://wetten.overheid.nl/jci1.3:c:BWBR0050585&artikel=I&z=2024-12-31&g=2024-12-31), voor het eerst toepassing vindt met betrekking tot verslagjaren die aanvangen op of na 31 december 2024.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Wet aanpassing Wet minimumbelasting 2024.
 
 Allen, die deze zullen zien of horen lezen, saluut! Doen te weten:
 
