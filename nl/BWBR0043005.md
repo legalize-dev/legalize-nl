@@ -4,7 +4,7 @@ identifier: "BWBR0043005"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-12-31"
-last_updated: "2020-01-01"
+last_updated: "2024-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043005"
 soort: "zbo"
@@ -54,21 +54,21 @@ Deze beleidsregel heeft betrekking op:
 
 ##### Artikel 2. Aanvullende vergoeding
 
-1. Aan een rechtsbijstandverlener of een mediator wordt op aanvraag een subsidie verstrekt van € 10,88 (exclusief omzetbelasting) vermenigvuldigd met het aantal punten, toegekend krachtens het [Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018) of het [Besluit toevoeging mediation](https://wetten.overheid.nl/jci1.3:c:BWBR0025830), voor verleende rechtsbijstand of verrichte mediation als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043005&artikel=1&z=2020-01-01&g=2020-01-01). De subsidie omvat daarnaast de omzetbelasting die is verschuldigd over het in de eerste volzin bedoelde bedrag.
+1. Aan een rechtsbijstandverlener of een mediator wordt op aanvraag een subsidie verstrekt van € 10,88 (exclusief omzetbelasting) vermenigvuldigd met het aantal punten, toegekend krachtens het [Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018) of het [Besluit toevoeging mediation](https://wetten.overheid.nl/jci1.3:c:BWBR0025830), voor verleende rechtsbijstand of verrichte mediation als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043005&artikel=1&z=2024-12-31&g=2024-12-31). De subsidie omvat daarnaast de omzetbelasting die is verschuldigd over het in de eerste volzin bedoelde bedrag.
 
 2. Het eerste lid is niet van toepassing op de punten, toegekend op grond van de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=13) en [22 van het Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=22) of [artikel 8, vijfde lid, van het Besluit toevoeging mediation](https://wetten.overheid.nl/jci1.3:c:BWBR0025830&artikel=8).
 
 ##### Artikel 3. Vergoedingsplafond
 
-De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043005&artikel=2&z=2020-01-01&g=2020-01-01) bedoelde subsidie wordt verstrekt tot een maximum van 1.500 punten die een rechtsbijstandverlener of een mediator op grond van in het betreffende jaar afgegeven toevoegingen of verleende rechtsbijstand in piketzaken, anders dan krachtens de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=13) en [22 van het Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=22) en [artikel 8, vijfde lid, van het Besluit toevoeging mediation](https://wetten.overheid.nl/jci1.3:c:BWBR0025830&artikel=8), toegekend krijgt.
+Vervallen
 
 ##### Artikel 4. Aanvraag
 
-De aanvraag als bedoeld in [artikel 28, eerste lid, van het Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=28) en [artikel 10 van het Besluit toevoeging mediation](https://wetten.overheid.nl/jci1.3:c:BWBR0025830&artikel=10) tot vaststelling van de vergoeding voor verrichte werkzaamheden geldt tevens als een aanvraag tot het verlenen van een subsidie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043005&artikel=2&z=2020-01-01&g=2020-01-01).
+De aanvraag als bedoeld in [artikel 28, eerste lid, van het Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=28) en [artikel 10 van het Besluit toevoeging mediation](https://wetten.overheid.nl/jci1.3:c:BWBR0025830&artikel=10) tot vaststelling van de vergoeding voor verrichte werkzaamheden geldt tevens als een aanvraag tot het verlenen van een subsidie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043005&artikel=2&z=2024-12-31&g=2024-12-31).
 
 ##### Artikel 5. Uitbetaling
 
-De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043005&artikel=2&z=2020-01-01&g=2020-01-01) bedoelde subsidie wordt bij wijze van voorschot uitbetaald. De uitbetaling vindt zoveel mogelijk gelijktijdig plaats met de vergoeding die de rechtsbijstandverlener of mediator toegekend krijgt krachtens het [Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018) of het [Besluit toevoeging mediation](https://wetten.overheid.nl/jci1.3:c:BWBR0025830), voor verleende rechtsbijstand of verrichte mediation.
+De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043005&artikel=2&z=2024-12-31&g=2024-12-31) bedoelde subsidie wordt bij wijze van voorschot uitbetaald. De uitbetaling vindt zoveel mogelijk gelijktijdig plaats met de vergoeding die de rechtsbijstandverlener of mediator toegekend krijgt krachtens het [Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018) of het [Besluit toevoeging mediation](https://wetten.overheid.nl/jci1.3:c:BWBR0025830), voor verleende rechtsbijstand of verrichte mediation.
 
 ##### Artikel 6. Vaststelling
 
