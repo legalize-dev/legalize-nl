@@ -4,7 +4,7 @@ identifier: "BWBR0022812"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2018-02-06"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022812"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ Treedt in werking op het tijdstip waarop het Wijzigingsbesluit Besluit kerninsta
 
 In deze regeling wordt verstaan onder:
 
-- Minister: Minister van Infrastructuur en Milieu;
+- Minister: Minister van Infrastructuur en Waterstaat;
 
 - vergunninghouder: houder van een vergunning als bedoeld in [artikel 15, onder b, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15).
 
@@ -56,45 +56,19 @@ In deze regeling wordt verstaan onder:
 
 1. Het in [artikel 21, eerste lid, van het Besluit kerninstallaties, splijtstoffen en ertsen](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&artikel=21) gestelde verbod geldt mede voor gebruik in een inrichting als bedoeld in [artikel 15, onder b, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15), van door de Minister aangewezen niet speciaal voor nucleair gebruik in een dergelijke inrichting ontworpen drukapparatuur die bij defecten de verspreiding van radioactiviteit kan veroorzaken.
 
-2. Ten aanzien van de in het eerste lid bedoelde drukapparatuur zijn de [artikelen 3 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=1&artikel=3&z=2018-02-06&g=2018-02-06), met uitzondering van de [artikelen, 4, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=2&artikel=4&z=2018-02-06&g=2018-02-06), en [9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=2&artikel=9&z=2018-02-06&g=2018-02-06), van overeenkomstige toepassing.
+2. Ten aanzien van de in het eerste lid bedoelde drukapparatuur is artikel 21, tweede, derde en vierde lid, aanhef en onderdeel a, onder 3°, en onderdeel b, vijfde lid en zevende en achtste lid, van het [Besluit kerninstallaties splijtstoffen en ertsen](https://wetten.overheid.nl/jci1.3:c:BWBR0002667) van overeenkomstige toepassing.
 
-3. Deze regeling is niet van toepassing op drukapparatuur waarop de [Regeling vervoerbare drukapparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0011832) van toepassing is.
+3. Deze regeling is niet van toepassing op drukapparatuur waarop de [Regeling vervoerbare drukapparatuur 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0030099) van toepassing is.
 
 ##### Artikel 3
 
-1. De vergunninghouder houdt met betrekking tot nucleaire drukapparatuur die in zijn inrichting wordt of is geïnstalleerd een administratie bij, waarin worden vermeld, onderscheidenlijk opgenomen:
+Deze regeling treedt in werking op het tijdstip waarop het besluit van 17 oktober 2007 tot wijziging van het Besluit kerninstallaties, splijtstoffen en ertsen en het Warenwetbesluit drukapparatuur (nucleaire drukapparatuur) (Stb. nr. 428 ) in werking treedt.
 
-- a. naam en adres van de vergunninghouder;
-
-- b. naam en adres van de inrichting en de plaats in de inrichting, waar die apparatuur wordt of is geïnstalleerd;
-
-- c. de relevante documentatie met betrekking tot die apparatuur;
-
-- d. de met betrekking tot die apparatuur van toepassing zijnde ontwerpcode en inspectiecode;
-
-- e. een overzicht van de keuringen die overeenkomstig de van toepassing zijnde ontwerp- of inspectiecode aan de apparatuur of onderdelen daarvan zijn verricht, en van de resultaten van dat onderzoek;
-
-- f. de ingevolge deze regeling verkregen verklaringen en andere documentatie met betrekking tot de ingevolge deze regeling te verrichten en verrichte keuringen;
-
-- g. een overzicht van het onderhoud dat aan de apparatuur is verricht.
-
-2. Afwijkingen van de ontwerp- of inspectiecode, alsmede het in de inspectiecode voorgeschreven keuringsprogramma dat door de vergunninghouder wordt opgesteld, behoeven, na beoordeling door de keuringsinstelling, de instemming van de Autoriteit.
-
-3. De vergunninghouder stelt de in de administratie opgenomen gegevens en stukken gedurende iedere keuring van de nucleaire drukapparatuur ter beschikking van degene die de keuring verricht.
-
-### Hoofdstuk 2. Keuring van nucleaire drukapparatuur
+### Hoofdstuk 2. Slotbepalingen
 
 ##### Artikel 4
 
-1. De vergunninghouder laat voor de ingebruikneming van nucleaire drukapparatuur in de inrichting verrichten:
-
-- a. een beoordeling van het ontwerp van de nucleaire drukapparatuur;
-
-- b. een keuring van de fabricage van de nucleaire drukapparatuur;
-
-- c. een keuring voor de ingebruikneming van de nucleaire drukapparatuur.
-
-2. De vergunninghouder laat nucleaire drukapparatuur gedurende het gebruik keuren overeenkomstig het in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=1&artikel=3&z=2018-02-06&g=2018-02-06), bedoelde keuringsprogramma waarmee de Autoriteit heeft ingestemd.
+Deze regeling wordt aangehaald als: Regeling nucleaire drukapparatuur.
 
 ##### Artikel 5
 
@@ -227,5 +201,7 @@ Deze regeling berust mede op [artikel 19 van het Besluit kerninstallaties, splij
 ### Hoofdstuk 3. Keuringsinstellingen
 
 ### Hoofdstuk 4. Slotbepalingen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
