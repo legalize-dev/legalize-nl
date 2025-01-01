@@ -4,7 +4,7 @@ identifier: "BWBR0042534"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-28"
-last_updated: "2023-11-28"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042534"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **minister:** Minister voor Langdurige Zorg en Sport;
 
-- b. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042534&artikel=2&z=2023-11-28&g=2023-11-28).
+- b. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042534&artikel=2&z=2025-01-01&g=2025-01-01).
 
 ##### Artikel 2. Instelling en taak
 
@@ -76,47 +76,61 @@ In dit besluit wordt verstaan onder:
 
 - f. het organiseren of doen organiseren van bijeenkomsten; en
 
-- g. het deelnemen in en mede vormgeven aan discussie, opinievorming en beleidsbepaling op het gebied van de laagvolume hoogcomplexe langdurige zorg.
+- g. het deelnemen in en mede vormgeven aan discussie, opinievorming en beleidsbepaling op het gebied van de laagvolume hoogcomplexe langdurige zorg;
+
+- h. het voeren van regie op de structurele verankering van de kwaliteitscriteria laagvolume hoogcomplexe doelgroepnetwerken in een kwaliteitsinstrument en op de borging van de nieuw ontwikkelde infrastructuur binnen het zorgstelsel. Beide dienen per 1 januari 2027 gerealiseerd te zijn.
 
 ##### Artikel 3. Samenstelling, benoeming, ontslag
 
-1. De commissie bestaat uit een voorzitter en ten minste twee en ten hoogste vier andere leden.
+1. De commissie bestaat uit een voorzitter en vier andere leden.
 
-2. De voorzitter en de leden hebben zitting op persoonlijke titel en oefenen hun functie uit zonder last of ruggespraak.
+2. De samenstelling van de commissie is als volgt:
 
-3. De voorzitter en de andere leden worden door de minister benoemd.
+- a. voorzitter;
 
-4. De benoeming geschiedt voor de duur van de commissie.
+- b. vice-voorzitter;
 
-5. Bij tussentijds vertrek van een lid kan de minister op voordracht van de voorzitter onderscheidenlijk de resterende leden een ander lid dan wel een andere voorzitter benoemen.
+- c. portefeuillehouder ouderenzorg;
 
-6. De voorzitter en overige leden kunnen op eigen verzoek of wegens ongeschiktheid, onbekwaamheid of op andere zwaarwegende gronden worden geschorst en ontslagen door de minister.
+- d. portefeuillehouder gehandicaptenzorg;
+
+- e. portefeuillehouder kwaliteit en auditing.
+
+3. De voorzitter en de leden hebben zitting op persoonlijke titel en oefenen hun functie uit zonder last of ruggespraak.
+
+4. De voorzitter en de andere leden worden door de minister benoemd.
+
+5. De benoeming geschiedt voor de duur van de commissie.
+
+6. Bij tussentijds vertrek van een lid kan de minister op voordracht van de voorzitter onderscheidenlijk de resterende leden een ander lid dan wel een andere voorzitter benoemen.
+
+7. De voorzitter en overige leden kunnen op eigen verzoek of wegens ongeschiktheid, onbekwaamheid of op andere zwaarwegende gronden worden geschorst en ontslagen door de minister.
 
 ##### Artikel 4. Instelling
 
-De commissie wordt ingesteld met ingang van 1 oktober 2019 en wordt opgeheven met ingang van 1 januari 2025.
+De commissie wordt ingesteld met ingang van 1 oktober 2019 en wordt opgeheven met ingang van 1 januari 2027.
 
 ##### Artikel 5. Leden
 
-1. Met ingang van 1 augustus 2023 wordt voor de periode van 1 augustus 2023 tot 1 januari 2025 mevrouw M.H.A. Braks, te Nijmegen, tot lid en tevens voorzitter van de commissie benoemd.
+Met ingang van 1 januari 2025 worden tot lid van de commissie benoemd:
 
-2. Met ingang van 15 oktober 2022 worden voor de periode van 15 oktober 2022 tot 1 januari 2025 tot lid van de commissie benoemd:
+- a. Mevrouw M.H.A. Braks, te Nijmegen, tevens voorzitter;
 
-- a. Mevrouw D.A.M. Maes-Festen, te Rotterdam;
+- b. De heer R.J.W. de Bruijn, te Zoetermeer, tevens vice-voorzitter;
 
-- b. De heer R.T.C.M. Koopmans, te Malden;
+- c. De heer R.T.C.M. Koopmans, te Malden, tevens portefeuillehouder ouderenzorg;
 
-- c. De heer M.B.V. Rouppe van der Voort, te Houten.
+- d. Mevrouw D.A.M. Maes-Festen, te Rotterdam, tevens portefeuillehouder gehandicaptenzorg; en
 
-3. Met ingang van 1 augustus 2023 wordt voor de periode van 1 augustus 2023 tot 1 januari 2025 de heer R.J.W. de Bruijn, te Zoetermeer, tot lid van de commissie benoemd.
+- e. De heer M.B.V. Rouppe van der Voort, te Houten, tevens portefeuillehouder kwaliteit en auditing.
 
-##### Artikel 6. Secretariaat
+##### Artikel 6. Programmabureau
 
-1. De commissie wordt ondersteund door een secretariaat.
+1. De commissie wordt ondersteund door een programmabureau.
 
-2. Het secretariaat is voor de inhoudelijke uitvoering van zijn taak verantwoording schuldig aan de voorzitter van de commissie.
+2. Het programmabureau is voor de inhoudelijke uitvoering van zijn taak verantwoording schuldig aan de voorzitter van de commissie.
 
-3. In het secretariaat wordt voorzien door de minister.
+3. In het programmabureau wordt voorzien door de minister.
 
 ##### Artikel 7. Werkwijze
 
@@ -132,9 +146,15 @@ De commissie wordt ingesteld met ingang van 1 oktober 2019 en wordt opgeheven me
 
 ##### Artikel 9. Vergoeding
 
-1. Aan de voorzitter wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18 van CAO Rijk en de arbeidsduurfactor op 9/36.
+1. Aan de voorzitter wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18 zoals vastgelegd in de CAO Rijk en de arbeidsduurfactor op 6/36.
 
-2. Aan de andere leden wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18 van CAO Rijk en de arbeidsduurfactor op 3/36.
+2. Aan de vice-voorzitter wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18 zoals vastgelegd in de CAO Rijk en de arbeidsduurfactor op 5/36.
+
+3. Aan de portefeuillehouder ouderenzorg wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18 zoals vastgelegd in de CAO Rijk en de arbeidsduurfactor op 4/36.
+
+4. Aan de portefeuillehouder gehandicaptenzorg wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18 zoals vastgelegd in de CAO Rijk en de arbeidsduurfactor op 3/36.
+
+5. Aan portefeuillehouder kwaliteit en auditing wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18 zoals vastgelegd in de CAO Rijk en de arbeidsduurfactor op 3/36.
 
 ##### Artikel 10. Kosten van de commissie
 
@@ -148,7 +168,7 @@ De commissie wordt ingesteld met ingang van 1 oktober 2019 en wordt opgeheven me
 
 ##### Artikel 11. Verantwoording
 
-De commissie biedt de minister bij voorkeur vóór 1 december 2024, doch uiterlijk voor 31 december 2024 een eindverslag aan waarin verslag wordt gedaan over de activiteiten van de periode waarin de commissie werkzaam is geweest.
+De commissie biedt de minister bij voorkeur vóór 1 december 2026, doch uiterlijk 31 december 2026 een eindverslag aan waarin verslag wordt gedaan over de activiteiten van de periode waarin de commissie werkzaam is geweest.
 
 ##### Artikel 12. Archiefbescheiden
 
@@ -158,7 +178,7 @@ De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden o
 
 1. Dit besluit treedt in werking met ingang van 1 oktober 2019.
 
-2. Dit besluit vervalt met ingang van 1 januari 2025.
+2. Dit besluit vervalt met ingang van 1 januari 2027.
 
 ##### Artikel 14. Citeertitel
 
