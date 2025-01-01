@@ -4,7 +4,7 @@ identifier: "BWBV0001210"
 country: "nl"
 rank: "verdrag"
 publication_date: "2025-03-25"
-last_updated: "2019-07-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001210"
 soort: "verdrag"
@@ -71,9 +71,9 @@ Doel van dit Verdrag is het heffen van een gemeenschappelijk gebruiksrecht door 
 
 ##### Artikel 4. Uitzonderingen van de verplichting tot het betalen van het gebruiksrecht (vrijstellingen)
 
-1. Militaire voertuigen, voertuigen van de burgerbescherming, de brandweer en andere diensten voor eerstehulpverlening, alsook voertuigen voor de ordehandhaving en voertuigen voor de aanleg en het onderhoud van de wegen zijn vrijgesteld van het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001210&artikel=3&z=2019-07-01&g=2019-07-01) bedoelde gebruiksrecht.
+1. Militaire voertuigen, voertuigen van de burgerbescherming, de brandweer en andere diensten voor eerstehulpverlening, alsook voertuigen voor de ordehandhaving en voertuigen voor de aanleg en het onderhoud van de wegen zijn vrijgesteld van het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001210&artikel=3&z=2025-01-01&g=2025-01-01) bedoelde gebruiksrecht.
 
-2. Elk der Verdragsluitende Partijen kan binnen haar grondgebied voertuigen als bedoeld in artikel 6, tweede lid, onder b, van de richtlijn vrijstellen van het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001210&artikel=3&z=2019-07-01&g=2019-07-01) bedoelde gebruiksrecht.
+2. Elk der Verdragsluitende Partijen kan binnen haar grondgebied voertuigen als bedoeld in artikel 6, tweede lid, onder b, van de richtlijn vrijstellen van het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001210&artikel=3&z=2025-01-01&g=2025-01-01) bedoelde gebruiksrecht.
 
 3. Een voorwaarde voor vrijstelling van het in het eerste lid bedoelde gebruiksrecht is dat de voertuigen aan de buitenkant herkenbaar zijn als bestemd voor de in dat lid genoemde doeleinden. In het geval van het tweede lid delen de Verdragsluitende Partijen elkaar alsmede de Europese Commissie mede voor welke voertuigen zij vrijstelling van het gebruiksrecht verlenen.
 
@@ -323,13 +323,11 @@ Deze Verdragsluitende Partijen controleren gezamenlijk de opgestelde mededelinge
 
 De aldus vastgestelde inkomsten uit het gebruiksrecht worden als volgt onder de verdragsluitende partijen verdeeld:
 
-- –. Het Koninkrijk Denemarken ontvangt 20,456 % van de inkomsten.
+- –. Het Groothertogdom Luxemburg ontvangt 6,570 % van de inkomsten.
 
-- –. Het Groothertogdom Luxemburg ontvangt 5,226 % van de inkomsten.
+- –. Het Koninkrijk der Nederlanden ontvangt 57,816 % van de inkomsten.
 
-- –. Het Koninkrijk der Nederlanden ontvangt 45,989 % van de inkomsten.
-
-- –. Het Koninkrijk Zweden ontvangt 28,329 % van de inkomsten.
+- –. Het Koninkrijk Zweden ontvangt 35,614 % van de inkomsten.
 
 Bij unaniem besluit van de Verdragsluitende Partijen kunnen deze percentages worden veranderd op basis van statistische gegevens waaruit blijkt in hoeverre de desbetreffende vervoersondernemingen gebruik hebben gemaakt van de infrastructuur van iedere Verdragsluitende Partij die het gemeenschappelijk stelsel van gebruiksrechten toepast. In dat geval verstrekken de Verdragsluitende Partijen elkaar hiertoe de vereiste statistische gegevens.
 
