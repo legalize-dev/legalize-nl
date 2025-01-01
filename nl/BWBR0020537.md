@@ -4,7 +4,7 @@ identifier: "BWBR0020537"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-25"
-last_updated: "2022-07-08"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020537"
 soort: "ministeriele-regeling"
@@ -214,25 +214,23 @@ Vervallen
 
 ##### Artikel 15
 
-De beroepsaansprakelijkheidsverzekering of de daarmee vergelijkbare voorziening, bedoeld in de [artikelen 4:75, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:75), en [4:76, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:76) dekt ten minste
-
-de bedragen zoals genoemd in artikel 4, tiende lid, van de richtlijn verzekeringsdistributie zoals laatstelijk gewijzigd bij gedelegeerde [verordening 2019/1935](31935R2019) van de Commissie van 13 mei 2019 tot wijziging van Richtlijn (EU) 2016/97 van het Europees Parlement en de Raad wat betreft technische reguleringsnormen voor het aanpassen van de basisbedragen in euro voor de beroepsaansprakelijkheidsverzekering en de financiële draagkracht van verzekerings- en herverzekeringstussenpersonen (PbEU 2019, L 301).
+Vervallen
 
 ### Hoofdstuk 6. Dekking beroepsaansprakelijkheidsverzekering en vergelijkbare voorziening
 
 ##### Artikel 16
 
-Het model van de volmacht, bedoeld in [artikel 4:79, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:79), wordt vastgesteld conform [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&bijlage=A&z=2022-07-08&g=2022-07-08).
+Het model van de volmacht, bedoeld in [artikel 4:79, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:79), wordt vastgesteld conform [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&bijlage=A&z=2025-01-01&g=2025-01-01).
 
 ##### Artikel 17
 
-Het model van de ondervolmacht, bedoeld in [artikel 4:79, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:79), wordt vastgesteld conform [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&bijlage=B&z=2022-07-08&g=2022-07-08).
+Het model van de ondervolmacht, bedoeld in [artikel 4:79, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:79), wordt vastgesteld conform [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&bijlage=B&z=2025-01-01&g=2025-01-01).
 
 ##### Artikel 18
 
-1. Een volmacht of ondervolmacht, opgemaakt voor 1 januari 2006 overeenkomstig het voorafgaand aan die datum voorgeschreven model ingevolge de [Wet assurantiebemiddelingsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0004993), wordt geacht te zijn opgemaakt overeenkomstig het model, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=16&z=2022-07-08&g=2022-07-08) onderscheidenlijk [17](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=17&z=2022-07-08&g=2022-07-08).
+1. Een volmacht of ondervolmacht, opgemaakt voor 1 januari 2006 overeenkomstig het voorafgaand aan die datum voorgeschreven model ingevolge de [Wet assurantiebemiddelingsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0004993), wordt geacht te zijn opgemaakt overeenkomstig het model, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=16&z=2025-01-01&g=2025-01-01) onderscheidenlijk [17](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=17&z=2025-01-01&g=2025-01-01).
 
-2. Een volmacht of ondervolmacht, opgemaakt tussen 1 januari 2006 en 1 januari 2007 overeenkomstig het voorafgaand aan laatstgenoemde datum voorgeschreven model ingevolge het [Besluit financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0019283), wordt geacht te zijn opgemaakt overeenkomstig het model, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=16&z=2022-07-08&g=2022-07-08) onderscheidenlijk [17](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=17&z=2022-07-08&g=2022-07-08).
+2. Een volmacht of ondervolmacht, opgemaakt tussen 1 januari 2006 en 1 januari 2007 overeenkomstig het voorafgaand aan laatstgenoemde datum voorgeschreven model ingevolge het [Besluit financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0019283), wordt geacht te zijn opgemaakt overeenkomstig het model, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=16&z=2025-01-01&g=2025-01-01) onderscheidenlijk [17](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=17&z=2025-01-01&g=2025-01-01).
 
 ### Hoofdstuk 8. Houder van een gereglementeerde markt
 
@@ -306,7 +304,7 @@ De ondergetekende1Achter ‘De ondergetekende’ wordt de naam en, indien van to
 
 als bedoeld in [artikel 4:79, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:79).
 
-## Bijlage A. behorend bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=16&z=2022-07-08&g=2022-07-08)
+## Bijlage A. behorend bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=16&z=2025-01-01&g=2025-01-01)
 
 ### **Volmacht**
 
@@ -326,7 +324,7 @@ Deze volmacht houdt, behoudens via een ondervolmacht opgemaakt overeenkomstig [b
 
 …..2Handtekening van de ondertekenaar, met vermelding van de datum van ondertekening.
 
-Deze volmacht houdt, behoudens via een ondervolmacht opgemaakt overeenkomstig [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&bijlage=B&z=2022-07-08&g=2022-07-08) bij de Uitvoeringsregeling Wft, niet in de bevoegdheid van de gevolmachtigde om aan derden ondervolmacht te verlenen.
+Deze volmacht houdt, behoudens via een ondervolmacht opgemaakt overeenkomstig [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&bijlage=B&z=2025-01-01&g=2025-01-01) bij de Uitvoeringsregeling Wft, niet in de bevoegdheid van de gevolmachtigde om aan derden ondervolmacht te verlenen.
 
 ### **Paragraaf III**
 
@@ -602,7 +600,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 12. Slotbepalingen
 
-## Bijlage B. behorend bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=17&z=2022-07-08&g=2022-07-08)
+## Bijlage B. behorend bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=17&z=2025-01-01&g=2025-01-01)
 
 ### **Paragraaf IV**
 
