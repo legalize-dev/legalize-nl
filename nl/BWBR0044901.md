@@ -4,7 +4,7 @@ identifier: "BWBR0044901"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2021-07-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044901"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 ##### Artikel 1. Vergoeding van werkgeverslasten
 
-De vergoeding voor werkgeverslasten, bedoeld in [artikel 10d, vierde en vijfde lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10d), bedraagt 23,5 procent van de loonkosten waarover loonkostensubsidie wordt verstrekt.
+De vergoeding voor werkgeverslasten, bedoeld in [artikel 10d, vierde en vijfde lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10d), bedraagt 25 procent van de loonkosten waarover loonkostensubsidie wordt verstrekt.
 
 #### § 2. Regels met betrekking tot de loonwaarde
 
@@ -80,7 +80,156 @@ Deze regeling wordt aangehaald als: Regeling loonkostensubsidie Participatiewet 
 
 Deze regeling treedt in werking op 1 juli 2021.
 
-## Bijlage. als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044901&paragraaf=2&artikel=2&z=2021-07-01&g=2021-07-01) bij de Regeling loonkostensubsidie Participatiewet 2021
+## Bijlage. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044901&paragraaf=2&artikel=2&z=2025-01-01&g=2025-01-01) van de Regeling loonkostensubsidie Participatiewet 2021
+
+Rapport loonwaardebepaling in het kader van een aanvraag loonkostensubsidie of loondispensatie.
+
+Datum rapportage: ...............
+
+Datum werkplekobservatie: ...............
+
+Datum gesprek werknemer: ...............
+
+Datum gesprek werkgever: ...............
+
+Werknemer: ...............
+
+Werkgever: ...............
+
+Gesproken met: ...............
+
+Normfunctie: ...............
+
+Functie werknemer: ...............
+
+Contracturen werknemer: ...............
+
+Voltijdsuren: ...............
+
+Uitkomst loonwaardebepaling: loonwaarde in %
+
+Kader: loonkostensubsidie/loondispensatie/overige, namelijk..
+
+- •. Gesprek met de werkgever. Welke actie wordt ingezet om het gesprek alsnog te verrichten?
+
+- •. Gesprek met de werknemer. Welke actie wordt ingezet om het gesprek alsnog te verrichten?
+
+- •. Observatie van de werkplek. Welke actie wordt ondernomen om de observatie alsnog te verrichten?
+
+Toelichting onderzoeksactiviteiten (optioneel)
+
+...............
+
+...............
+
+...............
+
+Bron van de gevonden normfunctie:
+
+- –. Cao: ...............
+
+- –. Functiehandboek: ...............
+
+- –. Bedrijfsregeling: ...............
+
+Verklaring voor gekozen normfunctie: ...............
+
+| Hoofdtaken Tijd/% | Tempo | Kwaliteit | Netto Werktijd Resultaat |
+| --- | --- | --- | --- |
+| 1 |   |   |   |
+| 2 |   |   |   |
+| 3 |   |   |   |
+| 4 |   |   |   |
+
+Het loonwaardepercentage is .. %
+
+**Kwaliteit %**
+
+Toelichting: ...............
+
+**Netto werktijd %**
+
+Toelichting: ...............
+
+**Kwaliteit %**
+
+Toelichting: ...............
+
+**Netto werktijd %**
+
+Toelichting: ...............
+
+**Kwaliteit %**
+
+Toelichting: ...............
+
+**Netto werktijd %**
+
+Toelichting: ...............
+
+**Kwaliteit %**
+
+Toelichting: ...............
+
+**Netto werktijd %**
+
+Toelichting: ...............
+
+**Kwaliteit %**
+
+Toelichting: ...............
+
+**Netto werktijd %**
+
+Toelichting: ...............
+
+Welke randvoorwaarden heeft de werkgever gecreëerd om tot deze loonwaarde te komen?
+
+- ○. Er zijn geen randvoorwaarden gecreëerd om tot deze loonwaarde te komen.
+
+- ○. Er zijn wel randvoorwaarden gecreëerd om tot deze loonwaarde te komen, namelijk:
+
+- ○. Extra begeleiding gegeven
+
+- ○. De werkplek aangepast
+
+- ○. Het werk of de planning aangepast
+
+- ○. Voorziening ingezet
+
+- ○. Anders:
+
+Toelichting: ...............
+
+...............
+
+Ik verwacht een wijziging van het loonwaardepercentage over:
+
+- ○. 6 maanden
+
+- ○. 1 jaar
+
+- ○. 2 jaar
+
+- ○. ik verwacht geen wijziging van het loonwaardepercentage
+
+Toelichting: ...............
+
+...............
+
+De uitkomst van de loonwaardebepaling en het advies herbeoordeling heb ik op
+
+**<<datum>>**besproken met de werkgever. Deze kan zich **vinden/niet vinden**in de terugkoppeling.
+
+Toelichting:
+
+De uitkomst van de loonwaardebepaling en het advies herbeoordeling heb ik op
+
+**<<datum>>**besproken met de werknemer. Deze kan zich **vinden/niet vinden**in terugkoppeling.
+
+**Naam loonwaardedeskundige**
+
+**Naam bedrijf**
 
 ### Rapport Loonwaardemeting LKS
 
@@ -207,5 +356,7 @@ Toelichting:
 Zienswijze werkgever:
 
 Toelichting:
+
+Deze regeling zal met toelichting en de bijlage in de Staatscourant worden geplaatst.
 
 Deze regeling zal met toelichting en de bijlage in de Staatscourant worden geplaatst.
