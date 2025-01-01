@@ -4,7 +4,7 @@ identifier: "BWBR0012056"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2019-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012056"
 soort: "ministeriele-regeling"
@@ -99,5 +99,21 @@ Deze regeling treedt in werking met ingang van 1 januari 2001.
 ##### Artikel 5
 
 Deze regeling wordt aangehaald als: Meldingsregeling milieu-investeringsaftrek 2001.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 3b
+
+1. De verklaring van de Minister van Infrastructuur en Waterstaat, bedoeld in [artikel 3.42a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a), vermeldt in welke aangewezen bedrijfsmiddelen of onderdelen is geïnvesteerd alsmede het bedrag van de investering.
+
+2. Het verzoek om een verklaring als bedoeld in het eerste lid wordt gedaan bij de aanmelding, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012056&artikel=2&z=2025-01-01&g=2025-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012056&artikel=3&z=2025-01-01&g=2025-01-01).
+
+3. De belastingplichtige overlegt ten behoeve van het verstrekken van een verklaring als bedoeld in het eerste lid, indien de Minister van Infrastructuur en Waterstaat daarom verzoekt, vergunningen, certificaten of andere voor de verklaring benodigde informatie.
+
+##### Artikel 3c
+
+1. De Minister van Infrastructuur en Waterstaat kan de in [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0012056&artikel=3b&z=2025-01-01&g=2025-01-01) bedoelde verklaring intrekken op verzoek van de belastingplichtige, dan wel wijzigen of intrekken indien de door of namens de belastingplichtige verstrekte gegevens of bescheiden zodanig onjuist of onvolledig zijn geweest dat op het verzoek een andere beslissing zou zijn genomen indien bij de beoordeling daarvan de juiste of volledige gegevens bekend zouden zijn geweest. Onjuistheid of onvolledigheid van gegevens of bescheiden die de Minister van Infrastructuur en Waterstaat bekend was of redelijkerwijs bekend had kunnen zijn, kunnen geen grond opleveren voor wijziging of intrekking van een verklaring.
+
+2. De bevoegdheid tot het intrekken of wijzigen van een verklaring ingevolge het eerste lid vervalt door verloop van vijf jaren na de dagtekening van de verklaring.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
