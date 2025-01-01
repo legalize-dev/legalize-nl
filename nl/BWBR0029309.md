@@ -4,7 +4,7 @@ identifier: "BWBR0029309"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2025-01-01"
-last_updated: "2024-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029309"
 soort: "ministeriele-regeling-BES"
@@ -136,13 +136,13 @@ Het model en de inhoud van het formulier voor de verklaring tot inklaring, bedoe
 
 ##### Artikel 2.4
 
-1. Het model van het formulier D.V. 1 voor de aangifte van gegevens inzake de douanewaarde is opgenomen in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&bijlage=1&z=2024-01-01&g=2024-01-01).
+1. Het model van het formulier D.V. 1 voor de aangifte van gegevens inzake de douanewaarde is opgenomen in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&bijlage=1&z=2025-01-01&g=2025-01-01).
 
-2. Het model van het formulier voor de aanvullende lijst D.V. 1 – BIS is opgenomen in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&bijlage=2&z=2024-01-01&g=2024-01-01).
+2. Het model van het formulier voor de aanvullende lijst D.V. 1 – BIS is opgenomen in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&bijlage=2&z=2025-01-01&g=2025-01-01).
 
 ##### Artikel 2.5
 
-1. Het model van het formulier enig document is opgenomen in de bij deze regeling behorende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&bijlage=3&z=2024-01-01&g=2024-01-01). Het model bestaat uit een basisset en een bislijst.
+1. Het model van het formulier enig document is opgenomen in de bij deze regeling behorende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&bijlage=3&z=2025-01-01&g=2025-01-01). Het model bestaat uit een basisset en een bislijst.
 
 2. Zowel de basisset als de bislijst bestaat uit vier exemplaren met de navolgende bestemmingen:
 
@@ -154,7 +154,7 @@ Het model en de inhoud van het formulier voor de verklaring tot inklaring, bedoe
 
 - d. exemplaar 0 is bedoeld als extra exemplaar.
 
-3. Een elektronische aangifte bevat de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&bijlage=3&z=2024-01-01&g=2024-01-01) bij deze regeling opgenomen gegevens in gecodeerde of in een andere door de inspecteur vastgestelde vorm, met het oog op de verwerking ervan per computer.
+3. Een elektronische aangifte bevat de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&bijlage=3&z=2025-01-01&g=2025-01-01) bij deze regeling opgenomen gegevens in gecodeerde of in een andere door de inspecteur vastgestelde vorm, met het oog op de verwerking ervan per computer.
 
 4. Het formulier enig document wordt schriftelijk ingediend. De invulling van het formulier geschiedt door middel van doordruk, zodat alleen het eerste exemplaar van zowel de basisset als de bislijst wordt ingevuld.
 
@@ -240,9 +240,9 @@ Bij een aanvraag tot toelating als douane-expediteur worden in ieder geval gegev
 
 5. De kennisgeving wordt gedaan op een door de inspecteur aangewezen elektronische wijze. In bijzondere situaties kan de inspecteur toestaan dat de kennisgeving op andere wijze wordt gedaan.
 
-6. De verplichting tot indiening van een kennisgeving geldt niet voor schepen en luchtvaartuigen die op grond van [artikel 2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.5&artikel=2.14&z=2024-01-01&g=2024-01-01) van de verplichting tot inklaring zijn uitgezonderd, met uitzondering van de pleziervaartuigen en sportvliegtuigen, bedoeld in artikel 2.14, eerste lid, onderdeel b.
+6. De verplichting tot indiening van een kennisgeving geldt niet voor schepen en luchtvaartuigen die op grond van [artikel 2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.5&artikel=2.14&z=2025-01-01&g=2025-01-01) van de verplichting tot inklaring zijn uitgezonderd, met uitzondering van de pleziervaartuigen en sportvliegtuigen, bedoeld in artikel 2.14, eerste lid, onderdeel b.
 
-7. Wanneer ingevolge [artikel 2.64, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.17&artikel=2.64&z=2024-01-01&g=2024-01-01), een verklaring tot inklaring is ingediend voordat de goederen zijn binnengebracht, kan de inspecteur toestaan dat de kennisgeving niet wordt gedaan.
+7. Wanneer ingevolge [artikel 2.64, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.17&artikel=2.64&z=2025-01-01&g=2025-01-01), een verklaring tot inklaring is ingediend voordat de goederen zijn binnengebracht, kan de inspecteur toestaan dat de kennisgeving niet wordt gedaan.
 
 8. Degene die niet voldoet aan de verplichting tot het tijdig indienen van een kennisgeving, maakt zich schuldig aan het plegen van een strafbaar feit.
 
@@ -256,13 +256,13 @@ Bij een aanvraag tot toelating als douane-expediteur worden in ieder geval gegev
 
 13. Indien de omstandigheden daartoe aanleiding geven, kan de inspecteur vorderen dat de inklaring onmiddellijk na aankomst van een schip of van een luchtvaartuig in de haven of op de luchthaven geschiedt. Indien daaraan niet wordt voldaan, wordt het schip of het luchtvaartuig door de ambtenaren bewaakt.
 
-14. Op de verklaring tot inklaring wordt, indien deze in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.2&artikel=2.3&z=2024-01-01&g=2024-01-01) opgenomen gegevens bevat, door de inspecteur een akte tot inklaring afgegeven. De akte van inklaring wordt ondertekend door de gezagvoerder en door de ambtenaar die belast is met de inklaring.
+14. Op de verklaring tot inklaring wordt, indien deze in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.2&artikel=2.3&z=2025-01-01&g=2025-01-01) opgenomen gegevens bevat, door de inspecteur een akte tot inklaring afgegeven. De akte van inklaring wordt ondertekend door de gezagvoerder en door de ambtenaar die belast is met de inklaring.
 
 15. Voor schepen die van ballast zijn voorzien, vervangt de vermelding van die omstandigheid de opgave van de goederen.
 
 ##### Artikel 2.9
 
-1. In plaats van de inklaring op de wijze, bedoeld in [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.5&artikel=2.8&z=2024-01-01&g=2024-01-01), kan de inklaring voor over zee aangebrachte goederen eveneens geschieden door inlevering van een verklaring tot inklaring, met inbegrip van de daarbij behorende vrachtlijsten of goederenmanifesten met de bijbehorende cognossementen, in welk geval in de akte tot inklaring, met een beknopte omschrijving van de aan een exemplaar daarvan te hechten stukken en vermelding van het aantal, daarnaar wordt verwezen.
+1. In plaats van de inklaring op de wijze, bedoeld in [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.5&artikel=2.8&z=2025-01-01&g=2025-01-01), kan de inklaring voor over zee aangebrachte goederen eveneens geschieden door inlevering van een verklaring tot inklaring, met inbegrip van de daarbij behorende vrachtlijsten of goederenmanifesten met de bijbehorende cognossementen, in welk geval in de akte tot inklaring, met een beknopte omschrijving van de aan een exemplaar daarvan te hechten stukken en vermelding van het aantal, daarnaar wordt verwezen.
 
 2. Voor door de lucht aangebrachte goederen wordt de inklaring gedaan door inlevering van een generale verklaring luchtvaart, zoals is voorzien in bijlage IX van het op 7 december 1944 te Chicago tot stand gekomen verdrag inzake de internationale burgerluchtvaart (Stb. 1947, 165), met daarin vervat het manifest van de lading of door inlevering van alleen het manifest van de lading, zoals voorzien bij dat verdrag.
 
@@ -276,7 +276,7 @@ Bij een aanvraag tot toelating als douane-expediteur worden in ieder geval gegev
 
 ##### Artikel 2.10
 
-1. De vrachtlijsten, bedoeld in [artikel 2.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.5&artikel=2.9&z=2024-01-01&g=2024-01-01), vermelden voor elke partij goederen:
+1. De vrachtlijsten, bedoeld in [artikel 2.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.5&artikel=2.9&z=2025-01-01&g=2025-01-01), vermelden voor elke partij goederen:
 
 - a. het volgnummer;
 
@@ -288,7 +288,7 @@ Bij een aanvraag tot toelating als douane-expediteur worden in ieder geval gegev
 
 2. Goederen worden in de vrachtlijsten niet als onbekend of onder een algemene benaming van koopmansgoederen aangegeven, tenzij de gezagvoerder de soort daarvan niet kent en de ladingspapieren geen aanwijzing daarover bevatten. In deze gevallen worden de goederen verzegeld of door de ambtenaren bewaakt. De ladingspapieren worden ten bewijze daarvan desgevraagd aan de inspecteur vertoond.
 
-3. Het eerste en tweede lid zijn van overeenkomstige toepassing op de andere in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.5&artikel=2.9&z=2024-01-01&g=2024-01-01) genoemde bescheiden, met dien verstande dat de onvolledige of onjuiste invulling van die bescheiden niet leidt tot een aanvulling of wijziging daarvan, maar dat deze omstandigheid de inspecteur aanleiding kan geven aanvullende informatie te vragen.
+3. Het eerste en tweede lid zijn van overeenkomstige toepassing op de andere in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.5&artikel=2.9&z=2025-01-01&g=2025-01-01) genoemde bescheiden, met dien verstande dat de onvolledige of onjuiste invulling van die bescheiden niet leidt tot een aanvulling of wijziging daarvan, maar dat deze omstandigheid de inspecteur aanleiding kan geven aanvullende informatie te vragen.
 
 4. Geschillen over de vraag of goederen al of niet gestort zijn, worden beslist door de inspecteur.
 
@@ -310,7 +310,7 @@ Bij een aanvraag tot toelating als douane-expediteur worden in ieder geval gegev
 
 3. De hoeveelheid van de goederen kan in vreemd gewicht of vreemde maat worden uitgedrukt.
 
-4. Indien de gezagvoerder niet in staat is om de hoeveelheid van de goederen op te geven, vermeldt hij dit in de vrachtlijsten. [Artikel 2.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.5&artikel=2.10&z=2024-01-01&g=2024-01-01), is van toepassing.
+4. Indien de gezagvoerder niet in staat is om de hoeveelheid van de goederen op te geven, vermeldt hij dit in de vrachtlijsten. [Artikel 2.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.5&artikel=2.10&z=2025-01-01&g=2025-01-01), is van toepassing.
 
 ##### Artikel 2.12
 
@@ -348,7 +348,7 @@ Bij een aanvraag tot toelating als douane-expediteur worden in ieder geval gegev
 
 - d. de omschrijving van de goederen als in de vrachtlijsten.
 
-5. In de doorvoerlijsten worden de soort en hoeveelheid van de goederen opgegeven overeenkomstig de [artikelen 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.5&artikel=2.10&z=2024-01-01&g=2024-01-01) en [2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.5&artikel=2.11&z=2024-01-01&g=2024-01-01).
+5. In de doorvoerlijsten worden de soort en hoeveelheid van de goederen opgegeven overeenkomstig de [artikelen 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.5&artikel=2.10&z=2025-01-01&g=2025-01-01) en [2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.5&artikel=2.11&z=2025-01-01&g=2025-01-01).
 
 6. Doorvoerlijsten worden aangezuiverd door de uitvoer van de goederen binnen de door de inspecteur bepaalde termijn.
 
@@ -382,11 +382,11 @@ Bij een aanvraag tot toelating als douane-expediteur worden in ieder geval gegev
 
 - d. het schip of luchtvaartuig niet overeenkomstig haar bestemming wordt gebezigd.
 
-3. Van de aankomst in een haven of op een luchthaven van pleziervaartuigen of sportvliegtuigen die niet op het BES eiland van binnenkomst geregistreerd zijn, wordt onverwijld kennis gegeven aan de inspecteur. [Artikel 2.8, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.5&artikel=2.8&z=2024-01-01&g=2024-01-01), is van overeenkomstige toepassing.
+3. Van de aankomst in een haven of op een luchthaven van pleziervaartuigen of sportvliegtuigen die niet op het BES eiland van binnenkomst geregistreerd zijn, wordt onverwijld kennis gegeven aan de inspecteur. [Artikel 2.8, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.5&artikel=2.8&z=2025-01-01&g=2025-01-01), is van overeenkomstige toepassing.
 
 4. In de gevallen waarin de inspecteur ontheffing heeft verleend van het [eerste, tweede of derde lid, van artikel 2.10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=2.10) treft de gezagvoerder, die de goederen heeft binnengebracht, de maatregelen die nodig zijn om te voorkomen dat die goederen op onregelmatige wijze worden ingevoerd.
 
-5. De in [artikel 2.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.5&artikel=2.8&z=2024-01-01&g=2024-01-01), bedoelde kennisgeving is niet van toepassing op de in het eerste lid bedoelde schepen en luchtvaartuigen.
+5. De in [artikel 2.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.5&artikel=2.8&z=2025-01-01&g=2025-01-01), bedoelde kennisgeving is niet van toepassing op de in het eerste lid bedoelde schepen en luchtvaartuigen.
 
 ##### Artikel 2.15
 
@@ -404,7 +404,7 @@ Bij een aanvraag tot toelating als douane-expediteur worden in ieder geval gegev
 
 ##### Artikel 2.16
 
-1. Indien in een noodsituatie niet kan worden voldaan aan [artikel 2.10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=2.10) geeft de gezagvoerder van het schip of luchtvaartuig en de daarmee vervoerde goederen daarvan onverwijld kennis aan de inspecteur. [Artikel 2.14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.5&artikel=2.14&z=2024-01-01&g=2024-01-01), is van overeenkomstige toepassing.
+1. Indien in een noodsituatie niet kan worden voldaan aan [artikel 2.10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=2.10) geeft de gezagvoerder van het schip of luchtvaartuig en de daarmee vervoerde goederen daarvan onverwijld kennis aan de inspecteur. [Artikel 2.14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.5&artikel=2.14&z=2025-01-01&g=2025-01-01), is van overeenkomstige toepassing.
 
 2. Indien de goederen niet volledig zijn verloren gegaan, wordt de inspecteur in kennis gesteld van de plaats waar de goederen zich bevinden.
 
@@ -450,7 +450,7 @@ Bij een aanvraag tot toelating als douane-expediteur worden in ieder geval gegev
 
 ##### Artikel 2.20
 
-1. De losplaatsen, bedoeld in [artikel 2.11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=2.11), zijn de door de inspecteur aangewezen havengebieden en platforms van de in [artikel 2.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.5&artikel=2.8&z=2024-01-01&g=2024-01-01), genoemde plaatsen en vliegvelden.
+1. De losplaatsen, bedoeld in [artikel 2.11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=2.11), zijn de door de inspecteur aangewezen havengebieden en platforms van de in [artikel 2.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.5&artikel=2.8&z=2025-01-01&g=2025-01-01), genoemde plaatsen en vliegvelden.
 
 2. Goederen, ingeklaard met vrachtlijsten, kunnen zonder voorafgaande nadere aangifte worden gelost en tijdelijk opgeslagen, mits alle daarop vermelde goederen worden opgeslagen. De vrachtlijsten kunnen worden gebruikt voor de tijdelijke opslag.
 
@@ -504,7 +504,7 @@ Bij een aanvraag tot toelating als douane-expediteur worden in ieder geval gegev
 
 1. Een wijziging van de bouw of inrichting van een ruimte voor tijdelijke opslag van goederen wordt niet aangebracht dan na verkregen toestemming van de inspecteur.
 
-2. De inspecteur kan de vergunning, bedoeld in [artikel 2.21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.6&artikel=2.21&z=2024-01-01&g=2024-01-01), intrekken of wijzigen:
+2. De inspecteur kan de vergunning, bedoeld in [artikel 2.21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.6&artikel=2.21&z=2025-01-01&g=2025-01-01), intrekken of wijzigen:
 
 - a. op verzoek van de vergunninghouder;
 
@@ -558,7 +558,7 @@ De tijdelijke opslag van postpakketten vindt plaats op een sorteerplaats of in e
 
 ##### Artikel 2.29
 
-1. Op een overeenkomstig [artikel 2.28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.7&artikel=2.28&z=2024-01-01&g=2024-01-01), ingevuld formulier enig document plaatst de inspecteur zijn handtekening, een dienststempel, de datum en het registratienummer, en geeft hij toestemming voor het volgen van de aangegeven douanebestemming binnen een bepaalde geldigheidsduur.
+1. Op een overeenkomstig [artikel 2.28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.7&artikel=2.28&z=2025-01-01&g=2025-01-01), ingevuld formulier enig document plaatst de inspecteur zijn handtekening, een dienststempel, de datum en het registratienummer, en geeft hij toestemming voor het volgen van de aangegeven douanebestemming binnen een bepaalde geldigheidsduur.
 
 2. In afwijking van het eerste lid kan de aangever, na verkregen toestemming van de inspecteur, gebruik maken van een formulier dat door hem zelf op geautomatiseerde wijze is vervaardigd. Een dergelijk formulier is gelijk aan het model van het formulier enig document.
 
@@ -662,7 +662,7 @@ De aangever ontvangt bij de voldoening van de douaneschuld een kwitantie die in 
 
 2. De aangever kan binnen vierentwintig uur nadat de uitslag van het deelonderzoek aan hem is meegedeeld om een heronderzoek van de goederen verzoeken indien hij van mening is dat de resultaten van het deelonderzoek niet voor de rest van de aangegeven goederen gelden.
 
-3. De [artikelen 2.35](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.8&artikel=2.35&z=2024-01-01&g=2024-01-01) en [2.36](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.8&artikel=2.36&z=2024-01-01&g=2024-01-01) zijn van overeenkomstige toepassing op het deelonderzoek.
+3. De [artikelen 2.35](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.8&artikel=2.35&z=2025-01-01&g=2025-01-01) en [2.36](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.8&artikel=2.36&z=2025-01-01&g=2025-01-01) zijn van overeenkomstige toepassing op het deelonderzoek.
 
 ##### Artikel 2.38
 
@@ -790,7 +790,7 @@ die bestemd zijn om te worden overgebracht naar het buitenland.
 
 - b. voor goederen, die bestemd zijn om te worden overgebracht uit een handels- en dienstenentrepot naar een andere handels- en dienstenentrepot of naar een douane-entrepot op een BES eiland.
 
-2. Ter zake van de formaliteiten bij vertrek en tijdens het vervoer van over te brengen goederen zijn de [artikelen 2.44](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.11&artikel=2.44&z=2024-01-01&g=2024-01-01) en [2.45](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.11&artikel=2.45&z=2024-01-01&g=2024-01-01) van overeenkomstige toepassing.
+2. Ter zake van de formaliteiten bij vertrek en tijdens het vervoer van over te brengen goederen zijn de [artikelen 2.44](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.11&artikel=2.44&z=2025-01-01&g=2025-01-01) en [2.45](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.11&artikel=2.45&z=2025-01-01&g=2025-01-01) van overeenkomstige toepassing.
 
 3. Indien de inslag plaats vindt in een douane-entrepot of in een handels en dienstenentrepot, waarin van de goederen een goederenrekening wordt bijgehouden, wordt die goederenrekening gedebiteerd, waarvan aantekening wordt gesteld op het document.
 
@@ -836,7 +836,7 @@ kan de inspecteur forfaitaire bedragen en percentages vaststellen voor de bereke
 
 1. Voor de uitvoer van goederen als bedoeld in [artikel 3.80, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=3.80) wordt aangifte tot tijdelijke uitvoer gedaan, onder bijvoeging van een exemplaar van de vergunning, die op grond van de vrijstellingsregeling is vereist. In de aangifte wordt melding gemaakt van de datum en het nummer van de vergunning.
 
-2. De ambtenaren treffen zonodig identiteitsmaatregelen met het oog op de wederinvoer van de goederen. [Artikel 2.48, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.12&artikel=2.48&z=2024-01-01&g=2024-01-01), is van overeenkomstige toepassing.
+2. De ambtenaren treffen zonodig identiteitsmaatregelen met het oog op de wederinvoer van de goederen. [Artikel 2.48, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.12&artikel=2.48&z=2025-01-01&g=2025-01-01), is van overeenkomstige toepassing.
 
 3. De ambtenaren, belast met de controle van de aangifte, stellen aantekening van hun bevindingen op de aangifte.
 
@@ -868,11 +868,11 @@ kan de inspecteur forfaitaire bedragen en percentages vaststellen voor de bereke
 
 4. Bij de aangifte ten invoer wordt een exemplaar van de vergunning, bedoeld in het eerste lid, gevoegd. In de aangifte wordt melding gemaakt van de datum en het nummer van de vergunning.
 
-5. [Artikel 2.48, vierde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.12&artikel=2.48&z=2024-01-01&g=2024-01-01), is van overeenkomstige toepassing.
+5. [Artikel 2.48, vierde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.12&artikel=2.48&z=2025-01-01&g=2025-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 2.53
 
-Van de uit te voeren goederen, bedoeld in [artikel 2.52](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.13&artikel=2.52&z=2024-01-01&g=2024-01-01), wordt aangifte ten uitvoer gedaan, onder bijvoeging van een exemplaar van de vergunning.
+Van de uit te voeren goederen, bedoeld in [artikel 2.52](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.13&artikel=2.52&z=2025-01-01&g=2025-01-01), wordt aangifte ten uitvoer gedaan, onder bijvoeging van een exemplaar van de vergunning.
 
 ##### Artikel 2.54
 
@@ -880,7 +880,7 @@ Van de uit te voeren goederen, bedoeld in [artikel 2.52](https://wetten.overheid
 
 2. De ambtenaren onderwerpen de aangifte aan verificatie, teneinde vast te stellen of overeenstemming bestaat tussen de omschrijving van de goederen in de aangifte en die in de desbetreffende vrijstellingsregeling.
 
-3. [Artikel 2.48, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.12&artikel=2.48&z=2024-01-01&g=2024-01-01), is van overeenkomstige toepassing.
+3. [Artikel 2.48, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.12&artikel=2.48&z=2025-01-01&g=2025-01-01), is van overeenkomstige toepassing.
 
 4. De ambtenaren, belast met de controle van de aangifte, stellen aantekening van hun bevindingen op het invoerdocument en stellen dit document vervolgens ter hand aan de aangever.
 
@@ -888,7 +888,7 @@ Van de uit te voeren goederen, bedoeld in [artikel 2.52](https://wetten.overheid
 
 ##### Artikel 2.55
 
-1. De tijdelijk ingevoerde goederen met vrijstelling van invoerrechten, bedoeld in [artikel 2.54](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.13&artikel=2.54&z=2024-01-01&g=2024-01-01), worden binnen de daarvoor vastgestelde termijn uitgevoerd.
+1. De tijdelijk ingevoerde goederen met vrijstelling van invoerrechten, bedoeld in [artikel 2.54](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.13&artikel=2.54&z=2025-01-01&g=2025-01-01), worden binnen de daarvoor vastgestelde termijn uitgevoerd.
 
 2. Van de uit te voeren goederen wordt aangifte gedaan. Indien een aangifte ten uitvoer wordt gedaan, wordt daarin melding gemaakt van de regeling op grond waarvan vrijstelling bij tijdelijke invoer is verleend.
 
@@ -954,7 +954,7 @@ Van de uit te voeren goederen, bedoeld in [artikel 2.52](https://wetten.overheid
 
 bij het bevoegde douanekantoor ingediend.
 
-4. Op de goedkeuring van ruimten, terreinen of andere locaties voor uitgaande opslag als bedoeld in [artikel 2.19, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=2.19)zijn de [artikelen 2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.6&artikel=2.21&z=2024-01-01&g=2024-01-01), [2.22](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.6&artikel=2.22&z=2024-01-01&g=2024-01-01) en [2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.6&artikel=2.24&z=2024-01-01&g=2024-01-01) van overeenkomstige toepassing.
+4. Op de goedkeuring van ruimten, terreinen of andere locaties voor uitgaande opslag als bedoeld in [artikel 2.19, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=2.19)zijn de [artikelen 2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.6&artikel=2.21&z=2025-01-01&g=2025-01-01), [2.22](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.6&artikel=2.22&z=2025-01-01&g=2025-01-01) en [2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.6&artikel=2.24&z=2025-01-01&g=2025-01-01) van overeenkomstige toepassing.
 
 5. Het op de aangifte ten uitvoer afgegeven document wordt, ter dekking van de uitgaande opslag, ingediend bij de ambtenaren, belast met het toezicht op de inslag.
 
@@ -1156,23 +1156,23 @@ De inspecteur kan uit doelmatigheidsoverwegingen een forfaitaire zekerheid als b
 
 ##### Artikel 2.76
 
-Degene die kennisgevingen, bedoeld in één van de [artikelen 2.8, tweede en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.5&artikel=2.8&z=2024-01-01&g=2024-01-01), [2.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.5&artikel=2.15&z=2024-01-01&g=2024-01-01), [2.16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.5&artikel=2.16&z=2024-01-01&g=2024-01-01), [2.20, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.6&artikel=2.20&z=2024-01-01&g=2024-01-01), en [2.61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.15&artikel=2.61&z=2024-01-01&g=2024-01-01), niet doet, pleegt een verzuim ter zake waarvan de inspecteur degene aan wie het verzuim te wijten is een bestuurlijke boete kan opleggen van ten hoogste USD 140.
+Degene die kennisgevingen, bedoeld in één van de [artikelen 2.8, tweede en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.5&artikel=2.8&z=2025-01-01&g=2025-01-01), [2.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.5&artikel=2.15&z=2025-01-01&g=2025-01-01), [2.16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.5&artikel=2.16&z=2025-01-01&g=2025-01-01), [2.20, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.6&artikel=2.20&z=2025-01-01&g=2025-01-01), en [2.61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.15&artikel=2.61&z=2025-01-01&g=2025-01-01), niet doet, pleegt een verzuim ter zake waarvan de inspecteur degene aan wie het verzuim te wijten is een bestuurlijke boete kan opleggen van ten hoogste USD 140.
 
 ##### Artikel 2.77
 
-Degene die [artikel 2.14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.5&artikel=2.14&z=2024-01-01&g=2024-01-01), overtreedt, pleegt een verzuim ter zake waarvan de inspecteur degene aan wie het verzuim te wijten is een bestuurlijke boete kan opleggen van ten hoogste USD 140.
+Degene die [artikel 2.14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.5&artikel=2.14&z=2025-01-01&g=2025-01-01), overtreedt, pleegt een verzuim ter zake waarvan de inspecteur degene aan wie het verzuim te wijten is een bestuurlijke boete kan opleggen van ten hoogste USD 140.
 
 ##### Artikel 2.78
 
-Degene die handelingen verricht zonder de daarvoor vereiste toestemming van de inspecteur, bedoeld in één van de [artikelen 2.9, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.5&artikel=2.9&z=2024-01-01&g=2024-01-01), [2.12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.5&artikel=2.12&z=2024-01-01&g=2024-01-01), [2.15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.5&artikel=2.15&z=2024-01-01&g=2024-01-01), [2.20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.6&artikel=2.20&z=2024-01-01&g=2024-01-01), [2.22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.6&artikel=2.22&z=2024-01-01&g=2024-01-01), [2.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.6&artikel=2.23&z=2024-01-01&g=2024-01-01), [2.24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.6&artikel=2.24&z=2024-01-01&g=2024-01-01), [2.26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.6&artikel=2.26&z=2024-01-01&g=2024-01-01), en [2.62, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.15&artikel=2.62&z=2024-01-01&g=2024-01-01), pleegt een verzuim ter zake waarvan de inspecteur degene aan wie het verzuim te wijten is een bestuurlijke boete kan opleggen van ten hoogste USD 140.
+Degene die handelingen verricht zonder de daarvoor vereiste toestemming van de inspecteur, bedoeld in één van de [artikelen 2.9, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.5&artikel=2.9&z=2025-01-01&g=2025-01-01), [2.12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.5&artikel=2.12&z=2025-01-01&g=2025-01-01), [2.15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.5&artikel=2.15&z=2025-01-01&g=2025-01-01), [2.20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.6&artikel=2.20&z=2025-01-01&g=2025-01-01), [2.22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.6&artikel=2.22&z=2025-01-01&g=2025-01-01), [2.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.6&artikel=2.23&z=2025-01-01&g=2025-01-01), [2.24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.6&artikel=2.24&z=2025-01-01&g=2025-01-01), [2.26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.6&artikel=2.26&z=2025-01-01&g=2025-01-01), en [2.62, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.15&artikel=2.62&z=2025-01-01&g=2025-01-01), pleegt een verzuim ter zake waarvan de inspecteur degene aan wie het verzuim te wijten is een bestuurlijke boete kan opleggen van ten hoogste USD 140.
 
 ##### Artikel 2.79
 
-Degene die [artikel 2.61, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.15&artikel=2.61&z=2024-01-01&g=2024-01-01), overtreedt, pleegt een verzuim ter zake waarvan de inspecteur degene aan wie het verzuim te wijten is een bestuurlijke boete kan opleggen van ten hoogste USD 140.
+Degene die [artikel 2.61, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.15&artikel=2.61&z=2025-01-01&g=2025-01-01), overtreedt, pleegt een verzuim ter zake waarvan de inspecteur degene aan wie het verzuim te wijten is een bestuurlijke boete kan opleggen van ten hoogste USD 140.
 
 ##### Artikel 2.80
 
-Degene die [artikel 2.61, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.15&artikel=2.61&z=2024-01-01&g=2024-01-01), overtreedt, pleegt een verzuim ter zake waarvan de inspecteur degene aan wie het verzuim te wijten is een bestuurlijke boete kan opleggen van ten hoogste USD 140.
+Degene die [artikel 2.61, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.15&artikel=2.61&z=2025-01-01&g=2025-01-01), overtreedt, pleegt een verzuim ter zake waarvan de inspecteur degene aan wie het verzuim te wijten is een bestuurlijke boete kan opleggen van ten hoogste USD 140.
 
 ### Afdeling 2.26. Beperkingen voor de uit- en doorvoer van strategische goederen
 
@@ -1206,7 +1206,7 @@ Als militaire goederen worden aangewezen de goederen, opgenomen in de lijst van 
 
 - b. de naam van de ontvanger van de goederen;
 
-- c. de omschrijving van de goederen waarop de melding betrekking heeft overeenkomstig de de lijst van goederen, genoemd in [artikel 2.82](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.26&artikel=2.82&z=2024-01-01&g=2024-01-01), de merken en nummers, het aantal en de soort van de colli, of voor onverpakte goederen het aantal voorwerpen; en
+- c. de omschrijving van de goederen waarop de melding betrekking heeft overeenkomstig de de lijst van goederen, genoemd in [artikel 2.82](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.26&artikel=2.82&z=2025-01-01&g=2025-01-01), de merken en nummers, het aantal en de soort van de colli, of voor onverpakte goederen het aantal voorwerpen; en
 
 - d. een nauwkeurige vermelding van de plaats, bestaande uit de naam van de plaats en de postcode aangevuld met huisnummer, waar de goederen kunnen worden onderzocht.
 
@@ -1220,7 +1220,7 @@ Geen melding is vereist van:
 
 - a. de doorvoer van goederen die zonder aanlanding worden vervoerd door de territoriale wateren, of door het luchtruim van de BES eilanden; en
 
-- b. de militaire goederen, bedoeld in [artikel 2.82](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.26&artikel=2.82&z=2024-01-01&g=2024-01-01).
+- b. de militaire goederen, bedoeld in [artikel 2.82](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.26&artikel=2.82&z=2025-01-01&g=2025-01-01).
 
 ##### Artikel 2.86
 
@@ -1270,29 +1270,29 @@ Geen melding is vereist van:
 
 ##### Artikel 3.1
 
-1. De goederen van opvoedkundige, wetenschappelijke of culturele aard, bedoeld in [artikel 3.49, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=3.49), zijn opgenomen in de bij deze regeling behorende [bijlage 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&bijlage=4a&z=2024-01-01&g=2024-01-01).
+1. De goederen van opvoedkundige, wetenschappelijke of culturele aard, bedoeld in [artikel 3.49, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=3.49), zijn opgenomen in de bij deze regeling behorende [bijlage 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&bijlage=4a&z=2025-01-01&g=2025-01-01).
 
-2. De instellingen en organisaties, bedoeld in de [artikelen 3.49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=3.49), [3.115, tweede lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=3.115), en [3.117, tweede lid, aanhef en onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=3.117), zijn opgenomen in de bij deze regeling behorende [bijlage 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&bijlage=4b&z=2024-01-01&g=2024-01-01).
+2. De instellingen en organisaties, bedoeld in de [artikelen 3.49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=3.49), [3.115, tweede lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=3.115), en [3.117, tweede lid, aanhef en onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=3.117), zijn opgenomen in de bij deze regeling behorende [bijlage 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&bijlage=4b&z=2025-01-01&g=2025-01-01).
 
 ##### Artikel 3.2
 
-De instellingen en organisaties, bedoeld in [artikel 3.50, aanhef en onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=3.50), zijn opgenomen in de bij deze regeling behorende [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&bijlage=5&z=2024-01-01&g=2024-01-01).
+De instellingen en organisaties, bedoeld in [artikel 3.50, aanhef en onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=3.50), zijn opgenomen in de bij deze regeling behorende [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&bijlage=5&z=2025-01-01&g=2025-01-01).
 
 ##### Artikel 3.3
 
-De instellingen en organisaties, bedoeld in [artikel 3.51, tweede lid, aanhef en onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=3.51), zijn opgenomen in de bij deze regeling behorende [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&bijlage=6&z=2024-01-01&g=2024-01-01).
+De instellingen en organisaties, bedoeld in [artikel 3.51, tweede lid, aanhef en onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=3.51), zijn opgenomen in de bij deze regeling behorende [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&bijlage=6&z=2025-01-01&g=2025-01-01).
 
 ##### Artikel 3.4
 
-De instellingen of laboratoria, bedoeld in [artikel 3.53, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=3.53), zijn opgenomen in de bij deze regeling behorende [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&bijlage=7&z=2024-01-01&g=2024-01-01).
+De instellingen of laboratoria, bedoeld in [artikel 3.53, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=3.53), zijn opgenomen in de bij deze regeling behorende [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&bijlage=7&z=2025-01-01&g=2025-01-01).
 
 ##### Artikel 3.5
 
-De instellingen, bedoeld in de [artikelen 3.57,eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=3.57) en [3.119, eerste lid, aanhef en onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=3.119) zijn opgenomen in de bij deze regeling behorende [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&bijlage=8&z=2024-01-01&g=2024-01-01).
+De instellingen, bedoeld in de [artikelen 3.57,eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=3.57) en [3.119, eerste lid, aanhef en onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=3.119) zijn opgenomen in de bij deze regeling behorende [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&bijlage=8&z=2025-01-01&g=2025-01-01).
 
 ##### Artikel 3.6
 
-De goederen, bedoeld in [artikel 3.72, eerste lid, aanhef en onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=3.72), zijn opgenomen in de bij deze regeling behorende [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&bijlage=9&z=2024-01-01&g=2024-01-01).
+De goederen, bedoeld in [artikel 3.72, eerste lid, aanhef en onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=3.72), zijn opgenomen in de bij deze regeling behorende [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&bijlage=9&z=2025-01-01&g=2025-01-01).
 
 ##### Artikel 3.7
 
@@ -1304,7 +1304,7 @@ Vrijstelling van de heffing van invoerrechten voor goederen als bedoeld in [arti
 
 ##### Artikel 3.8
 
-1. De veiligheidsmiddelen, bedoeld in [artikel 3.72, eerste lid, aanhef en onderdeel q, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=3.72), zijn opgenomen in de bij deze regeling behorende [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&bijlage=10&z=2024-01-01&g=2024-01-01).
+1. De veiligheidsmiddelen, bedoeld in [artikel 3.72, eerste lid, aanhef en onderdeel q, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=3.72), zijn opgenomen in de bij deze regeling behorende [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&bijlage=10&z=2025-01-01&g=2025-01-01).
 
 2. De hoeveelheid veiligheidsmiddelen die met vrijstelling wordt toegelaten, staat in een redelijke verhouding tot het maximale aantal bemanningsleden en de grootte van het vissersvaartuig.
 
@@ -1312,23 +1312,23 @@ Vrijstelling van de heffing van invoerrechten voor goederen als bedoeld in [arti
 
 ##### Artikel 3.9
 
-De ziekenhuizen, bedoeld in [artikel 3.118, eerste lid, aanhef en onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=3.118), zijn opgenomen in de bij deze regeling behorende [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&bijlage=11&z=2024-01-01&g=2024-01-01).
+De ziekenhuizen, bedoeld in [artikel 3.118, eerste lid, aanhef en onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=3.118), zijn opgenomen in de bij deze regeling behorende [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&bijlage=11&z=2025-01-01&g=2025-01-01).
 
 ##### Artikel 3.10
 
-Het toeristisch reclamemateriaal, bedoeld in [artikel 3.133, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=3.133), is opgenomen in de bij deze regeling behorende [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&bijlage=12&z=2024-01-01&g=2024-01-01).
+Het toeristisch reclamemateriaal, bedoeld in [artikel 3.133, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=3.133), is opgenomen in de bij deze regeling behorende [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&bijlage=12&z=2025-01-01&g=2025-01-01).
 
 ##### Artikel 3.11
 
-De welzijnsgoederen voor zeelieden, bedoeld in [artikel 3.135, tweede lid, aanhef en onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=3.135), zijn opgenomen in de bij deze regeling behorende [bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&bijlage=13&z=2024-01-01&g=2024-01-01).
+De welzijnsgoederen voor zeelieden, bedoeld in [artikel 3.135, tweede lid, aanhef en onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=3.135), zijn opgenomen in de bij deze regeling behorende [bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&bijlage=13&z=2025-01-01&g=2025-01-01).
 
 ##### Artikel 3.12
 
-De doeleinden voor dieren, bedoeld in [artikel 3.137, eerste lid, aanhef en onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=3.137), zijn opgenomen in de bij deze regeling behorende [bijlage 14](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&bijlage=14&z=2024-01-01&g=2024-01-01).
+De doeleinden voor dieren, bedoeld in [artikel 3.137, eerste lid, aanhef en onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=3.137), zijn opgenomen in de bij deze regeling behorende [bijlage 14](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&bijlage=14&z=2025-01-01&g=2025-01-01).
 
 ##### Artikel 3.13
 
-De grote wegen- en andere bouwwerken, bedoeld in [artikel 3.142, eerste lid, aanhef en onderdeel a, onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=3.142), zijn opgenomen in de bij deze regeling behorende [bijlage 15](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&bijlage=15&z=2024-01-01&g=2024-01-01).
+De grote wegen- en andere bouwwerken, bedoeld in [artikel 3.142, eerste lid, aanhef en onderdeel a, onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=3.142), zijn opgenomen in de bij deze regeling behorende [bijlage 15](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&bijlage=15&z=2025-01-01&g=2025-01-01).
 
 ### Afdeling 3.3. Accijnzen en algemene bestedingsbelasting
 
@@ -1454,7 +1454,7 @@ In een verzoek om een vergunning voor een accijnsgoederenplaats worden met betre
 
 3. Indien zekerheid wordt gesteld ter verkrijging van uitstel van betaling als bedoeld in [artikel 4.54, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=4.54), van het bedrag aan accijns dat aangevraagde accijnszegels vertegenwoordigen, is het accijnsbelang gelijk aan het bedrag waarvoor gemiddeld uitstel van betaling wordt verleend.
 
-4. Indien op grond van [artikel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=4&afdeling=4.2&artikel=4.7&z=2024-01-01&g=2024-01-01) toestemming is verleend voor het doen van één aangifte voor twee of meer accijnsgoederenplaatsen worden de afzonderlijke zekerheidstellingen voor de desbetreffende accijnsgoederenplaatsen vervangen door één zekerheid die voor die accijnsgoederenplaatsen tezamen van toepassing is. Het hierbij in acht te nemen accijnsbelang wordt gevormd door het totale accijnsbelang dat op basis van het tweede lid en het derde lid voor de desbetreffende accijnsgoederenplaatsen is vastgesteld.
+4. Indien op grond van [artikel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=4&afdeling=4.2&artikel=4.7&z=2025-01-01&g=2025-01-01) toestemming is verleend voor het doen van één aangifte voor twee of meer accijnsgoederenplaatsen worden de afzonderlijke zekerheidstellingen voor de desbetreffende accijnsgoederenplaatsen vervangen door één zekerheid die voor die accijnsgoederenplaatsen tezamen van toepassing is. Het hierbij in acht te nemen accijnsbelang wordt gevormd door het totale accijnsbelang dat op basis van het tweede lid en het derde lid voor de desbetreffende accijnsgoederenplaatsen is vastgesteld.
 
 5. De zekerheid bedraagt ten minste 5 percent en ten hoogste 100 percent van het accijnsbelang met een maximum van USD 6.500.000.
 
@@ -1514,7 +1514,7 @@ De vrijstelling van accijns, bedoeld in [artikel 4.50, van de wet](https://wette
 
 ##### Artikel 4.14
 
-Tegen overlegging van de in [artikel 4.13, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=4&afdeling=4.4&artikel=4.13&z=2024-01-01&g=2024-01-01), bedoelde beschikking aan de inspecteur door wiens bemiddeling de accijnszegels zijn aangevraagd, wordt, indien degene die de accijnszegels heeft aangevraagd op de voet van [artikel 4.54 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=4.54) uitstel van betaling geniet, het in de beschikking vermelde bedrag aan accijns, voor zover mogelijk, verrekend met de openstaande bedragen, te beginnen met de jongste post; in andere gevallen geschiedt de teruggaaf door uitbetaling door de ontvanger.
+Tegen overlegging van de in [artikel 4.13, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=4&afdeling=4.4&artikel=4.13&z=2025-01-01&g=2025-01-01), bedoelde beschikking aan de inspecteur door wiens bemiddeling de accijnszegels zijn aangevraagd, wordt, indien degene die de accijnszegels heeft aangevraagd op de voet van [artikel 4.54 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=4.54) uitstel van betaling geniet, het in de beschikking vermelde bedrag aan accijns, voor zover mogelijk, verrekend met de openstaande bedragen, te beginnen met de jongste post; in andere gevallen geschiedt de teruggaaf door uitbetaling door de ontvanger.
 
 ### Afdeling 4.4. Accijnszegels
 
@@ -1538,7 +1538,7 @@ Tegen overlegging van de in [artikel 4.13, vijfde lid](https://wetten.overheid.n
 
 ##### Artikel 4.16
 
-Op het in [artikel 3.9 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029262&artikel=3.9) bedoelde bescheid van herkomst voor ruwe en voor gedeeltelijk tot verbruik bereide tabak is [artikel 4.15](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=4&afdeling=4.5&artikel=4.15&z=2024-01-01&g=2024-01-01) van overeenkomstige toepassing.
+Op het in [artikel 3.9 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029262&artikel=3.9) bedoelde bescheid van herkomst voor ruwe en voor gedeeltelijk tot verbruik bereide tabak is [artikel 4.15](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=4&afdeling=4.5&artikel=4.15&z=2025-01-01&g=2025-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 4.17
 
@@ -1716,6 +1716,10 @@ De bijlagen zijn genummerd van 1 tot en met 15, met dien verstande dat bijlage 4
 
 De bijlagen zijn genummerd van 1 tot en met 15, met dien verstande dat bijlage 4 bestaat uit [bijlage 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&bijlage=4a&z=2024-01-01&g=2024-01-01) en [bijlage 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&bijlage=4b&z=2024-01-01&g=2024-01-01).
 
+## Bijlagen
+
+De bijlagen zijn genummerd van 1 tot en met 15, met dien verstande dat bijlage 4 bestaat uit [bijlage 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&bijlage=4a&z=2025-01-01&g=2025-01-01) en [bijlage 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&bijlage=4b&z=2025-01-01&g=2025-01-01).
+
 ## Bijlage 1
 
 **Model van het formulier D.V. 1 voor de aangifte van gegevens inzake de douanewaarde, bedoeld in artikel 2.4, eerste lid, van de regeling**
@@ -1856,30 +1860,6 @@ De bijlagen zijn genummerd van 1 tot en met 15, met dien verstande dat bijlage 4
 
 - 2. The Oswald Simmons Museum.
 
-## Bijlage 6
-
-**Instellingen en organisaties, bedoeld in artikel 3.3 van de regeling**
-
-**Bonaire**
-
-- 1. Fundashon pa Kwido di Personanan Desabilitá (FKPD);
-
-- 2. Sociedad di Siegunan;
-
-- 3. Fundashon Cocari;
-
-- 4. Fundashon Maria Dal en thuiszorg.
-
-**Sint Eustatius**
-
-(Gereserveerd.)
-
-**Saba**
-
-- 1. Saba Benevolent Foundation;
-
-- 2. Saba Health Care Foundation.
-
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1.4a
@@ -1966,25 +1946,29 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 6. Slotbepalingen
 
-## Bijlage 7
+## Bijlage 6
 
-**Instellingen en laboratoria, bedoeld in artikel 3.4 van de regeling**
+**Instellingen en organisaties, bedoeld in artikel 3.3 van de regeling**
 
 **Bonaire**
 
-- 1. St. Franciscus Hospitaal;
+- 1. Fundashon pa Kwido di Personanan Desabilitá (FKPD);
 
-- 2. Bonaire Laboratorium N.V.
+- 2. Sociedad di Siegunan;
+
+- 3. Fundashon Cocari;
+
+- 4. Fundashon Maria Dal en thuiszorg.
 
 **Sint Eustatius**
 
-Queen Beatrix Hospital Medical Center.
+(Gereserveerd.)
 
 **Saba**
 
-- 1. Mrs. A.M. Edwards Medical Centre;
+- 1. Saba Benevolent Foundation;
 
-- 2. Saba Conservation Foundation.
+- 2. Saba Health Care Foundation.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -2028,7 +2012,7 @@ De verklaring, bedoeld in [artikel 3.6 van het besluit](https://wetten.overheid.
 
 ##### Artikel 4.9c
 
-Voor teruggaaf van accijns op grond van [artikel 4.50a, eerste lid, aanhef en onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=4.50a), is [artikel 4.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=4&afdeling=4.3A&artikel=4.9a&z=2024-01-01&g=2024-01-01) van overeenkomstige toepassing.
+Voor teruggaaf van accijns op grond van [artikel 4.50a, eerste lid, aanhef en onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=4.50a), is [artikel 4.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=4&afdeling=4.3A&artikel=4.9a&z=2025-01-01&g=2025-01-01) van overeenkomstige toepassing.
 
 ### Afdeling 4.5. Controlebepalingen
 
@@ -2046,11 +2030,31 @@ Ten behoeve van een onderzoek als bedoeld in [artikel 4.61, tweede lid, van de w
 
 - c. onderzocht in een door de Belastingdienst aangewezen laboratorium met gebruikmaking van internationaal erkende onderzoeksmethoden.
 
-2. Ter zake van het onderzoek van goederen en het nemen van monsters is [artikel 2.35, behoudens het tweede, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.8&artikel=2.35&z=2024-01-01&g=2024-01-01), van overeenkomstige toepassing.
+2. Ter zake van het onderzoek van goederen en het nemen van monsters is [artikel 2.35, behoudens het tweede, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.8&artikel=2.35&z=2025-01-01&g=2025-01-01), van overeenkomstige toepassing.
 
 ### Hoofdstuk 5. Handels- en dienstenentrepots
 
-### Hoofdstuk 6. Slotbepalingen
+### Hoofdstuk 5. Handels- en dienstenentrepots
+
+## Bijlage 7
+
+**Instellingen en laboratoria, bedoeld in artikel 3.4 van de regeling**
+
+**Bonaire**
+
+- 1. St. Franciscus Hospitaal;
+
+- 2. Bonaire Laboratorium N.V.
+
+**Sint Eustatius**
+
+Queen Beatrix Hospital Medical Center.
+
+**Saba**
+
+- 1. Mrs. A.M. Edwards Medical Centre;
+
+- 2. Saba Conservation Foundation.
 
 ## Bijlage 8
 
@@ -2200,7 +2204,7 @@ Het Rode Kruis Saba.
 
 - 64. Goederen voor de baanverlichting van een luchthaven.
 
-- 65. Asfaltgrondstoffen en dergelijke voor de aanleg en het onderhoud van de start- en landingsbanen van een vliegveld als bedoeld in [artikel 2.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.5&artikel=2.8&z=2024-01-01&g=2024-01-01).
+- 65. Asfaltgrondstoffen en dergelijke voor de aanleg en het onderhoud van de start- en landingsbanen van een vliegveld als bedoeld in [artikel 2.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.5&artikel=2.8&z=2025-01-01&g=2025-01-01).
 
 - 66. Tractoren die zijn ingericht voor het trekken of duwen van vliegtuigen.
 
@@ -2240,7 +2244,7 @@ Van deze producten zijn uitgesloten:
 
 ## Bijlage 10a
 
-Producten als bedoeld in [artikel 3.8a](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=3&afdeling=3.1&artikel=3.8a&z=2024-01-01&g=2024-01-01):
+Producten als bedoeld in [artikel 3.8a](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=3&afdeling=3.1&artikel=3.8a&z=2025-01-01&g=2025-01-01):
 
 - 1. Omvormers, optimizers en andere vermogenselektronica.
 
@@ -2284,27 +2288,11 @@ Mrs. A.M. Edwards Medical Centre.
 
 - 6. een redelijk hoeveelheid stalen van voorwerpen van nationale handenarbeid, nationale kostuums en andere soortgelijke artikelen van folkloristische aard.
 
-## Bijlage 13
-
-**Welzijnsgoederen voor zeelieden, bedoeld in artikel 3.11 van de regeling**
-
-- 1. boeken en drukwerken, zoals schriftelijke cursussen, dagbladen en tijdschriften, en brochures over welzijnszorg in de havens;
-
-- 2. audiovisueel materiaal, zoals toestellen voor het weergeven van geluid, bandrecorders; radio- en televisietoestellen, projectietoestellen, opnamen op grammofoonplaten of magnetofoonbanden (talencursussen, radioprogramma’s, groeten, muziek en ontspanning), belichte en ontwikkelde films, en diapositieven;
-
-- 3. sportartikelen, zoals sportkleding, ballen, tennisrackets en netten, dekspelen, atletiekuitrusting en gymnastiekuitrusting;
-
-- 4. artikelen voor spelbeoefening en andere vormen van vrijetijdsbesteding, zoals gezelschapspelen, muziekinstrumenten, benodigdheden voor amateurtoneel, benodigdheden voor schilderijen, beeldhouwen, hout- en metaalbewerking en het maken van tapijten;
-
-- 5. goederen voor de uitoefening van de eredienst (gewaden daaronder begrepen);
-
-- 6. delen, onderdelen en toebehoren van de onder 1 tot en met 5 genoemde goederen.
-
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 3.8a
 
-Als producten als bedoeld in [artikel 3.72, eerste lid, onderdeel u, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=3.72) worden aangewezen producten die zijn opgenomen in [bijlage 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&bijlage=10a&z=2024-01-01&g=2024-01-01).
+Als producten als bedoeld in [artikel 3.72, eerste lid, onderdeel u, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=3.72) worden aangewezen producten die zijn opgenomen in [bijlage 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&bijlage=10a&z=2025-01-01&g=2025-01-01).
 
 ### Afdeling 3.2. Tijdelijke invoer
 
@@ -2323,6 +2311,22 @@ Als producten als bedoeld in [artikel 3.72, eerste lid, onderdeel u, van de wet]
 ### Hoofdstuk 5. Handels- en dienstenentrepots
 
 ### Hoofdstuk 6. Slotbepalingen
+
+## Bijlage 13
+
+**Welzijnsgoederen voor zeelieden, bedoeld in artikel 3.11 van de regeling**
+
+- 1. boeken en drukwerken, zoals schriftelijke cursussen, dagbladen en tijdschriften, en brochures over welzijnszorg in de havens;
+
+- 2. audiovisueel materiaal, zoals toestellen voor het weergeven van geluid, bandrecorders; radio- en televisietoestellen, projectietoestellen, opnamen op grammofoonplaten of magnetofoonbanden (talencursussen, radioprogramma’s, groeten, muziek en ontspanning), belichte en ontwikkelde films, en diapositieven;
+
+- 3. sportartikelen, zoals sportkleding, ballen, tennisrackets en netten, dekspelen, atletiekuitrusting en gymnastiekuitrusting;
+
+- 4. artikelen voor spelbeoefening en andere vormen van vrijetijdsbesteding, zoals gezelschapspelen, muziekinstrumenten, benodigdheden voor amateurtoneel, benodigdheden voor schilderijen, beeldhouwen, hout- en metaalbewerking en het maken van tapijten;
+
+- 5. goederen voor de uitoefening van de eredienst (gewaden daaronder begrepen);
+
+- 6. delen, onderdelen en toebehoren van de onder 1 tot en met 5 genoemde goederen.
 
 ## Bijlage 14
 
@@ -2354,11 +2358,33 @@ Als producten als bedoeld in [artikel 3.72, eerste lid, onderdeel u, van de wet]
 
 - 13. medische doeleinden (het leveren van slangengif, enz.).
 
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 4.9d
+
+1. Een verzoek om teruggaaf van accijns als bedoeld in [artikel 4.50a, eerste lid, onderdelen c en d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=4.50a), voor accijnsgoederen die zijn verloren gegaan of onder ambtelijk toezicht zijn vernietigd, wordt gedaan uiterlijk drie maanden na afloop van het kalenderkwartaal waarin de accijnsgoederen zijn verloren gegaan of onder ambtelijk toezicht zijn vernietigd.
+
+2. In de administratie van degene die verzoekt om teruggaaf van accijns zijn de volgende gegevens opgenomen:
+
+- a. de soort en de hoeveelheid van de accijnsgoederen alsmede de waarde ervan of de andere voor de vaststelling van het bedrag van de teruggaaf van belang zijnde gegevens;
+
+- b. het tijdstip, de plaats en de oorzaak van het verloren gaan, dan wel de vermelding van de ambtelijke verklaring van de vernietiging;
+
+- c. wanneer mededeling aan de inspecteur is gedaan van het verloren gaan; en
+
+- d. de soort en de hoeveelheid alsmede de waarde van de restanten van verloren gegane goederen en andere van belang zijnde gegevens.
+
+### Afdeling 4.4. Accijnszegels
+
+### Afdeling 4.5. Controlebepalingen
+
+### Hoofdstuk 6. Slotbepalingen
+
 ## Bijlage 15
 
 **Grote wegen- en andere bouwwerken als bedoeld in artikel 3.13:**
 
-- 1. Bouwwerken ten behoeve van een vliegveld als bedoeld in [artikel 2.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.5&artikel=2.8&z=2024-01-01&g=2024-01-01), van de regeling, met inbegrip van restauratie- of renovatiewerkzaamheden van de start- en landingsbanen.
+- 1. Bouwwerken ten behoeve van een vliegveld als bedoeld in [artikel 2.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029309&hoofdstuk=2&afdeling=2.5&artikel=2.8&z=2025-01-01&g=2025-01-01), van de regeling, met inbegrip van restauratie- of renovatiewerkzaamheden van de start- en landingsbanen.
 
 - 2. Bouwwerken ten behoeve van installatie en onderhoud van niet-geïntegreerde zonnepanelen en -collectoren, geïntegreerde zonnepanelen en -collectoren welke als dakbedekking dienen en windturbines
 
