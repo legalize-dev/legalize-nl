@@ -4,7 +4,7 @@ identifier: "BWBR0023025"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2024-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023025"
 soort: "AMvB"
@@ -52,7 +52,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-**Onze Minister**: Onze Minister van Verkeer en Waterstaat;
+**Onze Minister**: Onze Minister van Infrastructuur en Waterstaat;
 
 **wet**: [Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108).
 
@@ -750,251 +750,209 @@ Vervallen
 
 In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
-**begroting na wijziging**: de begroting zoals deze luidt na verwerking van alle door het algemeen bestuur lopende het begrotingsjaar vastgestelde begrotingswijzigingen;
+- **begroting na wijziging:** begroting zoals deze luidt na verwerking van alle door het algemeen bestuur lopende het begrotingsjaar vastgestelde begrotingswijzigingen;
 
-**CBS**: Centraal Bureau voor de Statistiek;
+- **CBS:** Centraal Bureau voor de Statistiek;
 
-**deelneming**: een participatie in een besloten of naamloze vennootschap, waarin het waterschap aandelen heeft;
+- **deelnemingen:** participaties in een besloten of naamloze vennootschap, waarin het waterschap aandelen heeft;
 
-**EMU**: de Economische en Monetaire Unie;
+- **financiële positie:** financiële positie als bedoeld in [artikel 4.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=1&artikel=4.3&z=2025-01-01&g=2025-01-01);
 
-**EMU-saldo**: het vorderingensaldo op transactiebasis van de gehele sector overheid, met inbegrip van de centrale overheid, sociale fondsen en lokale overheden;
+- **EMU-saldo:** geraamde onderscheidenlijk gerealiseerde saldo van de ontvangsten en uitgaven van een waterschap, berekend op transactiebasis en overeenkomstig de voorschriften van het Europese systeem van nationale en regionale rekeningen in de Europese Unie;
 
-**financieel belang**: een aan de verbonden partij ter beschikking gesteld bedrag dat niet verhaalbaar is indien de verbonden partij failliet gaat onderscheidenlijk het bedrag waarvoor aansprakelijkheid bestaat indien de verbonden partij haar verplichtingen niet nakomt;
+- **kosten- en opbrengstsoorten:** indeling waarmee de lasten en baten naar hun aard worden gerangschikt;
 
-**kosten- en opbrengstsoorten**: indeling waarmee de lasten en baten naar hun aard worden gerangschikt;
+- **kostendragers:** indeling waarmee de nettokosten worden gerangschikt naar de taken die in het reglement aan het waterschap worden opgedragen of door het algemeen bestuur worden onderscheiden en waarvoor een aparte belasting wordt geheven;
 
-**kostendragers**: indeling waarmee de netto-kosten worden gerangschikt naar de taken die in het reglement aan het waterschap worden opgedragen of door het algemeen bestuur worden onderscheiden en waarvoor een aparte belasting wordt geheven;
+- **lastendruk:** hoogte lastendruk van een meerpersoonshuishouden met een eigen woning in vergelijking met het landelijk gemiddelde;
 
-**netto-kosten**: kosten die aan een bepaald programma, een bepaald product of een bepaalde kostendrager worden toegerekend en waarvan zijn afgetrokken de baten (met uitzondering van de belastingopbrengsten en andere algemene opbrengsten) die aan hetzelfde programma of product danwel dezelfde kostendrager worden toegerekend;
+- **nettokosten:** saldo van kosten en opbrengsten niet zijnde belastingopbrengsten;
 
-**openbare lichamen:** openbare lichamen als bedoeld in [artikel 1, onderdeel a, van de Wet financiering decentrale overheden](https://wetten.overheid.nl/jci1.3:c:BWBR0011987&artikel=1);
+- **nettoschuldquote:** verhouding tussen de omvang van de nettoschuld en de totale opbrengsten;
 
-**programma**: een samenhangend geheel van activiteiten;
+- **netto-vlottende schuld:** netto-vlottende schuld als bedoeld in [artikel 1, onderdeel d, van de Wet financiering decentrale overheden](https://wetten.overheid.nl/jci1.3:c:BWBR0011987&artikel=1);
 
-**verbonden partij**: een privaatrechtelijke of publiekrechtelijke organisatie waarin het waterschap een bestuurlijk en een financieel belang heeft. Onder bestuurlijk belang wordt verstaan zeggenschap, hetzij uit hoofde van vertegenwoordiging in het bestuur hetzij uit hoofde van stemrecht.
+- **niet-effectieve positie:** situatie waarin de onderliggende waarde en looptijd van een financieel derivaat niet overeenkomt met de financieringsbehoefte waar het derivaat betrekking op heeft;
+
+- **openbare lichamen:** openbare lichamen als bedoeld in [artikel 1, onderdeel a, van de Wet financiering decentrale overheden](https://wetten.overheid.nl/jci1.3:c:BWBR0011987&artikel=1);
+
+- **programma:** samenhangend geheel van activiteiten;
+
+- **rechtmatigheidsverantwoording:** rechtmatigheidsverantwoording als bedoeld in [artikel 4.64, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.4&sub-paragraaf=4.4.4&artikel=4.64&z=2025-01-01&g=2025-01-01);
+
+- **rentetypische looptijd:** rentetypische looptijd als bedoeld in [artikel 1, onderdeel b, van de Wet financiering decentrale overheden](https://wetten.overheid.nl/jci1.3:c:BWBR0011987&artikel=1);
+
+- **uitzettingen:** tijdelijk aan derden toevertrouwde liquiditeiten tegen vooraf overeengekomen condities en bedingen;
+
+- **vaste schuld:** gezamenlijk bedrag als bedoeld in [artikel 4.48, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.4&sub-paragraaf=4.4.2&artikel=4.48&z=2025-01-01&g=2025-01-01);
+
+- **verantwoordingsgrens:** verantwoordingsgrens als bedoeld in [artikel 4.64, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.4&sub-paragraaf=4.4.4&artikel=4.64&z=2025-01-01&g=2025-01-01);
+
+- **verbonden partij:** verbonden partij als bedoeld in [artikel 4.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=1&artikel=4.5&z=2025-01-01&g=2025-01-01);
+
+- **weerstandsvermogen:** relatie tussen:
+
+- 1°. de weerstandscapaciteit, zijnde de middelen en mogelijkheden waarover het waterschap beschikt of kan beschikken om niet begrote kosten te dekken,
+
+- 2°. alle risico's waarvoor geen maatregelen zijn getroffen en die van materiële betekenis kunnen zijn in relatie tot de financiële positie;
+
+- –. **wendbaarheid van de begroting:** verhouding tussen de totale kapitaallasten en de totale bruto-exploitatiekosten.
 
 ##### Artikel 4.2
 
-1. Voor de meerjarenraming, de begroting, de jaarverslaggeving en de uitvoeringsinformatie wordt het stelsel van baten en lasten gehanteerd.
+1. Voor de meerjarenraming, de begroting, de jaarstukken en de uitvoeringsinformatie wordt een stelsel van baten en lasten gehanteerd.
 
-2. De baten en de lasten van het begrotingsjaar worden in de meerjarenraming, de begroting, de jaarverslaggeving en de uitvoeringsinformatie opgenomen, onverschillig of zij tot inkomsten of uitgaven in dat jaar leiden, onderscheidenlijk hebben geleid.
+2. De baten en lasten van het begrotingsjaar worden in de meerjarenraming, de begroting, de jaarstukken en de uitvoeringsinformatie opgenomen, onverschillig of zij tot inkomsten of uitgaven in dat jaar leiden, onderscheidenlijk hebben geleid.
 
-3. Onder de baten en lasten worden ook begrepen de over het eigen vermogen en de voorzieningen berekende bespaarde rente.
+3. De baten en lasten worden geraamd dan wel verantwoord tot hun brutobedrag met uitzondering van de raming en realisatie van belastingopbrengsten.
 
-4. De kostentoerekening die door het waterschap wordt toegepast vindt plaats op basis van objectieve, bedrijfseconomische criteria.
+4. Onder de baten en lasten wordt ook begrepen de over het eigen vermogen en de voorzieningen berekende bespaarde rente.
 
-5. Het is niet geoorloofd in de begroting en in de jaarrekening lasten en baten, activa en passiva alsmede balansmutaties tegen elkaar te laten wegvallen, indien zij krachtens dit besluit in afzonderlijke posten moeten worden opgenomen.
+5. Onder de baten en lasten wordt ook begrepen de heffing van de vennootschapsbelasting. Deze heffing wordt geraamd en verantwoord op basis van de fiscale grondslag.
 
 ##### Artikel 4.3
 
-1. De meerjarenraming, de begroting, de jaarverslaggeving en de uitvoeringsinformatie geven volgens normen die voor waterschappen als aanvaardbaar worden beschouwd een zodanig inzicht dat een verantwoord oordeel kan worden gevormd over de financiële positie en over de ontwikkeling van de netto-kosten. In het bijzonder het algemeen bestuur moet in staat worden gesteld zich een zodanig oordeel te vormen.
+1. De meerjarenraming, de begroting, de jaarstukken en de uitvoeringsinformatie geven volgens normen die voor het waterschap als aanvaardbaar worden beschouwd een zodanig inzicht dat een verantwoord oordeel kan worden gevormd over de financiële positie en over de ontwikkeling van de belastingopbrengst benodigd voor de taakuitoefening. In het bijzonder het algemeen bestuur moet in staat worden gesteld zich een zodanig oordeel te vormen.
 
-2. De meerjarenraming, de begroting, de uitvoeringsinformatie daarbij en de toelichtingen geven duidelijk en stelselmatig de omvang van de geraamde netto-kosten. De begroting geeft tevens duidelijk en stelselmatig inzicht in de financiële positie.
+2. De meerjarenraming, de begroting en de uitvoeringsinformatie daarbij en de toelichtingen geven duidelijk en stelselmatig inzicht in de financiële positie.
 
-3. De jaarverslaggeving, de uitvoeringsinformatie en de toelichtingen geven getrouw, duidelijk en stelselmatig de netto-kosten, de balansmutaties en de omvang van de balansposten van het begrotingsjaar weer. De jaarrekening geeft tevens een getrouw, duidelijk en stelselmatig inzicht in de financiële positie aan het einde van het begrotingsjaar.
+3. De jaarstukken en de uitvoeringsinformatie daarbij en de toelichtingen geven getrouw, duidelijk en stelselmatig inzicht in de financiële positie aan het einde van het begrotingsjaar.
+
+4. De financiële positie omvat de grootte en samenstelling van de baten en lasten over het begrotingsjaar, de activa en passiva aan het einde van het begrotingsjaar en de lasten en balansmutaties gedurende het begrotingsjaar.
 
 ##### Artikel 4.4
 
-1. De indeling van de begroting en de jaarverslaggeving is identiek.
+1. De indeling van de begroting en van de jaarstukken is identiek.
 
-2. Indien de indeling van de meerjarenraming, de begroting, de jaarverslaggeving en de uitvoeringsinformatie afwijkt van die van het voorafgaande begrotingsjaar worden in de toelichting de verschillen aangegeven en worden de redenen die tot de afwijking hebben geleid uiteengezet.
-
-3. Onderdelen van de meerjarenraming, de begroting, de jaarverslaggeving en de uitvoeringsinformatie die krachtens dit besluit worden onderscheiden, maar die voor een waterschap niet van toepassing zijn, kunnen worden weggelaten.
-
-4. Indien dit noodzakelijk is voor het in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=1&artikel=4.3&z=2025-01-01&g=2024-01-01) bedoelde inzicht, kan een waterschap afwijken van de krachtens de [paragrafen 3 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=3&z=2025-01-01&g=2024-01-01) van dit hoofdstuk gestelde eisen aan de inrichting. Deze afwijking wordt in de toelichting op het betreffende onderdeel van de meerjarenraming, de begroting, de jaarverslaggeving en de uitvoeringsinformatie vermeld.
+2. Indien de indeling van de meerjarenraming, de begroting, de jaarstukken en de uitvoeringsinformatie afwijkt van die van het voorafgaande begrotingsjaar worden in de toelichting de verschillen aangegeven en worden de redenen die tot de afwijking hebben geleid uiteengezet.
 
 ##### Artikel 4.5
 
-1. Verbonden partijen worden niet geconsolideerd in de begroting en jaarverslaggeving.
+1. Een verbonden partij is een privaatrechtelijke of publiekrechtelijke organisatie waarin het waterschap zeggenschap heeft, hetzij uit hoofde van vertegenwoordiging in het bestuur hetzij uit hoofde van stemrecht en waarin het waterschap een bedrag ter beschikking heeft gesteld dat niet verhaalbaar is indien de privaatrechtelijke of publiekrechtelijke organisatie failliet gaat onderscheidenlijk het bedrag waarvoor aansprakelijkheid bestaat indien de privaatrechtelijke of publiekrechtelijke organisatie haar verplichtingen niet nakomt.
 
-2. Het eerste lid is niet van toepassing op rechtspersonen die zijn opgericht ten behoeve van de in [artikel 4.42, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.4&sub-paragraaf=4.4.1&artikel=4.42&z=2025-01-01&g=2024-01-01 jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.42&z=2025-01-01&g=2024-01-01), bedoelde activa en waarin het waterschap het volledige financieel belang alsmede de feitelijke zeggenschap heeft.
+2. Verbonden partijen worden niet geconsolideerd in de begroting en jaarstukken.
 
 #### § 2. De meerjarenraming en de toelichting
 
 ##### Artikel 4.6
 
-1. De meerjarenraming bevat het naar programma’s onderscheiden beleid dat door het waterschap zal worden gevoerd en de financiële gevolgen daarvan, waaronder de netto-kosten van het bestaande en het nieuwe beleid, voor het komende begrotingsjaar alsmede voor tenminste de drie jaren volgend op het komende begrotingsjaar.
+De meerjarenraming bevat voor het komende begrotingsjaar, alsmede voor tenminste de vier jaren volgend op het komende begrotingsjaar:
 
-2. De meerjarenraming bevat per programma ten minste de volgende informatie:
+- a. de uiteenzetting van externe en interne ontwikkelingen, en uitgangspunten en normen, waarbij ten minste wordt ingegaan op:
 
-- a. de doelstellingen, in het bijzonder de beoogde effecten;
+- 1°. de externe en interne ontwikkelingen die relevant zijn voor het beleid van het waterschap,
 
-- b. de wijze waarop er naar gestreefd zal worden die effecten te bereiken;
+- 2°. gehanteerde kwantitatieve uitgangspunten en normen voor lastenstijgingen, batenstijgingen dan wel lastendalingen of batendalingen die aan de geraamde bedragen ten grondslag liggen;
 
-- c. de geraamde netto-kosten.
+- b. het naar programma’s onderscheiden beleid dat door het waterschap zal worden gevoerd en de financiële gevolgen daarvan, waarbij per programma wordt ingegaan op de:
+
+- 1°. doelstelling van het beleid, in het bijzonder de beoogde maatschappelijke effecten,
+
+- 2°. wijze waarop ernaar gestreefd zal worden die effecten te bereiken en de betrokkenheid hierbij van verbonden partijen,
+
+- 3°. geraamde baten en lasten van het bestaande en het nieuwe beleid;
+
+- c. de raming van de belastingenopbrengsten;
+
+- d. de uiteenzetting van de financiële positie;
+
+- e. de lopende en voorgenomen investeringen.
 
 ##### Artikel 4.7
 
-In de toelichting op de meerjarenraming wordt ten minste afzonderlijke aandacht besteed aan:
+1. In de toelichting op de meerjarenraming wordt ten minste afzonderlijk aandacht besteed aan de:
 
-- a. de externe en interne ontwikkelingen die relevant zijn voor het beleid van het waterschap;
+- a. ontwikkeling van de waterschapsbelastingen in de komende jaren, mede in relatie tot de stand en het verloop van de bestemmingsreserves voor tariefsegalisatie als bedoeld in [artikel 4.50, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.4&sub-paragraaf=4.4.2&artikel=4.50&z=2025-01-01&g=2025-01-01), in het kader van het begrotingsevenwicht in meerjarig perspectief;
 
-- b. gehanteerde kwantitatieve uitgangspunten en normen voor lastenstijgingen, batenstijgingen dan wel lastendalingen of batendalingen die aan de geraamde bedragen ten grondslag liggen;
+- b. uiteenzetting van de financiële positie, waarbij wordt ingegaan op:
 
-- c. de lopende en voorgenomen investeringen;
+- 1°. de financiering,
 
-- d. de financiering;
+- 2°. het weerstandsvermogen, waarbij wordt ingegaan op aard, stand en verloop van de algemene reserves en de voorzieningen,
 
-- e. het weerstandsvermogen, waarbij wordt ingegaan op aard, stand en verloop van de algemene reserves en de voorzieningen;
+- 3°. de kengetallen weerstandsvermogen, nettoschuldquote, EMU-saldo, wendbaarheid van de begroting en lastendruk, waarbij een beoordeling van de onderlinge verhouding tussen de kengetallen in relatie tot de financiële positie plaatsvindt,
 
-- f. de ontwikkeling van de waterschapsbelastingen in de komende jaren, mede in relatie tot de stand en het verloop van de bestemmingsreserves voor tariefsegalisatie, als bedoeld in [artikel 4.52, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.4&sub-paragraaf=4.4.2&artikel=4.52&z=2025-01-01&g=2024-01-01 jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.52&z=2025-01-01&g=2024-01-01).
+- 4°. een geprognosticeerde balans.
+
+2. Bij ministeriële regeling worden nadere regels gesteld over de wijze waarop de kengetallen, genoemd in het eerste lid, onderdeel b, onder 3°, door waterschappen worden berekend en in de meerjarenraming worden opgenomen.
 
 ##### Artikel 4.8
 
-Het weerstandsvermogen bestaat uit de relatie tussen:
+1. De begroting bestaat ten minste uit de:
 
-- a. de weerstandscapaciteit, zijnde de middelen en mogelijkheden waarover het waterschap beschikt of kan beschikken om niet begrote kosten te dekken;
+- a. beleidsbegroting;
 
-- b. alle risico’s waarvoor geen maatregelen zijn getroffen en die van materiële betekenis kunnen zijn in relatie tot de financiële positie.
+- b. financiële begroting.
+
+2. De beleidsbegroting bestaat ten minste uit:
+
+- a. de uiteenzetting van de externe en interne ontwikkelingen;
+
+- b. het programmaplan;
+
+- c. de raming van belastingopbrengsten en de toelichting;
+
+- d. de in [artikel 4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=3&sub-paragraaf=3.2&artikel=4.13&z=2025-01-01&g=2025-01-01) bedoelde paragrafen.
+
+3. De financiële begroting bestaat ten minste uit:
+
+- a. de uiteenzetting van de gehanteerde uitgangspunten en normen;
+
+- b. het overzicht van baten en lasten en de toelichting;
+
+- c. het overzicht van de voorgenomen investeringen en de toelichting;
+
+- d. de geprognosticeerde begin- en eindbalans van het begrotingsjaar.
 
 #### § 3. De begroting en de toelichting
 
 ##### Artikel 4.9
 
-De begroting bestaat ten minste uit:
-
-- a. het programmaplan;
-
-- b. de paragrafen;
-
-- c. de begroting naar programma’s;
-
-- d. de begroting naar kostendragers met toelichting;
-
-- e. de begroting naar kosten- en opbrengstsoorten.
-
-##### Artikel 4.10
-
-1. Het programmaplan bevat het naar programma’s onderscheiden te realiseren beleid van het waterschap voor het begrotingsjaar.
-
-2. Het programmaplan bevat per programma ten minste de volgende informatie:
-
-- a. de doelstellingen, in het bijzonder de beoogde effecten;
-
-- b. de wijze waarop er naar gestreefd zal worden die effecten te bereiken;
-
-- c. geraamde netto-kosten.
-
-3. Het programmaplan omvat alle baten en lasten van het waterschap.
-
-##### Artikel 4.11
-
-1. In de begroting worden in afzonderlijke paragrafen vastgelegd de uitgangspunten, de hoofdlijnen van het beleid met betrekking tot relevante beheersmatige aspecten, alsmede de financiële gevolgen van dat beleid.
-
-2. De begroting bevat ten minste de volgende paragrafen, tenzij het desbetreffende aspect bij het waterschap niet aan de orde is:
-
-- a. ontwikkelingen sinds het vorig begrotingsjaar;
-
-- b. uitgangspunten en normen;
-
-- c. incidentele baten en lasten;
-
-- d. kostentoerekening;
-
-- e. onttrekkingen aan overige bestemmingsreserves en voorzieningen;
-
-- f. waterschapsbelastingen;
-
-- g. weerstandsvermogen;
-
-- h. financiering;
-
-- i. verbonden partijen;
-
-- j. bedrijfsvoering;
-
-- k. EMU-saldo.
-
-##### Artikel 4.12
-
-In de paragraaf betreffende de ontwikkelingen sinds het vorig begrotingsjaar wordt ten minste ingegaan op:
+De uiteenzetting van de externe en interne ontwikkelingen, bedoeld in [artikel 4.8, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=3&sub-paragraaf=3.1&artikel=4.8&z=2025-01-01&g=2025-01-01), bevat een beschrijving van de ontwikkelingen sinds het vorig begrotingsjaar, waarbij ten minste wordt ingegaan op:
 
 - a. externe en interne ontwikkelingen die zich sinds het vaststellen van de vorige begroting en de behandeling van de meerjarenraming hebben voorgedaan;
 
-- b. afwijkingen van de uitgangspunten en grondslagen zoals deze voor de vorige begroting en de meerjarenraming zijn gehanteerd;
+- b. de belangrijkste afwijkingen ten opzichte van de meerjarenraming;
 
-- c. belangrijke afwijkingen in de cijfers van de meerjarenraming.
+- c. de belangrijkste uitgangspunten en normen die aan de ramingen ten grondslag liggen;
 
-##### Artikel 4.13
+- d. afwijkingen van de uitgangspunten en normen zoals deze voor de vorige begroting en de meerjarenraming zijn gehanteerd.
 
-In de paragraaf betreffende de uitgangspunten en normen wordt ten minste ingegaan op:
+##### Artikel 4.10
 
-- a. de autonome salarisontwikkeling die is verdisconteerd;
+1. Het programmaplan, bedoeld in [artikel 4.8, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=3&sub-paragraaf=3.1&artikel=4.8&z=2025-01-01&g=2025-01-01), bestaat ten minste uit:
 
-- b. de overige autonome loonkosten waarmee rekening is gehouden;
+- a. de te realiseren programma's;
 
-- c. de overige uitgangspunten en de normen die voor lastenstijgingen en lastendalingen dan wel batenstijgingen en batendalingen zijn gehanteerd en die deels aan de geraamde bedragen ten grondslag liggen.
+- b. een overzicht van de dekkingsmiddelen;
 
-##### Artikel 4.14
+- c. het bedrag van de heffing voor de vennootschapsbelasting;
 
-De paragraaf betreffende de incidentele baten en lasten bevat een overzicht van de baten en lasten die als eenmalig ten opzichte van voorgaande en komende begrotingsjaren moeten worden beschouwd.
+- d. het bedrag voor onvoorzien.
 
-##### Artikel 4.15
+2. Het programmaplan bevat per programma de:
 
-In de paragraaf betreffende de kostentoerekening wordt ingegaan op de principes die zijn gehanteerd bij de toerekening van kosten aan de kostendragers. Deze paragraaf bevat in ieder geval:
+- a. doelstelling van het programma, in het bijzonder de beoogde maatschappelijke effecten daarvan;
 
-- a. de wijze waarop uitvoering is gegeven aan de in [artikel 4.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=1&artikel=4.2&z=2025-01-01&g=2024-01-01), bedoelde eis;
+- b. wijze waarop ernaar gestreefd zal worden de beoogde maatschappelijke effecten te bereiken en de betrokkenheid hierbij van verbonden partijen;
 
-- b. de kwantitatieve grondslagen die als onderdeel van de kostentoerekening zijn gehanteerd.
+- c. raming van baten en lasten.
 
-##### Artikel 4.16
+3. Het overzicht van de dekkingsmiddelen bevat ten minste:
 
-In de paragraaf betreffende de onttrekkingen aan overige bestemmingsreserves en voorzieningen wordt ingegaan op de bedragen die rechtstreeks uit voorzieningen worden onttrokken alsmede op het beroep dat op de overige bestemmingsreserves, bedoeld in [artikel 4.52, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.4&sub-paragraaf=4.4.2&artikel=4.52&z=2025-01-01&g=2024-01-01 jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.52&z=2025-01-01&g=2024-01-01), wordt gedaan.
+- a. de belastingopbrengsten;
 
-##### Artikel 4.17
+- b. de dividenden;
 
-De paragraaf betreffende de waterschapsbelastingen bevat ten minste:
+- c. het saldo van de financieringsfunctie;
 
-- a. een overzicht op hoofdlijnen van de diverse belastingen;
+- d. de overige algemene opbrengsten.
 
-- b. een beschrijving van het kwijtscheldingsbeleid;
+4. Het bedrag voor onvoorzien wordt geraamd voor de begroting in zijn geheel of per programma.
 
-- c. de mate van kostendekkendheid van de diverse belastingen, waarbij wordt ingegaan op de stand aan het begin, de mutaties en de stand aan het eind van het begrotingsjaar van de bestemmingsreserves voor tariefsegalisatie, bedoeld in [artikel 4.52, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.4&sub-paragraaf=4.4.2&artikel=4.52&z=2025-01-01&g=2024-01-01 jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.52&z=2025-01-01&g=2024-01-01);
+##### Artikel 4.11
 
-- d. de geraamde opbrengsten;
-
-- e. de tarieven;
-
-- f. een aanduiding van de lastendruk die het gevolg is van de waterschapsbelastingen.
-
-##### Artikel 4.18
-
-De paragraaf betreffende de financiering bevat in ieder geval de beleidsvoornemens ten aanzien van het risicobeheer van de financieringsportefeuille.
-
-##### Artikel 4.19
-
-De paragraaf betreffende het weerstandsvermogen bevat ten minste:
-
-- a. een inventarisatie van de weerstandscapaciteit, met daarbij een beschouwing over de stand aan het begin, de mutaties en de stand aan het eind van het begrotingsjaar van de algemene reserves en de voorzieningen;
-
-- b. een inventarisatie van de risico’s;
-
-- c. het beleid omtrent de weerstandscapaciteit en de risico’s.
-
-##### Artikel 4.20
-
-De paragraaf betreffende de verbonden partijen bevat ten minste:
-
-- a. de visie op verbonden partijen in relatie tot de realisatie van de doelstellingen die zijn opgenomen in de begroting;
-
-- b. de beleidsvoornemens omtrent verbonden partijen.
-
-##### Artikel 4.21
-
-De paragraaf betreffende de bedrijfsvoering geeft ten minste inzicht in de stand van zaken en de beleidsvoornemens ten aanzien van de bedrijfsvoering.
-
-##### Artikel 4.22
-
-In de paragraaf betreffende het EMU-saldo wordt het EMU-saldo van het waterschap gespecificeerd overeenkomstig de bij ministeriële regeling gestelde regels.
-
-##### Artikel 4.23
-
-De begroting naar programma’s bevat een overzicht van de netto-kosten van de programma’s die zijn opgenomen in het programmaplan.
-
-##### Artikel 4.24
-
-1. De begroting naar kostendragers bevat de volgende kostendragers, tenzij de betreffende kostendrager bij het desbetreffende waterschap niet aan de orde is:
+1. De raming van belastingopbrengsten, bedoeld in [artikel 4.8, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=3&sub-paragraaf=3.1&artikel=4.8&z=2025-01-01&g=2025-01-01), bevat de volgende kostendragers, tenzij de betreffende kostendrager bij het waterschap niet aan de orde is:
 
 - a. watersysteembeheer;
 
@@ -1002,131 +960,345 @@ De begroting naar programma’s bevat een overzicht van de netto-kosten van de p
 
 - c. wegenbeheer.
 
-2. Een waterschap dat krachtens het provinciaal reglement is belast met een beheertaak die niet in het eerste lid wordt genoemd, kan deze taak als kostendrager in de begroting en de jaarverslaggeving opnemen.
+2. Een waterschap dat krachtens het provinciaal reglement is belast met een beheertaak die niet in het eerste lid wordt genoemd, kan ook deze taak als kostendrager in de begroting en de jaarstukken opnemen.
 
-3. De begroting naar kostendragers geeft weer per kostendrager:
+3. De raming van belastingopbrengsten geeft per kostendrager weer:
 
-- a. a.de netto-kosten die worden toegerekend;
+- a. de kosten die worden toegerekend;
 
 - b. het bedrag voor onvoorzien;
 
 - c. de gederfde opbrengst als gevolg van kwijtscheldingen en oninbaarverklaringen;
 
-- d. de dividenden en overige algemene opbrengsten;
+- d. de dividenden en de overige algemene opbrengsten;
 
-- e. de verwachte opbrengsten uit belastingheffing (saldo voorgaande onderdelen);
+- e. de verwachte opbrengsten uit belastingheffing, te bepalen aan de hand van het saldo van de onderdelen a tot en met d;
 
-- f. de geraamde toevoegingen en onttrekkingen aan reserves;
+- f. de geraamde toevoegingen en onttrekkingen aan reserves.
 
-- g. de tarieven van de betreffende waterschapsbelastingen.
+4. Van de in het derde lid bedoelde bedragen worden zowel het geraamde bedrag van het begrotingsjaar, het geraamde bedrag van het vorig begrotingsjaar na wijziging, als het gerealiseerde bedrag van het voorvorig begrotingsjaar weergegeven.
 
-4. Van de in het derde lid genoemde bedragen en tarieven worden zowel het geraamde bedrag van het begrotingsjaar, het geraamde bedrag van het vorig begrotingsjaar na wijziging, als het gerealiseerde bedrag van het voorvorig begrotingsjaar weergegeven.
+5. De raming van belastingopbrengsten omvat de tarieven van de betreffende waterschapsbelastingen voor het begrotingsjaar, waarbij per tarief wordt vergeleken met het vorig begrotingsjaar en het voorvorig begrotingsjaar.
 
-5. Indien er een aanmerkelijk verschil is tussen de raming van het begrotingsjaar en die van het vorig begrotingsjaar na wijziging wordt in de toelichting op de begroting naar kostendragers ingegaan op de oorzaken van het verschil.
+6. Bij ministeriële regeling worden nadere regels gesteld omtrent de kostendragers.
 
-6. Bij ministeriële regeling worden nadere regels gesteld omtrent de kostendragers en de toelichting.
+##### Artikel 4.12
 
-##### Artikel 4.25
+In de toelichting op de raming van belastingopbrengsten, bedoeld in [artikel 4.8, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=3&sub-paragraaf=3.1&artikel=4.8&z=2025-01-01&g=2025-01-01), wordt ten minste ingegaan op:
 
-1. De begroting naar kosten- en opbrengstsoorten wordt ingedeeld volgens bij ministeriële regeling vast te stellen groepen van kosten- en opbrengstsoorten.
+- a. de objectieve, bedrijfseconomische criteria die zijn gehanteerd bij de toerekening van kosten aan de kostendragers;
 
-2. Van de lasten en baten die in de begroting naar kosten- en opbrengstsoorten worden opgenomen worden zowel het geraamde bedrag van het begrotingsjaar, het geraamde bedrag van het vorig begrotingsjaar na wijziging als het gerealiseerde bedrag van het voorvorig begrotingsjaar weergegeven.
+- b. de kwantitatieve grondslagen die als onderdeel van de kostentoerekening zijn gehanteerd;
 
-##### Artikel 4.26
+- c. een beschrijving van het kwijtscheldingsbeleid;
 
-In een besluit tot wijziging van de begroting wordt in ieder geval aandacht besteed aan de noodzaak voor de wijziging, aan de mutatie en aan het nieuwe geraamde bedrag, alsmede aan de wijze waarop de dekking van het benodigde bedrag danwel de bestemming van het bedrag dat niet zal worden besteed zal plaats vinden.
+- d. de oorzaken indien bij de kostendragers een aanmerkelijk verschil is tussen de raming van het begrotingsjaar en die van het vorig begrotingsjaar na wijziging;
 
-#### § 3. De begroting en de toelichting
+- e. de mate van kostendekkendheid van de diverse belastingen, waarbij wordt ingegaan op de stand aan het begin, de mutaties en de stand aan het eind van het begrotingsjaar van de bestemmingsreserves voor tariefsegalisatie, bedoeld in [artikel 4.50, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.4&sub-paragraaf=4.4.2&artikel=4.50&z=2025-01-01&g=2025-01-01);
 
-##### Artikel 4.27
+- f. de geraamde belastingopbrengsten;
 
-1. De jaarverslaggeving bestaat ten minste uit:
+- g. de ontwikkeling van de tarieven;
+
+- h. een aanduiding van de lastendruk die het gevolg is van de waterschapsbelastingen.
+
+##### Artikel 4.13
+
+1. In de begroting worden in afzonderlijke paragrafen de beleidslijnen vastgelegd met betrekking tot relevante beheersmatige aspecten.
+
+2. De begroting bevat ten minste de volgende paragrafen:
+
+- a. uiteenzetting van de financiële positie;
+
+- b. assetmanagement;
+
+- c. bedrijfsvoering.
+
+3. De begroting bevat voorts een paragraaf verbonden partijen indien dit bij het waterschap aan de orde is.
+
+##### Artikel 4.14
+
+1. In de paragraaf uiteenzetting van de financiële positie, bedoeld in [artikel 4.13, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=3&sub-paragraaf=3.2&artikel=4.13&z=2025-01-01&g=2025-01-01), wordt ten minste afzonderlijke aandacht besteed aan:
+
+- a. de financiering, waarbij wordt ingegaan op in ieder geval de beleidsvoornemens ten aanzien van het risicobeheer van de financieringsportefeuille en wordt inzicht gegeven in de rentelasten, het renteresultaat, de wijze waarop rente aan investeringen wordt toegerekend en de financieringsbehoefte;
+
+- b. het weerstandsvermogen en de risicobeheersing, waarbij tenminste ingegaan wordt op:
+
+- 1°. een inventarisatie van de risico’s,
+
+- 2°. een inventarisatie van de weerstandscapaciteit,
+
+- 3°. het beleid omtrent de risico’s en de weerstandscapaciteit;
+
+- c. de stand en het gespecificeerde verloop van de bestemmingsreserves, waarbij wordt ingegaan op het beroep dat op de bestemmingsreserves, bedoeld in [artikel 4.50, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.4&sub-paragraaf=4.4.2&artikel=4.50&z=2025-01-01&g=2025-01-01), wordt gedaan in het kader van het begrotingsevenwicht in meerjarig perspectief;
+
+- d. de stand en het gespecificeerde verloop van de overige bestemmingsreserves, waarbij wordt ingegaan op het beroep dat op de overige bestemmingsreserves, bedoeld in [artikel 4.50, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.4&sub-paragraaf=4.4.2&artikel=4.50&z=2025-01-01&g=2025-01-01), wordt gedaan;
+
+- e. de stand en het gespecificeerde verloop van de voorzieningen, waarbij wordt ingegaan op de bedragen die rechtstreeks aan voorzieningen worden onttrokken;
+
+- f. de volgende kengetallen, waarbij een beoordeling van de onderlinge verhouding tussen de kengetallen in relatie tot de financiële positie plaatsvindt:
+
+- 1°. weerstandsvermogen,
+
+- 2°. nettoschuldquote,
+
+- 3°. EMU-saldo,
+
+- 4°. wendbaarheid van de begroting,
+
+- 5°. lastendruk.
+
+2. Bij ministeriële regeling worden nadere regels gesteld over de wijze waarop de kengetallen, genoemd in het eerste lid, onderdeel f, door waterschappen worden berekend en in de begroting worden opgenomen.
+
+##### Artikel 4.15
+
+1. De paragraaf betreffende assetmanagement, bedoeld in [artikel 4.13, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=3&sub-paragraaf=3.2&artikel=4.13&z=2025-01-01&g=2025-01-01), bevat ten minste:
+
+- a. waterkeringen en bijbehorende kunstwerken;
+
+- b. watergangen, waterkwantiteitskunstwerken en gemalen;
+
+- c. zuiveringtechnische werken;
+
+- d. wegen, vaarwegen, havens en bijbehorende kunstwerken.
+
+2. Met betrekking tot de onderdelen, bedoeld in het eerste lid, wordt aangegeven:
+
+- a. het beleidskader;
+
+- b. de uit het beleidskader voortvloeiende financiële consequenties;
+
+- c. de vertaling van de financiële consequenties in de begroting.
+
+##### Artikel 4.16
+
+De paragraaf betreffende de bedrijfsvoering, bedoeld in [artikel 4.13, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=3&sub-paragraaf=3.2&artikel=4.13&z=2025-01-01&g=2025-01-01), bevat ten minste:
+
+- a. de stand van zaken van de bedrijfsvoering;
+
+- b. de beleidsvoornemens ten aanzien van de bedrijfsvoering;
+
+- c. informatie over de financiële rechtmatigheid;
+
+- d. de maatregelen die worden ondernomen om afwijkingen van de financiële rechtmatigheid te voorkomen.
+
+##### Artikel 4.17
+
+1. De paragraaf betreffende de verbonden partijen, bedoeld in [artikel 4.13, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=3&sub-paragraaf=3.2&artikel=4.13&z=2025-01-01&g=2025-01-01), bevat ten minste de:
+
+- a. visie op en de beleidsvoornemens omtrent verbonden partijen;
+
+- b. lijst van verbonden partijen, die wordt onderverdeeld in:
+
+- 1°. gemeenschappelijke regelingen,
+
+- 2°. vennootschappen en coöperaties,
+
+- 3°. stichtingen en verenigingen,
+
+- 4°. overige verbonden partijen.
+
+2. In de lijst van verbonden partijen wordt ten minste de volgende informatie opgenomen:
+
+- a. de wijze waarop het waterschap een belang heeft in de verbonden partij en het openbaar belang dat ermee gediend wordt;
+
+- b. het belang dat het waterschap in de verbonden partij heeft aan het begin en de verwachte omvang aan het einde van het begrotingsjaar;
+
+- c. de verwachte omvang van het eigen vermogen en het vreemd vermogen van de verbonden partij aan het begin en aan het einde van het begrotingsjaar;
+
+- d. de verwachte omvang van het financiële resultaat van de verbonden partij in het begrotingsjaar;
+
+- e. de eventuele risico’s waarvoor de verbonden partij geen maatregelen heeft getroffen en die van materiële betekenis kunnen zijn voor de financiële positie van de verbonden partij en daardoor van betekenis kunnen zijn voor de financiële positie van het waterschap.
+
+##### Artikel 4.18
+
+De uiteenzetting van de gehanteerde uitgangspunten en normen, bedoeld in [artikel 4.8, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=3&sub-paragraaf=3.1&artikel=4.8&z=2025-01-01&g=2025-01-01), bevat ten minste de:
+
+- a. autonome salarisontwikkeling die is verdisconteerd;
+
+- b. overige autonome loonkosten waarmee rekening is gehouden;
+
+- c. overige uitgangspunten en de normen die voor lastenstijgingen en lastendalingen dan wel batenstijgingen en batendalingen zijn gehanteerd en die deels aan de geraamde bedragen ten grondslag liggen.
+
+##### Artikel 4.19
+
+Het overzicht van baten en lasten, bedoeld in [artikel 4.8, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=3&sub-paragraaf=3.1&artikel=4.8&z=2025-01-01&g=2025-01-01), bevat:
+
+- a. per programma of per programmaonderdeel de raming van de baten en lasten en het saldo daarvan;
+
+- b. het overzicht van de geraamde dekkingsmiddelen, het geraamde bedrag van de heffing voor de vennootschapsbelasting en het geraamde bedrag voor onvoorzien;
+
+- c. het geraamde totaal saldo van baten en lasten, volgend uit de onderdelen a en b;
+
+- d. de beoogde toevoegingen en onttrekkingen aan reserves per programma;
+
+- e. het geraamde resultaat, volgend uit de onderdelen c en d.
+
+##### Artikel 4.20
+
+In de besluiten tot wijziging van de begroting worden per programma en, indien aanwezig, per programmaonderdeel, de mutatie en het nieuwe geraamde bedrag vastgesteld.
+
+##### Artikel 4.21
+
+De toelichting op het overzicht van baten en lasten, bedoeld in [artikel 4.8, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=3&sub-paragraaf=3.1&artikel=4.8&z=2025-01-01&g=2025-01-01), bevat ten minste:
+
+- a. het geraamde bedrag van het begrotingsjaar, het geraamde bedrag van het vorig begrotingsjaar na wijziging, en het gerealiseerde bedrag van het voorvorig begrotingsjaar;
+
+- b. de oorzaken in geval van aanmerkelijk verschil met de raming, respectievelijk de realisatie, van het vorig, respectievelijk voorvorig begrotingsjaar;
+
+- c. een overzicht van de geraamde incidentele baten en lasten per programma, waarbij per programma ten minste de belangrijkste posten afzonderlijk worden gespecificeerd en de overige posten als een totaalbedrag kunnen worden opgenomen;
+
+- d. een overzicht van de beoogde structurele toevoegingen en onttrekkingen aan de reserves.
+
+##### Artikel 4.22
+
+1. Het overzicht van de voorgenomen investeringen, bedoeld in [artikel 4.8, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=3&sub-paragraaf=3.1&artikel=4.8&z=2025-01-01&g=2025-01-01), geeft de raming van de investeringen in het begrotingsjaar weer.
+
+2. De toelichting op het overzicht van investeringen, bedoeld in [artikel 4.8, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=3&sub-paragraaf=3.1&artikel=4.8&z=2025-01-01&g=2025-01-01), bevat een totaaloverzicht van alle werken die aan het begin van het begrotingsjaar onderhanden zijn en die lopende het jaar worden gestart.
+
+##### Artikel 4.23
+
+De geprognosticeerde balans, bedoeld in [artikel 4.8, derde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=3&sub-paragraaf=3.1&artikel=4.8&z=2025-01-01&g=2025-01-01), omvat de geprognosticeerde begin- en eindbalans van het begrotingsjaar.
+
+##### Artikel 4.24
+
+1. De jaarstukken bestaan ten minste uit:
 
 - a. het jaarverslag;
 
 - b. de jaarrekening.
 
-2. Het jaarverslag bestaat uit:
+2. Het jaarverslag bestaat ten minste uit de:
 
-- a. de programmaverantwoording;
+- a. programmaverantwoording;
 
-- b. de paragrafen.
+- b. realisatie van belastingopbrengsten en de toelichting;
+
+- c. paragrafen.
 
 3. De jaarrekening bestaat uit:
 
-- a. de exploitatierekening naar programma’s;
+- a. het overzicht van baten en lasten in de jaarrekening en de toelichting;
 
-- b. de exploitatierekening naar kostendragers en de toelichting;
+- b. het overzicht van gerealiseerde investeringen en de toelichting;
 
-- c. de exploitatierekening naar kosten- en opbrengstsoorten;
+- c. de balans en de toelichting;
 
-- d. de balans en de toelichting.
+- d. de rechtmatigheidsverantwoording.
 
-##### Artikel 4.28
+##### Artikel 4.25
 
-De jaarverslaggeving wordt vastgesteld met inachtneming van hetgeen omtrent de financiële positie op de balansdatum is gebleken tussen het moment van opmaken van de verslaggeving en het tijdstip van vaststelling daarvan, voor zover deze aanvullende informatie onontbeerlijk is voor het in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=1&artikel=4.3&z=2025-01-01&g=2024-01-01) bedoelde inzicht.
+1. De programmaverantwoording, bedoeld in [artikel 4.24, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.1&artikel=4.24&z=2025-01-01&g=2025-01-01), bestaat ten minste uit:
 
-##### Artikel 4.29
+- a. de verantwoording over de realisatie van de programma’s;
 
-1. De programmaverantwoording bevat de verantwoording over de realisatie van het programmaplan uit de begroting.
+- b. een overzicht van de gerealiseerde dekkingsmiddelen;
 
-2. De programmaverantwoording biedt per programma inzicht in:
+- c. het bedrag van de heffing voor de vennootschapsbelasting;
 
-- a. de mate waarin de doelstellingen zijn gerealiseerd;
+- d. het inzicht in het gebruik van het geraamde bedrag voor onvoorzien.
 
-- b. de wijze waarop getracht is de beoogde effecten te bereiken;
+2. De programmaverantwoording biedt per programma inzicht in de:
 
-- c. de gerealiseerde netto-kosten in relatie tot de daarvoor in de begroting opgenomen bedragen;
+- a. mate waarin de doelstellingen zijn gerealiseerd;
 
-- d. belangrijke afwijkingen tussen de realisatie in de jaarverslaggeving en de plannen in de begroting, waarbij een analyse plaatsvindt.
+- b. wijze waarop getracht is de beoogde maatschappelijke effecten te bereiken, en de betrokkenheid hierbij van de verbonden partijen;
 
-3. De programmaverantwoording omvat het totaal van baten en lasten van het waterschap.
+- c. gerealiseerde baten en lasten.
 
-##### Artikel 4.30
+##### Artikel 4.26
 
-1. Het jaarverslag bevat ten minste de paragrafen die ingevolge [artikel 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=3&artikel=4.11&z=2025-01-01&g=2024-01-01 jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=3&sub-paragraaf=3.2&artikel=4.11&z=2025-01-01&g=2024-01-01), in de begroting zijn opgenomen, met dien verstande dat in plaats van onderdeel a van dat artikel een paragraaf betreffende de ontwikkelingen in het vorig begrotingsjaar wordt opgenomen, met uitzondering van de onderdelen b en d, van dat artikel, alsmede een paragraaf betreffende topinkomens. Ze bevatten de verantwoording van hetgeen in de overeenkomstige paragrafen in de begroting is opgenomen.
+1. De realisatie van belastingopbrengsten, bedoeld in [artikel 4.24, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.1&artikel=4.24&z=2025-01-01&g=2025-01-01), geeft per kostendrager weer:
 
-2. In de paragraaf betreffende het EMU-saldo wordt de in [artikel 4.22](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=3&artikel=4.22&z=2025-01-01&g=2024-01-01 jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=3&sub-paragraaf=3.3&artikel=4.22&z=2025-01-01&g=2024-01-01) bedoelde specificatie opgenomen voor het begrotingsjaar en volgens de realisatie van het vorige begrotingsjaar.
+- a. de gerealiseerde kosten die zijn toegerekend;
 
-3. In de paragraaf betreffende topinkomens wordt de informatie opgenomen, bedoeld in de [artikelen 4.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=4.1), en [4.2, eerste, tweede en derde lid, van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=4.2).
-
-##### Artikel 4.31
-
-De exploitatierekening naar programma’s bevat een overzicht van de gerealiseerde netto-kosten van de programma’s die zijn opgenomen in de programmaverantwoording.
-
-##### Artikel 4.32
-
-1. De exploitatierekening naar kostendragers geeft per kostendrager weer:
-
-- a. de gerealiseerde netto-kosten die zijn toegerekend;
-
-- b. de werkelijk kwijtgescholden en oninbaarverklaarde bedragen;
+- b. de werkelijk kwijtgescholden en oninbaar verklaarde bedragen;
 
 - c. de gerealiseerde dividenden en overige algemene opbrengsten;
 
 - d. de gerealiseerde belastingopbrengsten;
 
-- e. het gerealiseerde resultaat voor bestemming, volgend uit voorgaande onderdelen;
+- e. het gerealiseerde resultaat voor bestemming, volgend uit de onderdelen a tot en met d;
 
-- f. bestemming van het resultaat op basis van besluiten die zijn genomen tijdens het begrotingsjaar;
+- f. de bestemming van het resultaat op basis van besluiten die zijn genomen tijdens het begrotingsjaar;
 
-- g. nog te bestemmen resultaat, waarbij in geval van een positief saldo een voorstel voor de bestemming hiervan en in geval van een negatief saldo een voorstel voor de wijze waarop dit tekort zal worden gedekt, wordt gedaan;
+- g. het nog te bestemmen resultaat, met:
+
+- 1°. in geval van een positief saldo, een voorstel voor de bestemming van dat saldo, en
+
+- 2°. in geval van een negatief saldo, een voorstel voor de wijze waarop dit tekort zal worden gedekt;
 
 - h. de werkelijke toevoegingen en onttrekkingen aan reserves.
 
-2. De exploitatierekening naar kostendragers bevat van de onderdelen genoemd in het eerste lid ook de ramingen uit de begroting en de begroting na wijziging.
+2. De realisatie van belastingopbrengsten bevat van de onderdelen, genoemd in het eerste lid, ook de ramingen uit de begroting en de begroting na wijziging.
+
+#### § 3. De begroting en de toelichting
+
+##### Artikel 4.27
+
+De toelichting op de realisatie van belastingopbrengsten, bedoeld in [artikel 4.24, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.1&artikel=4.24&z=2025-01-01&g=2025-01-01), bevat ten minste:
+
+- a. voor alle onderdelen van [artikel 4.26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.2&artikel=4.26&z=2025-01-01&g=2025-01-01), een analyse van de afwijkingen tussen de realisatie en de begroting.
+
+- b. de verantwoording met betrekking tot alle onderdelen als bedoeld in [artikel 4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=3&sub-paragraaf=3.2&artikel=4.12&z=2025-01-01&g=2025-01-01).
+
+##### Artikel 4.28
+
+1. Het jaarverslag bevat de paragrafen die ingevolge [artikel 4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=3&sub-paragraaf=3.2&artikel=4.13&z=2025-01-01&g=2025-01-01) in de begroting zijn opgenomen. Ze bevatten de verantwoording van hetgeen in de overeenkomstige paragrafen in de begroting is opgenomen.
+
+2. Bij ministeriële regeling worden nadere regels gesteld over de wijze waarop de kengetallen, genoemd in [artikel 4.14, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=3&sub-paragraaf=3.2&artikel=4.14&z=2025-01-01&g=2025-01-01), door waterschappen worden berekend en in het jaarverslag worden opgenomen.
+
+##### Artikel 4.29
+
+1. Het overzicht van baten en lasten, bedoeld in [artikel 4.24, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.1&artikel=4.24&z=2025-01-01&g=2025-01-01), in de jaarrekening bevat:
+
+- a. per programma of per programmaonderdeel de gerealiseerde baten en lasten en het saldo daarvan;
+
+- b. het overzicht van de gerealiseerde dekkingsmiddelen en het bedrag van de heffing voor de vennootschapsbelasting;
+
+- c. het gerealiseerde totaal saldo van baten en lasten, volgend uit de onderdelen a en b; d. de werkelijke toevoegingen en onttrekkingen aan reserves per programma;
+
+- e. het gerealiseerde resultaat, volgend uit de onderdelen c en d.
+
+2. Het overzicht van baten en lasten in de jaarrekening bevat van de onderdelen genoemd in het eerste lid ook de ramingen uit de begroting voor en na wijziging.
+
+##### Artikel 4.30
+
+De toelichting op het overzicht van baten en lasten in de jaarrekening, bedoeld in [artikel 4.24, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.1&artikel=4.24&z=2025-01-01&g=2025-01-01), bevat ten minste:
+
+- a. voor alle onderdelen als bedoeld in [artikel 4.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&artikel=4.29&z=2025-01-01&g=2025-01-01), een analyse van de afwijkingen tussen de begroting na wijziging en de jaarstukken;
+
+- b. een overzicht van de aanwending van het bedrag voor onvoorzien;
+
+- c. een overzicht van de incidentele baten en lasten per programma, waarbij per programma ten minste de belangrijkste posten afzonderlijk worden gespecificeerd en de overige posten als een totaalbedrag kunnen worden opgenomen;
+
+- d. een overzicht van de structurele toevoegingen en onttrekkingen aan de reserves;
+
+- e. de informatie, bedoeld in de [artikelen 4.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=4.1), en [4.2, eerste tot en met derde lid, van de Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=4.2).
+
+##### Artikel 4.31
+
+1. Het overzicht van gerealiseerde investeringen en de toelichting, bedoeld in [artikel 4.24, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.1&artikel=4.24&z=2025-01-01&g=2025-01-01), geeft de realisatie van de investeringen in het begrotingsjaar weer.
+
+2. De toelichting op het overzicht van de investeringen bevat een totaaloverzicht van alle werken die aan het begin van het begrotingsjaar onderhanden waren en die in de loop van het jaar zijn gestart. Voor de werken die aan het einde van het begrotingsjaar nog een restantkrediet hadden, worden de verwachtingen weergegeven over het vervolg van deze werken.
+
+##### Artikel 4.32
+
+De jaarstukken worden vastgesteld met inachtneming van hetgeen omtrent de financiële positie op de balansdatum is gebleken tussen het moment van opmaken van de verslaggeving en het tijdstip van vaststelling daarvan, voor zover deze aanvullende informatie onontbeerlijk is voor het in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=1&artikel=4.3&z=2025-01-01&g=2025-01-01) bedoelde inzicht.
 
 ##### Artikel 4.33
 
-De toelichting op de exploitatierekening naar kostendragers bevat ten minste voor alle onderdelen van [artikel 4.32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=4&artikel=4.32&z=2025-01-01&g=2024-01-01 jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&artikel=4.32&z=2025-01-01&g=2024-01-01), een analyse van de afwijkingen tussen de exploitatierekening en de begroting.
+Bij ministeriële regeling kunnen nadere regels worden gesteld ten aanzien van de inrichting van de jaarrekening en de toelichting.
 
 ##### Artikel 4.34
 
-Van de lasten en baten die in de exploitatierekening naar kosten- en opbrengstsoorten worden opgenomen, worden ook de ramingen uit de begroting en de begroting na wijziging vermeld.
+1. In de balans, bedoeld in [artikel 4.24, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.1&artikel=4.24&z=2025-01-01&g=2025-01-01), worden naast de cijfers per balansdatum tevens de cijfers van de balans van het vorig begrotingsjaar opgenomen.
+
+2. Bij ministeriële regeling kunnen nadere regels worden gesteld ten aanzien van de balans, de posten en de toelichting.
 
 ##### Artikel 4.35
 
-Bij ministeriële regeling kunnen nadere regels worden gesteld ten aanzien van de inrichting van de jaarverslaggeving en de toelichting.
+Op de balans worden de activa onderscheiden in vaste en vlottende activa, al naar gelang zij zijn bestemd om de uitoefening van de werkzaamheid van het waterschap al dan niet duurzaam te dienen.
 
 #### § 5. De balans en de toelichting
 
@@ -1444,13 +1616,13 @@ In de toelichting op de balans worden de netto-vlottende schulden afzonderlijk g
 
 ##### Artikel 4.58
 
-1. In de toelichting op de balans, bedoeld in [artikel 4.24, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=3&artikel=4.24&z=2025-01-01&g=2024-01-01 jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.1&artikel=4.24&z=2025-01-01&g=2024-01-01), wordt van iedere balanspost vermeld welke waarderingsgrondslag is gehanteerd.
+1. In de toelichting op de balans, bedoeld in [artikel 4.24, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.1&artikel=4.24&z=2025-01-01&g=2025-01-01), wordt van iedere balanspost vermeld welke waarderingsgrondslag is gehanteerd.
 
 2. Indien in de loop van het begrotingsjaar wijzigingen zijn aangebracht in de methoden en termijnen volgens welke de afschrijvingen worden berekend, wordt in de toelichting vermeld welke wijzigingen het hier betreft en wordt ingegaan op de redenen die tot wijziging hebben geleid.
 
 ##### Artikel 4.59
 
-De aard en omvang van de aangebrachte dan wel geraamde waardeverminderingen van de leningen en vorderingen, bedoeld in [artikel 4.69, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.69&z=2025-01-01&g=2024-01-01 jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=7&artikel=4.69&z=2025-01-01&g=2024-01-01), van de vaste activa, bedoeld in [artikel 4.71, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.71&z=2025-01-01&g=2024-01-01 jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=7&artikel=4.71&z=2025-01-01&g=2024-01-01), en van de voorraden en deelnemingen, bedoeld in artikel 4.71, tweede lid, worden in de toelichting op de balans opgenomen.
+De aard en omvang van de aangebrachte dan wel geraamde waardeverminderingen van de leningen en vorderingen, bedoeld in [artikel 4.69, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.69&z=2025-01-01&g=2025-01-01), van de vaste activa, bedoeld in [artikel 4.71, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.71&z=2025-01-01&g=2025-01-01), en van de voorraden en deelnemingen, bedoeld in artikel 4.71, tweede lid, worden in de toelichting op de balans opgenomen.
 
 ##### Artikel 4.60
 
@@ -1466,7 +1638,7 @@ In de toelichting op de balans wordt vermeld:
 
 - a. de niet in de balans opgenomen belangrijke financiële verplichtingen waaraan het waterschap voor toekomstige jaren is verbonden,
 
-- b. indien een waterschap financiële derivaten hanteert anders dan beschreven in [artikel 4.53, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.4&sub-paragraaf=4.4.2&artikel=4.53&z=2025-01-01&g=2024-01-01 jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.53&z=2025-01-01&g=2024-01-01), per derivaat:
+- b. indien een waterschap financiële derivaten hanteert anders dan beschreven in [artikel 4.53, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.4&sub-paragraaf=4.4.2&artikel=4.53&z=2025-01-01&g=2025-01-01), per derivaat:
 
 - 1°. de naam en rating van de financiële onderneming waarbij het derivaat is afgesloten, 2°. het type en de belangrijkste kenmerken van het derivaat en de hoogte en de looptijd van de financieringsbehoefte waaraan het derivaat kan worden toegerekend,
 
@@ -1474,7 +1646,7 @@ In de toelichting op de balans wordt vermeld:
 
 ##### Artikel 4.62
 
-1. In de toelichting op de balans worden de aard en reden van elke reserve als bedoeld in [artikel 4.50](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.4&sub-paragraaf=4.4.2&artikel=4.50&z=2025-01-01&g=2024-01-01 jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.50&z=2025-01-01&g=2024-01-01) en de toevoegingen en onttrekkingen daaraan toegelicht.
+1. In de toelichting op de balans worden de aard en reden van elke reserve als bedoeld in [artikel 4.50](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.4&sub-paragraaf=4.4.2&artikel=4.50&z=2025-01-01&g=2025-01-01) en de toevoegingen en onttrekkingen daaraan toegelicht.
 
 2. Per reserve wordt het verloop gedurende het jaar in een overzicht weergegeven, daaruit blijkt:
 
@@ -1492,7 +1664,7 @@ In de toelichting op de balans wordt vermeld:
 
 ##### Artikel 4.63
 
-1. In de toelichting op de balans worden de aard en reden van elke voorziening als bedoeld in [artikel 4.51](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.4&sub-paragraaf=4.4.2&artikel=4.51&z=2025-01-01&g=2024-01-01 jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.51&z=2025-01-01&g=2024-01-01) en de wijzigingen daarin toegelicht.
+1. In de toelichting op de balans worden de aard en reden van elke voorziening als bedoeld in [artikel 4.51](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.4&sub-paragraaf=4.4.2&artikel=4.51&z=2025-01-01&g=2025-01-01) en de wijzigingen daarin toegelicht.
 
 2. Per voorziening wordt het verloop gedurende het jaar in een overzicht weergegeven, daaruit blijkt:
 
@@ -1582,11 +1754,11 @@ Bijdragen aan activa in eigendom van derden kunnen worden geactiveerd indien:
 
 3. Op vaste activa met een beperkte gebruiksduur wordt jaarlijks afgeschreven volgens een stelsel dat is afgestemd op de verwachte toekomstige gebruiksduur.
 
-4. In afwijking van het derde lid is de afschrijvingsduur voor de immateriële vaste activa, bedoeld in [artikel 4.38, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.4&sub-paragraaf=4.4.1&artikel=4.38&z=2025-01-01&g=2024-01-01 jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.38&z=2025-01-01&g=2024-01-01), maximaal gelijk aan de looptijd van de lening.
+4. In afwijking van het derde lid is de afschrijvingsduur voor de immateriële vaste activa, bedoeld in [artikel 4.38, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.4&sub-paragraaf=4.4.1&artikel=4.38&z=2025-01-01&g=2025-01-01), maximaal gelijk aan de looptijd van de lening.
 
-5. In afwijking van het derde lid is de afschrijvingsduur voor de immateriële vaste activa, bedoeld in [artikel 4.38, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.4&sub-paragraaf=4.4.1&artikel=4.38&z=2025-01-01&g=2024-01-01 jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.38&z=2025-01-01&g=2024-01-01), ten hoogste vijf jaar.
+5. In afwijking van het derde lid is de afschrijvingsduur voor de immateriële vaste activa, bedoeld in [artikel 4.38, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.4&sub-paragraaf=4.4.1&artikel=4.38&z=2025-01-01&g=2025-01-01), ten hoogste vijf jaar.
 
-6. Voor bijdragen aan de activa in eigendom van derden, bedoeld in [artikel 4.38, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.4&sub-paragraaf=4.4.1&artikel=4.38&z=2025-01-01&g=2024-01-01 jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.38&z=2025-01-01&g=2024-01-01), is de afschrijvingsduur maximaal gelijk aan die van de activa waarvoor de bijdrage aan derden wordt verstrekt.
+6. Voor bijdragen aan de activa in eigendom van derden, bedoeld in [artikel 4.38, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.4&sub-paragraaf=4.4.1&artikel=4.38&z=2025-01-01&g=2025-01-01), is de afschrijvingsduur maximaal gelijk aan die van de activa waarvoor de bijdrage aan derden wordt verstrekt.
 
 ##### Artikel 4.71
 
@@ -1684,9 +1856,9 @@ Naast de kwantitatieve fouten en onzekerheden in de controle houdt de accountant
 
 ##### Artikel 5.4
 
-1. Voor de formulering van de goedkeurende accountantsverklaring hanteert de accountant het model zoals opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&bijlage=I&z=2025-01-01&g=2024-01-01) bij dit besluit.
+1. Voor de formulering van de goedkeurende accountantsverklaring hanteert de accountant het model zoals opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&bijlage=I&z=2025-01-01&g=2025-01-01) bij dit besluit.
 
-2. Voor de strekking van de accountantsverklaring hanteert de accountant de uitgangspunten en de tabel, zoals opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&bijlage=II&z=2025-01-01&g=2024-01-01) bij dit besluit.
+2. Voor de strekking van de accountantsverklaring hanteert de accountant de uitgangspunten en de tabel, zoals opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&bijlage=II&z=2025-01-01&g=2025-01-01) bij dit besluit.
 
 ##### Artikel 5.5
 
@@ -1736,9 +1908,9 @@ De waarde van de ongebouwde onroerende zaken, niet zijnde natuurterreinen, is de
 
 ##### Artikel 6.4
 
-1. De waarde van elk van de categorieën ongebouwde zaken, bedoeld in [artikel 6.3, onderdelen a en c tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2025-01-01&g=2024-01-01), is het product van de oppervlakte in hectaren en de gemiddelde waarde per hectare van de desbetreffende categorie ongebouwde zaken binnen het gebied van het waterschap.
+1. De waarde van elk van de categorieën ongebouwde zaken, bedoeld in [artikel 6.3, onderdelen a en c tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2025-01-01&g=2025-01-01), is het product van de oppervlakte in hectaren en de gemiddelde waarde per hectare van de desbetreffende categorie ongebouwde zaken binnen het gebied van het waterschap.
 
-2. De waarde van de categorie ongebouwde zaken, bedoeld in [artikel 6.3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2025-01-01&g=2024-01-01), is het product van de oppervlakte in hectaren en het gewogen gemiddelde van de waarden per hectare van de:
+2. De waarde van de categorie ongebouwde zaken, bedoeld in [artikel 6.3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2025-01-01&g=2025-01-01), is het product van de oppervlakte in hectaren en het gewogen gemiddelde van de waarden per hectare van de:
 
 - a. autosnelwegen;
 
@@ -1758,9 +1930,9 @@ inclusief kunstwerken, binnen het gebied van het waterschap.
 
 ##### Artikel 6.6
 
-1. De gemiddelde waarde per hectare en de in aanmerking te nemen oppervlakte van de categorieën ongebouwde zaken, bedoeld in [artikel 6.3, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2025-01-01&g=2024-01-01), omvat de waarde en de oppervlakte van de kadastrale percelen waarin zij zijn gelegen, met uitzondering van de delen van die percelen die ingevolge de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108) worden aangemerkt als gebouwde onroerende zaken of als natuurterreinen of die niet dienstbaar zijn aan de verkeersfunctie van deze ongebouwde zaken.
+1. De gemiddelde waarde per hectare en de in aanmerking te nemen oppervlakte van de categorieën ongebouwde zaken, bedoeld in [artikel 6.3, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2025-01-01&g=2025-01-01), omvat de waarde en de oppervlakte van de kadastrale percelen waarin zij zijn gelegen, met uitzondering van de delen van die percelen die ingevolge de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108) worden aangemerkt als gebouwde onroerende zaken of als natuurterreinen of die niet dienstbaar zijn aan de verkeersfunctie van deze ongebouwde zaken.
 
-2. De waarde van elk van de categorieën ongebouwde zaken, bedoeld in [artikel 6.3, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2025-01-01&g=2024-01-01), en [artikel 6.4, tweede lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=1&artikel=6.4&z=2025-01-01&g=2024-01-01), wordt gesteld op 75% van de vervangingswaarde.
+2. De waarde van elk van de categorieën ongebouwde zaken, bedoeld in [artikel 6.3, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2025-01-01&g=2025-01-01), en [artikel 6.4, tweede lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=1&artikel=6.4&z=2025-01-01&g=2025-01-01), wordt gesteld op 75% van de vervangingswaarde.
 
 ##### Artikel 6.7
 
@@ -1768,7 +1940,7 @@ De gemiddelde waarde per hectare van bouwpercelen wordt bepaald op basis van de 
 
 ##### Artikel 6.8
 
-De gemiddelde waarde per hectare van de ongebouwde onroerende zaken, bedoeld in [artikel 6.3, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2025-01-01&g=2024-01-01), wordt gesteld op de gemiddelde waarde per hectare van de agrarische gronden binnen het gebied van het waterschap.
+De gemiddelde waarde per hectare van de ongebouwde onroerende zaken, bedoeld in [artikel 6.3, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2025-01-01&g=2025-01-01), wordt gesteld op de gemiddelde waarde per hectare van de agrarische gronden binnen het gebied van het waterschap.
 
 ##### Artikel 6.9
 
@@ -1818,7 +1990,7 @@ In deze paragraaf wordt verstaan onder:
 
 - a. de heffingplichtige op wie [artikel 122k van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=122k) of [artikel 7.5, vijfde lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.5) in samenhang met dat artikel van toepassing is.
 
-- b. de heffingplichtige op wie [artikel 6.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=2&artikel=6.12&z=2025-01-01&g=2024-01-01), van dit besluit of [7.5, tweede lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.5) van toepassing is.
+- b. de heffingplichtige op wie [artikel 6.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=2&artikel=6.12&z=2025-01-01&g=2025-01-01), van dit besluit of [7.5, tweede lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.5) van toepassing is.
 
 2. De in het eerste lid bedoelde administratieplichtige is verplicht de gegevensdragers, die op basis van het eerste lid tot zijn administratie dienen te behoren, gedurende zeven jaren te bewaren.
 
@@ -1826,7 +1998,7 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 6.15
 
-De in [artikel 6.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=3&artikel=6.14&z=2025-01-01&g=2024-01-01), bedoelde administratieplichtige die niet of niet volledig voldoet aan de vordering van de inspecteur om de in [artikel 6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=3&artikel=6.14&z=2025-01-01&g=2024-01-01) bedoelde gegevensdragers of de inhoud daarvan voor raadpleging beschikbaar te stellen, wordt voor de toepassing van [artikel 25, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=25), en [artikel 27e, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=27e) geacht niet volledig te hebben voldaan aan de verplichting ingevolge [artikel 52 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=52), tenzij aannemelijk is dat het niet, dan wel niet volledig voldoen aan de vordering van de inspecteur het gevolg is van overmacht.
+De in [artikel 6.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=3&artikel=6.14&z=2025-01-01&g=2025-01-01), bedoelde administratieplichtige die niet of niet volledig voldoet aan de vordering van de inspecteur om de in [artikel 6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=6&paragraaf=3&artikel=6.14&z=2025-01-01&g=2025-01-01) bedoelde gegevensdragers of de inhoud daarvan voor raadpleging beschikbaar te stellen, wordt voor de toepassing van [artikel 25, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=25), en [artikel 27e, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=27e) geacht niet volledig te hebben voldaan aan de verplichting ingevolge [artikel 52 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=52), tenzij aannemelijk is dat het niet, dan wel niet volledig voldoen aan de vordering van de inspecteur het gevolg is van overmacht.
 
 ##### Artikel 6.16
 
@@ -1878,9 +2050,9 @@ Het [Besluit administratieve verplichtingen waterschapsbelastingen](https://wett
 
 ##### Artikel 7.6
 
-1. In afwijking van [artikel 4.66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.66&z=2025-01-01&g=2024-01-01 jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=6&artikel=4.66&z=2025-01-01&g=2024-01-01), worden activa, die op 31 december 2008 tegen actuele waarde zijn gewaardeerd, volgens de op dat moment aanwezige boekwaarde gedurende de nog resterende afschrijvingsperiode afgeschreven. Gevormde herwaarderingsreserves dienen op de boekwaarde in mindering te worden gebracht.
+1. In afwijking van [artikel 4.69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.69&z=2025-01-01&g=2025-01-01), met inachtneming van [artikel 4.68, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.68&z=2025-01-01&g=2025-01-01) worden activa, die op 31 december 2008 tegen actuele waarde zijn gewaardeerd, volgens de op dat moment aanwezige boekwaarde gedurende de nog resterende afschrijvingsperiode afgeschreven. Gevormde herwaarderingsreserves dienen op de boekwaarde in mindering te worden gebracht.
 
-2. In afwijking van [artikel 4.65, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.65&z=2025-01-01&g=2024-01-01 jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=6&artikel=4.65&z=2025-01-01&g=2024-01-01), worden alle activa waar voor 1 januari 2009 reserves op in mindering zijn gebracht op de waarde volgens de op 31 december 2008 aanwezige boekwaarde gedurende de nog resterende afschrijvingsperiode afgeschreven.
+2. In afwijking van [artikel 4.68, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.68&z=2025-01-01&g=2025-01-01), worden alle activa waar voor 1 januari 2009 reserves op in mindering zijn gebracht op de waarde volgens de op 31 december 2008 aanwezige boekwaarde gedurende de nog resterende afschrijvingsperiode afgeschreven.
 
 #### § 1. Intrekking van andere regelingen
 
@@ -2047,11 +2219,11 @@ Vervallen
 
 #### § 1. Kostendelen
 
-### Hoofdstuk 7. Overgangsbepalingen en slotbepalingen
+### Hoofdstuk 5. De accountantscontrole
 
 #### § 3. Administratieve verplichtingen waterschapsbelastingen
 
-#### § 3. Administratieve verplichtingen waterschapsbelastingen
+#### § 1. Kostendelen
 
 #### § 3. Slotbepalingen
 
@@ -2156,7 +2328,7 @@ Vervallen
 
 #### § 1. Kostendelen
 
-#### § 3. Administratieve verplichtingen waterschapsbelastingen
+#### § 7. Informatie voor derden
 
 ### Hoofdstuk 7. Overgangsbepalingen en slotbepalingen
 
@@ -2241,7 +2413,7 @@ Vervallen
 
 #### § 4. De jaarverslaggeving en de toelichting
 
-#### § 5. De balans en de toelichting
+#### § 4. De jaarstukken en de toelichting
 
 #### § 6. Waardering, activeren en afschrijven
 
@@ -2255,9 +2427,9 @@ Vervallen
 
 #### § 8. Informatieverstrekking aan derden
 
-#### § 1. Kostendelen
+#### § 7. Informatie voor derden
 
-#### § 2. Meting, bemonstering en analyse zuiveringsheffing
+#### § 8. Commissie Besluit begroting verantwoording provincies en gemeenten
 
 ### Hoofdstuk 7. Overgangsbepalingen en slotbepalingen
 
@@ -2320,19 +2492,19 @@ Vervallen
 
 #### § 1. Kostendelen
 
-### Hoofdstuk 7. Overgangsbepalingen en slotbepalingen
+### Hoofdstuk 6. De waterschapsbelastingen
 
 ##### Artikel 7.6a
 
-1. In afwijking van de [artikelen 4.38](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.4&sub-paragraaf=4.4.1&artikel=4.38&z=2025-01-01&g=2024-01-01 jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.38&z=2025-01-01&g=2024-01-01) en [4.39](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.4&sub-paragraaf=4.4.1&artikel=4.39&z=2025-01-01&g=2024-01-01 jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.39&z=2025-01-01&g=2024-01-01) mogen de [artikelen 4.41](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.4&sub-paragraaf=4.4.1&artikel=4.41&z=2025-01-01&g=2024-01-01 jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.41&z=2025-01-01&g=2024-01-01) en [4.42](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.4&sub-paragraaf=4.4.1&artikel=4.42&z=2025-01-01&g=2024-01-01 jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=5&artikel=4.42&z=2025-01-01&g=2024-01-01) zoals die luidden op de dag voor de datum van inwerkingtreding van artikel I, onderdeel B, van het Besluit van 8 november 2023 houdende wijziging van het Waterschapsbesluit in verband met het actualiseren van de regels over beleidsvoorbereiding en verantwoording en de verdere uitwerking van de rechtmatigheidsverantwoording voor waterschappen (Stb. 2023, 424), worden toegepast gedurende maximaal vijf jaar na inwerkingtreding van voornoemd besluit.
+1. In afwijking van de [artikelen 4.38](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.4&sub-paragraaf=4.4.1&artikel=4.38&z=2025-01-01&g=2025-01-01) en [4.39](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.4&sub-paragraaf=4.4.1&artikel=4.39&z=2025-01-01&g=2025-01-01) mogen de [artikelen 4.41](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.4&sub-paragraaf=4.4.1&artikel=4.41&z=2025-01-01&g=2025-01-01) en [4.42](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.4&sub-paragraaf=4.4.1&artikel=4.42&z=2025-01-01&g=2025-01-01) zoals die luidden op de dag voor de datum van inwerkingtreding van artikel I, onderdeel B, van het Besluit van 8 november 2023 houdende wijziging van het Waterschapsbesluit in verband met het actualiseren van de regels over beleidsvoorbereiding en verantwoording en de verdere uitwerking van de rechtmatigheidsverantwoording voor waterschappen (Stb. 2023, 424), worden toegepast gedurende maximaal vijf jaar na inwerkingtreding van voornoemd besluit.
 
-2. In afwijking van [artikel 4.74, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=6&artikel=4.74&z=2025-01-01&g=2024-01-01 jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=8&artikel=4.74&z=2025-01-01&g=2024-01-01), mogen de gerealiseerde bedragen van het voorvorig begrotingsjaar, vóór het begrotingsjaar waarop dit besluit voor het eerst van toepassing is, volgens de regels zoals die luiden op de dag voor de datum van inwerkingtreding van het Besluit van 8 november 2023 houdende wijziging van het Waterschapsbesluit in verband met het actualiseren van de regels over beleidsvoorbereiding en verantwoording en de verdere uitwerking van de rechtmatigheidsverantwoording voor waterschappen (Stb. 2023, 424) in de begroting en de jaarrekening worden opgenomen.
+2. In afwijking van [artikel 4.74, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=6&artikel=4.74&z=2025-01-01&g=2025-01-01), mogen de gerealiseerde bedragen van het voorvorig begrotingsjaar, vóór het begrotingsjaar waarop dit besluit voor het eerst van toepassing is, volgens de regels zoals die luiden op de dag voor de datum van inwerkingtreding van het Besluit van 8 november 2023 houdende wijziging van het Waterschapsbesluit in verband met het actualiseren van de regels over beleidsvoorbereiding en verantwoording en de verdere uitwerking van de rechtmatigheidsverantwoording voor waterschappen (Stb. 2023, 424) in de begroting en de jaarrekening worden opgenomen.
 
 ##### Artikel 7.6b
 
-1. De [artikelen 3.21](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.21&z=2025-01-01&g=2024-01-01), [3.29](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.29&z=2025-01-01&g=2024-01-01) en [3.30](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.30&z=2025-01-01&g=2024-01-01), zoals deze luidden op de dag voor de datum van inwerkingtreding van [artikel VII, onderdelen D en G, van het Besluit wijziging van de rechtspositiebesluiten decentrale politieke ambtsdragers 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0029407&artikel=VII), blijven van toepassing op de voorzitter die voor de datum van inwerkingtreding van dit besluit ingevolge [artikel 3.31](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.31&z=2025-01-01&g=2024-01-01) kennis heeft gegeven aan het dagelijks bestuur dat hij wegens ziekte zijn ambt niet kan vervullen.
+1. De [artikelen 3.21](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.21&z=2025-01-01&g=2025-01-01), [3.29](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.29&z=2025-01-01&g=2025-01-01) en [3.30](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.30&z=2025-01-01&g=2025-01-01), zoals deze luidden op de dag voor de datum van inwerkingtreding van [artikel VII, onderdelen D en G, van het Besluit wijziging van de rechtspositiebesluiten decentrale politieke ambtsdragers 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0029407&artikel=VII), blijven van toepassing op de voorzitter die voor de datum van inwerkingtreding van dit besluit ingevolge [artikel 3.31](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.31&z=2025-01-01&g=2025-01-01) kennis heeft gegeven aan het dagelijks bestuur dat hij wegens ziekte zijn ambt niet kan vervullen.
 
-2. De [artikelen 3.37](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.37&z=2025-01-01&g=2024-01-01) en [3.39](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.39&z=2025-01-01&g=2024-01-01), zoals deze luidden op de dag voor de datum van inwerkingtreding van [artikel VII, onderdeel K, van het Besluit wijziging van de rechtspositiebesluiten decentrale politieke ambtsdragers 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0029407&artikel=VII), blijven van toepassing op de voormalig voorzitter van wie het ontslag is ingegaan voor 27 februari 2010.
+2. De [artikelen 3.37](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.37&z=2025-01-01&g=2025-01-01) en [3.39](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=3&paragraaf=4&artikel=3.39&z=2025-01-01&g=2025-01-01), zoals deze luidden op de dag voor de datum van inwerkingtreding van [artikel VII, onderdeel K, van het Besluit wijziging van de rechtspositiebesluiten decentrale politieke ambtsdragers 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0029407&artikel=VII), blijven van toepassing op de voormalig voorzitter van wie het ontslag is ingegaan voor 27 februari 2010.
 
 #### § 1. Intrekking van andere regelingen
 
@@ -2348,9 +2520,9 @@ Deze verantwoordelijkheid omvat onder meer: het ontwerpen, invoeren en in stand 
 
 Wij zijn van mening dat de door ons verkregen controle-informatie voldoende en geschikt is als basis voor ons oordeel
 
-Onze verantwoordelijkheid is het geven van een oordeel over de jaarrekening op basis van onze controle, als bedoeld in [artikel 109, tweede lid, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=109). Wij hebben onze controle verricht in overeenstemming met Nederlands recht, waaronder [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&z=2019-03-28&g=2024-01-01) van het Waterschapsbesluit. 3Indien van toepassing ook verwijzen naar het door het waterschap opgestelde controleprotocol. Dienovereenkomstig zijn wij verplicht te voldoen aan de voor ons geldende gedragsnormen en zijn wij gehouden onze controle zodanig te plannen en uit te voeren dat een redelijke mate van zekerheid wordt verkregen dat de jaarrekening geen afwijkingen van materieel belang bevat.
+In [artikel 109, derde lid, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=109) zijn de elementen opgenomen, die de accountant in de accountantsverklaring moet opnemen.
 
-Een controle omvat het uitvoeren van werkzaamheden ter verkrijging van controle-informatie over de bedragen en de toelichtingen in de jaarrekening. De keuze van de uit te voeren werkzaamheden is afhankelijk van de professionele oordeelsvorming van de accountant, waaronder begrepen zijn beoordeling van de risico´s van afwijkingen van materieel belang als gevolg van fraude of fouten. In die beoordeling neemt de accountant in aanmerking het voor het opmaken van en getrouw weergeven in de jaarrekening van zowel de baten en lasten als de activa en passiva, alsmede het voor de naleving van de wet- en regelgeving relevante interne beheersingssysteem, teneinde een verantwoorde keuze te kunnen maken van de controlewerkzaamheden die onder de gegeven omstandigheden adequaat zijn, maar die niet tot doel hebben een oordeel te geven over de effectiviteit van het interne beheersingssysteem van het waterschap. Tevens omvat een controle onder meer een evaluatie van de aanvaardbaarheid van de toegepaste grondslagen voor financiële verslaggeving, van de redelijkheid van schattingen die het dagelijks bestuur van het waterschap heeft gemaakt, en een evaluatie van het algehele beeld van de jaarrekening.
+In geval van een goedkeuring van de jaarrekening (goedkeurend getrouwheidsconclusie en geen materiële onrechtmatigheden en/of onzekerheden over de rechtmatigheid; fout ≤ 1%; onzekerheid ≤ 3%) dient bij het opstellen van de accountantsverklaring de volgende tekst te worden aangehouden door de accountant.
 
 ## Bijlage II. goedkeuringstoleranties en strekking accountantsverklaringen, bedoeld in [artikel 5.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=5&artikel=5.4&z=2013-01-01&g=2013-01-01), van het Waterschapsbesluit
 
@@ -2395,7 +2567,7 @@ Vervallen
 
 #### § 1. Intrekking van andere regelingen
 
-#### § 3. Slotbepalingen
+#### § 2. Meting, bemonstering en analyse zuiveringsheffing
 
 ## Bijlage I. model goedkeurende accountantsverklaring, bedoeld in [artikel 5.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=5&artikel=5.4&z=2014-01-06&g=2014-01-06), van het Waterschapsbesluit
 
@@ -2405,7 +2577,7 @@ Vervallen
 
 ### Verklaring betreffende andere wettelijke voorschriften en/of voorschriften van regelgevende instanties
 
-De bij onze controle toegepaste goedkeuringstolerantie bedraagt voor fouten ...% en voor onzekerheden ...% van de totale bruto-lasten. Deze goedkeuringstolerantie is door het algemeen bestuur bij besluit van .............. (datum, nummer) vastgesteld.
+Aan: Opdrachtgever
 
 ## Bijlage II. goedkeuringstoleranties en strekking accountantsverklaringen, bedoeld in [artikel 5.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=5&artikel=5.4&z=2014-01-06&g=2014-01-06), van het Waterschapsbesluit
 
@@ -2454,17 +2626,17 @@ Vervallen
 
 #### § 6. Waardering, activeren en afschrijven
 
-#### § 8. Informatieverstrekking aan derden
+#### § 5. Waardering, activeren en afschrijven
 
 ### Hoofdstuk 6. De waterschapsbelastingen
 
 #### § 2. Meting, bemonstering en analyse zuiveringsheffing
 
-#### § 3. Administratieve verplichtingen waterschapsbelastingen
+#### § 1. Kostendelen
 
 ### Hoofdstuk 7. Overgangsbepalingen en slotbepalingen
 
-#### § 2. Overgangsbepalingen
+#### § 2. Meting, bemonstering en analyse zuiveringsheffing
 
 #### § 2. Overgangsbepalingen
 
@@ -2476,15 +2648,15 @@ Vervallen
 
 ### **Oordeel**
 
-### Verklaring betreffende andere wettelijke voorschriften en/of voorschriften van regelgevende instanties
+### Accountantsverklaring
 
 Op grond van de wettelijke verplichting ingevolge [artikel 109, derde lid, onderdeel d, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=109) melden wij dat het jaarverslag, voor zover wij dat kunnen beoordelen, verenigbaar is met de jaarrekening.
 
-Naar ons oordeel geeft de jaarrekening van waterschap .............. (naam waterschap) een getrouw beeld van de grootte en de samenstelling van zowel de baten en lasten over .... (jaartal) als van de activa en passiva per 31 december ... (jaartal) in overeenstemming is met [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&z=2019-03-28&g=2024-01-01) van het Waterschapsbesluit.
+Wij hebben de (in dit rapport/verslag opgenomen 1Verwijzing kan geschieden met behulp van paginanummers.) jaarrekening.. (jaartal) van waterschap.. (naam waterschap), bestaande uit de balans per 31 december .... (jaartal) en de exploitatierekeningen naar programma´s, naar kostendragers en naar kosten- en opbrengstsoorten over .... (jaartal) met de toelichtingen 2De te noemen onderdelen van de jaarrekening moeten worden afgestemd op de inhoudsopgave van de jaarrekening., gecontroleerd.
 
-Voorts zijn wij van oordeel dat de in deze jaarrekening verantwoorde baten en lasten alsmede de balansmutaties rechtmatig tot stand zijn gekomen in overeenstemming met de begroting en de van toepassing zijnde wettelijke regelingen, waaronder verordeningen van het waterschap zelf.
+Wij hebben de (in dit rapport/verslag opgenomen 1Verwijzing kan geschieden met behulp van paginanummers.) jaarrekening.. (jaartal) van waterschap.. (naam waterschap), bestaande uit de balans per 31 december .... (jaartal) en de exploitatierekeningen naar programma´s, naar kostendragers en naar kosten- en opbrengstsoorten over .... (jaartal) met de toelichtingen 2De te noemen onderdelen van de jaarrekening moeten worden afgestemd op de inhoudsopgave van de jaarrekening., gecontroleerd.
 
-Naam externe accountant en ondertekening met die naam
+Het dagelijks bestuur van waterschap .... (naam waterschap) is verantwoordelijk voor het opmaken van de jaarrekening, alsmede voor het opstellen van het jaarverslag, beide in overeenstemming met [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&z=2025-01-01&g=2025-01-01) van het Waterschapsbesluit.
 
 ## Bijlage II. goedkeuringstoleranties en strekking accountantsverklaringen, bedoeld in [artikel 5.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=5&artikel=5.4&z=2014-07-01&g=2014-07-01), van het Waterschapsbesluit
 
@@ -2515,17 +2687,17 @@ Vervallen
 
 #### § 3. De begroting en de toelichting
 
-#### § 4. De jaarverslaggeving en de toelichting
+#### § 4. De jaarstukken en de toelichting
 
 #### § 5. De balans en de toelichting
 
-#### § 8. Informatieverstrekking aan derden
+#### § 5. Waardering, activeren en afschrijven
 
 ### Hoofdstuk 6. De waterschapsbelastingen
 
 ### Hoofdstuk 7. Overgangsbepalingen en slotbepalingen
 
-#### § 2. Overgangsbepalingen
+#### § 3. Administratieve verplichtingen waterschapsbelastingen
 
 #### § 3. Slotbepalingen
 
@@ -2537,11 +2709,11 @@ Vervallen
 
 ### **Oordeel**
 
-Wij zijn van mening dat de door ons verkregen controle-informatie voldoende en geschikt is als basis voor ons oordeel
+Aan: Opdrachtgever
 
-### **Oordeel**
+### Verklaring betreffende de jaarrekening
 
-Op grond van de wettelijke verplichting ingevolge [artikel 109, derde lid, onderdeel d, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=109) melden wij dat het jaarverslag, voor zover wij dat kunnen beoordelen, verenigbaar is met de jaarrekening.
+Deze houdt onder meer in dat de jaarrekening zowel de baten en lasten als de activa en passiva getrouw dient weer te geven en dat de in de jaarrekening verantwoorde baten, lasten en balansmutaties rechtmatig tot stand zijn gekomen. Rechtmatige totstandkoming betekent in overeenstemming met de begroting en met de van toepassing zijnde wettelijke regelingen waaronder verordeningen van het waterschap zelf.
 
 ## Bijlage II. goedkeuringstoleranties en strekking accountantsverklaringen, bedoeld in [artikel 5.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=5&artikel=5.4&z=2015-01-01&g=2015-01-01), van het Waterschapsbesluit
 
@@ -2580,19 +2752,19 @@ In de toelichting op de balans wordt vermeld:
 
 ### Hoofdstuk 7. Overgangsbepalingen en slotbepalingen
 
-#### § 3. Slotbepalingen
+#### § 1. Intrekking van andere regelingen
 
 ## Bijlage I. model goedkeurende accountantsverklaring, bedoeld in [artikel 5.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=5&artikel=5.4&z=2019-03-28&g=2024-01-01), van het Waterschapsbesluit
 
 ### **Verantwoordelijkheid van de accountant**
 
-### Verklaring betreffende andere wettelijke voorschriften en/of voorschriften van regelgevende instanties
+### **Verantwoordelijkheid van het dagelijks bestuur**
 
-Plaats, datum
+Deze verantwoordelijkheid omvat onder meer: het ontwerpen, invoeren en in stand houden van een intern beheersingssysteem relevant voor het opmaken van en getrouw weergeven in de jaarrekening van zowel de baten en lasten als de activa en passiva, zodanig dat deze geen afwijkingen van materieel belang als gevolg van fraude of fouten bevat en voor de naleving van de relevante wet- en regelgeving, het kiezen en toepassen van aanvaardbare grondslagen voor financiële verslaggeving en het maken van schattingen die onder de gegeven omstandigheden redelijk zijn.
 
-Naam accountantsorganisatie
+Deze verantwoordelijkheid omvat onder meer: het ontwerpen, invoeren en in stand houden van een intern beheersingssysteem relevant voor het opmaken van en getrouw weergeven in de jaarrekening van zowel de baten en lasten als de activa en passiva, zodanig dat deze geen afwijkingen van materieel belang als gevolg van fraude of fouten bevat en voor de naleving van de relevante wet- en regelgeving, het kiezen en toepassen van aanvaardbare grondslagen voor financiële verslaggeving en het maken van schattingen die onder de gegeven omstandigheden redelijk zijn.
 
-Naam externe accountant en ondertekening met die naam
+Onze verantwoordelijkheid is het geven van een oordeel over de jaarrekening op basis van onze controle, als bedoeld in [artikel 109, tweede lid, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=109). Wij hebben onze controle verricht in overeenstemming met Nederlands recht, waaronder [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&z=2025-01-01&g=2025-01-01) van het Waterschapsbesluit. 3Indien van toepassing ook verwijzen naar het door het waterschap opgestelde controleprotocol. Dienovereenkomstig zijn wij verplicht te voldoen aan de voor ons geldende gedragsnormen en zijn wij gehouden onze controle zodanig te plannen en uit te voeren dat een redelijke mate van zekerheid wordt verkregen dat de jaarrekening geen afwijkingen van materieel belang bevat.
 
 ## Bijlage II. goedkeuringstoleranties en strekking accountantsverklaringen, bedoeld in [artikel 5.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=5&artikel=5.4&z=2019-03-28&g=2024-01-01), van het Waterschapsbesluit
 
@@ -2639,7 +2811,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - d. de geprognosticeerde begin- en eindbalans van het begrotingsjaar.
 
-#### § 3.2. Beleidsbegroting
+#### § 4.1. Algemeen
 
 ##### Artikel 4.9
 
@@ -2927,7 +3099,7 @@ De geprognosticeerde balans, bedoeld in [artikel 4.8, derde lid, onderdeel d](ht
 
 - d. de rechtmatigheidsverantwoording.
 
-#### § 4.2. Jaarverslag
+#### § 4.4.2. Passiva
 
 ##### Artikel 4.25
 
@@ -3033,7 +3205,7 @@ De jaarstukken worden vastgesteld met inachtneming van hetgeen omtrent de financ
 
 Bij ministeriële regeling kunnen nadere regels worden gesteld ten aanzien van de inrichting van de jaarrekening en de toelichting.
 
-#### § 4.4. Balans
+#### § 4.4.3. Toelichting op de balans
 
 ##### Artikel 4.34
 
@@ -3723,5 +3895,143 @@ Als één der of beide goedkeuringstolerantie(s) worden overschreden zal geen go
 | Onzekerheden in de controle (% van bruto-lasten) | ≤ 3% | > 3% < 10% | ≥ 10% | – |
 
 Zoals in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=5&artikel=5.3&z=2025-01-01&g=2024-01-01) aangegeven, kan de accountant, op grond van zijn deskundigheid, ook besluiten dat er kwalitatieve gebreken zijn van dusdanige aard, dat de goedkeuring wordt onthouden.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+#### § 3.1. Algemeen
+
+#### § 3.2. Beleidsbegroting
+
+#### § 3.3. Financiële begroting
+
+#### § 4.1. Algemeen
+
+#### § 4.2. Jaarverslag
+
+#### § 4.3. Jaarrekening
+
+#### § 4.4. Balans
+
+#### § 4.4.1. Activa
+
+#### § 4.4.2. Passiva
+
+#### § 4.4.3. Toelichting op de balans
+
+#### § 4.4.4. Rechtmatigheidsverantwoording
+
+#### § 6. Uitvoeringsinformatie
+
+#### § 8. Commissie Besluit begroting verantwoording provincies en gemeenten
+
+### Hoofdstuk 5. De accountantscontrole
+
+### Hoofdstuk 6. De waterschapsbelastingen
+
+### Hoofdstuk 7. Overgangsbepalingen en slotbepalingen
+
+#### § 2. Overgangsbepalingen
+
+#### § 3. Slotbepalingen
+
+## Bijlage I. model goedkeurende accountantsverklaring, bedoeld in [artikel 5.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=5&artikel=5.4&z=2025-01-01&g=2025-01-01), van het Waterschapsbesluit
+
+### **Verantwoordelijkheid van het dagelijks bestuur**
+
+### **Verantwoordelijkheid van de accountant**
+
+Een controle omvat het uitvoeren van werkzaamheden ter verkrijging van controle-informatie over de bedragen en de toelichtingen in de jaarrekening. De keuze van de uit te voeren werkzaamheden is afhankelijk van de professionele oordeelsvorming van de accountant, waaronder begrepen zijn beoordeling van de risico´s van afwijkingen van materieel belang als gevolg van fraude of fouten. In die beoordeling neemt de accountant in aanmerking het voor het opmaken van en getrouw weergeven in de jaarrekening van zowel de baten en lasten als de activa en passiva, alsmede het voor de naleving van de wet- en regelgeving relevante interne beheersingssysteem, teneinde een verantwoorde keuze te kunnen maken van de controlewerkzaamheden die onder de gegeven omstandigheden adequaat zijn, maar die niet tot doel hebben een oordeel te geven over de effectiviteit van het interne beheersingssysteem van het waterschap. Tevens omvat een controle onder meer een evaluatie van de aanvaardbaarheid van de toegepaste grondslagen voor financiële verslaggeving, van de redelijkheid van schattingen die het dagelijks bestuur van het waterschap heeft gemaakt, en een evaluatie van het algehele beeld van de jaarrekening.
+
+De bij onze controle toegepaste goedkeuringstolerantie bedraagt voor fouten ...% en voor onzekerheden ...% van de totale bruto-lasten. Deze goedkeuringstolerantie is door het algemeen bestuur bij besluit van .............. (datum, nummer) vastgesteld.
+
+Wij zijn van mening dat de door ons verkregen controle-informatie voldoende en geschikt is als basis voor ons oordeel
+
+### **Oordeel**
+
+Naar ons oordeel geeft de jaarrekening van waterschap .............. (naam waterschap) een getrouw beeld van de grootte en de samenstelling van zowel de baten en lasten over .... (jaartal) als van de activa en passiva per 31 december ... (jaartal) in overeenstemming is met [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&z=2025-01-01&g=2025-01-01) van het Waterschapsbesluit.
+
+Voorts zijn wij van oordeel dat de in deze jaarrekening verantwoorde baten en lasten alsmede de balansmutaties rechtmatig tot stand zijn gekomen in overeenstemming met de begroting en de van toepassing zijnde wettelijke regelingen, waaronder verordeningen van het waterschap zelf.
+
+### Verklaring betreffende andere wettelijke voorschriften en/of voorschriften van regelgevende instanties
+
+Op grond van de wettelijke verplichting ingevolge [artikel 109, derde lid, onderdeel d, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=109) melden wij dat het jaarverslag, voor zover wij dat kunnen beoordelen, verenigbaar is met de jaarrekening.
+
+Plaats, datum
+
+Naam accountantsorganisatie
+
+Naam externe accountant en ondertekening met die naam
+
+## Bijlage II. goedkeuringstoleranties en strekking accountantsverklaringen, bedoeld in [artikel 5.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=5&artikel=5.4&z=2025-01-01&g=2025-01-01), van het Waterschapsbesluit
+
+Bij de oordeelsvorming over de jaarrekening spelen de goedkeuringstoleranties een belangrijke rol. De goedkeuringstoleranties zijn kwantitatieve criteria. Als de goedkeuringstoleranties niet worden overschreden, wordt in beginsel een goedkeurende accountantsverklaring afgegeven.
+
+Als één der of beide goedkeuringstolerantie(s) worden overschreden zal geen goedkeurende accountantsverklaring, maar één van de drie andere hieronder aangegeven oordelen, worden verstrekt door de accountant.
+
+|   | Goedkeurend | Met beperking | Oordeelonthouding | Afkeurend |
+| --- | --- | --- | --- | --- |
+| Fouten in de jaarrekening (% van bruto-lasten) | ≤ 1% | > 1% < 3% | – | ≥ 3% |
+| Onzekerheden in de controle (% van bruto-lasten) | ≤ 3% | > 3% < 10% | ≥ 10% | – |
+
+Zoals in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=5&artikel=5.3&z=2025-01-01&g=2025-01-01) aangegeven, kan de accountant, op grond van zijn deskundigheid, ook besluiten dat er kwalitatieve gebreken zijn van dusdanige aard, dat de goedkeuring wordt onthouden.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 4.17a
+
+De paragraaf betreffende openbaarheid, bedoeld in [artikel 4.13, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=4&paragraaf=3&sub-paragraaf=3.2&artikel=4.13&z=2025-04-17&g=2025-01-01), geeft ten minste inzicht in de beleidsvoornemens inzake de toepassing van de [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=3.1), [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=3.3), [3.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=3.3a) en [hoofdstuk 4 van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=4) en de wijze waarop toepassing is gegeven aan deze beleidsvoornemens.
+
+#### § 3.3. Financiële begroting
+
+#### § 4.2. Jaarverslag
+
+#### § 4.3. Jaarrekening
+
+#### § 4.4. Balans
+
+#### § 4.4.1. Activa
+
+#### § 4.4.4. Rechtmatigheidsverantwoording
+
+#### § 6. Uitvoeringsinformatie
+
+#### § 3. Administratieve verplichtingen waterschapsbelastingen
+
+### Hoofdstuk 7. Overgangsbepalingen en slotbepalingen
+
+#### § 1. Intrekking van andere regelingen
+
+#### § 2. Overgangsbepalingen
+
+#### § 3. Slotbepalingen
+
+## Bijlage I. model goedkeurende accountantsverklaring, bedoeld in [artikel 5.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=5&artikel=5.4&z=2025-04-17&g=2025-01-01), van het Waterschapsbesluit
+
+### Verklaring betreffende de jaarrekening
+
+### **Verantwoordelijkheid van de accountant**
+
+Wij zijn van mening dat de door ons verkregen controle-informatie voldoende en geschikt is als basis voor ons oordeel
+
+### **Oordeel**
+
+Voorts zijn wij van oordeel dat de in deze jaarrekening verantwoorde baten en lasten alsmede de balansmutaties rechtmatig tot stand zijn gekomen in overeenstemming met de begroting en de van toepassing zijnde wettelijke regelingen, waaronder verordeningen van het waterschap zelf.
+
+### Verklaring betreffende andere wettelijke voorschriften en/of voorschriften van regelgevende instanties
+
+Naam externe accountant en ondertekening met die naam
+
+## Bijlage II. goedkeuringstoleranties en strekking accountantsverklaringen, bedoeld in [artikel 5.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=5&artikel=5.4&z=2025-04-17&g=2025-01-01), van het Waterschapsbesluit
+
+Bij de oordeelsvorming over de jaarrekening spelen de goedkeuringstoleranties een belangrijke rol. De goedkeuringstoleranties zijn kwantitatieve criteria. Als de goedkeuringstoleranties niet worden overschreden, wordt in beginsel een goedkeurende accountantsverklaring afgegeven.
+
+Als één der of beide goedkeuringstolerantie(s) worden overschreden zal geen goedkeurende accountantsverklaring, maar één van de drie andere hieronder aangegeven oordelen, worden verstrekt door de accountant.
+
+|   | Goedkeurend | Met beperking | Oordeelonthouding | Afkeurend |
+| --- | --- | --- | --- | --- |
+| Fouten in de jaarrekening (% van bruto-lasten) | ≤ 1% | > 1% < 3% | – | ≥ 3% |
+| Onzekerheden in de controle (% van bruto-lasten) | ≤ 3% | > 3% < 10% | ≥ 10% | – |
+
+Zoals in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&hoofdstuk=5&artikel=5.3&z=2025-04-17&g=2025-01-01) aangegeven, kan de accountant, op grond van zijn deskundigheid, ook besluiten dat er kwalitatieve gebreken zijn van dusdanige aard, dat de goedkeuring wordt onthouden.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
