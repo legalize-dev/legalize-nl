@@ -4,7 +4,7 @@ identifier: "BWBR0045041"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2024-08-24"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045041"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ De [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c
 
 ##### Artikel 3. Doel van de aanvullende bekostiging
 
-De minister verstrekt aan het bevoegd gezag van een school in het kalenderjaar 2024 aanvullende bekostiging met als doel:
+De minister verstrekt aan het bevoegd gezag van een school in het kalenderjaar 2025 aanvullende bekostiging met als doel:
 
 - a. het verbeteren van strategisch personeelsbeleid, de begeleiding van startende leraren en schoolleiders; en
 
@@ -66,11 +66,11 @@ De minister verstrekt aan het bevoegd gezag van een school in het kalenderjaar 2
 
 ##### Artikel 4. Beschikbare middelen per leerling
 
-In 2024 ontvangt het bevoegd gezag van een school in het kader van deze regeling een bedrag van:
+In 2025 ontvangt het bevoegd gezag van een school in het kader van deze regeling een bedrag van:
 
-- a. € 109,75 per leerling voor het doel, als bedoeld in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045041&artikel=3&z=2024-08-24&g=2024-08-24); en
+- a. € 55,52 per leerling voor het doel, als bedoeld in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045041&artikel=3&z=2025-01-01&g=2025-01-01); en
 
-- b. € 24,73 per leerling voor het doel, als bedoeld in [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045041&artikel=3&z=2024-08-24&g=2024-08-24).
+- b. € 25,02 per leerling voor het doel, als bedoeld in [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045041&artikel=3&z=2025-01-01&g=2025-01-01).
 
 ##### Artikel 5. Beschikking en betaling
 
@@ -94,9 +94,9 @@ In 2024 ontvangt het bevoegd gezag van een school in het kader van deze regeling
 
 ##### Artikel 7. Monitor en evaluatie
 
-1. De minister monitort de voortgang op de doelen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045041&artikel=3&z=2024-08-24&g=2024-08-24), op landelijk niveau en voert een evaluatie uit.
+1. De minister monitort de voortgang op de doelen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045041&artikel=3&z=2025-01-01&g=2025-01-01), op landelijk niveau en voert een evaluatie uit.
 
-2. Ten behoeve van de in het eerste lid bedoelde monitor en evaluatie verstrekt de school desgevraagd een samenhangend overzicht van de door de school gepleegde inspanningen ten behoeve van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045041&artikel=3&z=2024-08-24&g=2024-08-24) bedoelde doelen.
+2. Ten behoeve van de in het eerste lid bedoelde monitor en evaluatie verstrekt de school desgevraagd een samenhangend overzicht van de door de school gepleegde inspanningen ten behoeve van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045041&artikel=3&z=2025-01-01&g=2025-01-01) bedoelde doelen.
 
 ##### Artikel 8. Inwerkingtreding
 
