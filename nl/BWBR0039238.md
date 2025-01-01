@@ -4,7 +4,7 @@ identifier: "BWBR0039238"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2024-07-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039238"
 soort: "ministeriele-regeling"
@@ -46,11 +46,11 @@ Besluit:
 
 Het bedrag, bedoeld in [artikel 14, eerste lid, van de Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459&artikel=14) en [artikel 17, eerste lid, van de Wet algemene weduwen- en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&artikel=17) bedraagt over een kalendermaand:
 
-- a. USD 149, indien rechthebbende ingezetene is in het openbaar lichaam Bonaire;
+- a. USD 153, indien rechthebbende ingezetene is in het openbaar lichaam Bonaire;
 
-- b. USD 149, indien rechthebbende ingezetene is in het openbaar lichaam Sint Eustatius;
+- b. USD 153, indien rechthebbende ingezetene is in het openbaar lichaam Sint Eustatius;
 
-- c. USD 149, indien rechthebbende ingezetene is in het openbaar lichaam Saba.
+- c. USD 152, indien rechthebbende ingezetene is in het openbaar lichaam Saba.
 
 ##### Artikel 2
 
