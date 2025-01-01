@@ -4,7 +4,7 @@ identifier: "BWBR0048412"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-01-01"
-last_updated: "2023-07-18"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048412"
 soort: "zbo"
@@ -44,29 +44,29 @@ Besluit:
 
 ##### Artikel 1. Vaststelling syllabi ten behoeve van het examenjaar 2025
 
-De syllabi voor de centrale examens in het vwo, havo en vmbo ten behoeve van het examenjaar 2025, worden vastgesteld dan wel nader vastgesteld voor de vakken als vermeld in [bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0048412&bijlage=1a&z=2023-07-18&g=2023-07-18), [1b](https://wetten.overheid.nl/jci1.3:c:BWBR0048412&bijlage=1b&z=2023-07-18&g=2023-07-18) en [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0048412&bijlage=1c&z=2023-07-18&g=2023-07-18) bij deze regeling.
+De syllabi voor de centrale examens in het vwo, havo en vmbo ten behoeve van het examenjaar 2025, worden vastgesteld dan wel nader vastgesteld voor de vakken als vermeld in [bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0048412&bijlage=1a&z=2025-01-01&g=2025-01-01), [1b](https://wetten.overheid.nl/jci1.3:c:BWBR0048412&bijlage=1b&z=2025-01-01&g=2025-01-01) en [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0048412&bijlage=1c&z=2025-01-01&g=2025-01-01) bij deze regeling.
 
 ##### Artikel 2. Nadere vaststelling van enkele eerder vastgestelde syllabi
 
-De syllabi voor de centrale examens in het vwo, havo en vmbo die bij de Regeling syllabi centrale examens vo 2024 zijn vastgesteld, worden nader vastgesteld voor de vakken als vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048412&bijlage=2&z=2023-07-18&g=2023-07-18) bij deze regeling.
+Vervallen
 
 ##### Artikel 3. Preliminaire vaststelling van syllabi ten behoeve van het examenjaar 2026
 
-De syllabi voor de centrale examens in het vwo ten behoeve van het examenjaar 2026 worden vastgesteld voor de vakken vermeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048412&bijlage=3&z=2023-07-18&g=2023-07-18) bij deze regeling.
+De syllabi voor de centrale examens in het vwo ten behoeve van het examenjaar 2026 worden vastgesteld voor de vakken vermeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048412&bijlage=3&z=2025-01-01&g=2025-01-01) bij deze regeling.
 
 ##### Artikel 4. Bekendmaking syllabi
 
-De syllabi, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048412&artikel=1&z=2023-07-18&g=2023-07-18) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0048412&artikel=2&z=2023-07-18&g=2023-07-18) worden bekendgemaakt op [www.examenblad.nl](onbekend).
+De syllabi, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048412&artikel=1&z=2025-01-01&g=2025-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0048412&artikel=2&z=2025-01-01&g=2025-01-01) worden bekendgemaakt op [www.examenblad.nl](http://www.examenblad.nl).
 
 ##### Artikel 5. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-2. [Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048412&artikel=1&z=2023-07-18&g=2023-07-18) en de daarbij behorende [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0048412&bijlage=1a&z=2023-07-18&g=2023-07-18) vervallen met ingang van 1 januari 2026.
+2. [Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048412&artikel=1&z=2025-01-01&g=2025-01-01) en de daarbij behorende [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0048412&bijlage=1a&z=2025-01-01&g=2025-01-01) vervallen met ingang van 1 januari 2026.
 
-3. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048412&artikel=2&z=2023-07-18&g=2023-07-18) en de daarbij behorende [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0048412&bijlage=2&z=2023-07-18&g=2023-07-18) vervallen met ingang van 1 januari 2025.
+3. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048412&artikel=2&z=2025-01-01&g=2025-01-01) en de daarbij behorende [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0048412&bijlage=2&z=2025-01-01&g=2025-01-01) vervallen met ingang van 1 januari 2025.
 
-4. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048412&artikel=3&z=2023-07-18&g=2023-07-18) en de daarbij behorende [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0048412&bijlage=3&z=2023-07-18&g=2023-07-18) vervallen met ingang van 1 januari 2027.
+4. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048412&artikel=3&z=2025-01-01&g=2025-01-01) en de daarbij behorende [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0048412&bijlage=3&z=2025-01-01&g=2025-01-01) vervallen met ingang van 1 januari 2027.
 
 ##### Artikel 6. Citeertitel
 
@@ -164,38 +164,7 @@ Voor de centrale examens vmbo 2025 worden syllabi voor de volgende vakken vastge
 
 ## Bijlage 2. Nadere vaststelling syllabi
 
-**(Bijlage als bedoeld in artikel 2)**
-
-De syllabi voor de centrale examens vwo die bij een eerdere Regeling syllabi centrale examens vo zijn vastgesteld, worden nader vastgesteld voor de volgende vakken:
-
-**Syllabi voor de centrale examens 2024:**
-
-| bedrijfseconomie |
-| --- |
-| filosofie |
-| natuurkunde |
-
-**Syllabi voor de centrale examens 2025:**
-
-| natuurkunde |
-| --- |
-
-De syllabi voor de centrale examens havo die bij een eerdere Regeling syllabi centrale examens vo zijn vastgesteld, worden nader vastgesteld voor de volgende vakken:
-
-**Syllabi voor de centrale examens 2024:**
-
-| bedrijfseconomie |
-| --- |
-| biologie |
-| natuurkunde |
-
-De syllabi voor de centrale examens vmbo die bij een eerdere Regeling syllabi centrale examens vo zijn vastgesteld, worden nader vastgesteld voor de volgende vakken:
-
-**Syllabi voor de centrale examens 2024:**
-
-| **profielvakken beroepsgericht:** |
-| --- |
-| bouwen, wonen en interieur |
+Vervallen
 
 ## Bijlage 3. Preliminaire vaststelling syllabi 2026
 
