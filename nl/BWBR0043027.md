@@ -4,7 +4,7 @@ identifier: "BWBR0043027"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-03"
-last_updated: "2024-11-28"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043027"
 soort: "ministeriele-regeling"
@@ -286,9 +286,9 @@ Het ministerie heeft een hoofdstructuur, bestaande uit de volgende dienstonderde
 
 ##### Artikel 11. Tijdelijke organisatieonderdelen
 
-1. Buiten de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2024-11-28&g=2024-11-28) kan de SG een tijdelijk directoraat-generaal voor grote projecten instellen.
+1. Buiten de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2025-02-11&g=2025-01-01) kan de SG een tijdelijk directoraat-generaal voor grote projecten instellen.
 
-2. Passend binnen de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2024-11-28&g=2024-11-28) kan de SG of de pSG tijdelijke organisatieonderdelen instellen.
+2. Passend binnen de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2025-02-11&g=2025-01-01) kan de SG of de pSG tijdelijke organisatieonderdelen instellen.
 
 3. De SG kan de directeuren-generaal Belastingdienst, Toeslagen en Douane ieder afzonderlijk toestemming verlenen om, met inachtneming van de structuur van respectievelijk het DGBD, het DGTSL en het DGD, en de taken genoemd in het [Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045076), tijdelijke organisatieonderdelen in te stellen.
 
@@ -430,7 +430,7 @@ De directie AFEP heeft de volgende hoofdtaken:
 
 - d. het bijdragen aan de rijksbrede strategische opdracht vanuit de categorieën waarvan het eigenaarschap is toebedeeld aan het Ministerie van Financiën.
 
-7. De directeur Bedrijfsvoering is tevens Coördinerend Directeur Inkoop (CDI) als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=7&z=2024-11-28&g=2024-11-28). Het afdelingshoofd CDI Office en Categoriemanagement is tevens plaatsvervangend CDI.
+7. De directeur Bedrijfsvoering is tevens Coördinerend Directeur Inkoop (CDI) als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=7&z=2025-02-11&g=2025-01-01). Het afdelingshoofd CDI Office en Categoriemanagement is tevens plaatsvervangend CDI.
 
 ##### Artikel 15. Het Beveiligingsambtenaar-Office (BVA-Office)
 
@@ -1406,9 +1406,9 @@ De SG, de DG’s en de IG leggen, aan het eind van het verslagjaar en tussentijd
 
 ##### Artikel 48. Organisatie- en formatierapport
 
-1. Elk onderdeel dat ressorteert onder de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2024-11-28&g=2024-11-28) genoemde dienstonderdelen ontwerpt en onderhoudt een organisatierapport en een formatierapport.
+1. Elk onderdeel dat ressorteert onder de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2025-02-11&g=2025-01-01) genoemde dienstonderdelen ontwerpt en onderhoudt een organisatierapport en een formatierapport.
 
-2. Voor zover een document als bedoeld in het eerste lid betrekking heeft op een dienstonderdeel, genoemd in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2024-11-28&g=2024-11-28), is de plaatsvervangend secretaris-generaal bevoegd het document namens de bewindspersoon vast te stellen.
+2. Voor zover een document als bedoeld in het eerste lid betrekking heeft op een dienstonderdeel, genoemd in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2025-02-11&g=2025-01-01), is de plaatsvervangend secretaris-generaal bevoegd het document namens de bewindspersoon vast te stellen.
 
 3. Voor zover een document als bedoeld in het eerste lid betrekking heeft op de IBTD is de IG bevoegd het document vast te stellen.
 
@@ -1464,7 +1464,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 9. Verantwoording
 
-### Hoofdstuk 9. Verantwoording
+### Hoofdstuk 8B. Het bureau van de belangenbehartiger voor belastingplichtigen en toeslaggerechtigden
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -1580,7 +1580,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 8A. Inspectie belastingen, toeslagen en douane
 
-### Hoofdstuk 10. Overige bepalingen
+### Hoofdstuk 9. Verantwoording
 
 ### Hoofdstuk 11. Slotbepalingen
 
@@ -1590,7 +1590,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. De concerndirectie Informatievoorziening en Openbaarmaking heeft de volgende taken:
 
-- a. het uitvoeren van de taken van de dCIO conform [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=6&z=2024-11-28&g=2024-11-28) van dit besluit;
+- a. het uitvoeren van de taken van de dCIO conform [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=6&z=2025-02-11&g=2025-01-01) van dit besluit;
 
 - b. invulling geven aan de rol van de CIO van het kernministerie en [artikel 5, derde lid, van de Regeling Informatiehuishouding Financiën 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046157&artikel=5);
 
@@ -1665,6 +1665,40 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 #### Paragraaf 4.3. Rijksbrede organisatieonderdelen SG-cluster
 
 ### Hoofdstuk 7. Directoraat-generaal rijksbegroting
+
+### Hoofdstuk 11. Slotbepalingen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 41d. Structuur bureau BBT
+
+1. Het bureau BBT staat onder leiding van de belangenbehartiger voor belastingplichtigen en toeslaggerechtigden (BBT).
+
+2. Het bureau BBT bestaat uit de volgende organisatieonderdelen:
+
+- a. de afdeling Triage en Relatiebeheer;
+
+- b. de afdeling Casusbehandeling;
+
+- c. de afdeling Strategie, Communicatie en Onderzoek.
+
+3. Het bureau BBT ressorteert rechtstreeks onder de SG. De BBT kan over algemene bevindingen rechtstreeks rapporteren aan de bewindspersoon.
+
+##### Artikel 41e. Taken bureau BBT
+
+Het bureau BBT heeft de volgende taken:
+
+- a. het doorgeleiden van aangedragen individuele casuïstiek naar het best passende kanaal voor hulp en ondersteuning binnen en buiten het directoraat-generaal Belastingdienst en het directoraat-generaal Toeslagen;
+
+- b. het adviseren over aangedragen individuele casuïstiek van een belanghebbende;
+
+- c. het verzamelen van algemene signalen over aangedragen individuele casuïstiek en het delen van die signalen met de bewindspersoon, de IBTD en met een of beide Kamers der Staten-Generaal.
+
+##### Artikel 41f. Nadere regeling
+
+De minister stelt nadere regels omtrent de taakuitoefening en bevoegdheden van de BBT en het bureau BBT.
+
+### Hoofdstuk 10. Overige bepalingen
 
 ### Hoofdstuk 11. Slotbepalingen
 
