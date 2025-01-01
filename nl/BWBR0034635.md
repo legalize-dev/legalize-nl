@@ -4,7 +4,7 @@ identifier: "BWBR0034635"
 country: "nl"
 rank: "pbo"
 publication_date: "2025-01-01"
-last_updated: "2022-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034635"
 soort: "pbo"
@@ -74,9 +74,9 @@ Om invulling te geven aan de verantwoordelijkheid van een accountant te handelen
 
 ##### Artikel 3
 
-1. Het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034635&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2022-01-01&g=2022-01-01) genoemde fundamentele beginsel professionaliteit is van toepassing op elk handelen of nalaten van de accountant.
+1. Het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034635&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2025-01-01&g=2025-01-01) genoemde fundamentele beginsel professionaliteit is van toepassing op elk handelen of nalaten van de accountant.
 
-2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034635&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2022-01-01&g=2022-01-01) genoemde fundamentele beginselen integriteit, objectiviteit, vakbekwaamheid en zorgvuldigheid, en vertrouwelijkheid zijn van toepassing op de accountant bij de beroepsuitoefening.
+2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034635&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2025-01-01&g=2025-01-01) genoemde fundamentele beginselen integriteit, objectiviteit, vakbekwaamheid en zorgvuldigheid, en vertrouwelijkheid zijn van toepassing op de accountant bij de beroepsuitoefening.
 
 #### Paragraaf 2.2. – Professionaliteit
 
@@ -164,7 +164,7 @@ De accountant die de beschikking krijgt over gegevens of inlichtingen waarvan de
 
 ##### Artikel 17
 
-1. De accountant betrekt in de besluitvorming om op grond van [artikel 16, onderdelen b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0034635&hoofdstuk=2&paragraaf=2.6&artikel=16&z=2022-01-01&g=2022-01-01), al dan niet tot het verstrekken van vertrouwelijke gegevens of inlichtingen over te gaan:
+1. De accountant betrekt in de besluitvorming om op grond van [artikel 16, onderdelen b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0034635&hoofdstuk=2&paragraaf=2.6&artikel=16&z=2025-01-01&g=2025-01-01), al dan niet tot het verstrekken van vertrouwelijke gegevens of inlichtingen over te gaan:
 
 - a. de belangen van betrokken partijen en derden, waaronder het algemeen belang;
 
@@ -180,7 +180,7 @@ De accountant gebruikt vertrouwelijke gegevens of inlichtingen niet voor eigen g
 
 ##### Artikel 19
 
-De accountant treft een redelijkerwijs te nemen maatregel om ervoor te zorgen dat degene die onder de verantwoordelijkheid van deze accountant werkzaamheden uitvoert ten behoeve van een professionele dienst of aan wie de accountant advies of ondersteuning vraagt, de vertrouwelijkheidsverplichtingen naleeft zoals deze op grond van de [artikelen 16 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0034635&hoofdstuk=2&paragraaf=2.6&artikel=16&z=2022-01-01&g=2022-01-01) voor accountants gelden.
+De accountant treft een redelijkerwijs te nemen maatregel om ervoor te zorgen dat degene die onder de verantwoordelijkheid van deze accountant werkzaamheden uitvoert ten behoeve van een professionele dienst of aan wie de accountant advies of ondersteuning vraagt, de vertrouwelijkheidsverplichtingen naleeft zoals deze op grond van de [artikelen 16 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0034635&hoofdstuk=2&paragraaf=2.6&artikel=16&z=2025-01-01&g=2025-01-01) voor accountants gelden.
 
 ### Hoofdstuk 3. – Zich houden aan de fundamentele beginselen
 
@@ -218,7 +218,7 @@ Als de accountant constateert dat deze in strijd handelt of heeft gehandeld met 
 
 ##### Artikel 24
 
-Het bestuur van de Nederlandse beroepsorganisatie van accountants kan, gehoord de leden, met betrekking tot de [artikelen 2 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0034635&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2022-01-01&g=2022-01-01) nadere voorschriften vaststellen.
+Het bestuur van de Nederlandse beroepsorganisatie van accountants kan, gehoord de leden, met betrekking tot de [artikelen 2 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0034635&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2025-01-01&g=2025-01-01) nadere voorschriften vaststellen. Nadere voorschriften ten aanzien van het beginsel van vakbekwaamheid en zorgvuldigheid kunnen in het bijzonder betrekking hebben op naleving van door het bestuur aan te wijzen kwaliteitsmanagementstandaarden.
 
 ##### Artikel 25
 
