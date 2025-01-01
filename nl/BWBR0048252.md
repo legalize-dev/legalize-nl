@@ -4,7 +4,7 @@ identifier: "BWBR0048252"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2024-07-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048252"
 soort: "wet"
@@ -222,7 +222,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXVIII
 
-Wijzigt de Wet op het voortgezet onderwijs.
+Wijzigt de Wet op het voortgezet onderwijs 2020.
 
 Dit onderdeel is nog niet inwerking getreden
 
