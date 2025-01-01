@@ -4,7 +4,7 @@ identifier: "BWBR0027113"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2024-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027113"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 - **personeelsgegevens:** personeelsgegevens als bedoeld in bijlage B bij het Convenant Leerkracht van Nederland en [bijlage 1 bij het Besluit informatievoorziening WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0008948&bijlage=1);
 
-- **Randstadregio’s:** verzameling van gemeenten op peildatum 1 oktober 2023 als opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027113&bijlage=1&z=2024-01-01&g=2024-01-01);
+- **Randstadregio’s:** verzameling van gemeenten op peildatum 1 oktober 2024 als opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027113&bijlage=1&z=2025-01-01&g=2025-01-01);
 
 - **school:** een school of scholengemeenschap als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1), die wordt bekostigd op grond van de wet;
 
@@ -70,7 +70,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Doelomschrijving
 
-1. De minister verstrekt in 2024 aanvullende bekostiging ter versterking van de functiemix binnen de Randstadregio’s door het verhogen van het aandeel leraren in voltijdequivalenten in bezoldigingsschaal LC.
+1. De minister verstrekt in 2025 aanvullende bekostiging ter versterking van de functiemix binnen de Randstadregio’s door het verhogen van het aandeel leraren in voltijdequivalenten in bezoldigingsschaal LC.
 
 2. De aanvullende bekostiging wordt verstrekt op grond van de volgende aandachtspunten:
 
@@ -86,7 +86,7 @@ De aanvullende bekostiging wordt verstrekt aan bevoegde gezagsorganen met één 
 
 ##### Artikel 4. Berekening aanvullende bekostiging
 
-1. Voor de aanvullende bekostiging is in 2024 een bedrag van € 77.190.000 beschikbaar.
+1. Voor de aanvullende bekostiging is in 2025 een bedrag van € 81.493.000 beschikbaar.
 
 2. De verstrekking van de aanvullende bekostiging vindt plaats per kalenderjaar.
 
@@ -108,7 +108,7 @@ LLri = de op de teldatum bekostigde leerlingen op de in de Randstadregio’s gel
 
 LLi = de op de teldatum bekostigde leerlingen van school i;
 
-Σ(Bi * LLri/ LLi) = de integrale som van het product Bi * LLri/ LLi voor het totaal van alle voor aanvullende bekostiging als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027113&hoofdstuk=2&artikel=3&z=2024-01-01&g=2024-01-01) in aanmerking komende scholen.
+Σ(Bi * LLri/ LLi) = de integrale som van het product Bi * LLri/ LLi voor het totaal van alle voor aanvullende bekostiging als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027113&hoofdstuk=2&artikel=3&z=2025-01-01&g=2025-01-01) in aanmerking komende scholen.
 
 ##### Artikel 5. Vaststelling en betaling aanvullende bekostiging
 
@@ -134,7 +134,7 @@ Het bevoegd gezag werkt mee aan door of namens de minister ingestelde onderzoeke
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2010.
 
-2. Deze regeling vervalt met ingang van 1 januari 2025, met dien verstande dat de regeling van toepassing blijft voor lopende bezwaren en beroepen.
+2. Deze regeling vervalt met ingang van 1 januari 2026, met dien verstande dat de regeling van toepassing blijft voor lopende bezwaren en beroepen.
 
 ##### Artikel 9. Citeertitel
 
