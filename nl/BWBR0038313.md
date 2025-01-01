@@ -4,7 +4,7 @@ identifier: "BWBR0038313"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2020-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038313"
 soort: "wet"
@@ -74,17 +74,17 @@ Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
 
 ##### Artikel VIII
 
-In het bij [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0038313&artikel=VII&z=2020-01-01&g=2020-01-01) gewijzigde [artikel 9, eerste en tweede lid, van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9) worden het eerste bedrag, genoemd in de derde kolom van de tabel, de bedragen, genoemd in de vierde kolom van de tabel, en het bedrag, genoemd in de laatste volzin, bij het begin van het kalenderjaar 2017 vervangen door andere. De [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2) zijn van overeenkomstige toepassing, met dien verstande dat de bij het begin van het kalenderjaar 2016 gebruikte tabelcorrectiefactor wordt toegepast. Vervolgens worden de overige bedragen, genoemd in artikel 9, eerste en tweede lid, in de derde kolom van de tabel, van eerstgenoemde wet dienovereenkomstig aangepast.
+In het bij [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0038313&artikel=VII&z=2025-01-01&g=2025-01-01) gewijzigde [artikel 9, eerste en tweede lid, van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9) worden het eerste bedrag, genoemd in de derde kolom van de tabel, de bedragen, genoemd in de vierde kolom van de tabel, en het bedrag, genoemd in de laatste volzin, bij het begin van het kalenderjaar 2017 vervangen door andere. De [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2) zijn van overeenkomstige toepassing, met dien verstande dat de bij het begin van het kalenderjaar 2016 gebruikte tabelcorrectiefactor wordt toegepast. Vervolgens worden de overige bedragen, genoemd in artikel 9, eerste en tweede lid, in de derde kolom van de tabel, van eerstgenoemde wet dienovereenkomstig aangepast.
 
 ##### Artikel IX
 
-De overeenkomstig [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0038313&artikel=VIII&z=2020-01-01&g=2020-01-01) gewijzigde bedragen, genoemd in [artikel 9, eerste en tweede lid, in de vierde kolom van de tabel, van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9), worden bij ministeriële regeling verlaagd met 0,96 percent. Vervolgens worden de bedragen, genoemd in artikel 9, eerste en tweede lid, in de derde kolom van de tabel, echter met uitzondering van het eerstgenoemde bedrag, van die wet, dienovereenkomstig aangepast.
+De overeenkomstig [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0038313&artikel=VIII&z=2025-01-01&g=2025-01-01) gewijzigde bedragen, genoemd in [artikel 9, eerste en tweede lid, in de vierde kolom van de tabel, van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9), worden bij ministeriële regeling verlaagd met 0,96 percent. Vervolgens worden de bedragen, genoemd in artikel 9, eerste en tweede lid, in de derde kolom van de tabel, echter met uitzondering van het eerstgenoemde bedrag, van die wet, dienovereenkomstig aangepast.
 
 ##### Artikel X
 
-1. [Artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0038313&artikel=VIII&z=2020-01-01&g=2020-01-01) vindt toepassing voordat [artikel 16b van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=16b) bij het begin van het kalenderjaar 2017 wordt toegepast.
+1. [Artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0038313&artikel=VIII&z=2025-01-01&g=2025-01-01) vindt toepassing voordat [artikel 16b van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=16b) bij het begin van het kalenderjaar 2017 wordt toegepast.
 
-2. [Artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBR0038313&artikel=IX&z=2020-01-01&g=2020-01-01) vindt eerst toepassing nadat [artikel 16b van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=16b) bij het begin van het kalenderjaar 2017 is toegepast.
+2. [Artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBR0038313&artikel=IX&z=2025-01-01&g=2025-01-01) vindt eerst toepassing nadat [artikel 16b van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=16b) bij het begin van het kalenderjaar 2017 is toegepast.
 
 ##### Artikel XI
 
@@ -104,23 +104,23 @@ Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
 
 ##### Artikel XV
 
-In [artikel XIV, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038313&artikel=XIV&z=2020-01-01&g=2020-01-01), worden de bedragen, genoemd in de vierde kolom van die tabel, bij het begin van het kalenderjaar 2017 vervangen door andere. De [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2) zijn van overeenkomstige toepassing met dien verstande dat de bij het begin van het kalenderjaar 2016 gebruikte tabelcorrectiefactor wordt toegepast. Vervolgens worden het tweede en derde bedrag, genoemd in de derde kolom van die tabel, dienovereenkomstig aangepast.
+In [artikel XIV, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038313&artikel=XIV&z=2025-01-01&g=2025-01-01), worden de bedragen, genoemd in de vierde kolom van die tabel, bij het begin van het kalenderjaar 2017 vervangen door andere. De [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2) zijn van overeenkomstige toepassing met dien verstande dat de bij het begin van het kalenderjaar 2016 gebruikte tabelcorrectiefactor wordt toegepast. Vervolgens worden het tweede en derde bedrag, genoemd in de derde kolom van die tabel, dienovereenkomstig aangepast.
 
 ##### Artikel XVI
 
-Na toepassing van [artikel XV](https://wetten.overheid.nl/jci1.3:c:BWBR0038313&artikel=XV&z=2020-01-01&g=2020-01-01), worden in [artikel XIV, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038313&artikel=XIV&z=2020-01-01&g=2020-01-01), de bedragen, genoemd in de vierde kolom van die tabel, bij het begin van het kalenderjaar 2017 vervangen door andere. De [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2) zijn van overeenkomstige toepassing, met dien verstande dat de bij het begin van het kalenderjaar 2017 gebruikte tabelcorrectiefactor wordt toegepast. Vervolgens worden het tweede en derde bedrag, genoemd in de derde kolom van die tabel, dienovereenkomstig aangepast.
+Na toepassing van [artikel XV](https://wetten.overheid.nl/jci1.3:c:BWBR0038313&artikel=XV&z=2025-01-01&g=2025-01-01), worden in [artikel XIV, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038313&artikel=XIV&z=2025-01-01&g=2025-01-01), de bedragen, genoemd in de vierde kolom van die tabel, bij het begin van het kalenderjaar 2017 vervangen door andere. De [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2) zijn van overeenkomstige toepassing, met dien verstande dat de bij het begin van het kalenderjaar 2017 gebruikte tabelcorrectiefactor wordt toegepast. Vervolgens worden het tweede en derde bedrag, genoemd in de derde kolom van die tabel, dienovereenkomstig aangepast.
 
 ##### Artikel XVII
 
-Na toepassing van [artikel XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0038313&artikel=XVI&z=2020-01-01&g=2020-01-01) worden in [artikel XIV, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038313&artikel=XIV&z=2020-01-01&g=2020-01-01), de bedragen, genoemd in de vierde kolom van de tabel, bij het begin van het kalenderjaar 2017 bij ministeriële regeling verlaagd met 0,96 percent. Vervolgens worden het tweede en derde bedrag, genoemd in de derde kolom, dienovereenkomstig aangepast.
+Na toepassing van [artikel XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0038313&artikel=XVI&z=2025-01-01&g=2025-01-01) worden in [artikel XIV, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038313&artikel=XIV&z=2025-01-01&g=2025-01-01), de bedragen, genoemd in de vierde kolom van de tabel, bij het begin van het kalenderjaar 2017 bij ministeriële regeling verlaagd met 0,96 percent. Vervolgens worden het tweede en derde bedrag, genoemd in de derde kolom, dienovereenkomstig aangepast.
 
 ##### Artikel XVIII
 
-In [artikel XIV, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038313&artikel=XIV&z=2020-01-01&g=2020-01-01), worden de bedragen, genoemd in de vierde kolom van die tabel, bij het begin van het kalenderjaar 2018 vervangen door andere. De [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2) zijn van overeenkomstige toepassing, met dien verstande dat de bij het begin van het kalenderjaar 2018 gebruikte tabelcorrectiefactor wordt toegepast. Vervolgens worden het tweede en derde bedrag, genoemd in de derde kolom van die tabel, dienovereenkomstig aangepast.
+In [artikel XIV, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038313&artikel=XIV&z=2025-01-01&g=2025-01-01), worden de bedragen, genoemd in de vierde kolom van die tabel, bij het begin van het kalenderjaar 2018 vervangen door andere. De [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2) zijn van overeenkomstige toepassing, met dien verstande dat de bij het begin van het kalenderjaar 2018 gebruikte tabelcorrectiefactor wordt toegepast. Vervolgens worden het tweede en derde bedrag, genoemd in de derde kolom van die tabel, dienovereenkomstig aangepast.
 
 ##### Artikel XIX
 
-Na toepassing van [artikel XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0038313&artikel=XVIII&z=2020-01-01&g=2020-01-01) worden in [artikel XIV, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038313&artikel=XIV&z=2020-01-01&g=2020-01-01), de bedragen, genoemd in de vierde kolom van de tabel, bij het begin van het kalenderjaar 2018 bij ministeriële regeling verlaagd met 4,41 percent. Vervolgens worden het tweede en derde bedrag, genoemd in de derde kolom van die tabel, dienovereenkomstig aangepast.
+Na toepassing van [artikel XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0038313&artikel=XVIII&z=2025-01-01&g=2025-01-01) worden in [artikel XIV, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038313&artikel=XIV&z=2025-01-01&g=2025-01-01), de bedragen, genoemd in de vierde kolom van de tabel, bij het begin van het kalenderjaar 2018 bij ministeriële regeling verlaagd met 4,41 percent. Vervolgens worden het tweede en derde bedrag, genoemd in de derde kolom van die tabel, dienovereenkomstig aangepast.
 
 ##### Artikel XX
 
@@ -128,11 +128,11 @@ In de [Wet op de belasting van personenauto’s 1992](https://wetten.overheid.nl
 
 ##### Artikel XXI
 
-1. De [artikelen XV tot en met XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0038313&artikel=XV&z=2020-01-01&g=2020-01-01) vinden toepassing voordat artikel XIV toepassing vindt.
+1. De [artikelen XV tot en met XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0038313&artikel=XV&z=2025-01-01&g=2025-01-01) vinden toepassing voordat artikel XIV toepassing vindt.
 
-2. [Artikel XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0038313&artikel=XIV&z=2020-01-01&g=2020-01-01) vindt toepassing voordat [artikel 16b van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=16b) bij het begin van het kalenderjaar 2019 wordt toegepast.
+2. [Artikel XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0038313&artikel=XIV&z=2025-01-01&g=2025-01-01) vindt toepassing voordat [artikel 16b van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=16b) bij het begin van het kalenderjaar 2019 wordt toegepast.
 
-3. [Artikel XX](https://wetten.overheid.nl/jci1.3:c:BWBR0038313&artikel=XX&z=2020-01-01&g=2020-01-01) vindt eerst toepassing nadat [artikel 16b van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=16b) bij het begin van het kalenderjaar 2019 is toegepast.
+3. [Artikel XX](https://wetten.overheid.nl/jci1.3:c:BWBR0038313&artikel=XX&z=2025-01-01&g=2025-01-01) vindt eerst toepassing nadat [artikel 16b van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=16b) bij het begin van het kalenderjaar 2019 is toegepast.
 
 ##### Artikel XXII
 
@@ -144,7 +144,7 @@ In de [Wet op de belasting van personenauto’s en motorrijwielen 1992](https://
 
 ##### Artikel XXIV
 
-[Artikel XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0038313&artikel=XXIII&z=2020-01-01&g=2020-01-01) vindt eerst toepassing nadat [artikel 16b van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=16b) bij het begin van het kalenderjaar 2020 is toegepast.
+[Artikel XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0038313&artikel=XXIII&z=2025-01-01&g=2025-01-01) vindt eerst toepassing nadat [artikel 16b van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=16b) bij het begin van het kalenderjaar 2020 is toegepast.
 
 ##### Artikel XXV
 
@@ -152,7 +152,7 @@ Wijzigt de Wet op de motorrijtuigenbelasting 1994.
 
 ##### Artikel XXVI
 
-[Artikel XXV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0038313&artikel=XXV&z=2020-01-01&g=2020-01-01), vindt eerst toepassing nadat [artikel 81a van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=81a) bij het begin van het kalenderjaar 2017 is toegepast.
+[Artikel XXV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0038313&artikel=XXV&z=2025-01-01&g=2025-01-01), vindt eerst toepassing nadat [artikel 81a van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=81a) bij het begin van het kalenderjaar 2017 is toegepast.
 
 ##### Artikel XXVII
 
