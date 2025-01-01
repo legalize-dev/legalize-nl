@@ -4,7 +4,7 @@ identifier: "BWBR0032397"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-17"
-last_updated: "2024-07-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032397"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ Besluit:
 
 3. Met ingang van de eerste betaalperiode na de dag waarop de in het eerste lid bedoelde ontheffing wordt verleend, ontvangt de ambtenaar een maandelijkse toelage. Bij gedeeltelijke ontheffing wordt de toelage berekend naar rato voor de toelage voor de gehele ontheffing.
 
-4. De in het derde lid bedoelde toelage wordt berekend door het aantal uren dat de ambtenaar in de twaalf maanden direct voorafgaand aan de in het eerste lid bedoelde ontheffing dienst heeft verricht of consignatie is opgelegd tussen 00.00 uur en 06.00 uur te vermenigvuldigen met € 2,93 respectievelijk € 0,74 en dat bedrag vervolgens te delen door twaalf.
+4. De in het derde lid bedoelde toelage wordt berekend door het aantal uren dat de ambtenaar in de twaalf maanden direct voorafgaand aan de in het eerste lid bedoelde ontheffing dienst heeft verricht of consignatie is opgelegd tussen 00.00 uur en 06.00 uur te vermenigvuldigen met € 2,99 respectievelijk € 0,75 en dat bedrag vervolgens te delen door twaalf.
 
 5. De in het vierde lid genoemde bedragen worden aangepast overeenkomstig een algemene salarismaatregel in de sector Politie.
 
