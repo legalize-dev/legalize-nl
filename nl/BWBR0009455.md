@@ -4,7 +4,7 @@ identifier: "BWBR0009455"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2024-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009455"
 soort: "wet"
@@ -85,9 +85,11 @@ Onze Minister kan subsidies en specifieke uitkeringen verstrekken voor activitei
 
 3. Onze Minister kan de uitvoering van een algemene maatregel van bestuur of een ministeriële regeling als bedoeld in het eerste lid, met inbegrip van het nemen van besluiten op grond van deze regels, voor zover het subsidie betreft, delegeren aan andere bestuursorganen.
 
+4. Onze Minister is bevoegd persoonsgegevens, waaronder gegevens over gezondheid en andere bijzondere categorieën van persoonsgegevens, van degene die de subsidie aanvraagt dan wel van degene die anderszins betrokken is bij de aanvraag te verwerken indien dit noodzakelijk is ten behoeve van de beoordeling van een aanvraag, het verlenen dan wel vaststellen van een subsidie.
+
 ##### Artikel 4
 
-Onze Minister verstrekt slechts subsidie op grond van een algemene maatregel van bestuur of een ministeriële regeling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3&z=2024-01-01&g=2024-01-01), tenzij het een subsidie betreft:
+Onze Minister verstrekt slechts subsidie op grond van een algemene maatregel van bestuur of een ministeriële regeling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3&z=2025-01-01&g=2025-01-01), tenzij het een subsidie betreft:
 
 - a. als bedoeld in [artikel 4:23, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:23) of
 
@@ -95,7 +97,7 @@ Onze Minister verstrekt slechts subsidie op grond van een algemene maatregel van
 
 ##### Artikel 5
 
-Bij of krachtens algemene maatregel van bestuur of bij ministeriële regeling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3&z=2024-01-01&g=2024-01-01) kan worden voorzien in de vaststelling van een subsidieplafond en de regeling van de wijze van verdeling.
+Bij of krachtens algemene maatregel van bestuur of bij ministeriële regeling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3&z=2025-01-01&g=2025-01-01) kan worden voorzien in de vaststelling van een subsidieplafond en de regeling van de wijze van verdeling.
 
 ##### Artikel 6
 
