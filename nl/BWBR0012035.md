@@ -4,7 +4,7 @@ identifier: "BWBR0012035"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2023-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012035"
 soort: "ministeriele-regeling"
@@ -64,7 +64,7 @@ Besluit:
 
 ##### Artikel 3
 
-De termijn bedoeld in [artikel 3.31, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.31) waarbinnen het verzoek ter zake van een bedrijfsmiddel dat bestemd is om te worden gebruikt buiten Nederland, moet zijn ingediend, wordt gesteld op de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012035&hoofdstuk=2&artikel=2&z=2023-01-01&g=2023-01-01) gestelde termijn. Bij dit verzoek worden tevens de aangegane verplichtingen of de gemaakte voortbrengingskosten ter zake van het bedrijfsmiddel aangemeld.
+De termijn bedoeld in [artikel 3.31, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.31) waarbinnen het verzoek ter zake van een bedrijfsmiddel dat bestemd is om te worden gebruikt buiten Nederland, moet zijn ingediend, wordt gesteld op de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012035&hoofdstuk=2&artikel=2&z=2025-01-01&g=2025-01-01) gestelde termijn. Bij dit verzoek worden tevens de aangegane verplichtingen of de gemaakte voortbrengingskosten ter zake van het bedrijfsmiddel aangemeld.
 
 ##### Artikel 4
 
@@ -82,7 +82,7 @@ Met betrekking tot milieubedrijfsmiddelen die op grond van [artikel 3.42a, zeven
 
 Vervallen
 
-### Hoofdstuk 4. Andere aangewezen bedrijfsmiddelen
+### Hoofdstuk 3. Bedrijfsmiddelen in het belang van de arbeidsomstandigheden
 
 #### Paragraaf 1. Investeringen door startende ondernemers
 
@@ -98,7 +98,7 @@ Vervallen
 
 ##### Artikel 8
 
-Op de aanschaffings- of voortbrengingskosten, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012035&hoofdstuk=4&paragraaf=1&artikel=7&z=2023-01-01&g=2023-01-01), kan willekeurig worden afgeschreven voor zover het gezamenlijke bedrag van die kosten in het kalenderjaar niet uitgaat boven het in de tabel van [artikel 3.41, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.41) opgenomen maximum bedrag waarover kleinschaligheidsinvesteringsaftrek kan worden verkregen. De eerste volzin vindt geen toepassing op de aanschaffings- of voortbrengingskosten van bedrijfsmiddelen waarop uit andere hoofde willekeurig wordt afgeschreven.
+Op de aanschaffings- of voortbrengingskosten, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012035&hoofdstuk=4&paragraaf=1&artikel=7&z=2025-01-01&g=2025-01-01), kan willekeurig worden afgeschreven voor zover het gezamenlijke bedrag van die kosten in het kalenderjaar niet uitgaat boven het in de tabel van [artikel 3.41, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.41) opgenomen maximum bedrag waarover kleinschaligheidsinvesteringsaftrek kan worden verkregen. De eerste volzin vindt geen toepassing op de aanschaffings- of voortbrengingskosten van bedrijfsmiddelen waarop uit andere hoofde willekeurig wordt afgeschreven.
 
 ##### Artikel 9
 
@@ -112,11 +112,11 @@ Als andere aangewezen bedrijfsmiddelen als bedoeld in [artikel 3.34, tweede lid,
 
 ##### Artikel 11
 
-De willekeurige afschrijving op bedrijfsmiddelen als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012035&hoofdstuk=4&paragraaf=2&artikel=10&z=2023-01-01&g=2023-01-01) bedraagt per kalenderjaar ten hoogste 20% van de af te schrijven aanschaffings- of voortbrengingskosten. De willekeurige afschrijving kan slechts worden toegepast voor zover de berekening van de winst uit zeescheepvaart bedoeld in [3.22, vierde lid en vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.22) zonder die afschrijving tot een positief bedrag leidt. Indien de afschrijving - willekeurig of op grond van [artikel 3.30, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.30) - in een jaar minder bedraagt dan het bedrag dat op grond van de eerste volzin ten hoogste willekeurig kan worden afgeschreven, wordt het verschil toegevoegd aan het bedrag dat in het volgende jaar ten hoogste willekeurig kan worden afgeschreven.
+De willekeurige afschrijving op bedrijfsmiddelen als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012035&hoofdstuk=4&paragraaf=2&artikel=10&z=2025-01-01&g=2025-01-01) bedraagt per kalenderjaar ten hoogste 20% van de af te schrijven aanschaffings- of voortbrengingskosten. De willekeurige afschrijving kan slechts worden toegepast voor zover de berekening van de winst uit zeescheepvaart bedoeld in [3.22, vierde lid en vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.22) zonder die afschrijving tot een positief bedrag leidt. Indien de afschrijving - willekeurig of op grond van [artikel 3.30, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.30) - in een jaar minder bedraagt dan het bedrag dat op grond van de eerste volzin ten hoogste willekeurig kan worden afgeschreven, wordt het verschil toegevoegd aan het bedrag dat in het volgende jaar ten hoogste willekeurig kan worden afgeschreven.
 
 ##### Artikel 12
 
-Met betrekking tot bedrijfsmiddelen als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012035&hoofdstuk=4&paragraaf=2&artikel=10&z=2023-01-01&g=2023-01-01) wordt de periode, bedoeld in [artikel 3.38 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.38), gesteld op tien jaar, aanvangende met het begin van het kalenderjaar waarin de verplichtingen zijn aangegaan of de voortbrengingingskosten zijn gemaakt.
+Met betrekking tot bedrijfsmiddelen als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012035&hoofdstuk=4&paragraaf=2&artikel=10&z=2025-01-01&g=2025-01-01) wordt de periode, bedoeld in [artikel 3.38 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.38), gesteld op tien jaar, aanvangende met het begin van het kalenderjaar waarin de verplichtingen zijn aangegaan of de voortbrengingingskosten zijn gemaakt.
 
 #### Paragraaf 3. Investeringen in het belang van de bevordering van de economische ontwikkeling
 
@@ -152,11 +152,11 @@ Met betrekking tot bedrijfsmiddelen als bedoeld in [artikel 10](https://wetten.o
 
 ##### Artikel 14
 
-Voor zover de belastingplichtige ter zake van de aanschaffing of voortbrenging van aangewezen bedrijfsmiddelen als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012035&hoofdstuk=4&paragraaf=3&artikel=13&z=2023-01-01&g=2023-01-01) verplichtingen is aangegaan of voortbrengingskosten heeft gemaakt in het kalenderjaar 2023 kan eenmalig ten hoogste 50% van de af te schrijven aanschaffings- of voortbrengingskosten willekeurig worden afgeschreven in het jaar waarin de verplichtingen zijn aangegaan of de voortbrengingskosten zijn gemaakt.
+Voor zover de belastingplichtige ter zake van de aanschaffing of voortbrenging van aangewezen bedrijfsmiddelen als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012035&hoofdstuk=4&paragraaf=3&artikel=13&z=2025-01-01&g=2025-01-01) verplichtingen is aangegaan of voortbrengingskosten heeft gemaakt in het kalenderjaar 2023 kan eenmalig ten hoogste 50% van de af te schrijven aanschaffings- of voortbrengingskosten willekeurig worden afgeschreven in het jaar waarin de verplichtingen zijn aangegaan of de voortbrengingskosten zijn gemaakt.
 
 ##### Artikel 15
 
-Voor de toepassing van [artikel 3.38 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.38) eindigt de periode waarin het bedrijfsmiddel moet voldoen aan de voorwaarden van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012035&hoofdstuk=4&paragraaf=3&artikel=13&z=2023-01-01&g=2023-01-01) op 31 december 2025. Ingeval met betrekking tot het bedrijfsmiddel artikel 13, derde lid, toepassing vindt, wordt de periode verlengd met het aantal dagen van de verschuiving, bedoeld in artikel 13, derde lid.
+Voor de toepassing van [artikel 3.38 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.38) eindigt de periode waarin het bedrijfsmiddel moet voldoen aan de voorwaarden van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012035&hoofdstuk=4&paragraaf=3&artikel=13&z=2025-01-01&g=2025-01-01) op 31 december 2025. Ingeval met betrekking tot het bedrijfsmiddel artikel 13, derde lid, toepassing vindt, wordt de periode verlengd met het aantal dagen van de verschuiving, bedoeld in artikel 13, derde lid.
 
 ##### Artikel 15a
 
@@ -229,3 +229,25 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 ### Hoofdstuk 5. Slotbepalingen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 5a
+
+1. De verklaring van de Minister van Infrastructuur en Waterstaat, bedoeld in [artikel 3.31, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.31), vermeldt in welke aangewezen bedrijfsmiddelen of onderdelen is geïnvesteerd alsmede het bedrag van de investering.
+
+2. Het verzoek om een verklaring als bedoeld in het eerste lid wordt gedaan bij de aanmelding, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012035&hoofdstuk=2&artikel=2&z=2025-01-01&g=2025-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012035&hoofdstuk=2&artikel=4&z=2025-01-01&g=2025-01-01).
+
+3. De belastingplichtige overlegt ten behoeve van het verstrekken van een verklaring als bedoeld in het eerste lid, indien de Minister van Infrastructuur en Waterstaat daarom verzoekt, vergunningen, certificaten of andere voor het verstrekken van de verklaring benodigde informatie.
+
+##### Artikel 5b
+
+1. De Minister van Infrastructuur en Waterstaat kan de in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0012035&hoofdstuk=2&artikel=5a&z=2025-01-01&g=2025-01-01) bedoelde verklaring intrekken op verzoek van de belastingplichtige, dan wel wijzigen of intrekken indien de door of namens de belastingplichtige verstrekte gegevens of bescheiden zodanig onjuist of onvolledig zijn geweest dat op het verzoek een andere beslissing zou zijn genomen indien bij de beoordeling daarvan de juiste of volledige gegevens bekend zouden zijn geweest. Onjuistheid of onvolledigheid van gegevens of bescheiden die de Minister van Infrastructuur en Waterstaat bekend was of redelijkerwijs bekend had kunnen zijn, kunnen geen grond opleveren voor wijziging of intrekking van een verklaring.
+
+2. De bevoegdheid tot het intrekken of wijzigen van een verklaring ingevolge het eerste lid vervalt door verloop van vijf jaren na de dagtekening van de verklaring.
+
+### Hoofdstuk 4. Andere aangewezen bedrijfsmiddelen
+
+#### Paragraaf 1. Investeringen door startende ondernemers
+
+#### Paragraaf 2. Zeeschepen
+
+#### Paragraaf 3. Investeringen in het belang van de bevordering van de economische ontwikkeling
