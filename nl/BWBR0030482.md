@@ -4,7 +4,7 @@ identifier: "BWBR0030482"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-01-01"
-last_updated: "2024-10-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030482"
 soort: "zbo"
@@ -73,7 +73,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3. Directie Toezicht
 
-1. De directie Toezicht is belast met het in [artikel 16 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=16) bedoelde toezicht op de uitvoering van het bepaalde bij of krachtens de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745), de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362), met het toezicht op de naleving van hetgeen bij of krachtens de [Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) is bepaald en met de beoordeling van aanmerkelijke marktmacht en concentraties, met het uitbrengen van zienswijzen, met monitoring en met handhaving.
+1. De directie Toezicht is belast met het toezicht op de naleving van het bepaalde bij of krachtens de [Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) en met het in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=16) en [16a Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=16a) bedoelde toezicht en met de beoordeling van aanmerkelijke marktmacht en concentraties, met het uitbrengen van zienswijzen, met monitoring en met handhaving.
 
 2. De directie Toezicht kent de units Toezicht Zorgaanbieders I, Toezicht Zorgaanbieders II, Toezicht Zorgverzekeraars, Toezicht Wlz-uitvoerders en CAK, de unit Detectie, Casuïstiek en Markttoezicht, de unit Monitoring en Data-analyse, de unit Toezicht Gegevensaanlevering en Jaarverantwoording en een Mt-staf.
 
@@ -91,7 +91,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 6. Binnen beleid en begroting
 
-1. De op grond van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=8&z=2024-10-01&g=2024-10-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=9&z=2024-10-01&g=2024-10-01), [9a](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=9a&z=2024-10-01&g=2024-10-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=10&z=2024-10-01&g=2024-10-01) van dit besluit verleende bevoegdheden gelden voor de uitoefening van taken binnen het door de Raad van Bestuur vastgestelde beleid, de begroting en de personeelsformatie en overeenkomstig de door de Raad van Bestuur vastgestelde richtlijnen, waaronder de richtlijnen opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=1&z=2024-10-01&g=2024-10-01) bij dit besluit.
+1. De op grond van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=8&z=2025-01-01&g=2025-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=9&z=2025-01-01&g=2025-01-01), [9a](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=9a&z=2025-01-01&g=2025-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=10&z=2025-01-01&g=2025-01-01) van dit besluit verleende bevoegdheden gelden voor de uitoefening van taken binnen het door de Raad van Bestuur vastgestelde beleid, de begroting en de personeelsformatie en overeenkomstig de door de Raad van Bestuur vastgestelde richtlijnen, waaronder de richtlijnen opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=1&z=2025-01-01&g=2025-01-01) bij dit besluit.
 
 2. Directeuren oefenen hun bevoegdheden uit in overleg met hun portefeuillehouder.
 
@@ -107,13 +107,13 @@ In dit besluit wordt verstaan onder:
 
 2. Directeuren zijn bevoegd tot het verlenen van ondermandaat aan hun unitmanagers voor het nemen van beschikkingen betreffende tarieven, prestatiebeschrijvingen, beschikbaarheidbijdragen, vereffeningsbedragen, het vaststellen van grenzen als bedoeld in [artikel 50, tweede lid, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50), beschikkingen krachtens de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754), verdagingsbeschikkingen, dwangsombeschikkingen in verband met het niet-tijdig beslissen op een aanvraag of een bezwaarschrift, beschikkingen waarmee het bedrag van de verschuldigde wettelijke rente wordt vastgesteld als bedoeld in [artikel 4:99 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:99), beschikkingen op grond van de [Regeling informatieverstrekking aanmelding en wijzigingen Wlz-uitvoerderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0047151), beschikkingen als bedoeld in de [artikelen 49c](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=49c) en [49d van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=49d) en handhavingsbeschikkingen met uitzondering van boetebeschikkingen.
 
-3. In aanvulling op het eerste lid is de directeur Bedrijfsvoering en Bestuursondersteuning bevoegd om namens de NZa te beslissen op een verzoek in te stemmen met rechtstreeks beroep tegen beschikkingen en in afwijking van het eerste lid is de directeur Bedrijfsvoering en Bestuursondersteuning bevoegd om namens de NZa te beslissen op bezwaar, met uitzondering van beschikkingen van de Raad van Bestuur. De directeur Bedrijfsvoering en Bestuursondersteuning is bevoegd ondermandaat te verlenen aan de unitmanager Juridische Zaken voor het nemen van beslissingen op bezwaar met betrekking tot bezwaren tegen handhavingsbeschikkingen wegens het niet nakomen van de verplichtingen op grond van [artikel 40b van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40b).
+3. In aanvulling op het eerste lid is de directeur Bedrijfsvoering en Bestuursondersteuning bevoegd om namens de NZa te beslissen op een verzoek in te stemmen met rechtstreeks beroep tegen beschikkingen en in afwijking van het eerste lid is de directeur Bedrijfsvoering en Bestuursondersteuning bevoegd om namens de NZa te beslissen op bezwaar, met uitzondering van beschikkingen van de Raad van Bestuur. De directeur Bedrijfsvoering en Bestuursondersteuning is bevoegd ondermandaat te verlenen aan de unitmanager Juridische Zaken voor het nemen van beslissingen op bezwaar met betrekking tot bezwaren tegen handhavingsbeschikkingen wegens het niet nakomen van de verplichtingen op grond van [artikel 40b van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40b), en tegen besluiten op een aanvraag voor het verlenen van uitstel van de openbaarmaking van de jaarverantwoording, als bedoeld in artikel 40b van de Wmg.
 
 4. De portefeuillehouder Toezicht is bevoegd om beschikkingen te nemen tot het ter openbare kennis brengen van een aanwijzing en een last onder dwangsom.
 
 ##### Artikel 9. Volmacht en machtiging personele aangelegenheden
 
-1. De portefeuillehouders hebben voor hun aandachtsgebieden machtiging tot het vaststellen van beoordelingen van het functioneren van unitmanagers en tot het nemen van de daaruit voortvloeiende beslissingen.
+1. Portefeuillehouders hebben volmacht en machtiging ten aanzien van personeelsaangelegenheden betreffende de directeuren van de directies waarvoor zij portefeuillehouder zijn, met uitzondering van ontslag anders dan ontslag op verzoek van de medewerker zelf en het nemen van ordemaatregelen of het opleggen van straffen als bedoeld in de CAO Rijk en met uitzondering van het benoemen van directeuren.
 
 2. Directeuren hebben volmacht en machtiging ten aanzien van personeelsaangelegenheden betreffende de onder hen ressorterende medewerkers, met uitzondering van ontslag anders dan ontslag op verzoek van de medewerker zelf en het nemen van ordemaatregelen of het opleggen van straffen als bedoeld in de CAO Rijk.
 
@@ -131,9 +131,7 @@ In dit besluit wordt verstaan onder:
 
 3. Directeuren zijn, voor de uitoefening van de in het tweede lid bedoelde bevoegdheden, bevoegd verdere machtiging te verlenen aan de unitmanagers onderscheidenlijk medewerkers van hun directie, voor zover het de normale uitoefening van de functie als unitmanager, onderscheidenlijk medewerker betreft.
 
-4. De unitmanager Informatie Knooppunt Zorgfraude is voor de uitoefening van de werkzaamheden van zijn unit bevoegd, namens de NZa handelingen te verrichten, anders dan besluiten en privaatrechtelijke rechtshandelingen, voor zover het de normale uitoefening van zijn functie betreft.
-
-5. De unitmanagers zijn bevoegd voor de bevoegdheden als bedoeld in het derde lid verdere machtiging te verlenen aan de medewerkers van de onder hun verantwoordelijkheid vallende unit, voor zover het de normale functie-uitoefening van die medewerkers betreft.
+4. De unitmanagers zijn bevoegd voor de bevoegdheden als bedoeld in het derde lid verdere machtiging te verlenen aan de medewerkers van de onder hun verantwoordelijkheid vallende unit, voor zover het de normale functie-uitoefening van die medewerkers betreft.
 
 ##### Artikel 11. Vertegenwoordiging
 
@@ -147,7 +145,7 @@ De juristen van de unit Juridische Zaken zijn bevoegd de NZa te vertegenwoordige
 
 ##### Artikel 13. Aanwijzing toezichthouders
 
-1. Als medewerkers die belast zijn met het toezicht op de naleving van de bepalingen in de [Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078), de [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) en de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745) als bedoeld in [artikel 72, lid 1, onder b Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=72), zijn aangewezen alle medewerkers van de NZa, met uitzondering van de directeur Bedrijfsvoering en Bestuursondersteuning, de unitmanager Juridische Zaken en de secretaresses van de NZa.
+1. Als medewerkers die belast zijn met het toezicht op de naleving van het bepaalde bij of krachtens de [Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) en met het in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=16) en [16a Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=16a) bedoelde toezicht als bedoeld in [artikel 72, lid 1, onder b Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=72), zijn aangewezen alle medewerkers van de NZa, met uitzondering van de directeur Bedrijfsvoering en Bestuursondersteuning, de unitmanager Juridische Zaken en de secretaresses van de NZa.
 
 2. De voorzitter ondertekent de legitimatiebewijzen van de ingevolge het eerste lid van dit artikel aangewezen medewerkers.
 
@@ -191,7 +189,7 @@ De organisatie van de NZa kent vier directies: Regulering, Toezicht, Bedrijfsvoe
 
 ### 3. Bevoegdheden en verantwoordelijkheden
 
-De directie Toezicht is belast met het in [artikel 16 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=16) bedoelde toezicht op de uitvoering van het bepaalde bij of krachtens de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745), de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362), met het toezicht op de naleving van hetgeen bij of krachtens de [Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) is bepaald en met de beoordeling van aanmerkelijke marktmacht en concentraties, met het uitbrengen van zienswijzen, met monitoring en met handhaving. De directie Toezicht kent de units Toezicht Zorgaanbieders I, Toezicht Zorgaanbieders II, Toezicht Zorgverzekeraars, Toezicht Wlz-uitvoerders en CAK, de unit Detectie, Casuïstiek en Markttoezicht, de unit Monitoring en Data-analyse, de unit Toezicht Gegevensaanlevering en Jaarverantwoording en een Mt-staf. De directeur Toezicht is bevoegd tot het nemen van beschikkingen betreffende concentraties als bedoeld in [artikel 49c van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=49c) en besluiten betreffende ontheffing ([artikel 49d van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=49d)) van het verbod op concentraties (als bedoeld in [artikel 49a van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=49a)) met inachtneming van een door de Raad van Bestuur vastgestelde richtlijn voor concentraties. Concentratiebesluiten en ontheffingsbesluiten kunnen conform de richtlijn van de Raad van Bestuur en op basis van [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=8&z=2024-10-01&g=2024-10-01), door de betreffende unitmanager genomen worden, nadat de directeur Toezicht daartoe ondermandaat aan die unitmanager heeft verleend.
+De directie Toezicht is belast met het toezicht op de naleving van het bepaalde bij of krachtens de [Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) en met het in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=16) en [16a Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=16a) bedoelde toezicht en met de beoordeling van aanmerkelijke marktmacht en concentraties, met het uitbrengen van zienswijzen, met monitoring en met handhaving. De directie Toezicht kent de units Toezicht Zorgaanbieders I, Toezicht Zorgaanbieders II, Toezicht Zorgverzekeraars, Toezicht Wlz-uitvoerders en CAK, de unit Detectie, Casuïstiek en Markttoezicht, de unit Monitoring en Data-analyse, de unit Toezicht Gegevensaanlevering en Jaarverantwoording en een Mt-staf. De directeur Toezicht is bevoegd tot het nemen van beschikkingen betreffende concentraties als bedoeld in [artikel 49c van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=49c) en besluiten betreffende ontheffing ([artikel 49d van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=49d)) van het verbod op concentraties (als bedoeld in [artikel 49a van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=49a)) met inachtneming van een door de Raad van Bestuur vastgestelde richtlijn voor concentraties. Concentratiebesluiten en ontheffingsbesluiten kunnen conform de richtlijn van de Raad van Bestuur en op basis van [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=8&z=2025-01-01&g=2025-01-01), door de betreffende unitmanager genomen worden, nadat de directeur Toezicht daartoe ondermandaat aan die unitmanager heeft verleend.
 
 De directie IT en Facilitair (I&F) is belast met het ontwikkelen, uitvoeren van en het toezicht houden op het informatievoorzieningsbeleid. Hieronder valt informatietechnologie, uitvoering kennismanagement, data en informatiebeveiliging en het leveren van de IV diensten en producten, waaronder het leveren van een passende en fysieke (IV)-werkplek met toegang tot de beschikbare applicaties, het verzamelen, beheren en uitleveren van data ten behoeve van de reguleringsprocessen, de processen op het gebied van toezicht en handhaving en strategie en regie op de interne IV processen. Ook stemt de directie I&F af met leveranciers en is zij voorts belast met het beheren van (maatwerk)applicaties binnen de NZa, ontwikkeling van de NZa Portalen voor de formele interactie tussen NZa en zorgaanbieders, professionals en verzekeraars, het ter beschikking stellen van facilitaire voorzieningen, het verzorgen van alle administratieve processen rondom post en archivering en het adviseren en ondersteunen van de directies vanuit een onafhankelijke positie bij het vertalen van het beleid en het vaststellen en uitvoeren van het toetsingskader hiervoor.
 
@@ -231,7 +229,7 @@ De directie Regulering is voor de zorgmarkten in de langdurige en de curatieve z
 
 ### 3. Bevoegdheden en verantwoordelijkheden
 
-De betreffende partners binnen het samenwerkingsverband Bestuurlijk Overleg Integriteit Zorgsector (BO TIZ) hebben samenwerkingsafspraken gemaakt die zijn vastgelegd in het Convenant houdende afspraken over de samenwerking in het kader van de verbetering van de bestrijding van zorgfraude: Informatie Knooppunt Zorgfraude (IKZ). Deze afspraken zien onder meer op de oprichting van een IKZ en de beheersverantwoordelijkheid van de NZa daarvoor.
+De functionaris gegevensbescherming valt onder de verantwoordelijkheid van de directeur Bedrijfsvoering en Bestuursondersteuning/unitmanager Juridische Zaken, voor wat betreft personeelsaangelegenheden en in financieel opzicht. De chief information security officer en de privacy officer vallen onder de verantwoordelijkheid van de directeur I&F/unitmanager CIO-office voor wat betreft personeelsaangelegenheden en in financieel opzicht. Gelet op hun functies leggen zij voor wat betreft de inhoud van hun werkzaamheden direct verantwoording af aan de portefeuillehouder die voor beveiliging c.q. privacy is aangewezen als eerst verantwoordelijk bestuurslid binnen de Raad van Bestuur. Gelet op hun onafhankelijke positie kunnen zij los daarvan direct escaleren naar de voorzitter van de Raad van Bestuur.
 
 ## Bijlage 2. Volmachten
 
@@ -271,11 +269,11 @@ Directeuren onderscheidenlijk leden van de Raad van Bestuur en unitmanagers zijn
 
 ### 3. Bevoegdheden en verantwoordelijkheden
 
-De functionaris gegevensbescherming valt onder de verantwoordelijkheid van de directeur Bedrijfsvoering en Bestuursondersteuning/unitmanager Juridische Zaken, voor wat betreft personeelsaangelegenheden en in financieel opzicht. De chief information security officer en de privacy officer vallen onder de verantwoordelijkheid van de directeur I&F/unitmanager CIO-office voor wat betreft personeelsaangelegenheden en in financieel opzicht. Gelet op hun functies leggen zij voor wat betreft de inhoud van hun werkzaamheden direct verantwoording af aan de portefeuillehouder die voor beveiliging c.q. privacy is aangewezen als eerst verantwoordelijk bestuurslid binnen de Raad van Bestuur. Gelet op hun onafhankelijke positie kunnen zij los daarvan direct escaleren naar de voorzitter van de Raad van Bestuur.
+Directeuren zijn verantwoordelijk voor een goede uitvoering van de werkzaamheden die tot het aandachtsgebied van hun directie behoren. Binnen de kaders van het door de Raad van Bestuur vastgestelde werkprogramma, de begroting en de personeelsformatie is het de verantwoordelijkheid van directeuren om sturing te geven aan de werkzaamheden van hun directie en daarbij prioriteiten te stellen. De NZa werkt op basis van de VBTB-systematiek (Van Beleidsbegroting Tot Beleidsverantwoording), hetgeen betekent dat via de wettelijke taken, de missie van de NZa en de geformuleerde hoofddoelstellingen, in het werkprogramma processen en projecten worden benoemd en worden gekoppeld aan de begroting. In het jaarverslag van de NZa wordt vervolgens verantwoording afgelegd over de bereikte resultaten. Ten behoeve van dit plannings- en verantwoordingsproces leggen de directies via voortgangsrapportages (zowel inhoudelijk als financieel) verantwoording af over de werkzaamheden.
+
+De Raad van Bestuur geeft leiding aan de organisatie via het beginsel van integraal management, hetgeen inhoudt dat directeuren en unitmanagers integraal aansturen en verantwoordelijk zijn voor in- en output van directie of unit, zowel beleidsinhoudelijk en financieel, als op het terrein van de personele organisatie. Binnen het kader van de in het werkprogramma gemaakte afspraken hebben directeuren de vrijheid om prioriteiten te stellen op voorwaarde dat het gehele werkprogramma wordt gerealiseerd. Het Besluit organisatie, mandaat, volmacht en machtiging NZa biedt directeuren mogelijkheden om bevoegdheden over te dragen aan hun unitmanagers, die op hun beurt ook bevoegdheden aan medewerkers kunnen overdragen, teneinde tot een zo doelmatig mogelijke werkwijze en aansturing van de organisatie te komen. Ondanks het sturingsconcept van het integraal management kunnen directeuren en unitmanagers bevoegdheden ook aan zich houden als dat in verband met specifieke omstandigheden aangewezen is.
 
 Belangrijk uitgangspunt voor de uitoefening van bevoegdheden is dat op elk niveau van de organisatie geldt, van medewerker tot directeur, dat aangelegenheden die meerdere projecten, units- of directies aangaan, onderling dienen te worden afgestemd. Deze afstemmingsverplichting geldt als een richtlijn in het kader van het Besluit organisatie, mandaat, volmacht en machtiging NZa, en daarmee als conditie waaronder bevoegdheden worden verleend. De portefeuillehouders maken met directeuren afspraken over het detailniveau van de vereiste afstemming, hetgeen mutatis mutandis ook geldt voor directeuren met hun unitmanagers en de unitmanagers met hun medewerkers.
-
-Directeuren zijn verantwoordelijk voor een goede uitvoering van de werkzaamheden die tot het aandachtsgebied van hun directie behoren. Binnen de kaders van het door de Raad van Bestuur vastgestelde werkprogramma, de begroting en de personeelsformatie is het de verantwoordelijkheid van directeuren om sturing te geven aan de werkzaamheden van hun directie en daarbij prioriteiten te stellen. De NZa werkt op basis van de VBTB-systematiek (Van Beleidsbegroting Tot Beleidsverantwoording), hetgeen betekent dat via de wettelijke taken, de missie van de NZa en de geformuleerde hoofddoelstellingen, in het werkprogramma processen en projecten worden benoemd en worden gekoppeld aan de begroting. In het jaarverslag van de NZa wordt vervolgens verantwoording afgelegd over de bereikte resultaten. Ten behoeve van dit plannings- en verantwoordingsproces leggen de directies via voortgangsrapportages (zowel inhoudelijk als financieel) verantwoording af over de werkzaamheden.
 
 ## Bijlage 2. Volmachten
 
@@ -291,7 +289,7 @@ Directeuren onderscheidenlijk leden van de Raad van Bestuur en unitmanagers zijn
 
 ##### Artikel 5a. Informatie Knooppunt Zorgfraude
 
-De unit Informatie Knooppunt Zorgfraude (IKZ) is belast met de werkzaamheden voor het IKZ die voortvloeien uit het Convenant houdende afspraken over de samenwerking in het kader van de verbetering van de bestrijding van zorgfraude: Informatie Knooppunt Zorgfraude (IKZ).
+Vervallen
 
 ## Bijlage 1. Werkwijze NZa – sturing en verantwoording
 
@@ -299,7 +297,7 @@ De unit Informatie Knooppunt Zorgfraude (IKZ) is belast met de werkzaamheden voo
 
 ### 3. Bevoegdheden en verantwoordelijkheden
 
-De Raad van Bestuur geeft leiding aan de organisatie via het beginsel van integraal management, hetgeen inhoudt dat directeuren en unitmanagers integraal aansturen en verantwoordelijk zijn voor in- en output van directie of unit, zowel beleidsinhoudelijk en financieel, als op het terrein van de personele organisatie. Binnen het kader van de in het werkprogramma gemaakte afspraken hebben directeuren de vrijheid om prioriteiten te stellen op voorwaarde dat het gehele werkprogramma wordt gerealiseerd. Het Besluit organisatie, mandaat, volmacht en machtiging NZa biedt directeuren mogelijkheden om bevoegdheden over te dragen aan hun unitmanagers, die op hun beurt ook bevoegdheden aan medewerkers kunnen overdragen, teneinde tot een zo doelmatig mogelijke werkwijze en aansturing van de organisatie te komen. Ondanks het sturingsconcept van het integraal management kunnen directeuren en unitmanagers bevoegdheden ook aan zich houden als dat in verband met specifieke omstandigheden aangewezen is.
+De unitmanagers spreken aldus met hun medewerkers af welke zaken zelfstandig kunnen worden behandeld en verzorgen tevens de afstemming met hun collega-unitmanagers en de verantwoordelijke directeur(en). Zonodig vindt overleg plaats met de portefeuillehouder. Bij verschillen van inzicht dienen de verschillen expliciet te worden gemaakt en aan de RvB ter besluitvorming te worden voorgelegd.
 
 ## Bijlage 2. Volmachten
 
@@ -315,20 +313,20 @@ Directeuren onderscheidenlijk leden van de Raad van Bestuur en unitmanagers zijn
 
 ### 3. Bevoegdheden en verantwoordelijkheden
 
-Belangrijk uitgangspunt voor de uitoefening van bevoegdheden is dat op elk niveau van de organisatie geldt, van medewerker tot directeur, dat aangelegenheden die meerdere projecten, units- of directies aangaan, onderling dienen te worden afgestemd. Deze afstemmingsverplichting geldt als een richtlijn in het kader van het Besluit organisatie, mandaat, volmacht en machtiging NZa, en daarmee als conditie waaronder bevoegdheden worden verleend. De portefeuillehouders maken met directeuren afspraken over het detailniveau van de vereiste afstemming, hetgeen mutatis mutandis ook geldt voor directeuren met hun unitmanagers en de unitmanagers met hun medewerkers.
+Aldus betekent een handtekening onder een brief of besluit dat de ondertekenaar zich ervan heeft vergewist dat het ingenomen standpunt overeenstemt met het door de Raad van Bestuur vastgesteld beleid, in- en zonodig extern is afgestemd en dat eventuele financiële consequenties passen binnen de afgesproken financiële kaders. Ook de portefeuillehouders zullen attent moeten zijn op de (tijdige) inschakeling van de vereiste disciplines. Aldus worden gebreken in de beleidsinhoudelijke, financiële of juridische voorbereiding zo veel mogelijk voorkomen.
 
-De unitmanagers spreken aldus met hun medewerkers af welke zaken zelfstandig kunnen worden behandeld en verzorgen tevens de afstemming met hun collega-unitmanagers en de verantwoordelijke directeur(en). Zonodig vindt overleg plaats met de portefeuillehouder. Bij verschillen van inzicht dienen de verschillen expliciet te worden gemaakt en aan de RvB ter besluitvorming te worden voorgelegd.
+Bij gebruik van een handtekeningenstempel in situaties van grote aantallen brieven of besluiten, geldt uiteraard dat instemming is vereist van degene wiens handtekening het betreft en die persoon bevoegd dient te zijn tot ondertekening.
 
-## Bijlage 2. Volmachten op grond van [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=9a&z=2022-11-24&g=2022-05-01)
+## Bijlage 2. Volmachten op grond van [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=9a&z=2025-01-01&g=2025-01-01)
 
 Directeuren onderscheidenlijk leden van de Raad van Bestuur en unitmanagers zijn voor de uitvoering van de werkzaamheden van hun directie onderscheidenlijk het aandachtsgebied waarvoor de portefeuillehouder verantwoordelijk is, of van hun unit bevoegd namens de NZa privaatrechtelijke rechtshandelingen te verrichten met inachtneming van de volgende maxima ten aanzien van de uit die rechtshandelingen voor de NZa voortvloeiende financiële verplichtingen:
 
-|   | Rechtshandeling | RvB | Lid RvB | Portefeuillehouder IKZ en CIO | Directeur | Unitmanager |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1. | Vanaf € 200.000 (incl. BTW) | X |   |   |   |   |
-| 2. | Van € 10.000 tot € 200.000 (incl. BTW) | X |   |   | X |   |
-| 3. | Van € 10.000 tot € 100.000 (incl. BTW) | X |   | X | X |   |
-| 4. | Tot € 10.000 (incl. BTW) | X | X | X | X | X |
+|   | Rechtshandeling | RvB | Lid RvB | Directeur | Unitmanager |
+| --- | --- | --- | --- | --- | --- |
+| 1. | Vanaf € 200.000 (incl. BTW) | X |   |   |   |
+| 2. | Van € 10.000 tot € 200.000 (incl. BTW) | X |   | X |   |
+| 3. | Van € 10.000 tot € 100.000 (incl. BTW) | X |   | X |   |
+| 4. | Tot € 10.000 (incl. BTW) | X | X | X | X |
 
 (Onder)volmachten kunnen uitsluitend worden uitgeoefend met in achtneming van de door de Raad van Bestuur vastgestelde budgetten en met inachtneming van de door de Raad van Bestuur vastgestelde richtlijnen.
 
@@ -351,11 +349,9 @@ Directeuren onderscheidenlijk leden van de Raad van Bestuur en unitmanagers zijn
 
 ##### Artikel 9a. Volmacht financiële verplichtingen
 
-1. Directeuren onderscheidenlijk leden van de Raad van Bestuur zijn voor de uitvoering van de werkzaamheden van hun directie onderscheidenlijk het aandachtsgebied waarvoor de portefeuillehouder verantwoordelijk is, bevoegd namens de NZa privaatrechtelijke rechtshandelingen te verrichten met inachtneming van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=2&z=2024-10-01&g=2024-10-01) opgenomen maxima ten aanzien van de uit die rechtshandelingen voor de NZa voortvloeiende financiële verplichtingen.
+1. Directeuren onderscheidenlijk leden van de Raad van Bestuur zijn voor de uitvoering van de werkzaamheden van hun directie onderscheidenlijk het aandachtsgebied waarvoor de portefeuillehouder verantwoordelijk is, bevoegd namens de NZa privaatrechtelijke rechtshandelingen te verrichten met inachtneming van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=2&z=2025-01-01&g=2025-01-01) opgenomen maxima ten aanzien van de uit die rechtshandelingen voor de NZa voortvloeiende financiële verplichtingen.
 
-2. Directeuren zijn bevoegd tot het verlenen van ondervolmacht aan hun unitmanagers om voor de uitvoering van de werkzaamheden van hun unit namens de NZa privaatrechtelijke rechtshandelingen te verrichten met in achtneming van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=2&z=2024-10-01&g=2024-10-01) opgenomen maxima ten aanzien van de uit die rechtshandelingen voor de NZa voortvloeiende financiële verplichtingen.
-
-3. De unitmanager Informatie Knooppunt Zorgfraude is bevoegd voor de uitvoering van werkzaamheden van zijn unit, namens de NZa privaatrechtelijke rechtshandelingen te verrichten met inachtneming van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=2&z=2024-10-01&g=2024-10-01) opgenomen maxima ten aanzien van de uit de rechtshandelingen voor de NZa voortvloeiende financiële verplichtingen.
+2. Directeuren zijn bevoegd tot het verlenen van ondervolmacht aan hun unitmanagers om voor de uitvoering van de werkzaamheden van hun unit namens de NZa privaatrechtelijke rechtshandelingen te verrichten met in achtneming van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=2&z=2025-01-01&g=2025-01-01) opgenomen maxima ten aanzien van de uit die rechtshandelingen voor de NZa voortvloeiende financiële verplichtingen.
 
 ## Bijlage 1. Werkwijze NZa – sturing en verantwoording
 
