@@ -4,7 +4,7 @@ identifier: "BWBR0006309"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2011-05-25"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006309"
 soort: "AMvB"
@@ -69,19 +69,21 @@ Hebben goedgevonden en verstaan:
 
 Het bevoegd gezag brengt slechts verkeerstekens aan opgenomen in:
 
-- a. voor wat betreft het Binnenvaartpolitiereglement, de bij dat besluit behorende bijlagen 7 en 8,
+- a. voor wat betreft het [Binnenvaartpolitiereglement](onbekend) met uitzondering van de Waddenzee, de bij dat besluit behorende [bijlagen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&bijlage=7) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&bijlage=8);
 
-- b. voor wat betreft het Rijnvaartpolitiereglement 1995, de bij dat besluit behorende bijlagen 7 en 8,
+- b. voor wat betreft het [Binnenvaartpolitiereglement](onbekend) op de Waddenzee, de bij dat besluit behorende [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&bijlage=7) en het IALA betonningssysteem Regio A;
 
-- c. voor wat betreft het [Scheepvaartreglement Eemsmonding](https://wetten.overheid.nl/jci1.3:c:BWBR0004552), de bij dat besluit behorende [bijlage 1, hoofdstuk I](onbekend),
+- c. voor wat betreft het Rijnvaartpolitiereglement 1995, de bij dat besluit behorende bijlagen 7 en 8;
 
-- d. voor wat betreft het [Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen](https://wetten.overheid.nl/jci1.3:c:BWBR0005315), de bij dat besluit behorende [bijlagen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&bijlage=5) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&bijlage=6),
+- d. voor wat betreft het [Scheepvaartreglement Eemsmonding](https://wetten.overheid.nl/jci1.3:c:BWBR0004552), de bij dat besluit behorende [bijlage 1, hoofdstuk I](onbekend);
 
-- e. voor wat betreft het [Scheepvaartreglement Westerschelde 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0005393), het IALA betonningssysteem Regio A en het markeringssysteem opgenomen in de uitgave betonningssystemen in Nederland van de chef der hydrografie,
+- e. voor wat betreft het [Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen](https://wetten.overheid.nl/jci1.3:c:BWBR0005315), de bij dat besluit behorende [bijlagen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&bijlage=5) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&bijlage=6);
 
-- f. voor wat betreft het [Besluit Scheepvaartreglement Gemeenschappelijke Maas](https://wetten.overheid.nl/jci1.3:c:BWBR0006618), de bij dat besluit behorende [bijlagen II](https://wetten.overheid.nl/jci1.3:c:BWBR0006618&bijlage=II) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0006618&bijlage=III), en,
+- f. voor wat betreft het [Scheepvaartreglement Westerschelde 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0005393), het IALA betonningssysteem Regio A;
 
-- g. . voor wat betreft het [Scheepvaartreglement territoriale zee](https://wetten.overheid.nl/jci1.3:c:BWBR0007914), de bij dat besluit behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&bijlage=2).
+- g. voor wat betreft het [Besluit Scheepvaartreglement Gemeenschappelijke Maas](https://wetten.overheid.nl/jci1.3:c:BWBR0006618), de bij dat besluit behorende [bijlagen II](https://wetten.overheid.nl/jci1.3:c:BWBR0006618&bijlage=II) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0006618&bijlage=III); en
+
+- h. voor wat betreft het [Scheepvaartreglement territoriale zee](https://wetten.overheid.nl/jci1.3:c:BWBR0007914), de bij dat besluit behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&bijlage=2).
 
 #### § 2. Aanbrenging en verwijdering van verkeerstekens krachtens verkeersbesluit
 
@@ -139,7 +141,7 @@ Degene die de bevoegdheid uitoefent vanwege het bevoegd gezag geeft van het voor
 
 ##### Artikel 12
 
-In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006309&hoofdstuk=2&paragraaf=5&artikel=10&z=2011-05-25&g=2011-05-25) geschiedt de tijdelijke aanbrenging krachtens een verkeersbesluit indien de omstandigheden die tot de tijdelijke aanbrenging leiden van langere duur zijn dan dertien weken dan wel zich regelmatig voordoen. [Paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006309&hoofdstuk=2&paragraaf=4&z=2011-05-25&g=2011-05-25) is alsdan van toepassing.
+In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006309&hoofdstuk=2&paragraaf=5&artikel=10&z=2025-01-01&g=2025-01-01) geschiedt de tijdelijke aanbrenging krachtens een verkeersbesluit indien de omstandigheden die tot de tijdelijke aanbrenging leiden van langere duur zijn dan dertien weken dan wel zich regelmatig voordoen. [Paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006309&hoofdstuk=2&paragraaf=4&z=2025-01-01&g=2025-01-01) is alsdan van toepassing.
 
 #### § 6. Bekendmakingen met dezelfde strekking als een verkeersteken
 
@@ -189,7 +191,7 @@ In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006309&ho
 
 5. Met betrekking tot het derde lid is [artikel 1.01, onderdeel A, 15° tot en met 18°, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.01) van overeenkomstige toepassing.
 
-6. De[artikelen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006309&hoofdstuk=2&paragraaf=2&artikel=4&z=2011-05-25&g=2011-05-25) en [10 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0006309&hoofdstuk=2&paragraaf=5&artikel=10&z=2011-05-25&g=2011-05-25) zijn van overeenkomstige toepassing op bekendmakingen met dezelfde strekking als een verkeersteken.
+6. De[artikelen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006309&hoofdstuk=2&paragraaf=2&artikel=4&z=2025-01-01&g=2025-01-01) en [10 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0006309&hoofdstuk=2&paragraaf=5&artikel=10&z=2025-01-01&g=2025-01-01) zijn van overeenkomstige toepassing op bekendmakingen met dezelfde strekking als een verkeersteken.
 
 ### Hoofdstuk 3. Vrijstellingen
 
