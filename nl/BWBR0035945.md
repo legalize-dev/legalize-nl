@@ -4,7 +4,7 @@ identifier: "BWBR0035945"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2024-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035945"
 soort: "ministeriele-regeling"
@@ -48,27 +48,27 @@ Vervallen
 
 1. De vergoedingen, bedoeld in [artikel 34, eerste lid, van de Wet op de Kamer van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&artikel=34), bedragen voor:
 
-- a. een bijeenkomst voor starters: maximaal € 58,65 per deelnemer;
+- a. een bijeenkomst voor starters: maximaal € 60,20 per deelnemer;
 
-- b. overige bijeenkomsten: maximaal € 58,65 per deelnemer;
+- b. overige bijeenkomsten: maximaal € 60,20 per deelnemer;
 
-- c. een afgifte van een certificaat van oorsprong: € 23,30;
+- c. een afgifte van een certificaat van oorsprong: € 23,90;
 
-- d. een digitale afgifte van een certificaat van oorsprong: € 16,65;
+- d. een digitale afgifte van een certificaat van oorsprong: € 17,10;
 
-- e. een afgifte van het Admission Temporaire/Temporary Admission-carnet: € 258,– per carnet, verhoogd met 0,6655 promille in verband met de verzekeringspremie niet-voldane douaneverplichtingen;
+- e. een afgifte van het Admission Temporaire/Temporary Admission-carnet: € 265,– per carnet, verhoogd met 0,6655 promille in verband met de verzekeringspremie niet-voldane douaneverplichtingen;
 
-- f. een afgifte van legalisatiedocumenten: € 13,65;
+- f. een afgifte van legalisatiedocumenten: € 14,05;
 
-- g. een digitale afgifte van legalisatiedocumenten: € 11,25;
+- g. een digitale afgifte van legalisatiedocumenten: € 11,55;
 
-- h. het in depot houden van algemene voorwaarden: € 21,10 per jaar;
+- h. het in depot houden van algemene voorwaarden: € 21,70 per jaar;
 
 - i. een kopie van certificaten van oorsprong en legalisatiedocumenten: € 1,15 per kopie;
 
-- j. een afgifte van de vergunning winkelweekactie: € 32,85 per vergunning;
+- j. een afgifte van de vergunning winkelweekactie: € 33,70 per vergunning;
 
-- k. een Europese Gemeenschap Verklaring op basis van [richtlijn 2005/36/EG](32005L0036): € 93,80 per EU-Verklaring;
+- k. een Europese Gemeenschap Verklaring op basis van [richtlijn 2005/36/EG](32005L0036): € 96,35 per EU-Verklaring;
 
 - l. inkomende en uitgaande handelsmissies: tarief per deelnemer wordt berekend per missie op basis van hoofdelijke omslag;
 
@@ -90,25 +90,28 @@ Deze regeling treedt in werking met ingang van 1 januari 2015.
 
 Deze regeling wordt aangehaald als: Regeling vergoedingen Kamer van Koophandel 2015.
 
-## Bijlage. behorende bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035945&artikel=2&z=2024-01-01&g=2024-01-01)
+## Bijlage behorende bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035945&artikel=2&z=2025-01-01&g=2025-01-01)
 
-- a. Uurtarieven begroting 2024 (in euro, exclusief BTW)
+- a. Uurtarieven begroting 2025 (in euro, exclusief BTW)
 
-| Loonschaal 4 | 55 |
+| Loonschaal 1 | € 52,– |
 | --- | --- |
-| Loonschaal 5 | 57 |
-| Loonschaal 6 | 59 |
-| Loonschaal 7 | 63 |
-| Loonschaal 8 | 67 |
-| Loonschaal 9 | 72 |
-| Loonschaal 10 | 78 |
-| Loonschaal 11 | 87 |
-| Loonschaal 12 | 98 |
-| Loonschaal 13 | 109 |
-| Loonschaal 14 | 118 |
-| Loonschaal 15 | 128 |
-| Loonschaal 16 | 137 |
+| Loonschaal 2 | € 52,– |
+| Loonschaal 3 | € 55,– |
+| Loonschaal 4 | € 59,– |
+| Loonschaal 5 | € 61,– |
+| Loonschaal 6 | € 63,– |
+| Loonschaal 7 | € 67,– |
+| Loonschaal 8 | € 72,– |
+| Loonschaal 9 | € 78,– |
+| Loonschaal 10 | € 84,– |
+| Loonschaal 11 | € 93,– |
+| Loonschaal 12 | € 105,– |
+| Loonschaal 13 | € 117,– |
+| Loonschaal 14 | € 128,– |
+| Loonschaal 15 | € 138,– |
+| Loonschaal 16 | € 148,– |
 
-- b. Voor de werkzaamheden en diensten van de IT-afdeling is voor 2024 een standaard tarief vastgesteld van € 129 per uur, exclusief BTW.
+- b. Voor de werkzaamheden en diensten van de IT-afdeling is voor 2025 een standaard tarief vastgesteld van € 133,– per uur, exclusief BTW.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
