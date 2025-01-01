@@ -4,7 +4,7 @@ identifier: "BWBR0011018"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-02-01"
-last_updated: "2024-07-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011018"
 soort: "AMvB"
@@ -90,7 +90,7 @@ In dit besluit wordt verstaan onder:
 
 - d. strafzaak: een strafzaak jegens een verdachte als bedoeld in [artikel 27 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=27) en een andere zaak die in de bijlage als strafrechtelijke zaak is aangemerkt;
 
-- e. piketzaak: een zaak waarin een rechtsbijstandverlener rechtsbijstand heeft verleend in het kader van een door het bestuur getroffen regeling voor het beurtelings verlenen van rechtsbijstand in de gevallen, bedoeld in de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._3&artikel=23&z=2024-07-01&g=2024-07-01) en [23a](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._3&artikel=23a&z=2024-07-01&g=2024-07-01).
+- e. piketzaak: een zaak waarin een rechtsbijstandverlener rechtsbijstand heeft verleend in het kader van een door het bestuur getroffen regeling voor het beurtelings verlenen van rechtsbijstand in de gevallen, bedoeld in de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._3&artikel=23&z=2025-01-01&g=2025-01-01) en [23a](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._3&artikel=23a&z=2025-01-01&g=2025-01-01).
 
 ##### Artikel 2
 
@@ -104,13 +104,13 @@ In dit besluit wordt verstaan onder:
 
 - c. de omzetbelasting die is verschuldigd over de vergoedingen, bedoeld onder a en b.
 
-3. Ten behoeve van de berekening van de vergoeding worden de krachtens dit besluit toegekende punten vermenigvuldigd met het basisbedrag, genoemd in het [eerste lid van artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=I&artikel=3&z=2024-07-01&g=2024-07-01).
+3. Ten behoeve van de berekening van de vergoeding worden de krachtens dit besluit toegekende punten vermenigvuldigd met het basisbedrag, genoemd in het [eerste lid van artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=I&artikel=3&z=2025-01-01&g=2025-01-01).
 
 ##### Artikel 3
 
-1. Het basisbedrag bedraagt € 126,55.
+1. Het basisbedrag bedraagt € 134,47.
 
-2. Het basisbedrag en de vergoeding, bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=III&artikel=27&z=2024-07-01&g=2024-07-01), worden jaarlijks met ingang van 1 januari door Onze Minister gewijzigd met een percentage dat overeenkomt met 0,6 x (A – B) + (0,4 x C), waarbij:
+2. Het basisbedrag en de vergoeding, bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=III&artikel=27&z=2025-01-01&g=2025-01-01), worden jaarlijks met ingang van 1 januari door Onze Minister gewijzigd met een percentage dat overeenkomt met 0,6 x (A – B) + (0,4 x C), waarbij:
 
 - a. A gelijk is aan het procentuele verschil tussen het indexcijfer van de CAO-lonen per uur, inclusief de bijzondere beloningen van het jaargemiddelde van het jaar t-2 en het daaraan voorafgaande jaargemiddelde, zoals die door het Centraal Bureau voor de Statistiek zijn bekendgemaakt;
 
@@ -120,7 +120,7 @@ In dit besluit wordt verstaan onder:
 
 - d. onder t-2 wordt verstaan het tweede jaar voorafgaand aan het jaar waarin de gewijzigde bedragen zullen gelden.
 
-3. De vaststelling van de vergoeding, bedoeld in het [eerste lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=I&artikel=2&z=2024-07-01&g=2024-07-01), vindt plaats met toepassing van het basisbedrag en de vergoedingen, bedoeld in de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=III&artikel=25&z=2024-07-01&g=2024-07-01) en [27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=III&artikel=27&z=2024-07-01&g=2024-07-01), die golden ten tijde van de afgifte van de toevoeging op grond waarvan de rechtsbijstand is verleend of het tijdstip waarop rechtsbijstand is verleend in een piketzaak.
+3. De vaststelling van de vergoeding, bedoeld in het [eerste lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=I&artikel=2&z=2025-01-01&g=2025-01-01), vindt plaats met toepassing van het basisbedrag en de vergoedingen, bedoeld in de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=III&artikel=25&z=2025-01-01&g=2025-01-01) en [27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=III&artikel=27&z=2025-01-01&g=2025-01-01), die golden ten tijde van de afgifte van de toevoeging op grond waarvan de rechtsbijstand is verleend of het tijdstip waarop rechtsbijstand is verleend in een piketzaak.
 
 ##### Artikel 4
 
@@ -148,9 +148,9 @@ In dit besluit wordt verstaan onder:
 
 1. Aan een procedure wordt het aantal punten toegekend dat in de bijlage voor het desbetreffende rechtsterrein of soort zaak is bepaald.
 
-2. Indien de procedure is beëindigd voordat de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=I&artikel=1&z=2024-07-01&g=2024-07-01) bedoelde instantie uitspraak of tussenuitspraak heeft gedaan of een beslissing heeft genomen dan wel voordat de rechtsbijstandverlener een zitting als bedoeld in het [eerste lid van artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._1&artikel=7&z=2024-07-01&g=2024-07-01) heeft bijgewoond, zijn de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._1&artikel=12&z=2024-07-01&g=2024-07-01) en [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._1&artikel=13&z=2024-07-01&g=2024-07-01), van overeenkomstige toepassing.
+2. Indien de procedure is beëindigd voordat de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=I&artikel=1&z=2025-01-01&g=2025-01-01) bedoelde instantie uitspraak of tussenuitspraak heeft gedaan of een beslissing heeft genomen dan wel voordat de rechtsbijstandverlener een zitting als bedoeld in het [eerste lid van artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._1&artikel=7&z=2025-01-01&g=2025-01-01) heeft bijgewoond, zijn de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._1&artikel=12&z=2025-01-01&g=2025-01-01) en [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._1&artikel=13&z=2025-01-01&g=2025-01-01), van overeenkomstige toepassing.
 
-3. Indien ten tijde van de beëindiging van de procedure uitsluitend een bestuursrechtelijke uitspraak over de proceskosten is gedaan, zijn de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._1&artikel=12&z=2024-07-01&g=2024-07-01) en [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._1&artikel=13&z=2024-07-01&g=2024-07-01), van overeenkomstige toepassing.
+3. Indien ten tijde van de beëindiging van de procedure uitsluitend een bestuursrechtelijke uitspraak over de proceskosten is gedaan, zijn de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._1&artikel=12&z=2025-01-01&g=2025-01-01) en [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._1&artikel=13&z=2025-01-01&g=2025-01-01), van overeenkomstige toepassing.
 
 4. In de gevallen, bedoeld in het tweede en derde lid, zijn de overige bepalingen van deze paragraaf niet van toepassing.
 
@@ -186,11 +186,11 @@ Vervallen
 
 1. Als samenhangende zaken worden beschouwd procedures en advieszaken die gevoegd, gelijktijdig, aansluitend of nagenoeg aansluitend zijn behandeld, en waarvoor één rechtsbijstandverlener is toegevoegd of meer dan één rechtsbijstandverlener mits zij deel uitmaken van hetzelfde samenwerkingsverband en voor zover de zaken naar hun aard verknocht zijn.
 
-2. In samenhangende zaken waarin sprake is van twee of meer rechtzoekenden met een of meer procedures of advieszaken, wordt in afwijking van [artikel 12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._1&artikel=12&z=2024-07-01&g=2024-07-01), onderscheidenlijk [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._1&artikel=5&z=2024-07-01&g=2024-07-01), aan die procedures en advieszaken gezamenlijk het aantal punten toegekend dat wordt verkregen door het aantal punten dat in artikel 12 voor advieszaken en in de bijlage voor procedures is bepaald voor het desbetreffende rechtsterrein of soort zaak met het hoogste aantal punten te vermenigvuldigen met de navolgende percentages, al naar gelang het aantal toevoegingen: 2–3: 150%; 4–6: 200%; 7–10: 300%; 11–15: 400%;16–21: 500%; elke volgende 10: 100% extra.
+2. In samenhangende zaken waarin sprake is van twee of meer rechtzoekenden met een of meer procedures of advieszaken, wordt in afwijking van [artikel 12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._1&artikel=12&z=2025-01-01&g=2025-01-01), onderscheidenlijk [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._1&artikel=5&z=2025-01-01&g=2025-01-01), aan die procedures en advieszaken gezamenlijk het aantal punten toegekend dat wordt verkregen door het aantal punten dat in artikel 12 voor advieszaken en in de bijlage voor procedures is bepaald voor het desbetreffende rechtsterrein of soort zaak met het hoogste aantal punten te vermenigvuldigen met de navolgende percentages, al naar gelang het aantal toevoegingen: 2–3: 150%; 4–6: 200%; 7–10: 300%; 11–15: 400%;16–21: 500%; elke volgende 10: 100% extra.
 
-3. In samenhangende zaken waarbij sprake is van één rechtzoekende met meerdere procedures of advieszaken, wordt in afwijking van [artikel 12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._1&artikel=12&z=2024-07-01&g=2024-07-01), onderscheidenlijk [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._1&artikel=5&z=2024-07-01&g=2024-07-01), aan die procedures en advieszaken gezamenlijk het aantal punten toegekend dat wordt verkregen door voor advieszaken het aantal punten dat in artikel 12 en voor procedures het aantal punten dat in de bijlage is bepaald voor het desbetreffende rechtsterrein of soort zaak met het hoogste aantal punten te verhogen met 50% voor elke procedure en advieszaak, met uitzondering van de eerste.
+3. In samenhangende zaken waarbij sprake is van één rechtzoekende met meerdere procedures of advieszaken, wordt in afwijking van [artikel 12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._1&artikel=12&z=2025-01-01&g=2025-01-01), onderscheidenlijk [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._1&artikel=5&z=2025-01-01&g=2025-01-01), aan die procedures en advieszaken gezamenlijk het aantal punten toegekend dat wordt verkregen door voor advieszaken het aantal punten dat in artikel 12 en voor procedures het aantal punten dat in de bijlage is bepaald voor het desbetreffende rechtsterrein of soort zaak met het hoogste aantal punten te verhogen met 50% voor elke procedure en advieszaak, met uitzondering van de eerste.
 
-4. Indien samenhangende zaken gevoegd, gelijktijdig, aansluitend of nagenoeg aansluitend op een zitting als bedoeld in het [eerste lid van artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._1&artikel=7&z=2024-07-01&g=2024-07-01) zijn behandeld, wordt deze zitting voor de toekenning van de punten, bedoeld in het [tweede lid van artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._1&artikel=7&z=2024-07-01&g=2024-07-01), aangemerkt als één zitting.
+4. Indien samenhangende zaken gevoegd, gelijktijdig, aansluitend of nagenoeg aansluitend op een zitting als bedoeld in het [eerste lid van artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._1&artikel=7&z=2025-01-01&g=2025-01-01) zijn behandeld, wordt deze zitting voor de toekenning van de punten, bedoeld in het [tweede lid van artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._1&artikel=7&z=2025-01-01&g=2025-01-01), aangemerkt als één zitting.
 
 5. Op samenhangende zaken die in cassatie zijn gevoerd zijn het tweede, derde en vierde lid van overeenkomstige toepassing, met dien verstande dat de berekening, bedoeld in het tweede en derde lid, wordt toegepast op 24 punten.
 
@@ -200,19 +200,19 @@ Vervallen
 
 1. Aan een advieszaak waarin minder dan zeven uur rechtsbijstand wordt verleend, worden vier punten toegekend.
 
-2. Aan een advieszaak waarin zeven uur of meer rechtsbijstand wordt verleend, worden tien punten toegekend. [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._1&artikel=9&z=2024-07-01&g=2024-07-01) is van overeenkomstige toepassing.
+2. Aan een advieszaak waarin zeven uur of meer rechtsbijstand wordt verleend, worden tien punten toegekend. [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._1&artikel=9&z=2025-01-01&g=2025-01-01) is van overeenkomstige toepassing.
 
 3. In afwijking van het eerste en tweede lid worden aan een zaak waarin eenvoudig rechtskundig advies wordt gegeven twee punten verleend.
 
-4. In afwijking van het eerste en tweede lid en behoudens de toepassing van [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._1&artikel=13&z=2024-07-01&g=2024-07-01), is het aantal punten dat wordt toegekend in een advieszaak niet hoger dan het aantal punten dat voor het desbetreffende rechtsterrein of soort zaak in de bijlage wordt toegekend.
+4. In afwijking van het eerste en tweede lid en behoudens de toepassing van [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._1&artikel=13&z=2025-01-01&g=2025-01-01), is het aantal punten dat wordt toegekend in een advieszaak niet hoger dan het aantal punten dat voor het desbetreffende rechtsterrein of soort zaak in de bijlage wordt toegekend.
 
 ##### Artikel 13
 
-1. Indien in een procedure de tijdsbesteding aan de verlening van rechtsbijstand uitgaat boven het aantal uren dat gelijk is aan twee maal het aantal punten dat in de bijlage voor het desbetreffende rechtsterrein of soort zaak, wordt voor elk uur waarin boven voornoemde grens rechtsbijstand wordt verleend, één punt toegekend mits het bestuur de begroting van de tijdsbesteding voor de naar verwachting nog te verrichten werkzaamheden, bedoeld in het [eerste lid van artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=IV&paragraaf=par._1&artikel=31&z=2024-07-01&g=2024-07-01), heeft goedgekeurd.
+1. Indien in een procedure de tijdsbesteding aan de verlening van rechtsbijstand uitgaat boven het aantal uren dat gelijk is aan twee maal het aantal punten dat in de bijlage voor het desbetreffende rechtsterrein of soort zaak, wordt voor elk uur waarin boven voornoemde grens rechtsbijstand wordt verleend, één punt toegekend mits het bestuur de begroting van de tijdsbesteding voor de naar verwachting nog te verrichten werkzaamheden, bedoeld in het [eerste lid van artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=IV&paragraaf=par._1&artikel=31&z=2025-01-01&g=2025-01-01), heeft goedgekeurd.
 
-2. Indien in een advieszaak de tijdsbesteding aan de verlening van rechtsbijstand uitgaat boven de 20 uur, wordt voor elk uur waarin boven voornoemde grens rechtsbijstand wordt verleend, één punt toegekend mits het bestuur de begroting van de tijdsbesteding voor de naar verwachting nog te verrichten werkzaamheden, bedoeld in het [eerste lid van artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=IV&paragraaf=par._1&artikel=31&z=2024-07-01&g=2024-07-01), heeft goedgekeurd.
+2. Indien in een advieszaak de tijdsbesteding aan de verlening van rechtsbijstand uitgaat boven de 20 uur, wordt voor elk uur waarin boven voornoemde grens rechtsbijstand wordt verleend, één punt toegekend mits het bestuur de begroting van de tijdsbesteding voor de naar verwachting nog te verrichten werkzaamheden, bedoeld in het [eerste lid van artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=IV&paragraaf=par._1&artikel=31&z=2025-01-01&g=2025-01-01), heeft goedgekeurd.
 
-3. Indien in samenhangende zaken de tijdsbesteding aan de verlening van rechtsbijstand uitgaat boven het aantal uren dat gelijk is aan twee maal het aantal punten dat op grond van het [tweede, derde en vijfde lid van artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._1&artikel=11&z=2024-07-01&g=2024-07-01) wordt toegekend wordt, voor elk uur waarin boven voornoemde grens rechtsbijstand wordt verleend, één punt toegekend, mits het bestuur de begroting van de tijdsbesteding voor de naar verwachting nog te verrichten werkzaamheden, bedoeld in het [eerste lid van artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=IV&paragraaf=par._1&artikel=31&z=2024-07-01&g=2024-07-01), heeft goedgekeurd.
+3. Indien in samenhangende zaken de tijdsbesteding aan de verlening van rechtsbijstand uitgaat boven het aantal uren dat gelijk is aan twee maal het aantal punten dat op grond van het [tweede, derde en vijfde lid van artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._1&artikel=11&z=2025-01-01&g=2025-01-01) wordt toegekend wordt, voor elk uur waarin boven voornoemde grens rechtsbijstand wordt verleend, één punt toegekend, mits het bestuur de begroting van de tijdsbesteding voor de naar verwachting nog te verrichten werkzaamheden, bedoeld in het [eerste lid van artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=IV&paragraaf=par._1&artikel=31&z=2025-01-01&g=2025-01-01), heeft goedgekeurd.
 
 #### par. 2. strafzaken
 
@@ -226,7 +226,7 @@ Vervallen
 
 ##### Artikel 16
 
-1. Indien in een strafzaak in eerste aanleg of in hoger beroep over de gevangenhouding of gevangenneming van de rechtzoekende is geoordeeld, wordt, in afwijking van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._2&artikel=18&z=2024-07-01&g=2024-07-01), het aantal toe te kennen punten met twee en een half verhoogd.
+1. Indien in een strafzaak in eerste aanleg of in hoger beroep over de gevangenhouding of gevangenneming van de rechtzoekende is geoordeeld, wordt, in afwijking van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._2&artikel=18&z=2025-01-01&g=2025-01-01), het aantal toe te kennen punten met twee en een half verhoogd.
 
 2. Bij verlenging van de gevangenhouding, bedoeld in het eerste lid, wordt eenmalig het aantal punten met anderhalf verhoogd.
 
@@ -248,7 +248,7 @@ Indien de rechtsbijstandverlener in het kader van een gerechtelijk vooronderzoek
 
 ##### Artikel 19
 
-1. Indien een strafzaak vóór het onderzoek ter terechtzitting of voor de behandeling in rechte van de hoofdzaak of hoofdvordering wordt beëindigd, worden in afwijking van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._2&artikel=14&z=2024-07-01&g=2024-07-01) vijf punten toegekend, tenzij in de bijlage een lager puntenaantal is bepaald.
+1. Indien een strafzaak vóór het onderzoek ter terechtzitting of voor de behandeling in rechte van de hoofdzaak of hoofdvordering wordt beëindigd, worden in afwijking van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._2&artikel=14&z=2025-01-01&g=2025-01-01) vijf punten toegekend, tenzij in de bijlage een lager puntenaantal is bepaald.
 
 2. Het eerste lid is niet van toepassing op strafzaken als bedoeld in de rijen B2 en B4 van de bijlage.
 
@@ -258,13 +258,13 @@ Indien in een strafzaak rechtsbijstand is verleend door achtereenvolgens twee of
 
 ##### Artikel 21
 
-1. Als samenhangende strafzaken worden beschouwd zaken die gevoegd, gelijktijdig, aansluitend of nagenoeg aansluitend ter zitting als bedoeld in het [eerste lid van artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._2&artikel=18&z=2024-07-01&g=2024-07-01), zijn behandeld, en waarvoor één rechtsbijstandverlener is toegevoegd of meer dan één rechtsbijstandverlener mits zij deel uitmaken van hetzelfde samenwerkingsverband en voor zover de zaken naar hun aard verknocht zijn.
+1. Als samenhangende strafzaken worden beschouwd zaken die gevoegd, gelijktijdig, aansluitend of nagenoeg aansluitend ter zitting als bedoeld in het [eerste lid van artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._2&artikel=18&z=2025-01-01&g=2025-01-01), zijn behandeld, en waarvoor één rechtsbijstandverlener is toegevoegd of meer dan één rechtsbijstandverlener mits zij deel uitmaken van hetzelfde samenwerkingsverband en voor zover de zaken naar hun aard verknocht zijn.
 
-2. In samenhangende strafzaken waarbij twee of meer rechtzoekenden zijn betrokken bij een of meer zaken, wordt in afwijking van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._2&artikel=14&z=2024-07-01&g=2024-07-01), aan de zaken gezamenlijk het aantal punten toegekend dat wordt verkregen door het aantal punten dat in de bijlage is bepaald voor het desbetreffende rechtsterrein of soort zaak met het hoogste aantal punten te vermenigvuldigen met de navolgende percentages, al naar gelang het aantal zaken: 2–3: 150%; 4–6: 200%; 7–10: 300%; 11–15: 400%;16–21: 500%; elke volgende 10: 100% extra.
+2. In samenhangende strafzaken waarbij twee of meer rechtzoekenden zijn betrokken bij een of meer zaken, wordt in afwijking van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._2&artikel=14&z=2025-01-01&g=2025-01-01), aan de zaken gezamenlijk het aantal punten toegekend dat wordt verkregen door het aantal punten dat in de bijlage is bepaald voor het desbetreffende rechtsterrein of soort zaak met het hoogste aantal punten te vermenigvuldigen met de navolgende percentages, al naar gelang het aantal zaken: 2–3: 150%; 4–6: 200%; 7–10: 300%; 11–15: 400%;16–21: 500%; elke volgende 10: 100% extra.
 
-3. In samenhangende strafzaken waarbij één rechtzoekende is betrokken bij meer dan één zaak, wordt in afwijking van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._2&artikel=14&z=2024-07-01&g=2024-07-01), aan de zaken gezamenlijk het aantal punten toegekend dat wordt verkregen door het aantal punten dat in de bijlage is bepaald voor het desbetreffende rechtsterrein of soort zaak met het hoogste aantal punten te verhogen met 50% voor elke zaak, met uitzondering van de eerste.
+3. In samenhangende strafzaken waarbij één rechtzoekende is betrokken bij meer dan één zaak, wordt in afwijking van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._2&artikel=14&z=2025-01-01&g=2025-01-01), aan de zaken gezamenlijk het aantal punten toegekend dat wordt verkregen door het aantal punten dat in de bijlage is bepaald voor het desbetreffende rechtsterrein of soort zaak met het hoogste aantal punten te verhogen met 50% voor elke zaak, met uitzondering van de eerste.
 
-4. Indien samenhangende strafzaken gevoegd, gelijktijdig, aansluitend of nagenoeg aansluitend op een zitting als bedoeld in het [eerste lid van artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._2&artikel=18&z=2024-07-01&g=2024-07-01) zijn behandeld, wordt deze zitting voor de toekenning van de punten, bedoeld in het [tweede lid van artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._2&artikel=18&z=2024-07-01&g=2024-07-01), aangemerkt als één zitting.
+4. Indien samenhangende strafzaken gevoegd, gelijktijdig, aansluitend of nagenoeg aansluitend op een zitting als bedoeld in het [eerste lid van artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._2&artikel=18&z=2025-01-01&g=2025-01-01) zijn behandeld, wordt deze zitting voor de toekenning van de punten, bedoeld in het [tweede lid van artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._2&artikel=18&z=2025-01-01&g=2025-01-01), aangemerkt als één zitting.
 
 5. Op samenhangende strafzaken die bij de Hoge Raad aanhangig zijn gemaakt zijn het tweede, derde en vierde lid van overeenkomstige toepassing, met dien verstande dat voor de berekening, bedoeld in het tweede en derde lid, wordt uitgegaan van de strafzaak waaraan op grond van de rijen B1, B2, B3, B4 en B5 van de bijlage het hoogste aantal punten wordt toegekend.
 
@@ -272,19 +272,19 @@ Indien in een strafzaak rechtsbijstand is verleend door achtereenvolgens twee of
 
 1. Ten aanzien van strafzaken die in de bijlage zijn aangemerkt als strafrecht verdachten of daaruit voortvloeiende strafrechtelijke cassatiezaken wordt:
 
-- a. indien in een strafzaak de tijdsbesteding aan de verlening van rechtsbijstand uitgaat boven het aantal uren dat gelijk is aan twee maal het aantal punten dat in de bijlage voor het desbetreffende rechtsterrein of soort zaak of in de rijen B1, B2, B3, B4 en B5 is bepaald, voor elk uur waarin boven voornoemde grens rechtsbijstand wordt verleend, 0,955 punt toegekend, mits het bestuur de begroting van de tijdsbesteding voor de naar verwachting nog te verrichten werkzaamheden, bedoeld in het [eerste lid van artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=IV&paragraaf=par._1&artikel=31&z=2024-07-01&g=2024-07-01), heeft goedgekeurd;
+- a. indien in een strafzaak de tijdsbesteding aan de verlening van rechtsbijstand uitgaat boven het aantal uren dat gelijk is aan twee maal het aantal punten dat in de bijlage voor het desbetreffende rechtsterrein of soort zaak of in de rijen B1, B2, B3, B4 en B5 is bepaald, voor elk uur waarin boven voornoemde grens rechtsbijstand wordt verleend, 0,955 punt toegekend, mits het bestuur de begroting van de tijdsbesteding voor de naar verwachting nog te verrichten werkzaamheden, bedoeld in het [eerste lid van artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=IV&paragraaf=par._1&artikel=31&z=2025-01-01&g=2025-01-01), heeft goedgekeurd;
 
-- b. indien in een strafzaak die is beëindigd in de situaties bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._2&artikel=19&z=2024-07-01&g=2024-07-01), de tijdsbesteding aan de verlening van rechtsbijstand uitgaat boven het aantal uren dat gelijk is aan twee maal het aantal punten dat wordt toegekend op grond van artikel 19 voor elk uur waarin boven voornoemde grens rechtsbijstand wordt verleend, 0,955 punt toegekend, mits het bestuur de begroting van de tijdsbesteding voor de naar verwachting nog te verrichten werkzaamheden, bedoeld in het [eerste lid van artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=IV&paragraaf=par._1&artikel=31&z=2024-07-01&g=2024-07-01), heeft goedgekeurd;
+- b. indien in een strafzaak die is beëindigd in de situaties bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._2&artikel=19&z=2025-01-01&g=2025-01-01), de tijdsbesteding aan de verlening van rechtsbijstand uitgaat boven het aantal uren dat gelijk is aan twee maal het aantal punten dat wordt toegekend op grond van artikel 19 voor elk uur waarin boven voornoemde grens rechtsbijstand wordt verleend, 0,955 punt toegekend, mits het bestuur de begroting van de tijdsbesteding voor de naar verwachting nog te verrichten werkzaamheden, bedoeld in het [eerste lid van artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=IV&paragraaf=par._1&artikel=31&z=2025-01-01&g=2025-01-01), heeft goedgekeurd;
 
-- c. indien in samenhangende strafzaken de tijdsbesteding aan de verlening van rechtsbijstand uitgaat boven het aantal uren dat gelijk is aan twee maal het aantal punten dat op grond van [artikel 21, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._2&artikel=21&z=2024-07-01&g=2024-07-01), wordt toegekend, voor elk uur waarin boven voornoemde grens rechtsbijstand wordt verleend, 0,955 punt toegekend, mits het bestuur de begroting van de tijdsbesteding voor de naar verwachting nog te verrichten werkzaamheden, bedoeld in het [eerste lid van artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=IV&paragraaf=par._1&artikel=31&z=2024-07-01&g=2024-07-01), heeft goedgekeurd.
+- c. indien in samenhangende strafzaken de tijdsbesteding aan de verlening van rechtsbijstand uitgaat boven het aantal uren dat gelijk is aan twee maal het aantal punten dat op grond van [artikel 21, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._2&artikel=21&z=2025-01-01&g=2025-01-01), wordt toegekend, voor elk uur waarin boven voornoemde grens rechtsbijstand wordt verleend, 0,955 punt toegekend, mits het bestuur de begroting van de tijdsbesteding voor de naar verwachting nog te verrichten werkzaamheden, bedoeld in het [eerste lid van artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=IV&paragraaf=par._1&artikel=31&z=2025-01-01&g=2025-01-01), heeft goedgekeurd.
 
 2. Ten aanzien van strafzaken die in de bijlage zijn aangemerkt als strafrecht niet-verdachten of daaruit voortvloeiende strafrechtelijke cassatiezaken wordt:
 
 - a. indien in een strafzaak de tijdsbesteding aan de verlening van rechtsbijstand uitgaat boven het aantal uren dat gelijk is aan twee maal het aantal punten dat in de bijlage voor het desbetreffende rechtsterrein of soort zaak of in de rijen B1, B2, B3, B4 en B5 is bepaald, voor elk uur waarin boven voornoemde grens rechtsbijstand wordt verleend, één punt toegekend, mits het bestuur de begroting van de tijdsbesteding voor de naar verwachting nog te verrichten werkzaamheden, bedoeld in het eerste lid van artikel 31, heeft goedgekeurd;
 
-- b. indien in een strafzaak die is beëindigd in de situaties bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._2&artikel=19&z=2024-07-01&g=2024-07-01), de tijdsbesteding aan de verlening van rechtsbijstand uitgaat boven het aantal uren dat gelijk is aan twee maal het aantal punten dat wordt toegekend op grond van artikel 19, voor elk uur waarin boven voornoemde grens rechtsbijstand wordt verleend, één punt toegekend, mits het bestuur de begroting van de tijdsbesteding voor de naar verwachting nog te verrichten werkzaamheden, bedoeld in het eerste lid van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=IV&paragraaf=par._1&artikel=31&z=2024-07-01&g=2024-07-01), heeft goedgekeurd; of
+- b. indien in een strafzaak die is beëindigd in de situaties bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._2&artikel=19&z=2025-01-01&g=2025-01-01), de tijdsbesteding aan de verlening van rechtsbijstand uitgaat boven het aantal uren dat gelijk is aan twee maal het aantal punten dat wordt toegekend op grond van artikel 19, voor elk uur waarin boven voornoemde grens rechtsbijstand wordt verleend, één punt toegekend, mits het bestuur de begroting van de tijdsbesteding voor de naar verwachting nog te verrichten werkzaamheden, bedoeld in het eerste lid van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=IV&paragraaf=par._1&artikel=31&z=2025-01-01&g=2025-01-01), heeft goedgekeurd; of
 
-- c. indien in samenhangende strafzaken de tijdsbesteding aan de verlening van rechtsbijstand uitgaat boven het aantal uren dat gelijk is aan twee maal het aantal punten dat op grond van [artikel 21, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._2&artikel=21&z=2024-07-01&g=2024-07-01), wordt toegekend, voor elk uur waarin boven voornoemde grens rechtsbijstand wordt verleend, één punt toegekend, mits het bestuur de begroting van de tijdsbesteding voor de naar verwachting nog te verrichten werkzaamheden, bedoeld in het eerste lid van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=IV&paragraaf=par._1&artikel=31&z=2024-07-01&g=2024-07-01), heeft goedgekeurd.
+- c. indien in samenhangende strafzaken de tijdsbesteding aan de verlening van rechtsbijstand uitgaat boven het aantal uren dat gelijk is aan twee maal het aantal punten dat op grond van [artikel 21, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._2&artikel=21&z=2025-01-01&g=2025-01-01), wordt toegekend, voor elk uur waarin boven voornoemde grens rechtsbijstand wordt verleend, één punt toegekend, mits het bestuur de begroting van de tijdsbesteding voor de naar verwachting nog te verrichten werkzaamheden, bedoeld in het eerste lid van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=IV&paragraaf=par._1&artikel=31&z=2025-01-01&g=2025-01-01), heeft goedgekeurd.
 
 #### par. 3. piketzaken
 
@@ -326,7 +326,7 @@ Indien in een strafzaak rechtsbijstand is verleend door achtereenvolgens twee of
 
 ##### Artikel 24
 
-1. Voor het tijdverlet in verband met reizen ten behoeve van de verlening van rechtsbijstand in een andere zaak dan een piketzaak wordt, uitgaande van de totale afstand die is afgelegd bij reizen naar de zitting, bedoeld in het [eerste lid van artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._2&artikel=18&z=2024-07-01&g=2024-07-01) en het [eerste lid van artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._2&artikel=18&z=2024-07-01&g=2024-07-01), en naar rechtzoekenden wier vrijheid is ontnomen of beperkt, per volle gereisde 50 kilometer een halve punt toegekend. Onder reizen naar de zitting is mede begrepen het reizen in verband met de behandeling van de gevangenhouding of gevangenneming, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._2&artikel=16&z=2024-07-01&g=2024-07-01), alsmede in verband met het verhoor, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._2&artikel=17&z=2024-07-01&g=2024-07-01).
+1. Voor het tijdverlet in verband met reizen ten behoeve van de verlening van rechtsbijstand in een andere zaak dan een piketzaak wordt, uitgaande van de totale afstand die is afgelegd bij reizen naar de zitting, bedoeld in het [eerste lid van artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._2&artikel=18&z=2025-01-01&g=2025-01-01) en het [eerste lid van artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._2&artikel=18&z=2025-01-01&g=2025-01-01), en naar rechtzoekenden wier vrijheid is ontnomen of beperkt, per volle gereisde 50 kilometer een halve punt toegekend. Onder reizen naar de zitting is mede begrepen het reizen in verband met de behandeling van de gevangenhouding of gevangenneming, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._2&artikel=16&z=2025-01-01&g=2025-01-01), alsmede in verband met het verhoor, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._2&artikel=17&z=2025-01-01&g=2025-01-01).
 
 2. Het eerste lid is van overeenkomstige toepassing op de vergoeding voor het tijdverlet in verband met reizen overeenkomstig door het bestuur gestelde regels naar een Aanmeldcentrum in verband met de verlening van rechtsbijstand tijdens het onderzoek naar de aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in[artikel 28, eerste lid, onderdeel a, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28).
 
@@ -338,7 +338,7 @@ Indien in een strafzaak rechtsbijstand is verleend door achtereenvolgens twee of
 
 ##### Artikel 25
 
-1. Voor de kosten die worden gemaakt voor reizen naar de zitting, bedoeld in de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._1&artikel=7&z=2024-07-01&g=2024-07-01), en [18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._2&artikel=18&z=2024-07-01&g=2024-07-01), en naar rechtzoekenden wier vrijheid is ontnomen of beperkt, wordt een kilometervergoeding toegekend ter hoogte van het bedrag, genoemd in [artikel 31a, tweede lid, onderdeel a, onder 3°, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31a). Dezelfde kilometervergoeding wordt toegekend voor de kosten die worden gemaakt voor reizen in verband met de behandeling van de gevangenhouding of gevangenneming, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._2&artikel=16&z=2024-07-01&g=2024-07-01), alsmede in verband met het verhoor, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._2&artikel=17&z=2024-07-01&g=2024-07-01).
+1. Voor de kosten die worden gemaakt voor reizen naar de zitting, bedoeld in de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._1&artikel=7&z=2025-01-01&g=2025-01-01), en [18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._2&artikel=18&z=2025-01-01&g=2025-01-01), en naar rechtzoekenden wier vrijheid is ontnomen of beperkt, wordt een kilometervergoeding toegekend ter hoogte van het bedrag, genoemd in [artikel 31a, tweede lid, onderdeel a, onder 3°, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31a). Dezelfde kilometervergoeding wordt toegekend voor de kosten die worden gemaakt voor reizen in verband met de behandeling van de gevangenhouding of gevangenneming, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._2&artikel=16&z=2025-01-01&g=2025-01-01), alsmede in verband met het verhoor, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._2&artikel=17&z=2025-01-01&g=2025-01-01).
 
 2. Het eerste lid is van overeenkomstige toepassing voor de vergoeding van de kosten voor reizen overeenkomstig door het bestuur gestelde regels naar een Aanmeldcentrum in verband met de verlening van rechtsbijstand tijdens het onderzoek naar de aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 28, eerste lid, onderdeel a, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28).
 
@@ -352,7 +352,7 @@ De kosten die de rechtsbijstandverlener heeft moeten maken doordat hij zich bij 
 
 ##### Artikel 27
 
-1. Voor de administratieve kosten die in het kader van de rechtsbijstandverlening worden gemaakt, wordt per toevoeging een vergoeding van € 22,70 toegekend.
+1. Voor de administratieve kosten die in het kader van de rechtsbijstandverlening worden gemaakt, wordt per toevoeging een vergoeding van € 24,12 toegekend.
 
 2. Het eerste lid is niet van toepassing in gevallen waarin op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368) aan een rechtzoekende op last van de rechter een raadsman wordt toegevoegd door het bestuur, alsmede in geval van een procedure in het kader van de eerste aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 28, eerste lid, onderdeel a, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28).
 
@@ -370,7 +370,7 @@ De kosten die de rechtsbijstandverlener heeft moeten maken doordat hij zich bij 
 
 1. Het bestuur kan de juistheid of volledigheid van de door de rechtsbijstandverlener verstrekte informatie of overgelegde bescheiden bij de desbetreffende instantie controleren.
 
-2. Het bestuur stelt de vergoeding vast op grond van de door de rechtsbijstandverlener verstrekte informatie en met inachtneming van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=I&artikel=2&z=2024-07-01&g=2024-07-01).
+2. Het bestuur stelt de vergoeding vast op grond van de door de rechtsbijstandverlener verstrekte informatie en met inachtneming van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=I&artikel=2&z=2025-01-01&g=2025-01-01).
 
 3. Indien de bij de aanvraag verstrekte informatie onjuist of onvolledig is, kan het bestuur de vergoeding vaststellen met inachtneming van de beschikbare juiste informatie.
 
@@ -382,7 +382,7 @@ Indien na de vaststelling van de vergoeding feiten of omstandigheden bekend word
 
 ##### Artikel 31
 
-1. In afwijking van het [eerste lid van artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=IV&paragraaf=par._1&artikel=28&z=2024-07-01&g=2024-07-01) dient de rechtsbijstandverlener bij het bereiken van de in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._1&artikel=13&z=2024-07-01&g=2024-07-01) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._2&artikel=22&z=2024-07-01&g=2024-07-01) bedoelde tijdgrens een aanvraag in bij het bestuur tot vaststelling van de vergoeding voor de verrichte werkzaamheden. Tegelijkertijd legt hij een begroting over met betrekking tot de tijdsbesteding van de naar verwachting nog te verrichten werkzaamheden.
+1. In afwijking van het [eerste lid van artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=IV&paragraaf=par._1&artikel=28&z=2025-01-01&g=2025-01-01) dient de rechtsbijstandverlener bij het bereiken van de in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._1&artikel=13&z=2025-01-01&g=2025-01-01) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._2&artikel=22&z=2025-01-01&g=2025-01-01) bedoelde tijdgrens een aanvraag in bij het bestuur tot vaststelling van de vergoeding voor de verrichte werkzaamheden. Tegelijkertijd legt hij een begroting over met betrekking tot de tijdsbesteding van de naar verwachting nog te verrichten werkzaamheden.
 
 2. Het bestuur stemt geheel of gedeeltelijk in met de begroting, bedoeld in het eerste lid, indien het van oordeel is dat de rechtsbijstand doelmatig wordt verleend.
 
@@ -392,7 +392,7 @@ Indien na de vaststelling van de vergoeding feiten of omstandigheden bekend word
 
 ##### Artikel 32
 
-1. Het bestuur betaalt overeenkomstig de vaststelling, bedoeld in het [tweede lid van artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=IV&paragraaf=par._1&artikel=29&z=2024-07-01&g=2024-07-01), de vergoeding met inachtneming van het bepaalde in [artikel 37, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=37).
+1. Het bestuur betaalt overeenkomstig de vaststelling, bedoeld in het [tweede lid van artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=IV&paragraaf=par._1&artikel=29&z=2025-01-01&g=2025-01-01), de vergoeding met inachtneming van het bepaalde in [artikel 37, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=37).
 
 2. In zaken, waarin krachtens een besluit van het bestuur als bedoeld in [artikel 33, eerste lid, onder c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=33) de verlening van rechtsbijstand tussentijds is beëindigd, is het voorgaande lid slechts van toepassing voor zover de rechtzoekende het van hem verlangde voorschot, of de verhoging daarvan, heeft voldaan.
 
@@ -436,7 +436,7 @@ Indien de inschrijving van de advocaat door het bestuur wordt doorgehaald overee
 
 ##### Artikel 38
 
-1. Het bestuur kan een vordering jegens een advocaat als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=IV&paragraaf=par._3&artikel=37&z=2024-07-01&g=2024-07-01) overdragen aan een door Onze Minister voor dit doel erkende rechtspersoon indien de advocaat niet voldoet aan zijn betalingsverplichting.
+1. Het bestuur kan een vordering jegens een advocaat als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=IV&paragraaf=par._3&artikel=37&z=2025-01-01&g=2025-01-01) overdragen aan een door Onze Minister voor dit doel erkende rechtspersoon indien de advocaat niet voldoet aan zijn betalingsverplichting.
 
 2. De advocaat die een voorschot ontvangt, is jaarlijks een nader door Onze Minister te bepalen bedrag verschuldigd aan de in het eerste lid bedoelde rechtspersoon.
 
@@ -444,9 +444,9 @@ Indien de inschrijving van de advocaat door het bestuur wordt doorgehaald overee
 
 ##### Artikel 39
 
-1. In afwijking van de [hoofdstukken II](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&z=2024-07-01&g=2024-07-01) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=III&z=2024-07-01&g=2024-07-01) kan het bestuur de vergoeding bepalen met inachtneming van nader vast te stellen kwaliteitscriteria, mits de desbetreffende rechtsbijstandverlener of rechtsbijstandverleners daarmee instemmen.
+1. In afwijking van de [hoofdstukken II](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&z=2025-01-01&g=2025-01-01) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=III&z=2025-01-01&g=2025-01-01) kan het bestuur de vergoeding bepalen met inachtneming van nader vast te stellen kwaliteitscriteria, mits de desbetreffende rechtsbijstandverlener of rechtsbijstandverleners daarmee instemmen.
 
-2. Het bestuur kan met instemming van de rechtsbijstandverlener afwijken van het bepaalde in [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=IV&z=2024-07-01&g=2024-07-01) over de wijze van aanvragen en de overige procedureregels inzake de vaststelling van de vergoeding.
+2. Het bestuur kan met instemming van de rechtsbijstandverlener afwijken van het bepaalde in [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=IV&z=2025-01-01&g=2025-01-01) over de wijze van aanvragen en de overige procedureregels inzake de vaststelling van de vergoeding.
 
 3. Het bestuur stelt beleidsregels vast voor de toepassing van het eerste en tweede lid en vermeldt deze beleidsregels in het jaarplan, bedoeld in [artikel 7a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=7a).
 
@@ -480,7 +480,7 @@ Het Besluit vergoedingen rechtsbijstand 1994 wordt ingetrokken.
 
 1. Het Besluit vergoedingen rechtsbijstand 1994 blijft van toepassing op toevoegingen afgegeven vóór het moment van inwerkingtreding van dit besluit.
 
-2. Het Besluit vergoedingen rechtsbijstand, met uitzondering van de [hoofdstukken V](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=V&z=2024-07-01&g=2024-07-01) en [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=VI&z=2024-07-01&g=2024-07-01), blijft van toepassing op toevoegingen afgegeven vóór 1 januari 1994.
+2. Het Besluit vergoedingen rechtsbijstand, met uitzondering van de [hoofdstukken V](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=V&z=2025-01-01&g=2025-01-01) en [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=VI&z=2025-01-01&g=2025-01-01), blijft van toepassing op toevoegingen afgegeven vóór 1 januari 1994.
 
 3. Het Besluit vergoedingen rechtsbijstand in strafzaken, met uitzondering van de hoofdstukken VII en VIII, blijft van toepassing op toevoegingen afgegeven vóór 1 januari 1994.
 
@@ -676,7 +676,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. Indien een of meer gezinsleden aan wie geen toevoeging is verleend in de periode voorafgaand aan de bekendmaking van de beschikking op de asielaanvraag worden onderworpen aan een nader gehoor als bedoeld in de [artikelen 3.109c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.109c), [3.109ca, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.109ca), en [3.113 van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.113), wordt de vergoeding, bedoeld in de rijen A58, A59, A60 en A61 van de bijlage eenmaal met twee en een halve punt verhoogd.
 
-4. Indien het verzoek om een voorlopige voorziening ter zitting is behandeld, anders dan gevoegd, gelijktijdig, aansluitend of nagenoeg aansluitend met de hoofdzaak, wordt de vergoeding, bedoeld in de rijen A56, A57, A67, A68, A69 en A70 van de bijlage, met vier punten verhoogd. [Artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._1&artikel=7&z=2024-07-01&g=2024-07-01), is niet van toepassing.
+4. Indien het verzoek om een voorlopige voorziening ter zitting is behandeld, anders dan gevoegd, gelijktijdig, aansluitend of nagenoeg aansluitend met de hoofdzaak, wordt de vergoeding, bedoeld in de rijen A56, A57, A67, A68, A69 en A70 van de bijlage, met vier punten verhoogd. [Artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._1&artikel=7&z=2025-01-01&g=2025-01-01), is niet van toepassing.
 
 5. De vergoeding, bedoeld in de rijen A58, A59, A60, A61, A65 en A66 van de bijlage, wordt eenmalig met twee en een halve punt verhoogd, indien na gegrondverklaring van het beroep of het hoger beroep, dan wel na intrekking van het besluit hangende dat beroep of hoger beroep:
 
@@ -684,7 +684,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - b. na een eerder voornemen een nieuw voornemen wordt uitgebracht om de asielaanvraag af te wijzen, niet in behandeling te nemen, niet-ontvankelijk te verklaren dan wel buiten behandeling te stellen.
 
-6. In afwijking van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._1&artikel=13&z=2024-07-01&g=2024-07-01) wordt in een procedure als bedoeld in de rijen A58, A59, A60 en A61, van de bijlage, waarin de tijdsbesteding aan de verlening van rechtsbijstand uitgaat boven de 20 uur, voor elk uur waarin boven voornoemde grens rechtsbijstand wordt verleend, één punt toegekend mits het bestuur de begroting van de tijdsbesteding voor de naar verwachting nog te verrichten werkzaamheden, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=IV&paragraaf=par._1&artikel=31&z=2024-07-01&g=2024-07-01), eerste lid, heeft goedgekeurd.
+6. In afwijking van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._1&artikel=13&z=2025-01-01&g=2025-01-01) wordt in een procedure als bedoeld in de rijen A58, A59, A60 en A61, van de bijlage, waarin de tijdsbesteding aan de verlening van rechtsbijstand uitgaat boven de 20 uur, voor elk uur waarin boven voornoemde grens rechtsbijstand wordt verleend, één punt toegekend mits het bestuur de begroting van de tijdsbesteding voor de naar verwachting nog te verrichten werkzaamheden, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=IV&paragraaf=par._1&artikel=31&z=2025-01-01&g=2025-01-01), eerste lid, heeft goedgekeurd.
 
 #### par. 2. strafzaken
 
@@ -779,7 +779,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 23a
 
-1. Indien in een piketzaak als bedoeld in [artikel 23, eerste lid, onderdelen a tot en met c, of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._3&artikel=23&z=2024-07-01&g=2024-07-01), tijdens een verhoor door een opsporingsambtenaar rechtsbijstand wordt verleend aan een rechtens zijn vrijheid ontnomen verdachte van een strafbaar feit waarvoor een bevel tot inverzekeringstelling kan worden verleend, wordt in aanvulling op de vergoeding op grond van artikel 23 een vergoeding toegekend van:
+1. Indien in een piketzaak als bedoeld in [artikel 23, eerste lid, onderdelen a tot en met c, of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._3&artikel=23&z=2025-01-01&g=2025-01-01), tijdens een verhoor door een opsporingsambtenaar rechtsbijstand wordt verleend aan een rechtens zijn vrijheid ontnomen verdachte van een strafbaar feit waarvoor een bevel tot inverzekeringstelling kan worden verleend, wordt in aanvulling op de vergoeding op grond van artikel 23 een vergoeding toegekend van:
 
 - a. 3 punten, indien er sprake is van een verdenking van:
 
@@ -795,7 +795,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. Voor de toepassing van het tweede lid worden niet als opvolgende verhoren aangemerkt verhoren die aansluitend of nagenoeg aansluitend op elkaar volgen.
 
-4. [Artikel 23, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._3&artikel=23&z=2024-07-01&g=2024-07-01), is van overeenkomstige toepassing.
+4. [Artikel 23, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&hoofdstuk=II&paragraaf=par._3&artikel=23&z=2025-01-01&g=2025-01-01), is van overeenkomstige toepassing.
 
 ### Hoofdstuk III. Vergoedingen in verband met reistijdverlet en overige kosten
 
