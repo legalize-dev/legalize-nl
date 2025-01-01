@@ -4,7 +4,7 @@ identifier: "BWBR0015481"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2024-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015481"
 soort: "AMvB"
@@ -72,9 +72,9 @@ Hebben goedgevonden en verstaan:
 
 1. Het tarief voor de vergoeding van werkzaamheden als bedoeld in [artikel 3, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=3), verricht door geneeskundigen, bedraagt, voor het verrichten van:
 
-- a. psychiatrisch onderzoek, ten hoogste € 154,50 per uur;
+- a. psychiatrisch onderzoek, ten hoogste € 162,63 per uur;
 
-- b. onderzoek van iemand die gestoord is in zijn geestvermogens en afgifte van een verklaring, benodigd voor gedwongen opneming van de patiënt in een psychiatrisch ziekenhuis, ten hoogste € 154,50;
+- b. onderzoek van iemand die gestoord is in zijn geestvermogens en afgifte van een verklaring, benodigd voor gedwongen opneming van de patiënt in een psychiatrisch ziekenhuis, ten hoogste € 162,63;
 
 - c. onderzoek en afgifte van een verklaring omtrent de conclusies van een onderzoek als bedoeld onder b door een controlerend geneeskundige of een rayonarts, € 13,16 respectievelijk, indien het onderzoek met spoed moet worden verricht, € 25,87.
 
@@ -84,7 +84,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 3
 
-1. Het tarief voor de vergoeding van werkzaamheden als bedoeld in [artikel 3, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=3), verricht door psychologen, bedraagt, voor het verrichten van psychologisch onderzoek, ten hoogste € 118,58 per uur.
+1. Het tarief voor de vergoeding van werkzaamheden als bedoeld in [artikel 3, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=3), verricht door psychologen, bedraagt, voor het verrichten van psychologisch onderzoek, ten hoogste € 124,82 per uur.
 
 2. Voor het verrichten van een psychologisch onderzoek als bedoeld in het eerste lid, voor zover deze inhoudt het opstellen van een psychologisch rapport over een volwassene, komt ten behoeve van een monorapportage of dubbelrapportage ten hoogste vijfentwintig uur en ten behoeve van een tripelrapportage ten hoogste eenendertig uur voor vergoeding in aanmerking.
 
@@ -92,7 +92,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 4
 
-Het tarief voor de vergoeding van werkzaamheden als bedoeld in [artikel 3, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=3), bedraagt voor tolken, waaronder tolken gebarentaal, ten minste € 59,53 per uur.
+Het tarief voor de vergoeding van werkzaamheden als bedoeld in [artikel 3, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=3), bedraagt voor tolken, waaronder tolken gebarentaal, ten minste € 62,66 per uur.
 
 ##### Artikel 5
 
@@ -100,7 +100,7 @@ Het tarief voor de vergoeding van werkzaamheden als bedoeld in [artikel 3, eerst
 
 ##### Artikel 6
 
-Voor werkzaamheden als bedoeld in [artikel 3, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=3), waarvoor geen speciaal tarief is bepaald, geldt, naar gelang de werkzaamheden niet of in meer of mindere mate van wetenschappelijke of bijzondere aard zijn, een tarief van ten hoogste € 154,50 per uur, met dien verstande dat:
+Voor werkzaamheden als bedoeld in [artikel 3, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=3), waarvoor geen speciaal tarief is bepaald, geldt, naar gelang de werkzaamheden niet of in meer of mindere mate van wetenschappelijke of bijzondere aard zijn, een tarief van ten hoogste € 162,63 per uur, met dien verstande dat:
 
 - a. het tarief voor vergoedingen van verrichtingen van medische aard het door de Nederlandse Zorgautoriteit vastgestelde tarief bedraagt;
 
@@ -108,7 +108,7 @@ Voor werkzaamheden als bedoeld in [artikel 3, eerste lid, onderdeel a, van de we
 
 ##### Artikel 7
 
-De tarieven, genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=2&z=2024-01-01&g=2024-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=6&z=2024-01-01&g=2024-01-01), worden met de helft verhoogd voor werkzaamheden die ingevolge het daartoe strekkende verzoek of de gegeven opdracht moeten worden verricht op:
+De tarieven, genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=2&z=2025-01-01&g=2025-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=3&z=2025-01-01&g=2025-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=6&z=2025-01-01&g=2025-01-01), worden met de helft verhoogd voor werkzaamheden die ingevolge het daartoe strekkende verzoek of de gegeven opdracht moeten worden verricht op:
 
 - a. zaterdag;
 
@@ -122,11 +122,11 @@ De tarieven, genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWB
 
 1. Het tarief voor vergoedingen wegens tijdverzuim als bedoeld in [artikel 3, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=3) bedraagt, indien deze vergoedingen worden verstrekt aan:
 
-- a. geneeskundigen, bevoegd tot uitoefening van de praktijk in Nederland, ten hoogste € 154,50 per uur;
+- a. geneeskundigen, bevoegd tot uitoefening van de praktijk in Nederland, ten hoogste € 162,63 per uur;
 
-- b. psychologen, bevoegd tot uitoefening van de praktijk in Nederland, ten hoogste € 118,58 per uur;
+- b. psychologen, bevoegd tot uitoefening van de praktijk in Nederland, ten hoogste € 124,82 per uur;
 
-- c. andere personen aan wie werkzaamheden zijn opgedragen, naar gelang de werkzaamheden niet of in meer of mindere mate van wetenschappelijke of bijzondere aard zijn, ten hoogste € 154,50 per uur;
+- c. andere personen aan wie werkzaamheden zijn opgedragen, naar gelang de werkzaamheden niet of in meer of mindere mate van wetenschappelijke of bijzondere aard zijn, ten hoogste € 162,63 per uur;
 
 - d. getuigen, met uitzondering van minderjarigen die geen inkomsten derven, aan voogden die wegens een strafzaak tegen een onder hun gezag staande minderjarige ingevolge het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) moeten worden opgeroepen, aan curatoren, bij toepassing van [artikel 509d van dat Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=509d), en aan noodzakelijke geleiders van personen als hiervoor bedoeld, van personen aan wie werkzaamheden zijn opgedragen, van verdachten en van gerekwestreerden, € 6,81 per uur.
 
@@ -138,9 +138,9 @@ De tarieven, genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 9
 
-1. Voor de vaststelling van de uurvergoeding als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=2&z=2024-01-01&g=2024-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=6&z=2024-01-01&g=2024-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=7&z=2024-01-01&g=2024-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01) geldt een gedeelte van een uur gelijk aan een half uur of korter, als een half uur, en een gedeelte langer dan een half uur als een heel uur.
+1. Voor de vaststelling van de uurvergoeding als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=2&z=2025-01-01&g=2025-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=3&z=2025-01-01&g=2025-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=6&z=2025-01-01&g=2025-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=7&z=2025-01-01&g=2025-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=8&z=2025-01-01&g=2025-01-01) geldt een gedeelte van een uur gelijk aan een half uur of korter, als een half uur, en een gedeelte langer dan een half uur als een heel uur.
 
-2. Voor tijdverzuim als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01) is per dag een vergoeding verschuldigd voor ten hoogste negen uur.
+2. Voor tijdverzuim als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=8&z=2025-01-01&g=2025-01-01) is per dag een vergoeding verschuldigd voor ten hoogste negen uur.
 
 ##### Artikel 10
 
@@ -156,9 +156,9 @@ De tarieven, genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWB
 
 1. Het tarief voor vergoedingen wegens reis- en verblijfkosten als bedoeld in [artikel 6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=6) bedraagt, indien deze vergoedingen worden verstrekt aan:
 
-- a. personen als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01), € 3,59 per retourkilometer;
+- a. personen als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=8&z=2025-01-01&g=2025-01-01), € 3,78 per retourkilometer;
 
-- b. personen als bedoeld in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01), ten minste € 0,77 per kilometer;
+- b. personen als bedoeld in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=8&z=2025-01-01&g=2025-01-01), ten minste € 0,77 per kilometer;
 
 - c. personen aan wie op grond van [artikel 3, derde lid, sub c, d of e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=3), geen vergoeding wegens tijdverzuim toekomt, het tarief, dat is overeengekomen voor de vergoeding van reis- en verblijfskosten in het binnenland in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn;
 
@@ -200,7 +200,7 @@ Voor het uitbrengen van exploiten ingevolge bijzondere wetten is aan de deurwaar
 
 ##### Artikel 14
 
-1. Tot de in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=2) bedoelde buitengewone, bij en krachtens die wet niet voorziene kosten worden gerekend de vergoedingen voor werkzaamheden, verricht door personen ten aanzien van wie in verband met hun verblijf in het buitenland wordt afgeweken van de tarieven, genoemd in de [artikelen 2 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=2&z=2024-01-01&g=2024-01-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=3&artikel=11&z=2024-01-01&g=2024-01-01).
+1. Tot de in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=2) bedoelde buitengewone, bij en krachtens die wet niet voorziene kosten worden gerekend de vergoedingen voor werkzaamheden, verricht door personen ten aanzien van wie in verband met hun verblijf in het buitenland wordt afgeweken van de tarieven, genoemd in de [artikelen 2 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=2&z=2025-01-01&g=2025-01-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=3&artikel=11&z=2025-01-01&g=2025-01-01).
 
 2. Bij deze niet voorziene kosten komen de reis- en verblijfkosten van deze personen en de kosten wegens tijdverzuim en daarmee verband houdende noodzakelijke kosten eveneens voor vergoeding in aanmerking.
 
