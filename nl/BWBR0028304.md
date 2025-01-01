@@ -4,7 +4,7 @@ identifier: "BWBR0028304"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2025-01-01"
-last_updated: "2021-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028304"
 soort: "wet-BES"
@@ -48,9 +48,9 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. **werknemer:** de arbeider, bedoeld in [artikel 1613a van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1613a), met uitzondering van een persoon werkzaam bij een publiekrechtelijk lichaam en een beambte of leerkracht bij het gesubsidieerd bijzonder onderwijs;
 
-- d. **cessantia-uitkering:** de eenmalige uitkering, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=3&z=2021-01-01&g=2021-01-01);
+- d. **cessantia-uitkering:** de eenmalige uitkering, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=3&z=2025-01-01&g=2025-01-01);
 
-- e. **loon:** het loon, bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=6) en [9a van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=9a);
+- e. **loon:** het loon, bedoeld in [artikel 6 van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=6);
 
 - f. **weekloon:**
 
@@ -104,7 +104,7 @@ Voor de berekening van gehele dienstjaren geldt een periode van meer dan zes maa
 
 ##### Artikel 5
 
-1. De cessantia-uitkering wordt op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=4&z=2021-01-01&g=2021-01-01) aan de gewezen werknemer op zijn verzoek door Onze Minister toegekend, dan wel, bij zijn overlijden, aan zijn nagelaten betrekkingen op hun verzoek door de werkgever of op grond van artikel 4 door Onze Minister toegekend, mits het verzoek binnen twaalf maanden na het einde van de dienstbetrekking bij de werkgever dan wel Onze Minister is ingediend. Met het einde van de dienstbetrekking wordt voor de toepassing van dit lid gelijkgesteld een in kracht van gewijsde gegane rechterlijke uitspraak waarbij een dienstbetrekking als geëindigd wordt verklaard.
+1. De cessantia-uitkering wordt op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=4&z=2025-01-01&g=2025-01-01) aan de gewezen werknemer op zijn verzoek door Onze Minister toegekend, dan wel, bij zijn overlijden, aan zijn nagelaten betrekkingen op hun verzoek door de werkgever of op grond van artikel 4 door Onze Minister toegekend, mits het verzoek binnen twaalf maanden na het einde van de dienstbetrekking bij de werkgever dan wel Onze Minister is ingediend. Met het einde van de dienstbetrekking wordt voor de toepassing van dit lid gelijkgesteld een in kracht van gewijsde gegane rechterlijke uitspraak waarbij een dienstbetrekking als geëindigd wordt verklaard.
 
 2. Voor de toepassing van het eerste lid wordt onder nagelaten betrekkingen verstaan:
 
@@ -134,7 +134,7 @@ Vervallen
 
 1. Ter zake van de kosten verbonden aan deze wet is een premie verschuldigd, die gezamenlijk wordt geheven met de zorgverzekeringspremie.
 
-2. De premie, bedoeld in het eerste lid, wordt geheven met overeenkomstige toepassing van [hoofdstuk III van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=III) met dien verstande dat in plaats van «inhoudingsplichtige» telkens wordt gelezen «werkgever».
+2. De premie, bedoeld in het eerste lid, wordt geheven met overeenkomstige toepassing van [hoofdstuk IV van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=IV) met dien verstande dat in plaats van «inhoudingsplichtige» telkens wordt gelezen «werkgever».
 
 3. De premie wordt geheven naar een percentage van het loon van de werknemer.
 
@@ -186,13 +186,13 @@ Vervallen
 
 1. Deze wet wordt uitgevoerd door Onze Minister, met dien verstande, dat de heffing van de premie geschiedt door de inspecteur en dat de invordering daarvan geschiedt door de ontvanger.
 
-2. Een ieder is verplicht ten behoeve van de uitvoering van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=4&z=2021-01-01&g=2021-01-01) alle door Onze Minister verlangde inlichtingen te verstrekken, desverlangd schriftelijk en binnen een door Onze Minister te stellen redelijke termijn.
+2. Een ieder is verplicht ten behoeve van de uitvoering van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=4&z=2025-01-01&g=2025-01-01) alle door Onze Minister verlangde inlichtingen te verstrekken, desverlangd schriftelijk en binnen een door Onze Minister te stellen redelijke termijn.
 
-3. De werkgever, die verkeert in de toestand als vermeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=4&z=2021-01-01&g=2021-01-01), is verplicht bij het beëindigen en bij het eindigen van de dienstbetrekking Onze Minister onverwijld hieromtrent in te lichten. Onze Minister kan voor het verstrekken van deze inlichtingen formulieren beschikbaar stellen waarop de voor het beoordelen van het recht van de werknemer op de cessantia-uitkering door Onze Minister gewenste gegevens dienen te worden vermeld en welke door de werkgever ondertekend bij Onze Minister dienen te worden ingediend.
+3. De werkgever, die verkeert in de toestand als vermeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=4&z=2025-01-01&g=2025-01-01), is verplicht bij het beëindigen en bij het eindigen van de dienstbetrekking Onze Minister onverwijld hieromtrent in te lichten. Onze Minister kan voor het verstrekken van deze inlichtingen formulieren beschikbaar stellen waarop de voor het beoordelen van het recht van de werknemer op de cessantia-uitkering door Onze Minister gewenste gegevens dienen te worden vermeld en welke door de werkgever ondertekend bij Onze Minister dienen te worden ingediend.
 
-4. Ingeval de dienstbetrekking van de werknemer krachtens het bepaalde in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=3&z=2021-01-01&g=2021-01-01), dan wel anderszins als rechtens ononderbroken dient te worden beschouwd, en de werkgever verkeert in de toestand als vermeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=4&z=2021-01-01&g=2021-01-01), geeft de werkgever zo spoedig mogelijk hiervan kennis aan Onze Minister.
+4. Ingeval de dienstbetrekking van de werknemer krachtens het bepaalde in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=3&z=2025-01-01&g=2025-01-01), dan wel anderszins als rechtens ononderbroken dient te worden beschouwd, en de werkgever verkeert in de toestand als vermeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=4&z=2025-01-01&g=2025-01-01), geeft de werkgever zo spoedig mogelijk hiervan kennis aan Onze Minister.
 
-5. Degene aan wie door Onze Minister een cessantia-uitkering als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=4&z=2021-01-01&g=2021-01-01) geheel of gedeeltelijk ten onrechte betaalbaar is gesteld of uitbetaald, geeft onverwijld hiervan kennis aan Onze Minister. Hij is verplicht het ten onrechte genotene op eerste vordering van Onze Minister terug te betalen. Het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=8&z=2021-01-01&g=2021-01-01) is van overeenkomstige toepassing.
+5. Degene aan wie door Onze Minister een cessantia-uitkering als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=4&z=2025-01-01&g=2025-01-01) geheel of gedeeltelijk ten onrechte betaalbaar is gesteld of uitbetaald, geeft onverwijld hiervan kennis aan Onze Minister. Hij is verplicht het ten onrechte genotene op eerste vordering van Onze Minister terug te betalen. Het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=8&z=2025-01-01&g=2025-01-01) is van overeenkomstige toepassing.
 
 ##### Artikel 12
 
@@ -212,9 +212,9 @@ Alle op grond van deze wet opgemaakte of overgelegde stukken, verzoekschriften e
 
 ##### Artikel 14
 
-1. Hij die opzettelijk inlichtingen als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=11&z=2021-01-01&g=2021-01-01) onjuist verstrekt, dan wel een valse verklaring aan Onze Minister aflegt, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie.
+1. Hij die opzettelijk inlichtingen als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=11&z=2025-01-01&g=2025-01-01) onjuist verstrekt, dan wel een valse verklaring aan Onze Minister aflegt, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie.
 
-2. Overtreding van [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=10&z=2021-01-01&g=2021-01-01), dan wel het niet of niet tijdig nakomen van een verplichting op grond van de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=7&z=2021-01-01&g=2021-01-01), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=8&z=2021-01-01&g=2021-01-01), [11, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=11&z=2021-01-01&g=2021-01-01), en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=12&z=2021-01-01&g=2021-01-01) wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de tweede categorie.
+2. Overtreding van [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=10&z=2025-01-01&g=2025-01-01), dan wel het niet of niet tijdig nakomen van een verplichting op grond van de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=7&z=2025-01-01&g=2025-01-01), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=8&z=2025-01-01&g=2025-01-01), [11, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=11&z=2025-01-01&g=2025-01-01), en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=12&z=2025-01-01&g=2025-01-01) wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de tweede categorie.
 
 3. De in het eerste lid strafbaar gestelde feiten zijn misdrijven.
 
@@ -232,7 +232,7 @@ Deze wet wordt aangehaald als: Cessantiawet BES.
 
 ##### Artikel 7a
 
-Voor zover op grond van deze wet niet anders is bepaald is ten aanzien van de premieheffing en invordering op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=7&z=2021-01-01&g=2021-01-01) en de invordering daarvan [hoofdstuk VIII van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII) van overeenkomstige toepassing.
+Voor zover op grond van deze wet niet anders is bepaald is ten aanzien van de premieheffing en invordering op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=7&z=2025-01-01&g=2025-01-01) en de invordering daarvan [hoofdstuk VIII van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII) van overeenkomstige toepassing.
 
 ##### Artikel 1a
 
