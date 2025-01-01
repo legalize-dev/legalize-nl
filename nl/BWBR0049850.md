@@ -4,7 +4,7 @@ identifier: "BWBR0049850"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2024-06-22"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049850"
 soort: "wet"
@@ -51,15 +51,15 @@ Wijzigt het Burgerlijk Wetboek Boek 2.
 
 Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+1. Het recht zoals dat gold voor het tijdstip van inwerkingtreding van deze wet blijft van toepassing ten aanzien van zaken waarin een vordering als bedoeld in de [artikelen 336 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=336), [338 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=338), [342 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=342) en [343 lid 1 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=343) is ingesteld en waarin het exploot van dagvaarding rechtsgeldig is betekend voor dat tijdstip.
+
+2. Het recht zoals dat gold voor het tijdstip van inwerkingtreding van deze wet blijft van toepassing ten aanzien van zaken waarin een verzoek als bedoeld in de [artikelen 343c lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=343c) en [345 lid 1 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=345) is ingediend voor dat tijdstip.
 
 ##### Artikel IIIa
 
-Dit onderdeel is nog niet inwerking getreden
+Onze Minister voor Rechtsbescherming zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
 ##### Artikel IV
 
