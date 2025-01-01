@@ -4,7 +4,7 @@ identifier: "BWBR0044555"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-01-01"
-last_updated: "2021-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044555"
 soort: "zbo"
@@ -42,19 +42,17 @@ Het stimuleren van de verdieping van de artistieke ontwikkeling en praktijk van 
 
 ##### Artikel 2. Toepasselijkheid
 
-1. Een kunstenaar die een aanvraag doet voor een residency dient ofwel
+1. Een kunstenaar die een aanvraag doet voor een projectinvestering dient minimaal één jaar als professioneel beeldend kunstenaar werkzaam te zijn. Daarbij geldt:
 
-- •. ten minste drie jaar professioneel werkzaam te zijn als beeldend kunstenaar; of
+- •. Indien de kunstenaar een hbo-bacheloropleiding met een beeldende kunstcurriculum heeft afgerond wordt de diplomadatum beschouwd als start van de professionele beroepspraktijk. Wanneer er een periode tussen de diplomadatum van de hbo-bacheloropleiding met beeldende kunstcurriculum en de start van de masteropleiding zit, wordt deze periode meegerekend als onderdeel van de professionele beroepspraktijk.
 
-- •. ten minste drie jaar een hbo-opleiding aan een opleidingsinstituut voor beeldende kunsten te hebben gevolgd en minimaal één jaar professioneel werkzaam te zijn als beeldend kunstenaar. Als het een instituut voor beeldende kunst en vormgeving betreft, moet een beeldende kunst curriculum zijn gevolgd; of
-
-- •. één jaar professioneel werkzaam zijn als beeldend kunstenaar en ingeschreven staan in het Handelsregister bij de Kamer van Koophandel, dan wel een vergelijkbare buitenlandse organisatie.
+- •. Indien de kunstenaar geen hbo-bacheloropleiding met een beeldende kunstcurriculum heeft afgerond wordt het moment waarop de kunstenaar voor het eerst werk presenteert binnen het circuit van de professionele beeldende kunst beschouwd als de start van de professionele beroepspraktijk.
 
 2. Een bemiddelaar die een aanvraag doet voor een residency dient ten minste één jaar professioneel werkzaam te zijn als bemiddelaar op het gebied van de beeldende kunsten of het cultureel erfgoed. Dit moet worden aangetoond aan de hand van publicaties, tentoonstellingen, onderzoeken of geïnitieerde projecten.
 
 3. Per aanvraagronde kan voor maximaal twee residencies een aanvraag worden ingediend.
 
-4. Aan de kunstenaar of bemiddelaar aan wie een residency als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044555&artikel=1&z=2021-01-01&g=2021-01-01) is toegekend in een atelier in het buitenland kan een bijdrage worden verleend voor een vervolg voor een periode van ten hoogste zes maanden in het desbetreffende land.
+4. Een bijdrage residency kan aan dezelfde aanvrager maximaal één keer per kalenderjaar worden verstrekt.
 
 ##### Artikel 3. Aanvraag
 
@@ -66,9 +64,7 @@ Naast de bepalingen vastgesteld in het [Algemeen Reglement](https://wetten.overh
 
 - •. een curriculum vitae,
 
-- •. een plan, waarin de aanvrager motiveert waarom hij in aanmerking wil komen voor deze specifieke residency,
-
-- •. een presentatieplan waarin wordt toegelicht hoe een passend publiek wordt betrokken.
+- •. een plan, waarin de aanvrager motiveert waarom hij in aanmerking wil komen voor deze specifieke residency en toelicht wat de meerwaarde van de residency is voor de ontwikkeling van de praktijk en hoe een passend publiek wordt betrokken.
 
 ##### Artikel 4. Beoordeling
 
@@ -78,29 +74,17 @@ Naast de bepalingen vastgesteld in het [Algemeen Reglement](https://wetten.overh
 
 3. Indien naar verwachting (een groot deel van) de aanvragers niet (zal) zullen voldoen aan de gestelde criteria, kan het bestuur de residency verzoeken zelf kunstenaars of bemiddelaars voor te dragen.
 
-4. Bij de advisering betrekt het bevoegd adviesorgaan in ieder geval in zijn oordeel of het artistieke functioneren van de kunstenaar of bemiddelaar van belang is of, bij een beginnend kunstenaar, naar verwachting van belang zal worden voor de hedendaagse beeldende kunsten of cultureel erfgoed in Nederland. Daarbij worden de onderstaande criteria in onderlinge samenhang gehanteerd:
+4. Op basis van het door de aanvrager aangeleverde documentatiemateriaal en de overige informatie over de aanvrager beoordeelt het bevoegd adviesorgaan of het artistieke functioneren van de kunstenaar of bemiddelaar van belang is of, bij een beginnend kunstenaar, naar verwachting van belang zal worden voor de hedendaagse beeldende kunsten of cultureel erfgoed in Nederland. Daarbij worden de onderstaande criteria in onderlinge samenhang gehanteerd:
 
 - •. de kwaliteit van het tot het moment van de aanvraag door de aanvrager opgebouwde oeuvre en de ontwikkeling daarvan,
 
 - •. de kwaliteit van het cultureel ondernemerschap; de onderzoekende en/of vernieuwende houding van de aanvrager, de wijze waarop de aanvrager naar buiten treedt en een publiek voor zijn werk weet te vinden en binden.
 
-5. Verder betrekt het bevoegd adviesorgaan de onderstaande aspecten in onderlinge samenhang in zijn beoordeling:
+5. Indien het bevoegd adviesorgaan het in het vierde lid van dit artikel bedoelde functioneren van de aanvrager niet van voldoende belang acht, komt het tot een negatief advies over de aanvraag.
 
-- •. de plannen en de motivering met betrekking tot het verblijf in de residency,
+6. Indien het bevoegd adviesorgaan het in het vierde lid bedoelde functioneren van de aanvrager wel van voldoende belang acht, dan beoordeelt het vervolgens de kwaliteit van het plan; de motivatie met betrekking tot het verblijf in de residency, de meerwaarde van de residency voor de ontwikkeling van de praktijk en de manier waarop er een passend publiek wordt betrokken. Indien de adviescommissie hier negatief over oordeelt, wordt een negatief advies uitgebracht.
 
-- •. het effect dat deelname aan het project kan hebben op het kunstenaarschap en/of de beroepspraktijk van de aanvrager, het presentatieplan op de wijze waarop beoogd wordt op een inspirerende wijze een passend publiek te bereiken,
-
-- •. eventueel overige in de toelichting bij het aanvraagformulier genoemde aspecten.
-
-6. Het oordeel over het artistieke functioneren en het plan dan wel de motivering bij een aanvraag zal zwaarder wegen, indien de aanvrager reeds eerder een bijdrage heeft ontvangen voor een residency.
-
-7. Bij de beoordeling van aanvragen als bedoeld in dit artikel hanteert het adviesorgaan de volgende procedure:
-
-- •. indien in de eerste stemronde geen enkel commissielid positief oordeelt over de in het vierde lid bedoelde artistieke functioneren, wordt een negatief advies uitgebracht,
-
-- •. in de tweede stemronde geven de afzonderlijke commissieleden een oordeel over de in het vierde lid genoemde criteria en de in het vijfde lid genoemde aspecten voor zover van toepassing. Indien in de tweede stemronde niet door de meerderheid een positief advies wordt uitgebracht, wordt een negatief advies uitgebracht,
-
-- •. in de laatste stemronde stelt het adviesorgaan aan de hand van de in het vierde lid genoemde criteria en de overige in het vijfde lid genoemde aspecten, voor zover van toepassing, in volgorde van prioriteit de voordracht samen.
+7. De adviescommissie stelt aan de hand van de in het zesde lid genoemde aspecten in volgorde van prioriteit de voordracht samen.
 
 ##### Artikel 5. Overgangsbepaling
 
