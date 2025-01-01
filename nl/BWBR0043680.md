@@ -4,7 +4,7 @@ identifier: "BWBR0043680"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-02-13"
-last_updated: "2024-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043680"
 soort: "AMvB"
@@ -38,7 +38,7 @@ entry_into_force: "2020-06-23"
 
 ##### Artikel 1
 
-1. Het percentage van de belastingrente, bedoeld in [artikel 30hb van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30hb), voor een kalenderjaar is voor de inkomstenbelasting, de erfbelasting, de loonbelasting, de dividendbelasting, de omzetbelasting, de overdrachtsbelasting, de belasting van personenauto’s en motorrijwielen, de accijns, de verbruiksbelasting van alcoholvrije dranken en de in [artikel 1 van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=1) genoemde belastingen gelijk aan het percentage van de herfinancieringsrente die door de Europese Centrale Bank is vastgesteld voor haar meest recente basisherfinancieringstransactie die heeft plaatsgevonden vóór 1 november van het aan het betreffende kalenderjaar voorafgaande kalenderjaar, vermeerderd met 3 procentpunt, met dien verstande dat:
+1. Het percentage van de belastingrente, bedoeld in [artikel 30hb van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30hb), voor een kalenderjaar is voor de inkomstenbelasting, de erfbelasting, de loonbelasting, de dividendbelasting, de omzetbelasting, de overdrachtsbelasting, de belasting van personenauto’s en motorrijwielen, de accijns, de verbruiksbelasting van alcoholvrije dranken, de in [artikel 1 van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=1) genoemde belastingen, de cijns en het oppervlakterecht gelijk aan het percentage van de herfinancieringsrente die door de Europese Centrale Bank is vastgesteld voor haar meest recente basisherfinancieringstransactie die heeft plaatsgevonden vóór 1 november van het aan het betreffende kalenderjaar voorafgaande kalenderjaar, vermeerderd met 3 procentpunt, met dien verstande dat:
 
 - a. aanpassing van het percentage, indien nodig, jaarlijks per 1 januari geschiedt;
 
@@ -48,7 +48,7 @@ entry_into_force: "2020-06-23"
 
 - d. aanpassing van het percentage is beperkt tot maximaal 2 procentpunt per wijziging.
 
-2. Het eerste lid is van overeenkomstige toepassing voor de vennootschapsbelasting, de bronbelasting, de minimumbelasting en de solidariteitsbijdrage, met dien verstande dat, in afwijking van het eerste lid, aanhef en onderdeel c:
+2. Het eerste lid is van overeenkomstige toepassing voor de vennootschapsbelasting, de bronbelasting, de minimumbelasting, de solidariteitsbijdrage en het winstaandeel, met dien verstande dat, in afwijking van het eerste lid, aanhef en onderdeel c:
 
 - a. het percentage van de herfinancieringsrente wordt vermeerderd met 5,5 procentpunt; en
 
@@ -66,7 +66,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 4
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met dien verstande dat daarbij tevens kan worden bepaald dat [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043680&artikel=2&z=2024-01-01&g=2024-01-01) terugwerkt tot en met 1 juni 2020.
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met dien verstande dat daarbij tevens kan worden bepaald dat [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043680&artikel=2&z=2025-01-01&g=2025-01-01) terugwerkt tot en met 1 juni 2020.
 
 ##### Artikel 5
 
