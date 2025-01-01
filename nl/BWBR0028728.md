@@ -4,7 +4,7 @@ identifier: "BWBR0028728"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2026-01-01"
-last_updated: "2021-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028728"
 soort: "wet-BES"
@@ -62,7 +62,7 @@ entry_into_force: "2025-07-01"
 
 - f. **arbeidsongeschiktheid:** de toestand waarin de werknemer verkeert, die als gevolg van ziekte gedurende een etmaal of langer niet in staat is om zijn normale arbeid te verrichten of deze arbeid zo lang niet mag verrichten hetzij om een medisch noodzakelijk onderzoek mogelijk te maken hetzij om te voorkomen dat zijn genezing wordt belemmerd, dan wel om besmetting van anderen te voorkomen;
 
-- g. **loon:** het loon, bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=6) en [9a van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=9a);
+- g. **loon:** het loon, bedoeld in [artikel 6 van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=6);
 
 - h. **loon per dag van de werknemer voor wie een zesdaagse werkweek geldt:**
 
@@ -172,7 +172,7 @@ Vervallen
 
 ##### Artikel 6
 
-1. Zo spoedig mogelijk na de aanvraag deelt Onze Minister, mede aan de hand van geneeskundige beoordeling, schriftelijk mee welke uitkering zal worden verstrekt aan de in [artikel 5, zesde lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=5&z=2021-01-01&g=2021-01-01), bedoelde werkgever. Als de werkgever de in artikel 5, zesde lid, eerste zin, bedoelde verplichting niet naleeft, geschiedt de schriftelijke mededeling, bedoeld in de eerste zin, aan de werknemer.
+1. Zo spoedig mogelijk na de aanvraag deelt Onze Minister, mede aan de hand van geneeskundige beoordeling, schriftelijk mee welke uitkering zal worden verstrekt aan de in [artikel 5, zesde lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=5&z=2025-01-01&g=2025-01-01), bedoelde werkgever. Als de werkgever de in artikel 5, zesde lid, eerste zin, bedoelde verplichting niet naleeft, geschiedt de schriftelijke mededeling, bedoeld in de eerste zin, aan de werknemer.
 
 2. Zodra de behandelende geneeskundige vaststelt dat de werknemer:
 
@@ -222,7 +222,7 @@ In de gevallen dat de beëindiging of het verlies van het recht op uitkering van
 
 1. Ter zake van de kosten verbonden aan deze wet is een premie verschuldigd, die gezamenlijk wordt geheven met de zorgverzekeringspremie.
 
-2. De premie, bedoeld in het eerste lid, wordt geheven met overeenkomstige toepassing van [hoofdstuk III van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=III), met dien verstande dat in plaats van «inhoudingsplichtige» telkens gelezen wordt «werkgever».
+2. De premie, bedoeld in het eerste lid, wordt geheven met overeenkomstige toepassing van [hoofdstuk IV van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=IV), met dien verstande dat in plaats van «inhoudingsplichtige» telkens gelezen wordt «werkgever».
 
 3. De premie wordt geheven naar een percentage van het loon van de werknemer.
 
@@ -236,11 +236,11 @@ In de gevallen dat de beëindiging of het verlies van het recht op uitkering van
 
 8. De premie komt ten gunste van het Rijk.
 
-9. Ten laste van het Rijk komen de door Onze Minister verstrekte uitkeringen, bedoeld in de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=3&z=2021-01-01&g=2021-01-01), en [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=5&z=2021-01-01&g=2021-01-01), en alle kosten verbonden aan de uitvoering van deze wet.
+9. Ten laste van het Rijk komen de door Onze Minister verstrekte uitkeringen, bedoeld in de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=3&z=2025-01-01&g=2025-01-01), en [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=5&z=2025-01-01&g=2025-01-01), en alle kosten verbonden aan de uitvoering van deze wet.
 
 ##### Artikel 8a
 
-Voor zover op grond van deze wet niet anders is bepaald en in afwijking van [artikel 14c](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=14c&z=2021-01-01&g=2021-01-01) is ten aanzien van de premieheffing en invordering op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=8&z=2021-01-01&g=2021-01-01) en de invordering daarvan [hoofdstuk VIII van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII) van overeenkomstige toepassing.
+Voor zover op grond van deze wet niet anders is bepaald en in afwijking van [artikel 14c](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=14c&z=2025-01-01&g=2025-01-01) is ten aanzien van de premieheffing en invordering op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=8&z=2025-01-01&g=2025-01-01) en de invordering daarvan [hoofdstuk VIII van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII) van overeenkomstige toepassing.
 
 ##### Artikel 8b
 
@@ -334,7 +334,7 @@ Vervallen
 
 1. Onze Minister is belast met de uitvoering van deze wet, met dien verstande, dat de heffing van de premie geschiedt door de inspecteur en de invordering daarvan door de ontvanger.
 
-2. Een ieder is verplicht ten behoeve van de uitvoering op verzoek aan Onze Minister inlichtingen te verstrekken, desverlangd schriftelijk. De door Onze Minister verlangde inlichtingen moeten binnen een door Onze Minister te stellen termijn worden verstrekt. De verzekerde is verplicht uit eigen beweging aan Onze Minister inlichtingen te verstrekken waarvan de verzekerde redelijkerwijs kan vermoeden dat deze aanleiding kunnen geven tot verlies of beëindiging van het recht op uitkering op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=3&z=2021-01-01&g=2021-01-01). Ook is een ieder verplicht de door Onze Minister gegeven aanwijzingen ten behoeve van de uitvoering van deze wet op te volgen.
+2. Een ieder is verplicht ten behoeve van de uitvoering op verzoek aan Onze Minister inlichtingen te verstrekken, desverlangd schriftelijk. De door Onze Minister verlangde inlichtingen moeten binnen een door Onze Minister te stellen termijn worden verstrekt. De verzekerde is verplicht uit eigen beweging aan Onze Minister inlichtingen te verstrekken waarvan de verzekerde redelijkerwijs kan vermoeden dat deze aanleiding kunnen geven tot verlies of beëindiging van het recht op uitkering op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=3&z=2025-01-01&g=2025-01-01). Ook is een ieder verplicht de door Onze Minister gegeven aanwijzingen ten behoeve van de uitvoering van deze wet op te volgen.
 
 3. Bij niet naleving van de in tweede lid opgelegde verplichtingen door de verzekerde is Onze Minister bevoegd de te verstrekken tegemoetkomingen en vergoedingen op te schorten.
 
@@ -362,9 +362,9 @@ Alle op grond van deze wet opgemaakte of overgelegde stukken, verzoekschriften e
 
 ##### Artikel 14a
 
-1. Op overtreding van [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=11&z=2021-01-01&g=2021-01-01), en het niet of niet tijdig nakomen van een van de verplichtingen gesteld bij de [artikelen 5, zesde lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=5&z=2021-01-01&g=2021-01-01), [6, eerste lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=6&z=2021-01-01&g=2021-01-01), [8h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=8h&z=2021-01-01&g=2021-01-01), [8i](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=8i&z=2021-01-01&g=2021-01-01), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=12&z=2021-01-01&g=2021-01-01), en krachtens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=13&z=2021-01-01&g=2021-01-01) wordt een boete geheven van de tweede categorie.
+1. Op overtreding van [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=11&z=2025-01-01&g=2025-01-01), en het niet of niet tijdig nakomen van een van de verplichtingen gesteld bij de [artikelen 5, zesde lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=5&z=2025-01-01&g=2025-01-01), [6, eerste lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=6&z=2025-01-01&g=2025-01-01), [8h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=8h&z=2025-01-01&g=2025-01-01), [8i](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=8i&z=2025-01-01&g=2025-01-01), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=12&z=2025-01-01&g=2025-01-01), en krachtens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=13&z=2025-01-01&g=2025-01-01) wordt een boete geheven van de tweede categorie.
 
-2. Onder het niet voldoen aan de verplichtingen, genoemd in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=12&z=2021-01-01&g=2021-01-01), wordt mede verstaan het verstrekken van onjuiste inlichtingen.
+2. Onder het niet voldoen aan de verplichtingen, genoemd in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=12&z=2025-01-01&g=2025-01-01), wordt mede verstaan het verstrekken van onjuiste inlichtingen.
 
 3. Indien er sprake is van herhaling van eenzelfde overtreding binnen twee jaar wordt het maximum van de boetes, genoemd in het eerste lid, verdubbeld.
 
@@ -374,9 +374,9 @@ Alle op grond van deze wet opgemaakte of overgelegde stukken, verzoekschriften e
 
 ##### Artikel 15
 
-1. Overtreding van [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=11&z=2021-01-01&g=2021-01-01), en het niet of niet tijdig nakomen van een van de verplichtingen gesteld bij de [artikelen 5, zesde lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=5&z=2021-01-01&g=2021-01-01), [6, eerste lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=6&z=2021-01-01&g=2021-01-01), [8h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=8h&z=2021-01-01&g=2021-01-01), [8i](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=8i&z=2021-01-01&g=2021-01-01), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=12&z=2021-01-01&g=2021-01-01), en op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=13&z=2021-01-01&g=2021-01-01) wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de derde categorie.
+1. Overtreding van [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=11&z=2025-01-01&g=2025-01-01), en het niet of niet tijdig nakomen van een van de verplichtingen gesteld bij de [artikelen 5, zesde lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=5&z=2025-01-01&g=2025-01-01), [6, eerste lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=6&z=2025-01-01&g=2025-01-01), [8h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=8h&z=2025-01-01&g=2025-01-01), [8i](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=8i&z=2025-01-01&g=2025-01-01), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=12&z=2025-01-01&g=2025-01-01), en op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=13&z=2025-01-01&g=2025-01-01) wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de derde categorie.
 
-2. Het opzettelijk, mondeling of schriftelijk verstrekken of doen verstrekken van inlichtingen als bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=12&z=2021-01-01&g=2021-01-01), die onjuist zijn alsmede het afleggen van een valse verklaring aan Onze Minister, wordt gestraft met gevangenisstraf van ten hoogste een jaar of een geldboete van de derde categorie.
+2. Het opzettelijk, mondeling of schriftelijk verstrekken of doen verstrekken van inlichtingen als bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=12&z=2025-01-01&g=2025-01-01), die onjuist zijn alsmede het afleggen van een valse verklaring aan Onze Minister, wordt gestraft met gevangenisstraf van ten hoogste een jaar of een geldboete van de derde categorie.
 
 3. Het opzettelijk door giften, beloften, misbruik van gezag, geweld, bedreiging of misleiding bewegen van een werknemer om geen gebruik te maken van een hem op grond van deze wet toekomend recht wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie
 
@@ -424,11 +424,11 @@ Deze wet wordt aangehaald als: Wet ziekteverzekering BES.
 
 1. De belanghebbende kan tegen een beschikking op grond van deze wet beroep instellen bij het Gerecht, bedoeld in [artikel 1, eerste lid, onderdeel b, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=1).
 
-2. Bij een beroep tegen een beschikking op grond van [artikel 7, aanhef en onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=7&z=2021-01-01&g=2021-01-01), is [artikel 23, eerste lid, laatste zin, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=23) niet van toepassing.
+2. Bij een beroep tegen een beschikking op grond van [artikel 7, aanhef en onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=7&z=2025-01-01&g=2025-01-01), is [artikel 23, eerste lid, laatste zin, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=23) niet van toepassing.
 
-3. Bij een bestuurlijke heroverweging van een beschikking op grond van [artikel 7, aanhef en onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=7&z=2021-01-01&g=2021-01-01), is [artikel 24, eerste en tweede lid, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=24) van overeenkomstige toepassing.
+3. Bij een bestuurlijke heroverweging van een beschikking op grond van [artikel 7, aanhef en onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=7&z=2025-01-01&g=2025-01-01), is [artikel 24, eerste en tweede lid, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=24) van overeenkomstige toepassing.
 
-4. Met betrekking tot een beschikking op grond van [artikel 7, aanhef en onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=7&z=2021-01-01&g=2021-01-01), kan het Gerecht, bedoeld in [artikel 1, eerste lid, onderdeel b, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=1), indien het bestuursorgaan niet voldoet aan de verplichting, bedoeld in [artikel 23 van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=23), daaruit de gevolgtrekking maken die hem geraden voorkomt.
+4. Met betrekking tot een beschikking op grond van [artikel 7, aanhef en onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=7&z=2025-01-01&g=2025-01-01), kan het Gerecht, bedoeld in [artikel 1, eerste lid, onderdeel b, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=1), indien het bestuursorgaan niet voldoet aan de verplichting, bedoeld in [artikel 23 van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=23), daaruit de gevolgtrekking maken die hem geraden voorkomt.
 
 ##### Artikel 14d
 
@@ -438,7 +438,7 @@ Deze wet wordt aangehaald als: Wet ziekteverzekering BES.
 
 ##### Artikel 12b
 
-1. Onverminderd voorschriften als gesteld op grond van [artikel 7, onderdelen d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=7&z=2021-01-01&g=2021-01-01), kunnen bij ministeriële regeling controlevoorschriften worden vastgesteld. Deze voorschriften gaan niet verder dan strikt noodzakelijk is voor een juiste uitvoering van deze wet.
+1. Onverminderd voorschriften als gesteld op grond van [artikel 7, onderdelen d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=7&z=2025-01-01&g=2025-01-01), kunnen bij ministeriële regeling controlevoorschriften worden vastgesteld. Deze voorschriften gaan niet verder dan strikt noodzakelijk is voor een juiste uitvoering van deze wet.
 
 2. De werknemer is verplicht de voorschriften op te volgen en anderszins aan Onze Minister desgevraagd de medewerking te verlenen die redelijkerwijs nodig is voor de uitvoering van deze wet.
 
