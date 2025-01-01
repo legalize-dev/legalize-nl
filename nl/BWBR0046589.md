@@ -4,7 +4,7 @@ identifier: "BWBR0046589"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2024-10-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046589"
 soort: "ministeriele-regeling"
@@ -52,13 +52,11 @@ In deze regeling wordt verstaan onder:
 
 - **algemene groepsvrijstellingsverordening:** Verordening (EU) nr. 651/2014 van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard (PbEU 2014, L 187);
 
-- **bakwagenchassis:** motorvoertuig als bedoeld in voertuigcategorie N2 met een gewicht groter dan 4.250 kg of N3 volgens [verordening (EU) 2018/858](32758R2018) waarop een laadmogelijkheid gecreëerd kan worden; in ieder geval wordt als bakwagenchassis aangemerkt een voertuig met carrosserietype BX of BA volgens [verordening (EU) 2018/858](32758R2018);
+- **bakwagenchassis:** motorvoertuig als bedoeld in voertuigcategorie N2 of N3 volgens [verordening (EU) 2018/858](32758R2018) waarop een laadmogelijkheid gecreëerd kan worden; in ieder geval wordt als bakwagenchassis aangemerkt een voertuig met carrosserietype BX of BA volgens [verordening (EU) 2018/858](32758R2018);
 
 - **eerste inschrijving en tenaamstelling:** eerste inschrijving en tenaamstelling als bedoeld in [artikel 25 van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=25);
 
-- **emissieloos:** zonder uitlaatemissie van broeikasgassen, verontreinigende gassen en deeltjes (emissieklasse Z);
-
-- **emissieloze vrachtauto:** motorvoertuig dat volledig emissieloos is, uitsluitend wordt voortgedreven door een elektromotor en valt onder de voertuigcategorie N2 met een gewicht gelijk aan of groter dan 4.250 kg of N3 volgens [verordening (EU) 2018/858](32758R2018);
+- **emissieloze vrachtauto:** emissievrij vervoermiddel als bedoeld in artikel 2, punt 102 octies, onderdeel c, van de algemene groepsvrijstellingsverordening, dat als motorvoertuig kwalificeert en dat valt onder de voertuigcategorie N2 of N3 volgens [verordening (EU) 2018/858](32018R0858);
 
 - **gewicht:** technisch toegestane maximummassa als bedoeld in [artikel 1.1 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=1.1);
 
@@ -84,7 +82,7 @@ In deze regeling wordt verstaan onder:
 
 - **RVO:** Rijksdienst voor Ondernemend Nederland;
 
-- **opleggertrekker:** motorvoertuig als bedoeld in voertuigcategorie N2 met een gewicht gelijk aan of groter dan 4.250 kg en N3 volgens [verordening (EU) 2018/858](32758R2018) dat hoofdzakelijk is ontworpen en gebouwd voor het trekken van opleggers; in ieder geval wordt als opleggertrekker aangemerkt een voertuig met carrosserietype BC volgens [verordening (EU) 2018/858](32758R2018);
+- **opleggertrekker:** motorvoertuig als bedoeld in voertuigcategorie N2 of N3 volgens [verordening (EU) 2018/858](32758R2018) dat hoofdzakelijk is ontworpen en gebouwd voor het trekken van opleggers; in ieder geval wordt als opleggertrekker aangemerkt een voertuig met carrosserietype BC volgens [verordening (EU) 2018/858](32758R2018);
 
 - **verkoopprijs:** prijs van de emissieloze vrachtauto inclusief af-fabriekopties zoals vermeld op de overeenkomst verminderd met de daarin begrepen omzetbelasting;
 
@@ -106,23 +104,15 @@ De Minister kan, overeenkomstig het bepaalde bij deze regeling, aan een aanvrage
 
 1. De subsidie bedraagt:
 
-- a. voor een nieuwe emissieloze vrachtauto die valt onder de voertuigclassificatie N2 bakwagenchassis:
+- a. voor een nieuwe emissieloze vrachtauto die valt onder de voertuigclassificatie N2 bakwagenchassis met een gewicht van minstens 10.000 kilogram:
 
-- 1°. bij grote ondernemingen: 6,1% van de verkoopprijs tot een maximum van € 7.500;
+- 1°. bij grote ondernemingen: 6,1% van de verkoopprijs tot een maximum van € 15.200;
 
-- 2°. bij middelgrote ondernemingen: 12% van de verkoopprijs tot een maximum van € 14.700;
+- 2°. bij middelgrote ondernemingen: 12% van de verkoopprijs tot een maximum van € 29.900;
 
-- 3°. bij kleine ondernemingen en non-profitinstellingen: 14,8% van de verkoopprijs tot een maximum van € 18.800;
+- 3°. bij kleine ondernemingen en non-profitinstellingen: 14,8% van de verkoopprijs tot een maximum van € 36.900;
 
-- b. voor een nieuwe emissieloze vrachtauto die valt onder de voertuigclassificatie N3 bakwagenchassis tot en met een gewicht van 18.000 kg:
-
-- 1°. bij grote ondernemingen: 10,3% van de verkoopprijs tot een maximum van € 31.100;
-
-- 2°. bij middelgrote ondernemingen: 20% van de verkoopprijs tot een maximum van € 60.500;
-
-- 3°. bij kleine ondernemingen en non-profitinstellingen: 28,6% van de verkoopprijs tot een maximum van € 86.600;
-
-- c. voor een nieuwe emissieloze vrachtauto die valt onder de voertuigclassificatie N3 bakwagenchassis met een gewicht groter dan 18.000 kg:
+- b. voor een nieuwe emissieloze vrachtauto die valt onder de voertuigclassificatie N3 bakwagenchassis:
 
 - 1°. bij grote ondernemingen: 11,1% van de verkoopprijs tot een maximum van € 43.900;
 
@@ -130,7 +120,7 @@ De Minister kan, overeenkomstig het bepaalde bij deze regeling, aan een aanvrage
 
 - 3°. bij kleine ondernemingen en non-profitinstellingen: 29% van de verkoopprijs tot een maximum van € 115.200;
 
-- d. voor een nieuwe emissieloze vrachtauto die valt onder de voertuigclassificatie N3 opleggertrekker:
+- c. voor een nieuwe emissieloze vrachtauto die valt onder de voertuigclassificatie N3 opleggertrekker:
 
 - 1°. bij grote ondernemingen: 11,1% van de verkoopprijs tot een maximum van € 43.900;
 
@@ -152,9 +142,15 @@ De Minister kan, overeenkomstig het bepaalde bij deze regeling, aan een aanvrage
 
 - c. voor het jaar 2024:
 
-- i. € 45.000.000 voor aanvragen gedaan in de periode bedoeld in [artikel 2.2, tweede lid, onderdeel c, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=2&artikel=2.2&z=2024-10-01&g=2024-10-01),
+- i. € 45.000.000 voor aanvragen gedaan in de periode bedoeld in [artikel 2.2, tweede lid, onderdeel c, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=2&artikel=2.2&z=2025-01-01&g=2025-01-01),
 
-- ii. € 22.228.000 voor aanvragen gedaan in de periode bedoeld in [artikel 2.2, tweede lid, onderdeel c, onder ii](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=2&artikel=2.2&z=2024-10-01&g=2024-10-01).
+- ii. € 22.228.000 voor aanvragen gedaan in de periode bedoeld in [artikel 2.2, tweede lid, onderdeel c, onder ii](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=2&artikel=2.2&z=2025-01-01&g=2025-01-01);
+
+- d. voor het jaar 2025:
+
+- i. € 35.300.000 voor aanvragen gedaan in de periode bedoeld in [artikel 2.2, tweede lid, onderdeel d, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=2&artikel=2.2&z=2025-01-01&g=2025-01-01);
+
+- ii. € 30.000.000 voor aanvragen gedaan in de periode bedoeld in [artikel 2.2, tweede lid, onderdeel d, onder ii](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=2&artikel=2.2&z=2025-01-01&g=2025-01-01).
 
 2. De Minister stelt het subsidieplafond vast voor de jaren na 2024 en geeft hiervan kennis in de Staatscourant voor aanvang van het kalenderjaar waarvoor het betreffende subsidieplafond wordt vastgesteld.
 
@@ -174,11 +170,13 @@ De Minister kan, overeenkomstig het bepaalde bij deze regeling, aan een aanvrage
 
 Voor de subsidieverlening moet zijn voldaan aan de volgende voorwaarden:
 
-- a. de aanschaf van de nieuwe emissieloze vrachtauto door de aanvrager vindt plaats op basis van een overeenkomst die ten tijde van de aanvraag om subsidieverlening geen onherroepelijke verplichtingen mag bevatten;
+- a. het gewicht van de nieuwe emissieloze vrachtauto bedraagt minstens 10.000 kilogram;
 
-- b. ten tijde van de aanvraag om subsidieverlening is de nieuwe emissieloze vrachtauto nog niet tenaamgesteld; en
+- b. de aanschaf van de nieuwe emissieloze vrachtauto door de aanvrager vindt plaats op basis van een overeenkomst die ten tijde van de aanvraag om subsidieverlening geen onherroepelijke verplichtingen mag bevatten;
 
-- c. indien de energie voor de aandrijving van de nieuwe emissieloze vrachtauto wordt geleverd door een accupakket mag dit geen lood bevatten.
+- c. ten tijde van de aanvraag om subsidieverlening is de nieuwe emissieloze vrachtauto nog niet tenaamgesteld; en
+
+- d. indien de energie voor de aandrijving van de nieuwe emissieloze vrachtauto wordt geleverd door een accupakket mag dit geen lood bevatten.
 
 ##### Artikel 2.2. Aanvraag subsidieverlening
 
@@ -196,11 +194,11 @@ Voor de subsidieverlening moet zijn voldaan aan de volgende voorwaarden:
 
 - ii. van 1 oktober 2024, 9.00 uur tot en met 8 oktober 2024, 12.00 uur;
 
-- d. in 2025 van 28 januari 2025, 9.00 uur tot en met 31 maart 2025, 12.00 uur;
+- d. in 2025:
 
-- e. in 2026 van 27 januari 2026, 9.00 uur tot en met 31 maart 2026, 12.00 uur; en
+- i. van 28 januari 2025, 9.00 uur tot en met 7 februari 2025, 12.00 uur;
 
-- f. in 2027 van 26 januari 2027, 9.00 uur tot en met 31 maart 2027, 12.00 uur.
+- ii. van 30 september 2025, 9.00 uur tot en met 10 oktober 2025, 12.00 uur.
 
 3. Als tijdstip van indiening van een aanvraag geldt de datum van ontvangst van de volledige aanvraag.
 
@@ -208,7 +206,7 @@ Voor de subsidieverlening moet zijn voldaan aan de volgende voorwaarden:
 
 5. Indien een aanvrager op een werkdag meerdere aanvragen indient, of indien meerdere aanvragers die tot eenzelfde groep behoren op een werkdag een aanvraag indienen, neemt de Minister uitsluitend de eerst ingediende aanvraag in behandeling.
 
-6. Na bekendmaking van het bereiken van het subsidieplafond als bedoeld in [artikel 1.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=1&artikel=1.5&z=2024-10-01&g=2024-10-01), kan in afwijking van het tweede lid, geen aanvraag meer worden ingediend.
+6. Na bekendmaking van het bereiken van het subsidieplafond als bedoeld in [artikel 1.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=1&artikel=1.5&z=2025-01-01&g=2025-01-01), kan in afwijking van het tweede lid, geen aanvraag meer worden ingediend.
 
 ##### Artikel 2.3. Gegevensverstrekking aanvraag subsidieverlening
 
@@ -240,7 +238,7 @@ De Minister beslist afwijzend op een aanvraag om subsidie:
 
 - a. indien de aanvraag niet voldoet aan het bepaalde in deze regeling;
 
-- b. indien voor het voertuig reeds subsidie is verleend op basis van de [Subsidieregeling schoon en emissieloos bouwmaterieel](https://wetten.overheid.nl/jci1.3:c:BWBR0046464) (SSEB);
+- b. indien voor het voertuig reeds subsidie is verleend op basis van de [Subsidieregeling schoon en emissieloos bouwmaterieel](https://wetten.overheid.nl/jci1.3:c:BWBR0046464) of de [Tijdelijke subsidieregeling zero-emissie mobiliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0049842);
 
 - c. als het een aanvrager betreft tegen wie een bevel tot terugvordering uitstaat als bedoeld in artikel 1, zesde lid, onderdeel a, van de algemene groepsvrijstellingsverordening;
 
@@ -254,9 +252,9 @@ De Minister beslist afwijzend op een aanvraag om subsidie:
 
 1. Een aanvrager kan bij de Minister een aanvraag tot vaststelling van de subsidie indienen door middel van een daartoe vastgesteld formulier dat beschikbaar is via de website van RVO.
 
-2. De aanvraag tot subsidievaststelling kan worden ingediend tot uiterlijk 15 maanden na de datum van verlening van de subsidie.
+2. De aanvraag tot subsidievaststelling kan worden ingediend tot uiterlijk 12 maanden na de datum van verlening van de subsidie.
 
-3. De aanvrager kan bij RVO een verzoek doen tot uitstel van maximaal 9 maanden van de indiening van de aanvraag, bedoeld in het tweede lid, indien hij kan aantonen dat de levertijd van de nieuwe emissieloze vrachtauto langer is dan de periode, genoemd in het tweede lid.
+3. De aanvrager kan bij RVO een verzoek doen tot uitstel van maximaal 12 maanden van de indiening van de aanvraag, bedoeld in het tweede lid, indien hij kan aantonen dat de levertijd van de nieuwe emissieloze vrachtauto langer is dan de periode, genoemd in het tweede lid.
 
 ##### Artikel 2.6. Gegevensverstrekking aanvraag subsidievaststelling
 
@@ -274,7 +272,7 @@ Bij de aanvraag tot vaststelling van de subsidie worden in elk geval de volgende
 
 ##### Artikel 2.8. Voorschot
 
-Gelijktijdig met de beschikking tot subsidieverlening wordt 90% van het subsidiebedrag als voorschot verstrekt. De betaling daarvan vindt plaats op een bankrekening die op naam staat van de aanvrager.
+Gelijktijdig met de beschikking tot subsidieverlening wordt 70% van het subsidiebedrag als voorschot verstrekt. De betaling daarvan vindt plaats op een bankrekening die op naam staat van de aanvrager.
 
 ##### Artikel 2.9. Betaling
 
@@ -282,9 +280,9 @@ Na vaststelling van de subsidie vindt de betaling van het resterende subsidiebed
 
 ##### Artikel 2.10. Gewijzigde vaststelling en terugvordering
 
-1. Indien niet is voldaan aan het bepaalde in [artikel 3.2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=3&artikel=3.2&z=2024-10-01&g=2024-10-01), kan de Minister, onverminderd het bepaalde in de [artikelen 4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57), besluiten de vaststelling van de subsidie te wijzigen en het onverschuldigd betaalde deel van de subsidie terug te vorderen.
+1. Indien niet is voldaan aan het bepaalde in [artikel 3.2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=3&artikel=3.2&z=2025-01-01&g=2025-01-01), kan de Minister, onverminderd het bepaalde in de [artikelen 4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57), besluiten de vaststelling van de subsidie te wijzigen en het onverschuldigd betaalde deel van de subsidie terug te vorderen.
 
-2. Het terug te vorderen bedrag wordt bepaald door de subsidie te verminderen met 1/48e van het verstrekte subsidiebedrag vermenigvuldigd met het aantal volledige maanden waarin niet is voldaan aan de verplichting, bedoeld in [artikel 3.2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=3&artikel=3.2&z=2024-10-01&g=2024-10-01).
+2. Het terug te vorderen bedrag wordt bepaald door de subsidie te verminderen met 1/48e van het verstrekte subsidiebedrag vermenigvuldigd met het aantal volledige maanden waarin niet is voldaan aan de verplichting, bedoeld in [artikel 3.2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=3&artikel=3.2&z=2025-01-01&g=2025-01-01).
 
 ### Hoofdstuk 3. Verplichtingen
 
