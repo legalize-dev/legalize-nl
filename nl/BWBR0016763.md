@@ -4,7 +4,7 @@ identifier: "BWBR0016763"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2023-05-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016763"
 soort: "wet"
@@ -108,7 +108,7 @@ In geval van doorzending van een verzoek om een handeling tot het verkrijgen van
 
 ##### Artikel 10
 
-De kosten van de uitvoering van een verzoek om een bewijshandeling te verrichten komen ten laste van de Staat, behoudens de kosten van de oproeping waarvan ingevolge artikel 22, tweede lid, van de verordening door het verzoekende gerecht terugbetaling plaatsvindt en de kosten die ingevolge [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016763&paragraaf=2&artikel=9&z=2023-05-01&g=2023-05-01), voor rekening van partijen komen.
+De kosten van de uitvoering van een verzoek om een bewijshandeling te verrichten komen ten laste van de Staat, behoudens de kosten van de oproeping waarvan ingevolge artikel 22, tweede lid, van de verordening door het verzoekende gerecht terugbetaling plaatsvindt en de kosten die ingevolge [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016763&paragraaf=2&artikel=9&z=2025-01-01&g=2025-01-01), voor rekening van partijen komen.
 
 ##### Artikel 11
 
@@ -128,13 +128,13 @@ Een afwijzende beslissing op grond van artikel 12, derde of vierde lid, artikel 
 
 - c. een andere persoon op de voet van artikel 19, derde lid, van de verordening die door de behandelend rechter is benoemd op grond van [artikel 194 Rv](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=194).
 
-3. Ten aanzien van de kosten van de in de voorgaande leden bedoelde andere persoon zijn de [artikelen 195](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=195) en [199 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=199) voor zover nodig van overeenkomstige toepassing.
+3. Ten aanzien van de kosten van de in de voorgaande leden bedoelde andere persoon zijn de [artikelen 187](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=187) en [191 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=191) voor zover nodig van overeenkomstige toepassing.
 
 ##### Artikel 13
 
 1. Omtrent de vergoedingen en kosten waarvan door het aangezochte gerecht op de voet van artikel 22, tweede lid, van de verordening aan het verzoekend gerecht terugbetaling wordt verzocht, wordt door de rechter overeenkomstig de [artikelen 237](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=237) en [artikel 289 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=289) uitspraak gedaan, voorzover deze artikelen daarvoor een vergoeding plegen in te sluiten.
 
-2. De griffier betaalt de in artikel 22, tweede lid, van de verordening bedoelde kosten en vergoedingen terug aan het aangezochte gerecht en brengt deze, voorzover zij in een veroordeling in de proceskosten plegen te worden begrepen, in rekening bij de eiser of verzoeker, tenzij de rechter daartoe in verband met de omstandigheden van het geding de verweerder, de eiser en verweerder gezamenlijk, een of meer andere belanghebbenden of dezen met de verzoeker gezamenlijk heeft aangewezen. Met betrekking tot de terugbetaling van de vergoeding voor deskundigen zijn de [derde tot en met vijfde volzin van artikel 195 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=195) van overeenkomstige toepassing. In de in deze zinnen bedoelde gevallen zijn de [artikelen 199, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=199), en [244, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=244) van overeenkomstige toepassing.
+2. De griffier betaalt de in artikel 22, tweede lid, van de verordening bedoelde kosten en vergoedingen terug aan het aangezochte gerecht en brengt deze, voorzover zij in een veroordeling in de proceskosten plegen te worden begrepen, in rekening bij de eiser of verzoeker, tenzij de rechter daartoe in verband met de omstandigheden van het geding de verweerder, de eiser en verweerder gezamenlijk, een of meer andere belanghebbenden of dezen met de verzoeker gezamenlijk heeft aangewezen. Met betrekking tot de terugbetaling van de vergoeding voor deskundigen zijn de derde tot en met vijfde volzin van [artikel 187 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=187) van overeenkomstige toepassing. In de in deze zinnen bedoelde gevallen zijn de [artikelen 191, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=191), en [244, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=244) van overeenkomstige toepassing.
 
 3. Een deposito of voorschot van de kosten betreffende een deskundige als bedoeld in artikel 22, derde lid, van de verordening, wordt door de eiser of verzoeker ter griffie gedeponeerd, tenzij de rechter daartoe in verband met de omstandigheden van het geding de verweerder, de eiser en verweerder gezamenlijk, een of meer belanghebbenden of dezen en de verzoeker gezamenlijk heeft aangewezen. De griffier voldoet het deposito of voorschot na ontvangst hiervan aan het aangezochte gerecht. In het geval het voorschot na verrichting van de bewijshandeling door de deskundige niet toereikend blijkt, worden de overige kosten in rekening gebracht bij degene die het voorschot heeft gestort of gedeponeerd. De tweede en derde volzin van het tweede lid zijn van overeenkomstige toepassing.
 
@@ -148,7 +148,7 @@ Een afwijzende beslissing op grond van artikel 12, derde of vierde lid, artikel 
 
 ##### Artikel 15
 
-Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het gebruik van communicatietechnologie zoals bedoeld in artikel 12, vierde lid en artikel 20 van de verordening en [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016763&paragraaf=2&artikel=8&z=2023-05-01&g=2023-05-01) en [12 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0016763&paragraaf=3&artikel=12&z=2023-05-01&g=2023-05-01).
+Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het gebruik van communicatietechnologie zoals bedoeld in artikel 12, vierde lid en artikel 20 van de verordening en [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016763&paragraaf=2&artikel=8&z=2025-01-01&g=2025-01-01) en [12 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0016763&paragraaf=3&artikel=12&z=2025-01-01&g=2025-01-01).
 
 ##### Artikel 16
 
