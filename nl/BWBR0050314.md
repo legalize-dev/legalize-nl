@@ -4,7 +4,7 @@ identifier: "BWBR0050314"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2024-11-06"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050314"
 soort: "wet"
@@ -41,8 +41,6 @@ entry_into_force: "2024-11-06"
 
 Wijzigt de Alcoholwet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel II
 
 Wijzigt de Jeugdwet.
@@ -67,13 +65,9 @@ Wijzigt de Wet afbreking zwangerschap.
 
 Wijzigt de Wet maatschappelijke ondersteuning 2015.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel V
 
 Wijzigt de Wet marktordening gezondheidszorg.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VI
 
@@ -83,25 +77,17 @@ Wijzigt de Wet medische hulpmiddelen.
 
 Wijzigt de Wet op de beroepen in de individuele gezondheidszorg.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VIIa
 
 Wijzigt de Wet op de geneesmiddelenvoorziening BES.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VIII
 
 Wijzigt de Wet op de organisatie ZorgOnderzoek Nederland.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VIIIa
 
 Wijzigt de Wet toetreding zorgaanbieders.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VIIIa*
 
@@ -121,8 +107,6 @@ Wijzigt de Zorgverzekeringswet.
 
 Wijzigt de Algemene wet bestuursrecht.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XI
 
 Wijzigt de Verzamelwet VWS 2018.
@@ -135,31 +119,21 @@ Wijzigt de Verzamelwet VWS 2020.
 
 Wijzigt de Wet buitengewoon pensioen 1940-1945.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XIV
 
 Wijzigt de Wet buitengewoon pensioen Indisch verzet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XV
 
 Wijzigt de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVI
 
 Wijzigt de Wet uitkeringen burger-oorlogsslachtoffers 1940-1945.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVII
 
 Wijzigt de Wet uitkeringen vervolgingsslachtoffers 1940-1945.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVIII
 
