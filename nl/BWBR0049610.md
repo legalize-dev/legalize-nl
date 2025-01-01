@@ -4,7 +4,7 @@ identifier: "BWBR0049610"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-19"
-last_updated: "2024-04-24"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049610"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1. Kwalificatiestructuur politieonderwijs
 
-Het stelsel van kwalificatiedossiers is vastgesteld en de kwalificatiedossiers zijn in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0049610&bijlage=I&z=2024-04-24&g=2024-04-24) bij deze regeling opgenomen.
+Het stelsel van kwalificatiedossiers is vastgesteld en de kwalificatiedossiers zijn in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0049610&bijlage=I&z=2025-04-19&g=2025-01-01) bij deze regeling opgenomen.
 
 ##### Artikel 2. Politieopleidingen met een diploma
 
@@ -64,7 +64,7 @@ Het stelsel van kwalificatiedossiers is vastgesteld en de kwalificatiedossiers z
 
 - h. De combinatie van de opleiding pre-master recherchekunde en de opleiding ter verkrijging van het diploma Master of Criminal Investigation (niveau 7).
 
-2. De vereisten waaraan voldaan moet worden om het diploma te behalen voor een opleiding als bedoeld in het eerste lid, zijn neergelegd in het bijbehorende kwalificatiedossier in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0049610&bijlage=I&z=2024-04-24&g=2024-04-24) bij deze regeling.
+2. De vereisten waaraan voldaan moet worden om het diploma te behalen voor een opleiding als bedoeld in het eerste lid, zijn neergelegd in het bijbehorende kwalificatiedossier in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0049610&bijlage=I&z=2025-04-19&g=2025-01-01) bij deze regeling.
 
 ##### Artikel 3. Politieopleiding die leidt tot een deeldiploma
 
@@ -72,17 +72,17 @@ Het stelsel van kwalificatiedossiers is vastgesteld en de kwalificatiedossiers z
 
 de opleiding ter verkrijging van het diploma Politiemedewerker Specifieke Inzet.
 
-2. De vereisten waaraan voldaan moet worden om het deeldiploma te behalen, zijn neergelegd in het bijbehorende kwalificatiedossier in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0049610&bijlage=I&z=2024-04-24&g=2024-04-24) bij deze regeling.
+2. De vereisten waaraan voldaan moet worden om het deeldiploma te behalen, zijn neergelegd in het bijbehorende kwalificatiedossier in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0049610&bijlage=I&z=2025-04-19&g=2025-01-01) bij deze regeling.
 
 ##### Artikel 4. Politieopleidingen die leiden tot een certificaat
 
-1. De politieopleidingen, bedoeld in [artikel 1, eerste lid, onderdeel s, subonderdeel 3°, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=1), worden aangewezen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0049610&bijlage=II&z=2024-04-24&g=2024-04-24) bij deze regeling.
+1. De politieopleidingen, bedoeld in [artikel 1, eerste lid, onderdeel s, subonderdeel 3°, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=1), worden aangewezen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0049610&bijlage=II&z=2025-04-19&g=2025-01-01) bij deze regeling.
 
-2. De vereisten waaraan voldaan moet worden om het certificaat te behalen zijn neergelegd in het bijbehorende kwalificatiedossier in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0049610&bijlage=I&z=2024-04-24&g=2024-04-24) bij deze regeling.
+2. De vereisten waaraan voldaan moet worden om het certificaat te behalen zijn neergelegd in het bijbehorende kwalificatiedossier in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0049610&bijlage=I&z=2025-04-19&g=2025-01-01) bij deze regeling.
 
 ##### Artikel 5. Overige opleidingen
 
-De overige opleidingen, bedoeld in [artikel 74, eerste lid, onderdeel a, subonderdeel 2°, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=74), worden aangewezen in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0049610&bijlage=III&z=2024-04-24&g=2024-04-24) bij deze regeling.
+De overige opleidingen, bedoeld in [artikel 74, eerste lid, onderdeel a, subonderdeel 2°, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=74), worden aangewezen in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0049610&bijlage=III&z=2025-04-19&g=2025-01-01) bij deze regeling.
 
 ##### Artikel 6. Intrekking Regeling landelijke politieopleidingen PO2002
 
