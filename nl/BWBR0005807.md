@@ -4,7 +4,7 @@ identifier: "BWBR0005807"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2024-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005807"
 soort: "AMvB"
@@ -46,7 +46,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. Dit besluit geeft uitvoering aan de [artikelen 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=13a), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=14), [14a](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=14a), [14b](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=14b), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15), [15a](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15a), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=16) en [20 van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=20).
+1. Dit besluit geeft uitvoering aan de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=14), [14a](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=14a), [14b](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=14b), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15), [15a](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15a), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=16) en [20 van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=20).
 
 2. Dit besluit verstaat hierna onder:
 
@@ -86,7 +86,7 @@ Hebben goedgevonden en verstaan:
 
 - -. bestuurder, vennoot of aandeelhouder zijn van een onderneming, opgericht in de vorm van een vennootschap,
 
-een en ander mits de eigenaar of houder niet een werknemer is als bedoeld in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2&z=2024-01-01&g=2024-01-01).
+een en ander mits de eigenaar of houder niet een werknemer is als bedoeld in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2&z=2025-01-01&g=2025-01-01).
 
 2. De vrijstelling wordt slechts verleend indien:
 
@@ -94,15 +94,15 @@ een en ander mits de eigenaar of houder niet een werknemer is als bedoeld in [ar
 
 - b. het motorrijtuig blijkens een kilometerregistratie voor ten minste 50% zakelijk buiten Nederland wordt gebruikt; het zakelijk gebruik buiten Nederland wordt per kalenderjaar bepaald, waarbij de afstand die wordt overbrugd van de woonplaats naar de in het buitenland gelegen werkplaats en omgekeerd buiten beschouwing blijft.
 
-3. [Artikel 2, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2&z=2024-01-01&g=2024-01-01), is van overeenkomstige toepassing.
+3. [Artikel 2, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2&z=2025-01-01&g=2025-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 4
 
-1. Vrijstelling van belasting wordt in andere gevallen dan bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2&z=2024-01-01&g=2024-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=3&z=2024-01-01&g=2024-01-01) en [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=3a&z=2024-01-01&g=2024-01-01) verleend voor uit een ander land afkomstige motorrijtuigen indien ter zake van het in het vrije verkeer brengen daarvan aanspraak op vrijstelling van rechten bij invoer bestaat, of zou bestaan indien de motorrijtuigen uit een ander land dan een lidstaat van de Europese Unie in het vrije verkeer zouden zijn gebracht, onder de daarbij gestelde voorwaarden en beperkingen.
+1. Vrijstelling van belasting wordt in andere gevallen dan bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2&z=2025-01-01&g=2025-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=3&z=2025-01-01&g=2025-01-01) en [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=3a&z=2025-01-01&g=2025-01-01) verleend voor uit een ander land afkomstige motorrijtuigen indien ter zake van het in het vrije verkeer brengen daarvan aanspraak op vrijstelling van rechten bij invoer bestaat, of zou bestaan indien de motorrijtuigen uit een ander land dan een lidstaat van de Europese Unie in het vrije verkeer zouden zijn gebracht, onder de daarbij gestelde voorwaarden en beperkingen.
 
 2. Indien aanspraak op vrijstelling van rechten bij invoer bestaat of zou bestaan ter zake van de wederinvoer van een motorrijtuig wordt de vrijstelling slechts verleend indien wordt aangetoond dat de belasting vóór de overbrenging naar het buitenland daadwerkelijk is betaald en niet ter zake van de overbrenging naar het buitenland is teruggegeven.
 
-3. Indien voor de motorrijtuigen, bedoeld in het eerste lid, vrijstelling van rechten bij invoer wordt gevraagd overeenkomstig de daarvoor geldende bepalingen, dient de desbetreffende aanvraag tevens het verzoek om vrijstelling van belasting te bevatten. In andere gevallen is [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2&z=2024-01-01&g=2024-01-01), van overeenkomstige toepassing.
+3. Indien voor de motorrijtuigen, bedoeld in het eerste lid, vrijstelling van rechten bij invoer wordt gevraagd overeenkomstig de daarvoor geldende bepalingen, dient de desbetreffende aanvraag tevens het verzoek om vrijstelling van belasting te bevatten. In andere gevallen is [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2&z=2025-01-01&g=2025-01-01), van overeenkomstige toepassing.
 
 4. In de gevallen waarin vrijstelling van belasting is verleend op de voet van het eerste lid, wordt, indien ingevolge de bepalingen op grond waarvan de vrijstelling van rechten bij invoer is verleend of zou worden verleend de rechten bij invoer verschuldigd is of zou worden, tevens de belasting verschuldigd.
 
@@ -314,7 +314,7 @@ Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in 
 
 - –. een afschrift van de kentekencard of van de delen I en II, de delen I en I B of deel I A en B van het kentekenbewijs dat ingevolge [artikel 36, tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) is afgegeven voor de bestelauto; en
 
-- –. een verklaring van een ambtenaar van de rijksbelastingdienst, bevoegd inzake de douane, dat de bestelauto is ingericht voor het in [artikel 15a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15a) bedoelde vervoer; en
+- –. indien de teruggaaf wordt verrekend in de zin van [artikel 15a, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15a): een kopie van de teruggaafverklaring die aan de inschrijver is overgelegd; en
 
 - b. de bestelauto uitsluitend wordt gebruikt voor het in [artikel 15a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15a) bedoelde vervoer, alsmede voor het persoonlijk gebruik, gebruik door inwonende gezinsleden daaronder begrepen, van de gehandicapte en, ingeval dit een ander is, van degene op wiens naam de bestelauto te naam is gesteld in het kentekenregister.
 
@@ -326,11 +326,7 @@ Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in 
 
 ##### Artikel 1a
 
-Bij wijziging van de tenaamstelling van de bestelauto blijft [artikel 13a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=13a) buiten toepassing indien:
-
-- a. de bestelauto waarvoor ingevolge [artikel 13a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=13a) vrijstelling van belasting is verleend, binnen vijf jaren na het tijdstip waarop de bestelauto is ingeschreven en te naam gesteld in het kentekenregister, op naam wordt gesteld van een ondernemer die voldoet aan de voorwaarden genoemd in [artikel 13a, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=13a), en
-
-- b. in de administratie van de ondernemer op wiens naam de bestelauto daarvoor in het kentekenregister te naam was gesteld een verklaring is opgenomen waarin deze ondernemer en de in onderdeel a bedoelde ondernemer ten aanzien van de bestelauto verklaren, dat de in onderdeel a bedoelde ondernemer voor de toepassing van [artikel 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=13a&z=2024-01-01&g=2024-01-01) in de plaats treedt van de ondernemer op wiens naam de bestelauto daarvoor in het kentekenregister te naam was gesteld.
+Vervallen
 
 ##### Artikel 3a
 
@@ -376,7 +372,7 @@ Bij wijziging van de tenaamstelling van de bestelauto blijft [artikel 13a, derde
 
 - d. bij het verzoek bescheiden worden overgelegd waaruit blijkt dat het motorrijtuig is ingeschreven in een andere lidstaat van de Europese Unie of een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte en, indien de inspecteur daarom verzoekt, bescheiden worden overgelegd waaruit blijkt dat het motorrijtuig naar die lidstaat, onderscheidenlijk die staat, is gebracht, alsmede bescheiden waaruit blijkt vanaf welk tijdstip het motorrijtuig niet langer in Nederland feitelijk ter beschikking staat van de in Nederland wonende natuurlijke persoon of gevestigd lichaam.
 
-2. [Artikel 4a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=4a&z=2024-01-01&g=2024-01-01), is van overeenkomstige toepassing.
+2. [Artikel 4a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=4a&z=2025-01-01&g=2025-01-01), is van overeenkomstige toepassing.
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
@@ -387,5 +383,27 @@ Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in 
 2. In het verzoek vermeldt degene aan wie het motorrijtuig ter beschikking wordt gesteld de in totaal overeengekomen periode van terbeschikkingstelling, en verklaart hij dat overigens geen andere afspraken zijn gemaakt met degene die het motorrijtuig aan hem ter beschikking stelt over de periode waarin het motorrijtuig tot zijn beschikking zal staan.
 
 3. Op verzoek van de inspecteur worden aanvullende gegevens verstrekt die naar zijn oordeel noodzakelijk zijn voor een juiste toepassing van [artikel 14b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=14b).
+
+Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
+
+##### Artikel 13b
+
+De teruggaaf, bedoeld in [artikel 15a, vierde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15a), kan worden verrekend indien:
+
+- a. de teruggaafverklaring bevat:
+
+- 1°. de naam, het adres en de woonplaats van degene op wiens naam de bestelauto wordt gesteld;
+
+- 2°. de verklaring van degene op wiens naam de bestelauto wordt gesteld dat de teruggaaf door de aanvrager van de inschrijving van de bestelauto mag worden verrekend met de voldoening van de belasting ter zake van de inschrijving van de betreffende bestelauto;
+
+- 3°. het voertuigidentificatienummer van de bestelauto waarop de teruggaaf betrekking heeft, of indien het voertuigidentificatienummer nog niet bekend is een andere tot het individuele voertuig herleidbare aanduiding;
+
+- 4°. de naam, de vestigingsplaats en het unieke informatienummer voor rechtspersonen en samenwerkingsverbanden van de aanvrager van de inschrijving van de bestelauto waarvoor de verrekening plaatsvindt;
+
+- 5°. de dagtekening van de teruggaafverklaring; en
+
+- 6°. de ondertekening door degene op wiens naam de bestelauto wordt gesteld en de aanvrager van de inschrijving van de bestelauto waarvoor de verrekening plaatsvindt; en
+
+- b. de teruggaafverklaring wordt bewaard in de administratie van de inschrijver van de bestelauto waarvoor de verrekening plaatsvindt.
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
