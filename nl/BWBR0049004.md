@@ -4,7 +4,7 @@ identifier: "BWBR0049004"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2024-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049004"
 soort: "ministeriele-regeling"
@@ -42,9 +42,9 @@ Besluit:
 
 ##### Artikel 1
 
-1. Het model van het formulier, bedoeld in [artikel 26, tweede lid, van het Besluit afbreking zwangerschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&artikel=26) is het model zoals dit in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0049004&bijlage=A&z=2024-01-01&g=2024-01-01) bij dit besluit is opgenomen.
+1. Het model van het formulier, bedoeld in [artikel 26, tweede lid, van het Besluit afbreking zwangerschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&artikel=26) is het model zoals dit in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0049004&bijlage=A&z=2025-01-01&g=2025-01-01) bij dit besluit is opgenomen.
 
-2. Het model van het formulier, bedoeld in [artikel 27, tweede lid, van het Besluit afbreking zwangerschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&artikel=27) is het model zoals dit in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0049004&bijlage=B&z=2024-01-01&g=2024-01-01) bij dit besluit is opgenomen.
+2. Het model van het formulier, bedoeld in [artikel 27, tweede lid, van het Besluit afbreking zwangerschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&artikel=27) is het model zoals dit in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0049004&bijlage=B&z=2025-01-01&g=2025-01-01) bij dit besluit is opgenomen.
 
 ##### Artikel 2
 
