@@ -4,7 +4,7 @@ identifier: "BWBR0017779"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2024-03-30"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017779"
 soort: "AMvB"
@@ -72,7 +72,7 @@ wet: [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245).
 
 1. Als categorieën van activiteiten als bedoeld in [artikel 16.1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.1) worden aangewezen:
 
-- a. de categorieën van activiteiten die in de bij dit besluit behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=I&z=2024-03-30&g=2024-03-30) zijn genoemd en de daar genoemde broeikasgassen;
+- a. de categorieën van activiteiten die in de bij dit besluit behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=I&z=2025-01-01&g=2025-01-01) zijn genoemd en de daar genoemde broeikasgassen;
 
 - b. op grond van artikel 24 van de EG-richtlijn handel in broeikasgasemissierechten in het systeem van handel in broeikasgasemissierechten opgenomen: met ingang van de in de beschikking van de Europese Commissie tot goedkeuring van die opneming genoemde datum.
 
@@ -82,7 +82,7 @@ wet: [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245).
 
 2. De aanwijzing, bedoeld in het eerste lid, onder a, heeft geen betrekking op activiteiten, indien:
 
-- a. de betreffende drempelwaarde, genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=I&z=2024-03-30&g=2024-03-30), niet wordt overschreden;
+- a. de betreffende drempelwaarde, genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=I&z=2025-01-01&g=2025-01-01), niet wordt overschreden;
 
 - b. de broeikasgasinstallatie waarin de activiteiten worden verricht, bestemd is voor het verbranden van gevaarlijke afvalstoffen;
 
@@ -92,9 +92,9 @@ wet: [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245).
 
 - e. zich in de broeikasgasinstallatie waarin de activiteiten worden verricht, een reserve, achtervang of parallelle eenheid bevindt die niet gelijktijdig in werking kan zijn met andere eenheden en:
 
-- 1°. de drempelwaarde, genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=I&z=2024-03-30&g=2024-03-30), niet wordt overschreden, als de activiteiten die plaatsvinden in de reserve, achtervang of parallelle eenheid van een broeikasgasinstallatie niet worden meegeteld;
+- 1°. de drempelwaarde, genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=I&z=2025-01-01&g=2025-01-01), niet wordt overschreden, als de activiteiten die plaatsvinden in de reserve, achtervang of parallelle eenheid van een broeikasgasinstallatie niet worden meegeteld;
 
-- 2°. er een technische restrictie is waardoor de reserve, achtervang of parallelle eenheid niet tegelijkertijd in werking kan zijn met andere eenheden en de drempelwaarden, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=I&z=2024-03-30&g=2024-03-30), op geen enkel moment kunnen worden overschreden;
+- 2°. er een technische restrictie is waardoor de reserve, achtervang of parallelle eenheid niet tegelijkertijd in werking kan zijn met andere eenheden en de drempelwaarden, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=I&z=2025-01-01&g=2025-01-01), op geen enkel moment kunnen worden overschreden;
 
 - 3°. de technische restrictie, bedoeld onder 2°, gemeld is aan het bestuur van de emissieautoriteit, en
 
@@ -130,9 +130,9 @@ Vervallen
 
 2. Bij ministeriële regeling kan worden bepaald dat in daarbij aangegeven gevallen en met inachtneming van bij die regeling te stellen eisen:
 
-- a. bij het bepalen van de jaarvracht van een broeikasgasinstallatie tevens rekening wordt gehouden met emissies van een met betrekking tot die activiteit aangeduid broeikasgas in de lucht, die worden veroorzaakt door activiteiten die in de broeikasgasinstallatie worden verricht en die behoren tot een categorie van activiteiten die in de bij dit besluit behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=I&z=2024-03-30&g=2024-03-30) is genoemd, indien de bron van die emissies zich buiten de broeikasgasinstallatie bevindt;
+- a. bij het bepalen van de jaarvracht van een broeikasgasinstallatie tevens rekening wordt gehouden met emissies van een met betrekking tot die activiteit aangeduid broeikasgas, die worden veroorzaakt door activiteiten die in de broeikasgasinstallatie worden verricht en die behoren tot een categorie van activiteiten die in de bij dit besluit behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=I&z=2025-01-01&g=2025-01-01) is genoemd, indien de bron van die emissies zich buiten de broeikasgasinstallatie bevindt;
 
-- b. bij het bepalen van de jaarvracht van een broeikasgasinstallatie geen rekening wordt gehouden met emissies van een met betrekking tot die activiteit aangeduid broeikasgas in de lucht, die worden veroorzaakt door activiteiten die in de broeikasgasinstallatie worden verricht en die behoren tot een categorie van activiteiten die in de bij dit besluit behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=I&z=2024-03-30&g=2024-03-30) is genoemd, indien de bron van die emissies zich buiten de broeikasgasinstallatie bevindt;
+- b. bij het bepalen van de jaarvracht van een broeikasgasinstallatie geen rekening wordt gehouden met emissies van een met betrekking tot die activiteit aangeduid broeikasgas, die worden veroorzaakt door activiteiten die in de broeikasgasinstallatie worden verricht en die behoren tot een categorie van activiteiten die in de bij dit besluit behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=I&z=2025-01-01&g=2025-01-01) is genoemd, indien de bron van die emissies zich buiten de broeikasgasinstallatie bevindt;
 
 ##### Artikel 6
 
@@ -166,7 +166,7 @@ Vervallen
 
 ##### Artikel 13
 
-Als gereglementeerde activiteit als bedoeld in [artikel 16.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.1) wordt aangewezen de activiteit die in de bij dit besluit behorende [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=II&z=2024-03-30&g=2024-03-30) is genoemd.
+Als gereglementeerde activiteit als bedoeld in [artikel 16.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.1) wordt aangewezen de activiteit die in de bij dit besluit behorende [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=II&z=2025-01-01&g=2025-01-01) is genoemd.
 
 ##### Artikel 14
 
@@ -280,11 +280,13 @@ Activiteiten als bedoeld in [artikel 2, eerste lid, onder a](https://wetten.over
 
 | **Activiteit**: | **Broeikasgassen** |
 | --- | --- |
-| Uitslag tot verbruik van brandstoffen die worden gebruikt voor verbranding in de gebouwensector, de wegvervoerssector en aanvullende sectoren. Buiten deze activiteit vallen: a. de uitslag tot verbruik van brandstoffen die worden gebruikt bij de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=I&z=2024-03-30&g=2024-03-30) opgesomde activiteiten, behalve wanneer zij worden gebruikt voor verbranding bij de activiteiten voor het vervoer van broeikasgassen voor geologische opslag als opgenomen in de tabel, rij zevenentwintig, van die bijlage of wanneer zij worden gebruikt voor verbranding in installaties die worden uitgezonderd krachtens artikel 27 bis van de EG-richtlijn handel in broeikasgasemissierechten; b. de uitslag tot verbruik van brandstoffen waarvoor de emissiefactor nul is; c. de uitslag tot verbruik van gevaarlijk of stedelijk afval dat als brandstof wordt gebruikt. | CO2 |
+| Uitslag tot verbruik van brandstoffen die worden gebruikt voor verbranding in de gebouwensector, de wegvervoerssector, aanvullende sectoren en uitbreidingssectoren. Buiten deze activiteit vallen: a. de uitslag tot verbruik van brandstoffen die worden gebruikt bij de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=I&z=2025-01-01&g=2025-01-01) opgesomde activiteiten, behalve wanneer zij worden gebruikt voor verbranding bij de activiteiten voor het vervoer van broeikasgassen voor geologische opslag als opgenomen in de tabel, rij zevenentwintig, van die bijlage of wanneer zij worden gebruikt voor verbranding in installaties die worden uitgezonderd krachtens artikel 27 bis van de EG-richtlijn handel in broeikasgasemissierechten; b. de uitslag tot verbruik van brandstoffen waarvoor de emissiefactor nul is; c. de uitslag tot verbruik van gevaarlijk of stedelijk afval dat als brandstof wordt gebruikt. | CO2 |
 |   |   |
 | De gebouwensector en de wegvervoerssector komen overeen met de volgende emissiebronnen, zoals gedefinieerd in de IPCC-richtsnoeren inzake nationale broeikasgasinventarissen van 2006, met de hiernavolgende noodzakelijke wijzigingen van die definities: a. Warmtekrachtkoppeling (WKK) (broncategoriecode 1A1a ii) en warmtecentrales (broncategoriecode 1A1a iii), voor zover zij warmte produceren voor de in punten c) en d) van deze alinea genoemde categorieën, hetzij rechtstreeks, hetzij via stadsverwarmingsnetten; b. Wegvervoer (broncategoriecode 1A3b), met uitzondering van het gebruik van landbouwvoertuigen op verharde wegen; c. Commercieel / Institutioneel (broncategoriecode 1A4a); d. Voor bewoning bestemd (broncategoriecode 1A4b). |   |
 |   |   |
 | Aanvullende sectoren komen overeen met de volgende emissiebronnen, zoals gedefinieerd in de IPCC-richtsnoeren inzake nationale broeikasgasinventarissen van 2006: a. Energie-industrieën (broncategoriecode 1A1), met uitzondering van de in de tweede alinea, punt a), van deze bijlage gedefinieerde categorieën; b. Be- en verwerkende industrie en bouw (broncategoriecode 1A2). |   |
+|   |   |
+| Uitbreidingssectoren komen overeen met de volgende emissiebronnen, zoals gedefinieerd in de IPCC-richtsnoeren inzake nationale broeikasgasinventarissen van 2006, met de hiernavolgende noodzakelijke wijzigingen van die definities: a. Landbouwvoertuigen op verharde wegen (onderdeel van broncategoriecode 1A3b); b. Spoorwegen (broncategoriecode 1A3c); c. Vervoer over water (broncategoriecode 1A3d), voor zover dit betrekking heeft op vervoer over de binnenwateren; d. Overig transport (broncategoriecode 1A3e); e. Stationaire land- en bosbouw (broncategoriecode 1A4ci), met uitzondering van glastuinbouw; f. Terreinvoertuigen en andere machines in de land- en bosbouw (broncategoriecode 1A4cii); g. Overig (broncategoriecode 1A5), voor zover dit betrekking heeft op militaire brandstoffen die niet ingezet worden in bilaterale of multilaterale operaties en samenwerking, en nationale operaties. |   |
 
 ## Bijlage III. behorende bij het Besluit handel in emissierechten
 
@@ -655,7 +657,7 @@ Vervallen
 
 ## Bijlage I. behorende bij het Besluit handel in emissierechten
 
-Categorieën van activiteiten als bedoeld in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2024-03-30&g=2024-03-30):
+Categorieën van activiteiten als bedoeld in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2025-01-01&g=2025-01-01):
 
 | **Activiteiten** | **Broeikasgassen** |
 | --- | --- |
