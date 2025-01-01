@@ -4,7 +4,7 @@ identifier: "BWBR0021043"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2025-01-01"
-last_updated: "2015-12-25"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021043"
 soort: "beleidsregel"
@@ -51,9 +51,11 @@ Mede door de fiscale transparantie is het besloten fonds voor gemene rekening ee
 
 Op grond van [artikel 2, eerste lid, onderdeel f, juncto het tweede lid, van de Wet Vpb](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=2) is een fonds voor gemene rekening ‘een fonds ter verkrijging van voordelen voor de deelgerechtigden door het voor gemene rekening beleggen of anderszins aanwenden van gelden….’. Met de frase ‘het anderszins aanwenden van gelden’ wordt slechts een uitbreiding gegeven van het begrip beleggen. De tekst leidt niet tot de conclusie dat de activiteiten van een fonds voor gemene rekening een onderneming mogen vormen. In de parlementaire behandeling wordt als voorbeeld van het anderszins aanwenden van gelden de handel in onroerend goed genoemd.
 
-De activiteiten van een fonds voor gemene rekening zijn gericht op het bijeenbrengen van vermogen door meerdere personen met een (of meerdere) gemeenschappelijke beleggingsdoel(en). Deelname vindt plaats via participatiebewijzen (bewijzen van deelgerechtigdheid). Het fonds voor gemene rekening heeft geen specifieke rechtsvorm, maar is een samenwerkingsverband met doorgaans een (zelfstandige) bewaarder en een (zelfstandige) beheerder.
+Op grond van [artikel 2, eerste lid, onderdeel f, juncto het tweede lid, van de Wet Vpb](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=2) is een fonds voor gemene rekening ‘een fonds ter verkrijging van voordelen voor de deelgerechtigden door het voor gemene rekening beleggen of anderszins aanwenden van gelden….’. Met de frase ‘het anderszins aanwenden van gelden’ wordt slechts een uitbreiding gegeven van het begrip beleggen. De tekst leidt niet tot de conclusie dat de activiteiten van een fonds voor gemene rekening een onderneming mogen vormen. In de parlementaire behandeling wordt als voorbeeld van het anderszins aanwenden van gelden de handel in onroerend goed genoemd.
 
 ### 3. Toestemmingsvereiste bij verhandelen van participaties
+
+Van een zogenoemd open fonds voor gemene rekening is sprake, wanneer de participaties vrij verhandelbaar zijn. Dat wil zeggen dat voor de vervreemding van de participaties niet de toestemming van alle participanten nodig is. Zo’n open fonds voor gemene rekening is belastingplichtig voor de vennootschapsbelasting.
 
 Van een zogenoemd open fonds voor gemene rekening is sprake, wanneer de participaties vrij verhandelbaar zijn. Dat wil zeggen dat voor de vervreemding van de participaties niet de toestemming van alle participanten nodig is. Zo’n open fonds voor gemene rekening is belastingplichtig voor de vennootschapsbelasting.
 
@@ -63,27 +65,25 @@ Verder geldt een fonds als besloten als de vervreemding van de bewijzen van deel
 
 Een zogenoemd besloten fonds voor gemene rekening is niet belastingplichtig voor de vennootschapsbelasting. De participanten worden rechtstreeks in de belastingheffing betrokken.
 
-De feitelijke omstandigheden en de inhoud van de statuten of voorwaarden van deelneming bepalen of sprake is van het verlenen van toestemming bij het verhandelen van de participaties.
-
 ### 4. Toestemmingsvereiste bij paraplufonds voor gemene rekening
 
 Er is sprake van een paraplufonds, als een fonds in meer deelfondsen of subfondsen is verdeeld, elk deelfonds zijn eigen beleggingsbeleid, eigen kosten, eigen benchmark en eigen administratie heeft. In het economische verkeer treden de deelfondsen onder de naam van het paraplufonds als één fonds naar buiten op. Deze paraplufonds-structuur leidt tot kostenbesparing voor zowel de belegger en de beheerder, als de bewaarder.
 
-Voor de vennootschapsbelasting wordt een paraplufonds als één fonds voor gemene rekening aangemerkt indien niet elk deelfonds een afgescheiden vermogen heeft. Dit is het geval indien een negatief vermogen van een deelfonds ten laste van de andere deelfondsen kan worden gebracht of indien anderszins vermogen kan worden overgeheveld naar andere deelfondsen. Het toestemmingsvereiste wordt dan getoetst op het niveau van het (allesomvattende) fonds.
+Er is sprake van een paraplufonds, als een fonds in meer deelfondsen of subfondsen is verdeeld, elk deelfonds zijn eigen beleggingsbeleid, eigen kosten, eigen benchmark en eigen administratie heeft. In het economische verkeer treden de deelfondsen onder de naam van het paraplufonds als één fonds naar buiten op. Deze paraplufonds-structuur leidt tot kostenbesparing voor zowel de belegger en de beheerder, als de bewaarder.
 
 ### Goedkeuring
 
 Goedgekeurd wordt echter dat het toestemmingsvereiste op het niveau van de deelfondsen getoetst mag worden als elk deelfonds op zichzelf de kenmerken van een fonds voor gemene rekening (zoals hiervoor beschreven) heeft en de deelfondsen administratief gescheiden vermogens hebben; ook indien de deelfondsen de verplichting hebben om het negatieve vermogen van een ander deelfonds binnen hetzelfde paraplufonds aan te vullen of te verrekenen op grond van de overeenkomsten binnen het paraplufonds, kan voor deze goedkeuring sprake zijn van administratief gescheiden vermogens.
 
-Indien alle deelfondsen dan afzonderlijk als een besloten fonds voor gemene rekening kwalificeren, is het paraplufonds als geheel één besloten fonds voor gemene rekening. Indien één deelfonds niet (of niet meer, als gevolg van de onderlinge aanvulling of verrekening van (negatieve) vermogens) kwalificeert als een besloten fonds voor gemene rekening, is het paraplufonds vanaf dat moment als geheel voor de vennootschapsbelasting een open fonds voor gemene rekening.
+Goedgekeurd wordt echter dat het toestemmingsvereiste op het niveau van de deelfondsen getoetst mag worden als elk deelfonds op zichzelf de kenmerken van een fonds voor gemene rekening (zoals hiervoor beschreven) heeft en de deelfondsen administratief gescheiden vermogens hebben; ook indien de deelfondsen de verplichting hebben om het negatieve vermogen van een ander deelfonds binnen hetzelfde paraplufonds aan te vullen of te verrekenen op grond van de overeenkomsten binnen het paraplufonds, kan voor deze goedkeuring sprake zijn van administratief gescheiden vermogens.
 
 ### 5. Asset Pooling
 
 Internationaal opererende ondernemingen bundelen in toenemende mate hun internationale pensioenvermogen. Behalve schaalvoordelen op de kosten van vermogensbeheer en bewaring van de beleggingen, verwachten zij door meer diversificatie een hoger rendement. Indien deze bundeling plaats vindt in een besloten fonds voor gemene rekening, en dus voldaan wordt aan de hierboven onder 3 en 4 genoemde voorwaarden, worden de beleggingsinkomsten op dezelfde wijze in de belastingheffing betrokken als wanneer de pensioenfondsen rechtstreeks zouden beleggen. Voor verdragstoepassing kwalificeert niet het fonds voor gemene rekening, maar de participanten in het fonds.
 
-Een beheerder van een fonds die vooraf zekerheid wil over de fiscale behandeling kan onder vermelding van de feitelijke omstandigheden en de inhoud van de overeenkomst contact opnemen met de inspecteur van de Belastingdienst/Amsterdam.
+Internationaal opererende ondernemingen bundelen in toenemende mate hun internationale pensioenvermogen. Behalve schaalvoordelen op de kosten van vermogensbeheer en bewaring van de beleggingen, verwachten zij door meer diversificatie een hoger rendement. Indien deze bundeling plaats vindt in een besloten fonds voor gemene rekening, en dus voldaan wordt aan de hierboven onder 3 en 4 genoemde voorwaarden, worden de beleggingsinkomsten op dezelfde wijze in de belastingheffing betrokken als wanneer de pensioenfondsen rechtstreeks zouden beleggen. Voor verdragstoepassing kwalificeert niet het fonds voor gemene rekening, maar de participanten in het fonds.
 
-Het kan voorkomen dat bij een verdragspartner vragen rijzen over de toekenning van verdragsvoordelen wanneer via een fonds voor gemene rekening wordt belegd. In dergelijke gevallen is het Ministerie van Financiën, op verzoek, bereid om met deze verdragspartner in overleg te treden. Een beheerder van een fonds voor gemene rekening kan in dit kader contact opnemen met de directie Internationale Fiscale Zaken van het Ministerie van Financiën.
+Een beheerder van een fonds die vooraf zekerheid wil over de fiscale behandeling kan onder vermelding van de feitelijke omstandigheden en de inhoud van de overeenkomst contact opnemen met de inspecteur van de Belastingdienst/Amsterdam.
 
 ### 6. Het stapelen van fondsen voor gemene rekening
 
@@ -91,11 +91,11 @@ De afgelopen periode is mij gevraagd hoe bij het stapelen van personenvennootsch
 
 ### 7. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met de dagtekening van dit besluit.
+Voor stapels waarin zowel fondsen voor gemene rekening met een inkoopvariant als met een toestemmingsvariant zijn opgenomen, of waarin naast een of meerdere fondsen voor gemene rekening ook een samenwerkingsverband met een toestemmingsvariant is opgenomen, verwijs ik naar [onderdelen 5](onbekend) en [7 van mijn besluit van 15 december 2015, nr. BLKB2015/1209M](onbekend). Hierin ga ik in op het stapelen van samenwerkingsverbanden met een toestemmingsvariant en geef ik een goedkeuring in de vorm van het zogenoemde enkelvoudig toestemmingsvereiste. Zoals in dat onderdeel 5 aangegeven, geldt deze goedkeuring en de daarbij horende voorwaarde ook bij stapels waarbij een samenwerkingsverband met een toestemmingsvariant wordt gecombineerd met een fonds voor gemene rekening met een inkoopvariant of met een toestemmingsvariant.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-Voor stapels waarin zowel fondsen voor gemene rekening met een inkoopvariant als met een toestemmingsvariant zijn opgenomen, of waarin naast een of meerdere fondsen voor gemene rekening ook een samenwerkingsverband met een toestemmingsvariant is opgenomen, verwijs ik naar [onderdelen 5](onbekend) en [7 van mijn besluit van 15 december 2015, nr. BLKB2015/1209M](onbekend). Hierin ga ik in op het stapelen van samenwerkingsverbanden met een toestemmingsvariant en geef ik een goedkeuring in de vorm van het zogenoemde enkelvoudig toestemmingsvereiste. Zoals in dat onderdeel 5 aangegeven, geldt deze goedkeuring en de daarbij horende voorwaarde ook bij stapels waarbij een samenwerkingsverband met een toestemmingsvariant wordt gecombineerd met een fonds voor gemene rekening met een inkoopvariant of met een toestemmingsvariant.
+De afgelopen periode is mij gevraagd hoe bij het stapelen van personenvennootschappen moet worden aangekeken tegen fondsen voor gemene rekening waarbij de vervreemding van de bewijzen van deelgerechtigdheid uitsluitend kan geschieden aan het fonds zelf of aan bloed- en aanverwanten in de rechte linie van de participant (de zogenoemde inkoopvariant). Omwille van de duidelijkheid merk ik op dat een fonds voor gemene rekening met een inkoopvariant gecombineerd kan worden met een fonds voor gemene rekening met eveneens een inkoopvariant zonder dat daarmee het besloten karakter van deze gestapelde fondsen wordt aangetast.
 
 ### 7. Ingetrokken regeling
 
@@ -104,5 +104,41 @@ De volgende besluiten zijn ingetrokken met ingang van de inwerkingtreding van di
 ### 8. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met de dagtekening van dit besluit.
+
+Dit besluit zal in de Staatscourant worden geplaatst.
+
+Dit besluit werd gewijzigd bij besluit van 19 november 2024 , nr. 2024-14420 (Stcrt. 2024, 38346). De wijziging betrof een einddatum van de werking van dit besluit. Het beleid dat is opgenomen in dit besluit geldt tot en met 31 december 2024. Dit houdt verband met de inwerkingtreding op 1 januari 2025 van de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0049131&artikel=I), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0049131&artikel=II), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0049131&artikel=III) en [VII van de Wet aanpassing fonds voor gemene rekening en vrijgestelde beleggingsinstelling](https://wetten.overheid.nl/jci1.3:c:BWBR0049131&artikel=VII). Vanaf de inwerkingtreding van deze wetsartikelen is de definitie van een fonds voor gemene rekening van [artikel 2, vierde lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=2) aangepast en is in [artikel 2.14bis, zevende lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.14bis) het begrip 'transparant fonds' geïntroduceerd. Vanaf 1 januari 2025 is voor het zijn van een fonds voor gemene rekening onder andere vereist dat het fonds wordt aangemerkt als een beleggingsfonds of fonds voor collectieve belegging in effecten als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1). Daarbij is het zogenoemde toestemmingsvereiste niet meer doorslaggevend voor de vraag of er sprake is van een fonds voor gemene rekening dan wel van een transparant fonds. Met deze wijziging wordt bereikt dat het besluit van toepassing blijft op de kalenderjaren vóór de inwerkingtreding van de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0049131&artikel=I), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0049131&artikel=II), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0049131&artikel=III) en [VII van de Wet aanpassing fonds voor gemene rekening](https://wetten.overheid.nl/jci1.3:c:BWBR0049131&artikel=VII), en niet van toepassing is op de kalenderjaren vanaf de inwerkingtreding van deze wetsartikelen.
+
+### 2. Definitie
+
+De activiteiten van een fonds voor gemene rekening zijn gericht op het bijeenbrengen van vermogen door meerdere personen met een (of meerdere) gemeenschappelijke beleggingsdoel(en). Deelname vindt plaats via participatiebewijzen (bewijzen van deelgerechtigdheid). Het fonds voor gemene rekening heeft geen specifieke rechtsvorm, maar is een samenwerkingsverband met doorgaans een (zelfstandige) bewaarder en een (zelfstandige) beheerder.
+
+### 3. Toestemmingsvereiste bij verhandelen van participaties
+
+De feitelijke omstandigheden en de inhoud van de statuten of voorwaarden van deelneming bepalen of sprake is van het verlenen van toestemming bij het verhandelen van de participaties.
+
+### 4. Toestemmingsvereiste bij paraplufonds voor gemene rekening
+
+Voor de vennootschapsbelasting wordt een paraplufonds als één fonds voor gemene rekening aangemerkt indien niet elk deelfonds een afgescheiden vermogen heeft. Dit is het geval indien een negatief vermogen van een deelfonds ten laste van de andere deelfondsen kan worden gebracht of indien anderszins vermogen kan worden overgeheveld naar andere deelfondsen. Het toestemmingsvereiste wordt dan getoetst op het niveau van het (allesomvattende) fonds.
+
+### Goedkeuring
+
+Indien alle deelfondsen dan afzonderlijk als een besloten fonds voor gemene rekening kwalificeren, is het paraplufonds als geheel één besloten fonds voor gemene rekening. Indien één deelfonds niet (of niet meer, als gevolg van de onderlinge aanvulling of verrekening van (negatieve) vermogens) kwalificeert als een besloten fonds voor gemene rekening, is het paraplufonds vanaf dat moment als geheel voor de vennootschapsbelasting een open fonds voor gemene rekening.
+
+### 5. Asset Pooling
+
+Het kan voorkomen dat bij een verdragspartner vragen rijzen over de toekenning van verdragsvoordelen wanneer via een fonds voor gemene rekening wordt belegd. In dergelijke gevallen is het Ministerie van Financiën, op verzoek, bereid om met deze verdragspartner in overleg te treden. Een beheerder van een fonds voor gemene rekening kan in dit kader contact opnemen met de directie Internationale Fiscale Zaken van het Ministerie van Financiën.
+
+### 6. Het stapelen van fondsen voor gemene rekening
+
+### 7. Ingetrokken regeling
+
+De volgende besluiten zijn ingetrokken met ingang van de inwerkingtreding van dit besluit:
+
+### 8. Inwerkingtreding en einde werkingsdatum
+
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met de dagtekening van dit besluit.
+
+Dit besluit is van toepassing op de kalenderjaren tot en met 31 december 2024, namelijk de kalenderjaren voor de inwerkingtreding van de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0049131&artikel=I), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0049131&artikel=II), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0049131&artikel=III) en [VII van de Wet aanpassing fonds voor gemene rekening en vrijgestelde beleggingsinstelling](https://wetten.overheid.nl/jci1.3:c:BWBR0049131&artikel=VII). Het beleid in dit besluit is niet meer van toepassing met ingang van 1 januari 2025. Voor situaties waarin sprake is van een boekjaar dat aanvangt in 2024 (of eerder) en eindigt in 2025 (of later) betekent dit dat voor de periode tot en met 31 december 2024 het beleid zoals opgenomen in dit besluit geldt, en voor de periode daarna de [Wet aanpassing fonds voor gemene rekening en vrijgestelde beleggingsinstelling](https://wetten.overheid.nl/jci1.3:c:BWBR0049131).
 
 Dit besluit zal in de Staatscourant worden geplaatst.
