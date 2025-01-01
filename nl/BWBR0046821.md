@@ -4,7 +4,7 @@ identifier: "BWBR0046821"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2024-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046821"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Deze regeling voorziet in de aanwijzing van functies, bedoeld in [artikel 35a, e
 
 ##### Artikel 2
 
-De aanwijzing van functies, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046821&artikel=1&z=2024-01-01&g=2024-01-01), geschiedt door de vermelding in de bijlage bij deze regeling van de volgende gegevens, voor zover van toepassing:
+De aanwijzing van functies, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046821&artikel=1&z=2025-01-01&g=2025-01-01), geschiedt door de vermelding in de bijlage bij deze regeling van de volgende gegevens, voor zover van toepassing:
 
 - a. de organisatie waar de functie wordt uitgeoefend;
 
@@ -66,7 +66,7 @@ Deze regeling treedt in werking met ingang van 1 juli 2022.
 
 Deze regeling wordt aangehaald als: Regeling aanwijzing functies VOG politiegegevens.
 
-## Bijlage. als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046821&artikel=2&z=2024-01-01&g=2024-01-01) van de Regeling aanwijzing functies VOG politiegegevens
+## Bijlage. als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046821&artikel=2&z=2025-01-01&g=2025-01-01) van de Regeling aanwijzing functies VOG politiegegevens
 
 | Buitengewoon opsporingsambtenaar | Buitengewoon opsporingsambtenaar | Buitengewoon opsporingsambtenaar |   |
 | --- | --- | --- | --- |
@@ -407,5 +407,49 @@ Deze regeling wordt aangehaald als: Regeling aanwijzing functies VOG politiegege
 |   | Onderzoeker |   | X |
 |   | Secretaresse |   | X |
 |   | Voorzitter Verloftoetsingscommissie (VTC) |   | X |
+
+| **Functiebenaming** | Functietitel | Bevoegdheid geweld te gebruiken **(artikel 35a, tweede lid, onder a, Wjsg)** | Toegang tot gevoelige informatie **(artikel 35a, tweede lid, onder b, Wjsg)** |
+| --- | --- | --- | --- |
+| **Inrichtingsbeveiliger** |   |   |   |
+|   | Beveiligingsfunctionaris | X | X |
+|   | Veiligheidsmedewerker | X | X |
+|   | Ploegleider beveiliging/BHV | X | X |
+|   | Coördinator beveiliging/BHV | X | X |
+| **Inrichtingswerker** |   |   |   |
+|   | Groepsleider | X | X |
+|   | (senior) Pedagogisch medewerker | X | X |
+| **Forensisch therapeutisch werker** |   |   |   |
+|   | Verpleegkundige | X | X |
+|   | Verpleegkundig specialist | X | X |
+|   | Sociaal psychiatrisch verpleegkundige | X | X |
+|   | (vak) Therapeut | X | X |
+|   | Methodiekcoach | X | X |
+|   | Gedragswetenschapper | X | X |
+|   | GZ-psycholoog | X | X |
+|   | Pro Justitia rapporteur | X | X |
+|   | Orthopedagoog | X | X |
+|   | Ambulant hulpverlener | X | X |
+|   | Testassistent | X | X |
+|   | Psychiater | X | X |
+|   | Milieuonderzoeker | X | X |
+| **Operationeel manager** |   |   |   |
+|   | (senior) Teamleider | X | X |
+|   | Teamleider primair proces | X | X |
+|   | Teammanager | X | X |
+|   | Unitmanager | X | X |
+|   | Leidinggevende | X | X |
+| **Directeur** |   |   |   |
+|   | Directeur primair proces | X | X |
+|   | Directeur bedrijfsvoering | X | X |
+|   | Directeur zorg en begeleiding | X | X |
+|   | Directeur-bestuurder | X | X |
+|   | Directeur forensische zorg en observatie | X | X |
+|   | Manager bedrijfsvoering | X | X |
+|   | Hoofd forensische zorg | X | X |
+|   | Hoofd veiligheid | X | X |
+|   | Hoofd facilitaire dienst | X | X |
+| **Medewerker verwerken en behandelen** |   |   |   |
+|   | Medewerker inlichtingen en veiligheid |   | X |
+| **Individueel traject begeleider** |   | X | X |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
