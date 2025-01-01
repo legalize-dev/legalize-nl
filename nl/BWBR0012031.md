@@ -4,7 +4,7 @@ identifier: "BWBR0012031"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-17"
-last_updated: "2024-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012031"
 soort: "ministeriele-regeling"
@@ -59,7 +59,7 @@ Uitvoeringsregeling inkomstenbelasting 2001
 
 ##### Artikel 2. In belangrijke mate onderhouden van kinderen
 
-Een kind wordt in belangrijke mate op kosten van de ouder onderhouden indien de op de ouder drukkende bijdrage in de kosten van het onderhoud van het kind ten minste € 519 per kwartaal beloopt. De ouder wordt geacht een kind in belangrijke mate op zijn kosten te onderhouden indien hij voor het kind recht heeft op kinderbijslag ingevolge de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) of op een tegemoetkoming volgens een naar aard en strekking met de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) overeenkomende buitenlandse regeling.
+Een kind wordt in belangrijke mate op kosten van de ouder onderhouden indien de op de ouder drukkende bijdrage in de kosten van het onderhoud van het kind ten minste € 529 per kwartaal beloopt. De ouder wordt geacht een kind in belangrijke mate op zijn kosten te onderhouden indien hij voor het kind recht heeft op kinderbijslag ingevolge de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) of op een tegemoetkoming volgens een naar aard en strekking met de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) overeenkomende buitenlandse regeling.
 
 ### Hoofdstuk 2. Raamwerk (hoofdstuk 2 van de wet)
 
@@ -301,11 +301,11 @@ De ingevolge [artikel 4.14, achtste lid, onderdeel a, van de wet](https://wetten
 
 ##### Artikel 28. Reikwijdte en definities
 
-Voor de toepassing van dit hoofdstuk wordt verstaan onder:
+1. Voor de toepassing van dit hoofdstuk wordt verstaan onder:
 
-- a. **project:** groenproject, zijnde een project waarvoor ingevolge de [Regeling groenprojecten 2016](onbekend), de [Regeling groenprojecten buitenland 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013272) dan wel de [Regeling groenprojecten Nederlandse Antillen en Aruba 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013273) een verklaring als bedoeld in [artikel 5.14, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14) is afgegeven;
+- a. **project:** groenproject, zijnde een project waarvoor ingevolge de [Regeling groenprojecten 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037778), de [Regeling groenprojecten buitenland 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013272) dan wel de [Regeling groenprojecten Nederlandse Antillen en Aruba 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013273) een verklaring als bedoeld in [artikel 5.14, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14) is afgegeven;
 
-- b. **fonds:** groenfonds, zijnde een bank of beleggingsinstelling die voldoet aan de voorwaarden van [artikel 5.14, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14) en die door de inspecteur ingevolge [artikel 5.14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14) is aangewezen;
+- b. **fonds:** groenfonds, zijnde een bank, een onderdeel van een bank of een beleggingsinstelling die voldoet aan de voorwaarden van [artikel 5.14, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14) en die door de inspecteur ingevolge [artikel 5.14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14) is aangewezen;
 
 - c. **hoofdzakelijkheidscriterium:** de voorwaarde inzake hoofdzakelijk als bedoeld in [artikel 5.14, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14);
 
@@ -313,13 +313,19 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder:
 
 - e. **ingroeiperiode:** de periode, bedoeld in [artikel 5.14, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14).
 
+2. Voor de toepassing van het eerste lid, onderdeel c, wordt een fonds geacht aan het hoofdzakelijkheidscriterium te voldoen:
+
+- a. indien het fonds een bank of een onderdeel van een bank is: zolang ten minste 70% van de groene beleggingen, bedoeld in [artikel 5.14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14), van het fonds is aangewend voor het direct of indirect verstrekken van kredieten ten behoeve van projecten in het belang van de bescherming van het milieu, waaronder natuur en bos, of het direct of indirect beleggen van vermogen in dergelijke projecten en de accountant van het fonds jaarlijks een goedkeurende verklaring afgeeft dat aan het hoofzakelijkheidscriterium is voldaan;
+
+- b. indien het fonds een beleggingsinstelling is: zolang ten minste 70% van de groene beleggingen, bedoeld in [artikel 5.14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14), van het fonds is aangewend voor het direct of indirect beleggen van vermogen ten behoeve van projecten in het belang van de bescherming van het milieu, waaronder natuur en bos, en de accountant van het fonds jaarlijks een goedkeurende verklaring afgeeft dat aan het hoofzakelijkheidscriterium is voldaan.
+
 ##### Artikel 29. Inhoud verzoek om aanwijzing als groenfonds en afhandeling verzoek
 
 1. Een verzoek om aanwijzing als fonds wordt schriftelijk gedaan bij de inspecteur onder overlegging van:
 
-- a. de statuten van het fonds;
+- a. de statuten van het fonds, dan wel productvoorwaarden als sprake is van een onderdeel van een bank;
 
-- b. een afschrift van de inschrijving in het register, bedoeld in [artikel 1:107 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:107), dan wel, ingeval [artikel 3:2, eerste lid, onderdeel c, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:2) van toepassing is, een afschrift van de in dat lid bedoelde bankgarantie, en
+- b. een afschrift van de inschrijving van het fonds, dan wel van de bank als het fonds een onderdeel is van die bank in het register, bedoeld in [artikel 1:107 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:107), dan wel, ingeval [artikel 3:2, eerste lid, onderdeel c, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:2) van toepassing is, een afschrift van de in dat lid bedoelde bankgarantie van het fonds, dan wel van de bank als het fonds een onderdeel is van die bank; en
 
 - c. een opgave van de feitelijke werkzaamheden en voorgenomen werkzaamheden van het fonds.
 
@@ -503,7 +509,7 @@ Voor overige diëten worden de extra kosten gesteld op nihil.
 
 ##### Artikel 38. Uitgaven voor specifieke zorgkosten; extra kleding en beddengoed alsmede daarmee samenhangende extra uitgaven
 
-1. Uitgaven voor extra kleding en beddengoed alsmede daarmee samenhangende extra uitgaven als bedoeld in [artikel 6.17, eerste lid, onderdeel g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.17) worden in aanmerking genomen voor een bedrag van € 350 dan wel, indien blijkt dat die uitgaven € 700 te boven gaan, voor een bedrag van € 875, indien:
+1. Uitgaven voor extra kleding en beddengoed alsmede daarmee samenhangende extra uitgaven als bedoeld in [artikel 6.17, eerste lid, onderdeel g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.17) worden in aanmerking genomen voor een bedrag van € 340 dan wel, indien blijkt dat die uitgaven € 680 te boven gaan, voor een bedrag van € 850, indien:
 
 - a. de genoemde uitgaven voortvloeien uit ziekte of invaliditeit van een persoon als bedoeld in [artikel 6.16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.16) die tot het huishouden van de belastingplichtige behoort; en
 
@@ -691,11 +697,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 Vóór 1 januari 2005 vastgestelde lijfrenten die niet in geldeenheden luiden:
 
-- 1. Op een lijfrente waarvan vóór 1 januari 2005 de hoogte van de termijnen in beleggingseenheden (units) met de verzekeraar is overeengekomen, blijft [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2024-01-01&g=2024-01-01) buiten toepassing en kan de lijfrente-overeenkomst worden tenuitvoergelegd zoals is overeengekomen.
+- 1. Op een lijfrente waarvan vóór 1 januari 2005 de hoogte van de termijnen in beleggingseenheden (units) met de verzekeraar is overeengekomen, blijft [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2025-01-01&g=2025-01-01) buiten toepassing en kan de lijfrente-overeenkomst worden tenuitvoergelegd zoals is overeengekomen.
 
-- 2. Indien ter zake van een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 met de verzekeraar een wijziging van methode van berekening van de termijnen in units of in euro’s wordt overeengekomen, is met ingang van de datum van die wijziging [art. 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2024-01-01&g=2024-01-01) wel van toepassing.
+- 2. Indien ter zake van een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 met de verzekeraar een wijziging van methode van berekening van de termijnen in units of in euro’s wordt overeengekomen, is met ingang van de datum van die wijziging [art. 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2025-01-01&g=2025-01-01) wel van toepassing.
 
-- 3. Indien een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 wordt omgezet in een andere lijfrente, is [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2024-01-01&g=2024-01-01) van toepassing op de laatstgenoemde lijfrente.
+- 3. Indien een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 wordt omgezet in een andere lijfrente, is [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2025-01-01&g=2025-01-01) van toepassing op de laatstgenoemde lijfrente.
 
 ### Hoofdstuk 11. Overgangs- en slotbepalingen ([hoofdstuk 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=11))
 
@@ -703,7 +709,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 ##### Artikel 9a. Constatering van het niet afgenomen zijn van de netto-tonnage van bepaalde schepen
 
-Vervallen
+Met betrekking tot het kalenderjaar 2025 wordt voor de toepassing van [artikel 3.22, zesde lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.22) in samenhang met artikel 3.22, tiende lid, van de wet vastgesteld dat op landelijk niveau de netto-tonnage van kwalificerende schepen die de vlag voeren van een van de lidstaten van de Europese Unie of van een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte als percentage van de netto-tonnage van kwalificerende schepen in de periode 2021 tot en met 2023 ten opzichte van de periode 2020 tot en met 2022 niet is afgenomen.
 
 ### Hoofdstuk 4. Heffingsgrondslag bij aanmerkelijk belang (hoofdstuk 4 van de wet)
 
@@ -865,9 +871,9 @@ Vervallen
 
 5. Ingeval het fonds is aangewezen met een ingroeiperiode en na afloop van die periode niet wordt voldaan aan het hoofdzakelijkheidscriterium, heeft de intrekking terugwerkende kracht tot en met de eerste dag na het aflopen van die periode.
 
-6. Indien het fonds de in [artikel 29a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29a&z=2024-01-01&g=2024-01-01), bedoelde mededeling onverwijld heeft gedaan, heeft de intrekking geen terugwerkende kracht.
+6. Indien het fonds de in [artikel 29a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29a&z=2025-01-01&g=2025-01-01), bedoelde mededeling onverwijld heeft gedaan, heeft de intrekking geen terugwerkende kracht.
 
-7. Indien het fonds de in [artikel 29a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29a&z=2024-01-01&g=2024-01-01), bedoelde mededeling onverwijld heeft gedaan en voorts aannemelijk maakt dat het niet meer voldoen aan de voorwaarden niet langer dan drie maanden zal voortduren, een incidenteel karakter heeft en niet in strijd is met doel en strekking van de regeling, trekt de inspecteur de aanwijzing niet in. Het besluit de aanwijzing niet in te trekken, neemt de inspecteur bij voor bezwaar vatbare beschikking; daarbij kan hij nadere voorwaarden stellen.
+7. Indien het fonds de in [artikel 29a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29a&z=2025-01-01&g=2025-01-01), bedoelde mededeling onverwijld heeft gedaan en voorts aannemelijk maakt dat het niet meer voldoen aan de voorwaarden niet langer dan drie maanden zal voortduren, een incidenteel karakter heeft en niet in strijd is met doel en strekking van de regeling, trekt de inspecteur de aanwijzing niet in. Het besluit de aanwijzing niet in te trekken, neemt de inspecteur bij voor bezwaar vatbare beschikking; daarbij kan hij nadere voorwaarden stellen.
 
 8. Indien de inspecteur een aanwijzing intrekt, maakt hij die intrekking op een daartoe geschikte wijze publiek bekend.
 
@@ -953,27 +959,11 @@ Voor de toepassing van dit lid wordt onder een omzetting van gewone aandelen in 
 
 ##### Artikel 26c. Verkorting termijn 36 maanden uit de doorschuifregeling bij schenking
 
-1. Aan de in [artikel 4.17c, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17c) bedoelde termijn van 36 maanden wordt geacht te zijn voldaan indien zich na het aangaan van de aldaar bedoelde dienstbetrekking een omstandigheid voordoet als bedoeld in het tweede lid.
-
-2. Het eerste lid is van toepassing indien de vervreemder:
-
-- a. door ziekte of gebreken gedurende ten minste één jaar niet in staat is, of vermoedelijk niet in staat zal zijn, om ten minste 55% te verdienen van wat lichamelijk en geestelijk gezonde personen die overigens in gelijke omstandigheden verkeren, kunnen verdienen;
-
-- b. in staat van faillissement is verklaard;
-
-- c. surséance van betaling heeft aangevraagd, of
-
-- d. onder curatele is gesteld.
+Vervallen
 
 ##### Artikel 26d. Werknemer bij een werkmaatschappij in geval van schenking van aandelen in een holding
 
-Aan de in [artikel 4.17c, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17c) bedoelde voorwaarde wordt geacht ook te zijn voldaan indien:
-
-- a. de vennootschap waarop de aandelen of winstbewijzen betrekking hebben, een belang heeft in een ander lichaam;
-
-- b. dat andere lichaam een onderneming drijft of een medegerechtigdheid houdt, een en ander als bedoeld in [artikel 4.17c, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17c), en
-
-- c. de verkrijger reeds gedurende de 36 maanden die onmiddellijk voorafgaan aan het tijdstip van de vervreemding in dienstbetrekking is van dat andere lichaam.
+Vervallen
 
 ##### Artikel 45aa. Bijzondere regels voor ambtshalve verminderingen
 
@@ -1001,7 +991,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 ##### Artikel 45e. Overgangsrecht verliezen op geldleningen aan beginnende ondernemers; verliezen op beleggingen in durfkapitaal
 
-[Artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=6&artikel=34&z=2024-01-01&g=2024-01-01), zoals dat artikel op 31 december 2010 luidde, blijft van toepassing op verliezen op vóór 1 januari 2011 verstrekte geldleningen als bedoeld in [artikel 6.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.8), van de wet, zoals dat lid op 31 december 2010 luidde.
+[Artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=6&artikel=34&z=2025-01-01&g=2025-01-01), zoals dat artikel op 31 december 2010 luidde, blijft van toepassing op verliezen op vóór 1 januari 2011 verstrekte geldleningen als bedoeld in [artikel 6.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.8), van de wet, zoals dat lid op 31 december 2010 luidde.
 
 ### Hoofdstuk 11. Overgangs- en slotbepalingen ([hoofdstuk 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=11))
 
@@ -1113,8 +1103,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 ##### Artikel 45abis. Bijzondere regels voor voorlopige aanslagen ter zake van belastbaar inkomen uit sparen en beleggen
 
-Voor de toepassing van [artikel 9.5a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.5a) wordt voor het jaar 2024:
+Voor de toepassing van [artikel 9.5a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.5a) wordt voor het kalenderjaar 2025:
 
-- a. het percentage voor banktegoeden vastgesteld op 1,03%;
+- a. het percentage voor banktegoeden vastgesteld op 1,44%;
 
-- b. het percentage voor schulden vastgesteld op 2,47%.
+- b. het percentage voor schulden vastgesteld op 2,62%.
