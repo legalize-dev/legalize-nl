@@ -4,7 +4,7 @@ identifier: "BWBR0048993"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2024-07-26"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048993"
 soort: "ministeriele-regeling"
@@ -44,9 +44,11 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **amateursport:** sport die voldoet aan de voorwaarden van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=4&z=2024-07-26&g=2024-07-26);
+- **amateursport:** sport die voldoet aan de voorwaarden van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=4&z=2025-01-01&g=2025-01-01);
 
-- **amateursportorganisatie:** organisatie die voldoet aan de voorwaarden van [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=5&z=2024-07-26&g=2024-07-26);
+- **amateursportorganisatie:** organisatie die voldoet aan de voorwaarden van [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=5&z=2025-01-01&g=2025-01-01);
+
+- **gezamenlijke aanvraag:** aanvraag ingediend door één amateursportorganisatie waarin de kosten van de subsidiabele activiteiten van meerdere amateursportorganisaties zijn samengevoegd;
 
 - **ledenlijst NOC*NSF:** lijst van landelijke sportorganisaties die lid zijn van NOC*NSF, niet zijnde geassocieerde leden;
 
@@ -54,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 - **POS:** Platform Ondernemende Sportaanbieders;
 
-- **sportaccommodatie:** accommodatie die voldoet aan de voorwaarden van [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=5&z=2024-07-26&g=2024-07-26);
+- **sportaccommodatie:** accommodatie die voldoet aan de voorwaarden van [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=5&z=2025-01-01&g=2025-01-01);
 
 - **sportbeoefenaar:** persoon die amateursport beoefent;
 
@@ -76,7 +78,7 @@ Op deze regeling zijn de [artikelen 1.5](https://wetten.overheid.nl/jci1.3:c:BWB
 
 - b. de aanschaf of het onderhoud van sportmaterialen; of
 
-- c. activiteiten, opgenomen in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&bijlage=1&z=2024-07-26&g=2024-07-26), die bijdragen aan de verduurzaming en toegankelijkheid van een sportaccommodatie.
+- c. activiteiten, opgenomen in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&bijlage=1&z=2025-01-01&g=2025-01-01), die bijdragen aan de verduurzaming en toegankelijkheid van een sportaccommodatie.
 
 2. Subsidie wordt niet verstrekt als:
 
@@ -94,7 +96,7 @@ Amateursport in de zin van deze regeling voldoet aan de volgende voorwaarden:
 
 - a. de beoefening wordt bevorderd of georganiseerd door een van de leden opgenomen op de ledenlijst NOC*NSF of door een van de deelnemende organisaties van het POS;
 
-- b. de sport wordt beoefend door personen, op alle niveaus en is toegankelijk voor een breed publiek;
+- b. de sport wordt beoefend door personen, op alle niveaus en is breed toegankelijk;
 
 - c. de sport richt zich op lokale gebruikers;
 
@@ -104,7 +106,7 @@ Amateursport in de zin van deze regeling voldoet aan de volgende voorwaarden:
 
 ##### Artikel 5. Aanvullende voorwaarden
 
-1. Een amateursportorganisatie is een stichting of vereniging met als hoofddoel het faciliteren van amateursport door:
+1. Een amateursportorganisatie is een stichting of vereniging met volledige rechtsbevoegdheid met als hoofddoel het faciliteren van amateursport door:
 
 - a. het aanbieden van amateursport; of
 
@@ -120,6 +122,10 @@ Amateursport in de zin van deze regeling voldoet aan de volgende voorwaarden:
 
 4. Subsidie wordt uitsluitend verstrekt voor activiteiten waarover de subsidieaanvrager btw heeft betaald, tenzij het om de aanschaf van tweedehands sportmaterialen of tweedehands materiaal voor onderhoud gaat.
 
+5. Indien subsidie wordt aangevraagd voor de aanschaf van tweedehands sportmaterialen of tweedehands materiaal voor onderhoud gaat de aanvraag daarvan vergezeld van een factuur met het KvK-nummer van de verkoper.
+
+6. Subsidie voor een gezamenlijke aanvraag wordt uitsluitend verstrekt indien de subsidiabele kosten waarvoor subsidie wordt aangevraagd op naam en rekening staan van de aanvragende amateursportorganisatie.
+
 ##### Artikel 6. Subsidiabele periode
 
 1. Voor de subsidiabele periode bij een subsidie die € 25.000 of meer bedraagt en de subsidiabele activiteiten nog zullen plaatsvinden, geldt dat:
@@ -130,27 +136,27 @@ Amateursport in de zin van deze regeling voldoet aan de volgende voorwaarden:
 
 - c. een amateursportorganisatie gedurende de termijn, bedoeld onder a, ook subsidie kan aanvragen voor andere subsidiabele activiteiten.
 
-2. De subsidiabele activiteiten en de daarmee samenhangende kosten voor een subsidie als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=10&z=2024-07-26&g=2024-07-26) of [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=11&z=2024-07-26&g=2024-07-26) zijn subsidiabel tot uiterlijk 12 maanden voorafgaand aan de aanvraag tot vaststelling.
+2. De subsidiabele activiteiten en de daarmee samenhangende kosten voor een subsidie als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=10&z=2025-01-01&g=2025-01-01) of [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=11&z=2025-01-01&g=2025-01-01) zijn subsidiabel tot uiterlijk 12 maanden voorafgaand aan de aanvraag tot vaststelling.
 
 ##### Artikel 7. Hoogte van de subsidie
 
-1. De subsidie voor de activiteiten, bedoeld in [artikel 3, eerste lid, onder a en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=3&z=2024-07-26&g=2024-07-26), bedraagt ten hoogste 20% van de subsidiabele kosten, inclusief btw.
+1. De subsidie voor de activiteiten, bedoeld in [artikel 3, eerste lid, onder a en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=3&z=2025-01-01&g=2025-01-01), bedraagt ten hoogste 20% van de subsidiabele kosten, inclusief btw.
 
-2. De subsidie voor de activiteiten, bedoeld in [artikel 3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=3&z=2024-07-26&g=2024-07-26), bedraagt ten hoogste 40% van de subsidiabele kosten, inclusief btw.
+2. De subsidie voor de activiteiten, bedoeld in [artikel 3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=3&z=2025-01-01&g=2025-01-01), bedraagt ten hoogste 30% van de subsidiabele kosten, inclusief btw.
 
 ##### Artikel 8. Subsidieplafond
 
 1. Het subsidieplafond bestaat uit het bedrag van de subsidies gezamenlijk dat ten laste van enig kalenderjaar wordt of zal worden uitbetaald op basis van een verlening of vaststelling van een subsidie en wordt in aanmerking genomen voor alle jaren waarop de uitbetaling van een te verstrekken subsidie betrekking heeft.
 
-2. Het subsidieplafond bedraagt voor het kalenderjaar 2024 € 111.500.000.
+2. Het subsidieplafond bedraagt voor het kalenderjaar 2024 € 113.700.000.
 
-3. Het subsidieplafond bedraagt voor het kalenderjaar 2025 € 71.500.000.
+3. Het subsidieplafond bedraagt voor het kalenderjaar 2025 € 74.000.000.
 
-4. Het subsidieplafond bedraagt voor het kalenderjaar 2026 € 71.500.000.
+4. Het subsidieplafond bedraagt voor het kalenderjaar 2026 € 43.500.000.
 
-5. Het subsidieplafond bedraagt voor het kalenderjaar 2027 € 71.500.000.
+5. Het subsidieplafond bedraagt voor het kalenderjaar 2027 € 43.500.000.
 
-6. Het subsidieplafond bedraagt voor het kalenderjaar 2028 € 79.000.000.
+6. Het subsidieplafond bedraagt voor het kalenderjaar 2028 € 26.000.000.
 
 7. Het volgens het subsidieplafond beschikbare bedrag wordt verdeeld op volgorde van binnenkomst van complete aanvragen.
 
@@ -276,7 +282,7 @@ Amateursport in de zin van deze regeling voldoet aan de volgende voorwaarden:
 
 9. De subsidieontvanger legt rekening en verantwoording af aan de hand van een financieel verslag.
 
-10. Als er sprake is van een subsidie op grond van [artikel 3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=3&z=2024-07-26&g=2024-07-26), gaat de aanvraag tot vaststelling van de subsidie vergezeld van een door de minister vastgesteld formulier waarin wordt verklaard dat de activiteiten overeenkomstig de voorwaarden in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&bijlage=1&z=2024-07-26&g=2024-07-26) van deze regeling zijn verricht.
+10. Als er sprake is van een subsidie op grond van [artikel 3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=3&z=2025-01-01&g=2025-01-01), gaat de aanvraag tot vaststelling van de subsidie vergezeld van een door de minister vastgesteld formulier waarin wordt verklaard dat de activiteiten overeenkomstig de voorwaarden in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&bijlage=1&z=2025-01-01&g=2025-01-01) van deze regeling zijn verricht.
 
 11. De minister besluit binnen 22 weken op een aanvraag tot vaststelling van de subsidie, waarbij afrekening tot maximaal de resterende 20% van het subsidiebedrag plaatsvindt als alle activiteiten zijn uitgevoerd en aan alle aan de verleende subsidie verbonden verplichtingen is voldaan.
 
@@ -308,25 +314,25 @@ Deze bijlage hoort bij de Subsidieregeling BOSA. Het betreft de maatregelen waar
 
 De maatregelen voor energiebesparing en duurzame energieopwekking zijn onder andere overeenkomstig de maatregelen van de Energie Investeringsaftrek en voor zover zij toegepast kunnen worden op de sportaccommodaties.
 
+Deze bijlage hoort bij de Subsidieregeling BOSA. Het betreft de maatregelen waarvoor een aanvullende subsidie kan worden aangevraagd zoals geformuleerd in [artikel 3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=3&z=2025-01-01&g=2025-01-01) van deze regeling. Deze maatregelen zijn onder te verdelen in drie categorieën (A,C,D) die aansluiten op de Routekaart Duurzame Sport en een categorie (B) voor verbeterde toegankelijkheid:
+
+**Bestaande sportaccommodaties:**
+
 De maatregelen voor energiebesparing en duurzame energieopwekking zijn onder andere overeenkomstig de maatregelen van de Energie Investeringsaftrek en voor zover zij toegepast kunnen worden op de sportaccommodaties.
 
 **Bestaande sportaccommodaties:**
 
-Sommige maatregelen zijn alleen van toepassing op bestaande sportaccommodaties. Onder bestaande sportaccommodatie wordt verstaan het renoveren van een bestaand gebouw. Gaat u deels renoveren en deels nieuwbouwen dan komen deze maatregelen alleen voor het gedeelte van de renovatie in aanmerking. U dient dan aan te tonen welk percentage bestaande bouw is en welk percentage nieuwbouw.
+### B. Maatregelen toegankelijkheid
 
 **Energieregistratie-en bewakingssysteem (EBS):**
 
-### B. Maatregelen toegankelijkheid
-
-Op 14 juli 2016 is het VN-verdrag inzake de rechten van personen met een handicap in Nederland in werking getreden. Het doel van dit verdrag is de positie van mensen met een beperking versterken. Hiervoor is het ook van belang dat zij niet belemmerd worden om sportieve activiteiten te ondernemen, doordat sportaccommodaties niet goed toegankelijk zijn.
-
-Op 14 juli 2016 is het VN-verdrag inzake de rechten van personen met een handicap in Nederland in werking getreden. Het doel van dit verdrag is de positie van mensen met een beperking versterken. Hiervoor is het ook van belang dat zij niet belemmerd worden om sportieve activiteiten te ondernemen, doordat sportaccommodaties niet goed toegankelijk zijn.
+Vanaf 2022 geldt dat maatregel A.5.1. (Energieregistratie-en bewakingssysteem (EBS) een verplicht onderdeel is van de maatregelen onder categorie A.1, A.2 en A.4 (Maatregelen energiebesparing).
 
 Tot deze maatregelen is gekomen in samenwerking met de sportsector, vertegenwoordigers van de betreffende doelgroepen en bouwkundig experts. Voor de geselecteerde maatregelen is gekozen omdat zij tot verregaande verbetering van de toegankelijkheid van de sportaccommodatie voor de doelgroepen leiden. Het kan bij alle maatregelen gaan om nieuwbouw of renovatie van bestaande accommodaties. Daarnaast zijn onderstaande maatregelen omvangrijk in kosten. De investering in deze maatregelen is, zeker voor kleinere verenigingen en stichtingen, nu vaak een drempel. Door subsidie te verstrekken voor deze maatregelen hoopt het Ministerie van Volksgezondheid, Welzijn en Sport een extra stimulans te geven om onderstaande investeringen in toegankelijkheid te doen.
 
 ### C. Maatregelen circulariteit
 
-In de Routekaart Duurzame Sport, voor een duurzame en betaalbare sport, wordt voor de Sportsector uitgewerkt hoe zij kunnen voldoen aan de uitdagingen zoals die in het Klimaatakkoord zijn gesteld. De te behalen CO2 reductie in het Klimaatakkoord zit met name in het besparen en opwekken van energie, maar de sportsector wil haar CO2 footprint als geheel verkleinen. Circulair gebruik van materialen past hier naadloos binnen. De maatregelen in deze maatregelenlijst zijn dan ook bedoelt om het circulair gebruik van materialen binnen de sportsector te stimuleren. Het gaat hierbij zowel om nieuwbouw als renovatie van bestaande bouw.
+Tot deze maatregelen is gekomen in samenwerking met de sportsector, vertegenwoordigers van de betreffende doelgroepen en bouwkundig experts. Voor de geselecteerde maatregelen is gekozen omdat zij tot verregaande verbetering van de toegankelijkheid van de sportaccommodatie voor de doelgroepen leiden. Het kan bij alle maatregelen gaan om nieuwbouw of renovatie van bestaande accommodaties. Daarnaast zijn onderstaande maatregelen omvangrijk in kosten. De investering in deze maatregelen is, zeker voor kleinere verenigingen en stichtingen, nu vaak een drempel. Door subsidie te verstrekken voor deze maatregelen hoopt het Ministerie van Volksgezondheid, Welzijn en Sport een extra stimulans te geven om onderstaande investeringen in toegankelijkheid te doen.
 
 ### D. Maatregelen klimaatadaptatie
 
@@ -336,9 +342,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 8a. Aanvraag tot verlening of vaststelling 2024
 
-1. In afwijking van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=10&z=2024-07-26&g=2024-07-26), en [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=11&z=2024-07-26&g=2024-07-26), kunnen er geen aanvragen tot directe vaststelling van een subsidie worden ingediend in de periode van 1 augustus 2024 tot en met 31 december 2024.
+1. In afwijking van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=10&z=2025-01-01&g=2025-01-01), en [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=11&z=2025-01-01&g=2025-01-01), kunnen er geen aanvragen tot directe vaststelling van een subsidie worden ingediend in de periode van 1 augustus 2024 tot en met 31 december 2024.
 
-2. In afwijking van [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=12&z=2024-07-26&g=2024-07-26), en [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=13&z=2024-07-26&g=2024-07-26), kunnen er geen aanvragen tot verlening van een subsidie worden ingediend in de periode van 1 augustus 2024 tot en met 31 december 2024.
+2. In afwijking van [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=12&z=2025-01-01&g=2025-01-01), en [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=13&z=2025-01-01&g=2025-01-01), kunnen er geen aanvragen tot verlening van een subsidie worden ingediend in de periode van 1 augustus 2024 tot en met 31 december 2024.
 
 ## Bijlage 1. Activiteiten die bijdragen aan de verduurzaming en toegankelijkheid van een sportaccommodatie als bedoeld in [artikel 3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=3&z=2024-07-26&g=2024-07-26)
 
@@ -346,15 +352,37 @@ Deze bijlage hoort bij de Subsidieregeling BOSA. Het betreft de maatregelen waar
 
 ### A. Maatregelen energiebesparing
 
-Vanaf 2022 geldt dat maatregel A.5.1. (Energieregistratie-en bewakingssysteem (EBS) een verplicht onderdeel is van de maatregelen onder categorie A.1, A.2 en A.4 (Maatregelen energiebesparing).
+Sommige maatregelen zijn alleen van toepassing op bestaande sportaccommodaties. Onder bestaande sportaccommodatie wordt verstaan het renoveren van een bestaand gebouw. Gaat u deels renoveren en deels nieuwbouwen dan komen deze maatregelen alleen voor het gedeelte van de renovatie in aanmerking. U dient dan aan te tonen welk percentage bestaande bouw is en welk percentage nieuwbouw.
 
 ### B. Maatregelen toegankelijkheid
+
+Op 14 juli 2016 is het VN-verdrag inzake de rechten van personen met een handicap in Nederland in werking getreden. Het doel van dit verdrag is de positie van mensen met een beperking versterken. Hiervoor is het ook van belang dat zij niet belemmerd worden om sportieve activiteiten te ondernemen, doordat sportaccommodaties niet goed toegankelijk zijn.
+
+### C. Maatregelen circulariteit
 
 Toegankelijkheidsmaatregelen worden enkel aanvullend gesubsidieerd als deze voor het eerst worden gerealiseerd. Onderhoud aan of vervangen van bestaande voorzieningen wordt niet aanvullend gesubsidieerd.
 
 ### C. Maatregelen circulariteit
 
 In de Routekaart Duurzame Sport, voor een duurzame en betaalbare sport, wordt voor de Sportsector uitgewerkt hoe zij kunnen voldoen aan de uitdagingen zoals die in het Klimaatakkoord zijn gesteld. De te behalen CO2 reductie in het Klimaatakkoord zit met name in het besparen en opwekken van energie, maar de sportsector wil haar CO2 footprint als geheel verkleinen. Circulair gebruik van materialen past hier naadloos binnen. De maatregelen in deze maatregelenlijst zijn dan ook bedoelt om het circulair gebruik van materialen binnen de sportsector te stimuleren. Het gaat hierbij zowel om nieuwbouw als renovatie van bestaande bouw.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 8b. Indienen aanvraag
+
+1. Een aanvraag tot verlening of vaststelling van een subsidie kan vanaf de eerste maandag van januari van enig kalenderjaar gedurende het hele kalenderjaar worden ingediend.
+
+2. Indien het totaal aangevraagde subsidiebedrag in enig kalenderjaar 155% bedraagt van het op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=8&z=2025-01-01&g=2025-01-01) voor dat kalenderjaar vastgestelde subsidieplafond kunnen er gedurende de resterende periode van dat kalenderjaar geen aanvragen tot directe vaststelling van een subsidie, als bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=10&z=2025-01-01&g=2025-01-01), en [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=11&z=2025-01-01&g=2025-01-01), en geen aanvragen tot verlening van een subsidie, als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=12&z=2025-01-01&g=2025-01-01), en [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=13&z=2025-01-01&g=2025-01-01), meer worden ingediend.
+
+##### Artikel 16a. Overgangsbepaling
+
+[Artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=7&z=2025-01-01&g=2025-01-01), zoals dat luidde vóór 1 januari 2025, blijft van toepassing op subsidies die vóór 1 januari 2025 zijn aangevraagd, verleend of vastgesteld.
+
+## Bijlage 1. Activiteiten die bijdragen aan de verduurzaming en toegankelijkheid van een sportaccommodatie als bedoeld in [artikel 3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0048993&artikel=3&z=2025-01-01&g=2025-01-01)
+
+### A. Maatregelen energiebesparing
+
+### B. Maatregelen toegankelijkheid
 
 ### D. Maatregelen klimaatadaptatie
 
