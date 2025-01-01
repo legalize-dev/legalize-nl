@@ -4,7 +4,7 @@ identifier: "BWBR0029314"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2025-01-01"
-last_updated: "2024-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029314"
 soort: "ministeriele-regeling-BES"
@@ -39,11 +39,11 @@ Treedt in werking om 0.00 uur in Bonaire, Sint Eustatius en Saba en om 5.00 uur 
 
 ##### Artikel 1
 
-Deze regeling geeft uitvoering aan [artikel 6, vijfde lid, onderdeel f, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=6), en [artikel 22 Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=22)
+Deze regeling geeft uitvoering aan [artikel 6, vijfde lid, onderdeel g, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=6), en [artikel 22 Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=22)
 
 ##### Artikel 2
 
-1. Vaste vergoedingen als bedoeld in [artikel 6, vijfde lid, onderdeel f, onder 3°, van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=6) behoren niet tot het loon indien:
+1. Vaste vergoedingen als bedoeld in [artikel 6, vijfde lid, onderdeel g, onder 3°, van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=6) behoren niet tot het loon indien:
 
 - a. de inhoudingsplichtige aannemelijk maakt dat deze vergoedingen geacht kunnen worden te strekken tot bestrijding van de noodzakelijke kosten die de werknemer tot verwerving van zijn loon maakt;
 
