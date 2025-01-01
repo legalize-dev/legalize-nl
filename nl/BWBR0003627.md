@@ -4,7 +4,7 @@ identifier: "BWBR0003627"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2016-12-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003627"
 soort: "AMvB"
@@ -142,7 +142,7 @@ Vervallen
 
 ##### Artikel 7
 
-De besluiten, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003627&artikel=4&z=2016-12-01&g=2016-12-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0003627&artikel=5&z=2016-12-01&g=2016-12-01) worden in de **Staatscourant** geplaatst.
+De besluiten en aanwijzingen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003627&artikel=4&z=2025-01-01&g=2025-01-01) en [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0003627&artikel=5&z=2025-01-01&g=2025-01-01), worden in de **Staatscourant** geplaatst, de aanwijzingen, bedoeld in artikel 5, eerste lid, onderdeel b, in het publicatieblad, bedoeld in [artikel 2 van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=2), van het openbaar lichaam waartoe het aanwijzende orgaan behoort en de aanwijzingen, bedoeld in artikel 5, eerste lid, onderdeel c, in het gemeenteblad.
 
 ##### Artikel 7a
 
