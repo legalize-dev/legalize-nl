@@ -4,7 +4,7 @@ identifier: "BWBR0044528"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-01-01"
-last_updated: "2022-12-14"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044528"
 soort: "zbo"
@@ -42,9 +42,13 @@ Het stimuleren van de artistieke ontwikkeling en het cultureel ondernemerschap v
 
 ##### Artikel 2. Toepasselijkheid
 
-1. Een Startbijdrage kan worden verstrekt aan startende beeldend kunstenaars, die korter dan vier jaar voor het indienen van een aanvraag ten minste drie jaar een bachelor of 21 maanden een master hbo-opleiding aan een instituut voor beeldende kunsten hebben gevolgd en deze ten minste één jaar voorafgaand aan de aanvraag hebben verlaten en ten minste één jaar professioneel werkzaam zijn geweest als beeldend kunstenaar. Als het een instituut voor beeldende kunst en vormgeving betreft, moet een beeldende kunst curriculum zijn gevolgd. Ook kan een Startbijdrage worden verstrekt aan startende beeldend kunstenaars die minimaal één jaar en maximaal vier jaar professioneel werkzaam zijn als beeldend kunstenaar en ingeschreven staan in het Handelsregister bij de Kamer van Koophandel, dan wel een vergelijkbare buitenlandse organisatie.
+1. Een Startbijdrage kan worden verstrekt aan startende beeldend kunstenaars, die minimaal één tot maximaal vier jaar als professioneel beeldend kunstenaar werkzaam zijn. Daarbij geldt:
 
-2. Indien de aanvrager van een Startbijdrage in de vier jaar na het verlaten van een bachelor opleiding aan een hbo-instituut een master opleiding heeft gevolgd, wordt de in het eerste lid van dit artikel genoemde periode van vier jaar vermeerderd met het aantal maanden dat deze opleiding aan de tweede fase/master heeft geduurd.
+- •. Indien de kunstenaar een hbo-bacheloropleiding met een beeldende kunstcurriculum heeft afgerond wordt de diplomadatum beschouwd als start van de professionele beroepspraktijk. Wanneer er een periode tussen de diplomadatum van de hbo-bacheloropleiding met beeldende kunstcurriculum en de start van de masteropleiding zit, wordt deze periode meegerekend als onderdeel van de professionele beroepspraktijk.
+
+- •. Indien de kunstenaar geen hbo-bacheloropleiding met een beeldende kunstcurriculum heeft afgerond wordt het moment waarop de kunstenaar voor het eerst werk presenteert binnen het circuit van de professionele beeldende kunst beschouwd als de start van de professionele beroepspraktijk.
+
+2. Indien de aanvrager van een Startbijdrage in de vier jaar na het verlaten van een bachelor opleiding aan een hbo-instituut of in de vier jaar na de eerste presentatie binnen het circuit van de professionele beeldende kunst een master opleiding heeft gevolgd, wordt de in het eerste lid van dit artikel genoemde periode van vier jaar vermeerderd met het aantal maanden dat deze opleiding aan de tweede fase/master heeft geduurd.
 
 3. Het in het tweede lid van dit artikel gestelde geldt niet voor die instellingen waarvoor een projectinvestering kan worden aangevraagd die door het Mondriaan Fonds verstrekt kan worden.
 
@@ -52,7 +56,7 @@ Het stimuleren van de artistieke ontwikkeling en het cultureel ondernemerschap v
 
 5. Een Startbijdrage wordt voor een periode van maximaal 12 maanden verstrekt.
 
-6. Een startbijdrage kan aan dezelfde kunstenaar maximaal twee keer worden verstrekt.
+6. Een startbijdrage kan aan dezelfde kunstenaar maximaal een keer worden verstrekt.
 
 ##### Artikel 3. Aanvraag
 
