@@ -4,7 +4,7 @@ identifier: "BWBR0037257"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2024-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037257"
 soort: "ministeriele-regeling"
@@ -58,13 +58,13 @@ In deze regeling wordt verstaan onder:
 
 De bezoldiging voor een topfunctionaris bij een rechtspersoon of instelling voor zorg of jeugdhulp bedraagt voor de klasse waarin de desbetreffende rechtspersoon of instelling is ingedeeld, niet meer dan het in onderstaande tabel opgenomen bedrag.
 
-| Klasse | Bezoldigingsmaximum 2024 |
+| Klasse | Bezoldigingsmaximum 2025 |
 | --- | --- |
-| I | € 130.000 |
-| II | € 158.000 |
-| III | € 190.000 |
-| IV | € 214.000 |
-| V | Het bedrag, genoemd in [artikel 2.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249). |
+| I | € 138.000 |
+| II | € 167.000 |
+| III | € 201.000 |
+| IV | € 226.000 |
+| V | Het bedrag, genoemd in [artikel 2.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.3). |
 
 ##### Artikel 4. Indeling in een andere klasse
 
@@ -86,9 +86,9 @@ Wijzigt de Regeling bezoldigingsmaxima topfunctionarissen zorg- en welzijnssecto
 
 ##### Artikel 7. Inwerkingtreding
 
-1. Deze regeling treedt, met uitzondering van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037257&artikel=5&z=2024-01-01&g=2024-01-01), in werking met ingang van 1 januari 2016.
+1. Deze regeling treedt, met uitzondering van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037257&artikel=5&z=2025-01-01&g=2025-01-01), in werking met ingang van 1 januari 2016.
 
-2. [Artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037257&artikel=5&z=2024-01-01&g=2024-01-01) treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze regeling wordt geplaatst.
+2. [Artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037257&artikel=5&z=2025-01-01&g=2025-01-01) treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze regeling wordt geplaatst.
 
 3. Artikel 5, onderdeel A, werkt terug tot en met 1 januari 2015.
 
@@ -108,13 +108,13 @@ Gelet op [artikel 2.7 van de Wet normering bezoldiging topfunctionarissen publie
 
 Besluit:
 
-## Bijlage. bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037257&artikel=2&z=2024-01-01&g=2024-01-01)
+## Bijlage. bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037257&artikel=2&z=2025-01-01&g=2025-01-01)
 
 ### 1. Herleiding punten naar klassen
 
 Het toegestane bezoldigingsmaximum wordt vastgesteld op basis van de karakteristieken van een rechtspersoon of instelling (of een groep van rechtspersonen of instellingen) waaraan de topfunctionaris leiding geeft. Het uitgangspunt is dat voor grotere, complexere rechtspersonen of instellingen een zwaarder functieprofiel vereist is dan voor kleinere, eenvoudige rechtspersonen of instellingen. Bij een hogere functiezwaarte is een hogere bezoldiging passend.
 
-Een rechtspersoon of instelling in de zorg of jeugdhulp stelt aan de hand van deze bijlage het totaal aantal bij die rechtspersoon of instelling behorende punten vast door het aantal punten dat de rechtspersoon of de instelling ingevolge de paragrafen 2.1, 2.2, 2.3 en 3 van deze bijlage scoort bij elkaar op te tellen. Het totaal aantal punten wordt volgens de volgende tabel herleid tot de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037257&artikel=3&z=2024-01-01&g=2024-01-01) van deze regeling bedoelde klasse:
+Een rechtspersoon of instelling in de zorg of jeugdhulp stelt aan de hand van deze bijlage het totaal aantal bij die rechtspersoon of instelling behorende punten vast door het aantal punten dat de rechtspersoon of de instelling ingevolge de paragrafen 2.1, 2.2, 2.3 en 3 van deze bijlage scoort bij elkaar op te tellen. Het totaal aantal punten wordt volgens de volgende tabel herleid tot de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037257&artikel=3&z=2025-01-01&g=2025-01-01) van deze regeling bedoelde klasse:
 
 Indien een rechtspersoon of instelling die zorg of jeugdhulp verleent organisatorisch is verbonden met een of meer andere rechtspersonen of instellingen die zorg of jeugdhulp verlenen, mag voor iedere rechtspersoon of instelling binnen de organisatie die zorg of jeugdhulp verleent een klassenindeling worden toegepast die zou gelden indien alle tot die organisatie behorende, in de zorg of jeugdhulp werkzame rechtspersonen of instellingen gezamenlijk als één rechtspersoon of instelling zouden worden aangemerkt.
 
