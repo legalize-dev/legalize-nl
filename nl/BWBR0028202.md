@@ -4,7 +4,7 @@ identifier: "BWBR0028202"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2025-01-01"
-last_updated: "2022-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028202"
 soort: "wet-BES"
@@ -89,7 +89,7 @@ entry_into_force: "2020-11-25"
 
 - d. **rusttijd:** de tijd gedurende welke het verboden is arbeid te laten verrichten, anders dan bij wijze van overwerk;
 
-- e. **schemawerk:** arbeid, niet zijnde overwerk, verricht volgens een periodiek werkrooster op verschillende, met het oog op de aard van de onderneming noodzakelijke, tijdstippen waardoor de arbeidstijd geheel of gedeeltelijk valt binnen de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=9&z=2022-01-01&g=2022-01-01), bedoelde rusttijd;
+- e. **schemawerk:** arbeid, niet zijnde overwerk, verricht volgens een periodiek werkrooster op verschillende, met het oog op de aard van de onderneming noodzakelijke, tijdstippen waardoor de arbeidstijd geheel of gedeeltelijk valt binnen de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=9&z=2025-01-01&g=2025-01-01), bedoelde rusttijd;
 
 - f. **overwerk:** arbeid, verricht gedurende de voor de werknemer geldende rusttijd, alsmede arbeid welke ten aanzien van de werknemer de op grond van deze wet of de daarop berustende bepalingen maximaal toegestane arbeidsduur per dag of per week overschrijdt;
 
@@ -101,7 +101,7 @@ entry_into_force: "2020-11-25"
 
 1. Deze wet is niet van toepassing op werknemers van wie het bruto jaarinkomen meer bedraagt dan 260 maal het dagloon, bedoeld in [artikel 5, tweede lid, van de Wet ziekteverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=5).
 
-2. Voor de toepassing van deze wet en de daarop berustende bepalingen wordt onder inkomen verstaan: alle inkomsten uit arbeid in één onderneming, waaronder mede begrepen het naar tijdruimte vastgestelde loon, het vakantiegeld, provisie en winstbonussen en dergelijke, die als grondslag dienen voor de inkomstenbelasting, met uitzondering van de vergoeding voor overwerk en de toeslag, bedoeld in [artikel 11, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=11&z=2022-01-01&g=2022-01-01).
+2. Voor de toepassing van deze wet en de daarop berustende bepalingen wordt onder inkomen verstaan: alle inkomsten uit arbeid in één onderneming, waaronder mede begrepen het naar tijdruimte vastgestelde loon, het vakantiegeld, provisie en winstbonussen en dergelijke, die als grondslag dienen voor de inkomstenbelasting, met uitzondering van de vergoeding voor overwerk en de toeslag, bedoeld in [artikel 11, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=11&z=2025-01-01&g=2025-01-01).
 
 ##### Artikel 4
 
@@ -141,7 +141,7 @@ Van het bepaalde bij of krachtens deze wet kan niet ten nadele van de werknemer 
 
 - c. wekelijks tenminste twee maal het gedeelte van een dag, anders dan de rustdag bedoeld onder b, voorafgaand aan of volgend op 13.00 uur;
 
-- d. feestdagen, als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=6&artikel=23&z=2022-01-01&g=2022-01-01).
+- d. feestdagen, als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=6&artikel=23&z=2025-01-01&g=2025-01-01).
 
 2. In afwijking van het eerste lid geldt als rusttijd voor de werknemer, die schemawerk verricht:
 
@@ -151,9 +151,9 @@ Van het bepaalde bij of krachtens deze wet kan niet ten nadele van de werknemer 
 
 - c. wekelijks tenminste eenmaal het gedeelte van een dag, anders dan de rustdag bedoeld onder b, voorafgaand aan of volgend op 13.00 uur;
 
-- d. feestdagen, als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=6&artikel=23&z=2022-01-01&g=2022-01-01), voor zover de werknemer op die feestdagen niet conform zijn werkrooster arbeid verricht, met dien verstande dat de werknemer per kalenderjaar tenminste op vijf feestdagen is vrijgesteld van arbeid.
+- d. feestdagen, als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=6&artikel=23&z=2025-01-01&g=2025-01-01), voor zover de werknemer op die feestdagen niet conform zijn werkrooster arbeid verricht, met dien verstande dat de werknemer per kalenderjaar tenminste op vijf feestdagen is vrijgesteld van arbeid.
 
-3. De werkgever organiseert de arbeid zodanig dat de rustdag van de werknemer, die schemawerk verricht, tenminste éénmaal per zeven weken op een zondag valt, een en ander met inachtneming van [artikel 2, tweede lid, onder h, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=1&artikel=2&z=2022-01-01&g=2022-01-01). Bij collectieve arbeidsovereenkomst kan van het bepaalde in de eerste volzin worden afgeweken.
+3. De werkgever organiseert de arbeid zodanig dat de rustdag van de werknemer, die schemawerk verricht, tenminste éénmaal per zeven weken op een zondag valt, een en ander met inachtneming van [artikel 2, tweede lid, onder h, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=1&artikel=2&z=2025-01-01&g=2025-01-01). Bij collectieve arbeidsovereenkomst kan van het bepaalde in de eerste volzin worden afgeweken.
 
 4. Het is verboden de werknemer arbeid te laten verrichten gedurende de voor hem geldende rusttijd, anders dan bij wijze van overwerk.
 
@@ -177,15 +177,15 @@ Van het bepaalde bij of krachtens deze wet kan niet ten nadele van de werknemer 
 
 - b. geen consignatie wordt opgelegd op de dag of dagen waarop arbeid in nachtdienst wordt verricht.
 
-4. In afwijking van [artikel 8, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=8&z=2022-01-01&g=2022-01-01), bedraagt de arbeidsduur over een periode van 13 weken berekend niet meer dan 40 uur per week, indien de consignatie ook de periode tussen 0.00 uur en 6.00 uur bestrijkt.
+4. In afwijking van [artikel 8, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=8&z=2025-01-01&g=2025-01-01), bedraagt de arbeidsduur over een periode van 13 weken berekend niet meer dan 40 uur per week, indien de consignatie ook de periode tussen 0.00 uur en 6.00 uur bestrijkt.
 
 5. Als arbeidstijd geldt tijdens de consignatie de werkelijk als gevolg van een oproep gewerkte tijd, met dien verstande dat de arbeid als gevolg van één oproep of meerdere oproepen binnen een half uur geacht wordt tenminste een half uur te duren. Indien na beëindiging van de arbeid als gevolg van een oproep binnen een half uur weer een oproep volgt, geldt die tussenliggende periode ook als arbeidstijd.
 
-6. De arbeid, die voortvloeit uit de consignatie, telt niet mee voor de berekening van de totale arbeidsduur, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=8&z=2022-01-01&g=2022-01-01).
+6. De arbeid, die voortvloeit uit de consignatie, telt niet mee voor de berekening van de totale arbeidsduur, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=8&z=2025-01-01&g=2025-01-01).
 
-7. Op de arbeid, die voortvloeit uit de consignatie, zijn de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=9&z=2022-01-01&g=2022-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=10&z=2022-01-01&g=2022-01-01) niet van toepassing.
+7. Op de arbeid, die voortvloeit uit de consignatie, zijn de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=9&z=2025-01-01&g=2025-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=10&z=2025-01-01&g=2025-01-01) niet van toepassing.
 
-8. De arbeid, die gedurende consignatie wordt verricht, is overwerk, waarvan de beloning geschiedt conform [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=3&artikel=15&z=2022-01-01&g=2022-01-01).
+8. De arbeid, die gedurende consignatie wordt verricht, is overwerk, waarvan de beloning geschiedt conform [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=3&artikel=15&z=2025-01-01&g=2025-01-01).
 
 9. Tenzij anders overeengekomen bij schriftelijke overeenkomst, betaalt de werkgever de werknemer aan wie consignatie is opgelegd, onverminderd het achtste lid en ongeacht of er daadwerkelijk oproepen zijn gedaan of arbeid als gevolg van een oproep is verricht, per dag, waarop die consignatie wordt opgelegd, een toeslag van één percent van zijn bruto-maandloon.
 
@@ -197,7 +197,7 @@ Van het bepaalde bij of krachtens deze wet kan niet ten nadele van de werknemer 
 
 2. De arbeidsduur per nachtdienst, exclusief pauze, bedraagt ten hoogste acht uren.
 
-3. In afwijking van [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=8&z=2022-01-01&g=2022-01-01), bedraagt de arbeidsduur van de werknemer, die arbeid in nachtdienst verricht, over een periode van 13 weken berekend niet meer dan 40 uur per week.
+3. In afwijking van [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=8&z=2025-01-01&g=2025-01-01), bedraagt de arbeidsduur van de werknemer, die arbeid in nachtdienst verricht, over een periode van 13 weken berekend niet meer dan 40 uur per week.
 
 4. De werkgever deelt de arbeid zo in, dat:
 
@@ -213,23 +213,23 @@ Van het bepaalde bij of krachtens deze wet kan niet ten nadele van de werknemer 
 
 ##### Artikel 13
 
-Indien de werknemer in opdracht van de werkgever zijn werkzaamheden moet aanvangen op een tijdstip dat meer dan een uur afwijkt van de voor de werknemer geldende of gebruikelijke werktijd als aangegeven op de arbeidslijst bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=8&artikel=28&z=2022-01-01&g=2022-01-01), dan wel indien de werkgever voorziet dat de werknemer langer zal moeten werken dan de op die lijst aangeven arbeidsduur of dat van de op die lijst aangegeven tijdstippen zal moeten worden afgeweken anders dan bij wijze van overwerk, is de werkgever verplicht die opdracht tenminste twee maal 24 uren voorafgaand aan dat afwijkende tijdstip aan de werknemer kenbaar te maken.
+Indien de werknemer in opdracht van de werkgever zijn werkzaamheden moet aanvangen op een tijdstip dat meer dan een uur afwijkt van de voor de werknemer geldende of gebruikelijke werktijd als aangegeven op de arbeidslijst bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=8&artikel=28&z=2025-01-01&g=2025-01-01), dan wel indien de werkgever voorziet dat de werknemer langer zal moeten werken dan de op die lijst aangeven arbeidsduur of dat van de op die lijst aangegeven tijdstippen zal moeten worden afgeweken anders dan bij wijze van overwerk, is de werkgever verplicht die opdracht tenminste twee maal 24 uren voorafgaand aan dat afwijkende tijdstip aan de werknemer kenbaar te maken.
 
 ### Hoofdstuk 3. Overwerk
 
 ##### Artikel 14
 
-1. De arbeidsduur, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=8&z=2022-01-01&g=2022-01-01), bedraagt inclusief overwerk ten hoogste 50 uren per week, berekend over een periode van vier weken, met dien verstande dat de arbeidsduur inclusief overwerk per dag niet meer dan 11 uren bedraagt en de arbeidsduur inclusief overwerk berekend over een periode van 13 weken niet meer dan 45 uren per week bedraagt.
+1. De arbeidsduur, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=8&z=2025-01-01&g=2025-01-01), bedraagt inclusief overwerk ten hoogste 50 uren per week, berekend over een periode van vier weken, met dien verstande dat de arbeidsduur inclusief overwerk per dag niet meer dan 11 uren bedraagt en de arbeidsduur inclusief overwerk berekend over een periode van 13 weken niet meer dan 45 uren per week bedraagt.
 
-2. De arbeidsduur bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=8&z=2022-01-01&g=2022-01-01), bedraagt inclusief overwerk ten hoogste 55 uren per week, berekend over een periode van vier weken, met dien verstande dat de arbeidsduur inclusief overwerk per dag niet meer dan 11 uren bedraagt en de arbeidsduur inclusief overwerk berekend over een periode van 13 weken niet meer dan 50 uren per week bedraagt.
+2. De arbeidsduur bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=8&z=2025-01-01&g=2025-01-01), bedraagt inclusief overwerk ten hoogste 55 uren per week, berekend over een periode van vier weken, met dien verstande dat de arbeidsduur inclusief overwerk per dag niet meer dan 11 uren bedraagt en de arbeidsduur inclusief overwerk berekend over een periode van 13 weken niet meer dan 50 uren per week bedraagt.
 
-3. De arbeidsduur van de werknemer, die arbeid in nachtdienst verricht als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=12&z=2022-01-01&g=2022-01-01), bedraagt inclusief overwerk maximaal negen uren per dag, met dien verstande dat de arbeidsduur inclusief overwerk berekend over een periode van 13 weken niet meer dan 45 uren per week bedraagt.
+3. De arbeidsduur van de werknemer, die arbeid in nachtdienst verricht als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=12&z=2025-01-01&g=2025-01-01), bedraagt inclusief overwerk maximaal negen uren per dag, met dien verstande dat de arbeidsduur inclusief overwerk berekend over een periode van 13 weken niet meer dan 45 uren per week bedraagt.
 
 4. Voor de bepaling van de duur van overwerk wordt het totale aantal minuten overwerk telkens op halve uren naar boven afgerond.
 
 5. Voor de toepassing van deze wet en de daarop berustende bepalingen wordt overwerk, dat per dag minder dan 15 minuten duurt en dat geen regelmatig karakter draagt, niet als overwerk beschouwd.
 
-6. Onze Minister is, onverminderd het bepaalde in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=3&artikel=17&z=2022-01-01&g=2022-01-01), bevoegd te bepalen dat in een bepaalde onderneming, al dan niet ten aanzien van één of meerdere werknemers, overwerk, als bedoeld in het vijfde lid, als overwerk in de zin van deze wet moet worden beschouwd, indien hij oordeelt dat zulk overwerk binnen die onderneming, al dan niet ten aanzien van één of meerdere werknemers, een regelmatig karakter draagt.
+6. Onze Minister is, onverminderd het bepaalde in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=3&artikel=17&z=2025-01-01&g=2025-01-01), bevoegd te bepalen dat in een bepaalde onderneming, al dan niet ten aanzien van één of meerdere werknemers, overwerk, als bedoeld in het vijfde lid, als overwerk in de zin van deze wet moet worden beschouwd, indien hij oordeelt dat zulk overwerk binnen die onderneming, al dan niet ten aanzien van één of meerdere werknemers, een regelmatig karakter draagt.
 
 7. Bij collectieve arbeidsovereenkomst kan van het eerste, tweede en derde lid worden afgeweken.
 
@@ -239,25 +239,25 @@ Indien de werknemer in opdracht van de werkgever zijn werkzaamheden moet aanvang
 
 2. Naast de overwerktoeslag, bedoeld in het eerste lid, moet aan de werknemer die geen schemawerk verricht, bovendien een overwerktoeslag worden betaald van:
 
-- a. tenminste 25 percent van zijn uurloon, indien het overwerk wordt verricht gedurende de rusttijd als bedoeld in [artikel 9, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=9&z=2022-01-01&g=2022-01-01); dan wel
+- a. tenminste 25 percent van zijn uurloon, indien het overwerk wordt verricht gedurende de rusttijd als bedoeld in [artikel 9, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=9&z=2025-01-01&g=2025-01-01); dan wel
 
-- b. tenminste 50 percent van zijn uurloon, indien het overwerk wordt verricht op diens rustdag, bedoeld in [artikel 9, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=9&z=2022-01-01&g=2022-01-01); dan wel
+- b. tenminste 50 percent van zijn uurloon, indien het overwerk wordt verricht op diens rustdag, bedoeld in [artikel 9, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=9&z=2025-01-01&g=2025-01-01); dan wel
 
-- c. tenminste 100 percent van zijn uurloon, indien het overwerk wordt verricht op een feestdag, zulks inclusief het bepaalde in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=6&artikel=22&z=2022-01-01&g=2022-01-01).
+- c. tenminste 100 percent van zijn uurloon, indien het overwerk wordt verricht op een feestdag, zulks inclusief het bepaalde in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=6&artikel=22&z=2025-01-01&g=2025-01-01).
 
 3. Naast de overwerktoeslag, bedoeld in het eerste lid, moet aan de werknemer die schemawerk verricht, bovendien een overwerktoeslag worden betaald van:
 
-- a. tenminste 25 percent van zijn uurloon, indien het overwerk wordt verricht gedurende de rusttijd als bedoeld in [artikel 9, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=9&z=2022-01-01&g=2022-01-01); dan wel
+- a. tenminste 25 percent van zijn uurloon, indien het overwerk wordt verricht gedurende de rusttijd als bedoeld in [artikel 9, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=9&z=2025-01-01&g=2025-01-01); dan wel
 
 - b. tenminste 25 percent van zijn uurloon, indien het overwerk wordt verricht op dezelfde dag als die waarop arbeid in nachtdienst wordt verricht; dan wel
 
 - c. tenminste 50 percent van zijn uurloon, indien het overwerk plaatsvindt op de dag die volgens zijn werkrooster een rustdag is; dan wel
 
-- d. tenminste 100 percent van zijn uurloon, indien het overwerk plaatsvindt op een feestdag, zulks inclusief het bepaalde in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=6&artikel=22&z=2022-01-01&g=2022-01-01).
+- d. tenminste 100 percent van zijn uurloon, indien het overwerk plaatsvindt op een feestdag, zulks inclusief het bepaalde in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=6&artikel=22&z=2025-01-01&g=2025-01-01).
 
 4. Bij collectieve arbeidsovereenkomst kunnen lagere toeslagen dan die genoemd in het eerste, tweede en derde lid, worden overeengekomen.
 
-5. Indien het overwerk geen volle uren betreft, vindt, met inachtneming van [artikel 14, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=3&artikel=14&z=2022-01-01&g=2022-01-01), evenredige compensatie op de voet van het eerste tot en met het derde lid plaats.
+5. Indien het overwerk geen volle uren betreft, vindt, met inachtneming van [artikel 14, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=3&artikel=14&z=2025-01-01&g=2025-01-01), evenredige compensatie op de voet van het eerste tot en met het derde lid plaats.
 
 6. Bij schriftelijke overeenkomst kan worden overeengekomen dat de in dit artikel bedoelde compensatie voor overwerk geheel of gedeeltelijk in betaald verlof plaatsvindt op voet van de in het eerste tot en met het derde lid genoemde toeslagen.
 
@@ -283,31 +283,37 @@ Het is verboden kinderen, al dan niet tegen betaling en al dan niet op grond van
 
 ##### Artikel 19
 
-1. Voor de toepassing van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=4&artikel=18&z=2022-01-01&g=2022-01-01) wordt onder arbeid mede verstaan alle werkzaamheden buiten een onderneming, met uitzondering van werkzaamheden:
+1. Voor de toepassing van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=4&artikel=18&z=2025-01-01&g=2025-01-01) wordt onder arbeid mede verstaan alle werkzaamheden buiten een onderneming, met uitzondering van werkzaamheden:
 
 - a. in of ten behoeve van het gezin, waarin het kind wordt opgevoed;
 
 - b. in scholen, werkkampen en opvoedingsgestichten, mits deze werkzaamheden een opvoedkundig karakter dragen en niet in de eerste plaats gericht zijn op het behalen van een economisch voordeel.
 
-2. Bij of krachtens algemene maatregel van bestuur kan, al dan niet onder het stellen van beperkingen of voorwaarden, worden bepaald dat voor de toepassing van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=4&artikel=18&z=2022-01-01&g=2022-01-01) onder arbeid niet wordt verstaan: werkzaamheden, verricht door kinderen van twaalf jaar of ouder, die:
+2. Bij of krachtens algemene maatregel van bestuur kan, al dan niet onder het stellen van beperkingen of voorwaarden, worden bepaald dat werkzaamheden niet verboden zijn voor kinderen van 13 of 14 jaar, indien die:
 
-- a. noodzakelijk zijn voor het leren van een vak of beroep mits niet plaatsvindend voor 7.00 uur en niet na 19.00 uur;
+- a. noodzakelijk zijn voor het leren van een vak of beroep;
 
-- b. uit de aard ervan door kinderen plegen te worden verricht, mits niet plaatsvindend gedurende schooltijd en niet voor 7.00 uur en niet na 19.00 uur;
+- b. uit de aard ervan door kinderen plegen te worden verricht;
 
-- c. lichamelijk of geestelijk geen hoge eisen stellen of een gevaarlijk karakter dragen, mits niet plaatsvindend gedurende schooltijd en niet voor 7.00 uur en niet na 19.00 uur.
+- c. lichamelijk of geestelijk geen hoge eisen stellen of een gevaarlijk karakter dragen.
+
+3. De werkzaamheden, genoemd in het tweede lid, vinden niet plaats voor 7.00 uur en na 19.00 uur en wat betreft de werkzaamheden genoemd in het tweede lid, onder b en c, niet onder schooltijd.
 
 ### Hoofdstuk 5. Arbeid door jeugdigen
 
 ##### Artikel 20
 
-Het is verboden jeugdigen arbeid te laten verrichten gedurende de tijd voorafgaand aan 7.00 uur en volgend op 19.00 uur.
+Het is verboden om jeugdigen arbeid te laten verrichten in de tijd tussen:
+
+- a. 19.00 uur en 7.00 uur voor zover het gaat om een 15-jarige;
+
+- b. 23.00 uur en 6.00 uur voor zover het gaat om een 16- of 17-jarige.
 
 ##### Artikel 21
 
 1. Het is verboden jeugdigen gevaarlijke arbeid te laten verrichten.
 
-2. Bij algemene maatregel van bestuur wordt bepaald welke arbeid tenminste als gevaarlijke arbeid moet worden aangemerkt voor de toepassing van het eerste lid.
+2. Bij algemene maatregel van bestuur wordt bepaald welke arbeid tenminste als gevaarlijke arbeid moet worden aangemerkt voor de toepassing van het eerste lid. [Artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=4&artikel=19&z=2025-01-01&g=2025-01-01), is van overeenkomstige toepassing, met dien verstande dat voor kinderen wordt gelezen jeugdigen en dat de werkzaamheden, genoemd in artikel 19, tweede lid, onder a, ook werkzaamheden kunnen zijn in ruimtes waar alcohol wordt geschonken.
 
 ### Hoofdstuk 6. Feestdagen
 
@@ -359,7 +365,7 @@ Het is verboden jeugdigen arbeid te laten verrichten gedurende de tijd voorafgaa
 
 ##### Artikel 24
 
-1. In afwijking van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=8&z=2022-01-01&g=2022-01-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=3&artikel=14&z=2022-01-01&g=2022-01-01) kan Onze Minister op een daartoe strekkend verzoek bij beschikking de arbeidsduur inclusief overwerk voor een onderneming voor een bepaalde tijd vaststellen op ten hoogste 60 uren per week, berekend over een periode van vier weken, voor zover dit voor die onderneming, gezien de bijzondere omstandigheden van het geval, noodzakelijk is voor een gezonde bedrijfsvoering.
+1. In afwijking van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=8&z=2025-01-01&g=2025-01-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=3&artikel=14&z=2025-01-01&g=2025-01-01) kan Onze Minister op een daartoe strekkend verzoek bij beschikking de arbeidsduur inclusief overwerk voor een onderneming voor een bepaalde tijd vaststellen op ten hoogste 60 uren per week, berekend over een periode van vier weken, voor zover dit voor die onderneming, gezien de bijzondere omstandigheden van het geval, noodzakelijk is voor een gezonde bedrijfsvoering.
 
 2. Aan de beschikking bedoeld in het eerste lid, kunnen voorwaarden worden verbonden.
 
@@ -367,7 +373,7 @@ Het is verboden jeugdigen arbeid te laten verrichten gedurende de tijd voorafgaa
 
 ##### Artikel 25
 
-1. Op huishoudelijk werk of persoonlijke diensten, verricht in dienst van een natuurlijke persoon in de huishouding van die persoon, zijn de [artikelen 8 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=8&z=2022-01-01&g=2022-01-01) niet van toepassing, met dien verstande dat ten aanzien van de werknemer, die bedoelde arbeid verricht, geldt dat:
+1. Op huishoudelijk werk of persoonlijke diensten, verricht in dienst van een natuurlijke persoon in de huishouding van die persoon, zijn de [artikelen 8 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=8&z=2025-01-01&g=2025-01-01) niet van toepassing, met dien verstande dat ten aanzien van de werknemer, die bedoelde arbeid verricht, geldt dat:
 
 - a. de arbeidsduur per dag ten hoogste 11 uren en per week ten hoogste 55 uren bedraagt;
 
@@ -383,7 +389,7 @@ Het is verboden jeugdigen arbeid te laten verrichten gedurende de tijd voorafgaa
 
 - g. dat arbeid verricht op de rustdag of op een feestdag wordt beloond met een toeslag van 100 percent van het loon van de werknemer per gewerkt uur, waarbij afronding naar boven geschiedt op halve uren.
 
-2. De verplichtingen bedoeld in de [artikelen 28 tot en met 30](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=8&artikel=28&z=2022-01-01&g=2022-01-01), zijn niet van toepassing op de natuurlijke persoon, bedoeld in het eerste lid.
+2. De verplichtingen bedoeld in de [artikelen 28 tot en met 30](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=8&artikel=28&z=2025-01-01&g=2025-01-01), zijn niet van toepassing op de natuurlijke persoon, bedoeld in het eerste lid.
 
 ##### Artikel 26
 
@@ -391,17 +397,17 @@ Het is verboden jeugdigen arbeid te laten verrichten gedurende de tijd voorafgaa
 
 2. Ten aanzien van arbeid, verricht in een vol-continu bedrijf, geldt in afwijking van de desbetreffende bepalingen van deze wet, het volgende:
 
-- a. [Artikel 9, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=9&z=2022-01-01&g=2022-01-01), is niet van toepassing;
+- a. [Artikel 9, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=9&z=2025-01-01&g=2025-01-01), is niet van toepassing;
 
-- b. In afwijking van [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=9&z=2022-01-01&g=2022-01-01), organiseert de werkgever de arbeid zodanig dat de rustdag van de werknemer tenminste éénmaal per dertien weken op zondag valt;
+- b. In afwijking van [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=9&z=2025-01-01&g=2025-01-01), organiseert de werkgever de arbeid zodanig dat de rustdag van de werknemer tenminste éénmaal per dertien weken op zondag valt;
 
-- c. In afwijking van [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=10&z=2022-01-01&g=2022-01-01), geldt dat de werkgever de werknemer op een dag waarop deze meer dan zes uren arbeid verricht een pauze van tenminste een half uur toestaat, tenzij de dienst dat niet toelaat;
+- c. In afwijking van [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=10&z=2025-01-01&g=2025-01-01), geldt dat de werkgever de werknemer op een dag waarop deze meer dan zes uren arbeid verricht een pauze van tenminste een half uur toestaat, tenzij de dienst dat niet toelaat;
 
-- d. [Artikel 11, derde, vierde en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=11&z=2022-01-01&g=2022-01-01), is niet van toepassing;
+- d. [Artikel 11, derde, vierde en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=11&z=2025-01-01&g=2025-01-01), is niet van toepassing;
 
-- e. [Artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=12&z=2022-01-01&g=2022-01-01), is niet van toepassing;
+- e. [Artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=12&z=2025-01-01&g=2025-01-01), is niet van toepassing;
 
-- f. [Artikel 14, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=3&artikel=14&z=2022-01-01&g=2022-01-01), is niet van toepassing, met dien verstande dat de arbeidsduur inclusief overwerk per week in geen geval meer dan 60 uur bedraagt.
+- f. [Artikel 14, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=3&artikel=14&z=2025-01-01&g=2025-01-01), is niet van toepassing, met dien verstande dat de arbeidsduur inclusief overwerk per week in geen geval meer dan 60 uur bedraagt.
 
 3. Onze Minister is bevoegd ten aanzien van een bepaalde onderneming te bepalen dat de in die onderneming verrichte arbeid niet wordt beschouwd als arbeid bedoeld in het eerste lid.
 
@@ -409,7 +415,7 @@ Het is verboden jeugdigen arbeid te laten verrichten gedurende de tijd voorafgaa
 
 ##### Artikel 27
 
-Bij algemene maatregel van bestuur kunnen ten aanzien van een bepaalde bedrijfstak of ten aanzien van een bepaalde soort arbeid nadere of afwijkende regels worden gesteld ten aanzien van de [artikelen 8 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=8&z=2022-01-01&g=2022-01-01).
+Bij algemene maatregel van bestuur kunnen ten aanzien van een bepaalde bedrijfstak of ten aanzien van een bepaalde soort arbeid nadere of afwijkende regels worden gesteld ten aanzien van de [artikelen 8 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=8&z=2025-01-01&g=2025-01-01).
 
 ### Hoofdstuk 8. Administratieve bepalingen
 
@@ -417,15 +423,15 @@ Bij algemene maatregel van bestuur kunnen ten aanzien van een bepaalde bedrijfst
 
 1. In de onderneming wordt op een plaats, die vrij toegankelijk is voor de betrokken werknemers, een arbeidslijst op zodanige wijze opgehangen, dat daarvan gemakkelijk kennis kan worden genomen. De arbeidslijst geeft een systematisch overzicht van de verschillende binnen de onderneming aanwezige functies en het daarbij begrote personeelsbestand, alsmede van de binnen de onderneming gehanteerde werktijden of werkroosters en van de binnen de onderneming geldende rusttijden.
 
-2. Indien de op de arbeidslijst vermelde arbeidstijden geheel of gedeeltelijk vallen binnen de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=9&z=2022-01-01&g=2022-01-01), bedoelde rusttijd, dan wel indien de arbeidslijst geheel of gedeeltelijk betrekking heeft op werknemers, die schemawerk verrichten, zendt de werkgever onverwijld een afschrift van de arbeidlijst, alsmede bericht van iedere wijziging daarvan, toe aan Onze Minister.
+2. Indien de op de arbeidslijst vermelde arbeidstijden geheel of gedeeltelijk vallen binnen de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=9&z=2025-01-01&g=2025-01-01), bedoelde rusttijd, dan wel indien de arbeidslijst geheel of gedeeltelijk betrekking heeft op werknemers, die schemawerk verrichten, zendt de werkgever onverwijld een afschrift van de arbeidlijst, alsmede bericht van iedere wijziging daarvan, toe aan Onze Minister.
 
 3. Onze Minister is bevoegd de toepassing van de werktijden of een werkrooster, zoals opgenomen in de arbeidslijst, ten aanzien van een werknemer of een bepaalde groep werknemers in een onderneming geheel of gedeeltelijk te verbieden dan wel daaromtrent bindende aanwijzingen te geven, indien:
 
-- a. hij oordeelt, dat de aard van de onderneming, bedoeld in [artikel 2, tweede lid onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=1&artikel=2&z=2022-01-01&g=2022-01-01), arbeid gedurende de op de arbeidslijst vermelde arbeidstijden niet noodzakelijk maakt. Een en ander uitsluitend voor zover die arbeidstijden vallen binnen de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=9&z=2022-01-01&g=2022-01-01), bedoelde rusttijd; dan wel
+- a. hij oordeelt, dat de aard van de onderneming, bedoeld in [artikel 2, tweede lid onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=1&artikel=2&z=2025-01-01&g=2025-01-01), arbeid gedurende de op de arbeidslijst vermelde arbeidstijden niet noodzakelijk maakt. Een en ander uitsluitend voor zover die arbeidstijden vallen binnen de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=9&z=2025-01-01&g=2025-01-01), bedoelde rusttijd; dan wel
 
 - b. hem dat met het oog op de gezondheid of het welzijn van de betreffende werknemer of werknemers wenselijk voorkomt.
 
-4. Indien er ten behoeve van de betreffende onderneming een beschikking, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=7&artikel=24&z=2022-01-01&g=2022-01-01), is afgegeven, wordt een afschrift daarvan aan de arbeidslijst gehecht, op zodanige wijze dat daarvan door de betrokken werknemers gemakkelijk kennis kan worden genomen.
+4. Indien er ten behoeve van de betreffende onderneming een beschikking, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=7&artikel=24&z=2025-01-01&g=2025-01-01), is afgegeven, wordt een afschrift daarvan aan de arbeidslijst gehecht, op zodanige wijze dat daarvan door de betrokken werknemers gemakkelijk kennis kan worden genomen.
 
 5. Bij algemene maatregel van bestuur kunnen nadere regels gesteld worden waaraan de arbeidslijst dient te voldoen.
 
@@ -491,7 +497,7 @@ Een ieder die betrokken is bij de uitvoering van deze wet en daarbij de beschikk
 
 ##### Artikel 36
 
-1. Hij, die opzettelijk de [artikelen 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=8&z=2022-01-01&g=2022-01-01), [9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=9&z=2022-01-01&g=2022-01-01), [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=10&z=2022-01-01&g=2022-01-01), [11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=11&z=2022-01-01&g=2022-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=4&artikel=18&z=2022-01-01&g=2022-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=5&artikel=20&z=2022-01-01&g=2022-01-01) of [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=5&artikel=21&z=2022-01-01&g=2022-01-01), overtreedt, wordt gestraft met een gevangenisstraf van ten hoogste vier jaren, een geldboete van de vijfde categorie of met beide straffen.
+1. Hij, die opzettelijk de [artikelen 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=8&z=2025-01-01&g=2025-01-01), [9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=9&z=2025-01-01&g=2025-01-01), [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=10&z=2025-01-01&g=2025-01-01), [11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=2&artikel=11&z=2025-01-01&g=2025-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=4&artikel=18&z=2025-01-01&g=2025-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=5&artikel=20&z=2025-01-01&g=2025-01-01) of [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028202&hoofdstuk=5&artikel=21&z=2025-01-01&g=2025-01-01), overtreedt, wordt gestraft met een gevangenisstraf van ten hoogste vier jaren, een geldboete van de vijfde categorie of met beide straffen.
 
 2. Hij, die een voorschrift, verplichting of voorwaarde, bij of krachtens deze wet gesteld, niet of niet volledig naleeft, wordt gestraft met hechtenis van ten hoogste een jaar, een geldboete van de vierde categorie of met beide straffen.
 
