@@ -4,7 +4,7 @@ identifier: "BWBR0036478"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-21"
-last_updated: "2017-07-13"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036478"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3.1
 
-De minimale universele verkeersveiligheidsinformatiedienst, bedoeld in artikel 2, onderdeel l, van gedelegeerde verordening (EU) 886/2013, met inachtneming van de in die verordening gestelde eisen, is van toepassing op de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&bijlage=1&z=2017-07-13&g=2017-07-13) vastgestelde wegvakken.
+De minimale universele verkeersveiligheidsinformatiedienst, bedoeld in artikel 2, onderdeel l, van gedelegeerde verordening (EU) 886/2013, met inachtneming van de in die verordening gestelde eisen, is van toepassing op de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&bijlage=1&z=2025-02-14&g=2025-01-01) vastgestelde wegvakken.
 
 ##### Artikel 3.2
 
@@ -68,7 +68,7 @@ De Nationale Databank Wegverkeersgegevens is belast met het beheer van het natio
 
 ##### Artikel 4.1
 
-De informatiediensten over veilige en beveiligde parkeerplaatsen, bedoeld in artikel 3, eerste lid, van gedelegeerde verordening (EU) 885/2013, met inachtneming van de in die verordening gestelde eisen, zijn van toepassing in de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&bijlage=2&z=2017-07-13&g=2017-07-13) vastgestelde zones.
+De informatiediensten over veilige en beveiligde parkeerplaatsen, bedoeld in artikel 3, eerste lid, van gedelegeerde verordening (EU) 885/2013, met inachtneming van de in die verordening gestelde eisen, zijn van toepassing in de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&bijlage=2&z=2025-02-14&g=2025-01-01) vastgestelde zones.
 
 ##### Artikel 4.2
 
@@ -126,7 +126,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2.1
 
-Gedelegeerde verordening (EU) 2015/962 is van toepassing op de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&bijlage=1&z=2017-07-13&g=2017-07-13) vastgestelde wegvakken.
+Gedelegeerde verordening (EU) 2015/962 is van toepassing op de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&bijlage=1&z=2025-02-14&g=2025-01-01) vastgestelde wegvakken.
 
 ##### Artikel 2.2
 
@@ -138,13 +138,13 @@ De Nationale Databank Wegverkeersgegevens is het nationaal toegangspunt, bedoeld
 
 #### § 5. Slotbepalingen
 
-## Bijlage 1. behorende bij de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&paragraaf=2&artikel=2.1&z=2017-07-13&g=2017-07-13) en [3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&paragraaf=3&artikel=3.1&z=2017-07-13&g=2017-07-13) van de ITS-regeling
+## Bijlage 1. behorende bij de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&paragraaf=2&artikel=2.1&z=2025-02-14&g=2025-01-01) en [3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&paragraaf=3&artikel=3.1&z=2025-02-14&g=2025-01-01) van de ITS-regeling
 
-De in de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&paragraaf=2&artikel=2.1&z=2017-07-13&g=2017-07-13) en [3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&paragraaf=3&artikel=3.1&z=2017-07-13&g=2017-07-13) bedoelde wegvakken zijn de hoofdwegen in het beheer van Rijkswaterstaat, aangeduid in de hierna opgenomen kaart.
+De in de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&paragraaf=2&artikel=2.1&z=2025-02-14&g=2025-01-01) en [3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&paragraaf=3&artikel=3.1&z=2025-02-14&g=2025-01-01) bedoelde wegvakken zijn de hoofdwegen in het beheer van Rijkswaterstaat, aangeduid in de hierna opgenomen kaart.
 
-## Bijlage 2. behorende bij [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&paragraaf=4&artikel=4.1&z=2017-07-13&g=2017-07-13) van de ITS-Regeling
+## Bijlage 2. behorende bij [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&paragraaf=4&artikel=4.1&z=2025-02-14&g=2025-01-01) van de ITS-Regeling
 
-De in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&paragraaf=4&artikel=4.1&z=2017-07-13&g=2017-07-13) bedoelde zones zijn vijf kilometer breed, gemeten in een rechte lijn, vanaf de volgende hoofdwegen en weergegeven in de volgende kaart:
+De in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&paragraaf=4&artikel=4.1&z=2025-02-14&g=2025-01-01) bedoelde zones zijn vijf kilometer breed, gemeten in een rechte lijn, vanaf de volgende hoofdwegen en weergegeven in de volgende kaart:
 
 - •. A1 Amsterdam-Oldenzaal
 
