@@ -4,7 +4,7 @@ identifier: "BWBV0006700"
 country: "nl"
 rank: "verdrag"
 publication_date: "2025-03-27"
-last_updated: "2024-07-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006700"
 soort: "verdrag"
@@ -162,7 +162,7 @@ Gelet op [artikel 22.4](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=
 
 ##### Artikel 5. Uitzonderlijke levering van postale financiële diensten door toegelaten spelers in de postale sector in brede zin
 
-1. Onverminderd de mogelijkheid tot uitbesteding zoals omschreven in artikel 6.4, hebben lidstaten: i. waarin het gehele scala van postale financiële diensten zoals omschreven in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006700&deel=I&hoofdstuk=I&artikel=1&z=2024-07-01&g=2024-07-01) niet wordt geleverd door hun aangewezen aanbieder(s); of ii. die geconfronteerd worden met de situatie van in gebreke blijven zoals bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006700&deel=I&hoofdstuk=I&artikel=4&z=2024-07-01&g=2024-07-01), de mogelijkheid toe te staan dat spelers in de postale sector in brede zin (wider postal sector players, hierna „WPSP's), via aangewezen aanbieders, deelnemen aan de interconnectie en/of uitvoering van de postale financiële diensten, met als doel het bevorderen van financiële inclusie en het verder mogelijk maken van de interoperabiliteit van een internationaal netwerk van postale financiële diensten.
+1. Onverminderd de mogelijkheid tot uitbesteding zoals omschreven in artikel 6.4, hebben lidstaten: i. waarin het gehele scala van postale financiële diensten zoals omschreven in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006700&deel=I&hoofdstuk=I&artikel=1&z=2025-01-01&g=2025-01-01) niet wordt geleverd door hun aangewezen aanbieder(s); of ii. die geconfronteerd worden met de situatie van in gebreke blijven zoals bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006700&deel=I&hoofdstuk=I&artikel=4&z=2025-01-01&g=2025-01-01), de mogelijkheid toe te staan dat spelers in de postale sector in brede zin (wider postal sector players, hierna „WPSP's), via aangewezen aanbieders, deelnemen aan de interconnectie en/of uitvoering van de postale financiële diensten, met als doel het bevorderen van financiële inclusie en het verder mogelijk maken van de interoperabiliteit van een internationaal netwerk van postale financiële diensten.
 
 - 1.1. Lidstaten waarborgen dat zij bij het verlenen van toestemming voor het aanbieden van postale financiële diensten door WPSP's van de WPSP's verlangen dat zij voldoen aan de relevante bepalingen van dit Verdrag die betrekking hebben op postale financiële diensten en waarborgen dat bij deze toestemming van de WPSP's verlangd wordt dat zij voldoen aan alle relevante voorwaarden van de Unie voor vergunningsregelingen voor het opereren onder het collectief merk PosTransfer.
 
@@ -170,7 +170,7 @@ Gelet op [artikel 22.4](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=
 
 - 1.3. Het Internationaal Bureau is verantwoordelijk voor het opstellen van de lijst van lidstaten waarin WPSP's mogen opereren, alsmede de lijst van toegelaten WPSP's. De lijst wordt regelmatig door het Internationaal Bureau bijgewerkt en per circulaire aan alle lidstaten medegedeeld.
 
-2. Voor de benutting van de in het eerste lid genoemde mogelijkheid gelden de voorwaarden van de nationale wetgeving of het binnenlands beleid van de lidstaat waar de WPSP is gevestigd. Dienaangaande en onverminderd de verplichtingen inzake aanwijzing als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006700&deel=I&hoofdstuk=I&artikel=3&z=2024-07-01&g=2024-07-01), waarborgen de aangewezen aanbieders dat zij aan hun verplichtingen uit hoofde van het Verdrag inzake postale financiële diensten blijven voldoen.
+2. Voor de benutting van de in het eerste lid genoemde mogelijkheid gelden de voorwaarden van de nationale wetgeving of het binnenlands beleid van de lidstaat waar de WPSP is gevestigd. Dienaangaande en onverminderd de verplichtingen inzake aanwijzing als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006700&deel=I&hoofdstuk=I&artikel=3&z=2025-01-01&g=2025-01-01), waarborgen de aangewezen aanbieders dat zij aan hun verplichtingen uit hoofde van het Verdrag inzake postale financiële diensten blijven voldoen.
 
 - 2.1. Met inachtneming van de bovenbedoelde criteria, wordt een vergunningsaanvraag met betrekking tot een WPSP gericht aan de lidstaat waar de WPSP van plan is activiteiten te ontplooien die betrekking hebben op de interconnectie of uitvoering van postale financiële diensten. In dit opzicht kan een WPSP werkzaam zijn in diverse lidstaten mits hij daarvoor in aanmerking komt en daarvoor toestemming heeft gekregen van de overheidsautoriteit van de desbetreffende lidstaat.
 
@@ -308,13 +308,17 @@ Vervallen
 
 2. De Postraad formuleert en actualiseert de doelstellingen, onderdelen en normen inzake de kwaliteit van de dienstverlening voor elektronisch verzonden postale betaalopdrachten.
 
-3. In overeenstemming met de relevante bepalingen in de Regeling, moeten de aangewezen aanbieders (en de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006700&deel=I&hoofdstuk=I&artikel=5&z=2024-07-01&g=2024-07-01) bedoelde spelers) een minimum aantal elementen en normen hanteren voor de kwaliteit van de dienstverlening voor elektronisch verzonden postale betaalopdrachten.
+3. In overeenstemming met de relevante bepalingen in de Regeling, moeten de aangewezen aanbieders (en de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006700&deel=I&hoofdstuk=I&artikel=5&z=2025-01-01&g=2025-01-01) bedoelde spelers) een minimum aantal elementen en normen hanteren voor de kwaliteit van de dienstverlening voor elektronisch verzonden postale betaalopdrachten.
 
 ##### Artikel 13. Interoperabiliteit
 
 1. Netwerken
 
-- 1.1. Ter waarborging van de uitwisseling van de benodigde gegevens voor de uitvoering van de postale financiële diensten tussen alle aangewezen aanbieders en van het toezicht op de kwaliteit van de dienstverlening, gebruiken de aangewezen aanbieders het systeem voor geautomatiseerde gegevensuitwisseling (EDI) van de Unie of elk ander systeem waarmee de interoperabiliteit van de postale financiële diensten overeenkomstig dit Verdrag kan worden gewaarborgd.
+- 1.1. Ter waarborging van de uitwisseling van de benodigde gegevens voor de uitvoering van de elektronische postale financiële diensten alsmede voor het zorgen voor de gewenste rapportages en het toezicht op de kwaliteit van de dienstverlening door de Unie, gebruiken de aangewezen aanbieders de systemen of netwerken die verbonden zijn aan het systeem voor geautomatiseerde gegevensuitwisseling (EDI) van de Unie waarmee de interoperabiliteit van de postale financiële diensten overeenkomstig dit Verdrag kan worden gewaarborgd.
+
+- 1.2. Onverminderd het bepaalde in punt 1.1 kan de Unie ook een gecentraliseerd platform (en bijbehorende gecentraliseerde databank) ontwikkelen en ter beschikking stellen van aangewezen aanbieders en toegelaten spelers in de postale sector in uitgebreide zin (als bedoeld in artikel 5) om onderlinge verbinding mogelijk te maken tussen postale financiële diensten en andere financiële of betaaldiensten die niet onder dit Verdrag vallen, op basis van open en interoperabele normen en met inachtneming van alle relevante technische en operationele parameters (waaronder, maar niet beperkt tot, de in artikel 8 genoemde vereisten) die op aanvullende wijze door de Unie zijn vastgesteld.
+
+- 1.2.1. Het gebruik van voornoemd gecentraliseerd platform voor het bijzondere doel van onderlinge verbinding met andere financiële of betaaldiensten die niet onder dit Verdrag vallen (in het bijzonder alle daarmee verband houdende overmakings- of betaalmodaliteiten) valt uitsluitend onder de verantwoordelijkheid van de aangewezen aanbieder en toegelaten spelers in de postale sector in uitgebreide zin. In dit verband is de Unie niet aansprakelijk voor de werking van diensten die niet onder dit Verdrag vallen en waarvan de reikwijdte buiten het toepassingsgebied van de onderlinge verbinding van de in dit Verdrag genoemde postale financiële diensten blijft.
 
 ##### Artikel 14. Beveiliging van de elektronische uitwisselingen
 
@@ -498,7 +502,7 @@ Bij de ondertekening van het heden gesloten Verdrag inzake postale financiële d
 
 ##### Artikel I. Reikwijdte van het Verdrag
 
-Niettegenstaande [artikel1](https://wetten.overheid.nl/jci1.3:c:BWBV0006700&deel=I&hoofdstuk=I&artikel=1&z=2024-07-01&g=2024-07-01) behoudt Vietnam zich het recht voor de verrekenpostwisseldienst op zijn grondgebied aan te bieden.
+Niettegenstaande [artikel1](https://wetten.overheid.nl/jci1.3:c:BWBV0006700&deel=I&hoofdstuk=I&artikel=1&z=2025-01-01&g=2025-01-01) behoudt Vietnam zich het recht voor de verrekenpostwisseldienst op zijn grondgebied aan te bieden.
 
 IN WITNESS WHEREOF, the plenipotentiaries of the governments of the contracting countries have signed this Agreement in a single original which shall be deposited with the Director General of the International Bureau.
 
@@ -528,7 +532,7 @@ Bij de ondertekening van het heden gesloten Verdrag inzake postale financiële d
 
 ##### Artikel II. Operationele bevoegdheden
 
-1. Onder verwijzing naar [artikel 6.4](https://wetten.overheid.nl/jci1.3:c:BWBV0006700&deel=I&hoofdstuk=I&artikel=6&z=2024-07-01&g=2024-07-01) en voor de toepassing van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006700&deel=I&hoofdstuk=I&artikel=3&z=2024-07-01&g=2024-07-01) en [4 van het Verdrag inzake postale financiële diensten](https://wetten.overheid.nl/jci1.3:c:BWBV0006700&deel=I&hoofdstuk=I&artikel=4&z=2024-07-01&g=2024-07-01), start elke door Frankrijk aangewezen aanbieder uitsluitend postale financiële diensten met aanbieders van de lidstaten die het Verdrag hebben ondertekend.
+1. Onder verwijzing naar [artikel 6.4](https://wetten.overheid.nl/jci1.3:c:BWBV0006700&deel=I&hoofdstuk=I&artikel=6&z=2025-01-01&g=2025-01-01) en voor de toepassing van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006700&deel=I&hoofdstuk=I&artikel=3&z=2025-01-01&g=2025-01-01) en [4 van het Verdrag inzake postale financiële diensten](https://wetten.overheid.nl/jci1.3:c:BWBV0006700&deel=I&hoofdstuk=I&artikel=4&z=2025-01-01&g=2025-01-01), start elke door Frankrijk aangewezen aanbieder uitsluitend postale financiële diensten met aanbieders van de lidstaten die het Verdrag hebben ondertekend.
 
 2. In gevallen waarin een van deze aanbieders geen aangewezen aanbieder is, kan deze uitsluitend betaalopdrachten uitvoeren die van de Franse aangewezen aanbieder zijn ontvangen. Voor het sluiten van een uitwisselingsovereenkomst met een Franse aangewezen aanbieder dient deze aanbieder eerst een afschrift te overleggen van zijn verklaring van deelname aan de exclusieve uitvoering van postale financiële diensten afgelegd tegenover de bevoegde autoriteiten van de betrokken lidstaat, die deze verklaring naar eigen goeddunken van een toelating kunnen voorzien.
 
