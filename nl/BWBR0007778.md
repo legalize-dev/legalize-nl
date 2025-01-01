@@ -4,7 +4,7 @@ identifier: "BWBR0007778"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2011-07-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007778"
 soort: "ministeriele-regeling"
@@ -45,7 +45,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-Het Fondsenreglement van Euronext Amsterdam N.V. geeft, tezamen met deze regeling, uitvoering aan [richtlijn nr. 2001/34/EG](32001L0034).
+Het Euronext Rule book I en het Rule book II van Euronext Amsterdam N.V. geeft, tezamen met deze regeling, uitvoering aan [richtlijn nr. 2001/34/EG](32001L0034).
 
 ##### Artikel 3
 
@@ -61,13 +61,11 @@ Overeenkomstig artikel 106 van [richtlijn nr. 2001/34/EG](32001L0034), brengt Eu
 
 ##### Artikel 6
 
-De regels die de Autoriteit Financiële Markten krachtens het besluit heeft gesteld, geven, voor zover zulks nog niet is geschied bij het besluit, uitvoering aan de richtlijn beleggingsdiensten.
+Vervallen
 
 ##### Artikel 7
 
-1. De Autoriteit Financiële Markten wordt aangewezen als de bevoegde autoriteit, bedoeld in artikel 22, eerste lid, van de verordening ratingbureaus.
-
-2. Deze regeling berust mede op [artikel 5:89, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:89).
+Vervallen
 
 ##### Artikel 8
 
