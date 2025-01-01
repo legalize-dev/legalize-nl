@@ -4,7 +4,7 @@ identifier: "BWBR0003362"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2023-05-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003362"
 soort: "wet"
@@ -93,7 +93,7 @@ Vervallen
 
 ##### Artikel 10
 
-De rechter die met de uitvoering van de rogatoire commissie is belast kan, indien hij zulks voor een goede uitvoering nodig oordeelt, de stukken door een beëdigd vertaler in het Nederlands doen vertalen. Hij kan daartoe de tussenkomst van de centrale autoriteit verzoeken. De kosten van de vertaling zijn kosten als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0003362&hoofdstuk=II&artikel=13&z=2023-05-01&g=2023-05-01).
+De rechter die met de uitvoering van de rogatoire commissie is belast kan, indien hij zulks voor een goede uitvoering nodig oordeelt, de stukken door een beëdigd vertaler in het Nederlands doen vertalen. Hij kan daartoe de tussenkomst van de centrale autoriteit verzoeken. De kosten van de vertaling zijn kosten als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0003362&hoofdstuk=II&artikel=13&z=2025-01-01&g=2025-01-01).
 
 ##### Artikel 11
 
@@ -161,7 +161,7 @@ De rechter die de rogatoire commissie heeft uitgevoerd zendt het proces-verbaal 
 
 1. Omtrent de vergoedingen en kosten waarvan door de betrokken aangezochte Staat terugbetaling wordt verzocht, wordt door de rechter overeenkomstig de [artikelen 237](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=237) en [289 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=289) uitspraak gedaan, voorzover deze artikelen daarvoor een vergoeding plegen in te sluiten.
 
-2. De griffier betaalt de in het voorgaande lid bedoelde kosten en vergoedingen aan de centrale autoriteit van die aangezochte Staat en brengt deze, voorzover zij in een veroordeling in de proceskosten plegen te worden begrepen, in rekening bij de eiser of verzoeker, tenzij de rechter daartoe in verband met de omstandigheden van het geding de verweerder, de eiser en verweerder gezamenlijk, een of meer andere belanghebbenden of dezen met de verzoeker gezamenlijk heeft aangewezen. Met betrekking tot de terugbetaling van de vergoeding voor deskundigen zijn de derde tot en met vijfde volzin van [artikel 195 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=195) van overeenkomstige toepassing. In de in deze zinnen bedoelde gevallen zijn de [artikelen 199, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=199), en [244, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=244) van overeenkomstige toepassing.
+2. De griffier betaalt de in het voorgaande lid bedoelde kosten en vergoedingen aan de centrale autoriteit van die aangezochte Staat en brengt deze, voorzover zij in een veroordeling in de proceskosten plegen te worden begrepen, in rekening bij de eiser of verzoeker, tenzij de rechter daartoe in verband met de omstandigheden van het geding de verweerder, de eiser en verweerder gezamenlijk, een of meer andere belanghebbenden of dezen met de verzoeker gezamenlijk heeft aangewezen. Met betrekking tot de terugbetaling van de vergoeding voor deskundigen zijn de derde tot en met vijfde volzin van [artikel 187 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=187) van overeenkomstige toepassing. In de in deze zinnen bedoelde gevallen zijn de [artikelen 191, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=191), en [244, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=244) van overeenkomstige toepassing.
 
 ##### Artikel 19
 
