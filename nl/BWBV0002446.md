@@ -4,7 +4,7 @@ identifier: "BWBV0002446"
 country: "nl"
 rank: "verdrag"
 publication_date: "2025-01-01"
-last_updated: "2022-07-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0002446"
 soort: "verdrag"
@@ -69,7 +69,7 @@ Overwegende dat de Beschikking van de Commissie nr. 129 met datum 9 december 201
 
 Overwegende dat de Organisatie een recht op verhaal heeft op de Nationale Overeenkomstsluitende Partijen in het geval een beroep wordt gedaan op de aansprakelijkheid van de Organisatie volgens [artikel 25, lid 2 van het gewijzigd Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004802&artikel=25) als direct gevolg van deze beslissingen en maatregelen,
 
-Overwegende dat overeenkomstig [artikel 4, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&artikel=4&z=2022-07-01&g=2022-07-01) van deze Overeenkomst de Directeur van het Centrum Maastricht het dagelijks beheer in verband met de exploitatie van de luchtverkeersdiensten, inclusief sociale dialoog, zal garanderen, en
+Overwegende dat overeenkomstig [artikel 4, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&artikel=4&z=2025-01-01&g=2025-01-01) van deze Overeenkomst de Directeur van het Centrum Maastricht het dagelijks beheer in verband met de exploitatie van de luchtverkeersdiensten, inclusief sociale dialoog, zal garanderen, en
 
 Met dien verstande dat de sociale dialoog de discussies met de vakbonden en het Personeelscomité inhoudt met betrekking tot de arbeidsvoorwaarden voor personeel dat werkzaam is bij het Centrum Maastricht, maar niet de uiteindelijke goedkeuring van deze voorwaarden,
 
@@ -83,9 +83,9 @@ Zijn overeengekomen als volgt:
 
 ##### Artikel 2
 
-1. De Organisatie stelt de installaties ter beschikking en exploiteert de diensten voor het in [artikel 3, lid 3, van het gewijzigd Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004802&artikel=3) gedefinieerde en-route luchtverkeer voor het luchtruim waarvan de grenzen in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&bijlage=I&z=2022-07-01&g=2022-07-01) bij deze Overeenkomst omschreven zijn.
+1. De Organisatie stelt de installaties ter beschikking en exploiteert de diensten voor het in [artikel 3, lid 3, van het gewijzigd Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004802&artikel=3) gedefinieerde en-route luchtverkeer voor het luchtruim waarvan de grenzen in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&bijlage=I&z=2025-01-01&g=2025-01-01) bij deze Overeenkomst omschreven zijn.
 
-2. Om de terbeschikkingstelling en exploitatie van installaties en diensten voor het en-route luchtverkeer overeenkomstig [artikel 1, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&artikel=1&z=2022-07-01&g=2022-07-01) van deze Overeenkomst mogelijk te maken, of de verlening van andere specifieke diensten door het Centrum Maastricht mogelijk te maken, kan de Organisatie, bij beschikking van de Commissie en op verzoek van en in samenwerking met de Nationale Overeenkomstsluitende Partijen ondernemingen, waarvan de statuten ofwel door het internationaal publiekrecht ofwel de nationale wetgeving van een Lidstaat van de Organisatie beheerst worden, creëren, opheffen of een meerderheidsaandeel in deze ondernemingen verwerven.
+2. Om de terbeschikkingstelling en exploitatie van installaties en diensten voor het en-route luchtverkeer overeenkomstig [artikel 1, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&artikel=1&z=2025-01-01&g=2025-01-01) van deze Overeenkomst mogelijk te maken, of de verlening van andere specifieke diensten door het Centrum Maastricht mogelijk te maken, kan de Organisatie, bij beschikking van de Commissie en op verzoek van en in samenwerking met de Nationale Overeenkomstsluitende Partijen ondernemingen, waarvan de statuten ofwel door het internationaal publiekrecht ofwel de nationale wetgeving van een Lidstaat van de Organisatie beheerst worden, creëren, opheffen of een meerderheidsaandeel in deze ondernemingen verwerven.
 
 3. De Nationale Overeenkomstsluitende Partijen nemen binnen de grenzen van hun bevoegdheid alle maatregelen die nodig zijn om de Organisatie in staat te stellen haar verantwoordelijkheden in het kader van deze Overeenkomst te dragen, in het bijzonder wat betreft de toewijzing van radiofrequenties.
 
@@ -97,15 +97,15 @@ De Organisatie zal, teneinde de veiligheid, doeltreffendheid en een snel verloop
 
 - b). in overeenstemming met de Nationale Overeenkomstsluitende Partijen een zo groot mogelijke compatibiliteit tussen de diensten die enerzijds door het Centrum Maastricht en anderzijds door de Nationale Overeenkomstsluitende Partijen in het onder hun gezag vallend luchtruim verleend worden garanderen;
 
-- c). met de Nationale Overeenkomstsluitende Partijen de wijze overeenkomen waarop de in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&bijlage=II&z=2022-07-01&g=2022-07-01) van deze Overeenkomst bedoelde installaties geëxploiteerd zullen worden.
+- c). met de Nationale Overeenkomstsluitende Partijen de wijze overeenkomen waarop de in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&bijlage=II&z=2025-01-01&g=2025-01-01) van deze Overeenkomst bedoelde installaties geëxploiteerd zullen worden.
 
 ##### Artikel 4
 
-1. De Directeur van het Centrum Maastricht stelt de maatregelen met een operationeel, technisch of financieel karakter, of met betrekking tot de begroting vast, evenals de overeenkomstige begrotingsmiddelen conform het gestelde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&artikel=6&z=2022-07-01&g=2022-07-01) van deze Overeenkomst.
+1. De Directeur van het Centrum Maastricht stelt de maatregelen met een operationeel, technisch of financieel karakter, of met betrekking tot de begroting vast, evenals de overeenkomstige begrotingsmiddelen conform het gestelde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&artikel=6&z=2025-01-01&g=2025-01-01) van deze Overeenkomst.
 
 2. De Directeur van het Centrum Maastricht verzorgt het dagelijks beheer in verband met de exploitatie van de luchtverkeersdiensten, met inbegrip van het personeel, de sociale dialoog met betrekking tot de arbeidsvoorwaarden voor personeelsleden tewerkgesteld in het Centrum Maastricht en het materieel. Hiertoe zal de Directeur van het Centrum Maastricht:
 
-- a). zich houden aan de interne voorschriften en aan de personeelsstatuten van de Organisatie, alsmede aan elk door het Maastricht Besluitvormingsorgaan of de Commissie overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&artikel=3&z=2022-07-01&g=2022-07-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&artikel=6&z=2022-07-01&g=2022-07-01) van deze Overeenkomst genomen besluit;
+- a). zich houden aan de interne voorschriften en aan de personeelsstatuten van de Organisatie, alsmede aan elk door het Maastricht Besluitvormingsorgaan of de Commissie overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&artikel=3&z=2025-01-01&g=2025-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&artikel=6&z=2025-01-01&g=2025-01-01) van deze Overeenkomst genomen besluit;
 
 - b). op het operationele en technische vlak zorgen voor een nauwe raadpleging van en coördinatie met de verleners van de luchtverkeersdiensten van de Nationale Overeenkomstsluitende Partijen en andere relevante belanghebbenden.
 
@@ -147,11 +147,11 @@ De Organisatie zal, teneinde de veiligheid, doeltreffendheid en een snel verloop
 
 - e). de benoeming van de Directeur van het Centrum Maastricht goedkeuren;
 
-- f). de nodige maatregelen treffen bij de uitoefening van zijn taak om toezicht uit te oefenen op het uitvoeren van de taken die worden genoemd in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&artikel=3&z=2022-07-01&g=2022-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&artikel=4&z=2022-07-01&g=2022-07-01) van deze Overeenkomst;
+- f). de nodige maatregelen treffen bij de uitoefening van zijn taak om toezicht uit te oefenen op het uitvoeren van de taken die worden genoemd in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&artikel=3&z=2025-01-01&g=2025-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&artikel=4&z=2025-01-01&g=2025-01-01) van deze Overeenkomst;
 
 - g). de Directeur van het Centrum Maastricht kwijting verlenen betreffende het beheer van de begroting van het Centrum Maastricht.
 
-2. Voor alle andere maatregelen met betrekking tot het Centrum Maastricht zijn de bepalingen van het gewijzigd [Verdrag](onbekend) en die in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0004802&bijlage=1) daarvan, met uitzondering van het bepaalde in [artikel 7, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&artikel=7&z=2022-07-01&g=2022-07-01), 2e, 3e en 4e zin, inzake de procedures voor het nemen van maatregelen ten aanzien van de in [artikel 2, lid 1 van het gewijzigd Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004802&artikel=2) opgesomde taken naar analogie van toepassing. De bij eenvoudige of gewogen meerderheid te stellen handelingen vereisen twee derde van de uitgebrachte stemmen, onder voorbehoud van de eenparige voor het voorstel uitgebrachte stem van de Nationale Overeenkomstsluitende Partijen.
+2. Voor alle andere maatregelen met betrekking tot het Centrum Maastricht zijn de bepalingen van het gewijzigd [Verdrag](onbekend) en die in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0004802&bijlage=1) daarvan, met uitzondering van het bepaalde in [artikel 7, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&artikel=7&z=2025-01-01&g=2025-01-01), 2e, 3e en 4e zin, inzake de procedures voor het nemen van maatregelen ten aanzien van de in [artikel 2, lid 1 van het gewijzigd Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004802&artikel=2) opgesomde taken naar analogie van toepassing. De bij eenvoudige of gewogen meerderheid te stellen handelingen vereisen twee derde van de uitgebrachte stemmen, onder voorbehoud van de eenparige voor het voorstel uitgebrachte stem van de Nationale Overeenkomstsluitende Partijen.
 
 3. De Nationale Overeenkomstsluitende Partijen dragen de verantwoordelijkheid voor de gevolgen op Deel I van de begroting van de Organisatie van de beslissingen van het Maastricht Besluitvormingsorgaan op basis van de maatregelen en richtlijnen die genomen worden overeenkomstig lid 1 van dit artikel. De Organisatie zal alle redelijke maatregelen treffen om de impact van deze verantwoordelijkheid op de begroting voor de Nationale Overeenkomstsluitende Partijen te beperken.
 
@@ -159,9 +159,9 @@ De Organisatie zal, teneinde de veiligheid, doeltreffendheid en een snel verloop
 
 1. De investeringen in verband met de installaties van het Centrum Maastricht die vereist zijn voor de uitvoering van de krachtens deze Overeenkomst aan de Organisatie opgedragen taken, worden verricht door de Organisatie.
 
-2. In het geval de Organisatie een onderneming creëert volgens [artikel 2, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&artikel=2&z=2022-07-01&g=2022-07-01) van deze Overeenkomst kan het eigendom van de gebouwen, uitrusting en installaties van het Centrum Maastricht worden overgedragen aan deze onderneming.
+2. In het geval de Organisatie een onderneming creëert volgens [artikel 2, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&artikel=2&z=2025-01-01&g=2025-01-01) van deze Overeenkomst kan het eigendom van de gebouwen, uitrusting en installaties van het Centrum Maastricht worden overgedragen aan deze onderneming.
 
-3. Volgens [artikel 6, lid 1 (b)](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&artikel=6&z=2022-07-01&g=2022-07-01) van deze Overeenkomst, en onverminderd de residuaire beslissingsbevoegdheid van de Permanente Commissie, zullen de Nationale Overeenkomstsluitende Partijen beslissingen nemen met betrekking tot de goedkeuring van de investeringsplannen. De gerelateerde kapitaalkosten voor deze investeringen worden gefinancierd door een Bijzondere bijlage bij de begroting van de Organisatie. De regels voor de financiering zijn opgenomen in Deel I van het als Bijlage III bij deze Overeenkomst gevoegde Financieel Protocol.
+3. Volgens [artikel 6, lid 1 (b)](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&artikel=6&z=2025-01-01&g=2025-01-01) van deze Overeenkomst, en onverminderd de residuaire beslissingsbevoegdheid van de Permanente Commissie, zullen de Nationale Overeenkomstsluitende Partijen beslissingen nemen met betrekking tot de goedkeuring van de investeringsplannen. De gerelateerde kapitaalkosten voor deze investeringen worden gefinancierd door een Bijzondere bijlage bij de begroting van de Organisatie. De regels voor de financiering zijn opgenomen in Deel I van het als Bijlage III bij deze Overeenkomst gevoegde Financieel Protocol.
 
 ##### Artikel 8
 
@@ -175,7 +175,7 @@ Op het in het Centrum Maastricht tewerkgesteld EUROCONTROL-personeel zijn de bep
 
 ##### Artikel 10
 
-1. In het geval van een verzoek van een of meerdere Nationale Overeenkomstsluitende Partijen, kan de Organisatie via het Centrum Maastricht ondersteuning geven met betrekking tot de verlening van luchtverkeersdiensten. In het geval van een storing kan de Organisatie op verzoek van een of meerdere Nationale Overeenkomstsluitende Partijen luchtverkeersdiensten verlenen in het luchtruim van de Nationale Overeenkomstsluitende Partij of Partijen buiten de limieten die in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&bijlage=I&z=2022-07-01&g=2022-07-01) bij deze Overeenkomst worden beschreven. Vergelijkbaar kunnen de Nationale Overeenkomstsluitende Partijen op verzoek van de Organisatie luchtverkeersdiensten verlenen in het luchtruim dat wordt afgebakend in Bijlage I bij deze Overeenkomst.
+1. In het geval van een verzoek van een of meerdere Nationale Overeenkomstsluitende Partijen, kan de Organisatie via het Centrum Maastricht ondersteuning geven met betrekking tot de verlening van luchtverkeersdiensten. In het geval van een storing kan de Organisatie op verzoek van een of meerdere Nationale Overeenkomstsluitende Partijen luchtverkeersdiensten verlenen in het luchtruim van de Nationale Overeenkomstsluitende Partij of Partijen buiten de limieten die in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&bijlage=I&z=2025-01-01&g=2025-01-01) bij deze Overeenkomst worden beschreven. Vergelijkbaar kunnen de Nationale Overeenkomstsluitende Partijen op verzoek van de Organisatie luchtverkeersdiensten verlenen in het luchtruim dat wordt afgebakend in Bijlage I bij deze Overeenkomst.
 
 2. De verlening van deze diensten zal worden voorafgegaan door een uitwisseling van brieven tussen de Directeur-Generaal van het Agentschap en een daarvoor geautoriseerde vertegenwoordiger van de betrokken Nationale Overeenkomstsluitende Partij of Partijen. De diensten zullen worden verleend overeenkomstig de noodplannen die zijn goedgekeurd door de Nationale Overeenkomstsluitende Partijen.
 
@@ -185,11 +185,11 @@ Op het in het Centrum Maastricht tewerkgesteld EUROCONTROL-personeel zijn de bep
 
 ##### Artikel 11
 
-1. Elke Nationale Overeenkomstsluitende Partij is aansprakelijk voor ongeacht welke schade ontstaan uit, dan wel in verband met, de overeenkomstig het bepaalde in [artikel 2, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&artikel=2&z=2022-07-01&g=2022-07-01) en [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&bijlage=II&z=2022-07-01&g=2022-07-01) bij deze Overeenkomst, ter beschikking van de Organisatie gestelde diensten voor zover deze schade aan haar te wijten is.
+1. Elke Nationale Overeenkomstsluitende Partij is aansprakelijk voor ongeacht welke schade ontstaan uit, dan wel in verband met, de overeenkomstig het bepaalde in [artikel 2, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&artikel=2&z=2025-01-01&g=2025-01-01) en [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&bijlage=II&z=2025-01-01&g=2025-01-01) bij deze Overeenkomst, ter beschikking van de Organisatie gestelde diensten voor zover deze schade aan haar te wijten is.
 
-2. Behoudens het bepaalde in lid 1 van dit artikel vrijwaart de Organisatie de Nationale Overeenkomstsluitende Partijen voor wat betreft vorderingen die voortvloeien uit schade ontstaan als gevolg of naar aanleiding van overeenkomstig het bepaalde in [artikel 1, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&artikel=1&z=2022-07-01&g=2022-07-01), [artikel 2, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&artikel=2&z=2022-07-01&g=2022-07-01), en [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&artikel=10&z=2022-07-01&g=2022-07-01) van deze Overeenkomst verleende diensten.
+2. Behoudens het bepaalde in lid 1 van dit artikel vrijwaart de Organisatie de Nationale Overeenkomstsluitende Partijen voor wat betreft vorderingen die voortvloeien uit schade ontstaan als gevolg of naar aanleiding van overeenkomstig het bepaalde in [artikel 1, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&artikel=1&z=2025-01-01&g=2025-01-01), [artikel 2, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&artikel=2&z=2025-01-01&g=2025-01-01), en [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&artikel=10&z=2025-01-01&g=2025-01-01) van deze Overeenkomst verleende diensten.
 
-3. De Organisatie kan uit hoofde van [artikel 25, lid 2 van het gewijzigd Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004802&artikel=25) aansprakelijk worden gesteld. Zij heeft evenwel in de gevallen bedoeld in lid 1 van dit artikel, in [artikel 4, lid 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&artikel=4&z=2022-07-01&g=2022-07-01) en in [artikel 6, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&artikel=6&z=2022-07-01&g=2022-07-01) recht van verhaal op de Nationale Overeenkomstsluitende Partijen om door hen voor ongeacht welke aansprakelijkheid van dien aard schadeloos gesteld te worden.
+3. De Organisatie kan uit hoofde van [artikel 25, lid 2 van het gewijzigd Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004802&artikel=25) aansprakelijk worden gesteld. Zij heeft evenwel in de gevallen bedoeld in lid 1 van dit artikel, in [artikel 4, lid 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&artikel=4&z=2025-01-01&g=2025-01-01) en in [artikel 6, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&artikel=6&z=2025-01-01&g=2025-01-01) recht van verhaal op de Nationale Overeenkomstsluitende Partijen om door hen voor ongeacht welke aansprakelijkheid van dien aard schadeloos gesteld te worden.
 
 4. De Organisatie kan in eigen naam een verzekering sluiten om zich te dekken tegen alle of een deel van de door haar in het kader van deze Overeenkomst gelopen risico’s, met inbegrip van schade door inkomstenderving, en bijzondere risico’s die ontstaan in verband met:
 
@@ -201,7 +201,7 @@ Op het in het Centrum Maastricht tewerkgesteld EUROCONTROL-personeel zijn de bep
 
 ##### Artikel 12
 
-De in de bijlagen bij deze Overeenkomst vervatte bepalingen vormen een integrerend deel van deze Overeenkomst. [Bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&bijlage=I&z=2022-07-01&g=2022-07-01), [II](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&bijlage=II&z=2022-07-01&g=2022-07-01) en [III](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&bijlage=III&z=2022-07-01&g=2022-07-01) bij deze Overeenkomst kunnen evenwel gewijzigd worden door uitwisseling van brieven tussen de Nationale Overeenkomstsluitende Partijen en de Directeur-Generaal van het Agentschap, zolang deze wijzigingen niet de rechten en plichten van de Organisatie en de Nationale Overeenkomstsluitende Partijen wijzigt onder artikelen 1 tot 15 van deze Overeenkomst. De Directeur-Generaal van het Agentschap zal elke wijziging in de Bijlagen I, II en III bij deze Overeenkomst namens de Organisatie goedkeuren onder voorwaarde dat hij hierover ruim van tevoren de Permanente Commissie informeert. Bijlage IV bij deze Overeenkomst kan worden gewijzigd door unanieme beslissing van de Commissie.
+De in de bijlagen bij deze Overeenkomst vervatte bepalingen vormen een integrerend deel van deze Overeenkomst. [Bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&bijlage=I&z=2025-01-01&g=2025-01-01), [II](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&bijlage=II&z=2025-01-01&g=2025-01-01) en [III](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&bijlage=III&z=2025-01-01&g=2025-01-01) bij deze Overeenkomst kunnen evenwel gewijzigd worden door uitwisseling van brieven tussen de Nationale Overeenkomstsluitende Partijen en de Directeur-Generaal van het Agentschap, zolang deze wijzigingen niet de rechten en plichten van de Organisatie en de Nationale Overeenkomstsluitende Partijen wijzigt onder artikelen 1 tot 15 van deze Overeenkomst. De Directeur-Generaal van het Agentschap zal elke wijziging in de Bijlagen I, II en III bij deze Overeenkomst namens de Organisatie goedkeuren onder voorwaarde dat hij hierover ruim van tevoren de Permanente Commissie informeert. Bijlage IV bij deze Overeenkomst kan worden gewijzigd door unanieme beslissing van de Commissie.
 
 ##### Artikel 13
 
@@ -235,79 +235,113 @@ EN FOI DE QUOI les Plénipotentiaires soussignés, après présentation de leurs
 
 FAIT à Bruxelles, le 25 novembre 1986, en langues allemande, anglaise, française, néerlandaise et portugaise, en un seul exemplaire que restera déposé aux archives du Gouvernement du Royaume de Belgique qui en communiquera copie certifiée conforme aux Gouvernements des autres Etats membres de l'Organisation et à l'Organisation elle-même. Le texte en langue française fera foi en cas de divergence entre les textes.
 
-inzake de vaststelling en financiering van de onderdelen van de begroting van de Organisatie waarin de uitgaven inzake het Centrum Maastricht worden voorzien.
+**Financieel Protocol inzake de vaststelling en financiering van de onderdelen van de begroting van de Organisatie waarin de uitgaven inzake het Centrum Maastricht worden voorzien.**
 
 ## DEEL I. DE AAN INVESTERINGEN GERELATEERDE KAPITAALKOSTEN
 
 ##### Artikel 1
 
-De aan investeringen gerelateerde kapitaalkosten inzake het Centrum Maastricht worden voorzien in een Bijzondere bijlage in Titel III van de begroting van de Organisatie.
+De aan investeringen gerelateerde kapitaalkosten inzake het Centrum Maastricht worden voorzien in het deel van de begroting van de Organisatie dat is gewijd aan het Centrum Maastricht.1)De bijzondere Bijlage als bedoeld in artikel 8 van de Overeenkomst van Maastricht.
 
 ##### Artikel 2
 
-De aan investeringen gerelateerde kapitaalkosten ten laste van de Bijzondere bijlage zullen worden gefinancierd via bankleningen of andere middelen die door de Organisatie worden verstrekt.
+De aan investeringen gerelateerde kapitaalkosten met betrekking tot het Centrum Maastricht zullen worden gefinancierd via bankleningen of andere middelen die door de Organisatie worden verstrekt.
 
 ## DEEL II. BEDRIJFSKOSTEN
 
 ##### Artikel 3
 
-De bedrijfskosten inzake het Centrum Maastricht worden voorzien in een Bijzondere bijlage, die afzonderlijk van de Bijzondere bijlage voor de investeringsuitgaven in Titel III van de begroting van de Organisatie wordt ingesteld.
+De bedrijfskosten inzake het Centrum Maastricht worden voorzien in het deel van de begroting van de Organisatie dat is gewijd aan het Centrum Maastricht2)De bijzondere Bijlage als bedoeld in artikel 8 van de Overeenkomst van Maastricht. en worden verantwoord in een afzonderlijke sectie, anders dan de sectie die voorziet in kapitaalkosten met betrekking tot in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&bijlage=III&deel=I&artikel=1&z=2025-01-01&g=2025-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&bijlage=III&deel=I&artikel=2&z=2025-01-01&g=2025-01-01) bedoelde investeringen.
 
 ##### Artikel 4
 
-1. De bedrijfskosten ten laste van deze Bijzondere bijlage worden gecompenseerd door rechtstreekse bijdragen van de Nationale Overeenkomstsluitende Partijen met betrekking tot de beveiliging van het algemene luchtverkeer, te voldoen volgens een onderling overeen te komen verdeelsleutel, alsmede, in voorkomend geval, door bijzondere bijdragen van de betrokken Nationale Overeenkomstsluitende Partijen wegens het militaire aandeel in de bedrijfskosten.
+1. De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&bijlage=III&deel=II&artikel=3&z=2025-01-01&g=2025-01-01) bedoelde bedrijfskosten worden gecompenseerd door rechtstreekse bijdragen van de Nationale Overeenkomstsluitende Partijen met betrekking tot de algemene luchtverkeersleiding, te voldoen volgens de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&bijlage=III&deel=III&artikel=7&z=2025-01-01&g=2025-01-01) gedefinieerde verdeelsleutel en, indien van toepassing, door bijzondere bijdragen van de betrokken Nationale Overeenkomstsluitende Partijen met betrekking tot de controle van operationeel luchtverkeer.
 
-2. Deze verdeelsleutel wordt, evenals elke later daarin aan te brengen wijziging, door de Nationale Overeenkomstsluitende Partijen aan de Organisatie medegedeeld.
+2. De verdeelsleutel, en elke daaropvolgende wijziging, wordt door de Nationale Overeenkomstsluitende Partijen aan de Organisatie gecommuniceerd.
 
 ##### Artikel 5
 
-In deze Bijzondere bijlage worden voldoende kredieten opgenomen om alle kosten te dekken om de goede werking van het Centrum Maastricht te verzekeren, in het bijzonder:
+In het in overeenstemming met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&bijlage=III&deel=II&artikel=3&z=2025-01-01&g=2025-01-01) vastgestelde deel van de begroting van de Organisatie worden voldoende kredieten opgenomen om alle kosten te dekken om de goede werking van het Centrum Maastricht te verzekeren, in het bijzonder:
 
-- a). de bruto–bezoldiging inclusief toelagen en vergoedingen van alle personeelsleden van het Centrum Maastricht;
+- a. de bruto–bezoldiging inclusief toelagen en vergoedingen van alle personeelsleden van het Centrum Maastricht;
 
-- b). opleidingskosten aangaande het personeel van het Centrum Maastricht volgens de geldende regels;
+- b. opleidingskosten aangaande het personeel van het Centrum Maastricht volgens de geldende regels;
 
-- c). alle afvloeiingsuitkeringen die verschuldigd zijn ten gevolge van een uitsluitend op initiatief van de Nationale Overeenkomstsluitende Partijen genomen besluit;
+- c. alle afvloeiingsuitkeringen die verschuldigd zijn ten gevolge van een uitsluitend op initiatief van de Nationale Overeenkomstsluitende Partijen genomen besluit;
 
-- d). de werkgeversbijdrage aan de pensioenlasten in verband met het personeel van het Centrum Maastricht, zoals omschreven in artikel 6 van deze Bijlage en het relevante deel van de uitkeringsverplichtingen van het verleden in relatie met pensioenrechten van het personeel van het Centrum Maastricht, inclusief uitkeringsverplichtingen van het verleden van het betrokken uitvoerend personeel in de functiegroep „O”;
+- d. de werkgeversbijdrage aan de pensioenlasten in verband met het personeel van het Centrum Maastricht, zoals omschreven in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&bijlage=III&deel=II&artikel=6&z=2025-01-01&g=2025-01-01) van deze Bijlage en het relevante deel van de uitkeringsverplichtingen van het verleden (PBO) in relatie met pensioenrechten van het personeel van het Centrum Maastricht, inclusief uitkeringsverplichtingen van het verleden van het betrokken uitvoerend personeel in de functiegroep “O”;
 
-- e). de kosten voor ondersteunende diensten die worden verleend aan het Centrum Maastricht;
+- e. de kosten voor ondersteunende diensten die worden verleend aan het Centrum Maastricht;
 
-- f). de kosten van alle verzekeringen die door de Organisatie worden afgesloten om zich te dekken tegen alle of een deel van de door haar in het kader van deze Overeenkomst gelopen risico’s;
+- f. de kosten van alle verzekeringen die door de Organisatie worden afgesloten om zich te dekken tegen alle of een deel van de door haar in het kader van deze Overeenkomst gelopen risico’s;
 
-- g). de compensatiekosten die door de Organisatie worden betaald voor de nationale belasting die wordt geheven op pensioenen van voormalig personeel dat toegekend was aan het Centrum Maastricht en een pensioen of invaliditeitstoelage ontvangt van de Organisatie, alsmede van de begunstigden die pensioen uitbetaald krijgen volgens artikelen 79 of 80 van het Administratief Statuut van het Personeel in vaste dienst van het Agentschap EUROCONTROL, en de Algemene Arbeidsvoorwaarden voor de functionarissen van het EUROCONTROL-Centrum Maastricht, naar rato van de periode waarin de betrokken personeelsleden die een functie bekleedden bij het Centrum Maastricht in vergelijking met hun totale diensttijd bij het Agentschap;
+- g. de kosten met betrekking tot de compensatie die door de Organisatie worden betaald voor de nationale belasting die wordt geheven op pensioenen van voormalige personeelsleden die toegekend waren aan het Centrum Maastricht en een pensioen of invaliditeitstoelage ontvangen van de Organisatie, alsmede van de daaronder vallende begunstigden die pensioen uitbetaald krijgen volgens de artikelen 79 of 80 van het Administratief Statuut van het Personeel in vaste dienst van het Agentschap EUROCONTROL, en de Algemene Arbeidsvoorwaarden voor de functionarissen van het EUROCONTROL-Centrum Maastricht, berekend naar rato van de periode waarin de betrokken personeelsleden die een functie bekleedden bij het Centrum Maastricht in vergelijking met hun totale diensttijd bij het Agentschap;
 
-- h). de kosten voor aanvullende voordelen die door de Organisatie worden betaald aan gepensioneerd voormalig personeel dat toegekend was aan het Centrum Maastricht en een pensioen of invaliditeitstoelage ontvangt van de Organisatie, alsmede van de begunstigden die pensioen uitbetaald krijgen volgens artikelen 79 of 80 van het Administratief Statuut van het Personeel in vaste dienst van het Agentschap EUROCONTROL, en de Algemene Arbeidsvoorwaarden voor de functionarissen van het EUROCONTROL-Centrum Maastricht, naar rato van de periode waarin de betrokken personeelsleden die een functie bekleedden bij het Centrum Maastricht in vergelijking met hun totale diensttijd bij het Agentschap;
+- h. de kosten met betrekking tot aanvullende voordelen die door de Organisatie worden betaald aan gepensioneerde voormalige personeelsleden die toegekend waren aan het Centrum Maastricht en een pensioen of invaliditeitstoelage ontvangt van de Organisatie, alsmede van de daaronder vallende begunstigden die pensioen uitbetaald krijgen volgens artikelen 79 of 80 van het Administratief Statuut van het Personeel in vaste dienst van het Agentschap EUROCONTROL, en de Algemene Arbeidsvoorwaarden voor de functionarissen van het EUROCONTROL-Centrum Maastricht, berekend naar rato van de periode waarin de betrokken personeelsleden die een functie bekleedden bij het Centrum Maastricht in vergelijking met hun totale diensttijd bij het Agentschap;
 
-- i). andere bedrijfskosten, inclusief kosten die voortkomen uit het aankopen van goederen en diensten, in het bijzonder uitbestede diensten, extern personeel, materiaal, energie, gemeenschapsvoorzieningen, huur, apparaten en installaties, onderhoud en reiskosten;
+- i. andere bedrijfskosten, inclusief kosten die voortkomen uit het aankopen van goederen en diensten, in het bijzonder uitbestede diensten, extern personeel, materiaal, energie, gemeenschapsvoorzieningen, huur van gebouwen, apparaten en installaties, onderhoud en reiskosten;
 
-- j). afschrijvingskosten;
+- j. afschrijvingskosten;
 
-- k). kapitaalkosten.
+- k. kapitaalkosten.
 
 ##### Artikel 6
 
-De kosten van de in een bepaald jaar opgebouwde pensioenrechten omvatten de in de statutaire regelingen van de Organisatie omschreven personeelsbijdragen (die zoals voor alle personeelsleden in de bruto-bezoldiging zijn begrepen), en de werkgeversbijdragen die het dubbele van de personeelsbijdragen vertegenwoordigen. De werkgeversbijdragen worden als uitgaven afzonderlijk in de Bijzondere bijlage opgenomen.
+De kosten van de in een bepaald jaar opgebouwde pensioenrechten omvatten de in de statutaire regelingen van de Organisatie omschreven personeelsbijdragen (die zoals voor alle personeelsleden in de bruto-bezoldiging zijn begrepen), en de werkgeversbijdragen die het dubbele van de personeelsbijdragen vertegenwoordigen. De werkgeversbijdragen worden als uitgaven afzonderlijk in het in overeenstemming met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&bijlage=III&deel=II&artikel=3&z=2025-01-01&g=2025-01-01) vastgestelde deel van de begroting van de Organisatie opgenomen.
 
 ## DEEL III. KOSTENVERDELING
 
 ##### Artikel 7
 
-1. De Nationale Overeenkomstsluitende Partijen komen overeen, in hun jaarlijkse kostengrondslag voor „en-route”-heffingen een bedrag op te nemen dat overeenkomt met de jaarlijkse afschrijving en rentelasten op de kapitaaluitgaven wegens de in het Centrum Maastricht verrichte investeringen, en deze bedragen onderling om te slaan naar rato met het luchtverkeersleidingspersoneel dat ingedeeld is bij de verkeersleidingssectoren voor het luchtruim van elk der Partijen, waarbij het luchtruim van het Koninkrijk België en van het Groothertogdom Luxemburg als een geheel wordt beschouwd.
+1. De Nationale Overeenkomstsluitende Partijen komen overeen de bedrijfskosten met betrekking tot de algemene luchtverkeersleiding door het Centrum Maastricht te verdelen.
 
-2. De Nationale Overeenkomstsluitende Partijen komen overeen, de bedrijfskosten met betrekking tot de beveiliging van het algemene luchtverkeer door het Centrum Maastricht om te slaan volgens dezelfde verdeelsleutel als in lid 1 is omschreven.
+2. De door het MUAC gegenereerde inkomsten worden over de Nationale Overeenkomstsluitende Partijen verdeeld op basis van de verdeelsleutel die in overeenstemming met de onderstaande leden is vastgesteld. Wanneer deze inkomsten echter rechtstreeks toerekenbaar zijn aan een specifieke Nationale Overeenkomstsluitende Partij of slechts enkele van de Nationale Overeenkomstsluitende Partijen, dan worden deze inkomsten uitsluitend toegewezen aan deze Nationale Overeenkomstsluitende Partij of deze Nationale Overeenkomstsluitende Partijen.
 
-3. De aandelen die voortvloeien uit de toepassing van de hierboven in lid 1 en 2 bedoelde verdeelsleutel, worden jaarlijks berekend op basis van de op 1 januari van het desbetreffende begrotingsjaar bestaande toestand en worden door het Maastricht Besluitvormingsorgaan overeengekomen in het kader van de werkzaamheden inzake de begrotingsramingen als bedoeld in [artikel 6, lid 1 (c)](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&artikel=6&z=2022-07-01&g=2022-07-01) van deze Overeenkomst.
+3. De volgende formule wordt gehanteerd om het aandeel van elke Nationale Overeenkomstsluitende Partij vast te stellen:
 
-4. De respectievelijk door het Koninkrijk België en het Groothertogdom Luxemburg ingevolge bovenstaande leden 1 en 2 te dragen aandelen, die als een geheel worden beschouwd, worden door deze Staten als volgt verdeeld:
+- a. Het in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&bijlage=I&z=2025-01-01&g=2025-01-01) bij deze Overeenkomst afgebakende luchtruim is onderverdeeld in geografische sectoren. Het gedeelte van de geografische sector dat binnen de heffingszone van de betreffende Nationale Overeenkomstsluitende Partij valt op basis van de totale oppervlakte van de sector in vierkante kilometers bepaalt het aandeel van die Partij voor deze sector, met dien verstande dat het luchtruim van het Koninkrijk België en dat van het Groothertogdom Luxemburg worden gedefinieerd als één heffingszone.
 
-Koninkrijk België: 97%
+- b. Afhankelijk van de hoeveelheid verkeer, wordt elke geografische sector beheerd met een specifieke sectorconfiguratie en bijbehorend aantal luchtverkeersleiders (ATCO's). Sectorconfiguraties worden verschillende malen per dag gewijzigd en de openingstijden van de sectoren worden geregistreerd. Per sectorconfiguratie wordt de verdeling van ATCO-uren3)ATCO-uren komen overeen met de tijd die een luchtverkeersleider doorbrengt op een luchtverkeersleiderswerkplek in de MUAC Ops Room, gemeten in minuten. onder de andere Nationale Overeenkomstsluitende Partijen vastgesteld in overeenstemming met de in bovenstaand lid 3.a) vermelde percentages. Dit resulteert in het aantal ATCO-uren dat in een bepaald jaar is besteed aan een luchtverkeersleidersfunctie in de betreffende heffingszone.
 
-Groothertogdom Luxemburg: 3%.
+- c. De som van alle ATCO-uren per heffingszone per Nationale Overeenkomstsluitende Partij in een jaar wordt vervolgens vergeleken met het totale aantal ATCO-uren dat in datzelfde jaar bij het MUAC is gewerkt, om zo het aandeel van elke Nationale Overeenkomstsluitende Partij vast te stellen.
+
+4. Het aldus vastgestelde aandeel op basis van de gegevens van het tweede jaar voorafgaand aan het eerste jaar van de referentieperiode (zoals gedefinieerd in het prestatie- en kostenschema van de EU) bepaalt de a priori-verdeelsleutel (en daarmee het aandeel van elke Nationale Overeenkomstsluitende Partij) voor de MUAC-kostengrondslag die gedurende de gehele referentieperiode van toepassing is.
+
+5. Voorafgaand aan de start van de referentieperiode kan het Maastricht Besluitvormingsorgaan besluiten gebruik te maken van andere gegevens wanneer de gegevens van het tweede jaar voorafgaand aan het eerste jaar van de referentieperiode niet als representatief worden beschouwd.
+
+6. De op basis van lid 4 of 5 bepaalde a priori-verdeelsleutel kan op enigerlei moment, bij wijze van uitzondering, worden herzien bij besluit van het Maastricht Besluitvormingsorgaan, bijvoorbeeld in het geval van:
+
+- i. significante wijzigingen in het luchtruim van een Nationale Overeenkomstsluitende Partij, zoals gedefinieerd in Bijlage I bij de Overeenkomst van Maastricht, die gevolgen hebben voor de heffingszones, zoals gedefinieerd in bovenstaand lid 3.a);
+
+- ii. wijzigingen in het (concept) prestatieplan en/of het toepasselijk reglement die relevant zijn/dat relevant is voor de betreffende referentieperiode.
+
+Tot het moment dat een herziene verdeelsleutel is goedgekeurd door het Maastricht Besluitvormingsorgaan blijft de in overeenstemming met lid 4 of 5 vastgestelde verdeelsleutel van toepassing.
+
+7. De a priori-verdeelsleutel die voortvloeit uit toepassing van de in bovenstaande leden bedoelde verdeelsleutel wordt jaarlijks berekend en wordt door het Maastricht Besluitvormingsorgaan overeengekomen als onderdeel van de procedure voor de goedkeuring van de begroting van het Centrum Maastricht als bedoeld in [artikel 6.1 (c) van deze Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&artikel=6&z=2025-01-01&g=2025-01-01).
+
+8. De delen die, volgens de bovenstaande leden 3 tot en met 7 worden toegekend aan het Koninkrijk België en het Groothertogdom Luxemburg, als één geheel worden beschouwd, worden tussen deze staten als volgt verdeeld:
+
+- •. Het Koninkrijk België: 97%
+
+- •. Het Groothertogdom Luxemburg: 3%
+
+9. Een afstemmingsmechanisme wordt elk jaar achteraf toegepast om de bijdragen aan te passen zoals voorzien in [artikel 4.1 van deze Bijlage](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&bijlage=III&deel=II&artikel=4&z=2025-01-01&g=2025-01-01) op basis van de a priori-verdeelsleutel om rekening te houden met:
+
+- •. eventuele wijzigingen in het aandeel van een Nationale Overeenkomstsluitende Partij als gevolg van wijzigingen in de geografische sectoren (waaronder nieuwe sectorconfiguraties), zoals vastgesteld in overeenstemming met bovenstaand lid 3.a); en
+
+- •. eventuele afwijkingen tussen het aandeel van een Nationale Overeenkomstsluitende Partij, zoals gedefinieerd in de bovenstaande leden 3 tot en met 7, en het aandeel dat voortvloeit uit toepassing van de werkelijke ATCO-uren die zijn besteed aan een luchtverkeersleidersfunctie in een bepaald jaar van de referentieperiode waarin de verdeelsleutel wordt toegepast.
+
+10. Voor de referentieperiode die start op 1 januari 2025 neemt het afstemmingsmechanisme alle wijzigingen en afwijkingen in aanmerking die zich voordoen in de periode tussen 1 januari 2025 en 31 december van het jaar dat voorafgaat aan het laatste jaar van die referentieperiode.
+
+11. Voor de referentieperiodes die starten na de periode die start op 1 januari 2025 is het afstemmingsmechanisme van toepassing op alle wijzigingen en afwijkingen die zich voordoen in de periode tussen 1 januari van het laatste jaar van de voorafgaande referentieperiode en 31 december van het jaar dat voorafgaat aan het laatste jaar van de lopende referentieperiode.
+
+12. De financiële gevolgen van de wijzigingen en afwijkingen worden jaarlijks bepaald en worden samengevoegd over de betreffende periodes zoals uiteengezet in de voorgaande paragrafen. Elke creditering/debitering per Nationale Overeenkomstsluitende Partij die voortkomt uit de toepassing van het afstemmingsmechanisme wordt gelijkwaardig verdeeld over de jaarlijkse verschuldigde bijdragen in de referentieperiode na de periode waarop het afstemmingsmechanisme van toepassing is. Voor die referentieperiode worden de bijdragen voor elke Nationale Overeenkomstsluitende Partij berekend op basis van een aangepaste verdeelsleutel. Deze aangepaste verdeelsleutel wordt uitsluitend gebruikt om de bijdragen van elke Nationale Overeenkomstsluitende Partij tijdens de betreffende referentieperiode te bepalen.
+
+13. Ondanks de hierboven uiteengezette bepalingen kunnen de Nationale Overeenkomstsluitende Partijen bij besluit van het Maastricht Besluitvormingsorgaan (MDMB) beslissen het afstemmingsmechanisme niet toe te passen. In die gevallen kan het Maastricht Besluitvormingsorgaan (MDMB) beslissen hoe de openstaande saldi te behandelen.
 
 ##### Enig artikel
 
-Voor de periode van 2019 tot 2025 worden de jaarlijkse kosten die worden opgenomen in de Bijzondere bijlage bij de begroting van de Organisatie voor het Centrum Maastricht met betrekking tot de kostenposten die worden genoemd in [Artikel 5, lid 1 (g) en (h) van Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&bijlage=III&deel=II&artikel=5&z=2022-07-01&g=2022-07-01) (belastingcompensatie en aanvullende voordelen) bepaald volgens de volgende percentages van de totale kosten van deze posten:
+Voor de periode van 2019 tot 2025 worden de jaarlijkse kosten die worden opgenomen in de Bijzondere bijlage bij de begroting van de Organisatie voor het Centrum Maastricht met betrekking tot de kostenposten die worden genoemd in [Artikel 5, lid 1 (g) en (h) van Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&bijlage=III&deel=II&artikel=5&z=2025-01-01&g=2025-01-01) (belastingcompensatie en aanvullende voordelen) bepaald volgens de volgende percentages van de totale kosten van deze posten:
 
 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
 | --- | --- | --- | --- | --- | --- | --- |
