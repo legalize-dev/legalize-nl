@@ -4,7 +4,7 @@ identifier: "BWBR0050376"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2024-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050376"
 soort: "AMvB"
@@ -44,27 +44,21 @@ Wijzigt het Besluit activiteiten leefomgeving.
 
 Wijzigt het Omgevingsbesluit.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel III. (Wijziging [Invoeringsbesluit Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0044923))
 
 Wijzigt het Invoeringsbesluit Omgevingswet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV. (Wijziging [Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929))
 
 Wijzigt het Besluit bodemkwaliteit.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel V. (Inwerkingtreding)
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit treedt in werking met ingang van 1 januari 2025 en werkt ten aanzien van [artikel I, onder AW](https://wetten.overheid.nl/jci1.3:c:BWBR0050376&artikel=I&z=2025-01-01&g=2025-01-01) terug tot en met 1 januari 2024.
 
 ##### Artikel VI. (Citeertitel)
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit wordt aangehaald als: Verzamelbesluit Omgevingswet IENW bodem en water 2025.
 
 Op de voordracht van de Staatssecretaris van Infrastructuur en Waterstaat van 10 april 2024, nr. IenW/BSK-2024/124551, Hoofddirectie Bestuurlijke en Juridische Zaken;
 
