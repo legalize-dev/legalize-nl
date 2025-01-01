@@ -4,7 +4,7 @@ identifier: "BWBR0044185"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-31"
-last_updated: "2024-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044185"
 soort: "ministeriele-regeling"
@@ -80,21 +80,21 @@ Subsidie kan uitsluitend verstrekt worden aan een abortuskliniek die in het bezi
 
 1. De subsidie voor het verzorgen van een opleiding tot abortusarts bedraagt maximaal:
 
-- a. € 83.754 per opleidingsplaats eerste trimester abortusarts;
+- a. € 88.122 per opleidingsplaats eerste trimester abortusarts;
 
-- b. € 161.076 per opleidingsplaats tweede trimester A abortusarts;
+- b. € 169.489 per opleidingsplaats tweede trimester A abortusarts;
 
-- c. € 191.235 per opleidingsplaats tweede trimester B abortusarts.
+- c. € 201.226 per opleidingsplaats tweede trimester B abortusarts.
 
 2. De subsidie voor het verzorgen van een opleiding tot sedationist bedraagt maximaal:
 
-- a. € 10.127 per opleidingsplaats voor een eerste trimester opleideling;
+- a. € 10.558 per opleidingsplaats voor een eerste trimester opleideling;
 
-- b. € 16.885 per opleidingsplaats voor een eerste trimester abortusarts;
+- b. € 17.670 per opleidingsplaats voor een eerste trimester abortusarts;
 
-- c. € 20.416 per opleidingsplaats voor een tweede trimester A abortusarts;
+- c. € 21.385 per opleidingsplaats voor een tweede trimester A abortusarts;
 
-- d. € 22.593 per opleidingsplaats voor een tweede trimester B abortusarts.
+- d. € 23.676 per opleidingsplaats voor een tweede trimester B abortusarts.
 
 ##### Artikel 6. Aanvraag tot verlening van subsidie
 
