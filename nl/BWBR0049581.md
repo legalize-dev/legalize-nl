@@ -4,7 +4,7 @@ identifier: "BWBR0049581"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-12"
-last_updated: "2024-04-19"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049581"
 soort: "ministeriele-regeling"
@@ -50,11 +50,9 @@ In deze regeling wordt verstaan onder:
 
 - **de-minimisverordening:** [Verordening (EU) nr. 2023/2831](32023R2831) van de Commissie van 13 december 2023 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de­minimissteun (Pb L van 15.12.2023);
 
-- **digitale of hybride processen in zorg of ondersteuning:** processen waarin zorg of ondersteuning aan cliënten geleverd wordt die digitaal of deels digitaal ingericht zijn en die voldoen aan de voorwaarden, bedoeld in [artikel 11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049581&artikel=11&z=2024-04-19&g=2024-04-19);
+- **digitale of hybride processen in zorg of ondersteuning:** processen waarin zorg of ondersteuning aan cliënten geleverd wordt die digitaal of deels digitaal ingericht zijn en die voldoen aan de voorwaarden, bedoeld in [artikel 11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049581&artikel=11&z=2025-01-01&g=2025-01-01);
 
 - **investering in of exploitatie van een innovatiecluster:** de bouw of het upgraden van een innovatiecluster als bedoeld in artikel 27, vijfde lid, van de algemene groepsvrijstellingsverordening of de exploitatie van een innovatiecluster als bedoeld in artikel 27, zevende lid, van de algemene groepsvrijstellingsverordening;
-
-- **implementatiestart:** het ontwikkelen van een strategie voor de inzet van digitale of hybride processen in zorg of ondersteuning en het opstellen van een implementatieplan voor deze strategie;
 
 - **inkoper:** zorgverzekeraar als bedoeld in [artikel 1, onder b, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1), zorgkantoor als bedoeld in [artikel 1.1.1 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=1.1.1) of gemeente;
 
@@ -70,9 +68,11 @@ In deze regeling wordt verstaan onder:
 
 - **proces- en organisatie-innovatie:** procesinnovatie als bedoeld in artikel 2, onderdeel 97 en organisatie-innovatie als bedoeld in artikel 2, onderdeel 96, van de algemene groepsvrijstellingsverordening;
 
-- **samenwerkingsverband:** georganiseerd verband zonder rechtspersoonlijkheid, niet zijnde een vennootschap, dat voldoet aan de voorwaarden bedoeld in [artikel 11 vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049581&artikel=11&z=2024-04-19&g=2024-04-19);
+- **samenwerkingsverband:** georganiseerd verband zonder rechtspersoonlijkheid, niet zijnde een vennootschap, dat voldoet aan de voorwaarden bedoeld in [artikel 11 vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049581&artikel=11&z=2025-01-01&g=2025-01-01);
 
 - **STOZ-overzicht:** overzicht van digitale en hybride processen in zorg of ondersteuning dat staat gepubliceerd op [www.rvo.nl](http://www.rvo.nl);
+
+- **strategievorming:** het ontwikkelen van een strategie voor de inzet van digitale of hybride processen in zorg of ondersteuning en het opstellen van een implementatieplan voor deze strategie;
 
 - **zorg of ondersteuning:**
 
@@ -118,7 +118,7 @@ De minister kan op aanvraag voor maximaal drie jaar subsidie verstrekken voor ac
 
 - c. opleidingsactiviteiten;
 
-- d. implementatiestart.
+- d. strategievorming.
 
 ##### Artikel 5. Subsidieaanvrager
 
@@ -130,7 +130,7 @@ De minister kan subsidie verstrekken aan:
 
 - c. een individuele aanbieder voor proces- en organisatie-innovatie en opleidingsactiviteiten;
 
-- d. een clusterorganisatie, een individuele aanbieder of een penvoerder ten behoeve van een of meer deelnemers van een samenwerkingsverband voor implementatiestart.
+- d. een clusterorganisatie, een individuele aanbieder of een penvoerder ten behoeve van een of meer deelnemers van een samenwerkingsverband voor strategievorming.
 
 ##### Artikel 6. Subsidiabele kosten
 
@@ -142,7 +142,7 @@ De minister kan subsidie verstrekken aan:
 
 - c. voor opleidingsactiviteiten: de kosten als bedoeld in artikel 31, derde lid, van de algemene groepsvrijstellingsverordening;
 
-- d. voor implementatiestart: personeelskosten en kosten voor het verstrekken van advies en procesbegeleiding door kennisinstellingen of door onafhankelijke adviesorganisaties.
+- d. voor strategievorming: personeelskosten en kosten voor het verstrekken van advies en procesbegeleiding door kennisinstellingen of door onafhankelijke adviesorganisaties.
 
 ##### Artikel 7. Hoogte van de subsidie
 
@@ -154,11 +154,15 @@ De minister kan subsidie verstrekken aan:
 
 4. Het minimumbedrag aan subsidie voor investering in of exploitatie van een innovatiecluster, proces- en organisatie-innovatie en opleidingsactiviteiten tezamen is € 25.000 en het maximumbedrag is € 750.000.
 
-5. Het maximumbedrag aan subsidie voor implementatiestart is € 25.000.
+5. Het maximumbedrag aan subsidie voor strategievorming is € 25.000.
 
 ##### Artikel 8. Subsidieplafond
 
-1. Het subsidieplafond bedraagt voor het jaar 2024 € 54 miljoen.
+1. Het subsidieplafond bedraagt:
+
+- a. voor het jaar 2024 € 54.000.000;
+
+- b. voor het jaar 2025 € 27.000.000.
 
 2. De minister verdeelt het ingevolge het subsidieplafond beschikbare bedrag op volgorde van binnenkomst van volledige aanvragen.
 
@@ -166,15 +170,19 @@ De minister kan subsidie verstrekken aan:
 
 1. Voor de aanvraag tot verlening van de subsidie wordt een door de minister vastgesteld formulier gebruikt.
 
-2. De subsidieaanvraag kan worden ingediend van 14 mei 2024 tot en met 20 december 2024.
+2. De subsidieaanvraag kan worden ingediend:
 
-3. In aanvulling op [artikel 3.3 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.3) gaat de subsidieaanvraag, niet zijnde een aanvraag waarbij uitsluitend subsidie wordt aangevraagd voor implementatiestart, vergezeld van een verklaring van een inkoper, ondertekend door een daartoe bevoegd persoon van de inkoper.
+- a. voor het jaar 2024: van 14 mei 2024 tot en met 20 december 2024;
+
+- b. voor het jaar 2025: van 6 januari 2025 tot en met 30 september 2025.
+
+3. In aanvulling op [artikel 3.3 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.3) gaat de subsidieaanvraag, niet zijnde een aanvraag waarbij uitsluitend subsidie wordt aangevraagd voor strategievorming, vergezeld van een verklaring van een inkoper, ondertekend door een daartoe bevoegd persoon van de inkoper.
 
 4. In aanvulling op [artikel 3.3 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.3) gaat de subsidieaanvraag ingediend door een clusterorganisatie of penvoerder vergezeld van een verklaring tot samenwerking ondertekend door de deelnemers aan het innovatiecluster respectievelijk het samenwerkingsverband.
 
 5. In aanvulling op [artikel 3.3 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.3) gaat de subsidieaanvraag ingediend door een individuele aanbieder vergezeld van een bewijs dat deze een aanbieder is.
 
-6. In aanvulling op [artikel 3.3 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.3) gaat de subsidieaanvraag voor implementatiestart vergezeld van:
+6. In aanvulling op [artikel 3.3 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.3) gaat de subsidieaanvraag voor strategievorming vergezeld van:
 
 - a. een verklaring als bedoeld in artikel 6, eerste lid, van de de­ minimisverordening;
 
@@ -184,7 +192,7 @@ De minister kan subsidie verstrekken aan:
 
 ##### Artikel 10. Advies
 
-Bij aanvragen van meer dan € 125.000 wint de minister advies in bij de adviescommissie STOZ.
+Bij aanvragen vanaf € 125.000 wint de minister advies in bij de adviescommissie STOZ.
 
 ##### Artikel 11. Voorwaarden en weigeringsgronden
 
@@ -192,9 +200,9 @@ Bij aanvragen van meer dan € 125.000 wint de minister advies in bij de adviesc
 
 - a. bij minimaal drie aanbieders;
 
-- b. bij ieder van hen op twintig cliënten, mantelzorgers of zorg- of ondersteuningsmedewerkers; en
+- b. bij hen gezamenlijk op zestig cliënten, mantelzorgers of zorg- of ondersteuningsmedewerkers, mantelzorgers of zorg- of ondersteuningsmedewerkers; en
 
-- c. op ten minste een van de twee doelen uit deze regeling zoals bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049581&artikel=3&z=2024-04-19&g=2024-04-19).
+- c. op ten minste een van de twee doelen uit deze regeling zoals bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049581&artikel=3&z=2025-01-01&g=2025-01-01).
 
 2. Digitale of hybride processen in zorg of ondersteuning zijn niet primair gericht op:
 
@@ -216,19 +224,19 @@ Bij aanvragen van meer dan € 125.000 wint de minister advies in bij de adviesc
 
 - b. er al een subsidie is verstrekt voor dezelfde activiteiten op grond van deze of een andere regeling;
 
-- c. het een subsidieaanvraag voor implementatiestart betreft en aan de aanvrager al eerder subsidie voor implementatiestart op grond van deze regeling is verleend;
+- c. het een subsidieaanvraag voor strategievorming betreft en aan de aanvrager al eerder subsidie voor strategievorming op grond van deze regeling is verleend;
 
 - d. er op grond van deze regeling al vijfmaal eerder een subsidie is verleend aan de aanvrager;
 
 - e. de verstrekking van een subsidie voor investering in of exploitatie van een innovatiecluster, proces- en organisatie-innovatie of opleidingsactiviteiten niet in overeenstemming is met het bepaalde in de algemene groepsvrijstellingsverordening;
 
-- f. de verstrekking van een subsidie voor implementatiestart niet in overeenstemming is met de de­minimisverordening.
+- f. de verstrekking van een subsidie voor strategievorming niet in overeenstemming is met de de­minimisverordening.
 
 ##### Artikel 12. Verplichtingen
 
 In aanvulling op [hoofdstuk 5 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=5) is de subsidieontvanger verplicht:
 
-- a. de inkoper die genoemd wordt in de verklaring, bedoeld in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049581&artikel=9&z=2024-04-19&g=2024-04-19), de hele subsidieperiode te betrekken;
+- a. de inkoper die genoemd wordt in de verklaring, bedoeld in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049581&artikel=9&z=2025-01-01&g=2025-01-01), de hele subsidieperiode te betrekken;
 
 - b. actief deel te nemen aan kennisdeling, onder andere door geleerde lessen en resultaten te delen;
 
@@ -260,7 +268,7 @@ Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artike
 
 Besluit:
 
-## Bijlage. Beoordelingscriteria als bedoeld in [artikel 11, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049581&artikel=11&z=2024-04-19&g=2024-04-19)
+## Bijlage. Beoordelingscriteria als bedoeld in [artikel 11, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049581&artikel=11&z=2025-01-01&g=2025-01-01)
 
 | **Criteria Kwaliteit Activiteitenplan** |
 | --- |
@@ -268,7 +276,7 @@ Besluit:
 | **Criteria Kwaliteit van het innovatiecluster of samenwerkingsverband** |
 | a. Het innovatiecluster of samenwerkingsverband beschikt over voldoende expertise en capaciteit om de beoogde transformatie te realiseren. Daarnaast wordt er, passend bij de beoogde transformatie, ook naar de volgende aspecten gekeken: i. Domein- en/of sectoroverstijgende samenwerking, waaronder ook samenwerking tussen het medisch en sociaal domein; ii. Betrokkenheid van andere partijen, zoals leveranciers, onderwijsinstellingen, regionale samenwerkingsverbanden, onderwijsinstellingen en/of kennisinstituten. b. Het activiteitenplan geeft een overzicht van de samenwerkingspartners, hun achtergrond en de onderlinge rol en taakverdeling voor de uitvoering van het activiteitenplan. Het activiteitenplan beschrijft de wijze waarop de samenwerking geborgd wordt. |
 | **Criteria Cliënt en mantelzorger** |
-| a. Cliënten en mantelzorgers zijn betrokken bij het implementeren en opschalen van de digitale of hybride processen in zorg of ondersteuning. Zij worden geraadpleegd over de keuze van de technologische toepassingen, de wijze van inzet en hun ervaringen met het gebruik. b. Passend bij de beoogde transformatie, worden cliënten en mantelzorgers ondersteund met informatie, trainingen of begeleiding. c. Er is inzicht in welke digitale vaardigheden van cliënten en mantelzorgers vereist zijn voor de beoogde transformatie en er is voorzien in een aanpak om cliënten en mantelzorgers daarin te trainen en/of coachen. |
+| a. Cliënten en mantelzorgers zijn betrokken bij het implementeren en opschalen van de digitale of hybride processen in zorg of ondersteuning. Zij participeren in of worden tenminste geraadpleegd over de keuze van de technologische toepassingen, de wijze van inzet en hun ervaringen met het gebruik. b. Passend bij de beoogde transformatie, worden cliënten en mantelzorgers ondersteund met informatie, trainingen of begeleiding. c. Er is inzicht in welke digitale vaardigheden van cliënten en mantelzorgers vereist zijn voor de beoogde transformatie en er is voorzien in een aanpak om cliënten en mantelzorgers daarin te trainen en/of coachen. |
 | **Criteria Zorg- of ondersteuningsmedewerker** |
 | a. Zorg- of ondersteuningsmedewerkers zijn intensief betrokken bij het implementeren en opschalen van de digitale of hybride processen in zorg of ondersteuning. Zij worden geraadpleegd in de keuze van de digitale of hybride processen, de wijze van inzet en hun ervaringen met het gebruik. Hierbij is ook aandacht voor de impact op het (bevorderen van) werkplezier en de (vermindering van) registratielast. b. Passend bij de beoogde transformatie worden de zorg- of ondersteuningsmedewerkers gestimuleerd en ondersteund met informatie, trainingen en begeleiding. c. Er is inzicht in welke digitale vaardigheden van zorg- of ondersteuningsmedewerkers vereist zijn voor de beoogde transformatie en er is voorzien in een aanpak om zorg- of ondersteuningsmedewerkers daarin te trainen en/of coachen. |
 | **Criteria Samenwerking** |
