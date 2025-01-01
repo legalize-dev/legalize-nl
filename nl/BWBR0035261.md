@@ -4,7 +4,7 @@ identifier: "BWBR0035261"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2024-07-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035261"
 soort: "AMvB"
@@ -76,7 +76,7 @@ Vervallen
 
 ##### Artikel 5. Bedrag onderhoud van het kind voor enkele kinderbijslag dat niet tot het huishouden van de verzekerde behoort
 
-1. Het bedrag van de door de verzekerde aan het onderhoud van het kind te leveren bijdrage om voor kinderbijslag in aanmerking te komen, bedoeld in [artikel 7, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=7), is € 512,00 per kalenderkwartaal.
+1. Het bedrag van de door de verzekerde aan het onderhoud van het kind te leveren bijdrage om voor kinderbijslag in aanmerking te komen, bedoeld in [artikel 7, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=7), is € 522,00 per kalenderkwartaal.
 
 2. Het bedrag, genoemd in het eerste lid, wordt ieder jaar per 1 januari gewijzigd op grond van de ontwikkeling die het basiskinderbijslagbedrag op grond van [artikel 13, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=13) heeft ondergaan in de periode 2 juli tot en met 1 juli direct voorafgaand. Het gewijzigde bedrag wordt door of namens Onze Minister medegedeeld in de Staatscourant.
 
@@ -84,13 +84,13 @@ Vervallen
 
 ##### Artikel 6. Bedrag onderhoud van het kind voor dubbele kinderbijslag dat niet tot het huishouden van de verzekerde behoort
 
-1. Het bedrag van de door de verzekerde aan het onderhoud van het kind te leveren bijdrage om voor verdubbeling van de kinderbijslag in aanmerking te komen, bedoeld in [artikel 7, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=7), is € 1.358,00 per kalenderkwartaal.
+1. Het bedrag van de door de verzekerde aan het onderhoud van het kind te leveren bijdrage om voor verdubbeling van de kinderbijslag in aanmerking te komen, bedoeld in [artikel 7, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=7), is € 1.384,00 per kalenderkwartaal.
 
 2. Het bedrag, genoemd in het eerste lid, wordt ieder jaar per 1 januari gewijzigd op grond van de ontwikkeling die het basiskinderbijslagbedrag op grond van [artikel 13, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=13) heeft ondergaan in de periode 2 juli tot en met 1 juli direct voorafgaand. Het gewijzigde bedrag wordt door of namens Onze Minister medegedeeld in de Staatscourant.
 
 3. Het in het tweede lid bedoelde bedrag wordt afgerond op hele euro’s.
 
-4. Voor de toepassing van het eerste lid in de periode van 1 juli 2014 tot en met 31 december 2016 wordt het kind geacht grotendeels door de verzekerde te worden onderhouden als bedoeld in [artikel 7, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=7) zoals dat luidde op de dag voor inwerkingtreding van [artikel I, onderdeel A, van de Wet hervorming kindregelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0035259&artikel=I), indien het bedrag van de door de verzekerde aan het onderhoud van het kind te leveren bijdrage € 1.294,00 per 1 januari 2024: € 1.358,00 per kalenderkwartaal bedraagt.
+4. Voor de toepassing van het eerste lid in de periode van 1 juli 2014 tot en met 31 december 2016 wordt het kind geacht grotendeels door de verzekerde te worden onderhouden als bedoeld in [artikel 7, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=7) zoals dat luidde op de dag voor inwerkingtreding van [artikel I, onderdeel A, van de Wet hervorming kindregelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0035259&artikel=I), indien het bedrag van de door de verzekerde aan het onderhoud van het kind te leveren bijdrage € 1.294,00 per 1 januari 2025: € 1.384,00 per kalenderkwartaal bedraagt.
 
 ##### Artikel 7. Forfaitaire onderhoudsbijdrage
 
@@ -100,7 +100,7 @@ Vervallen
 
 ##### Artikel 8. Optellen bijdragen onderhoud van het kind
 
-Voor het vaststellen van de hoogte van de bijdrage die de verzekerde per kalenderkwartaal levert aan het onderhoud van het kind, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035261&hoofdstuk=3&artikel=5&z=2024-07-01&g=2024-07-01) en [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035261&hoofdstuk=3&artikel=6&z=2024-07-01&g=2024-07-01), mogen de bijdragen aan het onderhoud van dat kind van personen die rechthebbenden zijn op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) bij elkaar worden opgeteld, en mogen tevens als die personen geen gezamenlijk huishouden vormen, de bijdragen aan het onderhoud van dat kind van degene met wie zij een gezamenlijk huishouden vormen, daarbij worden opgeteld.
+Voor het vaststellen van de hoogte van de bijdrage die de verzekerde per kalenderkwartaal levert aan het onderhoud van het kind, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035261&hoofdstuk=3&artikel=5&z=2025-01-01&g=2025-01-01) en [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035261&hoofdstuk=3&artikel=6&z=2025-01-01&g=2025-01-01), mogen de bijdragen aan het onderhoud van dat kind van personen die rechthebbenden zijn op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) bij elkaar worden opgeteld, en mogen tevens als die personen geen gezamenlijk huishouden vormen, de bijdragen aan het onderhoud van dat kind van degene met wie zij een gezamenlijk huishouden vormen, daarbij worden opgeteld.
 
 ### Hoofdstuk 4. Samenloop
 
@@ -164,13 +164,13 @@ Vervallen
 
 1. Indien het bij koninklijke boodschap van 2 september 2013 ingediende [voorstel van wet tot wijziging van de Algemene Kinderbijslagwet, de Wet op het kindgebonden budget, de Wet werk en bijstand, de Wet inkomstenbelasting 2001, de Wet studiefinanciering 2000 en enige andere wetten in verband met hervorming en versobering van de kindregelingen (Wet hervorming kindregelingen)](https://wetten.overheid.nl/jci1.3:c:BWBR0035259)(33 716) tot wet is verheven en in werking treedt, treden de artikelen van dit besluit in werking op het tijdstip waarop [artikel I, onderdeel A, voor wat betreft artikel 7, eerste tot en met vijfde, achtste en negende lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035259&artikel=I) in werking treedt.
 
-2. In afwijking van het eerste lid treedt [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035261&hoofdstuk=5&z=2024-07-01&g=2024-07-01) en [artikel 21, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035261&hoofdstuk=8&artikel=21&z=2024-07-01&g=2024-07-01), in werking op het tijdstip waarop [artikel I, onderdeel B, van het in het eerste lid genoemde voorstel van wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035259&artikel=I) tot wet is verheven en in werking treedt.
+2. In afwijking van het eerste lid treedt [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035261&hoofdstuk=5&z=2025-01-01&g=2025-01-01) en [artikel 21, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035261&hoofdstuk=8&artikel=21&z=2025-01-01&g=2025-01-01), in werking op het tijdstip waarop [artikel I, onderdeel B, van het in het eerste lid genoemde voorstel van wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035259&artikel=I) tot wet is verheven en in werking treedt.
 
-3. In afwijking van het eerste lid treedt [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035261&hoofdstuk=6&z=2024-07-01&g=2024-07-01) in werking op het tijdstip waarop [artikel I, onderdeel A, voor wat betreft artikel 7, zesde lid van het in het eerste lid genoemde voorstel van wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035259&artikel=I) tot wet is verheven en in werking treedt.
+3. In afwijking van het eerste lid treedt [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035261&hoofdstuk=6&z=2025-01-01&g=2025-01-01) in werking op het tijdstip waarop [artikel I, onderdeel A, voor wat betreft artikel 7, zesde lid van het in het eerste lid genoemde voorstel van wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035259&artikel=I) tot wet is verheven en in werking treedt.
 
-4. In afwijking van het eerste lid treedt [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0035261&hoofdstuk=7&artikel=16&z=2024-07-01&g=2024-07-01) in werking op het tijdstip waarop [artikel III, onderdeel A, van het in het eerste lid genoemde voorstel van wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035259&artikel=III) tot wet is verheven en in werking treedt.
+4. In afwijking van het eerste lid treedt [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0035261&hoofdstuk=7&artikel=16&z=2025-01-01&g=2025-01-01) in werking op het tijdstip waarop [artikel III, onderdeel A, van het in het eerste lid genoemde voorstel van wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035259&artikel=III) tot wet is verheven en in werking treedt.
 
-5. In afwijking van het eerste lid treedt [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0035261&hoofdstuk=7&artikel=17&z=2024-07-01&g=2024-07-01) in werking op het tijdstip waarop [artikel VIII, onderdeel B, tweede subonderdeel, van het in het eerste lid genoemde voorstel van wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035259&artikel=VIII) tot wet is verheven en in werking treedt.
+5. In afwijking van het eerste lid treedt [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0035261&hoofdstuk=7&artikel=17&z=2025-01-01&g=2025-01-01) in werking op het tijdstip waarop [artikel VIII, onderdeel B, tweede subonderdeel, van het in het eerste lid genoemde voorstel van wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035259&artikel=VIII) tot wet is verheven en in werking treedt.
 
 ##### Artikel 23. Citeertitel
 
@@ -198,7 +198,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 15. Aanwijzing beroep en woonplaats verzekerde
 
-1. Onder beroep als bedoeld in [artikel 7, zesde lid, onderdeel b, onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=7) wordt verstaan: het beroep dat wordt uitgeoefend door de personen, bedoeld in [artikel 1, eerste lid, onderdelen b, c en d, van de Subsidieregeling opvang kinderen van ouders met trekkend/varend bestaan](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&artikel=1), alsmede het beroep dat wordt uitgeoefend door een persoon die op grond van artikel 1, tweede lid, van genoemde subsidieregeling is gelijkgesteld met een in [artikel 1, eerste lid, onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0035261&hoofdstuk=1&artikel=1&z=2024-07-01&g=2024-07-01), van de genoemde subsidieregeling genoemde persoon.
+1. Onder beroep als bedoeld in [artikel 7, zesde lid, onderdeel b, onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=7) wordt verstaan: het beroep dat wordt uitgeoefend door de personen, bedoeld in [artikel 1, eerste lid, onderdelen b, c en d, van de Subsidieregeling opvang kinderen van ouders met trekkend/varend bestaan](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&artikel=1), alsmede het beroep dat wordt uitgeoefend door een persoon die op grond van artikel 1, tweede lid, van genoemde subsidieregeling is gelijkgesteld met een in [artikel 1, eerste lid, onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0035261&hoofdstuk=1&artikel=1&z=2025-01-01&g=2025-01-01), van de genoemde subsidieregeling genoemde persoon.
 
 2. Onder deel van Nederland als bedoeld in [artikel 7, zesde lid, onderdeel b, onder 3°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=7) wordt verstaan: Ameland, Vlieland, Terschelling of Schiermonnikoog.
 
@@ -206,7 +206,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 20a. Geldigheid oude indicatiebesluiten
 
-1. De artikelen van [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035261&hoofdstuk=5&z=2024-07-01&g=2024-07-01) zoals die luidden voor de datum van inwerkingtreding van het besluit van 11 december 2014, Stb. 556 tot wijziging van het Besluit uitvoering kinderbijslag in verband met de aanpassing aanwijzing intensieve zorg blijven van toepassing voor een indicatiebesluit dat is afgegeven voor 1 januari 2015.
+1. De artikelen van [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035261&hoofdstuk=5&z=2025-01-01&g=2025-01-01) zoals die luidden voor de datum van inwerkingtreding van het besluit van 11 december 2014, Stb. 556 tot wijziging van het Besluit uitvoering kinderbijslag in verband met de aanpassing aanwijzing intensieve zorg blijven van toepassing voor een indicatiebesluit dat is afgegeven voor 1 januari 2015.
 
 2. In geval van toepassing van het eerste lid blijven indicatiebesluiten waarvan de geldigheidsduur eindigt in 2015 gedurende zes maanden na de datum van het einde van de geldigheidsduur van het indicatiebesluit van kracht.
 
