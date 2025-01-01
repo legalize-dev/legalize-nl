@@ -4,7 +4,7 @@ identifier: "BWBR0001875"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2023-05-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001875"
 soort: "wet"
@@ -50,13 +50,13 @@ Oordeelt de officier van justitie, dat artikel 4 van het verdrag toepasselijk is
 
 ##### Artikel 3
 
-1. De ontvangbewijzen en verklaringen, bedoeld in artikel 5 van het verdrag, af te geven ter zake van de mededeeling van stukken, als in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001875&artikel=1&z=2023-05-01&g=2023-05-01) dezer wet bedoeld, zijn vrij van zegel en van de formaliteit van registratie of worden, indien deze formaliteit wordt gewenscht, kosteloos geregistreerd. Is de mededeeling ingevolge artikel 3 van het verdrag geschied bij beteekening door een deurwaarder, dan is het exploit van beteekening vrij van zegel en wordt het kosteloos geregistreerd.
+1. De ontvangbewijzen en verklaringen, bedoeld in artikel 5 van het verdrag, af te geven ter zake van de mededeeling van stukken, als in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001875&artikel=1&z=2025-01-01&g=2025-01-01) dezer wet bedoeld, zijn vrij van zegel en van de formaliteit van registratie of worden, indien deze formaliteit wordt gewenscht, kosteloos geregistreerd. Is de mededeeling ingevolge artikel 3 van het verdrag geschied bij beteekening door een deurwaarder, dan is het exploit van beteekening vrij van zegel en wordt het kosteloos geregistreerd.
 
 2. Artikel 8 der wet van 3 October 1843 (**Staatsblad** n°. 47) en artikel 42 der wet van 22 Frimaire, jaar VII, zijn niet van toepassing op deze ontvangbewijzen, verklaringen en exploiten. Gemeld artikel 8 blijft van toepassing, wanneer de mededeeling betreft hier te lande opgemaakte stukken, welke dadelijk op gezegeld papier hadden moeten zijn gesteld, doch die niet of niet behoorlijk van zegel zijn voorzien.
 
 ##### Artikel 4
 
-1. Om overeenkomstig de voorschriften van het verdrag een gerechtelijk of buitengerechtelijk stuk te doen mededeelen in een der Staten, waar het verdrag van kracht is, wordt het exploit gedaan op de wijze, aangegeven bij [artikel 55, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=55), behoudens het bepaalde bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0001875&artikel=6&z=2023-05-01&g=2023-05-01) dezer wet, en met dien verstande, dat, indien het exploit een rechtsgeding betreft, te voeren of aanhangig voor den Hoogen Raad, het zal gedaan worden aan de officier van justitie bij het arrondissementsparket Den Haag; voor een gerechtshof, aan de advocaat-generaal bij het ressortsparket; voor een kantonrechter, aan de officier van justitie bij het desbetreffende arrondissementsparket.
+1. Om overeenkomstig de voorschriften van het verdrag een gerechtelijk of buitengerechtelijk stuk te doen mededeelen in een der Staten, waar het verdrag van kracht is, wordt het exploit gedaan op de wijze, aangegeven bij [artikel 55, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=55), behoudens het bepaalde bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0001875&artikel=6&z=2025-01-01&g=2025-01-01) dezer wet, en met dien verstande, dat, indien het exploit een rechtsgeding betreft, te voeren of aanhangig voor den Hoogen Raad, het zal gedaan worden aan de officier van justitie bij het arrondissementsparket Den Haag; voor een gerechtshof, aan de advocaat-generaal bij het ressortsparket; voor een kantonrechter, aan de officier van justitie bij het desbetreffende arrondissementsparket.
 
 2. Behalve de vereischten, bij het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827) voor het exploit gesteld, zal daarbij worden vermeld het beroep of de maatschappelijke betrekking der partijen, zoomede het adres van dengene, aan wien de mededeeling wordt verlangd. Tevens wordt vermeld, dat het exploit overeenkomstig het verdrag moet worden medegedeeld, met opgave of verlangd wordt:
 
@@ -78,7 +78,7 @@ De officier van justitie kan, als waarborg voor de kosten, ter zake van de meded
 
 1. De officier van justitie zendt de stukken onverwijld aan den betrokken Nederlandschen diplomatieken of consulairen ambtenaar. Is het exploit of het afzonderlijk stuk vergezeld van eene vertaling in eene der talen, bedoeld bij artikel 3 van het verdrag, dan verzoekt de officier van justitie den diplomatieken of consulairen ambtenaar, zoo de vertaling niet voor overeenstemmend is verklaard door een beëedigd vertaler in het land van bestemming, zelf die vertaling voor overeenstemmend te verklaren.
 
-2. Indien niet voldaan is aan de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001875&artikel=4&z=2023-05-01&g=2023-05-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0001875&artikel=5&z=2023-05-01&g=2023-05-01) dezer wet, weigert de officier van justitie de doorzending der stukken, echter niet, dan na getracht te hebben, de naleving van die artikelen zooveel mogelijk te bevorderen.
+2. Indien niet voldaan is aan de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001875&artikel=4&z=2025-01-01&g=2025-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0001875&artikel=5&z=2025-01-01&g=2025-01-01) dezer wet, weigert de officier van justitie de doorzending der stukken, echter niet, dan na getracht te hebben, de naleving van die artikelen zooveel mogelijk te bevorderen.
 
 3. De diplomatieke of consulaire ambtenaar doet onverwijld de stukken, na, zoo noodig, aan het bij de tweede zinsnede van dit artikel bedoeld verzoek te hebben voldaan, aan de bevoegde autoriteit toekomen; de diplomatieke ambtenaar doet zulks door tusschenkomst van den bevoegden consulairen ambtenaar.
 
@@ -94,7 +94,7 @@ Verschijnt de gedaagde op de betekende roldatum niet, dan zal, indien de eiser h
 
 ##### Artikel 9
 
-Een exploit, gedaan overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001875&artikel=4&z=2023-05-01&g=2023-05-01) dezer wet, zal niet kunnen worden nietig verklaard op grond, dat daarbij niet zijn in acht genomen die bepalingen van [artikel 55, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=55), waarvan bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001875&artikel=4&z=2023-05-01&g=2023-05-01) dezer wet is afgeweken.
+Een exploit, gedaan overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001875&artikel=4&z=2025-01-01&g=2025-01-01) dezer wet, zal niet kunnen worden nietig verklaard op grond, dat daarbij niet zijn in acht genomen die bepalingen van [artikel 55, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=55), waarvan bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001875&artikel=4&z=2025-01-01&g=2025-01-01) dezer wet is afgeweken.
 
 #### Rogatoire commissiën aan den Nederlandschen rechter opgedragen
 
@@ -158,7 +158,7 @@ Alle kosten, op de uitvoering van rogatoire commissiën vallende, komen ten last
 
 1. Omtrent de vergoedingen en kosten waarvan door de betrokken aangezochte Staat terugbetaling wordt verzocht, wordt door de rechter overeenkomstig de [artikelen 237](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=237) en [289 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=289) uitspraak gedaan, voorzover deze artikelen daarvoor een vergoeding plegen in te sluiten.
 
-2. De griffier betaalt de in het voorgaande lid bedoelde kosten en vergoedingen aan de aangezochte Staat en brengt deze, voorzover zij in een veroordeling in de proceskosten plegen te worden begrepen, in rekening bij de eiser of verzoeker, tenzij de rechter daartoe in verband met de omstandigheden van het geding de verweerder, de eiser en verweerder gezamenlijk, een of meer andere belanghebbenden of dezen met de verzoeker gezamenlijk heeft aangewezen. Met betrekking tot de terugbetaling van de vergoeding voor deskundigen zijn de [derde tot en met vijfde volzin van artikel 195 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=195) van overeenkomstige toepassing. In de in deze zinnen bedoelde gevallen zijn de [artikelen 199, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=199), en [244, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=244) van overeenkomstige toepassing.
+2. De griffier betaalt de in het voorgaande lid bedoelde kosten en vergoedingen aan de aangezochte Staat en brengt deze, voorzover zij in een veroordeling in de proceskosten plegen te worden begrepen, in rekening bij de eiser of verzoeker, tenzij de rechter daartoe in verband met de omstandigheden van het geding de verweerder, de eiser en verweerder gezamenlijk, een of meer andere belanghebbenden of dezen met de verzoeker gezamenlijk heeft aangewezen. Met betrekking tot de terugbetaling van de vergoeding voor deskundigen zijn de derde tot en met vijfde volzin van [artikel 187 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=187) van overeenkomstige toepassing. In de in deze zinnen bedoelde gevallen zijn de [artikelen 191, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=191), en [244, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=244) van overeenkomstige toepassing.
 
 ##### Artikel 21
 
@@ -198,9 +198,9 @@ De rechter stelt bij zijn vonnis de dag vast, waarop de zaak weer ter rolle zal 
 
 ##### Artikel 26
 
-1. Onze voornoemde Minister zendt de stukken, in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0001875&artikel=25&z=2023-05-01&g=2023-05-01) dezer wet genoemd, langs den weg, in artikel 18 van het verdrag vermeld, aan de bevoegde autoriteit van den Staat, waar de uitvoerbaarverklaring verlangd wordt, onder bijvoeging van eene bevestiging, overeenkomstig artikel 19, derde lid, van het verdrag, en eene vertaling daarvan in eene der talen, bedoeld in artikel 19, tweede lid, sub 3°. van het verdrag. Deze vertaling is voor overeenstemmend verklaard door een beëedigd vertaler in het land, waar de uitvoerbaarverklaring verlangd wordt, of door een beëedigd vertaler in Nederland.
+1. Onze voornoemde Minister zendt de stukken, in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0001875&artikel=25&z=2025-01-01&g=2025-01-01) dezer wet genoemd, langs den weg, in artikel 18 van het verdrag vermeld, aan de bevoegde autoriteit van den Staat, waar de uitvoerbaarverklaring verlangd wordt, onder bijvoeging van eene bevestiging, overeenkomstig artikel 19, derde lid, van het verdrag, en eene vertaling daarvan in eene der talen, bedoeld in artikel 19, tweede lid, sub 3°. van het verdrag. Deze vertaling is voor overeenstemmend verklaard door een beëedigd vertaler in het land, waar de uitvoerbaarverklaring verlangd wordt, of door een beëedigd vertaler in Nederland.
 
-2. Indien niet voldaan is aan [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0001875&artikel=25&z=2023-05-01&g=2023-05-01) dezer wet, weigert hij de doorzending der stukken, echter niet, dan na getracht te hebben, de naleving van dat artikel zooveel mogelijk te bevorderen.
+2. Indien niet voldaan is aan [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0001875&artikel=25&z=2025-01-01&g=2025-01-01) dezer wet, weigert hij de doorzending der stukken, echter niet, dan na getracht te hebben, de naleving van dat artikel zooveel mogelijk te bevorderen.
 
 ##### Artikel 27
 
