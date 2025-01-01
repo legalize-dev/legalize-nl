@@ -1,0 +1,146 @@
+---
+title: "Regeling van de Minister van Economische Zaken, de Minister van Landbouw, Visserij, Voedselkwaliteit en Natuur en de Minister van Klimaat en Groene Groei van 18 december 2024, nr. WJZ/ 95850148 tot vaststelling van de subsidieplafonds en termijnen van openstelling van subsidie-instrumenten op hun respectievelijke beleidsterreinen (Regeling openstelling EZK- en LNV-subsidies 2025)"
+identifier: "BWBR0050592"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-14"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050592"
+soort: "ministeriele-regeling"
+stam_id: "17317453"
+version_id: "30507262"
+internal_id: "C43736481"
+label_id: "17221654"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050592/2026-01-14/0"
+intitule_bron: "Stcrt.2024-41698"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-12-18"
+intitule_published: "2024-12-24"
+intitule_in_force: "2024-12-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-41698"
+original_signed_date: "2024-12-18"
+original_published_date: "2024-12-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-41698"
+entry_into_force_date: "2025-01-01"
+jci_1_3: "jci1.3:c:BWBR0050592&z=2026-01-14&g=2026-01-14"
+jci_1_0: "1.0:c:BWBR0050592&g=2026-01-14"
+citeertitel_status: "officieel"
+short_title: "Regeling openstelling EZ-, LVVN- en KGG-subsidies 2025"
+signed_date: "2024-12-18"
+entry_into_force: "2025-01-01"
+---
+# Regeling van de Minister van Economische Zaken, de Minister van Landbouw, Visserij, Voedselkwaliteit en Natuur en de Minister van Klimaat en Groene Groei van 18 december 2024, nr. WJZ/ 95850148 tot vaststelling van de subsidieplafonds en termijnen van openstelling van subsidie-instrumenten op hun respectievelijke beleidsterreinen (Regeling openstelling EZK- en LNV-subsidies 2025)
+
+Gelet op [artikel 3, derde lid, van de Kaderwet EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3), de [artikelen 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=5), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=16), [17, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=17), en [50, van het Kaderbesluit nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=50) en [artikel 2.3 van de Regeling Europese EZK- en LNV-subsidies 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=2.3);
+
+Besluiten:
+
+##### Artikel 1. Openstelling [Regeling nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474)
+
+1. Als perioden waarin subsidieaanvragen kunnen worden ingediend krachtens de in kolom 1 genoemde titels van de [Regeling nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474) en de in kolom 2 genoemde artikelen van die regeling, in voorkomende gevallen verbijzonderd naar de in kolom 3 omschreven of aangeduide groepen van aanvragers, programma’s, projecten of aanvragen, en de in kolom 4 omschreven thema’s of programmalijnen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 5. Aanvragen zijn tijdig ingediend indien zij op de genoemde einddatum vóór 17.00 uur zijn ontvangen.
+
+2. Als subsidieplafond wordt per in kolom 5 genoemde periode het daarbij behorende in kolom 6 genoemde bedrag vastgesteld.
+
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| --- | --- | --- | --- | --- | --- |
+| Instrument | Artikel | Groep | Thema/programma | Openstelling | Plafond |
+| [Titel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.2): Bewezen en niet-bewezen innovaties verduurzaming veehouderij | [2.2.27](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.2.27) | Veehouderijonderneming met een veehouderijlocatie met piekbelasting |   | 21-10-2024 t/m 08-01-2025 | € 60.000.000 |
+| [Titel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.5): Borgstelling MKB-landbouw-kredieten | [2.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.5.2) | Landbouwborgstellingskredieten die betrekking hebben op investeringen als bedoeld in [artikel 2.5.6, tweede lid, onderdeel a en onderdeel b, onder 1° en 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.5.6) |   | 01-01-2025 t/m 31-12-2025 | € 60.000.000 |
+|   |   | Landbouwborgstellingskredieten die betrekking hebben op landbouwinnovaties als bedoeld in [artikel 2.5.6, tweede lid, onderdeel b, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.5.6) |   | 01-01-2025 t/m 31-12-2025 | € 20.000.000 |
+|   |   | Landbouwborgstellingskredieten die betrekking hebben op omschakeling duurzame landbouw als bedoeld in [artikel 2.5.6, tweede lid, onderdeel b, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.5.6) |   | 01-01-2025 t/m 31-12-2025 | € 5.000.000 |
+| [Titel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.10): Marktintroductie energie-innovaties | [2.10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.10.2) | Glastuinbouwonderneming | Marktintroductie energie-innovaties | 15-04-2025 t/m 13-05-2025 | € 8.500.000 |
+| [Titel 2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.23): Warmte-infrastructuur glastuinbouw | [2.23.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.23.2) | Investeerders in warmte-infrastructuur | Warmte-infrastructuur glastuinbouw | 31-01-2025 t/m 31-03-2025 | € 90.000.000 |
+| [Titel 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.24): Agenda Natuurinclusief | [2.24.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.24.2) |   |   | 06-01-2025 t/m 17-02-2025 | € 3.630.000 |
+| [Titel 2.25](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.25): Experimenteerlocaties | [2.25.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=2.25.2) |   | Innovatie | 27-01-2025 t/m 10-03-2025 | € 17.000.000 |
+| [Titel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.6): Maritieme innovatieprojecten | [3.6.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.6.2) |   |   | 24-10-2024 t/m 30-01-2025 | € 7.500.000 |
+| [Titel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.7): Eurostarsprojecten | [3.7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.7.2) |   | Innovatie (internationaal) | 01-01-2025 t/m 21-01-2025 | € 12.175.000 |
+| [Titel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.8): Internationaal Innoveren | [3.8.2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.8.2) | ITEA4-Innovatieprojecten | Marktgerichte software innovatie | 01-04-2025 t/m 18-04-2025 | € 7.250.000 |
+|   | [3.8.2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.8.2) | XECS-Innovatieprojecten | Marktgerichte innovatie voor micro- en nanoelektronica | 01-04-2025 t/m 18-04-2025 | € 7.250.000 |
+|   | [3.8.2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.8.2) | Global Stars-innovatieprojecten als bedoeld in de Global Stars-innovatiecall Japan te raadplegen via [www.rvo.nl/globalstars](http://www.rvo.nl/globalstars) |   | 01-01-2025 t/m 14-01-2025 | € 925.000 |
+| [Titel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.9): Innovatiekredieten | [3.9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.9.2) | Innovatiekredieten | Klinische ontwikkelprojecten en technische ontwikkelprojecten | 01-01-2025 t/m 31-12-2025 | € 50.000.000, waarvan minimaal € 10.000.000 voor klinische ontwikkelprojecten en minimaal € 10.000.000 voor technische ontwikkelprojecten |
+| [Titel 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.10): Seed capital technostarters | [3.10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.10.2) | Startersfondsen |   | 01-01-2025 t/m 02-04-2025 | € 20.000.000 |
+|   | [3.10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.10.2) | Startersfondsen |   | 01-08-2025 t/m 01-10-2025 | € 20.000.000 |
+|   | [3.10.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.10.2) | Deeptech Startersfondsen |   | 01-01-2025 t/m 02-04-2025 | € 25.000.000 |
+|   | [3.10.12b](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.10.12b) | Seed business angel fondsen |   | 01-01-2025 t/m 31-12-2025 | € 4.000.000 |
+| [Titel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.11): Borgstelling MKB-kredieten | [3.11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.11.2) | Bedrijfsborgstellingskredieten (banken en kredietinstellingen in de zin van de [Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883)) Bedrijfsborgstellingskredieten (door de minister aangewezen kredietverstrekkers) |   | 01-01-2025 t/m 31-12-2025 | € 758.900.000 |
+| [Titels 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.13) en [3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.14): Garantie ondernemingsfinanciering en Garantstelling gericht op bankgaranties | [3.13.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.13.2) en [3.14.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.14.2) |   |   | 01-01-2025 t/m 01-07-2025 | € 400.000.000 |
+| [Titel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.16): Vroegefasefinanciering | [3.16.1c](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.16.1c) | Regionale Financier |   | 01-01-2025 t/m 31-12-2025 | € 18.000.000 |
+|   | [3.16.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.16.2) en [3.16.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.16.7) | MKB-ondernemer en innovatieve starter |   | 01-01-2025 t/m 31-12-2025 | € 2.250.000 |
+|   | [3.16.12](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.16.12) | Academische innovatieve starter, hbo-innovatieve starter en TO2- innovatieve starter |   | 06-01-2025 t/m 04-03-2025 | € 4.950.000 |
+| [Titel 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.22): Thematische Technology Transfer | [3.22.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.22.2) |   |   | 16-12-2024 t/m 15-04-2025 | € 40.000.000 |
+|   | [3.22.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.22.2a) |   | Thematisch technology transferplan gericht op pandemische paraatheid | 16-12-2024 t/m 15-04-2025 | € 8.000.000 |
+| [Titel 3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.23): Venture Challenge | [3.23.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.23.2) | Life Sciences & Health (LSH) |   | 01-01-2025 t/m 04-02-2025 | € 100.000 |
+|   | [3.23.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.23.2) | Life Sciences & Health (LSH) |   | 06-05-2025 t/m 01-07-2025 | € 200.000 |
+| [Titel 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.25): High-performance computing-projecten (HPC-projecten) | [3.25.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.25.2) |   | Digital Autonomy for RISC-V in Europe (DARE) | 15-12-2024 t/m 31-01-2025 | € 7.500.000 |
+| [Titel 3.31](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.31): Circular Batteries | [3.31.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.31.2) |   | Onderwerp 1: Terugwinning van kritieke materialen door optimalisatie van recyclingsstappen van lithiumbatterijen | 16-12-2024 t/m 16-04-2025 | € 13.500.000 |
+|   |   |   | Onderwerp 2: Ontwikkeling en toepassing van langeduurbatterijtechnologie en samenwerking in expertisecentrum | 16-12-2024 t/m 16-04-2025 | € 25.000.000 |
+|   |   |   | Onderwerp 3: Onderzoek en ontwikkeling van batterijmaterialen inclusief bijbehorende productieapparatuur equipment en -processen voor een volgende generatie lithiumbatterijen | 16-12-2024 t/m 16-04-2025 | € 22.500.000 |
+|   |   |   | Onderwerp 4: Circulaire batterijsystemen voor heavy duty mobiliteit | 16-12-2024 t/m 16-04-2025 | € 34.000.000 |
+| [Titel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=4.2): Topsector energieprojecten | [4.2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.2.9) | Energie & Klimaat Onderzoek en Ontwikkeling (EKOO) | Onderdeel A. Elektriciteit | 01-04-2025 t/m 06-05-2025 | € 5.000.000 |
+|   |   |   | Onderdeel B. Gebouwde Omgeving | 01-04-2025 t/m 06-05-2025 | € 3.500.000 |
+|   |   |   | Onderdeel C. Industrie | 01-04-2025 t/m 13-05-2025 | € 3.000.000 |
+|   |   |   | Onderdeel D. Circulaire Economie, 1. Circulaire economie anders dan circulaire plastics of biobased circular | 06-05-2025 t/m 21-08-2025 | € 2.500.000 |
+|   |   |   | Onderdeel D. Circulaire Economie, 2. Circulaire Plastics | 06-05-2025 t/m 21-08-2025 | € 4.000.000 |
+|   |   |   | Onderdeel D. Circulaire Economie, 3. Biobased Circular | 01-04-2025 t/m 13-05-2025 | € 2.500.000 |
+|   | [4.2.44](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.2.44) | Missiegedreven Onderzoek, Ontwikkeling en Innovatie (MOOI) | 4. MOOI-missie Systeemintegratie | 03-06-2025 t/m 04-09-2025 | € 16.500.000 |
+|   | [4.2.65](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.2.65) | Demonstratie energie- en klimaatinnovatie (DEI+) | 2.1 Energie-efficiëntie anders dan gebouwde omgeving 2.2 Bevordering van energie uit hernieuwbare bronnen 2.3. Flexibilisering van het energiesysteem 2.4 Lokale infrastructuur 2.6 CC(U)S – Carbon Capture, Utilisation and Storage 2.8 Overige CO2-reducerende maatregelen 2.9 Waterstof en groene chemie | 28-01-2025 t/m 28-08-2025 | € 175.000.000 |
+|   |   |   | 2.5 Circulaire economie | 28-01-2025 t/m 28-08-2025 | € 80.000.000 |
+|   |   |   | 2.7 Aardgasloze gebouwde omgeving | 28-01-2025 t/m 28-08-2025 | € 6.000.000 |
+|   |   |   | 2.10 Vergassing van reststromen | 28-01-2025 t/m 28-08-2025 | € 109.000.000 |
+|   | [4.2.113](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.2.113) | TSE Industrie studies | Programmalijn 1: CO2-reducerende maatregelen anders dan waterstof en groene chemie | 01-05-2024 t/m 31-03-2025 | € 26.400.000 |
+|   |   |   | Programmalijn 2: Waterstof en groene chemie | 01-05-2024 t/m 31-03-2025 | € 10.000.000 |
+|   | [4.2.121](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.2.121) | Horizon Europe Partnership (HEP) | 2. Energy system flexibility: renewables production, storage and system integration 3B. Advanced renewable energy technologies for power production 5. Hydrogen and renewable fuels, for advanced fuels from sustainable biomass only 6. Heating and cooling technologies 7. Geothermal energy technologies 10. Clean energy integration in the built environment | 03-03-2025 t/m 02-04-2025 | € 5.000.000 |
+|   |   |   | 4. Carbon capture, utilisation, and storage (CCUS) | 03-03-2025 t/m 02-04-2025 | € 2.000.000 |
+| [Titel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=4.5): Investeringssubsidie duurzame energie en energiebesparing (ISDE) | [4.5.2, tweede lid, onderdelen a en b, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.5.2) | Investeringssubsidie voor de investering in: 1. een ruimteverwarmingstoestel, waterverwarmingstoestel of zonneboiler; 2. energiebesparende isolatiemaatregelen; 3. de aansluiting op een warmtenet; of 4. een voorziening voor elektrisch koken. |   | 01-01-2025 t/m 31-12-2025 | € 550.000.000 |
+|   | [4.5.2, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.5.2) | Investeringssubsidie voor de investering in installaties voor de productie van hernieuwbare elektriciteit met één of meer windturbines |   | 01-01-2025 t/m 31-12-2025 | € 5.000.000 |
+| [Titel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=4.6): Versnelde klimaatinvesteringen in de industrie | [4.6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.6.2) |   |   | 22-04-2024 t/m 31-01-2025 | € 130.000.000 |
+| [Titel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=4.7): Investeringssubsidie maakindustrie klimaatneutrale economie (IMKE) | [4.7.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.7.3) | Batterijen |   | 01-10-2024 t/m 31-01-2025 | € 20.000.000 |
+|   | [4.7.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.7.3) | Elektrolyse-installaties |   | 01-10-2024 t/m 31-01-2025 | € 100.000.000 |
+|   | [4.7.3, vierde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.7.3) | Essentiële onderdelen voor de zonnepanelen, genoemd in [artikel 4.7.3, vierde lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.7.3), namelijk heterojunctionzonnecellen, perovskietfolies, perovskietzonnecellen of tandemzonnecellen |   | 02-12-2024 t/m 31-01-2025 | € 28.000.000 |
+| [Titel 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=4.11): Beperking ammoniakemissie bij industriële piekbelasters | [4.11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=4.11.2) |   |   | 02-12-2024 t/m 29-01-2025 | € 54.000.000 |
+
+##### Artikel 2. Rentepercentages [Regeling nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474)
+
+De percentages, bedoeld in [artikel 3.9.9 van de Regeling nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.9.9), bedragen voor de in 2025 aangevraagde subsidies voor innovatiekredieten:
+
+- a. het basispercentage: 3 procent per jaar;
+
+- b. de opslag voor technische ontwikkelingsprojecten: 15 procent;
+
+- c. de opslag voor klinische ontwikkelingsprojecten: 25 procent.
+
+##### Artikel 3. Openstelling [Regeling Europese EZK- en LNV-subsidies 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045685)
+
+1. Als perioden waarin subsidieaanvragen kunnen worden ingediend krachtens de in kolom 1 genoemde titels van de [Regeling Europese EZK- en LNV-subsidies 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045685) en de in kolom 2 genoemde artikelen van die regeling, in voorkomende gevallen verbijzonderd naar de in kolom 3 omschreven of aangeduide groepen van aanvragers, programma’s, projecten of aanvragen, en de in kolom 4 omschreven thema’s of programmalijnen, worden vastgesteld de daarbij behorende perioden, genoemd in kolom 5. Aanvragen zijn tijdig ingediend indien zij op de genoemde einddatum vóór 17.00 uur zijn ontvangen. Een subsidieaanvraag in het kader van de brede weersverzekering is tijdig ingediend indien deze op de genoemde einddatum uiterlijk om 23:59 uur is ontvangen.
+
+2. Als subsidieplafond wordt per in kolom 5 genoemde periode het daarbij behorende in kolom 6 genoemde bedrag vastgesteld.
+
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| --- | --- | --- | --- | --- | --- |
+| Instrument | Artikel | Groep | Thema/programma | Openstelling | Plafond |
+| [Titel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&titeldeel=5.4): Interventietypes in de sector bijenteelt | [5.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=5.4.2) |   |   | 01-12-2024 t/m 01-02-2025 | € 1.180.688 |
+| [Titel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&titeldeel=5.5): Brede weersverzekering | [5.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=5.5.2) |   |   | 01-03-2025 t/m 15-05-2025 | € 17.500.000 |
+| [Titel 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&titeldeel=5.6): Samenwerken aan innovatie door operationele groepen in het kader van EIP | [5.6.2, tweede en zesde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&artikel=5.6.2) |   | b. Het minder toepassen van het verwijderen van een deel van de staart bij biggen in de varkenshouderij | 19-02-2025 t/m 02-04-2025 | € 1.780.990,39 |
+
+##### Artikel 4. Intrekken Regelingen
+
+De volgende regelingen worden ingetrokken:
+
+- a. de [Regeling openstelling EZK- en LNV-subsidies 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046035);
+
+- b. de [Regeling openstelling EZK- en LNV-subsidies 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0047678).
+
+##### Artikel 5. Inwerkingtreding
+
+Deze regeling treedt in werking met ingang van 1 januari 2025.
+
+##### Artikel 6. Citeertitel
+
+Deze regeling wordt aangehaald als: Regeling openstelling EZK- en LNV-subsidies 2025.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
