@@ -4,7 +4,7 @@ identifier: "BWBR0035971"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2024-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035971"
 soort: "ministeriele-regeling"
@@ -60,6 +60,8 @@ In deze regeling wordt verstaan onder:
 
 - **certificaat van oorsprong voor niet-netlevering:** een certificaat van oorsprong voor elektriciteit die op een installatie of op een directe lijn wordt ingevoed;
 
+- **conversie:** omzetting van energie uit hernieuwbare bronnen in een andere vorm van energie uit hernieuwbare bronnen;
+
 - **EAN-code:** uniek 18-cijferig nummer dat dient om een productie-installatie of een productie-eenheid op het net te identificeren;
 
 - **eindafnemer:** een afnemer aan wie uitsluitend voor eigen verbruik energie uit hernieuwbare energiebronnen of niet-hernieuwbare elektriciteit wordt geleverd;
@@ -72,7 +74,7 @@ In deze regeling wordt verstaan onder:
 
 - **hoogrenderende warmtekrachtkoppeling:** warmtekrachtkoppeling die voldoet aan bijlage I bij [richtlijn 2012/27](32012L0027)/EU;
 
-- **HR-WKK-eenheid:** een onderdeel binnen een productie-installatie dat zelfstandig warmte en elektriciteit of mechanische energie opwekt op een zodanige wijze dat sprake is van hoogrenderende warmtekrachtkoppeling en waarvoor op grond van de meetvoorwaarden, opgenomen in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&bijlage=2A&z=2024-01-01&g=2024-01-01), een systeemgrens is bepaald;
+- **HR-WKK-eenheid:** een onderdeel binnen een productie-installatie dat zelfstandig warmte en elektriciteit of mechanische energie opwekt op een zodanige wijze dat sprake is van hoogrenderende warmtekrachtkoppeling en waarvoor op grond van de meetvoorwaarden, opgenomen in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&bijlage=2A&z=2025-01-01&g=2025-01-01), een systeemgrens is bepaald;
 
 - **HR-WKK-elektriciteit:** de elektriciteit die wordt opgewekt door middel van hoogrenderende warmtekrachtkoppeling en die voldoet aan de rendementseisen als bedoeld in bijlage II bij [richtlijn 2012/27](32012L0027)/EU;
 
@@ -88,9 +90,9 @@ In deze regeling wordt verstaan onder:
 
 - **meetverantwoordelijke:** degene die op grond van de voorwaarden, bedoeld in [artikel 31, eerste lid, onderdeel b, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=31), door de netbeheerder van het landelijk hoogspanningsnet is erkend, degene die op grond van de voorwaarden, bedoeld in [artikel 12b, eerste lid, onderdeel b, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=12b), door de netbeheerder van het landelijk hoofdtransportnet voor gas is erkend en een meetbedrijf als bedoeld in [artikel 1 van de Wet implementatie EU-richtlijn hernieuwbare energie voor garanties van oorsprong](https://wetten.overheid.nl/jci1.3:c:BWBR0046743&artikel=1) of [artikel 24a van de Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=24a);
 
-- **minister:** Minister voor Klimaat en Energie;
+- **minister:** Minister van Klimaat en Groene Groei;
 
-- **naar haar aard zuivere biomassa:** zuivere biomassa met een aandeel onvermijdbare kunststoffen en ander materiaal van lang-cyclische organische oorsprong van ten hoogste 3,00 massaprocent per partij en die is geclassificeerd onder de groepsindeling van tabel 1 inzake typologie en herkomst van de NTA 8003:2017, met uitzondering van de ondergroepen 701, 709, 729 en 900 tot en met 909;
+- **naar haar aard zuivere biomassa:** zuivere biomassa met een aandeel onvermijdbare kunststoffen en ander materiaal van lang-cyclische organische oorsprong van ten hoogste 1,00 massaprocent per partij en die is geclassificeerd onder de groepsindeling van tabel 1 inzake typologie en herkomst van de NTA 8003:2017, met uitzondering van de ondergroepen 701, 709, 729 en 900 tot en met 909;
 
 - **naar zijn aard zuiver biogas:** stortgas, rioolwaterzuiveringsgas en biogas dat is ontstaan door inwerking van micro-organismen op biologisch afbreekbare materialen en gas uit hernieuwbare energiebronnen dat is ontstaan na vergassing van naar haar aard zuivere biomassa;
 
@@ -108,15 +110,9 @@ In deze regeling wordt verstaan onder:
 
 - 1°. de inzet in een turbine of organische rankine cyclus waarmee elektriciteit wordt opgewekt;
 
-- 2°. de inzet bij aardgasexpansie;
+- 2°. het drogen en verwarmen van inputstromen van een productie-installatie voor het opwekken van energie uit hernieuwbare bronnen, inclusief het voorverwarmen van verbrandingslucht;
 
-- 3°. het drogen en verwarmen van inputstromen van een productie-installatie voor het opwekken van elektriciteit, inclusief het voorverwarmen van verbrandingslucht;
-
-- 4°. de inzet voor rookgasreiniging en waterzuivering van een productie-installatie;
-
-- 5°. de verwarming van een installatie of een onderdeel daarvan, waarmee energie of een energiedrager wordt geproduceerd;
-
-- 6°. de verwarming van opslagtanks van grondstoffen en producten die gebruikt worden om energie mee op te wekken;
+- 3°. de inzet voor rookgasreiniging en waterzuivering van een productie-installatie;
 
 - d. klimaatregeling van koelcellen en industriële koelingstoepasssingen;
 
@@ -131,6 +127,8 @@ In deze regeling wordt verstaan onder:
 - **productie-installatie:** een installatie bestemd voor het opwekken van energie, bestaande uit één of meer productie-eenheden en die is gelegen in Nederland of binnen de Nederlandse exclusieve economische zone;
 
 - **richtlijn 2012/27/EU:** [richtlijn 2012/27](32012L0027)/EU van het Europees Parlement en de Raad van de Europese Unie van 25 oktober 2012 betreffende energie-efficiëntie, tot wijziging van [Richtlijnen 2009/125/EG](32009L0125) en [2010/30](32010L0030)/EU en houdende intrekking van Richtlijnen [2004/8/EG](32004L0008) en [2006/32/EG](32006L0032) (PbEU 2012, L 315);
+
+- **richtlijn (EU) 2018/2001:** [richtlijn (EU) 2018/2001](32018L2001) van het Europees Parlement en de Raad van 11 december 2018 ter bevordering van het gebruik van energie uit hernieuwbare bronnen (PbEU 2018, L 328);
 
 - **systeemgrens van een AVI-eenheid:** een fictieve gesloten omhulling van de AVI-eenheid die de AVI-eenheid onderscheidt van andere AVI-eenheden binnen het bedrijf;
 
@@ -182,7 +180,7 @@ In deze regeling wordt verstaan onder:
 
 3. Het tweede lid, onderdeel b, is niet van toepassing op een producent voor zover deze een productie-installatie in stand houdt met een nominaal elektrisch vermogen kleiner dan 15 kW.
 
-4. Indien [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=7&z=2024-01-01&g=2024-01-01) bepaalt dat een producent een meetprotocol moet opstellen, legt de producent bij het verzoek, bedoeld in het eerste lid, een op basis van artikel 7 goedgekeurd meetprotocol over aan de netbeheerder. De netbeheerder stelt vast of een toepasselijk meetprotocol aanwezig is dat is goedgekeurd door een meetverantwoordelijke vòòr de eerste dag van de kalendermaand waarin de producent het verzoek heeft ingediend.
+4. Indien [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=7&z=2025-01-01&g=2025-01-01) bepaalt dat een producent een meetprotocol moet opstellen, legt de producent bij het verzoek, bedoeld in het eerste lid, een op basis van artikel 7 goedgekeurd meetprotocol over aan de netbeheerder. De netbeheerder stelt vast of een toepasselijk meetprotocol aanwezig is dat is goedgekeurd door een meetverantwoordelijke vòòr de eerste dag van de kalendermaand waarin de producent het verzoek heeft ingediend.
 
 5. De producent die een productie-installatie in stand houdt met een aansluitwaarde gelijk aan of kleiner dan 3 × 80 A die een verzoek als bedoeld in het eerste lid, onderdeel a indient, kan afzien van het installeren van een meetinrichting die geschikt is voor meting van de hoeveelheid opgewekte elektriciteit uit hernieuwbare energiebronnen die op een net of een installatie wordt ingevoed. Hij maakt hiervan melding op het formulier bedoeld in het eerste lid.
 
@@ -212,9 +210,9 @@ De minister verifieert voorafgaand aan het openen van een rekening door een leve
 
 - b. voor gas, de voorwaarden op grond van [artikel 12b, eerste lid, onderdeel b, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=12b);
 
-- c. voor thermische energie, de voorwaarden die zijn opgenomen in [bijlage 2C](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&bijlage=2C&z=2024-01-01&g=2024-01-01);
+- c. voor thermische energie, de voorwaarden die zijn opgenomen in [bijlage 2C](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&bijlage=2C&z=2025-01-01&g=2025-01-01);
 
-- d. voor ander gas, de voorwaarden die zijn opgenomen in [bijlage 2F](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&bijlage=2F&z=2024-01-01&g=2024-01-01).
+- d. voor ander gas, de voorwaarden die zijn opgenomen in [bijlage 2F](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&bijlage=2F&z=2025-01-01&g=2025-01-01).
 
 2. In het geval de nauwkeurigheidseisen van de meetinrichting op de aansluiting waarachter deze installatie zich bevindt niet passend zijn bij het vermogen van de productie-installatie, voldoet de meetinrichting van de productie-installatie in afwijking van het eerste lid aan de nauwkeurigheidseisen zoals passend bij het vermogen van de productie-installatie.
 
@@ -234,7 +232,7 @@ De minister verifieert voorafgaand aan het openen van een rekening door een leve
 
 3. Indien jaarlijks een meetbericht wordt opgesteld, wordt de meetwaarde toegewezen aan de laatste volledige kalendermaand van de periode die is bemeten.
 
-4. Indien een producent als bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=2&artikel=2&z=2024-01-01&g=2024-01-01), voor de opwekking van duurzame elektriciteit geen meetinrichting heeft die geschikt is voor de meting van de hoeveelheid duurzaam opgewekte elektriciteit die op een net wordt ingevoed, wordt de hoeveelheid duurzaam opgewekte elektriciteit die door de betreffende productie-installaties op een net wordt ingevoed gesteld op nul kWh.
+4. Indien een producent als bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=2&artikel=2&z=2025-01-01&g=2025-01-01), voor de opwekking van duurzame elektriciteit geen meetinrichting heeft die geschikt is voor de meting van de hoeveelheid duurzaam opgewekte elektriciteit die op een net wordt ingevoed, wordt de hoeveelheid duurzaam opgewekte elektriciteit die door de betreffende productie-installaties op een net wordt ingevoed gesteld op nul kWh.
 
 ##### Artikel 6
 
@@ -252,19 +250,19 @@ De minister verifieert voorafgaand aan het openen van een rekening door een leve
 
 - b. het opwekken van duurzame elektriciteit door middel van een afvalverbrandingsinstallatie en aan de producent die deze installatie in stand houdt subsidie op grond van [artikel 72m van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=72m) zoals dat luidde op 31 december 2008, is verleend,
 
-iedere vijf jaar een meetprotocol vast dat voldoet aan de meetvoorwaarden die zijn opgenomen in [bijlage 2A](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&bijlage=2A&z=2024-01-01&g=2024-01-01).
+iedere vijf jaar een meetprotocol vast dat voldoet aan de meetvoorwaarden die zijn opgenomen in [bijlage 2A](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&bijlage=2A&z=2025-01-01&g=2025-01-01).
 
-2. Voor het verkrijgen van garanties van oorsprong stelt een producent die een productie-installatie in stand houdt voor het opwekken van duurzame elektriciteit door middel van naar zijn aard zuiver biogas en waarvan het nominaal elektrisch vermogen van de installatie gelijk is of kleiner is dan 2 MW iedere vijf jaar een meetprotocol vast dat voldoet aan de meetvoorwaarden die zijn opgenomen in [bijlage 2B](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&bijlage=2B&z=2024-01-01&g=2024-01-01).
+2. Voor het verkrijgen van garanties van oorsprong stelt een producent die een productie-installatie in stand houdt voor het opwekken van duurzame elektriciteit door middel van naar zijn aard zuiver biogas en waarvan het nominaal elektrisch vermogen van de installatie gelijk is of kleiner is dan 2 MW iedere vijf jaar een meetprotocol vast dat voldoet aan de meetvoorwaarden die zijn opgenomen in [bijlage 2B](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&bijlage=2B&z=2025-01-01&g=2025-01-01).
 
-3. Voor het verkrijgen van garanties van oorsprong stelt een producent die een productie-installatie in stand houdt voor het opwekken van thermische energie uit hernieuwbare bronnen iedere vijf jaar een meetprotocol vast dat voldoet aan de meetvoorwaarden die zijn opgenomen in [bijlage 2C](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&bijlage=2C&z=2024-01-01&g=2024-01-01).
+3. Voor het verkrijgen van garanties van oorsprong stelt een producent die een productie-installatie in stand houdt voor het opwekken van thermische energie uit hernieuwbare bronnen iedere vijf jaar een meetprotocol vast dat voldoet aan de meetvoorwaarden die zijn opgenomen in [bijlage 2C](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&bijlage=2C&z=2025-01-01&g=2025-01-01).
 
-4. Voor het verkrijgen van garanties van oorsprong stelt een producent die een productie-installatie in stand houdt voor het opwekken van gas uit hernieuwbare energiebronnen iedere vijf jaar een meetprotocol vast dat voldoet aan de meetvoorwaarden die zijn opgenomen in [bijlage 2D](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&bijlage=2d&z=2024-01-01&g=2024-01-01).
+4. Voor het verkrijgen van garanties van oorsprong stelt een producent die een productie-installatie in stand houdt voor het opwekken van gas uit hernieuwbare energiebronnen iedere vijf jaar een meetprotocol vast dat voldoet aan de meetvoorwaarden die zijn opgenomen in [bijlage 2D](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&bijlage=2d&z=2025-01-01&g=2025-01-01).
 
-5. Voor het verkrijgen van garanties van oorsprong stelt een producent die een productie-installatie in stand houdt voor het opwekken van HR-WKK-elektriciteit iedere vijf jaar een meetprotocol vast dat voldoet aan de meetvoorwaarden die zijn opgenomen in [bijlage 2E](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&bijlage=2e&z=2024-01-01&g=2024-01-01).
+5. Voor het verkrijgen van garanties van oorsprong stelt een producent die een productie-installatie in stand houdt voor het opwekken van HR-WKK-elektriciteit iedere vijf jaar een meetprotocol vast dat voldoet aan de meetvoorwaarden die zijn opgenomen in [bijlage 2E](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&bijlage=2e&z=2025-01-01&g=2025-01-01).
 
-6. Voor het verkrijgen van garanties van oorsprong stelt een producent die een productie-installatie in stand houdt voor het opwekken van ander gas uit hernieuwbare bronnen iedere vijf jaar een meetprotocol vast dat voldoet aan de meetvoorwaarden die zijn opgenomen in [bijlage 2F](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&bijlage=2F&z=2024-01-01&g=2024-01-01).
+6. Voor het verkrijgen van garanties van oorsprong stelt een producent die een productie-installatie in stand houdt voor het opwekken van ander gas uit hernieuwbare bronnen iedere vijf jaar een meetprotocol vast dat voldoet aan de meetvoorwaarden die zijn opgenomen in [bijlage 2F](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&bijlage=2F&z=2025-01-01&g=2025-01-01).
 
-7. De producent laat het meetprotocol voor de eerste dag van de kalendermaand waarin hij het verzoek, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=2&artikel=2&z=2024-01-01&g=2024-01-01), indient, goedkeuren door een meetverantwoordelijke.
+7. De producent laat het meetprotocol voor de eerste dag van de kalendermaand waarin hij het verzoek, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=2&artikel=2&z=2025-01-01&g=2025-01-01), indient, goedkeuren door een meetverantwoordelijke.
 
 8. Indien de producent voornemens is een aanpassing door te voeren die een wijziging van het meetprotocol tot gevolg heeft, draagt hij er zorg voor dat alvorens hij die aanpassing doorvoert, een nieuw meetprotocol wordt opgesteld en wordt goedgekeurd door een meetverantwoordelijke. De termijn van 5 jaar, bedoeld in het eerste tot en met het vijfde lid, wordt geacht aan te vangen op het moment van goedkeuring van het nieuwe meetprotocol.
 
@@ -272,7 +270,7 @@ iedere vijf jaar een meetprotocol vast dat voldoet aan de meetvoorwaarden die zi
 
 ##### Artikel 8
 
-1. Indien de producent op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=7&z=2024-01-01&g=2024-01-01) een meetprotocol vaststelt, draagt de producent er zorg voor dat alle energiestromen die zijn omschreven in de meetvoorwaarden die zijn opgenomen in [bijlagen 2A tot en met 2F](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&bijlage=2A&z=2024-01-01&g=2024-01-01) en die de systeemgrens passeren gemeten worden volgens het meetprotocol.
+1. Indien de producent op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=7&z=2025-01-01&g=2025-01-01) een meetprotocol vaststelt, draagt de producent er zorg voor dat alle energiestromen die zijn omschreven in de meetvoorwaarden die zijn opgenomen in [bijlagen 2A tot en met 2F](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&bijlage=2A&z=2025-01-01&g=2025-01-01) en die de systeemgrens passeren gemeten worden volgens het meetprotocol.
 
 2. Indien een meetverantwoordelijke afwijkingen van het meetprotocol constateert meldt de meetverantwoordelijke de Minister dat binnen vier weken na constatering.
 
@@ -288,15 +286,15 @@ iedere vijf jaar een meetprotocol vast dat voldoet aan de meetvoorwaarden die zi
 
 ##### Artikel 10
 
-1. Indien de producent op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=7&z=2024-01-01&g=2024-01-01) een meetprotocol vaststelt, draagt de producent er zorg voor dat per kalendermaand onder toepassing van het meetprotocol een meetrapport wordt opgesteld dat:
+1. Indien de producent op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=7&z=2025-01-01&g=2025-01-01) een meetprotocol vaststelt, draagt de producent er zorg voor dat per kalendermaand onder toepassing van het meetprotocol een meetrapport wordt opgesteld dat:
 
-- a. voldoet aan de meetvoorwaarden, opgenomen in de bij deze regeling behorende [bijlagen 2A tot en met 2F](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&bijlage=2A&z=2024-01-01&g=2024-01-01);
+- a. voldoet aan de meetvoorwaarden, opgenomen in de bij deze regeling behorende [bijlagen 2A tot en met 2F](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&bijlage=2A&z=2025-01-01&g=2025-01-01);
 
 - b. de wijze van totstandkoming van de meetgegevens beschrijft, en
 
 - c. geverifieerd wordt door een meetverantwoordelijke, waarbij de meetverantwoordelijke ten minste de meetgegevens en de door de producent opgegeven brandstof ten opzichte van de geproduceerde energie controleert.
 
-2. Het eerste lid is niet van toepassing op producenten als bedoeld in [artikel 17, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=4&artikel=17&z=2024-01-01&g=2024-01-01).
+2. Het eerste lid is niet van toepassing op producenten als bedoeld in [artikel 17, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=4&artikel=17&z=2025-01-01&g=2025-01-01).
 
 ##### Artikel 11
 
@@ -310,7 +308,7 @@ iedere vijf jaar een meetprotocol vast dat voldoet aan de meetvoorwaarden die zi
 
 3. Indien in een productie-installatie naar zijn aard zuiver biogas wordt verwerkt en de producent subsidie ontvangt op grond van [artikel 2 van het Besluit stimulering duurzame energieproductie en klimaattransitie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=2), rapporteert de producent gelijktijdig met de overlegging van het meetrapport over de ingezette biomassa.
 
-4. Indien in een productie-installatie biomassa of overige brandstoffen worden verwerkt, verklaart de producent gelijktijdig met het overleggen van het meetbericht, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.1&artikel=5&z=2024-01-01&g=2024-01-01), welk gewogen percentage van de door zijn productie-installatie in de desbetreffende kalendermaand of het desbetreffende kalenderjaar opgewekte totale hoeveelheid energie uit hernieuwbare energiebronnen is opgewekt door middel van:
+4. Indien in een productie-installatie biomassa of overige brandstoffen worden verwerkt, verklaart de producent gelijktijdig met het overleggen van het meetbericht, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.1&artikel=5&z=2025-01-01&g=2025-01-01), welk gewogen percentage van de door zijn productie-installatie in de desbetreffende kalendermaand of het desbetreffende kalenderjaar opgewekte totale hoeveelheid energie uit hernieuwbare energiebronnen is opgewekt door middel van:
 
 - a. zuivere biomassa;
 
@@ -322,11 +320,11 @@ iedere vijf jaar een meetprotocol vast dat voldoet aan de meetvoorwaarden die zi
 
 ##### Artikel 12
 
-1. In afwijking van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=11&z=2024-01-01&g=2024-01-01) legt een producent die een productie-installatie voor gas uit hernieuwbare energiebronnen in stand houdt het meetrapport uiterlijk 20 dagen na afloop van de kalendermaand waar het meetrapport betrekking op heeft over aan de netbeheerder.
+1. In afwijking van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=11&z=2025-01-01&g=2025-01-01) legt een producent die een productie-installatie voor gas uit hernieuwbare energiebronnen in stand houdt het meetrapport uiterlijk 20 dagen na afloop van de kalendermaand waar het meetrapport betrekking op heeft over aan de netbeheerder.
 
 2. De netbeheerder berekent op basis van de in het meetrapport opgenomen meetgegevens de hoeveelheid gas uit hernieuwbare energiebronnen in m3(n) aardgasequivalent.
 
-3. De netbeheerder vermeldt de in het tweede lid bedoelde hoeveelheid gas in het meetbericht, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.1&artikel=5&z=2024-01-01&g=2024-01-01).
+3. De netbeheerder vermeldt de in het tweede lid bedoelde hoeveelheid gas in het meetbericht, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.1&artikel=5&z=2025-01-01&g=2025-01-01).
 
 ##### Artikel 13
 
@@ -340,7 +338,7 @@ Deze paragraaf is niet van toepassing op afvalverbrandingsinstallaties.
 
 ##### Artikel 15
 
-1. Indien in een productie-installatie zuivere biomassa wordt verwerkt, verklaart de producent dat hij door middel van een daartoe geëigende methode als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=4&artikel=16&z=2024-01-01&g=2024-01-01) aan de hand van bemonstering per partij vaststelt dat het materiaal waaruit de energie uit hernieuwbare energiebronnen wordt opgewekt, is aan te merken als zuivere biomassa.
+1. Indien in een productie-installatie zuivere biomassa wordt verwerkt, verklaart de producent dat hij door middel van een daartoe geëigende methode als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=4&artikel=16&z=2025-01-01&g=2025-01-01) aan de hand van bemonstering per partij vaststelt dat het materiaal waaruit de energie uit hernieuwbare energiebronnen wordt opgewekt, is aan te merken als zuivere biomassa.
 
 2. Indien in een productie-installatie biomassa wordt verwerkt die een behandeling heeft ondergaan, zoals pyrolyse, torrefactie of carbonisatie, hanteert de producent in afwijking van het eerste lid, een daartoe geëigende methode om vast te stellen dat de biomassa vóór de behandeling is aan te merken als zuivere biomassa.
 
@@ -352,13 +350,13 @@ Deze paragraaf is niet van toepassing op afvalverbrandingsinstallaties.
 
 ##### Artikel 16
 
-1. De methode van vaststelling, bedoeld in [artikel 15, eerste, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=4&artikel=15&z=2024-01-01&g=2024-01-01), is geëigend als de producent ter zake van de werkzaamheden voor de bepaling van het biologisch afbreekbare gedeelte van de biomassa beschikt over:
+1. De methode van vaststelling, bedoeld in [artikel 15, eerste, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=4&artikel=15&z=2025-01-01&g=2025-01-01), is geëigend als de producent ter zake van de werkzaamheden voor de bepaling van het biologisch afbreekbare gedeelte van de biomassa beschikt over:
 
 - a. een productcertificaat als bedoeld in de Kiwa-beoordelingsrichtlijn BRL-K 10016 voor de vaststelling van het aandeel biomassa in secundaire brandstoffen, of
 
 - b. een schriftelijk bewijs dat hij voldoet aan vergelijkbare procesnormen als vastgelegd in Kiwa-beoordelingsrichtlijn BRL-K 10016.
 
-2. De methode van vaststelling, bedoeld in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=4&artikel=15&z=2024-01-01&g=2024-01-01), is geëigend als de producent beschikt over:
+2. De methode van vaststelling, bedoeld in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=4&artikel=15&z=2025-01-01&g=2025-01-01), is geëigend als de producent beschikt over:
 
 - a. een certificaat behorend bij de behandelde biomassa, afgegeven door een certificeringsinstantie, waaruit blijkt dat de oorsprong van de biomassa van die partijen volledig is aan te merken als zuivere biomassa, en
 
@@ -386,9 +384,9 @@ Deze paragraaf is niet van toepassing op afvalverbrandingsinstallaties.
 
 - a. per kalendermaand de hoeveelheid, aard en, in honderdsten van procenten nauwkeurig, de verhouding van de in de productie-installatie verwerkte brandstoffen;
 
-- b. of de door de producent op grond van [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=11&z=2024-01-01&g=2024-01-01), meegedeelde percentages overeenstemmen met de verhouding van de onder a bedoelde brandstoffen.
+- b. of de door de producent op grond van [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=11&z=2025-01-01&g=2025-01-01), meegedeelde percentages overeenstemmen met de verhouding van de onder a bedoelde brandstoffen.
 
-4. Indien op verzoek van de producent op de garantie van oorsprong voor gas uit hernieuwbare energiebronnen de gegevens, bedoeld in [artikel 24 derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=6&artikel=24&z=2024-01-01&g=2024-01-01), worden opgenomen, blijkt uit de beheersverklaring of uit het assurancerapport tevens dat deze gegevens overeenkomen met de gegevens uit de audit die is uitgevoerd op het toegepaste duurzaamheidssysteem.
+4. Indien op verzoek van de producent op de garantie van oorsprong voor gas uit hernieuwbare energiebronnen de gegevens, bedoeld in [artikel 24 derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=6&artikel=24&z=2025-01-01&g=2025-01-01), worden opgenomen, blijkt uit de beheersverklaring of uit het assurancerapport tevens dat deze gegevens overeenkomen met de gegevens uit de audit die is uitgevoerd op het toegepaste duurzaamheidssysteem.
 
 5. De door de producent opgestelde beheersverklaring, bedoeld in het tweede lid, wordt ingediend met gebruikmaking van een door de minister beschikbaar gesteld formulier.
 
@@ -418,7 +416,7 @@ De minister bepaalt na ontvangst van het meetrapport op verzoek van de producent
 
 ##### Artikel 20
 
-1. Dit artikel is uitsluitend van toepassing op een producent als bedoeld in [artikel 7, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=7&z=2024-01-01&g=2024-01-01).
+1. Dit artikel is uitsluitend van toepassing op een producent als bedoeld in [artikel 7, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=7&z=2025-01-01&g=2025-01-01).
 
 2. Het rendement van een afvalverbrandingsinstallatie of van een AVI-eenheid bedraagt:
 
@@ -448,7 +446,7 @@ Em-1 = de hoeveelheid opgewekte elektriciteit in de maand voorafgaand aan m
 
 Rm-1 = het rendement als bedoeld in het derde lid voor de maand voorafgaand aan m.
 
-4. De minister bepaalt na ontvangst van het meetrapport het rendement en het gewogen maandelijks rendement van een afvalverbrandingsinstallatie en van een AVI-eenheid. Het rendement wordt niet bepaald voor de periode die ligt vóór het moment dat de producent een verzoek als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=2&artikel=2&z=2024-01-01&g=2024-01-01), heeft gedaan. Het gewogen maandelijks rendement wordt in het eerste jaar bepaald over de maanden nadat de producent een verzoek als bedoeld in artikel 2, eerste lid, heeft gedaan.
+4. De minister bepaalt na ontvangst van het meetrapport het rendement en het gewogen maandelijks rendement van een afvalverbrandingsinstallatie en van een AVI-eenheid. Het rendement wordt niet bepaald voor de periode die ligt vóór het moment dat de producent een verzoek als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=2&artikel=2&z=2025-01-01&g=2025-01-01), heeft gedaan. Het gewogen maandelijks rendement wordt in het eerste jaar bepaald over de maanden nadat de producent een verzoek als bedoeld in artikel 2, eerste lid, heeft gedaan.
 
 5. De minister kan het product van de massa van het in de afvalverbrandingsinstallatie en de AVI-eenheid per kalendermaand verwerkte afval en overige brandstoffen, en de calorische waarde van het verwerkte afval en overige brandstoffen mede bepalen op basis van de in de meetvoorwaarden beschreven iteratieve methode.
 
@@ -460,21 +458,21 @@ Een garantie van oorsprong of een certificaat van oorsprong heeft betrekking op 
 
 ##### Artikel 22
 
-1. De minister boekt garanties van oorsprong en certificaten van oorsprong die betrekking hebben op de energie die is opgewekt vanaf de eerste dag van de kalendermaand waarin de producent het verzoek, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=2&artikel=2&z=2024-01-01&g=2024-01-01), heeft gedaan op de door de producent gespecificeerde rekening, indien:
+1. De minister boekt garanties van oorsprong en certificaten van oorsprong die betrekking hebben op de energie die is opgewekt vanaf de eerste dag van de kalendermaand waarin de producent het verzoek, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=2&artikel=2&z=2025-01-01&g=2025-01-01), heeft gedaan op de door de producent gespecificeerde rekening, indien:
 
-- a. de producent beschikt over een geldige vaststelling, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=2&artikel=2&z=2024-01-01&g=2024-01-01), en
+- a. de producent beschikt over een geldige vaststelling, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=2&artikel=2&z=2025-01-01&g=2025-01-01), en
 
-- b. het meetbericht, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.1&artikel=5&z=2024-01-01&g=2024-01-01) of de benodigde meetgegevens, bedoeld in artikel 5, eerste lid, onderdeel a en [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=9&z=2024-01-01&g=2024-01-01), eerste lid en voor zover van toepassing de biomassapercentages met betrekking tot de hoeveelheid energie uit hernieuwbare energiebronnen of HR-WKK-elektriciteit die vanaf dat moment is opgewekt zijn overlegd.
+- b. het meetbericht, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.1&artikel=5&z=2025-01-01&g=2025-01-01) of de benodigde meetgegevens, bedoeld in artikel 5, eerste lid, onderdeel a en [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=9&z=2025-01-01&g=2025-01-01), eerste lid en voor zover van toepassing de biomassapercentages met betrekking tot de hoeveelheid energie uit hernieuwbare energiebronnen of HR-WKK-elektriciteit die vanaf dat moment is opgewekt zijn overlegd.
 
-2. Indien de producent een afvalverbrandingsinstallatie in stand houdt, hanteert de minister bij het bepalen van het aantal uit te geven garanties van oorsprong de percentages, bedoeld in [artikel 19, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=5&artikel=19&z=2024-01-01&g=2024-01-01).
+2. Indien de producent een afvalverbrandingsinstallatie in stand houdt, hanteert de minister bij het bepalen van het aantal uit te geven garanties van oorsprong de percentages, bedoeld in [artikel 19, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=5&artikel=19&z=2025-01-01&g=2025-01-01).
 
 ##### Artikel 23
 
 1. Een rekeninghouder die over garanties van oorsprong of certificaten van oorsprong beschikt kan deze garanties van oorsprong, niet zijnde garanties van oorsprong voor niet-netlevering, of certificaten van oorsprong, niet zijnde certificaten van oorsprong voor niet-netlevering, overboeken op een andere rekening.
 
-2. Een producent of handelaar die over garanties van oorsprong beschikt waarop de gegevens, genoemd in [artikel 24, derde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=6&artikel=24&z=2024-01-01&g=2024-01-01), zijn vermeld, die hij wil gebruiken of wil doen gebruiken om hernieuwbare brandstofeenheden als bedoeld in [artikel 9.7.3.1. van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.3.1) te verwerven, boekt deze garanties over op de rekening van de Nederlandse Emissieautoriteit.
+2. Een producent of handelaar die over garanties van oorsprong beschikt waarop de gegevens, genoemd in [artikel 24, derde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=6&artikel=24&z=2025-01-01&g=2025-01-01), zijn vermeld, die hij wil gebruiken of wil doen gebruiken om hernieuwbare brandstofeenheden als bedoeld in [artikel 9.7.3.1. van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.3.1) te verwerven, boekt deze garanties over op de rekening van de Nederlandse Emissieautoriteit.
 
-3. Een exploitant als bedoeld in [artikel 16.2a, tweede lid, van de Wet Milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.2a) die over garanties van oorsprong voor gas uit hernieuwbare energiebronnen beschikt waarop de gegevens, genoemd in [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=6&artikel=24&z=2024-01-01&g=2024-01-01), zijn vermeld, die hij wil gebruiken of wil doen gebruiken om de biomassafractie te bepalen conform artikel 39, vierde lid, van [Uitvoeringsverordening (EU) 2018/2066](32066R2018) van de Commissie van 19 december 2018 inzake de monitoring en rapportage van de emissies van broeikasgassen overeenkomstig [Richtlijn 2003/87/EG](32003L0087) van het Europees Parlement en de Raad en tot wijziging van [Verordening (EU) nr. 601/2012](32012R0601) van de Commissie (PbEU 2018, L 334), boekt deze garanties van oorsprong van zijn rekening af onder het doel “Emissiehandel”.
+3. Een exploitant als bedoeld in [artikel 16.2a, tweede lid, van de Wet Milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.2a) die over garanties van oorsprong voor gas uit hernieuwbare energiebronnen beschikt waarop de gegevens, genoemd in [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=6&artikel=24&z=2025-01-01&g=2025-01-01), zijn vermeld, die hij wil gebruiken of wil doen gebruiken om de biomassafractie te bepalen conform artikel 39, vierde lid, van [Uitvoeringsverordening (EU) 2018/2066](32066R2018) van de Commissie van 19 december 2018 inzake de monitoring en rapportage van de emissies van broeikasgassen overeenkomstig [Richtlijn 2003/87/EG](32003L0087) van het Europees Parlement en de Raad en tot wijziging van [Verordening (EU) nr. 601/2012](32012R0601) van de Commissie (PbEU 2018, L 334), boekt deze garanties van oorsprong van zijn rekening af onder het doel “Emissiehandel”.
 
 ##### Artikel 24
 
@@ -488,7 +486,7 @@ Een garantie van oorsprong of een certificaat van oorsprong heeft betrekking op 
 
 - 1°. de soort biomassa;
 
-- 2°. de afgegeven certificaten, bedoeld in [artikel 11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=11&z=2024-01-01&g=2024-01-01);
+- 2°. de afgegeven certificaten, bedoeld in [artikel 11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=11&z=2025-01-01&g=2025-01-01);
 
 - d. de begindatum en einddatum van de productie;
 
@@ -528,7 +526,7 @@ Een garantie van oorsprong of een certificaat van oorsprong heeft betrekking op 
 
 - e. broeikasgasemissie zoals berekend door het duurzaamheidsysteem;
 
-- f. energieproductie zonder, indien toegepast, correctie voor eigen gebruik van het gas als vermeld in [artikel 6 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.1&artikel=6&z=2024-01-01&g=2024-01-01).
+- f. energieproductie zonder, indien toegepast, correctie voor eigen gebruik van het gas als vermeld in [artikel 6 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.1&artikel=6&z=2025-01-01&g=2025-01-01).
 
 4. Op een certificaat van oorsprong wordt in ieder geval vermeld:
 
@@ -564,7 +562,7 @@ Een garantie van oorsprong of een certificaat van oorsprong heeft betrekking op 
 
 - 2°. voor de productie-installatie ontvangen of genoten overheidssteun en het type overheidssteun;
 
-- 3°. de afgegeven certificaten, bedoeld in [artikel 11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=11&z=2024-01-01&g=2024-01-01), in het geval van gebruik van biomassa.
+- 3°. de afgegeven certificaten, bedoeld in [artikel 11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=11&z=2025-01-01&g=2025-01-01), in het geval van gebruik van biomassa.
 
 ##### Artikel 25
 
@@ -574,7 +572,7 @@ De leverancier boekt als bewijs van levering van gas uit hernieuwbare energiebro
 
 1. Een certificaat van oorsprong en een garantie van oorsprong, niet zijnde een garantie van oorsprong voor gas uit hernieuwbare bronnen of een garantie van oorsprong voor ander gas uit hernieuwbare bronnen die is overgeboekt aan de Nederlandse Emissieautoriteit, verliest haar geldigheid:
 
-- a. na afboeking als bewijs van levering als bedoeld in [artikel 77a van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=77a), [artikel 5 van de Wet implementatie EU-richtlijn hernieuwbare energie voor garanties van oorsprong](https://wetten.overheid.nl/jci1.3:c:BWBR0046743&artikel=5), [artikel 28a van de Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=28a) en [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=6&artikel=25&z=2024-01-01&g=2024-01-01);
+- a. na afboeking als bewijs van levering als bedoeld in [artikel 77a van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=77a), [artikel 5 van de Wet implementatie EU-richtlijn hernieuwbare energie voor garanties van oorsprong](https://wetten.overheid.nl/jci1.3:c:BWBR0046743&artikel=5), [artikel 28a van de Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=28a) en [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=6&artikel=25&z=2025-01-01&g=2025-01-01);
 
 - b. uiterlijk na het verstrijken van de twaalf maanden na de einddatum van de productie van de energie waarvoor de garantie van oorsprong of het certificaat van oorsprong is geboekt.
 
@@ -590,13 +588,13 @@ De leverancier boekt als bewijs van levering van gas uit hernieuwbare energiebro
 
 ##### Artikel 28
 
-1. De minister corrigeert het ten gevolge van een afwijking ontstane verschil door garanties van oorsprong of certificaten van oorsprong bij te boeken of af te boeken van de desbetreffende rekening nadat energie is aangemerkt als niet duurzaam overeenkomstig [artikel 17, zevende of elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=4&artikel=17&z=2024-01-01&g=2024-01-01), of indien de overeenkomstig [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=11&z=2024-01-01&g=2024-01-01), meegedeelde percentages afwijken van:
+1. De minister corrigeert het ten gevolge van een afwijking ontstane verschil door garanties van oorsprong of certificaten van oorsprong bij te boeken of af te boeken van de desbetreffende rekening nadat energie is aangemerkt als niet duurzaam overeenkomstig [artikel 17, zevende of elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=4&artikel=17&z=2025-01-01&g=2025-01-01), of indien de overeenkomstig [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=11&z=2025-01-01&g=2025-01-01), meegedeelde percentages afwijken van:
 
-- a. de percentages die blijken uit het meetrapport, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=10&z=2024-01-01&g=2024-01-01);
+- a. de percentages die blijken uit het meetrapport, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=10&z=2025-01-01&g=2025-01-01);
 
-- b. de percentages die blijken uit de beheersverklaring of het assurancerapport, bedoeld in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=4&artikel=17&z=2024-01-01&g=2024-01-01).
+- b. de percentages die blijken uit de beheersverklaring of het assurancerapport, bedoeld in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=4&artikel=17&z=2025-01-01&g=2025-01-01).
 
-2. Indien het in [artikel 11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=11&z=2024-01-01&g=2024-01-01), [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=12&z=2024-01-01&g=2024-01-01), of [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=4&artikel=17&z=2024-01-01&g=2024-01-01), bedoelde tijdstip van indiening van het meetrapport, de beheersverklaring of het assurancerapport wordt overschreden, vermindert de minister het aantal garanties van oorsprong of certificaten van oorsprong op de rekening van de rekeninghouder met toepassing van de formule:
+2. Indien het in [artikel 11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=11&z=2025-01-01&g=2025-01-01), [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=12&z=2025-01-01&g=2025-01-01), of [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=4&artikel=17&z=2025-01-01&g=2025-01-01), bedoelde tijdstip van indiening van het meetrapport, de beheersverklaring of het assurancerapport wordt overschreden, vermindert de minister het aantal garanties van oorsprong of certificaten van oorsprong op de rekening van de rekeninghouder met toepassing van de formule:
 
 hoeveelheid af te boeken garanties van oorsprong of certificaten van oorsprong = [EHE/365 * OT] / 1 MWh,
 
@@ -606,7 +604,7 @@ EHE = de hoeveelheid energie, opgewekt in de periode waarop het meetrapport, de 
 
 OT = aantal overschrijdingstijdvakken van één dag.
 
-3. Indien het meetrapport, de beheersverklaring of het assurancerapport niet voldoet aan de vereisten, bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=10&z=2024-01-01&g=2024-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=12&z=2024-01-01&g=2024-01-01) of [17](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=4&artikel=17&z=2024-01-01&g=2024-01-01) geeft de minister de producent vier weken de tijd om het meetrapport, de beheersverklaring of het assurancerapport alsnog aan deze eisen te laten voldoen. Indien de producent hieraan geen of onvoldoende gehoor geeft, vermindert de minister het aantal garanties van oorsprong of certificaten van oorsprong op de rekening van de rekeninghouder met toepassing van de in het tweede lid opgenomen formule.
+3. Indien het meetrapport, de beheersverklaring of het assurancerapport niet voldoet aan de vereisten, bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=10&z=2025-01-01&g=2025-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=12&z=2025-01-01&g=2025-01-01) of [17](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=4&artikel=17&z=2025-01-01&g=2025-01-01) geeft de minister de producent vier weken de tijd om het meetrapport, de beheersverklaring of het assurancerapport alsnog aan deze eisen te laten voldoen. Indien de producent hieraan geen of onvoldoende gehoor geeft, vermindert de minister het aantal garanties van oorsprong of certificaten van oorsprong op de rekening van de rekeninghouder met toepassing van de in het tweede lid opgenomen formule.
 
 4. In afwijking van het derde lid kan de Minister op verzoek van een producent de in dat lid genoemde termijn verlengen indien de producent aantoont dat het onmogelijk is om aan deze termijn te voldoen.
 
@@ -630,7 +628,7 @@ OT = aantal overschrijdingstijdvakken van één dag.
 
 - g. het behandelen van bezwaar- en beroepschriften.
 
-2. De tarieven voor 2024 voor garanties van oorsprong en certificaten van oorsprong bedragen voor:
+2. De tarieven voor 2025 voor garanties van oorsprong en certificaten van oorsprong bedragen voor:
 
 - a. aanmaken, per garantie van oorsprong: € 0,005;
 
@@ -672,7 +670,7 @@ De [Algemene uitvoeringsregeling stimulering duurzame energieproductie](https://
 
 2. Het aantal garanties van oorsprong en het aantal garanties van oorsprong voor niet-netlevering dat op het moment van inwerkingtreding van deze regeling is geboekt op een rekening als bedoeld in [artikel 77, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=77), of [artikel 77cb, eerste lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=77cb) zoals dat luidde op 31 december 2014 wordt geacht te zijn geboekt op een rekening als bedoeld in [artikel 73, tweede lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=73).
 
-3. De periode van vijf jaar, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01), en [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.1&artikel=5&z=2024-01-01&g=2024-01-01) wordt ten aanzien van een producent, die op het moment van inwerkingtreding van deze regeling beschikt over een rekening als bedoeld in [artikel 77, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=77), of [artikel 77cb, eerste lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=77cb) zoals dat luidde op 31 december 2014, geacht aan te vangen op het moment dat de netbeheerder de vaststelling verrichtte, als bedoeld in [artikel 2 van de Regeling garanties van oorsprong voor duurzame elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0016021&artikel=2) zoals dat luidde op 31 december 2014 of in [artikel 3 van de Regeling garanties van oorsprong voor elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0016021&artikel=3) opgewekt in installatie voor hoogrenderende warmtekrachtkoppeling zoals dat luidde op december juni 2014.
+3. De periode van vijf jaar, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=2&artikel=3&z=2025-01-01&g=2025-01-01), en [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.1&artikel=5&z=2025-01-01&g=2025-01-01) wordt ten aanzien van een producent, die op het moment van inwerkingtreding van deze regeling beschikt over een rekening als bedoeld in [artikel 77, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=77), of [artikel 77cb, eerste lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=77cb) zoals dat luidde op 31 december 2014, geacht aan te vangen op het moment dat de netbeheerder de vaststelling verrichtte, als bedoeld in [artikel 2 van de Regeling garanties van oorsprong voor duurzame elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0016021&artikel=2) zoals dat luidde op 31 december 2014 of in [artikel 3 van de Regeling garanties van oorsprong voor elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0016021&artikel=3) opgewekt in installatie voor hoogrenderende warmtekrachtkoppeling zoals dat luidde op december juni 2014.
 
 4. Een producent die voor de inwerkingtreding van deze regeling een productie-installatie voor het opwekken van gas uit hernieuwbare energiebronnen in stand houdt en beschikt over een door Vertogas B.V. goedgekeurd meetprotocol wordt voor de periode waarvoor deze goedkeuring is verleend geacht te beschikken over een vaststelling als bedoeld in artikel 2.
 
@@ -963,15 +961,15 @@ Met dit formulier verklaart u gas uit hernieuwbare energiebronnen te produceren 
 
 Dit formulier dient te allen tijde volledig, juist, in origineel, ondertekend en – voor zover van toepassing – voorzien van de noodzakelijke bijlage(n) te worden ingediend bij de minister.
 
-### 1. Definities
+### AVI-meetvoorwaarden
 
 Kruis aan om wat voor soort installatie het gaat bij deze aanvraag. Er is slechts één antwoord mogelijk.
 
-### 3. Systeemgrens
+### 2. Algemene eisen
 
 Indien u de eerdere vraag 2g (zijn er meerdere installaties achter dezelfde netaansluiting waarvoor u garanties van oorsprong aanvraagt) met ‘Ja’ heeft beantwoord bent u, op grond van artikel 2, vijfde lid, van de Regeling garanties van oorsprong voor energie uit hernieuwbare energiebronnen en HR-WKK-elektriciteit, verplicht om vraag 4a met ‘Nee’ en vraag 4b met ‘Ja’ te beantwoorden.
 
-### 5. Alternatieve meting
+### 4. Nauwkeurigheidseisen aan de meetinrichting en meters
 
 **U verklaart door het invullen en ondertekenen van dit formulier:**
 
@@ -997,9 +995,9 @@ Ruimte voor opmerkingen producent:
 
 ## Bijlage 1B. behorende bij artikel 2, eerste lid, onderdeel b, van de Regeling garanties van oorsprong voor energie uit hernieuwbare energiebronnen en HR-WKK-elektriciteit
 
-### 3. Systeemgrens
+### 2. Algemene eisen
 
-### 4. Nauwkeurigheidseisen aan meetinrichtingen en meters
+### 3. Systeemgrens
 
 Handtekening netbeheerder:
 
@@ -1007,9 +1005,9 @@ Ruimte voor opmerkingen netbeheerder:
 
 ### Meetvoorwaarden voor productie-installaties voor het opwekken van gas uit hernieuwbare energiebronnen
 
-### § 1. Algemene bepalingen
+### Meetvoorwaarden voor productie-installaties voor het opwekken van gas uit hernieuwbare energiebronnen
 
-### § 2. Nauwkeurigheidseisen
+### § 1. Algemene bepalingen
 
 **U dient een meetprotocol, dat voldoet aan de eisen vastgelegd in de WKK-meetvoorwaarden (bijlage 1 bij de regeling) en dat door een gecertificeerd meetbedrijf is goedgekeurd, als bijlage bij dit verzoek te voegen**.
 
@@ -1019,11 +1017,11 @@ U verklaart door het invullen en ondertekenen van deze verklaring:
 
 **U dient een meetprotocol, dat voldoet aan de eisen vastgelegd in de WKK-meetvoorwaarden (bijlage 1 bij de regeling) en dat door een gecertificeerd meetbedrijf is goedgekeurd, als bijlage bij dit verzoek te voegen**.
 
-### § 7. Meetprotocol
+### § 6. Energiebepaling
 
 Datum:
 
-### 2. Algemene eisen
+### § 8. Meetrapport
 
 Bijlage(n):
 
@@ -1049,9 +1047,9 @@ Ruimte voor opmerkingen netbeheerder:
 
 ## Bijlage 1C. behorende bij artikel 2, eerste lid, onderdeel c, van de Regeling garanties van oorsprong voor energie uit hernieuwbare bronnen en HR-WKK-elektriciteit
 
-### § 6. Overig
+### § 5. Meetrapport
 
-### § 2. Nauwkeurigheidseisen
+### § 6. Overig
 
 Met dit formulier verklaart u gas uit hernieuwbare energiebronnen te produceren en verzoekt u de netbeheerder vast te stellen of uw productie-installatie geschikt is voor de opwekking van gas uit hernieuwbare energiebronnen en of uw meetinrichting geschikt is voor de meting van gas uit hernieuwbare energiebronnen en verzoekt u de netbeheerder de meetgegevens met betrekking tot het door u geproduceerde gas uit hernieuwbare energiebronnen als zodanig mede te delen aan de minister.
 
@@ -1421,15 +1419,15 @@ Kruis aan om wat voor soort installatie het gaat bij deze aanvraag. Er is slecht
 
 ### Meetvoorwaarden voor productie-installaties met registratie van nuttig aangewende warmte
 
-### 1. Definities
+### Meetvoorwaarden voor productie-installaties met registratie van nuttig aangewende warmte
 
 Plaats:
 
 Datum:
 
-### 5. Alternatieve meting
+### 4. Nauwkeurigheidseisen aan meetinrichtingen en meters
 
-### Avi-meetvoorwaarden
+### 5. Alternatieve meting
 
 **Geef aan om wat voor soort installatie het gaat bij deze aanvraag en welke brandstof in deze installatie wordt gebruikt. Zowel bij de vraag over het installatie-type als bij de vraag over de brandstofsoort zijn meerdere antwoorden mogelijk.**
 
@@ -1437,9 +1435,9 @@ Uit hoeveel afzonderlijke WKK-eenheden bestaat uw WKK-installatie?
 
 **Vul voor elk van deze eenheden de volgende vragen in**
 
-### § 4. Meetgegevensverzameling
+### § 3. Meetinrichting
 
-### § 6. Energiebepaling
+### § 5. Productie-installatie(s) geen aansluiting RNB of LNB
 
 Plaats:
 
@@ -1447,9 +1445,9 @@ Handtekening aanvrager:
 
 ## Bijlage 1C. behorende bij artikel 2, eerste lid, onderdeel c, van de Regeling garanties van oorsprong voor energie uit hernieuwbare bronnen en HR-WKK-elektriciteit
 
-### § 3. Meetinrichting
+### § 2. Nauwkeurigheidseisen
 
-### § 4. Meetprotocol
+### § 3. Meetinrichting
 
 Met dit formulier verklaart u gas uit hernieuwbare energiebronnen te produceren en verzoekt u de netbeheerder vast te stellen of uw productie-installatie geschikt is voor de opwekking van gas uit hernieuwbare energiebronnen en of uw meetinrichting geschikt is voor de meting van gas uit hernieuwbare energiebronnen en verzoekt u de netbeheerder de meetgegevens met betrekking tot het door u geproduceerde gas uit hernieuwbare energiebronnen als zodanig mede te delen aan de minister.
 
@@ -1603,7 +1601,7 @@ Indien zich meerdere productie-installaties achter één aansluiting bevinden wa
 
 ### AVI-meetvoorwaarden
 
-### 6. Ondertekening
+### 6. Iteratieve berekening die mede gebruik maakt van de indirecte methode
 
 ## Bijlage 1d. behorende bij [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=2&artikel=2&z=2019-01-01&g=2019-01-01), van de Regeling garanties van oorsprong voor energie uit hernieuwbare energiebronnen en HR-WKK-elektriciteit
 
@@ -1737,35 +1735,35 @@ Indien zich meerdere productie-installaties achter één aansluiting bevinden, d
 
 ## Bijlage 2A. bij [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=7&z=2019-01-01&g=2019-01-01), van de Regeling garanties van oorsprong voor energie uit hernieuwbare energiebronnen en HR-WKK-elektriciteit
 
-### § 3. Meetinrichting
+### § 2. Nauwkeurigheidseisen
 
-### § 5. Productie-installatie(s) geen aansluiting RNB of LNB
+### § 4. Meetgegevensverzameling
 
 ## Bijlage 2B. behorende bij [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=7&z=2019-01-01&g=2019-01-01), van de Regeling garanties van oorsprong voor energie uit hernieuwbare energiebronnen en HR-WKK-elektriciteit
 
-### § 8. Meetrapport
+### § 7. Meetprotocol
+
+### HR-WKK-meetvoorwaarden
 
 ### HR-WKK-meetvoorwaarden
 
 ### 1. Definities
 
-### 2. Algemene eisen
-
 ## Bijlage 2C. behorende bij [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=7&z=2019-01-01&g=2019-01-01), van de Regeling garanties van oorsprong voor energie uit hernieuwbare energiebronnen en HR-WKK-elektriciteit
+
+### 3. Systeemgrens
 
 ### 4. Nauwkeurigheidseisen aan meetinrichtingen en meters
 
 ### 5. Alternatieve meting
 
-### 2. Algemene eisen
+### § 1. Algemene bepalingen
 
 ### § 1. Algemene bepalingen
 
-### § 2. Nauwkeurigheidseisen
-
 ## Bijlage 2d. behorende bij [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=7&z=2019-01-01&g=2019-01-01), van de Regeling garanties van oorsprong voor energie uit hernieuwbare energiebronnen en HR-WKK-elektriciteit
 
-### § 5. Meetrapport
+### § 4. Meetprotocol
 
 ## Bijlage 2e. bij [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=7&z=2019-01-01&g=2019-01-01) van de Regeling garanties van oorsprong voor energie uit hernieuwbare energiebronnen en HR-WKK-elektriciteit
 
@@ -1909,7 +1907,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 25a
 
-Voor de toepassing van [artikel 77a van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=77a), [artikel 5 van de Wet implementatie EU-richtlijn hernieuwbare energie voor garanties van oorsprong](https://wetten.overheid.nl/jci1.3:c:BWBR0046743&artikel=5), [artikel 28a van de Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=28a) en [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=6&artikel=25&z=2024-01-01&g=2024-01-01) geldt een:
+Voor de toepassing van [artikel 77a van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=77a), [artikel 5 van de Wet implementatie EU-richtlijn hernieuwbare energie voor garanties van oorsprong](https://wetten.overheid.nl/jci1.3:c:BWBR0046743&artikel=5), [artikel 28a van de Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=28a) en [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=6&artikel=25&z=2025-01-01&g=2025-01-01) geldt een:
 
 - a. garantie van oorsprong voor niet-netlevering slechts als bewijs voor levering aan een eindafnemer die aan dezelfde directe lijn aangesloten is als waar de energie is ingevoed of op wiens installatie de energie direct is ingevoed;
 
@@ -2188,7 +2186,7 @@ Met dit formulier verklaart u duurzame elektriciteit te produceren, verzoekt u d
 
 Vervallen
 
-## Bijlage 1B. behorende bij artikel 2, eerste lid, onderdeel b, van de Regeling garanties van oorsprong voor energie uit hernieuwbare energiebronnen en HR-WKK-elektriciteit
+## Bijlage 1A. behorende bij [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=2&artikel=2&z=2025-01-01&g=2025-01-01), van de Regeling garanties van oorsprong en certificaten van oorsprong
 
 Vervallen
 
@@ -2196,153 +2194,25 @@ Met dit formulier verklaart u gas uit hernieuwbare energiebronnen te produceren 
 
 Indien zich meerdere productie-installaties achter één aansluiting bevinden waarvoor u garanties van oorsprong heeft aangevraagd, dient u tevens een systeemgrens van de productie-installaties te bepalen. Deze systeemgrens kan meerdere productie-eenheden omvatten.
 
-### 2. Algemene eisen
+### 1. Definities
 
-### 4. Nauwkeurigheidseisen aan de meetinrichting en meters
+### 3. Systeemgrens
 
-### 6. Iteratieve berekening die mede gebruik maakt van de indirecte methode
+### 5. Alternatieve meting
 
 ### Meetvoorwaarden voor productie-installaties met verwerking van ‘naar zijn aard zuiver biogas’ met een nominaal elektrisch vermogen van 2 mw of minder
 
-### 2. Algemene eisen
+### 1. Definities
 
 Naam netbeheerder:
 
-## Bijlage 1d. behorende bij [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=2&artikel=2&z=2022-01-01&g=2022-01-01), van de Regeling garanties van oorsprong en certificaten van oorsprong
-
-Met dit formulier verklaart u:
-
-- •. duurzame warmte te produceren en;
-
-- •. verzoekt u het toegelaten meetbedrijf vast te stellen of uw productie-installatie geschikt is voor de opwekking van duurzame warmte en of uw meetinrichting geschikt is voor de meting van duurzame warmte en;
-
-- •. verzoekt u het toegelaten meetbedrijf de meetgegevens met betrekking tot de door u geproduceerde duurzame warmte als zodanig mede te delen aan de Minister van Economische Zaken en Klimaat.
-
-Dit formulier dient te allen tijde **volledig**, juist en ondertekend door zowel producent als meetbedrijf en – voor zover van toepassing – voorzien van de noodzakelijke bijlage(n) te worden ingediend.
-
-Indien zich meerdere productie-installaties achter één aansluiting bevinden, dient u tevens een systeemgrens van de productie-installaties te bepalen. Deze systeemgrens kan meerdere productie-eenheden omvatten.
-
-- 1. **Gegevens producent**
-
-- a. Tenaamstelling1Indien u een SDE+-beschikking heeft van RVO, houdt u dan dezelfde naam aan als op uw beschikking.De tenaamstelling dient overeen te komen met die in het meetprotocol. installatie: ..........
-
-- b. Contactpersoon: de heer/mevrouw2S.v.p. doorhalen wat niet van toepassing is ..........
-
-- c. Adres: ..........
-
-- d. Postcode: ..........
-
-- e. Plaats: ..........
-
-- f. Telefoonnummer: ..........
-
-- g. E-mailadres contactpersoon: ..........
-
-- h. BSN-nummer ..........**of**3opgave van één van beide nummers is verplicht KvK-nummer: .......... Factuurgegevens:
-
-- i. Naam contactpersoon: ..........
-
-- j. E-mailadres4het e-mailadres van uw crediteurenadministratie waar wij onze facturen naartoe kunnen mailen: ..........
-
-- k. Referentienummer factuur5bijvoorbeeld uw inkoopordernummer of bestelbonnummer: ..........
-
-- 2. **Correspondentieadres:**
-
-- a. Bedrijfsnaam: ..........
-
-- b. Contactpersoon: de heer/mevrouw6S.v.p. doorhalen wat niet van toepassing is ..........
-
-- c. Adres: ..........
-
-- d. Postcode: ..........
-
-- e. Plaats: ..........
-
-- f. Telefoonnummer: ..........
-
-- g. E-mailadres contactpersoon: ..........
-
-- 2. **Gegevens productie-installatie**
-
-- a. Adres installatie: ..........
-
-- b. Postcode: ..........
-
-- c. Plaats: ..........
-
-- d. EAN-code van productie-installatie7u kunt uw installatie pas aanmelden nadat CertiQ u deze EAN-code heeft toegekend. Hiervoor kunt u contact opnemen met de CertiQ servicedesk (servicedesk@certiq.nl).: ..........
-
-- e. Bij combinatie van warmte en elektriciteit: EAN-code aansluiting op het net: .......... EAN-code elektriciteit8N.B.: Meldt u uw elektriciteits-installatie separaat, online aan via www.certiq.nl wanneer dit nog niet is gebeurd. Dit formulier betreft uitsluitend het warmtedeel van uw installatie.: ..........
-
-- f. Projectnummer SDE-beschikking: SDE ____________________________
-
-- 3. **Typegegevens productie-installatie** **Kruis aan om wat voor soort installatie het gaat bij deze aanvraag. Er is slechts één antwoord mogelijk.**
-
-- a. De aanvraag betreft een productie-installatie voor opwekking van duurzame warmte door middel van: Indien uw aanvraag een productie-installatie voor de opwekking van duurzame warmte door middel van biomassa betreft, welke soort brandstof wordt ingezet?
-
-- o. geothermie
-
-- o. zonthermie
-
-- o. afvalverbranding
-
-- o. overige verwerking van biomassa
-
-- o. uitsluitend biogas uit vergisting
-
-- o. uitsluitend stortgas
-
-- o. uitsluitend rioolwaterzuiveringsgas of afvalwaterzuiveringsgas (uit slibvergisting)
-
-- o. uitsluitend naar haar aard zuivere vloeibare of vaste biomassa
-
-- o. huishoudelijk en vergelijkbaar bedrijfsafval
-
-- o. overig (bijvoorbeeld combinaties van bovenstaande brandstoffen, combinaties met fossiele brandstoffen etc.)
-
-- b. Indien u beschikt over certificaten van duurzaamheid van gebruikte brandstoffen; wilt u deze informatie ook laten registreren op de garanties van oorsprong?9Als u deze vraag met ja beantwoordt dient u gelijktijdig met uw aanmelding een kopie van het duurzaamheidscertificaat te overleggen aan CertiQ”.
-
-- c. Datum waarop de installatie in gebruik is/wordt genomen: ..........
-
-- d. Ingangsdatum10Een inschrijving kan uitsluitend per de eerste dag van een kalendermaand ingaan.N.B.: het meetprotocol dat u samen met dit aanmeldformulier indient, moet uiterlijk de laatste dag van de maand vóór deze ingangsdatum schriftelijk zijn goedgekeurd (d.w.z. ondertekend en gedateerd) door een toegelaten meetbedrijf. van uw inschrijving bij CertiQ: _________________________
-
-- e. Thermisch vermogen11Vult u hier het duurzame, realiseerbare vermogen in. installatie (in MWth): ..........
-
-- 4. **Algemene verklaring** U verklaart door het invullen en ondertekenen van dit formulier:
-
-- a. Dat de in dit formulier bedoelde installatie voorzien is van (een) meter(s) die voldoe(t)(n) aan de meetvoorwaarden in de GvO-regeling, dat door het toegelaten meetbedrijf de nuttige warmte eenduidig kan worden gemeten, dan wel uit een combinatie van metingen eenduidig kan worden berekend;
-
-- b. Dat u te allen tijde zult meewerken aan door het meetbedrijf uit te voeren controles van de in dit formulier bedoelde installatie en de bijbehorende meter(s), voor zover deze controles betrekking hebben op dit verzoek tot vaststelling van een productie-installatie voor de opwekking van duurzame warmte en mededeling van meetgegevens omtrent duurzame warmte;
-
-- c. Dat u, indien in de productie-installatie niet naar haar aard zuivere biomassa of niet zuivere biomassa wordt verwerkt, door middel van een daartoe geëigende methode aan de hand van bemonstering per partij vaststelt of laat vaststellen of de biomassa als zuiver kan worden aangemerkt c.q. welk gedeelte van de verwerkte niet zuivere biomassa biologisch afbreekbaar is;
-
-- d. Dat u, indien in de productie-installatie niet naar zijn aard zuiver biogas of niet zuiver biogas wordt verwerkt, ten aanzien van de grondstof die bij het ontstaan van dit biogas gebruikt wordt, door middel van een daartoe geëigende methode aan de hand van bemonstering per partij vaststelt of laat vaststellen dat het materiaal waaruit de duurzame warmte is opgewekt, is aan te merken als zuivere of niet-zuivere biomassa;
-
-- e. Dat u, in het geval dat één van de zaken zoals door u aangegeven bij de vragen 2, 3, 4 of 5 verandert, hiervan vooraf melding maakt door dit formulier opnieuw in te vullen en te doen toekomen aan het meetbedrijf;
-
-- f. Dat u deze verklaring naar waarheid heeft ingevuld.
-
-- 5.
-
-- a. **Ondertekening aanvrager (producent)** Plaats: .......... Datum: .......... Handtekening aanvrager: .......... **Let op!** **Maak een kopie van deze ingevulde verklaring voor eigen gebruik.** Ruimte voor opmerkingen producent:
-
-|   |
-| --- |
-|   |
-|   |
-
-- b. Ondertekening meetbedrijf: Plaats: .......... Datum: .......... Naam toegelaten meetbedrijf: .......... Handtekening toegelaten meetbedrijf: .......... Ruimte voor opmerkingen toegelaten meetbedrijf:
-
-|   |
-| --- |
-|   |
-|   |
+## Bijlage 2d. behorende bij [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=7&z=2025-01-01&g=2025-01-01), van de Regeling garanties van oorsprong en certificaten van oorsprong
 
 ## Bijlage 2A. behorende bij [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=7&z=2022-01-01&g=2022-01-01), van de Regeling garanties van oorsprong en certificaten van oorsprong
 
 ## Bijlage 2e. behorende bij [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=7&z=2024-01-01&g=2024-01-01), van de Regeling garanties van oorsprong en certificaten van oorsprong
 
-### 3. Systeemgrens
+### 2. Algemene eisen
 
 ## Bijlage 2F. behorende bij [artikel 7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=7&z=2024-01-01&g=2024-01-01), van de Regeling garanties van oorsprong en certificaten van oorsprong
 
@@ -2402,31 +2272,61 @@ Deze regeling berust mede op [artikel 7 van de Wet implementatie EU-richtlijn he
 
 #### § 8. Overgangs- en slotbepalingen
 
-## Bijlage 1C. behorende bij [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=2&artikel=2&z=2024-01-01&g=2024-01-01), van de Regeling garanties van oorsprong en certificaten van oorsprong
+## Bijlage 1B. behorende bij artikel 2, eerste lid, onderdeel b, van de Regeling garanties van oorsprong voor energie uit hernieuwbare energiebronnen en HR-WKK-elektriciteit
 
 Vervallen
 
-## Bijlage 1d. behorende bij [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=2&artikel=2&z=2024-01-01&g=2024-01-01), van de Regeling garanties van oorsprong en certificaten van oorsprong
+## Bijlage 1C. behorende bij [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=2&artikel=2&z=2025-01-01&g=2025-01-01), van de Regeling garanties van oorsprong en certificaten van oorsprong
 
 Vervallen
 
-## Bijlage 2A. behorende bij [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=7&z=2024-01-01&g=2024-01-01), van de Regeling garanties van oorsprong en certificaten van oorsprong
+## Bijlage 1d. behorende bij [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=2&artikel=2&z=2025-01-01&g=2025-01-01), van de Regeling garanties van oorsprong en certificaten van oorsprong
+
+Vervallen
 
 ## Bijlage 2B. behorende bij [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=7&z=2024-01-01&g=2024-01-01), van de Regeling garanties van oorsprong en certificaten van oorsprong
 
-### 1. Definities
+### Meetvoorwaarden voor productie-installaties met verwerking van ‘naar zijn aard zuiver biogas’ met een nominaal elektrisch vermogen van 2 mw of minder
+
+### 2. Algemene eisen
 
 ### 3. Systeemgrens
 
 ### 4. Nauwkeurigheidseisen aan meetinrichtingen en meters
 
-### 5. Alternatieve meting
-
-### 2. Algemene eisen
+### 1. Definities
 
 ## Bijlage 2d. behorende bij [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=7&z=2024-01-01&g=2024-01-01), van de Regeling garanties van oorsprong en certificaten van oorsprong
 
-## Bijlage 3B. behorende bij [artikel 17, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=4&artikel=17&z=2024-01-01&g=2024-01-01), van de Regeling garanties van oorsprong en certificaten van oorsprong
+## Bijlage 3A. behorende bij [artikel 17, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=4&artikel=17&z=2025-01-01&g=2025-01-01) van de Regeling garanties van oorsprong en certificaten van oorsprong
+
+Vervallen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 19a
+
+Het percentage, bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=5&artikel=19&z=2025-01-01&g=2025-01-01), bedraagt in het kalenderjaar 2025 53 procent.
+
+#### § 6. Garanties van oorsprong en certificaten van oorsprong
+
+#### § 7. Tarieven
+
+#### § 8. Overgangs- en slotbepalingen
+
+## Bijlage 2A. behorende bij [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=7&z=2025-01-01&g=2025-01-01), van de Regeling garanties van oorsprong en certificaten van oorsprong
+
+## Bijlage 2B. behorende bij [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=7&z=2025-01-01&g=2025-01-01), van de Regeling garanties van oorsprong en certificaten van oorsprong
+
+### 5. Alternatieve meting
+
+## Bijlage 2C. behorende bij [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=7&z=2025-01-01&g=2025-01-01), van de Regeling garanties van oorsprong en certificaten van oorsprong
+
+## Bijlage 2e. behorende bij [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=7&z=2025-01-01&g=2025-01-01), van de Regeling garanties van oorsprong en certificaten van oorsprong
+
+## Bijlage 2F. behorende bij [artikel 7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=7&z=2025-01-01&g=2025-01-01), van de Regeling garanties van oorsprong en certificaten van oorsprong
+
+## Bijlage 3B. behorende bij [artikel 17, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=4&artikel=17&z=2025-01-01&g=2025-01-01), van de Regeling garanties van oorsprong en certificaten van oorsprong
 
 Vervallen
 
