@@ -4,7 +4,7 @@ identifier: "BWBR0050402"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2024-11-14"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050402"
 soort: "AMvB"
@@ -66,15 +66,15 @@ Bij ministeriële regeling worden regels gesteld over de eindejaarsuitkering en 
 
 ##### Artikel VI
 
-1. Dit besluit treedt in werking in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met uitzondering van [artikel I, onderdelen A, B, E, H, K, M en S](https://wetten.overheid.nl/jci1.3:c:BWBR0050402&artikel=I&z=2024-11-14&g=2024-11-14), [artikel II, onderdelen C, E, H, J, L, N, eerste, tweede en vierde lid, O, P, Q, eerste en derde lid, R tot en met U, W, Y, AA, BB, DD, FF, HH, JJ, MM en OO](https://wetten.overheid.nl/jci1.3:c:BWBR0050402&artikel=II&z=2024-11-14&g=2024-11-14) en [artikel III, onderdelen B tot en met E](https://wetten.overheid.nl/jci1.3:c:BWBR0050402&artikel=III&z=2024-11-14&g=2024-11-14).
+1. Dit besluit treedt in werking in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met uitzondering van [artikel I, onderdelen A, B, E, H, K, M en S](https://wetten.overheid.nl/jci1.3:c:BWBR0050402&artikel=I&z=2025-01-01&g=2025-01-01), [artikel II, onderdelen C, E, H, J, L, N, eerste, tweede en vierde lid, O, P, Q, eerste en derde lid, R tot en met U, W, Y, AA, BB, DD, FF, HH, JJ, MM en OO](https://wetten.overheid.nl/jci1.3:c:BWBR0050402&artikel=II&z=2025-01-01&g=2025-01-01) en [artikel III, onderdelen B tot en met E](https://wetten.overheid.nl/jci1.3:c:BWBR0050402&artikel=III&z=2025-01-01&g=2025-01-01).
 
-2. [Artikel I, onderdelen A, B, E, H, K, M en S](https://wetten.overheid.nl/jci1.3:c:BWBR0050402&artikel=I&z=2024-11-14&g=2024-11-14), [artikel II, onderdelen C, E, H, J, L, N, eerste, tweede en vierde lid, O, P, Q, eerste en derde lid, R tot en met U, W, Y, AA, BB, DD, FF, HH, JJ, MM en OO](https://wetten.overheid.nl/jci1.3:c:BWBR0050402&artikel=II&z=2024-11-14&g=2024-11-14), en [artikel III, onderdelen B tot en met E](https://wetten.overheid.nl/jci1.3:c:BWBR0050402&artikel=III&z=2024-11-14&g=2024-11-14), treden in werking met ingang van 1 januari 2025.
+2. [Artikel I, onderdelen A, B, E, H, K, M en S](https://wetten.overheid.nl/jci1.3:c:BWBR0050402&artikel=I&z=2025-01-01&g=2025-01-01), [artikel II, onderdelen C, E, H, J, L, N, eerste, tweede en vierde lid, O, P, Q, eerste en derde lid, R tot en met U, W, Y, AA, BB, DD, FF, HH, JJ, MM en OO](https://wetten.overheid.nl/jci1.3:c:BWBR0050402&artikel=II&z=2025-01-01&g=2025-01-01), en [artikel III, onderdelen B tot en met E](https://wetten.overheid.nl/jci1.3:c:BWBR0050402&artikel=III&z=2025-01-01&g=2025-01-01), treden in werking met ingang van 1 januari 2025.
 
-3. [Artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0050402&artikel=V&z=2024-11-14&g=2024-11-14) werkt terug tot en met 1 november 2024.
+3. [Artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0050402&artikel=V&z=2025-01-01&g=2025-01-01) werkt terug tot en met 1 november 2024.
 
-4. [Artikel I, onderdeel O](https://wetten.overheid.nl/jci1.3:c:BWBR0050402&artikel=I&z=2024-11-14&g=2024-11-14), en [artikel II, onderdelen A, B, D, G, I, K, M, Q, tweede lid, V, X, Z, CC, EE, GG, II, LL en NN](https://wetten.overheid.nl/jci1.3:c:BWBR0050402&artikel=II&z=2024-11-14&g=2024-11-14), werken terug tot en met 1 juli 2024.
+4. [Artikel I, onderdeel O](https://wetten.overheid.nl/jci1.3:c:BWBR0050402&artikel=I&z=2025-01-01&g=2025-01-01), en [artikel II, onderdelen A, B, D, G, I, K, M, Q, tweede lid, V, X, Z, CC, EE, GG, II, LL en NN](https://wetten.overheid.nl/jci1.3:c:BWBR0050402&artikel=II&z=2025-01-01&g=2025-01-01), werken terug tot en met 1 juli 2024.
 
-5. [Artikel II, onderdeel KK](https://wetten.overheid.nl/jci1.3:c:BWBR0050402&artikel=II&z=2024-11-14&g=2024-11-14), en [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0050402&artikel=IV&z=2024-11-14&g=2024-11-14) werken terug tot en met 1 januari 2024.
+5. [Artikel II, onderdeel KK](https://wetten.overheid.nl/jci1.3:c:BWBR0050402&artikel=II&z=2025-01-01&g=2025-01-01), en [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0050402&artikel=IV&z=2025-01-01&g=2025-01-01) werken terug tot en met 1 januari 2024.
 
 Op de voordracht van Onze Minister van Justitie en Veiligheid van 10 september 2024, directie Wetgeving en Juridische Zaken, nr. 5758712;
 
