@@ -4,7 +4,7 @@ identifier: "BWBR0047429"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2024-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047429"
 soort: "wet"
@@ -67,9 +67,9 @@ Wijzigt de Comptabiliteitswet 2016.
 
 3. Indien in een waterschap op een datum voorafgaand aan de inwerkingtreding van deze wet een verordening gold voor de instelling van een rekenkamer of rekenkamerfunctie, behoudt die verordening haar rechtskracht tot uiterlijk een jaar na die datum of bij eerdere intrekking van de verordening, tot de datum van intrekking.
 
-4. [Artikel 81c, vijfde lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=81c) geldt niet voor de eerste benoeming van de leden van de rekenkamer ingesteld overeenkomstig [artikel 81a van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=81a) na de inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0047429&artikel=I&z=2024-01-01&g=2024-01-01).
+4. [Artikel 81c, vijfde lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=81c) geldt niet voor de eerste benoeming van de leden van de rekenkamer ingesteld overeenkomstig [artikel 81a van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=81a) na de inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0047429&artikel=I&z=2025-01-01&g=2025-01-01).
 
-5. [Artikel 51ac, vijfde lid, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=51ac) geldt niet voor de eerste benoeming van de leden van de rekenkamer ingesteld overeenkomstig [artikel 51aa van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=51aa) na de inwerkingtreding van [artikel IIa](https://wetten.overheid.nl/jci1.3:c:BWBR0047429&artikel=IIa&z=2024-01-01&g=2024-01-01).
+5. [Artikel 51ac, vijfde lid, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=51ac) geldt niet voor de eerste benoeming van de leden van de rekenkamer ingesteld overeenkomstig [artikel 51aa van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=51aa) na de inwerkingtreding van [artikel IIa](https://wetten.overheid.nl/jci1.3:c:BWBR0047429&artikel=IIa&z=2025-01-01&g=2025-01-01).
 
 ##### Artikel V
 
