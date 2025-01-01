@@ -4,7 +4,7 @@ identifier: "BWBR0007308"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2023-06-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007308"
 soort: "ministeriele-regeling"
@@ -41,7 +41,7 @@ Besluit:
 
 ##### Artikel 1
 
-Deze regeling geeft uitvoering aan de [artikelen 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=3), [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=7), [15, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=15), [24a, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24a), [24b, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24b), en [37f van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=37f) en [artikel XII, eerste lid, van de Invoeringswet Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0007310&artikel=XII).
+Deze regeling geeft uitvoering aan de [artikelen 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=3), [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=7), [15, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=15), [23, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=23), [24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24), [24a, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24a), [24b, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24b), en [37f van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=37f) en [artikel XII, eerste lid, van de Invoeringswet Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0007310&artikel=XII).
 
 ##### Artikel 2
 
@@ -175,27 +175,13 @@ Deze regeling zal in de Staatscourant worden geplaatst met uitzondering van de b
 
 ##### Artikel 4c
 
-1. De houder van een motorrijtuig waarvoor een kenteken is opgegeven dan wel degene op wiens naam een kenteken is gesteld als bedoeld in [artikel 37, derde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37) kan bij de inspecteur een vergunning aanvragen om de belasting over nog niet aangevangen tijdvakken te mogen betalen in maandelijkse termijnen. Op het aanvraagformulier machtigt de aanvrager de ontvanger tot automatische incasso van de termijnen. Op het formulier worden tevens vermeld de naam, het adres en het rekeningnummer van de aanvrager en het kenteken van het motorrijtuig. De aanvrager ondertekent het formulier.
+1. De belastingplichtige betaalt de belasting voor nog niet aangevangen tijdvakken in maandelijkse termijnen indien de belastingplichtige de ontvanger machtigt tot automatische incasso van toekomstige verplichtingen tot betaling van de belasting.
 
-2. De in het eerste lid bedoelde vergunning alsmede de in dat lid bedoelde machtiging heeft betrekking op:
+2. De machtiging heeft betrekking op:
 
-- a. elk motorrijtuig dat op naam van de aanvrager is gesteld of zal worden gesteld, tenzij de aanvrager in zijn verzoek aangeeft dat het verzoek uitsluitend geldt voor een bepaald motorrijtuig; of
+- a. elk motorrijtuig dat op naam van de belastingplichtige is of wordt gesteld, tenzij de machtiging uitsluitend geldt voor een bepaald motorrijtuig; of
 
-- b. elk kenteken als bedoeld in [artikel 37, derde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37) dat op naam van de aanvrager is gesteld of zal worden gesteld.
-
-3. De inspecteur verleent de vergunning bij beschikking.
-
-4. De inspecteur wijst de aanvraag af indien hij een eerder aan de aanvrager verleende vergunning heeft ingetrokken en er sedertdien minder dan een jaar is verstreken.
-
-5. De inspecteur kan de vergunning intrekken, indien binnen een periode van een jaar de incasso van een termijn driemaal niet is geslaagd.
-
-6. De vergunning eindigt:
-
-- indien deze geldt voor een bepaald motorrijtuig bij beëindiging van het houderschap daarvan; en
-
-- door opzegging door de aanvrager.
-
-7. Indien de vergunning is ingetrokken of geëindigd wordt een resterende belastingschuld over het lopende tijdvak nageheven.
+- b. elk kenteken als bedoeld in [artikel 37, derde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37) dat op naam van de belastingplichtige is gesteld of wordt gesteld.
 
 ## Bijlage
 
@@ -205,7 +191,7 @@ Deze regeling zal in de Staatscourant worden geplaatst met uitzondering van de b
 
 ##### Artikel 4bis
 
-1. Tegenbewijs als bedoeld in de [artikelen 23, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=23), en [24, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24) houdt in dat belastingplichtige de Dienst Wegverkeer, bedoeld in [artikel 4a van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4a), verzoekt tot wijziging of opneming van gegevens inzake de fijnstofuitstoot in het kentekenregister. [Artikel 43e van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=43e)is van toepassing.
+1. Tegenbewijs als bedoeld in de [artikelen 23, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=23), en [24, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24) houdt in dat belastingplichtige als bedoeld in [artikel 7, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=7) de Dienst Wegverkeer, bedoeld in [artikel 4a van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4a), verzoekt tot wijziging of opneming van gegevens inzake de fijnstofuitstoot in het kentekenregister. [Artikel 43e van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=43e)is van toepassing.
 
 2. Indien de Dienst Wegverkeer naar aanleiding van een verzoek als bedoeld in het eerste lid beslist dat in het kentekenregister een fijnstofuitstoot wordt geregistreerd van niet meer dan 5 milligram per kilometer, onderscheidenlijk 10 milligram per kilowattuur, heeft belastingplichtige recht op teruggaaf van de door hem betaalde fijnstoftoeslag, bedoeld in de [artikelen 23, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=23), onderscheidenlijk [24, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24).
 
@@ -216,6 +202,24 @@ Deze regeling zal in de Staatscourant worden geplaatst met uitzondering van de b
 5. Het recht op teruggaaf vervalt na vijf jaren na afloop van het belastingtijdvak waarin dat recht is ontstaan.
 
 6. De inspecteur neemt de beslissing op het verzoek, bedoeld in het derde lid, bij voor bezwaar vatbare beschikking.
+
+## Bijlage
+
+Ligt ter inzage.
+
+Deze regeling zal in de Staatscourant worden geplaatst met uitzondering van de bijlage, die ter inzage wordt gelegd. Van deze terinzagelegging zal mededeling worden gedaan in de Staatscourant.
+
+##### Artikel 4ter
+
+1. Tegenbewijs als bedoeld in de [artikelen 23, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=23), en [24, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24) houdt in dat een belastingplichtige als bedoeld in [artikel 7, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=7) de inspecteur verzoekt tot toepassing van een specifieke fijnstofuitstoot.
+
+2. Indien de inspecteur naar aanleiding van een verzoek als bedoeld in het eerste lid beslist dat de fijnstofuitstoot van het motorrijtuig niet meer bedraagt dan 5 milligram per kilometer, onderscheidenlijk 10 milligram per kilowattuur, heeft de belastingplichtige recht op teruggaaf van de door hem betaalde fijnstoftoeslag, bedoeld in de [artikelen 23, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=23), onderscheidenlijk [24, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24).
+
+3. De inspecteur neemt de beslissing op het verzoek en de daarmee samenhangende teruggaaf bij één voor bezwaar vatbare beschikking.
+
+4. Bij een verzoek als bedoeld in het eerste of derde lid overlegt de belastingplichtige een afschrift van het kentekenregister waarin het motorrijtuig is geregistreerd en waaruit de fijnstofuitstoot van het motorrijtuig onomstotelijk blijkt.
+
+5. Het recht op teruggaaf vervalt na vijf jaren na afloop van het belastingtijdvak waarin dat recht is ontstaan.
 
 ## Bijlage
 
