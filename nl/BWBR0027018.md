@@ -4,7 +4,7 @@ identifier: "BWBR0027018"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2024-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027018"
 soort: "ministeriele-regeling"
@@ -43,7 +43,7 @@ Besluit:
 
 ##### Artikel 1. Reikwijdte en definitie
 
-1. Deze regeling geeft uitvoering aan de [artikelen 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=16), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=17), [33, onderdeel 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33), [35b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35b), [35c, vijfde en twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35c), [35d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35d), [35e, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35e), en [73 van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=73).
+1. Deze regeling geeft uitvoering aan de [artikelen 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=16), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=17), [33, onderdeel 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33), [35b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35b), [35c, vijfde en dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35c), [35d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35d), [35e, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35e), en [73 van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=73).
 
 2. Deze regeling verstaat onder wet: [Successiewet 1956](onbekend).
 
@@ -89,7 +89,7 @@ Vervallen
 
 4. Indien de verkrijging aandelen betreft in een lichaam waarin de erflater, onderscheidenlijk de schenker, op enig moment in het afgelopen jaar, onderscheidenlijk op enig moment in de afgelopen vijf jaren, indirect aandeelhouder was, wordt voor de toepassing van dit artikel uitgegaan van de situatie als ware de erflater, onderscheidenlijk de schenker, nog steeds indirect aandeelhouder. De eerste volzin is van overeenkomstige toepassing in een situatie waarin de verkrijging aandelen betreft in een lichaam dat is ontstaan bij een juridische splitsing als bedoeld in [artikel 3.56 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.56).
 
-5. Voor het eerste en tweede lid is [artikel 35c, tiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35c) van overeenkomstige toepassing.
+5. Voor het eerste en tweede lid is [artikel 35c, elfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35c) van overeenkomstige toepassing.
 
 ##### Artikel 8. In het kader van een bedrijfsoverdracht uitgegeven preferente aandelen
 
@@ -169,7 +169,7 @@ Voor de toepassing van dit lid wordt onder een omzetting van gewone aandelen in 
 
 7. Van een gebeurtenis als bedoeld in [artikel 35e van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35e) is geen sprake indien deze zich voordoet als gevolg van een overgang onder algemene titel krachtens huwelijksvermogensrecht. Voor de toepassing van artikel 35e van de wet wordt voor de resterende duur van de termijn van vijf jaren de rechtsopvolger krachtens huwelijksvermogensrecht geacht in de plaats te treden van de oorspronkelijke verkrijger. Van een gebeurtenis als bedoeld in artikel 35e van de wet is evenmin sprake indien gedurende de resterende duur van de termijn de huwelijksgemeenschap wordt ontbonden en binnen twee jaar na de ontbinding wordt verdeeld waarbij het ondernemingsvermogen als bedoeld in [Hoofdstuk IIIA van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIA), wordt toegescheiden aan de oorspronkelijke verkrijger. Voor de toepassing van artikel 35e van de wet treedt de oorspronkelijke verkrijger dan weer voor de resterende duur van de termijn van vijf jaren in de plaats van de in de tweede volzin bedoelde rechtsopvolger krachtens huwelijksvermogensrecht.
 
-8. Indien binnen de termijn van vijf jaren, bedoeld in [artikel 35e van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35e), door de verkrijger een door toepassing van [artikel 35c, elfde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35c) met een aandeel of winstbewijs gelijkgesteldekoopoptie wordt uitgeoefend, treden de daardoor verworven aandelen of winstbewijzen voor de resterende duur van de genoemde termijn in de plaats van die koopoptie.
+8. Indien binnen de termijn van vijf jaren, bedoeld in [artikel 35e van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35e), door de verkrijger een door toepassing van [artikel 35c, twaalfde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35c) met een aandeel of winstbewijs gelijkgesteldekoopoptie wordt uitgeoefend, treden de daardoor verworven aandelen of winstbewijzen voor de resterende duur van de genoemde termijn in de plaats van die koopoptie.
 
 ### Hoofdstuk IV. Bijzondere bepalingen
 
