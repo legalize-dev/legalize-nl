@@ -4,7 +4,7 @@ identifier: "BWBR0018823"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2022-12-21"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018823"
 soort: "AMvB"
@@ -106,9 +106,9 @@ Hebben goedgevonden en verstaan:
 
 3. Het is verboden te handelen in strijd met de artikelen 3, 4, 5, eerste, tweede en vierde lid, 6, eerste lid, 7, en 9, van [verordening (EG) 2073/2005](32005R2073).
 
-4. Het is verboden te handelen in strijd met [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=4&artikel=7&z=2022-12-21&g=2022-12-21).
+4. Het is verboden te handelen in strijd met [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=4&artikel=7&z=2025-01-01&g=2025-01-01).
 
-5. Het is verboden rauwe koemelk, bestemd voor rechtstreekse menselijke consumptie, te verhandelen, anders dan met inachtneming van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=5&artikel=8&z=2022-12-21&g=2022-12-21).
+5. Het is verboden rauwe melk en rauwe room, bestemd voor rechtstreekse menselijke consumptie, te verhandelen, anders dan met inachtneming van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=5&artikel=8&z=2025-01-01&g=2025-01-01) en [8a](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=5&artikel=8a&z=2025-01-01&g=2025-01-01).
 
 ##### Artikel 3
 
@@ -154,13 +154,13 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 5
 
-1. De exploitant van een levensmiddelenbedrijf wordt bij controle door een met het toezicht op de naleving van [verordening (EG) 852/2004](32004R0852) belaste ambtenaar, vóóraf door die ambtenaar in de gelegenheid gesteld te kennen te geven of door dat bedrijf gebruik wordt gemaakt van de voor zijn sector van de levensmiddelenbranche vastgestelde en goedgekeurde hygiënecode, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=2&artikel=4&z=2022-12-21&g=2022-12-21).
+1. De exploitant van een levensmiddelenbedrijf wordt bij controle door een met het toezicht op de naleving van [verordening (EG) 852/2004](32004R0852) belaste ambtenaar, vóóraf door die ambtenaar in de gelegenheid gesteld te kennen te geven of door dat bedrijf gebruik wordt gemaakt van de voor zijn sector van de levensmiddelenbranche vastgestelde en goedgekeurde hygiënecode, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=2&artikel=4&z=2025-01-01&g=2025-01-01).
 
 2. De exploitant van een levensmiddelenbedrijf, die gebruik maakt van de hygiënecode, bedoeld in het eerste lid:
 
-- a. voldoet aan de artikelen 3, 4 of 5 van [verordening (EG) 852/2004](32004R0852), bedoeld in [artikel 4, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=2&artikel=4&z=2022-12-21&g=2022-12-21), indien hij handelt volgens de voorschriften in die hygiënecode die daarop betrekking hebben;
+- a. voldoet aan de artikelen 3, 4 of 5 van [verordening (EG) 852/2004](32004R0852), bedoeld in [artikel 4, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=2&artikel=4&z=2025-01-01&g=2025-01-01), indien hij handelt volgens de voorschriften in die hygiënecode die daarop betrekking hebben;
 
-- b. voldoet niet aan de artikelen 3, 4 of 5 van [verordening (EG) 852/2004](32004R0852), bedoeld in [artikel 4, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=2&artikel=4&z=2022-12-21&g=2022-12-21), indien hij niet handelt volgens de voorschriften in die hygiënecode die daarop betrekking hebben.
+- b. voldoet niet aan de artikelen 3, 4 of 5 van [verordening (EG) 852/2004](32004R0852), bedoeld in [artikel 4, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=2&artikel=4&z=2025-01-01&g=2025-01-01), indien hij niet handelt volgens de voorschriften in die hygiënecode die daarop betrekking hebben.
 
 3. Het eerste en tweede lid zijn van overeenkomstige toepassing op het gebruik van:
 
@@ -194,43 +194,43 @@ geschiedt op zindelijke wijze en zodanig dat:
 
 - 2°. onder 1° bedoelde organismen zich niet zodanig kunnen vermeerderen of zodanige toxinen kunnen vormen dat zij uit het oogpunt van de gezondheid van de mens schadelijk kunnen zijn of worden.
 
-2. Met betrekking tot het eerste lid kan een hygiënecode worden opgesteld. In dat geval zijn [artikel 4, eerste lid, tweede lid, onder a, b en d, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=2&artikel=4&z=2022-12-21&g=2022-12-21), en [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=2&artikel=5&z=2022-12-21&g=2022-12-21), van overeenkomstige toepassing.
+2. Met betrekking tot het eerste lid kan een hygiënecode worden opgesteld. In dat geval zijn [artikel 4, eerste lid, tweede lid, onder a, b en d, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=2&artikel=4&z=2025-01-01&g=2025-01-01), en [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=2&artikel=5&z=2025-01-01&g=2025-01-01), van overeenkomstige toepassing.
 
-#### § 5. Rauwe melk
+#### § 5. Rauwe melk en rauwe room
 
 ##### Artikel 8
 
-1. Rauwe koemelk, bestemd voor directe aflevering aan particulieren, is uitsluitend aanwezig:
+1. Rauwe melk en rauwe room bestemd voor rechtstreekse menselijke consumptie worden uitsluitend op het bedrijf waar deze producten zijn gewonnen aan de consument geleverd of aan de plaatselijke detailhandel die rechtstreeks aan de consument levert.
 
-- 1°. op het bedrijf van de melkveehouder waar die melk gewonnen is; en
+2. De exploitant van een bedrijf waar rauwe melk en rauwe room worden gewonnen mag deze producten ter plaatse aan de consument leveren:
 
-- 2°. in een recipiënt die niet geschikt is om met de inhoud afgeleverd te worden aan particulieren;
+- a. indien de rauwe melk en rauwe room ongekoeld worden geleverd: binnen twee uur na het winnen;
 
-en voldoet aan de volgende eisen:
+- b. indien de rauwe melk en rauwe room onmiddellijk na het winnen gekoeld worden tot een temperatuur van ten hoogste 4 °C en tot het moment van levering op die temperatuur worden bewaard: binnen 72 uur na het winnen.
 
-- a. kiemgetal bij 30 °C ≤ 50.000 per ml1;
+3. De exploitant, bedoeld in het tweede lid, mag rauwe melk en rauwe room in diepgevroren staat ter plaatse aan de consument leveren of verzenden:
 
-- b. Staphylococcus aureus (per ml): m=100, M=500, n=5, c=22; en
+- a. indien de rauwe melk en rauwe room binnen 24 uur na het winnen diepgevroren worden tot een temperatuur van ten hoogste - 18 °C en tot het moment van levering of verzending op die temperatuur worden bewaard; en
 
-- c. Salmonella is afwezig in 25 g: n=5, c=0.
+- b. indien verzending zodanig gebeurt, dat de temperatuur van het product tijdens transport constant blijft of tot ten hoogste - 15 °C oploopt.
 
-1 Meetkundig gemiddelde, geconstateerd over een periode van twee maanden, met ten minste twee monsternemingen per maand.
+4. Het derde lid is van overeenkomstige toepassing op de levering of verzending van rauwe melk en rauwe room in diepgevroren staat aan de plaatselijke detailhandel indien deze producten bestemd zijn voor rechtstreekse levering aan de consument.
 
-2 n: aantal eenheden waaruit een monster bestaat;
+5. Rauwe melk en rauwe room bestemd voor rechtstreekse menselijke consumptie, voldoen aan:
 
-m: drempelwaarde voor het aantal bacteriën: het resultaat is bevredigend als het aantal bacteriën in alle eenheden gelijk is aan of groter is dan m;
+- a. de in de bijlage genoemde criteria; en
 
-M: maximumwaarde voor het aantal bacteriën: het resultaat is onbevredigend als het aantal bacteriën in één of meer eenheden gelijk is aan of groter is dan M;
+- b. de criteria, genoemd in [artikel 4, eerste lid, van het Warenwetbesluit Bereiding en behandeling van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&artikel=4).
 
-c: aantal eenheden waarin het aantal bacteriën mag liggen tussen m en M, en waarbij het monster nog aanvaardbaar is als het aantal bacteriën in de andere eenheden gelijk is aan of kleiner is dan m.
+6. De exploitant, bedoeld in het tweede lid, laat rauwe melk minimaal tweemaal per maand op het totaal aeroob kiemgetal bij 30 °C onderzoeken.
 
-2. De in het eerste lid bedoelde melk wordt, wanneer zij niet binnen twee uur na het melken aan de consument wordt verkocht, gekoeld tot:
+7. Het onderzoek, bedoeld in het zesde lid, vindt plaats aan het eind van de bewaartermijn van de melk, doch uiterlijk 72 uur na productie. Dit onderzoek mag eerder plaatsvinden als aannemelijk wordt gemaakt dat het kiemgetal ook aan het einde van de bewaartermijn aan het criterium, genoemd in de bijlage, zal voldoen.
 
-- a. indien die melk binnen 24 uur na het melken verkocht wordt: een temperatuur van 8 °C of lager;
+8. De exploitant, bedoeld in het tweede lid, laat rauwe melk minimaal eenmaal per maand op Salmonella, Campylobacter en Shiga-toxine producerende E. coli (STEC) onderzoeken. De frequentie van dit onderzoek kan worden gehalveerd als de resultaten gedurende zes maanden achter elkaar voldoen aan de criteria, bedoeld in het vijfde lid.
 
-- b. indien die melk niet binnen 24 uur na het melken verkocht wordt: een temperatuur van 6 °C of lager.
+9. De exploitant bewaart de gegevens van de onderzoeken, bedoeld in het zesde en achtste lid, gedurende twee jaren en houdt het ter beschikking van de toezichthouder.
 
-3. Op of in de directe omgeving van de in het eerste lid bedoelde recipiënt wordt duidelijk leesbaar de volgende vermelding gebezigd: RAUWE MELK VOOR GEBRUIK KOKEN.
+10. De exploitant, bedoeld in het tweede lid, die een activiteit, genoemd in het eerste lid uitvoert, doet daarvan melding aan Onze Minister. De melding wordt gedaan door middel van een door Onze Minister beschikbaar gesteld elektronisch formulier. Onze Minister verstrekt de gegevens van de melding aan degenen die ingevolge de [artikelen 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=25), en [25a, eerste lid, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=25a) belast zijn met het toezicht op de naleving van de regels gesteld bij dit artikel.
 
 ##### Artikel 9
 
@@ -238,7 +238,7 @@ De Nederlandse Voedsel- en Warenautoriteit is bevoegd de toestemming te verlenen
 
 ##### Artikel 10
 
-Onze Minister stelt nadere regels inzake de [artikelen 1 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=1&artikel=1&z=2022-12-21&g=2022-12-21), voor zover die noodzakelijk zijn voor de goede uitvoering van de bij of krachtens verordeningen [(EG) 852/2004](32004R0852) of [853/2004](32004R0853) gestelde voorschriften.
+Onze Minister stelt nadere regels inzake de [artikelen 1 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=1&artikel=1&z=2025-01-01&g=2025-01-01), voor zover die noodzakelijk zijn voor de goede uitvoering van de bij of krachtens verordeningen [(EG) 852/2004](32004R0852) of [853/2004](32004R0853) gestelde voorschriften.
 
 ##### Artikel 11
 
@@ -278,7 +278,7 @@ Wijzigt het Warenwetbesluit Uitvoer van waren.
 
 1. Dit besluit treedt in werking met ingang van 1 januari 2006.
 
-2. [Artikel 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=5&artikel=10a&z=2022-12-21&g=2022-12-21) vervalt met ingang van 1 januari 2010.
+2. [Artikel 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=5&artikel=10a&z=2025-01-01&g=2025-01-01) vervalt met ingang van 1 januari 2010.
 
 ##### Artikel 20
 
@@ -291,5 +291,31 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 Vervallen
 
 #### § 6. Slotbepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 8a
+
+1. De exploitant, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=5&artikel=8&z=2025-01-01&g=2025-01-01), zorgt ervoor dat op de recipiënten met rauwe melk of rauwe room bestemd voor rechtstreekse menselijke consumptie, met uitzondering van de melktank, de datum en het tijdstip van winning van de rauwe melk of rauwe room worden vermeld.
+
+2. De exploitant, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=5&artikel=8&z=2025-01-01&g=2025-01-01), zorgt ervoor dat op de verpakkingen van rauwe melk en rauwe room bestemd voor rechtstreekse menselijke consumptie of in de directe omgeving van deze producten als ze pas bij aflevering worden verpakt, duidelijk leesbaar de volgende vermelding wordt vermeld:
+
+- a. indien het rauwe melk of rauwe biest betreft: RAUWE MELK / BIEST * GEBRUIKEN OP DE DAG VAN AANKOOP * GEEF SCHADELIJKE BACTERIËN GEEN KANS * KOKEN VOOR GEBRUIK AANBEVOLEN;
+
+- b. indien het rauwe room betreft: RAUWE ROOM * GEBRUIKEN OP DE DAG VAN AANKOOP * GEEF SCHADELIJKE BACTERIËN GEEN KANS * KOKEN VOOR GEBRUIK AANBEVOLEN.
+
+3. In afwijking van het tweede lid is de vermelding «GEBRUIKEN OP DE DAG VAN AANKOOP» niet verplicht indien de verpakking is voorzien van een datum van minimale houdbaarheid of een uiterste consumptiedatum.
+
+#### § 6. Slotbepalingen
+
+## Bijlage. Criteria voor rauwe melk
+
+(Bijlage als bedoeld in [artikel 8, vijfde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=5&artikel=8&z=2025-01-01&g=2025-01-01), van het Warenwetbesluit hygiëne van levensmiddelen)
+
+| Parameter | Parameterwaarde |
+| --- | --- |
+| Totaal aeroob kiemgetal bij 30 °C | ≤ 25.000 per ml voor rauwe melk van runderen of buffels |
+| Totaal aeroob kiemgetal bij 30 °C | ≤ 50.000 per ml voor rauwe melk van kamelen, dromedarissen, paarden of ezels |
+| Totaal aeroob kiemgetal bij 30 °C | ≤ 100.000 per ml voor rauwe melk van geiten, schapen of overige diersoorten |
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
