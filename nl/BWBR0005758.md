@@ -4,7 +4,7 @@ identifier: "BWBR0005758"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2023-12-16"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005758"
 soort: "AMvB"
@@ -150,23 +150,17 @@ Eet- en drinkwaren, van oorsprong uit de Europese Unie, worden verhandeld met in
 
 - b. Campylobacter niet aantoonbaar is in 25 g of ml;
 
-- c. het aantal kweekbare Staphylococcus aureus niet meer bedraagt dan 100.000 per g of ml;
+- c. Shiga-toxine producerende E. coli (STEC) niet aantoonbaar is in 25 g of ml;
 
-- d. het aantal kweekbare Clostridium perfringens niet meer bedraagt dan 100.000 per g of ml;
+- d. het aantal coagulase positieve staphylococcen (Staphylococcus aureus en andere soorten) niet meer bedraagt dan 100.000 per g of ml;
 
-- e. het aantal kweekbare Bacillus cereus niet meer bedraagt dan 100.000 per g of ml.
+- e. het aantal kweekbare Clostridium perfringens niet meer bedraagt dan 100.000 per g of ml;
+
+- f. het aantal kweekbare Bacillus cereus niet meer bedraagt dan 100.000 per g of ml.
 
 2. Het eerste lid is niet van toepassing voor zover ter zake microbiologische criteria zijn vastgesteld bij [verordening (EG) 2073/2005](32005R2073).
 
-3. Het eerste lid is voorts niet van toepassing op:
-
-- a. onbewerkte, rauwe eet- en drinkwaren; en
-
-- b. bewerkte eet- en drinkwaren die:
-
-- 1°. geen kiemreducerende behandeling hebben ondergaan; en
-
-- 2°. bij normaal gebruik pas na verhitting door de eindgebruiker geschikt zijn voor consumptie door de mens.
+3. Het eerste lid is voorts niet van toepassing op eet- en drinkwaren die geen kiemreducerende behandeling hebben ondergaan en bij normaal gebruik pas worden geconsumeerd nadat de eindgebruiker daarop verhitting of een andere bewerking heeft toegepast die pathogene micro-organismen reduceren tot niet-schadelijke hoeveelheden.
 
 #### § 3. Bereiding
 
@@ -270,7 +264,7 @@ Vervallen
 
 ##### Artikel 13
 
-In eet- en drinkwaren mogen door Onze Minister aangewezen verontreinigingen, andere dan bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=4&artikel=12&z=2023-12-16&g=2023-12-16), die uit oogpunt van gezondheid schadelijk kunnen zijn, niet in een grotere hoeveelheid aanwezig zijn dan door Onze Minister voor de betrokken stof is vastgesteld. De hoeveelheid kan voor de onderscheiden eet- en drinkwaren verschillend worden bepaald.
+In eet- en drinkwaren mogen door Onze Minister aangewezen verontreinigingen, andere dan bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=4&artikel=12&z=2025-01-01&g=2025-01-01), die uit oogpunt van gezondheid schadelijk kunnen zijn, niet in een grotere hoeveelheid aanwezig zijn dan door Onze Minister voor de betrokken stof is vastgesteld. De hoeveelheid kan voor de onderscheiden eet- en drinkwaren verschillend worden bepaald.
 
 #### § 4. Verontreinigingen en residuen van bestrijdingsmiddelen
 
@@ -332,7 +326,7 @@ Vervallen
 
 1. Als methoden van onderzoek welke bij uitsluiting beslissend zijn voor de vaststelling of al dan niet is voldaan aan de bij of krachtens dit besluit gestelde regels, worden aangewezen microbiologische onderzoekingsmethoden, chromatografische en andere scheidingsmethoden, organoleptische bepalingsmethoden en detectiemethoden, alsmede de daartoe door een andere Lid-Staat van de Europese Economische Gemeenschap aangewezen methoden.
 
-2. Onverminderd het eerste lid worden bij de controle of al dan niet is voldaan aan [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=3&artikel=5&z=2023-12-16&g=2023-12-16) de in bijlage II en III bij richtlijn 2013/51/Euratom vastgestelde controlestrategieën en controlefrequenties in acht genomen.
+2. Onverminderd het eerste lid worden bij de controle of al dan niet is voldaan aan [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=3&artikel=5&z=2025-01-01&g=2025-01-01) de in bijlage II en III bij richtlijn 2013/51/Euratom vastgestelde controlestrategieën en controlefrequenties in acht genomen.
 
 3. Onze Minister kan omtrent de in het eerste lid bedoelde methoden nadere regels stellen.
 
@@ -460,8 +454,8 @@ Het tappen onder overdruk van bier als bedoeld in [artikel 7b van het Warenwetbe
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
-## Bijlage. als bedoeld in [artikel 4a, tweede lid, van het Warenwetbesluit Bereiding en behandeling van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=3&artikel=4a&z=2023-12-16&g=2023-12-16)
+## Bijlage. als bedoeld in [artikel 4a, tweede lid, van het Warenwetbesluit Bereiding en behandeling van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=3&artikel=4a&z=2025-01-01&g=2025-01-01)
 
-De afbeelding, bedoeld in [artikel 4a, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=3&artikel=4a&z=2023-12-16&g=2023-12-16), ziet er als volgt uit:
+De afbeelding, bedoeld in [artikel 4a, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=3&artikel=4a&z=2025-01-01&g=2025-01-01), ziet er als volgt uit:
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
