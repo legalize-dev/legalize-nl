@@ -4,7 +4,7 @@ identifier: "BWBR0037160"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-01"
-last_updated: "2024-07-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037160"
 soort: "AMvB"
@@ -130,9 +130,7 @@ Bij ministeriële regeling worden ter uitvoering van de tabaksproductenrichtlijn
 
 ##### Artikel 2.5
 
-1. Bij regeling van Onze Minister kunnen nadere regels worden gesteld omtrent de voorschriften die kunnen worden verbonden aan een erkenning als bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=2&artikel=2.3&z=2016-01-01&g=2016-01-01) van dit besluit.
-
-2. Onze Minister maakt in de Staatscourant bekend welke laboratoria zijn aangewezen of erkend als bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=2&artikel=2.3&z=2016-01-01&g=2016-01-01) van dit besluit.
+Bij ministeriële regeling kunnen ter bescherming van de volksgezondheid eisen gesteld worden aan het ontwerp van een nicotineproduct zonder tabak of een nicotineapparaat en de ingrediënten van een nicotineproduct zonder tabak.
 
 #### § 3. Verpakkingseisen
 
@@ -156,7 +154,7 @@ Bij ministeriële regeling worden ter bescherming van de volksgezondheid of ter 
 
 #### § 3a. Merkgebruik
 
-#### § 4. Rapportageverplichtingen
+#### § 3a. Merkgebruik
 
 ##### Artikel 5.1
 
@@ -206,7 +204,7 @@ Het verbod op bedrijfsmatige verstrekking van tabaksproducten en aanverwante pro
 
 3. Als categorieën van bedrijven en organisaties als bedoeld in [artikel 7, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=7), worden niet aangewezen:
 
-- a. supermarkten in justitiële inrichtingen als bedoeld in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=5&artikel=5.1&z=2024-07-01&g=2024-07-01);
+- a. supermarkten in justitiële inrichtingen als bedoeld in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=5&artikel=5.1&z=2025-01-01&g=2025-01-01);
 
 - b. supermarkten in verpleeghuizen, revalidatiecentra, psychiatrische ziekenhuizen, zwakzinnigeninrichtingen, gezinsvervangende tehuizen voor gehandicapten en verzorgingshuizen;
 
@@ -218,7 +216,7 @@ Het verbod op bedrijfsmatige verstrekking van tabaksproducten en aanverwante pro
 
 1. Elke methode voor het in de handel brengen van tabaksproducten en aanverwante producten zonder ter handstelling door tussenkomst van een verstrekkende persoon is verboden.
 
-2. Het in het eerste lid bepaalde verbod geldt niet in een speciaalzaak als bedoeld in [artikel 5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=5a&artikel=5.9&z=2024-07-01&g=2024-07-01):
+2. Het in het eerste lid bepaalde verbod geldt niet in een speciaalzaak als bedoeld in [artikel 5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=5a&artikel=5.9&z=2025-01-01&g=2025-01-01):
 
 - a. waarbij een middel voor het in de handel brengen van tabaksproducten en aanverwante producten zonder ter handstelling door tussenkomst van een verstrekkende persoon in de handel worden gebracht, is vergrendeld en voor de uitvoering van de verkooptransactie slechts kan worden ontgrendeld door of ten behoeve van personen van 18 jaar of ouder;
 
@@ -248,7 +246,7 @@ Degene die – anders dan in een hoedanigheid als bedoeld in [artikel 10, eerste
 
 ##### Artikel 6.2
 
-1. De verplichting, bedoeld in [artikel 10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=10) en in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=6&artikel=6.1&z=2024-07-01&g=2024-07-01) van dit besluit, geldt niet:
+1. De verplichting, bedoeld in [artikel 10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=10) en in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=6&artikel=6.1&z=2025-01-01&g=2025-01-01) van dit besluit, geldt niet:
 
 - a. in ruimten waar geen inbreuk mag worden gemaakt op de persoonlijke levenssfeer;
 
@@ -264,7 +262,7 @@ Vervallen
 
 ##### Artikel 7.1
 
-Voor elektronische sigaretten zonder nicotine, navulverpakkingen zonder nicotine en patronen zonder nicotine die voor inwerkingtreding van dit artikel in de handel zijn gebracht, worden de in [artikel 4.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.6&z=2024-07-01&g=2024-07-01), bedoelde gegevens en bescheiden uiterlijk zes maanden na het moment waarop dit artikel in werking is getreden aan Onze Minister verstrekt.
+Voor elektronische sigaretten zonder nicotine, navulverpakkingen zonder nicotine en patronen zonder nicotine die voor inwerkingtreding van dit artikel in de handel zijn gebracht, worden de in [artikel 4.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.6&z=2025-01-01&g=2025-01-01), bedoelde gegevens en bescheiden uiterlijk zes maanden na het moment waarop dit artikel in werking is getreden aan Onze Minister verstrekt.
 
 ##### Artikel 7.2
 
@@ -272,7 +270,7 @@ Een wijziging van de tabaksproductenrichtlijn en besluiten vastgesteld ter uitvo
 
 ##### Artikel 7.3
 
-[Artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=6&artikel=6.2&z=2024-07-01&g=2024-07-01), zoals dat luidde voor inwerkingtreding van het Besluit van 14 januari 2021 houdende wijziging van het Tabaks- en rookwarenbesluit om de uitzondering op het rookverbod in de vorm van rookruimtes af te schaffen en enkele technische wijzigingen (Stb. 2021, 25) blijft tot 1 januari 2022 van toepassing op een ruimte, gebouw of inrichting als bedoeld in [artikel 10, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=10) indien de hoedanigheid van werkgever, bedoeld in dat onderdeel, niet samenvalt met een andere hoedanigheid als bedoeld in artikel 10 van de wet of [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=6&artikel=6.1&z=2024-07-01&g=2024-07-01) van dit besluit.
+[Artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=6&artikel=6.2&z=2025-01-01&g=2025-01-01), zoals dat luidde voor inwerkingtreding van het Besluit van 14 januari 2021 houdende wijziging van het Tabaks- en rookwarenbesluit om de uitzondering op het rookverbod in de vorm van rookruimtes af te schaffen en enkele technische wijzigingen (Stb. 2021, 25) blijft tot 1 januari 2022 van toepassing op een ruimte, gebouw of inrichting als bedoeld in [artikel 10, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=10) indien de hoedanigheid van werkgever, bedoeld in dat onderdeel, niet samenvalt met een andere hoedanigheid als bedoeld in artikel 10 van de wet of [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=6&artikel=6.1&z=2025-01-01&g=2025-01-01) van dit besluit.
 
 ##### Artikel 7.4
 
@@ -316,9 +314,9 @@ Vervallen
 
 ##### Artikel 4.4
 
-1. Bij ministeriële regeling wordt een sjabloon vastgesteld waarin de gegevens en bescheiden bedoeld in de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.1&z=2024-07-01&g=2024-07-01), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.2&z=2024-07-01&g=2024-07-01) en [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.3&z=2024-07-01&g=2024-07-01) worden verstrekt.
+1. Bij ministeriële regeling wordt een sjabloon vastgesteld waarin de gegevens en bescheiden bedoeld in de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.1&z=2025-01-01&g=2025-01-01), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.2&z=2025-01-01&g=2025-01-01) en [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.3&z=2025-01-01&g=2025-01-01) worden verstrekt.
 
-2. Onze Minister geeft de Europese Commissie en de andere staten van de Europese Economische Ruimte toegang tot de gegevens en bescheiden bedoeld in de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.1&z=2024-07-01&g=2024-07-01), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.2&z=2024-07-01&g=2024-07-01) en [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.3&z=2024-07-01&g=2024-07-01).
+2. Onze Minister geeft de Europese Commissie en de andere staten van de Europese Economische Ruimte toegang tot de gegevens en bescheiden bedoeld in de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.1&z=2025-01-01&g=2025-01-01), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.2&z=2025-01-01&g=2025-01-01) en [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.3&z=2025-01-01&g=2025-01-01).
 
 ##### Artikel 4.5
 
@@ -342,7 +340,7 @@ Vervallen
 
 2. Bij ministeriële regeling worden ter bescherming van de volksgezondheid of ter uitvoering van de tabaksproductenrichtlijn eisen gesteld aan de gegevens en bescheiden die worden verstrekt en de wijze en het tijdstip waarop dit gebeurt.
 
-3. Onze Minister deelt de bij of krachtens dit artikel en [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.6&z=2024-07-01&g=2024-07-01) ontvangen gegevens en bescheiden met betrekking tot een elektronische sigaret en een navulverpakking op verzoek met de Europese Commissie en de andere staten van de Europese Economische Ruimte.
+3. Onze Minister deelt de bij of krachtens dit artikel en [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.6&z=2025-01-01&g=2025-01-01) ontvangen gegevens en bescheiden met betrekking tot een elektronische sigaret en een navulverpakking op verzoek met de Europese Commissie en de andere staten van de Europese Economische Ruimte.
 
 ##### Artikel 4.8
 
@@ -352,7 +350,7 @@ Vervallen
 
 ##### Artikel 4.9
 
-1. Onze Minister draagt op een door hem te bepalen wijze zorg voor de openbaarmaking van de gegevens en bescheiden die worden verstrekt bij of krachtens de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.1&z=2024-07-01&g=2024-07-01), [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.3&z=2024-07-01&g=2024-07-01), [4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.6&z=2024-07-01&g=2024-07-01) en [4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.8&z=2024-07-01&g=2024-07-01). Producenten en importeurs verstrekken deze gegevens en bescheiden in de Nederlandse taal.
+1. Onze Minister draagt op een door hem te bepalen wijze zorg voor de openbaarmaking van de gegevens en bescheiden die worden verstrekt bij of krachtens de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.1&z=2025-01-01&g=2025-01-01), [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.3&z=2025-01-01&g=2025-01-01), [4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.6&z=2025-01-01&g=2025-01-01) en [4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.8&z=2025-01-01&g=2025-01-01). Producenten en importeurs verstrekken deze gegevens en bescheiden in de Nederlandse taal.
 
 2. Producenten en importeurs van tabaksproducten en aanverwante producten geven bij het verstrekken van de gegevens en bescheiden, bedoeld in het eerste lid, nauwkeurig aan welke informatie zij als bedrijfsgeheim beschouwen.
 
@@ -388,7 +386,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 3.4
 
-1. In aanvulling op het bepaalde in de [artikelen 3.1 tot en met 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=3&artikel=3.1&z=2024-07-01&g=2024-07-01) worden bij ministeriële regeling eisen gesteld met betrekking tot de ruimte op en in de verpakkingseenheid en de buitenverpakking van voor roken bestemde tabaksproducten die niet in beslag wordt genomen door de algemene waarschuwing, de informatieve boodschap en de gecombineerde gezondheidswaarschuwing. Voor sigaretten en shagtabak wordt daarbij een standaard verpakkingseenheid en een standaard buitenverpakking voorgeschreven.
+1. In aanvulling op het bepaalde in de [artikelen 3.1 tot en met 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=3&artikel=3.1&z=2025-01-01&g=2025-01-01) worden bij ministeriële regeling eisen gesteld met betrekking tot de ruimte op en in de verpakkingseenheid en de buitenverpakking van voor roken bestemde tabaksproducten die niet in beslag wordt genomen door de algemene waarschuwing, de informatieve boodschap en de gecombineerde gezondheidswaarschuwing. Voor sigaretten en shagtabak wordt daarbij een standaard verpakkingseenheid en een standaard buitenverpakking voorgeschreven.
 
 2. De eisen hebben betrekking op:
 
@@ -402,7 +400,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - e. de vormgeving van de verpakkingseenheid en de buitenverpakking.
 
-3. Het eerste lid geldt niet voor sigaren als bedoeld in [artikel 3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=3&artikel=3.2&z=2024-07-01&g=2024-07-01).
+3. Het eerste lid geldt niet voor sigaren als bedoeld in [artikel 3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=3&artikel=3.2&z=2025-01-01&g=2025-01-01).
 
 #### § 4. Rapportageverplichtingen
 
@@ -410,17 +408,17 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### § 5a. Reclamebeperkingen
 
-#### § 7. Slotbepalingen
+#### § 6. Rookverbod en uitzondering op het rookverbod
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### § 6. Rookverbod en uitzondering op het rookverbod
+#### § 5a. Reclamebeperkingen
 
 #### § 7. Slotbepalingen
 
 ##### Artikel 7.3a
 
-Op een tabaksautomaat waarmee tabaksproducten of aanverwante producten in de handel werden gebracht reeds voor de datum waarop artikel I, onderdeel A, van het besluit van ..., houdende wijziging van het Tabaks- en rookwarenbesluit ter regeling van een uitzondering voor verkooppunten op het verbod te koop aangeboden tabaksproducten en aanverwante producten te tonen, verbod op verkoop van tabaksproducten en aanverwante producten zonder ter handstelling door tussenkomst van een verstrekkende persoon, en faciliteiten in aangewezen rookruimtes (Stb. 2019, XXX ), in werking is getreden, blijft tot 1 januari 2022, [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=5&artikel=5.3&z=2024-07-01&g=2024-07-01) zoals dat luidde voor dat tijdstip van inwerkingtreding, van toepassing.
+Op een tabaksautomaat waarmee tabaksproducten of aanverwante producten in de handel werden gebracht reeds voor de datum waarop artikel I, onderdeel A, van het besluit van ..., houdende wijziging van het Tabaks- en rookwarenbesluit ter regeling van een uitzondering voor verkooppunten op het verbod te koop aangeboden tabaksproducten en aanverwante producten te tonen, verbod op verkoop van tabaksproducten en aanverwante producten zonder ter handstelling door tussenkomst van een verstrekkende persoon, en faciliteiten in aangewezen rookruimtes (Stb. 2019, XXX ), in werking is getreden, blijft tot 1 januari 2022, [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=5&artikel=5.3&z=2025-01-01&g=2025-01-01) zoals dat luidde voor dat tijdstip van inwerkingtreding, van toepassing.
 
 ##### Artikel 7.3b
 
@@ -460,7 +458,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 5.10
 
-Bij ministeriële regeling worden regels gesteld aan de wijze waarop tabaksproducten en aanverwante producten aan het zicht worden onttrokken, de wijze waarop de registratie, bedoeld in [artikel 5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=5a&artikel=5.9&z=2024-07-01&g=2024-07-01), plaatsvindt en de gegevens en bescheiden die daarbij worden verstrekt.
+Bij ministeriële regeling worden regels gesteld aan de wijze waarop tabaksproducten en aanverwante producten aan het zicht worden onttrokken, de wijze waarop de registratie, bedoeld in [artikel 5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=5a&artikel=5.9&z=2025-01-01&g=2025-01-01), plaatsvindt en de gegevens en bescheiden die daarbij worden verstrekt.
 
 #### § 7. Slotbepalingen
 
@@ -478,7 +476,15 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 2. De verplichting een rookverbod te handhaven geldt niet op tijdstippen waarop noch het gebouw of de inrichting, noch het bijbehorende terrein in gebruik is.
 
-3. [Artikel 6.2 eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=6&artikel=6.2&z=2024-07-01&g=2024-07-01), is niet van toepassing op de open lucht in een gebouw of inrichting als bedoeld in het eerste lid.
+3. [Artikel 6.2 eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=6&artikel=6.2&z=2025-01-01&g=2025-01-01), is niet van toepassing op de open lucht in een gebouw of inrichting als bedoeld in het eerste lid.
+
+#### § 7. Slotbepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+#### § 4. Rapportageverplichtingen
+
+#### § 5. Verkoopbeperkingen
 
 #### § 7. Slotbepalingen
 
