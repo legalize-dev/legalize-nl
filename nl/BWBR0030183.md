@@ -4,7 +4,7 @@ identifier: "BWBR0030183"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2026-01-01"
-last_updated: "2024-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030183"
 soort: "ministeriele-regeling-BES"
@@ -106,7 +106,7 @@ Vervallen
 
 2. Eerst wordt zoveel mogelijk verrekend met de nabetalingen die van het tijdstip van afgifte van de in het eerste lid bedoelde beschikking af aan de student zouden moeten worden gedaan.
 
-3. Vervolgens wordt zolang het te veel uitbetaalde bedrag nog niet volledig is verrekend met de in het tweede lid bedoelde nabetalingen, verrekend met de maandbetalingen, bedoeld in [artikel 3, eerste lid, van het Besluit studiefinanciering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029604&artikel=3). Wanneer die maandbetalingen met ingang van 1 januari 2024 hoger zijn dan USD 292,52, geschiedt de verrekening met dat bedrag.
+3. Vervolgens wordt zolang het te veel uitbetaalde bedrag nog niet volledig is verrekend met de in het tweede lid bedoelde nabetalingen, verrekend met de maandbetalingen, bedoeld in [artikel 3, eerste lid, van het Besluit studiefinanciering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029604&artikel=3). Wanneer die maandbetalingen met ingang van 1 januari 2025 hoger zijn dan USD 304,18, geschiedt de verrekening met dat bedrag.
 
 4. Onder nabetalingen, bedoeld in het tweede lid, wordt verstaan de betaling van bedragen die op grond van enige herzieningsbeschikking over reeds op het tijdstip van afgifte van die beschikking verstreken maanden zonder de verrekening, bedoeld in het tweede lid, aan de student betaalbaar zouden worden gesteld.
 
@@ -116,7 +116,7 @@ Vervallen
 
 ##### Artikel 5.2. Aanpassing
 
-Aanpassing van het bedrag, bedoeld in [artikel 5.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030183&hoofdstuk=5&artikel=5.1&z=2024-01-01&g=2024-01-01), geschiedt overeenkomstig [artikel 8.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=8.1).
+Aanpassing van het bedrag, bedoeld in [artikel 5.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030183&hoofdstuk=5&artikel=5.1&z=2025-01-01&g=2025-01-01), geschiedt overeenkomstig [artikel 8.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=8.1).
 
 ### Hoofdstuk 4. Terugbetaling studieschuld
 
