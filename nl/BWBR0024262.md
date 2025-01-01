@@ -4,7 +4,7 @@ identifier: "BWBR0024262"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2014-04-25"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024262"
 soort: "ministeriele-regeling"
@@ -42,35 +42,35 @@ Besluit:
 
 ##### Artikel 1
 
-1. Als normen bedoeld in [artikel 3, tweede lid, van het Warenwetbesluit kinderbedden en -boxen](https://wetten.overheid.nl/jci1.3:c:BWBR0004710&artikel=3) worden aangewezen de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0024262&bijlage=I&z=2014-04-25&g=2014-04-25) bij deze regeling vermelde normen.
+1. Als normen, bedoeld in [artikel 3, derde lid, van het Warenwetbesluit kinderbedden en -boxen](https://wetten.overheid.nl/jci1.3:c:BWBR0004710&artikel=3), worden aangewezen de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0024262&bijlage=I&z=2025-01-01&g=2025-01-01) bij deze regeling vermelde normen.
 
-2. Als nadere eisen voor kinderbedden en -boxen die in de kinderopvang worden gebruikt en voor te gebruiken methoden van onderzoek worden aangewezen de in de [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0024262&bijlage=II&z=2014-04-25&g=2014-04-25) bij deze regeling opgenomen eisen.
+2. Als nadere eisen voor kinderbedden en -boxen die in een kindercentrum als bedoeld in [artikel 1.1, eerste lid, van de Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.1), worden gebruikt en voor te gebruiken methoden van onderzoek worden aangewezen de in de [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0024262&bijlage=II&z=2025-01-01&g=2025-01-01) bij deze regeling opgenomen eisen.
 
 ##### Artikel 2
 
 Deze regeling wordt aangehaald als:
 
-Warenwetregeling nadere eisen kinderbedden en -boxen kinderopvang.
+Warenwetregeling nadere eisen kinderbedden en -boxen.
 
 ##### Artikel 3
 
-Kinderbedden en -boxen die in de kinderopvang in gebruik zijn op het tijdstip van inwerkingtreding van deze regeling en die voldoen aan de regelgeving zoals die luidde direct voor dat tijdstip, mogen daar nog worden gebruikt tot 1 januari 2016.
+Vervallen
 
 ##### Artikel 4
 
 Deze regeling treedt in werking op de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-## Bijlage I. bij de Warenwetregeling nadere eisen kinderbedden en -boxen kinderopvang
+## Bijlage I. bij de Warenwetregeling nadere eisen kinderbedden en -boxen
 
 ### **Normen voor kinderbedden en -boxen**
 
-## Bijlage II. Bij de Warenwetregeling nadere eisen kinderbedden en -boxen kinderopvang
+## Bijlage II. bij de Warenwetregeling nadere eisen kinderbedden en -boxen
 
-### ****Eisenpakket voor kinderbedden en boxen in de kinderopvang****
+### ****Eisenpakket voor kinderbedden en boxen in kindercentra****
 
 ### **1. Doel**
 
-Deze eisen zijn opgesteld voor kinderbedden en boxen gebruikt in de kinderopvang voor kinderen tot 4 jaar. De eisen zijn van toepassing op bedden, evacuatiebedden en opvouwbare bedden met een inwendige lengte vanaf 900 mm. Bedden met een inwendige lengte kleiner of gelijk aan 900 mm worden beschouwd als wieg en moeten als zodanig voldoen aan de Europese norm voor wiegen (EN 1130).
+Deze eisen zijn opgesteld voor kinderbedden en boxen gebruikt in kindercentra voor kinderen tot 4 jaar. De eisen zijn van toepassing op bedden, evacuatiebedden en opvouwbare bedden met een inwendige lengte vanaf 900 mm. Bedden met een inwendige lengte kleiner of gelijk aan 900 mm worden beschouwd als wieg en moeten als zodanig voldoen aan de Europese norm voor wiegen (EN 1130).
 
 Deze eisen zijn van toepassing op alle boxen en inklapbare boxen.
 
@@ -832,7 +832,7 @@ Nadere uitleg
 
 In deze nadere uitleg worden verschillende eisen nader verklaard en een uitleg over de achtergrond van enkele testmethoden gegeven.
 
-Omdat gebleken is dat de eisen die in het verleden gesteld werden aan kinderbedden en boxen onvoldoende bescherming bieden aan de huidige producten die in de kinderopvang gebruikt worden, is een specifiek eisenpakket opgesteld voor deze producten. Het eisenpakket is tot stand gekomen in samenwerking met fabrikanten, keuringsinstanties, brancheorganisaties van ondernemers in de kinderopvang, Stichting Consument en Veiligheid en de VWA.
+Omdat gebleken is dat de eisen die in het verleden gesteld werden aan kinderbedden en boxen onvoldoende bescherming bieden aan de huidige producten die in kindercentra gebruikt worden, is een specifiek eisenpakket opgesteld voor deze producten. Het eisenpakket is tot stand gekomen in samenwerking met fabrikanten, keuringsinstanties, brancheorganisaties van ondernemers in kindercentra, Stichting Consument en Veiligheid en de VWA.
 
 De kans op letsel bij lage kinderbedden (ook wel stretchers genoemd) is gering, vandaar dat zij geen uitvalbescherming (hekje) hoeven te hebben.
 
@@ -864,7 +864,7 @@ Bedden met een laagst overklimbaar punt hoger dan 900 mm mogen niet uitklimbaar 
 
 Er is onderscheid gemaakt tussen sluiten en vergrendelen. Een leidster moet in staat zijn om met één hand het product te sluiten. Het product moet in deze stand het kind veilig in zijn bed kunnen houden. Een kind dat tegen de uitvalbeveiliging (hekje) aan rolt moet worden tegenhouden door deze uitvalbeveiliging in de gesloten toestand. Dit is een passieve situatie, niet een situatie waarbij het kind het hekje opzettelijk probeert te openen, de beveiliging hiervoor wordt door de vergrendeling gerealiseerd. Want na het sluiten moet de leidster het product bewust vergrendelen. Aan deze vergrendeling zijn eisen gesteld, dit vergrendelen mag wel met twee handen. Het moet wel duidelijk zichtbaar zijn dat het product vergrendeld is of niet.
 
-De producten in de kinderopvang worden regelmatig verplaatst naar een andere ruimte daarom moet ervoor gezorgd worden dat de verbindingen ook na een aantal keren demonteren voldoende sterkte bieden, zelftappende schroeven zijn daarom niet toegestaan op die verbindingen tussen kopse kanten, zijwanden, daken en bedbodems.
+De producten in kindercentra worden regelmatig verplaatst naar een andere ruimte daarom moet ervoor gezorgd worden dat de verbindingen ook na een aantal keren demonteren voldoende sterkte bieden, zelftappende schroeven zijn daarom niet toegestaan op die verbindingen tussen kopse kanten, zijwanden, daken en bedbodems.
 
 De bodem mag niet door een kind in het onderste bed kunnen worden opgetild of door een kind dat zich onder de hoge box bevindt.
 
