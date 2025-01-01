@@ -4,7 +4,7 @@ identifier: "BWBR0038794"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-01-01"
-last_updated: "2017-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038794"
 soort: "zbo"
@@ -68,11 +68,9 @@ Het bevorderen van de kennis over en verspreiding van Nederlandse hedendaagse be
 
 5. De bijdrage bedraagt maximaal 25 procent van de productiekosten van de publicatie.
 
-6. Indien de publicatie in technisch opzicht innovatief is, bedraagt de bijdrage maximaal 40 procent van de productiekosten van de publicatie.
+6. Indien een publicatie in samenwerking tussen een beeldend kunstenaar en een uitgever wordt geproduceerd, dient in de begroting een passend honorarium voor de kunstenaar te worden opgenomen.
 
-7. Indien een publicatie in samenwerking tussen een beeldend kunstenaar en een uitgever wordt geproduceerd, dient in de begroting een passend honorarium voor de kunstenaar te worden opgenomen.
-
-8. Indien de publicatie in eigen beheer wordt uitgegeven, kan de bijdrage een tegemoetkoming in de kosten voor tijdsinvestering omvatten.
+7. Indien de publicatie in eigen beheer wordt uitgegeven, kan de bijdrage een tegemoetkoming in de kosten voor tijdsinvestering omvatten.
 
 ##### Artikel 3. Aanvraag
 
@@ -114,11 +112,9 @@ Naast de bepalingen vastgesteld in het [Algemeen Reglement](https://wetten.overh
 
 - •. het belang van het promotieplan op de wijze waarop beoogd wordt op een inspirerende wijze een passend publiek te bereiken.
 
-6. Indien de aanvrager heeft aangegeven dat de publicatie in technisch opzicht innovatief is, beoordeelt het adviesorgaan tevens of de aanvraag een innovatieve publicatie betreft bedoeld in [artikel 2 lid 6](https://wetten.overheid.nl/jci1.3:c:BWBR0038794&artikel=2&z=2017-01-01&g=2017-01-01), zoals omschreven in de toelichting bij het aanvraagformulier.
+6. Een positief advies kan vergezeld gaan van een aanbeveling over de hoogte van de toe te kennen financiële bijdrage en over de periode waarvoor deze verstrekt wordt.
 
-7. Een positief advies kan vergezeld gaan van een aanbeveling over de hoogte van de toe te kennen financiële bijdrage en over de periode waarvoor deze verstrekt wordt.
-
-8. Het bestuur kan het bevoegd adviesorgaan verzoeken de positieve adviezen in volgorde van prioriteit te rangschikken op basis van het oordeel zoals bedoeld in lid 4 en in lid 6 van dit artikel. Daarbij kan een afweging tussen de verschillende soorten publicaties, zoals bedoeld in [artikel 2 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038794&artikel=2&z=2017-01-01&g=2017-01-01) een rol spelen.
+7. Het bestuur kan het bevoegd adviesorgaan verzoeken de positieve adviezen in volgorde van prioriteit te rangschikken op basis van het oordeel zoals bedoeld in lid 4 van dit artikel. Daarbij kan een afweging tussen de verschillende soorten publicaties, zoals bedoeld in [artikel 2 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038794&artikel=2&z=2025-01-01&g=2025-01-01) een rol spelen.
 
 ##### Artikel 5. Overgangsbepaling
 
