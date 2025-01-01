@@ -4,7 +4,7 @@ identifier: "BWBR0020326"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2024-05-25"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020326"
 soort: "AMvB"
@@ -192,67 +192,7 @@ De [artikelen 40a](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40a) 
 
 ##### Artikel 5b
 
-1. In afwijking op [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0020326&artikel=5a&z=2024-05-25&g=2024-05-25) is voor de boekjaren 2022 en 2023 [artikel 40b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40b) enkel van toepassing op:
-
-- a. categorieën van zorgaanbieders en geen rechtspersoonlijkheid bezittende organisatorische verbanden van zorgaanbieders die de volgende zorg verlenen:
-
-- 1°. medisch-specialistische zorg;
-
-- 2°. persoonlijke verzorging;
-
-- 3°. verpleging;
-
-- 4°. begeleiding;
-
-- 5°. behandeling, anders dan behandeling van gedragswetenschappelijke aard in verband met een psychiatrische aandoening; of
-
-- 6°. mobiele zorg vanuit of naar het buitenland;
-
-- b. de volgende categorieën:
-
-- 1°. zorgaanbieders en geen rechtspersoonlijkheid bezittende organisatorische verbanden van zorgaanbieders die in de boekjaren 2022 of 2023 een melding hebben gedaan of hadden moeten doen als bedoeld in [artikel 2, eerste lid, van de Wet toetreding zorgaanbieders](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&artikel=2) of die in het handelsregister zijn geregistreerd, met uitzondering van zorgaanbieders of geen rechtspersoonlijkheid bezittende organisatorische verbanden van zorgaanbieders als bedoeld in [artikel 17, eerste lid, van de Wet toetreding zorgaanbieders](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&artikel=17) die geen jaarverantwoording, bedoeld in [artikel 40b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40b), over het boekjaar 2021 op de krachtens dat artikel bepaalde wijze openbaar diende te maken;
-
-- 2°. Regionale Ambulancevoorzieningen;
-
-- 3°. zorgaanbieders en geen rechtspersoonlijkheid bezittende organisatorische verbanden van zorgaanbieders die tevens een jeugdhulpaanbieder of een gecertificeerde instelling als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1) zijn; of
-
-- 4°. zorgaanbieders en geen rechtspersoonlijkheid bezittende organisatorische verbanden van zorgaanbieders die tevens een Veilig Thuis-organisatie als bedoeld in [artikel 4.1.1 van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=4.1.1) zijn.
-
-2. In afwijking van het eerste lid is [artikel 40b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40b) niet van toepassing op:
-
-- a. zorgaanbieders en geen rechtspersoonlijkheid bezittende organisatorische verbanden van zorgaanbieders die uitsluitend zorg verlenen anders dan zorg en overige diensten die behoren tot het op grond van de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) verzekerde pakket, bedoeld in [artikel 3.1.1 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1) of onderdeel uitmaken van de zorgplicht van de zorgverzekeraar, bedoeld in [artikel 11, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=11), en waarvoor Onze Minister geen subsidie verleent;
-
-- b. zorgaanbieders en geen rechtspersoonlijkheid bezittende organisatorische verbanden van zorgaanbieders die uitsluitend de volgende zorg verlenen:
-
-- 1°. vervoer als bedoeld in [artikel 3.1.1, eerste lid, onderdeel f, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1);
-
-- 2°. vervoer als bedoeld in [artikel 2.5, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.5), [artikel 2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.14) of [artikel 2.15 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.15);
-
-- 3°. schoonhouden van de woonruimte als bedoeld in [artikel 3.1.1, eerste lid, onderdeel a, onder 2°, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1);
-
-- 4°. leveren van roerende voorzieningen of mobiliteitshulpmiddelen als bedoeld in [artikel 3.1.1, eerste lid, onderdeel a, onder 3°, onderscheidenlijk onderdeel e, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1);
-
-- 5°. verstrekken van eten en drinken als bedoeld in [artikel 3.1.1, eerste lid, onderdeel a, onder 1°, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1);
-
-- 6°. verblijf als bedoeld in [artikel 2.12, eerste lid, van het Besluit Zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.12) dat noodzakelijk is in verband met geneeskundige zorg zoals medisch specialisten die plegen te bieden en dat niet gepaard gaat met verpleging, verzorging of paramedische zorg;
-
-- 7°. levering van elektriciteit voor mechanische ademhalingsondersteuning in de thuissituatie;
-
-- c. zorgaanbieders als bedoeld in [artikel 1, eerste lid, onderdeel c, onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1);
-
-- d. natuurlijke personen die geen zorg doen verlenen;
-
-- e. natuurlijke personen en rechtspersonen voor zover zij zorg doen verlenen in het kader van een maatschap of vennootschap waarvan zij vennoot zijn.
-
-3. In afwijking van het eerste lid, onderdeel a, onder 1° tot en met 5°, is [artikel 40b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40b) niet van toepassing op categorieën zorgaanbieders en geen rechtspersoonlijkheid bezittende organisatorische verbanden van zorgaanbieders die uitsluitend:
-
-- a. binnen het kader van een andere zorgaanbieder zorg verlenen;
-
-- b. zorg verlenen die ten laste van een persoonsgebonden budget als bedoeld in [artikel 3.3.3 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.3.3) of [artikel 13a van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=13a) wordt gefinancierd;
-
-- c. zorg verlenen op basis van een subsidie die is verstrekt op grond van de [Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455);
-
-- d. geen rechtspersoonlijkheid bezittende organisatorische verbanden van zorgaanbieders die uitsluitend onder de vennoten de lasten verdelen en geen baten verwerven in het kader van het verband waarvan zij vennoot zijn.
+Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
