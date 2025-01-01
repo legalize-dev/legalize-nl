@@ -4,7 +4,7 @@ identifier: "BWBR0046618"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2022-11-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046618"
 soort: "AMvB"
@@ -80,11 +80,11 @@ Uit het register volgt de omvang van het door een uiteindelijk belanghebbende in
 
 - a. 0 tot en met 25 procent;
 
-- b. ten minste 26 tot en met 50 procent;
+- b. meer dan 25 tot en met 50 procent;
 
-- c. ten minste 51 tot en met 75 procent;
+- c. meer dan 50 tot en met 75 procent;
 
-- d. ten minste 76 tot en met 100 procent.
+- d. meer dan 75 tot en met 100 procent.
 
 ##### Artikel 4. Documenten economisch belang
 
