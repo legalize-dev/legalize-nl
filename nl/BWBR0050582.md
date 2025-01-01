@@ -4,7 +4,7 @@ identifier: "BWBR0050582"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2024-12-21"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050582"
 soort: "AMvB"
@@ -50,8 +50,6 @@ Hebben goedgevonden en verstaan:
 
 Wijzigt het Besluit activiteiten leefomgeving.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel II. (Wijziging [Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313))
 
 Wijzigt het Besluit kwaliteit leefomgeving.
@@ -60,11 +58,9 @@ Wijzigt het Besluit kwaliteit leefomgeving.
 
 Wijzigt het Omgevingsbesluit.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Onze Minister van Infrastructuur en Waterstaat zendt binnen vijf jaar na de inwerkingtreding van dit besluit aan de Staten-Generaal een verslag over de doeltreffendheid, de uitvoerbaarheid en de effecten in de praktijk van de bepalingen van dit besluit betreffende de elektronische voorziening, bedoeld in [artikel 5.24a van dit besluit](onbekend).
 
 ##### Artikel V
 
