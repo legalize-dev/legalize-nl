@@ -4,7 +4,7 @@ identifier: "BWBV0003243"
 country: "nl"
 rank: "verdrag"
 publication_date: "2025-01-01"
-last_updated: "2024-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003243"
 soort: "verdrag"
@@ -86,7 +86,7 @@ Voor de toepassing van dit Verdrag en de daarbij behorende Bijlage wordt verstaa
 
 - c. De Secretaris-Generaal geeft alle Verdragsluitende Regeringen kennis van elke overeenkomstig het bepaalde in paragraaf b ontvangen mededeling, alsmede van de datum waarop de wijziging van kracht wordt.
 
-- d. De Verdragsluitende Regeringen die een wijziging niet aanvaarden worden niet door die wijziging gebonden, maar dienen de in [Artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&artikel=XIII&z=2024-01-01&g=2024-01-01) van dit Verdrag bepaalde procedure te volgen.
+- d. De Verdragsluitende Regeringen die een wijziging niet aanvaarden worden niet door die wijziging gebonden, maar dienen de in [Artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&artikel=XIII&z=2025-01-01&g=2025-01-01) van dit Verdrag bepaalde procedure te volgen.
 
 3. Een Conferentie van Verdragsluitende Regeringen ter bestudering van wijzigingen van de Bijlage wordt door de Secretaris-Generaal bijeengeroepen op verzoek van ten minste een derde van deze Regeringen. Elke wijziging die door deze Conferentie wordt aanvaard met tweederdemeerderheid van de aanwezige en hun stem uitbrengende Verdragsluitende Regeringen, wordt van kracht zes maanden na de datum waarop de Secretaris-Generaal de Verdragsluitende Regeringen in kennis stelt van het aanvaarden van de wijziging.
 
@@ -136,7 +136,7 @@ Drie jaar nadat dit Verdrag voor een Verdragsluitende Regering in werking is get
 
 - b. Met ingang van de datum waarop de kennisgeving is ontvangen of met ingang van een in de kennisgeving eventueel genoemde andere datum, geldt dit Verdrag eveneens voor het daarin genoemde gebied.
 
-- c. De bepalingen van [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&artikel=VIII&z=2024-01-01&g=2024-01-01) van dit Verdrag zijn van toepassing op elk gebied waartoe dit Verdrag overeenkomstig het bepaalde in dit artikel wordt uitgebreid; onder de uitdrukking „zijn eigen formaliteiten, documenten en procedures” dienen in dit geval mede te worden begrepen de voorschriften welke binnen dat gebied van kracht zijn.
+- c. De bepalingen van [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&artikel=VIII&z=2025-01-01&g=2025-01-01) van dit Verdrag zijn van toepassing op elk gebied waartoe dit Verdrag overeenkomstig het bepaalde in dit artikel wordt uitgebreid; onder de uitdrukking „zijn eigen formaliteiten, documenten en procedures” dienen in dit geval mede te worden begrepen de voorschriften welke binnen dat gebied van kracht zijn.
 
 - d. Dit Verdrag houdt op van toepassing te zijn voor een bepaald gebied, één jaar na ontvangst door de Secretaris-Generaal van een daartoe strekkende kennisgeving, of met ingang van een daarin bepaalde latere datum.
 
@@ -150,11 +150,11 @@ De Secretaris-Generaal stelt alle ondertekenende Regeringen, alle Verdragsluiten
 
 - b. de nederlegging van akten van aanvaarding en toetreding, alsmede de data waarop deze zijn nedergelegd;
 
-- c. de datum waarop het Verdrag overeenkomstig de bepalingen van [artikel XI](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&artikel=XI&z=2024-01-01&g=2024-01-01) in werking treedt;
+- c. de datum waarop het Verdrag overeenkomstig de bepalingen van [artikel XI](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&artikel=XI&z=2025-01-01&g=2025-01-01) in werking treedt;
 
-- d. eventuele kennisgevingen ontvangen overeenkomstig het bepaalde in de [artikelen XII](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&artikel=XII&z=2024-01-01&g=2024-01-01) en [XIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&artikel=XIII&z=2024-01-01&g=2024-01-01), alsmede de data waarop deze zijn ontvangen;
+- d. eventuele kennisgevingen ontvangen overeenkomstig het bepaalde in de [artikelen XII](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&artikel=XII&z=2025-01-01&g=2025-01-01) en [XIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&artikel=XIII&z=2025-01-01&g=2025-01-01), alsmede de data waarop deze zijn ontvangen;
 
-- e. de bijeenroeping van een conferentie op grond van de [artikelen VII](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&artikel=VII&z=2024-01-01&g=2024-01-01) of [IX](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&artikel=IX&z=2024-01-01&g=2024-01-01).
+- e. de bijeenroeping van een conferentie op grond van de [artikelen VII](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&artikel=VII&z=2025-01-01&g=2025-01-01) of [IX](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&artikel=IX&z=2025-01-01&g=2025-01-01).
 
 ##### Artikel XV
 
@@ -258,7 +258,7 @@ Voor de toepassing van de bepalingen van deze Bijlage dient onder de volgende ui
 
 ##### B. Algemene bepalingen
 
-Overeenkomstig het bepaalde in het tweede lid van [artikel V](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&artikel=V&z=2024-01-01&g=2024-01-01) van het Verdrag beletten de bepalingen van de Bijlage het openbaar gezag niet de door dat gezag passend geoordeelde maatregelen te nemen, waaronder begrepen het vragen van nadere informatie, hetgeen nodig zou kunnen zijn in gevallen waarin het vermoeden bestaat van fraude of in verband met problemen van bijzondere aard die een ernstige bedreiging vormen voor de openbare orde, de openbare veiligheid of de volksgezondheid, waaronder wederrechtelijke gedragingen gericht tegen de veiligheid van de zeescheepvaart en de illegale handel in verdovende middelen en psychotrope stoffen, of om het binnendringen of de verspreiding tegen te gaan van ziekten en hun vectoren of plagen die schadelijk zijn voor de mens, voor dieren of voor planten.
+Overeenkomstig het bepaalde in het tweede lid van [artikel V](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&artikel=V&z=2025-01-01&g=2025-01-01) van het Verdrag beletten de bepalingen van de Bijlage het openbaar gezag niet de door dat gezag passend geoordeelde maatregelen te nemen, waaronder begrepen het vragen van nadere informatie, hetgeen nodig zou kunnen zijn in gevallen waarin het vermoeden bestaat van fraude of in verband met problemen van bijzondere aard die een ernstige bedreiging vormen voor de openbare orde, de openbare veiligheid of de volksgezondheid, waaronder wederrechtelijke gedragingen gericht tegen de veiligheid van de zeescheepvaart en de illegale handel in verdovende middelen en psychotrope stoffen, of om het binnendringen of de verspreiding tegen te gaan van ziekten en hun vectoren of plagen die schadelijk zijn voor de mens, voor dieren of voor planten.
 
 - 1.1. **Norm.**Met betrekking tot de formaliteiten, vereiste documenten en procedures voor de aankomst, het verblijf en het vertrek van schepen die internationale reizen maken, verlangt het openbaar gezag slechts een minimum aan benodigde gegevens.
 
@@ -280,7 +280,7 @@ Elk nieuw of gewijzigd systeem is technologisch neutraal en compatibel met ander
 
 Bij de invoering van nieuwe formats voor elektronisch berichtenverkeer, moet het openbaar gezag het gebruik van bestaande formats voor elektronisch berichtenverkeer blijven toestaan gedurende een tijdvak dat vastgesteld wordt in overleg met de betrokken partijen.
 
-1.3quin. **Norm.**Het openbaar gezag voert regelingen in die het mogelijk maken alle informatie die verlangd wordt in overeenstemming met [norm 2.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&deel=2&artikel=A&z=2024-01-01&g=2024-01-01) in te dienen bij één loket, via elektronische weg.
+1.3quin. **Norm.**Het openbaar gezag voert regelingen in die het mogelijk maken alle informatie die verlangd wordt in overeenstemming met [norm 2.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&deel=2&artikel=A&z=2025-01-01&g=2025-01-01) in te dienen bij één loket, via elektronische weg.
 
 Ook moet worden overwogen dit ene loket het mechanisme te maken voor het communiceren door het openbaar gezag van besluiten en overige informatie die onder dit Verdrag vallen en andere bepalingen, al naargelang van toepassing.
 
@@ -316,7 +316,7 @@ Ook moet worden overwogen dit ene loket het mechanisme te maken voor het communi
 
 1.8.1. **Aanbevolen werkwijze.**Informatie inzake certificerings- en waarmerkingsvereisten zou openbaar en elektronisch beschikbaar moeten zijn.
 
-1.8.2. **Norm.**Het openbaar gezag aanvaardt de in [norm 2.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&deel=2&artikel=A&z=2024-01-01&g=2024-01-01) bedoelde verklaringen wanneer zij op een voor het betrokken openbaar gezag aanvaardbare wijze zijn gewaarmerkt.
+1.8.2. **Norm.**Het openbaar gezag aanvaardt de in [norm 2.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&deel=2&artikel=A&z=2025-01-01&g=2025-01-01) bedoelde verklaringen wanneer zij op een voor het betrokken openbaar gezag aanvaardbare wijze zijn gewaarmerkt.
 
 ##### D. Illegale activiteiten
 
@@ -690,9 +690,9 @@ Na het verstrijken van de overgangsperiode worden geen papieren afschriften meer
 
 2.22. **Norm.**In het geval van een schip dat met dit doel een haven aandoet en onmiddellijk daarna weer wil vertrekken, verleent het openbaar gezag het schip voorrang bij het aanmeren indien de toestand van de zieke persoon of de omstandigheden op zee van dien aard zijn dat een veilige ontscheping niet mogelijk is op de rede of de aanvaarroute naar de haven.
 
-2.23. **Norm.**In het geval van een schip dat met dit doel een haven aandoet en onmiddellijk daarna weer wil vertrekken, verlangt het openbaar gezag niet het overleggen van de in [norm 2.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&deel=2&artikel=A&z=2024-01-01&g=2024-01-01) genoemde verklaringen, uitgezonderd de maritieme gezondheidsverklaring en, indien onontbeerlijk, de algemene verklaring. Het openbaar gezag houdt in dergelijke gevallen niet vast aan de termijnen, en eventuele van toepassing zijnde sancties, voor het verstrekken van de verklaringen.
+2.23. **Norm.**In het geval van een schip dat met dit doel een haven aandoet en onmiddellijk daarna weer wil vertrekken, verlangt het openbaar gezag niet het overleggen van de in [norm 2.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&deel=2&artikel=A&z=2025-01-01&g=2025-01-01) genoemde verklaringen, uitgezonderd de maritieme gezondheidsverklaring en, indien onontbeerlijk, de algemene verklaring. Het openbaar gezag houdt in dergelijke gevallen niet vast aan de termijnen, en eventuele van toepassing zijnde sancties, voor het verstrekken van de verklaringen.
 
-2.24. **Norm.**In het geval van een schip dat met dit doel een haven aandoet en wanneer het openbaar gezag een algemene verklaring verlangt, bevat deze verklaring niet meer informatie dan die vermeld in [Aanhangsel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&bijlage=1&z=2024-01-01&g=2024-01-01) en, wanneer mogelijk, minder.
+2.24. **Norm.**In het geval van een schip dat met dit doel een haven aandoet en wanneer het openbaar gezag een algemene verklaring verlangt, bevat deze verklaring niet meer informatie dan die vermeld in [Aanhangsel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&bijlage=1&z=2025-01-01&g=2025-01-01) en, wanneer mogelijk, minder.
 
 2.25. **Norm.**Wanneer het openbaar gezag controlemaatregelen met betrekking tot de aankomst van een schip toepast voorafgaand aan het aan wal brengen van zieke of gewonde personen, hebben een spoedeisende medische behandeling en maatregelen ter bescherming van de volksgezondheid voorrang boven deze controlemaatregelen.
 
@@ -942,7 +942,7 @@ De lijst van landen en gebieden die een bewijs van vaccinatie tegen gele koorts 
 
 3.47. **Norm.**Voor walverlof is een speciale vergunning, bijvoorbeeld een walpas, niet verplicht voor bemanningsleden.
 
-3.48. **Aanbevolen werkwijze.**Indien bemanningsleden verplicht zijn een identiteitsbewijs bij zich te dragen wanneer ze voor verlof aan wal zijn, zouden deze documenten beperkt moeten zijn tot paspoorten of, indien van toepassing, identiteitsbewijzen die worden aanvaard dor de betrokken Verdragsluitende Regering in plaats van een paspoort, zoals vermeld in aanbevolen werkwijze [3.10](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&deel=3&artikel=A&z=2024-01-01&g=2024-01-01).
+3.48. **Aanbevolen werkwijze.**Indien bemanningsleden verplicht zijn een identiteitsbewijs bij zich te dragen wanneer ze voor verlof aan wal zijn, zouden deze documenten beperkt moeten zijn tot paspoorten of, indien van toepassing, identiteitsbewijzen die worden aanvaard dor de betrokken Verdragsluitende Regering in plaats van een paspoort, zoals vermeld in aanbevolen werkwijze [3.10](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&deel=3&artikel=A&z=2025-01-01&g=2025-01-01).
 
 3.49. **Aanbevolen werkwijze.**Het openbaar gezag zou een systeem moeten ontwikkelen waardoor het de bemanning van schepen die regelmatig in hun havens aanleggen, mogelijk wordt gemaakt van tevoren toestemming te verkrijgen om tijdelijk aan wal te gaan. Wanneer een schip geen ongunstig dossier inzake personencontrole heeft en het ter plaatse wordt vertegenwoordigd door een reder, dan wel door een scheepsagent, dient het openbaar gezag, na te hebben vastgesteld dat de inlichtingen die door het openbaar gezag worden verlangd voordat het schip binnenkomt, voldoende zijn, dit schip in de regel toestemming te verlenen rechtstreeks naar zijn aanlegplaats te gaan en het niet te onderwerpen aan nadere gebruikelijke immigratiecontroles, tenzij het openbaar gezag anders beslist.
 
@@ -992,7 +992,7 @@ Alle procedures zouden zo moeten worden uitgevoerd dat deze minimale hinder vero
 
 4.4. **Algemene beginselen – humane behandeling**
 
-4.4.1. **Norm.**Verstekelingen worden behandeld op een manier die in overeenstemming is met humanitaire beginselen, met inbegrip van die genoemd in [norm 4.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&deel=4&artikel=A&z=2024-01-01&g=2024-01-01). Er moet altijd naar behoren rekening worden gehouden met de operationele veiligheid en beveiliging van het schip en de veiligheid en het welzijn van de bemanning, de verstekelingen en andere personen aan boord.
+4.4.1. **Norm.**Verstekelingen worden behandeld op een manier die in overeenstemming is met humanitaire beginselen, met inbegrip van die genoemd in [norm 4.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&deel=4&artikel=A&z=2025-01-01&g=2025-01-01). Er moet altijd naar behoren rekening worden gehouden met de operationele veiligheid en beveiliging van het schip en de veiligheid en het welzijn van de bemanning, de verstekelingen en andere personen aan boord.
 
 4.4.2. **Norm.**De Verdragsluitende Regeringen verlangen dat de reders en gezagvoerders van schepen die gerechtigd zijn hun vlag te voeren, passende maatregelen nemen om de beveiliging, algemene gezondheid, welzijn en veiligheid van de verstekeling te waarborgen tijdens zijn of haar verblijf aan boord, met inbegrip van het verstrekken van voldoende voedsel, accommodatie, goede medische zorg en sanitaire faciliteiten.
 
@@ -1004,7 +1004,7 @@ Alle procedures zouden zo moeten worden uitgevoerd dat deze minimale hinder vero
 
 4.6.1. **Norm.**De Verdragsluitende Regeringen verlangen dat de gezagvoerders alle praktisch uitvoerbare stappen verrichten om de identiteit, met inbegrip van nationaliteit/staatsburgerschap, van de verstekeling en de haven waar deze aan boord is gegaan vast te stellen, en de aanwezigheid van de verstekeling tezamen met relevante gegevens te melden aan het openbaar gezag van de eerstvolgende geplande aanloophaven. Deze informatie wordt tevens verstrekt aan de reder, het openbaar gezag van de haven van inscheping, de vlaggenstaat en volgende aanloophavens indien noodzakelijk.
 
-4.6.2. **Aanbevolen werkwijze.**Bij het vergaren van relevante gegevens ten behoeve van de kennisgeving zouden gezagvoerders gebruik moeten maken van het document als opgenomen in [Aanhangsel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&bijlage=3&z=2024-01-01&g=2024-01-01).
+4.6.2. **Aanbevolen werkwijze.**Bij het vergaren van relevante gegevens ten behoeve van de kennisgeving zouden gezagvoerders gebruik moeten maken van het document als opgenomen in [Aanhangsel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&bijlage=3&z=2025-01-01&g=2025-01-01).
 
 4.6.3. **Norm.**De Verdragsluitende Regeringen instrueren de reders en gezagvoerders van schepen die gerechtigd zijn hun vlag te voeren dat wanneer een verstekeling verklaart een vluchteling of asielzoeker te zijn, deze informatie vertrouwelijk moet worden behandeld voor zover nodig voor de veiligheid van de verstekeling. Wanneer een verstekeling verklaart een vluchteling of asielzoeker te zijn, wordt informatie over de verklaring of de intentie van de verstekeling niet gedeeld met het openbaar gezag van het land van herkomst of land waar deze gewoonlijk verblijft.
 
@@ -1042,7 +1042,7 @@ Ongeacht of een schip al dan niet van de geplande route afwijkt, zou de ontschep
 
 4.10. **Volgende aanloophavens**
 
-4.10.1. **Norm.**Wanneer ontscheping van een verstekeling in de eerste geplande aanloophaven na de ontdekking van de verstekeling niet geslaagd is, onderzoekt het openbaar gezag van volgende aanloophavens of de verstekeling van boord kan gaan in overeenstemming met de [normen 4.9.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&deel=4&artikel=E&z=2024-01-01&g=2024-01-01), 4.9.2 en 4.9.3.
+4.10.1. **Norm.**Wanneer ontscheping van een verstekeling in de eerste geplande aanloophaven na de ontdekking van de verstekeling niet geslaagd is, onderzoekt het openbaar gezag van volgende aanloophavens of de verstekeling van boord kan gaan in overeenstemming met de [normen 4.9.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&deel=4&artikel=E&z=2025-01-01&g=2025-01-01), 4.9.2 en 4.9.3.
 
 4.11. **Nationaliteit van of recht op verblijf in een Staat**
 
@@ -1082,7 +1082,7 @@ Dit schrijven bevat informatie die gevraagd wordt door de autoriteiten op de tra
 
 4.14.3. **Aanbevolen werkwijze.**Wanneer een havenstaat de ontscheping van een verstekeling heeft geweigerd zou deze Staat, zonder onnodige vertraging, de vlaggenstaat van het schip dat de verstekeling vervoert op de hoogte moeten stellen van de redenen voor de weigering van de ontscheping.
 
-Overeenkomstig [norm 4.6.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&deel=4&artikel=C&z=2024-01-01&g=2024-01-01) zou de vlaggenstaat niet moeten worden ingelicht indien verstekelingen zelf verklaren vluchteling of asielzoeker te zijn en de vlaggenstaat hun (vermeende) land van herkomst is waaruit zij zijn gevlucht en waar zij beweren gevaar te lopen.
+Overeenkomstig [norm 4.6.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&deel=4&artikel=C&z=2025-01-01&g=2025-01-01) zou de vlaggenstaat niet moeten worden ingelicht indien verstekelingen zelf verklaren vluchteling of asielzoeker te zijn en de vlaggenstaat hun (vermeende) land van herkomst is waaruit zij zijn gevlucht en waar zij beweren gevaar te lopen.
 
 4.15. Kosten van de terugzending en de verzorging van verstekelingen
 
@@ -1146,11 +1146,11 @@ Overeenkomstig [norm 4.6.3](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&deel
 
 5.15. **Norm.**Met inachtneming van zijn respectieve regelgeving staat het openbaar gezag toe dat vrachtcontainers, pallets en uitrusting en toebehoren van containers die aan de vrachtcontainer zijn bevestigd of afzonderlijk worden vervoerd, tijdelijk worden ingevoerd zonder betaling van douanerechten en andere belastingen en heffingen en vergemakkelijkt het gebruik ervan in het verkeer ter zee.
 
-5.16. **Aanbevolen werkwijze.**Het openbaar gezag zou in de in [norm 5.15](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&deel=5&artikel=C&z=2024-01-01&g=2024-01-01) bedoelde regelgeving de aanvaarding moeten voorzien van een eenvoudige aangifte waarin staat vermeld dat de tijdelijk ingevoerde vrachtcontainers, pallets en uitrusting en toebehoren van containers binnen de door de betrokken Staat gestelde tijdsspanne weer worden uitgevoerd. Deze aangifte kan mondeling geschieden of in enige andere vorm die voor het gezag aanvaardbaar is.
+5.16. **Aanbevolen werkwijze.**Het openbaar gezag zou in de in [norm 5.15](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&deel=5&artikel=C&z=2025-01-01&g=2025-01-01) bedoelde regelgeving de aanvaarding moeten voorzien van een eenvoudige aangifte waarin staat vermeld dat de tijdelijk ingevoerde vrachtcontainers, pallets en uitrusting en toebehoren van containers binnen de door de betrokken Staat gestelde tijdsspanne weer worden uitgevoerd. Deze aangifte kan mondeling geschieden of in enige andere vorm die voor het gezag aanvaardbaar is.
 
-5.17. **Norm.**Het openbaar gezag staat toe dat vrachtcontainers, pallets en uitrusting en toebehoren van containers die het grondgebied van een Staat krachtens de bepalingen van [norm 5.15](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&deel=5&artikel=C&z=2024-01-01&g=2024-01-01) binnenkomen, het terrein van de haven van aankomst verlaten voor de inklaring van ingevoerde lading en/of laden van uit te voeren lading volgens vereenvoudigde controleprocedures en met een minimum aan documentatie.
+5.17. **Norm.**Het openbaar gezag staat toe dat vrachtcontainers, pallets en uitrusting en toebehoren van containers die het grondgebied van een Staat krachtens de bepalingen van [norm 5.15](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&deel=5&artikel=C&z=2025-01-01&g=2025-01-01) binnenkomen, het terrein van de haven van aankomst verlaten voor de inklaring van ingevoerde lading en/of laden van uit te voeren lading volgens vereenvoudigde controleprocedures en met een minimum aan documentatie.
 
-5.18. **Norm.**De Verdragsluitende Regeringen staan de tijdelijke toelating toe van samenstellende delen van vrachtcontainers zonder betaling van douanerechten en andere belastingen en heffingen, indien deze delen benodigd zijn voor de reparatie van vrachtcontainers die reeds zijn toegelaten krachtens de bepalingen van [norm 5.15](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&deel=5&artikel=C&z=2024-01-01&g=2024-01-01).
+5.18. **Norm.**De Verdragsluitende Regeringen staan de tijdelijke toelating toe van samenstellende delen van vrachtcontainers zonder betaling van douanerechten en andere belastingen en heffingen, indien deze delen benodigd zijn voor de reparatie van vrachtcontainers die reeds zijn toegelaten krachtens de bepalingen van [norm 5.15](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&deel=5&artikel=C&z=2025-01-01&g=2025-01-01).
 
 ##### D. Lading die niet wordt gelost in de haven van bestemming
 
@@ -1250,7 +1250,7 @@ De verklaringen voor aankomst en vertrek van een schip zijn:
 
 - m. formulier voor voorafgaande kennisgeving van de afgifte van afval bij ontvangstfaciliteiten in havens.
 
-2.1bis. **Norm.**Voor verklaringen vermeld in punten a tot en met g van norm 2.1 eist het openbaar gezag niet meer dan de informatie vermeld in [Aanhangsel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&bijlage=1&z=2024-01-01&g=2024-01-01).
+2.1bis. **Norm.**Voor verklaringen vermeld in punten a tot en met g van norm 2.1 eist het openbaar gezag niet meer dan de informatie vermeld in [Aanhangsel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&bijlage=1&z=2025-01-01&g=2025-01-01).
 
 2.1.1. **Norm.**Verdragsluitende Regeringen vereisen geen consulaire formaliteiten, heffingen of lasten in verband met informatie voor de in- en uitklaring van schepen, met inbegrip van de elektronische verstrekking van informatie.
 
@@ -1282,9 +1282,9 @@ De verklaringen voor aankomst en vertrek van een schip zijn:
 
 2.3.3. **Niet in gebruik.**
 
-2.3.4. **Norm.**In plaats van de aangifte van de lading aanvaardt het openbaar gezag het ladingsmanifest van het schip, indien dit elektronisch is verstrekt en mits dit ten minste de informatie bevat die door het openbaar gezag wordt verlangd overeenkomstig [Aanhangsel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&bijlage=1&z=2024-01-01&g=2024-01-01) en norm 2.3.2 en mits gewaarmerkt overeenkomstig [norm 1.8.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&deel=1&artikel=D&z=2024-01-01&g=2024-01-01).
+2.3.4. **Norm.**In plaats van de aangifte van de lading aanvaardt het openbaar gezag het ladingsmanifest van het schip, indien dit elektronisch is verstrekt en mits dit ten minste de informatie bevat die door het openbaar gezag wordt verlangd overeenkomstig [Aanhangsel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&bijlage=1&z=2025-01-01&g=2025-01-01) en norm 2.3.2 en mits gewaarmerkt overeenkomstig [norm 1.8.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&deel=1&artikel=D&z=2025-01-01&g=2025-01-01).
 
-2.3.4.1. **Aanbevolen werkwijze.**Het openbaar gezag kan als alternatief voor norm 2.3.4 ook genoegen nemen met het vervoersdocument, mits dit ten minste de informatie bevat die overeenkomstig norm 2.3.2 worden verlangd. Dit vervoersdocument dient te worden gewaarmerkt overeenkomstig [norm 1.8.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&deel=1&artikel=D&z=2024-01-01&g=2024-01-01).
+2.3.4.1. **Aanbevolen werkwijze.**Het openbaar gezag kan als alternatief voor norm 2.3.4 ook genoegen nemen met het vervoersdocument, mits dit ten minste de informatie bevat die overeenkomstig norm 2.3.2 worden verlangd. Dit vervoersdocument dient te worden gewaarmerkt overeenkomstig [norm 1.8.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&deel=1&artikel=D&z=2025-01-01&g=2025-01-01).
 
 2.3.5. **Norm.**Er wordt geen nieuwe aangifte van de lading verlangd bij vertrek uit een haven met betrekking tot lading waarvoor reeds bij aankomst in die haven een aangifte is gedaan en die aan boord is gebleven.
 
@@ -1300,7 +1300,7 @@ De verklaringen voor aankomst en vertrek van een schip zijn:
 
 2.6. **Norm.**De bemanningslijst is de standaard verklaring die het openbaar gezag verlangt en die informatie bevat die betrekking hebben op het aantal leden van de bemanning en de samenstelling van de bemanning bij aankomst of vertrek van een schip.
 
-2.6.1. **Norm.**In gevallen waarin het openbaar gezag informatie verlangt omtrent de bemanning van een schip bij het vertrek daarvan uit de haven, wordt de bemanningslijst die bij aankomst in de haven is verstrekt bij het vertrek aanvaard, op voorwaarde dat deze is gewaarmerkt in overeenstemming met [norm 1.8.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&deel=1&artikel=D&z=2024-01-01&g=2024-01-01), waarbij is aangetekend dat het aantal bemanningsleden of de samenstelling daarvan ten tijde van het vertrek van het schip is veranderd of dat een dergelijke wijziging tijdens het verblijf van het schip in de haven niet heeft plaatsgevonden.
+2.6.1. **Norm.**In gevallen waarin het openbaar gezag informatie verlangt omtrent de bemanning van een schip bij het vertrek daarvan uit de haven, wordt de bemanningslijst die bij aankomst in de haven is verstrekt bij het vertrek aanvaard, op voorwaarde dat deze is gewaarmerkt in overeenstemming met [norm 1.8.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&deel=1&artikel=D&z=2025-01-01&g=2025-01-01), waarbij is aangetekend dat het aantal bemanningsleden of de samenstelling daarvan ten tijde van het vertrek van het schip is veranderd of dat een dergelijke wijziging tijdens het verblijf van het schip in de haven niet heeft plaatsgevonden.
 
 2.6.2. **Niet in gebruik.**
 
@@ -1346,9 +1346,9 @@ De maritieme gezondheidsverklaring dient in overeenstemming te zijn met de Inter
 
 2.12.3. **Niet in gebruik.**
 
-2.13. **Aanbevolen werkwijze.**Een door de reders voor eigen gebruik opgestelde papieren lijst zou moeten worden aanvaard in plaats van een papieren passagierslijst, mits deze ten minste de overeenkomstig [Aanhangsel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&bijlage=1&z=2024-01-01&g=2024-01-01) verlangde informatie bevat.
+2.13. **Aanbevolen werkwijze.**Een door de reders voor eigen gebruik opgestelde papieren lijst zou moeten worden aanvaard in plaats van een papieren passagierslijst, mits deze ten minste de overeenkomstig [Aanhangsel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&bijlage=1&z=2025-01-01&g=2025-01-01) verlangde informatie bevat.
 
-Het openbaar gezag aanvaardt tevens in plaats van een papieren aangifte van de lading een papieren afschrift van het manifest van het schip of van de vervoersdocumenten, mits deze ten minste de overeenkomstig [Aanhangsel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&bijlage=1&z=2024-01-01&g=2024-01-01) verlangde informatie bevatten.
+Het openbaar gezag aanvaardt tevens in plaats van een papieren aangifte van de lading een papieren afschrift van het manifest van het schip of van de vervoersdocumenten, mits deze ten minste de overeenkomstig [Aanhangsel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&bijlage=1&z=2025-01-01&g=2025-01-01) verlangde informatie bevatten.
 
 2.13.1. **Norm.**Indien in uitzonderlijke omstandigheden het openbaar gezag vaststelt dat de enige manier die beschikbaar is voor verzending van de in deze Bijlage bedoelde verklaringen in papieren vorm is, aanvaardt het openbaar gezag documenten die op een leesbare en begrijpelijke drager worden overgebracht, met inbegrip van documenten die met de hand met inkt of onuitwisbaar potlood zijn geschreven of die met behulp van informatietechnologie zijn vervaardigd.
 
@@ -1358,7 +1358,7 @@ Het openbaar gezag aanvaardt tevens in plaats van een papieren aangifte van de l
 
 ##### E. Invullen van verklaringen
 
-2.15. **Aanbevolen werkwijze.**Voor zover mogelijk zou het openbaar gezag de in deze Bijlage bedoelde verklaringen, behoudens het bepaalde in [norm 3.7](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&deel=3&artikel=A&z=2024-01-01&g=2024-01-01), moeten aanvaarden ongeacht de taal waarin de verlangde informatie wordt verstrekt, met dien verstande dat het openbaar gezag het recht heeft een schriftelijke of mondelinge vertaling te verlangen in een van de officiële talen van de Organisatie, indien het dit nodig mocht oordelen.
+2.15. **Aanbevolen werkwijze.**Voor zover mogelijk zou het openbaar gezag de in deze Bijlage bedoelde verklaringen, behoudens het bepaalde in [norm 3.7](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&deel=3&artikel=A&z=2025-01-01&g=2025-01-01), moeten aanvaarden ongeacht de taal waarin de verlangde informatie wordt verstrekt, met dien verstande dat het openbaar gezag het recht heeft een schriftelijke of mondelinge vertaling te verlangen in een van de officiële talen van de Organisatie, indien het dit nodig mocht oordelen.
 
 2.16. **Niet in gebruik.**
 
@@ -1496,13 +1496,13 @@ Het openbaar gezag aanvaardt tevens in plaats van een papieren aangifte van de l
 
 7.9. **Norm.**Het openbaar gezag vergemakkelijkt, in de ruimst mogelijke mate, de binnenkomst en douanebehandeling van personen en inklaring van lading, materiaal en apparatuur die benodigd zijn voor de in norm 7.8 beschreven situaties.
 
-7.9.1. **Aanbevolen werkwijze.**In de in norm 7.8 beschreven situaties zou het openbaar gezag de in [norm 2.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&deel=2&artikel=A&z=2024-01-01&g=2024-01-01) genoemde verklaringen niet mogen eisen, met uitzondering van, indien onontbeerlijk, de algemene verklaring. Het openbaar gezag zou in dergelijke gevallen niet moeten vasthouden aan de termijnen en eventuele van toepassing zijnde sancties voor het indienen van de verklaring.
+7.9.1. **Aanbevolen werkwijze.**In de in norm 7.8 beschreven situaties zou het openbaar gezag de in [norm 2.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003243&deel=2&artikel=A&z=2025-01-01&g=2025-01-01) genoemde verklaringen niet mogen eisen, met uitzondering van, indien onontbeerlijk, de algemene verklaring. Het openbaar gezag zou in dergelijke gevallen niet moeten vasthouden aan de termijnen en eventuele van toepassing zijnde sancties voor het indienen van de verklaring.
 
 7.10. **Norm.**Het openbaar gezag staat snelle inklaring toe van specialistische apparatuur die benodigd is voor de uitvoering van beveiligings- en veiligheidsmaatregelen.
 
 ##### D. Nationale vereenvoudigingscommissies
 
-7.11. **Aanbevolen werkwijze.**Elke Verdragsluitende Regering zou, in nauwe samenwerking met de maritieme sector, een nationaal programma voor de vereenvoudiging van het verkeer ter zee moeten vaststellen op basis van de vereisten van deze Bijlage aangaande vereenvoudiging, en zou moeten verzekeren dat de doelstelling van haar vereenvoudigingsprogramma het aannemen is van alle praktische maatregelen ter vereenvoudiging van het verkeer van schepen, lading, bemanningen, passagiers, post en voorraden, door het wegnemen van onnodige hindernissen en vertragingen.
+7.11. **Aanbevolen werkwijze.** Elke Verdragsluitende Regering zou, in nauwe samenwerking met de maritieme sector, een nationaal programma voor de vereenvoudiging van het verkeer ter zee moeten vaststellen op basis van de vereisten van deze Bijlage aangaande vereenvoudiging, en zou moeten verzekeren dat de doelstelling van haar vereenvoudigingsprogramma het aannemen is van alle praktische maatregelen ter vereenvoudiging van het verkeer van schepen, lading, bemanningen, passagiers, post en voorraden, door het wegnemen van onnodige hindernissen en vertragingen, rekening houdend met de noodzaak om illegale activiteiten te bestrijden.
 
 7.12. **Aanbevolen werkwijze.**Elke Verdragsluitende Regering zou een nationale commissie voor de vereenvoudiging van het verkeer ter zee moeten instellen, of een soortgelijk nationaal coördinerend orgaan tussen ministeries, instanties en andere organisaties die zich bezighouden met of verantwoordelijk zijn voor verscheidene aspecten van het internationale verkeer ter zee, alsmede havenautoriteiten, havenfaciliteiten en terminals en reders , om te stimuleren dat vereenvoudigingsmaatregelen worden genomen en uitgevoerd.
 
