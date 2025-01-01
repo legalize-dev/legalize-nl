@@ -4,7 +4,7 @@ identifier: "BWBR0047876"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2024-04-12"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047876"
 soort: "ministeriele-regeling"
@@ -70,15 +70,15 @@ In deze regeling wordt verstaan onder:
 
 - **minister:** de Minister van Volksgezondheid, Welzijn en Sport;
 
-- **pijler 1:** het geheel aan activiteiten, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2024-04-12&g=2024-04-12), ten behoeve van het wegnemen van kwetsbaarheden bij de GGD’en zodat deze beter toegerust zijn om reguliere infectieziektebestrijding uit te voeren en adequaat te reageren bij een pandemie;
+- **pijler 1:** het geheel aan activiteiten, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2025-01-01&g=2025-01-01), ten behoeve van het wegnemen van kwetsbaarheden bij de GGD’en zodat deze beter toegerust zijn om reguliere infectieziektebestrijding uit te voeren en adequaat te reageren bij een pandemie;
 
-- **pijler 2:** het uitvoeren van de pilot regionale en bovenregionale samenwerking, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2024-04-12&g=2024-04-12), met als doel het versterken van regionale en bovenregionale monitoring en surveillance;
+- **pijler 2:** het uitvoeren van de pilot regionale en bovenregionale samenwerking, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2025-01-01&g=2025-01-01), met als doel het versterken van regionale en bovenregionale monitoring en surveillance;
 
-- **pijler 3:** het uitvoeren van de pilot consortium academische werkplaatsen infectieziektebestrijding, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2024-04-12&g=2024-04-12), met als doel het versterken van de wetenschappelijke kennisinfrastructuur infectieziektebestrijding;
+- **pijler 3:** het uitvoeren van de pilot consortium academische werkplaatsen infectieziektebestrijding, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2025-01-01&g=2025-01-01), met als doel het versterken van de wetenschappelijke kennisinfrastructuur infectieziektebestrijding;
 
-- **pijler 4:** het uitvoeren van het onderzoek, bedoeld in [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2024-04-12&g=2024-04-12), met als doel samenwerken op bovenregionaal niveau;
+- **pijler 4:** het uitvoeren van het onderzoek, bedoeld in [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2025-01-01&g=2025-01-01), met als doel samenwerken op bovenregionaal niveau;
 
-- **pijler 5:** het geheel aan activiteiten, bedoeld in [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2024-04-12&g=2024-04-12), met als doel het aantal professionals gespecialiseerd in de infectieziektebestrijding te verhogen;
+- **pijler 5:** het geheel aan activiteiten, bedoeld in [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2025-01-01&g=2025-01-01), met als doel het aantal professionals gespecialiseerd in de infectieziektebestrijding te verhogen;
 
 - **pijler 6:** activiteiten die worden uitgevoerd door een GGD ten behoeve van de aansluiting van de GGD op de LFI;
 
@@ -118,7 +118,9 @@ In deze regeling wordt verstaan onder:
 
 - b. het jaar 2024 voor activiteiten die vallen onder de doelstellingen van pijler 1 tot en met pijler 6;
 
-- c. de jaren 2025 en 2026 voor activiteiten die vallen onder de doelstelling van pijler 6.
+- c. het jaar 2025 voor activiteiten die vallen onder de doelstellingen van pijler 1 tot en met pijler 6;
+
+- d. het jaar 2026 voor activiteiten die vallen onder de doelstelling van pijler 6.
 
 2. De activiteiten binnen pijler 1 bestaan uit het aanstellen bij de GGD van:
 
@@ -148,11 +150,11 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4. Hoogte van de uitkering
 
-De uitkering per GGD per pijler bedraagt ten hoogste het bedrag voor de jaren 2023 tot en met 2026 zoals opgenomen in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&bijlage=1&z=2024-04-12&g=2024-04-12) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&bijlage=2&z=2024-04-12&g=2024-04-12) bij deze regeling.
+De uitkering per GGD per pijler bedraagt ten hoogste het bedrag voor de jaren 2023 tot en met 2026 zoals opgenomen in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&bijlage=1&z=2025-01-01&g=2025-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&bijlage=2&z=2025-01-01&g=2025-01-01) bij deze regeling.
 
 ##### Artikel 5. Aanvraag tot verlening
 
-1. Een uitkering als bedoeld in [artikel 3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2024-04-12&g=2024-04-12), wordt op aanvraag verstrekt.
+1. Een uitkering als bedoeld in [artikel 3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2025-01-01&g=2025-01-01), wordt op aanvraag verstrekt.
 
 2. Voor de aanvraag tot verlening van een uitkering wordt een door de minister vastgesteld formulier gebruikt.
 
@@ -166,11 +168,11 @@ De uitkering per GGD per pijler bedraagt ten hoogste het bedrag voor de jaren 20
 
 2. De minister geeft ambtshalve een beschikking tot verlening van een uitkering als bedoeld in:
 
-- a. [artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2024-04-12&g=2024-04-12): voor de activiteiten in het jaar 2024: uiterlijk 17 mei 2024;
+- a. [artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2025-01-01&g=2025-01-01): voor de activiteiten in het jaar 2024: uiterlijk 17 mei 2024;
 
-- b. [artikel 3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2024-04-12&g=2024-04-12), voor activiteiten in het jaar 2025: uiterlijk 28 februari 2025;
+- b. [artikel 3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2025-01-01&g=2025-01-01), voor activiteiten in het jaar 2025: uiterlijk 28 februari 2025;
 
-- c. [artikel 3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2024-04-12&g=2024-04-12), voor activiteiten in het jaar 2026: uiterlijk 27 februari 2026.
+- c. [artikel 3, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=3&z=2025-01-01&g=2025-01-01), voor activiteiten in het jaar 2026: uiterlijk 27 februari 2026.
 
 3. Het besluit tot verlening vermeldt in elk geval voor welke activiteiten de uitkering wordt verleend, het bedrag van de uitkering, de wijze van verantwoording, de periode waarvoor de uitkering wordt verleend en de wijze waarop het verrichten van de activiteiten kan worden aangetoond.
 
@@ -192,7 +194,7 @@ De uitkering per GGD per pijler bedraagt ten hoogste het bedrag voor de jaren 20
 
 ##### Artikel 9. Vaststelling en terugvordering
 
-1. De minister besluit uiterlijk 37 weken na ontvangst van de informatie ten behoeve van de verantwoording, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=8&z=2024-04-12&g=2024-04-12), over de vaststelling van de uitkering.
+1. De minister besluit uiterlijk 37 weken na ontvangst van de informatie ten behoeve van de verantwoording, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047876&artikel=8&z=2025-01-01&g=2025-01-01), over de vaststelling van de uitkering.
 
 2. Indien de activiteiten waarvoor de uitkering is verleend zijn verricht en daarnaast volledig is voldaan aan de verplichtingen die verbonden zijn aan de uitkering, wordt de uitkering vastgesteld op het bedrag dat bestaat uit de gerealiseerde kosten, tot ten hoogste het in de verleningsbeschikking genoemde bedrag.
 
@@ -216,77 +218,35 @@ Deze regeling wordt aangehaald als: Regeling specifieke uitkering versterking GG
 
 ## Bijlage 1. Lijst van maximale uitkeringsbedragen per GGD voor pijler 1 tot en met 5
 
-Onderstaand is een lijst opgenomen waarin GGD’en staan en het maximale bedrag dat zij per kalenderjaar voor de uitkering kunnen ontvangen De bedragen zijn per GGD:
+Onderstaand is een lijst opgenomen van de GGD'en en het maximale uitkeringsbedrag dat zij voor het jaar 2025 kunnen ontvangen. De bedragen zijn per GGD:
 
-- 1. voor pijler 1 gebaseerd op het totale aantal inwoners in de betreffende regio plus een vast bedrag;
-
-- 2. voor pijler 2 gebaseerd op het aantal regionale samenwerkingsverbanden voor infectieziektebestrijding;
-
-- 3. voor pijler 3 gebaseerd op het aantal academische werkplaatsen infectieziektebestrijding in de betreffende regio;
-
-- 4. voor pijler 5 gebaseerd op het aantal GGD’en.
-
-De activiteit die valt onder pijler 4 wordt uitgevoerd door de GGD Regio Utrecht.
-
-Daarnaast neemt GGD Regio Utrecht een aantal coördinerende werkzaamheden op zich voor activiteiten ten behoeve van de pijlers 1, 2 en 5, en voert GGD Zuid-Limburg een aantal coördinerende activiteiten uit ten behoeve van pijler 3.
-
-|   | Pijler 1 | Pijler 2 | Pijler 3 | Pijler 4 | Pijler 5 |
-| --- | --- | --- | --- | --- | --- |
-| **Totaal per pijler voor het jaar 2023** | **€ 20.717.600** | **€ 2.408.680** | **€ 3.360.000** | **€ 416.400** | **€ 10.661.000** |
-| Dienst Gezondheid & Jeugd ZHZ | € 553.716 | € 0 | € 0 | € 0 | € 132.000 |
-| GGD Amsterdam | € 1.062.488 | € 344.097 | € 540.000 | € 0 | € 132.000 |
-| GGD Brabant-Zuidoost | € 813.349 | € 0 | € 0 | € 0 | € 132.000 |
-| GGD Drenthe | € 580.727 | € 0 | € 0 | € 0 | € 132.000 |
-| GGD Flevoland | € 530.788 | € 0 | € 0 | € 0 | € 132.000 |
-| GGD Fryslân | € 704.659 | € 0 | € 0 | € 0 | € 132.000 |
-| GGD Gelderland-Zuid | € 637.197 | € 0 | € 540.000 | € 0 | € 132.000 |
-| GGD Gooi en Vechtstreek | € 376.247 | € 0 | € 0 | € 0 | € 132.000 |
-| GGD Groningen | € 654.025 | € 344.097 | € 0 | € 0 | € 132.000 |
-| GGD Haaglanden | € 1.084.488 | € 344.097 | € 0 | € 0 | € 132.000 |
-| GGD Hart voor Brabant | € 1.048.324 | € 0 | € 0 | € 0 | € 132.000 |
-| GGD Hollands-Midden | € 836.924 | € 0 | € 0 | € 0 | € 132.000 |
-| GGD Hollands-Noorden | € 717.291 | € 0 | € 0 | € 0 | € 132.000 |
-| GGD IJsselland | € 612.647 | € 0 | € 0 | € 0 | € 132.000 |
-| GGD Kennemerland | € 625.300 | € 0 | € 0 | € 0 | € 132.000 |
-| GGD Limburg-Noord | € 601.752 | € 0 | € 0 | € 0 | € 132.000 |
-| GGD Noord- en Oost-Gelderland | € 848.300 | € 0 | € 0 | € 0 | € 132.000 |
-| GGD Regio Utrecht | € 3.389.956 | € 344.097 | € 34.200 | € 416.400 | € 7.493.000 |
-| GGD Rotterdam-Rijnmond | € 1.245.877 | € 0 | € 540.000 | € 0 | € 132.000 |
-| GGD Twente | € 688.718 | € 344.097 | € 0 | € 0 | € 132.000 |
-| GGD West-Brabant | € 752.564 | € 344.097 | € 0 | € 0 | € 132.000 |
-| GGD Zaanstreek/Waterland | € 456.266 | € 0 | € 0 | € 0 | € 132.000 |
-| GGD Zeeland | € 492.719 | € 0 | € 0 | € 0 | € 132.000 |
-| GGD Zuid-Limburg | € 657.099 | € 344.097 | € 1.705.800 | € 0 | € 132.000 |
-| Veiligheids- en Gezondheidsregio Gelderland-Midden | € 746.179 | € 0 | € 0 | € 0 | € 132.000 |
-
-|   | Pijler 1 | Pijler 2 | Pijler 3 | Pijler 4 | Pijler 5 |
-| --- | --- | --- | --- | --- | --- |
-| **Totaal per pijler voor het jaar 2024** | **€ 20.717.600** | **€ 2.346.180** | **€ 3.720.000** | **€ 0** | **€ 9.623.920** |
-| Dienst Gezondheid & Jeugd ZHZ | € 553.716 | € 0 | € 0 | € 0 | € 132.000 |
-| GGD Amsterdam | € 1.062.488 | € 335.169 | € 840.000 | € 0 | € 132.000 |
-| GGD Brabant-Zuidoost | € 813.349 | € 0 | € 0 | € 0 | € 132.000 |
-| GGD Drenthe | € 580.727 | € 0 | € 0 | € 0 | € 132.000 |
-| GGD Flevoland | € 530.788 | € 0 | € 0 | € 0 | € 132.000 |
-| GGD Fryslân | € 704.659 | € 0 | € 0 | € 0 | € 132.000 |
-| GGD Gelderland-Zuid | € 637.197 | € 0 | € 840.000 | € 0 | € 132.000 |
-| GGD Gooi en Vechtstreek | € 376.247 | € 0 | € 0 | € 0 | € 132.000 |
-| GGD Groningen | € 654.025 | € 335.169 | € 0 | € 0 | € 132.000 |
-| GGD Haaglanden | € 1.084.488 | € 335.169 | € 0 | € 0 | € 132.000 |
-| GGD Hart voor Brabant | € 1.048.324 | € 0 | € 0 | € 0 | € 132.000 |
-| GGD Hollands-Midden | € 836.924 | € 0 | € 0 | € 0 | € 132.000 |
-| GGD Hollands-Noorden | € 717.291 | € 0 | € 0 | € 0 | € 132.000 |
-| GGD IJsselland | € 612.647 | € 0 | € 0 | € 0 | € 132.000 |
-| GGD Kennemerland | € 625.300 | € 0 | € 0 | € 0 | € 132.000 |
-| GGD Limburg-Noord | € 601.752 | € 0 | € 0 | € 0 | € 132.000 |
-| GGD Noord- en Oost-Gelderland | € 848.300 | € 0 | € 0 | € 0 | € 132.000 |
-| GGD Regio Utrecht | € 3.389.956 | € 335.169 | € 34.200 | € 0 | € 7.247.920 |
-| GGD Rotterdam-Rijnmond | € 1.245.877 |   | € 840.000 | € 0 | € 132.000 |
-| GGD Twente | € 688.718 | € 335.169 | € 0 | € 0 | € 132.000 |
-| GGD West-Brabant | € 752.564 | € 335.169 | € 0 | € 0 | € 132.000 |
-| GGD Zaanstreek/Waterland | € 456.266 | € 0 | € 0 | € 0 | € 132.000 |
-| GGD Zeeland | € 492.719 | € 0 | € 0 | € 0 | € 132.000 |
-| GGD Zuid-Limburg | € 657.099 | € 335.169 | € 2.005.800 | € 0 | € 132.000 |
-| Veiligheids- en Gezondheidsregio Gelderland-Midden | € 746.179 | € 0 | € 0 | € 0 | € 132.000 |
+| Totaal per pijler voor het jaar 2025 | Totaal | pijler 1 | pijler 2 | pijler 3 | pijler 4 | pijler 5 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Dienst Gezondheid & Jeugd ZHZ | € 950.415 | € 616.001 | € 140.764 | € 0 | € 42.434 | € 151.216 |
+| Amsterdam | € 1.776.323 | € 1.151.303 | € 263.088 | € 0 | € 79.309 | € 282.623 |
+| Brabant-Zuidoost | € 1.245.086 | € 806.988 | € 184.408 | € 0 | € 55.590 | € 198.100 |
+| Drenthe | € 830.057 | € 537.992 | € 122.938 | € 0 | € 37.060 | € 132.067 |
+| Flevoland | € 937.964 | € 607.931 | € 138.920 | € 0 | € 41.878 | € 149.235 |
+| Fryslân | € 1.066.623 | € 691.319 | € 157.976 | € 0 | € 47.622 | € 169.706 |
+| Gelderland-Zuid | € 1.025.120 | € 664.420 | € 151.829 | € 0 | € 45.769 | € 163.102 |
+| Gooi & Vechtstreek | € 514.635 | € 333.555 | € 76.222 | € 0 | € 22.977 | € 81.881 |
+| Groningen | € 1.050.022 | € 680.560 | € 155.517 | € 0 | € 46.881 | € 167.064 |
+| Haaglanden | € 1.676.715 | € 1.086.743 | € 248.335 | € 0 | € 74.862 | € 266.775 |
+| Hart voor Brabant | € 1.618.611 | € 1.049.084 | € 239.730 | € 0 | € 72.267 | € 257.530 |
+| Hollands-Midden | € 1.286.587 | € 833.887 | € 190.554 | € 0 | € 57.443 | € 204.703 |
+| Hollands-Noorden | € 1.095.675 | € 710.149 | € 162.279 | € 0 | € 48.919 | € 174.328 |
+| IJsselland | € 867.410 | € 562.201 | € 128.471 | € 0 | € 38.728 | € 138.010 |
+| Kennemerland | € 1.020.970 | € 661.730 | € 151.214 | € 0 | € 45.584 | € 162.442 |
+| Limburg-Noord | € 884.010 | € 572.961 | € 130.929 | € 0 | € 39.469 | € 140.651 |
+| Noord-en Oost Gelderland | € 1.311.490 | € 850.027 | € 194.243 | € 0 | € 58.555 | € 208.665 |
+| Regio Utrecht | € 1.909.131 | € 1.237.381 | € 282.758 | € 0 | € 85.238 | € 303.754 |
+| Rotterdam-Rijnmond | € 2.153.998 | € 1.396.089 | € 319.025 | € 0 | € 96.171 | € 342.713 |
+| Twente | € 975.317 | € 632.140 | € 144.453 | € 0 | € 43.546 | € 155.178 |
+| West-Brabant | € 1.157.930 | € 750.499 | € 171.499 | € 0 | € 51.699 | € 184.233 |
+| Zaanstreek-Waterland | € 742.902 | € 481.503 | € 110.030 | € 0 | € 33.169 | € 118.200 |
+| Zeeland | € 958.717 | € 621.381 | € 141.994 | € 0 | € 42.805 | € 152.537 |
+| Zuid-Limburg | € 5.055.675 | € 710.149 | € 162.279 | € 3.960.000 | € 48.919 | € 174.328 |
+| Veiligheids- en Gezondheidsregio Gelderland-Midden | € 1.340.542 | € 868.857 | € 198.545 | € 0 | € 59.852 | € 213.288 |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
