@@ -4,7 +4,7 @@ identifier: "BWBR0047609"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-01"
-last_updated: "2023-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047609"
 soort: "ministeriele-regeling"
@@ -46,9 +46,9 @@ In deze regeling wordt verstaan onder:
 
 - –. **academisch centrum kinder- en jeugdpsychiatrie (ACKJP):** een instelling voor specialistische kinder- en jeugdpsychiatrie waar naast zorg ook medisch specialisten worden opgeleid en wetenschappelijke kennis wordt gegenereerd, toegepast en verspreid, als onderdeel van of gelieerd aan een universitair medisch centrum met academische infrastructuur zondervolledige financiering door het Landelijk Transitiearrangement;
 
-- –. **bovenregionaal gebied:** een cluster van jeugdzorgregio’s in een bepaald gebied genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047609&bijlage=1&z=2023-01-01&g=2023-01-01);
+- –. **bovenregionaal gebied:** een cluster van jeugdzorgregio’s in een bepaald gebied genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047609&bijlage=1&z=2025-01-01&g=2025-01-01);
 
-- –. **coördinerende gemeente:** de gemeente, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047609&artikel=4&z=2023-01-01&g=2023-01-01), die verantwoordelijk is voor de organisatie van de betreffende randvoorwaardelijke functie;
+- –. **coördinerende gemeente:** de gemeente, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047609&artikel=4&z=2025-01-01&g=2025-01-01), die verantwoordelijk is voor de organisatie van de betreffende randvoorwaardelijke functie;
 
 - –. **expertisenetwerk jeugdhulp:** netwerk in een bovenregionaal gebied dat ten doel heeft om te zorgen voor een passende oplossing voor jongeren met complexe en meervoudige problematiek die vastlopen in de zorg of niet de juiste hulp krijgen en te voorkomen dat de zorgvraag van jongeren steeds complexer wordt;
 
@@ -143,7 +143,7 @@ De specifieke uitkering per randvoorwaardelijke functie en per coördinerende ge
 
 ##### Artikel 5. Ontwikkeling prijspeil en arbeidsvoorwaarden
 
-1. De minister kan het bedrag van de uitkering zoals genoemd in [artikel 4, onder 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047609&artikel=4&z=2023-01-01&g=2023-01-01), bijstellen, rekening houdend met de ontwikkeling van het prijspeil of de ontwikkeling van de arbeidsvoorwaarden.
+1. De minister kan het bedrag van de uitkering zoals genoemd in [artikel 4, onder 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047609&artikel=4&z=2025-01-01&g=2025-01-01), bijstellen, rekening houdend met de ontwikkeling van het prijspeil of de ontwikkeling van de arbeidsvoorwaarden.
 
 2. Indien de uitkering met toepassing van het eerste lid wordt bijgesteld, wordt 20% van het bedrag van de uitkering in aanmerking genomen voor een bijstelling in verband met de ontwikkeling van het prijspeil en wordt 80% van het bedrag van de uitkering in aanmerking genomen voor een bijstelling in verband met de ontwikkeling van de arbeidsvoorwaarden.
 
@@ -151,11 +151,11 @@ De specifieke uitkering per randvoorwaardelijke functie en per coördinerende ge
 
 ##### Artikel 6. Verlening
 
-1. De minister neemt elke twee jaar vóór 1 februari een besluit omtrent de verlening van de specifieke uitkering voor een periode van twee jaar.
+1. De minister neemt jaarlijks vóór 1 februari een besluit omtrent de verlening van de specifieke uitkering voor een periode van minimaal een jaar.
 
 2. Het besluit tot verlening vermeldt in elk geval het doel waarvoor de specifieke uitkering wordt verleend, het bedrag van de specifieke uitkering, de periode waarvoor de specifieke uitkering wordt verleend en de wijze waarop de verantwoording plaatsvindt.
 
-3. De minister verleent bij het besluit tot verlening van de specifieke uitkering in het eerste jaar een voorschot van 50% van het in de beschikking vermelde bedrag en in het tweede jaar de resterende 50% welke in één keer zullen worden betaald.
+3. De minister verleent bij het besluit tot verlening van de specifieke uitkering een voorschot van 100% dat in één keer wordt betaald.
 
 4. In afwijking van het eerste lid, neemt de minister vóór 1 maart 2023 een besluit omtrent de verlening van de specifieke uitkering voor de jaren 2023 en 2024.
 
@@ -199,11 +199,11 @@ De coördinerende gemeente betrekt andere gemeenten of jeugdregio's bij het gesp
 
 2. Daar waar sprake is van overdracht van middelen naar een medeoverheid is SiSa tussen medeoverheden van toepassing conform [artikel 17a, tweede lid van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
-3. Indien een specifieke uitkering als bedoeld in [artikel 3, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0047609&artikel=3&z=2023-01-01&g=2023-01-01), niet of niet geheel in de jaren waarvoor deze verleend is, is besteed aan de activiteiten voor de betreffende randvoorwaardelijke functie, kan het overschot in het daaropvolgende jaar worden besteed aan de activiteiten voor dezelfde randvoorwaardelijke functie, bedoeld in artikel 3, eerste lid, onder a of b.
+3. Indien een specifieke uitkering als bedoeld in [artikel 3, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0047609&artikel=3&z=2025-01-01&g=2025-01-01), niet of niet geheel in de jaren waarvoor deze verleend is, is besteed aan de activiteiten voor de betreffende randvoorwaardelijke functie, kan het overschot in het daaropvolgende jaar worden besteed aan de activiteiten voor dezelfde randvoorwaardelijke functie, bedoeld in artikel 3, eerste lid, onder a of b.
 
 ##### Artikel 12. Vaststelling
 
-1. De minister besluit uiterlijk 38 weken na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0047609&artikel=11&z=2023-01-01&g=2023-01-01), over de vaststelling van de specifieke uitkering.
+1. De minister besluit uiterlijk 38 weken na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0047609&artikel=11&z=2025-01-01&g=2025-01-01), over de vaststelling van de specifieke uitkering.
 
 2. Indien de activiteiten waarvoor de specifieke uitkering is verleend, zijn verricht en daarnaast volledig is voldaan aan de voorwaarden en verplichtingen die verbonden zijn aan de specifieke uitkering, wordt de specifieke uitkering vastgesteld op het bedrag dat bestaat uit de gerealiseerde kosten, tot ten hoogste het in de verleningsbeschikking genoemde bedrag.
 
