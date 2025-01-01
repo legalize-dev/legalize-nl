@@ -4,7 +4,7 @@ identifier: "BWBR0049048"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2024-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049048"
 soort: "wet"
@@ -101,8 +101,6 @@ Wijzigt de Wet kinderopvang.
 
 Wijzigt de Wet minimumlonen BES.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVI. [Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638)
 
 Wijzigt de Wet minimumloon en minimumvakantiebijslag.
@@ -125,7 +123,7 @@ Vervallen.
 
 ##### Artikel XXI. Inwerkingtreding
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, en werkt ten aanzien van de [artikelen XII, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0049048&artikel=XII&z=2024-01-01&g=2024-01-01), en [XIII, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0049048&artikel=XIII&z=2024-01-01&g=2024-01-01), terug tot en met 1 januari 2023.
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, en werkt ten aanzien van de [artikelen XII, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0049048&artikel=XII&z=2025-01-01&g=2025-01-01), en [XIII, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0049048&artikel=XIII&z=2025-01-01&g=2025-01-01), terug tot en met 1 januari 2023.
 
 ##### Artikel XXII. Citeertitel
 
