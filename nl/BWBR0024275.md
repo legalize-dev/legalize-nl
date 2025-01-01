@@ -4,7 +4,7 @@ identifier: "BWBR0024275"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2020-05-21"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024275"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In deze regeling wordt verstaan onder wet: [Wet ter voorkoming van witwassen en 
 
 ##### Artikel 2
 
-Van de bij of krachtens de wet gestelde regels zijn vrijgesteld instellingen als bedoeld in [artikel 1a, vierde lid, onderdeel j, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1a), voor zover zij beroeps- of bedrijfsmatig gelegenheid geven als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=3), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=8), [14a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=14a), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=15), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=23) en [27a van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27a) of activiteiten verrichten als bedoeld in de [artikelen 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=7a), [30b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30b) en [30h van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30h).
+Van de bij of krachtens de wet gestelde regels zijn vrijgesteld instellingen als bedoeld in [artikel 1a, vierde lid, onderdeel n, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1a), voor zover zij beroeps- of bedrijfsmatig gelegenheid geven als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=3), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=8), [14a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=14a), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=15), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=23) en [27a van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27a) of activiteiten verrichten als bedoeld in de [artikelen 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=7a), [30b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30b) en [30h van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30h).
 
 ##### Artikel 3
 
