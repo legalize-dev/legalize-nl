@@ -4,7 +4,7 @@ identifier: "BWBR0004772"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-12-12"
-last_updated: "2024-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004772"
 soort: "AMvB"
@@ -102,7 +102,7 @@ Vervallen
 
 ##### Artikel 8
 
-Het lichaam dat de mededeling, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=7&z=2024-01-01&g=2024-01-01) of [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=7a&z=2024-01-01&g=2024-01-01), doet, is gehouden aan de ontvanger:
+Het lichaam dat de mededeling, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=7&z=2025-12-12&g=2025-01-01) of [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=7a&z=2025-12-12&g=2025-01-01), doet, is gehouden aan de ontvanger:
 
 - a. de door deze gevraagde gegevens en inlichtingen te verstrekken die voor de vaststelling van de oorzaak van de betalingsonmacht, of voor de bepaling van de financiële positie van het lichaam van belang kunnen zijn;
 
@@ -110,7 +110,7 @@ Het lichaam dat de mededeling, bedoeld in [artikel 7](https://wetten.overheid.nl
 
 ##### Artikel 9
 
-1. Aan de verplichtingen, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=8&z=2024-01-01&g=2024-01-01), dient binnen een door de ontvanger te stellen redelijke termijn te worden voldaan.
+1. Aan de verplichtingen, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=8&z=2025-12-12&g=2025-01-01), dient binnen een door de ontvanger te stellen redelijke termijn te worden voldaan.
 
 2. De gegevens en inlichtingen dienen duidelijk, stellig en zonder voorbehoud te worden verstrekt, mondeling, schriftelijk of op andere wijze, zulks ter keuze van de ontvanger.
 
@@ -142,7 +142,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 9a
 
-[Artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=II&artikel=6&z=2024-01-01&g=2024-01-01), is van overeenkomstige toepassing ingeval zich een handeling of gebeurtenis voordoet op grond waarvan het verleende uitstel, bedoeld in [artikel 70b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=70b), wordt beëindigd.
+[Artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=II&artikel=6&z=2025-12-12&g=2025-01-01), is van overeenkomstige toepassing ingeval zich een handeling of gebeurtenis voordoet op grond waarvan het verleende uitstel, bedoeld in [artikel 70b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=70b), wordt beëindigd.
 
 ### Hoofdstuk IIIa. Overgangsbepaling
 
@@ -201,6 +201,14 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 - b. vanaf 1 maart 2023 een aanvraag heeft gedaan om toepassing van een herstelmaatregel als bedoeld in [artikel 2.7 van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.7), over de terug te vorderen bedragen van de aanvrager en diens partner die zien op de periode vanaf de datum van de aanvraag tot en met 31 december 2020.
 
 ### Hoofdstuk III. Meldingsregeling bestuurdersaansprakelijkheid
+
+### Hoofdstuk IV. Inwerkingtreding en citeertitel
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
+
+##### Artikel 9b
+
+[Artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=II&artikel=6&z=2025-12-12&g=2025-01-01), is van overeenkomstige toepassing ingeval zich een handeling of gebeurtenis voordoet op grond waarvan het verleende uitstel, bedoeld in de [artikelen 70g](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=70g) of [70h van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=70h), wordt beëindigd.
 
 ### Hoofdstuk IV. Inwerkingtreding en citeertitel
 
