@@ -4,7 +4,7 @@ identifier: "BWBR0037131"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-02"
-last_updated: "2024-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037131"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **commissie:** Adviescommissie toepassing en gelijkwaardigheid bouwvoorschriften, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037131&artikel=2&z=2024-01-01&g=2024-01-01);
+- a. **commissie:** Adviescommissie toepassing en gelijkwaardigheid bouwvoorschriften, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037131&artikel=2&z=2025-04-02&g=2025-01-01);
 
 - b. **minister:** Minister voor Wonen en Rijksdienst.
 
@@ -56,13 +56,13 @@ De commissie heeft tot taak te adviseren over:
 
 - a. de gelijkwaardigheid van technische of andere oplossingen ter zake van de technische voorschriften aangaande het bouwen of de staat van bouwwerken gesteld bij of krachtens de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) of ter zake van de regels over bouwactiviteiten of het in stand houden van bouwwerken gesteld bij of krachtens de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885);
 
-- b. de toepassing van de technische voorschriften aangaande het bouwen, gebruiken of de staat van bouwwerken gesteld bij of krachtens de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) of de regels over bouwactiviteiten of het gebruik en het in stand houden van bouwwerken gesteld bij of krachtens de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), in de in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037131&artikel=4&z=2024-01-01&g=2024-01-01), genoemde gevallen.
+- b. de toepassing van de technische voorschriften aangaande het bouwen, gebruiken of de staat van bouwwerken gesteld bij of krachtens de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) of de regels over bouwactiviteiten of het gebruik en het in stand houden van bouwwerken gesteld bij of krachtens de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), in de in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037131&artikel=4&z=2025-04-02&g=2025-01-01), genoemde gevallen.
 
 ##### Artikel 4
 
 1. De commissie adviseert uitsluitend in geval:
 
-- a. daartoe een verzoek wordt gedaan dat betrekking heeft op de toepassing van technische voorschriften als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037131&artikel=3&z=2024-01-01&g=2024-01-01) in het kader van:
+- a. daartoe een verzoek wordt gedaan dat betrekking heeft op de toepassing van technische voorschriften als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037131&artikel=3&z=2025-04-02&g=2025-01-01) in het kader van:
 
 - 1°. een aanvraag om een omgevingsvergunning voor een bouwactiviteit;
 
