@@ -4,7 +4,7 @@ identifier: "BWBR0012216"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2024-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012216"
 soort: "AMvB"
@@ -80,19 +80,19 @@ Vóór 1 juli van het jaar voorafgaand aan het uitkeringsjaar geven Onze Ministe
 
 ##### Artikel 3
 
-1. Bij de verdeling van het voor de algemene uitkeringen aan de provincies beschikbare bedrag worden de verdeelmaatstaven gehanteerd die zijn omschreven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&bijlage=1&z=2024-01-01&g=2024-01-01) bij dit besluit.
+1. Bij de verdeling van het voor de algemene uitkeringen aan de provincies beschikbare bedrag worden de verdeelmaatstaven gehanteerd die zijn omschreven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&bijlage=1&z=2024-01-01&g=2025-01-01) bij dit besluit.
 
-2. Bij de verdeling van het voor de algemene uitkeringen aan de gemeenten beschikbare bedrag worden de verdeelmaatstaven gehanteerd die zijn omschreven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&bijlage=2&z=2024-01-01&g=2024-01-01) bij dit besluit.
+2. Bij de verdeling van het voor de algemene uitkeringen aan de gemeenten beschikbare bedrag worden de verdeelmaatstaven gehanteerd die zijn omschreven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&bijlage=2&z=2024-01-01&g=2025-01-01) bij dit besluit.
 
-3. Bij de vaststelling van de algemene uitkering aan een provincie of gemeente stellen Onze Ministers zo nodig het aantal eenheden per verdeelmaatstaf vast. Voor zover in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&bijlage=1&z=2024-01-01&g=2024-01-01) en [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&bijlage=2&z=2024-01-01&g=2024-01-01) bij een verdeelmaatstaf een bron is vermeld, kunnen Onze Ministers het aantal eenheden ontlenen aan een opgave van het vermelde orgaan of de vermelde instantie.
+3. Bij de vaststelling van de algemene uitkering aan een provincie of gemeente stellen Onze Ministers zo nodig het aantal eenheden per verdeelmaatstaf vast. Voor zover in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&bijlage=1&z=2024-01-01&g=2025-01-01) en [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&bijlage=2&z=2024-01-01&g=2025-01-01) bij een verdeelmaatstaf een bron is vermeld, kunnen Onze Ministers het aantal eenheden ontlenen aan een opgave van het vermelde orgaan of de vermelde instantie.
 
-4. De vaststelling van het aantal eenheden per verdeelmaatstaf voor een provincie of gemeente geschiedt naar de toestand op 1 januari van het uitkeringsjaar waarover het aantal wordt vastgesteld, tenzij in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&bijlage=1&z=2024-01-01&g=2024-01-01) of [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&bijlage=2&z=2024-01-01&g=2024-01-01) een peildatum of andere tijdsaanduiding bij een verdeelmaatstaf is vermeld. In dat geval geschiedt de vaststelling naar de toestand op de aangegeven datum of de gegeven tijdsaanduiding.
+4. De vaststelling van het aantal eenheden per verdeelmaatstaf voor een provincie of gemeente geschiedt naar de toestand op 1 januari van het uitkeringsjaar waarover het aantal wordt vastgesteld, tenzij in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&bijlage=1&z=2024-01-01&g=2025-01-01) of [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&bijlage=2&z=2024-01-01&g=2025-01-01) een peildatum of andere tijdsaanduiding bij een verdeelmaatstaf is vermeld. In dat geval geschiedt de vaststelling naar de toestand op de aangegeven datum of de gegeven tijdsaanduiding.
 
 5. Indien op grond van het vierde lid een peildatum of tijdsaanduiding moet worden gehanteerd die ligt vóór de datum van herindeling van de provincie of gemeente, stellen Onze Ministers het aantal eenheden vast op basis van een redelijke schatting van de toestand zoals die op het aangegeven tijdstip zou zijn geweest als de herindeling op dat tijdstip reeds was ingegaan.
 
 ##### Artikel 4
 
-Onze Ministers kunnen nadere regels stellen omtrent de uitwerking van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&bijlage=1&z=2024-01-01&g=2024-01-01) en [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&bijlage=2&z=2024-01-01&g=2024-01-01) en in de [paragrafen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&hoofdstuk=2&paragraaf=2.2&z=2024-01-01&g=2024-01-01) en [2.3 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&hoofdstuk=2&paragraaf=2.3&z=2024-01-01&g=2024-01-01) gehanteerde begrippen en omtrent de telling van het aantal eenheden per verdeelmaatstaf voor zover dit noodzakelijk is om de verdeelmaatstaven te kunnen toepassen.
+Onze Ministers kunnen nadere regels stellen omtrent de uitwerking van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&bijlage=1&z=2024-01-01&g=2025-01-01) en [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&bijlage=2&z=2024-01-01&g=2025-01-01) en in de [paragrafen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&hoofdstuk=2&paragraaf=2.2&z=2024-01-01&g=2025-01-01) en [2.3 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&hoofdstuk=2&paragraaf=2.3&z=2024-01-01&g=2025-01-01) gehanteerde begrippen en omtrent de telling van het aantal eenheden per verdeelmaatstaf voor zover dit noodzakelijk is om de verdeelmaatstaven te kunnen toepassen.
 
 #### Paragraaf 2.2. Bijzondere bepalingen in verband met enkele verdeelmaatstaven voor het provinciefonds
 
@@ -180,7 +180,7 @@ Gedeputeerde staten brengen voor 15 februari van het jaar waarvoor de aanvullend
 
 ##### Artikel 21
 
-Onze Ministers kunnen bepalen dat de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&hoofdstuk=2&paragraaf=2.4&artikel=19&z=2024-01-01&g=2024-01-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&hoofdstuk=2&paragraaf=2.4&artikel=20&z=2024-01-01&g=2024-01-01) geheel of gedeeltelijk buiten toepassing blijven in verband met een besluit tot vaststelling van de aanvullende uitkering voor meer dan een jaar.
+Onze Ministers kunnen bepalen dat de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&hoofdstuk=2&paragraaf=2.4&artikel=19&z=2024-01-01&g=2025-01-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&hoofdstuk=2&paragraaf=2.4&artikel=20&z=2024-01-01&g=2025-01-01) geheel of gedeeltelijk buiten toepassing blijven in verband met een besluit tot vaststelling van de aanvullende uitkering voor meer dan een jaar.
 
 ##### Artikel 22
 
@@ -202,7 +202,7 @@ Onze Ministers besluiten omtrent de aanvraag vóór 1 juni van het jaar, volgend
 
 - b. de gemeente in het eerste jaar van aanvraag aannemelijk kan maken dat het tekort zich over het begrotingsjaar en de drie daarop volgende jaren uitstrekt.
 
-2. De belastingcapaciteit wordt bepaald door het totaal van de vastgestelde waarden bedoeld in [artikel 22 van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=22), in de gemeente, neerwaarts afgerond op een veelvoud van 500 000 euro, te vermenigvuldigen met de absolute waarde van de bedragen per eenheid behorende bij de maatstaven die in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&bijlage=2&z=2024-01-01&g=2024-01-01), onder nummer 1, 1a en 1b zijn vermeld.
+2. De belastingcapaciteit wordt bepaald door het totaal van de vastgestelde waarden bedoeld in [artikel 22 van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=22), in de gemeente, neerwaarts afgerond op een veelvoud van 500 000 euro, te vermenigvuldigen met de absolute waarde van de bedragen per eenheid behorende bij de maatstaven die in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&bijlage=2&z=2024-01-01&g=2025-01-01), onder nummer 1, 1a en 1b zijn vermeld.
 
 3. Bij de bepaling van de in het tweede lid bedoelde waarden wordt niet meegerekend de waarde van onroerende zaken of delen van onroerende zaken waarover het de gemeente verboden is, bij of krachtens wettelijk voorschrift, onroerende-zaakbelasting te heffen.
 
@@ -222,11 +222,11 @@ Onze Ministers besluiten omtrent de aanvraag vóór 1 juni van het jaar, volgend
 
 Onze Ministers kunnen nadere regels stellen omtrent:
 
-- a. het verslag van gedeputeerde staten, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&hoofdstuk=2&paragraaf=2.4&artikel=20&z=2024-01-01&g=2024-01-01);
+- a. het verslag van gedeputeerde staten, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&hoofdstuk=2&paragraaf=2.4&artikel=20&z=2024-01-01&g=2025-01-01);
 
 - b. de procedure in verband met de voorbereiding van het besluit omtrent het verlenen van de aanvullende uitkering;
 
-- c. de uitwerking van de in [paragraaf 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&hoofdstuk=2&paragraaf=2.4&z=2024-01-01&g=2024-01-01). van dit besluit gehanteerde begrippen.
+- c. de uitwerking van de in [paragraaf 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&hoofdstuk=2&paragraaf=2.4&z=2024-01-01&g=2025-01-01). van dit besluit gehanteerde begrippen.
 
 #### Paragraaf 2.5. De betalingen
 
@@ -268,13 +268,13 @@ Wijzigt het Besluit integratie-uitkering WUW-middelen Gemeentefonds.
 
 ##### Artikel 31
 
-1. Na de inwerkingtreding van dit besluit berust de Regeling meet- en rekenregels verdeelmaatstaven en vaststelling kilometers gewogen weglengte provinciefonds op [artikel 22 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=22) en [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2024-01-01&g=2024-01-01) van dit besluit.
+1. Na de inwerkingtreding van dit besluit berust de Regeling meet- en rekenregels verdeelmaatstaven en vaststelling kilometers gewogen weglengte provinciefonds op [artikel 22 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=22) en [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2024-01-01&g=2025-01-01) van dit besluit.
 
-2. Na de inwerkingtreding van dit besluit berust de Regeling meet- en rekenregels verdeelmaatstaven gemeentefonds op [artikel 22 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=22) en [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2024-01-01&g=2024-01-01) van dit besluit.
+2. Na de inwerkingtreding van dit besluit berust de Regeling meet- en rekenregels verdeelmaatstaven gemeentefonds op [artikel 22 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=22) en [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2024-01-01&g=2025-01-01) van dit besluit.
 
-3. Na de inwerkingtreding van dit besluit berust de Regeling belastingcapaciteit op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2024-01-01&g=2024-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&hoofdstuk=2&paragraaf=2.3&artikel=7&z=2024-01-01&g=2024-01-01) van dit besluit.
+3. Na de inwerkingtreding van dit besluit berust de Regeling belastingcapaciteit op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2024-01-01&g=2025-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&hoofdstuk=2&paragraaf=2.3&artikel=7&z=2024-01-01&g=2025-01-01) van dit besluit.
 
-4. Na de inwerkingtreding van dit besluit berust de Regeling aanvullende uitkering gemeentefonds op [artikel 12 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=12) en [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&hoofdstuk=2&paragraaf=2.4&artikel=25&z=2024-01-01&g=2024-01-01) van dit besluit.
+4. Na de inwerkingtreding van dit besluit berust de Regeling aanvullende uitkering gemeentefonds op [artikel 12 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=12) en [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&hoofdstuk=2&paragraaf=2.4&artikel=25&z=2024-01-01&g=2025-01-01) van dit besluit.
 
 ##### Artikel 32
 
@@ -304,9 +304,9 @@ Het Besluit financiële verhouding wordt ingetrokken.
 
 1. Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-2. De verdeelmaatstaven die zijn vermeld in [bijlage 1 van de Wet van 6 november 1997 tot wijziging van de Financiële-verhoudingswet en enkele andere wetten en regels inzake de invoering van deze wijziging in verband met een herziening van het verdeelstelsel voor het Provinciefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0008995&bijlage=1), worden met ingang van de uitkering uit het provinciefonds voor het jaar 2001 vervangen door de verdeelmaatstaven die zijn opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&bijlage=1&z=2024-01-01&g=2024-01-01) bij dit besluit.
+2. De verdeelmaatstaven die zijn vermeld in [bijlage 1 van de Wet van 6 november 1997 tot wijziging van de Financiële-verhoudingswet en enkele andere wetten en regels inzake de invoering van deze wijziging in verband met een herziening van het verdeelstelsel voor het Provinciefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0008995&bijlage=1), worden met ingang van de uitkering uit het provinciefonds voor het jaar 2001 vervangen door de verdeelmaatstaven die zijn opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&bijlage=1&z=2024-01-01&g=2025-01-01) bij dit besluit.
 
-3. De verdeelmaatstaven die zijn vermeld in [bijlage 2 van de Invoeringswet Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008291&bijlage=2), en in de [bijlagen bij het Besluit van 14 mei 1998 houdende toevoeging van de categorie vluchtelingen aan de verdeelmaatstaf minderheden en enkele andere aanpassingen van de verdeelmaatstaven van het gemeentefonds](onbekend), het Wijzigingsbesluit verdeelmaatstaven gemeentefonds 1999 en het [Wijzigingsbesluit verdeelmaatstaven gemeentefonds 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011693), worden met ingang van de uitkering uit het gemeentefonds voor het jaar 2001 vervangen door de verdeelmaatstaven die zijn opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&bijlage=2&z=2024-01-01&g=2024-01-01) bij dit besluit.
+3. De verdeelmaatstaven die zijn vermeld in [bijlage 2 van de Invoeringswet Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008291&bijlage=2), en in de [bijlagen bij het Besluit van 14 mei 1998 houdende toevoeging van de categorie vluchtelingen aan de verdeelmaatstaf minderheden en enkele andere aanpassingen van de verdeelmaatstaven van het gemeentefonds](onbekend), het Wijzigingsbesluit verdeelmaatstaven gemeentefonds 1999 en het [Wijzigingsbesluit verdeelmaatstaven gemeentefonds 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011693), worden met ingang van de uitkering uit het gemeentefonds voor het jaar 2001 vervangen door de verdeelmaatstaven die zijn opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&bijlage=2&z=2024-01-01&g=2025-01-01) bij dit besluit.
 
 ##### Artikel 39
 
@@ -327,7 +327,7 @@ Dit besluit wordt aangehaald als: Besluit financiële verhouding 2001.
 | 8. Maatstaf capaciteit warmte-kracht-koppeling | De capaciteit van warmte-krachtkoppelingsinstallaties in alle bedrijfssectoren, uitgezonderd de bedrijven voor openbare electriciteitsproduktie, in het aantal megajoule per uur plus het aantal kilowatt. | CBS | De meest recente met betrekking tot het uitkeringsjaar of een daarvóór gelegen tijdstip vastgestelde cijfers van het CBS, voor zover deze zijn bekendgemaakt op uiterlijk 1 september van het tweede jaar volgend op het uitkeringsjaar |
 | 9. Maatstaf vast bedrag | Één eenheid voor iedere provincie. |   |   |
 
-## Bijlage 1. De verdeelmaatstaven voor het provinciefonds (bijlage bij [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2024-01-01&g=2024-01-01))
+## Bijlage 1. De verdeelmaatstaven voor het provinciefonds (bijlage bij [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2024-01-01&g=2025-01-01))
 
 | Nummer en korte omschrijving | Definitie verdeelmaatstaf | Bron | Peildatum of tijdsaanduiding (indien deze anders luidt dan 1 januari van het uitkeringsjaar) |
 | --- | --- | --- | --- |
@@ -341,7 +341,7 @@ Dit besluit wordt aangehaald als: Besluit financiële verhouding 2001.
 | 8. Maatstaf inwoners vervoerregio | Het aantal inwoners van de provincie dat woont in een vervoerregio die rechtstreeks door het Rijk wordt gefinancierd. | CBS |   |
 | 9. Maatstaf inwoners landelijk gebied | Het aantal inwoners van binnen de provincie gelegen landelijk gebied. | CBS |   |
 
-## Bijlage 2. De verdeelmaatstaven voor het gemeentefonds (bijlage bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2024-01-01&g=2024-01-01))
+## Bijlage 2. De verdeelmaatstaven voor het gemeentefonds (bijlage bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2024-01-01&g=2025-01-01))
 
 | nummer en korte omschrijving | Definitie verdeelmaatstaf | Bron | Peildatum of tijdsaanduiding (indien deze anders luidt dan 1 januari van het uitkeringsjaar) |
 | --- | --- | --- | --- |
@@ -398,30 +398,30 @@ Dit besluit wordt aangehaald als: Besluit financiële verhouding 2001.
 | 15f. Extra groei jongeren | Het aantal jongeren in een gemeente verminderd met 110% van het aantal jongeren tien jaar eerder. Bij een negatieve uitkomst wordt het resultaat op nul gesteld. | CBS |   |
 | 16. Maatstaf land | Het aantal hectaren land in de gemeente. | CBS |   |
 | 17. Vervallen |   |   |   |
-| 18. Maatstaf land ∗ bodemfactor gemeente | Het aantal hectaren land als bedoeld in maatstaf 16, vermenigvuldigd met de bodemfactor als omschreven in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2024-01-01&g=2024-01-01). |   |   |
+| 18. Maatstaf land ∗ bodemfactor gemeente | Het aantal hectaren land als bedoeld in maatstaf 16, vermenigvuldigd met de bodemfactor als omschreven in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2024-01-01&g=2025-01-01). |   |   |
 | 19. Maatstaf binnenwater | Het aantal hectaren binnenwater in de gemeente. | CBS |   |
 | 20. Maatstaf buitenwater | Het aantal hectaren buitenwater in de gemeente. | CBS |   |
 | 21. Maatstaf oppervlak bebouwing | Het totale oppervlak van de bebouwing binnen de gemeente. | CBS |   |
-| 22. Maatstaf oppervlak bebouwing woonkern ∗ bodemfactor woonkern | Het oppervlak van de bebouwing binnen de woonkernen, vermenigvuldigd met de bodemfactor bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2024-01-01&g=2024-01-01) voor de woonkernen van de gemeente. | CBS |   |
+| 22. Maatstaf oppervlak bebouwing woonkern ∗ bodemfactor woonkern | Het oppervlak van de bebouwing binnen de woonkernen, vermenigvuldigd met de bodemfactor bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2024-01-01&g=2025-01-01) voor de woonkernen van de gemeente. | CBS |   |
 | 22a. Maatstaf oppervlak bebouwing woonkern | Het oppervlak van de bebouwing in hectaren binnen de woonkernen van de gemeente. | CBS |   |
-| 23. Maatstaf oppervlak bebouwing buitengebied ∗ bodemfactor buitengebied | Het oppervlak van de bebouwing buiten de woonkernen, vermenigvuldigd met de bodemfactor bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2024-01-01&g=2024-01-01) voor de gebieden buiten de woonkernen. | CBS |   |
+| 23. Maatstaf oppervlak bebouwing buitengebied ∗ bodemfactor buitengebied | Het oppervlak van de bebouwing buiten de woonkernen, vermenigvuldigd met de bodemfactor bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2024-01-01&g=2025-01-01) voor de gebieden buiten de woonkernen. | CBS |   |
 | 23a. Maatstaf oppervlak bebouwing buitengebied | Het oppervlak van de bebouwing in hectaren buiten de woonkernen van de gemeente. | CBS |   |
 | 24. Maatstaf woonruimten | Het totaal van: – het aantal verblijfsobjecten met woonfunctie in de gemeente; – het aantal verblijfsobjecten met logiesfunctie in de gemeente; – het aantal personen in zorginstellingen per 1.000 inwoners van de gemeente verminderd met het landelijk gemiddelde per 1.000 inwoners, vermenigvuldigd met het aantal inwoners van de gemeente gedeeld door 1.000. Een negatieve uitkomst wordt op nul gesteld; – 25% van het aantal uitwonende studenten in de gemeente. | CBS |   |
-| 25. Maatstaf woonruimten ∗ bodemfactor woonkern | Het aantal woonruimten in de gemeente vermenigvuldigd met de voor het gebied binnen de woonkern berekende bodemfactor als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2024-01-01&g=2024-01-01). | CBS |   |
+| 25. Maatstaf woonruimten ∗ bodemfactor woonkern | Het aantal woonruimten in de gemeente vermenigvuldigd met de voor het gebied binnen de woonkern berekende bodemfactor als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2024-01-01&g=2025-01-01). | CBS |   |
 | 26. Vervallen |   |   |   |
-| 27. Maatstaf historische kernen | Voor de gemeente waarin historiche kernen zijn gelegen, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&hoofdstuk=2&paragraaf=2.3&artikel=17&z=2024-01-01&g=2024-01-01), het aantal hectaren historische kernen in de gemeente. Kernen met een oppervlak van minder dan 5 hectaren worden buiten beschouwing gelaten. | CBS |   |
+| 27. Maatstaf historische kernen | Voor de gemeente waarin historiche kernen zijn gelegen, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&hoofdstuk=2&paragraaf=2.3&artikel=17&z=2024-01-01&g=2025-01-01), het aantal hectaren historische kernen in de gemeente. Kernen met een oppervlak van minder dan 5 hectaren worden buiten beschouwing gelaten. | CBS |   |
 | 28. Maatstaf historische waterweg | Voor de gemeente waarin historische kernen zijn gelegen het aantal meters historische waterweg in en rondom de kernen | CBS |   |
 | 29. Maatstaf bewoonde oorden 1930 | Voor de gemeente, waarin oorden zijn gelegen, die in de in 1930 gehouden volkstelling zijn geregistreerd als een bewoond oord met 500 of meer woningen het historisch aantal woningen in deze oorden. | CBS |   |
 | 30. Maatstaf woningen 1930 in bewoonde oorden | Voor de gemeente, waarin bewoonde oorden zijn gelegen als bedoeld in maatstaf 29, waarbij in de bewoonde oorden historische kernen zijn gelegen als bedoeld in maatstaf 27: het historisch aantal woningen in deze bewoonde oorden. | CBS |   |
-| 31. Maatstaf ISV | Het aandeel van de gemeente in de tegemoetkoming zoals door Onze Ministers op grond van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&hoofdstuk=2&paragraaf=2.3&artikel=18&z=2024-01-01&g=2024-01-01) is vastgesteld. | Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer |   |
+| 31. Maatstaf ISV | Het aandeel van de gemeente in de tegemoetkoming zoals door Onze Ministers op grond van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&hoofdstuk=2&paragraaf=2.3&artikel=18&z=2024-01-01&g=2025-01-01) is vastgesteld. | Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer |   |
 | 32. Maatstaf omgevingsadressendichtheid | De gemiddelde omgevingsadressendichtheid van de adressen in de gemeente, in adressen per vierkante kilometer, vermenigvuldigd met het aantal woonruimten in de gemeente gedeeld door 1.000. | CBS |   |
 | 32a. Maatstaf omgevingsadressendichtheid met drempel | De omgevingsadressendichtheid bedoeld in maatstaf 32, voor zover de omgevingsadressendichtheid de waarde van 3.400 te boven gaat. | CBS |   |
 | 33. Vervallen |   |   |   |
-| 34. Maatstaf oeverlengte*bodemfactor gemeente | Voor de gemeente waarin binnenwater is gelegen: de totale lengte van de oevers van het binnenwater in hectometers, vermenigvuldigd met de bodemfactor voor de gemeente, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2024-01-01&g=2024-01-01). |   |   |
+| 34. Maatstaf oeverlengte*bodemfactor gemeente | Voor de gemeente waarin binnenwater is gelegen: de totale lengte van de oevers van het binnenwater in hectometers, vermenigvuldigd met de bodemfactor voor de gemeente, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2024-01-01&g=2025-01-01). |   |   |
 | 35. Maatstaf oeverlengte * bodemfactor gemeente * dichtheidsfactor | Voor de gemeente waarin binnenwater is gelegen als bedoeld in maatstaf 34: de uitkomst van de volgende berekening: (oeverlengte + 2x oeverlengte in veen/ kleiveengebied) x bodemfactor gemeente x de dichtheidsfactor. De dichtheidsfactor bestaat uit het quotiënt van het aantal inwoners volgens maatstaf 2 en de som van de oppervlakten land en binnenwater volgens de maatstaven 16 en 19. | CBS |   |
 | 36. Maatstaf meerkernigheid | Het aantal woonkernen in de gemeente. | CBS |   |
-| 36a. Maatstaf grote woonkernen | In afwijking van [artikel 1, onderdeel f, van het Besluit financiële verhouding 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&hoofdstuk=1&artikel=1&z=2024-01-01&g=2024-01-01), worden voor deze maatstaf alleen de woonkernen meegeteld die ieder 500 adressen of meer omvatten. | CBS |   |
-| 37. Maatstaf meerkernigheid ∗ bodemfactor buitengebied | Het aantal woonkernen in de gemeente, vermenigvuldigd met de bodemfactor bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2024-01-01&g=2024-01-01) voor het gebied buiten de woonkernen. |   |   |
+| 36a. Maatstaf grote woonkernen | In afwijking van [artikel 1, onderdeel f, van het Besluit financiële verhouding 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&hoofdstuk=1&artikel=1&z=2024-01-01&g=2025-01-01), worden voor deze maatstaf alleen de woonkernen meegeteld die ieder 500 adressen of meer omvatten. | CBS |   |
+| 37. Maatstaf meerkernigheid ∗ bodemfactor buitengebied | Het aantal woonkernen in de gemeente, vermenigvuldigd met de bodemfactor bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2024-01-01&g=2025-01-01) voor het gebied buiten de woonkernen. |   |   |
 | 38. Maatstaf bedrijven | Het aantal bedrijfsvestigingen in de gemeente. | CBS |   |
 | 38a. Maatstaf belastingcapaciteit niet-woningen | Het totaal van de vastgestelde waarden van onroerende zaken die niet in hoofdzaak tot woning dienen, als bedoeld in [artikel 220, onderdeel b, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=220) en waarover naar de toestand op 1 januari van het uitkeringsjaar door de gemeente onroerende zaakbelastingen (Ozb) kan worden geheven. De maatstaf bedraagt 70% van de Ozb-waarde en wordt uitgedrukt in miljoenen euro’s. De waarde van de onroerende zaken wordt bepaald op grond van [hoofdstuk IV van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV) (Woz). | CBS |   |
 | 39. Maatstaf vast bedrag | Eén eenheid voor iedere gemeente. |   |   |
