@@ -4,7 +4,7 @@ identifier: "BWBR0003030"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-05-27"
-last_updated: "2020-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003030"
 soort: "AMvB"
@@ -82,7 +82,7 @@ De griffier van het gerechtshof houdt een lijst waarop de namen van de raden en 
 
 ##### Artikel 6
 
-De installatie van de raden en plaatsvervangende raden in de bijzondere kamer geschiedt door middel van het op de terechtzitting voorlezen van het formulier, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003030&artikel=4&z=2020-01-01&g=2020-01-01).
+De installatie van de raden en plaatsvervangende raden in de bijzondere kamer geschiedt door middel van het op de terechtzitting voorlezen van het formulier, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003030&artikel=4&z=2025-05-27&g=2025-01-01).
 
 ##### Artikel 8
 
@@ -126,9 +126,9 @@ De raden en de plaatsvervangende raden ontvangen van de griffier de nodige kenni
 
 1. Aan het Ministerie van Veiligheid en Justitie worden maandelijks ingezonden:
 
-- a. de declaraties wegens vergoedingen, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0003030&artikel=13&z=2020-01-01&g=2020-01-01);
+- a. de declaraties wegens vergoedingen, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0003030&artikel=13&z=2025-05-27&g=2025-01-01);
 
-- b. de declaraties wegens reis- en verblijfkosten, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0003030&artikel=14&z=2020-01-01&g=2020-01-01).
+- b. de declaraties wegens reis- en verblijfkosten, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0003030&artikel=14&z=2025-05-27&g=2025-01-01).
 
 2. De in het eerste lid onder **a** genoemde declaraties vermelden de dagen waarop de bijeenkomsten zijn bijgewoond en bevatten een verklaring van de voorzitter der bijzondere kamer dat de declarant de opgegeven bijeenkomsten heeft bijgewoond.
 
@@ -148,4 +148,4 @@ Dit besluit berust op de [artikelen 67, vijfde en zesde lid, van de Wet op de re
 
 ##### Artikel 7
 
-De [artikelen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0003030&artikel=4&z=2020-01-01&g=2020-01-01) zijn van overeenkomstige toepassing op de beëdiging van een deskundig lid als bedoeld in [artikel 55a, tweede lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=55a), deskundige leden als bedoeld in [artikel 70, tweede lid, van diezelfde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=70), en een militair lid als bedoeld in [artikel 54, derde lid, van diezelfde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=54), met dien verstande dat in plaats van «gerechtshof Arnhem-Leeuwarden» wordt gelezen: rechtbank Den Haag, gerechtshof Den Haag onderscheidenlijk rechtbank Den Haag.
+De [artikelen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0003030&artikel=4&z=2025-05-27&g=2025-01-01) zijn van overeenkomstige toepassing op de beëdiging van een deskundig lid als bedoeld in [artikel 55a, tweede lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=55a), deskundige leden als bedoeld in [artikel 70, tweede lid, van diezelfde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=70), en een militair lid als bedoeld in [artikel 54, derde lid, van diezelfde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=54), met dien verstande dat in plaats van «gerechtshof Arnhem-Leeuwarden» wordt gelezen: rechtbank Den Haag, gerechtshof Den Haag onderscheidenlijk rechtbank Den Haag.
