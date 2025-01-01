@@ -4,7 +4,7 @@ identifier: "BWBR0042266"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2020-05-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042266"
 soort: "AMvB"
@@ -114,7 +114,7 @@ Ambulante onvrijwillige zorg omvat het:
 
 - 5°. op welke wijze de bereikbaarheid en ondersteuning, bedoeld in onderdeel c, worden geborgd;
 
-- 6°. op welke wijze in geval van ambulante onvrijwillige wordt toegezien op het voorkomen van grensoverschrijdend gedrag door een zorgverlener.
+- 6°. op welke wijze in geval van ambulante onvrijwillige zorg wordt toegezien op het voorkomen van grensoverschrijdend gedrag door een zorgverlener.
 
 2. In een situatie als bedoeld in [artikel 15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=15):
 
@@ -130,15 +130,9 @@ Ambulante onvrijwillige zorg omvat het:
 
 ##### Artikel 3.1
 
-1. De externe deskundige, bedoeld in [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=11), is:
+1. De onafhankelijke deskundige, bedoeld in [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=11), is een zorgverlener of een deskundige die beroepsmatig werkzaam is op het gebied van zorg en heeft aantoonbare kennis van en ervaring met de problematiek van de cliënt alsmede aantoonbare kennis van en ervaring met het voorkomen en afbouwen van onvrijwillige zorg voor de doelgroep waartoe de betrokken cliënt behoort.
 
-- a. een arts voor verstandelijk gehandicapten, een psychiater, een gezondheidszorgpsycholoog, een orthopedagoog-generalist of een verpleegkundige als het een cliënt betreft met een verstandelijke handicap;
-
-- b. een specialist ouderengeneeskunde, een psychiater, een gezondheidszorgpsycholoog, of een verpleegkundige als het een cliënt betreft met een psychogeriatrische aandoening.
-
-2. De externe deskundige heeft aantoonbare ervaring in het voorkomen en afbouwen van onvrijwillige zorg voor de doelgroep waartoe de betrokken cliënt behoort.
-
-3. De externe deskundige is niet in dienst van of gedetacheerd bij de zorgaanbieder van de cliënt en is ook niet op andere wijze betrokken bij de behandeling of verzorging van de cliënt.
+2. De onafhankelijke deskundige is gedurende ten minste één jaar niet betrokken geweest bij de behandeling van of de zorg aan de betrokken cliënt en functioneert onafhankelijk van de zorgaanbieder.
 
 ##### Artikel 3.2
 
