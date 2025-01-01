@@ -4,7 +4,7 @@ identifier: "BWBR0044529"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-01-01"
-last_updated: "2021-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044529"
 soort: "zbo"
@@ -42,13 +42,11 @@ Het stimuleren van talentontwikkeling door beeldend kunstenaars de mogelijkheid 
 
 ##### Artikel 2. Toepasselijkheid
 
-1. Een kunstenaar die een aanvraag doet voor een projectinvestering dient ofwel
+1. Een kunstenaar die een aanvraag doet voor een projectinvestering dient minimaal één jaar als professioneel beeldend kunstenaar werkzaam te zijn. Daarbij geldt:
 
-- •. ten minste drie jaar professioneel werkzaam te zijn als beeldend kunstenaar; of
+- •. Indien de kunstenaar een hbo-bacheloropleiding met een beeldende kunstcurriculum heeft afgerond wordt de diplomadatum beschouwd als start van de professionele beroepspraktijk. Wanneer er een periode tussen de diplomadatum van de hbo-bacheloropleiding met beeldende kunstcurriculum en de start van de masteropleiding zit, wordt deze periode meegerekend als onderdeel van de professionele beroepspraktijk.
 
-- •. ten minste drie jaar een hbo-opleiding aan een opleidingsinstituut voor beeldende kunsten te hebben gevolgd en minimaal één jaar professioneel werkzaam te zijn als beeldend kunstenaar. Als het een instituut voor beeldende kunst en vormgeving betreft, moet een beeldende kunst curriculum zijn gevolgd; of
-
-- •. één jaar professioneel werkzaam te zijn als beeldend kunstenaar en ingeschreven te staan in het Handelsregister bij de Kamer van Koophandel, dan wel een vergelijkbare buitenlandse organisatie.
+- •. Indien de kunstenaar geen hbo-bacheloropleiding met een beeldende kunstcurriculum heeft afgerond wordt het moment waarop de kunstenaar voor het eerst werk presenteert binnen het circuit van de professionele beeldende kunst beschouwd als de start van de professionele beroepspraktijk.
 
 2. Indien een aanvraag wordt ingediend voor deelname aan een postacademische opleiding die niet krachtens de [Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904) in de Basis Infrastructuur is opgenomen, kan de aanvraag direct na het verlaten van de hbo-opleiding worden ingediend.
 
