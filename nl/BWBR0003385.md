@@ -4,7 +4,7 @@ identifier: "BWBR0003385"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-05"
-last_updated: "2020-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003385"
 soort: "wet"
@@ -48,7 +48,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - a. levende organismen die zich in mens, dier of plant kunnen vermenigvuldigen;
 
-- b. uit die organismen verkregen infectueuze bestanddelen, die zich in mens, dier of plant kunnen vermenigvuldigen;
+- b. uit die organismen verkregen infectieuze bestanddelen, die zich in mens, dier of plant kunnen vermenigvuldigen;
 
 - c. stoffen, die door levende micro-organismen worden geproduceerd, met inbegrip van stoffen met identieke of analoge structuur en werking, welke langs chemische weg vervaardigd zijn;
 
@@ -68,7 +68,7 @@ voor zover die organismen, bestanddelen of stoffen ziekte of dood kunnen veroorz
 
 ##### Artikel 3
 
-Onverminderd het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003385&artikel=2&z=2020-01-01&g=2020-01-01) is het een ieder verboden biologische agentia te ontwikkelen, te produceren, in voorraad te hebben of op enigerlei andere wijze te verwerven of te bezitten, indien hij weet of redelijkerwijs moet vermoeden dat deze zijn of zullen worden bestemd om als strijdmiddel te worden gebruikt.
+Onverminderd het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003385&artikel=2&z=2025-01-01&g=2025-01-01) is het een ieder verboden biologische agentia te ontwikkelen, te produceren, in voorraad te hebben of op enigerlei andere wijze te verwerven of te bezitten, indien hij weet of redelijkerwijs moet vermoeden dat deze zijn of zullen worden bestemd om als strijdmiddel te worden gebruikt.
 
 ##### Artikel 4
 
@@ -76,7 +76,7 @@ Het is een ieder verboden wapens, uitrusting of verspreidingsmiddelen te ontwikk
 
 ##### Artikel 5
 
-De in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003385&artikel=2&z=2020-01-01&g=2020-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0003385&artikel=3&z=2020-01-01&g=2020-01-01) bedoelde agentia, de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003385&artikel=4&z=2020-01-01&g=2020-01-01) bedoelde voorwerpen, alsmede de in [artikel 7, onder e, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=7) bedoelde voorwerpen worden steeds verbeurd of aan het verkeer onttrokken verklaard. Voor het overige zijn de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=33), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=34), [36b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36b) en [36c van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36c) en [artikel 6:1:12 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:12) of de [artikelen 35 tot en met 36](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=35), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=37), [38a tot en met 38c van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=38a) van toepassing.
+De in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003385&artikel=2&z=2025-01-01&g=2025-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0003385&artikel=3&z=2025-01-01&g=2025-01-01) bedoelde agentia, de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003385&artikel=4&z=2025-01-01&g=2025-01-01) bedoelde voorwerpen, alsmede de in [artikel 7, onder e, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=7) bedoelde voorwerpen worden steeds verbeurd of aan het verkeer onttrokken verklaard. Voor het overige zijn de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=33), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=34), [36b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36b) en [36c van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36c) en [artikel 6:1:12 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:12) of de [artikelen 35 tot en met 36](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=35), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=37), [38a tot en met 38c van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=38a) van toepassing.
 
 ##### Artikel 6
 
@@ -102,15 +102,15 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba, met dien verstande dat:
 
-- a. hij die een voorschrift overtreedt, gesteld bij of krachtens de [artikelen 2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003385&artikel=2&z=2020-01-01&g=2020-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0003385&artikel=3&z=2020-01-01&g=2020-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003385&artikel=4&z=2020-01-01&g=2020-01-01), als schuldig aan een overtreding wordt gestraft met hechtenis van ten hoogste een jaar of geldboete van de vierde categorie;
+- a. hij die een voorschrift overtreedt, gesteld bij of krachtens de [artikelen 2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003385&artikel=2&z=2025-01-01&g=2025-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0003385&artikel=3&z=2025-01-01&g=2025-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003385&artikel=4&z=2025-01-01&g=2025-01-01), als schuldig aan een overtreding wordt gestraft met hechtenis van ten hoogste een jaar of geldboete van de vierde categorie;
 
-- b. hij die een voorschrift overtreedt, gesteld bij of krachtens de [artikelen 2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003385&artikel=2&z=2020-01-01&g=2020-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0003385&artikel=3&z=2020-01-01&g=2020-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003385&artikel=4&z=2020-01-01&g=2020-01-01), als schuldig aan een misdrijf wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie, indien het feit opzettelijk is begaan;
+- b. hij die een voorschrift overtreedt, gesteld bij of krachtens de [artikelen 2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003385&artikel=2&z=2025-01-01&g=2025-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0003385&artikel=3&z=2025-01-01&g=2025-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003385&artikel=4&z=2025-01-01&g=2025-01-01), als schuldig aan een misdrijf wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie, indien het feit opzettelijk is begaan;
 
-- c. hij die een voorschrift overtreedt, gesteld bij of krachtens de [artikelen 2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003385&artikel=2&z=2020-01-01&g=2020-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0003385&artikel=3&z=2020-01-01&g=2020-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003385&artikel=4&z=2020-01-01&g=2020-01-01), als schuldig aan een misdrijf wordt gestraft met gevangenisstraf van ten hoogste acht jaren of geldboete van de vijfde categorie, indien het feit opzettelijk is begaan met een terroristisch oogmerk als bedoeld in artikel 84b van het Wetboek van Strafrecht BES, dan wel met het oogmerk om een terroristisch misdrijf als bedoeld in artikel 84a van dat wetboek voor te bereiden of gemakkelijk te maken;
+- c. hij die een voorschrift overtreedt, gesteld bij of krachtens de [artikelen 2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003385&artikel=2&z=2025-01-01&g=2025-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0003385&artikel=3&z=2025-01-01&g=2025-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003385&artikel=4&z=2025-01-01&g=2025-01-01), als schuldig aan een misdrijf wordt gestraft met gevangenisstraf van ten hoogste acht jaren of geldboete van de vijfde categorie, indien het feit opzettelijk is begaan met een terroristisch oogmerk als bedoeld in artikel 84b van het Wetboek van Strafrecht BES, dan wel met het oogmerk om een terroristisch misdrijf als bedoeld in artikel 84a van dat wetboek voor te bereiden of gemakkelijk te maken;
 
-- d. in afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003385&artikel=5&z=2020-01-01&g=2020-01-01) in plaats van de in [artikel 7, onder e, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=7) bedoelde voorwerpen worden bedoeld de voorwerpen die behoren tot de onderneming van degene die overeenkomstig deze wet is veroordeeld en voor zover deze voorwerpen soortgelijk zijn aan en met betrekking tot het delict verband houden met die, genoemd in artikel 35 van het Wetboek van Strafrecht BES.
+- d. in afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003385&artikel=5&z=2025-01-01&g=2025-01-01) in plaats van de in [artikel 7, onder e, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=7) bedoelde voorwerpen worden bedoeld de voorwerpen die behoren tot de onderneming van degene die overeenkomstig deze wet is veroordeeld en voor zover deze voorwerpen soortgelijk zijn aan en met betrekking tot het delict verband houden met die, genoemd in artikel 35 van het Wetboek van Strafrecht BES.
 
-- e. in afwijking van [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003385&artikel=1&z=2020-01-01&g=2020-01-01):
+- e. in afwijking van [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003385&artikel=1&z=2025-01-01&g=2025-01-01):
 
 - 1°. met controle op de naleving van het bij of krachtens deze wet bepaalde zijn belast:
 
