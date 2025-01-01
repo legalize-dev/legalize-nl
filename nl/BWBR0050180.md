@@ -4,7 +4,7 @@ identifier: "BWBR0050180"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2024-09-06"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050180"
 soort: "wet"
@@ -59,13 +59,9 @@ Wijzigt de Wet ter voorkoming van witwassen en financieren van terrorisme.
 
 Wijzigt de Wet ter voorkoming van witwassen en financieren van terrorisme BES.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel V
 
 Wijzigt de Faillissementswet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VI
 
@@ -75,13 +71,9 @@ Wijzigt de Wet aansprakelijkheid kernongevallen.
 
 Wijzigt de Wet op de economische delicten.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VIII
 
 Wijzigt de Bankwet 1998.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IX
 
