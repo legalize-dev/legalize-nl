@@ -4,7 +4,7 @@ identifier: "BWBR0049813"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2024-07-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049813"
 soort: "wet"
@@ -53,7 +53,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **aanbieder van hostingdiensten:** de aanbieder van een communicatiedienst bestaande in de opslag van gegevens die van een ander afkomstig zijn;
 
-- –. **Autoriteit:** de Autoriteit, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049813&paragraaf=2&artikel=2&z=2024-07-01&g=2024-07-01);
+- –. **Autoriteit:** de Autoriteit, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049813&paragraaf=2&artikel=2&z=2025-01-01&g=2025-01-01);
 
 - –. **geautomatiseerd werk:** een geautomatiseerd werk als bedoeld in [artikel 80sexies van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=80sexies);
 
@@ -111,13 +111,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 7. Last onder dwangsom
 
-De Autoriteit is bevoegd tot oplegging van een last onder dwangsom ter handhaving van de in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049813&paragraaf=3&artikel=6&z=2024-07-01&g=2024-07-01), opgenomen verplichting.
+De Autoriteit is bevoegd tot oplegging van een last onder dwangsom ter handhaving van de in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049813&paragraaf=3&artikel=6&z=2025-01-01&g=2025-01-01), opgenomen verplichting.
 
 ##### Artikel 8. Bestuurlijke boete
 
-1. De Autoriteit is bevoegd tot oplegging van een bestuurlijke boete bij overtreding van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049813&paragraaf=3&artikel=6&z=2024-07-01&g=2024-07-01). De op te leggen bestuurlijke boete bedraagt ten hoogste het bedrag dat is vastgesteld voor de tweede categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
+1. De Autoriteit is bevoegd tot oplegging van een bestuurlijke boete bij overtreding van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049813&paragraaf=3&artikel=6&z=2025-01-01&g=2025-01-01). De op te leggen bestuurlijke boete bedraagt ten hoogste het bedrag dat is vastgesteld voor de tweede categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
-2. Indien de overtreding bestaat uit het systematisch of aanhoudend overtreden van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049813&paragraaf=3&artikel=6&z=2024-07-01&g=2024-07-01), bedraagt de bestuurlijke boete ten hoogste het bedrag dat is vastgesteld voor de zesde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23) of, indien die boetecategorie geen passende bestraffing toelaat, ten hoogste 10% van de omzet van de onderneming, onderscheidenlijk, indien de overtreding door een ondernemersvereniging is begaan, van de gezamenlijke omzet van de ondernemingen die van de vereniging deel uitmaken, in het boekjaar voorafgaande aan de beschikking waarin de bestuurlijke boete wordt opgelegd.
+2. Indien de overtreding bestaat uit het systematisch of aanhoudend overtreden van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049813&paragraaf=3&artikel=6&z=2025-01-01&g=2025-01-01), bedraagt de bestuurlijke boete ten hoogste het bedrag dat is vastgesteld voor de zesde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23) of, indien die boetecategorie geen passende bestraffing toelaat, ten hoogste 10% van de omzet van de onderneming, onderscheidenlijk, indien de overtreding door een ondernemersvereniging is begaan, van de gezamenlijke omzet van de ondernemingen die van de vereniging deel uitmaken, in het boekjaar voorafgaande aan de beschikking waarin de bestuurlijke boete wordt opgelegd.
 
 ##### Artikel 9. Openbaarmaking
 
