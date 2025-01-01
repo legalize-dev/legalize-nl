@@ -4,7 +4,7 @@ identifier: "BWBR0039392"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-01"
-last_updated: "2023-03-23"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039392"
 soort: "ministeriele-regeling"
@@ -88,7 +88,7 @@ Aan het College wordt mandaat verleend ten aanzien van de tot de verantwoordelij
 
 - 6°. de Nationale ombudsman voor zover het gaat om het geven van een verbod als bedoeld in [artikel 14 Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=14).
 
-- b. De bevoegdheden die in [artikel 2, eerste lid onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0039392&artikel=2&z=2023-03-23&g=2023-03-23) aan de secretaris-generaal zijn verleend.
+- b. De bevoegdheden die in [artikel 2, eerste lid onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0039392&artikel=2&z=2023-03-23&g=2025-01-01) aan de secretaris-generaal zijn verleend.
 
 ##### Artikel 4
 
@@ -116,7 +116,7 @@ Indien een krachtens mandaat te nemen besluit belangrijke politieke, bestuurlijk
 
 ##### Artikel 7
 
-1. Ondermandaat door het College ten aanzien van het behandelen van en beslissen op beroepschriften tegen de in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039392&artikel=6&z=2023-03-23&g=2023-03-23), bedoelde bezwaarschriften kan worden verleend aan:
+1. Ondermandaat door het College ten aanzien van het behandelen van en beslissen op beroepschriften tegen de in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039392&artikel=6&z=2023-03-23&g=2025-01-01), bedoelde bezwaarschriften kan worden verleend aan:
 
 - a. het hoofd van de afdeling Bestuurlijke en Juridische Zaken van het parket-generaal;
 
