@@ -4,7 +4,7 @@ identifier: "BWBR0002786"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2017-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002786"
 soort: "AMvB"
@@ -84,7 +84,7 @@ Een in [artikel 5, eerste lid, onderdeel d, van de wet](https://wetten.overheid.
 
 ##### Artikel 7a
 
-Een lichaam dat voldoet aan de voorwaarden gesteld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002786&artikel=5&z=2017-01-01&g=2017-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002786&artikel=6&z=2017-01-01&g=2017-01-01) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002786&artikel=7&z=2017-01-01&g=2017-01-01) is in afwijking van de genoemde artikelen niet van de belasting vrijgesteld, indien het lichaam dit bij het indienen van de aangifte over het jaar verzoekt.
+Een lichaam dat voldoet aan de voorwaarden gesteld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002786&artikel=5&z=2025-01-01&g=2025-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002786&artikel=6&z=2025-01-01&g=2025-01-01) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002786&artikel=7&z=2025-01-01&g=2025-01-01) is in afwijking van de genoemde artikelen niet van de belasting vrijgesteld, indien het lichaam dit bij het indienen van de aangifte over het jaar verzoekt.
 
 ##### Artikel 7aa
 
@@ -92,15 +92,7 @@ Vervallen
 
 ##### Artikel 7ab
 
-Een niet naar Nederlands recht opgerichte rechtspersoon is naar aard en inrichting vergelijkbaar als bedoeld in [artikel 14c, achtste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14c) met een naar Nederlands recht opgerichte naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid indien:
-
-- a. een dergelijke rechtspersoon is aan te merken als een vennootschap met een geheel, in gelijke of evenredige delen, in aandelen verdeeld kapitaal;
-
-- b. een dergelijke rechtspersoon in het land van oprichting als subject onderworpen is aan een belasting naar de winst;
-
-- c. de kapitaalverschaffers niet verder aansprakelijk zijn dan tot het bedrag dat op hun aandelen in de vennootschap is gestort;
-
-- d. alle kapitaalverschaffers in beginsel stemrecht hebben overeenkomstig hun aandeel in het kapitaal van de rechtspersoon.
+Vervallen
 
 ##### Artikel 7b
 
