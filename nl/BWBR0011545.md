@@ -4,7 +4,7 @@ identifier: "BWBR0011545"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2024-06-27"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011545"
 soort: "AMvB"
@@ -60,7 +60,7 @@ Hebben goedgevonden en verstaan:
 
 **wet**: [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453).
 
-2. In [hoofdstuk 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3a&z=2024-06-27&g=2024-06-27) van dit besluit wordt verstaan onder **aanvullende beurs**: toegekende en uitbetaalde aanvullende beurs als bedoeld in [artikel 6.2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=6.2).
+2. In [hoofdstuk 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3a&z=2025-01-01&g=2025-01-01) van dit besluit wordt verstaan onder **aanvullende beurs**: toegekende en uitbetaalde aanvullende beurs als bedoeld in [artikel 6.2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=6.2).
 
 3. Een wijziging van richtlijn 2004/38/EG gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
@@ -132,7 +132,7 @@ In afwijking van [artikel 1.1, eerste lid, van de wet](https://wetten.overheid.n
 
 ##### Artikel 7. Conflicteis
 
-1. Van een ernstig en structureel conflict tussen ouder en student als bedoeld in [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2024-06-27&g=2024-06-27), is sprake, indien de ouder om ernstige redenen structureel weigert de veronderstelde ouderlijke bijdrage te verstrekken.
+1. Van een ernstig en structureel conflict tussen ouder en student als bedoeld in [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2025-01-01&g=2025-01-01), is sprake, indien de ouder om ernstige redenen structureel weigert de veronderstelde ouderlijke bijdrage te verstrekken.
 
 2. Onze Minister stelt bij de ouder vast dat er sprake is van weigering. Indien die ouder geen medewerking voor die vaststelling verleent, kan de verklaring van een onafhankelijke derde voor de betreffende ouderverklaring in de plaats treden.
 
@@ -140,23 +140,23 @@ In afwijking van [artikel 1.1, eerste lid, van de wet](https://wetten.overheid.n
 
 ##### Artikel 8. Het gezag van de ouder beëindigd
 
-Als bewijs dat het gezag van de ouder is beëindigd, bedoeld in [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2024-06-27&g=2024-06-27), dient een afschrift van de beschikking van de rechtbank te worden overlegd.
+Als bewijs dat het gezag van de ouder is beëindigd, bedoeld in [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2025-01-01&g=2025-01-01), dient een afschrift van de beschikking van de rechtbank te worden overlegd.
 
 ##### Artikel 9. Geen contact sinds 12e jaar
 
-Van geen contact met de ouder als bedoeld in [artikel 6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2024-06-27&g=2024-06-27), is sprake, indien de student vanaf de maand waarin hij de leeftijd van 12 jaren heeft bereikt geen wezenlijk contact met de ouder had. Als bewijs dient een verklaring van een ter zake deskundige te worden overlegd.
+Van geen contact met de ouder als bedoeld in [artikel 6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2025-01-01&g=2025-01-01), is sprake, indien de student vanaf de maand waarin hij de leeftijd van 12 jaren heeft bereikt geen wezenlijk contact met de ouder had. Als bewijs dient een verklaring van een ter zake deskundige te worden overlegd.
 
 ##### Artikel 10. Niet inbare alimentatie
 
-Van voor de student niet inbare alimentatie als bedoeld in [artikel 6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2024-06-27&g=2024-06-27), is sprake, indien de alimentatie oninbaar is gedurende ten minste 12 maanden voorafgaande aan de maand waarin de student voor het eerst studiefinanciering ontvangt. Als bewijs dient een verklaring van een ter zake deskundige te worden overlegd.
+Van voor de student niet inbare alimentatie als bedoeld in [artikel 6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2025-01-01&g=2025-01-01), is sprake, indien de alimentatie oninbaar is gedurende ten minste 12 maanden voorafgaande aan de maand waarin de student voor het eerst studiefinanciering ontvangt. Als bewijs dient een verklaring van een ter zake deskundige te worden overlegd.
 
 ##### Artikel 11. Onbekende verblijfplaats ouder
 
-[Artikel 6, eerste lid, aanhef en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2024-06-27&g=2024-06-27), is van toepassing indien de student de verblijfplaats van de ouder niet kent en die verblijfplaats niet wordt achterhaald na onderzoek van Onze Minister gedurende ten hoogste 3 maanden onderscheidenlijk ten hoogste 6 maanden in geval van onderzoek in het buitenland.
+[Artikel 6, eerste lid, aanhef en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2025-01-01&g=2025-01-01), is van toepassing indien de student de verblijfplaats van de ouder niet kent en die verblijfplaats niet wordt achterhaald na onderzoek van Onze Minister gedurende ten hoogste 3 maanden onderscheidenlijk ten hoogste 6 maanden in geval van onderzoek in het buitenland.
 
 ##### Artikel 12. Draagkracht uit alimentatie
 
-1. Indien een student van zijn ouder alimentatie als bedoeld in [artikel 6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2024-06-27&g=2024-06-27), ontvangt, komt het door de rechter vastgestelde bedrag aan alimentatie van de student in de plaats van de veronderstelde ouderlijk bijdrage. Als bewijs van de hoogte van de alimentatie dient in ieder geval de beschikking van de rechtbank of een notariële akte te worden overlegd. Het bedrag dat in het bewijsstuk wordt genoemd, wordt vermeerderd met de wettelijke indexering.
+1. Indien een student van zijn ouder alimentatie als bedoeld in [artikel 6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2025-01-01&g=2025-01-01), ontvangt, komt het door de rechter vastgestelde bedrag aan alimentatie van de student in de plaats van de veronderstelde ouderlijk bijdrage. Als bewijs van de hoogte van de alimentatie dient in ieder geval de beschikking van de rechtbank of een notariële akte te worden overlegd. Het bedrag dat in het bewijsstuk wordt genoemd, wordt vermeerderd met de wettelijke indexering.
 
 2. Indien nog geen beschikking is afgegeven, wordt de door de rechter vastgestelde alimentatie van de student in de plaats van de veronderstelde ouderlijke bijdrage gesteld vanaf de ingangsdatum van de alimentatie zoals die datum door de rechter is vastgesteld.
 
@@ -188,7 +188,7 @@ Het verstrekken van inlichtingen, benodigd voor de uitvoering van de wet, door o
 
 1. Onze Minister past de bedragen, genoemd in de [artikelen 3.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.9), en [3.9a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.9a), per 1 januari van ieder kalenderjaar aan met de procentuele wijziging die het indexcijfer van de CAO-lonen in het tweede daaraan voorafgaande kalenderjaar heeft ondergaan.
 
-2. Onze Minister past de bedragen, genoemd in de [artikelen 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.18), met uitzondering van de maximale aanvullende beurs, [3.27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.27), [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=4.7), [4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=4.18), [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=5.2), [12.14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=12.14), [12.15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=12.15), [12.16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=12.16), en [12.31, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=12.31), per 1 januari van ieder kalenderjaar aan met de procentuele wijziging die de consumentenprijsindex over het tweede daaraan voorafgaande kalenderjaar heeft ondergaan.
+2. Onze Minister past de bedragen, genoemd in de [artikelen 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.18), met uitzondering van de maximale aanvullende beurs, [3.27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.27), [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=4.7), [4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=4.18), [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=5.2), [12.14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=12.14), [12.15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=12.15), [12.16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=12.16), [12.30, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=12.30), en [12.31, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=12.31), per 1 januari van ieder kalenderjaar aan met de procentuele wijziging die de consumentenprijsindex over het tweede daaraan voorafgaande kalenderjaar heeft ondergaan.
 
 3. Bij ministeriële regeling wordt bepaald wat onder de consumentenprijsindex en het indexcijfer van de CAO-lonen wordt verstaan.
 
@@ -268,7 +268,7 @@ Vervallen
 
 ### Hoofdstuk 8. Vouchers studievoorschot
 
-##### Artikel 30a. Overgangsbepaling [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=1&artikel=2&z=2024-06-27&g=2024-06-27)
+##### Artikel 30a. Overgangsbepaling [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=1&artikel=2&z=2025-01-01&g=2025-01-01)
 
 Vervallen
 
@@ -282,13 +282,13 @@ Vervallen
 
 ##### Artikel 33. Afwijking van voormalig artikel 3b
 
-Op een ho-student die voor 1 september 2007 op grond van [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=2&artikel=3a&z=2024-06-27&g=2024-06-27) studiefinanciering ontving, blijft artikel 3a, zoals dat luidde op 31 augustus 2007, van toepassing zolang hij zonder onderbreking studiefinanciering op grond van dat artikel geniet.
+Op een ho-student die voor 1 september 2007 op grond van [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=2&artikel=3a&z=2025-01-01&g=2025-01-01) studiefinanciering ontving, blijft artikel 3a, zoals dat luidde op 31 augustus 2007, van toepassing zolang hij zonder onderbreking studiefinanciering op grond van dat artikel geniet.
 
 ##### Artikel 34. Overgangsbepaling artikel 14
 
 Vervallen
 
-### Hoofdstuk 8a. Dit hoofdstuk is nog niet in werking getreden.
+### Hoofdstuk 8a. Tegemoetkoming voor cohorten onder het studievoorschot hoger onderwijs
 
 ##### Artikel 35. [Bekostigingsbesluit WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0006338)
 
@@ -534,9 +534,9 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-##### Artikel 34a. Tijdelijke afwijking [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=6&artikel=17&z=2024-06-27&g=2024-06-27)
+##### Artikel 34a. Tijdelijke afwijking [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=6&artikel=17&z=2025-01-01&g=2025-01-01)
 
-[Artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=6&artikel=17&z=2024-06-27&g=2024-06-27), is niet van toepassing in de kalenderjaren 2011 en 2012.
+[Artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=6&artikel=17&z=2025-01-01&g=2025-01-01), is niet van toepassing in de kalenderjaren 2011 en 2012.
 
 ### Hoofdstuk 10. Wijzigingen in andere besluiten
 
@@ -550,9 +550,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 1a. Omhangbepaling
 
-1. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=2&artikel=3&z=2024-06-27&g=2024-06-27) berust op [artikel 2.2, eerste lid, onderdeel c, van de Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.2).
+1. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=2&artikel=3&z=2025-01-01&g=2025-01-01) berust op [artikel 2.2, eerste lid, onderdeel c, van de Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.2).
 
-2. [Artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=2&artikel=3a&z=2024-06-27&g=2024-06-27) berust op [artikel 2.2, tweede lid, van de Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.2).
+2. [Artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=2&artikel=3a&z=2025-01-01&g=2025-01-01) berust op [artikel 2.2, tweede lid, van de Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=2.2).
 
 ### Hoofdstuk 2. Reikwijdte
 
@@ -576,11 +576,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 18b. Volgorde van afboeken aflossingsbedragen
 
-Indien de berekende terugbetalingstermijn hoger is dan de op grond van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=7&artikel=18&z=2024-06-27&g=2024-06-27) berekende draagkracht, worden aflossingen eerst afgeboekt op de terugbetalingstermijn behorende bij de lening met de kortste resterende terugbetalingsperiode, of bij een gelijke resterende terugbetalingsperiode op de lening die is ontstaan door de toekenning van het levenlanglerenkrediet.
+Indien de berekende terugbetalingstermijn hoger is dan de op grond van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=7&artikel=18&z=2025-01-01&g=2025-01-01) berekende draagkracht, worden aflossingen eerst afgeboekt op de terugbetalingstermijn behorende bij de lening met de kortste resterende terugbetalingsperiode, of bij een gelijke resterende terugbetalingsperiode op de lening die is ontstaan door de toekenning van het levenlanglerenkrediet.
 
 ##### Artikel 18c. Aflossingsvrije periode
 
-1. Indien aan de debiteur een aflossingsvrije periode, bedoeld in de [artikelen 6.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=6.7), [10a.5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=10a.5) of [artikel 4.7, tweede lid, van de Wet studiefinanciering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=4.7), wordt toegekend, wordt de draagkracht die is vastgesteld op grond van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=7&artikel=18&z=2024-06-27&g=2024-06-27) opnieuw bepaald, waarbij de draagkrachtberekening behorende bij de opgeschorte lening niet langer wordt gehanteerd.
+1. Indien aan de debiteur een aflossingsvrije periode, bedoeld in de [artikelen 6.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=6.7), [10a.5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=10a.5) of [artikel 4.7, tweede lid, van de Wet studiefinanciering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=4.7), wordt toegekend, wordt de draagkracht die is vastgesteld op grond van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=7&artikel=18&z=2025-01-01&g=2025-01-01) opnieuw bepaald, waarbij de draagkrachtberekening behorende bij de opgeschorte lening niet langer wordt gehanteerd.
 
 2. Indien het eerste lid wordt toegepast, wordt de als gevolg daarvan resterende draagkracht benut voor de terugbetalingstermijn behorende bij de lening die is ontstaan door toekenning van het levenlanglerenkrediet.
 
@@ -644,15 +644,29 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 21a. Begripsbepaling tegemoetkoming
 
-Dit onderdeel is nog niet inwerking getreden
+In dit hoofdstuk wordt onder tegemoetkoming verstaan: tegemoetkoming als bedoeld in [artikel 12.30, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=12.30).
 
 ##### Artikel 21b. Ambtshalve toekenning en toekenning op aanvraag
 
-Dit onderdeel is nog niet inwerking getreden
+1. De tegemoetkoming wordt uiterlijk per 1 januari van het kalenderjaar volgend op het jaar waarin Onze Minister over de voor vaststelling van de aanspraak benodigde gegevens beschikt, ambtshalve toegekend, met dien verstande dat de toekenning aan een rechthebbende waarvan Onze Minister reeds voor of op 31 december 2024 over de voor vaststelling van de aanspraak benodigde gegevens beschikt, geschiedt in 2025.
+
+2. In afwijking van het eerste lid wordt de tegemoetkoming op aanvraag toegekend voor de periode waarover Onze Minister niet over de voor vaststelling van de aanspraak van een rechthebbende benodigde gegevens beschikt.
+
+3. De rechthebbende, bedoeld in het tweede lid, dient uiterlijk binnen drie maanden na het verstrijken van de diplomatermijn hoger onderwijs of, indien hij geen studiefinanciering heeft aangevraagd, uiterlijk binnen tien jaar en drie maanden nadat hij zich voor het eerst heeft ingeschreven voor het hoger onderwijs, op een bij ministeriële regeling te bepalen wijze een aanvraag in. Onze Minister besluit uiterlijk per 1 januari van het kalenderjaar volgend op de aanvraag.
 
 ##### Artikel 21c. Wijze van de verstrekking
 
-Dit onderdeel is nog niet inwerking getreden
+1. De tegemoetkoming wordt verstrekt in de vorm van:
+
+- a. een kwijtschelding van de openstaande studieschuld of een deel daarvan; of
+
+- b. een bijschrijving op de bij de Onze Minister voor de toekenning van studiefinanciering bekende bankrekening, indien:
+
+- 1°. er op het moment van toekenning geen studieschuld openstaat; of
+
+- 2°. er na de kwijtschelding, bedoeld in onderdeel a, nog aanspraak op een deel van de tegemoetkoming bestaat.
+
+2. Indien bij Onze Minister de benodigde gegevens van de rechthebbende op een tegemoetkoming over de bankrekening waarop de tegemoetkoming kan worden uitbetaald niet bekend zijn, wordt de rechthebbende verzocht deze gegevens binnen twaalf maanden te verstrekken. Indien de rechthebbende op een tegemoetkoming niet binnen deze termijn de gegevens aanvult, vervalt de aanspraak op de tegemoetkoming op grond van een daartoe strekkend besluit van Onze Minister.
 
 ### Hoofdstuk 9. Overgangsbepalingen
 
