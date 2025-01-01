@@ -4,7 +4,7 @@ identifier: "BWBR0030215"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2024-08-08"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030215"
 soort: "ministeriele-regeling"
@@ -119,7 +119,7 @@ In dit reglement wordt verstaan onder:
 
 - 29. **‘dekbemanningsleden’:** personen die betrokken zijn bij de algemene bediening van een vaartuig dat de binnenwateren bevaart en die verschillende taken uitvoeren, zoals taken in verband met het besturen van een vaartuig, de beheersing van het vaartuig, ladingsbehandeling, stouwen, het vervoer van passagiers, scheepswerktuigbouwkundige aspecten, onderhoud en reparatie, communicatie, gezondheid, veiligheid en milieubescherming, niet zijnde personen die uitsluitend worden ingezet voor de bediening van de motoren, kranen, of elektrische en elektronische uitrusting;
 
-- 30. **‘minimumbemanning’:** de voorgeschreven minimumbemanning overeenkomstig [hoofdstuk 19](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=19&z=2024-08-08&g=2024-08-08) van dit reglement;
+- 30. **‘minimumbemanning’:** de voorgeschreven minimumbemanning overeenkomstig [hoofdstuk 19](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=19&z=2025-01-01&g=2025-01-01) van dit reglement;
 
 - 31. **‘boordpersoneel’:** alle aan boord van een passagiersschip werkende personen die niet tot de bemanning behoren;
 
@@ -143,7 +143,7 @@ In dit reglement wordt verstaan onder:
 
 - 41. **‘marifoonbedieningscertificaat’:** een nationaal certificaat dat is afgegeven in overeenstemming met het radioreglement dat is gehecht aan het Internationaal Verdrag betreffende de telecommunicatie, waarbij machtiging wordt verleend voor de exploitatie van een radiocommunicatiestation op een vaartuig voor de binnenwaterwegen;
 
-- 42. **‘Rijnpatent’:** een kwalificatiecertificaat overeenkomstig [artikel 12.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=12&artikel=12.01&z=2024-08-08&g=2024-08-08) van dit reglement voor het voeren van een vaartuig;
+- 42. **‘Rijnpatent’:** een kwalificatiecertificaat overeenkomstig [artikel 12.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=12&artikel=12.01&z=2025-01-01&g=2025-01-01) van dit reglement voor het voeren van een vaartuig;
 
 - 43. **‘dienstboekje’:** een persoonlijk register waarin de gegevens met betrekking tot het arbeidsverleden van een bemanningslid staan genoteerd, met name de vaartijden en de gemaakte reizen;
 
@@ -157,7 +157,7 @@ In dit reglement wordt verstaan onder:
 
 - 48. **‘operationeel niveau’:** de mate van verantwoordelijkheid die samenhangt met het werk als matroos, als volmatroos of als stuurman en het onder controle houden van de uitvoering van alle taken binnen het kader van diens verantwoordelijkheid, overeenkomstig passende procedures en onder leiding van een persoon die op managementniveau werkzaam is;
 
-- 49. **‘binnenwater’:** een waterweg niet zijnde de zee die bevaarbaar is voor de in [artikel 1.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=I&hoofdstuk=1&artikel=1.01&z=2024-08-08&g=2024-08-08) bedoelde vaartuigen;
+- 49. **‘binnenwater’:** een waterweg niet zijnde de zee die bevaarbaar is voor de in [artikel 1.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=I&hoofdstuk=1&artikel=1.01&z=2025-01-01&g=2025-01-01) bedoelde vaartuigen;
 
 - 50. **‘ADN-Reglement’:** het bij het Europees Verdrag over het internationale Vervoer van gevaarlijke Stoffen over Binnenwateren (ADN) gevoegde Reglement in de versie die van kracht is;
 
@@ -173,7 +173,7 @@ In dit reglement wordt verstaan onder:
 
 - 56. **‘ES-TRIN’:** ES-TRIN als bedoeld in [artikel 1.1 van de Binnenvaartregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0025958&artikel=1.1). Bij de toepassing van de ES-TRIN moet onder lidstaat een Rijnoeverstaat of België worden verstaan;
 
-- 57. **‘ES-QIN’:** de Europese Standaard voor kwalificaties in de binnenvaart, editie 2019/18Europese standaard voor kwalificaties in de binnenvaart (ES-QIN), editie 2019, van het Europees Comité voor de opstelling van standaarden voor de binnenvaart (CESNI), aangenomen bij Besluiten 2019-II-1 tot en met 5 van 15 oktober 2019 en 2018-II-2 tot en met 14, van 8 november 2018;
+- 57. **‘ES-QIN’:** de Europese Standaard voor kwalificaties in de binnenvaart, editie 2024/18Europese standaard voor kwalificaties in de binnenvaart (ES-QIN), editie 2024/1, aangenomen door het Europees Comité voor de opstelling van standaarden voor de binnenvaart (CESNI) bij Besluit 2024-I-1 van 11 april 2024.;
 
 - 58. **‘STCW-Overeenkomst’:** de overeenkomst van de Internationale Maritieme Organisatie (IMO) betreffende de normen voor zeevarenden inzake opleiding, diplomering en wachtdienst (1978), in de versie die van kracht is, met inbegrip van de overgangsbepalingen van artikel VII en regeling 1/15 van de Overeenkomst, alsook de in het desbetreffende geval toepasselijke bepalingen van de STCW-Code, die van kracht is.
 
@@ -660,7 +660,7 @@ Voor de vaart beneden het Spijksche Veer (km 857,40) kan, voor zover de Duits-Ne
 
 - 1. De houders van een kwalificatiecertificaat moeten medisch geschikt zijn. Dit is het geval als zij voldoen aan de voorwaarden voor de medische geschiktheid volgens de ES-QIN (Deel IV).
 
-- 2. De medische geschiktheid van de aanvrager moet voor de eerste afgifte van het kwalificatiecertificaat worden aangetoond door middel van een medische verklaring overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=1&z=2024-08-08&g=2024-08-08), die afgegeven werd door een erkende arts en niet ouder dan drie maanden mag zijn. Indien er dan nog twijfels over de medische geschiktheid bestaan, kan de bevoegde autoriteit van de aanvrager aanvullende medische verklaringen of verklaringen van medische specialisten eisen.
+- 2. De medische geschiktheid van de aanvrager moet voor de eerste afgifte van het kwalificatiecertificaat worden aangetoond door middel van een medische verklaring overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=1&z=2025-01-01&g=2025-01-01), die afgegeven werd door een erkende arts en niet ouder dan drie maanden mag zijn. Indien er dan nog twijfels over de medische geschiktheid bestaan, kan de bevoegde autoriteit van de aanvrager aanvullende medische verklaringen of verklaringen van medische specialisten eisen.
 
 - 3. Blijkt uit de medische verklaring een definitieve of tijdelijke beperkte medische geschiktheid, dan worden de maatregelen ter vermindering van het risico en de beperkingen overeenkomstig de voorwaarden zoals bepaald in de ES-QIN (Deel IV) op het kwalificatiecertificaat vermeld.
 
@@ -668,7 +668,7 @@ Voor de vaart beneden het Spijksche Veer (km 857,40) kan, voor zover de Duits-Ne
 
 ##### Artikel 5.01. Dienstboekje
 
-- 1. Het krachtens dit reglement afgegeven dienstboekje voor de leden van de bemanning, met uitzondering van de schipper bevat algemene gegevens, zoals het bewijs van medische geschiktheid en de kwalificatiecertificaten van de houder als bedoeld in [artikel 3.02](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=3&artikel=3.02&z=2024-08-08&g=2024-08-08), en specifieke gegevens over de afgelegde reizen en met name gedetailleerde gegevens met betrekking tot de door de houder gemaakte vaartijd.
+- 1. Het krachtens dit reglement afgegeven dienstboekje voor de leden van de bemanning, met uitzondering van de schipper bevat algemene gegevens, zoals het bewijs van medische geschiktheid en de kwalificatiecertificaten van de houder als bedoeld in [artikel 3.02](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=3&artikel=3.02&z=2025-01-01&g=2025-01-01), en specifieke gegevens over de afgelegde reizen en met name gedetailleerde gegevens met betrekking tot de door de houder gemaakte vaartijd.
 
 - 2. Het krachtens dit reglement afgegeven dienstboekje voor de leden van de bemanning die geen schipper zijn, wordt volgens het model in de ES-QIN (Deel V, hoofdstuk 2) afgegeven. Het dienstboekje voor de schipper wordt volgens het model in de ES-QIN (Deel V, hoofdstuk 4) afgegeven.
 
@@ -706,7 +706,7 @@ Voor de vaart beneden het Spijksche Veer (km 857,40) kan, voor zover de Duits-Ne
 
 - e). de bevaren riviergedeelten (precieze aanduiding met plaatsen van vertrek en aankomst).
 
-- 3. De vaartijd kan eveneens aan de hand van een kwalificatiecertificaat schipper zoals bedoeld in de [artikelen 12.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=12&artikel=12.01&z=2024-08-08&g=2024-08-08) of [12.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=12&artikel=12.03&z=2024-08-08&g=2024-08-08) worden aangetoond voor de duur van de vaartijd die voor het verkrijgen van dit certificaat vereist was.
+- 3. De vaartijd kan eveneens aan de hand van een kwalificatiecertificaat schipper zoals bedoeld in de [artikelen 12.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=12&artikel=12.01&z=2025-01-01&g=2025-01-01) of [12.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=12&artikel=12.03&z=2025-01-01&g=2025-01-01) worden aangetoond voor de duur van de vaartijd die voor het verkrijgen van dit certificaat vereist was.
 
 - 4. De vaartijd op zee wordt door middel van een monsterboekje aangetoond. De vaartijd in de kustvaart en visserij wordt aangetoond door een officieel document.
 
@@ -1208,19 +1208,19 @@ Het door de CCR als gelijkwaardig erkend vaarbevoegdheidsbewijs verliest van amt
 
 - 3. In het kader van de opschorting kunnen aanvullende bepalingen (bijvoorbeeld voorwaarden) worden vastgesteld.
 
-- 4. De bevoegde autoriteit zorgt ervoor dat de opschorting van de geldigheid onverwijld geregistreerd wordt in de gegevensbank die genoemd is in [artikel 2.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=I&hoofdstuk=2&artikel=2.01&z=2024-08-08&g=2024-08-08). De bevoegde autoriteit informeert de autoriteit die het kwalificatiecertificaat heeft afgegeven alsook de CCR over de opschorting, de duur van de opschorting en de redenen daarvoor. Indien de twijfel aan de geschiktheid vóór het einde van de opschortingstermijn wordt weggenomen, dient het besluit te worden ingetrokken.
+- 4. De bevoegde autoriteit zorgt ervoor dat de opschorting van de geldigheid onverwijld geregistreerd wordt in de gegevensbank die genoemd is in [artikel 2.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=I&hoofdstuk=2&artikel=2.01&z=2025-01-01&g=2025-01-01). De bevoegde autoriteit informeert de autoriteit die het kwalificatiecertificaat heeft afgegeven alsook de CCR over de opschorting, de duur van de opschorting en de redenen daarvoor. Indien de twijfel aan de geschiktheid vóór het einde van de opschortingstermijn wordt weggenomen, dient het besluit te worden ingetrokken.
 
 - 5. In het geval van opschorting moet het patent dat als fysiek document is afgegeven, bij de bevoegde autoriteit die daarom verzoekt in bewaring worden gegeven.
 
 ##### Artikel 8.02. Intrekking van het kwalificatiecertificaat
 
-- 1. De autoriteit die het kwalificatiecertificaat schipper heeft afgegeven, moet het kwalificatiecertificaat intrekken, indien blijkt dat de houder van een kwalificatiecertificaat schipper niet bekwaam is tot het voeren van een vaartuig als bedoeld in de [artikelen 12.01, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=12&artikel=12.01&z=2024-08-08&g=2024-08-08), of [12.02, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=12&artikel=12.02&z=2024-08-08&g=2024-08-08).
+- 1. De autoriteit die het kwalificatiecertificaat schipper heeft afgegeven, moet het kwalificatiecertificaat intrekken, indien blijkt dat de houder van een kwalificatiecertificaat schipper niet bekwaam is tot het voeren van een vaartuig als bedoeld in de [artikelen 12.01, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=12&artikel=12.01&z=2025-01-01&g=2025-01-01), of [12.02, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=12&artikel=12.02&z=2025-01-01&g=2025-01-01).
 
-- 2. De autoriteit die het kwalificatiecertificaat heeft afgegeven trekt het kwalificatiecertificaat in, indien de houder van een certificaat niet bekwaam is tot het uitvoeren van zijn kwalificatie zoals bedoeld in de [artikelen 14.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=14&artikel=14.01&z=2024-08-08&g=2024-08-08), [15.02](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=15&artikel=15.02&z=2024-08-08&g=2024-08-08) of [16.10](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=16&artikel=16.10&z=2024-08-08&g=2024-08-08). Niet bekwaam zoals bedoeld in de eerste zin is ook degene die niet langer medisch geschikt is als bedoeld in [artikel 4.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=4&artikel=4.01&z=2024-08-08&g=2024-08-08) of [artikel 4.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=4&artikel=4.03&z=2024-08-08&g=2024-08-08).
+- 2. De autoriteit die het kwalificatiecertificaat heeft afgegeven trekt het kwalificatiecertificaat in, indien de houder van een certificaat niet bekwaam is tot het uitvoeren van zijn kwalificatie zoals bedoeld in de [artikelen 14.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=14&artikel=14.01&z=2025-01-01&g=2025-01-01), [15.02](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=15&artikel=15.02&z=2025-01-01&g=2025-01-01) of [16.10](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=16&artikel=16.10&z=2025-01-01&g=2025-01-01). Niet bekwaam zoals bedoeld in de eerste zin is ook degene die niet langer medisch geschikt is als bedoeld in [artikel 4.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=4&artikel=4.01&z=2025-01-01&g=2025-01-01) of [artikel 4.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=4&artikel=4.03&z=2025-01-01&g=2025-01-01).
 
-- 3. Als gebleken is dat de houder van een krachtens dit reglement afgegeven dienstboekje ongeschikt is als bedoeld in [artikel 4.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=4&artikel=4.01&z=2024-08-08&g=2024-08-08), of [artikel 4.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=4&artikel=4.03&z=2024-08-08&g=2024-08-08), noteert de autoriteit van afgifte op pagina 1 van het dienstboekje de aantekening ‘ONGESCHIKT’, en waarmerkt hij die.
+- 3. Als gebleken is dat de houder van een krachtens dit reglement afgegeven dienstboekje ongeschikt is als bedoeld in [artikel 4.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=4&artikel=4.01&z=2025-01-01&g=2025-01-01), of [artikel 4.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=4&artikel=4.03&z=2025-01-01&g=2025-01-01), noteert de autoriteit van afgifte op pagina 1 van het dienstboekje de aantekening ‘ONGESCHIKT’, en waarmerkt hij die.
 
-- 4. De autoriteit die het kwalificatiecertificaat heeft afgegeven, kan het kwalificatiecertificaat intrekken, indien de houder van het certificaat herhaaldelijk een medische voorwaarde of een beperking als bedoeld in [artikel 4.01, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=4&artikel=4.01&z=2024-08-08&g=2024-08-08), niet nakomt.
+- 4. De autoriteit die het kwalificatiecertificaat heeft afgegeven, kan het kwalificatiecertificaat intrekken, indien de houder van het certificaat herhaaldelijk een medische voorwaarde of een beperking als bedoeld in [artikel 4.01, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=4&artikel=4.01&z=2025-01-01&g=2025-01-01), niet nakomt.
 
 - 5. Bij intrekking verliest het kwalificatiecertificaat zijn geldigheid. Het ongeldige kwalificatiecertificaat dient onverwijld bij de autoriteit die het kwalificatiecertificaat heeft afgegeven te worden ingeleverd of, ingeval van een kwalificatiecertificaat in elektronische vorm, als ingetrokken te worden geregistreerd.
 
@@ -1230,15 +1230,15 @@ Het door de CCR als gelijkwaardig erkend vaarbevoegdheidsbewijs verliest van amt
 
 - b). de kandidaat om tot een nieuw examen te worden toegelaten, aan bepaalde voorwaarden moet voldoen.
 
-- 7. De autoriteit die het kwalificatiecertificaat intrekt, zorgt ervoor dat de intrekking onverwijld geregistreerd wordt in de gegevensbank die genoemd is in [artikel 2.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=I&hoofdstuk=2&artikel=2.01&z=2024-08-08&g=2024-08-08)en deelt dit aan de CCR mee. Indien een bevoegde autoriteit feiten vaststelt die de intrekking van een kwalificatiecertificaat zouden kunnen rechtvaardigen, stelt zij de autoriteit die het kwalificatiecertificaat heeft afgegeven hiervan in kennis.
+- 7. De autoriteit die het kwalificatiecertificaat intrekt, zorgt ervoor dat de intrekking onverwijld geregistreerd wordt in de gegevensbank die genoemd is in [artikel 2.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=I&hoofdstuk=2&artikel=2.01&z=2025-01-01&g=2025-01-01)en deelt dit aan de CCR mee. Indien een bevoegde autoriteit feiten vaststelt die de intrekking van een kwalificatiecertificaat zouden kunnen rechtvaardigen, stelt zij de autoriteit die het kwalificatiecertificaat heeft afgegeven hiervan in kennis.
 
 ##### Artikel 8.03. Invordering van het als fysiek document afgegeven kwalificatiecertificaat
 
-- 1. Indien er dringende redenen zijn om het kwalificatiecertificaat in te trekken ([artikel 8.02](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=8&artikel=8.02&z=2024-08-08&g=2024-08-08)) of de geldigheid daarvan op te schorten ([artikel 8.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=8&artikel=8.01&z=2024-08-08&g=2024-08-08)) of er een op feiten gebaseerd vermoeden van fraude bij de verkrijging van het kwalificatiecertificaat bestaat, kan de bevoegde autoriteit gelasten dat het kwalificatiecertificaat tijdelijk wordt ingevorderd.
+- 1. Indien er dringende redenen zijn om het kwalificatiecertificaat in te trekken ([artikel 8.02](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=8&artikel=8.02&z=2025-01-01&g=2025-01-01)) of de geldigheid daarvan op te schorten ([artikel 8.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=8&artikel=8.01&z=2025-01-01&g=2025-01-01)) of er een op feiten gebaseerd vermoeden van fraude bij de verkrijging van het kwalificatiecertificaat bestaat, kan de bevoegde autoriteit gelasten dat het kwalificatiecertificaat tijdelijk wordt ingevorderd.
 
 - 2. Een kwalificatiecertificaat dat tijdelijk is ingevorderd, wordt onverwijld overhandigd aan de autoriteit van afgifte of de bevoegde rechtbank, overeenkomstig de wettelijke nationale voorschriften van de Rijnoeverstaten en van België onder opgave van de redenen van de invordering.
 
-- 3. De autoriteit van afgifte, neemt onverwijld, nadat zij van het besluit van de tijdelijke invordering kennis heeft genomen, een besluit over de opschorting van de geldigheid of de intrekking van het kwalificatiecertificaat. Indien een rechtbank bevoegd is, beschikt de rechter overeenkomstig de nationale voorschriften van de Rijnoeverstaten en België. Totdat een besluit als bedoeld in de eerste of tweede zin is genomen, geldt het besluit van tijdelijke invordering als een besluit in de zin van [artikel 8.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=8&artikel=8.01&z=2024-08-08&g=2024-08-08).
+- 3. De autoriteit van afgifte, neemt onverwijld, nadat zij van het besluit van de tijdelijke invordering kennis heeft genomen, een besluit over de opschorting van de geldigheid of de intrekking van het kwalificatiecertificaat. Indien een rechtbank bevoegd is, beschikt de rechter overeenkomstig de nationale voorschriften van de Rijnoeverstaten en België. Totdat een besluit als bedoeld in de eerste of tweede zin is genomen, geldt het besluit van tijdelijke invordering als een besluit in de zin van [artikel 8.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=8&artikel=8.01&z=2025-01-01&g=2025-01-01).
 
 - 4. De tijdelijke invordering van het kwalificatiecertificaat wordt beëindigd en het kwalificatiecertificaat wordt teruggegeven, wanneer de oorzaak daarvan is komen te vervallen of wanneer er niet tot opschorting of intrekking van het kwalificatiecertificaat wordt besloten.
 
@@ -1284,7 +1284,7 @@ Het examen, de afgifte, de verstrekking van een duplicaat en het omruilen van he
 
 - 1. De functies op instroomniveau zijn deksman en lichtmatroos. De functies op operationeel niveau zijn matroos, volmatroos en stuurman.
 
-- 2. Ook de machinist valt onder het toepassingsgebied van deze [paragraaf](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=2&z=2024-08-08&g=2024-08-08).
+- 2. Ook de machinist valt onder het toepassingsgebied van deze [paragraaf](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=2&z=2025-01-01&g=2025-01-01).
 
 ##### Artikel 9.02. Geldigheid van bestaande patenten
 
@@ -2747,7 +2747,7 @@ Het praktische gedeelte van de cursus omvat de volgende onderwerpen:
 
 ## Deel I. Algemene bepalingen
 
-### Hoofdstuk 1. Algemene bepalingen voor de [delen I](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=I&z=2024-08-08&g=2024-08-08), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&z=2024-08-08&g=2024-08-08) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&z=2024-08-08&g=2024-08-08)
+### Hoofdstuk 1. Algemene bepalingen voor de [delen I](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=I&z=2025-01-01&g=2025-01-01), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&z=2025-01-01&g=2025-01-01) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&z=2025-01-01&g=2025-01-01)
 
 ##### Artikel 1.04. Dienstinstructies
 
@@ -2787,19 +2787,19 @@ In het belang van een eenvoudige en uniforme toepassing van het onderhavige regl
 
 ##### Artikel 4.02. Regelmatige controle van de medische geschiktheid
 
-- 1. Alle houders van een kwalificatiecertificaat moeten hun medische geschiktheid aantonen overeenkomstig de bepalingen van [artikel 4.01, eerste en tweede lid:](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=4&artikel=4.01&z=2024-08-08&g=2024-08-08)
+- 1. Alle houders van een kwalificatiecertificaat moeten hun medische geschiktheid aantonen overeenkomstig de bepalingen van [artikel 4.01, eerste en tweede lid:](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=4&artikel=4.01&z=2025-01-01&g=2025-01-01)
 
 - a). om de vijf jaar vanaf het bereiken van de leeftijd van 60 jaar;
 
 - b). om de twee jaar vanaf het bereiken van de leeftijd van 70 jaar.
 
-- 2. Om een definitieve of tijdelijke beperkte medische geschiktheid die overeenkomstig [artikel 4.01, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=4&artikel=4.01&z=2024-08-08&g=2024-08-08), vermeld staat op het kwalificatiecertificaat te laten doorhalen, moet de houder van het kwalificatiecertificaat een medische verklaring overleggen overeenkomstig de voorwaarden van [artikel 4.01, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=4&artikel=4.01&z=2024-08-08&g=2024-08-08).
+- 2. Om een definitieve of tijdelijke beperkte medische geschiktheid die overeenkomstig [artikel 4.01, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=4&artikel=4.01&z=2025-01-01&g=2025-01-01), vermeld staat op het kwalificatiecertificaat te laten doorhalen, moet de houder van het kwalificatiecertificaat een medische verklaring overleggen overeenkomstig de voorwaarden van [artikel 4.01, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=4&artikel=4.01&z=2025-01-01&g=2025-01-01).
 
 - 3. De houder van het kwalificatiecertificaat overlegt een medische verklaring aan de autoriteit van afgifte van het kwalificatiecertificaat. Hij kan de medische verklaring aan een andere bevoegde autoriteit overleggen wanneer hij een overeenkomstig dit reglement afgegeven kwalificatiecertificaat verlengt. De bevoegde autoriteit zendt de documenten door aan de autoriteit van afgifte. In geval van verlenging van een patent kan de bevoegde autoriteit een voorlopig Rijn- of sportpatent afgeven voor de periode tot de autoriteit van afgifte een besluit genomen heeft, op voorwaarde dat de vereiste medische geschiktheid is aangetoond.
 
 ##### Artikel 4.03. Medische geschiktheid van machinisten
 
-In afwijking van [artikel 4.01, eerste lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=4&artikel=4.01&z=2024-08-08&g=2024-08-08), zijn voor de houder van een kwalificatiecertificaat machinist voor het gezichtsvermogen de volgende voorwaarden voor de medische geschiktheid van toepassing:
+In afwijking van [artikel 4.01, eerste lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=4&artikel=4.01&z=2025-01-01&g=2025-01-01), zijn voor de houder van een kwalificatiecertificaat machinist voor het gezichtsvermogen de volgende voorwaarden voor de medische geschiktheid van toepassing:
 
 De in de STCW Code tabel A-I/9: ‘Minimum in service eyesight standards for seafarers’ vermelde voorwaarden voor ‘All engineer officers’, behalve voor wat betreft het kleuren zien. Voor machinisten is een stoornis van het kleurenzien toegestaan.
 
@@ -2813,7 +2813,7 @@ De in de STCW Code tabel A-I/9: ‘Minimum in service eyesight standards for sea
 
 ### Paragraaf 2. Kwalificaties op instroom- en operationeel niveau
 
-### Hoofdstuk 9. Toepassingsgebied van deze [paragraaf](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=2&z=2024-08-08&g=2024-08-08)
+### Hoofdstuk 9. Toepassingsgebied van deze [paragraaf](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=2&z=2025-01-01&g=2025-01-01)
 
 ### Hoofdstuk 10. Voorwaarden voor de verkrijging van kwalificatiecertificaten op instroom- en operationeel niveau
 
@@ -2831,7 +2831,7 @@ Ter verkrijging van een kwalificatiecertificaat moeten de leden van de dekbemann
 
 - a). een minimumleeftijd van 15 jaar en
 
-- b). een leerovereenkomst die voorziet in een goedgekeurd opleidingsprogramma overeenkomstig [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=6&z=2024-08-08&g=2024-08-08) voor het operationele niveau;
+- b). een leerovereenkomst die voorziet in een goedgekeurd opleidingsprogramma overeenkomstig [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=6&z=2025-01-01&g=2025-01-01) voor het operationele niveau;
 
 - 3. voor de matroos:
 
@@ -2839,7 +2839,7 @@ Ter verkrijging van een kwalificatiecertificaat moeten de leden van de dekbemann
 
 - aa). een minimumleeftijd van 17 jaar en
 
-- bb). een met goed gevolg afgerond, goedgekeurd opleidingsprogramma overeenkomstig [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=6&z=2024-08-08&g=2024-08-08) van minstens twee jaar voor het operationele niveau, dat een vaartijd van ten minste 90 dagen omvat;
+- bb). een met goed gevolg afgerond, goedgekeurd opleidingsprogramma overeenkomstig [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=6&z=2025-01-01&g=2025-01-01) van minstens twee jaar voor het operationele niveau, dat een vaartijd van ten minste 90 dagen omvat;
 
 - b). of
 
@@ -2851,7 +2851,7 @@ Ter verkrijging van een kwalificatiecertificaat moeten de leden van de dekbemann
 
 - c). of
 
-- aa). een met goed gevolg afgerond goedgekeurd opleidingsprogramma overeenkomstig [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=6&z=2024-08-08&g=2024-08-08) van ten minste negen maanden voor het operationele niveau, dat een vaartijd van ten minste 90 dagen omvat, alsook
+- aa). een met goed gevolg afgerond goedgekeurd opleidingsprogramma overeenkomstig [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=6&z=2025-01-01&g=2025-01-01) van ten minste negen maanden voor het operationele niveau, dat een vaartijd van ten minste 90 dagen omvat, alsook
 
 - bb). ten minste vijf jaar werkervaring, voorafgaand aan de inschrijving voor dit opleidingsprogramma, of
 
@@ -2863,7 +2863,7 @@ Ter verkrijging van een kwalificatiecertificaat moeten de leden van de dekbemann
 
 - a). hetzij een vaartijd in de binnenvaart van ten minste 180 dagen als matroos;
 
-- b). of een met goed gevolg afgesloten, goedgekeurd opleidingsprogramma overeenkomstig [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=6&z=2024-08-08&g=2024-08-08) van ten minste drie jaar voor het operationele niveau, dat een vaartijd van ten minste 270 dagen omvat;
+- b). of een met goed gevolg afgesloten, goedgekeurd opleidingsprogramma overeenkomstig [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=6&z=2025-01-01&g=2025-01-01) van ten minste drie jaar voor het operationele niveau, dat een vaartijd van ten minste 270 dagen omvat;
 
 - 5. voor de stuurman:
 
@@ -2871,7 +2871,7 @@ Ter verkrijging van een kwalificatiecertificaat moeten de leden van de dekbemann
 
 - b). of
 
-- aa). een met goed gevolg afgesloten, goedgekeurd opleidingsprogramma als bedoeld in [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=6&z=2024-08-08&g=2024-08-08) van ten minste drie jaar voor het operationele niveau, dat een vaartijd van ten minste 360 dagen omvat, en
+- aa). een met goed gevolg afgesloten, goedgekeurd opleidingsprogramma als bedoeld in [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=6&z=2025-01-01&g=2025-01-01) van ten minste drie jaar voor het operationele niveau, dat een vaartijd van ten minste 360 dagen omvat, en
 
 - bb). houder zijn van een geldig marifoonbedieningscertificaat;
 
@@ -2893,7 +2893,7 @@ Ter verkrijging van een kwalificatiecertificaat moet de machinist voldoen aan de
 
 ##### Artikel 10.03. Geldigheid en afgifte van kwalificatiecertificaten op instroom – en operationeel niveau
 
-- 1. De geldigheid van kwalificatiecertificaten voor het instroom- en operationeel niveau eindigt uiterlijk op de dag van het volgende, in [artikel 4.02, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=4&artikel=4.02&z=2024-08-08&g=2024-08-08), voorgeschreven medische onderzoek. Na dit tijdstip verliezen de kwalificatiecertificaten van ambtswege hun geldigheid, zelfs zonder een besluit van de bevoegde autoriteit.
+- 1. De geldigheid van kwalificatiecertificaten voor het instroom- en operationeel niveau eindigt uiterlijk op de dag van het volgende, in [artikel 4.02, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=4&artikel=4.02&z=2025-01-01&g=2025-01-01), voorgeschreven medische onderzoek. Na dit tijdstip verliezen de kwalificatiecertificaten van ambtswege hun geldigheid, zelfs zonder een besluit van de bevoegde autoriteit.
 
 - 2. De kwalificatiecertificaten voor het instroom- en operationeel niveau worden volgens het toepasselijke model overeenkomstig de ES-QIN (Deel V, hoofdstuk 2) afgegeven.
 
@@ -2905,7 +2905,7 @@ Ter verkrijging van een kwalificatiecertificaat moet de machinist voldoen aan de
 
 - 1. Degene die op de Rijn een vaartuig wil voeren, moet houder zijn van een Uniekwalificatiecertificaat schipper dat overeenkomstig [Richtlijn (EU) 2017/2397](32017L2397) is afgegeven of van een kwalificatiecertificaat schipper dat overeenkomstig dit reglement is afgegeven.
 
-- 2. Voor het voeren van een vaartuig benedenstrooms van het Spijksche Veer (km 857,40) en op het riviergedeelte tussen Bazel (Mittlere Rheinbrücke – km 166,53) en de sluizen van Iffezheim (km 335,92), volstaat in plaats van de patenten, als bedoeld in de [artikelen 12.02](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=12&artikel=12.02&z=2024-08-08&g=2024-08-08) en [12.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=12&artikel=12.03&z=2024-08-08&g=2024-08-08), een ander door de bevoegde autoriteit als gelijkwaardig erkend patent.
+- 2. Voor het voeren van een vaartuig benedenstrooms van het Spijksche Veer (km 857,40) en op het riviergedeelte tussen Bazel (Mittlere Rheinbrücke – km 166,53) en de sluizen van Iffezheim (km 335,92), volstaat in plaats van de patenten, als bedoeld in de [artikelen 12.02](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=12&artikel=12.02&z=2025-01-01&g=2025-01-01) en [12.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=12&artikel=12.03&z=2025-01-01&g=2025-01-01), een ander door de bevoegde autoriteit als gelijkwaardig erkend patent.
 
 - 3. Voor vaartuigen met een lengte van minder dan 20 m, met uitzondering van passagiersschepen, duw- en sleepboten, volstaat een kwalificatiecertificaat schipper voor binnenwateren dat in overeenstemming is met de nationale voorschriften van de Rijnoeverstaten en België.
 
@@ -2929,7 +2929,7 @@ Overeenkomstig dit reglement wordt een onderscheid gemaakt tussen:
 
 - c). het overheidspatent voor het voeren van overheidsvaartuigen en van brandweerboten.
 
-Met de bovengenoemde patenten is het eveneens geoorloofd een vaartuig te voeren als bedoeld in [artikel 11.01, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=11&artikel=11.01&z=2024-08-08&g=2024-08-08).
+Met de bovengenoemde patenten is het eveneens geoorloofd een vaartuig te voeren als bedoeld in [artikel 11.01, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=11&artikel=11.01&z=2025-01-01&g=2025-01-01).
 
 ### Hoofdstuk 12. Verkrijging van patenten
 
@@ -2941,7 +2941,7 @@ Met de bovengenoemde patenten is het eveneens geoorloofd een vaartuig te voeren 
 
 - aa). een minimumleeftijd van 18 jaar;
 
-- bb). een met goed gevolg afgesloten, goedgekeurd opleidingsprogramma als bedoeld in [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=6&z=2024-08-08&g=2024-08-08) van ten minste drie jaar voor het managementniveau;
+- bb). een met goed gevolg afgesloten, goedgekeurd opleidingsprogramma als bedoeld in [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=6&z=2025-01-01&g=2025-01-01) van ten minste drie jaar voor het managementniveau;
 
 - cc). een vaartijd van ten minste 360 dagen als onderdeel van dit programma, of na het afronden ervan, en
 
@@ -2971,7 +2971,7 @@ Met de bovengenoemde patenten is het eveneens geoorloofd een vaartuig te voeren 
 
 - d). of
 
-- aa). een met goed gevolg afgesloten, goedgekeurd opleidingsprogramma als bedoeld in [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=6&z=2024-08-08&g=2024-08-08) van ten minste anderhalf jaar voor het managementniveau, dat een vaartijd van ten minste 180 dagen omvat, met in aanvulling daarop na afronding van deze opleiding een vaartijd van 180 dagen, alsook
+- aa). een met goed gevolg afgesloten, goedgekeurd opleidingsprogramma als bedoeld in [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=6&z=2025-01-01&g=2025-01-01) van ten minste anderhalf jaar voor het managementniveau, dat een vaartijd van ten minste 180 dagen omvat, met in aanvulling daarop na afronding van deze opleiding een vaartijd van 180 dagen, alsook
 
 - bb). ten minste vijf jaar werkervaring, voorafgaand aan de inschrijving voor dit opleidingsprogramma, of
 
@@ -2983,7 +2983,7 @@ Met de bovengenoemde patenten is het eveneens geoorloofd een vaartuig te voeren 
 
 - 2. Bovendien moet elke kandidaat geschikt zijn voor het beroep van schipper. Geschikt is degene die:
 
-- a). medisch geschikt is als bedoeld in [artikel 4.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=4&artikel=4.01&z=2024-08-08&g=2024-08-08) van dit reglement;
+- a). medisch geschikt is als bedoeld in [artikel 4.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=4&artikel=4.01&z=2025-01-01&g=2025-01-01) van dit reglement;
 
 - b). capabel is, dat wil zeggen, beschikt over de vereiste beroepsmatige vaardigheden en kennis als bedoeld in de ES-QIN (Deel I, hoofdstuk 2).
 
@@ -2997,13 +2997,13 @@ Met de bovengenoemde patenten is het eveneens geoorloofd een vaartuig te voeren 
 
 - 2. De kandidaat bezit de benodigde kwalificaties. Gekwalificeerd is degene die:
 
-- a). medisch geschikt is als bedoeld in [artikel 4.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=4&artikel=4.01&z=2024-08-08&g=2024-08-08);
+- a). medisch geschikt is als bedoeld in [artikel 4.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=4&artikel=4.01&z=2025-01-01&g=2025-01-01);
 
 - b). geen strafbare feiten heeft begaan die zouden doen verwachten dat hij gezien zijn vroegere gedrag een schip niet veilig kan voeren;
 
 - c). gekwalificeerd is, dat wil zeggen, beschikt over de noodzakelijke vaardigheden en kennis, ook in nautisch opzicht, alsmede over voldoende kennis van de reglementen en de vaarweg.
 
-- 3. De kwalificatie wordt door een met goed gevolg afgelegd theoretisch examen en praktijkexamen overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=2&z=2024-08-08&g=2024-08-08) aangetoond.
+- 3. De kwalificatie wordt door een met goed gevolg afgelegd theoretisch examen en praktijkexamen overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=2&z=2025-01-01&g=2025-01-01) aangetoond.
 
 Het praktijkexamen kan worden afgelegd aan boord van een sportvaartuig of aan een door de bevoegde autoriteit hiervoor toegelaten simulator.
 
@@ -3015,7 +3015,7 @@ Het praktijkexamen kan worden afgelegd aan boord van een sportvaartuig of aan ee
 
 - b). in dienst zijn bij de overheid, in het bijzonder bij een politie- of douanedienst of een erkende noodhulpdienst, zoals bijvoorbeeld een particuliere brandweerdienst;
 
-- c). medisch geschikt zijn als bedoeld in [artikel 4.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=4&artikel=4.01&z=2024-08-08&g=2024-08-08) van dit reglement;
+- c). medisch geschikt zijn als bedoeld in [artikel 4.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=4&artikel=4.01&z=2025-01-01&g=2025-01-01) van dit reglement;
 
 - d). gekwalificeerd zijn, dat wil zeggen, beschikken over de noodzakelijke vaardigheden en kennis ook in nautisch opzicht, alsmede over voldoende kennis van de reglementen en de vaarweg;
 
@@ -3023,7 +3023,7 @@ Het praktijkexamen kan worden afgelegd aan boord van een sportvaartuig of aan ee
 
 - 2. De autoriteit waaronder de kandidaat ressorteert, moet een verklaring hebben afgegeven waarin wordt bevestigd dat de kandidaat voldoet aan de eisen in het eerste lid, onderdelen b en e.
 
-- 3. De kwalificatie wordt door een met goed gevolg afgelegd theoretisch examen en praktijkexamen overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=2&z=2024-08-08&g=2024-08-08) aangetoond.
+- 3. De kwalificatie wordt door een met goed gevolg afgelegd theoretisch examen en praktijkexamen overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=2&z=2025-01-01&g=2025-01-01) aangetoond.
 
 Het praktijkexamen kan worden afgelegd aan boord van een overheidsvaartuig of aan een door de bevoegde autoriteit hiervoor toegelaten simulator.
 
@@ -3039,7 +3039,7 @@ Het praktijkexamen kan worden afgelegd aan boord van een overheidsvaartuig of aa
 
 - a). een recente pasfoto;
 
-- b). een bewijs van medische geschiktheid overeenkomstig de bepalingen van [artikel 4.02, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=4&artikel=4.02&z=2024-08-08&g=2024-08-08);
+- b). een bewijs van medische geschiktheid overeenkomstig de bepalingen van [artikel 4.02, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=4&artikel=4.02&z=2025-01-01&g=2025-01-01);
 
 - c). een bewijs van de vaartijd;
 
@@ -3051,25 +3051,25 @@ Het praktijkexamen kan worden afgelegd aan boord van een overheidsvaartuig of aa
 
 - 1. Degene die met goed gevolg een eindexamen van een beroepsopleiding heeft afgelegd, kan voor de verkrijging van het Rijnpatent worden vrijgesteld van het theoretisch gedeelte van het examen dat betrekking heeft op kennis die reeds onderwerp was van een examen in het kader van de beroepsopleiding. De CCR publiceert een lijst van deze eindexamens van beroepsopleidingen en gedeelten van het examen ter verkrijging van het Rijnpatent die recht geven op een vrijstelling. De lijst van als gelijkwaardig erkende examens wordt door de CCR op de website geplaatst.
 
-- 2. De houder van een kwalificatiecertificaat zoals bedoeld in [artikel 11.01, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=11&artikel=11.01&z=2024-08-08&g=2024-08-08), voor de verkrijging van het sportpatent worden vrijgesteld van dat gedeelte van het examen dat betrekking heeft op nautische vakkennis.
+- 2. De houder van een kwalificatiecertificaat zoals bedoeld in [artikel 11.01, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=11&artikel=11.01&z=2025-01-01&g=2025-01-01), voor de verkrijging van het sportpatent worden vrijgesteld van dat gedeelte van het examen dat betrekking heeft op nautische vakkennis.
 
 - 3. De houder van een overheidspatent verkrijgt op aanvraag een sportpatent zonder daarvoor examen te doen.
 
 ##### Artikel 12.06. Examen in het kader van een goedgekeurd opleidingsprogramma
 
-- 1. In het geval van een examen in het kader van een goedgekeurd opleidingsprogramma zoals bedoeld in [artikel 12.01, eerste lid, onderdeel a of d](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=12&artikel=12.01&z=2024-08-08&g=2024-08-08) verzoekt de kandidaat, nadat hij het opleidingsprogramma met goed gevolg heeft afgerond, de bevoegde autoriteit overeenkomstig de bepalingen van [artikel 12.04, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=12&artikel=12.04&z=2024-08-08&g=2024-08-08) een Rijnpatent af te geven. Naast de in dit artikel genoemde documenten, voegt de kandidaat het diploma bij waaruit blijkt dat hij het opleidingsprogramma met goed gevolg heeft afgerond.
+- 1. In het geval van een examen in het kader van een goedgekeurd opleidingsprogramma zoals bedoeld in [artikel 12.01, eerste lid, onderdeel a of d](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=12&artikel=12.01&z=2025-01-01&g=2025-01-01) verzoekt de kandidaat, nadat hij het opleidingsprogramma met goed gevolg heeft afgerond, de bevoegde autoriteit overeenkomstig de bepalingen van [artikel 12.04, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=12&artikel=12.04&z=2025-01-01&g=2025-01-01) een Rijnpatent af te geven. Naast de in dit artikel genoemde documenten, voegt de kandidaat het diploma bij waaruit blijkt dat hij het opleidingsprogramma met goed gevolg heeft afgerond.
 
-- 2. De autoriteit controleert of voldaan is aan de voorwaarden van [artikel 12.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=12&artikel=12.01&z=2024-08-08&g=2024-08-08). Een voorafgaande, aparte toelating tot het examen zoals bedoeld in [artikel 7.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=7&artikel=7.01&z=2024-08-08&g=2024-08-08) in niet nodig.
+- 2. De autoriteit controleert of voldaan is aan de voorwaarden van [artikel 12.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=12&artikel=12.01&z=2025-01-01&g=2025-01-01). Een voorafgaande, aparte toelating tot het examen zoals bedoeld in [artikel 7.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=7&artikel=7.01&z=2025-01-01&g=2025-01-01) in niet nodig.
 
-- 3. Als aan alle voorwaarden van [artikel 12.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=12&artikel=12.01&z=2024-08-08&g=2024-08-08) is voldaan, geeft de bevoegde autoriteit het Rijnpatent af overeenkomstig de bepalingen van [artikel 12.07, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=12&artikel=12.07&z=2024-08-08&g=2024-08-08).
+- 3. Als aan alle voorwaarden van [artikel 12.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=12&artikel=12.01&z=2025-01-01&g=2025-01-01) is voldaan, geeft de bevoegde autoriteit het Rijnpatent af overeenkomstig de bepalingen van [artikel 12.07, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=12&artikel=12.07&z=2025-01-01&g=2025-01-01).
 
 ##### Artikel 12.07. Geldigheid en afgifte van kwalificatiecertificaten schipper
 
-- 1. Onverminderd de bepalingen van [artikel 4.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=4&artikel=4.01&z=2024-08-08&g=2024-08-08), wordt het Rijnpatent ([artikel 12.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=12&artikel=12.01&z=2024-08-08&g=2024-08-08)) afgegeven met een geldigheid van 13 jaar vanaf het tijdstip waarop het laatste vereiste examendeel met goed gevolg werd afgerond. Het Rijnpatent verliest na de in [artikel 4.02, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=4&artikel=4.02&z=2024-08-08&g=2024-08-08) genoemde datum van ambtswege zijn geldigheid, zelfs zonder dat hiervoor een specifiek besluit van de bevoegde autoriteit nodig is. Het Rijnpatent wordt door de bevoegde autoriteit overeenkomstig het model in de ES-QIN (Deel V, hoofdstuk 1) afgegeven.
+- 1. Onverminderd de bepalingen van [artikel 4.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=4&artikel=4.01&z=2025-01-01&g=2025-01-01), wordt het Rijnpatent ([artikel 12.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=12&artikel=12.01&z=2025-01-01&g=2025-01-01)) afgegeven met een geldigheid van 13 jaar vanaf het tijdstip waarop het laatste vereiste examendeel met goed gevolg werd afgerond. Het Rijnpatent verliest na de in [artikel 4.02, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=4&artikel=4.02&z=2025-01-01&g=2025-01-01) genoemde datum van ambtswege zijn geldigheid, zelfs zonder dat hiervoor een specifiek besluit van de bevoegde autoriteit nodig is. Het Rijnpatent wordt door de bevoegde autoriteit overeenkomstig het model in de ES-QIN (Deel V, hoofdstuk 1) afgegeven.
 
-- 2. Het sportpatent ([artikel 12.02](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=12&artikel=12.02&z=2024-08-08&g=2024-08-08)) wordt met een geldigheid tot het in [artikel 4.02, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=4&artikel=4.02&z=2024-08-08&g=2024-08-08) genoemde tijdstip afgegeven. Het sportpatent verliest na deze datum van ambtswege zijn geldigheid, zelfs zonder dat hiervoor een specifiek besluit van de bevoegde autoriteit nodig is. De lijst van de door de Rijnoeverstaten en België afgegeven sportpatenten staat in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=3&z=2024-08-08&g=2024-08-08).
+- 2. Het sportpatent ([artikel 12.02](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=12&artikel=12.02&z=2025-01-01&g=2025-01-01)) wordt met een geldigheid tot het in [artikel 4.02, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=4&artikel=4.02&z=2025-01-01&g=2025-01-01) genoemde tijdstip afgegeven. Het sportpatent verliest na deze datum van ambtswege zijn geldigheid, zelfs zonder dat hiervoor een specifiek besluit van de bevoegde autoriteit nodig is. De lijst van de door de Rijnoeverstaten en België afgegeven sportpatenten staat in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=3&z=2025-01-01&g=2025-01-01).
 
-- 3. Het overheidspatent ([artikel 12.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=12&artikel=12.03&z=2024-08-08&g=2024-08-08)) wordt met een onbeperkte geldigheidsduur afgegeven, maar op voorwaarde dat het overheidspatent aan de bevoegde autoriteit wordt teruggegeven, nadat de houder de dienst heeft beëindigd. De lijst van de door de Rijnoeverstaten en België afgegeven overheidspatenten staat in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=4&z=2024-08-08&g=2024-08-08).
+- 3. Het overheidspatent ([artikel 12.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=12&artikel=12.03&z=2025-01-01&g=2025-01-01)) wordt met een onbeperkte geldigheidsduur afgegeven, maar op voorwaarde dat het overheidspatent aan de bevoegde autoriteit wordt teruggegeven, nadat de houder de dienst heeft beëindigd. De lijst van de door de Rijnoeverstaten en België afgegeven overheidspatenten staat in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=4&z=2025-01-01&g=2025-01-01).
 
 ##### Artikel 12.08. Voorlopig Rijnpatent
 
@@ -3111,9 +3111,9 @@ Indien de kandidaat na het slagen voor het examen voor een fysiek document kiest
 
 - 3. Het praktijkexamen kan worden afgelegd aan boord van een vaartuig zoals genoemd in de ES-QIN of op een door de bevoegde autoriteit overeenkomstig de ES-QIN (Deel III, Hoofdstuk 2) hiervoor toegelaten simulator. De simulator moet voldoen aan de technische en functionele eisen van de ES-QIN (Deel III, hoofdstuk 1).
 
-- 4. De bevoegde autoriteit geeft de specifieke vergunning voor het varen met behulp van een radar af na te hebben vastgesteld dat de aanvrager aan de in het tweede en derde lid gestelde eisen voldoet en na de echtheid en de geldigheid van de door de aanvrager overeenkomstig [artikel 13.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=13&artikel=13.01&z=2024-08-08&g=2024-08-08) verstrekte documenten te hebben gecontroleerd.
+- 4. De bevoegde autoriteit geeft de specifieke vergunning voor het varen met behulp van een radar af na te hebben vastgesteld dat de aanvrager aan de in het tweede en derde lid gestelde eisen voldoet en na de echtheid en de geldigheid van de door de aanvrager overeenkomstig [artikel 13.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=13&artikel=13.01&z=2025-01-01&g=2025-01-01) verstrekte documenten te hebben gecontroleerd.
 
-- 5. Houders van nationale kwalificatiecertificaten als bedoeld in [artikel 11.01, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=11&artikel=11.01&z=2024-08-08&g=2024-08-08), kunnen eveneens de specifieke vergunning voor het varen met behulp van radar verkrijgen overeenkomstig de bepalingen van het tweede en derde lid.
+- 5. Houders van nationale kwalificatiecertificaten als bedoeld in [artikel 11.01, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=11&artikel=11.01&z=2025-01-01&g=2025-01-01), kunnen eveneens de specifieke vergunning voor het varen met behulp van radar verkrijgen overeenkomstig de bepalingen van het tweede en derde lid.
 
 ##### Artikel 13.03. Specifieke vergunning voor het bevaren van waterwegen die als binnenwatertrajecten met specifieke risico’s geclassificeerd zijn
 
@@ -3129,7 +3129,7 @@ Indien de kandidaat na het slagen voor het examen voor een fysiek document kiest
 
 - d). een hoge ongevallenfrequentie op een specifiek traject van de binnenwateren, die wordt toegeschreven aan het ontbreken van een competentie die niet door de in ES-QIN, Deel I, Hoofdstuk 2 wordt gedekt.
 
-- 3. De binnenwatertrajecten met specifieke risico’s van de Rijn staan in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=5&z=2024-08-08&g=2024-08-08).
+- 3. De binnenwatertrajecten met specifieke risico’s van de Rijn staan in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=5&z=2025-01-01&g=2025-01-01).
 
 - 4. De aanvrager verstrekt de bevoegde autoriteit toereikende bewijsstukken voor:
 
@@ -3139,11 +3139,11 @@ Indien de kandidaat na het slagen voor het examen voor een fysiek document kiest
 
 - c). het beschikken over een kwalificatiecertificaat schipper of het voldoen aan de minimumeisen voor kwalificatiecertificaten schipper.
 
-- 5. Voor het verkrijgen van de specifieke vergunning voor de Rijn moet de houder van een kwalificatiecertificaat schipper het in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=5&z=2024-08-08&g=2024-08-08) genoemde examen met succes afgelegd hebben. Om tot het examen voor een door de aanvrager bepaald traject toegelaten te worden, moet de bevoegde autoriteit het bewijs overgelegd worden van het bevaren van de desbetreffende riviergedeelten zoals bepaald in bijlage 5.
+- 5. Voor het verkrijgen van de specifieke vergunning voor de Rijn moet de houder van een kwalificatiecertificaat schipper het in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=5&z=2025-01-01&g=2025-01-01) genoemde examen met succes afgelegd hebben. Om tot het examen voor een door de aanvrager bepaald traject toegelaten te worden, moet de bevoegde autoriteit het bewijs overgelegd worden van het bevaren van de desbetreffende riviergedeelten zoals bepaald in bijlage 5.
 
 - 6. De bevoegde autoriteit beoordeelt de competentie van de aanvragers voor specifieke risico’s en geeft de specifieke vergunning af na de echtheid en de geldigheid van de door de aanvrager verstrekte documenten te hebben gecontroleerd.
 
-- 7. Houders van nationale kwalificatiecertificaten als bedoeld in [artikel 11.01, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=11&artikel=11.01&z=2024-08-08&g=2024-08-08), kunnen eveneens de specifieke vergunning voor het bevaren van binnenwateren met specifieke risico’s verkrijgen overeenkomstig [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=5&z=2024-08-08&g=2024-08-08).
+- 7. Houders van nationale kwalificatiecertificaten als bedoeld in [artikel 11.01, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=11&artikel=11.01&z=2025-01-01&g=2025-01-01), kunnen eveneens de specifieke vergunning voor het bevaren van binnenwateren met specifieke risico’s verkrijgen overeenkomstig [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=5&z=2025-01-01&g=2025-01-01).
 
 ##### Artikel 13.04. Specifieke vergunning voor het varen op binnenwateren van maritieme aard
 
@@ -3151,17 +3151,17 @@ Indien de kandidaat na het slagen voor het examen voor een fysiek document kiest
 
 - 2. Een kandidaat moet met goed gevolg een theoretisch examen overeenkomstig de ES-QIN (Deel I, hoofdstuk 3) afgelegd hebben.
 
-- 3. De bevoegde autoriteit geeft de specifieke vergunning voor het varen op binnenwateren van maritieme aard af na te hebben vastgesteld dat de aanvrager aan de in het tweede lid gestelde eisen voldoet en na de echtheid en de geldigheid van de door de aanvrager, overeenkomstig [artikel 13.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=13&artikel=13.01&z=2024-08-08&g=2024-08-08), verstrekte documenten te hebben gecontroleerd.
+- 3. De bevoegde autoriteit geeft de specifieke vergunning voor het varen op binnenwateren van maritieme aard af na te hebben vastgesteld dat de aanvrager aan de in het tweede lid gestelde eisen voldoet en na de echtheid en de geldigheid van de door de aanvrager, overeenkomstig [artikel 13.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=13&artikel=13.01&z=2025-01-01&g=2025-01-01), verstrekte documenten te hebben gecontroleerd.
 
 ##### Artikel 13.05. Specifieke vergunning voor het varen met vaartuigen die vloeibaar aardgas (LNG) als brandstof gebruiken
 
-Voor het besturen van een vaartuig dat vloeibaar aardgas als brandstof gebruikt, is een specifieke vergunning vereist. Deze wordt aangetoond door een kwalificatiecertificaat voor LNG-deskundige, dat wordt verkregen zoals bepaald in [artikel 15.02 tot en met 15.04](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=15&artikel=15.02&z=2024-08-08&g=2024-08-08).
+Voor het besturen van een vaartuig dat vloeibaar aardgas als brandstof gebruikt, is een specifieke vergunning vereist. Deze wordt aangetoond door een kwalificatiecertificaat voor LNG-deskundige, dat wordt verkregen zoals bepaald in [artikel 15.02 tot en met 15.04](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=15&artikel=15.02&z=2025-01-01&g=2025-01-01).
 
 ##### Artikel 13.06. Specifieke vergunning voor het varen met grote konvooien
 
 - 1. Voor het besturen van een groot konvooi is een specifieke vergunning vereist. Een kandidaat moet een vaartijd van ten minste 720 dagen kunnen aantonen, waarvan ten minste 540 dagen als schipper. Hij moet ten minste 180 dagen de koers en snelheid van een groot konvooi zelfstandig bepaald hebben.
 
-- 2. De bevoegde autoriteit geeft de specifieke vergunning voor het varen met grote konvooien af na te hebben vastgesteld dat de aanvrager aan de in het eerste lid gestelde eisen voldoet en na de echtheid en de geldigheid van de door de aanvrager, overeenkomstig [artikel 13.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=13&artikel=13.01&z=2024-08-08&g=2024-08-08), verstrekte documenten te hebben gecontroleerd.
+- 2. De bevoegde autoriteit geeft de specifieke vergunning voor het varen met grote konvooien af na te hebben vastgesteld dat de aanvrager aan de in het eerste lid gestelde eisen voldoet en na de echtheid en de geldigheid van de door de aanvrager, overeenkomstig [artikel 13.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=13&artikel=13.01&z=2025-01-01&g=2025-01-01), verstrekte documenten te hebben gecontroleerd.
 
 ### Paragraaf 4. Kwalificaties voor specifieke activiteiten
 
@@ -3181,7 +3181,7 @@ De schipper en de personen die houder zijn van een kwalificatiecertificaat en di
 
 - 1. Deskundigen op het gebied van vloeibaar aardgas (LNG-deskundigen) tonen hun deskundigheid aan met een kwalificatiecertificaat deskundige op het gebied van vloeibaar aardgas (LNG) overeenkomstig het model in de ES-QIN (Deel V, hoofdstuk 1).
 
-- 2. Het kwalificatiecertificaat deskundige op het gebied van vloeibaar aardgas (LNG) wordt afgegeven aan degene die voldoet aan de eisen van de [artikelen 15.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=15&artikel=15.03&z=2024-08-08&g=2024-08-08) en [15.04](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=15&artikel=15.04&z=2024-08-08&g=2024-08-08), en tenminste 18 jaar oud is.
+- 2. Het kwalificatiecertificaat deskundige op het gebied van vloeibaar aardgas (LNG) wordt afgegeven aan degene die voldoet aan de eisen van de [artikelen 15.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=15&artikel=15.03&z=2025-01-01&g=2025-01-01) en [15.04](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=15&artikel=15.04&z=2025-01-01&g=2025-01-01), en tenminste 18 jaar oud is.
 
 ##### Artikel 15.03. Cursus en examen
 
@@ -3197,7 +3197,7 @@ De schipper en de personen die houder zijn van een kwalificatiecertificaat en di
 
 ##### Artikel 15.04. Goedkeuring van cursussen
 
-- 1. De cursussen worden goedgekeurd door de bevoegde autoriteiten op basis van de uniforme criteria overeenkomstig [artikel 15.05](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=15&artikel=15.05&z=2024-08-08&g=2024-08-08).
+- 1. De cursussen worden goedgekeurd door de bevoegde autoriteiten op basis van de uniforme criteria overeenkomstig [artikel 15.05](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=15&artikel=15.05&z=2025-01-01&g=2025-01-01).
 
 - 2. De bevoegde autoriteiten stellen de CCR in kennis van elk besluit over de goedkeuring van een cursus of over de intrekking of schorsing van een dergelijke goedkeuring.
 
@@ -3205,7 +3205,7 @@ De lijst van goedgekeurde cursussen wordt door de CCR op de website geplaatst.
 
 ##### Artikel 15.05. Criteria voor de goedkeuring van cursussen
 
-- 1. De bevoegde autoriteit kan een cursus goedkeuren wanneer zij tot de overtuiging is gekomen dat het opleidingsinstituut cursussen aanbiedt en examens afneemt die garant staan voor de benodigde kennis van bemanningsleden van vaartuigen die vloeibaar aardgas (LNG) als brandstof gebruiken. De cursussen en examens moeten voldoen aan [artikel 15.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=15&artikel=15.03&z=2024-08-08&g=2024-08-08).
+- 1. De bevoegde autoriteit kan een cursus goedkeuren wanneer zij tot de overtuiging is gekomen dat het opleidingsinstituut cursussen aanbiedt en examens afneemt die garant staan voor de benodigde kennis van bemanningsleden van vaartuigen die vloeibaar aardgas (LNG) als brandstof gebruiken. De cursussen en examens moeten voldoen aan [artikel 15.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=15&artikel=15.03&z=2025-01-01&g=2025-01-01).
 
 - 2. De aanvraag om goedkeuring moet schriftelijk worden ingediend en de onderstaande documenten bevatten:
 
@@ -3239,7 +3239,7 @@ De lijst van goedgekeurde cursussen wordt door de CCR op de website geplaatst.
 
 - –. ten minste 90 dagen in het afgelopen jaar;
 
-- b). hij in het kader van een goedgekeurd opleidingsprogramma het examen zoals bedoeld in [artikel 15.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=15&artikel=15.03&z=2024-08-08&g=2024-08-08) nogmaals met succes heeft afgelegd.
+- b). hij in het kader van een goedgekeurd opleidingsprogramma het examen zoals bedoeld in [artikel 15.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=15&artikel=15.03&z=2025-01-01&g=2025-01-01) nogmaals met succes heeft afgelegd.
 
 ### Hoofdstuk 16. Veiligheidspersoneel aan boord van passagiersschepen
 
@@ -3249,39 +3249,37 @@ De lijst van goedgekeurde cursussen wordt door de CCR op de website geplaatst.
 
 - 2. De leden van het veiligheidspersoneel kunnen deel uitmaken van de bemanning of het boordpersoneel.
 
-##### Artikel 16.02. Deskundige voor de passagiersvaart
+##### Artikel 16.02. Verkrijging van het kwalificatiecertificaat deskundige voor de passagiersvaart
 
-Om het kwalificatiecertificaat deskundige voor de passagiersvaart te verkrijgen, moet de kandidaat ten minste 18 jaar zijn en de vereiste kwalificatie bezitten. Deze wordt geacht aanwezig te zijn, indien de betreffende persoon:
+1. Om voor de eerste maal het kwalificatiecertificaat deskundige voor de passagiersvaart te verkrijgen, is de kandidaat ten minste 18 jaar en beschikt over de in de ES-QIN (Deel I, hoofdstuk 5) genoemde competenties. Deze competenties worden geacht aanwezig te zijn indien de betreffende persoon geslaagd is voor een examen overeenkomstig [artikel 16.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=16&artikel=16.03&z=2025-01-01&g=2025-01-01), dat werd georganiseerd:
 
-- a). aan een door de bevoegde autoriteit goedgekeurde basisopleiding heeft deelgenomen, die ten minste aan de in [artikel 16.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=16&artikel=16.03&z=2024-08-08&g=2024-08-08) gestelde eisen voldoet, en het examen met goed gevolg heeft afgelegd, en
+- a). als onderdeel van een goedgekeurde opleiding overeenkomstig [artikel 16.04](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=16&artikel=16.04&z=2025-01-01&g=2025-01-01), of
 
-- b). regelmatig overeenkomstig [artikel 16.04, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=16&artikel=16.04&z=2024-08-08&g=2024-08-08), aan de opfriscursussen heeft deelgenomen.
+- b). onder verantwoordelijkheid van een bevoegde autoriteit.
 
-##### Artikel 16.03. Basisopleiding voor deskundigen
+2. Het kwalificatiecertificaat deskundige voor de passagiersvaart is vijf jaar geldig.
 
-- 1. Personen die de taak als deskundige in de zin van [artikel 16.02](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=16&artikel=16.02&z=2024-08-08&g=2024-08-08) moeten vervullen, moeten voor het verkrijgen van de specifieke competenties zoals genoemd in de ES-QIN (Deel I, hoofdstuk 5) aan een basisopleiding deelnemen. De basisopleiding wordt gevolgd in het kader van een hiervoor door de bevoegde autoriteit overeenkomstig de in [artikel 16.05](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=16&artikel=16.05&z=2024-08-08&g=2024-08-08) vastgelegde voorwaarden georganiseerde of goedgekeurde opleiding en moet bestaan uit:
+3. Iedere aanvrager van een verlenging van een kwalificatiecertificaat deskundige voor de passagiersvaart, legt het examen, genoemd in het eerste lid, opnieuw met succes af.
 
-- a). een theoretische scholing om de in de ES-QIN (Deel I, hoofdstuk 5) genoemde kennis op te doen;
+##### Artikel 16.03. Examen voor deskundigen voor de passagiersvaart
+
+Het examen bestaat uit een theoretisch en praktijkgedeelte.
+
+Aan het theoretisch gedeelte van het examen wordt voldaan wanneer de kandidaat aantoont dat hij beschikt over de in de ES-QIN (Deel I, hoofdstuk 5) genoemde kennis.
+
+Aan het praktijkgedeelte wordt voldaan wanneer de kandidaat met goed gevolg een praktijkexamen heeft afgelegd overeenkomstig de ES-QIN (Deel II, hoofdstuk 2). Het praktijkgedeelte van het examen wordt afgelegd aan boord van een vaartuig of met behulp van een walinstallatie die voldoet aan de technische eisen zoals vastgelegd in de ES-QIN (Deel II, hoofdstuk 2).
+
+##### Artikel 16.04. Opleiding voor deskundigen voor de passagiersvaart
+
+De opleiding als bedoeld in [artikel 16.02, eerste lid, tweede zin, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=16&artikel=16.02&z=2025-01-01&g=2025-01-01), wordt door de bevoegde autoriteit overeenkomstig de in [artikel 16.05](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=16&artikel=16.05&z=2025-01-01&g=2025-01-01) vastgelegde voorwaarden toegelaten en bestaat uit:
+
+- a). een theoretische scholing om de in de ES-QIN (Deel I, hoofdstuk 5) genoemde kennis te verwerven;
 
 - b). een praktische scholing om de in de ES-QIN (Deel II, hoofdstuk 2) genoemde vaardigheden op te doen.
 
-- 2. Na afronding van deze scholing wordt een examen afgelegd dat bestaat uit een theoretisch en praktijkgedeelte.
-
-Aan het theoretisch gedeelte van het examen wordt voldaan wanneer de kandidaat aantoont dat hij beschikt over de kennis die onderwezen werd in de opleiding zoals bedoeld in het eerste lid, tweede zin, onderdeel a.
-
-Aan het praktijkgedeelte wordt voldaan wanneer de kandidaat met goed gevolg een praktijkexamen heeft afgelegd overeenkomstig de ES-QIN (Deel II, hoofdstuk 2). Het praktijkgedeelte van het examen wordt afgelegd aan boord van een schip of met behulp van een installatie aan de wal die voldoet aan de technische eisen zoals vastgelegd in de ES-QIN (Deel II, hoofdstuk 2).
-
-##### Artikel 16.04. Opfriscursus voor deskundigen
-
-- 1. De houder van een kwalificatiecertificaat deskundige voor de passagiersvaart neemt voor het einde van een termijn van vijf jaar na een succesvolle deelname aan de basisopleiding, deel aan een door de bevoegde autoriteit erkende opfriscursus.
-
-- 2. De opfriscursus heeft met name betrekking op typische gevaarsituaties (zoals bijvoorbeeld het voorkomen van paniek, brandbestrijding) en moet – voor zover van toepassing – informeren over nieuwe ontwikkelingen op het gebied van passagiersveiligheid. Aan het einde van deze opfriscursus wordt een examen afgelegd dat uit een theoretisch en praktijkgedeelte bestaat. [Artikel 16.03, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=16&artikel=16.03&z=2024-08-08&g=2024-08-08), geldt dienovereenkomstig.
-
-De opfriscursus wordt gevolgd in het kader van een hiervoor door de bevoegde autoriteit overeenkomstig de in [artikel 16.05](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=16&artikel=16.05&z=2024-08-08&g=2024-08-08) vastgelegde voorwaarden georganiseerde of goedgekeurde opleiding.
-
 ##### Artikel 16.05. Goedkeuring van de opleidingen voor deskundige
 
-- 1. De goedkeuring van de opleidingen wordt gedaan door de bevoegde autoriteiten op basis van [artikel 16.06](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=16&artikel=16.06&z=2024-08-08&g=2024-08-08).
+- 1. De goedkeuring van de opleidingen wordt gedaan door de bevoegde autoriteiten op basis van [artikel 16.06](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=16&artikel=16.06&z=2025-01-01&g=2025-01-01).
 
 - 2. De bevoegde autoriteiten stellen de CCR op de hoogte van elke besluit over de goedkeuring van een cursus of de intrekking of opschorting van een goedkeuring.
 
@@ -3289,7 +3287,7 @@ De lijst van de goedgekeurde opleidingen wordt door de CCR op de website geplaat
 
 ##### Artikel 16.06. Criteria voor de goedkeuring van cursussen
 
-- 1. De bevoegde autoriteit kan op basis van de voorwaarden van [artikel 16.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=16&artikel=16.03&z=2024-08-08&g=2024-08-08), een cursus goedkeuren wanneer zij tot de overtuiging is gekomen dat het opleidingsinstituut cursussen aanbiedt of examens afneemt die garant staan voor de benodigde kennis van deskundigen voor passagiersvaart.
+- 1. De bevoegde autoriteit kan op basis van de voorwaarden van [artikel 16.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=16&artikel=16.03&z=2025-01-01&g=2025-01-01), een cursus goedkeuren wanneer zij tot de overtuiging is gekomen dat het opleidingsinstituut cursussen aanbiedt of examens afneemt die garant staan voor de benodigde kennis van deskundigen voor passagiersvaart.
 
 - 2. De aanvraag ter goedkeuring wordt schriftelijk ingediend en bevat de onderstaande documenten:
 
@@ -3317,23 +3315,23 @@ De eerstehulpverlener moet ten minste 17 jaar zijn en de vereiste kwalificatie b
 
 - a). aan een cursus voor eerstehulpverlener heeft deelgenomen, en
 
-- b). regelmatig overeenkomstig [artikel 16.09](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=16&artikel=16.09&z=2024-08-08&g=2024-08-08) aan de opfriscursussen heeft deelgenomen.
+- b). regelmatig overeenkomstig [artikel 16.09](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=16&artikel=16.09&z=2025-01-01&g=2025-01-01) aan de opfriscursussen heeft deelgenomen.
 
 ##### Artikel 16.08. Persluchtmaskerdrager
 
-De persluchtmaskerdrager moet ten minste 18 jaar zijn en geschikt zijn om de ademhalingsapparatuur zoals bedoeld in [artikel 19.12, tiende lid, onderdeel a, van de ES-TRIN](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=19.12), voor de redding van personen te kunnen gebruiken. Deze wordt geacht aanwezig te zijn, indien de betreffende persoon de lichamelijke en geestelijke geschiktheid en de kwalificatie overeenkomstig de nationale voorschriften van de Rijnoeverstaten of België aantoont en regelmatig overeenkomstig [artikel 16.09](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=16&artikel=16.09&z=2024-08-08&g=2024-08-08) aan de opfriscursussen heeft deelgenomen.
+De persluchtmaskerdrager moet ten minste 18 jaar zijn en geschikt zijn om de ademhalingsapparatuur zoals bedoeld in [artikel 19.12, tiende lid, onderdeel a, van de ES-TRIN](https://wetten.overheid.nl/jci1.3:c:BWBR0041395&artikel=19.12), voor de redding van personen te kunnen gebruiken. Deze wordt geacht aanwezig te zijn, indien de betreffende persoon de lichamelijke en geestelijke geschiktheid en de kwalificatie overeenkomstig de nationale voorschriften van de Rijnoeverstaten of België aantoont en regelmatig overeenkomstig [artikel 16.09](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=16&artikel=16.09&z=2025-01-01&g=2025-01-01) aan de opfriscursussen heeft deelgenomen.
 
 ##### Artikel 16.09. Cursussen en opfriscursussen voor eerstehulpverleners en persluchtmaskerdragers
 
 De opleiding en opfriscursussen voor eerstehulpverleners en persluchtmaskerdragers worden gevolgd overeenkomstig de voorschriften van één van de Rijnoeverstaten of België.
 
-##### Artikel 16.10. Wijze van aantonen van de kwalificatie
+##### Artikel 16.10. Aantonen van de functie
 
-- 1. De bevoegde autoriteit geeft na het succesvol afleggen van het examen, als bedoeld in [artikel 16.03, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=16&artikel=16.03&z=2024-08-08&g=2024-08-08), en na overlegging van de vereiste bewijzen met betrekking tot de opleiding het kwalificatiecertificaat af van deskundige voor de passagiersvaart overeenkomstig de ES-QIN (Deel V, hoofdstuk 1). Het in het eerste lid genoemde kwalificatiecertificaat wordt om de vijf jaar verlengd. Voor de verlenging van dit certificaat volgt de aanvrager binnen een termijn van vijf jaar, te rekenen vanaf zijn deelname aan de basisopleiding of vorige opfriscursus, een opfriscursus overeenkomstig [artikel 16.04](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=16&artikel=16.04&z=2024-08-08&g=2024-08-08). Na deelname aan een opfriscursus verlengt de bevoegde autoriteit het kwalificatiecertificaat voor deskundige voor de passagiersvaart met vijf jaar, of wordt hem een nieuw kwalificatiecertificaat verstrekt.
+- 1. De bevoegde autoriteit geeft na het succesvol afleggen van het examen, als bedoeld in [artikel 16.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=16&artikel=16.03&z=2025-01-01&g=2025-01-01), het kwalificatiecertificaat af van deskundige voor de passagiersvaart overeenkomstig de ES-QIN (Deel V, hoofdstuk 1).
 
-- 2. Op vertoon van het bewijs van de opleiding zoals bedoeld in [artikel 16.07](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=16&artikel=16.07&z=2024-08-08&g=2024-08-08) en [16.09](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=16&artikel=16.09&z=2024-08-08&g=2024-08-08) geeft de bevoegde autoriteit een verklaring af betreffende de bevoegdheid als eerstehulpverlener volgens het model van [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=6&z=2024-08-08&g=2024-08-08) of verlengt deze. Als verklaringen gelden ook de documenten van de nationale of regionale organisaties van het Rode Kruis of vergelijkbare nationale of regionale reddingsorganisaties die door de CCR bekend worden gemaakt.
+- 2. Op vertoon van het bewijs van de opleiding zoals bedoeld in [artikel 16.07](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=16&artikel=16.07&z=2025-01-01&g=2025-01-01) en [16.09](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=16&artikel=16.09&z=2025-01-01&g=2025-01-01) geeft de bevoegde autoriteit een verklaring af betreffende de bevoegdheid als eerstehulpverlener volgens het model van [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=6&z=2025-01-01&g=2025-01-01) of verlengt deze. Als verklaringen gelden ook de documenten van de nationale of regionale organisaties van het Rode Kruis of vergelijkbare nationale of regionale reddingsorganisaties die door de CCR bekend worden gemaakt.
 
-- 3. Op vertoon van het bewijs van de opleiding zoals bedoeld in [artikel 16.08](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=16&artikel=16.08&z=2024-08-08&g=2024-08-08) en [16.09](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=16&artikel=16.09&z=2024-08-08&g=2024-08-08) geeft de bevoegde autoriteit een verklaring af betreffende de bevoegdheid als persluchtmaskerdrager volgens het model van [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=7&z=2024-08-08&g=2024-08-08) of verlengt deze.
+- 3. Op vertoon van het bewijs van de opleiding zoals bedoeld in [artikel 16.08](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=16&artikel=16.08&z=2025-01-01&g=2025-01-01) en [16.09](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=16&artikel=16.09&z=2025-01-01&g=2025-01-01) geeft de bevoegde autoriteit een verklaring af betreffende de bevoegdheid als persluchtmaskerdrager volgens het model van [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=7&z=2025-01-01&g=2025-01-01) of verlengt deze.
 
 Deze cursusbewijzen gelden als verklaring, als deze zijn afgegeven door een volgens het nationale recht van de Rijnoeverstaten of België erkend opleidingsinstituut en het dienovereenkomstige model door de CCR bekend gemaakt is.
 
@@ -3367,7 +3365,7 @@ Deze cursusbewijzen gelden als verklaring, als deze zijn afgegeven door een volg
 
 - b). het veiligheidspersoneel te instrueren en bekend maken met het passagiersschip,
 
-- c). de vereiste kwalificatie van het veiligheidspersoneel aan boord, zoals bedoeld in de [artikelen 16.02 tot en met 16.09](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=16&artikel=16.02&z=2024-08-08&g=2024-08-08), op ieder momentaan de hand van de verklaringen zoals bedoeld in [artikel 16.10](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=16&artikel=16.10&z=2024-08-08&g=2024-08-08) te kunnen aantonen,
+- c). de vereiste kwalificatie van het veiligheidspersoneel aan boord, zoals bedoeld in de [artikelen 16.02 tot en met 16.09](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=16&artikel=16.02&z=2025-01-01&g=2025-01-01), op ieder momentaan de hand van de verklaringen zoals bedoeld in [artikel 16.10](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=16&artikel=16.10&z=2025-01-01&g=2025-01-01) te kunnen aantonen,
 
 - d). ervoor te zorgen dat gecontroleerd kan worden dat er regelmatig veiligheidsrondes plaatsvinden.
 
@@ -3395,11 +3393,11 @@ Zolang zich passagiers aan boord bevinden, moet er ’s nachts ieder uur een con
 
 - 2. Elke Rijnoeverstaat of België kan bepalen dat de nationale voorschriften betreffende de arbeidsbescherming van toepassing zijn op de Rijnschepen die in die staat zijn ingeschreven. Niet in een register ingeschreven schepen vallen onder de wettelijke voorschriften van die Rijnoeverstaat of België waarin het bedrijf zijn hoofdzetel of de eigenaar zijn wettelijke domicilie heeft. In afwijking hiervan kunnen de bevoegde autoriteiten van de Rijnoeverstaten of België bilateraal overeenkomen dat bepaalde schepen die in de ene staat zijn ingeschreven, onder de voorschriften van de andere staat vallen. Zwangere vrouwen en kraamvrouwen mogen gedurende ten minste 14 weken, waarvan ten minste zes weken voor en zeven weken na de bevalling geen deel uitmaken van de bemanning.
 
-- 3. Voor de toepassing van de [artikelen 18.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=18&artikel=18.01&z=2024-08-08&g=2024-08-08), [18.02](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=18&artikel=18.02&z=2024-08-08&g=2024-08-08) en [18.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=18&artikel=18.03&z=2024-08-08&g=2024-08-08) wordt tevens rekening gehouden met vaar- en rusttijden die buiten het toepassingsgebied van dit reglement vervuld zijn.
+- 3. Voor de toepassing van de [artikelen 18.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=18&artikel=18.01&z=2025-01-01&g=2025-01-01), [18.02](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=18&artikel=18.02&z=2025-01-01&g=2025-01-01) en [18.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=18&artikel=18.03&z=2025-01-01&g=2025-01-01) wordt tevens rekening gehouden met vaar- en rusttijden die buiten het toepassingsgebied van dit reglement vervuld zijn.
 
 - 4. De houder van een Rijnpatent mag alleen de functie van schipper uitoefenen indien hij daartoe de nodige geschiktheid bezit.
 
-- 5. De in het vierde lid genoemde geschiktheid kan door de bevoegde autoriteiten krachtens nationaal recht worden onderzocht. Indien de bevoegde autoriteit tot de conclusie komt dat de houder van het Rijnpatent ongeschikt is kan hem de uitoefening van de functie van schipper worden verboden. Een intrekking of schorsing als bedoeld in [artikel 8.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=8&artikel=8.01&z=2024-08-08&g=2024-08-08) of [8.02](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=8&artikel=8.02&z=2024-08-08&g=2024-08-08) uitsluitend om deze reden is niet toegestaan.
+- 5. De in het vierde lid genoemde geschiktheid kan door de bevoegde autoriteiten krachtens nationaal recht worden onderzocht. Indien de bevoegde autoriteit tot de conclusie komt dat de houder van het Rijnpatent ongeschikt is kan hem de uitoefening van de functie van schipper worden verboden. Een intrekking of schorsing als bedoeld in [artikel 8.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=8&artikel=8.01&z=2025-01-01&g=2025-01-01) of [8.02](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=8&artikel=8.02&z=2025-01-01&g=2025-01-01) uitsluitend om deze reden is niet toegestaan.
 
 ##### Artikel 17.02. Gelijkwaardigheid en afwijkingen
 
@@ -3453,7 +3451,7 @@ Er mag van deze tijden worden afgeweken, indien de vaartijd wordt geregistreerd 
 
 ##### Artikel 18.03. Wisseling of herhaling van exploitatiewijze
 
-- 1. In afwijking van [artikel 18.02, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=18&artikel=18.02&z=2024-08-08&g=2024-08-08), is een wisseling of herhaling van de exploitatiewijze slechts mogelijk met inachtneming van de bepalingen van het tweede tot met zesde lid.
+- 1. In afwijking van [artikel 18.02, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=18&artikel=18.02&z=2025-01-01&g=2025-01-01), is een wisseling of herhaling van de exploitatiewijze slechts mogelijk met inachtneming van de bepalingen van het tweede tot met zesde lid.
 
 - 2. Van exploitatiewijze A1 mag slechts dan naar exploitatiewijze A2 worden gewisseld, indien:
 
@@ -3477,11 +3475,11 @@ Er mag van deze tijden worden afgeweken, indien de vaartijd wordt geregistreerd 
 
 - a). de bemanning in zijn geheel is afgelost, of
 
-- b). de voor exploitatiewijze B bestemde bemanningsleden direct vóór de wisseling een ononderbroken rusttijd van acht, respectievelijk zes uur buiten de vaartijd of overeenkomstig de voorschriften van [artikel 18.02, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=18&artikel=18.02&z=2024-08-08&g=2024-08-08), in acht genomen en aangetoond hebben, en de voor exploitatiewijze B voorgeschreven versterking zich aan boord bevindt.
+- b). de voor exploitatiewijze B bestemde bemanningsleden direct vóór de wisseling een ononderbroken rusttijd van acht, respectievelijk zes uur buiten de vaartijd of overeenkomstig de voorschriften van [artikel 18.02, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=18&artikel=18.02&z=2025-01-01&g=2025-01-01), in acht genomen en aangetoond hebben, en de voor exploitatiewijze B voorgeschreven versterking zich aan boord bevindt.
 
 - 6. Een vaartuig kan onmiddellijk in aansluiting op een reis in exploitatiewijze A1 of A2 voor een volgende reis in exploitatiewijze A1 of A2 worden ingezet, indien een voltallige uitwisseling van de bemanning heeft plaatsgevonden en de nieuwe bemanningsleden onmiddellijk voorafgaand aan de verdere exploitatiewijze A1 en A2 een ononderbroken rusttijd van acht, respectievelijk zes uur buiten de vaartijd in acht genomen en aangetoond hebben.
 
-- 7. Het bewijs van een rusttijd van acht, respectievelijk zes uur wordt aangetoond met een verklaring als bedoeld in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=8&z=2024-08-08&g=2024-08-08) of door een kopie van de pagina van het vaartijdenboek van het vaartuig waarop de laatste reis van het bemanningslid heeft plaatsgevonden en de vaar-, respectievelijk rusttijden, vermeld staan. Indien de rusttijd tijdens de vaart plaatsvond, is tevens een kopie van het binnenschipcertificaat van het betreffende schip vereist waaruit blijkt dat de maximale geluidsdruk in die ruimte van dit schip voldoet aan de voorschriften van [artikel 18.02, vierde li](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=18&artikel=18.02&z=2024-08-08&g=2024-08-08)d.
+- 7. Het bewijs van een rusttijd van acht, respectievelijk zes uur wordt aangetoond met een verklaring als bedoeld in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=8&z=2025-01-01&g=2025-01-01) of door een kopie van de pagina van het vaartijdenboek van het vaartuig waarop de laatste reis van het bemanningslid heeft plaatsgevonden en de vaar-, respectievelijk rusttijden, vermeld staan. Indien de rusttijd tijdens de vaart plaatsvond, is tevens een kopie van het binnenschipcertificaat van het betreffende schip vereist waaruit blijkt dat de maximale geluidsdruk in die ruimte van dit schip voldoet aan de voorschriften van [artikel 18.02, vierde li](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=18&artikel=18.02&z=2025-01-01&g=2025-01-01)d.
 
 ##### Artikel 18.04. Vaartijdenboek – Tachograaf
 
@@ -3493,9 +3491,9 @@ Er mag van deze tijden worden afgeweken, indien de vaartijd wordt geregistreerd 
 
 - 4. Bij de afgifte van het eerste vaartijdenboek overeenkomstig het eerste lid bevestigt de autoriteit die het eerste vaartijdenboek afgeeft, deze afgifte door middel van een verklaring waarop de naam van het schip, het uniek Europees identificatienummer (ENI) van het schip, het nummer van het vaartijdenboek en de datum van afgifte zijn vermeld. Deze verklaring wordt aan boord bewaard en wordt op verzoek getoond. De afgifte van latere vaartijdenboeken overeenkomstig het tweede lid moet door de bevoegde autoriteit op de verklaring worden aangetekend.
 
-- 5. De naleving van de rusttijden kan bovendien door middel van een tachograaf worden aangetoond, die voldoet aan de technische vereisten van [artikel 18.01, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=18&artikel=18.01&z=2024-08-08&g=2024-08-08). De registraties van de tachografen wordt gedurende zes maanden na de laatste registratie aan boord bewaard.
+- 5. De naleving van de rusttijden kan bovendien door middel van een tachograaf worden aangetoond, die voldoet aan de technische vereisten van [artikel 18.01, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=18&artikel=18.01&z=2025-01-01&g=2025-01-01). De registraties van de tachografen wordt gedurende zes maanden na de laatste registratie aan boord bewaard.
 
-- 6. Bij aflossing of versterking van de bemanning als bedoeld in [artikel 18.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=18&artikel=18.03&z=2024-08-08&g=2024-08-08) is voor ieder nieuw bemanningslid een verklaring overeenkomstig [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=8&z=2024-08-08&g=2024-08-08) of een kopie van de pagina met de aantekeningen van de vaar-, respectievelijk rusttijden uit het vaartijdenboek van het vaartuig waarop de laatste reis van het bemanningslid heeft plaatsgevonden, voorhanden.
+- 6. Bij aflossing of versterking van de bemanning als bedoeld in [artikel 18.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=18&artikel=18.03&z=2025-01-01&g=2025-01-01) is voor ieder nieuw bemanningslid een verklaring overeenkomstig [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=8&z=2025-01-01&g=2025-01-01) of een kopie van de pagina met de aantekeningen van de vaar-, respectievelijk rusttijden uit het vaartijdenboek van het vaartuig waarop de laatste reis van het bemanningslid heeft plaatsgevonden, voorhanden.
 
 - 7.
 
@@ -3509,7 +3507,7 @@ Er mag van deze tijden worden afgeweken, indien de vaartijd wordt geregistreerd 
 
 ##### Artikel 19.01. Uitrusting van vaartuigen
 
-- 1. Onverminderd de bepalingen van de [ES-TRIN](https://wetten.overheid.nl/jci1.3:c:BWBR0041395) voldoen motorschepen, duwboten, duwstellen en passagiersschepen, om met een minimumbemanning overeenkomstig deze [paragraaf](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=19&z=2024-08-08&g=2024-08-08) te worden geëxploiteerd, aan een van de volgende uitrustingsstandaarden:
+- 1. Onverminderd de bepalingen van de [ES-TRIN](https://wetten.overheid.nl/jci1.3:c:BWBR0041395) voldoen motorschepen, duwboten, duwstellen en passagiersschepen, om met een minimumbemanning overeenkomstig deze [paragraaf](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=19&z=2025-01-01&g=2025-01-01) te worden geëxploiteerd, aan een van de volgende uitrustingsstandaarden:
 
 - 1.1. Standaard S1
 
@@ -3635,7 +3633,7 @@ Er mag van deze tijden worden afgeweken, indien de vaartijd wordt geregistreerd 
 | 2 | Toegestaan aantal bedden: van 51 tot en met 100 | schipper stuurman volmatroos matroos lichtmatroos machinist | 1 1 – 1 – 1 | 1 1 – – 1 1 | 2 – – 1 – 1 | 2 – – – 1 1 | 3 – – 1 – 1 | 3 – – – 1 1 |
 | 3 | Toegestaan aantal bedden meer dan 100 | schipper stuurman volmatroos matroos lichtmatroos machinist | 1 of 1 1 1 – – 2 1 - 2 1 1 | 1 1 – 1 1 1 | 2 – – 3 – 1 | 2 – 1 1 1 1 | 3 – – 3 – 1 | 3 – 1 1 1 1 |
 
-- 4. Voor passagiersschepen zoals bedoeld in het eerste en het derde lid die zonder passagiers aan boord varen, wordt de minimumbemanning bepaald overeenkomstig [artikel 19.02](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=19&artikel=19.02&z=2024-08-08&g=2024-08-08).
+- 4. Voor passagiersschepen zoals bedoeld in het eerste en het derde lid die zonder passagiers aan boord varen, wordt de minimumbemanning bepaald overeenkomstig [artikel 19.02](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=19&artikel=19.02&z=2025-01-01&g=2025-01-01).
 
 - 5. De voorgeschreven matrozen overeenkomstig de in het eerste lid genoemde tabel mogen door lichtmatrozen worden vervangen die de minimumleeftijd van 17 jaar hebben bereikt, zich ten minste in het derde leerjaar bevinden en een jaar vaartijd in de binnenvaart kunnen aantonen.
 
@@ -3665,19 +3663,19 @@ Er mag van deze tijden worden afgeweken, indien de vaartijd wordt geregistreerd 
 
 - b). in de groep 3, exploitatiewijze A1, Standaard S1
 
-- 9. Bij dagtochtschepen met passagiers waarvan het aantal voor vertrek vaststaat en tijdens de vaart niet wijzigt (chartervaart), kan de overeenkomstig de groepen 2 tot en met 6 voorgeschreven minimumbemanning worden gereduceerd tot de eerst lagere groep, op voorwaarde dat het overeenkomstig de groepen 1 tot en met 6 toegelaten aantal passagiers tijdens de vaart lager is dan dit toegestane aantal. De eisen van [hoofdstuk 16](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=16&z=2024-08-08&g=2024-08-08), alsmede de eisen die gelden voor de bemanning en het boordpersoneel uit hoofde van de veiligheidsrol gelden onverminderd.
+- 9. Bij dagtochtschepen met passagiers waarvan het aantal voor vertrek vaststaat en tijdens de vaart niet wijzigt (chartervaart), kan de overeenkomstig de groepen 2 tot en met 6 voorgeschreven minimumbemanning worden gereduceerd tot de eerst lagere groep, op voorwaarde dat het overeenkomstig de groepen 1 tot en met 6 toegelaten aantal passagiers tijdens de vaart lager is dan dit toegestane aantal. De eisen van [hoofdstuk 16](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=16&z=2025-01-01&g=2025-01-01), alsmede de eisen die gelden voor de bemanning en het boordpersoneel uit hoofde van de veiligheidsrol gelden onverminderd.
 
 - 10. De machinisten die zijn voorgeschreven overeenkomstig de in het eerste tot derde lid genoemde tabellen mogen door bijkomende volmatrozen worden vervangen. Deze volmatrozen mogen door bijkomende matrozen worden vervangen, wanneer het aantal volmatrozen dat als minimumbemanning overeenkomstig de in het eerste tot derde lid genoemde tabellen is voorgeschreven, overeenstemt met het aantal te vervangen machinisten.
 
-##### Artikel 19.05. Afwijking van de in [artikel 19.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=19&artikel=19.01&z=2024-08-08&g=2024-08-08) voorgeschreven uitrusting
+##### Artikel 19.05. Afwijking van de in [artikel 19.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=19&artikel=19.01&z=2025-01-01&g=2025-01-01) voorgeschreven uitrusting
 
-- 1. Wanneer de uitrusting van een motorschip, een duwboot, een hecht samenstel, een andere hechte samenstelling of een passagiersschip niet voldoet aan de standaard S1, zoals bepaald in [artikel 19.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=19&artikel=19.01&z=2024-08-08&g=2024-08-08) van het onderhavige reglement, dient de minimumbemanning, zoals bedoeld in de [artikelen 19.02](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=19&artikel=19.02&z=2024-08-08&g=2024-08-08), [19.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=19&artikel=19.03&z=2024-08-08&g=2024-08-08) of [19.04](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=19&artikel=19.04&z=2024-08-08&g=2024-08-08), te worden verhoogd
+- 1. Wanneer de uitrusting van een motorschip, een duwboot, een hecht samenstel, een andere hechte samenstelling of een passagiersschip niet voldoet aan de standaard S1, zoals bepaald in [artikel 19.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=19&artikel=19.01&z=2025-01-01&g=2025-01-01) van het onderhavige reglement, dient de minimumbemanning, zoals bedoeld in de [artikelen 19.02](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=19&artikel=19.02&z=2025-01-01&g=2025-01-01), [19.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=19&artikel=19.03&z=2025-01-01&g=2025-01-01) of [19.04](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=19&artikel=19.04&z=2025-01-01&g=2025-01-01), te worden verhoogd
 
 - a). in de exploitatiewijze A1 en A2 telkens met één matroos, en
 
-- b). in de exploitatiewijze B met twee matrozen. Wordt alleen niet voldaan aan de gestelde eisen in de onderdelen g en j, respectievelijk de onderdelen g of j van de standaard S1, zoals bedoeld in [artikel 19.01, lid 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=19&artikel=19.01&z=2024-08-08&g=2024-08-08), dan wordt de bemanning bij exploitatiewijze B met één matroos in plaats van twee verhoogd.
+- b). in de exploitatiewijze B met twee matrozen. Wordt alleen niet voldaan aan de gestelde eisen in de onderdelen g en j, respectievelijk de onderdelen g of j van de standaard S1, zoals bedoeld in [artikel 19.01, lid 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=19&artikel=19.01&z=2025-01-01&g=2025-01-01), dan wordt de bemanning bij exploitatiewijze B met één matroos in plaats van twee verhoogd.
 
-- 2. Voldoet de uitrusting van een vaartuig slechts gedeeltelijk aan de standaard S1 zoals deze is bepaald in [artikel 19.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=19&artikel=19.01&z=2024-08-08&g=2024-08-08) van dit reglement, en niet aan één of meer van de in artikel 19.01, lid 1.1, onderdelen a tot en met c, van dit reglement gestelde eisen wordt voldaan, dan In het in de eerste zin bedoelde geval kunnen de volmatrozen door matrozen worden vervangen, indien de volmatrozen reeds deel uitmaken van de in [artikel 19.02](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=19&artikel=19.02&z=2024-08-08&g=2024-08-08), [artikel 19.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=19&artikel=19.03&z=2024-08-08&g=2024-08-08) of [artikel 19.04](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=19&artikel=19.04&z=2024-08-08&g=2024-08-08) voorgeschreven minimumbemanning.
+- 2. Voldoet de uitrusting van een vaartuig slechts gedeeltelijk aan de standaard S1 zoals deze is bepaald in [artikel 19.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=19&artikel=19.01&z=2025-01-01&g=2025-01-01) van dit reglement, en niet aan één of meer van de in artikel 19.01, lid 1.1, onderdelen a tot en met c, van dit reglement gestelde eisen wordt voldaan, dan In het in de eerste zin bedoelde geval kunnen de volmatrozen door matrozen worden vervangen, indien de volmatrozen reeds deel uitmaken van de in [artikel 19.02](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=19&artikel=19.02&z=2025-01-01&g=2025-01-01), [artikel 19.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=19&artikel=19.03&z=2025-01-01&g=2025-01-01) of [artikel 19.04](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=19&artikel=19.04&z=2025-01-01&g=2025-01-01) voorgeschreven minimumbemanning.
 
 - a). moet in de exploitatiewijzen A1 en A2 de matroos, zoals voorgeschreven in het eerste lid, onderdeel a, door een volmatroos, en;
 
@@ -3687,17 +3685,17 @@ Er mag van deze tijden worden afgeweken, indien de vaartijd wordt geregistreerd 
 
 ##### Artikel 19.06. Minimumbemanning van overige vaartuigen
 
-- 1. De Commissie van Deskundigen bepaalt voor de vaartuigen waarop de [artikelen 19.02 tot en met 19.04](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=19&artikel=19.02&z=2024-08-08&g=2024-08-08) niet van toepassing zijn (zoals sleepboten, sleepschepen en drijvende werktuigen) naar gelang hun afmetingen, bouwwijze, inrichting en benutting, welke bemanning zich tijdens de vaart aan boord moet bevinden.
+- 1. De Commissie van Deskundigen bepaalt voor de vaartuigen waarop de [artikelen 19.02 tot en met 19.04](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=19&artikel=19.02&z=2025-01-01&g=2025-01-01) niet van toepassing zijn (zoals sleepboten, sleepschepen en drijvende werktuigen) naar gelang hun afmetingen, bouwwijze, inrichting en benutting, welke bemanning zich tijdens de vaart aan boord moet bevinden.
 
-- 2. Ten aanzien van bunkerschepen, die slechts op korte riviergedeelten ingezet mogen worden, kan de Commissie van Deskundigen een minimumbemanning voorschrijven die afwijkt van [artikel 19.02](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=19&artikel=19.02&z=2024-08-08&g=2024-08-08).
+- 2. Ten aanzien van bunkerschepen, die slechts op korte riviergedeelten ingezet mogen worden, kan de Commissie van Deskundigen een minimumbemanning voorschrijven die afwijkt van [artikel 19.02](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=19&artikel=19.02&z=2025-01-01&g=2025-01-01).
 
 - 3. De Commissie van Deskundigen schrijft deze aantekeningen in onder nummer 48 van het binnenschipcertificaat.
 
 ##### Artikel 19.07. Minimumbemanning voor zeeschepen
 
-- 1. Voor de bepaling van de minimumbemanning van zeeschepen is [deel II](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&z=2024-08-08&g=2024-08-08) van dit reglement van toepassing.
+- 1. Voor de bepaling van de minimumbemanning van zeeschepen is [deel II](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&z=2025-01-01&g=2025-01-01) van dit reglement van toepassing.
 
-- 2. In afwijking van het eerste lid kunnen zeeschepen blijven varen onder de bemanningsregeling die voorzien is in de bepalingen van Resolutie A. 481 (XII) van de IMO en van de STCW-Overeenkomst, onder voorwaarde dat het aantal bemanningsleden ten minste overeenkomt met de minimumbemanning zoals voorgeschreven in [deel II](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&z=2024-08-08&g=2024-08-08) voor exploitatiewijze B, waarbij met name rekening dient te worden gehouden met [artikel 19.02](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=19&artikel=19.02&z=2024-08-08&g=2024-08-08) en [19.06](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=19&artikel=19.06&z=2024-08-08&g=2024-08-08) van dit reglement.
+- 2. In afwijking van het eerste lid kunnen zeeschepen blijven varen onder de bemanningsregeling die voorzien is in de bepalingen van Resolutie A. 481 (XII) van de IMO en van de STCW-Overeenkomst, onder voorwaarde dat het aantal bemanningsleden ten minste overeenkomt met de minimumbemanning zoals voorgeschreven in [deel II](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&z=2025-01-01&g=2025-01-01) voor exploitatiewijze B, waarbij met name rekening dient te worden gehouden met [artikel 19.02](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=19&artikel=19.02&z=2025-01-01&g=2025-01-01) en [19.06](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=19&artikel=19.06&z=2025-01-01&g=2025-01-01) van dit reglement.
 
 In dit geval moeten de dienovereenkomstige documenten waaruit de bekwaamheid van de bemanningsleden en hun aantal blijkt, aan boord aanwezig zijn. Bovendien bevindt zich een persoon aan boord die houder is van het kwalificatiecertificaat schipper dat geldig is voor het te bevaren riviergedeelte. Na een vaartijd van ten hoogste 14 uur per periode van 24 uur wordt deze houder van het kwalificatiecertificaat schipper door een andere houder van het kwalificatiecertificaat schipper vervangen.
 
@@ -3709,7 +3707,7 @@ In het logboek worden de volgende aantekeningen gemaakt:
 
 ##### Artikel 19.08. Minimumbemanning voor kanaalspitsen
 
-De bepalingen van dit [hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=19&z=2024-08-08&g=2024-08-08) zijn niet van toepassing op kanaalspitsen. Desalniettemin bestaat de bemanning ten minste uit:
+De bepalingen van dit [hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=19&z=2025-01-01&g=2025-01-01) zijn niet van toepassing op kanaalspitsen. Desalniettemin bestaat de bemanning ten minste uit:
 
 - –. een schipper die houder is van een patent als bedoeld in dit reglement;
 
@@ -3717,7 +3715,7 @@ De bepalingen van dit [hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR003021
 
 ##### Artikel 19.09. Minimumbemanning voor pleziervaartuigen
 
-De bepalingen van dit [hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=19&z=2024-08-08&g=2024-08-08) zijn niet van toepassing op pleziervaartuigen.
+De bepalingen van dit [hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=19&z=2025-01-01&g=2025-01-01) zijn niet van toepassing op pleziervaartuigen.
 
 Desalniettemin moet de bemanning ten minste bestaan uit:
 
@@ -3737,7 +3735,7 @@ Voor de vaart beneden het Spijksche Veer (km 857,40) kan, voor zover de Duits-Ne
 
 - 1. Dienstboekjes die werden afgegeven overeenkomstig de voorschriften die van toepassing waren tot aan de inwerkingtreding van dit reglement dan wel waarvan de geldigheid verlengd werd, blijven geldig met inachtneming van die voorschriften tot aan het einde van de geldigheidsduur, uiterlijk echter tot en met 17 januari 2032. De eerste zin geldt ook voor door de CCR als gelijkwaardig erkende dienstboekjes.
 
-- 2. De houder van een dienstboekje als bedoeld in het eerste lid kan voor 18 januari 2032 een nieuw dienstboekje met de bestaande kwalificaties aanvragen dat zal worden afgegeven op grond van het onderhavige reglement. Voor de afgifte van dit dienstboekje gelden de bepalingen van [artikel 5.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=5&artikel=5.01&z=2024-08-08&g=2024-08-08) van dit reglement. Indien de aanvrager ouder is dan 60 jaar, moet hij bovendien zijn medische geschiktheid aantonen zoals bedoeld in [artikel 4.02](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=4&artikel=4.02&z=2024-08-08&g=2024-08-08). Zijn medische verklaring mag niet ouder zijn dan drie maanden. Indien de houder een nieuwe beroepskwalificatie wil toevoegen of de vervanging van een document wordt aangevraagd overeenkomstig [artikel 3.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=3&artikel=3.03&z=2024-08-08&g=2024-08-08) van dit reglement, geeft de bevoegde autoriteit een nieuw dienstboekje af overeenkomstig de ES-QIN (Deel V, hoofdstuk 2).
+- 2. De houder van een dienstboekje als bedoeld in het eerste lid kan voor 18 januari 2032 een nieuw dienstboekje met de bestaande kwalificaties aanvragen dat zal worden afgegeven op grond van het onderhavige reglement. Voor de afgifte van dit dienstboekje gelden de bepalingen van [artikel 5.01](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=5&artikel=5.01&z=2025-01-01&g=2025-01-01) van dit reglement. Indien de aanvrager ouder is dan 60 jaar, moet hij bovendien zijn medische geschiktheid aantonen zoals bedoeld in [artikel 4.02](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=4&artikel=4.02&z=2025-01-01&g=2025-01-01). Zijn medische verklaring mag niet ouder zijn dan drie maanden. Indien de houder een nieuwe beroepskwalificatie wil toevoegen of de vervanging van een document wordt aangevraagd overeenkomstig [artikel 3.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=3&artikel=3.03&z=2025-01-01&g=2025-01-01) van dit reglement, geeft de bevoegde autoriteit een nieuw dienstboekje af overeenkomstig de ES-QIN (Deel V, hoofdstuk 2).
 
 - 3. De houder van een dienstboekje als bedoeld in het eerste lid, kan vóór 18 januari 2032 een nieuw dienstboekje met een kwalificatiecertificaat waarvoor de eisen hoger zijn, aanvragen, indien aan de volgende voorwaarden is voldaan: De vaarervaring moet worden aangetoond door middel van een dienstboekje, logboek of ander bewijsmateriaal. Deze minimumduur van de vaartijd, zoals bepaald in dit lid, onder a, b en c, kan met ten hoogste 360 dagen vaartijd worden verminderd wanneer de aanvrager een opleidingsprogramma heeft gevolgd dat is vermeld onder nr. 1 of nr. 3 van deel II van de lijsten en overzichten voor de implementatie van het RSP.
 
@@ -3747,7 +3745,7 @@ Voor de vaart beneden het Spijksche Veer (km 857,40) kan, voor zover de Duits-Ne
 
 - c. voor een kwalificatiecertificaat voor een stuurman: 1.080 dagen vaartijd inclusief ten minste 720 dagen in de binnenvaart.
 
-- 4. Het dienstboekje kan bij elke bevoegde autoriteit van een lidstaat van de CCR worden aangevraagd, zoals voorzien in het tweede en derde lid. De bevoegde autoriteit geeft het dienstboekje af op grond van het onderhavige reglement wanneer de aanvrager zijn oude dienstboekje zoals bedoeld in het eerste lid en een kopie van zijn identiteitsbewijs heeft overgelegd. Indien de aanvrager ouder is dan 60 jaar, moet hij bovendien zijn medische geschiktheid aantonen zoals bedoeld in [artikel 4.02](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=4&artikel=4.02&z=2024-08-08&g=2024-08-08). Zijn medische verklaring mag niet ouder zijn dan drie maanden.
+- 4. Het dienstboekje kan bij elke bevoegde autoriteit van een lidstaat van de CCR worden aangevraagd, zoals voorzien in het tweede en derde lid. De bevoegde autoriteit geeft het dienstboekje af op grond van het onderhavige reglement wanneer de aanvrager zijn oude dienstboekje zoals bedoeld in het eerste lid en een kopie van zijn identiteitsbewijs heeft overgelegd. Indien de aanvrager ouder is dan 60 jaar, moet hij bovendien zijn medische geschiktheid aantonen zoals bedoeld in [artikel 4.02](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=4&artikel=4.02&z=2025-01-01&g=2025-01-01). Zijn medische verklaring mag niet ouder zijn dan drie maanden.
 
 ##### Artikel 20.02. Geldigheid van het vaartijdenboek
 
@@ -3759,7 +3757,7 @@ Voor de vaart beneden het Spijksche Veer (km 857,40) kan, voor zover de Duits-Ne
 
 - 1. Een groot of klein Rijnpatent dat is afgegeven overeenkomstig de voorschriften die van toepassing waren tot aan de inwerkingtreding van dit reglement dan wel waarvan de geldigheid verlengd werd, blijft geldig met inachtneming van die voorschriften tot het einde van de geldigheidsduur, uiterlijk echter tot en met 17 januari 2032.
 
-- 2. De in het eerste lid genoemde Rijnpatenten kunnen voor het einde van de in dit lid genoemde geldigheidsduur op grond van dit reglement worden ingewisseld. Om een klein Rijnpatent in te kunnen ruilen moet de houder aantonen dat hij na verkrijging van dit kleine Rijnpatent op zijn minst een jaar gevaren heeft. Het dienstboekje kan bij elke bevoegde autoriteit van een lidstaat van de CCR worden ingewisseld. De bevoegde autoriteit geeft een Rijnpatent af op grond van het onderhavige reglement, wanneer de aanvrager zijn oude Rijnpatent zoals bedoeld in het eerste lid en een kopie van zijn identiteitsbewijs heeft voorgelegd. Indien de aanvrager ouder is dan 60 jaar, moet hij bovendien zijn medische geschiktheid aantonen zoals bedoeld in [artikel 4.02](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=4&artikel=4.02&z=2024-08-08&g=2024-08-08). Zijn medisch verklaring mag niet ouder zijn dan drie maanden.
+- 2. De in het eerste lid genoemde Rijnpatenten kunnen voor het einde van de in dit lid genoemde geldigheidsduur op grond van dit reglement worden ingewisseld. Om een klein Rijnpatent in te kunnen ruilen moet de houder aantonen dat hij na verkrijging van dit kleine Rijnpatent op zijn minst een jaar gevaren heeft. Het dienstboekje kan bij elke bevoegde autoriteit van een lidstaat van de CCR worden ingewisseld. De bevoegde autoriteit geeft een Rijnpatent af op grond van het onderhavige reglement, wanneer de aanvrager zijn oude Rijnpatent zoals bedoeld in het eerste lid en een kopie van zijn identiteitsbewijs heeft voorgelegd. Indien de aanvrager ouder is dan 60 jaar, moet hij bovendien zijn medische geschiktheid aantonen zoals bedoeld in [artikel 4.02](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=1&hoofdstuk=4&artikel=4.02&z=2025-01-01&g=2025-01-01). Zijn medisch verklaring mag niet ouder zijn dan drie maanden.
 
 - 3. De op de Rijn door de CCR als gelijkwaardig erkende vaarbewijzen voor schipper blijven geldig tot aan het einde van de geldigheidsduur, uiterlijk echter tot en met 17 januari 2032. Deze vaarbewijzen kunnen volgens de in het tweede lid genoemde procedure bij een bevoegde autoriteit tegen een Rijnpatent worden ingewisseld.
 
@@ -3769,19 +3767,19 @@ De overheids- en sportpatenten die geldig zijn op grond van de voorschriften die
 
 ##### Artikel 20.05. Geldigheid van reeds bestaande kennis van riviergedeelten
 
-De houder van een groot of klein Rijnpatent, een overheids- of sportpatent dat werd afgegeven overeenkomstig de voorschriften die van toepassing waren tot aan de inwerkingtreding van dit reglement dan wel waarvan de geldigheid verlengd werd en die voor de in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=5&z=2024-08-08&g=2024-08-08) van dit reglement genoemde riviergedeelten met succes het examen afgelegd heeft dat in dit reglement voorgeschreven is, mag met inachtneming van die voorschriften de riviergedeelten waarvoor het genoemde examen voor het bewijs van kennis van riviergedeelten werd afgelegd, blijven bevaren.
+De houder van een groot of klein Rijnpatent, een overheids- of sportpatent dat werd afgegeven overeenkomstig de voorschriften die van toepassing waren tot aan de inwerkingtreding van dit reglement dan wel waarvan de geldigheid verlengd werd en die voor de in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=5&z=2025-01-01&g=2025-01-01) van dit reglement genoemde riviergedeelten met succes het examen afgelegd heeft dat in dit reglement voorgeschreven is, mag met inachtneming van die voorschriften de riviergedeelten waarvoor het genoemde examen voor het bewijs van kennis van riviergedeelten werd afgelegd, blijven bevaren.
 
 ##### Artikel 20.06. Geldigheid van een reeds bestaand bewijs van kennis van riviergedeelten
 
-- 1. Indien de houder van een op de Rijn als gelijkwaardig erkend vaarbewijs voor schipper een bewijs van kennis van riviergedeelten heeft voor de in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=5&z=2024-08-08&g=2024-08-08) van dit reglement genoemde riviergedeelten, mag hij de desbetreffende riviergedeelten blijven bevaren tot en met 17 januari 2032.
+- 1. Indien de houder van een op de Rijn als gelijkwaardig erkend vaarbewijs voor schipper een bewijs van kennis van riviergedeelten heeft voor de in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&bijlage=5&z=2025-01-01&g=2025-01-01) van dit reglement genoemde riviergedeelten, mag hij de desbetreffende riviergedeelten blijven bevaren tot en met 17 januari 2032.
 
-- 2. Het bewijs van kennis van riviergedeelten zoals bedoeld in het eerste lid toont aan dat de houder beschikt over de specifieke vergunning voor het bevaren van de dienovereenkomstige binnenwateren met specifieke risico’s zoals bepaald in [artikel 13.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=13&artikel=13.03&z=2024-08-08&g=2024-08-08).
+- 2. Het bewijs van kennis van riviergedeelten zoals bedoeld in het eerste lid toont aan dat de houder beschikt over de specifieke vergunning voor het bevaren van de dienovereenkomstige binnenwateren met specifieke risico’s zoals bepaald in [artikel 13.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=13&artikel=13.03&z=2025-01-01&g=2025-01-01).
 
 ##### Artikel 20.07. Geldigheid van de specifieke vergunning voor binnenwateren van maritieme aard
 
-- 1. Met een groot of klein Rijnpatent zoals bedoeld in [artikel 20.03, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=IV&hoofdstuk=20&artikel=20.03&z=2024-08-08&g=2024-08-08), mag tot aan het einde van de geldigheidsduur, uiterlijk echter tot en met 17 januari 2032, gevaren worden op binnenwateren van maritieme aard zoals bedoeld in [artikel 13.04](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=13&artikel=13.04&z=2024-08-08&g=2024-08-08).
+- 1. Met een groot of klein Rijnpatent zoals bedoeld in [artikel 20.03, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=IV&hoofdstuk=20&artikel=20.03&z=2025-01-01&g=2025-01-01), mag tot aan het einde van de geldigheidsduur, uiterlijk echter tot en met 17 januari 2032, gevaren worden op binnenwateren van maritieme aard zoals bedoeld in [artikel 13.04](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=13&artikel=13.04&z=2025-01-01&g=2025-01-01).
 
-- 2. Als het groot of klein Rijnpatent zoals bedoeld in [artikel 20.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=IV&hoofdstuk=20&artikel=20.03&z=2024-08-08&g=2024-08-08) wordt ingewisseld, wordt het nieuwe Rijnpatent meteen afgegeven met de specifieke vergunning voor het bevaren van binnenwateren van maritieme aard zoals bedoeld in [artikel 13.04](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=13&artikel=13.04&z=2024-08-08&g=2024-08-08).
+- 2. Als het groot of klein Rijnpatent zoals bedoeld in [artikel 20.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=IV&hoofdstuk=20&artikel=20.03&z=2025-01-01&g=2025-01-01) wordt ingewisseld, wordt het nieuwe Rijnpatent meteen afgegeven met de specifieke vergunning voor het bevaren van binnenwateren van maritieme aard zoals bedoeld in [artikel 13.04](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=13&artikel=13.04&z=2025-01-01&g=2025-01-01).
 
 ##### Artikel 20.08. Geldigheid van kwalificatiecertificaten krachtens de STCW-Overeenkomst
 
@@ -3791,7 +3789,7 @@ Bemanningsleden van zeeschepen die op de Rijn varen, kunnen hun kwalificatie bew
 
 - 1. Radarpatenten die zijn afgegeven overeenkomstig de voorschriften die van toepassing waren tot aan de inwerkingtreding van dit reglement of waarvan de geldigheid verlengd werd, blijven met inachtneming van die voorschriften geldig voor het varen met behulp van radar op de Rijn tot aan het einde van de geldigheidsduur.
 
-- 2. Met het omruilen van een groot of klein Rijnpatent zoals bedoeld in [artikel 20.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=IV&hoofdstuk=20&artikel=20.03&z=2024-08-08&g=2024-08-08) wordt het nieuwe Rijnpatent meteen afgegeven met de specifieke vergunning om met behulp van radar te mogen varen zoals bedoeld in [artikel 13.02](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=13&artikel=13.02&z=2024-08-08&g=2024-08-08).
+- 2. Met het omruilen van een groot of klein Rijnpatent zoals bedoeld in [artikel 20.03](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=IV&hoofdstuk=20&artikel=20.03&z=2025-01-01&g=2025-01-01) wordt het nieuwe Rijnpatent meteen afgegeven met de specifieke vergunning om met behulp van radar te mogen varen zoals bedoeld in [artikel 13.02](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=13&artikel=13.02&z=2025-01-01&g=2025-01-01).
 
 - 3. De houder van een op de Rijn als gelijkwaardig erkend radarpatent mag blijven varen met behulp van radar tot en met 17 januari 2032.
 
@@ -3799,7 +3797,7 @@ Bemanningsleden van zeeschepen die op de Rijn varen, kunnen hun kwalificatie bew
 
 - 1. De verklaringen deskundige voor de passagiersvaart en de verklaringen van deskundigheid aangaande het gebruik van vloeibaar aardgas (LNG) als brandstof die door de bevoegde instanties overeenkomstig de voorschriften die van toepassing waren tot aan de inwerkingtreding van dit reglement werden afgegeven of waarvan de geldigheid verlengd werd, blijven geldig met inachtneming van die voorschriften tot aan het einde van hun huidige geldigheidsduur.
 
-- 2. Houders van de in het eerste lid genoemde verklaringen kunnen voor het einde van de geldigheidsduur van de verklaring bij de bevoegde autoriteiten een aanvraag indienen voor de afgifte van een nieuw kwalificatiecertificaat overeenkomstig [artikel 15.06](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=15&artikel=15.06&z=2024-08-08&g=2024-08-08) of [artikel 16.10](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=16&artikel=16.10&z=2024-08-08&g=2024-08-08). De bevoegde autoriteit geeft het aangevraagde kwalificatiecertificaat af wanneer de aanvrager zijn oude verklaring zoals bedoeld in het eerste lid en een kopie van zijn identiteitsbewijs, alsmede de in artikel 15.06 of de in artikel 16.10 vereiste bewijzen heeft voorgelegd.
+- 2. Houders van de in het eerste lid genoemde verklaringen kunnen voor het einde van de geldigheidsduur van de verklaring bij de bevoegde autoriteiten een aanvraag indienen voor de afgifte van een nieuw kwalificatiecertificaat overeenkomstig [artikel 15.06](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=15&artikel=15.06&z=2025-01-01&g=2025-01-01) of [artikel 16.10](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=4&hoofdstuk=16&artikel=16.10&z=2025-01-01&g=2025-01-01). De bevoegde autoriteit geeft het aangevraagde kwalificatiecertificaat af wanneer de aanvrager zijn oude verklaring zoals bedoeld in het eerste lid en een kopie van zijn identiteitsbewijs, alsmede de in artikel 15.06 of de in artikel 16.10 vereiste bewijzen heeft voorgelegd.
 
 ##### Artikel 20.11. Erkenning van vaartijd
 
@@ -3848,6 +3846,8 @@ De lichamelijke en geestelijke geschiktheid van de bovengenoemde persoon werd on
 - □. 08 Beperkt tot het volgende vaargebied: ...............
 
 - □. 09 Beperkt tot de volgende taak: ...............
+
+- □. Geschikt op voorwaarde dat het vaarbewijs overeenkomstig [Richtlijn 96/50/EG](31996L0050) is afgegeven vóór 1 april 2004
 
 Stempel
 
@@ -3954,11 +3954,11 @@ De lijst van de overheidspatenten van de Rijnoeverstaten en België, alsmede de 
 
 ## Bijlage 7. Verklaring persluchtmaskerdrager in de passagiersvaart (Model)
 
-## Bijlage 8. Verklaring voor het aantonen van de vereiste rusttijd, bedoeld in [artikel 18.03, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=18&artikel=18.03&z=2024-08-08&g=2024-08-08) (Model)
+## Bijlage 8. Verklaring voor het aantonen van de vereiste rusttijd, bedoeld in [artikel 18.03, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=III&hoofdstuk=18&artikel=18.03&z=2025-01-01&g=2025-01-01) (Model)
 
 (geldt alleen tezamen met het dienstboekje,
 
-respectievelijk met het kwalificatiecertificaat schipper zoals bedoeld in [artikel 11.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=11&artikel=11.01&z=2024-08-08&g=2024-08-08), respectievelijk het voorlopig Rijnpatent zoals bedoeld in [artikel 12.08 Rsp](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=12&artikel=12.08&z=2024-08-08&g=2024-08-08))
+respectievelijk met het kwalificatiecertificaat schipper zoals bedoeld in [artikel 11.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=11&artikel=11.01&z=2025-01-01&g=2025-01-01), respectievelijk het voorlopig Rijnpatent zoals bedoeld in [artikel 12.08 Rsp](https://wetten.overheid.nl/jci1.3:c:BWBR0030215&deel=II&paragraaf=3&hoofdstuk=12&artikel=12.08&z=2025-01-01&g=2025-01-01))
 
 Naam en voornaam:
 
