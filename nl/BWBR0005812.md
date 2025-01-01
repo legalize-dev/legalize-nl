@@ -4,7 +4,7 @@ identifier: "BWBR0005812"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2023-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005812"
 soort: "ministeriele-regeling"
@@ -116,15 +116,33 @@ Indien alcoholvrije dranken zijn verpakt in kleinhandelsverpakking, wordt het vo
 
 ##### Artikel 10
 
-In afwijking van het in [artikel 14, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=14) van overeenkomstige toepassing verklaarde [artikel 40, tweede lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=40) kunnen als inrichting in aanmerking komen:
+1. In afwijking van het in [artikel 14, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=14) van overeenkomstige toepassing verklaarde [artikel 40, tweede lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=40) kunnen als inrichting in aanmerking komen:
 
-- a. plaatsen van waaruit alcoholvrije dranken worden geleverd met vrijstelling van belasting als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=IV&afdeling=1&artikel=19&z=2023-01-01&g=2023-01-01);
+- a. plaatsen van waaruit alcoholvrije dranken worden geleverd met vrijstelling van belasting als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=IV&afdeling=1&artikel=19&z=2025-01-01&g=2025-01-01);
 
 - b. plaatsen van waaruit, onder door de inspecteur te stellen voorwaarden, alcoholvrije dranken worden afgeleverd aan verbruikers;
 
 - c. plaatsen waarvoor een vergunning als bedoeld in [artikel 15a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=15a) is verleend;
 
 - d. plaatsen van waaruit door buitenlandse NAVO-strijdkrachten als bedoeld in het in [artikel 31 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=31) van overeenkomstige toepassing verklaarde [artikel 69 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=69) alcoholvrije dranken rechtstreeks worden geleverd aan personeel van die strijdkrachten of hun gezinsleden.
+
+2. Voor de toepassing van dit artikel wordt verstaan onder:
+
+- a. **NAVO-statusverdrag:** het op 19 juni 1951 te Londen tot stand gekomen Verdrag tussen de Staten die partij zijn bij het Noord-Atlantisch Verdrag, nopens de rechtspositie van hun krijgsmachten (Trb. 1951, 114);
+
+- b. **Hoofdkwartierenprotocol:** het op 28 augustus 1952 te Parijs tot stand gekomen Protocol bij het op 19 juni 1951 te Londen gesloten Verdrag tussen de Staten die partij zijn bij het Noord-Atlantische Verdrag – nopens de rechtspositie van hun krijgsmachten – nopens de rechtspositie van internationale militaire hoofdkwartieren, ingesteld uit hoofde van het Noord-Atlantisch Verdrag (Trb. 1953, 11);
+
+- c. **gezinslid:**
+
+- 1°. een inwonende persoon als bedoeld in artikel I, eerste lid, aanhef en onderdeel c, van het NAVO-Statusverdrag of als bedoeld in artikel 3, eerste lid, aanhef en onderdeel c, van het Hoofdkwartierenprotocol;
+
+- 2°. een niet-inwonend kind als bedoeld in artikel I, eerste lid, aanhef en onderdeel c, van het NAVO-Statusverdrag of als bedoeld in artikel 3, eerste lid, aanhef en onderdeel c, van het Hoofdkwartierenprotocol dat afhankelijk is van een lid van een krijgsmacht of civiele dienst voor zijn onderhoud, voor zover dat kind zich op Nederlands grondgebied bevindt;
+
+- 3°. een niet-inwonende partner als bedoeld in artikel I, eerste lid, aanhef en onderdeel c, van het NAVO-Statusverdrag of als bedoeld in artikel 3, eerste lid, aanhef en onderdeel c, van het Hoofdkwartierenprotocol, voor zover die partner zich op Nederlands grondgebied bevindt;
+
+- 4°. een persoon voor wie een NAVO-strijdkracht (Delegatieleider) verklaart dat deze de status heeft van ‘afgeleide NAVO-statusgerechtigde ’of ‘afgeleide Paris Protocol-gerechtigde’;
+
+- 5°. een partner als bedoeld in [artikel 5a van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5a).
 
 ##### Artikel 11
 
@@ -186,7 +204,7 @@ In afwijking van het in [artikel 14, tweede lid, van de wet](https://wetten.over
 
 - gemiddeld in een aangiftetijdvak met een vervoersopdracht vanuit een derde land, vanuit een plaats voor tijdelijke opslag of na beëindiging van een EU-douaneregeling wordt overgebracht naar de inrichting.
 
-3. Indien op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=III&afdeling=2&artikel=13&z=2023-01-01&g=2023-01-01) toestemming is verleend voor het doen van één aangifte voor twee of meer inrichtingen worden de afzonderlijke zekerheidstellingen voor de desbetreffende inrichtingen vervangen door één zekerheid die voor die inrichtingen tezamen van toepassing is. Het hierbij in acht te nemen belastingbelang wordt gevormd door het totale belastingbelang dat op basis van het tweede lid voor de desbetreffende inrichtingen is vastgesteld.
+3. Indien op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=III&afdeling=2&artikel=13&z=2025-01-01&g=2025-01-01) toestemming is verleend voor het doen van één aangifte voor twee of meer inrichtingen worden de afzonderlijke zekerheidstellingen voor de desbetreffende inrichtingen vervangen door één zekerheid die voor die inrichtingen tezamen van toepassing is. Het hierbij in acht te nemen belastingbelang wordt gevormd door het totale belastingbelang dat op basis van het tweede lid voor de desbetreffende inrichtingen is vastgesteld.
 
 4. De zekerheid bedraagt ten minste 5 percent en ten hoogste 100 percent van het belastingbelang met een maximum van € 2.250.000.
 
@@ -282,7 +300,7 @@ In afwijking van het in [artikel 14, tweede lid, van de wet](https://wetten.over
 
 - b. ingeval de na afloop van het onderzoek, de controle of de smaaktest resterende alcoholvrije dranken worden overgebracht naar een derde land: elektronische of geprinte exemplaren van het uitvoergeleidedocument of de aangifte ten uitvoer alsmede van de bevestiging van uitgang, welke documenten zijn vereist op grond van de wettelijke bepalingen, bedoeld in [artikel 1:1, eerste en tweede lid, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:1);
 
-- c. ingeval de na afloop van het onderzoek, de controle of de smaaktest resterende alcoholvrije dranken worden overgebracht naar een andere lidstaat: een afschrift van het bescheid als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=I&afdeling=2&artikel=4&z=2023-01-01&g=2023-01-01).
+- c. ingeval de na afloop van het onderzoek, de controle of de smaaktest resterende alcoholvrije dranken worden overgebracht naar een andere lidstaat: een afschrift van het bescheid als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=I&afdeling=2&artikel=4&z=2025-01-01&g=2025-01-01).
 
 - d. ingeval de na afloop van het onderzoek, de controle of de smaaktest resterende alcoholvrije dranken worden vernietigd onder ambtelijk toezicht een afschrift van de ter zake opgemaakte ambtelijke verklaring.
 
