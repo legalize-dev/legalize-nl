@@ -4,7 +4,7 @@ identifier: "BWBR0043000"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-29"
-last_updated: "2020-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043000"
 soort: "ministeriele-regeling"
@@ -113,7 +113,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - h. autoriteiten in binnen- en buitenland, in rang gelijk aan of hoger dan de Minister.
 
-2. De secretaris-generaal kan de stukken bedoeld in het eerste lid, onderdelen a tot en met h, afdoen en ondertekenen indien daarover afspraken zijn gemaakt tussen de Minister en de secretaris-generaal. In dat geval ondertekent de secretaris-generaal de stukken op de in [artikel 16, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043000&paragraaf=6&artikel=16&z=2020-01-01&g=2020-01-01), voorgeschreven wijze.
+2. De secretaris-generaal kan de stukken bedoeld in het eerste lid, onderdelen a tot en met h, afdoen en ondertekenen indien daarover afspraken zijn gemaakt tussen de Minister en de secretaris-generaal. In dat geval ondertekent de secretaris-generaal de stukken op de in [artikel 16, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043000&paragraaf=6&artikel=16&z=2020-01-01&g=2025-01-01), voorgeschreven wijze.
 
 ##### Artikel 5. Mandaat secretaris-generaal
 
@@ -183,7 +183,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 9. Algemene instructie over de verlening van ondermandaat aan diensthoofden
 
-De secretaris-generaal maakt gebruik van de hem in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043000&paragraaf=4&artikel=8&z=2020-01-01&g=2020-01-01), van de in dit Mandaatbesluit bedoelde bevoegdheid tot het verlenen van ondermandaat en neemt daarbij het bepaalde in de hierna volgende [artikelen 10 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0043000&paragraaf=4.1&artikel=10&z=2020-01-01&g=2020-01-01) in acht.
+De secretaris-generaal maakt gebruik van de hem in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043000&paragraaf=4&artikel=8&z=2020-01-01&g=2025-01-01), van de in dit Mandaatbesluit bedoelde bevoegdheid tot het verlenen van ondermandaat en neemt daarbij het bepaalde in de hierna volgende [artikelen 10 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0043000&paragraaf=4.1&artikel=10&z=2020-01-01&g=2025-01-01) in acht.
 
 ##### Artikel 10. Diensthoofden
 
@@ -227,7 +227,7 @@ De secretaris-generaal maakt gebruik van de hem in [artikel 8, eerste lid](https
 
 ##### Artikel 13. Advies Unitmanager Personeel, Organisatie en Innovatie
 
-1. Op grond van het krachtens [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043000&paragraaf=4.1&artikel=10&z=2020-01-01&g=2020-01-01) verleende mandaat, neemt een diensthoofd, plaatsvervangend diensthoofd of medewerker eerst een besluit na daartoe verkregen advies van de Unitmanager Personeel, Organisatie en Innovatie ten aanzien van de volgende aangelegenheden:
+1. Op grond van het krachtens [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043000&paragraaf=4.1&artikel=10&z=2020-01-01&g=2025-01-01) verleende mandaat, neemt een diensthoofd, plaatsvervangend diensthoofd of medewerker eerst een besluit na daartoe verkregen advies van de Unitmanager Personeel, Organisatie en Innovatie ten aanzien van de volgende aangelegenheden:
 
 - a. aangelegenheden waarbij wordt afgeweken van de hoofdlijnen van het vastgestelde personeelsbeleid;
 
@@ -239,7 +239,7 @@ De secretaris-generaal maakt gebruik van de hem in [artikel 8, eerste lid](https
 
 2. Het diensthoofd kan, voor zover niet anders is bepaald, bij het verlenen van ondermandaat tevens de bevoegdheid toekennen tot het verlenen van ondermandaat aan een rechtstreeks onder de gemandateerde ressorterende medewerker of in bijzondere gevallen aan een andere medewerker.
 
-3. Het verlenen van ondermandaat door het diensthoofd voor het aangaan van financiële materiële verplichtingen en het doen van uitgaven is enkel mogelijk aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043000&bijlage=1&z=2020-01-01&g=2020-01-01) van dit besluit genoemde, onder hem ressorterende medewerkers, met inachtneming van het aldaar genoemde maximumgrensbedrag per financiële materiële verplichting.
+3. Het verlenen van ondermandaat door het diensthoofd voor het aangaan van financiële materiële verplichtingen en het doen van uitgaven is enkel mogelijk aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043000&bijlage=1&z=2020-01-01&g=2025-01-01) van dit besluit genoemde, onder hem ressorterende medewerkers, met inachtneming van het aldaar genoemde maximumgrensbedrag per financiële materiële verplichting.
 
 #### § 5. Beheer van dit besluit
 
@@ -285,7 +285,7 @@ namens deze,
 
 3. Het eerste en tweede lid zijn niet van toepassing op digitale besluiten die worden genomen via het P-Direktportaal.
 
-4. Buiten de in [artikel 4, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043000&paragraaf=3&artikel=4&z=2020-01-01&g=2020-01-01) bedoelde gevallen kan, indien door afwezigheid of ontstentenis een door de minister genomen besluit niet door hem kan worden
+4. Buiten de in [artikel 4, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043000&paragraaf=3&artikel=4&z=2020-01-01&g=2025-01-01) bedoelde gevallen kan, indien door afwezigheid of ontstentenis een door de minister genomen besluit niet door hem kan worden
 
 ondertekend, een dergelijk besluit namens de minister worden ondertekend door de secretaris-generaal, tenzij de aard van de bevoegdheid of een wettelijk voorschrift zich daartegen verzet. In een dergelijk geval geschiedt het ondertekenen als volgt:
 
@@ -353,22 +353,22 @@ Dit besluit wordt aangehaald als: Mandaatbesluit Algemene Zaken 2020.
 
 ## Bijlage 1
 
-Maximumbedragen voor het aangaan van financiële materiële verplichtingen en het doen van uitgaven als bedoeld in [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043000&paragraaf=4.1&artikel=14&z=2020-01-01&g=2020-01-01), van het Mandaatbesluit Algemene Zaken 2020. Bedragen zijn per financiële materiële verplichting, in euro’s en inclusief BTW.
+Maximumbedragen voor het aangaan van financiële materiële verplichtingen en het doen van uitgaven als bedoeld in [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043000&paragraaf=4.1&artikel=14&z=2020-01-01&g=2025-01-01), van het Mandaatbesluit Algemene Zaken 2020. Bedragen zijn per financiële materiële verplichting, in euro’s en inclusief BTW.
 
-| Plaatsvervangend hoofd Kabinet Minister- President | Voor het maximumbedrag zie [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043000&paragraaf=4.1&artikel=10&z=2020-01-01&g=2020-01-01) (als plaatsvervanger van het diensthoofd). |
+| Plaatsvervangend hoofd Kabinet Minister- President | Voor het maximumbedrag zie [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043000&paragraaf=4.1&artikel=10&z=2020-01-01&g=2025-01-01) (als plaatsvervanger van het diensthoofd). |
 | --- | --- |
 | Secretaris-Ministerraad | Tot € 30.000,– |
 
-| Plaatsvervangend directeur-generaal Rijksvoorlichtingsdienst | Voor het maximumbedrag zie [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043000&paragraaf=4.1&artikel=10&z=2020-01-01&g=2020-01-01) (als plaatsvervanger van het diensthoofd). |
+| Plaatsvervangend directeur-generaal Rijksvoorlichtingsdienst | Voor het maximumbedrag zie [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043000&paragraaf=4.1&artikel=10&z=2020-01-01&g=2025-01-01) (als plaatsvervanger van het diensthoofd). |
 | --- | --- |
-| Directeur Rijksvoorlichtingsdienst | Voor het maximumbedrag zie [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043000&paragraaf=4.1&artikel=10&z=2020-01-01&g=2020-01-01) (als plaatsvervanger van het diensthoofd). |
+| Directeur Rijksvoorlichtingsdienst | Voor het maximumbedrag zie [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043000&paragraaf=4.1&artikel=10&z=2020-01-01&g=2025-01-01) (als plaatsvervanger van het diensthoofd). |
 | Hoofd Communicatie Koninklijk Huis | Tot € 30.000,– |
 | Hoofd Communicatie Algemeen Regeringsbeleid | Tot € 30.000,– |
 
-| Plaatsvervangend directeur Financieel-Economische Zaken | Voor het maximum bedrag zie [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043000&paragraaf=4.1&artikel=10&z=2020-01-01&g=2020-01-01) (als plaatsvervanger van het diensthoofd). |
+| Plaatsvervangend directeur Financieel-Economische Zaken | Voor het maximum bedrag zie [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043000&paragraaf=4.1&artikel=10&z=2020-01-01&g=2025-01-01) (als plaatsvervanger van het diensthoofd). |
 | --- | --- |
 
-| Plaatsvervangend directeur Bedrijfsvoering | Voor het maximumbedrag zie [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043000&paragraaf=4.1&artikel=10&z=2020-01-01&g=2020-01-01) (als plaatsvervanger van het diensthoofd). |
+| Plaatsvervangend directeur Bedrijfsvoering | Voor het maximumbedrag zie [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043000&paragraaf=4.1&artikel=10&z=2020-01-01&g=2025-01-01) (als plaatsvervanger van het diensthoofd). |
 | --- | --- |
 | Unitmanager Personeel, Organisatie en Innovatie | Tot € 30.000,– |
 | Unitmanager Facilitair, Huisvesting en Inkoop | Tot € 30.000,– |
@@ -378,7 +378,7 @@ Maximumbedragen voor het aangaan van financiële materiële verplichtingen en he
 | Hoofd Communicatie- en Ondersteuning Wetenschappelijke Raad voor het Regeringsbeleid | Tot 30.000,– |
 | --- | --- |
 
-| Plaatsvervangend directeur Dienst Publiek en Communicatie | Voor het maximumbedrag zie [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043000&paragraaf=4.1&artikel=10&z=2020-01-01&g=2020-01-01) (als plaatsvervanger van het diensthoofd). |
+| Plaatsvervangend directeur Dienst Publiek en Communicatie | Voor het maximumbedrag zie [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043000&paragraaf=4.1&artikel=10&z=2020-01-01&g=2025-01-01) (als plaatsvervanger van het diensthoofd). |
 | --- | --- |
 | Coördinator Beeldcentrum | Tot € 30.000,– |
 | Coördinator Campagnemanagement | Tot € 30.000,– |
@@ -394,6 +394,6 @@ Maximumbedragen voor het aangaan van financiële materiële verplichtingen en he
 | Plaatsvervangend Coördinator Online advies | Tot € 30.000,– |
 | Plaatsvervangend Coördinator Redactie | Tot € 30.000,– |
 
-Dit besluit zal met de toelichting en de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0043000&bijlage=1&z=2020-01-01&g=2020-01-01) in de Staatscourant worden geplaatst.
+Dit besluit zal met de toelichting en de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0043000&bijlage=1&z=2020-01-01&g=2025-01-01) in de Staatscourant worden geplaatst.
 
 Een afschrift van dit besluit wordt gezonden naar de Algemene Rekenkamer.
