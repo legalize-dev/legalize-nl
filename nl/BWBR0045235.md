@@ -4,7 +4,7 @@ identifier: "BWBR0045235"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2023-10-11"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045235"
 soort: "ministeriele-regeling"
@@ -48,13 +48,13 @@ Deze regeling berust op [artikel 5.2 van de Wet hersteloperatie toeslagen](https
 
 In deze regeling wordt verstaan onder:
 
-- **commissie:** commissie, genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045235&artikel=3&z=2023-10-11&g=2023-10-11);
+- **commissie:** commissie, genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045235&artikel=3&z=2025-01-01&g=2025-01-01);
 
 - **minister:** Minister van Financiën;
 
 - **ministerie:** Ministerie van Financiën;
 
-- **secretariaat:** het secretariaat, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045235&artikel=6&z=2023-10-11&g=2023-10-11);
+- **secretariaat:** het secretariaat, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045235&artikel=6&z=2025-01-01&g=2025-01-01);
 
 - **wet:** [Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436).
 
@@ -64,15 +64,19 @@ In deze regeling wordt verstaan onder:
 
 2. De commissie is een adviseur als bedoeld in artikel 3.5 van de Algemene wet bestuursrecht en heeft tot taak:
 
-- a. het onafhankelijk adviseren van de Belastingdienst/Toeslagen over aanvragen tot toekenning van aanvullende compensatie voor de werkelijke schade als bedoeld in [artikel 2.1, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.1);
+- a. het onafhankelijk adviseren van de Dienst Toeslagen over aanvragen tot toekenning van aanvullende compensatie voor de werkelijke schade als bedoeld in [artikel 2.1, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.1);
 
-- b. het onafhankelijk adviseren van de Belastingdienst/Toeslagen over aanvragen tot toekenning van een aanvullende O/GS-tegemoetkoming voor de werkelijke schade als bedoeld in [artikel 2.6, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.6);
+- b. het onafhankelijk adviseren van de Dienst Toeslagen over aanvragen tot toekenning van een aanvullende O/GS-tegemoetkoming voor de werkelijke schade als bedoeld in [artikel 2.6, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.6);
 
-- c. het opstellen en aanpassen van een schadebeoordelingskader ten behoeve van de uitoefening van de adviestaak van de commissie;
+- c. het onafhankelijk adviseren van de Dienst Toeslagen over aanvragen tot toekenning van aanvullende compensatie voor de werkelijke schade of een aanvullende O/GS-tegemoetkoming voor de werkelijke schade als bedoeld in [artikel 2.9a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.9a);
 
-- d. het inrichten van een efficiënte en duidelijke adviesprocedure, waarbij ruimte is voor aanvragers van een kinderopvangtoeslag om hun visie op het voorgenomen advies kenbaar te maken.
+- d. het onafhankelijk adviseren van de Dienst Toeslagen over aanvragen tot toekenning van aanvullende compensatie voor de werkelijke schade of een aanvullende O/GS-tegemoetkoming voor de werkelijke schade als bedoeld in [artikel 2.9b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.9b);
 
-3. De minister kan de commissie verzoeken om het schadebeoordelingskader, bedoeld in het tweede lid, onderdeel c, aan te passen.
+- e. het opstellen en aanpassen van een schadebeoordelingskader ten behoeve van de uitoefening van de adviestaak van de commissie;
+
+- f. het inrichten van een efficiënte en duidelijke adviesprocedure, waarbij ruimte is voor de aanvrager van een kinderopvangtoeslag, de partner van de overleden aanvrager of het kind van de overleden aanvrager om een visie op het voorgenomen advies kenbaar te maken.
+
+3. De minister kan de commissie verzoeken om het schadebeoordelingskader, bedoeld in het tweede lid, onderdeel e, aan te passen.
 
 4. De commissie is bevoegd gedurende het onderzoek aanvullende vragen te formuleren en deze te onderzoeken en beantwoorden, indien zij dat dienstig acht aan haar opdracht.
 
@@ -150,9 +154,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 3a. Uitwisseling van gegevens
 
-1. De Belastingdienst/Toeslagen stelt per verzoek het dossier en de relevante informatie ter beschikking aan de commissie die nodig is voor een goede vervulling van de taken van de commissie, bedoeld in [artikel 3, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045235&artikel=3&z=2023-10-11&g=2023-10-11).
+1. De Dienst Toeslagen stelt per verzoek het dossier en de relevante informatie ter beschikking aan de commissie die nodig is voor een goede vervulling van de taken van de commissie, bedoeld in [artikel 3, tweede lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0045235&artikel=3&z=2025-01-01&g=2025-01-01).
 
-2. De commissie verstrekt aan de Belastingdienst/Toeslagen en aan de aanvrager van een kinderopvangtoeslag bij de uitoefening van haar taken alle stukken die haar ter beschikking hebben gestaan en die een rol hebben gespeeld bij het opstellen van het advies, tenzij deze stukken betrekking hebben op het interne beraad van de commissie.
+2. De commissie verstrekt aan de Dienst Toeslagen en aan de aanvrager van een kinderopvangtoeslag, de partner van de overleden aanvrager of het kind van de overleden aanvrager bij de uitoefening van haar taken alle stukken die haar ter beschikking hebben gestaan en die een rol hebben gespeeld bij het opstellen van het advies, tenzij deze stukken betrekking hebben op het interne beraad van de commissie.
 
 3. De commissie verstrekt desgevraagd aan de minister de voor de uitoefening van zijn taak benodigde inlichtingen.
 
@@ -162,27 +166,27 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. De voorzitter is eindverantwoordelijk voor:
 
-- a. de uitvoering van de taken van de commissie, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045235&artikel=3&z=2023-10-11&g=2023-10-11);
+- a. de uitvoering van de taken van de commissie, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045235&artikel=3&z=2025-01-01&g=2025-01-01);
 
-- b. de totstandkoming van de eigen werkwijze van de commissie, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045235&artikel=7&z=2023-10-11&g=2023-10-11);
+- b. de totstandkoming van de eigen werkwijze van de commissie, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045235&artikel=7&z=2025-01-01&g=2025-01-01);
 
-- c. de verantwoording aan de minister en het evaluatieverslag, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045235&artikel=8&z=2023-10-11&g=2023-10-11);
+- c. de verantwoording aan de minister en het evaluatieverslag, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045235&artikel=8&z=2025-01-01&g=2025-01-01);
 
-- d. het waarborgen van de noodzakelijke expertise en samenhang binnen de commissie, met inachtneming van [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045235&artikel=5&z=2023-10-11&g=2023-10-11);
+- d. het waarborgen van de noodzakelijke expertise en samenhang binnen de commissie, met inachtneming van [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045235&artikel=5&z=2025-01-01&g=2025-01-01);
 
-- e. het periodiek evalueren van het schadebeoordelingskader, bedoeld in [artikel 3, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045235&artikel=3&z=2023-10-11&g=2023-10-11).
+- e. het periodiek evalueren van het schadebeoordelingskader, bedoeld in [artikel 3, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0045235&artikel=3&z=2025-01-01&g=2025-01-01).
 
 2. De voorzitter wordt bijgestaan door een operationeel directeur die:
 
 - a. de dagelijkse leiding heeft over het secretariaat en daar zelf onderdeel van uitmaakt;
 
-- b. verantwoordelijk is voor de implementatie van de eigen werkwijze, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045235&artikel=7&z=2023-10-11&g=2023-10-11), in nauw overleg met de voorzitter;
+- b. verantwoordelijk is voor de implementatie van de eigen werkwijze, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045235&artikel=7&z=2025-01-01&g=2025-01-01), in nauw overleg met de voorzitter;
 
 - c. verantwoordelijk is voor de interne bedrijfsvoering;
 
 - d. rapporteert aan de voorzitter.
 
-3. De voorzitter heeft de dagelijkse leiding over de advieswerkzaamheden van de commissie. Met dit doel stelt hij met de overige leden van de commissie een adviesprocedure op als bedoeld in [artikel 3, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0045235&artikel=3&z=2023-10-11&g=2023-10-11), die wordt opgenomen in de eigen werkwijze, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045235&artikel=7&z=2023-10-11&g=2023-10-11). Deze adviesprocedure kent in ieder geval de volgende onderdelen:
+3. De voorzitter heeft de dagelijkse leiding over de advieswerkzaamheden van de commissie. Met dit doel stelt hij met de overige leden van de commissie een adviesprocedure op als bedoeld in [artikel 3, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0045235&artikel=3&z=2025-01-01&g=2025-01-01), die wordt opgenomen in de eigen werkwijze, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045235&artikel=7&z=2025-01-01&g=2025-01-01). Deze adviesprocedure kent in ieder geval de volgende onderdelen:
 
 - a. de betrokkenheid van de leden bij de totstandkoming van een advies;
 
@@ -190,6 +194,6 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - c. waarborgen voor een eenduidige advisering ter bevordering van de rechtseenheid;
 
-- d. de wijze waarop aanvragers van een kinderopvangtoeslag hun visie kenbaar kunnen maken op het voorgenomen advies van de commissie.
+- d. de wijze waarop aanvragers van een kinderopvangtoeslag, partners van een overleden aanvrager en kinderen van een overleden aanvrager hun visie kenbaar kunnen maken op het voorgenomen advies van de commissie.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
