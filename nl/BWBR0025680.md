@@ -4,7 +4,7 @@ identifier: "BWBR0025680"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2018-02-06"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025680"
 soort: "AMvB"
@@ -82,11 +82,11 @@ Hebben goedgevonden en verstaan:
 
 - **ontvanger:** degene naar wie radioactieve afvalstoffen of bestraalde splijtstoffen worden overgebracht;
 
-- **radioactieve afvalstof:** **radioactieve afvalstof:** waarvoor geen gebruik of product- of materiaalhergebruik is voorzien door het bevoegd gezag van de lidstaat of derde staat van herkomst of van bestemming of door een natuurlijke of rechtspersoon wiens beslissing door deze bevoegde gezagsorganen wordt aanvaard, of die door een regelgevende instantie als radioactieve afvalstof wordt aangemerkt overeenkomstig het wet- en regelgevingskader van de lidstaten of derde staten van herkomst en van bestemming;
+- **radioactieve afvalstof:**
 
-- a. radioactieve stof waarvan de activiteit van de radionucliden of de activiteitsconcentratie van die stof hoger is dan de in [tabel 1 van bijlage 1 behorende bij het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&bijlage=1) genoemde waarde,
+- a. radioactieve afvalstof als bedoeld in [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=1.2) juncto [bijlage 1 van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=1);
 
-- b. splijtstof of erts
+- b. splijtstof of erts, waarvoor geen gebruik of product- of materiaalhergebruik is voorzien door het bevoegd gezag van de lidstaat of derde staat van herkomst of van bestemming of door een natuurlijke of rechtspersoon wiens beslissing door deze bevoegde gezagsorganen wordt aanvaard, of die door een regelgevende instantie als radioactieve afvalstof wordt aangemerkt overeenkomstig het wet- en regelgevingskader van de lidstaten of derde staten van herkomst en van bestemming;
 
 - **richtlijn:** [richtlijn nr. 2006/117](32006L0117)/Euratom van de Raad van de Europese Unie van 20 november 2006 betreffende toezicht en controle op overbrenging van radioactieve afvalstoffen en bestraalde splijtstof (PbEU L 337);
 
@@ -104,13 +104,13 @@ Dit besluit is niet van toepassing op de overbrenging van:
 
 - a. ingekapselde bronnen die niet langer worden gebruikt, noch bestemd zijn om te worden gebruikt voor de handeling waarvoor een vergunning is verleend, voor zover die bronnen worden overgebracht naar:
 
-- 1°. een leverancier als bedoeld in [artikel 1, eerste lid, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=1),
+- 1°. een leverancier als bedoeld in [bijlage 1 van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=1);
 
 - 2°. een fabrikant van dergelijke bronnen, of
 
 - 3°. een voor de ontvangst van radioactieve afvalstoffen bestemde instelling;
 
-- b. radioactieve afvalstoffen bestaande uit natuurlijke bronnen, voor zover deze niet zijn of worden bewerkt met het oog op hun radioactieve eigenschappen;
+- b. radioactieve afvalstoffen als bedoeld in [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=1.2) juncto [bijlage 1 van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=1), bestaande uit natuurlijke bronnen waarvan de totale activiteit of de activiteitsconcentratie van de radionucliden gelijk of lager is dan de van toepassing zijnde vrijstellings- of vrijgavewaarde in [bijlage 3 van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=3);
 
 - c. bij de opwerking van bestraalde splijtstoffen vrijgekomen voor verder gebruik geschikte restproducten.
 
@@ -134,19 +134,19 @@ Dit besluit is niet van toepassing op de overbrenging van:
 
 ##### Artikel 4. Vergunningaanvraag
 
-Een aanvraag om een vergunning krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2018-02-06&g=2018-02-06), wordt ingediend door:
+Een aanvraag om een vergunning krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2025-01-01&g=2025-01-01), wordt ingediend door:
 
-- a. in het geval van [artikel 3, eerste lid, aanhef en onder a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2018-02-06&g=2018-02-06): de houder;
+- a. in het geval van [artikel 3, eerste lid, aanhef en onder a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2025-01-01&g=2025-01-01): de houder;
 
-- b. in het geval van [artikel 3, eerste lid, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2018-02-06&g=2018-02-06): de ontvanger;
+- b. in het geval van [artikel 3, eerste lid, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2025-01-01&g=2025-01-01): de ontvanger;
 
-- c. in het geval van [artikel 3, eerste lid, aanhef en onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2018-02-06&g=2018-02-06): de beheerder.
+- c. in het geval van [artikel 3, eerste lid, aanhef en onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2025-01-01&g=2025-01-01): de beheerder.
 
 ##### Artikel 5. Gebruik uniform document
 
 Het uniforme document wordt gebruikt:
 
-- a. door de aanvrager bij het indienen van een aanvraag om een vergunning krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2018-02-06&g=2018-02-06), en
+- a. door de aanvrager bij het indienen van een aanvraag om een vergunning krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2025-01-01&g=2025-01-01), en
 
 - b. door de Autoriteit:
 
@@ -154,17 +154,17 @@ Het uniforme document wordt gebruikt:
 
 - 2°. bij het verzenden van een ontvangstbevestiging op grond van dit besluit en
 
-- 3°. bij het nemen van een beslissing op de aanvraag om een vergunning krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2018-02-06&g=2018-02-06), en op een verzoek om toestemming als bedoeld in de richtlijn.
+- 3°. bij het nemen van een beslissing op de aanvraag om een vergunning krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2025-01-01&g=2025-01-01), en op een verzoek om toestemming als bedoeld in de richtlijn.
 
 ##### Artikel 6. Taal
 
-1. Een aanvraag om een vergunning krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2018-02-06&g=2018-02-06), en een verzoek om toestemming en de daarbij behorende verklaringen en overige bijlagen worden ingevuld onderscheidenlijk verstrekt in een taal die voor de Autoriteit aanvaardbaar is.
+1. Een aanvraag om een vergunning krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2025-01-01&g=2025-01-01), en een verzoek om toestemming en de daarbij behorende verklaringen en overige bijlagen worden ingevuld onderscheidenlijk verstrekt in een taal die voor de Autoriteit aanvaardbaar is.
 
 2. Indien naar het oordeel van het bevoegd gezag van de derde staat of lidstaat van bestemming of een lidstaat van doorvoer een authentieke vertaling van de in het eerste lid bedoelde documenten noodzakelijk is, draagt de houder zorg voor een authentieke vertaling in een voor dat bevoegd gezag aanvaardbare taal.
 
 ##### Artikel 7. Beslistermijn
 
-De beslissing op de aanvraag om een vergunning krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2018-02-06&g=2018-02-06), wordt genomen binnen zes maanden nadat de Autoriteit overeenkomstig dit besluit de datum van ontvangst op het uniforme document heeft aangetekend.
+De beslissing op de aanvraag om een vergunning krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2025-01-01&g=2025-01-01), wordt genomen binnen zes maanden nadat de Autoriteit overeenkomstig dit besluit de datum van ontvangst op het uniforme document heeft aangetekend.
 
 ##### Artikel 8. Uniform document vergezelt overbrenging
 
@@ -172,7 +172,7 @@ Het ingevulde en van de vereiste bijlagen voorziene uniforme document vergezelt 
 
 ##### Artikel 9. Vergunning voor meerdere overbrengingen
 
-Indien een aanvraag om een vergunning krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2018-02-06&g=2018-02-06), betrekking heeft op het meer dan één keer naar, van of via Nederland overbrengen van radioactieve afvalstoffen of bestraalde splijtstoffen, kan de vergunning worden verleend voor meerdere keren indien:
+Indien een aanvraag om een vergunning krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2025-01-01&g=2025-01-01), betrekking heeft op het meer dan één keer naar, van of via Nederland overbrengen van radioactieve afvalstoffen of bestraalde splijtstoffen, kan de vergunning worden verleend voor meerdere keren indien:
 
 - a. de betrokken stoffen in wezen dezelfde fysische, chemische en radioactieve kenmerken vertonen,
 
@@ -182,7 +182,7 @@ Indien een aanvraag om een vergunning krachtens [artikel 3, eerste lid](https://
 
 ##### Artikel 10. Geldigheidsduur vergunning
 
-1. Een vergunning krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2018-02-06&g=2018-02-06), wordt verleend voor een bij de vergunning te stellen termijn van ten hoogste drie jaar.
+1. Een vergunning krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2025-01-01&g=2025-01-01), wordt verleend voor een bij de vergunning te stellen termijn van ten hoogste drie jaar.
 
 2. Bij het stellen van de termijn wordt rekening gehouden met de eventuele voorwaarden die de bevoegde gezagsorganen van de andere bij de overbrenging betrokken lidstaten of de derde staat van bestemming aan hun toestemming hebben verbonden.
 
@@ -192,11 +192,11 @@ Indien een aanvraag om een vergunning krachtens [artikel 3, eerste lid](https://
 
 ##### Artikel 11. Dagtekening
 
-Indien het uniforme document dat bij de aanvraag om een vergunning krachtens [artikel 3, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2018-02-06&g=2018-02-06), is gebruikt, volledig en juist is ingevuld en is voorzien van de vereiste bijlagen, tekent de Autoriteit op dat document de datum van ontvangst aan.
+Indien het uniforme document dat bij de aanvraag om een vergunning krachtens [artikel 3, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2025-01-01&g=2025-01-01), is gebruikt, volledig en juist is ingevuld en is voorzien van de vereiste bijlagen, tekent de Autoriteit op dat document de datum van ontvangst aan.
 
 ##### Artikel 12. Beoordeling op volledigheid
 
-1. Na de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&artikel=11&z=2018-02-06&g=2018-02-06) bedoelde dagtekening verzoekt de Autoriteit onder toezending van het uniforme document onverwijld het bevoegd gezag van de lidstaat van bestemming alsmede het bevoegd gezag van eventuele lidstaten van doorvoer:
+1. Na de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&artikel=11&z=2025-01-01&g=2025-01-01) bedoelde dagtekening verzoekt de Autoriteit onder toezending van het uniforme document onverwijld het bevoegd gezag van de lidstaat van bestemming alsmede het bevoegd gezag van eventuele lidstaten van doorvoer:
 
 - a. te beoordelen of de aanvraag om een vergunning volledig en juist is ingevuld en is voorzien van de vereiste bijlagen en
 
@@ -232,7 +232,7 @@ De Autoriteit zendt de houder onverwijld een afschrift van het bericht van ontva
 
 1. De Autoriteit kan bepalen dat de overbrenging niet kan worden uitgevoerd indien:
 
-- a. niet langer wordt voldaan aan de in dit besluit opgenomen eisen, de krachtens [artikel 3, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2018-02-06&g=2018-02-06), verleende vergunning of een krachtens de richtlijn verleende toestemming of
+- a. niet langer wordt voldaan aan de in dit besluit opgenomen eisen, de krachtens [artikel 3, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2025-01-01&g=2025-01-01), verleende vergunning of een krachtens de richtlijn verleende toestemming of
 
 - b. de overbrenging feitelijk niet kan worden uitgevoerd.
 
@@ -242,7 +242,7 @@ De Autoriteit zendt de houder onverwijld een afschrift van het bericht van ontva
 
 ##### Artikel 16. Terugnameplicht
 
-1. Indien de Autoriteit overeenkomstig [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&artikel=15&z=2018-02-06&g=2018-02-06), heeft bepaald dat een overbrenging niet kan worden uitgevoerd, of indien de Autoriteit de houder een kennisgeving als bedoeld in [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&artikel=15&z=2018-02-06&g=2018-02-06), heeft gezonden, bepaalt zij dat de houder de betrokken radioactieve afvalstoffen of bestraalde splijtstoffen terugneemt.
+1. Indien de Autoriteit overeenkomstig [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&artikel=15&z=2025-01-01&g=2025-01-01), heeft bepaald dat een overbrenging niet kan worden uitgevoerd, of indien de Autoriteit de houder een kennisgeving als bedoeld in [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&artikel=15&z=2025-01-01&g=2025-01-01), heeft gezonden, bepaalt zij dat de houder de betrokken radioactieve afvalstoffen of bestraalde splijtstoffen terugneemt.
 
 2. Het eerste lid is niet van toepassing indien ten genoegen van de Autoriteit een andere veilige regeling kan worden getroffen.
 
@@ -266,7 +266,7 @@ De Autoriteit zendt de houder onverwijld een afschrift van het bericht van ontva
 
 ##### Artikel 18. Beslistermijn; toestemming van rechtswege
 
-1. De Autoriteit beslist binnen twee maanden na de datum van de ontvangstbevestiging, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2018-02-06&g=2018-02-06), en met inachtneming van het tweede lid, omtrent toestemming met betrekking tot de aanvraag om een vergunning. Zij zendt het besluit op een zodanig tijdstip aan het bevoegd gezag van de lidstaat van herkomst dat dit besluit voor het einde van de termijn van twee maanden door dat bevoegd gezag is ontvangen.
+1. De Autoriteit beslist binnen twee maanden na de datum van de ontvangstbevestiging, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2025-01-01&g=2025-01-01), en met inachtneming van het tweede lid, omtrent toestemming met betrekking tot de aanvraag om een vergunning. Zij zendt het besluit op een zodanig tijdstip aan het bevoegd gezag van de lidstaat van herkomst dat dit besluit voor het einde van de termijn van twee maanden door dat bevoegd gezag is ontvangen.
 
 2. De Autoriteit kan de in het eerste lid bedoelde termijn met ten hoogste een maand verlengen. Zij doet hiervan mededeling aan het bevoegd gezag van de andere betrokken lidstaten.
 
@@ -292,7 +292,7 @@ Toestemming wordt geweigerd indien:
 
 - a. wettelijke voorschriften inzake het beheer van radioactieve afvalstoffen of bestraalde splijtstoffen;
 
-- b. de grond, genoemd in [artikel 19, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=19&z=2018-02-06&g=2018-02-06);
+- b. de grond, genoemd in [artikel 19, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=19&z=2025-01-01&g=2025-01-01);
 
 - c. nationale, communautaire of internationale wettelijke voorschriften inzake het vervoer van radioactieve afvalstoffen of bestraalde splijtstoffen.
 
@@ -318,37 +318,37 @@ Toestemming wordt geweigerd indien:
 
 ## Titel 3.3. Overbrenging van de lidstaat van herkomst via Nederland naar de lidstaat van bestemming
 
-##### Artikel 23. Van overeenkomstige toepassing verklaring [titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2018-02-06&g=2018-02-06)
+##### Artikel 23. Van overeenkomstige toepassing verklaring [titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2025-01-01&g=2025-01-01)
 
-Op het overbrengen van uit een andere lidstaat afkomstige radioactieve afvalstoffen of bestraalde splijtstoffen met een bestemming in een andere lidstaat, van de lidstaat van herkomst via Nederland naar de lidstaat van bestemming is [titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2018-02-06&g=2018-02-06) van overeenkomstige toepassing, met uitzondering van de [artikelen 17, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2018-02-06&g=2018-02-06), [19, aanhef en onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=19&z=2018-02-06&g=2018-02-06), [20, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=20&z=2018-02-06&g=2018-02-06), en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=21&z=2018-02-06&g=2018-02-06), en met dien verstande dat:
+Op het overbrengen van uit een andere lidstaat afkomstige radioactieve afvalstoffen of bestraalde splijtstoffen met een bestemming in een andere lidstaat, van de lidstaat van herkomst via Nederland naar de lidstaat van bestemming is [titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2025-01-01&g=2025-01-01) van overeenkomstige toepassing, met uitzondering van de [artikelen 17, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2025-01-01&g=2025-01-01), [19, aanhef en onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=19&z=2025-01-01&g=2025-01-01), [20, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=20&z=2025-01-01&g=2025-01-01), en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=21&z=2025-01-01&g=2025-01-01), en met dien verstande dat:
 
-- a. in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2018-02-06&g=2018-02-06), in plaats van «naar Nederland overbrengen» wordt gelezen «via Nederland overbrengen» en in plaats van «in Nederland» wordt gelezen: in de lidstaat van bestemming;
+- a. in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2025-01-01&g=2025-01-01), in plaats van «naar Nederland overbrengen» wordt gelezen «via Nederland overbrengen» en in plaats van «in Nederland» wordt gelezen: in de lidstaat van bestemming;
 
-- b. in [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2018-02-06&g=2018-02-06), in plaats van «eventuele lidstaten van doorvoer» wordt gelezen: eventuele andere lidstaten van doorvoer;
+- b. in [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2025-01-01&g=2025-01-01), in plaats van «eventuele lidstaten van doorvoer» wordt gelezen: eventuele andere lidstaten van doorvoer;
 
-- c. [artikel 19, aanhef en onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=19&z=2018-02-06&g=2018-02-06), uitsluitend van toepassing is voor zover het betreft vervoer;
+- c. [artikel 19, aanhef en onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=19&z=2025-01-01&g=2025-01-01), uitsluitend van toepassing is voor zover het betreft vervoer;
 
-- d. [artikel 20, tweede lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=20&z=2018-02-06&g=2018-02-06), uitsluitend van toepassing is voor zover het betreft vervoer;
+- d. [artikel 20, tweede lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=20&z=2025-01-01&g=2025-01-01), uitsluitend van toepassing is voor zover het betreft vervoer;
 
-- e. in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=22&z=2018-02-06&g=2018-02-06), in plaats van «en het bevoegd gezag van eventuele lidstaten van doorvoer» wordt gelezen: , het bevoegd gezag van eventuele andere lidstaten van doorvoer en het bevoegd gezag van de lidstaat van bestemming.
+- e. in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=22&z=2025-01-01&g=2025-01-01), in plaats van «en het bevoegd gezag van eventuele lidstaten van doorvoer» wordt gelezen: , het bevoegd gezag van eventuele andere lidstaten van doorvoer en het bevoegd gezag van de lidstaat van bestemming.
 
 ##### Artikel 24. Toestemming voor terugzending
 
-Indien zij toestemming heeft verleend met betrekking tot een aanvraag om een vergunning, verleent de Autoriteit, in afwijking van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.3&artikel=23&z=2018-02-06&g=2018-02-06), in de navolgende situaties toestemming met betrekking tot een aanvraag om een vergunning voor terugzending:
+Indien zij toestemming heeft verleend met betrekking tot een aanvraag om een vergunning, verleent de Autoriteit, in afwijking van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.3&artikel=23&z=2025-01-01&g=2025-01-01), in de navolgende situaties toestemming met betrekking tot een aanvraag om een vergunning voor terugzending:
 
 - a. de oorspronkelijke toestemming had betrekking op materiaal dat werd overgebracht voor bewerkings-, verwerkings- of opwerkingsdoeleinden indien de terugzending betrekking heeft op radioactieve afvalstoffen of andere producten die gelijkwaardig zijn aan het oorspronkelijke materiaal na bewerking, verwerking of opwerking, en alle relevante voorschriften zijn nageleefd;
 
-- b. er is sprake van een niet-uitgevoerde overbrenging als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=22&z=2018-02-06&g=2018-02-06), of het bevoegd gezag van een andere betrokken lidstaat beslist op grond van artikel 12, eerste lid, van de richtlijn dat de overbrenging niet kan worden uitgevoerd, indien de terugzending op dezelfde voorwaarden en met dezelfde specificaties wordt verricht.
+- b. er is sprake van een niet-uitgevoerde overbrenging als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=22&z=2025-01-01&g=2025-01-01), of het bevoegd gezag van een andere betrokken lidstaat beslist op grond van artikel 12, eerste lid, van de richtlijn dat de overbrenging niet kan worden uitgevoerd, indien de terugzending op dezelfde voorwaarden en met dezelfde specificaties wordt verricht.
 
 ## Titel 3.4. Overbrenging van Nederland via een of meer lidstaten of derde staten van doorvoer naar Nederland
 
-##### Artikel 25. Van overeenkomstige toepassing verklaring [titel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&z=2018-02-06&g=2018-02-06)
+##### Artikel 25. Van overeenkomstige toepassing verklaring [titel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&z=2025-01-01&g=2025-01-01)
 
-Op het overbrengen van uit Nederland afkomstige radioactieve afvalstoffen of bestraalde splijtstoffen met een bestemming in Nederland, van Nederland via een of meer lidstaten of derde staten van doorvoer naar Nederland is [titel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&z=2018-02-06&g=2018-02-06) van overeenkomstige toepassing, met uitzondering van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&artikel=12&z=2018-02-06&g=2018-02-06) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&artikel=14&z=2018-02-06&g=2018-02-06), en met dien verstande dat in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&artikel=11&z=2018-02-06&g=2018-02-06) en [15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&artikel=15&z=2018-02-06&g=2018-02-06), in plaats van «artikel 3, eerste lid, aanhef en onder a» wordt gelezen: [artikel 3, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2018-02-06&g=2018-02-06).
+Op het overbrengen van uit Nederland afkomstige radioactieve afvalstoffen of bestraalde splijtstoffen met een bestemming in Nederland, van Nederland via een of meer lidstaten of derde staten van doorvoer naar Nederland is [titel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&z=2025-01-01&g=2025-01-01) van overeenkomstige toepassing, met uitzondering van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&artikel=12&z=2025-01-01&g=2025-01-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&artikel=14&z=2025-01-01&g=2025-01-01), en met dien verstande dat in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&artikel=11&z=2025-01-01&g=2025-01-01) en [15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&artikel=15&z=2025-01-01&g=2025-01-01), in plaats van «artikel 3, eerste lid, aanhef en onder a» wordt gelezen: [artikel 3, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2025-01-01&g=2025-01-01).
 
 ##### Artikel 26. Beoordeling op volledigheid; ontvangstbevestiging
 
-1. Na de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&artikel=11&z=2018-02-06&g=2018-02-06) bedoelde dagtekening verzoekt de Autoriteit onder toezending van het uniforme document onverwijld het bevoegd gezag van de lidstaat of lidstaten van doorvoer:
+1. Na de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&artikel=11&z=2025-01-01&g=2025-01-01) bedoelde dagtekening verzoekt de Autoriteit onder toezending van het uniforme document onverwijld het bevoegd gezag van de lidstaat of lidstaten van doorvoer:
 
 - a. te beoordelen of de aanvraag om een vergunning volledig en juist is ingevuld en is voorzien van de vereiste bijlagen;
 
@@ -376,7 +376,7 @@ Op het overbrengen van uit Nederland afkomstige radioactieve afvalstoffen of bes
 
 ##### Artikel 28. Vergunningaanvraag; terugnameplicht
 
-De ontvanger doet zijn aanvraag om een vergunning krachtens [artikel 3, eerste lid, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2018-02-06&g=2018-02-06), vergezeld gaan van een door hem ondertekende verklaring waaruit blijkt dat hij een door het bevoegd gezag van de derde staat van herkomst aanvaarde regeling heeft getroffen met de in die staat gevestigde houder, inhoudende dat laatstgenoemde die stoffen zal terugnemen indien de overbrenging niet kan worden uitgevoerd als bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=4&titeldeel=4.1&artikel=33&z=2018-02-06&g=2018-02-06).
+De ontvanger doet zijn aanvraag om een vergunning krachtens [artikel 3, eerste lid, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2025-01-01&g=2025-01-01), vergezeld gaan van een door hem ondertekende verklaring waaruit blijkt dat hij een door het bevoegd gezag van de derde staat van herkomst aanvaarde regeling heeft getroffen met de in die staat gevestigde houder, inhoudende dat laatstgenoemde die stoffen zal terugnemen indien de overbrenging niet kan worden uitgevoerd als bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=4&titeldeel=4.1&artikel=33&z=2025-01-01&g=2025-01-01).
 
 ##### Artikel 29. Dagtekening
 
@@ -386,7 +386,7 @@ Indien het uniforme document dat bij de aanvraag om een vergunning is gebruikt, 
 
 1. Dit artikel is uitsluitend van toepassing indien de overbrenging via een of meer lidstaten van doorvoer plaatsvindt.
 
-2. Na de in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=4&titeldeel=4.1&artikel=29&z=2018-02-06&g=2018-02-06) bedoelde dagtekening verzoekt de Autoriteit onder toezending van het uniforme document onverwijld het bevoegd gezag van de lidstaat of lidstaten van doorvoer:
+2. Na de in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=4&titeldeel=4.1&artikel=29&z=2025-01-01&g=2025-01-01) bedoelde dagtekening verzoekt de Autoriteit onder toezending van het uniforme document onverwijld het bevoegd gezag van de lidstaat of lidstaten van doorvoer:
 
 - a. te beoordelen of de aanvraag om een vergunning volledig en juist is ingevuld en is voorzien van de vereiste bijlagen;
 
@@ -430,13 +430,13 @@ Indien het uniforme document dat bij de aanvraag om een vergunning is gebruikt, 
 
 1. De ontvanger zendt de Autoriteit binnen 15 dagen nadat hij de radioactieve afvalstoffen of de bestraalde splijtstoffen heeft ontvangen, een bericht van ontvangst.
 
-2. De Autoriteit stuurt onverwijld een afschrift van het bericht van ontvangst aan de in [artikel 31, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=4&titeldeel=4.1&artikel=31&z=2018-02-06&g=2018-02-06), genoemde bevoegde gezagsorganen.
+2. De Autoriteit stuurt onverwijld een afschrift van het bericht van ontvangst aan de in [artikel 31, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=4&titeldeel=4.1&artikel=31&z=2025-01-01&g=2025-01-01), genoemde bevoegde gezagsorganen.
 
 ##### Artikel 33. Niet-uitgevoerde overbrenging
 
 1. De Autoriteit kan bepalen dat de overbrenging niet kan worden uitgevoerd indien:
 
-- a. niet langer wordt voldaan aan de in dit besluit opgenomen eisen, de krachtens [artikel 3, eerste lid, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2018-02-06&g=2018-02-06), verleende vergunning of een krachtens de richtlijn verleende toestemming of
+- a. niet langer wordt voldaan aan de in dit besluit opgenomen eisen, de krachtens [artikel 3, eerste lid, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2025-01-01&g=2025-01-01), verleende vergunning of een krachtens de richtlijn verleende toestemming of
 
 - b. de overbrenging feitelijk niet kan worden uitgevoerd.
 
@@ -450,35 +450,35 @@ Indien het uniforme document dat bij de aanvraag om een vergunning is gebruikt, 
 
 Indien het bevoegd gezag van de lidstaat van bestemming verzoekt om een aanvraag om een vergunning voor het via Nederland overbrengen van uit een derde staat afkomstige radioactieve afvalstoffen of bestraalde splijtstoffen met een bestemming in eerstgenoemde lidstaat, op volledigheid te beoordelen, beoordeelt de Autoriteit of de aanvraag volledig en juist is ingevuld en is voorzien van de vereiste bijlagen. De beoordeling geschiedt binnen 20 dagen na ontvangst van het verzoek.
 
-##### Artikel 35. Van overeenkomstige toepassing verklaring [titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2018-02-06&g=2018-02-06)
+##### Artikel 35. Van overeenkomstige toepassing verklaring [titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2025-01-01&g=2025-01-01)
 
-1. [Titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2018-02-06&g=2018-02-06) van overeenkomstige toepassing, met uitzondering van de [artikelen 17, eerste, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2018-02-06&g=2018-02-06), [19, aanhef en onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=19&z=2018-02-06&g=2018-02-06), [20, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=20&z=2018-02-06&g=2018-02-06), en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=21&z=2018-02-06&g=2018-02-06), en met dien verstande dat:
+1. [Titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2025-01-01&g=2025-01-01) van overeenkomstige toepassing, met uitzondering van de [artikelen 17, eerste, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2025-01-01&g=2025-01-01), [19, aanhef en onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=19&z=2025-01-01&g=2025-01-01), [20, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=20&z=2025-01-01&g=2025-01-01), en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=21&z=2025-01-01&g=2025-01-01), en met dien verstande dat:
 
-- a. in de [artikelen 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2018-02-06&g=2018-02-06), [18, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=18&z=2018-02-06&g=2018-02-06), en [22, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=22&z=2018-02-06&g=2018-02-06), in plaats van «de lidstaat van herkomst» wordt gelezen: de lidstaat van bestemming;
+- a. in de [artikelen 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2025-01-01&g=2025-01-01), [18, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=18&z=2025-01-01&g=2025-01-01), en [22, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=22&z=2025-01-01&g=2025-01-01), in plaats van «de lidstaat van herkomst» wordt gelezen: de lidstaat van bestemming;
 
-- b. in [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2018-02-06&g=2018-02-06), in plaats van «eventuele lidstaten van doorvoer» wordt gelezen: eventuele andere lidstaten van doorvoer;
+- b. in [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2025-01-01&g=2025-01-01), in plaats van «eventuele lidstaten van doorvoer» wordt gelezen: eventuele andere lidstaten van doorvoer;
 
-- c. [artikel 19, aanhef en onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=19&z=2018-02-06&g=2018-02-06), uitsluitend van toepassing is voor zover het betreft vervoer;
+- c. [artikel 19, aanhef en onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=19&z=2025-01-01&g=2025-01-01), uitsluitend van toepassing is voor zover het betreft vervoer;
 
-- d. [artikel 20, tweede lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=20&z=2018-02-06&g=2018-02-06), uitsluitend van toepassing is voor zover het betreft vervoer;
+- d. [artikel 20, tweede lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=20&z=2025-01-01&g=2025-01-01), uitsluitend van toepassing is voor zover het betreft vervoer;
 
-- e. een kennisgeving als bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=22&z=2018-02-06&g=2018-02-06), uitsluitend wordt gezonden aan het bevoegd gezag van de derde staat van herkomst;
+- e. een kennisgeving als bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=22&z=2025-01-01&g=2025-01-01), uitsluitend wordt gezonden aan het bevoegd gezag van de derde staat van herkomst;
 
-- f. in [artikel 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=22&z=2018-02-06&g=2018-02-06), in plaats van «houder» wordt gelezen: ontvanger.
+- f. in [artikel 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=22&z=2025-01-01&g=2025-01-01), in plaats van «houder» wordt gelezen: ontvanger.
 
-2. [Artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.3&artikel=24&z=2018-02-06&g=2018-02-06) is van overeenkomstige toepassing.
+2. [Artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.3&artikel=24&z=2025-01-01&g=2025-01-01) is van overeenkomstige toepassing.
 
 ## Titel 4.3. Overbrenging van Nederland naar de derde staat van bestemming
 
 ##### Artikel 36. Dagtekening
 
-Indien het document dat bij de aanvraag om een vergunning krachtens [artikel 3, eerste lid, aanhef en onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2018-02-06&g=2018-02-06), is gebruikt, volledig en juist is ingevuld en is voorzien van de vereiste bijlagen, tekent de Autoriteit op dat document de datum van ontvangst aan.
+Indien het document dat bij de aanvraag om een vergunning krachtens [artikel 3, eerste lid, aanhef en onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2025-01-01&g=2025-01-01), is gebruikt, volledig en juist is ingevuld en is voorzien van de vereiste bijlagen, tekent de Autoriteit op dat document de datum van ontvangst aan.
 
 ##### Artikel 37. Beoordeling op volledigheid; ontvangstbevestiging
 
 1. Dit artikel is uitsluitend van toepassing indien de overbrenging via een of meer lidstaten van doorvoer plaatsvindt.
 
-2. Na de in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=4&titeldeel=4.3&artikel=36&z=2018-02-06&g=2018-02-06) bedoelde dagtekening verzoekt de Autoriteit onder toezending van het uniforme document onverwijld het bevoegd gezag van de lidstaat of lidstaten van doorvoer:
+2. Na de in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=4&titeldeel=4.3&artikel=36&z=2025-01-01&g=2025-01-01) bedoelde dagtekening verzoekt de Autoriteit onder toezending van het uniforme document onverwijld het bevoegd gezag van de lidstaat of lidstaten van doorvoer:
 
 - a. te beoordelen of de aanvraag om een vergunning volledig en juist is ingevuld en is voorzien van de vereiste bijlagen;
 
@@ -496,7 +496,7 @@ Indien het document dat bij de aanvraag om een vergunning krachtens [artikel 3, 
 
 ##### Artikel 38. Verzoek om toestemming aan derde staat van bestemming
 
-Na de in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=4&titeldeel=4.3&artikel=36&z=2018-02-06&g=2018-02-06) bedoelde dagtekening verzoekt de Autoriteit onverwijld het bevoegd gezag van de derde staat van bestemming onder toezending van het uniforme document toestemming te verlenen met betrekking tot de aanvraag om een vergunning.
+Na de in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=4&titeldeel=4.3&artikel=36&z=2025-01-01&g=2025-01-01) bedoelde dagtekening verzoekt de Autoriteit onverwijld het bevoegd gezag van de derde staat van bestemming onder toezending van het uniforme document toestemming te verlenen met betrekking tot de aanvraag om een vergunning.
 
 ##### Artikel 39. Beslissing op vergunningaanvraag
 
@@ -538,7 +538,7 @@ Na de in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=
 
 1. De Autoriteit kan bepalen dat de overbrenging niet kan worden uitgevoerd indien:
 
-- a. niet langer wordt voldaan aan de in dit besluit opgenomen eisen, de krachtens [artikel 3, eerste lid, aanhef en onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2018-02-06&g=2018-02-06), verleende vergunning of een krachtens de richtlijn verleende toestemming of
+- a. niet langer wordt voldaan aan de in dit besluit opgenomen eisen, de krachtens [artikel 3, eerste lid, aanhef en onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2025-01-01&g=2025-01-01), verleende vergunning of een krachtens de richtlijn verleende toestemming of
 
 - b. de overbrenging feitelijk niet kan worden uitgevoerd.
 
@@ -548,9 +548,9 @@ Na de in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=
 
 ##### Artikel 42. Terugnameplicht
 
-1. Indien de Autoriteit overeenkomstig [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=4&titeldeel=4.3&artikel=41&z=2018-02-06&g=2018-02-06), heeft bepaald dat een overbrenging niet kan worden uitgevoerd, of indien de Autoriteit de houder een kennisgeving als bedoeld in [artikel 41, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=4&titeldeel=4.3&artikel=41&z=2018-02-06&g=2018-02-06), heeft gezonden, bepaalt zij dat de houder de betrokken radioactieve afvalstoffen of bestraalde splijtstoffen terugneemt.
+1. Indien de Autoriteit overeenkomstig [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=4&titeldeel=4.3&artikel=41&z=2025-01-01&g=2025-01-01), heeft bepaald dat een overbrenging niet kan worden uitgevoerd, of indien de Autoriteit de houder een kennisgeving als bedoeld in [artikel 41, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=4&titeldeel=4.3&artikel=41&z=2025-01-01&g=2025-01-01), heeft gezonden, bepaalt zij dat de houder de betrokken radioactieve afvalstoffen of bestraalde splijtstoffen terugneemt.
 
-2. [Artikel 16, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&artikel=16&z=2018-02-06&g=2018-02-06), is van overeenkomstige toepassing.
+2. [Artikel 16, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&artikel=16&z=2025-01-01&g=2025-01-01), is van overeenkomstige toepassing.
 
 ## Titel 4.4. Overbrenging van de lidstaat van herkomst via Nederland naar de derde staat van bestemming
 
@@ -558,19 +558,19 @@ Na de in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=
 
 Indien het bevoegd gezag van de lidstaat van herkomst verzoekt om een aanvraag om een vergunning voor het via Nederland overbrengen van uit eerstgenoemde lidstaat afkomstige radioactieve afvalstoffen of bestraalde splijtstoffen met een bestemming in een derde staat, op volledigheid te beoordelen, beoordeelt de Autoriteit of de aanvraag volledig en juist is ingevuld en is voorzien van de vereiste bijlagen. De beoordeling geschiedt binnen 20 dagen na ontvangst van het verzoek.
 
-##### Artikel 44. Van overeenkomstige toepassing verklaring [titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2018-02-06&g=2018-02-06)
+##### Artikel 44. Van overeenkomstige toepassing verklaring [titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2025-01-01&g=2025-01-01)
 
-1. [Titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2018-02-06&g=2018-02-06) is van overeenkomstige toepassing, met uitzondering van de [artikelen 17, eerste, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2018-02-06&g=2018-02-06), [19, aanhef en onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=19&z=2018-02-06&g=2018-02-06), [20, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=20&z=2018-02-06&g=2018-02-06), en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=21&z=2018-02-06&g=2018-02-06), en met dien verstande dat:
+1. [Titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2025-01-01&g=2025-01-01) is van overeenkomstige toepassing, met uitzondering van de [artikelen 17, eerste, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2025-01-01&g=2025-01-01), [19, aanhef en onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=19&z=2025-01-01&g=2025-01-01), [20, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=20&z=2025-01-01&g=2025-01-01), en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=21&z=2025-01-01&g=2025-01-01), en met dien verstande dat:
 
-- a. in [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2018-02-06&g=2018-02-06), in plaats van «eventuele lidstaten van doorvoer» wordt gelezen: eventuele andere lidstaten van doorvoer;
+- a. in [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2025-01-01&g=2025-01-01), in plaats van «eventuele lidstaten van doorvoer» wordt gelezen: eventuele andere lidstaten van doorvoer;
 
-- b. [artikel 19, aanhef en onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=19&z=2018-02-06&g=2018-02-06), uitsluitend van toepassing is voor zover het betreft vervoer;
+- b. [artikel 19, aanhef en onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=19&z=2025-01-01&g=2025-01-01), uitsluitend van toepassing is voor zover het betreft vervoer;
 
-- c. [artikel 20, tweede lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=20&z=2018-02-06&g=2018-02-06), uitsluitend van toepassing is voor zover het betreft vervoer;
+- c. [artikel 20, tweede lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=20&z=2025-01-01&g=2025-01-01), uitsluitend van toepassing is voor zover het betreft vervoer;
 
-- d. een kennisgeving als bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=22&z=2018-02-06&g=2018-02-06), uitsluitend wordt gezonden aan het bevoegd gezag van de lidstaat van herkomst.
+- d. een kennisgeving als bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=22&z=2025-01-01&g=2025-01-01), uitsluitend wordt gezonden aan het bevoegd gezag van de lidstaat van herkomst.
 
-2. [Artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.3&artikel=24&z=2018-02-06&g=2018-02-06) is van overeenkomstige toepassing.
+2. [Artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.3&artikel=24&z=2025-01-01&g=2025-01-01) is van overeenkomstige toepassing.
 
 ## Titel 4.5. Overbrenging van de derde staat van herkomst via Nederland naar de derde staat van bestemming
 
@@ -578,7 +578,7 @@ Indien het bevoegd gezag van de lidstaat van herkomst verzoekt om een aanvraag o
 
 ##### Artikel 45. Vergunningaanvraag; terugnameplicht
 
-De beheerder doet zijn aanvraag om een vergunning krachtens [artikel 3, eerste lid,aanhef en onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2018-02-06&g=2018-02-06), vergezeld gaan van een door hem ondertekende verklaring waaruit blijkt dat de in de derde staat van bestemming gevestigde ontvanger een door het bevoegd gezag van de derde staat van herkomst aanvaarde regeling heeft getroffen met de in die staat gevestigde houder, inhoudende dat laatstgenoemde die stoffen zal terugnemen indien de overbrenging niet kan worden uitgevoerd als bedoeld in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=4&titeldeel=4.5&paragraaf=4.5.1&artikel=50&z=2018-02-06&g=2018-02-06).
+De beheerder doet zijn aanvraag om een vergunning krachtens [artikel 3, eerste lid,aanhef en onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2025-01-01&g=2025-01-01), vergezeld gaan van een door hem ondertekende verklaring waaruit blijkt dat de in de derde staat van bestemming gevestigde ontvanger een door het bevoegd gezag van de derde staat van herkomst aanvaarde regeling heeft getroffen met de in die staat gevestigde houder, inhoudende dat laatstgenoemde die stoffen zal terugnemen indien de overbrenging niet kan worden uitgevoerd als bedoeld in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=4&titeldeel=4.5&paragraaf=4.5.1&artikel=50&z=2025-01-01&g=2025-01-01).
 
 ##### Artikel 46. Dagtekening
 
@@ -588,7 +588,7 @@ Indien het document dat bij de aanvraag om een vergunning is gebruikt, volledig 
 
 1. Dit artikel is uitsluitend van toepassing indien de overbrenging via een of meer andere lidstaten van doorvoer plaatsvindt.
 
-2. Na de in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=4&titeldeel=4.5&paragraaf=4.5.1&artikel=46&z=2018-02-06&g=2018-02-06) bedoelde dagtekening verzoekt de Autoriteit onder toezending van het uniforme document onverwijld het bevoegd gezag van de andere lidstaat of lidstaten van doorvoer:
+2. Na de in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=4&titeldeel=4.5&paragraaf=4.5.1&artikel=46&z=2025-01-01&g=2025-01-01) bedoelde dagtekening verzoekt de Autoriteit onder toezending van het uniforme document onverwijld het bevoegd gezag van de andere lidstaat of lidstaten van doorvoer:
 
 - a. te beoordelen of de aanvraag om een vergunning volledig en juist is ingevuld en is voorzien van de vereiste bijlagen;
 
@@ -606,7 +606,7 @@ Indien het document dat bij de aanvraag om een vergunning is gebruikt, volledig 
 
 ##### Artikel 48. Beslissing op vergunningaanvraag
 
-1. Op de beslissing op de aanvraag om een vergunning is [artikel 39, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=4&titeldeel=4.3&artikel=39&z=2018-02-06&g=2018-02-06), van overeenkomstige toepassing.
+1. Op de beslissing op de aanvraag om een vergunning is [artikel 39, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=4&titeldeel=4.3&artikel=39&z=2025-01-01&g=2025-01-01), van overeenkomstige toepassing.
 
 2. Aan de vergunning kunnen met het oog op het vervoer van de radioactieve afvalstoffen of de bestraalde splijtstoffen voorschriften worden verbonden. Indien toestemming onder voorwaarden is verleend, worden aan de vergunning in elk geval de voorschriften verbonden die gelet op die voorwaarden noodzakelijk zijn.
 
@@ -622,7 +622,7 @@ Indien het document dat bij de aanvraag om een vergunning is gebruikt, volledig 
 
 1. De Autoriteit kan bepalen dat de overbrenging niet kan worden uitgevoerd indien:
 
-- a. niet langer wordt voldaan aan de in dit besluit opgenomen eisen, de krachtens [artikel 3, eerste lid, aanhef en onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2018-02-06&g=2018-02-06), verleende vergunning of een krachtens de richtlijn verleende toestemming of
+- a. niet langer wordt voldaan aan de in dit besluit opgenomen eisen, de krachtens [artikel 3, eerste lid, aanhef en onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2025-01-01&g=2025-01-01), verleende vergunning of een krachtens de richtlijn verleende toestemming of
 
 - b. de overbrenging feitelijk niet kan worden uitgevoerd.
 
@@ -636,23 +636,23 @@ Indien het document dat bij de aanvraag om een vergunning is gebruikt, volledig 
 
 Indien het bevoegd gezag van de eerste lidstaat van doorvoer verzoekt om een aanvraag om een vergunning voor het via Nederland overbrengen van uit eerstgenoemde lidstaat afkomstige radioactieve afvalstoffen of bestraalde splijtstoffen met een bestemming in een derde staat, op volledigheid te beoordelen, beoordeelt de Autoriteit of de aanvraag volledig en juist is ingevuld en is voorzien van de vereiste bijlagen. De beoordeling geschiedt binnen 20 dagen na ontvangst van het verzoek.
 
-##### Artikel 52. Van overeenkomstige toepassing verklaring [titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2018-02-06&g=2018-02-06)
+##### Artikel 52. Van overeenkomstige toepassing verklaring [titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2025-01-01&g=2025-01-01)
 
-1. [Titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2018-02-06&g=2018-02-06) is van overeenkomstige toepassing, met uitzondering van de [artikelen 17, eerste, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2018-02-06&g=2018-02-06), [19, aanhef en onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=19&z=2018-02-06&g=2018-02-06), [20, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=20&z=2018-02-06&g=2018-02-06), en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=21&z=2018-02-06&g=2018-02-06), en met dien verstande dat:
+1. [Titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2025-01-01&g=2025-01-01) is van overeenkomstige toepassing, met uitzondering van de [artikelen 17, eerste, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2025-01-01&g=2025-01-01), [19, aanhef en onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=19&z=2025-01-01&g=2025-01-01), [20, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=20&z=2025-01-01&g=2025-01-01), en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=21&z=2025-01-01&g=2025-01-01), en met dien verstande dat:
 
-- a. in de [artikelen 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2018-02-06&g=2018-02-06), [18, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=18&z=2018-02-06&g=2018-02-06), en [22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=22&z=2018-02-06&g=2018-02-06), in plaats van «lidstaat van herkomst» wordt gelezen: eerste lidstaat van doorvoer;
+- a. in de [artikelen 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2025-01-01&g=2025-01-01), [18, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=18&z=2025-01-01&g=2025-01-01), en [22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=22&z=2025-01-01&g=2025-01-01), in plaats van «lidstaat van herkomst» wordt gelezen: eerste lidstaat van doorvoer;
 
-- b. in [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2018-02-06&g=2018-02-06), in plaats van «eventuele lidstaten van doorvoer» wordt gelezen: eventuele andere lidstaten van doorvoer;
+- b. in [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2025-01-01&g=2025-01-01), in plaats van «eventuele lidstaten van doorvoer» wordt gelezen: eventuele andere lidstaten van doorvoer;
 
-- c. [artikel 19, aanhef en onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=19&z=2018-02-06&g=2018-02-06), uitsluitend van toepassing is voor zover het betreft vervoer;
+- c. [artikel 19, aanhef en onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=19&z=2025-01-01&g=2025-01-01), uitsluitend van toepassing is voor zover het betreft vervoer;
 
-- d. [artikel 20, tweede lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=20&z=2018-02-06&g=2018-02-06), uitsluitend van toepassing is voor zover het betreft vervoer;
+- d. [artikel 20, tweede lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=20&z=2025-01-01&g=2025-01-01), uitsluitend van toepassing is voor zover het betreft vervoer;
 
-- e. een kennisgeving als bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=22&z=2018-02-06&g=2018-02-06), uitsluitend wordt gezonden aan het bevoegd gezag van de derde staat van herkomst;
+- e. een kennisgeving als bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=22&z=2025-01-01&g=2025-01-01), uitsluitend wordt gezonden aan het bevoegd gezag van de derde staat van herkomst;
 
-- f. in [artikel 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=22&z=2018-02-06&g=2018-02-06), in plaats van «houder» wordt gelezen: beheerder.
+- f. in [artikel 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=22&z=2025-01-01&g=2025-01-01), in plaats van «houder» wordt gelezen: beheerder.
 
-2. De [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.3&artikel=24&z=2018-02-06&g=2018-02-06) en [39, eerste lid, aanhef en onder b tot en met d, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=4&titeldeel=4.3&artikel=39&z=2018-02-06&g=2018-02-06), zijn van overeenkomstige toepassing.
+2. De [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.3&artikel=24&z=2025-01-01&g=2025-01-01) en [39, eerste lid, aanhef en onder b tot en met d, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=4&titeldeel=4.3&artikel=39&z=2025-01-01&g=2025-01-01), zijn van overeenkomstige toepassing.
 
 ### Hoofdstuk 5. Slotbepalingen
 
