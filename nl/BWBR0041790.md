@@ -4,7 +4,7 @@ identifier: "BWBR0041790"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2025-03-01"
-last_updated: "2024-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041790"
 soort: "beleidsregel"
@@ -42,15 +42,15 @@ Besluiten:
 
 ##### Artikel 1. Reikwijdte
 
-Deze beleidsregels zijn van toepassing op bestuurlijk beboetbare feiten op grond van de [Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173), de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362), de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925), de [Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941), de [Wet afbreking zwangerschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003396), de [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251), de [Wet inzake bloedvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0009079), de [Wet op de medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002697), de [Wet medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0042755), de [Wet medisch-wetenschappelijk onderzoek met mensen](https://wetten.overheid.nl/jci1.3:c:BWBR0009408), de [Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505), de [Wet op bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008974), de [Wet veiligheid en kwaliteit lichaamsmateriaal](https://wetten.overheid.nl/jci1.3:c:BWBR0014682), de [Wet toetreding zorgaanbieders](https://wetten.overheid.nl/jci1.3:c:BWBR0043797), de [Wet verplichte geestelijke gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040635), de [Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten](https://wetten.overheid.nl/jci1.3:c:BWBR0040632), de [Wet ambulancezorgvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0043925) en de [Wet elektronische gegevensuitwisseling in de zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0048095).
+Deze beleidsregels zijn van toepassing op bestuurlijk beboetbare feiten op grond van de [Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173), de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362), de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925), de [Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941), de [Wet afbreking zwangerschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003396), de [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251), de [Wet inzake bloedvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0009079), de [Wet op de medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002697), de [Wet medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0042755), de [Wet medisch-wetenschappelijk onderzoek met mensen](https://wetten.overheid.nl/jci1.3:c:BWBR0009408), de [Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505), de [Wet op bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008974), de [Wet veiligheid en kwaliteit lichaamsmateriaal](https://wetten.overheid.nl/jci1.3:c:BWBR0014682), de [Wet toetreding zorgaanbieders](https://wetten.overheid.nl/jci1.3:c:BWBR0043797), de [Wet verplichte geestelijke gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040635), de [Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten](https://wetten.overheid.nl/jci1.3:c:BWBR0040632), de [Wet ambulancezorgvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0043925), de [Wet elektronische gegevensuitwisseling in de zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0048095), de [Wet donorgegevens kunstmatige bevruchting](https://wetten.overheid.nl/jci1.3:c:BWBR0013642) en de [Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705).
 
 ##### Artikel 2. Waarschuwing of bestuurlijke boete en recidive
 
 1. In de bijlagen bij deze beleidsregels is per beboetbaar gesteld artikel bepaald of sprake is van een overtreding die direct beboet wordt, danwel eerst een schriftelijke waarschuwing wordt opgelegd.
 
-2. Indien binnen twee jaar nadat een schriftelijke waarschuwing is opgelegd opnieuw hetzelfde wettelijke voorschrift wordt overtreden, kan de Minister van Volksgezondheid, Welzijn en Sport, de Minister voor Langdurige Zorg en Sport of de Staatssecretaris van Volksgezondheid, Welzijn en Sport een bestuurlijke boete opleggen. Daarbij maakt het geen verschil of bij de tweede overtreding van hetzelfde wettelijke voorschrift sprake is van een voortdurende overtreding of dat sprake is van een nieuwe overtreding van hetzelfde wettelijke voorschrift. De verzenddatum van de eerder verstuurde waarschuwing is hierbij bepalend.
+2. Indien binnen twee jaar nadat een schriftelijke waarschuwing is opgelegd opnieuw hetzelfde wettelijke voorschrift wordt overtreden, kan de Minister van Volksgezondheid, Welzijn en Sport of de Staatssecretaris van Volksgezondheid, Welzijn en Sport een bestuurlijke boete opleggen. Daarbij maakt het geen verschil of bij de tweede overtreding van hetzelfde wettelijke voorschrift sprake is van een voortdurende overtreding of dat sprake is van een nieuwe overtreding van hetzelfde wettelijke voorschrift. De verzenddatum van de eerder verstuurde waarschuwing is hierbij bepalend.
 
-3. Indien binnen vier jaar nadat een bestuurlijke boete is opgelegd opnieuw hetzelfde wettelijke voorschrift wordt overtreden, aan te duiden als recidive, kan de Minister van Volksgezondheid, Welzijn en Sport, de Minister voor Langdurige Zorg en Sport of de Staatssecretaris van Volksgezondheid, Welzijn en Sport het nominale boetebedrag bij een nieuwe bestuurlijke boete verdubbelen. Bij een derde overtreding van hetzelfde wettelijke voorschrift binnen de recidivetermijn kan het nominale boetebedrag worden verhoogd met factor 3. Bij volgende overtredingen van hetzelfde wettelijke voorschrift binnen de recidivetermijn kan het nominale boetebedrag steeds met een extra factor 1 worden verhoogd ten opzichte van de eerdere verhogingsfactor, tot het maximale in de wet vastgestelde boetebedrag is bereikt. Onherroepelijkheid van een eerdere boete speelt geen rol bij de vraag of de boete verhoogd kan worden wegens recidive.
+3. Indien binnen vier jaar nadat een bestuurlijke boete is opgelegd opnieuw hetzelfde wettelijke voorschrift wordt overtreden, aan te duiden als recidive, kan de Minister van Volksgezondheid, Welzijn en Sport of de Staatssecretaris van Volksgezondheid, Welzijn en Sport het nominale boetebedrag bij een nieuwe bestuurlijke boete verdubbelen. Bij een derde overtreding van hetzelfde wettelijke voorschrift binnen de recidivetermijn kan het nominale boetebedrag worden verhoogd met factor 3. Bij volgende overtredingen van hetzelfde wettelijke voorschrift binnen de recidivetermijn kan het nominale boetebedrag steeds met een extra factor 1 worden verhoogd ten opzichte van de eerdere verhogingsfactor, tot het maximale in de wet vastgestelde boetebedrag is bereikt. Onherroepelijkheid van een eerdere boete speelt geen rol bij de vraag of de boete verhoogd kan worden wegens recidive.
 
 ##### Artikel 3. Verhouding tot strafrechtelijke vervolging
 
@@ -60,7 +60,7 @@ Indien een overtreding die bestuurlijk beboetbaar is ook als strafbaar feit is a
 
 1. Voor de vaststelling van de hoogte van de bestuurlijke boete, wordt het aantal FTE berekend door het aantal werkzame personen te vermenigvuldigen met 0,65.
 
-2. De grootte van de juridische eenheid wordt vastgesteld aan de hand van de registers van de Kamers van Koophandel of andere objectieve gegevens. Indien op deze wijze geen inzicht kan worden verkregen in het aantal werkzame personen, wordt hiervan een inschatting gemaakt. De betrokkene heeft de mogelijkheid om in de zienswijze op de voorgenomen bestuurlijke boete naar voren te brengen dat deze inschatting onjuist is. Dit dient dan onderbouwd te worden met stukken, zoals jaarverslagen, accountantsverklaringen of belastingoverzichten. De Minister van Volksgezondheid, Welzijn en Sport, de Minister voor Langdurige Zorg en Sport of de Staatssecretaris van Volksgezondheid, Welzijn en Sport zal deze stukken beoordelen en kan naar aanleiding daarvan het aantal werkzame personen corrigeren.
+2. De grootte van de juridische eenheid wordt vastgesteld aan de hand van de registers van de Kamers van Koophandel of andere objectieve gegevens. Indien op deze wijze geen inzicht kan worden verkregen in het aantal werkzame personen, wordt hiervan een inschatting gemaakt. De betrokkene heeft de mogelijkheid om in de zienswijze op de voorgenomen bestuurlijke boete naar voren te brengen dat deze inschatting onjuist is. Dit dient dan onderbouwd te worden met stukken, zoals jaarverslagen, accountantsverklaringen of belastingoverzichten. De Minister van Volksgezondheid, Welzijn en Sport of de Staatssecretaris van Volksgezondheid, Welzijn en Sport zal deze stukken beoordelen en kan naar aanleiding daarvan het aantal werkzame personen corrigeren.
 
 ##### Artikel 5. Normbedragen
 
@@ -82,7 +82,7 @@ Gedraging heeft grote consequenties voor de patiëntveiligheid, dan wel betreft 
 
 ##### Artikel 6. Vermindering
 
-Indien de Minister van Volksgezondheid, Welzijn en Sport, de Minister voor Langdurige Zorg en Sport of de Staatssecretaris van Volksgezondheid, Welzijn en Sport buiten de in [artikel 5:51, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:51) genoemde termijn, maar binnen 6 maanden na dagtekening van het voornemen tot boeteoplegging, een besluit neemt omtrent het opleggen van de bestuurlijke boete, wordt 5% in mindering gebracht op het uiteindelijke boetebedrag. Indien dit besluit later dan 6 maanden, maar binnen 12 maanden volgt na dagtekening van het voornemen tot boeteoplegging, wordt 10% in mindering gebracht op het uiteindelijke op te leggen boetebedrag.
+Indien de Minister van Volksgezondheid, Welzijn en Sport of de Staatssecretaris van Volksgezondheid, Welzijn en Sport buiten de in [artikel 5:51, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:51) genoemde termijn, maar binnen 6 maanden na dagtekening van het voornemen tot boeteoplegging, een besluit neemt omtrent het opleggen van de bestuurlijke boete, wordt 5% in mindering gebracht op het uiteindelijke boetebedrag. Indien dit besluit later dan 6 maanden, maar binnen 12 maanden volgt na dagtekening van het voornemen tot boeteoplegging, wordt 10% in mindering gebracht op het uiteindelijke op te leggen boetebedrag.
 
 ##### Artikel 7. Intrekking vorige beleidsregels
 
@@ -1210,19 +1210,19 @@ Het boetebedrag is nu vastgesteld op grond van de beleidsregels bestuurlijke bo 
 
 ### Boetedifferentiatie
 
-Het schenden van de meldplicht en het verlenen van zorg zonder de benodigde vergunning kunnen afzonderlijk beboet worden.
+Aan de hand van vier categorieën wordt bepaald of er sprake is van een verlichtende omstandigheid, een verzwarende omstandigheid of geen van beide. Ten eerste bevat het schema de categorie ‘kort’, voor de gevallen waarin de overtreding maximaal één maand heeft geduurd. Als de overtreding tussen de maand en een half jaar heeft geduurd, is de categorie ‘gemiddeld’ van toepassing. Indien kan worden vastgesteld dat een overtreder gedurende langer dan een half jaar niet aan de wettelijke voorschriften heeft voldaan wordt de duur als ‘lang’ beoordeeld. Ten slotte is de categorie ‘niet vast te stellen’ van toepassing voor die gevallen waarin de duur niet is te bepalen.
 
 **Omvang.** Bij de omvang van de overtreding wordt gekeken naar het aantal cliënten dat betrokken is bij de overtreding. Indien bij de overtreding 1 of 2 cliënten betrokken zijn, dan wordt de omvang als klein beoordeeld, hetgeen een verlichtende omstandigheid oplevert in de beoordeling van het boetebedrag. Een overtreding waarbij 3 tot en met 10 cliënten zijn betrokken, levert in het berekenen van het boetebedrag geen verzwarende of verlichtende omstandigheid op. Indien bij de overtreding meer dan 10 cliënten betrokken zijn, dan wordt de omvang als groot beoordeeld, hetgeen een verzwarende omstandigheid oplevert.
 
-Welk voorlopig boetebedrag is van toepassing op grond van stap 1 en 2
+Met behulp van onderstaand schema B wordt bepaald welk voorlopig boetebedrag van toepassing is op grond van de uitkomsten van stap 1 en 2. Bij het invullen van schema B valt een verlichtende en verzwarende omstandigheid bij gelijke telling tegen elkaar weg.
 
 ### Stap 2. Ernst van de overtreding
 
-□ **A**Er is één of meer verlichtende omstandigheid van toepassing
+□ **A**Er is één verlichtende omstandigheid van toepassing
 
 □ **B** Er is geen verlichtende en/ of verzwarende omstandigheid van toepassing
 
-□ **C** Er is één of meer verzwarende omstandigheid van toepassing
+□ **C** Er is één verzwarende omstandigheid van toepassing
 
 Voor het gebruik van onderstaand schema (B) geldt het volgende:
 
@@ -1715,7 +1715,7 @@ Indien binnen vier jaar nadat een bestuurlijke boete is opgelegd opnieuw hetzelf
 
 Het boetebedrag is nu vastgesteld op grond van de Beleidsregels bestuurlijke boete Ministerie Volksgezondheid Welzijn en Sport 2019.
 
-Indien vast kan worden gesteld dat een overtreder gedurende langer dan zes maanden niet aan de wettelijke voorschriften heeft voldaan wordt de duur als lang en verzwarend beoordeeld. Indien vastgesteld kan worden dat een overtreding korter dan twee maanden geduurd heeft wordt deze als korte duur beoordeeld.
+In schema A is één factor genoemd die een rol kan spelen bij het bepalen van de ernst van de overtreding.
 
 ### Leeswijzer
 
@@ -2139,5 +2139,111 @@ Indien het aantal werkzame personen niet uit het handelsregister blijkt, of indi
 Indien binnen vier jaar nadat een bestuurlijke boete is opgelegd opnieuw hetzelfde wettelijke voorschrift wordt overtreden, aan te duiden als recidive, wordt het nominale boetebedrag bij een nieuwe bestuurlijke boete verdubbeld. Bij een derde overtreding van hetzelfde wettelijke voorschrift binnen de recidivetermijn wordt het nominale boetebedrag verhoogd met factor 3. Bij volgende overtredingen van hetzelfde wettelijke voorschrift binnen de recidivetermijn wordt het nominale boetebedrag steeds met een extra factor 1 verhoogd ten opzichte van de eerdere verhogingsfactor, tot het maximale in de wet vastgestelde boetebedrag is bereikt. Onherroepelijkheid van een eerdere boete speelt geen rol bij de vraag of de boete verhoogd kan worden wegens recidive.
 
 Het boetebedrag is nu vastgesteld op grond van de Beleidsregels bestuurlijke boete Ministerie Volksgezondheid Welzijn en Sport 2019.
+
+Deze beleidsregels zullen met de toelichting in de Staatscourant worden geplaatst.
+
+## Bijlage. bij de Boetebeleidsregels Ministerie VWS 2019: [Wet donorgegevens kunstmatige bevruchting](https://wetten.overheid.nl/jci1.3:c:BWBR0013642) (Wdkb)
+
+De hoogte van de daadwerkelijk op te leggen bestuurlijke boete wordt **per overtreding** aan de hand van de stappen uit deze bijlage vastgesteld.
+
+- •. Indien in de derde kolom van de tabel **SW** (**schriftelijke waarschuwing)**is aangegeven, is het uitgangspunt dat voor deze overtreding een waarschuwing wordt opgelegd. Indien er sprake is van een bijzondere reden, kan direct een bestuurlijke boete worden opgelegd. Dit zal dan gemotiveerd dienen te worden. Indien na het geven van een waarschuwing opnieuw een overtreding van hetzelfde wettelijke voorschrift wordt geconstateerd, kan een bestuurlijke boete worden opgelegd.
+
+- •. Indien in derde kolom van de tabel **DB (direct beboetbaar)** is aangeven, is het uitgangspunt dat deze overtreding direct beboet wordt. Indien er sprake is van een bijzondere reden, kan in plaats van een boete een waarschuwing worden opgelegd.
+
+- •. **Zwaartecategorie**: in de vierde kolom is met het aantal sterren de zwaarte van het door de overtreding geschonden belang vastgesteld.
+
+- •. **Boetenormbedrag**: in de vijfde kolom is aangegeven welk boetebedrag passend is bij de geconstateerde overtreding. Het boetenormbedrag is het uitgangspunt voor de berekening van het boetebedrag.
+
+| Artikel | Omschrijving wettelijk voorschrift | SW (schriftelijke waarschuwing)/ DB (direct beboetbaar) | Zwaartecategorie | Boetenormbedrag (=N) |
+| --- | --- | --- | --- | --- |
+| [1a, lid 1 a](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&artikel=1a) | De verrichter van kunstmatige bevruchting beschikt niet over de donorcode van de donor wiens zaadcellen of eicellen de verrichter gebruik wenst te maken. | DB | *** | € 5.150 |
+| [1a, lid 1 b](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&artikel=1a) | De verrichter van kunstmatige donorbevruchting beschikt niet over een reservering voor een aan die donorcode gekoppelde moedercode of een aan die donorcode gekoppelde moedercode die reeds aan de te behandelen vrouw is toegekend. | DB | *** | € 5.150 |
+| [1a, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&artikel=1a) | De verrichter van kunstmatige donorbevruchting gebruikt voor de te behandelen vrouw dezelfde moedercode als reeds toegekend aan een andere vrouw, terwijl de verrichter niet verifieert of ten tijde van de behandeling sprake is van een huwelijk, geregistreerd partnerschap of samenlevingscontract tussen deze twee vrouwen. | DB | *** | € 5.150 |
+| [2, lid 1 a](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&artikel=2) | De verrichter van kunstmatige donorbevruchting laat na om binnen een door het College bij reglement te bepalen termijn de donorcode van de donor van wiens zaadcellen de verrichter gebruik heeft gemaakt, aan het College te verstrekken. | DB | *** | € 5.150 |
+| [2, lid 1 b](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&artikel=2) | De verrichter van kunstmatige donorbevruchting laat na om binnen een door het College bij reglement te bepalen termijn de volgende gegevens van de donor aan het College te verstrekken: fysieke kenmerken, opleiding en beroep, alsmede gegevens omtrent de sociale achtergrond en een aantal persoonlijke kenmerken, een en ander zoals bij algemene maatregel van bestuur bepaald. | DB | *** | € 5.150 |
+| [2, lid 2 a](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&artikel=2) | De verrichter van kunstmatige donorbevruchting laat na om binnen de termijn, bedoeld in het eerste lid, de volgende gegevens aan het College te verstrekken: de geslachtsnaam, voornamen, geboortedatum, woonplaats van de vrouw bij wie de kunstmatige donorbevruchting heeft plaatsgevonden, alsmede het burgerservicenummer tenzij aan de vrouw geen burgerservicenummer is toegekend krachtens de Wet algemene bepalingen burgerservicenummer, of de reeds aan deze vrouw toegekende moedercode die gekoppeld is aan de donorcode van de donor, bedoeld in het eerste lid. | DB | *** | € 5.150 |
+| [2, lid 2 a](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&artikel=2) | In de situatie bedoeld in [artikel 1a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&artikel=1a), laat de verrichter van kunstmatige donorbevruchting na zowel de persoonsindentificerende gegevens van de behandelde vrouw als de gebruikte reeds toegekende moedercode te verstrekken. | DB | *** | € 5.150 |
+| [2, lid 2 b](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&artikel=2) | De verrichter van kunstmatige donorbevruchting laat na om binnen de termijn, bedoeld in het eerste lid, het tijdstip waarop de donorbevruchting heeft plaatsgevonden, aan het College te verstrekken. | DB | *** | € 5.150 |
+| [2, lid 2 c](https://wetten.overheid.nl/jci1.3:c:BWBR0013642&artikel=2) | De verrichter van kunstmatige donorbevruchting laat na om binnen de termijn, bedoeld in het eerste lid, de aantekening of de identiteit van de donor, bedoeld in het eerste lid, bekend is aan de vrouw, aan het College te verstrekken. | DB | *** | € 5.150 |
+
+In onderstaand schema A is één factor genoemd die meegewogen wordt bij het bepalen van de ernst van de overtreding.
+
+**De duur van de overtreding.**Indien kan worden vastgesteld dat een overtreder gedurende langer dan een half jaar niet aan de wettelijke voorschriften heeft voldaan, wordt de duur als lang en verzwarend beoordeeld. Indien wordt vastgesteld dat het overtreden van de wettelijke voorschriften niet langer dan één maand heeft geduurd, wordt de duur als kort en verlichtend beoordeeld.
+
+|   | **Van toepassing** | **Van toepassing** | **Van toepassing** | **Van toepassing** |
+| --- | --- | --- | --- | --- |
+|   | Duur | □ | kort | verlichtend |
+|   | Duur | □ | gemiddeld | geen |
+|   | Duur | □ | lang | verzwarend |
+|   | Duur | □ | Niet van toepassing | geen |
+|   | **Motivering:** |   |   |   |
+
+Met behulp van onderstaand schema B wordt bepaald welk voorlopig boetebedrag van toepassing is op grond van de uitkomsten van stap 1 en 2.
+
+Voor het gebruik van schema B geldt het volgende:
+
+- □. A Er is een verlichtende omstandigheid van toepassing
+
+- □. B Er is geen verlichtende en/of verzwarende omstandigheid van toepassing
+
+- □. C Er is een verzwarende omstandigheid van toepassing
+
+| **Van toepassing** | **Van toepassing** | **Van toepassing** | **Van toepassing** | **Van toepassing** | **Van toepassing** | **Van toepassing** |
+| --- | --- | --- | --- | --- | --- | --- |
+|   | Boetenormbedrag uit stap 1 is het uitgangspunt = € | Boetenormbedrag uit stap 1 is het uitgangspunt = € | Boetenormbedrag uit stap 1 is het uitgangspunt = € | Boetenormbedrag uit stap 1 is het uitgangspunt = € | Boetenormbedrag uit stap 1 is het uitgangspunt = € | Boetenormbedrag uit stap 1 is het uitgangspunt = € |
+|   | Omstandigheden m.b.t. de ernst van de overtreding (stap 2) | Omstandigheden m.b.t. de ernst van de overtreding (stap 2) | Omstandigheden m.b.t. de ernst van de overtreding (stap 2) | Omstandigheden m.b.t. de ernst van de overtreding (stap 2) | *** |   |
+| A |   |   |   |   | □ 80%N |   |
+| B |   |   |   |   | □ 90% N |   |
+| C |   |   |   |   | □ 100% N |   |
+| **Tussenberekening boetebedrag: €** | **Tussenberekening boetebedrag: €** | **Tussenberekening boetebedrag: €** | **Tussenberekening boetebedrag: €** | **Tussenberekening boetebedrag: €** | **Tussenberekening boetebedrag: €** | **Tussenberekening boetebedrag: €** |
+
+De boete wordt afgestemd op de mate waarin de overtreding aan de overtreder kan worden verweten. Hierbij wordt een onderscheid gemaakt tussen opzet, grove schuld, normale verwijtbaarheid en verminderde verwijtbaarheid. Als uitgangspunt geldt dat in beginsel sprake is van normale verwijtbaarheid.
+
+De minister moet aantonen dat sprake is van opzet of grove schuld. Onder opzet wordt verstaan het willens en wetens handelen of nalaten in strijd met het bepaalde in de genoemde artikelen.
+
+Grove schuld is aan de orde wanneer de mate van verwijtbaarheid hoger ligt dan de normale verwijtbaarheid, maar er geen sprake is van opzet. Bijvoorbeeld in het geval van een ernstige, aan opzet grenzende, mate van verwijtbaarheid. Hierbij gaat het dan om ernstige nalatigheid, ernstige onzorgvuldigheid of ernstige onachtzaamheid met als gevolg dat de betreffende bepaling niet of niet behoorlijk is nageleefd. Van grove schuld kan ook sprake zijn wanneer er omstandigheden zijn die elk op zich normale verwijtbaarheid opleveren, maar in onderlinge samenhang bezien wel leiden tot grove schuld.
+
+Onder verminderde verwijtbaarheid wordt verstaan situaties waarin het de overtreder niet volledig valt aan te rekenen dat hij de overtreding heeft begaan. Op de overtreder rust de verplichting de daarvoor noodzakelijke feiten en omstandigheden aannemelijk te maken.
+
+| **Van toepassing** | **Van toepassing** |
+| --- | --- |
+| □ Er is sprake van verminderde verwijtbaarheid | –25% van het bedrag uit schema B |
+| **Motivering:** | **Motivering:** |
+| □ Er is sprake van normale verwijtbaarheid | Het boetebedrag uit schema B blijft gelijk |
+| **Motivering:** | **Motivering:** |
+| □ Er is sprake van grove schuld | +25% van het bedrag uit schema B |
+| **Motivering:** | **Motivering:** |
+| □ Er sprake van opzet | +50% van het bedrag uit schema B Deze mag het maximale vastgestelde boetebedrag in de wet niet overschrijden |
+| **Motivering:** | **Motivering:** |
+| **Tussenberekening boetebedrag: €** | **Tussenberekening boetebedrag: €** |
+
+De aard van de overtreder speelt een rol in het bepalen van de hoogte van de boete. Er wordt een onderscheid gemaakt tussen een natuurlijk persoon, een natuurlijk persoon die een onderneming drijft of een rechtspersoon die een onderneming drijft. Dit zorgt ervoor dat natuurlijke personen en rechtspersonen op evenredige wijze worden geraakt door de boete.
+
+De grootte van de onderneming van een natuurlijk persoon en een rechtspersoon wordt berekend aan de hand van het aantal fte binnen de onderneming. Dit wordt bepaald door de hoeveelheid werkzame personen van een onderneming, zoals geregistreerd in het handelsregister van de Kamer van Koophandel, te vermenigvuldigen met 0,65 (afgeleid van het statistisch gemiddelde van het CBS van werkzame personen per fte volgens CBS).
+
+Indien het aantal werkzame personen niet uit het handelsregister blijkt, of indien er reden is om aan te nemen dat de registratie in het handelsregister onjuist of niet langer actueel is, wordt een inschatting van het aantal werkzame personen gemaakt op basis van constateringen van de inspecteur tijdens een inspectie of gegevens uit het jaarverslag. Het aantal fte wordt indien nodig afgerond in het voordeel van de betrokkene. Een uitkomst van 0,65 of minder wordt afgerond op 1 fte.
+
+| **Van toepassing** | **Van toepassing** | **Van toepassing** |
+| --- | --- | --- |
+| □ | Overtreder is een natuurlijk persoon of rechtspersoon met minder dan 20 FTE | Boetebedrag is 50% van het in schema C vastgestelde bedrag |
+| □ | Overtreder is een natuurlijk persoon of rechtspersoon met 20 of meer FTE, maar minder dan 100 FTE | Boetebedrag is 75% van het in schema C vastgestelde bedrag |
+| □ | Overtreder is een natuurlijk persoon of rechtspersoon met 100 of meer FTE | Het in schema C vastgestelde bedrag blijft gelijk |
+| **Tussenberekening boetebedrag: €** | **Tussenberekening boetebedrag: €** | **Tussenberekening boetebedrag: €** |
+
+Indien binnen vier jaar nadat een bestuurlijke boete is opgelegd opnieuw hetzelfde wettelijke voorschrift wordt overtreden, aan te duiden als recidive, wordt het nominale boetebedrag bij een nieuwe bestuurlijke boete verdubbeld. Bij een derde overtreding van hetzelfde wettelijke voorschrift binnen de recidivetermijn wordt het nominale boetebedrag verhoogd met factor 3. Bij volgende overtredingen van hetzelfde wettelijke voorschrift binnen de recidivetermijn wordt het nominale boetebedrag steeds met een extra factor 1 verhoogd ten opzichte van de eerdere verhogingsfactor, tot het maximale in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013642) vastgestelde boetebedrag is bereikt. Onherroepelijkheid van een eerdere boete speelt geen rol bij de vraag of de boete verhoogd kan worden wegens recidive.
+
+| **Van toepassing** | **Van toepassing** |
+| --- | --- |
+| □ Recidive: nee | Het in schema D vastgestelde bedrag blijft gelijk |
+| **Eind boetebedrag: €** | **Eind boetebedrag: €** |
+| □ Recidive: ja | Het boetebedrag van schema D dient verdubbeld te worden. Deze mag het maximale vastgestelde boetebedrag in de wet niet overschrijden |
+| Rapportnummer: Datum overtreding: | Rapportnummer: Datum overtreding: |
+| **Eind boetebedrag: €** | **Eind boetebedrag: €** |
+
+Het boetebedrag is nu vastgesteld op grond van de Beleidsregels bestuurlijke boete Ministerie Volksgezondheid Welzijn en Sport 2019.
+
+## Bijlage. bij de Boetebeleidsregels Ministerie VWS 2019: [Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705) (Wpg)
+
+Dit onderdeel is nog niet inwerking getreden
 
 Deze beleidsregels zullen met de toelichting in de Staatscourant worden geplaatst.
