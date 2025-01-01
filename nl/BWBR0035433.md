@@ -4,7 +4,7 @@ identifier: "BWBR0035433"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-31"
-last_updated: "2024-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035433"
 soort: "ministeriele-regeling"
@@ -68,7 +68,7 @@ Besluit:
 
 - k. **algehele anesthesie:** het door middel van narcotica teweegbrengen van een omkeerbare en gecontroleerde toestand van bewusteloosheid, pijnloosheid en uitschakeling van lichaamsreflexen;
 
-- l. **abortushulpverlening:** de activiteiten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=1&artikel=4&z=2024-01-01&g=2024-01-01), voor zowel personen die overeenkomstig de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) zijn verzekerd als personen die niet overeenkomstig de Wet langdurige zorg zijn verzekerd;
+- l. **abortushulpverlening:** de activiteiten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=1&artikel=4&z=2025-01-01&g=2025-01-01), voor zowel personen die overeenkomstig de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) zijn verzekerd als personen die niet overeenkomstig de Wet langdurige zorg zijn verzekerd;
 
 - m. **opbrengsten:** baten uit gesubsidieerde abortushulpverlening en baten uit niet-gesubsidieerde abortushulpverlening;
 
@@ -86,7 +86,7 @@ Besluit:
 
 ##### Artikel 2
 
-1. De minister kan op aanvraag aan een abortuskliniek als bedoeld in [artikel 1 van de Wet afbreking zwangerschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=1) subsidie verlenen voor het verrichten van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=1&artikel=4&z=2024-01-01&g=2024-01-01) genoemde activiteiten.
+1. De minister kan op aanvraag aan een abortuskliniek als bedoeld in [artikel 1 van de Wet afbreking zwangerschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=1) subsidie verlenen voor het verrichten van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=1&artikel=4&z=2025-01-01&g=2025-01-01) genoemde activiteiten.
 
 2. De subsidie wordt slechts verstrekt ten behoeve van een abortuskliniek met een vergunning als bedoeld in [artikel 2 van de Wet afbreking zwangerschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=2).
 
@@ -114,27 +114,27 @@ Besluit:
 
 1. De subsidie voor een activiteit als hieronder vermeld, bedraagt maximaal:
 
-- a. € 51 per consult;
+- a. € 54 per consult;
 
-- b. € 504 per eerste trimesterbehandeling, indien de zwangerschapsafbreking medicamenteus wordt verricht;
+- b. € 526 per eerste trimesterbehandeling, indien de zwangerschapsafbreking medicamenteus wordt verricht;
 
-- c. € 671 per eerste trimesterbehandeling, indien de zwangerschapsafbreking door middel van vacuümaspiratie wordt verricht zonder PSA of algehele anesthesie;
+- c. € 699 per eerste trimesterbehandeling, indien de zwangerschapsafbreking door middel van vacuümaspiratie wordt verricht zonder PSA of algehele anesthesie;
 
-- d. € 791 per eerste trimesterbehandeling, indien de zwangerschapsafbreking door middel van vacuümaspiratie wordt verricht, waarbij PSA wordt toegepast onder verantwoordelijkheid van een abortusarts;
+- d. € 825 per eerste trimesterbehandeling, indien de zwangerschapsafbreking door middel van vacuümaspiratie wordt verricht, waarbij PSA wordt toegepast onder verantwoordelijkheid van een abortusarts;
 
-- e. € 820 per eerste trimesterbehandeling, indien de zwangerschapsafbreking door middel van vacuümaspiratie wordt verricht, waarbij PSA of algehele anesthesie wordt toegepast door een anesthesioloog;
+- e. € 854 per eerste trimesterbehandeling, indien de zwangerschapsafbreking door middel van vacuümaspiratie wordt verricht, waarbij PSA of algehele anesthesie wordt toegepast door een anesthesioloog;
 
-- f. € 964 per tweede trimesterbehandeling, indien de zwangerschapsafbreking in de periode vanaf 13 tot en met 17 weken en 6 dagen amenorroe wordt verricht, waarbij PSA wordt toegepast onder verantwoordelijkheid van een abortusarts;
+- f. € 1.004 per tweede trimesterbehandeling, indien de zwangerschapsafbreking in de periode vanaf 13 tot en met 17 weken en 6 dagen amenorroe wordt verricht, waarbij PSA wordt toegepast onder verantwoordelijkheid van een abortusarts;
 
-- g. € 1.045 per tweede trimesterbehandeling, indien de zwangerschapsafbreking in de periode vanaf 13 tot en met 17 weken en 6 dagen amenorroe wordt verricht, waarbij PSA of algehele anesthesie wordt toegepast door een anesthesioloog;
+- g. € 1.089 per tweede trimesterbehandeling, indien de zwangerschapsafbreking in de periode vanaf 13 tot en met 17 weken en 6 dagen amenorroe wordt verricht, waarbij PSA of algehele anesthesie wordt toegepast door een anesthesioloog;
 
-- h. € 1.237 per tweede trimesterbehandeling, indien de zwangerschapsafbreking in de periode vanaf 18 weken amenorroe wordt verricht, waarbij PSA wordt toegepast onder verantwoordelijkheid van een abortusarts;
+- h. € 1.289 per tweede trimesterbehandeling, indien de zwangerschapsafbreking in de periode vanaf 18 weken amenorroe wordt verricht, waarbij PSA wordt toegepast onder verantwoordelijkheid van een abortusarts;
 
-- i. € 1.372 per tweede trimesterbehandeling, indien de zwangerschapsafbreking in de periode vanaf 18 weken amenorroe wordt verricht, waarbij PSA of algehele anesthesie wordt toegepast door een anesthesioloog;
+- i. € 1.430 per tweede trimesterbehandeling, indien de zwangerschapsafbreking in de periode vanaf 18 weken amenorroe wordt verricht, waarbij PSA of algehele anesthesie wordt toegepast door een anesthesioloog;
 
-- j. € 91 voor het plaatsen van langdurige anticonceptie aansluitend op een zwangerschapsafbreking;
+- j. € 92 voor het plaatsen van langdurige anticonceptie binnen een periode van acht weken aansluitend op een zwangerschapsafbreking;
 
-- k. € 60 per anticonceptieconsult dat plaatsvindt in de periode van 1 juli 2023 tot en met 31 december 2024.
+- k. € 64 per anticonceptieconsult dat plaatsvindt in de periode van 1 juli 2023 tot en met 31 december 2025.
 
 2. De in het eerste lid, onder b tot en met j, vermelde bedragen omvatten mede de kosten van gesprekken, nazorg en nacontrole.
 
@@ -158,9 +158,9 @@ Besluit:
 
 5. De aanvraag tot verlening van de subsidie gaat vergezeld van:
 
-- a. een overzicht van het aantal te verrichten activiteiten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=1&artikel=4&z=2024-01-01&g=2024-01-01) en
+- a. een overzicht van het aantal te verrichten activiteiten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=1&artikel=4&z=2025-01-01&g=2025-01-01) en
 
-- b. een ondertekende overeenkomst voor het vestigen van een dienst van algemeen economisch belang, als bedoeld in [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=1&artikel=1b&z=2024-01-01&g=2024-01-01).
+- b. een ondertekende overeenkomst voor het vestigen van een dienst van algemeen economisch belang, als bedoeld in [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=1&artikel=1b&z=2025-01-01&g=2025-01-01).
 
 ##### Artikel 7
 
@@ -184,13 +184,13 @@ De minister bepaalt bij het besluit tot verlening van de subsidie:
 
 - a. voor welke periode de subsidie wordt verleend,
 
-- b. voor welke activiteiten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=1&artikel=4&z=2024-01-01&g=2024-01-01), de subsidie wordt verleend,
+- b. voor welke activiteiten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=1&artikel=4&z=2025-01-01&g=2025-01-01), de subsidie wordt verleend,
 
-- c. het aantal activiteiten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=1&artikel=4&z=2024-01-01&g=2024-01-01), waarvoor subsidie wordt verleend,
+- c. het aantal activiteiten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=1&artikel=4&z=2025-01-01&g=2025-01-01), waarvoor subsidie wordt verleend,
 
-- d. het bedrag dat per activiteit, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=1&artikel=4&z=2024-01-01&g=2024-01-01), aan subsidie wordt verleend,
+- d. het bedrag dat per activiteit, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=1&artikel=4&z=2025-01-01&g=2025-01-01), aan subsidie wordt verleend,
 
-- e. op welke wijze de subsidieontvanger kan aantonen dat de activiteiten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=1&artikel=4&z=2024-01-01&g=2024-01-01), waarvoor de subsidie is verleend, zijn verricht en
+- e. op welke wijze de subsidieontvanger kan aantonen dat de activiteiten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=1&artikel=4&z=2025-01-01&g=2025-01-01), waarvoor de subsidie is verleend, zijn verricht en
 
 - f. op welke wijze de subsidieontvanger kan aantonen dat voldaan is aan de verplichtingen die verbonden zijn aan de verleende subsidie.
 
@@ -198,7 +198,7 @@ De minister bepaalt bij het besluit tot verlening van de subsidie:
 
 1. De minister verleent bij het besluit tot verlening van een subsidie ambtshalve tevens de volgende voorschotten: in januari 8%, februari 8%, maart 8%, april 7%, mei 16%, juni 7%, juli 8%, augustus 8%, september 7%, oktober 8%, november 8% en december 7% van het bedrag van de verleende subsidie.
 
-2. Op verzoek van de subsidieontvanger of indien een aanvraag van een subsidie later is ingediend dan in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=2&artikel=6&z=2024-01-01&g=2024-01-01) is bepaald, kan de minister van het eerste lid afwijken.
+2. Op verzoek van de subsidieontvanger of indien een aanvraag van een subsidie later is ingediend dan in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=2&artikel=6&z=2025-01-01&g=2025-01-01) is bepaald, kan de minister van het eerste lid afwijken.
 
 ##### Artikel 11
 
@@ -208,7 +208,7 @@ Een subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verl
 
 ##### Artikel 12
 
-De subsidieontvanger draagt er zorg voor dat geen betalingen van verzekerden als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=1&artikel=2&z=2024-01-01&g=2024-01-01), worden gevraagd voor de gesubsidieerde activiteiten.
+De subsidieontvanger draagt er zorg voor dat geen betalingen van verzekerden als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=1&artikel=2&z=2025-01-01&g=2025-01-01), worden gevraagd voor de gesubsidieerde activiteiten.
 
 ##### Artikel 13
 
@@ -224,7 +224,7 @@ De subsidieontvanger zorgt ervoor dat:
 
 1. De subsidieontvanger neemt het volgende op in zijn administratie:
 
-- a. het aantal verrichte activiteiten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=1&artikel=4&z=2024-01-01&g=2024-01-01), per zwangerschap van een cliënt alsmede de datum waarop de activiteiten zijn verricht en
+- a. het aantal verrichte activiteiten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=1&artikel=4&z=2025-01-01&g=2025-01-01), per zwangerschap van een cliënt alsmede de datum waarop de activiteiten zijn verricht en
 
 - b. de ontvangsten en betalingen, duidelijk traceerbaar naar bron en bestemming.
 
@@ -256,7 +256,7 @@ De subsidieontvanger werkt, onder meer door het verschaffen van de daartoe benod
 
 - b. voor de ontwikkeling van het beleid van de minister of
 
-- c. voor het berekenen van tarieven voor de activiteiten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=1&artikel=4&z=2024-01-01&g=2024-01-01), of
+- c. voor het berekenen van tarieven voor de activiteiten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=1&artikel=4&z=2025-01-01&g=2025-01-01), of
 
 - d. voor het verkrijgen van een volledig en recent overzicht van de financiële situatie van de subsidieontvanger, alsook van de rechtspersoon of rechtspersonen waarover de subsidieontvanger direct of indirect zeggenschap uitoefent.
 
@@ -328,7 +328,7 @@ De minister kan bij de verlening van de subsidie verplichtingen opleggen als bed
 
 1. Binnen tweeëntwintig weken na ontvangst van de aanvraag tot vaststelling van de subsidie neemt de minister een besluit op de aanvraag.
 
-2. De subsidie wordt vastgesteld op de bedragen per activiteit, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=1&artikel=4&z=2024-01-01&g=2024-01-01), voor het aantal activiteiten dat is verricht in het jaar waarvoor de subsidie is verleend, verminderd met de eventuele overschrijding van de maximaal toegestane toevoeging aan de egalisatiereserve als bedoeld in [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=7&artikel=28&z=2024-01-01&g=2024-01-01).
+2. De subsidie wordt vastgesteld op de bedragen per activiteit, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=1&artikel=4&z=2025-01-01&g=2025-01-01), voor het aantal activiteiten dat is verricht in het jaar waarvoor de subsidie is verleend, verminderd met de eventuele overschrijding van de maximaal toegestane toevoeging aan de egalisatiereserve als bedoeld in [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=7&artikel=28&z=2025-01-01&g=2025-01-01).
 
 #### Paragraaf 6. Vaststelling
 
@@ -338,7 +338,7 @@ De minister kan bij de verlening van de subsidie verplichtingen opleggen als bed
 
 2. De egalisatiereserve bedraagt ten minste € 0 en ten hoogste 10% van het bij het besluit tot verlening bepaalde bedrag van de subsidie.
 
-3. Voor een periode van drie jaar na oprichting van de subsidieontvanger bedraagt de egalisatiereserve ten hoogste 20% van het bij het besluit tot verlening bepaalde bedrag van de subsidie.
+3. Voor een periode van drie jaar na aanvang van het boekjaar waarvoor de subsidie voor het eerst is verstrekt bedraagt de egalisatiereserve ten hoogste 20% van het bij het besluit tot verlening bepaalde bedrag van de subsidie.
 
 4. Indien de subsidie wordt verlaagd wegens het niet of niet geheel verrichten van de activiteiten waarvoor de subsidie is verleend, wordt de maximaal toegestane egalisatiereserve berekend op basis van de verlaagde subsidie.
 
@@ -384,7 +384,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1b
 
-1. Het verrichten van de activiteiten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=1&artikel=2&z=2024-01-01&g=2024-01-01), wordt aangewezen als een dienst van algemeen economisch belang in de zin van artikel 106, tweede lid, van het Verdrag betreffende de werking van de Europese Unie.
+1. Het verrichten van de activiteiten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=1&artikel=2&z=2025-01-01&g=2025-01-01), wordt aangewezen als een dienst van algemeen economisch belang in de zin van artikel 106, tweede lid, van het Verdrag betreffende de werking van de Europese Unie.
 
 2. Subsidie wordt uitsluitend verstrekt indien de aanvrager met de Staat een overeenkomst sluit waarbij de Staat hem belast met en hij zich verplicht tot het verrichten van de dienst van algemeen economisch belang, bedoeld in het eerste lid.
 
