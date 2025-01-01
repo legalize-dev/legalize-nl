@@ -4,7 +4,7 @@ identifier: "BWBR0049127"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2024-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049127"
 soort: "wet"
@@ -48,8 +48,6 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel II
 
 1. Van overdrachtsbelasting is vrijgesteld de verkrijging van economische eigendom als bedoeld in [artikel 2, tweede lid, van de Wet op belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=2) ingeval deze uiterlijk op 31 december 2024 wordt verkregen:
@@ -74,7 +72,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 1. Deze wet treedt in werking met ingang van 1 januari 2024.
 
-2. In afwijking van het eerste lid treedt [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0049127&artikel=I&z=2024-01-01&g=2024-01-01) in werking met ingang van 1 januari 2025.
+2. In afwijking van het eerste lid treedt [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0049127&artikel=I&z=2025-01-01&g=2025-01-01) in werking met ingang van 1 januari 2025.
 
 ##### Artikel IV
 
