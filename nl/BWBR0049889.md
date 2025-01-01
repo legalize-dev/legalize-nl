@@ -4,7 +4,7 @@ identifier: "BWBR0049889"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2024-07-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049889"
 soort: "wet"
@@ -46,8 +46,6 @@ Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met 
 ##### Artikel I
 
 Wijzigt de Wet goed verhuurderschap.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel II
 
