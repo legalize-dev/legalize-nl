@@ -4,7 +4,7 @@ identifier: "BWBR0045050"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2021-11-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045050"
 soort: "ministeriele-regeling"
@@ -64,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 1. Een exploitant van een inrichting voor het houden van runderen waaraan een uniek registratienummer is toegekend, is jaarlijks een retributie verschuldigd die bestaat uit:
 
-- a. een vast bedrag per aan de exploitant toegekend uniek registratienummer van € 33,50 voor de instandhouding van de registratie; en
+- a. een vast bedrag per aan de exploitant toegekend uniek registratienummer van € 39,28 voor de instandhouding van de registratie; en
 
 - b. een bedrag afhankelijk van het aantal runderen dat op de inrichting is geboren, daarop is aangevoerd vanuit Nederland of uit het buitenland.
 
@@ -96,7 +96,7 @@ In deze regeling wordt verstaan onder:
 
 1. Een exploitant van een inrichting voor het houden van schapen of geiten waaraan een uniek registratienummer is toegekend, is jaarlijks een retributie verschuldigd die bestaat uit:
 
-- a. een vast bedrag per aan de exploitant toegekend uniek registratienummer van € 26,00 voor de instandhouding van de registratie; en
+- a. een vast bedrag per aan de exploitant toegekend uniek registratienummer van € 30,49 voor de instandhouding van de registratie; en
 
 - b. een bedrag afhankelijk van het aantal schapen of geiten dat op de inrichting is geboren, daarop is aangevoerd vanuit Nederland of uit het buitenland.
 
@@ -118,7 +118,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 6. Registratie inrichting
 
-Een exploitant van een inrichting voor het houden van varkens waaraan een uniek registratienummer is toegekend, is jaarlijks een retributie verschuldigd van € 19,00 voor de instandhouding van die registratie.
+Een exploitant van een inrichting voor het houden van varkens waaraan een uniek registratienummer is toegekend, is jaarlijks een retributie verschuldigd van € 22,28 voor de instandhouding van die registratie.
 
 ##### Artikel 7. Verwerken van gegevens in geautomatiseerd gegevensbestand
 
@@ -140,13 +140,13 @@ Voor de behandeling van een aanvraag om afgifte van een identificatiedocument al
 
 ##### Artikel 10. Registratie houder
 
-Voor de registratie, bedoeld in [artikel 2.76l, eerste lid, van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.76l) is de houder, bedoeld in dat lid, jaarlijks een retributie verschuldigd van € 19,00.
+Voor de registratie, bedoeld in [artikel 2.76l, eerste lid, van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.76l) is de houder, bedoeld in dat lid, jaarlijks een retributie verschuldigd van € 22,28.
 
 #### § 6a. Honden
 
 ##### Artikel 11. Aanmelding
 
-Voor de aanmelding, bedoeld in [art. 3.8, eerste lid, van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=3.8) is degene die de aanmelding doet jaarlijks een retributie verschuldigd van € 19,00.
+Voor de aanmelding, bedoeld in [art. 3.8, eerste lid, van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=3.8) is degene die de aanmelding doet jaarlijks een retributie verschuldigd van € 22,28.
 
 #### § 8. Goedkeuring identificatiemiddelen en erkenning leveranciers
 
@@ -162,7 +162,7 @@ Voor de verlening van een erkenning van een leverancier van een identificatiemid
 
 ##### Artikel 14. Samenloop retributie registratie
 
-Een exploitant van een inrichting waar dieren van verschillende soorten worden gehouden, is voor elke diersoort, in voorkomend geval, het vaste bedrag verschuldigd, bedoeld in de [artikelen 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045050&paragraaf=2&artikel=2&z=2021-11-01&g=2021-11-01), [4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045050&paragraaf=3&artikel=4&z=2021-11-01&g=2021-11-01), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0045050&paragraaf=4&artikel=6&z=2021-11-01&g=2021-11-01).
+Een exploitant van een inrichting waar dieren van verschillende soorten worden gehouden, is voor elke diersoort, in voorkomend geval, het vaste bedrag verschuldigd, bedoeld in de [artikelen 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045050&paragraaf=2&artikel=2&z=2025-01-01&g=2025-01-01), [4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045050&paragraaf=3&artikel=4&z=2025-01-01&g=2025-01-01), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0045050&paragraaf=4&artikel=6&z=2025-01-01&g=2025-01-01).
 
 ##### Artikel 15. Vaststelling en verrekening
 
@@ -192,7 +192,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 10a. Registratie houder
 
-Voor het verwerken van de registratie, bedoeld in [artikel 3.29, eerste lid, van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=3.29), is de houder een eenmalige retributie verschuldigd van € 19,00.
+1. Voor het verwerken van de registratie, bedoeld in [artikel 3.29, eerste lid, van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=3.29), is de houder een eenmalige retributie verschuldigd van € 22,28.
+
+2. De Minister verwerkt de registratie, bedoeld in het eerste lid, slechts nadat betaling van het bedrag heeft plaatsgevonden.
 
 ##### Artikel 10b. Erkenning uitgever identificatiedocumenten
 
