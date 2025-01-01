@@ -4,7 +4,7 @@ identifier: "BWBR0009365"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2009-10-31"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009365"
 soort: "ministeriele-regeling"
@@ -104,7 +104,7 @@ het aantal verleners van grondafhandelingsdiensten beperken tot niet minder dan 
 
 ##### Artikel 6
 
-Indien op een luchthaven als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=5&z=2009-10-31&g=2009-10-31), de in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=5&z=2009-10-31&g=2009-10-31) genoemde minima aan verkeersomvang voor vracht worden bereikt zonder dat de in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=5&z=2009-10-31&g=2009-10-31) genoemde minima voor het passagiersvervoer worden bereikt, is [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=5&z=2009-10-31&g=2009-10-31) niet van toepassing voor grondafhandelingsdiensten die uitsluitend voor passagiers zijn bestemd.
+Indien op een luchthaven als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=5&z=2025-01-01&g=2025-01-01), de in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=5&z=2025-01-01&g=2025-01-01) genoemde minima aan verkeersomvang voor vracht worden bereikt zonder dat de in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=5&z=2025-01-01&g=2025-01-01) genoemde minima voor het passagiersvervoer worden bereikt, is [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=5&z=2025-01-01&g=2025-01-01) niet van toepassing voor grondafhandelingsdiensten die uitsluitend voor passagiers zijn bestemd.
 
 ##### Artikel 7
 
@@ -122,9 +122,9 @@ Indien op een luchthaven als bedoeld in [artikel 5, eerste lid](https://wetten.o
 
 ##### Artikel 9
 
-1. De exploitant van de luchthaven overlegt tenminste een maal per jaar met het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=8&z=2009-10-31&g=2009-10-31) genoemde overlegorgaan van gebruikers en met de verleners van grondafhandelingsdiensten op de luchthaven en voorts telkens als daarom door dat overlegorgaan of door de meerderheid van de verleners van grondafhandelingsdiensten wordt verzocht, over de toepassing van deze regeling en in het bijzonder over de prijzen van de grondafhandelingsdiensten welke met toepassing van [artikel 11, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=11&z=2009-10-31&g=2009-10-31), door slechts een enkele verlener van zodanige diensten worden verricht en over de organisatie van de verlening van die diensten.
+1. De exploitant van de luchthaven overlegt tenminste een maal per jaar met het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=8&z=2025-01-01&g=2025-01-01) genoemde overlegorgaan van gebruikers en met de verleners van grondafhandelingsdiensten op de luchthaven en voorts telkens als daarom door dat overlegorgaan of door de meerderheid van de verleners van grondafhandelingsdiensten wordt verzocht, over de toepassing van deze regeling en in het bijzonder over de prijzen van de grondafhandelingsdiensten welke met toepassing van [artikel 11, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=11&z=2025-01-01&g=2025-01-01), door slechts een enkele verlener van zodanige diensten worden verricht en over de organisatie van de verlening van die diensten.
 
-2. De exploitant van de luchthaven stelt het overlegorgaan van gebruikers zo spoedig mogelijk in kennis van besluiten als in [artikel 12, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=12&z=2009-10-31&g=2009-10-31), en [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=13&z=2009-10-31&g=2009-10-31) bedoeld, alsmede van andere besluiten inzake de grondafhandelingsmarkt.
+2. De exploitant van de luchthaven stelt het overlegorgaan van gebruikers zo spoedig mogelijk in kennis van besluiten als in [artikel 12, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=12&z=2025-01-01&g=2025-01-01), en [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=13&z=2025-01-01&g=2025-01-01) bedoeld, alsmede van andere besluiten inzake de grondafhandelingsmarkt.
 
 #### Centrale voorzieningen
 
@@ -138,15 +138,15 @@ Indien op een luchthaven als bedoeld in [artikel 5, eerste lid](https://wetten.o
 
 ##### Artikel 11
 
-1. Indien op een luchthaven specifieke belemmeringen met betrekking tot de beschikbare ruimte of capaciteit toepassing van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=3&z=2009-10-31&g=2009-10-31) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=5&z=2009-10-31&g=2009-10-31) onmogelijk maken, kan de Minister op verzoek van de exploitant van de luchthaven:
+1. Indien op een luchthaven specifieke belemmeringen met betrekking tot de beschikbare ruimte of capaciteit toepassing van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=3&z=2025-01-01&g=2025-01-01) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=5&z=2025-01-01&g=2025-01-01) onmogelijk maken, kan de Minister op verzoek van de exploitant van de luchthaven:
 
-- a. het aantal verleners van grondafhandelingsdiensten voor een of meer andere categorieën grondafhandelingsdiensten dan die bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=5&z=2009-10-31&g=2009-10-31), op de luchthaven in zijn geheel of op een deel daarvan tot niet minder dan twee beperken; [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=5&z=2009-10-31&g=2009-10-31), is van toepassing;
+- a. het aantal verleners van grondafhandelingsdiensten voor een of meer andere categorieën grondafhandelingsdiensten dan die bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=5&z=2025-01-01&g=2025-01-01), op de luchthaven in zijn geheel of op een deel daarvan tot niet minder dan twee beperken; [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=5&z=2025-01-01&g=2025-01-01), is van toepassing;
 
-- b. een of meer van de in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=5&z=2009-10-31&g=2009-10-31), bedoelde categorieën grondafhandelingsdiensten voor een enkele verlener van zodanige diensten reserveren;
+- b. een of meer van de in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=5&z=2025-01-01&g=2025-01-01), bedoelde categorieën grondafhandelingsdiensten voor een enkele verlener van zodanige diensten reserveren;
 
-- c. het verrichten van andere categorieën zelfafhandelingsdiensten dan die bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=3&z=2009-10-31&g=2009-10-31), voor een beperkt aantal gebruikers reserveren, mits deze beperking is gebaseerd op relevante, objectieve, transparante en niet-discriminerende criteria, of
+- c. het verrichten van andere categorieën zelfafhandelingsdiensten dan die bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=3&z=2025-01-01&g=2025-01-01), voor een beperkt aantal gebruikers reserveren, mits deze beperking is gebaseerd op relevante, objectieve, transparante en niet-discriminerende criteria, of
 
-- d. het verrichten van de in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=3&z=2009-10-31&g=2009-10-31), bedoelde zelfafhandelingsdiensten verbieden of tot een enkele gebruiker beperken.
+- d. het verrichten van de in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=3&z=2025-01-01&g=2025-01-01), bedoelde zelfafhandelingsdiensten verbieden of tot een enkele gebruiker beperken.
 
 2. Een besluit als in het eerste lid bedoeld:
 
@@ -168,7 +168,7 @@ Indien op een luchthaven als bedoeld in [artikel 5, eerste lid](https://wetten.o
 
 ##### Artikel 12
 
-1. Indien met toepassing van de [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=5&z=2009-10-31&g=2009-10-31), of [11, eerste lid, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=11&z=2009-10-31&g=2009-10-31), het aantal verleners van grondafhandelingsdiensten wordt beperkt, worden de grondafhandelingsdiensten waarop de beperking betrekking heeft aanbesteed. De aanbesteding wordt bekendgemaakt in het Publikatieblad van de Europese Gemeenschappen.
+1. Indien met toepassing van de [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=5&z=2025-01-01&g=2025-01-01), of [11, eerste lid, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=11&z=2025-01-01&g=2025-01-01), het aantal verleners van grondafhandelingsdiensten wordt beperkt, worden de grondafhandelingsdiensten waarop de beperking betrekking heeft aanbesteed. De aanbesteding wordt bekendgemaakt in het Publikatieblad van de Europese Gemeenschappen.
 
 2. Iedere verlener van grondafhandelingsdiensten kan inschrijven op aanbestede grondafhandelingsdiensten.
 
@@ -182,7 +182,7 @@ Indien op een luchthaven als bedoeld in [artikel 5, eerste lid](https://wetten.o
 
 ##### Artikel 13
 
-Indien met toepassing van de [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=5&z=2009-10-31&g=2009-10-31), of [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=11&z=2009-10-31&g=2009-10-31), het aantal verleners van grondafhandelingsdiensten wordt beperkt, kan in afwijking van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=12&z=2009-10-31&g=2009-10-31) de exploitant van de luchthaven, na overleg met het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=8&z=2009-10-31&g=2009-10-31) genoemde overlegorgaan van gebruikers:
+Indien met toepassing van de [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=5&z=2025-01-01&g=2025-01-01), of [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=11&z=2025-01-01&g=2025-01-01), het aantal verleners van grondafhandelingsdiensten wordt beperkt, kan in afwijking van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=12&z=2025-01-01&g=2025-01-01) de exploitant van de luchthaven, na overleg met het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0009365&artikel=8&z=2025-01-01&g=2025-01-01) genoemde overlegorgaan van gebruikers:
 
 - a. zelf grondafhandelingsdiensten verlenen, of
 
@@ -278,7 +278,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1a
 
-Deze regeling berust op [artikel 8a.1, vierde lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.1).
+Deze regeling berust op [artikel 8a.1, zesde lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.1).
 
 #### Verrichten van zelfafhandelingsdiensten
 
