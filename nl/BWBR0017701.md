@@ -4,7 +4,7 @@ identifier: "BWBR0017701"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2024-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017701"
 soort: "ministeriele-regeling"
@@ -65,7 +65,7 @@ Vervallen
 
 1. De vereenvoudigingsmethoden, bedoeld in [artikel 38c, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=38c) zijn de methoden, bedoeld in bijlage V, afdeling 31, derde, vijfde, zevende en negende punt, van [Uitvoeringsverordening (EU) 2020/1197](33097R2020) van de Commissie van 30 juli 2020 tot vaststelling van technische specificaties en regelingen overeenkomstig [Verordening (EU) 2019/2152](32152R2019) van het Europees Parlement en de Raad betreffende Europese bedrijfsstatistieken en tot intrekking van tien rechtshandelingen op het gebied van bedrijfsstatistieken (PbEU 2020, L 271).
 
-2. De in het eerste lid genoemde vereenvoudigingsmethoden gelden voor het jaar 2024.
+2. De in het eerste lid genoemde vereenvoudigingsmethoden gelden voor de jaren 2025, 2026 en 2027.
 
 ##### Artikel 6
 
