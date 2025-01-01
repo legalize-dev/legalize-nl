@@ -4,7 +4,7 @@ identifier: "BWBR0049544"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2024-04-09"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049544"
 soort: "ministeriele-regeling"
@@ -56,19 +56,19 @@ In deze regeling wordt verstaan onder:
 
 - 3°. voertuig, niet bestemd voor personen- of goederenvervoer over de weg; en
 
-- 4°. welke genoemd is in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049544&bijlage=1&z=2024-04-09&g=2024-04-09), onderdeel A; of
+- 4°. welke genoemd is in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049544&bijlage=1&z=2025-01-01&g=2025-01-01), onderdeel A; of
 
 - b. hulpfunctie:
 
 - 1°. machine die is gemonteerd op het chassis van een weg- of spoorvoertuig of een drijvend werktuig; en
 
-- 2°. welke genoemd is in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049544&bijlage=1&z=2024-04-09&g=2024-04-09), onderdeel B; of
+- 2°. welke genoemd is in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049544&bijlage=1&z=2025-01-01&g=2025-01-01), onderdeel B; of
 
 - c. bouwvoertuig:
 
 - 1°. voertuig met de in het kentekenregister vastgelegde voertuigkwalificatie N2 of N3 en met de carrosseriecode 9, 10, 15, 16, 26, 27 en 28 of de aanduiding voor speciale doeleinden SF en indien het voertuigcategorie N2 betreft vanaf een gewicht van 4.250 kg; en
 
-- 2°. welke genoemd is in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049544&bijlage=1&z=2024-04-09&g=2024-04-09), onderdeel C; en
+- 2°. welke genoemd is in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049544&bijlage=1&z=2025-01-01&g=2025-01-01), onderdeel C; en
 
 - d. indien elektrisch aangedreven beschikkende over een continu elektrisch vermogen van 8 kilowatt of hoger; en
 
@@ -102,31 +102,47 @@ Het doel van deze regeling is het stimuleren van medeoverheden om emissieloos bo
 
 ##### Artikel 4. Kosten die in aanmerking komen voor een rijksbijdrage
 
-1. De Minister kan een rijksbijdrage verstrekken voor kosten van de inzet van emissieloze bouwmachines en emissieloze vaartuigen bij aanbestede bouwwerkzaamheden ten behoeve van aanleg, verbetering, beheer en onderhoud en bediening van infrastructuur als bedoeld in de [Wet Mobiliteitsfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0044860), die door de aanvrager wordt beheerd.
+1. De Minister kan een rijksbijdrage verstrekken voor kosten van de inzet van emissieloze bouwmachines en emissieloze vaartuigen bij aanbestede bouwwerkzaamheden ten behoeve van een publieke taak waarvoor de aanvrager financieel verantwoordelijk is.
 
 2. Kosten waarvoor reeds een specifieke uitkering of een andere subsidie door het Rijk, een provinciebestuur of een gemeentebestuur is verstrekt aan de aanvrager voor de inzet van emissieloos bouwmaterieel bij de bouwwerkzaamheid of waarvoor reeds gebruik is gemaakt van Europese subsidies voor de inzet van emissieloos bouwmaterieel bij de bouwwerkzaamheid komen niet voor een rijksbijdrage in aanmerking.
 
 ##### Artikel 5. Plafond en wijze van verdeling
 
-1. Het totale rijksbijdrageplafond voor de gehele looptijd van de regeling bedraagt in totaal € 169.200.000,- inclusief btw.
+1. Het totale rijksbijdrageplafond voor de gehele looptijd van de regeling bedraagt in totaal € 216.000.000 inclusief btw.
 
-2. Het jaarlijkse rijksbijdrageplafond bedraagt voor het jaar 2024 € 18.000.000 inclusief btw.
+2. Het jaarlijkse rijksbijdrageplafond bedraagt:
 
-3. De Minister stelt het jaarlijkse rijksbijdrageplafond vast voor de jaren na 2024 en doet hiervan mededeling in de Staatscourant voor aanvang van het jaar waarvoor het betreffende rijksbijdrageplafond wordt vastgesteld.
+- a. voor het jaar 2024: € 18.000.000 inclusief btw;
 
-4. In [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049544&bijlage=2&z=2024-04-09&g=2024-04-09) bij deze regeling is voor elke aanvrager een jaarlijks individueel uitkeringsplafond bepaald bestaande uit het bedrag van de rijksbijdrage dat voor de aanvrager ten hoogste beschikbaar is voor de in bijlage 2 genoemde periode dat jaarlijks wordt geactualiseerd.
+- b. voor het jaar 2025:
 
-5. Nieuwe ondertekenaars van het Convenant Schoon en Emissieloos Bouwen worden in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049544&bijlage=2&z=2024-04-09&g=2024-04-09) bij de regeling vanaf het volgende jaar opgenomen indien zij dit convenant voor 20 augustus van enig jaar ondertekend hebben.
+- 1°. € 51.000.000 inclusief btw voor de kosten van de inzet van emissieloze bouwmachines en emissieloze vaartuigen bij aanbestede bouwwerkzaamheden ten behoeve van aanleg, verbetering, beheer en onderhoud en bediening van infrastructuur als bedoeld in de [Wet Mobiliteitsfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0044860), die door een provincie, gemeente of waterschap wordt beheerd;
 
-6. Aanvragers kunnen gedurende de in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049544&artikel=7&z=2024-04-09&g=2024-04-09), genoemde aanvraagperiode gebruik maken van het jaarlijkse individuele uitkeringsplafond, bedoeld in het vierde lid. Het bedrag van het jaarlijkse individuele uitkeringsplafond dat over blijft komt na deze aanvraagperiode te vervallen.
+- 2°. € 20.000.000 inclusief btw voor kosten van de inzet van emissieloze bouwmachines en emissieloze vaartuigen bij aanbestede werkzaamheden die niet onder het tweede lid, onderdeel b, onderdeel 1°, vallen.
 
-7. In het jaar dat het totale rijksbijdrageplafond wordt bereikt, wordt het beschikbare bedrag evenredig verdeeld over de medeoverheden die het Convenant Schoon en Emissieloos Bouwen hebben ondertekend.
+3. De verdeling van het rijksbijdrageplafond, bedoeld in het tweede lid, onderdeel b, onderdeel 2°, vindt plaats op volgorde van binnenkomst van de aanvragen met dien verstande dat:
 
-8. In afwijking van het zevende lid hebben nieuwe toetreders tot het Convenant Schoon en Emissieloos Bouwen in het betreffende jaar voorrang boven medeoverheden die reeds een jaarlijks individueel uitkeringsplafond hebben ontvangen.
+- a. indien een aanvrager niet heeft voldaan aan enig wettelijk voorschrift voor het in behandeling nemen van de aanvraag en met toepassing van [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvraag voldoet aan de wettelijke voorschriften met betrekking tot de verdeling als datum van ontvangst geldt;
+
+- b. indien de Minister op de dag dat het subsidieplafond wordt bereikt meer dan één aanvraag ontvangt, hij de onderlinge rangschikking van die aanvragen vaststelt door middel van loting.
+
+4. Indien op 1 mei 2025 het rijksbijdrageplafond in het tweede lid, onderdeel b, onderdeel 2°, nog niet voor 80% bereikt is, kan het nog beschikbare geld gebruikt worden voor de kosten, bedoeld in het tweede lid, onderdeel b, onderdeel 1°.
+
+5. Indien het rijksbijdrageplafond in het tweede lid, onderdeel b, onderdeel 1°, op enig moment in 2025 volledig bereikt is, kan het rijksbijdrageplafond in het tweede lid, onderdeel b, onderdeel 2°, gebruikt worden voor de kosten genoemd in het tweede lid, onderdeel b, onderdeel 1°.
+
+6. In [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049544&bijlage=2&z=2025-01-01&g=2025-01-01) bij deze regeling is voor elke aanvrager een jaarlijks individueel uitkeringsplafond bepaald bestaande uit het bedrag van de rijksbijdrage dat voor de aanvrager ten hoogste beschikbaar is voor de in bijlage 2 genoemde periode dat jaarlijks wordt geactualiseerd.
+
+7. Nieuwe ondertekenaars van het Convenant Schoon en Emissieloos Bouwen worden in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049544&bijlage=2&z=2025-01-01&g=2025-01-01) bij de regeling vanaf het volgende jaar opgenomen indien zij dit convenant voor 20 augustus van enig jaar ondertekend hebben.
+
+8. Aanvragers kunnen gedurende de in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049544&artikel=7&z=2025-01-01&g=2025-01-01), genoemde aanvraagperiode gebruik maken van het jaarlijkse individuele uitkeringsplafond, bedoeld in het zesde lid. Het bedrag van het jaarlijkse individuele uitkeringsplafond dat over blijft komt na deze aanvraagperiode te vervallen.
+
+9. In het jaar dat het totale rijksbijdrageplafond wordt bereikt, wordt het beschikbare bedrag evenredig verdeeld over de medeoverheden die het Convenant Schoon en Emissieloos Bouwen hebben ondertekend.
+
+10. In afwijking van het negende lid hebben nieuwe toetreders tot het Convenant Schoon en Emissieloos Bouwen in het betreffende jaar voorrang boven medeoverheden die reeds een jaarlijks individueel uitkeringsplafond hebben ontvangen.
 
 ##### Artikel 6. Hoogte van de rijksbijdrage
 
-1. De hoogte van de rijksbijdrage exclusief btw wordt bepaald volgens de tabel in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049544&bijlage=3&z=2024-04-09&g=2024-04-09).
+1. De hoogte van de rijksbijdrage exclusief btw wordt bepaald volgens de tabellen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049544&bijlage=3&z=2025-01-01&g=2025-01-01).
 
 2. De som van de uitgekeerde rijksbijdragen per aanvrager gedurende de looptijd van de regeling bedraagt ten hoogste € 5.000.000 inclusief de gemaakte kosten aan btw.
 
@@ -138,15 +154,7 @@ Het doel van deze regeling is het stimuleren van medeoverheden om emissieloos bo
 
 - a. voor het jaar 2024 vanaf 16 april tot en met 20 augustus;
 
-- b. voor het jaar 2025 vanaf 14 januari tot en met 20 augustus;
-
-- c. voor het jaar 2026 vanaf 13 januari tot en met 20 augustus;
-
-- d. voor het jaar 2027 vanaf 12 januari tot en met 20 augustus;
-
-- e. voor het jaar 2028 vanaf 11 januari tot en met 20 augustus;
-
-- f. voor het jaar 2029 vanaf 16 januari tot en met 31 maart.
+- b. voor het jaar 2025 vanaf 14 januari tot en met 12 september.
 
 3. Een aanvraag wordt ingediend met gebruikmaking van een door de Minister ter beschikking gesteld aanvraagformulier.
 
@@ -164,7 +172,7 @@ Het doel van deze regeling is het stimuleren van medeoverheden om emissieloos bo
 
 - e. de geplande start- en einddatum van de bouwwerkzaamheid;
 
-- f. een inzetplan emissieloos materieel met daarop vermeld uitsluitend bouwmachines die zijn vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049544&bijlage=1&z=2024-04-09&g=2024-04-09) of vaartuigen, die emissieloos zijn en die beide een continu elektrisch vermogen hebben van 8 kilowatt of hoger;
+- f. een inzetplan emissieloos materieel met daarop vermeld uitsluitend bouwmachines die zijn vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049544&bijlage=1&z=2025-01-01&g=2025-01-01) of vaartuigen, die emissieloos zijn en die, indien elektrisch aangedreven, beide een continu elektrisch vermogen hebben van 8 kilowatt of hoger;
 
 - g. het bankrekeningnummer waarop het rijksbijdragebedrag dient te worden gestort.
 
@@ -174,9 +182,9 @@ Uitsluitend aanvragen die voldoen aan de volgende voorwaarden worden in behandel
 
 - a. de aanvrager heeft het Convenant Schoon en Emissieloos Bouwen getekend;
 
-- b. de werkzaamheid betreft een bouwwerkzaamheid ten behoeve van aanleg, verbetering, beheer en onderhoud en bediening van infrastructuur die door de aanvrager wordt beheerd;
+- b. de werkzaamheid betreft een bouwwerkzaamheid ten behoeve van een publieke taak waarvoor de aanvrager financieel verantwoordelijk is;
 
-- c. de eerste inzet bij de bouwwerkzaamheid van de in het inzetplan emissieloos materieel genoemde bouwmachines of vaartuigen heeft nog niet plaatsgevonden.
+- c. de eerste inzet bij de bouwwerkzaamheid van de in het inzetplan emissieloos materieel genoemde bouwmachines of vaartuigen is uiterlijk vijf maanden voor de aanvraagdatum gestart.
 
 ##### Artikel 9. Verlening
 
@@ -204,7 +212,7 @@ Een rijksbijdrage ten laste van een begroting die nog niet is vastgesteld, wordt
 
 2. Per aanvraag kan eenmalig één jaar uitstel aangevraagd worden van de start of afronding van de bouwwerkzaamheid bij de Minister.
 
-3. Zodra bekend is bij de aanvrager dat de inzet van het emissieloos bouwmaterieel zodanig anders is in de praktijk dat daardoor de berekende kosten, zoals berekend op basis van het inzetplan emissieloos materieel conform [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049544&bijlage=3&z=2024-04-09&g=2024-04-09), minimaal 10% lager uitvallen dan waarvoor een vergoeding is verstrekt bij de verlening, dient de ontvanger hiervan melding te doen bij de Minister.
+3. Zodra bekend is bij de aanvrager dat de inzet van het emissieloos bouwmaterieel zodanig anders is in de praktijk dat daardoor de berekende kosten, zoals berekend op basis van het inzetplan emissieloos materieel conform [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049544&bijlage=3&z=2025-01-01&g=2025-01-01), minimaal 10% lager uitvallen dan waarvoor een vergoeding is verstrekt bij de verlening, dient de ontvanger hiervan melding te doen bij de Minister.
 
 4. Uiterlijk drie maanden na afronding van de bouwwerkzaamheid worden de ervaringen, resultaten en knelpunten gedeeld met de Minister volgens een door de Minister vastgesteld formulier.
 
@@ -212,7 +220,7 @@ Een rijksbijdrage ten laste van een begroting die nog niet is vastgesteld, wordt
 
 ##### Artikel 12. Bevoorschotting
 
-De Minister verstrekt bij het besluit tot verlening, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0049544&artikel=9&z=2024-04-09&g=2024-04-09), een voorschot van 100%, dat binnen vier weken na de beschikking tot verlening wordt betaald.
+De Minister verstrekt bij het besluit tot verlening, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0049544&artikel=9&z=2025-01-01&g=2025-01-01), een voorschot van 100%, dat binnen vier weken na de beschikking tot verlening wordt betaald.
 
 ##### Artikel 13. Verantwoording gemeenten en provincies
 
@@ -220,7 +228,7 @@ Gemeenten en provincies leggen verantwoording af over de besteding van de rijksb
 
 ##### Artikel 14. Vaststelling van de rijksbijdrage
 
-1. De Minister stelt de rijksbijdrage voor provincies en gemeenten vast uiterlijk op 31 december van het jaar waarin de eindverantwoording, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0049544&artikel=13&z=2024-04-09&g=2024-04-09) heeft plaatsgevonden.
+1. De Minister stelt de rijksbijdrage voor provincies en gemeenten vast uiterlijk op 31 december van het jaar waarin de eindverantwoording, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0049544&artikel=13&z=2025-01-01&g=2025-01-01) heeft plaatsgevonden.
 
 2. De Minister stelt een rijksbijdrage voor een waterschap van minder dan € 25.000,- ambtshalve vast.
 
@@ -248,7 +256,7 @@ De Minister publiceert uiterlijk op 1 oktober 2029 een verslag over de doeltreff
 
 Deze regeling wordt aangehaald als: Regeling stimulering schoon en emissieloos bouwen voor medeoverheden.
 
-## Bijlage 1. Lijst van bouwmachines behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049544&artikel=1&z=2024-04-09&g=2024-04-09) van de regeling
+## Bijlage 1. Lijst van bouwmachines behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049544&artikel=1&z=2025-01-01&g=2025-01-01) van de regeling
 
 ### A. Bouwwerktuigen
 
@@ -264,9 +272,9 @@ A1.4 ballastafwerkmachine
 
 A1.5 bestratingsmachine (zelfrijdend)
 
-A1.6 betonmachine / paver
+A1.6 beton- of mortelmachine / paver / mobiele 3D printer
 
-A1.7 betonpomp (stand-alone)
+A1.7 beton- of bentonietpomp (stand-alone)
 
 A1.8 bodemstabiliseerder
 
@@ -298,7 +306,7 @@ A1.23 mobiele graafmachine (niet zijnde 'overslagmachine')
 
 A1.24 mobiele kraan (telescoopkraan, torenkraan, rupshijskraan, ruwterreinkraan, draadkraan, minihijskraan, dragline-kraan)
 
-A1.25 mobiele lopende band (transportband)
+A1.25 mobiele lopende band (transportband), zelf aangedreven mobiel modulair transportsysteem
 
 A1.26 mobiele puinbreekinstallatie
 
@@ -310,7 +318,7 @@ A1.29 rupsdumper
 
 A1.30 rupsgraafmachine
 
-A1.31 ruw terrein heftruck
+A1.31 ruw terrein heftruck 4x4 aangedreven
 
 A1.32 schranklader
 
@@ -344,8 +352,6 @@ A1.46 boomverplantingsmachine
 
 Vervoerbare industriële uitrustingen
 
-A2.1 aggregaat met verbrandingsmotor voor off-grid stroomvoorziening vanaf 560 kW
-
 A2.2 aggregaat op wind- of zonne-energie voor off-grid stroomvoorziening (niet hybride met verbrandingsmotor)
 
 A2.3 aggregaat voor off-grid stroomvoorziening aangedreven door waterstof of
@@ -358,7 +364,7 @@ A2.5 lasaggregaat
 
 A2.6 lichtmastaggregaat/lichtmast (zelf aangedreven)
 
-A2.7 mobiel batterijpakket voor off-grid stroomvoorziening vanaf 50 kWh, niet zijnde een verwisselbaar batterijpakket behorend bij een bouwwerktuig
+A2.7 stationair batterijpakket voor off-grid stroomvoorziening vanaf 50 kWh
 
 A2.8 trilplaat / trilblok / stamper
 
@@ -366,9 +372,13 @@ A2.9 mobiele (vuil)-waterpomp
 
 A2.10 pompen voor baggeren (DOP-pomp, jetpomp, booster-baggerstation)
 
+A2.11 verwisselbaar batterijpakket vanaf 50 kWh behorend bij een bouwwerktuig
+
 A2.12 vliegwiel als vermogensvoorziening
 
 ### B. Hulpfuncties
+
+B1. elektrische aandrijfmotor met een brandstofcel of een niet-loodhoudend accupakket voor aandrijving van de opbouw van een voertuig, oplegger of spoorvoertuig (inclusief vrachtautorailvoertuig), zijnde een:
 
 B1. elektrische aandrijfmotor met een brandstofcel of een niet-loodhoudend accupakket voor aandrijving van de opbouw van een voertuig, oplegger of spoorvoertuig (inclusief vrachtautorailvoertuig), zijnde een:
 
@@ -394,15 +404,17 @@ B1.10 onderwaartse cylinder
 
 B1.11 portaalarmsysteem
 
+B1.12 mobiele kraan (telescoopkraan, torenkraan, rupshijskraan, ruwterreinkraan, draadkraan, minihijskraan)
+
 B3. elektrische aandrijfmotor met een brandstofcel of een niet loodhoudend accupakket voor aandrijving van hulpfunctie op een vaartuig, niet de voortstuwing, zijnde een:
 
 B3.1 grondpers
 
-B3.2 hei-installatie op een heischip
+### C. Bouwvoertuigen (N2/N3)
 
 B3.3 kraan
 
-### C. Bouwvoertuigen (N2/N3)
+C2. betonpompvoertuig (carrosseriecode 16)
 
 C1. betonmixer (carrosseriecode 15)
 
@@ -413,10 +425,6 @@ C3. boorwagen (carrosseriecode 28)
 C4. hoogwerker (carrosseriecode 27)
 
 C5. kieptruck (carrosseriecode 10)
-
-C6. kraanwagen (carrosseriecode 26 of aanduiding SF)
-
-C7. voertuig met haakarm (carrosseriecode 9)
 
 ## Bijlage 2. Plafondbedragen per aanvrager behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049544&artikel=5&z=2024-04-09&g=2024-04-09) van de regeling
 
@@ -478,5 +486,123 @@ Op de volgende plafondbedragen kan de aanvrager in 2024 aanspraak maken. Aanvrag
 | Vermogensklasse | Mini (8 ≥ kW < 19) | Klein (19 ≥ kW < 56) | Middelgroot (56 ≥ kW < 130) | Groot (≥ 130 kW) |
 | --- | --- | --- | --- | --- |
 | Bedrag per inzetdag exclusief btw van machine-inzet | € 25 | € 45 | € 200 | € 375 |
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### Mobiele machines
+
+### Vervoerbare industriële uitrustingen
+
+A2.13 DC (gelijkstroom) laadstation
+
+### B. Hulpfuncties
+
+B3.2 hei-installatie op een heischip
+
+### C. Bouwvoertuigen (N2/N3)
+
+C6. kraanwagen (carrosseriecode 26 of aanduiding SF)
+
+C7. voertuig met haakarm (carrosseriecode 9)
+
+## Bijlage 2. Plafondbedragen per aanvrager behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049544&artikel=5&z=2025-01-01&g=2025-01-01) van de regeling
+
+Op de volgende plafondbedragen kan de aanvrager in 2025 aanspraak maken. De uitkeringen (inclusief btw) die zijn verleend op grond van [artikel 5, tweede lid, onderdeel b, onderdeel 1° als 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0049544&artikel=5&z=2025-01-01&g=2025-01-01) tellen allemaal mee voor het jaarlijkse individuele uitkeringsplafond. Aanvragers kunnen gedurende de aanvraagperiode vermeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049544&artikel=7&z=2025-01-01&g=2025-01-01), aanvragen indienen ten laste van dit plafondbedrag. De medeoverheden in onderstaande tabel hebben allen het Convenant Schoon en Emissieloos Bouwen voor 20 augustus 2024 ondertekend.
+
+| Aanvrager | Plafondbedrag incl. btw |
+| --- | --- |
+| **Gemeenten** |   |
+| Almere | € 1.000.000 |
+| Alphen aan den Rijn | € 1.000.000 |
+| Amersfoort | € 1.000.000 |
+| Asten | € 1.000.000 |
+| Amsterdam | € 1.000.000 |
+| Arnhem | € 1.000.000 |
+| Breda | € 1.000.000 |
+| Brummen | € 1.000.000 |
+| Den Haag | € 1.000.000 |
+| Doetinchem | € 1.000.000 |
+| Dordrecht | € 1.000.000 |
+| Eindhoven | € 1.000.000 |
+| Enschede | € 1.000.000 |
+| Geldrop-Mierlo | € 1.000.000 |
+| Gouda | € 1.000.000 |
+| Haarlem | € 1.000.000 |
+| Harderwijk | € 1.000.000 |
+| Heemstede | € 1.000.000 |
+| Heerlen | € 1.000.000 |
+| Helmond | € 1.000.000 |
+| Heusden | € 1.000.000 |
+| ‘s-Hertogenbosch | € 1.000.000 |
+| Leiden | € 1.000.000 |
+| Leusden | € 1.000.000 |
+| Losser | € 1.000.000 |
+| Nijmegen | € 1.000.000 |
+| Overbetuwe | € 1.000.000 |
+| Renkum | € 1.000.000 |
+| Rotterdam | € 1.000.000 |
+| Tilburg | € 1.000.000 |
+| Utrecht | € 1.000.000 |
+| Voorst | € 1.000.000 |
+| Waadhoeke | € 1.000.000 |
+| Waalre | € 1.000.000 |
+| Waalwijk | € 1.000.000 |
+| IJsselstein | € 1.000.000 |
+| Zaanstad | € 1.000.000 |
+| Zeist | € 1.000.000 |
+| **Provincies** |   |
+| Drenthe | € 1.000.000 |
+| Flevoland | € 1.000.000 |
+| Friesland | € 1.000.000 |
+| Gelderland | € 1.000.000 |
+| Groningen | € 1.000.000 |
+| Limburg | € 1.000.000 |
+| Noord-Brabant | € 1.000.000 |
+| Noord-Holland | € 1.000.000 |
+| Overijssel | € 1.000.000 |
+| Utrecht | € 1.000.000 |
+| Zeeland | € 1.000.000 |
+| Zuid-Holland | € 1.000.000 |
+| **Waterschappen** |   |
+| Aa en Maas | € 1.000.000 |
+| Amstel, Gooi en Vecht | € 1.000.000 |
+| Brabantse Delta | € 1.000.000 |
+| De Dommel | € 1.000.000 |
+| Drents Overijsselse Delta | € 1.000.000 |
+| Hollandse Delta | € 1.000.000 |
+| Hoogheemraadschap De Stichtste Rijnlanden | € 1.000.000 |
+| Hoogheemraadschap Hollands Noorderkwartier | € 1.000.000 |
+| Hoogheemraadschap van Delfland | € 1.000.000 |
+| Hoogheemraadschap van Rijnland | € 1.000.000 |
+| Hoogheemraadschap van Schieland en de Krimpenerwaard | € 1.000.000 |
+| Hunze en Aa’s | € 1.000.000 |
+| Noorderzijlvest | € 1.000.000 |
+| Rijn en IJssel | € 1.000.000 |
+| Rivierenland | € 1.000.000 |
+| Scheldestromen | € 1.000.000 |
+| Vallei en Veluwe | € 1.000.000 |
+| Vechtstromen | € 1.000.000 |
+| Limburg | € 1.000.000 |
+| Fryslân | € 1.000.000 |
+| Zuiderzeeland | € 1.000.000 |
+
+## Bijlage 3. Vergoedingstabellen voor het bepalen van de hoogte van de uitkering als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049544&artikel=6&z=2025-01-01&g=2025-01-01) van de regeling
+
+| Vermogensklasse1 | Mini (8 ≥ kW < 19) | Klein (19 ≥ kW < 56) | Middelgroot (56 ≥ kW < 130) | Groot (≥ 130 kW) |
+| --- | --- | --- | --- | --- |
+| Bedrag per inzetdag exclusief btw van machine-inzet | € 30 | € 54 | € 240 | € 450 |
+
+1 Vermogen van (som van) elektromotoren in bouwmachines, of van brandstofcel of waterstofmotor in aggregaat voor off-grid stroomvoorziening aangedreven door waterstof of waterstofdragers (A2.3), of voor vliegwiel als vermogensvoorziening (A2.12).
+
+| Bedrag per kWh nominale batterijcapaciteit per inzetdag exclusief btw | € 0,40 |
+| --- | --- |
+
+| Vermogen van DC laadstation1 | 20 ≥ kW < 50 | 50 ≥ kW < 150 | 150 ≥ kW < 225 | 225 ≥ kW < 350 | 350 ≥ kW < 600 | ≥ 600 kW |
+| --- | --- | --- | --- | --- | --- | --- |
+| Bedrag per inzetdag2 exclusief btw van laadstationinzet | € 13 | € 32 | € 93 | € 138 | € 208 | € 352 |
+
+1 Het vermogen van een DC laadstation bij een modulair systeem, waarbij sprake is van een fysieke scheiding tussen laadstations en vermogenskast, is gebaseerd op de som van het geïnstalleerd vermogen dat parallel maximaal geleverd kan worden door de vermogenskast.
+
+2 Het aantal inzetdagen voor deze categorie wordt bepaald door te rekenen vanaf de eerste inzetdag van de in het betreffende bouwwerkzaamheid te laden machines tot en met de laatste inzetdag van de in het betreffende bouwwerkzaamheid te laden machines.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
