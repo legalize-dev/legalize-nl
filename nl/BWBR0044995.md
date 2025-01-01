@@ -4,7 +4,7 @@ identifier: "BWBR0044995"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2022-07-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044995"
 soort: "AMvB"
@@ -56,27 +56,33 @@ Ter bepaling van de kosten die op grond van [artikel 12, tweede lid, van de wet]
 
 ##### Artikel 3. Bijdrage collectieve en onafhankelijke beheersorganisaties
 
-1. De hoogte van de jaarlijkse bijdrage van een onafhankelijke beheersorganisatie bedraagt 1% van de op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044995&artikel=2&z=2022-07-01&g=2022-07-01) in rekening te brengen kosten.
+1. De hoogte van de jaarlijkse bijdrage van een onafhankelijke beheersorganisatie bedraagt 0,5% van de op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044995&artikel=2&z=2025-01-01&g=2025-01-01) in rekening te brengen kosten.
 
-2. De op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044995&artikel=2&z=2022-07-01&g=2022-07-01) in rekening te brengen kosten komen, onder aftrek van de bijdragen van de onafhankelijke beheersorganisaties als bedoeld in het eerste lid, voor rekening van de collectieve beheersorganisaties gezamenlijk, naar rato van het door hen geïnde bedrag aan vergoedingen.
+2. De op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044995&artikel=2&z=2025-01-01&g=2025-01-01) in rekening te brengen kosten komen, onder aftrek van de bijdragen van de onafhankelijke beheersorganisaties als bedoeld in het eerste lid, voor rekening van de collectieve beheersorganisaties gezamenlijk, naar rato van het door hen geïnde bedrag aan vergoedingen.
 
 3. In aanvulling op het tweede lid wordt de hoogte van de jaarlijkse bijdrage van een collectieve beheersorganisatie bepaald door de volgende regels:
 
-- a. De jaarlijkse bijdrage van een collectieve beheersorganisatie bedraagt ten minste 1% en ten hoogste 33% van de op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044995&artikel=2&z=2022-07-01&g=2022-07-01) in rekening te brengen kosten;
+- a. De jaarlijkse bijdrage van een collectieve beheersorganisatie bedraagt ten minste 0,5% en ten hoogste 33% van de op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044995&artikel=2&z=2025-01-01&g=2025-01-01) in rekening te brengen kosten;
 
 - b. Toepassing van het onder a bepaalde brengt mee dat de op grond van het tweede lid bepaalde bijdragen van de overige collectieve beheersorganisaties worden gecorrigeerd naar rato van het door hen geïnde bedrag aan vergoedingen.
 
 ##### Artikel 4. Te gebruiken gegevens collectieve beheersorganisaties
 
-1. Onze Minister baseert het aan een collectieve beheersorganisatie in rekening te brengen bedrag op de bij Onze Minister laatst bekende gegevens met betrekking tot het geïnde bedrag aan vergoedingen van de desbetreffende collectieve beheersorganisatie zoals die door het College van Toezicht zijn verstrekt. Deze gegevens gaan niet verder terug dan twee jaar voor het jaar waarin de bijdrage van de collectieve beheersorganisatie wordt bepaald.
+1. Voor het bepalen van de jaarlijkse bijdrage van een collectieve beheersorganisatie maakt Onze Minister gebruik van de bij Onze Minister laatst bekende gegevens met betrekking tot het geïnde bedrag aan vergoedingen van de desbetreffende collectieve beheersorganisatie zoals die door het College van Toezicht zijn verstrekt. Deze gegevens gaan niet verder terug dan twee jaar voor het jaar waarin de bijdrage van de collectieve beheersorganisatie wordt bepaald.
 
-2. Indien Onze Minister niet beschikt over de in het eerste lid bedoelde gegevens wordt het aan de collectieve beheersorganisatie in rekening te brengen bedrag bepaald op 1% van de op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044995&artikel=2&z=2022-07-01&g=2022-07-01) in rekening te brengen kosten.
+2. Indien Onze Minister niet beschikt over de in het eerste lid bedoelde gegevens wordt de jaarlijkse bijdrage van de collectieve beheersorganisatie bepaald op 0,5% van de op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044995&artikel=2&z=2025-01-01&g=2025-01-01) in rekening te brengen kosten.
 
-##### Artikel 5. Fusie en zuivere splitsing
+##### Artikel 5. Bijzondere situaties
 
-1. Indien Onze Minister de bijdrage die een collectieve beheersorganisatie of onafhankelijke beheersorganisatie is verschuldigd, niet langer bij hem in rekening kan brengen als gevolg van een fusie van die collectieve beheersorganisatie of onafhankelijke beheersorganisatie als bedoeld in [artikel 309 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=309), brengt Onze Minister het bedrag in rekening bij de rechtspersoon die bij die fusie het vermogen van die collectieve beheersorganisatie of onafhankelijke beheersorganisatie heeft verkregen.
+1. Indien Onze Minister de bijdrage die een collectieve beheersorganisatie of onafhankelijke beheersorganisatie is verschuldigd, niet langer bij hem in rekening kan brengen als gevolg van een fusie van die collectieve beheersorganisatie of onafhankelijke beheersorganisatie als bedoeld in [artikel 309 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=309), brengt Onze Minister de bijdrage in rekening bij de rechtspersoon die bij die fusie het vermogen van die collectieve beheersorganisatie of onafhankelijke beheersorganisatie heeft verkregen.
 
-2. Indien Onze Minister de bijdrage die een collectieve beheersorganisatie of onafhankelijke beheersorganisatie is verschuldigd, niet langer bij hem in rekening kan brengen als gevolg van een zuivere splitsing van die collectieve beheersorganisatie of onafhankelijke beheersorganisatie als bedoeld in [artikel 334a van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=334a), brengt Onze Minister het bedrag in rekening bij de rechtspersonen die bij die zuivere splitsing het vermogen van die collectieve beheersorganisatie of onafhankelijke beheersorganisatie hebben verkregen.
+2. Indien Onze Minister de bijdrage die een collectieve beheersorganisatie of onafhankelijke beheersorganisatie is verschuldigd, niet langer bij hem in rekening kan brengen als gevolg van een zuivere splitsing van die collectieve beheersorganisatie of onafhankelijke beheersorganisatie als bedoeld in [artikel 334a van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=334a), brengt Onze Minister de bijdrage in rekening bij de rechtspersonen die bij die zuivere splitsing het vermogen van die collectieve beheersorganisatie of onafhankelijke beheersorganisatie hebben verkregen.
+
+3. Indien een collectieve beheersorganisatie of onafhankelijke beheersorganisatie de werkzaamheden ten aanzien van de inning en verdeling van vergoedingen heeft beëindigd en een andere rechtspersoon de werkzaamheden van die collectieve beheersorganisatie of onafhankelijke beheersorganisatie voortzet, anders dan na een fusie of zuivere splitsing, brengt Onze Minister de bijdrage in rekening bij de rechtspersoon die de werkzaamheden van die collectieve beheersorganisatie of onafhankelijke beheersorganisatie voortzet.
+
+4. Een collectieve beheersorganisatie of onafhankelijke beheersorganisatie die in de loop van een jaar zijn werkzaamheden ten aanzien van de inning en verdeling van vergoedingen heeft beëindigd, draagt vanaf het daarop volgende jaar niet bij aan de op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044995&artikel=2&z=2025-01-01&g=2025-01-01) in rekening te brengen kosten.
+
+5. Een collectieve beheersorganisatie of onafhankelijke beheersorganisatie die na 1 juli van een jaar onder toezicht van het College van Toezicht komt te staan draagt vanaf het daarop volgende jaar bij aan de op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044995&artikel=2&z=2025-01-01&g=2025-01-01) in rekening te brengen kosten.
 
 ##### Artikel 6. Inwerkingtreding
 
