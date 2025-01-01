@@ -4,7 +4,7 @@ identifier: "BWBR0044548"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-01-01"
-last_updated: "2021-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044548"
 soort: "zbo"
@@ -54,15 +54,13 @@ Het stimuleren van opdrachtgevers om relevante artistiek inhoudelijke projecten 
 
 3. Een opdracht dient betrekking te hebben op een kunstenaar die artistiek inhoudelijk actief is in de beeldende kunsten en in die hoedanigheid ingebed is in de professionele praktijk van de hedendaagse beeldende kunst in Nederland.
 
-4. De opdracht dient betrekking te hebben op een kunstenaar die ofwel
+4. De opdracht dient betrekking te hebben op een kunstenaar die minimaal één jaar als professioneel beeldend kunstenaar werkzaam is. Daarbij geldt:
 
-- •. ten minste drie jaar professioneel werkzaam is als beeldend kunstenaar, of
+- •. Indien de kunstenaar een hbo-bacheloropleiding met een beeldende kunstcurriculum heeft afgerond wordt de diplomadatum beschouwd als start van de professionele beroepspraktijk. Wanneer er een periode tussen de diplomadatum van de hbo-bacheloropleiding met beeldende kunstcurriculum en de start van de masteropleiding zit, wordt deze periode meegerekend als onderdeel van de professionele beroepspraktijk.
 
-- •. ten minste drie jaar een hbo-opleiding aan een opleidingsinstituut voor beeldende kunsten heeft gevolgd en minimaal één jaar professioneel werkzaam is als beeldend kunstenaar. Als het een instituut voor beeldende kunst en vormgeving betreft, moet een beeldende kunst curriculum zijn gevolgd. Of
+- •. Indien de kunstenaar geen hbo-bacheloropleiding met een beeldende kunstcurriculum heeft afgerond wordt het moment waarop de kunstenaar voor het eerst werk presenteert binnen het circuit van de professionele beeldende kunst beschouwd als de start van de professionele beroepspraktijk.
 
-- •. één jaar professioneel werkzaam is als beeldend kunstenaar en ingeschreven staat in het Handelsregister bij de Kamer van Koophandel, dan wel een vergelijkbare buitenlandse organisatie.
-
-5. In de toelichting bij het aanvraagformulier zijn de hoogte van de vaste bijdrage zoals bedoeld in [artikel 2 lid 2 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0044548&artikel=2&z=2021-01-01&g=2021-01-01) en de maximale tegemoetkoming zoals bedoeld in artikel 2 lid 2 onder c en de hoogte van de eigen bijdrage genoemd.
+5. In de toelichting bij het aanvraagformulier zijn de hoogte van de vaste bijdrage zoals bedoeld in [artikel 2 lid 2 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0044548&artikel=2&z=2025-01-01&g=2025-01-01) en de maximale tegemoetkoming zoals bedoeld in artikel 2 lid 2 onder c en de hoogte van de eigen bijdrage genoemd.
 
 6. Geen bijdrage kan worden aangevraagd door hbo-opleidingen en door postacademische instellingen op het gebied van de beeldende kunsten tenzij het bestuur hiervoor dringende noodzaak ziet.
 
@@ -79,6 +77,8 @@ Naast de bepalingen vastgesteld in het [Algemeen Reglement](https://wetten.overh
 - •. visueel documentatiemateriaal van de kunstenaar,
 
 - •. een toelichting op het werk van de kunstenaar,
+
+- •. een toelichting op het cultureel ondernemerschap van de kunstenaar,
 
 - •. een curriculum vitae van de kunstenaar,
 
