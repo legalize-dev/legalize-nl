@@ -4,7 +4,7 @@ identifier: "BWBR0045037"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2024-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045037"
 soort: "AMvB"
@@ -96,7 +96,7 @@ Onze Minister draagt er zorg voor dat de nodige maatregelen worden getroffen ter
 
 ##### Artikel 3.4. Afkondigingsblad
 
-Indien het afkondigingsblad elektronisch wordt uitgegeven, is de zorgplicht, bedoeld in de [artikelen 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045037&hoofdstuk=3&artikel=3.2&z=2024-01-01&g=2024-01-01) en [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045037&hoofdstuk=3&artikel=3.3&z=2024-01-01&g=2024-01-01), van overeenkomstige toepassing op het bestuurscollege.
+Indien het afkondigingsblad elektronisch wordt uitgegeven, is de zorgplicht, bedoeld in de [artikelen 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045037&hoofdstuk=3&artikel=3.2&z=2025-01-01&g=2025-01-01) en [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045037&hoofdstuk=3&artikel=3.3&z=2025-01-01&g=2025-01-01), van overeenkomstige toepassing op het bestuurscollege.
 
 ##### Artikel 3.5. Opneming
 
@@ -106,11 +106,11 @@ Indien het afkondigingsblad elektronisch wordt uitgegeven, is de zorgplicht, bed
 
 - b. in het betreffende publicatieblad andere publicaties afkomstig van bestuursorganen die behoren tot een van de in [artikel 2, eerste tot en met vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=2) genoemde openbare lichamen, of de in artikel 2, vijfde lid, van de wet genoemde openbare lichamen, bedrijfsvoeringsorganisaties en gemeenschappelijke organen.
 
-2. Bij ministeriële regeling kunnen daaromtrent nadere regels worden gesteld omtrent andere publicaties als bedoeld in het eerste lid, onderdelen a en b.
+2. Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent andere publicaties als bedoeld in het eerste lid, onderdelen a en b.
 
 ##### Artikel 3.6. Meerdere ondertekenaars
 
-De eerste ondertekenaar van een publicatie als bedoeld in [artikel 3.5, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045037&hoofdstuk=3&artikel=3.5&z=2024-01-01&g=2024-01-01), bepaalt het tijdstip van de plaatsing van de publicatie in de Staatscourant en draagt er zorg voor dat de toezending op een zodanig tijdstip en op zodanige wijze plaatsvindt dat de plaatsing tijdig kan geschieden.
+De eerste ondertekenaar van een publicatie als bedoeld in [artikel 3.5, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045037&hoofdstuk=3&artikel=3.5&z=2025-01-01&g=2025-01-01), bepaalt het tijdstip van de plaatsing van de publicatie in de Staatscourant en draagt er zorg voor dat de toezending op een zodanig tijdstip en op zodanige wijze plaatsvindt dat de plaatsing tijdig kan geschieden.
 
 ##### Artikel 3.7. Zakelijke inhoud in kennisgeving
 
@@ -248,11 +248,29 @@ Het [Besluit bekendmaking en beschikbaarstelling regelgeving decentrale overhede
 
 ##### Artikel 11.1. Tijdelijke voorziening omgevingsbesluiten
 
-1. Tot het tijdstip van inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) is [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045037&hoofdstuk=5&artikel=5.1&z=2024-01-01&g=2024-01-01), niet van toepassing op algemeen verbindende voorschriften, beleidsregels en andere besluiten die niet tot een of meer belanghebbenden zijn gericht waarvan de grondslag is opgenomen in die wet.
+1. Van 1 januari 2024 tot 1 januari 2025 kan een bestuursorgaan in plaats van de krachtens [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045037&hoofdstuk=3&artikel=3.8&z=2025-01-01&g=2025-01-01) aangewezen technische standaarden toepassing geven aan een technische standaard als bedoeld in de [Regeling standaarden ruimtelijke ordening 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031829), zoals deze gold onmiddellijk voor 1 januari 2024.
 
-2. Vanaf het tijdstip van inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) kan een bestuursorgaan in plaats van de krachtens [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045037&hoofdstuk=3&artikel=3.8&z=2024-01-01&g=2024-01-01) aangewezen technische standaarden toepassing geven aan een technische standaard als bedoeld in de [Regeling standaarden ruimtelijke ordening 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031829), zoals deze gold onmiddellijk voor het tijdstip van intrekking van de [Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449). [Artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045037&hoofdstuk=5&artikel=5.1&z=2024-01-01&g=2024-01-01), is dan niet van toepassing. Op de voorziening, bedoeld in [artikel 1.2.1 van het Besluit ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0023798&artikel=1.2.1), blijft het recht van toepassing zoals dat gold onmiddellijk voor het tijdstip van intrekking van de Wet ruimtelijke ordening.
+2. In afwijking van het eerste lid, geldt de uitzondering, bedoeld in het eerste lid, tot 1 januari 2026 voor besluiten op grond van de [artikelen 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4), [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.6), [2.33](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.33), [4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.14) en [16.21 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.21), en voor besluiten genomen door gedeputeerde staten op grond van [5.44 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.44).
 
-3. Dit artikel vervalt een jaar na inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), of zoveel eerder als bij koninklijk besluit wordt bepaald.
+3. Als voor het einde van de termijn, bedoeld in het eerste of tweede lid, een ontwerpbesluit ter inzage is gelegd, kan een bestuursorgaan bij de publicatie van het besluit in plaats van de krachtens [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045037&hoofdstuk=3&artikel=3.8&z=2025-01-01&g=2025-01-01) aangewezen technische standaarden toepassing geven aan een technische standaard als bedoeld in de [Regeling standaarden ruimtelijke ordening 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031829), zoals deze gold onmiddellijk voor 1 januari 2024.
+
+4. Totdat een besluit, gepubliceerd met toepassing van de uitzonderingen, bedoeld in het eerste, tweede of derde lid, onherroepelijk is geworden, kan dit besluit worden gewijzigd met toepassing van een technische standaard als bedoeld in de [Regeling standaarden ruimtelijke ordening 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031829), zoals deze gold onmiddellijk voor 1 januari 2024, in plaats van de krachtens [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045037&hoofdstuk=3&artikel=3.8&z=2025-01-01&g=2025-01-01) aangewezen technische standaarden.
+
+5. Als een bestuursorgaan toepassing geeft aan het eerste, tweede, derde of vierde lid, zijn de [artikelen 5.5a](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=5.5a), [10.3c](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=10.3c) en [10.7a van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=10.7a) niet van toepassing.
+
+6. Op de landelijke voorziening, bedoeld in [artikel 1.2.1, tweede lid, van het Besluit ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0023798&artikel=1.2.1), zoals dat luidde onmiddellijk voor 1 januari 2024, blijft het recht van overeenkomstige toepassing zoals dat gold onmiddellijk voor 1 januari 2024, voor zover dat nodig is voor het beschikbaar stellen van de ontwerpbesluiten en besluiten met gebruik van een technische standaard als bedoeld in de [Regeling standaarden ruimtelijke ordening 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031829).
+
+7. [Artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045037&hoofdstuk=5&artikel=5.1&z=2025-01-01&g=2025-01-01), is niet van toepassing op:
+
+- a. besluiten, gepubliceerd met toepassing van de uitzonderingen bedoeld in het eerste, tweede, derde of vierde lid, en
+
+- b. algemeen verbindende voorschriften, beleidsregels en andere besluiten die niet tot een of meer belanghebbenden zijn gericht:
+
+- 1°. waarvan de grondslag is opgenomen in de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885); en
+
+- 2°. die zijn gepubliceerd voor 1 januari 2024.
+
+8. Dit artikel vervalt met ingang van het tijdstip, bepaald in het [koninklijk besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0049301), bedoeld in [artikel 22.6, derde lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=22.6).
 
 ##### Artikel 11.2. Inwerkingtreding
 
