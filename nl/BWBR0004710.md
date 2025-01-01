@@ -4,7 +4,7 @@ identifier: "BWBR0004710"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2018-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004710"
 soort: "AMvB"
@@ -56,7 +56,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. bodem: het horizontale onderdeel van een kinderbed of -box dat bestemd is om als lig-, zit- of stavlak te dienen;
 
-- d. kinderopvang: kinderopvang als bedoeld in [artikel 1.1, eerste lid, van de Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.1).
+- d. kindercentrum: kindercentrum als bedoeld in [artikel 1.1, eerste lid, van de Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.1).
 
 ##### Artikel 2
 
@@ -64,13 +64,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 2. Het is verboden kinderbedden en -boxen te verhandelen anders dan met inachtneming van de voorschriften in of krachtens dit besluit gesteld met betrekking tot het bezigen van vermeldingen.
 
-3. Het is verboden kinderbedden en -boxen te gebruiken in het kader van kinderopvang, indien die bedden en boxen niet voldoen aan de eisen die op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004710&artikel=3&z=2018-01-01&g=2018-01-01) worden gesteld met betrekking tot kinderbedden en -boxen die tot doel hebben in het kader van kinderopvang te worden gebezigd.
+3. Het is verboden kinderbedden en -boxen te gebruiken in een kindercentrum, indien die bedden en boxen niet voldoen aan de eisen die op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004710&artikel=3&z=2025-01-01&g=2025-01-01) worden gesteld met betrekking tot kinderbedden en -boxen die tot doel hebben in een kindercentrum te worden gebezigd.
 
 ##### Artikel 3
 
 1. Kinderbedden en -boxen moeten zodanig zijn samengesteld, geconstrueerd en uitgevoerd en een zodanige uitwendige staat en beziging van materiaal hebben, dat zij bij aanwending overeenkomstig redelijkerwijze te verwachten gebruik, geen gevaar opleveren voor de veiligheid en gezondheid van een daarin geplaatst kind.
 
-2. Met betrekking tot de samenstelling, constructie, uitvoering, uitwendige staat en beziging van materialen van kinderbedden en -boxen, kunnen bij regeling van Onze Minister nadere regels worden gesteld. Ten aanzien van kinderbedden en -boxen die tot doel hebben te worden gebezigd in het kader van kinderopvang, kunnen afwijkende nadere regels worden gesteld.
+2. Met betrekking tot de samenstelling, constructie, uitvoering, uitwendige staat en beziging van materialen van kinderbedden en -boxen, kunnen bij regeling van Onze Minister nadere regels worden gesteld. Ten aanzien van kinderbedden en -boxen die tot doel hebben te worden gebruikt in een kindercentrum, kunnen afwijkende nadere regels worden gesteld.
 
 3. Kinderbedden en -boxen welke voldoen aan de door Onze Minister aangewezen geharmoniseerde normen, alsmede in voorkomend geval de nadere regels, bedoeld in het tweede lid, worden in zoverre vermoed te voldoen aan het eerste lid.
 
@@ -98,7 +98,7 @@ Kinderbedden en -boxen moeten zijn vergezeld van waarschuwingen voor mogelijke g
 
 ##### Artikel 9
 
-Op verzoek van de belanghebbende worden door Onze Minister van Volksgezondheid, Welzijn en Sport normen die gelijkwaardig zijn aan het in het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004710&artikel=3&z=2018-01-01&g=2018-01-01) bepaalde, met het in dit artikel bepaalde gelijkgesteld.
+Op verzoek van de belanghebbende worden door Onze Minister van Volksgezondheid, Welzijn en Sport normen die gelijkwaardig zijn aan het in het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004710&artikel=3&z=2025-01-01&g=2025-01-01) bepaalde, met het in dit artikel bepaalde gelijkgesteld.
 
 ##### Artikel 10
 
