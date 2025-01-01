@@ -4,7 +4,7 @@ identifier: "BWBR0045239"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2022-11-05"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045239"
 soort: "ministeriele-regeling"
@@ -42,13 +42,13 @@ Besluit:
 
 ##### Artikel 1. Grondslag
 
-Deze regeling berust op [artikel 5.2 van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=5.2).
+Deze regeling berust op de [artikelen 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=5.2) en [5.3 van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=5.3).
 
 ##### Artikel 2. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **commissie:** commissie, genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045239&artikel=3&z=2022-11-05&g=2022-11-05);
+- **commissie:** commissie, genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045239&artikel=3&z=2025-01-01&g=2025-01-01);
 
 - **minister:** Minister van Financiën;
 
@@ -68,9 +68,15 @@ In deze regeling wordt verstaan onder:
 
 - c. het adviseren over de vraag of sprake is van een schrijnend geval als bedoeld in [artikel 2.9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.9);
 
-- d. het rapporteren van haar bevindingen aan de Belastingdienst/Toeslagen.
+- d. het beoordelen van voorgenomen beschikkingen inhoudende het geheel of gedeeltelijk afwijzen van een aanvraag tot toekenning van een voorziening als bedoeld in [artikel 2.9a, eerste lid, onderdeel a, onder 1° of 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.9a), of [artikel 2.9b, eerste lid, onderdeel a, onder 1° of 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.9b), indien die aanvraag ziet op compensatie of een O/GS-tegemoetkoming die niet eerder op aanvraag van de aanvrager van kinderopvangtoeslag die is overleden door de Dienst Toeslagen is toegekend of afgewezen;
 
-3. De commissie geeft geen beoordeling als bedoeld in het tweede lid, onderdeel a of b, indien er over de feiten geen verschil van mening is tussen de Belastingdienst/Toeslagen en de belanghebbende, tenzij:
+- e. het beoordelen van voorgenomen beschikkingen inhoudende het afwijzen van een aanvraag tot toekenning van een tegemoetkoming op grond van [artikel 2.14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.14), indien de Dienst Toeslagen voornemens is te oordelen dat geen sprake is van een overleden aanvrager;
+
+- f. het beoordelen van voorgenomen beschikkingen inhoudende het afwijzen van een aanvraag tot toekenning van compensatie als bedoeld in [artikel 2.14h, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.14h) voor zover een beroep wordt gedaan op [artikel 2.14g, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.14g), indien de Dienst Toeslagen voornemens is te oordelen dat geen sprake is van een overleden aanvrager;
+
+- g. het rapporteren van haar bevindingen aan de Dienst Toeslagen.
+
+3. De commissie geeft geen beoordeling als bedoeld in het tweede lid, onderdeel a of b, indien er over de feiten geen verschil van mening is tussen de Dienst Toeslagen en de belanghebbende, tenzij:
 
 - a. de kinderopvangtoeslag is uitbetaald aan een andere persoon dan de belanghebbende; of
 
@@ -114,7 +120,7 @@ De commissie wordt met terugwerkende kracht ingesteld tot en met 7 juli 2020 en 
 
 ##### Artikel 8. Evaluatieverslag
 
-De commissie stelt op een met de Belastingdienst/Toeslagen nader te bepalen moment in 2021 een tussenevaluatieverslag en uiterlijk 31 december 2023 een evaluatieverslag op waarin de commissie aandacht besteedt aan haar taakvervulling.
+De commissie stelt op een met de Dienst Toeslagen nader te bepalen moment in 2021 een tussenevaluatieverslag en uiterlijk 31 december 2023 een evaluatieverslag op waarin de commissie aandacht besteedt aan haar taakvervulling.
 
 ##### Artikel 9. Archiefbescheiden
 
@@ -122,7 +128,7 @@ De commissie stelt op een met de Belastingdienst/Toeslagen nader te bepalen mome
 
 2. De commissie kan de bescheiden, bedoeld in het eerste lid, eerder aan het archief van het ministerie overdragen als omstandigheden daartoe aanleiding geven.
 
-##### Artikel 10. Inwerkingtreding en horizonbepaling
+##### Artikel 10. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 7 juli 2020.
 
