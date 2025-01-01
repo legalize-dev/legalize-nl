@@ -4,7 +4,7 @@ identifier: "BWBR0043736"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2024-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043736"
 soort: "AMvB"
@@ -63,15 +63,15 @@ De gemeenteraad en burgemeester en wethouders dragen, bij de uitvoering van [art
 
 - e. glas;
 
-- f. Dit onderdeel is nog niet in werking getreden;
+- f. textiel;
 
-- g. Dit onderdeel is nog niet in werking getreden;
+- g. gevaarlijke afvalstoffen;
 
 - h. afgedankte elektrische en elektronische apparatuur.
 
 ##### Artikel 2
 
-1. Bij de afvalstoffenverordening of het omgevingsplan kan, in afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043736&artikel=1&z=2024-01-01&g=2024-01-01), worden bepaald dat:
+1. Bij de afvalstoffenverordening of het omgevingsplan kan, in afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043736&artikel=1&z=2025-01-01&g=2025-01-01), worden bepaald dat:
 
 - a. bioafval niet gescheiden wordt ingezameld indien aan de voorwaarden uit artikel 10, derde lid, onder c of d, van de kaderrichtlijn afvalstoffen is voldaan;
 
@@ -81,9 +81,9 @@ De gemeenteraad en burgemeester en wethouders dragen, bij de uitvoering van [art
 
 ##### Artikel 3
 
-1. De gemeenteraad past de afvalstoffenverordening, voor zover noodzakelijk om te voldoen aan [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043736&artikel=1&z=2024-01-01&g=2024-01-01) en [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043736&artikel=2&z=2024-01-01&g=2024-01-01), uiterlijk op 1 januari 2021 aan.
+1. De gemeenteraad past de afvalstoffenverordening, voor zover noodzakelijk om te voldoen aan [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043736&artikel=1&z=2025-01-01&g=2025-01-01) en [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043736&artikel=2&z=2025-01-01&g=2025-01-01), uiterlijk op 1 januari 2021 aan.
 
-2. Indien toepassing wordt gegeven aan [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043736&artikel=2&z=2024-01-01&g=2024-01-01), beoordeelt de gemeenteraad regelmatig of nog aan de voorwaarden uit artikel 2, eerste lid, is voldaan, rekening houdend met goede praktijken op het gebied van de gescheiden inzameling van afvalstoffen en andere relevante ontwikkelingen op het gebied van beheer van afvalstoffen.
+2. Indien toepassing wordt gegeven aan [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043736&artikel=2&z=2025-01-01&g=2025-01-01), beoordeelt de gemeenteraad regelmatig of nog aan de voorwaarden uit artikel 2, eerste lid, is voldaan, rekening houdend met goede praktijken op het gebied van de gescheiden inzameling van afvalstoffen en andere relevante ontwikkelingen op het gebied van beheer van afvalstoffen.
 
 ##### Artikel 4
 
@@ -117,9 +117,9 @@ Wijzigt dit besluit.
 
 1. Dit besluit treedt in werking op het tijdstip waarop de [Implementatiewet wijziging EU-kaderrichtlijn afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0043601) in werking treedt. Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven op of na de dag dat de voorgenoemde wet in werking treedt, treedt dit besluit in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst
 
-2. In afwijking van het eerste lid, treedt [artikel 1, onderdelen f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0043736&artikel=1&z=2024-01-01&g=2024-01-01), met ingang van 1 januari 2025 in werking en treedt [artikel 4, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0043736&artikel=4&z=2024-01-01&g=2024-01-01), met ingang van 5 januari 2021 in werking.
+2. In afwijking van het eerste lid, treedt [artikel 1, onderdelen f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0043736&artikel=1&z=2025-01-01&g=2025-01-01), met ingang van 1 januari 2025 in werking en treedt [artikel 4, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0043736&artikel=4&z=2025-01-01&g=2025-01-01), met ingang van 5 januari 2021 in werking.
 
-3. In afwijking van het eerste lid, treden [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0043736&artikel=9&z=2024-01-01&g=2024-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0043736&artikel=10&z=2024-01-01&g=2024-01-01) op een bij koninklijk besluit te bepalen tijdstip in werking.
+3. In afwijking van het eerste lid, treden [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0043736&artikel=9&z=2025-01-01&g=2025-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0043736&artikel=10&z=2025-01-01&g=2025-01-01) op een bij koninklijk besluit te bepalen tijdstip in werking.
 
 ##### Artikel 12
 
