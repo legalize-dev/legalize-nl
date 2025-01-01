@@ -4,7 +4,7 @@ identifier: "BWBR0035796"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2024-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035796"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 ##### Artikel 1
 
-In afwijking van [artikel 2.3, eerste lid, van de Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.3) komen partijen bij rechtspersonen als bedoeld in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&bijlage=1), bedoeld in [artikel 1.3, eerste lid, onderdeel d, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=1.3), onder het opschrift ‘Ministerie van Buitenlandse Zaken’, indien deze rechtspersonen een subsidie ontvangen ten laste van de rijksbegroting van Buitenlandse Handel en Ontwikkelingssamenwerking en niet elders zijn vermeld in deze bijlage, geen bezoldiging overeen die voor het kalenderjaar 2024 meer bedraagt dan € 214.000.
+In afwijking van [artikel 2.3, eerste lid, van de Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.3) komen partijen bij rechtspersonen als bedoeld in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&bijlage=1), bedoeld in [artikel 1.3, eerste lid, onderdeel d, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=1.3), onder het opschrift ‘Ministerie van Buitenlandse Zaken’, indien deze rechtspersonen een subsidie ontvangen ten laste van de rijksbegroting van Buitenlandse Handel en Ontwikkelingshulp en niet elders zijn vermeld in deze bijlage, geen bezoldiging overeen die voor het kalenderjaar 2025 meer bedraagt dan € 226.000.
 
 ##### Artikel 2
 
@@ -52,6 +52,6 @@ Deze regeling treedt in werking met ingang van 1 januari 2015.
 
 ##### Artikel 3
 
-Deze regeling wordt aangehaald als: Regeling bezoldiging topfunctionarissen OS-sector.
+Deze regeling wordt aangehaald als: Regeling bezoldiging topfunctionarissen Ontwikkelingshulp-sector.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
