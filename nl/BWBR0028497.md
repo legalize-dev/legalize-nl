@@ -4,7 +4,7 @@ identifier: "BWBR0028497"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2026-01-01"
-last_updated: "2024-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028497"
 soort: "wet-BES"
@@ -64,7 +64,7 @@ entry_into_force: "2025-07-01"
 
 - g. **arbeidsongeschiktheid:** de toestand waarin de werknemer verkeert, die als gevolg van een ongeval gedurende een etmaal of langer niet in staat is om zijn normale arbeid te verrichten of deze arbeid zo lang niet mag verrichten hetzij om een medisch noodzakelijk onderzoek mogelijk te maken hetzij om te voorkomen dat zijn genezing wordt belemmerd;
 
-- h. **loon:** het loon, bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=6) en [9a van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=9a);
+- h. **loon:** het loon, bedoeld in [artikel 6 van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=6);
 
 - i. **loon per dag van de werknemer voor wie een zesdaagse werkweek geldt:**
 
@@ -166,7 +166,7 @@ Vervallen
 
 - c. Indien de werknemer, die als gevolg van het hem overkomen ongeval is overleden, geen Nederlander was en zijn nagelaten betrekkingen zich vestigen of zijn gevestigd in een plaats buiten de openbare lichamen Bonaire, Sint Eustatius en Saba kan de uitkering waarop de nagelaten betrekkingen recht hebben worden omgezet in een uitkering ineens, bedragende voor ieder van hen het totaal van de periodieke uitkeringen waartoe hij gerechtigd is, doch over ten hoogste zes jaren.
 
-9. De nagelaten betrekkingen van een werknemer die als gevolg van een hem overkomen ongeval is overleden, hebben als tegemoetkoming in de begrafeniskosten recht op een uitkering ineens, bedragende USD 5 559 per 1 januari 2024: USD 720.
+9. De nagelaten betrekkingen van een werknemer die als gevolg van een hem overkomen ongeval is overleden, hebben als tegemoetkoming in de begrafeniskosten recht op een uitkering ineens, bedragende USD 5 559 per 1 januari 2025: USD 738.
 
 10. De echtgenote, echtgenoot of ouder van de overledene, bedoeld in het zevende lid, onderdeel a, die een huwelijk aangaat, heeft recht op een uitkering ineens, bedragende het totaal van de periodieke uitkeringen waartoe zij of hij gerechtigd is, over twee jaren.
 
@@ -188,7 +188,7 @@ Vervallen
 
 ##### Artikel 6
 
-1. Zo spoedig mogelijk na de aanvraag deelt Onze Minister, mede aan de hand van geneeskundige beoordeling, schriftelijk mee welke uitkering zal worden verstrekt aan de in [artikel 5, twaalfde lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=5&z=2024-01-01&g=2024-01-01), bedoelde werkgever. Als de werkgever de in artikel 5, twaalfde lid, eerste zin, bedoelde verplichting niet naleeft, geschiedt de schriftelijke mededeling, bedoeld in de eerste zin, aan de werknemer.
+1. Zo spoedig mogelijk na de aanvraag deelt Onze Minister, mede aan de hand van geneeskundige beoordeling, schriftelijk mee welke uitkering zal worden verstrekt aan de in [artikel 5, twaalfde lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=5&z=2025-01-01&g=2025-01-01), bedoelde werkgever. Als de werkgever de in artikel 5, twaalfde lid, eerste zin, bedoelde verplichting niet naleeft, geschiedt de schriftelijke mededeling, bedoeld in de eerste zin, aan de werknemer.
 
 2. Zodra de behandelende geneeskundige vaststelt dat de werknemer in verband met de gevolgen van het ongeval:
 
@@ -212,7 +212,7 @@ kunstmiddelen behoeft of onderricht in het gebruik daarvan;
 
 geeft hij van deze bevindingen en zijn daaruit volgende voorschriften kennis aan Onze Minister.
 
-3. Indien wordt vastgesteld dat de gewezen werknemer die recht heeft op ongevallengeld als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=5&z=2024-01-01&g=2024-01-01), niet of niet langer geheel of gedeeltelijk arbeidsongeschikt dan wel verminderd arbeidsongeschikt is, wordt de uitkering beëindigd respectievelijk herzien met ingang van de eerste dag van de tweede kalendermaand, volgend op het tijdstip waarop de herziene vaststelling van de arbeidsongeschiktheid heeft plaatsgevonden.
+3. Indien wordt vastgesteld dat de gewezen werknemer die recht heeft op ongevallengeld als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=5&z=2025-01-01&g=2025-01-01), niet of niet langer geheel of gedeeltelijk arbeidsongeschikt dan wel verminderd arbeidsongeschikt is, wordt de uitkering beëindigd respectievelijk herzien met ingang van de eerste dag van de tweede kalendermaand, volgend op het tijdstip waarop de herziene vaststelling van de arbeidsongeschiktheid heeft plaatsgevonden.
 
 ##### Artikel 7
 
@@ -240,7 +240,7 @@ geeft hij van deze bevindingen en zijn daaruit volgende voorschriften kennis aan
 
 4. Indien de werknemer of diens nagelaten betrekkingen tevens recht hebben op pensioen op grond van de [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459) of op grond van de [Wet algemene weduwen- en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387) worden de uitkeringen, waarop op grond van deze wet aanspraak bestaat, dienovereenkomstig verminderd met ingang van het tijdstip waarop twee jaren zijn verlopen na de dag van de melding van het ongeval bij Onze Minister, onderscheidenlijk in geval de aanspraak op ongevallengeld bestaat op grond van dezelfde gebeurtenis als die op grond waarvan het weduwen-, weduwnaars- of wezenpensioen werd toegekend of verhoogd. In het laatste geval komt slechts het bedrag waarmede het weduwen- of weduwnaarspensioen werd verhoogd voor vermindering in aanmerking.
 
-5. Voor de persoon, bedoeld in het eerste lid, onderdeel h, herleeft, onverminderd de bepalingen van deze wet, het recht op uitkering op de dag dat niet langer het gegronde vermoeden bestaat dat hij zich buiten de openbare lichamen Bonaire, Sint Eustatius en Saba bevindt met het doel om zich aan te sluiten bij een organisatie als bedoeld in [artikel 1, onderdeel p](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=1&z=2024-01-01&g=2024-01-01).
+5. Voor de persoon, bedoeld in het eerste lid, onderdeel h, herleeft, onverminderd de bepalingen van deze wet, het recht op uitkering op de dag dat niet langer het gegronde vermoeden bestaat dat hij zich buiten de openbare lichamen Bonaire, Sint Eustatius en Saba bevindt met het doel om zich aan te sluiten bij een organisatie als bedoeld in [artikel 1, onderdeel p](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=1&z=2025-01-01&g=2025-01-01).
 
 ## Premie
 
@@ -256,7 +256,7 @@ geeft hij van deze bevindingen en zijn daaruit volgende voorschriften kennis aan
 
 5. De verschuldigde premie op grond van deze wet wordt door de inspecteur geheven van de werkgever door middel van afdracht op aangifte.
 
-6. De premie, bedoeld in het eerste lid, wordt geheven met overeenkomstige toepassing van [hoofdstuk III van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=III), met dien verstande dat in plaats van «inhoudingsplichtige» telkens gelezen wordt «werkgever».
+6. De premie, bedoeld in het eerste lid, wordt geheven met overeenkomstige toepassing van [hoofdstuk IV van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=IV), met dien verstande dat in plaats van «inhoudingsplichtige» telkens gelezen wordt «werkgever».
 
 7. De premie komt ten gunste van het Rijk.
 
@@ -264,7 +264,7 @@ geeft hij van deze bevindingen en zijn daaruit volgende voorschriften kennis aan
 
 ##### Artikel 8a
 
-Voor zover op grond van deze wet niet anders is bepaald en in afwijking van [artikel 14c](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=14c&z=2024-01-01&g=2024-01-01) is ten aanzien van de premieheffing op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=8&z=2024-01-01&g=2024-01-01) en de invordering daarvan [hoofdstuk VIII van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII) van overeenkomstige toepassing.
+Voor zover op grond van deze wet niet anders is bepaald en in afwijking van [artikel 14c](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=14c&z=2025-01-01&g=2025-01-01) is ten aanzien van de premieheffing op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=8&z=2025-01-01&g=2025-01-01) en de invordering daarvan [hoofdstuk VIII van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII) van overeenkomstige toepassing.
 
 ##### Artikel 8b
 
@@ -388,9 +388,9 @@ Alle op grond van deze wet opgemaakte of overgelegde stukken, verzoekschriften e
 
 ##### Artikel 14a
 
-1. Op overtreding van [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=11&z=2024-01-01&g=2024-01-01), en het niet of niet tijdig nakomen van een van de verplichtingen gesteld bij de [artikelen 5, twaalfde lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=5&z=2024-01-01&g=2024-01-01), [6, eerste lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=6&z=2024-01-01&g=2024-01-01), [8h](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=8h&z=2024-01-01&g=2024-01-01), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=12&z=2024-01-01&g=2024-01-01), en krachtens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=13&z=2024-01-01&g=2024-01-01) wordt een boete geheven van de tweede categorie.
+1. Op overtreding van [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=11&z=2025-01-01&g=2025-01-01), en het niet of niet tijdig nakomen van een van de verplichtingen gesteld bij de [artikelen 5, twaalfde lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=5&z=2025-01-01&g=2025-01-01), [6, eerste lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=6&z=2025-01-01&g=2025-01-01), [8h](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=8h&z=2025-01-01&g=2025-01-01), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=12&z=2025-01-01&g=2025-01-01), en krachtens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=13&z=2025-01-01&g=2025-01-01) wordt een boete geheven van de tweede categorie.
 
-2. Onder het niet voldoen aan de verplichtingen van [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=12&z=2024-01-01&g=2024-01-01), wordt mede verstaan het verstrekken van inlichtingen die onjuist zijn.
+2. Onder het niet voldoen aan de verplichtingen van [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=12&z=2025-01-01&g=2025-01-01), wordt mede verstaan het verstrekken van inlichtingen die onjuist zijn.
 
 3. Indien er sprake is van herhaling van eenzelfde overtreding binnen twee jaar wordt het maximum van de boetes, genoemd in het eerste lid, verdubbeld.
 
@@ -400,9 +400,9 @@ Alle op grond van deze wet opgemaakte of overgelegde stukken, verzoekschriften e
 
 ##### Artikel 15
 
-1. Overtreding van [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=11&z=2024-01-01&g=2024-01-01), en het niet of niet tijdig nakomen van een van de verplichtingen gesteld bij de [artikelen 5, twaalfde lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=5&z=2024-01-01&g=2024-01-01), [6, eerste lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=6&z=2024-01-01&g=2024-01-01), [8h](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=8h&z=2024-01-01&g=2024-01-01), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=12&z=2024-01-01&g=2024-01-01) en krachtens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=13&z=2024-01-01&g=2024-01-01) wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de derde categorie.
+1. Overtreding van [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=11&z=2025-01-01&g=2025-01-01), en het niet of niet tijdig nakomen van een van de verplichtingen gesteld bij de [artikelen 5, twaalfde lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=5&z=2025-01-01&g=2025-01-01), [6, eerste lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=6&z=2025-01-01&g=2025-01-01), [8h](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=8h&z=2025-01-01&g=2025-01-01), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=12&z=2025-01-01&g=2025-01-01) en krachtens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=13&z=2025-01-01&g=2025-01-01) wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de derde categorie.
 
-2. Het opzettelijk, mondeling of schriftelijk verstrekken of doen verstrekken van inlichtingen als bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=12&z=2024-01-01&g=2024-01-01), die onjuist zijn alsmede het afleggen van een valse verklaring aan Onze Minister, wordt gestraft met gevangenisstraf van ten hoogste één jaar of een geldboete van de derde categorie.
+2. Het opzettelijk, mondeling of schriftelijk verstrekken of doen verstrekken van inlichtingen als bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=12&z=2025-01-01&g=2025-01-01), die onjuist zijn alsmede het afleggen van een valse verklaring aan Onze Minister, wordt gestraft met gevangenisstraf van ten hoogste één jaar of een geldboete van de derde categorie.
 
 3. Het opzettelijk door giften, beloften, misbruik van gezag, geweld, bedreiging of misleiding bewegen van een werknemer om geen gebruik te maken van een hem op grond van deze wet toekomend recht wordt gestraft met gevangenisstraf van ten hoogste één jaar of geldboete van de derde categorie.
 
@@ -462,11 +462,11 @@ Bij of krachtens algemene maatregel van bestuur kan een uitbreiding dan wel een 
 
 ##### Artikel 5a. Indexatie tegemoetkoming begrafeniskosten
 
-1. Indien uit de door het Centraal Bureau voor de Statistiek vastgestelde consumentenprijsindexcijfers voor de openbare lichamen Bonaire, Sint Eustatius en Saba blijkt dat het prijsindexcijfer voor het derde kwartaal van het lopende jaar, vergeleken met het prijsindexcijfer voor het derde kwartaal van het voorafgaande jaar is gestegen of gedaald, stelt Onze Minister het bedrag vast, dat met ingang van 1 januari van het komende jaar in de plaats treedt van het in [artikel 5, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=5&z=2024-01-01&g=2024-01-01), genoemde bedrag. Onze Minister bepaalt welke consumentenprijsindexcijfers voor de toepassing van de eerste zin worden gebruikt. De consumentenprijsindexcijfers kunnen voor de onderscheiden openbare lichamen en voor belanghebbenden die woonachtig zijn buiten de openbare lichamen, verschillend zijn.
+1. Indien uit de door het Centraal Bureau voor de Statistiek vastgestelde consumentenprijsindexcijfers voor de openbare lichamen Bonaire, Sint Eustatius en Saba blijkt dat het prijsindexcijfer voor het derde kwartaal van het lopende jaar, vergeleken met het prijsindexcijfer voor het derde kwartaal van het voorafgaande jaar is gestegen of gedaald, stelt Onze Minister het bedrag vast, dat met ingang van 1 januari van het komende jaar in de plaats treedt van het in [artikel 5, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=5&z=2025-01-01&g=2025-01-01), genoemde bedrag. Onze Minister bepaalt welke consumentenprijsindexcijfers voor de toepassing van de eerste zin worden gebruikt. De consumentenprijsindexcijfers kunnen voor de onderscheiden openbare lichamen en voor belanghebbenden die woonachtig zijn buiten de openbare lichamen, verschillend zijn.
 
 2. Indien er naar het oordeel van Onze Minister bijzondere omstandigheden zijn, kan het bedrag, bedoeld in het eerste lid, bij ministeriële regeling met ingang van een bij die regeling aan te geven datum worden gewijzigd.
 
-3. Het overeenkomstig het eerste lid herziene dan wel overeenkomstig het tweede lid gewijzigde of vastgestelde bedrag treedt in de plaats van het bedrag, genoemd in [artikel 5, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=5&z=2024-01-01&g=2024-01-01).
+3. Het overeenkomstig het eerste lid herziene dan wel overeenkomstig het tweede lid gewijzigde of vastgestelde bedrag treedt in de plaats van het bedrag, genoemd in [artikel 5, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=5&z=2025-01-01&g=2025-01-01).
 
 4. Indien een wijziging als bedoeld in het tweede lid samenvalt met een herziening als bedoeld in het eerste lid, wordt het bedrag voorafgaande aan de wijziging herzien en geschiedt de herziening bij de in het tweede lid bedoelde ministeriële regeling.
 
@@ -492,11 +492,11 @@ Bij of krachtens algemene maatregel van bestuur kan een uitbreiding dan wel een 
 
 1. De belanghebbende kan tegen een beschikking op grond van deze wet beroep instellen bij het Gerecht, bedoeld in [artikel 1, eerste lid, onderdeel b, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=1).
 
-2. Bij een beroep tegen een beschikking op grond van [artikel 7, eerste lid, onderdeel h, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=7&z=2024-01-01&g=2024-01-01), is [artikel 23, eerste lid, laatste zin, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=23) niet van toepassing.
+2. Bij een beroep tegen een beschikking op grond van [artikel 7, eerste lid, onderdeel h, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=7&z=2025-01-01&g=2025-01-01), is [artikel 23, eerste lid, laatste zin, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=23) niet van toepassing.
 
-3. Bij een bestuurlijke heroverweging van een beschikking op grond van [artikel 7, eerste lid, onderdeel h, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=7&z=2024-01-01&g=2024-01-01), is [artikel 24, eerste en tweede lid, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=24) van overeenkomstige toepassing.
+3. Bij een bestuurlijke heroverweging van een beschikking op grond van [artikel 7, eerste lid, onderdeel h, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=7&z=2025-01-01&g=2025-01-01), is [artikel 24, eerste en tweede lid, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=24) van overeenkomstige toepassing.
 
-4. Met betrekking tot een beschikking op grond van [artikel 7, eerste lid, onderdeel h, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=7&z=2024-01-01&g=2024-01-01), kan het Gerecht, bedoeld in [artikel 1, eerste lid, onderdeel b, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=1), indien het bestuursorgaan niet voldoet aan de verplichting, bedoeld in [artikel 23 van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=23), daaruit de gevolgtrekking maken die hem geraden voorkomt.
+4. Met betrekking tot een beschikking op grond van [artikel 7, eerste lid, onderdeel h, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=7&z=2025-01-01&g=2025-01-01), kan het Gerecht, bedoeld in [artikel 1, eerste lid, onderdeel b, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=1), indien het bestuursorgaan niet voldoet aan de verplichting, bedoeld in [artikel 23 van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=23), daaruit de gevolgtrekking maken die hem geraden voorkomt.
 
 ##### Artikel 14d
 
@@ -508,7 +508,7 @@ Bij of krachtens algemene maatregel van bestuur kan een uitbreiding dan wel een 
 
 ##### Artikel 12b
 
-1. Onverminderd voorschriften als gesteld op grond van [artikel 7, onderdelen d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=7&z=2024-01-01&g=2024-01-01), kunnen bij ministeriële regeling controlevoorschriften worden vastgesteld. Deze voorschriften gaan niet verder dan strikt noodzakelijk is voor een juiste uitvoering van deze wet.
+1. Onverminderd voorschriften als gesteld op grond van [artikel 7, onderdelen d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=7&z=2025-01-01&g=2025-01-01), kunnen bij ministeriële regeling controlevoorschriften worden vastgesteld. Deze voorschriften gaan niet verder dan strikt noodzakelijk is voor een juiste uitvoering van deze wet.
 
 2. De werknemer, dan wel diens nagelaten betrekkingen, zijn verplicht de voorschriften op te volgen en anderszins aan Onze Minister desgevraagd de medewerking te verlenen die redelijkerwijs nodig is voor de uitvoering van deze wet.
 
@@ -520,7 +520,7 @@ Bij of krachtens algemene maatregel van bestuur kan een uitbreiding dan wel een 
 
 ##### Artikel 5b. Indexatie loon per dag waarnaar uitkering is berekend
 
-1. Het loon per dag waarnaar de uitkering is berekend, wordt voor de werknemer, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=5&z=2024-01-01&g=2024-01-01), van wie het dienstverband is geëindigd, herzien met ingang van de dag waarop en in de mate waarin het bedrag, genoemd in [artikel 9, eerste lid, van de Wet minimumlonen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028170&artikel=9) wordt herzien.
+1. Het loon per dag waarnaar de uitkering is berekend, wordt voor de werknemer, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=5&z=2025-01-01&g=2025-01-01), van wie het dienstverband is geëindigd, herzien met ingang van de dag waarop en in de mate waarin het bedrag, genoemd in [artikel 9, eerste lid, van de Wet minimumlonen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028170&artikel=9) wordt herzien.
 
 2. Onze Minister maakt in de Staatscourant bekend met ingang van welke dag en met welk percentage een herziening als bedoeld in het eerste lid plaatsvindt.
 
