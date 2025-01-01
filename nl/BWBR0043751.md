@@ -4,7 +4,7 @@ identifier: "BWBR0043751"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2026-01-01"
-last_updated: "2024-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043751"
 soort: "ministeriele-regeling-BES"
@@ -54,43 +54,43 @@ In deze regeling wordt verstaan onder:
 
 | Leeftijd pleegkind | Bedrag per maand in USD |
 | --- | --- |
-| 0-8 jaar | 748 |
-| 9-11 jaar | 756 |
-| 12-15 jaar | 824 |
-| 16-17 jaar | 910 |
-| 18+ jaar | 919 |
+| 0–8 jaar | 767 |
+| 9–11 jaar | 775 |
+| 12–15 jaar | 845 |
+| 16–17 jaar | 933 |
+| 18+ jaar | 942 |
 
 - b. indien het pleeggezin woonachtig is op het openbaar lichaam Sint Eustatius:
 
 | Leeftijd pleegkind | Bedrag per maand in USD |
 | --- | --- |
-| 0-8 jaar | 756 |
-| 9-11 jaar | 764 |
-| 12-15 jaar | 827 |
-| 16-17 jaar | 964 |
-| 18+ jaar | 917 |
+| 0–8 jaar | 780 |
+| 9–11 jaar | 788 |
+| 12–15 jaar | 853 |
+| 16–17 jaar | 994 |
+| 18+ jaar | 946 |
 
 - c. indien het pleeggezin woonachtig is op het openbaar lichaam Saba:
 
 | Leeftijd pleegkind | Bedrag per maand in USD |
 | --- | --- |
-| 0-8 jaar | 788 |
-| 9-11 jaar | 796 |
-| 12-15 jaar | 863 |
-| 16-17 jaar | 1.005 |
-| 18+ jaar | 956 |
+| 0–8 jaar | 804 |
+| 9–11 jaar | 812 |
+| 12–15 jaar | 881 |
+| 16–17 jaar | 1025 |
+| 18+ jaar | 975 |
 
 2. Het basisbedrag bedoeld in het eerste lid, kan worden verminderd voor de periode gedurende welke een pleegkind als gevolg van bijzondere omstandigheden tijdelijk niet bij de pleegouder verblijft. Alsdan worden de door de pleegouder werkelijk gemaakte noodzakelijke kosten vergoed tot ten hoogste het basisbedrag.
 
 ##### Artikel 3
 
-1. Het basisbedrag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043751&artikel=2&z=2024-01-01&g=2024-01-01), wordt vermeerderd met een toeslag ter hoogte van USD 4,96 per dag:
+1. Het basisbedrag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043751&artikel=2&z=2025-01-01&g=2025-01-01), wordt vermeerderd met een toeslag ter hoogte van USD 5,09 per dag:
 
 - a. zolang sprake is van een crisisplaatsing waarbij het pleegkind met spoed is geplaatst bij de pleegouder, gedurende de eerste vier weken van het verblijf van het pleegkind;
 
 - b. zolang bij een pleegouder drie of meer pleegkinderen verblijven, voor het derde en volgende pleegkind.
 
-2. Onverminderd het bepaalde in het eerste lid, wordt het basisbedrag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043751&artikel=2&z=2024-01-01&g=2024-01-01), vermeerderd met een door de pleegzorgaanbieder vast te stellen toeslag van ten hoogste USD 4,96 per dag, voor de door de pleegouder ten behoeve van een pleegkind met een verstandelijke, zintuiglijke of lichamelijke beperking gemaakte kosten, voor zover:
+2. Onverminderd het bepaalde in het eerste lid, wordt het basisbedrag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043751&artikel=2&z=2025-01-01&g=2025-01-01), vermeerderd met een door de pleegzorgaanbieder vast te stellen toeslag van ten hoogste USD 5.09 per dag, voor de door de pleegouder ten behoeve van een pleegkind met een verstandelijke, zintuiglijke of lichamelijke beperking gemaakte kosten, voor zover:
 
 - a. deze kosten naar het oordeel van de pleegzorgaanbieder redelijkerwijs noodzakelijk zijn in verband met de beperkingen;
 
@@ -104,7 +104,7 @@ In deze regeling wordt verstaan onder:
 
 1. De pleegzorgaanbieder verstrekt een door de pleegzorgaanbieder vast te stellen vergoeding voor bijzondere kosten voor het pleegkind voor zover:
 
-- a. deze kosten naar het oordeel van de pleegzorgaanbieder redelijkerwijs noodzakelijk worden geacht en niet kunnen worden voldaan uit het basisbedrag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043751&artikel=2&z=2024-01-01&g=2024-01-01), dan wel uit de toeslagen bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043751&artikel=3&z=2024-01-01&g=2024-01-01);
+- a. deze kosten naar het oordeel van de pleegzorgaanbieder redelijkerwijs noodzakelijk worden geacht en niet kunnen worden voldaan uit het basisbedrag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043751&artikel=2&z=2025-01-01&g=2025-01-01), dan wel uit de toeslagen bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043751&artikel=3&z=2025-01-01&g=2025-01-01);
 
 - b. voor deze kosten geen uitkering op grond van een andere regeling kan worden verstrekt, en
 
@@ -112,7 +112,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 5
 
-Indien uit de door het Centraal Bureau voor de Statistiek vastgestelde consumentenprijsindexcijfers voor de openbare lichamen Bonaire, Sint Eustatius en Saba blijkt, dat het prijsindexcijfer voor het derde kwartaal van het lopende jaar, vergeleken met het prijsindexcijfer voor het derde kwartaal van het voorafgaande jaar is gestegen of gedaald, stelt Onze Minister een bedrag vast, dat met ingang van 1 januari van het komende jaar in de plaats treedt van de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043751&artikel=2&z=2024-01-01&g=2024-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0043751&artikel=3&z=2024-01-01&g=2024-01-01) bedoelde bedragen. Onze Minister bepaalt welke consumentenprijsindexcijfers voor de toepassing van de eerste zin worden gebruikt. De consumentenprijsindexcijfers kunnen voor de onderscheiden openbare lichamen verschillend zijn.
+Indien uit de door het Centraal Bureau voor de Statistiek vastgestelde consumentenprijsindexcijfers voor de openbare lichamen Bonaire, Sint Eustatius en Saba blijkt, dat het prijsindexcijfer voor het derde kwartaal van het lopende jaar, vergeleken met het prijsindexcijfer voor het derde kwartaal van het voorafgaande jaar is gestegen of gedaald, stelt Onze Minister een bedrag vast, dat met ingang van 1 januari van het komende jaar in de plaats treedt van de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043751&artikel=2&z=2025-01-01&g=2025-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0043751&artikel=3&z=2025-01-01&g=2025-01-01) bedoelde bedragen. Onze Minister bepaalt welke consumentenprijsindexcijfers voor de toepassing van de eerste zin worden gebruikt. De consumentenprijsindexcijfers kunnen voor de onderscheiden openbare lichamen verschillend zijn.
 
 ##### Artikel 6
 
@@ -126,6 +126,6 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 5a
 
-In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043751&artikel=5&z=2024-01-01&g=2024-01-01) wordt het basisbedrag, bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043751&artikel=2&z=2024-01-01&g=2024-01-01), met ingang van 1 januari 2024 niet opnieuw vastgesteld.
+Vervallen
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
