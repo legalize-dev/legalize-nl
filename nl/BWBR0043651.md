@@ -4,7 +4,7 @@ identifier: "BWBR0043651"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2022-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043651"
 soort: "wet"
@@ -53,23 +53,7 @@ Vervallen
 
 ##### Artikel III
 
-1. [Artikel 40, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=40) is niet van toepassing op voor de datum van inwerkingtreding van dit artikel in het verkeer gebrachte:
-
-- a. landbouw- of bosbouwtrekkers;
-
-- b. motorrijtuigen met beperkte snelheid; en
-
-- c. aanhangwagens die uitsluitend bestemd zijn om te worden voortbewogen door landbouw- of bosbouwtrekkers, motorrijtuigen met beperkte snelheid of mobiele machines.
-
-2. Het eerste lid is niet van toepassing indien:
-
-- a. voor een motorrijtuig of aanhangwagen als bedoeld in dat lid [artikel 72 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72) geldt;
-
-- b. de eigenaar of houder van een motorrijtuig of aanhangwagen als bedoeld in dat lid voornemens is daarmee meer dan 25 kilometer per uur te rijden;
-
-- c. een ontheffing als bedoeld in [artikel 149 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149) is verleend of wordt aangevraagd; of
-
-- d. een ontheffing als bedoeld in [artikel 149a, tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149a) wordt aangevraagd.
+Vervallen
 
 ##### Artikel IV
 
@@ -99,8 +83,8 @@ Onze Minister van Infrastructuur en Waterstaat zendt binnen drie jaar na de inwe
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. De [artikelen II](https://wetten.overheid.nl/jci1.3:c:BWBR0043651&artikel=II&z=2022-01-01&g=2022-01-01), [V](https://wetten.overheid.nl/jci1.3:c:BWBR0043651&artikel=V&z=2022-01-01&g=2022-01-01) en [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0043651&artikel=VII&z=2022-01-01&g=2022-01-01) vervallen met ingang van een bij koninklijk besluit te bepalen tijdstip.
+2. De [artikelen II](https://wetten.overheid.nl/jci1.3:c:BWBR0043651&artikel=II&z=2025-01-01&g=2025-01-01), [V](https://wetten.overheid.nl/jci1.3:c:BWBR0043651&artikel=V&z=2025-01-01&g=2025-01-01) en [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0043651&artikel=VII&z=2025-01-01&g=2025-01-01) vervallen met ingang van een bij koninklijk besluit te bepalen tijdstip.
 
-3. [Artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0043651&artikel=III&z=2022-01-01&g=2022-01-01) vervalt met ingang van 1 januari 2025.
+3. [Artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0043651&artikel=III&z=2025-01-01&g=2025-01-01) vervalt met ingang van 1 januari 2025.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
