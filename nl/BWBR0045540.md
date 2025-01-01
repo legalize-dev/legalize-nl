@@ -4,7 +4,7 @@ identifier: "BWBR0045540"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2022-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045540"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ In deze regeling wordt verstaan onder ‘wet’: [Wet toetreding zorgaanbieders]
 
 ##### Artikel 2
 
-1. De melding, bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&artikel=2), geschiedt door het volledig invullen van het daartoe via de website [www.toetredingzorgaanbieders.nl](onbekend) beschikbaar gestelde formulier.
+1. De melding, bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&artikel=2), geschiedt door het volledig invullen van het daartoe via de website [www.toetredingzorgaanbieders.nl](http://www.toetredingzorgaanbieders.nl) beschikbaar gestelde formulier.
 
 2. De zorgaanbieder doet de melding niet eerder dan drie maanden voor de aanvang van de zorgverlening.
 
@@ -126,7 +126,7 @@ In deze regeling wordt verstaan onder ‘wet’: [Wet toetreding zorgaanbieders]
 
 ##### Artikel 4
 
-De aanvraag om een toelatingsvergunning geschiedt door bij het CIBG een volledig ingevuld aanvraagformulier, waarvan het model is opgenomen in de bijlage bij deze regeling, met de in dat formulier genoemde bescheiden, elektronisch aan te leveren via [www.toetredingzorgaanbieders.nl](onbekend) of per post.
+De aanvraag om een toelatingsvergunning geschiedt door bij het CIBG een volledig ingevuld aanvraagformulier, waarvan het model is opgenomen in de bijlage bij deze regeling, met de in dat formulier genoemde bescheiden, elektronisch aan te leveren via [www.toetredingzorgaanbieders.nl](http://www.toetredingzorgaanbieders.nl) of per post.
 
 #### Paragraaf 3. Het te betalen bedrag voor de behandeling van de aanvraag om een toelatingsvergunning
 
@@ -160,7 +160,7 @@ Deze regeling treedt in werking met ingang van 1 januari 2022.
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling Wtza.
 
-## Bijlage. Aanvraagformulier als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045540&hoofdstuk=3&paragraaf=2&artikel=4&z=2022-01-01&g=2022-01-01)
+## Bijlage. Aanvraagformulier als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045540&hoofdstuk=3&paragraaf=2&artikel=4&z=2025-01-01&g=2025-01-01)
 
 ### Inleiding
 
@@ -170,7 +170,7 @@ Met dit formulier kan een aanvraag voor een toelatingsvergunning op grond van de
 
 Niet iedere aanbieder van zorg heeft een toelatingsvergunning nodig. Eerst worden enkele vragen gesteld om vast te stellen of u als aanbieder van zorg een toelatingsvergunning nodig heeft. Dit is om te voorkomen dat u een aanvraag indient, terwijl u als aanbieder geen toelatingsvergunning nodig heeft.
 
-1 [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045540&hoofdstuk=3&paragraaf=1&artikel=3&z=2022-01-01&g=2022-01-01) Uitvoeringsregeling Wtza.
+1 [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045540&hoofdstuk=3&paragraaf=1&artikel=3&z=2025-01-01&g=2025-01-01) Uitvoeringsregeling Wtza.
 
 2 Paragraaf 2.2 in de toelichting bij de Uitvoeringsregeling Wtza.
 
@@ -226,7 +226,7 @@ Om een toelatingsvergunning te verstrekken, moet het CIBG weten ten behoeve van 
 
 Alle instellingen die moeten beschikken over een toelatingsvergunning, moeten ook beschikken over een interne toezichthouder, tenzij ze van die verplichting zijn uitgezonderd. Een interne toezichthouder staat de dagelijkse of algemene leiding met raad ter zijde en is een belangrijke spiegel. Goed en effectief intern toezicht kan daarmee de kwaliteit en doelmatigheid van zorg verbeteren. Ter versterking van de positie van de interne toezichthouder, geldt een aantal eisen voor de zorgaanbieder.
 
-De volgende vragen gaan in op deze eisen. Eerst wordt een vraag gesteld om te bezien of de instelling waar deze aanvraag betrekking op heeft, behoort tot één van de uitzonderingscategorieën waarvoor de eis van een interne toezichthouder niet geldt.
+De volgende vragen gaan in op deze eisen. Eerst wordt een vraag gesteld om te bezien of de instelling behoort tot één van de uitzonderingscategorieën waarvoor de eis van een interne toezichthouder niet geldt.
 
 1 Staatsblad 2021, 159.
 
