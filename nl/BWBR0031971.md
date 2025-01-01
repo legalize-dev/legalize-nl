@@ -4,7 +4,7 @@ identifier: "BWBR0031971"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2024-09-14"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031971"
 soort: "AMvB"
@@ -108,21 +108,55 @@ De artikelen van dit besluit treden in werking op een bij koninklijk besluit te 
 
 Dit besluit wordt aangehaald als: Besluit beschikbaarheidbijdrage WMG.
 
-## Bijlage. behorende bij de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031971&artikel=2&z=2024-09-14&g=2024-09-14) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0031971&artikel=4&z=2024-09-14&g=2024-09-14) van het Besluit beschikbaarheidbijdrage WMG
+## Bijlage. behorende bij de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031971&artikel=2&z=2025-01-01&g=2025-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0031971&artikel=4&z=2025-01-01&g=2025-01-01) van het Besluit beschikbaarheidbijdrage WMG
 
 ### Onderdeel A
 
-Vormen van zorg waarvoor op grond van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031971&artikel=4&z=2024-09-14&g=2024-09-14), van het Besluit beschikbaarheidbijdrage WMG een verklaring van geen bezwaar van Onze Minister is vereist, alvorens de Nederlandse Zorgautoriteit een beschikbaarheidbijdrage kan toekennen:
+Vormen van zorg waarvoor op grond van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031971&artikel=4&z=2025-01-01&g=2025-01-01), van het Besluit beschikbaarheidbijdrage WMG een verklaring van geen bezwaar van Onze Minister is vereist, alvorens de Nederlandse Zorgautoriteit een beschikbaarheidbijdrage kan toekennen:
 
 ### Onderdeel B
 
-Vormen van zorg waarvoor op grond van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031971&artikel=4&z=2024-09-14&g=2024-09-14), van het Besluit beschikbaarheidbijdrage WMG de Nederlandse Zorgautoriteit zonder verklaring van geen bezwaar van Onze Minister een beschikbaarheidbijdrage kan toekennen:
+Vormen van zorg waarvoor op grond van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031971&artikel=4&z=2025-01-01&g=2025-01-01), van het Besluit beschikbaarheidbijdrage WMG de Nederlandse Zorgautoriteit zonder verklaring van geen bezwaar van Onze Minister een beschikbaarheidbijdrage kan toekennen:
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 ### Onderdeel C
 
-Dit onderdeel is nog niet in werking getreden.
+Modules als bedoeld in Onderdeel B, eerste lid, onderdeel c van deze bijlage
+
+### Cluster acute zorg
+
+Functie-overstijgende modules:
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+AZ-FO-1 (BAZ), AZ-FO-2 (BAZ), AZ-FO-3 (BAZ), AZ-FO-4 (BAZ), AZ-FO-5, AZ-FO-6, AZ-FO-7, AZ-FO-8, AZ-FO-9, AZ-FO-10, AZ-FO-11, AZ-FO-12, AZ-FO-13
+
+Kern modules en specifieke modules per opleiding:
+
+### Cluster moeder en kind
+
+Functie-overstijgende modules:
+
+MK-FO-1, MK-FO-2, MK-FO-3, MK-FO-4
+
+Kern modules en specifieke modules per opleiding:
+
+### Cluster langdurige zorg
+
+Functie-overstijgende modules:
+
+LZ-FO-1, LZ-FO-2, LZ-FO-3, LZ-FO-4, LZ-FO-5, LZ-FO-6
+
+Kern modules en specifieke modules per opleiding:
+
+### Cluster medisch ondersteunende opleidingen
+
+Functie-overstijgende modules:
+
+MO-FO-1, MO-FO-2
+
+Kern modules en specifieke modules per opleiding:
 
 ### Onderdeel D
 
