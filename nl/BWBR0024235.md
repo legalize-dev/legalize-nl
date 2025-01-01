@@ -4,7 +4,7 @@ identifier: "BWBR0024235"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-05-10"
-last_updated: "2022-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024235"
 soort: "AMvB"
@@ -294,11 +294,11 @@ Vervallen
 
 ##### Artikel 6:2
 
-Indien niet aan de bij [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=4&artikel=4:1&z=2022-01-01&g=2022-01-01) opgelegde verplichting is voldaan, vormt dit een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 335.
+Indien niet aan de bij [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=4&artikel=4:1&z=2025-01-01&g=2025-01-01) opgelegde verplichting is voldaan, vormt dit een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 408.
 
 ##### Artikel 6:3
 
-Overtreding van het verbod, bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2022-01-01&g=2022-01-01), vormt een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 335.
+Overtreding van het verbod, bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2025-01-01&g=2025-01-01), vormt een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 408.
 
 ### Hoofdstuk 7. Strafrechtelijke bepalingen
 
@@ -308,11 +308,11 @@ Vervallen
 
 ##### Artikel 7:2
 
-Degene die de bij [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=4&artikel=4:1&z=2022-01-01&g=2022-01-01) opgelegde verplichting schendt, maakt zich schuldig aan het plegen van een strafbaar feit.
+Degene die de bij [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=4&artikel=4:1&z=2025-01-01&g=2025-01-01) opgelegde verplichting schendt, maakt zich schuldig aan het plegen van een strafbaar feit.
 
 ##### Artikel 7:3
 
-Degene die het verbod, bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2022-01-01&g=2022-01-01), overtreedt, maakt zich schuldig aan het plegen van een strafbaar feit.
+Degene die het verbod, bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2025-01-01&g=2025-01-01), overtreedt, maakt zich schuldig aan het plegen van een strafbaar feit.
 
 ### Hoofdstuk 8. Slotbepalingen
 
@@ -328,7 +328,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 6:4
 
-De in de [artikelen 6:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=6&artikel=6:2&z=2022-01-01&g=2022-01-01) en [6:3](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=6&artikel=6:3&z=2022-01-01&g=2022-01-01) genoemde bedragen worden elke vijf jaar, met ingang van 1 januari 2015, overeenkomstig [artikel 9:6a van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=9:6a), bij ministeriële regeling gewijzigd.
+De in de [artikelen 6:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=6&artikel=6:2&z=2025-01-01&g=2025-01-01) en [6:3](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=6&artikel=6:3&z=2025-01-01&g=2025-01-01) genoemde bedragen worden elke vijf jaar, met ingang van 1 januari 2015, overeenkomstig [artikel 9:6a van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=9:6a), bij ministeriële regeling gewijzigd.
 
 ### Hoofdstuk 7. Strafrechtelijke bepalingen
 
