@@ -4,7 +4,7 @@ identifier: "BWBR0050570"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2024-12-18"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050570"
 soort: "wet"
@@ -42,79 +42,53 @@ entry_into_force: "2024-12-18"
 
 Wijzigt de Algemene Kinderbijslagwet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel II. [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795)
 
 Wijzigt de Algemene nabestaandenwet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III. [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221)
 
 Wijzigt de Algemene Ouderdomswet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IV. [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346)
 
 Wijzigt de Arbeidsomstandighedenwet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel V. [Arbeidswet BES 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0028202)
 
 Wijzigt de Arbeidswet 2000 BES.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel Va. [Tabaks- en rookwarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302)
 
 Wijzigt de Tabaks- en rookwarenwet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VI. [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043)
 
 Wijzigt de Toeslagenwet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VII. [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969)
 
 Wijzigt de Warenwet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VIII. [Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616)
 
 Wijzigt de Wet allocatie arbeidskrachten door intermediairs.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IX. [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008)
 
 Wijzigt de Wet arbeid en zorg.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel X. [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656)
 
 Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XI. [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745)
 
 Wijzigt de Wet financiering sociale verzekeringen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XII. [Wet flexibel werken](https://wetten.overheid.nl/jci1.3:c:BWBR0011173)
 
 Wijzigt de Wet flexibel werken.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIII. [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044)
 
@@ -128,37 +102,27 @@ Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gew
 
 Wijzigt de Wet langdurige zorg.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVI. [Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638)
 
 Wijzigt de Wet minimumloon en minimumvakantiebijslag.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVII. [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)
 
 Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVIII. [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057)
 
 Wijzigt de Wet werk en inkomen naar arbeidsvermogen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIX. [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888)
 
 Wijzigt de Ziektewet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XX. Inwerkingtreding
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. In afwijking van het eerste lid, treden [onderdelen A en B van de artikelen XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0050570&artikel=XIII&z=2024-12-18&g=2024-12-18) en [XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0050570&artikel=XIV&z=2024-12-18&g=2024-12-18) van deze wet in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werken terug tot en met 1 januari 2024.
+2. In afwijking van het eerste lid, treden [onderdelen A en B van de artikelen XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0050570&artikel=XIII&z=2025-01-01&g=2025-01-01) en [XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0050570&artikel=XIV&z=2025-01-01&g=2025-01-01) van deze wet in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werken terug tot en met 1 januari 2024.
 
 ##### Artikel XXI. Citeertitel
 
