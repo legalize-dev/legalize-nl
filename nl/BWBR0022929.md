@@ -4,7 +4,7 @@ identifier: "BWBR0022929"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-01"
-last_updated: "2024-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022929"
 soort: "AMvB"
@@ -70,13 +70,13 @@ Treedt voor het toepassen van grond en baggerspecie in de Nederlandse territoria
 
 - **bodemfunctieklasse:** bodemfunctieklasse als bedoeld in [artikel 5.89p van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.89p) waarin de ontvangende landbodem in het omgevingsplan is ingedeeld;
 
-- **bodemkwaliteitskaart:** kaart als bedoeld in [artikel 25c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2a&artikel=25c&z=2024-01-01&g=2024-01-01);
+- **bodemkwaliteitskaart:** kaart als bedoeld in [artikel 25c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2a&artikel=25c&z=2025-01-01&g=2025-01-01);
 
 - **bouwstof:** materiaal dat is bestemd om te worden toegepast, waarin de totaalgehalten aan silicium, calcium en aluminium tezamen meer dan 10 gewichtsprocent van dat materiaal bedragen, met uitzondering van vlakglas, metallisch aluminium, grond of baggerspecie;
 
 - **certificaat:** verklaring waarmee een door Onze Minister erkende certificeringsinstelling kenbaar maakt dat gedurende een bepaalde periode een gerechtvaardigd vertrouwen bestaat dat de hierin genoemde persoon voldoet aan het voor de certificering geldende normdocument;
 
-- **erkenning bodemkwaliteit:** op grond van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=9&z=2024-01-01&g=2024-01-01), gegeven beschikking waarbij wordt vastgesteld dat een persoon of een instelling voor een werkzaamheid voldoet aan de bij of krachtens dit besluit geldende voorwaarden;
+- **erkenning bodemkwaliteit:** op grond van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=9&z=2025-01-01&g=2025-01-01), gegeven beschikking waarbij wordt vastgesteld dat een persoon of een instelling voor een werkzaamheid voldoet aan de bij of krachtens dit besluit geldende voorwaarden;
 
 - **grond:** vast materiaal dat bestaat uit minerale delen met een maximale korrelgrootte van 2 millimeter en organische stof in een verhouding en met een structuur zoals deze in de bodem van nature worden aangetroffen, alsmede van nature in de bodem voorkomende schelpen en grind met een korrelgrootte van 2 tot 63 millimeter, niet zijnde baggerspecie;
 
@@ -86,7 +86,7 @@ Treedt voor het toepassen van grond en baggerspecie in de Nederlandse territoria
 
 - **mijnsteen:** bouwstof, in hoofdzaak bestaande uit gebroken schalie en zandsteen met bijmengingen van kolengruis, die als nevengesteente is vrijgekomen bij de winning van steenkool;
 
-- **normdocument:** op grond van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=3&artikel=25&z=2024-01-01&g=2024-01-01) aangewezen beoordelingsrichtlijn, protocol of andere richtlijn, code, aanbeveling of norm waarin eisen zijn opgenomen ter bevordering van de kwaliteit van werkzaamheden of de uitvoering daarvan;
+- **normdocument:** op grond van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=3&artikel=25&z=2025-01-01&g=2025-01-01) aangewezen beoordelingsrichtlijn, protocol of andere richtlijn, code, aanbeveling of norm waarin eisen zijn opgenomen ter bevordering van de kwaliteit van werkzaamheden of de uitvoering daarvan;
 
 - **persoon:** natuurlijk persoon of rechtspersoon;
 
@@ -98,7 +98,7 @@ Treedt voor het toepassen van grond en baggerspecie in de Nederlandse territoria
 
 - **waterbodem:** bodem van een oppervlaktewaterlichaam waarvan het beheer van de waterkwaliteit bij het Rijk of het waterschap berust;
 
-- **werkzaamheid:** op grond van [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=8a&z=2024-01-01&g=2024-01-01) aangewezen werkzaamheid.
+- **werkzaamheid:** op grond van [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=8a&z=2025-01-01&g=2025-01-01) aangewezen werkzaamheid.
 
 2. Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt een hoeveelheid bouwstoffen als een partij aangemerkt als de bouwstoffen een vergelijkbare aard en samenstelling en dezelfde herkomst of producent hebben en als eenheid worden verhandeld of toegepast.
 
@@ -176,7 +176,7 @@ Vervallen
 
 - d. de vestigingsplaats van de persoon of instelling;
 
-- e. indien van toepassing, de naam en een verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28), die niet ouder is dan zes maanden, van de natuurlijk persoon als bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=9&z=2024-01-01&g=2024-01-01).
+- e. indien van toepassing, de naam en een verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28), die niet ouder is dan zes maanden, van de natuurlijk persoon als bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=9&z=2025-01-01&g=2025-01-01).
 
 3. Onze Minister kan nadere regels stellen met betrekking tot de in het tweede lid bedoelde gegevens.
 
@@ -188,7 +188,7 @@ Vervallen
 
 - a. niet in staat van faillissement of surseance van betaling verkeert; en
 
-- b. heeft voldaan aan [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=10&z=2024-01-01&g=2024-01-01).
+- b. heeft voldaan aan [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=10&z=2025-01-01&g=2025-01-01).
 
 3. Bij regeling van Onze Minister wordt aangegeven of een erkenning bodemkwaliteit voor een werkzaamheid wordt gebaseerd op een certificaat of een accreditatie.
 
@@ -200,19 +200,19 @@ Vervallen
 
 ##### Artikel 12
 
-1. Op verzoek van de erkende persoon of instelling kan de erkenning bodemkwaliteit worden gewijzigd. [Artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=9&z=2024-01-01&g=2024-01-01), is van overeenkomstige toepassing.
+1. Op verzoek van de erkende persoon of instelling kan de erkenning bodemkwaliteit worden gewijzigd. [Artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=9&z=2025-01-01&g=2025-01-01), is van overeenkomstige toepassing.
 
-2. Het verzoek wordt, door middel van een door Onze Minister vastgesteld formulier, ingediend bij Onze Minister. [Artikel 10, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=10&z=2024-01-01&g=2024-01-01), is van overeenkomstige toepassing.
+2. Het verzoek wordt, door middel van een door Onze Minister vastgesteld formulier, ingediend bij Onze Minister. [Artikel 10, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=10&z=2025-01-01&g=2025-01-01), is van overeenkomstige toepassing.
 
-3. Onze Minister beslist binnen vier weken na de datum van ontvangst van het verzoek. [Artikel 11, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=11&z=2024-01-01&g=2024-01-01), is van overeenkomstige toepassing.
+3. Onze Minister beslist binnen vier weken na de datum van ontvangst van het verzoek. [Artikel 11, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=11&z=2025-01-01&g=2025-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 13
 
-1. Met een verklaring omtrent het gedrag als bedoeld in [artikel 10, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=10&z=2024-01-01&g=2024-01-01), wordt gelijkgesteld een verklaring omtrent het gedrag afgegeven door een daartoe bevoegde instantie in een andere lidstaat van de Europese Unie dan wel in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, op basis van onderzoekingen of documenten die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het beschermingsniveau dat met de nationale onderzoekingen of documenten wordt geboden, mits die verklaring niet ouder is dan zes maanden.
+1. Met een verklaring omtrent het gedrag als bedoeld in [artikel 10, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=10&z=2025-01-01&g=2025-01-01), wordt gelijkgesteld een verklaring omtrent het gedrag afgegeven door een daartoe bevoegde instantie in een andere lidstaat van de Europese Unie dan wel in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, op basis van onderzoekingen of documenten die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het beschermingsniveau dat met de nationale onderzoekingen of documenten wordt geboden, mits die verklaring niet ouder is dan zes maanden.
 
 2. Met een certificaat of accreditatie als bedoeld bij of krachtens dit besluit of in een normdocument wordt gelijkgesteld een certificaat of accreditatie afgegeven door een daartoe bevoegde instelling in een andere lidstaat van de Europese Unie dan wel in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, op basis van onderzoekingen of documenten die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het beschermingsniveau dat met de nationale onderzoekingen of de normdocumenten wordt geboden.
 
-3. Met een erkenning bodemkwaliteit wordt gelijkgesteld een erkenning bodemkwaliteit of een vergelijkbare beschikking afgegeven door een daartoe bevoegde instantie in een andere lidstaat van de Europese Unie dan wel in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, op basis van voorwaarden die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het beschermingsniveau dat met de voorwaarden, genoemd in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=10&z=2024-01-01&g=2024-01-01), wordt geboden. De [artikelen 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=9&z=2024-01-01&g=2024-01-01), en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=3&artikel=24&z=2024-01-01&g=2024-01-01) zijn van overeenkomstige toepassing.
+3. Met een erkenning bodemkwaliteit wordt gelijkgesteld een erkenning bodemkwaliteit of een vergelijkbare beschikking afgegeven door een daartoe bevoegde instantie in een andere lidstaat van de Europese Unie dan wel in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, op basis van voorwaarden die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het beschermingsniveau dat met de voorwaarden, genoemd in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=10&z=2025-01-01&g=2025-01-01), wordt geboden. De [artikelen 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=9&z=2025-01-01&g=2025-01-01), en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=3&artikel=24&z=2025-01-01&g=2025-01-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 14
 
@@ -224,7 +224,7 @@ Vervallen
 
 1. Het is verboden een werkzaamheid uit te voeren zonder daartoe verleende erkenning bodemkwaliteit.
 
-2. De in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=9&z=2024-01-01&g=2024-01-01), bedoelde handelingen kunnen slechts worden uitgevoerd door een natuurlijke persoon die staat vermeld op de erkenning bodemkwaliteit.
+2. De in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=9&z=2025-01-01&g=2025-01-01), bedoelde handelingen kunnen slechts worden uitgevoerd door een natuurlijke persoon die staat vermeld op de erkenning bodemkwaliteit.
 
 3. Het bepaalde in het eerste en tweede lid geldt niet voorzover de werkzaamheid wordt uitgevoerd voor het verkrijgen van een certificaat of een accreditatie.
 
@@ -284,7 +284,7 @@ Vervallen
 
 - d. indien de erkende persoon of instelling in staat van faillissement verkeert of surseance van betaling heeft verkregen, of
 
-- e. indien de erkende persoon of instelling of de natuurlijk persoon, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=9&z=2024-01-01&g=2024-01-01), een overtreding heeft begaan van een wettelijk voorschrift dat is gesteld bij of krachtens dit besluit of de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), een krachtens dit besluit aangewezen normdocument of [artikel 225 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=225), voor zover de overtreding verband houdt met een werkzaamheid.
+- e. indien de erkende persoon of instelling of de natuurlijk persoon, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=9&z=2025-01-01&g=2025-01-01), een overtreding heeft begaan van een wettelijk voorschrift dat is gesteld bij of krachtens dit besluit of de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), een krachtens dit besluit aangewezen normdocument of [artikel 225 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=225), voor zover de overtreding verband houdt met een werkzaamheid.
 
 2. Onze Minister kan een erkenning bodemkwaliteit voor een periode van ten hoogste twee jaren, geheel of gedeeltelijk schorsen, indien:
 
@@ -302,7 +302,7 @@ Vervallen
 
 ##### Artikel 24
 
-Onze Minister verwerkt de schorsing en intrekking van de erkenning bodemkwaliteit in de lijsten, bedoeld in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=9&z=2024-01-01&g=2024-01-01).
+Onze Minister verwerkt de schorsing en intrekking van de erkenning bodemkwaliteit in de lijsten, bedoeld in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=1&artikel=9&z=2025-01-01&g=2025-01-01).
 
 ##### Artikel 25
 
@@ -468,7 +468,7 @@ Vervallen
 
 ##### Artikel 66
 
-[Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&z=2024-01-01&g=2024-01-01) van dit besluit is niet van toepassing op:
+[Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&z=2025-01-01&g=2025-01-01) van dit besluit is niet van toepassing op:
 
 - a. een werkzaamheid die voor inwerkingtreding van het [Besluit uitvoeringskwaliteit bodembeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0019963) is aangevangen;
 
@@ -530,7 +530,7 @@ Vervallen
 
 ##### Artikel 80
 
-Een kaart van de bodemfunctieklassen van het gebied binnen een gemeente die is vastgesteld op grond van [artikel 55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=55&z=2024-01-01&g=2024-01-01), zoals dat luidde voor de inwerkingtreding van [artikel XI, onderdeel I, van het Verzamelbesluit Omgevingswet 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046640&artikel=XI), geldt als een bodemfunctieklassenkaart op grond van artikel 55, eerste lid, zoals dat luidt na de inwerkingtreding van artikel XI, onderdeel I, van het Verzamelbesluit Omgevingswet 2022.
+Een kaart van de bodemfunctieklassen van het gebied binnen een gemeente die is vastgesteld op grond van [artikel 55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=55&z=2025-01-01&g=2025-01-01), zoals dat luidde voor de inwerkingtreding van [artikel XI, onderdeel I, van het Verzamelbesluit Omgevingswet 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046640&artikel=XI), geldt als een bodemfunctieklassenkaart op grond van artikel 55, eerste lid, zoals dat luidt na de inwerkingtreding van artikel XI, onderdeel I, van het Verzamelbesluit Omgevingswet 2022.
 
 ##### Artikel 81
 
@@ -2434,7 +2434,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 25a
 
-Dit hoofdstuk gaat over de afgifte van milieuverklaringen bodemkwaliteit en het daarvoor te verrichten onderzoek voor het uitvoeren van handelingen met bouwstoffen overeenkomstig [artikel 25h](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3a&artikel=25h&z=2024-01-01&g=2024-01-01) en het toepassen van bouwstoffen, grond of baggerspecie overeenkomstig het [Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330).
+Dit hoofdstuk gaat over de afgifte van milieuverklaringen bodemkwaliteit en het daarvoor te verrichten onderzoek voor het uitvoeren van handelingen met bouwstoffen overeenkomstig [artikel 25h](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3a&artikel=25h&z=2025-01-01&g=2025-01-01) en het toepassen van bouwstoffen, grond of baggerspecie overeenkomstig het [Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330).
 
 ##### Artikel 25b
 
@@ -2450,11 +2450,11 @@ Dit hoofdstuk gaat over de afgifte van milieuverklaringen bodemkwaliteit en het 
 
 ##### Artikel 25c
 
-1. Een verklaring op grond van een partijkeuring, erkende kwaliteitsverklaring of verklaring op grond van een bodemonderzoek wordt afgegeven op grond van een onderzoek dat is verricht door een persoon of instelling die beschikt over een erkenning bodemkwaliteit als die voor het uitvoeren van die werkzaamheid op grond van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=2&artikel=15&z=2024-01-01&g=2024-01-01), is vereist.
+1. Een verklaring op grond van een partijkeuring, erkende kwaliteitsverklaring of verklaring op grond van een bodemonderzoek wordt afgegeven op grond van een onderzoek dat is verricht door een persoon of instelling die beschikt over een erkenning bodemkwaliteit als die voor het uitvoeren van die werkzaamheid op grond van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2&afdeling=2&artikel=15&z=2025-01-01&g=2025-01-01), is vereist.
 
 2. Een fabrikant-eigenverklaring wordt afgegeven door de producent op grond van een onderzoek dat voldoet aan de bij of krachtens dit besluit gestelde eisen.
 
-3. Een verklaring op grond van een bodemkwaliteitskaart wordt afgegeven op grond van een onderzoek dat is verricht met gebruikmaking van een bodemkwaliteitskaart waarop de feitelijke kwaliteit van de bodem in het gebied waarop de kaart betrekking heeft is weergegeven en die voldoet aan de op grond van [artikel 25g, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2a&artikel=25g&z=2024-01-01&g=2024-01-01), gestelde eisen.
+3. Een verklaring op grond van een bodemkwaliteitskaart wordt afgegeven op grond van een onderzoek dat is verricht met gebruikmaking van een bodemkwaliteitskaart waarop de feitelijke kwaliteit van de bodem in het gebied waarop de kaart betrekking heeft is weergegeven en die voldoet aan de op grond van [artikel 25g, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2a&artikel=25g&z=2025-01-01&g=2025-01-01), gestelde eisen.
 
 ##### Artikel 25d
 
@@ -2504,7 +2504,7 @@ Dit hoofdstuk gaat over de afgifte van milieuverklaringen bodemkwaliteit en het 
 
 6. Een milieuverklaring bodemkwaliteit die betrekking heeft op de kwaliteit van mijnsteen of vermengde mijnsteen kan vermelden of de mijnsteen of vermengde mijnsteen voldoet aan de kwaliteitseisen die gelden voor de kwaliteit emissiearme mijnsteen of vermengde mijnsteen.
 
-7. De kwaliteitseisen, bedoeld in dit artikel, zijn de kwaliteitseisen, vastgesteld op grond van [artikel 25g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2a&artikel=25g&z=2024-01-01&g=2024-01-01).
+7. De kwaliteitseisen, bedoeld in dit artikel, zijn de kwaliteitseisen, vastgesteld op grond van [artikel 25g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2a&artikel=25g&z=2025-01-01&g=2025-01-01).
 
 ##### Artikel 25e
 
@@ -2530,19 +2530,19 @@ Dit hoofdstuk gaat over de afgifte van milieuverklaringen bodemkwaliteit en het 
 
 ##### Artikel 25g
 
-1. Bij ministeriële regeling worden de kwaliteitseisen, bedoeld in [artikel 25d](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2a&artikel=25d&z=2024-01-01&g=2024-01-01), vastgesteld.
+1. Bij ministeriële regeling worden de kwaliteitseisen, bedoeld in [artikel 25d](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2a&artikel=25d&z=2025-01-01&g=2025-01-01), vastgesteld.
 
 2. Kwaliteitseisen kunnen betrekking hebben op verontreinigende stoffen of andere relevante parameters en kunnen de vorm hebben van emissiewaarden, concentratiewaarden, gehalten of andere waarden.
 
-3. Kwaliteitseisen kunnen strekken ter begrenzing van een kwaliteitsklasse waarin grond, baggerspecie, mijnsteen, vermengde mijnsteen of de bodem worden ingedeeld, of ter bepaling van de kwaliteit van bouwstoffen, grond of baggerspecie, bedoeld in [artikel 25d, tweede lid, onder c, of derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2a&artikel=25d&z=2024-01-01&g=2024-01-01), of een kwaliteit grond of baggerspecie als vermeld in artikel 25d, vijfde lid.
+3. Kwaliteitseisen kunnen strekken ter begrenzing van een kwaliteitsklasse waarin grond, baggerspecie, mijnsteen, vermengde mijnsteen of de bodem worden ingedeeld, of ter bepaling van de kwaliteit van bouwstoffen, grond of baggerspecie, bedoeld in [artikel 25d, tweede lid, onder c, of derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2a&artikel=25d&z=2025-01-01&g=2025-01-01), of een kwaliteit grond of baggerspecie als vermeld in artikel 25d, vijfde lid.
 
 4. De kwaliteitsklassen waarin grond, baggerspecie, mijnsteen en vermengde mijnsteen worden ingedeeld ten behoeve van het toepassen daarvan op of in de landbodem, komen naar benaming en begrenzing overeen met de kwaliteitsklassen en bodemfunctieklassen waarin de ontvangende landbodem is ingedeeld.
 
 5. De kwaliteitsklassen waarin grond, baggerspecie, mijnsteen en vermengde mijnsteen worden ingedeeld ten behoeve van het toepassen daarvan in een oppervlaktewaterlichaam, komen naar benaming en begrenzing overeen met de kwaliteitsklassen waarin de ontvangende waterbodem is ingedeeld.
 
-6. Bij ministeriële regeling worden eisen gesteld waaraan een bodemkwaliteitskaart als bedoeld in [artikel 28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&afdeling=1&artikel=28&z=2024-01-01&g=2024-01-01), moet voldoen om als grondslag voor de afgifte van een verklaring op grond van een bodemkwaliteitskaart te kunnen worden gebruikt.
+6. Bij ministeriële regeling worden eisen gesteld waaraan een bodemkwaliteitskaart moet voldoen om te kunnen gebruiken voor een onderzoek en voor het afgeven van een verklaring op grond van een bodemkwaliteitskaart als bedoeld in [artikel 25c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2a&artikel=25c&z=2025-01-01&g=2025-01-01).
 
-7. Bij ministeriële regeling kunnen gevallen worden aangewezen waarin in afwijking van [artikel 25d, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2a&artikel=25d&z=2024-01-01&g=2024-01-01), daarbij aangegeven informatie voor een partij grond of baggerspecie niet in een milieuverklaring bodemkwaliteit hoeft te worden vermeld.
+7. Bij ministeriële regeling kunnen gevallen worden aangewezen waarin in afwijking van [artikel 25d, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2a&artikel=25d&z=2025-01-01&g=2025-01-01), daarbij aangegeven informatie voor een partij grond of baggerspecie niet in een milieuverklaring bodemkwaliteit hoeft te worden vermeld.
 
 8. Bij ministeriële regeling kunnen gevallen worden aangewezen waarin bij de afgifte van een milieuverklaring bodemkwaliteit aan de afnemer van een partij van een bouwstof of een partij grond of baggerspecie een afleverbon moet worden verstrekt.
 
@@ -2560,7 +2560,7 @@ Dit hoofdstuk gaat over de afgifte van milieuverklaringen bodemkwaliteit en het 
 
 - f. de vaststelling van de emissies van daarbij aangegeven verontreinigende stoffen uit bouwstoffen, grond of baggerspecie;
 
-- g. het onderzoek, bedoeld in [artikel 28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&afdeling=1&artikel=28&z=2024-01-01&g=2024-01-01);
+- g. het onderzoek, bedoeld in [artikel 28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&afdeling=1&artikel=28&z=2025-01-01&g=2025-01-01);
 
 - h. de splitsing en samenvoeging van partijen bouwstoffen, grond of baggerspecie;
 
@@ -2590,9 +2590,9 @@ Dit hoofdstuk gaat over de afgifte van milieuverklaringen bodemkwaliteit en het 
 
 1. Het vervaardigen, invoeren, voor toepassing in Nederland of voor handelsdoeleinden voor de Nederlandse markt voorhanden hebben, vervoeren of aan een ander ter beschikking stellen van bouwstoffen is verboden, tenzij:
 
-- a. de bouwstoffen voldoen aan de voor bouwstoffen geldende kwaliteitseisen, bedoeld in [artikel 25d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2a&artikel=25d&z=2024-01-01&g=2024-01-01);
+- a. de bouwstoffen voldoen aan de voor bouwstoffen geldende kwaliteitseisen, bedoeld in [artikel 25d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2a&artikel=25d&z=2025-01-01&g=2025-01-01);
 
-- b. een milieuverklaring bodemkwaliteit beschikbaar is waarmee kan worden aangetoond dat de bouwstoffen voldoen aan de voor bouwstoffen geldende kwaliteitseisen, bedoeld in [artikel 25d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2a&artikel=25d&z=2024-01-01&g=2024-01-01); en
+- b. een milieuverklaring bodemkwaliteit beschikbaar is waarmee kan worden aangetoond dat de bouwstoffen voldoen aan de voor bouwstoffen geldende kwaliteitseisen, bedoeld in [artikel 25d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=2a&artikel=25d&z=2025-01-01&g=2025-01-01); en
 
 - c. een afleverbon voorhanden is in gevallen waarin deze op grond van het tweede lid bij de afgifte van de milieuverklaring bodemkwaliteit moet worden verstrekt.
 
@@ -2618,7 +2618,7 @@ Dit hoofdstuk gaat over de afgifte van milieuverklaringen bodemkwaliteit en het 
 
 ### Hoofdstuk 5. Slot- en overgangsbepalingen
 
-## Bijlage 1. behorende bij [artikel 28, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&afdeling=1&artikel=28&z=2024-01-01&g=2024-01-01) en [41](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=41&z=2024-01-01&g=2024-01-01)
+## Bijlage 1. behorende bij [artikel 28, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=3&afdeling=1&artikel=28&z=2025-01-01&g=2025-01-01) en [41](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&hoofdstuk=4&afdeling=1&paragraaf=2&artikel=41&z=2025-01-01&g=2025-01-01)
 
 Vervallen
 
