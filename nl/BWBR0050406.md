@@ -885,31 +885,3 @@ Alles wat Universiteit Utrecht inbrengt in het Deelproject, waaronder maar niet 
 (tevens bijlage bij indiening van het subsidievoorstel van het Samenwerkingsverband)
 
 Deze regeling zal met de toelichting en de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0050406&bijlage=I&z=2025-01-01&g=2025-01-01) in de Staatscourant worden geplaatst.
-
-##### Artikel 3.1a. Overgangsbepaling
-
-De subsidieregeling, zoals hij luidde op 14 februari 2025, blijft van toepassing op subsidies die zijn verstrekt op basis van het eerste aanvraagtijdvak.
-
-### Onderdeel 1. Afstemming van de interventie met de kennisinstelling en met andere aanvragen
-
-### Onderdeel 2. Deelnemende organisaties voorbereiden op de interventie
-
-### Onderdeel 3. Bouwen van de interventie
-
-### Onderdeel 4. Uitvoeren van de interventie
-
-Beschrijf in uw activiteitenplan hoe u de onderstaande activiteiten gaat uitvoeren:
-
-### Onderdeel 5. Borging en evaluatie
-
-Beschrijf in uw activiteitenplan hoe u de onderstaande activiteiten gaat uitvoeren:
-
-Beschrijf in uw activiteitenplan hoe u de onderstaande activiteiten gaat uitvoeren:
-
-Naast de bovenstaande onderwerpen bevat het activiteitenplan tot slot de volgende informatie:
-
-## Bijlage II. Samenwerkingsovereenkomst als bedoeld in [artikel 2.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050406&hoofdstuk=2&artikel=2.3&z=2025-05-16&g=2025-05-16)
-
-Vervallen
-
-Deze regeling zal met de toelichting en de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0050406&bijlage=I&z=2025-05-16&g=2025-05-16) in de Staatscourant worden geplaatst.
