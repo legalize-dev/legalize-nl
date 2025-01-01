@@ -4,7 +4,7 @@ identifier: "BWBR0046300"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-01-10"
-last_updated: "2023-11-25"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046300"
 soort: "zbo"
@@ -101,7 +101,7 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Op afspraak kunt u alle regelgeving en besluiten, gedurende de periode dat zij van kracht zijn, inzien ten kantore van de NZa.
 
-U kunt ze ook raadplegen op [www.nza.nl](onbekend).
+U kunt ze ook raadplegen op [www.nza.nl](http://www.nza.nl/).
 
 ##### Artikel 9. Citeertitel
 
