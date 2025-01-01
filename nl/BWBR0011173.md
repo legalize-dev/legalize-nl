@@ -4,7 +4,7 @@ identifier: "BWBR0011173"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2022-08-02"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011173"
 soort: "wet"
@@ -164,19 +164,19 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 2a. Werknemer met een kind in de leeftijd tot acht jaar of mantelzorger
 
-1. De [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0011173&artikel=1a&z=2022-08-02&g=2022-08-02) en [2, derde lid, laatste zin, en zeventiende tot en met negentiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011173&artikel=2&z=2022-08-02&g=2022-08-02), zijn niet van toepassing op een verzoek om aanpassing van de arbeidsduur, de arbeidsplaats of de werktijd van een werknemer:
+1. De [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0011173&artikel=1a&z=2025-01-01&g=2025-01-01) en [2, derde lid, laatste zin, en zeventiende tot en met negentiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011173&artikel=2&z=2025-01-01&g=2025-01-01), zijn niet van toepassing op een verzoek om aanpassing van de arbeidsduur, de arbeidsplaats of de werktijd van een werknemer:
 
 - a. die ouder is van een kind in de leeftijd tot acht jaar;
 
-- b. die zorg draagt voor de verzorging van een persoon als bedoeld in [artikel 5:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=5:1), die levensbedreigend ziek is; of
+- b. die zorg draagt voor de verzorging van een persoon als bedoeld in [artikel 5:1, tweede lid van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=5:1), die levensbedreigend ziek is; of
 
-- c. die zorg draagt voor de noodzakelijke verzorging van een persoon als bedoeld in [artikel 5:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=5:1), die ziek of hulpbehoevend is.
+- c. die zorg draagt voor de noodzakelijke verzorging van een persoon als bedoeld in [artikel 5:1, tweede lid van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=5:1), die ziek of hulpbehoevend is.
 
 2. De werkgever kan van de werknemer verlangen dat hij aannemelijk maakt dat een omstandigheden als bedoeld in het eerste lid zich voordoet.
 
 ##### Artikel 2b. Overgang naar een andere vorm van arbeid met meer voorspelbare en zekere arbeidsvoorwaarden
 
-1. De werknemer kan de werkgever verzoeken om een vorm van arbeid met meer voorspelbare en zekere arbeidsvoorwaarden, indien de werknemer ten minste 26 weken voorafgaand aan het beoogde tijdstip van ingang van die aanpassing in dienst is bij die werkgever. Het verzoek wordt door de werknemer schriftelijk bij de werkgever ingediend. De tweede en derde zin van het eerste lid van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011173&artikel=2&z=2022-08-02&g=2022-08-02) zijn van overeenkomstige toepassing.
+1. De werknemer kan de werkgever verzoeken om een vorm van arbeid met meer voorspelbare en zekere arbeidsvoorwaarden, indien de werknemer ten minste 26 weken voorafgaand aan het beoogde tijdstip van ingang van die aanpassing in dienst is bij die werkgever. Het verzoek wordt door de werknemer schriftelijk bij de werkgever ingediend. De tweede en derde zin van het eerste lid van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011173&artikel=2&z=2025-01-01&g=2025-01-01) zijn van overeenkomstige toepassing.
 
 2. De werkgever beslist, indien hij tien of meer werknemers heeft, binnen een maand schriftelijk en gemotiveerd op het verzoek van de werknemer. Indien de werkgever minder dan tien werknemers heeft beslist hij schriftelijk en gemotiveerd binnen drie maanden na het verzoek.
 
@@ -200,7 +200,7 @@ De werkgever mag de werknemer niet benadelen wegens de omstandigheid dat de werk
 
 ##### Artikel 4a. Onderzoek College voor de rechten van de mens
 
-Het College, genoemd in [artikel 1 van de Wet College voor de rechten van de mens](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=1), kan onderzoeken of een onderscheid is of wordt gemaakt als bedoeld in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0011173&artikel=3a&z=2022-08-02&g=2022-08-02). De [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=13), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=22) en [23 van de Wet College voor de rechten van de mens](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=23) zijn van overeenkomstige toepassing.
+Het College, genoemd in [artikel 1 van de Wet College voor de rechten van de mens](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=1), kan onderzoeken of een onderscheid is of wordt gemaakt als bedoeld in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0011173&artikel=3a&z=2025-01-01&g=2025-01-01). De [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=13), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=22) en [23 van de Wet College voor de rechten van de mens](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=23) zijn van overeenkomstige toepassing.
 
 #### Inwerkingtreding
 
