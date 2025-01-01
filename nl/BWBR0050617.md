@@ -4,7 +4,7 @@ identifier: "BWBR0050617"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2024-10-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050617"
 soort: "wet"
@@ -42,8 +42,6 @@ entry_into_force: "2025-01-01"
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel II
 
 Wijzigt de Wet op de loonbelasting 1964.
@@ -52,49 +50,33 @@ Wijzigt de Wet op de loonbelasting 1964.
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IV
 
 Wijzigt de Wet op de dividendbelasting 1965.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel V
 
 Wijzigt de Wet op de motorrijtuigenbelasting 1994.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VI
 
 Wijzigt de Wet bronbelasting 2021.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VII
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VIII
 
 Wijzigt de Wet fiscale klimaatmaatregelen glastuinbouw.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IX
 
 Wijzigt de Algemene douanewet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel X
 
 Wijzigt de Wet op de accijns.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XI
 
@@ -116,28 +98,48 @@ Wijzigt de Wet verplichte beroepspensioenregeling.
 
 Wijzigt de Overige fiscale maatregelen 2011.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVI
 
 Wijzigt de Belastingplan 2023.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVII
 
 Wijzigt de Belastingplan 2024.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVIII
 
-Dit onderdeel is nog niet inwerking getreden
+A. [Artikel V, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0050617&artikel=V&z=2025-01-01&g=2025-01-01), vindt eerst toepassing met betrekking tot autobussen die op of na 1 januari 2025 worden tenaamgesteld.
+
+B. [Artikel IX, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0050617&artikel=IX&z=2025-01-01&g=2025-01-01) vindt eerst toepassing met betrekking tot boetes naar aanleiding van een verzuim die op of na 1 januari 2025 worden opgelegd.
 
 ##### Artikel XIX
 
-Dit onderdeel is nog niet inwerking getreden
+1. Deze wet treedt in werking met ingang van 1 januari 2025, met dien verstande dat:
+
+- a. [artikel II, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0050617&artikel=II&z=2025-01-01&g=2025-01-01), terugwerkt tot en met 1 oktober 2024;
+
+- b. [artikel III, onderdeel B en onderdeel E, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050617&artikel=III&z=2025-01-01&g=2025-01-01), voor het eerst toepassing vindt met betrekking tot boekjaren die aanvangen op of na 1 januari 2025;
+
+- c. [artikel XI](https://wetten.overheid.nl/jci1.3:c:BWBR0050617&artikel=XI&z=2025-01-01&g=2025-01-01) terugwerkt tot en met 13 februari 2023;
+
+- d. [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0050617&artikel=VIII&z=2025-01-01&g=2025-01-01) toepassing vindt voordat [artikel I, onderdelen C en E, van de Wet fiscale klimaatmaatregelen glastuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0049141&artikel=I) wordt toegepast;
+
+- e. [artikel XII, onderdeel B, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0050617&artikel=XII&z=2025-01-01&g=2025-01-01), terugwerkt tot en met 1 juli 2023;
+
+- f. [artikel XII, onderdeel A en onderdeel B, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0050617&artikel=XII&z=2025-01-01&g=2025-01-01), en de [artikelen XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0050617&artikel=XIII&z=2025-01-01&g=2025-01-01) en [XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0050617&artikel=XIV&z=2025-01-01&g=2025-01-01) terugwerken tot en met 16 november 2023;
+
+- g. [artikel XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0050617&artikel=XVI&z=2025-01-01&g=2025-01-01) toepassing vindt voordat [artikel XXII van het Belastingplan 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0047735&artikel=XXII) wordt toegepast.
+
+2. In afwijking van het eerste lid [treedt V, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0050617&artikel=VIII&z=2025-01-01&g=2025-01-01), in werking op het tijdstip waarop de Wet van 10 mei 2023 tot wijziging van de Wegenverkeerswet 1994 in verband met de modernisering van het erkenningenstelsel, het verbeteren van de handhaafbaarheid en enkele andere wijzigingen van technische aard in werking treedt.
 
 ##### Artikel XX
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Overige fiscale maatregelen 2025.
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het in het kader van het fiscale beleid voor het jaar 2025 wenselijk is in een aantal belastingwetten en enige andere wetten wijzigingen aan te brengen;
+
+Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
