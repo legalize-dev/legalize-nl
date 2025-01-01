@@ -4,7 +4,7 @@ identifier: "BWBR0007159"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2023-01-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007159"
 soort: "ministeriele-regeling"
@@ -47,15 +47,13 @@ Treedt in werking op het tijdstip waarop de Wet belastingen op milieugrondslag e
 
 ##### Artikel 1
 
-1. Deze regeling geeft uitvoering aan de artikelen [14, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=14), [20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=20), [21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=21), [23, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=23), [25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=25), [38, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=38), [39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=39), [44, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44), [45, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=45), [47, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=47), [50, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=50), [54, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=54), [59, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59), [59a, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a), [60, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=60), [60b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=60b), [63, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=63), [64, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=64), [66, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=66), [67, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=67), [68, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=68), [69, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69), [70, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70), [70a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70a), [71, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=71), en [92, zesde lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=92) en de [artikelen 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=6), [11c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=11c), [18, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=18), [19, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=19), [21c, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=21c), [27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=27), en [28, vijfde lid, van het Uitvoeringsbesluit belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=28).
+1. Deze regeling geeft uitvoering aan de artikelen [14, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=14), [20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=20), [21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=21), [23, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=23), [25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=25), [38, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=38), [39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=39), [44, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44), [45, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=45), [47, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=47), [50, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=50), [54, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=54), [59, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59), [59a, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a), [60, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=60), [60b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=60b), [63, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=63), [64, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=64), [67, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=67), [68, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=68), [69, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69), [70, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70), [70a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70a), [71, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=71), [71t, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=71t), [71ta, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=71ta), [71w, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=71w), en [92, zesde lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=92) en de [artikelen 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=6), [11c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=11c), [18, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=18), [19, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=19), [21c, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=21c), [27, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=27), en [28, vijfde lid, van het Uitvoeringsbesluit belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=28).
 
 2. Voor de toepassing van deze regeling wordt verstaan onder:
 
 - a. **de wet:** de [Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168);
 
-- b. **het besluit:** het [Uitvoeringsbesluit belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007178);
-
-- c. **de EAN-code:** de EAN-code, bedoeld in [artikel 1, onderdeel f, van de Regeling afnemers en monitoring Elektriciteitswet 1998 en Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0016979&artikel=1).
+- b. **het besluit:** het [Uitvoeringsbesluit belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007178).
 
 ### Hoofdstuk II. Grondwaterbelasting
 
@@ -659,7 +657,7 @@ De verklaring, bedoeld in [artikel 17, eerste lid, van het besluit](https://wett
 
 - b. met behulp van elektriciteitsmeters de hoeveelheid elektriciteit te meten die wordt betrokken voor verbruik als bedoeld in [artikel 36c, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36c).
 
-### Hoofdstuk IX. Algemene bepaling
+### Hoofdstuk VIII. Verpakkingenbelasting
 
 ### Hoofdstuk IV. Brandstoffenbelasting
 
@@ -709,7 +707,7 @@ Vervallen
 
 ##### Artikel 17
 
-Op de administratie van de fiscaal vertegenwoordiger, bedoeld in [artikel 54, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=54), is [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=28&z=2023-01-01&g=2023-01-01) van overeenkomstige toepassing.
+Op de administratie van de fiscaal vertegenwoordiger, bedoeld in [artikel 54, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=54), is [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=28&z=2025-01-01&g=2025-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 18
 
@@ -787,47 +785,7 @@ De verklaring, bedoeld in [artikel 22, eerste, derde, vierde of vijfde lid, van 
 
 ##### Artikel 23
 
-1. Het verzoek om teruggaaf, bedoeld in [artikel 66, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=66), heeft betrekking op slechts één aansluiting en wordt gedaan binnen dertien weken na afloop van het kalenderjaar waarover teruggaaf wordt verzocht.
-
-2. In het verzoek om teruggaaf, bedoeld in [artikel 66, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=66), worden ten minste de volgende gegevens vermeld:
-
-- a. het kalenderjaar waarover teruggaaf wordt verzocht;
-
-- b. naam en adres van de verbruiker;
-
-- c. BSN of RSIN van de verbruiker;
-
-- d. naam en adres van de leverancier of leveranciers;
-
-- e. de EAN-code van de aansluiting via welke de elektriciteit geleverd is waarop het verzoek betrekking heeft;
-
-- f. de hoeveelheid elektriciteit die in het kalenderjaar waarover teruggaaf wordt verzocht via de aansluiting, bedoeld in onderdeel d, geleverd is, voor zover deze elektriciteit zakelijk is verbruikt en niet op grond van [artikel 64, eerste of derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=64) van energiebelasting is vrijgesteld.
-
-3. Bij het verzoek worden overgelegd:
-
-- a. de factuur of facturen waaruit blijkt hoeveel energiebelasting ter zake van de in het tweede lid, onderdeel e, bedoelde elektriciteit in rekening is gebracht;
-
-- b. de verklaringen, bedoeld in [artikel 66, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=66).
-
-4. Indien het verzoek langs elektronische weg wordt ingediend, worden de factuur of facturen, bedoeld in het derde lid, niet bij het verzoek overgelegd maar desgevraagd aan de inspecteur verstrekt.
-
-5. De verklaring, bedoeld in [artikel 66, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=66), wordt door de verbruiker ondertekend en bevat ten minste:
-
-- a. de dagtekening;
-
-- b. naam en adres van de verbruiker.
-
-6. De verklaringen, bedoeld in [artikel 66, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=66), worden door de verbruiker ondertekend en bevatten ten minste:
-
-- a. de dagtekening;
-
-- b. naam en adres van de verbruiker;
-
-- c. de EAN-code van de aansluiting waarop de verklaringen betrekking hebben;
-
-- d. het kalenderjaar waarop de verklaringen betrekking hebben.
-
-7. De verbruiker richt zijn administratie zodanig in dat daarin op overzichtelijke wijze de gegevens zijn opgenomen omtrent alle voor de toepassing van de teruggaafregeling, bedoeld in [artikel 66 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=66), van belang zijnde bedrijfshandelingen.
+Vervallen
 
 ##### Artikel 24
 
@@ -1011,7 +969,7 @@ De verklaring, bedoeld in [artikel 22, eerste, derde, vierde of vijfde lid, van 
 
 - e. het netto elektrisch rendement van de installatie.
 
-2. De administratie van een installatie waarin zuivere biomassa wordt verwerkt op een wijze als bedoeld in het eerste lid, dient zodanig te zijn ingericht dat daarin op overzichtelijke wijze de gegevens zijn opgenomen omtrent alle voor de toepassing van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=14&z=2023-01-01&g=2023-01-01) van belang zijnde bedrijfshandelingen.
+2. De administratie van een installatie waarin zuivere biomassa wordt verwerkt op een wijze als bedoeld in het eerste lid, dient zodanig te zijn ingericht dat daarin op overzichtelijke wijze de gegevens zijn opgenomen omtrent alle voor de toepassing van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=14&z=2025-01-01&g=2025-01-01) van belang zijnde bedrijfshandelingen.
 
 3. De administratie van een installatie waarin biomassa zodanig wordt verwerkt dat daaruit stortgas, rioolwaterzuiveringsgas of biogas wordt gewonnen, dient zodanig te zijn ingericht dat daarin op overzichtelijke wijze alle gegevens zijn opgenomen welke van belang zijn voor de jaarlijkse vaststelling van de door de installatie gewonnen en aan het distributienet geleverde hoeveelheid stortgas, rioolwaterzuiveringsgas, of biogas.
 
@@ -1061,7 +1019,7 @@ Vervallen
 
 Vervallen
 
-### Hoofdstuk VIII. Verpakkingenbelasting
+### Hoofdstuk VIa. Co2-heffing glastuinbouw
 
 ## Bijlage. bij de Uitvoeringsregeling belastingen op milieugrondslag
 
@@ -1089,7 +1047,7 @@ Vervallen
 
 ### Hoofdstuk VIII. Verpakkingenbelasting
 
-### Hoofdstuk X. Slotbepalingen
+### Hoofdstuk VII. Vliegbelasting
 
 ## Bijlage. bij de Uitvoeringsregeling belastingen op milieugrondslag
 
@@ -1173,7 +1131,49 @@ Vervallen
 
 3. De organisatorische eenheid meldt onmiddellijk schriftelijk aan zijn leverancier indien hij niet langer een energieopslagfaciliteit exploiteert.
 
-4. De verklaring kan worden samengevoegd met de verklaring, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=16&z=2023-01-01&g=2023-01-01).
+4. De verklaring kan worden samengevoegd met de verklaring, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=16&z=2025-01-01&g=2025-01-01).
+
+### Hoofdstuk X. Slotbepalingen
+
+## Bijlage. bij de Uitvoeringsregeling belastingen op milieugrondslag
+
+Vervallen
+
+##### Artikel 22a
+
+De administratie, bedoeld in [artikel 22, zesde lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=22), bevat, ter vaststelling van de hoeveelheid product waarop de vrijstelling, bedoeld in [artikel 64, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=64), ziet, in ieder geval:
+
+- a. de hoeveelheid door de installatie verbruikt aardgas in Nm3 per maand;
+
+- b. de hoeveelheid door de installatie opgewekte elektriciteit in kWh per maand;
+
+- c. de hoeveelheid invoeding van elektriciteit in kWh op het distributienet per verbruiksperiode.
+
+##### Artikel 29a
+
+1. Het percentage van de met aardgas opgewekte warmte die vanuit een energiebedrijf voor glastuinbouw direct of indirect naar een of meer glastuinbouwbedrijven is getransporteerd, wordt berekend met de formule: A / B * 100%.
+
+Hierbij is:
+
+A = de som van alle met aardgas opgewekte warmte in gigajoule die vanuit het energiebedrijf voor glastuinbouw in het tijdvak direct of indirect bij glastuinbouwbedrijven is afgeleverd;
+
+B = de som van alle met aardgas opgewekte warmte in gigajoule die vanuit het energiebedrijf voor glastuinbouw in het tijdvak bij alle afnemers is afgeleverd.
+
+2. Een energiebedrijf voor glastuinbouw monitort de hoeveelheid met aardgas opgewekte warmte die direct of indirect is afgeleverd bij glastuinbouwbedrijven of andere afnemers.
+
+3. Voor de toepassing van dit artikel wordt onder warmte verstaan de thermische energie die voor ruimteverwarming of de verwarming van tapwater wordt geleverd door middel van het transport van water of een andere vloeistof.
+
+##### Artikel 29b
+
+1. De belastingplichtige monitort de hoeveelheid aardgas die in een kalenderjaar is verstookt op basis van de eindfactuur van de energieleverancier over dat kalenderjaar.
+
+2. In afwijking van het eerste lid kan de belastingplichtige de hoeveelheid aardgas die is verstookt monitoren aan de hand van:
+
+- a. de twaalf maandfacturen van het kalenderjaar waarover de heffing is verschuldigd;
+
+- b. andere schriftelijke afleveringsbewijzen waaruit de in het kalenderjaar verstookte hoeveelheid aardgas blijkt.
+
+### Hoofdstuk IX. Algemene bepaling
 
 ### Hoofdstuk X. Slotbepalingen
 
