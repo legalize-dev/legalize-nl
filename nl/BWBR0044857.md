@@ -4,7 +4,7 @@ identifier: "BWBR0044857"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2024-07-01"
+last_updated: "2025-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044857"
 soort: "ministeriele-regeling"
@@ -64,7 +64,7 @@ Besluit:
 
 - –. **lidstaat:** tot de Europese Unie behorende staat, waarvan uitgezonderd de Franse Overzeese Departementen, de Canarische eilanden, Ceuta en Melilla;
 
-- –. **Minister:** Minister van Landbouw, Natuur en Voedselkwaliteit;
+- –. **Minister:** Minister van Landbouw, Visserij, Voedselzekerheid en Natuur;
 
 - –. **NAK:** stichting Nederlandse Algemene Keuringsdienst voor zaaizaad en pootgoed van landbouwgewassen, gevestigd te Emmeloord;
 
@@ -92,7 +92,7 @@ Besluit:
 
 - –. **zending:** hoeveelheid goederen vallend onder hetzelfde officiële certificaat, dezelfde officiële verklaring of hetzelfde andere document, die met hetzelfde vervoermiddel worden vervoerd en vanuit hetzelfde grondgebied of derde land komen.
 
-2. De hoogte van de tarieven, bedoeld in de [artikelen 2 tot en met 52](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2024-07-01&g=2024-07-01), zijn opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&bijlage=II&z=2024-07-01&g=2024-07-01).
+2. De hoogte van de tarieven, bedoeld in de [artikelen 2 tot en met 52](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2025-01-01&g=2025-01-01), zijn opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&bijlage=II&z=2025-01-01&g=2025-01-01).
 
 ### Hoofdstuk 2. Tarieven van de NVWA
 
@@ -112,15 +112,17 @@ Besluit:
 
 2. Voor de afgifte van een fytosanitair certificaat en het verrichten van het eindonderzoek ten behoeve van dat certificaat wordt de aanvrager het volgende tarief in rekening gebracht:
 
-- a. in het geval het werkzaamheden betreft die, als het niet de in de aanhef genoemde specifieke fytosanitaire activiteiten zouden betreffen, door het KCB zouden worden verricht, de tarieven bedoeld in [artikel9](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2024-07-01&g=2024-07-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=16&z=2024-07-01&g=2024-07-01), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=17&z=2024-07-01&g=2024-07-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=18&z=2024-07-01&g=2024-07-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.2&artikel=19&z=2024-07-01&g=2024-07-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.3&artikel=20&z=2024-07-01&g=2024-07-01), waarbij [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.4&artikel=21&z=2024-07-01&g=2024-07-01) van overeenkomstige toepassing is;
+- a. in het geval het werkzaamheden betreft die, als het niet de in de aanhef genoemde specifieke fytosanitaire activiteiten zouden betreffen, door het KCB zouden worden verricht, de tarieven bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2025-01-01&g=2025-01-01), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=17&z=2025-01-01&g=2025-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=18&z=2025-01-01&g=2025-01-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.2&artikel=19&z=2025-01-01&g=2025-01-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.3&artikel=20&z=2025-01-01&g=2025-01-01), waarbij [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.4&artikel=21&z=2025-01-01&g=2025-01-01) van overeenkomstige toepassing is;
 
-- b. in het geval het werkzaamheden betreft die, als het niet de in de aanhef genoemde specifieke fytosanitaire activiteiten zou betreffen, door de BKD zouden worden verricht, de tarieven bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=4&paragraaf=4.1&artikel=22&z=2024-07-01&g=2024-07-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=4&paragraaf=4.1&artikel=27&z=2024-07-01&g=2024-07-01) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=4&paragraaf=4.3&artikel=31&z=2024-07-01&g=2024-07-01), waarbij de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=4&paragraaf=4.1&artikel=23&z=2024-07-01&g=2024-07-01) en [32](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=4&paragraaf=4.4&artikel=32&z=2024-07-01&g=2024-07-01) van overeenkomstige toepassing zijn;
+- b. in het geval het werkzaamheden betreft die, als het niet de in de aanhef genoemde specifieke fytosanitaire activiteiten zou betreffen, door de BKD zouden worden verricht, de tarieven bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=4&paragraaf=4.1&artikel=22&z=2025-01-01&g=2025-01-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=4&paragraaf=4.1&artikel=27&z=2025-01-01&g=2025-01-01) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=4&paragraaf=4.3&artikel=31&z=2025-01-01&g=2025-01-01), waarbij de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=4&paragraaf=4.1&artikel=23&z=2025-01-01&g=2025-01-01) en [32](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=4&paragraaf=4.4&artikel=32&z=2025-01-01&g=2025-01-01) van overeenkomstige toepassing zijn;
 
-- c. in het geval het werkzaamheden betreft die, als het niet de in de aanhef genoemde specifieke fytosanitaire activiteiten zou betreffen, door de Naktuinbouw zouden worden verricht, de tarieven bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=5&paragraaf=5.1&artikel=33&z=2024-07-01&g=2024-07-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=5&paragraaf=5.1&artikel=36&z=2024-07-01&g=2024-07-01), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=5&paragraaf=5.1&artikel=38&z=2024-07-01&g=2024-07-01), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=5&paragraaf=5.2&artikel=39&z=2024-07-01&g=2024-07-01) en [40](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=5&paragraaf=5.3&artikel=40&z=2024-07-01&g=2024-07-01), waarbij de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=5&paragraaf=5.1&artikel=34&z=2024-07-01&g=2024-07-01) en [41](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=5&paragraaf=5.4&artikel=41&z=2024-07-01&g=2024-07-01) van overeenkomstige toepassing zijn;
+- c. in het geval het werkzaamheden betreft die, als het niet de in de aanhef genoemde specifieke fytosanitaire activiteiten zou betreffen, door de Naktuinbouw zouden worden verricht, de tarieven bedoeld in de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=5&paragraaf=5.1&artikel=33&z=2025-01-01&g=2025-01-01), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=5&paragraaf=5.2&artikel=39&z=2025-01-01&g=2025-01-01) en [40](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=5&paragraaf=5.3&artikel=40&z=2025-01-01&g=2025-01-01), waarbij de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=5&paragraaf=5.1&artikel=34&z=2025-01-01&g=2025-01-01) en [41](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=5&paragraaf=5.4&artikel=41&z=2025-01-01&g=2025-01-01) van overeenkomstige toepassing zijn;
 
-- d. in het geval het werkzaamheden betreft die, als het niet de in de aanhef genoemde specifieke fytosanitaire activiteiten zou betreffen, door de NAK zouden worden verricht, de tarieven als bedoeld in [artikel42](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=6&paragraaf=6.1&artikel=42&z=2024-07-01&g=2024-07-01), [45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=6&paragraaf=6.1&artikel=45&z=2024-07-01&g=2024-07-01), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=6&paragraaf=6.1&artikel=46&z=2024-07-01&g=2024-07-01), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=6&paragraaf=6.1&artikel=47&z=2024-07-01&g=2024-07-01) en [48](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=6&paragraaf=6.2&artikel=48&z=2024-07-01&g=2024-07-01), waarbij de [artikelen 43](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=6&paragraaf=6.1&artikel=43&z=2024-07-01&g=2024-07-01) en [52](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=6&paragraaf=6.6&artikel=52&z=2024-07-01&g=2024-07-01) van overeenkomstige toepassing zijn.
+- d. in het geval het werkzaamheden betreft die, als het niet de in de aanhef genoemde specifieke fytosanitaire activiteiten zou betreffen, door de NAK zouden worden verricht, de tarieven als bedoeld in [artikel42](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=6&paragraaf=6.1&artikel=42&z=2025-01-01&g=2025-01-01), [45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=6&paragraaf=6.1&artikel=45&z=2025-01-01&g=2025-01-01), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=6&paragraaf=6.1&artikel=46&z=2025-01-01&g=2025-01-01), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=6&paragraaf=6.1&artikel=47&z=2025-01-01&g=2025-01-01) en [48](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=6&paragraaf=6.2&artikel=48&z=2025-01-01&g=2025-01-01), waarbij de [artikelen 43](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=6&paragraaf=6.1&artikel=43&z=2025-01-01&g=2025-01-01) en [52](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=6&paragraaf=6.6&artikel=52&z=2025-01-01&g=2025-01-01) van overeenkomstige toepassing zijn.
 
 3. Indien een aanvullende officiële controle als bedoeld in het eerste lid digitaal plaatsvindt, wordt een bedrag in rekening gebracht voor een controle op een digitale terugmelding.
+
+4. Voor werkzaamheden met betrekking tot de goedkeuring van het Bedrijfseigen Controlesysteem voor exportcertificering en de controles op de aan die goedkeuring verbonden eisen zijn de tarieven, genoemd in het eerste lid, van overeenkomstige toepassing.
 
 ##### Artikel 3
 
@@ -144,13 +146,13 @@ Besluit:
 
 Indien degene die voor het verrichten van werkzaamheden desgevraagd op een bepaald tijdstip en op een bepaalde plaats aanwezig is, maar de werkzaamheden door omstandigheden buiten toedoen van de met deze werkzaamheden belaste persoon, niet kunnen worden verricht, wordt de aanvrager als kosten een bedrag in rekening gebracht:
 
-- a. indien het de werkzaamheden bedoeld in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2024-07-01&g=2024-07-01), betreft;
+- a. indien het de werkzaamheden bedoeld in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2025-01-01&g=2025-01-01), betreft;
 
-- b. indien het de werkzaamheden bedoeld in [artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2024-07-01&g=2024-07-01), betreft;
+- b. indien het de werkzaamheden bedoeld in [artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2025-01-01&g=2025-01-01), betreft;
 
-- c. indien het de werkzaamheden bedoeld in [artikel 3, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2024-07-01&g=2024-07-01), betreft;
+- c. indien het de werkzaamheden bedoeld in [artikel 3, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2025-01-01&g=2025-01-01), betreft;
 
-- d. indien het de werkzaamheden bedoeld in [artikel 3, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2024-07-01&g=2024-07-01), betreft.
+- d. indien het de werkzaamheden bedoeld in [artikel 3, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2025-01-01&g=2025-01-01), betreft.
 
 ##### Artikel 5
 
@@ -160,13 +162,15 @@ Voor het op verzoek intrekken van een teeltverbod als bedoeld in [artikel 8 van 
 
 ##### Artikel 6
 
-Indien in het kader van de werkzaamheden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2024-07-01&g=2024-07-01), laboratoriumonderzoek noodzakelijk is, wordt de aanvrager boven de in dat artikel genoemde tarief een bedrag per genomen monster in rekening gebracht.
+Indien in het kader van de werkzaamheden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2025-01-01&g=2025-01-01), laboratoriumonderzoek noodzakelijk is, wordt de aanvrager boven de in dat artikel genoemde tarief een bedrag per genomen monster in rekening gebracht.
 
 #### § 2.3. Certificaten, vergunningen en ontheffingen
 
 ##### Artikel 7
 
-Voor het ten kantore waarmerken van certificaten ten behoeve van niet-inspectieplichtige zendingen wordt de aanvrager per certificaat een bedrag in rekening gebracht.
+1. Voor het ten kantore waarmerken van certificaten ten behoeve van niet-inspectieplichtige zendingen en voor de afgifte van een exportcertificaat zonder dat voorafgaand een fysieke inspectie heeft plaatsgevonden wordt de aanvrager per certificaat een bedrag in rekening gebracht.
+
+2. In afwijking van het eerste lid, wordt voor de afgifte van een certificaat ten behoeve van een bedrijf met een goedgekeurd Bedrijfseigen Controlesysteem voor exportcertificering een bedrag in rekening gebracht.
 
 ##### Artikel 8
 
@@ -206,59 +210,11 @@ Als vergoeding van de kosten voor het verrichten van fytosanitaire werkzaamheden
 
 ##### Artikel 10
 
-1. Voor inspectie van snijbloemen, waarvoor de Commissie conform artikel 2 van de [verordening nr. 1756/2004](32004R1756) verlaagde inspectiefrequenties bij import heeft vastgesteld, zoals opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&bijlage=I&z=2024-07-01&g=2024-07-01) bij deze regeling, wordt de aanvrager, in afwijking van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2024-07-01&g=2024-07-01), het volgende tarief in rekening gebracht bij gewenste afhandeling van de inspectie op maandag, dinsdag, woensdag, donderdag of vrijdag in de periode van 06.00 uur tot 20.00 uur:
-
-- a. een tarief per zending voor de controle van documenten;
-
-- b. per partij een tarief per 1.000 stelen, waarbij het aantal stelen naar boven wordt afgerond in eenheden van 1.000, welk tarief is gerelateerd aan de door de Commissie vastgestelde inspectiefrequentie, met een minimumtarief en een maximumtarief per partij, zoals weergegeven in de onderstaande tabel:
-
-| Inspectiepercentage | Tarief per 1000 stelen | Minimum tarief Per partij | Maximum tarief Per partij |
-| --- | --- | --- | --- |
-| 1% | € 0,09 | € 0,90 | € 9,00 |
-| 3% | € 0,28 | € 2,80 | € 28,00 |
-| 5% | € 0,46 | € 4,60 | € 46,00 |
-| 10% | € 0,92 | € 9,20 | € 92,00 |
-| 15% | € 1,38 | € 13,80 | € 138,00 |
-| 25% | € 2,30 | € 23,00 | € 230,00 |
-| 35% | € 3,21 | € 32,10 | € 321,00 |
-| 50% | € 4,59 | € 45,90 | € 459,00 |
-| 75% | € 6,89 | € 68,90 | € 689,00 |
-
-2. Op maandag, dinsdag, woensdag, donderdag of vrijdag van 20.00 uur tot 06.00 uur en op zaterdag wordt het tarief van het eerste lid, onderdeel b, verhoogd met 50%, waarbij naar boven wordt afgerond tot twee cijfers achter de komma.
-
-3. Op zondag of op een algemeen erkende feestdag wordt het tarief van het eerste lid, onderdeel b, verhoogd met 100%, waarbij naar boven wordt afgerond tot twee cijfers achter de komma.
-
-4. Voor een inspectieaanvraag met betrekking tot een partij die deel uitmaakte van een reeds gekeurde zending, wordt de aanvrager het tarief bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2024-07-01&g=2024-07-01) in rekening gebracht.
+Vervallen
 
 ##### Artikel 11
 
-1. Voor inspectie van groenten en fruit, wortel en knolgewassen waarvoor de Commissie conform artikel 2 van [verordening 1756/2004](32004R1756) verlaagde inspectiefrequenties bij import heeft vastgesteld, zoals opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&bijlage=I&z=2024-07-01&g=2024-07-01) bij deze regeling, wordt de aanvrager, in afwijking van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2024-07-01&g=2024-07-01), het volgende tarief in rekening gebracht bij gewenste afhandeling van de inspectie op maandag, dinsdag, woensdag, donderdag of vrijdag in de periode van 06.00 uur tot 20.00 uur:
-
-- a. een tarief per zending voor de controle van documenten;
-
-- b. per partij een tarief per ton, waarbij het gewicht van de partij naar boven wordt afgerond in tonnen, welk tarief is gerelateerd aan de door de Commissie vastgestelde inspectiefrequentie, met een minimumtarief per partij, zoals weergegeven in de onderstaande tabel:
-
-| Inspectiepercentage | Tarief per ton | Minimumtarief per partij |
-| --- | --- | --- |
-| 1% | € 0,07 | € 1,75 |
-| 3% | € 0,21 | € 5,25 |
-| 5% | € 0,35 | € 8,75 |
-| 7% | € 0,48 | € 12,00 |
-| 10% | € 0,69 | € 17,25 |
-| 15% | € 1,04 | € 26,00 |
-| 20% | € 1,38 | € 34,50 |
-| 25% | € 1,73 | € 43,25 |
-| 35% | € 2,42 | € 60,50 |
-| 50% | € 3,46 | € 86,50 |
-| 75% | € 5,18 | € 129,50 |
-
-2. Op maandag, dinsdag, woensdag, donderdag of vrijdag van 20.00 uur tot 06.00 uur en op zaterdag wordt het tarief van het eerste lid, onderdeel b, verhoogd met 50%, waarbij naar boven wordt afgerond tot twee cijfers achter de komma.
-
-3. Op zondag of op een algemeen erkende feestdag wordt het tarief van het eerste lid, onderdeel b, verhoogd met 100%, waarbij naar boven wordt afgerond tot twee cijfers achter de komma.
-
-4. Voor een inspectieaanvraag met betrekking tot een partij die deel uitmaakte van een reeds gekeurde zending, wordt de aanvrager het tarief bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2024-07-01&g=2024-07-01) in rekening gebracht.
-
-5. Voor inspectie van groenten en fruit, waarvoor ingevolge de bepalingen van [verordening 2017/625](32525R2017) in alle gevallen een importinspectie dient plaats te vinden, is [artikel 9, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2024-07-01&g=2024-07-01), van toepassing.
+Vervallen
 
 ##### Artikel 12
 
@@ -290,19 +246,15 @@ Voor het verlenen van een erkenning voor de afgifte van plantenpaspoorten wordt 
 
 ##### Artikel 14
 
-1. Het controlepercentage voor houten verpakkingsmateriaal van zendingen van oorsprong uit China, Wit-Rusland en India met GN-code 2514 00 00, 2515, 2516, 4401, 4415, 6801, 6802, 6803, 6907 of 7606 is 15%.
-
-2. Als vergoeding voor de kosten van fytosanitaire werkzaamheden voor de zendingen, bedoeld in het eerste lid, wordt de aanvrager een tarief per ton in rekening gebracht, waarbij het gewicht van de zending naar boven wordt afgerond in tonnen, met een minimum en een maximum per zending.
-
-3. Voor verwerking van inspectieaanvragen voor houten verpakkingsmateriaal als bedoeld in [verordening 2024/288](32188R2024) van zendingen van oorsprong uit China, Wit-Rusland of India die niet via CLIENT Import worden aangemeld, wordt naast het tarief, bedoeld in het tweede lid, een tarief per zending in rekening gebracht.
+Het controlepercentage voor houten verpakkingsmateriaal van zendingen van oorsprong uit China, Wit-Rusland en India met GN-code 2514 00 00, 2515, 2516, 4401, 4415, 6801, 6802, 6803, 6907 of 7606 is 15%.
 
 ##### Artikel 15
 
-In het geval de verlaagde inspectiefrequenties bij import zoals opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&bijlage=I&z=2024-07-01&g=2024-07-01) bij deze regeling, afwijken van de verlaagde inspectiefrequenties bij import zoals opgenomen in de lijst, bedoeld in artikel 2, tweede lid, van [verordening 1756/2004](32004R1756), gelden de verlaagde inspectiefrequenties zoals opgenomen in de hiervoor bedoeld lijst.
+In het geval de verlaagde inspectiefrequenties bij import zoals opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&bijlage=I&z=2025-01-01&g=2025-01-01) bij deze regeling, afwijken van de verlaagde inspectiefrequenties bij import zoals opgenomen in de lijst, bedoeld in artikel 2, tweede lid, van [verordening 1756/2004](32004R1756), gelden de verlaagde inspectiefrequenties zoals opgenomen in de hiervoor bedoeld lijst.
 
 ##### Artikel 16
 
-Voor de verwerking van inspectieaanvragen die niet via E-CertNL of CLIENT Import worden aangemeld wordt naast het tarief, bedoeld in de [artikelen 9 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2024-07-01&g=2024-07-01), een basistarief per zending in rekening gebracht, vermeerderd met een tarief per te exporteren of te importeren partij.
+Vervallen
 
 ##### Artikel 17
 
@@ -312,17 +264,17 @@ Voor de verwerking van inspectieaanvragen die niet via E-CertNL of CLIENT Import
 
 ##### Artikel 18
 
-Indien degene die voor het verrichten van werkzaamheden, bedoeld in de [artikelen 10 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=10&z=2024-07-01&g=2024-07-01), desgevraagd op een bepaald tijdstip en op een bepaalde plaats aanwezig is, maar de werkzaamheden door omstandigheden buiten toedoen van de met deze werkzaamheden belaste persoon, niet kunnen worden verricht, of indien minder zendingen of partijen gereed staan voor inspectie dan waarop de inspectieaanvraag betrekking heeft, wordt de aanvrager een tarief in rekening gebracht.
+Indien degene die voor het verrichten van werkzaamheden, bedoeld in de [artikelen 12 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=12&z=2025-01-01&g=2025-01-01), desgevraagd op een bepaald tijdstip en op een bepaalde plaats aanwezig is, maar de werkzaamheden door omstandigheden buiten toedoen van de met deze werkzaamheden belaste persoon, niet kunnen worden verricht, of indien minder zendingen of partijen gereed staan voor inspectie dan waarop de inspectieaanvraag betrekking heeft, wordt de aanvrager een tarief in rekening gebracht.
 
 #### § 3.2. Laboratoriumonderzoek
 
 ##### Artikel 19
 
-1. Indien in het kader van de werkzaamheden, bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=10&z=2024-07-01&g=2024-07-01), [11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=11&z=2024-07-01&g=2024-07-01), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=12&z=2024-07-01&g=2024-07-01), [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2024-07-01&g=2024-07-01), of [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=14&z=2024-07-01&g=2024-07-01), laboratoriumonderzoek noodzakelijk is, wordt de aanvrager boven de in deze artikelen genoemde tarief een tarief, vermeerderd met het tarief bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2024-07-01&g=2024-07-01) per genomen monster in rekening gebracht.
+1. Indien in het kader van de werkzaamheden, bedoeld in de [artikelen 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=12&z=2025-01-01&g=2025-01-01) en [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2025-01-01&g=2025-01-01), laboratoriumonderzoek noodzakelijk is, wordt de aanvrager boven de in deze artikelen genoemde tarief een tarief, vermeerderd met het tarief bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2025-01-01&g=2025-01-01) per genomen monster in rekening gebracht.
 
-2. In afwijking van het eerste lid, wordt, in plaats van het in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2024-07-01&g=2024-07-01) bedoelde tarief, voor laboratoriumonderzoek naar Ditylenchus dipsaci in Allium spp. het tarief vermeerderd met het tarief bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=5&paragraaf=5.2&artikel=39&z=2024-07-01&g=2024-07-01) per uitgevoerd onderzoek.
+2. In afwijking van het eerste lid, wordt, in plaats van het in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2025-01-01&g=2025-01-01) bedoelde tarief, voor laboratoriumonderzoek naar Ditylenchus dipsaci in Allium spp. het tarief vermeerderd met het tarief bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=5&paragraaf=5.2&artikel=39&z=2025-01-01&g=2025-01-01) per uitgevoerd onderzoek.
 
-3. In afwijking van het eerste lid wordt voor laboratoriumonderzoek naar Radopholus similis in potplanten het tarief bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=5&paragraaf=5.2&artikel=39&z=2024-07-01&g=2024-07-01) in rekening gebracht per uitgevoerd onderzoek.
+3. In afwijking van het eerste lid wordt voor laboratoriumonderzoek naar Radopholus similis in potplanten het tarief bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=5&paragraaf=5.2&artikel=39&z=2025-01-01&g=2025-01-01) in rekening gebracht per uitgevoerd onderzoek.
 
 #### § 3.2. Laboratoriumonderzoek
 
@@ -330,7 +282,7 @@ Indien degene die voor het verrichten van werkzaamheden, bedoeld in de [artikele
 
 1. Voor het waarmerken en het afgeven van een exportcertificaat ten behoeve van inspectieplichtige zendingen alsook niet-inspectieplichtige zendingen, wordt de aanvrager per certificaat een tarief in rekening gebracht.
 
-2. Voor het op verzoek afleggen van een bedrijfsbezoek ter waarmerking van certificaten, wordt de aanvrager het starttarief bedoeld in [artikel 9, onderdelen a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2024-07-01&g=2024-07-01), per bedrijfsbezoek in rekening gebracht.
+2. Voor het op verzoek afleggen van een bedrijfsbezoek ter waarmerking van certificaten, wordt de aanvrager het starttarief bedoeld in [artikel 9, onderdelen a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2025-01-01&g=2025-01-01), per bedrijfsbezoek in rekening gebracht.
 
 3. Voor het afgeven van een document ten behoeve van handel binnen de Europese Unie, wordt de aanvrager per document een tarief in rekening gebracht.
 
@@ -372,7 +324,7 @@ Bedrijven die fytosanitaire inspectieaanvragen bij de BKD indienen, wordt jaarli
 
 ##### Artikel 24
 
-Indien de BKD inspecties verricht op een locatie waar producten ter keuring worden aangeboden waarvoor verlaagde inspectiefrequenties bij import gelden, zoals bedoeld in [artikel 11 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=11&z=2024-07-01&g=2024-07-01), gelden de tarieven bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=11&z=2024-07-01&g=2024-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=12&z=2024-07-01&g=2024-07-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2024-07-01&g=2024-07-01) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=14&z=2024-07-01&g=2024-07-01).
+Vervallen
 
 ##### Artikel 25
 
@@ -388,13 +340,13 @@ Vervallen
 
 ##### Artikel 27
 
-Indien degene die voor het verrichten van werkzaamheden, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=4&paragraaf=4.1&artikel=22&z=2024-07-01&g=2024-07-01), desgevraagd op een bepaald tijdstip en op een bepaalde plaats aanwezig is, maar de werkzaamheden door omstandigheden buiten toedoen van de met deze werkzaamheden belaste persoon niet kunnen worden verricht, wordt de aanvrager een tarief in rekening gebracht:
+Indien degene die voor het verrichten van werkzaamheden, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=4&paragraaf=4.1&artikel=22&z=2025-01-01&g=2025-01-01), desgevraagd op een bepaald tijdstip en op een bepaalde plaats aanwezig is, maar de werkzaamheden door omstandigheden buiten toedoen van de met deze werkzaamheden belaste persoon niet kunnen worden verricht, wordt de aanvrager een tarief in rekening gebracht:
 
-- a. indien het de werkzaamheden bedoeld in [artikel 22, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=4&paragraaf=4.1&artikel=22&z=2024-07-01&g=2024-07-01), betreft;
+- a. indien het de werkzaamheden bedoeld in [artikel 22, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=4&paragraaf=4.1&artikel=22&z=2025-01-01&g=2025-01-01), betreft;
 
-- b. indien het de werkzaamheden bedoeld in [artikel 22, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=4&paragraaf=4.1&artikel=22&z=2024-07-01&g=2024-07-01), betreft;
+- b. indien het de werkzaamheden bedoeld in [artikel 22, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=4&paragraaf=4.1&artikel=22&z=2025-01-01&g=2025-01-01), betreft;
 
-- c. indien het de werkzaamheden bedoeld in [artikel 22, onder d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=4&paragraaf=4.1&artikel=22&z=2024-07-01&g=2024-07-01), betreft.
+- c. indien het de werkzaamheden bedoeld in [artikel 22, onder d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=4&paragraaf=4.1&artikel=22&z=2025-01-01&g=2025-01-01), betreft.
 
 #### § 4.2. Laboratoriumonderzoek
 
@@ -466,25 +418,11 @@ Bedrijven die fytosanitaire inspectieaanvragen bij de Naktuinbouw indienen wordt
 
 ##### Artikel 35
 
-1. Indien de Naktuinbouw inspecties verricht op een locatie waar producten ter keuring worden aangeboden waarvoor verlaagde inspectiefrequenties bij import gelden, zoals bedoeld in [artikel 11 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=11&z=2024-07-01&g=2024-07-01), gelden de tarieven bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=11&z=2024-07-01&g=2024-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=12&z=2024-07-01&g=2024-07-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2024-07-01&g=2024-07-01) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=14&z=2024-07-01&g=2024-07-01).
-
-2. In geval van export en import anders dan die bedoeld in het eerste lid, is het tarief bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=5&paragraaf=5.1&artikel=33&z=2024-07-01&g=2024-07-01) van toepassing.
+Vervallen
 
 ##### Artikel 36
 
-1. Voor de verwerking van inspectieaanvragen die niet via CLIENT Import of Portal, worden aangemeld wordt in plaats van het basistarief, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=5&paragraaf=5.1&artikel=33&z=2024-07-01&g=2024-07-01), het volgende in rekening gebracht:
-
-- a. indien de werkzaamheden op verzoek worden verricht op maandag, dinsdag, woensdag, donderdag of vrijdag in de periode van 8.00 uur tot 17.00 uur, een basistarief per inspectieaanvraag;
-
-- b. indien de werkzaamheden op verzoek worden verricht op een dag en in een periode, als bedoeld in onderdeel a, en de werkzaamheden worden aangevraagd na 15.30 uur op de werkdag voorafgaand aan de verzochte inspectiedag, een basistarief per inspectieaanvraag;
-
-- c. indien de werkzaamheden op verzoek worden verricht op zaterdag of op maandag, dinsdag, woensdag, donderdag of vrijdag in een andere periode dan de periode bedoeld in onderdeel a, een basistarief per inspectieaanvraag;
-
-- d. indien de werkzaamheden op verzoek worden verricht op zondag of op een algemeen erkende feestdag, met uitzondering van 5 mei, een basistarief per inspectieaanvraag.
-
-2. Voor de verwerking van inspectieaanvragen die niet via CLIENT Import of Portal, worden aangemeld, wordt naast het tarief, bedoeld in het eerste lid, een tarief per geslacht of variëteit in rekening gebracht.
-
-3. Voor het opmaken van een exportcertificaat, waarvan de gegevens niet via E-CertNL worden aangeleverd, wordt naast het basistarief, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=4&paragraaf=4.2&artikel=29&z=2024-07-01&g=2024-07-01), een tarief per certificaat in rekening gebracht vermeerderd met een tarief per orderregel in E-CertNL.
+Vervallen
 
 ##### Artikel 37
 
@@ -492,19 +430,13 @@ Indien de overeenstemmingscontroles en materiële controles als bedoeld in artik
 
 ##### Artikel 38
 
-Indien degene die voor het verrichten van werkzaamheden, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=5&paragraaf=5.1&artikel=33&z=2024-07-01&g=2024-07-01), desgevraagd op een bepaald tijdstip en op een bepaalde plaats aanwezig is, maar de werkzaamheden door omstandigheden buiten toedoen van de met deze werkzaamheden belaste persoon niet kunnen worden verricht, wordt de aanvrager als kosten een tarief in rekening gebracht:
-
-- a. indien het de werkzaamheden bedoeld in [artikel 33, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=5&paragraaf=5.1&artikel=33&z=2024-07-01&g=2024-07-01) betreft;
-
-- b. indien het de werkzaamheden bedoeld in [artikel 33, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=5&paragraaf=5.1&artikel=33&z=2024-07-01&g=2024-07-01) betreft;
-
-- c. indien het de werkzaamheden bedoeld in [artikel 33, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=5&paragraaf=5.1&artikel=33&z=2024-07-01&g=2024-07-01) betreft.
+Vervallen
 
 #### § 5.2. Laboratoriumonderzoek
 
 ##### Artikel 39
 
-Indien in het kader van de werkzaamheden, bedoeld in [artikel33](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=5&paragraaf=5.1&artikel=33&z=2024-07-01&g=2024-07-01), laboratoriumonderzoek noodzakelijk is, wordt de aanvrager boven het in artikel 33 genoemde tarief voor een standaard diagnose-onderzoek of morfologisch insectenonderzoek een tarief per uitgevoerd onderzoek in rekening gebracht.
+Indien in het kader van de werkzaamheden, bedoeld in [artikel33](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=5&paragraaf=5.1&artikel=33&z=2025-01-01&g=2025-01-01), laboratoriumonderzoek noodzakelijk is, wordt de aanvrager boven het in artikel 33 genoemde tarief voor een standaard diagnose-onderzoek of morfologisch insectenonderzoek het tarief, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2025-01-01&g=2025-01-01) in rekening gebracht.
 
 #### § 5.2. Laboratoriumonderzoek
 
@@ -562,9 +494,9 @@ Bedrijven die fytosanitaire inspectieaanvragen bij de NAK indienen wordt jaarlij
 
 ##### Artikel 44
 
-1. Indien de NAK inspecties verricht op een locatie waar producten ter keuring worden aangeboden waarvoor verlaagde inspectiefrequenties bij import gelden, zoals bedoeld in [artikel 11 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=11&z=2024-07-01&g=2024-07-01), gelden de tarieven bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2024-07-01&g=2024-07-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=10&z=2024-07-01&g=2024-07-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=11&z=2024-07-01&g=2024-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=12&z=2024-07-01&g=2024-07-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2024-07-01&g=2024-07-01) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=14&z=2024-07-01&g=2024-07-01).
+1. Indien de NAK inspecties verricht op een locatie waar producten ter keuring worden aangeboden waarvoor verlaagde inspectiefrequenties bij import gelden, zoals bedoeld in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=12&z=2025-01-01&g=2025-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2025-01-01&g=2025-01-01), gelden de tarieven bedoeld in artikel 12 of 13.
 
-2. In geval van export en import anders dan die bedoeld in het eerste lid, is het tarief bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=5&paragraaf=5.2&artikel=39&z=2024-07-01&g=2024-07-01) van toepassing.
+2. In geval van export en import anders dan die bedoeld in het eerste lid, is het tarief bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=5&paragraaf=5.2&artikel=39&z=2025-01-01&g=2025-01-01) van toepassing.
 
 ##### Artikel 45
 
@@ -574,13 +506,13 @@ Bedrijven die fytosanitaire inspectieaanvragen bij de NAK indienen wordt jaarlij
 
 ##### Artikel 46
 
-Indien degene die voor het verrichten van werkzaamheden, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=6&paragraaf=6.1&artikel=42&z=2024-07-01&g=2024-07-01), desgevraagd op een bepaald tijdstip en op een bepaalde plaats aanwezig is, maar de werkzaamheden door omstandigheden buiten toedoen van de met deze werkzaamheden belaste persoon niet kunnen worden verricht, wordt de aanvrager als kosten een tarief in rekening gebracht:
+Indien degene die voor het verrichten van werkzaamheden, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=6&paragraaf=6.1&artikel=42&z=2025-01-01&g=2025-01-01), desgevraagd op een bepaald tijdstip en op een bepaalde plaats aanwezig is, maar de werkzaamheden door omstandigheden buiten toedoen van de met deze werkzaamheden belaste persoon niet kunnen worden verricht, wordt de aanvrager als kosten een tarief in rekening gebracht:
 
-- a. indien het werkzaamheden bedoeld in [artikel 42, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=6&paragraaf=6.1&artikel=42&z=2024-07-01&g=2024-07-01), betreft;
+- a. indien het werkzaamheden bedoeld in [artikel 42, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=6&paragraaf=6.1&artikel=42&z=2025-01-01&g=2025-01-01), betreft;
 
-- b. indien het werkzaamheden bedoeld in [artikel 42, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=6&paragraaf=6.1&artikel=42&z=2024-07-01&g=2024-07-01), betreft;
+- b. indien het werkzaamheden bedoeld in [artikel 42, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=6&paragraaf=6.1&artikel=42&z=2025-01-01&g=2025-01-01), betreft;
 
-- c. indien het werkzaamheden bedoeld in [artikel 42, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=6&paragraaf=6.1&artikel=42&z=2024-07-01&g=2024-07-01), betreft.
+- c. indien het werkzaamheden bedoeld in [artikel 42, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=6&paragraaf=6.1&artikel=42&z=2025-01-01&g=2025-01-01), betreft.
 
 ##### Artikel 47
 
@@ -602,7 +534,7 @@ Indien degene die voor het verrichten van werkzaamheden, bedoeld in [artikel 42]
 
 ##### Artikel 48
 
-1. Indien dit onderzoek door de NVWA wordt uitgevoerd, wordt hiervoor het tarief bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2024-07-01&g=2024-07-01) in rekening gebracht, vermeerderd met een tarief voor bemonstering en administratie.
+1. Indien dit onderzoek door de NVWA wordt uitgevoerd, wordt hiervoor het tarief bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2025-01-01&g=2025-01-01) in rekening gebracht, vermeerderd met een tarief voor bemonstering en administratie.
 
 2. Indien een monster uit een partij bestemd voor import of export wordt genomen voor bruin- en ringrotonderzoek, wordt hiervoor een tarief in rekening gebracht.
 
@@ -1367,48 +1299,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 8b
 
-Voor de periode van 26 september 2023 tot en met 31 december 2023 gelden voor de werkzaamheden, bedoeld in de [artikelen 2 tot en met 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2024-07-01&g=2024-07-01), in afwijking van die artikelen, zoals die golden in die periode, de volgende tarieven:
-
-| Artikel | Tarief |
-| --- | --- |
-| [2 lid 1 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2024-07-01&g=2024-07-01) (basistarief) NVWA | € 183,96 |
-| [2 lid 1 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2024-07-01&g=2024-07-01) (tarief per kwartier) | € 29,96 |
-| [2 lid 1 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2024-07-01&g=2024-07-01) | € 239,15 |
-| [2 lid 1 onder b onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2024-07-01&g=2024-07-01) (3 uurs tarief) | € 466,95 |
-| [2 lid 1 onder b onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2024-07-01&g=2024-07-01) (tarief per kwartier) | € 38,91 |
-| [2 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2024-07-01&g=2024-07-01)(tarief per terugmelding) | € 89,88 |
-| [3 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2024-07-01&g=2024-07-01) | € 189,23 |
-| [3 lid 2 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2024-07-01&g=2024-07-01) (basistarief) | € 75,14 |
-| [3 lid 2 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2024-07-01&g=2024-07-01) (tarief per kwartier) | € 16,17 |
-| [3 lid 2 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2024-07-01&g=2024-07-01) | € 97,68 |
-| [3 lid 2 onder b onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2024-07-01&g=2024-07-01) | € 252,21 |
-| [3 lid 2 onder b onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2024-07-01&g=2024-07-01) | € 21,02 |
-| [3 lid 2 onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2024-07-01&g=2024-07-01) | € 129,31 |
-| [3 lid 2 onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2024-07-01&g=2024-07-01) | € 89,88 |
-| [4 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2024-07-01&g=2024-07-01) | € 275,95 |
-| [4 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2024-07-01&g=2024-07-01) | € 367,93 |
-| [4 onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2024-07-01&g=2024-07-01) | € 112,72 |
-| [4 onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2024-07-01&g=2024-07-01) | € 150,28 |
-| [5](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2024-07-01&g=2024-07-01) | € 50,12 |
-| [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.1&artikel=5a&z=2024-07-01&g=2024-07-01) | € 40,57 |
-| [6](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2024-07-01&g=2024-07-01) | € 218,98 |
-| [7](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.3&artikel=7&z=2024-07-01&g=2024-07-01) | € 52,91 |
-| [8 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2024-07-01&g=2024-07-01) (per verzoek) | € 64,54 |
-| [8 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2024-07-01&g=2024-07-01) (tarief beoordeling) | € 1.987,92 |
-| [8 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2024-07-01&g=2024-07-01) (basistarief) | € 1.038,25 |
-| [8 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2024-07-01&g=2024-07-01) (tarief per kwartier) | € 32,20 |
-| [8 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2024-07-01&g=2024-07-01) (basistarief) | € 288,05 |
-| [8 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2024-07-01&g=2024-07-01) (tarief per kwartier) | € 29,94 |
-| [8 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2024-07-01&g=2024-07-01) | € 343,38 |
-| [8 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2024-07-01&g=2024-07-01) | € 212,12 |
-| [8 lid 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2024-07-01&g=2024-07-01) (basistarief) | € 1.038,25 |
-| [8 lid 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2024-07-01&g=2024-07-01) (tarief per kwartier) | € 32,20 |
-| [8 lid 6](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2024-07-01&g=2024-07-01) (tarief per aanvraag voor een vergunning) | € 107,33 |
-| [8a lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.3&artikel=8a&z=2024-07-01&g=2024-07-01) | € 0,00 |
-| [8a lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.3&artikel=8a&z=2024-07-01&g=2024-07-01) (CAT, CKA, CST, CKS, CFA)1 | € 1,71 |
-| [8a lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.3&artikel=8a&z=2024-07-01&g=2024-07-01) (CBB, CAA)1 | € 5,88 |
-| [8a lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.3&artikel=8a&z=2024-07-01&g=2024-07-01) (CZZ, CBN, CKB)1 | € 6,68 |
-| [8a lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.3&artikel=8a&z=2024-07-01&g=2024-07-01) | € 5,45 |
+Vervallen
 
 ### Hoofdstuk 3. Tarieven van het KCB
 
@@ -1716,147 +1607,129 @@ Voor de administratieve handelingen ten behoeve van fytosanitaire verleningen wo
 
 | Artikel | Tarief |
 | --- | --- |
-| [2 lid 1 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2024-07-01&g=2024-07-01) (basistarief) NVWA | € 241,80 |
-| 2 lid 1 onder a (tarief per kwartier) | € 35,36 |
-| 2 lid 1 onder b | € 314,34 |
-| 2 lid 1 onder b onder 1° (3 uurs tarief) | € 551,64 |
-| 2 lid 1 onder b onder 2° (tarief per kwartier) | € 45,97 |
-| 2 lid 3 (tarief per terugmelding) | € 109,25 |
-| [3 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2024-07-01&g=2024-07-01) | € 237,77 |
-| 3 lid 2 onder a (basistarief) | € 83,00 |
-| 3 lid 2 onder a (tarief per kwartier) | € 35,36 |
-| 3 lid 2 onder b | € 107,90 |
-| 3 lid 2 onder b onder 1° | € 551,64 |
-| 3 lid 2 onder b onder 2° | € 45,97 |
-| 3 lid 2 onder c | € 70,72 |
-| 3 lid 2 onder d | € 109,25 |
-| [4 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2024-07-01&g=2024-07-01) | € 362,70 |
-| 4 onder b | € 483,60 |
-| 4 onder c | € 124,50 |
-| 4 onder d | € 166,00 |
-| [5](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2024-07-01&g=2024-07-01) | € 71,15 |
-| [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.1&artikel=5a&z=2024-07-01&g=2024-07-01) | € 70,72 |
-| [6](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2024-07-01&g=2024-07-01) | € 324,89 |
-| [7](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.3&artikel=7&z=2024-07-01&g=2024-07-01) | € 61,70 |
-| [8 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2024-07-01&g=2024-07-01)(per verzoek) | € 70,72 |
-| 8 lid 1 (tarief beoordeling) | € 3.034,42 |
-| 8 lid 1 (basistarief) | € 1.327,99 |
-| 8 lid 1 (tarief per kwartier) | € 35,36 |
-| 8 lid 2 (basistarief) | € 318,16 |
-| 8 lid 2 (tarief per kwartier) | € 35,31 |
-| 8 lid 3 | € 424,31 |
-| 8 lid 4 | € 308,43 |
-| 8 lid 5 (basistarief) | € 1.327,99 |
-| 8 lid 5 (tarief per kwartier) | € 35,36 |
-| 8 lid 6 (tarief per aanvraag voor een vergunning) | € 117,39 |
-| [8a lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.3&artikel=8a&z=2024-07-01&g=2024-07-01) | € 70,72 |
-| 8a lid 2 (CAT, CKA, CST, CKS, CFA)1 | € 1,82 |
-| 8a lid 2 (CBB, CAA)1 | € 6,39 |
-| 8a lid 2 (CZZ, CBN, CKB)1 | € 7,26 |
+| [2 lid 1 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2025-01-01&g=2025-01-01) (basistarief) NVWA | € 311,37 |
+| 2 lid 1 onder a (tarief per kwartier) | € 40,00 |
+| 2 lid 1 onder b | € 404,78 |
+| 2 lid 1 onder b onder 1° (3 uurs tarief) | € 624,00 |
+| 2 lid 1 onder b onder 2° (tarief per kwartier) | € 52,00 |
+| 2 lid 3 (tarief per terugmelding) | € 128,00 |
+| 3 lid 1 | € 311,08 |
+| [3 lid 2 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2025-01-01&g=2025-01-01) (basistarief) | € 100,48 |
+| 3 lid 2 onder a (tarief per kwartier) | € 40,00 |
+| 3 lid 2 onder b | € 130,62 |
+| 3 lid 2 onder b onder 1° | € 624,00 |
+| 3 lid 2 onder b onder 2° | € 52,00 |
+| 3 lid 2 onder c | € 80,00 |
+| 3 lid 2 onder d | € 128,00 |
+| [4 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2025-01-01&g=2025-01-01) | € 467,06 |
+| 4 onder b | € 622,74 |
+| 4 onder c | € 150,72 |
+| 4 onder d | € 200,96 |
+| [5](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2025-01-01&g=2025-01-01) | € 80,51 |
+| [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.1&artikel=5a&z=2025-01-01&g=2025-01-01) | € 80,00 |
+| [6](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2025-01-01&g=2025-01-01) | € 380,90 |
+| [7 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.3&artikel=7&z=2025-01-01&g=2025-01-01) | € 66,44 |
+| 7 lid 2 | € 24,35 |
+| [8 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2025-01-01&g=2025-01-01) (per verzoek) | € 80,00 |
+| 8 lid 1 (tarief beoordeling) | € 3.432,72 |
+| 8 lid 1 (basistarief) | € 1.607,61 |
+| 8 lid 1 (tarief per kwartier) | € 40,00 |
+| 8 lid 2 (basistarief) | € 381,81 |
+| 8 lid 2 (tarief per kwartier) | € 40,00 |
+| 8 lid 3 | € 480,00 |
+| 8 lid 4 | € 361,60 |
+| 8 lid 5 (basistarief) | € 1.607,61 |
+| 8 lid 5 (tarief per kwartier) | € 40,00 |
+| 8 lid 6 (tarief per aanvraag voor een vergunning) | € 4,54 |
+| [8a lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=2&paragraaf=2.3&artikel=8a&z=2025-01-01&g=2025-01-01) | € 80,00 |
+| 8a lid 2 (CAT, CKA, CST, CKS, CFA)1 | € 2,53 |
+| 8a lid 2 (CBB, CAA)1 | € 6,99 |
+| 8a lid 2 (CZZ, CBN, CKB)1 | € 9,35 |
 | 8a lid 3 | € 6,54 |
-| [9 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2024-07-01&g=2024-07-01) (basistarief) | € 61,12 |
-| 9 onder a (tarief per minuut) | € 1,91 |
-| 9 onder b (basistarief) | € 91,68 |
-| 9 onder b (tarief per minuut) | € 2,87 |
-| 9 onder c (basistarief) | € 122,24 |
-| 9 onder c (tarief per minuut) | € 3,82 |
-| 9 onder d | € 0 |
-| 9 onder e | € 7,64 |
-| 9 onder f | € 4,42 |
-| 9 onder g | € 19,10 |
-| [10 lid 1 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=10&z=2024-07-01&g=2024-07-01) | € 0 |
-| [11 lid 1 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=11&z=2024-07-01&g=2024-07-01) | € 0 |
-| [12 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=12&z=2024-07-01&g=2024-07-01) | € 61,12 |
-| 12 onder b | € 1,91 |
-| 12 onder c (1º. medfly val) | € 30,28 |
-| 12 onder c (2º. vallen exporteurs) | € 21,40 |
-| 12 onder d | € 118,42 |
-| [13 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2024-07-01&g=2024-07-01) | € 61,12 |
-| 13 onder b | € 57,30 |
-| 13 onder c | € 171,09 |
-| 13 onder d | € 171,90 |
-| [Artikel 13a, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=13a&z=2024-07-01&g=2024-07-01) | € 977,92 |
-| Artikel 13a, onder b (starttarief) | € 61,12 |
-| Artikel 13a, onder b (tarief per minuut) | € 1,91 |
-| Artikel 13a, onder c (starttarief) | € 61,12 |
-| Artikel 13a, onder c (tarief per minuut) | € 1,91 |
-| Artikel 13a, onder d (starttarief) | € 61,12 |
-| Artikel 13a, onder d (tarief per minuut) | € 1,91 |
-| [14 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=14&z=2024-07-01&g=2024-07-01)(tarief per ton) | € 0,96 |
-| 14 lid 2 (minimum) | € 4,80 |
-| 14 lid 2 (maximum) | € 963,05 |
-| 14 lid 3 | € 47,75 |
-| [16](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=16&z=2024-07-01&g=2024-07-01) (basistarief) | € 47,75 |
-| 16 (tarief per partij) | € 0,96 |
-| [17 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=17&z=2024-07-01&g=2024-07-01) | € 0 |
-| 17 lid 2 | € 57,30 |
-| [17a onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=17a&z=2024-07-01&g=2024-07-01) (systeemcontrole) | € 233,02 |
-| 17a onder b (aan/afmelden) | € 114,60 |
-| 17a lid 2 (starttarief) | € 61,12 |
-| 17a lid 2 (tarief per minuut) | € 1,91 |
-| [18](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=18&z=2024-07-01&g=2024-07-01) | € 175,72 |
-| [19 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.2&artikel=19&z=2024-07-01&g=2024-07-01) | € 57,30 |
-| [20 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.3&artikel=20&z=2024-07-01&g=2024-07-01) | € 11,46 |
-| 20 lid 2 | € 11,46 |
-| 20 lid 3 | € 11,46 |
-| [22 lid 1 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=4&paragraaf=4.1&artikel=22&z=2024-07-01&g=2024-07-01) (basistarief) | € 58,95 |
-| 22 lid 1 onder a (tarief per minuut) | € 1,60 |
-| 22 lid 1 onder b (basistarief) | € 88,43 |
-| 22 lid 1 onder b (tarief per minuut) | € 1,60 |
-| 22 lid 1 onder c (basistarief) | € 154,83 |
-| 22 lid 1 onder c (tarief per minuut) | € 1,60 |
-| 22 lid 1 onder d (basistarief) | € 88,43 |
-| 22 lid 1 onder d (tarief per minuut) | € 2,40 |
-| 22 lid 1 onder e (basistarief) | € 117,91 |
-| 22 lid 1 onder e (tarief per minuut) | € 3,20 |
-| 22 lid 1 onder f (tarief certificaat) | € 4,42 |
-| 22 lid 1 onder f (tarief uitwisselen gegevens) | € 6,00 |
+| [9 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2025-01-01&g=2025-01-01) (basistarief) | € 64,32 |
+| 9 onder a (tarief per minuut) | € 2,01 |
+| 9 onder b (basistarief) | € 96,48 |
+| 9 onder b (tarief per minuut) | € 3,02 |
+| 9 onder c (basistarief) | € 128,64 |
+| 9 onder c (tarief per minuut) | € 4,02 |
+| 9 onder d | € 4,02 |
+| 9 onder e | € 8,04 |
+| 9 onder f | € 6,30 |
+| 9 onder g | € 20,10 |
+| [12 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=12&z=2025-01-01&g=2025-01-01) | € 64,32 |
+| 12 onder b | € 2,01 |
+| 12 onder c (1º. medfly val) | € 31,94 |
+| 12 onder c (2º. vallen exporteurs) | € 22,57 |
+| 12 onder d | € 124,62 |
+| [13 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2025-01-01&g=2025-01-01) | € 64,32 |
+| 13 onder b | € 60,30 |
+| 13 onder c | € 180,90 |
+| 13 onder d | € 180,90 |
+| [13a, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=13a&z=2025-01-01&g=2025-01-01) | € 1.029,12 |
+| 13a, onder b (starttarief) | € 64,32 |
+| 13a, onder b (tarief per minuut) | € 2,01 |
+| 13a, onder c (starttarief) | € 64,32 |
+| 13a, onder c (tarief per minuut) | € 2,01 |
+| 13a, onder d (starttarief) | € 64,32 |
+| 13a, onder d (tarief per minuut) | € 2,01 |
+| [17 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=17&z=2025-01-01&g=2025-01-01) | € 4,02 |
+| 17 lid 2 | € 60,30 |
+| [17a onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=17a&z=2025-01-01&g=2025-01-01) (systeemcontrole) | € 245,22 |
+| 17a onder b (aan/afmelden) | € 120,60 |
+| 17a lid 2 (starttarief) | € 64,32 |
+| 17a lid 2 (tarief per minuut) | € 2,01 |
+| [18](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.1&artikel=18&z=2025-01-01&g=2025-01-01) | € 184,92 |
+| [19 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.2&artikel=19&z=2025-01-01&g=2025-01-01) | € 60,30 |
+| [20 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=3&paragraaf=3.3&artikel=20&z=2025-01-01&g=2025-01-01) | € 14,07 |
+| 20 lid 2 | € 14,07 |
+| 20 lid 3 | € 14,07 |
+| [22 lid 1 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=4&paragraaf=4.1&artikel=22&z=2025-01-01&g=2025-01-01) (basistarief) | € 57,19 |
+| 22 lid 1 onder a (tarief per minuut) | € 1,55 |
+| 22 lid 1 onder b (basistarief) | € 85,79 |
+| 22 lid 1 onder b (tarief per minuut) | € 1,55 |
+| 22 lid 1 onder c (basistarief) | € 150,19 |
+| 22 lid 1 onder c (tarief per minuut) | € 1,55 |
+| 22 lid 1 onder d (basistarief) | € 85,79 |
+| 22 lid 1 onder d (tarief per minuut) | € 2,33 |
+| 22 lid 1 onder e (basistarief) | € 114,38 |
+| 22 lid 1 onder e (tarief per minuut) | € 3,10 |
+| 22 lid 1 onder f (tarief certificaat) | € 3,53 |
+| 22 lid 1 onder f (tarief uitwisselen gegevens) | € 6,78 |
 | 22 lid 1 onder g | € 16,79 |
-| 22 lid 1 onder h | € 530,77 |
-| [23](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=4&paragraaf=4.1&artikel=23&z=2024-07-01&g=2024-07-01) | € 119,77 |
-| [25 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=4&paragraaf=4.1&artikel=25&z=2024-07-01&g=2024-07-01) | € 171,41 |
-| 25 onder b | € 188,70 |
-| [27 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=4&paragraaf=4.1&artikel=27&z=2024-07-01&g=2024-07-01) | € 159,46 |
-| 27 onder b | € 239,20 |
-| 27 onder c | € 318,93 |
-| [29 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=4&paragraaf=4.2&artikel=29&z=2024-07-01&g=2024-07-01) | € 24,57 |
-| 29 onder b (tarief per minuut) | € 1,84 |
-| 29 onder b (minimum tarief per monster) | € 27,64 |
-| 29 onder c | € 24,57 |
-| 29 onder d DEW | € 233,06 |
-| 29 onder d Israël/Zuid Afrika | € 286,10 |
-| [31 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=4&paragraaf=4.3&artikel=31&z=2024-07-01&g=2024-07-01) (tarief per minuut) | € 1,60 |
-| 31 lid 2 | € 0,19 |
-| 31 lid 3 | € 61,30 |
-| 31 lid 4 | € 55,29 |
-| [33 lid 1 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=5&paragraaf=5.1&artikel=33&z=2024-07-01&g=2024-07-01) (basistarief) | € 98,00 |
-| 33 lid 1 onder a (tarief per minuut) | € 2,00 |
-| 33 lid 1 onder b (basistarief) | € 147,00 |
-| 33 lid 1 onder b (tarief per minuut) | € 2,00 |
-| 33 lid 1 onder c (basistarief) | € 147,00 |
-| 33 lid 1 onder c (tarief per minuut) | € 3,00 |
-| 33 lid 1 onder d (basistarief) | € 196,00 |
-| 33 lid 1 onder d (tarief per minuut) | € 4,00 |
-| 33 lid 1 onder e | € 2,54 |
-| 33 lid 1 onder f | € 4,42 |
-| 33 lid 1 onder g (tarief aanvraag) | € 36,00 |
-| 33 lid 1 onder g (tarief orderregel) | € 2,00 |
-| [34](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=5&paragraaf=5.1&artikel=34&z=2024-07-01&g=2024-07-01) | € 75,00 |
-| [36 lid 1 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=5&paragraaf=5.1&artikel=36&z=2024-07-01&g=2024-07-01) | € 134,00 |
-| 36 lid 1 onder b | € 201,00 |
-| 36 lid 1 onder c | € 201,00 |
-| 36 lid 1 onder d | € 268,00 |
-| 36 lid 2 | € 0,80 |
-| 36 lid 3 (tarief per certificaat) | € 36,00 |
-| 36 lid 3 (tarief per orderregel) | € 0,80 |
-| [37](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=5&paragraaf=5.1&artikel=37&z=2024-07-01&g=2024-07-01) | € 12,18 |
-| [38 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=5&paragraaf=5.1&artikel=38&z=2024-07-01&g=2024-07-01) | € 187,00 |
-| 38 onder b | € 280,00 |
-| 38 onder c | € 372,00 |
-| [39](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=5&paragraaf=5.2&artikel=39&z=2024-07-01&g=2024-07-01) | € 252,00 |
-| [40 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=5&paragraaf=5.3&artikel=40&z=2024-07-01&g=2024-07-01) | € 20,00 |
-| 40 lid 2 | € 65,00 |
-| [42 lid 1 onder a onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=6&paragraaf=6.1&artikel=42&z=2024-07-01&g=2024-07-01) (tarief per samenvallende inspectieaanvraag) | € 40,40 |
+| 22 lid 1 onder h | € 599,77 |
+| [23](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=4&paragraaf=4.1&artikel=23&z=2025-01-01&g=2025-01-01) | € 164,09 |
+| [25 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=4&paragraaf=4.1&artikel=25&z=2025-01-01&g=2025-01-01) | € 197,12 |
+| 25 onder b | € 217,00 |
+| [27 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=4&paragraaf=4.1&artikel=27&z=2025-01-01&g=2025-01-01) | € 154,68 |
+| 27 onder b | € 232,02 |
+| 27 onder c | € 309,36 |
+| [29 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=4&paragraaf=4.2&artikel=29&z=2025-01-01&g=2025-01-01) | € 22,73 |
+| 29 onder b (tarief per minuut) | € 1,70 |
+| 29 onder b (minimum tarief per monster) | € 25,50 |
+| 29 onder c | € 22,73 |
+| 29 onder d DEW | € 244,71 |
+| 29 onder d Israël/Zuid Afrika | € 300,40 |
+| [31 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=4&paragraaf=4.3&artikel=31&z=2025-01-01&g=2025-01-01) (tarief per minuut) | € 1,55 |
+| 31 lid 2 | € 0,18 |
+| 31 lid 3 | € 59,46 |
+| 31 lid 4 | € 53,63 |
+| [33 lid 1 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=5&paragraaf=5.1&artikel=33&z=2025-01-01&g=2025-01-01) (basistarief) | € 104,35 |
+| 33 lid 1 onder a (tarief per minuut) | € 2,13 |
+| 33 lid 1 onder b (basistarief) | € 156,55 |
+| 33 lid 1 onder b (tarief per minuut) | € 2,13 |
+| 33 lid 1 onder c (basistarief) | € 156,55 |
+| 33 lid 1 onder c (tarief per minuut) | € 3,20 |
+| 33 lid 1 onder d (basistarief) | € 208,75 |
+| 33 lid 1 onder d (tarief per minuut) | € 4,26 |
+| 33 lid 1 onder e | € 2,70 |
+| 33 lid 1 onder f | € 3,53 |
+| 33 lid 1 onder g (tarief aanvraag) | € 38,35 |
+| 33 lid 1 onder g (tarief orderregel) | € 2,13 |
+| [34](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=5&paragraaf=5.1&artikel=34&z=2025-01-01&g=2025-01-01) | € 80,00 |
+| [37](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=5&paragraaf=5.1&artikel=37&z=2025-01-01&g=2025-01-01) | € 14,25 |
+| [40 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=5&paragraaf=5.3&artikel=40&z=2025-01-01&g=2025-01-01) | € 21,30 |
+| 40 lid 2 | € 69,25 |
+| [42 lid 1 onder a onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=6&paragraaf=6.1&artikel=42&z=2025-01-01&g=2025-01-01) (tarief per samenvallende inspectieaanvraag) | € 40,40 |
 | 42 lid 1 onder a onder 1° (tarief per inspectieaanvraag) | € 94,20 |
 | 42 lid 1 onder a onder 2° (per bezoek) | € 68,65 |
 | 42 lid 1 onder a onder 2° (tarief per minuut) | € 1,60 |
@@ -1872,28 +1745,28 @@ Voor de administratieve handelingen ten behoeve van fytosanitaire verleningen wo
 | 42 lid 3 | € 7,80 |
 | 42 lid 4 | € 4,42 |
 | 42 lid 5 | € 31,50 |
-| [43](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=6&paragraaf=6.1&artikel=43&z=2024-07-01&g=2024-07-01) | € 84,40 |
-| [45 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=6&paragraaf=6.1&artikel=45&z=2024-07-01&g=2024-07-01) | € 16,35 |
+| [43](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=6&paragraaf=6.1&artikel=43&z=2025-01-01&g=2025-01-01) | € 84,40 |
+| [45 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=6&paragraaf=6.1&artikel=45&z=2025-01-01&g=2025-01-01) | € 16,35 |
 | 45 lid 2 | € 58,55 |
-| [46 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=6&paragraaf=6.1&artikel=46&z=2024-07-01&g=2024-07-01) | € 116,75 |
+| [46 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=6&paragraaf=6.1&artikel=46&z=2025-01-01&g=2025-01-01) | € 116,75 |
 | 46 onder b | € 175,15 |
 | 46 onder c | € 233,50 |
-| [47 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=6&paragraaf=6.1&artikel=47&z=2024-07-01&g=2024-07-01) | € 163,50 |
+| [47 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=6&paragraaf=6.1&artikel=47&z=2025-01-01&g=2025-01-01) | € 163,50 |
 | 47 lid 2 | € 281,50 |
 | 47 lid 3 | € 253,10 |
 | 47 lid 4 | € 281,50 |
 | 47 lid 5 | € 57,50 |
 | 47 lid 6 | € 281,50 |
 | 47 lid 7 | € 281,50 |
-| [48 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=6&paragraaf=6.2&artikel=48&z=2024-07-01&g=2024-07-01) | € 62,35 |
+| [48 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=6&paragraaf=6.2&artikel=48&z=2025-01-01&g=2025-01-01) | € 62,35 |
 | 48 lid 2 | € 142,40 |
 | 48 lid 3 (tarief monstername en onderzoek) | € 154,60 |
 | 48 lid 3 (tarief verklaring voor oogst) | € 63,60 |
 | 48 lid 3 (tarief verklaring na oogst) | € 108.65 |
 | 48 lid 4 | € 109,80 |
 | 48 lid 5 | € 6,50 |
-| [49](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=6&paragraaf=6.3&artikel=49&z=2024-07-01&g=2024-07-01) | € 8,50 |
-| [50 lid 1 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=6&paragraaf=6.4&artikel=50&z=2024-07-01&g=2024-07-01) | € 99,65 |
+| [49](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=6&paragraaf=6.3&artikel=49&z=2025-01-01&g=2025-01-01) | € 8,50 |
+| [50 lid 1 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=6&paragraaf=6.4&artikel=50&z=2025-01-01&g=2025-01-01) | € 99,65 |
 | 50 lid 1 onder b | € 93,10 |
 | 50 lid 1 onder c | € 142,40 |
 | 50 lid 1 onder d | € 57,50 |
@@ -1913,7 +1786,7 @@ Voor de administratieve handelingen ten behoeve van fytosanitaire verleningen wo
 | 50 lid 3 onder d (tarief per aanvraag) | € 16,00 |
 | 50 lid 3 onder d (tarief per monster) | € 1,15 |
 | 50 lid 4 | € 24,85 |
-| [51 lid 1 onder a onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=6&paragraaf=6.5&artikel=51&z=2024-07-01&g=2024-07-01) (tarief uitslag 2 weken) | € 22,85 |
+| [51 lid 1 onder a onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=6&paragraaf=6.5&artikel=51&z=2025-01-01&g=2025-01-01) (tarief uitslag 2 weken) | € 22,85 |
 | 51 lid 1 onder a onder 1° (tarief uitslag 4 weken) | € 18,20 |
 | 51 lid 1 onder a onder 1° (tarief uitslag 8 weken) | € 15,90 |
 | 51 lid 1 onder a onder 1° (tarief uitslag 14 weken) | € 13,15 |
@@ -1942,7 +1815,7 @@ Voor de administratieve handelingen ten behoeve van fytosanitaire verleningen wo
 | 51 lid 3 onder b | € 20,90 |
 | 51 lid 4 | € 56,90 |
 | 51 lid 5 | € 11,75 |
-| [52 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=6&paragraaf=6.6&artikel=52&z=2024-07-01&g=2024-07-01) | € 114,00 |
+| [52 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044857&hoofdstuk=6&paragraaf=6.6&artikel=52&z=2025-01-01&g=2025-01-01) | € 114,00 |
 | 52 onder b | € 284,95 |
 
 1
