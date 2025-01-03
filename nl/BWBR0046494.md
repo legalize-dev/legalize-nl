@@ -4,7 +4,7 @@ identifier: "BWBR0046494"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-03"
-last_updated: "2024-08-03"
+last_updated: "2025-01-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046494"
 soort: "ministeriele-regeling"
@@ -66,21 +66,21 @@ Voor subsidieverlening op grond van [artikel 7.2, eerste lid, onderdeel c, van d
 
 ##### Artikel 3
 
-1. Voor subsidieverlening in het kader van het Subsidieprogramma Support International Business 2022–2026 geldt voor de periode vanaf inwerkingtreding van dit besluit tot en met 31 december 2026 voor aanvragen bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046494&artikel=2&z=2024-08-03&g=2024-08-03), een subsidieplafond van € 1.385.000.
+1. Voor subsidieverlening in het kader van het Subsidieprogramma Support International Business 2022–2026 geldt voor de periode vanaf inwerkingtreding van dit besluit tot en met 31 december 2026 voor aanvragen bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046494&artikel=2&z=2025-01-03&g=2025-01-03), een subsidieplafond van € 1.385.000.
 
 2. Voor subsidieverlening in het kader van het Subsidieprogramma Support International Business 2022–2026 geldt voor de periode vanaf inwerkingtreding van dit besluit tot en met 31 december 2026 voor
 
-- a. aanvragen bedoeld in [artikel 2, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046494&artikel=2&z=2024-08-03&g=2024-08-03), een subsidieplafond van € 200.000;
+- a. aanvragen bedoeld in [artikel 2, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046494&artikel=2&z=2025-01-03&g=2025-01-03), een subsidieplafond van € 200.000;
 
-- b. aanvragen bedoeld in [artikel 2, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046494&artikel=2&z=2024-08-03&g=2024-08-03), een subsidieplafond van € 200.000;
+- b. aanvragen bedoeld in [artikel 2, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046494&artikel=2&z=2025-01-03&g=2025-01-03), een subsidieplafond van € 200.000;
 
-- c. aanvragen bedoeld in [artikel 2, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046494&artikel=2&z=2024-08-03&g=2024-08-03), een subsidieplafond van € 200.000;
+- c. aanvragen bedoeld in [artikel 2, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046494&artikel=2&z=2025-01-03&g=2025-01-03), een subsidieplafond van € 200.000;
 
 met dien verstande dat indien na de periodes genoemd in de onderdelen a en b een deel van het daar bedoelde subsidieplafond resteert, dit beschikbaar is voor aanvragen in de eerstvolgende periode.
 
-3. Indien na toepassing van het eerste lid middelen van het daar bedoelde subsidieplafond resteren, zijn deze beschikbaar voor aanvragen bedoeld in [artikel 2, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046494&artikel=2&z=2024-08-03&g=2024-08-03), en indien na toepassing van het tweede lid, onderdeel c, middelen van het daar bedoelde subsidieplafond resteren, is dit beschikbaar voor aanvragen bedoeld in het eerste lid.
+3. Indien na toepassing van het eerste lid middelen van het daar bedoelde subsidieplafond resteren, zijn deze beschikbaar voor aanvragen bedoeld in [artikel 2, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046494&artikel=2&z=2025-01-03&g=2025-01-03), en indien na toepassing van het tweede lid, onderdeel c, middelen van het daar bedoelde subsidieplafond resteren, is dit beschikbaar voor aanvragen bedoeld in het eerste lid.
 
-4. Voor subsidieverlening in het kader van het Subsidieprogramma Support International Business 2022–2026 gelden voor aanvragen bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046494&artikel=2&z=2024-08-03&g=2024-08-03), nader bekend te maken subsidieplafonds.
+4. Voor subsidieverlening in het kader van het Subsidieprogramma Support International Business 2022–2026 gelden voor aanvragen bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046494&artikel=2&z=2025-01-03&g=2025-01-03), nader bekend te maken subsidieplafonds.
 
 ##### Artikel 4
 
@@ -138,7 +138,7 @@ Voor een subsidie in het kader van SIB kunnen in aanmerking komen activiteiten z
 
 ### 4.4.1. Deelname aan een (digitale) handelsmissie of collectieve beursinzending
 
-Het gaat hierbij om een (digitale) collectieve, promotionele activiteit in een doelland, gericht op het vinden van potentiële afnemers, samenwerkingspartners of investeerders in een doelland, en bevordering van export van Nederlandse producten en diensten naar, dan wel investeringen van Nederlandse mkb-ondernemingen in een doelland.
+Het gaat hierbij om een (digitale) collectieve, promotionele activiteit in een doelland, die primair een handelsbevorderend doel heeft. Dat wil zeggen dat de activiteit gericht is op:
 
 Voor de handelsmissie of beurs geldt dat:
 
@@ -168,43 +168,43 @@ De externe deskundige die wordt ingezet voor marktentree moet voldoen aan de vol
 
 De subsidie bedraagt ten hoogste 50% van de door de externe deskundige in de offerte opgenomen subsidiabele kosten voor het opleveren van een eindverslag tot een maximum van € 2.500. De offerte dient niet ouder dan 3 maanden te zijn op moment van indienen van de aanvraag.
 
-### 4.4.4. Coaching
+### 4.4.4. Exporttraining en Coaching
 
-Het gaat hierbij om het sparren met en leren van een coach over de organisatie van export naar een specifiek doelland. De coaching omvat maximaal 3 gesprekken van 2 uur, waarvan gespreksverslagen worden gemaakt. Het doel van de gesprekken met de coach is dat de ondernemer/aanvrager in staat is om zelf een exportplan op te stellen.
+Het gaat hierbij om a) het volgen van een door een externe deskundige gegeven exporttraining of b) het sparren met en leren van een coach over de organisatie van export naar een specifiek doelland. Onder het volgen van een door een externe deskundige gegeven exporttraining wordt verstaan:
 
-De coach die wordt ingezet moet voldoen aan de volgende vereisten:
+Het volgen van een door een externe deskundige gegeven exporttraining
 
 ### 4.4.6. Alternatieve markten Oekraïne en Rusland
 
 Het gaat hierbij om coaching, ontwikkeling van kennis en vaardigheden en begeleiding voor herstructurering en/of herpositionering van de internationale activiteiten van Nederlandse MKB-ondernemingen die aannemelijk kunnen maken dat het geleden verlies in omzet ten gevolge van de situatie die sinds 24 februari 2022 in Oekraïne/Rusland is ontstaan, aanzienlijk is en om die reden advies of begeleiding nodig heeft van een externe deskundige voor het identificeren en uitvoeren van concrete acties om de negatieve gevolgen van de situatie in Oekraïne/Rusland voor de buitenlandse activiteiten van de betreffende onderneming te beperken.
 
-Het gaat hierbij om a) het verwerven van internationale juridische en fiscale kennis, of b) het laten verrichten van marktonderzoek voor het positioneren van de MKB-onderneming met betrekking tot voor de onderneming nieuwe activiteiten in een doelland, of c) het volgen van een exporttraining. De aanvraag dient te zijn gericht op een van deze activiteiten, waaronder wordt verstaan:
+De exporttraining moet voldoen aan de volgende vereisten:
 
-De subsidie bedraagt ten hoogste 50% van de door de externe deskundige in de offerte opgenomen subsidiabele kosten voor het opleveren van een eindverslag tot een maximum van € 2.500. De offerte dient niet ouder dan 3 maanden te zijn op moment van indienen van de aanvraag.
+De externe deskundige die de exporttraining verzorgt moet voldoen aan de volgende vereisten:
 
-Eenzelfde externe deskundige kan door maximaal 7 aanvragers worden ingezet in 2022. Peildatum is het moment van subsidieverlening. Aan aanvragers zal indien gewenst op verzoek informatie worden verstrekt over het aantal keer dat een externe deskundige reeds wordt ingezet voor advies of begeleiding waarvoor een subsidie in het kader van SIB is verleend.
+De subsidie bedraagt ten hoogste 50% van de door de externe deskundige in de offerte opgenomen subsidiabele kosten tot een maximum van € 2.500. De offerte dient niet ouder dan 3 maanden te zijn op moment van indienen van de aanvraag.
 
 Het gaat hierbij om coaching, ontwikkeling van kennis en vaardigheden en begeleiding voor herstructurering en/of herpositionering van de internationale activiteiten van Nederlandse MKB-ondernemingen die aannemelijk kunnen maken dat het geleden verlies in omzet ten gevolge van de situatie die sinds 24 februari 2022 in Oekraïne/Rusland is ontstaan, aanzienlijk is en om die reden advies of begeleiding nodig heeft van een externe deskundige voor het identificeren en uitvoeren van concrete acties om de negatieve gevolgen van de situatie in Oekraïne/Rusland voor de buitenlandse activiteiten van de betreffende onderneming te beperken.
 
 ### 4.5. Eigen bijdrage en staatssteun
 
-De externe deskundige die wordt ingezet moet voldoen aan de volgende vereisten:
+De coach die wordt ingezet moet voldoen aan de volgende vereisten:
 
-Eenzelfde externe deskundige kan door maximaal 7 aanvragers worden ingezet in 2022. Peildatum is het moment van subsidieverlening. Aan aanvragers zal indien gewenst op verzoek informatie worden verstrekt over het aantal keer dat een externe deskundige reeds wordt ingezet voor advies of begeleiding waarvoor een subsidie in het kader van SIB is verleend.
+De subsidie bedraagt ten hoogste 50% van de door de coach in de offerte opgenomen subsidiabele kosten voor het opleveren van een eindverslag tot een maximum van € 1.000. De offerte dient niet ouder dan 3 maanden te zijn op moment van indienen van de aanvraag.
 
-### 4.6. Duur activiteiten
+### 4.4.5. Kennis en vaardigheden
 
-De activiteiten waarvoor subsidie wordt verleend in het kader van SIB moeten binnen 12 maanden na aanvraag worden uitgevoerd, waarbij geldt dat de uitvoering uiterlijk 3 maanden na de beslissing op de aanvraag van start moet gaan. Dit laatste geldt niet voor een handelsmissie (4.4.1.) en beursdeelname (4.4.2.).
+Het gaat hierbij om a) het verwerven van internationale juridische en fiscale kennis, of b) het laten verrichten van marktonderzoek voor het positioneren van de MKB-onderneming met betrekking tot voor de onderneming nieuwe activiteiten in een doelland. De aanvraag dient te zijn gericht op een van deze activiteiten, waaronder wordt verstaan:
 
 ### 5. Subsidiabele kosten
 
-### 5.1. Uitgangspunten
+### 4.4.6. Alternatieve markten Oekraïne en Rusland
 
-Voor het bepalen van de kosten die in aanmerking kunnen worden genomen bij het bepalen van de subsidie gelden de volgende uitgangspunten:
+Het gaat hierbij om coaching, ontwikkeling van kennis en vaardigheden en begeleiding voor herstructurering en/of herpositionering van de internationale activiteiten van Nederlandse MKB-ondernemingen die aannemelijk kunnen maken dat het geleden verlies in omzet ten gevolge van de situatie die sinds 24 februari 2022 in Oekraïne/Rusland is ontstaan, aanzienlijk is en om die reden advies of begeleiding nodig heeft van een externe deskundige voor het identificeren en uitvoeren van concrete acties om de negatieve gevolgen van de situatie in Oekraïne/Rusland voor de buitenlandse activiteiten van de betreffende onderneming te beperken.
 
 ### 5.2. Niet-subsidiabele kosten
 
-Niet subsidiabel zijn in ieder geval de volgende kosten:
+De externe deskundige die wordt ingezet moet voldoen aan de volgende vereisten:
 
 ### 5.1. Uitgangspunten
 
@@ -212,47 +212,47 @@ Niet subsidiabel zijn in ieder geval de volgende kosten:
 
 De aanvraag voor subsidie wordt ingediend met gebruikmaking van een daartoe op [www.rvo.nl/sib](onbekend) beschikbaar gesteld middel en voorzien van de daarin genoemde bijlagen waarvoor modellen beschikbaar worden gesteld door RVO.
 
+Het niet subsidiabele deel, ook wel de eigen bijdrage genoemd, wordt niet gefinancierd met middelen die verkregen zijn door middel van een directe of indirecte subsidie of bijdrage ten laste van de begroting van het Ministerie van Buitenlandse Zaken.
+
+Een SIB-subsidie bevat staatsteun en wordt gerechtvaardigd door toepassing van de De-minimisverordening.
+
+De aanvraag bevat:
+
+De activiteiten waarvoor subsidie wordt verleend in het kader van SIB moeten binnen 12 maanden na aanvraag worden uitgevoerd, waarbij geldt dat de uitvoering uiterlijk 3 maanden na de beslissing op de aanvraag van start moet gaan. Dit laatste geldt niet voor een handelsmissie (4.4.1.) en beursdeelname (4.4.2.).
+
+### 5. Subsidiabele kosten
+
+Slechts één MKB-onderneming in een groep of deel uitmakend van een fiscale eenheid kan in aanmerking komen voor subsidie.
+
+Voor het bepalen van de kosten die in aanmerking kunnen worden genomen bij het bepalen van de subsidie gelden de volgende uitgangspunten:
+
+### 5.2. Niet-subsidiabele kosten
+
 Niet subsidiabel zijn in ieder geval de volgende kosten:
-
-Slechts één MKB-onderneming in een groep of deel uitmakend van een fiscale eenheid kan in aanmerking komen voor subsidie.
-
-De aanvraag bevat:
-
-De aanvraag voor subsidie wordt ingediend met gebruikmaking van een daartoe op [www.rvo.nl/sib](http://www.rvo.nl/sib) beschikbaar gesteld middel en voorzien van de daarin genoemde bijlagen waarvoor modellen beschikbaar worden gesteld door RVO.
-
-### 6.2. Herstelperiode
-
-Slechts één MKB-onderneming in een groep of deel uitmakend van een fiscale eenheid kan in aanmerking komen voor subsidie.
-
-De aanvraag bevat:
-
-### 7. Beoordeling
-
-De bepalingen van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537), het [Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039) en de [Subsidieregeling Ministerie van Buitenlandse Zaken 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019366) zijn onverkort van toepassing op de beoordeling van aanvragen en de uiteindelijke subsidieverstrekking in het kader van SIB. De aanvragen worden beoordeeld met inachtneming van deze regelgeving en overeenkomstig de maatstaven die in SIB zijn neergelegd.
 
 In het kader van de aanvraagprocedure wordt met nadruk gewezen op [artikel 7, derde lid, van het Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=7). Mocht een aanvraag onvolledig worden ingediend, dan kan de minister (met gebruikmaking van [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5)) vragen om een aanvulling. Als datum en tijd van ontvangst van de aanvraag zal vervolgens gelden de datum en tijd waarop de aanvulling is ontvangen. Daarnaast geldt in het algemeen dat het niet volledig indienen van aanvragen of onvoldoende onderbouwen van (onderdelen van) de aanvraag mogelijk leidt tot afwijzing van een subsidieaanvraag op basis van het niet of niet in voldoende mate voldoen aan de aan aanvragen gestelde vereisten en criteria.
 
-### 8. Afwijzingsgronden
+### 6.1. Vereisten
 
-Naast het bepaalde in [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) wordt een aanvraag voor subsidie afgewezen als er niet voldaan wordt aan de in deze bijlage voor SIB neergelegde beleidsregels of indien het beschikbare budget ontoereikend is.
-
-### 9. Toezicht
-
-Om voor subsidie in aanmerking te kunnen komen dient de aanvraag te voldoen aan de hiervoor, in het bijzonder in hoofdstukken 4 tot en met 6, opgenomen vereisten.
-
-### 8. Afwijzingsgronden
-
-Naast het bepaalde in [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) wordt een aanvraag voor subsidie afgewezen als er niet voldaan wordt aan de in deze bijlage voor SIB neergelegde beleidsregels of indien het beschikbare budget ontoereikend is.
+De aanvraag voor subsidie wordt ingediend met gebruikmaking van een daartoe op [www.rvo.nl/sib](http://www.rvo.nl/sib) beschikbaar gesteld middel en voorzien van de daarin genoemde bijlagen waarvoor modellen beschikbaar worden gesteld door RVO.
 
 ### 9. Toezicht
 
-RVO zal een steekproefsgewijze controle uitvoeren op het correcte gebruik van de subsidie waarbij op grond van de afgegeven beschikkingen wordt gecontroleerd op rechtmatigheid en doelmatigheid.
+Slechts één MKB-onderneming in een groep of deel uitmakend van een fiscale eenheid kan in aanmerking komen voor subsidie.
+
+### 8. Afwijzingsgronden
+
+Tevens moet de aanvrager verklaren op de hoogte te zijn en te zullen handelen naar de OESO richtlijnen4[www.oesorichtlijnen.nl](http://www.oesorichtlijnen.nl). Ook dient de aanvrager op de hoogte te zijn van de FMO-uitsluitingslijst5[www.fmo.nl/exclusion-list](http://www.fmo.nl/exclusion-list) en geen activiteiten uit te voeren die op deze lijst benoemd staan. In aanvulling hierop gelden ook de IFC Performance Standards.
+
+### 6.2. Herstelperiode
+
+In het kader van de aanvraagprocedure wordt met nadruk gewezen op [artikel 7, derde lid, van het Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=7). Mocht een aanvraag onvolledig worden ingediend, dan kan de minister (met gebruikmaking van [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5)) vragen om een aanvulling. Als datum en tijd van ontvangst van de aanvraag zal vervolgens gelden de datum en tijd waarop de aanvulling is ontvangen. Daarnaast geldt in het algemeen dat het niet volledig indienen van aanvragen of onvoldoende onderbouwen van (onderdelen van) de aanvraag mogelijk leidt tot afwijzing van een subsidieaanvraag op basis van het niet of niet in voldoende mate voldoen aan de aan aanvragen gestelde vereisten en criteria.
 
 ### 10. Verplichtingen
 
 In de subsidieverleningsbeschikking zal aan de subsidieverlening een aantal verplichtingen worden verbonden. Deze zullen in elk geval betrekking hebben op het volgende. Ten eerste dat de aanvrager zich inspant om ernstige (seksuele) misdragingen en andere ernstige vormen van (seksueel) grensoverschrijdend gedrag jegens medewerkers en derden bij de uitvoering van de activiteiten waarop de aanvraag betrekking heeft te voorkomen, in voorkomend geval zo spoedig mogelijk te doen beëindigen en om de gevolgen daarvan te mitigeren. Ten tweede dat de subsidieontvanger de plicht heeft om aan RVO te melden wanneer hij niet (geheel) aan de verplichtingen van de subsidie kan voldoen en/of de activiteiten waarvoor subsidie is verleend niet (geheel) kan uitvoeren. Ten derde de verplichting dat meegewerkt zal moeten worden aan een ‘self assesment’, gemeenschappelijk kennis- en leertraject en monitoring en effectmeting van RVO aangaande de activiteiten waarvoor subsidie is verstrekt.
 
-Bevoorschotting vindt plaats tot honderd procent van het verleende bedrag in termijnen waarvan hoogte en betalingstijdstip in de beschikking tot subsidieverlening worden vastgelegd.
+De bepalingen van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537), het [Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039) en de [Subsidieregeling Ministerie van Buitenlandse Zaken 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019366) zijn onverkort van toepassing op de beoordeling van aanvragen en de uiteindelijke subsidieverstrekking in het kader van SIB. De aanvragen worden beoordeeld met inachtneming van deze regelgeving en overeenkomstig de maatstaven die in SIB zijn neergelegd.
 
 Dit besluit zal met de bijlage in de Staatscourant worden geplaatst.
 
@@ -262,35 +262,35 @@ Met **groen** wordt hier bedoeld dat het (hoofd)thema van de (digitale) vakbeurs
 
 ### 4.4.3. Marktentree
 
-De subsidie bedraagt ten hoogste 50% van de door de coach in de offerte opgenomen subsidiabele kosten voor het opleveren van een eindverslag tot een maximum van € 1.000. De offerte dient niet ouder dan 3 maanden te zijn op moment van indienen van de aanvraag.
+De aanvraag dient te zijn gericht op een van beide activiteiten (a of b).
 
-### 4.4.5. Kennis en vaardigheden
+### 4.4.4.1. Exporttraining
 
 ### 4.4.6. Alternatieve markten Oekraïne en Rusland
 
-Het advies van of de begeleiding door een externe deskundige is gericht op:
+De coaching moet voldoen aan de volgende vereisten:
 
 De subsidie bedraagt ten hoogste 80% van de door de externe deskundige in de offerte opgenomen subsidiabele kosten voor het opleveren van een eindverslag tot een maximum van € 2.500. De offerte dient niet ouder dan een maand te zijn op moment van indienen van de aanvraag.
 
 ### 4.5. Eigen bijdrage en staatssteun
 
-Het niet subsidiabele deel, ook wel de eigen bijdrage genoemd, wordt niet gefinancierd met middelen die verkregen zijn door middel van een directe of indirecte subsidie of bijdrage ten laste van de begroting van het Ministerie van Buitenlandse Zaken.
+De subsidie bedraagt ten hoogste 50% van de door de externe deskundige in de offerte opgenomen subsidiabele kosten voor het opleveren van een eindverslag tot een maximum van € 2.500. De offerte dient niet ouder dan 3 maanden te zijn op moment van indienen van de aanvraag.
 
 Een SIB-subsidie bevat staatsteun en wordt gerechtvaardigd door toepassing van de De-minimisverordening.
 
 ### 4.6. Duur activiteiten
 
-De activiteiten waarvoor subsidie wordt verleend in het kader van SIB moeten binnen 12 maanden na aanvraag worden uitgevoerd, waarbij geldt dat de uitvoering uiterlijk 3 maanden na de beslissing op de aanvraag van start moet gaan. Dit laatste geldt niet voor een handelsmissie (4.4.1.) en beursdeelname (4.4.2.).
+Het advies van of de begeleiding door een externe deskundige is gericht op:
 
 ### 5. Subsidiabele kosten
 
-Voor het bepalen van de kosten die in aanmerking kunnen worden genomen bij het bepalen van de subsidie gelden de volgende uitgangspunten:
+De subsidie bedraagt ten hoogste 80% van de door de externe deskundige in de offerte opgenomen subsidiabele kosten voor het opleveren van een eindverslag tot een maximum van € 2.500. De offerte dient niet ouder dan een maand te zijn op moment van indienen van de aanvraag.
 
-### 5.2. Niet-subsidiabele kosten
+### 4.5. Eigen bijdrage en staatssteun
 
 ### 6. Aanvraag
 
-### 6.1. Vereisten
+### 4.6. Duur activiteiten
 
 Een aanvrager kan niet binnen 2 jaar 2 keer in aanmerking komen voor subsidie voor dezelfde subsidiabele activiteit voor hetzelfde doelland, met uitzondering van de subsidiabele activiteit onder paragraaf **4.4.1. Deelname aan een (digitale) handelsmissie of collectieve beursinzending in het buitenland en 4.4.2 Zelfstandige deelname aan een buitenlandse (digitale) vakbeurs**, waarvoor een maximum van 2 subsidies voor dezelfde missie en/of vakbeurs in opvolgende jaren geldt.
 
@@ -302,7 +302,41 @@ Kortheidshalve verwijzen naar andere onderdelen van de aanvraag, websites of bij
 
 ### 7. Beoordeling
 
-De bepalingen van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537), het [Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039) en de [Subsidieregeling Ministerie van Buitenlandse Zaken 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019366) zijn onverkort van toepassing op de beoordeling van aanvragen en de uiteindelijke subsidieverstrekking in het kader van SIB. De aanvragen worden beoordeeld met inachtneming van deze regelgeving en overeenkomstig de maatstaven die in SIB zijn neergelegd.
+Een aanvrager kan niet meer dan 1 keer in aanmerking komen voor subsidie voor dezelfde subsidiabele activiteit voor hetzelfde doelland, met uitzondering van de subsidiabele activiteit onder paragraaf **4.4.1. Deelname aan een (digitale) handelsmissie of collectieve beursinzending in het buitenland en 4.4.2 Zelfstandige deelname aan een buitenlandse (digitale) vakbeurs**, waarvoor een maximum van 2 subsidies per aanvrager geldt.
+
+### 11. Administratieve lasten
+
+Om voor subsidie in aanmerking te kunnen komen dient de aanvraag te voldoen aan de hiervoor, in het bijzonder in hoofdstukken 4 tot en met 6, opgenomen vereisten.
+
+### 8. Afwijzingsgronden
+
+Naast het bepaalde in [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) wordt een aanvraag voor subsidie afgewezen als er niet voldaan wordt aan de in deze bijlage voor SIB neergelegde beleidsregels of indien het beschikbare budget ontoereikend is.
+
+Bevoorschotting vindt plaats tot honderd procent van het verleende bedrag in termijnen waarvan hoogte en betalingstijdstip in de beschikking tot subsidieverlening worden vastgelegd.
+
+Dit besluit zal met de bijlage in de Staatscourant worden geplaatst.
+
+### 4.4.4.2. Coaching
+
+Eenzelfde externe deskundige kan door maximaal 7 aanvragers worden ingezet in 2022. Peildatum is het moment van subsidieverlening. Aan aanvragers zal indien gewenst op verzoek informatie worden verstrekt over het aantal keer dat een externe deskundige reeds wordt ingezet voor advies of begeleiding waarvoor een subsidie in het kader van SIB is verleend.
+
+### 5.1. Uitgangspunten
+
+### 6. Aanvraag
+
+De aanvraag bevat:
+
+Kortheidshalve verwijzen naar andere onderdelen van de aanvraag, websites of bijlagen is niet voldoende, tenzij in de aanvraagdocumenten uitdrukkelijk is aangegeven dat daarmee (geheel of gedeeltelijk) kan worden volstaan. Indien onderdelen van de aanvraagdocumenten niet worden ingevuld, loopt de aanvrager het risico op afwijzing van de aanvraag.
+
+### 7. Beoordeling
+
+### 9. Toezicht
+
+RVO zal een steekproefsgewijze controle uitvoeren op het correcte gebruik van de subsidie waarbij op grond van de afgegeven beschikkingen wordt gecontroleerd op rechtmatigheid en doelmatigheid.
+
+### 10. Verplichtingen
+
+In de subsidieverleningsbeschikking zal aan de subsidieverlening een aantal verplichtingen worden verbonden. Deze zullen in elk geval betrekking hebben op het volgende. Ten eerste dat de aanvrager zich inspant om ernstige (seksuele) misdragingen en andere ernstige vormen van (seksueel) grensoverschrijdend gedrag jegens medewerkers en derden bij de uitvoering van de activiteiten waarop de aanvraag betrekking heeft te voorkomen, in voorkomend geval zo spoedig mogelijk te doen beëindigen en om de gevolgen daarvan te mitigeren. Ten tweede dat de subsidieontvanger de plicht heeft om aan RVO te melden wanneer hij niet (geheel) aan de verplichtingen van de subsidie kan voldoen en/of de activiteiten waarvoor subsidie is verleend niet (geheel) kan uitvoeren. Ten derde de verplichting dat meegewerkt zal moeten worden aan een ‘self assesment’, gemeenschappelijk kennis- en leertraject en monitoring en effectmeting van RVO aangaande de activiteiten waarvoor subsidie is verstrekt.
 
 ### 11. Administratieve lasten
 
