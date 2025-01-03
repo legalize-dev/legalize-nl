@@ -4,7 +4,7 @@ identifier: "BWBR0050181"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-03"
-last_updated: "2024-09-03"
+last_updated: "2025-01-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050181"
 soort: "ministeriele-regeling"
@@ -80,7 +80,7 @@ De directeur Inlichtingen bezit tekenbevoegdheid ten aanzien van de in [artikel 
 
 5. In afwijking van het tweede lid is de aldaar bedoelde bevoegdheid voorbehouden aan de directeur Inlichtingen indien bij de uitoefening van deze bevoegdheid geheel of gedeeltelijk gebruik wordt gemaakt van gegevens bedoeld in [artikel 7, tweede lid, onder b en c van de Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=7).
 
-6. In afwijking van het eerste lid, onder h, is de aldaar bedoelde bevoegdheid voorbehouden aan het unithoofd van het Veiligheidsonderzoekenhuis indien deze mededeling ten opzichte van betrokkene nadelige conclusies bevat.
+6. In afwijking van het eerste lid, onder b, is de aldaar bedoelde bevoegdheid voorbehouden aan het unithoofd van het Veiligheidsonderzoekenhuis indien deze mededeling ten opzichte van betrokkene nadelige conclusies bevat.
 
 ##### Artikel 5
 
