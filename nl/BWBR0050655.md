@@ -4,7 +4,7 @@ identifier: "BWBR0050655"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-08"
-last_updated: "2025-01-01"
+last_updated: "2025-01-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050655"
 soort: "ministeriele-regeling"
@@ -50,15 +50,15 @@ Van het ingevolge [artikel 1 van het Mandaatbesluit hoofden taakorganisaties Min
 
 ##### Artikel 2
 
-Als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk ten aanzien van de onder hun directie of afdeling ressorterende ambtenaren, worden aangewezen de functionarissen, genoemd in kolom 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050655&bijlage=1&z=2025-01-08&g=2025-01-01) bij dit besluit, voor zover het betreft de uitoefening van de bevoegdheden, vermeld in kolom 2 van die bijlage.
+Als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk ten aanzien van de onder hun directie of afdeling ressorterende ambtenaren, worden aangewezen de functionarissen, genoemd in kolom 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050655&bijlage=1&z=2025-01-08&g=2025-01-08) bij dit besluit, voor zover het betreft de uitoefening van de bevoegdheden, vermeld in kolom 2 van die bijlage.
 
 ##### Artikel 3
 
-Als bevoegd om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven, worden aangewezen de functionarissen, genoemd in kolom 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050655&bijlage=2&z=2025-01-08&g=2025-01-01) bij dit besluit, voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage.
+Als bevoegd om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven, worden aangewezen de functionarissen, genoemd in kolom 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050655&bijlage=2&z=2025-01-08&g=2025-01-08) bij dit besluit, voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage.
 
 ##### Artikel 4
 
-Als bevoegd om besluiten te nemen op het terrein van de vreemdelingenwetgeving, alsmede daaraan gerelateerde besluiten op grond van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252), de Algemene verordening gegevensbescherming en de [Uitvoeringswet Algemene Verordening Gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940), verzoeken om schadevergoeding en de behandeling van klachten, worden aangewezen de functionarissen genoemd in kolom 1 van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050655&bijlage=3&z=2025-01-08&g=2025-01-01) bij dit besluit, voor zover het betreft de rechtshandelingen, genoemd in kolom 2 van die bijlage.
+Als bevoegd om besluiten te nemen op het terrein van de vreemdelingenwetgeving, alsmede daaraan gerelateerde besluiten op grond van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252), de Algemene verordening gegevensbescherming en de [Uitvoeringswet Algemene Verordening Gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940), verzoeken om schadevergoeding en de behandeling van klachten, worden aangewezen de functionarissen genoemd in kolom 1 van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050655&bijlage=3&z=2025-01-08&g=2025-01-08) bij dit besluit, voor zover het betreft de rechtshandelingen, genoemd in kolom 2 van die bijlage.
 
 ##### Artikel 5
 
@@ -78,13 +78,13 @@ Aan de directeur blijft voorbehouden:
 
 - g. de bevoegdheid tot het nemen van besluiten over de toekenning van een persoonsgebonden dienstauto;
 
-- h. de bevoegdheid tot het benoemen van een plaatsvervangend directeur, te kiezen uit de afdelingshoofden onder [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050655&artikel=1&z=2025-01-08&g=2025-01-01).
+- h. de bevoegdheid tot het benoemen van een plaatsvervangend directeur, te kiezen uit de afdelingshoofden onder [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050655&artikel=1&z=2025-01-08&g=2025-01-08).
 
 ##### Artikel 6
 
 1. Bij verhindering of afwezigheid wordt de directeur vervangen door het meest bij het onderwerp betrokken afdelingshoofd.
 
-2. De in [artikel 1, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0050655&artikel=1&z=2025-01-08&g=2025-01-01), genoemde functionarissen wordt toegestaan elkaar volledig te vervangen. Zij treden daarbij in elkaars, in artikel 1 en in de overige in dit artikel genoemde bevoegdheden.
+2. De in [artikel 1, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0050655&artikel=1&z=2025-01-08&g=2025-01-08), genoemde functionarissen wordt toegestaan elkaar volledig te vervangen. Zij treden daarbij in elkaars, in artikel 1 en in de overige in dit artikel genoemde bevoegdheden.
 
 ##### Artikel 7
 
@@ -94,9 +94,9 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit wordt aangehaald als: Mandaatbesluit DISA Ministerie van Justitie en Veiligheid 2025.
 
-## Bijlage 1. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050655&artikel=2&z=2025-01-08&g=2025-01-01) van het Mandaatbesluit DISA Ministerie van Justitie en Veiligheid 2025
+## Bijlage 1. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050655&artikel=2&z=2025-01-08&g=2025-01-08) van het Mandaatbesluit DISA Ministerie van Justitie en Veiligheid 2025
 
-De functionarissen bij wie in kolom 2 de letter A is geplaatst, zijn, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050655&artikel=4&z=2025-01-08&g=2025-01-01) van dit besluit bevoegd tot uitoefening van alle bevoegdheden die in of krachtens de CAO Rijk aan de leidinggevende zijn toegekend, onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0050655&artikel=5&z=2025-01-08&g=2025-01-01) van dit mandaatbesluit. De functionarissen bij wie in kolom 2 de letter B is geplaatst, zijn, onverminderd artikel 4 van dit besluit bevoegd tot uitoefening van alle bevoegdheden die in of krachtens de CAO Rijk aan de leidinggevende zijn toegekend, met uitzondering van de bevoegdheden tot het aangaan van een arbeidsovereenkomst, bevorderen naar een hogere salarisschaal, het opleggen van disciplinaire straffen en ordemaatregelen en beëindigen van een arbeidsovereenkomst alsmede het nemen van besluiten over de toekenning van een persoonsgebonden dienstauto.
+De functionarissen bij wie in kolom 2 de letter A is geplaatst, zijn, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050655&artikel=4&z=2025-01-08&g=2025-01-08) van dit besluit bevoegd tot uitoefening van alle bevoegdheden die in of krachtens de CAO Rijk aan de leidinggevende zijn toegekend, onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0050655&artikel=5&z=2025-01-08&g=2025-01-08) van dit mandaatbesluit. De functionarissen bij wie in kolom 2 de letter B is geplaatst, zijn, onverminderd artikel 4 van dit besluit bevoegd tot uitoefening van alle bevoegdheden die in of krachtens de CAO Rijk aan de leidinggevende zijn toegekend, met uitzondering van de bevoegdheden tot het aangaan van een arbeidsovereenkomst, bevorderen naar een hogere salarisschaal, het opleggen van disciplinaire straffen en ordemaatregelen en beëindigen van een arbeidsovereenkomst alsmede het nemen van besluiten over de toekenning van een persoonsgebonden dienstauto.
 
 |   | kolom 1 | kolom 2 |
 | --- | --- | --- |
@@ -107,7 +107,7 @@ De functionarissen bij wie in kolom 2 de letter A is geplaatst, zijn, onverminde
 | 1.2 | afdelingshoofd Uitvoering | A |
 | 1.2.1 | teamleider | B |
 
-## Bijlage 2. behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050655&artikel=3&z=2025-01-08&g=2025-01-01) van het Mandaatbesluit DISA Ministerie van Justitie en Veiligheid 2025
+## Bijlage 2. behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050655&artikel=3&z=2025-01-08&g=2025-01-08) van het Mandaatbesluit DISA Ministerie van Justitie en Veiligheid 2025
 
 De functionarissen genoemd in kolom 1 zijn bevoegd in overeenstemming met [artikel 3.3, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=3.3), tot het aangaan van verplichtingen en het doen van uitgaven.
 
@@ -124,7 +124,7 @@ Indien in kolom 2 geen bedrag is opgenomen, geldt geen maximumbedrag.
 | 1.2 | afdelingshoofd Uitvoering | € 100.000 |
 | 1.2.1 | teamleider | € 50.000 |
 
-## Bijlage 3. behorend bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050655&artikel=4&z=2025-01-08&g=2025-01-01) van het Mandaatbesluit DISA Ministerie van Justitie en Veiligheid 2025
+## Bijlage 3. behorend bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050655&artikel=4&z=2025-01-08&g=2025-01-08) van het Mandaatbesluit DISA Ministerie van Justitie en Veiligheid 2025
 
 **Kolom 2 werkveld:**
 
@@ -143,4 +143,4 @@ Daar waar in de kolom 2 geen X staat, is de functionaris voor die taken niet aan
 | 1.2.1.1 | medewerker behandelen en ontwikkelen | x |
 | 1.2.1.2 | medewerker verwerken en behandelen | x |
 
-Dit besluit zal met de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0050655&bijlage=1&z=2025-01-08&g=2025-01-01) in de Staatscourant worden geplaatst.
+Dit besluit zal met de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0050655&bijlage=1&z=2025-01-08&g=2025-01-08) in de Staatscourant worden geplaatst.
