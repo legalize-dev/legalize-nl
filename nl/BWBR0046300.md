@@ -4,7 +4,7 @@ identifier: "BWBR0046300"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-01-10"
-last_updated: "2025-01-01"
+last_updated: "2025-01-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046300"
 soort: "zbo"
@@ -43,17 +43,17 @@ Gelet op [artikel 68 van de Wet marktordening gezondheidszorg](https://wetten.ov
 
 In deze regeling wordt, tenzij anders vermeld, verstaan onder:
 
-- **Bedrijfsvoering:** de besturing en beheersing van bedrijfsprocessen door de zorgaanbieder.
+- **bedrijfsvoering:** de besturing en beheersing van bedrijfsprocessen door de zorgaanbieder.
 
-- **Boekjaar:** kalenderjaar waarop de jaarverantwoording betrekking heeft.
+- **boekjaar:** kalenderjaar waarop de jaarverantwoording betrekking heeft.
 
 - **CIBG:** uitvoeringsorganisatie die valt onder verantwoordelijkheid van het Ministerie van Volksgezondheid, Welzijn en Sport.
 
 - **IGJ:** Inspectie Gezondheidszorg en Jeugd.
 
-- **Gegevens en inlichtingen:** gegevens en inlichtingen betreffende de bedrijfsvoering van zorgaanbieders, waaronder financiële gegevens en inlichtingen.
+- **gegevens en inlichtingen:** gegevens en inlichtingen betreffende de bedrijfsvoering van zorgaanbieders, waaronder financiële gegevens en inlichtingen.
 
-- **Jaarverantwoording:** de jaarverantwoording als bedoeld in [artikel 40b, tweede lid van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40b).
+- **jaarverantwoording:** de jaarverantwoording als bedoeld in [artikel 40b, tweede lid van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40b).
 
 - **NZa:** Nederlandse Zorgautoriteit.
 
@@ -69,9 +69,13 @@ Deze nadere regel schrijft voor welke gegevens en inlichtingen zorgaanbieders ja
 
 ##### Artikel 3. Reikwijdte
 
-3.1. Deze nadere regel is van toepassing op zorgaanbieders, bedoeld in [artikel 1, aanhef en onderdeel c, onder 1 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1) en die op grond van het bepaalde bij of krachtens [artikel 40b van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40b), gehouden zijn zich te verantwoorden door het openbaar maken van een jaarverantwoording.
+3.1. Deze nadere regel is van toepassing op zorgaanbieders, bedoeld in [artikel 1, aanhef en onderdeel c van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1) en die op grond van het bepaalde bij of krachtens [artikel 40b van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40b), gehouden zijn zich te verantwoorden door het openbaar maken van een jaarverantwoording.
 
-3.2. Deze nadere regel is niet van toepassing op zorgaanbieders genoemd in [artikel 5a van het Besluit uitbreiding en beperking werkingssfeer Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020326&artikel=5a).
+3.2. Deze nadere regel is tevens van toepassing op geen rechtspersoonlijkheid bezittende organisatorische verbanden van zorgaanbieders.
+
+3.3. Deze nadere regel is niet van toepassing op zorgaanbieders genoemd in [artikel 5a van het Besluit uitbreiding en beperking werkingssfeer Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020326&artikel=5a).
+
+3.4. Deze nadere regel is tevens niet van toepassing op micro zorgaanbieders, bedoeld in [artikel 40b, vijfde lid, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40b).
 
 ##### Artikel 4. De te verstrekken gegevens en inlichtingen
 
@@ -109,165 +113,64 @@ Deze regeling wordt aangehaald als: Regeling structurele informatieverstrekking 
 
 **Ondertekening**
 
-## Bijlage. – VRAGENLIJST
+## Bijlage
 
-Vraag 1
+Vragen ten behoeve van de taakuitvoering van de NZa voor kleine, middelgrote en grote zorgaanbieders
 
-Deze vraag is van toepassing op: alle zorgaanbieders
+### Vraag 1 – Aantallen zorgverleners en niet-zorgverleners
 
-|   | Aantal fte 1/1 (A) | Instroom aantal fte’s (B) | Uitstroom aantal fte’s (C) | Aantal fte 31/12 (D) |
-| --- | --- | --- | --- | --- |
-| Zorgverleners in loondienst | Automatisch overgenomen van vorig jaar | Invulveld | Invulveld | Automatische telling A+B-C |
-| Overig personeel in loondienst | Automatisch overgenomen van vorig jaar | Invulveld | Invulveld | Automatische telling A+B-C |
-| Totaal | Automatische telling kolom A | Automatische telling kolom B | Automatische telling kolom C | Automatische telling kolom D |
-
-Vraag 2
-
-Deze vraag is van toepassing op: alle zorgaanbieders
-
-| Gemiddelde fte (i) personeel en inhuur zorgverleners | Antwoordopties |
-| --- | --- |
-| Gemiddelde aantal fte zorgverleners in loondienst | Gem. aantal fte |
-| Gemiddelde aantal fte ingehuurde zorgverleners (bijvoorbeeld via een detachering of via een uitzendbureau of ingehuurde zelfstandige zonder personeel) | Gem. aantal fte |
-
-Vraag 3
-
-Deze vraag is van toepassing op: alle zorgaanbieders
-
-|   | Zvw | Wlz | Wmo | Jeugdwet | Forensische zorg | Overige zorg |
-| --- | --- | --- | --- | --- | --- | --- |
-| Aan hoeveel **unieke patiënten/cliënten** heeft de zorgaanbieder in totaal, inclusief de patiënten/cliënten in onderaanneming, in het boekjaar zorg verleend (onderverdeeld naar financieringsstroom)? | Aantal | Aantal | Aantal | Aantal | Aantal | Aantal |
-
-Vraag 4
-
-Deze vraag is van toepassing op: alle zorgaanbieders
-
-| Contracten | Antwoordopties |
-| --- | --- |
-| Had u in het afgelopen boekjaar één of meer contracten(i) met: • Zorgverzekeraars(i)? • Zorgkantoren? • Gemeenten? | Ja/nee per bullet |
-
-Vraag 5
-
-Deze vraag is van toepassing indien bij vraag 3b, van bijlage 4, van de Openbare jaarverantwoording Wmg “geheel of gedeeltelijk” wordt ingevuld bij vragen over hoofd-/onderaannemer.
-
-| Handelsregisternummers van hoofd- en onderaannemers | Antwoordopties |
-| --- | --- |
-| Wat zijn de handelsregisternummers (KvK) van alle onderaannemers die in het afgelopen boekjaar werkzaamheden voor de zorgaanbieder hebben verricht (exclusief de zelfstandige zonder personeel)? | <nummer 1> |
-| Wat zijn de handelsregisternummers (KvK) van alle onderaannemers die in het afgelopen boekjaar werkzaamheden voor de zorgaanbieder hebben verricht (exclusief de zelfstandige zonder personeel)? | <nummer 2> |
-| Wat zijn de handelsregisternummers (KvK) van alle onderaannemers die in het afgelopen boekjaar werkzaamheden voor de zorgaanbieder hebben verricht (exclusief de zelfstandige zonder personeel)? | <etc.> |
-| Wat zijn de handelsregisternummers (KvK) van alle hoofdaannemers waarvoor de zorgaanbieder (als onderaannemer) in het afgelopen boekjaar werkzaamheden heeft verricht? | <nummer 1> |
-| Wat zijn de handelsregisternummers (KvK) van alle hoofdaannemers waarvoor de zorgaanbieder (als onderaannemer) in het afgelopen boekjaar werkzaamheden heeft verricht? | <nummer 2> |
-| Wat zijn de handelsregisternummers (KvK) van alle hoofdaannemers waarvoor de zorgaanbieder (als onderaannemer) in het afgelopen boekjaar werkzaamheden heeft verricht? | <etc.> |
-
-Vraag 6
+### 1.1. In- en uitstroom personeel in loondienst
 
 Deze vraag is:
 
-- •. Niet van toepassing op eenmanszaken
-
-- •. Van toepassing op overige categorieën zorgaanbieders
-
-- •. indien uit vraag 1, van bijlage 4, van de Openbare jaarverantwoording Wmg blijkt dat aanbieder onderdeel is van een groep.
-
-| Diensten van andere rechtspersonen binnen een groepsstructuur | Antwoordopties |
-| --- | --- |
-| Maakt u ten behoeve van het verlenen van zorg gebruik van diensten van andere rechtspersonen binnen de structuur? | Ja/Nee |
-| • **Alleen indien ‘ja’ verschijnt de volgende vraag:** |   |
-| • Wat is de reden hiervoor? | Open veld |
-|   |   |
-| Heeft er een wijziging plaatsgevonden in de structuur van de onderneming in het afgelopen boekjaar? | Ja/Nee |
-| • **Alleen indien ‘ja’ verschijnt de volgende vraag:** |   |
-| • Wat is gewijzigd en wat is de reden hiervoor? | Open veld |
-
-Vraag 7
+### 1.2. Zorgverleners en ingehuurde zorgverleners
 
 Deze vraag is:
 
-- •. Niet van toepassing op eenmanszaken
-
-- •. Van toepassing op overige categorieën zorgaanbieders
-
-- •. Vervolgvragen alleen relevant als er sprake is van verbonden partijen
-
-| Gegevens verbonden partijen | Antwoordopties |
-| --- | --- |
-| Is er sprake van verbonden partijen(i)? | Ja/Nee |
-| • **Alleen indien ‘ja’ verschijnen de volgende vragen:** |   |
-| • Vul onderstaande tabel in per verbonden partij: ○ Handelsregisternummer (KvK) verbonden partij | <nummer 1> < nummer 2> < etc > |
-| • Heeft/hebben er transactie(s) met verbonden partijen plaatsgevonden onder niet-zakelijke condities (i) het afgelopen boekjaar? | Ja/nee |
-
-Vraag 8
-
-Deze vraag is uitsluitend van toepassing op besloten en naamloze vennootschappen.
-
-| Dividenduitkering | Antwoordopties |
-| --- | --- |
-| Heeft de zorgaanbieder in het afgelopen boekjaar dividend uitgekeerd? | Ja/nee |
-| • **Alleen indien ‘ja’ verschijnt de volgende vraag:** |   |
-| • Hoeveel dividend is uitgekeerd? | Invulveld |
-
-Vraag 9
+### 1.3. Personeelskosten uit jaarrekening
 
 Deze vraag is:
 
-- •. Niet van toepassing op eenmanszaken
+Deze vraag is:
 
-- •. Van toepassing op overige categorieën zorgaanbieders
+Deze vraag is van toepassing op personenvennootschappen die model D en model F van bijlage 2 van de Regeling openbare jaarverantwoording WMG hebben ingevuld.
 
-| Overeenkomsten met de banken | Antwoordopties (i) |
-| --- | --- |
-| Voldoet u in het kader van uw financiering aan de met de bank overeengekomen ratio's (i)? | Ja/nee/niet van toepassing |
+### Vraag 2 – Aantallen unieke patiënten/cliënten
 
-Vraag 10
+### 2.1. Unieke patiënten/cliënten
 
 Deze vraag is:
 
-- •. Van toepassing op zorgaanbieders ‘klein’ die model B bijlage 1, van de openbare jaarverantwoording, hebben ingevuld.
-
-- •. Niet van toepassing op eenmanszaken
-
-| Zorgopbrengsten per financieringsstroom | Antwoordopties |
-| --- | --- |
-| Totale zorgopbrengsten uitgesplitst naar financieringsstroom: – Zorgverzekeringswet – Wet langdurige zorg – Wet maatschappelijke ondersteuning (Wmo) – Jeugdwet – Forensische zorg – Overige zorgopbrengsten | Invulvelden voor Zvw, Wlz, Wmo, Jeugdwet, Forensische zorg en overige zorgopbrengsten |
-
-Vraag 11
+### 2.2. Persoonsgebonden budget (PGB)
 
 Deze vraag is:
 
-- •. Van toepassing op zorgaanbieders ‘middelgroot en groot’ die model D bijlage 1 en Personenvennootschappen die bijlage 2 van de openbare jaarverantwoording, hebben ingevuld.
+### Vraag 3 – Informatie over de bedrijfsvoering
 
-- •. Niet van toepassing voor eenmanszaken
-
-| Zorgopbrengsten per financieringsstroom | Antwoordopties |
-| --- | --- |
-| Totale zorgopbrengsten uitgesplitst naar financieringsstroom: – Wet maatschappelijke ondersteuning (Wmo) – Jeugdwet | Invulvelden voor Wmo, Jeugdwet |
-
-Vraag 12
+### 3.1. Handelsregisternummers van hoofd- of onderaannemer
 
 Deze vraag is:
 
-- •. Niet van toepassing op eenmanszaken
+### 3.2. Contracten
 
-- •. Van toepassing op overige categorieën zorgaanbieders
+Deze vraag is:
 
-| Gemiddelde aantal werknemers | Antwoordopties |
-| --- | --- |
-| Gemiddeld aantal werknemers over het boekjaar | Aantal (invulveld) |
+### 3.3. Leningen
 
-Vraag 13
+Deze vraag is:
 
-Deze vraag is van toepassing op zorgaanbieders in de wijkverpleging en de Wet langdurige zorg.
+### 3.4. Dividenduitkering
 
-| Aantal cliënten/patiënten | Antwoordopties |
-| --- | --- |
-| **Aantal cliënten/patiënten** dat zorg bij u inkoopt op basis van persoonsgebonden budget **Zvw** op einde boekjaar | Aantal (invulveld) / niet van toepassing |
-| **Aantal cliënten/patiënten** dat zorg bij u inkoopt op basis van persoonsgebonden budget **Wlz** op einde boekjaar | Aantal (invulveld) / niet van toepassing |
+Deze vraag is:
 
-Vraag 14
+### 3.5. Groepsstructuur
 
-- •. **Enkel op vrijwillige basis:** van toepassing op zorgaanbieders die niet op grond van de [Regeling openbare jaarverantwoording WMG](https://wetten.overheid.nl/jci1.3:c:BWBR0045649) een accountantsverklaring moeten overleggen.
+Deze vraag is:
 
-| Accountantsverklaring | Antwoordopties |
-| --- | --- |
-| Heeft de zorgaanbieder een accountantsverklaring over het afgelopen boekjaar? | Ja/Nee |
-| **De zorgaanbieder wordt verzocht de verklaring te uploaden** | **De zorgaanbieder wordt verzocht de verklaring te uploaden** |
+### 3.6. Verbonden partijen
+
+Deze vraag is:
+
+### 3.7. Zorgopbrengsten per financieringsstroom
+
+Deze vraag is:
