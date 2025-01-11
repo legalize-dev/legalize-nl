@@ -4,7 +4,7 @@ identifier: "BWBR0050654"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-01-11"
-last_updated: "2025-01-01"
+last_updated: "2025-01-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050654"
 soort: "zbo"
@@ -49,13 +49,13 @@ In deze regeling wordt verstaan onder:
 
 - d. **Cliëntaangelegenheden:** alle onderwerpen, bezien vanuit het cliëntperspectief, die de vorming, de uitvoering, de controle en de evaluatie van de taken van het CAK betreffen daaronder begrepen een beleidsregel in de zin van [artikel 1:3, vierde lid van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3), met uitzondering van klachten en bezwaarschriften die betrekking hebben op zaken van individuele cliënten, tenzij het gaat om het algemene karakter van de daarbij gehanteerde procedures en regelingen;
 
-- e. **Cliëntenraad:** de cliëntenraad van het CAK, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050654&hoofdstuk=1&artikel=2&z=2025-01-11&g=2025-01-01).
+- e. **Cliëntenraad:** de cliëntenraad van het CAK, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050654&hoofdstuk=1&artikel=2&z=2025-01-11&g=2025-01-11).
 
 - f. **De voorzitter:** de voorzitter van de cliëntenraad
 
 ##### Artikel 2. Instelling cliëntenparticipatie
 
-1. De Raad van Bestuur voorziet in de instelling van een cliëntenraad met de in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050654&hoofdstuk=3&z=2025-01-11&g=2025-01-01) genoemde taken en bevoegdheden. De samenstelling van de cliëntenraad en de benoeming van zijn leden vinden plaats overeenkomstig de bepalingen van deze regeling.
+1. De Raad van Bestuur voorziet in de instelling van een cliëntenraad met de in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050654&hoofdstuk=3&z=2025-01-11&g=2025-01-11) genoemde taken en bevoegdheden. De samenstelling van de cliëntenraad en de benoeming van zijn leden vinden plaats overeenkomstig de bepalingen van deze regeling.
 
 2. Op de wijze waarop de cliëntenraad zijn taken en bevoegdheden uitoefent alsmede de wijze waarop de cliëntenraad wordt voorzien van al hetgeen redelijkerwijs nodig is voor de vervulling van zijn taken, is deze regeling van toepassing.
 
@@ -91,7 +91,7 @@ Voormalige of huidige cliënten van het CAK, of hun vertegenwoordigers kunnen in
 
 - c. op verzoek van de meerderheid van de cliëntenraad of de Raad van Bestuur op grond van het oordeel dat de goede gang van zaken bij de werkzaamheden van de cliëntenraad door toedoen van de voorzitter wordt belemmerd.
 
-3. Benoeming wegens een tussentijdse vervanging vindt plaats met inachtneming van de bepalingen van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050654&hoofdstuk=2&artikel=3&z=2025-01-11&g=2025-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0050654&hoofdstuk=2&artikel=4&z=2025-01-11&g=2025-01-01).
+3. Benoeming wegens een tussentijdse vervanging vindt plaats met inachtneming van de bepalingen van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050654&hoofdstuk=2&artikel=3&z=2025-01-11&g=2025-01-11) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0050654&hoofdstuk=2&artikel=4&z=2025-01-11&g=2025-01-11).
 
 4. Vervanging vanwege de in de onderdelen c van het eerste en het tweede lid genoemde reden vindt niet plaats dan na hoor en wederhoor door of namens de Raad van Bestuur. Deze reden kan ook worden gevormd door een al dan niet door overmacht veroorzaakt verzuim van de helft of meer van het aantal vergaderingen per jaar van de Cliëntenraad.
 
@@ -135,7 +135,7 @@ De cliëntenraad overlegt met de Raad van Bestuur en heeft tot taak het CAK gevr
 
 1. De cliëntenraad kan tot een uit te brengen schriftelijk advies slechts besluiten in een vergadering waarin ten minste de helft van het aantal leden aanwezig is.
 
-2. Behoudens het bepaalde in het tweede lid van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0050654&hoofdstuk=5&artikel=12&z=2025-01-11&g=2025-01-01) adviseert de cliëntenraad binnen vier weken na dagtekening van het verzoek daartoe.
+2. Behoudens het bepaalde in het tweede lid van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0050654&hoofdstuk=5&artikel=12&z=2025-01-11&g=2025-01-11) adviseert de cliëntenraad binnen vier weken na dagtekening van het verzoek daartoe.
 
 3. De cliëntenraad kan uit haar midden werkgroepen of commissies benoemen die een advies voorbereiden.
 
@@ -147,7 +147,7 @@ De cliëntenraad overlegt met de Raad van Bestuur en heeft tot taak het CAK gevr
 
 ##### Artikel 12. Overleg cliëntenraad
 
-1. Het overleg, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050654&hoofdstuk=3&artikel=6&z=2025-01-11&g=2025-01-01) vindt ten minste vier keer per jaar in een vergadering plaats. Leden zijn in beginsel verplicht om de vergadering bij te wonen.
+1. Het overleg, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050654&hoofdstuk=3&artikel=6&z=2025-01-11&g=2025-01-11) vindt ten minste vier keer per jaar in een vergadering plaats. Leden zijn in beginsel verplicht om de vergadering bij te wonen.
 
 2. Bij spoedeisende adviezen over belangrijke besluiten vinden binnen een door de Raad van Bestuur te stellen termijn tussentijds overleg en advisering plaats.
 
