@@ -4,7 +4,7 @@ identifier: "BWBR0045051"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-03"
-last_updated: "2025-01-11"
+last_updated: "2025-01-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045051"
 soort: "ministeriele-regeling"
@@ -66,9 +66,9 @@ Dit hoofdstuk berust op verordening (EU) 2016/429 van het Europees Parlement en 
 
 2. Het eerste lid is alleen van toepassing in het grondgebied van de provincies:
 
-- a. Gelderland, met uitzondering van het gebied, aangeduid op kaart 1 in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&bijlage=1&z=2025-01-11&g=2025-01-11);
+- a. Gelderland, met uitzondering van het gebied, aangeduid op kaart 1 in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&bijlage=1&z=2025-01-15&g=2025-01-15);
 
-- b. Limburg, met uitzondering van de gebieden, aangeduid op kaart 2 in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&bijlage=1&z=2025-01-11&g=2025-01-11);
+- b. Limburg, met uitzondering van de gebieden, aangeduid op kaart 2 in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&bijlage=1&z=2025-01-15&g=2025-01-15);
 
 - c. Noord-Brabant; en
 
@@ -116,7 +116,7 @@ Dit hoofdstuk berust op:
 
 ##### Artikel 3.3
 
-De [artikelen 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.3&artikel=3.6&z=2025-01-11&g=2025-01-11), [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.3&artikel=3.7&z=2025-01-11&g=2025-01-11), [3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.8&z=2025-01-11&g=2025-01-11), [3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.10&z=2025-01-11&g=2025-01-11) en [3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.11&z=2025-01-11&g=2025-01-11) zijn niet van toepassing op slachthuizen, vervoermiddelen, quarantainevoorzieningen, quarantainestations, grenscontroleposten en laboratoria die met officiële toestemming aviaire influenzavirussen bewaren.
+De [artikelen 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.3&artikel=3.6&z=2025-01-15&g=2025-01-15), [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.3&artikel=3.7&z=2025-01-15&g=2025-01-15), [3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.8&z=2025-01-15&g=2025-01-15), [3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.10&z=2025-01-15&g=2025-01-15) en [3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.11&z=2025-01-15&g=2025-01-15) zijn niet van toepassing op slachthuizen, vervoermiddelen, quarantainevoorzieningen, quarantainestations, grenscontroleposten en laboratoria die met officiële toestemming aviaire influenzavirussen bewaren.
 
 #### § 3.2. Algemene maatregelen
 
@@ -162,11 +162,11 @@ Een exploitant van commercieel gehouden eenden dekt de op zijn inrichting aanwez
 
 ##### Artikel 3.9. Afwijking bezoekverbod dierentuinen
 
-In afwijking van [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.8&z=2025-01-11&g=2025-01-11) is het toegestaan een vogelverblijfplaats van een dierentuin te betreden.
+In afwijking van [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.8&z=2025-01-15&g=2025-01-15) is het toegestaan een vogelverblijfplaats van een dierentuin te betreden.
 
 ##### Artikel 3.10. Bezoekverbod commerciële inrichting
 
-1. Onverminderd [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.8&z=2025-01-11&g=2025-01-11) is het bezoekers verboden een inrichting te betreden waar vogels commercieel worden gehouden.
+1. Onverminderd [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.8&z=2025-01-15&g=2025-01-15) is het bezoekers verboden een inrichting te betreden waar vogels commercieel worden gehouden.
 
 2. In afwijking van het eerste lid is het betreden van een inrichting als bedoeld in het eerste lid toegestaan, indien:
 
@@ -358,19 +358,19 @@ Dit hoofdstuk berust op [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci
 
 ##### Artikel 6.3. Reiniging en ontsmetting van voertuigen uit het buitenland
 
-1. Een vervoermiddel waarmee een of meer evenhoevigen, pluimvee of broedeieren in Nederland worden gebracht, afkomstig uit een lidstaat waar een uitbraak van een besmettelijke dierziekte, genoemd in [artikel 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=6&artikel=6.4&z=2025-01-11&g=2025-01-11) is bevestigd, of afkomstig uit een derde land, dat wordt gelost op een inrichting die niet beschikt over een ingevolge [artikel 2.10c van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.10c) erkende reinigings- en ontsmettingsplaats, wordt in voorkomend geval na reiniging en ontsmetting als bedoeld in [artikel 2.10b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.10b) onmiddellijk vervoerd naar een ingevolge artikel 2.10c van het besluit erkende reinigings- en ontsmettingsplaats, een slachthuis, een verzamelcentrum of een broederij, om aldaar te worden gereinigd en ontsmet.
+1. Een vervoermiddel waarmee een of meer evenhoevigen, pluimvee of broedeieren in Nederland worden gebracht, afkomstig uit een lidstaat waar een uitbraak van een besmettelijke dierziekte, genoemd in [artikel 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=6&artikel=6.4&z=2025-01-15&g=2025-01-15) is bevestigd, of afkomstig uit een derde land, dat wordt gelost op een inrichting die niet beschikt over een ingevolge [artikel 2.10c van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.10c) erkende reinigings- en ontsmettingsplaats, wordt in voorkomend geval na reiniging en ontsmetting als bedoeld in [artikel 2.10b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.10b) onmiddellijk vervoerd naar een ingevolge artikel 2.10c van het besluit erkende reinigings- en ontsmettingsplaats, een slachthuis, een verzamelcentrum of een broederij, om aldaar te worden gereinigd en ontsmet.
 
-2. Een vervoermiddel dat kennelijk is gebruikt voor het vervoeren van evenhoevigen, pluimvee of broedeieren in een lidstaat waar een uitbraak van een besmettelijke dierziekte, genoemd in [artikel 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=6&artikel=6.4&z=2025-01-11&g=2025-01-11) is bevestigd, of in derde landen, en dat vanuit deze lidstaat of derde landen, anders dan in doorvoer leeg in Nederland wordt gebracht, wordt onmiddellijk gereinigd en ontsmet op een ingevolge [artikel 2.10c van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.10c) erkende reiniging- en ontsmettingsplaats, een slachthuis, een verzamelcentrum of een broederij.
+2. Een vervoermiddel dat kennelijk is gebruikt voor het vervoeren van evenhoevigen, pluimvee of broedeieren in een lidstaat waar een uitbraak van een besmettelijke dierziekte, genoemd in [artikel 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=6&artikel=6.4&z=2025-01-15&g=2025-01-15) is bevestigd, of in derde landen, en dat vanuit deze lidstaat of derde landen, anders dan in doorvoer leeg in Nederland wordt gebracht, wordt onmiddellijk gereinigd en ontsmet op een ingevolge [artikel 2.10c van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.10c) erkende reiniging- en ontsmettingsplaats, een slachthuis, een verzamelcentrum of een broederij.
 
 3. De exploitant van het vervoermiddel, bedoeld in het eerste of tweede lid, overlegt binnen 24 uur na binnenkomst in Nederland aan de Minister een bewijs van de reiniging en ontsmetting als bedoeld in [artikel 2.10d, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.10d).
 
 4. Wanneer het vervoermiddel, bedoeld in het eerste of tweede lid, afkomstig is uit een lidstaat, meldt de exploitant aan de Minister in aanvulling op het derde lid binnen 24 uur na binnenkomst in Nederland het nummer van het gezondheidscertificaat, bedoeld in artikel 143 van [verordening (EU) nr. 2016/429](32329R2016), dat het meest recentelijk is afgegeven.
 
-5. Het eerste, tweede, derde en vierde lid zijn van overeenkomstige toepassing op een vervoermiddel dat afkomstig is uit een lidstaat, of gebied van een lidstaat, waar een besmettelijke dierziekte, genoemd in [artikel 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=6&artikel=6.4&z=2025-01-11&g=2025-01-11), bij een in het wild levend dier is bevestigd, indien die lidstaat, of dat gebied van die lidstaat, is aangewezen in [artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=6&artikel=6.5&z=2025-01-11&g=2025-01-11).
+5. Het eerste, tweede, derde en vierde lid zijn van overeenkomstige toepassing op een vervoermiddel dat afkomstig is uit een lidstaat, of gebied van een lidstaat, waar een besmettelijke dierziekte, genoemd in [artikel 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=6&artikel=6.4&z=2025-01-15&g=2025-01-15), bij een in het wild levend dier is bevestigd, indien die lidstaat, of dat gebied van die lidstaat, is aangewezen in [artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=6&artikel=6.5&z=2025-01-15&g=2025-01-15).
 
 ##### Artikel 6.4. Besmettelijke dierziekten reiniging en ontsmetting vervoermiddelen afkomstig uit het buitenland
 
-De besmettelijke dierziekte, bedoeld in [artikel 6.3, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=6&artikel=6.3&z=2025-01-11&g=2025-01-11), zijn:
+De besmettelijke dierziekte, bedoeld in [artikel 6.3, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=6&artikel=6.3&z=2025-01-15&g=2025-01-15), zijn:
 
 - a. voor evenhoevigen:
 
@@ -398,7 +398,7 @@ De besmettelijke dierziekte, bedoeld in [artikel 6.3, eerste, tweede en vijfde l
 
 ##### Artikel 6.5. Aanwijzing lidstaten met besmettingen bij wilde dieren waarvoor reiniging en ontsmetting is verplicht
 
-Als lidstaten of gebieden daarvan als bedoeld in [artikel 6.3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=6&artikel=6.3&z=2025-01-11&g=2025-01-11), zijn aangewezen:
+Als lidstaten of gebieden daarvan als bedoeld in [artikel 6.3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=6&artikel=6.3&z=2025-01-15&g=2025-01-15), zijn aangewezen:
 
 - –. geen.
 
@@ -768,7 +768,7 @@ Lijst van gebieden die zijn aangewezen als beperkingszone I (Extra beperkingszon
 
 ### Enige bepaling
 
-Gebieden als bedoeld in [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=2&paragraaf=2.2&artikel=2.2&z=2025-01-11&g=2025-01-11)
+Gebieden als bedoeld in [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=2&paragraaf=2.2&artikel=2.2&z=2025-01-15&g=2025-01-15)
 
 ### Deel III
 
@@ -782,7 +782,7 @@ Lijst van gebieden die zijn aangewezen als beperkingszone III (Beperkingszones)
 
 ### Regio 20
 
-## Bijlage 1b. Regio’s als bedoeld in [artikel 3.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2025-01-11&g=2025-01-11)
+## Bijlage 1b. Regio’s als bedoeld in [artikel 3.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2025-01-15&g=2025-01-15)
 
 - 1. Vanaf de kruising van de A27 met het Eemmeer, het Eemmeer volgend in oostelijke richting overgaand in de Nijkerkernauw, overgaand in de Nuldernauw, overgaand in de Wolderwijd, overgaand in het Veluwemeer, overgaand in het Drontermeer overgaand in het Vossemeer tot aan de rivier de IJssel
 
@@ -1022,31 +1022,57 @@ In dit hoofdstuk wordt verstaan onder:
 
 - –. **verblijfplaats:** terrein of gebouw, met uitzondering van woonruimten, waar vleeskalveren aanwezig zijn of gewoonlijk worden gehouden en aanverwante ruimtes waar materiaal ten behoeve van vleeskalveren is opgeslagen of gewoonlijk wordt opgeslagen;
 
-- –. **vleeskalf:** rund, behorend tot de soort Bos primigenius taurus, van ten hoogste zes maanden, dat kennelijk wordt opgefokt tot een rund bestemd om met het oog op de vleesproductie te worden geslacht op een leeftijd van ten hoogste acht maanden.
+- –. **vleeskalf:** rund, behorend tot de soort Bos primigenius taurus, van ten hoogste zes maanden, dat kennelijk wordt opgefokt tot een rund bestemd om met het oog op de vleesproductie te worden geslacht op een leeftijd van ten hoogste twaalf maanden;
+
+- –. **vleeskalverhouderij:** een inrichting die voldoet aan de volgende voorwaarden:
+
+- a. de vleeskalveren zijn permanent in een stal gehuisvest;
+
+- b. op de inrichting worden geen zuivelproducten voor consumptie geproduceerd;
+
+- c. de vleeskalveren worden uitsluitend afgevoerd naar:
+
+- 1°. een slachthuis;
+
+- 2°. een bestemming buiten Nederland; of
+
+- 3°. een inrichting die voldoet aan de onderdelen a en b en dit onderdeel, aanhef, onder 1° of 2°.
 
 #### § 8.2. Maatregelen vleeskalveren
 
 ##### Artikel 8.3. Afvoerverbod
 
-1. Het is verboden vleeskalveren af te voeren van een inrichting.
+1. Het is verboden vleeskalveren af te voeren van een vleeskalverhouderij.
 
 2. Het verbod, bedoeld in het eerste lid, is niet van toepassing op de rechtstreekse afvoer van vleeskalveren naar een slachthuis, indien de afvoer plaatsvindt overeenkomstig een hygiëneprotocol.
 
-##### Artikel 8.4. Bezoekersverbod
+##### Artikel 8.4. Bezoekverbod
 
-1. Het is bezoekers verboden een verblijfplaats van vleeskalveren die onderdeel is van een inrichting of een niet deugdelijk fysiek van die verblijfplaats afgescheiden woonruimte of een ander deel van een inrichting te betreden.
+1. Het is bezoekers verboden een verblijfplaats van vleeskalveren die onderdeel is van een vleeskalverhouderij of een niet deugdelijk fysiek van die verblijfplaats afgescheiden woonruimte of een ander deel van een vleeskalverhouderij te betreden.
 
-2. In afwijking van het eerste lid is het toegestaan een verblijfplaats te betreden, indien:
+2. Het verbod, bedoeld in het eerste lid, is niet van toepassing indien:
 
-- a. er geen vleeskalveren in de verblijfplaats aanwezig zijn;
+- a. het bezoek noodzakelijk is in het kader van volksgezondheid, diergezondheid, dierenwelzijn, gezondheid van aanwezige personen, toezicht als bedoeld in [artikel 5:15 van de Algemene Wet Bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15) of opsporing als bedoeld in het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) en de [Wet economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063);
 
-- b. sprake is van een acute noodsituatie die het betreden noodzaakt; of
+- b. het bezoek plaatsvindt overeenkomstig een hygiëneprotocol; en
 
-- c. het bezoek plaatsvindt overeenkomstig een hygiëneprotocol en de bezoeker, indien die geen onderdeel uitmaakt van het personeel van de inrichting waarvan de verblijfplaats onderdeel uitmaakt, zich registreert.
+- c. de bezoeker het bezoek registreert.
 
-3. Het is een exploitant van vleeskalveren verboden om een bezoeker toe te laten tot de in het eerste lid bedoelde ruimtes, tenzij het bezoek op grond van het tweede lid is toegestaan.
+3. In afwijking van het tweede lid zijn de onderdelen b en c van dat lid niet van toepassing, indien een acute noodsituatie zich tegen toepassing van die onderdelen verzet.
 
-4. Het eerste tot en met derde lid zijn van overeenkomstige toepassing op het vervoermiddel van een bezoeker.
+4. Het verbod, bedoeld in het eerste lid, is niet van toepassing:
+
+- a. op het personeel van de desbetreffende vleeskalverhouderij;
+
+- b. het bezoek plaatsvindt overeenkomstig een hygiëneprotocol; en
+
+- c. de bezoeker in de 72 uren voorafgaand aan het bezoek geen andere vleeskalverhouderij heeft bezocht.
+
+5. Het is een exploitant van vleeskalveren verboden om een bezoeker toe te laten tot de in het eerste lid bedoelde ruimtes.
+
+6. Het verbod, bedoeld in het vijfde lid, is niet van toepassing indien is voldaan aan het tweede, al dan niet in samenhang met het derde lid, of aan het vierde lid.
+
+7. Het eerste tot en met vijfde lid zijn van overeenkomstige toepassing op het vervoermiddel van een bezoeker.
 
 ### Hoofdstuk 9
 
@@ -1054,9 +1080,9 @@ In dit hoofdstuk wordt verstaan onder:
 
 ### Hoofdstuk 11. Slotbepalingen
 
-## Bijlage 1. behorende bij [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=2&paragraaf=2.2&artikel=2.2&z=2025-01-11&g=2025-01-11)
+## Bijlage 1. behorende bij [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=2&paragraaf=2.2&artikel=2.2&z=2025-01-15&g=2025-01-15)
 
-## Bijlage 1a. Beperkingszones I, II en III als bedoeld in [artikel 2.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=2&paragraaf=2.1&artikel=2.1a&z=2025-01-11&g=2025-01-11)
+## Bijlage 1a. Beperkingszones I, II en III als bedoeld in [artikel 2.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=2&paragraaf=2.1&artikel=2.1a&z=2025-01-15&g=2025-01-15)
 
 Lijst van gebieden die zijn aangewezen als beperkingszone II (Besmette zones)
 
@@ -1066,7 +1092,7 @@ Lijst van gebieden die zijn aangewezen als beperkingszone III (Beperkingszones)
 
 (gereserveerd)
 
-## Bijlage 2. Regio’s als bedoeld in [artikel 3.8, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.8&z=2025-01-11&g=2025-01-11)
+## Bijlage 2. Regio’s als bedoeld in [artikel 3.8, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.8&z=2025-01-15&g=2025-01-15)
 
 Vervallen
 
