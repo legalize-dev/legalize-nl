@@ -4,7 +4,7 @@ identifier: "BWBR0050667"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-22"
-last_updated: "2025-01-01"
+last_updated: "2025-01-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050667"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ Het doel van deze regeling is het stimuleren van het nemen of versnellen van kos
 
 ##### Artikel 4. Kosten die in aanmerking komen voor rijksbijdrage
 
-1. De minister kan op aanvraag een rijksbijdrage verstrekken voor de kosten van het uitvoeren van maatregelen die zijn opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&bijlage=1&z=2025-01-15&g=2025-01-01) bij deze regeling.
+1. De minister kan op aanvraag een rijksbijdrage verstrekken voor de kosten van het uitvoeren van maatregelen die zijn opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&bijlage=1&z=2025-01-15&g=2025-01-15) bij deze regeling.
 
 2. De volgende kosten komen voor de verstrekking van een rijksbijdrage in aanmerking:
 
@@ -88,7 +88,7 @@ Het doel van deze regeling is het stimuleren van het nemen of versnellen van kos
 
 ##### Artikel 5. Plafond, wijze van verdeling en bekendmaking aanvraagtijdvak
 
-1. Het rijksbijdrageplafond voor de jaren 2025–2030 bedraagt in totaal € 236.000.000,–. In [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&bijlage=2&z=2025-01-15&g=2025-01-01) bij deze regeling is voor elke aanvrager bepaald welk bedrag van de rijksbijdrage voor de aanvrager ten hoogste beschikbaar is.
+1. Het rijksbijdrageplafond voor de jaren 2025–2030 bedraagt in totaal € 236.000.000,–. In [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&bijlage=2&z=2025-01-15&g=2025-01-15) bij deze regeling is voor elke aanvrager bepaald welk bedrag van de rijksbijdrage voor de aanvrager ten hoogste beschikbaar is.
 
 2. De minister stelt per aanvraagtijdvak een plafond vast voor rijksbijdragen die op grond van deze regeling worden verstrekt. Een aanvraagtijdvak en het plafond worden uiterlijk zes weken voor aanvang ervan bekendgemaakt in de Staatscourant. Aanvraagtijdvakken vinden alleen plaats in het jaar 2025.
 
@@ -96,7 +96,7 @@ Het doel van deze regeling is het stimuleren van het nemen of versnellen van kos
 
 ##### Artikel 6. Hoogte van de rijksbijdrage
 
-De totale rijksbijdrage per subsidieverstrekking bedraagt ten hoogste 50% van de kosten, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&artikel=5&z=2025-01-15&g=2025-01-01), met een maximum per ontvanger zoals vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&bijlage=2&z=2025-01-15&g=2025-01-01) bij deze regeling.
+De totale rijksbijdrage per subsidieverstrekking bedraagt ten hoogste 50% van de kosten, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&artikel=5&z=2025-01-15&g=2025-01-15), met een maximum per ontvanger zoals vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&bijlage=2&z=2025-01-15&g=2025-01-15) bij deze regeling.
 
 ##### Artikel 7. Aanvraag tot verlening
 
@@ -136,13 +136,13 @@ De totale rijksbijdrage per subsidieverstrekking bedraagt ten hoogste 50% van de
 
 - d. en de periode waarvoor de rijksbijdrage wordt verleend.
 
-2. De minister wijst een aanvraag voor een rijksbijdrage af indien het plafond, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&artikel=5&z=2025-01-15&g=2025-01-01), in geval van honorering van de aanvraag zou worden overschreden.
+2. De minister wijst een aanvraag voor een rijksbijdrage af indien het plafond, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&artikel=5&z=2025-01-15&g=2025-01-15), in geval van honorering van de aanvraag zou worden overschreden.
 
 3. De minister kan een aanvraag voor een rijksbijdrage tevens afwijzen, indien de aanvrager naar zijn oordeel in het verleden aanwijsbaar onvoldoende inspanning heeft gepleegd om eerder toegekende maatregelen te realiseren.
 
 ##### Artikel 9. Bevoorschotting en betaling
 
-1. De minister keert bij het besluit tot verlening, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&artikel=8&z=2025-01-15&g=2025-01-01), een voorschot van 100% uit.
+1. De minister keert bij het besluit tot verlening, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&artikel=8&z=2025-01-15&g=2025-01-15), een voorschot van 100% uit.
 
 2. Het voorschot wordt uiterlijk zes weken na de dagtekening van het besluit tot verlening uitgekeerd.
 
@@ -164,7 +164,7 @@ Een rijksbijdrage ten laste van een begroting die nog niet is vastgesteld, wordt
 
 ##### Artikel 13. Vaststelling van de rijksbijdrage
 
-De minister stelt de rijksbijdrage vast op 31 december van het jaar waarin de laatste verantwoording, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&artikel=12&z=2025-01-15&g=2025-01-01), heeft plaatsgevonden.
+De minister stelt de rijksbijdrage vast op 31 december van het jaar waarin de laatste verantwoording, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&artikel=12&z=2025-01-15&g=2025-01-15), heeft plaatsgevonden.
 
 ##### Artikel 14. Evaluatieverslag
 
@@ -178,7 +178,7 @@ Deze regeling treedt in werking met ingang van 15 januari 2025 en werkt terug to
 
 Deze regeling wordt aangehaald als: Regeling stimulering verkeersveiligheidsmaatregelen 2025–2030.
 
-## Bijlage 1. bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&artikel=4&z=2025-01-15&g=2025-01-01)
+## Bijlage 1. bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&artikel=4&z=2025-01-15&g=2025-01-15)
 
 De volgende maatregelen komen voor de verstrekking van een rijksbijdrage in aanmerking.
 
@@ -196,7 +196,7 @@ De volgende maatregelen komen voor de verstrekking van een rijksbijdrage in aanm
 
 ### 100 km/uur wegen
 
-## Bijlage 2. bedoeld in de [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&artikel=5&z=2025-01-15&g=2025-01-01), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&artikel=6&z=2025-01-15&g=2025-01-01)
+## Bijlage 2. bedoeld in de [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&artikel=5&z=2025-01-15&g=2025-01-15), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&artikel=6&z=2025-01-15&g=2025-01-15)
 
 Op de volgende rijksbijdrage kan de aanvrager ten hoogste aanspraak maken gedurende de looptijd van deze regeling.
 
