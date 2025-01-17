@@ -4,7 +4,7 @@ identifier: "BWBR0049497"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-15"
-last_updated: "2025-01-15"
+last_updated: "2025-01-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049497"
 soort: "AMvB"
@@ -940,13 +940,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### 1. Bevoegde autoriteit in de zin van de verordening
 
-De Autoriteit Financiële Markten: ten aanzien van de artikelen 4 tot en met 15, 19, 27, 29, 51, 53, 59 tot en met 66, 68 tot en met 82 en 85 tot en met 92.
+De Nederlandsche Bank: ten aanzien van:
 
 De Nederlandsche Bank: ten aanzien van de artikelen 16 tot en met 18, 20 tot en met 27, 28, 30 tot en met 50, 52, 54 t/m 58, 67, 83 en 84.
 
-### 2. Handhaving door middel van last onder dwangsom of bestuurlijke boete
+### 3. Openbaarmaking overtredingen
 
-1 Indien in de kolom «boetecategorie» een bedrag staat, geldt een verhoogd boetemaximum, gelijk aan dat bedrag. Het basisbedrag is dan de helft van het verhoogde boetemaximum.
+De bevoegde autoriteit kan bij een overtreding van het bij of krachtens de verordening bepaalde de overtreding en de naam van de overtreder door middel van een openbare verklaring openbaar maken.
 
 De Autoriteit Financiële Markten: ten aanzien van de artikelen 4 tot en met 15, 19, 27, 29, 51, 53, 59 tot en met 66, 68 tot en met 82 en 85 tot en met 92.
 
@@ -960,7 +960,7 @@ De bevoegde autoriteit kan bij overtreding van de artikelen 59, 60, 64 tot en me
 
 ### 3. Ontzegging bevoegdheid om bepaalde functies uit te oefenen
 
-De bevoegde autoriteit kan bij overtreding van de artikelen 59, 60, 64 tot en met 83 en 88 tot en met 92 van de verordening aan de overtreder of, indien de overtreding is begaan door een rechtspersoon, de natuurlijke personen die tot de betrokken gedraging opdracht hebben gegeven of daaraan feitelijk leiding hebben gegeven, tijdelijk de bevoegdheid ontzeggen om het beleid te bepalen en leiding te geven bij een aanbieder van cryptoactivadiensten als bedoeld in artikel 3, eerste lid, onderdeel 15, van de verordening.
+De Nederlandsche Bank: ten aanzien van de artikelen 16 tot en met 18, 20 tot en met 27, 28, 30 tot en met 50, 52, 54 t/m 58, 67, 83 en 84.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
@@ -1092,13 +1092,13 @@ De bevoegde autoriteit kan bij een overtreding van het bij of krachtens de veror
 
 ### 1. Bevoegde autoriteit in de zin van de verordening
 
-## Bijlage 35. [Verordening (EU) 2023/2830](32023R2830) (veiling van broeikasgasemissierechten)
+## Bijlage 35. [Verordening (EU) 2022/2554](32022R2554) (DORA - digitale operationele weerbaarheid)
 
 **Gedelegeerde verordening (EU) 2023/2830 van de Commissie van 17 oktober 2023 tot aanvulling van Richtlijn 2003/87/EG van het Europees Parlement en de Raad door de vaststelling van regels inzake de tijdstippen, het beheer en andere aspecten van de veiling van broeikasgasemissierechten (PbEU 2023, L 2830)**
 
 ### 1. Bevoegde autoriteit in de zin van de verordening
 
-De Autoriteit Financiële Markten, voor zover het betreft de bevoegdheid tot het verlenen van vergunningen als bedoeld in artikel 18, tweede lid, het geheel of gedeeltelijk intrekken van die vergunningen en het toezicht op de naleving en de handhaving van artikel 50, tweede en derde lid.
+De Autoriteit Financiële Markten: ten aanzien van:
 
 ### 2. Handhaving door middel van last onder dwangsom of bestuurlijke boete
 
@@ -1108,11 +1108,39 @@ De Autoriteit Financiële Markten, voor zover het betreft de bevoegdheid tot het
 
 ### 1. Bevoegde autoriteit in de zin van de verordening
 
-De Nederlandsche Bank: ten aanzien van de artikelen 16 tot en met 18, 20 tot en met 27, 28, 30 tot en met 50, 52, 54 t/m 58, 67, 83 en 84.
+De verordening is niet van toepassing op instellingen als bedoeld in artikel 2, vijfde lid, onderdelen 4 tot en met 23, van [Richtlijn 2013/36/EU](32013L0036) (kapitaalvereisten).
+
+### 2. Handhaving door middel van last onder dwangsom of bestuurlijke boete
+
+**Verordening (EU) 2023/1114 van het Europees Parlement en de Raad van 31 mei 2023 betreffende cryptoactivamarkten en tot wijziging van Verordeningen (EU) nr. 1093/2010 en (EU) nr. 1095/2010 en Richtlijnen 2013/36/EU en (EU) 2019/1937 (PbEU 2023, L 150)**
 
 ### 2. Handhaving door middel van last onder dwangsom of bestuurlijke boete
 
 1 Indien in de kolom «boetecategorie» een bedrag staat, geldt een verhoogd boetemaximum, gelijk aan dat bedrag. Het basisbedrag is dan de helft van het verhoogde boetemaximum.
+
+### 5. Lidstaatoptie artikel 143, derde lid (duur overgangsregeling)
+
+De overgangsregeling voor bestaande aanbieders van cryptoactivadiensten, bedoeld in artikel 143, derde lid, van de verordening eindigt op 30 juni 2025.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+### [Verordening (EU) nr. 2022/2554](32022R2554) van het Europees Parlement en de Raad van 14 december 2022 betreffende digitale operationele weerbaarheid voor de financiële sector en tot wijziging van de [Verordeningen (EG) nr. 1060/2009](32009R1060), [(EU) nr. 648/2012](32012R0648), [(EU) nr. 600/2014](32014R0600), [(EU) nr. 909/2014](32014R0909) en [(EU) 2016/1011](32016R1011) (PbEU 2022, L 333)
+
+### 2. Handhaving door middel van last onder dwangsom of bestuurlijke boete
+
+### 4. Lidstaatoptie artikel 2, vijfde lid (uitzondering richtlijn kapitaalvereisten)
+
+## Bijlage 36. [Verordening (EU) 2023/1114](32023R1114) (MiCAR – cryptoactivamarkten)
+
+### 1. Bevoegde autoriteit in de zin van de verordening
+
+De Autoriteit Financiële Markten: ten aanzien van de artikelen 4 tot en met 15, 19, 27, 29, 51, 53, 59 tot en met 66, 68 tot en met 82 en 85 tot en met 92.
+
+2 Voor overtredingen, gerangschikt in de derde boetecategorie, waarbij een percentage is vermeld, geldt bij omzetgerelateerde boeten een verhoogd percentage, gelijk aan het vermelde percentage. Voor overtredingen, gerangschikt in de tweede categorie, geldt bij vermelding van een percentage dat de bevoegde autoriteit in dat geval tevens een omzetgerelateerde boete tot ten hoogste dat percentage kan opleggen. Artikel 1:82, eerste lid, van de wet is van overeenkomstige toepassing.
+
+### 3. Ontzegging bevoegdheid om bepaalde functies uit te oefenen
+
+De bevoegde autoriteit kan bij overtreding van de artikelen 59, 60, 64 tot en met 83 en 88 tot en met 92 van de verordening aan de overtreder of, indien de overtreding is begaan door een rechtspersoon, de natuurlijke personen die tot de betrokken gedraging opdracht hebben gegeven of daaraan feitelijk leiding hebben gegeven, tijdelijk de bevoegdheid ontzeggen om het beleid te bepalen en leiding te geven bij een aanbieder van cryptoactivadiensten als bedoeld in artikel 3, eerste lid, onderdeel 15, van de verordening.
 
 ### 4. Aanwijzen bevoegde autoriteiten grensoverschrijdende samenwerking
 
@@ -1121,5 +1149,15 @@ Als centraal aanspreekpunt voor grensoverschrijdende administratieve samenwerkin
 ### 5. Lidstaatoptie artikel 143, derde lid (duur overgangsregeling)
 
 De overgangsregeling voor bestaande aanbieders van cryptoactivadiensten, bedoeld in artikel 143, derde lid, van de verordening eindigt op 30 juni 2025.
+
+## Bijlage 38. [Verordening (EU) 2023/2830](32023R2830) (veiling van broeikasgasemissierechten)
+
+**Gedelegeerde verordening (EU) 2023/2830 van de Commissie van 17 oktober 2023 tot aanvulling van Richtlijn 2003/87/EG van het Europees Parlement en de Raad door de vaststelling van regels inzake de tijdstippen, het beheer en andere aspecten van de veiling van broeikasgasemissierechten (PbEU 2023, L 2830)**
+
+### 1. Bevoegde autoriteit in de zin van de verordening
+
+De Autoriteit Financiële Markten, voor zover het betreft de bevoegdheid tot het verlenen van vergunningen als bedoeld in artikel 18, tweede lid, het geheel of gedeeltelijk intrekken van die vergunningen en het toezicht op de naleving en de handhaving van artikel 50, tweede en derde lid.
+
+### 2. Handhaving door middel van last onder dwangsom of bestuurlijke boete
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
