@@ -4,7 +4,7 @@ identifier: "BWBR0022748"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-17"
-last_updated: "2023-07-01"
+last_updated: "2025-01-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022748"
 soort: "AMvB"
@@ -78,7 +78,7 @@ De gegevens, bedoeld in [artikel 5:27, tweede lid, van de wet](https://wetten.ov
 
 - i. gegevens op basis waarvan de Autoriteit Financiële Markten kan beoordelen of voldaan wordt aan hetgeen ingevolge [artikel 5:30, aanhef en onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:30) is bepaald met betrekking tot de financiële middelen om een ordelijke werking van de gereglementeerde markt te bevorderen;
 
-- j. gegevens op basis waarvan de Autoriteit Financiële Markten kan beoordelen of voldaan wordt aan de [artikelen 5:30a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:30a), [5:30b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:30b), [5:30c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:30c), [5:30d, eerste lid en](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:30d)[5:30e, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:30e);
+- j. gegevens op basis waarvan de Autoriteit Financiële Markten kan beoordelen of voldaan wordt aan de [artikelen 5:30a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:30a), [5:30b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:30b), [5:30c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:30c), [5:30d, eerste lid en](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:30d)[5:30e, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:30e);
 
 - k. een beschrijving van de regels inzake de toelating van financiële instrumenten tot de handel op de gereglementeerde markt, bedoeld in [artikel 5:32a, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:32a);
 
@@ -94,7 +94,7 @@ De gegevens, bedoeld in [artikel 5:27, tweede lid, van de wet](https://wetten.ov
 
 ##### Artikel 3
 
-1. De gegevens, bedoeld in [artikel 2, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0022748&paragraaf=2&artikel=2&z=2023-07-01&g=2023-07-01), zijn:
+1. De gegevens, bedoeld in [artikel 2, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0022748&paragraaf=2&artikel=2&z=2025-01-17&g=2025-01-17), zijn:
 
 - a. een opgave van de naam, de geboortedatum, de geboorteplaats, de nationaliteit, het privé-adres, het telefoon- en faxnummer en de functie;
 
@@ -106,7 +106,7 @@ De gegevens, bedoeld in [artikel 5:27, tweede lid, van de wet](https://wetten.ov
 
 - e. een opgave van referenten.
 
-2. Het [artikel 2, onderdelen g en l, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0022748&paragraaf=2&artikel=2&z=2023-07-01&g=2023-07-01), is niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) door een toezichthouder reeds is vastgesteld.
+2. Het [artikel 2, onderdelen g en l, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0022748&paragraaf=2&artikel=2&z=2025-01-17&g=2025-01-17), is niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) door een toezichthouder reeds is vastgesteld.
 
 #### Bepaling ter uitvoering van [artikel 5:27, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:27)
 
@@ -164,7 +164,7 @@ Een marktexploitant is, mede voor de toepassing van [artikel 5:29a, eerste lid, 
 
 ##### Artikel 4b
 
-De systemen, procedures en regelingen, bedoeld in [artikel 5:30a, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:30a), zijn in staat om:
+De systemen, procedures en regelingen, bedoeld in [artikel 5:30a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:30a), zijn in staat om:
 
 - a. de verhouding tussen het aantal niet-uitgevoerde orders en het aantal transacties dat door een deelnemer of lid in het handelssysteem kan worden ingevoerd te beperken;
 
@@ -174,7 +174,7 @@ De systemen, procedures en regelingen, bedoeld in [artikel 5:30a, eerste lid, on
 
 ##### Artikel 4c
 
-De parameters, bedoeld in [artikel 5:30a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:30a), houden rekening met de liquiditeit van de verschillende categorieën activa, de aard van het marktmodel en de soorten gebruikers en zijn geschikt om aanzienlijke verstoringen van de ordelijke werking van de gereglementeerde markt te voorkomen.
+De parameters, bedoeld in [artikel 5:30a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:30a), houden rekening met de liquiditeit van de verschillende categorieën activa, de aard van het marktmodel en de soorten gebruikers en zijn geschikt om aanzienlijke verstoringen van de ordelijke werking van de gereglementeerde markt te voorkomen.
 
 ##### Artikel 4d
 
