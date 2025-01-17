@@ -4,7 +4,7 @@ identifier: "BWBR0050592"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-14"
-last_updated: "2025-01-01"
+last_updated: "2025-01-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050592"
 soort: "ministeriele-regeling"
@@ -77,6 +77,8 @@ Besluiten:
 | [Titel 3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.23): Venture Challenge | [3.23.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.23.2) | Life Sciences & Health (LSH) |   | 01-01-2025 t/m 04-02-2025 | € 100.000 |
 |   | [3.23.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.23.2) | Life Sciences & Health (LSH) |   | 06-05-2025 t/m 01-07-2025 | € 200.000 |
 | [Titel 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.25): High-performance computing-projecten (HPC-projecten) | [3.25.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.25.2) |   | Digital Autonomy for RISC-V in Europe (DARE) | 15-12-2024 t/m 31-01-2025 | € 7.500.000 |
+| [Titel 3.30](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.30): CircularPlastics NL | [3.30.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.30.2) | Circular Plastics NL-onderzoeksprojecten |   | 18-02-2025 t/m 20-05-2025 | € 4.500.000 |
+|   |   | Circular Plastics NL-showcase projecten |   | 18-02-2025 t/m 20-05-2025 | € 31.000.000 |
 | [Titel 3.31](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=3.31): Circular Batteries | [3.31.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.31.2) |   | Onderwerp 1: Terugwinning van kritieke materialen door optimalisatie van recyclingsstappen van lithiumbatterijen | 16-12-2024 t/m 16-04-2025 | € 13.500.000 |
 |   |   |   | Onderwerp 2: Ontwikkeling en toepassing van langeduurbatterijtechnologie en samenwerking in expertisecentrum | 16-12-2024 t/m 16-04-2025 | € 25.000.000 |
 |   |   |   | Onderwerp 3: Onderzoek en ontwikkeling van batterijmaterialen inclusief bijbehorende productieapparatuur equipment en -processen voor een volgende generatie lithiumbatterijen | 16-12-2024 t/m 16-04-2025 | € 22.500.000 |
