@@ -4,7 +4,7 @@ identifier: "BWBR0047530"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-12"
-last_updated: "2023-09-08"
+last_updated: "2025-01-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047530"
 soort: "ministeriele-regeling"
@@ -46,19 +46,17 @@ Als organisaties die objectief kenbaar tot taak hebben om andere organisaties of
 
 - a. het Digital Trust Center, onderdeel van het Ministerie van Economische Zaken en Klimaat;
 
-- b. de Vereniging Abuse Information Exchange;
+- b. de Stichting Nationale Beheersorganisatie Internet Providers;
 
-- c. de Stichting Nationale Beheersorganisatie Internet Providers;
+- c. de Stichting Cyber Weerbaarheidscentrum Brainport;
 
-- d. de Stichting Cyber Weerbaarheidscentrum Brainport;
+- d. de Vereniging Cyberveilig Nederland;
 
-- e. de Vereniging Cyberveilig Nederland;
+- e. de Stichting Connect2Trust;
 
-- f. de Stichting Connect2Trust;
+- f. de Stichting FERM;
 
-- g. de Stichting FERM;
-
-- h. de Stichting NL CISO Circle of Trust.
+- g. de Stichting NL CISO Circle of Trust.
 
 ##### Artikel 2
 
