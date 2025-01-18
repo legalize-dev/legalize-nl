@@ -4,7 +4,7 @@ identifier: "BWBR0050190"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-18"
-last_updated: "2024-09-06"
+last_updated: "2025-01-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050190"
 soort: "ministeriele-regeling"
@@ -58,19 +58,25 @@ In deze regeling wordt verstaan onder:
 
 3. Als de oplossing het kopen van onroerende goederen omvat, kan de uitkering alleen worden verstrekt voor de waardedaling van de onroerende goederen door functieverandering of gebruiksbeperkingen. De uitkering bedraagt maximaal 85% van het aankoopbedrag.
 
-4. Een maatregel als bedoeld in het eerste lid kan inhouden dat de provincie een subsidie verstrekt aan ondernemingen waarvoor de melding is gedaan. De subsidie kan worden verstrekt voor verwerving van stikstofdepositieruimte, omschakeling, de reductie van stikstofemissie of verplaatsing.
+4. Een maatregel als bedoeld in het eerste lid kan inhouden dat de provincie een subsidie verstrekt aan ondernemingen waarvoor de melding is gedaan. De subsidie kan worden verstrekt voor verwerving van stikstofdepositieruimte, omschakeling, de reductie van stikstofemissie of verplaatsing, of voor de onomkeerbare volledige of gedeeltelijke sluiting van een veehouderijlocatie als bedoeld in artikel 5, eerste lid, van de Regeling provinciale gebiedsgerichte beëindiging veehouderijlocaties.
 
 5. Een subsidie als bedoeld in het vierde lid bedraagt per gemeld PAS-project voor:
 
-- a. verwerving van stikstofdepositieruimte: maximaal het totale bedrag aan de-minimissteun dat mag worden verleend op grond van artikel 3, tweede lid, van [Verordening (EU) 1408/2013](32013R1408) van de Commissie van 18 december 2013 inzake de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun in de landbouwsector;
+- a. verwerving van stikstofdepositieruimte:
+
+- 1°. als de onderneming waarvoor de melding is gedaan, actief is in de primaire productie van landbouwproducten: maximaal het totale bedrag aan de-minimissteun dat mag worden verleend op grond van artikel 3, tweede lid, van [Verordening (EU) 1408/2013](32013R1408) van de Commissie van 18 december 2013 inzake de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun in de landbouwsector;
+
+- 2°. in andere gevallen: maximaal € 300.000;
 
 - b. omschakeling, reductie van stikstofemissie of verplaatsing: maximaal € 600.000.
 
-6. Het tweede lid geldt niet voor een subsidie als bedoeld in het vierde en vijfde lid.
+6. Een subsidie voor een sluiting als bedoeld in het vierde lid voldoet aan de Regeling provinciale gebiedsgerichte beëindiging veehouderijlocaties.
 
-7. De uitkering kan alleen worden verstrekt voor de kosten van verplichtingen die door de provincie zijn of worden aangegaan na de inwerkingtreding van deze regeling.
+7. Het tweede lid geldt niet voor een subsidie als bedoeld in het vierde, vijfde en zesde lid.
 
-8. De uitkering wordt niet verstrekt voor:
+8. De uitkering kan alleen worden verstrekt voor de kosten van verplichtingen die door de provincie zijn of worden aangegaan na de inwerkingtreding van deze regeling.
+
+9. De uitkering wordt niet verstrekt voor:
 
 - a. de omzetbelasting die de provincie kan aftrekken op grond van de [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629);
 
@@ -84,7 +90,7 @@ Het uitkeringsplafond bedraagt in totaal € 226.900.000, inclusief de omzetbela
 
 ##### Artikel 4. Beschikbaar budget per aanvraagperiode, maximumbedrag per aanvraag en wijze van verdeling
 
-1. Een provincie kan in de periodes, genoemd in de tabel, telkens één aanvraag indienen. Voor elke periode geldt het daarbij genoemde beschikbare budget en maximumbedrag per aanvraag, beide inclusief de compensabele omzetbelasting, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050190&artikel=3&z=2024-09-06&g=2024-09-06).
+1. Een provincie kan in de periodes, genoemd in de tabel, telkens één aanvraag indienen. Voor elke periode geldt het daarbij genoemde beschikbare budget en maximumbedrag per aanvraag, beide inclusief de compensabele omzetbelasting, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050190&artikel=3&z=2025-01-18&g=2025-01-18).
 
 | Aanvraagperiode | Beschikbaar budget | Maximumbedrag per aanvraag |
 | --- | --- | --- |
@@ -107,7 +113,7 @@ Het uitkeringsplafond bedraagt in totaal € 226.900.000, inclusief de omzetbela
 
 - c. voor zover de uitkering wordt aangevraagd ter financiering van een door de provincie voorgenomen subsidieregeling: een plan van aanpak waaruit blijkt dat de regeling met voldoende zekerheid een oplossing biedt voor gemelde PAS-projecten;
 
-- d. een verklaring dat de provincie voldoet aan de verplichtingen, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0050190&artikel=7&z=2024-09-06&g=2024-09-06).
+- d. een verklaring dat de provincie voldoet aan de verplichtingen, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0050190&artikel=7&z=2025-01-18&g=2025-01-18).
 
 2. Het aangevraagde bedrag kan maximaal 5% apparaatskosten bevatten.
 
@@ -129,7 +135,7 @@ Het uitkeringsplafond bedraagt in totaal € 226.900.000, inclusief de omzetbela
 
 ##### Artikel 8. Verplichtingen als de uitkering is verstrekt voor waardedaling onroerende goederen
 
-1. Voor zover de uitkering is verstrekt voor de waardedaling, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050190&artikel=2&z=2024-09-06&g=2024-09-06), stelt de provincie de minister in één keer voor de hele uitkering, uiterlijk 15 juli 2029 gelijktijdig met de jaarlijkse verantwoording, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050190&artikel=12&z=2024-09-06&g=2024-09-06), in kennis van de aankoopwaarde en van de opbrengst- of restwaarde van die goederen.
+1. Voor zover de uitkering is verstrekt voor de waardedaling, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050190&artikel=2&z=2025-01-18&g=2025-01-18), stelt de provincie de minister in één keer voor de hele uitkering, uiterlijk 15 juli 2029 gelijktijdig met de jaarlijkse verantwoording, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050190&artikel=12&z=2025-01-18&g=2025-01-18), in kennis van de aankoopwaarde en van de opbrengst- of restwaarde van die goederen.
 
 2. De aankoopwaarde en de restwaarde van de betrokken goederen worden bepaald door een onafhankelijke taxateur. Het rapport van de taxateur over de restwaarde wordt door de provincie verstrekt bij de inkennisstelling, bedoeld in het eerste lid.
 
@@ -139,7 +145,7 @@ Het uitkeringsplafond bedraagt in totaal € 226.900.000, inclusief de omzetbela
 
 2. De provincie informeert de minister op verzoek over de voortgang van de maatregelen waarvoor de uitkering is verstrekt.
 
-3. De provincie zorgt ervoor dat de verkregen stikstofdepositieruimte die zij niet vóór de vaststelling van de uitkering gebruikt voor de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050190&artikel=2&z=2024-09-06&g=2024-09-06), bedoelde maatregelen, beschikbaar blijft om te worden opgenomen in de SSRS-bank, bedoeld in [art. 17a.6 van de Omgevingsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&artikel=17a.6).
+3. De provincie zorgt ervoor dat de verkregen stikstofdepositieruimte die zij niet vóór de vaststelling van de uitkering gebruikt voor de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050190&artikel=2&z=2025-01-18&g=2025-01-18), bedoelde maatregelen, beschikbaar blijft om te worden opgenomen in de SSRS-bank, bedoeld in [art. 17a.6 van de Omgevingsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&artikel=17a.6).
 
 4. De minister kan in de beschikking tot verlening verplichtingen opleggen over de wijze van vastlegging van de gegevens die zijn gebruikt bij het in kaart brengen van de effecten van de maatregelen waarvoor de uitkering is verstrekt.
 
@@ -149,7 +155,7 @@ Het uitkeringsplafond bedraagt in totaal € 226.900.000, inclusief de omzetbela
 
 1. De minister bepaalt in de beschikking tot verlening tot wanneer de maatregelen kunnen worden uitgevoerd.
 
-2. De minister kan voor een of meer maatregelen de in het eerste lid bedoelde periode en de termijn, genoemd in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050190&artikel=8&z=2024-09-06&g=2024-09-06), op verzoek van de provincie eenmalig verlengen met ten hoogste vier jaar.
+2. De minister kan voor een of meer maatregelen de in het eerste lid bedoelde periode en de termijn, genoemd in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050190&artikel=8&z=2025-01-18&g=2025-01-18), op verzoek van de provincie eenmalig verlengen met ten hoogste vier jaar.
 
 ##### Artikel 11. Verwerking van gegevens
 
