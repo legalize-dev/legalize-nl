@@ -4,7 +4,7 @@ identifier: "BWBR0050690"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-22"
-last_updated: "2024-10-18"
+last_updated: "2025-01-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050690"
 soort: "ministeriele-regeling"
@@ -132,7 +132,7 @@ Bij afwezigheid of verhindering van de voorzitter is de operationeel directeur b
 
 ##### Artikel 6. Ondermandaat/volmacht/machtiging
 
-1. De voorzitter kan enkele bevoegdheden, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050690&hoofdstuk=2&artikel=3&z=2025-01-22&g=2024-10-18) van dit besluit, ondermandateren aan de operationeel directeur als bedoeld in [artikel 5a, tweede lid van de Instellingsregeling Commissie aanvullende schadevergoeding werkelijke schade](https://wetten.overheid.nl/jci1.3:c:BWBR0045235&artikel=5a). Het nemen van beslissingen betreffende:
+1. De voorzitter kan enkele bevoegdheden, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050690&hoofdstuk=2&artikel=3&z=2025-01-22&g=2025-01-22) van dit besluit, ondermandateren aan de operationeel directeur als bedoeld in [artikel 5a, tweede lid van de Instellingsregeling Commissie aanvullende schadevergoeding werkelijke schade](https://wetten.overheid.nl/jci1.3:c:BWBR0045235&artikel=5a). Het nemen van beslissingen betreffende:
 
 - a. het aangaan, het plaatsen en het beëindigen van de arbeidsovereenkomst, voor zover het geen leidinggevende functie betreft en de vergoeding lager is dan schaal 15;
 
@@ -154,7 +154,7 @@ Bij afwezigheid of verhindering van de voorzitter is de operationeel directeur b
 
 - j. de korting beloning bij arbeidsongeschiktheid.
 
-2. De voorzitter kan de bevoegdheden, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050690&hoofdstuk=2&artikel=4&z=2025-01-22&g=2024-10-18) van dit besluit, tot een maximumbedrag van € 144.000,– ondermandateren aan de operationeel directeur als bedoeld in [artikel Sa, tweede lid van de Instellingsregeling Commissie aanvullende schadevergoeding werkelijke schade](https://wetten.overheid.nl/jci1.3:c:BWBR0045235&artikel=5a).
+2. De voorzitter kan de bevoegdheden, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050690&hoofdstuk=2&artikel=4&z=2025-01-22&g=2025-01-22) van dit besluit, tot een maximumbedrag van € 144.000,– ondermandateren aan de operationeel directeur als bedoeld in [artikel Sa, tweede lid van de Instellingsregeling Commissie aanvullende schadevergoeding werkelijke schade](https://wetten.overheid.nl/jci1.3:c:BWBR0045235&artikel=5a).
 
 3. In een ondermandaat wordt de omvang ervan aangegeven.
 
