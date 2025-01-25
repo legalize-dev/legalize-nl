@@ -4,7 +4,7 @@ identifier: "BWBR0041056"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-25"
-last_updated: "2025-01-01"
+last_updated: "2025-01-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041056"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 - **inspectie:** Inspectie van het onderwijs;
 
-- **Minister:** Minister voor Basis- en Voortgezet Onderwijs en Media;
+- **Minister:** Minister van Onderwijs, Cultuur en Wetenschap;
 
 - **WEC:** [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549);
 
@@ -96,7 +96,7 @@ Vervallen
 
 ##### Artikel 10. Inzage leerlingenadministratie
 
-In geval van een steekproefsgewijze controle door of namens de Minister geeft het bevoegd gezag inzage in de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=2&z=2025-01-01&g=2025-01-01) genoemde gegevens van leerlingen en hun ouders op basis waarvan de hoogte van de bekostiging is vastgesteld.
+In geval van een steekproefsgewijze controle door of namens de Minister geeft het bevoegd gezag inzage in de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=2&z=2025-01-25&g=2025-01-25) genoemde gegevens van leerlingen en hun ouders op basis waarvan de hoogte van de bekostiging is vastgesteld.
 
 ##### Artikel 11. Terugkoppeling inschrijvingsgegevens
 
@@ -114,15 +114,15 @@ Deze paragraaf berust op [artikel 4 van het Besluit informatievoorziening WPO/WE
 
 ##### Artikel 14. Te leveren gegevens
 
-1. Het bevoegd gezag levert de organisatiegegevens, genoemd in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=4&z=2025-01-01&g=2025-01-01), overeenkomstig de beschrijving en op de wijze als vermeld in het programma van eisen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=4&z=2025-01-01&g=2025-01-01), aan de Minister.
+1. Het bevoegd gezag levert de organisatiegegevens, genoemd in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=4&z=2025-01-25&g=2025-01-25), overeenkomstig de beschrijving en op de wijze als vermeld in het programma van eisen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=4&z=2025-01-25&g=2025-01-25), aan de Minister.
 
-2. Het bevoegd gezag en het bestuur van een samenwerkingsverband als bedoeld in [artikel 18a WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=18a) leveren de financiële gegevens, genoemd in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=5&z=2025-01-01&g=2025-01-01), overeenkomstig de beschrijving en op de wijze als vermeld in het programma van eisen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=5&z=2025-01-01&g=2025-01-01), aan de Minister.
+2. Het bevoegd gezag en het bestuur van een samenwerkingsverband als bedoeld in [artikel 18a WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=18a) leveren de financiële gegevens, genoemd in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=5&z=2025-01-25&g=2025-01-25), overeenkomstig de beschrijving en op de wijze als vermeld in het programma van eisen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=5&z=2025-01-25&g=2025-01-25), aan de Minister.
 
-3. Het bevoegd gezag levert de personele gegevens, genoemd in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=6&z=2025-01-01&g=2025-01-01), overeenkomstig de beschrijving en op de wijze als vermeld in het programma van eisen in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=6&z=2025-01-01&g=2025-01-01), aan de Minister.
+3. Het bevoegd gezag levert de personele gegevens, genoemd in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=6&z=2025-01-25&g=2025-01-25), overeenkomstig de beschrijving en op de wijze als vermeld in het programma van eisen in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=6&z=2025-01-25&g=2025-01-25), aan de Minister.
 
 ##### Artikel 15. Bijzondere levering
 
-Het bevoegd gezag dat na overleg met de Minister, door de Minister niet in staat wordt geacht de gegevens, bedoeld in [artikel 14, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=4&artikel=14&z=2025-01-01&g=2025-01-01), op de in dat lid genoemde wijze te leveren, levert de gegevens op de wijze die door de Minister wordt vastgesteld na overleg met het bevoegd gezag.
+Het bevoegd gezag dat na overleg met de Minister, door de Minister niet in staat wordt geacht de gegevens, bedoeld in [artikel 14, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=4&artikel=14&z=2025-01-25&g=2025-01-25), op de in dat lid genoemde wijze te leveren, levert de gegevens op de wijze die door de Minister wordt vastgesteld na overleg met het bevoegd gezag.
 
 ##### Artikel 16. Tijdelijke afwijking levering gegevens
 
@@ -324,23 +324,23 @@ De volgende tabellen worden gebruikt bij controles.
 
 ### 2.4.4. Soort externe inhuur (t.b.v. PNIL uitvraag door DUO)
 
-### 2.4.5. Doel externe inhuur (t.b.v. PNIL uitvraag door DUO)
+### 3. Termijn voor aanlevering van de gegevens
 
-De volgende referentietabellen worden gebruikt bij controles, maar worden niet door de organisatie BRON beheerd. Hierdoor kan het geen onderdeel zijn van het PvE. Dit houdt in dat de school zelf verantwoordelijk is om hiervan de nieuwste versie te gebruiken om zo geen onnodige afkeuring van berichten te krijgen.
+Het bevoegd gezag levert de personele gegevens, genoemd in de paragrafen 2.3.1 tot en met 2.3.4, 2.4.1 en 2.4.2, viermaal per jaar aan bij DUO:
 
 ### 2.4.5. Doel externe inhuur (t.b.v. PNIL uitvraag door DUO)
 
 ### 3. Termijn voor aanlevering van de gegevens
 
-De jaarbestanden bevatten alle gegevens uit de paragrafen 2.3.1 tot en met 2.3.4 over een kalenderjaar. De gegevens zijn gegroepeerd per kalendermaand. Alle mutaties die van toepassing zijn op de gegevens van een bepaalde maand, zijn in de gegevens over die maand doorgevoerd. De jaarbestanden worden eenmaal per jaar aangeleverd, uiterlijk op 1 april van het jaar, volgend op het peiljaar (het jaar waarop de gegevens betrekking hebben).
+Het bevoegd gezag levert de gegevens, genoemd in de paragrafen 2.3.5, 2.4.3 en 2.4.4, eenmaal per jaar aan bij DUO, uiterlijk op 1 juli van het jaar, volgend op het kalenderjaar waarop de gegevens betrekking hebben.
 
 Het bevoegd gezag levert de gegevens, genoemd in de paragrafen 2.3.5 en 2.4.3 tot en met 2.4.5, eenmaal per jaar aan bij DUO, uiterlijk op 1 april van het jaar, volgend op het kalenderjaar waarop de gegevens betrekking hebben.
 
 ## Bijlage 2. behorende bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=3&artikel=10&z=2020-01-01&g=2020-01-01), van de Regeling informatievoorziening WPO/WEC
 
-### Inrichting van de leerlingenadministratie
+### 4.1. Arbeidsrelatie versus benoeming
 
-Het bevoegd gezag levert de gegevens, genoemd in paragraaf 2.3.6 uiterlijk op 30 november aan bij DUO.
+Ten behoeve van de gegevensleveringen moet onderscheid gemaakt worden tussen benoemingen enerzijds en arbeidsrelaties anderzijds. In dit PvE is een arbeidsrelatie een unieke combinatie van instelling, persoon, functie en aard dienstverband. In een aantal situaties kan er één akte van benoeming zijn, terwijl er voor de gegevensleveringen meer dan één arbeidsrelatie tussen een bevoegd gezag en een persoon moet worden onderscheiden. Deze paragraaf geldt alleen voor arbeidsrelaties van PIL. Dat betreft de volgende situaties:
 
 Ten behoeve van de gegevensleveringen moet onderscheid gemaakt worden tussen benoemingen enerzijds en arbeidsrelaties anderzijds. In dit PvE is een arbeidsrelatie een unieke combinatie van instelling, persoon, functie en aard dienstverband. In een aantal situaties kan er één akte van benoeming zijn, terwijl er voor de gegevensleveringen meer dan één arbeidsrelatie tussen een bevoegd gezag en een persoon moet worden onderscheiden. Deze paragraaf geldt alleen voor arbeidsrelaties van PIL. Dat betreft de volgende situaties:
 
@@ -348,45 +348,45 @@ Ten behoeve van de gegevensleveringen moet onderscheid gemaakt worden tussen ben
 
 Een bevoegd gezag kan een persoon benoemen om bij één instelling of bij meer instellingen werkzaam te zijn. Als er sprake is van een benoeming waarbij de benoemde bij meer dan één instelling van een bevoegd gezag werkzaam is, dan is er in het kader van dit PvE sprake van meer dan één arbeidsrelatie. Dit ongeacht of er voor de werkzaamheden aan de verschillende instellingen één dan wel verschillende aktes van benoeming dan wel arbeidsovereenkomsten zijn opgemaakt. Er moeten ten minste evenveel arbeidsrelaties worden onderscheiden als het aantal instellingen waar een persoon werkzaam is. De gegevens die op basis van het PvE personeel en salarisgegevens geleverd moeten worden, moeten voor elke arbeidsrelatie afzonderlijk worden geregistreerd en geleverd.
 
-Ten behoeve van de gegevensleveringen moet onderscheid gemaakt worden tussen benoemingen enerzijds en arbeidsrelaties anderzijds. In dit PvE is een arbeidsrelatie een unieke combinatie van instelling, persoon, functie en aard dienstverband. In een aantal situaties kan er één akte van benoeming zijn, terwijl er voor de gegevensleveringen meer dan één arbeidsrelatie tussen een bevoegd gezag en een persoon moet worden onderscheiden. Deze paragraaf geldt alleen voor arbeidsrelaties van PIL. Dat betreft de volgende situaties:
+Ook als een persoon tegelijk werkzaam is in verschillende functies, moeten verschillende arbeidsrelaties worden onderscheiden. Dit is bijvoorbeeld het geval als iemand tegelijk werkzaam is als leerkracht en als adjunct-directeur. De gegevens moeten voor elk van beide functies apart worden geregistreerd en worden geleverd, ook als de persoon deze functies bij één instelling uitoefent.
 
 Ook als een persoon tegelijk werkzaam is in verschillende functies, moeten verschillende arbeidsrelaties worden onderscheiden. Dit is bijvoorbeeld het geval als iemand tegelijk werkzaam is als leerkracht en als adjunct-directeur. De gegevens moeten voor elk van beide functies apart worden geregistreerd en worden geleverd, ook als de persoon deze functies bij één instelling uitoefent.
 
 ### 4.1.3. Veranderingen van functie
 
-### 4.1.2. Benoemingen in meer dan één functie
-
-Ook als een persoon tegelijk werkzaam is in verschillende functies, moeten verschillende arbeidsrelaties worden onderscheiden. Dit is bijvoorbeeld het geval als iemand tegelijk werkzaam is als leerkracht en als adjunct-directeur. De gegevens moeten voor elk van beide functies apart worden geregistreerd en worden geleverd, ook als de persoon deze functies bij één instelling uitoefent.
+### 4.1.4. Veranderingen van betrekkingsomvang in verband met vervanging
 
 Voor de gegevensleveringen leidt een verandering van de betrekkingsomvang er in de regel niet toe dat een arbeidsrelatie ophoudt te bestaan; er ontstaat bijgevolg ook geen nieuwe arbeidsrelatie. Deze verandering wordt beschouwd als een verandering binnen de bestaande arbeidsrelatie. Hierop is één uitzondering: verandering van de betrekkingsomvang in verband met vervanging. Als de betrekkingsomvang van een bestaande arbeidsrelatie (tijdelijk) wordt vergroot omdat de persoon een afwezige collega vervangt, dan moet deze uitbreiding als een nieuwe arbeidsrelatie geregistreerd worden.
 
 Deze nieuwe arbeidsrelatie eindigt op het moment waarop de tijdelijke uitbreiding van de betrekkingsomvang geheel vervalt. De reden om deze uitbreiding van de betrekkingsomvang apart te registreren is dat inzicht nodig is de omvang van de vervanging en dubbeltellingen bij het bepalen van de werkende formatie te voorkomen.
 
+Deze nieuwe arbeidsrelatie eindigt op het moment waarop de tijdelijke uitbreiding van de betrekkingsomvang geheel vervalt. De reden om deze uitbreiding van de betrekkingsomvang apart te registreren is dat inzicht nodig is de omvang van de vervanging en dubbeltellingen bij het bepalen van de werkende formatie te voorkomen.
+
 ## Bijlage 3. behorende bij [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=3&artikel=12&z=2018-08-01&g=2018-08-01) van de Regeling informatievoorziening WPO/WEC
 
-### PvE Technisch specificaties leerlinggegevens t.b.v. softwareleveranciers
+### 4.3. Peilmaand en peildatum
 
-Deze nieuwe arbeidsrelatie eindigt op het moment waarop de tijdelijke uitbreiding van de betrekkingsomvang geheel vervalt. De reden om deze uitbreiding van de betrekkingsomvang apart te registreren is dat inzicht nodig is de omvang van de vervanging en dubbeltellingen bij het bepalen van de werkende formatie te voorkomen.
+De in de paragrafen 2.3.1 tot en met 2.3.4, 2.4.1 en 2.4.2 beschreven gegevens moeten worden onderscheiden naar tijdvakken van één kalendermaand: de peilmaand.
 
 ## Bijlage 4. behorende bij [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=4&artikel=14&z=2018-08-01&g=2018-08-01), van de Regeling informatievoorziening WPO/WEC
 
 ### 4.9. Financieringsbron
 
-### 4.3. Peilmaand en peildatum
-
 ### 4.4. Terugwerkende kracht mutaties
 
-Een deel van de gegevens over een peilmaand wordt in de regel pas enige tijd na het eind van die peilmaand administratief verwerkt. Gegevens die binnen een kalendermaand na afloop van de peilmaand worden verwerkt en van invloed zijn op de situatie in de peilmaand, moeten ook in de gegevenslevering over de peilmaand zijn verwerkt (een maand terugwerkende kracht mutaties). De over de peilmaand januari te leveren gegevens moeten dus de situatie van januari weergegeven zoals die op basis van de op 1 maart beschikbare informatie hoort te zijn. Gegevens die later dan een kalendermaand na het einde van de peilmaand beschikbaar komen, worden niet in deze gegevensleveringen verwerkt.
-
-### 1.2. Wettelijke basis voor de levering
-
-Betalingen die op een peilmaand, langer dan een maand terug betrekking hebben, worden geleverd in het bestand van de peilmaand waarin deze gedaan zijn met daarbij de vermelding op welke (eerdere) kalendermaand zij betrekking hebben. Als een dergelijke betaling niet aan een bepaalde kalendermaand kan worden toegerekend, dan wordt het kalenderjaar vermeld met twee volgnullen (bijvoorbeeld 201800).
-
-### 4.11. Vakantie-, snipper- en feestdagen
+### 4.4. Terugwerkende kracht mutaties
 
 De manier van verwerken van terugwerkende kracht mutaties is vooral van belang voor de levering van de gegevens over loon, toelagen en kortingen. OCW en DUO hanteren hierbij het loon-over-principe. Alle correcties die na afloop van een peilmaand plaatsvinden op de financiële gegevens van die peilmaand moeten verwerkt worden in de te leveren gegevens over de peilmaand.
 
 ### 4.5. Extractiedatum
+
+De extractiedatum is de datum waarop de gegevens uit de database of databases zijn gehaald. Als gegevens uit verschillende databases moeten worden gehaald, bestaat het risico dat de gegevens uit de verschillende databases niet op elkaar aansluiten (in elke database zullen voortdurend mutaties worden aangebracht). Om dit risico zo klein mogelijk te maken, zullen de eerste en de laatste extractiedatum van de gegevens over de dezelfde peilmaand niet meer dan één week uit elkaar mogen liggen, tenzij de consistentie aantoonbaar op een andere manier gewaarborgd wordt.
+
+### 4.6. Volgnummer
+
+Omdat een persoon met hetzelfde bevoegde gezag meer dan één arbeidsrelatie kan hebben (gelijktijdig of volgtijdelijk), wordt er een volgnummer geleverd. Dit volgnummer is nodig om de gegevens uit verschillende leveringen steeds aan de juiste arbeidsrelatie te kunnen verbinden. Dit volgnummer dient over de leveringen heen dezelfde arbeidsrelatie met het bevoegde gezag te identificeren. Indien binnen een administratie per arbeidsrelatie een nieuw personeelsnummer wordt toegekend, mag dit personeelsnummer als volgnummer worden gebruikt. Het burgerservicenummer identificeert iedere persoon uniek binnen de administratie en de levering.
+
+### 4.7. Begin- en einddatum
 
 ### 4.7. Begin- en einddatum
 
@@ -394,13 +394,13 @@ Als begindatum wordt geleverd de eerste kalenderdag waarop de situatie van de re
 
 ### 4.8. Financieringsbron
 
-Arbeidsrelaties kunnen vanuit verschillende bronnen worden bekostigd. Belangrijk is het onderscheid tussen:
+Indien bij een arbeidsrelatie meer dan één financieringsbron aan de orde is, dan wordt de financieringsbron vermeld, die de grootste bijdrage levert.
 
 Indien bij een arbeidsrelatie meer dan één financieringsbron aan de orde is, dan wordt de financieringsbron vermeld, die de grootste bijdrage levert.
 
-Voor het bevoegd gezag gaat het om de naam, de datum opheffing, het centraal rekeningnummer, de salarisverwerkende instelling, het administratiekantoornummer en fusie met een ander bevoegd gezag. Bij dit soort mutaties wordt de mutatie alleen verwerkt, indien bepaalde (wettelijke) bescheiden zijn meegeleverd en indien daarvoor op grond van een wettelijk voorschrift een positief besluit over is genomen.
-
 In de bestanden die op een peilmaand betrekking hebben, worden de betalingen en inhoudingen opgegeven die op die peilmaand betrekking hebben. Correcties hierop worden met een maand terugwerkende kracht hierin verwerkt.
+
+Betalingen die op een peilmaand, langer dan een maand terug betrekking hebben, worden geleverd in het bestand van de peilmaand waarin deze gedaan zijn met daarbij de vermelding op welke (eerdere) kalendermaand zij betrekking hebben. Als een dergelijke betaling niet aan een bepaalde kalendermaand kan worden toegerekend, dan wordt het kalenderjaar vermeld met twee volgnullen (bijvoorbeeld 201800).
 
 Betalingen die op een peilmaand, langer dan een maand terug betrekking hebben, worden geleverd in het bestand van de peilmaand waarin deze gedaan zijn met daarbij de vermelding op welke (eerdere) kalendermaand zij betrekking hebben. Als een dergelijke betaling niet aan een bepaalde kalendermaand kan worden toegerekend, dan wordt het kalenderjaar vermeld met twee volgnullen (bijvoorbeeld 201800).
 
@@ -408,9 +408,9 @@ Betalingen die op een peilmaand, langer dan een maand terug betrekking hebben, w
 
 Deze vormen van verlof worden niet geleverd, ook niet als onderdeel van de categorie overig verlof.
 
-Betalingen die op een peilmaand, langer dan een maand terug betrekking hebben, worden geleverd in het bestand van de peilmaand waarin deze gedaan zijn met daarbij de vermelding op welke (eerdere) kalendermaand zij betrekking hebben. Als een dergelijke betaling niet aan een bepaalde kalendermaand kan worden toegerekend, dan wordt het kalenderjaar vermeld met twee volgnullen (bijvoorbeeld 201800).
-
 Bij een verandering van het soort verlof (zoals onderscheiden in dit PvE) wordt een lopende verlofperiode beëindigd en begint een nieuwe verlofperiode.
+
+Bij een verandering van de omvang van het verlof (bijvoorbeeld bij het gedeeltelijk hervatten van werkzaamheden bij ziekte) wordt de lopende verlofperiode beëindigd en begint een nieuwe verlofperiode.
 
 Bij een verandering van de omvang van het verlof (bijvoorbeeld bij het gedeeltelijk hervatten van werkzaamheden bij ziekte) wordt de lopende verlofperiode beëindigd en begint een nieuwe verlofperiode.
 
@@ -418,13 +418,13 @@ Bij een verandering van de omvang van het verlof (bijvoorbeeld bij het gedeeltel
 
 Voor de sociale zekerheid worden opeenvolgende periodes van ziekteverlof als één ziektegeval gerekend, als de tweede ziekmelding en daarmee de verzuimperiode begint binnen een periode van 4 weken na herstel-melding van de eerste. In de levering worden in dat geval steeds de afzonderlijke perioden geleverd met elk en begin- en einddatum.
 
-### 5. Wijze van aanlevering
+### 5.1. Onderdelen ‘persoon’, ‘arbeidsrelatie’, ‘loon, toelagen en kortingen’, ‘verlofgegevens’ en ‘PNIL’
 
-De gegevens, bedoeld in [artikel 8 van het Besluit informatievoorziening WPO/WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&artikel=8) worden op grond van het onderstaande geleverd aan de Minister:
+De aanlevering van de beleidsgegevens geschiedt elektronisch.
 
 ### 4. Wijze van aanleveren
 
-De procedure van aanlevering van personeelsgegevens staat beschreven op de site van DUO (https://duo.nl/zakelijk/primair-onderwijs/personeel/levering-personeelsgegevens.jsp). De beveiligde site faciliteert bij het selecteren van bestanden, die volgens het naamformaat in aanmerking komen om geleverd te worden. Na het versturen toont de beveiligde site de datum plus het tijdstip waarop het bestand is ontvangen.
+Als de verwerking is afgerond ontvangt de contactpersoon via e-mail een bericht dat er een terugkoppeling gereed staat op de beveiligde site. In die terugkoppeling staat aangegeven of de levering al dan niet correct verwerkt is en welke signalen zijn opgetreden.
 
 ## Bijlage 5. behorende bij [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=4&artikel=14&z=2018-08-01&g=2018-08-01), van de Regeling informatievoorziening WPO/WEC
 
@@ -662,7 +662,7 @@ Gegevens die op grond van [artikel 38o, tweede lid, onderdeel a](https://wetten.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-### 4.1.1. Benoemingen bij meer dan één instelling
+### 4.1.3. Veranderingen van functie
 
 Een verandering van functie leidt voor de gegevensleveringen altijd tot beëindiging van de arbeidsrelatie die betrekking heeft op de oude functie en het begin van een nieuwe arbeidsrelatie.
 
@@ -676,7 +676,7 @@ Als iemand wordt benoemd als tijdelijke vervanging van een personeelslid dat afw
 
 ### 4.2. Vervanging
 
-De in de paragrafen 2.3.1 tot en met 2.3.4, 2.4.1 en 2.4.2 beschreven gegevens moeten worden onderscheiden naar tijdvakken van één kalendermaand: de peilmaand.
+Een deel van de gegevens over een peilmaand wordt in de regel pas enige tijd na het eind van die peilmaand administratief verwerkt. Gegevens die binnen een kalendermaand na afloop van de peilmaand worden verwerkt en van invloed zijn op de situatie in de peilmaand, moeten ook in de gegevenslevering over de peilmaand zijn verwerkt (een maand terugwerkende kracht mutaties). De over de peilmaand januari te leveren gegevens moeten dus de situatie van januari weergegeven zoals die op basis van de op 1 maart beschikbare informatie hoort te zijn. Gegevens die later dan een kalendermaand na het einde van de peilmaand beschikbaar komen, worden niet in deze gegevensleveringen verwerkt.
 
 ### 4.10. Maand waarop betrekking
 
@@ -688,27 +688,27 @@ De extractiedatum is de datum waarop de gegevens uit de database of databases zi
 
 ### 4.6. Volgnummer
 
-De extractiedatum is de datum waarop de gegevens uit de database of databases zijn gehaald. Als gegevens uit verschillende databases moeten worden gehaald, bestaat het risico dat de gegevens uit de verschillende databases niet op elkaar aansluiten (in elke database zullen voortdurend mutaties worden aangebracht). Om dit risico zo klein mogelijk te maken, zullen de eerste en de laatste extractiedatum van de gegevens over de dezelfde peilmaand niet meer dan één week uit elkaar mogen liggen, tenzij de consistentie aantoonbaar op een andere manier gewaarborgd wordt.
+Als begindatum wordt geleverd de eerste kalenderdag waarop de situatie van de regel van toepassing is. De einddatum is de laatste kalenderdag waarvoor de situatie van de regel van toepassing is.
 
-### 4.6. Volgnummer
+### 4.8. Financieringsbron
 
-Omdat een persoon met hetzelfde bevoegde gezag meer dan één arbeidsrelatie kan hebben (gelijktijdig of volgtijdelijk), wordt er een volgnummer geleverd. Dit volgnummer is nodig om de gegevens uit verschillende leveringen steeds aan de juiste arbeidsrelatie te kunnen verbinden. Dit volgnummer dient over de leveringen heen dezelfde arbeidsrelatie met het bevoegde gezag te identificeren. Indien binnen een administratie per arbeidsrelatie een nieuw personeelsnummer wordt toegekend, mag dit personeelsnummer als volgnummer worden gebruikt. Het burgerservicenummer identificeert iedere persoon uniek binnen de administratie en de levering.
+Arbeidsrelaties kunnen vanuit verschillende bronnen worden bekostigd. Belangrijk is het onderscheid tussen:
 
-### 2.3. De gegevens
+### 4.10. Vakantie-, snipper- en feestdagen
 
-Als de verwerking is afgerond ontvangt de contactpersoon via e-mail een bericht dat er een terugkoppeling gereed staat op de beveiligde site. In die terugkoppeling staat aangegeven of de levering al dan niet correct verwerkt is en welke signalen zijn opgetreden.
+Deze vormen van verlof worden niet geleverd, ook niet als onderdeel van de categorie overig verlof.
 
-### 2.4. Domeinen
+### 4.12. Opeenvolgende periodes van ziekteverlof
 
-Het domein geeft de mogelijke waarden van een attribuut aan.
+Voor de sociale zekerheid worden opeenvolgende periodes van ziekteverlof als één ziektegeval gerekend, als de tweede ziekmelding en daarmee de verzuimperiode begint binnen een periode van 4 weken na herstel-melding van de eerste. In de levering worden in dat geval steeds de afzonderlijke perioden geleverd met elk en begin- en einddatum.
 
-### PvE gegevens lerarenregister en registervoorportaal
+### 5. Wijze van aanlevering
 
 Bij een verandering van de omvang van het verlof (bijvoorbeeld bij het gedeeltelijk hervatten van werkzaamheden bij ziekte) wordt de lopende verlofperiode beëindigd en begint een nieuwe verlofperiode.
 
 ### 5.1. Onderdelen ‘persoon’, ‘arbeidsrelatie’, ‘loon, toelagen en kortingen’, ‘verlofgegevens’ en ‘PNIL’
 
-De aanlevering van de beleidsgegevens geschiedt elektronisch.
+De procedure van aanlevering van personeelsgegevens staat beschreven op de site van DUO (https://duo.nl/zakelijk/primair-onderwijs/personeel/levering-personeelsgegevens.jsp). De beveiligde site faciliteert bij het selecteren van bestanden, die volgens het naamformaat in aanmerking komen om geleverd te worden. Na het versturen toont de beveiligde site de datum plus het tijdstip waarop het bestand is ontvangen.
 
 ## Bijlage 5. behorende bij [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=4&artikel=14&z=2020-01-01&g=2020-01-01), van de Regeling informatievoorziening WPO/WEC
 
@@ -844,11 +844,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Vervallen
 
-## Bijlage 1. behorende bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=3&artikel=7&z=2025-01-01&g=2025-01-01), van de Regeling informatievoorziening WPO/WEC
+## Bijlage 1. behorende bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=3&artikel=7&z=2025-01-25&g=2025-01-25), van de Regeling informatievoorziening WPO/WEC
 
 Vervallen
 
-## Bijlage 2. behorende bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=3&artikel=10&z=2025-01-01&g=2025-01-01), van de Regeling informatievoorziening WPO/WEC
+## Bijlage 2. behorende bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=3&artikel=10&z=2025-01-25&g=2025-01-25), van de Regeling informatievoorziening WPO/WEC
 
 Daartoe zijn vanaf het moment van inschrijving in de leerlingenadministratie de volgende documenten opgenomen:
 
@@ -860,7 +860,7 @@ Indien van toepassing:
 
 ### 2. Verzuimregistratie
 
-## Bijlage 4. behorende bij [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=4&artikel=14&z=2025-01-01&g=2025-01-01), van de Regeling informatievoorziening WPO/WEC
+## Bijlage 4. behorende bij [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=4&artikel=14&z=2025-01-25&g=2025-01-25), van de Regeling informatievoorziening WPO/WEC
 
 ## Bijlage 4. behorende bij [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=4&artikel=14&z=2022-03-08&g=2022-03-08), van de Regeling informatievoorziening WPO/WEC
 
@@ -954,11 +954,11 @@ Deze functiecategorieën komen overeen met de functiecategorieën beschreven in 
 
 ### 3. Termijn voor aanlevering van de gegevens
 
-Het bevoegd gezag levert de personele gegevens, genoemd in de paragrafen 2.3.1 tot en met 2.3.4, 2.4.1 en 2.4.2, viermaal per jaar aan bij DUO:
+In de te leveren gegevens zijn alle mutaties verwerkt die van toepassing zijn op de situatie op de peilmaand en die gedurende een kalendermaand na de laatste kalenderdag van de peilmaand administratief zijn verwerkt. Gegevens die na die kalendermaand administratief zijn verwerkt, worden niet in de gegevenslevering verwerkt.
 
-### 4.2.3. Veranderingen van betrekkingsomvang in verband met vervanging
+### 4. Inhoudelijke uitwerking gegevensleveringen
 
-De jaarbestanden bevatten alle gegevens uit de paragrafen 2.3.1 tot en met 2.3.4 over een kalenderjaar. De gegevens zijn gegroepeerd per kalendermaand. Alle mutaties die van toepassing zijn op de gegevens van een bepaalde maand, zijn in de gegevens over die maand doorgevoerd. De jaarbestanden worden eenmaal per jaar aangeleverd, uiterlijk op 1 april van het jaar, volgend op het peiljaar (het jaar waarop de gegevens betrekking hebben).
+In dit hoofdstuk wordt de functionele uitwerking gegeven van de gegevensleveringen. De technische uitwerking is opgenomen in de documentatie op de site van DUO.
 
 In dit hoofdstuk wordt de functionele uitwerking gegeven van de gegevensleveringen. De technische uitwerking is opgenomen in de documentatie op de site van DUO.
 
@@ -968,11 +968,11 @@ In dit hoofdstuk wordt de functionele uitwerking gegeven van de gegevenslevering
 
 ### 4.3. Peilmaand en peildatum
 
-De in de paragrafen 2.3.1 tot en met 2.3.4, 2.4.1 en 2.4.2 beschreven gegevens moeten worden onderscheiden naar tijdvakken van één kalendermaand: de peilmaand.
+Voor de arbeidsrelaties die op de 1e kalenderdag van de peilmaand bestaan, worden de gegevens geleverd naar de stand op de 1e kalenderdag (de peildatum). Voor arbeidsrelaties die in de loop van de peilmaand ontstaan, worden de gegevens geleverd naar de stand van de 1e kalenderdag waarop de arbeidsrelatie is ingegaan.
 
 Voor de werktijdfactor, de bapofactor en de omvang verlof wordt steeds de gewogen gemiddelde omvang over de peilmaand geleverd.
 
-### 5. Wijze van aanlevering
+### 4.9. Maand waarop betrekking
 
 ### 4.9. Maand waarop betrekking
 
@@ -980,7 +980,7 @@ Voor de werktijdfactor, de bapofactor en de omvang verlof wordt steeds de gewoge
 
 ## Bijlage 7. behorende bij [artikel 14, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=4&artikel=14&z=2020-07-01&g=2020-07-01), van de Regeling informatievoorziening WPO/WEC
 
-Als de verwerking is afgerond ontvangt de contactpersoon via e-mail een bericht dat er een terugkoppeling gereed staat op de beveiligde site. In die terugkoppeling staat aangegeven of de levering al dan niet correct verwerkt is en welke signalen zijn opgetreden.
+Voor technische specificaties wordt verwezen naar het Memo ‘Standaardlevering personeelsgegevens’ dat via de website van DUO (https://duo.nl/zakelijk/primair-onderwijs/personeel/levering-personeelsgegevens.jsp) beschikbaar is.
 
 Als de verwerking is afgerond ontvangt de contactpersoon via e-mail een bericht dat er een terugkoppeling gereed staat op de beveiligde site. In die terugkoppeling staat aangegeven of de levering al dan niet correct verwerkt is en welke signalen zijn opgetreden.
 
@@ -1002,15 +1002,15 @@ Formaat: N5
 
 De toedeling van de functie aan een van de volgende categorieën:
 
-### 4. Inhoudelijke uitwerking gegevensleveringen
-
-In dit hoofdstuk wordt de functionele uitwerking gegeven van de gegevensleveringen. De technische uitwerking is opgenomen in de documentatie op de site van DUO.
-
-### 4.1. Arbeidsrelatie versus benoeming
+### 4.1.1. Benoemingen bij meer dan één instelling
 
 Een bevoegd gezag kan een persoon benoemen om bij één instelling of bij meer instellingen werkzaam te zijn. Als er sprake is van een benoeming waarbij de benoemde bij meer dan één instelling van een bevoegd gezag werkzaam is, dan is er in het kader van dit PvE sprake van meer dan één arbeidsrelatie. Dit ongeacht of er voor de werkzaamheden aan de verschillende instellingen één dan wel verschillende aktes van benoeming dan wel arbeidsovereenkomsten zijn opgemaakt. Er moeten ten minste evenveel arbeidsrelaties worden onderscheiden als het aantal instellingen waar een persoon werkzaam is. De gegevens die op basis van het PvE personeel en salarisgegevens geleverd moeten worden, moeten voor elke arbeidsrelatie afzonderlijk worden geregistreerd en geleverd.
 
-Voor de arbeidsrelaties die op de 1e kalenderdag van de peilmaand bestaan, worden de gegevens geleverd naar de stand op de 1e kalenderdag (de peildatum). Voor arbeidsrelaties die in de loop van de peilmaand ontstaan, worden de gegevens geleverd naar de stand van de 1e kalenderdag waarop de arbeidsrelatie is ingegaan.
+### 4.1.2. Benoemingen in meer dan één functie
+
+Een verandering van functie leidt voor de gegevensleveringen altijd tot beëindiging van de arbeidsrelatie die betrekking heeft op de oude functie en het begin van een nieuwe arbeidsrelatie.
+
+Voor de werktijdfactor, de bapofactor en de omvang verlof wordt steeds de gewogen gemiddelde omvang over de peilmaand geleverd.
 
 ### 4.7. Begin- en einddatum
 
@@ -1036,7 +1036,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Het verzuim dient per dagdeel geregistreerd te worden en bevat van iedere leerling de volgende gegevens:
 
-## Bijlage 3. behorende bij [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=3&artikel=12&z=2025-01-01&g=2025-01-01) van de Regeling informatievoorziening WPO/WEC
+## Bijlage 3. behorende bij [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=3&artikel=12&z=2025-01-25&g=2025-01-25) van de Regeling informatievoorziening WPO/WEC
 
 Vervallen
 
@@ -1046,13 +1046,13 @@ Onderscheiden worden de volgende gegevens:
 
 ### 2.4. Domeinen
 
-## Bijlage 5. behorende bij [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=4&artikel=14&z=2025-01-01&g=2025-01-01), van de Regeling informatievoorziening WPO/WEC
+## Bijlage 5. behorende bij [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=4&artikel=14&z=2025-01-25&g=2025-01-25), van de Regeling informatievoorziening WPO/WEC
 
 ### PvE Financiële gegevens
 
 Het bevoegd gezag levert jaarlijks uiterlijk 30 juni over het voorafgaande kalenderjaar aan DUO:
 
-## Bijlage 6. behorende bij [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=4&artikel=14&z=2025-01-01&g=2025-01-01), van de Regeling informatievoorziening WPO/WEC
+## Bijlage 6. behorende bij [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=4&artikel=14&z=2025-01-25&g=2025-01-25), van de Regeling informatievoorziening WPO/WEC
 
 ### 1.2. Wettelijke basis voor de levering
 
@@ -1062,7 +1062,7 @@ Het bevoegd gezag levert jaarlijks uiterlijk 30 juni over het voorafgaande kalen
 
 De toedeling van de functie aan een van de volgende categorieën:
 
-In de te leveren gegevens zijn alle mutaties verwerkt die van toepassing zijn op de situatie op de peilmaand en die gedurende een kalendermaand na de laatste kalenderdag van de peilmaand administratief zijn verwerkt. Gegevens die na die kalendermaand administratief zijn verwerkt, worden niet in de gegevenslevering verwerkt.
+De jaarbestanden bevatten alle gegevens uit de paragrafen 2.3.1 tot en met 2.3.4 over een kalenderjaar. De gegevens zijn gegroepeerd per kalendermaand. Alle mutaties die van toepassing zijn op de gegevens van een bepaalde maand, zijn in de gegevens over die maand doorgevoerd. De jaarbestanden worden eenmaal per jaar aangeleverd, uiterlijk op 1 april van het jaar, volgend op het peiljaar (het jaar waarop de gegevens betrekking hebben).
 
 ### 4. Inhoudelijke uitwerking gegevensleveringen
 
@@ -1073,5 +1073,17 @@ In de te leveren gegevens zijn alle mutaties verwerkt die van toepassing zijn op
 Omdat een persoon met hetzelfde bevoegde gezag meer dan één arbeidsrelatie kan hebben (gelijktijdig of volgtijdelijk), wordt er een volgnummer geleverd. Dit volgnummer is nodig om de gegevens uit verschillende leveringen steeds aan de juiste arbeidsrelatie te kunnen verbinden. Dit volgnummer dient over de leveringen heen dezelfde arbeidsrelatie met het bevoegde gezag te identificeren. Indien binnen een administratie per arbeidsrelatie een nieuw personeelsnummer wordt toegekend, mag dit personeelsnummer als volgnummer worden gebruikt. Het burgerservicenummer identificeert iedere persoon uniek binnen de administratie en de levering.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### 4.2. Vervanging
+
+Als iemand wordt benoemd als tijdelijke vervanging van een personeelslid dat afwezig is, wordt dit aangegeven door bij de aard arbeidsrelatie de code 3 te vermelden.
+
+### 4.11. Begin en einde verlofperiode
+
+## Bijlage 7. behorende bij [artikel 14, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=4&artikel=14&z=2025-01-25&g=2025-01-25), van de Regeling informatievoorziening WPO/WEC
+
+Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
