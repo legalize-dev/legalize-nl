@@ -4,7 +4,7 @@ identifier: "BWBR0038543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-23"
-last_updated: "2024-10-19"
+last_updated: "2025-01-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038543"
 soort: "ministeriele-regeling"
@@ -44,11 +44,11 @@ Besluit:
 
 ##### Artikel 1. Certificaten keuzedelen
 
-Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2024-10-19&g=2024-10-19) bij deze regeling.
+Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2025-01-25&g=2025-01-25) bij deze regeling.
 
 ##### Artikel 2. Certificaat voor beroepsgerichte onderdelen
 
-Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2024-10-19&g=2024-10-19).
+Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2025-01-25&g=2025-01-25).
 
 ##### Artikel 3. Inwerkingtreding
 
@@ -126,7 +126,7 @@ Er is een certificaat verbonden aan de volgende keuzedelen:
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=1&z=2024-10-19&g=2024-10-19)
+## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=1&z=2025-01-25&g=2025-01-25)
 
 | k-code | naam keuzedeel |
 | --- | --- |
@@ -454,10 +454,14 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 |   |   |
 | **Certificaat voor keuzedelen vanaf oktober 2024** | **Certificaat voor keuzedelen vanaf oktober 2024** |
 | K1383 | Bewegend kind |
+|   |   |
+| **Certificaten voor keuzedelen vanaf januari 2025** | **Certificaten voor keuzedelen vanaf januari 2025** |
+| K1470 | Installatie en onderhoud van elektrische voortstuwingssystemen van kleine vaartuigen |
+| K1453 | Grote meetinstallaties drinkwater |
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=2&z=2024-10-19&g=2024-10-19)
+## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=2&z=2025-01-25&g=2025-01-25)
 
 | c-code | Naam certificaat | opleidingscode | naam kwalificatie |
 | --- | --- | --- | --- |
@@ -642,6 +646,15 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 | C0173 | Bewaken en optimaliseren versproductieproces | 25567 | Allround medewerker versindustrie |
 | C0174 | Leidinggeven in de versindustrie | 25566 | Productieleider versindustrie |
 | C0176 | Specialisatie dekvloeren | 25943 | Dekvloerenlegger |
+|   |   |   |   |
+| **Certificaten voor beroepsgerichte onderdelen vanaf januari 2025** | **Certificaten voor beroepsgerichte onderdelen vanaf januari 2025** | **Certificaten voor beroepsgerichte onderdelen vanaf januari 2025** | **Certificaten voor beroepsgerichte onderdelen vanaf januari 2025** |
+| C0178 | Activiteiten inzetten binnen sociaal werk | 25958 | Sociaal werker (Gewijzigd 2024) |
+| C0179 | Basiswerkzaamheden in de versindustrie | 25568 | Medewerker versindustrie (Gewijzigd 2017) |
+| C0180 | Basiswerkzaamheden installeren werktuigkundige installaties | 25350 | Monteur werktuigkundige installaties (Gewijzigd 2022) |
+| C0181 | Be- en verwerken van versproducten | 25568 | Medewerker versindustrie (Gewijzigd 2017) |
+| C0182 | Organiseren en bewaken van het versproductieproces | 25566 | Productieleider versindustrie (Gewijzigd 2017) |
+| C0183 | Praktische ondersteuning bij dagelijks functioneren | 25958 | Sociaal werker (Gewijzigd 2024) |
+| C0185 | Versterken van de sociale basis | 25958 | Sociaal werker (Gewijzigd 2024) |
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
